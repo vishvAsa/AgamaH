@@ -64,22 +64,22 @@ Let us now begin by looking at the extremes that reject or contradict this unity
 - 9. I have emended the edition’s nirgranthānārthavāda- to nirgranthānātmavādi-, since anārthavāda yields no meaning, while anātmavādi- ‘denier of the self’ yields a meaning fully apposite to the context, defining Buddhists as it does in terms of the doctrine that most starkly differentiates from them all  other Indian religious traditions. 
 
 
-Similarly, the seventh-century Mīmāṁsaka Kumārila declares: 10 
+Similarly, the seventh-century Mīmāṁsaka Kumārīla declares: 10 
 
 - 10. Tantravārttika, vol. 1, pp. 114, ll. 20–115, l. 6, on 1.3.3–4. 
 
 > The texts that may not be drawn on, because they contradict the Veda and  
 because we can detect their [base] motives, are, we are taught, [the following. Firstly they are] these well-known works of religion-cum-irreligion rejected by Vaidikas and accepted [as scriptures] by the Sāṁkhyas, the followers of the Yoga school, the Pāñcarātrika Vaiṣṇavas, the Pāśupatas,11 the Buddhists, and the Jainas. 
 
-11. By the time of Kumārila, an approximate contemporary of the Buddhist Dharmakīrti, who was active sometime between c. 550 and 650, the Śaiva Mantramārga was well enough established to attract trenchant criticism from the latter. Its earliest scriptural texts go back to the fifth to sixth centuries, inscriptions recording the initiation of kings following its procedures are attested from the seventh onwards, and epigraphical evidence of its monastic institutions goes back to the late sixth (Sander son 2013b, pp. 235–236). It is extremely improbable, therefore, that Kumārila was familiar only with  the Atimārga and not also with the Mantramārga. I am therefore inclined to think that he is using the  term Pāśupata here to cover the Pāśupatas and all subsequent Śaiva developments up to his time, understanding it as meaning ‘one who follows what has been taught by Paśupati’, where Paśupati is to be understood simply as a synonym of Śiva (see, e.g., Nāmaliṅgānuśāsana 1.1.130–134). The same  will apply to Medhātithi’s use of the term Pāśupata in my preceding citation. Both authors are perhaps using what they considered to be the properly Vaidika expression for the teachings of Śiva, following  Mahābhārata 12.337.59ab: sāṁkhyaṁ yogaṁ pañcarātraṁ vedāḥ pāśupataṁ tathā.  
+11. By the time of Kumārīla, an approximate contemporary of the Buddhist Dharmakīrti, who was active sometime between c. 550 and 650, the Śaiva Mantramārga was well enough established to attract trenchant criticism from the latter. Its earliest scriptural texts go back to the fifth to sixth centuries, inscriptions recording the initiation of kings following its procedures are attested from the seventh onwards, and epigraphical evidence of its monastic institutions goes back to the late sixth (Sander son 2013b, pp. 235–236). It is extremely improbable, therefore, that Kumārīla was familiar only with  the Atimārga and not also with the Mantramārga. I am therefore inclined to think that he is using the  term Pāśupata here to cover the Pāśupatas and all subsequent Śaiva developments up to his time, understanding it as meaning ‘one who follows what has been taught by Paśupati’, where Paśupati is to be understood simply as a synonym of Śiva (see, e.g., Nāmaliṅgānuśāsana 1.1.130–134). The same  will apply to Medhātithi’s use of the term Pāśupata in my preceding citation. Both authors are perhaps using what they considered to be the properly Vaidika expression for the teachings of Śiva, following  Mahābhārata 12.337.59ab: sāṁkhyaṁ yogaṁ pañcarātraṁ vedāḥ pāśupataṁ tathā.  
 
 > These hide in the shadow cast by a screen of pious observance containing some elements of the Veda’s teaching; but their real purpose is to win  
 social approval, wealth, veneration, and fame. They are contrary to the Veda  and incoherent. The greed and other [vices of their authors] are manifest.  They have been composed on the basis of arguments framed within the limits  of [the means of non-transcendental knowledge, namely] sense-perception,  inference, analogy, and presumption. They are perfumed with the fragrance of  a handful of teachings congruent with Śruti and Smr̥ti, [advocating such virtues as] non-violence, truthfulness, self-control, generosity, and compassion;  but [at the same time] they propagate teachings of a quite different nature, teachings that are little more than means of making a living, by demonstrating the occasional successes of a handful of spells and herbs able to counteract  the effects of poison, to subject people, to drive them out, to drive them mad, and so forth. And [secondly they are] the works even more remote [from the  
 Veda] (bāhyatarāṇi) that prescribe [observances] that are contaminated by  
 [culturally alien] practices proper to barbarians (mlecchācāramiśra-), such as eating from a skull-bowl (kabhojana-) and wandering naked (nagnacaraṇa-).12 
 
-- 12. Here I propose that Kumārila wrote mlecchācāra-miśra-kabhojana-nagnacaraṇādi rather the edition’s reading mlecchācāra-miśra-kabhojana-nagnācaraṇa, and, as my translation shows, I analyse this compound as mlecchācāramiśra-kabhojana-nagnacaraṇādi, taking ka- in the meaning ‘human head’, ‘skull’ (syn. kapālam) (see, e.g., Abhidhānaratnamālā 5.61). In this I am swayed by the testimony of a  parallel discussion in Medhātithi, Manubhāsya on 2.6: syāt tādr̥śī vedaśākhā yasyām ayaṁ narāsthip ātra-bhojana-nagnacaryādir upadiṣṭo bhavet, ‘There might well be a branch of the Veda [now defunct]  which is such that in it such [practices] as eating from a vessel made from a human skull and wandering naked might have been prescribed’. Jhā (1924) did not see the reference to the skull-bowl users here, dividing the compound as mlecchācāramiśraka-bhojana-ācaraṇa and translating it as follows: ‘absolutely repugnant practices fit for Mlecchas, such as the eating together of many persons, and the like’.  Similarly Kataoka 2011, pt 2, p. 351: ‘barbarian customs, i.e. the practice of eating together’. Evidently  this ‘eating together’ renders Kumārila’s miśrakabhojana-. I argue against this interpretation in detail  in my forthcoming Śaivism and Brahmanism. Those who ate from a bowl fashioned from a human skull  were the ascetics of the Lākula and Kāpālika traditions of the Atimārga and, in the Mantramārga and  Kulamārga, persons engaged in the propitiation of Bhairava and/or Cāmuṇḍā/Kālī through the practice of the Kāpālika observance. On the three Mārgas (Ati-, Mantra, and Kula-) see Sanderson 2014.
-  - Kumārila’s and Medhātithi’s ‘wandering naked’ (nagnacaraṇam, nagnacaryā) probably refers to the  practice of wandering Jaina mendicant ascetics. See also Medhātithi on 4.30: ‘The pāṣaṇḍinaḥ are the red-robed, the naked wanderers, and others, who adopt the insignia [of religious observances] that are  outside [the Veda]’ (pāṣaṇḍino bāhyaliṅgino raktapaṭanagnacarakādayaḥ). The expression ‘red-robed’ (raktapaṭaḥ) is commonly used as a somewhat undignified term for Buddhists in non-Buddhist sources, as in Āgamaḍambara, prose before 1.17 (bho raktapaṭa) and 3.26 (raktapaṭocchiṣṭaṁ), and Śaṇkara,  Brahmasūtrabhāsya on 2.2.35, and the pairing of Buddhists and Jainas is standard. 
+- 12. Here I propose that Kumārīla wrote mlecchācāra-miśra-kabhojana-nagnacaraṇādi rather the edition’s reading mlecchācāra-miśra-kabhojana-nagnācaraṇa, and, as my translation shows, I analyse this compound as mlecchācāramiśra-kabhojana-nagnacaraṇādi, taking ka- in the meaning ‘human head’, ‘skull’ (syn. kapālam) (see, e.g., Abhidhānaratnamālā 5.61). In this I am swayed by the testimony of a  parallel discussion in Medhātithi, Manubhāsya on 2.6: syāt tādr̥śī vedaśākhā yasyām ayaṁ narāsthip ātra-bhojana-nagnacaryādir upadiṣṭo bhavet, ‘There might well be a branch of the Veda [now defunct]  which is such that in it such [practices] as eating from a vessel made from a human skull and wandering naked might have been prescribed’. Jhā (1924) did not see the reference to the skull-bowl users here, dividing the compound as mlecchācāramiśraka-bhojana-ācaraṇa and translating it as follows: ‘absolutely repugnant practices fit for Mlecchas, such as the eating together of many persons, and the like’.  Similarly Kataoka 2011, pt 2, p. 351: ‘barbarian customs, i.e. the practice of eating together’. Evidently  this ‘eating together’ renders Kumārīla’s miśrakabhojana-. I argue against this interpretation in detail  in my forthcoming Śaivism and Brahmanism. Those who ate from a bowl fashioned from a human skull  were the ascetics of the Lākula and Kāpālika traditions of the Atimārga and, in the Mantramārga and  Kulamārga, persons engaged in the propitiation of Bhairava and/or Cāmuṇḍā/Kālī through the practice of the Kāpālika observance. On the three Mārgas (Ati-, Mantra, and Kula-) see Sanderson 2014.
+  - Kumārīla’s and Medhātithi’s ‘wandering naked’ (nagnacaraṇam, nagnacaryā) probably refers to the  practice of wandering Jaina mendicant ascetics. See also Medhātithi on 4.30: ‘The pāṣaṇḍinaḥ are the red-robed, the naked wanderers, and others, who adopt the insignia [of religious observances] that are  outside [the Veda]’ (pāṣaṇḍino bāhyaliṅgino raktapaṭanagnacarakādayaḥ). The expression ‘red-robed’ (raktapaṭaḥ) is commonly used as a somewhat undignified term for Buddhists in non-Buddhist sources, as in Āgamaḍambara, prose before 1.17 (bho raktapaṭa) and 3.26 (raktapaṭocchiṣṭaṁ), and Śaṇkara,  Brahmasūtrabhāsya on 2.2.35, and the pairing of Buddhists and Jainas is standard. 
 
 Concluding his argument he points out that greed and other such base urges  
 (lobhādi) are a sufficient explanation of the source of all these traditions, and that they themselves make no claim to be Veda-based (vedamūlatvam). So, he says, it is these that are referred to by Manu when he speaks of followers of forbidden religious  practices (pāṣaṇḍinaḥ) and rules that they should not be honoured even with speech:13 
@@ -194,791 +194,266 @@ suppressed, and the Vaidika camp is too weak, and impoverished, to lobby success
 ## The Śaivas’ Inclusivist View of Their Own and the Vaidikas’ Religion 
 As for the Śaivas, they likewise seem to undermine the unity of Hinduism by insisting not merely on the validity of their own scriptures but also on their superiority to the Vaidika scriptures and indeed to the scriptures of all non-Śaiva systems. This was already so in the earliest known Śaiva initiatory system, that of the  Pāñcārthika Pāśupatas of the Atimārga, whose ascetic initiates were to see themselves as having severed all ties with the Vaidika religion, leaving behind their former obligations to the gods and ancestors to focus their devotion on Śiva/ Rudra alone;33 and it continued to be so in the Mantramārga, even though this  later form of the religion, in evidence from about 450–550 onwards, expanded  the community of the initiated beyond that of ascetics, important though they  continued to be, by opening up initiation to householders, allowing them, indeed requiring them, to remain in this status after they had received initiation. 
 
-It might appear, therefore, that Śaivism was as much distinct from, and  opposed to, the religion of the Vaidikas as the latter was to the former and as  both were to Buddhism and Jainism. However, while the Śaivas thought their  scriptures superior to the Vaidikas’ and the Vaidikas thought their own superior, the two traditions’ views of each other were not symmetrical, not at least  where the Śaivas of the Mantramārga were concerned, these alone having left  us adequate evidence of their views on this issue. For while most Vaidika theoreticians during this period condemned the Śaiva scriptures as false, the Śaivas  of the Mantramārga held unanimously that the Śruti and Smr̥ti of Brahmanism are universally and uniquely valid in their own sphere, that of prescribing the conduct and religious observance obligatory for persons in their identity as mar ried and unmarried members of the caste-classes (varṇāśramadharmaḥ), and that as such they are man’s sole means of valid knowledge both of all actions (karma)  that benefit and harm the soul’s destiny in the domain of recurrent incarnation (samṣāraḥ) and of the nature of the consequences of these actions, from the rewards of the heavens to the tortures of the hells. 
+33. See, e.g., Kauṇḍinya, Pañcārthabhāṣya on 2.9: ‘This brahmin’s qualification and obligation to make  offerings to the gods and his ancestors applied [only] before [his initiation]. Therefore he should [now]  withdraw devotion from these gods and ancestors and in place of both fix his heart on Maheśvara and  worship him and no other. The word ca here [in pitr̥vac ca] expresses prohibition. It implies that the  reason why he should no longer make offerings to the [other] gods and his ancestors is that they lack  the agency that he used to attribute to them.’ 
 
-Nor did they deny the reality of Brahmanism’s goal, that of liberation  
 
-33. See, e.g., Kauṇḍinya, Pañcārthabhāṣya on 2.9: ‘This brahmin’s qualification and obligation to make  
-offerings to the gods and his ancestors applied [only] before [his initiation]. Therefore he should [now]  
-withdraw devotion from these gods and ancestors and in place of both fix his heart on Maheśvara and  
-worship him and no other. The word ca here [in pitr̥vac ca] expresses prohibition. It implies that the  
-reason why he should no longer make offerings to the [other] gods and his ancestors is that they lack  
-the agency that he used to attribute to them.’ 
-170 
-33211 Honoris Causa 3P.indd 170 11/18/15 5:22 PM
-tolerance, exclusivity, inclusivity, and persecution . . . 
-(mokṣaḥ), offered to those who aspired to escape recurrent incarnation through  
-knowledge, unmotivated obedience to ritual injunctions, or both. They denied  
-only that it was ultimate, holding that true, definitive liberation lay beyond it and  
-could be reached through Śaivism alone, by undergoing initiation in the pres 
-ence of the Maṇḍala of Śiva (śivamaṇḍaladīkṣā) and then following the Śaiva ritual  
-and meditative disciplines, or, in the case of those prevented by incapacity or so 
-cial responsibilites from taking up those disciplines, notably their royal patrons,  
-through initiation followed by fervent devotion manifest in support of the Śaiva  
-religion and its institutions. 
-Nor was the validity of the Vaidika scriptures irrelevant to the Śaivas within  
-their own world of Śaiva rites and belief. Indeed Sadyojyotis, who is much the  
-earliest of the commentators on the Śaiva scriptures whose works have reached  
-us – he flourished sometime between the second half of the seventh century and  
-the beginning of the ninth, probably no later than the first half of the eighth34 –  
-insisted that the defence of the validity of the Vaidika scriptures (Śruti and Smr̥ti)  
-is essential to a belief in the validity of the scriptures of the Śaivas themselves. 
-He offered two cogent reasons. The first is that if the Vaidika scriptures were  
-not the source of valid knowledge in their domain, as the Buddhists and Jains insist,  
-then Śaivism’s central claim that it frees the initiate from the cosmic hierarchy of the  
-levels of incarnation would be empty. Śaivas must believe that the Vaidika scripural  
-corpus is valid because the initiation rituals prescribed in their scriptures and per 
-formed by Śiva himself through their officiants bring about the progressive freeing  
-of the soul from a cosmos created and maintained for and by the enactment and con 
-sequences of meritorious and demeritorious actions, and these actions, as we have  
-seen, are held by the Śaivas to be good and bad on the authority of the Veda alone. 
-The second reason – and it is this that is more weighty in an assessment of  
-the lived relations between Śaivism and Vaisika orthopraxy – is that the Mantra 
-mārga’s scriptures themselves insist that the rules of the Vaidika socio-religious  
-order are binding on Śaiva initiates. Śaivas were subject to that order at the time  
-34. See Sanderson 2007a. 
-171 
-33211 Honoris Causa 3P.indd 171 11/18/15 5:22 PM
-Honoris Causa 
-of their initiation, and to the extent that they chose to continue to live within it  
-after their initiation they were enjoined to continue to adhere to its rules.35 
-That the Śaiva scriptures do indeed require this conformity is well illustrated  
-in the following passage, much cited by the commentators: 
-So he should not transgress (na laṅghayet) the practices of his caste-class and  
-[Vaidika] discipline (varṇāśramācārān) even in thought (manasāpi). He should  
-remain (tiṣṭhet) in the discipline (āśrame) in which he was when he was initi ated into the Śaiva religion (dīkṣitaḥ śivaśāsane) and [at the same time] main tain the ordinances of Śiva (śivadharmaṁ ca pālayet).36 
+It might appear, therefore, that Śaivism was as much distinct from, and  opposed to, the religion of the Vaidikas as the latter was to the former and as  both were to Buddhism and Jainism. However, while the Śaivas thought their  scriptures superior to the Vaidikas’ and the Vaidikas thought their own superior, the two traditions’ views of each other were not symmetrical, not at least  where the Śaivas of the Mantramārga were concerned, these alone having left  us adequate evidence of their views on this issue. For while most Vaidika theoreticians during this period condemned the Śaiva scriptures as false, the Śaivas  of the Mantramārga held unanimously that the Śruti and Smr̥ti of Brahmanism are universally and uniquely valid in their own sphere, that of prescribing the conduct and religious observance obligatory for persons in their identity as married and unmarried members of the caste-classes (varṇāśramadharmaḥ), and that as such they are man’s sole means of valid knowledge both of all actions (karma)  that benefit and harm the soul’s destiny in the domain of recurrent incarnation (samsāraḥ) and of the nature of the consequences of these actions, from the rewards of the heavens to the tortures of the hells. 
+
+Nor did they deny the reality of Brahmanism’s goal, that of liberation  (mokṣaḥ), offered to those who aspired to escape recurrent incarnation through  knowledge, unmotivated obedience to ritual injunctions, or both. They denied  only that it was ultimate, holding that true, definitive liberation lay beyond it and  could be reached through Śaivism alone, by undergoing initiation in the presence of the Maṇḍala of Śiva (śivamaṇḍala-dīkṣā) and then following the Śaiva ritual  and meditative disciplines, or, in the case of those prevented by incapacity or social responsibilites from taking up those disciplines, notably their royal patrons,  through initiation followed by fervent devotion manifest in support of the Śaiva  religion and its institutions. 
+
+Nor was the validity of the Vaidika scriptures irrelevant to the Śaivas within  their own world of Śaiva rites and belief. Indeed Sadyojyotis, who is much the  earliest of the commentators on the Śaiva scriptures whose works have reached  us – he flourished sometime between the second half of the seventh century and  the beginning of the ninth, probably no later than the first half of the eighth 34 –  insisted that the defence of the validity of the Vaidika scriptures (Śruti and Smr̥ti)  is essential to a belief in the validity of the scriptures of the Śaivas themselves. He offered two cogent reasons. 
+
+- 34. See Sanderson 2007a. 
+
+The first is that if the Vaidika scriptures were  not the source of valid knowledge in their domain, as the Buddhists and Jains insist,  then Śaivism’s central claim that it frees the initiate from the cosmic hierarchy of the  levels of incarnation would be empty. Śaivas must believe that the Vaidika scripural  corpus is valid because the initiation rituals prescribed in their scriptures and performed by Śiva himself through their officiants bring about the progressive freeing  of the soul from a cosmos created and maintained for and by the enactment and consequences of meritorious and demeritorious actions, and these actions, as we have seen, are held by the Śaivas to be good and bad on the authority of the Veda alone. 
+
+The second reason – and it is this that is more weighty in an assessment of  the lived relations between Śaivism and Vaisika orthopraxy – is that the Mantramārga’s scriptures themselves insist that the rules of the Vaidika socio-religious  order are binding on Śaiva initiates. Śaivas were subject to that order at the time  of their initiation, and to the extent that they chose to continue to live within it  after their initiation they were enjoined to continue to adhere to its rules.35 
+
+
+- 35. For this argument see Sadyojyotis, Nareśvaraparīkṣā, 3.74–76. I have emended yatnaṁ sarvaṁ karoti in 74b to yatnaṁ sarvaḥ karoti following Bhaṭṭa Rāmakaṇṭha’s paraphrase in his commentary:  sarveṇa . . . yatno vidheyaḥ. 
+
+That the Śaiva scriptures do indeed require this conformity is well illustrated  in the following passage, much cited by the commentators: So he should not transgress (na laṅghayet) the practices of his caste-class and  [Vaidika] discipline (varṇāśramācārān) even in thought (manasāpi). He should  remain (tiṣṭhet) in the discipline (āśrame) in which he was when he was initi ated into the Śaiva religion (dīkṣitaḥ śivaśāsane) and [at the same time] main tain the ordinances of Śiva (śivadharmaṁ ca pālayet).36 
+
+- 36. This passage is cited, for example, by Bhaṭṭa Rāmakaṇṭha, in his commentary on Nareśvaraparīkṣā 3.76. His father, Bhaṭṭa Nārāyaṇakaṇṭha, cites it in his commentary on Mr̥gendratantra, Vidyāpada p. 63,  ll. 13–15, attributing to the Bhārgavottara, which has not, to my knowledge, survived. 
+
 There is another respect in which the Vaidikas’ view of Śaivism and the Śai 
-vas’ view of Vaidika religion were asymmetrical. For while the Vaidika tradition  
-made no attempt to justify its validity in Śaiva terms, the Śaivas, in their eager 
-ness to establish themselves in what was by that time a fundamentally brahman 
-ical society, attempted to persuade the orthoprax that the Śaiva corpus was valid  
-not only because it recognized the Vaidika ordinances as binding on all including  
-the Śaivas themselves but also by attempting to undermine the Vaidikas’ attacks  
-on the legitimacy of their religious practices by pointing to the abundant evidence  
-of the promotion of the worship of Rudra or Śiva, by then considered one and the  
-same, that is found both in Śruti texts and in the secondary Vaidika scriptures. 
-Thus in his commentary on the Mr̥gendratantra the tenth-century Kash mirian Saiddhāntika Bhaṭṭa Nārāyaṇakaṇṭha cites the presence of such practices  
-in the traditions of all four Vedas. The passage on which he is commenting is the  
-narrative introduction to the Tantra.37 In the hermitage of Badarī, Bharadvāja  
-35. For this argument see Sadyojyotis, Nareśvaraparīkṣā, 3.74–76. I have emended yatnaṁ sarvaṁ karoti in 74b to yatnaṁ sarvaḥ karoti following Bhaṭṭa Rāmakaṇṭha’s paraphrase in his commentary:  
-sarveṇa . . . yatno vidheyaḥ. 
-36. This passage is cited, for example, by Bhaṭṭa Rāmakaṇṭha, in his commentary on Nareśvaraparīkṣā 
-3.76. His father, Bhaṭṭa Nārāyaṇakaṇṭha, cites it in his commentary on Mr̥gendratantra, Vidyāpada p. 63,  
-ll. 13–15, attributing to the Bhārgavottara, which has not, to my knowledge, survived. 
-37. Vidyāpāda 1.2–6. 
-172 
-33211 Honoris Causa 3P.indd 172 11/18/15 5:22 PM
-tolerance, exclusivity, inclusivity, and persecution . . . 
-and other sages install an image of Śiva and undertake asceticism before it. The  
-god Indra comes to the hermitage and asks them why they are not following the  
-religion of the Veda (codanādharmaḥ). They reply that the method of propiti ating Śiva with asceticism that they are following is indeed Vaidika and point  
-out (v. 6) that the Veda contains Mantras whose deity is Rudra and procedures  
-for causing him to come into one’s presence. In his commentary on this verse  
-Bhaṭṭa Nārāyaṇakaṇṭha elaborates, citing a six-month-long ascetic procedure for  
-the summoning of Rudra into the propitiator’s presence taught in the now lost  
-Rudrakalpa that was a supplement (Pariśiṣṭa) of the Śrautasūtra of the Kāṭhaka  
-Yajurvedins, the use of the long Yajurvedic litany known as the Eleven Rudras  
-(rudraikādaśinī saṁhitā), probably its recitation while one inundates the Liṅga  
-(rudrābhiṣekaḥ), a practice still current among the Taittirīya Yajurvedins in the  
-Śiva temples of South India, sacrificial procedures using Mantras and chants of  
-the r̥gveda and Sāmaveda found in the r̥gvidhāna and Sāmavidhāna, and proce dures for the propitiation of Rudra found in the Atharvavedic corpus. 
-Similarly, in his commentary on Sadyojyotis’s Mokṣakārikā Bhaṭṭa  
-Nārāyaṇakaṇṭha’s son Bhaṭṭa Rāmakaṇṭha turns to the corpus of secondary  
-Vaidika scriptures, arguing that these contain abundant historical evidence that  
-Śaivism was accepted by venerable figures of remote antiquity whose standing as  
-men learned in the Veda is beyond question. He cites the rule that Śaivas must  
-remain in their castes and life-disciplines, not transgressing the ordinances of  
-those institutions even in thought, and then addresses the Vaidikas as follows:38 
-So this [teaching of Śiva] is not a forbidden form of religion (na pāṣaṇḍatvam)  
-even from your point of view [as Vaidikas]. This is because it does not conflict  
-with the Vedas, and because there is [Vaidika] scriptural evidence that it was  
-accepted by men learned in the Vedas. In the Purāṇas, the Mahābhārata,  
-and the like we learn that Śveta, Upamanyu, and other great sages under 
-took religious practice within this [teaching of Śiva]. In the [Mahā]bhārata  
-we learn that Nara, Nārāyaṇa [=Arjuna and Vāsudeva], and Aśvatthāman  
-38. Mokṣakārikāvr̥tti on v. 146ab. 
-173 
-33211 Honoris Causa 3P.indd 173 11/18/15 5:22 PM
-Honoris Causa 
-did the same, in the words ‘The god that you [Aśvatthāman] have worshipped  
-in an anthropomorphic image in every age those two have worshipped in the  
-Liṅga,’39 and also that it was by propitiating Śiva that the Lord Vāsudeva  
-achieved his goal in Suvarṇākṣa, as is related in the verse ‘O Kr̥ṣṇa, you will  
-be the man most dear to me in the world; and the whole world will turn to  
-face you [in adoration]. Of this there is no doubt,’ [and Paraśurāma received  
-the axe with which he slew Kārtavīrya.] 40 Moreover in the Smr̥tis we have  
-references to such pious acts for the benefit of the public (pūrto dharmaḥ)  
-as that of establishing a temple [of Śiva, as in] ‘He who makes a temple of  
-Śiva, built with baked bricks’ 41 and ‘in pious acts for the benefit of the public  
-one should know [that the reward is] liberation.’ 42 Then there is the evidence  
-of our own eyes in the form of the Pr̥thukeśvara [of Pr̥thu], the Rāmeśvara  
-[of Rāma], and [many] other [Śivas that have been installed in temples by  
-exemplary Vaidikas in ancient times]. Furthermore, the Veda confirms the  
-validity of the teaching of Śiva in such Upaniṣads as the Śvetāśvatara and in  
-Mantra-texts such as the Atharvaśiras. So none of the [three] faults that would  
-entail the invalidity [of the Śaiva scripture] from your point of view applies:  
-there is no disagreement [concerning the omniscience of Śiva, the creator of  
-our scriptures], there is no lack of proof [of their validity], and they have not  
-been adopted by a small minority.43 
-39. Mahābhārata 7.172.86cd. 
-40. Mahābhārata 3.82.18; text and translation in brackets suspect at this point. 
-41. Source not located. 
-42. Varāhapurāṇa 170.33[c]d. The category of pious action termed pūrtam or pūrto dharmaḥ com prises such actions as establishing fountains, wells, step-wells, reservoirs, dams, and gardens, and  
-planting fruit trees and the like; the installing of deities; and the building and renovation of temples and  
-monasteries. See, e.g., Varāhapurāṇa 168.21; 170.33–58. 
-43. These three faults are specified by Kumārila in Ślokavārttika-Codanāsūtra 133 as reasons for re 
-jecting the Buddhists’ argument that their claim that the Buddha, the author of their scriptures, was  
-omniscient is proved by the existence of an unbroken tradition to that effect from his time to the  
-present. For a detailed discussion of this verse and the three that follow and their interpretation by  
-Kumārila’s commentators see Kataoka 2011, pt. 2, pp. 358–366. 
-174 
-33211 Honoris Causa 3P.indd 174 11/18/15 5:22 PMtolerance, exclusivity, inclusivity, and persecution . . . 
-So Mantramārgic Śaivism, while claiming to transcend Brahmanism by offer 
-ing true liberation, was nonetheless closely tied to it. It was the Vaidika world  
-rather than the Buddhist or the Jaina through which Śaivas rose to salvation; and  
-on their path thereto they continued to be bound by its rules, adding their Śaiva  
-obligations rather than substituting them for the Vaidika. They looked, more 
-over, to the Vaidika scriptural corpus to provide proof of the validity of their own  
-scriptures. The evidence adduced as proof is not cogent, since none of it refers to  
-the specific practices of initiatory Śaivism; it refers only to forms of propitiation  
-that had long been part of Vaidika observance. Nonetheless, the attempt reveals  
-the concern of the Saiddhāntikas to be considered valid by the adherents of the  
-Vaidika tradition that they claimed to rise above. 
-The Properly Śaiva Attitude of Śaivas  
-Towards Their Vaidika Rites 
-Now this extension from the purely Śaiva domain of the ascetic in the Atimārga  
-into the Vaidika domain of the Śaiva householder added in the Mantramārga  
-opened the door to a process of Śaiva-Vaidika hybridization, in which rites of  
-both kinds were maintained and co-ordinated without a proper sense of their  
-distinctness. The Śaivas’ theoreticians, aware that this development had the  
-potential to produce a blurring of the boundary between the two domains  
-that would undermine the faith of Śaivas in the independence and supremacy  
-of Śaivism, ruled that while initiated Śaiva householders were thus subject to  
-two bodies of injunction – both the Śaiva and the Vaidika – their attitude  
-towards adherence to the latter was to differ fundamentally from that of the  
-Vaidikas. 
-Two passages of early Saiddhāntika Śaiva scripture much cited by the com 
-mentators clarify this attitude. The first of these is in the Sarvajñānottara. In the  
-context of its prescription that only persons in two of the four Vaidika disciplines,  
-those of the unmarried scholar and the married householder, may be consecrated  
-as Śaiva officiants, it tells us that the Śaiva should maintain his Vaidika obser 
-vances after initiation but without believing that they are fully real. He is to do  
-them but without subjective commitment. He should not think that by accom 
-modating Vaidika rites beside the Śaiva he brings about a doubling of the benefit  
-175 
-33211 Honoris Causa 3P.indd 175 11/18/15 5:22 PM
-Honoris Causa 
-that he will derive or that if he were to omit them he would damage that benefit.  
-He is to see himself as acting in this regard not for his own advantage but so as  
-not to undermine through a pointless non-conformity the Vaidika order within  
-which Śaivism is embedded.44 
+vas’ view of Vaidika religion were asymmetrical. For while the Vaidika tradition  made no attempt to justify its validity in Śaiva terms, the Śaivas, in their eagerness to establish themselves in what was by that time a fundamentally brahmanical society, attempted to persuade the orthoprax that the Śaiva corpus was valid  not only because it recognized the Vaidika ordinances as binding on all including  the Śaivas themselves but also by attempting to undermine the Vaidikas’ attacks  on the legitimacy of their religious practices by pointing to the abundant evidence of the promotion of the worship of Rudra or Śiva, by then considered one and the same, that is found both in Śruti texts and in the secondary Vaidika scriptures. 
+
+Thus in his commentary on the Mr̥gendratantra the tenth-century Kash mirian Saiddhāntika Bhaṭṭa Nārāyaṇakaṇṭha cites the presence of such practices  in the traditions of all four Vedas. The passage on which he is commenting is the  narrative introduction to the Tantra.37 
+
+- 37. Vidyāpāda 1.2–6. 
+
+
+In the hermitage of Badarī, Bharadvāja and other sages install an image of Śiva and undertake asceticism before it. The god Indra comes to the hermitage and asks them why they are not following the religion of the Veda (codanādharmaḥ). They reply that the method of propitiating Śiva with asceticism that they are following is indeed Vaidika and point  out (v. 6) that the Veda contains Mantras whose deity is Rudra and procedures  for causing him to come into one’s presence. In his commentary on this verse  Bhaṭṭa Nārāyaṇakaṇṭha elaborates, citing a six-month-long ascetic procedure for  the summoning of Rudra into the propitiator’s presence taught in the now lost  Rudrakalpa that was a supplement (Pariśiṣṭa) of the Śrautasūtra of the Kāṭhaka  Yajurvedins, the use of the long Yajurvedic litany known as the Eleven Rudras  (rudraikādaśinī-saṁhitā), probably its recitation while one inundates the Liṅga  (rudrābhiṣekaḥ), a practice still current among the Taittirīya Yajurvedins in the Śiva temples of South India, sacrificial procedures using Mantras and chants of the r̥gveda and Sāmaveda found in the r̥gvidhāna and Sāmavidhāna, and proce dures for the propitiation of Rudra found in the Atharvavedic corpus. 
+
+Similarly, in his commentary on Sadyojyotis’s Mokṣakārikā Bhaṭṭa  Nārāyaṇakaṇṭha’s son Bhaṭṭa Rāmakaṇṭha turns to the corpus of secondary  Vaidika scriptures, arguing that these contain abundant historical evidence that  Śaivism was accepted by venerable figures of remote antiquity whose standing as  men learned in the Veda is beyond question. He cites the rule that Śaivas must  remain in their castes and life-disciplines, not transgressing the ordinances of  those institutions even in thought, and then addresses the Vaidikas as follows:38 
+
+- 38. Mokṣakārikāvr̥tti on v. 146ab. 
+
+> So this [teaching of Śiva] is not a forbidden form of religion (na pāṣaṇḍatvam)  even from your point of view [as Vaidikas]. This is because it does not conflict  with the Vedas, and because there is [Vaidika] scriptural evidence that it was  accepted by men learned in the Vedas. In the Purāṇas, the Mahābhārata,  and the like we learn that Śveta, Upamanyu, and other great sages under took religious practice within this [teaching of Śiva]. In the [Mahā]bhārata  we learn that Nara, Nārāyaṇa [=Arjuna and Vāsudeva], and Aśvatthāman  did the same, in the words ‘The god that you [Aśvatthāman] have worshipped  in an anthropomorphic image in every age those two have worshipped in the  Liṅga,’39 and also that it was by propitiating Śiva that the Lord Vāsudeva  achieved his goal in Suvarṇākṣa, as is related in the verse ‘O Kr̥ṣṇa, you will  be the man most dear to me in the world; and the whole world will turn to  face you [in adoration]. Of this there is no doubt,’ [and Paraśurāma received  the axe with which he slew Kārtavīrya.] 40 Moreover in the Smr̥tis we have  references to such pious acts for the benefit of the public (pūrto dharmaḥ)  as that of establishing a temple [of Śiva, as in] ‘He who makes a temple of  Śiva, built with baked bricks’ 41 and ‘in pious acts for the benefit of the public  one should know [that the reward is] liberation.’ 42 Then there is the evidence  of our own eyes in the form of the Pr̥thukeśvara [of Pr̥thu], the Rāmeśvara  [of Rāma], and [many] other [Śivas that have been installed in temples by  exemplary Vaidikas in ancient times]. Furthermore, the Veda confirms the  validity of the teaching of Śiva in such Upaniṣads as the Śvetāśvatara and in  Mantra-texts such as the Atharvaśiras. So none of the [three] faults that would  entail the invalidity [of the Śaiva scripture] from your point of view applies:  there is no disagreement [concerning the omniscience of Śiva, the creator of  
+our scriptures], there is no lack of proof [of their validity], and they have not  been adopted by a small minority.43 
+
+- 39. Mahābhārata 7.172.86cd. 
+- 40. Mahābhārata 3.82.18; text and translation in brackets suspect at this point. 
+- 41. Source not located. 
+- 42. Varāhapurāṇa 170.33[c]d. The category of pious action termed pūrtam or pūrto dharmaḥ com prises such actions as establishing fountains, wells, step-wells, reservoirs, dams, and gardens, and  planting fruit trees and the like; the installing of deities; and the building and renovation of temples and  monasteries. See, e.g., Varāhapurāṇa 168.21; 170.33–58. 
+- 43. These three faults are specified by Kumārīla in Ślokavārttika-Codanāsūtra 133 as reasons for rejecting the Buddhists’ argument that their claim that the Buddha, the author of their scriptures, was omniscient is proved by the existence of an unbroken tradition to that effect from his time to the  present. For a detailed discussion of this verse and the three that follow and their interpretation by Kumārīla’s commentators see Kataoka 2011, pt. 2, pp. 358–366. 
+
+So Mantramārgic Śaivism, while claiming to transcend Brahmanism by offer ing true liberation, was nonetheless closely tied to it. It was the Vaidika world  rather than the Buddhist or the Jaina through which Śaivas rose to salvation; and  on their path thereto they continued to be bound by its rules, adding their Śaiva  obligations rather than substituting them for the Vaidika. They looked, more over, to the Vaidika scriptural corpus to provide proof of the validity of their own  scriptures. The evidence adduced as proof is not cogent, since none of it refers to  the specific practices of initiatory Śaivism; it refers only to forms of propitiation  that had long been part of Vaidika observance.+++(5)+++ Nonetheless, the attempt reveals  the concern of the Saiddhāntikas to be considered valid by the adherents of the  Vaidika tradition that they claimed to rise above. 
+
+## The Properly Śaiva Attitude of Śaivas  Towards Their Vaidika Rites 
+Now this extension from the purely Śaiva domain of the ascetic in the Atimārga  into the Vaidika domain of the Śaiva householder added in the Mantramārga  opened the door to a process of Śaiva-Vaidika hybridization, in which rites of  both kinds were maintained and co-ordinated without a proper sense of their  distinctness. The Śaivas’ theoreticians, aware that this development had the  potential to produce a blurring of the boundary between the two domains  that would undermine the faith of Śaivas in the independence and supremacy  of Śaivism, ruled that while initiated Śaiva householders were thus subject to  two bodies of injunction – both the Śaiva and the Vaidika – their attitude  towards adherence to the latter was to differ fundamentally from that of the  Vaidikas. 
+
+Two passages of early Saiddhāntika Śaiva scripture much cited by the commentators clarify this attitude. The first of these is in the Sarvajñānottara. In the  context of its prescription that only persons in two of the four Vaidika disciplines,  those of the unmarried scholar and the married householder, may be consecrated  as Śaiva officiants, it tells us that the Śaiva should maintain his Vaidika observances after initiation but without believing that they are fully real. He is to do  them but without subjective commitment. He should not think that by accommodating Vaidika rites beside the Śaiva he brings about a doubling of the benefit  that he will derive or that if he were to omit them he would damage that benefit.  
+
+He is to see himself as acting in this regard not for his own advantage but so as  not to undermine through a pointless non-conformity the Vaidika order within  which Śaivism is embedded.44 
+
+- 44. Sarvajñānottara, Liṅgoddhārādiprakaraṇa N f. [34]r5–v5; P pp. 97–98. 
+
 The second passage is in the Mataṅgapārameśvara. This clarifies the matter  
-in the language of the Mīmāṁsā by saying that though the initiate should main tain his Vaidika duties, here called ‘the mundane observance’ (laukikācāraḥ), he  
-must not conceive of them as ancillary elements (aṅgam) of his Śaiva observances,  
-which is to say, as elements without which those observances would be incom 
-plete and therefore inefficacious.45 
-The Śākta-Śaiva Attitude Towards Vaidika  
-Observance Among Initiates 
-The view seen in the Sarvajñānottara that the Śaiva should conform to Vaid 
-ika injunction only for the sake of others tended not to be emphasised in the  
-later Saiddhāntika exegetical literature, which seems to be more eager to stress  
-conformity with Vaidika injunctions than to justify this from a properly Śaiva  
-standpoint. But the Śākta-Śaiva scholars of such traditions as the Krama and  
-Trika, whose ritual practice was further distanced from Vaidika norms than  
-the Saiddhāntikas’, preserved a strong emphasis on Śaivism’s transcendence,46 
-even arguing that the true reason for conformity with Vaidika observance was  
-spiritual immaturity. Thus Abhinavagupta’s pupil Kṣemarāja (fl. c. 1000–1050)  
-asserts that one should continue to perform the Vaidika ritual of venerating the  
-Juncture of the day (brāhmī saṁ dhyā) before one venerates it in the Śaiva manner  
-(śaivī saṁ dhyā) only so long as one’s mind is in thrall to one’s constructed social  
-identity as a member of a caste. In support of this position he cites a passage  
-from the Saiddhāntika Svāyambhuvasūtrasaṁ graha to the effect that the Vaidika  
-44. Sarvajñānottara, Liṅgoddhārādiprakaraṇa N f. [34]r5–v5; P pp. 97–98. 
-45. Mataṅgapārameśvara, Caryāpāda 2.2–7b. 
-46. See, for example, Abhinavagupta, Tantrāloka 4.221c–253; 15.162c–179b; Parātriṁśikāvivaraṇa 
-p. 266, l. 4–p. 267, l. 7, edited and translated in Sanderson 2005, pp. 111–112. 
-176 
-33211 Honoris Causa 3P.indd 176 11/18/15 5:22 PM
-tolerance, exclusivity, inclusivity, and persecution . . . 
-ritual of the Juncture is optional but the Śaiva compulsory. But he leaves out that  
-part of the passage in which we learn that the option applies only in the case of  
-ascetics. His reason for doing so is evidently that he wishes the text to support  
-the view that one should aspire to drop the Vaidika elements of one’s ritual pro 
-gramme even if one is not an ascetic, seeing persistence in these as symptoms of  
-a contracted state of mind that all Śaivas, householders included, should strive  
-to transcend.47 
-Nonetheless, it is unlikely that this Śākta-Śaiva view of the accommodation  
-of Vaidika ritual had a negative impact on the integration of such Śaivas within  
-Vaidika society. Kṣemarāja speaks here of an ideal adjustment within the largely  
-private domain of the Śaiva householder’s daily ritual rather than a wholesale re 
-jection of conformity in the socio-religious domain. And this is in line with other  
-elements of transcendence that set the Śaivas engaged in Bhairava and goddess  
-worship apart from the Saiddhāntikas. Thus, for example, when a Saiddhāntika  
-participated in a collective meal with other initiates he was not to sit in a line that  
-contained persons of a caste other than his own. If he did so he was to do penance,  
-its severity determined by the degree of the caste difference, being doubled if the  
-contaminator was a Vaiśya and trebled if he was a Śūdra.48 But according to the  
-Svacchanda, the principal scripture of the non-Saiddhāntika Dakṣiṇa system of  
-47. Kṣemarāja on Svacchanda 2.14c: ‘This veneration of the Juncture (sandhyāvandanam) is done with  
-the Mantras of Śiva, but first it is done with the Mantras of [one’s] Veda. That is the duty of those in  
-whom there lingers the deep-seated mentality of identification with the caste that was theirs [before  
-they entered the casteless “caste” of Bhairava (bhairavajātiḥ) through initiation] (anivr̥ttaprāgjātivāsa naiḥ kāryam). The rest should do it with the Śaiva Mantras [alone], immediately after they have com pleted the ritual bath. As has been taught [by Śiva in Svāyambhuvasūtrasaṁgraha 7.9cd]: “He may or  
-may not do the Vaidika [Sandhyā ritual]; but it is compulsory that he should do the Śaiva”.’ On the early  
-Śākta-Śaiva attitude to caste, and other Vaidika dualities, such as that of the pure and the impure, see  
-Sanderson 1985, pp. 198–205 and endnote 69; Sanderson 2009a, pp. 292–297; and Sanderson 2009b. 
-48. Trilocanaśiva, Prāyaścittasamuccaya p. 25: ‘He should always avoid when eating sitting in the same  
-line (ekapanktiḥ) as persons of a different caste (bhinnajātibhiḥ). A brahmin who eats unknowingly with  
-persons of a Kṣatriya, Vaiśya, or Śūdra caste and abandons his meal in the middle as soon as he realizes  
-this, should declare this, and then [as his penance] repeat the Aghoramantra ten, twenty, or thirty times  
-respectively. If he realizes [what he has done only] after the meal has been finished [he should repeat  
-it] one, two, or three hundred times respectively.’ 
-177 
-33211 Honoris Causa 3P.indd 177 11/18/15 5:22 PM
-Honoris Causa 
-Bhairava worship, initiates may be arranged in separate rows on such occasions  
-only according to their rank as initiates. They must never separate themselves in  
-accordance with the distinctions between the castes in which they were at the time  
-of their initiation (prāgjātiḥ). They must see themselves as having become equal  
-members of a single ‘caste’ of Bhairava (bhairavīyā jātiḥ), and they must know that  
-if they make any reference to the former caste of an initiate they will be guilty  
-of a sin that will lead them to hell. In short, says the text, if one wishes to attain  
-one’s goal, be it salvation or Siddhi, one must be free of all caste discrimination  
-(avivekī).49 But there is no suggestion that this transcendence of caste distinctions  
-should be applied on the socio-religious level in such matters as marriage. The  
-fact that Abhinavagupta cites the Sarvajñānottara with approval for its view of the  
-necessity of general conformity, and does so even in the context of an argument  
-that the considerations of relative purity and impurity that dominate Vaidika  
-behaviour are subjective (pramātr̥dharmaḥ), makes clear that no such subversive  
-transcendence was envisaged.50 
-The same is the point of a Kaula verse cited by the Śākta-Śaiva Jayaratha in  
-this context and also by the Smārta Aparāditya, though in that case with the con 
-trary purpose of demonstrating the insincerity of the Śaivas’ conformity: 
-He should be a Kaula in private (antaḥ kaulo), a Śaiva in outward appearance  
-(bahiḥ śaivo), but a Vaidika in his mundane observances (lokācāre tu vaidikaḥ),  
-keeping the essence [of his religion hidden behind these two outer layers], just  
-as the coconut fruit [keeps its milk within its flesh, which in turn is enclosed  
-by its hard outer shell].51 
-49. Svacchanda 4.540–546. 
-50. Tantrāloka 4.248–251. On Abhinavagupta’s doctrine that purity and therefore impurity are subjec 
-tive and not real properties of things see Sanderson 2013a. 
-51. Rājānaka Jayaratha, Tantrālokaviveka on 4.251ab. For Aparāditya’s version see Yājñavalkya 
-smr̥tiṭīkā, p. 10, ll. 12–13. 
-178 
-33211 Honoris Causa 3P.indd 178 11/18/15 5:22 PM
-tolerance, exclusivity, inclusivity, and persecution . . . 
-In the same spirit the Tārātantra, a text from the later East Indian Śākta tra 
-dition, tells us concerning the orgiastic gathering of Śākta initiates known as a  
-‘circle of Bhairavī’: 
-Once the circle of Bhairavī has commenced (ārabdhe bhairavīcakre) all [the  
-participants, whatever their] caste-classes are the best of brahmins (sarve var 
-ṇā dvijottamāḥ). But as soon as it has ended each returns to his or her separate  
-station. If a person, being deluded, makes distinctions of caste (jātibhedaṁ . . .  
-karoti) within the sacred circle, then without doubt he will fall into a terrible  
-hell from which it will be hard to escape.52 
-A Śaiva-Vaidika Socio-Religious Hierachy  
-under Royal Authority 
-The Śaivas, then, advocated a two-tiered Śaiva-Vaidika socio-religious system,  
-with the Vaidika subordinate to the Śaiva. To achieve this new order they ex 
-erted themselves to secure the support of royal patrons, without which no such  
-aspiration could be realised, and though the details of how they proceeded to this  
-end in particular cases are mostly inaccessible to us now, epigraphical and other  
-evidence reveals that they were successful in their endeavour in many parts of the  
-subcontinent and Southeast Asia. 
-It is at least clear from their prescriptive literature that they expanded their  
-ritual repertoire to support this endeavour, by introducing a form of initiation  
-for rulers that not only promised the benefit of liberation at death and, in this  
-life, the heightening of the initiand’s temporal power, but also departed radically  
-from tradition by exonerating the beneficiary from all the time-consuming and  
-arduous ritual duties that were the usual consequence of initiation. A king who  
-was devoted to Śiva (paramamāheśvaraḥ) could receive the prestige of initiation  
-52. Tārātantra quoted in the Sarvollāsatantra, p. 80. I conjecture ārabdhe for ārambhe in the first  
-verse. 
-179 
-33211 Honoris Causa 3P.indd 179 11/18/15 5:22 PM
-Honoris Causa 
-without any of its inconveniences, being required thereafter only to maintain the  
-support of the faith that is the duty of any lay (uninitiated) devotee (śivabhaktaḥ,  
-upāsakaḥ). 
-The Saiddhāntikas also developed a Śaiva version of the royal consecration rit 
-ual (rājyābhiṣekaḥ) to be given to a king after he had received this Śaiva initiation.  
-The Naimittikakriyānusaṁdhāna of Brahmaśambhu, completed in ad 938/9,53 the  
-earliest surviving guide to the Saiddhāntika Śaiva rituals, states that the purpose  
-of this ceremony is to qualify the king for his office as the guide and guardian  
-of the system of the castes and disciplines.54 This is none other than the role as 
-signed to him by purely Vaidika authorities; 55 and accordingly the Mantra recited  
-at the climax of this empowerment, as the water of consecration is poured, is not  
-Mantramārgic but rather the long-established verse text of the (royal) consecra 
-tion Mantra prescribed for this purpose by Varāhamihira in the first half of the  
-sixth century on the authority of the Older Garga.56 But since it is as an initiated  
-Śaiva that the king is to assume this role, it is evident that the socio-religious or 
-der entrusted to his care is not just that envisaged by the Vaidika authorities but  
-rather the expanded religion that comprised both the Vaidika and the Śaiva tra 
-ditions. For the Śaiva literature elsewhere requires him to ensure that the strata  
-of this complex of injunction are maintained in the proper order of relative au 
-thority, with the Vaidika subordinate to the Śaiva, promising him that to do so  
-53. Naimittikakriyānusaṁdhāna f. 103r–v2: ‘On the tenth day of the bright fortnight of the first month  
-of autumn in the 860th year of the king of the Śakas I, disciple of the abbot of Mattamayūra, have de 
-clared this procedure for initiation that adheres to the teaching of the Dviśata[kālottara] and should be  
-given by a Guru to Gurus initiated in his own lineage to terminate his holding of his tenure of office.’ 
-54. Naimittikakriyānusaṁdhāna f. 74v1 [4.118]: ‘I shall now teach in addition the consecration cere mony to empower an initiated king as the guide and guardian of the castes and disciplines (varṇānām  
-āśramāṇāṁ ca gurubhāvāya bhūpateḥ | yo ’bhiṣekavidhiḥ so ’pi procyate dīkṣitātmanaḥ).’ See Sander son 2009a, p. 255, fn. 593. 
-55. See Sanderson 2009a, p. 255, fn. 594. 
-56. See Br̥hatsaṁhitā 47, especially 47.55c–70 Varāhamihira himself says only that the Mantra was  
-‘taught by the Muni’ (47.51d: mantro ’tra munigītaḥ). It is his commentator Bhaṭṭa Utpala who in a com ment on this statement identifies the Muni as the Older Garga: munigīto muninā vr̥ddhagargeṇoktaḥ. 
-180 
-33211 Honoris Causa 3P.indd 180 11/18/15 5:22 PM
-tolerance, exclusivity, inclusivity, and persecution . . . 
-will guarantee him a long reign and the prosperity of his kingdom, and implying  
-thereby that failing to do so will have the opposite consequences. 
-We see all this clearly enunciated in a passage of the Mohacūrottara, one of  
-a number of as yet unpublished scriptures of the Śaiva Mantramārga known as  
-Pratiṣṭhātantras.57 
-These texts, as their name indicates, are concerned to regulate the practice  
-specific to the class of Mantramārgic Śaiva officiants known as Sthāpakas, who  
-specialized in the installation (pratiṣṭhā) of temples, their images, and monaster ies, and in the planning of settlements and royal palaces, and the layout of the  
-towns around them. After prescribing the proper disposition of the habitations  
-of the various castes around the palace of an emperor (mahārājādhirājaḥ) it says: 
-Tradition declares that the king is the protector of his subjects. Therefore it  
-is right that he should protect the caste communities and ensure that they are  
-instructed in their duties, each according to its station. The sources that con 
-vey these duties are Śruti, Smr̥ti, Purāṇa, and the [Śaiva] scriptures (āgamāḥ).  
-If the king abides by these he enjoys a long reign. [The correct order of author 
-ity in which they should be applied is as follows.] The Vedas [comprising both  
-Śruti and Smr̥ti] take precedence over the Purāṇas, and the [Śaiva] scrip tures take precedence over the teachings of the Vedas.58 There is the common  
-[Vaidika authority of Śruti, Smr̥ti, and Purāṇa] (sāmānyam), and then there  
-is the special (viśeṣam). The Śaiva [scriptures] (śaivam) are the latter. [So] the  
-learned should not doubt their authority when they find that they conflict  
-with [a Vaidika injunction]. The all-knowing [master] should adjudicate each  
-case objectively [by this criterion]. Given the plurality of scriptural authori 
-ties, whenever there is a question as to which of two [conflicting] statements  
-takes precedence, he should adopt that which has been taught by Śiva. He  
-57. On the canon of these texts see Sanderson 2014, pp. 26–27 and fn. 100. 
-58. The Vedas here must be understood to include Smr̥ti, that is to say, the Dharmaśāstras, if this  
-statement is not to contradict the preceding assertion that the (non-Śaiva) sources of the knowledge  
-of duty are not only Śruti (the Vedas in the narrow sense) and Purāṇa but also Smr̥ti. 
-181 
-33211 Honoris Causa 3P.indd 181 11/18/15 5:22 PM
-Honoris Causa 
-should reconcile the two, whether self-sufficient or depending for the under 
-standing of their meaning on [examination in the light of] other sources of the  
-same kind, related sources, and [, where they fail,] learned exegesis, by apply 
-ing such modes of reasoning as presumption (arthāpattiḥ). Understand this, O  
-Indra, and thereby attain the ultimate bliss. When the king understands the  
-duties of religion in this way his realm will always prosper.59 
-This model, in which the Vaidika ordinances are maintained under the aegis  
-of Śaivism, might be suspected to have been more ideal than real were it to rest on  
-this prescriptive evidence alone. However, it is in harmony with what is conveyed  
-by the historical records of the period. They certainly do not support a position  
-that the rise of Śaivism during these centuries led to a corresponding decline in  
-the hold of the Vaidika order. On the contrary, they point to a renaissance in that  
-sphere; and they show that Śaiva kings were active in promoting it. 
-A good part of the inscriptions that have come to light from this time con 
-sists of thousands of copperplate charters in which kings, including those who  
-were Śaiva, have recorded their establishing Vaidika brahmins in their territories  
-through grants of tax-exempt land, thus fulfilling one of the principal duties im 
-posed on them by Vaidika scripture, extending the penetration of Vaidika ober 
-vance, while facilitating the administration of their territories and promoting  
-agricultural development. 
-Further, numerous kings, Śaivas prominent among them, have been com 
-mended during this period, particularly at its beginning, for having imposed the  
-system of castes and disciplines (varṇāśramadharmaḥ) in their newly established  
-kingdoms, this frequently being presented as a restoration after a period of de 
-cline. 
-Nor was this promotion of Brahmanism by Śaiva kings restricted to the socio 
-religious level. It extended on occasion to the commissioning of the horse sacrifice  
-(Aśvamedha) and other solemn (Śrauta) Vaidika rituals. These were associated  
-with the acquisition and celebration of sovereignty; but their performance was  
-59. Mohacūrottara ff. 21v6–22r2 (4.275–281). 
-182 
-33211 Honoris Causa 3P.indd 182 11/18/15 5:22 PM
-tolerance, exclusivity, inclusivity, and persecution . . . 
-also a signal of a king’s desire to be seen as an exemplary supporter of the Veda,  
-dedicated to the revival of Vaidika religion in its entirety. 
+in the language of the Mīmāṁsā by saying that though the initiate should maintain his Vaidika duties, here called ‘the mundane observance’ (laukikācāraḥ), he  must not conceive of them as ancillary elements (aṅgam) of his Śaiva observances,  which is to say, as elements without which those observances would be incomplete and therefore inefficacious.+++(5)+++ 45 
+
+- 45. Mataṅgapārameśvara, Caryāpāda 2.2–7b. 
+
+## The Śākta-Śaiva Attitude Towards Vaidika Observance Among Initiates 
+The view seen in the Sarvajñānottara that the Śaiva should conform to Vaid ika injunction only for the sake of others tended not to be emphasised in the later Saiddhāntika exegetical literature, which seems to be more eager to stress  conformity with Vaidika injunctions than to justify this from a properly Śaiva standpoint. But the Śākta-Śaiva scholars of such traditions as the Krama and  Trika, whose ritual practice was further distanced from Vaidika norms than the Saiddhāntikas’, preserved a strong emphasis on Śaivism’s transcendence,46 even arguing that the true reason for conformity with Vaidika observance was spiritual immaturity. 
+
+- 46. See, for example, Abhinavagupta, Tantrāloka 4.221c–253; 15.162c–179b; Parātriṁśikāvivaraṇa p. 266, l. 4–p. 267, l. 7, edited and translated in Sanderson 2005, pp. 111–112. 
+
+Thus Abhinavagupta’s pupil Kṣemarāja (fl. c. 1000–1050)  asserts that one should continue to perform the Vaidika ritual of venerating the  Juncture of the day (brāhmī saṁdhyā) before one venerates it in the Śaiva manner  (śaivī saṁdhyā) only so long as one’s mind is in thrall to one’s constructed social  identity as a member of a caste. In support of this position he cites a passage  from the Saiddhāntika Svāyambhuvasūtra-saṁgraha to the effect that the Vaidika ritual of the Juncture is optional but the Śaiva compulsory. But he leaves out that  part of the passage in which we learn that the option applies only in the case of ascetics. His reason for doing so is evidently that he wishes the text to support  the view that one should aspire to drop the Vaidika elements of one’s ritual programme even if one is not an ascetic, seeing persistence in these as symptoms of a contracted state of mind that all Śaivas, householders included, should strive  to transcend.47 
+
+- 47. Kṣemarāja on Svacchanda 2.14c: ‘This veneration of the Juncture (sandhyāvandanam) is done with  the Mantras of Śiva, but first it is done with the Mantras of [one’s] Veda. That is the duty of those in  whom there lingers the deep-seated mentality of identification with the caste that was theirs [before  they entered the casteless “caste” of Bhairava (bhairavajātiḥ) through initiation] (anivr̥tta-prāg-jāti-vāsanaiḥ kāryam). The rest should do it with the Śaiva Mantras [alone], immediately after they have completed the ritual bath. As has been taught [by Śiva in Svāyambhuva-sūtra-saṁgraha 7.9cd]: “He may or  may not do the Vaidika [Sandhyā ritual]; but it is compulsory that he should do the Śaiva”.’ On the early  Śākta-Śaiva attitude to caste, and other Vaidika dualities, such as that of the pure and the impure, see  Sanderson 1985, pp. 198–205 and endnote 69; Sanderson 2009a, pp. 292–297; and Sanderson 2009b. 
+
+
+Nonetheless, it is unlikely that this Śākta-Śaiva view of the accommodation  of Vaidika ritual had a negative impact on the integration of such Śaivas within  Vaidika society. Kṣemarāja speaks here of an ideal adjustment within the largely  private domain of the Śaiva householder’s daily ritual rather than a wholesale rejection of conformity in the socio-religious domain. And this is in line with other  elements of transcendence that set the Śaivas engaged in Bhairava and goddess  worship apart from the Saiddhāntikas. Thus, for example, when a Saiddhāntika  participated in a collective meal with other initiates he was not to sit in a line that  contained persons of a caste other than his own. If he did so he was to do penance,  its severity determined by the degree of the caste difference, being doubled if the  contaminator was a Vaiśya and trebled if he was a Śūdra.48 
+
+- 48. Trilocanaśiva, Prāyaścittasamuccaya p. 25: ‘He should always avoid when eating sitting in the same line (ekapanktiḥ) as persons of a different caste (bhinnajātibhiḥ). A brahmin who eats unknowingly with  persons of a Kṣatriya, Vaiśya, or Śūdra caste and abandons his meal in the middle as soon as he realizes  this, should declare this, and then [as his penance] repeat the Aghoramantra ten, twenty, or thirty times  respectively. If he realizes [what he has done only] after the meal has been finished [he should repeat  it] one, two, or three hundred times respectively.’ 
+
+But according to the  Svacchanda, the principal scripture of the non-Saiddhāntika Dakṣiṇa system of  Bhairava worship, initiates may be arranged in separate rows on such occasions  only according to their rank as initiates. They must never separate themselves in  accordance with the distinctions between the castes in which they were at the time  of their initiation (prāgjātiḥ). They must see themselves as having become equal  members of a single ‘caste’ of Bhairava (bhairavīyā jātiḥ), and they must know that  if they make any reference to the former caste of an initiate they will be guilty  of a sin that will lead them to hell. In short, says the text, if one wishes to attain  one’s goal, be it salvation or Siddhi, one must be free of all caste discrimination (avivekī).49 
+
+- 49. Svacchanda 4.540–546. 
+
+But there is no suggestion that this transcendence of caste distinctions  should be applied on the socio-religious level in such matters as marriage. The  fact that Abhinavagupta cites the Sarvajñānottara with approval for its view of the  necessity of general conformity, and does so even in the context of an argument  that the considerations of relative purity and impurity that dominate Vaidika  behaviour are subjective (pramātr̥dharmaḥ), makes clear that no such subversive  transcendence was envisaged.50 
+
+- 50. Tantrāloka 4.248–251. On Abhinavagupta’s doctrine that purity and therefore impurity are subjective and not real properties of things see Sanderson 2013a. 
+
+The same is the point of a Kaula verse cited by the Śākta-Śaiva Jayaratha in  this context and also by the Smārta Aparāditya, though in that case with the contrary purpose of demonstrating the insincerity of the Śaivas’ conformity: 
+
+> He should be a Kaula in private (antaḥ kaulo), a Śaiva in outward appearance  (bahiḥ śaivo), but a Vaidika in his mundane observances (lokācāre tu vaidikaḥ),  keeping the essence [of his religion hidden behind these two outer layers], just  as the coconut fruit [keeps its milk within its flesh, which in turn is enclosed  by its hard outer shell].51 
+
+- 51. Rājānaka Jayaratha, Tantrālokaviveka on 4.251ab. For Aparāditya’s version see Yājñavalkya smr̥tiṭīkā, p. 10, ll. 12–13. 
+
+In the same spirit the Tārātantra, a text from the later East Indian Śākta tradition, tells us concerning the orgiastic gathering of Śākta initiates known as a  ‘circle of Bhairavī’: 
+
+> Once the circle of Bhairavī has commenced (ārabdhe bhairavīcakre) all [the  participants, whatever their] caste-classes are the best of brahmins (sarve varṇā dvijottamāḥ). But as soon as it has ended each returns to his or her separate  station. If a person, being deluded, makes distinctions of caste (jātibhedaṁ . . .  karoti) within the sacred circle, then without doubt he will fall into a terrible hell from which it will be hard to escape.52 
+
+- 52. Tārātantra quoted in the Sarvollāsatantra, p. 80. I conjecture ārabdhe for ārambhe in the first  verse. 
+
+The Śaivas, then, advocated a two-tiered Śaiva-Vaidika socio-religious system,  with the Vaidika subordinate to the Śaiva. To achieve this new order they exerted themselves to secure the support of royal patrons, without which no such aspiration could be realised, and though the details of how they proceeded to this  end in particular cases are mostly inaccessible to us now, epigraphical and other evidence reveals that they were successful in their endeavour in many parts of the  subcontinent and Southeast Asia. 
+
+It is at least clear from their prescriptive literature that they expanded their  ritual repertoire to support this endeavour, by introducing a form of initiation  for rulers that not only promised the benefit of liberation at death and, in this  life, the heightening of the initiand’s temporal power, but also departed radically  from tradition by exonerating the beneficiary from all the time-consuming and  arduous ritual duties that were the usual consequence of initiation. A king who  was devoted to Śiva (paramamāheśvaraḥ) could receive the prestige of initiation  without any of its inconveniences, being required thereafter only to maintain the  support of the faith that is the duty of any lay (uninitiated) devotee (śivabhaktaḥ,  upāsakaḥ). 
+
+The Saiddhāntikas also developed a Śaiva version of the royal consecration ritual (rājyābhiṣekaḥ) to be given to a king after he had received this Śaiva initiation. The Naimittika-kriyānusaṁdhāna of Brahmaśambhu, completed in ad 938/953 the  earliest surviving guide to the Saiddhāntika Śaiva rituals, states that the purpose  of this ceremony is to qualify the king for his office as the guide and guardian  of the system of the castes and disciplines.54 
+
+- 53. Naimittikakriyānusaṁdhāna f. 103r–v2: ‘On the tenth day of the bright fortnight of the first month  of autumn in the 860th year of the king of the Śakas I, disciple of the abbot of Mattamayūra, have declared this procedure for initiation that adheres to the teaching of the Dviśata[kālottara] and should be given by a Guru to Gurus initiated in his own lineage to terminate his holding of his tenure of office.’ 
+- 54. Naimittika-kriyānusaṁdhāna f. 74v1 [4.118]: ‘I shall now teach in addition the consecration cere mony to empower an initiated king as the guide and guardian of the castes and disciplines (varṇānām āśramāṇāṁ ca guru-bhāvāya bhūpateḥ | yo ’bhiṣeka-vidhiḥ so ’pi procyate dīkṣitātmanaḥ).’ See Sander son 2009a, p. 255, fn. 593. 
+
+This is none other than the role as signed to him by purely Vaidika authorities; 55 and accordingly the Mantra recited  at the climax of this empowerment, as the water of consecration is poured, is not  Mantramārgic but rather the long-established verse text of the (royal) consecration Mantra prescribed for this purpose by Varāhamihira in the first half of the  sixth century on the authority of the Older Garga.56 
+
+- 55. See Sanderson 2009a, p. 255, fn. 594. 
+- 56. See Br̥hatsaṁhitā 47, especially 47.55c–70 Varāhamihira himself says only that the Mantra was  ‘taught by the Muni’ (47.51d: mantro ’tra munigītaḥ). It is his commentator Bhaṭṭa Utpala who in a comment on this statement identifies the Muni as the Older Garga: munigīto muninā vr̥ddha-gargeṇoktaḥ. 
+
+But since it is as an initiated  Śaiva that the king is to assume this role, it is evident that the socio-religious order entrusted to his care is not just that envisaged by the Vaidika authorities but  rather the expanded religion that comprised both the Vaidika and the Śaiva traditions. For the Śaiva literature elsewhere requires him to ensure that the strata  of this complex of injunction are maintained in the proper order of relative authority, with the Vaidika subordinate to the Śaiva, promising him that to do so  will guarantee him a long reign and the prosperity of his kingdom, and implying  thereby that failing to do so will have the opposite consequences. 
+
+We see all this clearly enunciated in a passage of the Mohacūrottara, one of  a number of as yet unpublished scriptures of the Śaiva Mantramārga known as  Pratiṣṭhātantras.57 
+
+- 57. On the canon of these texts see Sanderson 2014, pp. 26–27 and fn. 100. 
+
+These texts, as their name indicates, are concerned to regulate the practice  specific to the class of Mantramārgic Śaiva officiants known as Sthāpakas, who  specialized in the installation (pratiṣṭhā) of temples, their images, and monasteries, and in the planning of settlements and royal palaces, and the layout of the  towns around them. After prescribing the proper disposition of the habitations  of the various castes around the palace of an emperor (mahārājādhirājaḥ) it says: 
+
+> Tradition declares that the king is the protector of his subjects. Therefore it  is right that he should protect the caste communities and ensure that they are  instructed in their duties, each according to its station. The sources that convey these duties are Śruti, Smr̥ti, Purāṇa, and the [Śaiva] scriptures (āgamāḥ).  If the king abides by these he enjoys a long reign. [The correct order of authority in which they should be applied is as follows.] The Vedas [comprising both Śruti and Smr̥ti] take precedence over the Purāṇas, and the [Śaiva] scriptures take precedence over the teachings of the Vedas.58 There is the common  [Vaidika authority of Śruti, Smr̥ti, and Purāṇa] (sāmānyam), and then there  is the special (viśeṣam). The Śaiva [scriptures] (śaivam) are the latter. [So] the  learned should not doubt their authority when they find that they conflict  with [a Vaidika injunction]. The all-knowing [master] should adjudicate each  case objectively [by this criterion]. Given the plurality of scriptural authorities, whenever there is a question as to which of two [conflicting] statements  takes precedence, he should adopt that which has been taught by Śiva. He should reconcile the two, whether self-sufficient or depending for the understanding of their meaning on [examination in the light of] other sources of the same kind, related sources, and [, where they fail,] learned exegesis, by applying such modes of reasoning as presumption (arthāpattiḥ). Understand this, O  Indra, and thereby attain the ultimate bliss. When the king understands the duties of religion in this way his realm will always prosper.59 
+
+- 58. The Vedas here must be understood to include Smr̥ti, that is to say, the Dharmaśāstras, if this  statement is not to contradict the preceding assertion that the (non-Śaiva) sources of the knowledge  of duty are not only Śruti (the Vedas in the narrow sense) and Purāṇa but also Smr̥ti. 
+- 59. Mohacūrottara ff. 21v6–22r2 (4.275–281). 
+
+ 
+
+This model, in which the Vaidika ordinances are maintained under the aegis  of Śaivism, might be suspected to have been more ideal than real were it to rest on  this prescriptive evidence alone. However, it is in harmony with what is conveyed  by the historical records of the period. They certainly do not support a position  that the rise of Śaivism during these centuries led to a corresponding decline in  the hold of the Vaidika order. On the contrary, they point to a renaissance in that  sphere; and they show that Śaiva kings were active in promoting it. 
+
+A good part of the inscriptions that have come to light from this time consists of thousands of copperplate charters in which kings, including those who  were Śaiva, have recorded their establishing Vaidika brahmins in their territories  through grants of tax-exempt land, thus fulfilling one of the principal duties imposed on them by Vaidika scripture, extending the penetration of Vaidika obervance, while facilitating the administration of their territories and promoting  agricultural development. 
+
+Further, numerous kings, Śaivas prominent among them, have been com mended during this period, particularly at its beginning, for having imposed the  system of castes and disciplines (varṇāśramadharmaḥ) in their newly established  kingdoms, this frequently being presented as a restoration after a period of decline. 
+
+Nor was this promotion of Brahmanism by Śaiva kings restricted to the socio religious level. It extended on occasion to the commissioning of the horse sacrifice  (Aśvamedha) and other solemn (Śrauta) Vaidika rituals. These were associated  with the acquisition and celebration of sovereignty; but their performance was also a signal of a king’s desire to be seen as an exemplary supporter of the Veda,  dedicated to the revival of Vaidika religion in its entirety. 
+
 So the epigraphic record indicates that there were numerous Śaiva kings  
 throughout our period who fully accepted their role as the guardians of the  
-Vaidika social order and thus conducted themselves in matters of religion in the  
-manner envisaged by Brahmaśambhu and the Mohacūḍottara. Indeed, in many  
-cases their panegyrists have portrayed them as zealous propagators of that order,  
-praising them for their efforts to reverse the decline in the hold of the Vaidika  
-order on society.60 
-The Loss of Transcendence 
-This double religion, combining the Vaidika religion and Śaivism under royal  
-authority, was from the point of view of all Śaiva theoreticians a two-tiered hi 
-erarchy with Śaivism on top and the Vaidika religion below. The theoreticians’  
-ahistorical and fundamentalist presentation depicts no overlap between the two  
-levels, no encroachment of one upon the other, or rather it uses theory to outlaw  
-any such encroachment. 
-Nonetheless, when we see that the Vaidika domain has been so comprehen 
-sively accommodated we are bound to look for evidence of a weakening of the  
-orthoprax Vaidikas’ rejection of Śaivism and also of a commensurate adoption  
-by Śaivas themselves of a view of their religion that surrendered the doctrine of  
-its transcendence. We may well imagine Śaivas who had abandoned all sense of  
-their religion as a path above the Vaidika, who saw themselves simply as Śaivas  
-by birth, who claimed for their scriptures no more than that they apply to them  
-as Śaivas, that there is nothing special about initiation, that it is merely a rite  
-of passage into ritual activities peculiar to their group, and that these activities  
-are much like the practices of other groups, Vaiṣṇava and orthoprax Vaidika, of  
-similar social standing. 
-60. Space prevents me from setting forth here the epigraphical evidence of the engagement of Śaiva  
-kings in these efforts to promote Brahmanism in their kingdoms. It has been presented in detail in my  
-forthcoming Śaivism and Brahmanism. 
-183 
-33211 Honoris Causa 3P.indd 183 11/18/15 5:22 PM
-Honoris Causa 
-Jayanta 
-We do indeed find evidence of both these developments. The earliest appears on the  
-Vaidika side near the end of the ninth century in the Nyāyamañjarī of the Kashmirian  
-philosopher Bhaṭṭa Jayanta, minister of king Śaṇkaravarman (r. c. ad 883–902) and  
-author of the Āgamaḍambara, the humorous play about the religious tensions of the  
-day that I have cited above. He states that he undertook the monumental Nyāya 
-mañjarī in order to protect the authority of the Vedas; and this commitment is ap 
-parent throughout.61 Yet he argues for the validity of the Śaiva scriptures: 62 
-But as for the scriptures that we see which are other than [those of the Vedic  
-corpus], they too are of two kinds. Some, such as those taught by the Buddha,  
-are completely at odds with the Veda. But others, such as those taught by Śiva,  
-are certainly not, merely teaching optional modes of religious observance that  
-differ [from those of that corpus]. I declare that of these the scriptures [of  
-the latter kind, those] taught by Śiva and [Viṣṇu,] are undoubtedly (tāvat) 
-valid. This is (1) because we find in the cognitions that they produce none of  
-the numerous defects that give rise [in other cases] to doubt or refutation,  
-[and] (2) because we are unable to impute any of the motives such as greed and  
-delusion that might otherwise explain their creation, since both Smr̥ti texts  
-and inference establish that these too were authored by God (Īśvara). For we  
-find in them no record of their having come into existence at a specific time  
-[after the creation]; and we find in them, as in the Veda, numerous instances  
-of ekadeśasaṁvādaḥ [, that is to say, of] ‘the verification of claims made in  
-part [of the corpus’, claims which when they have been put to the test and  
-61. Nyāyamañjarī, vol. 1, p. 7, ll. 6–9: ‘As for the system of the Nyāya taught by Akṣapāda, it is the cen tral pillar [that holds up the edifice] of all the other branches of learning. This because it is the means of  
-safeguarding the authority of the Vedas. For if the Vedas have their authority overturned by the false  
-reasonings authored by false philosophers, the commitment of the pious would slacken. Why then  
-would they devote themselves to the task of putting its injunctions into practice, a task that among  
-other things requires great expense and exertion if it is to be accomplished successfully?’ 
-62. Nyāyamañjarī-Āgamaprāmāṇya, ed. Kataoka, p. 152, l. 3 to p. 154, l. 8, corresponding to Nyāyamañ jarī, vol. 1, p. 635, l. 6 to p. 637, l. 2. 
-184 
-33211 Honoris Causa 3P.indd 184 11/18/15 5:22 PMtolerance, exclusivity, inclusivity, and persecution . . . 
-found effective evince confidence in the truth of its statements on matters that  
-must be taken on trust]. So what scope remains for the postulation that they  
-have some other source [such as human greed or ignorance]? Nor [, unlike the  
-scriptures of the Buddhists and others,] do they stand in opposition to the  
-Veda. For they do not abandon participation in the system of the four caste 
-classes and [four life-disciplines] established by [the ordinances of] the Veda. 
-The manner [in which we establish the validity] of the injunctions of  
-Manu and the other [promulgators of secondary scripture] cannot  
-apply to the Śaiva scriptural corpus. But that does not entail its in 
-validity. [For] throughout its texts we find clear understanding of the  
-well-known teachings of all the Upaniṣads pertaining to the ultimate  
-goal. Moreover, even the foremost of those who have mastered the  
-Veda, such as Kr̥ṣṇadvaipāyana, support the view that the teachings  
-of the Śaiva scriptures and [the like] are valid. And he has taught that  
-this validity also applies to [the corpus of Vaiṣṇava texts called] the  
-Pañcarātra. For they too contain nothing that requires us to dismiss  
-them as devoid of authority.63 
-Moreover, they contain the declaration that Lord Viṣṇu is their author; and  
-he is just God himself (Īśvara) [under another name]. 
-Because one beginningless soul with infinite power, the wondrous  
-(kasyacit) cause of the creation of the entire universe, undertakes the  
-[three] distinct tasks of creating the world, holding it in existence, and  
-withdrawing it [again at the end of each cycle], it has come to be per 
-ceived as [three distinct deities:] Brahmā, Viṣṇu, and Rudra. 
-Furthermore, at various places within the Veda we have the texts ‘Rudra  
-alone remained. There was no second’ (eka eva rudro ’va tasthe na dvitīyaḥ)  
-63. He refers to Kr̥ṣṇadvaipāyana, alias Vyāsa, as the author of the Mahābhārata, which does indeed  
-assert this validity in the Mokṣadharma provided that one understands the term pāśupatam to refer in  
-the meaning ‘that taught by Paśupati’ (following Aṣṭādhyāyī 4.3.101: tena proktam) to Śaivism in general  
-rather than specifically to the Pāśupata system. He anachronistically includes under that heading the  
-Saiddhāntika Śaiva scriptures, and accepts, as some did not, that the passage authorizes not just the  
-study of these texts but also the enacting of their injunctions. 
-185 
-33211 Honoris Causa 3P.indd 185 11/18/15 5:22 PM
-Honoris Causa 
-and ‘Viṣṇu strode out over [all] this’ (idaṁ viṣṇur vi cakrame); and means of  
-union with these [deities], [that is to say] methods for their propitiation, are  
-certainly enjoined in the Veda too. As for the methods taught in the Śaiva  
-scriptures and the Pañcarātra, they are certainly different; but this does not  
-amount to an [invalidating] contradiction of the Veda, because these [various]  
-methods [Vaidika, Śaiva, and Pāñcarātrika] are alternatives from which one  
-is free to choose. So these two [bodies of scripture, the Śaiva and the Pañ 
-carātra,] are not invalid, because they have been composed by a competent  
-authority [namely God himself] and because they do not contradict the Veda. 
-Here, then, is a view that has accepted much of the Saiddhāntikas’ own ar 
-gument for the validity of their scriptures, namely (1) the evidence of compliance  
-with Vaidika ordinances, a feature that Jayanta takes to differentiate them mark 
-edly from such teachings as those of the ‘Veda-rivalling’ Buddhists, which, as he  
-claims shortly after the passage quoted here, actually forbid adherence to to these  
-ordinances; 64 and (2) that of validation by the Vaidika scriptures themselves. In 
-deed it appears, if Cakradhara’s commentary on the Nyāyamañjarī expresses a  
-widely held view, that in this aspect the Naiyāyika defense of the Śaiva scriptures  
-had actually attempted to strengthen the case made by the Śaivas themselves  
-by claiming that even the ceremony of Śaiva initiation (dīkṣā), the centrepiece of  
-the Mantramārga’s bid to be considered superior to the religion of the Veda and  
-for this very reason one of the principal grounds for its rejection by the theoreti 
-cians of Vaidika orthopraxy, has been validated by the unquestionable evidence  
-of Vaidika scripture.65 
-64. Nyāyamañjarī-Āgamaprāmāṇya, p. 154, l. 31 to p. 155, l. 1: ‘For in the case of the teachings of the  
-Buddha their being outside the Veda is fully manifest, since they stress that one should avoid behaving  
-in keeping with the duties imposed by the caste in which one was born.’ Jayanta refers to the Buddhists  
-and others as ‘Veda-rivalling’, p. 197 [156], l. 6: vedaspardhino bauddhādayo niṣeddhavyāḥ. 
-65. Cakradhara, Nyāyamañjarīgranthibhaṅga, p. 379, ll. 21–23: ‘Showing in the Dānadharma [of the  
-Śāntiparvan of the Mahābhārata] that Upamanyu taught Kr̥ṣṇa the dīkṣā taught in those teachings he  
-has made this validity of the Śaiva scriptures clear.’ He has in mind here Mahābhārata 13.15.4ab: ‘And  
-on the eighth day I was duly initiated (dīkṣito ’haṁ yathāvidhi) by that learned brahmin.’ This is in fact a  
-spurious argument, since Dīkṣā here is not Śaiva initiation but ‘[a period of] ascetic restraint’ (syn. vra 
-186 
-33211 Honoris Causa 3P.indd 186 11/18/15 5:22 PM
-tolerance, exclusivity, inclusivity, and persecution . . . 
-A significant part of the Saiddhāntika defense of their system is lacking here,  
-namely Sadyojyotis’s argument that the Śaiva scriptures presuppose the validity  
-of the Veda to the extent that Śaivism collapses if that presupposition is not de 
-fended, which is to say that for the Śaivas the proof of the validity of scripture  
-(āgamaprāmāṇyam) must of necessity encompass both the Śaiva and the Vaidika  
-corpora. Evidently that is because the acceptance of this argument is incompat 
-ible with even the most tolerant Vaidika view, since it is inseparably connected  
-with the doctrine that Śaivism is superior to the faith of the Veda, accepting the  
-validity of the Veda in its sphere only because it needs to believe that its initiation  
-is liberating the soul from real bonds. 
-It is in the same spirit, I propose, that Jayanta puts forward here the vague  
-and inaccurate claim that the teachings of the Śaiva scriptures are consistent with  
-those of the Vaidika Upaniṣads. 
-This in short is a view that accommodates the religion of the Śaivas but over 
-looks what makes that religion unique in their own estimation, choosing not to see  
-the respects in which the teachings of the Śaivas differ from those of the Vaiṣṇava  
-and Vaidika traditions in matters of metaphysics and soteriology, even though  
-some of these positions bear strongly on their sense of identity and purpose. The  
-price of recognition, then, is that the Śaivas must accept a watered-down version  
-of themselves, one in which they are no longer the inheritors of a uniquely effica 
-cious vehicle of salvation, but subscribers to an ecumenism that argues that there  
-is but one god with many forms and names teaching various paths that lead to  
-the same goal. They are invited in other words to see themselves as just another  
-equipolent component of the complex that would come to be called Hinduism. 
-We might be tempted to see this view of Śaivism as idiosyncratic. It certainly  
-does not seem to to be found in the work of any other Vaidika authority of this  
-tam), a common usage in that text; see, e.g., 2.16.13c: ‘emaciated because of his Dīkṣā’ (dīkṣākr̥śatanuḥ);  
-5.118.7abc: ‘having reduced her body with various kinds of fasting, with Dīkṣās, and restraints’ (upavā saiś ca vividhair dīkṣābhir niyamais tathā | ātmano laghutāṁ kr̥tvā); and 13.130.50ab: ‘having observed  
-the Dīkṣā for twelve years’ (cīrtvā dvādaśa varṣāṇi dīkṣām). 
-187 
-33211 Honoris Causa 3P.indd 187 11/18/15 5:22 PM
-Honoris Causa 
-period.66 However, Jayanta himself blocks this line of thought by stating categor 
-ically that his position is that of the greater society (mahājanaḥ), which he defines  
-as all who live in Āryadeśa within the boundaries of the system of the four caste 
-classes and four life-disciplines in accordance with the ordinances of the Veda; 67 
-it is the consensus of this community which for him constitutes the true arbiter  
-of orthopraxy and therefore of scriptural validity; and this community, he says,  
-currently accepts as valid not only the Vedas and the secondary Vaidika scrip 
-tures that follow in their wake, but also such other scriptural corpora as are not  
-in opposition to the Vedas, namely the Śaiva and the Pañcarātra.68 
-66. It has been claimed by Svāmī Yogīndrānanda, the editor of the Nyāyabhūṣaṇa, that the validity of the  
-Śaiva scriptures was also defended by its author Bhāsarvajña (fl. c. 900), Jayanta’s near-contemporary  
-and fellow-Naiyāyika (Introduction, p. 19: śaivagranthānāṁ prāmāṇyaṁ pratanoti). But this is based on  
-a misunderstanding of Nyāyabhūṣaṇa, p. 402, ll. 6–10. The form and terms of Bhāsarvajña’s argument  
-in this passage are in fact largely lifted from the Buddhist Dharmakīrti’s auto-commentary on 1.246 of  
-his Pramāṇavārttika. Bhāsarvajña, like Dharmakīrti admits that Śaiva Mantras, like any other Mantras,  
-produce supernatural effects (siddhiḥ). But he neither states nor implies that the scriptures that teach  
-them are valid. 
-67. The term Āryadeśa ‘the territory of the Āryas’ in this context does not denote a particular region  
-of India. Rather it refers to all regions within which the system of the four caste-classes and disciplines  
-has been established, as opposed to mlecchadeśaḥ, ‘the territory of the barbarians’, where it has not.  
-Consider, for example, Abhinavagupta, Tantrasāra, p. 133: ‘as the regions of the Āryas are for the ad 
-herents of the religion and the regions of the barbarians are for those outside it’ (āryadeśā iva dhār 
-mikāṇāṁ mlecchadeśā iva adhārmikāṇām); and Nyāyamañjarī vol. 1, p. 595, ll. 11–12: ‘Or rather the [true]  
-meaning of words is that established in Āryadeśa. Any other meaning, accepted by the barbarians, is  
-certainly to be disregarded’ (athavā āryadeśaprasiddha eva śabdānām arthaḥ. itaras tu mlecchajana sammato ’nādaraṇīya eva). This distinction between Ārya and Mleccha is cultural rather than racial.  
-The term mlecchabhāṣāḥ‘languages of the barbarians’ refers not only to foreign languages, such as  
-those of India’s Śaka and Hūṇa invaders, but also to the Dravidian and other non-Indo-Aryan languages  
-of the subcontinent. But the regions in which these languages were spoken were not mlecchadeśāḥ where the system of the four caste-classes and disciplines had been established, as was the case in the  
-Dravidian-language regions during our period, at least in the nuclear regions of the various states that  
-flourished there. Abhinavagupta, we may presume, did not consider the brahmins of the Tamil region  
-who were his contemporaries to be Mlecchas bereft of religion. 
-68. Nyāyamañjarī-Āgamaprāmāṇya, p. 156, ll. 14–15: ‘By the greater society (mahājanaḥ) I mean this  
-population established in Āryadeśa comprising all those within the four caste-classes and the four  
-life-disciplines’; p. 197 (156), ll. 1–4: ‘Only when [a body of scripture] has the support of general ac 
-ceptance by the orthoprax consensus can one say without difficulty that it is the teaching of a trust 
-worthy source; and the orthoprax consensus recognizes as valid (1) the Vedas, (2) the Purāṇas and  
-188 
-33211 Honoris Causa 3P.indd 188 11/18/15 5:22 PM
-tolerance, exclusivity, inclusivity, and persecution . . . 
-I see no reason to doubt the accuracy of this report of the current state of belief  
-in the Vaidika community. Jayanta offers no statistics, as he himself admits; 69 but  
-this would have been a very weak argument indeed if the evidence adduced were  
-manifestly contrary to what his audience could see for themselves. It is more reason 
-able to think that Jayanta is simply attempting to move Vaidika doctrine forward  
-from its long-established theoretical position on the subject of the non-Vaidika  
-traditions to take account of a change that had occurred in the lived relationship  
-between the orthoprax and both Śaivism and Pāñcarātrika Vaiṣṇavism in the cen turies since the emergence and development of the Mantramārga. 
-As for what he means to include under the rubric of the valid Śaiva scriptures,  
-it is clear, though not explicit, that he has in mind only the Saiddhāntika form of  
-the Mantramārga. For elsewhere he strongly condemns those forms of religion  
-whose practices violate Vaidika norms of purity and permitted conduct. Thus,  
-after arguing for the validity of the Śaiva scriptures, to which he refers without  
-differentiation simply as Śaiva,70 he turns to those forms of religion that he judges  
-to be invalid. After dismissing Buddhism, he attacks the obscure Saṁsāramo 
-Dharmaśāstras that follow their lead, and (3) some scriptures [namely those of the Śaiva canon and  
-the Pañcarātra] that are not in contradiction with the Vedas, but not those, such as that taught by the  
-Buddha, which do contradict them.’ 
-69. Debating the matter with an imaginary Buddhist, Jayanta has told him that Buddhism is invalid be 
-cause it is not accepted by the greater society (mahājanaḥ). The Buddhist then asks rhetorically, ‘What  
-is this “greater society”; what is its form; where is it located; how big is its population; and what are  
-its customs?’ and adds that in any case the Buddhists have their own “greater society” consisting of  
-their own co-religionists. Jayanta then admits that he has no physical or quantitative data concerning  
-this greater society. He cannot describe the physical appearance of its members or their total num 
-ber (ākāras tu tasya kīdr̥śaḥ pāṇipādaṁ kīdr̥śaṁ śirogrīvaṁ vā kīyatī tasya saṁkhyeti puruṣalakṣaṇāni  
-gaṇayituṁ na jānīmaḥ). But he does know that its values are pervasive, to the extent that the Buddhists  
-themselves are unable to escape them, since they too avoid untouchables, and those (the Śākta Śaivas)  
-who indulge in orgiastic rites do so covertly, not fully believing in the rightness of their transgressive  
-actions; see Nyāyamañjarī-Āgamaprāmāṇya, p. 156, l. 8 to p. 157, l. 10. For the Buddhist prohibition  
-against the ordination of untouchables see Guṇaprabha’s commentary on Vinayasūtra-Pravrajyāvastu,  
-p. 151: ‘One should not ordain as monks chariot-makers, tanners, Caṇḍālas, Pukkaśas, and the like’ (na  
-rathakāra[carmakāra]caṇḍālapukkaśatadvidhān pravrājayet). 
-70. Nyāyamañjarī-Āgamaprāmāṇya, p. 139, ll. 9–10: purāṇetihāsadharmāśāstrāṇi vā śaivapāśupatapañ carātrabauddhārhatādīni vā. tatra śaivādīni nirūpayisyāmaḥ; p. 152, l. 5: śaivādivat; l. 8: śaivādyāgamā nāṁprāmāṇyaṁ; p. 153, l. 6: śaivapañcarātrayoḥ. 
-189 
-33211 Honoris Causa 3P.indd 189 11/18/15 5:22 PM
-Honoris Causa 
-cakas (‘Those who Free Souls from Saṁsāra [by killing them in order to end their  
-suffering]’),71 and then goes on to say: 72 
-How can anyone bring himself even to mention the question of the validity  
-of those systems whose rites are dominated by engagement in the forbidden? 
-which his commentator Cakradhara takes, no doubt correctly, to be an allusion  
-to the Bhairava Śaivism of the Right Stream (dakṣiṇasrotaḥ), since to illustrate  
-Jayanta’s point he quotes a verse that declares that the impurities of the body are  
-considered pure in that system.73 Then, condemning the relativistic argument that  
-no system should be judged by any standards other than its own, Jayanta states: 74 
-As for those others, who practice various impermissible forms of post 
-initiatory observance (dīkṣā) that [claim to] transcend inhibiting duality  
-(nirvikalpa-) through such means as eating the impure and having sexual in 
-tercourse with forbidden partners, [they evidently lack the strength of their  
-professed conviction, because] they do not do these things openly but act in  
-secret, shying away from the majority that abides by the rules that govern  
-the four caste-classes and life-disciplines. For if their faith in their scriptures  
-is so free of doubt why do they put their teachings into practice like thieves  
-[avoiding detection]. 
-Here he attacks what can only be Śākta-Śaiva traditions of the Kaula type.  
-For the use of the term nirvikalpa- in the special sense that we see here, namely  
-free of doubt, free of inhibition, or free of duality, in the sense of being free of dis 
-71. On the Saṁsāramocakas and the ṭhags see Halbfass 1983, pp. 10–15. 
-72. Nyāyamañjarī-Āgamaprāmāṇya, p. 155, ll. 5–6. 
-73. Nyāyamañjarīgranthibhaṅga, vol. 1, p. 380, ll. 22–26): ‘Without a doubt, for Sādhakas in the Bhairava  
-system faeces, urine, fat, and blood are pure.’ Cf. Sanderson 2005, pp. 110–114, fn. 63 on the ‘five nec 
-tars’ (pañcāmr̥tam). 
-74. Nyāyamañjarī-Āgamaprāmāṇya, p. 157, ll. 7–10. 
-190 
-33211 Honoris Causa 3P.indd 190 11/18/15 5:22 PM
-tolerance, exclusivity, inclusivity, and persecution . . . 
-crimination between the permitted and the forbidden, is a hallmark of the Śākta 
-leaning non-Saiddhāntika and Kaula literature.75 Moreover, the passage brings  
-to mind others in the Kashmirian literature of this period which use the same  
-idiom in describing the activities of the Kaulas, such as the satirist Kṣemendra’s  
-description of women in the initiatory circle of a fictional Kaula Guru: 76 
-Once initiated by that libertine Guru [and Guru of libertines] (jāraguruṇā)  
-those beauties would make love with all and sundry, faithfully adhering to the  
-non-dualistic observance (nirvikalpavrate sthitāḥ). 
-and of a caste-promiscuous Kaula orgy as a symptom of the degeneration of soci 
-ety that will herald the descent of Kalkin, Viṣṇu’s tenth Avatāra: 77 
-[At that time] the Gurus teach that liberation is attained in a circle gathering  
-with dyers of cloth, weavers, tanners, cremation-ground attendants (kāpā 
-lika-), and other such persons of the service-castes (-śilpibhiḥ), by drinking  
-[wine] from a single vessel with them and holding an ecstatic orgy of non 
-dualistic/indiscriminate (nirvikalpa-) love-making.78 
+Vaidika social order and thus conducted themselves in matters of religion in the  manner envisaged by Brahmaśambhu and the Mohacūḍottara. Indeed, in many  cases their panegyrists have portrayed them as zealous propagators of that order,  praising them for their efforts to reverse the decline in the hold of the Vaidika  order on society.60 
+
+- 60. Space prevents me from setting forth here the epigraphical evidence of the engagement of Śaiva kings in these efforts to promote Brahmanism in their kingdoms. It has been presented in detail in my  forthcoming Śaivism and Brahmanism. 
+
+## The Loss of Transcendence 
+This double religion, combining the Vaidika religion and Śaivism under royal  authority, was from the point of view of all Śaiva theoreticians a two-tiered hierarchy with Śaivism on top and the Vaidika religion below. The theoreticians’  ahistorical and fundamentalist presentation depicts no overlap between the two  levels, no encroachment of one upon the other, or rather it uses theory to outlaw  any such encroachment. 
+
+Nonetheless, when we see that the Vaidika domain has been so comprehen sively accommodated we are bound to look for evidence of a weakening of the  orthoprax Vaidikas’ rejection of Śaivism and also of a commensurate adoption  by Śaivas themselves of a view of their religion that surrendered the doctrine of  its transcendence. We may well imagine Śaivas who had abandoned all sense of  their religion as a path above the Vaidika, who saw themselves simply as Śaivas  by birth, who claimed for their scriptures no more than that they apply to them  as Śaivas, that there is nothing special about initiation, that it is merely a rite  of passage into ritual activities peculiar to their group, and that these activities  are much like the practices of other groups, Vaiṣṇava and orthoprax Vaidika, of  similar social standing. 
+
+## Jayanta 
+We do indeed find evidence of both these developments. The earliest appears on the  Vaidika side near the end of the ninth century in the Nyāyamañjarī of the Kashmirian  philosopher Bhaṭṭa Jayanta, minister of king Śaṇkaravarman (r. c. ad 883–902) and  author of the Āgamaḍambara, the humorous play about the religious tensions of the  day that I have cited above. He states that he undertook the monumental Nyāya-mañjarī in order to protect the authority of the Vedas; and this commitment is apparent throughout.61 
+
+- 61. Nyāyamañjarī, vol. 1, p. 7, ll. 6–9: ‘As for the system of the Nyāya taught by Akṣapāda, it is the central pillar [that holds up the edifice] of all the other branches of learning. This because it is the means of    safeguarding the authority of the Vedas. For if the Vedas have their authority overturned by the false    reasonings authored by false philosophers, the commitment of the pious would slacken. Why then  would they devote themselves to the task of putting its injunctions into practice, a task that among    other things requires great expense and exertion if it is to be accomplished successfully?’ 
+
+
+Yet he argues for the validity of the Śaiva scriptures: 62 
+
+- 62. Nyāyamañjarī-Āgamaprāmāṇya, ed. Kataoka, p. 152, l. 3 to p. 154, l. 8, corresponding to Nyāyamañ jarī, vol. 1, p. 635, l. 6 to p. 637, l. 2. 
+
+> But as for the scriptures that we see which are other than [those of the Vedic  corpus], they too are of two kinds. Some, such as those taught by the Buddha,  are completely at odds with the Veda. But others, such as those taught by Śiva,  are certainly not, merely teaching optional modes of religious observance that  differ [from those of that corpus]. I declare that of these the scriptures [of  the latter kind, those] taught by Śiva and [Viṣṇu,] are undoubtedly (tāvat) valid. This is (1) because we find in the cognitions that they produce none of the numerous defects that give rise [in other cases] to doubt or refutation, [and] (2) because we are unable to impute any of the motives such as greed and  delusion that might otherwise explain their creation, since both Smr̥ti texts  and inference establish that these too were authored by God (Īśvara). For we  find in them no record of their having come into existence at a specific time  [after the creation]; and we find in them, as in the Veda, numerous instances  of ekadeśasaṁvādaḥ [, that is to say, of] ‘the verification of claims made in  part [of the corpus’, claims which when they have been put to the test and found effective evince confidence in the truth of its statements on matters that  must be taken on trust]. So what scope remains for the postulation that they  have some other source [such as human greed or ignorance]? Nor [, unlike the  scriptures of the Buddhists and others,] do they stand in opposition to the  Veda. For they do not abandon participation in the system of the four caste classes and [four life-disciplines] established by [the ordinances of] the Veda. 
+>
+> The manner [in which we establish the validity] of the injunctions of  Manu and the other [promulgators of secondary scripture] cannot  apply to the Śaiva scriptural corpus. But that does not entail its in validity. [For] throughout its texts we find clear understanding of the  well-known teachings of all the Upaniṣads pertaining to the ultimate  goal. Moreover, even the foremost of those who have mastered the  Veda, such as Kr̥ṣṇadvaipāyana, support the view that the teachings  of the Śaiva scriptures and [the like] are valid. And he has taught that  this validity also applies to [the corpus of Vaiṣṇava texts called] the  Pañcarātra. For they too contain nothing that requires us to dismiss  them as devoid of authority.63 
+
+- 63. He refers to Kr̥ṣṇadvaipāyana, alias Vyāsa, as the author of the Mahābhārata, which does indeed  assert this validity in the Mokṣadharma provided that one understands the term pāśupatam to refer in the meaning ‘that taught by Paśupati’ (following Aṣṭādhyāyī 4.3.101: ten proktam) to Śaivism in general  rather than specifically to the Pāśupata system. He anachronistically includes under that heading the  Saiddhāntika Śaiva scriptures, and accepts, as some did not, that the passage authorizes not just the  study of these texts but also the enacting of their injunctions. 
+
+
+>
+> Moreover, they contain the declaration that Lord Viṣṇu is their author; and  he is just God himself (Īśvara) [under another name]. Because one beginningless soul with infinite power, the wondrous  (kasyacit) cause of the creation of the entire universe, undertakes the  [three] distinct tasks of creating the world, holding it in existence, and  withdrawing it [again at the end of each cycle], it has come to be per ceived as [three distinct deities:] Brahmā, Viṣṇu, and Rudra. 
+>
+> Furthermore, at various places within the Veda we have the texts ‘Rudra  
+alone remained. There was no second’ (eka eva rudro ’va tasthe na dvitīyaḥ)  and ‘Viṣṇu strode out over [all] this’ (idaṁ viṣṇur vi cakrame); and means of  union with these [deities], [that is to say] methods for their propitiation, are  certainly enjoined in the Veda too. As for the methods taught in the Śaiva  scriptures and the Pañcarātra, they are certainly different; but this does not  amount to an [invalidating] contradiction of the Veda, because these [various]  methods [Vaidika, Śaiva, and Pāñcarātrika] are alternatives from which one  is free to choose. So these two [bodies of scripture, the Śaiva and the Pañcarātra,] are not invalid, because they have been composed by a competent  authority [namely God himself] and because they do not contradict the Veda. 
+
+Here, then, is a view that has accepted much of the Saiddhāntikas’ own ar gument for the validity of their scriptures, namely (1) the evidence of compliance  with Vaidika ordinances, a feature that Jayanta takes to differentiate them markedly from such teachings as those of the ‘Veda-rivalling’ Buddhists, which, as he claims shortly after the passage quoted here, actually forbid adherence to to these  ordinances; 64 and (2) that of validation by the Vaidika scriptures themselves. Indeed it appears, if Cakradhara’s commentary on the Nyāyamañjarī expresses a  widely held view, that in this aspect the Naiyāyika defense of the Śaiva scriptures  had actually attempted to strengthen the case made by the Śaivas themselves  by claiming that even the ceremony of Śaiva initiation (dīkṣā), the centrepiece of  the Mantramārga’s bid to be considered superior to the religion of the Veda and  for this very reason one of the principal grounds for its rejection by the theoreticians of Vaidika orthopraxy, has been validated by the unquestionable evidence  of Vaidika scripture.65 
+
+- 64. Nyāyamañjarī-Āgamaprāmāṇya, p. 154, l. 31 to p. 155, l. 1: ‘For in the case of the teachings of the Buddha their being outside the Veda is fully manifest, since they stress that one should avoid behaving  in keeping with the duties imposed by the caste in which one was born.’ Jayanta refers to the Buddhists  and others as ‘Veda-rivalling’, p. 197 [156], l. 6: veda-spardhino bauddhādayo niṣeddhavyāḥ. 
+- 65. Cakradhara, Nyāyamañjarīgranthibhaṅga, p. 379, ll. 21–23: ‘Showing in the Dānadharma [of the  Śāntiparvan of the Mahābhārata] that Upamanyu taught Kr̥ṣṇa the dīkṣā taught in those teachings he  has made this validity of the Śaiva scriptures clear.’ He has in mind here Mahābhārata 13.15.4ab: ‘And  on the eighth day I was duly initiated (dīkṣito ’haṁ yathāvidhi) by that learned brahmin.’ This is in fact a  spurious argument, since Dīkṣā here is not Śaiva initiation but ‘[a period of] ascetic restraint’ (syn. vratam), a common usage in that text; see, e.g., 2.16.13c: ‘emaciated because of his Dīkṣā’ (dīkṣākr̥śatanuḥ);  5.118.7abc: ‘having reduced her body with various kinds of fasting, with Dīkṣās, and restraints’ (upavāsaiś ca vividhair dīkṣābhir niyamais tathā | ātmano laghutāṁ kr̥tvā); and 13.130.50ab: ‘having observed  the Dīkṣā for twelve years’ (cīrtvā dvādaśa varṣāṇi dīkṣām). 
+
+
+A significant part of the Saiddhāntika defense of their system is lacking here,  namely Sadyojyotis’s argument that the Śaiva scriptures presuppose the validity  of the Veda to the extent that Śaivism collapses if that presupposition is not defended, which is to say that for the Śaivas the proof of the validity of scripture  (āgamaprāmāṇyam) must of necessity encompass both the Śaiva and the Vaidika  corpora. Evidently that is because the acceptance of this argument is incompatible with even the most tolerant Vaidika view, since it is inseparably connected  with the doctrine that Śaivism is superior to the faith of the Veda, accepting the  validity of the Veda in its sphere only because it needs to believe that its initiation  is liberating the soul from real bonds. 
+
+It is in the same spirit, I propose, that Jayanta puts forward here the vague  and inaccurate claim that the teachings of the Śaiva scriptures are consistent with  those of the Vaidika Upaniṣads. 
+
+This in short is a view that accommodates the religion of the Śaivas but overlooks what makes that religion unique in their own estimation, choosing not to see  the respects in which the teachings of the Śaivas differ from those of the Vaiṣṇava  and Vaidika traditions in matters of metaphysics and soteriology, even though  some of these positions bear strongly on their sense of identity and purpose. The  price of recognition, then, is that the Śaivas must accept a watered-down version  of themselves, one in which they are no longer the inheritors of a uniquely efficacious vehicle of salvation, but subscribers to an ecumenism that argues that there is but one god with many forms and names teaching various paths that lead to  the same goal. They are invited in other words to see themselves as just another  equipolent component of the complex that would come to be called Hinduism. 
+
+We might be tempted to see this view of Śaivism as idiosyncratic. It certainly  does not seem to to be found in the work of any other Vaidika authority of this  period.66 However, Jayanta himself blocks this line of thought by stating categorically that his position is that of the greater society (mahājanaḥ), which he defines as all who live in Āryadeśa within the boundaries of the system of the four caste classes and four life-disciplines in accordance with the ordinances of the Veda; 67 it is the consensus of this community which for him constitutes the true arbiter  of orthopraxy and therefore of scriptural validity; and this community, he says,  currently accepts as valid not only the Vedas and the secondary Vaidika scriptures that follow in their wake, but also such other scriptural corpora as are not  in opposition to the Vedas, namely the Śaiva and the Pañcarātra.68 
+
+- 66. It has been claimed by Svāmī Yogīndrānanda, the editor of the Nyāyabhūṣaṇa, that the validity of the  Śaiva scriptures was also defended by its author Bhāsarvajña (fl. c. 900), Jayanta’s near-contemporary  and fellow-Naiyāyika (Introduction, p. 19: śaivagranthānāṁ prāmāṇyaṁ pratanoti). But this is based on  a misunderstanding of Nyāyabhūṣaṇa, p. 402, ll. 6–10. The form and terms of Bhāsarvajña’s argument  in this passage are in fact largely lifted from the Buddhist Dharmakīrti’s auto-commentary on 1.246 of  his Pramāṇavārttika. Bhāsarvajña, like Dharmakīrti admits that Śaiva Mantras, like any other Mantras,  produce supernatural effects (siddhiḥ). But he neither states nor implies that the scriptures that teach  them are valid. 
+- 67. The term Āryadeśa ‘the territory of the Āryas’ in this context does not denote a particular region  of India. Rather it refers to all regions within which the system of the four caste-classes and disciplines  has been established, as opposed to mlecchadeśaḥ, ‘the territory of the barbarians’, where it has not.  Consider, for example, Abhinavagupta, Tantrasāra, p. 133: ‘as the regions of the Āryas are for the adherents of the religion and the regions of the barbarians are for those outside it’ (āryadeśā iva dhārmikāṇāṁ mlecchadeśā iva adhārmikāṇām); and Nyāyamañjarī vol. 1, p. 595, ll. 11–12: ‘Or rather the [true]  meaning of words is that established in Āryadeśa. Any other meaning, accepted by the barbarians, is  certainly to be disregarded’ (athavā āryadeśaprasiddha eva śabdānām arthaḥ. itaras tu mlecchajana-sammato ’nādaraṇīya eva). This distinction between Ārya and Mleccha is cultural rather than racial.  The term mlecchabhāṣāḥ ‘languages of the barbarians’ refers not only to foreign languages, such as  those of India’s Śaka and Hūṇa invaders, but also to the Dravidian and other non-Indo-Aryan languages  of the subcontinent. But the regions in which these languages were spoken were not mlecchadeśāḥ where the system of the four caste-classes and disciplines had been established, as was the case in the  Dravidian-language regions during our period, at least in the nuclear regions of the various states that  flourished there. Abhinavagupta, we may presume, did not consider the brahmins of the Tamil region  who were his contemporaries to be Mlecchas bereft of religion. 
+- 68. Nyāyamañjarī-Āgamaprāmāṇya, p. 156, ll. 14–15: ‘By the greater society (mahājanaḥ) I mean this  population established in Āryadeśa comprising all those within the four caste-classes and the four  life-disciplines’; p. 197 (156), ll. 1–4: ‘Only when [a body of scripture] has the support of general acceptance by the orthoprax consensus can one say without difficulty that it is the teaching of a trust worthy source; and the orthoprax consensus recognizes as valid (1) the Vedas, (2) the Purāṇas and Dharmaśāstras that follow their lead, and (3) some scriptures [namely those of the Śaiva canon and  the Pañcarātra] that are not in contradiction with the Vedas, but not those, such as that taught by the  Buddha, which do contradict them.’ 
+
+
+I see no reason to doubt the accuracy of this report of the current state of belief  in the Vaidika community. Jayanta offers no statistics, as he himself admits; 69 but  this would have been a very weak argument indeed if the evidence adduced were  manifestly contrary to what his audience could see for themselves. It is more reason able to think that Jayanta is simply attempting to move Vaidika doctrine forward  from its long-established theoretical position on the subject of the non-Vaidika  traditions to take account of a change that had occurred in the lived relationship  between the orthoprax and both Śaivism and Pāñcarātrika Vaiṣṇavism in the cen turies since the emergence and development of the Mantramārga. 
+
+As for what he means to include under the rubric of the valid Śaiva scriptures,  it is clear, though not explicit, that he has in mind only the Saiddhāntika form of  the Mantramārga. For elsewhere he strongly condemns those forms of religion  whose practices violate Vaidika norms of purity and permitted conduct. Thus, after arguing for the validity of the Śaiva scriptures, to which he refers without  differentiation simply as Śaiva,70 he turns to those forms of religion that he judges  to be invalid. 
+
+69. Debating the matter with an imaginary Buddhist, Jayanta has told him that Buddhism is invalid because it is not accepted by the greater society (mahājanaḥ). The Buddhist then asks rhetorically, ‘What  is this “greater society”; what is its form; where is it located; how big is its population; and what are  its customs?’ and adds that in any case the Buddhists have their own “greater society” consisting of  their own co-religionists. Jayanta then admits that he has no physical or quantitative data concerning  this greater society. He cannot describe the physical appearance of its members or their total number (ākāras tu tasya kīdr̥śaḥ pāṇipādaṁ kīdr̥śaṁ śirogrīvaṁ vā kīyatī tasya saṁkhyeti puruṣalakṣaṇāni  gaṇayituṁ na jānīmaḥ). But he does know that its values are pervasive, to the extent that the Buddhists  themselves are unable to escape them, since they too avoid untouchables, and those (the Śākta Śaivas)  who indulge in orgiastic rites do so covertly, not fully believing in the rightness of their transgressive  actions; see Nyāyamañjarī-Āgamaprāmāṇya, p. 156, l. 8 to p. 157, l. 10. For the Buddhist prohibition  against the ordination of untouchables see Guṇaprabha’s commentary on Vinayasūtra-Pravrajyāvastu,  p. 151: ‘One should not ordain as monks chariot-makers, tanners, Caṇḍālas, Pukkaśas, and the like’ (na  rathakāra[carmakāra]caṇḍāla-pukkaśatadvidhān pravrājayet). 
+- 70. Nyāyamañjarī-Āgamaprāmāṇya, p. 139, ll. 9–10: purāṇetihāsa-dharmāśāstrāṇi vā śaiva-pāśupata-pañcarātra-bauddhārhatādīni vā. tatra śaivādīni nirūpayisyāmaḥ; p. 152, l. 5: śaivādi-vat; l. 8: śaivādyāgamā nāṁ prāmāṇyaṁ; p. 153, l. 6: śaiva-pañcarātrayoḥ. 
+
+After dismissing Buddhism, he attacks the obscure Saṁsāramocakas (‘Those who Free Souls from Saṁsāra [by killing them in order to end their  suffering]’),71 and then goes on to say: 72 
+
+- 71. On the Saṁsāramocakas and the ṭhags see Halbfass 1983, pp. 10–15. 
+- 72. Nyāyamañjarī-Āgamaprāmāṇya, p. 155, ll. 5–6. 
+
+> How can anyone bring himself even to mention the question of the validity  
+o those systems whose rites are dominated by engagement in the forbidden? 
+
+which his commentator Cakradhara takes, no doubt correctly, to be an allusion  to the Bhairava Śaivism of the Right Stream (dakṣiṇasrotaḥ), since to illustrate  Jayanta’s point he quotes a verse that declares that the impurities of the body are  considered pure in that system.73 Then, condemning the relativistic argument that  no system should be judged by any standards other than its own, Jayanta states: 74 
+
+- 73. Nyāyamañjarīgranthibhaṅga, vol. 1, p. 380, ll. 22–26): ‘Without a doubt, for Sādhakas in the Bhairava  system faeces, urine, fat, and blood are pure.’ Cf. Sanderson 2005, pp. 110–114, fn. 63 on the ‘five nectars’ (pañcāmr̥tam). 
+- 74. Nyāyamañjarī-Āgamaprāmāṇya, p. 157, ll. 7–10. 
+
+
+> As for those others, who practice various impermissible forms of post initiatory observance (dīkṣā) that [claim to] transcend inhibiting duality  (nirvikalpa-) through such means as eating the impure and having sexual intercourse with forbidden partners, [they evidently lack the strength of their  professed conviction, because] they do not do these things openly but act in  secret, shying away from the majority that abides by the rules that govern  the four caste-classes and life-disciplines. For if their faith in their scriptures  is so free of doubt why do they put their teachings into practice like thieves  [avoiding detection]. 
+
+Here he attacks what can only be Śākta-Śaiva traditions of the Kaula type.  For the use of the term nirvikalpa- in the special sense that we see here, namely  free of doubt, free of inhibition, or free of duality, in the sense of being free of discrimination between the permitted and the forbidden, is a hallmark of the Śākta leaning non-Saiddhāntika and Kaula literature.75 
+
+- 75. See, e.g., Bhairavamangalā f. 15r6–7: nirvikalpo ’viśaṇkī ca *pañcāmr̥tam (corr.: pañcāmr̥tas Cod.) upāharet; and Matasāra f. 62v1–3: bhaginī-bhrātaraiḥ sārdhaṁ śisyaiḥ pūrveva dīkṣitaiḥ || tataś cakropacāreṇa bhakṣayeta śanaiḥ śanaiḥ | mukhān mukhena saṁprāśya nirvikalpena cetasā || tataḥ prakṣālya hastau ca alinā+++(??)+++ siddhim icchatā | bhaktyā viśuddhayā yukto pūjayet parameśvaram. 
+
+Moreover, the passage brings  to mind others in the Kashmirian literature of this period which use the same  idiom in describing the activities of the Kaulas, such as the satirist Kṣemendra’s  description of women in the initiatory circle of a fictional Kaula Guru: 76 
+
+- 76. Narmamālā 2.54. 
+
+> Once initiated by that libertine Guru [and Guru of libertines] (jāraguruṇā)  those beauties would make love with all and sundry, faithfully adhering to the non-dualistic observance (nirvikalpavrate sthitāḥ). 
+
+and of a caste-promiscuous Kaula orgy as a symptom of the degeneration of society that will herald the descent of Kalkin, Viṣṇu’s tenth Avatāra: 77 
+
+- 77. Daśāvatāracarita 10.26. 
+
+> [At that time] the Gurus teach that liberation is attained in a circle gathering  with dyers of cloth, weavers, tanners, cremation-ground attendants (kāpālika-), and other such persons of the service-castes (-śilpibhiḥ), by drinking  [wine] from a single vessel with them and holding an ecstatic orgy of non dualistic/indiscriminate (nirvikalpa-) love-making.78 
+
+- 78. For the use of the term kāpālikaḥ in the meaning ‘cremation-ground attendant’ (→ Kashmiri kāwuj) see Sanderson 2009a, p. 294, fn. 699.
+
 and the historian Kalhaṇa’s comments on Pramadakaṇṭha, the Guru of the  
 Kashmirian king Kalaśa (r. ad 1063–1089): 79 
-75. See, e.g., Bhairavamangalā f. 15r6–7: nirvikalpo ’viśaṇkī ca *pañcāmr̥tam (corr.: pañcāmr̥tas 
-Cod.) upāharet; and Matasāra f. 62v1–3: bhaginībhrātaraiḥ sārdhaṁ śisyaiḥ pūrveva dīkṣitaiḥ || tataś  
-cakropacāreṇa bhakṣayeta śanaiḥ śanaiḥ | mukhān mukhena saṁprāśya nirvikalpena cetasā || tataḥ prakṣālya hastau ca alinā siddhim icchatā | bhaktyā viśuddhayā yukto pūjayet parameśvaram. 
-76. Narmamālā 2.54. 
-77. Daśāvatāracarita 10.26. 
-78. For the use of the term kāpālikaḥ in the meaning ‘cremation-ground attendant’ (→ Kashmiri kāwuj)  
-see Sanderson 2009a, p. 294, fn. 699. 
-79. Rājataraṅgiṇī 7.277–278. 
-191 
-33211 Honoris Causa 3P.indd 191 11/18/15 5:22 PM
-Honoris Causa 
-The Guru, by teaching forbidden [religious] practices to that [king], who was  
-already wicked by nature, abolished in him all consciousness of the distinction  
-between permitted and forbidden sexual partners, and he himself engaged  
-in sexual intercourse without inhibition even with his own daughter. What  
-greater evidence of the freedom from duality (gatavikalpatvam) 80 achieved by  
-this Guru could I provide? 
-Bhaṭṭa Rāmakaṇṭha II’s Śaivas without Pride of Transcendence 
-Having established that Jayanta’s view of Saiddhāntika Śaivism as a valid from of  
-religion is unlikely to have been a minority view in the general Vaidika population  
-outside Śaiva circles, we must wonder whether it is likely that this view could  
-have been as general as he says it was in the absence of Śaivas who subscribed to  
-it themselves. 
-There are indeed indications that an ideologically emasculated Śaivism of the  
-kind outlined by Jayanta did exist and therefore that the great Kashmirian Naiyā 
-yika was indeed expressing the view of an already established segment of the Śai 
-vas themselves. Furthermore, we may suspect that this had become the majority  
-view among them, and that the learned theories of the Śaiva theologians, which  
-demonstrate how Śaivism is superior to the Vaidika religion, how its rituals and  
-meditations work on an altogether higher level and its doctrines penetrate far be 
-yond the reach of its rival, were not so much articulations of established, common  
-belief as fundamentalist attempts to revitalize and recover a tradition that was fast  
-losing a sense of its original calling. Thus Bhaṭṭa Rāmakaṇṭha, writing in the tenth  
-century, when Saiddhāntika learning in Kashmir was at its height, tells us that one  
-of his reasons for writing his commentary on the Saiddhāntika scripture Mataṅga 
-pārameśvara was to counteract attempts to draw the understanding of the text  
-into the Vaidika domain, by going back to the foundational doctrines of Sadyo 
-jyotis and Br̥haspati and sweeping away what he saw as the inauthentic interpre tations of the Siddhānta that had developed since the time of these two founding  
-80. This expression gatavikalpatvam equals nirvikalpatvam, i.e., ‘being nirvikalpaḥ.’ 
-192 
-33211 Honoris Causa 3P.indd 192 11/18/15 5:22 PM
-tolerance, exclusivity, inclusivity, and persecution . . . 
-fathers of Saiddhāntika exegesis.81 And he confirms that this loss of identity was  
-well advanced when he targets for criticism the view of some at least of his Śaiva  
-co-religionists that the execution of their regular rituals of worship was merely  
-the fulfilment of a duty, with no higher purpose than conformity to scriptural  
-injunction, which is to say, the view of Śaivas who had abandoned a properly Śaiva  
-perspective and substituted that of the Mīmāṁsaka theorists of Vaidika ritual: 82 
-Now, for what purpose do we do [our obligatory Śaiva] rituals, time-fixed and  
-[incidental]? Some say that our engagement in these is entirely without pur 
-pose, [that we do them simply] because they are enjoined [by our scriptures],  
-just as the Mīmāṁsakas [hold with regard to their own obligatory rituals].  
-That is not correct; because [the two cases, the Vaidika and Śaiva,] are differ 
-ent. For the [Mīmāṁsakas] hold that [their] scriptures are valid because they  
-are not the product of any conscious being [but are an eternal self-existent  
-body of injunctions that minds can perceive but have not created]. So they  
-may well formulate such a view. But in our system [our scriptures are held  
-to be valid] as the work of all-knowing [God]. So how can [we believe that]  
-he could teach something that has no purpose? Or rather, if he does so then  
-he must be comparable to an imbecile or madman and therefore, being non 
-omniscient, not worthy of our regard, with the undesired consequence that  
-our scriptures would be invalid.83 
-81. See Mataṅgapārameśvaravr̥tti, Vidyāpāda, Maṅgala vv. 2 and 4 (2 = Mokṣakārikāvr̥tti, Maṅgala v. 1).  
-For the theses, supported by these verses, (1) that Bhaṭṭa Rāmakaṇṭha saw his mission as that of re turning the Siddhānta to its original purity, freeing it from orthoprax Vaidika and Śākta influences, and  
-(2) that the success of his mission explains the long period of time between the works of Sadyojyotis  
-and Brhaspati, c. ad 650–750, and the next surviving works, from tenth-century Kashmir, see Sander 
-son 2007a. Instead of the edition’s gurūṇām api tau vandyau in 2c the Kashmirian manuscript of the  
-Bhandarkar Oriental Research Institute (P) reads gurūṇām agrato vandyau (not reported in Sanderson 
-2007a), which I judge to be preferable, both in sense and as the lectio difficilior, that is to say, the reading  
-less readily explained as a corruption of the other. 
-82. Mataṅgapārameśvaravr̥tti, introduction to Kriyāpāda 3.100c–101 (p. 66, ll. 3–6). 
-83. For what the Kashmirian Saiddhāntika scholars advocated as the correct view of the superior  
-purpose of the daily, periodic, and incidental rituals of worship required of Saiddhāntika initiates see  
-Sanderson 1995, pp. 38–43. 
-193 
-33211 Honoris Causa 3P.indd 193 11/18/15 5:22 PM
-Honoris Causa 
-Aparāditya’s Śaivas by Birth 
-A comparable situation is revealed by Aparāditya, the Śilāhāra king of North  
-Konkan, writing in the early twelfth century, through one of the Śaiva arguments  
-for acceptability that he puts up to refute in in his commentary on Yājñavalkya 
-smr̥ti. The Śaiva is made to argue that since the adherents of the Vaidika religion  
-hold that the injunctive force of the Veda is directed only to specific, restricted  
-classes of persons, they can have no reason to deny that the Śaiva scriptures are  
-valid for Śaivas as members of a similar community of birth, which suggests that  
-its members, when asked why they engage in their special Śaiva rituals, would  
-have responded like Georg Bühler’s Śaiva brahmin informants in Kashmir in 1875  
-that they attached no special importance to them but did them because this was  
-the long-established custom of their community.84 Aparāditya responds by at 
-tacking the very notion that it is possible to be a Śaiva by birth (jātyā), to be, as it  
-were, a member of a caste of Śaivas. 
-He does so in the course of his commentary on 1.7, which details the means  
-that enable men to know their religious duty (dharmamūlam) – namely Śruti,  
-Smr̥ti, observable orthopraxy (sadācāraḥ), and, within the limits set by these,  
-mental satisfaction, enabling one, for example, to decide that one is now ready  
-to end a course of ascetic observance, and personal preference, in such matters  
-as choosing the time at which to perform some pious action – taking this oppor 
-tunity to examine the objection that this list wrongly omits the Śaiva, Pāśupata,  
-Pāñcarātrika, and other (unspecified) scriptural corpora. 
+
+ 
+- 79. Rājataraṅgiṇī 7.277–278. 
+
+> The Guru, by teaching forbidden [religious] practices to that [king], who was  already wicked by nature, abolished in him all consciousness of the distinction  between permitted and forbidden sexual partners, and he himself engaged  in sexual intercourse without inhibition even with his own daughter. What  greater evidence of the freedom from duality (gatavikalpatvam) 80 achieved by this Guru could I provide? 
+
+- 80. This expression gatavikalpatvam equals nirvikalpatvam, i.e., ‘being nirvikalpaḥ.’ 
+
+
+## Bhaṭṭa Rāmakaṇṭha II’s Śaivas without Pride of Transcendence 
+Having established that Jayanta’s view of Saiddhāntika Śaivism as a valid from of  religion is unlikely to have been a minority view in the general Vaidika population  outside Śaiva circles, we must wonder whether it is likely that this view could  have been as general as he says it was in the absence of Śaivas who subscribed to  it themselves. 
+
+There are indeed indications that an ideologically emasculated Śaivism of the  kind outlined by Jayanta did exist and therefore that the great Kashmirian Naiyāyika was indeed expressing the view of an already established segment of the Śaivas themselves. Furthermore, we may suspect that this had become the majority view among them, and that the learned theories of the Śaiva theologians, which  demonstrate how Śaivism is superior to the Vaidika religion, how its rituals and  meditations work on an altogether higher level and its doctrines penetrate far beyond the reach of its rival, were not so much articulations of established, common  belief as fundamentalist attempts to revitalize and recover a tradition that was fast losing a sense of its original calling. Thus Bhaṭṭa Rāmakaṇṭha, writing in the tenth  century, when Saiddhāntika learning in Kashmir was at its height, tells us that one  of his reasons for writing his commentary on the Saiddhāntika scripture Mataṅga-pārameśvara was to counteract attempts to draw the understanding of the text  into the Vaidika domain, by going back to the foundational doctrines of Sadyo-jyotis and Br̥haspati and sweeping away what he saw as the inauthentic interpretations of the Siddhānta that had developed since the time of these two founding fathers of Saiddhāntika exegesis.81 
+
+- 81. See Mataṅgapārameśvaravr̥tti, Vidyāpāda, Maṅgala vv. 2 and 4 (2 = Mokṣakārikāvr̥tti, Maṅgala v. 1).   For the theses, supported by these verses, (1) that Bhaṭṭa Rāmakaṇṭha saw his mission as that of returning the Siddhānta to its original purity, freeing it from orthoprax Vaidika and Śākta influences, and    (2) that the success of his mission explains the long period of time between the works of Sadyojyotis  and Brhaspati, c. ad 650–750, and the next surviving works, from tenth-century Kashmir, see Sanderson 2007a. Instead of the edition’s gurūṇām api tau vandyau in 2c the Kashmirian manuscript of the  Bhandarkar Oriental Research Institute (P) reads gurūṇām agrato vandyau (not reported in Sanderson 
+  2007a), which I judge to be preferable, both in sense and as the lectio difficilior, that is to say, the reading  less readily explained as a corruption of the other. 
+
+
+And he confirms that this loss of identity was  well advanced when he targets for criticism the view of some at least of his Śaiva  co-religionists that th execution of their regular rituals of worship was merely  the fulfilment of a duty, with no higher purpose than conformity to scriptural  injunction, which is to say, the view of Śaivas who had abandoned a properly Śaiva  perspective and substituted that of the Mīmāṁsaka theorists of Vaidika ritual: 82 
+
+- 82. Mataṅgapārameśvaravr̥tti, introduction to Kriyāpāda 3.100c–101 (p. 66, ll. 3–6). 
+
+
+> Now, for what purpose do we do [our obligatory Śaiva] rituals, time-fixed and  [incidental]? Some say that our engagement in these is entirely without purpose, [that we do them simply] because they are enjoined [by our scriptures], just as the Mīmāṁsakas [hold with regard to their own obligatory rituals].  That is not correct; because [the two cases, the Vaidika and Śaiva,] are different. For the [Mīmāṁsakas] hold that [their] scriptures are valid because they  are not the product of any conscious being [but are an eternal self-existent  body of injunctions that minds can perceive but have not created]. So they  may well formulate such a view. But in our system [our scriptures are held  to be valid] as the work of all-knowing [God]. So how can [we believe that]  he could teach something that has no purpose? Or rather, if he does so then  he must be comparable to an imbecile or madman and therefore, being non omniscient, not worthy of our regard, with the undesired consequence that our scriptures would be invalid.83 
+
+- 83. For what the Kashmirian Saiddhāntika scholars advocated as the correct view of the superior  purpose of the daily, periodic, and incidental rituals of worship required of Saiddhāntika initiates see  Sanderson 1995, pp. 38–43. 
+
+
+## Aparāditya’s Śaivas by Birth 
+A comparable situation is revealed by Aparāditya, the Śilāhāra king of North  Konkan, writing in the early twelfth century, through one of the Śaiva arguments  for acceptability that he puts up to refute in in his commentary on Yājñavalkya smr̥ti. The Śaiva is made to argue that since the adherents of the Vaidika religion  hold that the injunctive force of the Veda is directed only to specific, restricted  classes of persons, they can have no reason to deny that the Śaiva scriptures are  valid for Śaivas as members of a similar community of birth, which suggests that  its members, when asked why they engage in their special Śaiva rituals, would  have responded like Georg Bühler’s Śaiva brahmin informants in Kashmir in 1875  that they attached no special importance to them but did them because this was  the long-established custom of their community.84 
+
+Aparāditya responds by attacking the very notion that it is possible to be a Śaiva by birth (jātyā), to be, as it were, a member of a caste of Śaivas. He does so in the course of his commentary on 1.7, which details the means  that enable men to know their religious duty (dharmamūlam) – namely Śruti,  Smr̥ti, observable orthopraxy (sadācāraḥ), and, within the limits set by these, mental satisfaction, enabling one, for example, to decide that one is now ready to end a course of ascetic observance, and personal preference, in such matters  as choosing the time at which to perform some pious action – taking this opportunity to examine the objection that this list wrongly omits the Śaiva, Pāśupata,  Pāñcarātrika, and other (unspecified) scriptural corpora. 
 The initial proposition is that these corpora have as good a claim as the Vaid 
 ika to be accepted, because they too are eternal revelation, and that therefore  
 the highest good will be attained by enacting their injunctions. Aparāditya then  
@@ -1641,7 +1116,7 @@ jñān hāsyaṁ kurvanti).’
 Kr̥ṣṇayamritantra, ed. S. Rinpoche and V. Dwivedi. Rare Buddhist Text  
 Series, 9. Sarnath: Central Institute of Higher Tibetan Studies, 1992. 
 Jainataraṅgiṇ of Śrīvara = Rājataraṅgiṇī of Śrīvara, Taraṅgas 1–2 in the criti cal edition of Kaul (1966). 
-Tantravrttika of Kumārila, commentary on Śabarasvāmin’s commen 
+Tantravrttika of Kumārīla, commentary on Śabarasvāmin’s commen 
 tary (-bhāṣya) on Mīmāṁsāsūtra 1.2.1 et sqq., ed. Mahāmahopādhyāya Pt.  
 Gaṅgādhara Śāstrī. Benares Sanskrit Series, 5, 7, 16, 23, 27, 29, 32, 34, 36, 39,  
 60, 62, 72. Benares, 1903. 
@@ -1758,7 +1233,7 @@ Viṣṇudharma, ed. Reinhold Grünendahl. Wiesbaden: Harrassowitz, 1983–
 Vaidikatntrikasamaṣṭividhin ekoddiṣṭarddhavidhiḥ. National  
 Museum of India MS Accession no. 57.106/1363 (ff. 38r–49r, pencilled library  
 pagination: 165–186). Paper; Śāradā script; no date. 
-Ślokavrttika-Codanstra: Ślokavārttika of Kumārila on the Codanāsūtra 
+Ślokavrttika-Codanstra: Ślokavārttika of Kumārīla on the Codanāsūtra 
 → kataoka 2011. 
 Sarvajñnottara N = National Archives, Kathmandu MS 1-1692, Nepal 
 German Manuscript Preservation Project Reel no. A 43/12; palm-leaf; Lic 
@@ -1822,7 +1297,7 @@ Gnoli, Raniero. 1985. Il Commento di Abhinavagupta alla Parātriṁśikā
 Istituto Italiano per il Medio ed Estremo Oriente. 
 Guérinot, A. 1908. Répertoire d’épigraphie jaina, précédé d’une esquisse de l’histoire  
 du jainisme d’après les inscriptions. Paris: E. Leroux. 
-Halbfass, Wilhelm. 1983. Studies in Kumārila and Śaṇkara. Studien zur Indolo 
+Halbfass, Wilhelm. 1983. Studies in Kumārīla and Śaṇkara. Studien zur Indolo 
 gie und Iranistik 9. Reinbek: Verlag für Orientalistische Fachpublikationen. 
 ———. 1988. India and Europe: An Essay in Understanding. Albany: State Univer 
 sity of New York Press. 
@@ -1844,7 +1319,7 @@ Kane, P. V. 1930. History of Dharmaśāstra. Volume 1. Poona: Bhandarkar Orien
 tal Research Institute. 
 Kataoka, Kei. 2004. Critical Edition of the Āgamaprāmāṇya Section of Bhaṭṭa  
 Jayanta’s Nyāyamañjarī. Tōyōbunka kenkyūjyo kiyō 146, pp. 131–175. 
-———. 2011. Kumārila on Truth, Omniscience and Killing. Pt. 1: A Critical Edi 
+———. 2011. Kumārīla on Truth, Omniscience and Killing. Pt. 1: A Critical Edi 
 tion of Mīmāṁsā-Ślokavārttika ad 1.1.2 (Codanāsūtra); Pt. 2: An Annotated  
 Translation of Mīmāṁsā-Ślokavārttika ad 1.1.2 (Codanāsūtra). Sitzungs berichte der philosophisch-historische Klasse 814. Beiträge zur Kultur- und  
 Geistesgeschichte Asiens, 68. Vienna: Verlag der Österreichische Akademie  
