@@ -453,664 +453,269 @@ And he confirms that this loss of identity was  well advanced when he targets fo
 ## Aparāditya’s Śaivas by Birth 
 A comparable situation is revealed by Aparāditya, the Śilāhāra king of North  Konkan, writing in the early twelfth century, through one of the Śaiva arguments  for acceptability that he puts up to refute in in his commentary on Yājñavalkya smr̥ti. The Śaiva is made to argue that since the adherents of the Vaidika religion  hold that the injunctive force of the Veda is directed only to specific, restricted  classes of persons, they can have no reason to deny that the Śaiva scriptures are  valid for Śaivas as members of a similar community of birth, which suggests that  its members, when asked why they engage in their special Śaiva rituals, would  have responded like Georg Bühler’s Śaiva brahmin informants in Kashmir in 1875  that they attached no special importance to them but did them because this was  the long-established custom of their community.84 
 
+- 84. See Bühler 1877, p. 24, and the discussion of the view that he reports in Sanderson 1995, pp. 37–38,  and 2007b, pp. 110–112. 
+
+
 Aparāditya responds by attacking the very notion that it is possible to be a Śaiva by birth (jātyā), to be, as it were, a member of a caste of Śaivas. He does so in the course of his commentary on 1.7, which details the means  that enable men to know their religious duty (dharmamūlam) – namely Śruti,  Smr̥ti, observable orthopraxy (sadācāraḥ), and, within the limits set by these, mental satisfaction, enabling one, for example, to decide that one is now ready to end a course of ascetic observance, and personal preference, in such matters  as choosing the time at which to perform some pious action – taking this opportunity to examine the objection that this list wrongly omits the Śaiva, Pāśupata,  Pāñcarātrika, and other (unspecified) scriptural corpora. 
-The initial proposition is that these corpora have as good a claim as the Vaid 
-ika to be accepted, because they too are eternal revelation, and that therefore  
-the highest good will be attained by enacting their injunctions. Aparāditya then  
-counters by insisting that this cannot apply to orthoprax Vaidikas, because the  
-Śaiva scriptures teach that the Vaidika rites are inefficacious when they say, as we  
-have seen, that these rituals are enjoined on Śaivas not because of their efficacity  
-but because by doing them in addition to their Śaiva rites Śaivas will ingratiate  
-84. See Bühler 1877, p. 24, and the discussion of the view that he reports in Sanderson 1995, pp. 37–38,  
-and 2007b, pp. 110–112. 
-194 
-33211 Honoris Causa 3P.indd 194 11/18/15 5:22 PMtolerance, exclusivity, inclusivity, and persecution . . . 
-themselves with those who, in the Śaiva perspective, are not yet ready for the  
-higher system.85 
-He next addresses a passage from the Devīpurāṇa that condemns to torture  
-in hell those who despise either the teaching of Śiva or the Vedas, and a passage  
-from the Yogayājñavalkya86 which includes ‘the teachings of Paśupati’ (pāśupa 
-tam) in a list of those that one is forbidden to challenge with logical argument.  
-He argues that these passages merely prohibit condemnation and permit study  
-and do not allow the inference that one is also permitted to put their injunctions  
-into practice; 87 and he provides several reasons that block that inference, the most  
-significant of which is perhaps that if a person were to take Śaiva initiation, as  
-he would have to do if he intended to enact the Śaiva injunctions, he would be  
-punished with hell, according to the Śaiva scriptures, if he had a Vaidika Śrāddha  
-ceremony performed for him.88 The unstated point of this, I propose, is that he  
-thereby provides a refutation of the Śaivas’ claim that their scriptures are accept 
-able because they require their initiates to adhere rigidly to Vaidika regulations  
-and so are not contrary to the Veda (vedaviruddha-). For while it is true that they  
-were enjoined to undergo all the Vaidika rites of qualification (samṣkārāḥ) prior to  
-their initiation, namely up to upanayanam or marriage, following the procedures  
-laid down in the Gr̥hyasūtra of their branch of the Veda, one major rite of passage  
-remained, namely cremation (antyeṣtiḥ), and the various rites of offerings to the  
-deceased thereafter. For these the Śaivas developed their own rituals and it was  
-these that had to be followed in the case of the initiated.89 
-85. Yājñavalkyasmr̥tiṭīkā, vol. 1, p. 10, ll. 14–16. 
-86. A variant of Mahābhārata 12.337.59. 
-87. Yājñavalkyasmr̥tiṭīkā, vol. 1, p. 10, l. 23 to p. 11, l. 5. 
-88. Yājñavalkyasmr̥tiṭīkā, vol. 1, p. 11, ll. 7–9. 
-89. See Sanderson 1995, pp. 31–32; and Mirnig 2009. The anonymous ritual manuals used by Śaiva  
-officiants in Kashmir for cremation and the post-mortuary Śrāddha ceremonies are of two kinds. In  
-one the Śaiva procedures alone are given. In the other we find both the Vaidika and the Śaiva, the  
-two proceeding in tandem from phase to phase with the Vaidika element always preceding the Śaiva.  
-This hybrid, which is not envisaged in the Śaiva Paddhatis of pan-Indian authority, is likely to have  
-been introduced precisely out of anxiety that omitting the Vaidika procedures might have a negative  
-195 
-33211 Honoris Causa 3P.indd 195 11/18/15 5:22 PM
-Honoris Causa 
-It is at this point that he moves on to address the proposition that the Śaiva  
-scriptures are valid as ordinances for the Śaivas as members of a distinct commu 
-nity entered at birth: 90 
-Can it not be conceded that just as the Vedas and [Smr̥tis] apply to only  
-certain specific persons [defined by their birth] so the Śaiva and other [non 
-Vaidika] scriptures [are valid because they] are for Śaivas and others as per 
-sons who are members of specific communities[, Śaiva or other,] that they  
-have entered through birth? No, it cannot. This is because in passages such  
-as ‘No persons other than those for whom all the rites from conception to  
-cremation with [the Veda’s] Mantras have been prescribed are qualified for  
-this teaching’ Manu and other [promulgators of Smr̥ti texts] have given us  
-evidence only of the qualification of brahmins[, Kṣatriyas,] and [Vaiśyas] for  
-their teachings but not of the qualification of ‘Śaiva brahmins’ and the like for  
-corpora of scriptures taught by Śiva and others. Then let it be conceded that  
-Śūdras [at least] are qualified to enact the teachings of Śiva[, since they have  
-no access to the Veda and its Mantras and so fall outside Manu’s definition  
-of those who are qualified and obliged to enact his teachings]. But that too we  
-will not concede, because no Smr̥ti or any other [Vaidika scriptural source]  
-accepts this. Furthermore, there is in fact no such person as a Śaiva by birth  
-(jātyā) to whom the Śaiva scriptures could apply. For the word śaivaḥ ‘Śaiva’  
-[means simply] ‘one who studies or understands the scriptures taught by Śiva’.  
-[This is established by the semantic conditions governing the formation of the  
-word śaivaḥ from śivaḥ through śaivam according to the grammatical rules of  
-consequence. See for an example of the hybrid form the Kashmirian manuscript Vaidikatāntrikasa 
-maṣṭividhinā (samaṣṭi em. : samiṣṭi Cod.) ekoddiṣṭaśrāddhavidhiḥ (ekoddiṣṭa em. : ekoddiṣṭe Cod.), ‘The  
-ritual of the Ekoddiṣṭa Śrāddha following the procedure in which Vaidika and Tāntrika [Paddhatis] are  
-combined.’ This is how the work is identified in its final colophon. At its beginning we read atha vaid 
-ikatāntrika ekoddiṣṭakaranavidhiḥ (ekoddiṣṭa em : ekoddiṣṭe Cod.), ‘Next the ritual for performing the  
-Ekoddiṣṭa [Śrāddha] that is [both] Vaidika and Tāntrika.’ 
-90. Yājñavalkyasmr̥tiṭīkā on 1.7, p. 13, l. 23 to p. 14, l. 11. 
-196 
-33211 Honoris Causa 3P.indd 196 11/18/15 5:22 PM
-tolerance, exclusivity, inclusivity, and persecution . . . 
-derivation. Thus] by applying the suffix -a to [the name] śivaḥ ‘Śiva’ we form  
-[the derivative noun] śaivam in the meaning ‘that which has been taught by  
-Śiva’, that is to say, the corpus of Śaiva scriptures; and we then form the word  
-śaivaḥ (‘a Śaiva’) from this in the meaning ‘one who understands or studies  
-those scriptures’, the same suffix -a being added after the word śaivam in ac 
-cordance with the rule ‘[-a after N in the sense] “one who studies N, one who  
-understands N” and then elided by the rule “substitution of zero [for -a in  
-the meaning “one who studies N, one who understands N” when that suffix  
-comes] after [a word that has already been formed by the addition of the affix  
--a in the meaning] “taught [by N].” Pāśupata and other [words of this kind,  
-such as Bauddha, Kāpila, Kāṇāda, Vaiṣṇava, Jaina, etc.] are formed in the  
-same way [to mean “one who studies or understands what has been taught by  
-Paśupati,” and so on].” 91 So the Śaiva and analogous bodies of scripture func 
-tion without having naturally fixed social groups to ground them; and from  
-this it follows that they are analogous to pictures [drawn] in the air. This being  
-the case, they must certainly be rejected [as sources of valid knowledge] in [the  
-domain of] religious practice. 
-The view whose prevalence is attested by this attack would have been equally  
-unacceptable to the likes of Bhaṭṭa Rāmakaṇṭha II and Abhinavagupta, though  
-for the very different reason that it reveals a complete surrender of the properly  
-Śaiva view that Śaivism is a universal revelation, reaching anyone whom Śiva  
-deems ready to be liberated, regardless of such incidentals as region, caste, or  
-lineage.92 
-91. The grammmatical rules that Aparāditya applies here are Pāṇini, Aṣṭādhyāyī 4.3.101, 4.2.59, and  
-4.2.64. 
-92. Note in this context the commonly expressed Śaiva doctrine that division by birth into castes is  
-an artificial construct that overlays and obscures the unity of humanity. For text and translation of text  
-passages, both Saiddhāntika and non-Saiddhāntika, that express this conviction see Sanderson 2009a,  
-pp. 289–290, fns. 689–692, and pp. 292–294; and Sanderson 2009b. 
-197 
-33211 Honoris Causa 3P.indd 197 11/18/15 5:22 PM
-Honoris Causa 
-Hinduism 
-It is entirely reasonable to claim in the light of this evidence that a complex corre 
-sponding roughly to what would come to be called Hinduism was already recog 
-nized, though not yet named, around the turn of the ninth and tenth centuries.  
-At this juncture Jayanta assures us that the orthoprax majority had conceded  
-that the Vaiṣṇavism of the Pañcarātra and the non-transgressive forms of Śaivism  
-(therefore excluding those of the Bhairavatantras and Kulamārga) were valid and  
-that communities that followed them were acceptable co-religionists; and we have  
-seen evidence that Jayanta’s portrayal of these systems was not merely an out 
-sider’s projection: it corresponded to the way in which what was probably the  
-great majority of Vaiṣṇava and Śaiva adherents had come to see themselves, by  
-surrendering the doctrines that were intended to keep alive their sense of tran 
-scendence. This change of perspective, moreover, is one that is certainly more  
-tolerant of diversity than the strictly Śaiva, which admitted only a hierarchy in  
-which other vehicles of salvation, Vaidika and Vaiṣṇava, are subordinate to it.  
-Here we have rather the view that the Vaidika, Vaiṣṇava, and Śaiva paths are  
-options determined by inherited practice leading to a single Vaidika goal. It must  
-be kept in mind, however, that this congeries of equipolent options was never the  
-whole of Indian religious awareness in this period. Learned scholars among the  
-Śaivas and Śākta-Śaivas strove by various strategies to keep alive in initiates the  
-scripturally sanctioned belief that their Śaiva practices were not just a variant of a  
-single accommodating religion but something which had the power to lead them  
-to an ultimate goal that far transcended what either the Vaidika or the Vaiṣṇava  
-system could reach, and Vaidika ideologues such as Aparāditya held out to the  
-bitter end against this trend to accept what from their point of view was forbid 
-den religious practice following false scriptures. 
-Religion and the State: A Maximally Tolerant View  
-of What Is Acceptable in Matters of Religion 
-In Jayanta’s play Āgamaḍambara we have seen the uncompromising Vaidika camp  
-attempt and fail to impose its Manu-inspired vision of a society free of all but  
-properly Vaidika religion. When the suppression of an extreme fringe cult leads  
-to panic among the Śaivas, the king, a Śaiva himself, not necessarily an initiate  
-198 
-33211 Honoris Causa 3P.indd 198 11/18/15 5:22 PM
-tolerance, exclusivity, inclusivity, and persecution . . . 
-but a publicly declared loyal devotee of Śiva (paramamāheśvaraḥ),93 who had at  
-the beginning of his reign founded temples for the installation of Śivas whose  
-names incorporated those of himself (Śaṇkaragaurīśvara) 94 and his chief queen  
-(Sugandheśvara), intervenes and ensures that the status quo is maintained. The  
-play ends with an orchestrated debate between the Vaidikas and the preceptors  
-of the other faiths held in the Vaiṣṇava Raṇasvāmin temple in Srinagar on the  
-subject of whether the Pañcarātra and the scriptures of the other non-Vaidika  
-systems are or are not valid. In front of an audience of thousands, including the  
-former Snātaka Saṁkarṣaṇa, now turned ultra-tolerant minister of religious  
-affairs,95 the Naiyāyika Sāhaṭa, also called Dhairyarāśi, appointed as adjudictor  
-by the order of the king himself (nr̥pādeśāt), hears the various disputants put their  
-cases and then delivers his judgement. In this he rejects the narrow Vaidika view  
-of validity and advocates one with the greatest latitude, stopping short only of ap 
-proving transgressive, licentious, and violent cults such as were certainly present  
-in Kashmir and elsewhere at this time. This view goes even beyond that enun 
-ciated above to recognize that not only Vaiṣṇavism and Śaivism but also Bud dhism and Jainism are valid and must therefore be tolerated, holding that there  
-is a single omniscient and nameless deity who in consideration of the differing  
-intellectual dispositions of human beings has manifested himself variously as the  
-propagators of all faiths: as Śiva, Paśupati, Kapila, Viṣṇu, Saṁkarṣaṇa, the Jina,  
-93. Āgamaḍambara, prose between 3.3 and 3.4; prose before 4.2. He is also described there to the  
-same effect as puraharahr̥dayasya ‘one whose heart is given to the destoyer of the [three] celestial  
-palaces’ (prose after 4.6). 
-94. Kalhaṇa, Rājataraṅgiṇī 5.156–158. The two Śivas were installed in his new capital Śaṇkarapura or  
-Śaṇkarapattana (now Pattan/Paṭan in the Baramulla district of Kashmir), which he founded with his  
-own name after coming to the throne. The two temples survive in ruins beside the road that runs from  
-Srinagar to Baramulla, approximately equidistant from both. 
-95. Saṁkarṣaṇa, who in the first part of the play was the champion of the view that all non-Vaidika  
-views are invalid, is described by the Vaidika officiant who earlier lamented Saṁkarṣaṇa’s failure to  
-push this view through, when he catches sight of him in this gathering of the learned, as a champion of  
-the view that all (established) religions are valid; see the prose after 4.4: ‘We have direct experience  
-of the power of Saṁkarṣaṇa [in this matter]. For he [has become] an adherent of the doctrine of the  
-authoritativeness of all the religions’ (dr̥ṣṭaḥ saṁkarṣaṇapratāpaḥ. sa hi sarvāgamaprāmāṇyavādī). 
-199 
-33211 Honoris Causa 3P.indd 199 11/18/15 5:22 PM
-Honoris Causa 
-the Buddha, and Manu.96 The only criteria of validity from this point of view are  
-expressed as follows: 97 
-This path of validation cannot be applied to any [tradition regardless of its  
-character], but only to religious systems that meet the following criteria:  
-(1)  they must have an unbroken tradition known to all; (2) the community  
-of the orthoprax (āryalokaḥ) must not be loth to be acquainted with them or  
-speak about them; (3) the practices that they advocate must not be beyond  
-the pale of [what is acceptable to] society (janabāhyam); and (4) must not en 
-danger [its members] (sabhayam); (5) their character must not be manifestly  
-new-fangled (na rūpaṁ yeṣāṁ sphurati navam abhyutthitam iva); (6) they must  
-not have the appearance of the teachings of madmen (pramattagītatvam);  
-(7) they must not be teachings of Kaulas (akaulikatvam); 98 and (8) their source  
-must not be greed or any other [base motive] (lobhādi). 
-This position that all religious traditions (sarvāgama-) are entitled to be con 
-sidered valid, if they meet the above criteria, is presented in theistic terms. A  
-nameless supreme being is declared to have taught these various religions by as 
-suming the form of their promulgators. However, it is clear that this dresses up in  
-religious language what is in effect a juridical and political view of what the state  
-should tolerate. The issue on this level is not truth or falsity but legality and the  
-policy to be followed by the state in its role as guardian of the boundaries of the  
-permissible, or rather, to use the monarchical language used by our authors, by  
-the king in his role as the guardian and guide of the entire socio-religious order  
-(sarvavarṇāśramaguruḥ) or, to use a phrase favoured by Jayanta, the king as the  
-96. Āgamaḍambara 4.57. These are in order the propagators of the Śaiva, Pāśupata, Sāṁkhya,  
-Vaiṣṇava, Pāñcarātrika, Jaina, and Buddhist systems, and the core Smr̥ti of the Vaidika tradition. 
-97. Āgamaḍambara 4.100–101. 
-98. I have tentatively conjectured the reading akaulikatvam here in place of the manuscripts’ alauki 
-katvam because the latter nonsensically excludes from acceptance any tradition that is not mundane  
-(laukika-). As we have seen, Śaṇkaravarman’s minister Jayanta was uncompromising in his condemna 
-tion of Kaula practice, but it is nonetheless surprising that this list should make so specific an exclusion. 
-200 
-33211 Honoris Causa 3P.indd 200 11/18/15 5:22 PM
-tolerance, exclusivity, inclusivity, and persecution . . . 
-authoritative judge (-acāryaḥ) of the boundaries (maryādā) of religious conduct  
-(dharmaḥ) within that order.99 
-However, the king’s role was not merely to police these boundaries. It was also  
-to promote the peaceful co-existence of the faiths through even-handed patron 
-age. During our period the publicly declared personal religious commitment of  
-kings, in addition to their commitment to preserve the Vaidika socio-religious  
-order, generally took the form of devotion to Śiva, Viṣṇu, the Sun-God (Sūrya,  
-Āditya), or the Goddess (Bhagavatī), the deities of the new initiatory religions, or  
-to the Buddha (Sugata, Tathāgata) of Buddhism or the Arhats of Jainism, these  
-allegiances being commonly announced in their inscriptions by the inclusion  
-amid their royal titles of epithets that mean ‘entirely (parama-, atyanta-, param)  
-devoted’ to whichever of these deities or religious founders they favoured. Thus  
-devout worshippers of Śiva/Maheśvara are identified as paramamāheśvaraḥ,  
-atyantamāheśvaraḥ, or paramaśaivaḥ; of Viṣṇu as paramabhāgavataḥ, parama vaiṣṇavaḥ, or atyantabhagavadbhaktaḥ; of the Sun as paramādityabhaktaḥ or para masauraḥ; of the Goddess (Bhagavatī) as paraṁ bhagavatībhaktaḥ; of the Buddha  
-as paramasaugataḥ or paramatāthāgataḥ; and of the Jaina Arhats as paramārhataḥ or paramajainaḥ.100 
-However, it was rarely the case that a king’s publicly declared allegiance to  
-one or another of these traditions was accompanied by strict exclusivity of pa 
-tronage. For while a king might favour one religion over another, say Vaiṣṇavism  
-over Śaivism, it was common, and no doubt politic, for him to extend support  
-to religious traditions other than his own. Thus, the Kārkoṭakas of Kashmir,  
-who following the Śaiva kings of the Hephthalite Hun dynasty that had ruled  
-the country from early in the sixth century101 held power from the seventh to the  
-99. Āgamaḍambara, prose after 2.20: varṇāśramadharmamaryādācāryaḥ; prose after 4.104: varṇāś ramamaryādācāryaḥ. 
-100.See Sircar 1966, s.v. for all except paramārhataḥ and paramajainaḥ, for the first of which see, e.g.,  
-Kumārapālacaritrasaṁgraha pp. 28, 45, 108, and for the other, e.g., Vividhatīrthakalpa, p. 98. Also found  
-are epithets of the same kind expressing devotion to Bhairava (atyantasvāmimahābhairavabhaktaḥ)  
-or Narasiṁha (paramanārasiṁhaḥ); see Sircar 1966, s.v. 
-101. Dani 1996, pp. 173–174. 
-201 
-33211 Honoris Causa 3P.indd 201 11/18/15 5:22 PM
-Honoris Causa 
-ninth centuries, were consistently devotees of Viṣṇu, offering no support to the  
-cult of Śiva, yet they also supported Buddhism and the cult of the Sun.102 
-Similarly, the Maitrakas of Valabhī were consistently Śaiva from the sixth to  
-the eighth centuries, yet, as we know from their copper-plate grants, Xuanzang,  
-and the Mañjuśriyamūlakalpa, they were also generous patrons of Buddhism; 103 
-and the Pālas of Bihar and Bengal, though Buddhists, continued to support  
-Śaivism and Vaiṣṇavism,104 as did the Candras of Arakan; 105 the predominantly  
-Śaiva Licchavi and ṭhākurī kings of Nepal were generous patrons of Bud dhism; 106 and simultaneous royal patronage of Śaivism and Buddhism was also a  
-conspicuous feature of religion in mainland Southeast Asia, in the kingdoms of  
-the Khmers, Chams, Sumatrans, Sundanese, and Javanese.107 
-In the south of India too we find examples of royal patronage of more than  
-one religious tradition. The Pallava Mahendravarman I Guṇabhara was a Śaiva  
-convert from Jainism if we may believe the Tamil Śaiva hagiography. As a Śaiva  
-he established rock-cut cave temples of Śivas with his biruda names: Śatrum 
-alleśvara at Dal˙avānūr,108 Avanibhājanapallaveśvara at Śīyamaṅgalam,109 and Lal 
-102. See Sanderson 2009a, p. 73. 
-103. In the Alīnā copper-plate inscription of Śīlāditya VI Dhrūbhaṭa of ad 766 (cii 3:39) the account of  
-the Maitraka lineage jumps from the Śaiva founder, Bhaṭārka, over the next four generations, which we  
-know from other inscriptions to have included a Vaiṣṇava and a Saura, to Guhasena. He and his thirteen  
-descendants down to Śīlāditya VI are identified as paramamāheśvaraḥ, with the exception of Śīlāditya  
-IV and Śīlāditya VI, who are given no sectarian epithet. For the Maitrakas patronage of Buddhism (in  
-its pre-Tantric forms) see Mañjuśriyamūlakalpa 53.538–549; and Xuanzang on the recent conversion of  
-the king of Valabhī to Buddhism (Beal 1884, vol. 2. p. 267). Of the land-grant documents of the Maitrakas  
-of Valabhī three quarters are records of grants to brahmins, but the remaining quarter report grants  
-made by these kings to Buddhist institutions (Schmiedchen 2007, p. 360). On the Maitrakas support of  
-Buddhism see Sanderson 2009a, pp. 72–73. 
-104.See Sanderson 2009a, pp. 87–117. 
-105. Sanderson 2009a, pp. 84–86. 
-106. Sanderson 2009a, pp. 74–80. 
-107. Sanderson 2009a, pp. 171–173. 
-108. Mahalingam 1988, no. 19 and no. 20. 
-109. Mahalingam 1988, no. 29. 
-202 
-33211 Honoris Causa 3P.indd 202 11/18/15 5:22 PM
-tolerance, exclusivity, inclusivity, and persecution . . . 
-itāṇkurapallaveśvara Tiruchirāpal˙l˙i.110 Yet he also excavated a rock-cut temple of  
-Viṣṇu with his name (Mahendraviṣṇu) in his town of Mahendrapura.111 We find  
-the same phenomenon in the dynasty of the Eastern Gaṅgas of Kaliṅganagara in  
-northern Andhra Pradesh, a line all of whose known rulers, from the first half of  
-the sixth century through to the end of our period, were declared devout worship 
-pers of Śiva (paramamāheśvaraḥ). An inscription issued in year 79 of the Gaṅga  
-era, which is to say, c. ad 578, records that Mahārāja Hastivarman Raṇabhīta of  
-this line made a land-grant for the support of a temple of a Viṣṇu incorporating  
-his name (Raṇabhītodaya) in spite of the declaration that the donor is a para mamāheśvaraḥ.112 The Hoysal˙a king Viṣṇuvardhana (r. 1110–1141) likewise, though  
-strongly influenced by the Śrīvaiṣṇava movement, was also a generous patron of  
-both Jainism and Śaivism.113 
-There were even kings whose inscriptions depart from the convention of de 
-claring allegiance to a single tradition by declaring them ‘entirely devoted’ to both  
-Śiva and Viṣṇu. This is true of the Pallava Narasiṁhavarman II (r. c. 700–728),114 
-the Gaṅga Anantavarman Coḍagaṅga in his Korni plates of 1081/2,115 Vaidyadeva  
-of Prāgjyotiṣa in his copper-plate grant probably of 1142,116 and Jayabhañja of the  
-Bhañjas of Kolāḍa in the eleventh or twelfth century.117 
-We also have evidence from the Khmer realm that there were Vaiṣṇava dig nitaries within the predominantly Śaiva royal staff, that members of the same  
-family could be of different religious allegiances, and that the state limited the  
-freedom of individuals to change their religion only in the special case of persons  
-110. Mahalingam 1988, no. 35. 
-111. Mahalingam 1988, no. 24. 
-112. Rajaguru 1960, no. 4. 
-113. Settar 1992, pp. 46–48 (Jainism under Viṣṇuvardhana), pp. 50–51 (Vaiṣṇavism under the same),  
-pp. 60–61 (Śaivism under the same). 
-114. Mahalingam 1988, no. 53, ll. 10–11. 
-115. Singh 1994, p. 113. 
-116. Epigraphia Indica 2:28, l. 47. 
-117. Singh 1994, p. 105 (śrīśaṇkarabhaktimān, śrīvaiṣṇavaḥ). 
-203 
-33211 Honoris Causa 3P.indd 203 11/18/15 5:22 PM
-Honoris Causa 
-from certain title-groups (varṇa) who had been selected for training as Śaiva offi ciants in the service of the king and were forbidden by a decree of Jayavarman V  
-(r. c. 970–1000) to become Vaiṣṇavas.118 
-There are also numerous instances of royal marriages across religious bound 
-aries in the subcontinent. In the fourth century the Vākāṭakas Rudrasena I  
-(r. c. 335–360) and Pr̥thivīsena I (r. c. 360–395) were Śaivas.119 But c. 388 their suc cessor Rudrasena II (r. c. 395–405) married Prabhāvatīguptā, the daughter of the  
-Gupta emperor Candragupta II (r. 376–415), a princess who in accordance with  
-the religious preference of her paternal family was a devotee of Viṣṇu (atyant abhagavadbhaktā). Though Rudrasena continued to support the faith of his pre 
-decessors, he declared himself a Vaiṣṇava, no doubt under her influence,120 and  
-developed Rāmagiri (Ramtek) as a Vaiṣṇava state temple-complex. 
-We have other examples in Kalhaṇa’s Rājataraṅgiṇī. As we have seen above,  
-at the end of the ninth century, after the demise of the Vaiṣṇava Kārkoṭaka dy nasty, Śaṇkaravarman (883–902) was a devout worshipper of Śiva and accordingly  
-founded Śiva temples with his and his queen’s names. But his queen Sugandhā, a  
-foreigner from the north, probably a Dard (5.157), was a supporter of the Vaiṣṇava  
-Pāñcarātrikas,121 and while she occupied the throne from 904 to 906 after the  
-death of her husband and the short reigns of her sons, the boy king Gopālavar 
-man (902–904) and his younger brother Saṁkaṭa (904), she established a Viṣṇu  
-Gopālakeśava and a Gopālamaṭha with the former’s name (5.244). Moreover,  
-Nandā, Gopālavarman’s child bride, no doubt chosen for him by his Vaiṣṇava  
-mother, founded a Viṣṇu (Nandā)keśava and a Nandāmaṭha with hers (5.245). 
-After the end of the rule of this dynasty in 939 the brahmins bestowed the  
-crown on Yaśaskaravarman (939–948), the son of Prabhākaradeva, the trea 
-surer of Gopālavarman, and the the secret lover of his Vaiṣṇava queen Sugandhā  
-118. Sanderson 2003, pp. 434–435. 
-119. The Vākāṭaka inscriptions identify them as atyantasvāmimahābhairavabhaktaḥ and atyantam āheśvaraḥ respectively. 
-120. Bakker 1997, pp. 17–22. 
-121. Āgamaḍambara, p. 196, ll. 18–19. 
-204 
-33211 Honoris Causa 3P.indd 204 11/18/15 5:22 PMtolerance, exclusivity, inclusivity, and persecution . . . 
-(5.469–477). This paramour may well have been the unnamed royal functionary  
-rumoured122 to have been a supporter, like the queen, of the Vaiṣṇava Pāñcarātri kas. In any case his son Yaśaskaravarman was a Vaiṣṇava and one who exerted  
-himself to encourage orthopraxy and suppress the Śākta-leaning Śaivism then  
-strong in Kashmir (6.6–12, 108–112). He began the construction of a temple for  
-a Viṣṇu Yaśaskarasvāmin, incorporating his own name, but died before it was  
-finished (6.140). 
-His successor Parvagupta (949–950) was a Śaiva, as we may infer from the  
-fact that he established a Śiva Parvagupteśvara (6.137) and at the end of his life  
-chose to die in the precincts of the Śaiva temple of the Sureśvarīkṣetra (6.147). His  
-religious conviction would not then have predisposed him to complete the Viṣṇu  
-temple of his anti-Śaiva Vaiṣṇava predecessor, but he was tricked into doing so  
-by one of Yaśaskaravarman’s widows, no doubt another Vaiṣṇava, who promised  
-him her favours if he did so and then when he had completed the work, commit 
-ted pious suicide by offering herself into a sacrificial fire (6.140–144). 
-Parvagupta was succeeded by Kṣemagupta (950–958), whose Śaiva persuasion  
-can be seen from the report that he founded a temple for a Śiva Ardhanārīśvara  
-under the name Kṣemagaurīśvara (6.172–173). But he married Diddā, the ruthless  
-and dissolute daughter of Siṁharāja, the Śāhi chief of Lohara, a mountainous dis trict adjoining Kashmir on the south-west (6.176). Again a matrimonial alliance  
-favoured Viṣṇu. It was probably through her influence – the king was so besotted  
-with her that he was mockingly known as Diddākṣema (6.177) – that when he  
-fell fatally ill he chose to go to die in the Vaiṣṇava holy site Varāhakṣetra (6.186).  
-During her long dominance of nearly fifty years until 1008 she enshrined a Viṣṇu  
-Abhimanyusvāmin with the name of her deceased son Abhimanyu (6.299), two  
-Viṣṇus Diddāsvāmin with her own name (6.300, 302), and a Viṣṇu Siṁhasvāmin  
-in Lohara (8.1822) with the name of her father (6.304); and her illustrious ma 
-ternal grandfather Bhīma, the Śāhi king of Udabhāṇḍa (Hund) on the Indus,  
-enshrined and richly endowed a Viṣṇu Bhīmasvāmin with his name in Kashmir  
-proper, at Bumzu near Bavan (6.178). 
-122. Āgamaḍambara, p. 196, ll. 19–20. 
-205 
-33211 Honoris Causa 3P.indd 205 11/18/15 5:22 PM
-Honoris Causa 
+
+The initial proposition is that these corpora have as good a claim as the Vaidika to be accepted, because they too are eternal revelation, and that therefore  the highest good will be attained by enacting their injunctions. Aparāditya then counters by insisting that this cannot apply to orthoprax Vaidikas, because the  Śaiva scriptures teach that the Vaidika rites are inefficacious when they say, as we  have seen, that these rituals are enjoined on Śaivas not because of their efficacity  but because by doing them in addition to their Śaiva rites Śaivas will ingratiate  themselves with those who, in the Śaiva perspective, are not yet ready for the  higher system.85 
+
+- 85. Yājñavalkyasmr̥tiṭīkā, vol. 1, p. 10, ll. 14–16. 
+
+He next addresses a passage from the Devīpurāṇa that condemns to torture  in hell those who despise either the teaching of Śiva or the Vedas, and a passage  from the Yogayājñavalkya86 which includes ‘the teachings of Paśupati’ (pāśupatam) in a list of those that one is forbidden to challenge with logical argument.  
+
+- 86. A variant of Mahābhārata 12.337.59. 
+
+He argues that these passages merely prohibit condemnation and permit study  and do not allow the inference that one is also permitted to put their injunctions  into practice; 87 and he provides several reasons that block that inference, the most  significant of which is perhaps that if a person were to take Śaiva initiation, as  he would have to do if he intended to enact the Śaiva injunctions, he would be  punished with hell, according to the Śaiva scriptures, if he had a Vaidika Śrāddha  ceremony performed for him.88 
+
+- 87. Yājñavalkyasmr̥tiṭīkā, vol. 1, p. 10, l. 23 to p. 11, l. 5. 
+- 88. Yājñavalkyasmr̥tiṭīkā, vol. 1, p. 11, ll. 7–9. 
+
+The unstated point of this, I propose, is that he  thereby provides a refutation of the Śaivas’ claim that their scriptures are acceptable because they require their initiates to adhere rigidly to Vaidika regulations  and so are not contrary to the Veda (vedaviruddha-). For while it is true that they  were enjoined to undergo all the Vaidika rites of qualification (samṣkārāḥ) prior to  their initiation, namely up to upanayanam or marriage, following the procedures  laid down in the Gr̥hyasūtra of their branch of the Veda, one major rite of passage  remained, namely cremation (antyeṣtiḥ), and the various rites of offerings to the  deceased thereafter. For these the Śaivas developed their own rituals and it was  these that had to be followed in the case of the initiated.89 
+
+- 89. See Sanderson 1995, pp. 31–32; and Mirnig 2009. The anonymous ritual manuals used by Śaiva  officiants in Kashmir for cremation and the post-mortuary Śrāddha ceremonies are of two kinds. In  one the Śaiva procedures alone are given. In the other we find both the Vaidika and the Śaiva, the  two proceeding in tandem from phase to phase with the Vaidika element always preceding the Śaiva.  This hybrid, which is not envisaged in the Śaiva Paddhatis of pan-Indian authority, is likely to have  been introduced precisely out of anxiety that omitting the Vaidika procedures might have a negative consequence. See for an example of the hybrid form the Kashmirian manuscript Vaidika-tāntrika-samaṣṭi-vidhinā (samaṣṭi em. : samiṣṭi Cod.) ekoddiṣṭa-śrāddhavidhiḥ (ekoddiṣṭa em. : ekoddiṣṭe Cod.), ‘The  ritual of the Ekoddiṣṭa Śrāddha following the procedure in which Vaidika and Tāntrika [Paddhatis] are  combined.’ This is how the work is identified in its final colophon. At it beginning we read atha vaidikatāntrika ekoddiṣṭa-karaṇavidhiḥ (ekoddiṣṭa em : ekoddiṣṭe Cod.), ‘Next the ritual for performing the  Ekoddiṣṭa [Śrāddha] that is [both] Vaidika and Tāntrika.’ 
+
+
+
+It is at this point that he moves on to address the proposition that the Śaiva  scriptures are valid as ordinances for the Śaivas as members of a distinct community entered at birth: 90 
+
+- 90. Yājñavalkyasmr̥tiṭīkā on 1.7, p. 13, l. 23 to p. 14, l. 11. 
+
+
+> Can it not be conceded that just as the Vedas and [Smr̥tis] apply to only  certain specific persons [defined by their birth] so the Śaiva and other [non Vaidika] scriptures [are valid because they] are for Śaivas and others as per sons who are members of specific communities[, Śaiva or other,] that they  have entered through birth? No, it cannot. This is because in passages such  as ‘No persons other than those for whom all the rites from conception to  cremation with [the Veda’s] Mantras have been prescribed are qualified for this teaching’ Manu and other [promulgators of Smr̥ti texts] have given us evidence only of the qualification of brahmins[, Kṣatriyas,] and [Vaiśyas] for their teachings but not of the qualification of ‘Śaiva brahmins’ and the like for  corpora of scriptures taught by Śiva and others. Then let it be conceded that  Śūdras [at least] are qualified to enact the teachings of Śiva[, since they have  no access to the Veda and its Mantras and so fall outside Manu’s definition  of those who are qualified and obliged to enact his teachings]. But that too we  will not concede, because no Smr̥ti or any other [Vaidika scriptural source]  accepts this. Furthermore, there is in fact no such person as a Śaiva by birth  (jātyā) to whom the Śaiva scriptures could apply. For the word śaivaḥ ‘Śaiva’  [means simply] ‘one who studies or understands the scriptures taught by Śiva’.  [This is established by the semantic conditions governing the formation of the  word śaivaḥ from śivaḥ through śaivam according to the grammatical rules of derivation. Thus] by applying the suffix -a to [the name] śivaḥ ‘Śiva’ we form  [the derivative noun] śaivam in the meaning ‘that which has been taught by  Śiva’, that is to say, the corpus of Śaiva scriptures; and we then form the word  śaivaḥ (‘a Śaiva’) from this in the meaning ‘one who understands or studies  those scriptures’, the same suffix -a being added after the word śaivam in accordance with the rule ‘[-a after N in the sense] “one who studies N, one who understands N” and then elided by the rule “substitution of zero [for -a in  the meaning “one who studies N, one who understands N” when that suffix  comes] after [a word that has already been formed by the addition of the affix -a in the meaning] “taught [by N].” Pāśupata and other [words of this kind,  such as Bauddha, Kāpila, Kāṇāda, Vaiṣṇava, Jaina, etc.] are formed in the  same way [to mean “one who studies or understands what has been taught by  Paśupati,” and so on].” 91 So the Śaiva and analogous bodies of scripture function without having naturally fixed social groups to ground them; and from  this it follows that they are analogous to pictures [drawn] in the air. This being  the case, they must certainly be rejected [as sources of valid knowledge] in [the  domain of] religious practice. 
+
+- 91. The grammmatical rules that Aparāditya applies here are Pāṇini, Aṣṭādhyāyī 4.3.101, 4.2.59, and  4.2.64. 
+
+The view whose prevalence is attested by this attack would have been equally  unacceptable to the likes of Bhaṭṭa Rāmakaṇṭha II and Abhinavagupta, though  for the very different reason that it reveals a complete surrender of the properly  Śaiva view that Śaivism is a universal revelation, reaching anyone whom Śiva deems ready to be liberated, regardless of such incidentals as region, caste, or  lineage.92 
+
+- 92. Note in this context the commonly expressed Śaiva doctrine that division by birth into castes is an artificial construct that overlays and obscures the unity of humanity. For text and translation of text  passages, both Saiddhāntika and non-Saiddhāntika, that express this conviction see Sanderson 2009a,  pp. 289–290, fns. 689–692, and pp. 292–294; and Sanderson 2009b. 
+
+It is entirely reasonable to claim in the light of this evidence that a complex corresponding roughly to what would come to be called Hinduism was already recognized, though not yet named, around the turn of the ninth and tenth centuries.  
+
+At this juncture Jayanta assures us that the orthoprax majority had conceded  that the Vaiṣṇavism of the Pañcarātra and the non-transgressive forms of Śaivism  (therefore excluding those of the Bhairavatantras and Kulamārga) were valid and  that communities that followed them were acceptable co-religionists; and we have  seen evidence that Jayanta’s portrayal of these systems was not merely an outsider’s projection: it corresponded to the way in which what was probably the great majority of Vaiṣṇava and Śaiva adherents had come to see themselves, by  surrendering the doctrines that were intended to keep alive their sense of tran scendence. This change of perspective, moreover, is one that is certainly more  tolerant of diversity than the strictly Śaiva, which admitted only a hierarchy in  which other vehicles of salvation, Vaidika and Vaiṣṇava, are subordinate to it.  
+
+Here we have rather the view that the Vaidika, Vaiṣṇava, and Śaiva paths are  options determined by inherited practice leading to a single Vaidika goal. It must  be kept in mind, however, that this congeries of equipolent options was never the  whole of Indian religious awareness in this period. Learned scholars among the  Śaivas and Śākta-Śaivas strove by various strategies to keep alive in initiates the  scripturally sanctioned belief that their Śaiva practices were not just a variant of a  single accommodating religion but something which had the power to lead them  to an ultimate goal that far transcended what either the Vaidika or the Vaiṣṇava  system could reach, and Vaidika ideologues such as Aparāditya held out to the  bitter end against this trend to accept what from their point of view was forbidden religious practice following false scriptures. 
+
+## Religion and the State: A Maximally Tolerant View  of What Is Acceptable in Matters of Religion 
+In Jayanta’s play Āgamaḍambara we have seen the uncompromising Vaidika camp  attempt and fail to impose its Manu-inspired vision of a society free of all but  properly Vaidika religion. When the suppression of an extreme fringe cult leads to panic among the Śaivas, the king, a Śaiva himself, not necessarily an initiate  but a publicly declared loyal devotee of Śiva (paramamāheśvaraḥ),93 who had at  the beginning of his reign founded temples for the installation of Śivas whose  names incorporated those of himself (Śaṇkaragaurīśvara) 94 and his chief queen (Sugandheśvara), intervenes and ensures that the status quo is maintained. The  play ends with an orchestrated debate between the Vaidikas and the preceptors  of the other faiths held in the Vaiṣṇava Raṇasvāmin temple in Srinagar on the  subject of whether the Pañcarātra and the scriptures of the other non-Vaidika  systems are or are not valid. In front of an audience of thousands, including the  former Snātaka Saṁkarṣaṇa, now turned ultra-tolerant minister of religious  affairs,95 the Naiyāyika Sāhaṭa, also called Dhairyarāśi, appointed as adjudictor  by the order of the king himself (nr̥pādeśāt), hears the various disputants put their  cases and then delivers his judgement. In this he rejects the narrow Vaidika view  of validity and advocates one with the greatest latitude, stopping short only of approving transgressive, licentious, and violent cults such as were certainly present  in Kashmir and elsewhere at this time. 
+
+- 93. Āgamaḍambara, prose between 3.3 and 3.4; prose before 4.2. He is also described there to the  same effect as puraharahr̥dayasya ‘one whose heart is given to the destoyer of the [three] celestial  palaces’ (prose after 4.6). 
+- 94. Kalhaṇa, Rājataraṅgiṇī 5.156–158. The two Śivas were installed in his new capital Śaṇkarapura or  Śaṇkarapattana (now Pattan/Paṭan in the Baramulla district of Kashmir), which he founded with his own name after coming to the throne. The two temples survive in ruins beside the road that runs from  Srinagar to Baramulla, approximately equidistant from both. 
+- 95. Saṁkarṣaṇa, who in the first part of the play was the champion of the view that all non-Vaidika  views are invalid, is described by the Vaidika officiant who earlier lamented Saṁkarṣaṇa’s failure to  push this view through, when he catches sight of him in this gathering of the learned, as a champion of  the view that all (established) religions are valid; see the prose after 4.4: ‘We have direct experience  of the power of Saṁkarṣaṇa [in this matter]. For he [has become] an adherent of the doctrine of the  authoritativeness of all the religions’ (dr̥ṣṭaḥ saṁkarṣaṇapratāpaḥ. sa hi sarvāgamaprāmāṇyavādī). 
+
+This view goes even beyond that enunciated above to recognize that not only Vaiṣṇavism and Śaivism but also Buddhism and Jainism are valid and must therefore be tolerated, holding that there is a single omniscient and nameless deity who in consideration of the differing  intellectual dispositions of human beings has manifested himself variously as the  propagators of all faiths: as Śiva, Paśupati, Kapila, Viṣṇu, Saṁkarṣaṇa, the Jina,  the Buddha, and Manu.96 The only criteria of validity from this point of view are  expressed as follows: 97 
+
+- 96. Āgamaḍambara 4.57. These are in order the propagators of the Śaiva, Pāśupata, Sāṁkhya,  Vaiṣṇava, Pāñcarātrika, Jaina, and Buddhist systems, and the core Smr̥ti of the Vaidika tradition. 
+- 97. Āgamaḍambara 4.100–101. 
+
+
+> This path of validation cannot be applied to any [tradition regardless of its  character], but only to religious systems that meet the following criteria:  
+>  (1)  they must have an unbroken tradition known to all; 
+>  (2) the community  of the orthoprax (āryalokaḥ) must not be loth to be acquainted with them or speak about them; 
+>  (3) the practices that they advocate must not be beyond  the pale of [what is acceptable to] society (janabāhyam); and 
+>  (4) must not endanger [its members] (sabhayam); (5) their character must not be manifestly  new-fangled (na rūpaṁ yeṣāṁ sphurati navam abhyutthitam iva); 
+>  (6) they must  not have the appearance of the teachings of madmen (pramattagītatvam);  
+>  (7) they must not be teachings of Kaulas (akaulikatvam); 98 and (8) their source  must not be greed or any other [base motive] (lobhādi). 
+
+- 98. I have tentatively conjectured the reading akaulikatvam here in place of the manuscripts’ alaukikatvam because the latter nonsensically excludes from acceptance any tradition that is not mundane  (laukika-). As we have seen, Śaṇkaravarman’s minister Jayanta was uncompromising in his condemnation of Kaula practice, but it is nonetheless surprising that this list should make so specific an exclusion. 
+
+
+This position that all religious traditions (sarvāgama-) are entitled to be considered valid, if they meet the above criteria, is presented in theistic terms. A nameless supreme being is declared to have taught these various religions by assuming the form of their promulgators. However, it is clear that this dresses up in  religious language what is in effect a juridical and political view of what the state should tolerate. The issue on this level is not truth or falsity but legality and the  policy to be followed by the state in its role as guardian of the boundaries of the  permissible, or rather, to use the monarchical language used by our authors, by  the king in his role as the guardian and guide of the entire socio-religious order  (sarva-varṇāśrama-guruḥ) or, to use a phrase favoured by Jayanta, the king as the  authoritative judge (-acāryaḥ) of the boundaries (maryādā) of religious conduct  (dharmaḥ) within that order.99 
+
+- 99. Āgamaḍambara, prose after 2.20: varṇāśramadharmamaryādācāryaḥ; prose after 4.104: varṇāś ramamaryādācāryaḥ. 
+
+
+However, the king’s role was not merely to police these boundaries. It was also  to promote the peaceful co-existence of the faiths through even-handed patronage. During our period the publicly declared personal religious commitment of  kings, in addition to their commitment to preserve the Vaidika socio-religious  order, generally took the form of devotion to Śiva, Viṣṇu, the Sun-God (Sūrya,  Āditya), or the Goddess (Bhagavatī), the deities of the new initiatory religions, or  to the Buddha (Sugata, Tathāgata) of Buddhism or the Arhats of Jainism, these  allegiances being commonly announced in their inscriptions by the inclusion  amid their royal titles of epithets that mean ‘entirely (parama-, atyanta-, param)  devoted’ to whichever of these deities or religious founders they favoured. Thus  devout worshippers of Śiva/Maheśvara are identified as paramamāheśvaraḥ,  atyantamāheśvaraḥ, or paramaśaivaḥ; of Viṣṇu as paramabhāgavataḥ, parama vaiṣṇavaḥ, or atyantabhagavad-bhaktaḥ; of the Sun as paramāditya-bhaktaḥ or para ma-sauraḥ; of the Goddess (Bhagavatī) as parama-bhagavatī-bhaktaḥ; of the Buddha  as paramasaugataḥ or paramatāthāgataḥ; and of the Jaina Arhats as paramārhataḥ or paramajainaḥ.100 
+
+- 100.See Sircar 1966, s.v. for all except paramārhataḥ and paramajainaḥ, for the first of which see, e.g.,  Kumārapālacaritrasaṁgraha pp. 28, 45, 108, and for the other, e.g., Vividhatīrthakalpa, p. 98. Also found  are epithets of the same kind expressing devotion to Bhairava (atyantasvāmimahābhairavabhaktaḥ)  or Narasiṁha (paramanārasiṁhaḥ); see Sircar 1966, s.v. 
+- 101. Dani 1996, pp. 173–174. 
+
+
+However, it was rarely the case that a king’s publicly declared allegiance to  one or another of these traditions was accompanied by strict exclusivity of patronage. For while a king might favour one religion over another, say Vaiṣṇavism  over Śaivism, it was common, and no doubt politic, for him to extend support  to religious traditions other than his own. Thus, the Kārkoṭakas of Kashmir,  who following the Śaiva kings of the Hephthalite Hun dynasty that had ruled  the country from early in the sixth century101 held power from the seventh to the ninth centuries, were consistently devotees of Viṣṇu, offering no support to the  cult of Śiva, yet they also supported Buddhism and the cult of the Sun.102 
+
+- 102. See Sanderson 2009a, p. 73. 
+
+Similarly, the Maitrakas of Valabhī were consistently Śaiva from the sixth to  the eighth centuries, yet, as we know from their copper-plate grants, Xuanzang,  and the Mañjuśrīyamūlakalpa, they were also generous patrons of Buddhism; 103 and the Pālas of Bihar and Bengal, though Buddhists, continued to support  Śaivism and Vaiṣṇavism,104 as did the Candras of Arakan; 105 the predominantly  Śaiva Licchavi and ṭhākurī kings of Nepal were generous patrons of Bud dhism; 106 and simultaneous royal patronage of Śaivism and Buddhism was also a  conspicuous feature of religion in mainland Southeast Asia, in the kingdoms of  the Khmers, Chams, Sumatrans, Sundanese, and Javanese.107 
+
+- 103. In the Alīnā copper-plate inscription of Śīlāditya VI Dhrūbhaṭa of ad 766 (cii 3:39) the account of  Lal the Maitraka lineage jumps from the Śaiva founder, Bhaṭārka, over the next four generations, which we  know from other inscriptions to have included a Vaiṣṇava and a Saura, to Guhasena. He and his thirteen  descendants down to Śīlāditya VI are identified as paramamāheśvaraḥ, with the exception of Śīlāditya  IV and Śīlāditya VI, who are given no sectarian epithet. For the Maitrakas patronage of Buddhism (in  its pre-Tantric forms) see Mañjuśrīyamūlakalpa 53.538–549; and Xuanzang on the recent conversion of  the king of Valabhī to Buddhism (Beal 1884, vol. 2. p. 267). Of the land-grant documents of the Maitrakas  of Valabhī three quarters are records of grants to brahmins, but the remaining quarter report grants  made by these kings to Buddhist institutions (Schmiedchen 2007, p. 360). On the Maitrakas support of  Buddhism see Sanderson 2009a, pp. 72–73. 
+
+- 104.See Sanderson 2009a, pp. 87–117. 
+- 105. Sanderson 2009a, pp. 84–86. 
+- 106. Sanderson 2009a, pp. 74–80. 
+- 107. Sanderson 2009a, pp. 171–173. 
+
+
+In the south of India too we find examples of royal patronage of more than  one religious tradition. The Pallava Mahendravarman I Guṇabhara was a Śaiva  convert from Jainism if we may believe the Tamil Śaiva hagiography. As a Śaiva  he established rock-cut cave temples of Śivas with his biruda names: Śatrumalleśvara at Daḷavānūr,108 Avani-bhājana-pallaveśvara at Śīyamaṅgalam,109 and itāṇkura-pallaveśvara Tiruchirāpaḷḷi.110 Yet he also excavated a rock-cut temple of Viṣṇu with his name (Mahendraviṣṇu) in his town of Mahendrapura.111 
+
+- 108. Mahalingam 1988, no. 19 and no. 20. 
+- 109. Mahalingam 1988, no. 29. 
+
+We find  the same phenomenon in the dynasty of the Eastern Gaṅgas of Kaliṅganagara in  northern Andhra Pradesh, a line all of whose known rulers, from the first half of  the sixth century through to the end of our period, were declared devout worshippers of Śiva (paramamāheśvaraḥ). An inscription issued in year 79 of the Gaṅga era, which is to say, c. ad 578, records that Mahārāja Hastivarman Raṇabhīta of  this line made a land-grant for the support of a temple of a Viṣṇu incorporating  his name (Raṇabhītodaya) in spite of the declaration that the donor is a parama-māheśvaraḥ.112 The Hoysaḷa king Viṣṇuvardhana (r. 1110–1141) likewise, though  strongly influenced by the Śrīvaiṣṇava movement, was also a generous patron of  both Jainism and Śaivism.113 
+
+There were even kings whose inscriptions depart from the convention of declaring allegiance to a single tradition by declaring them ‘entirely devoted’ to both  Śiva and Viṣṇu. This is true of the Pallava Narasiṁhavarman II (r. c. 700–728),114 the Gaṅga Anantavarman Coḍagaṅga in his Korni plates of 1081/2,115 Vaidyadeva  of Prāgjyotiṣa in his copper-plate grant probably of 1142,116 and Jayabhañja of the  Bhañjas of Kolāḍa in the eleventh or twelfth century.117 
+
+- 110. Mahalingam 1988, no. 35. 
+- 111. Mahalingam 1988, no. 24. 
+- 112. Rajaguru 1960, no. 4. 
+- 113. Settar 1992, pp. 46–48 (Jainism under Viṣṇuvardhana), pp. 50–51 (Vaiṣṇavism under the same),  pp. 60–61 (Śaivism under the same). 
+- 114. Mahalingam 1988, no. 53, ll. 10–11. 
+- 115. Singh 1994, p. 113. 
+- 116. Epigraphia Indica 2:28, l. 47. 
+- 117. Singh 1994, p. 105 (śrīśaṇkarabhaktimān, śrīvaiṣṇavaḥ). 
+
+
+We also have evidence from the Khmer realm that there were Vaiṣṇava dignitaries within the predominantly Śaiva royal staff, that members of the same family could be of different religious allegiances, and that the state limited the  freedom of individuals to change their religion only in the special case of persons  from certain title-groups (varṇa) who had been selected for training as Śaiva officiants in the service of the king and were forbidden by a decree of Jayavarman V  (r. c. 970–1000) to become Vaiṣṇavas.118 
+
+There are also numerous instances of royal marriages across religious boundaries in the subcontinent. In the fourth century the Vākāṭakas Rudrasena I  (r. c. 335–360) and Pr̥thivīsena I (r. c. 360–395) were Śaivas.119 But c. 388 their suc cessor Rudrasena II (r. c. 395–405) married Prabhāvatīguptā, the daughter of the  Gupta emperor Candragupta II (r. 376–415), a princess who in accordance with  the religious preference of her paternal family was a devotee of Viṣṇu (atyanta-bhagavad-bhaktā). Though Rudrasena continued to support the faith of his predecessors, he declared himself a Vaiṣṇava, no doubt under her influence,120 and  developed Rāmagiri (Ramtek) as a Vaiṣṇava state temple-complex. 
+
+We have other examples in Kalhaṇa’s Rājataraṅgiṇī. As we have seen above,  at the end of the ninth century, after the demise of the Vaiṣṇava Kārkoṭaka dynasty, Śaṇkaravarman (883–902) was a devout worshipper of Śiva and accordingly  founded Śiva temples with his and his queen’s names. But his queen Sugandhā, a foreigner from the north, probably a Dard (5.157), was a supporter of the Vaiṣṇava  Pāñcarātrikas,121 and while she occupied the throne from 904 to 906 after the  death of her husband and the short reigns of her sons, the boy king Gopālavarman (902–904) and his younger brother Saṁkaṭa (904), she established a Viṣṇu Gopālakeśava and a Gopālamaṭha with the former’s name (5.244). Moreover,  Nandā, Gopālavarman’s child bride, no doubt chosen for him by his Vaiṣṇava  mother, founded a Viṣṇu (Nandā)keśava and a Nandāmaṭha with hers (5.245). 
+
+- 118. Sanderson 2003, pp. 434–435. 
+- 119. The Vākāṭaka inscriptions identify them as atyantasvāmimahābhairavabhaktaḥ and atyantam āheśvaraḥ respectively. 
+- 120. Bakker 1997, pp. 17–22. 
+- 121. Āgamaḍambara, p. 196, ll. 18–19. 
+
+
+After the end of the rule of this dynasty in 939 the brahmins bestowed the  crown on Yaśaskaravarman (939–948), the son of Prabhākaradeva, the trea surer of Gopālavarman, and the the secret lover of his Vaiṣṇava queen Sugandhā (5.469–477). This paramour may well have been the unnamed royal functionary  rumoured122 to have been a supporter, like the queen, of the Vaiṣṇava Pāñcarātrikas. In any case his son Yaśaskaravarman was a Vaiṣṇava and one who exerted  himself to encourage orthopraxy and suppress the Śākta-leaning Śaivism then  strong in Kashmir (6.6–12, 108–112). He began the construction of a temple for  a Viṣṇu Yaśaskarasvāmin, incorporating his own name, but died before it was  finished (6.140). 
+
+His successor Parvagupta (949–950) was a Śaiva, as we may infer from the  fact that he established a Śiva Parvagupteśvara (6.137) and at the end of his life  chose to die in the precincts of the Śaiva temple of the Sureśvarīkṣetra (6.147). His  religious conviction would not then have predisposed him to complete the Viṣṇu  temple of his anti-Śaiva Vaiṣṇava predecessor, but he was tricked into doing so  by one of Yaśaskaravarman’s widows, no doubt another Vaiṣṇava, who promised  him her favours if he did so and then when he had completed the work, committed pious suicide by offering herself into a sacrificial fire (6.140–144). 
+
+Parvagupta was succeeded by Kṣemagupta (950–958), whose Śaiva persuasion  can be seen from the report that he founded a temple for a Śiva Ardhanārīśvara  under the name Kṣemagaurīśvara (6.172–173). But he married Diddā, the ruthless  and dissolute daughter of Siṁharāja, the Śāhi chief of Lohara, a mountainous district adjoining Kashmir on the south-west (6.176). Again a matrimonial alliance favoured Viṣṇu. It was probably through her influence – the king was so besotted  with her that he was mockingly known as Diddākṣema (6.177) – that when he fell fatally ill he chose to go to die in the Vaiṣṇava holy site Varāhakṣetra (6.186).  
+
+During her long dominance of nearly fifty years until 1008 she enshrined a Viṣṇu  Abhimanyusvāmin with the name of her deceased son Abhimanyu (6.299), two  Viṣṇus Diddāsvāmin with her own name (6.300, 302), and a Viṣṇu Siṁhasvāmin  in Lohara (8.1822) with the name of her father (6.304); and her illustrious maternal grandfather Bhīma, the Śāhi king of Udabhāṇḍa (Hund) on the Indus, enshrined and richly endowed a Viṣṇu Bhīmasvāmin with his name in Kashmir  proper, at Bumzu near Bavan (6.178). 
+
+- 122. Āgamaḍambara, p. 196, ll. 19–20. 
+
 Nor does it seem that Indian courts were less tolerant than the Khmer when  
-it came to the religion of their members. It seems not to have been the case, for  
-example, that a Śaiva could not aspire to ministerial office under a Vaiṣṇava king.  
-We have a striking example of this at the beginning of our period at Udayagiri  
-near the ancient city of Vidiśā in central India, where an inscription records that  
-Vīrasena, a minister of the Vaiṣṇava (paramabhāgavataḥ) Gupta emperor Can dragupta II (r. c. 375–415), had a cave excavated for Śiva when he had come there  
-with that monarch while the latter was engaged in a military campaign.123 
-The state’s support for religions other than that professed by the monarch in  
-the inscriptions issued by his chancellery is also clear from evidence of his par 
-ticipation in their major festivals. Xuanzang’s Da Tang Xiyuji, the account of his  
-journey to and sojourn in India from 629 (var. 627) to 645 (var. 644), completed in  
-646 on his return to China, tells us that in the vicinity of the city of Kanyakubja  
-(Kanauj) were a Buddhist monastery, a temple of the Sun-God, and a temple of  
-Śiva, all three of similar scale and grandeur; 124 and Huili and Yanzong’s biogra 
-phy of this learned Chinese pilgrim (Da ci en si san cang fa shi zhuan), completed  
-in 688, reports that in Kanyakubja during the Buddhist quinquennial festival  
-of the general distribution of alms (pañcavarṣapariṣat), the Puṣyabhūti emperor  
-Harṣa, whose Śaiva allegiance is reported by his biographer Bāṇa,125 offered wor ship to the Buddha on the first day, to the Sun-God on the second, and to Ma 
-heśvara (Śiva) on the third.126 This multi-faith environment, with several equally  
-balanced religious traditions flourishing side by side, is, I propose, the probable  
-cause of the great inconstancy of the declared religious allegiance of the kings  
-of this once great city, seen first among the Puṣyabhūtis and then among the  
-Gurjara-Pratīhāras. Among the Puṣyabhūtis the emperor Harṣa, as we have seen,  
-123. cii 3:6, l. 5: ‘[Vīrasena, Minister of Peace and War of Candragupta] had this cave constructed out of  
-devotion for the god Śambhu when he had come to this place together with the king himself, who was  
-seeking to conquer the entire world (kr̥tsnapr̥thvījayārtthena rājñaiveha sahāgataḥ).’ 
-124. Beal 1884, vol. 1, pp. 222–223. 
-125. Bāṇa, Harṣacarita, p. 45, l. 18: paramamāheśvaraḥ sa bhūpālo. . . 
-126. Iyanaga 1983, p. 731a. 
-206 
-33211 Honoris Causa 3P.indd 206 11/18/15 5:22 PM
-tolerance, exclusivity, inclusivity, and persecution . . . 
-was a Śaiva (paramamāheśvaraḥ); but his father was a Buddhist (paramasaugataḥ),  
-and three preceding ascendants were Sauras (paramādityabhaktaḥ); 127 and among  
-the Gurjara-Pratīhāras we have successively the Vaiṣṇava Devaśakti, the Śaiva  
-Vatsarāja, the Śākta Nāgabhaṭa (r. c. 816–834), the Saura Rāmabhadra, the Śākta  
-Bhoja (r. c. 840–890), the Saura Vināyakapāla, and the Śaiva Mahendrapāla.128 
-We may also point to socio-legal provisions at the eastern edge of the Indic  
-world, in East Java during the Majapahit period (1293–c. 1500). We know that  
-the state appointed clerical administrators of religion (dharmādhyakṣa) for both  
-the Śaiva (dharmādhyakṣa riṇ kaśaiwan) and Buddhist faiths (dharmādhyakṣa riṇ kasogatan), providing official residences for them close to the royal compound,  
-and that there was a board of subordinate religious officials known as the Asses 
-sors of Religion (dharmopapatti, dharmādhikaraṇa), who included persons adher ing to the non-Saiddhāntika Bhairava cult (bhairawapakṣa) and the Saura cult of  
-the Sun (sorapakṣa).129 
-Persecution 
-The emergence of the orthoprax consensus reported by Jayanta and confirmed  
-by other evidence, in which Vaidikas, Vaiṣṇavas, and Śaivas were seen by oth ers and themselves as equipolent aspects of a single loosely defined faith, the ju 
-ridical view that all religions other than those considered criminal or subversive  
-should be accepted by the state, and the evidence of royal patronage extended  
-to religious traditions other than those to which monarchs claimed to be espe 
-cially devoted suggest that there was indeed a high degree of official tolerance of  
-religious diversity to be found in the various states of early mediaeval India. But  
-the evidence presented above also shows that this tolerance was not innate to  
-the individual traditions that had been absorbed, however incompletely, into this  
-consensus. The Vaidikas, as we have seen, had a strictly exclusivist view that, if it  
-could have found the support of willing monarchs, would have driven all compet 
-127. Bānskherā plate of Harṣa, ad 628: Epigraphia Indica 4:29. 
-128. Epigraphia Indica 14:13. 
-129. Sanderson 2009a, pp. 105, 118–120. 
-207 
-33211 Honoris Causa 3P.indd 207 11/18/15 5:22 PM
-Honoris Causa 
-itors for royal patronage from the field; and we have seen that Śaiva ideologues  
-for their part, while claiming to support the Vaidika tradition within an inclu 
-sive Śaiva-Vaidika socio-religious order, nonetheless show in their scriptures and  
-learned commentaries an uncompromising faith in the otherness and superiority  
-of Śaivism and the marked inferiority of the Vaidika system, which they saw as  
-merely ‘mundane religion’ (laukiko dharmaḥ).130 The Buddhists and Jainas likewise  
-stood in clear opposition to the ‘Hindu’ traditions, even though Buddhist kings at  
-least have professed in their inscriptions their commitment to the preservation of  
-the Vaidika socio-religious order; 131 and the Śaivas, Vaiṣṇavas, and Vaidikas have  
-been unanimous in their condemnation of these two heterodox faiths. In this at  
-least they could agree. 
-Consequently, it was always a possibility that the peaceful co-existence of  
-these competing traditions might be upset, if a royal patron or charismatic re 
-ligious figure found himself eager and able, for whatever reason – political, eco 
-nomic, or perhaps even simple religious conviction – not merely to favour one  
-tradition at the expense of others, but even to persecute whatever tradition he was  
-inclined to suppress, or at least punish anyone who dared to raise a voice against  
-the dominant religious consensus of the region and period. Consider the strident  
-tone of the following declaration in an inscription of ad 1036 recording a grant of  
-land made by Jayasiṁha II, the Cālukya ruler of Kalyāṇa, for the support of the  
-temple of Śiva Pañcaliṅgeśvara, to Lakulīśvara, evidently in his capacity as the  
-Lākula incumbent of this sacred site: 132 
-I, a fire of destruction to disputants [of other faiths], shall place my foot in  
-the presence of the king’s council on the head of any who claims that either  
-of these is false: the God Śiva, whose feet merit the worship of all men, and  
-130. See, e.g., describing the ideal Śaiva Sthāpaka, Devyāmata f. 1v3 [2.20ab]: ‘With no attachment to  
-the mundane religion, devoted [only] to the religion of Śiva’ (virakto laukike dharme śivadharmānurañ 
-jitaḥ). 
-131. See Sanderson 2009a, pp. 115–117, for the epigraphical evidence of this commitment. 
-132. Epigraphia Carnatica 7 Sh 126, p. 175. 
-208 
-33211 Honoris Causa 3P.indd 208 11/18/15 5:22 PM
-tolerance, exclusivity, inclusivity, and persecution . . . 
-the religion proclaimed in the three [Vedas], in which the system of the caste 
-classes and disciplines has been established in its proper hierarchy. 
-Consider also the following passage from an authoritative South Indian Said 
-dhāntika Śaiva treatise of the twelfth century, which tells the Śaivas that they  
-may kill without sin anyone who attacks their faith: 133 
-Even if he kills those who revile Śiva, the Mantras of Śiva, and his Gurus, he  
-does not thereby infringe the rules of his post-initiatory discipline. There is no  
-fault in killing those who attack [our] deities, sacred fire, and teachers. 
-Nor do our historical sources lack accounts of persecutions, pogroms, or sim 
-ple vandalism directed against the religious other. Some may be fictions or at least  
-exaggerated. But some are well attested and by their mere existence they proclaim  
-that the Indians of our period were not adherents of the view that the religions  
-around them were eirenic by nature. 
-Buddhist sources, from the Kashmirian Vibhāṣā of the second century to the  
-East Indian Mañjuśriyamūlakalpa of the eighth, identify as the first major perse 
-cutor of their religion Puṣyamitra Śuṅga of the second century bc, the brahmin  
-general who was believed to have re-established the pre-eminence of Brahmanism  
-after bringing the pro-Buddhist Maurya dynasty to an end. According to these  
-works he burned the Buddhist Sūtras, demolished Stūpas and monasteries, and  
-killed many Buddhist monks, from Magadha to Jālandhara.134 
-Xuanzang, the seventh-century Chinese Buddhist scholar monk, who spent  
-about fifteen years in Central Asia and India, reports that the Hephthalite Hun  
-Mihirakula, who ruled in Kashmir early in the sixth century, destroyed many  
-Buddhist foundations in Gandhāra, having resolved to extinguish Buddhism.135 
-He was evidently Śaiva in allegiance, since on his coins he had the bull and tri 
-133. Trilocanaśiva, Prāyaścittasamuccaya, p. 16. 
-134. For a review of these accounts see Lamotte 1958, pp. 424–431. 
-135. Beal 1884, vol. 1, pp. 167–172. 
-209 
-33211 Honoris Causa 3P.indd 209 11/18/15 5:22 PM
-Honoris Causa 
-dent and the legend jayatu vr̥ṣa jayatu vr̥ṣadhvaja ‘Victory to the Bull! Victory to  
+it came to the religion of their members. It seems not to have been the case, for  example, that a Śaiva could not aspire to ministerial office under a Vaiṣṇava king.  
+
+We have a striking example of this at the beginning of our period at Udayagiri  near the ancient city of Vidiśā in central India, where an inscription records that Vīrasena, a minister of the Vaiṣṇava (paramabhāgavataḥ) Gupta emperor Candragupta II (r. c. 375–415), had a cave excavated for Śiva when he had come there  with that monarch while the latter was engaged in a military campaign.123 
+
+- 123. cii 3:6, l. 5: ‘[Vīrasena, Minister of Peace and War of Candragupta] had this cave constructed out of  devotion for the god Śambhu when he had come to this place together with the king himself, who was  seeking to conquer the entire world (kr̥tsnapr̥thvījayārtthena rājñaiveha sahāgataḥ).’ 
+
+The state’s support for religions other than that professed by the monarch in  the inscriptions issued by his chancellery is also clear from evidence of his participation in their major festivals. Xuanzang’s Da Tang Xiyuji, the account of his  journey to and sojourn in India from 629 (var. 627) to 645 (var. 644), completed in  646 on his return to China, tells us that in the vicinity of the city of Kanyakubja  (Kanauj) were a Buddhist monastery, a temple of the Sun-God, and a temple of  Śiva, all three of similar scale and grandeur; 124 and Huili and Yanzong’s biography of this learned Chinese pilgrim (Da ci en si san cang fa shi zhuan), completed  in 688, reports that in Kanyakubja during the Buddhist quinquennial festival  of the general distribution of alms (pañca-varṣa-pariṣat), the Puṣyabhūti emperor  Harṣa, whose Śaiva allegiance is reported by his biographer Bāṇa,125 offered worship to the Buddha on the first day, to the Sun-God on the second, and to Maheśvara (Śiva) on the third.126 
+
+- 124. Beal 1884, vol. 1, pp. 222–223. 
+- 125. Bāṇa, Harṣacarita, p. 45, l. 18: paramamāheśvaraḥ sa bhūpālo. . . 
+- 126. Iyanaga 1983, p. 731a. 
+
+This multi-faith environment, with several equally  balanced religious traditions flourishing side by side, is, I propose, the probable  cause of the great inconstancy of the declared religious allegiance of the kings  of this once great city, seen first among the Puṣyabhūtis and then among the  Gurjara-Pratīhāras. Among the Puṣyabhūtis the emperor Harṣa, as we have seen,  was a Śaiva (paramamāheśvaraḥ); but his father was a Buddhist (parama-saugataḥ),  and three preceding ascendants were Sauras (paramādityabhaktaḥ); 127 and among  the Gurjara-Pratīhāras we have successively the Vaiṣṇava Devaśakti, the Śaiva  Vatsarāja, the Śākta Nāgabhaṭa (r. c. 816–834), the Saura Rāmabhadra, the Śākta  Bhoja (r. c. 840–890), the Saura Vināyakapāla, and the Śaiva Mahendrapāla.128 
+
+We may also point to socio-legal provisions at the eastern edge of the Indic  world, in East Java during the Majapahit period (1293–c. 1500). We know that  the state appointed clerical administrators of religion (dharmādhyakṣa) for both  the Śaiva (dharmādhyakṣa riṇ kaśaiwan) and Buddhist faiths (dharmādhyakṣa riṇ kasogatan), providing official residences for them close to the royal compound,  and that there was a board of subordinate religious officials known as the Assessors of Religion (dharmopapatti, dharmādhikaraṇa), who included persons adhering to the non-Saiddhāntika Bhairava cult (bhairawapakṣa) and the Saura cult of  the Sun (sorapakṣa).129 
+
+## Persecution 
+The emergence of the orthoprax consensus reported by Jayanta and confirmed  by other evidence, in which Vaidikas, Vaiṣṇavas, and Śaivas were seen by others and themselves as equipolent aspects of a single loosely defined faith, the juridical view that all religions other than those considered criminal or subversive  should be accepted by the state, and the evidence of royal patronage extended  to religious traditions other than those to which monarchs claimed to be especially devoted suggest that there was indeed a high degree of official tolerance of  religious diversity to be found in the various states of early mediaeval India. But  the evidence presented above also shows that this tolerance was not innate to  the individual traditions that had been absorbed, however incompletely, into this  consensus. 
+
+- 127. Bānskherā plate of Harṣa, ad 628: Epigraphia Indica 4:29. 
+- 128. Epigraphia Indica 14:13. 
+- 129. Sanderson 2009a, pp. 105, 118–120. 
+
+The Vaidikas, as we have seen, had a strictly exclusivist view that, if it  could have found the support of willing monarchs, would have driven all competitors for royal patronage from the field+++(5)+++; and we have seen that Śaiva ideologues  for their part, while claiming to support the Vaidika tradition within an inclusive Śaiva-Vaidika socio-religious order, nonetheless show in their scriptures and  learned commentaries an uncompromising faith in the otherness and superiority  of Śaivism and the marked inferiority of the Vaidika system, which they saw as  merely ‘mundane religion’ (laukiko dharmaḥ).130 
+
+- 130. See, e.g., describing the ideal Śaiva Sthāpaka, Devyāmata f. 1v3 [2.20ab]: ‘With no attachment to  the mundane religion, devoted [only] to the religion of Śiva’ (virakto laukike dharme śivadharmānurañjitaḥ). 
+
+The Buddhists and Jainas likewise stood in clear opposition to the ‘Hindu’ traditions, even though Buddhist kings at  least have professed in their inscriptions their commitment to the preservation of  the Vaidika socio-religious order; 131 and the Śaivas, Vaiṣṇavas, and Vaidikas have  been unanimous in their condemnation of these two heterodox faiths. In this at  least they could agree. 
+
+- 131. See Sanderson 2009a, pp. 115–117, for the epigraphical evidence of this commitment. 
+
+Consequently, it was always a possibility that the peaceful co-existence of  these competing traditions might be upset, if a royal patron or charismatic religious figure found himself eager and able, for whatever reason – political, economic, or perhaps even simple religious conviction – not merely to favour one  tradition at the expense of others, but even to persecute whatever tradition he was  inclined to suppress, or at least punish anyone who dared to raise a voice against  the dominant religious consensus of the region and period. Consider the strident  tone of the following declaration in an inscription of ad 1036 recording a grant of  
+land made by Jayasiṁha II, the Cālukya ruler of Kalyāṇa, for the support of the  temple of Śiva Pañcaliṅgeśvara, to Lakulīśvara, evidently in his capacity as the  Lākula incumbent of this sacred site: 132 
+
+- 132. Epigraphia Carnatica 7 Sh 126, p. 175. 
+
+
+> I, a fire of destruction to disputants [of other faiths], shall place my foot in  the presence of the king’s council on the head of any who claims that either  of these is false: the God Śiva, whose feet merit the worship of all men, and  the religion proclaimed in the three [Vedas], in which the system of the caste classes and disciplines has been established in its proper hierarchy. 
+
+Consider also the following passage from an authoritative South Indian Said dhāntika Śaiva treatise of the twelfth century, which tells the Śaivas that they  may kill without sin anyone who attacks their faith: 133 
+
+> Even if he kills those who revile Śiva, the Mantras of Śiva, and his Gurus, he  does not thereby infringe the rules of his post-initiatory discipline. There is no  fault in killing those who attack [our] deities, sacred fire, and teachers. 
+
+Nor do our historical sources lack accounts of persecutions, pogroms, or sim ple vandalism directed against the religious other. Some may be fictions or at least  exaggerated. But some are well attested and by their mere existence they proclaim  that the Indians of our period were not adherents of the view that the religions  around them were eirenic by nature. 
+
+Buddhist sources, from the Kashmirian Vibhāṣā of the second century to the  East Indian Mañjuśrīyamūlakalpa of the eighth, identify as the first major perse cutor of their religion Puṣyamitra Śuṅga of the second century bc, the brahmin  general who was believed to have re-established the pre-eminence of Brahmanism  after bringing the pro-Buddhist Maurya dynasty to an end. According to these  works he burned the Buddhist Sūtras, demolished Stūpas and monasteries, and  killed many Buddhist monks, from Magadha to Jālandhara.134 
+
+Xuanzang, the seventh-century Chinese Buddhist scholar monk, who spent  about fifteen years in Central Asia and India, reports that the Hephthalite Hun  Mihirakula, who ruled in Kashmir early in the sixth century, destroyed many  Buddhist foundations in Gandhāra, having resolved to extinguish Buddhism.135  
+
+- 133. Trilocanaśiva, Prāyaścittasamuccaya, p. 16. 
+- 134. For a review of these accounts see Lamotte 1958, pp. 424–431. 
+- 135. Beal 1884, vol. 1, pp. 167–172. 
+
+He was evidently Śaiva in allegiance, since on his coins he had the bull and trident and the legend jayatu vr̥ṣa jayatu vr̥ṣadhvaja ‘Victory to the Bull! Victory to  
 [Śiva,] who has the Bull as his emblem!’,136 and, according to Kalhaṇa, established  
 a Liṅga of Śiva incorporating his name (Mihireśvara) in the capital.137 It should  
 be noted, however, that Kalhaṇa says nothing of persecution of the Buddhists  
 in particular but notes only that before the close of his life he had been a pitiless  
 monster responsible for countless deaths.138 
-Xuanzang also reports the persecution of the Buddhists by the East Indian  
-ruler Śaśāṇka (c. 603–619/20). He tells us that this king attacked the religion  
-of Buddha, dispersed the Saṅgha, cut down the Bodhi tree, damaged the rock  
-nearby that bore the Buddha’s footprints, and ordered that a Buddha image  
-there should be replaced by an image of Śiva.139 He too was a devout worshipper  
-of this deity (paramamāheśvaraḥ),140 and his gold coins show Śiva reclining on  
-his bull.141 
-The religious history of the kings of India up to the reign of Gopāla (r. c. 750– 
-775), the first king of the Pāla dynasty, given in the guise of a prophecy and added  
-to the Buddhist Tantric Mañjuśriyamūlakalpa, probably not long after Gopāla’s  
-136. Stein 1979 on 1.289. To laud the bull (vr̥ṣaḥ) would be surprising if the intended meaning were the  
-bull that is Śiva’s mount, but not if the word is intended in its figurative meaning, namely dharmaḥ or  
-sukr̥tam ‘the virtuous actions [prescribed by the Veda].’ For this meaning of vr̥ṣaḥ see, for example,  
-Amarasiṁha, Nāmaliṅgānuśāsana 1.4.25b (sukr̥taṁ vr̥ṣaḥ), 3.3.220 (sukr̥te vr̥ṣabhe vr̥ṣaḥ); Halāyudha,  
-Abhidhānaratnamālā 1.125cd (dharmaḥ puṇyaṁ vr̥ṣaḥ śreyaḥ sukr̥taṁ ca samaṁ smr̥tam); Manusmr̥ti 
-816a (vr̥ṣo hi bhagavān dharmas . . .); and the Gwalior Museum Stone Inscription of Pataṅgaśambhu  
-(Mirashi 1962), l. 15, vr̥ṣaikaniṣṭho ’pi jitasmaro ’pi yaḥ śaṇkaro ’bhūd bhuvi ko ’py apūrvvaḥ, concerning  
-the Śaiva ascetic Vyomaśambhu: ‘He was in the world an extraordinary new Śiva, since he too was  
-vr̥ṣaikaniṣṭhaḥ (‘devoted solely to pious observance’; in Śiva’s case ‘riding only on the Bull’) and he  
-too was jitasmaraḥ (‘one who had defeated sensual urges’; in Śiva’s case ‘the defeater of the Love god  
-Kāmadeva’). This is also the meaning of vr̥ṣaḥ in the title Vr̥ṣasārasaṁgraha, one of the works of the  
-Śivadharma corpus (see, e.g., Sanderson 2014, p. 2), i.e., ‘Summary of the Essentials of the [Śiva]dharma’. 
-137. Rājataraṅgiṇī 1.306. 
-138. Rājataraṅgiṇī 1.291–293, 361. 
-139. Beal 1884, vol. 2, pp. 91, 118, and 121. 
-140.Sircar 1983, Supplement, no. 1, ll. 4–5. 
-141. Sircar 1983, no. 5. 
-210 
-33211 Honoris Causa 3P.indd 210 11/18/15 5:22 PM
-tolerance, exclusivity, inclusivity, and persecution . . . 
-reign,142 reports that in Vārāṇasī a king of Gauḍa called Soma, perhaps the  
-Sāmanta-Mahārāja Soma/Somadatta, the feudatory of Śaśāṇka recorded in an  
-inscription of c. 620,143 destroyed Buddha images; had the Buddhist scriptures  
-burned; obliterated Buddhist monasteries, assembly grounds, and Stūpas; and  
-blocked their endowments.144 
-In the twelfth or thirteenth century an inscription from the royal town of  
-Vodāmayūtā in Haryana praises a Saiddhāntika Śaiva ascetic from Aṇahi lapāṭaka called Varmaśiva who had been appointed head of the Śaiva Maṭha in  
-Vodāmayūtā by the minister of the great-grandfather of the present ruler, relat 
-ing that when he had gone to the Deccan as a boy he had seen an image installed  
-by the Buddhists and in his fury had by some mysterious means succeeded in  
-carrying it off to a great distance.145 
-The Pallava Mahendravarman I (c. 610–630), originally a Jaina, is thought  
-to have persecuted the Śaivas until he was converted to Śaivism by the Tamil  
-poet-saint Appar.146 Appar declares himself a convert from Jainism and his po 
-etry, like that of his near contemporary Campantar, is full of vituperation both  
-against his former co-religionists and the Buddhists.147 After his conversion from  
-Jainism to Śaivism the Pāṇḍya king of Madurai is said to have had 8,000 Jainas  
-impaled in revenge for an attempt to kill his Śaiva Guru Campantar.148 Whatever  
-the degree of accuracy of this grotesque claim it is significant that this massacre is  
-depicted in relief around the enclosure of the tank of the temple of Mīnākṣisund areśvara in Madurai and celebrated to this day in its festivals.149 
-142. Matsunaga 1985, p. 893. 
-143. Sircar 1983, no. 4. 
-144.Mañjuśriyamūlakalpa 53.657–687, especially 657–660. 
-145. Epigraphia Indica 3, no. 1, l. 8. 
-146. Stein 1994, p. 78. 
-147. Viswanathan Peterson 1991, passim. 
-148.Cf. vanmikanathan 1985, pp. 239–262, stating in all seriousness that in fact the Jainas impaled them 
-selves. 
-149. Sastri 1964, p. 110. 
-211 
-33211 Honoris Causa 3P.indd 211 11/18/15 5:22 PM
-Honoris Causa 
-An inscription of c. 1200 at Ablūr, a Jaina stronghold in the Dharwar district  
-of Karnataka,150 reports a conflict between Jainas and Śaivas towards the end of  
-the twelfth century that culminated in the destruction of a Jaina temple and its  
-image of the Jina and the construction in its place of the temple of Śiva Vīraso 
-manātha (/Someśvara) by the Śaiva zealot Ekāntada-Rāmayya; and inscriptions  
-at Shravana Belgola and other places in Karṇāṭaka record that in 1368 the Jainas  
-appealed successfully to the king of Vijayanagar for protection from persecution  
-at the hands of Vaiṣṇavas.151 
-There is also an inscription of ad 1184 from Talikoti in the Mudehihal Taluk  
-of Bijapur District on a pillar near the gateway of the fort, which records that the  
-Gaṇas of the temple of Vīra-Bayseśvara established the glory of the god Śiva with  
-supreme valour by destroying the Buddhist and Jaina religions, vanquishing the  
-adherents of the rival faiths at many places near and far, demolishing Jaina tem 
-ples, and installing Liṅgas of Śiva.152 Nor was this kind of sectarian hatred limited  
-to the south. In 1174, Ajayadeva, the Śaiva king of Gujarat who founded Ajmer, is  
-said to have begun his reign with a severe persecution of the Jainas.153 
-There is also evidence of hostility between Śaivas and Vaiṣṇavas. An inscrip tion of 1160 at Tirukkaḍaiyūr rules that devotees of Śiva (Māheśvaras) associated  
-with the temple there would forfeit their property to the temple if they mixed  
-freely with Vaiṣṇavas.154 The South Indian Vaiṣṇava Yāmuna (c. 966/7 to 1038)  
-is uncompromising in his view that the Śaiva faith is outside the pale of valid  
-religion155 and that, against appearances, orthoprax Vaidika criticism of inner  
-non-Vaidika practice applies only to Śaivism and not also to the Vaiṣṇava Pañ 
-150. Epigraphia Indica 5, no. 25, E. 
-151. Rice 1909, pp. 113–114 and 207–208. 
-152. South Indian Inscriptions 15:56. 
-153. Guérinot 1908, no. 11. 
-154. Sastri 1984, p. 645. 
-155. Āgamaprāmāṇya, pp. 91–101. 
-212 
-33211 Honoris Causa 3P.indd 212 11/18/15 5:22 PM
-tolerance, exclusivity, inclusivity, and persecution . . . 
-carātra; 156 and this view was not moderated by the later Vaiṣṇavas of southern  
-India, who held firmly to the position that the Mantramārgic Śaivas and the  
-Pāśupatas were infidels (avaidikāḥ, pāṣaṇḍinaḥ) the very sight of whom pol lutes.157 Then there is the Śrīvaiṣṇava hagiographical tradition of works such as  
-the Divyasūricarita of Garuḍavāhana and the Yatirājavaibhava of Vaṭuka Nampi,  
-according to which their teacher Rāmānuja had to flee because of persecution by  
-the fanatically Śaiva Col˙a emperor, finding refuge in Karṇāṭaka, where he con verted the Jaina Hoysal˙a king Biṭṭideva to Vaiṣṇavism,158 and the tradition of the  
-Divyasūricarita that the same king, or Kulottuṅga II (r. 1133–1150), according to  
-his court poet Oṭṭakūttan, had an image of Viṣṇu removed from the front of the  
-shrine of Śiva Naṭarāja in Cidambaram and thrown into the sea.159 Whatever the  
-truth of this claim, it was strongly believed.160 
-Only accounts of religious persecution or killing of non-Buddhists by Bud 
-dhists are lacking in the Indian sources known to me.161 Their aggression, as far as  
-I can tell at present, was limited in India to the provision of Mantras to be used  
-to kill the enemies of Buddhism; 162 to narratives of the forcible humiliation of  
-156. Āgamaprāmāṇya, pp. 156–158. 
-157. See, e.g., the Pañcarātrarakṣā of Vedāntadeśika (1268/9–1369/70), p. 27. 
-158 Sastri 1984, pp. 295–296 and 308. 
-159. Sastri 1984: pp. 300 and 644–645. 
-160.Finally, in 1539 Acyutarāya of Vijayanagara, a Vaiṣṇava like all the post-Saṅgama kings of this dy nasty, responded to this belief by founding the present shrine of Viṣṇu Govindarāja within the precincts  
-of the temple, right beside the Citsabhā, the Śaivas’ holy of holies, ordaining that it should be wor 
-shipped according to the ritual of the Vaikhānasas (Younger 1995, pp. 111–112). 
-161. This is not the case in Tibet. In his Blue Annals (tr. Roerich 1995, p. 53) Gzhon nu dpal relates that  
-the Buddhist monk Lha lung dpal gyi rdo rje assassinated Glang dar ma, the last king of the Yarlung  
-dynasty, c. ad 842, to put an end to his persecution of Buddhism. For a colourful and no doubt fictional 
-ized account of the assassination, see Bsod nams rgyal tshan’s Rgyal rabs gsal ba’i me long (fourteenth  
-century), tr. by Sørensen (1994), pp. 431–435. I merely cite the tradition. For there are grounds for  
-doubting both Glang dar ma’s hostility to Buddhism and his assassination; see Yamaguchi 1996. 
-162. See, e.g., Mañjuśriyamūlakalpa 50, prose before v. 1: ‘This [Mantra of the] Wrathful King [Yamān 
-taka] should certainly be employed (prayoktavyaḥ) against evil rulers and any persons that do harm to  
-the teaching (duṣṭarājñāṁ śāsanāpakāriṇāṁ ca sattvānāṁ). . .’; ‘to protect the teaching of the Buddhas,  
-to secure the longevity of the sacred texts (dharmadhātucirasthityartham), to block all wicked rulers,  
-213 
-33211 Honoris Causa 3P.indd 213 11/18/15 5:22 PM
-Honoris Causa 
-the non-Buddhist deities, particularly Śiva or Bhairava and his consort; and to  
-the canonization of these narratives in the iconography of their Tantric deities,  
-who tread triumphant on the prostrate bodies of their Śaiva rivals, and wear their  
-flayed skin as garments and their bones as Kāpālika ornaments.163 
-References 
-Texts 
-Abhidhnaratnaml of Halāyudha, ed. Th. Aufrecht. London: Williams &  
-Norgate, 1861. 
-aṣṭaprakaraṇa, ed. Vrajavallabha Dvivedī. Yogatantra-granthamālā 12. Vara nasi: Sampurnananda Sanskrit University, 1988. 
-Aṣṭdhyy of Pāṇini → böhtlingk 1887. 
-Āgamaḍambara of Jayanta → dezső 2005. 
-Āgamaprmṇya of Yāmunācārya, ed. Rāma Miśra Śāstrī. Varanasi, 1937. Re print from The Pandit. 
-Kumraplacaritrasaṅgraha, compiled by Jinavijaya Muni. Siṅghī Jaina  
-Granthamālā, 41. Bombay: Bharatīya Vidyā Bhavana, 1956. 
-Kularatnoddyota. National Archives, Kathmandu MS 1-16, Nepal-German  
-Manuscript Preservation Project Reel No. A 206/10; paper; Newari script; man 
-uscript completed on Tuesday, Śrāvaṇa śudi 14, [Nepālasaṁvat] 754 (ad 1634). 
-to punish those who harm any one of the three Jewels (ratnatrayāpakāriṇāṁ)[, namely images of the  
-Buddha, the sacred texts of Buddhism, and the community of monks]. . .’ The use of the Mantra of the  
-Buddhist deity Black Yamāri to bring about the death of the target is taught at the end of the 4th Paṭala  
-of the Kr̥ṣṇayamāritantra. See also Vajrabhairavatantra, at the end of its 2nd Kalpa, f. 5r–v: ‘He should  
-make efforts to kill (māraṇīyāḥ prayatnena) or remove (athavā sthānacālanam) those who are intent  
-on reviling [our] Ācāryas (ācāryanindanaparāḥ), who attack the Mahāyāna (mahāyānapradūṣakāḥ), and  
-who mock those who are versed in the Mantras, rituals, and their applications (mantratantraprayoga 
-jñān hāsyaṁ kurvanti).’ 
-163. See, e.g., Iyanaga 1985; Sanderson 2009a, pp. 155–156, 172–174. 
+
+- 136. Stein 1979 on 1.289. To laud the bull (vr̥ṣaḥ) would be surprising if the intended meaning were the  bull that is Śiva’s mount, but not if the word is intended in its figurative meaning, namely dharmaḥ or  sukr̥tam ‘the virtuous actions [prescribed by the Veda].’ For this meaning of vr̥ṣaḥ see, for example,  Amarasiṁha, Nāmaliṅgānuśāsana 1.4.25b (sukr̥taṁ vr̥ṣaḥ), 3.3.220 (sukr̥te vr̥ṣabhe vr̥ṣaḥ); Halāyudha,  Abhidhānaratnamālā 1.125cd (dharmaḥ puṇyaṁ vr̥ṣaḥ śreyaḥ sukr̥taṁ ca samaṁ smr̥tam); Manusmr̥ti 816a (vr̥ṣo hi bhagavān dharmas . . .); and the Gwalior Museum Stone Inscription of Pataṅgaśambhu  (Mirashi 1962), l. 15, vr̥ṣaikaniṣṭho ’pi jitasmaro ’pi yaḥ śaṇkaro ’bhūd bhuvi ko ’py apūrvvaḥ, concerning  the Śaiva ascetic Vyomaśambhu: ‘He was in the world an extraordinary new Śiva, since he too was  vr̥ṣaikaniṣṭhaḥ (‘devoted solely to pious observance’; in Śiva’s case ‘riding only on the Bull’) and he  too was jitasmaraḥ (‘one who had defeated sensual urges’; in Śiva’s case ‘the defeater of the Love god  Kāmadeva’). This is also the meaning of vr̥ṣaḥ in the title Vr̥ṣasārasaṁgraha, one of the works of the  Śivadharma corpus (see, e.g., Sanderson 2014, p. 2), i.e., ‘Summary of the Essentials of the [Śiva]dharma’. 
+- 137. Rājataraṅgiṇī 1.306. 
+- 138. Rājataraṅgiṇī 1.291–293, 361. 
+
+Xuanzang also reports the persecution of the Buddhists by the East Indian  ruler Śaśāṇka (c. 603–619/20). He tells us that this king attacked the religion  of Buddha, dispersed the Saṅgha, cut down the Bodhi tree, damaged the rock  nearby that bore the Buddha’s footprints, and ordered that a Buddha image  there should be replaced by an image of Śiva.139 He too was a devout worshipper  of this deity (paramamāheśvaraḥ),140 and his gold coins show Śiva reclining on  his bull.141 
+
+
+- 139. Beal 1884, vol. 2, pp. 91, 118, and 121. 
+- 140.Sircar 1983, Supplement, no. 1, ll. 4–5. 
+- 141. Sircar 1983, no. 5. 
+
+The religious history of the kings of India up to the reign of Gopāla (r. c. 750– 775), the first king of the Pāla dynasty, given in the guise of a prophecy and added  to the Buddhist Tantric Mañjuśrīyamūlakalpa, probably not long after Gopāla’s  reign,142 reports that in Vārāṇasī a king of Gauḍa called Soma, perhaps the  Sāmanta-Mahārāja Soma/Somadatta, the feudatory of Śaśāṇka recorded in an  inscription of c. 620,143 destroyed Buddha images; had the Buddhist scriptures  burned; obliterated Buddhist monasteries, assembly grounds, and Stūpas; and  blocked their endowments.144 
+
+In the twelfth or thirteenth century an inscription from the royal town of  Vodāmayūtā in Haryana praises a Saiddhāntika Śaiva ascetic from Aṇahi lapāṭaka called Varmaśiva who had been appointed head of the Śaiva Maṭha in  Vodāmayūtā by the minister of the great-grandfather of the present ruler, relating that when he had gone to the Deccan as a boy he had seen an image installed  by the Buddhists and in his fury had by some mysterious means succeeded in  carrying it off to a great distance.145 
+
+The Pallava Mahendravarman I (c. 610–630), originally a Jaina, is thought  to have persecuted the Śaivas until he was converted to Śaivism by the Tamil  poet-saint Appar.146 Appar declares himself a convert from Jainism and his poetry, like that of his near contemporary Campantar, is full of vituperation both  against his former co-religionists and the Buddhists.147 After his conversion from  Jainism to Śaivism the Pāṇḍya king of Madurai is said to have had 8,000 Jainas  impaled in revenge for an attempt to kill his Śaiva Guru Campantar.148 Whatever  the degree of accuracy of this grotesque claim it is significant that this massacre is depicted in relief around the enclosure of the tank of the temple of Mīnākṣisund areśvara in Madurai and celebrated to this day in its festivals.149 
+
+- 142. Matsunaga 1985, p. 893. 
+- 143. Sircar 1983, no. 4. 
+- 144.Mañjuśrīyamūlakalpa 53.657–687, especially 657–660. 
+- 145. Epigraphia Indica 3, no. 1, l. 8. 
+- 146. Stein 1994, p. 78. 
+- 147. Viswanathan Peterson 1991, passim. 
+- 148.Cf. vanmikanathan 1985, pp. 239–262, stating in all seriousness that in fact the Jainas impaled themselves. 
+- 149. Sastri 1964, p. 110. 
+
+An inscription of c. 1200 at Ablūr, a Jaina stronghold in the Dharwar district  of Karnataka,150 reports a conflict between Jainas and Śaivas towards the end of  the twelfth century that culminated in the destruction of a Jaina temple and its  image of the Jina and the construction in its place of the temple of Śiva Vīrasomanātha (/Someśvara) by the Śaiva zealot Ekāntada-Rāmayya; and inscriptions  at Shravana Belgola and other places in Karṇāṭaka record that in 1368 the Jainas  appealed successfully to the king of Vijayanagar for protection from persecution  at the hands of Vaiṣṇavas.151 
+
+There is also an inscription of ad 1184 from Talikoti in the Mudehihal Taluk  of Bijapur District on a pillar near the gateway of the fort, which records that the  Gaṇas of the temple of Vīra-Bayseśvara established the glory of the god Śiva with  supreme valour by destroying the Buddhist and Jaina religions, vanquishing the  adherents of the rival faiths at many places near and far, demolishing Jaina temples, and installing Liṅgas of Śiva.152 Nor was this kind of sectarian hatred limited  to the south. In 1174, Ajayadeva, the Śaiva king of Gujarat who founded Ajmer, is  said to have begun his reign with a severe persecution of the Jainas.153 
+
+- 150. Epigraphia Indica 5, no. 25, E. 
+- 151. Rice 1909, pp. 113–114 and 207–208. 
+- 152. South Indian Inscriptions 15:56. 
+- 153. Guérinot 1908, no. 11. 
+
+There is also evidence of hostility between Śaivas and Vaiṣṇavas. An inscription of 1160 at Tirukkaḍaiyūr rules that devotees of Śiva (Māheśvaras) associated  with the temple there would forfeit their property to the temple if they mixed  freely with Vaiṣṇavas.154 The South Indian Vaiṣṇava Yāmuna (c. 966/7 to 1038)  is uncompromising in his view that the Śaiva faith is outside the pale of valid  religion155 and that, against appearances, orthoprax Vaidika criticism of inner  non-Vaidika practice applies only to Śaivism and not also to the Vaiṣṇava Pañcarātra; 156 and this view was not moderated by the later Vaiṣṇavas of southern  India, who held firmly to the position that the Mantramārgic Śaivas and the  Pāśupatas were infidels (avaidikāḥ, pāṣaṇḍinaḥ) the very sight of whom pollutes.157 
+
+
+- 154. Sastri 1984, p. 645. 
+- 155. Āgamaprāmāṇya, pp. 91–101. 
+
+Then there is the Śrīvaiṣṇava hagiographical tradition of works such as  the Divyasūricarita of Garuḍavāhana and the Yatirājavaibhava of Vaṭuka Nampi,  according to which their teacher Rāmānuja had to flee because of persecution by  the fanatically Śaiva Coḷa emperor, finding refuge in Karṇāṭaka, where he converted the Jaina Hoysaḷa king Biṭṭideva to Vaiṣṇavism,158 and the tradition of the  Divyasūricarita that the same king, or Kulottuṅga II (r. 1133–1150), according to  his court poet Oṭṭakūttan, had an image of Viṣṇu removed from the front of the  shrine of Śiva Naṭarāja in Cidambaram and thrown into the sea.159 Whatever the  truth of this claim, it was strongly believed.160 
+
+- 156. Āgamaprāmāṇya, pp. 156–158. 
+- 157. See, e.g., the Pañcarātrarakṣā of Vedāntadeśika (1268/9–1369/70), p. 27. 
+- 158 Sastri 1984, pp. 295–296 and 308. 
+- 159. Sastri 1984: pp. 300 and 644–645. 
+- 160.Finally, in 1539 Acyutarāya of Vijayanagara, a Vaiṣṇava like all the post-Saṅgama kings of this dy nasty, responded to this belief by founding the present shrine of Viṣṇu Govindarāja within the precincts  of the temple, right beside the Citsabhā, the Śaivas’ holy of holies, ordaining that it should be worshipped according to the ritual of the Vaikhānasas (Younger 1995, pp. 111–112). 
+
+
+Only accounts of religious persecution or killing of non-Buddhists by Buddhists are lacking in the Indian sources known to me.161   
+
+- 161. This is not the case in Tibet. In his Blue Annals (tr. Roerich 1995, p. 53) Gzhon nu dpal relates that  the Buddhist monk Lha lung dpal gyi rdo rje assassinated Glang dar ma, the last king of the Yarlung  dynasty, c. ad 842, to put an end to his persecution of Buddhism. For a colourful and no doubt fictionalized account of the assassination, see Bsod nams rgyal tshan’s Rgyal rabs gsal ba’i me long (fourteenth  century), tr. by Sørensen (1994), pp. 431–435. I merely cite the tradition. For there are grounds for  doubting both Glang dar ma’s hostility to Buddhism and his assassination; see Yamaguchi 1996. 
+- 162. See, e.g., Mañjuśrīyamūlakalpa 50, prose before v. 1: ‘This [Mantra of the] Wrathful King [Yamāntaka] should certainly be employed (prayoktavyaḥ) against evil rulers and any persons that do harm to  the teaching (duṣṭarājñāṁ śāsanāpakāriṇāṁ ca sattvānāṁ). . .’; ‘to protect the teaching of the Buddhas,  to secure the longevity of the sacred texts (dharma-dhātu-cira-sthity-artham), to block all wicked rulers,  to punish those who harm any one of the three Jewels (ratnatrayāpakāriṇāṁ)[, namely images of the  Buddha, the sacred texts of Buddhism, and the community of monks]. . .’ The use of the Mantra of the  Buddhist deity Black Yamāri to bring about the death of the target is taught at the end of the 4th Paṭala  of the Kr̥ṣṇayamāritantra. See also Vajrabhairavatantra, at the end of its 2nd Kalpa, f. 5r–v: ‘He should  make efforts to kill (māraṇīyāḥ prayatnena) or remove (athavā sthānacālanam) those who are intent  on reviling [our] Ācāryas (ācārya-nindana-parāḥ), who attack the Mahāyāna (mahāyāna-pradūṣakāḥ), and  who mock those who are versed in the Mantras, rituals, and their applications (mantra-tantra-prayoga-jñān hāsyaṁ kurvanti).’ 
+
+Their aggression, as far as  I can tell at present, was limited in India to the provision of Mantras to be used  to kill the enemies of Buddhism; 162 to narratives of the forcible humiliation of the non-Buddhist deities, particularly Śiva or Bhairava and his consort; and to  the canonization of these narratives in the iconography of their Tantric deities,  who tread triumphant on the prostrate bodies of their Śaiva rivals, and wear their  flayed skin as garments and their bones as Kāpālika ornaments.163 
+
+- 163. See, e.g., Iyanaga 1985; Sanderson 2009a, pp. 155–156, 172–174. 
+
+
+## References 
+### Texts 
+- Abhidhnaratnaml of Halāyudha, ed. Th. Aufrecht. London: Williams &  Norgate, 1861. 
+- aṣṭaprakaraṇa, ed. Vrajavallabha Dvivedī. Yogatantra-granthamālā 12. Vara nasi: Sampurnananda Sanskrit University, 1988. 
+- Aṣṭdhyy of Pāṇini → böhtlingk 1887. 
+- Āgamaḍambara of Jayanta → dezső 2005. 
+- Āgamaprmṇya of Yāmunācārya, ed. Rāma Miśra Śāstrī. Varanasi, 1937. Re print from The Pandit. 
+- Kumraplacaritrasaṅgraha, compiled by Jinavijaya Muni. Siṅghī Jaina  Granthamālā, 41. Bombay: Bharatīya Vidyā Bhavana, 1956. 
+- Kularatnoddyota. National Archives, Kathmandu MS 1-16, Nepal-German  Manuscript Preservation Project Reel No. A 206/10; paper; Newari script; manuscript completed on Tuesday, Śrāvaṇa śudi 14, [Nepālasaṁvat] 754 (ad 1634). 
 214 
 33211 Honoris Causa 3P.indd 214 11/18/15 5:22 PMtolerance, exclusivity, inclusivity, and persecution . . . 
 Kr̥ṣṇayamritantra, ed. S. Rinpoche and V. Dwivedi. Rare Buddhist Text  
@@ -1208,10 +813,8 @@ mokṣakĀrikĀ of Sadyojyotis with the commentary (-vr̥tti) of Bhaṭṭa Rā 
 mohacrottara. National Archives, Kathmandu MS 5-1977, Nepal-German  
 Manuscript Preservation Project Reel no. A 182/3; paper; Nepalese Devanāgarī  
 script. 
-217 
-33211 Honoris Causa 3P.indd 217 11/18/15 5:22 PM
-Honoris Causa 
-Yjñavalkyasmr̥ti with the commentary (-ṭk) of Aparāditya, ed. Hari  
+
+- Yjñavalkyasmr̥ti with the commentary (-ṭk) of Aparāditya, ed. Hari  
 Nārāyaṇa Āpṭe. Ānandāśramasaṁskr̥tagranthāvali, 46. Pune: Ānandāśrama,  
 1903. 
 Rjataraṅgiṇ of Kalhaṇa: Kalhaṇa’s Rājataraṅgiṇī, Chronicle of the Kings of  
@@ -1253,7 +856,8 @@ Svyambhuvastrasaṁgraha: śrīśaivāgame svāyaṁ bhuvasūtrasaṅgraha
 Harṣacarita of Bāṇa with the commentary (-saṇketa) of Śaṇkarakavi, ed.  
 A.  A.  Führer. Bombay Sanskrit Series 66. Bombay: Government Central  
 Press, 1909. 
-Authors and Series 
+
+### Authors and Series 
 Bakker, Hans. 1997. The Vākāṭakas: An Essay in Hindu Iconology. Groningen:  
 Egbert Forsten. 
 Baldissera, Fabrizia. 2005. The Narmamālā of Kṣemendra. Critical Edition, Study  
@@ -1312,130 +916,54 @@ Tantric and Taoist Studies in Honour of R. A. Stein, III, ed. M. Strickmann
 Jh, Gaṅgānāth. tr. 1924. Tantravārttika: A Commentary on Śabara’s Bhāṣya on  
 the Pūrvamīmāṁsā Sūtras of Jaimini. 2 vols. Bibliotheca Indica, 161. Calcutta:  
 Asiatic Society of Bengal. 
-220 
-33211 Honoris Causa 3P.indd 220 11/18/15 5:22 PM
-tolerance, exclusivity, inclusivity, and persecution . . . 
-Kane, P. V. 1930. History of Dharmaśāstra. Volume 1. Poona: Bhandarkar Orien 
+
+- Kane, P. V. 1930. History of Dharmaśāstra. Volume 1. Poona: Bhandarkar Orien 
 tal Research Institute. 
-Kataoka, Kei. 2004. Critical Edition of the Āgamaprāmāṇya Section of Bhaṭṭa  
-Jayanta’s Nyāyamañjarī. Tōyōbunka kenkyūjyo kiyō 146, pp. 131–175. 
-———. 2011. Kumārīla on Truth, Omniscience and Killing. Pt. 1: A Critical Edi 
-tion of Mīmāṁsā-Ślokavārttika ad 1.1.2 (Codanāsūtra); Pt. 2: An Annotated  
-Translation of Mīmāṁsā-Ślokavārttika ad 1.1.2 (Codanāsūtra). Sitzungs berichte der philosophisch-historische Klasse 814. Beiträge zur Kultur- und  
-Geistesgeschichte Asiens, 68. Vienna: Verlag der Österreichische Akademie  
-der Wissenschaften. 
-Kaul, Srikanth. 1966. Rājajataraṅgiṇī of Śrīvara and Śuka: Edited Critically, and  
-Annotated with Text-Comparative Data from Original Manuscripts and Other  
-Available Materials. Vishveshvaranand Institute Publication, 398 = Woolner  
-Indological Series, 8. Hoshiarpur: Vishveshvaranand Institute. 
-Lamotte, Etienne. 1958. Histoire du bouddhisme indien des origines à l’ère Śaka.  
-Louvain: Institut Orientaliste. Bilbiothèque du Muséon, 43. 
-Mahalingam, T. V. 1988. Inscriptions of the Pallavas. New Delhi/Delhi: Indian  
-Council of Historical Research/Agam Prakashan. 
-Matsunaga, Yukei. 1985. ‘On the Date of the Mañjuśrīmūlakalpa.’ Mélanges chi 
-nois et bouddhiques 22, pp. 882–894. 
-Mesquita, Roque. 1973. ‘Yāmunamuni: Leben, Datierung und Werke.’ Wiener  
-Zeitschrift für die Kunde Südasiens 17, pp. 177–193. 
-Mirashi, Vasudev Vishnu. 1962. ‘The Gwalior Museum Stone Inscription of Pa 
-taṅgaśambhu.’ Journal of the Madhya Pradesh Itihasa Parishad 64, pp. 3–13. 
-———. 1977. Inscriptions of the Śilāhāras. Corpus Inscriptionum Indicarum 6.  
-New Delhi: Director General, Archaeological Survey of India. 
-Mirnig, Nina. 2009. ‘Liberating the Liberated: A History of the Development  
-of Cremation and Ancestor Worship in the Early Śaiva Siddhānta: Analysis,  
-Texts and Translations.’ D.Phil thesis, University of Oxford. 
-O’Connell, Joseph T. 1973. ‘The Word “Hindu” in Gauḍīya Vaiṣṇava Texts.’ Jour nal of the American Oriental Society, 93, pp. 340–343. 
-Rajaguru, Satyanarayanan. 1960. Inscriptions of Orissa (c. 6–11 ad) Vol. 2. 
-Bhubaneswar: Research and Museum, Government of Orissa. 
-221 
-33211 Honoris Causa 3P.indd 221 11/18/15 5:22 PM
-Honoris Causa 
-Rice, B. Lewis. 1909. Mysore and Coorg from the Inscriptions. London: A. Constable. 
-Roerich, George N. 1995. The Blue Annals. Reprint, Delhi: Motilal Banarsidass.  
-First published in 1949. An English translation of the Deb ther snong po of  
-’Gos lo tsā ba Gzhon nu dpal (1392–1481). 
-Sachau, Edward C. 1910. Alberuni’s India: An Account of the Religion, Philosophy,  
-Literature, Geography, Chronology, Astronomy, Customs, Laws and Astrology of  
-India about ad 1. An English Edition, with Notes and Indices. 2 vols. London:  
-Kegan Paul, Trench, Trübner. 
-Sanderson, Alexis. 1985. ‘Purity and Power among the Brahmans of Kashmir.’ In  
-The Category of the Person: Anthropology, Philosophy, History, ed. M. Carrithers,  
-S. Collins and S. Lukes. Cambridge: Cambridge University Press, pp. 190–216. 
-———. 1995. ‘Meaning in Tantric Ritual.’ In Essais sur le Rituel III: Colloque du Cen 
-tenaire de la Section des Sciences Religieuses de l’École Pratique des Hautes Études,  
-ed. A.-M. Blondeau and K. Schipper. Bibliothèque de l’École des Hautes  
-Études, Sciences Religieuses, Vol. CII. Louvain-Paris: Peeters, pp. 15–95. 
-———. 2003. ‘The Śaiva Religion Among the Khmers, Part 1.’ Bulletin de l’École  
-française d’Extrême-Orient 90-91, pp. 349–462. 
-———. 2005. ‘A Commentary on the Opening Verses of the Tantrasāra of Abhi 
-navagupta.’ In Sāmarasya. Studies in Indian Arts, Philosophy, and Interreligious  
-Dialogue, ed. Sadananda Das and Ernst Fürlinger. New Delhi: D. K. Print 
-world, pp. 89–148. 
-———. 2007a. ‘The Date of Sadyojyotis and Brhaspati.’ In Cracow Indological  
-Studies 8 (2006), pp. 39–91. 
-———. 2007b. ‘Swami Lakshman Joo and His Place in the Kashmirian Śaiva  
-Tradition.’ In Samvidullāsaḥ, ed. Bettina Bäumer and Sarla Kumar, New  
-Delhi: D. K. Printworld, pp. 93–126. 
-———. 2009a. ‘The Śaiva Age: The Rise and Dominance of Śaivism During the  
-Early Mediaeval Period.’ In Genesis and Development of Tantrism, ed. Shingo  
-Einoo. Tokyo: Institute of Oriental Culture, University of Tokyo. Institute of  
-Oriental Culture Special Series, 23, pp. 41–350. 
-———. 2009b. Handout for lecture ‘Tantric Śaivism and Caste.’ Institut für  
-Südasien-, Tibet- und Buddhismuskunde, University of Vienna, 7 June 2009.  
-Online. 
-222 
-33211 Honoris Causa 3P.indd 222 11/18/15 5:22 PM
-tolerance, exclusivity, inclusivity, and persecution . . . 
-———. 2013a. Handout for lecture ‘Abhinavagupta on the Subjective Nature  
-of Brahmanical Values: Śākta Fundamentalism against the Absorption of  
-Śaivism into “Hinduism.” ’ Department of Indian Philosophy and Buddhist  
-Studies, University of Tokyo, 15 January, 2013. Online. 
-———. 2013b. ‘The Impact of Inscriptions on the Interpretation of Early Śaiva  
-Literature.’ Indo-Iranian Journal 56, pp. 211–244. 
-———. 2014. ‘The Śaiva Literature.’ Journal of Indological Studies (Kyoto) 24 and  
-25 (2012–2013), pp. 1–113. 
-Sastri, K. A. Nilakanta. 1964. The Culture and History of the Tamils. Calcutta:  
-Firma K. L. Mukhopadhyaya. 
-———. 1984. The Cōl˙as, 2nd edition reprinted. Madras: University of Madras. 
-Scheftelowitz, I. 1933. ‘Die Mithra-Religion der Indoskythen und ihre Bezie 
-hung zum Saura und Mithras-Kult.’ Acta Orientalia 11, pp. 293–333. 
-Schmiedchen, Annette. 2007. ‘Epigraphical Evidence for the History of Athar 
-vavedic Brahmins.’ In The Atharvaveda and Its Paippalāda Śākhā: Historical  
-and Philological Papers on a Vedic Tradition, ed. Arlo Griffiths and Annette  
-Schmiedchen. Aachen: Shaker Verlag, 2007. Geisteskultur Indiens: Texte  
-und Studien, 11. Indologica Halensis, pp. 355–384. 
-Settar, S. 1992. The Hoysal˙a Temples. Bangalore: Institute of Indian Art His tory, Karnataka University, Dharwad and Kala Yatra Publications. 
-Singh, Upinder. 1994. Kings, Brāhmaṇas and Temples in Orissa: An Epigraphic  
-Study ad –1147. New Delhi: Munshiram Manoharlal. 
-Sircar, Dines Chandra. 1966. Indian Epigraphical Glossary. Delhi: Motilal Ba 
+- Kataoka, Kei. 2004. Critical Edition of the Āgamaprāmāṇya Section of Bhaṭṭa  Jayanta’s Nyāyamañjarī. Tōyōbunka kenkyūjyo kiyō 146, pp. 131–175. 
+- ———. 2011. Kumārīla on Truth, Omniscience and Killing. Pt. 1: A Critical Edition of Mīmāṁsā-Ślokavārttika ad 1.1.2 (Codanāsūtra); Pt. 2: An Annotated  Translation of Mīmāṁsā-Ślokavārttika ad 1.1.2 (Codanāsūtra). Sitzungs berichte der philosophisch-historische Klasse 814. Beiträge zur Kultur- und  Geistesgeschichte Asiens, 68. Vienna: Verlag der Österreichische Akademie  der Wissenschaften. 
+- Kaul, Srikanth. 1966. Rājajataraṅgiṇī of Śrīvara and Śuka: Edited Critically, and   Annotated with Text-Comparative Data from Original Manuscripts and Other  Available Materials. Vishveshvaranand Institute Publication, 398 = Woolner  Indological Series, 8. Hoshiarpur: Vishveshvaranand Institute. 
+- Lamotte, Etienne. 1958. Histoire du bouddhisme indien des origines à l’ère Śaka.  
+- Louvain: Institut Orientaliste. Bilbiothèque du Muséon, 43. 
+- Mahalingam, T. V. 1988. Inscriptions of the Pallavas. New Delhi/Delhi: Indian  Council of Historical Research/Agam Prakashan. 
+- Matsunaga, Yukei. 1985. ‘On the Date of the Mañjuśrīmūlakalpa.’ Mélanges chi nois et bouddhiques 22, pp. 882–894. 
+- Mesquita, Roque. 1973. ‘Yāmunamuni: Leben, Datierung und Werke.’ Wiener  Zeitschrift für die Kunde Südasiens 17, pp. 177–193. 
+- Mirashi, Vasudev Vishnu. 1962. ‘The Gwalior Museum Stone Inscription of Pa taṅgaśambhu.’ Journal of the Madhya Pradesh Itihasa Parishad 64, pp. 3–13. 
+- ———. 1977. Inscriptions of the Śilāhāras. Corpus Inscriptionum Indicarum 6.  New Delhi: Director General, Archaeological Survey of India. 
+- Mirnig, Nina. 2009. ‘Liberating the Liberated: A History of the Development  of Cremation and Ancestor Worship in the Early Śaiva Siddhānta: Analysis,  Texts and Translations.’ D.Phil thesis, University of Oxford. 
+- O’Connell, Joseph T. 1973. ‘The Word “Hindu” in Gauḍīya Vaiṣṇava Texts.’ Jour nal of the American Oriental Society, 93, pp. 340–343. 
+- Rajaguru, Satyanarayanan. 1960. Inscriptions of Orissa (c. 6–11 ad) Vol. 2. Bhubaneswar: Research and Museum, Government of Orissa. 
+- Rice, B. Lewis. 1909. Mysore and Coorg from the Inscriptions. London: A. Constable. 
+- Roerich, George N. 1995. The Blue Annals. Reprint, Delhi: Motilal Banarsidass.  First published in 1949. An English translation of the Deb ther snong po of  ’Gos lo tsā ba Gzhon nu dpal (1392–1481). 
+- Sachau, Edward C. 1910. Alberuni’s India: An Account of the Religion, Philosophy,  Literature, Geography, Chronology, Astronomy, Customs, Laws and Astrology of  India about ad 1. An English Edition, with Notes and Indices. 2 vols. London:  Kegan Paul, Trench, Trübner. 
+- Sanderson, Alexis. 1985. ‘Purity and Power among the Brahmans of Kashmir.’ In  The Category of the Person: Anthropology, Philosophy, History, ed. M. Carrithers,  S. Collins and S. Lukes. Cambridge: Cambridge University Press, pp. 190–216. 
+- ———. 1995. ‘Meaning in Tantric Ritual.’ In Essais sur le Rituel III: Colloque du Cen  tenaire de la Section des Sciences Religieuses de l’École Pratique des Hautes Études,  ed. A.-M. Blondeau and K. Schipper. Bibliothèque de l’École des Hautes  Études, Sciences Religieuses, Vol. CII. Louvain-Paris: Peeters, pp. 15–95. 
+- ———. 2003. ‘The Śaiva Religion Among the Khmers, Part 1.’ Bulletin de l’École  française d’Extrême-Orient 90-91, pp. 349–462. 
+- ———. 2005. ‘A Commentary on the Opening Verses of the Tantrasāra of Abhi navagupta.’ In Sāmarasya. Studies in Indian Arts, Philosophy, and Interreligious  Dialogue, ed. Sadananda Das and Ernst Fürlinger. New Delhi: D. K. Print world, pp. 89–148. 
+- ———. 2007a. ‘The Date of Sadyojyotis and Brhaspati.’ In Cracow Indological  Studies 8 (2006), pp. 39–91. 
+- ———. 2007b. ‘Swami Lakshman Joo and His Place in the Kashmirian Śaiva  Tradition.’ In Samvidullāsaḥ, ed. Bettina Bäumer and Sarla Kumar, New  Delhi: D. K. Printworld, pp. 93–126. 
+- ———. 2009a. ‘The Śaiva Age: The Rise and Dominance of Śaivism During the  Early Mediaeval Period.’ In Genesis and Development of Tantrism, ed. Shingo  Einoo. Tokyo: Institute of Oriental Culture, University of Tokyo. Institute of  Oriental Culture Special Series, 23, pp. 41–350. 
+- ———. 2009b. Handout for lecture ‘Tantric Śaivism and Caste.’ Institut für  Südasien-, Tibet- und Buddhismuskunde, University of Vienna, 7 June 2009.  
+- ———. 2013a. Handout for lecture ‘Abhinavagupta on the Subjective Nature  of Brahmanical Values: Śākta Fundamentalism against the Absorption of  Śaivism into “Hinduism.” ’ Department of Indian Philosophy and Buddhist  Studies, University of Tokyo, 15 January, 2013. Online. 
+- ———. 2013b. ‘The Impact of Inscriptions on the Interpretation of Early Śaiva  Literature.’ Indo-Iranian Journal 56, pp. 211–244. 
+- ———. 2014. ‘The Śaiva Literature.’ Journal of Indological Studies (Kyoto) 24 and  25 (2012–2013), pp. 1–113. 
+- Sastri, K. A. Nilakanta. 1964. The Culture and History of the Tamils. Calcutta:  Firma K. L. Mukhopadhyaya. 
+- ———. 1984. The Cōḷas, 2nd edition reprinted. Madras: University of Madras. 
+- Scheftelowitz, I. 1933. ‘Die Mithra-Religion der Indoskythen und ihre Bezie hung zum Saura und Mithras-Kult.’ Acta Orientalia 11, pp. 293–333. 
+- Schmiedchen, Annette. 2007. ‘Epigraphical Evidence for the History of Atharvavedic Brahmins.’ In The Atharvaveda and Its Paippalāda Śākhā: Historical  and Philological Papers on a Vedic Tradition, ed. Arlo Griffiths and Annette  
+- Schmiedchen. Aachen: Shaker Verlag, 2007. Geisteskultur Indiens: Texte  und Studien, 11. Indologica Halensis, pp. 355–384. 
+- Settar, S. 1992. The Hoysaḷa Temples. Bangalore: Institute of Indian Art His tory, Karnataka University, Dharwad and Kala Yatra Publications. 
+- Singh, Upinder. 1994. Kings, Brāhmaṇas and Temples in Orissa: An Epigraphic  Study ad –1147. New Delhi: Munshiram Manoharlal. 
+- Sircar, Dines Chandra. 1966. Indian Epigraphical Glossary. Delhi: Motilal Ba 
 narsidass. 
-———. 1983. Select Inscriptions Bearing on Indian History and Civilization from the  
-Sixth to the Eighteenth Century, ad, Vol. 2. Delhi: Motilal Banarsidass. 
-Slaje, Walter. 2005. ‘A Note on the Genesis and Character of Śrīvara’s So-Called  
-“Jaina-Rājataraṅgiṇī.” ’ Journal of the American Oriental Society 125, pp. 379–388. 
-Sørensen, Per K. 1994. Tibetan Buddhist Historiography: The Mirror Illuminating  
-the Royal Genealogies. An Annotated Translation of the XIVth Century Tibetan  
-Chronicler Gyal-rabs gsal-ba’i me-long. Wiesbaden: Harrassowitz. 
-South Indian Inscriptions. Archaeological Survey of India. Madras/Delhi,  
+- ———. 1983. Select Inscriptions Bearing on Indian History and Civilization from the  Sixth to the Eighteenth Century, ad, Vol. 2. Delhi: Motilal Banarsidass. 
+- Slaje, Walter. 2005. ‘A Note on the Genesis and Character of Śrīvara’s So-Called  “Jaina-Rājataraṅgiṇī.” ’ Journal of the American Oriental Society 125, pp. 379–388. 
+- Sørensen, Per K. 1994. Tibetan Buddhist Historiography: The Mirror Illuminating  the Royal Genealogies. An Annotated Translation of the XIVth Century Tibetan  Chronicler Gyal-rabs gsal-ba’i me-long. Wiesbaden: Harrassowitz. 
+- South Indian Inscriptions. Archaeological Survey of India. Madras/Delhi,  
 1890–. 
-223 
-33211 Honoris Causa 3P.indd 223 11/18/15 5:22 PM
-Honoris Causa 
-Stein, Burton. 1994. Peasant State and Society in Mediaeval South India. Delhi:  
-Oxford University Press. 
-Stein, M. A. 1979. Kalhaṇa’s Rājataraṅgiṇī: A Chronicle of the Kings of Kashmir,  
-Translated with an Introduction, Commentary and Appendices. 2 vols. Delhi:  
-Motilal Banarsidass. First published 1900, Westminster: A. Constable. 
-Vanmikanathan, G. 1985. Periya Puranam: A Tamil Classic on the Great Śaiva  
-Saints of South India by Sekkizhaar, Condensed English Version. Madras: Sri  
-Ramakrishna Math. 
-Verardi, Giovanni. 2011. Hardships and Downfall of Buddhism in India. New  
-Delhi: Manohar. 
-Viswanathan Peterson, Indira. 1991. Poems to Śiva: The Hymns of the Tamil  
-Saints. Delhi: Motilal Banarsidass. 
-Yamaguchi, Zuihō. 1996. ‘The Fiction of King Dar-ma’s Persecution of Bud 
-dhism.’ In Du Dunhuang au Japon: Études chinoises et bouddhiques offertes à  
-Michel Soymié, ed. Jean-Pierre Drège. Geneva: Droz, pp. 231–258. 
-Younger, Paul. 1995. The Home of Dancing Śivan: The Traditions of the Hindu  
-Temple in Citamparam. New York, Oxford: Oxford University Press. 
-224 
-33211 Honoris Causa 3P.indd 224 11/18/15 5:22 PM
+- Stein, Burton. 1994. Peasant State and Society in Mediaeval South India. Delhi:  Oxford University Press. 
+- Stein, M. A. 1979. Kalhaṇa’s Rājataraṅgiṇī: A Chronicle of the Kings of Kashmir, - Translated with an Introduction, Commentary and Appendices. 2 vols. Delhi:  Motilal Banarsidass. First published 1900, Westminster: A. Constable. 
+- Vanmikanathan, G. 1985. Periya Puranam: A Tamil Classic on the Great Śaiva  Saints of South India by Sekkizhaar, Condensed English Version. Madras: Sri  Ramakrishna Math. 
+- Verardi, Giovanni. 2011. Hardships and Downfall of Buddhism in India. New  Delhi: Manohar. 
+- Viswanathan Peterson, Indira. 1991. Poems to Śiva: The Hymns of the Tamil  Saints. Delhi: Motilal Banarsidass. 
+- Yamaguchi, Zuihō. 1996. ‘The Fiction of King Dar-ma’s Persecution of Bud dhism.’ In Du Dunhuang au Japon: Études chinoises et bouddhiques offertes à  Michel Soymié, ed. Jean-Pierre Drège. Geneva: Droz, pp. 231–258. 
+- Younger, Paul. 1995. The Home of Dancing Śivan: The Traditions of the Hindu  Temple in Citamparam. New York, Oxford: Oxford University Press. 
