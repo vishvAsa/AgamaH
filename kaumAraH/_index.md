@@ -1,4 +1,4 @@
 +++
-title = "+वैष्णवः"
+title = "+कौमारः"
 unicode_script = "devanagari"
 +++
