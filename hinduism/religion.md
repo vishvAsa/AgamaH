@@ -6,7 +6,7 @@ title: Religion?
 - Hinduism is not a single fully consistent theological system. Rather, it is a set of coexisting systems which acknowledge each others' deities and lore in various ways.
 - Conceptually, but not at a social/ higher level, it is wrong to bring Hinduism to the level of Christianity/ Islam etc..    
     - Abrahamist diseases more easily map to subclasses of Hindu darshana-s
-        - A view / darshana in the hindu context talks about these 5 issues: 1\] jagat (world) 2\] jIva (the individual) 3\] Ishvara (God)​ 4\] bandha (bondage) 5\] moxa (liberation).
+        - A view / darshana in the hindu context talks about these 5 issues: 1\] jagat (world) 2\] jIva (the individual) 3\] Ishvara (God) 4\] bandha (bondage) 5\] moxa (liberation).
     - mata-s such as advaita vedanta, dvaita-vedAnta + vaiShNavism, dvaita vedAnta + shaivism, bauddha-matas, Tao etc.. may be called darshana-s.
     - darshana-s may have certain dogma-s (although it may be more profitable to think of them as therapy). So, they share some commonality with religions.
 
@@ -19,7 +19,7 @@ title: Religion?
 
 ## Is the hindu ethos a religion?
 - At this social level, it can be considered a "religion" with many subsects.
-- In that Hinduism and Abrahamisms are fundamentally mutually exclusive (more [here](../rivals/abe-disease/abe-disease/)), the practical and strategic answer is YES.
+- In that Hinduism and Abrahamisms are fundamentally mutually exclusive, the practical and strategic answer is YES.
 
 ## Benefits of saying "hinduism is a religion"
 - Legal protections (in a world whose polity is heavily influenced by Abrahamisms) apply.
@@ -31,7 +31,7 @@ title: Religion?
 
 ## Dangers of saying "hinduism is a religion"
 - A flawed understanding results in flawed solutions.
-    - The problem of rioting muslims and hindu retaliation, if considered a conflict between religions, will lead to flawed solutions like "more secularism", "let's weaken hinduism in government and public culture" etc.. Abrahamistic rioting should be considered as a battle between a religion and a religious ecosystem. More [here](../../rivals/0-theism/secularism/).
+    - The problem of rioting muslims and hindu retaliation, if considered a conflict between religions, will lead to flawed solutions like "more secularism", "let's weaken hinduism in government and public culture" etc.. Abrahamistic rioting should be considered as a battle between a religion and a religious ecosystem.
     - [Balagangadhara](http://en.wikipedia.org/wiki/S._N._Balagangadhara) has made a similar case.
 - A false sense of ownership across traditions comes to being.
     - For example, just because someone who calls himself a hindu likes providing equal access to women, he should not be able to force some other tradition (say based on its own Agama-s) to provide such access in opposition to its own ritual lore.

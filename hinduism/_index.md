@@ -6,7 +6,7 @@ title: +Introduction
 
 ## What is Hinduism?
 
-Hinduism is a cultural ethos (../[a religion for practical purposes](religion/)) that developed and established itself in the Indian subcontinent and vicinity before the arrival of intolerant foreign monotheism, nothing more and nothing less. Structurally and historically, it has a **Core Vaidika mesh**: The most foundational and impactful contributions to the Hindu ethos came from sages of the Indo-Aryan vedic tradition, whose very-universal ideas (together with the Indo Aryan conservative ritualist class) penetrated and bonded various similarly pagan populations. This ethos, ultimately, has the following important features:
+Hinduism is a cultural ethos ([a religion for practical purposes](religion/)) that developed and established itself in the Indian subcontinent and vicinity before the arrival of intolerant foreign monotheism, nothing more and nothing less. Structurally and historically, it has a **Core Vaidika mesh**: The most foundational and impactful contributions to the Hindu ethos came from sages of the Indo-Aryan vedic tradition, whose very-universal ideas (together with the Indo Aryan conservative ritualist class) penetrated and bonded various similarly pagan populations. This ethos, ultimately, has the following important features:
 
 - Concepts particular to the **core vaidika** framework, such as:
     - solid, systematic pursuit of philosophy
@@ -30,18 +30,14 @@ So,**from the core to the periphery**:
 - while nAstika (veda-nindaka) systems loosely lie at the peripheri
 - Sectarian Astika beliefs and practices (eg. mokSha-drive, pAncharAtra, shaiva, kaumAra) lie somewhere in-between.
 
-  
-
 The last section of chapter 36 of PV Kane's vol 5 a must-read for every hindu who wants to understand his background. The part that starts [here](https://archive.org/stream /HistoryOfDharmasastraancientAndMediaevalReligiousAndCivilLawV.5.2/Kane_A-History-of-Dharmasastra-v5-2_1962#page/n945/mode/2up), specifically.
-
-  
 
 An introduction to some of these concepts by shatAvadhAnI gaNesha here:
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tMDOTpLR1NE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Is hinduism a religion? See [here](../religion/).
+Is hinduism a religion? See [here](religion/).
 
 ### Who is a Hindu?
 
@@ -64,8 +60,3 @@ Problematic stereotyping and omissions:
 
 - CA textbooks hearing 2015: Omission of women \[[YT](https://www.youtube.com/watch?v=m0f2iCtW9BA&feature=player_embedded)\], caricature of caste \[[YT](https://www.youtube.com/watch?v=2Y7zt4LtBh8&feature=youtu.be)\]
 - Suspicious terminology trends such as brahminical vs hindu ([GTrends](https://books.google.com/ngrams/graph?content=brahmanical%2Chindu&year_start=1930&year_end=2008&corpus=15&smoothing=5&share=&direct_url=t1%3B%2Cbrahmanical%3B%2Cc0%3B.t1%3B%2Chindu%3B%2Cc0), FB).
-
-## About this site
-
-Popular pages: [Heroes](../../history/persons/) .
-
