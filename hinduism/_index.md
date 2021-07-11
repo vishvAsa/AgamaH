@@ -39,6 +39,18 @@ An introduction to some of these concepts by shatAvadhAnI gaNesha here:
 
 Is hinduism a religion? See [here](religion/).
 
+#### Essential knowledge
+
+- Nature of the physical universe (Biology, physics, math)
+- The Gods
+- Their sacred myths
+- The mantras
+- The kalpa
+- The Arya tongue (language, grammar, meter)
+- Some mImAMsA (including the nature of myths)
+- History and our enemies.
+
+
 ### Who is a Hindu?
 
 At a high level, for the purpose of this site, a Hindu is a person who is intimately connected with, and not antagonistic towards, the ancient cultural ethos of the Indian subcontinent, which was animated by the great vedic sagely tradition at its core with various mostly-friendly systems at the periphery. This excludes Indian converts to semitic religions, but includes non-Indians - say - Balinese Hindus and Thai brAhmaNas.
