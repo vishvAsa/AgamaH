@@ -1,4 +1,4 @@
 +++
-title = "+Semitic""
+title = "+Semitic"
 +++
 
