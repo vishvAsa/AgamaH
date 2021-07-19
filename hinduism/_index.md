@@ -55,6 +55,14 @@ Is hinduism a religion? See [here](religion/).
 
 At a high level, for the purpose of this site, a Hindu is a person who is intimately connected with, and not antagonistic towards, the ancient cultural ethos of the Indian subcontinent, which was animated by the great vedic sagely tradition at its core with various mostly-friendly systems at the periphery. This excludes Indian converts to semitic religions, but includes non-Indians - say - Balinese Hindus and Thai brAhmaNas.
 
+### HINO-s
+Hindus in name only.
+
+> They think Hinduism is appeasing grandma by wearing tilakam when told to, lighting some lamps on Diwali (they can't even say Deepavali) and prancing around on Holi (even better, a secular "color run"!) They see no conflict with Liberalism, and feel no repulsion from 'Modernity'.
+> 
+> Hindus I have found MOST easily made captives to the godless, dishonorable, deracinated, superficially saffron scented Liberal dogma of New Jersey Bollywoodism are those who know no Sanskrit—only token bhajans.
+
+
 ## Other good introductions
 
 - shatAvadhAnI gaNesh
