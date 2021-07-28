@@ -14,3 +14,7 @@ title: +kShatriya
 - hiraNyagarbha rite was supposedly attested as early as 4 ce in Andhra, later by dantidurga the rAShTrakUTa and later in keraLa.
 - Some claimed ascent through (allegedly false) lineage claims.
     - Newer kShatriya-s claimed descent from established and reputed lineages (eg. vaDiyAr-s of mysore from the yadu-s, shivAjI from the siodiya-s). mArtANDa varma, the former rAja of travencore -  [image](http://i.imgur.com/TdE1hsw.jpg).
+
+## Elsewhere
+- Tai Ahom
+- Meitei
