@@ -1,16 +1,17 @@
 +++
 title = "shrI rAmAnuja deshika, one of the last great kaumAra tantrics"
+date = "2007-01-14"
+upstream_url = "https://manasataramgini.wordpress.com/2007/01/14/shri-ramanuja-deshika-one-of-the-last-great-kaumara-tantrics/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/01/14/shri-ramanuja-deshika-one-of-the-last-great-kaumara-tantrics/).
+
 The below note is neither meant as a sectarian effusion nor a historical
-account. It is a hagiography and just that.
+account. It is a hagiography and just that.  
+sarva-bhUtAmakaM manmanobodhakaM sat-kR^ipAsAgaraM devasenApate pAhi mAM
+pAhi mAM pAhi mAM deva tubhyaM namo deva tubhyaM namo deva tubhyaM namaH
+\|\|
 
-> सर्व-भूतात्मकं मन्-मनो-बोधकं  
-> सत्-कृपासागरं देवसेनापते
-पाहि मां पाहि मां देव तुभ्यं नमो  
-> देव तुभ्यं नमो देव तुभ्यं नमः ||
-
-## sudarshana's trouble
 The shrI-vaiShNava AchArya, sudarshana sUrI, was proceeding to
 shrIperaMputtur after visiting the old temple of viShNu at venkaTagiri
 (not Tirupati) and consecrating a shalagraman there. On his way back on
@@ -22,11 +23,8 @@ draw the curtains in his cart and he closed his eyes so that even by
 error he might not cast his eyes on the shrine of rudra. When he was a
 safe from kAlahasti distance he opened his eyes but to his horror he had
 turned blind. Shocked he uttered the verse:  
-
-> सर्वात्मता ते श्रुतिषु प्रसिद्धा  
-सत्यैव सा कालकरीश नूनम् |  
-अपश्यतस् त्वाम् अधुना समस्तं  
-यतो न मे दृष्टि-पथं प्रयाति ||
+sarvAtmatA te shrutiShu prasiddhA satyaiva sA kAlakarIsha nUnaM \|  
+apashyatastvA madhunA samastaM yato na me dR^iShTipathaM prayAti \|\|
 
 He was constantly tormented by bhUta-s and agents of sharabha. He
 recalled the great vaiShNava tantric, the master of pA\~ncharAtra
@@ -37,10 +35,8 @@ the accomplished tantric shri rAmAnuja deshika. He met rAmAnuja deshika
 at Tiruttani who performed an appropriate rite to release sudarshana
 from the grip of rudra’s wrath, even as viShvaksena was brought back to
 life by kAla bhairava, when he had drunk viShNu’s blood from the
-skull-bowl fashioned of brahmA’s severed fifth head.+++(5)+++
+skull-bowl fashioned of brahmA’s severed fifth head.
 
-## rAmAnuja deshika
-### Early education
 rAmAnuja deshika, was born in kA\~nchipuraM in family of devote
 vaiShNava brAhmaNa-s of the ubhaya vedAnta stream who regularly sung the
 DP4000 and lit lamps at viShNu shrines. rAmAnuja was a natural poet and
@@ -51,10 +47,7 @@ the entire lore of pA\~ncharatra mantras. Having initiated rAmAnuja into
 all of them he asked him to perform purashcharaNa of the 104 mighty
 astra mantras of viShNu, which leads one to highest pA\~ncharAtric
 siddhi. In order to do this he proceeded to a desolate spot near
-Tiruttani where he began his japa in seclusion. 
-
-### kaumAra initiation
-One day as he was
+Tiruttani where he began his japa in seclusion. One day as he was
 wandering in the forests of the Nagari hills he saw mysterious
 vaikhAnasa brAhmaNa wearing a yellow dress. The brAhmaNa saw him but did
 not speak anything but merely gestured to him the way kApAlika’s do.
@@ -89,10 +82,8 @@ varAha, who held in his hand a great sword dripping with the blood of
 hiraNyAkSha, with an upavIta of 3 intertwined snakes. Then from the
 snout of varAha emerged that awful emanation of kumAra, krodha-rAja
 kumAra, with 6 heads, who is irresistible. With these mantra-s he had
-attained the height of tantric perfection, he was called a deshika. 
-
-### kumAra-parvata
-He was the master of the kaumAra lore, an impregnable mantra-vAdin. After
+attained the height of tantric perfection, he was called a deshika. He
+was the master of the kaumAra lore, an impregnable mantra-vAdin. After
 his marriage he was proceeding with his wife to kumAra parvata when he
 was attacked by the turuShka-s on the way who tried to seize his wife.
 He deployed the krodha-rAja ShaNmukha hR^idaya mantra and got ready to
@@ -100,3 +91,4 @@ fight them with his small band. The mahAshUla of kumAra entered his
 weapons and they killed 80 turuShkas sending the rest scampering over
 the country side. Having reached kumAra parvata he installed himself
 there for worshiping the deity.
+
