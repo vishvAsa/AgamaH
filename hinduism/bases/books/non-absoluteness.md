@@ -13,11 +13,21 @@ Textual authority is not absolute.
     - परोक्षप्रिया इव हि देवाः प्रत्यक्षद्विषः।। शतपथ०।। 
     - परोक्षविषया वेदाः परोक्षप्रिया इव हि देवाः ऐ.उ.1।14बृ.उ.4।2।2
 
+
 ## Incompleteness
 - This is freely admitted
     - Eg. endlessness of the veda-s as seen from the story of bharadhvAja in the taittirIya brAhmaNa and elsewhere \[[here](http://advaita-l.advaita-vedanta.narkive.com/MYrtMSe6/anantaa-vai-vedaah#post3)\]
     -  taittirIya saMhitA (7.3.1.4) states: parimitā vā ṛcaḥ parimitāni sāmāni parimitāni yajūṁṣy athaitasyaivānto nāsti yad brahma
 - One reason for the incompleteness is the sheer impossibility of anticipating and correctly weighing in on circumstances far outside one's (the sage's) spatio-temporal context.
+
+
+## Errors
+- The most sacred texts can contain stray errors (even in dharma instruction). Eg. रजस्वलो **रक्तदन्** सत्यवादी स्याद् इति हि ब्राह्मणम् ११
+
+### dharma from observation and deduction
+- With regards to dharma, given its laxaNa (prosperity and victory): pratyaxa and anumAna can have decisive role in rejecting/ pruning shruti contradictions/ misinstructions. 
+- मेधातिथिः "अन्त्याद् अपि परं धर्मं स्त्रीरत्नं दुष्कुलाद् अपि" इत्यत्र - **अन्त्यश्** चाण्डालस् तस्माद् अपि +++(आददीत)+++ यः **परो धर्मः** श्रुति-स्मृत्य्-अपेक्षया परो ऽन्यो लौकिकः ।
+
 
 ## Corruption
 - Likelihood of "corruption" (ie later additions, deletions and editing) of the details of nearly all works has been acknowledged (see "Authority contests and pedigree", and the case of veda-s) in many places.

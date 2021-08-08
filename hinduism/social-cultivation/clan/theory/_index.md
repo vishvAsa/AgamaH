@@ -51,7 +51,9 @@ Some people falsely generalize later anti-varNAshrama traditions.
     - वर्णाश्रमाचारान् मनसापि न लङ्घयेत्॥ यो यस्मिन्नाश्रमे तिष्ठन् प्राप्तो दीक्षां शिवात्मिकाम्। स तस्मिन्नेव संतिष्ठन् शिवधर्मं च पालयेत् - श्रीमद्भार्गवागमः as quoted by लक्षद्वयाध्यापक-श्रीमदघोरशिवाचार्य ... siddhAnta shaiva did not forsake his Ashrama or varNa when he attained dIkSha into the shaiva path and was not a means of “revolting against” or “escaping” the ordinances of the Aryas. ... the general followers were encouraged to maintain their existing life-style/profession and varNa-related observances, while accomodating the shaiva observances with that framework. In fact the basic dharma-shAstric injunctions are relating to other nitya issues are reiterated by the shiva-dharma." \[[MT](https://manasataramgini.wordpress.com/2006/06/23/siddhanta-tantrics-and-the-mainstream-brahminical-path/)\]
     - See quotes in the "Unrestricted ability to enter intellectual/ spiritual life" section.
 
-
+## Teacher role
+- Generally, religious teaching and interpretive authority rested with brAhmaNa-s. However, in case of exigencies, such instruction could be obtained from another dvija varNa.
+- For other vidyA-s, anyone could teach. As manu said: श्रद्दधानः शुभां विद्याम् आददीतावराद् अपि । अन्त्याद् अपि परं धर्मं स्त्रीरत्नं दुष्कुलाद् अपि ॥ Medhātithi says: "**श्रद्दधान** आस्तिक्योपगृहीतान्तरात्माभियुक्तो यः शिष्यः स **शुभां विद्यां** न्यायशास्त्रादि-तर्कविद्याम् ।".
 
 ## Subversive theory
 Anti-varNa teachings are seen among a few traditions - see [subversion page](../../../rivals/ananda-addiction/) and [Ananda addiction page](../../../rivals/ananda-addiction/).

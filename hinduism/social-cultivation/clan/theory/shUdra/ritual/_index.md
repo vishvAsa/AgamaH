@@ -4,7 +4,7 @@ unicode_script: devanagari
 ---
 
 ## Intro
--   There were many dīkṣa-s available to the śūdra-s, prescribed in the purāṇa-s and the tantra-s. Furthermore, in several critical places, the dharmaśāstra thinkers are not 
+-   There were many dīkṣa-s available to the śūdra-s, prescribed in the purāṇa-s and the tantra-s. Furthermore, in several critical places, the dharmaśāstra thinkers are not in agreement.
 -   The most popular and the dearest modes of Hindu spirituality in the past two millennia were (perhaps by definition) very much open to śūdra-s. For example:
     -   Adoring images, trees, animals or instruments.
     -   Constructing and patronizing temples.
@@ -30,3 +30,5 @@ unicode_script: devanagari
 -   There are hints that this restriction was not in place in the distant past. For example, Bādari (an early mīmāṃsa scholar) advocates that śūdra-s too could study the veda-s (PMS 6.1.27).
 -   They were explicitly authorized to repeat various popular non-vedic mantra-s and there was no restriction whatsoever on repeating non-vedic poetry.
 
+## Sanskrit use
+- See [sanskrit misconceptions page](/sanskrit/meta/misconceptions/Sanskrit_Phobia/Restricted_social_role/). They could learn and teach sanskrit without impinging on core religious teaching authority of brAhmaNas (eg. dharmashAstra-s). Even there: They could certainly write express/ teach their understanding of essentials of dharma. Plus the general authority of teaching other vidya-s were not monopolized.
