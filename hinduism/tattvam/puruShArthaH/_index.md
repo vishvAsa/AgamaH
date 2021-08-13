@@ -11,6 +11,7 @@ The following purushArtha-s are suggested in early texts (especially the niiti-s
 - dharma:
     - To do dharma (धारणात् धर्म इत्याहुः - धर्मो धारयते प्रजाः -mbh) is to something directly for the good of other beings (or groups thereof).
     - This feeling is innate to us, and essential for our survival - otherwise, our desires will ensure that we destroy each other. It is always a compromise (we'd rather continue with our kaama.)
+    - Plus, dharma increases our group fitness. Since memes are seen as being carried within groups rather than individuals, "group selction" applies.
     - Traditionally, the other two puruShArtha-s are followed in a way as to not conflict with dharma. (eg. manu and medhAtithi [here](https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200281.html))
     - Eg: Donating money, Punishing a murderer, providing for one's family. 
     - Details [here](../../social-cultivation/dharma/).
