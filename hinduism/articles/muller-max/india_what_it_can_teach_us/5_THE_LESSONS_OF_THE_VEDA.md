@@ -9,9 +9,15 @@ I still remember how, many years ago, when I began to publish for the first time
 
 There was no excuse for such ignorant assertions even thirty years ago, for in these very books, in the Laws of Manu, in the Mahâbhârata, and in the Purâ_n_as, the Veda is everywhere proclaimed as the highest authority in all matters of religion.[^150] "A Brahman," says Manu, "unlearned in holy writ, is extinguished in an instant like dry grass on fire." "A twice-born man (that is, a Brâhma_n_a, a Kshatriya, and a Vai_s_ya) not having studied the Veda, soon falls, even when living, to the condition of a _S_ûdra, and his descendants after him."
 
+
+[^150]: Wilson, Lectures, p. 9.
+
 How far this license of ignorant assertion may be carried is shown by the same authorities who denied the importance of the Veda for a historical study of Indian thought, boldly charging those wily priests, the Brahmans, with having withheld their sacred literature from any but their own caste. Now, so far from withholding it, the Brahmans have always been striving, and often striving in vain, to make the study of their sacred literature obligatory on all castes except the _S_ûdras, and the passages just quoted from Manu show what penalties were threatened if children of the second and third castes, the Kshatriyas and Vai_s_yas, were not instructed in the sacred literature of the Brahmans.
 
 At present the Brahmans themselves have spoken, and the reception they have accorded to my edition of the Rig-Veda[^151] and its native commentary, the zeal with which they have themselves taken up the study of Vedic literature, and the earnestness with which different sects are still discussing the proper use that should be made of their ancient religious writings, show abundantly that a Sanskrit scholar ignorant of, or, I should rather say, determined to ignore the Veda, would be not much better than a Hebrew scholar ignorant of the Old Testament.
+
+
+[^151]: As it has been doubted, and even denied, that the publication of the Rig-Veda and its native commentary has had some important bearing on the resuscitation of the religious life of India, I feel bound to give at least one from the many testimonials which I have received from India. It comes from the Âdi Brahma Samâj, founded by Ram Mohun Roy, and now represented by its three branches, the Âdi Brahma Samâj, the Brahma Samâj of India, and the Sadhârano Brahma Samâj. "The Committee of the Âdi Brahma Samâj beg to offer you their hearty congratulations on the completion of the gigantic task which has occupied you for the last quarter of a century. By publishing the Rig-Veda at a time when Vedic learning has by some sad fatality become almost extinct in the land of its birth, you have conferred a boon upon us Hindus, for which we cannot but be eternally grateful."
 
 I shall now proceed to give you some characteristic specimens of the religion and poetry of the Rig-Veda. They can only be few, and as there is nothing like system or unity of plan in that collection of 1017 hymns, which we call the Sa_m_hitâ of the Rig-Veda, I cannot promise that they will give you a complete panoramic view of that intellectual world in which our Vedic ancestors passed their life on earth.
 
@@ -21,13 +27,31 @@ Another poet says: "The wise poets represent by their words Him who is one with 
 
 And again we hear of a being called Hira_n_yagarbha, the golden germ (whatever the original of that name may have been), of whom the poet says:[^153] "In the beginning there arose Hira_n_yagarbha; he was the one born lord of all this. He established the earth and this sky. Who is the god to whom we shall offer our sacrifice?" That Hira_n_yagarbha, the poet says, "is alone God above all gods" (ya_h_ deveshu adhi deva_h_ eka_h_ âsît)—an assertion of the unity of the Divine which could hardly be exceeded in strength by any passage from the Old Testament.
 
+
+[^153]: Rig-Veda X. 121.
+
 But by the side of such passages, which are few in number, there are thousands in which ever so many divine beings are praised and prayed to. Even their number is sometimes given as "thrice eleven"[^154] or thirty-three, and one poet assigns eleven gods to the sky, eleven to the earth, and eleven to the waters,[^155] the waters here intended being those of the atmosphere and the clouds. These thirty-three gods have even wives apportioned to them,[^156] though few of these only have as yet attained to the honor of a name.[^157]
+
+
+[^156]: Rig-Veda III. 6, 9.
+
+
+[^155]: Rig-Veda I. 139, 11.
+
+
+[^154]: Muir, iv. 9.
 
 These thirty-three gods, however, by no means include all the Vedic gods, for such important deities as Agni, the fire, Soma, the rain, the Maruts or Storm-gods, the A_s_vins, the gods of Morning and Evening, the Waters, the Dawn, the Sun are mentioned separately; and there are not wanting passages in which the poet is carried away into exaggerations, till he proclaims the number of his gods to be, not only thirty-three, but three thousand three hundred and thirty-nine.[^158]
 
 If therefore there must be a name for the religion of the Rig-Veda, polytheism would seem at first sight the most appropriate. Polytheism, however, has assumed with us a meaning which renders it totally inapplicable to the Vedic religion.
 
 Our ideas of polytheism being chiefly derived from Greece and Rome, we understand by it a certain more or less organized system of gods, different in power and rank, and all subordinate to a supreme God, a Zeus or Jupiter. The Vedic polytheism differs from the Greek and Roman polytheism, and, I may add, likewise from the polytheism of the Ural-Altaic, the Polynesian, the American, and most of the African races, in the same manner as a confederacy of village communities differs from a monarchy. There are traces of an earlier stage of village-community life to be discovered in the later republican and monarchical constitutions, and in the same manner nothing can be clearer, particularly in Greece, than that the monarchy of Zeus was preceded by what may be called the septarchy of several of the great gods of Greece. The same remark applies to the mythology of the Teutonic nations also.[^159] In the Veda, however, the gods worshipped as supreme by each sept stand still side by side. No one is first always, no one is last always. Even gods of a decidedly inferior and limited character assume occasionally in the eyes of a devoted poet a supreme place above all other gods.[^160] It was necessary, therefore, for the purpose of accurate reasoning, to have a name, different from _polytheism_, to signify this worship of single gods, each occupying for a time a supreme position, and I proposed for it the name of _Kathenotheism_, that is, a worship of one god after another, or of _Henotheism_, the worship of single gods. This shorter name of _Henotheism_ has found more general acceptance, as conveying more definitely the opposition between _Monotheism_, the worship of one only God, and _Henotheism_, the worship of single gods; and, if but properly defined, it will answer its purpose very well. However, in researches of this kind we cannot be too much on our guard against technical terms. They are inevitable, I know; but they are almost always misleading. There is, for instance, a hymn addressed to the _Indus_ and the rivers that fall into it, of which I hope to read you a translation, because it determines very accurately the geographical scene on which the poets of the Veda passed their life. Now native scholars call these rivers devatâs or deities, and European translators too speak of them as gods and goddesses. But in the language used by the poet with regard to the Indus and the other rivers, there is nothing to justify us in saying that he considered these rivers as _gods_ and _goddesses_, unless we mean by _gods_ and _goddesses_ something very different from what the Greeks called River-gods and River-goddesses, Nymphs, Najades, or even Muses.
+
+
+[^160]: "Among not yet civilized races prayers are addressed to a god with a special object, and to that god who is supposed to be most powerful in a special domain. He becomes for the moment the highest god to whom all others must give place. He may be invoked as the highest and the only god, without any slight being intended for the other gods."—Zimmer, l. c. p. 175.
+
+
+[^159]: Grimm showed that Thôrr is sometimes the supreme god, while at other times he is the son of Ôdinn. This, as Professor Zimmer truly remarks, need not be regarded as the result of a revolution, or even of gradual decay, as in the case of Dyaus and Tŷr, but simply as inherent in the character of a nascent polytheism. See Zeitschrift für D. A., vol. xii. p. 174.
 
 And what applies to these rivers applies more or less to all the objects of Vedic worship. They all are still oscillating between what is seen by the senses, what is created by fancy, and what is postulated by the understanding; they are things, persons, causes, according to the varying disposition of the poets; and if we call them gods or goddesses, we must remember the remark of an ancient native theologian, who reminds us that by devatâ or deity he means no more than the object celebrated in a hymn, while _Ri_shi or seer means no more than the subject or the author of a hymn.
 
@@ -42,6 +66,12 @@ Availing ourselves of the division of the Vedic gods into terrestrial, aërial, 
 Before we examine them, however, we have first to consider one of the earliest objects of worship and adoration, namely _Earth and Heaven_, or _Heaven and Earth_, conceived as a divine couple. Not only in India, but among many other nations, both savage, half-savage, or civilized, we meet with Heaven and Earth as one of the earliest objects, pondered on, transfigured, and animated by the early poets, and more or less clearly conceived by early philosophers. It is surprising that it should be so, for the conception of the Earth as an independent being, and of Heaven as an independent being, and then of both together as a divine couple embracing the whole universe, requires a considerable effort of abstraction, far more than the concepts of other divine powers, such as the Fire, the Rain, the Lightning, or the Sun.
 
 Still so it is, and as it may help us to understand the ideas about Heaven and Earth, as we find them in the Veda, and show us at the same time the strong contrast between the mythology of the Aryans and that of real savages (a contrast of great importance, though I admit very difficult to explain), I shall read you first some extracts from a book, published by a friend of mine, the Rev. William Wyatt Gill, for many years an active and most successful missionary in Mangaia, one of those Polynesian islands that form a girdle round one quarter of our globe,[^161] and all share in the same language, the same religion, the same mythology, and the same customs. The book is called "Myths and Songs from the South Pacific,"[^162] and it is full of interest to the student of mythology and religion.
+
+
+[^162]: Henry S. King & Co., London, 1876.
+
+
+[^161]: "Es handelt sich hier nicht um amerikanische oder afrikanische Zersplitterung, sondern eine überraschende Gleichartigkeit dehnt sich durch die Weite und Breite des Stillen Oceans, und wenn wir Oceanien in der vollen Auffassung nehmen mit Einschluss Mikro-und Mela-nesiens (bis Malaya), selbst weiter. Es lässt sich sagen, dass ein einheitlicher Gedankenbau, in etwa 120 Längen und 70 Breitegraden, ein Viertel unsers Erdglobus überwölbt."—Bastian, Die Heilige Sage der Polynesier, p. 57.
 
 The story, as told him by the natives of Mangaia, runs as follows:[^163]
 
@@ -65,9 +95,21 @@ What the natives call "the bones of Ru" (te ivio Ru) are pieces of pumice-stone.
 
 Now let us consider, first of all, whether this story, which with slight variations is told all over the Polynesian islands,[^164] is pure nonsense, or whether there was originally some sense in it. My conviction is that nonsense is everywhere the child of sense, only that unfortunately many children, like that youngster Mâui, consider themselves much wiser than their fathers, and occasionally succeed in hurling them out of existence.
 
+
+[^164]: There is a second version of the story even in the small island of Mangaia; see "Myths and Songs," p. 71.
+
 It is a peculiarity of many of the ancient myths that they represent events which happen every day, or every year, as having happened once upon a time.[^165] The daily battle between day and night, the yearly battle between winter and spring, are represented almost like historical events, and some of the episodes and touches belonging originally to these constant battles of nature, have certainly been transferred into and mixed up with battles that took place at a certain time, such as, for instance, the siege of Troy. When historical recollections failed, legendary accounts of the ancient battles between Night and Morning, Winter and Spring, were always at hand; and, as in modern times we constantly hear "good stories," which we have known from our childhood, told again and again of any man whom they seem to fit, in the same manner, in ancient times, any act of prowess, or daring, or mischief, originally told of the sun, "the orient Conqueror of gloomy Night," was readily transferred to and believed of any local hero who might seem to be a second Jupiter, or Mars, or Hercules.
 
+
+[^165]: See before, p. 158.
+
 I have little doubt therefore that as the accounts of a deluge, for instance, which we find almost everywhere, are originally recollections of the annual torrents of rain or snow that covered the little worlds within the ken of the ancient village-bards,[^166] this tearing asunder of heaven and earth too was originally no more than a description of what might be seen every morning. During a dark night the sky seemed to cover the earth; the two seemed to be one, and could not be distinguished one from the other.[^167] Then came the Dawn, which with its bright rays lifted the covering of the dark night to a certain point, till at last Mâui appeared, small in stature, a mere child, that is, the sun of the morning—thrown up suddenly, as it were, when his first rays shot through the sky from beneath the horizon, then falling back to the earth, like a bird, and rising in gigantic form on the morning sky. The dawn now was hurled away, and the sky was seen lifted high above the earth; and Mâui, the sun, marched on well pleased with having raised the sky to its present height.
+
+
+[^167]: "The Sacred Books of the East," vol. i. p. 249: "The first half is the earth, the second half the heaven, their uniting the rain, the uniter Par_g_anya." And so it is when it (Par_g_anya) rains thus strongly—without ceasing, day and night together—then they say also, "Heaven and earth have come together."—From the Aitareya-Âra_n_yaka, III. 2, 2.—A. W.
+
+
+[^166]: This explanation is considered altogether inadequate by many scholars. It is, of course, not altogether a question of learning, but also one of judgment.—Am. Pubs.
 
 Why pumice-stone should be called the bones of Ru, we cannot tell, without knowing a great deal more of the language of Mangaia than we do at present. It is most likely an independent saying, and was afterward united with the story of Ru and Mâui.
 
@@ -99,11 +141,17 @@ Let us now return to the Veda, and compare these crude and somewhat grotesque le
 
 In the Aitareya Brâhma_n_a we read:[^170] "These two worlds (Heaven and Earth) were once joined together. They went asunder. Then it did not rain, nor did the sun shine. And the five tribes did not agree with one another. The gods then brought the two (Heaven and Earth) together, and when they came together they formed a wedding of the gods."
 
+
+[^170]: Ait. Br. IV. 27; Muir, iv. p. 23.
+
 Here we have in a shorter form the same fundamental ideas: first, that formerly Heaven and Earth were together; that afterward they were separated; that when they were thus separated there was war throughout nature, and neither rain nor sunshine; that, lastly, Heaven and Earth were conciliated, and that then a great wedding took place.
 
 Now I need hardly remind those who are acquainted with Greek and Roman literature, how familiar these and similar conceptions about a marriage between Heaven and earth were in Greece and Italy. They seem to possess there a more special reference to the annual reconciliation between Heaven and Earth, which takes place in spring, and to their former estrangement during winter. But the first cosmological separation of the two always points to the want of light and the impossibility of distinction during the night, and the gradual lifting up of the blue sky through the rising of the sun.[^171]
 
 In the Homeric hymns[^172] the Earth is addressed as
+
+
+[^172]: Homer, Hymn xxx. 17.
 
 "Mother of gods, the wife of the starry Heaven;"[^173]
 
@@ -119,6 +167,9 @@ As the mother of all."[^174]
 
 And what is more curious still is that we have evidence that Euripides received this doctrine from his teacher, the philosopher Anaxagoras. For Dionysius of Halicarnassus[^175] tells us that Euripides frequented the lectures of Anaxagoras. Now, it was the theory of that philosopher that originally all things were in all things, but that afterward they became separated. Euripides later in life associated with Sokrates, and became doubtful regarding that theory. He accordingly propounds the ancient doctrine by the mouth of another, namely Melanippê, who says:
 
+
+[^175]: Dionysius Halic., vol. v. p. 355; Muir, v. p. 27.
+
 "This saying (myth) is not mine, but came from my mother, that formerly Heaven and Earth were one shape; but when they were separated from each other, they gave birth and brought all things into the light, trees, birds, beasts, and the fishes whom the sea feeds, and the race of mortals."
 
 Thus we have met with the same idea of the original union, of a separation, and of a subsequent reunion of Heaven and Earth in Greece, in India, and in the Polynesian islands.
@@ -126,6 +177,12 @@ Thus we have met with the same idea of the original union, of a separation, and 
 Let us now see how the poets of the Veda address these two beings, Heaven and Earth.
 
 They are mostly addressed in the dual, as two beings forming but one concept. We meet, however, with verses which are addressed to the Earth by herself, and which speak of her as "kind, without thorns, and pleasant to dwell on,"[^176] while there are clear traces in some of the hymns that at one time Dyaus, the sky, was the supreme deity.[^177] When invoked together they are called Dyâvâ-p_ri_thivyau, from dyu, the sky, and p_ri_thivî, the broad earth.
+
+
+[^177]: See "Lectures on the Science of Language," vol. ii. p. 468.
+
+
+[^176]: Rig-Veda I. 22, 15.
 
 If we examine their epithets, we find that many of them reflect simply the physical aspects of Heaven and Earth. Thus they are called uru, wide; uruvya_k_as, widely expanded, dûre-ante, with limits far apart, gabhîra, deep; gh_ri_tavat, giving fat; madhudugha, yielding honey or dew; payasvat, full of milk; bhûri-retas, rich in seed.
 
@@ -143,13 +200,58 @@ Thus one poet says:[^178]
 
 And again:[^179] "He was a good workman who produced heaven and earth; the wise, who by his might brought together these two (heaven and earth), the wide, the deep, the well-fashioned in the bottomless space."
 
+
+[^179]: L. c. IV. 56, 3.
+
 Very soon this great work of making heaven and earth was ascribed, like other mighty works, to the mightiest of their gods, to Indra. At first we read that Indra, originally only a kind of _Jupiter pluvius_, or god of rain, stretched out heaven and earth, like a hide;[^180] that he held them in his hand,[^181] that he upholds heaven and earth,[^182] and that he grants heaven and earth to his worshippers.[^183] But very soon Indra is praised for having made Heaven and Earth;[^184] and then, when the poet remembers that Heaven and Earth had been praised elsewhere as the parents of the gods, and more especially as the parents of Indra, he does not hesitate for a moment, but says:[^185] "What poets living before us have reached the end of all thy greatness? for thou hast indeed begotten thy father and thy mother together[^186] from thy own body!"
 
+
+[^186]: Cf. IV. 17, 4, where Dyaus is the father of Indra; see however Muir, iv. 31, note.
+
+
+[^185]: L. c. X. 54, 3.
+
+
+[^184]: L. c. VIII. 36, 4.
+
+
+[^183]: L. c. III. 34, 8.
+
+
+[^182]: L. c. III. 34, 8.
+
+
+[^181]: L. c. III. 30, 5.
+
+
+[^180]: L. c. VIII. 6, 5.
+
 That is a strong measure, and a god who once could do that, was no doubt capable of anything afterward. The same idea, namely that Indra is greater than heaven and earth, is expressed in a less outrageous way by another poet, who says[^187] that Indra is greater than heaven and earth, and that both together are only a half of Indra. Or again:[^188] "The divine Dyaus bowed before Indra, before Indra the great Earth bowed with her wide spaces." "At the birth of thy splendor Dyaus trembled, the Earth trembled for fear of thy anger."[^189]
+
+
+[^188]: L. c. I. 131, 1.
+
+
+[^187]: Rig-Veda VI. 30, 1.
 
 Thus, from one point of view, Heaven and Earth were the greatest gods, they were the parents of everything, and therefore of the gods also, such as Indra and others.
 
 But, from another point of view, every god that was considered as supreme at one time or other, must necessarily have made heaven and earth, must at all events be greater than heaven and earth, and thus the child became greater than the father, ay, became the father of his father. Indra was not the only god that created heaven and earth. In one hymn[^190] that creation is ascribed to Soma and Pûshan, by no means very prominent characters; in another[^191] to Hira_n_yagarbha (the golden germ); in another again to a god who is simply called Dhat_ri_, the Creator,[^192] or Vi_s_vakarman,[^193] the maker of all things. Other gods, such as Mitra and Savit_ri_, names of the sun, are praised for upholding Heaven and Earth, and the same task is sometimes performed by the old god Varu_n_a[^194] also.
+
+
+[^194]: Rig-Veda VI. 70, 1.
+
+
+[^193]: L. c. X. 81, 2.
+
+
+[^192]: L. c. X. 190, 3.
+
+
+[^191]: L. c. X. 121, 9.
+
+
+[^190]: L. c. II. 40, 1.
 
 What I wish you to observe in all this is the perfect freedom with which these so-called gods or Devas are handled, and particularly the ease and naturalness with which now the one, now the other emerges as supreme out of this chaotic theogony. This is the peculiar character of the ancient Vedic religion, totally different both from the Polytheism and from the Monotheism as we see it in the Greek and the Jewish religions; and if the Veda had taught us nothing else but this _henotheistic_ phase, which must everywhere have preceded the more highly-organized phase of Polytheism which we see in Greece, in Rome, and elsewhere, the study of the Veda would not have been in vain.
 
@@ -159,158 +261,11 @@ I shall next translate to you the hymn to which I referred before as addressed t
 
 1\. "Let the poet declare, O Waters, your exceeding greatness, here in the seat of Vivasvat.[^196] By seven and seven they have come forth in three courses, but the Sindhu (the Indus) exceeds all the other wandering rivers by her strength.
 
-2\. "Varu_n_a dug out paths for thee to walk on, when thou rannest to the race.[^197] Thou proceedest on a precipitous ridge of the earth, when thou art lord in the van of all the moving streams.
-
-3\. "The sound rises up to heaven above the earth; she stirs up with splendor her endless power.[^198] As from a cloud, the showers thunder forth, when the Sindhu comes, roaring like a bull.
-
-4\. "To thee, O Sindhu, they (the other rivers) come as lowing mother-cows (run) to their young with their milk.[^199] Like a king in battle thou leadest the two wings, when thou reachest the front of these down-rushing rivers.
-
-5\. "Accept, O Gangâ (Ganges), Yamunâ (Jumna), Sarasvatî (Sursûti), _S_utudri (Sutlej), Parush_n_î (Irâvâtî, Ravi), my praise![^200] With the Asiknî (Akesines) listen, O Marudv_ri_dhâ,[^201] and with the Vitastâ (Hydaspes, Behat); O Âr_g_îkîyâ,[^202] listen with the Sushomâ.[^203]
-
-6\. "First thou goest united with the T_ri_sh_t_amâ on thy journey, with the Susartu, the Rasâ (Râ_m_hâ, Araxes?[^204]), and the _S_vetî—O Sindhu, with the Kubhâ (Kophen, Cabul river) to the Gomatî (Gomal), with the Mehatnu to the Krumu (Kurum)—with whom thou proceedest together.
-
-7\. "Sparkling, bright, with mighty splendor she carries the waters across the plains—the unconquered Sindhu, the quickest of the quick, like a beautiful mare—a sight to see.
-
-8\. "Rich in horses, in chariots, in garments, in gold, in booty,[^205] in wool,[^206] and in straw,[^207] the Sindhu, handsome and young, clothes herself in sweet flowers.[^208]
-
-9\. "The Sindhu has yoked her easy chariot with horses; may she conquer prizes for us in the race. The greatness of her chariot is praised as truly great—that chariot which is irresistible, which has its own glory, and abundant strength."[^209]
-
-This hymn does not sound perhaps very poetical, in our sense of the word; yet if you will try to realize the thoughts of the poet who composed it, you will perceive that it is not without some bold and powerful conceptions.
-
-Take the modern peasants, living in their villages by the side of the Thames, and you must admit that he would be a remarkable man who could bring himself to look on the Thames as a kind of a general, riding at the head of many English rivers, and leading them on to a race or a battle. Yet it is easier to travel in England, and to gain a commanding view of the river-system of the country, than it was three thousand years ago to travel over India, even over that part of India which the poet of our hymn commands. He takes in at one swoop three great river-systems, or, as he calls them, three great armies of rivers—those flowing from the north-west into the Indus, those joining it from the north-east, and, in the distance, the Ganges and the Jumnah with their tributaries. Look on the map and you will see how well these three armies are determined; but our poet had no map—he had nothing but high mountains and sharp eyes to carry out his trigonometrical survey. Now I call a man, who for the first time could _see_ those three marching armies of rivers, a poet.
-
-The next thing that strikes one in that hymn—if hymn we must call it—is the fact that all these rivers, large and small, have their own proper names. That shows a considerable advance in civilized life, and it proves no small degree of coherence, or what the French call _solidarity_, between the tribes who had taken possession of Northern India. Most settlers call the river on whose banks they settle "_the river_." Of course there are many names for river. It may be called the runner,[^210] the fertilizer, the roarer—or, with a little poetical metaphor, the arrow, the horse, the cow, the father, the mother, the watchman, the child of the mountains. Many rivers had many names in different parts of their course, and it was only when communication between different settlements became more frequent, and a fixed terminology was felt to be a matter of necessity, that the rivers of a country were properly baptized and registered. All this had been gone through in India before our hymn became possible.
-
-And now we have to consider another, to my mind most startling fact. We here have a number of names of the rivers of India, as they were known to one single poet, say about 1000 b.c. We then hear nothing of India till we come to the days of Alexander, and when we look at the names of the Indian rivers, represented as well as they could be by Alexander's companions, mere strangers in India, and by means of a strange language and a strange alphabet, we recognize, without much difficulty, nearly all of the old Vedic names.
-
-In this respect the names of rivers have a great advantage over the names of towns in India. What we now call _Dilli_ or _Delhi_[^211] was in ancient times called Indraprastha, in later times _Shahjahânabâd_. _Oude_ is Ayodhyâ, but the old name of Saketa is forgotten. The town of Pa_t_aliputra, known to the Greeks as _Palimbothra_, is now called _Patna_.[^212]
-
-Now I can assure you this persistency of the Vedic river-names was to my mind something so startling that I often said to myself, This cannot be—there must be something wrong here. I do not wonder so much at the names of the _Indus_ and the _Ganges_ being the same. The Indus was known to early traders, whether by sea or by land. Skylax sailed from the country of the Paktys, _i.e._ the Pushtus, as the Afghans still call themselves, down to the mouth of the Indus. That was under Darius Hystaspes (521-486). Even before that time India and the Indians were known by their name, which was derived from _Sindhu_, the name of their frontier river. The neighboring tribes who spoke Iranic languages all pronounced, like the Persian, the _s_ as an _h_.[^213] Thus Sindhu became Hindhu (Hidhu), and, as h's were dropped even at that early time, Hindhu became Indu. Thus the river was called _Indos_, the people _Indoi_ by the Greeks, who first heard of India from the Persians.
-
-_Sindhu_ probably meant originally the divider, keeper, and defender, from sidh, to keep off. It was a masculine, before it became a feminine. No more telling name could have been given to a broad river, which guarded peaceful settlers both against the inroads of hostile tribes and the attacks of wild animals. A common name for the ancient settlements of the Aryans in India was "the Seven Rivers," "Sapta Sindhava_h_." But though sindhu was used as an appellative noun for river in general (cf. Rig-Veda VI. 19, 5, samudré ná síndhava_h_ yâdamânâ_h_, "like rivers longing for the sea"), it remained throughout the whole history of India the name of its powerful guardian river, the Indus.
-
-In some passages of the Rig-Veda it has been pointed out that sindhu might better be translated by "sea," a change of meaning, if so it can be called, fully explained by the geographical conditions of the country. There are places where people could swim across the Indus, there are others where no eye could tell whether the boundless expanse of water should be called river or sea. The two run into each other, as every sailor knows, and naturally the meaning of sindhu, river, runs into the meaning of sindhu, sea.
-
-But besides the two great rivers, the Indus and the Ganges—in Sanskrit the Gangâ, literally the Go-go—we have the smaller rivers, and many of their names also agree with the names preserved to us by the companions of Alexander.[^214]
-
-The Yamunâ, the Jumna, was known to Ptolemy as _Διἁμουνα_,[^215] to Pliny as Jomanes, to Arrian, somewhat corrupted, as Jôbares.[^216]
-
-The _S_utudrî, or, as it was afterward called, _S_atadru, meaning "running in a hundred streams," was known to Ptolemy as Ζαδἁρδης or Ζἁραδος ; Pliny called it Sydrus; and Megasthenes, too, was probably acquainted with it as Ζαδἁρδης. In the Veda[^217] it formed with the Vipa_s_ the frontier of the Punjâb, and we hear of fierce battles fought at that time, it may be on the same spot where in 1846 the battle of the Sutledge was fought by Sir Hugh Gough and Sir Henry Hardinge. It was probably on the Vipâ_s_ (later Vipâ_s_â), a north-western tributary of the Sutledge, that Alexander's army turned back. The river was then called Hyphasis; Pliny calls it Hypasis,[^218] a very fair approximation to the Vedic Vipâ_s_, which means "unfettered." Its modern name is Bias or Bejah.
-
-The next river on the west is the Vedic Parush_n_î, better known as Irâvatî,[^219] which Strabo calls Hyarotis, while Arrian gives it a more Greek appearance by calling it Hydraotes. It is the modern Rawi. It was this river which the Ten Kings when attacking the T_ri_tsus under Sudâs tried to cross from the west by cutting off its water. But their stratagem failed, and they perished in the river (Rig-Veda VII. 18, 8-9).
-
-We then come to the Asiknî, which means "black." That river had another name also, _K_andrabhâga, which means "streak of the moon." The Greeks, however, pronounced that Σανδαροφἁγος, and this had the unlucky meaning of "the devourer of Alexander." Hesychius tells us that in order to avert the bad omen Alexander changed the name of that river into Ακεσἱνης, which would mean "the Healer;" but he does not tell, what the Veda tells us, that this name Ακεσἱνης was a Greek adaptation of another name of the same river, namely Asiknî, which had evidently supplied to Alexander the idea of calling the Asiknî Ακεσἱνης. It is the modern Chinâb.
-
-Next to the Akesines we have the Vedic Vitastâ, the last of the rivers of the Punjâb, changed in Greek into Hydaspes. It was to this river that Alexander retired, before sending his fleet down the Indus and leading his army back to Babylon. It is the modern Behat or Jilam.
-
-I could identify still more of these Vedic rivers, such as, for instance, the Kubhâ, the Greek Cophen, the modern Kabul river;[^220] but the names which I have traced from the Veda to Alexander, and in many cases from Alexander again to our own time, seem to me sufficient to impress upon us the real and historical character of the Veda. Suppose the Veda were a forgery—suppose at least that it had been put together after the time of Alexander—how could we explain these names? They are names that have mostly a meaning in Sanskrit, they are names corresponding very closely to their Greek corruptions, as pronounced and written down by people who did not know Sanskrit. How is a forgery possible here?
-
-I selected this hymn for two reasons. First, because it shows us the widest geographical horizon of the Vedic poets, confined by the snowy mountains in the north, the Indus and the range of the Suleiman mountains in the west, the Indus or the seas in the south, and the valley of the Jumna and Ganges in the east. Beyond that, the world, though open, was unknown to the Vedic poets. Secondly, because the same hymn gives us also a kind of historical background to the Vedic age. These rivers, as we may see them to-day, as they were seen by Alexander and his Macedonians, were seen also by the Vedic poets. Here we have an historical continuity—almost living witnesses, to tell us that the people whose songs have been so strangely, ay, you may almost say, so miraculously preserved to us, were real people, lairds with their clans, priests, or rather, servants of their gods, shepherds with their flocks, dotted about on the hills and valleys, with inclosures or palisades here and there, with a few strongholds, too, in case of need—living their short life on earth, as at that time life might be lived by men, without much pushing and crowding and trampling on each other—spring, summer, and winter leading them on from year to year, and the sun in his rising and setting lifting up their thoughts from their meadows and groves which they loved, to a world in the East, from which they had come, or to a world in the West, to which they were gladly hastening on. They had what I call religion, though it was very simple, and hardly reduced as yet to the form of a creed. "There is a Beyond," that was all they felt and knew, though they tried, as well as they could, to give names to that Beyond, and thus to change religion into _a_ religion. They had not as yet a name for God—certainly not in our sense of the word—or even a general name for the gods; but they invented name after name to enable them to grasp and comprehend by some outward and visible tokens powers whose presence they felt in nature, though their true and full essence was to them, as it is to us, invisible and incomprehensible.
-
-## Footnotes
-
-[^150]: Wilson, Lectures, p. 9.
-
-[^151]: As it has been doubted, and even denied, that the publication of the Rig-Veda and its native commentary has had some important bearing on the resuscitation of the religious life of India, I feel bound to give at least one from the many testimonials which I have received from India. It comes from the Âdi Brahma Samâj, founded by Ram Mohun Roy, and now represented by its three branches, the Âdi Brahma Samâj, the Brahma Samâj of India, and the Sadhârano Brahma Samâj. "The Committee of the Âdi Brahma Samâj beg to offer you their hearty congratulations on the completion of the gigantic task which has occupied you for the last quarter of a century. By publishing the Rig-Veda at a time when Vedic learning has by some sad fatality become almost extinct in the land of its birth, you have conferred a boon upon us Hindus, for which we cannot but be eternally grateful."
-
-[^152]: Rig-Veda X. 114, 5.
-
-[^153]: Rig-Veda X. 121.
-
-[^154]: Muir, iv. 9.
-
-[^155]: Rig-Veda I. 139, 11.
-
-[^156]: Rig-Veda III. 6, 9.
-
-[^157]: The following names of Devapatnîs or wives of the gods are given in the Vaitâna Sûtra XV. 3 (ed. Garbe): P_ri_thivî, the wife of Agni, Vâ_k_ of Vâta, Senâ of Indra, Dhenâ of B_ri_haspati, Pathyâ of Pûshan, Gâyatrî of Vasu, Trish_t_ubh of Rudra, _G_agati of Âditya, Anush_t_ubh of Mitra, Virâ_g_ of Varu_n_a, Pankti of Vish_n_u, Dîkshâ of Soma.
-
-[^158]: Rig-Veda III. 9, 9.
-
-[^159]: Grimm showed that Thôrr is sometimes the supreme god, while at other times he is the son of Ôdinn. This, as Professor Zimmer truly remarks, need not be regarded as the result of a revolution, or even of gradual decay, as in the case of Dyaus and Tŷr, but simply as inherent in the character of a nascent polytheism. See Zeitschrift für D. A., vol. xii. p. 174.
-
-[^160]: "Among not yet civilized races prayers are addressed to a god with a special object, and to that god who is supposed to be most powerful in a special domain. He becomes for the moment the highest god to whom all others must give place. He may be invoked as the highest and the only god, without any slight being intended for the other gods."—Zimmer, l. c. p. 175.
-
-[^161]: "Es handelt sich hier nicht um amerikanische oder afrikanische Zersplitterung, sondern eine überraschende Gleichartigkeit dehnt sich durch die Weite und Breite des Stillen Oceans, und wenn wir Oceanien in der vollen Auffassung nehmen mit Einschluss Mikro-und Mela-nesiens (bis Malaya), selbst weiter. Es lässt sich sagen, dass ein einheitlicher Gedankenbau, in etwa 120 Längen und 70 Breitegraden, ein Viertel unsers Erdglobus überwölbt."—Bastian, Die Heilige Sage der Polynesier, p. 57.
-
-[^162]: Henry S. King & Co., London, 1876.
-
-[^163]: P. 58.
-
-[^164]: There is a second version of the story even in the small island of Mangaia; see "Myths and Songs," p. 71.
-
-[^165]: See before, p. 158.
-
-[^166]: This explanation is considered altogether inadequate by many scholars. It is, of course, not altogether a question of learning, but also one of judgment.—Am. Pubs.
-
-[^167]: "The Sacred Books of the East," vol. i. p. 249: "The first half is the earth, the second half the heaven, their uniting the rain, the uniter Par_g_anya." And so it is when it (Par_g_anya) rains thus strongly—without ceasing, day and night together—then they say also, "Heaven and earth have come together."—From the Aitareya-Âra_n_yaka, III. 2, 2.—A. W.
-
-[^168]: Bastian, Heilige Sage der Polynesier, p. 36.
-
-[^169]: Bergaigne, "La Religion Védique," p. 240.
-
-[^170]: Ait. Br. IV. 27; Muir, iv. p. 23.
-
-[^171]: See Muir, iv. p. 24.
-
-[^172]: Homer, Hymn xxx. 17.
-
-[^173]: Χαἱρε θεῶν μἡτηρ, ἄλοχ' Οὺρανοῦ ἁστερὁεντος .
-
-[^174]: 
-    Euripides, Chrysippus, fragm. 6 (edit. Didot, p. 824):
-    
-    Γαῖα μεγἱστη καὶ Διὸς αὶθἡρ,  
-    ό μὲν ὰνθρὡπων καὶ θεῶν γενἑτωρ,  
-    ἡ δ' ὑγροβόλους σταγόνας νοτἱους  
-    παραδεξαμἑνη τἱκτει θνατοὑς,  
-    τἱκτει δὲ βορὰν, φῦλἁ τε θηρῶν,  
-    ὁθεν οὺκ ἁδἱκως  
-    μἡτηρ πἁντων νενόμισται.
-
-[^175]: Dionysius Halic., vol. v. p. 355; Muir, v. p. 27.
-
-[^176]: Rig-Veda I. 22, 15.
-
-[^177]: See "Lectures on the Science of Language," vol. ii. p. 468.
-
-[^178]: Rig-Veda I. 160, 4.
-
-[^179]: L. c. IV. 56, 3.
-
-[^180]: L. c. VIII. 6, 5.
-
-[^181]: L. c. III. 30, 5.
-
-[^182]: L. c. III. 34, 8.
-
-[^183]: L. c. III. 34, 8.
-
-[^184]: L. c. VIII. 36, 4.
-
-[^185]: L. c. X. 54, 3.
-
-[^186]: Cf. IV. 17, 4, where Dyaus is the father of Indra; see however Muir, iv. 31, note.
-
-[^187]: Rig-Veda VI. 30, 1.
-
-[^188]: L. c. I. 131, 1.
-
-[^189]: L. c. IV. 17, 2.
-
-[^190]: L. c. II. 40, 1.
-
-[^191]: L. c. X. 121, 9.
-
-[^192]: L. c. X. 190, 3.
-
-[^193]: L. c. X. 81, 2.
-
-[^194]: Rig-Veda VI. 70, 1.
-
-[^195]: Rig-Veda X. 75. See Hibbert Lectures, Lect. iv.
 
 [^196]: Vivasvat is a name of the sun, and the seat or home of Vivasvat can hardly be anything but the earth, as the home of the sun, or, in a more special sense, the place where a sacrifice is offered.
+
+2\. "Varu_n_a dug out paths for thee to walk on, when thou rannest to the race.[^197] Thou proceedest on a precipitous ridge of the earth, when thou art lord in the van of all the moving streams.
+
 
 [^197]:
     I formerly translated yát vã_g_ân abhí ádrava_h_ tvám by "when thou rannest for the prizes." Grassman had translated similarly, "When thou, O Sindhu, rannest to the prize of the battle," while Ludwig wrote, "When thou, O Sindhu, wast flowing on to greater powers." Vâ_g_a, connected with vegeo, vigeo, vigil, wacker (see Curtius, Grundzüge, No. 159), is one of the many difficult words in the Veda the general meaning of which may be guessed, but in many places cannot yet be determined with certainty. Vâ_g_a occurs very frequently, both in the singular and the plural, and some of its meanings are clear enough. The Petersburg Dictionary gives the following list of them—swiftness, race, prize of race, gain, treasure, race-horse, etc. Here we perceive at once the difficulty of tracing all these meanings back to a common source, though it might be possible to begin with the meanings of strength, strife, contest, race, whether friendly or warlike, then to proceed to what is won in a race or in war, viz. booty, treasure, and lastly to take vâgâ_h_ in the more general sense of acquisitions, goods, even goods bestowed as gifts. We have a similar transition of meaning in the Greek ἁθλος, contest, contest for a prize, and ἁθλον, the prize of contest, reward, gift, while in the plural τἁ ἁθλα stands again for contest, or even the place of combat. The Vedic vâ_g_ambhara may in fact be rendered by ἁθλοφὑρος, vâ_g_asâti by ἁθλοσὑνη.
@@ -323,53 +278,106 @@ I selected this hymn for two reasons. First, because it shows us the widest geog
     
     What we want for a proper understanding of our verse, are passages where we have, as here, a movement toward vâ_g_as in the plural. Such passages are few; for instance: X. 53, 8, átra _g_ahâma yé ásan á_s_evâh _s_ivãn vayám út tarema abhí vâ_g_ân, "Let us leave here those who were unlucky (the dead), and let us get up to lucky toils." No more is probably meant here when the Sindhu is said to run toward her vâ_g_as, that is, her struggles, her fights, her race across the mountains with the other rivers.
 
+3\. "The sound rises up to heaven above the earth; she stirs up with splendor her endless power.[^198] As from a cloud, the showers thunder forth, when the Sindhu comes, roaring like a bull.
+
+
 [^198]: On _s_ushma, strength, see Rig-Veda, translation, vol. i. p. 105. We find _s_ubhrám _s_ūshmam II. 11, 4; and iyarti with _s_ūshmam IV. 17, 12.
+
+4\. "To thee, O Sindhu, they (the other rivers) come as lowing mother-cows (run) to their young with their milk.[^199] Like a king in battle thou leadest the two wings, when thou reachest the front of these down-rushing rivers.
+
 
 [^199]: See Muir, Santkrit Texts, v. p. 344.
 
-[^200]: "O Marudv_ri_dhâ with Asiknî, Vitastâ; O Âr_g_îkîyâ, listen with the Sushomâ," _Ludwig_. "Asiknî and Vitastâ and Marudv_ri_dhâ, with the Sushomâ, hear us, O Âr_g_îkîyâ," _Grassman._
+5\. "Accept, O Gangâ (Ganges), Yamunâ (Jumna), Sarasvatî (Sursûti), _S_utudri (Sutlej), Parush_n_î (Irâvâtî, Ravi), my praise![^200] With the Asiknî (Akesines) listen, O Marudv_ri_dhâ,[^201] and with the Vitastâ (Hydaspes, Behat); O Âr_g_îkîyâ,[^202] listen with the Sushomâ.[^203]
 
-[^201]: Marudv_ri_dhâ, a general name for river. According to Roth the combined course of the Akesines and Hydaspes, _before_ the junction with the Hydraotes; according to Ludwig, the river _after_ the junction with Hydraotes. Zimmer (Altindisches Leben, p. 12) adopts Roth's, Kiepert in his maps follows Ludwig's opinion.
 
 [^202]: According to Yâska, the Âr_g_îkîyâ is the Vipâ_s_. Vivien de Saint-Martin takes it for the country watered by the Suwan, the Soanos of Megasthenes.
 
-[^203]: According to Yâska the Sushomâ is the Indus. Vivien de Saint-Martin identifies it with the Suwan. Zimmer (l. c. p. 14) points out that in Arrian, Indica, iv. 12, there is a various reading Soamos for Soanos.
+
+[^201]: Marudv_ri_dhâ, a general name for river. According to Roth the combined course of the Akesines and Hydaspes, _before_ the junction with the Hydraotes; according to Ludwig, the river _after_ the junction with Hydraotes. Zimmer (Altindisches Leben, p. 12) adopts Roth's, Kiepert in his maps follows Ludwig's opinion.
+
+
+[^200]: "O Marudv_ri_dhâ with Asiknî, Vitastâ; O Âr_g_îkîyâ, listen with the Sushomâ," _Ludwig_. "Asiknî and Vitastâ and Marudv_ri_dhâ, with the Sushomâ, hear us, O Âr_g_îkîyâ," _Grassman._
+
+6\. "First thou goest united with the T_ri_sh_t_amâ on thy journey, with the Susartu, the Rasâ (Râ_m_hâ, Araxes?[^204]), and the _S_vetî—O Sindhu, with the Kubhâ (Kophen, Cabul river) to the Gomatî (Gomal), with the Mehatnu to the Krumu (Kurum)—with whom thou proceedest together.
+
 
 [^204]: "Chips from a German Workshop," vol. i. p. 157.
 
-[^205]: Vâ_g_inîvatî is by no means an easy word. Hence all translators vary, and none settles the meaning. Muir translates, "yielding nutriment;" Zimmer, "having plenty of quick horses;" Ludwig, "like a strong mare." Va_g_in, no doubt, means a strong horse, a racer, but va_g_inî never occurs in the Rig-Veda in the sense of a mare, and the text is not va_g_inîvat, but va_g_inîvatî. If vâ_g_inî meant mare, we might translate rich in mares, but that would be a mere repetition after sva_s_vâ, possessed of good horses. Va_g_inîvatî is chiefly applied to Ushas, Sarasvatî, and here to the river Sindhu. It is joined with va_g_ebhi_h_, Rig-Veda I. 3, 10, which, if vâ_g_inî meant mare, would mean "rich in mares through horses." We also read, Rig-Veda I. 48, 16, sám (na_h_ mimikshvá) vã_g_ai_h_ vâ_g_inîvati, which we can hardly translate by "give us horses, thou who art possessed of mares;" nor, Rig-Veda I. 92, 15, yúkshva hí vâ_g_inîvati á_s_vân, "harness the horses, thou who art rich in mares." In most of the passages where vâ_g_inîvatî occurs, the goddess thus addressed is represented as rich, and asked to bestow wealth, and I should therefore prefer to take vâ_g_ínî, as a collective abstract noun, like tretínî, in the sense of wealth, originally booty, and to translate vâ_g_inîvatî simply by rich, a meaning well adapted to every passage where the word occurs.
+7\. "Sparkling, bright, with mighty splendor she carries the waters across the plains—the unconquered Sindhu, the quickest of the quick, like a beautiful mare—a sight to see.
 
-[^206]: Ur_n_âvatî, rich in wool, probably refers to the flocks of sheep for which the North-West of India was famous. See Rig-Veda I. 126, 7.
+8\. "Rich in horses, in chariots, in garments, in gold, in booty,[^205] in wool,[^206] and in straw,[^207] the Sindhu, handsome and young, clothes herself in sweet flowers.[^208]
+
 
 [^207]: Sîlamâvatî does not occur again in the Rig-Veda. Muir translates, "rich in plants;" Zimmer, "rich in water;" Ludwig takes it as a proper name. Sâya_n_a states that sîlamâ is a plant which is made into ropes. That the meaning of sîlamâvatî was forgotten at an early time we see by the Atharva-Veda III. 12, 2, substituting sûn_ri_tâvatî, for sîlamâvatî, as preserved in the _S_ânkhâyana G_ri_hya-sûtras, 3, 3. I think sîlamâ means straw, from whatever plant it may be taken, and this would be equally applicable to a _s_âla, a house, a sthû_n_a, a post, and to the river Indus. It may have been, as Ludwig conjectures, an old local name, and in that case it may possibly account for the name given in later times to the Suleiman range.
 
-[^208]: Madhuv_ri_dh is likewise a word which does not occur again in the Rig-Veda. Sãya_n_a explains it by nirgu_n_di and similar plants, but it is doubtful what plant is meant. Gu_n_da is the name of a grass, madhuv_ri_dh therefore may have been a plant such as sugar-cane, that yielded a sweet juice, the Upper Indus being famous for sugar-cane; see Hiouen-thsang, II. p. 105. I take adhivaste with Roth in the sense "she dresses herself," as we might say "the river is dressed in heather." Muir translates, "she traverses a land yielding sweetness;" Zimmer, "she clothes herself in Madhuv_ri_dh;" Ludwig, "the Sîlamâvatî throws herself into the increaser of the honey-sweet dew." All this shows how little progress can be made in Vedic scholarship by merely translating either words or verses, without giving at the same time a full justification of the meaning assigned to every single word.
 
-[^209]: See Petersburg Dictionary, s. v. virap_s_in.
+[^206]: Ur_n_âvatî, rich in wool, probably refers to the flocks of sheep for which the North-West of India was famous. See Rig-Veda I. 126, 7.
+
+
+[^205]: Vâ_g_inîvatî is by no means an easy word. Hence all translators vary, and none settles the meaning. Muir translates, "yielding nutriment;" Zimmer, "having plenty of quick horses;" Ludwig, "like a strong mare." Va_g_in, no doubt, means a strong horse, a racer, but va_g_inî never occurs in the Rig-Veda in the sense of a mare, and the text is not va_g_inîvat, but va_g_inîvatî. If vâ_g_inî meant mare, we might translate rich in mares, but that would be a mere repetition after sva_s_vâ, possessed of good horses. Va_g_inîvatî is chiefly applied to Ushas, Sarasvatî, and here to the river Sindhu. It is joined with va_g_ebhi_h_, Rig-Veda I. 3, 10, which, if vâ_g_inî meant mare, would mean "rich in mares through horses." We also read, Rig-Veda I. 48, 16, sám (na_h_ mimikshvá) vã_g_ai_h_ vâ_g_inîvati, which we can hardly translate by "give us horses, thou who art possessed of mares;" nor, Rig-Veda I. 92, 15, yúkshva hí vâ_g_inîvati á_s_vân, "harness the horses, thou who art rich in mares." In most of the passages where vâ_g_inîvatî occurs, the goddess thus addressed is represented as rich, and asked to bestow wealth, and I should therefore prefer to take vâ_g_ínî, as a collective abstract noun, like tretínî, in the sense of wealth, originally booty, and to translate vâ_g_inîvatî simply by rich, a meaning well adapted to every passage where the word occurs.
+
+9\. "The Sindhu has yoked her easy chariot with horses; may she conquer prizes for us in the race. The greatness of her chariot is praised as truly great—that chariot which is irresistible, which has its own glory, and abundant strength."[^209]
+
+This hymn does not sound perhaps very poetical, in our sense of the word; yet if you will try to realize the thoughts of the poet who composed it, you will perceive that it is not without some bold and powerful conceptions.
+
+Take the modern peasants, living in their villages by the side of the Thames, and you must admit that he would be a remarkable man who could bring himself to look on the Thames as a kind of a general, riding at the head of many English rivers, and leading them on to a race or a battle. Yet it is easier to travel in England, and to gain a commanding view of the river-system of the country, than it was three thousand years ago to travel over India, even over that part of India which the poet of our hymn commands. He takes in at one swoop three great river-systems, or, as he calls them, three great armies of rivers—those flowing from the north-west into the Indus, those joining it from the north-east, and, in the distance, the Ganges and the Jumnah with their tributaries. Look on the map and you will see how well these three armies are determined; but our poet had no map—he had nothing but high mountains and sharp eyes to carry out his trigonometrical survey. Now I call a man, who for the first time could _see_ those three marching armies of rivers, a poet.
+
+The next thing that strikes one in that hymn—if hymn we must call it—is the fact that all these rivers, large and small, have their own proper names. That shows a considerable advance in civilized life, and it proves no small degree of coherence, or what the French call _solidarity_, between the tribes who had taken possession of Northern India. Most settlers call the river on whose banks they settle "_the river_." Of course there are many names for river. It may be called the runner,[^210] the fertilizer, the roarer—or, with a little poetical metaphor, the arrow, the horse, the cow, the father, the mother, the watchman, the child of the mountains. Many rivers had many names in different parts of their course, and it was only when communication between different settlements became more frequent, and a fixed terminology was felt to be a matter of necessity, that the rivers of a country were properly baptized and registered. All this had been gone through in India before our hymn became possible.
+
 
 [^210]: "Among the Hottentots, the Kunene, Okavango, and Orange rivers, all have the name of Garib, _i.e._ the Runner."—Dr. Theoph. Hahn, _Cape Times_, July 11, 1882.
 
+And now we have to consider another, to my mind most startling fact. We here have a number of names of the rivers of India, as they were known to one single poet, say about 1000 b.c. We then hear nothing of India till we come to the days of Alexander, and when we look at the names of the Indian rivers, represented as well as they could be by Alexander's companions, mere strangers in India, and by means of a strange language and a strange alphabet, we recognize, without much difficulty, nearly all of the old Vedic names.
+
+In this respect the names of rivers have a great advantage over the names of towns in India. What we now call _Dilli_ or _Delhi_[^211] was in ancient times called Indraprastha, in later times _Shahjahânabâd_. _Oude_ is Ayodhyâ, but the old name of Saketa is forgotten. The town of Pa_t_aliputra, known to the Greeks as _Palimbothra_, is now called _Patna_.[^212]
+
+
 [^211]: _Deh_li, not _Del_-high.—A. W.
 
-[^212]: Cunningham, "Archæological Survey of India," vol. xii. p. 113.
+Now I can assure you this persistency of the Vedic river-names was to my mind something so startling that I often said to myself, This cannot be—there must be something wrong here. I do not wonder so much at the names of the _Indus_ and the _Ganges_ being the same. The Indus was known to early traders, whether by sea or by land. Skylax sailed from the country of the Paktys, _i.e._ the Pushtus, as the Afghans still call themselves, down to the mouth of the Indus. That was under Darius Hystaspes (521-486). Even before that time India and the Indians were known by their name, which was derived from _Sindhu_, the name of their frontier river. The neighboring tribes who spoke Iranic languages all pronounced, like the Persian, the _s_ as an _h_.[^213] Thus Sindhu became Hindhu (Hidhu), and, as h's were dropped even at that early time, Hindhu became Indu. Thus the river was called _Indos_, the people _Indoi_ by the Greeks, who first heard of India from the Persians.
+
 
 [^213]: Pliny, Hist. Nat. vi. 20, 71: "Indus incolis Sindus appellatus."
 
-[^214]: The history of these names has been treated by Professor Lassen, in his "Indische Alterthumskunde," and more lately by Professor Kaegi, in his very careful essay, "Der Rig-Veda," pp. 146, 147.
+_Sindhu_ probably meant originally the divider, keeper, and defender, from sidh, to keep off. It was a masculine, before it became a feminine. No more telling name could have been given to a broad river, which guarded peaceful settlers both against the inroads of hostile tribes and the attacks of wild animals. A common name for the ancient settlements of the Aryans in India was "the Seven Rivers," "Sapta Sindhava_h_." But though sindhu was used as an appellative noun for river in general (cf. Rig-Veda VI. 19, 5, samudré ná síndhava_h_ yâdamânâ_h_, "like rivers longing for the sea"), it remained throughout the whole history of India the name of its powerful guardian river, the Indus.
+
+In some passages of the Rig-Veda it has been pointed out that sindhu might better be translated by "sea," a change of meaning, if so it can be called, fully explained by the geographical conditions of the country. There are places where people could swim across the Indus, there are others where no eye could tell whether the boundless expanse of water should be called river or sea. The two run into each other, as every sailor knows, and naturally the meaning of sindhu, river, runs into the meaning of sindhu, sea.
+
+But besides the two great rivers, the Indus and the Ganges—in Sanskrit the Gangâ, literally the Go-go—we have the smaller rivers, and many of their names also agree with the names preserved to us by the companions of Alexander.[^214]
+
+The Yamunâ, the Jumna, was known to Ptolemy as _Διἁμουνα_,[^215] to Pliny as Jomanes, to Arrian, somewhat corrupted, as Jôbares.[^216]
+
 
 [^215]: Ptol. vii. 1, 29.
 
-[^216]: Arrian, Indica, viii. 5.
+The _S_utudrî, or, as it was afterward called, _S_atadru, meaning "running in a hundred streams," was known to Ptolemy as Ζαδἁρδης or Ζἁραδος ; Pliny called it Sydrus; and Megasthenes, too, was probably acquainted with it as Ζαδἁρδης. In the Veda[^217] it formed with the Vipa_s_ the frontier of the Punjâb, and we hear of fierce battles fought at that time, it may be on the same spot where in 1846 the battle of the Sutledge was fought by Sir Hugh Gough and Sir Henry Hardinge. It was probably on the Vipâ_s_ (later Vipâ_s_â), a north-western tributary of the Sutledge, that Alexander's army turned back. The river was then called Hyphasis; Pliny calls it Hypasis,[^218] a very fair approximation to the Vedic Vipâ_s_, which means "unfettered." Its modern name is Bias or Bejah.
+
+
+[^218]: Other classical names are Hypanis, Bipasis, and Bibasis. Yâska identifies it with the Âr_g_îkîyâ.
+
 
 [^217]: 
     Rig-Veda III. 33, 1: "From the lap of the mountains Vipâ_s_ and _S_utudrî rush forth with their water like two lusty mares neighing, freed from their tethers, like two bright mother-cows licking (their calf).
     
     "Ordered by Indra and waiting his bidding you run toward the sea like two charioteers; running together, as your waters rise, the one goes into the other, you bright ones."
 
-[^218]: Other classical names are Hypanis, Bipasis, and Bibasis. Yâska identifies it with the Âr_g_îkîyâ.
+The next river on the west is the Vedic Parush_n_î, better known as Irâvatî,[^219] which Strabo calls Hyarotis, while Arrian gives it a more Greek appearance by calling it Hydraotes. It is the modern Rawi. It was this river which the Ten Kings when attacking the T_ri_tsus under Sudâs tried to cross from the west by cutting off its water. But their stratagem failed, and they perished in the river (Rig-Veda VII. 18, 8-9).
+
 
 [^219]: Cf. Nirukta IX. 26.
 
+We then come to the Asiknî, which means "black." That river had another name also, _K_andrabhâga, which means "streak of the moon." The Greeks, however, pronounced that Σανδαροφἁγος, and this had the unlucky meaning of "the devourer of Alexander." Hesychius tells us that in order to avert the bad omen Alexander changed the name of that river into Ακεσἱνης, which would mean "the Healer;" but he does not tell, what the Veda tells us, that this name Ακεσἱνης was a Greek adaptation of another name of the same river, namely Asiknî, which had evidently supplied to Alexander the idea of calling the Asiknî Ακεσἱνης. It is the modern Chinâb.
+
+Next to the Akesines we have the Vedic Vitastâ, the last of the rivers of the Punjâb, changed in Greek into Hydaspes. It was to this river that Alexander retired, before sending his fleet down the Indus and leading his army back to Babylon. It is the modern Behat or Jilam.
+
+I could identify still more of these Vedic rivers, such as, for instance, the Kubhâ, the Greek Cophen, the modern Kabul river;[^220] but the names which I have traced from the Veda to Alexander, and in many cases from Alexander again to our own time, seem to me sufficient to impress upon us the real and historical character of the Veda. Suppose the Veda were a forgery—suppose at least that it had been put together after the time of Alexander—how could we explain these names? They are names that have mostly a meaning in Sanskrit, they are names corresponding very closely to their Greek corruptions, as pronounced and written down by people who did not know Sanskrit. How is a forgery possible here?
+
+
 [^220]: "The first tributaries which join the Indus before its meeting with the Kubhâ or the Kabul river cannot be determined. All travellers in these northern countries complain of the continual changes in the names of the rivers, and we can hardly hope to find traces of the Vedic names in existence there after the lapse of three or four thousand years. The rivers intended may be the Shauyook, Ladak, Abba Seen, and Burrindu, and one of the four rivers, the Rasâ, has assumed an almost fabulous character in the Veda. After the Indus has joined the Kubhâ or the Kabul river, two names occur, the Gomatî and Krumu, which I believe I was the first to identify with the modern rivers the Gomal and Kurrum. (Roth, Nirukta, Erläuterungen, p. 43, Anm.) The Gomal falls into the Indus, between Dera Ismael Khan and Paharpore, and although Elphinstone calls it a river only during the rainy season, Klaproth (Foe-koue-ki, p. 23) describes its upper course as far more considerable, and adds: 'Un peu à l'est de Sirmágha, le Gomal traverse la chaîne de montagnes de Solimán, passe devant Raghzi, et fertilise le pays habité par les tribus de Dauletkhail et de Gandehpour. Il se dessèche au défilé de Pezou, et son lit ne se remplit plus d'eau que dans la saison des pluies; alors seulement il rejoint la droite de l'Indus, au sud-est de bourg de Paharpour.' The Kurrum falls into the Indus north of the Gomal, while, according to the poet, we should expect it south. It might be urged that poets are not bound by the same rules as geographers, as we see, for instance, in the verse immediately preceding. But if it should be taken as a serious objection, it will be better to give up the Gomatî than the Krumu, the latter being the larger of the two, and we might then take Gomatî, 'rich in cattle,' as an adjective belonging to Krumu."—From a review of General Cunningham's "Ancient Geography of India," in _Nature_, 1871, Sept. 14.
+
+I selected this hymn for two reasons. First, because it shows us the widest geographical horizon of the Vedic poets, confined by the snowy mountains in the north, the Indus and the range of the Suleiman mountains in the west, the Indus or the seas in the south, and the valley of the Jumna and Ganges in the east. Beyond that, the world, though open, was unknown to the Vedic poets. Secondly, because the same hymn gives us also a kind of historical background to the Vedic age. These rivers, as we may see them to-day, as they were seen by Alexander and his Macedonians, were seen also by the Vedic poets. Here we have an historical continuity—almost living witnesses, to tell us that the people whose songs have been so strangely, ay, you may almost say, so miraculously preserved to us, were real people, lairds with their clans, priests, or rather, servants of their gods, shepherds with their flocks, dotted about on the hills and valleys, with inclosures or palisades here and there, with a few strongholds, too, in case of need—living their short life on earth, as at that time life might be lived by men, without much pushing and crowding and trampling on each other—spring, summer, and winter leading them on from year to year, and the sun in his rising and setting lifting up their thoughts from their meadows and groves which they loved, to a world in the East, from which they had come, or to a world in the West, to which they were gladly hastening on. They had what I call religion, though it was very simple, and hardly reduced as yet to the form of a creed. "There is a Beyond," that was all they felt and knew, though they tried, as well as they could, to give names to that Beyond, and thus to change religion into _a_ religion. They had not as yet a name for God—certainly not in our sense of the word—or even a general name for the gods; but they invented name after name to enable them to grasp and comprehend by some outward and visible tokens powers whose presence they felt in nature, though their true and full essence was to them, as it is to us, invisible and incomprehensible.
+
+## Footnotes
 
 * * *

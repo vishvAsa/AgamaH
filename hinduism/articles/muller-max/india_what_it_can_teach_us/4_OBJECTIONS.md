@@ -49,11 +49,20 @@ I must enter into some details, because, small as they seem, you can see that th
 
 There is one verse in the Rig-Veda, VIII. 78, 2,[^128] which has been translated as follows: "Oh Indra, bring to us a brilliant jewel, a cow, a horse, an ornament, together with a golden Manâ."[^129]
 
+
+[^128]: Ã na_h_ bhara vyá_ñg_anam gãm á_s_vam abhyá_ñg_anam Sá_k_â manã hira_n_yáyâ.
+
 Now what is a golden Manâ? The word does not occur again by itself, either in the Veda or anywhere else, and it has been identified by Vedic scholars with the Latin _mina_, the Greek μνᾶ, the Phœnician _manah_ (מָנֶה), the well-known weight[^130] which we actually possess now among the treasures brought from Babylon and Nineveh to the British Museum.[^131]
+
+
+[^130]: According to Dr. Haupt, Die Sumerisch-akkadische Sprache, p. 272, mana is an Akkadian word.
 
 If this were so, it would be irrefragable evidence of at all events a commercial intercourse between Babylon and India at a very early time, though it would in no way prove a real influence of Semitic on Indian thought. But is it so? If we translate sa_k_â manâ hira_n_yayâ by "with a mina of gold," we must take manâ hira_n_yayâ as instrumental cases. But sa_k_â never governs an instrumental case. This translation therefore is impossible, and although the passage is difficult, because manâ does not occur again in the Rig-Veda, I should think we might take manâ hira_n_yayâ for a dual, and translate, "Give us also two golden armlets." To suppose that the Vedic poets should have borrowed this one word and this one measure from the Babylonians, would be against all the rules of historical criticism. The word manâ never occurs again in the whole of Sanskrit literature, no other Babylonian weight occurs again in the whole of Sanskrit literature, and it is not likely that a poet who asks for a cow and a horse, would ask in the same breath for a foreign weight of gold, that is, for about sixty sovereigns.
 
 But this is not the only loan that India has been supposed to have negotiated in Babylon. The twenty-seven Nakshatras, or the twenty-seven constellations, which were chosen in India as a kind of lunar Zodiac, were supposed to have come from Babylon. Now the Babylonian Zodiac was solar, and, in spite of repeated researches, no trace of a lunar Zodiac has been found, where so many things have been found, in the cuneiform inscriptions. But supposing even that a lunar Zodiac had been discovered in Babylon, no one acquainted with Vedic literature and with the ancient Vedic ceremonial would easily allow himself to be persuaded that the Hindus had borrowed that simple division of the sky from the Babylonians. It is well known that most of the Vedic sacrifices depend on the moon, far more than on the sun.[^132] As the Psalmist says, "He appointed the moon for seasons; the sun knoweth his going down," we read in the Rig-Veda X. 85, 18, in a verse addressed to sun and moon, "They walk by their own power, one after the other (or from east to west), as playing children they go round the sacrifice. The one looks upon all the worlds, the other is born again and again, determining the seasons."
+
+
+[^132]: Preface to the fourth volume of my edition of the Rig-Veda, p. li.
 
 "He becomes new and new, when he is born; as the herald of the days, he goes before the dawns. By his approach he determines their share for the gods, the moon increases a long life."
 
@@ -61,9 +70,15 @@ The moon, then, determines the seasons, the _ri_tus, the moon fixes the share, t
 
 Besides the rites which have to be performed every day, such as the five Mahâya_gñ_as, and the Agnihotra in the morning and the evening, the important sacrifices in Vedic times were the Full and New-moon sacrifices (darsapûr_n_amâsa); the Season-sacrifices (_k_âturmâsya), each season consisting of four months;[^133] and the Half-yearly sacrifices, at the two solstices. There are other sacrifices (âgraya_n_a, etc.) to be performed in autumn and summer, others in winter and spring, whenever rice and barley are ripening.[^134]
 
+
+[^133]: Vai_s_vadevam on the full-moon of Phalguna, Varu_n_apraghâsâ_h_ on the full-moon of Ashâ_dh_a, Sâkamedhâ_h_ on the full-moon of K_ri_ttikâ, see Boehtlingk, Dictionary, s. v.
+
 The regulation of the seasons, as one of the fundamental conditions of an incipient society, seems in fact to have been so intimately connected with the worship of the gods, as the guardians of the seasons and the protectors of law and order, that it is sometimes difficult to say whether in their stated sacrifices the maintenance of the calendar or the maintenance of the worship of the gods was more prominent in the minds of the old Vedic priests.
 
 The twenty-seven Nakshatras then were clearly suggested by the moon's passage.[^135] Nothing was more natural for the sake of counting days, months, or seasons than to observe the twenty-seven places which the moon occupied in her passage from any point of the sky back to the same point. It was far easier than to determine the sun's position either from day to day, or from month to month; for the stars, being hardly visible at the actual rising and setting of the sun, the idea of the sun's conjunction with certain stars could not suggest itself to a listless observer. The moon, on the contrary, progressing from night to night, and coming successively in contact with certain stars, was like the finger of a clock, moving round a circle, and coming in contact with one figure after another on the dial-plate of the sky. Nor would the portion of about one third of a lunation in addition to the twenty-seven stars from new moon to new moon, create much confusion in the minds of the rough-and-ready reckoners of those early times. All they were concerned with were the twenty-seven celestial stations which, after being once traced out by the moon, were fixed, like so many mile-stones, for determining the course of all the celestial travellers that could be of any interest for signs and for seasons, and for days and for years. A circle divided into twenty-seven sections, or any twenty-seven poles planted in a circle at equal distances round a house, would answer the purpose of a primitive Vedic observatory. All that was wanted to be known was between which pair of poles the moon, or afterward the sun also, was visible at their rising or setting, the observer occupying the same central position on every day.
+
+
+[^135]: See Preface to vol. iv. of Rig-Veda, p. li. (1862).
 
 Our notions of astronomy cannot in fact be too crude and too imperfect if we wish to understand the first beginnings in the reckoning of days and seasons and years. We cannot expect in those days more than what any shepherd would know at present of the sun and moon, the stars and seasons. Nor can we expect any observations of heavenly phenomena unless they had some bearing on the practical wants of primitive society.
 
@@ -72,6 +87,9 @@ If then we can watch in India the natural, nay inevitable, growth of the divisio
 The Arabs, as is well known, have twenty-eight lunar stations, the _Manzil_, and I can see no reason why Mohammed and his Bedouins in the desert should not have made the same observation as the Vedic poets in India, though I must admit at the same time that Colebrooke has brought forward very cogent arguments to prove that, in their scientific employment at least, the Arabic Manzil were really borrowed from an Indian source.[^137]
 
 The Chinese, too, have their famous lunar stations, _the Sieu_, originally twenty-four in number, and afterward raised to twenty-eight.[^138] But here again there is no necessity whatever for admitting, with Biot, Lassen, and others, that the Hindus went to China to gain their simplest elementary notions of lunar chrononomy. First of all, the Chinese began with twenty-four, and raised them to twenty-eight; the Hindus began with twenty-seven, and raised them to twenty-eight. Secondly, out of these twenty-eight asterisms, there are seventeen only which can really be identified with the Hindu stars (târâs). Now if a scientific system is borrowed, it is borrowed complete. But, in our case, I see really no possible channel through which Chinese astronomical knowledge could have been conducted to India so early as 1000 before our era. In Chinese literature India is never mentioned before the middle of the second century before Christ; and if the _K_înas in the later Sanskrit literature are meant for Chinese, which is doubtful, it is important to observe that that name never occurs in Vedic literature.[^139]
+
+
+[^138]: See Zimmer, Altindisches Leben, p. xlvii.
 
 When therefore the impossibility of so early a communication between China and India had at last been recognized, a new theory was formed, namely, "that the knowledge of Chinese astronomy was not imported straight from China to India, but was carried, together with the Chinese system of division of the heavens into twenty-eight mansions, into Western Asia, at a period not much later than 1100 b.c., and was then adopted by some Western people, either Semitic or Iranian. In their hands it was supposed to have received a new form, such as adapted it to a ruder and less scientific method of observation, the limiting stars of the mansions being converted into zodiacal groups or constellations, and in some instances altered in position, so as to be brought nearer to the general planetary path of the ecliptic. In this changed form, having become a means of roughly determining and describing the places and movements of the planets, it was believed to have passed into the keeping of the Hindus, very probably along with the first knowledge of the planets themselves, and entered upon an independent career of history in India. It still maintained itself in its old seat, leaving its traces later in the Bundahash; and made its way so far westward as finally to become known and adopted by the Arabs." With due respect for the astronomical knowledge of those who hold this view, all I can say is that this is a novel, and nothing but a novel, without any facts to support it, and that the few facts which are known to us do not enable a careful reasoner to go beyond the conclusions stated many years ago by Colebrooke, that the "Hindus had undoubtedly made some progress at an early period in the astronomy cultivated by them for the regulation of time. Their calendar, both civil and religious, was governed chiefly, not exclusively, by the moon and the sun; and the motions of these luminaries were carefully observed by them, and with such success that their determination of the moon's synodical revolution, which was what they were principally concerned with, is a much more correct one than the Greeks ever achieved. They had a division of the ecliptic into twenty-seven and twenty-eight parts, suggested evidently by the moon's period in days, and seemingly their own; it was certainly borrowed by the Arabians."
 
@@ -105,6 +123,9 @@ We read in the _S_atapatha Brâhma_n_a I. 8, 1:
 
 "5\. Having thus kept the fish, Manu took him to the sea. Then in the same year which the fish had pointed out, Manu, having built the ship, meditated on the fish. And when the flood had risen, Manu entered into the ship. Then the fish swam toward him, and Manu fastened the rope of the ship to the fish's horn, and he thus hastened toward[^140] the Northern Mountain.
 
+
+[^140]: I prefer now the reading of the Kâ_n_va-_s_âkhâ, abhidudrâva, instead of atidudrâva or adhidudrâva of the other MSS. See Weber, Ind. Streifen, i. p. 11.
+
 "6\. The fish said: 'I have saved thee; bind the ship to a tree. May the water not cut thee off, while thou art on the mountain. As the water subsides, do thou gradually slide down with it.' Manu then slid down gradually with the water, and therefore this is called 'the Slope of Manu' on the Northern Mountain. Now the flood had carried away all these creatures, and thus Manu was left there alone.
 
 "7\. Then Manu went about singing praises and toiling, wishing for offspring. And he sacrificed there also with a Pâka-sacrifice. He poured clarified butter, thickened milk, whey, and curds in the water as a libation. In one year a woman arose from it. She came forth as if dripping, and clarified butter gathered on her step. Mitra and Varu_n_a came to meet her.
@@ -121,15 +142,24 @@ We read in the _S_atapatha Brâhma_n_a I. 8, 1:
 
 This, no doubt, is the account of a deluge, and Manu acts in some respects the same part which is assigned to Noah in the Old Testament. But if there are similarities, think of the dissimilarities, and how they are to be explained. It is quite clear that, if this story was borrowed from a Semitic source, it was not borrowed from the Old Testament, for in that case it would really seem impossible to account for the differences between the two stories. That it may have been borrowed[^141] from some unknown Semitic source cannot, of course, be disproved, because no tangible proof has ever been produced that would admit of being disproved. But if it were, it would be the only Semitic loan in ancient Sanskrit literature—and that alone ought to make us pause!
 
+
+[^141]: It is not necessary to establish literary borrowing; for on the theory of Bible inspiration and trustworthiness we must assume that the Aryans as well as the Semites were saved in the ark. The story of _a_ flood supports the story of _the_ flood to a certain extent.—Am. Pubs.
+
 The story of the boar and the tortoise too, can be traced back to the Vedic literature. For we read in the Taittirîya Sa_m_hitâ:[^142]
 
 "At first this was water, fluid. Pra_g_âpati, the lord of creatures, having become wind, moved on it. He saw this earth, and becoming a boar, he took it up. Becoming Vi_s_vakarman, the maker of all things, he cleaned it. It spread and became the widespread Earth, and this is why the Earth is called P_ri_thivî, the widespread."
 
 And we find in the _S_atapatha Brâhma_n_a[^143] the following slight allusion at least to the tortoise myth:
 
+
+[^143]: VII. 5, 1, 5; Muir, "Original Sanskrit Texts," i. p. 54.
+
 "Pra_g_âpati, assuming the form of a tortoise (Kûrma), brought forth all creatures. In so far as he brought them forth, he made them (akarot), and because he made them he was (called) tortoise (Kûrma). A tortoise is (called) Kâ_s_yapa, and therefore all creatures are called Kâ_s_yapa, tortoise-like. He who was this tortoise (Kûrma) was really Âditya (the sun)."
 
 One other allusion to something like a deluge,[^144] important chiefly on account of the name of Manu occurring in it, has been pointed out in the Kâ_th_aka (XI. 2), where this short sentence occurs: "The waters cleaned this, Manu alone remained."
+
+
+[^144]: Weber, "Indische Streifen," i. p. 11.
 
 All this shows that ideas of a deluge, that is, of a submersion of the earth by water and of its rescue through divine aid, were not altogether unknown in the early traditions of India, while in later times they were embodied in several of the Avâtaras of Vish_n_u.
 
@@ -137,69 +167,18 @@ When we examine the numerous accounts of a deluge among different nations in alm
 
 This is nowhere clearer than in Babylon. Sir Henry Rawlinson was the first to point out that the twelve cantos of the poem of Izdubar or Nimrod refer to the twelve months of the year and the twelve representative signs of the Zodiac. Dr. Haupt afterward pointed out that Êabânî, the wise bull-man in the second canto, corresponds to the second month, Ijjar, April-May, represented in the Zodiac by the bull; that the union between Êabânî and Nimrod in the third canto corresponds to the third month, Sivan, May-June, represented in the Zodiac by the twins; that the sickness of Nimrod in the seventh canto corresponds to the seventh month, Tishri, September-October, when the sun begins to wane; and that the flood in the eleventh canto corresponds to the eleventh month, Shaba_t_u, dedicated to the storm-god Rimmôn,[^146] represented in the Zodiac by the waterman.[^147]
 
+
+[^146]: More accurately Ramanu, the Vul or storm-god of George Smith; and the god of the Mind and higher intellect at Babylon. His arcane name is said to have been Yav, יהו or 'Ιἁω.—A. W.
+
 If that is so, we have surely a right to claim the same natural origin for the story of the Deluge in India which we are bound to admit in other countries. And even if it could be proved that in the form in which these legends have reached us in India they show traces of foreign influences,[^148] the fact would still remain that such influences have been perceived in comparatively modern treatises only, and not in the ancient hymns of the Rig-Veda.
+
+
+[^148]: See M. M., "Genesis and Avesta" (German translation), i. p. 148.
 
 Other conjectures have been made with even less foundation than that which would place the ancient poets of India under the influence of Babylon. China has been appealed to, nay even Persia, Parthia, and Bactria, countries beyond the reach of India at that early time of which we are here speaking, and probably not even then consolidated into independent nations or kingdoms. I only wonder that traces of the lost Jewish tribes have not been discovered in the Vedas, considering that Afghanistan has so often been pointed out as one of their favorite retreats.
 
 After having thus carefully examined all the traces of supposed foreign influences that have been brought forward by various scholars, I think I may say that there really is no trace whatever of any foreign influence in the language, the religion, or the ceremonial of the ancient Vedic literature of India. As it stands before us now, so it has grown up, protected by the mountain ramparts in the north, the Indus and the Desert in the west, the Indus or what was called the sea in the south, and the Ganges in the east. It presents us with a home-grown poetry and a home-grown religion; and history has preserved to us at least this one relic, in order to teach us what the human mind can achieve if left to itself, surrounded by a scenery and by conditions of life that might have made man's life on earth a paradise, if man did not possess the strange art of turning even a paradise into a place of misery.[^149]
 
 ## Footnotes
-
-[^127]: If we applied the name of literature to the cylinders of Babylon and the papyri of Egypt, we should have to admit that some of these documents are more ancient than any date we dare as yet assign to the hymns collected in the ten books of the Rig-Veda.
-
-[^128]: Ã na_h_ bhara vyá_ñg_anam gãm á_s_vam abhyá_ñg_anam Sá_k_â manã hira_n_yáyâ.
-
-[^129]: Grassman translates, "Zugleich mit goldenem Geräth;" Ludwig, "Zusammt mit goldenem Zierrath;" Zimmer, "Und eine Manâ gold." The Petersburg Dictionary explains manâ by "ein bestimmtes Geräth oder Gewicht" (Gold).
-
-[^130]: According to Dr. Haupt, Die Sumerisch-akkadische Sprache, p. 272, mana is an Akkadian word.
-
-[^131]: According to the weights of the lions and ducks preserved in the British Museum, an Assyrian mina was = 7747 grains. The same difference is still preserved to the present day, as the _man_ of Shiraz and Bagdâd is just double that of Tabraz and Bushir, the average of the former being 14.0 and that of the latter only 6.985. See Cunningham, "Journal of the Asiatic Society," Calcutta, 1881, p. 163.
-
-[^132]: Preface to the fourth volume of my edition of the Rig-Veda, p. li.
-
-[^133]: Vai_s_vadevam on the full-moon of Phalguna, Varu_n_apraghâsâ_h_ on the full-moon of Ashâ_dh_a, Sâkamedhâ_h_ on the full-moon of K_ri_ttikâ, see Boehtlingk, Dictionary, s. v.
-
-[^134]: See Vish_n_u-sm_ri_ti, ed. Jolly LIX. 4; Ãryabha_t_a, Introduction.
-
-[^135]: See Preface to vol. iv. of Rig-Veda, p. li. (1862).
-
-[^136]: See Zimmer, Altindisches Leben, pp. 352-357.
-
-[^137]: L. c. p. lxx.
-
-[^138]: See Zimmer, Altindisches Leben, p. xlvii.
-
-[^139]:
-    In the Mahâbhârata and elsewhere the _K_înas are mentioned among the Dasyus or non-Aryan races in the north and in the east of India. King Bhagadatta is said to have had an army of _K_înas and Kirâtas,(B1) and the Pâ_nd_avas are said to reach the town of the King of the Kulindas, after having passed through the countries of _K_înas, Tukhâras, and Daradas. All this is as vague as ethnological indications generally are in the late epic poetry of India. The only possibly real element is that Kirâta and _K_îna soldiers are called kâ_ñk_ana, gold or yellow colored,(B2) and compared to a forest of Kar_n_ikâras, which were trees with yellow flowers.(B3) In Mahâbh. VI. 9, v. 373, vol. ii., p. 344, the _K_înas occur in company with Kambo_g_as and Yavanas, which again conveys nothing definite.
-    
-    B1: Lassen, i. p. 1029; Mahâbh. III. 117, v. 12,350; vol. i. p. 619.
-    
-    B2: Mahâbh. V. 18, v. 584; vol. ii. p. 106.
-    
-    B3: See Vâ_k_aspatya s. v.; Ka_sk_it Kar_n_ikâragaura_h_.
-    
-    Chinese scholars tell us that the name of China is of modern origin, and only dates from the Thsin dynasty or from the famous Emperor Shi hoang-ti, 247 b.c. But the name itself, though in a more restricted sense, occurs in earlier documents, and may, as Lassen thinks,(B4) have become known to the Western neighbors of China. It is certainly strange that the _Sinim_ too, mentioned in Isaiah xlix. 12, have been taken by the old commentators for people of China, visiting Babylon as merchants and travellers.
-    
-    B4: Lassen, vol. i. p. 1029, n. 2.
-
-[^140]: I prefer now the reading of the Kâ_n_va-_s_âkhâ, abhidudrâva, instead of atidudrâva or adhidudrâva of the other MSS. See Weber, Ind. Streifen, i. p. 11.
-
-[^141]: It is not necessary to establish literary borrowing; for on the theory of Bible inspiration and trustworthiness we must assume that the Aryans as well as the Semites were saved in the ark. The story of _a_ flood supports the story of _the_ flood to a certain extent.—Am. Pubs.
-
-[^142]: VII. 1, 5, 1 seq.; Muir, i. p. 52; Colebrooke, Essays, i. 75.
-
-[^143]: VII. 5, 1, 5; Muir, "Original Sanskrit Texts," i. p. 54.
-
-[^144]: Weber, "Indische Streifen," i. p. 11.
-
-[^145]: See Lecture V. p. 172.
-
-[^146]: More accurately Ramanu, the Vul or storm-god of George Smith; and the god of the Mind and higher intellect at Babylon. His arcane name is said to have been Yav, יהו or 'Ιἁω.—A. W.
-
-[^147]: See Haupt, "Der Keilinschriftliche Sintfluthbericht, 1881," p. 10.
-
-[^148]: See M. M., "Genesis and Avesta" (German translation), i. p. 148.
-
-[^149]: No one is more competent than the learned author to give a verdict on all the evidence which has been gathered; but we are only at the beginning of research into the intercourse of mankind in remote times, and much that was once thought home-grown has already been traced to distant points. It is in the general line of progress in research that more evidence may be expected to connect Vedic thought with other cultures.—Am. Pubs.
 
 * * *

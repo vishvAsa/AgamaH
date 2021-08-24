@@ -9,6 +9,9 @@ In other poems we hear of the mystery of fire being produced by rubbing pieces o
 
 Soon, however, fire was conceived by the Vedic poets under the more general character of light and warmth, and then the presence of Agni was perceived, not only on the hearth and the altar, but in the Dawn, in the Sun, and in the world beyond the Sun, while at the same time his power was recognized as ripening, or as they called it, as cooking, the fruits of the earth, and as supporting also the warmth and the life of the human body. From that point of view Agni, like other powers, rose to the rank of a Supreme God.[^222] He is said to have stretched out heaven and earth—naturally, because without his light heaven and earth would have been invisible and undistinguishable. The next poet says that Agni held heaven aloft by his light, that he kept the two worlds asunder; and in the end Agni is said to be the progenitor and father of heaven and earth, and the maker of all that flies, or walks, or stands, or moves on earth.
 
+
+[^222]: Muir, iv. p. 214.
+
 Here we have once more the same process before our eyes. The human mind begins with being startled by a single or repeated event, such as the lightning striking a tree and devouring a whole forest, or a spark of fire breaking forth from wood being rubbed against wood, whether in a forest, or in the wheel of a carriage, or at last in a fire-drill, devised on purpose. Man then begins to wonder at what to him is a miracle, none the less so because it is a fact, a simple, natural fact. He sees the effects of a power, but he can only guess at its cause, and if he is to speak of it, he can only do so by speaking of it as an agent, or as something like a human agent, and, if in some respects not quite human, in others more than human or superhuman. Thus the concept of Fire grew; and while it became more and more generalized, it also became more sublime, more incomprehensible, more divine. Without Agni, without fire, light, and warmth, life would have been impossible. Hence he became the author and giver of life, of the life of plants and animals and of men; and his favor having once been implored for "light and life and all things," what wonder that in the minds of some poets, and in the traditions of this or that village-community he should have been raised to the rank of a supreme ruler, a god above all gods, their own true god!
 
 * * *
@@ -21,15 +24,33 @@ By the side of Indra, and associated with him in his battles, and sometimes hard
 
 When speaking of the Wind, a poet says:[^224] "Where was he born? Whence did he spring? the life of the gods, the germ of the world! That god moves about where he listeth, his voices are heard, but he is not to be seen."
 
+
+[^224]: X. 168, 3, 4.
+
 The Maruts are more terrible than Vâta, the wind. They are clearly the representatives of such storms as are known in India, when the air is darkened by dust and clouds, when in a moment the trees are stripped of their foliage, their branches shivered, their stems snapped, when the earth seems to reel and the mountains to shake, and the rivers are lashed into foam and fury. Then the poet sees the Maruts approaching with golden helmets, with spotted skins on their shoulders, brandishing golden spears, whirling their axes, shooting fiery arrows, and cracking their whips amid thunder and lightning. They are the comrades of Indra, sometimes, like Indra, the sons of Dyaus or the sky, but also the sons of another terrible god, called Rudra, or the Howler, a fighting god, to whom many hymns are addressed. In him a new character is evolved, that of a healer and saviour—a very natural transition in India, where nothing is so powerful for dispelling miasmas, restoring health, and imparting fresh vigor to man and beast, as a thunderstorm, following after weeks of heat and drought.
 
 All these and several others, such as Par_g_anya and the _Ri_bhus, are the gods of mid-air, the most active and dramatic gods, ever present to the fancy of the ancient poets, and in several cases the prototypes of later heroes, celebrated in the epic poems of India. In battles, more particularly, these fighting gods of the sky were constantly invoked.[^225] Indra is the leader in battles, the protector of the bright Aryans, the destroyer of the black aboriginal inhabitants of India. "He has thrown down fifty thousand black fellows," the poet says, "and their strongholds crumbled away like an old rag." Strange to say, Indra is praised for having saved his people from their enemies, much as Jehovah was praised by the Jewish prophets. Thus we read in one hymn that when Sudâs, the pious king of the T_ri_tsus, was pressed hard in his battle with the ten kings, Indra changed the flood into an easy ford, and thus saved Sudâs.
 
+
+[^225]: See Kaegi, Rig-Veda, p. 61.
+
 In another hymn we read:[^226] "Thou hast restrained the great river for the sake of Turvîtî Vâyya: the flood moved in obedience to thee, and thou madest the rivers easy to cross." This is not very different from the Psalmist (78:13): "He divided the sea, and caused them to pass through; and he made the waters to stand as an heap."
+
+
+[^226]: Rig-Veda II. 13, 12; IV. 19, 6.
 
 And there are other passages which have reminded some students of the Veda of Joshua's battle,[^227] when the sun stood still and the moon stayed, until the people had avenged themselves upon their enemies. For we read in the Veda also, as Professor Kaegi has pointed out (l. c. p. 63), that "Indra lengthened the days into the night," and that "the Sun unharnessed its chariot in the middle of the day."[^228]
 
+
+[^227]: Joshua x. 13.
+
 In some of the hymns addressed to Indra his original connection with the sky and the thunderstorm seems quite forgotten. He has become a spiritual god, the only king of all worlds and all people,[^229] who sees and hears everything,[^230] nay, who inspires men with their best thoughts. No one is equal to him, no one excels him.
+
+
+[^230]: L. c. VIII. 78, 5.
+
+
+[^229]: L. c. VIII. 37, 3.
 
 The name of Indra is peculiar to India, and must have been formed after the separation of the great Aryan family had taken place, for we find it neither in Greek, nor in Latin, nor in German. There are Vedic gods, as I mentioned before, whose names must have been framed before that separation, and which occur therefore, though greatly modified in character, sometimes in Greek, sometimes in Latin, sometimes in the Celtic, Teutonic, and Slavonic dialects. Dyaus, for instance, is the same word as Zeus or Jupiter, Ushas is Eos, Naktâ is Nyx, Sûrya is Helios, Agni is ignis, Bhaga is Baga in Old Persian, Bogŭ in Old Slavonic, Varu_n_a is Uranos, Vâta is Wotan, Vâ_k_ is vox, and in the name of the _Maruts_, or the storm-gods, the germs of the Italic god of war, Mars, have been discovered. Besides these direct coincidences, some indirect relations have been established between Hermes and Sârameya, Dionysos and Dyuni_s_ya, Prometheus and pramantha, Orpheus and _Ri_bhu, Erinnys and Sâra_n_yu, Pân and Pavaṇa.[^231]
 
@@ -37,13 +58,22 @@ But while the name of Indra as the god of the sky, also as the god of the thunde
 
 Sometimes this Par_g_anya stands in the place of Dyaus, the sky. Thus we read in the Atharva-Veda, XII. 1, 12:[^232] "The Earth is the mother, and I am the son of the Earth. Par_g_anya is the father; may he help us!"
 
+
+[^232]: Muir, iv. p. 23.
+
 In another place (XII. 1, 42) the Earth, instead of being the wife of Heaven or Dyaus, is called the wife of Par_g_anya.
 
 Now who or what is this Par_g_anya? There have been long controversies about him,[^233] as to whether he is the same as Dyaus, Heaven, or the same as Indra, the successor of Dyaus, whether he is the god of the sky, of the cloud, or of the rain.
 
+
+[^233]: Ibid. p. 142. An excellent paper on Par_g_anya was published by Bühler in 1862, "Orient und Occident," vol. i. p. 214.
+
 To me it seems that this very expression, god of the sky, god of the cloud, is so entire an anachronism that we could not even translate it into Vedic Sanskrit without committing a solecism. It is true, no doubt, we must use our modern ways of speaking when we wish to represent the thoughts of the ancient world; but we cannot be too much on our guard against accepting the dictionary representative of an ancient word for its real counterpart. Deva, no doubt, means "gods" and "god," and Par_g_anya means "cloud," but no one could say in Sanskrit par_g_anyasya deva_h_, "the god of the cloud." The god, or the divine, or transcendental element, does not come from without, to be added to the cloud or to the sky or to the earth, but it springs from the cloud and the sky and the earth, and is slowly elaborated into an independent concept. As many words in ancient languages have an undefined meaning, and lend themselves to various purposes according to the various intentions of the speakers, the names of the gods also share in this elastic and plastic character of ancient speech. There are passages where Par_g_anya means cloud, there are passages where it means rain. There are passages where Par_g_anya takes the place which elsewhere is filled by Dyaus, the sky, or by Indra, the active god of the atmosphere. This may seem very wrong and very unscientific to the scientific mythologist. But it cannot be helped. It is the nature of ancient thought and ancient language to be unscientific, and we must learn to master it as well as we can, instead of finding fault with it, and complaining that our forefathers did not reason exactly as we do.
 
 There are passages in the Vedic hymns where Par_g_anya appears as a supreme god. He is called father, like Dyaus, the sky. He is called asura, the living or life-giving god, a name peculiar to the oldest and the greatest gods. One poet says,[^234] "He rules as god over the whole world; all creatures rest in him; he is the life (âtmâ) of all that moves and rests."
+
+
+[^234]: Rig-Veda VII. 101, 6.
 
 Surely it is difficult to say more of a supreme god than what is here said of Par_g_anya. Yet in other hymns he is represented as performing his office, namely that of sending rain upon the earth, under the control of Mitra and Varu_n_, who are then considered as the highest lords, the mightiest rulers of heaven and earth.[^235]
 
@@ -51,7 +81,13 @@ There are other verses, again, where par_g_anya occurs with hardly any traces of
 
 Thus we read:[^236] "Even by day the Maruts (the storm-gods) produce darkness with the cloud that carries water, when they moisten the earth." Here cloud is par_g_anya, and it is evidently used as an appellative, and not as a proper name. The same word occurs in the plural also, and we read of many par_g_anyas or clouds vivifying the earth.[^237]
 
+
+[^236]: L. c. I. 38, 9.
+
 When Devapi prays for rain in favor of his brother, he says:[^238] "O lord of my prayer (B_ri_haâpati), whether thou be Mitra or Varu_n_a or Pûshan, come to my sacrifice! Whether thou be together with the Âdityas, the Vasus or the Maruts, let the cloud (par_g_anya) rain for _S_antanu."
+
+
+[^238]: L. c. X. 98, 1.
 
 And again: "Stir up the rainy cloud" (par_g_anya).
 
@@ -66,6 +102,9 @@ I shall try to translate one of the hymns addressed to Par_g_anya, when conceive
 3\. "Like a charioteer, striking his horses with a whip, he puts forths his messenger of rain. From afar arise the roarings of the lion, when Par_g_anya makes the sky full of rain.
 
 4\. "The winds blow, the lightnings[^240] fly, plants spring up, the sky pours. Food is produced for the whole world, when Par_g_anya blesses the earth with his seed.
+
+
+[^240]: Both Bühler ("Orient und Occident," vol. i, p. 224) and Zimmer (Z. f. D. A. vii. p. 169) say that the lightning is represented as the son of Par_g_anya in Rig-Veda VII. 101, 1. This seems doubtful.
 
 5\. "O Par_g_anya, thou at whose work the earth bows down, thou at whose work hoofed animals are scattered, thou at whose work the plants assume all forms, grant thou to us thy great protection!
 
@@ -85,13 +124,22 @@ There is even a moral sentiment perceptible in this hymn. "When the storms roar,
 
 If now we ask again, Who is Par_g_anya? or What is Par_g_anya? we can answer that par_g_anya was meant originally for the cloud, so far as it gives rain; but as soon as the idea of a giver arose, the visible cloud became the outward appearance only, or the body of that giver, and the giver himself was somewhere else, we know not where. In some verses Par_g_anya seems to step into the place of Dyaus, the sky, and P_ri_thivî, the earth, is his wife. In other places,[^241] however, he is the son of Dyaus or the sky, though no thought is given in that early stage to the fact that thus Par_g_anya might seem to be the husband of his mother. We saw that even the idea of Indra being the father of his own father did not startle the ancient poets beyond an exclamation that it was a very wonderful thing indeed.
 
+
+[^241]: Rig-Veda VII. 102, 1.
+
 Sometimes Par_g_anya does the work of Indra,[^242] the Jupiter Pluvius of the Veda; sometimes of Vâyu, the wind, sometimes of Soma, the giver of rain. Yet with all this he is not Dyaus, nor Indra, nor the Maruts, nor Vâyu, nor Soma. He stands by himself, a separate person, a separate god, as we should say—nay, one of the oldest of all the Aryan gods.
+
+
+[^242]: L. c. VIII. 6, 1.
 
 His name, par_g_anya, is derived from a root par_g_, which, like its parallel forms pars and parsh, must (I think) have had the meaning of sprinkling, irrigating, moistening. An interchange between final _g_, _s_, and sh, may, no doubt, seem unusual, but it is not without parallel in Sanskrit. We have, for instance, the roots pi_ñg_, pingere; pish, to rub; pi_s_, to adorn (as in pe_s_as, ποικἱλος, etc.); m_rig_, to rub, m_ri_sh, to rub out, to forget; m_ris_, mulcere.
 
 This very root m_rig_ forms its participle as m_ri_sh-_t_a, like ya_g_, ish_t_a, and vi_s_, vish_t_a; nay there are roots, such as druh, which optionally take a final lingual or guttural, such as dhru_t_ and dhruk.[^243]
 
 We may therefore compare par_g_ in par_g_anya with such words as p_ri_shata, p_ri_shatî, speckled, drop of water;[^244] also par_s_u, cloud, p_ris_ni, speckled, cloud, earth; and in Greek πρόξ(ω), περκνός, etc.[^245]
+
+
+[^244]: Cf. Gobh. G_ri_hyà S. III. 3, 15, vidyut—stanayitnu—p_ri_shiteshu.
 
 If derived from par_g_, to sprinkle, Par_g_anya would have meant originally "he who irrigates or gives rain."[^246]
 
@@ -103,6 +151,9 @@ The Lituanian language even as it is now spoken by the common people, contains s
 
 Now in that remote Lituanian language we find that our old friend Par_g_anya has taken refuge. There he lives to the present day, while even in India he is almost forgotten, at least in the spoken languages; and there, in Lituania, not many centuries back might be heard among a Christianized or nearly Christianized people, prayers for rain, not very different from that which I translated to you from the Rig-Veda. In Lituanian the god of thunder was called _Perkúnas_,[^247] and the same word is still used in the sense of thunder. In Old Prussian, thunder was _percunos_, and in Lettish to the present day _pérkons_ is thunder, god of thunder.[^248]
 
+
+[^247]: In order to identify Perkunas with Par_g_anya, we must go another step backward, and look upon _g_ or g, in the root parg, as a weakening of an original k in park. This, however, is a frequent phonetic process. See Bühler, in Benfey's "Orient und Occident," ii. p. 717.
+
 It was, I believe, Grimm who for the first time identified the Vedic Par_g_anya with the Old Slavonic Perûn, the Polish Piorun, the Bohemian Peraun. These words had formerly been derived by Dobrovsky and others from the root peru, I strike. Grimm ("Teutonic Mythology," Engl. transl., p. 171) showed that the fuller forms Perkunas, Pehrkons, and Perkunos existed in Lituanian, Lettish, Old Prussian, and that even the Mordvinians had adopted the name Porguini as that of their thunder-god.
 
 Simon Grunau, who finished his chronicle in 1521, speaks of three gods, as worshipped by the Old Prussians, Patollo, Patrimpo, and Perkuno, and he states that Perkuno was invoked "for storm's sake, that they might have rain and fair weather at the proper time, and thunder and lightning should not injure them."[^249]
@@ -112,6 +163,9 @@ The following Lituanian prayer has been preserved to us by Lasitzki:[^250]
 "Check thyself, O Percuna, and do not send misfortune on my field! and I shall give thee this flitch."
 
 Among the neighbors of the Lets, the Esthonians, who, though un-Aryan in language, have evidently learned much from their Aryan neighbors, the following prayer was heard,[^251] addressed by an old peasant to their god _Picker_ or _Picken_, the god of thunder and rain, as late as the seventeenth century.[^252]
+
+
+[^251]: Grimm, l. c. p. 176, quoting from Joh. Gutslaff, "Kurzer Bericht und Unterricht von der falsch heilig genannten Bäche in Liefland Wöhhanda," Dorpat, 1644, pp. 362-364.
 
 "Dear Thunder (woda Picker), we offer to thee an ox that has two horns and four cloven hoofs; we would pray thee for our ploughing and sowing, that our straw be copper-red, our grain golden-yellow. Push elsewhere all the thick black clouds, over great fens, high forests, and wildernesses. But unto us, ploughers and sowers, give a fruitful season and sweet rain. Holy Thunder (pöha Picken), guard our seed-field, that it bear good straw below, good ears above, and good grain within."[^253]
 
@@ -163,92 +217,23 @@ We have thus seen from the hymns and prayers preserved to us in the Rig-Veda, ho
 
 "Varu_n_a, the great lord of these worlds, sees as if he were near. If a man stands or walks or hides, if he goes to lie down or to get up, what two people sitting together whisper to each other, King Varu_n_a knows it, he is there as the third.[^257] This earth too belongs to Varu_n_a, the King, and this wide sky with its ends far apart. The two seas (the sky and the ocean) are Varu_n_a's loins; he is also contained in this small drop of water. He who should flee far beyond the sky, even he would not be rid of Varu_n_a, the King.[^258] His spies proceed from heaven toward this world; with thousand eyes they overlook this earth. King Varu_n_a sees all this, what is between heaven and earth, and what is beyond. He has counted the twinklings of the eyes of men. As a player throws down the dice, he settles all things (irrevocably). May all thy fatal snares which stand spread out seven by seven and threefold, catch the man who tells a lie, may they pass by him who speaks the truth."
 
+
+[^258]: Psalm cxxxix. 9, "If I take the wings of the morning, and dwell in the uttermost parts of the sea; even there shall thy hand lead me, and thy right hand shall hold me."
+
+
+[^257]: Psalm cxxxix. 1, 2, "O Lord, thou hast searched me and known me. Thou knowest my downsitting and mine uprising, thou understandest my thought afar off."
+
 You see this is as beautiful, and in some respects as true, as anything in the Psalms. And yet we know that there never was such a Deva, or god, or such a thing as Varu_n_a. We know it is a mere name, meaning originally "covering or all-embracing," which was applied to the visible starry sky, and afterward, by a process perfectly intelligible, developed into the name of a Being, endowed with human and superhuman qualities.
 
 And what applies to Varu_n_a applies to all the other gods of the Veda and the Vedic religion, whether three in number, or thirty-three, or, as one poet said, "three thousand three hundred and thirty-nine gods."[^259] They are all but names, quite as much as Jupiter and Apollo and Minerva; in fact, quite as much as all the gods of every religion who are called by such appellative titles.
+
+
+[^259]: Rig-veda III. 9, 9; X. 52, 6.
 
 Possibly, if any one had said this during the Vedic age in India, or even during the Periklean age in Greece, he would have been called, like Sokrates, a blasphemer or an atheist. And yet nothing can be clearer or truer, and we shall see that some of the poets of the Veda too, and, still more, the later Vedântic philosopher, had a clear insight that it was so.
 
 Only let us be careful in the use of that phrase "it is a mere name." No name is a mere name. Every name was originally meant for something; only it often failed to express what it was meant to express, and then became a weak or an empty name, or what we then call "a mere name." So it was with these names of the Vedic gods. They were all meant to express the _Beyond_, the Invisible behind the Visible, the Infinite within the Finite, the Supernatural above the Natural, the Divine, omnipresent, and omnipotent. They failed in expressing what, by its very nature, must always remain inexpressible. But that Inexpressible itself remained, and in spite of all these failures, it never succumbed, or vanished from the mind of the ancient thinkers and poets, but always called for new and better names, nay calls for them even now, and will call for them to the very end of man's existence upon earth.
 
 ## Footnotes
-
-[^221]: Muir, iv. p. 209
-
-[^222]: Muir, iv. p. 214.
-
-[^223]: Hibbert Lectures, p. 307.
-
-[^224]: X. 168, 3, 4.
-
-[^225]: See Kaegi, Rig-Veda, p. 61.
-
-[^226]: Rig-Veda II. 13, 12; IV. 19, 6.
-
-[^227]: Joshua x. 13.
-
-[^228]: Rig-Veda IV. 30, 3; X. 138, 3.
-
-[^229]: L. c. VIII. 37, 3.
-
-[^230]: L. c. VIII. 78, 5.
-
-[^231]: I am very strongly inclined to regard these names as Kushite or Semitic; Hermes, from חרם, the sun; Dionysos, from _dyan_, the judge, and _nisi_, mankind; Orpheus, from _Orfa_, the Arabic name of Edessa; Prometheus, from _pro_ and _manthanô_, to learn.—A. W.
-
-[^232]: Muir, iv. p. 23.
-
-[^233]: Ibid. p. 142. An excellent paper on Par_g_anya was published by Bühler in 1862, "Orient und Occident," vol. i. p. 214.
-
-[^234]: Rig-Veda VII. 101, 6.
-
-[^235]: Rig-Veda V. 63, 3-6.
-
-[^236]: L. c. I. 38, 9.
-
-[^237]: L. c. I. 164, 51.
-
-[^238]: L. c. X. 98, 1.
-
-[^239]: Rig-Veda V. 83. See Bühler, "Orient und Occident," vol. i. p. 214; Zimmer, "Altindisches Leben," p. 43.
-
-[^240]: Both Bühler ("Orient und Occident," vol. i, p. 224) and Zimmer (Z. f. D. A. vii. p. 169) say that the lightning is represented as the son of Par_g_anya in Rig-Veda VII. 101, 1. This seems doubtful.
-
-[^241]: Rig-Veda VII. 102, 1.
-
-[^242]: L. c. VIII. 6, 1.
-
-[^243]: See Max Müller, Sanskrit Grammar, § 174, 10.
-
-[^244]: Cf. Gobh. G_ri_hyà S. III. 3, 15, vidyut—stanayitnu—p_ri_shiteshu.
-
-[^245]: U_gg_valadatta, in his commentary on the U_n_âdi-sûtras, iii. 103. admits the same transition of sh into _g_ in the verb p_ri_sh, as the etymon of par_g_anya.
-
-[^246]: For different etymologies, see Bühler, "Orient und Occident," i. p. 214; Muir, "Original Sanskrit Texts," v. p. 140; Grassmann, in his Dictionary to the Rig-Veda, s. v.; Zimmer, "Zeitscrift für Deutsches Alterthum, Neue Folge," vii. p. 164.
-
-[^247]: In order to identify Perkunas with Par_g_anya, we must go another step backward, and look upon _g_ or g, in the root parg, as a weakening of an original k in park. This, however, is a frequent phonetic process. See Bühler, in Benfey's "Orient und Occident," ii. p. 717.
-
-[^248]: Lituanian perkun-kulke, thunder-bolt, perkuno gaisis, storm. See Voelkel, "Die lettischen Sprachreste," 1879, p. 23.
-
-[^249]: "Perkuno, war der dritte Abgott und man ihn anruffte um's Gewitters willen, damit sie Regen hätten und schön wetter zu seiner Zeit, und ihn der Donner und blix kein schaden thett." Cf. "Gottesides bei den alten Preussen," Berlin, 1870, p. 23. The triad of the gods is called Triburti, Tryboze; l. c. p. 29.
-
-[^250]: Grimm, "Teutonic Mythology," p. 175; and Lasitzki (Lasicius) "Joannes De Russorum, Moscovitarum et Tartarorum religione, sacrificiis, nuptiarum et funerum ritu, Spiræ Nemetum," 1582; idem De Diis Samagitarum.
-
-[^251]: Grimm, l. c. p. 176, quoting from Joh. Gutslaff, "Kurzer Bericht und Unterricht von der falsch heilig genannten Bäche in Liefland Wöhhanda," Dorpat, 1644, pp. 362-364.
-
-[^252]: In modern Esthonian Pitkne, the Finnish Pitcainen(?).
-
-[^253]: On foreign influences in Esthonian stories, see "Ehstniche Märchen," von T. Kreutzwald, 1869, Vorwort (by Schiefner), p. iv.
-
-[^254]: Grimm suggests in his "Teutonic Mythology" that Par_g_anya should be identified with the Gothic fairguni, or mountain. He imagines that from being regarded as the abode of the god it had finally been called by his name. Ferg_unn_a and V_ir_gu_n_ià, two names of mountains in Germany, are relics of the name. The name of the god, if preserved in the Gothic, would have been Fairguneis; and indeed in the Old Norse language Fiörgynn is the father of Frigg, the wife of Odin, and Fiörgynnior, the Earth-goddess, is mother of Thor. Professor Zimmer takes the same view. Grimm thinks that the Greeks and Romans, by changing _f_ into _h_, represented Fergunni by Hercynia, and, in fine, he traces the words _ber_g and _bur_g back to Parganya.—A. W.
-
-[^255]: Rig-Veda II. 28.
-
-[^256]: Atharva-Veda IV. 16.
-
-[^257]: Psalm cxxxix. 1, 2, "O Lord, thou hast searched me and known me. Thou knowest my downsitting and mine uprising, thou understandest my thought afar off."
-
-[^258]: Psalm cxxxix. 9, "If I take the wings of the morning, and dwell in the uttermost parts of the sea; even there shall thy hand lead me, and thy right hand shall hold me."
-
-[^259]: Rig-veda III. 9, 9; X. 52, 6.
 
 * * *
