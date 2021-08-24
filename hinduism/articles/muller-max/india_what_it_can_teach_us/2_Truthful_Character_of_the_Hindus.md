@@ -307,9 +307,10 @@ No doubt there is moral depravity in India, and where is there no moral depravit
 
 [^27]: See Elphinstone, "History of India," ed. Cowell, p. 219, note. "Of the 232 sentences of death 64 only were carried out in England, while the 59 sentences of death in Bengal were all carried out."
 
-[^28]: Sir Ch. Trevelyan, Christianity and Hinduism, 1882, p. 42.
-
-This will be news to many. It has been quite common to include the Thugs with the worshippers of Bhavani, the consort of Siva. The word signifies a deceiver, which eliminates it from every religious association.—A. W.
+[^28]: 
+    Sir Ch. Trevelyan, Christianity and Hinduism, 1882, p. 42.
+    
+    This will be news to many. It has been quite common to include the Thugs with the worshippers of Bhavani, the consort of Siva. The word signifies a deceiver, which eliminates it from every religious association.—A. W.
 
 [^29]: Manu VII. 115.
 
@@ -391,9 +392,10 @@ Ludlow ("British India," I. 62) writes: "In every Hindu village which has retain
 
 [^66]: This is the favorite expression of Plato for the Divine, which Cary, Davis, and others render "Real Being."—A. W.
 
-[^67]: Sometimes they trace even this Satya or _Ri_ta, the Real or Right, to a still higher cause, and say (Rig-Veda X. 190, 1):
-
-"The Right and Real was born from the Lighted Heat; from thence was born Night, and thence the billowy sea. From the sea was born Sa_m_vatsara, the year, he who ordereth day and night, the Lord of all that moves (winks). The Maker (dhât_ri_) shaped Sun and Moon in order; he shaped the sky, the earth, the welkin, and the highest heaven."
+[^67]: 
+    Sometimes they trace even this Satya or _Ri_ta, the Real or Right, to a still higher cause, and say (Rig-Veda X. 190, 1):
+    
+    "The Right and Real was born from the Lighted Heat; from thence was born Night, and thence the billowy sea. From the sea was born Sa_m_vatsara, the year, he who ordereth day and night, the Lord of all that moves (winks). The Maker (dhât_ri_) shaped Sun and Moon in order; he shaped the sky, the earth, the welkin, and the highest heaven."
 
 [^68]: Rig-Veda I. 23, 22.
 
