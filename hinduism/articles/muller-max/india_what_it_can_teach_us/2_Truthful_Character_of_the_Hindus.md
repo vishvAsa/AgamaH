@@ -23,7 +23,7 @@ I can hardly think of anything that you could safely predicate of _all_ the inha
 
 Let me read you what Sir John Malcolm says about the diversity of character to be observed by any one who has eyes to observe, among the different races whom we promiscuously call Hindus, and whom we promiscuously condemn as Hindus. After describing the people of Bengal as weak in body and timid in mind, and those below Calcutta as the lowest of our Hindu subjects, both in character and appearance, he continues: "But from the moment you enter the district of Behar, the Hindu inhabitants are a race of men, generally speaking, not more distinguished by their lofty stature and robust frame than they are for some of the finest qualities of the mind. They are brave, generous, humane, and their truth is as remarkable as their courage."
 
-But because I feel bound to protest against the indiscriminating abuse that has been heaped on the people of India from the Himâlaya to Ceylon, do not suppose that it is my wish or intention to draw an ideal picture of India, leaving out all the dark shades, and giving you nothing but "sweetness and light." Having never been in India myself, I can only claim for myself the right and duty of every historian, namely, the right of collecting as much information as possible, and the duty to sift it according to the recognized rules of historical criticism. My chief sources of information with regard to the national character of the Indians in ancient times will be the works of Greek writers and the literature of the ancient Indians themselves. For later times we must depend on the statements of the various conquerors of India, who are not always the most lenient judges of those whom they may find it more difficult to rule than to conquer. For the last century to the present day, I shall have to appeal, partly to the authority of those who, after spending an active life in India and among the Indians, have given us the benefit of their experience in published works, partly to the testimony of a number of distinguished civil servants and of Indian gentlemen also, whose personal acquaintance I have enjoyed in England, in France, and in Germany.
+But because I feel bound to protest against the indiscriminating abuse that has been heaped on the people of India from the Himālaya to Ceylon, do not suppose that it is my wish or intention to draw an ideal picture of India, leaving out all the dark shades, and giving you nothing but "sweetness and light." Having never been in India myself, I can only claim for myself the right and duty of every historian, namely, the right of collecting as much information as possible, and the duty to sift it according to the recognized rules of historical criticism. My chief sources of information with regard to the national character of the Indians in ancient times will be the works of Greek writers and the literature of the ancient Indians themselves. For later times we must depend on the statements of the various conquerors of India, who are not always the most lenient judges of those whom they may find it more difficult to rule than to conquer. For the last century to the present day, I shall have to appeal, partly to the authority of those who, after spending an active life in India and among the Indians, have given us the benefit of their experience in published works, partly to the testimony of a number of distinguished civil servants and of Indian gentlemen also, whose personal acquaintance I have enjoyed in England, in France, and in Germany.
 
 As I have chiefly to address myself to those who will themselves be the rulers and administrators of India in the future, allow me to begin with the opinions which some of the most eminent, and, I believe, the most judicious among the Indian civil servants of the past have formed and deliberately expressed on the point which we are to-day discussing, namely, the veracity or want of veracity among the Hindus.
 
@@ -106,9 +106,9 @@ In order to hunt up these gangs, Colonel Sleeman had constantly to live among th
     
     This will be news to many. It has been quite common to include the Thugs with the worshippers of Bhavani, the consort of Siva. The word signifies a deceiver, which eliminates it from every religious association.—A. W.
 
-Now what Colonel Sleeman continually insists on is that no one knows the Indians who does not know them in their village-communities—what we should now call their _communes_. It is that village-life which in India has given its peculiar impress to the Indian character, more so than in any other country we know. When in Indian history we hear so much of kings and emperors, of râjahs and mahârâjahs, we are apt to think of India as an Eastern monarchy, ruled by a central power, and without any trace of that self-government which forms the pride of England. But those who have most carefully studied the political life of India tell you the very opposite.
+Now what Colonel Sleeman continually insists on is that no one knows the Indians who does not know them in their village-communities—what we should now call their _communes_. It is that village-life which in India has given its peculiar impress to the Indian character, more so than in any other country we know. When in Indian history we hear so much of kings and emperors, of rājahs and mahārājahs, we are apt to think of India as an Eastern monarchy, ruled by a central power, and without any trace of that self-government which forms the pride of England. But those who have most carefully studied the political life of India tell you the very opposite.
 
-The political unit, or the social cell in India has always been, and, in spite of repeated foreign conquests, is still the village-community. Some of these political units will occasionally combine or be combined for common purposes (such a confederacy being called a grâmajâla), but each is perfect in itself. When we read in the Laws of Manu[^29] of officers appointed to rule over ten, twenty, a hundred, or a thousand of these villages, that means no more than that they were responsible for the collection of taxes, and generally for the good behavior of these villages. And when, in later times, we hear of circles of eighty-four villages, the so-called Chourasees (caturaśîti[^30]), and of three hundred and sixty villages, this too seems to refer to fiscal arrangements only. To the ordinary Hindu, I mean to ninety-nine in every hundred, the village was his world, and the sphere of public opinion, with its beneficial influences on individuals, seldom extended beyond the horizon of his village.[^31]
+The political unit, or the social cell in India has always been, and, in spite of repeated foreign conquests, is still the village-community. Some of these political units will occasionally combine or be combined for common purposes (such a confederacy being called a grāmajāla), but each is perfect in itself. When we read in the Laws of Manu[^29] of officers appointed to rule over ten, twenty, a hundred, or a thousand of these villages, that means no more than that they were responsible for the collection of taxes, and generally for the good behavior of these villages. And when, in later times, we hear of circles of eighty-four villages, the so-called Chourasees (caturaśîti[^30]), and of three hundred and sixty villages, this too seems to refer to fiscal arrangements only. To the ordinary Hindu, I mean to ninety-nine in every hundred, the village was his world, and the sphere of public opinion, with its beneficial influences on individuals, seldom extended beyond the horizon of his village.[^31]
 
 
 
@@ -130,7 +130,7 @@ That village-life, however, is naturally the least known to English officials, n
 
 
 
-[^34]: Vasish_th_a, translated by Bühler, VIII. 8.
+[^34]: Vasishṭha, translated by Bühler, VIII. 8.
 
 [^33]: "Perjury seems to be committed by the meanest and encouraged by some of the better sort among the Hindus and Mussulmans, with as little remorse as if it were a proof of ingenuity, or even a merit."—Sir W. Jones, Address to Grand Jury at Calcutta, in Mill's "History of India," vol. i., p. 324. "The longer we possess a province, the more common and grave does perjury become."—Sir G. Campbell, quoted by Rev. Samuel Johnson, "Oriental Religions, India," p. 288.
 
@@ -154,7 +154,7 @@ In their own tribunals under the pipal-tree or cotton-tree, imagination commonly
 
 
 
-[^38]: Vasish_th_a XVI. 32.
+[^38]: Vasishṭha XVI. 32.
 
 [^37]: Sleeman, "Rambles," vol. ii., p. 116.
 
@@ -212,7 +212,7 @@ Now, it is quite true that during the two thousand years which precede the time 
 
 _Ktesias_, the famous Greek physician of Artaxerxes Mnemon (present at the battle of Cunaxa, 404 b.c.), the first Greek writer who tells us anything about the character of the Indians, such as he heard it described at the Persian court, has a special chapter "On the Justice of the Indians."[^39]
 
-_Megasthenes_,[^40] the ambassador of Seleucus Nicator at the court of Sandrocottus in Palibothra (Pâṭaliputra, the modern Patna), states that thefts were extremely rare, and that they honored truth and virtue.[^41]
+_Megasthenes_,[^40] the ambassador of Seleucus Nicator at the court of Sandrocottus in Palibothra (Pāṭaliputra, the modern Patna), states that thefts were extremely rare, and that they honored truth and virtue.[^41]
 
 
 
@@ -237,7 +237,7 @@ The Chinese, who come next in order of time, bear the same, I believe, unanimous
 [^45]: Vol. ii., p. 83.
 
 
-[^44]: See Stanislas Julien, _Journal Asiatique_, 1847, Août, pp. 98, 105.
+[^44]: See Stanislas Julien, _Journal Asiatique_, 1847, Aoūt, pp. 98, 105.
 
 If we turn to the accounts given by the Mohammedan conquerors of India, we find Idrisi, in his Geography (written in the eleventh century), summing up their opinion of the Indians in the following words:[^46]
 
@@ -246,7 +246,7 @@ If we turn to the accounts given by the Mohammedan conquerors of India, we find 
 
 [^46]: Elliot, "History of India," vol. i., p. 88.
 
-Again, in the thirteenth century, Shems-ed-din Abu Abdallah quotes the following judgment of Bedi ezr Zenân: "The Indians are innumerable, like grains of sand, free from all deceit and violence. They fear neither death nor life."[^47]
+Again, in the thirteenth century, Shems-ed-din Abu Abdallah quotes the following judgment of Bedi ezr Zenān: "The Indians are innumerable, like grains of sand, free from all deceit and violence. They fear neither death nor life."[^47]
 
 In the thirteenth century we have the testimony of Marco Polo,[^48]who thus speaks of the _Abraiaman_, a name by which he seems to mean the Brahmans who, though, not traders by profession, might well have been employed for great commercial transactions by the king. This was particularly the case during times which the Brahmans would call times of distress, when many things were allowed which at other times were forbidden by the laws. "You must know," Marco Polo says, "that these Abraiaman are the best merchants in the world, and the most truthful, for they would not tell a lie for anything on earth."
 
@@ -254,11 +254,11 @@ In the thirteenth century we have the testimony of Marco Polo,[^48]who thus spea
 [^48]: "Marco Polo," ed. H. Yule, vol. ii., p. 350.
 
 
-[^47]: See Mehren: "Manuel de la Cosmographie du moyen âge, traduction de l'ouvrage de Shems-ed-din Abou Abdallah de Damas." Paris: Leroux, 1874, p. 371.
+[^47]: See Mehren: "Manuel de la Cosmographie du moyen āge, traduction de l'ouvrage de Shems-ed-din Abou Abdallah de Damas." Paris: Leroux, 1874, p. 371.
 
 In the fourteenth century we have Friar Jordanus, who goes out of his way to tell us that the people of Lesser India (South and Western India) are true in speech and eminent in justice.[^49]
 
-In the fifteenth century, Kamal-eddin Abd-errazak Samarkandi (1413-1482), who went as ambassador of the Khakan to the prince of Kalikut and to the King of Vidyânagara (about 1440-1445), bears testimony to the perfect security which merchants enjoy in that country.[^50]
+In the fifteenth century, Kamal-eddin Abd-errazak Samarkandi (1413-1482), who went as ambassador of the Khakan to the prince of Kalikut and to the King of Vidyānagara (about 1440-1445), bears testimony to the perfect security which merchants enjoy in that country.[^50]
 
 
 
@@ -284,7 +284,7 @@ But if all this is true, how is it, you may well ask, that public opinion in Eng
 
 I have already hinted at some of the reasons. Public opinion with regard to India is made up in England chiefly by those who have spent their lives in Calcutta, Bombay, Madras, or some other of the principal towns in India. The native element in such towns contains mostly the most unfavorable specimens of the Indian population. An insight into the domestic life of the more respectable classes, even in towns, is difficult to obtain; and, when it is obtained, it is extremely difficult to judge of their manners according to our standard of what is proper, respectable, or gentlemanlike. The misunderstandings are frequent and often most grotesque; and such, we must confess, is human nature, that when we hear the different and often most conflicting accounts of the character of the Hindus, we are naturally skeptical with regard to unsuspected virtues among them, while we are quite disposed to accept unfavorable accounts of their character.
 
-Lest I should seem to be pleading too much on the native side of the question, and to exaggerate the difficulty of forming a correct estimate of the character of the Hindus, let me appeal to one of the most distinguished, learned, and judicious members of the Indian Civil Service, the author of the "History of India," Mountstuart Elphinstone. "Englishmen in India,"[^53] he says, "have less opportunity than might be expected of forming opinions of the native character. Even in England, few know much of the people beyond their own class, and what they do know, they learn from newspapers and publications of a description which does not exist in India. In that country also, religion and manners put bars to our intimacy with the natives, and limit the number of transactions as well as the free communication of opinions. We know nothing of the interior of families but by report, and have no share in those numerous occurrences of life in which the amiable parts of character are most exhibited." "Missionaries of a different religion,[^54] judges, police-magistrates, officers of revenue or customs, and even diplomatists, do not see the most virtuous portion of a nation, nor any portion, unless when influenced by passion, or occupied by some personal interest. What we _do_ see we judge by our own standard. We conclude that a man who cries like a child on slight occasions must always be incapable of acting or suffering with dignity; and that one who allows himself to be called a liar would not be ashamed of any baseness. Our writers also confound the distinctions of time and place; they combine in one character the Maratta and the Bengalese, and tax the present generation with the crimes of the heroes of the Mahâbhârata. It might be argued, in opposition to many unfavorable testimonies, that those who have known the Indians longest have always the best opinion of them; but this is rather a compliment to human nature than to them, since it is true of every other people. It is more in point, that all persons who have retired from India think better of the people they have left, after comparing them with others, even of the most justly-admired nations."
+Lest I should seem to be pleading too much on the native side of the question, and to exaggerate the difficulty of forming a correct estimate of the character of the Hindus, let me appeal to one of the most distinguished, learned, and judicious members of the Indian Civil Service, the author of the "History of India," Mountstuart Elphinstone. "Englishmen in India,"[^53] he says, "have less opportunity than might be expected of forming opinions of the native character. Even in England, few know much of the people beyond their own class, and what they do know, they learn from newspapers and publications of a description which does not exist in India. In that country also, religion and manners put bars to our intimacy with the natives, and limit the number of transactions as well as the free communication of opinions. We know nothing of the interior of families but by report, and have no share in those numerous occurrences of life in which the amiable parts of character are most exhibited." "Missionaries of a different religion,[^54] judges, police-magistrates, officers of revenue or customs, and even diplomatists, do not see the most virtuous portion of a nation, nor any portion, unless when influenced by passion, or occupied by some personal interest. What we _do_ see we judge by our own standard. We conclude that a man who cries like a child on slight occasions must always be incapable of acting or suffering with dignity; and that one who allows himself to be called a liar would not be ashamed of any baseness. Our writers also confound the distinctions of time and place; they combine in one character the Maratta and the Bengalese, and tax the present generation with the crimes of the heroes of the Mahābhārata. It might be argued, in opposition to many unfavorable testimonies, that those who have known the Indians longest have always the best opinion of them; but this is rather a compliment to human nature than to them, since it is true of every other people. It is more in point, that all persons who have retired from India think better of the people they have left, after comparing them with others, even of the most justly-admired nations."
 
 
 [^54]: This statement may well be doubted. The missionary staff in India is very large and has been for years past. There is no reason to doubt that many of its members are well informed respecting Hindoo character in all grades of society.—Am. Pubs.
@@ -349,7 +349,7 @@ Now one of the highest praises bestowed upon the gods in the Veda is that they a
 
 [^62]: Rig-Veda I. 87, 4; 145, 5; 174, 1; V. 23, 2.
 
-Other words applied to the gods as truthful beings are, adrogha, lit. not deceiving.[^63] Adrogha-vâc means, he whose word is never broken. Thus Indra, the Vedic Jupiter, is said to have been praised by the fathers[^64] "as reaching the enemy, overcoming him, standing on the summit, _true of speech_, most powerful in thought."
+Other words applied to the gods as truthful beings are, adrogha, lit. not deceiving.[^63] Adrogha-vāc means, he whose word is never broken. Thus Indra, the Vedic Jupiter, is said to have been praised by the fathers[^64] "as reaching the enemy, overcoming him, standing on the summit, _true of speech_, most powerful in thought."
 
 
 [^64]: Rig-Veda VI. 22, 2.
@@ -357,18 +357,18 @@ Other words applied to the gods as truthful beings are, adrogha, lit. not deceiv
 
 [^63]: Rig-Veda III. 32, 9; VI. 5, 1.
 
-Droghavâc,[^65] on the contrary, is used for deceitful men. Thus Vasish_th_a, one of the great Vedic poets, says: "If I had worshipped false gods, or if I believed in the gods vainly—but why art thou angry with us, O jâtavedas? May liars go to destruction!"
+Droghavāc,[^65] on the contrary, is used for deceitful men. Thus Vasishṭha, one of the great Vedic poets, says: "If I had worshipped false gods, or if I believed in the gods vainly—but why art thou angry with us, O jātavedas? May liars go to destruction!"
 
 
 [^65]: Rig-Veda III. 14, 6.
 
-Satyam, as a neuter, is often used as an abstract, and is then rightly translated by truth. But it also means that which is, the true, the real; and there are several passages in the Rig-Veda where, instead of _truth_, I think we ought simply to translate satyam by the true, that is, the real, τὸ ὄντως ὄν.[^66] It sounds, no doubt, very well to translate Satyena uttabhitâ bhûmiḥ by "the earth is founded on truth;" and I believe every translator has taken satya in that sense here. Ludwig translates, "Von der Wahrheit ist die Erde gestützt." But such an idea, if it conveys any tangible meaning at all, is far too abstract for those early poets and philosophers. They meant to say "the earth, such as we see it, is held up, that is, rests on something real, though we may not see it, on something which they called the Real,[^67] and to which, in course of time, they gave many more names, such as r̥ta, the right, Brahman," etc.
+Satyam, as a neuter, is often used as an abstract, and is then rightly translated by truth. But it also means that which is, the true, the real; and there are several passages in the Rig-Veda where, instead of _truth_, I think we ought simply to translate satyam by the true, that is, the real, τὸ ὄντως ὄν.[^66] It sounds, no doubt, very well to translate Satyena uttabhitā bhūmiḥ by "the earth is founded on truth;" and I believe every translator has taken satya in that sense here. Ludwig translates, "Von der Wahrheit ist die Erde gestützt." But such an idea, if it conveys any tangible meaning at all, is far too abstract for those early poets and philosophers. They meant to say "the earth, such as we see it, is held up, that is, rests on something real, though we may not see it, on something which they called the Real,[^67] and to which, in course of time, they gave many more names, such as r̥ta, the right, Brahman," etc.
 
 
 [^67]: 
     Sometimes they trace even this Satya or r̥ta, the Real or Right, to a still higher cause, and say (Rig-Veda X. 190, 1):
     
-    "The Right and Real was born from the Lighted Heat; from thence was born Night, and thence the billowy sea. From the sea was born Saṁvatsara, the year, he who ordereth day and night, the Lord of all that moves (winks). The Maker (dhâtr̥) shaped Sun and Moon in order; he shaped the sky, the earth, the welkin, and the highest heaven."
+    "The Right and Real was born from the Lighted Heat; from thence was born Night, and thence the billowy sea. From the sea was born Saṁvatsara, the year, he who ordereth day and night, the Lord of all that moves (winks). The Maker (dhātr̥) shaped Sun and Moon in order; he shaped the sky, the earth, the welkin, and the highest heaven."
 
 
 [^66]: This is the favorite expression of Plato for the Divine, which Cary, Davis, and others render "Real Being."—A. W.
@@ -387,7 +387,7 @@ Or again, in the Atharva-Veda IV. 16:
 
 "May all thy fatal snares, which stand spread out seven by seven and threefold, catch the man who tells a lie, may they pass by him who tells the truth!"
 
-From the Brâhmaṇas, or theological treatises of the Brahmans, I shall quote a few passages only:
+From the Brāhmaṇas, or theological treatises of the Brahmans, I shall quote a few passages only:
 
 "Whosoever[^70] speaks the truth, makes the fire on his own altar blaze up, as if he poured butter into the lighted fire. His own light grows larger, and from to-morrow to to-morrow he becomes better. But whosoever speaks untruth, he quenches the fire on his altar, as if he poured water into the lighted fire; his own light grows smaller and smaller, and from to-morrow to to-morrow he becomes more wicked. Let man therefore speak truth only."[^71]
 
@@ -395,7 +395,7 @@ From the Brâhmaṇas, or theological treatises of the Brahmans, I shall quote a
 
 [^71]: Cf. Muir, "Metrical Translations," p. 268.
 
-[^70]: śatapatha Brâhmaṇa II. 2, 3, 19.
+[^70]: śatapatha Brāhmaṇa II. 2, 3, 19.
 
 And again:[^72] "A man becomes impure by uttering falsehood."
 
@@ -405,24 +405,24 @@ And again:[^72] "A man becomes impure by uttering falsehood."
 And again:[^73] "As a man who steps on the edge of a sword placed over a pit cries out, I shall slip, I shall slip into the pit, so let a man guard himself from falsehood (or sin)."
 
 
-[^73]: Taitt. Âraṇyaka X. 9.
+[^73]: Taitt. āraṇyaka X. 9.
 
 In later times we see the respect for truth carried to such an extreme, that even a promise, unwittingly made, is considered to be binding.
 
-In the Ka_th_a-Upanishad, for instance, a father is introduced offering what is called an _All_-sacrifice, where everything is supposed to be given up. His son, who is standing by, taunts his father with not having altogether fulfilled his vow, because he has not sacrificed his son. Upon this, the father, though angry and against his will, is obliged to sacrifice his son. Again, when the son arrives in the lower world, he is allowed by the Judge of the Dead to ask for three favors. He then asks to be restored to life, to be taught some sacrificial mysteries, and, as the third boon, he asks to know what becomes of man after he is dead. Yama, the lord of the Departed, tries in vain to be let off from answering this last question. But he, too, is bound by his promise, and then follows a discourse on life after death, or immortal life, which forms one of the most beautiful chapters in the ancient literature of India.
+In the Kaṭha-Upanishad, for instance, a father is introduced offering what is called an _All_-sacrifice, where everything is supposed to be given up. His son, who is standing by, taunts his father with not having altogether fulfilled his vow, because he has not sacrificed his son. Upon this, the father, though angry and against his will, is obliged to sacrifice his son. Again, when the son arrives in the lower world, he is allowed by the Judge of the Dead to ask for three favors. He then asks to be restored to life, to be taught some sacrificial mysteries, and, as the third boon, he asks to know what becomes of man after he is dead. Yama, the lord of the Departed, tries in vain to be let off from answering this last question. But he, too, is bound by his promise, and then follows a discourse on life after death, or immortal life, which forms one of the most beautiful chapters in the ancient literature of India.
 
-The whole plot of one of the great epic poems, the Râmâyaṇa, rests on a rash promise given by Daśaratha, king of Ayodhyâ, to his second wife, Kaikeyî, that he would grant her two boons. In order to secure the succession to her own son, she asks that Râma, the eldest son by the king's other wife, should be banished for fourteen years. Much as the king repents his promise, Râma, his eldest son, would on no account let his father break his word, and he leaves his kingdom to wander in the forest with his wife Sitâ and his brother Lakshmaṇa. After the father's death, the son of the second wife declines the throne, and comes to Râma to persuade him to accept the kingdom of his father. But all in vain. Râma will keep his exile for fourteen years, and never disown his father's promise. Here follows a curious dialogue between a Brâhman jâbâli and Prince Râma, of which I shall give some extracts:[^74]
+The whole plot of one of the great epic poems, the Rāmāyaṇa, rests on a rash promise given by Daśaratha, king of Ayodhyā, to his second wife, Kaikeyî, that he would grant her two boons. In order to secure the succession to her own son, she asks that Rāma, the eldest son by the king's other wife, should be banished for fourteen years. Much as the king repents his promise, Rāma, his eldest son, would on no account let his father break his word, and he leaves his kingdom to wander in the forest with his wife Sitā and his brother Lakshmaṇa. After the father's death, the son of the second wife declines the throne, and comes to Rāma to persuade him to accept the kingdom of his father. But all in vain. Rāma will keep his exile for fourteen years, and never disown his father's promise. Here follows a curious dialogue between a Brāhman jābāli and Prince Rāma, of which I shall give some extracts:[^74]
 
-"The Brâhman, who is a priest and courtier, says, 'Well, descendant of Raghu, do not thou, so noble in sentiments, and austere in character, entertain, like a common man, this useless thought. What man is a kinsman of any other? What relationship has any one with another? A man is born alone and dies alone. Hence he who is attached to any one as his father or his mother, is to be regarded as if he were insane, for no one belongs to another. Thou oughtest not to abandon thy father's kingdom and stay here in a sad and miserable abode, attended with many trials. Let thyself be inaugurated king in the wealthy Ayodhyâ. Daśaratha, thy father is nothing to thee, or thou to him; the king is one, and thou another, do therefore what is said.... Then offer oblations to the departed spirits (of thy forefathers) on prescribed days; but see what a waste of food! For what can a dead man eat? If what is eaten by one here enters into the body of another (viz., of the departed), let śrâddhas be offered to those who are travelling; they need not then get food to eat on their journey. These books (the Vedas), (which enjoin men to) sacrifice, give, consecrate themselves, practise austerities, and forsake the world, are composed by clever men to induce others to bestow gifts. Authoritative words do not fall from heaven. Let me, and others like yourselves, embrace whatever assertion is supported by reason. Adhere to what is apparent to the senses, and reject what is invisible.... _This world is the next world_; do thou therefore enjoy pleasure, for every virtuous man does not gain it. Virtuous men are greatly distressed, while the unrighteous are seen to be happy.'"
+"The Brāhman, who is a priest and courtier, says, 'Well, descendant of Raghu, do not thou, so noble in sentiments, and austere in character, entertain, like a common man, this useless thought. What man is a kinsman of any other? What relationship has any one with another? A man is born alone and dies alone. Hence he who is attached to any one as his father or his mother, is to be regarded as if he were insane, for no one belongs to another. Thou oughtest not to abandon thy father's kingdom and stay here in a sad and miserable abode, attended with many trials. Let thyself be inaugurated king in the wealthy Ayodhyā. Daśaratha, thy father is nothing to thee, or thou to him; the king is one, and thou another, do therefore what is said.... Then offer oblations to the departed spirits (of thy forefathers) on prescribed days; but see what a waste of food! For what can a dead man eat? If what is eaten by one here enters into the body of another (viz., of the departed), let śrāddhas be offered to those who are travelling; they need not then get food to eat on their journey. These books (the Vedas), (which enjoin men to) sacrifice, give, consecrate themselves, practise austerities, and forsake the world, are composed by clever men to induce others to bestow gifts. Authoritative words do not fall from heaven. Let me, and others like yourselves, embrace whatever assertion is supported by reason. Adhere to what is apparent to the senses, and reject what is invisible.... _This world is the next world_; do thou therefore enjoy pleasure, for every virtuous man does not gain it. Virtuous men are greatly distressed, while the unrighteous are seen to be happy.'"
 
 
 [^74]: Muir, "Metrical Translations," p. 218.
 
-These positivist sentiments sound strange, particularly from the mouth of a Brâhman. But the poet evidently wishes to represent a Brâhman living at court, who has an argument ready for anything and everything that is likely to please his king.
+These positivist sentiments sound strange, particularly from the mouth of a Brāhman. But the poet evidently wishes to represent a Brāhman living at court, who has an argument ready for anything and everything that is likely to please his king.
 
-But what does Râma answer? "The words," he says, "which you have addressed to me, though they recommend what _seems_ to be right and salutary, advise, in fact, the contrary. The sinful transgressor, who lives according to the rules of heretical systems, obtains no esteem from good men. It is good conduct that marks a man to be noble or ignoble, heroic or a pretender to manliness, pure or impure. Truth and mercy are immemorial characteristics of a king's conduct. Hence royal rule is in its essence _truth_. On truth the word is based. Both sages and gods have esteemed truth. The man who speaks truth in this world attains the highest imperishable state. Men shrink with fear and horror from a liar as from a serpent. In this world the chief element in virtue is truth; it is called the basis of everything. Truth is lord in the world; virtue always rests on truth. All things are founded on truth; nothing is higher than it. Why, then, should I not be true to my promise, and faithfully observe the truthful injunction given by my father? Neither through covetousness, nor delusion, nor ignorance, will I, overpowered by darkness, break through the barrier of truth, but remain true to my promise to my father. How shall I, having promised to him that I would thus reside in the forests, transgress his injunction, and do what Bharata recommends?"
+But what does Rāma answer? "The words," he says, "which you have addressed to me, though they recommend what _seems_ to be right and salutary, advise, in fact, the contrary. The sinful transgressor, who lives according to the rules of heretical systems, obtains no esteem from good men. It is good conduct that marks a man to be noble or ignoble, heroic or a pretender to manliness, pure or impure. Truth and mercy are immemorial characteristics of a king's conduct. Hence royal rule is in its essence _truth_. On truth the word is based. Both sages and gods have esteemed truth. The man who speaks truth in this world attains the highest imperishable state. Men shrink with fear and horror from a liar as from a serpent. In this world the chief element in virtue is truth; it is called the basis of everything. Truth is lord in the world; virtue always rests on truth. All things are founded on truth; nothing is higher than it. Why, then, should I not be true to my promise, and faithfully observe the truthful injunction given by my father? Neither through covetousness, nor delusion, nor ignorance, will I, overpowered by darkness, break through the barrier of truth, but remain true to my promise to my father. How shall I, having promised to him that I would thus reside in the forests, transgress his injunction, and do what Bharata recommends?"
 
-The other epic poem too, the Mahâbhârata, is full of episodes showing a profound regard for truth and an almost slavish submission to a pledge once given. The death of Bhîshma, one of the most important events in the story of the Mahâbhârata, is due to his vow never to hurt a woman. He is thus killed by śikhandin, whom he takes to be a woman.[^75]
+The other epic poem too, the Mahābhārata, is full of episodes showing a profound regard for truth and an almost slavish submission to a pledge once given. The death of Bhîshma, one of the most important events in the story of the Mahābhārata, is due to his vow never to hurt a woman. He is thus killed by śikhandin, whom he takes to be a woman.[^75]
 
 Were I to quote from all the law-books, and from still later works, everywhere you would hear the same key-note of truthfulness vibrating through them all.
 
@@ -437,35 +437,35 @@ We must not, however, suppress the fact that, under certain circumstances, a lie
 
 [^76]: V. 24.
 
-This is a large admission, yet even in that open admission there is a certain amount of honesty. Again and again in the Mahâbhârata is this excuse pleaded.[^78] Nay, there is in the Mahâbhârata[^79] the well-known story of Kauśika, called Satyavâdin, the Truth-speaker, who goes to hell for having spoken the truth. He once saw men flying into the forest before robbers (dasyu). The robbers came up soon after them, and asked Kauśika, which way the fugitives had taken. He told them the truth, and the men were caught by the robbers and killed. But Kauśika, we are told, went to hell for having spoken the truth.
+This is a large admission, yet even in that open admission there is a certain amount of honesty. Again and again in the Mahābhārata is this excuse pleaded.[^78] Nay, there is in the Mahābhārata[^79] the well-known story of Kauśika, called Satyavādin, the Truth-speaker, who goes to hell for having spoken the truth. He once saw men flying into the forest before robbers (dasyu). The robbers came up soon after them, and asked Kauśika, which way the fugitives had taken. He told them the truth, and the men were caught by the robbers and killed. But Kauśika, we are told, went to hell for having spoken the truth.
 
 
-[^79]: Mahâbhârata VIII. 3448.
+[^79]: Mahābhārata VIII. 3448.
 
 
 [^78]: I. 3412; III. 13844; VII. 8742; VIII. 3436, 3464.
 
-The Hindus may seem to have been a priest-ridden race, and their devotion to sacrifice and ceremonial is well known. Yet this is what the poet of the Mahâbhârata dares to say:
+The Hindus may seem to have been a priest-ridden race, and their devotion to sacrifice and ceremonial is well known. Yet this is what the poet of the Mahābhārata dares to say:
 
 "Let a thousand sacrifices (of a horse) and truth be weighed in the balance—truth will exceed the thousand sacrifices."[^80]
 
-These are words addressed by śakuntalâ, the deserted wife, to King Dushyanta, when he declined to recognize her and his son. And when he refuses to listen to her appeal, what does she appeal to as the highest authority?—_The voice of conscience._
+These are words addressed by śakuntalā, the deserted wife, to King Dushyanta, when he declined to recognize her and his son. And when he refuses to listen to her appeal, what does she appeal to as the highest authority?—_The voice of conscience._
 
 
-[^80]: Muir, l. c. p. 268; Mahâbhârata I. 3095.
+[^80]: Muir, l. c. p. 268; Mahābhārata I. 3095.
 
 "If you think I am alone," she says to the king, "you do not know that wise man within your heart. He knows of your evil deed—in _his_ sight you commit sin. A man who has committed sin may think that no one knows it. The gods know it and the old man within."[^81]
 
-This must suffice. I say once more that I do not wish to represent the people of India as two hundred and fifty-three millions of angels, but I do wish it to be understood and to be accepted as a fact, that the damaging charge of untruthfulness brought against that people is utterly unfounded with regard to ancient times. It is not only not true, but the very opposite of the truth. As to modern times, and I date them from about 1000 after Christ, I can only say that, after reading the accounts of the terrors and horrors of Mohammedan rule, my wonder is that so much of native virtue and truthfulness should have survived. You might as well expect a mouse to speak the truth before a cat, as a Hindu before a Mohammedan judge.[^82] If you frighten a child, that child will tell a lie; if you terrorize millions, you must not be surprised if they try to escape from your fangs. Truthfulness is a luxury, perhaps the greatest, and let me assure you, the most expensive luxury in our life—and happy the man who has been able to enjoy it from his very childhood. It may be easy enough in our days and in a free country, like England, never to tell a lie—but the older we grow, the harder we find it to be always true, to speak the truth, the whole truth, and nothing but the truth. The Hindus too had made that discovery. They too knew how hard, nay how impossible it is, always to speak the truth, the whole truth, and nothing but the truth. There is a short story in the śatapatha Brâhmaṇa, to my mind full of deep meaning, and pervaded by the real sense of truth, the real sense of the difficulty of truth. His kinsman said to Aruṇa Aupaveśi, "Thou art advanced in years, establish thou the sacrificial fires." He replied: "Thereby you tell me henceforth to keep silence. For he who has established the fires must not speak an untruth, and only by not speaking at all, one speaks no untruth. To that extent the service of the sacrificial fires consists in truth."[^83]
+This must suffice. I say once more that I do not wish to represent the people of India as two hundred and fifty-three millions of angels, but I do wish it to be understood and to be accepted as a fact, that the damaging charge of untruthfulness brought against that people is utterly unfounded with regard to ancient times. It is not only not true, but the very opposite of the truth. As to modern times, and I date them from about 1000 after Christ, I can only say that, after reading the accounts of the terrors and horrors of Mohammedan rule, my wonder is that so much of native virtue and truthfulness should have survived. You might as well expect a mouse to speak the truth before a cat, as a Hindu before a Mohammedan judge.[^82] If you frighten a child, that child will tell a lie; if you terrorize millions, you must not be surprised if they try to escape from your fangs. Truthfulness is a luxury, perhaps the greatest, and let me assure you, the most expensive luxury in our life—and happy the man who has been able to enjoy it from his very childhood. It may be easy enough in our days and in a free country, like England, never to tell a lie—but the older we grow, the harder we find it to be always true, to speak the truth, the whole truth, and nothing but the truth. The Hindus too had made that discovery. They too knew how hard, nay how impossible it is, always to speak the truth, the whole truth, and nothing but the truth. There is a short story in the śatapatha Brāhmaṇa, to my mind full of deep meaning, and pervaded by the real sense of truth, the real sense of the difficulty of truth. His kinsman said to Aruṇa Aupaveśi, "Thou art advanced in years, establish thou the sacrificial fires." He replied: "Thereby you tell me henceforth to keep silence. For he who has established the fires must not speak an untruth, and only by not speaking at all, one speaks no untruth. To that extent the service of the sacrificial fires consists in truth."[^83]
 
 
 
-[^83]: śatapatha Brâhmaṇa, translated by Eggeling, "Sacred Books of the East," vol. xii., p. 313, § 20.
+[^83]: śatapatha Brāhmaṇa, translated by Eggeling, "Sacred Books of the East," vol. xii., p. 313, § 20.
 
 [^82]: This explains satisfactorily how the Hindoos became liars, and of course admits that they did become so.—Am. Pubs.
 
 
-[^81]: Mahâbhârata I. 3015-16.
+[^81]: Mahābhārata I. 3015-16.
 
 I doubt whether in any other of the ancient literatures of the world you will find traces of that extreme sensitiveness of conscience which despairs of our ever speaking the truth, and which declares silence gold, and speech silver, though, in a much higher sense than our proverb.
 
@@ -478,14 +478,14 @@ What I should wish to impress on those who will soon find themselves the rulers 
 
 If you approach the Hindus with such feelings, you will teach them neither rectitude, nor science, nor literature. Nay, they might appeal to their own literature, even to their law-books, to teach us at least one lesson of truthfulness, truthfulness to ourselves, or, in other words, humility.
 
-What does Yâ_gñ_avalkya say?[^85]
+What does Yājñavalkya say?[^85]
 
 "It is not our hermitage," he says—our religion we might say—"still less the color of our skin, that produces virtue; virtue must be practiced. Therefore let no one do to others what he would not have done to himself."
 
 
 [^85]: IV. 65.
 
-And the laws of the Mânavas, which were so much abused by Mill, what do they teach?[^86]
+And the laws of the Mānavas, which were so much abused by Mill, what do they teach?[^86]
 
 "Evil-doers think indeed that no one sees them; but the gods see them, and the old man within."
 
@@ -504,7 +504,7 @@ And the laws of the Mânavas, which were so much abused by Mill, what do they te
 
 "O friend, whatever good thou mayest have done from thy very birth, all will go to the dogs, if thou speak an untruth."
 
-Or in Vasish_th_a, XXX. 1:
+Or in Vasishṭha, XXX. 1:
 
 "Practice righteousness, not unrighteousness; speak truth, not untruth; look far, not near; look up toward the highest, not toward anything low."
 
