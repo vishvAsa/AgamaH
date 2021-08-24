@@ -109,7 +109,7 @@ The Chinese, too, have their famous lunar stations, _the Sieu_, originally twent
 
 
 [^139]:
-    In the Mahābhārata and elsewhere the cînas are mentioned among the Dasyus or non-Aryan races in the north and in the east of India. King Bhagadatta is said to have had an army of cînas and Kirātas,(B1) and the Pā_nd_avas are said to reach the town of the King of the Kulindas, after having passed through the countries of cînas, Tukhāras, and Daradas. All this is as vague as ethnological indications generally are in the late epic poetry of India. The only possibly real element is that Kirāta and cîna soldiers are called kā_ñk_ana, gold or yellow colored,(B2) and compared to a forest of Karṇikāras, which were trees with yellow flowers.(B3) In Mahābh. VI. 9, v. 373, vol. ii., p. 344, the cînas occur in company with Kambojas and Yavanas, which again conveys nothing definite.
+    In the Mahābhārata and elsewhere the cînas are mentioned among the Dasyus or non-Aryan races in the north and in the east of India. King Bhagadatta is said to have had an army of cînas and Kirātas,(B1) and the Pānḍavas are said to reach the town of the King of the Kulindas, after having passed through the countries of cînas, Tukhāras, and Daradas. All this is as vague as ethnological indications generally are in the late epic poetry of India. The only possibly real element is that Kirāta and cîna soldiers are called kā_ñk_ana, gold or yellow colored,(B2) and compared to a forest of Karṇikāras, which were trees with yellow flowers.(B3) In Mahābh. VI. 9, v. 373, vol. ii., p. 344, the cînas occur in company with Kambojas and Yavanas, which again conveys nothing definite.
     
     B1: Lassen, i. p. 1029; Mahābh. III. 117, v. 12,350; vol. i. p. 619.
     

@@ -303,7 +303,7 @@ In order to gain a little light, I think we ought to distinguish between—
 
 1\. The daily ancestral sacrifice, the Pitr̥yajña, as one of the five Great Sacrifices (Mahāyajñas);
 
-2\. The monthly ancestral sacrifice, the Pi_nd_a-pitr̥-yajña, as part of the New and Full-moon sacrifice;
+2\. The monthly ancestral sacrifice, the Pinḍa-pitr̥-yajña, as part of the New and Full-moon sacrifice;
 
 3\. The funeral ceremonies on the death of a householder;
 
@@ -357,11 +357,11 @@ This Pitr̥yajña, as one of the five daily sacrifices, is described in the Brā
 
 [^299]: "Taittirîyāraṇyaka," Preface, p. 23.
 
-Quite different from this simple daily ancestral offering is the Pitr̥yajña or Pi_nd_a-pitr̥yajña, which forms part of many of the statutable sacrifices, and, first of all, of the New and Full-moon sacrifice. Here again the human motive is intelligible enough. It was the contemplation of the regular course of nature, the discovery of order in the coming and going of the heavenly bodies, the growing confidence in some ruling power of the world which lifted man's thoughts from his daily work to higher regions, and filled his heart with a desire to approach these higher powers with praise, thanksgiving, and offerings. And it was at such moments as the waning of the moon that his thoughts would most naturally turn to those whose life had waned, whose bright faces were no longer visible on earth, his fathers or ancestors. Therefore at the very beginning of the New-moon sacrifice, we are told in the Brāhmaṇas[^300] and in the śrauta-sūtras, that a Pitr̥yajña, a sacrifice to the Fathers, has to be performed. A caru or pie had to be prepared in the Dakshiṇāgni, the southern fire, and the offerings, consisting of water and round cakes (pi_nd_as), were specially dedicated to father, grandfather, and great-grandfather, while the wife of the sacrificer, if she wished for a son, was allowed to eat one of the cakes.[^301]
+Quite different from this simple daily ancestral offering is the Pitr̥yajña or Pinḍa-pitr̥yajña, which forms part of many of the statutable sacrifices, and, first of all, of the New and Full-moon sacrifice. Here again the human motive is intelligible enough. It was the contemplation of the regular course of nature, the discovery of order in the coming and going of the heavenly bodies, the growing confidence in some ruling power of the world which lifted man's thoughts from his daily work to higher regions, and filled his heart with a desire to approach these higher powers with praise, thanksgiving, and offerings. And it was at such moments as the waning of the moon that his thoughts would most naturally turn to those whose life had waned, whose bright faces were no longer visible on earth, his fathers or ancestors. Therefore at the very beginning of the New-moon sacrifice, we are told in the Brāhmaṇas[^300] and in the śrauta-sūtras, that a Pitr̥yajña, a sacrifice to the Fathers, has to be performed. A caru or pie had to be prepared in the Dakshiṇāgni, the southern fire, and the offerings, consisting of water and round cakes (pinḍas), were specially dedicated to father, grandfather, and great-grandfather, while the wife of the sacrificer, if she wished for a son, was allowed to eat one of the cakes.[^301]
 
 
 
-[^301]: See "Pi_nd_apitr̥yajña," von Dr. O. Donner, 1870. The restriction to three ancestors, father, grandfather, and great-grandfather, occurs in the Vājasaneyi-saṁhitā, XIX. 36-37.
+[^301]: See "Pinḍapitr̥yajña," von Dr. O. Donner, 1870. The restriction to three ancestors, father, grandfather, and great-grandfather, occurs in the Vājasaneyi-saṁhitā, XIX. 36-37.
 
 [^300]: Māsi māsi vo 'sanam iti śruteḥ; Gobhilîya Gr̥hya sūtras, p. 1055.
 
@@ -372,7 +372,7 @@ It may be quite true that these two kinds of ancestral sacrifices have the same 
 We now come to a third class of ceremonies which are likewise domestic and personal, but which differ from the two preceding ceremonies by their occasional character, I mean the funeral, as distinct from the ancestral ceremonies. In one respect these funeral ceremonies may represent an earlier phase of worship than the daily and monthly ancestral sacrifices. They lead up to them, and, as it were, prepare the departed for their future dignity as Pitr̥s or Ancestors. On the other hand, the conception of Ancestors in general must have existed before any departed person could have been raised to that rank, and I therefore preferred to describe the ancestral sacrifices first.
 
 
-[^302]: There is, however, great variety in these matters, according to different śākhās. Thus, according to the Gobhila-śākhā, the Pi_nd_a Pitr̥yajña is to be considered as smārta, not as śrauta (pi_nd_a-pitr̥yajñah khalv asma_kkh_ākhāyāṁ nāsti); while others maintain that an agnimat should perform the smārta, a śrautāgnimat the śrauta Pitr̥yajña; see Gobhilîya Gr̥hya-sūtras, p. 671. On page 667 we read: anagner amāvasyāśraddhā, nānvāhāryam ity ādaraṇiyam.
+[^302]: There is, however, great variety in these matters, according to different śākhās. Thus, according to the Gobhila-śākhā, the Pinḍa Pitr̥yajña is to be considered as smārta, not as śrauta (pinḍa-pitr̥yajñah khalv asma_kkh_ākhāyāṁ nāsti); while others maintain that an agnimat should perform the smārta, a śrautāgnimat the śrauta Pitr̥yajña; see Gobhilîya Gr̥hya-sūtras, p. 671. On page 667 we read: anagner amāvasyāśraddhā, nānvāhāryam ity ādaraṇiyam.
 
 Nor need I enter here very fully into the character of the special funeral ceremonies of India. I described them in a special paper, "On Sepulture and Sacrificial Customs in the Veda," nearly thirty years ago.[^303] Their spirit is the same as that of the funeral ceremonies of Greeks, Romans, Slavonic, and Teutonic nations, and the coincidences between them all are often most surprising.
 
@@ -426,7 +426,7 @@ This, in time, gave rise to much abuse, like the alms bestowed on the Church dur
 
 Without denying therefore that in later times the system of śrāddhas may have degenerated, I think we can perceive that it sprang from a pure source, and, what for our present purpose is even more important, from an intelligible source.
 
-Let us now return to the passage in the Gr̥hya-sūtras of āśvalāyana, where we met for the first time with the name of śrāddha.[^313] It was the śrāddha to be given for the sake of the Departed, after his ashes had been collected in an urn and buried. This śrāddha is called ekoddishṭa,[^314] or, as we should say, personal. It was meant for one person only, not for the three ancestors, nor for all the ancestors. Its object was in fact to raise the departed to the rank of a Pitr̥, and this had to be achieved by śrāddha offerings continued during a whole year. This at least is the general, and, most likely, the original rule. āpastamba says that the śrāddha for a deceased relative should be performed every day during the year, and that after that a monthly śrāddha only should be performed or none at all, that is, no more personal śrāddha,[^315] because the departed shares henceforth in the regular Pārvaṇa-śrāddhas.[^316] śānkhāyana says the same,[^317] namely that the personal śrāddha lasts for a year, and that then "the Fourth" is dropped, _i.e._ the great-grandfather was dropped, the grandfather became the great-grandfather, the father the grandfather, while the lately Departed occupied the father's place among the three principal Pit_ris_.[^318] This was called the Sapi_nd_îkaraṇa, _i.e._ the elevating of the departed to the rank of an ancestor.
+Let us now return to the passage in the Gr̥hya-sūtras of āśvalāyana, where we met for the first time with the name of śrāddha.[^313] It was the śrāddha to be given for the sake of the Departed, after his ashes had been collected in an urn and buried. This śrāddha is called ekoddishṭa,[^314] or, as we should say, personal. It was meant for one person only, not for the three ancestors, nor for all the ancestors. Its object was in fact to raise the departed to the rank of a Pitr̥, and this had to be achieved by śrāddha offerings continued during a whole year. This at least is the general, and, most likely, the original rule. āpastamba says that the śrāddha for a deceased relative should be performed every day during the year, and that after that a monthly śrāddha only should be performed or none at all, that is, no more personal śrāddha,[^315] because the departed shares henceforth in the regular Pārvaṇa-śrāddhas.[^316] śānkhāyana says the same,[^317] namely that the personal śrāddha lasts for a year, and that then "the Fourth" is dropped, _i.e._ the great-grandfather was dropped, the grandfather became the great-grandfather, the father the grandfather, while the lately Departed occupied the father's place among the three principal Pit_ris_.[^318] This was called the Sapinḍîkaraṇa, _i.e._ the elevating of the departed to the rank of an ancestor.
 
 
 [^318]: A pratyābdikam ekoddishṭam on the anniversary of the deceased is mentioned by Gobhilîya, l. c. p. 1011.
@@ -438,7 +438,7 @@ Let us now return to the passage in the Gr̥hya-sūtras of āśvalāyana, where 
 [^316]: "Gobhilîya Gr̥hya-sūtras," p. 1023.
 
 
-[^315]: One of the differences between the acts before and after the Sapi_nd_îkaraṇa is noted by Sālankāyana:—Sapi_nd_îkaraṇam yāvad _rig_udarbhaiḥ pitr̥kriyā Sapi_nd_îkaraṇād ūrdhvaṁ dviguṇair vidhivad bhavet. "Gobhilîya Gr̥hya-sūtras," p. 930.
+[^315]: One of the differences between the acts before and after the Sapinḍîkaraṇa is noted by Sālankāyana:—Sapinḍîkaraṇam yāvad _rig_udarbhaiḥ pitr̥kriyā Sapinḍîkaraṇād ūrdhvaṁ dviguṇair vidhivad bhavet. "Gobhilîya Gr̥hya-sūtras," p. 930.
 
 
 [^314]: It is described as a vikr̥ti of the Pārvaṇa-śrāddha in "Gobhilîya Gr̥hya-sūtras," p. 1011.
@@ -446,7 +446,7 @@ Let us now return to the passage in the Gr̥hya-sūtras of āśvalāyana, where 
 
 [^313]: "āśv. Gr̥hya-sūtras" IV. 5, 8.
 
-There are here, as elsewhere, many exceptions. Gobhila allows six months instead of a year, or even a Tripaksha,[^319] _i.e._ three half-months; and lastly, any auspicious event (vr̥ddhi) may become the occasion of the Sapi_nd_îkaraṇa.[^320]
+There are here, as elsewhere, many exceptions. Gobhila allows six months instead of a year, or even a Tripaksha,[^319] _i.e._ three half-months; and lastly, any auspicious event (vr̥ddhi) may become the occasion of the Sapinḍîkaraṇa.[^320]
 
 
 
@@ -454,7 +454,7 @@ There are here, as elsewhere, many exceptions. Gobhila allows six months instead
 
 [^319]: "Gobhilîya Gr̥hya-sūtras," p. 1039.
 
-The full number of śrāddhas necessary for the Sapi_nd_ana is sometimes given as sixteen, viz., the first, then one in each of the twelve months, then two semestral ones, and lastly the Sapi_nd_ana. But here too much variety is allowed, though, if the Sapi_nd_ana takes place before the end of the year, the number of sixteen śrāddhas has still to be made up.[^321]
+The full number of śrāddhas necessary for the Sapinḍana is sometimes given as sixteen, viz., the first, then one in each of the twelve months, then two semestral ones, and lastly the Sapinḍana. But here too much variety is allowed, though, if the Sapinḍana takes place before the end of the year, the number of sixteen śrāddhas has still to be made up.[^321]
 
 When the śrāddha is offered on account of an auspicious event, such as a birth or a marriage, the fathers invoked are not the father, grandfather, and great-grandfather, who are sometimes called aśrumukha, with tearful faces, but the ancestors before them, and they are called nāndîmukha, or joyful.[^322]
 
@@ -464,24 +464,24 @@ When the śrāddha is offered on account of an auspicious event, such as a birth
 
 [^321]: "Gobhilîya," l. c. p. 1032.
 
-Colebrooke,[^323] to whom we owe an excellent description of what a śrāddha is in modern times, took evidently the same view. "The first set of funeral ceremonies," he writes, "is adapted to effect, by means of oblations, the re-embodying of the soul of the deceased, after burning his corpse. The apparent scope of the second set is to raise his shade from this world, where it would else, according to the notions of the Hindus, continue to roam among demons and evil spirits, up to heaven, and then deify him, as it were, among the manes of departed ancestors. For this end, a śrāddha should regularly be offered to the deceased on the day after the mourning expires; twelve other śrāddhas _singly_ to the deceased in twelve successive months; similar obsequies at the end of the third fortnight, and also in the sixth month, and in the twelfth; and the oblation called Sapi_nd_ana on the first anniversary of his decease.[^324] At this Sapi_nd_ana śrāddha, which is the last of the ekoddishṭa śrāddhas, four funeral cakes are offered to the deceased and his three ancestors, that consecrated to the deceased being divided into three portions and mixed with the other three cakes. The portion retained is often offered to the deceased, and the act of union and fellowship becomes complete."[^325]
+Colebrooke,[^323] to whom we owe an excellent description of what a śrāddha is in modern times, took evidently the same view. "The first set of funeral ceremonies," he writes, "is adapted to effect, by means of oblations, the re-embodying of the soul of the deceased, after burning his corpse. The apparent scope of the second set is to raise his shade from this world, where it would else, according to the notions of the Hindus, continue to roam among demons and evil spirits, up to heaven, and then deify him, as it were, among the manes of departed ancestors. For this end, a śrāddha should regularly be offered to the deceased on the day after the mourning expires; twelve other śrāddhas _singly_ to the deceased in twelve successive months; similar obsequies at the end of the third fortnight, and also in the sixth month, and in the twelfth; and the oblation called Sapinḍana on the first anniversary of his decease.[^324] At this Sapinḍana śrāddha, which is the last of the ekoddishṭa śrāddhas, four funeral cakes are offered to the deceased and his three ancestors, that consecrated to the deceased being divided into three portions and mixed with the other three cakes. The portion retained is often offered to the deceased, and the act of union and fellowship becomes complete."[^325]
 
 
 
 [^325]: See this subject most exhaustively treated, particularly in its bearings on the law of inheritance, in Rajkumar Sarvādhikāri's "Tagore Law Lectures for 1880," p. 93.
 
-[^324]: Colebrooke adds that in most provinces the periods for these sixteen ceremonies, and for the concluding obsequies entitled Sapi_nd_ana, are anticipated, and the whole is completed on the second or third day; after which they are again performed at the proper times, but in honor of the whole set of progenitors instead of the deceased singly. It is this which Dr. Donner, in his learned paper on the "Pi_nd_apitr̥yajña" (p. 11), takes as the general rule.
+[^324]: Colebrooke adds that in most provinces the periods for these sixteen ceremonies, and for the concluding obsequies entitled Sapinḍana, are anticipated, and the whole is completed on the second or third day; after which they are again performed at the proper times, but in honor of the whole set of progenitors instead of the deceased singly. It is this which Dr. Donner, in his learned paper on the "Pinḍapitr̥yajña" (p. 11), takes as the general rule.
 
 
 [^323]: "Life and Essays," ii. p. 195.
 
-When this system of śrāddhas had once been started, it seems to have spread very rapidly. We soon hear of the monthly śrāddha, not only in memory of one person lately deceased, but as part of the Pitr̥yajña, and as obligatory, not only on householders (agnimat), but on other persons also, and, not only on the three upper castes, but even, without hymns, on śūdras,[^326] and as to be performed, not only on the day of New-Moon, but on other days also,[^327] whenever there was an opportunity. Gobhila seems to look upon the Pi_nd_apitr̥yajña, as itself a śrāddha,[^328] and the commentator holds that, even if there are no pi_nd_as or cakes, the Brāhmans ought still to be fed. This śrāddha, however, is distinguished from the other, the true śrāddha, called Anvāhārya, which follows it,[^329] and which is properly known by the name of Pārvaṇa śrāddha.
+When this system of śrāddhas had once been started, it seems to have spread very rapidly. We soon hear of the monthly śrāddha, not only in memory of one person lately deceased, but as part of the Pitr̥yajña, and as obligatory, not only on householders (agnimat), but on other persons also, and, not only on the three upper castes, but even, without hymns, on śūdras,[^326] and as to be performed, not only on the day of New-Moon, but on other days also,[^327] whenever there was an opportunity. Gobhila seems to look upon the Pinḍapitr̥yajña, as itself a śrāddha,[^328] and the commentator holds that, even if there are no pinḍas or cakes, the Brāhmans ought still to be fed. This śrāddha, however, is distinguished from the other, the true śrāddha, called Anvāhārya, which follows it,[^329] and which is properly known by the name of Pārvaṇa śrāddha.
 
 
 [^329]: Gobhila IV. 4, 3, itarad anvāhāryam. But the commentators add anagner amāvasyāśrāddham, nānvāhāryam. According to Gobhila there ought to be the Vaiśvadeva offering and the Bali offering at the end of each Pārvaṇa-śrāddha; see "Gobhilîya Gr̥hya-sūtras," p. 1005, but no Vaiśvadeva at an ekoddishṭa śrāddha, l. c. p. 1020.
 
 
-[^328]: See p. 666, and p. 1008. Gr̥hyakāraḥ pi_nd_apitr̥yajñasya śrāddhatvam āha.
+[^328]: See p. 666, and p. 1008. Gr̥hyakāraḥ pinḍapitr̥yajñasya śrāddhatvam āha.
 
 
 [^327]: L. c. p. 897.
@@ -489,7 +489,7 @@ When this system of śrāddhas had once been started, it seems to have spread ve
 
 [^326]: "Gobhilîya Gr̥hya-sūtras," p. 892.
 
-The same difficulties which confront us when we try to form a clear conception of the character of the various ancestral ceremonies, were felt by the Brāhmans themselves, as may be seen from the long discussions in the commentary on the śrāddha-kalpa[^330] and from the abusive language used by candrakānta Tarkālankāra against Raghunandana. The question with them assumes the form of what is pradhāna (primary) and what is anga (secondary) in these sacrifices, and the final result arrived at is that sometimes the offering of cakes is pradhāna, as in the Pi_nd_apitr̥yajña, sometimes the feeding of Brāhmans only, as in the Nitya-śrāddha, sometimes both, as in the Sapi_nd_ikaraṇa.
+The same difficulties which confront us when we try to form a clear conception of the character of the various ancestral ceremonies, were felt by the Brāhmans themselves, as may be seen from the long discussions in the commentary on the śrāddha-kalpa[^330] and from the abusive language used by candrakānta Tarkālankāra against Raghunandana. The question with them assumes the form of what is pradhāna (primary) and what is anga (secondary) in these sacrifices, and the final result arrived at is that sometimes the offering of cakes is pradhāna, as in the Pinḍapitr̥yajña, sometimes the feeding of Brāhmans only, as in the Nitya-śrāddha, sometimes both, as in the Sapinḍikaraṇa.
 
 
 [^330]: L. c. pp. 1005-1010; "Nirnayasindhu," p. 270.
