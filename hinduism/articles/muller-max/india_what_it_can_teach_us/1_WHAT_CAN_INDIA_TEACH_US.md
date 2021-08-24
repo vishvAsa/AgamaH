@@ -47,39 +47,15 @@ If you are fond of archæology, if you have ever assisted at the opening of a ba
 
 If ever you amused yourselves with collecting coins, why the soil of India teems with coins, Persian, Carian, Thracian, Parthian, Greek, Macedonian, Scythian, Roman,[^1] and Mohammedan. When Warren Hastings was Governor-General, an earthen pot was found on the bank of a river in the province of Benares, containing one hundred and seventy-two gold darics.[^2] Warren Hastings considered himself as making the most munificent present to his masters that he might ever have it in his power to send them, by presenting those ancient coins to the Court of Directors. The story is that they were sent to the melting-pot. At all events they had disappeared when Warren Hastings returned to England. It rests with you to prevent the revival of such vandalism.
 
-
-[^2]: Cunningham, in the "Journal of the Asiatic Society of Bengal," 1881, p. 184.
-
-
-[^1]: Pliny (VI. 26) tells us that in his day the annual drain of bullion into India, in return for her valuable produce, reached the immense amount of "five hundred and fifty millions of sesterces." See E. Thomas, "The Indian Balhará," p. 13.
-
 In one of the last numbers of the _Asiatic Journal of Bengal_ you may read of the discovery of a treasure as rich in gold almost as some of the tombs opened by Dr. Schliemann at Mykenæ, nay, I should add, perhaps, not quite unconnected with some of the treasures found at Mykenæ; yet hardly any one has taken notice of it in England![^3]
 
 The study of Mythology has assumed an entirely new character, chiefly owing to the light that has been thrown on it by the ancient Vedic Mythology of India. But though the foundation of a true Science of Mythology has been laid, all the detail has still to be worked out, and could be worked out nowhere better than in India.
 
 Even the study of fables owes its new life to India, from whence the various migrations of fables have been traced at various times and through various channels from East to West.[^4] Buddhism is now known to have been the principal source of our legends and parables. But here, too, many problems still wait for their solution. Think, for instance, of the allusion to the fable of the donkey in the lion's skin, which occurs in Plato's Cratylus.[^5] Was that borrowed from the East? Or take the fable of the weasel changed by Aphroditê into a woman who, when she saw a mouse, could not refrain from making a spring at it. This, too, is very like a Sanskrit fable; but how then could it have been brought into Greece early enough to appear in one of the comedies of Strattis, about 400 b.c.?[^6] Here, too, there is still plenty of work to do.
 
-
-[^6]: See "Fragmenta Comic" (Didot), p. 302; Benfey, l. c. vol. i., p. 374.
-
-
-[^5]: Cratylus, 411 A. "Still, as I have put on the lion's skin, I must not be faint-hearted." Possibly, however, this may refer to Hercules, and not to the fable of the donkey in the lion's or the tiger's skin. In the Hitopade_s_a, a donkey, being nearly starved, is sent by his master into a corn-field to feed. In order to shield him he puts a tiger's skin on him. All goes well till a watchman approaches, hiding himself under his gray coat, and trying to shoot the tiger. The donkey thinks it is a gray female donkey, begins to bray, and is killed. On a similar fable in Æsop, see Benfey, "Pantschatantra," vol. i., p. 463; M. M., "Selected Essays," vol. i., p. 513.
-
-
-[^4]: See "Selected Essays," vol. i., p. 500, "The Migration of Fables."
-
 We may go back even farther into antiquity, and still find strange coincidences between the legends of India and the legends of the West, without as yet being able to say how they travelled, whether from East to West, or from West to East. That at the time of Solomon there was a channel of communication open between India and Syria and Palestine is established beyond doubt, I believe, by certain Sanskrit words which occur in the Bible as names of articles of export from Ophir, articles such as ivory, apes, peacocks, and sandalwood, which, taken together, could not have been exported from any country but India.[^7] Nor is there any reason to suppose that the commercial intercourse between India, the Persian Gulf, the Red Sea and the Mediterranean was ever completely interrupted, even at the time when the Book of Kings is supposed to have been written.
 
-
-[^7]: "Lectures on the Science of Language," vol. i., p. 231. The names employed in the Hebrew text of the Bible are said to be Tamil.—A. W.
-
 Now you remember the judgment of Solomon, which has always been admired as a proof of great legal wisdom among the Jews.[^8] I must confess that, not having a legal mind, I never could suppress a certain shudder[^9] when reading the decision of Solomon: "Divide the living child in two, and give half to the one, and half to the other."
-
-
-[^9]: The Bible story is dramatic; the other is not. The "shudder" is a tribute to the dramatic power of the Bible narrative. The child was in no danger of being cut in twain. In the Buddhist version the child _is_ injured. Why does not Prof. Müller shudder when the child is hurt and cries? The Solomonic child is not hurt and does not cry. Is not the Bible story the more humane, the more dignified, the more dramatic? And no canon of criticism requires us to believe that a poor version of a story is the more primitive.—Am. Pubs.
-
-
-[^8]: 1 Kings 3:25.
 
 Let me now tell you the same story as it is told by the Buddhists, whose sacred Canon is full of such legends and parables. In the Kanjur, which is the Tibetan translation of the Buddhist Tripi_t_aka, we likewise read of two women who claimed each to be the mother of the same child. The king, after listening to their quarrels for a long time, gave it up as hopeless to settle who was the real mother. Upon this Vi_s_âkhâ stepped forward and said: "What is the use of examining and cross-examining these women? Let them take the boy and settle it among themselves." Thereupon both women fell on the child, and when the fight became violent the child was hurt and began to cry. Then one of them let him go, because she could not bear to hear the child cry.
 
@@ -95,9 +71,6 @@ If you have learned to appreciate the value of recent researches into the antece
 
 And take that which, after all, whether we confess or deny it, we care for more in this life than for anything else—nay, which is often far more cared for by those who deny than by those who confess—take that which supports, pervades, and directs all our acts and thoughts and hopes—without which there can be neither village-community nor empire, neither custom nor law, neither right nor wrong—take that which, next to language, has most firmly fixed the specific and permanent barrier between man and beast—which alone has made life possible and bearable, and which, as it is the deepest, though often-hidden spring of individual life, is also the foundation of all national life—the history of all histories, and yet the mystery of all mysteries—take religion, and where can you study its true origin,[^11] its natural growth, and its inevitable decay better than in India, the home of Brahmanism, the birthplace of Buddhism, and the refuge of Zoroastrianism, even now the mother of new superstitions—and why not, in the future, the regenerate child of the purest faith, if only purified from the dust of nineteen centuries?
 
-
-[^11]: This is true of what theologians call natural religion, which is assumed to be a growth out of human consciousness; but the Christian religion is not a natural religion.—Am. Pubs.
-
 You will find yourselves everywhere in India between an immense past and an immense future, with opportunities such as the old world could but seldom, if ever, offer you. Take any of the burning questions of the day—popular education, higher education, parliamentary representation, codification of laws, finance, emigration, poor-law; and whether you have anything to teach and to try, or anything to observe and to learn, India will supply you with a laboratory such as exists nowhere else. That very Sanskrit, the study of which may at first seem so tedious to you and so useless, if only you will carry it on, as you may carry it on here at Cambridge better than anywhere else, will open before you large layers of literature, as yet almost unknown and unexplored, and allow you an insight into strata of thought deeper than any you have known before, and rich in lessons that appeal to the deepest sympathies of the human heart.
 
 Depend upon it, if only you can make leisure, you will find plenty of work in India for your leisure hours.
@@ -107,9 +80,6 @@ India is not, as you may imagine, a distant, strange, or, at the very utmost, a 
 You know how some of the best talent and the noblest genius of our age has been devoted to the study of the development of the outward or material world, the growth of the earth, the first appearance of living cells, their combination and differentiation, leading up to the beginning of organic life, and its steady progress from the lowest to the highest stages. Is there not an inward and intellectual world also which has to be studied in its historical development, from the first appearance of predicative and demonstrative roots, their combination and differentiation, leading up to the beginning of rational thought in its steady progress from the lowest to the highest stages? And in that study of the history of the human mind, in that study of ourselves, of our true selves, India occupies a place second to no other country. Whatever sphere of the human mind you may select for your special study, whether it be language, or religion, or mythology, or philosophy, whether it be laws or customs, primitive art or primitive science, everywhere, you have to go to India, whether you like it or not, because some of the most valuable and most instructive materials in the history of man are treasured up in India, and in India only.
 
 And while thus trying to explain to those whose lot will soon be cast in India the true position which that wonderful country holds or ought to hold in universal history, I may perhaps be able at the same time to appeal to the sympathies of other members of this University, by showing them how imperfect our knowledge of universal history, our insight into the development of the human intellect, must always remain, if we narrow our horizon to the history of Greeks and Romans, Saxons and Celts, with a dim background of Palestine, Egypt, and Babylon,[^12] and leave out of sight our nearest intellectual relatives, the Aryans of India, the framers of the most wonderful language, the Sanskrit, the fellow-workers in the construction of our fundamental concepts, the fathers of the most natural of natural religions, the makers of the most transparent of mythologies, the inventors of the most subtle philosophy, and the givers of the most elaborate laws.
-
-
-[^12]: There are traces of Aryan occupation at Babylon, Rawlinson assures us, about twenty centuries b.c. This would suggest a possible interchange of religious ideas between the earlier Aryan and Akkado-Chaldean peoples.—A. W.
 
 There are many things which we think essential in a liberal education, whole chapters of history which we teach in our schools and universities, that cannot for one moment compare with the chapter relating to India, if only properly understood and freely interpreted.
 
@@ -131,12 +101,6 @@ But I can mention at least one voluntary gift which came to us from Persia, and 
 
 A _talent_[^13] was divided into sixty _minæ_, a mina into sixty _shekels_. Here we have again the Babylonian sexagesimal system, a system which owes its origin and popularity, I believe, to the fact that _sixty_ has the greatest number of divisors. Shekel was translated into Greek by _Stater_, and an Athenian gold stater, like the Persian gold stater, down to the times of Crœsus, Darius, and Alexander, was the sixtieth part of a mina of gold, not very far therefore from our sovereign. The proportion of silver to gold was fixed as thirteen or thirteen and a third to one; and if the weight of a silver shekel was made as thirteen to ten, such a coin would correspond very nearly to our florin.[^14] Half a silver shekel was a _drachma_, and this was therefore the true ancestor of our shilling.
 
-
-[^14]: _Sîm_, the Persian word for silver, has also the meaning of one thirteenth; see Cunningham, l. c. p. 165.
-
-
-[^13]: See Cunningham, "Journal of the Asiatic Society of Bengal," 1881, pp. 162-168.
-
 Again you may say that any attempt at fixing the relative value of silver and gold is, and always has been, a great mistake. Still it shows how closely the world is held together, and how, for good or for evil, we are what we are, not so much by ourselves as by the toil and moil of those who came before us, our true intellectual ancestors, whatever the blood may have been composed of that ran through their veins, or the bones which formed the rafters of their skulls.
 
 And if it is true, with regard to religion, that no one could understand it and appreciate its full purport without knowing its origin and growth, that is, without knowing something of what the cuneiform inscriptions of Mesopotamia, the hieroglyphic and hieratic texts of Egypt, and the historical monuments of Phœnicia and Persia can alone reveal to us, it is equally true with regard to all the other elements that constitute the whole of our intellectual life. If we are Jewish or Semitic in our religion, we are _Greek_ in our philosophy, _Roman_ in our politics, and _Saxon_ in our morality; and it follows that a knowledge of the history of the Greeks, Romans, and Saxons, or of the flow of civilization from Greece to Italy, and through Germany to these isles, forms an essential element in what is called a liberal, that is, an historical and rational education.
@@ -156,9 +120,6 @@ The process by which that ancient chapter of history was recovered is very simpl
 Suppose we wanted to know whether the ancient Aryans before their separation knew the mouse: we should only have to consult the principal Aryan dictionaries, and we should find in Sanskrit _mûsh_, in Greek _μῦς_, in Latin _mus_, in Old Slavonic _my̌se_, in Old High German _mûs_, enabling us to say that, at a time so distant from us that we feel inclined to measure it by Indian rather than by our own chronology, the mouse was known, that is, was named, was conceived and recognized as a species of its own, not to be confounded with any other vermin.
 
 And if we were to ask whether the enemy of the mouse, the _cat_, was known at the same distant time, we should feel justified in saying decidedly, No. The cat is called in Sanskrit mâr_g_âra and vi_d_âla. In Greek and Latin the words usually given as names of the cat, _γαλἑη_ and _αἴλουρος_, _mustella_ and _feles_, did not originally signify the tame cat, but the weasel or marten. The name for the real cat in Greek was _κἁττα_, in Latin _catus_, and these words have supplied the names for cat in all the Teutonic, Slavonic, and Celtic languages. The animal itself, so far as we know at present, came to Europe from Egypt, where it had been worshipped for centuries and tamed; and as this arrival probably dates from the fourth century a.d., we can well understand that no common name for it could have existed when the Aryan nations separated.[[^15]](#Footnote_15_15)
-
-
-[^15]: The common domestic cat is first mentioned by Cæsarius, the physician, brother of Gregory of Nazianus, about the middle of the fourth century. It came from Egypt, where it was regarded as sacred. Herodotus denominates it αἴλουρος, which was also the designation of the weasel and marten. Kallimachus employs the same title, which his commentator explains as κἁττος. In later times this name of uncertain etymology has superseded every other. The earlier Sanskrit writers appear to have had no knowledge of the animal; but the mar_g_ara is named by Manu, and the vi_d_ala by Pa_n_ini.—A. W.
 
 In this way a more or less complete picture of the state of civilization, previous to the Aryan Separation, can be and has been reconstructed, like a mosaic put together with the fragments of ancient stones; and I doubt whether, in tracing the history of the human mind, we shall ever reach to a lower stratum than that which is revealed to us by the converging rays of the different Aryan languages.
 
@@ -190,9 +151,38 @@ India wants more such dreamers as that young Mr. Jones, standing alone on the de
 
 And as it was a hundred years ago, so it is now; or at least, so it may be now. There are many bright dreams to be dreamed about India, and many bright deeds to be done in India, if only you will do them. Though many great and glorious conquests have been made in the history and literature of the East, since the days when Sir William Jones[^16] landed at Calcutta, depend upon it, no young Alexander here need despair because there are no kingdoms left for him to conquer on the ancient shores of the Indus and the Ganges.
 
+## Footnotes
+
+[^1]: Pliny (VI. 26) tells us that in his day the annual drain of bullion into India, in return for her valuable produce, reached the immense amount of "five hundred and fifty millions of sesterces." See E. Thomas, "The Indian Balhará," p. 13.
+
+[^2]: Cunningham, in the "Journal of the Asiatic Society of Bengal," 1881, p. 184.
+
+[^3]: General Cunningham describes this treasure in the "Journal of the Asiatic Society of Bengal" as having been found on the northern bank of the Oxus in 1877, and containing coins from Darius down to Antiochus the Great, and Euthydemus, King of Baktria. This would seem to indicate that it had been buried there in 208 b.c., when Baktria was invaded by Antiochus and Euthydemus defeated. The coins, figures, and ornaments, many of them, were manifestly Persian, and doubtless had been brought into that country and kept by the victorious generals of Alexander. Some of the works of art unearthed by Dr. Schliemann at Mykenæ are either Persian or Assyrian in character, and are like those found on the Oxus. Professor Forchhammer very plausibly supposes that they were spoils from the Persian camp which had been awarded to Mykenæ as her share after the overthrow of Mardonius.—A. W.
+
+[^4]: See "Selected Essays," vol. i., p. 500, "The Migration of Fables."
+
+[^5]: Cratylus, 411 A. "Still, as I have put on the lion's skin, I must not be faint-hearted." Possibly, however, this may refer to Hercules, and not to the fable of the donkey in the lion's or the tiger's skin. In the Hitopade_s_a, a donkey, being nearly starved, is sent by his master into a corn-field to feed. In order to shield him he puts a tiger's skin on him. All goes well till a watchman approaches, hiding himself under his gray coat, and trying to shoot the tiger. The donkey thinks it is a gray female donkey, begins to bray, and is killed. On a similar fable in Æsop, see Benfey, "Pantschatantra," vol. i., p. 463; M. M., "Selected Essays," vol. i., p. 513.
+
+[^6]: See "Fragmenta Comic" (Didot), p. 302; Benfey, l. c. vol. i., p. 374.
+
+[^7]: "Lectures on the Science of Language," vol. i., p. 231. The names employed in the Hebrew text of the Bible are said to be Tamil.—A. W.
+
+[^8]: 1 Kings 3:25.
+
+[^9]: The Bible story is dramatic; the other is not. The "shudder" is a tribute to the dramatic power of the Bible narrative. The child was in no danger of being cut in twain. In the Buddhist version the child _is_ injured. Why does not Prof. Müller shudder when the child is hurt and cries? The Solomonic child is not hurt and does not cry. Is not the Bible story the more humane, the more dignified, the more dramatic? And no canon of criticism requires us to believe that a poor version of a story is the more primitive.—Am. Pubs.
+
+[^10]: See some excellent remarks on this subject in Rhys Davids, "Buddhist Birth-Stories," vol. i., pp. xiii. and xliv. The learned scholar gives another version of the story from a Singhalese translation of the _G_âtaka, dating from the fourteenth century, and he expresses a hope that Dr. Fausböll will soon publish the Pâli original.
+
+[^11]: This is true of what theologians call natural religion, which is assumed to be a growth out of human consciousness; but the Christian religion is not a natural religion.—Am. Pubs.
+
+[^12]: There are traces of Aryan occupation at Babylon, Rawlinson assures us, about twenty centuries b.c. This would suggest a possible interchange of religious ideas between the earlier Aryan and Akkado-Chaldean peoples.—A. W.
+
+[^13]: See Cunningham, "Journal of the Asiatic Society of Bengal," 1881, pp. 162-168.
+
+[^14]: _Sîm_, the Persian word for silver, has also the meaning of one thirteenth; see Cunningham, l. c. p. 165.
+
+[^15]: The common domestic cat is first mentioned by Cæsarius, the physician, brother of Gregory of Nazianus, about the middle of the fourth century. It came from Egypt, where it was regarded as sacred. Herodotus denominates it αἴλουρος, which was also the designation of the weasel and marten. Kallimachus employs the same title, which his commentator explains as κἁττος. In later times this name of uncertain etymology has superseded every other. The earlier Sanskrit writers appear to have had no knowledge of the animal; but the mar_g_ara is named by Manu, and the vi_d_ala by Pa_n_ini.—A. W.
 
 [^16]: Sir William Jones was thirty-seven years of age when he sailed for India. He received the honor of knighthood in March, 1783, on his appointment as Judge of the Supreme Court of Judicature at Fort William, at Bengal.—A. W.
-
-## Footnotes
 
 * * *
