@@ -376,11 +376,12 @@ No doubt there is moral depravity in India, and where is there no moral depravit
 
 [^60]: L. c., p. 371.
 
-[^61]: Sir Thomas Munro estimated the children educated at public schools in the Madras presidency as less than one in three. But low as it was, it was, as he justly remarked, a higher rate than existed till very lately in most countries of Europe.—Elphinstone, "Hist. of India," p. 205.
-
-In Bengal there existed no less than 80,000 native schools, though, doubtless, for the most part, of a poor quality. According to a Government Report of 1835, there was a village-school for every 400 persons.—"Missionary Intelligencer," IX. 183-193.
-
-Ludlow ("British India," I. 62) writes: "In every Hindu village which has retained its old form I am assured that the children generally are able to read, write, and cipher; but where we have swept away the village-system, as in Bengal, there the village-school has also disappeared."
+[^61]: 
+    Sir Thomas Munro estimated the children educated at public schools in the Madras presidency as less than one in three. But low as it was, it was, as he justly remarked, a higher rate than existed till very lately in most countries of Europe.—Elphinstone, "Hist. of India," p. 205.
+    
+    In Bengal there existed no less than 80,000 native schools, though, doubtless, for the most part, of a poor quality. According to a Government Report of 1835, there was a village-school for every 400 persons.—"Missionary Intelligencer," IX. 183-193.
+    
+    Ludlow ("British India," I. 62) writes: "In every Hindu village which has retained its old form I am assured that the children generally are able to read, write, and cipher; but where we have swept away the village-system, as in Bengal, there the village-school has also disappeared."
 
 [^62]: Rig-Veda I. 87, 4; 145, 5; 174, 1; V. 23, 2.
 
