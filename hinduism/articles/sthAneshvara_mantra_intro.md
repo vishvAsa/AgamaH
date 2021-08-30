@@ -74,14 +74,14 @@ As the word aham is an acronym of both vowels and consonants, this is considered
 ### Mantra as Person
 According to Tantras, mantras not only distill the cosmic forces and empower its holder, they are often treated as living persons.  As each mantra presents its own order of letters, it depicts a unique macrocoosm, with mantra being the conscious subject, the axis upon which all energies revolve.  The divine nature of speech, found in anthropomorphic form in the Tantras, parallels the concept that the proper order of letters unfolds the hidden forces of the cosmos in the form of mantras.  Select instances to describe the subjective domain of mantras include:
 
-10. Mantras embody awareness (KT 15.61).
-11. Mantras are considered engendered by mātṛkā, the mothers (ŚTT 2.57)+++(4)+++
-12. Most of the monosyllabic mantras are considered to be ‘seminal’ (bīja), from which longer mantras emerge.+++(4)+++
-13. Mantras are masculine, feminine, or neuter.  The mantras that end with vaṣaṭ or phaṭ are considered to be masculine, while those ending with vauṣaṭ or sbvāhā  are feminine, and those ending with huṃ or namaḥ are neuter  (Mantramahodadhi 24.92-94) Other Tantras consider the mantras ending with hum as masculine, and the mantras ending with ṭha ṭha as feminine (ŚTT 2.58).+++(5)+++
-14. Mantras can have impurities (sūtaka) related to birth or death (KT 15.57).
-15. Mantras receive the rituals of birth and are awakened (KT 15. 71-72.  ŚTT 2.112-123).
-16. Mantras can be perplexed or angry; they can be young, adolescent, or old; they can be proud, insensible, intoxicated, deceitful, or slow; they can turn their face away; they can be deaf, blind, inanimate, servile, hungry, immobilized, tormented, without affection, lifeless, asleep, cruel, dull, hostile, indifferent, ashamed, or deluded  (KT 15.65-70.  ŚTT 2.64-110,  Buhnemann 1992, 79).+++(4)+++
-17. A mantra can be a friend or an enemy (KT 15. 84.  ŚTT 2.126).+++(4)+++
+1. Mantras embody awareness (KT 15.61).
+2. Mantras are considered engendered by mātṛkā, the mothers (ŚTT 2.57)+++(4)+++
+3. Most of the monosyllabic mantras are considered to be ‘seminal’ (bīja), from which longer mantras emerge.+++(4)+++
+4. Mantras are masculine, feminine, or neuter.  The mantras that end with vaṣaṭ or phaṭ are considered to be masculine, while those ending with vauṣaṭ or sbvāhā  are feminine, and those ending with huṃ or namaḥ are neuter  (Mantramahodadhi 24.92-94) Other Tantras consider the mantras ending with hum as masculine, and the mantras ending with ṭha ṭha as feminine (ŚTT 2.58).+++(5)+++
+5. Mantras can have impurities (sūtaka) related to birth or death (KT 15.57).
+6. Mantras receive the rituals of birth and are awakened (KT 15. 71-72.  ŚTT 2.112-123).
+7. Mantras can be perplexed or angry; they can be young, adolescent, or old; they can be proud, insensible, intoxicated, deceitful, or slow; they can turn their face away; they can be deaf, blind, inanimate, servile, hungry, immobilized, tormented, without affection, lifeless, asleep, cruel, dull, hostile, indifferent, ashamed, or deluded  (KT 15.65-70.  ŚTT 2.64-110,  Buhnemann 1992, 79).+++(4)+++
+8. A mantra can be a friend or an enemy (KT 15. 84.  ŚTT 2.126).+++(4)+++
 
 These attributes of mantra are possible only when mantras are treated as persons and not merely as words or instruments for acquiring magical results.
 
@@ -112,16 +112,17 @@ Some seed mantras such as hrīṃ are also identified as kullukā.  Visualizatio
 
 
 The mantras received can have various faults. A practitioner revealing his practice, for example, is considered to be a fault.  The power of mantras is believed to manifest when these faults are removed.  Tantras describe the following rituals as necessary in order to purify mantras:
-19. Birth (janana):  In this ritual, a geometric design associated with birth (janana yantra) is made, in which the letters are written and a specific mantra is revealed.
-20. Illumination (dīpana): This ritual recitation of the mantra begins with haṃsa and ends with so'ham.
-21. Awakening (bodhana): This refers to the recitation of the mantra with hrūṃ at both of its ends.
-22. Beating (tāḍana): To recite the mantra with phaṭ at both ends is considered ‘beating. ’
-23. Consecration (abhiṣeka): In this ritual, the main mantra is consecrated with the mantra aiṃ haṃsaḥ oṃ.
-24. Purification (vimalīkaraṇa): In this ritual, the main mantra is recited with Oṃ troṃ vaṣaṭ at both ends.
-25. Enlivenment (jīvana): To recite the mantra with svadhā vaṣaṭ in both ends is considered enlivenment.
-26. Libation (tarpaṇa): This is the ritual offering of milk, honey, or water one hundred times while reciting the main mantra.
-27. Concealing (gopana): This is the ritual of reciting the main mantra with hrīṃ at both ends.
-28. Satiation (āpyāyana): Recitation of the mantra with hsauḥ in both ends is the ritual ‘satiation’  (MMU 24.98-108).
+
+1. Birth (janana):  In this ritual, a geometric design associated with birth (janana yantra) is made, in which the letters are written and a specific mantra is revealed.
+2. Illumination (dīpana): This ritual recitation of the mantra begins with haṃsa and ends with so'ham.
+3. Awakening (bodhana): This refers to the recitation of the mantra with hrūṃ at both of its ends.
+4. Beating (tāḍana): To recite the mantra with phaṭ at both ends is considered ‘beating. ’
+5. Consecration (abhiṣeka): In this ritual, the main mantra is consecrated with the mantra aiṃ haṃsaḥ oṃ.
+6. Purification (vimalīkaraṇa): In this ritual, the main mantra is recited with Oṃ troṃ vaṣaṭ at both ends.
+7. Enlivenment (jīvana): To recite the mantra with svadhā vaṣaṭ in both ends is considered enlivenment.
+8. Libation (tarpaṇa): This is the ritual offering of milk, honey, or water one hundred times while reciting the main mantra.
+9. Concealing (gopana): This is the ritual of reciting the main mantra with hrīṃ at both ends.
+10. Satiation (āpyāyana): Recitation of the mantra with hsauḥ in both ends is the ritual ‘satiation’  (MMU 24.98-108).
 
 ## The Meaning of Mantras
 
@@ -168,6 +169,7 @@ The self-seeing (paśyan) word principle, the śabda Brahman, appears as the fir
 
 
 Mantra is the ground of speculation for both Mīmāṃsā exegesis and Bhartṛhari’s philosophy of grammar.  These ideas predate most of Tantric literature and are the bedrock in the development of the Tantric interpretation of mantras.  Furthermore, both Bhartṛhari and Trika Śaivites similarly embrace the doctrine of Ābhāsa, adopting the concept that the absolute appears in manifoldness without really being polluted or without falsely projecting non-existing entities.  In other words, utilizing both Mīmāṃsā and the philosophy of Sanskrit grammar for speculation on mantra is crucial to understanding classical mantra exegesis.
+
 ### Deciphering Mantras
 
 
@@ -189,7 +191,7 @@ The yoga system of Patañjali considers Oṃ as the signifier of Īśvara, the p
 Tantras describe nine subtler layers in addition to the three letters of Oṃ.  Identified as bindu, ardhacandra, nirodhikā, nāda, nādānta, śakti, vyāpinī, samanā, and unmanā, these stages refer to very subtle moments of time, all of which are to be visualized while pronouncing the mantra.  Their location within the body, their visualization and correlation with specific deities, are all considered part of the meaning of Oṃ.  Tantras also specify the seer, the meter, and the deity of Oṃ for meditation (PST 19.3).  
 
 
-Following another description, the deity of Oṃ is lord Viṣṇu, visualized sitting atop a lotus and having four arms, one carrying a lotus, mace, disc, and conch shell (PST 19.4).  Confirming Vaiṣṇava cosmogony, four aspects of Oṃ are associated with Vāsudeva, Saṅkarṣaṇa, Pradyumna, and Aniruddha (PST 19.😎.
+Following another description, the deity of Oṃ is lord Viṣṇu, visualized sitting atop a lotus and having four arms, one carrying a lotus, mace, disc, and conch shell (PST 19.4).  Confirming Vaiṣṇava cosmogony, four aspects of Oṃ are associated with Vāsudeva, Saṅkarṣaṇa, Pradyumna, and Aniruddha (PST 19.😎).
 
 
 In light of these descriptions, the meaning of Oṃ appears to be the prescribed visualization that varies with each tradition.  In other words, whatever is supposed to be brought forth in the mind when Oṃ is recited is the meaning of Oṃ.  Patañjali refers to positive attributes such as omniscience as the subject matter for contemplation, whereas Tantras build a hierarchy of subtle grounds and describe this as the meaning.  Deities to be visualized in each of the Śaiva, Vaiṣṇava, or Śākta traditions differ, and this visualization is identified as the meaning.  Explicitly, the meaning of Oṃ cannot be separated from the context of recitation.  
