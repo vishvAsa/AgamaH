@@ -1,0 +1,12 @@
++++
+title = "Cattle"
++++
+
+## Beef eating prohibition
+> The men of the cities of Marea and Apis, in the part of Egypt bordering on Libya, believing themselves to be Libyans and not Egyptians, and disliking the injunction of the religious law that forbade them to eat cows' meat, sent to Ammon saying that they had no part of or lot with Egypt: for they lived (they said) outside the Delta and did not consent to the ways of its people, and they wished to be allowed to eat all foods. [3] But the god forbade them: all the land, he said, watered by the Nile in its course was Egypt, and all who lived lower down than the city Elephantine and drank the river's water were Egyptians. Such was the oracle given to them. 19.
+
+### Greek pollution
+> All Egyptians sacrifice unblemished bulls and bull-calves; they may not sacrifice cows: these are sacred to Isis. [2] For the images of Isis are in woman's form, horned like a cow, exactly as the Greeks picture Io, and cows are held by far the most sacred of all beasts of the herd by all Egyptians alike. [3] For this reason, no Egyptian man or woman will kiss a Greek man, or use a knife, or a spit, or a cauldron belonging to a Greek, or taste the flesh of an unblemished bull that has been cut up with a Greek knife. [4] - [Herodotus](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0126%3Abook%3D2&force=y)
+
+## Disposing dead cattle
+> Cattle that die are dealt with in the following way. Cows are cast into the river, bulls are buried by each city in its suburbs, with one or both horns uncovered for a sign; then, when the carcass is decomposed, and the time appointed is at hand, a boat comes to each city from the island called Prosopitis, [5] an island in the Delta, nine schoeni in circumference. There are many other towns on Prosopitis; the one from which the boats come to gather the bones of the bulls is called Atarbekhis;23 a temple of Aphrodite stands in it of great sanctity. [6] From this town many go out, some to one town and some to another, to dig up the bones, which they then carry away and all bury in one place. As they bury the cattle, so do they all other beasts at death. Such is their ordinance respecting these also; for they, too, may not be killed. 42. - [Herodotus](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0126%3Abook%3D2&force=y)
