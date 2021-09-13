@@ -1,0 +1,26 @@
++++
+title = "shishu AngIrasa"
++++
+
+## The misinterpretation
+Some quote:
+
+> “I am a reciter of hymns, my father is a healer, my mother a grinder of corn. We desire to obtain wealth through various actions”-- Rig Veda 9.112.3 Do they have the same Varna?
+
+> This is an incorrect pramANa. A simple glancing of svAmin sAyaNa’s bhASya and the context of the Rk would explain it. The draSTa is the child RSi - shishu A~Ngirasa as can be seen from the informal way he calls his parents tata and nanA. The sUkta occurs in the book of the somapavamAna. So the hymn is of course seen in that context. Here the child sees his father as the Rtvij and the mother pounding the flour to make the puroDAsha. Why go for unnecessarily wild fantasies? I have seen this example even in my school history book. Probably makes for good propaganda, but seeds weird ideas. - 𑀧𑀺𑀦𑀸𑀓𑀻@pinakasena
+
+
+This was the same shishu AGgirasa who is mentioned in manu as one who apparently called his much much older disciples “children” & was supported by the devas despite the elders’ protest, indicating his clearly prodigious nature. We must first see that the sUkta occurs in the 9th maNDala, dedicated exclusively to soma pavamAna with the exception of 1 sUkta. And we can indeed see that shishu is indeed making observations about the ritual. Throwing aside the ritual context is an indication of incompetence.
+
+## The father
+Now, sAyaNa points out how shishu’s father was the brahman, 1 of the 4 RtvijaH (priests at a shrauta ritual). What does he say? “bhiSak bheSajakRt yajñasya brahmetyarthaH”. This is not an idea that sAyaNa draws out of thin air. It can be traced to the shruti itself. This is what the chandogyopaniSat says, with shrI shaMkara’s commentary. The upaniSad gives various examples of binding: Binding silver with gold, tin with silver, wood with iron or leather, etc. In that way, an “injured” yajña’s open wound is closed & “stitched” by the brahman. How does the Rtvij (priest at a shrauta ritual) close the sacrifice’s “wound”? Among others, it is his knowledge of three types of mantras: Rk, yajus, sAman. How does the chandogyopaniSat indicate this? “trayyA vidyAyA” (By means of the threefold vidyA). What does shrI sAyaNAcArya say in his commentary to the Rgveda mantra? “sarva trayyA vidyayA bhiSajyati”. shishu’s Father was a great brahman Rtvij at sacrifices. 
+
+There are 4 RtvijaH: hotA representing Rcas, adhvaryu-yajUMSi, udgAtA-sAmAni, brahman-representing the brahman, which is unlimited unlike the three other kinds of speech. How so? This is because while the other three priests, as great as they are, perform the ritual acts with the aid of vAk (speech); (three different types of them in fact) the brahman performs the whole ritual with his mind, observing every single act of his colleagues.+++(5)+++ Again, the chandogya upaniSat gives a beautiful explanation as to how a yajña must happen on both the planes of speech & mind.+++(5)+++ Note 4.16.2 where it says that the brahmA perfects the ritual with his mind while the other three Rtvijah (priests) perform with speech.
+
+## The Mother
+What does शिशु आङ्गिरस say about his Mother? That she is an उपलपिरक्षिणी—one (female) who grinds (grains) with millstones. How does shrI sAyaNAcArya understand this? sAyaNAcArya points out that it refers to a woman crushing rice to make a karambha offering. There are some contexts where a woman must assist in the pounding of grains. In the bhAradvAja shrauta-sUtra, in the darshapUrNamAsa rite, the yajamAna's patni must pound the grains. In bodhAyana shrauta sUtra, in the same darshapUrNamAsa rite, a woman (not referring to the yajamAna's wife) is specially selected to pound the grains.+++(5)+++ Perhaps, shishu's mother could have been such a helper at a sacrifice where his father was the brahman priest. taittirIya brAhmaNa states that this woman, who is in charge of cleansing, threshing & pounding the grains is the yajamAna’s Wife only. She threshes the grains 3 times due to the 3-fold nature of the yajña, which happens in 3 fires & traverses across 3 worlds.
+
+## Method for proper understanding
+When one reads a veda mantra together with other parts of the shruti, that is, the brAhmaNas as well as texts written by those who received the vaidika religion from previous generations in an unbroken fashion, that is, the kalpasUtras, he can gain a better insight. Here is an image (could not do anything about the poor image quality) of a Mrs Atre crushing the grains for a mahAvrata (one of the most esteemed vedic rituals) in Bhopal, Madhya Pradesh. This is heritage, preserved for countless generations. This is how the veda was understood.
+
+Indeed, in another Rgveda mantra, the mantra notes a Husband & Wife jointly pressing out the soma juice during the sacrifice. The mantra is 8.31.5: “या दंपती समनसा सुनुत आ च धावतः |” With one mind (samanasA), the daMpati press out (sunuta) & wash (dhAvata) [the soma juice]. Many new-age organisations, in their attempt to make the veda “look cool” interpret this verse about different members in a family having different occupations. When you ignore an entire portion of the veda & the surrounding tradition, you arrive at such readings.
