@@ -17,7 +17,12 @@ varNa/ jAti = (social role/ hereditary caste) system.
 - Restrictions on interdining, marriage, occupation.
 - Different expectations in terms of conduct and personality traits (guNa-s)
     - Gita 18.41says: " ब्राह्मणक्षत्रियविशां शूद्राणां च परंतप। कर्माणि प्रविभक्तानि स्वभावप्रभवैर्गुणैः।।" Nilakanthacharya commentary takes close adherance to the shamAdi-sAdhAraNa-dharma as an example of contrast: "तस्माद्यस्मिन्कस्मिंश्चिद्वर्णे शमादयो दृश्यन्ते स शूद्रोऽप्येतैर्लक्षणैर्ब्राह्मण एव ज्ञातव्यः । यत्र च ब्राह्मणेऽपि शूद्रधर्मा दृश्यन्ते स शूद्र एव ।"
-        
+
+### Privileges of a brAhmaNa
+- Apolology (ie. defence) of brAhmaNa privilege
+  - By P V Kane - insert link.
+
+
 
 ## Gradation
 - General respectability: We don't have the slightest problem loving the mahAbhArata written by the rustic smelly son of a fisherwoman (mentioned thusly in the mahAbhArata) about her descendents, with shUdra heroes like vidura the brahmajjnAnI cum super-archer, ekalavya, ghaTotkacha; while simultaneous supporting a more fluid social dynamic.
