@@ -3,6 +3,7 @@ title = "mRgendrAgama quote"
 +++
 (Source: https://threader.app/thread/1368614102864556034)
 
+## Intro
 My favorite śloka in the Mṛgendrāgama, revealed by Devendra to Bharadvāja-Ṛṣi. 🙏🏾 
 
 > शैवे सिद्धे भाति मूर्ध्नीतरेषां  
