@@ -771,17 +771,22 @@ Another technical term found in this verse is yāmala, which is described as the
 
 The word kula ordinarily means 'body', but in this context it refers to the seventeenth kalā, the immortal phase of the moon. The word visarga is the 'emission of drops' emerging from perfect sexual union. The drops reflect the colors of [Siva and Sakti]: one is white and the other red. It tends to move outside (into the manifested universe) and creates the bodies of all living beings. In the Tantric doctrine, visarga is stated to be hārdhakalā, one-half of the sound 'ha.' The mother is none but the autonomous energy of Siva, with whom she remains inseparably united. The nature of this autonomous energy, which is beyond all limitations, is ‘reflective awareness' (vimarśa). This verse also indicates that Vimalakalā was the name of Abhinava's mother. The father is the five faced Siva [with each face represented by one of the five śaktis: consciousness, bliss, will, knowledge, and action]. They are the five outlets through which everything becomes manifest, or in the luminous imagery Abhinavagupta often employs, through which the entire universe shines. Each of Śiva’s ‘faces' is ever-engaged in performing one of his five functions through these śaktis. These five functions are: creation, maintenance, dissolution, veiling, and bestowing grace. 
 
-विततस्तन्त्रालोको विगाहितुं नैव शक्यते सर्वैः। ऋजुवचनविरचितमिदं तु तन्त्रसारं ततः शुणुत ।।२।। 
+विततस्तन्त्रालोको  
+विगाहितुं नैव शक्यते सर्वैः।  
+ऋजुवचन-विरचितम्  
+इदं तु तन्त्रसारं ततः शुणुत ।।२।। 
 
-TANTRASĀRA 53 
 
 As everyone is not capable of delving deep into the long text of the Tantrāloka, this Tantrasāra is composed in simple language. Therefore, please listen to it. 
 
-___ श्रीशम्भुनाथ-भास्करचरणनिपातप्रभापगतसंकोचम् | 
+श्रीशम्भु-नाथ-भास्कर-  
+चरण-निपात-प्रभापगत-सङ्कोचम् ।  
+अभिनव-गुप्त-हृद्-अम्बुजम्  
+एतद् विचिनुत महेशपूजनहेतोः ॥३॥ 
 
-अभिनवगुप्तहृदम्बुजमेतद्विचिनुत महेशपूजनहेतोः ।।३।। By falling at the feet of the venerable sun-like sambhu nātha, whose rays have removed all limitations from the lotus heart of Abhinavagupta, please collect this for the 
+By falling at the feet of the venerable sun-like śambhu-nātha, whose rays have removed all limitations from the lotus heart of Abhinavagupta, please collect this for the purpose of worshipping Maheśa. 
 
-purpose of worshipping Maheśa. इह ज्ञानं मोक्षकारणं बन्धनिमित्तस्य अज्ञानस्य विरोधकत्वात् द्विविधं च अज्ञानं बुद्धिगतं पौरुषं च; तत्र बुद्धिगतम् अनिश्चयस्वभावं, विपरीतनिश्चयात्मकं च । पौरुषं तु विकल्पस्वभावं संकुचितप्रथात्मकं, तदेव च मूलकारणं संसारस्य इति वक्ष्यामो मलनिर्णये । तत्र पौरुषम् अज्ञानं दीक्षादिना निवर्तेतापि, किं तु दीक्षापि बुद्धिगते अनध्यवसायात्मके अज्ञाने सति न सम्भवति-हेट गोपादेयनिश्चयपूर्वकत्वात् तत्त्वशुद्धिशिवयोजनारूपायादीक्षाया इति । तत्र अध्यवसायात्मकं बुद्धिनिष्ठमेव ज्ञानं प्रधानम्, तदेव च अभ्यस्यमानं पौरुषमपि अज्ञानं निहन्ति, विकल्पसंविदभ्यासस्य अविकल्पान्ततापर्यवसान पात् । विकल्पासंकुचित-संवित्प्रकाशरूपो हि आत्मा शिवस्वभाव इति सर्वथा समस्तवस्तुनिष्ठं सम्यनिश्चयात्मकं ज्ञानमुपादेयम् । तच्च शास्त्रपूर्वकम् । शास्त्रं च परमेश्वरभाषितमेव प्रमाणम् । अपरशास्त्रोक्तानामर्थानां तत्र वैविक्त्येन अभ्युपगमात् तदर्थातिरिक्त-युक्तिसिद्धनिरूपणाच्च, तेन अपरागमोक्तं ज्ञानं तावत एव बन्धात् विमोचकम्, न सर्वस्मात्, सर्वस्मात् तु विमोचकं परमेश्वरशास्त्रं, पञ्चस्रोतो (मयं) दशाष्टादशवस्वष्टभेदभिन्नम् । ततोऽपि सर्वस्मात् सारं षडर्धशास्त्राणि । तेभ्योऽपि मालिनीविजयम् । तदन्तर्गतश्चार्थः संकलय्याशक्यो निरूपयितुम् । न च अनिरूपितवस्तुतत्त्वस्य मुक्तत्वं मोचकत्वं वा, शुद्धस्य ज्ञानस्यैव तथारूपत्वात् इति । स्वभ्यस्तज्ञानमूलत्वात् परपुरुषार्थस्य तत्सिद्धये इदम् आरभ्यते । 
+इह ज्ञानं मोक्षकारणं बन्धनिमित्तस्य अज्ञानस्य विरोधकत्वात् द्विविधं च अज्ञानं बुद्धिगतं पौरुषं च; तत्र बुद्धिगतम् अनिश्चयस्वभावं, विपरीतनिश्चयात्मकं च । पौरुषं तु विकल्पस्वभावं संकुचितप्रथात्मकं, तदेव च मूलकारणं संसारस्य इति वक्ष्यामो मलनिर्णये । तत्र पौरुषम् अज्ञानं दीक्षादिना निवर्तेतापि, किं तु दीक्षापि बुद्धिगते अनध्यवसायात्मके अज्ञाने सति न सम्भवति-हेट गोपादेयनिश्चयपूर्वकत्वात् तत्त्वशुद्धिशिवयोजनारूपायादीक्षाया इति । तत्र अध्यवसायात्मकं बुद्धिनिष्ठमेव ज्ञानं प्रधानम्, तदेव च अभ्यस्यमानं पौरुषमपि अज्ञानं निहन्ति, विकल्पसंविदभ्यासस्य अविकल्पान्ततापर्यवसान पात् । विकल्पासंकुचित-संवित्प्रकाशरूपो हि आत्मा शिवस्वभाव इति सर्वथा समस्तवस्तुनिष्ठं सम्यनिश्चयात्मकं ज्ञानमुपादेयम् । तच्च शास्त्रपूर्वकम् । शास्त्रं च परमेश्वरभाषितमेव प्रमाणम् । अपरशास्त्रोक्तानामर्थानां तत्र वैविक्त्येन अभ्युपगमात् तदर्थातिरिक्त-युक्तिसिद्धनिरूपणाच्च, तेन अपरागमोक्तं ज्ञानं तावत एव बन्धात् विमोचकम्, न सर्वस्मात्, सर्वस्मात् तु विमोचकं परमेश्वरशास्त्रं, पञ्चस्रोतो (मयं) दशाष्टादशवस्वष्टभेदभिन्नम् । ततोऽपि सर्वस्मात् सारं षडर्धशास्त्राणि । तेभ्योऽपि मालिनीविजयम् । तदन्तर्गतश्चार्थः संकलय्याशक्यो निरूपयितुम् । न च अनिरूपितवस्तुतत्त्वस्य मुक्तत्वं मोचकत्वं वा, शुद्धस्य ज्ञानस्यैव तथारूपत्वात् इति । स्वभ्यस्तज्ञानमूलत्वात् परपुरुषार्थस्य तत्सिद्धये इदम् आरभ्यते । 
 
 According to this system, knowledge is the cause of libera tion (moksa), because it opposes or contradicts ignorance, which 
 
@@ -910,6 +915,7 @@ When these syllables finally descend through the stages of pasyanti, madhyamā, 
 
 विश्वं परामृशति नो मुकुरस्तथा तु ।। The entire universe is shining on the clear inner core of the Self. The multifarious forms shine on the surface of the mirror, but the mirror is not aware of them. On the other hand, supreme consciousness, by means of continuous flow of its own delight of self-consciousness, reflects the universe. 
 
+## 04
 चतुर्थमाह्निकम् । 
 
 अथ शाक्तोपायः तत्र यदा विकल्पं क्रमेण संस्कुरुते समनन्तरोक्तस्वरूपप्रवेशाय, तदा 
@@ -1045,7 +1051,7 @@ Bound souls possess a firm conviction of the follow
 ing nature: "I am dull, I am much-enticed by the bonds of past deeds, I am impure, I am led by others." Upon perfect attainment of a firm conviction contrary and distinct from the above, the same bound soul immedi ately becomes the Lord (pati) with the immanent form of pure consciousness. The perfect yogin should always be mindful that a firm conviction of the aforesaid nature should be attained. He should not endanger himself with doubts [arising from] notions lacking the true nature of things, or by the unsound precepts of dullards. 
 
 b.. 
-
+## 05
 अथ पञ्चमम् आह्निकम् । 
 
 अथाणवोपायाः ____ तत्र यदा विकल्पः स्वयमेव संस्कारम् आत्मनि उपायान्तरनिरपेक्षतयैव कर्तुं प्रभवति, तदा असौ पाशवव्यापारात् प्रच्युतः शुद्धविद्यानुग्रहेण परमेशशक्तिरूपताम् आपन्न उपायतया अवलम्ब्यमानः शाक्तं ज्ञानम् आविर्भावयति । तदेतच्च निर्णीतम् अनन्तर एव आहिके । यदा तु उपायान्तरम् असौ स्वसंस्कारार्थं विकल्पोऽपेक्षते, तदा बुद्धिप्राणदेहघटाादिकान् परिमितरूपान् उपायत्वेन गृह्णन् अणुत्वं प्राप्त आणवं ज्ञानम् आविर्भावयति, तत्र बुद्धिः ध्यानात्मिका, प्राणः स्थूलः सूक्ष्मश्च, आद्य उच्चारणात्मा, उच्चारणं च नाम पञ्च प्राणाद्या वृत्तयः, सूक्ष्मस्तु वर्णशब्दवाच्यो वक्ष्यते, देहः संनिवेशविशेषात्मा करणशब्दवाच्यः, घटादयो बाह्याः कुम्भस्थण्डिललिङ्गपूजा धुपायतया कीर्तयिष्यमाणाः । तत्र ध्यानं तावत् इह उचितम् उपदेक्ष्यामः, यत् एतत् स्वप्रकाशं सर्वतत्त्वान्तर्भूतं परं तत्त्वम् उक्तं, तदेव निजहृदयबोधे ध्यात्वा, तत्र प्रमातृप्रमाणप्रमेयरूपस्य वयर्कसोमत्रितयस्य संघट्ट ध्यायेत् यावत् असौ महाभैरवाग्निः ध्यानवातसमिद्धाकारः संपद्यते, तस्य प्राक्तनश क्तिज्वालाद्वादशकपरिवृतस्य चक्रात्मनः चक्षुरादीनाम् अन्यतमसुषिरद्वारेण निःसृतस्य बाह्ये ग्राह्यात्मनि विश्रान्तं चिन्तयेत्, तेन च विश्रान्तेन प्रथम तद्बाह्यं सोमरूपतया सृष्टिक्रमेण प्रपूरितं, ततः अर्करूपतया स्थित्या 
@@ -1152,6 +1158,7 @@ This is the brief summary in verse of the topics discussed in this section of Ch
 
 To some, discursive thought (vikalpa) attains fullness without resorting to any means, and to some it is puri fied by taking recourse to means. The expediency in this system is manifold. It is in the intellect (buddhi), the vital energy (prāṇa) in the body, and in external objects as well. They have been explained as limited, but at the attainment of the result, how can there be any distinction? 
 
+## 06
 अथ षष्ठमाहिकम् । अथ बाह्यविधिः । 
 
 TANTRASĀRA 87 
@@ -1262,6 +1269,7 @@ experience free from vikalpa takes place as a result of the absorp tion of time.
 
 Visualizing one's own power of breath, which is nondif ferent from one's own consciousness, which transcends time along with being ever engaged with the wheel of creation, maintenance and dissolution, one becomes one with Bhairava, the Lord. . 
 
+## 07
 ' अथ सप्तममाह्निकम् । 
 
 - अथ देशाध्वा । तत्र समस्त एव अयं मूर्तिवैचित्र्याभासनशक्तिजो देशाध्वा संविदि विश्रान्तः, तंदद्वारेण शून्ये बुद्धौ प्राणे नाडीचक्रानुचक्रेषु बहिः शरीरे यावल्लिङ्गस्थण्डिल प्रतिमादौ समस्तोऽध्वा परिनिष्ठितः, तं समस्तम् अध्वानं देहे विलाप्य, देहं च प्राणे, तं धियि, तां शून्ये, तत्संवेदने, निर्भरपरिपूर्णसंवित् संपद्यते षत्रिंशत्तत्त्वस्वरूपज्ञः, तदुत्तीर्णां संविदं परमशिवरूपां पश्यन् विश्वमयीमपि संवेदयेत्, अपरथा वेद्यभागमेव कंचित् परत्वेन गृह्णीयात् मायागर्भाधिकारिणं विष्णुब्रह्मादिकं वा, तस्मात अवश्यं प्रक्रियाज्ञानपरेण भवितव्यम् । तदुक्तं 'न प्रक्रियापरं ज्ञानम् .. . .. .. I' इति । तत्र पृथिवीतत्त्वं शतकोटिप्रविस्तीर्ण ब्रह्माण्डगोलकरूपम् । तस्य अन्तः कालाग्निर्नरकाः पातालानि पृथिवी स्वर्गो यावद्ब्रह्मलोक इति । ब्रह्माण्डबाह्ये रुद्राणां शतं । न च ब्रह्माण्डानां संख्या विद्यते । ततो धरातत्त्वात् दशगुणं जलतत्त्वं । तत उत्तरोत्तरं दशगुणम् 
@@ -1362,6 +1370,7 @@ Sthūla, Shūleśvara, Sankukarṇa, Kālañjara, Mandala bhịt, Mākoța, Dura
 
 fullness of Bhairava. Here ends Chapter Seven of the Tantrasāra of Abhinavagupta revealing the nature of the path of space. 
 
+## 08
 अथ अष्टममाह्निकम् । 
 
 अथ तत्त्वाध्वा निरूप्यते । यदिदं विभवात्मकं भुवनजातमुक्तं गर्भीकृतानन्तविचित्रभोक्तृभोग्यं, 
@@ -1484,6 +1493,7 @@ of ether (ākāśa). Fire emerges from the agitated subtle element form (rūpa),
 
 The gross elements, the host of subtle elements, the sense and motor organs, prakrti, puruṣa veiled with sheaths, and also from vidyā to the śakti, all of these are nothing but the order of expansion of the waves in the form of one's own consciousness. 
 
+## 09
 अथ नवममाहिकम् | 
 
 अथ तत्त्वानां भेदो निरूप्यते । स च सप्तधा षडर्धशास्त्र एव परं परमेशेन उक्तः । तत्र शिवाः मन्त्रमहेशाः मन्त्रेशाः मन्त्राः विज्ञानाकलाः प्रलयाकलाः सकला इति सप्त शक्तिमन्तः । एषां सप्तैव शक्तयः, तद्देदात् पृथिव्यादिप्रधानतत्त्वान्तं चतुर्दशभिर्भेदैः प्रत्येकं स्वं रूपं पञ्चदशम् । तत्र स्वं रूपं प्रमेयतायोग्यं स्वात्मनिष्ठम् - अपराभट्टारिकानुग्रहात्, प्रमातृषु उद्रिक्तशक्तिषु यत् विश्वान्तिभाजनं तत् तस्यैव शाक्तंरूपं 
@@ -1596,6 +1606,7 @@ In the thirteenfold variation following the order mentioned earlier, in regard t
 
 The beautiful form devoid of rest in consciousness, seen in the host of categories such as earth, etc., is not as beautiful as that of the supreme subject, as his know able shines in multifarious ways. Take recourse to this multitude of principles created in sequential order, which are in essence indeterminate I-Consciousness impregnated with autonomy and reflective awareness and attain your own Self. 
 
+## 10
 अथ दशममाह्निकम् ।। 
 
 TANTRASĀRA 135 
@@ -1641,7 +1652,7 @@ The number of pada, mantra, and varna is one, and the number of the worlds is si
 The number of pada, mantra, and principles (tattva) is one, while the number of syllables is sixteen. This is santātītākalā. These three verses in āryā meter have been composed by Abhinavagupta for the use of his students. 
 
 TANTRASĀRA 139 
-
+## 11
 अथ एकादशमाहिकम् । - तत्र यावत् इदम् उक्तम् तत् साक्षात् कस्यचित् अपवर्गाप्तये यथोक्तसंग्रहनीत्या भवति, कस्यचित् वक्ष्यमाणदीक्षायाम् उपयोगगमनात् इति दीक्षादिकं वक्तव्यम् । तत्र कः अधिकारी इति निरुपणार्थं शक्तिपातो विचार्यते । तत्र केचित् आहुः ज्ञानाभावात् अज्ञानमूलः संसारः तदपगमे ज्ञानोदयात् शक्तिपात इति तेषां सम्यक् ज्ञानोदय एव किं कृत इति वाच्यम्, कर्मजन्यत्वे कर्मफलवत् भोगवत्वप्रसङ्गे भोगिनि च शक्तिपाताभ्युपगतौ अतिप्रसङ्गः, ईश्वरेच्छानिमित्तत्वे तु ज्ञानोदयस्य अन्योन्याश्रयता वैयर्थ्य च, ईश्वरे रागादिप्रसङ्गः, विरुद्धयोः कर्मणोः समबलयोः अन्योन्यप्रतिबन्धे कर्मसाम्यं, ततः शक्तिपात इति चेत्, न -क्रमिकत्वे विरोधायोगात्, विरोधेऽपि अन्यस्य अविरुद्धस्य कर्मणो भोगदानप्रसङ्गात्, अविरुद्धकर्मप्रवृत्तौ तदैव देहपातप्रसङ्गात्, जात्यायुष्प्रदं कर्म न प्रतिबध्यते भोगप्रदमेव तु प्रतिबध्यते इति चेत्, कुतः - तत्कर्मसद्धावे यदि शक्तिः पतेत् तर्हि सा भोगप्रदात् किं विभियात् । अथ मलपरिपाके शक्तिपातः सोऽपि किंस्वरूपः ? किं च तस्य निमित्तम् ? इति, एतेन वैराग्यं धर्मविशेषो विवेकः सत्सेव सत्प्राप्तिः देवपूजा इत्यादिहेतुः प्रत्युक्त इति भेदवादिनां सर्वम् असमञ्जसम् । स्वतन्त्रपररमेशाद्वयवादे तु उपपद्यते एतत, यथाहि - परमेश्वर: स्वरूपाच्छादनक्रीडाया पशः पदलोडणः संपन्नः, न च तस्य देशकालस्वरूपभेदविरोधः तद्वत् स्वरूपस्थगनविनिवृत्त्या स्वरूपप्रत्यापत्तिं झटिति वा क्रमेण वा समाश्रयन् शक्तिपातपात्रम् अणुः उच्यते. स्वातन्त्र्यमात्रसारश्च असौ परमशिवः शक्तेः पातयिता इति निरपेक्ष एव शक्तिपातो यः स्वरूपप्रथाफलः, यस्तु भोगोत्सुकस्य स कर्मापेक्षः, लो० फोत्तररूपभोगोत्सुकस्य तु स एव शक्तिपातः परमेश्वरेच्छाप्रेरितमायाग धि कारीयरुद्रविष्णुब्रह्मा-दिद्वारेण, मन्त्रादिरूपत्वं मायापुंविवेकं पुंस्कलविवेकं पुंप्रकृतिविवेकं पुबुद्धिविवेकमन्यच्च फलं प्रस्नुवानः तदधरतत्त्वभोगं प्रतिबध्नाति, भोगमोक्षोभयोत्सुकस्य भोगे कर्मापेक्षो, मोक्षे तु तनिरपेक्षः इति सापेक्षनिरपेक्षः । न च वाच्यं - कस्मात् कस्मिंश्चिदेव पुंसि शक्तिपात इति, स एव परमेश्वरः तथा भाति इति सतत्त्वे कोऽसौ पुमान् नाम यदुद्देशेन विषयकृता चोदना इयम् ।140 TANTRASĀRA 
 
 Chapter Eleven 
@@ -1710,6 +1721,7 @@ This veiling has no effect on a person upon whom grace has fallen. In this insta
 
 The Lord, who by nature is without any veil, covers his nature of light by his freedom of will; in the same way he unfolds it as well. In the domain of his non-enlight ened state, he behaves like an enlightened one and later wakes up. The nature of the descent of grace is to be independent. 
 
+## 12
 Chapter Twelve दीक्षादिकं वक्तव्यम् इति उक्तम्, दीक्षास्वरूपनिरूपणार्थं प्राक् कर्तव्यं स्नानम् उपदिश्यते । स्नानं च शुद्धता उच्यते, शुद्धता च परमेश्वरस्वरूपसमावेशः 
 
 TANTRASĀRA 149 
@@ -1746,6 +1758,7 @@ This bathing, with variations of external and internal, is of two types.186 The 
 
 Immersion into the very nature of the Lord is called bath. When this is correctly performed, only then does an external bath becomes a ritual bath. The external form of the bath is called a ritual bath only in the sec ondary sense. 
 
+## 13
 अथ त्रयोदशमाहिकम् । अथ प्रसन्नहृदयो यागस्थानं यायात्, तच्च यत्रैव हृदयं प्रसादयुक्तं परमेश्वरसमावेशयोग्यं भवति तदेव, न तु अस्य अन्यल्लक्षणम्, उक्तावपि ध्येयतादात्म्यमेव कारणम्, तदपि भावप्रसादादेव इति नान्यत् स्थानम् । पीङ्ग पर्वताग्रम् इत्यादिस्तु शास्त्रे स्थानोद्देश एतत्पर एव बोद्धव्यः - तेषु तेषु पीङ्गादि स्थानेषु परमेशनियत्या परमेश्वराविष्टानां शक्तीनां देहग्रहणात्, आर्यदेशा 
 
 152 TANTRASĀRA 
@@ -1904,6 +1917,7 @@ Thus, listening to these conventional rules, and approaching the teacher, prostr
 
 After meditating on all the paths abiding in one's own Self, one should conceive one's self as being full.. Therefore, with a look of grace, one should see the dis .ciple's self pervaded up to the end of the twelve. In this way he becomes transformed into samayin. 
 
+## 14
 अथ चतुर्दशमाह्निकम् । अथ पुत्रकदीक्षाविधिः । स च विस्तीर्णः तन्त्रालोकात् अवधार्यः | संक्षिप्तस्तु उच्यते । समय्यन्तं विधिं कृत्वा तृतीयेऽह्रि त्रिशुलाब्जे मण्डले सामुदायिकं यागं पूजयेत्, तत्र बाह्यपरिवार द्वारदेवताचक्रं च बहिः पूजयेत्, ततो मण्डलपूर्वभागे ऐशकोणात् आरभ्य आग्नेयान्तं पङ्क्तिक्रमेण गणपतिं गुरुं परमगुरुं परमेष्ठिनं पूर्वाचार्यान् योगिनीचक्रं वागीश्वरी क्षेत्रपालं च पूजयेत् । तत आज्ञां समुचिताम् आदाय शूलमूलात् प्रभृति सितकमलान्तं समस्तम् अध्वानं न्यस्य अर्चयेत्, ततो मध्यमे त्रिशूले मध्यारायां भगवती श्रीपराभट्टारिका भैरवनाथेन सह, वामारायां तथैव श्रीमदपरा, दक्षिणारायां श्रीपरापरा, दक्षिणे त्रिशूले मध्ये श्रीपरापरा, वामे त्रिशूले मध्ये श्रीमदपरा, द्वे तु यथास्वम् । एवं सर्वस्थानाधिष्ठातृत्वे भगवत्याः सर्वं पूर्णं तदधिष्ठानात् भवति इति । ततो मध्यशूलमध्यारायां समस्तं देवताचक्र लोकपालास्त्रपर्यन्तम् अभिन्नतयैव पूजयेत् तदधिष्ठानात् सर्वत्र पूजितम् । ततः कुम्भे कलशे मण्डले अग्नौ स्वात्मनि च अभेदभावनया पञ्चाधिकरणम् अनुसन्धिं कुर्यात्, ततः परमेश्वराद्वयरसबृंहितेन पुष्पादिना विशेषपूजां कुर्यात् । 
 
 168 TANTRASĀRA 
@@ -1956,6 +1970,7 @@ The well-enlightened teacher, after conceiving his own existence composed of all
 
 When the disciple, after attaining all at once the state of great bliss and consciousness, gets his rest there, then the paśu attains the nature of Siva. 
 
+## 15
 अथ पञ्चदशमाहिकम् । यदा पुनरासन्नमरणस्य स्वयं वा बन्धुमुखेन शक्तिपात उपजायते, तदा अस्मै सद्यः समुत्क्रमणदीक्षां कुर्यात् । समस्तमध्वानं शिष्ये न्यस्य तं च क्रमेण शोधयित्वा, भगवती कालरात्रीम् मर्मकर्तनीं न्यस्य, तया क्रमात्क्रमं मर्मपाशान् विभिद्य, ब्रह्मरन्ध्रवर्ति शिष्यचैतन्यं कुर्यात् । ततः पूर्वोक्तक्रमेण योजनिका) पूर्णाहुतिं दद्यात्, यथा पूर्णाहुत्यन्ते जीवो निष्क्रान्तः परमशिवाभिन्नो भवति | बुभुक्षोस्तु द्वितीया पूर्णाहुतिः - भोगस्थाने योजनाय, तत्काले च तस्य 
 
 TANTRASĀRA 173 
@@ -1983,7 +1998,7 @@ sured on the scale.216
 If mantra cuts the delicate joints of the body, and if lightness appears and the power of germination of the seed disappears, the great Lord leads one who is engaged in the right path to attain the desired ends immediately. 
 
 TANTRASĀRA 175 
-
+## 16
 अथ षोडशमाह्निकम् । अथ परोक्षस्य दीक्षा, द्विविधश्च सः-मृतो जीवंश्च । तत्र कृतगुरुसेव एव मृत उद्वासितो व अभिचारादिहतो डिम्बाहतो मृत्युक्षणोदिततथारुचिः मुखान्तरायातशक्तिपातो वा तथा दीक्ष्य इत्याज्ञा । अत्र च मृतदीक्षायाम् अधिवासादि न उपयुज्यते । मण्डले मन्त्र विशेषसंनिधये यत्र बहुला क्रिया, उत्तममुपकरणं पुष्पादि, स्थानं पीङ्गादि, मण्डलं त्रिशूलाब्जादि, आकृतिः ध्येयविशेषः, मन्त्रः स्वयं दीप्तश्च, ध्यानपरस्य योगिनः तदेकभक्तिसमावेशशालिना ज्ञानिनश्च संबन्धः, इत्येते संनिधानहेतवो यथोत्तरम् उक्ताः | समुदितत्वे तु का कथा स्यात् - इति परमेश्वरेण उक्ता । ततो देवं. : पूजयित्वा तदाकृति कुशादिमयीम् अग्रे स्थापयित्वा गुर्वासादितज्ञानोपदेशक्रम 'ण तां पश्येत्, स च 
 
 मूलाधारादुदेत्य प्रसृतसुविततानन्तनाड्यध्वदण्डं .: वीर्येणाक्रम्य नासागगनपरिगतं विक्षिपन्व्याप्तुमीष्टे । यावद्धमाभिरामप्रतितरशिखाजालकेनाध्वचक्रं ___संच्छाद्याभीष्टजीवानयनमिति महाजालनामा प्रयोगः ।। एतेनाच्छादनीयं व्रजति परवशं संमुखीनत्वमादौ 
@@ -2027,7 +2042,7 @@ Initiation, again, is the bestower of both enjoyment and lib eration, because la
 What a wonder that the teacher, by his steady absorp tion in the Great Lord, becomes the sharer of the free dom of will. Even viewing the person, though absent, he becomes the initiator. 
 
 TANTRASĀRA 179 
-
+## 17
 अथ सप्तदशमहिकम् । 
 
 अथ लिङ्गोद्धारः ।। वैष्णवादिदक्षिणतन्त्रान्तेषु शासनेषु ये स्थिताः तद्गृहीतव्रता वा, ये च उत्तमशासनस्था अपि अनधिकृताधरशासनगुरूपसेविनः, ते यदा शक्तिपातेन पारमेश्वरेण उन्मुखीक्रियन्ते तदा तेषामयं विधिः, - तत्र एनं कृतोपवासम अन्यदिने साधारणमन्त्रपूजितस्य तदीयां चेष्टां श्रावितस्य अम्भसि क्षिपेत्, ततोऽसौ स्नायात्, ततः प्रोक्ष्य, चरुदन्तकाष्ठाभ्यां संस्कृत्य, बद्धनेत्रं प्रवेश्य साधारणेन मन्त्रेण परमेश्वरपूजां कारयेत् । ततः साधारणमन्त्रेण शिवीकृते अग्नौ व्रतशुद्धिं कुर्यात्, तन्मन्त्रसंपुटं नाम कृत्वा 'प्रायश्चित्तं शोधयामि' इति । स्वाहान्तं शतं जुहुयात् । ततोऽपि पूर्णाहुतिः वौषडन्तेन । ततो व्रतेश्वरम् आहूय पूजयित्वा तस्य शिवाज्ञया 'अकिञ्चित्करः त्वमस्य भव' इति श्रावणां कृत्वा तं तर्पयित्वा विसृज्य अग्निं विसृजेत्, इति लिङ्गोद्धारः । ततोस्य अधिवासादि प्राग्वत् । दीक्षा यथेच्छम् । 
@@ -2050,6 +2065,7 @@ times. Next with 'vausat,' he should offer the final oblation. After this, he sh
 
 When a person remaining in the lower order, being keenly touched by the power of the Lord, becomes inclined to approach the true teacher, he should, after purification, be given initiation even though he was for merly engaged with a false teacher. 
 
+## 18
 अथाष्टादशमाहिकम् । 
 
 अथाभिषेकः । स्वभ्यस्तज्ञानिनं साधकत्वे गुरुत्वे वा अभिषिञ्चेत् - यतः सर्वलक्षणहीनोऽपि ज्ञानवानेव साधकत्वे अनुग्रहकरणे च अधिकृतः न अन्यः, अभिषिक्तोऽपि | स्वाधिकारसमर्पणे गुरुः दीक्षादि अकुर्वन् अपि न प्रत्यवैति, पूर्वं तु प्रत्यवायेन अधिकारबन्धने विद्येशपददायिना बन्ध एव अस्य दीक्षाद्यकरणम्, 
@@ -2082,6 +2098,7 @@ The person who himself is well practiced in knowledge
 
 · mit that knowledge to others, possesses the nature of a sādhaka on the way to becoming a spiritual guide. Such a person should be given anointment. 
 
+## 19
 अथैकोनविंशमाहिकम् । अथ अधरशासनस्थानां गुर्वन्तानामपि मरणसमनन्तरं मृतोद्धारोदित शक्तिपातयोगादेव अन्त्यसंस्काराख्यां दीक्षां कुर्यात्, ऊर्ध्वशासनस्थानामपि लुप्तसमयानाम् अकृतप्रायश्चित्तानाम् - इति परमेश्वराज्ञा | तत्र यो मृतोद्धारे विधिः उक्तः स सर्व एव शरीरे कर्तव्यः, पूर्णाहुत्या शवशरीरदाहः, मूढानां तु प्रतीतिरूढये सप्रत्ययामन्त्येष्टिं क्रियाज्ञानयोगबलात् कुर्यात्, तत्र शवशरीरे संहारक्रमेण मन्त्रान् न्यस्य जालक्रमेण आकृष्य रोधनवेधनघट्टनादि कुर्यात् - प्राणसंचारक्रमेण हृदि कण्ङ्गे ललाटे च इत्येवं शवशरीरं कम्पते । ततः परमशिवे योजनिकां कृत्वा तत् दहेत् पूर्णाहुत्या, अन्त्येष्ट्या शुद्धानाम् अन्येषामपि वा श्राद्धदीक्षां त्र्यहं तुर्ये दिने मासि मासि संवत्सरे संवत्सरे कुर्यात् । तत्र होमान्तं विधिं कृत्वा नैवेद्यमेकहस्ते कृत्वा तदीयां वीर्यरूपां शक्तिं भोग्याकारां पशुगतभोग्यशक्तितादात्म्यप्रतिपन्नां ध्यात्वा परमेश्वरे भोक्तरि अर्पयेत्, इत्येवं भोग्यभावे निवृत्ते पतिरेव भवति, अन्त्येष्टिमृतोद्धरणश्राद्धदीक्षाणाम् अन्यतमेनापि यद्यपि कृतार्थता तथापि बुभुक्षोः क्रियाभूयस्त्वं फलभूयस्त्वाय इति सर्वमाचरेत् । मुमुक्षोरपि तन्मयिभावसिद्धये अयम् जीवतः प्रत्यहम् अनुष्ठानाभ्यासवत् । तत्त्वज्ञानिनस्तु न कोऽप्ययम् अन्त्येष्ट्यादिश्राद्धान्तो 
 
 TANTRASĀRA 183 
@@ -2118,6 +2135,7 @@ TANTRASĀRA 185
 
 Siva is by nature inclined to show grace. Being so inclined, the person on whom He shows grace unavoid ably becomes identical with the Lord. It is merely his will by which the means (upāya) are imagined to be so. Though knowing this, the wise person takes recourse to means having limitations, and then he remains free from doubts. 
 
+## 20
 अथ विंशमाहिकम् । अथ शेषवर्तनार्थं प्रकरणान्तरम् । - तत्र या दीक्षा संस्कारसिध्यै ज्ञानयोग्यान् प्रति, या च तदशक्तान् प्रति मोक्षदीक्षा सबीजा, तस्या कृतायाम् आजीवं शेषवर्तनं गुरुः उपदिशेत् । तत्र नित्यं, नैमित्तिकं, काम्यम् इति त्रिविधं शेषवर्तनम्, अन्त्यं च साधकस्यैव, तत् न इह निश्चेतव्यम् । तत्र नियतभवं नित्यं, तन्मयीभाव एव नैमित्तिकं, तदुपयोगि सन्ध्योपासनं प्रत्यहमनुष्ठानं, पर्वदिनं, पवित्रकम् इत्यादि । तदपि नित्यं स्वकालनैयत्यात् - इति केचित् । नैमित्तिकं तु तच्छासनस्थानामपि अनियतम्, तद्यथा - गुरुतद्वर्गागमनं तत्पर्वदिनं ज्ञानलाभदिनम् इत्यादिकम् - इति केचित् । तत्र नियतपूजा, सन्ध्योपासा, गुरुपूजा, पर्वपूजा, पवित्रकम् इति अवश्यंभावि | नैमित्तिकम् - ज्ञानलाभः, शास्त्रलाभो, गुरुतद्वर्गगृहागमनं, तदीयजन्मसंस्कारप्रायणदिनानि, लौकिकोत्सवः, शास्त्रव्याख्या आदिमध्यान्ता, देवतादर्शनं, मेलकः, स्वप्नाज्ञा, समयनिष्कृतिलाभः - इत्येतत् नैमित्तिकं विशेषार्चनकारणम् । तत्र कृतदीक्षाकस्य शिष्यस्य प्रधान मन्त्रं सवीर्यकं 
 
 संवित्तिस्फुरणसारम् अलिखितं वक्रागमेनैव अर्पयेत्, ततः तन्मयीभावसिद्ध्यर्थं स शिष्यः संध्यासु तन्मयीभावाभ्यासं कुर्यात्, तद्वारेण सर्वकालं तथाविधस स्कारलाभसिद्ध्यर्थं प्रत्यहं च परमेश्वरं च स्थण्डिले वा लिङ्गे व अभ्यर्चयेत्। तत्र हृद्ये स्थण्डिले विमलमकुरवद्ध्याते स्वमेव रूपं याज्यदेवताचक्राभिन्नं मूर्तिविम्वितमिव दृष्ट्वा हृद्यपुष्पगन्धासवतर्पणनैवेद्यधूपदीपोपहारस्तुति गीतवाद्यनृत्तादिना पूजयेत्, जपेत्, स्तुवीत-तन्मयीभावमशङ्कितं लब्धुम् । आदर्श हि स्वमुखम् अविरतम् अवलोकयतः तत्स्वरूपनिश्चितिः अचिरेणैव भवेत्, न चात्र कश्चित् क्रमः प्रधानम् - ऋते तन्मयीभावात् । परमन्त्रतन्मयीभावाविष्टस्य 
@@ -2278,6 +2296,8 @@ This is the procedure related to the worship of a teacher:
 
 The person who performs the indispensable (nitya) and occasional observances (naimittika), etc., showing no misery, attains liberation only by the practice of ritu als, without having knowledge of the truth, or taking recourse to yoga. 
 
+## 21
+
 अथैकविंशमाहिकम् । एवं समस्तं नित्यं नैमित्तिकं कर्म निरूपितम् । अधुना अस्यैव आगमस्य प्रामाण्यम् उच्यते । तत्र संविम्मात्रमये विश्वस्मिन् संविदि च विमर्शात्मिकायां, विमर्शस्य च शब्दानात्मकतायां सिद्धायां, सकलजगनिष्ठवस्तुनः तद्गतस्य च क र्मफलसंबन्धवैचित्र्यस्य यत् विमर्शनं तदेव शास्त्रम् - इति परमेश्वरस्वभावाभिन्न एव समस्तः शास्त्रसंदर्भो वस्तुत एकफलप्रापकः एकाधिकार्युद्देशेनैव, तत्र तु परमेश्वरनियतिशक्तिमहिम्नैव भाग भागे रूढिः लोकानाम् इति । केचित् मायो चतभेदपरामर्शात्मनि वेदागमादिशास्त्रे रूढाः, अन्ये तथाविध एव मोक्षाभिमानेन सांख्यवैष्णवशास्त्रादौ, परे तु विविक्तशिवस्वभावामर्शनसारे शैवसिद्धान्तादौ, अन्ये सर्वमयपरमेश्वरतामर्शनसारे मतङ्गादिशास्त्रे, केचित् तु विरलविरलाः समस्ता-वच्छेदबन्ध्यस्वातन्त्र्यानन्दपरमार्थसंविन्मयपरमेश्वरस्वरूपामर्शनात मनि श्रीत्रिकशास्त्रक्रमे, केचित् तु पूर्वपूर्वत्यागक्रमेण लङ्घनेन वा - इत्येवम् एकफलसिद्धिः एकस्मादेव आगमात् । 
 
 Chapter Twenty-One Thus, all the rituals of the indispensable (nitya) and occasional observances (naimittika) have been described. Next, the evidence of this āgama237 will be elaborated. This universe is composed solely of consciousness, which abides in a consciousness charac terized by reflective awareness (vimarśa), which has been ascer tained to be its inner verbalization or articulation (śabdana).238 Šāstra, the sacred text, is of the nature of reflective awareness 
@@ -2318,6 +2338,7 @@ As the wise person considers the light of the conscious ness shining as supreme 
 
 A person exists in the behavior devised by his own con viction of common usage, but only becomes free from doubts when he becomes the supreme Lord, after attain ing steadiness in the highest prasiddhi, the transcendent. 
 
+## 22
 अथद्वाविंशमाहिकम् ।। अथसमस्ता इयम् उपासा समुन्मिषत्तादृशदृढवासनारूढान् अधिकारिणः प्रति श्रीमत्कौलिकप्रक्रियया निरूप्यते, तत्र उक्तं योगसंचारादौ 
 
 'आनन्दं ब्रह्म तद्देहे त्रिधौष्ट्यान्त्यव्यवस्थितम् । 
@@ -2450,9 +2471,10 @@ Thus, in the vital air with the characteristic of such an exten sion of immanenc
 
 From the initiation given in absence to the end of the occasional ritual, the above procedures are to be followed, but they are to be performed keeping this as the principal ritual. The seven forms of kulayāga are performed in the body of the spiritual teacher, but when this is performed once along with the aforesaid ritual, every thing becomes perfect. Thus may the end be auspicious. This is a work of revered Abhinavaguptapāda ācārya. 
 
-Notes 
+## Notes 
 
-Chapter One 1. Like ignorance, knowledge is also of two types. That knowledge 
+Chapter One 
+1. Like ignorance, knowledge is also of two types. That knowledge 
 
 called pauruṣa is free from thought constructs (vikalpa) and is of the nature of pure l-Consciousness. It shines in its fullness when - complete identification with Śiva occurs. That ignorance, which is 
 
