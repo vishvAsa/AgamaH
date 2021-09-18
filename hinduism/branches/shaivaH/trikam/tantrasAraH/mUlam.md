@@ -1,5 +1,5 @@
 +++
-title = "तन्त्रसारः (मूलम्)"
+title = "मूलम्"
 +++
   
 स्रोतो [ऽत्र](https://archive.org/details/in.ernet.dli.2015.541529/page/n27/mode/2up)।  
