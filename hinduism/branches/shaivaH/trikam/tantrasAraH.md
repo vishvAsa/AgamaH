@@ -106,7 +106,7 @@ In this perception of light there is no separate entity to be reflected upon. It
 
 The absolute freedom of the Lord (svātantrya-śakti), mentioned above, causes the images of entities (bhāvas) to manifest in the clear mirror of pure consciousness. The bhāvas cannot shine by themselves, they shine in the void of consciousness as reflections. For this reason, the Lord is said to be immanent. As this śakti is sentient, not inert, so too is its āmarśa or cognition; that is her self-reflection continues ceaselessly. Her self-reflective nature is known as parā-nāda, which in the āgama literature is repre sented as a goddess called parāvāk, the Supreme Sound. 
 
-Speech (vāk) is śakti and is not different from reflective awareness (vimarśa). The śaktis which extend and assume the form of the universe are chiefly three: anuttara, icchā, and unmeṣa. Basically, they are nothing but the nature of reflection (parāmarśa), assuming the syllabic form of the letters, such as: “a,” “i," "u."+++(4)+++ It is from them that all the śaktis originate. The fifty syllables of the Sanskrit alphabet come broadly under two groups: the sixteen letters from a to visarga are known as vowels, and the rest, from ka to ha, are consonants. The vowels are the seeds (bijas) and the consonants are the receptacles (yonis) for receiving the seeds.+++(5)+++ 
+Speech (vāk) is śakti and is not different from reflective awareness (vimarśa). The śaktis which extend and assume the form of the universe are chiefly three: anuttara, icchā, and unmeṣa. Basically, they are nothing but the nature of reflection (parāmarśa), assuming the syllabic form of the letters, such as: “a,” “i," "u."+++(4)+++ It is from them that all the śaktis originate. The fifty syllables of the Sanskrit alphabet come broadly under two groups: the sixteen letters from a to visarga are known as vowels, and the rest, from ka to ha, are consonants. The vowels are the seeds (bījas) and the consonants are the receptacles (yonis) for receiving the seeds.+++(5)+++ 
 
 Primarily, the Lord who is anuttara becomes ānanda, which is the self-reflection of universal consciousness (cit). As cit in its slight vibration becomes intent on externality, it is known as ānanda. Similarly, iccha becomes īśāna when it rests in icchā.+++(4)+++ In the same way, ūrmi is the reflective unmeṣa.+++(4)+++ As syllables, these three are indicated by "a,” "i", "u.” From u onward, kriyā śakti begins to function. The former three parāmarśas have the characteristics of prakāśa.+++(4)+++ Hence, they are of the nature of the sun, and the latter parāmarśas, the long vowels "ā," "ī,” “ū," are of the nature of soma or moon, with the characteristic of rest. 
 
@@ -144,7 +144,7 @@ Sattarka is the light of "pure knowledge" (śuddhavidyā). It is considered to b
 
 Parameśvara is by nature pure consciousness and is ever full. His fullness is His Sakti, the Divine I-consciousness. By the grace of śuddhavidyā, one has recourse to cit śakti, which finally leads the aspirant to Sambhu, the Lord. 
 
-#### Chapter Five
+#### 05
 When a thought construct (vikalpa) cannot become pure by itself, and one has to depend on other means for its purification, the aspirant is decidedly staying in the lower stage of spiritual devel opment; in other words, in him śaktipāta has occurred to a lesser degree. Therefore, for the purification of vikalpas, and because he is limited himself, he resorts to means that are also limited. Hence, the individual takes up practices of the intellect (buddhi), vital energy (prāṇa), or the body itself for this purpose. 
 
 Among these kinds of aspirants, those more advanced proceed on the path of meditation (dhyāna). The Tantrasāra gives a brief account of how this contemplative meditation is to be performed: Though it is called dhyāna, it is quite distinct from the dhyānas found in various holy texts, especially those in which the aspirant imagines his desired deity as having a face and limbs. 
@@ -159,7 +159,7 @@ After dhyāna, the text gives a description of uccāra. The upward movement of p
 
 Prāna is of two kinds, one general (sāmānya) and the other specific (viśeṣa). In the former, difference of any sort is totally absent, while in the latter, because of distinct activities, the same pråṇa shows itself in five forms, known as prāṇa, apāna, samāna, udāna, and vyāna. It is quite evident that these five have their base in the general prāṇa. 
 
-Because of the vibrating movement of prāṇa, inarticulate sound, known as the "unstruck” sound (anāhatanāda), becomes : manifest. It sounds continuously, without any break, in the heart of every living being. This nāda is associated with two bijas, namely srstibīja (sa) and samhārabija (ha). 
+Because of the vibrating movement of prāṇa, inarticulate sound, known as the "unstruck” sound (anāhatanāda), becomes : manifest. It sounds continuously, without any break, in the heart of every living being. This nāda is associated with two bījas, namely srstibīja (sa) and samhārabīja (ha). 
 
 The activity of prāṇa functions without any conscious effort on the part of the living being. Usually prāṇa moves along the chan nels of ida and pingala. The middle path remains blocked for the ordinary human being. When, by the grace of the spiritual teacher, the middle path opens up, then the aspirant's journey toward the supreme begins. 
 
@@ -183,9 +183,9 @@ The inarticulate sound (anahātanāda) is ever present, but it becomes manifest 
 
 INTRODUCTION 13 
 
-#### Chapter Six 
+#### 06 
 
-Chapter Six describes the method for the realization of essen tial reality by external means. In the preceding chapter, Abhi navagupta describes āṇavopāya, which helps the aspirant attain absorption into the divine Self through the means of uccāra, dhyāna, varṇa, and karaṇa. The present section discusses how a yogin adopts prāṇavāyu as the means for attaining his or her desired goal. 
+Chapter Six describes the method for the realization of essential reality by external means. In the preceding chapter, Abhi navagupta describes āṇavopāya, which helps the aspirant attain absorption into the divine Self through the means of uccāra, dhyāna, varṇa, and karaṇa. The present section discusses how a yogin adopts prāṇavāyu as the means for attaining his or her desired goal. 
 
 From this chapter onward, whatever is described up to Chap ter Twelve comes under the “formation of the place" (sthānapra kalpana). The locations are three: the vital energy, the body, and other external objects. 
 
@@ -195,8 +195,6 @@ The objects shine in two ways, either with sequence or with out any sequence. Th
 
 Because of its association with impurity (āṇava mala), the knowing subject of the void (sünya pramātā) becomes externally inclined, and the universe that was previously rejected or negated is now thought of as the most desirable object. Then a vibrating upsurge occurs in it, which shows itself as prāṇa. 
 
-14 TANTRASĀRA 
-
 Prāṇa is the first expansion of consciousness. It shows itself as spanda, the very nature of self-reflection. For this reason, prāṇa is said to be predominantly of the nature of the power of activity (kriyā śakti). Therefore, though it is inert (jada), it is primarily of the nature of consciousness. For this reason, by resorting to prāna, the aspirant is able to attain the supreme reality. 
 
 Prāṇa is the very life of every living being. It is always on the move. Because of its activities in different locations of the body, the universal prāṇa is known as prāṇa, apāna, samāna, udāna, and vyāna. Of these five, prāna and apāna function as the activity of inhaling and exhaling. The incoming movement of the breath starts from the heart and ends "twelve fingers above one's head," known as dvādaśānta, while the outgoing movement of the breath starts from dvādaśānta and ends at the heart. This movement con tinues and goes on functioning 21,600 times in a single day. 
@@ -205,31 +203,19 @@ Prāna is the manifest form of śakti, and all the six adhvas -namely, varṇa, 
 
 Hence the yogin makes an effort to realize the supreme real ity by resorting to prāṇa, and thus puts an end to the mutations caused by the impelling force of time. 
 
-By its nature prāna is constantly vibrating. This vibration arises spontaneously in the location of kanda (bulb) below the generative organ. The spontaneous movement of prāna bestows little spiritual result in comparison with the movement of the vital energy that is caused by the conscious effort of the yogin. Hence, by his deliberate effort in association with jyeștha śakti, the yogin tries to impel his prāṇa from the center of the heart along the path upward so that it may reach the dvādaśānta, twelve fingers 
-
-INTRODUCTION 15 
-
-above one's head. After letting it rest there, it is made to move again toward the heart. This ingoing and outgoing process is sim ply known as inhaling and exhaling, but to the yogin it means something else. In the primary stage, the yogin with keen observa tion watches each movement of prāṇa rising in the heart, proceed ing upward and coming back into the heart again. He divides the whole course of prāṇa into sixteen divisions. Each of these sixteen divisions is known as tuți, representing a day. Similarly, the exha lation represents a night. When the yogin becomes sufficiently proficient, he then takes each movement of prāna and apāna to represent a month. 
+By its nature prāna is constantly vibrating. This vibration arises spontaneously in the location of kanda (bulb) below the generative organ. The spontaneous movement of prāna bestows little spiritual result in comparison with the movement of the vital energy that is caused by the conscious effort of the yogin. Hence, by his deliberate effort in association with jyeștha śakti, the yogin tries to impel his prāṇa from the center of the heart along the path upward so that it may reach the dvādaśānta, twelve fingers above one's head. After letting it rest there, it is made to move again toward the heart. This ingoing and outgoing process is sim ply known as inhaling and exhaling, but to the yogin it means something else. In the primary stage, the yogin with keen observa tion watches each movement of prāṇa rising in the heart, proceed ing upward and coming back into the heart again. He divides the whole course of prāṇa into sixteen divisions. Each of these sixteen divisions is known as tuți, representing a day. Similarly, the exha lation represents a night. When the yogin becomes sufficiently proficient, he then takes each movement of prāna and apāna to represent a month. 
 
 The course along which prāṇa and apāna move measures thirty-six digits (anguli). The yogin assumes that the hour, the tithi, and other long and short units of time get their rise in prāṇa. It should be noted here that kriyā śakti, which operates externally as kāla śakti in prāna, is without any definite form. For this rea son, whatever shines in prāna as measures of very small amounts of time, such as kṣana, lava, and so forth, may shine as a year or more than several years. Not only do they shine and rise in it, but they also terminate in the highest equilibrium. 
 
 When prāna runs the course of two and one-quarter digits, the duration is known as a tuți. Four of such tutis make a prahara, while half of a tuți is known as gap (sandhyå). The exhaling and the inhaling represent the day and the night. 
 
-In the same way, the yogin also conceives that a month, consist ing of thirty lunar days (tithis) with broad divisions of two fort nights, rises in prāna. All the tithis from the first day of the lunar fortnight (pratipad) to the night of new moon (amāvāsya), and then again from pratipad to the full moon day (pārṇima), lie along the course of the inhaling and exhaling movement of prāṇa and apāna. The sixteenth tithi, consisting of half a tuți at the start and another half at the final resting place, is considered to be the san dhyā, the meeting point of the day and the night. These two halves of tuțis are free from the influence of time, and for this reason sandhyās are considered to be very auspicious. Similarly, during 
-
-16 TANTRASĀRA 
-
-the dark fortnight, the moon or the apāna offers its digits (kalā) one by one to prāna, the sun, and the final one is offered near the dvādaśānta at the fifteenth tuți, after which the moon itself gets dissolved into the sun. This is known as amāvāsya, when the moon remains latent in the kalā known as ama. When the span of one half of the tuți occupied by amāvāsya gets into the portion of pratipad, the duration of the tithi is cut short and therefore a solar eclipse occurs. The eclipse obliterates the difference of the know ing subject (pramātā), the instrument of knowledge (pramāṇa), and the objects known (prameya). Therefore, the occasion is con sidered to be auspicious because it bestows otherworldly results. 
+In the same way, the yogin also conceives that a month, consist ing of thirty lunar days (tithis) with broad divisions of two fort nights, rises in prāna. All the tithis from the first day of the lunar fortnight (pratipad) to the night of new moon (amāvāsya), and then again from pratipad to the full moon day (pārṇima), lie along the course of the inhaling and exhaling movement of prāṇa and apāna. The sixteenth tithi, consisting of half a tuți at the start and another half at the final resting place, is considered to be the san dhyā, the meeting point of the day and the night. These two halves of tuțis are free from the influence of time, and for this reason sandhyās are considered to be very auspicious. Similarly, during the dark fortnight, the moon or the apāna offers its digits (kalā) one by one to prāna, the sun, and the final one is offered near the dvādaśānta at the fifteenth tuți, after which the moon itself gets dissolved into the sun. This is known as amāvāsya, when the moon remains latent in the kalā known as ama. When the span of one half of the tuți occupied by amāvāsya gets into the portion of pratipad, the duration of the tithi is cut short and therefore a solar eclipse occurs. The eclipse obliterates the difference of the know ing subject (pramātā), the instrument of knowledge (pramāṇa), and the objects known (prameya). Therefore, the occasion is con sidered to be auspicious because it bestows otherworldly results. 
 
 Similarly, a year is supposed to get its rise in a single move ment of prāna. For this reason, the entire course of the movement of prāṇa and apāna corresponds with uttarayaṇa (the progress of the sun to the north) and dakśināyaṇa (the progress of the sun to the south). In this case, the tithis occupy only one-fifth of a digit and the "sun's passage from one sign of the zodiac (rāśi) to another” (samkrānti) occurs every six digits. 
 
 For the purpose of minimizing the influence of time, the yogin further strives to get twelve years to rise in a single movement of prāṇa and apāna. He locates sixty tithis in a digit, and the passage of one rāsi to another is supposed to be the duration of a year. In this way, he is able to observe the duration of twelve years in the single movement of prāṇa and apāna. 
 
-Like prāṇa, time is thought to arise in apāna. It arises in the heart and goes down to mūlādhāra. Just as Brahmā and others are supposed to be the causal deities residing in different locations, namely, in the heart and other places as mentioned above, in the same way, they are said to have their locations in the heart and other places down to kanda, etc. The yogin meditates upon the dei ties as the causal agents of the stages of childhood, youth, old age, death, rebirth, and liberation of the embodied soul. From Brahmā to Anasrita, these six are considered to be the cause of different states through which a living being must pass. As they give rise to these stages of life, in the beginning they are accepted by the 
-
-INTRODUCTION 17 
-
-yogin, but are ultimately rejected by him. To him, the most accept able object is the supreme Goddess, the seventh, called unmanā. Once the aspirant is united with unmanā, it is possible for him to reach beyond these states. 
+Like prāṇa, time is thought to arise in apāna. It arises in the heart and goes down to mūlādhāra. Just as Brahmā and others are supposed to be the causal deities residing in different locations, namely, in the heart and other places as mentioned above, in the same way, they are said to have their locations in the heart and other places down to kanda, etc. The yogin meditates upon the dei ties as the causal agents of the stages of childhood, youth, old age, death, rebirth, and liberation of the embodied soul. From Brahmā to Anasrita, these six are considered to be the cause of different states through which a living being must pass. As they give rise to these stages of life, in the beginning they are accepted by the yogin, but are ultimately rejected by him. To him, the most accept able object is the supreme Goddess, the seventh, called unmanā. Once the aspirant is united with unmanā, it is possible for him to reach beyond these states. 
 
 The movement of apāna ends in the dvādaśānta, otherwise known as the yoginivaktra. If the yogin is able to find rest there, the distinctions of the upper and the lower will be put to rest forever. 
 
@@ -237,13 +223,9 @@ This method is followed similarly in samāna. Samāna arises in the navel, flows
 
 The movement of udāna proceeds from the heart up to the dvādaśānta, a center of prāna twelve fingers above the head. The yogin tries to watch the entire measure of time from one tuți to sixty years in the single movement of udāna. It is thought to have the characteristic of vibration (spandarūpa). Vyāna is all-perva sive by nature, and so it is free from sequence; still, time arises there in the form of a subtle vibration. 
 
-The subtle forms of the vowels of the Sanskrit alphabet (varnas) arise without any effort, but in their gross forms, the varṇas rise through personal effort. The syllables are of three kinds: transcendent, subtle, and gross. The transcendent are of two kinds: parātama is the highest form that preserves a distinc tion among the vowels, while nāda is an uncreated sound, hence 
+The subtle forms of the vowels of the Sanskrit alphabet (varnas) arise without any effort, but in their gross forms, the varṇas rise through personal effort. The syllables are of three kinds: transcendent, subtle, and gross. The transcendent are of two kinds: parātama is the highest form that preserves a distinc tion among the vowels, while nāda is an uncreated sound, hence it is known as anāhata, a sound that resounds ceaselessly without beginning or end. It is united with all the syllables as their source, and in this sense is the supreme transcendent form of sound with out distinctions. 
 
-18 TANTRASĀRA 
-
-it is known as anāhata, a sound that resounds ceaselessly without beginning or end. It is united with all the syllables as their source, and in this sense is the supreme transcendent form of sound with out distinctions. 
-
-#### Chapter Seven
+#### 07
 In the seventh chapter, the text presents deśādhva, the path of space. It consists of objects of multifarious forms made manifest by the Lord by means of His power of activity. The form of any of these objects, such as house, courtyard, market, temple, garden, or forest, which are different from one another, shines to a limited subject only as being mutually distinct from one another, and also from the subject himself. To the Lord, who is perfect and there fore free from all limitations, all subjects and objects shine as his very Self. In reality, these forms have their substratum in pure consciousness, and so they shine nondifferently from it. In its free will, consciousness (saṁvid) veils its pure nature and manifests before the view of the limited subject as sūnya, prāna, and buddhi, and from this the embodied soul sees pictures of objects as distinct from the experiencing subject. Thus, sūnya, prāṇa, and buddhi shine externally as objects, but really they are not different from the Self. 
 
 The adhvas have their locations in sünya, prāṇa, in all the nādi cakras, and in the body itself. As they proceeded from con sciousness, they are to be dissolved into it by involutionary meth ods. As the adhvas are vast, it is practically impossible, even for a yogin, to do so in an eon of ages. 
@@ -260,7 +242,7 @@ From this, it is evident that all the adhvas, consisting of thirty six tattvas, 
 
 This chapter gives a detailed account of all the tattvas from the earth onward, and the bhuvanas contained in each. 
 
-#### Chapter Eight
+#### 08
 In the previous chapter we saw that worlds (bhuvanas) are the expansion of Sakti, which keep all the multifarious forms of sub jects and their objects of experience within herself. Permeating them all is the highest universal, known as Parāmasiva, who remains ever shining. That which is less pervasive than the high est universal, present in some bhuvanas but absent in others, is defined as a tattva; for example, solidity, firmness, and grossness are all qualities found in Brahmānda alone. 
 
 The next discussion in this chapter is the relationship of cause20 TANTRASĀRA 
@@ -301,7 +283,7 @@ INTRODUCTION 23
 
 ally related to one another. These are classified in a threefold divi sion consisting of nara, Śakti, and Siva. Śiva pervades all by His characteristic nature of luminous consciousness. The principle in which this characteristic of light is more prominent is considered more extensive than the other. For example, Siva is more extensive than Sakti, while the latter is more so than nara. 
 
-#### Chapter Nine
+#### 09
 This chapter classifies all the tattvas grouped under fifteen aspects as viewed by the seven kinds of knowing subjects: siva, mantramaheśvara; mantreśvara, mantra, vijñānākala, pralaya kala, and sakala. These subjects each possess one of seven śaktis; thus counting the śaktis and the possessors of these śaktis, the number becomes fourteen. Including svarūpa, which refers to the "object in itself," with these fourteen, each of the tattvas from prthvī to prakrti has fifteen aspects. 
 
 The Lord possesses three śaktis in the form of the goddesses as parā, parāparā, and āparā parā. The transcendent śakti func tions as the subject (pramātā). She is parā śakti, who is insep arably united with the supreme Subject. The goddess parāparā śakti is the instrument (pramāna), and āparā śakti operates as the object of experience (prameya). 
@@ -510,7 +492,7 @@ Jāgrat svapna suṣupti turya turyātīta
 
 (e) Cit 
 
-#### Chapter Ten
+#### 10
 Chapter Ten begins with a description of the general features of the subtle units constituting the manifested universe called kalās. Abhinavagupta defines a tattva as that which threads through all the worlds (bhuvanas), and kalā is that which invariably abides in the group of tattvas. 
 
 The number of kalās are four, i.e., nivetti, pratisthā, vidyā, and śāntā. The four andas: pārthiva, prākrta, māyīya, and sāktā are made of these kalās. 
@@ -521,7 +503,7 @@ INTRODUCTION 31
 
 ever, for the purpose of meditation, He is said to possess a kalā named śāntātitā. The sphere or egg (anda) is a kind of covering which exists up to Sakti, and though the bhuvanas exist under the Siva tattva, they are said to be of the form of the void and there fore do not serve as a covering. 
 
-#### Chapter Eleven
+#### 11
 This chapter discusses śaktipāta, but before giving a detailed account of it, the text deals with issues concerning the occurrence of the descent of grace in a particular individual. This has been dealt with in detail in our translation of the text and the additional: notes. The author presents and critiques three standard views regarding śaktipāta: (1) bondage, or saṁsāra, has ignorance as its root. When the rise of right knowledge occurs, the descent of grace also comes into being. This view has been refuted by the author. (2) Next, the view known as karmasāmya, that is, the bal ance of two opposing actions, is summarized. According to this theory, when karmasāmya occurs, śaktipāta is sure to take place. The author does not accept this view either. (3) The third view considers the ripening of mala (mala paripaka) as the cause of Śaktipāta, which is also rejected by the author. 
 
 According to Abhinavagupta, these views may be acceptable to the followers of dualist philosophies, but according to the non dual system known as Parameśvarādvayavāda (known to modern scholarship as Kashmir Saivism), they are not tenable. According to this system, the Great Lord, in the course of His play, veils His true nature and assumes a limited nature. When the concealment of His pure nature disappears, the limited self becomes the recipi ent of śaktipāta and is able to attain the proximity of svarūpa, the true form of the Lord, either by following a sequence or by attaining proximity to the Lord without sequence. The Great Lord (Mahesvara) is in essence free, and the causal agent of śaktipāta, for which he does not depend on anything or anyone. The person who is eager to have worldly and otherworldly enjoyment (bhoga) 
@@ -542,7 +524,7 @@ in the worlds below praksti. When the descent is exceedingly keen (tivra), howev
 
 After śaktipāta, the author explains the nature of concealment (tirobhāvaa) as one of the five functions (pañcakrtya) of the Lord. Tirobhāva is of two types: niyati krama, when the Lord is seen as the one who ordains the law and the one who bestows the fruits of action in accordance with the merit and demerit of the soul. Here, He takes recourse to niyati, and therefore the functions of creation, maintenance, and dissolution flow from Him. But above māyānda, that is, at the level of śakti, which is beyond the sphere of karma, there continues creation of immense nature. This cre ation is known as mahāsrsti. Similarly, the pralaya of greater nature, that is, the highest form of dissolution, is also performed at this stage. Creation and dissolution of this nature are performed by the Lord without taking recourse to niyati, but those which are performed from the level of māyā downward are accomplished by his taking recourse to niyati. Therefore, at that stage, though He is, in essence, always prabuddha, the enlightened one, he behaves in the worldly level as an unenlightened one. 
 
-#### Chapter Twelve 
+#### 12
 
 In this chapter, the author presents and substantiates the rea sons for the performance of initiations (diksā). In addressing the question of the necessity of dikṣā, the author states that initia tion alone is the means that leads the soul to enjoyment (bhoga) and finally helps one to attain liberation. Primarily, dikṣā sanc tifies the soul and produces in it the competency for receiving knowledge (jñāna), yoga, etc., for without obtaining dikṣā fol lowing the course of Saiva Yoga would not be possible. Therefore dikṣā is considered to be the preliminary step in the progression from saṁskāra, to the proper practice of yoga, to perfection in 
 
@@ -554,7 +536,7 @@ It should be remembered that the highest kind of knowledge is obtained from the 
 
 Snāna, bathing, is the preliminary step to dikṣā. Generally, bathing cleanses impurities of the body, but esoterically it helps one to become absorbed into Parameśvara. Ordinarily, bathing is performed with water, according to this system it is a little bit dif ferent: one who goes to take a bath should think of the presence of Siva in his eight forms. By uttering a mantra one should perform one's bath with the eight prescribed materials. Bathing is of two types, external and internal. The former is done by earth, water, the sacred ashes, etc., but the internal one is performed by one's concentration in various locations of the body. The object with which one performs one's bath is charged with a mantra and thus helps the body to become steady in reality, refreshes the body, and cleanses it of impurities. 
 
-#### Chapter Thirteen
+#### 13
 Here the author explains the necessity of and reasons for the ritual procedures that are to be performed on hilltops, river banks, and other holy spots. Though those places are considered to be auspi cious, they are really external, and thus of little help for attaining siddhis, in contrast to the internal seats (pithas), which are much more useful, because they concentrate the vital energy in differ ent locations in the body, and through this one is able to attain 
 
 INTRODUCTION 35 
@@ -679,7 +661,7 @@ Then, the teacher worships the Lord. When this is complete,40 TANTRASĀRA
 
 the teacher enters inside the body of the disciple by the outlet of the prāṇa in order to come in contact with the six presiding dei ties located in the six centers. Then, meditating on the forty-eight samskāras, rites are performed in the body of the "newly born child"; that is, the disciple, through contact with Brahmā, Viṣṇu, Rudra, Isvara. Sadāśiva, and Siva, located in the hrdaya, kantha, tālu, ghrumadhya, lalata, and brahmarandhra, respectively. The eight rites of purification are meditated upon differently in each of the six centers. Thus the number becomes complete, and as a result the disciple becomes twice born (dvīja). Then, causing the prāṇa of the disciple to rest in the respective places for a while, the teacher comes out and gives him the mantra along with flow- · ers. Then he tells him the code of conduct (samaya) which he should follow as long as he lives. 
 
-#### Chapter Fourteen
+#### 14
 This chapter describes the procedure of initiation called putraka. On the third day after anointment, a mandala or diagram con sisting of three tridents with a lotus on each prong is drawn on the ground. All the rituals described in this chapter are to be performed in relation to it. Those groups of deities called the "external retinues" and the "deities at the door" are worshipped outside. Then, in front of the mandala, moving from northeast to southeast, Ganesa, one's teacher (guru), the teacher's teacher (paramagurus), the lineage of previous teachers, the yoginis, the Goddess of Speech (Vāgiśvarī), and kṣetrapalas are worshipped. After receiving their permission, the teacher worships the nine paths (adhvas) in the tridents. On the middle prong of the middle most trident, the Goddess Srīparā and Bhairava are worshipped; the Goddess Śrīāparā is worshipped on the left, and the Goddess Śrīparāparā on the right. On the trident to the right, Srīparāparā is placed in the middle prong, while on the trident to the left Sriāparā is placed in the middle. Bhagavati is the supreme Goddess, and because of her presence everywhere, all activities become perfect, 
 
 INTRODUCTION 41 
@@ -694,27 +676,23 @@ Then, the author describes animal sacrifice (pasu homa). When it is complete, th
 
 After attaining oneness of consciousness, the teacher abides in the body of the disciple from his toes to the top of his head, and having absorbed the consciousness of the disciple's body, the teacher rests, along with the disciple, in the ocean of bliss, which is in essence the wealth of freedom. The teacher merges along with him into the Lord, resplendent with icchā, jñāna, and kriya. Thus, the disciple becomes non-different from the Lord. If the disciple is desirous of bhoga, the teacher unites him with that par ticular principle. Finally, the teacher bestows on him a pure body for performing deeds in mundane life. 
 
-#### Chapter Fifteen
+#### 15
 This chapter describes the initiation given to a dying person. The recipient of such a dikṣā is a person who has been suffering from an incurable disease. The teacher, after making nyāsa of all the adhvas in him and purifying them one after the other, performs a nyāsa called marmakartani, by which he severs all the delicate 
 
 42 TANTRASĀRA 
 
 joints and brings his consciousness to brahmarandhra. For the purpose of unification (yojana), he then offers the final oblation into the fire. Thus, the disciple becomes one with Parāmaśiva. 
 
-#### Chapter Sixteen
+#### 16
 In this chapter, the author describes the method of initiation that is given to those who are dead and who are not present during the procedure. For the purpose of bestowing it on the departed soul, the teacher brings nearby a device known as mahājāla prayoga, the application of a large net. To the person who is absent but not dead, this procedure is not followed.. 
 
-#### Chapter Seventeen
+#### 17
 This chapter gives the procedure known as lingoddhāra; it simply means “rescuing a person from a fallen state." It is performed for one who has gone away from the right track by receiving initia tion from persons belonging to other systems, such as Vaisnava, Bauddha, and other lower Saiva schools. However, the teacher will grant this type of initiation only when he becomes convinced that Śaktipāta has definitely occurred in a prospective disciple. 
 
 According to the author, the Trika is the superior system, for all the other śāstras, as preached by Kapila and others, lead the seeker to attain release from prakrti, but they do not help him attain release from māyā. On the other hand, Saivāgamas, as expounded by the Trika, lead everybody to the ultimate immediately. 
 
-#### Chapter Eighteen
-In this chapter the method of abhiseka is described. Abhiseka is given both to putraka and acārya types of disciples, provided they have received the sabija form of initiation. The term sabija means “with seed," but it really signifies that this form of initiation is given to those who are competent enough to follow certain strict 
-
-INTRODUCTION 43 
-
-rules of conduct during their lifetime. On the other hand, the nir bija form of initiation is given to old and decrepit persons who are less assiduous and therefore unable to follow strict codes of con duct as enjoined by the holy text. 
+#### 18
+In this chapter the method of abhiseka is described. Abhiseka is given both to putraka and acārya types of disciples, provided they have received the sabīja form of initiation. The term sabīja means “with seed," but it really signifies that this form of initiation is given to those who are competent enough to follow certain strict rules of conduct during their lifetime. On the other hand, the nir bīja form of initiation is given to old and decrepit persons who are less assiduous and therefore unable to follow strict codes of con duct as enjoined by the holy text. 
 
 Abhiseka is restrictive in the sense that not everybody is con sidered competent enough to receive it. In particular, acāryābhi ṣeka is given to those who, after receiving initiation, have attained proficiency in āgamic knowledge; those who have restraint over their body, mind, and speech; those who follow the duties as 
 
@@ -722,7 +700,7 @@ enjoined by the scripture; those who have become proficient in :: unification of
 
 dhāna); those who have gained perfection-in the highest knowl edge by listening to it from their teacher; and those who continue mental exertion for retaining it, followed by meditative thought (śruta, cinta, and bhāvanā) terminating in identity with Siva. The author categorically states that even after receiving abhiṣeka, only one who has really attained perfection in the highest knowledge is worthy of bestowing grace to others. 
 
-#### Chapter Nineteen 
+#### 19
 
 The funeral sacrifice is the final rite for every human being. Ini tiation is given during that period only to a person who, though he belonged to the highest Saiva order, on account of some unknown factor lost the tradition and expired without performing the rites of atonement before death. Such a person is given initiation when his body is placed on the funeral pyre. 
 
@@ -736,7 +714,7 @@ dha rite. The teacher takes a ball of rice in his hand and meditates on it as th
 
 · In this chapter, the author raises a relevant question: whether for the knower of reality (tattva jñānin), rituals such as sraddha and others are necessary or not. He answers saying that when, by the light of true knowledge, darkness has been totally removed from the enlightened one, there is no need of a final ritual like antyesti śrāddha, etc. But, for the people who had been closely associated with the departed one, the day of his unification with the Supreme is observed as a day of parva, the day which causes fullness of consciousness in him. 
 
-#### Chapter Twenty 
+#### 20
 
 The present section discusses the disciple's obligations, known as sesavartana, the duties that should be carried out until the end of his life. These duties are of three kinds: obligatory (nitya), occa sional (naimittika), and kāmya, those performed for the fulfill ment of some desire. 
 
@@ -754,7 +732,7 @@ The person who is totally absorbed in the highest mantra in the way stated above
 
 Then, the author describes the activities related to the parvas, which are performed occasionally by the disciple. 
 
-#### Chapter Twenty-One
+#### 21
 This chapter presents the authority of agamas. In the Tantrāloka, āgama has been defined as a well-known fact of old, as prasid dhi. It also emphasizes the point that even agreement and contra riety (anvaya and vyatireka), which are the very life of inference, 
 
 46 TANTRASĀRA 
@@ -767,7 +745,7 @@ The entire universe is of the nature of consciousness, which is nothing but refl
 
 low the dual system and others are attached to the nondual. In the end, the author concludes that a particular agama should be resorted to only after it has been shown to produce excellent results. 
 
-#### Chapter Twenty-Two
+#### 22
 This last chapter explains the nature of Kulācara. It should be noted at the outset that this form of worship is not meant for every body, but is only for those who are well advanced, and in whom the inclination for performing such rituals has grown strong; only because of this are they entitled to perform this worship of the divine according to this method.+++(5)+++ 
 
 When a person becomes free from determination (vikalpa) and is able to attain steadiness in the indeterminate state (nirvikalpa), only then is one entitled to worship according to kulakrama, for it is stated in the Tantrāloka that if, during the performance of this ritual, one thinks of the object of worship as different from himself, he fails to attain either siddhi or mukti. One who has plunged into the secret of this ritual and follows its course is really endowed with the highest knowledge. Therefore, Jayaratha writes in his commentary on Tantrāloka 29:102 that those great souls who are really free from vikalpas take up this course, as prescribed by the Kula system. Particularly, they follow the course only to see if their mind, in the presence of allurements, is truly steady in pure consciousness (samvidadvaite) or not.+++(5)+++ For this reason, they do not think it immoral to practice in the company of female partners (duti). 
@@ -1168,7 +1146,7 @@ Now on the topic of 'syllabic sound' (varna), which is of the nature of subtle v
 
 is because the word,' that is, mantra, is free from conventional relations (samaya)69 and therefore is full in every respect. Even the words which depend on convention are also capable of con veying their respective meanings according to the imagination of one's mind. After one has experienced supreme consciousness (in this way] he should bring together the heart, the throat, the lips, and the two 'ends of the twelve' (dvādaśānta). Then, one should unify all of them in the core of consciousness' (hrdayam). This is the esoteric secret of this syllable (varṇa). Some explain that from the 'reflective consciousness'vibrating in the 'core of the heart emerge white- and yellow-colored syllables. It is by this medita tion that a yogin is able to realize consciousness 
 
-By the vibrating consciousness in absence of any object to be denoted, and by restraining the movement of both moon (indu, that is, apāna) and sun (arka, that is, prāṇa), a person, because of entering into the realm of consciousness in a balanced way, becomes fully perfect in regard to cit, bija, and pindamantras. 
+By the vibrating consciousness in absence of any object to be denoted, and by restraining the movement of both moon (indu, that is, apāna) and sun (arka, that is, prāṇa), a person, because of entering into the realm of consciousness in a balanced way, becomes fully perfect in regard to cit, bīja, and pindamantras. 
 
 This is the brief summary in verse of the topics discussed in this section of Chapter Five. Here ends the elucidation of the way of the 'syllabic sound' (varṇa). Karaṇa will be explained in the mudrā section. 
 
@@ -1782,7 +1760,7 @@ TANTRASĀRA 153
 
 two combinations of mantras: 'hrim,' 'nam,' 'pham,' 'hrim'; and 'hrim,'',' 'ksa,' 'hrim' indicative of Siva and Sakti, which are the 
 
-mantras of the malini and mātrka orders. If this placement of man tras' (nyāsa) is done with only one of these two, then it should first be performed with mālini, followed by matrkā. If nyāsa is done for the purpose of attaining mokṣa, then it should be done from the feet all way to the top of the head. However, if enjoyment (bhoga) is the objective, then it should be done in reverse. The goddess mālini is the principal form of śakti which, because of the close union of vowels (bijas) and consonants (yonis), is capable of fulfilling 
+mantras of the malini and mātrka orders. If this placement of man tras' (nyāsa) is done with only one of these two, then it should first be performed with mālini, followed by matrkā. If nyāsa is done for the purpose of attaining mokṣa, then it should be done from the feet all way to the top of the head. However, if enjoyment (bhoga) is the objective, then it should be done in reverse. The goddess mālini is the principal form of śakti which, because of the close union of vowels (bījas) and consonants (yonis), is capable of fulfilling 
 
 • all sorts of desires. Her name is aptly significant. She is adorned .. with a garland of rudraśaktis blossoming in fruits. She is the hum ming bee of sound (nāda), capable of dissolving the ice of worldly existence. She bears both spiritual perfection (siddhi) and libera tion (mokṣa). She is associated with both the śaktis of offering and accepting, for the syllables "ya" and "ra” are identical, according to Panini. Therefore, even the application of the mantra, which has lost its traditional procedure, becomes perfect (comes to its fruition) by the power of placement of mālini. Impure Gāruda and Vaisnava mantras bestow liberation after becoming pure (by its efficacy). 
 
@@ -1996,7 +1974,7 @@ Chapter Fifteen When a teacher learns by himself, or through relatives, of a des
 
 Siva. However, for the one who is desirous of enjoyment, the sec ond final oblation is offered for the purpose of associating him with the place of enjoyment. At that moment211 his individual self remains dissolved there, and for him nothing remains to be done in this world. 
 
-In addition to this, a teacher may recite the brahmavidyā 212 into the ear of the disciple. Brahmavidyā, being of the nature of the reflective consciousness, causes an immediate self-reflection of enlightenment in the limited consciousness of the awakened, bound soul. The samayins and others are also entitled to recite it.213 If the nirbija type of initiation with conviction (sapratyaya)214 is given to a dullard on whom the descent of grace has occurred, then the hand of Siva' (sivahasta) type of procedure should also be disclosed to him. This procedure is followed during offering of the hand of Siva (Sivahastadāna) to him. 
+In addition to this, a teacher may recite the brahmavidyā 212 into the ear of the disciple. Brahmavidyā, being of the nature of the reflective consciousness, causes an immediate self-reflection of enlightenment in the limited consciousness of the awakened, bound soul. The samayins and others are also entitled to recite it.213 If the nirbīja type of initiation with conviction (sapratyaya)214 is given to a dullard on whom the descent of grace has occurred, then the hand of Siva' (sivahasta) type of procedure should also be disclosed to him. This procedure is followed during offering of the hand of Siva (Sivahastadāna) to him. 
 
 There is a fiery triangle, dreadful with flames, from which sparks of fire with the syllabic form of "ra" are emerging. It is being blown from outside by waves of wind. This diagram should be meditated upon using the palm of the teacher's right hand. Throwing a seed there, one should conceive that it has the syl lable "ra" above and below, by which a series of 'phat mantras are awakened, which burn its capacity of creativity.215 Thus, the seed of both become seedless by this type of initiation. It becomes capable of destroying its latent seed power, as has been stated, and even immovable objects are capable of receiving an initiation. The disciple should be conceived as being steadily established in the world of air and carried by it, and should also be conceived as being light in weight. Then, he is seen as being lighter when mea 
 
@@ -2160,7 +2138,7 @@ Siva is by nature inclined to show grace. Being so inclined, the person on whom 
 
 Chapter Twenty Here, another chapter is introduced with the purpose of showing the lifelong course to be followed after initiation (seṣavartana). 
 
-That initiation, which is given to those worthy of knowledge for the purpose of steady attainment of purification, is also given to those unworthy of knowledge, but to them it is given for the purpose of attainment of liberation. This type of initiation is the sabija type.228 Thus, having given initiation, the teacher should instruct the disciple about the duty to be performed during the remaining period of his life. ___The duty for the rest of [the initiate's] life is threefold: indis pensable observances (nitya), occasional observances (naimittika), and those performed with a particular desire (kāmya). The last one is only observed by those desiring enjoyments (sādhaka) and therefore will not be described here. The nitya is the one which occurs regularly; the naimittika is the one by which one is able to attain oneness with the Lord. The auxiliaries to it are the prayers during the junctures (sandhyā) of the day, which are to be per formed on a daily basis, on the day of the festivals (parvadinam), and on the day of the offering of kusa grass (pavitrakam), etc. 
+That initiation, which is given to those worthy of knowledge for the purpose of steady attainment of purification, is also given to those unworthy of knowledge, but to them it is given for the purpose of attainment of liberation. This type of initiation is the sabīja type.228 Thus, having given initiation, the teacher should instruct the disciple about the duty to be performed during the remaining period of his life. ___The duty for the rest of [the initiate's] life is threefold: indis pensable observances (nitya), occasional observances (naimittika), and those performed with a particular desire (kāmya). The last one is only observed by those desiring enjoyments (sādhaka) and therefore will not be described here. The nitya is the one which occurs regularly; the naimittika is the one by which one is able to attain oneness with the Lord. The auxiliaries to it are the prayers during the junctures (sandhyā) of the day, which are to be per formed on a daily basis, on the day of the festivals (parvadinam), and on the day of the offering of kusa grass (pavitrakam), etc. 
 
 TANTRASĀRA 187 
 
@@ -2590,7 +2568,7 @@ ness with all the distinctions of subjects and their objects-yet also shines, tr
 
 with the subject of supreme consciousness. 25. The energy of emission (visarga) manifesting itself as individual cog 
 
-nitions appears as the universe. She, that is, Sakti, is the cause, or the mother, of all sorts of gross words and sentences. In agamas it has two appellations; the one is called mātska and the other malini. The former is the seed (bija) and the latter is the recipient (yoni) of the seed. The one, when agitated, gives birth to diverse phonemes. All these phonemes, being the indicative sound, represent all thirty 
+nitions appears as the universe. She, that is, Sakti, is the cause, or the mother, of all sorts of gross words and sentences. In agamas it has two appellations; the one is called mātska and the other malini. The former is the seed (bīja) and the latter is the recipient (yoni) of the seed. The one, when agitated, gives birth to diverse phonemes. All these phonemes, being the indicative sound, represent all thirty 
 
 six principles (tattva), beginning with Siva and ending with the earth. 26. In reality the number of cognitions is six. They are anuttara, iccha, 
 
@@ -3380,7 +3358,7 @@ NOTES 255
 
 form of initiation which joins the animal with the higher principles 
 
-and for the purpose of propitiating God. 207. The nirbija type of initiation is given to those judged incapable of 
+and for the purpose of propitiating God. 207. The nirbīja type of initiation is given to those judged incapable of 
 
 following the set of rules of post-initiatory conduct (samayapāśa), as for example children, those who are dull, old people, women, those attached to their wealth, the sick, and so on. They attain lib eration on account of their devotion to the teacher, deities, and scriptures. On the other hand, the sabīja type of initiation is given to those who have the gift of reason, are capable of tolerating toils and difficulties, and are therefore capable of following the set of rules of pre-initiatory conduct... 
 
@@ -3472,7 +3450,7 @@ must take in hand, first of all, the offering (naivedyam), and after having medi
 
 Chapter Twenty 228. This vague statement can only be understood if we read it along 
 
-with its corresponding section of the TĀ, which is Chapter 26. In the beginning of this chapter, Abhinavagupta explains that all the types of initiation presented up to now, including the last sacra ment, have as their goals purification, enjoyment, liberation, or both enjoyment and liberation. Jayaratha, in his commentary, clar ifies that the initiation which has enjoyment (bubhukṣuḥ) as its aim is structured so that it is not in a position to directly grant libera tion without first granting the fruition of the desired enjoyments). On the other hand, the mumukṣuḥ type of initiation, such as that of a spiritual son, etc., grants liberation precisely because it is devoid of the necessity of prior fruition. Furthermore, this type of initia tion can be either the sabija or the nirbīja type. Only those who received the sabija type of initiation are expected to follow a cer tain set of rules for the rest of their lives. On the other hand, those deemed incapable of following these rules receive the nirbīja type of initiation, which in itself includes mantras capable of purifying 
+with its corresponding section of the TĀ, which is Chapter 26. In the beginning of this chapter, Abhinavagupta explains that all the types of initiation presented up to now, including the last sacra ment, have as their goals purification, enjoyment, liberation, or both enjoyment and liberation. Jayaratha, in his commentary, clar ifies that the initiation which has enjoyment (bubhukṣuḥ) as its aim is structured so that it is not in a position to directly grant libera tion without first granting the fruition of the desired enjoyments). On the other hand, the mumukṣuḥ type of initiation, such as that of a spiritual son, etc., grants liberation precisely because it is devoid of the necessity of prior fruition. Furthermore, this type of initia tion can be either the sabīja or the nirbīja type. Only those who received the sabīja type of initiation are expected to follow a cer tain set of rules for the rest of their lives. On the other hand, those deemed incapable of following these rules receive the nirbīja type of initiation, which in itself includes mantras capable of purifying 
 
 the bonds of post-initiatory rules (samayapāśa). 229. Mantras should be received in the course of ritual and should be 
 
