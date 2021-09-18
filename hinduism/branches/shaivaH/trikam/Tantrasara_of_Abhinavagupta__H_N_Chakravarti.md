@@ -110,11 +110,7 @@ Speech (vāk) is śakti and is not different from reflective awareness (vimarśa
 
 Primarily, the Lord who is anuttara becomes ānanda, which is the self-reflection of universal consciousness (cit). As cit in its slight vibration becomes intent on externality, it is known as ānanda. Similarly, iccha becomes īśāna when it rests in icchā.+++(4)+++ In the same way, ūrmi is the reflective unmeṣa.+++(4)+++ As syllables, these three are indicated by "a,” "i", "u.” From u onward, kriyā śakti begins to function. The former three parāmarśas have the characteristics of prakāśa.+++(4)+++ Hence, they are of the nature of the sun, and the latter parāmarśas, the long vowels "ā," "ī,” “ū," are of the nature of soma or moon, with the characteristic of rest. 
 
-When icchā and īśāna become inclined toward activity, or, in other words, when activity enters them, disturbance sets in, which 
-
-6 TANTRASĀRA 
-
-causes a break within that tranquility. Then icchā and īśāna are known as isyamāṇa. In one, the light is predominant, while the other is of the nature of rest. They are known as “r," "," "1," "!." They are the only semivowels, and are unlike the consonant sounds of ra and la; therefore they are not considered consonants as such. Since they retain both the vowel and consonant sounds, they are considered to be neuter. 
+When icchā and īśāna become inclined toward activity, or, in other words, when activity enters them, disturbance sets in, which causes a break within that tranquility. Then icchā and īśāna are known as iṣyamāṇa. In one, the light is predominant, while the other is of the nature of rest. They are known as “r," "," "1," "!." They are the only semivowels, and are unlike the consonant sounds of ra and la; therefore they are not considered consonants as such. Since they retain both the vowel and consonant sounds, they are considered to be neuter. 
 
 The creative movement which proceeds to flow from anuttara gives rise to different syllables. The impelling force of kriya śakti terminates after giving rise to the varṇas like "e," "ai," "o," and "au." After that, the inward movement begins to operate. As a result of this, the resultants are then put to rest in anuttara. It is to be noted here that this anuttara is different from anuttara known as akāra, the supreme Bhairava. It manifests as am, which is pure consciousness in essence. From that anuttara, visarga unfolds. 
 
