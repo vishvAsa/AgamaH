@@ -780,23 +780,18 @@ H. N. Chakravarty
 
 ## 01
 
-विमलकलाश्रयाभिनवसष्टिमहा जननी भरिततनुश्च पञ्चमुखगुप्तरुचिर्जनकः 
+विमल-कला--ऽऽश्रयाभिनव-सृष्टि-महाजननी  
+भरिततनुश् च पञ्च-मुख-गुप्त--रुचिर् जनकः ।  
+तद् उभय-यामल-स्फुरित-भाव-विसर्ग-मयं  
+हृदयम् अनुत्तरामृत-कुलं मम संस्फुरतात् ॥१॥
 
-तदुभययामलस्फुरितभावविसर्गमयं हृदयमनुत्तरामृतकुलं मम संस्फुरतात् |१|| 
+May my heart (hrdaya) pulsate in the form of emission (visarga) embodying the nectar of supreme transcendence by the close union of the pair: Śiva and Śakti (yāmala). One of the pair is Vimalakalā, the mother who has taken within herself a new creation (Abhinava) in the form of light, and the other is the father, Pañcamukha Simhagupta, who is the embodiment of perfection and is intent on expressing himself in the fivefold activity. 
 
-Chapter One May my heart (hrdaya) pulsate in the form of emission (visarga) embodying the nectar of supreme transcen dence by the close union of the pair: Śiva and Śakti (yāmala). One of the pair is Vimalakalā, the mother who has taken within herself a new creation (Abhi nava) in the form of light, and the other is the father, Pañcamukha Simhagupta, who is the embodiment of perfection and is intent on expressing himself in the 
+Exposition: The above benedictory verse hints at a number of technical terms or concepts commonly used in the doctrine of Trika Saivism. In this context, the word heart (hrdaya) indicates universal bliss (jagadānanda), which unifies everything into an undivided singularity of consciousness. Its form is an ever-shining light, knowing neither rising nor setting. Restfulness is its very nature. The author aspires to attain and realize that heart of consciousness. 
 
-fivefold activity. Exposition: The above benedictory verse hints at a number of technical terms or concepts commonly used in the doctrine of Trika Saivism. In this context, the word heart (hrdaya) indicates universal bliss (jagadānanda), which unifies everything into an undivided singularity of consciousness. Its form is an ever-shin ing light, knowing neither rising nor setting. Restfulness is its very nature. The author aspires to attain and realize that heart of consciousness. 
+Another technical term found in this verse is yāmala, which is described as the highest equilibrium, [a union] of both Siva and Sakti. This is a union in which Siva is neither Siva nor Śakti, and Śakti is neither Sakti nor Siva, but each is the combined union of both. This union is also known as coitus (saṁgatta). In the creative process, [expanding from] this union, all the principles, known as tattvas, emerge. Throughout this process of creation, the nondual nature of the absolute equilibrium remains tranquil, like a waveless ocean. This process of creation is the result of a slight impulse of creativity, an upsurge in the form of a vibrating agitation, causing the unity to break. This absolute union (yamala, saṁghaṭṭa) remains in its pristine state, even in the process of cre ation. During that process of creation, 'It' first shows itself as two [Siva and Sakti], expanding outward into three, and then many. 
 
-Another technical term found in this verse is yāmala, which is described as the highest equilibrium, [a union] of both Siva and 
-
-51 
-
-52 TANTRASĀRA 
-
-Sakti. This is a union in which Siva is neither Siva nor Śakti, and Śakti is neither Sakti nor Siva, but each is the combined union of both. This union is also known as coitus (saṁgatta). In the creative process, [expanding from] this union, all the principles, known as tattvas, emerge. Throughout this process of creation, the nondual nature of the absolute equilibrium remains tranquil, like a waveless ocean. This process of creation is the result of a slight impulse of creativity, an upsurge in the form of a vibrating agitation, causing the unity to break. This absolute union (yamala, saṁgatta) remains in its pristine state, even in the process of cre ation. During that process of creation, 'It' first shows itself as two [Siva and Sakti], expanding outward into three, and then many. 
-
-*The word kula ordinarily means 'body, but in this context it refers to the seventeenth kalā, the immo phase of the moon. The word visarga is the 'emission of drops' emerging from perfect sexual union. The drops reflect the colors of [Siva and Sakti]: one is white and the other red. It tends to move outside [into the mani fested universe) and creates the bodies of all living beings. In the Tantric doctrine, visarga is stated to be hārdhakalā, one-half of the sound 'ha.' The mother is none but the autonomous energy of Siva, with whom she remains inseparably united. The nature of this autonomous energy, which is beyond all limitations, is ‘reflec tive awareness' (vimarśa). This verse also indicates that Vima lakalā was the name of Abhinava's mother. The father is the five faced Siva [with each face represented by one of the five śaktis: consciousness, bliss, will, knowledge, and action. They are the five outlets through which everything becomes manifest, or in the luminous imagery Abhinavagupta often employs, through which the entire universe shines. Each of Śiva’s ‘faces' is ever-engaged in performing one of his five functions through these śaktis. These five functions are: creation, maintenance, dissolution, veiling, and bestowing grace. 
+The word kula ordinarily means 'body', but in this context it refers to the seventeenth kalā, the immortal phase of the moon. The word visarga is the 'emission of drops' emerging from perfect sexual union. The drops reflect the colors of [Siva and Sakti]: one is white and the other red. It tends to move outside (into the manifested universe) and creates the bodies of all living beings. In the Tantric doctrine, visarga is stated to be hārdhakalā, one-half of the sound 'ha.' The mother is none but the autonomous energy of Siva, with whom she remains inseparably united. The nature of this autonomous energy, which is beyond all limitations, is ‘reflective awareness' (vimarśa). This verse also indicates that Vimalakalā was the name of Abhinava's mother. The father is the five faced Siva [with each face represented by one of the five śaktis: consciousness, bliss, will, knowledge, and action]. They are the five outlets through which everything becomes manifest, or in the luminous imagery Abhinavagupta often employs, through which the entire universe shines. Each of Śiva’s ‘faces' is ever-engaged in performing one of his five functions through these śaktis. These five functions are: creation, maintenance, dissolution, veiling, and bestowing grace. 
 
 विततस्तन्त्रालोको विगाहितुं नैव शक्यते सर्वैः। ऋजुवचनविरचितमिदं तु तन्त्रसारं ततः शुणुत ।।२।। 
 
@@ -804,7 +799,7 @@ TANTRASĀRA 53
 
 As everyone is not capable of delving deep into the long text of the Tantrāloka, this Tantrasāra is composed in simple language. Therefore, please listen to it. 
 
-___ श्रीशम्भुनाथभास्करचरणनिपातप्रभापगतसंकोचम् | 
+___ श्रीशम्भुनाथ-भास्करचरणनिपातप्रभापगतसंकोचम् | 
 
 अभिनवगुप्तहृदम्बुजमेतद्विचिनुत महेशपूजनहेतोः ।।३।। By falling at the feet of the venerable sun-like sambhu nātha, whose rays have removed all limitations from the lotus heart of Abhinavagupta, please collect this for the 
 
