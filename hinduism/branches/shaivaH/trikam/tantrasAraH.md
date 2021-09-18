@@ -1,5 +1,5 @@
 +++
-title = "Tantrasāra HNC"
+title = "तन्त्रसारः"
 unicode_script = "devanagari"
 +++
 
@@ -12,6 +12,8 @@ Edited by Boris Marjanovic
 Preface by Swami Chetanānanda   
 Abhinavagupta, Rajanaka.  
 
+
+स्रोतो [ऽत्र](https://archive.org/details/TantrasaraOfAbhinavaguptaH.N.Chakravarti/page/53/mode/2up)।
 
 1. Kashmir Saivism-Early works to 1800. 2. Tantrism-Early works to 1800. 3. Abhinayagupta, Rajanaka. Tantrāloka. I. Chakravarty, H.N., 1918-2011, translator, writer of added commentary. II. Marjanovic, Boris, editor. III. Abhinavagupta,
 
@@ -34,6 +36,12 @@ Boris Marjanovic deserves an enormous amount of credit for the existence of this
 
 Swami Chetanānanda  
 January, 2012  
+
+### About the Translator
+
+Pandit Hemendra Nath Chakravarty was born in 1918 in the vil lage of Kalihati, in the district of Mymensingh (now in Bangla desh), the son of Taraka Nath Chakravarty, an Ayurvedic phy-. , sician. His family was initiated in the Kaulika tradition and worshiped Daksinā Kālī. He matriculated at the village high school in 1935, and studied Sanskrit and later Sāmkhya at the Balānanda Brahmacharyasram in Deoghar (Bihar). In 1939 he went to Varanasi and studied Nyāya under Pt. Vibhuti Bibhushana Bhattacharya, graduating in 1944 (Nyāya Tīrtha) and 1945 (Tarka Tīrtha) from Calcutta Government Sanskrit Association, and earn ing a B.Ed. in 1950. In 1958 he met the famous pandit Mahama hopadhyaya Gopinath Kaviraj and began to study with him. He remained closely associated with Kaviraj until the latter's death in 1976. He edited the sayings of Anandamayi Ma with the commen tary by G. Kaviraj in Bengali. From 1987 to 1995 he was Chief Pandit in the Kalātattvakosa project of Indira Gandhi National Centre for the Arts, Varanasi Branch, which at that time was directed by Dr. Bettina Bāumer. He wrote articles for Kalātatt vakosa. Beginning in 1972 he taught students and scholars from abroad (includng A.M. Breuinin, M. Dyczkowski, L.M. Finn, D.P. Lawrence, J. Gengnagel, J. Dupuche, A. Wilke, and B. Marja novic) mainly in the field of Hindu Tantrism, especially nondual Kashmir Saivism. In 2003 he received the first “Thakur Jaideva Singh Award” for merit in the field of studying and teaching non dual Kashmir Saivism from the Trika Interreligious Trust (Vara nasi). He passed away on March 30, 2011.
+
+His publications include Nāradiya Purana, 3rd vol. (transla tion with notes), Delhi (Motilal Banarsidass); Tantrasāra by Abhi nava Guptācārya (with Hindi Translation, notes and introduction in English] Varanasi 1986; ed. (with Jaideva Singh and G. Mukho padhyaya: Navonmesha: M.M. Gopinath Kaviraj Smriti Granth (2 vols.), Varanasi 1987. Articles: Prāna, Bija in: Kalātattvakosa (ed. by B. Bāumer), Vol. I (1988); Bindu, Naabhi, Cakra, in: Kalātatt vakosa Vol. II (1992); “Tantric Spirituality" in: Hindu Spirituality, Postclassical and Modern, ed. K.R. Sundararajan and B. Mukerji, New York, Crossroad, 1997, pp. 209-231; Bahurūpagarbhastotra, An Annotated Translation, in: Sâmarasya, Studies in Indian Arts, Philosophy and Interreligious Dialogue (ed. by S. Das and E. Für linger), New Delhi (D.K. Printworld) 2005, pp.37-47.
 
 
 
@@ -755,6 +763,8 @@ Kula ritual is performed in six different ways, namely: (1) externally; (2) in �
 The author gives a short description of each of the methods in a cryptic way. In the past, the tradition was to be handed down orally, only to those qualified; therefore, many of the matters are not very clear to us. Therefore, we prefer to say little about this secret cult. 
 
 H. N. Chakravarty 
+
+
 
 ## 01
 
@@ -3550,9 +3560,9 @@ tity with Śiva. (TĀ 35:28-29.) 241. In TĀ 35: 1b-2a, Abhinavagupta defines pr
 
 knowledge that is necessarily based in an omniscient knowing sub ject and is the basis of all human activity. 
 
-Bibliography 
+## Bibliography 
 
-Original Sanskrit Texts 
+### Original Sanskrit Texts 
 
 Kāmikāgama, Pūrvabhāga. No editor accredited: published by C. Swaminatha Śivacarya. Madras: South Indian Arcakas Association, 1975. . . . Kåmikāgama, Utiarabhāga: "No editor accredited: published by C. Swaminatha Sivacarya. Madras: South Indian Arcakas Association, 1988. 
 
@@ -3570,42 +3580,3 @@ Paramesvarāgama, with English Translation and Notes, edited by Dr. Rama Ghose, 
 
 Abhinavagupta's Commentary on the Bhagavad Gita. Boris Marjanovic, trans. Portland: Rudra Press, 2006. Abhinavagupta's Philosophy of Revelation: Māliniślokavārttika, 1-399. Jürgen Hanneder, Gröningen: Egbert Forsten, 1998. Aṣtådhyāyī of Pāṇini. Sris Chanda Vasu, ed., trans. Allahabad: 1891. īśvarapratyabhijñākārika and Vrtti of Utpaladeva. Raffaele Torella, trans. Roma: 1994. KSTS No. 34. īśvarapratyabhijñāvimarsini of Abhinavagupta. K.C. Pandey, trans. Delhi: Motilal Banarsidass, 1954. Parātrīsikāvivarana: The Secret of Tantric Mysticism. Jayadev Singh, Delhi: Motilal Banarsidass, 1988. Sāṁkhyakārikā, with the Commentary by Vācaspati Miśra. Ganganath Jha, trans. Poona:1965. Vāc: The Concept of the Word in Selected Hindu Tantras. André Padoux. Delhi: Sri Satguru, 1990. Yoga Philosophy of Patañjali with Bhāsvati. Āranya Hariharānanda, Calcutta: University of Calcutta, 2000. 
 
-About the Translator 
-
-Pandit Hemendra Nath Chakravarty was born in 1918 in the vil lage of Kalihati, in the district of Mymensingh (now in Bangla desh), the son of Taraka Nath Chakravarty, an Ayurvedic phy-. , sician. His family was initiated in the Kaulika tradition and worshiped Daksinā Kālī. He matriculated at the village high school in 1935, and studied Sanskrit and later Sāmkhya at the Balānanda Brahmacharyasram in Deoghar (Bihar). In 1939 he went to Varanasi and studied Nyāya under Pt. Vibhuti Bibhushana Bhattacharya, graduating in 1944 (Nyāya Tīrtha) and 1945 (Tarka Tīrtha) from Calcutta Government Sanskrit Association, and earn ing a B.Ed. in 1950. In 1958 he met the famous pandit Mahama hopadhyaya Gopinath Kaviraj and began to study with him. He remained closely associated with Kaviraj until the latter's death in 1976. He edited the sayings of Anandamayi Ma with the commen tary by G. Kaviraj in Bengali. From 1987 to 1995 he was Chief Pandit in the Kalātattvakosa project of Indira Gandhi National Centre for the Arts, Varanasi Branch, which at that time was directed by Dr. Bettina Bāumer. He wrote articles for Kalātatt vakosa. Beginning in 1972 he taught students and scholars from abroad (includng A.M. Breuinin, M. Dyczkowski, L.M. Finn, D.P. Lawrence, J. Gengnagel, J. Dupuche, A. Wilke, and B. Marja novic) mainly in the field of Hindu Tantrism, especially nondual Kashmir Saivism. In 2003 he received the first “Thakur Jaideva Singh Award” for merit in the field of studying and teaching non dual Kashmir Saivism from the Trika Interreligious Trust (Vara nasi). He passed away on March 30, 2011. 
-
-267 
-
-268 ABOUT THE TRANSLATOR 
-
-His publications include Nāradiya Purana, 3rd vol. (transla tion with notes), Delhi (Motilal Banarsidass); Tantrasāra by Abhi nava Guptācārya (with Hindi Translation, notes and introduction in English] Varanasi 1986; ed. (with Jaideva Singh and G. Mukho padhyaya: Navonmesha: M.M. Gopinath Kaviraj Smriti Granth (2 vols.), Varanasi 1987. Articles: Prāna, Bija in: Kalātattvakosa (ed. by B. Bāumer), Vol. I (1988); Bindu, Naabhi, Cakra, in: Kalātatt vakosa Vol. II (1992); “Tantric Spirituality" in: Hindu Spirituality, Postclassical and Modern, ed. K.R. Sundararajan and B. Mukerji, New York, Crossroad, 1997, pp. 209-231; Bahurūpagarbhastotra, An Annotated Translation, in: Sâmarasya, Studies in Indian Arts, Philosophy and Interreligious Dialogue (ed. by S. Das and E. Für linger), New Delhi (D.K. Printworld) 2005, pp.37-47. 
-
-Translator H.N. Chakravarty and editor Boris Marjanovic. 
-
-About Rudra Press 
-
-RUDRA Press is the publishing division of The Movement Center, a nonprofit meditation and yoga center based in Portland, Oregon. We publish books by the teachers in The Movement Center lineage (Swami Chetanānanda, Swami Rudrānanda, and Bhagavan Nitya nanda), texts on the philosophy of Kashmir Shaivism, instructional videos for hatha yoga practice, and CDs and videos by Lama Wangdu Rinpoche. Proceeds from the sale of Rudra Press products support our effort to document, preserve, and translate important Tantric practices and texts of Kashmir Shaivism and Vajrayana Buddhism - www.rudråpress.com : 
-
-The Movement Center 
-
-THE MOVEMENT CENTER is a center for spiritual practice in the tra dition of Trika Yoga, a branch of Kashmir Shaivism. Founded by Swami Chetanānanda in 1971, the Center offers programs and instruction in meditation, hatha yoga, the philosophy of Kashmir Shaivism, and ancient Tibetan Buddhist ritual practices from the Longchen Nyingthig and Padampa Sangye Shi-je traditions. The Movement Center is based in Portland, Oregon, and has medita tion centers in Los Angeles, New York, Boston, Seattle, and Kath mandu, Nepal - www.themovementcenter.com2. ΑΝΤΟΝΑλουΡΤΑΣΗ 
-
-Abhinavagupta's Commentary on the on the bar 
-
-Bhagavad Gita (Gitartha-samgraha) US Edition 
-
-Translated with notes by Boris Marjanovic Abhinavagupta lived in Kashmir in northern India at the end of the 10th century and begin ning of the 11th century. He was a brilliant scholar and is considered the greatest genius 
-
-of India in the fields of philosophy, aesthetics, poetics and dramaturgy. He was also a profoundly accomplished Tantric practitioner and the most influential teacher of what is now called Kashmir Shaivism. Although he was a prolific writer, to date few of his surviving works have been made available in English. In this commentary, Abhinavagupta explains that he composed it because he felt that his predecessors had not understood the eso teric or secret meaning of the Bhagavad Gita. In contrast, Abhina vagupta's work explores the very essence of the teaching of the Gita. This unique interpretation of the Bhagavad Gita in the con text of the non-dualistic philosophy of Kashmir Shaivism reveals a new dimension of the message of the Gita and describes the prac tice of the secret yoga at its core. 
-
-$24.95 US 378 pages ISBN 978-0-915801-93-0 www.rudrapress.com 
-
-KASHMURSAIV157 
-
-Kashmir Saivism: The Central Philosophy of Tantrism 
-
-By Kamalakar Mishra 
-
-Although the contribution of Tantra to Indian philosophy and culture is of immense signifi cance, very little work has been done in the field to date. Kashmir Saivism: The Central Philosophy of Tantrism gives a full exposition of the Tantric system; clarifying the inner thread of logic running through the entire system of thought. The enigmatic language of the Tantric texts and their rich symbol ism are deciphered, revealing a philosophy that is not an abstract ideology but a practical approach to life, surprising relevant to this age of science and technology. 
-
-This book explores the principles, rich language and symbolism of the Tantric tradition, one that integrates worldly involvement with the goal of liberation. The text uses Abhinavagupta's most famous work, the Tantrāloka, as a point of departure for a full exposition of the Tantric system. Kashmir Saivism demonstrates that this unique philosophy remains practical and relevant. 
