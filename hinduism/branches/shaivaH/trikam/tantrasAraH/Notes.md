@@ -4,23 +4,10 @@ title = "Notes"
 +++
 
 Chapter One 
-1. Like ignorance, knowledge is also of two types. That knowledge 
 
-called pauruṣa is free from thought constructs (vikalpa) and is of the nature of pure l-Consciousness. It shines in its fullness when - complete identification with Śiva occurs. That ignorance, which is 
 
-also called pauruṣa, is composed of vikalpas, which are contrary, to the perfect light of consciousness on account of their being lim ited. This imperfect knowledge (apurṇa jñāna) is the root cause of worldly existence. When that ignorance called pauruṣa disappears as a result of initiation, the impurity born of past deeds, which are the cause of the body, still persists. For this reason, the knowledge of the Self (puruṣa) fails to shine forth. Defilement (mala) called kārmamala is of the nature of prārabdha, the impressions of past deeds that will be experienced in this body. On the complete extinc tion of prārabdha, the body falls off, after which the pauruṣa type of knowledge becomes manifest. The order is as follows: initiation, destruction of the pauruṣa form of ignorance, competency to study agama texts, emergence of the bauddha form of knowledge, libera tion while living, destruction of prārabdha, the fall of the body, and the emergence of the pauruṣa kind of knowledge and the 
 
-attainment of one's own nature. 2. Although apparently distinct from consciousness, thought con 
-
-structs (vikalpas) are not different from it. When, through right reasoning (sattarka) the purification of vikalpas takes place, then one arrives at the state where vikalpas merge back into their source, which is indeterminate (avikalpa) by nature. This process of purifi cation of vikalpas is described in Chapter Four. 
-
-215 
-
-216 NOTES 
-
-3. The descent of sacred texts (śāstra) occurs through five currents, 
-
-known as consciousness, bliss, will, knowledge, and action, repre senting five faces of Siva. These are the five śaktis of the Lord and are connected with the faces of Isana, Tatpuruṣa, Sadyojāta, Vāmadeva, and Aghora, respectively. Among the holy texts (āgamas), some are predominantly dualistic, some are dual-cum nondual, and some are perfectly nondual. The number of dualistic āgamas is ten, while those which preach the doctrine of duality cum-nonduality are eighteen in number, and those whose view is 
+3. The descent of sacred texts (śāstra) occurs through five currents, known as consciousness, bliss, will, knowledge, and action, repre senting five faces of Siva. These are the five śaktis of the Lord and are connected with the faces of Isana, Tatpuruṣa, Sadyojāta, Vāmadeva, and Aghora, respectively. Among the holy texts (āgamas), some are predominantly dualistic, some are dual-cum nondual, and some are perfectly nondual. The number of dualistic āgamas is ten, while those which preach the doctrine of duality cum-nonduality are eighteen in number, and those whose view is 
 
 perfectly nondual are sixty-four in number. 4. The compound word svabhāvah (svasya bhāvah) denotes the funda 
 
