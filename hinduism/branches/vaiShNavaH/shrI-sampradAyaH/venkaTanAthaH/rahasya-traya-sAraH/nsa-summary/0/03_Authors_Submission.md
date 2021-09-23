@@ -1,121 +1,7 @@
 +++
-title = "0"
+title = "०३ Author's Submission"
 
 +++
-
-## ०१ परवाकोट्टै-आण्डवन्-मङ्गलाशासनम्
-श्रीमत्पौण्डरीकपुरं श्रीमदाण्डवन् आश्रमः।  
-श्रीमते गोपाल-देशिकमहादेशिकाय नमः।  
-श्रीमते श्रीनिवासमहादेशिकाय नमः।  
-श्रीमते रङ्गनाथमहादेशिकाय नमः।  
-श्रीमते श्रीनिवासमहादेशिकाय नमः।  
-श्रीमते नारायणमहादेशिकाय नमः।  
-श्रीमते श्रीनिवासमहादेशिकाय नमः।  
-श्रीमते गोपालार्यमहादेशिकाय नमः।
-श्रीमते निगमान्तमहादेशिकाय नमः।  
-श्रीमते भगवते भाष्यकाराय-महादेशिकाय नमः।  
-श्रीमद्भदयः यामुन नाथ शठकोपमहादेशिकम्यो नमः।  
-श्रीमत्-परमहंस-परिव्राजकाचार्याणां श्री-परवाकोट्टै-आण्डवन्-श्री-श्री-गोपालदेशिक-महादेशिकानां-अनुग्रह-श्रीमुखम्।
-
-
-Sri Benedictory Mangalasasanams to Dr. N. S. Anantharangachar and all the members of his family.
-
-Dr. N. S. Anantharangachar has added one more feather to his cap by his latest work of a beautiful treatise in English on "Srimad Rahasyatrayasara" of Sri Vedanta Desika. Among the 120 works of Sri Vedanta Desika, the greatest poct, logician and philosopher, the world has ever produced, "Srimad Rahasyatrayasara" stands foremost which happens to be the quintessence of the Visishtadvaita philosophy and Srivaishnava sampradaya, in other words, tradition.
-
-Among the "Grantha-chatuShTaya", (four spiritual works) which are said to be "kAlakShepa granthas", that is, which are to be compulsorily studied under the lotus feet of an Acharyal, who is a scholar and well steeped in our Sampradaya, "Srimad Rahasyatrayasara" is the most important.+++(5)+++ The other works are "Sribhashyam", commentary written by Sri Bhagavad Ramanuja on Brahmasutras, "Sri Gitabhashyam", (a commentary on Sri Bhagavad Geetha by Sri Bhagavad Ramanuja) and "Sri Bhagavad-vishyam", which is the commentary on the thousand verses of the saint Nammazhvar, called Thiruvaimozhi Ayiram.
-
-Not much is lost by not doing Kalakshepam of the above three works under an Acharya but everything is lost if the Kalakshepa of Srimad Rahasya Traya Sara is not done under an Acharya.+++(5)+++
-
-Kenopanishad says, "Avijnatam vijanatam vijnatam Avijanacam" about Lord Sriman Narayana, who is the Parabrahman. This means that if a person says he knows everything about Lord Sriman Narayana, that is His "Svarupa", "Guna", "Vibhuti", it means, he does not know anything about Lord Sriman Narayana, on the other hand, if a person says he knows nothing about Lord Sriman Narayana, it means he knows everything abut Lord Sriman Narayana. This in other words means that greatness of Lord Sriman Narayana, is unlimited.
-
-It is said that this Upanishadic statement is equally applicable to Srimad Rahasya Traya Sara, which means in other words its greatness is also not fathomable.
-
-Srimad Rahasya Traya Sara is compared to the holy river Ganges which takes birth Lord Vishnu. It has three different streams, one in "Deva Loka" (heaven), the second in "Bhooloka", that is this world and the third one in "Patala Loka". A dip in the Ganges washes all our sins.
-
-In the case of Srimad Rahasyatravasara, it takes its birth in, "Sri Nigamanta Mahadesika", who is the lotus feet of Lord Vishnu. This also has three streams, which are three Rahasyas, that is "Moola mantra" (8 syllables mantra of Sriman Narayana), "Dvaya mantra" which comprises of 25 syllables and "Charama Shloka mantra", which has 32 syllables. So, "Srimad Rahasyattayasaca" is the elaboration of the inner meanings contained in the above three mantras which are called Rahasyas because the Acharya has to preach these in solitude and not in public. A dip in "Srimad Rahasyatrayasara", that is knowing its contents from an Acharya purifies us. So, it is the primary duty of every Vadagalai Srivaishnava to know the contents of "Srimad Rahasyatrayasara" and acquire good knowledge of our philosophy and Sampradaya and translate the teachings contained therein into practice.
-
-Putting in a nutshell, "Srimad Rahasyatrayasara" deals with the Doctrine of Prapatti (Saranagathi) which if done through an Acharya is the surest means of attaining "salvation" or eternal bliss in Sri Vaikunta Divyaloka.
-
-The original text of this masterly work is in manipravala character and for a layman it is difficult to make out from the original text. In the present circumstances it is not possible for all persons to sit under the feet of an Acharya and study this work. Many having a keen interest in our sanpradaya have settled down in foreign countries and they find it difficult to understand this work in its original text. So a treatise on Srimad Rahasya Traya Sara in English language is essentially required to understand this valuable work
-
-English has been an ideal and common medium of communication to all in the present world irrespective of their mother tongue. So this treatise in English of "Srimad Rahasyatrayasara" fulfils the desire of thousands of people belonging to Sri Swamy Desikan's sampradaya and they will certainly get an insight in to the original text through this valuable treatise.
-
-By going this work, it is found that this treatise is a faithful and at the same time an abridged version of original text. The readers of this treatise will certainly reap maximum benefits by getting a full knowledge of the original text.
-
-Sri Vedanta Desika says that Lord Sriman Narayana will not confer Moksha on people who do not do Prapatti at His lotus fcet. This statement can be extended further and said that a knowledge of Srimad Rahasyatrayasara is essential to attain Moksha. It is in this context that this treatise becomes a precious possession by everybody to get fairly an in-depth knowledge of Srimad Rahasyatrayasara, whose greatness was elaborated in the preceding paragraphs.
-
-About the author Dr. U.Ve. Vidwan N. S. Anantharangacharya : This author is occupying an important and central place in the galaxy of disciples of this Ashram. This author would not have attained such greatness but for the gracious blessings of Poundarikapuram Srimad Andavan His Holiness Srinivasa Mahadesikan who was known for his "jnana", "Vairagya" and "Anushtana". The author's Kalakshepa Acharya Sri U. Ve. Sri Krishnathathcharya is also a prominent disciple of Sri Poundarikapuram Srimad Andavan His Holiness Srinivasa Mahadesikan, under whose lotus feet he studied all the scriptures of our philosophy and sampradaya. Though Dr. N.S. Anantharangacharya is an Octogenarian, he is young in spirits by the grace of Bhagavan, Bhagavatas and Acharyas.
-
-He is to be congratulated on his marvellous achievements which nobody else can claim in recent years.
-
-His continuous service to Srivaishnava sampradaya and community is something which cannot be described in words. His works in lucid style will ever be a beacon light to all who have a desire to know our philosophy and sampradaya.
-
-This Ashramam is justifiably proud of him and our prayer to poorvacharyas and the Divine couple of Srirangam, to confer on him a long and healthy life so that he will continue his valuable service for several years to come.
-
-Before commencing the reading of this treatise, the reader should recite the taniyan of his / her own Acharya.
-
-Iti Narayana Smaranams
-
-
-Sri Sri Gopala Desika-mahadesika yatayah  
-Andavan Poundarikapuram Swamy Ashramam  
-Srirangam
-
-## ०२ रङ्गरामानुज-श्रीमुखम्
-Srimathe Rangaramanuja Mahadeskaya Namaha Srimathe Srinivasa Ramanuja Mahadesikaya Namaha Srimathe Vedantha Ramanuja Mahadesikaya Namaha
-
-Srimathe Ranganatha Mahadesikaya Namaha
-
-Srimathe Srinivasa Mahadesikaya Namaha
-
-Srimathe Nigamantha Mahadesikaya Namaha Srimathe Bhagawathe Bhashyakaraya Mahadesikaya Namaha
-
-Sri Ranganatha Divyamani Padukabyam Namaha Camp : Bangalore Date : 14-12-2003
-
-श्रीमत्परमहंसपरिव्राजकाचार्याणां श्रीरङ्गं श्रीमदाण्डवन् श्री श्री रङ्गरामानुज यतीनां अनुग्रह श्रीमुखम्
-
-रहस्यत्रयसाराख्यग्रन्थो देशिकनिर्मितः । सर्व - वेदान्त - शास्त्रर्थ - साररूपो महानयम् ।। द्वात्रिंशदधिकारैर्हि विद्या संख्या समन्वितैः । मेदुरस्सादरं सर्वैः गुणानन्तैश्च तात्विकैः ।। तादृशं ग्रन्थरत्नं हि हूणभाषाविशारदैः ।
-
-अनन्तरंगनाम्नातु भासुरैर्भूसुरोत्तमैः ।। बहुग्रन्थविनिर्माण रव्यात पाण्डित्य शोभितैः । भाषान्तरीकृतं सम्यक् सर्वतत्वविबोधकम् । सर्वाशसहितं सूक्ष्मं सर्वसंशयनाशकम् ।पठन पाठनेचैव धारणे च हितङ्करम् ।। मुमुक्षुभिस्सदा ग्राह्यं मोचातुल्यरसप्रदम् । श्रेष्ठं विश्वजनीनं हि ग्राह्यग्रहसमुत्सुकैः ।।
-
-अनन्तप्रणीता रहस्यार्थसारः सदा ह्यत्रपेयस्सुधीपूर योग्यः । मुदाचिन्तनीयस्तदीयैर्हि भव्यैः अविद्यादि दोष प्रहाणाय नित्यम् । नारायण ! नारायण !! नारायण !!!
-
-इत्थं
-
-श्रीरङ्ग श्रीमदाण्डवन्, श्रीरङ्गरामानुजयतिः
-
-नप.
-
-श्रीमत् परमहंस परिव्राजकाचार्याणां श्री श्री रङ्गप्रियमहादेशिकानां अनुग्रह श्रीमुखम्
-
-Narayana Smaranas by His Holiness Sri Sri Rangapriya Mahadesikan
-
-श्रीमते श्रीनिवास महादेशिकाय नमः श्रीमते श्रीनिवास रङ्गमहायोगिने नमः
-
-Among hundred & odd Sacred Texts conferred by Vedanta Desika, Srimad Rahasyatrayasara occupies a special place, because of its many distinctive features.
-
-It contains the sum & substance of Sri Visistadvaita Philosophy and Sri Vaishnava Religion. It teaches tattva, hita & purusharta, to be necessarily known by a mumukshu i.c. an aspirant after moksha. It accepts Prapatti (or sharanagathi) as an independent and efficacious means for moksha.
-
-The text clearly shows that Mulamantra, Dvaya-mantra and Charama-shloka-which are the "Rahasyatrayas" . expound Prapatti doctrine, and further details Prapatti svarupa, prakara, parikara, anushtana, giving in addition Prapanna - lakshana and his uttarakritya svarupa.
-
-The text is in Manipravala language - a harmonious blending of Sanskrit and Tamil, the philosophy therein being profoundly documented by "pramanas" from smriti, itihasa, puranas and Alwars' works. It is thereby made universal, with no restriction in regard to class, caste, sex, qualification, etc., as in the case of Prastanatraya bhashyas.
-
-The declaration of Prapatti as mokshipaya, which is
-
-open to all, throws light on devotion to truth and catholicity of Visistadvaita Philosophy.
-
-The Sacred Text itself is a "sara" on the Rahastyatraya, and to get its essence in "English" is a commendable task. By going through the five main vyakhyanas of our Poorvacharyas for this text, our doyen octogenarian, Dr. N. S. Anantha Rangachar, has achieved a praiseworthy accomplishment.
-
-The matter presented in "simple" English, to enkindle the philosophical interest of the students world over is commendable and we pray success to this endeavour of the Veteran Scriptural Teacher.
-
-With Narayana Smaranam
-
-श्री श्री रङ्गप्रियश्रीः श्रीः  
-Vrischika Krishna Dvitiya  
-Bangalore  
-10-12-2003
-
-## ०३ Author's Submission 
 
 'न्यस्तात्मीयभरं वरप्रदगुरौ वैराग्यभाग्योदधौ वेदान्तामृतसारवंतमनघात् श्रीश्रीनविासाद्गुरोः । श्रीशैलान्वयकौस्तुभस्य तनयं श्रेयोनिधेः श्रीनिधेः वन्दे साधुकटाक्षकेलिनिलयं श्रीकृष्णसद्देशिकम् '।।
 
@@ -125,7 +11,7 @@ Bangalore
 
 the shastras for working up his upward evolution. The essence of these three mantras is expounded elaborately in the celebrated work of "Srimad Rahasyatraya Saram" authored by Sri Vedanta Desika. Vedanta Desika has clearly shown in this work "Rahasyatraya Saram", how these three mantras contain all the essentials of the philosophy of the tattva, hita and purushartha. These three mantras are the epitomes of all spiritual knowledge.
 
-### The Three Rahasyas
+## The Three Rahasyas
 
 The three rahasyas are expressly expounding and suggesting the supreme truths that are to be imbibed by a sadhaka for gaining spiritual perfection.
 
@@ -133,7 +19,7 @@ xiii
 
 The Mulamantra is the expansion of the "Pranava" and the Dvayamantra is an expansion of the Mulamantra. The Charamasloka elaborates the same theme, and ordains self surrender, as a sure means of attaining moksha. 
 
-### The Mulamantra -
+## The Mulamantra -
 
 The Mulamantra contains three words, and the first word is formed of three letters. The first letter '37' connotes the Paramatman, who is the sole cause of this universe, the redeemer of all, the 'HORT, the inner controller of all, and the Lord of Sri Mahalakshmi. The relationship of the Lord with others is denoted by the dative case dropped on '37', which means 3474. The second letter 3' emphasises the sole-subservience of the jiva to the Lord indicated by
 
@@ -143,7 +29,7 @@ Truir relates to the Supreme Brahman, who is the 'सर्वाधार' and 
 
 xiv
 
-### The Dvayamantra -
+## The Dvayamantra -
 
 The Dvayamantra makes the meaning of Mulamantra more explicit. This contains two parts. The first part of this mantra, signifies the Supreme Lord along with Goddess Mahalakshmi. The Jivatman who is to be saved, should seek resort in the lotus-feet of the Lord, with the firm faith that the two sacred feet of the Lord are the means of attaining eternal service to those Sacred Feet. The jivatman entrusts the burden of his protection to the Lord here. The signifies the way of seeking protection. The second part of this mantra, signifies the Supreme Lord along with Goddess Mahalakshmi, as the goal of attainment. The word
 
@@ -157,7 +43,7 @@ Thus, these three rahasyas expound the doctrine of sharanagati, as a means to be
 
 These three mantras are called the Rahasyatraya. They contain all the truths that an aspirant-after-liberation ought to know. Vedanta Desika has expounded and interpreted the significant meanings of these three mantras in his great work 'Srimad Rahasyatraya Sara', as related to the doctrine of prapatti.
 
-### The Author
+## The Author
 
 The author of this eminent work is Srimad Venkatanatha, who is one of the greatest expositors of the philosophy of Visistadvaita. He is the most celebrated scholar, philosopher, saint, logician and systematiser after Ramanuja. He is an author of more than hundred celebrated works. As a poet, he is unsurpassed. As a logician, he is unassailable. He gave a reformulation of the fundamentals of this school of visistadvaita, incorporating all the claborations that had accumulated between his period and Ramanauja's period. His contribution to 'Visistadvaita' is significant in all areas. His works arc eternal monuments of wisdom and knowledge. Vedanta Desika has established on solid grounds the teachings of Rimanuja. His great commentaries, Prakarana Granchas and Polemic Works
 
@@ -165,7 +51,7 @@ xvi
 
 rcfuting the unsound doctrines of other schools, are great literary monuments that are unsurpassed even to this date. Each work of the master, is a great masterpiece, and it is not easy to choose his magnum opus. Every work, be it a short stotra or an elaborate commentary or a digest or a piece of poctry or the compositions in Prakrit and Tamil or a Rahasya Grantha composed in the manipravala style having a happy mixture of Sanskrit and Tamil or a dialectical work, has a legitimate greatness to be his magnum opus. The case being like this, scholars often times choose the great Rahasya work 'Rahasyatrayasaram', as his magnum opus. 
 
-### Eminence of the work 'Rahasyatrayasaram
+## Eminence of the work 'Rahasyatrayasaram
 
 This great work is the finest fruit of his mature mind. Desika has expounded the inner meaning and significance of the doctrine of prapatti in all its aspects on the authority of the three rahasyas, the sacred scriptures, puranas, itihasas, agamas, divya-prabandhams and expositions of ancient acharyas in this work. This work is composed in the manipravala style and is easily understandable. Desika avoids direct quotations from the upanishadic lore, as this is meant for the reading of all people without any distinction of caste or sex. Desika draws parallel authorities for the Vedic statements from the divya-prabandhams and has worked out a harmony between the Samskrita Veda and the Dravida Veda. This great work is a landmark in the history of Srivaishnava Philosophy, as it is an original and authentic cxposition of the essentials of Vedanta, as related to 'sadhana'. A number of important topics that were not defined carlier clearly, namely the nature and scope of prapatti, the difference between prapatti and bhakti, the accessories of prapatti, the fitness for performing prapatti, the mode of
 
@@ -175,7 +61,7 @@ performance of prapatti, the conduct of a prapanna, have all been dealt with in 
 
 Had it not been for a timely exposition, clarification and systematisation of the very many points referred to above by Vedanta Desika, the doctrine of prapatti would have ever remained hazy and indefinite. It is to be noted that the expositions of Desika are invariably based on the authorities of the scriptures and the teachings of ancient masters. Posterity should be ever grateful to this great philosopher-saint who has left behind him this great authoritative monument. 
 
-### Ramanuja and Prapatti
+## Ramanuja and Prapatti
 
 Bhagavad Ramanuja established the doctrine of Vishistadvaita on valid grounds and the infallible authorities such as srutis, smritis, itihasas, puranas, agamas and the hymns of Alwars. In this mighty task, he gave all importance to the time immemorial sampradaya and his own mystic experiences. On the basis of all these, Ramanuja made a re orientation of the school and made unique contributions for the establishment and development of the doctrine of Vishistadvaita. He elaborated the teachings of the ancient masters on the basis of sound logic and the scriptural authorities. It was Ramanuja, who declared that the Ultimate Reality is the one Supreme Narayana, characterised by the sentient and non-sentient principles. Though he did not use the word Vishistadvaita anywhere in his works, the concept was made very clear and Sudarshana Suri nained the school Is being characterised by the visistaikya' or 'oneness of the qualified'; while explaining the expositions of the great statement 'tat-tvam-asi' in Vedartha Sangraha. Ramanuja explained admirably the meanings of the statements of the
 
@@ -195,7 +81,7 @@ details of Bhaktiyoga in these works. In the three 'Gadyas', he advocates the do
 
 We notice from this, that the emphasis shifted from 'Bhaktiyoga' to 'Prapatti'. Bhaktiyoga was not discarded. It was recognised and expounded according to the contexts of the Upanishads and the Gita; but, Prapatti was specially preferred. Ramanuja has shown his partiality to 'Prapatti' in his Gadyas, though he is not against the method of 'Upasana'. Ramanuja has not described all the minute details and accessories of prapatti in any of his works, but has categorically declared that prapatti is a sufficient means for gaining salvation. This position of Ramanuja has given room to the assertion by some successors of the school, that prapatti alone is the valid means and that upasana or bhaktiyoga is not in accordance with the essential nature of the jivatmans. 
 
-### Prapatti during the post-Ramanuja Period
+## Prapatti during the post-Ramanuja Period
 
 Thus, we find that the followers of Ramanuja are divided on this issue. Some of them have gone to the extent of denying the authorship of Ramanuja as regards the Gadyas, and they declared that mokshopaya was not that casy, and that Ramanuja's doctrine was only upasana. They suggest that the Gadyas are spurious, penned by some immediate disciples of Ramanuja. The others go to the extent of discarding upasana entirely and advocating that prapatti alone is the means, which is in accordance with the true nature of the jivatman,
 
@@ -211,7 +97,7 @@ What are the accessories of prapatti? Are all the accessories necessary or not? 
 
 All these issues have been thoroughly examined and definite conclusions have been drawn by Desika in this work.
 
-### Bhaktiyoga and Prapatti
+## Bhaktiyoga and Prapatti
 
 Ramanuja has worked out a harmony between the scveral paths of spiritual discipline. Karmayoga and Jnanayoga are accessories for Bhaktiyoga. According to the scriptural authorities, Ramanuja declares that Bhaktiyoga or Upasana supported by Karmayoga and Jnanayoga, is the means of attainment of Supreme Brahman. Here, Karmayoga that is practised with the essential knowledge of
 
@@ -306,108 +192,3 @@ Bangalore 1-12-2003
 
 इति सज्जनविधेयः  
 N. S. Anantharangacharya 
-
-## ०४ Table of Contents 
-
-Srimukhas Sri Sri Gopaladesika Mahadesika Yatayah Sri Ranga Ramanuja Yatayah Sri Sri Rangapriya Mahadesikar Author's Submission
-
-
-### अर्थानुशासनविभागः  
-Guruparampara Sara 
-
-Upodghathadhikara  
-Saranishkarshadhikara
-
-Pradhana Prathithanthradhikara
-
-Artha Panchakadhikara Tatvatrayadhikara Paradevata Paramarthyadhikara Mumukshuthavadhikara
-
-Adhikari Vibhagadhikara Upayavibhagadhikara Prapatti Yogyadhikara
-
-Parikara Vibhagadhikara Sangaprapadanadhikara Kritakrityadhikara Swanistabhijnanadhikara Uttarakrityadhikara
-
-Chapter XVI Purusharthakastadhikara Chapter XVII Shastriya Niyamanadhikara
-
-Chapter XVIII Aparadhapariharadhikara Chapter XIX Sthana Visheshadhikara Chapter XX Niryanadhikara Chapter XXI Gatichintanadhikara Chapter XXII Paripurna Brahmanubhava Adhikara
-
-### स्थिरीकरणविभागः
-
-Chapter XXIII Siddhopaya Shodhanadhikara Chapter XXIV Sadhyopaya Shodhanadhikara Chapter XXV Prabhava Vyavasthadhikara Chapter XXVI Prabhava Pakshadhikara
-
-### पदवाक्ययोजनविभागः
-
-Chapter XXVII Mulamantradhikara
-
-Chapter XXVIII Dvayadhikara Chapter XXIX Charamasloka Adhikara
-
-309
-
-335
-
-375
-
-### संप्रदायप्रक्रिया भागः 
-Chapter XXX Acharya Kritya Adhikara Chapter XXXI Shishyakrityadhikara Chapter XXXII Nigamanadhikara
-
-383
-
-389
-
-
-
-## Index of shlokas quoted
-313
-कर्मणा मनसा वाचा करबदरित विश्वः कल्याणमावहतु कलकण्ठ गणास्वाद्ये कलौखलु भविष्यन्ति कालावर्तान् गुरुं प्रकाशयेत् गुरखो यत्रपूज्यन्ते । गोपयन्नाचरेत् धर्म चित्तालंबन सौकर्य चेतनस्य यदा मम्यं चराचराणि भूतानि जन्मात्नरकृतंपापं ज्वलानदिवसज्योत्स्ना जीवान्तर्यामिणं देवं तत्र प्रपत्यनर्हाणां ततोमहतिपर्यङ्के तं वैश्रवण संकाशं तत्पाद भक्तिज्ञानाभ्यां तद्विज्ञानार्थं सः गुरुमेव तमिमं सर्वसंपन्नं तस्माद्विष्णुप्रसादाय तामर्चयेत् तार पूर्व तदनुहृदयं तावदार्तिः तथावाञ्छा तेन संरक्ष्यमाणस्य देवर्षि भूतात्म तं मातापितृहन्तारं त्राणे स्वामित्वं औचित्यं
-276 देवगुह्येषु चान्येषु 389 ध्यायेत् जपेत् 282 न प्रमाद्येत् गुरौ शिष्यो 395 न प्रहृष्यति सम्माने 194 न वेदान्तात् शास्त्रं
-83 न शूद्रा भगवतद्भक्ताः
-9 नरात् जातानि तत्वानि 195 न रिष्यति च सर्वत्र 378 नाथाय नाथमुनयेत्र 322 नाम्नस्ते यावती शक्तिः 292 नारायणं संलक्ष्मीकं 119 नारायणैकनिष्ठस्य 190 नाहारं चिंतयेत् प्राज्ञः 209 नायं देवो न मोवा 309 नावेदनिष्ठस्य जनस्य 342 नारस्त्विति सर्वपुंसां 393 निगृहीतेन्द्रियग्रामः 394 नित्यसिद्धे तदाकारे 165 नित्यहि नास्ति जगति
-5 निरस्ताति शयाह्लाद ___ 6 निस्संशयेषु सर्वेषु
-191 निवेदयत स्वात्मानं 60 निक्षेपापरपर्यायो 281 नैषा पश्यति
-97 पत्युः प्रजानां 134 पदत्रयेपि संक्षेपात् 146 पन्थानकार उद्धिष्टो 273 परमात्मनि नाराणां 288 परावरसुखग्राह्य
-384 306 333 262 295 297
-387 312 243 265 157
-16 377 296 196 321
-73
-215 228
-313 117,119
-158 164 300 293 328 322
-Index of shlokas quoted
-407
-243 135 177 45
-99
-380
-पशवः पाशिताः पूर्व पशुः मनुष्यः पात्रस्थं आत्मज्ञानं पाञ्चालिका शुकविभूषण पापिष्ठः क्षत्रबन्धुश्च पूर्णमङ्गैः उपाङ्गैश्च ब्रह्माद्याः सकलाः देवाः ब्रह्माणं शितिकण्ठं च बहवोहि महात्मानः बहुभ्यश्च महद्भ्यश्च ब्रहुविद्या प्रदानस्य भक्तियोगः परैकान्तप्रीत्या भक्तिरष्टविधा ह्येषा भगवति हरौ पारंगन्तुं भगवान्मे परोनित्यं भरन्यासबलादेव भरस्वीकार रहितं मद्भक्तजनवात्सल्य मन्तारं त्रायते मन्त्ररत्नाख्य संदर्भ मन्त्रे तद्देवतायां च मनः संयम्य मनसिकरणग्राम मणिवरइव शौरेः ममनाथ यदस्ति मम मद्भक्त भक्तेषु ममाप्यखिल जन्तूनां ममाश्रयो नकश्चित्तु मयिसर्वाणि कर्माणि
-358 मां हि पार्थ व्यपाश्रित्य
-95 मुमुक्षुमात्र सामान्य 376 मुकुन्देनिक्षिप्यस्वभर 136 प्रकृत्यात्मभ्रान्तिः
-5 प्रपन्नादन्येषां 292 प्रत्येयस्तु विलक्षणः
-74 प्राप्यं ब्रह्म 115 प्राप्यस्यैव प्रापकत्वं 284 प्रायश्चित्तिरियं सात्र
-19 प्रायेणाकृतकृत्यत्वात् 384 प्रारब्धेतर पूर्वपापं 109 प्रियेष स्वेष सकतं 264 यत्किञ्चिदपि कुर्वाणो 149 यात्किञ्चित् वर्तते लोके 291 यथा सर्वेषु देवेषु 323 यदर्थस्तुकृतोन्यासः 238 यदन्तस्थं अशेषेण 173 यदा स केवलीभूतः 283 यस्य चावाश्च विश्वासः 309 यस्यानुग्रहं इच्छामि 281 यश्शूद्रं भगवद्भक्तं 108 यत्र नारायणो देवः 200 यत्रैकाग्रयं भवति
-13 युग्यस्यन्दनसारधि 137 युगकोटि सहस्राणि 172 यावानर्थ उदपाने
-6 युगपदाखिलं 76 येद्विषन्ति महात्मानं 107 ये नाथवन्तो हि भवन्ति
-352 269 154 192 204 196 156 284 236 283 218 307 272 191
-195 194
-143 75
-225 274 235
-408
-Index of shlokas quoted
-116
-73
-112 384 376
-336
-242 198
-ये यजन्ति पितॄन् देवान् 146 स पित्राच परियक्तः रहस्यत्रयसारोयं
-396 सब्रह्मकाः सरुद्राश्च रागादि दूषिते चित्ते 276 सर्वधर्मान् परित्यज्य लक्ष्म्या सह हृषीकेशः 237,317 सर्वस्वं वा तदर्धं वा लक्ष्मीनारायणमयं 309 संवत्सरं तदध वा लोकेषु विष्णोः निवसन्ति 219 सर्वधर्मान् परित्यज्य वयसः कर्मणः
-88 सर्वयोग्यं अनायासं विषयरसे विरक्ताः 159 साकाशीति नचाकशीति
-वर्तमानः सदाचैवं
-165 साक्षात् नारायणो देवः वितमसिपदे लक्ष्मीकान्तं 214 साक्षान्मुक्तेरुपायान्यः वाचः परं प्रार्थयत 317 सृष्टा नारं तोयं विवेकिनां प्रापन्नानां 362 स्वगुरुणां स्वशिष्येभ्यः वैराग्यविजित स्वान्तः 331 स्वच्छस्वादुसदावदात वैष्णवत्वेन मान्यत्वं 265 स्वतन्त्राङ्ग प्रपत्तिभ्यां वैकुण्ठे तु परेलोके 14 स्वोजीवनेच्छा यदिते व्यवसायात् ऋते ब्रह्म 325 सर्वापाधिविनिर्मुक्तं व्यासाम्नाय पयोधि 371 सिद्धिर्भवति वानेति
-शरण्यं त्वां प्रापनाये 258 सुरुपां प्रतिमा विष्णोः साध्यभक्तिस्तु सा हन्त्री 271 संतोषार्थं विमृशति शब्दः स्वरसतः प्राप्त 322 सांकेत्यं पारिहास्यं च श्रद्धान्वितायाथ गुणान्विताय । 377 सायुज्यं उभयोरत्र श्रूयते खिल गोविन्दे 229 संसारार्णवमग्नानां शास्त्रज्ञानं बहुक्लेशं 64 हविर्गृहीत्वात्म रूपं शिष्टं हि आत्मापाहरास्य 245 हरिरेकः सदाध्येयः श्रीमानारायणस्यैव 309 क्षेत्रज्ञस्य ईश्वर ज्ञानात् षागुण्यात् वासुदेवः 58 ज्ञानान्मोक्षोपदेशेहि
-सत्कर्मनिरताः शुद्धाः 254,98 ज्ञानसमकालमुक्त्वा
-386 295 386 185
-91 245 313
-93
-161
-274 220
-77
-285 78
-286
-246 197, 204
