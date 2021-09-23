@@ -18,13 +18,7 @@ The introductory verse points out the main functions of the Acharya, or spiritua
 
 'अधिजिगमिषुराद्यम् धाम दिव्यं त्रिधाम्नः श्रुतविविधपरीक्षाशोधिते क्वापि पात्रे । अनघगुणदशायां आहितस्नेहमायः प्रदिशति निरपायं संप्रदायप्रदीपम्'।
 
-Desirous of attaining the primeval Supreme Abode of the Lord, the Acharya hands over the eternal lamp of tradition to a worthy disciple, who is tested by different tests, and when he is predominantly satvik, showering his affection on him. In this verse, the Acharya is enjoined to hand over the supreme knowledge of the atman to the deserving disciple before casting away his body. It is verily said –
-
-376
-
-Essence of Srimad Rahasyatraya Saram
-
-'पात्रस्थमात्मज्ञानं कृत्वा पिण्डं समुत्सृजेत् '।
+Desirous of attaining the primeval Supreme Abode of the Lord, the Acharya hands over the eternal lamp of tradition to a worthy disciple, who is tested by different tests, and when he is predominantly satvik, showering his affection on him. In this verse, the Acharya is enjoined to hand over the supreme knowledge of the atman to the deserving disciple before casting away his body. It is verily said – 'पात्रस्थमात्मज्ञानं कृत्वा पिण्डं समुत्सृजेत् '।
 
 The disciple should be tested and only after that, instruction is to be given, if he deserves that knowledge:
 
@@ -78,15 +72,7 @@ Desika quotes a number of authorities to establish the fact that a role of an Ac
 
 'ऋजवे गुरुभक्ताय वैष्णवाय विशेषतः ।
 
-सर्वप्राण्यनुकूलाय दातव्यो देशिकेन तु '॥
-
-2
-
-380
-
-Essence of Srimad Rahasyatraya Saram
-
-"A preceptor should impart this secret teaching to a disciple who is straight forward, who is devoted to his teacher, who is a devotee of Vishnu and who is agreeable in his behaviour to all living beings."
+सर्वप्राण्यनुकूलाय दातव्यो देशिकेन तु '॥ "A preceptor should impart this secret teaching to a disciple who is straight forward, who is devoted to his teacher, who is a devotee of Vishnu and who is agreeable in his behaviour to all living beings."
 
 When it is taught, it should be taught in strict privacy to the disciple.
 
@@ -118,13 +104,7 @@ Shishyakrityadhikara
 
 In this section, the duties and behaviour of a disciple are outlined. This is an important instruction that is to be practised by all disciples for achieving fruitful success in their enquiry after knowledge.
 
-It is ordained that the disciple should be devoted to the teacher as he is devoted to God. He must be ever grateful to the preceptor for endowing him with the lamp of knowledge. Devotion towards the preceptor is the root cause of all good that happens to one. It is ordained that it should be firm. He must always recount the holy names and qualities of his preceptor with great regard. He must have great regard towards the possessions of the preceptor such as his residence or the deities or the holy texts and others. The disciple would serve that master in an eminent way if he hands over the knowledge gained from his preceptor to those of his disciples who are virtuous. He is enjoined to guard that wisdom from the unworthy. The disciple should be ever grateful to his master who has out of compassion endowed him with precious knowledge. The disciple will practise the dictates of the shastras as ordained by his preceptor. What wealth does he not gain, if he is endowed with this kind of behaviour? The wealth suggested here, is the attainment of the Supreme Paramatman, to whom he would be offering loving service for all time to come. This is pointed out in the introductory verse to this chapter:
-
-384
-
-Essence of Srimad Rahasyatraya Saram
-
-अशिथिलगुरुभक्तिः तत्प्रशंसादिशीलः । प्रचुरबहुमतिः तद्वस्तु वास्त्वदिकेषु । गुणवति विनियोक्तुं गोपयन्संप्रदायं कृतविदनघवृत्तिः किं न विन्देनिधानम् ॥
+It is ordained that the disciple should be devoted to the teacher as he is devoted to God. He must be ever grateful to the preceptor for endowing him with the lamp of knowledge. Devotion towards the preceptor is the root cause of all good that happens to one. It is ordained that it should be firm. He must always recount the holy names and qualities of his preceptor with great regard. He must have great regard towards the possessions of the preceptor such as his residence or the deities or the holy texts and others. The disciple would serve that master in an eminent way if he hands over the knowledge gained from his preceptor to those of his disciples who are virtuous. He is enjoined to guard that wisdom from the unworthy. The disciple should be ever grateful to his master who has out of compassion endowed him with precious knowledge. The disciple will practise the dictates of the shastras as ordained by his preceptor. What wealth does he not gain, if he is endowed with this kind of behaviour? The wealth suggested here, is the attainment of the Supreme Paramatman, to whom he would be offering loving service for all time to come. This is pointed out in the introductory verse to this chapter: अशिथिलगुरुभक्तिः तत्प्रशंसादिशीलः । प्रचुरबहुमतिः तद्वस्तु वास्त्वदिकेषु । गुणवति विनियोक्तुं गोपयन्संप्रदायं कृतविदनघवृत्तिः किं न विन्देनिधानम् ॥
 
 A disciple will be grateful to his preceptor, not in the sense of pratyupakara' or doing some good in return but for not violating the dictates of the shastras that ordain that such people who are ungrateful are great sinners, severly punishable.
 
@@ -142,13 +122,7 @@ Shishyakrityadhikara
 
 When he hands over that knowledge to his tested disciples, he must pay obeisance to the line of his teachers and he must teach his disciples in a way that the greatness of the Acharyas and the truths are well pointed out. He must acknowledge with all humility his indebtedness to his great masters, when he gives instructions in the supreme secrets to his disciples. Though one has great scholarship and ability to understand the profound truths from the texts, it is absolutely necessary for one to gain knowledge through the Acharyas and only then, it will have the efficasy, as it comes from tradition.
 
-When one enlightens his disciples, if one does not proclaim one's own preceptor's greatness and compassion,
-
-386
-
-Essence of Srimad Rahasyatraya Saram
-
-the truths that one imparts will be without any basis and one will be committing an offence of not proclaiming one's teachers while instructing one's students:- It is mentioned as one of the thirty two offences.
+When one enlightens his disciples, if one does not proclaim one's own preceptor's greatness and compassion, the truths that one imparts will be without any basis and one will be committing an offence of not proclaiming one's teachers while instructing one's students:- It is mentioned as one of the thirty two offences.
 
 'स्वगुरूणां स्वशिष्येभ्यः ख्यापनं चाकृतं तथा' ।
 
@@ -182,13 +156,7 @@ In the concluding verse of this chapter, Desika expounds that the disciple or th
 
 आचार्यादिह देवतां समधिकामन्यां न मन्यामहे । यस्यासौ भजते कदाचिदजहद्भूमा स्वयं भूमिका मग्नानां भविनां भवार्णवसमुत्ताराय नारायणः' ।
 
-We never consider any other deity as greater than our Acharya, on the tip of the tongue of whom - which is verily the throne - where the Supreme Lord 'Hayagreeval is
-
-388
-
-Essence of Srimad Rahasyatraya Saram
-
-adoming. The role of the Acharya is so great that sometimes, the Supreme Paramatman - Narayana - who is the God of all gods - himself assumes the form of an Acharya for lifting up the transmigracing souls, who are drowning in the ocean of 'samsara'.
+We never consider any other deity as greater than our Acharya, on the tip of the tongue of whom - which is verily the throne - where the Supreme Lord 'Hayagreeval is adoming. The role of the Acharya is so great that sometimes, the Supreme Paramatman - Narayana - who is the God of all gods - himself assumes the form of an Acharya for lifting up the transmigracing souls, who are drowning in the ocean of 'samsara'.
 
 Thus, in this chapter, the dutics of a 'shishya' are expounded by the celebrated author.Nigamanadhikara
 
@@ -202,13 +170,7 @@ In this section, there is a recapitulation of all the truths taught earlier in t
 
 'करबदरितविश्वः कश्चिदाचार्यदृष्ट्या मुषितनिखिलमोहः मूलमन्त्रादिभोगः । सगुणविषयसिद्धौ संप्रदायं प्रयच्छन् सुचरितसिलहारी सूरिबृन्दाभिवन्द्यः' ॥
 
-A fortunate person, who has to his credit, the performance of some 'vyaja', will become the object of the kind glances of the Acharya and will realise very clearly all the truths such as the doctrine of the sentient, non-sentient and Ishvara, the means of spiritual realisation and the doctrine of the Highest Object of attainment, like a 'badari' fruit in the palm, getting rid of all kinds of delusions and he will reflect with delight, upon the meanings of the three great mantras viz., Mulamantra, Dvaya and Charamasloka, and will initiate these truths to a worthy and virtuous disciple and leading a pious life will attain the assembly of the 'Nitya-suris' in the end, going through 'Archiradi'. By the term 'Flaskala:', the 'Arthanushasana' portion is signified. Elaffem4a: points out 'Sthirikarana-bagha'. The phrase acum.' signifies the 'Padavakya-yojana
-
-390
-
-Essence of Srimad Rahasyatraya Saram
-
-bhaga'. Aufsitat indicates the 'Shishya-krityadhikara'. HASR 1049597 signifies the 'Acharyakrityadhikara' which is a part of 'Sampradaya-Prakriya-Bhaga'.
+A fortunate person, who has to his credit, the performance of some 'vyaja', will become the object of the kind glances of the Acharya and will realise very clearly all the truths such as the doctrine of the sentient, non-sentient and Ishvara, the means of spiritual realisation and the doctrine of the Highest Object of attainment, like a 'badari' fruit in the palm, getting rid of all kinds of delusions and he will reflect with delight, upon the meanings of the three great mantras viz., Mulamantra, Dvaya and Charamasloka, and will initiate these truths to a worthy and virtuous disciple and leading a pious life will attain the assembly of the 'Nitya-suris' in the end, going through 'Archiradi'. By the term 'Flaskala:', the 'Arthanushasana' portion is signified. Elaffem4a: points out 'Sthirikarana-bagha'. The phrase acum.' signifies the 'Padavakya-yojana bhaga'. Aufsitat indicates the 'Shishya-krityadhikara'. HASR 1049597 signifies the 'Acharyakrityadhikara' which is a part of 'Sampradaya-Prakriya-Bhaga'.
 
 After suggesting the meanings of the four parts of this work thus, Desika summarises the meanings of the several chapters in the same order and integrates the meanings of those chapters into a connected and whole statement - a Mahavakya.
 
@@ -220,13 +182,7 @@ Nigamanadhikara
 
 kinds of 'mokshopaya-adhikarins' (meaning of Adhikari
 
-Vibhaga-Adhikara) and he will study about the various 'upayas' that are agrecable to different 'adhikarins' (meaning of Upaya-Vibhaga-Adhikara) and will ascertain the necessary qualifications of a 'svatantra-prapatti-nishta' (meaning of Prapatti-Yogya-Adhikara) and will equip himself with all the accessories ordained for Prapatti (meaning of Parikarana Vibhaga-Adhikara) and actually surrenders the burden of his protection along with his 'svarupa' and 'phala' thereof unto the Lord as ordained (meaning of Sangaprapadana Adhikara). Then, he becomes a 'kruta-krutya' (meaning of krucakrutya-Adhikara). Having surrendered unto the Lord, he will introspect and by the marks in his behaviour, he will realise that he is steadfast in his true nature (meaning of Swanishtabhijnana-Adhikara). He will devote himself to the service of the Lord so long as he is placed in this world after his 'prapatti', (meaning of Uttarakrutya Adhikara) and he will realise that the utmost limit of service to the Lord, is service unto the devotees of the Lord (meaning of Purushartha-Kashta-Adhikara), and that he has to render all service only according to the dicates of the shastra (meaning of Shastritya-Niyamana-Adhikara). He has to be very careful in doing service unto the Lord, avoiding all offences, and if they happen, he has to repent and pray for forgiveness (meaning of Aparadha-Pariharana-Adhikara). Such a prapanna will reside in a Holy place, where Bhagavatas' take resort (meaning of Sthana-Vishesha-Adhikara). Having lived the life destined here, he will depart from the body according to the will of the Lord (meaning of Niryana-Adhikara) and being led by the path of 'Archiradi' (meaning of Gati Chintana Adhikara) he attains the Supreme Abode of Sriman Narayana and will be blessed with the bliss of Divinc
-
-392
-
-Essence of Srimad Rahasyatraya Saram
-
-SO1
+Vibhaga-Adhikara) and he will study about the various 'upayas' that are agrecable to different 'adhikarins' (meaning of Upaya-Vibhaga-Adhikara) and will ascertain the necessary qualifications of a 'svatantra-prapatti-nishta' (meaning of Prapatti-Yogya-Adhikara) and will equip himself with all the accessories ordained for Prapatti (meaning of Parikarana Vibhaga-Adhikara) and actually surrenders the burden of his protection along with his 'svarupa' and 'phala' thereof unto the Lord as ordained (meaning of Sangaprapadana Adhikara). Then, he becomes a 'kruta-krutya' (meaning of krucakrutya-Adhikara). Having surrendered unto the Lord, he will introspect and by the marks in his behaviour, he will realise that he is steadfast in his true nature (meaning of Swanishtabhijnana-Adhikara). He will devote himself to the service of the Lord so long as he is placed in this world after his 'prapatti', (meaning of Uttarakrutya Adhikara) and he will realise that the utmost limit of service to the Lord, is service unto the devotees of the Lord (meaning of Purushartha-Kashta-Adhikara), and that he has to render all service only according to the dicates of the shastra (meaning of Shastritya-Niyamana-Adhikara). He has to be very careful in doing service unto the Lord, avoiding all offences, and if they happen, he has to repent and pray for forgiveness (meaning of Aparadha-Pariharana-Adhikara). Such a prapanna will reside in a Holy place, where Bhagavatas' take resort (meaning of Sthana-Vishesha-Adhikara). Having lived the life destined here, he will depart from the body according to the will of the Lord (meaning of Niryana-Adhikara) and being led by the path of 'Archiradi' (meaning of Gati Chintana Adhikara) he attains the Supreme Abode of Sriman Narayana and will be blessed with the bliss of Divinc SO1
 
 Communion culminating in loving service to the Lord for all time to come meaning of Paripurna-Brahmanubhava Adhikara).
 
@@ -280,13 +236,7 @@ If it is asked how this Great Work would fulfil its purpose, if some people - wh
 
 कलकण्ठ गणास्वाद्ये कामस्यास्त्रे निजांकुरे। निंबवृत्तिभिरुतीर्णे न चूतः परितप्ते ॥
 
-The mango sprout, which is a shaft of 'Manmatha' and which is enjoyed by the cuckog, will not sorrow at any time, if it is spit by cows. Likewise, if unwise people do not show regard to this
-
-396
-
-Essence of Srimad Rahasyatraya Saram
-
-OC
+The mango sprout, which is a shaft of 'Manmatha' and which is enjoyed by the cuckog, will not sorrow at any time, if it is spit by cows. Likewise, if unwise people do not show regard to this OC
 
 work, the greatness of the work will not in anyway diminish. The merit of the work will not at any time be disturbed.
 
@@ -306,13 +256,7 @@ Nigamanadhikara
 
 "This work - Srimad Rahasyatrayasara - is presented here by Lord Venkatesha Himself (by the all-knowing Venkatanatha), as it becomes agrecable to all those people who are the realisers of the Divine Couple, that are the resort of all those who have surrendered unto them".
 
-कवितार्किकसिंहाय कल्याणगुणशालिने । श्रीमते वेंकटेशाय वेदान्तगुरवे नमः ॥
-
-398
-
-Essence of Srimad Rahasyatraya Saram
-
-Nikshepa Raksha Nikshepa Raksha is one of the five Raksha granthas written by Desika. This treatise is written in defence of Prapatti. This is meant for cnlightening the followers of Ramanuja in the doctrine of Prapatti. This is not for generating faith in the followers of other schools regarding this doctrine. This doctrine of Prapatti is extolled as HRI यतीश्वर महानस संप्रदाय' and Desika explains the significance of this doctrine according to the teachings of ancient masters like Sri Vishnuchitta, Sri Vatsya Varadacharya, Sri Atreya Ramanuja and others.
+कवितार्किकसिंहाय कल्याणगुणशालिने । श्रीमते वेंकटेशाय वेदान्तगुरवे नमः ॥ Nikshepa Raksha Nikshepa Raksha is one of the five Raksha granthas written by Desika. This treatise is written in defence of Prapatti. This is meant for cnlightening the followers of Ramanuja in the doctrine of Prapatti. This is not for generating faith in the followers of other schools regarding this doctrine. This doctrine of Prapatti is extolled as HRI यतीश्वर महानस संप्रदाय' and Desika explains the significance of this doctrine according to the teachings of ancient masters like Sri Vishnuchitta, Sri Vatsya Varadacharya, Sri Atreya Ramanuja and others.
 
 Desika states the prima facic view that "Prapatti is not a distinct and different means of Moksha" - at the very outset and raises nine objections against Prapatti as follows :
 
@@ -336,13 +280,7 @@ Objection : Is prapatti having any accessories or not?
 
 If you say it has, then it is opposed to your statement that it is a fully
 
-Answer : The elaborate Karmas and others that are required for the three yogas such as Bhaktiyoga and others are not required for Prapatti - This is what is meant by
-
-400
-
-Essence of Srimad Rahasyatraya Saram
-
-निरपेक्षो। It does nor mean that Praparti is not having the unique and particular accessories that are established by Pramanas.
+Answer : The elaborate Karmas and others that are required for the three yogas such as Bhaktiyoga and others are not required for Prapatti - This is what is meant by निरपेक्षो। It does nor mean that Praparti is not having the unique and particular accessories that are established by Pramanas.
 
 'भक्तियोगादित्रयेतिकर्तव्यताभूत- गुरुतरकर्मनैरपेक्ष्यमात्रं हि अत्र विवक्षितं ।
 
@@ -402,13 +340,7 @@ This objection is unfounded, as such a requirement is never accepted. A Prapanna
 
 a Henri | In all the eighteen Vidyasthanas, the four tantras or the Shilpasastra, Prapatti is nowhere mentioned as a distinct means for gaining Moksha. What is Prapatti is not clearly known. So it is an unknown means. Moreover Mahavisvasa cannot be actualised.
 
-Answer : By the term 3teuild you cannot intend to say that the essential nature of Prapatti is not existent. This view is already refuted. You cannot even say that it is not a distinct and different means, because it is taught as a different and distinct means in Ahirbudhnya Samhita and others. The mere fact that it is not taught profusely cannot contradict its teaching in a few places. The testimony of other schools like Sankhya and others is of no avail to us as we do not follow them closely. The great masters of yore like Valmiki, Parasara,
-
-404
-
-Essence of Srimad Rahasyatraya Saram
-
-Vyasa, Shuka, Shounaka and others have glorified this doctrine in their great works and so the above objection is totally untenable. 9. The nineth and the final objection is that Prapatti is
+Answer : By the term 3teuild you cannot intend to say that the essential nature of Prapatti is not existent. This view is already refuted. You cannot even say that it is not a distinct and different means, because it is taught as a different and distinct means in Ahirbudhnya Samhita and others. The mere fact that it is not taught profusely cannot contradict its teaching in a few places. The testimony of other schools like Sankhya and others is of no avail to us as we do not follow them closely. The great masters of yore like Valmiki, Parasara, Vyasa, Shuka, Shounaka and others have glorified this doctrine in their great works and so the above objection is totally untenable. 9. The nineth and the final objection is that Prapatti is
 
 opposed to the Sampradaya or tradition. The ancient acharyas have not traditionally taught or practised Prapatti as an independent and different means to Moksha. It is taught only as an "agna" or accessory in Sri Bhashya and Gita Bhashya. There might be references to Prapatti but they are also for Karma, Jnana or Bhakti. So Prapatti is not the means according to the tradition.
 

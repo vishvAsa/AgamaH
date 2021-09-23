@@ -16,13 +16,7 @@ The section 'Sadhyopaya Shodhanadhikara', clears the doubts that may arise about
 
 In the introductory verse, Desika expounds the essential nature of the 'Siddhopaya, the Supreme Paramatman, as follows :
 
-युगपदखिलं प्रत्यक्षेणं स्वतस्सततं विदन् निरवधिदयादिव्योदन्वान् अशक्यविवर्जितः । जलधिसुतया सार्धं देवो जगत्परिपालयन् परमपुरुषस्सिद्धोपायः प्रतीष्टभरस्सताम् ।।
-
-226
-
-Essence of Srimad Rahasyatraya Saram
-
-1.
+युगपदखिलं प्रत्यक्षेणं स्वतस्सततं विदन् निरवधिदयादिव्योदन्वान् अशक्यविवर्जितः । जलधिसुतया सार्धं देवो जगत्परिपालयन् परमपुरुषस्सिद्धोपायः प्रतीष्टभरस्सताम् ।। 1.
 
 The
 
@@ -56,13 +50,7 @@ Saranagati-Gadya as '319 adeta Ho Heredia 2. the compassion of the great Acharya
 
 instruction into the true knowledge of tatva, hita and purusharta, as caught by the preceptors, who are supremely 'satvik' in nature, and who are not after fame, wealth or worship (ख्यातिलाभपूजा निरपेक्षः) and who teach out of great compassion, the truths as received from the line of their preceptors, beginning with the Supreme Paramatman.
 
-This kind of handing over of the knowledge from generation to generation through the medium of preceptors and disciples, ensures that the knowledge gained is authentic and valid. For those people, who are not enlightened upon the supreme truths, but who have faith, this "upadesha' is
-
-228
-
-Essence of Srimad Rahasyatraya Saram
-
-most important. For more intelligent ones, it is necessary to listen to the expositions of preceptors for gaining perfect knowledge and also for cnlightening those who have not precise knowledge, and are confused.
+This kind of handing over of the knowledge from generation to generation through the medium of preceptors and disciples, ensures that the knowledge gained is authentic and valid. For those people, who are not enlightened upon the supreme truths, but who have faith, this "upadesha' is most important. For more intelligent ones, it is necessary to listen to the expositions of preceptors for gaining perfect knowledge and also for cnlightening those who have not precise knowledge, and are confused.
 
 So, it amounts to saying this - To get rid of all doubts, one has to study the Shastras under compassionate preceptors and determine the truths supported by valid reasons.
 
@@ -102,13 +90,7 @@ and Sheshi, that exists between Jivatman and
 
 Paramatman, III. In respect of the inseparable association of Goddess Sri
 
-with Him.
-
-230
-
-Essence of Srimad Rahasyatraya Saram
-
-I. Among these doubts, the doubt regarding his qualities
+with Him. I. Among these doubts, the doubt regarding his qualities
 
 of 'Swatantrya' and 'Karunya', is expounded as follows : Nammalwar has questioned the Lord thus -
 
@@ -132,11 +114,7 @@ If it is asked why that Supreme Paramatman did not cause the Alwar even earlier 
 
 If it is asked how the question raised by Nammalwar about "accepting him at a particular time, and letting him go far from Him before", can be answered, the answer is as follows :
 
-There is no prime cause other than Supreme Independence and Compassion of the Lord for making one turn towards God, and making one averse to God. If there is any other reason than these, you may please tell me - asks Nammalwar. As Ishvara kept silent, it is made known to the world that 'svatantrya' and 'Krupa' of the Lord are the prime factors for both. The prime cause for making chetana an instrument of his 'lila' is the 'svatantrya' of the Lord. The accessory cause for this, is the transgression of the command of the Supreme Paramatman from beginningless time. That means that the Lord is subjecting one to samsara on account of his supreme independence, and in this act, He is doing so232
-
-Essence of Srimad Rahasyatraya Saram
-
-on account of the transgression of his command by the chetana. Likewise, His natural compassion is the prime cause of relcasing one from the bondage of samsara. The 'sahakari' karana or the accessory cause for removing the wrath of the Lord, happens to be the 'vashikarana-visesha' or the particular acts of surrender or upasana that happens to one, on account of his 'sukrutha visesha' that pleases the Lord. The idea is that the Lord releases one from bondage on account of His compassion, when one observes the pretext of an upasana or self-surrender. He can act only when there is an occasion, and self-surrender or upasana happens to be that occasion. Similarly, His supreme independence is the cause of binding one to samsara. But, he binds one who has transgressed his command, and not anyone according to his own whim and fancy. By thus explaining the essential nature of the Supreme Paramatman viz. supreme independence and infinite compassion, the fact of being non-partial and ever merciful, the regulation regarding bondage and release, all these become harmonised. The gist of all this is that one should utterly depend upon the compassion of the all independent Supreme Paramatman.
+There is no prime cause other than Supreme Independence and Compassion of the Lord for making one turn towards God, and making one averse to God. If there is any other reason than these, you may please tell me - asks Nammalwar. As Ishvara kept silent, it is made known to the world that 'svatantrya' and 'Krupa' of the Lord are the prime factors for both. The prime cause for making chetana an instrument of his 'lila' is the 'svatantrya' of the Lord. The accessory cause for this, is the transgression of the command of the Supreme Paramatman from beginningless time. That means that the Lord is subjecting one to samsara on account of his supreme independence, and in this act, He is doing so on account of the transgression of his command by the chetana. Likewise, His natural compassion is the prime cause of relcasing one from the bondage of samsara. The 'sahakari' karana or the accessory cause for removing the wrath of the Lord, happens to be the 'vashikarana-visesha' or the particular acts of surrender or upasana that happens to one, on account of his 'sukrutha visesha' that pleases the Lord. The idea is that the Lord releases one from bondage on account of His compassion, when one observes the pretext of an upasana or self-surrender. He can act only when there is an occasion, and self-surrender or upasana happens to be that occasion. Similarly, His supreme independence is the cause of binding one to samsara. But, he binds one who has transgressed his command, and not anyone according to his own whim and fancy. By thus explaining the essential nature of the Supreme Paramatman viz. supreme independence and infinite compassion, the fact of being non-partial and ever merciful, the regulation regarding bondage and release, all these become harmonised. The gist of all this is that one should utterly depend upon the compassion of the all independent Supreme Paramatman.
 
 The svatantrya of a merciless person is harmful. Similarly, the compassion of a powerless person is of no help to others and a source of discomfort for him also. The 'karunya' of a 'svatantra' will fulful His 'sankalpa' and so, pleases Him most. It will be the cause of 'ishta-prapti' and 'anista-nivritti' to all those that take resort in Him. The Lord is a satya-sankalpa and so the mercy of the all-powerful Lord, gives Him delight and will be for the redemption of those who take refuge in Him. The prime qualities of the Lord arc jnanam, sakti and karunya. Of these, jnana and sakti are common for both 'nigraha' and 'anugraha' but 'karunya'
 
@@ -148,13 +126,7 @@ is uniquely responsible for 'anugraha' alone.
 
 The infinite compassion of the Lord is the prime cause for (1) the nature and existence of all the three kinds of chetanas and achetanas; (2) the creation of the world; (3) the promulgation of the Shastras; (4) the enlightenment of the knowledge relating to tattva, hita and purushartha; (5) the origination of an aspiration for liberation; (6) redeeming the erring humanity that seek refuge in Him; (7) functioning in the place of an upaya for one who is an 'akinchana'; (8) ignoring and excusing infinite faults of the chetanas that take refuge with Him on account of the mere 'vyaja' or pretext of bhakti and prapatti; (9) granting His infinite bliss of communion after terminating once for all their migration from birth to birth; (10) causing repentence in the minds of the prapannas for the faults committed intentionally and making them observe some expiation according to their competence (11) purifying such hardliners that do not repent by inflicting light punishments and leading them to His eternal abode. For all these, the compassion of the Lord is the prime cause.
 
-The Lord of this nature viz. 'krupavishista' is the 'siddhopaya' or ever realised means. An aspirant after moksha, is enjoined to seek refuge with Him. This is something which ought to be done for being saved. Though Ishvara is most supreme and He may do whatever He likes, He is full of compassion and one should appeal to His compassion to get over his nigrahas. If His wrath is removed, His natural compassion flows spontaneously. So, the means of shakti and prapatti are 'sadhyopayas' that are pretexts to awaken His mercy. So, these upayas are to be practised as ordained.
-
-234
-
-Essence of Srimad Rahasyatraya Saram
-
-II. Doubts that arise in respect of the inherent relationship
+The Lord of this nature viz. 'krupavishista' is the 'siddhopaya' or ever realised means. An aspirant after moksha, is enjoined to seek refuge with Him. This is something which ought to be done for being saved. Though Ishvara is most supreme and He may do whatever He likes, He is full of compassion and one should appeal to His compassion to get over his nigrahas. If His wrath is removed, His natural compassion flows spontaneously. So, the means of shakti and prapatti are 'sadhyopayas' that are pretexts to awaken His mercy. So, these upayas are to be practised as ordained. II. Doubts that arise in respect of the inherent relationship
 
 between Paramatman and the chetanas are cleared as follows:
 
@@ -208,13 +180,7 @@ The Supreme Lord is declared as a protector, along with Goddess Lakshmi, who is 
 
 Desika points out that it is not tenable to give different implications for the same term that qualifies the term Narayana'.
 
-If it is pointed out that considering 'Sri' also along 'Narayana', leads to the eventuality of 'upaya-dvitva' and is opposed to the concept of 'ananyopayatva' of the Lord, it is stated by Desika, that on the grounds of the same reason 'Sri' should also be considered as an 'upalakshana' alone, cven in the 'uttara' khanda, lest ananyaprapyatva' is not harmed. If it is conceded that 'Sri' may be only an 'upa-lakshana' in
-
-238
-
-Essence of Srimad Rahasyatraya Saram
-
-both places, then it results in the eventuality of the auspicious qualities, auspicious divine form of the Lord, and the divine functions, all becoming 'upa-lakshanas'. If it is further argued that the qualities, divinc form and actions are 'visheshanas', as they are helpful, it has to be known that, in the same way, as it is helpful, the relationship with 'Sri' is also to be taken as 'visheshana'. All these can be ascertained by the means of valid knowledge and the unbroken tradition or 'sampradaya'. The Alwars have said that Goddess Lakshmi dispels all sins, and they pray for the grace of the Lord and the grace of Goddess Mahalakshuni. The Ramayana points out that Mother Sita is capable of giving protection. The great masters of yore have described the greatness and glory of Goddess 'Sri' as 'संसारार्णवतारिणी', 'आत्मविद्या च देवीत्वं विमुक्तिफलदायिनी,' 'यामालंब्य सुखेनेमां दस्तरं हि गुणोदधिं' । निस्तरन्त्यचिरेणैव व्यक्तध्यान परायणाः ॥
+If it is pointed out that considering 'Sri' also along 'Narayana', leads to the eventuality of 'upaya-dvitva' and is opposed to the concept of 'ananyopayatva' of the Lord, it is stated by Desika, that on the grounds of the same reason 'Sri' should also be considered as an 'upalakshana' alone, cven in the 'uttara' khanda, lest ananyaprapyatva' is not harmed. If it is conceded that 'Sri' may be only an 'upa-lakshana' in both places, then it results in the eventuality of the auspicious qualities, auspicious divine form of the Lord, and the divine functions, all becoming 'upa-lakshanas'. If it is further argued that the qualities, divinc form and actions are 'visheshanas', as they are helpful, it has to be known that, in the same way, as it is helpful, the relationship with 'Sri' is also to be taken as 'visheshana'. All these can be ascertained by the means of valid knowledge and the unbroken tradition or 'sampradaya'. The Alwars have said that Goddess Lakshmi dispels all sins, and they pray for the grace of the Lord and the grace of Goddess Mahalakshuni. The Ramayana points out that Mother Sita is capable of giving protection. The great masters of yore have described the greatness and glory of Goddess 'Sri' as 'संसारार्णवतारिणी', 'आत्मविद्या च देवीत्वं विमुक्तिफलदायिनी,' 'यामालंब्य सुखेनेमां दस्तरं हि गुणोदधिं' । निस्तरन्त्यचिरेणैव व्यक्तध्यान परायणाः ॥
 
 It can be known from all these references that the term 'Srimath' is the 'visheshana' of the Supreme Paramatman just as the auspicious divine form and auspicious qualities are 'visheshanas'.
 
@@ -234,13 +200,7 @@ Thus, in Prapatti, the means of spiritual perfection to be performed according t
 
 It may not be doubted that 'upayaikya' or oneness of upaya, would be harmed, if Sri is also included in the upaya. Desika explains this fact as follows :
 
-As it is explicit in the term Narayana' and 'charana' that the upaya is only one as characterised by gunavishesha and vigraha-vishesha, even in the same way, He happens to be nityapatnisambandha-visishta and so, there is no eventuality of upaya-dvitva. It is to be noted here, that the glory of Paramatman is enhanced by the attribute of the form of Sri,
-
-240
-
-Essence of Srimad Rahasyatraya Saram
-
-that Paramatman Himself is of unsurpassable glory on account of His own essential nature. His auspicious nature is svabhavasiddha and He is 'ananyadheena-kalyanam.'
+As it is explicit in the term Narayana' and 'charana' that the upaya is only one as characterised by gunavishesha and vigraha-vishesha, even in the same way, He happens to be nityapatnisambandha-visishta and so, there is no eventuality of upaya-dvitva. It is to be noted here, that the glory of Paramatman is enhanced by the attribute of the form of Sri, that Paramatman Himself is of unsurpassable glory on account of His own essential nature. His auspicious nature is svabhavasiddha and He is 'ananyadheena-kalyanam.'
 
 It may be noted that they are mutually glorifying each other, and so, the supremacy of Paramatman does not become diminished if it is qualified by Goddess Sri.
 
@@ -264,11 +224,7 @@ Sadhyopaya Shodhanadhikara Though it has been declared that Bhakti Yoga and Ptip
 
 of the multitudes of finite selves and it is to be thoroughly understood so that one may not have any doubt about this doctrine. One should have a through knowledge of Siddhopaya, and likewise, one should also understand thoroughly the means of Prapatti that is to be adopted. Vedanta Desika has dispelled all doubts that may arise about the nature of Prapatti, the accessories and competency of Prapatti, in this section viz. Sadhyopaya Shodhanadhikara. This happens to be a powerful vindication of the doctrine of Prapatti and is of prime importance.
 
-It is argued by some that Prapatti is not within the competency of all people, as it is a vedic-dharma. It is restricted to the upper three classes as it is considered as a242
-
-Essence of Srimad Rahasyatraya Saram
-
-Yaga Vishehsa or a kind of sacrifice. The answer to this objection is that the above view is not in agreement with the scriptural declaration of Swetaswathara Upanishad, which describes that the Supreme Paramatman is the one refuge for all humanity.
+It is argued by some that Prapatti is not within the competency of all people, as it is a vedic-dharma. It is restricted to the upper three classes as it is considered as a Yaga Vishehsa or a kind of sacrifice. The answer to this objection is that the above view is not in agreement with the scriptural declaration of Swetaswathara Upanishad, which describes that the Supreme Paramatman is the one refuge for all humanity.
 
 सर्वस्य प्रभुमीशानं सर्वस्य शरणं सुहृत् (9.3. 3-17) मुमुक्षु शरणमहं प्रपद्ये
 
@@ -326,13 +282,7 @@ When a person has committed the sin of stealing away the atman, the expiation of
 
 'शिष्टं ह्यात्मापहारस्य निष्कृतिः स्वभरार्पणम् । परशेषत्वधीमात्रं अधिकारि विशेषणम् ॥ पश्चादात्मापहारस्य निरोधाय च कल्पते' ।
 
-For a person who has realised the knowledge of 'sheshatva' that is obtained from the shastras, it is ordained that he should surrender his self unto the Lord, having supreme faith in the saving grace of the Lord, along with the desire for gaining moksha at a particular time.
-
-246
-
-Essence of Srimad Rahasyatraya Saram
-
-Even the statement TASHKL uTaTr' implics the practice of some spiritual discipline as prescribed in statement like 'HA TH'; USEctc.
+For a person who has realised the knowledge of 'sheshatva' that is obtained from the shastras, it is ordained that he should surrender his self unto the Lord, having supreme faith in the saving grace of the Lord, along with the desire for gaining moksha at a particular time. Even the statement TASHKL uTaTr' implics the practice of some spiritual discipline as prescribed in statement like 'HA TH'; USEctc.
 
 This is summarised in the following verse : 'ज्ञानान्मोक्षोपदेशे हि तत्पूर्वोपासनादिना । उपासनादिरूपाद्वा ज्ञानान्मोक्षो विवक्षितः ॥
 
@@ -352,13 +302,7 @@ If prapatti is taken as a means Her or if it is taken as a helpful factor to the
 
 This position is not valid because, it is opposed to Srutis, the Smritis and also as this does not apply in all cases, If it is insisted upon these arguments, as valid reasons, then the 'sadhana-bhava' or the fact of being spiritual disciplines that are accepted, will have to be taken as disturbed. Even the upasanams will have to lose their sadhanatva. If it is said that upasana is not at all a sadhana, then it contradicts their own interpretation of the term 'sarva-dharman-parityajya' where upasana is included in the term 'sarva-dharman'.
 
-As Prapatti or sharana-varana, is also called by the name dharma' just like 'upasana', is not this also to be discarded to fulfil the significance of the term 'sarva'? This also is included
-
-248
-
-Essence of Srimad Rahasyatraya Saram
-
-in the group of dharmas; so, how can one have an idea of sadhana in Prapatti ? Or, how can Prapatti be a sahakari to the ever realised means i.e. sidda-sadhana or Paramatman ?
+As Prapatti or sharana-varana, is also called by the name dharma' just like 'upasana', is not this also to be discarded to fulfil the significance of the term 'sarva'? This also is included in the group of dharmas; so, how can one have an idea of sadhana in Prapatti ? Or, how can Prapatti be a sahakari to the ever realised means i.e. sidda-sadhana or Paramatman ?
 
 It is admitted that one should give up the idea of the direct means in Prapatti as well as in Bhakti Yoga. But, in the form of prasadanatva' or awakening the grace of the Lord, 'dharmatva' or the fact of being a means, should not be abandoned. In that case, one should have to give up the sadanatva-buddhi in the siddhopaya also, as the Lord is called 'Krishnam-Dharmam-Sanatanam'. If it is asked how 'Bhakti' or 'Prapatti' are upakarakas to siddhopaya, who is eternal and of the same form always; always perfect and having the qualities of natural compassion and others, it is replied that these means are effective in removing the wrath of the Lord, which is the cause of migration and which is caused on account of beginningless transgression of the command of the Lord. For an aspirant after moskha, who adopts the sadhyopaya according to his ability, the Lord on that pretext itself-will cause the removal of diminution of knowledge, etc., and grant him the benefit of His eternal service for all time to come. Therefore, it is quite appropriate to expound that 'the destruction of all sins and the granting of paripuma kainkarya' is on account of the siddhopaya or ever realised means i.e. Paramatman, and that this supreme benefit accrues on account of some sadhyopaya such as 'bhakti' or 'prapatti'. 5. It is sometimes argued like this –
 
@@ -374,15 +318,7 @@ Then, if a person is aware of Ishvara from the shastra, he will naturally seek H
 
 Desika points out that it is an 'athivada' based on 'ouchitya' or appropriateness. He gives the illustration of a person seeking refuge with another person in this world. Hc understands first of all, how he should approach a person for getting a favourable response, and then seeks his refuge. Even in the case of Prapatti, one should understand carlier how he should seek refuge with the Lord, and how the Lord would protect one approaching like that, and for knowing this, there is no 'pramana' other than the shastras. If, by the inference that Lord would protect 'us if we seek Him, it would be applicable to all who have an awareness of godhead, and the shastras prescribing upasana and others would become futile. It cannot be known from inference that a capable person could practise upasana, whereas an incapable personi might resort to the means of Prapatti. It is only from shastras that we can understand that Prapatti is a sufficient and capable substitute to Bhakti Yoga. If one undertakes such deeds ignoring the shastras, he would be committing offences, as all the particulars of Prapatti, are to be known from the shastras alone. It is to be admitted that Prapatti along with its accessories is to be prescribed by the shastras for the guidance of the aspirants on account of the above reasons. 6. Though it is ordained by the shastras that one may
 
-adopt Prapattı or Upasana in accordance with one's own ability, it is mentioned by some that upasana or Bhakti Yoga is opposed to the essential nature of the jivatman, who is utterly subscrvient to Paramatman. Desika says that this is also intended to praise Prapatti.
-
-1
-
-250
-
-Essence of Srimad Rahasyatraya Saram
-
-It cannot be said that the practice or Upasana or Prapatti, is opposed to the essential nature of the atman, which is eternal. As in the case of kainkarya, even in practice of Prapatti or Bhakti Yoga, there is 'Bhagavadadhinakartrutva' or doership subordinated to, or given by the Lord, as propounded by the Brahmasutras, and so, it cannot be said that the essential nature of the jivatman is 'atyanca-nirvyapara' or totally devoid of any kind of doership. In that case, it will become a non-entity. It cannot be said that 'sannidhimatra' or mere presence is the function of the atman, without even enjoyership, in which case, the world becomes unreal and there will not be even an aspiration for liberation. So, it cannot be said that upasanas are 'svarupa-viruddha' on account of the absence of kartrutva as in the case of the sankyhas.
+adopt Prapattı or Upasana in accordance with one's own ability, it is mentioned by some that upasana or Bhakti Yoga is opposed to the essential nature of the jivatman, who is utterly subscrvient to Paramatman. Desika says that this is also intended to praise Prapatti. It cannot be said that the practice or Upasana or Prapatti, is opposed to the essential nature of the atman, which is eternal. As in the case of kainkarya, even in practice of Prapatti or Bhakti Yoga, there is 'Bhagavadadhinakartrutva' or doership subordinated to, or given by the Lord, as propounded by the Brahmasutras, and so, it cannot be said that the essential nature of the jivatman is 'atyanca-nirvyapara' or totally devoid of any kind of doership. In that case, it will become a non-entity. It cannot be said that 'sannidhimatra' or mere presence is the function of the atman, without even enjoyership, in which case, the world becomes unreal and there will not be even an aspiration for liberation. So, it cannot be said that upasanas are 'svarupa-viruddha' on account of the absence of kartrutva as in the case of the sankyhas.
 
 "Is it not said", it may be asked, "that wealth comes to one who refrains from any action and one who follows karma cannot even get a sip of water to drink?" This also does not speak of the fucility of the means prescribed by the shastras, but emphasises that the results of karmas done earlier cannot be escaped.
 
@@ -400,11 +336,7 @@ Desika points out that this also is incompatible. A person is associated with a 
 
 There is no contradiction to upasana from the knowledge of body-soul discrimination because such dehatma-viveka is helpful for the practice of all dharmas.
 
-Karma Yoga and others are performed with the help of the 'upadhis' such as body and indriyas that are got due to karma and so are they not against the 'nirupadikasvarupa' of the atman ? A counter question is put in this behalf. How are the factors of the essential nature of the atman and the meanings of dvaya-mantra and others known ? Are they not depending upon the mind and other 'upadhis'? But yet, the atman is an urterly dependent entity being a 'shesha' of Paramatman, and is not liable to protect himself. So, is it reasonable to enjoin on him to practise some means for his own protection Is it proper to call that means a252
-
-Essence of Srimad Rahasyatraya Saram
-
-sadhyopaya ? So, should we not say that Bhakti Yoga and others are not appropriate as they are not in accordance with 'sheshatva' and also as they defile the essential nature of the atman and also as they are totally opposed to the utter dependence of the atnan upon Paramatman ?
+Karma Yoga and others are performed with the help of the 'upadhis' such as body and indriyas that are got due to karma and so are they not against the 'nirupadikasvarupa' of the atman ? A counter question is put in this behalf. How are the factors of the essential nature of the atman and the meanings of dvaya-mantra and others known ? Are they not depending upon the mind and other 'upadhis'? But yet, the atman is an urterly dependent entity being a 'shesha' of Paramatman, and is not liable to protect himself. So, is it reasonable to enjoin on him to practise some means for his own protection Is it proper to call that means a sadhyopaya ? So, should we not say that Bhakti Yoga and others are not appropriate as they are not in accordance with 'sheshatva' and also as they defile the essential nature of the atman and also as they are totally opposed to the utter dependence of the atnan upon Paramatman ?
 
 This objection has been already cleared, as it leads to the eventuality of 'sarva-moksha'. If the Lord were to liberate onc, even without considering any pretext done by him, everyone would have become liberated from beginningless time. If Ishvara is going to liberate one, merely on account of His supreme power, the defects of partiality and cruelty would happen to Him. Moreover, the scriptures that ordain 'mokshopaya' or the means of liberation, would become futile. So, it becomes appropriate in adopting some means of liberation for the atman, and for the master to protect such a one, who verily belongs to Him.
 
@@ -426,13 +358,7 @@ in order to produce faith in the efficacy of the shastras, just like the 'abhich
 
 Desika points out that this is untenable, as upasanas are not sources of evil as the 'abhicharika kriyas' are. Upasanas are means of liberation and so they are valid.
 
-Upasanas are not prescribed just to create a desire in the minds of the aspirants for the adoption of easier means. Success through an easier means causes faith in a more difficult means. The knowledge of the means or upaya, that is appropriate to the attainment of the prapya, is known from the shastras, and it cannot be decided on the basis of merc and independent 'yukti' or reasoning. If the authority of the shastras is questioned as relating to upasanas, by parity of reasoning, the authorities prescribing Prapatti also become invalid. So, both Bhakti Yoga and Prapatti are valid means to mukti, as they have been enjoined by the shastras for different types of aspirants, according to their competence and ability 10. It cannot be said that upasanas are to be ignored, though they are ordained, as they are (fTenfus fatas) or
-
-254
-
-Essence of Srimad Rahasyatraya Saram
-
-opposed to the practices of Ries, as we see that ancient masters like Parasara and others following them. It cannot be said that they are not suitable for the present times as people qualified for upasanas are difficult to be found. It is probable even in these days that such upasakas may be here and there practising meditation just like the great yogins of yorc. As there is no contradiction to upasanas it may be taken as a valid means for spiritual perfection.
+Upasanas are not prescribed just to create a desire in the minds of the aspirants for the adoption of easier means. Success through an easier means causes faith in a more difficult means. The knowledge of the means or upaya, that is appropriate to the attainment of the prapya, is known from the shastras, and it cannot be decided on the basis of merc and independent 'yukti' or reasoning. If the authority of the shastras is questioned as relating to upasanas, by parity of reasoning, the authorities prescribing Prapatti also become invalid. So, both Bhakti Yoga and Prapatti are valid means to mukti, as they have been enjoined by the shastras for different types of aspirants, according to their competence and ability 10. It cannot be said that upasanas are to be ignored, though they are ordained, as they are (fTenfus fatas) or opposed to the practices of Ries, as we see that ancient masters like Parasara and others following them. It cannot be said that they are not suitable for the present times as people qualified for upasanas are difficult to be found. It is probable even in these days that such upasakas may be here and there practising meditation just like the great yogins of yorc. As there is no contradiction to upasanas it may be taken as a valid means for spiritual perfection.
 
 A person who has chosen this path of Prapatti on account of his inability to practise Bhakti Yoga, and on account of his inability to wait for any length of time to attain moksha after exhausting all his 'prarabdha' karmas by experience, is praised as one who has done what ought to be done, and as one who has performed the sacrifice. This nyasa vidya is glorified as follows :
 
@@ -538,13 +464,7 @@ In this section, the author discusses about the eminence of those that adopt thi
 
 There are many statements that praise one who is solely devoted to Lord Vishnu. "The fathers shout in joy and the forefathers dance, saying - A Vaishnava is born in our line, and he will emancipate us." "Even gods cannot understand the greatness of a great person, who has supreme devotion towards the Lord."
 
-Desika points out here that 'Jathi' or caste of a person is different from 'Kula' or a class, characterised by certain
-
-262
-
-Essence of Srimad Rahasyatraya Saram
-
-characteristics, and one should not be confused with the other. There is a statement -
+Desika points out here that 'Jathi' or caste of a person is different from 'Kula' or a class, characterised by certain characteristics, and one should not be confused with the other. There is a statement -
 
 न शूद्राः भगवद्भक्ताः विप्रा भागवताः स्मृताः । सर्ववर्णेषु ते शूद्राः ये ह्यभक्ताः जनार्दने।।
 
@@ -684,13 +604,7 @@ It is declared that the 'sadhya-bhakti' or Prapatti, is capable of destroying ev
 
 साध्यभक्तिस्तु सा हन्त्री प्रारब्धस्यापि भूयसी
 
-The idea of this statement is that, by the unique power of this means, even the 'prarabdha-karma' that has commenced to yield the results, would be destroyed according to the 'arthi' or intensive desire for being released from bondage on the part of the 'sadhaka' either in a moment or in a day or at the end of that life. A doubt may arise here. When a person has surrendered unto the Lord, should not the sorrows / causes of sorrow that are the results of some 'prarabdha karmas', also get destroyed ? Should not the Lord grant on his own accord, the subsidiary benefits such as 'Pankti Pavanarva' and others, even un-asked, to be experienced here! As we see that this is not being experienced here, should we not take the statement Ma. Shuchah' only as an exaggerated praise of the means of Prapatti? If 'Ma-Shuchah' signifies the destruction of all
-
-272
-
-Essence of Srimad Rahasyatraya Saram
-
-sorrows, a person in this world, would not have been allowed to suffer sorrows and engage in causes that lead to sin. So, this statement is merely exaggerating the greatness of Prapatti.
+The idea of this statement is that, by the unique power of this means, even the 'prarabdha-karma' that has commenced to yield the results, would be destroyed according to the 'arthi' or intensive desire for being released from bondage on the part of the 'sadhaka' either in a moment or in a day or at the end of that life. A doubt may arise here. When a person has surrendered unto the Lord, should not the sorrows / causes of sorrow that are the results of some 'prarabdha karmas', also get destroyed ? Should not the Lord grant on his own accord, the subsidiary benefits such as 'Pankti Pavanarva' and others, even un-asked, to be experienced here! As we see that this is not being experienced here, should we not take the statement Ma. Shuchah' only as an exaggerated praise of the means of Prapatti? If 'Ma-Shuchah' signifies the destruction of all sorrows, a person in this world, would not have been allowed to suffer sorrows and engage in causes that lead to sin. So, this statement is merely exaggerating the greatness of Prapatti.
 
 The answer to this doubt is given as follows :
 
@@ -714,13 +628,7 @@ From all these, it becomes established that -
 
 1.
 
-those who are devoted to the Lord, are sure to attain moksha, even in the event of some faults happening to them, as they would be cxpiated by appropriate expiation or they would be cleared by the Lord, by inflicting mild punishments. There is no doubt at all
-
-274
-
-Essence of Srimad Rahasyatraya Saram
-
-regarding the attainment of moksha for those who have surrendered unto the Lord;
+those who are devoted to the Lord, are sure to attain moksha, even in the event of some faults happening to them, as they would be cxpiated by appropriate expiation or they would be cleared by the Lord, by inflicting mild punishments. There is no doubt at all regarding the attainment of moksha for those who have surrendered unto the Lord;
 
 those Prapannas who are bereft of any defect
 
@@ -754,13 +662,7 @@ Prabhava Rakshadhikara
 
 "It is sometimes asked whether one will get salvation by living in a Holy place, where the Lord is ever present. Will not even sinners attain moksha there?" It is said. But, it is the conclusion of the shastras that 'Bhagavath-Kshetra Vasa' is helpful to only those, who are not haters of the Lord. Mere living in a Holy place, will not be the cause of salvation; but, it may influence one to follow the spiritual discipline such as bhakti or prapatti, and attain moksha. If not, even those who are behaving disagreeably to the Lord, will have to gain moksha by merely dwelling at 'Bhagavath Kshetra'. It may be possible that living in a Holy place may lead one, who is not engaged in activities opposed to shastras, to gain a clear vision and remember the Lord at the last moment. For 'Bhagavath-Pravanas' or those who are devoted to the Lord, living in a Holy place, may be helpful to get rid of their defects and attain the Lord.
 
-The offences that are committed in Holy places, will be having very devastating effects. Even this, is on account of the greatness of the Lord. The 'anukulya' or being mostly agreeable to the Lord, would surely uplift an aspirant in some way or other, by getting rid of all faults, and the Lord would grant him his own abode, depending upon some pretext or other. If one is not devoted to the Lord, he cannot aspire to gain that Supreme benefit. So, one should be very cautious in one's thoughts, words and deeds.
-
-276
-
-Essence of Srimad Rahasyatraya Saram
-
-'रागादिदूषिते चित्ते नास्पदी मधुसूदनः। न बघ्नाति रति हंसः कदाचित् कर्दमांभसि ।
+The offences that are committed in Holy places, will be having very devastating effects. Even this, is on account of the greatness of the Lord. The 'anukulya' or being mostly agreeable to the Lord, would surely uplift an aspirant in some way or other, by getting rid of all faults, and the Lord would grant him his own abode, depending upon some pretext or other. If one is not devoted to the Lord, he cannot aspire to gain that Supreme benefit. So, one should be very cautious in one's thoughts, words and deeds. 'रागादिदूषिते चित्ते नास्पदी मधुसूदनः। न बघ्नाति रति हंसः कदाचित् कर्दमांभसि ।
 
 "The destroyer of the demon Madhu, the Supreme Lord, does not take resort in minds that are defiled by desire, passion, hatred and others. A swan will never take delight in marshy waters".
 

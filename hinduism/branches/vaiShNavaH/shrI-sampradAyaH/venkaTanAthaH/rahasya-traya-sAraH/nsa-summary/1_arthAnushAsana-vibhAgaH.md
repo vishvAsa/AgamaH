@@ -24,11 +24,7 @@ Sarah Sampoornah'. 4. It is expressly mentioned that Rahasyatraya Sara
 
 comprises of 32 chapters as "Muppachirandivai". 5. In the Anushasana Bhaga and in the Nigamanadhikara
 
-there is no reference to this section.
-
-Essence of Srimad Rahasyatraya Saram
-
-6.
+there is no reference to this section. 6.
 
 In the verses of Adhikara Sangraha, "Ennuyir tandalittavarai saranampukku" is not included in the scheme of 'Andadi'.
 
@@ -56,11 +52,7 @@ Adhikara and so it is to be understood that this section is introduced for profu
 
 It may be considered that the chapter "Guruparampara Sara" is also of the form of a Mangalagrantha for the commencement and completion of the study of the great composition - Rahasyatraya Sara.
 
-The first invocatory verse of this section viz. Guru parampara Sara offers respectful salutations to the preceptors and seeks the grace of the Divine couple, who are verily the primeval Acharyas. "We utter words of obeisance to our Acharyas and their Acharyas upto the Supreme Lord, who is the Principal Acharya, and we choose the divine couple Sri Mahalakshmi and Sriman Narayana who are the Masters of this universe, as our Supreme object of attainment and means". The first term 'Gurubyah' relates to the immediate Acharya of the aspirant 'स्व अव्यवहित आचार्य'. The second termagns' signifies the Acharya of his Acharya, and beginning from there and going higher and higher, upto the Supreme Lord who is the Paramacharya. It is ordained in the "Shastras" that one should pay obeisance to Acharya Vamsha F a rfan :', "one should know the lineage of one's acharya", '315lyfr than :', "The Acharyas should be meditated upon as such and such upto the Supreme Bhagavan". The first word Gurubyah is used in plural for showing respect. The term Namah itself would suffice but 3ft 37 ' is meant for surrendering oneself unto the preceptor, EHTE: 3THdcarefu'. From this, it is evident that one should have deep devotion towards the line
-
-Essence of Srimad Rahasyatraya Saram
-
-of one's own Acharya. The term 37 signifies that this kind of devotion to the Lord is something which is prescribed in the shastras and in the absence of such performance of devotion, it would lead to great 'Prathyavaya' or offence. 'qui ' means, "we choose the divine couple as our Prapya and Prapaka". Here, there is no eventuality of Srira as the Supreme Lord is characterised by Goddess Mahalakshmi inseparably. She is a 49 of the Lord. The dual number here used signifies that both the Lord and the Mother are the object of attainment and means and that self surrender is related to both of them. This verse is meant for indicating that the first section called Guruparampara Sara is having "the worship of the line of acharyas" as its subject matter.
+The first invocatory verse of this section viz. Guru parampara Sara offers respectful salutations to the preceptors and seeks the grace of the Divine couple, who are verily the primeval Acharyas. "We utter words of obeisance to our Acharyas and their Acharyas upto the Supreme Lord, who is the Principal Acharya, and we choose the divine couple Sri Mahalakshmi and Sriman Narayana who are the Masters of this universe, as our Supreme object of attainment and means". The first term 'Gurubyah' relates to the immediate Acharya of the aspirant 'स्व अव्यवहित आचार्य'. The second termagns' signifies the Acharya of his Acharya, and beginning from there and going higher and higher, upto the Supreme Lord who is the Paramacharya. It is ordained in the "Shastras" that one should pay obeisance to Acharya Vamsha F a rfan :', "one should know the lineage of one's acharya", '315lyfr than :', "The Acharyas should be meditated upon as such and such upto the Supreme Bhagavan". The first word Gurubyah is used in plural for showing respect. The term Namah itself would suffice but 3ft 37 ' is meant for surrendering oneself unto the preceptor, EHTE: 3THdcarefu'. From this, it is evident that one should have deep devotion towards the line of one's own Acharya. The term 37 signifies that this kind of devotion to the Lord is something which is prescribed in the shastras and in the absence of such performance of devotion, it would lead to great 'Prathyavaya' or offence. 'qui ' means, "we choose the divine couple as our Prapya and Prapaka". Here, there is no eventuality of Srira as the Supreme Lord is characterised by Goddess Mahalakshmi inseparably. She is a 49 of the Lord. The dual number here used signifies that both the Lord and the Mother are the object of attainment and means and that self surrender is related to both of them. This verse is meant for indicating that the first section called Guruparampara Sara is having "the worship of the line of acharyas" as its subject matter.
 
 The second half of this verse indicates that the ultimate benefit of liberation from 'samsara' can be attained only through surrender unto the Lord. Thus by the invocatory verse Deshika indicates that surrender unto the preceptor leads to the attainment of the desired knowledge. 1. Sadacharya Sambandha is absolutely necessary :
 
@@ -116,9 +108,7 @@ Desika establishes that the great Alwars are incarnations of the Supreme Paramat
 
 44:' "The Lord Achyuta fulfills His desired will by entering into those that are already born."
 
-Desika points out that the Lord himself incarnated in ten forms like Parankusha and Parakala and promulgated theEssence of Srimad Rahasyatraya Saram
-
-age old truths of the Vedas in a new form through the medium of a language understandable to all just as the clouds absorb the salt waters of the ocean and rain them as sweet water easily used by all. V. An aspirant should reflect upon the Guruparampara
+Desika points out that the Lord himself incarnated in ten forms like Parankusha and Parakala and promulgated the age old truths of the Vedas in a new form through the medium of a language understandable to all just as the clouds absorb the salt waters of the ocean and rain them as sweet water easily used by all. V. An aspirant should reflect upon the Guruparampara
 
 with deep depotion
 
@@ -148,11 +138,7 @@ In the Upodghathadhikara or the introductory chapter to this classic, containing
 
 Normally, the Anubandha Chathushtaya viz. f994, अधिकारिन्, सम्बन्धः and प्रयोजनम् (the subject matter, the aspirants who are competent for it and their inter relationship and the utility) will be mentioned before the commencement of a work and according to this, Desika mentions the subject matter of this work and the purpose of this exposition. In this section, there is a general statement of the supreme truths of the tatwa, hita and purushartha. It is also pointed out that a Chethana or a sentient being who is competent and qualified to enjoy the bliss of divine communion has been deprived of it on account of his indulgence in ungodly ideals and who is floundering as a consequence of that, in an ocean of sorrow and suffering, would come upon a benevolent and compassionate Acharya on account of some good done by him knowingly or unknowingly and on account of His grace, the Chethana or Jivatman would attain the supreme object of his life.
 
-ON
-
-Essence of Srimad Rahasyatraya Saram
-
-In this section, Desika points out that the emancipation of the bound-self, due to the grace of the Acharya, is the subject matter of this Great Treatisc. What all is to be known and done for one's own ultimate good is pointed out in a nutshell in this section. The very many aspects of that knowledge would be dealt with extensively in the body of the text.
+ON In this section, Desika points out that the emancipation of the bound-self, due to the grace of the Acharya, is the subject matter of this Great Treatisc. What all is to be known and done for one's own ultimate good is pointed out in a nutshell in this section. The very many aspects of that knowledge would be dealt with extensively in the body of the text.
 
 Here, it is pointed out that all attainments including the attainment of the Supreme Paramatman depend upon the 'Viveka' or discriminating knowledge that could be gained from the instructions of the Acharyas. So, this is an introduction to the spiritual endeavour of an aspirant for attainment of the ultimate good of life.
 
@@ -176,11 +162,7 @@ After this Mangalacharanam, Desika offers obeisance at the feet of his preceptor
 
 गुरुपरिषदुपज्ञं प्राप्य गोपायते स्वम् ।। The gist of the verse is as follows
 
-The Jivatman who is very dear to the Supreme Lord just as the Kaustubha Gem, has not gained the sovereignty of the eternal service to the Lord on account of the covering of his real nature by the beginningless prakruthi or matter due to his karmas, Though the Jivatman is qualified for that supreme state, he has been labouring under the burden of his karmas. Though he is thus, being blessed and caught by
-
-Essence of Srimad Rahasyatraya Saram
-
-the kind glances of the Supreme Lord at some particular time on account of some casual good done unknowingly by him, he will be blessed with the instruction of the preceptors and will save himself by taking up the spiritual disciplines prescribed therefor."
+The Jivatman who is very dear to the Supreme Lord just as the Kaustubha Gem, has not gained the sovereignty of the eternal service to the Lord on account of the covering of his real nature by the beginningless prakruthi or matter due to his karmas, Though the Jivatman is qualified for that supreme state, he has been labouring under the burden of his karmas. Though he is thus, being blessed and caught by the kind glances of the Supreme Lord at some particular time on account of some casual good done unknowingly by him, he will be blessed with the instruction of the preceptors and will save himself by taking up the spiritual disciplines prescribed therefor."
 
 In this verse, it is first of all declared that the Jivatman is fully qualified for the bliss of divine communion. But, he has missed it on account of his involvement in Kamya-Karma or interested actions on account of the fact that he is not endowed with the true wisdom of the tattva, hita and purushartha.
 
@@ -210,13 +192,7 @@ Similarly, the Jivatman who has not known his truc nature and so who considers h
 
 When and how one gets an Acharya ? Desika says ईश्वरस्य च सौहार्द यदृच्छासुकृतं तथा । विष्णोः कटाक्षमद्वेषं आभिमुख्यं च सात्विकैः । संभाषणं षडेतानि ह्याचार्यप्राप्तिहेतवः ॥
 
-VS
-
-16
-
-Essence of Srimad Rahasyatraya Saram
-
-"These six namely the good will of Paramatman, some good deed done by the chetana casually, the kind glance of Sri Vishnu, having no hatred towards the Lord, a turn towards the Lord and conversation with the satvik people - are the causes of gaining an acharya".
+VS "These six namely the good will of Paramatman, some good deed done by the chetana casually, the kind glance of Sri Vishnu, having no hatred towards the Lord, a turn towards the Lord and conversation with the satvik people - are the causes of gaining an acharya".
 
 On account of any one of these, a forlom Jivatman will be blessed with the grace of an Acharya on account of the grace of the Lord, and saves himself by performing a spiritual discipline.
 
@@ -266,11 +242,7 @@ Those texts that expound the nature of Paramatman, the attainment of Paramatman 
 
 A wiseman should decide thus the quintessence of all shasthras and dedicate himself to the understanding of the three Rahasyas and this text expounds all the truths that are contained in the three Rahasyas.
 
-बहुभ्यश्च महद्भ्यश्च शास्त्रेभ्यः मतिमानरः । सर्वतः सारमादद्यात् पुष्पेभ्य इव षट्पदः ।।
-
-Essence of Srimad Rahasyatraya Saram
-
-The meaning of this verse is that -
+बहुभ्यश्च महद्भ्यश्च शास्त्रेभ्यः मतिमानरः । सर्वतः सारमादद्यात् पुष्पेभ्य इव षट्पदः ।। The meaning of this verse is that -
 
 A mumukshu who wants to save himself from the clutches of samsara without delay, has to gather and devote himself to the most essential truths of these three mysteries 'Rahasyatraya' from all quarters; from all people; from all great shasthras - just like the bees that collect honey from all flowers.
 
@@ -294,13 +266,7 @@ Pradhana Prathithanthradhikara (The unique doctrine of this School of Thought)
 
 In the Saranishkarshadhikara, it was taught that the three Rahasyas are enshrining the ultimate truths of tatva, hita and purushartha and that an aspirant should endeavour to understand these truths as the quintessence of all the shasthras. In the following sections, these truths are elaborately described. Eight chapters are meant for enlightening the essential nature of the spiritual aspirant. The succeeding two chapters describe 'Sanga Prapadana'. The remaining ten sections are describing the beneficial aspects of Prapathi. The essential nature of the Adhikarin for Prapathi, actual performance of Prapathi and post-prapathi duties are thus described with all the essentials in this work.
 
-Of all these, the foremost doctrine that is to be realised is introduced in this section of Pradhana Prathithanthra. Prathithanthra means 'unique doctrine' in this context. It is not 'prathikula-thanthra' or counter doctrine. It is not one found in each school as 'prathi-thanthram'. But, it is a unique doctrine that is taught in this school of thought only according to the authentic, authoritative and infallible sruthi. This doctrine is meant for enlightening the true nature of the individual self as utterly depending upon the supreme Paramatman for his very nature, existence and functioning. The Upanishads teach the relationship of the body and the soul, between the (Chetana - & - Achethana) sentient and non-sentient entities on one hand and the Supreme Paramatman on the other. If this doctrine of body and soul
-
-22
-
-Essence of Srimad Rahasyatraya Saram
-
-relationship between the universe and the Paramatman is clearly understood, then one will be able to imbibe the teachings of the scriptures. This is the most important doctrine which should be understood without any confusion for understanding the nature of the Ultimate Reality. It is therefore justified to teach this unique doctrine taught by the scriptures before teaching about the subject. The Adhikarin or aspirant of Prapathi should have a sound understanding of this relationship between him and Paramatman and he must have full conviction of this truth before undertaking any spiritual discipline. The school of Advaita teaches the doctrine of Adhyasa' or superimposition first and then introduces the teachings about Brahman, Jiva and the universe. When one becomes fully convinced about the fact that everything other than Brahman is superimposed on Brahman, he can then tread over the knowledge of other things and decide for himself that all things other than Brahman are illusory. Advaitins safeguard their doctrine like this, by first teaching that everything is superimposed on Brahman. Though this cannot be proved by any ‘Pramana' whatsoever, the doctrine of Adhyaropa' and 'Apavada' influences the thought of all spiritual aspirants following the doctrine of Advaita.
+Of all these, the foremost doctrine that is to be realised is introduced in this section of Pradhana Prathithanthra. Prathithanthra means 'unique doctrine' in this context. It is not 'prathikula-thanthra' or counter doctrine. It is not one found in each school as 'prathi-thanthram'. But, it is a unique doctrine that is taught in this school of thought only according to the authentic, authoritative and infallible sruthi. This doctrine is meant for enlightening the true nature of the individual self as utterly depending upon the supreme Paramatman for his very nature, existence and functioning. The Upanishads teach the relationship of the body and the soul, between the (Chetana - & - Achethana) sentient and non-sentient entities on one hand and the Supreme Paramatman on the other. If this doctrine of body and soul relationship between the universe and the Paramatman is clearly understood, then one will be able to imbibe the teachings of the scriptures. This is the most important doctrine which should be understood without any confusion for understanding the nature of the Ultimate Reality. It is therefore justified to teach this unique doctrine taught by the scriptures before teaching about the subject. The Adhikarin or aspirant of Prapathi should have a sound understanding of this relationship between him and Paramatman and he must have full conviction of this truth before undertaking any spiritual discipline. The school of Advaita teaches the doctrine of Adhyasa' or superimposition first and then introduces the teachings about Brahman, Jiva and the universe. When one becomes fully convinced about the fact that everything other than Brahman is superimposed on Brahman, he can then tread over the knowledge of other things and decide for himself that all things other than Brahman are illusory. Advaitins safeguard their doctrine like this, by first teaching that everything is superimposed on Brahman. Though this cannot be proved by any ‘Pramana' whatsoever, the doctrine of Adhyaropa' and 'Apavada' influences the thought of all spiritual aspirants following the doctrine of Advaita.
 
 All confusion ensues regarding determining the ultimate teachings of the Upanishads on account of non determination of the inescapable relationship between the universe ard supreme Brahman. The Upanishad itself teaches this doctrine of 'Sarira-Sariri-Bhava' any number of times to make one understand that the Supreme Brahman alone characterised by its body of the form of sentients and the non-sentients, is the One Non-Second Reality. This Body-Soul relationship is not a physiological one as found
 
@@ -332,11 +298,7 @@ understanding that the Supreme Lord is the ultimate object of attainment and tha
 
 The body-soul relationship between Paramatman and the other two entities viz., Jivatman and Matter, establishes that all entities other than Paramatman are supported, ruled over and used for his own purposes by the Paramatman. Three concepts are to be known from this: 1. Adhara-Adheya Bhava 2. Niyamaka-Niyamya Bhava 3. Sheshi-Shesha Bhava
 
-The Lord is, by his very nature - directly and immediately - Adhara (or support) to all substances (Dravya) other than himself, just as he is the Adhara (o Support) to his essential qualities such as Sathyatva, Joanatva, Anantatva, Anandatva and Amalatva as well as the infinite auspicious attributes that are derived from these Swarupa Nirupaka Dharmas. How is he supporting the several attributes or Dharmas related to Matter and Jivatman? The Paramatman is the Adhara for those attributes that are related to these substances viz., Jivatman and Matter, through those very substances (Dravya-Dwara). For the bodies that are taken by the Jivatmans, the Lord is the Adhara through those Jivatmans. Some Acharyas opine that He supports their bodies indirectly through the Jivatmas, and also directly on account of his 'Swarupa'. From this, it is established that all entities other than Paramatman, are inseparable attributes as related to the essential nature of Paramatman. So the essential nature, the existence and functioning of all these entities are dependent upon
-
-Essence of Srimad Rahasyatraya Saram
-
-Páramatman. The essential nature of all entities are dependent upon Paramatman, and therefore, things that are eternal and non-eternal are so, on account of the will of the Lord that wills their eternal nature or non-eternal nature. The will of the Lord is not to be taken as eternal or non eternal. It must be known that some things will be eternal, if the Lord wills that they should be so. The 'Sthithi' or continuance of their existence also depends upon the 'Ichha' or the will of the Lord. So all entities other than Paramatman are Ishwara-Sankalpa-Ashritha'. The will of the Lord makes those entities 'Swarupa-Ashritha'. Thus all entities are both Ishwara Swarupa Ashritha and Ishwara Sankalpa Ashritha.
+The Lord is, by his very nature - directly and immediately - Adhara (or support) to all substances (Dravya) other than himself, just as he is the Adhara (o Support) to his essential qualities such as Sathyatva, Joanatva, Anantatva, Anandatva and Amalatva as well as the infinite auspicious attributes that are derived from these Swarupa Nirupaka Dharmas. How is he supporting the several attributes or Dharmas related to Matter and Jivatman? The Paramatman is the Adhara for those attributes that are related to these substances viz., Jivatman and Matter, through those very substances (Dravya-Dwara). For the bodies that are taken by the Jivatmans, the Lord is the Adhara through those Jivatmans. Some Acharyas opine that He supports their bodies indirectly through the Jivatmas, and also directly on account of his 'Swarupa'. From this, it is established that all entities other than Paramatman, are inseparable attributes as related to the essential nature of Paramatman. So the essential nature, the existence and functioning of all these entities are dependent upon Páramatman. The essential nature of all entities are dependent upon Paramatman, and therefore, things that are eternal and non-eternal are so, on account of the will of the Lord that wills their eternal nature or non-eternal nature. The will of the Lord is not to be taken as eternal or non eternal. It must be known that some things will be eternal, if the Lord wills that they should be so. The 'Sthithi' or continuance of their existence also depends upon the 'Ichha' or the will of the Lord. So all entities other than Paramatman are Ishwara-Sankalpa-Ashritha'. The will of the Lord makes those entities 'Swarupa-Ashritha'. Thus all entities are both Ishwara Swarupa Ashritha and Ishwara Sankalpa Ashritha.
 
 This can be understood from the analogy of the relationship of a Jivatman with his body. The body of the Jivatman is dependent upon the 'Swarupa' of Jivatman as we find that it gets destroyed missing the support of Jivatman, when he departs from the body. This fact of the Tivatman supporting the body can be known clearly in the state of 'sushupti' when there is no willing of the Jivatman. During the waking-state and the dream-state, the body is supported by the will of Jivatman. From this, we understand that the body of the Jivatman is supported through his wish during the waking-state and others in addition to his supporting the body through 'Swarupa'. So, it is pointed out that the body is 'Sankalpa-ashritha' and 'Swarupa Ashritha'. Adheya signifies 'Swarupa-Ashraya'. 'Sankalpa Ashraya' is signified by Niyamyathva. The body is Shesha or subservient to the interest of the Jivatman. So, it is Shesha Bhava. In the same way, all entities other than Paramatman, are having the nature of Adheyatva, Niyamyatva and Sheshatva in respect of Paramatman. He is described as
 
@@ -356,11 +318,7 @@ himself. 3. The realisation of the Niyanthru-Niyamya-Bhava will
 
 result in the realisation of the means of attainment which will be in accordance with his nature i.e., an 'Upaya or means which will not depend upon any other factor. That 'Upaya' is the Supreme Lord himself., who is not depending on any other factor for becoming the 'Upaya'. So, this kind of relationship results in the realisation of the fact that the Jivatman is not supported by any one other than Paramatman (Ananya-Adhara), that he has no refuge other than Paramatman (Ananya
 
-2.
-
-Essence of Srimad Rahasyatraya Saram
-
-Sharana) and that the Supreme object of attainment is nothing other than attaining Paramatman (Ananya Prayojana).
+2. Sharana) and that the Supreme object of attainment is nothing other than attaining Paramatman (Ananya Prayojana).
 
 All these truths can be known from the three Rahasyas. The first Rahasya i.e. Mula Manthra, expounds that the Supreme Narayana is Ananya-Adhara'. This is established by means of the derivation of the term 'Narayana through *Tatpurusha' and 'Bahuvrihi' compounds as "TRITI 3747'
 
@@ -380,13 +338,7 @@ The Charama Shloka ordains prapatti along with its accessories as the means of r
 
 All things that are to be known necessarily while surrendering, such as Ananyarha-Sheshatva and Parathanthrya cannot be known clearly from anything other than "Pranava' and 'Namas' of the Mula Manthra.
 
-The illustration of the chariot of Arjuna points out primacy to Krishna who is in the fore (Sheshi) and subordination to Arjuna who is in the hind (behind) (Shesha). If zore' is taken as signifying 'Sri', then the verse of Ramayana is an illustration. The Divine Couple who are the 'Sheshins' are in the front and they are followed by the 'Shesha', the subservient one, behind. This order also points the Rakshaka, Purushakara and the Rakshya in the respective
-
-30
-
-Essence of Srimad Rahasyatraya Saram
-
-order. The Namas signifies expressly Bhagavatpăratantram and indicates iad Y 4 | This is to be known from the instances of Bharatha and Shatrughna. The quote from the hymns of Alwars – "I am not without you, O Narayana; you are not without me" - signifies that my essential nature is entirely dependent upon you who are the Niyantha. You also are not yourself without me – 'नाराश्चाप्ययन तस्य तैस्तद्भाव FEYYIT" says Desika in Virodhaparihara. The derivation of the term Narayana shows the inseparable relationship between the two. He is to be known through his vibhuti 'faufa fireachra' and the vibhuti is to be known as
+The illustration of the chariot of Arjuna points out primacy to Krishna who is in the fore (Sheshi) and subordination to Arjuna who is in the hind (behind) (Shesha). If zore' is taken as signifying 'Sri', then the verse of Ramayana is an illustration. The Divine Couple who are the 'Sheshins' are in the front and they are followed by the 'Shesha', the subservient one, behind. This order also points the Rakshaka, Purushakara and the Rakshya in the respective order. The Namas signifies expressly Bhagavatpăratantram and indicates iad Y 4 | This is to be known from the instances of Bharatha and Shatrughna. The quote from the hymns of Alwars – "I am not without you, O Narayana; you are not without me" - signifies that my essential nature is entirely dependent upon you who are the Niyantha. You also are not yourself without me – 'नाराश्चाप्ययन तस्य तैस्तद्भाव FEYYIT" says Desika in Virodhaparihara. The derivation of the term Narayana shows the inseparable relationship between the two. He is to be known through his vibhuti 'faufa fireachra' and the vibhuti is to be known as
 
 guitarridehra'
 
@@ -466,13 +418,7 @@ We may now make a study of these five truths, one after the other.
 
 upon Sriman Narayana, who is the Supreme Truth, who is inseparably associated with Goddess Mahalakshmi. The scriptures declare that Sriman
 
-Narayana is the Supreme Truth who is a home of all perfections, all auspicious qualities without any defilement whatsoever. Supreme Brahman is Sriman Narayana. He is ever united with Goddess Lakshmi in all his forms and even in his divine incarnations. The 'Sriyahpatitva' is a unique character of Supreme Brahman. Ramayana, Mahabharata and other scriptures and the Alwars describe Him as inseparably associated with Goddess Lakshmi. føren Aref Pfa: - (464) 'एष नारायणः श्रीमान् क्षीरार्णवनिकेतनः' (व्यूह रूप) 'भवान् नारायणो देवः श्रीमान् चक्रायुधो विभुः' (विभव)
-
-36
-
-Essence of Srimad Rahasyatraya Saram
-
-Ho fath' says Ramanuja. The Alwars also describe that Sri is inseparable from the Supreme Paramatman.
+Narayana is the Supreme Truth who is a home of all perfections, all auspicious qualities without any defilement whatsoever. Supreme Brahman is Sriman Narayana. He is ever united with Goddess Lakshmi in all his forms and even in his divine incarnations. The 'Sriyahpatitva' is a unique character of Supreme Brahman. Ramayana, Mahabharata and other scriptures and the Alwars describe Him as inseparably associated with Goddess Lakshmi. føren Aref Pfa: - (464) 'एष नारायणः श्रीमान् क्षीरार्णवनिकेतनः' (व्यूह रूप) 'भवान् नारायणो देवः श्रीमान् चक्रायुधो विभुः' (विभव) Ho fath' says Ramanuja. The Alwars also describe that Sri is inseparable from the Supreme Paramatman.
 
 Vedanta Desika mentions 'Sriyahpativa’ first while describing the essential nature of Brahman, because 'Sri' is determining his essential nature. She is Swarupa Nirupaka. Desika mentions authorities that show 'Sri' as inseparably associated with Narayana in Para; Vyuha and Vibhava forms.
 
@@ -504,11 +450,7 @@ Thus the object of attainment 1044264 should be reflected upon.
 
 The nature of the Prapya Swarupa or the object of attainment, has been ascertained according to the scriptural authorities such as the Upanishads, Bhagavadgita, the Agamas and the Divya Prabandhams,
 
-The details and characteristics of these fivc fold natures of the Lord, are ascertained from the Agamas that are authoritative as Veda itself, as they are not contradictory to the teachings of the Veda. This aspect of possessing a Divya Mangala Vigraha, is also to be meditated upon as related to the Prapya.
-
-Essence of Srimad Rahasyatraya Saram
-
-The Prapya or the object of attainment - Sriman Narayana - is characterised by the two vibhuties' or glories such as the 'Leela Vibhuti' and the Nitya Vibhuti'. The 'Nitya Vibhuti' or the Paramapada or Vaikunta, is never involved in the process of creation and destruction etc. The 'Leela Vibhuti' i.e., the universe, comprising of matter and the bound selves is subjected to origination and destruction. All these are necessarily dependent upon the infallible will of the Supreme.
+The details and characteristics of these fivc fold natures of the Lord, are ascertained from the Agamas that are authoritative as Veda itself, as they are not contradictory to the teachings of the Veda. This aspect of possessing a Divya Mangala Vigraha, is also to be meditated upon as related to the Prapya. The Prapya or the object of attainment - Sriman Narayana - is characterised by the two vibhuties' or glories such as the 'Leela Vibhuti' and the Nitya Vibhuti'. The 'Nitya Vibhuti' or the Paramapada or Vaikunta, is never involved in the process of creation and destruction etc. The 'Leela Vibhuti' i.e., the universe, comprising of matter and the bound selves is subjected to origination and destruction. All these are necessarily dependent upon the infallible will of the Supreme.
 
 The second factor of the five factors to be known, is Jivatman, who has to attain the Supreme Lord. The Jivatman is called a "Kshetrajna', who is to attain the Lord. The order of the Jivatmans is further classified into three categories - the bound-self, the liberated-self and the eternals.
 
@@ -532,9 +474,7 @@ The 'Phala-Swarupa' or the fruit of such surrender unto the Lord is the obtainme
 
 W ATER of the Charama-sloka is also pointing out the nature of the ‘Phala'.
 
-Desika has described elaborately the nature of the obstacles on the way of attainment of Godhead, because,Essence of Srimad Rahasyatraya Saram
-
-the realisation of these impediments is very necessary for a devoted spiritual career and a genuine turn in life for attainment of Godhead. The host of obstacles to realisation can be said to be of the form of Avidya, Karma, Vasana, Prakriti Sambandha and Ruchi. The bound-self has been made to contact matter which causcs the contraction of his Dharma-Bhuta-Jnanam on account of his transgression of divine command from beginningless time. Even when he is born as a human being on account of some good act whatsoever, he is liable to be disturbed and confused by counter forces of various views of life and he may not have an opportunity to seek and surrender unto the Lord. He is tempted by the objects of the senses and he is likely to get distracted from the right path. One has to be very careful and should not indulge in the pleasures of the senses. He has to develop dispassion and choose only a virtuous path. There is a hurdle at every step and he has to steer clear himself from all these obstacles and should have before him the one and only goal of the attainment of the divine. Even while practising upasana, he should not be tempted by the lower gains of life, such as wealth or fame or long life or even the bliss of self-experience or Kaivalya. A spiritual aspirant should realise that he can get rid of all these obstacles only by surrendering unto the Lord and only by a strong conviction that all attainments other than the divine, are little and transient.
+Desika has described elaborately the nature of the obstacles on the way of attainment of Godhead, because, the realisation of these impediments is very necessary for a devoted spiritual career and a genuine turn in life for attainment of Godhead. The host of obstacles to realisation can be said to be of the form of Avidya, Karma, Vasana, Prakriti Sambandha and Ruchi. The bound-self has been made to contact matter which causcs the contraction of his Dharma-Bhuta-Jnanam on account of his transgression of divine command from beginningless time. Even when he is born as a human being on account of some good act whatsoever, he is liable to be disturbed and confused by counter forces of various views of life and he may not have an opportunity to seek and surrender unto the Lord. He is tempted by the objects of the senses and he is likely to get distracted from the right path. One has to be very careful and should not indulge in the pleasures of the senses. He has to develop dispassion and choose only a virtuous path. There is a hurdle at every step and he has to steer clear himself from all these obstacles and should have before him the one and only goal of the attainment of the divine. Even while practising upasana, he should not be tempted by the lower gains of life, such as wealth or fame or long life or even the bliss of self-experience or Kaivalya. A spiritual aspirant should realise that he can get rid of all these obstacles only by surrendering unto the Lord and only by a strong conviction that all attainments other than the divine, are little and transient.
 
 Thus in this chapter, Vedantha Desika has described the Arthapanchaka Jnanam which is the essence of all Shastras i.e., the essence of the Upanishads, Divya-Prabandham and all philosophical speculations. What is needed here is that these five factors should be determined according to the shastras
 
@@ -556,11 +496,7 @@ Tatvatrayadhikara
 
 Our Masters of yore have classified the categories in various ways, for making the disciples understand the truth clearly without any confusion. The different kinds of categorisation are not contradicting one another. The oneness of Paramatman characterised by the orders of the chetana and the achetana i.e. fagfefelleng e' is admitted by all. The difference and distinction between Brahman and the other two orders, is also admitted by all. To make the student understand the unique characteristics of the 'Prakara' or the attributes, tatva is classified into six sub-divisions such as the Arthapanchaka' and the unique relationship of the 'Body-Soul. Likewise, tatva can be classified into two categories such as 'Isvara' and 'Ishithavya', or it may be classified into three categories as declared by the scriptures viz., Bhoktha, Bhogyam and Preritha'. It may be classified into twenty-six divisions, twenty-four divisions of matter such as Prakriti, Mahath, etc., twenty-fifth category being the Jivatman, and the twenty-six being Paramatman. In every kind of categorisation, an aspirant will realise the true nature of the matter, Jivatman and the Supreme Paramatman.
 
-It is to be known that all entities other than Paramatman are real and subordinated to Him as His inseparable attribute. Paramatman is one supreme Reality, who is all independent and the one supreme ruler over all other entities. The existence, the essential nature and functioning of all sentient and non-sentient entities, other
-
-Essence of Srimad Rahasyatraya Saram
-
-than Paramatman, are subordinated to that one Supreme Paramatman. This fact is admitted by all thinkers who have described the nature and number of categories differently.
+It is to be known that all entities other than Paramatman are real and subordinated to Him as His inseparable attribute. Paramatman is one supreme Reality, who is all independent and the one supreme ruler over all other entities. The existence, the essential nature and functioning of all sentient and non-sentient entities, other than Paramatman, are subordinated to that one Supreme Paramatman. This fact is admitted by all thinkers who have described the nature and number of categories differently.
 
 In the previous section, the five factors such as the nature of the Prapya and others and the unique relationship between Paramatman and others were taught expressly. Then, where is the need for introducing this section dealing with the three tatvas viz., Prakriti, Jivatman and Paramatman? This verily forms a part of Arthapanchaka. The answer to this question is given by Vedantha Desika in the preliminary verse and further explanation of the meaning of the verse. Every aspirant has to get rid of three powerful illusions - 1. The illusion that the body itself is the Atman. This is
 
@@ -582,11 +518,7 @@ The gist of this verse is as follows: -
 
 "By understanding the distinct features of the sentient and the non-sentient entities properly, the illusion of the Atman as the body will vanish. Similarly, by understanding properly the difference and distinction between Isvara and Jivatman, the confusion of the oneness of Jivatman and Paramatman will disappear. The Masters of yore, therefore, teach the three realities as classified by the scriptures as the ‘Bhoktha', or the enjoyer, 'the Bhogya', or the object of enjoyment, and the 'Preritha' or the ruler over both these entities."
 
-In this chapter, Desika has dealt with the nature and characteristics and functioning of these entities both sentient and non-sentient, along with the nature and functioning of Isvara in a remarkably brief manner. The nature, definition and characteristics of these three entities, have been dealt with elaborately supported by dialectrical discussions in great works like Nyaya-Siddanjanam, Tarvamuktakalapam, Nyaya Parisuddhi and other works. The summaries of conclusions arrived at in those monumental works, are given here in a brief manner to serve the general purposes of an aspirant.
-
-Essence of Srimad Rahasyatraya Saram
-
-The aim of this section is not to deal with all these entities exhaustively in all their aspects, but to point out the most essential truths that are inevitable for having a firm understanding of these truths to enable one to take up to the path of spiritual perfection.
+In this chapter, Desika has dealt with the nature and characteristics and functioning of these entities both sentient and non-sentient, along with the nature and functioning of Isvara in a remarkably brief manner. The nature, definition and characteristics of these three entities, have been dealt with elaborately supported by dialectrical discussions in great works like Nyaya-Siddanjanam, Tarvamuktakalapam, Nyaya Parisuddhi and other works. The summaries of conclusions arrived at in those monumental works, are given here in a brief manner to serve the general purposes of an aspirant. The aim of this section is not to deal with all these entities exhaustively in all their aspects, but to point out the most essential truths that are inevitable for having a firm understanding of these truths to enable one to take up to the path of spiritual perfection.
 
 Desika mentions the scatement of Yamuna, quoted by Ramanuja viz., Feta fifa
 
@@ -626,13 +558,7 @@ The nature of the chetanas or the Jivatmans is thus explained in such a way, as 
 
 This is not mentioned separately as this happens to be included in the essential nature of the chetana or the atman. This is a unique doctrine which is admitted according to the authority of the scriptures. The scriptures declare that the atman is a Kartha, Bhoktha, Vijnatha. This knowership or doership signifies this attributive consciousness. As other philosophers have not admitted this entity of attributive consciousness, they find it difficult to explain the fact of knowledge. The 'Sankhyas' and 'Advaitins' attribute knowledge to the mind or Anthahkarana' which is inert. They say knowledge is superimposed on the inert Anthahkarana. For them, the atman is pure consciousness without the fact of knowership. In the school of
 
-Vishistadvaita' the atman is of the essential nature of Jnanam or Jnana-Swarupa and it has the inseparable attribute of Jnanam or Dharma-Bhuta Jnanam. The atman is a ‘Prathyak' principle i.e., a self revealing entity. The atman knows itself as an Anukula', and as one and of the nature of bliss. Swarupa-Jnana can know itself; but, it cannot show other things. Dharma-Bhuta Jnanam is an inseparable attribute of the atman. It shows itself and other objects also to its Ashraya' or the self at the time of showing the objects (Vishaya-Prakashana-Kala).
-
-50
-
-Essence of Srimad Rahasyatraya Saram
-
-This Dharma-Bhuta Jnanam also is 'Swayam-Prakasha' and does not require any other thing to make itself known. It is 'Ubhaya-Nirvahaka'.
+Vishistadvaita' the atman is of the essential nature of Jnanam or Jnana-Swarupa and it has the inseparable attribute of Jnanam or Dharma-Bhuta Jnanam. The atman is a ‘Prathyak' principle i.e., a self revealing entity. The atman knows itself as an Anukula', and as one and of the nature of bliss. Swarupa-Jnana can know itself; but, it cannot show other things. Dharma-Bhuta Jnanam is an inseparable attribute of the atman. It shows itself and other objects also to its Ashraya' or the self at the time of showing the objects (Vishaya-Prakashana-Kala). This Dharma-Bhuta Jnanam also is 'Swayam-Prakasha' and does not require any other thing to make itself known. It is 'Ubhaya-Nirvahaka'.
 
 All atmans including Paramatman are qualified by this Dharma-Bhuta Jnanam. This attributive consciousness is subject to contraction and expansion during the state of 'samsara' for the bound-souls.
 
@@ -692,11 +618,7 @@ Shuddha satva is the achetana dravya which is the asraya of pure satvaguna, unmi
 
 14h (U to the sarvasheshin. This is useful to the shesha bhutas such as nityas and muktas as an instrument for divine service. As this shudhha satva is unmixed with rajas or tamas it will never obstruct origination of true knowledge and it illumines the nature of the Supreme Paramatman eminently. Though this is not a pratyak principle it is self - luminous just like Dharma bhuta jnanam. Kala (or Time)
 
-Kala or Time is also a Jada' dravya or inert substance. This is perceived by all organs at the time of perceiving several objects. Kala can be known only as associated with the several objects. It cannot be known apart from the objects. It is eternal. The Upanishad says Agre' as related to creation. Kala exists before creation and even after pralaya. It is necessarily related to the world here and it is found also in Nitya Vibhuti. It is Jada and all - pervasive. There is the division of Kala inco Khanda-Kala and Mahakala. Mahakala qualifies all objects of all the worlds and is all - pervasive. Similarly, Khanda-kala is in the form of Kshana (moment), Lava (as aspect), Day, Night, Month, etc., and it is subject
-
-Essence of Srimad Rahasyatraya Saram
-
-to modification. But the modification here is not a change in the nature of the entity. This modification is not in form of clay that undergoes change in its essential nature, but it is in the aspect of attaining a different state. The change in Kala is in the aspect of change in the number of 'Kshanas' or Muhurthas etc. So many kshanas or moments make one muhurtha and so many muhurthas make one day, so many days make one month, so many months make one year. In this way, time - though one and all - pervasive - attains, different states on account of various duration's that are counted in relation to the several objects; and the objects qualified by such states are called 'Anitya' or non-eternal. This Time or Kala is found even in Paramapada, and it does not limit the objects there, but is subordinated to the will of the Lord. Doctrine of Ishvara
+Kala or Time is also a Jada' dravya or inert substance. This is perceived by all organs at the time of perceiving several objects. Kala can be known only as associated with the several objects. It cannot be known apart from the objects. It is eternal. The Upanishad says Agre' as related to creation. Kala exists before creation and even after pralaya. It is necessarily related to the world here and it is found also in Nitya Vibhuti. It is Jada and all - pervasive. There is the division of Kala inco Khanda-Kala and Mahakala. Mahakala qualifies all objects of all the worlds and is all - pervasive. Similarly, Khanda-kala is in the form of Kshana (moment), Lava (as aspect), Day, Night, Month, etc., and it is subject to modification. But the modification here is not a change in the nature of the entity. This modification is not in form of clay that undergoes change in its essential nature, but it is in the aspect of attaining a different state. The change in Kala is in the aspect of change in the number of 'Kshanas' or Muhurthas etc. So many kshanas or moments make one muhurtha and so many muhurthas make one day, so many days make one month, so many months make one year. In this way, time - though one and all - pervasive - attains, different states on account of various duration's that are counted in relation to the several objects; and the objects qualified by such states are called 'Anitya' or non-eternal. This Time or Kala is found even in Paramapada, and it does not limit the objects there, but is subordinated to the will of the Lord. Doctrine of Ishvara
 
 The essential nature, the continuance of nature and the functioning of all entities enumerated above are dependent upon the essential nature and will of the Supreme Paramatman. All these entities are existing is their essential nature only on account of the existence of Ishvara. This is known as Swarupashrita. Likewise, the functioning of all these entities is dependent upon the sankalpa or the will of Paramatman. So, they are sankalpashrita.
 
@@ -760,13 +682,7 @@ In all these forms of incarnations, the Supreme Paramatman is never tainted with
 
 These forms of the Lord will cause the attainment of the realisation of the auspicious qualities of the Lord to a wifefs and strengthen his Maha-Vishvas or great faith in the Lord at the time of performance of Prapatti.
 
-The functions of the Supreme Paramatman who is a home of all-knowledge, power, compassion, and a host of other auspicious qualities, are creation of the entire universe, protection and destruction of the same, granting of
-
-62
-
-Essence of Srimad Rahasyatraya Saram
-
-S10
+The functions of the Supreme Paramatman who is a home of all-knowledge, power, compassion, and a host of other auspicious qualities, are creation of the entire universe, protection and destruction of the same, granting of S10
 
 I el
 
@@ -786,11 +702,7 @@ Desika points out that an awareness of the nature of the Supreme Principle, Srim
 
 The three entities are explained thus. It may be thought of as one Supreme Reality, as qualified by all others, or it may be understood as the 'ruler' and the 'ruled', 'the Arman and the Antaman', 'the protector and the objects to be protected'. In whatever way it is explained, the knowledge of these will be helpful for working out one's upward evolution.
 
-One should know that gaining the knowledge of the shastras is very difficult, as there are different views supporting and refuting the several doctrines. It may disturb the peace of one's mind. So, one should listen to that which is of supreme good viz. The Supreme Paramatman, and then practise the discipline of Prapati or Bhakti Yoga without going further again into the study of the shastras consisting
-
-Essence of Srimad Rahasyatraya Saram
-
-of objections and confusions. The idea is that once when he knows the truth from the instruction of the Acharya, he should hurry to save himself without unnecessary further investigations.
+One should know that gaining the knowledge of the shastras is very difficult, as there are different views supporting and refuting the several doctrines. It may disturb the peace of one's mind. So, one should listen to that which is of supreme good viz. The Supreme Paramatman, and then practise the discipline of Prapati or Bhakti Yoga without going further again into the study of the shastras consisting of objections and confusions. The idea is that once when he knows the truth from the instruction of the Acharya, he should hurry to save himself without unnecessary further investigations.
 
 शास्त्रज्ञानं बहुक्लेशं बुद्धेः चलनकारणम् । उपदेशात् हरि बुध्वा विरमेत्सर्वकर्मसु ।
 
@@ -828,11 +740,7 @@ After having taught the nature of the three entities viz. Matter, Jivatman and P
 
 Ramanuja has declared in the introductory verse itself of his Sri Bhashyam, that the Supreme Brahman is Srinivasa or Sriman Narayana inseparably associated with Goddess Mahalakshmi. While defining the word 'Brahma' of the first sutra - 32TT) CESETH (.4.---8) - Ramanuja says - 'ब्रह्मशब्देन च निरस्तनिखिलदोषः अनवधिकातिशय कल्याणगुणः पुरुषोत्तमो ऽभिधीयते। सर्वत्र बृहत्वगुणयोगेनहि ब्रह्मशब्दः । बृहत्त्वं च स्वरूपेण गुणैश्च यत्र अनवधिकातिशयं सः अस्य मुख्योऽर्थः । स च सर्वेश्वर एवं'।
 
-In the Brahma-sutras, while explaining the meanings of the sutra "f*4ral alcania:" (.. - 3-3-83) Ramanuja declares that the essential nature of the Supreme Brahman, to be meditated upon in all Brahmopasanas, is
-
-Essence of Srimad Rahasyatraya Saram
-
-determined as Sriman Narayana. It is the conclusion of the Sutrakara according to Ramanuja that the object of meditation that is described in the Upanishads differently as Akshara, Shiva, Shambu, Parabrahma, Paranjyoti, Paratatva, Paramatman, Sat, Akasha, Prana, Dahara, Jyoti and others, culminate in Sriman Narayana. The analogy of "Chagapasu Nyaya" is followed in determining the name of the particular dcity that is to be meditated upon in all modes of Brahmopasana. The general names or terms culminate in Sriman Narayana. This fact of Sriman Narayana being the ultimate Rcality to be meditated upon is expressly declared in the Mahanarayana Upanishad. The same truth is established in the Itihasas, Puranas, and Divya Prabhandhams. There are profuse authorities that establish the fact of Narayana being the supreme deity to be meditated upon for obtaining 'Moksha' or liberation.
+In the Brahma-sutras, while explaining the meanings of the sutra "f*4ral alcania:" (.. - 3-3-83) Ramanuja declares that the essential nature of the Supreme Brahman, to be meditated upon in all Brahmopasanas, is determined as Sriman Narayana. It is the conclusion of the Sutrakara according to Ramanuja that the object of meditation that is described in the Upanishads differently as Akshara, Shiva, Shambu, Parabrahma, Paranjyoti, Paratatva, Paramatman, Sat, Akasha, Prana, Dahara, Jyoti and others, culminate in Sriman Narayana. The analogy of "Chagapasu Nyaya" is followed in determining the name of the particular dcity that is to be meditated upon in all modes of Brahmopasana. The general names or terms culminate in Sriman Narayana. This fact of Sriman Narayana being the ultimate Rcality to be meditated upon is expressly declared in the Mahanarayana Upanishad. The same truth is established in the Itihasas, Puranas, and Divya Prabhandhams. There are profuse authorities that establish the fact of Narayana being the supreme deity to be meditated upon for obtaining 'Moksha' or liberation.
 
 In view of all these facts, Vedantha Desika has expounded the whole reality of the 'Paradevata Swarupa' in one section where he has drawn quotations from innumerable authorities to prove that the supreme deity is Sriman Narayana.
 
@@ -860,11 +768,7 @@ The next view is 'n voi' | Oneness of the three deities. The next view is that t
 
 Desika suggests that there are certain views that try to establish the supremacy of Brahma or Rudra over the other two. All these views are unfounded because there are so many authorities that establish the supremacy of Sriman Narayana over all others.
 
-Desika says that the Upanishads in one voice declare that Sriman Narayana is the Gea He says Pant: acud;
-
-Essence of Srimad Rahasyatraya Saram
-
-because in the Purva-Bhaga", many other deities have been - in the context of karma - spoken as supreme. But in the Upanishads, it is universally declared that Vishnu - Narayana
+Desika says that the Upanishads in one voice declare that Sriman Narayana is the Gea He says Pant: acud; because in the Purva-Bhaga", many other deities have been - in the context of karma - spoken as supreme. But in the Upanishads, it is universally declared that Vishnu - Narayana
 
 is the 'Paradevatha'. This kind of scriptural authority is not to be found in support of other doctrines of paradevatha.
 
@@ -964,11 +868,7 @@ antaryamin - for gaining knowledge and for serving the Lord according to his com
 
 "All these gods are not pure, because they are all born differently according to their respective karma".
 
-आब्रह्मस्तम्बपर्यन्तं जगदन्तर्व्यवस्थिताः । प्राणिनः कर्म जनित संसार वशवर्तिनः ॥
-
-Essence of Srimad Rahasyatraya Saram
-
-"All living beings beginning with the Brahma, upto the smallest insect, are beings that are migrating in this world on account of their different karmas."
+आब्रह्मस्तम्बपर्यन्तं जगदन्तर्व्यवस्थिताः । प्राणिनः कर्म जनित संसार वशवर्तिनः ॥ "All living beings beginning with the Brahma, upto the smallest insect, are beings that are migrating in this world on account of their different karmas."
 
 Beginning with that Brahma, all living beings are not pure and auspicious as they are all floundering in 'samsara' on account of karma. So, for a 'virakta' the Supreme Goal is Vasudeva alone."
 
@@ -1046,11 +946,7 @@ It is rightly declared that three things are very rare to be obtained. Of these 
 
 When one examines the real characteristics of this universe, he will understand that he is drowning in the ocean of samsara, being caught by the whirlpool of sorrows and sufferings. Being caught in this, he is subjected to birth, oldage, death, disease and others again and again without any cessation. The primordial matter which is in the subtle form at the time of pralaya, undergoes change and at the time of creation, forms the bodies of the migrating souls and will be causing great disasters in the form of clouding the knowledge of the jivatman and causing perverse knowledge of the Reality. A wiseman sees the defects and limitations of the earthly gains that are little, impermanent associated with sorrow at all levels, as Gita points out.
 
-A person when he realises that life in this world being associated with matter, is heading to sorrow in all aspects, he gets displeased with this world at all levels. When a discriminating man understands this and the inescapable
-
-Essence of Srimad Rahasyatraya Saram
-
-relationship between himself and the Supreme Lord and when he realises that he is qualified fully for attaining the supreme abode of the Lord which is free from sorrows and is of the form of supreme bliss which is verily his true nature, he yearns to get free from the clutches of samsara.
+A person when he realises that life in this world being associated with matter, is heading to sorrow in all aspects, he gets displeased with this world at all levels. When a discriminating man understands this and the inescapable relationship between himself and the Supreme Lord and when he realises that he is qualified fully for attaining the supreme abode of the Lord which is free from sorrows and is of the form of supreme bliss which is verily his true nature, he yearns to get free from the clutches of samsara.
 
 Then, he gains 'mumukshutva' which is the second rare state a Jivatman gains. It is very rare to gain mumukshutva. Though a person is endowed with right knowledge, though he is following right action, though he is a home of all virtues like kshama, dama and others, he may not have 'mumukshutva' for which God's grace is necessary.
 
@@ -1064,11 +960,7 @@ It is really to a fortunate person that these three happen. It will not happen o
 
 Desika outlines in this chapter - Mumukshutvadhikara - very clearly how one should develop dispassion towards the world and how one should have an earnest desire to attain the Supreme Paramatman. In the introductory verse, Desika exhorts humanity to develop a keen desire to free oneself from the clutches of matter.
 
-कालावर्तान् प्रकृतिविकृतीः कामभोगेषु दोषान् ज्वालागर्तप्रतिम दुरितोदकं दुःखानुभूतिम् । याथातथ्यं स्वपरनियतं यच्च दिव्यं पदंतत् काराकल्पं वपुरपिविदन् कस्तितिक्षेतबन्धम् । When one realises the following firmly that
-
-Essence of Srimad Rahasyatraya Saram
-
-t
+कालावर्तान् प्रकृतिविकृतीः कामभोगेषु दोषान् ज्वालागर्तप्रतिम दुरितोदकं दुःखानुभूतिम् । याथातथ्यं स्वपरनियतं यच्च दिव्यं पदंतत् काराकल्पं वपुरपिविदन् कस्तितिक्षेतबन्धम् । When one realises the following firmly that t
 
 ILY.
 
@@ -1114,11 +1006,7 @@ essential nature of the atman is self-luminosity and consciousness. The atman is
 
 He must be fully aware of the fact that he is different and distinct from Isvara on account of the fact of his utter dependence upon the Lord. One who realises that he is supported, ruled over by the Lord and used for the purposes of Lord himself, will realise that one should yearn for the attainment of the glory of divine service.
 
-2.
-
-Essence of Srimad Rahasyatraya Saram
-
-The aspirant should be well aware of his alpa-shaktitva
+2. The aspirant should be well aware of his alpa-shaktitva
 
 and ajnana and having an inauspicious body. 3. He must get rid of the five kinds of 'ahankara' as shown
 
@@ -1148,11 +1036,7 @@ When a person reflects upon these factors, mentioned above, he will come to a de
 
 This has been expounded by savants differently for exhorting man to have a breach with the nearest world at hand and to have a positive and genuine turn towards gaining liberation. The Alwar says like this - "they are of very little essence; having experienced them, I have given up all of them" (t.m. 3-2-6) "having experienced the objects of the five senses, I have realised that the pleasure from the objects is very little." (t.m. 4-6-10)
 
-The Gita says – 'the fruit of all those ignorant people becomes little and they end at a particular time' (Gita 7-23). 'Having come upon this world which is full of sorrow and impermanence, worship me alone to get rid of it'. (Gita 9. 33). 'Having heard that the most mighty, the most valiant and the most wealthy have all been swept away by the floods of time, and nothing of them, other than their names, being left behind, a wise person will not become attached to a wife or a house or a land or money'. "Even in heaven, one will not have
-
-Essence of Srimad Rahasyatraya Saram
-
-happiness, as he is ever afraid of a fall due to exhaustion of that punya." "These defects are found in respect of all these worlds beginning with the world of Brahma. That is why wise people do not desire the attainment of swarga." "The Supreme Abode of Vishnu, is above the abode of the four faced-Brahma. It is pure, eternal and luminous and known as 'Brahman' itself." "The unwise that are devoted to the objects of the world, never reach that place." "All these abodes are verily hells, when compared with the Supreme Abode of Paramatman."
+The Gita says – 'the fruit of all those ignorant people becomes little and they end at a particular time' (Gita 7-23). 'Having come upon this world which is full of sorrow and impermanence, worship me alone to get rid of it'. (Gita 9. 33). 'Having heard that the most mighty, the most valiant and the most wealthy have all been swept away by the floods of time, and nothing of them, other than their names, being left behind, a wise person will not become attached to a wife or a house or a land or money'. "Even in heaven, one will not have happiness, as he is ever afraid of a fall due to exhaustion of that punya." "These defects are found in respect of all these worlds beginning with the world of Brahma. That is why wise people do not desire the attainment of swarga." "The Supreme Abode of Vishnu, is above the abode of the four faced-Brahma. It is pure, eternal and luminous and known as 'Brahman' itself." "The unwise that are devoted to the objects of the world, never reach that place." "All these abodes are verily hells, when compared with the Supreme Abode of Paramatman."
 
 These authorities make it clear that all things other than the attainment and experience of Paramatman are subjected to defects. So, a discriminating person should turn away from all activities leading to worldly attainments and seek whole heartedly that means by which he attains immortality.
 
@@ -1176,13 +1060,7 @@ After describing the essential requirements for becoming a genuine sceker of mok
 
 The idea is that prapatti which is an independent means to moksha is necessarily having the aspect of Bhakti or Supreme Love for God. Without Bhakti, there cannot be praparti. Similarly, Bhakti Yoga which is of the form of continuous remembrance of the form, qualities and glory of the Lord, with love, becomes possible only through prapatti. Bhakti Yoga is called 'Sadhana' Bhakti and Prapatti is called 'Phala' 'Bhakti' or "Sadhya" Bhakti. So, it is to be known that one is not exclusive of the other. Both these types of aspirants are called as 'Bhaktas' or Prapannis'.
 
-स्वतन्त्रांगप्रपत्तिभ्यां प्रपन्नावत्र तावुभौ । फलसाधन भक्तिभ्यां भक्तावपि च दर्शितौ ।
-
-93
-
-Essence of Srimad Rahasyatraya Saram
-
-In this treatise, Desika is expounding the essentials of prapatti or self-surrender as a direct means at the feet of the Lord for attainment of moksha and therefore, works out the particulars to be noted as related to 'Prapatti' mainly.
+स्वतन्त्रांगप्रपत्तिभ्यां प्रपन्नावत्र तावुभौ । फलसाधन भक्तिभ्यां भक्तावपि च दर्शितौ । In this treatise, Desika is expounding the essentials of prapatti or self-surrender as a direct means at the feet of the Lord for attainment of moksha and therefore, works out the particulars to be noted as related to 'Prapatti' mainly.
 
 Prapatti is of three forms i.e. Ukthinishta or devoted to the essential form of uttering the words of surrender; Acharya-nishta or taking refuge with the preceptor and entrusting the responsibility of surrendering unto the Lord to be actuated through the Acharya or preceptor; the third form is 'Swanishta' or being steadfast in surrendering unto the Lord by himself as one will be equipped with the necessary knowledge and the procedure of surrender. Now, we will briefly note the important characteristics of each one of these forms.
 
@@ -1200,9 +1078,7 @@ Acharya-Nishta - A person who has definite understanding that he cannot save him
 
 Any one of these ways of surrender is sure to secure the emancipation of the atman. When one takes refuge with the Acharya, his protection is included in the surrender of the Acharya unto the Lord inclusive of those that belong to him A famous statement is quoted by Desika here fargfala au नेति संशयोऽच्युत सेविनाम् । न संशयोत्र तंद्रक्त परिचर्यारतात्मनाम् ।
 
-"There is a doubt whether a person who is worshipping the Lord, gains fulfilment or not; but, there is no doubtEssence of Srimad Rahasyatraya Saram
-
-about a person who is devoted to the loving service or a devotee of that Lord." It may be asked how it could be believed that one would attain spiritual perfection by seeking an Acharya alone, without one's own effort for moksha? For this question, the statement of Mudaliyandan, gives a suitable answer. When one has an association with an Acharya, he is sure to be saved along with that Acharya, just as a lion that leaps from one mount to another one, carries along with it the worms or other beings taking refuge in its body in the same way, when Sri Bhashyakarar crosses over samsara, we will also cross over samsara, if we are closely devoted to Bhashyakarar. This is an example to impress on the point that the relationship with the Acharya is of utmost importance and the prime cause of gaining salvation. Desika has given an example in Nyasa-Tilaka' where he extols the role of an Acharya, and significance of an 'Acharya Nishta'.
+"There is a doubt whether a person who is worshipping the Lord, gains fulfilment or not; but, there is no doubt about a person who is devoted to the loving service or a devotee of that Lord." It may be asked how it could be believed that one would attain spiritual perfection by seeking an Acharya alone, without one's own effort for moksha? For this question, the statement of Mudaliyandan, gives a suitable answer. When one has an association with an Acharya, he is sure to be saved along with that Acharya, just as a lion that leaps from one mount to another one, carries along with it the worms or other beings taking refuge in its body in the same way, when Sri Bhashyakarar crosses over samsara, we will also cross over samsara, if we are closely devoted to Bhashyakarar. This is an example to impress on the point that the relationship with the Acharya is of utmost importance and the prime cause of gaining salvation. Desika has given an example in Nyasa-Tilaka' where he extols the role of an Acharya, and significance of an 'Acharya Nishta'.
 
 अन्धोऽनन्धग्रहण वशगो याति रंगेश यद्वत् पङ्गुनौकाकुहरनिहितो नीयते नाविकेन भुक्ते भोगानविदितनृपः सेवकस्यार्भकादिः त्वत्संप्राप्तौ प्रभवति तथा देशिको मे दयालुः ॥
 
@@ -1226,11 +1102,7 @@ One who seeks the grace of a vaishnava, whether he is a man or a bird or an anim
 
 2 ma
 
-Va-samas
-
-Essence of Srimad Rahasyatraya Saram
-
-"The people who live in the domain of king, are to be protected by the king, whether they live in the city or in the forest." The sages of Dandaka forest said so to Sri Rama. Nammalwar says that Sri Rama took along with him all the moving and non-moving entities to santanika loka. From
+Va-samas "The people who live in the domain of king, are to be protected by the king, whether they live in the city or in the forest." The sages of Dandaka forest said so to Sri Rama. Nammalwar says that Sri Rama took along with him all the moving and non-moving entities to santanika loka. From
 
 these, does it not become clear that 'bhagavatabhimana' and 'bhagavadvishayavasa' would lead to the attainment of the Supreme Paramatman Desika points out that these' viz. 'Bhagavatabhimana' and 'Bhagavadvishayavasa' will be helpful to one in causing an urgency in attaining Brahman. It is to be noted that this kind of 'Bhagavatabhimana' and others will influence one, either to surrender directly unto the Lord or through the preceptor, either earlier or later. This kind of relationship with prapatti or bhakti will be caused by such causes viz. भागवताभिमान and भगवद्विषय
 
@@ -1288,13 +1160,7 @@ After describing the different kinds of aspirants after liberation, that underta
 
 The meaning of this verse is given below:
 
-"That Supreme Lord is declared by the Upanishads as the sole means of his attainment. Self-surrender and intense
-
-102
-
-Essence of Srimad Rahasyatraya Saram
-
-use
+"That Supreme Lord is declared by the Upanishads as the sole means of his attainment. Self-surrender and intense use
 
 meditation are meant for awakening his mercy and gaining his grace. An aspirant is blessed to adopt either of these two means on account of immense merit or punya. Even when there is such great merit on the part of the aspirant, it is only on account of the Supreme Lord, who is the root-cause of adopting such a means."
 
@@ -1318,11 +1184,7 @@ the indriyas; 2. Shastra vihita or ordained by the scriptures and related
 
 to the Supreme Brahman as its object, as necessarily qualified by the five (Swarupa Nirupaka Dharma) characteristics such as Satyatva, Jnanatva, Anantatva, Amalatva and Anandatva, and as qualified by the qualities that are to be particularly meditated upon in the several types of upasanas, and as qualified by an auspicious divine form. This is related necessarily to Brahman
 
-The particular cxtension of knowledge as related to the "Upeya' or the object of attainment is (1) Karana-Nirapekshah - not depending upon the functioning of the indriyas; (2) Swabhavaprapta or attaining according to its nature and
-
-Essence of Srimad Rahasyatraya Saram
-
-(3) paripurna Brahman - being the object characterised by all auspicious qualities and vibhutis.
+The particular cxtension of knowledge as related to the "Upeya' or the object of attainment is (1) Karana-Nirapekshah - not depending upon the functioning of the indriyas; (2) Swabhavaprapta or attaining according to its nature and (3) paripurna Brahman - being the object characterised by all auspicious qualities and vibhutis.
 
 The 'Upaya' Jnana Vikasa and 'Upeya' Jnana Vikasa are both having Brahman as their object. The meditation upon the qualities that are prescribed in cach type of meditation, qualify the 'upaya' jnana. One has to meditate upon Brahman as prescribed in the respective mode of upasana. This is 'Karana-Sapeksha' or requiring the function of indriyas and it should be as prescribed in the shastra. This kind of extension of knowledge is the upaya jnana.
 
@@ -1336,13 +1198,7 @@ meditation is Brahman alone. That is the knowledge related to Brahman, as prescr
 
 The Upeya Jnana is also having the Supreme Brahman itself as its object, that relates to the Paripurna Brahma Vishaya. This extension of knowledge is not karana sapeksha. It does not depend upon the activity of the indriyas of the upasaka. It is self-established. It is related to Brahman as qualified by all perfections. This is the 'Bhogya' or the object of experience that is gained by the aspirant through his meditation. So, this is the 'Phala' or the 'Prapati' of attainment. This is upcya on account of it being the object of attainment. The upayajnanam is the Paramatman himsclf as He is the 'Phalaprada' or the granter of the result. The difference between these two aspects of knowledge related to Brahman is this - (1) one is phalaprada i.e. related to Brahman who is the bestower of the result of upasana and (2) the other one is bhogya or the object of experience.
 
-A doubt may arise here. According to the Tatkratu
-
-106
-
-Essence of Srimad Rahasyatraya Saram
-
-ece
+A doubt may arise here. According to the Tatkratu ece
 
 Nyaya, which ordains that one attains the results as he meditates here, should an aspirant not attain only Brahman as qualified by the particular qualities, which alone the sadhaka mcditates upon in his upasana here. To illustrate should not a Dahara-Upasaka attain Brahman as qualified by cight qualities alone? How can it be said that he attains Paripurna Brahman. This doubt is cleared as follows :
 
@@ -1418,13 +1274,7 @@ Bhaktiyoga, such as birth in the lowest order, etc. 4) One should have the sarvi
 
 final result after the exhaustion of all prarabdha karmas by experience.
 
-In the absence of any one of these conditions, he will not be qualified for Bhaktiyoga. Even among the higher three orders of the society, if one has deficiency in knowledge or ability or in both, or if one cannot bear delay in obtaining liberation, he is not qualified for Bhaktiyoga, and such a person, should realise his inability for Bhaktiyoga and should choose the path of prapatti, which is the direct means of liberation. Praparti is a path for which all people, irrespective of caste, creed or colour, are qualified.
-
-112
-
-Essence of Srimad Rahasyatraya Saram
-
-Me
+In the absence of any one of these conditions, he will not be qualified for Bhaktiyoga. Even among the higher three orders of the society, if one has deficiency in knowledge or ability or in both, or if one cannot bear delay in obtaining liberation, he is not qualified for Bhaktiyoga, and such a person, should realise his inability for Bhaktiyoga and should choose the path of prapatti, which is the direct means of liberation. Praparti is a path for which all people, irrespective of caste, creed or colour, are qualified. Me
 
 Prapatti is, like Bhaktiyoga, a means for attainment of all desires. It stands in the place of 'Para-Bhakti' and a person who adopts this means, can also attain according to his desire, the successive stages of Para-Jnanam and others. The disqualification for Bhaktiyoga, happens to be the qualification for prapatti.
 
@@ -1446,13 +1296,7 @@ Prapatti Yogyadhikara
 
 In this chapter, the eligibility of an aspirant for performing prapatti is described. This section along with the succeeding two sections, forms one unit. In the twelfth section, the mode of performance of prapatti, along with the accessories, is outlined. The earlier chapters from I to ll are expounding the prerequisites that are to be known for self-surrender to be actuated. In this section, it is established that an aspirant who is incapable of practising Bhaktiyoga and who has no other means of salvation open to him, is qualified for prapatui. Even one, who is qualified for Bhaktiyoga, but incapable of bearing delay in attainment, is qualified for prapatti.
 
-A spiritual aspirant should have 'Arthitva' or keen sense of wanting along with three necessary requirements viz. (1) sound understanding of the essence of the shastras; (2) capacity to practise those teachings and (3) the qualifications of possessing the prescribed qualities and birth in the higher three varnas. All these combined with the strong feeling of aspiration or desire for being liberated, make one qualified for undertaking spiritual discipline. This is the general requirement for undertaking the spiritual discipline. This discipline is of two kinds viz. 'astangayoga' or bhaktiyoga and 'Shadangayoga' or Prapatti. For the Bhaktiyogin, he has to fulfil three conditions (1) a perfect understanding of the shastra that prescribes the means to be adopted; (2) capacity to practise that and (3) qualification of birth in the higher three varnas. These three make him
-
-114
-
-Essence of Srimad Rahasyatraya Saram
-
-entitled to Bhaktiyoga. Whereas, regarding Prapatti, one should have a gencral understanding of (1) the means prescribed in the shastra; (2) ability to perform self-surrender and (3) inability in following any other means.
+A spiritual aspirant should have 'Arthitva' or keen sense of wanting along with three necessary requirements viz. (1) sound understanding of the essence of the shastras; (2) capacity to practise those teachings and (3) the qualifications of possessing the prescribed qualities and birth in the higher three varnas. All these combined with the strong feeling of aspiration or desire for being liberated, make one qualified for undertaking spiritual discipline. This is the general requirement for undertaking the spiritual discipline. This discipline is of two kinds viz. 'astangayoga' or bhaktiyoga and 'Shadangayoga' or Prapatti. For the Bhaktiyogin, he has to fulfil three conditions (1) a perfect understanding of the shastra that prescribes the means to be adopted; (2) capacity to practise that and (3) qualification of birth in the higher three varnas. These three make him entitled to Bhaktiyoga. Whereas, regarding Prapatti, one should have a gencral understanding of (1) the means prescribed in the shastra; (2) ability to perform self-surrender and (3) inability in following any other means.
 
 The scriptures declare that the Lord is possible of being attained by prapatti. This path of spiritual discipline is applicable universally to all just as the cardinal virtues viz. satya and dharma are applicable to all people, irrespective of any difference in caste and others. As these virtues are 'sarvadhikara' or related to all people, prapatti also is prescribed in respect of all people irrespective of any difference whatsoever. 'Haramu yec', gå RUTHE YE, and other such vedic statements as well as the statements of smrithis establish that Prapatti or self-surrender, is a spiritual means of obtaining liberation, which applies to all castes and
 
@@ -1470,13 +1314,7 @@ knows. His utter helplessness or 'Akinchanarva' is to be particularly realised. 
 
 "Those who aspire for moksha, do not worship the four-faced Brahma or Rudra or any other god, and take refuge with them from whom only little benefit is gained."
 
-When a person has not an intense desire for getting liberated, but has interest in the continuation of the body and other things, and performs self-surrender for gaining liberation, the fact of his getting moksha will be delayed so long as his thirst for worldly things does not subside. Not bearing with delay in gaining the ultimate object of life i.e. liberation from samsara, is one of the important aspects of 'Ananyagatitva'. Such an aspirant will have an unshakable determination that he is solely subservient to Paramatman alone. The ancient masters and the Alwars have given cxpression to this kind of 'Ananyagatitval very significantly Being discarded by his own father, the gods and the great sages, that Kakasura having gone through the three worlds,
-
-116
-
-Essence of Srimad Rahasyatraya Saram
-
-came down to Rama and surrendered himself at the feet of Sri Rama.
+When a person has not an intense desire for getting liberated, but has interest in the continuation of the body and other things, and performs self-surrender for gaining liberation, the fact of his getting moksha will be delayed so long as his thirst for worldly things does not subside. Not bearing with delay in gaining the ultimate object of life i.e. liberation from samsara, is one of the important aspects of 'Ananyagatitva'. Such an aspirant will have an unshakable determination that he is solely subservient to Paramatman alone. The ancient masters and the Alwars have given cxpression to this kind of 'Ananyagatitval very significantly Being discarded by his own father, the gods and the great sages, that Kakasura having gone through the three worlds, came down to Rama and surrendered himself at the feet of Sri Rama.
 
 स पित्रा च परित्यक्तः सुरैश्च समहर्षिभिः । त्रीन् लोकान् संपरिक्रम्य तमेव शरणं गतः ॥
 
@@ -1502,13 +1340,7 @@ This means of attainment of moksha is described as 'Shadvidha Sharanagati'. This
 
 निक्षेपापरपर्यायो न्यासः पञ्चाङ्गसंयुतः ।
 
-संन्यासः त्याग इत्युक्तः शरणागतिरित्यपि ॥
-
-118
-
-Essence of Srimad Rahasyatraya Saram
-
-The accessories for entrusting the burden of one's protection to the Lord, are as follows :
+संन्यासः त्याग इत्युक्तः शरणागतिरित्यपि ॥ The accessories for entrusting the burden of one's protection to the Lord, are as follows :
 
 आनुकूल्यस्य संकल्पः प्रातिकूल्यस्य वर्जनम् । रक्षिष्यतीति विश्वासः गोप्तृत्ववरणंतथा ।
 
@@ -1546,13 +1378,7 @@ These five accessories are the natural conditions that exhort the aspirant to of
 
 चराचराणि भूतानि सर्वाणि भगवद्पुः । अतस्तदानुकूल्यं मे कार्यमित्येव निश्चयः ॥
 
-'Karpanya' - or utter helplessness that is realised by one, is an essential factor for deserving the mercy of the Lord.
-
-120
-
-Essence of Srimad Rahasyatraya Saram
-
-This is the reflection of one's own unworthiness for saving oneself, and it may be the absence of 'Garva' or pride that he is capable of saving himself. This is, in fact, a sense of genuinc humility that will win him the mercy of the Lord. On account of this fact, he will not think of any means other than Paramatman for gaining his object of desire, and thus, it will be helpful for gaining 'Ananyopayata'. This heightens the compassion of the Paramatman, who is the protector of all.
+'Karpanya' - or utter helplessness that is realised by one, is an essential factor for deserving the mercy of the Lord. This is the reflection of one's own unworthiness for saving oneself, and it may be the absence of 'Garva' or pride that he is capable of saving himself. This is, in fact, a sense of genuinc humility that will win him the mercy of the Lord. On account of this fact, he will not think of any means other than Paramatman for gaining his object of desire, and thus, it will be helpful for gaining 'Ananyopayata'. This heightens the compassion of the Paramatman, who is the protector of all.
 
 "Maha-vishvasa' or Supreme Faith in the saving grace of the Lord, is absolutely essential for observing Prapatti. This will enable the aspirant to entrust his protection to the Lord with unshakable confidence in Him. As this is helpful at the time of performing Prapatti, it will ensure the aspirant to be free from all cares and anxieties about his protection even after the performance of Prapatti. Maha-Vishvasa or Supreme Faith is the very fundamental factor for the actualisation of Prapatti. Goptrtpa-paranam'
 
@@ -1570,13 +1396,7 @@ Along with these accessories, one has to offer actually oneself to the 'Sarva-Sh
 
 Desika has given two classical instances of surrender, selected from the Ramayana, and has illustrated how in each case, all these five components are to be understood.
 
-The first instance is the surrender of Trijata unto Mother Sita for obtaining protection from Sri Rama. Trijata urges demonesses to seek protection from Sita. She asks them not to speak harsh and cruel words to Sita. TGS Sale: :' - This is indicative of 'Pratikulya-varjanam'. She advise them to use kind and mild words HIGHTET As speech is the very reflection of the mind, this suggests the accessory of 'Anukulya-sankalpa'. 'Akinchanatva' or utter helplessness is suggested by the statement 'राघवाद्धि भयं धोर TEHTI 34 Perdi' which indicates their utter helplessness. Supreme faith in Mother Sita, is suggested by the statement
-
-122
-
-Essence of Srimad Rahasyatraya Saram
-
-'HAN FET TERIT HEM Ta' - which implies that even in case Sri Rama decides to punish some one, Sita would be able to make Him pleased to save the intended person. Even Anjaneya mentions that Sita alone would be capable of protecting the demonesses from Sri Rama. This is expressing Supreme Faith in Sita, A prayer for protecting them is made in the statement 3 41914 dcet' - "may we beg of Sita to protect us". Thus, the five accessories of Prapatti are indicated in the words of Trijata. Handing over actually the atman to be protected is suggested by the word, 'Pranipatha' found in the statement 'POTUIG MET A Aer Aic45' Thus all the accessories along with the entrusting the object to be protected, arc fully indicated in this statement. Though the demonesses were advised like this, to surrender themselves unto Sita, they did not actually surrender to Her, but they did not refuse the proposal. Sita, relying on the non-refusal alone, gave her protection to all the demonesses as 'Haj mi faa:'
+The first instance is the surrender of Trijata unto Mother Sita for obtaining protection from Sri Rama. Trijata urges demonesses to seek protection from Sita. She asks them not to speak harsh and cruel words to Sita. TGS Sale: :' - This is indicative of 'Pratikulya-varjanam'. She advise them to use kind and mild words HIGHTET As speech is the very reflection of the mind, this suggests the accessory of 'Anukulya-sankalpa'. 'Akinchanatva' or utter helplessness is suggested by the statement 'राघवाद्धि भयं धोर TEHTI 34 Perdi' which indicates their utter helplessness. Supreme faith in Mother Sita, is suggested by the statement 'HAN FET TERIT HEM Ta' - which implies that even in case Sri Rama decides to punish some one, Sita would be able to make Him pleased to save the intended person. Even Anjaneya mentions that Sita alone would be capable of protecting the demonesses from Sri Rama. This is expressing Supreme Faith in Sita, A prayer for protecting them is made in the statement 3 41914 dcet' - "may we beg of Sita to protect us". Thus, the five accessories of Prapatti are indicated in the words of Trijata. Handing over actually the atman to be protected is suggested by the word, 'Pranipatha' found in the statement 'POTUIG MET A Aer Aic45' Thus all the accessories along with the entrusting the object to be protected, arc fully indicated in this statement. Though the demonesses were advised like this, to surrender themselves unto Sita, they did not actually surrender to Her, but they did not refuse the proposal. Sita, relying on the non-refusal alone, gave her protection to all the demonesses as 'Haj mi faa:'
 
 In the instance of Vibhishana's surrender also, all these five accessories as well as the major factor of entrusting the burden of protection can be known from the statements made by Vibhishana.
 
@@ -1620,13 +1440,7 @@ The protection given to Vibhishana was extended to the four followers of his als
 
 The surrender of Trijata similarly, is to be understood as inclusive of her close relatives and associates.
 
-All these factors are to be reflected upon in the dvaya mantra, which is the mantra followed in surrender :
-
-124
-
-Essence of Srimad Rahasyatraya Saram
-
-When the supreme nature of Paramatman is reflected some doubts may arise in our minds, Desika has pointed out those doubts and answered them convincingly as follows - 1. The Lord is omniscient and omnipotent.
+All these factors are to be reflected upon in the dvaya mantra, which is the mantra followed in surrender : When the supreme nature of Paramatman is reflected some doubts may arise in our minds, Desika has pointed out those doubts and answered them convincingly as follows - 1. The Lord is omniscient and omnipotent.
 
 When the Lord is of this supreme nature, how can it be said that he is approachable by those, who have committed endless sins? He is granting the results to all people, only according to their respective karma. How can it be said that he would grant infinite benefit of liberation to those who have committed infinite
 
@@ -1650,13 +1464,7 @@ Though the Lord is omnipotent, He is inseparably associated with Goddess Sri Mah
 
 The second doubt is that the Lord awards the fruits of karma, according to their merits, and therefore, He does not grant the infinite benefit of moksha to those who have committed infinite sins that are obstructions for the attainment of the highest object of life. This apprehension is cleared in the following way :
 
-The Lord is no doubt the dispenser of results according to one's action good or bad; but, He will become pleased with the surrender that is made unto Him and on account of that pretext, He will grant the infinite fruit, which is naturally His right, just like one's right to paternal property, as he is cternally related to Him as His Dasa or Attendant.
-
-126
-
-Essence of Srimad Rahasyatraya Saram
-
-OU
+The Lord is no doubt the dispenser of results according to one's action good or bad; but, He will become pleased with the surrender that is made unto Him and on account of that pretext, He will grant the infinite fruit, which is naturally His right, just like one's right to paternal property, as he is cternally related to Him as His Dasa or Attendant. OU
 
 This relationship between the aspirant and the Lord is irrevocable and on account of this intrinsic relationship of
 
@@ -1682,13 +1490,7 @@ The next doubt is - How can it be thought that the Lord is going to grant the de
 
 Any doubt that is entertained, may be got over like this, as we see in this world. So, the means of self-surrender, is established according to shastras, as a desired means to all people. Unless one realises all these factors, he may not entertain supreme faith. The significance of these five apprehensions and answers can be known properly only when a virtuous preceptor blesses with his instructions to the disciple. In the ultimate analysis, it becomes established that the benign grace of the Acharya or Preceptor, will infuse confidence and faith in the saving grace of the Lord.
 
-Though prapatri is a valid means for attaining the benefits that are very difficult to attain and though by
-
-128
-
-Essence of Srimad Rahasyatraya Saram
-
-Dec
+Though prapatri is a valid means for attaining the benefits that are very difficult to attain and though by Dec
 
 performing once, one can attain that benefit without wasting energy, time or wealth, though one can attain one's object of desire at the particular time he desires, it is absolutely necessary that one has to gain Mahavishvasa, which is not easy to get. So this means, though appears to be very casy, is not all that easy. All these factors are to be reflected in the dvaya-mantra. The term that signifies 'Purushakara' in the poorva-khanda enables one to gain supreme faith. The helplessness on the part of the aspirant as well as the nature of this means, are to be known in the verb 'Prapadye'. The preposition 'Pra' and the verb 'Prapadye', combined with the word 'Sharana' and the usage of the first person of the verb, signify the essential nature of this means.
 
@@ -1736,11 +1538,7 @@ Sangaprapadanadhikara Having discussed about the various requirements that are e
 
 In the introductory verse, the essential nature of Prapatti is clearly expounded. It is declared here as 'Bharanyasa' preceded by a prayer for protection. The essential nature of Prapatti is Bharanyasa. This is common to all people who seek the Lord to be their chief means of securing their object of desire. For people who aspire for different benefits, other than liberation, Bharanyasa is a necessity; but, surrendering of the 'swarupa' and 'phala' is not required. This entrusting of the burden of securing the object of desire, is to be necessarily combined with a prayer for his protection. The 'yachana' or prayer, signifies
 
-gopertva-varanam'. This means of prapatti also is a kind of knowledge or 'mathi-vishesha'. This kind of understanding is called Prapatti. Prapani is defined as 37ARATE FOR
-
-Essence of Srimad Rahasyatraya Saram
-
-महाविश्वासपूर्वकम् । तदेकोपायता याञ्छा प्रपत्तिः शरणागतिः' || by ancient masters. Desika gives the definition of Prapatti according to this here as follows:
+gopertva-varanam'. This means of prapatti also is a kind of knowledge or 'mathi-vishesha'. This kind of understanding is called Prapatti. Prapani is defined as 37ARATE FOR महाविश्वासपूर्वकम् । तदेकोपायता याञ्छा प्रपत्तिः शरणागतिः' || by ancient masters. Desika gives the definition of Prapatti according to this here as follows:
 
 अभीष्टे दुस्साधे स्वत इतरतो वा क्वचन तत् भरन्यासं याच्नान्वितमभिवदन्ति प्रपदनम् । इतः पश्चादस्मद्यतननिरपेक्षेण भवता समोऽसावर्थस्त्विति मतिविशेषं तदविदुः ॥
 
@@ -1784,11 +1582,7 @@ entrust the burden of protection i.c. 'Bhara-samarpana'. He also has to surrende
 
 अकिञ्चने भरन्यासस्त्वधिकोऽङ्गितया स्थितः ॥ अत्ररक्षाभरन्यासः समः सर्वफलार्थिनाम् । स्वरूपफलनिक्षेपस्त्वधिको मोक्षकांक्षिणाम् ।।
 
-An objection is raised here. When a person is performing surrender aspiring for some benefit, he should become the beneficiary. How can it be said that the Paramatman is the prime beneficiary? The answer to this question is as follows:136
-
-Essence of Srimad Rahasyatraya Saram
-
-The Supreme Paramatman feels pleased when he grants certain benefits to the aspirants and feels happy, even as he enjoys the decorations and others done to a doll or a parrot and others. Desika describes this in verse ll of Sharanagati Deepika
+An objection is raised here. When a person is performing surrender aspiring for some benefit, he should become the beneficiary. How can it be said that the Paramatman is the prime beneficiary? The answer to this question is as follows: The Supreme Paramatman feels pleased when he grants certain benefits to the aspirants and feels happy, even as he enjoys the decorations and others done to a doll or a parrot and others. Desika describes this in verse ll of Sharanagati Deepika
 
 पाञ्चालिकाशुकविभूषण भोगदायी
 
@@ -1814,13 +1608,7 @@ shesharva-jnana is absolutely essential, though one may not have the knowledge o
 
 "Whatever I am and whatever is here as mine, all that is verily yours alone. Having this enlightened knowledge that they belong to You alone, what can I offer You, anything as mine!" The idea is this, 'even when the atman is offered to you without having a thorough understanding of its nature, if it is offered with the feeling that he is offering something belonging to Him, then the offence of fatmapahara' is remedied. The point that is emphasised here, is that the atman should be offered unto Him, with the feeling that he is offering His (Paramatman's) own object to the lawful owner and that he is not offering anything of his to the Lord. These two verses ay rag' and '444-19' signify that the essential knowledge of freyfa 49' should be had while surrendering the atman to the Lord. 'I also belong to you alone should be the reflection in entrusting the burden of our protection to Him.
 
-Desika points out that in the dvaya-mantra, this kind of cntrusting the burden of protection, should be reflected as follows:
-
-138
-
-Essence of Srimad Rahasyatraya Saram
-
-The dvaya-mantra has the words "PILUT YET I The term ‘sharana' along with the verb 'prapadye’ signifies supreme faith as suggested by the verb, which has the meaning of 'knowing' (Jnanarthaka). The understanding of the means or upaya which is signified by the word 'sharana' is to be understood. Praying for protection (or goptrtva-varanam) is signified as included in 'sharanam-prapadye'. So, one should reflect in the two terms 'sharanam-prapadye', offering of the atman for protection to the Lord, as characterised by the reflection of subscrvience to Him alone,
+Desika points out that in the dvaya-mantra, this kind of cntrusting the burden of protection, should be reflected as follows: The dvaya-mantra has the words "PILUT YET I The term ‘sharana' along with the verb 'prapadye’ signifies supreme faith as suggested by the verb, which has the meaning of 'knowing' (Jnanarthaka). The understanding of the means or upaya which is signified by the word 'sharana' is to be understood. Praying for protection (or goptrtva-varanam) is signified as included in 'sharanam-prapadye'. So, one should reflect in the two terms 'sharanam-prapadye', offering of the atman for protection to the Lord, as characterised by the reflection of subscrvience to Him alone,
 
 The five accessories to Prapatti and the act of surrender, are here enquired into separately for getting a sound understanding of the significance. But, when Prapatti is performed, the main factor of surrender characterised by all the five accessories, are to be reflected as one unit, and to be performed at one time by one. Prapatti is to be performed only once for attainment of a particular object. It should not be performed again and again, because it will imply lack of trust in the Lord. This kind of performance of Prapatti, is compared to the shooting of an arrow at a target by a deft archer. Being well trained in many aspects, the archer shoots unerringly at the target at a single moment. The Upanishad says that the 'Pranava' is the bow and 'Brahman' is the target. Atman' is the arrow and without any inadvertence, the arrow is to be shot and lodged in Brahman. Like that, this act of surrender of the atman to the Paramatman is to be done once only, carefully.
 
@@ -1842,13 +1630,7 @@ Desika has taught the way of performing surrender along with the accessories as 
 
 means of attainment of the object. 3. All these four viz. 'Kartrtva-tyaga', 'Mamata-tyaga',
 
-'Phala-tyaga' and 'Phalopaya-tyaga' are common to all *Nivruthi Dharmas'. Along with all these, one should have the reflection of the five accessories of Prapatti; such as a resolution to be agreeable to Him, etc., which are helpful to Prapatti.
-
-140
-
-Essence of Srimad Rahasyatraya Saram
-
-With all these reflections, one should remember the line of compassionate Acharyas, and through the words of “Dvaya-Mantra', one should entrust the burden of one's protection to Paramatman, which is inclusive of the surrender of one's essential nature (swarupa) as well as the fruit (phala). In this context, it is to be understood that a prayer for being the means of protection, has to be offered to the Lord.
+'Phala-tyaga' and 'Phalopaya-tyaga' are common to all *Nivruthi Dharmas'. Along with all these, one should have the reflection of the five accessories of Prapatti; such as a resolution to be agreeable to Him, etc., which are helpful to Prapatti. With all these reflections, one should remember the line of compassionate Acharyas, and through the words of “Dvaya-Mantra', one should entrust the burden of one's protection to Paramatman, which is inclusive of the surrender of one's essential nature (swarupa) as well as the fruit (phala). In this context, it is to be understood that a prayer for being the means of protection, has to be offered to the Lord.
 
 It is to be understood here that it is justified that one should renounce 'kartrtva' as belonging to him, as that kartrtva has been given to him by the Supreme Lord. This will enable him to remember for all time to come that he is only subordinate to the Supreme Lord.
 
@@ -1934,11 +1716,7 @@ The essential features of a 'Kritakritya', are described in this section. He wil
 
 er CX
 
-mean146
-
-Essence of Srimad Rahasyatraya Saram
-
-attainments. He becomes 'Nirbhaya' or fearless and he discards totally other objects of life and other means of spiritual perfection. He becomes overjoyed when he thinks of the supreme object of life that he is going to gain, just as a poor man comes to gain a great wealth without any effort. He becomes supremely delighted and will not have any relationship with other deities like the four-faced-Brahma or Rudra and others, who are all 'kshetrajnas' or jivatmans, just like himself. It is declared that a person who surrenders unto Supreme Narayana, is not a servant of any other deity. "He, who surrenders unto Sriman Narayana, who is the one refuge of all, and who is the one preceptor of all in this universe, is not the servant of either the gods or sages or other entities or human beings or the manes. He is not
+mean attainments. He becomes 'Nirbhaya' or fearless and he discards totally other objects of life and other means of spiritual perfection. He becomes overjoyed when he thinks of the supreme object of life that he is going to gain, just as a poor man comes to gain a great wealth without any effort. He becomes supremely delighted and will not have any relationship with other deities like the four-faced-Brahma or Rudra and others, who are all 'kshetrajnas' or jivatmans, just like himself. It is declared that a person who surrenders unto Supreme Narayana, is not a servant of any other deity. "He, who surrenders unto Sriman Narayana, who is the one refuge of all, and who is the one preceptor of all in this universe, is not the servant of either the gods or sages or other entities or human beings or the manes. He is not
 
 indebted to anyone here."
 
@@ -1960,13 +1738,7 @@ He has to obey commands of the Lord, as known from the shastras and never should
 
 The prapanna is similar to the liberated, who will be rendering his little service to the Lord, and as he has observed the means of salvation, is a 'Kritakritya' or one who has done his duty and he is called a 'Krithartha' who has gained his 'Purushartha' or object of attainment.
 
-Sri Ramanuja has described in the 'Sharanagati Gadya', how a 'Kritakritya' should be thinking in these words - :
-
-148
-
-Essence of Srimad Rahasyatraya Saram
-
-me
+Sri Ramanuja has described in the 'Sharanagati Gadya', how a 'Kritakritya' should be thinking in these words - : me
 
 अतः त्वम् तत्त्वतो मज्ज्ञानदर्शन प्राप्तिषु निस्संशयः सुखमास्व ।
 
@@ -2002,13 +1774,7 @@ Swanistabhijnanadhikara
 
 A prapanna is one who is steadfast in the awareness of his own essential nature, which is different from non-sentient matter on one hand and the Supreme Paramatman on the other hand, who is the 'sarva-seshin', the siddhopaya and the supreme object of attainment. The understanding of these three namely the tattva, the hita and the purushartha should be firm and unshakable by any kind of perverse arguments in a prapanna. This awareness should be in him during all the time that he remains in this world after prapatri. This kind of steadfastness can be known from various factors that are significant signs showing that awareness. On account of the glory of this knowledge, the prapanna becomes capable of passing through the vast miseries that come across during the course of his life here. He will be capable of avoiding all kinds of unbecoming actions, such as seeking the grace of some one other than the Lord, worshipping those that are different from the Supreme Paramatman, studying the scriptures of other schools and thinking in vain of other things, etc.
 
-These significant marks are to be realised by a prapanna. These are in one way the characteristics of a prapanna. In another aspect, they are 'sadhanas' or disciplines that are to be cultivated and to be achieved by a prapanna. These marks are just like the marks of a 'stita-prajna or a 'gunacccta' or a fervent devotee of the Lord. One can examine one self and find out, if he fulfills all these conditions to call himself as a prapanna. This shows the mental attitude of a prapanna, who is solely devoted to the Lord.
-
-152
-
-Essence of Srimad Rahasyatraya Saram
-
-If a prapanna has the following characteristics, he can know that he is steadfast in his essential nature: 1. When some one accuses him, and speaks of many faults,
+These significant marks are to be realised by a prapanna. These are in one way the characteristics of a prapanna. In another aspect, they are 'sadhanas' or disciplines that are to be cultivated and to be achieved by a prapanna. These marks are just like the marks of a 'stita-prajna or a 'gunacccta' or a fervent devotee of the Lord. One can examine one self and find out, if he fulfills all these conditions to call himself as a prapanna. This shows the mental attitude of a prapanna, who is solely devoted to the Lord. If a prapanna has the following characteristics, he can know that he is steadfast in his essential nature: 1. When some one accuses him, and speaks of many faults,
 
 one should realise that they do not relate to his essential nature, but only relate to the body and others, and so,
 
@@ -2036,13 +1802,7 @@ If one will be thinking on these lines, he can understand that he is steadfast i
 
 Desika has described the characteristics of a person who is steadfast in the means of protection, he has adopted, in the following way: 1. When a person has entrusted the burden of his
 
-protection totally to the Lord, he should have firm conviction that he, or any other person, is never his protector, even in the event of such causes of mortal fcar such as - illness, attack from beasts like tiger and others; even when there appears to be danger to his
-
-154
-
-Essence of Srimad Rahasyatraya Saram
-
-one
+protection totally to the Lord, he should have firm conviction that he, or any other person, is never his protector, even in the event of such causes of mortal fcar such as - illness, attack from beasts like tiger and others; even when there appears to be danger to his one
 
 life, he should not be disturbed in his mind, but should have total faith in the saving grace of the Lord. There should not be any worry on his part about what would happen to him, after the fall of that body. On the other hand, he should rejoice that he would obtain the ultimate object of his life i.e. salvation from samsara. It is pointed out in the following verse that a person would be afraid of ‘mrityu' or death on account of not having done, what ought to have been done. That means, when he has done his duty of surrendering the burden of his protection to the Lord, and when He has received it with compassion, he would have no cares or worries about death. He would be eagerly waiting for death, as one would be waiting for a dear guest, a he has completed what he had to do. When he has thrown away the burden of his protection on the shoulders of the Supreme Paramatman, what else he has to do? प्रायेण अकृतकृत्यत्वात् मृत्योरुद्विजते जनः ।
 
@@ -2062,13 +1822,7 @@ What are the characteristics of the person, who is steadfast in the s object of 
 
 Desika describes them as follows:
 
-A person, who has surrendered himself and the burden of his protection along with the fruit thereof, to the Lord, should not be worried with his 'Deha-yatra' or course of his life in this world, as the course of his life is caused by the Lord, according to the karma of that individual that has commenced to give fruit. It is verily pointed out in the following verses thus –
-
-156
-
-Essence of Srimad Rahasyatraya Saram
-
-उत्पत्तिस्थिति नाशानां स्थितौ चिन्ता कुतस्तव । यथोत्पत्तिर्यथा नाशः स्थितिः तद्वद्भविष्यति ।।
+A person, who has surrendered himself and the burden of his protection along with the fruit thereof, to the Lord, should not be worried with his 'Deha-yatra' or course of his life in this world, as the course of his life is caused by the Lord, according to the karma of that individual that has commenced to give fruit. It is verily pointed out in the following verses thus – उत्पत्तिस्थिति नाशानां स्थितौ चिन्ता कुतस्तव । यथोत्पत्तिर्यथा नाशः स्थितिः तद्वद्भविष्यति ।।
 
 "Of the three factors viz. birth, life and death, why are you ruminating over life itself? As origination and destruction happen, protection also happens".
 
@@ -2104,13 +1858,7 @@ A prapanna should have utmost interest in the divine service of the Lord, which 
 
 A prapanna of this nature cannot bear delay in attaining the supreme object of life viz., deliverance. If one has all these fulfilled in him, it can be underscood that he is steadfast in the 'Parama-Purusharta' or the supreme object of life.
 
-The dative case in the term 'Narayanaya' in the
-
-158
-
-Essence of Srimad Rahasyatraya Saram
-
-Mulamantra, and the dvayamantra, and the term 'namas', and also the second half of charamasloka, all these are pointing to the supreme 'Purusharta' as one points out with his finger a vast ocean.
+The dative case in the term 'Narayanaya' in the Mulamantra, and the dvayamantra, and the term 'namas', and also the second half of charamasloka, all these are pointing to the supreme 'Purusharta' as one points out with his finger a vast ocean.
 
 The fruit or 'Parama-Phala' of attainment of this kind of steadfastness in his essential nature, the upaya or means of salvation and parama-purusharta, are described as follows:
 
@@ -2174,13 +1922,7 @@ All his actions should be for the pleasure of the Lord alone, and not for any ga
 
 The Alwars have given expression to the intense love for the Lord that the devotee has for the Supreme Paramatman, and they are illustrative of the behaviour or a prapanna who spends sometime in this world before attaining his eternal service in the Supreme Abode.
 
-"I spent my time in study of scriptures and in listening ro those great texts like Sri Bhashyam and others, serving
-
-164
-
-Essence of Srimad Rahasyatraya Saram
-
-Him in a humble manner, worshipping Him day in and day out, without wasting my time".
+"I spent my time in study of scriptures and in listening ro those great texts like Sri Bhashyam and others, serving Him in a humble manner, worshipping Him day in and day out, without wasting my time".
 
 "Remembering the utterances of the seers that are admixed with the auspicious qualities of the Lord, I got rid of my immense sorrow, caused by sins in this world. If they do not get rid of their sins and miseries like this, how can they spend their time!"
 
@@ -2212,13 +1954,7 @@ The following statements substantiate their state of life:
 
 तत्पादभक्तिज्ञानाभ्यां फलमन्यत्कदाचन । न याचेत्पुरुषो विष्णुं याचनानश्यति ध्रुवम् ॥
 
-A person who has unburdened himself of the responsibility of his protection, should practise divine service here which will be a kind of probation for the eternal service of the Lord, when he attains the Supreme Abode, after the fall of his body. Tirumalizai Alwar exults that he spent his time usefully by studying the shastras for his atma-dharana, gecting instructions from the Acharyas, offering obeisance to the Acharyas, and leading the life in a virtuous way and
-
-166
-
-Essence of Srimad Rahasyatraya Saram
-
-worshipping with supreme love the Lord of all (Thiruvandadi 63).
+A person who has unburdened himself of the responsibility of his protection, should practise divine service here which will be a kind of probation for the eternal service of the Lord, when he attains the Supreme Abode, after the fall of his body. Tirumalizai Alwar exults that he spent his time usefully by studying the shastras for his atma-dharana, gecting instructions from the Acharyas, offering obeisance to the Acharyas, and leading the life in a virtuous way and worshipping with supreme love the Lord of all (Thiruvandadi 63).
 
 Nammalwar says "what I pray you, O Lord! is that you should accept me solely for your sake alone" (Thiruvoimoli 9.2.4).
 
@@ -2254,11 +1990,7 @@ conduct in this world. Never should he think of himself as superior to others. H
 
 "I am the home of all offences and I am utterly helpless. I am without any support."
 
-As Nammalvar says "I have not performed karmayoga and others. I have no knowledge of atman. But yet, I know168
-
-Essence of Srimad Rahasyatraya Saram
-
-nobody other than yourself for saving me. You are the only goal for me." (Thiruvoimoli 5.7.1)
+As Nammalvar says "I have not performed karmayoga and others. I have no knowledge of atman. But yet, I know nobody other than yourself for saving me. You are the only goal for me." (Thiruvoimoli 5.7.1)
 
 "What can I do? Who is to save me? What are you going to do with me? I know nobody other than yourself." (Thiruvoimoli 5.8.3) . A number of such statements of the Mystic seers, make it clear that this mode of Cakinchanya' should be reflected upon.
 
@@ -2282,13 +2014,7 @@ experience of the sense objects. 2. One should discard totally 'atmotkarsha' or 
 
 celebrity 3. The most dangerous offence viz. offence towards
 
-knowers of Brahman, is to be totally discarded. What one has to entertain always is as follows: The supreme benefaction done by the Acharya beginning with the 'prathama-kataksha' or primary look of compassion and showing the pathway of salvation. And the most important duty that is to be done is service to the Lord culminating in the loving service to the Bhagavathas such as Acharya and others.
-
-170
-
-Essence of Srimad Rahasyatraya Saram
-
-2.
+knowers of Brahman, is to be totally discarded. What one has to entertain always is as follows: The supreme benefaction done by the Acharya beginning with the 'prathama-kataksha' or primary look of compassion and showing the pathway of salvation. And the most important duty that is to be done is service to the Lord culminating in the loving service to the Bhagavathas such as Acharya and others. 2.
 
 It is ordained that one should reflect on the inescable relationship of himself with the Supreme Paramatman everyday, in the supreme Mulamantra as a lover would see herself and the reflection of her lover in a cleaned mirror. The jiva who is signified by the term 'Ma' enjoys the vision of Paramatman signified by the letter Aa', as seen in the mirror, when that lover appears before her and the dative case of the term 'Narayana' implies that he is subservient only to that Supreme Narayana and not for himself. Thus, the truths expounded in this chapter, are to be reflected in the Mulamantra.
 
@@ -2304,13 +2030,7 @@ In this section, it is expounded that service unto the preceptors and the godly 
 
 As the nityas and muktas render loving service unto the Supreme Paramatman by directly knowing His wish and cause Him delight, a prapanna who is a kritakritya is required to know the intention of the Lord through the shastras and render loving service unto Him so long as he is placed in this world. When one ponders over the wish of the Lord it is understood that service unto the Bhagavatas is most pleasing to Him.
 
-Of the four objects of life the supreme purushartha is the attainment of Paramatman or Supreme Brahman. The liberated enjoys in full measure the bliss of Divine
-
-172
-
-Essence of Srimad Rahasyatraya Saram
-
-communion. The Upanishads, the Gita as well as the Bramhasutras expound that the mukta gains parama samya or equality with Brahman. 'I RUR' | The Alwars describe that the highest object of attainment is the attainment of cternal service to the Lord. It is explained by masters that the ecstasy of divine communion overflows in the form of loving service to the Lord. Bhagavan Ramanuja mentions in the gadya that the highest object of attainment is Nityakainkarya - Ary T ', 'Art fotoatt hafa' This Bhagavat kainkarya extends upto Bhagavata kainkarya. 1. It is understood from a number of scriptural authorities,
+Of the four objects of life the supreme purushartha is the attainment of Paramatman or Supreme Brahman. The liberated enjoys in full measure the bliss of Divine communion. The Upanishads, the Gita as well as the Bramhasutras expound that the mukta gains parama samya or equality with Brahman. 'I RUR' | The Alwars describe that the highest object of attainment is the attainment of cternal service to the Lord. It is explained by masters that the ecstasy of divine communion overflows in the form of loving service to the Lord. Bhagavan Ramanuja mentions in the gadya that the highest object of attainment is Nityakainkarya - Ary T ', 'Art fotoatt hafa' This Bhagavat kainkarya extends upto Bhagavata kainkarya. 1. It is understood from a number of scriptural authorities,
 
 that service unto the devotees of the Lord is the
 
@@ -2336,13 +2056,7 @@ Loving service unto the Bhagavatas, is verily stated to be service unto the Lord
 
 सर्वभूतान्तरात्मानं विष्णुमेव यजन्ति ते ।
 
-As regards a 'paramaikanti' or a supreme devotee who has realised the Paramatman alone as his 'upaya' and 'upeya',
-
-174
-
-Essence of Srimad Rahasyatraya Saram
-
-22
+As regards a 'paramaikanti' or a supreme devotee who has realised the Paramatman alone as his 'upaya' and 'upeya', 22
 
 the Lord considers him to be his own self., as he says 'ज्ञानीत्वात्मैव मे मतम्'। So, the intention of the Lord is that the devotee is his own self and so any service done to the Bhagavatas pleases immensely the Supreme Paramatman.
 
@@ -2368,13 +2082,7 @@ The Lord becomes highly pleased by making these devotees mutually sheshas and sh
 
 Periyalwar expresses that the Bhagavatas are authorised to sell or purchase him, as he is totally subservient to them.
 
-A question may be asked whether the Bhagavata Sheshatva is 'swabhavika' or an aspect of his essential nature or 'oupadhika' or conditional. It may be said that this is natural to the jivatman, as this continues even in the state of
-
-176
-
-Essence of Srimad Rahasyatraya Saram
-
-1
+A question may be asked whether the Bhagavata Sheshatva is 'swabhavika' or an aspect of his essential nature or 'oupadhika' or conditional. It may be said that this is natural to the jivatman, as this continues even in the state of 1
 
 release for all time to come as pointed out in the statement 'farantiaisa Tc+4 tahdi' etc. Similarly, this is conditional also, as it is on account of the particular awareness of their relationship with Supreme Paramatman 'भगवत् संबन्ध ज्ञानविशेष निबन्धनम्।
 
@@ -2400,11 +2108,7 @@ The Introductory verse sums up the subject matter of this section.
 
 मुकुन्दे निक्षिप्य स्वभरमनघो मुक्तवदसौ स्वतन्त्राज्ञासिद्धां स्वयमविदितस्वामिहृदयः । परित्यागे सद्यस्स्वपरविविधानर्थजननात्
 
-अलंघ्यां आमोक्षादनुसरति शास्त्रीय सरणिम् ॥178
-
-Essence of Srimad Rahasyatraya Saram
-
-"Having placed the burden of his protection on the Lord Mukunda he is just like a liberated one. He cannot know directly the intention of the Lord as he is yet embodied. In abandoning the path of the shastras, that is of the form of the commandment of the Supreme Lord he will be causing many hazards to himself as well as others and so he will obey the dictates of the shastras till he is liberated."
+अलंघ्यां आमोक्षादनुसरति शास्त्रीय सरणिम् ॥ "Having placed the burden of his protection on the Lord Mukunda he is just like a liberated one. He cannot know directly the intention of the Lord as he is yet embodied. In abandoning the path of the shastras, that is of the form of the commandment of the Supreme Lord he will be causing many hazards to himself as well as others and so he will obey the dictates of the shastras till he is liberated."
 
 This Prapannadhikari who is associated with a body commenced on account of his prarabdha karmas and belonging to a particular varna and asrama, subjected to the performance of the respective duties, is verily like a liberated one, though contacting that body. Having entrusted the burden of his protection to the Lord, he is similar to a liberated one. He is to devote himself to the service of the Lord. As he is yet with the body, he cannot know the will of the Lord directly, and so has to know his intention only from the shastras. If he gives up the duties of his station in life, he will be causing 3778 to himself and others.
 
@@ -2426,13 +2130,7 @@ For a person, who is in this world, contacting prakriti which blindfolds one's u
 
 Sri Desika quotes an episode here. At the time of Sri Bhashyakar's departure from the body, the disciples were very much dejected and thought of following their preceptor by giving up their bodies. Seeing this, Sri Ramanuja said that those who ventured to give up their lives on his account, would not have any relationship with him and swore on the sacred feet of Sri Yamuna. When they said what they could do here in this world, Ramanuja, is said to have advised them thus:
 
-When a person has surrendered himself and the burden of his protection unto the Lord, he should realise that he has nothing to do in respect of his Arma-Yathra', as that depends upon the Lord. If he thinks, he has also something to do in that respect, the surrender of himself becomes a myth and unreal. His day to day life, so long as he is here, is
-
-180
-
-Essence of Srimad Rahasyatraya Saram
-
-regulated by his past-karmas and he has nothing to worry about that. If he worries, he will be a nastika or a disbeliever of the shastras. Thus, though he has severed his responsibility with the means of attainment of Godhead, he has to engage himself with acts of divine service which is the ultimate object of his attainment.
+When a person has surrendered himself and the burden of his protection unto the Lord, he should realise that he has nothing to do in respect of his Arma-Yathra', as that depends upon the Lord. If he thinks, he has also something to do in that respect, the surrender of himself becomes a myth and unreal. His day to day life, so long as he is here, is regulated by his past-karmas and he has nothing to worry about that. If he worries, he will be a nastika or a disbeliever of the shastras. Thus, though he has severed his responsibility with the means of attainment of Godhead, he has to engage himself with acts of divine service which is the ultimate object of his attainment.
 
 Sri Ramanuja has outlined the five-fold kainkarya that he can do here, so long as he is placed in this world, as follows: 1. To study and propagate Sri Bhashyam. 2. If he is unable to do so, he may study the soul-stirring
 
@@ -2454,13 +2152,7 @@ A Prapanna has to behave carefully in this world, as related to three classes of
 
 Association with the ungodly people and non-believers will adversely affect the devotces of the Lord. So, one should never choose their company. This code of behaviour can be known only from the shastras and the different modes of service unto the Lord and the devotces of the Lord, should be performed only according to the shastras. That which is not in accordance with the shastra is declared to be ‘asura' and so one should follow the commands of the shastra, which are verily the commands of the Lord.
 
-अविप्लवाय धर्माणां पालनाय कुलस्य च । संग्रहाय च लोकस्य मर्यादा स्थापनाय च ॥
-
-182
-
-Essence of Srimad Rahasyatraya Saram
-
-ferg 49 faite dacaa FUT: मनीषी वैदिकाचारं मनसपि न लवयेत् ॥
+अविप्लवाय धर्माणां पालनाय कुलस्य च । संग्रहाय च लोकस्य मर्यादा स्थापनाय च ॥ ferg 49 faite dacaa FUT: मनीषी वैदिकाचारं मनसपि न लवयेत् ॥
 
 A wiseman should never transgress the code of conduct prescribed by the shastras, even mentally, for the following reasons: 1. The codes of conduct should not get destroyed. 2. He should protect the prestige of his ‘kula' or family. 3. He must give a proper lead to the people of the world. 4. He should establish a righteous order. 5. He must please the Lord Vishnu.
 
@@ -2494,13 +2186,7 @@ In the introductory verse it is pointed out that even after attaining the purify
 
 स्वच्छस्वादुसदावदातसुभगां दैवादयं देहभृत् मालिन्यप्रशमाय माधवदयामन्दाकिनी विन्दति । यद्यप्येवमसौ असारविषयस्रोतप्रसूतैः पुनः पढेरेव कलंकयन् निजतनुं प्राज्ञैः न संश्लिष्यते ।
 
-When a person has attained the mercy of the Lord, on account of his total surrender unto Him, normally he will
-
-186
-
-Essence of Srimad Rahasyatraya Saram
-
-not transgress the command of the Lord, and will not indulge in petty means for attainment of worldly benefits; but, yet on account of his prarabdha-karma, if he were to indulge in unbecoming things, he will not be contacted by wise people. Offences that are done intentionally, do not happen, as a general case in such people, who have realised their subservience to the Lord, and who are taking delight in the service of the Lord, according to the shastras. If some sins happen to him on account of prarabdha-karma, without his intention, they will not taint him, as in the case of an 'upasaka'. If sins happen to him, being done intentionally, he has to perform an expiation for becoming free from that offence, and the expiation here, is to surrender unto the Lord again for the purpose of forgiving his offence. This 'prayaschitta' or expiation is not for gaining moksha, because that has been done already and the burden of his protection, has already been taken over by the Lord. It is ordained in the shastras that when a Prapanna happens to commit some offence, he should pray for excuse in the form of another surrender unto the Lord. If a Prapanna adopts some other 'upaya', like karma-yoga or bhakti-yoga willingly after having surrendered for moksha, even then he has to perform an expiation of the form of surrender for excusing that offence. He must feel repentance and shame for having committed the fault intentionally.
+When a person has attained the mercy of the Lord, on account of his total surrender unto Him, normally he will not transgress the command of the Lord, and will not indulge in petty means for attainment of worldly benefits; but, yet on account of his prarabdha-karma, if he were to indulge in unbecoming things, he will not be contacted by wise people. Offences that are done intentionally, do not happen, as a general case in such people, who have realised their subservience to the Lord, and who are taking delight in the service of the Lord, according to the shastras. If some sins happen to him on account of prarabdha-karma, without his intention, they will not taint him, as in the case of an 'upasaka'. If sins happen to him, being done intentionally, he has to perform an expiation for becoming free from that offence, and the expiation here, is to surrender unto the Lord again for the purpose of forgiving his offence. This 'prayaschitta' or expiation is not for gaining moksha, because that has been done already and the burden of his protection, has already been taken over by the Lord. It is ordained in the shastras that when a Prapanna happens to commit some offence, he should pray for excuse in the form of another surrender unto the Lord. If a Prapanna adopts some other 'upaya', like karma-yoga or bhakti-yoga willingly after having surrendered for moksha, even then he has to perform an expiation of the form of surrender for excusing that offence. He must feel repentance and shame for having committed the fault intentionally.
 
 अपायसंप्लवे सद्यः प्रायश्चित्तः समाचरेत् । प्रायश्चित्तिरियं सात्र यत्पुनः शरणं व्रजेत् ॥ उपायानामुपायत्वस्वीकारेप्येतदेवहि ॥
 
@@ -2512,13 +2198,7 @@ Aparadhapariharadhikara
 
 intentionally. What happens if one commits an offence intentionally and does not perform this expiation? Mild punishment, similar to the punishment given to the princes and others will be meted out by the Lord and they will be purified and then taken over to his side. Just like an offence that is to be cleared by striking with a weapon, is got over by the pricking of a thorn. The serious offence that is willingly done, and not prayed for forgiveness, will be cleared by the Lord, by making them suffer in this world in various ways, before they pass out of the body purified to reach His eternal abode. All this happens on account of the grace of the Lord, who never forsakes one who has surrendered unto Him. It is, therefore, necessary to be very careful regarding one's course of life here after prapatti, and be vigilant not to commit any offence intentionally. If some offence occurs on account of past karmas, in spite of one's vigilance, it is wise to feel shamc, repent, desist from such action further and to perform a prapatti, a second prapatti for forgiving that offence.
 
-Sometime, it is asked whether one can perform a "prayaschitta-prapatti' even before the offences occur, so that the Lord may not punish one, for such commissions. The answer to this question is that performing an expiation or prayaschitta, does not arise when the offence is not actually committed. In view of some offences that are anticipated in future, one cannot perform an expiation. But, at the time of performing prapatti for moksha, one may include in that prapatti itself, that he may be granted 'Niraparadha Kainkarya' i.e., a course of life after prapatti, where no offences occur. If a prayer for service to the Lord not tainted with offences is included in the prayer for protection of his
-
-188
-
-Essence of Srimad Rahasyatraya Saram
-
-self at the time of self-surrender, he will not be liable to commit the offences intentionally.
+Sometime, it is asked whether one can perform a "prayaschitta-prapatti' even before the offences occur, so that the Lord may not punish one, for such commissions. The answer to this question is that performing an expiation or prayaschitta, does not arise when the offence is not actually committed. In view of some offences that are anticipated in future, one cannot perform an expiation. But, at the time of performing prapatti for moksha, one may include in that prapatti itself, that he may be granted 'Niraparadha Kainkarya' i.e., a course of life after prapatti, where no offences occur. If a prayer for service to the Lord not tainted with offences is included in the prayer for protection of his self at the time of self-surrender, he will not be liable to commit the offences intentionally.
 
 It is sometime argued that one need not seck for any forgiveness of the Lord, even in the case of intentional offences that are committed by one, as the Lord has given an assurance 'सर्वपापेभ्यो मोक्षयिष्यामि' | It is also said that the Lord may not punish one even in case of intentional sins done by one. Some say that there would be no delay in attainment of godhead and eternal service of the Lord for those who cannot bear delay.
 
@@ -2570,13 +2250,7 @@ soul illusion and the illusion that he alone is an independent entity by himself
 
 तस्माद्विष्णुप्रसादाय वैष्णवान् परितोषयेत् । प्रसादसुमुखो विष्णुः तेनैव स्यानसंशयः ॥
 
-"For winning the grace of the Lord, one should please the devotees of the Lord Vishnu. By this alone, the Lord becomes pleased. There is no doubt about it."
-
-192
-
-Essence of Srimad Rahasyatraya Saram
-
-When a Bhagavatha is offended by a person, it is necessary that he should beg pardon of that Bhagavatha for having committed that offence. The instance of Lakshmana and Sugriva praying for excuse mutually when Lakshmana was harsh on Sugriva for having delayed to meet Rama, is quoted by the Acharyas to illustrate this point.
+"For winning the grace of the Lord, one should please the devotees of the Lord Vishnu. By this alone, the Lord becomes pleased. There is no doubt about it." When a Bhagavatha is offended by a person, it is necessary that he should beg pardon of that Bhagavatha for having committed that offence. The instance of Lakshmana and Sugriva praying for excuse mutually when Lakshmana was harsh on Sugriva for having delayed to meet Rama, is quoted by the Acharyas to illustrate this point.
 
 It is the understanding of the shastras that the Lord is going to excuse such sins that occur even intentionally, when one surrenders unto Him with a prayer to excuse his faults. So, it is decided in this section that the Lord who is ever compassionate, will pardon such Prapannas who have consciously committed offences, when they pray for pardon by practising a second Prapatti. By his surrender for liberation, all the accumulated sins will be terminated by the Lord. The sins that occur inadvertently will not stick to him. The lord is sure to grant him moksha for his first and primary Prapatti itself. It will never fail. If such a Prapanna does not repent and pray for pardon with a second Prapatti, even in that case, the Lord will not deprive him of the fruit of his first Prapatti, but inflicts on him punishment and thus, purifying him, takes him to His side. Such is the greatness of Prapatti and consequendy, the greatness of the compassion of the Supreme Lord. This is pointed out in the concluding verse -
 
@@ -2652,13 +2326,7 @@ i.e. "that place where a devotee who has restrained his sense organs lives, is v
 
 "A person who utters the words of surrender and surrenders and gains the knowledge of Paramatman, may give up his body in a Holy place or in the place of an out caste or in a state of unconsciousness, but he surely attains liberation getting rid of all sorrows". This statement is meant for emphasising the fact that the surrender performed by one will never become futile and this does not in anyway discard the principle that was stated for living in a place conducive to one's devotional activities.
 
-Vedanta Desika concludes that a place like Kashi (or Benares) or Ayodhya or Avanthi or Kanchipuram or Madhura or any other Holy place, will not, merely of themselves, become celebrated, if those places are not desired by Bhagavatas who are intent upon drinking the nectar of the Holy names and exploits of the Lord. The intention is that any Holy place which is not relished by Bhagavatas, does not appeal to a Prapanna and on the contrary, any place that is relished by ardent devotees, becomes a coveted place for a Prapanna to live.
-
-198
-
-Essence of Srimad Rahasyatraya Saram
-
-सा काशीति न चाकशीति भुविसायोध्येति नाध्यास्यते सावन्तीति न कल्मषादवतिसा काञ्चीति नोदञ्चति । धत्ते सामधुरेति नोत्तमधुरां नान्यापि मान्या पुरी या वैकुण्ठकथा सुधारस भुजां रोचेत नो चेतसे ॥Niryandhikara
+Vedanta Desika concludes that a place like Kashi (or Benares) or Ayodhya or Avanthi or Kanchipuram or Madhura or any other Holy place, will not, merely of themselves, become celebrated, if those places are not desired by Bhagavatas who are intent upon drinking the nectar of the Holy names and exploits of the Lord. The intention is that any Holy place which is not relished by Bhagavatas, does not appeal to a Prapanna and on the contrary, any place that is relished by ardent devotees, becomes a coveted place for a Prapanna to live. सा काशीति न चाकशीति भुविसायोध्येति नाध्यास्यते सावन्तीति न कल्मषादवतिसा काञ्चीति नोदञ्चति । धत्ते सामधुरेति नोत्तमधुरां नान्यापि मान्या पुरी या वैकुण्ठकथा सुधारस भुजां रोचेत नो चेतसे ॥Niryandhikara
 
 199
 
@@ -2670,13 +2338,7 @@ The process of the jivas passing out of the body has been described in the Upani
 
 What has been described thus in respect of the Brahmopasakas regarding 'niryana' or 'uthkranti' and 'archiradi-gati' or the path beginning with 'Agni' that lcads to Brahman, applies equally to the Prapannas, who have
 
-Sa
-
-200
-
-Essence of Srimad Rahasyatraya Saram
-
-totally surrendered the burden of their protection to the Lord.
+Sa totally surrendered the burden of their protection to the Lord.
 
 Vedanta Desika describes in two sections viz., Niryanadhikara and Garichintanadhikara, the mode of passing out of the body and journey to Supreme Brahman through the path of 'Archiradi'.
 
@@ -2742,13 +2404,7 @@ Desika discusses in this connection the propriety of having 'antima-smriti' or f
 
 'केवलेन, मदीययैव दयया अतिप्रबुद्धः मामेव अवलोकयन्'।
 
-Desika points out all these statements should be reconciled and explained harmoniously as follows: -
-
-206
-
-Essence of Srimad Rahasyatraya Saram
-
-As mentioned in Sharanagati-Gadya', the final remembrance of the Lord, will certainly come to a Prapanna, who has performed prapatti for attainment of moksha. The 'antima-smriti' is not a kind of 'upaya', which is possible of one's own effort, as pointed out in statements like -
+Desika points out all these statements should be reconciled and explained harmoniously as follows: - As mentioned in Sharanagati-Gadya', the final remembrance of the Lord, will certainly come to a Prapanna, who has performed prapatti for attainment of moksha. The 'antima-smriti' is not a kind of 'upaya', which is possible of one's own effort, as pointed out in statements like -
 
 यं यं वापि स्मरन् भावं or यं योगिनो प्राणवियोगकाले यत्नेन चित्ते Padre
 
@@ -2782,11 +2438,7 @@ Agni the deity of the day, the deity of the bright half of the month, the deity 
 
 ज्वलनदिवसज्योत्स्ना पक्षोत्तरायणवत्सरान् पवन तपन प्रालेयांशून् क्रमादचिरद्युतिम् । जलधरपतिं देवाधीशं प्रजापतिमागतः तरति विरजां दूरे वाचस्ततः परमद्भुतम् ॥
 
-The liberated soul is respectfully led by these guides or 'athivahikas', and he attains the Eternal Abode of Paramatman. He will be endowed with a subtle body that is meant for only movement on the path of 'archiradi', by virtue of his prapatti or upasana, and he casts away that subtle body while reaching the divine river 'Viraja'. Crossing the river 'Viraja', he is endowed with a non-material body i.e., Aprakrita-Sharira. He will be then led to the lake210
-
-Essence of Srimad Rahasyatraya Saram
-
-ऐरम्मदीय and the peepal tree called सोमसवन and he is welcomed by five hundred divine damsels, and he will be decorated with 'Brahmalankara'. The Kaushitaki Upanishad describes graphically the glory of the 'mukta'. The deities Indra, Varuna and Prajapati, will be congratulating the liberated soul with great veneration. The liberated soul witnesses the Supreme Lord in his Supreme Abode. By thus attaining the Lord, in his abode, the liberated atman manifests its true nature of infinite consciousness and the eight divine qualities, and for all the time to come, enjoys the bliss of divine communion. He will get rid of all obstacles and all limitations to the experience of the divine and will ever realise that he is inseparable from the Lord. The ecstasy of divine experience, overflows in the form of loving service of the Supreme Paramatman. It has been decided in the Brahmasutras that his essential nature of consciousness will be perfectly manifested at that time as well as his 'dharma-buta-jnanam' will be all expansive just like the dharma-buta-jnanam' of Paramatman. He will be deriving the Supreme joy of eternal communion with the Lord, for all time to come.
+The liberated soul is respectfully led by these guides or 'athivahikas', and he attains the Eternal Abode of Paramatman. He will be endowed with a subtle body that is meant for only movement on the path of 'archiradi', by virtue of his prapatti or upasana, and he casts away that subtle body while reaching the divine river 'Viraja'. Crossing the river 'Viraja', he is endowed with a non-material body i.e., Aprakrita-Sharira. He will be then led to the lake ऐरम्मदीय and the peepal tree called सोमसवन and he is welcomed by five hundred divine damsels, and he will be decorated with 'Brahmalankara'. The Kaushitaki Upanishad describes graphically the glory of the 'mukta'. The deities Indra, Varuna and Prajapati, will be congratulating the liberated soul with great veneration. The liberated soul witnesses the Supreme Lord in his Supreme Abode. By thus attaining the Lord, in his abode, the liberated atman manifests its true nature of infinite consciousness and the eight divine qualities, and for all the time to come, enjoys the bliss of divine communion. He will get rid of all obstacles and all limitations to the experience of the divine and will ever realise that he is inseparable from the Lord. The ecstasy of divine experience, overflows in the form of loving service of the Supreme Paramatman. It has been decided in the Brahmasutras that his essential nature of consciousness will be perfectly manifested at that time as well as his 'dharma-buta-jnanam' will be all expansive just like the dharma-buta-jnanam' of Paramatman. He will be deriving the Supreme joy of eternal communion with the Lord, for all time to come.
 
 A Bhakti-yogin has to reflect upon this 'archiradi' path day-in and day-out, as it is an accessory to Bhakti-yoga. But, for a Prapanna, this reflection of the 'archiradi' path, is a source of great delight, though it is not an accessory to Prapatti. The Prapanna becomes gratified by thinking of this 'archiradi', and the divine experience, he is going to gain in course of time.
 
@@ -2814,13 +2466,7 @@ In this section. Dcsika describes the great benefit of obtaining the bliss of co
 
 According to the exposition of the Upanishads, as related to the liberated self and according to the conclusions that are arrived at by the Brahmasutrakara, Desika describes the state of 'mukti' as related to a Prapanna to be the same as that of an Upasaka of Brahman. The passage of the Prapanna through the archiradil to the Supreme Abode of Paramatman, and the manifestation of the true nature of the individual self after attainment of the Supreme Paramatman, the eternal bliss of communion with the Lord, the fulfilment of the goal of attaining Paramatman - all these are similar to the attainment of the Brahma-Upasakas.
 
-In the introductory stanza of this chapter, Desika describes all these factors. The Prapanna reaches the Supreme Abode of Paramatman through 'archiradi' and not 'Hiranyagarbha' or Karya-Brahma, as some schools posit. The abode of Paramatman is described as 'Vitamasi-Pade'
-
-214
-
-Essence of Srimad Rahasyatraya Saram
-
-which means that it is an abode of Suddha-satva' beyond the material world. The sruti says 'Tamasah-Parastat'. The Chandogya Upanishad and the Subala Upanishad, describe this abode picturesquely. The liberated Prapanna attains the Lord, characterised by infinite auspicious qualities and who is extolled by the celebrated 'Purusha-sukta' and who is the Lord of Goddess Mahalakshmi. Reaching the Lord, being led to his abode by the 'ativahikas', the liberated atman manifests his true nature of being characterised by eight qualities as pointed out in the Sutra 4.4.1 - 'Sampadya Avirbhavah Svena Shabdat'.
+In the introductory stanza of this chapter, Desika describes all these factors. The Prapanna reaches the Supreme Abode of Paramatman through 'archiradi' and not 'Hiranyagarbha' or Karya-Brahma, as some schools posit. The abode of Paramatman is described as 'Vitamasi-Pade' which means that it is an abode of Suddha-satva' beyond the material world. The sruti says 'Tamasah-Parastat'. The Chandogya Upanishad and the Subala Upanishad, describe this abode picturesquely. The liberated Prapanna attains the Lord, characterised by infinite auspicious qualities and who is extolled by the celebrated 'Purusha-sukta' and who is the Lord of Goddess Mahalakshmi. Reaching the Lord, being led to his abode by the 'ativahikas', the liberated atman manifests his true nature of being characterised by eight qualities as pointed out in the Sutra 4.4.1 - 'Sampadya Avirbhavah Svena Shabdat'.
 
 The liberated atman realises directly his nature of being an inseparable attribute to the Supreme Lord. He will be manifesting the cight qualities such as 'apahatapapma' and others, and he will be of the nature of consciousness or 'Jnana-svarupa' also. He will not become mere 'jnana svarupa', but will also have the attribute of 'jnanam' - jnana gunaka' as decided by the Sutrakara in Sutra 4-4-7. 'gayatricerca a cfartej akırm:' | The view point of some, that the liberated will be mere consciousness, has been set aside by the Sutrakara. He will attain supreme similarity in his nature and attributes with Paramatman and, he will no more be returning to this world -
 
@@ -2836,13 +2482,7 @@ Paripurna Brahmanubhava Adhikara
 
 Lord characterised by all his infinite forms, qualities, glories and functions in all places, at all times, in all states, without any exception. The experience is equal to him and the Supreme Paramatman, and that is mentioned by Sruti as 'Parama-Samya'. All the ills of samsara have vanished. "The attainment of Paramatman which is of the form of unequalled infinite happiness is the one terminal and sure remedy for all the ills of samsara" -
 
-"Artillerlemichoti भेषजं भागवत्प्राप्तिः एकान्तात्यन्तिकी मता" ॥ It may be asked, how are the other objects related to Paramatman, enjoyable to the mukta? The analogy of the queen and the king is given here. While the king is 'bhogya' to the anointed queen, all objects of enjoyment and instruments of enjoyment that are agreeable to the king, become enjoyable to the queen also. Similarly, all objects that are inherently related to the Paramatman, become equally enjoyable to the mukta also, to whom Bhagavan is a cherished object of enjoyment. The Srutis and Smritis declare that the Supreme Paramatman is 'parama-bhogya' as characterised by all attributes. The Alwar says, "the lover does not leave enjoying the lotus eyed Paramatman, the Lord of the two vibhutis, even a little." That means, the mukta immerses himself in the bliss of communion with the Lord fully, and he does not miss Him even for a fraction of a second, while enjoying the Lord with all his glory. "He does not see any other thing, he does not hear any
-
-216
-
-Essence of Srimad Rahasyatraya Saram
-
-other thing, he does not know any other thing". 'यत्र नान्यत् पश्यति नान्यत् श्रृणोति नान्यद्विजानाति स भूमा'
+"Artillerlemichoti भेषजं भागवत्प्राप्तिः एकान्तात्यन्तिकी मता" ॥ It may be asked, how are the other objects related to Paramatman, enjoyable to the mukta? The analogy of the queen and the king is given here. While the king is 'bhogya' to the anointed queen, all objects of enjoyment and instruments of enjoyment that are agreeable to the king, become enjoyable to the queen also. Similarly, all objects that are inherently related to the Paramatman, become equally enjoyable to the mukta also, to whom Bhagavan is a cherished object of enjoyment. The Srutis and Smritis declare that the Supreme Paramatman is 'parama-bhogya' as characterised by all attributes. The Alwar says, "the lover does not leave enjoying the lotus eyed Paramatman, the Lord of the two vibhutis, even a little." That means, the mukta immerses himself in the bliss of communion with the Lord fully, and he does not miss Him even for a fraction of a second, while enjoying the Lord with all his glory. "He does not see any other thing, he does not hear any other thing, he does not know any other thing". 'यत्र नान्यत् पश्यति नान्यत् श्रृणोति नान्यद्विजानाति स भूमा'
 
 (71.3. 7-24-1) The term Paramapada signifies the essential nature of Paramatman or 'Bhagavar-svarupa', as the attainment of Bhagavan is 'parama-prapya', as it is infinitely pleasing. Similarly, the particular abode where the mukta obtains 'paripoorna-anubhava' of bhagavat-svarupa', also becomes a cherished place, and most celebrated; so, the particular abode, where he obtains this unique divine experience is also designated as 'parama-pada'.
 
@@ -2866,13 +2506,7 @@ Milk which is agreeable to all, becomes dis-agreeable and distasteful to one, wh
 
 Another example is given by Desika for this. A prince who is put into the prison of the monarch, finds that the prison is disagreeable to him; but, when the king releases him from the prison and makes him experience happiness equal to him, the prince does not find the prison disagreeable. He considers it as a vibhuti of his father.
 
-Similarly, when the atman is in this world, according to his past karma and when he is deprived of the communion of the Lord, he finds the objects of this world as totally disagreeable or slightly agreeable. But, all these objects of this 'lila-vibhuti' become included in the group of objects of immense joy, when he is liberated from this world, and when he is having incessant communion with the Lord. It is on account of the will of the Lord that the objects of this world are disagreeable (pratikula) or slightly agreeable (alpanukula) for those who are bound by karmas and they are cver agreeable to those who have got rid of the bondage of karma and who have gained Paramatman.
-
-218
-
-Essence of Srimad Rahasyatraya Saram
-
-The statement of the Sruti that whatever the 'Mukta' desires becomes actualised and that he will be sporting with damsels and others; and that he will be cacing, drinking and seeing his forefathers and others, is to be understood that they are not the results of his karma (Karma Phala); but, they are actualised on account of his own desire, which will be in accordance with the desire of the Lord and so, they are all included in the stream of experience of pure kainkarya to the Lord – 'Kevala-Kainkarya' of the form of the stream of divine experience. So the 'Prapti' or attainment of Paramatman is to be understood as 'यथाभिमत कैंकर्यपर्यन्त SIE :'!
+Similarly, when the atman is in this world, according to his past karma and when he is deprived of the communion of the Lord, he finds the objects of this world as totally disagreeable or slightly agreeable. But, all these objects of this 'lila-vibhuti' become included in the group of objects of immense joy, when he is liberated from this world, and when he is having incessant communion with the Lord. It is on account of the will of the Lord that the objects of this world are disagreeable (pratikula) or slightly agreeable (alpanukula) for those who are bound by karmas and they are cver agreeable to those who have got rid of the bondage of karma and who have gained Paramatman. The statement of the Sruti that whatever the 'Mukta' desires becomes actualised and that he will be sporting with damsels and others; and that he will be cacing, drinking and seeing his forefathers and others, is to be understood that they are not the results of his karma (Karma Phala); but, they are actualised on account of his own desire, which will be in accordance with the desire of the Lord and so, they are all included in the stream of experience of pure kainkarya to the Lord – 'Kevala-Kainkarya' of the form of the stream of divine experience. So the 'Prapti' or attainment of Paramatman is to be understood as 'यथाभिमत कैंकर्यपर्यन्त SIE :'!
 
 i.e., complete experience of Brahman extending upto kainkarya, as desired.
 
@@ -2926,12 +2560,6 @@ Hrnce do uryw ac ail:' says the grammarian Shakatayana. The word 'Sayujya' has n
 
 The unique characteristics of Paramatman never happen to the liberated atman. The Muktatman is ever supported, and ever ruled over by the Paramatman and is used to serve His purposes alone, for all time to come.
 
-'Jagatkaranatva' or being the cause of this universe, 'Mokshapradarva' or granting liberation to the atmans, 'Sarvadharatva' or being the support of all entities other than himself, 'Sarvaniyantratva' or being the ruler of all other entities, 'Sarvasheshitva' or the fact of being served by all other entities, 'Sarvashariratva' or being the innerself of all entities, 'Sarvashabda-vachyatva' or being the import of all terms, 'Sarva-veda-vedyatva' or being the one that is known from all vedas, 'Sarvaloka-sharanyatva' or being the redeemer of all people in all worlds, 'Sarva-mumukshu-upasyatya' or being the object of meditation for all mumukshus, Sarva Phala-Pradatva' or the fact of granting all fruits of all actions, 'Sarva-Vyaptatva' or the fact of pervading everything, 'jnananada-Swarupatva' or being of the essential nature of knowledge and bliss, 'Lakshmi-sahayatva' or being the consort of Goddess Mahalakshmi - all these characteristics are uniquely associated with Paramatman alone exclusively
-
-222
-
-Essence of Srimad Rahasyatraya Saram
-
-just like the 'chatra' and 'chamara' (the royal umbrella and the royal chauri) of the king.
+'Jagatkaranatva' or being the cause of this universe, 'Mokshapradarva' or granting liberation to the atmans, 'Sarvadharatva' or being the support of all entities other than himself, 'Sarvaniyantratva' or being the ruler of all other entities, 'Sarvasheshitva' or the fact of being served by all other entities, 'Sarvashariratva' or being the innerself of all entities, 'Sarvashabda-vachyatva' or being the import of all terms, 'Sarva-veda-vedyatva' or being the one that is known from all vedas, 'Sarvaloka-sharanyatva' or being the redeemer of all people in all worlds, 'Sarva-mumukshu-upasyatya' or being the object of meditation for all mumukshus, Sarva Phala-Pradatva' or the fact of granting all fruits of all actions, 'Sarva-Vyaptatva' or the fact of pervading everything, 'jnananada-Swarupatva' or being of the essential nature of knowledge and bliss, 'Lakshmi-sahayatva' or being the consort of Goddess Mahalakshmi - all these characteristics are uniquely associated with Paramatman alone exclusively just like the 'chatra' and 'chamara' (the royal umbrella and the royal chauri) of the king.
 
 As established in the vedanta sutras and as explained by Bhagavan Ramanuja, Desika expounds that there is no possibility of the liberated to be re-born in the material world. The Muktatinan experiences everything as ensouled by Brahman and there is no occasion at all for experiencing This pure nature aloof, and as he has directly realised the defects of other objects of life, it cannot be doubted that the Muktaman returns to this world by his own desire. As the wisdom gained about the three entities viz. the chetana, achetana and Ishvara, and as regards the objects to be discarded and objects to be entertained, has now become fully established and expanded, it cannot be doubted that he might return to this world on account of his ignorance. The extension of knowledge of the form of love towards the Lord, called as 'bhakti', which has arisen in him, has become strengthened and fulfilled on account of directly experiencing the unique form, qualities and other characteristics of the Lord, on account of which his intense love towards the Lord has swelled, and so the all independent Lord will not make him born in this world by his mere 'sankalpa'. As he is not subordinated to Shastra at the state of liberation, there is no fear of transgressing commands of the Lord. As what pleases the Lord, will be the desire of the Mukta, and so, there is no 'Viparita Anushtana' or committing the fault of going against the desire of the Lord; on account of all these factors and on account of the infinite affection that the Lord has for the liberated, there is absolutely no doubt about the non-return of a liberated self to this world. He will be cternally enjoying the supreme joy of divine communion for all time to come.
