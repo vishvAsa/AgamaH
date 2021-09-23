@@ -5,6 +5,7 @@ short_title = "४ सम्प्रदायप्रक्रियाभा�
 +++
 ४ संप्रदाय-प्रक्रिया-भागः
 
+## ३० आचार्यकृत्याधिकारः
 
 Acharya Kritya Adhikara
 
@@ -94,7 +95,8 @@ Thus, the revered Acharyas will enlighten the disciples about the Supreme Truth 
 
 Vedanta Desika has mentioned in conclusion of this chapter that all these truths were taught to him by his revcrcd preceptor, Kidambi Appullar, and that he has faithfully presented them in this treatises.
 
-Shishyakrityadhikara
+## ३१ शिष्यकृत्याधिकारः
+
 
 383
 
@@ -160,7 +162,8 @@ We never consider any other deity as greater than our Acharya, on the tip of the
 
 Thus, in this chapter, the dutics of a 'shishya' are expounded by the celebrated author.Nigamanadhikara
 
-389
+## ३२ निगमनाधिकारः
+
 
 CHAPTER - XXXII
 

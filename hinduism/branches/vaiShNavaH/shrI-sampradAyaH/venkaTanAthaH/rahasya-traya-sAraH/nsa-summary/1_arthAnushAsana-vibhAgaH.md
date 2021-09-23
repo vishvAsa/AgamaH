@@ -5,8 +5,7 @@ short_title = "१ अर्थानुशासनविभागः"
 +++
 १ अर्थानुशासन-विभागः
 
-
-
+## ०० गुरुपरम्परा-सारः
 
 Guruparampara Sara
 
@@ -128,7 +127,7 @@ A virtuous person should highlight his preceptor and jealously guard the mantra 
 
 Thus, in this section, Guruparampara Sara, Desika emphasises the importance of the "guru" in spiritual sadhana. The Guru is a guide who initiates the process of spiritual discipline, watches the progress of the disciple, sets him right whenever he fails and ultimately leads him to the achievement of the goal. The benefactions of the Guru to Humanity is so great that it cannot be described in words. It is apt that Desika commences his great work, with this Guruparampara Sara, which is an obeisance at the feet of the Gurus for the successful completion of this work.
 
-Upodghathadhikara
+## ०१ उपोद्घाताधिकारः
 
 CHAPTER - I
 
@@ -204,6 +203,7 @@ The benevolent Acharya enlightens him on his true nature as mentioned in the ver
 
 expo
 
+## ०२ सार-निष्कर्षाधिकारः
 Saranishkarsbadhikara
 
 CHAPTER - II
@@ -258,6 +258,7 @@ Thus, in this section, Desika has ascertained what a Mumukshu should entertain, 
 
 and practise for attaining
 
+## ०३ प्रधान-प्रतितन्त्राधिकारः
 Pradhana P-athithanthradhikara
 
 CHAPTER - III
@@ -356,6 +357,7 @@ The Isvara is Nirupadhika-Sheshi, Nirupadhika Niyantha and the Jivas are Nirupad
 
 Thus, in this section, the author has described the fundamental doctrine of body-soul relationship taught by the scriptures and has shown that all those truths are to be understood from the three mysteries.
 
+## ०४ अर्थपञ्चकाधिकारः
 Artha Panchakadhikara
 
 IC 1.
@@ -488,6 +490,7 @@ The object of attainment is the Supreme Brahman, that is by nature the "sheshin"
 
 Now, when I have been enlightened by the Acharyas, surrender unto the Divine Couple, the sheshins, is the only way to save myself.
 
+## ०५ तत्त्व-त्रयाधिकारः
 Tatvatrayadhikara
 
 CHAPTER - V
@@ -730,6 +733,7 @@ as 'alpatva', 'asthiratva', 'duhka-mulatva', 'Duhka mishratva' and others.
 
 The third factor is Karanatraya-sarupyam. This means uniformity of the functions of the mind, speech and actions. 'Sarupyam' means 'Anurupatva' - of similar form - and non-difference between one another. And the attainment of these three is said to be 'soukhya Rasayanam'. 'Soukhya' incans 'mahanandam'. 'Rasayanam' is 'Sadhanam'. That means these are ever realised means of attainment of great delight. Thus, in this chapter of Tatvatrayadhikara, Desika has expounded the essential nature of the three entities, the knowledge of which is absolutely necessary for undertaking any spiritual discipline clearly and concisely.
 
+## ०६ परदेवता-पारमार्थ्याधिकारः
 Paradevata Paramarthyadhikara
 
 CHAPTER - VI
@@ -936,6 +940,7 @@ Sri Parashara in Vishnu Purana expounded this doctrine of 'paradevata'. Sri Yamu
 
 All other Acharyas have taught this Supreme Reality very clearly in their noble works and a person who studies all these texts realises that the Supreme Lord ever associated with Goddess Lakshmi, is the Supreme Deity or 'paradevatal in whom one has to take refuge.
 
+## ०७ मुमुक्षुत्वाधिकारः
 Mumukshuthvadhikara
 
 CHAPTER - VI
@@ -1050,6 +1055,7 @@ Mumukshuthvadhikara
 
 In the ultimate analysis, it may be said that it is only through Lord's grace that one will be born as a human being, will get a suitable teacher through whom he gains spiritual wisdom and becomes a mumukshu and adopts the necessary means for attainment of liberation,
 
+## ०८ अधिकारि-विभागाधिकारः
 Adhikari Vibhagadhikara
 
 CHAPTER - VIII
@@ -1144,6 +1150,7 @@ this, the difference in their desire, is the cause. This difference in desire is
 
 The Lord does not accord His abode to those who are other than prapannas. The prapannas are on account of the difference in their 'Sucharita' or Punya) - two-fold viz. one who is utterly helpless 'Akinchana' and the other who can perform the means of 'Sadhana' ie. 'Sakinchana'. For one who is a Bhaktiyogi or a 'Sadvaraka-Prapanna', there is delay in attainment of the godhead but there is plenty of the bliss of loving service to the Lord here. For the other i.e. 'Advaraka-Prapanna', or 'Sadhya-Bhakta', the attainment of the God will be without delay, but here the bliss of divine experience will be limited, as it is limited to that body. Thus, both of them attain the Lord at different periods according to their sadhana.
 
+## ०९ उपायविभागाधिकारः
 Upayavibhagadhikara
 
 101
@@ -1286,6 +1293,7 @@ ge:',
 
 Thus praparti is expounded here as a sufficient and direct means to liberation as it is a necessary accessory for other means such as Karma, Jnana and Bhakti.
 
+## १० प्रपत्ति-योग्याधिकारः
 Prapatti Yogyadhikara
 
 113
@@ -1326,6 +1334,7 @@ Desika describes in the concluding verse of this chapter, that there will be fif
 
 Those who are qualified for Bhaktiyoga may also adopt self-surrender, if they yearn to attain the highest without any delay. This is a means which is open to all types of aspirants. Such is the glory of this means.
 
+## ११ परिकर-विभागाधिकारः
 Parikara Vibhagadhikara
 
 117
@@ -1530,11 +1539,14 @@ In this way, the firm understanding of being totally subservient to the Lord is 
 
 With all these accessories, one is obliged to offer his self to be protected by the Lord.
 
+## १२ साङ्ग-प्रपदनाधिकारः
 Sangaprapadanadhikara
 
 CHAPTER - XII
 
-Sangaprapadanadhikara Having discussed about the various requirements that are essential for surrendering oneself unto the Lord, in this section, the mode of self-surrende, which is of the form of entrusting the burden of the protection of one's self to the Lord is described. This happens to be the prime factor in the process of surrender. Having qualified himself with an aspiration for liberation, having known in general terms the nature of the inseparable relationship with the Lord, and having known the several accessories that are essential for Prapatti, one becomes capable of performing Prapatti at the feet of the Lord. Whatever is described in the earlier sections will be immensely helpful to an aspirant to follow the main path of self-surrender.
+Sangaprapadanadhikara 
+
+Having discussed about the various requirements that are essential for surrendering oneself unto the Lord, in this section, the mode of self-surrender, which is of the form of entrusting the burden of the protection of one's self to the Lord is described. This happens to be the prime factor in the process of surrender. Having qualified himself with an aspiration for liberation, having known in general terms the nature of the inseparable relationship with the Lord, and having known the several accessories that are essential for Prapatti, one becomes capable of performing Prapatti at the feet of the Lord. Whatever is described in the earlier sections will be immensely helpful to an aspirant to follow the main path of self-surrender.
 
 In the introductory verse, the essential nature of Prapatti is clearly expounded. It is declared here as 'Bharanyasa' preceded by a prayer for protection. The essential nature of Prapatti is Bharanyasa. This is common to all people who seek the Lord to be their chief means of securing their object of desire. For people who aspire for different benefits, other than liberation, Bharanyasa is a necessity; but, surrendering of the 'swarupa' and 'phala' is not required. This entrusting of the burden of securing the object of desire, is to be necessarily combined with a prayer for his protection. The 'yachana' or prayer, signifies
 
@@ -1702,6 +1714,7 @@ entities other than himself. 'Hetutva' or being the cause, is common to all the 
 
 STARTE andra hy Falls is only for the Supreme being, and it is not contradictory to the nature of the jivatman to surrender. So, it is to be concluded that it is imperative for the jivatnan to surrender the burden of his protection to the Lord and it is also justified that the Lord bears the burden of protection of the jivatman, who has surrendered unto Him. So, the Lord is the protector of all and those that have entrusted the burden of their protection to the Lord will be relieved of all cares and worries.
 
+## १३ कृत-कृत्याधिकारः
 Kritakricyadhikara
 
 145
@@ -1764,7 +1777,8 @@ sorrows for his destiny after prapatti, the means of attainment of liberation be
 
 "To go beyond the vast ocean of samsara, the responsibility of protection was entrusted to the Supreme Lord, Sriman Narayana. Hereafter, to do anything for gaining little and transient objects of life like wealth, power or pleasure, etc., is unbecoming of a prapanna, just like prohibited action. His living in the world, goes on as determined by his past karmas, as before. The wise people who have unburdened their responsibility of protection to the Lord, implicitly obey the commands of the form of the scriptures, so long as they are stationed here.
 
-དུ
+
+## १४ स्वनिष्ठाभिज्ञानाधिकारः
 
 Swanistabhijnanadhikara
 
@@ -1886,7 +1900,8 @@ This is similar to the state of a 'schita-prajna' or a “jivan mukta' or a 'gun
 
 Thus in this chapter the behaviour of an ideal prapanna is expounded and the way in which the realisation of the knowledge of tattva, hita and purushartha should result in practice is shown.
 
-Uttarakrityadhikara
+## १५ उत्तरकृत्याधिकारः
+
 
 161
 
@@ -2018,7 +2033,8 @@ knowers of Brahman, is to be totally discarded. What one has to entertain always
 
 It is ordained that one should reflect on the inescable relationship of himself with the Supreme Paramatman everyday, in the supreme Mulamantra as a lover would see herself and the reflection of her lover in a cleaned mirror. The jiva who is signified by the term 'Ma' enjoys the vision of Paramatman signified by the letter Aa', as seen in the mirror, when that lover appears before her and the dative case of the term 'Narayana' implies that he is subservient only to that Supreme Narayana and not for himself. Thus, the truths expounded in this chapter, are to be reflected in the Mulamantra.
 
-Purushartakastadhikara
+## १६ पुरुषार्थकाष्ठाधिकारः
+
 
 171
 
@@ -2094,7 +2110,7 @@ The Purusharta kashta or the ultimate limit of the supreme object of life to be 
 
 He lives a life of self abnegation which will be a graceful gift granted to him by the Lord, and he considers that all this will be only for the pleasure of the Lord.
 
-Shastriya Niyamanadhikara
+## १७ शास्त्रीय-नियमनाधिकारः
 
 177
 
@@ -2172,7 +2188,8 @@ compliance of the former will avoid the wrath of the Lord. The latter is followe
 
 So, it is ordained here that a Prapanna has to abide by the rules of the Shastra, so long as he is stationed in this world.
 
-Aparadhapariharadhikara
+## १८ अपराध-परिहाराधिकारः
+
 
 185
 
@@ -2256,6 +2273,7 @@ It is the understanding of the shastras that the Lord is going to excuse such si
 
 प्रारब्धेतरपूर्वपापमखिलं प्रामादिकं चोत्तरं न्यासेन क्षपयन्ननभ्युपगतप्रारब्धखण्डं चनः । धीपूर्वोत्तर पाप्मनामजननात् जातेऽपि तनिष्कृतेः । कौटिल्ये सति शिक्षयाप्यनघयन् क्रोढीकरोति प्रभुः ॥
 
+## १९ स्थानविशेषाधिकारः
 Schana Visheshadhikara
 
 193
@@ -2329,6 +2347,7 @@ i.e. "that place where a devotee who has restrained his sense organs lives, is v
 Vedanta Desika concludes that a place like Kashi (or Benares) or Ayodhya or Avanthi or Kanchipuram or Madhura or any other Holy place, will not, merely of themselves, become celebrated, if those places are not desired by Bhagavatas who are intent upon drinking the nectar of the Holy names and exploits of the Lord. The intention is that any Holy place which is not relished by Bhagavatas, does not appeal to a Prapanna and on the contrary, any place that is relished by ardent devotees, becomes a coveted place for a Prapanna to live. सा काशीति न चाकशीति भुविसायोध्येति नाध्यास्यते सावन्तीति न कल्मषादवतिसा काञ्चीति नोदञ्चति । धत्ते सामधुरेति नोत्तमधुरां नान्यापि मान्या पुरी या वैकुण्ठकथा सुधारस भुजां रोचेत नो चेतसे ॥Niryandhikara
 
 199
+## २० निर्याणाधिकारः
 
 CHAPTER - XX
 
@@ -2424,6 +2443,9 @@ entry into the 'sushumna-nadi', the jivatman becomes endowed with perfect knowle
 
 Thus, in this chapter, the passage of the jivatman from the body, is described till he enters into the 'sushumna-nadi'. His attainment of Paramatman through the Archiradi path is described in the next chapter, the 'Gatichintanadhikara'.
 
+
+## २१ गतिचिन्तनाधिकारः
+
 Gatichintanadhikara
 
 209
@@ -2453,6 +2475,8 @@ being tired of moving up and down by the paths leading to hell, and becoming com
 come.
 
 As the trec provides its cool shade to the tired travellers, the Lord grants the Supreme Happiness of His Eternal Communion to those who had been unceasingly involved in the circle of births and deaths. The Lord will never will to send those liberated atmans to this world - Fagarrada' say the Upanishads.
+
+## २२ परिपूर्ण-ब्रह्मानुभवाधिकारः
 
 Paripurna Brahmanubhava Adhikara
 

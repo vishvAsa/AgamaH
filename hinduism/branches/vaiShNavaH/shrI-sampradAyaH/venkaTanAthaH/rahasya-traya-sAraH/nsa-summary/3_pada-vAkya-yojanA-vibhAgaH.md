@@ -6,7 +6,8 @@ short_title = "३ पदवाक्ययोजनाविभागः"
 ३ पद-वाक्य-योजना-विभागः
 
 
-## Mulamantradhikara
+## २७ मूलमन्त्राधिकार
+
 
 279
 
@@ -434,7 +435,8 @@ A person who has supreme faith in this Mantra, will realise the infinitc greatne
 
 such and such.
 
-Dvayadhikara
+## २८ द्वयाधिकारः
+
 
 309
 
@@ -768,7 +770,8 @@ There is no shastra more celebrated than Vedanta; there is no deity, greater tha
 
 Thus, Desika has expounded the glorious meanings of this Great Mantra.
 
-Charamasloka Adhikara
+## २९ चरमश्लोकाधिकारः
+
 
 335
 

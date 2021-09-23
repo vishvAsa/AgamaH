@@ -6,7 +6,8 @@ short_title = "२ स्थिरीकरणविभागः"
 २ स्थिरी-करण-विभागः
 
 
-## siddhopaya shodhanAdhikara
+## २३ सिद्धोपायशोधनाधिकारः
+
 
 Siddhopaya Shodhanadhikara
 
@@ -211,6 +212,8 @@ As in sacrifices, duality of deities such as Indra-Vishnu, etc., are invoked tog
 tufara rai a certa faufa' say our masters.
 
 So, it is concluded by Desika that it is to be reflected upon that 'Sri' is a visheshana to Narayana in the purva khanda also, and that Narayana characterised by 'Sri' is the upaya, and thus the Divine Couple together happen to be our upaya to be sought.
+
+## २४ साध्योपायशोधनाधिकारः
 
 Sadhyopaya Shodhanadhikara
 
@@ -452,6 +455,8 @@ Thus, in this section, Desika has vindicated Prapatti as an independent and dire
 
 Desika has written a work Nikshepa-Raksha' where he has raised nine objections against Prapatti and answered all of them clearly and established the validity of Prapatti.
 
+## २५ प्रभावव्यवस्थाधिकारः
+
 Prabhava Vyavasthadhikara
 
 261
@@ -589,6 +594,8 @@ account of 'prarabdha-karma'. 2. In such case, one should repent and pray for
 forgiveness. So long as a Prapanna is living in his body here, he has to follow the discipline prescribed for his varna and ashrama.
 
 The Lord will necessarily take the Prapanna to His abode, purifying him after punishments, in case he does not pray for forgiveness. The glory of a Prapanna should not be overestimated but should be explained according to the dictates of the shastras, and the practice of ancient masters.
+
+## २६ प्रभावरक्षाधिकारः
 
 Prabhava Rakshadhikara
 
