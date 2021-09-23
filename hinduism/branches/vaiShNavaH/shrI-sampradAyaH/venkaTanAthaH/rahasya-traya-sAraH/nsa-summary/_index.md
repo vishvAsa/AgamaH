@@ -429,7 +429,7 @@ Index of shlokas quoted
 286
 246 197, 204
 
-## अर्थानुशासनविभागः
+## १ अर्थानुशासन-विभागः
 
 
 
@@ -3361,7 +3361,7 @@ just like the 'chatra' and 'chamara' (the royal umbrella and the royal chauri) o
 
 As established in the vedanta sutras and as explained by Bhagavan Ramanuja, Desika expounds that there is no possibility of the liberated to be re-born in the material world. The Muktatinan experiences everything as ensouled by Brahman and there is no occasion at all for experiencing This pure nature aloof, and as he has directly realised the defects of other objects of life, it cannot be doubted that the Muktaman returns to this world by his own desire. As the wisdom gained about the three entities viz. the chetana, achetana and Ishvara, and as regards the objects to be discarded and objects to be entertained, has now become fully established and expanded, it cannot be doubted that he might return to this world on account of his ignorance. The extension of knowledge of the form of love towards the Lord, called as 'bhakti', which has arisen in him, has become strengthened and fulfilled on account of directly experiencing the unique form, qualities and other characteristics of the Lord, on account of which his intense love towards the Lord has swelled, and so the all independent Lord will not make him born in this world by his mere 'sankalpa'. As he is not subordinated to Shastra at the state of liberation, there is no fear of transgressing commands of the Lord. As what pleases the Lord, will be the desire of the Mukta, and so, there is no 'Viparita Anushtana' or committing the fault of going against the desire of the Lord; on account of all these factors and on account of the infinite affection that the Lord has for the liberated, there is absolutely no doubt about the non-return of a liberated self to this world. He will be cternally enjoying the supreme joy of divine communion for all time to come.
 
-## स्थिरीकरणविभागः
+## २ स्थिरी-करण-विभागः
 
 ### siddhopaya shodhanAdhikara
 
@@ -4127,7 +4127,7 @@ What onc indulges intensively through his mind, speech and actions, will itself 
 
 Thus, in this chapter, Desika has stoutly defended the greatness of Prapatti, and has expounded that a Prapanna should rest assured of the great benefit he would be getting after the fall of his body and that he should reflect upon the three Great Rahasyas, enshrining all the Supreme Truth.
 
-## पदवाक्ययोजनाविभागः
+## ३ पद-वाक्य-योजना-विभागः
 
 ### Mulamantradhikara
 
@@ -5493,7 +5493,7 @@ the great Veda Vyasa. This verse is also very dear and pleasing to the Lord, jus
 
 'व्यासाम्नायपयोधि - कौस्तुभनिभं हृद्यं हरेरुत्तमं श्लोकं केचन लोकवेदपदवीविश्वासितार्थं विदुः । येषामुक्तिषु मुक्तिसौघविशिखा सोपानपंक्तिष्वमी ari4144 1445494: 81: For: appa:' ||
 
-## संप्रदायप्रक्रिया भागः
+## ४ संप्रदाय-प्रक्रिया-भागः
 
 Acharya Kritya Adhikara
 
