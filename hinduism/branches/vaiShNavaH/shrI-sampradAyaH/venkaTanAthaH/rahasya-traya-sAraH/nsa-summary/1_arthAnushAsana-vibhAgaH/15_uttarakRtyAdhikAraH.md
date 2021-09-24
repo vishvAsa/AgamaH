@@ -10,10 +10,12 @@ In this section, the duties that are to be performed by a prapanna, after prapat
 
 In the introductory verse of this section, Desika points out the duties to be performed after surrendering oneself to the Lord, as follows:
 
-सन्तोषार्थं विमृशति मुहुः सद्भिरध्यात्मविद्यां नित्यं ब्रूते निशमयति च स्वादु सुव्याहतानि ।  
-अङ्गीकुर्वन्ननघललितां वृत्तिमादेहपातात् दृष्टादृष्टस्वभरविगमे दत्तदृष्टिः प्रपन्नः ।। 
+सन्तोषार्थं विमृशति मुहुः सद्भिर् अध्यात्मविद्यां  
+नित्यं ब्रूते निशमयति च स्वादु सुव्याहृतानि ।  
+अङ्गीकुर्वन्न् अनघ-ललितां वृत्तिम् आदेह-पातात्  
+दृष्टादृष्ट-स्वभर-विगमे दत्त-दृष्टिः प्रपन्नः ।। 
 
-He will again and again study and reflect over the truths of 'adhyathma-vidya' i.e. the great Sri Bhashya as propounded by Bhagavan Ramanuja on the three foundational texts of vedanta for the purpose of deriving joy caused by the experience of the auspicious qualities of the Paramatman i.c., santhoshartham. As he has already completed his spiritual discipline and as he may not need the knowledge of this vedanta for adopting a spiritual means, he is advised to undertake such study for 'bhagavat kalyana-guna-anubhava' or enjoying the auspicious qualities of the Supreme Paramatman, which itself is of supreme benefit. This study is to be undertaken along with those who are well versed in the truths expounded in Sri Bhashya and other works. Desika points out that this kind of study should be undertaken again and again so that he may be firmly established in that Supreme Paramatman. If one is not that capable as to go into the study of Sri Bhashya, he is advised to recite the nectar like hymns of the Alwars, such as Nammalwar and others. The soul stirring utterances of the God-intoxicated Alwars arc more pleasing to an aspirant to a greater extent than even the compositions of Parashara and others, as they are composed in the spoken language of the masses, understandable to all. This is to be undertaken as 'swayam-prayojana' and these should be heard from teachers or taught to disciples.
+He will again and again study and reflect over the truths of 'adhyathma-vidya' i.e. the great Sri Bhashya as propounded by Bhagavan Ramanuja on the three foundational texts of vedanta for the purpose of deriving joy caused by the experience of the auspicious qualities of the Paramatman i.c., santhoshartham. As he has already completed his spiritual discipline and as he may not need the knowledge of this vedanta for adopting a spiritual means, he is advised to undertake such study for 'bhagavat kalyana-guna-anubhava' or enjoying the auspicious qualities of the Supreme Paramatman, which itself is of supreme benefit. This study is to be undertaken along with those who are well versed in the truths expounded in Sri Bhashya and other works. Desika points out that this kind of study should be undertaken again and again so that he may be firmly established in that Supreme Paramatman. If one is not that capable as to go into the study of Sri Bhashya, he is advised to recite the nectar like hymns of the Alwars, such as Nammalwar and others. The soul stirring utterances of the God-intoxicated Alwars are more pleasing to an aspirant to a greater extent than even the compositions of Parashara and others, as they are composed in the spoken language of the masses, understandable to all. This is to be undertaken as 'swayam-prayojana' and these should be heard from teachers or taught to disciples.
 
 2. A prapanna should follow the course of his life which is pious and godly, so long as he is placed here in this world, and he must always think that there is no responsibility of his, either in things that are perceived or those that are not perceived (drishta or adrishta); what is perceived here is going on according to his past karma and what is unseen, is in the hands of Paramatman, who has taken over the burden of his protection. So, he need not worry for anything at all.
 
@@ -39,15 +41,7 @@ Such a prapanna should not desire for any gain other than the grace of the Lord 
 
 He must not aspire for the glory of either Prajapati or Rudra, while going through the routine disciplines related to his duties in life. He must approach people who are knowledgeable for solving the doubts he may have regarding his duties.
 
-He should have no disregard regarding things that he does not know under the pretext of 'kritakritya'. As knowledge and devotion are ever necessary, he should pray
-
-CO
-
-Uttarakrityadhikara
-
-165
-
-to the Lord to grant him devotion towards Him and knowledge regarding His nature. This prayer for Jnana and Bhakti will serve the purpose of great joy regarding the Supreme Paramatman, who is his Sheshin.
+He should have no disregard regarding things that he does not know under the pretext of 'kritakritya'. As knowledge and devotion are ever necessary, he should pray to the Lord to grant him devotion towards Him and knowledge regarding His nature. This prayer for Jnana and Bhakti will serve the purpose of great joy regarding the Supreme Paramatman, who is his Sheshin.
 
 The following statements substantiate their state of life:
 
@@ -82,24 +76,10 @@ As Nammalvar says "I have not performed karmayoga and others. I have no knowledg
 
 "What can I do? Who is to save me? What are you going to do with me? I know nobody other than yourself." (Thiruvoimoli 5.8.3) . A number of such statements of the Mystic seers, make it clear that this mode of Cakinchanya' should be reflected upon.
 
-When one has performed prapatti, and won the grace of the Lord, he should not brood over the past and get dejected on account of the unfitness he had from beginningless time. When the Lord has granted him refuge and when all his past sins have been divested of him by the grace of the Lord, he should not grieve over his past; but, feel solace that he has got rid of all that by the grace of the Lord and so he should engage with all ferver in loving service of the Lord. 6. A prapanna should subdue his sense organs and engage them in the loving service of the Lord. The duties of his varna and ashrama that are performed, should be done purely for pleasing the Lord and not for any other benefit. The shastras should be strictly followed, but never for attaining any other benefit. A prapanna should engage himself in the divine service of the ‘archa' incarnation of the Lord, so long as he is stationed in this world. He should have the idea that the Lord himself is fully present in the Archa, and that the very worship of the Lord would free one from all great sins and sub-sins. When one has a vision of the Lord in archa-form all kinds of illusions and erroneous
-
-Uttarakrityadhikara
-
-169
-
-ev
-
-impressions through various causes get totally destroyed. The Lord says in the Gita that he would show himself to his devotees in the very same form through which he will be worshipping Him. One should with great love and affection worship the Lord in the Archa-form.
+When one has performed prapatti, and won the grace of the Lord, he should not brood over the past and get dejected on account of the unfitness he had from beginningless time. When the Lord has granted him refuge and when all his past sins have been divested of him by the grace of the Lord, he should not grieve over his past; but, feel solace that he has got rid of all that by the grace of the Lord and so he should engage with all ferver in loving service of the Lord. 6. A prapanna should subdue his sense organs and engage them in the loving service of the Lord. The duties of his varna and ashrama that are performed, should be done purely for pleasing the Lord and not for any other benefit. The shastras should be strictly followed, but never for attaining any other benefit. A prapanna should engage himself in the divine service of the ‘archa' incarnation of the Lord, so long as he is stationed in this world. He should have the idea that the Lord himself is fully present in the Archa, and that the very worship of the Lord would free one from all great sins and sub-sins. When one has a vision of the Lord in archa-form all kinds of illusions and erroneous impressions through various causes get totally destroyed. The Lord says in the Gita that he would show himself to his devotees in the very same form through which he will be worshipping Him. One should with great love and affection worship the Lord in the Archa-form.
 
 It is pointed out here by Desika that this kind of worship should be rendered with articles of worship that are earned by a righteous way (Nyayarjita).
 
-In the end, it is pointed out that a prapanna should ever be full of gratitude towards his preceptor and towards the Supreme Paramatman, who is the general cause of everything in this universe. Desika points out that a prapanna should note what should be discarded mainly and what should be entertained mainly - 1. What one should discard totally is 'vishaya-swada' or
-
-experience of the sense objects. 2. One should discard totally 'atmotkarsha' or his own
-
-celebrity 3. The most dangerous offence viz. offence towards
-
-knowers of Brahman, is to be totally discarded. What one has to entertain always is as follows: The supreme benefaction done by the Acharya beginning with the 'prathama-kataksha' or primary look of compassion and showing the pathway of salvation. And the most important duty that is to be done is service to the Lord culminating in the loving service to the Bhagavathas such as Acharya and others. 2.
+In the end, it is pointed out that a prapanna should ever be full of gratitude towards his preceptor and towards the Supreme Paramatman, who is the general cause of everything in this universe. Desika points out that a prapanna should note what should be discarded mainly and what should be entertained mainly - 1. What one should discard totally is 'vishaya-swada' or experience of the sense objects. 2. One should discard totally 'atmotkarsha' or his own celebrity 3. The most dangerous offence viz. offence towards knowers of Brahman, is to be totally discarded. What one has to entertain always is as follows: The supreme benefaction done by the Acharya beginning with the 'prathama-kataksha' or primary look of compassion and showing the pathway of salvation. And the most important duty that is to be done is service to the Lord culminating in the loving service to the Bhagavathas such as Acharya and others. 2.
 
 It is ordained that one should reflect on the inescable relationship of himself with the Supreme Paramatman everyday, in the supreme Mulamantra as a lover would see herself and the reflection of her lover in a cleaned mirror. The jiva who is signified by the term 'Ma' enjoys the vision of Paramatman signified by the letter Aa', as seen in the mirror, when that lover appears before her and the dative case of the term 'Narayana' implies that he is subservient only to that Supreme Narayana and not for himself. Thus, the truths expounded in this chapter, are to be reflected in the Mulamantra.
