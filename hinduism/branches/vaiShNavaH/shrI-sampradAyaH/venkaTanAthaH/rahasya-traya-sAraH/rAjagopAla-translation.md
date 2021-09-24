@@ -6,9 +6,9 @@ Published by: Agnihothram Ramanuja Thathachariar,
 Kumbakonam.
 
 
-## 0
+## ०
 
-### PRÉFACE 
+### ०० PRÉFACE 
 
 Srimad Rahasyatrayasára is a classic of the first importance to the followers of Sri Vedantadesika. Though it is in Tamil, it is so full of Sanskrit words and of Sanskrit passages quoted as praianas that the ordinary reader finds ir difficult to understand it by himself. Since a number of my friends who have studied English told me that an English translation of it would be of great help. I suggested to Professor M. R. Rajagopala Ayyangar who is well-versed in: Sri Bhashya, Rahasyatrayasara and other works connected with the tradition of Sri Vaishnavism and has, in addition, an intimate knowledge of English, that he might undertake the work. He complied with my request, completed the transla tion and handed it over to me. It is not possible for me to thank him in adequate terms for having done so. 
 
@@ -22,7 +22,7 @@ My grateful thanks are due to Sri K. Vasudevan Nair, Proprietor, The Literary Pr
 1946  
 Agnihothram Ramanuja Thathachariar 
 
-### INTRODUCTION 
+### ०१ INTRODUCTION 
 
 #### Life and Writings of Sri Vedāntadestika 
 
@@ -466,7 +466,7 @@ XL BOOKS CONSULTED
 
 Sri Bhasbya: Rabasyatrayagara : Sri Lokacharya's Tattva. traya. Sri Vachadabboosbaba, and Mumukshuppadi with the commentaries of Sri Manavalamamudi: Yateendramata deepika (of Srinivasadasa): P. Otto Schroder's Introduction to Pancharatra and the Ahirbudhoya Saushita : Abirbadboya Sarbita : Sri T. Rajagopalachariar's Vaishoavite Reformers of South India' (G. A. Natesan and Co). The commentaries of Chetlar Nara simhachariar Swawi and Saraswadini. 
 
-### CONTENTS. 
+### ०२ CONTENTS. 
 
 #### INTRODUCTION 
 
@@ -616,7 +616,7 @@ XLvii
 
 Pages. 
 
-CHAPTER XXV. The limits within which the upayas, 
+#### CHAPTER XXV. The limits within which the upayas, 
 
 bhakti and prapatti have potency: 
 
@@ -638,7 +638,7 @@ or mantras by a study of the grammatical con
 
 struction of the words and sentences. 
 
-CHAPTER XXVII. The Moolamantra : 
+#### CHAPTER XXVII. The Moolamantra : 
 
 Purport of the three mantras and their relation to one another; the primary importance of Tirumantra ; it may be uttered by all with suitable modifications; meaning of pranava and its potency; meaning of a, of u end of min pranava; meaning of namas or namo in Tirumantra ; the three meanings of namas; sthma, sükshma and para ; 
 
@@ -646,13 +646,13 @@ xLviii Pages. the word Narayana in Tirumantra ; its meaning when split in two wa
 
 345 to 419 
 
-CHAPTER XXVIII. The Dvaya.-- 
+#### CHAPTER XXVIII. The Dvaya.-- 
 
 Why is the mantra called Dvara? Saraṇāgatigadya a commentary on the Duaya; detailed interpretation of Dvaya ; the meaning of Sriman; the force of the sufix matup in it; the meaning of the word Nārāyana and the qualities disclosed in it; the meaning of charanau; the meaning of saranam and of prapadye ; the second half of the mantra ; the meaning of the word namas; the purport of Dvaya. 
 
 420 to 404 
 
-CHAPTER XXIX. The Charamasloka : 
+#### CHAPTER XXIX. The Charamasloka : 
 
 Introduction to charama-sloka ; meaning of sarva. dharmān; meaning of partityajya; refutation of the view that the giving up of rites or dharmas is enjoined and of the view that what is enjoined is the giving up of the notion that they are upāyas; the obligatoriness of the performance of the rites of varna and asrama'; how äkinchanya and Nairapekshya are to be understood in the charamasloka; summary of the meanings of parityajya considered; the meaning of mūm and of ekam; tbe refutation of the view that prapatti is no upāya ; mām includes Laksbmi, the attribute; the meaning of saranam; the meaning of vraja; the proper interpretation of Alavandar's silokas in this connec tion; the meaning of aham and of tva; the meaning of sarvapāpebhyo and of mokshayishyāmi; the manner of libe. ration from all sins; the meaning of mūs'uchah; the reasons for giving up grief or despair; the purport of charamasloka. 
 
@@ -664,23 +664,23 @@ PART IV
 
 The Path of Spiritual Tradition. 
 
-CHAPTER XXX. The Duties of an Acharya : 
+#### CHAPTER XXX. The Duties of an Acharya : 
 
 To whom should the Acharya impart spiritual instruc tion? How should he do it? The pature of the instruction. 
 
 566 to 573 
 
-CHAPTER XXXI. The Duties of a Sishya : 
+#### CHAPTER XXXI. The Duties of a Sishya : 
 
 The service rendered by the sishya to the Guru is in no way & recompense; the duties of the sishya; the imparting of instruction should be preceded by meditation on the succession of Gurus. 
 
 674 to 580 
 
-CHAPTER XXXII. Conclusion: 
+#### CHAPTER XXXII. Conclusion: 
 
 Topics treated in the book in the respective chaptera ; the good results that will follow from a study of this treatise. 
 
-### ERRATA.
+### ०३ ERRATA.
 
 The reader is requested to make these corrections before reading the book.
 
@@ -986,6 +986,8 @@ NOTE: There are some who maintain that this chapter on the succession
 
 of gurus is not part of Srimad Rahasyatrayasara and that the latter begips only with the "Introductory Chapter", which followe. 
 
+### ०१ उपोद्घाताधिकारः
+
 (1) INTRODUCTORY CHAPTER. 
 
 SANSKRIT VERSE: 
@@ -1082,9 +1084,9 @@ In the cycle of karma, avidya and others which succeed one apother, as in the re
 
 [NOTE:-- and others : The word others refers to vasanas or impressions left in the mind in previous births, ruchi or tastes and aptitudes and prakriti Bambandha or association with matter.) 
 
-(2) THE CHAPTER ON THE DETERMINATION 
 
-OF WHAT IS BEST ? 
+### ०२ सारनिष्कर्षाधिकारः
+(2) THE CHAPTER ON THE DETERMINATION OF WHAT IS BEST ? 
 
 NOTE "The Three Mysterics" have been occasionally referred to in previous chapters. Sri Vedantadesika presumes that everyone of his readers knows what they are. It is just possible that some of them are not in the know of these mysteries. So a brief account may be necessary of these mantras. 
 
@@ -1148,9 +1150,11 @@ As if what has been already learnt is not enough, the eighteen subjects of study
 
 The basic mantra (moolanantra) called Ashtakshara shines conspicuously in the Upanishads (literally, the end of the various branches of the Veda). If there is any one endowed with discriminating wisdom who has understood from that inantra the truth about hia essential nature, and if he spends all his time in uttering the Dvayani wbich, even at a single atterance, can produce the fruition of the desire for the ultimate goal of life and if he has also absolute faith in the means of salvation taught with compassion in the charama sloka by Sri Krishna who, for his sport or Ia, became the charioteer, and, who is the crest jewel, as it were, of the Vedas - if there is any such person (at all) in the world, he will be the leader of all our hosts. 
 
-6. Mahabharata : Santi Parva 176.66.3. THE CHAPTER ON THE MOST IMPORTANT AND DISTINCTIVE DOCTRINE THAT IS UNIQUE 
+- 6. Mahabharata : Santi Parva 176.66.3. 
 
-TO VISISTADVAITA. 
+### ०३ प्रधानप्रतितन्त्राधिकारः
+
+THE CHAPTER ON THE MOST IMPORTANT AND DISTINCTIVE DOCTRINE THAT IS UNIQUE TO VISISTADVAITA. 
 
 SANSKRIT VERSE: 
 
@@ -1280,7 +1284,11 @@ Lord with the crown of Tulsi loaves (for the Antaryāmi Brähmana of Brihadarany
 
 SANSKRIT VERSE: 
 
-If, in the Kali yoga, there is any one supremely wise who can understand this unique and distinctive doctrine of the relationship between Iswars and the world being that between the soul and the body, which was taught by that sovereign sannyäsin (Sri Ramanuja) and which is like the dawn that dispels the darkness of ignorance , then in that place where he is, the tumultuous waves of logical disputation arising from the eagerness to establish the truths of other systems will subside at once.4. THE CHAPTER ON THE FIVE THINGS THAT 
+If, in the Kali yoga, there is any one supremely wise who can understand this unique and distinctive doctrine of the relationship between Iswars and the world being that between the soul and the body, which was taught by that sovereign sannyäsin (Sri Ramanuja) and which is like the dawn that dispels the darkness of ignorance , then in that place where he is, the tumultuous waves of logical disputation arising from the eagerness to establish the truths of other systems will subside at once.
+
+### ०४ अर्थपञ्चकाधिकारः
+
+4. THE CHAPTER ON THE FIVE THINGS THAT 
 
 SHOULD BE KNOWN TO EVERY SEEKER 
 
@@ -1630,6 +1638,8 @@ That which is to be attained is the Supreme Brahman who is the s'eshi of all; I 
 
 the Suris; alas, by ny egoism and the ignorance arising from it, I have lost it, but I have been taught that, by surrendering myself to the divine couple who are my s'eshis, I can now attain it. 
 
+### ०५ तत्त्वत्रयचिन्तनाधिकारः
+
 (5) THE CHAPTER ON THE THREE 'REALS' 
 
 (OR TATVAS) 
@@ -1920,7 +1930,11 @@ THE THREE REALS.
 
 SANSKRIT SLOKA: 
 
-By the addition of a point here and the omission of & point there, there are countless systems of thought, each appearing beautiful with fallacious arguments owing to the endless differences due to 'ia' and 'is not'. These are indeed as numerous as the poems composed by the imagination of poets (some omitting an incident and others inventing an incident and so forth). Notwith standing this, the unparralleled vision of the truth about the tatvas) will make them all yepish at once into thin air. When the man is seen in reality, the delusion that he is an animal or & log of wood, sthāņu vanishes at once. So also when, with the help of the pramāṇas, Purushottama is ascertained as the Supreme Deity, the delusion that Rudra (Sthanu) or any other is the Supreme Deity is at once dispelled.6. THE CHAPTER ON THE TRUTH CONCERNING 
+By the addition of a point here and the omission of & point there, there are countless systems of thought, each appearing beautiful with fallacious arguments owing to the endless differences due to 'ia' and 'is not'. These are indeed as numerous as the poems composed by the imagination of poets (some omitting an incident and others inventing an incident and so forth). Notwith standing this, the unparralleled vision of the truth about the tatvas) will make them all yepish at once into thin air. When the man is seen in reality, the delusion that he is an animal or & log of wood, sthāņu vanishes at once. So also when, with the help of the pramāṇas, Purushottama is ascertained as the Supreme Deity, the delusion that Rudra (Sthanu) or any other is the Supreme Deity is at once dispelled.
+
+### ०६ परदेवतापारमार्थ्याधिकारः
+
+6. THE CHAPTER ON THE TRUTH CONCERNING 
 
 THE SUPREME DEITY. 
 
@@ -2140,6 +2154,8 @@ SANSKRIT VERSE:
 
 In this world which is epveloped in avidyā or harma, there way be found, here and there, & single individual who has closely stadied Vedanta and who can realise that Narayans with Hills consort Sri is the only refuge, when rulers sitting on victorious thrones as sovereigas of countries, of the whole world, and of Brahmanda itself perish utterly along with the story of their lives. 
 
+### ०७ मुमुक्षुत्वाधिकारः
+
 (7) THE CHAPTER ON THE ASPIRATION 
 
 FOR MUKTI. 
@@ -2219,6 +2235,8 @@ There may be born somewhere in this world some one who, being lucky and wise and
 20. 
 
 ? 21. Vishaudharmam: 43-28 
+
+### ०८ अधिकारिविभागाधिकारः
 
 (8) THE CHAPTER ON THE CLASSIFICATION 
 
@@ -2321,6 +2339,8 @@ SANSKRIT SLOKA:
 Mukunda does not vouchsafe His abode to any one other than the prapanna. The prapanna is of two kinds, Damely, he who adopts prapatti as the sole and independent means and he who adopts prabatti as the auxiliary means to bhākti or upasana and this difference is due to difference in the fruition of their good 
 
 • Brahma Sutras : 4-4-8102 deeds. He who adopts prapatti as an auxiliary to bhakti will attain moksha after much delay caused by the need to expiate past karma (in one or several bodies), but will have the happiness of devout worship in this world for a long time. He to whom prapatti is the sole and independent means will attain moksha quickly (i.e.) at the end of this life itself, but bis happiness of serving the Lord in this world will be limited and of short duration. 
+
+### ०९ उपायविभागाधिकारः
 
 (9) THE CHAPTER ON THE CLASSIFICATION 
 
@@ -2434,6 +2454,8 @@ SANSKRIT SLOKA:
 
 Karma, Jrāna, Upasana (bhakti ) and likewise saranāgati are the good ways prescribed in the Vedas for securing mioksha ; of these some are indirect and auxiliary means (namely, karma and jnūna ) while the others, bhakti and saranāgati are direct and independent upayas for mukti. Of these, some (i.e. karma and jnāna), have only one form (that of being in. direct and auxiliary means ); bhakti has only one form (that of being the direct and independent means for mukti, while saraņā. gati or prapatti has two forms, that of being an indirect and auxi. liary means as leading to bhakti and also that of being the direct and independent means or upāya for obtaining mukti. The wise (who know the s'ăstras), having understood well the difference among these upayas due to their having this single or twofold nature, delight in the last words (charamasloka ) of the charioteer who is the Saviour of all, (i.e.) they prefer s'aranāgati), 
 
+### १० प्रपत्तियोग्याधिकारः
+
 (10) THE CHAPTER ON FITNESS FOR PRAPATTI. 
 
 SANSKRIT SLOKA: 
@@ -2479,6 +2501,8 @@ SANSKRIT SLOKA:
 (1) Inability to adopt such upāyas as Bhakti yoga, (2) ignor ance of the required knowledge; (3) prohibition by the sästras of the adoption of such means and (4) ipability to endure any delay in attaining mukti :- these four, occuring either singly* or in combinations of two, three or four, by virtue of adrishta (re sulting from meritorious deeds performed in the past) are qualifications of varied kinds for the performance of direct and independent prapatti to the Lord of Lakshmi and good men resort to it with these qualifications and free from all doubt for the attainment of mukti. 
 
 NOTE:— * Those who have only one of these four are of four classes, those who have any two of them are of six, those who have any three are of four and those whonbinave all the four form one. 
+
+### ११ परिकरविभागाधिकारः
 
 (11) THE CHAPTER ON THE CLASSIFICATION 
 
@@ -2644,6 +2668,8 @@ SANSKRIT SLOKA:
 
 In the Scriptures (vouchsafed to u8 ) by Bhagavan bimself (e. in the Pancharātra Āgamas), this yoga called prapatti is proclaimed as having five or six angas and as requiring to be per formed only once. In this yoga, absention from trapsgressions results from two of the angas, namely, ânukilya sankalpa and prātikulya varjana. It may be goderstood (also ) that from one anga, namely, kūrpanya, one feels that there is no other upāya. From supreme faith, another anga arises firmness of mind. By another anga, namely, goptritva varanam, is generated the Lord's will to save. In this yoga, namely, prapatti, and also in its angas, the thought that all these are dependent upon the Lord should arise from a knowledge of the truth (tattva) (that the jiva is s'esha to the Lord and that all be does is really done by the Lord and that for His own purposes. sāttvika parityāga). This last thought is common to prapatti and all other upāyas for securing moksha, (When saranagati is performed for the sake of worldly goods, this last thought, sättvika parityāga is absent.) 
 
+### १२ साङ्ग-प्रपदनाधिकारः
+
 (12) THE CHAPTER ON THE PERFORMANCE 
 
 OF PRAPATTI WITH ITS ANGAS. 
@@ -2770,6 +2796,8 @@ PERFORMANCE OF PRAPATTI
 
 Iswara are related to one another respectively like the thres mentioned above and have always had varied activities in accordance with their respective nature. In connection with these activities, all the three are of the nature of being the material) causes; two, cit and Iswara, are of the nature of doers, and ope (1.) Iswara is alone independent (of all others). Therefore the jiva, kbe responsibility for whose protection bas been undertaken by Iswara who is the Master, is carefree and has no further responsibility of his own in the matter of his protection. 
 
+### १३ कृतकृत्याधिकारः
+
 (13) THE CHAPTER ON THE MAN WHO HAS DONE 
 
 WHAT OUGHT TO BE DONE (1. E.) PRAPATTI. 
@@ -2835,6 +2863,8 @@ Our spiritaal leaders whom the Lord of Sri that dwells on Hastigiri has taken in
 Bharanyāsa (or the surrender of the responsibility of protec tion) has been made (at the feet of) Bhagavan (Hari) for reach ing beyond samsāra. So also actions that can produce only limited pleasures have been given up just like forbidden actions. The sustenance of the body will continue in accordance with past karma (which has begun to operate). 80 nothing need be done for it. Thereafter (i.c) after prapatti the bounds* imposed by the Lord's command are scrupulously observed by wise men, (merely because it is the Lord's command.) 
 
 NOTE:-* This means that the nirya and naimittika karmas which are ordained by the Lord in the Sastras have still to be performed after prapatti, as, otherwise, there would be transgression of His command. 
+
+### १४ स्वनिष्ठाभिज्ञानाधिकारः
 
 (14) THE CHAPTER ON THE MARKS OR SIGNS BY WHICH ONE CAN RECOGNISE THAT ONE IS 
 
@@ -2917,6 +2947,8 @@ SANSKRIT SLOKA:
 In the interval between this life of worldly enjoyment and life after moksha - ( an interval) which may be compared to a mingling of the state of sleep and the waking state ---some destiny has placed prapannas for a time and they pass the rest of their lives wearing, on their heads, the garland of their nishtă in regard to tatva, upāya, and purushärtha, which has been vouchsafed to them by the Lord. 
 
 18. Ramayana : Supdarakanda: 16-25 
+
+### १५ उत्तरकृत्याधिकारः
 
 (15) THE CHAPTER ON THE MANNER IN WHICH ONE SHOULD CONDUCT ONESELF 
 
@@ -3108,6 +3140,8 @@ Like a beloved wife who, in a big jewelled mirror, well-polished, sees her lovio
 
 77. Tiruppavai: 2 
 
+### १६ पुरुषार्थकाष्ठाधिकारः
+
 (16) THE CHAPTER ON THE FARTHEST EXTENT 
 
 OF OUR ULTIMATE OBJECT IN LIFE. 
@@ -3236,6 +3270,8 @@ SANSKRIT SLOKA :
 
 With our words which emit a fragrance that would be eagerly desired by the lotus which arose in the pond of the Lord's navel, we do not beg of the Lord the pleasures of this world and of svarga which are like straw nor kaivalya nor even moksha. We oply pray that we should have the grace of the pure and firm-minded Bhagavatas, who are like the chaste wives in the royal harem, for their grace is like the dawn which beralds the day of the splen. dour of moksha, 
 
+### १७ शास्त्रीय-नियमनाधिकारः
+
 (17) THE CHAPTER ON THE ORDINANCES 
 
 IMPOSED BY THE SASTRAS. 
@@ -3339,6 +3375,9 @@ The wise man learns what is in accordance with the will of the Ruler* who is the
 * Niyamayitur adeh may mean also 'the Primeval Ruler' 
 
 + Charana: the acharas which pertain to the respective veda to which the man belongs. 
+
+
+### १८ अपराधपरिहाराधिकारः
 
 (18) THE CHAPTER ON THE ATONEMENT 
 
@@ -3536,6 +3575,8 @@ SANSKRIT SLOKA.
 
 The Lord pardons, on account of prapatti, all sins com mitted before prapatti except (some among) those which have begun to bear fruit in this life and also those sins which are committed after prapatti unintentionally. Likewise He pardons ( also) all prārabdha karma except the portion of prārabdha whose con sequences he has agreed to bear. In the case of the prapanna, it is not at all likely that sins will be committed subsequently with deliberation. Even if such (subsequent ) sias occur, they will be destroyed by atonement; if, on account of wickedness, no atone ment is performed, the sios will be expiated by punishment and the Lord will (then) take the prapanna to Himself. 
 
+### १९ स्थानविशेषाधिकारः
+
 (19) THE CHAPTER ON THE PLACES SUITABLE 
 
 FOR THE RESIDENCE OF THE PRAPANNA. 
@@ -3619,6 +3660,8 @@ PLACE OF RESIDENCE ,
 SANSKRIT SLOKA: 
 
 The place which is not to the liking of the minds of those who taste the nectar of the stories of Bhagavan (Vaikunta) - that place does not shine in the world, merely because it is called Kasi, (Kasi: that wbich shines); it does not become a (suitable) place of residence merely because it is called Ayodhya; it does not save us from our sins merely because it is called Avanti (Ave to protect); Kanchi is not excellent because of its name; nor is Madhura considered & seat of excellence merely because it is called Madhura. So also other cities do not become worthy merely because of their nanes, (if they are not to the liking of those who delight in the ambrosia of stories concerning Bhagavan (Vaikunta ). 
+
+### २० निर्याणाधिकारः
 
 (20) THE CHAPTER ON THE DEPARTURE OF THE 
 
@@ -3800,6 +3843,8 @@ SANSKRIT SLOKA:
 
 Like a father who descende into a well full of slushy mire to take out his son that has fallen into it, the Lord, (in His līlā), abides in the cave of the heart (dahara) and at the time of our leaving the body, He helps us to enter the rūdī which is beyond the hundredth, so that we may start on our journey to the city that was not built by any one. 
 
+### २१ गतिचिन्तनाधिकारः
+
 (21) THE CHAPTER ON THE PRESCRIBED 
 
 PATH OR ROUTE. 
@@ -3915,6 +3960,8 @@ Agoi, Daytime, Suklapaksha, Uttarāyana, the year, the interveping Vayu, Surya, 
 SANSKRIT SLOKA: 
 
 We become exhausted by frequent a acept (to svarga) and descent back to the earth along the path of the Pitris (the path of smoke) like the water-pot going up and down the well by the rotation of the water-wheel. (We become exhausted likewise) by incessant journey, to and fro, along the route to hell. (80) Hari makes the various deities (on the shiniog path of archis) entertain us who are so exbausted and at length confers bliss on us by keeping us, as it were, under His shade which is (like the shade of & sandal tree). 18. Ramayana : Sundara Kanda: 19-7. 
+
+### २२ परिपूर्णब्रह्मानुभवाधिकारः
 
 (22) THE CHAPTER ON THE FULL AND PERFECT 
 
@@ -4105,6 +4152,8 @@ These four parts with four vyūhas in each correspond to the four stages of deve
 PART II The Discussion and clarification of Doubts 
 
 and Disputed Points 
+
+### २३ सिद्धोपायशोधनाधिकारः
 
 (23) THE CHAPTER ON THE CLARIFICATION OF WHAT IS MEANT BY THE UPAYA 
 
@@ -4525,6 +4574,9 @@ SANSKRIT SLOKA:
 The treasure (of gold - vix. Bhagavan), which is not seen 
 
 is witbio them, because they are guided by heretical systems which have not the benefit of the traditional knowledge of our spiritual teachers -(the treasure which they fail to perceive) even though resting on it night and day (as in sushupti) -- the treasure which is proclaimed in the strutis to be itself the means or sādhana for its attainment - that boundless treasure will make its presence (felt) among those who are pure of mind. 
+
+## २ स्थिरी-करण-विभागः
+### २४ साध्योपाय-शोधनाधिकारः
 
 (24) THE CHAPTER ON THE CLARIFICATION OF WHAT IS MEANT BY SADHYOPAYA OR THE UPAYA THAT HAS TO BE 
 
@@ -5046,6 +5098,8 @@ Those (great men) who were well-versed in the dialectical methods of rationalist
 
 Bhagavan ). 
 
+### २५ प्रभाव-व्यवस्थाधिकारः
+
 (25) THE CHAPTER ON THE LIMITS WITHIN WHICH THE UPAYAS BHAKTI AND 
 
 PRAPATTI HAVE POTENCY: 
@@ -5496,6 +5550,8 @@ OBSERVANCE OF NITYA AND NAIMITTIKA
 
 and who are proficient in the knowledge of the injunctions concerning prapatti, which are diametrically opposed to the bon. observance of the rites and duties pertaining to each caste and each asramu - these men of exclusive devotion to the Lord may be found even in this last yuga, and they will approve of the enquiry made so far (in this chapter). 
 
+### २६ प्रभावरक्षाधिकारः
+
 (26) THE CHAPTER ON THE VINDICATION OF 
 
 (THE) POTENCY (OF PRAPATTI ). 
@@ -5702,6 +5758,8 @@ muntras by a study of the grammatical construction
 
 of the words and sentences. 
 
+## ३ पद-वाक्य-योजना-विभागः
+### २७ मूलमन्त्राधिकारः
 (27) THE CHAPTER ON THE MOOLAMANTRA 
 
 (ASHTAKSHARA.) 
@@ -6699,6 +6757,7 @@ THE POTENCY OF ASHTAKSHARA
 origin of the Vedas, wbich has the word having the three meanings, sthila (gross) sūkshma, (subtle) add para lhe (suprerue) (panely, namas and which has in it the word (Narayana) that forins the essence of the Upanishads--this mantra confers, on tb ose who seek no other reward. freedom from prakriti with its three qualities (s. e. from samsāra.) 
 
 y 
+### २८ द्वयाधिकारः
 
 (28) THE CHAPTER ON THE DVAYA SANSKRIT SLOKA: 
 
@@ -7293,6 +7352,9 @@ There is no sästra superior to Vedanta; there is no higher Truth or Reality tha
 NOTE *: There is a reference here to Sri Ramanuja's gadya.464 CHAPTER 
 
 nothing more holy of resort than His devotees; there is no better dwelling place than those places that are agreeable to them; there is no better means of preserving health than the quality of satte (or eating sätvic food); there is no other way of acquiring wisdom than devotion to the wise; there is no bliss greater than moksha ; similarly there is no better ineans of obtaining spiritual welfare (moksha) than the utterance of Derya. 
+
+### २९ चरमश्लोकाधिकारः
+
 
 THE CHAPTER ON THE CHARAMA SLOKA. 
 
@@ -8746,7 +8808,10 @@ bha taken out of the ocean of Vyasa's Veda (Mahabharata). Its yueaning finds con
 
 Here ends the third part of Srimad Rahasyatrayasara called “ The Interpretation of the meaning of the three rahasyas or mysteries by a study of the grammatical construction of the words and sentences in them", 
 
+## ४ संप्रदाय-प्रक्रिया-भागः
 PART IV THE PATH OF SPIRITUAL TRADITION 
+
+### ३० आचार्यकृत्याधिकारः
 
 30. THE CHAPTER ON THE DUTIES OF 
 
@@ -8866,7 +8931,10 @@ SANSKRIT SLOKA :
 
 The acharya who obeys the successive commands of (the Lord who is) the first achūrya regulates (the minds and actions of) his s'ishyas by methods of instruction which *crcate in thenu noble qualities similar to those in himself and which are like irresistible waves of the celestial sea of his boundless compassion. By doing so, he saves not only the disciple but himself also under the guise of saving him. 
 
-(*NOTE: Gunasamkramal inay mean also “which creale a path for the entrance of their noble qualities into their disciples")31. THE CHAPTER ON THE DUTIES OF A SISHYA. 
+(*NOTE: Gunasamkramal inay mean also “which creale a path for the entrance of their noble qualities into their disciples")
+### ३१ शिष्यकृत्याधिकारः
+
+31. THE CHAPTER ON THE DUTIES OF A SISHYA. 
 
 T WIL 
 
@@ -8989,6 +9057,8 @@ Even (the omniscient and omnipotent) Mayan cannot requite the acharya who dispel
 SANSKRIT SLOKA: 
 
 The tip of the achirya's tongne shines hright being the throne on which is seated (the god) Hayagriva. So we do not consider any deity as being higher than the acharya. Even Narayana plays the part of the itchürya without ever giving up His supreme greatness, in order to save those who are sugk in the sea of samsära. 
+
+### ३२ निगमनाधिकारः
 
 32. THE CONCLUDING CHAPTER. 
 
