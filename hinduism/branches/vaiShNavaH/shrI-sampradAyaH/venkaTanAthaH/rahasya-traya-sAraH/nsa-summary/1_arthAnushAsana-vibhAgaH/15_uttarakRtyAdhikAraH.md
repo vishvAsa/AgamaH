@@ -37,7 +37,8 @@ These and others such statements of the spiritual saints show how one should spe
 
 Such a prapanna should not desire for any gain other than the grace of the Lord and blissful service to Him. When he is performing promptly the duties of his station in life i.e. varnashrama-dharma, he should not have any sense of his supremacy and excellence over others that he has been very righteous. He must have a feeling of utter humility, and he must realise that he is totally at the disposal of that Supreme Paramatman always.
 
-'पत्युः प्रजानामैश्वर्यं पशूनां वा न कामये'
+'पत्युः प्रजानाम् ऐश्वर्यं  
+पशूनां वा न कामये'
 
 He must not aspire for the glory of either Prajapati or Rudra, while going through the routine disciplines related to his duties in life. He must approach people who are knowledgeable for solving the doubts he may have regarding his duties.
 
@@ -45,11 +46,19 @@ He should have no disregard regarding things that he does not know under the pre
 
 The following statements substantiate their state of life:
 
-वर्तमानः सदा चैवं पाचकालिकवर्त्मना । स्वार्जितैः गन्धपुष्पाद्यैः शुभैः शक्त्यनुरूपतः ।। आराधयन् हरिं भक्त्या गमशिष्यामि वसारान् ।
+वर्तमानः सदा चैवं  
+पाचकालिक-वर्त्मना+++(??)+++ ।  
+स्वार्जितैः गन्धपुष्पाद्यैः  
+शुभैः शक्त्य्-अनुरूपतः ।।  
+आराधयन् हरिं भक्त्या  
+गमयिष्यामि वसारान् ।
 
 "Being a follower of the path of the five-fold duties (Panchakalika-karma), I shall worship with supreme devotion that Supreme Lord with flowers, sandal and other articles of worship earned by me and according to my ability. I shall serve Him alone, and pass the days." - A person should not beg of the Supreme Paramatman - Maha-Vishnu - anything other than devotion towards His feet and supreme knowledge of His nature. If he begs thus, he will certainly get destroyed!
 
-तत्पादभक्तिज्ञानाभ्यां फलमन्यत्कदाचन । न याचेत्पुरुषो विष्णुं याचनानश्यति ध्रुवम् ॥
+तत्-पाद-भक्ति-ज्ञानाभ्यां  
+फलम् अन्यत् कदाचन ।  
+न याचेत् पुरुषो विष्णुं  
+याचनान् नश्यति ध्रुवम् ॥
 
 A person who has unburdened himself of the responsibility of his protection, should practise divine service here which will be a kind of probation for the eternal service of the Lord, when he attains the Supreme Abode, after the fall of his body. Tirumalizai Alwar exults that he spent his time usefully by studying the shastras for his atma-dharana, gecting instructions from the Acharyas, offering obeisance to the Acharyas, and leading the life in a virtuous way and worshipping with supreme love the Lord of all (Thiruvandadi 63).
 
@@ -68,18 +77,24 @@ Other post-prapatti-duties that are pointed out in this section by Desika, may b
 3. A prapanna is ordained to perform the duties of his station in life i.e. varnashrama-dharma, sincerely according to his ability. 
 4. A prapanna should be very careful regarding his conduct in this world. Never should he think of himself as superior to others. He should be always humble in his attitude and should consider himself as lowest of the low. He should not also think of others as inferiors full of defects. He should tread his path in this world very carefully, being divested of 'ahankara' and 'mamakara' on account of his attainments. A prapanna should always remember his 'akinchanatva' or utter helplessness though he has gained his salvation by the grace of the Lord. He must always reflect on the following lines -
 
-अहमसम्यपराधानां आलयोऽकिञ्चनोऽगतिः
+अहम् अस्म्य् अपराधानां  
+आलयो ऽकिञ्चनो ऽगतिः
 
 "I am the home of all offences and I am utterly helpless. I am without any support."
 
 As Nammalvar says "I have not performed karmayoga and others. I have no knowledge of atman. But yet, I know nobody other than yourself for saving me. You are the only goal for me." (Thiruvoimoli 5.7.1)
 
-"What can I do? Who is to save me? What are you going to do with me? I know nobody other than yourself." (Thiruvoimoli 5.8.3) . A number of such statements of the Mystic seers, make it clear that this mode of Cakinchanya' should be reflected upon.
+"What can I do? Who is to save me? What are you going to do with me? I know nobody other than yourself." (Thiruvoimoli 5.8.3) . A number of such statements of the Mystic seers, make it clear that this mode of 'akinchanya' should be reflected upon.
 
 When one has performed prapatti, and won the grace of the Lord, he should not brood over the past and get dejected on account of the unfitness he had from beginningless time. When the Lord has granted him refuge and when all his past sins have been divested of him by the grace of the Lord, he should not grieve over his past; but, feel solace that he has got rid of all that by the grace of the Lord and so he should engage with all ferver in loving service of the Lord. 6. A prapanna should subdue his sense organs and engage them in the loving service of the Lord. The duties of his varna and ashrama that are performed, should be done purely for pleasing the Lord and not for any other benefit. The shastras should be strictly followed, but never for attaining any other benefit. A prapanna should engage himself in the divine service of the ‘archa' incarnation of the Lord, so long as he is stationed in this world. He should have the idea that the Lord himself is fully present in the Archa, and that the very worship of the Lord would free one from all great sins and sub-sins. When one has a vision of the Lord in archa-form all kinds of illusions and erroneous impressions through various causes get totally destroyed. The Lord says in the Gita that he would show himself to his devotees in the very same form through which he will be worshipping Him. One should with great love and affection worship the Lord in the Archa-form.
 
 It is pointed out here by Desika that this kind of worship should be rendered with articles of worship that are earned by a righteous way (Nyayarjita).
 
-In the end, it is pointed out that a prapanna should ever be full of gratitude towards his preceptor and towards the Supreme Paramatman, who is the general cause of everything in this universe. Desika points out that a prapanna should note what should be discarded mainly and what should be entertained mainly - 1. What one should discard totally is 'vishaya-swada' or experience of the sense objects. 2. One should discard totally 'atmotkarsha' or his own celebrity 3. The most dangerous offence viz. offence towards knowers of Brahman, is to be totally discarded. What one has to entertain always is as follows: The supreme benefaction done by the Acharya beginning with the 'prathama-kataksha' or primary look of compassion and showing the pathway of salvation. And the most important duty that is to be done is service to the Lord culminating in the loving service to the Bhagavathas such as Acharya and others. 2.
+In the end, it is pointed out that a prapanna should ever be full of gratitude towards his preceptor and towards the Supreme Paramatman, who is the general cause of everything in this universe. Desika points out that a prapanna should note what should be discarded mainly and what should be entertained mainly - 
+1. What one should discard totally is 'vishaya-swada' or experience of the sense objects.  
+2. One should discard totally 'atmotkarsha' or his own celebrity  
+3. The most dangerous offence viz. offence towards knowers of Brahman, is to be totally discarded. 
 
-It is ordained that one should reflect on the inescable relationship of himself with the Supreme Paramatman everyday, in the supreme Mulamantra as a lover would see herself and the reflection of her lover in a cleaned mirror. The jiva who is signified by the term 'Ma' enjoys the vision of Paramatman signified by the letter Aa', as seen in the mirror, when that lover appears before her and the dative case of the term 'Narayana' implies that he is subservient only to that Supreme Narayana and not for himself. Thus, the truths expounded in this chapter, are to be reflected in the Mulamantra.
+What one has to entertain always is as follows: The supreme benefaction done by the Acharya beginning with the 'prathama-kataksha' or primary look of compassion and showing the pathway of salvation. And the most important duty that is to be done is service to the Lord culminating in the loving service to the Bhagavathas such as Acharya and others. 2.
+
+It is ordained that one should reflect on the inescable relationship of himself with the Supreme Paramatman everyday, in the supreme Mulamantra as a lover would see herself and the reflection of her lover in a cleaned mirror. The jiva who is signified by the term 'Ma' enjoys the vision of Paramatman signified by the letter 'Aa', as seen in the mirror, when that lover appears before her and the dative case of the term 'Narayana' implies that he is subservient only to that Supreme Narayana and not for himself. Thus, the truths expounded in this chapter, are to be reflected in the Mulamantra.
