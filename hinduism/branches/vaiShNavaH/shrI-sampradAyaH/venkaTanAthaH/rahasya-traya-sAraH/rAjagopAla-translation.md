@@ -466,9 +466,9 @@ XL BOOKS CONSULTED
 
 Sri Bhasbya: Rabasyatrayagara : Sri Lokacharya's Tattva. traya. Sri Vachadabboosbaba, and Mumukshuppadi with the commentaries of Sri Manavalamamudi: Yateendramata deepika (of Srinivasadasa): P. Otto Schroder's Introduction to Pancharatra and the Ahirbudhoya Saushita : Abirbadboya Sarbita : Sri T. Rajagopalachariar's Vaishoavite Reformers of South India' (G. A. Natesan and Co). The commentaries of Chetlar Nara simhachariar Swawi and Saraswadini. 
 
-CONTENTS. 
+### CONTENTS. 
 
-INTRODUCTION 
+#### INTRODUCTION 
 
 Pages. 
 
@@ -478,95 +478,81 @@ A brief account of the succession of Acharyas. The Acharya essential for moksha 
 
 1 to 10 
 
-CHAPTER 1. Introductory me 
+#### CHAPTER 1. Introductory - 
 
 The heritage of the Jivātmā apd bow be lost it. The parable of the prince brought up by huntsmen - The appli. cability of the parable to the Jiva - His rescue by the Guru. 
 
-11 to 17 CHAPTER II. The Determination of what is best : 
+11 to 17 
+
+#### CHAPTER II. The Determination of what is best : 
 
 The three Mantras . Their great value. The only Pramüra in regard to moksha add to the means of attaid. ing it is Sastra . The importance of the three Mantras. 18 to 21 
 
-CHAPTER III. The most important and distinctive 
+#### CHAPTER III. The most important and distinctive doctrine that is unique to Visishtādvaita
 
-doctrine that is unique to Visishtād. 
-
-vaita: What is a s'arira and what is a Sarīrī? Adhāra and Niyanta - Iswara's support by His svarupa and by His will (sankalpa). The consequences of this knowledge. The meaning of sesha-s'eshi bhāva - The presence of these ideas in the three mantras - Seshatva means dasatva in regard to Chetanas. 
+What is a s'arira and what is a Sarīrī? Adhāra and Niyanta - Iswara's support by His svarupa and by His will (sankalpa). The consequences of this knowledge. The meaning of sesha-s'eshi bhāva - The presence of these ideas in the three mantras - Seshatva means dasatva in regard to Chetanas. 
 
 22 to 31 
 
-CHAPTER IV. The five things that every seeker after 
+#### CHAPTER IV. The five things that every seeker after salvation should know
+Some speak of five things and some of six but there is Do real difference between them. (1) The object of attaid. ment is Bhagavan who is ever associated with Sri. Bhagavan bas innumerable auspicious qualities . He has a divine and auspicious form (vigraha); (2) The nature of the individual self; (3) The means of attainment; (4) The nature of moksha; (5) The bindrances to attainment and how to get rid of the hindrapces. 
 
-salvation should know : Some speak of five things and some of six but there is Do real difference between them. (1) The object of attaid. ment is Bhagavan who is ever associated with Sri. Bhagavan bas innumerable auspicious qualities . He has a divine and auspicious form (vigraha); (2) The nature of the individual self; (3) The means of attainment; (4) The nature of moksha; (5) The bindrances to attainment and how to get rid of the hindrapces. 
-
-32 to 47XLi CHAPTER V. The three 'Reals' or Tattvas: 
+32 to 47
+#### CHAPTER V. The three 'Reals' or Tattvas: 
 
 Classification of tattvas or reals' and its use - The Jiva or experiencing subject. The nature of the Jiva ( baddhas, muktas and nitras) . dharma bhūtajnana - the three kinds of pop-septient ibidge (stiddhasattvam; prakriti ; its essential pature and activity - Kala or Time ) Tswara :- His svarüpa and qualities. His rūpas or forms ; (11 Para; (2) Vyuhas; (3) Vibhavas; (4) Archā; and (5) Härda - The nature of the Avatārs - Laksmi; Her status and role. Other classifications of the tattvas. 48 to 71 
 
-CHAPTER VI. The truth concerning the Supreme Deity: 
+#### CHAPTER VI. The truth concerning the Supreme Deity: 
 
 Why should we determine this? Brabma, Rudra and other gods are created beings . They are the servants of Bhagavan and Bhagavan's prakāras or modes - The aspirant to mukti sbould worship only Bhagavan - The boons granted by other deities are dependent on the grace of Bhagavan. 72 to 87 
 
-CHAPTER VII. The Aspiration for mukti : 
+#### CHAPTER VII. The Aspiration for mukti : 
 
 The study of the differences among the three Reals leads to an aversion from the pleasures of this world and of svarga . The study of the meaning of Tirumantra roots ont the notions of 'I' and 'mine' in regard to our possessions, our body, our actions and their results. From these arises the desire for mukti. 
 
 88 to 98 
 
-CHAPTER VIII. The classification of qualified persons: 
+#### CHAPTER VIII. The classification of qualified persons: 
 
 The Bhakta and the Prapanna, ukti nishta and Acharya nishta modes of prapatti; residence in holy places and the like only aids to the above; difference between Bhakta and Prapanna ; but the final fruit vit., moksha the same for both bhakta and prapanna. 94 to 102 
 
-CONTENTS 
+#### CHAPTER IX. The classification of the means or upāya for attainning mukti, Upaya and upcya
+Bhagavan is both upaya and upeya ; karma yoga, jnana yoga and bhakti yoga; bhakti and prapatti; the difference between them. 103 to 110 
 
-. 
-
-Lii 
-
-Pages 
-
-CHAPTER IX. The classification of the means or 
-
-upāya for attainning mukti, 
-
-Upaya and upcya; Bhagavan is both upaya and upeya ; karma yoga, jnana yoga and bhakti yoga; bhakti and prapatti; the difference between them. 103 to 110 
-
-CHAPTER X. The fitness for Prapatti : 
+#### CHAPTER X. The fitness for Prapatti : 
 
 The meaning of competency or adhikära; akinchanya and ananyagatitva; their need and the pramānas in sopport - Prapatti open to all, 
 
 111 to 114 
 
-CHAPTER XI. The classification of accessories or 
-
-angas: - The angas or accessories of prapatti, ünukulya - Sankalpa and prätikulyavarjana, kārpanyant, mahūvis. wäsa, goptritva varanjam; illustrations of the presence of these five angas in well-known acts of saranagati ; the presence of these angas and the angi in Dvaya , the five doubts concerning the efficacy of prapatti and their clarification. 
+#### CHAPTER XI. The classification of accessories or angas
+The angas or accessories of prapatti, ünukulya - Sankalpa and prätikulyavarjana, kārpanyant, mahūvis. wäsa, goptritva varanjam; illustrations of the presence of these five angas in well-known acts of saranagati ; the presence of these angas and the angi in Dvaya , the five doubts concerning the efficacy of prapatti and their clarification. 
 
 115 to 126 
 
-CHAPTER XII. The Performance of Prapatti with its 
+#### CHAPTER XII. The Performance of Prapatti with its angas
+The nature of the angi (prapatti); the manner of performing bharanyāsa ; Iswara the principal beneficiary, the true meaning of Alavandar's slokas (52 and 53) in connection with bharanyasa; the presence of the idea of bharasamarpanam in Duaya ; prapatti a momentary act; a brief statement of the nature of bharasamarpanam; Nadathur Ammal's summary of the meaning of prapatti; prapatti with its angas to be performed only once. 127 to 136 
 
-angas: The nature of the angi (prapatti); the manner of performing bharanyāsa ; Iswara the principal beneficiary, the true meaning of Alavandar's slokas (52 and 53) in connection with bharanyasa; the presence of the idea of bharasamarpanam in Duaya ; prapatti a momentary act; a brief statement of the nature of bharasamarpanam; Nadathur Ammal's summary of the meaning of prapatti; prapatti with its angas to be performed only once. 127 to 136 
+XLIV Pages. 
 
-XLIV Pages. CHAPTER XIII. The man who has done what ought 
-
-to be done: - The prapanna as one who has done what he onght to do and has won his goal; illustration from Sri Ramapuja's Saranăgatigadya ; the marks of the men wbo bas done what be ougbt to do. 
+#### CHAPTER XIII. The man who has done what ought to be done
+The prapanna as one who has done what he onght to do and has won his goal; illustration from Sri Ramapuja's Saranăgatigadya ; the marks of the men wbo bas done what be ougbt to do. 
 
 136 to 140 
 
-CHAPTER XIV. The marks or signs by which one can 
+#### CHAPTER XIV. The marks or signs by which one can recognise that one is in the proper state or nishti 
+Signs of steadfastness in regard to (1) tattva, (2) hita or upāya and (3) purushärtha or goal of attainment; the consequence of the knowledge of this steadfastness. 141 to 146 
 
-recognise that one is in the proper 
+#### CHAPTER XV. The manner in which one should conduct oneself after prapatti
+Reflection on Bhagavan and His attributes; the com panionship of those who are solely and exclusively devoted to Bhagavad ; consciousness of one's helplessness; service to archā; gratefulness to Bhagavad; wbat ought to be done and what ought not to be done with the mind, the speech and the body. 
 
-state or nishti : Signs of steadfastness in regard to (1) tattva, (2) hita or upāya and (3) purushärtha or goal of attainment; the consequence of the knowledge of this steadfastness. 141 to 146 
+147 to 159 
 
-CHAPTER XV. The manner in which one should con 
+#### CHAPTER XVI. The farthest extent of our ultimate object in life
+Reasons for rendering service to Bhagavatas; God's appreciation of the service ren lered to Bhagavatas : Bhagavatas are s'eshas to one anoiber; the consequences arising from service to Bhagavatas. 
 
-duct oneself after prapatti : Reflection on Bhagavan and His attributes; the com panionship of those who are solely and exclusively devoted to Bhagavad ; consciousness of one's helplessness; service to archā; gratefulness to Bhagavad; wbat ought to be done and what ought not to be done with the mind, the speech and the body. 
-
-147 to 159 CHAPTER XVI. The farthest extent of our ultimate 
-
-object in life: Reasons for rendering service to Bhagavatas; God's appreciation of the service ren lered to Bhagavatas : Bhagavatas are s'eshas to one anoiber; the consequences arising from service to Bhagavatas. 
-
-160 to 167. CHAPTER XVII. T'he Ordinances imposed by the Sästras: 
+160 to 167. 
+#### CHAPTER XVII. T'he Ordinances imposed by the Sästras 
 
 Süstra the true guide of the prapanna in this life; Sri 
 
@@ -578,31 +564,32 @@ CONTENTS
 
 XLY 
 
-Pages. CHAPTER XVIIT. Atonement for offences : 
+Pages. 
+#### CHAPTER XVIIT. Atonement for offences : 
 
 The prapanna not likely to offend; If offences occur, prayas chitta necessary; the prapanna will never, in any case, go to the world of Yama; the view that even delibe. rate offences of the prapanna will not have adverse results untenable: the nature of the prapanna's prayaschitta ; illustrations; the heinousness of offences against Bhaga. vatas; necessity of securiog their pardon, 
 
-176 to 189 CHAPTER XIX. The places suitable for the prapanna's 
+176 to 189 
 
-residence. Places suited to the residence of the prapanna; the places where Bhagavatas dwell most suitable; the holy places where Bhagavad is worshipped in temples specially suitable. 
+#### CHAPTER XIX. The places suitable for the prapanna's residence.
+Places suited to the residence of the prapanna; the places where Bhagavatas dwell most suitable; the holy places where Bhagavad is worshipped in temples specially suitable. 
 
 190 to 195 
 
-CHAPTER XX. The departure of the self from the body: 
+#### CHAPTER XX. The departure of the self from the body: 
 
 The delay in the attainment of the goal; the time of death of no consequence; the process of the self leaving ihe body; the path of the journey after departure; the last remenabrance. 
 
 196 to 207 
 
-CHAPTER XXI. The Prescribed Route: 
+#### CHAPTER XXI. The Prescribed Route: 
 
 The route called Archiradi and the Atiralikas who escort the soul; entertainment on the way; the study of other routes not necessary; the meditation on the route how useful to the prapanna, 
 
 208 to 214 
 
-CHAPTER XXII. The full and perfect enjoyment of the 
-
-bliss of Brahman : The nature of the bliss of Brahman; full and perfect enjoyment of Bhagavan overflows into kainkarya or service; no degrees or differences in the bliss. enjoyed by muktas; refutation of the Advaitic doctrine of the identity of the 'self and Brabman, the mukta will never return to samsūra, 
+#### CHAPTER XXII. The full and perfect enjoyment of the bliss of Brahman
+The nature of the bliss of Brahman; full and perfect enjoyment of Bhagavan overflows into kainkarya or service; no degrees or differences in the bliss. enjoyed by muktas; refutation of the Advaitic doctrine of the identity of the 'self and Brabman, the mukta will never return to samsūra, 
 
 Sloka summarising Part I- Appendix on the Visa. khastambha, 
 
@@ -610,13 +597,12 @@ Sloka summarising Part I- Appendix on the Visa. khastambha,
 
 ILVI PART II. 
 
-CHAPTER XXIII. The clarification of what is meant 
+#### CHAPTER XXIII. The clarification of what is meant by the upāya that is already existent (Siddhopāya) 
+Recapitulation of the contents of the First Part; three caused by which the Lord's grace is won ; how infidelity arises and how it should be resisted. Doubts and tbeir clarification (1) Is the adoption of the upāya necessary at all? (2) Is there any iDjanction or vidhi enjoining its performance ? (3) The statement of some that prapatti is no upāya is only to stress the importance of siddhopāya ; (4) Is prapatti inconsistent with one's relationship to the Seshi? (5) Lakshmi is as wuch upāya as the Lord. This does not mean two upāyas. 
 
-by the upāya that is already exis. 
+231 to 266 
 
-tent (Siddhopāya) gm Recapitulation of the contents of the First Part; three caused by which the Lord's grace is won ; how infidelity arises and how it should be resisted. Doubts and tbeir clarification (1) Is the adoption of the upāya necessary at all? (2) Is there any iDjanction or vidhi enjoining its performance ? (3) The statement of some that prapatti is no upāya is only to stress the importance of siddhopāya ; (4) Is prapatti inconsistent with one's relationship to the Seshi? (5) Lakshmi is as wuch upāya as the Lord. This does not mean two upāyas. 
-
-231 to 266 CHAPTER XXIV. The clarification of what is meant 
+#### CHAPTER XXIV. The clarification of what is meant 
 
 by Sadhyopaya or the upāya that 
 
@@ -694,62 +680,194 @@ CHAPTER XXXII. Conclusion:
 
 Topics treated in the book in the respective chaptera ; the good results that will follow from a study of this treatise. 
 
-The pronounciation of Sanskrit words printed in italics in the body of the translation of the text. 
+### ERRATA.
 
-Should be pronounced 
+The reader is requested to make these corrections before reading the book.
 
-as the vowel or conso Vowels 
+Page
 
-nent sound in the Devanagari 
+Line
 
-English word corresponds to 
+For
 
-up father bit see 
+Read
 
-4 a ona ay 
+INTRODUCTION :
 
-put 
+V Last line reverance
 
-too 
+reverence VII 25
 
-* 
+Saranāgati Saraṇāgati deepika
 
-came fine code crowd 
+panchūs at X 13
 
-Consonants 
+Visistadvaita
 
-kitten 
+Visishtadvaita XIX 5
 
-***** 
+imcomparable incomparable vibhuti
 
-thiag 
+vibhūti .do -
 
-c or cha 
+. do . 25 bas exhibits
 
-chit 
+exhibits XX Lines 6 & 7
 
-ch 
+from below sārira-sūriri-bhāva sarira sariribhāva XXII 25
 
-| 11211110191118 
+Southen
 
-join 
+Southern XXIV 22
 
-tin 
+vibhava lokūs vibhava-lokas vyuha lokās
 
-good 
+vyūha lokas vyuha
 
-turn 
+vyūha
 
-path 
+25
 
-then 
+TEXT:
 
-name pit 
+13
 
-bet 
+18
 
-sbine mia 
+and hita latter Shine actively tamas). Time
 
+Visistadvaitinms are others like the that felt
+
+and hita ( later Thine Activity tamis), Time Visishtadvaitins are, like others, the the yearning felt
+
+18
+
+Footnote
+
+108
+
+Page
+
+Line
+
+For
+
+Read
+
+155
+
+qolities
+
+163 170
+
+174 183 220 261 278
+
+310 328
+
+331 333 343 352
+
+358
+
+360
+
+qualities Footnote 11. Amlanadipiran Amalapadipiran 20
+
+& queen who
+
+& queen, who 21
+
+unworthy would unworthy, would 1
+
+give the delight give Thee delight 16
+
+life?
+
+life. tome
+
+some 25
+
+which says
+
+which say mukti
+
+mukta Footnote Tirumali
+
+Tirumalai bhakti on prapatti bhakti or prapatti charma sloka
+
+charama sloka Bramā pralaya Brahmā pralaya furtune
+
+fortune Last line praying for
+
+desire for Footnote page
+
+page 256 15.20 After the word "following" . josert "as
+
+stated in the Tattvasāgarasamhita and the like" and delete these words after
+
+tattvas or reals in line 20. 19
+
+srabdha
+
+sabda Footnoto pharse
+
+phrase 10
+
+ear
+
+fear 0
+
+-- that in the body was that in the body,
+
+brought
+
+that brought 25
+
+They ere
+
+They are bhayānka
+
+bhayānaka 6 (Para 2) Katjavalli
+
+Kațavalli 9.10 insert the following after words' in line 9
+
+and before in the gadya) in line 10: "I who am without any other protector. The words
+
+361
+
+365 413 417
+
+31
+
+424Page
+
+Line
+
+For
+
+Read
+
+all
+
+435 Note 448 line 8 4596 517 line 2
+
+(Para 2) 531
+
+also or accessories requirements (opp.
+
+or accessories) requirements, (on p. 447)
+
+of which are botb of which are of the the nature of karma nature of karma and of and those
+
+oply thoso and the like
+
+and the like take this route
+
+548 Note » on
+
+6
+
+## १ अर्थानुशासन-विभागः
+### ०० श्रीगुरुपरंपरासारः
 SRIMAD RAHASYATRAYASABA 
 
 A BRIEF ACCOUNT 
@@ -9038,188 +9156,3 @@ This treatise, “The Gist of the Three Mantras or Mysteries" was composed in br
 
 Here ends the fourth part called " The path of Spiritual Tradition." 
 
-ERRATA. 
-
-The reader is requested to make these corrections before reading the book. 
-
-Page 
-
-Line 
-
-For 
-
-Read 
-
-INTRODUCTION : 
-
-V Last line reverance 
-
-reverence VII 25 
-
-Saranāgati Saraṇāgati deepika 
-
-panchūs at X 13 
-
-Visistadvaita 
-
-Visishtadvaita XIX 5 
-
-imcomparable incomparable vibhuti 
-
-vibhūti .do - 
-
-. do . 25 bas exhibits 
-
-exhibits XX Lines 6 & 7 
-
-from below sārira-sūriri-bhāva sarira sariribhāva XXII 25 
-
-Southen 
-
-Southern XXIV 22 
-
-vibhava lokūs vibhava-lokas vyuha lokās 
-
-vyūha lokas vyuha 
-
-vyūha 
-
-25 
-
-TEXT: 
-
-13 
-
-18 
-
-and hita latter Shine actively tamas). Time 
-
-Visistadvaitinms are others like the that felt 
-
-and hita ( later Thine Activity tamis), Time Visishtadvaitins are, like others, the the yearning felt 
-
-18 
-
-Footnote 
-
-108 
-
-Page 
-
-Line 
-
-For 
-
-Read 
-
-155 
-
-qolities 
-
-163 170 
-
-174 183 220 261 278 
-
-310 328 
-
-331 333 343 352 
-
-358 
-
-360 
-
-qualities Footnote 11. Amlanadipiran Amalapadipiran 20 
-
-& queen who 
-
-& queen, who 21 
-
-unworthy would unworthy, would 1 
-
-give the delight give Thee delight 16 
-
-life? 
-
-life. tome 
-
-some 25 
-
-which says 
-
-which say mukti 
-
-mukta Footnote Tirumali 
-
-Tirumalai bhakti on prapatti bhakti or prapatti charma sloka 
-
-charama sloka Bramā pralaya Brahmā pralaya furtune 
-
-fortune Last line praying for 
-
-desire for Footnote page 
-
-page 256 15.20 After the word "following" . josert "as 
-
-stated in the Tattvasāgarasamhita and the like" and delete these words after 
-
-tattvas or reals in line 20. 19 
-
-srabdha 
-
-sabda Footnoto pharse 
-
-phrase 10 
-
-ear 
-
-fear 0 
-
--- that in the body was that in the body, 
-
-brought 
-
-that brought 25 
-
-They ere 
-
-They are bhayānka 
-
-bhayānaka 6 (Para 2) Katjavalli 
-
-Kațavalli 9.10 insert the following after words' in line 9 
-
-and before in the gadya) in line 10: "I who am without any other protector. The words 
-
-361 
-
-365 413 417 
-
-31 
-
-424Page 
-
-Line 
-
-For 
-
-Read 
-
-all 
-
-435 Note 448 line 8 4596 517 line 2 
-
-(Para 2) 531 
-
-also or accessories requirements (opp. 
-
-or accessories) requirements, (on p. 447) 
-
-of which are botb of which are of the the nature of karma nature of karma and of and those 
-
-oply thoso and the like 
-
-and the like take this route 
-
-548 Note » on 
-
-6
