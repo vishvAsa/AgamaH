@@ -2,8 +2,6 @@
 title = "१५ उत्तरकृत्याधिकारः"
 
 +++
-
-
 161
 
 CHAPTER - XV Uttarakrityadhikara
@@ -12,23 +10,12 @@ In this section, the duties that are to be performed by a prapanna, after prapat
 
 In the introductory verse of this section, Desika points out the duties to be performed after surrendering oneself to the Lord, as follows:
 
-सन्तोषार्थं विमृशति मुहुः सद्भिरध्यात्मविद्यां नित्यं ब्रूते निशमयति च स्वादु सुव्याहतानि ।
+सन्तोषार्थं विमृशति मुहुः सद्भिरध्यात्मविद्यां नित्यं ब्रूते निशमयति च स्वादु सुव्याहतानि ।  
+अङ्गीकुर्वन्ननघललितां वृत्तिमादेहपातात् दृष्टादृष्टस्वभरविगमे दत्तदृष्टिः प्रपन्नः ।। 
 
-162
+He will again and again study and reflect over the truths of 'adhyathma-vidya' i.e. the great Sri Bhashya as propounded by Bhagavan Ramanuja on the three foundational texts of vedanta for the purpose of deriving joy caused by the experience of the auspicious qualities of the Paramatman i.c., santhoshartham. As he has already completed his spiritual discipline and as he may not need the knowledge of this vedanta for adopting a spiritual means, he is advised to undertake such study for 'bhagavat kalyana-guna-anubhava' or enjoying the auspicious qualities of the Supreme Paramatman, which itself is of supreme benefit. This study is to be undertaken along with those who are well versed in the truths expounded in Sri Bhashya and other works. Desika points out that this kind of study should be undertaken again and again so that he may be firmly established in that Supreme Paramatman. If one is not that capable as to go into the study of Sri Bhashya, he is advised to recite the nectar like hymns of the Alwars, such as Nammalwar and others. The soul stirring utterances of the God-intoxicated Alwars arc more pleasing to an aspirant to a greater extent than even the compositions of Parashara and others, as they are composed in the spoken language of the masses, understandable to all. This is to be undertaken as 'swayam-prayojana' and these should be heard from teachers or taught to disciples.
 
-Essence of Srimad Rahasyattaya Saram
-
-1.
-
-अङ्गीकुर्वन्ननघललितां वृत्तिमादेहपातात् दृष्टादृष्टस्वभरविगमे दत्तदृष्टिः प्रपन्नः ।। He will again and again study and reflect over the truths of 'adhyathma-vidya' i.e. the great Sri Bhashya as propounded by Bhagavan Ramanuja on the three foundational texts of vedanta for the purpose of deriving joy caused by the experience of the auspicious qualities of the Paramatman i.c., santhoshartham. As he has already completed his spiritual discipline and as he may not need the knowledge of this vedanta for adopting a spiritual means, he is advised to undertake such study for 'bhagavat kalyana-guna-anubhava' or enjoying the auspicious qualities of the Supreme Paramatman, which itself is of supreme benefit. This study is to be undertaken along with those who are well versed in the truths expounded in Sri Bhashya and other works. Desika points out that this kind of study should be undertaken again and again so that he may be firmly established in that Supreme Paramatman. If one is not that capable as to go into the study of Sri Bhashya, he is advised to recite the nectar like hymns of the Alwars, such as Nammalwar and others. The soul stirring utterances of the God-intoxicated Alwars arc more pleasing to an aspirant to a greater extent than even the compositions of Parashara and others, as they are composed in the spoken language of the masses, understandable to all. This is to be undertaken as 'swayam-prayojana' and these should be heard from teachers or taught to disciples.
-
-2.
-
-Urtarakrityadhikara
-
-163
-
-A prapanna should follow the course of his life which is pious and godly, so long as he is placed here in this world, and he must always think that there is no responsibility of his, either in things that are perceived or those that are not perceived (drishta or adrishta); what is perceived here is going on according to his past karma and what is unseen, is in the hands of Paramatman, who has taken over the burden of his protection. So, he need not worry for anything at all.
+2. A prapanna should follow the course of his life which is pious and godly, so long as he is placed here in this world, and he must always think that there is no responsibility of his, either in things that are perceived or those that are not perceived (drishta or adrishta); what is perceived here is going on according to his past karma and what is unseen, is in the hands of Paramatman, who has taken over the burden of his protection. So, he need not worry for anything at all.
 
 Having summarised the main features of the post prapatti duties like this, Desika claborates these points with a number of illustrations. A prapanna, who is a 'kritakritya', and who has known his ‘nishta' or steadfastness, has in one way severed his relation with the world and in one way continuing the relationship with the world. He is here ordained to be for sometime, by the Lord, and whatever he acts should be 'swayam-prayojana' or for the sole purpose of pleasing the Lord, just like the loving service of the liberated which is most pleasing to them.
 
@@ -80,27 +67,12 @@ Poigai Alwar says "my mouth does not praise any one other than my Supreme Lord. 
 
 Desika has profusely quoted from the hymns of the mystic Alwars to show the ways of post-prapatti-duties in this section. It bec...nes established from all these that a prapanna will lead a supremely devoted life that is always full of divine consciousness and devotes his period of stay here to the loving service of Paramatman.
 
-Other post-prapatti-duties that are pointed out in this section by Desika, may be sunmarised as below: 1. A prapanna should approach his preceptors and gain
+Other post-prapatti-duties that are pointed out in this section by Desika, may be sunmarised as below: 
 
-enlightenment as regards the truths that he has not
-
-Uttarakrityadhikara
-
-167
-
-known. He should not be indifferent or disinterested in gaining such knowledge on the pretext that he is a kritakritya. It is ordained that at any state of life, even in his last stage of life, one should seek knowledge of
-
-Paramatman and devotion towards His fect. 2. A prapanna should seek the company of pious and
-
-godly people, who are well established in divine experience and devotion to Lord. The very glances of
-
-such pious people purify all sins. 3. A prapanna is ordained to perform the duties of his
-
-station in life i.e. varnashrama-dharma, sincerely
-
-according to his ability. 4. A prapanna should be very careful regarding his
-
-conduct in this world. Never should he think of himself as superior to others. He should be always humble in his attitude and should consider himself as lowest of the low. He should not also think of others as inferiors full of defects. He should tread his path in this world very carefully, being divested of 'ahankara' and 'mamakara' on account of his attainments. A prapanna should always remember his 'akinchanatva' or utter helplessness though he has gained his salvation by the grace of the Lord. He must always reflect on the following lines -
+1. A prapanna should approach his preceptors and gain enlightenment as regards the truths that he has not known. He should not be indifferent or disinterested in gaining such knowledge on the pretext that he is a kritakritya. It is ordained that at any state of life, even in his last stage of life, one should seek knowledge of Paramatman and devotion towards His fect. 
+2. A prapanna should seek the company of pious and godly people, who are well established in divine experience and devotion to Lord. The very glances of such pious people purify all sins. 
+3. A prapanna is ordained to perform the duties of his station in life i.e. varnashrama-dharma, sincerely according to his ability. 
+4. A prapanna should be very careful regarding his conduct in this world. Never should he think of himself as superior to others. He should be always humble in his attitude and should consider himself as lowest of the low. He should not also think of others as inferiors full of defects. He should tread his path in this world very carefully, being divested of 'ahankara' and 'mamakara' on account of his attainments. A prapanna should always remember his 'akinchanatva' or utter helplessness though he has gained his salvation by the grace of the Lord. He must always reflect on the following lines -
 
 अहमसम्यपराधानां आलयोऽकिञ्चनोऽगतिः
 
@@ -110,9 +82,7 @@ As Nammalvar says "I have not performed karmayoga and others. I have no knowledg
 
 "What can I do? Who is to save me? What are you going to do with me? I know nobody other than yourself." (Thiruvoimoli 5.8.3) . A number of such statements of the Mystic seers, make it clear that this mode of Cakinchanya' should be reflected upon.
 
-When one has performed prapatti, and won the grace of the Lord, he should not brood over the past and get dejected on account of the unfitness he had from beginningless time. When the Lord has granted him refuge and when all his past sins have been divested of him by the grace of the Lord, he should not grieve over his past; but, feel solace that he has got rid of all that by the grace of the Lord and so he should engage with all ferver in loving service of the Lord. 6. A prapanna should subdue his sense organs and engage
-
-them in the loving service of the Lord. The duties of his varna and ashrama that are performed, should be done purely for pleasing the Lord and not for any other benefit. The shastras should be strictly followed, but never for attaining any other benefit. A prapanna should engage himself in the divine service of the ‘archa' incarnation of the Lord, so long as he is stationed in this world. He should have the idea that the Lord himself is fully present in the Archa, and that the very worship of the Lord would free one from all great sins and sub-sins. When one has a vision of the Lord in archa-form all kinds of illusions and erroneous
+When one has performed prapatti, and won the grace of the Lord, he should not brood over the past and get dejected on account of the unfitness he had from beginningless time. When the Lord has granted him refuge and when all his past sins have been divested of him by the grace of the Lord, he should not grieve over his past; but, feel solace that he has got rid of all that by the grace of the Lord and so he should engage with all ferver in loving service of the Lord. 6. A prapanna should subdue his sense organs and engage them in the loving service of the Lord. The duties of his varna and ashrama that are performed, should be done purely for pleasing the Lord and not for any other benefit. The shastras should be strictly followed, but never for attaining any other benefit. A prapanna should engage himself in the divine service of the ‘archa' incarnation of the Lord, so long as he is stationed in this world. He should have the idea that the Lord himself is fully present in the Archa, and that the very worship of the Lord would free one from all great sins and sub-sins. When one has a vision of the Lord in archa-form all kinds of illusions and erroneous
 
 Uttarakrityadhikara
 
