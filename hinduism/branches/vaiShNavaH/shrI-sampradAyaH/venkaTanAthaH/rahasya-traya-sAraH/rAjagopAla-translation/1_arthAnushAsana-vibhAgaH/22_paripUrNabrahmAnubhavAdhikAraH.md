@@ -12,7 +12,7 @@ ENJOYMENT OF THE BLISS OF BRAHMAN.
 
 SANSKRIT SLOKA: 
 
-Led by his guides (archis and others) to the Lord of Lakshmi who is possessed of varied glories in the region beyond tamas (i e.) prakriti and having attained Him, the mukta has bis essential nature in fall manifestation and realises bis inseparable connection with the Lord and as a consequence, acquires the *eight attributes (of freedom from sin and the like) and without any question of his returning again (to samsāra ), he attains, in regard to enjoy. ment, perfect resemblance to the Lord. 
+Led by his guides (archis and others) to the Lord of Lakshmi who is possessed of varied glories in the region beyond tamas (i e.) prakriti and having attained Him, the mukta has bis essential nature in fall manifestation and realises bis inseparable connection with the Lord and as a consequence, acquires the \*eight attributes (of freedom from sin and the like) and without any question of his returning again (to samsāra ), he attains, in regard to enjoy. ment, perfect resemblance to the Lord. 
 
 THE NATURE OF THE BLISS OF BRAHMAN : 
 
@@ -20,7 +20,7 @@ If it is asked what is this full and perfect enjoyment of Brahman by the mukta w
 
 The Lord's svarūpa is delightful as may be seen from the following passages. "He is all knowledge and all bliss". "The Pattainment of Bhagavan is a remedy for the disease of (samsāra). It is of the nature of joy which is unsurpassed and confers joy on others. It is an end in itself and lasts for ever". Other things are 
 
-*NOTE: Eight attributos - (Sec page 211). 1. Tiruvoymozhi : 6-7 - 10 
+\*NOTE: Eight attributos - (Sec page 211). 1. Tiruvoymozhi : 6-7 - 10 
 
 3. Vishnupuranam: 6-5-59 2. Tiruvaymozhi : 1-1-2 
 
@@ -28,7 +28,7 @@ The Lord's svarūpa is delightful as may be seen from the following passages. "H
 
 enjoyable in this way: If the king is the queen's joy, then all objects and instruments of his enjoyment as well as the places where he finds delight are alike objects of joy to her. Similarly the mukta finds joy in all that pertains to the Lord. That the Supreme Ruler who has all forms, attributes and the like is an object of enjoyment is evident from the srutis and the smritis. This idea has been expressed in the section on Bhima in the Brahma Sutras. The svarüpa of Bhagavan is called Parama. pada, because it is the ultimate and supreme object of attainment being of unsurpassed agreeableness. Since the perfect enjoyment of the svarūpa of Bhagavan happens only after reaching & most delightful region far superior to all others, that region is also called Paramapada. The essential nature or svarüpa of the Jira, which is the recipient of this joy in the attainment of Bhagavan which is also among the glorious possessions (Vibhūtis) of the Lord and which has, for its attribates, jnana and änanda, is also (sometimes ) called Paramapada. Along with the others, these three bave, in common, only the feature of being the object of attainment. 
 
-It has been said above that such things as Bhagavan's svarūpa, attributes and forms, the region of eternal glory (nitya vibhūti) wbich is constituted of pure sattvam and his own suurüpa are objects of delight to the mukta. It may be asked, “This may be trae. But by sense perception (pratyaksha) and other sources of knowledge, the objects in this world of lilä vibhuti are found to be disagreeable and are declared by the sõstras also to be things to be given up, How then could they viz. the objects in lila vibhūti be objects of delight to the mukta ?" The answer is as follows:-- ** There is nothing inconceivable in this. What appears disagree. able to the man suffering from (excess of) bile is felt as agreeable when the bile bas decreased. Again when the prince is in the prison house it is disagreeable. But when the emperor is pleased to set bim free and to place him by his own side to enjoy like pleasures, the prison bouse may appear agreeable as a syinbol of 
+It has been said above that such things as Bhagavan's svarūpa, attributes and forms, the region of eternal glory (nitya vibhūti) wbich is constituted of pure sattvam and his own suurüpa are objects of delight to the mukta. It may be asked, “This may be trae. But by sense perception (pratyaksha) and other sources of knowledge, the objects in this world of lilä vibhuti are found to be disagreeable and are declared by the sõstras also to be things to be given up, How then could they viz. the objects in lila vibhūti be objects of delight to the mukta ?" The answer is as follows:-- \*\* There is nothing inconceivable in this. What appears disagree. able to the man suffering from (excess of) bile is felt as agreeable when the bile bas decreased. Again when the prince is in the prison house it is disagreeable. But when the emperor is pleased to set bim free and to place him by his own side to enjoy like pleasures, the prison bouse may appear agreeable as a syinbol of 
 
 THE ENJOYMENT OF BRAHMAN 
 
@@ -76,7 +76,7 @@ REFUTATION OF THE ADVAITIC DOCTRINE OF
 
 IDENTITY: 
 
-To those (viz. Advaitins) who maintain that the word Sayujyam, means oneness or identity with Brahman (aikyam), the derivative or etymological meaning of the word, sãyujyam, is at variance, as also the texts* in the sruti wbicb declare that 
+To those (viz. Advaitins) who maintain that the word Sayujyam, means oneness or identity with Brahman (aikyam), the derivative or etymological meaning of the word, sãyujyam, is at variance, as also the texts\* in the sruti wbicb declare that 
 
 13. Brahma sutras: 4-4-17. 
 
@@ -88,7 +88,7 @@ To those (viz. Advaitins) who maintain that the word Sayujyam, means oneness or 
 
 Brahman is different from the jivas. Besides, their view is opposed also to the strutis which declare that the mukta will attain perfect resemblance (sāmyam) to Brahman and that the mukta will be like Brabman. The author of the Gita has conveyed the same idea in :- "They will attain my likeness (sādharnyam)": 
 
-The Maharshi (Vyāsa) has also expressed this idea at great length in the discourse between Vasishta and Karala and concludes by saying that this is the supreme truth - "The jiva released ** from bondage (i.c.) the mukta, attains the Supreme Being and acquires attributes similar to those of the Supreme Being. He too becomes free from all imperfections when be reaches Him. Hav. ing attained the Omniscient Brahman, he, too, becomes omnisci. ent. Having reached Him who is free from the bondage of karma, he, too, becomes free from karma. Having attained Bhagavad who is free from suffering and sorrow, he, too, becomes free from them. Having reached Him who is blissfal, he, too, becomes blissful. O best of Bharatas, having attained Bhagavan who acts by His will alone (without being influenced by karma), be, too, acts merely by his will. He becomes resplendent and having attained Bhagavan who is without the qualities (of prakriti) he, too, is without those qualities. Having reached Brahman who is without the body and the senses constituted of matter (Prakriti), he, too, becomes free from them. Having attained the Supreme Being wbo is independent of karma, he too, becomes independent. I have thus described the truth to you, O great king, just as it is in reality. Haviog accepted this teaching with a mind free from discontent (asīīya), meditate on Brahman who is eternal and free from all imperfections and who is the (ultimate) cause of the world". 
+The Maharshi (Vyāsa) has also expressed this idea at great length in the discourse between Vasishta and Karala and concludes by saying that this is the supreme truth - "The jiva released \*\* from bondage (i.c.) the mukta, attains the Supreme Being and acquires attributes similar to those of the Supreme Being. He too becomes free from all imperfections when be reaches Him. Hav. ing attained the Omniscient Brahman, he, too, becomes omnisci. ent. Having reached Him who is free from the bondage of karma, he, too, becomes free from karma. Having attained Bhagavad who is free from suffering and sorrow, he, too, becomes free from them. Having reached Him who is blissfal, he, too, becomes blissful. O best of Bharatas, having attained Bhagavan who acts by His will alone (without being influenced by karma), be, too, acts merely by his will. He becomes resplendent and having attained Bhagavan who is without the qualities (of prakriti) he, too, is without those qualities. Having reached Brahman who is without the body and the senses constituted of matter (Prakriti), he, too, becomes free from them. Having attained the Supreme Being wbo is independent of karma, he too, becomes independent. I have thus described the truth to you, O great king, just as it is in reality. Haviog accepted this teaching with a mind free from discontent (asīīya), meditate on Brahman who is eternal and free from all imperfections and who is the (ultimate) cause of the world". 
 
 In the passage cited above, the mukta is called 'independent' (svatantra ), because he is free from the influence of past karma. The Bbasbyakara (Sri Ramanuja) has explained the meaning of 
 
@@ -96,7 +96,7 @@ In the passage cited above, the mukta is called 'independent' (svatantra ), beca
 
 16. Mahabhrata : Santi parva: 
 
-*313-426-31) 
+\*313-426-31) 
 
 22 
 
@@ -140,7 +140,7 @@ If it be so, it may be asked whetber the mukte who is not in. dependent (of God)
 
 225 
 
-possibility of & return to samsāra. The jiva's dependence on Iswars has been stated in the sloka :-“For Kepabling a man to get the good things of life, and for taking away from him the ills of life, there is no one other than Purushottama who is compe tent". The answer to that question is, "There will be no such possibility, for has He not Himself declared :- "Those who *per form bhakti yoga with great devotion and those who have perfor. med prapatti which is considered as & superior form of penance (tapas) will obtain säyujya and will for ever render service to me. They will always be free from the ills of samsāra". Ever in the state of desire for mukti, the mukta had an aversion to the enjoyment of non-sentiment things (matter) and also to the mere enjoyment of his own self (kaivalya). This aversion is now well established in him; for as he sees all things having Brahman as their inner self, there is no possibility of his enjoying his own self 48 separate (from everything else), and as he sees by constant perception (pratyaksha ) the imperfections of all other objects (than God), there is no possibility of his returning to samsāra of his own free will. As his knowledge of the three tattvas, cit. acit and Iswara and of what is good and what is evil, which he acquired before, has now attained expansion without any break or contrac. tion, there is no possibility of his ever going back to samsāra owing to ajrāna or ignorance. The knowledge which formerly in samsāra deepened into the form of love called bhakti and which he acquired by his distinctive knowledge of the specific pature of Bhagavan bas, now, in the state of mukti, become ripened into the form of supreme love, because he has now & vision of all aspects of Bhagavan's distinctive nature of which even the sastras are incapable. Therefore Iswara's great love for him as stated in the sioka : "The jirānī ig** dear to me (How dear he is to me cannot be described even by me, Ominscient though I am)" - Iswara's love for bina is so overwhelming that its flow is irresistible and that its current reaches even those uplands which are connect 
+possibility of & return to samsāra. The jiva's dependence on Iswars has been stated in the sloka :-“For Kepabling a man to get the good things of life, and for taking away from him the ills of life, there is no one other than Purushottama who is compe tent". The answer to that question is, "There will be no such possibility, for has He not Himself declared :- "Those who \*per form bhakti yoga with great devotion and those who have perfor. med prapatti which is considered as & superior form of penance (tapas) will obtain säyujya and will for ever render service to me. They will always be free from the ills of samsāra". Ever in the state of desire for mukti, the mukta had an aversion to the enjoyment of non-sentiment things (matter) and also to the mere enjoyment of his own self (kaivalya). This aversion is now well established in him; for as he sees all things having Brahman as their inner self, there is no possibility of his enjoying his own self 48 separate (from everything else), and as he sees by constant perception (pratyaksha ) the imperfections of all other objects (than God), there is no possibility of his returning to samsāra of his own free will. As his knowledge of the three tattvas, cit. acit and Iswara and of what is good and what is evil, which he acquired before, has now attained expansion without any break or contrac. tion, there is no possibility of his ever going back to samsāra owing to ajrāna or ignorance. The knowledge which formerly in samsāra deepened into the form of love called bhakti and which he acquired by his distinctive knowledge of the specific pature of Bhagavan bas, now, in the state of mukti, become ripened into the form of supreme love, because he has now & vision of all aspects of Bhagavan's distinctive nature of which even the sastras are incapable. Therefore Iswara's great love for him as stated in the sioka : "The jirānī ig\*\* dear to me (How dear he is to me cannot be described even by me, Ominscient though I am)" - Iswara's love for bina is so overwhelming that its flow is irresistible and that its current reaches even those uplands which are connect 
 
 23. Bhagavad Gita: 7-17 
 
@@ -160,7 +160,7 @@ May varied forms of service which are the overflow of the blissful enjoyment of 
 
 SANSKRIT SLOKA: (Sammary of Part I) 
 
-Having received* the gracious look of the Lord and of the Achārya) and understood what is most essential and most 23. Brahma Sutras: 4-4-22 
+Having received\* the gracious look of the Lord and of the Achārya) and understood what is most essential and most 23. Brahma Sutras: 4-4-22 
 
 22 
 

@@ -9,15 +9,15 @@ AN ACHARYA.
 
 SANSKRIT SLOKA:-- 
 
-The noble acharya, who longs to attain the pripeval and heavenly abode of Vishnu, fights up the imperishable lamp of spiritual tradition (sampradıya) in some deserving disciple who bas been tested in various and well-known ways and fonnd fit (to receive the light). (He lights up this lamp) with true affection (sneha) when the disciple is in a state of mind (dasū) free from noworthy qualitios* (gua) like & well-tested and weil-burnished vessel with oil (sucha) poured into it and with a wick (dasä) made of pure threads (guļa). 
+The noble acharya, who longs to attain the pripeval and heavenly abode of Vishnu, fights up the imperishable lamp of spiritual tradition (sampradıya) in some deserving disciple who bas been tested in various and well-known ways and fonnd fit (to receive the light). (He lights up this lamp) with true affection (sneha) when the disciple is in a state of mind (dasū) free from noworthy qualitios\* (gua) like & well-tested and weil-burnished vessel with oil (sucha) poured into it and with a wick (dasä) made of pure threads (guļa). 
 
 TO WHOM SHOULD) THE CHARYA IMPART 
 
 SPIRITUAL KNOWLEDGE :-- 
 
-It has been said :-- "Thun' art the Wither of this world consisting of things that move about and things that do not move. Thou art also its gurn; therefore, Thon art the greatest of those who deserve to be worshipped." and agnin. " We reqnest* perrpis. xion of all (those who are assembled here) to show our reverence to Sri Krishna wlo deserves, in virtue of the perfection of all his (good) qualities, the foremost tokens of reverence, and who is (at the same time) the üclürya, the lather, the guri and one fit to be honourud." As slated in these slokas, the Lord of all is the Supreme Acharya. From Hinn has come down to us the spiritual 
+It has been said :-- "Thun' art the Wither of this world consisting of things that move about and things that do not move. Thou art also its gurn; therefore, Thon art the greatest of those who deserve to be worshipped." and agnin. " We reqnest\* perrpis. xion of all (those who are assembled here) to show our reverence to Sri Krishna wlo deserves, in virtue of the perfection of all his (good) qualities, the foremost tokens of reverence, and who is (at the same time) the üclürya, the lather, the guri and one fit to be honourud." As slated in these slokas, the Lord of all is the Supreme Acharya. From Hinn has come down to us the spiritual 
 
-(*NOTE: The words gina. sneha and dasa have each two meanings respectively. 1. good qualities and threudi 2. affection and oil; 3. state and wick) 1. Bhagavad Gita: 11 - 43. 2. Mahabharata : Sabhi parva : 41 - 21. (Sahadeva's words to the assembled 
+(\*NOTE: The words gina. sneha and dasa have each two meanings respectively. 1. good qualities and threudi 2. affection and oil; 3. state and wick) 1. Bhagavad Gita: 11 - 43. 2. Mahabharata : Sabhi parva : 41 - 21. (Sahadeva's words to the assembled 
 
 princes at the end of the Rajasuya sacrifice). 
 
@@ -103,9 +103,9 @@ All these words of mine on the three secrets (mantras) found in the earlier and 
 
 TAMIL VERSE: 
 
-Those lamps (of spiritual wisdom) which lighted the threshold of a certain huiise (in Tirukkovali!), when, of old, the cow.hord (Sri Krishna) who vouchs:ifed His grace (even) to cattle, came of His own accord and squeezed Himself among those three ancient singers (the first three* ilvārs)-Those lamps lighted there (i,e. their songs) dispelled the darkness of the land and revealed the path indicated in the Upanisbuds which form the concluding part of the four Vedas. 
+Those lamps (of spiritual wisdom) which lighted the threshold of a certain huiise (in Tirukkovali!), when, of old, the cow.hord (Sri Krishna) who vouchs:ifed His grace (even) to cattle, came of His own accord and squeezed Himself among those three ancient singers (the first three\* ilvārs)-Those lamps lighted there (i,e. their songs) dispelled the darkness of the land and revealed the path indicated in the Upanisbuds which form the concluding part of the four Vedas. 
 
-NOTE* : Peyalvar, Poygai Alvar, Bhutattalvar: 
+NOTE\* : Peyalvar, Poygai Alvar, Bhutattalvar: 
 
 30 
 
@@ -119,6 +119,6 @@ Our great achiiryas, who were absolutely free from ignorance and error, lighted 
 
 SANSKRIT SLOKA : 
 
-The acharya who obeys the successive commands of (the Lord who is) the first achūrya regulates (the minds and actions of) his s'ishyas by methods of instruction which *crcate in thenu noble qualities similar to those in himself and which are like irresistible waves of the celestial sea of his boundless compassion. By doing so, he saves not only the disciple but himself also under the guise of saving him. 
+The acharya who obeys the successive commands of (the Lord who is) the first achūrya regulates (the minds and actions of) his s'ishyas by methods of instruction which \*crcate in thenu noble qualities similar to those in himself and which are like irresistible waves of the celestial sea of his boundless compassion. By doing so, he saves not only the disciple but himself also under the guise of saving him. 
 
-(*NOTE: Gunasamkramal inay mean also “which creale a path for the entrance of their noble qualities into their disciples")
+(\*NOTE: Gunasamkramal inay mean also “which creale a path for the entrance of their noble qualities into their disciples")

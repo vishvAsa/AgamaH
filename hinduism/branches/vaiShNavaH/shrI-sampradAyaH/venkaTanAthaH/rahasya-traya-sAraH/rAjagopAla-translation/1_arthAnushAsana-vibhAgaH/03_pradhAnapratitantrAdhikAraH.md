@@ -18,7 +18,7 @@ OF SARĪRA - SARIRI BHĀVA:
 
 The word Pratitantra means a doctrine or feature which is peculiar and distinctive to a certain (pbilosophical or religious) system exclusive of all others. Here it may be asked what the doctrine that is most important and unique to our system of Vedanta is. It is the doctrine which maintains that the relation ship between Iswara and the world of sentient beings and non sentient things is that between the soul and the body. (Another is the doctrine that every word, whatever its ordinary depotation may be, such as 'cow' "man" and the like, refers ultimately to Iswara who is within them as their innermost soul). 
 
-NOTE:-- *Vyapaka mantras: These are (1) Ashtakshara (2) Shadakshara, the mantra with six letters (Namo Vishnave with Pranava at the beginning) and (3) Dvadasakshara, the Mantra with twelve letters (Namo Bhagavate Vasudevaya with pranava at the boginning) 
+NOTE:-- \*Vyapaka mantras: These are (1) Ashtakshara (2) Shadakshara, the mantra with six letters (Namo Vishnave with Pranava at the beginning) and (3) Dvadasakshara, the Mantra with twelve letters (Namo Bhagavate Vasudevaya with pranava at the boginning) 
 
 THE DISTINCTIVE DOCTRINE 
 
@@ -28,7 +28,7 @@ THE DISTINCTIVE DOCTRINE
 
 WHAT IS A SARĪRA AND WHAT IS A SARIRI : 
 
-Iswara is called the inner self or soul (Sariri), because as long as they exist, He is, in regard to sentient and non-deatient substances (dravya), their sopport (adhara), their controller or ruler (niyanta) and their Lord or Master (Seshi) for whose purposes they exist. Sentient beings and non-sentient things form His body, since, with regard to Him, they stand as substances supported by Him, controlled by Him, and existing solely for the fulfilment of His purposes, throughout their existence. Iswara is called the Supporter and the Controller oz Ruler of all sentient beings and non-sentient things, because from His swarupa or essential nature and His sankalpa or will, they derive their existence, continuance and activities as * befitting each of these two (svarüpa and sankalpa). It may be asked how this could be. Just as Iswara is the abodo, asraya or üdhāra (support) of the attributes which define His essential nature (svarüpa viz. Satyam, Jnanan, Anandam and the like) and of the other qualities possessed by Him with His essential nature so defined (qualities like compassion and &ccessibility), He is also the inseparable and direct support, (äsraya or ādhara) of all substances (sentient and non-sentient) other than Himself. He is also the support, through these substances ((1.0.) indirectly), of the qualities that pertain to them. There are some who hold that Iswara is the support, through the jivas, of the bodies supported by the jīvas. Some Acharyas say (on the other hand) that both directly by His essential Dature and indirectly through the jīvas, He is the support of these bodies. 
+Iswara is called the inner self or soul (Sariri), because as long as they exist, He is, in regard to sentient and non-deatient substances (dravya), their sopport (adhara), their controller or ruler (niyanta) and their Lord or Master (Seshi) for whose purposes they exist. Sentient beings and non-sentient things form His body, since, with regard to Him, they stand as substances supported by Him, controlled by Him, and existing solely for the fulfilment of His purposes, throughout their existence. Iswara is called the Supporter and the Controller oz Ruler of all sentient beings and non-sentient things, because from His swarupa or essential nature and His sankalpa or will, they derive their existence, continuance and activities as \* befitting each of these two (svarüpa and sankalpa). It may be asked how this could be. Just as Iswara is the abodo, asraya or üdhāra (support) of the attributes which define His essential nature (svarüpa viz. Satyam, Jnanan, Anandam and the like) and of the other qualities possessed by Him with His essential nature so defined (qualities like compassion and &ccessibility), He is also the inseparable and direct support, (äsraya or ādhara) of all substances (sentient and non-sentient) other than Himself. He is also the support, through these substances ((1.0.) indirectly), of the qualities that pertain to them. There are some who hold that Iswara is the support, through the jivas, of the bodies supported by the jīvas. Some Acharyas say (on the other hand) that both directly by His essential Dature and indirectly through the jīvas, He is the support of these bodies. 
 
 ISWARA'S SUPPORT BY HIS SVARŪPA AND 
 
@@ -36,7 +36,7 @@ BY HIS WILL.
 
 In relation to Iswara,. all (substances ), sentient and non. gentient, are attributes that are inseparable from Him (Aprithak 
 
-NOTE * 
+NOTE \* 
 
 As befitting each of these two - By His syarupa, He is the cause of their existence and continuance. this is being their support; by His Sankalpa or will also, He is the cause of their oxistence, continuance and activities, this is being their controllar. 
 
@@ -56,7 +56,7 @@ the time of the entry of the soul into it and perishes or disintegrates when the
 
 WHAT IS THE MEANING OF SESHA-SESHI BHAVA? 
 
-Iswara is said to be the s'eshin of all things, because they exist solely for the fulfilment of His purposes. They are His s'eshas, The following sloka explains how Iswara is is the seshin of all: * The Sutterance of the Upanishads is to the effect that the Lord takes in both sentient and non-sentient things for the fulfilment of His own purposes, by being the cause of their existence, their continuance and their control. In regard to one of the two (i.e.) the sentient being), Thou art both the end to be attained (upēya) and the means of attaining it (upāya). This is Thy essential nature and not an adventitious quality of Shine. Therefore, O Thou that hast Thy repose in Srirangam, I seek refuge in Thee without any selfish interest." 
+Iswara is said to be the s'eshin of all things, because they exist solely for the fulfilment of His purposes. They are His s'eshas, The following sloka explains how Iswara is is the seshin of all: \* The Sutterance of the Upanishads is to the effect that the Lord takes in both sentient and non-sentient things for the fulfilment of His own purposes, by being the cause of their existence, their continuance and their control. In regard to one of the two (i.e.) the sentient being), Thou art both the end to be attained (upēya) and the means of attaining it (upāya). This is Thy essential nature and not an adventitious quality of Shine. Therefore, O Thou that hast Thy repose in Srirangam, I seek refuge in Thee without any selfish interest." 
 
 THE IMPORTANCE OF THIS KNOWLEDGE. 
 
@@ -106,7 +106,7 @@ THE DISTINCTIVE DOCTRINE
 
 29 
 
-devotees, to the latter of whom the s'eshatva extends as its ultimate limit, and he depends absolutely on Bhagavan and His devotees In the light of this interpretation, the third word Närāvanāya has, for its purport, the goal of the jiva, vis, kainkarya or service to the Lord and His devotees. This service may be seen illustrated in an active form in that of Lakshmand and in a passive form in the sandals * of Sri Rama which were an incarnation of Lakshmana or Adisesha and which left Rama's feet to go along with His devotee, Bharata. (In these instances) the service is such as would be pleasing to the s'eshi (namely, Bhagavan). 
+devotees, to the latter of whom the s'eshatva extends as its ultimate limit, and he depends absolutely on Bhagavan and His devotees In the light of this interpretation, the third word Närāvanāya has, for its purport, the goal of the jiva, vis, kainkarya or service to the Lord and His devotees. This service may be seen illustrated in an active form in that of Lakshmand and in a passive form in the sandals \* of Sri Rama which were an incarnation of Lakshmana or Adisesha and which left Rama's feet to go along with His devotee, Bharata. (In these instances) the service is such as would be pleasing to the s'eshi (namely, Bhagavan). 
 
 All this elucidation and illastration of the meaning of Tirumantra were vouchsafed by Sri Appullar. The implicit and explicit meanings contained in Duayan and the Charama sloka should be understood on the same lines. 
 

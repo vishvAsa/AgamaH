@@ -40,7 +40,7 @@ Sri Vaishnavas, the unsuitable are those that are the enemies of Bhagavan; those
 
 SRI RAMANUJA'S ADVICE EXPLAINED: 
 
-Io connection with this code of conduct prescribed by Sri Ramanuja for the prapanna, we have to remember that the pursuit of wealth and sense pleasures which are against dharma bave already been probibited altogether (for all including non prapannas) es in the following slokas:- "One should not*, in any circumstances and even in critical times, accept any gifts, pot 
+Io connection with this code of conduct prescribed by Sri Ramanuja for the prapanna, we have to remember that the pursuit of wealth and sense pleasures which are against dharma bave already been probibited altogether (for all including non prapannas) es in the following slokas:- "One should not\*, in any circumstances and even in critical times, accept any gifts, pot 
 
 1. Sandilya Smriti: 3-18 
 
@@ -104,9 +104,9 @@ By following the four Vedas (and the Smritis and other sastras) in which the Sup
 
 SANSKRIT SLOKA: 
 
-The wise man learns what is in accordance with the will of the Ruler* who is the originator of the Universe; from the Srutis ; from the Smritis ; and from the traditional practice of elders ; from the promptings of his own reason in the case of the man with a pure heart; from good resolutions not departing from dharma; and also the traditional practice of the family, of the fcharana and of the country. Sometimes he tries to understand the Lord's will from the commands of those who are competent to direct him and also from omens, sigas, dreams and the like. 
+The wise man learns what is in accordance with the will of the Ruler\* who is the originator of the Universe; from the Srutis ; from the Smritis ; and from the traditional practice of elders ; from the promptings of his own reason in the case of the man with a pure heart; from good resolutions not departing from dharma; and also the traditional practice of the family, of the fcharana and of the country. Sometimes he tries to understand the Lord's will from the commands of those who are competent to direct him and also from omens, sigas, dreams and the like. 
 
-* Niyamayitur adeh may mean also 'the Primeval Ruler' 
+\* Niyamayitur adeh may mean also 'the Primeval Ruler' 
 
 + Charana: the acharas which pertain to the respective veda to which the man belongs. 
 

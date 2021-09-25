@@ -15,7 +15,7 @@ THE SUCCESSION OF ACHARYAS
 
 SANSKRIT SLOKA : 
 
-(With due devotion) we repeat the expression of adoration to our gurus and likewise to their gurus; and among these (latter), We pray for the grace of the Primeval Couple (Narayana and Lakshmi), the twin s'eshis* of all the worlds (so that they may be both the end to be attained by us and the means of attaining it). TAMIL VERSE. 
+(With due devotion) we repeat the expression of adoration to our gurus and likewise to their gurus; and among these (latter), We pray for the grace of the Primeval Couple (Narayana and Lakshmi), the twin s'eshis\* of all the worlds (so that they may be both the end to be attained by us and the means of attaining it). TAMIL VERSE. 
 
 Having carefully studied the beautiful hymns subg with delight in Tamil by seers, we have come to understand the real meaning of the regions of the Upanishads which are otherwise difficult to comprehend - seers known as Poygai Mudi, Bhutamuni, Peyalvar, Kurugesan (Nammalvar) who was born on the banks of the cool Tamraparni, Vishnuchittan, the pure-minded Kulasekbara, our Pananathan, Thondaradippodi, the splendour that appeared in Mazhigai ( Tirumazhisai alvar) and the prince of Mangai armed with sword and spear for making bright the path of the Vedas throughout the world. 
 
@@ -23,21 +23,21 @@ TAMIL VERSE:
 
 To those who venture to attain release from the bondage of sam. sāra, the ancient path indicated to as by the spotless Madhurakavi 
 
-* A sesha is one who exists solely for the purposes of another. That other is seshi. 
+\* A sesha is one who exists solely for the purposes of another. That other is seshi. 
 
 Note: (1) The commentator says that Vishnuchittan stands for Vishnu chittan and also for his daughter Andal, the authoress of many hymns. by his own example is the only safe 2 path, for while there is Sri Krishna, the great cowherd, who incarnated solely for the sake of bis devotees to confer bliss on them, to be their refuge, to be their final goal, to stand in relation to them as mother, father, brother and so on, to change their desire for the pleasures of this world into a desire for Himself, to remove all their sins, to show them infinite compassion, to reveal the truth, and so also to bring about in them a likeness to Himself - while there is Sri Krishna ever ready to do all this, 3 be sought only the feet of the sage Satagopa (Nammälvār) who rendered in Tamil the truths con tained in the Vedas which are otherwise hard to understand. 
 
 THE ACHARYA ESSENTIAL FOR MOKSHA : 
 
-It is said in the Smritis: "Kshatrabandbu* !, wbo was the worst of singers, and * 2 Pundarika, the virtuous - both of them obtained moksha or release from bondage by virtue of their having ūchüryas." It is thus declared that in the case of every one, the only means of securing moksha is to have an ächārya. To the man desirous of moksha, the line of achäryas is stated in the Sruti 3 to extend upward even to the Supreme Bhagavan for purposes of meditation. 
+It is said in the Smritis: "Kshatrabandbu\* !, wbo was the worst of singers, and \* 2 Pundarika, the virtuous - both of them obtained moksha or release from bondage by virtue of their having ūchüryas." It is thus declared that in the case of every one, the only means of securing moksha is to have an ächārya. To the man desirous of moksha, the line of achäryas is stated in the Sruti 3 to extend upward even to the Supreme Bhagavan for purposes of meditation. 
 
 Note (2) safe path: This means Bhakti and Prapatti which lead to moksha. Acharya bhakti is called bhakti and prapasti as it leads to them. 
 
 Note (3) Madhurakavi in his decade of Tamil verses, says that, to him, Nammalvar is the only God and that through him, he expects to derive all the benefits that men expect to have from God Himself. The path indicated by him is that of devotion to the Acharya for attaining mukti as well as other things. 
 
-* 1 Kshatrabandhu led the life of a highwayman in a forest. He was a source of terror to the sages who lived in that forest. Once when the sage Narada happened to pass by him, he rushed at him with his stick. Narada took pity on him and asked him to find out from his wife and children whether they would share the sin he was committing, as it was done for their sako. They refused and Kshatrabandhu realised his folly and begged to be instructed by Narada in the truths of religion. 
+\* 1 Kshatrabandhu led the life of a highwayman in a forest. He was a source of terror to the sages who lived in that forest. Once when the sage Narada happened to pass by him, he rushed at him with his stick. Narada took pity on him and asked him to find out from his wife and children whether they would share the sin he was committing, as it was done for their sako. They refused and Kshatrabandhu realised his folly and begged to be instructed by Narada in the truths of religion. 
 
-* 2 Pundarika was a virtuous Brahmin, who, though he followed the righteous path and went on a pilgrimage to holy places, did not get a vision of God. It was only after being initiated into the Ashtakshara by Narada that he realised God. 
+\* 2 Pundarika was a virtuous Brahmin, who, though he followed the righteous path and went on a pilgrimage to holy places, did not get a vision of God. It was only after being initiated into the Ashtakshara by Narada that he realised God. 
 
 3 The sruti referred to here means - “This linc of the acharyas extends up to Bhagavan thus: This is his acharya; his acharya is so and so and so on up to the Lord". 
 
@@ -61,7 +61,7 @@ be born bere and there in large ngmbers in the land of the Dravidas, where flow 
 
 THE SUCCESSION OF VAISHNAVITE ACHARYAS. 
 
-Among these acharyas. Nathamuni was the son of Iswara. muni, and he gave us "Nyaya Tatvan" and " Yoga Rahasyam." Since Nathanuani received the sacred tradition from one of the spiritual descendants of Madharakavi, and was blessed with spiritual wisdom from a study of Tiruvoymozhi and since, in bis yogic contemplation, Nammalvar appeared to him and taught him the sacred lore, his acharya was Nammalvar himself (though they lived at different times). Nathamuni's son. Was Iswara Bhatta. To Iswara Bhatta was born Alavandar (Yamunacharya). The works of Alavandar are the following eight :-" Āgama Prīmātiyan", " Purusha Niriiaya", the three Siddhis, name ly, “ Ātma Siddhi", "Iswara Siddhi", "Samvit Siddhi", "Sri Gitārtha Sangraha", "Stotram" and "The Tetrad of Slokas," Sottai Nambi was the son of Alavandar. Sottai Nambi's son was Engachchan. Ennachchan had four sons, one of whom was Pillayappar. Pillayappar's son was Thozhappar, Thozhappar had two daughters. The chief disciples who sought the feet of Nathamuni were eight :- Uyyakkoodar, Kurukaikavalappen, Nambi Karunakara Dasar, Erutiruvudaiyar, Thirukkanpamangai Andan, Vanamadevi Andan, Uruppattur Achan Pillai and Sokattur Alvan. Uyyakopdar had five disciples; they are Manakkal Nambi, Tiruvallikkeni Pan Perumal Araiyar, Settalur Sendalangarar, Sri Pundarika Dasar and Ulagapperumal Nangai. The chief disciples of Manakkal Nambi were five; they are Alavander, Deivattukkarasu Nambi, Gomatam Tirovidnagar * Appan, Siruppulloor Avudaiya Pillai and Accbi. Alavandar had fifteen disciples: they are - Peria Nambi, Tirukkottiyar Nambi, Tirumalai Andan, Alavandar Alvar, Tirumualai Nambi, Isandaa Deivavari Andaa, Siriyandan, Tirumohoor Appan, Tirumohoor Ninrar, Deivapperumal, Tirumapgai Aliyar, Pillai Tirumalirus 
+Among these acharyas. Nathamuni was the son of Iswara. muni, and he gave us "Nyaya Tatvan" and " Yoga Rahasyam." Since Nathanuani received the sacred tradition from one of the spiritual descendants of Madharakavi, and was blessed with spiritual wisdom from a study of Tiruvoymozhi and since, in bis yogic contemplation, Nammalvar appeared to him and taught him the sacred lore, his acharya was Nammalvar himself (though they lived at different times). Nathamuni's son. Was Iswara Bhatta. To Iswara Bhatta was born Alavandar (Yamunacharya). The works of Alavandar are the following eight :-" Āgama Prīmātiyan", " Purusha Niriiaya", the three Siddhis, name ly, “ Ātma Siddhi", "Iswara Siddhi", "Samvit Siddhi", "Sri Gitārtha Sangraha", "Stotram" and "The Tetrad of Slokas," Sottai Nambi was the son of Alavandar. Sottai Nambi's son was Engachchan. Ennachchan had four sons, one of whom was Pillayappar. Pillayappar's son was Thozhappar, Thozhappar had two daughters. The chief disciples who sought the feet of Nathamuni were eight :- Uyyakkoodar, Kurukaikavalappen, Nambi Karunakara Dasar, Erutiruvudaiyar, Thirukkanpamangai Andan, Vanamadevi Andan, Uruppattur Achan Pillai and Sokattur Alvan. Uyyakopdar had five disciples; they are Manakkal Nambi, Tiruvallikkeni Pan Perumal Araiyar, Settalur Sendalangarar, Sri Pundarika Dasar and Ulagapperumal Nangai. The chief disciples of Manakkal Nambi were five; they are Alavander, Deivattukkarasu Nambi, Gomatam Tirovidnagar \* Appan, Siruppulloor Avudaiya Pillai and Accbi. Alavandar had fifteen disciples: they are - Peria Nambi, Tirukkottiyar Nambi, Tirumalai Andan, Alavandar Alvar, Tirumualai Nambi, Isandaa Deivavari Andaa, Siriyandan, Tirumohoor Appan, Tirumohoor Ninrar, Deivapperumal, Tirumapgai Aliyar, Pillai Tirumalirus 
 
 6 jolai Dasar, Maraner Nambi and Alkondi. Six disciples sought the feet of Perianambi; they were :-- Emperumadar (Sri Rama. aaja), Malaikuniya Ninrar, Arya Sri Satagopa Dasar, Aniaran. gattamudanar, Tiruvoykulamudaiyan Pattar and Tirukkacchi Nambi. Sri Ramanuja learnt the meanings of the rahasyas or mantras at the feet of Tirukkottiyar Nambi. He studied Tiru. voymozhi at the feet of Tirumalai Andan. He learnt Tiruvoymoghi at the feet of Alavandar Alvar and learnt also“ Stotram" and the ancient tradition from him. At the feet of Tirumalai Nambi he studied the Rāmāyana. Sri Ramanuja's writings are nine in number: Sri Bhashyam, Deepam, Säram, Vedartha Sangrahan, Sri Gita Bhashyam, Siriya Gadyam (Sriranga Gadyam), Periya Gadyam (Saranāgati Gadyam), Vaikunta Gadyam and Nityam. The names of the chief disciples of Ramanuja may be learnt from the respective tradition of each reader, 
 
@@ -69,13 +69,13 @@ BHAKTI TO ACHARYA ESSENTIAL:
 
 It has been said, "The wise man should bring his guru to the light (of renown) and should guard the sacred mantra with great care; from the omission to bring his guru to light and by revealing the mantra, he declines in wealth (of knowledge) and in age (spiritual standing)." His bringing the guru to light and his omission to do so, it needs no saying, are due to the excess or deficiency of his devotion to his guru. 
 
-From * Kata Sruti and 1 Jābala Sruti it is well-known that that all desired knowledge arises from supreme devotion to the guru resenabling that to Bhagavad. This is learnt also from the incident of Sanjaya seeing all things as if they occurred before 
+From \* Kata Sruti and 1 Jābala Sruti it is well-known that that all desired knowledge arises from supreme devotion to the guru resenabling that to Bhagavad. This is learnt also from the incident of Sanjaya seeing all things as if they occurred before 
 
-| Seshasambita: 14-50 *NOTE: Kata Sruti: This wisdom concerning the soul cannot be obtained 
+| Seshasambita: 14-50 \*NOTE: Kata Sruti: This wisdom concerning the soul cannot be obtained 
 
 by the mere exercise of reason. Only when it is imparted by another (the guru), does it lead to the knowledge wbich is the means of attaining moksha. 
 
-Katopanishad 1.1.9 Jabala says in the Srul: "It is only the Vidya or wisdom learnt from an acharya that gives proficiency * Chandogya Upanishad: JY -3 
+Katopanishad 1.1.9 Jabala says in the Srul: "It is only the Vidya or wisdom learnt from an acharya that gives proficiency \* Chandogya Upanishad: JY -3 
 
 INTRODUCTORY 
 
@@ -101,7 +101,7 @@ quarters has, by the flourish of its cloth waving in the breeze, dis pelled the 
 
 TAMIL VERSE: 
 
-We that cling to the poble qualities and sweet words of the benevolent sage, Ramanuja, who adorns the world with his renown and who, like an elephant, knocking down plantain trees, refuted. the arguments of those that, with the help of their unrestrained logic, wrought great havoc in the straight paths of the * Brahma Sutrās - We (that cling to his words ) and are thereby blessed with spiritual fervour shall no longer (even) think of deeds that are evil. 
+We that cling to the poble qualities and sweet words of the benevolent sage, Ramanuja, who adorns the world with his renown and who, like an elephant, knocking down plantain trees, refuted. the arguments of those that, with the help of their unrestrained logic, wrought great havoc in the straight paths of the \* Brahma Sutrās - We (that cling to his words ) and are thereby blessed with spiritual fervour shall no longer (even) think of deeds that are evil. 
 
 TAMIL VERSE: 
 
@@ -115,7 +115,7 @@ NOTE: The disputations of thesc acharyas are compared to the succes.
 
 sion of neighings comiag from the God Hayagriva who is seated in their hearts. By these disputations they are said to have put 
 
-down the pride of the exponents of rival systems. * (or the Upanishads ) & Two disciples : Kilagathalvan and Melagathalvan. 
+down the pride of the exponents of rival systems. \* (or the Upanishads ) & Two disciples : Kilagathalvan and Melagathalvan. 
 
 10 Veda which had been long forgotten in the world and who propa gated in the world, for the pursuit of all, the path of tapas (bhakti and prapatti). In all the four regions of the world there is no one equal to as (because of this devotion of ours to Nathamani). 
 

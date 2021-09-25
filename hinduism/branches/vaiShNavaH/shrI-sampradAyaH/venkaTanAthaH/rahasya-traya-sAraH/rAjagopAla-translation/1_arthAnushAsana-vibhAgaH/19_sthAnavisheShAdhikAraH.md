@@ -57,7 +57,7 @@ PLACE OF RESIDENCE
 
 Therefore as stated in the sloka :-"A man should live in a place where there is a temple of Vishnu and do some kind of service (there). If he is unable to perform any service, he should At least abstain from what is forbidden"; the prapanna would do well to live in a place sanctified by the presence of Bhagavan and Bhagavatas and capable of promoting satva guna. 
 
-It is true that it is said: “ The places where a man in full control of his senses lives — that place has in it Kurukshetra, Naimisa and, likewise, Pushkaram." But this should be taken to mean that, when & righteous man lives in some insignificant place, because of his inability to live elsewhere, that place becomes sanc tified by his residence. This is illustrated in the episode of Sandili.* 
+It is true that it is said: “ The places where a man in full control of his senses lives — that place has in it Kurukshetra, Naimisa and, likewise, Pushkaram." But this should be taken to mean that, when & righteous man lives in some insignificant place, because of his inability to live elsewhere, that place becomes sanc tified by his residence. This is illustrated in the episode of Sandili.\* 
 
 Therefore the statement in the following sloka :-- "The man " who performs prapatti by uttering this mantra at the very time when be attains this knowledge -- that man attaios moksha wherever he may die losing his consciousness whether it be in & holy place of pilgrimage or the house of one who eats dog's flesh" - this statement that there is no special place prescribed for death, should also be understood in the light of what has been said above, as pointing out that this will be no bindrance to the attaio ment of moksha. 
 
@@ -65,7 +65,7 @@ TAMIL VERSES :
 
 (1) The temple or Vimūna which is renowned as Srirapgan, the temple or vimāna which was granted to the rulers of Ayodhya by the lotus-born Brahma, the temple or vimana where the 
 
-NOTE:- * Sandili, a great devotee of the Lord, was living on an island in the sea. Garuda, who saw it, wondered why she should dwell in such a mean place. Owing to this offensive thought, his wings were burnt away and he recovered their use only after obtaining her pardon. 12. 
+NOTE:- \* Sandili, a great devotee of the Lord, was living on an island in the sea. Garuda, who saw it, wondered why she should dwell in such a mean place. Owing to this offensive thought, his wings were burnt away and he recovered their use only after obtaining her pardon. 12. 
 
 14. Varaha Purana : 13. Itihasa Samucchaya: 27-18 
 

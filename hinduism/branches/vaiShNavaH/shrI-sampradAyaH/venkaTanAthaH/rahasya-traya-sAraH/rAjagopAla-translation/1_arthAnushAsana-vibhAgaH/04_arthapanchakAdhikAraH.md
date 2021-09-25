@@ -13,7 +13,7 @@ SANSKRIT SLOKA:
 
 In the '&' in Om and in the word 'Narayana' occurring in Ashtakshara, the supreme end of life (i.e.) Bhagavan, who is opposed to all that is objectionable or faulty, is indicated; in the in in om and in the part nära occurring in Nārāyaṇāya, the essential natare (svarūpa) of the jiva who is to attain this end is dis 
 
-(siddha upāya) namely, Bhagavan, is indicated in the part ayance occurring in Nārāyana and the means to be accomplished or adopted (sādhya upāya ), which is self-surrender, is in namas; the fruit desired, viz., the enjoyment of Brabman which includes also service to Him is disclosed in the dative or fourth case in Närāyaṇāya; the bindrance to it, namely, the feeling of 'mine' is in the word mama occurring in sramah (na mama ). He who understands the Ashtākshara mantra that reveals all these five and *Dvayam too, wbich is to the same effect--he will be consi dered by all as one who knows everything. 
+(siddha upāya) namely, Bhagavan, is indicated in the part ayance occurring in Nārāyana and the means to be accomplished or adopted (sādhya upāya ), which is self-surrender, is in namas; the fruit desired, viz., the enjoyment of Brabman which includes also service to Him is disclosed in the dative or fourth case in Närāyaṇāya; the bindrance to it, namely, the feeling of 'mine' is in the word mama occurring in sramah (na mama ). He who understands the Ashtākshara mantra that reveals all these five and \*Dvayam too, wbich is to the same effect--he will be consi dered by all as one who knows everything. 
 
 THERE IS NO REAL DIFFERENCE BETWEEN THOSE WHO SPEAK OF FIVE THINGS AND THOSE 
 
@@ -21,7 +21,7 @@ WHO SPEAK OF SIX.
 
 In the words Nārāyana and in on, the relationship between Iswara and the jiva is revealed as that between the soul and the body. Having taken this relationship as the foundation or basis of the Visishtadvaita system, some investigated the five truths that should be known to every one who desires moksha. Others took this relationship also as one of the things to be koown and hence spoke of the six things to be known. If it be asked what the five 
 
-NOTE:-* Dvayam may mean also the two (i.c.) Dvayam and charama 
+NOTE:-\* Dvayam may mean also the two (i.c.) Dvayam and charama 
 
 sloka, 
 
@@ -77,9 +77,9 @@ servant and thus find delight?" (This is also prayer for service ). "Thy "spouse
 
 “ Thou "and thy lotus-born Spouse should be pleased to accept the service of the three worlds." 
 
-"I will *not be parted (from Thee) even for a moment”, says Sri and abides on Thy chest." 
+"I will \*not be parted (from Thee) even for a moment”, says Sri and abides on Thy chest." 
 
-* Thou "art all jnāna and bliss." 
+\* Thou "art all jnāna and bliss." 
 
 art the light that never goes out and art beyond all 
 
@@ -87,7 +87,7 @@ art the light that never goes out and art beyond all
 
 BHAGAVAN POSSESSES ALL AUSPICIOUS QUALITIES : 
 
-Bhagavan is to be thought of as being opposed to all that is faulty or objectionable ; for it has been said, “That * Supreme 
+Bhagavan is to be thought of as being opposed to all that is faulty or objectionable ; for it has been said, “That \* Supreme 
 
 17. Ramanuja: Sri Bhashyam 
 
@@ -105,23 +105,23 @@ CHAPTER
 
 Goal, which is called Vishnu, is free from all imperfections." and "He is greater than the great; in the Lord of the great and the low, there are no such things as pain." He is to be considered also as possessing all those qualities which are necessary for one who is the object of attainment and who is, likewise, the means of attainment. Many are the passages that speak of Bhagavan's qualities : 
 
-* Bear "now of a man (Sri Rauna) possessed of these quali. ties". 
+\* Bear "now of a man (Sri Rauna) possessed of these quali. ties". 
 
-* Him who his possessed of these geralities." 
+\* Him who his possessed of these geralities." 
 
-* Him who is s'the eldest (son) and who is possessed of all Boble qualities." 
+\* Him who is s'the eldest (son) and who is possessed of all Boble qualities." 
 
 "Him who is 82 thas possessed of noble qualities" 
 
-" Rama *shone with 
+" Rama \*shone with 
 
 all these qualities." 
 
-“Him who *was possessed of such qualities and of irresistible valour." 
+“Him who \*was possessed of such qualities and of irresistible valour." 
 
 " There are so many poble qualities, O King, in your son." 
 
-"* Benevolence, compassion, learning, integrity of character. control of the senses, control of the mind these six qualities adorn Rama, the best of men." 
+"\* Benevolence, compassion, learning, integrity of character. control of the senses, control of the mind these six qualities adorn Rama, the best of men." 
 
 " He is known to be earnest in the matter of dharmu; He is affectionate to those that seek His protection." 
 
@@ -135,17 +135,17 @@ THE FIVE THINGS TO BE KNOWN
 
 "Thou-ert scapable of affording protection and art also the refuge of all. This is declared by the divine sages." 
 
-* Thou art the tree in which the good find their resting place; and Thou art the supreme refuge of all those who are in distress.** 
+\* Thou art the tree in which the good find their resting place; and Thou art the supreme refuge of all those who are in distress.\*\* 
 
 " He is the store-house of such qualities as splendour strength, lordship, great wisdom, sapreme valour and might." 
 
-* Is there any one that can comprehend the qualities of Vishnu, who is the inner self of all beings?" "My boy, just as the gems in the ocean are countless, the qualities of the Lord armed with Chakra are innumerable ; " 
+\* Is there any one that can comprehend the qualities of Vishnu, who is the inner self of all beings?" "My boy, just as the gems in the ocean are countless, the qualities of the Lord armed with Chakra are innumerable ; " 
 
 " His esqualities cannot be enumerated even in tens of thou. sands of yesis by even all the gods assembled together. If there be any man of pure mind anywhere, gifted with the period of life appointed for Brahma and if he be further endowed with a thousand mouths, he way be able, o best of gods, to enumerate one teo-thousandth fraction of Thy qualities or may bot be able." 
 
 “Though Thy "qualities are infinite, yet six of them are fore most among them; even as the niverse is borne within thy body, the other qualities too, are contained within them." 
 
-" It is * owing to the deficiency of arrows that the man who wishes to cover the sky desists and not owing to any deficiency in the space of the sky. (So also ) we fall back from the praise of Govinda, owing to our deficiency of intelligence and aot owing to any deficiency in His qualities." 
+" It is \* owing to the deficiency of arrows that the man who wishes to cover the sky desists and not owing to any deficiency in the space of the sky. (So also ) we fall back from the praise of Govinda, owing to our deficiency of intelligence and aot owing to any deficiency in His qualities." 
 
 38 Ramayana: Yuddhakanda: 41. Brahmapurana 
 
@@ -157,7 +157,7 @@ THE FIVE THINGS TO BE KNOWN
 
 38 OH AFTER 
 
-* Thon hast "qualities which, being remembered, afflict me during Thy separation - me the great sinner." 
+\* Thon hast "qualities which, being remembered, afflict me during Thy separation - me the great sinner." 
 
 "He bas "noble qualities like bliss, which are limitless in extent." 
 
@@ -175,7 +175,7 @@ Bhagavan should be thought of, also, es having a trans cendent, super sensuous (
 
 “The body of the Supreme Being is not constituted of the (five) elements." 
 
-His form **is not constituted of prakriti or matter por formed of flesh, lymph or bone." 
+His form \*\*is not constituted of prakriti or matter por formed of flesh, lymph or bone." 
 
 " This form shus four arms, is supremely excellent, and is in Vaikunta." 
 
@@ -217,7 +217,7 @@ SRIMAD RABABYATRAYASARA
 
 CHAPTER 
 
-"He has, for ** His abode, the called Mahā vibhuti. 
+"He has, for \*\* His abode, the called Mahā vibhuti. 
 
 region 
 
@@ -235,17 +235,17 @@ whom
 
 is the origin etc. of this world" 
 
-* All this is Hari's play (or sport)." 
+\* All this is Hari's play (or sport)." 
 
-* Of 67 Him who plays like a child" 
+\* Of 67 Him who plays like a child" 
 
-*** Playing like a boy with his toys" 
+\*\*\* Playing like a boy with his toys" 
 
 "Thou "playest with Thy creatures, as if they were balls for 
 
 sport." 
 
-* All o this is merely for play (on the part of Brahman) as in the world (kings play with balls). 
+\* All o this is merely for play (on the part of Brahman) as in the world (kings play with balls). 
 
 62. Vishnupurana: 5-1-50 63. Bhagavad Gita: 10-40 64. Alavandar Stotram: 17 65. Brahma Sutras: 1-1-2. 66. Mahabharata: Santiparva: 206-58 
 
@@ -255,7 +255,7 @@ sport."
 
 THE FIVE THINGS TO BE KNOWN 
 
-* SUMMARY. 
+\* SUMMARY. 
 
 Thus Brahman, the object of attainment, is ever with Lakshmi : He is infinite jnana and infinite bliss, and is opposed to all that is imperfect and objectionable. He is possessed of countless auspicious qualities like wisdom and power. He has a celestial and transcendent form of auspicious nature. He has two vibhūtis (rula and nitya ) which are His body; He has, for His play or sport (lila), the work of creating the world, of maintaining and controlling it and the like. 
 
@@ -307,7 +307,7 @@ The foremost of these bindrances is the punishment ipflicted by Bhagavan for dis
 
 73. Tiruvoymozhi. 3-2-1 CHAPTER 
 
-of the truth and (2) erraneous knowledge and so also (3) sub. jection to sepse-pleasures. As Sri Ramanuja says, "This ** (association with matter) causes obscuration of a knowledge of the essential nature of Bhagavan and also false knowledge. Besides it makes the jiva think that tbis association is delightful." As & consequence of this, it induces the jiva to disobey His orders and do forbidden things for the sake of petty pleasures. To quote again the words of the Alwar: "Is it right on Thy part to confound my soul and excite my five senses by showing me, who am & sinner, all sorts of petty pleasures?" One act of disobedience leads to further acts of sin. Well bas it been said, "Sin "committed again and again destroys wisdom and the man withoot wisdom begins further acts of a sinful nature." In consequence the Lord makes the jiva wander again and again through the cycle of life in the womb, birth, old age, death, and bell, as stated by Himself, "I throw them always into asuric births" By means of the scriptures of those who are actuated by rajas and tamas, which show the way to secure petty pleasures, the jiva is made to fall at the feet of petty deities who are themselves souls ( kshetrajna) fettered with similar cbains. “Those who are actuated by rajas" it has been declared, “worship gakshas and Rakshasas ; and those who are actuated by tamas worship the spirits of the dead and elemental spirits ( Bhūtagana)". The jiva is deloded into considering bimself as greatly benefited by the mean and gruesome enjoyments afforded by these deities in the same way as worms find a pleasure in dirt and filth. 
+of the truth and (2) erraneous knowledge and so also (3) sub. jection to sepse-pleasures. As Sri Ramanuja says, "This \*\* (association with matter) causes obscuration of a knowledge of the essential nature of Bhagavan and also false knowledge. Besides it makes the jiva think that tbis association is delightful." As & consequence of this, it induces the jiva to disobey His orders and do forbidden things for the sake of petty pleasures. To quote again the words of the Alwar: "Is it right on Thy part to confound my soul and excite my five senses by showing me, who am & sinner, all sorts of petty pleasures?" One act of disobedience leads to further acts of sin. Well bas it been said, "Sin "committed again and again destroys wisdom and the man withoot wisdom begins further acts of a sinful nature." In consequence the Lord makes the jiva wander again and again through the cycle of life in the womb, birth, old age, death, and bell, as stated by Himself, "I throw them always into asuric births" By means of the scriptures of those who are actuated by rajas and tamas, which show the way to secure petty pleasures, the jiva is made to fall at the feet of petty deities who are themselves souls ( kshetrajna) fettered with similar cbains. “Those who are actuated by rajas" it has been declared, “worship gakshas and Rakshasas ; and those who are actuated by tamas worship the spirits of the dead and elemental spirits ( Bhūtagana)". The jiva is deloded into considering bimself as greatly benefited by the mean and gruesome enjoyments afforded by these deities in the same way as worms find a pleasure in dirt and filth. 
 
 Even those who practise yoga are made to practise it in con. Dection with petty deities or in the meditations of such inanimate 
 
@@ -319,11 +319,11 @@ THE FIVE THINGS TO BE KNOWN
 
 45 
 
-things as *nāma being Brahman and are made to fall therefrom in the acquisition of minor results. Even those who are devoted to the soul or ātmā are made to meditate on their ātmā either in contact with matter or as separated from matter either as if it were Brahman or as the atma in its own essential datore. As the regolt of these four kinds of meditation, the jiva obtains petty enjoyments after which he falls back into samsāra. Even in the case of those who practise trae meditation on Brabman, and who meditate prima. rily on their own selves as having Brahman for their inner self or who think primarily of Brabman who has for His body their own selves - even they may be detained by the state of kaivalya or the enjoyment of their own selves, by the attainment of the It eight kiods of siddhi, by the attainment of the status of the vasus, or by the entrance into the body of Brahma and the like. Their (temporary) lapse from the highest aim or goal of life (namely, the enjoyment of the bliss of Brahman) is like that of & prince, whose coronation day has been already fixed, casting eyes on the servant maids who attended on hini while in prison. They are made to linger fondly over the body and the senses wbich are tbe result of past karma and those that are related to the body (like relatives) and the enjoyments connected with them. In this way they become subject to other pleasures than the final goal. Thus there are many forms of hindrance in the way of the attainment of Bhagavan. When a well thirty-two steps wide has to be leaped over, it makes no difference whether the man falls at the very first step or at the thirty-second step. In the same way wherever or at whatever stage the bindrance occurs, the jiva has not transcended samsūra, 
+things as \*nāma being Brahman and are made to fall therefrom in the acquisition of minor results. Even those who are devoted to the soul or ātmā are made to meditate on their ātmā either in contact with matter or as separated from matter either as if it were Brahman or as the atma in its own essential datore. As the regolt of these four kinds of meditation, the jiva obtains petty enjoyments after which he falls back into samsāra. Even in the case of those who practise trae meditation on Brabman, and who meditate prima. rily on their own selves as having Brahman for their inner self or who think primarily of Brabman who has for His body their own selves - even they may be detained by the state of kaivalya or the enjoyment of their own selves, by the attainment of the It eight kiods of siddhi, by the attainment of the status of the vasus, or by the entrance into the body of Brahma and the like. Their (temporary) lapse from the highest aim or goal of life (namely, the enjoyment of the bliss of Brahman) is like that of & prince, whose coronation day has been already fixed, casting eyes on the servant maids who attended on hini while in prison. They are made to linger fondly over the body and the senses wbich are tbe result of past karma and those that are related to the body (like relatives) and the enjoyments connected with them. In this way they become subject to other pleasures than the final goal. Thus there are many forms of hindrance in the way of the attainment of Bhagavan. When a well thirty-two steps wide has to be leaped over, it makes no difference whether the man falls at the very first step or at the thirty-second step. In the same way wherever or at whatever stage the bindrance occurs, the jiva has not transcended samsūra, 
 
-* NOTE:- In the Chandogya upanishad VII chapter, it is stated as follows:- *He who worships nama or names like rig veda, sama veda, Itihasa and purana as if they were Brabman will realise only very limited fruits such as can be reached with these namos". 
+\* NOTE:- In the Chandogya upanishad VII chapter, it is stated as follows:- \*He who worships nama or names like rig veda, sama veda, Itihasa and purana as if they were Brabman will realise only very limited fruits such as can be reached with these namos". 
 
-** NOTE: The eight kinds of siddhi: Anima (contraction of one's body to the size of an atom, mahima (assuming a huge form) Laghima (makiog one's body light) Garima (making the body heavy), vasitvam (mastery over self), aisvar yam (lordship) prapti the power of obtaining whatever one wants and prakamyam (perfect froedom of the will.) 
+\*\* NOTE: The eight kinds of siddhi: Anima (contraction of one's body to the size of an atom, mahima (assuming a huge form) Laghima (makiog one's body light) Garima (making the body heavy), vasitvam (mastery over self), aisvar yam (lordship) prapti the power of obtaining whatever one wants and prakamyam (perfect froedom of the will.) 
 
 46 CHAPTER 
 

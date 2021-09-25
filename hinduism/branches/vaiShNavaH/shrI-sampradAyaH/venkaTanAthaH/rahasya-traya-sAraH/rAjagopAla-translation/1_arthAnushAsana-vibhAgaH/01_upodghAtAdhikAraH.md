@@ -11,7 +11,7 @@ I adore the regular and spotless succession of Acharyas which is well-known to e
 
 SANSKRIT VERSE: 
 
-I bow to those great men who have refuted the arguments of men *that chop logic and ask, “Why and wherefore ?", in connection with the truths of) the sastra which treats (in two parts) of karma and Brabman. They have thereby rendered clean the highroad that leads to the Lord of Hastigiri. 
+I bow to those great men who have refuted the arguments of men \*that chop logic and ask, “Why and wherefore ?", in connection with the truths of) the sastra which treats (in two parts) of karma and Brabman. They have thereby rendered clean the highroad that leads to the Lord of Hastigiri. 
 
 TAMIL VERSE: 
 
@@ -25,15 +25,15 @@ NOTE:- It is said by some that this sloka pays homage to the author's uncle
 
 Appullar who established the importance of bhakti and prapatk by refüting the arguments of opponents in his writings. There arc others who hold that there is a reference to Desikar's teacher under whom he studied Tiruvoymozhi and who is known to have swept the streets clean during the procession of Sri Varadaraja at Kanchee. 
 
-puram. * logic choppers like Tarkikas12 OHAPTER 
+puram. \* logic choppers like Tarkikas12 OHAPTER 
 
 with His glance at a turn in the tide of fortune, he attains to a knowledge of his real nature ( 48 one entirely dependent on God and existing only for Him ). This becomes possible by virtue of the teaching imparted to him by his gurus and thas he succeeds in saving himself. 
 
 THE HERITAGE OF THE JĪVĀTMĀ. 
 
-How the Jivātmā lost this heritage. The individual soul (Jivatma) has been declared in the diffe rent sāstras as being dear to the Lord of Lakshmi even like the gem Kaustubha; be has been called the prince, the Lord's son, His disciple, His attendant, His dependant existing solely for Him *(sesha ) and His servant. The Lord is his s'eshi for whose pur poses (alone) he esists by bis very nature. T'he Lord is the ruler of the eternal Suris, who are ever free from ignorance. He is possessed of unsurpassed auspicious qualities; He loves us as He does the lotus-born Lakshmi. He is the Lord of men on earth and of the Suris in Heaven. As has been said “ The Lord of the Universe dwells in the Supreme Region of Vaikunta along with Lakshmi," " +Thou art ever with Lakshmi adorned with shiping bracelets". He dwells in the pure world of suddhasatva ( nitya vibhiti) along with His great queen and is seated on a couch, as described in such places as the Koushitaki Brāhmana, in a hall of splendour which is lit up with gems and stands on & thousand pillars, in the eternal and changeless city called by names like Ayodbya; for instance, it is said, "It is called Ayodhya and Aparajita and is beyond the world of svarga." The Lord is seated on the bed of the serpent called Sesha who is like an umbrella to the Lord when He moves about and like a throne whenever be is seated. He has been described "&g the Lord's abode, His bed, 
+How the Jivātmā lost this heritage. The individual soul (Jivatma) has been declared in the diffe rent sāstras as being dear to the Lord of Lakshmi even like the gem Kaustubha; be has been called the prince, the Lord's son, His disciple, His attendant, His dependant existing solely for Him \*(sesha ) and His servant. The Lord is his s'eshi for whose pur poses (alone) he esists by bis very nature. T'he Lord is the ruler of the eternal Suris, who are ever free from ignorance. He is possessed of unsurpassed auspicious qualities; He loves us as He does the lotus-born Lakshmi. He is the Lord of men on earth and of the Suris in Heaven. As has been said “ The Lord of the Universe dwells in the Supreme Region of Vaikunta along with Lakshmi," " +Thou art ever with Lakshmi adorned with shiping bracelets". He dwells in the pure world of suddhasatva ( nitya vibhiti) along with His great queen and is seated on a couch, as described in such places as the Koushitaki Brāhmana, in a hall of splendour which is lit up with gems and stands on & thousand pillars, in the eternal and changeless city called by names like Ayodbya; for instance, it is said, "It is called Ayodhya and Aparajita and is beyond the world of svarga." The Lord is seated on the bed of the serpent called Sesha who is like an umbrella to the Lord when He moves about and like a throne whenever be is seated. He has been described "&g the Lord's abode, His bed, 
 
-*NOTE:- A Sutra or aphorism in Purya Mimamsa says: “ That is called a 
+\*NOTE:- A Sutra or aphorism in Purya Mimamsa says: “ That is called a 
 
 sesha which serves the purpose of another (and that other is called a sesht) (e. g.) In a sacrifice, the grains of rice are sesha to the sacrifice which is seshi because they serve the purpose of the sacri 
 
@@ -69,7 +69,7 @@ INTRODUCTORY
 
 The applicability of the parable to the Jīva, In the same way, some generous benefactors who are intro duced to the Jiva by parents and the like belp him realise that "the soul is neither God nor man nor beast nor tree, and that these diffe rences of body and shape are due to karma." They opable him to understand that the soul is different from the body and adopt the proper means to make him pursue the goal or sim suited to bis essential nature and to follow the path that would lead to it. They create in him qualities and modes of conduct found in men endowed with the splendour of wisdom and not in men who are so absorbed in their bodies as to forget their soul and they bring bim to a position in wbich he is capable of distinguishing between wbat should be rejected and wbat is worthy of adoption, Now in the parable, on seeing for themselves the prince's innate fitness, the transformation wrought in him by some worthy men and his intelligence, some teachers being directed by the Supreme Master who is all compassion and being themselves bigbly compassionate appear before him and reveal bis true parentage to him as also what is higbly desirable to one in bis station and the means of attaining it. It has been said, "God's love, good deeds done by chance, the gracious glance of God, freedom from hate, willingness to learn and the conversation of good men - these are six causes that lead to the acquisition of an acharya." Those good men in the parable would strive in every possible way to bring about & longing for re-union in the mind of) the prince and the king. So also with the Jiva. His gurus reveal to the Jīva the intimate relation existing between him and Narayana, the Lord of Lakshmi, who rules with Bis sceptre the earth surrounded by the turbulent ocean and the world of Vaikunta without even the least exception. Do not the sāstras say, "The soul is neither God nor men, neither beast nor tree. Its essential nature is knowledge and bliss and it is entirely dependent on the Supreme Being and exists solely for His parposes (Sesha)" and again, "The souls are indeed the servants by nature of the Supreme + Being ?" These gurus 
 
-* Nachiar Tirumozhi : 11 - 3 
+\* Nachiar Tirumozhi : 11 - 3 
 
 † Mantrarajapadastotram 
 
