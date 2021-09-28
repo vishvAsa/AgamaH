@@ -27,7 +27,7 @@ sciousness. The descending arc is the unfoldment of consciousness which brings t
 
 is elevated to its original source. 8. The 'means' (upāya) are a door which allows the practitioner to 
 
-enter the inner sanctum of Siva. This entrance or absorption is technically called aveśa. A bound being is limited and therefore devoid of freedom, thus a human being is incapable of conceiving its own real nature. When this limitation disappears by the 'means' (upāya), the state of identity with the Absolute that occurs is known as absorption (samāveśa). This absorption is fourfold: born of Sambhu or Siva (śāmbhava), born of Sakti (śākta), and born of anu (aṇava). The fourth type of samāveśa referred to in the text is the absorption brought about by anupaya. 
+enter the inner sanctum of Siva. This entrance or absorption is technically called aveśa. A bound being is limited and therefore devoid of freedom, thus a human being is incapable of conceiving its own real nature. When this limitation disappears by the 'means' (upāya), the state of identity with the Absolute that occurs is known as absorption (samāveśa). This absorption is fourfold: born of śambhu or Siva (śāmbhava), born of Sakti (śākta), and born of anu (āṇava). The fourth type of samāveśa referred to in the text is the absorption brought about by anupaya. 
 
 NOTES 217 
 
@@ -195,7 +195,7 @@ sumes all differences, it is known as fire. In reality, being of the nature of I
 
 states and attain absorption by unifying these four states. 45. The term kalana has different meanings. Kālī is the conscious agent 
 
-who performs kalana, therefore she is known as Kālī. The number of Kālis is twelve. They are as follows: (1) Sșstikālī, (2) Sthiti Kālī, (3) Saṁhārakālī, (4) Raktakālī, (5) Svakālī (sukālī), (6) Yama Kālī, (7) Mộtyukālī, (8) Rudrakālī (Bhadrakālī), (9) Paramārkakālī, (10) Mārtandakālī, (11) Kālāgnirudrakālī, and (12) Mahākālī (Parākālī, Mahākālakālī, Kālakālī). This kalana also occurs in relation to the knowable, the instrument of knowledge, and the knowing subject. As each state is of the characteristic of creation, maintenance, dis solution, and the nameless one (anākhyā), the number of the divine 
+who performs kalana, therefore she is known as Kālī. The number of Kālīs is twelve. They are as follows: (1) Sșstikālī, (2) Sthiti Kālī, (3) Saṁhārakālī, (4) Raktakālī, (5) Svakālī (sukālī), (6) Yama Kālī, (7) Mộtyukālī, (8) Rudrakālī (Bhadrakālī), (9) Paramārkakālī, (10) Mārtandakālī, (11) Kālāgnirudrakālī, and (12) Mahākālī (Parākālī, Mahākālakālī, Kālakālī). This kalana also occurs in relation to the knowable, the instrument of knowledge, and the knowing subject. As each state is of the characteristic of creation, maintenance, dis solution, and the nameless one (anākhyā), the number of the divine 
 
 energies also becomes twelve. 46. Here the word Maheśvara does not refer to the highest Lord of this 
 
@@ -953,7 +953,7 @@ ple in the course of initiation. To which principle one is joined will depend on
 
 details, see Chapter 22 of the Tantrāloka. 220. Abhinavagupta gives the names of the genetic mantras 
 
-(sādhāraṇāḥ mantrāḥ) in TĀ 22: 20. They are seven in number and their names are: praṇava or mantra aum, mātskā, māyā, vyo mavyāpi, șadakṣara, bahurūpa, and the eye mantra (netra). According to TĀ 22: 15-17a, this is what a teacher says to one who is about to embrace Saivism and receive initiation: "This one was once a follower of other disciplines but is now inspired by your blessing; therefore bestow your grace (śaktipāta) upon him, so that this abandonment of other doctrines does not become a source of doubt for him, which will oblige him to practice rights of atone ment. And having attained identity with you, may he quickly achieve perfection and liberation." 
+(sādhāraṇāḥ mantrāḥ) in TĀ 22: 20. They are seven in number and their names are: prāṇava or mantra aum, mātskā, māyā, vyo mavyāpi, șadakṣara, bahurūpa, and the eye mantra (netra). According to TĀ 22: 15-17a, this is what a teacher says to one who is about to embrace Saivism and receive initiation: "This one was once a follower of other disciplines but is now inspired by your blessing; therefore bestow your grace (śaktipāta) upon him, so that this abandonment of other doctrines does not become a source of doubt for him, which will oblige him to practice rights of atone ment. And having attained identity with you, may he quickly achieve perfection and liberation." 
 
 Chapter Eighteen 221. In T.23:3-4, Abhinavagupta explains that a spiritual guide 
 
