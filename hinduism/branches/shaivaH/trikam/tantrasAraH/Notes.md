@@ -111,7 +111,7 @@ nitions appears as the universe. She, that is, śakti, is the cause, or the moth
 
 six principles (tattva), beginning with śiva and ending with the earth. 26. In reality the number of cognitions is six. They are anuttara, iccha, 
 
-unmeṣa, ānanda, īśāna, and ürmi. However, because of expansion and reverse movement the number becomes twelve. When anuttara proceeds to expand it becomes “a." Similarly, "i" becomes "i" and "u” becomes "ú." This movement is called prasarana. At the same 
+unmeṣa, ānanda, īśāna, and ūrmi. However, because of expansion and reverse movement the number becomes twelve. When anuttara proceeds to expand it becomes “a." Similarly, "i" becomes "i" and "u” becomes "ú." This movement is called prasarana. At the same 
 
 time, mutual relation of "a" with "," "a" with "u," ";" with “a," "u" with "a," "a" with bindu, and "a" with visarga occurs. It is then known as pratisamcarana. Thus the phonemes which come into being following the above methods are of mixed character. They make the fullness of the Lord. 
 
@@ -251,7 +251,7 @@ the flames of the fire of consciousness. 57. While giving exposition of the myst
 
 movement of the vital energy, the author states that due to this movement an unmanifest sound becomes manifest. This unmani fest sound is called unstruck sound (anāhata). Before the rise of 
 
-prāṇa, the aspirant causes it for a moment to rest in his heart. 58. By the term void (sünya) negation is meant. This is the state of dis 
+prāṇa, the aspirant causes it for a moment to rest in his heart. 58. By the term void (sūnya) negation is meant. This is the state of dis 
 
 solution of all objects. The heart is known as the void where nonex istence of any positive entity is possible. It is essentially of the nature of consciousness where bliss, the essence of it, remains per fectly blossoming. It is because of this nature that it is called innate blissfulness (nijānanda). The experiencing subject feels it as the very nature of the Self. With direct vision of one's own nature this 
 
@@ -339,7 +339,7 @@ ness (samvit), causes everything to manifest externally. The result
 
 232 NOTES 
 
-of this mutation is that the very consciousness itself assumes the nature of vital energy, in which all forms begin to shine forth. However, in this process of externalization, consciousness by its free will separates the universe from itself. At that time it cognizes, "I transcend everything." This is the experience characteristic of the void (sünya) of consciousness. This void of consciousness seems to be static. However, dynamism in the form of a slight vibrating pulsation begins to show itself. When this happens, the first creative flow begins to proceed outwardly into manifestation. 
+of this mutation is that the very consciousness itself assumes the nature of vital energy, in which all forms begin to shine forth. However, in this process of externalization, consciousness by its free will separates the universe from itself. At that time it cognizes, "I transcend everything." This is the experience characteristic of the void (sūnya) of consciousness. This void of consciousness seems to be static. However, dynamism in the form of a slight vibrating pulsation begins to show itself. When this happens, the first creative flow begins to proceed outwardly into manifestation. 
 
 This flow is not the flow of consciousness but of the vital energy. 76. When the power of activity becomes predominant, the entire cre 
 
@@ -849,7 +849,7 @@ ity, has to account for ritual action, which consists of factors or participants
 
 NOTES 253 
 
-seen, consists of the factors or the participants in action described by a sentence. For Abhinavagupta, on the other hand, the supreme reality, which consists of prakāśa and vimarśa, even in the process of externalization, remains established in its own Self, 'relishing' (camatkāra) the bliss of 'fullness' (pürnatā), and 'independence' (svātantrya) of its own essential nature, which is in no way over shadowed by the external manifestation. The lower aspect of cre ation is a contracted form of that supreme consciousness, which, through the activity of måyå śakti, assumes limited forms, thus bringing into existence the notion of duality. Thus, the supreme reality consists as much of differentiation as it does of unity. This differentiation always remains within that I-Consciousness and therefore is never separate from it. Thus, unlike Samkara for whom action is always binding, Abhinavagupta accepts action, 
+seen, consists of the factors or the participants in action described by a sentence. For Abhinavagupta, on the other hand, the supreme reality, which consists of prakāśa and vimarśa, even in the process of externalization, remains established in its own Self, 'relishing' (camatkāra) the bliss of 'fullness' (pūrnatā), and 'independence' (svātantrya) of its own essential nature, which is in no way over shadowed by the external manifestation. The lower aspect of cre ation is a contracted form of that supreme consciousness, which, through the activity of måyå śakti, assumes limited forms, thus bringing into existence the notion of duality. Thus, the supreme reality consists as much of differentiation as it does of unity. This differentiation always remains within that I-Consciousness and therefore is never separate from it. Thus, unlike Samkara for whom action is always binding, Abhinavagupta accepts action, 
 
 such as the ritual activity, as potentially liberating. 193. In TĀ 15: 161, Abhinavagupta describes the role and the meaning 
 
