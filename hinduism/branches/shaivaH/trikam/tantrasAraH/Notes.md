@@ -7,7 +7,7 @@ Chapter One
 
 
 
-3. The descent of sacred texts (śāstra) occurs through five currents, known as consciousness, bliss, will, knowledge, and action, repre senting five faces of Siva. These are the five śaktis of the Lord and are connected with the faces of Isana, Tatpuruṣa, Sadyojāta, Vāmadeva, and Aghora, respectively. Among the holy texts (āgamas), some are predominantly dualistic, some are dual-cum nondual, and some are perfectly nondual. The number of dualistic āgamas is ten, while those which preach the doctrine of duality cum-nonduality are eighteen in number, and those whose view is 
+3. The descent of sacred texts (śāstra) occurs through five currents, known as consciousness, bliss, will, knowledge, and action, repre senting five faces of śiva. These are the five śaktis of the Lord and are connected with the faces of Isana, Tatpuruṣa, Sadyojāta, Vāmadeva, and Aghora, respectively. Among the holy texts (āgamas), some are predominantly dualistic, some are dual-cum nondual, and some are perfectly nondual. The number of dualistic āgamas is ten, while those which preach the doctrine of duality cum-nonduality are eighteen in number, and those whose view is 
 
 perfectly nondual are sixty-four in number. 4. The compound word svabhāvah (svasya bhāvah) denotes the funda 
 
@@ -27,13 +27,13 @@ sciousness. The descending arc is the unfoldment of consciousness which brings t
 
 is elevated to its original source. 8. The 'means' (upāya) are a door which allows the practitioner to 
 
-enter the inner sanctum of Siva. This entrance or absorption is technically called aveśa. A bound being is limited and therefore devoid of freedom, thus a human being is incapable of conceiving its own real nature. When this limitation disappears by the 'means' (upāya), the state of identity with the Absolute that occurs is known as absorption (samāveśa). This absorption is fourfold: born of śambhu or Siva (śāmbhava), born of Sakti (śākta), and born of anu (āṇava). The fourth type of samāveśa referred to in the text is the absorption brought about by anupaya. 
+enter the inner sanctum of śiva. This entrance or absorption is technically called aveśa. A bound being is limited and therefore devoid of freedom, thus a human being is incapable of conceiving its own real nature. When this limitation disappears by the 'means' (upāya), the state of identity with the Absolute that occurs is known as absorption (samāveśa). This absorption is fourfold: born of śambhu or śiva (śāmbhava), born of śakti (śākta), and born of anu (āṇava). The fourth type of samāveśa referred to in the text is the absorption brought about by anupaya. 
 
 NOTES 217 
 
 9. The upāyas are the means to attain the supreme end of human life. 
 
-Upāya is the means and upāya is the 'end,' which is Paramasiva, the supreme Lord. Some of the means help to obtain that end (upeya) directly, while others lead to increasingly subtle states of being until the aspirant is able to intuitively realize that the supreme is not merely attained by entering some mental state through upāya. All the means serve some purpose: āṇava merges into sakta, and sakta merges into śāmbhava. Upon attaining the śāmbhava upāya, one merges into the non-sequential 'intuitive knowledge' (pratibha) characterized by that self-effulgent light (prakasa). These means are relatively distinct because of grada tions in the intensity of the descent of grace' (śaktipāta); that is, the intensity of contact with the grace of the Lord. The degree of grace one receives varies with the preparedness of the person. When the grace is supremely intense, the person does not take 
+Upāya is the means and upāya is the 'end,' which is Paramaśiva, the supreme Lord. Some of the means help to obtain that end (upeya) directly, while others lead to increasingly subtle states of being until the aspirant is able to intuitively realize that the supreme is not merely attained by entering some mental state through upāya. All the means serve some purpose: āṇava merges into sakta, and sakta merges into śāmbhava. Upon attaining the śāmbhava upāya, one merges into the non-sequential 'intuitive knowledge' (pratibha) characterized by that self-effulgent light (prakasa). These means are relatively distinct because of grada tions in the intensity of the descent of grace' (śaktipāta); that is, the intensity of contact with the grace of the Lord. The degree of grace one receives varies with the preparedness of the person. When the grace is supremely intense, the person does not take 
 
 recourse to any sort of spiritual practice or meditation. He sees and : realizes that the entire universe continuously emerges and dissolves 
 
@@ -41,7 +41,7 @@ within the core of his heart. 10. The whole text of the Tantrāloka and its shor
 
 trasāra, are elaborations on the subject of these four means. The exposition in the both texts begins with Chapter Two, in which Abhinavagupta describes the nature of anupāya. 
 
-Chapter Two 11. The term anupāya refers to the attainment of identity with Siva 
+Chapter Two 11. The term anupāya refers to the attainment of identity with śiva 
 
 without the application of any means. 
 
@@ -79,7 +79,7 @@ anuttara, icchā, and unmeṣa, represented by the three phonemes "a,” “i," 
 
 nature of the moon. 19. The syllable "a" has another “a” as its corresponding phoneme. The 
 
-one represents Siva and the other Sakti. The vibrative union of both gives rise to b[iss (ånanda), representing the phoneme.“ā.” It is from the energy of ānanda śakti that the universe comes into being, which in short are all the remaining phonemes beginning with icchā and ending in "kṣa.” This union of "a" and "a" is character ized by consciousness alone, while pratyavamarśana, the cognitive desire to create sisskṣātmā, is known as the energy of will. This desire representing will (icchā) is the desire to get back to bliss that 
+one represents śiva and the other śakti. The vibrative union of both gives rise to b[iss (ånanda), representing the phoneme.“ā.” It is from the energy of ānanda śakti that the universe comes into being, which in short are all the remaining phonemes beginning with icchā and ending in "kṣa.” This union of "a" and "a" is character ized by consciousness alone, while pratyavamarśana, the cognitive desire to create sisskṣātmā, is known as the energy of will. This desire representing will (icchā) is the desire to get back to bliss that 
 
 has been as if lost. 20. Icchā, īśana, unmeṣa, and urmi represent the energy of will and the 
 
@@ -93,7 +93,7 @@ the energy merge in the one which shows itself as the bindu or drop. 22. Bindu i
 
 ferentiated point from which the creation of the universe proceeds. 23. On its way of unfolding the universe, the akulaśakti belonging to 
 
-Siva first manifests bindu represented by one dot. Further, out of bindu, the kauliki visarga śakti emerges in the form of two dots,220 NOTES 
+śiva first manifests bindu represented by one dot. Further, out of bindu, the kauliki visarga śakti emerges in the form of two dots,220 NOTES 
 
 one above the other. It is from this śakti that the creation of the 
 
@@ -107,9 +107,9 @@ ness with all the distinctions of subjects and their objects-yet also shines, tr
 
 with the subject of supreme consciousness. 25. The energy of emission (visarga) manifesting itself as individual cog 
 
-nitions appears as the universe. She, that is, Sakti, is the cause, or the mother, of all sorts of gross words and sentences. In agamas it has two appellations; the one is called mātska and the other malini. The former is the seed (bīja) and the latter is the recipient (yoni) of the seed. The one, when agitated, gives birth to diverse phonemes. All these phonemes, being the indicative sound, represent all thirty 
+nitions appears as the universe. She, that is, śakti, is the cause, or the mother, of all sorts of gross words and sentences. In agamas it has two appellations; the one is called mātska and the other malini. The former is the seed (bīja) and the latter is the recipient (yoni) of the seed. The one, when agitated, gives birth to diverse phonemes. All these phonemes, being the indicative sound, represent all thirty 
 
-six principles (tattva), beginning with Siva and ending with the earth. 26. In reality the number of cognitions is six. They are anuttara, iccha, 
+six principles (tattva), beginning with śiva and ending with the earth. 26. In reality the number of cognitions is six. They are anuttara, iccha, 
 
 unmeṣa, ānanda, īśāna, and ürmi. However, because of expansion and reverse movement the number becomes twelve. When anuttara proceeds to expand it becomes “a." Similarly, "i" becomes "i" and "u” becomes "ú." This movement is called prasarana. At the same 
 
@@ -129,7 +129,7 @@ Padoux's Vāc: The Concept of the Word in Selected Hindu Tantras. 29. Even on th
 
 contact with pure knowledge (śuddhavidyā) through which they can 
 
-be utilized to serve the purpose of both enjoyment and liberation. 30. Pure absorption into Siva (śāmbhava samāvesa) signifies pure con 
+be utilized to serve the purpose of both enjoyment and liberation. 30. Pure absorption into śiva (śāmbhava samāvesa) signifies pure con 
 
 sciousness. When a yogin attains it, he realizes that all the six paths (sadadhvas) are not different from his own Self. They reflect in his own consciousness, rise in his very Self, and gain their rest in it. In the integrated unitary consciousness, creation, maintenance, and 
 
@@ -167,7 +167,7 @@ NOTES 223
 
 truthfulness, not stealing, restraining one's sexual urge, and nonac ceptance of gifts. They are not considered to be the direct aid in attainment of consciousness. This is because the real nature of con 
 
-sciousness which is Siva is not touched by any of these means. 39. Withdrawal of senses from the external objects and placing them in 
+sciousness which is śiva is not touched by any of these means. 39. Withdrawal of senses from the external objects and placing them in 
 
 one's heart is known as pratyāhārā. However, for the consciousness which is all-pervasive, withdrawal is not possible. In the same way, concentration, meditation, and absorption (samadhi) are related to something which is limited. Therefore, they do not serve any pur 
 
@@ -177,7 +177,7 @@ vital energy, in the intellect, or in the body, etc. Lifting heavy loads, studyi
 
 fore, practice does not add or take away anything from it. 41. The universe is the sportive play of three energies (śaktis). The first 
 
-is the supreme energy in which all the principles (tattvas) from Siva to the earth shine as pure consciousness, free from all determinate knowledge (nirvikalpa). The second, known as Srīparāparā śakti, by which everything shines as different-cum-nondifferent like the reflection of the elephant in the mirror. Though the reflection is one with the mirror, yet, as in the case of the elephant, it is distinct from the mirror itself. The third power, named Aparāśakti, is the one by which everything under the domain of the delusive power of māyā shines with difference. There is yet another energy (śakti) which abides in everything, permeating and threading through all, which is known as Mātṇsādbhāva, Kālakarṣiṇi, and other similar names. Each of the above-mentioned śaktis, following the order of creation, maintenance, and dissolution, possesses three aspects. 
+is the supreme energy in which all the principles (tattvas) from śiva to the earth shine as pure consciousness, free from all determinate knowledge (nirvikalpa). The second, known as Srīparāparā śakti, by which everything shines as different-cum-nondifferent like the reflection of the elephant in the mirror. Though the reflection is one with the mirror, yet, as in the case of the elephant, it is distinct from the mirror itself. The third power, named Aparāśakti, is the one by which everything under the domain of the delusive power of māyā shines with difference. There is yet another energy (śakti) which abides in everything, permeating and threading through all, which is known as Mātṇsādbhāva, Kālakarṣiṇi, and other similar names. Each of the above-mentioned śaktis, following the order of creation, maintenance, and dissolution, possesses three aspects. 
 
 Therefore the number becomes twelve. 42. Knowingness (pramiti) which abides in all the knowers is the active 
 
@@ -237,7 +237,7 @@ They are associated with creation, maintenance, dissolution, and the fourth one 
 
 NOTES 227 
 
-(a) srsti-srsti, srsti-sthiti, srsti-samhāra, srsti-anākhyā (b) sthiti srsti, sthiti-sthiti, sthiti-samhāra, sthiti-anākhyā (c) saṁhāra-srsti, 
+(a) sr̥ṣṭi-sr̥ṣṭi, sr̥ṣṭi-sthiti, sr̥ṣṭi-samhāra, sr̥ṣṭi-anākhyā (b) sthiti sr̥ṣṭi, sthiti-sthiti, sthiti-samhāra, sthiti-anākhyā (c) saṁhāra-sr̥ṣṭi, 
 
 samhāra-sthiti, saṁhāra-saṁhāra, samhāra-anākhyā. 55. The transcendent wheel (anuttara cakra) consisting of twelvefold 
 
@@ -299,7 +299,7 @@ the other, to the objective world. The manifest (vyakta) linga is of the nature 
 
 nature of consciousness. 67. The movement of vital energy is of two kinds. The first one is vibra 
 
-tive and natural, while the other is of the nature of activity and is born of effort. The dynamic movement of the vital energy is ever associated with a sound which is known as unstruck sound (anāhata). It goes on sounding automatically in the heart of every living being. There is none to utter it or to stop it. All the phonemes abide inseparably in it. Furthermore, yogins experience two dis tinct aspects of nāda. The first is ever shining which does not have any rest. It only rises once and remains shining forever. Another aspect of nāda is one which rises but which also sets. However, the subtle nāda where all the phonemes inseparably abide is known as the unmanifest sound. Two seed mantras (bījas) called srsti and samhāra are its manifested forms. In other words, nada is cog 
+tive and natural, while the other is of the nature of activity and is born of effort. The dynamic movement of the vital energy is ever associated with a sound which is known as unstruck sound (anāhata). It goes on sounding automatically in the heart of every living being. There is none to utter it or to stop it. All the phonemes abide inseparably in it. Furthermore, yogins experience two dis tinct aspects of nāda. The first is ever shining which does not have any rest. It only rises once and remains shining forever. Another aspect of nāda is one which rises but which also sets. However, the subtle nāda where all the phonemes inseparably abide is known as the unmanifest sound. Two seed mantras (bījas) called sr̥ṣṭi and samhāra are its manifested forms. In other words, nada is cog 
 
 nized by the help of these seed syllables. 68. These are the letters from "ka" varga to the end of “pa” varga. In 
 
@@ -313,7 +313,7 @@ dana), which assumes the form of 'individual vibration' (visesa spanda) known as
 
 attainment of supreme reality. 71. The external objects to which one could take recourse for the attain 
 
-ment of the highest reality are: a sacred diagram (mandala), an altar, vessels, rosary beads, scriptures, the symbolic form of Siva, a human skull (tūra), a form made of plaster or a painting, or an image or statue in the likeness of one's teacher, etc. They may be 
+ment of the highest reality are: a sacred diagram (mandala), an altar, vessels, rosary beads, scriptures, the symbolic form of śiva, a human skull (tūra), a form made of plaster or a painting, or an image or statue in the likeness of one's teacher, etc. They may be 
 
 NOTES 231 
 
@@ -349,7 +349,7 @@ bhuvana. 77. Normally the movement of the vital air proceeds from the 'region of
 
 the bulb' located below the generative organ and the anus. However, no spiritual result can possibly be attained by the normal movement of the breath. Therefore, the vital breath should be made to flow from the heart by one's own effort. The śaktis named vāmā, jyest hā, and raudrī belong to the prabhu śakti and impel the movement of the breath, either singly or in combination. While the śaktis related to the Lord, one's own power, and the vital energy jointly all cause the vital breath to move upwards, at different times they assume the dominant and subordinate roles with respect to one another. When the vāmāśakti aspect of prabhu becomes predomi nant, the person remains inclined toward the world and material objects; when the jyeṣthāśakti aspect of prabhu assumes domi nance, it brings about the enlightenment of the aspirant; the raudri aspect of prabhu keeps a person linked to the world, but at the same 
 
-time it helps him to attain identity with Siva. 78. In the movement of the breath from the heart up to the 'end of 
+time it helps him to attain identity with śiva. 78. In the movement of the breath from the heart up to the 'end of 
 
 twelve' (dvādaśānta), the vital air occupies the space of thirty-six digits in length. If the four quarters of the day are supposed to exist 
 
@@ -435,7 +435,7 @@ abide in the vital energy. The vital energy is essentially of the nature of vibr
 
 becomes varied and it is experienced as highly extensive. 94. There are two 'ends of twelve' (dvādaśānta). One is above brah 
 
-mārandhra and the other is in mūlādhāra. The first is known as sivadvādaśānta, the end of twelve related to Siva, and the other is 
+mārandhra and the other is in mūlādhāra. The first is known as śivadvādaśānta, the end of twelve related to śiva, and the other is 
 
 known as the end of twelve related to śakti. 95. The six causal deities (kāraṇaṣațka) each have six centers. They 
 
@@ -531,7 +531,7 @@ NOTES 239
 
 Chapter Eight 115. The generic attribute of all jars is jarness, i.e., that which perme 
 
-ates all jars. The highest Lord, Siva, is far more extensive than any other generic attribute; therefore, he is the greatest universal by 
+ates all jars. The highest Lord, śiva, is far more extensive than any other generic attribute; therefore, he is the greatest universal by 
 
 whose light everything shines. 116. According to this system, where some specific characteristics such 
 
@@ -539,7 +539,7 @@ as, support, solidity, etc., are found, that is to be known as the earth princip
 
 and ending in the world of Virabhadra. 117. The theory of the nature of absolute causal relation states that even 
 
-at the emergence of creation, the universe is nothing but an expan sion, an 'opening up' (srsti) of the light of the autonomous Lord. The Lord is also the cause of 'maintenance' (sthiti), i.e., the uni verse remaining steadily present within the Self; and 'withdrawal (saṁhāra), the state of rest in one's own Self. According to this theory, in reality no change has taken place in the Self, which is identical with consciousness. Furthermore, internality and exter nality are not distinct from each other, but two sides of the same reality. The artificial or fictional causal relation is not real, and is accepted only to help explain the state existing in māyā. The power of causal relation is limited and governed by the Lord's restrictive 
+at the emergence of creation, the universe is nothing but an expan sion, an 'opening up' (sr̥ṣṭi) of the light of the autonomous Lord. The Lord is also the cause of 'maintenance' (sthiti), i.e., the uni verse remaining steadily present within the Self; and 'withdrawal (saṁhāra), the state of rest in one's own Self. According to this theory, in reality no change has taken place in the Self, which is identical with consciousness. Furthermore, internality and exter nality are not distinct from each other, but two sides of the same reality. The artificial or fictional causal relation is not real, and is accepted only to help explain the state existing in māyā. The power of causal relation is limited and governed by the Lord's restrictive 
 
 power (niyati). 118. For the creation of a particular object, some elements are present 
 
@@ -553,7 +553,7 @@ ing an effect. However, all of the above-mentioned instruments, along with the s
 
 action which in reality terminates in consciousness. 120. It is generally accepted that the causal relation depends on or is 
 
-controlled by the restrictive power of the Lord. Therefore, it is relative, but the absolute causal relation depends on none. Con sciousness shines in the form of the universe. For instance, all the principles (tattvas) from earth to Siva are dependent on the one prior to it. The earth is supported by the water, the water helps the earth for its solidity. Furthermore, all the elements are unable to come into being without the existence of subtle elements. In the same way, these subtle elements cannot come into existence with out the blossoming action of the sense organs. That again is impos sible without determination regarding different sense organs. This also is not possible without the existence of the primary matter inseparably and equally linked with all, which is known as mūlapraksti. This primary matter, being an enjoyable object, is unable to exist without the subject that enjoys it. The subject that experiences it is the sharer of the experience of different objects of experience. It is for that reason that it is considered limited. Thus, the limitation that is seen in a conscious subject (puruṣa) is only imposed and not real. This imposed limitation is due to kāla, kalā, niyati, rāga, and vidyā, which cannot be activated without con sciousness (samvit). However, consciousness, being partless, can not manifest without the existence of the delusive power called māyā. Freedom, the cause of limitation, has comparative distinc tions of manifestation. These features are shining in the beginning as slightly unlimited, then unlimited, then slightly blossoming and finally are fully bloomed. However, these states of the manifesta tions by the power of freedom could not be possible without that which is perfectly luminous by nature, which in this system is 
+controlled by the restrictive power of the Lord. Therefore, it is relative, but the absolute causal relation depends on none. Con sciousness shines in the form of the universe. For instance, all the principles (tattvas) from earth to śiva are dependent on the one prior to it. The earth is supported by the water, the water helps the earth for its solidity. Furthermore, all the elements are unable to come into being without the existence of subtle elements. In the same way, these subtle elements cannot come into existence with out the blossoming action of the sense organs. That again is impos sible without determination regarding different sense organs. This also is not possible without the existence of the primary matter inseparably and equally linked with all, which is known as mūlapraksti. This primary matter, being an enjoyable object, is unable to exist without the subject that enjoys it. The subject that experiences it is the sharer of the experience of different objects of experience. It is for that reason that it is considered limited. Thus, the limitation that is seen in a conscious subject (puruṣa) is only imposed and not real. This imposed limitation is due to kāla, kalā, niyati, rāga, and vidyā, which cannot be activated without con sciousness (samvit). However, consciousness, being partless, can not manifest without the existence of the delusive power called māyā. Freedom, the cause of limitation, has comparative distinc tions of manifestation. These features are shining in the beginning as slightly unlimited, then unlimited, then slightly blossoming and finally are fully bloomed. However, these states of the manifesta tions by the power of freedom could not be possible without that which is perfectly luminous by nature, which in this system is 
 
 called Bhairava. 121. This remark explains the existence of differentiation or multiplicity 
 
@@ -563,23 +563,23 @@ NOTES 241
 
 it exists in a distant place. The question implied here is, how could 
 
-the universe be created by a Lord who remains distant? 123. This is to say that the effects can be produced in a variety of ways. 124. Siva is, in essence, consciousness. He is perfectly full and free 
+the universe be created by a Lord who remains distant? 123. This is to say that the effects can be produced in a variety of ways. 124. śiva is, in essence, consciousness. He is perfectly full and free 
 
-from desire. In the state of māyā, the limited soul feels a longing for an object in order to fulfill his desires. The desire arises in the limited soul because of some want in him. The Lord, on the other hand, does not lack anything. Therefore, there is no question of any desire in him. However, on account of his freedom, a sort of intention toward tasting of his delight continuously goes on. The pentad-named siva, śakti, sadāśiva, īśvara, and śuddhavidyā, who abide in the pure path (adhva), shine with comparative intensity from the relish of the taste of delight on account of his autonomy. It is because of the comparative intensity of this relish that con sciousness manifests itself as "I" (aham). This is known as the state of śakti. In other words, consciousness which is absolute (anuttara) now sees (as if), on the mirror of consciousness, its own reflection and cognizes it to be its own, then the cognition that fol lows is “I am This” (aham idam). In this instance, the substratum where it shines is “I” and “This" shines as an indistinct outline of the picture. In the cognition, "I am This," "I” is the principal and "This" has the subordinate position. The principle known as sadāśiva abides where the host of the subjects called mantreśvara cognizes the universal light of consciousness as “I am This.” But on the level of the knowing subjects called mantreśvara, this cog nition assumes the form of “This is I," where "This” is vividly prominent and “I” is subordinate. This principle is called isvara, where “This” as the knowable shines with “I," invariably one with it. In śuddhavidyā, on the other hand, there is no distinction between principality and subordinacy. There both “I” and “This" 
+from desire. In the state of māyā, the limited soul feels a longing for an object in order to fulfill his desires. The desire arises in the limited soul because of some want in him. The Lord, on the other hand, does not lack anything. Therefore, there is no question of any desire in him. However, on account of his freedom, a sort of intention toward tasting of his delight continuously goes on. The pentad-named śiva, śakti, sadāśiva, īśvara, and śuddhavidyā, who abide in the pure path (adhva), shine with comparative intensity from the relish of the taste of delight on account of his autonomy. It is because of the comparative intensity of this relish that con sciousness manifests itself as "I" (aham). This is known as the state of śakti. In other words, consciousness which is absolute (anuttara) now sees (as if), on the mirror of consciousness, its own reflection and cognizes it to be its own, then the cognition that fol lows is “I am This” (aham idam). In this instance, the substratum where it shines is “I” and “This" shines as an indistinct outline of the picture. In the cognition, "I am This," "I” is the principal and "This" has the subordinate position. The principle known as sadāśiva abides where the host of the subjects called mantreśvara cognizes the universal light of consciousness as “I am This.” But on the level of the knowing subjects called mantreśvara, this cog nition assumes the form of “This is I," where "This” is vividly prominent and “I” is subordinate. This principle is called isvara, where “This” as the knowable shines with “I," invariably one with it. In śuddhavidyā, on the other hand, there is no distinction between principality and subordinacy. There both “I” and “This" 
 
 shine in a balanced way. 125. In this triadic system, subjects are of seven kinds. They are known 
 
-as sakala, pralayākala, vijñānākala, mantra, mantreśvara, mantramaheśvara, and Siva. Impurities are of three kinds. They are ānava, māyīya, and kārma. The āṇavamala is of two kinds. 
+as sakala, pralayākala, vijñānākala, mantra, mantreśvara, mantramaheśvara, and śiva. Impurities are of three kinds. They are ānava, māyīya, and kārma. The āṇavamala is of two kinds. 
 
 242 NOTES 
 
 First, it lacks right knowledge regarding the Self, which is of the nature of consciousness. The second is the wrong notion of con ceiving non-self, that is, the body, the sense organs, prāṇa, etc., as the Self. The impurity born of māyā (māyīya) causes the notion of difference. The impurity born of deeds (karma) appears to the soul to be of the nature of virtue and vice. Impurities are considered to be the bond by which souls remain bound to worldly existence. The knowing subjects who have all of the above three defilements (mala) are called sakala. The souls known as pralayākala have two such impurities, i.e., āṇava and karma. The vijñānākala souls have only one mala. They are of two kinds: (a) free vijñānākala souls, in which all·impurities have ended, and (b) vijñānākala souls, in: which some trace of impurity still persists. From among the first group, eight vidyeśvaras are selected, and from the second group 
 
-seven million mantras serve the Lord to help the worldly people. 126. Siva is always perfectly full of His five powers. However, he mani 
+seven million mantras serve the Lord to help the worldly people. 126. śiva is always perfectly full of His five powers. However, he mani 
 
 fests different principles in which a particular energy shines pre dominantly while other energies remain subordinate. On account of this factor different principles, even in this pure path, and dis 
 
-tinct features like Siva, Sadāśiva, etc., become manifest. 127. According to this system, defilement (mala) is not a distinct sub 
+tinct features like śiva, Sadāśiva, etc., become manifest. 127. According to this system, defilement (mala) is not a distinct sub 
 
 stance as accepted by dualist Saiva thinkers. 128. It is comparable to a seed, which does not take root and blossom 
 
@@ -641,7 +641,7 @@ be conceived as an object itself,' that is, as insentient; it is neither
 
 energy nor the possessor of energy. 143. According to this system, the universe is of a threefold nature, 
 
-non-transcendent (apara), transcendent-non-transcendent (parā para), and transcendent (para). In other words, reality is primarily conceived as possessing an objective side (nara), energy (śakti), and a possessor of the energy (śaktimān). However, Abhi navagupta points out that the thing in itself' (svarūpa) is the sphere of objectivity, the śākta is the sphere of perception, and the possessor of power is the perceiver or knowing subject. Therefore, all seven knowing subjects are Siva, who possesses different ener gies, that is, different powers in the different spheres in which they operate. The thing in itself is common to all of them, which pro vides a degree of objectivity. 
+non-transcendent (apara), transcendent-non-transcendent (parā para), and transcendent (para). In other words, reality is primarily conceived as possessing an objective side (nara), energy (śakti), and a possessor of the energy (śaktimān). However, Abhi navagupta points out that the thing in itself' (svarūpa) is the sphere of objectivity, the śākta is the sphere of perception, and the possessor of power is the perceiver or knowing subject. Therefore, all seven knowing subjects are śiva, who possesses different ener gies, that is, different powers in the different spheres in which they operate. The thing in itself is common to all of them, which pro vides a degree of objectivity. 
 
 NOTES 245 
 
@@ -685,17 +685,17 @@ to kalā are conceived and the portions of the veils (kañcukas) come into perce
 
 puruṣa is lost. 153. The distinctions have been ascertained, but the number of objects 
 
-which possess multiple natures cannot be stated. Therefore, the author, taking a clay jar as an example, presents its varied nature. Its quality of being a knowable object is nothing but its identity with the knowing subject. Therefore, when the jar is known by all knowing subjects as a jar, then it comes under the sakala group. When, on the other hand, it is only perceived by Siva, it is none 
+which possess multiple natures cannot be stated. Therefore, the author, taking a clay jar as an example, presents its varied nature. Its quality of being a knowable object is nothing but its identity with the knowing subject. Therefore, when the jar is known by all knowing subjects as a jar, then it comes under the sakala group. When, on the other hand, it is only perceived by śiva, it is none 
 
-other than Siva Himself. 154. The seeker who apprehends the earth principle as Brahman, but 
+other than śiva Himself. 154. The seeker who apprehends the earth principle as Brahman, but 
 
-who dies before becoming fully established in Siva, attains the 
+who dies before becoming fully established in śiva, attains the 
 
 state of vijñānākala. 155. Those who practice the yoga of conceiving the earth principle as 
 
 Brahman, by the end of the day of Brahmā (kalpa), or at the time 
 
-of death, attain the state of pralayakevala. 156. When the group of seven knowing subjects, from sakala to Siva, is 
+of death, attain the state of pralayakevala. 156. When the group of seven knowing subjects, from sakala to śiva, is 
 
 agitated (prakṣobha), they become intent on functioning in their respective fields. This agitation is known as a 'pulsation' or a 'change.' This brings about the appearance of the seven śaktis; there fore, the number of possessors of the śaktis (śaktimān) is also seven. 
 
@@ -715,7 +715,7 @@ ceive fifteenfold nature to the end of pradhana. 160. With the lessening of-the-
 
 a tuti also lessens. The lessening of the thought of this-ness (idantā) diminishes gradually, and it finally results in the form of 
 
-absorption into Siva constituting two digits (angulas). 161. The word sāvadhānatā here means 'steadiness of consciousness of 
+absorption into śiva constituting two digits (angulas). 161. The word sāvadhānatā here means 'steadiness of consciousness of 
 
 that is not to be diverted from here to there, or from this to that.' It means that the yogin remains attentive towards that one from which the knower of the object (grāhaka) arises, and from where the object gets its rise. It always remains steady in self-luminous 
 
@@ -749,13 +749,13 @@ one sphere from the other. They are also called coverings or veils
 
 (āvaraṇa) which do not allow one sphere to penetrate another. 168. This is to say that the qualities, such as smell, taste, touch, etc., 
 
-belonging to earth and other tattvas exist also in the śakti tattva; however, their existence is not in the gross form but in the subtle. This is the reason why Siva is ritually worshipped in the phallic 
+belonging to earth and other tattvas exist also in the śakti tattva; however, their existence is not in the gross form but in the subtle. This is the reason why śiva is ritually worshipped in the phallic 
 
-form made of five different elements. 169. The principle called Siva is free from any sorts of mutations, limi 
+form made of five different elements. 169. The principle called śiva is free from any sorts of mutations, limi 
 
 tations, or thought constructs. 170. This is to say that transcendence cannot be an object of meditation. 
 
-If an object of meditation were to exist in it, it would not be tran scendent. Therefore, the kala that functions in the lower level, just below the highest, is known as śāntā. However, Siva is beyond 
+If an object of meditation were to exist in it, it would not be tran scendent. Therefore, the kala that functions in the lower level, just below the highest, is known as śāntā. However, śiva is beyond 
 
 śāntā; therefore, no name is suitable to describe the Immutable One. 171. Anything that shines as knowable remains existing for some time, 
 
@@ -769,7 +769,7 @@ NOTES 249
 
 divisions, then their names are praksti, puruṣa, niyati, kāla, māyā, 
 
-vidyā, īśvara, sadāśiva, and Siva. 173. The worlds are perceived as objects of knowledge shining in three 
+vidyā, īśvara, sadāśiva, and śiva. 173. The worlds are perceived as objects of knowledge shining in three 
 
 different forms of knowable objects. They are: kalā, tattva, and bhuvana. In the same way, when they rest in the subject, they are also threefold, i.e., varṇa, mantra, and pada. 
 
@@ -779,7 +779,7 @@ of all manifestations and activities. What is contained in the first ten chapter
 
 knowledge for others is made clear in this chapter. 175. It is stated in the Bhagavadgita that the fire of knowledge burns 
 
-the karma of all deeds. For one undergoing the experience of past deeds, it is necessary to remain involved in actions whose fruits are to be experienced in the future. The doer has to experience the results of past actions gradually, not all at once. There is no end to the cycle of deeds or their results, and for this reason the descent of grace (śaktipāta) needs to be discussed. According to the posi tion represented here, when Sakti 'opens up in one's own self, 
+the karma of all deeds. For one undergoing the experience of past deeds, it is necessary to remain involved in actions whose fruits are to be experienced in the future. The doer has to experience the results of past actions gradually, not all at once. There is no end to the cycle of deeds or their results, and for this reason the descent of grace (śaktipāta) needs to be discussed. According to the posi tion represented here, when śakti 'opens up in one's own self, 
 
 right knowledge dawns spontaneously. 176. Karmasāmya occurs as a result of balance of two mutually oppo 
 
@@ -821,11 +821,11 @@ steadily concentrated on the mantra given to him by the guru, one should follow 
 
 NOTES 251 
 
-same way, one should purify the whole body, beginning with head and ending with feet, by uttering the mantra of Siva with its five limbs (Isana is the head, Tatpurusa is the face, Aghora is the heart, Vāmadeva is the hidden parts of the body, and Sadyojāta is the whole body). Then, having cleansed the body with the mantra, one should plunge into the water repeating the mantra of Siva with its auxiliary parts. This is known as bathing with water. Taking ashes from the sacrificial fire, one should burn impurities present on the head, face, heart, genitals, and the feet with it while uttering the mantra "phat.” When this is done one should throw a handful of these ashes on the head while repeating the mantra of Siva with its five limbs. This is known as bathing with ashes. One should move back and forth in the pleasing air, remembering the mantra, given to him by his guru, in his heart. This is known as bathing with air. One should bring the mantra into one's mind and should remain concentrated there fixing his concentration on the void (ākāśa). This is known as bathing in the void. One who immerses oneself in the light of the sun and the moon, identifying himself with Siva, is cleansed of all impurities. This type of bathing is called soma and arka. The last type of bath is bathing in the Self (ātmā). In the Tan traloka, Abhinavagupta describes it in the following way: “The very Self is the supreme Lord himself; it is free from disciplines established in spiritual texts. It is like a great lake in extension and depth; the universe should dissolve therein, upon which one 
+same way, one should purify the whole body, beginning with head and ending with feet, by uttering the mantra of śiva with its five limbs (Isana is the head, Tatpurusa is the face, Aghora is the heart, Vāmadeva is the hidden parts of the body, and Sadyojāta is the whole body). Then, having cleansed the body with the mantra, one should plunge into the water repeating the mantra of śiva with its auxiliary parts. This is known as bathing with water. Taking ashes from the sacrificial fire, one should burn impurities present on the head, face, heart, genitals, and the feet with it while uttering the mantra "phat.” When this is done one should throw a handful of these ashes on the head while repeating the mantra of śiva with its five limbs. This is known as bathing with ashes. One should move back and forth in the pleasing air, remembering the mantra, given to him by his guru, in his heart. This is known as bathing with air. One should bring the mantra into one's mind and should remain concentrated there fixing his concentration on the void (ākāśa). This is known as bathing in the void. One who immerses oneself in the light of the sun and the moon, identifying himself with śiva, is cleansed of all impurities. This type of bathing is called soma and arka. The last type of bath is bathing in the Self (ātmā). In the Tan traloka, Abhinavagupta describes it in the following way: “The very Self is the supreme Lord himself; it is free from disciplines established in spiritual texts. It is like a great lake in extension and depth; the universe should dissolve therein, upon which one 
 
-becomes pure and the cause of purification for others.” 187. The expression "tatratatra” refers to the five faces of siva, i.e., 
+becomes pure and the cause of purification for others.” 187. The expression "tatratatra” refers to the five faces of śiva, i.e., 
 
-Īsana, Tatpuruṣa, etc. One is to first identify with these five faces of Siva, upon which one attains full absorption into Siva. 
+Īsana, Tatpuruṣa, etc. One is to first identify with these five faces of śiva, upon which one attains full absorption into śiva. 
 
 Chapter Thirteen 188. The author begins this chapter, which deals with initiation, by 
 
@@ -845,7 +845,7 @@ various participants in action presented by a sentence. The closest equivalent i
 
 'case,' such as nominative, genitive, accusative, ablative, etc. 192. Abhinavagupta, who advocates the theory of the supreme nondual 
 
-ity, has to account for ritual action, which consists of factors or participants in action presented by a sentence (kārakas), which because of their perceived distinction could be construed as con tradicting nonduality. This was certainly the opinion of Samkara cārya and other Advaita Vedānta thinkers; Abhinavagupta dis agreed with this understanding and argues that action, distinction, change, etc., are also included within consciousness. To illustrate, we can take the example of the following sentence: I offer water from the sacrificial pot to Lord Siva with a spoon in the place of worship. The factors here are: the agent of acting, the object of the act, its instrument, its point of ablation, and the location of the act of worship. For Samkarācārya, the supreme reality cannot be of the same order as that of objective existence which is transient in nature. The Brahman is the transcendent, immutable, and partless reality, and all subjective and objective phenomena are only appearances possessing no real existence. The Brahman is without attributes and as immutable, it cannot be subject to action. The attribute of changeability is the most important characteristic of objective existence, and therefore ever-changing empirical exis tence must have a ground on which all these changes take place. The same, of course, applies to the ritual action, which, as we have 
+ity, has to account for ritual action, which consists of factors or participants in action presented by a sentence (kārakas), which because of their perceived distinction could be construed as con tradicting nonduality. This was certainly the opinion of Samkara cārya and other Advaita Vedānta thinkers; Abhinavagupta dis agreed with this understanding and argues that action, distinction, change, etc., are also included within consciousness. To illustrate, we can take the example of the following sentence: I offer water from the sacrificial pot to Lord śiva with a spoon in the place of worship. The factors here are: the agent of acting, the object of the act, its instrument, its point of ablation, and the location of the act of worship. For Samkarācārya, the supreme reality cannot be of the same order as that of objective existence which is transient in nature. The Brahman is the transcendent, immutable, and partless reality, and all subjective and objective phenomena are only appearances possessing no real existence. The Brahman is without attributes and as immutable, it cannot be subject to action. The attribute of changeability is the most important characteristic of objective existence, and therefore ever-changing empirical exis tence must have a ground on which all these changes take place. The same, of course, applies to the ritual action, which, as we have 
 
 NOTES 253 
 
@@ -853,11 +853,11 @@ seen, consists of the factors or the participants in action described by a sente
 
 such as the ritual activity, as potentially liberating. 193. In TĀ 15: 161, Abhinavagupta describes the role and the meaning 
 
-of sacrificial vessel in:Tantric ritual in the following way: "All that which is touched by the drops of the water contained in the sacrifi cial vessel becomes in fact pure. What other kind of purity could there ever be but that of the touch of the rays of the sun of Siva?” Furthermore, “As the Lord said in the Mālinīvijayottara Tantra in the section dealing with the sacrificial vessel, it is necessary to be careful not to conceive anything as not being purified by it. Every thing is purified by it and what is impure becomes pure" (TĀ 15: 162-163ab.) However, the impurity only belongs to the limited knowing subject abiding in māyā and is not the essential nature of things: “Here we speak of impurity from the perspective of bonded souls and of their systems. The essential nature of all things remains in fact always the same, without changing from what it 
+of sacrificial vessel in:Tantric ritual in the following way: "All that which is touched by the drops of the water contained in the sacrifi cial vessel becomes in fact pure. What other kind of purity could there ever be but that of the touch of the rays of the sun of śiva?” Furthermore, “As the Lord said in the Mālinīvijayottara Tantra in the section dealing with the sacrificial vessel, it is necessary to be careful not to conceive anything as not being purified by it. Every thing is purified by it and what is impure becomes pure" (TĀ 15: 162-163ab.) However, the impurity only belongs to the limited knowing subject abiding in māyā and is not the essential nature of things: “Here we speak of impurity from the perspective of bonded souls and of their systems. The essential nature of all things remains in fact always the same, without changing from what it 
 
 was earlier or what is conceived to be” (TĀ 15: 163cd-164ab.) 194. All the various factors which constitute a ritual action attain iden 
 
-tity with Siva through the process of the placement of the syllables 
+tity with śiva through the process of the placement of the syllables 
 
 (nyāsa). 195. This is to say that direction depends on how the forms are arranged 
 
@@ -869,11 +869,11 @@ in space.
 
 worship, one is expected to bring one's body, mind, void, and 
 
-prāna into identity with Siva. See TĀ 15: 295b-312. 197. This is the reference to múlādhāracakra, which, according to TĀ 
+prāna into identity with śiva. See TĀ 15: 295b-312. 197. This is the reference to múlādhāracakra, which, according to TĀ 
 
 15: 297cd, is located four fingers below the navel. 198. Here begins what Abhinavagupta calls 'the external sacrifice' 
 
-because the disciple, after attaining identity with Siva through var ious ritual acts, should project his consciousness externally in the 
+because the disciple, after attaining identity with śiva through var ious ritual acts, should project his consciousness externally in the 
 
 vital breath, void, and up to the external plane. 199. There are eight purificatory rites and six deities. Therefore, the 
 
@@ -931,7 +931,7 @@ foolish individuals. It is described by Abhinavagupta in TĀ 20:2–7: The teach
 
 NOTES 257 
 
-their products. This initiation, which has as its purpose the destruc tion of the seed, was described to me by the venerable śambhunātha in his benevolence. The teacher, out of mercy, can also join the seed to Siva. The initiation is, in fact, full of splendor (sudipta), and is in 
+their products. This initiation, which has as its purpose the destruc tion of the seed, was described to me by the venerable śambhunātha in his benevolence. The teacher, out of mercy, can also join the seed to śiva. The initiation is, in fact, full of splendor (sudipta), and is in 
 
 a position to grant liberation also to vegetable life. 216. This particular type of initiation, which reduces or eliminates the 
 
@@ -949,7 +949,7 @@ great net' (mahājjāla prayoga) in some detail in TĀ 21: 25-45. However, the i
 
 Chapter Seventeen 219. We have already seen that a disciple is joined to a different princi 
 
-ple in the course of initiation. To which principle one is joined will depend on the school of thought whose initiation one receives. However, according to the Trika school, other schools of thought do not possess the knowledge to enable a disciple to attain identity with Siva. Therefore, those who have received initiation into what the followers of Trika consider inferior sects should be first dis joined or drawn away from the principles that they were joined to by the previous initiation, and then initiated again. The process of transcending the inferior doctrines is accomplished gradually through a succession of steps: the descent of grace, the removal of impurities, the desire to find the right teacher, initiation, knowl edge, the abandonment of that which is to be avoided, immersion into that which is to be accepted, giving up the sphere of the enjoy able, and the removal of the limitations created by āṇavamala. For 
+ple in the course of initiation. To which principle one is joined will depend on the school of thought whose initiation one receives. However, according to the Trika school, other schools of thought do not possess the knowledge to enable a disciple to attain identity with śiva. Therefore, those who have received initiation into what the followers of Trika consider inferior sects should be first dis joined or drawn away from the principles that they were joined to by the previous initiation, and then initiated again. The process of transcending the inferior doctrines is accomplished gradually through a succession of steps: the descent of grace, the removal of impurities, the desire to find the right teacher, initiation, knowl edge, the abandonment of that which is to be avoided, immersion into that which is to be accepted, giving up the sphere of the enjoy able, and the removal of the limitations created by āṇavamala. For 
 
 details, see Chapter 22 of the Tantrāloka. 220. Abhinavagupta gives the names of the genetic mantras 
 
@@ -969,7 +969,7 @@ newly consecrated teacher in the immediate period after his initia tion. He writ
 
 should spare no effort to attain identity with the mantras." 223. In the Tantrāloka; Abhinavagupta explains that Brāhmaṇs, Kṣatri 
 
-yas, Vaisyas, eunuchs, women, Sudras, and any other kinds of per son desirous of initiation should be initiated without being asked their caste. However, the teacher should take this into consider ation at the time when knowledge is imparted to them. Further more, the teacher, who is the basis of knowledge, should set seven sessions. These sessions are: initiation, explanation, compassion, friendliness, contemplation of the śāstras, unification with Siva, and giving away of food, etc. See TĀ 23:20b/23a. 
+yas, Vaisyas, eunuchs, women, Sudras, and any other kinds of per son desirous of initiation should be initiated without being asked their caste. However, the teacher should take this into consider ation at the time when knowledge is imparted to them. Further more, the teacher, who is the basis of knowledge, should set seven sessions. These sessions are: initiation, explanation, compassion, friendliness, contemplation of the śāstras, unification with śiva, and giving away of food, etc. See TĀ 23:20b/23a. 
 
 Chapter Nineteen 224. As for the purpose of this rite, Abhinavagupta writes: “This type 
 
@@ -985,7 +985,7 @@ Abhinavagupta discusses it in Chapter 25 of his TĀ based on the authority of th
 
 in the first year. After that, it should be performed once every year. 227. In TĀ 25: 4-6, Abhinavagupta clarifies: "This done, the teacher 
 
-must take in hand, first of all, the offering (naivedyam), and after having meditated that in this offering abides śakti of the nature of food in the form of potency instrumental in nourishing, he must conceive that the dead person for whose sake this rite is performed is penetrated by it. The bound part in the form of enjoyable of this dead disciple must then be offered by a teacher to the enjoying sub- . ject in identity with him. In this way, the disciple becomes Siva." 
+must take in hand, first of all, the offering (naivedyam), and after having meditated that in this offering abides śakti of the nature of food in the form of potency instrumental in nourishing, he must conceive that the dead person for whose sake this rite is performed is penetrated by it. The bound part in the form of enjoyable of this dead disciple must then be offered by a teacher to the enjoying sub- . ject in identity with him. In this way, the disciple becomes śiva." 
 
 Chapter Twenty 228. This vague statement can only be understood if we read it along 
 
@@ -1035,7 +1035,7 @@ explains the meaning of scriptures to disciples according to Chap
 
 ter 52 of the Devyāyamala Tantra. 235. Abhinavagupta lists ten types of teachers capable of explaining the 
 
-scriptures: "Each of these ten types of teachers has assumed a human body and possesses a particular mental disposition, but are all identical with Siva, although they are different from each other through knowledge and action. They are all dedicated to the scrip tures, to worship, to the initiation rites, to sexual union, meat, and liquor. There are secondary divisions among these due to possess ing different mental dispositions, such as tranquility (calmness), 
+scriptures: "Each of these ten types of teachers has assumed a human body and possesses a particular mental disposition, but are all identical with śiva, although they are different from each other through knowledge and action. They are all dedicated to the scrip tures, to worship, to the initiation rites, to sexual union, meat, and liquor. There are secondary divisions among these due to possess ing different mental dispositions, such as tranquility (calmness), 
 
 anger, or patience, etc." (TA 28: 391a-393.) 236. As we have seen, the spiritual teacher is worshipped in most of the 
 

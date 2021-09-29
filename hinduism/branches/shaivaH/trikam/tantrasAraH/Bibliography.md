@@ -5,7 +5,7 @@ title = "Bibliography"
 
 ## Original Sanskrit Texts 
 
-Kāmikāgama, Pūrvabhāga. No editor accredited: published by C. Swaminatha Śivacarya. Madras: South Indian Arcakas Association, 1975. . . . Kåmikāgama, Utiarabhāga: "No editor accredited: published by C. Swaminatha Sivacarya. Madras: South Indian Arcakas Association, 1988. 
+Kāmikāgama, Pūrvabhāga. No editor accredited: published by C. Swaminatha Śivacarya. Madras: South Indian Arcakas Association, 1975. . . . Kåmikāgama, Utiarabhāga: "No editor accredited: published by C. Swaminatha śivacarya. Madras: South Indian Arcakas Association, 1988. 
 
 Matangapārameśvara, Vidyapāda, with the Commentary of Bhatta Rāmakantha, ed. N.R. Bhatt. Publications of l’IFI 66. Pondicherry: IFI, 1977; Matangapārameśvara, Kriyāpāda, Yogapāda and Carya pāda, with the Commentary of Bhatta Rāmakantha up to Kriyāpāda 11.12 b, ed. N.R. Bhatt. Publications of l’IFI 65. Pondicherry: IFI, 1982. Mālinivijayavārttika of Abhinavagupta, ed. Madhusudan Kaul Shastri. KSTS 31. Srinagar, 1931. Mālinīvijayottara, ed. Madhusudan Kaul Shastri. KSTS 37. Srinagar, 1922. 
 
