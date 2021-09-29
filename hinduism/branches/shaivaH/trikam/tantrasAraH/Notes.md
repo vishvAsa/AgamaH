@@ -79,7 +79,7 @@ anuttara, icchā, and unmeṣa, represented by the three phonemes "a,” “i," 
 
 nature of the moon. 19. The syllable "a" has another “a” as its corresponding phoneme. The 
 
-one represents śiva and the other śakti. The vibrative union of both gives rise to b[iss (ånanda), representing the phoneme.“ā.” It is from the energy of ānanda śakti that the universe comes into being, which in short are all the remaining phonemes beginning with icchā and ending in "kṣa.” This union of "a" and "a" is character ized by consciousness alone, while pratyavamarśana, the cognitive desire to create sisskṣātmā, is known as the energy of will. This desire representing will (icchā) is the desire to get back to bliss that 
+one represents śiva and the other śakti. The vibrative union of both gives rise to b[iss (ānanda), representing the phoneme.“ā.” It is from the energy of ānanda śakti that the universe comes into being, which in short are all the remaining phonemes beginning with icchā and ending in "kṣa.” This union of "a" and "a" is character ized by consciousness alone, while pratyavamarśana, the cognitive desire to create sisskṣātmā, is known as the energy of will. This desire representing will (icchā) is the desire to get back to bliss that 
 
 has been as if lost. 20. Icchā, īśana, unmeṣa, and urmi represent the energy of will and the 
 
@@ -211,11 +211,11 @@ etc., until finally one is able to offer oneself. 48. Śrīpūrva is another nam
 
 Chapter Five 49. The term "bound soul” (paśu), which literally means animal, is a 
 
-technical term of this system. With the appearance of limitation, the soul, which is essentially composed of pure consciousness, finds itself limited in knowledge and action. Its innate nature becomes.as if veiled, for which reason it becomes known as atomic (anu). At this level of existence the bonded souls are of great vari-'. ety because they receive the grace of the Lord, which is based on comparative distinctions of intensity. The right form of intuitive judgment does not arise in all. Therefore, they have to depend on āgama for the rise of that intuitive knowledge. At this stage, there is a need for a spiritual guide. A spiritual guide is a person meant to lead the seeker in selecting an appropriate agama for him to study. When the agama is studied properly, pure thought (śuddha vikalpa) arises. However, in the case of those who lack right under standing, purification of thoughts (vikalpas) in this particular way is not possible. Therefore, they need to rely on other means for that purification of thoughts (vikalpas). In short, these means are: medi tation, taking recourse to the vital energy (prāna), and making the body the instrument of knowledge as a means to attain one's ends. The body itself is a gross instrument for the attainment of the high est aim of life. For those who are steadily convinced that a body is 
+technical term of this system. With the appearance of limitation, the soul, which is essentially composed of pure consciousness, finds itself limited in knowledge and action. Its innate nature becomes.as if veiled, for which reason it becomes known as atomic (anu). At this level of existence the bonded souls are of great vari-'. ety because they receive the grace of the Lord, which is based on comparative distinctions of intensity. The right form of intuitive judgment does not arise in all. Therefore, they have to depend on āgama for the rise of that intuitive knowledge. At this stage, there is a need for a spiritual guide. A spiritual guide is a person meant to lead the seeker in selecting an appropriate agama for him to study. When the agama is studied properly, pure thought (śuddha vikalpa) arises. However, in the case of those who lack right under standing, purification of thoughts (vikalpas) in this particular way is not possible. Therefore, they need to rely on other means for that purification of thoughts (vikalpas). In short, these means are: medi tation, taking recourse to the vital energy (prāṇa), and making the body the instrument of knowledge as a means to attain one's ends. The body itself is a gross instrument for the attainment of the high est aim of life. For those who are steadily convinced that a body is 
 
 the Self, it becomes a suitable means. 50. Meditation is performed by the intellect (buddhi). This kind of 
 
-practice is fruitful for those who think that intellect is the Self. On the other hand, those who are convinced that the vital air (prāna) is the Self make the prāṇa a means. In order to remove vikalpas, the aspirant makes use of body (karaṇa), mudra, and different sorts of 
+practice is fruitful for those who think that intellect is the Self. On the other hand, those who are convinced that the vital air (prāṇa) is the Self make the prāṇa a means. In order to remove vikalpas, the aspirant makes use of body (karaṇa), mudra, and different sorts of 
 
 āsanas. 51. Vital energy is of two types, one general and the other particular. 
 
@@ -223,13 +223,13 @@ The particular form of the vital air manifests itself in five different
 
 226 NOTES 
 
-ways. They are known as prāṇa, apāna, samana, udāna, and vyāna. These particular forms of vital energy, although manifested distinctly in these five ways and functioning in different parts of the body, are basically resting in the general form of vital air. Their basic nature is to move forward' (uccārana). The general prāna is known as vibration (spanda), pulsation, blossoming, etc. At the start of the creative impulse, after manifestation of void, the con 
+ways. They are known as prāṇa, apāna, samana, udāna, and vyāna. These particular forms of vital energy, although manifested distinctly in these five ways and functioning in different parts of the body, are basically resting in the general form of vital air. Their basic nature is to move forward' (uccārana). The general prāṇa is known as vibration (spanda), pulsation, blossoming, etc. At the start of the creative impulse, after manifestation of void, the con 
 
 sciousness assumes the nature of vital energy. 52. Karaṇa is a particular type of ānava upāya which relates to the 
 
 meditation on the body, etc. 53. The supreme consciousness is self-luminous by nature. It is only 
 
-because of its autonomy that it takes on the nature of everything. In other words, we can say that it shines in multifarious forms. One should meditate in the core of one's heart because the heart is the essence of all the principles, which abide closest to the heart. First of all the aspirant should meditate with concentration on the uni flavoredness (samarasya) of prāṇa, apāna, and udāna, represent ing the moon, the sun, and the fire. This meditation is to be per formed by stopping the outgoing and ingoing movement of vital air in such a way that prāṇa, apāna, and udāna, after giving up the functioning in their respective manners, become one, leaving out all distinctions. As fire blazes up with the churning process of arani, in a similar way, the opposing movement of both prāna and apāna, being stopped, enters into the current in the middle path, which transforms it into the fire of udāna, known as the great ter rible fire blazing upward. This fire is known as the great fire because it consumes the limitedness of the conscious subject, its object, and its instrument of knowledge. Thus, with attaining per fection in such meditation, the meditator becomes free from all limitations and then he makes an effort to attain oneness with the 
+because of its autonomy that it takes on the nature of everything. In other words, we can say that it shines in multifarious forms. One should meditate in the core of one's heart because the heart is the essence of all the principles, which abide closest to the heart. First of all the aspirant should meditate with concentration on the uni flavoredness (samarasya) of prāṇa, apāna, and udāna, represent ing the moon, the sun, and the fire. This meditation is to be per formed by stopping the outgoing and ingoing movement of vital air in such a way that prāṇa, apāna, and udāna, after giving up the functioning in their respective manners, become one, leaving out all distinctions. As fire blazes up with the churning process of arani, in a similar way, the opposing movement of both prāṇa and apāna, being stopped, enters into the current in the middle path, which transforms it into the fire of udāna, known as the great ter rible fire blazing upward. This fire is known as the great fire because it consumes the limitedness of the conscious subject, its object, and its instrument of knowledge. Thus, with attaining per fection in such meditation, the meditator becomes free from all limitations and then he makes an effort to attain oneness with the 
 
 highest subject. 54. The highest subject is supposed to be encircled with twelve energies. 
 
@@ -257,7 +257,7 @@ solution of all objects. The heart is known as the void where nonex istence of a
 
 blissfulness becomes manifest. 59. At this level, as there is no existence of objectivity in any way, the 
 
-experience of the delight that occurs there is called nirānanda. Then the energy of consciousness, after making the void manifest, assumes the nature of vital energy, which possesses dual form. On the one hand, prāna is insentient, and on the other it is sentient, for the Lord has made it distinct from other insentient objects by bestowing sentiency on it and has made it the experiencing subject. It experiences the bliss of its own (nijānanda), however, as the experiencing subject proceeds along the knowable objects touching the instrument of knowledge. In other words, when it becomes slightly inclined toward externality, then the bliss which remains 
+experience of the delight that occurs there is called nirānanda. Then the energy of consciousness, after making the void manifest, assumes the nature of vital energy, which possesses dual form. On the one hand, prāṇa is insentient, and on the other it is sentient, for the Lord has made it distinct from other insentient objects by bestowing sentiency on it and has made it the experiencing subject. It experiences the bliss of its own (nijānanda), however, as the experiencing subject proceeds along the knowable objects touching the instrument of knowledge. In other words, when it becomes slightly inclined toward externality, then the bliss which remains 
 
 228 NOTES 
 
@@ -309,7 +309,7 @@ words and their meanings.
 
 Chapter Six 70. The vital air is 'of the nature of universal vibration' (sāmânyaspan 
 
-dana), which assumes the form of 'individual vibration' (visesa spanda) known as prāna, apāna, samāna, udāna, and vyāna. These five prāṇas are locations that must be harnessed for the 
+dana), which assumes the form of 'individual vibration' (visesa spanda) known as prāṇa, apāna, samāna, udāna, and vyāna. These five prāṇas are locations that must be harnessed for the 
 
 attainment of supreme reality. 71. The external objects to which one could take recourse for the attain 
 
@@ -321,7 +321,7 @@ NOTES 231
 
 employed in any number and exhibit a wide variation in specific form, provided one recognizes the object's purpose is attaining the 
 
-highest reality. 72. The procedure regarding the vital air (prāna) is discussed first 
+highest reality. 72. The procedure regarding the vital air (prāṇa) is discussed first 
 
 because in its creative upsurge, consciousness first assumes the nature of prāṇa. For this reason, one desirous of the attainment of supreme reality first takes recourse in prāṇa. Furthermore, all the 'six paths' (ṣaďadhvās) are supposed to abide in prāṇa. In the Tan trāloka, Abhinavagupta writes: “The former of the sixfold paths, which again is threefold, is known as the path of time. Clearly this 
 
@@ -343,7 +343,7 @@ of this mutation is that the very consciousness itself assumes the nature of vit
 
 This flow is not the flow of consciousness but of the vital energy. 76. When the power of activity becomes predominant, the entire cre 
 
-ation shines.forth in a twofold. way. First is the path of time (kālådhva), and second is the 'påth of space' (deśādhva). The path of time consists of three forms known as varṇa, mantra, and pada. The path of space has also three divisions, i.e., kalā, tattva, and 
+ation shines.forth in a twofold. way. First is the path of time (kālādhva), and second is the 'pāth of space' (deśādhva). The path of time consists of three forms known as varṇa, mantra, and pada. The path of space has also three divisions, i.e., kalā, tattva, and 
 
 bhuvana. 77. Normally the movement of the vital air proceeds from the 'region of 
 
@@ -361,7 +361,7 @@ J
 
 mni 
 
-there, then nine digits is the length of one quarter. One half of a tuți 
+there, then nine digits is the length of one quarter. One half of a tuṭi 
 
 is the time of the junction (sandhi). 79. The day is the period when the sun shines and the moon, in the form 
 
@@ -369,9 +369,9 @@ of apāna, declines. For this reason, the day is conceived to be the period of t
 
 the bright fortnight. 80. There are two places of 'repose' (viśrānti), composed of half of a 
 
-tuți each. They are in the center of the heart and at the end of the twelve' (dvādaśānta), free from the changing effects of time. Both locations are the junctions of prāṇa and apāna. The time unit for 
+tuṭi each. They are in the center of the heart and at the end of the twelve' (dvādaśānta), free from the changing effects of time. Both locations are the junctions of prāṇa and apāna. The time unit for 
 
-each of them is one tuți: 81. Here the concept of day and night is explained in a different way. 
+each of them is one tuṭi: 81. Here the concept of day and night is explained in a different way. 
 
 The day is the period when manifestation of objects occurs; the 
 
@@ -437,7 +437,7 @@ becomes varied and it is experienced as highly extensive. 94. There are two 'end
 
 mārandhra and the other is in mūlādhāra. The first is known as śivadvādaśānta, the end of twelve related to śiva, and the other is 
 
-known as the end of twelve related to śakti. 95. The six causal deities (kāraṇaṣațka) each have six centers. They 
+known as the end of twelve related to śakti. 95. The six causal deities (kāraṇaṣaṭka) each have six centers. They 
 
 abide in those centers in the ascending and descending order. The superintending deities of the respective centers function in differ 
 
@@ -649,7 +649,7 @@ NOTES 245
 
 ered to be the energies of the sakala souls, who are defiled by all three impurities (malas). Although sakala souls are bound and limited by impurities, they possess the powers of knowledge and 
 
-action. 145. The word asphuța means indistinct or dormant. In pralayākala 
+action. 145. The word asphuṭa means indistinct or dormant. In pralayākala 
 
 souls, vidyā and kalā are still present; however, they remain dor 
 
@@ -723,7 +723,7 @@ consciousness alone. 162. According to early Saiva thinkers, such as Kallata, th
 
 the word pāta is goddess Kālī, Mātssadbhāva, Bhairava, Pratibhā. However, the author himself is reluctant to go into depth explain 
 
-ing the mystical meaning of this word. 163. When a yogin practices meditation in the tuți related either to 
+ing the mystical meaning of this word. 163. When a yogin practices meditation in the tuṭi related either to 
 
 mantramaheśvara, mantreśvara, or mantra, he is able to attain 
 
@@ -741,7 +741,7 @@ Therefore, the subject knows the object by means of the instru ment, i.e., sight
 
 Chapter Ten 166. According to this system, there exists a subtle energy which func 
 
-tions to hold all the principles (tattvas) in their respective places For example, the principle earth is held by the subtle energy called dhårikā. As the function of this energy is to contain or stop the earth, it is also called nivstti. Similarly, the subtle energies called pratiṣthā, vidyā, and śānta are active in other principles or in 
+tions to hold all the principles (tattvas) in their respective places For example, the principle earth is held by the subtle energy called dhārikā. As the function of this energy is to contain or stop the earth, it is also called nivstti. Similarly, the subtle energies called pratiṣthā, vidyā, and śānta are active in other principles or in 
 
 groups of them. .: 167. Anda sphere, or egg, is that which serves as the wall separating 
 
@@ -849,7 +849,7 @@ ity, has to account for ritual action, which consists of factors or participants
 
 NOTES 253 
 
-seen, consists of the factors or the participants in action described by a sentence. For Abhinavagupta, on the other hand, the supreme reality, which consists of prakāśa and vimarśa, even in the process of externalization, remains established in its own Self, 'relishing' (camatkāra) the bliss of 'fullness' (pūrnatā), and 'independence' (svātantrya) of its own essential nature, which is in no way over shadowed by the external manifestation. The lower aspect of cre ation is a contracted form of that supreme consciousness, which, through the activity of måyå śakti, assumes limited forms, thus bringing into existence the notion of duality. Thus, the supreme reality consists as much of differentiation as it does of unity. This differentiation always remains within that I-Consciousness and therefore is never separate from it. Thus, unlike Samkara for whom action is always binding, Abhinavagupta accepts action, 
+seen, consists of the factors or the participants in action described by a sentence. For Abhinavagupta, on the other hand, the supreme reality, which consists of prakāśa and vimarśa, even in the process of externalization, remains established in its own Self, 'relishing' (camatkāra) the bliss of 'fullness' (pūrnatā), and 'independence' (svātantrya) of its own essential nature, which is in no way over shadowed by the external manifestation. The lower aspect of cre ation is a contracted form of that supreme consciousness, which, through the activity of māyā śakti, assumes limited forms, thus bringing into existence the notion of duality. Thus, the supreme reality consists as much of differentiation as it does of unity. This differentiation always remains within that I-Consciousness and therefore is never separate from it. Thus, unlike Samkara for whom action is always binding, Abhinavagupta accepts action, 
 
 such as the ritual activity, as potentially liberating. 193. In TĀ 15: 161, Abhinavagupta describes the role and the meaning 
 
@@ -869,7 +869,7 @@ in space.
 
 worship, one is expected to bring one's body, mind, void, and 
 
-prāna into identity with śiva. See TĀ 15: 295b-312. 197. This is the reference to múlādhāracakra, which, according to TĀ 
+prāṇa into identity with śiva. See TĀ 15: 295b-312. 197. This is the reference to múlādhāracakra, which, according to TĀ 
 
 15: 297cd, is located four fingers below the navel. 198. Here begins what Abhinavagupta calls 'the external sacrifice' 
 
@@ -911,7 +911,7 @@ the body remains present.
 
 256 NOTES 
 
-210. According to the Tantrāloka, this is done by means of the nyåsa, 
+210. According to the Tantrāloka, this is done by means of the nyāsa, 
 
 using the kṣurika and other mantras. 211. That is, at the time of leaving one's body. 212. Abhinavagupta describes the nature of brahmavidyā initiation and 
 
