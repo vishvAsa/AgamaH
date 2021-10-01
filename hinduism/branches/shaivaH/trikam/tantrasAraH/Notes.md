@@ -391,15 +391,6 @@ etc., until finally one is able to offer oneself.
 Chapter Five 
 
 
-[^55]:
-
-    The transcendent wheel (anuttara cakra) consisting of twelvefold nature, going outside through the outlets of the eye, etc., assumes the nature of the object. This object is characterized by the moon; the sense organs, representing the sun, are the instrument of knowledge (pramāṇa); while the knowing subject is the fire.
-
-
-[^56]:
-
-    After the destruction of all the objects, they remain existent in the form of residual traces. Therefore, they should also be placed into the flames of the fire of consciousness.
-
 
 [^57]:
 
