@@ -3,7 +3,7 @@ title = "संवर्त-स्तवः"
 unicode_script = "devanagari"
 +++
 
-संवर्तस्तवः स्थानेश्वरकृतः। आङ्ग्लानुवादादिकम् [अत्र](httpsः//www.vimarshafoundation.org/samvartastava) । "this text is an āveśa writing and I have not used much of my intellect afterward." इति कर्ता स्थानेश्वरः। तेनात्र छन्दः शब्दशास्त्रं चावलोक्येषत् परिष्कृतः।
+संवर्तस्तवः स्थानेश्वरकृतः। आङ्ग्लानुवादादिकम् [अत्र](https://www.vimarshafoundation.org/samvartastava) । "this text is an āveśa writing and I have not used much of my intellect afterward." इति कर्ता स्थानेश्वरः। तेनात्र छन्दः शब्दशास्त्रं चावलोक्येषत् परिष्कृतः।
 
 ## प्रातःसवनम्
 जयति चिन्मय-विश्वमयाऽद्वयः+++(4)+++  
