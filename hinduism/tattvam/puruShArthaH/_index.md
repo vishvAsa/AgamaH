@@ -42,6 +42,8 @@ It must be noted that mysticism and ability to achieve mystic highs do not neces
 
 All sAdhaka-s (mystics) don't necessarily follow the same dharma shAstra (moral code); and they don't necessarily "transcend" the moral codes of their culture. Rather, their sAdhana gives them the strength to pursue what they consider "good and proper behavior" with an unusually great zeal. So, just as it is possible for the vAmAchArin who has discarded social rules to steal and eat parts of burning corpses, it is possible for the sufi to have great mystical experiences, and be a temple destroying zealot.
 
+आवेशावस्थायां जनः स्खलतीत्यत्र केषाञ्चन पद्यानि प्रमाणम् - तत्र छन्दोभ्रंशः, व्याकरणदोषा यथा दृश्यन्ते।
+
 ### mokSha
 
 - [mOkSha](http://en.wikipedia.org/wiki/Moksha): Pursuit of enjoyment through kaama is, in the end, unsatisfactorily riddled with compromises due to limited artha (eg: wealth) and the need for dharma (accommodation for the well being of others). So, the ancients sought something beyond dharma/ artha/ kaama. They sought a path towards the ultimate joy (Ananda). This objective was popularized in later texts.

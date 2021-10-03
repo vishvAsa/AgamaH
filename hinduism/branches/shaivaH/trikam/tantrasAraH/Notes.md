@@ -293,7 +293,7 @@ states and attain absorption by unifying these four states.
 
     The term kalana has different meanings. Kālī is the conscious agent 
 
-who performs kalana, therefore she is known as Kālī. The number of Kālīs is twelve. They are as follows: (1) Sșstikālī, (2) Sthiti Kālī, (3) Saṁhārakālī, (4) Raktakālī, (5) Svakālī (sukālī), (6) Yama Kālī, (7) Mộtyukālī, (8) Rudrakālī (Bhadrakālī), (9) Paramārkakālī, (10) Mārtandakālī, (11) Kālāgnirudrakālī, and (12) Mahākālī (Parākālī, Mahākālakālī, Kālakālī). This kalana also occurs in relation to the knowable, the instrument of knowledge, and the knowing subject. As each state is of the characteristic of creation, maintenance, dis solution, and the nameless one (anākhyā), the number of the divine 
+who performs kalana, therefore she is known as Kālī. The number of Kālīs is twelve. They are as follows: (1) Sr̥ṣṭikālī, (2) Sthiti Kālī, (3) Saṁhārakālī, (4) Raktakālī, (5) Svakālī (sukālī), (6) Yama Kālī, (7) Mộtyukālī, (8) Rudrakālī (Bhadrakālī), (9) Paramārkakālī, (10) Mārtandakālī, (11) Kālāgnirudrakālī, and (12) Mahākālī (Parākālī, Mahākālakālī, Kālakālī). This kalana also occurs in relation to the knowable, the instrument of knowledge, and the knowing subject. As each state is of the characteristic of creation, maintenance, dis solution, and the nameless one (anākhyā), the number of the divine 
 
 energies also becomes twelve. 
 
@@ -326,7 +326,7 @@ Chapter Five
 
 [^57]:
 
-    While giving exposition of the mystery of uccāra related to the movement of the vital energy, the author states that due to this movement an unmanifest sound becomes manifest. This unmani fest sound is called unstruck sound (anāhata). Before the rise of prāṇa, the aspirant causes it for a moment to rest in his heart. 
+    While giving exposition of the mystery of uccāra related to the movement of the vital energy, the author states that due to this movement an unmanifest sound becomes manifest. This unmanifest sound is called unstruck sound (anāhata). Before the rise of prāṇa, the aspirant causes it for a moment to rest in his heart. 
 
 [^58]:
 
