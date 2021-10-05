@@ -30,12 +30,6 @@ cd AgamaH-content
 git remote add upstream https://github.com/vishvAsa/AgamaH.git
 git pull upstream content
 cd ..
-
-git clone --single-branch --depth 1 --branch static_files https://github.com/XYZ/AgamaH.git AgamaH-static
-cd AgamaH-static
-git remote add upstream https://github.com/vishvAsa/AgamaH.git
-git pull upstream static_files
-cd ..
 ```
 
 ## Running hugo
