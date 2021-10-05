@@ -48,7 +48,4 @@ hugo server --renderToDisk --config ./config_dev.toml
 - यदि कार्यम् AgamaH-content इत्यस्मिन् क्रियते
     - `git pull upstream content` इति परिवर्तनानि लभ्यानि।
     - ततो नुदित्वाकर्षणाभ्यर्थनं https://github.com/XYZ/AgamaH/tree/content इत्यत्र गत्वा प्रेषणीयम्।
-- यदि कार्यम् AgamaH-static इत्यस्मिन् क्रियते
-    - `git pull upstream static_files` इति परिवर्तनानि लभ्यानि।
-    - ततो नुदित्वाकर्षणाभ्यर्थनं https://github.com/XYZ/AgamaH/tree/static_files इत्यत्र गत्वा प्रेषणीयम्।
 

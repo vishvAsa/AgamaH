@@ -56,8 +56,3 @@ hugo server --renderToDisk --config ./config_dev.toml
     - Make sure that you're working on the latest files by running: `git pull upstream content` .
     - Then, commit and push your changes (using atom editor, or github desktop or commands like `git commit -am "Some message"` and `git push`).
     - Then go to https://github.com/XYZ/AgamaH/tree/content and send a pull request .
-- If you're changing files in `AgamaH-static` :
-  - Make sure that you're working on the latest files by running: `git pull upstream static_files` .
-  - Then, commit and push your changes (using atom editor, or github desktop or commands like `git commit -am "Some message"` and `git push`).
-  - Then go to https://github.com/XYZ/AgamaH/tree/static_files and send a pull request .
-
