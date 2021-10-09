@@ -323,72 +323,9 @@ etc., until finally one is able to offer oneself.
 Chapter Five 
 
 
-
-[^57]:
-
-    While giving exposition of the mystery of uccāra related to the movement of the vital energy, the author states that due to this movement an unmanifest sound becomes manifest. This unmanifest sound is called unstruck sound (anāhata). Before the rise of prāṇa, the aspirant causes it for a moment to rest in his heart. 
-
-[^58]:
-
-    By the term void (sūnya) negation is meant. This is the state of dis solution of all objects. The heart is known as the void where nonex istence of any positive entity is possible. It is essentially of the nature of consciousness where bliss, the essence of it, remains per fectly blossoming. It is because of this nature that it is called innate blissfulness (nijānanda). The experiencing subject feels it as the very nature of the Self. With direct vision of one's own nature this blissfulness becomes manifest.
-
-
-
-[^59]:
-
-    At this level, as there is no existence of objectivity in any way, the 
-
-experience of the delight that occurs there is called nirānanda. Then the energy of consciousness, after making the void manifest, assumes the nature of vital energy, which possesses dual form. On the one hand, prāṇa is insentient, and on the other it is sentient, for the Lord has made it distinct from other insentient objects by bestowing sentiency on it and has made it the experiencing subject. It experiences the bliss of its own (nijānanda), however, as the experiencing subject proceeds along the knowable objects touching the instrument of knowledge. In other words, when it becomes slightly inclined toward externality, then the bliss which remains 
-
-228 NOTES 
-
-associated with it is known as nirānanda. This is because it loses the earlier nature of blissfulness belonging to the experiencing sub 
-
-ject alone. 
-
-[^60]:
-
-    Parānanda literally means the bliss belonging to the other. With 
-
-the rise of the knowable, which occurs along with the rise of apāna, distinction or otherness shows itself. Therefore, the bliss that becomes manifest, at this stage, does not belong to the Self but to something distinct from it. It is for this reason that it is called 
-
-parānanda. 
-
-[^61]:
-
-    On the level of samāna all the knowables become intermixed with : one another and show themselves as the unity of all. The delight 
-
-that develops as a result of this is highly extensive and nourishing It is for this reason that a yogin experiences this particular kind of 
-
-bliss as brahmānanda. 
-
-[^62]:
-
-    The number of the movements of the inhalation and exhalation is 
-
-21,600 during the period of 24 hours. When the yogin is able to dissolve the inhaling and exhaling breaths in the middle current (madhya mārga), only then the vital air known as prāṇa transforms itself and becomes udāna. When one is able to rest there, one expe riences bliss abiding in the experiencing subject, which is quite dis tinct from nijānanda and other types of bliss. It is called 
-
-mahānanda because of its greatness. 
-
-[^63]:
-
-    After one attains and experiences mahānanda, one advances fur 
-
-ther and as a result of the rise of vyāna, the great all-pervasive one, one experiences bliss free from all accidental attributes. This type 
-
-of bliss is known as bliss of consciousness (cidānanda). 
-
 [^64]:
 
-    Some technical terms connected with the concept of repose 
-
-(viśranti) are known as pragānada, udbhava, kampa, nidrā, and ghurṇi. Their meanings are as follows: when the yogin utilizes the means related to the body to attain the highest reality, he experi ences a sort of delight which is the result of his intention toward fullness (pūrṇatā). The emergence of delight occurs only at his contact with fullness. When the yogin remains absorbed in that delightful state (even for moment), his firm conviction regarding his identity with body is severed as if with the flash of light of con 
-
-NOTES 229 
-
-sciousness. Then he experiences a sudden "upward movement" known as “a jump upward” (udbhava). This takes place because the pull in the opposite direction becomes absent. As all the bonds functioning in the lower regions are cut off by the light, this upper pull leads the aspirant to feel and attain his own innate potency, the energy of which cuts off all the bonds of ignorance. This state is technically known as kampa, which literally means shaking. Then the state that follows is called nidrā. At this state all external sense organs cease to function, and even the internal ones stop to func tion properly. Hence he feels a kind of slumber which is a tempo rary state, for when he attains steadiness in pure consciousness, he experiences the immanence of consciousness and is able to realize that all, whatever that might be, is, in essence, consciousness. With this direct realization he wanders or whirls (ghūrṇate), that is, arrives at the state of vibrate consciousness, until finally the state of great pervasiveness (mahāvyāpti) begins to shine forth. The effect of this is that his ignorance, which is his firm conviction in the form of conceiving the nonself as the self, is destroyed first. This is followed by the destruction of the conviction of conceiving the self as nonself. Finally, the yogin directly realizes the true 
-
-nature of the Self. 
+    Some technical terms connected with the concept of repose (viśranti) are known as pragānada, udbhava, kampa, nidrā, and ghurṇi. Their meanings are as follows: when the yogin utilizes the means related to the body to attain the highest reality, he experi ences a sort of delight which is the result of his intention toward fullness (pūrṇatā). The emergence of delight occurs only at his contact with fullness. When the yogin remains absorbed in that delightful state (even for moment), his firm conviction regarding his identity with body is severed as if with the flash of light of consciousness. Then he experiences a sudden "upward movement" known as “a jump upward” (udbhava). This takes place because the pull in the opposite direction becomes absent. As all the bonds functioning in the lower regions are cut off by the light, this upper pull leads the aspirant to feel and attain his own innate potency, the energy of which cuts off all the bonds of ignorance. This state is technically known as kampa, which literally means shaking. Then the state that follows is called nidrā. At this state all external sense organs cease to function, and even the internal ones stop to func tion properly. Hence he feels a kind of slumber which is a tempo rary state, for when he attains steadiness in pure consciousness, he experiences the immanence of consciousness and is able to realize that all, whatever that might be, is, in essence, consciousness. With this direct realization he wanders or whirls (ghūrṇate), that is, arrives at the state of vibrate consciousness, until finally the state of great pervasiveness (mahāvyāpti) begins to shine forth. The effect of this is that his ignorance, which is his firm conviction in the form of conceiving the nonself as the self, is destroyed first. This is followed by the destruction of the conviction of conceiving the self as nonself. Finally, the yogin directly realizes the true nature of the Self. 
 
 [^65]:
 
