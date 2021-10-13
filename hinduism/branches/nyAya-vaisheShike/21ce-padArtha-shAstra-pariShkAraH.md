@@ -111,6 +111,7 @@ unicode_script = "devanagari"
 
 <details>
 <summary>विस्तारः॥ (ईक्षितुम् अत्र नुदनीयम्।)</summary>
+
 Consciousness joins other building blocks of the universe like space, time, mass. यथा Chalmers - [Ted2014](https://blog.ted.com/the-hard-problem-of-consciousness-david-chalmers-at-ted2014/) .
 
 > यच् छ्रोत्रेण न शृणोति  
