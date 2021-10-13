@@ -109,7 +109,7 @@ unicode_script = "devanagari"
 
 <details>
 <summary>विस्तारः॥ (ईक्षितुम् अत्र नुदनीयम्।)</summary>
-Consciousness joins other building blocks of the universe like space, time, mass. [Chalmers - [Ted2014](https://blog.ted.com/the-hard-problem-of-consciousness-david-chalmers-at-ted2014/)]
+Consciousness joins other building blocks of the universe like space, time, mass. यथा Chalmers - [Ted2014](https://blog.ted.com/the-hard-problem-of-consciousness-david-chalmers-at-ted2014/) .
 
 > यच् छ्रोत्रेण न शृणोति  
 > येन श्रोत्रम् इदं श्रुतम् ।  
@@ -121,7 +121,7 @@ Consciousness joins other building blocks of the universe like space, time, mass
 तद् विभु। +++(तेन पर-विष्णुर् इत्य् अप्य् उच्यताम्।)+++  
 विशिष्य जीव-शरीरेषु घनी-भूतन् तिष्ठति। तत्र हि गम्भीरतर-विचार-कल्पने प्रभवति।  
 
-तद् एव प्रेरकम् - सर्वाण्य् अपि द्रव्य-कर्माणि तेनैव प्रेरितानि। एतानि च प्रेरणानि काञ्चन नियमान्+++(=Laws of nature, especially physics.)+++ पालयन्ति। अमुके द्रव्ये स्थितेन तेन चेतोऽंशेन लब्धाभिर् एव सूचनाभिः प्रायेण कर्म निश्चित्य, तेनैव चेतोऽंशेन वस्तुना क्रिया कार्यते - परमाणुषु यथाकर्षणापकर्षणे +++(Eg. Forces mediated by particle exchange [[SE](https://physics.stackexchange.com/questions/189605/how-does-a-photon-mediate-both-electric-attraction-and-repulsion)].)+++। जीवेषु यन्त्रेषु च तथा चलन-गणनादिकम्।  
+तद् एव प्रेरकम् - सर्वाण्य् अपि द्रव्य-कर्माणि तेनैव प्रेरितानि। एतानि च प्रेरणानि काञ्चन नियमान्+++(=Laws of nature, especially physics.)+++ पालयन्ति। अमुके द्रव्ये स्थितेन तेन चेतोऽंशेन लब्धाभिर् एव सूचनाभिः प्रायेण कर्म निश्चित्य, तेनैव चेतोऽंशेन वस्तुना क्रिया कार्यते - परमाणुषु यथाकर्षणापकर्षणे +++(Eg. Forces mediated by particle exchange - [SE](https://physics.stackexchange.com/questions/189605/how-does-a-photon-mediate-both-electric-attraction-and-repulsion) .)+++। जीवेषु यन्त्रेषु च तथा चलन-गणनादिकम्।  
 
 सूचनात्मकेषु रसा भावाश् च विशिष्य चेतसे प्रियाः, तद्-आस्वाद एव तत्-कर्म-फलम् आहुः।  
 चेतस एकदेशस्थावयवेन जीवाख्येन स्वपूर्णरूपाऽनवगत्या दुःखाप्तिर् बन्धः। स्व-पूर्ण-रूपावगतिर् हि तन्-मोक्षः।  
@@ -135,4 +135,4 @@ Consciousness joins other building blocks of the universe like space, time, mass
 - मोक्षसाधनानि
 
 ## सम्बद्धचर्चा
-[अत्र](https://docs.google.com/document/d/1KWa2ZqOCqdeYC3I0-Sf6ywua2__WDpKgW1IRFkcXb7A/edit#)।
+प्राचीनपाठः कश्चन [+अत्र](https://docs.google.com/document/d/1KWa2ZqOCqdeYC3I0-Sf6ywua2__WDpKgW1IRFkcXb7A/edit#) - version history इति द्रष्टव्यम्।
