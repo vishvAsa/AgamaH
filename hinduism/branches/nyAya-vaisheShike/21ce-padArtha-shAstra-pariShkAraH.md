@@ -102,7 +102,7 @@ unicode_script = "devanagari"
 अ-परमाणुषु चेतो ऽन्यतमम्। सूचना-जनन-भरणावगमन-वृत्ति चेतः।
 
 <details>
-<summary>विस्तारः</summary>
+<summary>विस्तारः॥ (ईक्षितुम् अत्र नुदनीयम्।)</summary>
 Consciousness joins other building blocks of the universe like space, time, mass. [Chalmers - [Ted2014](https://blog.ted.com/the-hard-problem-of-consciousness-david-chalmers-at-ted2014/)]
 
 > यच् छ्रोत्रेण न शृणोति  
