@@ -116,12 +116,13 @@ unicode_script = "devanagari"
 
 ## चेतो जीवश् च
 +++(अस्यानुपपत्ताव् अपि शिष्टं न स्यात् तिरस्कार-भाजनम्। स्वतन्त्रं हि तत्।)+++  
-अवकाशाश्रयापेक्षेषु द्रव्येष्व् अ-परमाणुषु चेतो ऽन्यतमम्। सूचना-जनन-भरणावगमन-वृत्ति चेतः।
+अवकाशाश्रयापेक्षेषु द्रव्येष्व् अ-परमाणुषु चेतो ऽन्यतमम्। सूचना-जनन-भरणावगमन--द्रव्य-प्रेरण-वृत्ति चेतः।
 
-<details>
-<summary>विस्तारः॥ (ईक्षितुम् अत्र नोदनीयम्।)</summary>
+तद् विभु। +++(तेन विष्णुर् इत्य् अप्य् उच्यताम्।)+++  
 
-Consciousness joins other building blocks of the universe like space, time, mass. यथा Chalmers - [Ted2014](https://blog.ted.com/the-hard-problem-of-consciousness-david-chalmers-at-ted2014/) .
+<details><summary>विस्तारः॥ (ईक्षितुम् अत्र नोदनीयम्।)</summary>
+
+Consciousness joins other building blocks of the universe like space, time, mass इति यथा Chalmers - [Ted2014](https://blog.ted.com/the-hard-problem-of-consciousness-david-chalmers-at-ted2014/) .
 
 > यच् छ्रोत्रेण न शृणोति  
 > येन श्रोत्रम् इदं श्रुतम् ।  
@@ -130,10 +131,8 @@ Consciousness joins other building blocks of the universe like space, time, mass
 
 </details>
 
-तद् विभु। +++(तेन विष्णुर् इत्य् अप्य् उच्यताम्।)+++  
-
 ### भोगो जीवश् च
-चेतो जीव-शरीरेषु घनी-भूतन् तिष्ठति। तत्र हि गम्भीरतर-विचार-कल्पने प्रभवति।  
+चेतो जीव-शरीरेषु घनी-भूतन् तिष्ठति। तत्र हि गम्भीरतर-विचार-कल्पने प्रभवति, क्षुद्र-जीविषु सरल-यन्त्रेषु तु गाधतर-चिन्तने।  
 चेतस एक-देश-स्थाऽवयवो घनीभूतो जीवः।   
 सूचनात्मकेषु पदार्थेषु रसा भावाश् च विशिष्य चेतसे प्रियाः, तद्-आस्वाद एव तत्-कर्म-फलम् आहुः।
 
