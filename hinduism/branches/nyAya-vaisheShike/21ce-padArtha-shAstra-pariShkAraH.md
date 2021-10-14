@@ -116,7 +116,7 @@ unicode_script = "devanagari"
 
 ## चेतो जीवश् च
 +++(अस्यानुपपत्ताव् अपि शिष्टं न स्यात् तिरस्कार-भाजनम्। स्वतन्त्रं हि तत्।)+++  
-अवकाशाश्रयापेक्षेषु द्रव्येष्व् अ-परमाणुषु चेतो ऽन्यतमम्। सूचना-जनन-भरणावगमन--द्रव्य-प्रेरण-वृत्ति चेतः।
+अवकाशाश्रयापेक्षेषु द्रव्येष्व् अ-परमाणुषु चेतो ऽन्यतमम्। सूचना-जनन-भरणावगमन--द्रव्यावकाश-प्रेरण-वृत्ति चेतः।
 
 तद् विभु। +++(तेन विष्णुर् इत्य् अप्य् उच्यताम्।)+++  
 
@@ -137,7 +137,7 @@ Consciousness joins other building blocks of the universe like space, time, mass
 ### क्रिया-प्रेरणम्
 तद् एव प्रेरकम् - सर्वाण्य् अपि द्रव्य-कर्माणि तेनैव प्रेरितानि।  
 एतानि च प्रेरणानि काञ्चन नियमान्+++(=Laws of nature, especially physics.)+++ ऋताख्यान् पालयन्ति।  
-अमुके द्रव्ये स्थितेन तेन चेतोऽंशेन लब्धाभिर् एव सूचनाभिः प्रायेण कर्म निश्चित्य, तेनैव चेतोऽंशेन वस्तुना क्रिया कार्यते - परमाणुषु यथाकर्षणापकर्षणे +++(Eg. Forces mediated by particle exchange - [SE](https://physics.stackexchange.com/questions/189605/how-does-a-photon-mediate-both-electric-attraction-and-repulsion) .)+++।  
+अमुके द्रव्ये रिक्तावकाशे वापि स्थितेन तेन चेतोऽंशेन लब्धाभिर् एव सूचनाभिः प्रायेण कर्म निश्चित्य, तेनैव चेतोऽंशेन वस्तुना क्रिया कार्यते - परमाणुषु यथाकर्षणापकर्षणे +++(Eg. Forces mediated by particle exchange - [SE](https://physics.stackexchange.com/questions/189605/how-does-a-photon-mediate-both-electric-attraction-and-repulsion), bending of space-time due to mass .)+++।  
 जीवेषु यन्त्रेषु च तथा चलन-गणनादिकं चेतःप्रेरितम् एव।
 
 ### जीव-चेतो-गुणाः
