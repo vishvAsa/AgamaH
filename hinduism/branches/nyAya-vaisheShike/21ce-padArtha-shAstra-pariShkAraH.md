@@ -122,12 +122,10 @@ unicode_script = "devanagari"
 
 <details><summary>विस्तारः॥ (ईक्षितुम् अत्र नोदनीयम्।)</summary>
 
-Consciousness joins other building blocks of the universe like space, time, mass इति यथा Chalmers - [Ted2014](https://blog.ted.com/the-hard-problem-of-consciousness-david-chalmers-at-ted2014/) .
+Consciousness joins other building blocks of the universe like space, time, mass इति यथा Chalmers - [Ted2014 Hard problem of consciousness](https://blog.ted.com/the-hard-problem-of-consciousness-david-chalmers-at-ted2014/) .
 
-> यच् छ्रोत्रेण न शृणोति  
-> येन श्रोत्रम् इदं श्रुतम् ।  
-> तद् एव ब्रह्म त्वं विद्धि  
-> नेदं यद् इदम् उपासते ॥
+> यच् छ्रोत्रेण न शृणोति येन श्रोत्रम् इदं श्रुतम् ।  
+> तद् एव ब्रह्म त्वं विद्धि नेदं यद् इदम् उपासते ॥
 
 </details>
 
@@ -136,7 +134,7 @@ Consciousness joins other building blocks of the universe like space, time, mass
 चेतस एक-देश-स्थाऽवयवो घनीभूतो जीवः।   
 सूचनात्मकेषु पदार्थेषु रसा भावाश् च विशिष्य चेतसे प्रियाः, तद्-आस्वाद एव तत्-कर्म-फलम् आहुः।
 
-### क्रियाप्रेरणम्
+### क्रिया-प्रेरणम्
 तद् एव प्रेरकम् - सर्वाण्य् अपि द्रव्य-कर्माणि तेनैव प्रेरितानि।  
 एतानि च प्रेरणानि काञ्चन नियमान्+++(=Laws of nature, especially physics.)+++ ऋताख्यान् पालयन्ति।  
 अमुके द्रव्ये स्थितेन तेन चेतोऽंशेन लब्धाभिर् एव सूचनाभिः प्रायेण कर्म निश्चित्य, तेनैव चेतोऽंशेन वस्तुना क्रिया कार्यते - परमाणुषु यथाकर्षणापकर्षणे +++(Eg. Forces mediated by particle exchange - [SE](https://physics.stackexchange.com/questions/189605/how-does-a-photon-mediate-both-electric-attraction-and-repulsion) .)+++।  
