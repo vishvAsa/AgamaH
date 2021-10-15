@@ -192,6 +192,9 @@ Consciousness joins other building blocks of the universe like space, time, mass
 - मोक्षसाधनानि
 - जीव-पुरुषार्थाः
   - धर्म-निर्णयः
+- पितृ-प्रज्ञा
+- जीव-चेतः-प्रभावाः.
+- sympathetic magic, देव-प्रश्नाः, Cleromancy।
 - जीव-व्याधयः
 
 ## सम्बद्धचर्चा
