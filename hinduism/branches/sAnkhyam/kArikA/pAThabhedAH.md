@@ -5,7 +5,7 @@ title: पाठभेदाः
   
  ईश्वरकृष्णस्य साङ्ख्यकारिका   
   
-साङ्ख्य कारिका - ईश्वरकृष्ण  
+## पाठः
 दुःखत्रयाभिघाताज् जिज्ञासा तदप१घातके हेतौ ।  
 दृष्टे सापार्था चेन् नैकान्तात्यन्ततोऽभावात् ॥ १॥  
   
@@ -332,6 +332,8 @@ paramArtha (T) remarks that it is not original]
 [This verse appears only in V1 and M, after the word समाप्तम्  ]  
 The words of the साङ्ख्यकारिका  
 (variant readings are not given)  
+
+## Index
 अ  
 अकरण ९  
 अकर्तृ १९  
@@ -906,7 +908,8 @@ The words of the साङ्ख्यकारिका
 हेतु १, ३१  
 हेतुक ३१, ४२  
 हेतुमत् १०  
-  
+
+## Meta  
 Isvarakrsna: Samkhyakarika  
 Input by Ferenc Ruzsa  
 Copyright (C) Ferenc Ruzsa, 1998  
@@ -954,10 +957,3 @@ THIS TEXT FILE IS FOR REFERENCE PURPOSES ONLY!
 COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE.  
 Unless indicated otherwise, accents have been dropped in order  
 to facilitate word search.  
-  
-  
-The encoded and reprocessed file in Itrans was  
-proofread by Surin Usgaonkar usgaonkar at hotmail.com and  
-Giulio Enrico Geymonat giuliogey at gmail.com  
-Please send corrections to sanskrit at cheerful.com  
-  
