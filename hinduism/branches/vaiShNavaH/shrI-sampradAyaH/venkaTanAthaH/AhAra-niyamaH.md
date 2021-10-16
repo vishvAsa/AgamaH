@@ -181,14 +181,14 @@ excrements.
 
 
 
-dhEvarkaLuk kivaiyenRu vaittha vellaaNY  
-sivanmudhalaath dhEvarkaLuk kitta vellaa  
-maavimudha laanavaRRuk kaakaa vellaa  
-madhuvidhuven RaRiyavari thaana vellaa  
-naavilidu vadhaRkarithaa yiruppa vellaa  
-nanRenRu thammuLLa misaiyaa vellaa  
-mOviyan^aa LOvaadha poovuNG kaayu  
-mutthamarka Lattuppu mugavaar thaamE.  [7]  
+ತೇವರ್ಗಳುಕ್ ಕಿವೈಯೆಂಡ್ರು ವೈತ್ತ ವೆಲ್ಲಾಞ್  
+ಜಿವನ್ಮುದಲಾತ್ ತೇವರ್ಗಳುಕ್ ಕಿಟ್ಟ ವೆಲ್ಲಾ  
+ಮಾವಿಮುದ ಲಾನವಟ್ರುಕ್ ಕಾಗಾ ವೆಲ್ಲಾ  
+ಮದುವಿದವೆನ್ ಱಱಿಯವರಿ ತಾನ ವೆಲ್ಲಾ  
+ನಾವಿಲಿಡು ವದಱ್ಕರಿದಾ ಯಿರುಪ್ಪ ವೆಲ್ಲಾ  
+ನಂಡ್ರೆಂಡ್ರು ತಮ್ಮುಳ್ಳ ಮಿಸೈಯಾ ವೆಲ್ಲಾ  
+ಮೋವಿಯನಾ ಳೋವಾದ ಪೂವುಙ್ ಗಾಯು  
+ಮುತ್ತಮರ್ಗ ಳಟ್ಟುಪ್ಪು ಮುಗವಾರ್ ತಾಮೇ. [7]  
 
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -208,14 +208,14 @@ mutthamarka Lattuppu mugavaar thaamE.  [7]
 
 
 
-kiLincinmudhal suttanasuN Naambu thaanuNG  
-kiLarpunali lezhungumizhi nuraika daamum  
-viLaindhathanin mudhanmaaluk keeyaa vellaam  
-viLaindhan^ila maRugaampen Rezhundha vellaaNG  
-kaLaindhamanath thaarmaRRuNG kazhittha vellaaNG  
-kadiyamuthi Nniyamatthaar kazhittha vellaaNG  
-theLindhapunaR RiruvEnga datthu maaRan  
-RiruvaaNai kadavaathaar thinnaar thaamE.  [8]  
+ಕಿಳಿಂಜಿನ್ಮುದಲ್ ಸುಟ್ಟನಸುಣ್ ಣಾಂಬು ತಾನುಙ್  
+ಗಿಳರ್ಬುನಲಿ ಲೆೞುಂಗುಮಿೞಿ ನುರೈಗ ಟಾಮುಂ  
+ವಿಳೈಂದನಿನ್ ಮುದನ್ಮಾಲುಕ್ ಕೀಯಾ ವೆಲ್ಲಾಙ್  
+ವಿಳೈಂದನಿಲ ಮಱುಗಾಂಬೆನ್ ಱೆೞುಂದ ವೆಲ್ಲಾಙ್  
+ಗಳೈಂದಮನತ್ ತಾರ್ಮಟ್ರುಙ್ ಗೞಿತ್ತ ವೆಲ್ಲಾಙ್  
+ಗಡಿಯಮುದಿ ನಿಯಮತ್ತಾರ್ ಕೞತ್ತ ವೆಲ್ಲಾನ್  
+ದೆಳಿಂದಬುನಱ್ ಱಿರುವೇಂಗ ಟತ್ತ ಮಾಱನ್  
+ಱಿರುವಾಣೈ ಕಡವಾದಾರ್ ತಿನ್ನಾರ್ ತಾಮೇ. [8]  
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -232,14 +232,14 @@ RiruvaaNai kadavaathaar thinnaar thaamE.  [8]
 
 
 
-mEralathu saarangaL vaangiR Rellaa  
-muzhuppagalil viLanganiyun^ thaanan^ thaanu  
-mOriravi leLLudanE koodiR Rellaa  
-meLlathani leNNeythayir tharupaN daanga  
-LOr_thavatthai mandhiratthai yozhippa vellaa  
-muNNaatha naatkaLiloo Nandhip pOthoo  
-NaaraNanaa radipaNiyu nallOr naaLu  
-naLLiravi looNumivai yuNNar thaamE.  [9]  
+ಮೋರಲದು ಸಾರಂಗಳ್ ವಾಂಗಿಱ್ ಱೆಲ್ಲಾ  
+ಮುೞುಪ್ಪಗಲಿಲ್ ವಿಳಂಗನಿಯುನ್ ದಾನನ್ ದಾನು  
+ಮೋರಿರವಿ ಲೆಳ್ಳುಸನೇ ಕೂಡಿಱ್ ಱೆಲ್ಲಾ  
+ಮೆಳ್ಳದನಿ ಲೆಣ್ಣೈಯ್ದಯರ್ ತರುಬಣ್ ಡಂಗ  
+ಳೋರ್ದವತ್ತೈ ಮಂದಿರತ್ತೈ ಯೊೞಿಪ್ಪ ವೆಲ್ಲಾ  
+ಮುಣ್ಣಾದ ನಾಟ್ಕಳಿಲೂ ಣತ್ತಿಪ್ ಪೋದೂ  
+ಣೂರಣನೂ ರಡಿಬಣಿಯು ನಲ್ಲೋರ್ ನಾಳು  
+ನಳ್ಳಿರವಿ ಲೂಣುಮಿವೈ ಯುಣ್ಣಾರ್ ತಾಮೇ. [9]  
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -255,14 +255,14 @@ naLLiravi looNumivai yuNNar thaamE.  [9]
 
 
 
-kuLimudhalaa Nnavaiseyyaa thuNNu mooNuNG
-koottallaap pndhiyilooN piRarkai yooNu
-naLimathithee viLakkaaga vuNNu mooNu
-naLLiravil viLakkinRi yuNNu mooNuNG
-kiLimozhiyaa LooNaan^iRkak kaNava NnooNuNG
-keezhOrai nOkkooNu midakkai yooNu
-moLimaRaiyOr maRRumuga vaadha vooNu
-moLiyaranga radipaNivaa rugavaar thaamE.  [10]
+ಕುಳಿಮುದಲಾ ನವೈಸೆಯ್ಯಾ ತುಣ್ಣು ಮೂಣುಙ್  
+ಗೂಟ್ಟಲಡಲಾಪ್ ಪಂದಿಲೂಣ್ ಪಿಱಕ್ಕೈ ಯೂಣು  
+ನಳಿಮದಿದೀ ವಳಕ್ಕಾಗ ವುಣ್ಣು ಮೂಣು  
+ನಳ್ಳಿರವಿಲ್ ವಳಕ್ಕಿಂಡ್ರಿ ಯುಣ್ಣು ಮೂಣುಙ್  
+ಗಿಳಿಮೊೞಿಯಾ ಳುಣೂನಿಱ್ಕಕ್ ಕಣವ ನೂಣುಙ್  
+ಗೀೞೋರೈ ನೋಕ್ಕೂಣು ಮಿಡಕ್ಕೈ ಯೂಣು  
+ಮೊಳಿಮಱೈಯೋರ್ ಮಟ್ರುಮುಗ ವಾದ ವೂಣು  
+ಮೊಳಿಯರಂಗ ರಡಿಬಣಿವಾರ್ ರುಗವಾರ್ ತಾಮೇ. [10]
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -282,14 +282,14 @@ moLiyaranga radipaNivaa rugavaar thaamE.  [10]
 
 
 
-ecchiRanil vaarkkun^n^ey yirupaa kanga
-LirumpaaluNG kaiyaalu mitta vellaam
-pacchaiyalaaR kaditthakuRai pazhaiya voosal
-piRaragatthup paagancey theduttha vanna
-nacchinavai pazhitthavaimaN NaaRRan^ theethu
-nagatthaalE viNavaithaaNG kaaNU mooppum
-picchuLathaa mavaikaadi pinnai paagam
-pisinkadaniR sivandhathuvum pizhaiyoo NaamE.  [11]
+ಎಚ್ಚಿಱನಿಲ್ ವಾರ್ಕ್ಕುನ್ನೆಯ್ ಯಿರುಬಾ ಕಂಗ  
+ಳಿರುಮಬಾಲುಙ್ ಗೈಯಾಲು ಮಿಟ್ಟ ವೆಲ್ಲಾಂ  
+ಪಚ್ಚೈಯಲಾಱ್ ಕಡಿತ್ತಗುಱೈ ಪೞೈಯ ವೂಸಲ್  
+ಪಿಱರಗತ್ತುಪ್ ಪಾಗಂಜೆಯ್ ತೆಡುತ್ತ ವನ್ನ  
+ಮಚ್ಚಿನವೈ ಪೞಿತ್ತವೈಮಣ್ ಣಾಟ್ರನ್ ದೀದು  
+ನಗತ್ತಾಲೇ ವಿಂಡವೈದಾಙ್ ಗಾಣು ಮುಪ್ಪುಂ  
+ಪಿಚ್ಚುಳದಾ ಮವೈಗಾಡಿ ಪಿನ್ನ ಪಾಗಂ  
+ಪಿಸಿನ್ಗಡನಿಱ್ ಚಿವಂದದುವುಂ ಪಿೞೈಯೂ ಣಾಮೇ. [11]
 
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -313,15 +313,14 @@ Foods that may be accepted are listed now.
 
 
 
-thaathain^allaa siriyanmudhaR Ramaiya Nnecchi
-RaraNisurar sOmatthi lirundhu mecchin
-maadhaakadakuk kaNavanitha maana vecchin
-mayirpuzhun^ool vizhundhaalum punidha maNNin
-maadhavatthuk kooviLangaay mugavaa satthu
-maadhuLangaay maraNamvariR kazhittha vellaa
-mOthivaittha vuNNaan^aa Lukandha vettu
-muLavenRuNG kazhitthavaRRi NnanRaa mooNE.
-[12]
+ತಾದೈನಲ್ಲಾ ಸೂರಿಯನ್ಮುದಱ್ ಱಮೈಯ ನೆಚ್  
+ಚಿಱರಣಿಸುರರ್ ಸೋಮತ್ತಿ ಲರುಂದು ಮೆಚ್ಚಿನ್  
+ಮಾದರ್ಗಡಗುಕ್ ಕಣವನಿದ ಮಾನ ವೆಚ್ಚಿನ್  
+ಮಯಿರ್-ಬುೞು-ನೂಲ್ ವೞುಂದಾಲುಂ ಪುನಿದ ಮಣ್ಣಿನ್  
+ಮಾದವತ್ತುಕ್ ಕೂವಿಳಂಗಾಯ್ ಮುಗವಾಸತ್ತು  
+ಮಾದುಳಂಗಾಯ್, ಮರಣಮ್ವರಿಱ್ ಕೞಿತ್ತವ್ ಎಲ್ಲಾಮ್,  
+ಓದಿವೈತ್ತ ವುಣ್ಣಾನಾ ಳುಗಂದ ವೆಟ್ಟು  
+ಮುಳವೆಂಡ್ರುಙ್ ಗೞಿತ್ತವಟ್ರಿ ನಂಡ್ರಾ ಮೂಣೇ. [12]
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -332,21 +331,21 @@ muLavenRuNG kazhitthavaRRi NnanRaa mooNE.
 -    foods with husband's saliva for wife, if such food is contaminated with hair, worm, or thread, these may be removed properly and the food accepted
 -    maadhuLangaay, only during our Lord's muga vaaSa soorNam
 -    all prohibited foods during calamitous times
--    water, roots, ghee, milk, havis from yaagam, nimandhraNam, guru's teachings, and medicine may be accepted even during fasting days.
+-    water, roots, ghee, milk, havis from yaaga, nimantraNam, guru's teachings, and medicine may be accepted even during fasting days.
 
 
 </details>
 
 
 
-maakarumbin saaRuthayir paaney paakku
-vaLaimiLagu thEnElam panin^ee raathi
-yaagarasan^ thooythaagu maRiyaa vellaa
-maRiyaathaark kaRiyaLavun^ thooya vaaguNY
-saagaranga dooyanavaa moovaakkaL koodiR
-salamellaaNG gangaiyathaa muparaa katthin
-maagarangaL piNamudhalaa manaitthuNG koNdu
-varupunalun^ thooyathaagum vEgath thaalE.  [13]
+ಮಾಗರುಂಬಿನ್ ಸಾಱುದಯಿರ್ ಪಾನೆಯ್ ಪಾಕ್ಕು  
+ವಳೈ ಮಿಳಗು ತೇನೇಲಂ ಪನಿನೀ ರಾದಿ  
+ಯಾಗರಸನ್ ದುಎಯ್ದಾಗು ಮಱಿಯಾ ವೆಲ್ಲಾ  
+ಮಱಿಯಾದಾರ್ಕ್ ಕಱಿಯವುನ್ ದೂಯ ವಾಗುಞ್  
+ಜಾಗರಂಗ ಟೂಯನವಾ ಮುವಾಕ್ಕಳ್ ಕೂಡಿಱ್  
+ಚಲಮೆಲ್ಲಾಙ್ ಗಂಗೈಯದಾ ಮುಬರಾ ಕತ್ತಿನ್  
+ಮಾಗರಂಗಳ್ ಪಿಣಮುದಲಾ ಮನೈತ್ತುಙ್ ಗೊಂಡು  
+ವರುಬುನಲುನ್ ದೂಯ್ದಾಗುಂ ವೇಗತ್ ತಾಲೇ. [13]
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -365,14 +364,14 @@ will become purified with current.
 
 
 
-theeyaalE neerozhiya vEndha vellaan^
-theeyidutha lozhindhidavE pazhuttha vellaan^
-theeyaalu neeraalum vendha vaRRiR
-RERavular nellumudha laana vellaa
-moosaadha maavadaka mappaNY seedai
-yurottimudha laamavaRRiR pazhaiya thEnuNG
-koosaathE koNdidumin puthiya thEnuNG
-koLLEnmin RannirathaNG kulaindhak kaalE.  [14]
+ತೀಯಾಲೇ ನೀರೊೞಿಯ ವೆಂದ ವೆಲ್ಲಾನ್  
+ದೀಯಿಡುದ ಲೊೞಿಂದಿಡವೇ ಪೞುತ್ತ ವೆಲ್ಲಾನ್  
+ದೀಯಾಲು ನೀರಾಲುಂ ವೆಂದ ವಟ್ರಿಱ್  
+ಱೇಱವುಲರ್ ನೆಲ್ಲುಮುದ ಲಾನ ವೆಲ್ಲಾ  
+ಮೂಸಾದ ಮಾವಡಗ ಮಪ್ಪಞ್ ಜೀಡೈ  
+ಯುರೊಟ್ಟಿಮುದ ಲಾಮವಟ್ರಿಱ್ ಪೞೈಯ ತೇನುಙ್  
+ಗೂಸಾದೇ ಕೊಂಡಿಡುಮಿನ್ ಪುದಿಯ ತೇನುಙ್  
+ಗೊಳ್ಳೇನಮಿನ್ ಱನ್ನಿರದಙ್ ಗುಲೈಂದಕ್ ಕಾಲೇ. [14]
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -387,14 +386,14 @@ koLLEnmin RannirathaNG kulaindhak kaalE.  [14]
 
 
 
-thalaippayanaam vigaarangaL saaga dangaL
-sakkaranga danakkadaittha marundhu thaanuNG
-kalakkamilaa nanneeril vaittha sORum
-kaRimOrn^ey paaRayir_kaL kalandha sORum
-vilakkamilaa maakkannaR kOthu matthaal
-viLaivuRavaak kiyan^alvi kaaran^ thaanu
-milaikkaRipO livaiyanaitthum pazhaiya vEnu
-men^n^aaLum vaitthuNNa visaigin RaarE.  [15]
+ತಲೈಪ್ಪಯನಾಂ ವಿಗಾರಂಗಳ್ ಸಾಗ ತಂಗಳ್  
+ಸಕ್ಕರಂಗಕ್ ನಕ್ಕಡೈತ್ತ ಮರುಂದು ತಾನುಙ್  
+ಗಲಕ್ಕಮಿಲಾ ನನ್ನೀರಿಲ್ ವೈತ್ತ ಸೋಱುಙ್  
+ಗಱಿಮೋರ್ನೆಯ್ ಪಾಱಯಿರ್ಗಳ್ ಕಲಂದ ಸೋಱುಂ  
+ವಿಲಕ್ಕಮಿಲಾ ಮಾಕ್ಕನ್ನಱ್ ಕೋದು ಮತ್ತಾಲ್  
+ವಿಳೈವುಱವಾಕ್ ಕಿಯನಲ್ವಿ ಕಾರನ್ ದಾನು  
+ಮಿಲೈಕ್ಕಱಿಬೋ ಲಿವೈಯನೈತ್ತುಂ ಪೞೈಯ ವೇನು  
+ಮೆನ್ನಾಳುಂ ವೈತ್ತುಣ್ಣ ವಿಸೈಗಿನ್ ಱಾರೇ. [15]
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -411,14 +410,14 @@ men^n^aaLum vaitthuNNa visaigin RaarE.  [15]
 
 
 
-thayirthannin vigaarangaL pooviR kaayiR
-pazhatthilvaruNY saaRoosa Rooya vaagu
-muyirazhiyaa maikkuNNaa voosa luNNi
-luRakkazhuvi neythEnit tuNNa laagum
-payinmaRain^oo luraiyaatha pazhaiya voosal
-pazhippilathaa neyyaalen Ruraitthaan sangan
-mayirmudhalaa Nnavaipinnum patta thaayin
-maNNeermaR RuraitthavaRRaal varanga LaamE.  [16]
+ತಯಿರ್ದನ್ನಿನ್ ವಿಗಾರಂಗಳ್ ಪೂವಿಱ್ ಕಾಯಿಱ್  
+ಪೞತ್ತಿಲ್ವರುಞ್ ಜಾಱೂಸ ಱೂಯ ವಾಗು  
+ಮುಯಿರೞಿಯಾ ಮೈಕ್ಕುಣ್ಣಾ ವೂಸ ಲುಣ್ಣಿ  
+ಲುಱಕ್ಕೞುವಿ ನೆಯ್ದೇನಿಟ್ ಟುಣ್ಣ ಲಾಗುಂ  
+ಪಯಿನ್ಮಱೈನೂ ಲುರೈಯಾದ ಪೞೈಯ ವೂಸಲ್  
+ಪೞಿಪ್ಪಿಲದಾ ನೆಯ್ಯಾಲೆನ್ ಱುರೈತ್ತಾನ್ ಸಂಗನ್  
+ಮಯಿಱ್ಮುದಲಾ ನವೈಬಿನ್ನುಂ ಪಟ್ಟ ತಾಯಿನ್  
+ಮಣ್ಣೀರ್ಮಱ್ ಱುರೈತ್ತವಟ್ರಾಲ್ ವರಂಗ ಳಾಮೇ.[16]
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -429,15 +428,14 @@ maNNeermaR RuraitthavaRRaal varanga LaamE.  [16]
 </details>
 
 
-
-orukuLambi yirukanRi yotta kappaa
-luppudanpaan mOrudanpaan maadhar thampaal
-karuvudaiya vaRRinpaal kanRi laappaan
-maRukanRaaR kaRandhidumpaa Ririndhi dumpaa
-RirumaLaar kaNavanalaath dheyvath thinpEr
-sinnamudai yavaRRinpaal semma Rippaal
-parivathilan^ thaNarvilaippaal sembi NniRpaa
-Reethaampaa livaiyanaitthum parugaap paalE.  [17]
+ಒರುಗುಳಂಬಿ ಯಿರುಗಂಡ್ರಿ ಯೊಟ್ಟ ಕಪ್ಪಾ  
+ಲುಪ್ಪುಡನ್ಬಾನ್ ಮೋರುಡನ್ ಮಾದರ್ ತಂಬಾಲ್  
+ಕರುವುಡೈಯ ವಟ್ರಿನ್ಬಾಲ್ ಕಂಡ್ರಿ ಲಾಪ್ಪಾನ್  
+ಮಱುಗಂಡ್ರಾಱ್ ಕಱತ್ತಿಡುಂಬಾ ಱಿರಿಂದಿ ಟುಂಬಾ  
+ಱಿರುಮಗಳಾರ್ ಕಣವನಲಾತ್ ತೆಯ್ವತ್ ತಿನ್ಬೇರ್  
+ಸಿನ್ನಮುಡೈ ಯವಟ್ರಿನ್ಬಾಲ್ ಸೆಮ್ಮ ಱಿಪ್ಪಾಲ್  
+ಪರಿವದಿಲನ್ ದಣರ್ವಿಲೈಪ್ಪಾಲ್ ಸೆಂಬಿ ನಿಱ್ಪಾ  
+ಱೀದಾಂಬಾ ಲಿವೈಯನೈತ್ತುಂ ಪರುಗಾಪ್ ಪಾಲೇ.[17]
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -458,14 +456,14 @@ Reethaampaa livaiyanaitthum parugaap paalE.  [17]
 
 
 
-gangaiyalla thiraNdaan^aaL vaittha neeruNG
-kaalkazhivi migun^eeruNG kalanga Nneerun^
-thenginuLa thaayttheeyaaR kaayndha neeruNY
-siRukuzhin^eer vazhitthaNNeerp pandha NneeruNY
-sangaiyudai neervaNNaan RuRaiyi Nneerun^
-thaaraiyinaa lEcchilithu venRa neeruNY
-sangukala maakkoNdu parugu neerun^
-tharaiyilvizhaa mazhain^eerun^ thaviru neerE.  [18]
+ಕಂಗೈಯಲ್ಲ ತಿರಂಡನಾಳ್ ವೈತ್ತ ನೀರುಙ್  
+ಗಾಲ್ಗೞುವಿ ಮಗುನೀರುಙ್ ಗಲಂಗ ನೀರುನ್  
+ದೆಂಗನುಳ ತಾಯ್ದೀಯಾಱ್ ಕಾಯ್ನ್ದ ನೀರುಞ್  
+ಜಿಱುಗುೞುನೀರ್ ವೞಿತ್ತಣ್ಣೀರ್ಪ್ ಪಂದ ನೀರುಞ್  
+ಜಂಗೈಡೈ ನೀರ್ವಣ್ಣಾನ್ ಱುಱೈವಿ ನೀರುನ್  
+ದಾರೈಯಿನಾ ಲೆಚ್ಚಿಲುದು ವೆಂಡ್ರ ನೀರುಞ್  
+ಜಂಗುಗಲ ಮಾಕ್ಕೊಂಡು ಪರುಗು ನೀರುನ್  
+ದರೈಯಿಲ್ವಿೞಾ ಮೞೈನೀರುನ್ ದವಿರು ನೀರೇ. [18]
 
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -486,14 +484,14 @@ tharaiyilvizhaa mazhain^eerun^ thaviru neerE.  [18]
 
 
 
-veRRilaimun RinnaathE thinnum paakkum
-veRRilaiyi Nnadin^uniyu naduvi leerkum
-veRRilaiyum paakkumudan koottith thinnum
-vidhavaikku mudhanmudivaach siramath thaarkkum
-veRRilaiyuNY suNNaambi Nnilaiyu maRRum
-viradhangoN didun^aaLveR Rilaiyum paakkum
-veRRilaithin Nnaan^iRkap parugu neerum
-vidhaiyenavaith thathuthinalum vilakki NnaarE.  [19]
+ವೆಟ್ರಿಲೈಮುನ್ ಱಿನ್ನಾದೇ ತಿನ್ನುಂ  
+ವೆಟ್ರಿಲೈಯಿ ನಡಿನುನಿಯು ನಡುವಿ ಲೀರ್ಕ್ಕುಂ  
+ವೆಟ್ರಿಲೈಯುಂ ಪಾಕ್ಕುಮುಡನ್ ಕೂಟ್ಟಿತ್ ತಿನ್ನುಂ  
+ವಿದವೈಕ್ಕು ಮುದನ್ಮುಡಿವಾಚ್ ಚಿರಮತ್ ತಾರ್ಕ್ಕುಂ  
+ವೆಟ್ರಿಲೈಯುಞ್ ಜುಣ್ಣಾಂಬಿ ನಿಲೈಯು ಮಟ್ರುಂ  
+ವಿರದಂಗೊಣ್ ಡಿಡುನಾಳ್ವೆಱ್ ಱಿಲೈಯುಂ ಪಾಕ್ಕುಂ  
+ಸೆಟ್ರಿಲೈದಿನ್ ನಾನಿಱ್ಕಪ್ ಪರುಗು ನೀರುಂ  
+ವಿದೈಯೆನವೈತ್ ತದುದಿನಲುಂ ವಿಲಕ್ಕಿ ನಾರೇ. [19]
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -508,18 +506,14 @@ vidhaiyenavaith thathuthinalum vilakki NnaarE.  [19]
 - don't drink water while chewing betel leaves
 </details>
 
-
-
-
-
-saathiguNa maacchiraman^ dhEsaNG kaalan^
-tharumanga NimitthangaN mudhalaa vOthum
-pOthamudha laagavoru thiravi yandhaan
-parindhun^alan^ theenginaiyum peRRu niRkum
-paathamisaip piRanthOrkkuk kabilai yinpaal
-parugidalaa kaathenRu maRaiyOr sonnaa
-rathalinaa lOthiyuNarn^ thavarpaa lellaa
-madikkadiyuNG kEttayarvu theermi NneerE.  [20]
+ಸಾದಿಗುಣ ಮಾಚ್ಚಿರಮನ್ ದೇಸಙ್ ಗಾಲನ್  
+ದರುಮಂಗ ಣಿಮಿತ್ತಙ್ಲಣ್ ಮುದಲಾ ವೋದುಂ  
+ಪೇದಮುದ ಲಾಗವೊರು ತಿರವಿ ಯಂದಾನ್  
+ಪಿರಿಂದುನಲನ್ ದೀಂಗಿನೈಯುಂ ಪೆಟ್ರು ನಿಱ್ಕುಂ  
+ಪಾದಮಿಸೈಪ್ ಪಿಱಂದೋರ್ಕ್ಕುಕ್ ಕಬಿಲೈ ಯಿನ್ಬಾಲ್  
+ಪರುಗಿಡಲಾ ಕಾದೆಂಡ್ರು ಮಱೈಯೋರ್ ಸೊನ್ನಾ  
+ರಾದಲಿನಾ ಲೋದಿಯುಣರ್ನ್ ದವರ್ಬಾ ಲೆಲ್ಲಾ  
+ಮಡಿಕ್ಕಡಿಯುಙ್ ಗೇಟ್ಟಯರ್ವು ತೀರ್ಮಿ ನೀರೇ.  [20]
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -534,14 +528,14 @@ clarified.
 
 </details>
 
-kangiruLaal vidiyaadha vulaguk kellaNG
-kaiviLakkaa mivaiyenRu kaNnan kaattum
-pongupuga zhaagamanga deLiyach sonna
-poruLivain^aam puNNiyar_paaR kEttuch sonnO
-mangudalum poruLumalla thaRiyaa maandhar
-valaiyuLagap pattuvaram pazhiyaa thenRum
-pangayamaa thuRRavaru LaaLar thampaaR
-patthimigu pavitthirangaL payinmi NneerE.   [21]
+ಕಂಗಿರುಳಾಲ್ ವಿಡಿಯಾದ ವುಲಗುಕ್ ಕೆಲ್ಲಾಙ್  
+ಗೈವಿಳಕ್ಕಾ ಮಿವೈಯೆಂಡ್ರು ಕಣ್ಣನ್ ಕಾಟ್ಟುಂ  
+ಪೊಂಗುಬುಗ ೞಾಗಮಂಗ ಟೆಳಿಯಚ್ ಚೊನ್ನ  
+ಪೊರುಳಿವೈನಾಂ ಪುಣ್ಣಿಯರ್ಬಾಱ್ ಕೇಟ್ಟುಚ್ ಚೊನ್ನೋ  
+ಮಂಗುಡಲುಂ ಪೊರುಳುಮಲ್ಲಲ ತಱಿಯಾ ಮಾಂದರ್  
+ವಲೈಯುಳಗಪ್ ಪಟ್ಟುವರಂ ಪೞಿಯಾ ತೆಂಡ್ರುಂ  
+ಪಂಗಯಮಾ ತುಟ್ರವರು ಳಾಳರ್ ತಂಬಾಱ್  
+ಪತ್ತಿಮಿಗು ಪವಿತ್ತರಂಗಳ್ ಪಯಿನ್ಮಿ ನೀರೇ.  [21]
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
