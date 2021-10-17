@@ -5,3 +5,7 @@
 	path = content
 	url = https://github.com/vishvAsa/AgamaH.git
 	branch = content
+[submodule "static"]
+	path = static
+	url = https://github.com/vishvAsa/AgamaH.git
+	branch = static_files
