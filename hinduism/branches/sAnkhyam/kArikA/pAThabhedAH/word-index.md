@@ -1,7 +1,11 @@
 +++
-title = "Index"
+title = "Word Index"
 
 +++
+The words of the साङ्ख्यकारिका  
+(variant readings are not given)
+
+
 अ  
 अकरण ९  
 अकर्तृ १९  
