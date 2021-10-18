@@ -10,8 +10,16 @@ title = "01 सृष्ट्यधिकारः"
 परमेश-मुखोद्भूत-  
 ज्ञान-चन्द्र-मरीचयः ॥ १ ॥+++(5)+++
 
-जगदर्णव-मग्नानां  
-तारकं तारकान्तकम् ।  
+<details><summary>English</summary>
+
+1. May the rays of the moon of wisdom (consoious ness) which have come out of the mouth of Paramose (siva) and which are capable of destroying the enemies of the Ultimate Reality (Parama siva) prevail.
+
+</details>
+
+
+
+जगद्-अर्णव-मग्नानां  
+तारकं तारकान्तकम् +++(स्कन्दम्)+++ ।  
 सनत्-कुमार-सनक-  
 सनातन-सनन्दनाः ॥ २ ॥
 
@@ -25,10 +33,17 @@ title = "01 सृष्ट्यधिकारः"
 भगवन् योग-संसिद्धि-  
 काङ्क्षिणो वयम् आगताः ॥ ४ ॥
 
+
 सा च योगं विना यस्मान्  
 न भवेत् तम् अतो वद ।  
 ऋषिभिर् योगम् इच्छद्भिः  
 स तैर् एवम् उदाहृतः ॥ ५ ॥
+
+<details><summary>English</summary>
+
+2, 3, 4 & 5. The Great sages, Sanatkumara, Sanaka, Sanatana, Sanandana, Narada, Agastya, Sanvarte and Vasista etc., inspired by the power of Siva, desiring to learn the great fact (the ultimate Reality) and much pleased, said to Kartikeya, who is slayer of Taraka, a demon, and who helps the people, sinking in the ocean of the world to cross it, on worshipping him duly- Sir, we have come to you with a desire to get success in the Yoga. The same cannot be achieved without Yoga. Kindly tell us the same.
+</details>
+
 
 प्रत्युवाच प्रहृष्टात्मा  
 नमस् कृत्य महेश्वरम् ।  
@@ -76,7 +91,7 @@ title = "01 सृष्ट्यधिकारः"
 उपादेयं च हेयं च  
 विज्ञेयं परमार्थतः ॥ १४ ॥
 
-## शिष्टम्
+## प्रमेयाः
 शिवः शक्तिः सविद्येशा  
 मन्त्रा मन्त्रेश्वराणवः ।  
 **उपादेयम्** इति प्रोक्तम्  
@@ -114,36 +129,122 @@ title = "01 सृष्ट्यधिकारः"
 
 सर्वेऽप्य् एते महात्मानो  
 मन्त्राः सर्व-फल-प्रदाः ।  
-+++(ततः)+++ **आत्मा** चतुर्-विधो ज्ञेयस् -  
-तत्र विज्ञान-केवलः ॥ २२ ॥
++++(ततः)+++ **आत्मा** +++(सकल--प्रलयकल--विज्ञानकल--मन्त्र-भेदेन)+++ चतुर्-विधो ज्ञेयस् -  
+तत्र+++(→तेषु)+++ विज्ञान-केवलः ॥ २२ ॥
 
-मलैक-युक्तस्, तत्-कर्म-  
-युक्तः, प्रलय-केवलः ।  
+
++++(आणव-)+++मलैक-युक्तस्, तत्+++(→आणव)+++-कर्म-  
++++(मल-द्वय-)+++युक्तः प्रलय-केवलः +++(इति)+++ ।  
 **मलम्** अज्ञानम् इच्छन्ति  
 संसाराङ्कुर-कारणम् ॥ २३ ॥
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+विज्ञानकेवल मात्र मायीय मल से युक्त होता है।  
+प्रलय-केवल मायीय और कार्म दो मलों से युक्त होते हैं ।  
+मल की परिभाषा बतलाते हुए भगवान् कह रहे हैं कि, 'अज्ञान' को ही मल कहने की प्रथा है। सभी इसी परिभाषा को चाहते हैं - अर्थात् इसका समर्थन करते हैं।  
+यह संसाररूपी अङ्कुर का कारण माना जाता है। वास्तव में अङ्कुर बीज से निकलता है, और वह वृक्ष बन जाता है। इस तरह स्वात्म विस्मरण रूप अज्ञान ही जिसे शास्त्र 'मल' कहते हैं, यही जगत् का बोज है। इसी से संसरण का अङ्कुर उत्पन्न होता है और यही प्रपञ्च विस्तारयुक्त होकर वृक्ष हो जाता है ।। २२-२३ ॥
+</details>
+
+<details><summary>English</summary>
+
+22 & 23. All these great souled mantras are bringers of all fruits. There are four kinds of Atman (Limited self) (the four kinds are Sakala, Pralayakala, vijnanakala and Mantra). (Out of these four, only two kinds are defined).  
+The vijnanakala has only one Mala named Anava, Pralayakala has Karma Mala including the Anava Mala. Thus this Atma has two Malas, viz., Anava and Karma. (The third lowest and worst form of Atma, i.e., Sakala, which contain three Malas, has not been mentioned here). Dirt is said to be neso ionom of ignorance, which is the cause or the need of the world. 
+</details>
+
+
 
 धर्माधर्मात्मकं **कर्म**  
 सुख-दुःखादि-लक्षणम् ।  
 ईश्वरेच्छा-वशाद् अस्य +++([क्: वशात्तस्येति])+++  
 **भोगेच्छा** सम्प्रजायते ॥ २४ ॥
 
+<details><summary>English</summary>
+
+24. The good and the evil deeds produce pleasure and pain respectively.  
+In accordance with the divine will, this limited soul (who is siva and who has assumed the form or the limited self) has the desire or enjoyment.
+
+</details>
+
+
+
 भोग-साधन-संसिद्ध्यै  
 भोगेच्छोर् अस्य मन्त्रराट् ।  
-**जगद्** उत्पादयामास  
+**जगद्** उत्पादयाम् आस  
 मायाम् आविश्य शक्तिभिः ॥ २५ ॥
 
-च चैका व्यापिनी-रूपा  
+<details><summary>English</summary>
+
+25. The King of the Mantras (siva), having entered Into His Maya Sakti with all His energies, created the world for the limited self which desire to get success in the enjoyment or the universe. 
+</details>
+
+
+
+सा +++(माया)+++ चैका व्यापिनी-रूपा  
 निष्कला जगतो निधिः।  
-+++([क्: निष्कलस्य स्वभावजेति । ख्० पु० निष्कलस्य शिवात्मन इति पाठः । निष्कला इत्यारभ्य कथ्यते इत्यन्तः पाठः घसञ्ज्ञपुस्तकात्पूरितः ।])+++
-अनाद्यन्ताशिवेशानी  
++++([क्: निष्कलस्य स्वभावजेति । ख्० पु० निष्कलस्य शिवात्मन इति पाठः । निष्कला इत्यारभ्य कथ्यते इत्यन्तः पाठः घ-सञ्ज्ञ-पुस्तकात्-पूरितः ।])+++
+अनाद्यन्ता **शिवेशानी**  
 व्ययहीना च कथ्यते ॥ २६ ॥
 
-असूत सा कला-तत्त्वं यद्योगादभवत्पुमान् ।  
-जातकर्तृत्वसामर्थ्यो विद्यारागौ ततोऽसृजत् ॥ २७ ॥
+<details><summary>English</summary>
 
-विद्या विवेचयत्यस्य कर्म तत्कार्यकारणे ।  
-रागोऽपि +++([क्: रागोऽनुरञ्जयतीति ।])+++ रञ्जयत्येनं स्वभोगेष्वशुचिष्वपि ॥ २८   
-॥
+26. That one, that is, all-parvading transcendental, fountain head of the world, without beginning and end, the Maya Sakti of siva, Isani is immune, from any change.
+
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+वह माया जिसमें शक्तियों द्वारा प्रवेश कर अनन्त रूप मन्त्रमहेश्वर जगत् को उत्पन्न करते हैं, वह माया 'एक' ही शक्ति है । सर्वव्यापक तत्त्व हैं।    
+इसके मूल रूप में कला नहीं रहती। अत एव यह निष्कला है ।  
+यह संसार की निधि है। न इसका अन्त है और न आदि ही हैं।  
+इसे शिवा और ईशानो शक्ति भी कहते हैं।  
+यह अव्यय तत्व है। कभी क्षीण नहीं होती ॥ २६ ।।
+</details>
+
+
+
+असूत सा **कला-तत्त्वं**  
+यद् योगाद् अभवत् **पुमान्** ।  
+जात-कर्तृत्व-सामर्थ्यो  
++++(सीमित-)+++**विद्या-रागौ** ततोऽसृजत् ॥ २७ ॥
+
+<details><summary>English</summary>
+
+27. This power of Maya Sakti creatod Kala-tattwa from which Purushatattva is born, which (Purushatattva) after getting the strength of doership, produced Vidya Tattva, i.e. impure Vidya, and Raga Tattva (attachment).
+
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+माया ने ही कला तत्व को उत्पन्न किया।  
+कला के योग से पुरुष सकल हो गया । अर्थात् पुरुष तत्त्व की उत्पत्ति होती है। पुरुष में कर्मरूप जातकर्तृत्व सामर्थ्य भगवान् के वरदान रूप में प्राप्त हुआ है । जात-कर्तृत्व का अर्थ किंचित्-कर्तृत्व है।  
+इसके बाद विद्या और राग उत्पन्न हुए।  
+इस प्रकार माया से कला, और कला से विद्या और राग को माया ने उत्पन्न होने के लिये प्रेरित किया ॥ २७॥ 
+
+
+</details>
+
+
+
++++(सीमित-)+++**विद्या** विवेचयत्य् अस्य  
+कर्म तत्-कार्य-कारणे ।  
+**रागो** ऽपि +++([क्: रागोऽनुरञ्जयतीति ।])+++ रञ्जयत्य् एनं  
+स्वभोगेष्व् अशुचिष्व् अपि ॥ २८॥
+
+
+<details><summary>English</summary>
+
+28. Vidya (limited knowledge) makes the limited self (who is Siva) and distinguishes between the cause and its effect. The Raga (attachment or inalination), pleases the limited self with the pleasures of the Impure enjoyments.
+
+</details>
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+
+</details>
+
+
 
 नियतिर्योजयत्येनं स्वके कर्मणि पुद्गलम् ।  
 कालोऽपि कलयत्येनं तुट्यादिभिरवस्थितः ॥ २९ ॥
@@ -158,7 +259,7 @@ title = "01 सृष्ट्यधिकारः"
 कर्मेन्द्रियाणि वाक्पाणिपायूपस्थाङ्घ्रयः क्रमात् ॥ ३२ ॥
 
 कलादिक्षितिपर्यन्तमेतत्संसारमण्डलम् ।  
-समुद्रादि +++([ख्, ग्: समुद्राद्यमिति।])+++ जगत्कृत्स्नं   
+समुद्रादि +++([ख्, ग्: समुद्राद्यमिति।])+++ जगत्कृत्स्नं  
 परिवर्तयतीच्छया ॥ ३३ ॥
 
 प्। ५)
@@ -202,8 +303,10 @@ title = "01 सृष्ट्यधिकारः"
 तमाराध्य ततस्तुष्टाद्दीक्षामासाद्य शाङ्करीम् ।  
 तत्क्षणाद्वोपभोगाद्वा +++([ख्: उपयोगाद्वेति ।])+++ देहपाताच्छिवं +++([क्: पाते शिवमिति ।])+++ व्रजेत् ॥ ४५ ॥
 
-योगदीक्षां समासाद्य ज्ञात्वा योगं समभ्यसेत् ।  
-योगसिद्धिमवाप्नोति तदन्ते शाश्वतं पदम् ॥ ४६ ॥
+योगदीक्षां समासाद्य  
+ज्ञात्वा योगं समभ्यसेत् ।  
+योग-सिद्धिम् अवाप्नोति  
+तद्-अन्ते शाश्वतं पदम् ॥ ४६ ॥
 
 अनेन क्रमयोगेन सम्प्राप्तः परमं पदम् ।  
 न भूयः पशुतामेति शुद्धे स्वात्मनि तिष्ठति ॥ ४७ ॥
