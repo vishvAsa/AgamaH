@@ -337,7 +337,7 @@ TYPES OF PARALLELISM IN THE _POPOL VUH_
 > This the **grandfather**,	Are' ri **mama'**,  
 > This **master of _tz'ite,_**	Are' **aj tz'ite**,
 
-8. **Alliterative Parallelism:** Elements which parallel one another in sound when read aloud. In lines 486-7, the verbs _yoj _and _yoq' _were apparently chosen for their similar sounds, in addition to their synonymous meaning:
+8. **Alliterative Parallelism:** Elements which parallel one another in sound when read aloud. In lines 486-7, the verbs _yoj_ and _yoq'_ were apparently chosen for their similar sounds, in addition to their synonymous meaning:
 
 > Then **they undid** it therefore,	Ta **xkiyoj** k'ut,  
 > **They toppled** it again	**Xkiyoq'** chik
@@ -377,27 +377,33 @@ Chiasms may appear within a single line or extend for several lines, as in the f
 
 > Then **they were multiplied**,	Ta **xpoq'otajik**,  
 > There at its coming out sun.	Chila' chi releb'al q'ij.  
-> Truly **their names **came to be the **people**:	Qi **u b'i' **xuxik ri **winaq**:  
+> Truly **their names** came to be the **people**:	Qi **u b'i'** xuxik ri **winaq**:  
 > Sovereign,	Tepew,  
 > **Ballplayer**,	**Oloman**,  
 > Masker,	K'ojaj,  
 > **Sun Lord**,	**K'enech Ajaw**,  
-> Would be called now **their names people**.		Chuchax chik **u b'i' winaq**. **There its coming out sun	Chila' releb'al q'ij**  
+> Would be called now **their names people**.		Chuchax chik **u b'i' winaq**.  
+> **There its coming out sun	Chila' releb'al q'ij**  
 > They were multiplied.	Xpoq'otajik.
 
 
 Within the _Popol Vuh_, entire sections may appear in chiastic form. The account of the first creation is arranged as a single, large chiasm. Each phase of the creation is outlined in detail from primordial stillness to the formation of the face of the earth, along with its mountains and rivers. The final portion of this section then recapitulates the events of the creation in reverse order:
 
 
-> Creation begun with a **declaration of the first words **concerning the creation (lines 97-117) The **sky **is in suspense and the **earth is submerged in water **(lines 118-136)  
-> The creation is to be under the direction of **Its Heart Sky **(lines 137-192) The **creation **of all things begun (lines 193-201)  
-> The creation of **earth **(lines 202-232)  
-> The creation of **mountains **(lines 233-255)  
-> The **division of the waters **into branches (lines 256-258) “Merely **divided **then existed **waters**,” (line 259)  
-> “Then were revealed great **mountains**.” (line 260) “Thus its creation **earth **this,” (line 261)  
-> “Then it was **created **by them” (line 262)  
+> Creation begun with a **declaration of the first words** concerning the creation (lines 97-117)  
+> The **sky** is in suspense and the **earth is submerged in water** (lines 118-136)  
+> The creation is to be under the direction of **Its Heart Sky** (lines 137-192)  
+> The **creation** of all things begun (lines 193-201)  
+> The creation of **earth** (lines 202-232)  
+> The creation of **mountains** (lines 233-255)  
+> The **division of the waters** into branches (lines 256-258)  
+> “Merely **divided** then existed **waters**,” (line 259)  
+> “Then were revealed great **mountains**.” (line 260)  
+> “Thus its creation **earth** this,” (line 261)  
+> “Then it was **created** by them” (line 262)  
 > “**Its Heart Sky**, [who first conceived the creation]” (lines 263-267)  
-> “It was set apart the **sky**, it was set apart also **earth within water**,” (lines 268-269) “Thus its **conception **this, when they thought, when they pondered” (lines 270-274)
+> “It was set apart the **sky**, it was set apart also **earth within water**,” (lines 268-269)  
+> “Thus its **conception** this, when they thought, when they pondered” (lines 270-274)
 
 
 
@@ -405,7 +411,7 @@ Within the _Popol Vuh_, entire sections may appear in chiastic form. The account
 
 
 > These therefore their names	Are' k'u ki b'i'  
-> **Their wives **these:	**Kixoqil **wa':
+> **Their wives** these:	**Kixoqil** wa':
 
  This introductory couplet is followed by four couplets listing the wives of the Quiché progenitors. The section is then concluded with a parallel enveloping couplet in lines 5157- 5158:
 
@@ -418,30 +424,32 @@ Within the _Popol Vuh_, entire sections may appear in chiastic form. The account
 Such envelopes may appear at the beginning and end of much larger sections as well. The account of the second creation begins with lines 275-276, describing the formation of the wild animals of the earth:
 
 
-> **THEN **they conceived again	**TA **xkino'jij chik  
+> **THEN** they conceived again	**TA** xkino'jij chik  
 > Its **animals mountain**,	U **chikopil juyub'**,
 
 
 The account concludes with lines 432-3, which recapitulate the introductory couplet with a parallel envelope:
 
 
-> The **animals **that are here	Ri **chikop **k'o waral  
+> The **animals** that are here	Ri **chikop** k'o waral  
 > On its face **earth**.	Chuwach **ulew**.
 
 13. **Merismus:** The expression of a broad concept by a pair of complementary elements which are narrower in meaning. Thus, in lines 64-65, “**sky-earth**” represents all creation as a whole. Lines 240-241 use “**mountain-valley**” to include the face of the earth as a whole. Lines 338-339 use “**deer-birds**” to describe all wild animals, while lines 748-749 use “**dogs- turkeys**” to describe all domesticated animals.
 14. **Emblematic Parallelism:** The use of simile to compare elements, often with the use of words such as “like” or “as.” Example, lines 832-833:
 
-> These therefore **the spider monkeys**,	Are' k'u **ri k'oy**,  
-> **Like people **they would appear.	**Keje' ri' winaq **chiwachinik.
+> These therefore **the spider monkeys**,	Are' k'u** ri k'oy**,  
+> **Like people** they would appear.	**Keje' ri' winaq** chiwachinik.
 
 15. **Combination of Parallel Arrangements:** The use of two or more types of parallelism in a single strophe. The following example from lines 4948-4956 is a combination of parallel couplets arranged into chiastic form (AABBCB'B'A'A'):
 
 
 > MERELY framed,	XA tz'aq,  
-> Merely **shaped **they are called.	Xa **b'it **ke'uchaxik.  
+> Merely **shaped** they are called.	Xa **b'it** ke'uchaxik.  
 > There was no their mother,	Maja b'i ki chuch,  
-> **There was no their father**.	**Maja b'i ki qajaw**. Merely lone men we would say.		Xa u tukel achij chiqab'ij.  
-> Nor surely woman gave them birth,	Ma na ixoq xe'alanik, Nor also were they begotten	Ma nay pu xek'ajolaxik  
+> **There was no their father**.	**Maja b'i ki qajaw**.  
+> Merely lone men we would say.		Xa u tukel achij chiqab'ij.  
+> Nor surely woman gave them birth,	Ma na ixoq xe'alanik,  
+> Nor also were they begotten	Ma nay pu xek'ajolaxik  
 > By the **Framer**,	Rumal ri **Aj Tz'aq**,  
 > Shaper,	Aj B'it,
 
@@ -449,11 +457,11 @@ The account concludes with lines 432-3, which recapitulate the introductory coup
 Lines 5063-5070 combine alternate parallelism with parallel couplets placed in the third position (ABCCA'B'C'C'):
 
 
-> **Not **therefore **good	Ma **k'u **utz**  
+> **Not** therefore **good**	Ma k'u **utz**  
 > They heard it,	Xkita'o,  
 > The **Framer**,	Ri **Aj Tz'aq**,  
 > Shaper.	Aj B'it.  
-> “**Not good	**“**Mawi utz**  
+> “**Not good**“ 	 **Mawi utz**  
 > This they said,	Ri' mi xkib'ij,  
 > Our **framing**,	Qa **tz'aq**,  
 > Our **shaping**:	Qa **b'it**:
@@ -500,19 +508,21 @@ In modern Quiché speech, formal prayers and even everyday conversation tend to 
 > Come here then my work,	Sa'j la rech c'ut nuchac,  
 > my service.	nupatan.
 
-2. **Parallel Triplets (Tricolon):** Three parallel lines of text. Example, lines 374-376: “Speak!	“Kixch'awoq!
+2. **Parallel Triplets (Tricolon):** Three parallel lines of text. Example, lines 374-376: 
 
+> “Speak!	“Kixch'awoq!
 > Call upon us!	Kojisik'ij!  
 > Worship us!” they were told.	Kojiq'ijila'!” xe'uchaxik.
 
-3. **Parallel Quatrains (Tetracolon):** Four parallel lines of text. Example, lines 5034-5037: We speak,	Kojch'awik,
+3. **Parallel Quatrains (Tetracolon):** Four parallel lines of text. Example, lines 5034-5037: 
 
+> We speak,	Kojch'awik,
 > We listen,	Kojta'onik,  
 > We ponder,	Kojb'isonik,  
 > We move.	Kojsilab'ik.
 
 
-One interesting phenomenon which appears frequently within longer series of parallel lines is “gapping,” in which an expected word or clause is omitted in one line, although it is implied by the parallelism of the series. Gapping is used in modern Quiché to break up the monotony of a long series of parallel elements. An example in the _Popol Vuh_ appears in lines 66-69, in which the word “four” is expected in the third line, but is not expressed:
+One interesting phenomenon which appears frequently within longer series of parallel lines is “gapping,” in which an expected word or clause is omitted in one line, although it is implied by the parallelism of the series. Gapping is used in modern Quiché to break up the monotony of a long series of parallel elements.+++(4)+++ An example in the _Popol Vuh_ appears in lines 66-69, in which the word “four” is expected in the third line, but is not expressed:
 
 
 > Its four cornerings,	U kaj tz'ukuxik,  
@@ -520,24 +530,26 @@ One interesting phenomenon which appears frequently within longer series of para
 > Its measurings,	Retaxik,  
 > Its four stakings,	U kaj che'xik,
 
-4. **Longer parallel series:** The following is an example of a parallel sextet in lines 464-469: Merely it would come undone,	Xa chiyojomanik,
+4. **Longer parallel series:** The following is an example of a parallel sextet in lines 464-469: 
 
+> Merely it would come undone,	Xa chiyojomanik,
 > Merely crumbled,	Xa tzub'ulik,  
 > Merely sodden,	Xa neb'elik,  
 > Merely mushy,	Xa lub'anik,  
-> Merely fallen apart,	Xa wulanik, Merely as well it would dissolve.	Xa pu chi'umarik.
+> Merely fallen apart,	Xa wulanik,  
+> Merely as well it would dissolve.	Xa pu chi'umarik.
 
 
 The _Popol Vuh_ is fundamentally based on these various forms of parallelism. Recognition of the presence of parallelism in a given text helps to focus attention on what the authors feel is important. By pairing each thought with complementary ones, the authors are able to develop their ideas with greater clarity. They may compare elements, contrast them, elaborate upon their significance, or add layers of meaning which would not otherwise be obvious.
 
 
-Parallelism is also the primary means used by Quiché authors to give order to their thoughts. The words of the _Popol Vuh_ were not arranged into sentences and paragraphs as in modern literature. The use of periods, commas, and capitalization to separate independent concepts was inconsistent at best, reflecting the authors’ lack of familiarity with European devices for punctuation. Parallelism provided a means of structuring the book’s ideas into distinct and coherent entities.
+Parallelism is also the primary means used by Quiché authors to give order to their thoughts. The words of the _Popol Vuh_ were not arranged into sentences and paragraphs as in modern literature. The use of periods, commas, and capitalization to separate independent concepts was inconsistent at best, reflecting the authors’ lack of familiarity with European devices for punctuation. Parallelism provided a means of structuring the book’s ideas into distinct and coherent entities.+++(4)+++
 
 
-Much of Quiché literature was based in whole, or in part, on oral tradition. Parallelism is a common mnemonic device used in many ancient cultures to help narrators remember the flow and direction of their tale. This is particularly true of the chiastic type of parallelism, which may give order to large sections of a story. It also gives the listener an opportunity to hear a recapitulation in reverse order of what had been said, while reminding him of the central themes that are of special importance.
+Much of Quiché literature was based in whole, or in part, on oral tradition. Parallelism is a common mnemonic device used in many ancient cultures to help narrators remember the flow and direction of their tale. This is particularly true of the chiastic type of parallelism, which may give order to large sections of a story. It also gives the listener an opportunity to hear a recapitulation in reverse order of what had been said, while reminding him of the central themes that are of special importance.+++(5)+++
 
 
-The presence of parallelism in the _Popol Vuh_ is also a tremendous, though unintended, boon to modern translators. By comparing an ambiguous word or passage with its associated line, its general meaning is often clarified. This is especially important when interpreting a word which has more than one possible meaning, or which is poorly transcribed through scribal error.
+The presence of parallelism in the _Popol Vuh_ is also a tremendous, though unintended, boon to modern translators. By comparing an ambiguous word or passage with its associated line, its general meaning is often clarified. This is especially important when interpreting a word which has more than one possible meaning, or which is poorly transcribed through scribal error.+++(4)+++
 
 
 Perhaps the most important reason that I have stressed the poetic nature of the _Popol Vuh_ in this translation is the insight it gives into the mind of the ancient Quiché author. We can see how he organized his thoughts as he took pen or brush in hand to set them down in permanent form. Far from being the random musings of an unlearned storyteller, the _Popol Vuh_ can be appreciated as the eloquent creation of a master poet with a sophisticated literary heritage.
@@ -547,27 +559,26 @@ Perhaps the most important reason that I have stressed the poetic nature of the 
 #### Orthography
 
 
-The Quiché version of the _Popol Vuh_ transcribed by Ximénez was written using a modified Latin alphabet to represent Quiché sounds. Thus _x _is used to represent the _sh _sound of English; _h _represents the hard Spanish _j_; and _v _represents the English _w_. For the most part, the letters used were based on those standardized by the Franciscan priest Francisco de la Parra in 1545. The orthography is therefore consistent with the writing system taught by Christian missionaries during the early Spanish Colonial period, although the _Popol Vuh_ text is much less consistent in its use of the Parra alphabet than other contemporary documents such as the _Título Totonicapán _(Carmack and Mondloch 1983) or the _Título Yax _(Carmack and Mondloch 1989). Variant spellings of words occur throughout the manuscript and glottalized sounds in particular are haphazardly distinguished at best. Even when used faithfully, however, the Parra alphabet presents a number of problems in interpretation, since the Quiché language includes several sounds which have no equivalents in this system.
+The Quiché version of the _Popol Vuh_ transcribed by Ximénez was written using a modified Latin alphabet to represent Quiché sounds. Thus _x_ is used to represent the _sh_ sound of English; _h_ represents the hard Spanish _j_; and _v_ represents the English _w_. For the most part, the letters used were based on those standardized by the Franciscan priest Francisco de la Parra in 1545. The orthography is therefore consistent with the writing system taught by Christian missionaries during the early Spanish Colonial period, although the _Popol Vuh_ text is much less consistent in its use of the Parra alphabet than other contemporary documents such as the _Título Totonicapán_ (Carmack and Mondloch 1983) or the _Título Yax_ (Carmack and Mondloch 1989). Variant spellings of words occur throughout the manuscript and glottalized sounds in particular are haphazardly distinguished at best. Even when used faithfully, however, the Parra alphabet presents a number of problems in interpretation, since the Quiché language includes several sounds which have no equivalents in this system.
 
-
-Long and short vowels are treated as separate letters in Quiché and should be distinguished when written. The Ximénez transcription of the _Popol Vuh_ seldom makes such distinctions. For example, the word transcribed as _vach _might be read with a long vowel _vach _(“my companion”), or with a short vowel _väch _(“my face”).
+Long and short vowels are treated as separate letters in Quiché and should be distinguished when written. The Ximénez transcription of the _Popol Vuh_ seldom makes such distinctions. For example, the word transcribed as _vach_ might be read with a long vowel _vach_ (“my companion”), or with a short vowel _väch_ (“my face”).
 
 
 The Quiché language utilizes both a palatal stop (_k_) and a uvular stop (_q_). The _Popol Vuh_ manuscript uses a single letter (_c_) to represent both these sounds. In addition, each of these has a glottalized form (_k'_) and (_q'_), pronounced by occluding the vocal apparatus momentarily and then opening it forcefully to create a mildly-explosive release of sound.
 
 
-Because the Latin alphabet has no equivalent for glottalized sounds, Parra invented letters to represent them. The _Popol Vuh_ manuscript however does not consistently use the Parra glottalized letters for the palatal and uvular consonants. In most cases it either ignores glottalization altogether, representing them with the letter _c_, or uses the letter _q _to represent both glottalized forms. As a result, the single letter “c” may have four equally plausible readings.
+Because the Latin alphabet has no equivalent for glottalized sounds, Parra invented letters to represent them. The _Popol Vuh_ manuscript however does not consistently use the Parra glottalized letters for the palatal and uvular consonants. In most cases it either ignores glottalization altogether, representing them with the letter _c_, or uses the letter _q_ to represent both glottalized forms. As a result, the single letter “c” may have four equally plausible readings.
 
-For example, the word _cac _might be read as _kak _(their gourd); _kaq _(red); _kaq _(their peccary); _kak' _(their turkey); _qak _(our gourd); _qak' _(our turkey); _qaq _(our peccary); _kaq' _(their tongues); _qaq' _(our tongues); _k'ak' _(new); _k'aq _(to throw); _q'ak _(flea); or _q'aq' _(fire). Four other combinations are possible which have no known meaning in modern usage, but which might have existed in the archaic language of the sixteenth century.
+For example, the word _cac_ might be read as _kak_ (their gourd); _kaq_ (red); _kaq_ (their peccary); _kak'_ (their turkey); _qak_ (our gourd); _qak'_ (our turkey); _qaq_ (our peccary); _kaq'_ (their tongues); _qaq'_ (our tongues); _k'ak'_ (new); _k'aq_ (to throw); _q'ak_ (flea); or _q'aq'_ (fire). Four other combinations are possible which have no known meaning in modern usage, but which might have existed in the archaic language of the sixteenth century.
 
 
-The glottalized forms of other consonants and vowels are also either ignored or used inconsistently in the Ximénez manuscript. Thus there is often no difference between the written form of _che _(toward him/her) and _che' _(tree). Imagine the difficulties for the reader when the words _tzaq _(to thrown down) and _tz'aq _(to frame or build) appear with the same spelling.
+The glottalized forms of other consonants and vowels are also either ignored or used inconsistently in the Ximénez manuscript. Thus there is often no difference between the written form of _che_ (toward him/her) and _che'_ (tree). Imagine the difficulties for the reader when the words _tzaq_ (to thrown down) and _tz'aq_ (to frame or build) appear with the same spelling.
 
 
 If this weren’t confusing enough, words which appear to be contextually the same may appear with variant spellings. The Quiché authors who composed the text in the sixteenth century were pioneers in the use of a foreign alphabet to represent their language in written form. They did not have the luxury of officially recognized dictionaries with standardized spellings, nor did they have computers to scan for errors. In light of the enormous difficulties involved in its composition, the _Popol Vuh_ manuscript is remarkably consistent, although discrepancies in spelling inevitably appear in the text.
 
 
-It is impossible to know how many variant spellings crept into the text as a result of scribal errors made by Ximénez when he copied his version from the original manuscript. At one point, Ximénez copied eleven lines of the same passage of text twice (folio 8r). He caught his mistake and crossed out the repeated section. If no scribal errors were made, the two transcriptions should be identical, yet Edmonson found an average of one discrepancy every five lines in the duplicated section (Edmonson 1971, 46). Without the original document composed by the Quichés, a perfect reading of the text is impossible to verify.
+It is impossible to know how many variant spellings crept into the text as a result of scribal errors made by Ximénez when he copied his version from the original manuscript. At one point, Ximénez copied eleven lines of the same passage of text twice (folio 8r). He caught his mistake and crossed out the repeated section. If no scribal errors were made, the two transcriptions should be identical, yet Edmonson found an average of one discrepancy every five lines in the duplicated section (Edmonson 1971, 46).+++(5)+++ Without the original document composed by the Quichés, a perfect reading of the text is impossible to verify.
 
 
 Since the sixteenth century, a number of writing systems have been invented for Quiché in an attempt to avoid the confusion inherent in the Parra alphabet. Unfortunately, this has resulted in the proliferation of a great many competing systems without a consensus as to which should be the standard. Many of these utilize letters not found in the modern European alphabet, making them impossible to use with most typewriters and computer keyboards.
@@ -593,8 +604,8 @@ The following is a list of the modified Latin letters developed by Parra as used
 |          h         | j      | Pronounced like the English h, but deeper in the throat. Similar to the                                                                                                |
 
 
-I have used the modern alphabet in my literal translation and transcription of the Quiché text. When pronouncing Maya words, the emphasis is always on the final syllable. When pronouncing Nahua words, the emphasis is always on the next to last syllable.
+I have used the modern alphabet in my literal translation and transcription of the Quiché text. When pronouncing Maya words, the emphasis is always on the final syllable. When pronouncing Nahua words, the emphasis is always on the next to last syllable.+++(5)+++
 
 
-Due to the haphazard nature of commas and periods in the _Popol Vuh_ text, I have altered the punctuation to conform with modern usage, but otherwise the grammatical constructions and word order of the original manuscript have not been altered in the literal translation. In order to avoid interpretations of spelling with regard to proper names, which in many cases would be little more than a guess, I have left them in their original Parra Latin spelling. To maintain consistency in this regard, I have used _Quiché _throughout this book, the spelling found in the original manuscript rather than the modern _K'iche'_.
+Due to the haphazard nature of commas and periods in the _Popol Vuh_ text, I have altered the punctuation to conform with modern usage, but otherwise the grammatical constructions and word order of the original manuscript have not been altered in the literal translation. In order to avoid interpretations of spelling with regard to proper names, which in many cases would be little more than a guess, I have left them in their original Parra Latin spelling. To maintain consistency in this regard, I have used _Quiché_ throughout this book, the spelling found in the original manuscript rather than the modern _K'iche'_.
 
