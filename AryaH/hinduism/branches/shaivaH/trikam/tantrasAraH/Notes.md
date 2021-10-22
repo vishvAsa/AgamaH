@@ -361,9 +361,7 @@ this context they are used as mantras.
 
 [^69]:
 
-    Samaya is known as convention, i.e., a supposed relation between 
-
-words and their meanings. 
+    Samaya is known as convention, i.e., a supposed relation between words and their meanings. 
 
 Chapter Six 
 
@@ -1491,21 +1489,15 @@ Chapter Fourteen
 
 [^202]:
 
-    Putraka or spiritual son is a type of initiation in which a disciple is 
-
-adopted as a successor of a teacher. 
+    Putraka or spiritual son is a type of initiation in which a disciple is adopted as a successor of a teacher. 
 
 [^203]:
 
-    Parivāra or family refers to the group of subordinate deities cen 
-
-tered around the main deity. 
+    Parivāra or family refers to the group of subordinate deities centered around the main deity. 
 
 [^204]:
 
-    This refers to the doors of the place where the rituals are per 
-
-formed. 
+    This refers to the doors of the place where the rituals are performed. 
 
 [^205]:
 
@@ -1535,9 +1527,7 @@ and for the purpose of propitiating God.
 
 [^207]:
 
-    The nirbīja type of initiation is given to those judged incapable of 
-
-following the set of rules of post-initiatory conduct (samayapāśa), as for example children, those who are dull, old people, women, those attached to their wealth, the sick, and so on. They attain lib eration on account of their devotion to the teacher, deities, and scriptures. On the other hand, the sabīja type of initiation is given to those who have the gift of reason, are capable of tolerating toils and difficulties, and are therefore capable of following the set of rules of pre-initiatory conduct... 
+    The nirbīja type of initiation is given to those judged incapable of following the set of rules of post-initiatory conduct (samayapāśa), as for example children, those who are dull, old people, women, those attached to their wealth, the sick, and so on. They attain liberation on account of their devotion to the teacher, deities, and scriptures. On the other hand, the sabīja type of initiation is given to those who have the gift of reason, are capable of tolerating toils and difficulties, and are therefore capable of following the set of rules of pre-initiatory conduct... 
 
 Chapter Fifteen 
 
@@ -1545,15 +1535,11 @@ Chapter Fifteen
 
     The initiation described in this chapter is given to a dying person. 
 
-Ordinarily, the initiation is not given to all, and one desirous of initiation needs to show his devotion to teacher, deities, or scrip tures. This devotion is, in turn, seen as an indication of the descent of grace (śaktipāta), and śaktipāta is perceived as a definite sign that one is suitable for initiation. The conditions under which the teacher is expected to grant initiation to a dying person are described by Abhinavagupta in the TĀ 19: 4-6: When in a dying person, the fall of even weak power is awakened-whether he is taken by devotion to a teacher and others; whether the fall of grace is through work of friends, relatives, etc., whether he has been indeed regular (samayin) but has not obtained the supreme initia tion; whether, already having obtained it, he desires to leave as soon as possible his vital breaths, desirous of going away-the teacher should provide for him the initiation of immediate depar ture, free from impurities. However, the teacher must be careful not to give initiation to a person whose impurities (malas) haven't reach maturation, or to one whose karma hasn't been exhausted (seṣakarmikavigrahe). The commentator explains this compound to mean: one who is not about to die, that is, one whose prārab 
-
-dhakarma hasn't been fully exhausted. 
+Ordinarily, the initiation is not given to all, and one desirous of initiation needs to show his devotion to teacher, deities, or scrip tures. This devotion is, in turn, seen as an indication of the descent of grace (śaktipāta), and śaktipāta is perceived as a definite sign that one is suitable for initiation. The conditions under which the teacher is expected to grant initiation to a dying person are described by Abhinavagupta in the TĀ 19: 4-6: When in a dying person, the fall of even weak power is awakened-whether he is taken by devotion to a teacher and others; whether the fall of grace is through work of friends, relatives, etc., whether he has been indeed regular (samayin) but has not obtained the supreme initiation; whether, already having obtained it, he desires to leave as soon as possible his vital breaths, desirous of going away-the teacher should provide for him the initiation of immediate depar ture, free from impurities. However, the teacher must be careful not to give initiation to a person whose impurities (malas) haven't reach maturation, or to one whose karma hasn't been exhausted (seṣakarmikavigrahe). The commentator explains this compound to mean: one who is not about to die, that is, one whose prārabdhakarma hasn't been fully exhausted. 
 
 [^209]:
 
-    Marma is the place where the feeling of the connectedness with 
-
-the body remains present. 
+    Marma is the place where the feeling of the connectedness with the body remains present. 
 
 256 NOTES 
 
@@ -1561,9 +1547,7 @@ the body remains present.
 
 [^210]:
 
-    According to the Tantrāloka, this is done by means of the nyāsa, 
-
-using the kṣurika and other mantras. 
+    According to the Tantrāloka, this is done by means of the nyāsa, using the kṣurika and other mantras. 
 
 [^211]:
 
@@ -1784,23 +1768,11 @@ gling of the heroes. (TĀ 28: 78b-82a.)
 
 [^233]:
 
-    One is supposed to perform the offering of the sacred thread (pavi 
-
-traka) to make up for any deficiency and neglect of his responsibil 
-
-NOTES 263 
-
-ity regarding the teacher, scriptures, or for any transgression of the rules (samaya), or for those who failed to celebrate a festival day 
-
-(parvadinam) or any of the occasional or indispensable observances. 
+    One is supposed to perform the offering of the sacred thread (pavitraka) to make up for any deficiency and neglect of his responsibility regarding the teacher, scriptures, or for any transgression of the rules (samaya), or for those who failed to celebrate a festival day (parvadinam) or any of the occasional or indispensable observances. 
 
 [^234]:
 
-    Abhinavagupta outlines the procedure applied when a teacher 
-
-explains the meaning of scriptures to disciples according to Chap 
-
-ter 52 of the Devyāyamala Tantra. 
+    Abhinavagupta outlines the procedure applied when a teacher explains the meaning of scriptures to disciples according to Chapter 52 of the Devyāyamala Tantra. 
 
 [^235]:
 
