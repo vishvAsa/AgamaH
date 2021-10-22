@@ -2,8 +2,6 @@
 title = "Christian mask"
 +++
 
-For classical mAya religious text popol vuh, see AgamaH pages.
-
 ## Traditionalist Catholicism
 ### Status under Christianity
 “Traditionalist Catholicism” refers to a broad set of religious beliefs, traditions, and practices that generally align with Roman Catholicism, but intermingle Indigenous polytheism and practices to form a local syncretic faith.
