@@ -363,14 +363,14 @@ The Kala defined as the extent or two fingers and a quarter (tuti) presents befo
 
 प्। ५)
 
-भेदः परः कलादीनां  
++++(व्यक्तिषु)+++ **भेदः** परः कलादीनां  
 भुवनत्वेन यः स्थितः ।  
 असृजत् तमसाव् एव  
 भोगिनां भोग-सिद्धये ॥ ३४ ॥
 
 <details><summary>English</summary>
 
-34. The same siva has created the difference of Kala eto., tattvas from the worlds (Bhuvana) for the sake of enjoyers who desire to have success in their enjoyment.
+34. The same siva has created the difference of Kala etc., tattvas from the worlds (Bhuvana) for the sake of enjoyers who desire to have success in their enjoyment.
 </details>
 
 
@@ -385,32 +385,81 @@ The Kala defined as the extent or two fingers and a quarter (tuti) presents befo
 पुमांसः **सकला** ज्ञेयास्  
 तद्-अवस्था-जिघांसुभिः ॥ ३५ ॥
 
+<details><summary>English</summary>
+
+36. Thus all the individual souls united with Tattvas beginnings from Kala upto tho end of Dhara Tattva (earth) should be known as "Sakalatman' by those who wish to avoid the state of Tattvas.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+भेद का यह विस्तार 'कला' से लेकर 'धरा' पर्यन्त माना जाता है । इसमें अवस्थित पुरुष तत्त्व 'सकल' माने जाते हैं। यह भेदवाद का ही विस्तार है। जो इसके विनाश के अभिलाषी हैं, वे इस तथ्य को पूरी तरह जानते हैं कि, भेदवाद से प्रभावित पुरुष 'सकल' ही कहे जा सकते हैं क्योंकि ये 'कला' से ही समन्वित हैं।॥ ३५॥ 
+</details>
 
 
-अवस्थात्रितयेऽप्य् अस्मिंस्  
+
++++(वस्तुभोगानुभव-गत-सृष्ट्याद्य्-)+++अवस्था-त्रितये ऽप्य् अस्मिंस्  
 तिरो-भावन-शीलया ।  
 शिव-शक्त्योभयाक्रान्ताः +++([ख्: शक्त्युभयेति ।])+++  
 प्रकुर्वन्ति विचेष्टितम् ॥ ३६ ॥
 
+<details><summary>English</summary>
+
+37. All the Souls under the influence of the sakti of Siva, the nature of which is to conceal the whole universe in it, do movements in the world, which has three States viz. Ejection (srsti) stability (Sthiti) and destruction (Samhara).
+</details>
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इस प्रकार तैजस, वैकारिक और तामस अवस्थाओं की इस तिरोधान-पूर्ण प्रक्रिया में सकलों का सारा विचेष्टित अर्थात् व्यापार शिव-शक्ति के उभयात्मक प्रभाव का ही परिणाम है ।।३६ ।।
+</details>
+
 एवं जगति सवत्र  
-रुद्राणां योग्यता-वशात् +++([ख्: कर्तृतावशादिति।])+++ ।  
+**रुद्राणां** योग्यता-वशात् +++([ख्: कर्तृतावशादिति।])+++ ।  
 अङ्गुष्ठ-मात्र-पूर्वाणां  
 शतम् अष्टादशोत्तरम् ॥ ३७ ॥
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इस प्रकार इस जगत् में सर्वत्र रुद्रों को कर्तृत्व शक्तिरूप योग्यता के अनुसार ही सारा व्यवहार-वाद घटित होता है। इन रुद्रों को संख्या पहले एक सौ अट्ठारह थो। इनको आकृति अङ्गुष्ठ मात्र की ही थी।
+</details>
+
+
+
+<details><summary>English</summary>
+
+37. The Rudras, who are thumb-sized, have one hundred and eight varieties, owing to their doership everywhere in the world.
+
+</details>
+
+
 अनुगृह्य शिवः साक्षन्  
-मन्त्रेशत्वे नियुक्तवान् ।  
+**मन्त्रेशत्वे** नियुक्तवान् ।  
 ते स्वगोचरम् आसाद्य  
 भुक्ति-मुक्ति-फलार्थिनाम् ॥ ३८ ॥
 
 ब्रह्मादीनां प्रयच्छन्ति  
 स्वबलेन समं फलम् ।  
-ऋषिभ्यस् तेऽपि ते चानु  
-मन्वन् तेभ्यो महाधिपाः ॥ ३९ ॥
+ऋषिभ्यस् तेऽपि +++(ब्रह्मादयः)+++, ते +++(ऋषयस्)+++ चानु  
+मन्वन्तेभ्यो **महाधिपाः** ॥ ३९ ॥
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इनके ऊपर भगवान् शिव ने महान् अनुग्रह किया और इन्हें मन्त्रेश के पद पर नियुक्त कर दिया। उन्होंने जो कुछ साक्षात्कार किया, उसके अनुसार फलार्थियों को फल प्रदान करना प्रारम्भ किया। इसी क्रम में ब्रह्मा आदि को भी उन्होंने अपने बल और प्रभाव से फल भोग निर्धारित किया। ब्रह्मा आदि ने ऋषियों को और ऋषियों ने मन्वन्तर प्रति-निधियों को फल की व्यवस्था की। ये सभी इस दृष्टि से 'महाधिप' श्रेणी में आते हैं ॥ ३७-३९ ॥
+</details>
+
+
+
+<details><summary>English</summary>
+
+38, 39. Being kind to Rudras (who create the whole universe and assume the form of seven measurers) siva, has openly appointed them to the rank of Mantresvara. The Mantresvaras, having found that the Brahma etc. are approaching them, give the fruit equal to their own strength, to three (Brahma etc.) who are desirous of enjoyment and salvation. The Brahma etc. who themselves are delivered, deliver seers - who again being great personalities, deliver Manvantas.
+
+</details>
+
 
 हेयोपादेय-विज्ञानं  
 कथयन्ति शिवोदितम् ।  
 ब्रह्मादि-स्तम्बपर्यन्ते  
-जातमात्रे जगत्यलम् ॥ ४० ॥
+जात-मात्रे जगत्य् अलम् ॥ ४० ॥
 
 मन्त्राणां कोट्यस्तिस्रः  
 सार्धाः शिव-नियोजिताः ।  
