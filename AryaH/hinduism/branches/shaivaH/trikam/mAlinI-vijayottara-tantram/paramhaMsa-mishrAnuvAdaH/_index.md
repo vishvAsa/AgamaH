@@ -1,5 +1,5 @@
 +++
-title = "+"
+title = "+परमहंस-मिश्रानुवादः"
 unicode_script = "devanagari"
 
 +++
