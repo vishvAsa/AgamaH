@@ -148,7 +148,7 @@ title = "01 सृष्ट्यधिकारः"
 <details><summary>English</summary>
 
 22 & 23. All these great souled mantras are bringers of all fruits. There are four kinds of Atman (Limited self) (the four kinds are Sakala, Pralayakala, vijnanakala and Mantra). (Out of these four, only two kinds are defined).  
-The vijnanakala has only one Mala named Anava, Pralayakala has Karma Mala including the Anava Mala. Thus this Atma has two Malas, viz., Anava and Karma. (The third lowest and worst form of Atma, i.e., Sakala, which contain three Malas, has not been mentioned here). Dirt is said to be neso ionom of ignorance, which is the cause or the need of the world. 
+The vijnanakala has only one Mala named Anava, Pralayakala has Karma Mala including the Anava Mala. Thus this Atma has two Malas, viz., Anava and Karma. (The third lowest and worst form of Atma, i.e., Sakala, which contain three Malas, has not been mentioned here). Dirt is said to be nescience or ignorance, which is the cause or the need of the world. 
 </details>
 
 
