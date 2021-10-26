@@ -1,5 +1,6 @@
 +++
 title = "ಸಂಕೇತಗಳ ವಿವರ"
+unicode_script = "kannada"
 
 +++
 
