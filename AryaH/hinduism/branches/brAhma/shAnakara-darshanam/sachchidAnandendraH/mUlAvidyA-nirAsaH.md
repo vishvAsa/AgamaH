@@ -25,7 +25,8 @@ MULAVIDYANIRASA OR SHANKARA HRIDAYAM: written by SRI SRISATCHIDANANDENDRASARASWA
 Shri Shri Satchidānandendra Saraswathi Swamiji Born: 05-01-1880  
 Mahasamadhi: 05-08-1975 
 
-ग्रन्थविभागानुक्रमः 
+## 0
+### ग्रन्थविभागानुक्रमः 
 
 श्रीसच्चिदानन्देन्द्रसरस्वतीस्वामिनः प्रकाशकानां विज्ञप्तिः (आंग्ली) पोषणद्रव्यप्रदातॄणां नामोल्लेख: 
 
@@ -35,7 +36,7 @@ Mahasamadhi: 05-08-1975
 
 45-46 (१-२४४) (२४५-२४८) (२४९-२५७) 
 
-Shri Satchidanandendra Saraswati Swamiji 
+### Shri Satchidanandendra Saraswati Swamiji 
 
 A life of 95 years (1880-1975) dedicated to Shankaracharya 
 
@@ -43,7 +44,7 @@ A life of 95 years (1880-1975) dedicated to Shankaracharya
 
 Initiation into bhakti by the great saint Shri Brahmachaitanya Maharaj of Gondavali, saved the Swamiji from being a mere dry, speculative, scholastic logician. His life was marked by constant association with many saintly personages. 
 
-He was greatly influenced by Shri K.A.Krishnaswamy Iyer, a true Vedantin, in his thinking and analytical discernment of the ultimate Truth, based on universal experience. Study of Shankara Bhashyas was carried out mainly under the tutelage of Shri virupaksha Shastri, the then Asthana Vidwan of the Sringeri Mutt, and Shri Kurtukoti Mahabhagavata, a saintly disciple of Shri Brahmachaitanya Maharaj. 
+He was greatly influenced by Shri K.A.Krishnaswamy Iyer, a true Vedantin, in his thinking and analytical discernment of the ultimate Truth, based on universal experience. Study of Shankara Bhashyas was carried out mainly under the tutelage of Shri virupakṣha Shastri, the then Asthana Vidwan of the Sringeri Mutt, and Shri Kurtukoti Mahabhagavata, a saintly disciple of Shri Brahmachaitanya Maharaj. 
 
 Swamiji took upon himself the mountainous and apparently rebellious task of presenting the school of Gaudapada, Shankara and Sureshwara, the three respelendent stars of Advaita Vedanta, in its original pure form, both in words and spirit. With a crusader's zeal, he spared no efforts to purge the doctrines foreign to and opposed to the Shankara school, which were attributed to Shankara by the later Vedantins to suit their own pet doctrines. 
 
@@ -59,53 +60,80 @@ Swamiji though rebuked by some of the neo traditionalists, earned the appreciati
 
 95). 
 
-PUBLISHERS NOTE 
+### PUBLISHERS NOTE 
 
-This is one of the three important works of Pujya Swamiji and the first of the three in chronology, the other two being Vedanta Prakriya Pratyabhijna and Mandukya Rahasya Vivriti. Swamiji gave two names to this book. The book is true to both the names. The first name Mulavidya-nirasa means refutation of root-ignorance which was conceived under wrong notion and is being defended for the last one millennium out of inability to come out of it. What this book successfully attempts to do is not merely a refutation of a wildly imagined concept and the illogical defenses of it, but also a mindset which obsessively feels its need. How the author refutes it is shown by its another name Shankara Hrudayam or “The Heart of Shankara". Swamiji is not a system - builder just as Shri Shankara was not. Acharya refers to universal experience to show how ignorance is only an instinctive misunderstanding and goes to disprove it by appealing to universal intuition and reasons based upon it. Swamiji's strength lies in following rigorously the Acharya's foot steps in order to restore his heart. 
+This is one of the three important works of Pujya Swamiji and the first of the three in chronology, the other two being Vedanta Prakriya Pratyabhijna and Mandukya Rahasya Vivriti. Swamiji gave two names to this book. The book is true to both the names. The first name Mulāvidyā-nirāsa means refutation of root-ignorance which was conceived under wrong notion and is being defended for the last one millennium out of inability to come out of it. What this book successfully attempts to do is not merely a refutation of a wildly imagined concept and the illogical defenses of it, but also a mindset which obsessively feels its need. How the author refutes it is shown by its another name Shankara Hrudayam or “The Heart of Shankara". Swamiji is not a system - builder just as Shri Shankara was not. Acharya refers to universal experience to show how ignorance is only an instinctive misunderstanding and goes to disprove it by appealing to universal intuition and reasons based upon it. Swamiji's strength lies in following rigorously the Acharya's foot steps in order to restore his heart. 
 
-Circumstances that gave rise to the book 
+#### Circumstances that gave rise to the book 
 
 In this connection we feel appropriate to extract some passages from Swamiji's Auto-Biography in Kannada (Pages 309-312;321-22 ; 379-380; 384) and put them in English. 
 
-"Shri Krishna Swamy lyer used to take me for a daily evening walk, discuss with me many Vedantic points and acquaint me with those interested in Vedanta. Thus he was responsible in many ways for building and shaping my Vedantic orientation. After reading my translation of one of his English essays on Vedanta into lucid and effective Sanskrit, one day he suggested me to write a book with a title, Mulavidya-Kuthara, (Chopping down the root - ignorance). I asked what was Mulavidya, since I did not know it until then. Telling briefly about it, he said, “Present day Vedantin's hold that there is a Mula avidya, causal ignorance which constitutes the material cause of adhyasa (super-imposition) and the same continues in the form of seed in deep sleep and dissolution (of the world) and a trace of it remains in the Jnanis, the enlightened ones. This theory being totally opposite to Shankara's siddhanta (teaching) and reason, it is verySubsequently, I started to find it in many more places in other sub commentaries too. 
+Shri Krishna Swamy Iyer used to take me for a daily evening walk, discuss with me many Vedantic points and acquaint me with those interested in Vedanta. Thus he was responsible in many ways for building and shaping my Vedantic orientation. After reading my translation of one of his English essays on Vedanta into lucid and effective Sanskrit, one day he suggested me to write a book with a title, Mulāvidyā-Kuthara, (Chopping down the root - ignorance). I asked what was Mulāvidyā, since I did not know it until then. Telling briefly about it, he said, 
+
+> “Present day Vedantin's hold that there is a Mula avidya, causal ignorance which constitutes the material cause of adhyasa (super-imposition) and the same continues in the form of seed in deep sleep and dissolution (of the world) and a trace of it remains in the Jnanis, the enlightened ones. This theory being totally opposite to Shankara's siddhanta (teaching) and reason, it is very much necessary to write a book called Mulāvidyā-Kuthara in order to refute it". 
+
+Then I asked, "Who says so ?" Iyer replied, 
+
+> "So is written in all the sub-commentaries on Vedanta. The Vedantins of these days and scholars belonging to Shankara Mathas too say so". 
+
+I was greatly surprised at this, for, when Shri Virūpākṣha Shastri was teaching us Bhashyas, he did strictly in keeping with the Bhashyas and there was no reference to Mulāvidyā howsoever remote. Since, I was not the one who looks for sub-commentary even without the need, I never came to know that it occurred in Rathnaprabha, a sub-commentary on Sutra Bhashya. Hence, I told him explicitly, “Shri Shastri never taught this to us".
+
+Thinking that it is necessary in the first place, to convince me of this, one day he took me to Shri Shastri's house and broached the topic as follows : 
+
+Iyer - What is the proof of Advaita ?  
+Shastri - The experience of a Jivanmukta is the only proof.  
+I - Does a Jivanmukta see duality ?  
+S - Although he sees the duality continuing after its sublation, it does not affect him since it lasts only so long as his prarabdha lasts.  
+I - Why should even prarabdha remain, for that matter?  
+S - Owing to a trace of avidya remaining in him.+++(4)+++  
+I - When will be the attainment of absolute Advaita ?  
+S - After the death of the body.
+
+Thus having found evidences from Shri Shastri to almost all of Iyer's statements and contentions, we returned home. I was greatly astonished. Though, I never came across this avidya anywhere during my study of the Upanishad Bhashyas for so long, I became curious to investigate into Why does Shri Shastry say so ? and what is the basis for his views ? Thereafter, Shri Iyer had shown me this in the Ratnaprabha (sub-commentary) portion on Adhyasa Bhashya.+++(5)+++
+
+Subsequently, I started to find it in many more places in other sub commentaries too. 
 
 Therefore, I started to read intently Brahadaranyaka Bhashya along with the gloss of Anandagiri on it, which I already had with me. I read it repeatedly many times, particularly the fourth chapter, third Brahmana where it is said that there is no avidya in deep sleep, the sentences read as follows: 
 
-1) on the Bhashya "अपहतपाप्माऽभयं रूपम्" (4-3-18) the gloss reads like this तत्र अभयमिति अविद्याराहित्यमुच्यते । सा च सुषुप्ते स्वरूपेण सत्यपि नाभिव्यक्ता भाति इति द्रष्टव्यम् | Here, the word "abhayam" means free from ignorance. Since avidya exists in deep sleep, we should take this Bhashya only to mean that it does not appear manifestly. 
+1) on the Bhashya "अपहतपाप्माऽभयं रूपम्" (4-3-18) the gloss reads like this:
 
-2) तत्र च अविद्यायाः यदा प्रविविक्तो भवति । (There when he becomes separated from avidya). On this Bhashya the gloss says (4-3-21)प्रविविक्तत्वं कार्यकारणाविद्या विरहितत्त्वम् | Being separate = being without both - causal and effected avidyas. 
+> तत्र अभयमिति अविद्याराहित्यमुच्यते । सा च सुषुप्ते स्वरूपेण सत्यपि नाभिव्यक्ता भाति इति द्रष्टव्यम् |  
+> Here, the word "abhayam" means free from ignorance.  
+> Since avidya exists in deep sleep, we should take this Bhashya only to mean that it does not appear manifestly. 
 
-3) अन्यत्व - प्रत्युपस्थापकहेतोः अविद्यायाः अभावात् । (4-3-21) (for, there is no avidya which presents something other). On this the gloss says - यद्यपि सुषुप्ते अविद्या विद्यते, तथापि सा अनभिव्यक्ता अस्तीति अनर्थपरिहारोपपत्तिः इत्यर्थः | Although avidya exists in deep sleep (tentative) freedom from sorrow is possible, only because it is not manifest there (and not because avidya does not exist). ___4) अविद्या काम कर्म विनिर्मुक्तमेव तद्रूपम्, यत् सुषुप्ते आत्मनो गृह्यते प्रत्यक्षतः इति । (4-3-22) (The nature of the self which is free from avidya, desire and action - is directly intuited in deep sleep). On this the gloss says, प्रत्यक्षतः स्वरूपचैतन्यवशात् यथोक्तात्मरूपस्य सुषुप्ते गृह्यमाणत्वाम् उत्थितस्य परामर्शाद् अवधेयम् The phrase directly intuited only means that from the memory of the waker we should 
+2) तत्र च अविद्यायाः यदा प्रविविक्तो भवति । (There when he becomes separated from avidya). On this Bhashya the gloss says (4-3-21)
 
-10 
+> प्रविविक्तत्वं कार्यकारणाविद्या विरहितत्त्वम् |  
+> Being separate = being without both - causal and effected avidyas. 
 
-conclude that the self of above stated nature was experienced in deep sleep. 
+3) अन्यत्व - प्रत्युपस्थापक-हेतोः अविद्यायाः अभावात् । (4-3-21) (for, there is no avidya which presents something other). On this the gloss says - 
 
-Thus I found how the glossator distorted the meaning of all the sentences of Bhashya which are so plain. Right then, I underlined all of them with a green pencil. The very next day I told Shri lyer with enthusiasm there are open statements in the Bhashya denying that there is any avidya in deep sleep. By then it became clear that what is referred in the context of Brahadaranyaka Bhashya is not Mulavidya and in fact there is no Mulavidya at all anywhere in the entire Bhashya. 
+> यद्यपि सुषुप्ते अविद्या विद्यते, तथापि सा अनभिव्यक्ता अस्तीति अनर्थ-परिहारोपपत्तिः इत्यर्थः |  
+> Although avidya exists in deep sleep (tentative) freedom from sorrow is possible, only because it is not manifest there (and not because avidya does not exist). ___
 
-Rightly at that time, we got Panchapadika Vivaranam and Advaita Siddhi along with its commentaries from Shri Venkatesha Shastri. As we were going through Panchapadika and Vivaranam, it was getting clear that totally a new prakriya was showing up which was different from that of Bhashya. I would note down the new points from it and discuss them in the same evening. As I went on like this, I developed a mental picture and also noted the points to be included in the book. I also copied several points, now and then, from the English foot notes of Shri lyer. I would discuss all these ideas with both Shri Vithal Sastry and Shri Venkatesha Sastri. Out of them Vithal Sastri was the first one to come to our side. As for Venkatesha Sastri, he was getting annoyed in the beginning thinking we are disrespecting the traditionalists. But as we proceeded further, he too started to accept it. With all this happening, foundation was ready for Mulavidya nirasa. 
+4) अविद्या-काम-कर्म-विनिर्मुक्तमेव तद्रूपम्, यत् सुषुप्ते आत्मनो गृह्यते प्रत्यक्षतः इति । (4-3-22) (The nature of the self which is free from avidya, desire and action - is directly intuited in deep sleep). On this the gloss says, 
 
-There was one Shri Ramasesha Sastri who was a younger brother of Shri lyer's Guru. I found a book called “Guru Jnana Vasistha" with him. It condemns not only certain doctrines of Advaita but also attempts in many places to refute particularly a doctrine that there is no avidya in deep sleep. After reading this, I felt sure that the subsequent sub commentaries have stubbornly pursued the doctrine of avidya in deep sleep not only to be in consonance with Vivarana and other sub commentaries but also out of fear and vengeance for works like Guru Jnana Vasistha. I noted down this point from the book as the material for Mulavidya nirasa. 
+> प्रत्यक्षतः स्वरूप-चैतन्य-वशात् यथोक्तात्म-रूपस्य सुषुप्ते गृह्यमाणत्वम् उत्थितस्य परामर्शाद् अवधेयम् The phrase directly intuited only means that from the memory of the waker we should conclude that the self of above stated nature was experienced in deep sleep. 
 
-One Shri Shiva Ramayya lent me three volumes of Brahadaranyaka Vartika from the Sanskrit College library, strictly for three days only, as he had no permission to do so. I used every minute of all the three 
+Thus I found how the glossator distorted the meaning of all the sentences of Bhashya which are so plain. Right then, I underlined all of them with a green pencil. The very next day I told Shri Iyer with enthusiasm there are open statements in the Bhashya denying that there is any avidya in deep sleep. By then it became clear that what is referred in the context of Brahadaranyaka Bhashya is not Mulāvidyā and in fact there is no Mulāvidyā at all anywhere in the entire Bhashya. 
 
-days to study and note all the important versés. On the last day, I read all the day and night to be able to complete it before the dead line. 
+Rightly at that time, we got Panchapadika Vivaranam and Advaita Siddhi along with its commentaries from Shri Venkatesha Shastri. As we were going through Panchapadika and Vivaranam, it was getting clear that totally a new prakriya was showing up which was different from that of Bhashya. I would note down the new points from it and discuss them in the same evening. As I went on like this, I developed a mental picture and also noted the points to be included in the book. I also copied several points, now and then, from the English footnotes of Shri Iyer. I would discuss all these ideas with both Shri Vithal Sastry and Shri Venkatesha Sastri. Out of them Vithal Sastri was the first one to come to our side. As for Venkatesha Sastri, he was getting annoyed in the beginning thinking we are disrespecting the traditionalists. But as we proceeded further, he too started to accept it.+++(4)+++ With all this happening, foundation was ready for Mulāvidyā-nirāsa. 
 
-I got Tattva-Pradipika of Chitsukhacharya, which I read thoroughly and noted the arguments. There, in Bengaluru I used to go to Sankara Matha to listen to some portion of Bhamati which Shri Virupaksha Sastri was expounding to some students. Again, at some later time, he taught me Panchapadika Vivaranam along with some other students. 
+There was one Shri Ramasesha Sastri who was a younger brother of Shri Iyer's Guru. I found a book called “Guru Jnana Vasiṣṭha" with him. It condemns not only certain doctrines of Advaita but also attempts in many places to refute particularly a doctrine that there is no avidya in deep sleep. After reading this, I felt sure that the subsequent sub commentaries have stubbornly pursued the doctrine of avidya in deep sleep not only to be in consonance with Vivarana and other sub commentaries but also out of fear and vengeance for works like Guru Jnana Vasistha. I noted down this point from the book as the material for Mulāvidyā nirāsa. 
+
+One Shri Shiva Ramayya lent me three volumes of Brahadaranyaka Vartika from the Sanskrit College library, strictly for three days only, as he had no permission to do so. I used every minute of all the three days to study and note all the important verses. On the last day, I read all the day and night to be able to complete it before the dead line. 
+
+I got Tattva-Pradipika of Chitsukhacharya, which I read thoroughly and noted the arguments. There, in Bengaluru I used to go to Sankara Matha to listen to some portion of Bhamati which Shri Virūpākṣha Sastri was expounding to some students. Again, at some later time, he taught me Panchapadika Vivaranam along with some other students. 
 
 Though the book was written with all enthusiasm, we had to face a severe disappointment when we started to take interest in getting it printed. Shri Vitthal Sastri introduced me to a lawyer in Chikmagaluru who had a liking for Vedanta. When I approached him, he said, "How dare you write this book ? Where is the need of this book when Vidyaranya and other such stalwarts already wrote books?” Then I requested him politely, 'Please go through the book and then give me whatever is your opinion.' Turning his deaf ear to my request and remaining adamant, he continued, "I see no need at all of this book". Then I started to wonder how people would welcome its publication and how the scholars would respond to it after it is published. 
 
-Even as this book was under preparation, the news reached Shri Virupaksha Sastri who thought I was writing something against tradition. One day he called me after the class and even as I stood in front of the Matham, he said in a warning tone, “You must not write anything that betrays Sankara”. I said politely in reply, "I am only answering those who wrote against Sankara". I said only this much and neither I went into the details about the subject matter nor he asked me. But on some other day during the class when Mulavidya came up in the lesson, he said "I heard people telling me that Subba Rao (i.e. myself) does not accept Mulavidya. God knows what he really said, and also what they have understood from it'. I did not wish to argue in front of so many people and therefore kept silent. I had neither impudent audacity nor the good luck to directly discuss with Shri Sastri, as I felt that was not the right occasion, but unfortunately the right occasion never came. 
+Even as this book was under preparation, the news reached Shri Virūpākṣha Sastri who thought I was writing something against tradition. One day he called me after the class and even as I stood in front of the Matham, he said in a warning tone, “You must not write anything that betrays Sankara”. I said politely in reply, "I am only answering those who wrote against Sankara".+++(5)+++ I said only this much and neither I went into the details about the subject matter nor he asked me. But on some other day during the class when Mulāvidyā came up in the lesson, he said "I heard people telling me that Subba Rao (i.e. myself) does not accept Mulāvidyā. God knows what he really said, and also what they have understood from it". I did not wish to argue in front of so many people and therefore kept silent. I had neither impudent audacity nor the good luck to directly discuss with Shri Sastri, as I felt that was not the right occasion, but unfortunately the right occasion never came. 
 
-The book was ready by now. In 1927, 1 submitted the same to the 
-
-12 
-
-committee of Devaraja Bahaddur Charity Fund - Literary Section (Mysore), seeking some financial assistance. By God's grace, I got rupees three hundred for it. But a condition was also laid that the book must be published within a specified time. But I had no single pie with me to meet the remaining expenses. I tried with education department (of Maharaja) but in vain. As the time was running out! applied for an extension of time-limit, which was rejected. One printer came forward on Shri lyer's recommendation to print it with his own expenses. He too went on postponing for some time and eventually gave up. At last, I submitted the original copy to the Maharaja of Mysore requesting him to sponsor it. To my bad luck, it had reached the hands of Shri Virupaksha Sastri for review. He disapproved it saying the subject matter is against tradition, although the style of writing and language are beautiful. There was a possibility of getting it reviewed by others. However, I requested the original copy to be returned as ! wished to publish it soon on myself. Later on, once I referred it to Dr. Radhakrishnan when he visited Bengaluru. He told that he, as the V.C. of Kolkatta University, would recommend for assistance, but that too did not materialize. 
+The book was ready by now. In 1927, I submitted the same to the committee of Devaraja Bahaddur Charity Fund - Literary Section (Mysore), seeking some financial assistance. By God's grace, I got rupees three hundred for it. But a condition was also laid that the book must be published within a specified time. But I had no single pie with me to meet the remaining expenses. I tried with education department (of Maharaja) but in vain. As the time was running out! applied for an extension of time-limit, which was rejected. One printer came forward on Shri Iyer's recommendation to print it with his own expenses. He too went on postponing for some time and eventually gave up. At last, I submitted the original copy to the Maharaja of Mysore requesting him to sponsor it. To my bad luck, it had reached the hands of Shri Virūpākṣha Sastri for review. He disapproved it saying the subject matter is against tradition, although the style of writing and language are beautiful.+++(4)+++ There was a possibility of getting it reviewed by others. However, I requested the original copy to be returned as I wished to publish it soon on myself. Later on, once I referred it to Dr. Radhakrishnan when he visited Bengaluru. He told that he, as the V.C. of Kolkatta University, would recommend for assistance, but that too did not materialize. 
 
 At last, we came to establish in 1928 Adhyatma Prakasha Printing Press of our own. Then this book came out in 1929. 
 
-Avasthaic view 
+#### Avasthaic view 
 
 In this book three states of consciousness such as waking, dream and deep sleep are taken for examination but if they are looked at from the common man's standpoint i.e. from waking alone, one is sure to misunderstand the discussion throughout the book. To be able to understand correctly one should look at them from the standpoint of Vedanta. Hence, we would like to present certain basic features of this standpoint here. 
 
@@ -113,37 +141,36 @@ In this book three states of consciousness such as waking, dream and deep sleep 
 
 2) States are known directly through universal intuition and neither through sense perception, not volition nor through yogic or mystic experience. 
 
-3) The entire waking world is pervaded by the waking state and it 
+13
 
-13 
-
-does not exist outside the state, just as the dream world is within the dream state and not outside. Just as the dream body, mind as well as dreaming subject and object are within the dream state, so too the waking body, mind and the waking subject are within the waking 
-
-state. 
+3) The entire waking world is pervaded by the waking state and it does not exist outside the state, just as the dream world is within the dream state and not outside.+++(5)+++ Just as the dream body, mind as well as dreaming subject and object are within the dream state, so too the waking body, mind and the waking subject are within the waking state. 
 
 4) The time series experienced in the waking state is different from that of dream and both are limited to their respective states only. There is no common time series as the basis for them. As for the deep sleep, there is no time related to it. Hence, it is a mistake to feel that the three states are occurring in a sequence. No one state can be accepted as preceding or succeeding the other. Therefore, no relation between them can be thought of. 
 
-A translation into English 
+#### A translation into English 
 
 This was translated into English by late A.J. Alston, which was published from Shanti Sadan, London, in 1997. He was a lover and follower of Swamiji's prakriya, since he knew Sanskrit well he also translated Vedanta Prakriya Pratyabhijna of Swamiji before this book and published from the same place under the name “The Method of Vedanta". 
 
 Though he was sincere, his translation particularly of this book is not very good. At many a places, he could not follow the construction of the sentence and badly failed to understand the purport. 
 
-Special features of this edition 
+#### Special features of this edition 
 
-Swamiji's name in his former life (Purva Ashrama) before he renounced was Yellambalase Subrahmanya Sharma, but he was also known as Y. Subba Rao. Sri K.A. Krishnaswamy lyer refers to him by this latter name in his Introduction. In this edition we substituted it for his present well-known sanyasa name on the front page. 
+Swamiji's name in his former life (Purva Ashrama) before he renounced was Yellambalase Subrahmanya Sharma, but he was also known as Y. Subba Rao. Sri K.A. Krishnaswamy Iyer refers to him by this latter name in his Introduction. In this edition we substituted it for his present well-known sanyasa name on the front page. 
 
-Meanings of some difficult words of Introduction are provided in the foot notes. This is an addition in this edition. Shri lyer was a great critical scholar of both Eastern and Western philosophy. He was also a scholar and a poet in English. Therefore, his English is both philosophical and poetic. Hence, we felt these foot notes necessary at least for some people. 
+Meanings of some difficult words of Introduction are provided in the foot notes. This is an addition in this edition. Shri Iyer was a great critical scholar of both Eastern and Western philosophy. He was also a scholar and a poet in English. Therefore, his English is both philosophical and poetic. Hence, we felt these footnotes necessary at least for some people. 
 
 Swamiji knew Shri K.A. Krishna Iyer from his college days, when the latter helped him in many ways. In fact, Swamiji wanted to write his biography but unfortunately he could not make it. But he composed some verses in praise of him in Sanskrit and one of which was printed on the back cover of the first edition. We reproduce below the verse followed by his comment from his autobiography. 
 
-श्रुतिशिरसि निगूढं शुद्धमद्वैततत्त्वं कुमतिभिरनवाप्यं ह्येतदर्थं निबद्धम् । व्यतनुत कृपया यः प्रेरयित्वा धियो मे तमखिल - हृदयज्ञं कृष्णसंज्ञं नतोऽस्मि ॥ 
+> श्रुतिशिरसि निगूढं शुद्धमद्वैततत्त्वं  
+> कुमतिभिर् अनवाप्यं ह्य् एतदर्थं निबद्धम् ।  
+> व्यतनुत कृपया यः प्रेरयित्वा धियो मे  
+> तम् अखिल-हृदयज्ञं कृष्णसंज्ञं नतोऽस्मि ॥ 
+>
+> "I salute the one known as Krishna (Krishnaswamy Iyer) who knowing the heart of every one, kindly inspired my mind to enable me to compose this book, because the pure truth of Advaita found in the Vedanta is not easily comprehensible to the people of average intelligence." 
 
-"I salute the one known as Krishna (Krishnaswamy Iyer) who knowing the heart of every one, kindly inspired my mind to enable me to compose this book, because the pure truth of Advaita found in the Vedanta is not easily comprehensible to the people of average intelligence." 
+The idea of this verse is that it is the Lord Shri Krishna alone who, through Krishnaswamy Iyer, motivated me to write this book. And it is a fact that it is only due to his inspiration and encouragement throughout that the book has seen the light of the day. He had such a great enthusiasm for this book that he, who would definitely go to sleep every night by 9.00, had kept himself awake until 12 p.m. only to discuss and praise the book. 
 
-The idea of this verse is that it is the Lord Shri Krishna alone who, through Krishnaswamy lyer, motivated me to write this book. And it is a fact that it is only due to his inspiration and encouragement throughout that the book has seen the light of the day. He had such a great enthusiasm for this book that he, who would definitely go to sleep every night by 9.00, had kept himself awake until 12 p.m. only to discuss and praise the book. 
-
-Editing : 
+#### Editing 
 
 1) We corrected the printing mistakes stated in the errata of the first edition and many others too. The sources of all the quotations in the body of the text as well as the foot notes have been traced and stated there itself in the brackets. 
 
@@ -157,37 +184,26 @@ Main headings were numbered in the contents but not in the body, whereas sub-hea
 
 We intended to discuss or add the following topics also. 
 
-1) A brief summary of the whole text. 
+1) A brief summary of the whole text.
+2) Two appendices-(a) Cross references where Swamiji expressly mentioned (b) Tracing the sources of all the views and arguments of opponents
+3) Notes on difficult words (in the appendix). 
+4) Swamiji's plan of II volume. Pujya Swamiji planned the following topics for the second volume and got it printed in Sanskrit on the back flap of the first edition. 
 
-2) Two appendices-(a) Cross references where Swamiji expressly mentioned (b) Tracing the sources of all the views and arguments of opponents: 
-
-3) Notes on difficult words (in the appendix). 4) Swamiji's plan of Il volume. 
-
-Pujya Swamiji planned the following topics for the second volume and got it printed in Sanskrit on the back flap of the first edition. 
-
-a) The traditional method of Vedanta. 
-
-b) Refuting the objection that this book deviates into alien philosophy. 
-
-c) Replies to objections and doubts raised against the contents of first volume. 
-
-d) A critique of Eastern and Western schools of philosophy and establishing that the Vedanta is the best of all, on account of its invincible logic and harmony with universal experience. 
-
-e) A glossary of important words. 
+- a) The traditional method of Vedanta. 
+- b) Refuting the objection that this book deviates into alien philosophy. 
+- c) Replies to objections and doubts raised against the contents of first volume. 
+- d) A critique of Eastern and Western schools of philosophy and establishing that the Vedanta is the best of all, on account of its invincible logic and harmony with universal experience. 
+- e) A glossary of important words. 
 
 5) Certain clarifications and replies 
 
-a) Accusation that Swamiji has no tradition and its reply. 
-
-b) Influence of Westerners particularly of Kant. 
-
-c) Accusation of solipsism or Eka-jiva vada against Swamiji. 
+- a) Accusation that Swamiji has no tradition and its reply. 
+- b) Influence of Westerners particularly of Kant. 
+- c) Accusation of solipsism or Eka-jiva vada against Swamiji. 
 
 6) Complete translation of the text into English. 
 
-As for the 2 (b) above, we are providing only a ten of them in the appendix 1. These are enough to show how Swamiji is honest and without any prejudice in citing the opponent's views and arguments correctly without any distortion before he goes to refute them. 
-
-The material on the above topics is incomplete and underway and will be published shortly as a supplement. 
+As for the 2 (b) above, we are providing only ten of them in the appendix 1. These are enough to show how Swamiji is honest and without any prejudice in citing the opponent's views and arguments correctly without any distortion before he goes to refute them. The material on the above topics is incomplete and underway and will be published shortly as a supplement. 
 
 For the benefit of the readers the lists of English & Sanskrit books published by the Karyalaya is included in the Appendix II. 
 
@@ -197,43 +213,16 @@ The Karyalaya expresses its profound gratitude to all the Saints, Scholars and o
 
 We hereby express our gratitude to all donors (see next page....) who have magnanimously contributed towards this reprint edition. We solicit the opinion of discerning readers on this book & on all the activities of the Karyalaya. We conclude this note remembering the lotus feet of Swamiji who rendered a yeomen service in the field of Vedanta & laid a firm foundation in the form of Adhyatma Prakasha Karyalaya for its propagation. 
 
-Publishers 
-
-Date : 25.5.2009 Jyeshta Suddha Prathama Virodhi Samvattsara 
-
-अस्य ग्रन्थस्य मुद्रापणे धनसहायकर्तृणां शुभनामधेयानि १) अन्तरङ्ग भक्तः 
-
-१४,०८८-०० २) श्री श्री स्वरूपानन्देन्द्र सरस्वती स्वामिनः, 
-
-विशाखपट्टणं शारदापीठः 
-
-१,१००-०० ३) डा. हेमलता, बेङ्गळूरु - 
-
-२,५०१-०० ४) श्री स्वामी निजानन्दभारती, 
-
-२,३००-०० ५) श्री एं. वि. रामचन्द्रः, बेङ्गळूरु - २,०००-०० ६) श्री ए. वि. श्रीधरः, मैसूरु - 
-
-२,०००-०० ७) श्री जे.टि. सोमशेखरः, मैसूरु - 
-
-१,०००-०० ८) श्री वेङ्कटरमणः कारन्तरः, बेङ्गळूरु - १,०००-०० ९) श्रीमती सत्यवती राजनाथः, बेङ्गळूरु - १,०००-०० १०) श्री के. सि. सुब्रह्मण्यः, बेङ्गळुरु - ५०१-०० ११) श्री स्वर्णा, बेङ्गळूरु - 
-
-५००-०० १२) श्री एस्. वेङ्कटसुब्रह्मण्यः, मुंबयि - ५००-०० १३) श्री टि. बि. लक्ष्मणराव् - 
-
-५००-०० १४) श्री एन्. प्रदीपः, होळेनरसीपुर - 
-
-५००-०० १५) श्री एस्. शरत्, मैसूरु - 
-
-२००-०० १६) श्री एच्. एन्. रङ्गस्वामी, बेङ्गळूरु - २००-०० 
-
-१७) श्रीमती टि. के. रुक्मिणियम्मा, बेङ्गळूरु २००-०० महदुपकर्तृणां एतेषां सर्वेषां श्री श्री सच्चिदानन्देन्द्र सरस्वतीमहास्वामिनः समस्तविधश्रेयोऽभिवृद्धिं कुर्वन्त्विति सप्रश्रयं श्री सद्गुरुचरणयुगले भक्तिपूर्वकं प्रणम्य संप्रार्थयामः । 
+Publishers  
+Jyeshta Suddha Prathama Virodhi Samvattsara   
 
 ### INTRODUCTION 
 
-Mr. Subba Rau has written a valuable work. His Mulavidya Nirasa represents, as its other name implies, the Vedantic Truth as taught by Yajnavalkya, Goudapada, Sankara and Suresvara. Later Vedantins came too much under the power of Reason divorced from Intuition, Intellect severed from Life; and hence in their hands the Brahman of the Upanishads, the soul of the Universe, has become a dry abstraction, a concept void of human interest. It marks the decadence of the metaphysical sense, and the triumph of the dead forms of thought to which myraid-sided Life is forced to conform itself. The result is obvious. Vedanta has ceased to be a living force; and notwithstanding the lip homage paid to the System of Sankara its followers have become either pessimistic anchorites looking with unconcealed pity on the struggles of the ignorant, or selfish seekers of the goods of life, declaring that truth is beyond the reach of man, and its realization possible only after death. They argue that so long as we identify ourselves with the physical body we are not enlightened; and, as this identification is inevitable while we live, to aspire to an immediacy of knowledge, with breath in our body, is to attempt the impossible. Thus even without the insidious' efforts of adverse critics, Vedanta has long ago come to lose its vitality, and degenerate into a sanctified superstition. 
+Mr. Subba Rau has written a valuable work. His Mulāvidyā Nirasa represents, as its other name implies, the Vedantic Truth as taught by Yajnavalkya, Goudapada, Sankara and Suresvara. Later Vedantins came too much under the power of Reason divorced from Intuition, Intellect severed from Life; and hence in their hands the Brahman of the Upanishads, the soul of the Universe, has become a dry abstraction, a concept void of human interest. It marks the decadence of the metaphysical sense, and the triumph of the dead forms of thought to which myraid-sided Life is forced to conform itself. The result is obvious. Vedanta has ceased to be a living force; and notwithstanding the lip homage paid to the System of Sankara its followers have become either pessimistic anchorites looking with unconcealed pity on the struggles of the ignorant, or selfish seekers of the goods of life, declaring that truth is beyond the reach of man, and its realization possible only after death. They argue that so long as we identify ourselves with the physical body we are not enlightened; and, as this identification is inevitable while we live, to aspire to an immediacy of knowledge, with breath in our body, is to attempt the impossible. Thus even without the insidious' efforts of adverse critics, Vedanta has long ago come to lose its vitality, and degenerate into a sanctified superstition. 
 
-Mr. Subba Rau has set before himself the task of pointing 
+1. many-sided. 2. recluses. 3. not clearly perceptible but harmful
 
-1. many-sided. 2. recluses. 3. not clearly perceptible but harmfulout the radical errors that have crept into later Vedanta, defacing, disfiguring and very nearly killing out its central Truth. If by his noble endeavour that Truth can be made to emerge from the obscuraton' that it has so long suffered, he will have laid every lover of Vedanta under a deep debt of gratitude. To an individual or a nation, nothing is more precious than, spiritual truths - truths in which Vedantic Literature is especially rich. 
+Mr. Subba Rau has set before himself the task of pointing out the radical errors that have crept into later Vedanta, defacing, disfiguring and very nearly killing out its central Truth. If by his noble endeavour that Truth can be made to emerge from the obscuraton' that it has so long suffered, he will have laid every lover of Vedanta under a deep debt of gratitude. To an individual or a nation, nothing is more precious than, spiritual truths - truths in which Vedantic Literature is especially rich. 
 
 As this work, to be properly understood presupposes the reader's acquaintance with the later form of Vedanta as expounded at present, I will summarize the main doctrines of the latter and show how they fail to establish the Truth, but turn Vedanta into a mere handmaid of mysticism. 
 
@@ -243,83 +232,74 @@ to Release. A great deal of importance is attached to Samadhi, or trance, and on
 
 The problem of the world, however, has tasked all their energies. If, as they piously believe, Reality is one, whence is this multiplicity and difference of Perceptual Experience? It must be real, and must be traced to a real source. A difficulty soon presents itself: If Brahman be the cause, then the cause and the effect must belong to the same Degree of Reality. The scriptures on the contrary insist on the one only being real. The world must therefore be traced to some other Principle which by the side of Brahman must part with its reality, but in relation to the world be as real as the world. In this perplexity, the Post Sankaras transformed Maya into the Prakriti or the Primordial matter of the Sankhyas, and made it an eternal. This certainly rendered the world more intelligible, but at the same time cast an impenetrable veil over Brahman which has lapsed into a holy fetish, unconnected and unconnectible with Life. The grand structure raised by Goudapada and Sankara on the solid foundations laid by the Vedic seers has in the hands of the pandits vanished like a summer dream, like Alladin's Palace by the magic of the African sorcerer'. 
 
-But their difficulties have only increased. The Avidya of the ancients has somehow to be identified with this 
-
 1. where from. 2. an object of obsessive reverence. 3. magician. 
 
-Prakriti, and Vidya or enlightenment must dissolve it. How is this miracle to be accomplished? Nothing daunted', they proceeded with their bold speculation, and declared that the unconsciousness of the world which we experience in dreamless-sleep is due to the persistence of Prakriti or the world-principle. It is Maya, Mulavidya, or radical nescience. Mere Avidya, or Ignorance, they argue, cannot explain the positive appearance of the world with its Time, Space, and Causation. It is too negative being a mere non existence and therefore uncreative. On the other hand this root-Ignorance is a positive substance, adequate for purposes of an evolutionary process and is experienced by all in dreamless-sleep in the form of total Ignorance, Ignorance of the world and of Brahman. The waking world is a transformation, an organic growth, like a tree from the seed of the Positive Ignorance persisting in sleep. Being a positive principle it gives rise to the positive world; but again, being of the nature of ignorance, of darkness, it disappears with the light of knowledge. Sankara, they admit, did not put it so explicitly but his sytem would crumble to atoms wihout this doctrine. The Post-Sankaras thus claim the credit of having made the system of non-duality complete and invulnerable. 
+But their difficulties have only increased. The Avidya of the ancients has somehow to be identified with this Prakriti, and Vidya or enlightenment must dissolve it. How is this miracle to be accomplished? Nothing daunted', they proceeded with their bold speculation, and declared that the unconsciousness of the world which we experience in dreamless-sleep is due to the persistence of Prakriti or the world-principle. It is Maya, Mulāvidyā, or radical nescience. Mere Avidya, or Ignorance, they argue, cannot explain the positive appearance of the world with its Time, Space, and Causation. It is too negative being a mere non existence and therefore uncreative. On the other hand this root-Ignorance is a positive substance, adequate for purposes of an evolutionary process and is experienced by all in dreamless-sleep in the form of total Ignorance, Ignorance of the world and of Brahman. The waking world is a transformation, an organic growth, like a tree from the seed of the Positive Ignorance persisting in sleep. Being a positive principle it gives rise to the positive world; but again, being of the nature of ignorance, of darkness, it disappears with the light of knowledge. Sankara, they admit, did not put it so explicitly but his sytem would crumble to atoms wihout this doctrine. The Post-Sankaras thus claim the credit of having made the system of non-duality complete and invulnerable. 
 
-The reader might fear that in making these attempts to provide the world with a rational explanation, the Post Sankaras have lost sight of Brahman altogether. But he mistakes. For the Root-Ignorance is, according to them, not distinct from Brahman, though not identical with it at the same time. Brahman does not, it is true, admit of a second entity separate from itself, and is an unqualified 1. discouraged by nothing. 
+The reader might fear that in making these attempts to provide the world with a rational explanation, the Post Sankaras have lost sight of Brahman altogether. But he mistakes. For the Root-Ignorance is, according to them, not distinct from Brahman, though not identical with it at the same time. Brahman does not, it is true, admit of a second entity separate from itself, and is an unqualified one. Yet somehow it must find room in itself for Maya, which is inscrutable' and indefinable. Here all enquiry and explanation must cease. The source of Maya cannot be traced further. 
 
-one. Yet somehow it must find room in itself for Maya, which is inscrutable' and indefinable. Here all enquiry and explanation must cease. The source of Maya cannot be traced further. 
+1. discouraged by nothing.
 
-The system of Sankhya from which so much has been freely borrowed by the later Sankaras, is perhaps the most rational speculative product of ancient India. It is plain unsophisticated Dualism. It posits spirit and matter as two independent realities. By Aviveka, or beginningless Ignorance, the spirit identifies himself with the physical body which is an evolved product of Nature or primordial matter; and, though essentially pure and blissful, he becomes thereby subject to suffering. Nature exists to help him to regain a knowledge of himself through enjoyment or suffering and finally obtain release from the wheel of Samsara. The system recognises the irremovable distinction between the two primary elements of life, and steers clear of the ontological difficulty of Absolute Monism. Vedanta, however, cannot accept this view. If there be an entity second to the self, and the self suffer from its attachment to the non-self, the existence of the latter is a standing menace to the peace of the self. To say that Nature is always mindful of the interests of the soul is a pious fiction, and a solace derived from it is childish. Besides, as a Kantian* might urge, two entities must be related to each other by Time, Space or Causation, and to aver that Nature's changes are unregulated by Time or Causation is untrue, and unthinkable. The mind that thirsts for final 
+The system of Sankhya from which so much has been freely borrowed by the later Sankaras, is perhaps the most rational speculative product of ancient India. It is plain unsophisticated Dualism. It posits spirit and matter as two independent realities. By Aviveka, or beginningless Ignorance, the spirit identifies himself with the physical body which is an evolved product of Nature or primordial matter; and, though essentially pure and blissful, he becomes thereby subject to suffering. Nature exists to help him to regain a knowledge of himself through enjoyment or suffering and finally obtain release from the wheel of Samsara. The system recognises the irremovable distinction between the two primary elements of life, and steers clear of the ontological difficulty of Absolute Monism. Vedanta, however, cannot accept this view. If there be an entity second to the self, and the self suffer from its attachment to the non-self, the existence of the latter is a standing menace to the peace of the self. To say that Nature is always mindful of the interests of the soul is a pious fiction, and a solace derived from it is childish. Besides, as a Kantian* might urge, two entities must be related to each other by Time, Space or Causation, and to aver that Nature's changes are unregulated by Time or Causation is untrue, and unthinkable. 
 
 1. mysterious. 2. steer clear of = avoid. 3. ontological difficulty= a difficulty to explain the apparent multiplicity of existence. 4. follower of Kant, a western philosopher. 5. assert. 
 
 23 
 
-solution of the mystery of the dualities of Life cannot rest in two ultimates. Also, speculation can never end. As science advances, and as more and more of the external world comes under the dominion of the Intellect, human views must undergo modification; and since the aim of science is the unification of knowledge, Dualism can only be a half way house on its journey to Truth. Sankara's perspicacity' realized the excellnce of the Vedantic Method of discovering Truth. Yajnavalkya and Goudapada sought it in the principle, our Self, that persisted in the three states transcending the dualistic experiences of every single state. Sankara followed in their footsteps and declared that every other view was but a will o' the wisp', an intellectual quagmire®, in which those that were caught could never extricate themselves. At the end of his examination of the Sankhya and Yoga school he delivered a note of warning to the reader that however ethically perfect they might profess to be, they were not, as unvarnished* dualisms, calculated to put him in possession of the only Truth that can lead to bliss, namely, Absolute Monism. 
+The mind that thirsts for final solution of the mystery of the dualities of Life cannot rest in two ultimates. Also, speculation can never end. As science advances, and as more and more of the external world comes under the dominion of the Intellect, human views must undergo modification; and since the aim of science is the unification of knowledge, Dualism can only be a half way house on its journey to Truth. Sankara's perspicacity' realized the excellnce of the Vedantic Method of discovering Truth. Yajnavalkya and Goudapada sought it in the principle, our Self, that persisted in the three states transcending the dualistic experiences of every single state. Sankara followed in their footsteps and declared that every other view was but a will o' the wisp', an intellectual quagmire®, in which those that were caught could never extricate themselves. At the end of his examination of the Sankhya and Yoga school he delivered a note of warning to the reader that however ethically perfect they might profess to be, they were not, as unvarnished* dualisms, calculated to put him in possession of the only Truth that can lead to bliss, namely, Absolute Monism. 
 
-But the assuity of the Post-Sankara's is incorrigible' incurable, indefatigable'. They dread neither disloyalty to Sankara, nor disaster to Truth. Such is their restless zeal that they hunt up every passage in which he refers to Avidya, though in his own sense of mistake of identity, and hasten to add a comment thereon that it is only the effected, not the causal Avidya that Sankara means there. Yet, one might 
 
 1. an unusual power to see through and understand what is hidden. 2. Will o' the wisp=an elusive, delusive goal. 3. a boggy or muddy land. 4. plain and straightforward. 5. perseverence. 6. not repairable. 7. stabbornly persisting. 
 
-wonder, where ever he refers to this causal Ignorance which is the idol of the Post-Sankaras ? The fact is that Sankara in his search for Truth is never dominated by a tender consideration for the authority of scriptures, or of tradition. He proceeds like a Kant or a Spinoza, carefully analysing Life and experience, but reverently acknowledging the help he derives from the guidance of the Vedic Seers. Whoever reads his masterly introduction to his comment on the Sutras must be filled with admiration for the boldness and frankness with which he states his position, characterizing all human activities as based on an innate tendency to mistake one thing for another, and in this he makes no exception in favour of the Vedas and allows no privilege of age, caste, or learning. The subject in man is the root principle of Life and cannot be turned into an object nor the latter into the former. This is the irreversible judgement of Reason. Yet we see man identifying himself with the body, the mind, and the senses. What can this be due to but to a radical want of discrimination, to Avidya or Ignorance. The world as the manifestation of Atman is Maya, the cournterpart of Ignorance and ultimately identical with it. Now does Atman possess the Power of manifesting itself, this Maya? The answer is both yes and no. It does seem to have the Power, for when as in dreamless sleep we experience all existence absorbed in Pure consciousness the only Reality-the Kosmos can be referred to no second source and must be inferred to be only an expression of that Reality. Hence Atman has the power to manifest itself as the world. Nevertheless, Atman as Pure Consciousness, is ever beyond Time and Change, and can be allowed to have Power only anticipatively with reference to the world regarded as the effect. In itself Atman is beyond Change 
+But the assuity of the Post-Sankara's is incorrigible' incurable, indefatigable'. They dread neither disloyalty to Sankara, nor disaster to Truth. Such is their restless zeal that they hunt up every passage in which he refers to Avidya, though in his own sense of mistake of identity, and hasten to add a comment thereon that it is only the effected, not the causal Avidya that Sankara means there. Yet, one might wonder, where ever he refers to this causal Ignorance which is the idol of the Post-Sankaras ? The fact is that Sankara in his search for Truth is never dominated by a tender consideration for the authority of scriptures, or of tradition. He proceeds like a Kant or a Spinoza, carefully analysing Life and experience, but reverently acknowledging the help he derives from the guidance of the Vedic Seers. Whoever reads his masterly introduction to his comment on the Sutras must be filled with admiration for the boldness and frankness with which he states his position, characterizing all human activities as based on an innate tendency to mistake one thing for another, and in this he makes no exception in favour of the Vedas and allows no privilege of age, caste, or learning. The subject in man is the root principle of Life and cannot be turned into an object nor the latter into the former. This is the irreversible judgement of Reason. Yet we see man identifying himself with the body, the mind, and the senses. What can this be due to but to a radical want of discrimination, to Avidya or Ignorance. The world as the manifestation of Atman is Maya, the cournterpart of Ignorance and ultimately identical with it. Now does Atman possess the Power of manifesting itself, this Maya? The answer is both yes and no. It does seem to have the Power, for when as in dreamless sleep we experience all existence absorbed in Pure consciousness the only Reality-the Kosmos can be referred to no second source and must be inferred to be only an expression of that Reality. Hence Atman has the power to manifest itself as the world. Nevertheless, Atman as Pure Consciousness, is ever beyond Time and Change, and can be allowed to have Power only anticipatively with reference to the world regarded as the effect.  
 
 5. 
 
-and Causation, and to invest it with Power is to regard it as a Cause, to convert it into an empirical entity, Atman is neither a Power, nor a Cause. This conclusion drawn from a study of the Avasthas is final, and cannot be twisted to suit the predilections of the waking intellect. Sankara's procedure is strictly scientific, and he never permits his reasoning to be deflected by any extraneous consideration. In undertaking to expound the teaching of the Sutras, he starts with the Premise that they establish the Truth of Atman being the only Reality, and that they are only aphoristic collections, strung on the same principle, of the various doctrines of the Upanishads, the parental source of that Truth. He quotes no authority for his position, showing thereby that he entirely relies on facts of Life and Experience. 
+In itself Atman is beyond Change and Causation, and to invest it with Power is to regard it as a Cause, to convert it into an empirical entity, Atman is neither a Power, nor a Cause. This conclusion drawn from a study of the Avasthas is final, and cannot be twisted to suit the predilections of the waking intellect. Sankara's procedure is strictly scientific, and he never permits his reasoning to be deflected by any extraneous consideration. In undertaking to expound the teaching of the Sutras, he starts with the Premise that they establish the Truth of Atman being the only Reality, and that they are only aphoristic collections, strung on the same principle, of the various doctrines of the Upanishads, the parental source of that Truth. He quotes no authority for his position, showing thereby that he entirely relies on facts of Life and Experience. 
 
 It is thus evident that Sankara who never mentions the persistence of Nescience as a substance, even in his examination of the state of dreamless sleep, accepted the age-old Avidya as a convenient theory, borne out by life, to explain its patent contradictions - a theory serviceable so long as Knowledge has not arisen and Truth is not comprehended. The realization of Brahman being All and of its being the only Reality, rings the death-knell of Avidya, which is but an intellectual stop-gap", to spur* the soul on its upward course. 
 
-Unable to preceive the value of Avidya adopted only as a theory, the later Shankaras in their obtuseness", "boldly rush where angels fear to tread", and fancying a serious 
 
 1. a strong and innate liking. 2. open. 3. temporary substitute. 4. urge or push. 5. dull - wittedness. 
 
 26 
 
-defect in the system, piously erect a theory into a fact, and insist on seeing the Causal Ignorance, as a lump of matter, entering the mansion of the Lord - dreamless sleep - as his ever threatening rival, and placidly occupying a second throne by his side! 
+Unable to preceive the value of Avidya adopted only as a theory, the later Shankaras in their obtuseness", "boldly rush where angels fear to tread", and fancying a serious defect in the system, piously erect a theory into a fact, and insist on seeing the Causal Ignorance, as a lump of matter, entering the mansion of the Lord - dreamless sleep - as his ever threatening rival, and placidly occupying a second throne by his side! 
 
-But, a Post-Sankara might say, if in dreamless sleep a man finds himself one with Brahman, and there is no second entity, why , he obtains release whenever he sleeps. How then does it happen that still he wakes into fetters? If Maya does not persist in sleep, what leads to one's entanglement again in the wheel of Samsara so soon as he wakes? Finally, 
-
-objection betrays ignorance of the fundamentals of Vedanta. A man whether waking or sleeping never ceases to be Brahman, never can be other than what he is by nature. His bondage results from his ignorance of his true nature. Hence he need not be made Brahman, he is that already, but he must be cured of his ruinous notion that he is any other. Release occurs so soon as he realizes this Truth. He then discovers that, as Brahman, he neither wakes nor sleeps but is eternal bliss, free from the bondage of the states. As to the world the idea that it is or can be something other than Brahman is the source of all difficulties. The enlightened is troubled with no such abstraction', and his position is free from doubts of every kind. The waking world cannot desiderate a cause beyond the state in which it appears, for all causality binds together phenomena of the same state only. To sow the seed (Maya) in dreamless sleep that it might grow up into a tree - the world - in the waking state is ludicrous". No common gardener will approve of 
+But, a Post-Sankara might say, if in dreamless sleep a man finds himself one with Brahman, and there is no second entity, why , he obtains release whenever he sleeps. How then does it happen that still he wakes into fetters? If Maya does not persist in sleep, what leads to one's entanglement again in the wheel of Samsara so soon as he wakes? Finally, objection betrays ignorance of the fundamentals of Vedanta. A man whether waking or sleeping never ceases to be Brahman, never can be other than what he is by nature. His bondage results from his ignorance of his true nature. Hence he need not be made Brahman, he is that already, but he must be cured of his ruinous notion that he is any other. Release occurs so soon as he realizes this Truth. He then discovers that, as Brahman, he neither wakes nor sleeps but is eternal bliss, free from the bondage of the states. As to the world the idea that it is or can be something other than Brahman is the source of all difficulties. The enlightened is troubled with no such abstraction', and his position is free from doubts of every kind. The waking world cannot desiderate a cause beyond the state in which it appears, for all causality binds together phenomena of the same state only. To sow the seed (Maya) in dreamless sleep that it might grow up into a tree - the world - in the waking state is ludicrous".  
 
 1. it is surprising that. 2. a wrong notion. 3. require. 4. ridiculous 
 
-the suggestion. The seed and the tree must belong to the same order of things, and to the same Time-series. 
+No common gardener will approve of the suggestion. The seed and the tree must belong to the same order of things, and to the same Time-series. 
 
-But this misguided zeal in refining is, alas, suicidal. In their undeft' handling of Vedantic problems the Post Sankaras have caused Truth to evaporate, knowldge to dwindle into a pretence', and Release, a pious hope. According to their presentation, Atman and Maya alike constitute the inseparable and constant elements of each state, so that, as Life does not extend beyond the three states, Dualism is left uncontradicted. For whatever Degree of Reality is conferred on the Atman is equally claimed by Maya, and the pretentions of the latter cannot in fairness be denied or dismissed. To escape from this predicament, it is urged that there is a fourth state, Samadhi or trance, in which the claims of Atman, as a higher Reality, can be vindicated. This device is equally futile. The argument that dreamless sleep is not a state of oneness because it is followed by waking, and that this demands the persistence in dreamless sleep of a second entity, namely, Causal Ignorance to account for the subsequent projection of an external world, applies pari passu' to the state of Samadhi. For Samadhi must likewise contain the germ of a world, since it is succeeded by a world. If still it is contended that the state of Absolute Identity is experienced in the Final Samadhi from which there is no waking, we shall have no evidence left in experience to testify to it, as the only witness who has enjoyed the oneness will never return to life. Baffled in all directions, and a hopelessly pinned to a corner, the Post-Sankara advocate of Vedanta is compelled to confess that, after all, non-duality is only a matter of 1. Unskilful. 2. To be reduced to a false show. 3. equally. 
+But this misguided zeal in refining is, alas, suicidal. In their undeft' handling of Vedantic problems the Post Sankaras have caused Truth to evaporate, knowldge to dwindle into a pretence', and Release, a pious hope. According to their presentation, Atman and Maya alike constitute the inseparable and constant elements of each state, so that, as Life does not extend beyond the three states, Dualism is left uncontradicted. For whatever Degree of Reality is conferred on the Atman is equally claimed by Maya, and the pretentions of the latter cannot in fairness be denied or dismissed. To escape from this predicament, it is urged that there is a fourth state, Samadhi or trance, in which the claims of Atman, as a higher Reality, can be vindicated. This device is equally futile. The argument that dreamless sleep is not a state of oneness because it is followed by waking, and that this demands the persistence in dreamless sleep of a second entity, namely, Causal Ignorance to account for the subsequent projection of an external world, applies pari passu' to the state of Samadhi. For Samadhi must likewise contain the germ of a world, since it is succeeded by a world. If still it is contended that the state of Absolute Identity is experienced in the Final Samadhi from which there is no waking, we shall have no evidence left in experience to testify to it, as the only witness who has enjoyed the oneness will never return to life. 
 
-faith in the scriptural declaration, and that all doors to Knowledge or Truth are slammed in the face of the faithless skeptic. But Sankara deals a knock-out blow to the mere worshippers of Texts by meeting them on their own ground. "Tat twam asi" (that thou art), he urges, cannot by any means be interpreted to mean "that thou wilt become after thou art dead". Thus even the holy text for which all reason is sacrificed by the Post-Shankara cannot save him. Truth cannot be proved, knowledge cannot be acquired in life and Release must occur, on his authority, only after death, that is, after all the organs of perception and reflection have suffered dissolution. Sweet life and Reason become positive obstacles in the way of realization. Such is the fate of the later Vedic Monism which is ushered with so much clap-trap , pomp, and ceremony. 
+1. Unskilful. 2. To be reduced to a false show. 3. equally.
+
+Baffled in all directions, and a hopelessly pinned to a corner, the Post-Sankara advocate of Vedanta is compelled to confess that, after all, non-duality is only a matter of faith in the scriptural declaration, and that all doors to Knowledge or Truth are slammed in the face of the faithless skeptic. But Sankara deals a knock-out blow to the mere worshippers of Texts by meeting them on their own ground. "Tat twam asi" (that thou art), he urges, cannot by any means be interpreted to mean "that thou wilt become after thou art dead". Thus even the holy text for which all reason is sacrificed by the Post-Shankara cannot save him. Truth cannot be proved, knowledge cannot be acquired in life and Release must occur, on his authority, only after death, that is, after all the organs of perception and reflection have suffered dissolution. Sweet life and Reason become positive obstacles in the way of realization. Such is the fate of the later Vedic Monism which is ushered with so much clap-trap , pomp, and ceremony. 
 
 But in all earnestness, what are Vedic assertions? Sankara treats them as only suggestions of Truth, which must stand or fall, as we find them confirmed or condemned by Life and Experience. As he shrewdly adds, Truth must in the last resort come to be realized in our own experience, and no blind faith in the dicta' of the scriptures or the seers, can constitute it as such. The monster of a positive causal Avidya which the Post-Sankaras conceived in a fatal hour and have undergone such throes' to deliver, is a still born child. Far rather, it is a veritable canker* that eats into the vitals of Vedanta. The sooner it is killed, and its elegy is sung, the better for the well-being of True Vedanta. 
 
-"Mulavidya Nirasa" is a magnificent reassertion of the 
+1. pretentious non-sense. 2. sayings. 3. labour pains. 4. ulcer. 5. mourning poem.
 
-1. pretentious non-sense. 2. sayings. 3. labour pains. 4. ulcer. 5. mourning poem.impregnable position of Sankara and of the Vedantic truth, and I trust that it will effectively break down the idols of unreflecting belief entrenched behind walls of learned superstition, and later tradition. It has not appeared one day too soon. No other contribution made to spiritual knowledge since the time of Suresvara can compare with it, in depth or achievement. It gains in value from the circumstance that Mr. Subba Rau's acquaintance with European speculation, has enabled him to press into his service the Kantian discovery of Time, Space and Causality as the a prioriť forms of the intellect, which has greatly facilitated the explosion of the dry logic-chopping of the later Sankaras. 
+"Mulāvidyā Nirasa" is a magnificent reassertion of the impregnable position of Sankara and of the Vedantic truth, and I trust that it will effectively break down the idols of unreflecting belief entrenched behind walls of learned superstition, and later tradition. It has not appeared one day too soon. No other contribution made to spiritual knowledge since the time of Suresvara can compare with it, in depth or achievement. It gains in value from the circumstance that Mr. Subba Rau's acquaintance with European speculation, has enabled him to press into his service the Kantian discovery of Time, Space and Causality as the a prioriť forms of the intellect, which has greatly facilitated the explosion of the dry logic-chopping of the later Sankaras. 
 
-Mr. Subba Rau in his inimitable manner which combines vigour with clearness, has bravely set himself against the misinterpretations that have for centuries been in vogue; and the services he has rendered to the cause of the ancient Truth of fadeless lustre, are simply incalculable. In his indomitable fights with superstition and glittering fallacies, he neither asks nor gives quartero. He reasons where plain facts are involved, and quotes authorities where these are necessitated by the context. He gives short shrift to irrational dogmas which have hitherto ruled opinion with unquestioned sway. But alas, the life of a scholar, as of an independent thinker, is an incessant battle with antagonistic forces-with afflictions, social obligations, philistine opposition, weak health, and, what is most inexorable", 
+Mr. Subba Rau in his inimitable manner which combines vigour with clearness, has bravely set himself against the misinterpretations that have for centuries been in vogue; and the services he has rendered to the cause of the ancient Truth of fadeless lustre, are simply incalculable. In his indomitable fights with superstition and glittering fallacies, he neither asks nor gives quartero. He reasons where plain facts are involved, and quotes authorities where these are necessitated by the context. He gives short shrift to irrational dogmas which have hitherto ruled opinion with unquestioned sway. But alas, the life of a scholar, as of an independent thinker, is an incessant battle with antagonistic forces-with afflictions, social obligations, philistine opposition, weak health, and, what is most inexorable, finance.
 
 1. strong enough to be unaffected. 2. presupposed. 3. showing to be false. 4. clever but false reasoning. 5. unyielding. 6. neither asks for nor shows mercy. 7. give short shrift=show no sympathy. 8. hostile. 9. oppressively constant. 
-
-finance. 
 
 Mr. Subba Rau's work consists of two volumes, and he has been able to publish the present, through the encouragement given by the Mysore Educational Department in the shape of prize from the Devaraja Bahadur Charity Funds (Literary Section). I hope that the second volume will meet with even greater encouragement. 
 
 The present work being in Sanskrit may not be so widely useful as if the thoughts were presented in English with which nowadays our own countrymen are more familiar. An English rendering is very desirable, and I intend to supply it after my own work on "Vedanta or the Science of Reality" which is now finished has seen the light of day. 
 
-K.A. KRISHNASWAMY IYER. 
-
+K.A. KRISHNASWAMY IYER.  
 Bangalore, Oct 1929. 
 
-उपोद्धन्म: 
+### उपोद्घातः 
 
 निश्चप्रचमिदं वेदान्तार्थनिरूपणनिष्णातानां विद्वद्वरेण्यानां यत् श्रीशङ्करभगवत्पादैः परमार्थतत्त्वं स्वीयप्रस्थानत्रयभाष्येषु सार्वत्रिकानुभव युक्त्याधारण समस्तवेदार्थविषयं निरूपितं तत् सर्वदेशकालावस्थास्वपि अबाध्यम् । तदीयं भाष्यं प्रसन्नगम्भीरं करतलन्यस्तामलकवत् अद्वितीयं वेदान्तविषयं परमार्थतत्त्वं यथानुभवं हृदयमारोपयदपि कैश्चिदर्वाचीन व्याख्यातृभिरन्यैश्च श्रीरामानुजादिभाष्यकारैः श्रीशङ्करभगवत्पादभाष्या शयमजानद्भिः मिथ्याव्याख्यानमृषाध्यारोपेण च सन्दूषितम् । श्रीशङ्कर भगवत्पादानुयायित्वेन प्रख्यातमहद्भिः कैश्चिदर्वाचीनव्याख्यानकारैः यत् व्याख्यातं तत् क्वचित् भाष्याक्षरबहिर्भूतत्वेनैव व्याख्यातं तेनैव कारणेन चान्येषां, शङ्करभाष्यप्रतिपक्षभूतानां रामानुजादीनां लब्धावकाशमगमत् । अतस्तेषां अपव्याख्यानानां दूरीकरणार्थं श्रीसच्चिदानन्देन्द्रसरस्वती स्वामिभिः प्रप्रथमः प्रयत्नः कृतः । इदं चान्यत् वाचकमहोदयैः अवगन्तव्यं यत् व्याख्यानप्रस्थानेषु नैकोऽप्यंशः ग्राह्यत्वेनास्तीति न मन्तव्यम् । यतः अनेके भाष्योक्ताः प्राकृतबुद्ध्यगम्याः विषयाः ये सन्ति ताननितरसाधारण रूपेण स्पष्टीकुर्वन्तः युक्तिभिश्च समर्थयन्तः अस्माकं महदुपकुर्वन्तो वर्तन्त इत्यत्र न कापि संशीतिरस्ति । तथापि अतिसुन्दरं भाष्यं प्रचलितमूलाविद्यादिवादेन पङ्कीकृतमिति सखेदं अभिदध्महे । तमिमं पळू दूरीकर्तुं "मूलाविद्यानिरासः" अथवा "शङ्करहृदयमिति" ग्रन्थः. श्रीचरणैः निरमायि । तस्यास्य प्रथमसंस्करणं १९२९ तमे क्रिस्ताब्दे अभवत् । इदानीं तु द्वितीयमुद्रणस्य संदर्भः सजात: यस्मात् 
 
 सर्वत्रावनिप्रदेशे अन्तर्जालद्वारा (internet) मूलाविद्या विषये अतीव चर्चा प्रचलति जिज्ञासुजनमनांसिच प्रक्षुब्धानि तस्मात्, बहूनां जिज्ञासूनां प्रार्थनानुरोधेन पुनर्मुद्रणे समितिवर्याः बद्धादरा अभवन् । विशिष्य चात्र मूलाविद्यावादस्य असारतां वेदान्त-प्रक्रियायाः असाधारणतां अवस्थात्रयवादस्य चोत्कृष्टतां निरतिशया-साधारणरीत्या आविष्कृतमित्यत्र न पृथक् विद्वत्प्रकाण्डानां वक्तव्यमव-शिष्यते | आमूलचूडं सकृत् ग्रन्थमिममवलोक्य सहृदयचणाः अनुभवन्त्वस्य ग्रन्थस्य माहात्म्यं सर्वात्मभूतं परमार्थतत्त्वं चेति सप्रश्रयं प्रार्थयामहे | ये चेदानींतनाः मूलाविद्यानिरासवादं नाङ्गीकुर्वन्ति तेऽपि श्रीचरणैर्दर्शितानुभवसम्मतयुक्ती भाष्यवाक्यानि चाविगणय्यैव केवलार्वाचीनव्याख्यानेष्वेव शाङ्करभाष्यादपि अधिकां श्रद्धामनुरुन्धा-नास्सन्तः मूलाविद्यामभ्युपयन्ति । परं तु भगवत्पादप्रस्थानत्रयभाष्ये न कुत्रापि किञ्चिदपि तस्या अवकाशोऽस्तीति श्रीचरणैरत्र दर्शितम् | अन्तरेणैव मूलाविद्यावादं साक्षादद्वैतमवगन्तुं भाष्यवाक्यानि च व्याख्यातुं शक्यमिति चात्र दर्शितम् । तस्यास्य ग्रन्थाध्ययनेन यदि केषांचित् मूलभाष्याध्ययने सन्मार्गे आदरः सञ्जायेत तेनैवात्मानं धन्यत्वेन मन्यन्ते श्रीचरणा इत्यत्र श्रीचरणवाण्येव नः प्रमाणम् ॥ 
-
-। 
 
 इदं चान्यदावेदयामो वाचकान् यदस्मिन् द्वितीये मुद्रणे काश्चन टिप्पणयसंयोजिताः । ग्रन्थशरीरे प्रमाणत्वेन परामृष्टानां भाष्यवाक्यानां अन्येषां श्लोकानां च संख्या दत्ताः । मूलाविद्यावादिनां यन्मतं ग्रन्थशरीरेऽनूदितं श्रीचरणैः तेषां च संख्या अस्माभिर्यावत्यो लब्धाः ताश्च दत्ताः । केषांचन पक्षा अभिप्रायमात्रद्योतका इति मत्वा तेषां 
 
@@ -329,11 +309,11 @@ Bangalore, Oct 1929.
 
 रहस्यविवृतिः", "पञ्चपादिकाप्रस्थानम्" इत्येवमादयो ग्रन्था अव लोकनीयाः । अवलोक्य च ते यथाभाष्यार्थविषयं निश्चिन्वन्तु इत्यावेद्यन्ते वाचकमहोदया इत्यलमतिपल्लवितेन ॥ 
 
-इति सज्जनविधेयः 
-
+इति सज्जनविधेयः  
 म. सु. चन्द्रमौलिः अवधानी 
 
-वाचकेषु विज्ञप्तिः श्रीशङ्करभगवत्पादकृते प्रस्थानत्रयभाष्ये जाग्रत्यपि दैवदुर्विपाकान्मो मुह्यन्ति केचित्, परस्परविरुद्धांश्च प्रक्रियाभासान् पूज्यपादाभिमत प्रक्रियात्वेन प्रकाश्य व्यामोहयन्ति परानपि, कलुषीकुर्वन्तः सुनिर्मलं वेदान्तसिद्धान्तम् - इति मन्वानेन मया शङ्करहृदयापराभिधोऽयं मूलाविद्यानिरासाख्यो ग्रन्थः संवत्सरसप्तकात्यागेव व्यरचि । मुद्रणव्यय पर्याप्तधनसम्पत्यभावेनास्य प्रकाशने परं न प्राभवम् । दैवयोगेन पुनरीशवीय १९२७ तमवत्सरे देवराजबहदूरधर्मसहायकनिध्यन्तर्गतवाङ्मयशाखा (Devaraja Bahadur Charity Funds Literary Section) प्रदापितशतत्रयरूप्यकमितेन बहुमानधनेन, तत्पूर्वमेवान्यैर्महाशयैर्ग्रन्थे स्मिन्नन्यत्रकृतनामोल्लेखैर्यथारुचि विश्राणितेन शतरूप्यकमितेन पोषकद्रव्येण च प्रोत्साहितोऽहं कथञ्चित् अवशिष्टं मुद्रापणधनं संगृह्य 
+### वाचकेषु विज्ञप्तिः 
+श्रीशङ्करभगवत्पादकृते प्रस्थानत्रयभाष्ये जाग्रत्यपि दैवदुर्विपाकान्मो मुह्यन्ति केचित्, परस्परविरुद्धांश्च प्रक्रियाभासान् पूज्यपादाभिमत प्रक्रियात्वेन प्रकाश्य व्यामोहयन्ति परानपि, कलुषीकुर्वन्तः सुनिर्मलं वेदान्तसिद्धान्तम् - इति मन्वानेन मया शङ्करहृदयापराभिधोऽयं मूलाविद्यानिरासाख्यो ग्रन्थः संवत्सरसप्तकात्यागेव व्यरचि । मुद्रणव्यय पर्याप्तधनसम्पत्यभावेनास्य प्रकाशने परं न प्राभवम् । दैवयोगेन पुनरीशवीय १९२७ तमवत्सरे देवराजबहदूरधर्मसहायकनिध्यन्तर्गतवाङ्मयशाखा (Devaraja Bahadur Charity Funds Literary Section) प्रदापितशतत्रयरूप्यकमितेन बहुमानधनेन, तत्पूर्वमेवान्यैर्महाशयैर्ग्रन्थे स्मिन्नन्यत्रकृतनामोल्लेखैर्यथारुचि विश्राणितेन शतरूप्यकमितेन पोषकद्रव्येण च प्रोत्साहितोऽहं कथञ्चित् अवशिष्टं मुद्रापणधनं संगृह्य 
 
 ग्रन्थमिमं देवनागराक्षरैरङ्कयित्वेदानी पाठकसविधे समर्पयामि ॥ 
 
@@ -345,85 +325,55 @@ Bangalore, Oct 1929.
 
 भगवदनुग्रहेण समाप्तिं गतेऽस्मिन् पूर्वार्धे धनसाहाय्येन विहितोपकाराणां बहदूरधर्मसहायकसङ्घाध्यक्षाणां पोषकद्रव्यप्रदातॄणां चातीव कृतज्ञोऽस्म्यहम् । अस्य च प्रबन्धस्य विषयगौरवेण हृष्टचेतोभिः प्रारम्भादापरिसमाप्ति वितीर्णप्रोत्साहनैरांग्लभाषात्मकप्रस्तावनया च ग्रन्थमिमं सनाथीकृतवद्भिः प्राच्यपाश्चात्येत्युभयविधेऽपि तत्त्वविचारक्रमे कृतपरिश्रमैः श्रीयुतैः कावेरीपट्टनं कृष्णशर्मभिर्महाशयैरत्यन्तमाधमयं नीतोऽस्म्यहमित्यावेदयते ॥ 
 
-सुब्रह्मण्यशर्मा 
+सुब्रह्मण्यशर्मा  
+(सच्चिदानन्देन्द्रसरस्वती भिक्षुः)  
 
-(सच्चिदानन्देन्द्रसरस्वती भिक्षुः) 
+### विषयानक्रमणिका 
 
-विषयानक्रमणिका 
+प्रथमः खण्डः (विषयावतरणम्)
 
-पृष्ठानि 
+१. पीठिका -- वेदान्तप्रक्रियासूचनम् - प्रकरणविषयादि ।  
+२. जिज्ञासुप्रतिपत्ति:-- सुषुप्तिकालेऽपि प्रपञ्चोऽस्ति - जाग्रत्स्वप्रयोः प्रपञ्चो दृश्यते - अवस्थात्रयपरीक्षणमेव नालं तत्त्वज्ञानाय । २-४   
+३. एकीयसमाधानम् -- आत्मनः कारणाविद्यासम्बन्धोऽस्ति सुषुप्तौ - जागरितेऽपि समनुभूयते भावाज्ञानम् - ज्ञानविरोधित्वमेवाज्ञानस्याज्ञानत्वम् - अज्ञानपरिहारप्रकारः । ४-६  
+४. वादे प्रमाणवाक्योपन्यासक्रम:-- एतद्विचारावश्यकता - वाक्ययुक्त्यनुभवानां कथाप्रवेशनक्रमः - वाक्याधुक्त्य नुभवयोर्विशेषः - वादे वाक्योपन्यासस्थलम् - शब्दप्रामाण्यम् - वाक्यविचारोपसंहारः । ६-१८ 
 
-प्रथमः खण्डः 
+द्वितीयः खण्डः (एकीयमतसमालोचनम्) 
 
-(विषयावतरणम्) १. पीठिका -- वेदान्तप्रक्रियासूचनम् - प्रकरणविषयादि । २. जिज्ञासुप्रतिपत्ति:-- सुषुप्तिकालेऽपि प्रपञ्चोऽस्ति - जाग्रत्स्वप्रयोः प्रपञ्चो दृश्यते - अवस्थात्रयपरीक्षणमेव नालं तत्त्वज्ञानाय । 
-
-२-४ ३. एकीयसमाधानम् -- आत्मनः कारणाविद्यासम्बन्धोऽस्ति सुषुप्तौ - जागरितेऽपि समनुभूयते भावाज्ञानम् - ज्ञानविरोधित्वमेवाज्ञानस्याज्ञानत्वम् - अज्ञानपरिहारप्रकारः । 
-
-४-६ ४. वादे प्रमाणवाक्योपन्यासक्रम:-- एतद्विचारावश्यकता - वाक्ययुक्त्यनुभवानां कथाप्रवेशनक्रमः - वाक्याधुक्त्य नुभवयोर्विशेषः - वादे वाक्योपन्यासस्थलम् - शब्दप्रामाण्यम् - वाक्यविचारोपसंहारः । 
-
-६-१८ द्वितीयः खण्डः (एकीयमतसमालोचनम्) 
-
-१. एकदेशिपक्षे परमार्थसत्ताया असिद्धिः-- परमार्थसत्तानिरुक्तेरावश्यकता - संसारस्य नाविद्यकत्वम्, विद्याविनाश्यत्वासिद्धेः - विद्वदनुभवप्रामाण्यादपि नाविद्यकत्वम् - तुरीयावस्थाभ्युपगमेऽपि नाविद्यकत्व 
-
-सिद्धिः - विदुषामविद्यालेशाभ्युपगमे दोषः - जीवन्मुक्तेर्गौणत्वे दोषः - अद्वैते प्रमाणाभावश्चास्मिन् पक्षे । 
-
-१९-२६ २. भावाज्ञानस्वरूपासिद्धि:-- जागरिते नास्ति भावाविद्यानुभवः - न जानामीति, त्वदुक्तं नजानामीति, न किञ्चिदपि जानामीति वानुभवो न भावाविद्यां गमयति - सुषुप्तौ तु भावाविद्यायाः सुतरामसिद्धिः - सुप्तोत्थितपरामर्शात्तदसिद्धिः - ज्ञानाभावस्यापि नानुभवः सुषुप्तौ । २७-३७ ३. जागरितप्रञ्चोपलम्भार्थं न भावाज्ञानमङ्गीकार्यम् -- जागरितं न स्वप्रकारणम् - जागृतेः स्थिरत्वं नोपपन्नम् - जागरितस्वप्नयोर्बाह्यत्वमान सत्वकृतभिदा नास्ति - जाग्रत्स्वप्नयोः सममेव मिथ्याप्रतीतिरूपत्वम्, ततश्च जागरितप्रपञ्चोपलम्भार्थं न कल्पनीयमज्ञानम् - सुषुप्तेरुत्थितिर्विनैवाज्ञानं प्रकल्पते स्वप्नादुत्थितिर्यथा - जाग्रत्स्वप्रयोर्व्यावहारिकत्वप्रातिभासिकत्वेनापि भेदो दुर्भणः - भावाविद्याङ्गीकारेऽपिजागरितप्रपञ्चोपलम्भो न शक्योपपादनः - जागरितप्रपञ्च मिथ्यात्वादेव तदुपलम्भनलिङ्गात् सौषुप्ताज्ञानानुमानमयुक्तम्। ३८-५० ४. जीवब्रह्मविभागसिद्ध्यर्थं न मूलाविद्या स्वीकार्या-- सुषुप्तावपि जीवब्रह्मविभागः स्वीकरणीय इति पक्षो न समीचीन: - जीवब्रह्मविभागो नाविद्यातन्त्र - अनादिरविद्येत्यपि न सम्यक् - विभागस्य सुषुप्तावपि स्वीकारे तस्य मिथ्यात्वं न सम्भवति । 
-
-५०-५७ ५. सुषुप्तौ स्वरूपानवभासव्यवहारतोऽपि न भावाज्ञान सिद्धिः -- सुषुप्तिविषयकजाग्रव्यवहारान्न सौषुप्ताज्ञानसिद्धिः - भावरूपाज्ञाने नास्त्येवानुमानं क्वचिदपि, कुतः सुषुप्तौ ? - भावाज्ञानसाधिका युक्तिः सुषुप्तानुभवविरुद्धा - सुषुप्तावात्मज्ञानाभावहेतुरशक्योपपादनः प्रतिवादिनाम्, तस्मादपि नाज्ञानसिद्धिः । 
-
-५७-६५ ६. विद्याविधानान्यथानुपपत्त्यापि नाज्ञानसिद्धिः -- विद्योपदेशोऽन्यथैवोपपादनीयः - ज्ञानाभावमिथ्याज्ञानसंशयज्ञानानां ज्ञानापनोद्यत्वे शङ्कानोपपन्ना - भावाज्ञाने ज्ञानापनोद्यत्वं सुतरां न सम्भवति - अज्ञानमित्यत्र ज्ञानशब्दस्य वृत्तिपरत्वेऽपि न दोषः । 
-
-६५-७१ ७. व्यवहारिक्यपि मूलाविद्या न स्वापे स्वीकार्या -- अविद्यास्वरूपं साक्षिवेद्यमित्यपि न सम्यक् - अविद्या व्यावहारिकीत्यपि न साधु, व्यावहारिकत्वलक्षणस्यैवासिद्धेः - व्यावहारिकत्वनिर्वचनभङ्गः। ७१-७७ ८. सुषुप्त्यविद्यावादे दोषान्तराणि -- द्वैतस्य मिथ्यात्वे हेत्वभावः - अवस्थानां पौर्वापर्यकल्पनमयुक्तम् - सुषुप्तेरज्ञान कारणकत्वे तत्स्वरूपत्वे च दोषः - सुषुप्तिस्वरूपमपि दुर्निरूपम् - अवस्थालक्षणा भावश्चास्मिन् पक्षे - द्वैतिभिरापाद्यमानमनुपपत्तिसप्तकं चात्र दुष्परिहरम् । ७७-८७ 
+१. एकदेशिपक्षे परमार्थसत्ताया असिद्धिः-- परमार्थसत्तानिरुक्तेरावश्यकता - संसारस्य नाविद्यकत्वम्, विद्याविनाश्यत्वासिद्धेः - विद्वदनुभवप्रामाण्यादपि नाविद्यकत्वम् - तुरीयावस्थाभ्युपगमेऽपि नाविद्यकत्व सिद्धिः - विदुषामविद्यालेशाभ्युपगमे दोषः - जीवन्मुक्तेर्गौणत्वे दोषः - अद्वैते प्रमाणाभावश्चास्मिन् पक्षे । १९-२६  
+२. भावाज्ञानस्वरूपासिद्धि:-- जागरिते नास्ति भावाविद्यानुभवः - न जानामीति, त्वदुक्तं नजानामीति, न किञ्चिदपि जानामीति वानुभवो न भावाविद्यां गमयति - सुषुप्तौ तु भावाविद्यायाः सुतरामसिद्धिः - सुप्तोत्थितपरामर्शात्तदसिद्धिः - ज्ञानाभावस्यापि नानुभवः सुषुप्तौ । २७-३७  
+३. जागरितप्रञ्चोपलम्भार्थं न भावाज्ञानमङ्गीकार्यम् -- जागरितं न स्वप्रकारणम् - जागृतेः स्थिरत्वं नोपपन्नम् - जागरितस्वप्नयोर्बाह्यत्वमान सत्वकृतभिदा नास्ति - जाग्रत्स्वप्नयोः सममेव मिथ्याप्रतीतिरूपत्वम्, ततश्च जागरितप्रपञ्चोपलम्भार्थं न कल्पनीयमज्ञानम् - सुषुप्तेरुत्थितिर्विनैवाज्ञानं प्रकल्पते स्वप्नादुत्थितिर्यथा - जाग्रत्स्वप्रयोर्व्यावहारिकत्वप्रातिभासिकत्वेनापि भेदो दुर्भणः - भावाविद्याङ्गीकारेऽपिजागरितप्रपञ्चोपलम्भो न शक्योपपादनः - जागरितप्रपञ्च मिथ्यात्वादेव तदुपलम्भनलिङ्गात् सौषुप्ताज्ञानानुमानमयुक्तम्। ३८-५०   
+४. जीवब्रह्मविभागसिद्ध्यर्थं न मूलाविद्या स्वीकार्या-- सुषुप्तावपि जीवब्रह्मविभागः स्वीकरणीय इति पक्षो न समीचीन: - जीवब्रह्मविभागो नाविद्यातन्त्र - अनादिरविद्येत्यपि न सम्यक् - विभागस्य सुषुप्तावपि स्वीकारे तस्य मिथ्यात्वं न सम्भवति । ५०-५७  
+५. सुषुप्तौ स्वरूपानवभासव्यवहारतोऽपि न भावाज्ञान सिद्धिः -- सुषुप्तिविषयकजाग्रव्यवहारान्न सौषुप्ताज्ञानसिद्धिः - भावरूपाज्ञाने नास्त्येवानुमानं क्वचिदपि, कुतः सुषुप्तौ ? - भावाज्ञानसाधिका युक्तिः सुषुप्तानुभवविरुद्धा - सुषुप्तावात्मज्ञानाभावहेतुरशक्योपपादनः प्रतिवादिनाम्, तस्मादपि नाज्ञानसिद्धिः । ५७-६५  
+६. विद्याविधानान्यथानुपपत्त्यापि नाज्ञानसिद्धिः -- विद्योपदेशोऽन्यथैवोपपादनीयः - ज्ञानाभावमिथ्याज्ञानसंशयज्ञानानां ज्ञानापनोद्यत्वे शङ्कानोपपन्ना - भावाज्ञाने ज्ञानापनोद्यत्वं सुतरां न सम्भवति - अज्ञानमित्यत्र ज्ञानशब्दस्य वृत्तिपरत्वेऽपि न दोषः । ६५-७१  
+७. व्यवहारिक्यपि मूलाविद्या न स्वापे स्वीकार्या -- अविद्यास्वरूपं साक्षिवेद्यमित्यपि न सम्यक् - अविद्या व्यावहारिकीत्यपि न साधु, व्यावहारिकत्वलक्षणस्यैवासिद्धेः - व्यावहारिकत्वनिर्वचनभङ्गः। ७१-७७  
+८. सुषुप्त्यविद्यावादे दोषान्तराणि -- द्वैतस्य मिथ्यात्वे हेत्वभावः - अवस्थानां पौर्वापर्यकल्पनमयुक्तम् - सुषुप्तेरज्ञान कारणकत्वे तत्स्वरूपत्वे च दोषः - सुषुप्तिस्वरूपमपि दुर्निरूपम् - अवस्थालक्षणा भावश्चास्मिन् पक्षे - द्वैतिभिरापाद्यमानमनुपपत्तिसप्तकं चात्र दुष्परिहरम् । ७७-८७ 
 
 तृतीयः खण्डः (स्वप्रक्रिया निरूपणम्) 
 
-१. स्वप्रक्रिया संक्षेपतः -- परमार्थज्ञानमवस्थात्रयपरीक्षणमात्रगम्यम् - जागरिते विषयाणां मिथ्यात्वं व्यभिचरद्रूपत्वात् - स्वप्रस्य स्फुटमिथ्यात्वम्, जागरितस्य तत्समानयोगक्षेमत्वं च - सुषुप्तौ सर्वविधप्रपञ्चस्यापि स्वरूपव्यभिचारः - साक्षिसत्यत्वम् - व्यवहारविरोधपरिहारः – सत्यानृतमिथुनीकरणरूपाध्यास एवाविद्या। ८८-९९ २. जाग्रति प्रपञ्चोपलम्भविचार: -- सुषुप्तिसमये तद्भहिर्भूतः प्रपञ्चो न विद्यते - जाग्रत्प्रपञ्चस्य तदवस्थाप्रतिबद्धत्वम् - जागरितेऽपि मिथ्याप्रपञ्च एवावभासते शुक्तिरजतादिवत् - प्रपञ्चोपलम्भ 
-
-आविद्यक एव। 
-
-९९-१०५ ३. प्रपञ्चमिथ्यात्वे शङ्का तत्परिहतिश्च -- प्रपञ्चमिथ्यात्वं न व्यावर्तमानत्वात् न वा बाध्यमानत्वादिति शङ्का - आत्मानात्मनो? 
-
-सम्बन्धानुपपत्तिरित्यत्र शङ्का - जाग्रत्प्रपञ्चस्य मिथ्यात्वसादनम् - स्वप्रप्रपञ्चोऽपि सत्य इति मिथ्याज्ञानमेव नास्तीति च शङ्का - मिथ्याज्ञानसिद्धिः - स्वप्नमिथ्यात्वोप पादनम् - प्रपञ्चमिथ्यात्वोपसंहारः । 
-
-१०५-११६ ४. स्वप्रो जागरितान्तर्गतः कश्चिद्विशेष इति मतं तत्परीक्षा 
-
-च -- जागरितं न स्वप्रादीनामाश्रयः, अवस्थात्वाविशेषात् - जागरितं स्वाभाविकमित्यपि न सम्यक् - स्वप्रो नाम स्वतन्त्रावस्थाविशेष एव स्वासाधारणसामग्रीकत्वात् - जाग्रत्प्रत्ययस्य स्वप्रप्रत्ययसमानयोगक्षेमता - अवस्थानुभवबलान्नात्मनः सिद्धिः, तस्य स्वतः सिद्धत्वात् - विषयासत्त्वनिश्चयेन न व्यवहारलोपः। ११६-१२५ ५. जागरितस्वप्रयोर्मिथ्यात्वे शङ्का परिहारश्च -- न प्रतीतिमात्रेण सत्यत्वंजागरितस्य - न वा समर्थक्रियाकारित्वात् -समारोपितस्यान्यत्र सत्त्वमित्यपि न । 
-
-१२५-१२८ ६. प्रपञ्चस्य समारोपितत्वे शङ्का तत्परिहतिश्च -- प्रपञ्चबाधस्य लोकसिद्धबाधवैलक्षण्यमिति शङ्का - परिहार। १२८-१३० ७. सुषुप्तावनुभूतिरात्मनो धर्म इति मतं तन्निराकरणं च - आत्मा ज्ञानगुणकोऽहमर्थस्वरूपश्चेति पक्षानुवादः - जाग्रत्स्वप्रयोरेवाहं प्रत्ययगम्यत्व मात्मनः - अहंप्रत्ययगम्यत्वं न कदापि पारमार्थिकम् - सुषुप्तौ नास्त्येवाहमर्थानुभव: - ज्ञातृत्वमपि न स्वरूपमात्मनः - ज्ञानगुणकत्वे धर्मधर्मिणोर्दुविवेचत्वं - चिद्गणकत्वस्यापारमार्थिकत्वे युक्तिरनुभवश्च - चिद्रूपयोर्गुणगुणित्वानुपपत्तिः - जानामीति व्यवहारे प्रकृतिप्रत्ययार्थविवेकः - ज्ञातर्यप्यात्मनि क्षेत्रज्ञेत्यादिव्यप देशोपपत्तिः । 
-
-१३०-१३८ ८. अविद्यास्वरूपविचार: -- आत्मानात्मनोरध्यास एवाविद्या - मूलाविद्यावादिनां मतेऽविद्यास्वरूपं तत्र विप्रतिपत्तिदर्शनं च - अध्यासो निरूपणासहोऽप्यस्ति लोकप्रसिद्धः - मनसः 
-
-कारणानिरूपणं न दोषाय - मूलाविद्याया मनः कारणत्वेनाभ्युपगमेऽपि कारणाकांक्षा न शाम्यति । 
-
-१३८-१४४ ९. अविद्याविषयविचारः -- अविद्याविषये विप्रतिपत्तिः - आत्मन्यविद्याकल्पितं विषयत्वं न स्वाभाविकम् - अविद्याविषयत्वयोर्न पौर्वापर्यम् | 
-
-१४४-१४९ १०. अविद्याश्रयविचार -- 
-
-अविद्याश्रयोऽपि कल्पितः - अविद्याया एव कल्पितं सत्त्वम् - अज्ञानस्य स्वरूपतो ज्ञानव्यतिरेकेणासत्त्वम् - व्यावहारिकदृष्ट्यैवाविद्यातदाश्रयादिचिन्ता | १४९-१५३ ११. अविद्याकार्यचिन्ता -- अविद्याकार्यस्वरूपम् - अविद्याकार्यमिति कोऽर्थः?- अविद्याया न कार्योपादानत्वम् - मिथ्यावस्तुनः कारणापेक्षा नास्ति - भावाविद्याकार्यं सर्वमिति मते व्यावहारिक प्रातिभासिकत्वेन भिदा नोपपद्यते - प्रातिभासिकवस्तुन्यविद्याविशेषोपादानकत्वं नास्ति - प्रातिभासिकवस्तूत्पत्तिनिषेधः | 
-
-१५३-१६१ १२. अविद्यानिमित्तविचार: -- 
-
-अविद्यानिमित्तप्रश्नोऽनुपपन्नः - अविद्यावस्तुतो न कस्यचित्कार्यं कारणं वा - अविद्या परमार्थतो नास्त्येव, ततोऽप्यनुपपन्नोऽयं प्रश्न: - अविचार एव निमित्तम विद्यायाः । 
-
-१६१-१६६ १३. अविद्यानिवृत्तिविचारः -- सम्यग्ज्ञानादविद्यानिवृत्तिः - ज्ञानाभावस्याविद्यानिवर्त्यत्वे शङ्का - विद्योत्पत्तिरेवा विद्यानिवृत्तिः - अविद्यानिवृत्तिर्नाम न भावविकार - ज्ञानं न कारकम् |१६६-१७१ १४. अविद्यास्वरूपादिचिन्तोपसंहारः -- १७१-१७३ 
+१. स्वप्रक्रिया संक्षेपतः -- परमार्थज्ञानमवस्थात्रयपरीक्षणमात्रगम्यम् - जागरिते विषयाणां मिथ्यात्वं व्यभिचरद्रूपत्वात् - स्वप्रस्य स्फुटमिथ्यात्वम्, जागरितस्य तत्समानयोगक्षेमत्वं च - सुषुप्तौ सर्वविधप्रपञ्चस्यापि स्वरूपव्यभिचारः - साक्षिसत्यत्वम् - व्यवहारविरोधपरिहारः – सत्यानृतमिथुनीकरणरूपाध्यास एवाविद्या। ८८-९९  
+२. जाग्रति प्रपञ्चोपलम्भविचार: -- सुषुप्तिसमये तद्भहिर्भूतः प्रपञ्चो न विद्यते - जाग्रत्प्रपञ्चस्य तदवस्थाप्रतिबद्धत्वम् - जागरितेऽपि मिथ्याप्रपञ्च एवावभासते शुक्तिरजतादिवत् - प्रपञ्चोपलम्भ आविद्यक एव। ९९-१०५  
+३. प्रपञ्चमिथ्यात्वे शङ्का तत्परिहतिश्च -- प्रपञ्चमिथ्यात्वं न व्यावर्तमानत्वात् न वा बाध्यमानत्वादिति शङ्का - आत्मानात्मनो? सम्बन्धानुपपत्तिरित्यत्र शङ्का - जाग्रत्प्रपञ्चस्य मिथ्यात्वसादनम् - स्वप्रप्रपञ्चोऽपि सत्य इति मिथ्याज्ञानमेव नास्तीति च शङ्का - मिथ्याज्ञानसिद्धिः - स्वप्नमिथ्यात्वोप पादनम् - प्रपञ्चमिथ्यात्वोपसंहारः । १०५-११६  
+४. स्वप्नो जागरितान्तर्गतः कश्चिद्विशेष इति मतं तत्परीक्षा च -- जागरितं न स्वप्रादीनामाश्रयः, अवस्थात्वाविशेषात् - जागरितं स्वाभाविकमित्यपि न सम्यक् - स्वप्रो नाम स्वतन्त्रावस्थाविशेष एव स्वासाधारणसामग्रीकत्वात् - जाग्रत्प्रत्ययस्य स्वप्रप्रत्ययसमानयोगक्षेमता - अवस्थानुभवबलान्नात्मनः सिद्धिः, तस्य स्वतः सिद्धत्वात् - विषयासत्त्वनिश्चयेन न व्यवहारलोपः। ११६-१२५  
+५. जागरितस्वप्रयोर्मिथ्यात्वे शङ्का परिहारश्च -- न प्रतीतिमात्रेण सत्यत्वंजागरितस्य - न वा समर्थक्रियाकारित्वात् -समारोपितस्यान्यत्र सत्त्वमित्यपि न । १२५-१२८  
+६. प्रपञ्चस्य समारोपितत्वे शङ्का तत्परिहतिश्च -- प्रपञ्चबाधस्य लोकसिद्धबाधवैलक्षण्यमिति शङ्का - परिहार। १२८-१३०  
+७. सुषुप्तावनुभूतिरात्मनो धर्म इति मतं तन्निराकरणं च - आत्मा ज्ञानगुणकोऽहमर्थस्वरूपश्चेति पक्षानुवादः - जाग्रत्स्वप्रयोरेवाहं प्रत्ययगम्यत्व मात्मनः - अहंप्रत्ययगम्यत्वं न कदापि पारमार्थिकम् - सुषुप्तौ नास्त्येवाहमर्थानुभव: - ज्ञातृत्वमपि न स्वरूपमात्मनः - ज्ञानगुणकत्वे धर्मधर्मिणोर्दुविवेचत्वं - चिद्गणकत्वस्यापारमार्थिकत्वे युक्तिरनुभवश्च - चिद्रूपयोर्गुणगुणित्वानुपपत्तिः - जानामीति व्यवहारे प्रकृतिप्रत्ययार्थविवेकः - ज्ञातर्यप्यात्मनि क्षेत्रज्ञेत्यादिव्यप देशोपपत्तिः । १३०-१३८  
+८. अविद्यास्वरूपविचार: -- आत्मानात्मनोरध्यास एवाविद्या - मूलाविद्यावादिनां मतेऽविद्यास्वरूपं तत्र विप्रतिपत्तिदर्शनं च - अध्यासो निरूपणासहोऽप्यस्ति लोकप्रसिद्धः - मनसः कारणानिरूपणं न दोषाय - मूलाविद्याया मनः कारणत्वेनाभ्युपगमेऽपि कारणाकांक्षा न शाम्यति । १३८-१४४  
+९. अविद्याविषयविचारः -- अविद्याविषये विप्रतिपत्तिः - आत्मन्यविद्याकल्पितं विषयत्वं न स्वाभाविकम् - अविद्याविषयत्वयोर्न पौर्वापर्यम् | १४४-१४९  
+१०. अविद्याश्रयविचार -- अविद्याश्रयोऽपि कल्पितः - अविद्याया एव कल्पितं सत्त्वम् - अज्ञानस्य स्वरूपतो ज्ञानव्यतिरेकेणासत्त्वम् - व्यावहारिकदृष्ट्यैवाविद्यातदाश्रयादिचिन्ता | १४९-१५३  
+११. अविद्याकार्यचिन्ता -- अविद्याकार्यस्वरूपम् - अविद्याकार्यमिति कोऽर्थः?- अविद्याया न कार्योपादानत्वम् - मिथ्यावस्तुनः कारणापेक्षा नास्ति - भावाविद्याकार्यं सर्वमिति मते व्यावहारिक प्रातिभासिकत्वेन भिदा नोपपद्यते - प्रातिभासिकवस्तुन्यविद्याविशेषोपादानकत्वं नास्ति - प्रातिभासिकवस्तूत्पत्तिनिषेधः | १५३-१६१  
+१२. अविद्यानिमित्तविचार: -- अविद्यानिमित्तप्रश्नोऽनुपपन्नः - अविद्यावस्तुतो न कस्यचित्कार्यं कारणं वा - अविद्या परमार्थतो नास्त्येव, ततोऽप्यनुपपन्नोऽयं प्रश्न: - अविचार एव निमित्तम विद्यायाः । १६१-१६६  
+१३. अविद्यानिवृत्तिविचारः -- सम्यग्ज्ञानादविद्यानिवृत्तिः - ज्ञानाभावस्याविद्यानिवर्त्यत्वे शङ्का - विद्योत्पत्तिरेवा विद्यानिवृत्तिः - अविद्यानिवृत्तिर्नाम न भावविकार - ज्ञानं न कारकम् |१६६-१७१  
+१४. अविद्यास्वरूपादिचिन्तोपसंहारः -- १७१-१७३ 
 
 चतुर्थः खण्डः (श्रुत्यादिप्रमाणोपन्यासः) 
 
-१. प्रमाणवाक्योपन्यासाय भूमिका -- श्रुत्युपन्यासेन प्रयोजनम् - द्वैतिशङ्कापरिहारे नात्रादरः - अवस्तात्रयप्रक्रियायां श्रुतेः प्रामाण्यं कीदृशम् ? 
+१. प्रमाणवाक्योपन्यासाय भूमिका -- श्रुत्युपन्यासेन प्रयोजनम् - द्वैतिशङ्कापरिहारे नात्रादरः - अवस्तात्रयप्रक्रियायां श्रुतेः प्रामाण्यं कीदृशम् ? १७४-१७८  
+२. सुषुप्तेरविद्यासंसर्गाभावे श्रुतिप्रामाण्यम् -- अविद्यावाक्यानां तद्विशेषरूपप्रतिपादने नास्ति व्यापारः - सति सम्पद्येत्यादिवाक्यं नाविद्यायां प्रमाणम्, अतत्प्रकरणत्वात् - सुषुप्तौ सत्सम्पत्तेः सम्पूर्णता नास्तीति शङ्का तत्परिहारश्च - 'न विदुः' इति वेदनाभाववाचिना शब्देन न भावाविद्या बोध्यते - श्रुतिसमर्पितन्यग्रोधबीजदृष्टान्तादप्येवं गम्यते - सुषुप्तादुत्थानं श्रुत्या किमर्थं श्राव्यते? - 'सुषुप्तिकाले इत्यस्य वाक्यस्य तात्पर्यम्' - सौषुप्तसुखे विचार: - सुखरूप-मेतीत्यस्यार्थः - तुरीयावस्थायाः श्रुतिप्रतिपाद्यत्वाङ्गीकारेऽपि प्रतिवादिसम्मता-विद्यासिद्धिर्नास्ति - अवस्थारूपस्य तुरीयस्य नैव श्रुतिप्रतिपाद्यता - सुषुप्तात्मनः शुद्धत्वबोधकवाक्यान्यनन्यपराण्यपि सन्ति | १७८-१९६  
+३. सुषुप्तात्मनो निरविद्यत्वे सूत्रकारादिसम्मतिः -- सूत्रकारादिवचनविचारार्थं पूर्वः पक्षः - सूत्रकृदाशयः - पूर्वपक्षोपन्यस्तानां सौषुप्ताविद्यावाक्याभासानां तात्पर्यम् - 'अविद्यात्मकबीजसद्भावकारितमुत्थानम्' इति वाक्यम् - 'इह तु विद्यते विवेककारणं कर्म चाविद्या च' इति वाक्यम् - 'यथा हि सुषुप्तिसमाध्यादौ' इति भाष्यं नाविद्यागमकम्, किं तु तत्प्रतिषेधकम् - सौषुप्ताविद्यानिवारकभाष्यवाक्यानामुदाहरणम् - बृहदारण्यकसुषुप्त्यविद्यानिराकरण भाष्यस्यैदंपर्यम् - भाष्यसम्मत्युपसंहारः - कदाचिदाचार्यैरङ्गीकृतेव सौषुताविद्या, तत्रापि न भावाविद्यास्वीकारः - नैष्कर्म्यसिद्ध्यभिहितसौषुप्ताविद्याविचारः - सौषुप्ताज्ञाननिराकरणं चोपलभ्यते नैष्कर्म्यसिद्धौ - बृहदारण्यकवार्तिके तैत्तिरीयवार्तिके च सौषुप्ताविद्या कण्ठरवेणैव निरस्ता - गौडपादाचार्यसम्मतिः - 'सुषुप्तोऽन्यो न तत्समः' इति कारिकाया अर्थः - मनोनिरोधविदायककारिकातात्पर्यम् - भावाविद्या वादिनां सूत्रभाष्यविरोधः - गौडपादसुरेश्वराचार्यवचनविरुद्धं च भावाविद्यावादिमतम् - सुषुप्त्यविद्यानिरसनं श्रुत्यादिसम्मतमित्यत्र युक्तिः - गुरुज्ञानवासिष्ठगताद्वैत खण्डनान्यथानुपपत्तिर्निदर्शनं सुषुप्त्यविद्यानिरास एवाद्वितीयब्रह्मवादिनां सांप्रदायिक मित्यत्र । १९६-२२६  
+४. अवस्थात्रयपरीक्षणमेव वेदान्तोदितासाधारणप्रक्रियेत्य त्रोपपत्तिः -- उपनिषत्प्रस्थानतात्पर्यम् - सूत्रप्रस्थानगीताप्रस्थानयोर्गतिः - इतिहासपुराणादिवचनानि - आचार्यरचितप्रक्रियाणां परस्परविरोधः । 'यया यया भवेत्पुंसाम्' इत्यादिवार्तिक वचनतात्पर्यम् । २२६-२३८   
+५. शास्त्रानर्थक्यादिदोषपरिहारः - शास्त्रानर्थक्यदोषपरिहार - उपनिषत्सु सुषुप्त्युपन्यासप्रयोजनम् - सुषुप्तेरवस्थात्वोपपत्तिः - उपसंहारः। 
 
-१७४-१७८ २. सुषुप्तेरविद्यासंसर्गाभावे श्रुतिप्रामाण्यम् -- अविद्यावाक्यानां तद्विशेषरूपप्रतिपादने नास्ति व्यापारः - सति सम्पद्येत्यादिवाक्यं नाविद्यायां प्रमाणम्, अतत्प्रकरणत्वात् - सुषुप्तौ सत्सम्पत्तेः सम्पूर्णता नास्तीति शङ्का तत्परिहारश्च - 'न विदुः' इति वेदनाभाववाचिना शब्देन न भावाविद्या बोध्यते - श्रुतिसमर्पितन्यग्रोधबीजदृष्टान्तादप्येवं गम्यते - सुषुप्तादुत्थानं श्रुत्या किमर्थं श्राव्यते? - 'सुषुप्तिकाले इत्यस्य वाक्यस्य तात्पर्यम्' - सौषुप्तसुखे विचार: - सुखरूप-मेतीत्यस्यार्थः - तुरीयावस्थायाः श्रुतिप्रतिपाद्यत्वाङ्गीकारेऽपि प्रतिवादिसम्मता-विद्यासिद्धिर्नास्ति - अवस्थारूपस्य तुरीयस्य नैव श्रुतिप्रतिपाद्यता - सुषुप्तात्मनः शुद्धत्वबोधकवाक्यान्यनन्यपराण्यपि सन्ति | 
-
-१७८-१९६ ३. सुषुप्तात्मनो निरविद्यत्वे सूत्रकारादिसम्मतिः -- सूत्रकारादिवचनविचारार्थं पूर्वः पक्षः - सूत्रकृदाशयः - पूर्वपक्षोपन्यस्तानां सौषुप्ताविद्यावाक्याभासानां तात्पर्यम् - 'अविद्यात्मकबीजसद्भावकारितमुत्थानम्' इति वाक्यम् - 'इह तु विद्यते विवेककारणं कर्म चाविद्या च' इति वाक्यम् - 'यथा हि सुषुप्तिसमाध्यादौ' इति भाष्यं नाविद्यागमकम्, किं तु तत्प्रतिषेधकम् - सौषुप्ताविद्यानिवारकभाष्यवाक्यानामुदाहरणम् - बृहदारण्यकसुषुप्त्यविद्यानिराकरण भाष्यस्यैदंपर्यम् - भाष्यसम्मत्युपसंहारः - कदाचिदाचार्यैरङ्गीकृतेव सौषुताविद्या, तत्रापि न भावाविद्यास्वीकारः - नैष्कर्म्यसिद्ध्यभिहितसौषुप्ताविद्याविचारः - सौषुप्ताज्ञाननिराकरणं चोपलभ्यते नैष्कर्म्यसिद्धौ - बृहदारण्यकवार्तिके तैत्तिरीयवार्तिके 
-
-च सौषुप्ताविद्या कण्ठरवेणैव निरस्ता - गौडपादाचार्यसम्मतिः - 'सुषुप्तोऽन्यो न तत्समः' इति कारिकाया अर्थः - मनोनिरोधविदायककारिकातात्पर्यम् - भावाविद्या वादिनां सूत्रभाष्यविरोधः - गौडपादसुरेश्वराचार्यवचनविरुद्धं च भावाविद्यावादिमतम् - सुषुप्त्यविद्यानिरसनं श्रुत्यादिसम्मतमित्यत्र युक्तिः - गुरुज्ञानवासिष्ठगताद्वैत खण्डनान्यथानुपपत्तिर्निदर्शनं सुषुप्त्यविद्यानिरास एवाद्वितीयब्रह्मवादिनां सांप्रदायिक मित्यत्र । 
-
-१९६-२२६ ४. अवस्थात्रयपरीक्षणमेव वेदान्तोदितासाधारणप्रक्रियेत्य त्रोपपत्तिः -- उपनिषत्प्रस्थानतात्पर्यम् - सूत्रप्रस्थानगीताप्रस्थानयोर्गतिः - इतिहासपुराणादिवचनानि - आचार्यरचितप्रक्रियाणां परस्परविरोधः । 'यया यया भवेत्पुंसाम्' इत्यादिवार्तिक वचनतात्पर्यम् । 
-
-२२६-२३८ ५. शास्त्रानर्थक्यादिदोषपरिहारः - शास्त्रानर्थक्यदोषपरिहार - उपनिषत्सु सुषुप्त्युपन्यासप्रयोजनम् - सुषुप्तेरवस्थात्वोपपत्तिः - उपसंहारः। 
-
-२३९-२४४ 
-
-सङ्केताक्षराणां विवरणम् 
+### सङ्केताक्षराणां विवरणम् 
 
 १. ई.भा. - ईशावास्योपनिषद्भाष्ये भगवत्पादकृते २. उ. - उपदेशसाहस्त्रयां भगवत्पादविरचितायाम् ३. उ.ग. उपदेशसाहस्त्रयां गद्यबन्धे ४. ऋ. - ऋग्वेदे 
 
@@ -437,46 +387,10 @@ Bangalore, Oct 1929.
 
 शान्तिपर्वणि राजधर्मे श्वेताश्वतरोपनिषदि सूतसंहितायां ज्ञानवैभवखण्डे सूतसंहितायां ब्रह्मगीतासु शारीरकसूत्रभाष्ये भगवत्पादकृते सूतसंहितायां यज्ञवैभवखण्डे 
 
-ODOOOOOOOOOOOK 
-
-46 
-
-much necessary to write a book called Mulavidya-Kuthara in order to refute it". Then I asked, "Who says so ?" lyer replied, "So is written in all the sub-commentaries on Vedanta. The Vedantins of these days and scholars belonging to Shankara Mathas too say so". I was greatly surprised at this, for, when Shri Virupaksha Shastri was teaching us Bhashyas, he did strictly in keeping with the Bhashyas and there was no reference to Mulavidya howsoever remote. Since, I was not the one who looks for sub-commentary even without the need, I never came to know that it occurred in Rathnaprabha, a sub-commentary on Sutra Bhashya. Hence, I told him explicitly, “Shri Shastri never taught this to us". 
-
-Thinking that it is necessary in the first place, to convince me of this, one day he took me to Shri Shastri's house and broached the topic as follows : lyer - What is the proof of Advaita ? 
-
-Shastri - The experience of a Jivanmukta is the only proof. 
-
-- 
-
-- Does a Jivanmukta see duality ? 
-
-S 
-
-. Although he sees the duality continuing after its 
-
-sublation, it does not affect him since it lasts only so long as his prarabdha lasts. 
-
-- 
-
-- Why should even prarabdha remain, for that matter? 
-
-S 
-
-- Owing to a trace of avidya remaining in him. 
-
-- 
-
-- When will be the attainment of absolute Advaita ? 
-
-- 
-
-After the death of the body. 
-
-Thus having found evidences from Shri Shastri to almost all of Iyer's statements and contentions, we returned home. I was greatly astonished. Though, I never came across this avidya anywhere during my study of the Upanishad Bhashyas for so long, I became curious to investigate into Why does Shri Shastry say so ? and what is the basis for his views ? Thereafter, Shri lyer had shown me this in the Ratnaprabha (sub-commentary) portion on Adhyasa Bhashya. 
 
 मूलाविद्यानिरासः 
 
+## १ विषयावतरणम्
 प्रथमः खण्डः 
 
 (विषयावतरणम्) अवस्थारहितं मूढस्क्र्यवस्थमिति कल्पितम् । आस्तां पुरस्तात्तत्तेजो मूलाविद्या निरासकृत् ॥ 
@@ -620,6 +534,8 @@ y
 विषयावतरणं नाम 
 
 प्रथमः खण्डः 
+
+## २ एकीयमतसमालोचनम्
 
 द्वितीयः खण्डः (एकीयमतसमालोचनम्) HOTOS एकदेशिपक्षे परमार्थसत्ताया असिद्धिः 
 
@@ -1189,13 +1105,11 @@ __ एवमेव ज्ञानाभावस्यापि न सम्�
 
 सौषुप्तस्मरणात् प्रबोधजगतो बीजं समुत्रीयते मानैश्चाक्षमुखैः प्रयत्य परमोत्साहेन संवर्यते । जीवब्रह्मविभागसिद्धिफलकं सुप्तौ न किं स्यादहो मूलाज्ञानविदो विदुर्न तु परे सिद्धान्तमेनं शुभम् ॥ 
 
-इति श्रीमत्पूज्यपादशङ्करभगवच्चरणस्मरणपरिचयाप्तवेदान्तप्रवेशेन श्रीबोधानन्देन्द्रसरस्वतीशिष्येण सच्चिदानन्देन्द्रसरस्वत्याख्येन भिक्षुणा (सुब्रह्मण्येन) विरचिते श्रीमति शङ्करहृदये मूलाविद्यानिरासे 
+इति श्रीमत्पूज्यपादशङ्करभगवच्चरणस्मरणपरिचयाप्तवेदान्तप्रवेशेन श्रीबोधानन्देन्द्रसरस्वतीशिष्येण सच्चिदानन्देन्द्रसरस्वत्याख्येन भिक्षुणा (सुब्रह्मण्येन) विरचिते श्रीमति शङ्करहृदये मूलाविद्यानिरासे एकीयमतसमालोचनं नाम द्वितीयः खण्डः 
 
-एकीयमतसमालोचनं नाम 
 
-द्वितीयः खण्डः 
-
-(तृतीयः 
+## ३ स्वप्रक्रिया-निरूपणम्
+तृतीयः 
 
 तृतीयः खण्डः (स्वप्रक्रियानिरूपणम्) 
 
@@ -2211,6 +2125,7 @@ __ अत्रोच्यते - न वयं ब्रूमोऽविद
 
 तृतीयः खण्डः 
 
+## ४ श्रुत्यादिप्रमाणोपन्यासः
 १७४ 
 
 (चतुर्थः 
@@ -2909,7 +2824,7 @@ ___ मूलाविद्यानिरासः
 
 चतुर्थः खण्डः 
 
-परिशिष्टम् 
+## परिशिष्टम् 
 
 १) मू. नि. पृ.-४ पं. २२-२४ "एवं हि तत्र परामर्शः - परामश्रोऽस्ति" ॥ चित्सुखी - (पृ. ५८-५९) किं च 'न किंच्दिवेदिषम्' इति परमार्शसिद्ध - सौषुप्तिकानुभवोत्र प्रमाणम् । न च ज्ञानाभावविषयोऽयम् अनुभवः । अभाव - प्रतीतेर धर्मिप्रतियोगिबोध - पराधीनतया तदभावे तस्यानुभवितुम् अयोग्यत्वात् ॥ २) मू. नि. पृ.-५ पं. १-५ तत्र कदाचित् गृहणापाये......... ..अभ्युपेतव्यं भवति ।। पञ्चपादिका विवरणम् (मद्रास १०६-१०७) 
 
@@ -2941,7 +2856,7 @@ ___ मूलाविद्यानिरासः
 
 २४९ 
 
-APPENDIX- II 
+## ग्रन्थावलिः
 
 ENGLISH BOOKS Books Authored by Sri S.S. Swamiji 
 
@@ -3007,7 +2922,7 @@ are self-explanatory, and do not require guidance of commentators) 15. INTRODUCT
 
 works of S.S. Swamiji) 16. ISAVASYOPANISHAD (Sankara Bhashya) 70 20/ 7. VEDANTA OR THE SCIENCE OF REALITY 551 120/ 
 
-(Book Written by Sri K.A. Krishnaswamy lyer) (Deals with the immedite realisation of Brahman by 
+(Book Written by Sri K.A. Krishnaswamy Iyer) (Deals with the immedite realisation of Brahman by 
 
 Intuitive reflection on the witness of the three states of consciousness) 
 
@@ -3073,29 +2988,14 @@ Mandukya Upanishad using Avasthatraya Prakriye) 30. THE ESSENTIAL ADI SHANKARA
 
 432 (Translation of Gaudapada Hridaya , Explanation of Karikaas) ESSENTIAL SURESWARA AND SATCHIDANANDA 
 
-15/ 100/ 
-
-751 
-
-400/ 
-
-150/ 
-
 INTUITIVE APPROACH TO SANKARA VEDANTA 200 404. (Translation of Vedantartha - Sara - Sangraha. Secrets of Adhyasa, Adhyasa, Adhyaropa - Apavada Nyaya revealed) THE BASIC TENETS OF SANKARA VEDANTA 200 
 
 30/ (Translation of Sankara Vedantada Moolatatwagalu) THE PRISTINE PURE ADVAITA PHILOSOPHY OF ADI SANKARA 
 
-136 26 (Translation of Sankara Siddhanta Explains pure Sankara Siddhanta and exposes the worng interpretation of Vyakhyanakaras) ADVAITA PANCHARATNAM (Commentary of Five Verses composed by Adi Sankara on Advaita Vedanta) THE METHOD OF VEDANTA (DR. J. ALSTON) No Stock 150/ THE HEART OF SHANKARA (Mulavidya Nirasa) 303 150/ SRI SRI SATCHIDANANDENDRA SARASWATHI (Life History & His Contribution to Shankara Vedanta Translation of Gurucharithamrutha by Smt. Savithri Devaraj) 312 150/ 
+136 26 (Translation of Sankara Siddhanta Explains pure Sankara Siddhanta and exposes the worng interpretation of Vyakhyanakaras) ADVAITA PANCHARATNAM (Commentary of Five Verses composed by Adi Sankara on Advaita Vedanta) THE METHOD OF VEDANTA (DR. J. ALSTON) No Stock 150/ THE HEART OF SHANKARA (Mulāvidyā Nirasa) 303 150/ SRI SRI SATCHIDANANDENDRA SARASWATHI (Life History & His Contribution to Shankara Vedanta Translation of Gurucharithamrutha by Smt. Savithri Devaraj) 312 150/ 
 
-80 
 
-101 
-
-37. 
-
-२५२ 
-
-अध्यात्मप्रकाशकार्यालये प्रकाशिताः 
+### अध्यात्मप्रकाशकार्यालये प्रकाशिताः 
 
 संस्कृतग्रन्थाः अध्यात्मप्रकाशकार्यालयप्रकाशितेषु उपनिषद् शांकरभाष्येषु विशेषोऽयं यत् (१) 'विषयानुसारेण प्रविभक्तग्रन्थशरीरत्वम्' (२) तत्तद्विभाग प्रतिपाद्यविषय सूचकशिरोलेख निवेशः, (३) पाठान्तरनिर्देशभाष्यान्तर संवादादिस्थलसूचनापूर्वकं हितमिताधष्टिप्पणदानम्, (४) विचार प्रचोदिका पीठिका, (५) उपनिषन्मूलस्य स्थूलाक्षरैः भाष्यस्य मध्यगात्राक्षरैः, उपनिषत्सारादि परिशिष्टभागस्य च सामान्य सूक्ष्माक्षरैः - इति चैवं विविधगात्रस्फुटाक्षरे-रङ्कनं च इति । सुन्दर अक्षरैः शुक्लमसृणपत्रे मुद्रापितानामप्येषां पुस्तकानां गात्राकारानु गुण्येन परिमित मूल्येनैव वितरणे प्रयत्नः कृतः । सर्वत्र टिप्पणं व्याख्यानादिकं च नूत्नतया श्रीसच्चिदानन्देन्द्रसरस्वतीसंयमिभिरनुगृहीतम् ।। 1. ईशावास्योपनिषत् - (पु. 56) 
 
