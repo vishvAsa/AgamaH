@@ -47,123 +47,98 @@ Bangalore
 Guidelines to Shankara-Vedanta  
 
 ## 1 Universal experience
-CHAPTER-l    
+CHAPTER-1    
 
-The first fundamental:: Relying on the ~ntu~tive  experiences of universaJ acceptance and comprehen sive visi-on of life.  
+The first fundamental: Relying on the intuitive  experiences of universal acceptance and comprehensive vision of life.  
 
-R. SPECtF~C FEATURE OF VEDANTAS (UPANrS'HA'DS) :  
+### 1. SPECIFIC FEATURE OF VEDANTAS 
+(UPANISHADS) 
 
-According t<a ShvI SO-a.nkara though the Upanishads are  ~ndivisible part of Vedas, the teaching cont(j~ned in the  Upanishads is quite unl.ikethe other types of 'teachings  Qike rituals (Karmas)." meditations (Upāsanas) , t~ug ht in  Vedas, Hence the deliberations o'n Brahman .. i.e. Brahma 
+According śrī śaṅkara though the Upanishads are indivisible part of Vedas, the teaching contained in the  Upanishads is quite unlike the other types of teachings like rituals (Karmas), meditations (Upāsanas),+++(5)+++ taught in Vedas. Hence the deliberations on Brahman i.e. Brahma-Jijnāsā has been taught separately from the deliberations on Dharma, i e. Dharma-Jijnāsā which mainly teach us the rituals and meditations. 
 
-Jijnāsā has been taug'ht separately from the deliberations  on Dharma, i e. Dharma-Jijnāsā whi-ch mainly teach us the  .. ituals and meditations. To perform rituals et'C. one should  observe Varnas, Ashramas, age, condition etc. So it is nut  applicable commor:lly to alt. This Dharma-Jijnāsā runs , on  the common beH ef that 0' am so and so, I am a doer . of  actions, 'am happy, I am miserable" etc. accepting agent 
+To perform rituals etc., one should  observe Varnas, Ashramas, age, condition etc. So it is not  applicable commonly to alt. This Dharma-Jijnāsā runs on  the common belief that 'I am so and so, I am a doer of  actions, I am happy, I am miserable" etc. accepting agentship and enjoyership. This part of the text of Veda is authoritative in its own field. This is accepted by Shankara  as it has been accepted by other Mimāmsakas as he is himself a follower of Sanātana Vaidika Dharma. 
 
-ship and enjoyership. This part of the text of Veda is auth oritative in its own field. This ·is accepted by Shankara  as it has been accepted by other Mimāmsakas as he is  himself a follower of Sanātana Vaidika Dharma. But his  main contention is that apart from this Dharma-Jijnasa  there is Brahma-Jijnasa, i.e. deliberation on Brahman which  is also taught by Veda . in the last portion thereof which  are called Aranyakas (Upanishads). This Brahma-Jijnasa is  based on Universal acceptance and comprehensive vision  of life. Though this is the fact, these two 'forms of Jijnasas  are not rival to each other, because B rahma-Jijnasa nouri shes the Dharma-J ijnasa in one · aspect and the Dharma Jijnasa will lead to Brahma-Jijnasa in another aspect. 
+But his main contention is that apart from this Dharma-Jijnasa there is Brahma-Jijnasa, i.e. deliberation on Brahman which  is also taught by Veda in the last portion thereof which  are called Aranyakas (Upanishads). This Brahma-Jijnasa is based on Universal acceptance and comprehensive vision of life. Though this is the fact, these two forms of Jijnasas  are not rival to each other, because Brahma-Jijnasa nourishes the Dharma-Jijnasa in one aspect +++(śamadamādi-sādhanārtham - svasmin, jīvāntarē ca)+++ and the Dharma Jijnasa will lead to Brahma-Jijnasa in another aspect.+++(4)+++ 
 
-8 GUIDE-LiN"ES TO SHANKAR'A-VEDANTA    
+8
 
-Thus they are complementary t<;> each .other-. Hence Shan f<ara dec-tares in Brha Bhashva-2/4/10 thus:  
+Thus they are complementary to each other. Hence Shankara declares in Brha Bhashva-2/4/10 thus:  
 
-r'The Veda- is- absoluHy va ~id witfli regard to its  subj;ect-matter. Therfore those who aspire after the  well berng' mus-t accept: the verdict at the Vedas 001 J  
+> वेदस्य हि निरपेक्षं स्वार्थे प्रमाणम् … तस्माद् यत्तेनोक्तं तत् तथैव प्रतिपत्तव्यम् आत्मनः श्रेय इच्छद्भिः - ज्ञानं वा कर्म वा।  
+> 'The Veda is absolutely valid with regard to its subject-matter. … Therfore those who aspire after the  well being must accept the verdict at the Vedas on knowledge or on rites; as it is. " 
 
-~nowledge or -on rites; as it is. " -1  
+It was also shown by Shankara how the conflict with the injunctions about the rites and duties is to be resolved by a reference to the distinction between the enlightened  and unenlightened men.+++(5 kimuktam??)+++ {S-Bh-1 /3/19}  
 
-~t w 'as alsO' shown by Shankara flow the conflict witltlP  the injunctions about the- r~tes and dutFes is to be resolved  by a referel'lce to' the disttnctioo betwaeJ1i the enHg htened  and unenlightend m'en_ (5- Bh-1 /3/19}  
+According: to Shankara, the Dharma-Jijnasā i.e. the deliberation on religious matters has taken for granted the common belief of the agentship and enjoyership. It has not set out to determine the true nature of the Self. So it is authoritative in its field only. For this purpose  Shankara declares in his Adhyasa Bhashya:  
 
-A'ccording: to Shankara, the Dharma-J ijnasar f.e. the  deHberation on religious matters has taken tor granted the  common be.ief of the agentship and enjoyership. h has  ootset out to determine the true nature of the Self. So  tt is authoritative in i·1!S Held only. For this purpose  Shankara declares in his Adhyasa Bhashya:  
+> "It is a fact that a man performing religious duties or Karma does not attain the exquisite fruits of  scriptural duties unless he has acquired a knowledge through belief in the Shastras that his essential nature of Atman is separate from his body, senses  etc.+++(5)+++ Still a knowledge of the absolute Reality that  is the Self is not a pre-requisite for such a man who  is ignorant of his true nature, for the knowledge of  Reality has no relevance here, and it is opposed to  agentship of action in as much as the nature of  Atman (as taught in Vedanta) is beyond hunger and  thirst, free from such differentiation as Brahmin  caste, Kshatriya caste etc, and is not subject  to birth and death (Brha-3/5/1 & 3/4/6).+++(4)+++ And  the scriptures, which are operative before the dawn of the real knowledge of the Self cannot transgress the limits of their dependence on people grouping in  nescience"+++(4)+++  
 
-"tt is a fact that a man perform~og religious duties  or Karma does not attain the exquisite fruits of  scriptural duties unless he has acquired a knowledge  through beHef in the Shastras that his essential  nature of Atman is separate from his body, senses  etc. Still a knowledge of the absolute Reality that  is the Selt is not a pre-requisite for such a man who  is ignorant of his true nature, for the knowledge of  Reality has no relevance here, and it is opposed to  agentship of action in as much as the nature of  Atman (as taught in Vedanta) is beyond hunger and  thirst, free from such differentiation as Brahmin  caste, Kshatriya caste etc, and is not subject  to birth and death (Brha-3/5/1 & 3/4/6). And  the scr,iptures, which are operative before the dawn  of the real knowledge of the Self cannot transgress  the limits of their dependence on people grouping in,  nescience"  
+So it is evident that the scriptural texts belonging to  the Karma-Kanda is meant for those ignorant people who  do not know the essential nature of Atman. And in the  ultimate Reality of Atman, there are really no castes, no  relationships with body, sense organs, mind, intellect etc.  and no categories of the nature of action, means of action  and fruits of action at all. So Shankara distinguishes the Brahma-Jijnasa from Dharma-Jijnasa. For this reason when  he comments on the first Shariraka Sutra, he discusses as to what the word "अथ', i,e. 'afterwords' denotes. Here we have to observe that it is not the meaning of this word  that after completing Dharma-Jijnasa alone one will be fit  for Brahma-Jijnasa. But before or after the Dharma Jijnasa he who has got the pre-requisite qualities such as  
 
-1 "lf ~ R~;.r SfT+ITur:f, ~Tt{ ---.. ~\n~ a~¢{UNIVERSAL ACCEPTANCE & COMPREHENSIVE VISION OF LIFE 9    
+- (i) discrimination between eternal and non-eternal ( nityānitya-vivēka ); 
+- (ii) dispassion for the enjoyment of the  fruits of work here and here after (ihāmutrārtha-phala-bhōga-virāgaḥ)  
+- (iii) a perfection of such practices as, control of mind,  control of senses and organs etc ( śama-damādi-sādhana-sampat ); and  
+- (iv) an intense desire for liberation ( mumukṣutvañ ca ) can under take a deliberation on the Upanishadic texts for getting a  direct knowledge of Brahman. So these are the inevitably  required qualities to deal with Brahma-Jijnasa. These are  called as SadhanaChatustaya Sampatti .+++(4)+++  
 
-So it is evident that the scriptural texts belonging to  the Karma-Kanda is meant for those ignorant people who  do not know the essential nature of Atman. And in the  ultimate Reality of Atman, there are really no castes, no  relationships with body, sense organs, mind, intellect etc.  and no categories of the nature of action, means of action  and fruits of action at all. So Sharikara distinguishes the  Brahma-Jijnasa from Dharma-Jijnasa. For this reason when  he comm9nts on the first Sharlraka Sutra, he discusses as  to what the word "ap:(', i,e. 'afterwords' denotes. Here  we have to observe thalit is not the meaning of this word  th3t after completing Dharma-Jijnasa alone one will be fit  for Brahma-Jijnasa. But before or after the Dharma 
+One important difference between these two types of  deliberations on Dharma and Brahman is shown in Sūtra  Bhashya-1/1/2.  
 
-Jijnasa he who has got the pre-requisite qualities such as  (i) discrimination betwE:;en eternal and non-eternal ( T f;:r~lf!f~gfcr~-=fi: ); (ā) dispassion for the enjoyment of the  fruits of work here and here afte.r (T~'fi0~TTfP-:r~TTf:)  (āi) a perfection of such practices as ,control of min(!:I,  control of senses and 'organs etc ( :(I+r~+iTntB"T~.,@qq ); and  (iv) an intense desire for liberation ( ~Clo::q ) can under take a deliberation on the Upanishadic texts for getting a  direct knowledge of Brahman. So these are the inevitably  required qualities to deal with Brahma-Jijnasa. These are  called as SadhanaChatustaya Sampatti .  
+> न धर्मजिज्ञासायामिव श्रुत्यादय एव प्रमाणं ब्रह्मजिज्ञासायाम् ।  
+> किन्तु श्रुत्यादयो ऽनुभवादयश् च यथासम्भवमिह प्रमाणम्,  
+> अनुभवावसानत्वाद् भूत-वस्तुविषयत्वाच् च ब्रह्मज्ञानस्य ।
 
-One important difference between these two types of  deliberations on Dharma and Brahman is shown in SlItra  Bhashya-1/1/2.  
+In this sentence Shankara emphatically declares that  the deliberation on Brahman should and must culminate  in one's own intuitive experience. So here the Vedāntic Anubhava (Vedantic intuition) is also a Pramāna, but not merely the Shruti alone just as it is in the case of Dharma-Jijnasa. In the case of religious duty, the utterances of  the Shrutis etc. would be the only means of knowledge, because no direct experience is needed in support. But the knowledge of Self, which relates to an already existing entity, culminates in experience. Hence it is evident  here, that the Brahma-Jijnasa starts on the firm ground of  universal acceptence and comprehensive vision of life.  Hence this is the first fundamental of Sharikara Vedānta - relying on common experience and taking the full view of  life. As an elaboration we shall explain the significance of  common experience or universal acceptance and comprehensive vision of life in the following pages.  
 
-";=r r~T~Tfucr ~ -D ~q ~+iTui FlmT~T~t,  ftirg lfT: at~+rerT=q r~"lerf~ ~+rTI1l+l atencr- 
+### 2. UNIVERSAL ACCEPTANCE OR COMMON EXPERIENCE
 
-(,1T;;~qTct  fe.rTj:fm~"'1~6:fT II"  
+To determine the reality we have to rely on the firm  ground of common experience meaning the experiences  which are common to all irrespective of caste, creed, gender,  age, stage of life (Ashrama), time, place etc. For example,  the knowledge about fire that it is hot, the knowledge about  ice that it is cold Qr direct perception just as we see external things through our eyes (the acquisition of knowledge  through a contact of the eye with some objects) etc. These  types of common experiences never change their nature.  Shankara thus says in Brha Bhashya - 2/1/1 5 :  
 
-In this sentence Shankara emphatically declares that  the deliberation on Brahma'n should and must culminate  in one's own intuitive experience. So here the Vedāntic  Anubhaila (Vedantic intuition) is also a Pramāna, but not 
+> (i) "For a thing can never change its nature, just as  fire invariably burns and illumines straw, tender  grass etc, that come in contact with it. If it does  not, we cannot assert that fire burns or illumines"  (Brha Bh-2/1/15)  
 
-10 GUIDE-LINES TO SHANKARA-:VEDANTA    
+Shankara has hence declared in his Brahma Sātra  B hāshya-2/2/11 thus:  
 
-merely the Shruti alone just as it is in the case of Dharma- .  J ijnasa. I n the case of religious duty, the utterances of  the Shrutis etc. would be the only means of knowledge,  because no direct experience is needed in support. But  the knowledge of Self, which relates to an already exis ting entity, culminates in experience. Hence it is evident  here, that the Brahma-J ijnasa starts on the firm ground of  universal acceptence and comprehensive vision of life .  Hence this is the first fundamental of Sharikara Vedānta-· .  relying on common experience and taking the full view of  life. As an elaboration we shall explain the significance of  common experience or universal acceptance and compre hensive vision of life in the following pages.  
+> (ii) तच् च सम्यग्-ज्ञानम् एकरूपम् , वस्तुतन्त्रत्वात्। एकरूपेण ह्य् अवस्थितो योऽर्थः स परमार्थः।  लोके तद्-विषयं ज्ञानं सम्यग्-ज्ञानम् इत्युच्यते — यथाग्निर् उष्ण इति।  
+> And that true enlightenment has no diversity, since  it must conform to an existent fact (वस्तुतन्त्रवत्).  That content of knowledge is said to be the most  real since it ever remains the same and in the  world. the knowledge of that kind is said to be right  knowledge as for instance, the knowledge about fire  that it is hot.  
 
-II. UNIVERSAL ACCEPTANCE OR COMMON EXPERI..:  ENCE:  
+Here Shankara gives the example that the fire is hot this denotes the universal experience (common experience- भूयो-दर्शन). 
 
-To determine the reality we have to rely on the firm  ground of common experience meaning the experiences  which are common to all irrespective of caste, creed, gender,  age, stage of life (Ashrama), time, place etc. For example,  the knowledge about fire that it is hot, the knowledge about  ice that it is cold Qr direct perception just as we see exter 
 
-nal things through our eyes (the acquisition of knowledge  through a contact of the eye with some objects) etc. These  types of common experiences never change their · nature.  Shankara thus says in Brha Bhashya - 2/1/1 5 :  
+For this purpose he often uses such words- दृश्यते, अदर्शनात्, दृष्टत्वात्, अदृष्टत्वात् etc. in his Bhashyas.  
 
-(i) "For a thing can never change its nature, just as  fire invariably burns and illumines straw, tender  grass etc, that come in contact with it. If it does  not, we cannot assert that fire burns or illumines"  (Brha Bh-2/1/15)  
+> (iii) "In all the bodies, liquids such as secretions, blood  etc. are seen ( दृश्यते) to present in abundance."  [ s. Bh-3/1/2 ]  
 
-Sharikara.... has hence declared in his B-rahma Sātra  B hāshya-2/2/11 thus:  
+> (iv) "For the organs cannot either go or stay any where unless they have a material support, since this is contrary to experience, it is not noticed (अदर्शनात्)  in any living creature.·' [ S. Bh- 3/1/3 ]  
 
-(ā)  
+> (v) "Accordingly it is a matter of common experience  (लोके ऽनुभवः) that the nacre appears as siver and  a single moon appears as two." [-Adhyasa Bhashya]  
 
-"Q ~lflT ~r'1~ ~q){q ~tlCl ... ?k4Tcr ~6fi(qlJf ffl: ..... "' '>-. "' '"  
+So to determine the reality we have to rely on the  common experience, i.e. a truth can be called as such only  if it is acceptable and verifiable by everyone at all times.+++(4)+++  Shankara emphatically declares in Gita Bhashyas (18/16)  that, "even a hundred Shruti texts cannot be considered to  be valid if they pronounce fire to be cold or non-luminous,"  In Brha Bhashya (2/1/20) also he says: 'you cannot prove  that fire is cold or that the sun does not give heat, even by citing a hundred examples, for the facts would already be  known to be otherwise through another means of knowledge."  
 
-erer ~: er~: ~: q{+fT~:'  ~fefqlf ~r;{  'l1+lf'4I~3:fI~ ~ ,  atfT.1: ~: ~fcr II"  "' "' 
+> 1 न हि श्रुतिशतमपि ‘शीतोऽग्निरप्रकाशो वा’ इति ब्रुवत् प्रामाण्यमुपैति । 
 
-UNIVERSAL ACC.EPTANCE & COMPREHENSIVE VISION OF LIFE 1'1    
+To determine the transcendental reality Shankara has  followed the footsteps of the utterances of the Shrutis  which denote and culminate in the universal acceptance  (i-e. common to all persons) and comprehensive tri-basic  vision of life (i.e. which follows the experiences of the  three states of waking, dream and deep sleep). So the  truth should be based on this firm ground and not on the  experience of an individual soul. Shankara himself  never said that it is my own experience.+++(5)+++ He says, everything  should be proved by direct universal intuition and reasoning  based on such intuition as far as possible. The truth  should not be based merely on the utterances (study of  teachings) of any great Soul or Omniscient being or Prophet or Philosopher or the thinker, nor does it depend on  the implicit faith alone in the mere utterances of the scriptures. Truth, however, is one and what is against common  experience must be rejected, whoever says it even if he be  the Lotus-born ( Brahma). 
 
-II And that true enlightenment has no diversity, since  it must conform to an existent fact (e"4~tlQ~'5tcerT~) I  That content of knowledge is said to be the most  real since it ever remains the same and in the  world,. the knowledge of that kind is said to be right  knowledge as for instance, the knowledge about fi're  that it is hot:'  
+Strictly speaking the Advaita  Siddhanta is not creation of Shankara but it is universal  truth based on common experience. The transcendental  Reality is called as Brahman or Atman in the Upanishads and  in Gita. It is declared in these Shastras that this Reality  is the Self of all. For examples:  
 
-Here Shankara gives the example that the fire is hot this denotes the universal experience (common experience- ~!{T~:U;:r). For this purpose he often uses such words- 
+> "एक देवः सर्वभूतेषु गूढः” (Shvetashvatara-6/11)  
+> एकस् तथा सर्वभूतान्तरात्मा (Katha-2/2/9, 19, 11)  
+> क्षेत्रज्ञं चापि मां बिद्धि सर्वक्षेत्रषु (Geeta-13/2)  
+> “ईश्वरः सर्वभूतानां हृद्देशे.. तिष्ठति” (Geeta-18/61)  
+> “समोऽहं सर्वभूतेष” (Geeta-9/29) etc.  
 
-",, "at'~:{f;=rrcr" "ce.rTcr" "c~"ffi" etc. in his 
+By this we can understand that the transcendental  Reality which is taught in the Upanishads and in Gita is  the Self of all. So it should be cognised on the basis of  common experience alone and not on the individual mystic  experiences which have been gained by some practices  like Yoga, Samadhi etc. These types of individual mystic  experience are there but they are not useful to determine transcendental Reality which is called PARAMARTHAHA.+++(5)+++  ShrI Shankara has clarified that pure Consciousness which is the Witnessing Self can be cognised and experienced as  it is our own true Self which can neither be denied or  accepted. It is transcendental, but can be experienced intuitively. Shankara gives supreme importances to universal  experiences (but not on individual experiences) in determining the validity of the statement of scriptures.  
 
-~ ~ , 
+So it is proved here that to know the signifticance of  Shankara-Vedanta we should rely on the universal acceptance -common experience. This is called Sarvatrika  Anubhava (सार्वत्रिकानुभवः) . Now we shall de:al with  the comprehensive vision of life i.e पूर्णानुभव.  
 
-Bhashyas.  
+### 3. pUrNAnubhava   
+OR COMPREHENSIVE VISION OF LIFE
 
-(āi) "In all the bodies, liquids such as secretions, blood  etc. are seen ( a-) to present in abundance."  [ s. Bh-3/1/2 ]  
+#### 1 Non-vedAnta view
+A. Partial view of life according to the physical  science and all other systems of Philosophy  except Vedanta  
 
-(iv) "For the organs cannot either go or stay any where unless they have a material support, since this  is contrary to experience, it is not noticed ( ~;:rTq)  in any living creature.·' [ S. Bh- 3/1/3 ]  
+The common experience of the wor1dly life is divided  into two parts, i.e. the subject and the object. The external  world is the obiect and the perceiver of this is the subject.  All empirical experiences consist of the subject-object relationship. On this supposition all other sciences, first want  to discover the truth regarding the objects. In this process  also every science. e.g. Physics, Chemistry, Engineering  etc. takes a part and partial view of the objective world.  From this standpoint there are so many subject-matters  which, are variously divided and every science deals with a  particular subject-matter. 
 
-(v) "Accordingly it is a matter of common experience  (<it~ 3G+Je{: ) that the nacre appears as siver. and  a single moon appears as two." [-Adhyasa Bhashya]  
+Apart from this the Psychology also deals with the subject which consists of analysing the  mind of other persons and creatures which are objects  for their own mind. According to this there are so many  varieties such as human psychology, child psychology etc. Sometimes they take the subjective mind of their own and  they infer regarding the objective mind on the basement of the behaviour of other persons, creatures etc. 
 
-So to determine the reality we have to rely on the  common experience, i.e. a truth can be called as such only  if it is acceptable and verifiable by everyone at all times.  Shankara emphatically declares in Gita B hashyas (18/16  that, "even a hundred Shruti texts cannot be considered to  be valid if they pronounce· fire to be cold or non-luminous,!  In Brha Bhashya (2/1/20) also he says: 'you cannot prove  that fire is cold or that the sun does not give heat, even by  
-
-citing a hundred examples, for the facts would already be  known to be otherwise through another means of know ledge."  
-
-1 ;:r m. ij+tN ':{lmsn;:r~SI~I:m efT ~ ~ e{fl. srT+rToe{- ~qffi ( .. nffi-18/66 ) 
-
-12 GUIDE-LINES ro SHANKARA-VEDANTA    
-
-To determine the transcendental reality Shankara has  followed the footsteps of the utterances of the Shrutis  which denote and culminate in the universal acceptance  (i-e. common to all persons) and comprehensive tribasic  vision of life (i.e. which follows the experiences of the  three states of waking, dream and deep sleep). So the  truth should be based . on this firm ground and not on the  experience of an individual soul. Shankara himself  never said that it is my own experience. He says, everything  should be proyed by direct universal intuition and reasoning  based on such intuition as far as possibl·e. The truth  should not be based merely on the utterances (study of  teachings) of any great Soul or Omniscient being or Pro phet or Philosopher or the thinker, nor does it depend on  the implicit faith alone in the mere utterances of the SC(,i 
-
-ptures. Truth, however, is one and what is against common  experience must be rejected, whoever says it even if he be  the Lotus-born -( Brahm']). Strictly speaking the Advaita  Siddhanta is not creation of Shankara but it is universal  truth based on common experience. The transcendental  Reality is called as Brahm3n or Alman in the Upanishads and  in Gita. It is declared in these Shistras that this Reality  is the Self of all . For examples:  
-
-" : a~ll~:" (Shvetashvatara-6Jl1)  ~,%'Ed~r +r.~fI;:oQ(TC+IT" (Katha-2j2/9, 19, 11)  aj'~. :qrfcr +Ii Rfu ~aj';;lq" (Geeta-13/2) -D  "~ ~C1T'1t §:u···m~ffi" (Geeta-18/61)  
-
-"~m~ a~" (Geetc:.-9/29) etc.  
-
-By this we can understand that the transcendental  Reality which is taught in the Upanishads and in Gita is  the Self of all. So it should be cognised on the basis of  cOllman experience .alone and not on the individual mystic  experiences which have been gained by some practices  like Yoga, Samadhi etc. These types of individual mystic  experience are there but they are not useful to determine 
-
-1tJ~1\7ERSAL ACCEPTANCE & COMPREH ENSrVE \]ISIO'N OF LIFE 13    
-
-'transcendental Reality ·which is cailed PARAMARTHAHA.  ShrI Shankara has clarified that pure Consciousness W'tlich  =;s the Witnessing Self can be cognised arid experienced as  "it is OUT own true Self which can neither be de'nied Of  ~ccepted. 1 t is transcendental, but can be experienced i·n 
-
-tl:liti\1elv . . Shanka-a ghres SlJPreme importances to l1nhfersa1  "experieAces (but Aot OM indh:tidual experiences) j'n deteT miniAg· the validity 0f the statement of ScriptuTes.  
-
-S~ it is proved here that to know the signiftica-nce of  Shankara-\YedarHa we shoutd rely on the ~nh7ersa1 accep ltance 'Grt'he -common experience. This is -cal1ed Sarvatrika  Anubhava (B"r::pT3~3f) Now we shal1 de:al with  ahe compre~e~sive wision of Ufe .. i .e . .pā ... ~a Aroub>'1il8'\'I2)  ~T ).  
-
-!lllL POORNA ANUBHA\lA OR COMPRE14ENSQV'E  VISION OFL~FE :  
-
-A. Pa ... tiat vie·\I\l 'Of Hfe a'C'CoTdtng ·to t'he 'P·hys cal  science and all other systems ·of Ph~losophy  except ·Vedanta ..  
-
-The common experience of the wor1dly life is divided  into two parts, i.e. the subject and the object. The externa~  world is the obiect and the perceiver of this . is the subject~  All empiricai experiellces consist of the subject-object Teia 
-
-tionship. On this supposition a" other sciences, first want  to discover the truth regarding the objects. In thls process  also every science. e.g. Physics, Chem·istry, Engineering  etc. takes a part and partiat view of the objective world.  from this standpoint there are so many subject-matters  whic!, are variously divided and every science deals with a  particular subject-matter. Apart from this the Psychology  also dea's with the subject which consists of analysing the  mind of other persons and creatures which are objects  for thei r own mind. According to this there are so many  varieties such as human psychology, child psychology etc. 
-
-14 <ruroE-LiNES TO SHANf\ARA-VEDANT~    
-
-Sometimes th'eV take the sobjective m'ind of tfteir own and~  they infer regarding the objective mind on the basemen it  0' the behaviour of other persons, creatures etc. So th~  
-
-rn-af"eri'al'science ami the ps'Vchiatry which are very impor tant these da'Ys-; l1ave not got-or retied on the comprehen si\7e vision regardtng ttie oniverse. For example, even illl  
+So the material science and the psychiatry which are very important these days-; have not got -or retied on the comprehensive vision regarding the universe. For example, even illl  
 
 tfie case of a person wtllu has stodred wl10le of the solasr  system which is- the on-iv'erse, · one witl come t(l) tlJle con elus40rll t-hetin view ot there be~ng so man'l solar- Sl'stems.  in th4S vras-t universe ill willi be impossible toRRow e'telV lIhing ~n this univer·5e. From this standpmn, aU scieinces are'  dealing wāh a parl off the- universe aAd not ttle tJl'Il·iverse as.  a whoie with comprehensive 8speet. lihis is. t&ile" 1!)(!)s.iti0(il)  of the' material scientes..r  
 
