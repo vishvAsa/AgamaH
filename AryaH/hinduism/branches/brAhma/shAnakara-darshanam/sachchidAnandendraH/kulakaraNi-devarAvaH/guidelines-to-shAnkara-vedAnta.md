@@ -138,75 +138,53 @@ The common experience of the wor1dly life is divided  into two parts, i.e. the s
 
 Apart from this the Psychology also deals with the subject which consists of analysing the  mind of other persons and creatures which are objects  for their own mind. According to this there are so many  varieties such as human psychology, child psychology etc. Sometimes they take the subjective mind of their own and  they infer regarding the objective mind on the basement of the behaviour of other persons, creatures etc. 
 
-So the material science and the psychiatry which are very important these days-; have not got -or retied on the comprehensive vision regarding the universe. For example, even illl  
+So the material science and the psychiatry which are very important these days-; have not got -or retied on the comprehensive vision regarding the universe. For example, even in the case of a person who has studied the whole of the solasr system which is the universe one will come to the conclusion that in view of there being so many solar systems in the vast universe it will be impossible to know everything in this universe. From this standpoint, all scieinces are dealing with a part of the universe and not a the universe as  a whoie with comprehensive aspect. This is the position  of the material sciences.  
 
-tfie case of a person wtllu has stodred wl10le of the solasr  system which is- the on-iv'erse, · one witl come t(l) tlJle con elus40rll t-hetin view ot there be~ng so man'l solar- Sl'stems.  in th4S vras-t universe ill willi be impossible toRRow e'telV lIhing ~n this univer·5e. From this standpmn, aU scieinces are'  dealing wāh a parl off the- universe aAd not ttle tJl'Il·iverse as.  a whoie with comprehensive 8speet. lihis is. t&ile" 1!)(!)s.iti0(il)  of the' material scientes..r  
+The above sciences deal with the objects which are regulated by time, space and causation. Hence the sciences which are dealing with the part of the universe are bound  by these factors and they have no capacity to extricate  themselves from these regulations. 
 
-The- above sciences> dea'~ wirtfl tl!re obieets wlhich are regulated b, time, space and causation., Helllce tl!te sciences  'Which are dealing with too part of. the· universe are botlnd  by these factors and they have no capadt'l to e)4tr~cate  ~hemselV'es from tOOse .regw.lations.- 
+#### 2 Vedantic view
+B VEDANTIC VIEW REGARDING THE UNIVERSE
 
-If.. V£OANT.C VIEW REGARDING 'THE UNIVERSE:  
+In Vedanta the whole pnenomenon o' the universe is  divided into there planes :  
 
-fn Vedanta the wflofe pnenomenon of' the universe is  divided ~nto there ptanes :  
+- i) the Divine plaNe : Adhidaivika Prapancha   
+- ii) the Material plane- Adhibhautika Prapancha,  
+- iii) the Corporeal plane- Adhyatmika Prapancha,  
 
-i) tile Divine p"aNe :-Adhidaivika Prapancha  ā) the Materia'.plane-Adhibautika Prapancha,  'ā) the CotporeaJ pJane-Adhyatmika Prapancha,  
+The first is the divine plane which means (from the  Sanskrit root- div, to shine} the sun, the moon, the stars,  ptanets etc, Which are miltions and billions in number;  the divine worlds according to the religious beliefs such  as heavenly worlds upto Brahma- Loka- including all these,  the Vedanta takes in one group as divine plane or Adhi Daivika Prapancha. 
 
-The first is the divine plane which means (from the  Sansk-I'it root-Dlv, to shine} the sun, the moon, the stars,  ptanets etc, Which are miltions and billions in number;  the divine wol'lds according to the religious beliefs such  as heavenly worlds upto Brahma .. Loka-including all these,  the Vedanta takes in one group as divine plane or Adhi 
+The material plane means the world which we see- the  conglomeration of the five elements-  Ether, Air, Fire, Water and the Earth -  all types of bodies of all creatures, all the  things which we see and all types of scientific machines  etc, which are already invented and to be invented in future such as computers, robots, etc- all these are to be taken  in this plane, ie the material plane or Adhibhautika Prapancha_  
 
-Bivika Prapancha. 
+The corporeal plane is connected with the subject, while the above said two planes are coming in the category of the objects or the objective world. In this  corporeal plane are the body, vital force, organs of action and  sense organs, mind, intellect and feelings of sorrow and  pleasure etc, including the Me-notion are included.  This group is called as Corporeal plane Of Adhyatma Prapancha, because all these are assembled together just like any machinery like a watch assembled with dial,  springs etc.. This group is called in Vedanta as kArya-kArNa  Sanghata {Gi-13j20,. This iss the technical term of Vedanta  which denotes the corporeal plane. A these form the  third group.  
 
-ij[f1'f1'lERSA'l ACCEPTANCE & COMPRERENSIV'E VISION OF :UFE , 5    
+Besides these three planes, we have to take the infinite  idea of time, space and causation. The time-space factor  appear in our daily life as if they are real and beginningless  and endless and hence infinite. The questron will be  absked that, "In which time does the time factor appear ?  In which place the idea of space is there" Because without the concept of time or space there will be no kind  of dealings such as thinking, talking and acting. For this  purpose philosophers who started thinking regarding the  truth of time and space which are meta-physics have come  to different conclusions in this matter:  
 
-The mate:rial plane mea'RS the w-orld WhiOh we :gee-the  conglomeratitHl (!)f the five elements-:.Ether, AiT, Fire. Water  ;and the Ea.rth -; all types of eodi~s of aU ·creatures, aU the  things which we see and aM types of scientffictnachines  etc, which aTe already iA\1e"ted and to be in~entec::l in future  $uch as compllt01'S 'Vobots, etc-ali these are to be takefl  in this plaAe, ~.e~ tAe material ~-cme ~r A:ilhsibbaul!ika  ,Prapancha_  
+a) Some say that the distance between two things is  called as space and the intervening period between two  events is called as 'time'.  
 
-The corporeal plane is conceTAed 'wn'h the subjeClt,  'while t'he above said twr> 'planes aTe oomrilg ~n the cate gory of :the obi'ects or the obj'ective world. ~ n this  tCorporea1 plane rAe bedy, villal ifoTce, 'Organs of ,acti'on and  sense orgafts, mind, iflteitec't and fee1ings o'f sorrow and  pleastire etc, iJ1lclu~ing t~e liMe-notion" are ljAciuded.  This groCJp is callecil as Corporeal plane Of Adhyatm~a  'Prapancha, because a~1 1:Aese are essernb>1ed t-Ggether ,just  ~ike any machinery like a watch assembled wi~ ·.eiat,  springs etc,. This group is called in Vedanta as KiUry-a-Karanfl  Sanghat {Gi-13j20,. This;s the ttechnic:a1 term of Vedante  which denotes the corpofe81 plane. A these \form the  third gfC>UP~  
+b) Others say that the above view is not correct  because to count the things 1, 2, 3, etc. the space is required as the substratum-. So also in the case of events, without  the substratum ot time, there will be no counting of series of events.  
 
-Besides these three planes, we have to ta'ke 'the lnfinite  idea of t;me, :space and ·causation. The time-space factoT  appear in our daily life as if they are real and beg1't1n<ingless  and eAdtess and hence infinite, The questron will be  absu1ed that, ,u~n which ime does tfie t.me facto'!' eppea'r ?  • n which place the .idea of space is there 7'" Beca u~  
+c) Others hold the view that the notion of tim-e and  space- are there where there is the mind and hence these are the a priori notions of the mind.  
 
-without the -concept of time or :space theTe wiU be no kind  of dealings such as th4nking, talking and act4f1g~ For this  pltrpose philosophers who started thinking Tegarding the  truth of time and space which are meta-physics have come  to different concl,usions in this matter:  
+d) Others say that time, space and causation -  all these are relative to each other. There is no absolute time, space or causation. Neither time nor space has any existence  of its own; each exists or seems to exist only in constant relation to and association with other. So, all all dealings are coming under the relativity alone. There may be an absolute truth, it may be God (= a Great Geometer) also. This final conclusion is drawn by Einstein. 
 
-a) Some say that the distance between two things is  catted as ~space· and the intervening period between two  events is called as 'time9•  
+Here we have to remember that "bereft of time factor, there will be no  causation," because cause means that which exists  inevitably before the effect (Kārya Niyata pUrva vRttiH  KAranam). This is the judgement ot Nyaya-shastra (Indian logician). So, the idea of causation cannot be considered apart from the time factor.  
 
-b) Others say that the above view is hot correct  because to count the things 1, 2, 3, etc. the space is requir-
+The Vedantic view of the Universe comprehends an  the infinite tdea of time, space, causation etc, with  all the multiplicity of the universe including the "Me notion " and is considered as a single unit of the appearance of the universe. This whole unit of the  universe appears in the waking state. Shri Shankara explains the nature of the universe itself in a comprehensive  way in his S-Bh- 1/1/2 as foUows :  
 
-G(1/D''E-lII''r'ES TO' SRANKA~A-VEDANTA    
-
-ed. as the substratum-. So afso 'fO> tile eaSe of events, withoui  fhe' substratum ot time,. t.ble1fe wi-bt' be rtf) €oUlnting f)f series  &f events.<  
-
-c-) Oth~rs- rroid trre view trim the nuti·on of ttim-e and  spac'e- are there where there is> the miAd 8fUā nePlee these- &re toe a priori· nottiofll of the min<L  
-
-d) Otool'"S say that tpme, space and cauS8tiDn-atD  tFrese are re~at~ve to eac~ ottlerr l'here is nv absoltlte time,.  space or cal.FSat~on. Neither time I'lor s.pace ha$ any e.xistence  of its own; each e~ists or seems to e~js.t oV'llyin constant;  ,.alation to and assocj.aHon with other. So, all lh(} de~lings.  are coming under the relativity a,l·one. There· may be arll  absolute truth, ~t may be God (= a Great Geometer) also'.  
-
-This-final cO'tllclusion is drawn by Einstein. Here we have to remember that °bereft of dme factor, the,e w~1I be no  causation," because cause means that \'Al.lIloicb exjs.ts  inevitably beiore the eUect (Kārya Niyata PUl'va Vtttihi.  Karanam). This ~s the iudgement ot Nyaya-shastra ,lndiaQ  ~ogiciao). So, the idea of causation canJ'lot be cons~del!ed  ;a.part from the time factor r  
-
-The Vedantic view of the Universe comprehends an  the infinite tdea of time, space, causatio.n etc, with  all the multiplktty of the universe including the Me notion" and is cons,dered as a 5lng'e unit of the  appearance of the universe. This whole unit of the  universe appears in the waking state. Shri Shankara ex plains the nature of the universe itself in a comprehensive  way in his 'S-Bh- 1/1/2 as foUows :  
-
-" ... this universe that is manifested thrQugh name and  form, that;s associated with divers.e agents and experien cers, that provides the support for actions and results  having well-regulated space, time and causation, and that  defies all thoughts about the real nature of its creation".  
+" ... this universe that is manifested through name and  form, that is associated with diverse agents and experiencers, that provides the support for actions and results  having well-regulated space, time and causation, and that  defies all thoughts about the real nature of its creation".  
 
 This is the Vedantic view of comphrehensive vision of  the phenomenon of the universe. 
 
-UNIVERSAL ACCEPTANCE & COMPREHENSIVE VISION OF LIFE 17  C. Mathod of observing the life as a whole:    
+#### 3 Method of experiencing
+C. Method of observing the life as a whole:    
 
-The physical sciences seek the aid of instruments,  gadgets and appHances to establish their truths, and even  So they can never reach any finality because they thrive  only in one state-the waking state, discarding the universal  exper"iances of two other states of life i.e. dream-state &  deep sleep-state. This is evidently a partial view of life  
+The physical sciences seek the aid of instruments,  gadgets and appliances to establish their truths, and even so they can never reach any finality because they thrive  only in one state-the waking state, discarding the universal  experiences of two other states of life i.e. dream-state &  deep sleep-state.+++(5)+++ This is evidently a partial view of life and the truths arrived at thereby are also only partial.  But Vedanta takes into considertion the whole life in all  its manifested and unmanifested forms, i.e. the Vedanta  takes the human experiences of all the three states viz,  Waking, Dream & Deep sleep to arrive at its conclusions. So  Vedantic conclusions which are based on intuitive experiences, become irrefutable and valid for all times. No other  system of philosophy except Vedanta bases its enquiry  on a comprehensive tri-basic view of life and on the  principle of universal acceptance.  
 
-and the truths arrivp.d at thereby are also only partial.  But Vedanta takes i~to considertion the whole life in all  its manifested and unmanifested forms, i.e. the Vedanta  takes the human experiences of all the three states viz,  Waking, Dream & Deep sleep to arrive at its conclusions. So  Vedfrntic conclusions which are based on intuitive experi 
+Where there is an appearance of the waking state, the state contains the whole of the above said unit (mentioned  in the previous article No. III B). When the waking state  disappears, there is no appearance of the above said dualistic universe. For example, in deep sleep there is no  appearance of the waking state. Where there is the  appearance of the dream, in that state also another kind  of the unit of universe appears just as it is described in the  case of waking state. But when dream state disappears the whole unit of that universe also disappears.  
 
-ences, become irrefutable and valid for all times. No other  system of philosophy except Vedanta bases its enquiry  on a comprehensive tri-uasic view of life and on the  principle of universa"' acceptance.  
+So in Vedanta, the comprehensive vision of appearance  and disappearance of the dualistic world is taken together.  These two are described as manifested and unmanifested  forms of the universe. These are technical terms used in  Vedanta as Vyakta  and Avyakta  in  Gita-8/18; Sat and asat in Gita -13/12;  Kshara and Akshara  in Gita-15/16;  Vidita and Avidita in Kena-Upanishad, Murta and Amurta in Brhadaranyaka Upanishad--2/3/1 ; Sambhuti  and Asambhuti  in Ishavasyopanishad-12 etc.. Here Shankara  says the meaning of these as व्याकृत and  अव्याकृत in Sutra Bhashya-2/1j27.  
 
-Where there is an appearance of the waking state, the  state contains the wh:>le of the above said unit (mentioned  in the previous article No. III B). When the waking state  disappears, there is no appearance of the above said duali ..  stic universe For example, in deep sleep there is no  ~'ppearance of the waking state. Where there is the  appearance of the dream, in that state also another kind  of the unit of unive~e appears just as it is described in the  case of waking state. But when dream state disappears  the whole unit of that universe also disappears.  
-
-So in Vedanta, the comprehensive vision of appearance  and disappearance of the dualistic world is taken together.  These two are described as manifested and unmanilested  ferms of the univ~rse. These are technical terms used in  Vedanta as Vyakta (o!fffi) and Allyakta (3lo!fffi) in  Gita-8/18; Sat ( ~) and (31~) in Gita -13/12;  Kshara ( ~"{) and Akshara (31~) in Gita-15/16;  Vidita ( 'fef~) and A~'idita ( at'Fer~(J ) in Kena-Upanishad 
-
-18 GUIDE-LINES TO SHANKARA-VEDANTA    
-
--1/4; Murta (~) and. Amflrta (3f~) in Brha 
-
-Upanishad--2/3/1 ; Sambhilti (~fcr) and Asambhuti  ( 3fa-;: ) in Ishav asyopanishad-12 etc Here Shankara  says the meaning of these as Vyakr'a ( o?;fTm) and  A.lya·krta ( ~Tc.!iQ ) in Sutra Bhashya-2/1j27.  
-
-The revered Swamiji of Holenarsipur has given this  practical and all embracing outlook of comprehensive  vision of life while explaining Tribasic method of Vedanta,  Le. AVASTHATRAYA based on Shankara Bhashya Mandu 
-
-kya-M ;lntra-5 in his Ma Idz7kya R~hasya Vivrtihi. Here he  expl3ins th9 whole range of life which is divided into parts:  That is ar hana Vriti (-the states of waking & dream  wh9re one sees something else) and Ada.rshana Vrtti (-the  sta tes of d~ep sleep and trance wherein one sees nothing)  [ '~:~h=rrq:u;:r ~=Q~T: CtCetTsrfu~T~8dUIoI:?O:J ~TCR:lf W~Tf(-'  
-
-M an-Bh-5]. In Upanishads and in Gila the same method  is taken as shown above. Taking these both sides of life  ( = the whole of life in all its manifested and unmani fested forms) and determining the truth is an important thing  in Vedanta All types of experiences just as common  man's experiences, mystic experien es of Yogis, Upasakas  and so on, are all included in the Vyakta or Darshana Vrtti.  And in deep sleep, when there is no appearance. of the  dualistic world, it is said from the standpoint of waking  
+The revered Swamiji of Holenarsipur has given this  practical and all embracing outlook of comprehensive  vision of life while explaining Tribasic method of Vedanta,  ie. AVASTHATRAYA based on Shankara Bhashya Mandukya-Mantra-5 in his Mandukya Rahasya VivrtiH. Here he  explains the whole range of life which is divided into parts:  That is darshana Vriti (-the states of waking & dream  where one sees something else) and Adarshana Vrtti (-the  states of deep sleep and trance wherein one sees nothing)  [दर्शनादर्धनेन वृत्त्योः तत्वाप्रतिबोधलक्षणस्य स्वापस्य तुल्यत्वात् Man-Bh-5]. In Upanishads and in Gila the same method  is taken as shown above. Taking these both sides of life  ( = the whole of life in all its manifested and unmani fested forms) and determining the truth is an important thing  in Vedanta All types of experiences just as common  man's experiences, mystic experien es of Yogis, Upasakas  and so on, are all included in the Vyakta or Darshana Vrtti.  And in deep sleep, when there is no appearance. of the  dualistic world, it is said from the standpoint of waking  
 
 . state that it ( =dualisti.c world) exists in the unmanifested  seed-form, meaning that it disappears '"for the time being  etc. This experience is common to all and is called  AVl'akta or Adar:;hana Vrtti. It is an undeniable fact that  there is AO third category of experience besides the two  state.s-Darshana Vritti and Adarshana Vrtti. 1 This is com 
 
