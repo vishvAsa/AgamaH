@@ -244,29 +244,20 @@ i) Pratyaya Anubhava—the perception which comes with the contact of other obje
 
 ii) Vedana Anubhava—the emotions or feelings or mental conceptions which occur bereft of the functions of sense organs only in the mind just as anger, happiness, devotion, jealousy etc, including the mystic experiences of Yoga philosophy,+++(4)+++
 
-it is impossible to recognise that there is our true nature which is called as Anubhava Swarūpa and in which all types of experiences culminate and which is the witness of all modifications of Artahkarana including the Me-notion' and hence it is difficult to penetrate the secrets of Shankara-Vedānta. Echoing this view Shri Shankara has declared in his Sūtra-Bhāshya—1/1/4 that,
+it is impossible to recognise that there is our true nature which is called as Anubhava Swarūpa and in which all types of experiences culminate and which is the witness of all modifications of Artahkarana including the 'Me-notion' and hence it is difficult to penetrate the secrets of Shankara-Vedānta. Echoing this view Shri Shankara has declared in his Sūtra-Bhāshya—1/1/4 that,
 
-Objection: Atman being the object of the 'Me-notion it is not reasonable to say that he is known only from the Upanishads.
-
-Reply : Not so. For we have refuted this position by saying that this Ātman is the Witness of that Ego.
+> Objection: Atman being the object of the 'Me-notion' it is not reasonable to say that he is known only from the Upanishads.  
+> Reply : Not so. For we have refuted this position by saying that this Ātman is the Witness of that Ego.
 
 24
 
-GUIDE-LINES TO SHANKARA-VEDANTA
+(To explain); Leaving aside the (erroneous) knowledge of the Self as the agent (of actions ) as contained in the idea of 'I', the real Self-which is the witness of the idea of "I" which exists in all creatures, which is without any difference of degrees, and which is one, unchanging eternal, and all pervasive consciousness (such a Self) is not known as the Self of all by anyone in the section of the Vedas dealing with virtuous deeds, or in the scriptures of the logicians.+++(4)+++
 
-(To explain); Leaving aside the erroneous) know fedge of the Self as the agent of actions ) as contained in The idea of 'p', the reăt Self-which is the witness of the idea of "l" which exists in all creatures, which is without any difference of degrees, and which is one, unchanging eternał, and all pervasive consciousness (such a Self) is not known as the Self of all by anyone in the section of the Vedas dealing with virtuous deeds, op in the scriptures of the logicians.
+This is the best book of the huge building of Shankara-Vedānta. So at first an aspirant should cognise this Witness as one's own Self through the teachings of the Shāstra and the Guru. After cognising this, he will be able to take a stand in this true nature and then he will be fit to understand the secrets of the teachings of Shankara Vedānta. This is the most important principle in Shankara Vedānta.
 
-This is the best book of the Huge building of Shankara-Vedānta. So at first an aspirant should cognise this Witness as one's own Self through the teachings of the Shāstra and the Guru. After cognising this, he will be able to take a stand in this true nature and then he will be fit to understand the secrets of the teachings of Shankara Vedānta. This is the most important principle in Shankara Vedānta.
+Commonly in the empirical dealings when one wants to know something, he does so with his instruments such as mind, intellect and sense organs. With the aid of these instruments one gains the knowledge of the external phenomena. This position is called as the knowership of Pramātr̥. This Pramātr̥ is described in the above Bhāshya-sentence as Aham Pratyaya-Kartr̥ meaning, knower, doer enjoyer etc., and all these are included in one word, i.e. the 'Me-notion' or the sense of I. This type of procedure is enough to know the other objects as well as the psycological plane. But in Vedānta, it is a very difficult and subtle task as one has to cease his identification with mind-intellect-sense organs through discrimination according to the teachings of the Shāstra and the Guru.+++(5)+++ So here an introvert mind is necessarily required.
 
-Commonly in the empirical dealings when one wants to know something, he does so with his instruments such as mind, intellect and sense organs. With the aid of these instruments one gains the knowledge of the external phenomena. This position is called as the knowership of Pramātp (gerą) This Pramāts is described in the above Bhāshya-sentence as Aham Pratyaya Kart; ( TE FETTFC ) meaning, knower, doer enjoyer etc., and all these are included in one word, i.e. the 'Me-notion or the sense of \'. This type of procedure is enough to know the other objects as well as the psycological plane. But in Vedānta, it is a very difficult and subtle task as one has to cease his identification with mind-intellect-sense organs through discrimination according to the teachings of the Shāstra and the Guru, So here an introvert mind is necessarily required.
-
-When an aspirant turns inward upto the Witnessing principle of life, which is beyond the ‘Me-notion', at that time he remains as the Witness and he can objectify his own
-
-COGNISING THE WITNESSING PRINCIPLE OF LIFE
-
-25
-
-Me-notion' or 'Ego', This remaining as the Witnessing Princi ple is called here as cognising the Witnessing Principle of life. Here 'cognising' means quite unlike the cognising of the other objects. Here it is just remaining as the Self. To stay in one's own nature is called by Shankara as "fafourchta 917FTF#"-Gi-Bh-3/30 & 18/49; par C#ghafa 37CFETTAH”—Gi-Bh—18/54.
+When an aspirant turns inward upto the Witnessing principle of life, which is beyond the ‘Me-notion', at that time he remains as the Witness and he can objectify his own 'Me-notion' or 'Ego'. This remaining as the Witnessing Principle is called here as cognising the Witnessing Principle of life. Here 'cognising' means quite unlike the cognising of the other objects. Here it is just remaining as the Self. To stay in one's own nature is called by Shankara as "fafourchta 917FTF#"-Gi-Bh-3/30 & 18/49; par C#ghafa 37CFETTAH”—Gi-Bh—18/54.
 
 In this connection, one should not misunderstand that the 'remaining as the Self' means we shall attain a state like Nirvikalpa Samādhi etc., where there are no dealings. That is why Shankara has warned in S.Bh
 
@@ -460,13 +451,13 @@ COGNISING THE WITNESSIG PRINCIPLE OF LIFE
 
 meaning Ishvara. Hence the Witnessing Principle itself is Ishvara from the standpoint of the appearance and dis appearance of the universe which is conjured up by Avidyā. Hence it is wrong to hold the view that there is (shvara Sākshi (Sat-erat ) which contradicts the Shruti, reason and Bhāshya.
 
-The nature of the Witnessing Principle is non-dual one, meaning ever devoid of all types that exist in dualistic world. Hence it is described as Prapancho pashama (993 A ) in Shruti (Mān--7). But for the purpose of teaching, the witnesshood is attributed on the non-dual Self from the standpoint of “Me-notion". Strictly speak ing. there are no two entities such as Sākshi, the Witness and Ahampratyaya, the Pramāts. Through the adjuncts like Antahkarana, body etc. which are conjured up by ignorance, the same Witnessing Principle appears as if he has taken the garb of "Pramāt; or Ahampratyaya". When these adjuncts are falsified through discrimination,
+The nature of the Witnessing Principle is non-dual one, meaning ever devoid of all types that exist in dualistic world. Hence it is described as Prapancho pashama (993 A ) in Shruti (Mān--7). But for the purpose of teaching, the witnesshood is attributed on the non-dual Self from the standpoint of “Me-notion". Strictly speak ing. there are no two entities such as Sākshi, the Witness and Ahampratyaya, the Pramāts. Through the adjuncts like Antahkarana, body etc. which are conjured up by ignorance, the same Witnessing Principle appears as if he has taken the garb of "Pramātr̥ or Ahampratyaya". When these adjuncts are falsified through discrimination,
 
-the non-dual nature of the Self alone remains. At this stage of Self-realization of the Pramāts or Ahampratyaya himself remains as the Witness. This is said in the 2nd Sloka of "Bhrahmavid Gāthā' (=traditional saying) quoted by Shankara at the end of S. Bh-1/1/4 :
+the non-dual nature of the Self alone remains. At this stage of Self-realization of the Pramātr̥ or Ahampratyaya himself remains as the Witness. This is said in the 2nd Sloka of "Bhrahmavid Gāthā' (=traditional saying) quoted by Shankara at the end of S. Bh-1/1/4 :
 
 “अन्वेष्टव्यात्मविज्ञानात् प्राकप्रमातृत्वमात्मनः । अनिष्टः स्यात् प्रमातैव पाप्मदोषादिवर्जितः ॥"
 
--"Before the realization of Atman to be sought out, the Ātman is a Pramātp (=knowing agent). When the search has been finished, the Pramāts himself would become the one Supreme Witnessing Self free from all evils of good and bad and the like."
+-"Before the realization of Atman to be sought out, the Ātman is a Pramātr̥ (=knowing agent). When the search has been finished, the Pramātr̥ himself would become the one Supreme Witnessing Self free from all evils of good and bad and the like."
 
 So, the witnesshood is attributed for the purpose of teaching the non-dual Self from the standpoint of ego just like the ishvarahood is attributed on the same Witness from the standpoint of the universe.
 
@@ -476,7 +467,7 @@ GUIDE-LINES TO SHANKARA-VEDANTA
 
 V. WITNESS IS SELF-ESTABLSHED REALITY :
 
-According to Nyāya-Shāstra, the nature of the Self should be determind through Pramanas, but in Vedānta the Pramātp (= Ego sense) who is the user of Pramānas like mind, intellect, sense organs etc, is himself á Self established entity in all dealings. So Pramātr is not proved through Pramānas where as the existence of Pramānas and correctness is to be proved by the Pramāır. To know the Prameyas (her) or the objects, Pramānas are required, but not for determining the nature of the Self, even as a Pramāts. Shri Shankara says in S. Bh-2/37 .
+According to Nyāya-Shāstra, the nature of the Self should be determind through Pramanas, but in Vedānta the Pramātr̥ (= Ego sense) who is the user of Pramānas like mind, intellect, sense organs etc, is himself á Self established entity in all dealings. So Pramātr̥ is not proved through Pramānas where as the existence of Pramānas and correctness is to be proved by the Pramāır. To know the Prameyas (her) or the objects, Pramānas are required, but not for determining the nature of the Self, even as a Pramāts. Shri Shankara says in S. Bh-2/37 .
 
 "न ह्यात्मा आत्मनः प्रमाणमपेक्ष्य सिद्धाति । तस्य हि प्रत्यक्षा दीनि प्रमाणानि अप्रसिद्धप्रमेयसिद्धये उपादीयन्ते ॥"
 
@@ -494,7 +485,7 @@ In this connection one thing that should be remem bered is that in most of the e
 
 is 63774 CHRY". The meaning here is no one wants to determine one-self whether 'am' or 'not' etc, through Pramānas before going to know the outer objects. So it is ĀTMĀNAN PRAMAYA (this is the correct reading).
 
-In the empirical view when the Pramātr himself is Self-established there is no necessity to say that the nature of the Self, who is the Witness of the Pramāts should be known by Pramanas. For this reason Shankara has said here in chronological order the words SIDDHE HI ATMANI (E fe 37r54f-this denotes the true nature of the Self who is the Witness) PRAMĀTARI ( haft --this denotes that the same true nature appears as if he has taken the garb of Pramātr or Ego through the adjuncts like mind, intellect, sense organs etc.). By this it is proved that the true nature of the Self being a Witness comes first and then the same Şelf appears as Pramāt» (as per chronology). So the Witness is the Self-established one who is of the nature of pure consciousness ( अनुभवात्मक) as already said as per S.Bh-4/1/2 and no Pramānas (in truments of knowledge) are necessary to prove it. Hence there is no necessory to take view points of Nyāya Shāstra and Tarka Shastra which rely on Pramānas to prove anya thing, in Vedānta. The Self is Aprameya (THÀT).
+In the empirical view when the Pramātr̥ himself is Self-established there is no necessity to say that the nature of the Self, who is the Witness of the Pramātr̥ should be known by Pramanas. For this reason Shankara has said here in chronological order the words SIDDHE HI ATMANI (E fe 37r54f-this denotes the true nature of the Self who is the Witness) PRAMĀTARI ( haft --this denotes that the same true nature appears as if he has taken the garb of Pramātr̥ or Ego through the adjuncts like mind, intellect, sense organs etc.). By this it is proved that the true nature of the Self being a Witness comes first and then the same Şelf appears as Pramātr̥ (as per chronology). So the Witness is the Self-established one who is of the nature of pure consciousness ( अनुभवात्मक) as already said as per S.Bh-4/1/2 and no Pramānas (in truments of knowledge) are necessary to prove it. Hence there is no necessory to take view points of Nyāya Shāstra and Tarka Shastra which rely on Pramānas to prove anya thing, in Vedānta. The Self is Aprameya (THÀT).
 
 (i) Bịha—4/4/20 : "pageTA 17" 11 (ii) Gitā-2/18: "falfaTET STARTET 11"
 
