@@ -236,7 +236,7 @@ Now we have to discuss on the second fundamentat  principle. i.e. Cognising the 
 
 Tha 2nd Fundamental: Cognising the Witnessing principle of life which is the substratum of Vyakta & Avayakta.  
 
-NATURE OF WITNESSING SELF:  
+### 1 NATURE OF WITNESSING SELF  
 
 Shri Shri Satchidānandendra Saraswati Swamiji has declared that until and unless one cognises that the Witmessing principle, which is his true nature and which is called as the Witness Of Anubhava Swarūpa or Sākshi Anubhava, is quite separate from the two types of experiences such as,
 
@@ -257,55 +257,34 @@ This is the best book of the huge building of Shankara-Vedānta. So at first an 
 
 Commonly in the empirical dealings when one wants to know something, he does so with his instruments such as mind, intellect and sense organs. With the aid of these instruments one gains the knowledge of the external phenomena. This position is called as the knowership of Pramātr̥. This Pramātr̥ is described in the above Bhāshya-sentence as Aham Pratyaya-Kartr̥ meaning, knower, doer enjoyer etc., and all these are included in one word, i.e. the 'Me-notion' or the sense of I. This type of procedure is enough to know the other objects as well as the psycological plane. But in Vedānta, it is a very difficult and subtle task as one has to cease his identification with mind-intellect-sense organs through discrimination according to the teachings of the Shāstra and the Guru.+++(5)+++ So here an introvert mind is necessarily required.
 
-When an aspirant turns inward upto the Witnessing principle of life, which is beyond the ‘Me-notion', at that time he remains as the Witness and he can objectify his own 'Me-notion' or 'Ego'. This remaining as the Witnessing Principle is called here as cognising the Witnessing Principle of life. Here 'cognising' means quite unlike the cognising of the other objects. Here it is just remaining as the Self. To stay in one's own nature is called by Shankara as "fafourchta 917FTF#"-Gi-Bh-3/30 & 18/49; par C#ghafa 37CFETTAH”—Gi-Bh—18/54.
+When an aspirant turns inward upto the Witnessing principle of life, which is beyond the ‘Me-notion', at that time he remains as the Witness and he can objectify his own 'Me-notion' or 'Ego'. This remaining as the Witnessing Principle is called here as cognising the Witnessing Principle of life. Here 'cognising' means quite unlike the cognising of the other objects. Here it is just remaining as the Self. To stay in one's own nature is called by Shankara as "निष्क्रियात्म-स्वरूपावस्थानम्"-Gi-Bh-3/30 & 18/49;  "स्वात्मानुभव-निश्चय-रूपेणावस्थानम्"—Gi-Bh—18/54.
 
-In this connection, one should not misunderstand that the 'remaining as the Self' means we shall attain a state like Nirvikalpa Samādhi etc., where there are no dealings. That is why Shankara has warned in S.Bh
+In this connection, one should not misunderstand that the 'remaining as the Self' means we shall attain a state like Nirvikalpa Samādhi etc., where there are no dealings. That is why Shankara has warned in S.Bh 2/1/14, thus :
 
-2/1/14, thus :
+> “This also follows from the teaching that the embodied soul, is Brahman in essence in the passage, 'that is the That Thou art, Shvetaketo'. This identity of the embodied soul, that is taught, is a self-established truth and it is not to be accomplished through some extraneous effort. 
+> 
+> “स्वयं प्रसिद्धं हि एतत् शारीरश्य ब्रह्मात्मत्वम् उपदिश्यते, न यत्नान्तर-प्रसाध्यम्"+++(5)+++
 
-“This also follows from the teaching that the embodi ed soul, is Brahman in essence in the passage, 'that is the That Thou art, Shvetaketo'. This identity of the embodied soul, that is taught, is a self-established truth and it is not to be accomplished through some extraneous effort.
+From this it follows that like the idea of the rope removing the ideas of snake etc. ( superimposed on it ), the acceptance of the unity of the individual Self with Brahman, as declared in the scriptures, results in the removal of the idea of an individual soul bound up with the body, that is a creation of beginningless ignorance. When this false notion that embodied soul is the real Self is removed, all those activities become sublated which are based on that assumptions, which are created by ignorance, and for supplying a rationale for which a separate diversified part is imagined in Brahman. It is further shown by the Upanishad, with the help of such passages as, ‘But when to the knower of Brahman, everything has become the Self, then what should one see and through what ?' (Bpha 2/4/13) etc, that in the case of one who has realised Brahman as the Self, all empirical dealings cease that are concerned with action, instruments and results. It cannot be said that this negation of dealings (in the Self ) is confined to a certain state (during liberation only), for the identity of the Self and Brahman stated in, 'That Thou art' is not contingent on any particular state.
 
-“स्वयं प्रसिद्ध हि एतत् शारीरश्य ब्रह्मात्मत्वम् उपदिश्यते, न THTRITETETA"
+So here, the determination or the discerning factor on the firm ground of one's own intuitional experience, is the main criterion.
 
-From this it follows that like the idea of the rope re moving the ideas of snake etc. ( superimposed on it ), the acceptance of the unity of the individual Self with Brahman, as declared in the scriptures, results in the removal of the idea of an individual soul bound up with the body, that is a creation of beginningless ignorance. When this false notion that embodied soul is the real Self is removed, all those activities become sublated which are based on that assumptions, which are created by ignorance, and for supplying a rationale for which a separate diversified part is imagined in Brahman. It is farther shown by the Upanishad, with the help of such passages as, ‘But when to the knower of Brahman everything has become the Self then what should one see and through what ?' (Bpha 2/4/13) etc, that in the case of one who has realised Brahman as the Self, all empirical dealings cease that are
+### Intellectual vs intuitional experience
+II DIFFERENCE BETWEEN INTELLECTUAL EXPERIENCE AND INTUITIONAL EXPERIENCE :
 
-26
+Now we have to understand as to what is the intuitional experience, because to cognise or to take a stand in the Witnessing Principle of life, the intuitional experience ( साक्ष्यनुभव ) is the only means and not the intellectual process of thinking ( प्रमात्रनुभव).+++(5)+++ So in Vedānta when we say discrimination or Vichāra etc, it is not the thinking process of the intellect as being an Ego, but the introvert process of relying on the intuitional experience of life, and only here one will realise one's own intuitional Self which is separate from the intellect or the mind. Even though the mind is required to follow the intuitional experience, here, it turns inwardly unlike its habitual flow towards the outer objects through the sense organs. That is why Shankara says :
 
-GUIDE-LINES TO SHANKARA-VEDANTA
+> "-The mind that is purified by the instructions of the scriptures and the teacher, and control of body and sense organs etc. become the instrument for realizing the Self“. (Gi-Bh--2/21)
 
-concerned with action, instruments and results. It cannot be said that this negation of dealings (in the Self ) is confined to a certain state (during liberation only), for the identity of the Self and Brahman stated in, 'That Thou art' is not contingent on any particular state."
+So at first the aspirant should discriminate the intuional experience from the intellectual process of thinking. The discriminating process is given below:
 
-So here, the determination or the descerning factor on the firm ground of one's own intuitional experience, is the main criterion.
+How do we know that there is 'Me-notion'? How do we know that 'I dreamt' or 'I slept happily'? How do we know that I am awake now' ? Commonly all are puzzled and think that they know these things through their mind. But strictly speaking, the mind has no capacity to objectify the “Me-notion", because one generally says, 'My mind is wandering here and there' etc. So the 'Me-notion' is the user of the mind. The mind which concerns to the waking state has no capacity to extricate itself from this state and pass on to the other states such as dream or sleep. Suppose the waking mind really goes to the dream, then it would have said that I have come here temporarily from the waking state etc," just as a man says when he travels temporarily to other places from where he originally belongs to But in our experience we do not find such a happening in the dream state.+++(4)+++ And in deep sleep there is no trace of mind at all. This is in the experience of all. If it is there, it would not be called as deep sleep. So, the presence or the absence of the mind is understood through one's own nature of Witnessing Principle of life and it is expressed through the mind and the intellect taking the grab of 'Me-notion'. Due to lack of this deep discrimination all wrongly think that 'we know everything through mind or intellect.' Hence through the teachings of the Guru and the Shastra, we have to discriminate the intuitional experience ( बोधिज-प्रत्यय) from the intellectual process of thinking ( बौद्ध-प्रत्यय ).
 
-Il DIFFERENCE BETWEEN INTELLECTUAL EXPERI
+In the above said manner when we say 'I dreamt' or 'I slept happily.' -- these experiences are called as intuitional experiences in Vedānta, The word Intuition ( अनुभव ) has got different meanings according to dictionary but here in Vedānta the meaning of this word is :
 
-ENCE AND INTUITIONAL EXPERIENCE :
+'Tuition' (=Bodha or knowledge) which comes from 'in' (=inside) to the intellect, so it is called as Intuitional experience. 
 
-Now we have to understand as to what is the intui tional experience, because to cognise or to take a stand in the Witnessing Principle of life, the intuitional experience ( Ara 31177 ) is the only means and not the intellectual process of thinking ( FAIZ 37THET). So in Vedānta when we say discrimination or Vichāra (fe ) etc, it is not the thinking process of the intellect as being an Ego, but the introvert process of relying on the intuitional experi ence of life, and only here one will realise one's own intuitional Self which is separate from the intellect or the mind. Even though the mind is required to follow the intuitional experience, here, it turns inwardly unlike its habitual flow towards the outer objects through the sense organs. That is why Shankara says :
-
-"-The mind that is purified by the instructions of the scriptures and the teacher, and control of body and sense organs etc. become the instrument for realizing the Self“.
-
-(Gi-Bh--2/21)
-
-So at first the aspirant should discriminate ihe in tuional experience from the intellectual process of thinking. The discriminating process is given below:
-
-How do we know that there is 'Me-notion'? How do we know that 'I dreamt' or 'I slept happily'? How do we know that I am awake now' ? Commonly all are puzzled
-
-COGNISING THE WITNESSING PRINCIPLE OF LIFE
-
-27
-
-and think that they know these things through their mind. But strictly speaking, the mind has no capacity to objectify the “Me-notion", because one generally says, 'My mind is wandering here and there' etc. So the 'Me-notion' is the user of the mind. The mind which concerns to the waking state has no capacity to extricate itself from this state and pass on to the other states such as dream or sleep. Suppose the waking mind really goes to the dream, then it would have said that I have come here temporarily from the waking state etc," just as a man says when he travels temporarily to other places from where he originally belongs to But in our experience we do not find such a happening in the dream state. And in deep sleep there is no trace of mind at all. This is in the experience of all. !f it is there it would not be called as deep sleep. So, the presence or the absence of the mind is understood through one's own nature of Witnessing Principle of life and it is expressed through the mind and the intellect taking the grab of 'Me-notion'. Due to lack of this deep discrimina tion all wrongly think that 'we know everything through mind or intellect." Hence through the teachings of the Guru and the Shastra, we have to discriminate the intuitional ex perience ( T TT) from the intellectual process of thinking ( stagiiu ).
-
-in the above said manner when we say 'I dreamt' or 'I slept happily.' -- these experiences are called as intui tional experiences in Vedānta, The word Intuition ( अनुभव ) has got different meanings according to dictionary but here in Vedānta the meaning of this word is :
-
-Tuition' (=Bodha or knowledge) which comes from 'in' (=inside) to the intellect, so it is called as Intuitional ex perience. To get these experiences there is no need of any of the activities or functions of the sense organs or the mind. It comes directly from the inner bosom which is our true nature. So our nature which is absolute nature of consciousness directly reminds the experiences of dream and deep sleep to the waking mind. So in Vedāntic termi
-
-28
-
-GUIDE-LINES TO SHANKARA-VEDANTA
-
-nology it is called as Sakshi Anubhava ( साक्षी अनुभव ) This Sākshi Anubhava is quite separate from Anubhavas which have been described above as perceptions, concep tions etc.
+To get these experiences there is no need of any of the activities or functions of the sense organs or the mind. It comes directly from the inner bosom which is our true nature. So our nature which is absolute nature of consciousness directly reminds the experiences of dream and deep sleep to the waking mind. So in Vedāntic terminology it is called as Sakshi Anubhava ( साक्षी अनुभव ) This Sākshi Anubhava is quite separate from Anubhavas which have been described above as perceptions, conceptions etc.
 
 When we are in the range of perceptions or emotions (conceptions), inevitably we have taken the identification with our mind and sense organs. But when we turn our observations towards this intuitional experience, at that time we lose our identification with our mind or the Antahkarana and automatically we remain in our true nature and objectify the Antahkarana by our true nature. This is the difference between the ordinary thinking process of the mind and the discriminating process of Vedānta. For this purpose it is said that Viveka or Vichāra does not mean the ordinary process of thinking of the intellect. To take a stand in one's own true nature of the Witnessing Principle of life, this type of discrimination is the only means and through this means only the cognition of the Witnessing Principle of life, meaning getting Sākshi Anubhava is possible. From this standpoint when one follows the Vedāntic teachings one will easily grasp and realise at last the non-dual absolute Self as the whole and sole reality.
 
