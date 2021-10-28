@@ -240,9 +240,9 @@ NATURE OF WITNESSING SELF:
 
 Shri Shri Satchidānandendra Saraswati Swamiji has declared that until and unless one cognises that the Witmessing principle, which is his true nature and which is called as the Witness Of Anubhava Swarūpa or Sākshi Anubhava, is quite separate from the two types of experiences such as,
 
-i) Pratyaya Anubhava—the perception which comes with the contact of other objects through sense organs, and Vedana Anubhava—the emotions or feelings or mental conceptions which occur bereft of the functions of sense organs only in the mind just as anger, happiness, devotion, jealousy etc, including the mystic experiences of Yoga philosophy,
+i) Pratyaya Anubhava—the perception which comes with the contact of other objects through sense organs, and 
 
-ii)
+ii) Vedana Anubhava—the emotions or feelings or mental conceptions which occur bereft of the functions of sense organs only in the mind just as anger, happiness, devotion, jealousy etc, including the mystic experiences of Yoga philosophy,+++(4)+++
 
 it is impossible to recognise that there is our true nature which is called as Anubhava Swarūpa and in which all types of experiences culminate and which is the witness of all modifications of Artahkarana including the Me-notion' and hence it is difficult to penetrate the secrets of Shankara-Vedānta. Echoing this view Shri Shankara has declared in his Sūtra-Bhāshya—1/1/4 that,
 
