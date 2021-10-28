@@ -269,7 +269,7 @@ From this it follows that like the idea of the rope removing the ideas of snake 
 
 So here, the determination or the discerning factor on the firm ground of one's own intuitional experience, is the main criterion.
 
-### Intellectual vs intuitional experience
+### 2 Intellectual vs intuitional experience
 II DIFFERENCE BETWEEN INTELLECTUAL EXPERIENCE AND INTUITIONAL EXPERIENCE :
 
 Now we have to understand as to what is the intuitional experience, because to cognise or to take a stand in the Witnessing Principle of life, the intuitional experience ( साक्ष्यनुभव ) is the only means and not the intellectual process of thinking ( प्रमात्रनुभव).+++(5)+++ So in Vedānta when we say discrimination or Vichāra etc, it is not the thinking process of the intellect as being an Ego, but the introvert process of relying on the intuitional experience of life, and only here one will realise one's own intuitional Self which is separate from the intellect or the mind. Even though the mind is required to follow the intuitional experience, here, it turns inwardly unlike its habitual flow towards the outer objects through the sense organs. That is why Shankara says :
@@ -284,11 +284,12 @@ In the above said manner when we say 'I dreamt' or 'I slept happily.' -- these e
 
 'Tuition' (=Bodha or knowledge) which comes from 'in' (=inside) to the intellect, so it is called as Intuitional experience. 
 
-To get these experiences there is no need of any of the activities or functions of the sense organs or the mind. It comes directly from the inner bosom which is our true nature. So our nature which is absolute nature of consciousness directly reminds the experiences of dream and deep sleep to the waking mind. So in Vedāntic terminology it is called as Sakshi Anubhava ( साक्षी अनुभव ) This Sākshi Anubhava is quite separate from Anubhavas which have been described above as perceptions, conceptions etc.
+To get these experiences there is no need of any of the activities or functions of the sense organs or the mind. It comes directly from the inner bosom which is our true nature. So our nature which is absolute nature of consciousness directly reminds the experiences of dream and deep sleep to the waking mind. So in Vedāntic terminology it is called as Sakshi Anubhava ( साक्षी अनुभव ). This Sākshi Anubhava is quite separate from Anubhavas which have been described above as perceptions, conceptions etc.
 
-When we are in the range of perceptions or emotions (conceptions), inevitably we have taken the identification with our mind and sense organs. But when we turn our observations towards this intuitional experience, at that time we lose our identification with our mind or the Antahkarana and automatically we remain in our true nature and objectify the Antahkarana by our true nature. This is the difference between the ordinary thinking process of the mind and the discriminating process of Vedānta. For this purpose it is said that Viveka or Vichāra does not mean the ordinary process of thinking of the intellect. To take a stand in one's own true nature of the Witnessing Principle of life, this type of discrimination is the only means and through this means only the cognition of the Witnessing Principle of life, meaning getting Sākshi Anubhava is possible. From this standpoint when one follows the Vedāntic teachings one will easily grasp and realise at last the non-dual absolute Self as the whole and sole reality.
+When we are in the range of perceptions or emotions (conceptions), inevitably we have taken the identification with our mind and sense organs. But when we turn our observations towards this intuitional experience, at that time we lose our identification with our mind or the Antahkarana and automatically we remain in our true nature and objectify the Antahkarana by our true nature.+++(5)+++ This is the difference between the ordinary thinking process of the mind and the discriminating process of Vedānta. For this purpose it is said that Viveka or Vichāra does not mean the ordinary process of thinking of the intellect. To take a stand in one's own true nature of the Witnessing Principle of life, this type of discrimination is the only means and through this means only the cognition of the Witnessing Principle of life, meaning getting Sākshi Anubhava is possible. From this standpoint when one follows the Vedāntic teachings one will easily grasp and realise at last the non-dual absolute Self as the whole and sole reality.
 
-111. THE WITNESS AS DISTINCT FROM ACTIVE EGO.
+### 3 Witness vs active ego
+III. THE WITNESS AS DISTINCT FROM ACTIVE EGO.
 
 Process of Discrimination
 
