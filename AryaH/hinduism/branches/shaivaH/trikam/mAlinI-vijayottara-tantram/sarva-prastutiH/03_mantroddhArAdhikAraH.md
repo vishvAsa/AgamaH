@@ -190,9 +190,6 @@ At first, this Sakti was of two- kinds, but again it has many varieties  (contin
 </details>
 
 
-
-
-
 बीजमत्र शिवः शक्तिर्योनिरित्यभिधीयते ।  
 वाचकत्वेन सर्वापि शम्भोः शक्तिश्च सस्यते ॥ १२ ॥
 
