@@ -209,7 +209,7 @@ In accordance with the divine will, this limited soul (who is siva and who has a
 
 <details><summary>English</summary>
 
-27. This power of Maya Sakti creatod Kala-tattwa from which Purushatattva is born, which (Purushatattva) after getting the strength of doership, produced Vidya Tattva, i.e. impure Vidya, and Raga Tattva (attachment).
+27. This power of Maya Sakti created Kala-tattwa from which Purushatattva is born, which (Purushatattva) after getting the strength of doership, produced Vidya Tattva, i.e. impure Vidya, and Raga Tattva (attachment).
 
 </details>
 
