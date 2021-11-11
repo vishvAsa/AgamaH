@@ -204,7 +204,7 @@ Consciousness joins other building blocks of the universe like space, time, mass
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 एतच्च संशयराहित्यादिकं यथा क्षुद्र(पिशाचादि)ग्रहेष्व् अपि यथाऽधिकतरमात्रया दृश्यते ।  
-तद्यथाऽस्मिन् दृश्ये प्रारम्भनिमेषे - [Hattori Honzo restaurant scene](https://www.youtube.com/watch?v=rIr6rEndy0A) । अथवाऽत्र - [Last samurai - no mind scene](https://www.youtube.com/watch?v=NbecIBvR3mE) , [Bruce Lee teaching scene](https://www.youtube.com/watch?v=cm0uSVvjsOA) इत्य् अत्र वा।
+तद्यथाऽस्मिन् दृश्ये प्रारम्भनिमेषे - [Hattori Honzo restaurant scene](https://www.youtube.com/watch?v=peP8CsCw09Y) । अथवाऽत्र - [Last samurai - no mind scene](https://www.youtube.com/watch?v=NbecIBvR3mE) , [Bruce Lee teaching scene](https://www.youtube.com/watch?v=cm0uSVvjsOA) इत्य् अत्र वा।
 
 </details>
 
