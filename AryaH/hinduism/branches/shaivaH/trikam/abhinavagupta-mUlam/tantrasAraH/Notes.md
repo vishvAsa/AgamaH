@@ -322,47 +322,6 @@ etc., until finally one is able to offer oneself.
 ## 05
 Chapter Five 
 
-
-[^64]:
-
-    Some technical terms connected with the concept of repose (viśranti) are known as pragānada, udbhava, kampa, nidrā, and ghurṇi. Their meanings are as follows: when the yogin utilizes the means related to the body to attain the highest reality, he experi ences a sort of delight which is the result of his intention toward fullness (pūrṇatā). The emergence of delight occurs only at his contact with fullness. When the yogin remains absorbed in that delightful state (even for moment), his firm conviction regarding his identity with body is severed as if with the flash of light of consciousness. Then he experiences a sudden "upward movement" known as “a jump upward” (udbhava). This takes place because the pull in the opposite direction becomes absent. As all the bonds functioning in the lower regions are cut off by the light, this upper pull leads the aspirant to feel and attain his own innate potency, the energy of which cuts off all the bonds of ignorance. This state is technically known as kampa, which literally means shaking. Then the state that follows is called nidrā. At this state all external sense organs cease to function, and even the internal ones stop to func tion properly. Hence he feels a kind of slumber which is a tempo rary state, for when he attains steadiness in pure consciousness, he experiences the immanence of consciousness and is able to realize that all, whatever that might be, is, in essence, consciousness. With this direct realization he wanders or whirls (ghūrṇate), that is, arrives at the state of vibrate consciousness, until finally the state of great pervasiveness (mahāvyāpti) begins to shine forth. The effect of this is that his ignorance, which is his firm conviction in the form of conceiving the nonself as the self, is destroyed first. This is followed by the destruction of the conviction of conceiving the self as nonself. Finally, the yogin directly realizes the true nature of the Self. 
-
-[^65]:
-
-    The five states like waking, etc., are related to the triangle centrally 
-
-located in the mūlādhāra, where the delight is experienced. The bulb is the location of udbhāva, kampa is experienced in the heart, the palate is the place of the sleep (nidrā), while the whirl (ghūrṇi) 
-
-is experienced at the end of twelve' (dvādaśānta). 
-
-[^66]:
-
-    The absolute state of the heart of repose which is attained through 
-
-uccāra is technically known as unmanifest [linga). This linga is of three types, i.e., avyakta, vyaktāvyakta, and vyakta. Avyakta linga is characterized by absorption (līnam) where everything loses its individuality. However, it is only experienced while one remains unified with it. It is this state from which the universe emerges and where it finally goes to rest. The manifested-unmanifested (vyakta vyakta) form of linga is of the nature of absorption with highest reality, which shines in the form, “I am This." Therefore, it is related to the pure level of dynamic energy on the one hand, and on230 NOTES 
-
-the other, to the objective world. The manifest (vyakta) linga is of the nature of cognition in which I-Consciousness becomes subordi nated and manifests itself as if distinct from it and therefore shines as "This.” However, even at this level it does not lose its pure 
-
-nature of consciousness. 
-
-[^67]:
-
-    The movement of vital energy is of two kinds. The first one is vibra 
-
-tive and natural, while the other is of the nature of activity and is born of effort. The dynamic movement of the vital energy is ever associated with a sound which is known as unstruck sound (anāhata). It goes on sounding automatically in the heart of every living being. There is none to utter it or to stop it. All the phonemes abide inseparably in it. Furthermore, yogins experience two dis tinct aspects of nāda. The first is ever shining which does not have any rest. It only rises once and remains shining forever. Another aspect of nāda is one which rises but which also sets. However, the subtle nāda where all the phonemes inseparably abide is known as the unmanifest sound. Two seed mantras (bījas) called sr̥ṣṭi and samhāra are its manifested forms. In other words, nada is cog 
-
-nized by the help of these seed syllables. 
-
-[^68]:
-
-    These are the letters from "ka" varga to the end of “pa” varga. In 
-
-this context they are used as mantras. 
-
-[^69]:
-
-    Samaya is known as convention, i.e., a supposed relation between words and their meanings. 
-
 Chapter Six 
 
 [^70]:
