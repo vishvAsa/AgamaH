@@ -319,33 +319,7 @@ etc., until finally one is able to offer oneself.
 
     Śrīpūrva is another name for the Mālinivijayottara Tantra. 
 
-## 05
-Chapter Five 
-
-Chapter Six 
-
-[^70]:
-
-    The vital air is 'of the nature of universal vibration' (sāmânyaspan 
-
-dana), which assumes the form of 'individual vibration' (visesa spanda) known as prāṇa, apāna, samāna, udāna, and vyāna. These five prāṇas are locations that must be harnessed for the 
-
-attainment of supreme reality. 
-
-[^71]:
-
-    The external objects to which one could take recourse for the attain 
-
-ment of the highest reality are: a sacred diagram (mandala), an altar, vessels, rosary beads, scriptures, the symbolic form of śiva, a human skull (tūra), a form made of plaster or a painting, or an image or statue in the likeness of one's teacher, etc. They may be 
-
-NOTES 231 
-
-. 
-
-employed in any number and exhibit a wide variation in specific form, provided one recognizes the object's purpose is attaining the 
-
-highest reality. 
-
+## 06
 [^72]:
 
     The procedure regarding the vital air (prāṇa) is discussed first 
