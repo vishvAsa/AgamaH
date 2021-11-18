@@ -320,34 +320,6 @@ etc., until finally one is able to offer oneself.
     Śrīpūrva is another name for the Mālinivijayottara Tantra. 
 
 ## 06
-[^72]:
-
-    The procedure regarding the vital air (prāṇa) is discussed first 
-
-because in its creative upsurge, consciousness first assumes the nature of prāṇa. For this reason, one desirous of the attainment of supreme reality first takes recourse in prāṇa. Furthermore, all the 'six paths' (ṣaďadhvās) are supposed to abide in prāṇa. In the Tan trāloka, Abhinavagupta writes: “The former of the sixfold paths, which again is threefold, is known as the path of time. Clearly this 
-
-path is established in the vital energy (prāṇa)" (TĀ 
-
-[^6]:
-
-    37). 
-
-[^73]:
-
-    Manifestation or luminous shining forth of entities occurs in a two 
-
-fold way: either by following a sequential order or manifesting without any sequence. The former shines through the relation of cause and effect, i.e., the cause shines prior to the effect, which comes later. When it shines without any sequential order, for exam ple, the knowledge arising from the perception of a painting appears as a unified whole in which priority and posteriority shine at the same time. The author states elsewhere that the 'mutative activity' (kalana) is responsible for the manifestation of all six paths which are distinct from one another, and also for those enti ties in their respective forms of limitations. Both sequence and non-sequence shine in the vital energy, which is one of the activi ties of time. As it causes mutations, divisions, and change, it is known as kāla, which is derived from the verbal root "kal," one of 
-
-the meanings of which is to cause change. 
-
-[^74]:
-
-    Consciousness is eternal. It is free from the fetters of space and 
-
-time. The Lord, who is in essence light, on account of his free will, creates the universe composed of sentient subjects and their objects. This is done by the power of time called Kālī, the dynamic energy which is the cause that creates change in external and internal enti ties. However, it is relevant to note here that consciousness in its 
-
-essence is entirely free from change. 
-
 [^75]:
 
     The power of time, which is inseparably associated with conscious 
