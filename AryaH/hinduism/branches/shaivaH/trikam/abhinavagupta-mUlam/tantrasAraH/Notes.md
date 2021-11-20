@@ -320,18 +320,6 @@ etc., until finally one is able to offer oneself.
     Śrīpūrva is another name for the Mālinivijayottara Tantra. 
 
 ## 06
-[^75]:
-
-    The power of time, which is inseparably associated with conscious 
-
-ness (samvit), causes everything to manifest externally. The result 
-
-232 NOTES 
-
-of this mutation is that the very consciousness itself assumes the nature of vital energy, in which all forms begin to shine forth. However, in this process of externalization, consciousness by its free will separates the universe from itself. At that time it cognizes, "I transcend everything." This is the experience characteristic of the void (sūnya) of consciousness. This void of consciousness seems to be static. However, dynamism in the form of a slight vibrating pulsation begins to show itself. When this happens, the first creative flow begins to proceed outwardly into manifestation. 
-
-This flow is not the flow of consciousness but of the vital energy. 
-
 [^76]:
 
     When the power of activity becomes predominant, the entire cre 
