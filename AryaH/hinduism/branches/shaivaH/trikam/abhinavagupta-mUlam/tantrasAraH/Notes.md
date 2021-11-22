@@ -320,22 +320,6 @@ etc., until finally one is able to offer oneself.
     Śrīpūrva is another name for the Mālinivijayottara Tantra. 
 
 ## 06
-[^76]:
-
-    When the power of activity becomes predominant, the entire cre 
-
-ation shines.forth in a twofold. way. First is the path of time (kālādhva), and second is the 'pāth of space' (deśādhva). The path of time consists of three forms known as varṇa, mantra, and pada. The path of space has also three divisions, i.e., kalā, tattva, and 
-
-bhuvana. 
-
-[^77]:
-
-    Normally the movement of the vital air proceeds from the 'region of 
-
-the bulb' located below the generative organ and the anus. However, no spiritual result can possibly be attained by the normal movement of the breath. Therefore, the vital breath should be made to flow from the heart by one's own effort. The śaktis named vāmā, jyest hā, and raudrī belong to the prabhu śakti and impel the movement of the breath, either singly or in combination. While the śaktis related to the Lord, one's own power, and the vital energy jointly all cause the vital breath to move upwards, at different times they assume the dominant and subordinate roles with respect to one another. When the vāmāśakti aspect of prabhu becomes predomi nant, the person remains inclined toward the world and material objects; when the jyeṣthāśakti aspect of prabhu assumes domi nance, it brings about the enlightenment of the aspirant; the raudri aspect of prabhu keeps a person linked to the world, but at the same 
-
-time it helps him to attain identity with śiva. 
-
 [^78]:
 
     In the movement of the breath from the heart up to the 'end of 
