@@ -320,24 +320,6 @@ etc., until finally one is able to offer oneself.
     Śrīpūrva is another name for the Mālinivijayottara Tantra. 
 
 ## 06
-[^78]:
-
-    In the movement of the breath from the heart up to the 'end of 
-
-twelve' (dvādaśānta), the vital air occupies the space of thirty-six digits in length. If the four quarters of the day are supposed to exist 
-
-NOTES 233 
-
-J 
-
-. O 
-
-mni 
-
-there, then nine digits is the length of one quarter. One half of a tuṭi 
-
-is the time of the junction (sandhi). 
-
 [^79]:
 
     The day is the period when the sun shines and the moon, in the form 
