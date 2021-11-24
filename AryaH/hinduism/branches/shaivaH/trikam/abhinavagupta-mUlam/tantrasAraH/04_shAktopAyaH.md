@@ -4,39 +4,209 @@ title = "04 शाक्तोपायः"
 +++
 चतुर्थमाह्निकम् । 
 
-अथ शाक्तोपायः तत्र यदा विकल्पं क्रमेण संस्कुरुते समनन्तरोक्तस्वरूपप्रवेशाय, तदा 
+अथ शाक्तोपायः ।
 
-TANTRASĀRA 67 
+## विकल्प-संस्कृति-प्रामुख्यम्
+तत्र यदा विकल्पं क्रमेण संस्कुरुते समनन्तरोक्त-स्वरूप-प्रवेशाय  
+तदा भावना-क्रमस्य सत्-तर्क--सद्-आगम--सद्-गुरूपदेश-पूर्वकस्य अस्ति उपयोगः । 
 
-भावनाक्रमस्य सत्तर्कसदागमसद्गुरूपदेशपूर्वकस्य अस्ति उपयोगः । तथाहि विकल्पबलात् एव जन्तवो बद्धम् आत्मानम् अभिमन्यन्ते, स अभिमानः संसारप्रतिबन्धहेतुः, अतः प्रतिद्वन्द्विरूपो विकल्प उदितः संसारहेतुं विकल्पं दलयति इति अभ्युदयहेतुः । स च एवं-रूपः समस्तेभ्यः परिच्छिन्नस्वभावेभ्यः शिवान्तेभ्यः तत्त्वेभ्यो यत् उत्तीर्णम्, अपरिच्छिन्नसंविन्मात्ररूपं तदेव च परमार्थः, तत् वस्तु व्यवस्थास्थानं, तत् विश्वस्य ओजः, तेन प्राणिति विश्वम्, तदेव च अहम्, अतो विश्वोत्तीर्णो विश्वात्मा च अहम् इति । स च अयं मायान्धानां न उत्पद्यते सत्तर्कादीनाम् अभावात् । वैष्णवाद्या हि तावन्मात्र एव आगमे रागतत्त्वेन नियमिता इति न ऊर्ध्वदर्शनेऽपि तदुन्मुखतां भजन्ते, ततः सत्तर्कसदागमसदुरूप दइशद्वेषिण एवं | यथोक्तं पारमेश्वरे 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-'वैष्णवाद्याः समस्तास्ते विद्यारागेण रजिताः | न विन्दन्ति परं तत्त्वं सर्वज्ञज्ञानवर्जिताः ।।' इति । 
+गुणान्तरोत्पादनं **संस्कारः**, स चाभ्यासातिशय-तारतम्येन भवति ।
+</details>
 
-Chapter Four When, for the purpose of attaining one's own innate nature (sva bhāva), thought constructs[^32] are gradually purified,[^33] as described in the previous chapter, the course of meditation (bhāvanā), pre ceded by right reasoning, study of appropriate āgama texts, and instruction by a teacher, becomes essential. It is because of the power of thought constructs (vikalpa) that living beings wrongly conceive of themselves[^34] as bound. A firm conviction (abhimana) regarding one's own nature becomes the cause of freedom from samsāra. When this new vikalpa arises,35 it neutralizes those vikalpas which are the cause of bondage. This new vikalpa becomes the cause of ascent (abhyudaya), enabling one to attain his or her own innate nature. This is as follows: The supreme reality is unlimited by nature and consists of an undivided singu larity of consciousness. It transcends all the principles of limited nature which terminate in śiva. This renders stability to all and is the vitality of the universe. Through it the universe 'throbs' with life, and that is "I" (aham). Therefore, I am both transcendent 
+<details><summary>English</summary>
 
-68 TANTRASĀRA 
+Chapter Four
 
-and immanent. This kind of conviction, however, does not arise in those blinded by māyā, because they lack right reasoning (sat tarka), etc. Vaisnavas and others are restricted to their own scrip tures by the principle of attachment (rāga). For this very reason, they show no interest in studying superior agamas in spite of their being available. In this way, they show jealousy in regard to right reasoning, right scriptures (agama), and the correct instruction of a teacher. As it is said in the Parameśvara Āgama: 
+When, for the purpose of attaining one's own innate nature (sva bhāva), thought constructs[^32] are gradually purified,[^33] as described in the previous chapter, the course of meditation (bhāvanā), preceded by right reasoning, study of appropriate āgama texts, and instruction by a teacher, becomes essential.
 
-All the Vaisnavas, etc., are restricted by their attach ment to limited knowledge. They fail to understand the nature of the supreme reality only because they are devoid of knowledge.emerging from omniscience. तस्मात् शांभवदृढशक्तिपाताविद्धा एव सदागमादिक्रमेण विकल्पं संस्कृत्य परं स्वरूपं प्रविशन्ति । ननु इत्थं परं तत्त्वं विकल्प्यरूपं स्यात् ?, मैवम् - विकल्पस्य द्वैताधिवासभङ्गमात्रे चरितार्थत्वात्, परं तत्त्वं तु सर्वत्र सर्वरूपतया स्वप्रकाशमेव इति न तत्र विकल्पः कस्यैचित् उपक्रियायै खण्डनायै वा तत्र अतिदृढशक्तिपाताविद्धस्य स्वयमेव सांसिद्धिकतया सत्तर्क उदेति, योऽसौ देवीभिः दीक्षित इति उच्यते । अन्यस्य आगमक्रमेण इत्यादि सविस्तरं शक्तिपातप्रकाशने वक्ष्यामः | किं तु गुरोरागमनिरूपणे व्यापारः, तथाविधविकल्पप्रबन्ध एव सत्तर्क इति उक्तः, स एव च भावना भण्यते अस्फुटत्वात् भूतमपि अभूतमिवस्फुटत्वापादनेन भाव्यते यया इति । न च अत्र सत्तर्कात् शुद्धविद्याप्रकाशरूपात् ऋते अन्यत् योगाङ्गं साक्षात् उपायः, तपःप्रभृतेः नियमवर्गस्य, अहिंसादेश्च यमप्रकारस्य, पूरकादेः प्राणायामवर्गस्य वेद्यमात्रनिष्ठत्वेन क इव संविदि व्यापारः | प्रत्याहारोऽपि करणभूमिमेव सातिशयं कुर्यात्, ध्यानधारणासमाधयोऽपि यथोत्तरम् अभ्यासक्रमेण निर्वय॑माना ध्येयवस्तुतादात्म्यं ध्यातुः वितरेयुः । अभ्यासश्च परे तत्त्वे शिवात्मनि स्वस्वभावे न संभवत्येव । संविद्रूढस्य प्राणबुद्धिदेहनिष्ठीकरणरूप ो हि अभ्यासः-भारोद्वहनशास्त्रार्थबोध-नृत्ताभ्यासवत्, संविद्रूपे तु न किंचित् आदातव्यं न अपसरणीयम् इति कथम् अभ्यासः । 
+[^32]:
 
-Therefore, only those keenly touched by the energy of Śiva, 
+    The thought constructs (vikalpa) are of two types, pure and impure. The pure vikalpa, though being a vikalpa, is an aid in achieving the highest aim of human life, liberation (mokṣa). On the other hand, the impure vikalpa entices beings with worldly existence. It is because of its existence that the Self conceives itself as limited in knowledge and action. 
 
-. 
 
-. 
+[^33]:
 
-TANTRASĀRA 69 
+    The imposition on the innate nature (svabhāva) of different kind of pure properties is known as purification (samskāra). The very nature of consciousness is its freedom from thought constructs (vikalpa). This indeterminate nature of consciousness (nirvikalpa) is also the very nature of the Self.+++(5)+++ This is known as innate nature (svabhāva). 
 
-after following the path of right āgama, etc., purify their vikalpas and enter the supreme reality.36 Here a question can be asked: If this is so, shouldn't the supreme reality also be a form of deter minate knowledge (vikalpa)? The answer to this question is, "certainly not,” because determinate knowledge fulfills its purpose 
+    Listening to this nature of the Self repeatedly, thinking of it, and meditating on it continuously help the thought construct to become purified. In the beginning, the layers of pure thought (śuddha-vikalpa) remain as if indistinct. However, in the long run, through practice, the layers of pure thought become perfectly distinct. 
 
-simply by removing the impressions of duality. 
+    It is important to emphasize here that the perfect purity of one's own innate nature (svabhāva) is revealed by pure thought constructs (śuddha-vikalpa) when the latent impressions of duality are removed. At this stage the vikalpas do not stand as the cause of the duality. With the purification of vikalpas, in the right manner, consciousness shines forth with all its glory.
+</details>
 
-The supreme reality is everywhere; it is omniform and self manifesting. The forms of determinate knowledge are not capable of either lending any support to it or refuting it. Right reasoning (sattarka) spontaneously arises in a person keenly touched by Śakti. It is said that this kind of person is initiated by the Goddesses. 
 
-In the case of others, the form of right reasoning arises by the study of scriptures, and so forth. This topic will be discussed at length in the section entitled śaktipātaprakāśana. However, at this point it will suffice to say that the role of the teacher is to select an appropriate āgama text for a disciple to study. The role of agama, on the other hand, is to give rise to the proper type of vikalpa (śuddha-vikalpa), which is instrumental in generating the series of homogeneous thoughts free from doubt. This series of homogeneous determinate thoughts is called right reasoning (sat tarka), and this right reasoning is called meditation (bhāvanā). Through bhāvanā 37 past objects (objects that have gone to rest in the past] that were indistinct, are now made as if present by ren dering them distinct. In this context we can say that no other direct means but reasoning, which is the light of pure knowledge, can serve as the limb of yoga. For example, tapas, etc., belonging to the niyama group, ahimsa, etc., belonging to the yama group,38 various types of prāṇāyāma, etc., all are finally based in objec tive existence. Therefore, what could be their role in regard to consciousness? Even pratyaharā 39 only renders excellence on the level of senses, that is, the instruments of knowledge and action. In the same way, dhāraṇā, dhyāna, and samadhi, if practiced gradually and in this particular order, could grant to the medita tor the identification with the object of his meditation. However, meditation or practice on the supreme reality, which is identical70 TANTRASĀRA 
+तथाहि **विकल्प-बलाद्** एव जन्तवो **बद्धम्** आत्मानम् **अभिमन्यन्ते**।  
+स अभिमानः संसार-प्रतिबन्ध-हेतुः +++([ख्: संसारप्रबन्धेति प्रबन्धः सन्ततिः इति पर्यायोपेतः पाठः ।])+++।  
+अतः **प्रतिद्वन्द्वि-रूपो विकल्प** उदितः संसार-हेतुं विकल्पं दलयति - इत्य् **अभ्युदय-हेतुः** । 
 
-with śiva and is one's own innate nature, is not at all possible. The practice of one who is established in consciousness is the process of steadily establishing prāṇa, intellect, and body in it. This is not unike carrying a burden, studying the real meaning of śāstras, or practicing dance. In the case of consciousness, however, nothing can be added or taken away from it.40 Therefore, how can practice (in regard to consciousness) be possible? 
+<details><summary>English</summary>
+
+It is because of the power of thought constructs (vikalpa) that living beings wrongly conceive of themselves[^34] as bound.  
+A firm conviction (abhimana) regarding one's own nature becomes the cause of freedom from samsāra.  
+When this new vikalpa arises,[^35] it neutralizes those vikalpas which are the cause of bondage.  
+This new vikalpa becomes the cause of ascent (abhyudaya), enabling one to attain his or her own innate nature.
+
+
+[^34]:
+
+    The erroneous conception latent in the soul, “I am in bondage," is the root cause of worldly existence. 
+
+[^35]:
+
+    That deep-rooted impression of the soul, “I am in bondage," is uprooted by the conviction contrary to it, i.e., the pure thought construct (śuddha-vikalpa). 
+
+
+</details>
+
+## संस्कृति-रूपम्
+
+स च +एवं-रूपः।  
+
+> "समस्तेभ्यः परिच्छिन्न-स्वभावेभ्यः शिवान्तेभ्यः तत्त्वेभ्यो यद् उत्तीर्णम् अपरिच्छिन्न-संविन्-मात्र-रूपं,  
+> तद् एव च परमार्थः, तद् वस्तु-व्यवस्था-स्थानं, तद् विश्वस्य +ओजः,  
+> तेन प्राणिति विश्वम्,  
+> तद् एव च +अहम्,  
+> अतो विश्वोत्तीर्णो विश्वात्मा च +अहम्" 
+
+इति । 
+
+<details><summary>English</summary>
+
+This is as follows: 
+
+> The supreme reality is unlimited by nature and consists of an undivided singularity of consciousness.  
+> It transcends all the principles of limited nature which terminate in śiva.  
+> This renders stability to all and is the vitality of the universe.  
+> Through it the universe 'throbs' with life, and that is "I" (aham).  
+> Therefore, I am both transcendent and immanent.
+</details>
+
+## संस्कृति-वारकाणि
+स च +अयं **मायान्धानां न उत्पद्यते** - सत्-तर्कादीनाम् अभावात् ।  
+वैष्णवाद्या हि तावन्-मात्र एव +++(वैष्णवाद्य्-)+++आगमे राग-तत्त्वेन नियमिता इति - न ऊर्ध्व-दर्शनेऽपि तद्-उन्मुखतां +++([क्: अप्युन्मुखतामिति पाठः ।])+++ भजन्ते। +++(5)+++  
+ततः सत्-तर्क--सद्-आगम--सद्-गुरूपदेश-द्वेषिण एव ।  
+
+<details><summary>English</summary>
+
+This kind of conviction, however, does not arise in those blinded by māyā, because they lack right reasoning (sat tarka), etc.  
+Vaisnavas and others are restricted to their own scriptures by the principle of attachment (rāga). For this very reason, they show no interest in studying superior agamas in spite of their being available.  
+In this way, they show jealousy in regard to right reasoning, right scriptures (agama), and the correct instruction of a teacher.
+</details>
+
+यथोक्तं पारमेश्वरे -
+
+वैष्णवाद्याः समस्तास् ते  
++++(मित-)+++विद्यारागेण रञ्जिताः ।  
+न विन्दन्ति परं तत्त्वं  
+सर्वज्ञ-ज्ञान-वर्जिताः  
++++([ख्: सर्वज्ञं सर्वशक्तिकम् इति पाठः ।])+++ ॥
+ 
+<details><summary>English</summary>
+
+As it is said in the Parameśvara Āgama:
+
+All the Vaisnavas, etc., are restricted by their attachment to limited knowledge.  
+They fail to understand the nature of the supreme reality  
+only because they are devoid of knowledge.emerging from omniscience.
+</details>
+
+इति।
+
+तस्मात् **शाम्भव-दृढ-शक्तिपाताविद्धा** एव  
+सद्-आगमादि-क्रमेण **विकल्पं संस्कृत्य**  
+**परं स्वरूपं प्रविशन्ति** ।
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+विकल्पसंस्कारो यथा -
+
+विकल्पः संस्कृतः सूते  
+विकल्पं स्वात्म-संस्कृतम् ।   
+स्वतुल्यं सोऽपि सोऽप्यन्यं  
+सोऽप्यन्यं सदृशात्मकम् ॥+++(5)+++   
+अस्फुटः स्फुटताभावी  
+प्रस्फुटः स्फुटतात्मकः । 
+
+इत्यादि ।
+</details>
+
+<details><summary>English</summary>
+
+Therefore, only those keenly touched by the energy of Śiva, after following the path of right āgama, etc., purify their vikalpas and enter the supreme reality.[^36]
+
+[^36]:
+
+    The right form of reasoning (sattarka) does not arise in the soul on account of descent of grace in a lesser degree of intensity. The right form of reasoning begins to show as a result of study of agamas and instruction by a teacher. 
+
+
+</details>
+
+## स्वरूपस्य विकल्पातीतता
+ननु इत्थं परं तत्त्वं विकल्प्य-रूपं स्यात् ?   
+मैवम् - विकल्पस्य द्वैताधिवास+++(=अध्यास)+++-सङ्ग-मात्रे चरितार्थस्वात्।  
+**परं तत्त्वं** तु सर्वत्र सर्वरूपतया **स्वप्रकाशम्** एव +इति -  
+न तत्र विकल्पः कस्यैचित् उपक्रियायै खण्डनायै वा ।+++(5)+++
+
+<details><summary>English</summary>
+
+Here a question can be asked: If this is so, shouldn't the supreme reality also be a form of determinate knowledge (vikalpa)?  
+The answer to this question is, "certainly not,” because determinate knowledge fulfills its purpose simply by removing the impressions of duality.  
+The supreme reality is everywhere; it is omniform and self manifesting.  
+The forms of determinate knowledge are not capable of either lending any support to it or refuting it.
+</details>
+
+## संस्कृति-प्रेरकाणि
+
+तत्र +अति-दृढ-शक्ति-पाताविद्धस्य  
+स्वयम् एव सांसिद्धिकतया सत्तर्क उदेति।  
+योऽसौ **देवीभिः दीक्षित** इति उच्यते । 
+
+<details><summary>English</summary>
+
+Right reasoning (sattarka) spontaneously arises in a person keenly touched by Śakti. It is said that this kind of person is initiated by the Goddesses.
+
+</details>
+
+
+
+अन्यस्य आगमक्रमेण इत्यादि सविस्तरं शक्ति-पात-प्रकाशने वक्ष्यामः ।
+
+<details><summary>English</summary>
+
+In the case of others, the form of right reasoning arises by the study of scriptures, and so forth. This topic will be discussed at length in the section entitled śaktipātaprakāśana.
+</details>
+
+
+किं तु गुरोर् आगम-निरूपणे व्यापारः।   
+आगमस्य च निःशङ्क-सजातीय-तत्-प्रबन्ध-प्रसव-निबन्धन-समुचित-विकल्पोदये व्यापारः। +++(5)+++   
+
+<details><summary>English</summary>
+
+However, at this point it will suffice to say that the role of the teacher is to select an appropriate āgama text for a disciple to study.  
+The role of agama, on the other hand, is to give rise to the proper type of vikalpa (śuddha-vikalpa), which is instrumental in generating the series of homogeneous thoughts free from doubt.
+</details>
+
+
+तथा-विध-विकल्प-प्रबन्ध एव **सत्-तर्क** इति उक्तः।  
+स एव च **भावना** भण्यते - अस्फुटत्वात् भूतम् अप्य् अर्थम् अभूतम्+++(→वर्तमानम्)+++ इव स्फुटत्वापादनेन भाव्यते यया इति ।
+
+<details><summary>English</summary>
+
+This series of homogeneous determinate thoughts is called right reasoning (sat tarka),  
+and this right reasoning is called meditation (bhāvanā).  
+Through bhāvanā [^37] past objects (objects that have gone to rest in the past) that were indistinct, are now made as if present by rendering them distinct.
+</details>
+
+
+
+न च अत्र सत्तर्कात् शुद्धविद्याप्रकाशरूपात् ऋते अन्यत् योगाङ्गं साक्षात् उपायः, तपःप्रभृतेः नियमवर्गस्य, अहिंसादेश्च यमप्रकारस्य, पूरकादेः प्राणायामवर्गस्य वेद्यमात्रनिष्ठत्वेन क इव संविदि व्यापारः | प्रत्याहारोऽपि करणभूमिमेव सातिशयं कुर्यात्, ध्यानधारणासमाधयोऽपि यथोत्तरम् अभ्यासक्रमेण निर्वय॑माना ध्येयवस्तुतादात्म्यं ध्यातुः वितरेयुः । अभ्यासश्च परे तत्त्वे शिवात्मनि स्वस्वभावे न संभवत्येव । संविद्रूढस्य प्राणबुद्धिदेहनिष्ठीकरणरूप ो हि अभ्यासः-भारोद्वहनशास्त्रार्थबोध-नृत्ताभ्यासवत्, संविद्रूपे तु न किंचित् आदातव्यं न अपसरणीयम् इति कथम् अभ्यासः । 
+
+
+
+In this context we can say that no other direct means but reasoning, which is the light of pure knowledge, can serve as the limb of yoga. For example, tapas, etc., belonging to the niyama group, ahimsa, etc., belonging to the yama group,[^38] various types of prāṇāyāma, etc., all are finally based in objec tive existence. Therefore, what could be their role in regard to consciousness? Even pratyaharā [^39] only renders excellence on the level of senses, that is, the instruments of knowledge and action. In the same way, dhāraṇā, dhyāna, and samadhi, if practiced gradually and in this particular order, could grant to the medita tor the identification with the object of his meditation. However, meditation or practice on the supreme reality, which is identical70 TANTRASĀRA 
+
+with śiva and is one's own innate nature, is not at all possible. The practice of one who is established in consciousness is the process of steadily establishing prāṇa, intellect, and body in it. This is not unike carrying a burden, studying the real meaning of śāstras, or practicing dance. In the case of consciousness, however, nothing can be added or taken away from it.[^40] Therefore, how can practice (in regard to consciousness) be possible? 
 
 किं तर्केणापि इति चेत्, उक्तमत्र द्वैताधिवासनिरासप्रकार एव अयं न तु अन्यत् किंचिदिति । लौकिकेऽपि वा अभ्यासे चिदात्मत्वेन सर्वरूपस्य तस्य तस्य देहादेः अभिमतरूपताप्रकटीकरणं तदितररूपन्यग्भावनं च इति एष एव अभ्यासार्थः । परंतत्त्वे तु न किंचित् अपास्यम् इति उक्तम् । द्वैताधिवासोऽपि नाम न कश्चन पृथक् वस्तुभूतः अपि तु स्वरूपाख्यातिमात्रं तत्, अतो द्वैतापासनं विकल्पेन क्रियत इत्युक्तेः । अयं परमार्थः-स्वरूपं प्रकाशमानम् अख्यातिरूपत्वं स्वयं स्वातन्त्र्यात् गृहीतं क्रमेण प्रोज्झ्य विकासोन्मुखम्, अथ विकसितम् इत्येनेन क्रमेण प्रकाशते, तथा प्रकाशनमपि परमेश्वरस्य स्वरूपमेव, तस्मात् न योगाङ्गानि साक्षात् उपायः | तर्कं तु अनुगृह्णीयुरपि, सत्तर्क एव साक्षात् तत्र उपायः, स एव च शुद्धविद्या, स च बहुप्रकारतया संस्कृतो भवति, तद्यथा-यागो होमो जपो व्रतं योग इति, 
 
@@ -62,7 +232,7 @@ TANTRASĀRA 73
 
 अस्य श्रीमदपराशक्तिः । 
 
-The essential nature of the great Lord is the 'fullness of his consciousness' (purnasamvitsvābhava). This fullness of con sciousness is his śakti, 41 which is known as body (kula), capacity (samarthya), wave (urmi), heart (hrdaya), essence (sāra), vibra tion (spanda), glory of power (vibhuti), the three-formed goddess (trisikā), the cause of kalana (kali), one who minimizes (karsini), dreadful (candi), speech (vāṇi), enjoyment (bhoga), knowledge (drk), and the superintending deity of lunar phases (nityā). This Śakti is expressed by these and other appellations based on various grammatical derivations, which are technical terms used in the āgamas. Let this Śakti abide in any of these forms in the heart of ā meditator. If this śakti is viewed collectively, as consisting of the totality of all śaktis, the fullness of consciousness becomes mani fest. The Lord possesses innumerable dynamic energies (śaktis). What more can we say? The entire universe is his śakti. There fore, it is impossible to enumerate all of them in this instruction However, the whole universe can be summed up under three main Śaktis. The supreme energy (Śrīparāśakti) of the Lord is that śakti by means of which this universe, beginning with śiva and ending with earth principle (tattva), is born, seen, and manifested by the Lord in indeterminate consciousness. Srīparāparāśakti of the Lord is that śakti by means of which he projects the universe just like the reflection of an elephant, etc., in a mirror: as different-cum nondifferent. The glorious Aparāśakti is that śakti by means of which he manifests this differentiated universe, in which all these objects appear as different from one another. 
+The essential nature of the great Lord is the 'fullness of his consciousness' (purnasamvitsvābhava). This fullness of con sciousness is his śakti, [^41] which is known as body (kula), capacity (samarthya), wave (urmi), heart (hrdaya), essence (sāra), vibra tion (spanda), glory of power (vibhuti), the three-formed goddess (trisikā), the cause of kalana (kali), one who minimizes (karsini), dreadful (candi), speech (vāṇi), enjoyment (bhoga), knowledge (drk), and the superintending deity of lunar phases (nityā). This Śakti is expressed by these and other appellations based on various grammatical derivations, which are technical terms used in the āgamas. Let this Śakti abide in any of these forms in the heart of ā meditator. If this śakti is viewed collectively, as consisting of the totality of all śaktis, the fullness of consciousness becomes mani fest. The Lord possesses innumerable dynamic energies (śaktis). What more can we say? The entire universe is his śakti. There fore, it is impossible to enumerate all of them in this instruction However, the whole universe can be summed up under three main Śaktis. The supreme energy (Śrīparāśakti) of the Lord is that śakti by means of which this universe, beginning with śiva and ending with earth principle (tattva), is born, seen, and manifested by the Lord in indeterminate consciousness. Srīparāparāśakti of the Lord is that śakti by means of which he projects the universe just like the reflection of an elephant, etc., in a mirror: as different-cum nondifferent. The glorious Aparāśakti is that śakti by means of which he manifests this differentiated universe, in which all these objects appear as different from one another. 
 
 एतत् त्रिविधं यया धारणम् आत्म्न्येव क्रोडीकारेण अनुसन्धानात्मना ग्रसते, सा अस्य भगवती श्रीपरैव श्रीमन्मातृसद्भावकालकार्षिण्यादिशब्दान्तर निरुक्ता | ता एताः चतस्रः शक्तयः स्वातन्त्र्यात् प्रत्येकं त्रिधैव वर्तन्ते । सृष्टौ स्थितौ संहारे च इति द्वादश भवन्ति । तथाहि -१ संवित् पूर्वम् अन्तरेव भावं कलयति, २ ततो बहिरपि स्फुटतया कलयति, ३ तत्रैव रक्तिमयतां गृहीत्वा ततः तमेव भावम् अन्तरुपसंजिहीर्षया कलयति, ४ ततश्च तदुपसंहारविघ्नभूतां 
 
@@ -70,7 +240,7 @@ The essential nature of the great Lord is the 'fullness of his consciousness' (p
 
 शङ्कां निर्मिणोति च ग्रसते च, ५ ग्रस्तशङ्कांशं भावभागम् आत्मनि उपसंहारेण कलयति, ६ तत उपसंहर्तृत्वं ममेदं रूपमित्यपि स्वभावमेव कलयति, ७ तत उपसंहर्तृस्वभावकलने कस्यचिद्धावस्य वासनात्मना अवस्थितिं कस्यचित् तु संविन्मात्रावशेषतां कलयति, ८ ततः स्वरूपकलनानान्तरीयकत्वेनैव करणचक्रं कलयति,.९ ततः करणेश्वरमपि कलयति, १० ततः कल्पितं मायीयं प्रमातृरूपमपि कलयति, ११ सङ्कोचत्यागोन्मुखविकासग्रहणरसिकमपि प्रमातारं कलयति, १२ ततो विकसितमपि रूपं कलयति इति एता द्वादश भगवत्यः संविदः प्रमातृन् एकं वापि उद्दिश्य युगपत् क्रमेण द्विशः त्रिश इत्यादिस्थित्यापि उदयभागिन्यः चक्रवदावर्तमाना बहिरपि मासकलाराश्यादिक्रमेण अन्ततो वा घटपटादिक्रमेणापि भासमानाः चक्रेश्वरस्य स्वातन्त्र्यं पुष्णत्यः श्रीकालीशब्दवाच्याः । कलनं च -गतिः क्षेपो ज्ञानं गणनं भोगीकरणं शब्दनं स्वात्मलयीकरणं च । यदाहुः श्रीभूतिराजगुरवः 'क्षेपाज्ज्ञानाच्च काली कलनवशतयाथ... ।' इति । एष च अर्थः तत्र तत्र मद्विरचिते विवरणे प्रकरणस्तोत्रादौ वितत्य वीक्ष्यः | न अतिरहस्यम् एकत्र ख्याप्यं, न च सर्वथा गोप्यम् इति हि अस्मद्गुरवः | 
 
-That śakti, by means of which the triad of faktis are born, that is, embraced (withdrawn) internally into the Lord through the process of unification (anusandhāna), is the glorious Parāśakti. That śakti (although remaining) Śrīparā is now called śrīmātrsa dbhava,42 Kalakarsini,43 etc. Each of those four śaktis, because of their freedom, shines in threefold manner; that is, creation, maintenance, and dissolution. In this way, the number increases to twelve.44 This takes place in the following way: 
+That śakti, by means of which the triad of faktis are born, that is, embraced (withdrawn) internally into the Lord through the process of unification (anusandhāna), is the glorious Parāśakti. That śakti (although remaining) Śrīparā is now called śrīmātrsa dbhava,[^42] Kalakarsini,[^43] etc. Each of those four śaktis, because of their freedom, shines in threefold manner; that is, creation, maintenance, and dissolution. In this way, the number increases to twelve.[^44] This takes place in the following way: 
 
 1. First, consciousness only shapes (kalayati) entities 
 
@@ -108,7 +278,7 @@ own Self.
 
 Thus, the 'twelve divine Goddesses of consciousness' (dvādaśa Bhagavatyah) manifest themselves, either to all subjects or only one, simultaneously or sequentially, either in two or three. They move in the manner of a circle like a wheel, and also shine exter nally in the form of months, and other minute divisions of time, the signs of zodiac, and finally in the form of pot, cloth, etc. In this way, they nourish the autonomy of the 'Lord of the Wheel (Cakreśvara) and are expressed by the word Śrī Kālī. 
 
-The different meanings of the word kalana45 are: moving, throwing (projecting), knowledge, enumeration, causing all the objects to become objects of enjoyment, sounding, and withdraw ing [assimilating] the objects into oneself. As it has been stated by the teacher Śrī Bhūtirāja: "She is known as Kālī on account of projecting, knowing, and enumerating.” The meaning of Kālī can 
+The different meanings of the word kalana[^45] are: moving, throwing (projecting), knowledge, enumeration, causing all the objects to become objects of enjoyment, sounding, and withdraw ing [assimilating] the objects into oneself. As it has been stated by the teacher Śrī Bhūtirāja: "She is known as Kālī on account of projecting, knowing, and enumerating.” The meaning of Kālī can 
 
 76 TANTRASĀRA 
 
@@ -116,19 +286,24 @@ be seen in detail in various places of my Parātrīśikā Vivarana and the monog
 
 तदेवम् यदुक्तं यागहोमादि तत् एवं-विधे महेश्वर एव मन्तव्यम् । सर्वे हि हेयमेव उपादेयभूमिरूपं विष्णुतः प्रभृति शिवान्तं परमशिवतया पश्यन्ति, तच्च मिथ्यादर्शनम् अवश्यत्याज्यम् अनुत्तरयोगिभिरिति, तदर्थमेव विद्याधिपतेः अनुभवस्तोत्रे महान् संरम्भः, एवं-विधे यागादौ योगान्ते च पञ्चके प्रत्येकं बहुप्रकारं निरूढिः यथा यथा भवति तथैव आचरेत्, न तु भक्ष्याभक्ष्यशुद्ध्यशुद्ध गादिविवेचनया वस्तुधर्मोज्झितया कल्पनामात्रसारया स्वात्मा खेदनीय' इति उक्त : श्रीपूर्वादौ, न हि शुद्धिः वस्तुनो रूपं नीलत्ववत्, अन्यत्र तस्यैव अशुद्धिचोदनात्, दानस्येव दीक्षितत्वे, चोदनातः तस्य तत् तत्र अशुद्धम् इति चेत् चोदनान्तरेऽपि तुल्यं, चोदनान्तरम् असत् - तद्बाधितत्वात् इति चेत् न, शिवचोदनाया एव बाधकत्वं युक्तिसिद्धं सर्वज्ञानोत्तराद्यनन्तागमसिद्धं च इति वक्ष्यामः | तस्मात् वैदिकात् प्रभृति पारमेश्वरसिद्धान्ततन्त्रकुलोच्छुष्मादिशास्त्रोक्तोऽपि यो नियमो विधिः वा निषेधो वा सोऽत्र यावदकिंचित्कर एव इति सिद्धम् । तथैव च उक्तं श्रीपूर्वादौ, वितत्य तन्त्रालोकात् अन्वेष्यम्। 
 
-यो निश्चयः पशुजनस्य जडोऽस्मि कर्म संपाशितोऽस्मि मलिनोऽस्मि परेरितोऽस्मि | 
+यो निश्चयः पशुजनस्य जडोऽस्मि कर्म-  
+सम्पाशितोऽस्मि मलिनोऽस्मि परेरितोऽस्मि ।  
+इत्य् एतद् अन्य-दृढ-निश्चय-लाभ-सिद्ध्या  
+सद्यः पतिर् भवति विश्व-वपुश् चिद्-आत्मा ॥ +++(4)+++
 
-इत्येतदन्यदृढनिश्चयलाभसिद्ध्या सद्यः पतिर्भवति विश्ववपुश्चिदात्मा ।। 
+यथा यथा निश्चय ईदृगाप्यते  
+तथावधेयं परयोगिना सदा ।  
+न वस्तुयाथात्म्यविहीनया दृशा  
+विशङ्कितव्यं शिशुदेशनागणैः   
+[अपरमार्थज्ञोपदेशैर्मूर्खोपदेशैरित्यर्थः ।] ॥
 
-यथा यथा निश्चय ईदृगाप्यते तथावधेयं परयोगिना सदा । न वस्तुयाथात्म्यविहीनया दृशा विशङ्कितव्यं शिशुदेशनागणैः ।।' 
-
-All that has been stated about yāga, homa, and so on, should be understood to be only for Maheśvara.46 All perceive those very things that are to be avoided as those that are to be accepted, and also perceive everything from Viṣnu to śiva as Paramaśiva. This 
+All that has been stated about yāga, homa, and so on, should be understood to be only for Maheśvara.[^46] All perceive those very things that are to be avoided as those that are to be accepted, and also perceive everything from Viṣnu to śiva as Paramaśiva. This 
 
 TANTRASĀRA 77 
 
 kind of view is wrong and it should be rejected by yogins fol lowing the path of the Absolute (anuttarayogins). For this very purpose, Vidyādhipati has made great effort in his monograms entitled "Anubhāva Stotra." 
 
-Thus, in each of these five, beginning with yāga and ending with yoga, there are different levels of steadiness to be attained.47 One should act in such a way that one may attain a steady convic tion in them. This kind of yogin should not think, “This food is sanctioned and this food is prohibited, or this is pure and this is impure," and in this way cause suffering to his own self. Purity, impurity, etc., are not invariable properties belonging to the object, but in essence, products of the imagination. Thus, it is stated in the Sripūrva:48 “Purity is not the essential attribute of an object in the same way as the property of being blue, etc., is not the essential nature of an object, for it has been started to be impure on other occasions." In (the case of) an offering of gifts to one who has been initiated, if it is argued that because of directive statement (codana), this offering of gifts is impure with reference to that (directive statement), then it is similar to some other direc tive statement (codanāntara) which may contradict the former, but such a contradictory directive statement is unreal because of [this] incongruity-if it is so argued, then we say, "no," that is not right. The directive statement uttered by Lord śiva himself is sufficiently forceful to annul other directive precepts. It is well-supported by logical reasoning, and also (well-established] in numberless āga mas like the Sarvajñānottara and others. We shall speak of it later in the sequel. Therefore, the rule which is enjoined, in the scrip tures, as the precept to be followed and the thing that is to be prohibited, beginning from the Vedas down to the Tantras of the Lord as understood by the Siddhāntins, such as Kulocchuṣma and others, serves no purpose in this context; therefore the truth of the matter is established. In the Sripūrva and other texts it has been so stated. One should seek a detailed account of it in the Tantrāloka and other texts. 
+Thus, in each of these five, beginning with yāga and ending with yoga, there are different levels of steadiness to be attained.[^47] One should act in such a way that one may attain a steady convic tion in them. This kind of yogin should not think, “This food is sanctioned and this food is prohibited, or this is pure and this is impure," and in this way cause suffering to his own self. Purity, impurity, etc., are not invariable properties belonging to the object, but in essence, products of the imagination. Thus, it is stated in the Sripūrva:[^48] “Purity is not the essential attribute of an object in the same way as the property of being blue, etc., is not the essential nature of an object, for it has been started to be impure on other occasions." In (the case of) an offering of gifts to one who has been initiated, if it is argued that because of directive statement (codana), this offering of gifts is impure with reference to that (directive statement), then it is similar to some other direc tive statement (codanāntara) which may contradict the former, but such a contradictory directive statement is unreal because of [this] incongruity-if it is so argued, then we say, "no," that is not right. The directive statement uttered by Lord śiva himself is sufficiently forceful to annul other directive precepts. It is well-supported by logical reasoning, and also (well-established] in numberless āga mas like the Sarvajñānottara and others. We shall speak of it later in the sequel. Therefore, the rule which is enjoined, in the scrip tures, as the precept to be followed and the thing that is to be prohibited, beginning from the Vedas down to the Tantras of the Lord as understood by the Siddhāntins, such as Kulocchuṣma and others, serves no purpose in this context; therefore the truth of the matter is established. In the Sripūrva and other texts it has been so stated. One should seek a detailed account of it in the Tantrāloka and other texts. 
 
 Bound souls possess a firm conviction of the follow 
 

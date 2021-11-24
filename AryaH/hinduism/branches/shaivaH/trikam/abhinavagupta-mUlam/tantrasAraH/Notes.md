@@ -181,53 +181,9 @@ absolute consciousness through śāmbhava upaya, then assiduous tasks, such as b
 ## 04
 Chapter Four 
 
-[^32]:
-
-    The thought constructs (vikalpa) are of two types, pure and impure. 
-
-The pure vikalpa, though being a vikalpa, is an aid in achieving the highest aim of human life, liberation (mokṣa). On the other hand, the impure vikalpa entices beings with worldly existence. It is because of its existence that the Self conceives itself as limited in knowledge and action. 
-
-222 NOTES 
-
-
-
-[^33]:
-
-    The imposition on the innate nature (svabhāva) of different kind of 
-
-pure properties is known as purification (samskāra). The very nature of consciousness is its freedom from thought constructs (vikalpa). This indeterminate nature of consciousness (nirvikalpa) is also the very nature of the Self. This is known as innate nature (svabhāva). Listening to this nature of the Self repeatedly, thinking of it, and meditating on it continuously help the thought construct to become purified. In the beginning, the layers of pure thought (śuddha-vikalpa) remain as if indistinct. However, in the long run, through practice, the layers of pure thought become perfectly dis tinct. It is important to emphasize here that the perfect purity of one's own innate nature (svabhāva) is revealed by pure thought constructs (śuddha-vikalpa).when the latent impressions of duality are removed. At this stage the vikalpas do not stand as the cause of the duality. With the purification of vikalpas, in the right manner, 
-
-consciousness shines forth with all its glory. 
-
-[^34]:
-
-    The erroneous conception latent in the soul, “I am in bondage," is 
-
-the root cause of worldly existence. 
-
-[^35]:
-
-    That deep-rooted impression of the soul, “I am in bondage," is 
-
-uprooted by the conviction contrary to it, i.e., the pure thought con 
-
-struct (śuddha-vikalpa). 
-
-[^36]:
-
-    The right form of reasoning (sattarka) does not arise in the soul on 
-
-account of descent of grace in a lesser degree of intensity. The right form of reasoning begins to show as a result of study of agamas and 
-
-instruction by a teacher. 
-
 [^37]:
 
-    The study of agama gives rise to the series of thought constructs 
-
-free from doubt, which in turn give rise to the series of pure thought constructs (śuddha-vikalpa). This is the characteristic of the right form of reasoning. This right reasoning is called bhāvanā, the layers of pure thought. It is like the wish-fulfilling cow which grants all desires. According to this system, intuitive reasoning (sattarka) is considered to be the most supreme limb of yoga. By the right application of it, one becomes the true knower of the nature of reality. It is by this means alone that one is able to discern right from wrong. 
-
-NOTES 223 
+    The study of agama gives rise to the series of thought constructs free from doubt, which in turn give rise to the series of pure thought constructs (śuddha-vikalpa). This is the characteristic of the right form of reasoning. This right reasoning is called bhāvanā, the layers of pure thought. It is like the wish-fulfilling cow which grants all desires. According to this system, intuitive reasoning (sattarka) is considered to be the most supreme limb of yoga. By the right application of it, one becomes the true knower of the nature of reality. It is by this means alone that one is able to discern right from wrong. 
 
 
 
