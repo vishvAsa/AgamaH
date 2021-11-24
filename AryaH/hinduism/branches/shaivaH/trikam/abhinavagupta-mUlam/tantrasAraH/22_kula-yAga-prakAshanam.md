@@ -2,31 +2,125 @@
 title = "22 कुल-याग-प्रकाशनम्"
 
 +++
-अथद्वाविंशमाहिकम् ।। अथसमस्ता इयम् उपासा समुन्मिषत्तादृशदृढवासनारूढान् अधिकारिणः प्रति श्रीमत्कौलिकप्रक्रियया निरूप्यते, तत्र उक्तं योगसंचारादौ 
+अथ द्वाविंशमाह्निकम् ।
 
-'आनन्दं ब्रह्म तद्देहे त्रिधौष्ट्यान्त्यव्यवस्थितम् । 
+<details><summary>English</summary>
 
-अब्रह्मचारिणस्तस्य त्यागादानन्दवर्जिताः || आनन्दकृत्रिमाहारंवर्जं चक्रस्य यांजकाः। 
+Chapter Twenty-Two  
+</details>
 
-- द्वयेऽपि नरके घोरे तस्मादेनां स्थितिं भजेत् ।।' तदनया स्थित्या कुलयागः, सच षोढा - बाह्ये शक्तौ स्वदेहे यामले प्राणे संविदि च इति। तत्र च उत्तर उत्तर उत्कृष्टः, पूर्वः पूर्वस्तदुच्यर्थम् । सिद्धिकामस्य द्वितीयतुर्यपञ्चमाः सर्वथा निर्वाः षष्ठस्तु मुमुक्षोः मुख्यः, तस्यापि द्वितीयाद्या नैमित्तिके यथासम्भवम् अनुष्ठेया एव विधिपूरणार्थं च । तत्र बाह्यं स्थण्डिलम्, आनन्दपूर्णं वीरपात्रं, अरुणः पटः, पूर्वोक्तमपि वा लिङ्गादि। तत्र स्नानादिव र्तव्यानपेक्षयैव पूर्णानन्दविश्रान्त्यैव लब्धशुद्धिः प्रथमं प्राणसंविद्देहैकीभावं भावयित्वा संविदश्च परमशिवरूपत्वात् सप्तविंशतिवारं मन्त्रम् उच्चार्य मूर्ध वक्र-हृदुह्य-मूर्तिषु अनुलोमविलोमाभ्यां विश्वाध्वपरिपूर्णता परमेश्वरे अपरत्वे परापरत्वे परत्वेऽपि च । तथाहि - माया-पुं-प्रकृति-गुण-धी-प्रभृति धरान्तं सप्तविंशतितत्त्वानि - कलादीनां तत्रैव अन्तर्भावात्, विद्याशक्तावपि परापरत्वे ब्रह्मपञ्चकस्य सद्यस्त्वाजातत्वभवोद्भवत्वादीनां धर्माणां सप्तविंशतिरूपत्वमेव उक्तं श्रीमल्लकुलेशादिपादैः | परत्वेऽपि पञ्चशक्तिः हि परमेश्वरः, प्रतिशक्ति च पञ्चरूपता, एवं पञ्चविंशतिः शक्तयः, ताश्च अन्योन्यम् अनुदिनविभागा - इत्येवं सप्तविंशतिरूपया व्याप्त्या संविदग्नेः शिखां बुद्धिप्राणरूपां सकृदुच्चारमात्रेणैव बद्धां कुर्यात् - येन परमशिव एव प्रतिबद्धा तद्व्यतिरिक्तं न किंचिदभिधावति, तथाविधबुद्ध्यधिष्ठितकरणचक्रानुवेधेन पुरोवर्तिना यागद्रव्यगृहदिगाधारा दीनपि तन्मयीभूतान् कुर्यात्, ततोऽर्घमात्रमपि शिखाबन्धव्याप्त्यैव पूरयेत् 
+
+
+अथ समस्ता इयम् +++(वक्ष्यमाणा कुलयागाख्या)+++ उपासा  
+समुन्मिषत्-तादृश-दृढ-वासना-रूढान् **अधिकारिणः प्रति**  
+श्रीमत्-कौलिक-प्रक्रियया **निरूप्यते**।  
+
+<details><summary>English</summary>
+
+The entire worship of this character is now going to be ascertained according to the Kaula method.  
+This is meant for those who have attained the proper confidence and in whom the engrained desire for Kula yāga is going to develop.
+</details>
+
+
+
+तत्र उक्तं योग-सञ्चारादौ -
+
+> आनन्दं ब्रह्म, तद् देहे  
+> +++(मद्य-मांस-मैथुन-रूपेण)+++  
+> त्रिधौष्ट्यान्त्य+++(=मकार)+++-व्यवस्थितम्   
+> अ-ब्रह्म-चारिणस् तस्य +++(त्रितयस्य)+++  
+> त्यागाद् आनन्द-वर्जिताः ॥  
+> +++(मद्यादि-त्रितय-)+++आनन्द-कृत्रिमाहार-  
+> वर्जं चक्रस्य याजकाः ।  
+> +++(त्रिषु)+++ द्वयेऽपि +++(प्रयुक्ते)+++ नरके घोरे,  
+> तस्माद् एनां स्थितिं भजेत् ॥+++(5)+++
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+**त्रिधाद्यन्तव्यवस्थितम्** इति +अन्यत्र पाठः ।  **त्रिधा** इत्यस्य उपकारि-द्वयं, तत्र फलम् अन्यत् तद्-आत्मकम् । इत्य् एवम् अर्थेन च व्याख्यानम् अस्ति ।
+</details>
+
+<details><summary>English</summary>
+
+Therefore, in texts such as the Yoga-saṁcāra, etc., it has been stated:
+
+Bliss is Brahman which abides in the body.  
+That bliss is established in a threefold way in the last syllable under pa-varga - that is the labials.  
+The person who is not a brahmacārin and abstains from the procedure of following the three ma-kāras (that is the ritual involving the three forbidden elements) is bereft of bliss.  
+Bliss being bereft of wine, etc., and those who, forsaking it, engage themselves in worshipping in the cakra in both ways are cooked in a dreadful hell.  
+Therefore, one should follow the prescribed procedure.
+</details>
+
+
+तद् अनया स्थित्या **कुलयागः**।  
+स च षोढा - **बाह्ये शक्तौ स्वदेहे यामले प्राणे संविदि** च +इति ।
+
+<details><summary>English</summary>
+
+The Kula form of ritual is to be performed in the following way.  
+The ritual is sixfold: external, in the śakti, in one's own body, in the union of the two, in the vital air, and in consciousness.
+</details>
+
+तत्र च +उत्तर उत्तर उत्कृष्टः, पूर्वः पूर्वस् तद्-रुच्य्-अर्थम् ।+++(4)+++   
+सिद्धि-कामस्य +++(शक्तौ यामले प्राणे चेति कौलयागः)+++ द्वितीय-तुर्य-पञ्चमाः सर्वथा निर्वर्त्याः।  
++++(संविदीति कौलयागः)+++ षष्ठस्तु मुमुक्षोः मुख्यः।  
+तस्यापि द्वितीयाद्या नैमित्तिके यथा-सम्भवम् अनुष्ठेया, एव विधि-पूरणार्थं च ।  
+
+<details><summary>English</summary>
+
+Among the six, each latter is more excellent than the former, but the performance of each former one is based on one's sweet will.  
+One who is desirous of attaining enjoyment should select the second, fourth, and fifth;  
+but the sixth is the principal ritual for the one who is desirous of liberation.  
+Even this kind of person should perform the rituals beginning from the second, as far as is possible, during the occasional observances, for in that way the precept is fulfilled.
+
+</details>
+
+तत्र बाह्यं - स्थण्डिलम्, आनन्द+++(=मद्य)+++-पूर्णं, वीर-पात्रम्, अरुणः पटः, पूर्वोक्तम् अपि वा +++(शिव)+++लिङ्गादि ।
+
+<details><summary>English</summary>
+
+Now, in regard to performance of the external ritual, there is the altar; the vessel full of wine, called the vessel of the vīra; the red cloth; and the śiva linga, which was described earlier.
+</details>
+
+तत्र स्नानादि-कर्तव्यानपेक्षयैव **पूर्णानन्द-विश्रान्त्यैव लब्ध-शुद्धिः**  
+प्रथमं प्राण-संविद्-देहैकी-भावं **भावयित्वा**  
+संविदश् च परम-शिव-रूपत्वात् **सप्त-विंशति-वारं मन्त्रम् उच्चार्य** मूर्ध-वक्त्र-हृद्-गुह्य-मूर्तिषु अनुलोम-विलोमाभ्यां +++(क्रमाभ्यां न्यस्यन्)+++  
+विश्वाध्व-परिपूर्णता परमेश्वरे अपरत्वे परापरत्वे परत्वेऽपि च ।  
+
+<details><summary>English</summary>
+
+In this ritual, without taking recourse to the ritual bath, etc., one attains purity by simply taking repose in the perfect blissful state.   
+Then, while meditating on the oneness of the vital energy, consciousness, and the body,  
+and (with the awareness that this) consciousness is identical with great Lord,  
+one should repeat the mantra twenty-seven times.  
+Then, one should place the mantra (nyāsa) on the top of the head, the face, the heart, the secret part, and the mūrtis, first in the natural order, and then in reverse.  
+In this way the fullness of identity with the great Lord in his āparā, parāparā, and parā forms is attained.
+</details>
+
+तथाहि माया-पुम्-प्रकृति-गुण-धी-प्रभृति--धरान्तं **सप्त-विंशति-तत्त्वानि** - कलादीनां तत्रैव अन्तर्भावात्।  
+विद्याशक्ताव् अपि परापरत्वे, बह्म-पञ्चकस्य +++(ब्रह्म-विष्णू-रुद्र+ईश्वर-सदाशिवानां)+++ सद्यस्त्वाजातत्व-भवोद्भवत्वादीनां धर्माणां **सप्त-विंशति-रूपत्वम्** एव +उक्तं श्रीमल्-लकुलेशादि-पादैः ।
+
+<details><summary>English</summary>
+
+The number of principles (tattvas) from māyā, puruṣa, guṇa, buddhi, to earth principle is twenty-seven.  The principles kalā, etc., are included in it.  
+The vidyāśaktis possess the nature of the higher-cum-lower aspects. The five Brahmas (Brahmā, Viṣṇu, Rudra, īśvara, and Sadāśiva), Sadyājāta, Bhavodbhavatva, and the others have twenty-seven aspects. This has been explained by the venerable, glorious Lakulesa as well as others.
+
+</details>
+
+
+
+परत्वेऽपि पञ्चशक्तिः हि परमेश्वरः, प्रतिशक्ति च पञ्चरूपता, एवं पञ्चविंशतिः शक्तयः, ताश्च अन्योन्यम् अनुदिनविभागा - इत्येवं सप्तविंशतिरूपया व्याप्त्या संविदग्नेः शिखां बुद्धिप्राणरूपां सकृदुच्चारमात्रेणैव बद्धां कुर्यात् - येन परमशिव एव प्रतिबद्धा तद्व्यतिरिक्तं न किंचिदभिधावति, तथाविधबुद्ध्यधिष्ठितकरणचक्रानुवेधेन पुरोवर्तिना यागद्रव्यगृहदिगाधारा दीनपि तन्मयीभूतान् कुर्यात्, ततोऽर्घमात्रमपि शिखाबन्धव्याप्त्यैव पूरयेत् 
 
 TANTRASĀRA 205 
 
 पूजयेच्च, तद्विपुड्भिः स्थण्डिलान्यपि तद्रसेन वामानामाङ्गुष्ठयोगात् देहचक्रेषु मन्त्रचक्रं पूजयेत् तर्पयेत् च, ततः प्राणान्तः, ततः स्थण्डिले त्रिशूलात्मकं शक्तित्रयान्तमासनं कल्पयेत्, मायान्तं हि साणे औकारे च शक्तित्रयान्तं तदुपरि याज्या विमर्शरूपा शक्तिः - इत्येवं सकृदुच्चारेणैव आधाराधेयन्यासं कृत्वा तत्रैव आधेयभूतायामपि संविदि विश्वं पश्येत्, तदपि च संविन्मयम् - इत्येवं विश्वस्य संविदा तेन च तस्याः संपुटीभावो भवति, संविद उदितं तत्रैव पर्यवसितं यतो विश्वं, वेद्याच्च संवित् उदेति तत्रैव च विश्राम्यति - इति एतावत्त्वं संवित्तत्त्वं संपुटीभावद्वयात् लभ्यते । तदुक्तम् __ 'सृष्टिं तु संपुटीकृत्य ...................।' इति । ततो गन्धधूपासवकुसुमादीन् आत्मप्रहीभावान्तान् अर्पयित्वा स्वविश्रान्त्या जप्त्वा उपसंहृत्य जले निक्षिपेत् इति बाह्ययागः । 
 
-___Chapter Twenty-Two The entire worship of this character is now going to be ascertained according to the Kaula method. This is meant for those who have attained the proper confidence and in whom the engrained desire for Kula yāga is going to develop. Therefore, in texts such as the Yogasaṁcāra, etc., it has been stated: 
-
-Bliss is Brahman which abides in the body. That bliss is established in a threefold way in the last syllable under pa-varga that is the labials. The person who is not a brahmacārin and abstains from the procedure of fol lowing the three ma-kāras (that is the ritual involving the three forbidden elements) is bereft of bliss. Bliss being bereft of wine, etc., and those who, forsaking it, engage themselves in worshipping in the cakra in both ways are cooked in a dreadful hell. Therefore, one should follow the prescribed procedure. 
-
-The Kula form of ritual is to be performed in the following way. The ritual is sixfold: external, in the śakti, in one's own body, in the union of the two, in the vital air, and in consciousness. 
 
 206 TANTRASĀRA 
 
-Among the six, each latter is more excellent than the former, but the performance of each former one is based on one's sweet will. One who is desirous of attaining enjoyment should select the second, fourth, and fifth; but the sixth is the principal ritual for the one who is desirous of liberation. Even this kind of person should perform the rituals beginning from the second, as far as is possible, during the occasional observances, for in that way the precept is fulfilled. 
 
-Now, in regard to performance of the external ritual, there is the altar; the vessel full of wine, called the vessel of the vīra; the red cloth; and the śiva linga, which was described earlier. In this ritual, without taking recourse to the ritual] bath, etc., one attains purity by simply taking repose in the perfect blissful state. Then, while meditating on the oneness of the vital energy, con sciousness, and the body, and (with the awareness that this] con sciousness is identical with great Lord, one should repeat the man tra twenty-seven times. Then, one should place the mantra (nyāsa) on the top of the head, the face, the heart, the secret part, and the mūrtis, first in the natural order, and then in reverse. In this way the fullness of identity with the great Lord in his āparā, parāparā, and parā forms is attained. 
 
-The number of principles (tattvas) from māyā, puruṣa, guṇa, buddhi, to earth principle is twenty-seven. The principles kalā, etc., are included in it. The vidyāśaktis possess the nature of the higher-cum-lower aspects. The five Brahmas (Brahmā, Viṣṇu, Rudra, īśvara, and Sadāśiva), Sadyājāta, Bhavodbhavatva, and the others have twenty-seven aspects. This has been explained by the venerable, glorious Lakulesa as well as others. 
+
 
 The great Lord (Parameśvara) possesses five śaktis, even in its highest aspect, and each of these śaktis possesses five aspects. Thus, the number of śaktis is twenty-five. When these śaktis are not shining distinctly as differentiated from each other, they are then said to be one; that is, a non-differentiated point (anud bhinnavibhāgā). With the pervasiveness of the twenty-seven, she should be meditated on as the flame of consciousness. It repre 
 
