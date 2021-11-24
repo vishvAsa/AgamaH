@@ -337,25 +337,58 @@ This shining is the very nature of the Lord, and for that reason the limbs of yo
 </details>
 
 **सत्-तर्क** एव साक्षात् तत्र +उपायः। स एव च शुद्धविद्या।  
-स च बहु-प्रकारतया संस्कृतो भवति। तद् यथा  - यागो होमो जपो व्रतं योग इति।
 
 <details><summary>English</summary>
 
-However, reasoning (tarka) is of great importance here, and right reasoning (sattarka) alone is the direct means.  
+However, reasoning (tarka) is of great importance here, and right reasoning (sattarka) alone is the direct means.
+
+</details>
+
+
+## सत्तर्क-संस्कारः
+स +++(सत्-तर्कः)+++ च **बहु-प्रकारतया संस्कृतो** भवति। तद् यथा  - यागो होमो जपो व्रतं योग इति।
+
+<details><summary>English</summary>
+
 This right reasoning is pure cognition (śuddha-vikalpa), which gets purified through different means, such as through oblation (yāga), offering of food into the fire (homa), repetition of mantra (japa), religious observances .(vrata), yoga, etc..
 </details>
 
 
 
-तत्र भावानां सर्वेषां परमेश्वर एव स्थितिः, नान्यत् व्यतिरिक्तम् अस्ति इति विकल्परूढिसिद्धये परमेश्वर एव सर्वभावार्पणं यागः, स च हृद्यत्वात् ये संविदनुप्रवेशं स्वयमेव भजन्ते तेषां सुशकं परमेश्वरे अर्पणम् इत्यभिप्रायेण हृद्यानां कुसुमतर्पणगन्धादीनां बहिरूपयोग उक्तः। सर्वे भावाः परमेश्वरतेजोमया इति रूढिविकल्पप्राप्त्यै परमेशसंविदनलतेजसि समस्तभा वग्रासरसिकताभिमते तत्तेजोपात्रावशेषत्वसहसमस्तभावविलपनं होमः । तथा उभयात्मकपरामर्शोदयार्थं बाह्याभ्यन्तरादिप्रमेयरूपभिन्नभावानपेक्षयैव एवं-विधं तत् परं तत्त्वं स्वस्वभावभूतम् इति अन्तः परामर्शनं जपः | सर्वत्र सर्वदा नि रुपायपरमेश्वराभिमानलाभाय परमेश्वरसमताभिमानेन देहस्यापि घटादेरपि अवलोकनं व्रतम् | यथोक्तं श्रीनन्दिशिखायाम् '.. .. .. .. .. सर्वसाम्यं परं व्रतम् ।' इति । इत्थं विचित्रैः शुद्धविद्यांशरूपैः विकल्पैः यत् अनपेक्षितविकल्पं स्वाभाविकं परमार्थतत्त्वं प्रकाशते तस्यैव सनातनतथाविधप्रकाशमात्रतारूढये तत्स्वरूपानुसंधानात्मा विकल्पविशेषो योगः | 
+"तत्र भावानां +++([क्: सर्वभावानामिति पाठः ।])+++  सर्वेषां परमेश्वर एव स्थितिः, नान्यद् व्यतिरिक्तम् अस्ति" +इति विकल्प-रूढि-सिद्धये परमेश्वर एव सर्व-भावार्पणं **यागः**।  
 
-Yāga is offering of all entities to the Lord for the purpose of attaining firm conviction in the form of the determinate knowl edge: "All entities are firmly established in the Lord and there is nothing separate from him." For those who are spontaneously enjoyers of penetration into consciousness, it is easy to make this offering (yāga) to the Lord because it is pleasing to the heart. It is 
+<details><summary>English</summary>
 
-72 TANTRASARA 
+Yāga is offering of all entities to the Lord for the purpose of attaining firm conviction in the form of the determinate knowledge: "All entities are firmly established in the Lord and there is nothing separate from him."
+</details>
 
-• 
+**स** +++(यागः)+++ च  
+"हृद्यत्वाद् ये संविद्-अनुप्रवेशं स्वयम् एव भजन्ते, तेषां सुशकं परमेश्वरे +अर्पणम्" इत्य् अभिप्रायेण  
+हृद्यानां कुसुम-तर्पण-गन्धादीनां बहिर्-उपयोग उक्तः ।+++(4)+++
 
-with this purpose in mind that offerings such as beautiful flowers, sandal paste, etc., are prescribed to be offered externally. Offer ings into consecrated fire (homa) is dissolution of all entities into the fire of consciousness of the Lord, who takes delight in con suming all and making them remain as the flame of fire alone Homa is for the purpose of attaining this steady determinate con viction: "All entities are made of the light." Repetition of a man tra (japa) is for the purpose of enlivening reflective cognitions, but without being dependent on them existing as knowables either externally or internally, and appearing as if they are distinct from the highest reality. This kind of reflective cognition of the highest reality; which is not different from one's own Self, is called.japa: - Religious observance (vrata) is the perception with firm con viction that the body, a jar, etc., are in essence identical with the Lord. This is for the purpose of attaining the supreme Self con sciousness (abhimāna) of the Lord, which is not to be attained by any other means. As it is said in the Srinandisikhā, “The highest vow (vrata) is the harmony of all.” That supreme reality, which is independent from all forms of thought constructs, shines forth through various forms of determinate knowledge which possesses elements of pure knowledge (fuddhavidyā). Yoga, which is a par ticular type of determinate knowledge (vikalpa), and whose nature is the unification with one's own innate nature, exists for the pur pose of establishing one firmly in that ever-shining light. 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+यदुक्तम्
+
+> यत् किञ्चिन् मनसाह्लादि  
+> यत्र क्वापीन्द्रिय-स्थितौ ।   
+> योजिते ब्रह्म-सद्धाम्नि  
+> पूजोपकरणं हि तत् ॥ 
+
+इति ।
+</details>
+
+<details><summary>English</summary>
+
+For those who are spontaneously enjoyers of penetration into consciousness, it is easy to make this offering (yāga) to the Lord because it is pleasing to the heart.  
+It is with this purpose in mind that offerings such as beautiful flowers, sandal paste, etc., are prescribed to be offered externally. +++(नात्रानुवादकः साध्व् अवागच्छत्। )+++
+</details>
+
+
+
+सर्वे भावाः परमेश्वरतेजोमया इति रूढिविकल्पप्राप्त्यै परमेशसंविदनलतेजसि समस्तभा वग्रासरसिकताभिमते तत्तेजोपात्रावशेषत्वसहसमस्तभावविलपनं होमः । तथा उभयात्मकपरामर्शोदयार्थं बाह्याभ्यन्तरादिप्रमेयरूपभिन्नभावानपेक्षयैव एवं-विधं तत् परं तत्त्वं स्वस्वभावभूतम् इति अन्तः परामर्शनं जपः | सर्वत्र सर्वदा नि रुपायपरमेश्वराभिमानलाभाय परमेश्वरसमताभिमानेन देहस्यापि घटादेरपि अवलोकनं व्रतम् | यथोक्तं श्रीनन्दिशिखायाम् '.. .. .. .. .. सर्वसाम्यं परं व्रतम् ।' इति । इत्थं विचित्रैः शुद्धविद्यांशरूपैः विकल्पैः यत् अनपेक्षितविकल्पं स्वाभाविकं परमार्थतत्त्वं प्रकाशते तस्यैव सनातनतथाविधप्रकाशमात्रतारूढये तत्स्वरूपानुसंधानात्मा विकल्पविशेषो योगः | 
+
+Offer ings into consecrated fire (homa) is dissolution of all entities into the fire of consciousness of the Lord, who takes delight in con suming all and making them remain as the flame of fire alone Homa is for the purpose of attaining this steady determinate con viction: "All entities are made of the light." Repetition of a man tra (japa) is for the purpose of enlivening reflective cognitions, but without being dependent on them existing as knowables either externally or internally, and appearing as if they are distinct from the highest reality. This kind of reflective cognition of the highest reality; which is not different from one's own Self, is called.japa: - Religious observance (vrata) is the perception with firm con viction that the body, a jar, etc., are in essence identical with the Lord. This is for the purpose of attaining the supreme Self con sciousness (abhimāna) of the Lord, which is not to be attained by any other means. As it is said in the Srinandisikhā, “The highest vow (vrata) is the harmony of all.” That supreme reality, which is independent from all forms of thought constructs, shines forth through various forms of determinate knowledge which possesses elements of pure knowledge (fuddhavidyā). Yoga, which is a par ticular type of determinate knowledge (vikalpa), and whose nature is the unification with one's own innate nature, exists for the pur pose of establishing one firmly in that ever-shining light. 
 
 तत्र परमेश्वरः पूर्णसंवित्स्वभावः, पूर्णतैव अस्य शक्तिः,-कुलं सामर्थ्य ऊर्मिः हृदयं सारं स्पन्दः विभूतिः त्रीशिका काली कर्षणी चण्डी वाणी भोगो दृक् नित्या इत्यादिभिः आगमभाषाभिः तत्तदन्वर्थप्रवृत्ताभिः अभिधीयते, तेन तेन रूपेण ध्यायिनां हृदि आस्ताम् इति । सा च समग्रशक्तिता दर्शनेन पूर्णतासंवित् प्रकाशते । शक्तयश्च अस्य असंख्येयाः । किं बहुना, यत् विश्वं ता अस्य शक्तयः, ताः कथम् उपदेष्टुं शक्याः इति । तिसृषु तावत् विश्वं समाप्यते, यया इदं शिवादिधरण्यन्तम् अविकल्प्यसंविन्मात्ररूपतया बिभर्ति च पश्यति च भासयति च परमेश्वरः सा अस्य श्रीपराशक्तिः | यया च दर्पणहस्त्यादिवत् भेदाभेदाभ्यां सा अस्य श्रीपरापराशक्तिः | यया परस्परविविक्तात्मना भेदेनैव सा 
 
