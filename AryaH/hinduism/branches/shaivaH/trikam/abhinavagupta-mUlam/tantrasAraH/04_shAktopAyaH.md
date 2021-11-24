@@ -2,6 +2,9 @@
 title = "04 शाक्तोपायः"
 
 +++
+मूलम् [अत्र](https://archive.org/details/in.ernet.dli.2015.283803/page/n47/mode/2up) ।
+
+
 चतुर्थमाह्निकम् । 
 
 अथ शाक्तोपायः ।
@@ -144,7 +147,7 @@ Therefore, only those keenly touched by the energy of Śiva, after following the
 
 ## स्वरूपस्य विकल्पातीतता
 ननु इत्थं परं तत्त्वं विकल्प्य-रूपं स्यात् ?   
-मैवम् - विकल्पस्य द्वैताधिवास+++(=अध्यास)+++-सङ्ग-मात्रे चरितार्थस्वात्।  
+मैवम् - विकल्पस्य द्वैताधिवास+++(=अध्यास)+++-भङ्ग-मात्रे चरितार्थस्वात्।  
 **परं तत्त्वं** तु सर्वत्र सर्वरूपतया **स्वप्रकाशम्** एव +इति -  
 न तत्र विकल्पः कस्यैचित् उपक्रियायै खण्डनायै वा ।+++(5)+++
 
@@ -187,7 +190,7 @@ However, at this point it will suffice to say that the role of the teacher is to
 The role of agama, on the other hand, is to give rise to the proper type of vikalpa (śuddha-vikalpa), which is instrumental in generating the series of homogeneous thoughts free from doubt.
 </details>
 
-
+## सत्-तर्क-प्राधान्यम्
 तथा-विध-विकल्प-प्रबन्ध एव **सत्-तर्क** इति उक्तः।  
 स एव च **भावना** भण्यते - अस्फुटत्वात् भूतम् अप्य् अर्थम् अभूतम्+++(→वर्तमानम्)+++ इव स्फुटत्वापादनेन भाव्यते यया इति ।
 
@@ -196,25 +199,153 @@ The role of agama, on the other hand, is to give rise to the proper type of vika
 This series of homogeneous determinate thoughts is called right reasoning (sat tarka),  
 and this right reasoning is called meditation (bhāvanā).  
 Through bhāvanā [^37] past objects (objects that have gone to rest in the past) that were indistinct, are now made as if present by rendering them distinct.
+
+
+[^37]:
+
+    The study of agama gives rise to the series of thought constructs free from doubt, which in turn give rise to the series of pure thought constructs (śuddha-vikalpa). This is the characteristic of the right form of reasoning. This right reasoning is called bhāvanā, the layers of pure thought. It is like the wish-fulfilling cow which grants all desires. According to this system, intuitive reasoning (sat-tarka) is considered to be the most supreme limb of yoga. By the right application of it, one becomes the true knower of the nature of reality. It is by this means alone that one is able to discern right from wrong. 
+
+</details>
+
+
+**न** च अत्र **सत्-तर्कात्** शुद्ध-विद्या-प्रकाश-रूपाद् **ऋते**  
+अन्यद् योगाङ्गं साक्षाद् **उपायः**  
+तपःप्रभृतेः नियम-वर्गस्य, अहिंसादेश् च यम-प्रकारस्य, पूरकादेः प्राणायाम-वर्गस्य, वेद्य-मात्र-निष्ठत्वेन क इव संविदि व्यापारः ।
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+योगाङ्गानि च
+
+> प्राणायामस्तथा ध्यानं  
+> प्रत्याहारोऽथ धारणा ।   
+> तर्कश् चैव समाधिश् च  
+> षडङ्गो योग उच्यते ॥   
+
+इति तदागमप्रसिद्धानि ।
+
+> अहिंसा सत्यम् अस्तेय-  
+> ब्रह्मचर्यापरिग्रहाः। 
+
+इति यमाः ।
+</details>
+
+<details><summary>English</summary>
+
+In this context we can say that no other direct means but reasoning, which is the light of pure knowledge, can serve as the limb of yoga.  
+For example, tapas, etc., belonging to the niyama group, ahimsa, etc., belonging to the yama group,[^38] various types of prāṇāyāma, etc., all are finally based in objective existence.  
+Therefore, what could be their role in regard to consciousness?
+
+[^38]:
+
+    The five under the group of self-restraint (yama) are: nonviolence, truthfulness, not stealing, restraining one's sexual urge, and non-acceptance of gifts. They are not considered to be the direct aid in attainment of consciousness. This is because the real nature of consciousness which is śiva is not touched by any of these means.
+</details>
+
+**प्रत्याहारो** ऽपि +++(ज्ञान-कर्मेन्द्रिय-रूप-)+++करण-भूमिम् एव सातिशयां कुर्यात्। 
+
+<details><summary>English</summary>
+
+Even pratyaharā [^39] only renders excellence on the level of senses, that is, the instruments of knowledge and action.
+
+[^39]:
+
+    Withdrawal of senses from the external objects and placing them in one's heart is known as pratyāhārā.+++(5)+++ However, for the consciousness which is all-pervasive, withdrawal is not possible.+++(5)+++ In the same way, concentration, meditation, and absorption (samadhi) are related to something which is limited. Therefore, they do not serve any purpose in attainment of the vision of that which is by nature unlimited.
+</details>
+
+**ध्यान-धारणा-समाधयो** ऽपि यथोत्तरम् अभ्यास-क्रमेण निर्वर्त्यमाना ध्येय-वस्तु-तादात्म्यं ध्यातुः वितरेयुः ।
+
+<details><summary>English</summary>
+
+In the same way, dhāraṇā, dhyāna, and samadhi, if practiced gradually and in this particular order, could grant to the medita tor the identification with the object of his meditation.
 </details>
 
 
 
-न च अत्र सत्तर्कात् शुद्धविद्याप्रकाशरूपात् ऋते अन्यत् योगाङ्गं साक्षात् उपायः, तपःप्रभृतेः नियमवर्गस्य, अहिंसादेश्च यमप्रकारस्य, पूरकादेः प्राणायामवर्गस्य वेद्यमात्रनिष्ठत्वेन क इव संविदि व्यापारः | प्रत्याहारोऽपि करणभूमिमेव सातिशयं कुर्यात्, ध्यानधारणासमाधयोऽपि यथोत्तरम् अभ्यासक्रमेण निर्वय॑माना ध्येयवस्तुतादात्म्यं ध्यातुः वितरेयुः । अभ्यासश्च परे तत्त्वे शिवात्मनि स्वस्वभावे न संभवत्येव । संविद्रूढस्य प्राणबुद्धिदेहनिष्ठीकरणरूप ो हि अभ्यासः-भारोद्वहनशास्त्रार्थबोध-नृत्ताभ्यासवत्, संविद्रूपे तु न किंचित् आदातव्यं न अपसरणीयम् इति कथम् अभ्यासः । 
+**अभ्यासश्** च परे तत्त्वे शिवात्मनि स्वस्वभावे न सम्भवत्य् एव ।
+
+<details><summary>English</summary>
+
+However, meditation or practice on the supreme reality, which is identical with śiva and is one's own innate nature, is not at all possible.
+</details>
+
+संविद्-रूढस्य प्राण-बुद्धि-देह-निष्ठी-करण-रूपो हि **अभ्यासो** भारोद्वहन--शास्त्रार्थ-बोध--नृत्ताभ्यासवत्।  
++++(किञ्च)+++ संविद्-रूपे तु न किञ्चिद् आदातव्यं, न +अपसरणीयम् इति कथम् +++(चित्रो)+++ अभ्यासः ।
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+संविद्-गतं हि प्राणादि-निष्ठं क्रियते इत्य् एतद्-रूपो **ऽभ्यासः** ।
+</details>
+
+<details><summary>English</summary>
 
 
+The practice of one who is established in consciousness is the process of steadily establishing prāṇa, intellect, and body in it.  
+This is not unike carrying a burden, studying the real meaning of śāstras, or practicing dance.  
+In the case of consciousness, however, nothing can be added or taken away from it.[^40] Therefore, how can practice (in regard to consciousness) be possible?
 
-In this context we can say that no other direct means but reasoning, which is the light of pure knowledge, can serve as the limb of yoga. For example, tapas, etc., belonging to the niyama group, ahimsa, etc., belonging to the yama group,[^38] various types of prāṇāyāma, etc., all are finally based in objec tive existence. Therefore, what could be their role in regard to consciousness? Even pratyaharā [^39] only renders excellence on the level of senses, that is, the instruments of knowledge and action. In the same way, dhāraṇā, dhyāna, and samadhi, if practiced gradually and in this particular order, could grant to the medita tor the identification with the object of his meditation. However, meditation or practice on the supreme reality, which is identical70 TANTRASĀRA 
 
-with śiva and is one's own innate nature, is not at all possible. The practice of one who is established in consciousness is the process of steadily establishing prāṇa, intellect, and body in it. This is not unike carrying a burden, studying the real meaning of śāstras, or practicing dance. In the case of consciousness, however, nothing can be added or taken away from it.[^40] Therefore, how can practice (in regard to consciousness) be possible? 
+[^40]:
 
-किं तर्केणापि इति चेत्, उक्तमत्र द्वैताधिवासनिरासप्रकार एव अयं न तु अन्यत् किंचिदिति । लौकिकेऽपि वा अभ्यासे चिदात्मत्वेन सर्वरूपस्य तस्य तस्य देहादेः अभिमतरूपताप्रकटीकरणं तदितररूपन्यग्भावनं च इति एष एव अभ्यासार्थः । परंतत्त्वे तु न किंचित् अपास्यम् इति उक्तम् । द्वैताधिवासोऽपि नाम न कश्चन पृथक् वस्तुभूतः अपि तु स्वरूपाख्यातिमात्रं तत्, अतो द्वैतापासनं विकल्पेन क्रियत इत्युक्तेः । अयं परमार्थः-स्वरूपं प्रकाशमानम् अख्यातिरूपत्वं स्वयं स्वातन्त्र्यात् गृहीतं क्रमेण प्रोज्झ्य विकासोन्मुखम्, अथ विकसितम् इत्येनेन क्रमेण प्रकाशते, तथा प्रकाशनमपि परमेश्वरस्य स्वरूपमेव, तस्मात् न योगाङ्गानि साक्षात् उपायः | तर्कं तु अनुगृह्णीयुरपि, सत्तर्क एव साक्षात् तत्र उपायः, स एव च शुद्धविद्या, स च बहुप्रकारतया संस्कृतो भवति, तद्यथा-यागो होमो जपो व्रतं योग इति, 
+    Practice is an activity which is performed consciously either in the vital energy, in the intellect, or in the body, etc. Lifting heavy loads, studying a text and continuous effort to understand its meaning, occupying oneself with dancing and music add confidence and later proficiency to the respective spheres. However, consciousness, having the nature of light, is ever shining and changeless. Therefore, practice does not add or take away anything from it. 
+</details>
 
-Now the question arises: "If this is so, then what can be accom plished by right reasoning?” We have already answered this ques tion by saying that the role of right reasoning is only to remove the impressions of duality and nothing else whatsoever. As every thing is of the nature of consciousness, the main purpose of even ordinary practice is to create the desired form in the body, prāṇa, etc., and put the undesired form in a subordinated place. How ever, it has already been explained that nothing can be taken away from the supreme reality. Even the impression of duality is not something different from consciousness. It is merely ignorance of one's own essential nature. Therefore, it was said that duality is removed by pure determinate thought (śuddha-vikalpa). The supreme essential nature has an innermost nature (svabhāva) that is self-shining, which assumes the state of ignorance through its 
+"+++(तथा सति)+++ किं तर्केणापि" इति चेत् - उक्तम् अत्र द्वैताधिवास-निरास-प्रकार एव +अयं, न तु +अन्यत् किञ्चिद् इति ।
 
-TANTRASĀRA 71 
+<details><summary>English</summary>
 
-own freedom. Then gradually, by forsaking it, it first becomes intent on blossoming, then it begins to blossom, and finally it becomes fully blossomed. Thus, by manifesting [literally 'shin ing'], following this sequential order, it manifests itself in its full ness. This shining is the very nature of the Lord, and for that reason the limbs of yoga cannot be the direct means. However, reasoning (tarka) is of great importance here, and right reasoning (sattarka) alone is the direct means. This right reasoning is pure cognition (śuddha-vikalpa), which gets purified through differ ent means, such as through oblation (yāga), offering of food into the fire (homa), repetition of mantra (japa), religious observances .(vrata), yoga, etc. . . 
+Now the question arises: "If this is so, then what can be accomplished by right reasoning?” We have already answered this ques tion by saying that the role of right reasoning is only to remove the impressions of duality and nothing else whatsoever.
+</details>
+
+**लौकिके** ऽपि वा **अभ्यासे**   
+चिद्-आत्मत्वेन सर्वरूपस्य  
+तस्य तस्य देहादेः अभिमत-रूपता-प्रकटी-करणं   
+तद्-इतर-रूप-न्यग्-भावनं च +इति +एष एव अभ्यासार्थः ।
+
+<details><summary>English</summary>
+
+As every thing is of the nature of consciousness, the main purpose of even ordinary practice is to create the desired form in the body, prāṇa, etc., and put the undesired form in a subordinated place.
+</details>
+
+परतत्त्वे तु न किञ्चिद् अपास्यम् इति +उक्तम् ।  
+द्वैताधिवासो ऽपि नाम न कश्चन पृथक्-वस्तुभूतः - अपि तु स्वरूपाख्याति-मात्रं तत्। अतो द्वैतापासनं विकल्पेन क्रियत इत्युक्तेः ।
+
+<details><summary>English</summary>
+
+However, it has already been explained that nothing can be taken away from the supreme reality.  
+Even the impression of duality is not something different from consciousness. It is merely ignorance of one's own essential nature. Therefore, it was said that duality is removed by pure determinate thought (śuddha-vikalpa).
+</details>
+
+अयं परमार्थः - 
+
+स्वरूपं प्रकाशमानम् अख्याति-रूपत्वं स्वयं स्वातन्त्र्याद् गृहीतं  
+क्रमेण प्रोज्झ्य  
+विकासोन्मुखम्, अथ विकसत्, अथ विकसितम्, इत्यनेन क्रमेण प्रकाशते।+++(5)+++   
+
+<details><summary>English</summary>
+
+The supreme essential nature has an innermost nature (svabhāva) that is self-shining, which assumes the state of ignorance through its own freedom.  
+Then gradually, by forsaking it, it first becomes intent on blossoming, then it begins to blossom, and finally it becomes fully blossomed.  
+Thus, by manifesting [literally 'shining'], following this sequential order, it manifests itself in its fullness.
+
+</details>
+
+तथा प्रकाशनम् अपि परमेश्वरस्य स्वरूपम् एव।  
+तस्मान् न +अत्र योगाङ्गानि साक्षात् उपायः ।
+
+<details><summary>English</summary>
+
+This shining is the very nature of the Lord, and for that reason the limbs of yoga cannot be the direct means.
+</details>
+
+**सत्-तर्क** एव साक्षात् तत्र +उपायः। स एव च शुद्धविद्या।  
+स च बहु-प्रकारतया संस्कृतो भवति। तद् यथा  - यागो होमो जपो व्रतं योग इति।
+
+<details><summary>English</summary>
+
+However, reasoning (tarka) is of great importance here, and right reasoning (sattarka) alone is the direct means.  
+This right reasoning is pure cognition (śuddha-vikalpa), which gets purified through different means, such as through oblation (yāga), offering of food into the fire (homa), repetition of mantra (japa), religious observances .(vrata), yoga, etc..
+</details>
+
+
 
 तत्र भावानां सर्वेषां परमेश्वर एव स्थितिः, नान्यत् व्यतिरिक्तम् अस्ति इति विकल्परूढिसिद्धये परमेश्वर एव सर्वभावार्पणं यागः, स च हृद्यत्वात् ये संविदनुप्रवेशं स्वयमेव भजन्ते तेषां सुशकं परमेश्वरे अर्पणम् इत्यभिप्रायेण हृद्यानां कुसुमतर्पणगन्धादीनां बहिरूपयोग उक्तः। सर्वे भावाः परमेश्वरतेजोमया इति रूढिविकल्पप्राप्त्यै परमेशसंविदनलतेजसि समस्तभा वग्रासरसिकताभिमते तत्तेजोपात्रावशेषत्वसहसमस्तभावविलपनं होमः । तथा उभयात्मकपरामर्शोदयार्थं बाह्याभ्यन्तरादिप्रमेयरूपभिन्नभावानपेक्षयैव एवं-विधं तत् परं तत्त्वं स्वस्वभावभूतम् इति अन्तः परामर्शनं जपः | सर्वत्र सर्वदा नि रुपायपरमेश्वराभिमानलाभाय परमेश्वरसमताभिमानेन देहस्यापि घटादेरपि अवलोकनं व्रतम् | यथोक्तं श्रीनन्दिशिखायाम् '.. .. .. .. .. सर्वसाम्यं परं व्रतम् ।' इति । इत्थं विचित्रैः शुद्धविद्यांशरूपैः विकल्पैः यत् अनपेक्षितविकल्पं स्वाभाविकं परमार्थतत्त्वं प्रकाशते तस्यैव सनातनतथाविधप्रकाशमात्रतारूढये तत्स्वरूपानुसंधानात्मा विकल्पविशेषो योगः | 
 

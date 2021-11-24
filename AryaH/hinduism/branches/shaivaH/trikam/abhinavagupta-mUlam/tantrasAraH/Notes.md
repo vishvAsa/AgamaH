@@ -181,41 +181,10 @@ absolute consciousness through śāmbhava upaya, then assiduous tasks, such as b
 ## 04
 Chapter Four 
 
-[^37]:
-
-    The study of agama gives rise to the series of thought constructs free from doubt, which in turn give rise to the series of pure thought constructs (śuddha-vikalpa). This is the characteristic of the right form of reasoning. This right reasoning is called bhāvanā, the layers of pure thought. It is like the wish-fulfilling cow which grants all desires. According to this system, intuitive reasoning (sattarka) is considered to be the most supreme limb of yoga. By the right application of it, one becomes the true knower of the nature of reality. It is by this means alone that one is able to discern right from wrong. 
-
-
-
-[^38]:
-
-    The five under the group of self-restraint (yama) are: nonviolence, 
-
-truthfulness, not stealing, restraining one's sexual urge, and nonac ceptance of gifts. They are not considered to be the direct aid in attainment of consciousness. This is because the real nature of con 
-
-sciousness which is śiva is not touched by any of these means. 
-
-[^39]:
-
-    Withdrawal of senses from the external objects and placing them in 
-
-one's heart is known as pratyāhārā. However, for the consciousness which is all-pervasive, withdrawal is not possible. In the same way, concentration, meditation, and absorption (samadhi) are related to something which is limited. Therefore, they do not serve any pur 
-
-pose in attainment of the vision of that which is by nature unlimited. : - 
-
-[^40]:
-
-    Practice is an activity which is performed consciously either in the 
-
-vital energy, in the intellect, or in the body, etc. Lifting heavy loads, studying a text and continuous effort to understand its mean ing, occupying oneself with dancing and music add confidence and later proficiency to the respective spheres. However, consciousness, having the nature of light, is ever shining and changeless. There 
-
-fore, practice does not add or take away anything from it. 
 
 [^41]:
 
-    The universe is the sportive play of three energies (śaktis). The first 
-
-is the supreme energy in which all the principles (tattvas) from śiva to the earth shine as pure consciousness, free from all determinate knowledge (nirvikalpa). The second, known as Srīparāparā śakti, by which everything shines as different-cum-nondifferent like the reflection of the elephant in the mirror. Though the reflection is one with the mirror, yet, as in the case of the elephant, it is distinct from the mirror itself. The third power, named Aparāśakti, is the one by which everything under the domain of the delusive power of māyā shines with difference. There is yet another energy (śakti) which abides in everything, permeating and threading through all, which is known as Mātṇsādbhāva, Kālakarṣiṇi, and other similar names. Each of the above-mentioned śaktis, following the order of creation, maintenance, and dissolution, possesses three aspects. 
+    The universe is the sportive play of three energies (śaktis). The first is the supreme energy in which all the principles (tattvas) from śiva to the earth shine as pure consciousness, free from all determinate knowledge (nirvikalpa). The second, known as Srīparāparā śakti, by which everything shines as different-cum-nondifferent like the reflection of the elephant in the mirror. Though the reflection is one with the mirror, yet, as in the case of the elephant, it is distinct from the mirror itself. The third power, named Aparāśakti, is the one by which everything under the domain of the delusive power of māyā shines with difference. There is yet another energy (śakti) which abides in everything, permeating and threading through all, which is known as Mātṇsādbhāva, Kālakarṣiṇi, and other similar names. Each of the above-mentioned śaktis, following the order of creation, maintenance, and dissolution, possesses three aspects. 
 
 Therefore the number becomes twelve. 
 
