@@ -453,7 +453,7 @@ Repetition of a mantra (japa) is for the purpose of enlivening reflective cognit
 <details><summary>English</summary>
 
 Religious observance (vrata) is the perception with firm con viction that the body, a jar, etc., are in essence identical with the Lord.  
-This is for the purpose of attaining the supreme Self con sciousness (abhimāna) of the Lord, which is not to be attained by any other means.  
+This is for the purpose of attaining the supreme Self consciousness (abhimāna) of the Lord, which is not to be attained by any other means.  
 As it is said in the Srinandisikhā, “The highest vow (vrata) is the harmony of all.”
 </details>
 
