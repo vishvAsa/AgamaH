@@ -468,15 +468,49 @@ That supreme reality, which is independent from all forms of thought constructs,
 Yoga, which is a particular type of determinate knowledge (vikalpa), and whose nature is the unification with one's own innate nature, exists for the purpose of establishing one firmly in that ever-shining light.
 </details>
 
+तत्र परमेश्वरः पूर्णसंवित्-स्वभावः।  
+पूर्णतैव +अस्य शक्तिः -   
+कुलं सामर्थ्यं ऊर्मिः हृदयं सारं स्पन्दः विभूतिः त्रीशिका  
+काली कर्षणी चण्डी वाणी भोगो दृक् नित्या
+
+२८)
+
+इत्यादिभिः आगमभाषाभिः तत्तदन्वर्थप्रवृत्ताभिः अभिधीयते तेन तेन   
+रूपेण ध्यायिनां हृदि आस्ताम् इति ।
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+यदुक्तम्
+
+> किञ्चिच् चलनम् एतावद्  
+> अनन्यस्फुरणं हि यत् ।   
+> **ऊर्मिर्** एषा विबोधाब्धेर्  
+> न संविदनया विना ॥ 
+
+इति ।
+
+यदुक्तम्
+
+> परामर्श-स्वभावत्वाद्  
+> एतस्या यः स्वयं ध्वनिः ।   
+> सदोदितः स एवोक्तो  
+> हृदयं परमं महत् ॥ 
+
+इति ।
+
+तिसृणां शक्तीनाम् इच्छा ज्ञान-क्रियाणाम् ईशिका ईश्वरीति श्रीशिका,  
+अक्षरवर्णन-साम्याश् च त्रिंशिकेत्य् अपि गुरवः पठन्ति ।
+</details>
 
 
-तत्र परमेश्वरः पूर्णसंवित्स्वभावः, पूर्णतैव अस्य शक्तिः,-कुलं सामर्थ्य ऊर्मिः हृदयं सारं स्पन्दः विभूतिः त्रीशिका काली कर्षणी चण्डी वाणी भोगो दृक् नित्या इत्यादिभिः आगमभाषाभिः तत्तदन्वर्थप्रवृत्ताभिः अभिधीयते, तेन तेन रूपेण ध्यायिनां हृदि आस्ताम् इति । सा च समग्रशक्तिता दर्शनेन पूर्णतासंवित् प्रकाशते । शक्तयश्च अस्य असंख्येयाः । किं बहुना, यत् विश्वं ता अस्य शक्तयः, ताः कथम् उपदेष्टुं शक्याः इति । तिसृषु तावत् विश्वं समाप्यते, यया इदं शिवादिधरण्यन्तम् अविकल्प्यसंविन्मात्ररूपतया बिभर्ति च पश्यति च भासयति च परमेश्वरः सा अस्य श्रीपराशक्तिः | यया च दर्पणहस्त्यादिवत् भेदाभेदाभ्यां सा अस्य श्रीपरापराशक्तिः | यया परस्परविविक्तात्मना भेदेनैव सा 
+
+सा च समग्रशक्तिता दर्शनेन पूर्णतासंवित् प्रकाशते । शक्तयश्च अस्य असंख्येयाः । किं बहुना, यत् विश्वं ता अस्य शक्तयः, ताः कथम् उपदेष्टुं शक्याः इति । तिसृषु तावत् विश्वं समाप्यते, यया इदं शिवादिधरण्यन्तम् अविकल्प्यसंविन्मात्ररूपतया बिभर्ति च पश्यति च भासयति च परमेश्वरः सा अस्य श्रीपराशक्तिः | यया च दर्पणहस्त्यादिवत् भेदाभेदाभ्यां सा अस्य श्रीपरापराशक्तिः | यया परस्परविविक्तात्मना भेदेनैव सा 
 
 TANTRASĀRA 73 
 
 अस्य श्रीमदपराशक्तिः । 
 
-The essential nature of the great Lord is the 'fullness of his consciousness' (purnasamvitsvābhava). This fullness of con sciousness is his śakti, [^41] which is known as body (kula), capacity (samarthya), wave (urmi), heart (hrdaya), essence (sāra), vibra tion (spanda), glory of power (vibhuti), the three-formed goddess (trisikā), the cause of kalana (kali), one who minimizes (karsini), dreadful (candi), speech (vāṇi), enjoyment (bhoga), knowledge (drk), and the superintending deity of lunar phases (nityā). This Śakti is expressed by these and other appellations based on various grammatical derivations, which are technical terms used in the āgamas. Let this Śakti abide in any of these forms in the heart of ā meditator. If this śakti is viewed collectively, as consisting of the totality of all śaktis, the fullness of consciousness becomes mani fest. The Lord possesses innumerable dynamic energies (śaktis). What more can we say? The entire universe is his śakti. There fore, it is impossible to enumerate all of them in this instruction However, the whole universe can be summed up under three main Śaktis. The supreme energy (Śrīparāśakti) of the Lord is that śakti by means of which this universe, beginning with śiva and ending with earth principle (tattva), is born, seen, and manifested by the Lord in indeterminate consciousness. Srīparāparāśakti of the Lord is that śakti by means of which he projects the universe just like the reflection of an elephant, etc., in a mirror: as different-cum nondifferent. The glorious Aparāśakti is that śakti by means of which he manifests this differentiated universe, in which all these objects appear as different from one another. 
+The essential nature of the great Lord is the 'fullness of his consciousness' (purnasamvitsvābhava). This fullness of con sciousness is his śakti, [^41] which is known as body (kula), capacity (samarthya), wave (urmi), heart (hrdaya), essence (sāra), vibration (spanda), glory of power (vibhuti), the three-formed goddess (trisikā), the cause of kalana (kali), one who minimizes (karsini), dreadful (candi), speech (vāṇi), enjoyment (bhoga), knowledge (drk), and the superintending deity of lunar phases (nityā). This Śakti is expressed by these and other appellations based on various grammatical derivations, which are technical terms used in the āgamas. Let this Śakti abide in any of these forms in the heart of ā meditator. If this śakti is viewed collectively, as consisting of the totality of all śaktis, the fullness of consciousness becomes mani fest. The Lord possesses innumerable dynamic energies (śaktis). What more can we say? The entire universe is his śakti. There fore, it is impossible to enumerate all of them in this instruction However, the whole universe can be summed up under three main Śaktis. The supreme energy (Śrīparāśakti) of the Lord is that śakti by means of which this universe, beginning with śiva and ending with earth principle (tattva), is born, seen, and manifested by the Lord in indeterminate consciousness. Srīparāparāśakti of the Lord is that śakti by means of which he projects the universe just like the reflection of an elephant, etc., in a mirror: as different-cum nondifferent. The glorious Aparāśakti is that śakti by means of which he manifests this differentiated universe, in which all these objects appear as different from one another. 
 
 एतत् त्रिविधं यया धारणम् आत्म्न्येव क्रोडीकारेण अनुसन्धानात्मना ग्रसते, सा अस्य भगवती श्रीपरैव श्रीमन्मातृसद्भावकालकार्षिण्यादिशब्दान्तर निरुक्ता | ता एताः चतस्रः शक्तयः स्वातन्त्र्यात् प्रत्येकं त्रिधैव वर्तन्ते । सृष्टौ स्थितौ संहारे च इति द्वादश भवन्ति । तथाहि -१ संवित् पूर्वम् अन्तरेव भावं कलयति, २ ततो बहिरपि स्फुटतया कलयति, ३ तत्रैव रक्तिमयतां गृहीत्वा ततः तमेव भावम् अन्तरुपसंजिहीर्षया कलयति, ४ ततश्च तदुपसंहारविघ्नभूतां 
 
