@@ -180,7 +180,7 @@ __शान्तोदितधाम्नि येऽनुसंदधत�
 
 The Procedure Regarding the Pair (Yāmala) The characteristic feature of the śakti is sin its being] that by which perfect steadiness of nonduality is attained. Therefore, without considering age, caste, worldly and otherworldly spiritual relations, one attains supreme identity of nonduality born of both [male and female] (1). 
 
-The faktis are of three types: the created, the caused, and the born of the union of both. They are conceived otherwise by subsidiary divisions. They are mutually worshipped and propitiated because bliss is adjacent there (2). "The (principal] cakra should be properly worshipped. Other minor cakras should be worshipped after that. The external worship is to be performed by the offering of flowers, sandal paste, etc., and inwardly they are to be propitiated by means of offering food, wine, etc. (3). 
+The śaktis are of three types: the created, the caused, and the born of the union of both. They are conceived otherwise by subsidiary divisions. They are mutually worshipped and propitiated because bliss is adjacent there (2). "The (principal] cakra should be properly worshipped. Other minor cakras should be worshipped after that. The external worship is to be performed by the offering of flowers, sandal paste, etc., and inwardly they are to be propitiated by means of offering food, wine, etc. (3). 
 
 Thus, the upsurge of the mass of bliss becomes manifest by means of various activities and, as a result, all the minor cakras, being dissolved in the principal cakra, become identified with it (4). 
 

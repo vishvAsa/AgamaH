@@ -182,37 +182,8 @@ absolute consciousness through śāmbhava upaya, then assiduous tasks, such as b
 Chapter Four 
 
 
-[^41]:
-
-    The universe is the sportive play of three energies (śaktis). The first is the supreme energy in which all the principles (tattvas) from śiva to the earth shine as pure consciousness, free from all determinate knowledge (nirvikalpa). The second, known as Srīparāparā śakti, by which everything shines as different-cum-nondifferent like the reflection of the elephant in the mirror. Though the reflection is one with the mirror, yet, as in the case of the elephant, it is distinct from the mirror itself. The third power, named Aparāśakti, is the one by which everything under the domain of the delusive power of māyā shines with difference. There is yet another energy (śakti) which abides in everything, permeating and threading through all, which is known as Mātṇsādbhāva, Kālakarṣiṇi, and other similar names. Each of the above-mentioned śaktis, following the order of creation, maintenance, and dissolution, possesses three aspects. 
-
-Therefore the number becomes twelve. 
-
-[^42]:
-
-    Knowingness (pramiti) which abides in all the knowers is the active 
-
-principle. It is known as existing awareness (mātssādbhāva). 
-
 224 NOTES 
 
-
-
-[^43]:
-
-    By the power of Kālakarsiṇi, complete shrinkage of time occurs. As 
-
-a result, the sequence of time completely disappears, which reveals 
-
-consciousness in its totality. 
-
-[^44]:
-
-    When supreme consciousness, which is the knowing subject, con 
-
-sumes all differences, it is known as fire. In reality, being of the nature of I-Consciousness, it assumes by its power of autonomy the forms of intellect, the mind, and ten senses. Thus the number becomes twelve. The knowing subject (pramātā), who is of the nature of fire, assuming the nature of an instrument of knowledge, becomes known as the sun. At that state it is known as ego (ahamkara). The state which is known to be the instrument of knowledge is-in reality the eternal aspect of the knowing subject. Now the question regarding the creation of the knowables arises. The instrument of knowledge cannot be designated as such without the existence of any knowable object. Therefore, the instrument of knowledge itself assumes the nature of the objective universe. From the level of the knowing subject (pramātā), down to the level of the object, they assume four aspects each. These four aspects are cre ation, maintenance, dissolution, and the nameless (anākhyā). The total number of the aspects is twelve. As these aspects are manifes tation of consciousness, the yogin, while wandering along in the void of consciousness, can easily attain steadiness in any of these 
-
-states and attain absorption by unifying these four states. 
 
 [^45]:
 
