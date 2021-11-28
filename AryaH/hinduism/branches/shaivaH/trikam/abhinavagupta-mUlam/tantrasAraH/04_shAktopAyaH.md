@@ -468,6 +468,7 @@ That supreme reality, which is independent from all forms of thought constructs,
 Yoga, which is a particular type of determinate knowledge (vikalpa), and whose nature is the unification with one's own innate nature, exists for the purpose of establishing one firmly in that ever-shining light.
 </details>
 
+## ईश्वरः, शक्तिश् च
 तत्र **परमेश्वरः** पूर्णसंवित्-स्वभावः।  
 पूर्णतैव +अस्य **शक्तिः** -   
 कुलं सामर्थ्यं ऊर्मिः हृदयं सारं स्पन्दः विभूतिः त्रीशिका  
@@ -540,6 +541,8 @@ What more can we say? The entire universe is his śakti. Therefore, it is imposs
 However, the whole universe can be summed up under three main Śaktis.
 </details>
 
+### ३/५-शो विभागः
+
 यया +इदं शिवादि-धरण्य्-अन्तम् अविकल्प्य-संविन्-मात्र-रूपतया बिभर्ति च पश्यति च भासयति च परमेश्वरः  
 सा अस्य **श्री-परा-शक्तिः** ।
 
@@ -599,55 +602,136 @@ Each of those four śaktis, because of their freedom, shines in threefold manner
 </details>
 
 
-तथाहि -१ संवित् पूर्वम् अन्तरेव भावं कलयति, २ ततो बहिरपि स्फुटतया कलयति, ३ तत्रैव रक्तिमयतां गृहीत्वा ततः तमेव भावम् अन्तरुपसंजिहीर्षया कलयति, ४ ततश्च तदुपसंहारविघ्नभूतां 
+### १२ काल्यः
+तथाहि 
 
-74 TANTRASĀRA 
+- १ संवित् पूर्वम् अन्तर् एव भावं कलयति, 
+- २ ततो बहिर् अपि स्फुटतया कलयति, 
+- ३ तत्रैव रक्ति-मयतां गृहीत्वा, ततः तम् एव भावम् अन्तर् उप-संजिहीर्षया कलयति,  
+- ४ ततश् च तद्-उपसंहार-विघ्न-भूतां शङ्कां निर्मिणोति च ग्रसते च,+++(4)+++  
+- ५ ग्रस्त-शङ्कांशं भाव-भागम् +++([ख्: भावभरमिति पाठान्तरं च ।])+++ आत्मनि उपसंहारेण कलयति, 
+- ६ तत उपसंहर्तृत्वं ममेदं रूपम् इत्य् अपि स्वभावम् एव कलयति, 
+- ७ तत उपसंहर्तृ-स्वभाव-कलने कस्यचिद् भावस्य वासनात्मना +++([ख्: ग्रसनात्मना इति पाठान्तरं च ।])+++ अवस्थितिं, कस्यचित् तु संविन्-मात्रावशेषतां कलयति,  
+- ८ ततः स्वरूप-कलनानान्तरीयकत्वेनैव करण-चक्रं कलयति,
+- ९ ततः करणेश्वरम् अपि कलयति, 
+- १० ततः कल्पितं मायीयं प्रमातृ-रूपम् अपि कलयति, 
+- ११ सङ्कोच-त्यागोन्मुख-विकास-ग्रहण-रसिकम् अपि प्रमातारं कलयति, 
+- १२ ततो विकसितम् अपि रूपं कलयति 
 
-शङ्कां निर्मिणोति च ग्रसते च, ५ ग्रस्तशङ्कांशं भावभागम् आत्मनि उपसंहारेण कलयति, ६ तत उपसंहर्तृत्वं ममेदं रूपमित्यपि स्वभावमेव कलयति, ७ तत उपसंहर्तृस्वभावकलने कस्यचिद्धावस्य वासनात्मना अवस्थितिं कस्यचित् तु संविन्मात्रावशेषतां कलयति, ८ ततः स्वरूपकलनानान्तरीयकत्वेनैव करणचक्रं कलयति,.९ ततः करणेश्वरमपि कलयति, १० ततः कल्पितं मायीयं प्रमातृरूपमपि कलयति, ११ सङ्कोचत्यागोन्मुखविकासग्रहणरसिकमपि प्रमातारं कलयति, १२ ततो विकसितमपि रूपं कलयति इति एता द्वादश भगवत्यः संविदः प्रमातृन् एकं वापि उद्दिश्य युगपत् क्रमेण द्विशः त्रिश इत्यादिस्थित्यापि उदयभागिन्यः चक्रवदावर्तमाना बहिरपि मासकलाराश्यादिक्रमेण अन्ततो वा घटपटादिक्रमेणापि भासमानाः चक्रेश्वरस्य स्वातन्त्र्यं पुष्णत्यः श्रीकालीशब्दवाच्याः । कलनं च -गतिः क्षेपो ज्ञानं गणनं भोगीकरणं शब्दनं स्वात्मलयीकरणं च । यदाहुः श्रीभूतिराजगुरवः 'क्षेपाज्ज्ञानाच्च काली कलनवशतयाथ... ।' इति । एष च अर्थः तत्र तत्र मद्विरचिते विवरणे प्रकरणस्तोत्रादौ वितत्य वीक्ष्यः | न अतिरहस्यम् एकत्र ख्याप्यं, न च सर्वथा गोप्यम् इति हि अस्मद्गुरवः | 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-This takes place in the following way: 
+**शङ्का** हि शास्त्रानन्त्यात् कार्याकार्य-विभागस्य विपर्यय-दर्शनात् किङ्कर्तव्यता-मूढता-रूपा ।
 
-1. First, consciousness only shapes (kalayati) entities 
+यदुक्तम्
 
-(bhāva) within. 2. Then it projects (kalayati) them externally as distinct 
+> विलापनात्मिकां तां च  
+> भाव-संहृतिम् आत्मनि ।   
+> आमृशत्य् एव येनैषा  
+> मया ग्रस्तम् इति स्फुरेत् ॥ 
 
-forms. 3. Then consciousness accepts external objects as something ___pleasant and desirable, and then it throws (kalayati) them 
+इति ।
 
-internally with the desire to dissolve them within. 4. Next it creates doubt regarding various obstacles in the 
+**उपसंहर्तृ-स्वभाव-कलने** - यदुक्तम्
 
-process of dissolution, after which it dissolves those obsta 
+> विलापितेऽपि भावौघे  
+> कञ्चिद् भावं तथैव सा ।   
+> आश्यानयेद् य एवास्ते  
+> शङ्का-संस्कार-रूपकः ॥ 
 
-TANTRASĀRA 75 
+इति ।
 
-cles as well. 5. After this, the portion of entity shining as doubt, which is 
 
-going to be dissolved, is assimilated (kalayati) within the 
+</details>
 
-self through the process of withdrawal. 6. Then it creates (kalayati) the agent of withdrawal and 
 
-realizes it as being his own Self. 7. In the process of creating (kalayati) the agent of with 
+<details><summary>English</summary>
 
-drawal, it creates some entities as existing in the form of impressions (vāsanās) and some others as existing in the 
+This takes place in the following way:
 
-form of consciousness alone. 8. Then it creates the wheel of. instruments (of knowledge 
+1. First, consciousness only shapes (kalayati) entities (bhāva) within.
+2. Then it projects (kalayati) them externally as distinct forms.
+3. Then consciousness accepts external objects as something pleasant and desirable, and then it throws (kalayati) them internally with the desire to dissolve them within.
+4. Next it creates doubt regarding various obstacles in the process of dissolution, after which it dissolves those obstacles as well.
+5. After this, the portion of entity shining as doubt, which is going to be dissolved, is assimilated (kalayati) within the self through the process of withdrawal.
+6. Then it creates (kalayati) the agent of withdrawal and realizes it as being his own Self.
+7. In the process of creating (kalayati) the agent of withdrawal, it creates some entities as existing in the form of impressions (vāsanās) and some others as existing in the form of consciousness alone.
+8. Then it creates the wheel of instruments (of knowledge and action), preceded by the process of the activity of manifesting its own nature.
+9. Next it shapes (kalayati) the lords of the instruments.
+10. Then it creates (kalayati) the limited subject belonging to the level of māyā.
+11. After this it creates (kalayati) the knowing subject, who is intent on abandoning limitations and accepting the blissful state of consciousness.
+12. Next it manifests (kalayati) the fully bloomed form of his own Self.
+</details>
 
-and action), preceded by the process of the activity of manifesting its own nature. 9. Next it shapes (kalayati) the lords of the instruments. 10. Then it creates (kalayati) the limited subject belonging to 
 
-the level of māyā. 11. After this it creates (kalayati) the knowing subject, who is 
 
-intent on abandoning limitations and accepting the blissful 
+इति +एता द्वादश भगवत्यः  
+संविदः प्रमातॄन् एकं वापि +उद्दिश्य  
+युगपत् क्रमेण द्विशः त्रिश इत्य्-आदि-स्थित्या ऽपि उदय-भागिन्यः  
+**चक्रवद् आवर्तमाना**  
 
-state of consciousness. 12. Next it manifests (kalayati) the fully bloomed form of his 
+<details><summary>English</summary>
 
-own Self. 
+Thus, the 'twelve divine Goddesses of consciousness' (dvādaśa Bhagavatyah) manifest themselves, either to all subjects or only one, simultaneously or sequentially, either in two or three.
+</details>
 
-Thus, the 'twelve divine Goddesses of consciousness' (dvādaśa Bhagavatyah) manifest themselves, either to all subjects or only one, simultaneously or sequentially, either in two or three. They move in the manner of a circle like a wheel, and also shine exter nally in the form of months, and other minute divisions of time, the signs of zodiac, and finally in the form of pot, cloth, etc. In this way, they nourish the autonomy of the 'Lord of the Wheel (Cakreśvara) and are expressed by the word Śrī Kālī. 
 
-The different meanings of the word kalana[^45] are: moving, throwing (projecting), knowledge, enumeration, causing all the objects to become objects of enjoyment, sounding, and withdraw ing [assimilating] the objects into oneself. As it has been stated by the teacher Śrī Bhūtirāja: "She is known as Kālī on account of projecting, knowing, and enumerating.” The meaning of Kālī can 
+बहिर् अपि मास-कला-राश्य्-आदि-क्रमेण  
+अन्ततो वा घट-पटादि-क्रमेणाऽपि **भासमानाः**  
+चक्रेश्वरस्य **स्वातन्त्र्यं पुष्णत्यः** **श्रीकाली-शब्द-वाच्याः** । 
 
-76 TANTRASĀRA 
+<details><summary>English</summary>
 
-be seen in detail in various places of my Parātrīśikā Vivarana and the monograms of my hymns. It is the tradition of my teachers that esoteric secrets should not be disclosed in one place, nor is it proper to keep them totally hidden. 
+They move in the manner of a circle like a wheel, and also shine externally in the form of months, and other minute divisions of time, the signs of zodiac, and finally in the form of pot, cloth, etc.
+
+In this way, they nourish the autonomy of the 'Lord of the Wheel (Cakreśvara) and are expressed by the word Śrī Kālī.
+</details>
+
+
+
+**कलनं** च - 
+गतिः क्षेपो ज्ञानं गणनं भोगीकरणं शब्दनं स्वात्मलयीकरणं च ।
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+यदुक्तम्
+
+इत्थं भोग्येऽपि सम्भुक्ते  
+सति तत्-करणान्य् अपि ।   
+संहरन्ती कलयति  
+द्वादशैवाहम्-आत्मनि ॥ 
+
+इति ।
+</details>
+
+<details><summary>English</summary>
+
+The different meanings of the word kalana[^45] are: moving, throwing (projecting), knowledge, enumeration, causing all the objects to become objects of enjoyment, sounding, and withdraw ing [assimilating] the objects into oneself.
+</details>
+
+
+
+यदाहुः श्रीभूतिराजगुरवः   
+  
+> क्षेपाज् ज्ञानाच् च **काली** कलन-वशतयाथ ॥ ।  
+  
+इति ।
+
+<details><summary>English</summary>
+
+As it has been stated by the teacher Śrī Bhūtirāja: "She is known as Kālī on account of projecting, knowing, and enumerating.”
+</details>
+
+
+
+एष च अर्थस् तत्र तत्र मद्-विरचिते विवरणे प्रकरण-स्तोत्रादौ वितत्य वीक्ष्यः ।  
+न +अतिरहस्यम् एकत्र ख्याप्यं, न च सर्वथा गोप्यम् इति हि अस्मद्गुरवः ।+++(5)+++
+
+
+<details><summary>English</summary>
+
+The meaning of Kālī can be seen in detail in various places of my Parātrīśikā Vivarana and the monograms of my hymns.  
+It is the tradition of my teachers that esoteric secrets should not be disclosed in one place, nor is it proper to keep them totally hidden.
+</details>
 
 तदेवम् यदुक्तं यागहोमादि तत् एवं-विधे महेश्वर एव मन्तव्यम् । सर्वे हि हेयमेव उपादेयभूमिरूपं विष्णुतः प्रभृति शिवान्तं परमशिवतया पश्यन्ति, तच्च मिथ्यादर्शनम् अवश्यत्याज्यम् अनुत्तरयोगिभिरिति, तदर्थमेव विद्याधिपतेः अनुभवस्तोत्रे महान् संरम्भः, एवं-विधे यागादौ योगान्ते च पञ्चके प्रत्येकं बहुप्रकारं निरूढिः यथा यथा भवति तथैव आचरेत्, न तु भक्ष्याभक्ष्यशुद्ध्यशुद्ध गादिविवेचनया वस्तुधर्मोज्झितया कल्पनामात्रसारया स्वात्मा खेदनीय' इति उक्त : श्रीपूर्वादौ, न हि शुद्धिः वस्तुनो रूपं नीलत्ववत्, अन्यत्र तस्यैव अशुद्धिचोदनात्, दानस्येव दीक्षितत्वे, चोदनातः तस्य तत् तत्र अशुद्धम् इति चेत् चोदनान्तरेऽपि तुल्यं, चोदनान्तरम् असत् - तद्बाधितत्वात् इति चेत् न, शिवचोदनाया एव बाधकत्वं युक्तिसिद्धं सर्वज्ञानोत्तराद्यनन्तागमसिद्धं च इति वक्ष्यामः | तस्मात् वैदिकात् प्रभृति पारमेश्वरसिद्धान्ततन्त्रकुलोच्छुष्मादिशास्त्रोक्तोऽपि यो नियमो विधिः वा निषेधो वा सोऽत्र यावदकिंचित्कर एव इति सिद्धम् । तथैव च उक्तं श्रीपूर्वादौ, वितत्य तन्त्रालोकात् अन्वेष्यम्। 
 
