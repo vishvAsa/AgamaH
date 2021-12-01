@@ -182,45 +182,10 @@ absolute consciousness through śāmbhava upaya, then assiduous tasks, such as b
 Chapter Four 
 
 
-224 NOTES 
-
-
-[^45]:
-
-    The term kalana has different meanings. Kālī is the conscious agent 
-
-who performs kalana, therefore she is known as Kālī. The number of Kālīs is twelve. They are as follows: (1) Sr̥ṣṭikālī, (2) Sthiti Kālī, (3) Saṁhārakālī, (4) Raktakālī, (5) Svakālī (sukālī), (6) Yama Kālī, (7) Mộtyukālī, (8) Rudrakālī (Bhadrakālī), (9) Paramārkakālī, (10) Mārtandakālī, (11) Kālāgnirudrakālī, and (12) Mahākālī (Parākālī, Mahākālakālī, Kālakālī). This kalana also occurs in relation to the knowable, the instrument of knowledge, and the knowing subject. As each state is of the characteristic of creation, maintenance, dis solution, and the nameless one (anākhyā), the number of the divine 
-
-energies also becomes twelve. 
-
-[^46]:
-
-    Here the word Maheśvara does not refer to the highest Lord of this 
-
-system but to one of the triad, Brahmā, Viṣnu, and Maheśvara. 
-
-NOTES 225 
-
-
-
-[^47]:
-
-    For example, while performing yāga one can one day offer flowers 
-
-to the Lord. Then, next day, the one may offer sandal paste, food, 
-
-etc., until finally one is able to offer oneself. 
-
-[^48]:
-
-    Śrīpūrva is another name for the Mālinivijayottara Tantra. 
-
 ## 06
 [^79]:
 
-    The day is the period when the sun shines and the moon, in the form 
-
-of apāna, declines. For this reason, the day is conceived to be the period of the dark fortnight. Similarly, during the night, apāna, in the form of the moon, arises; therefore, the night is conceived as 
+    The day is the period when the sun shines and the moon, in the form of apāna, declines. For this reason, the day is conceived to be the period of the dark fortnight. Similarly, during the night, apāna, in the form of the moon, arises; therefore, the night is conceived as 
 
 the bright fortnight. 
 

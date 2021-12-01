@@ -541,7 +541,7 @@ What more can we say? The entire universe is his śakti. Therefore, it is imposs
 However, the whole universe can be summed up under three main Śaktis.
 </details>
 
-### ३/५-शो विभागः
+### ३/४-शो, १२-शश् च विभागः
 
 यया +इदं शिवादि-धरण्य्-अन्तम् अविकल्प्य-संविन्-मात्र-रूपतया बिभर्ति च पश्यति च भासयति च परमेश्वरः  
 सा अस्य **श्री-परा-शक्तिः** ।
@@ -706,6 +706,14 @@ In this way, they nourish the autonomy of the 'Lord of the Wheel (Cakreśvara) a
 <details><summary>English</summary>
 
 The different meanings of the word kalana[^45] are: moving, throwing (projecting), knowledge, enumeration, causing all the objects to become objects of enjoyment, sounding, and withdrawing [assimilating] the objects into oneself.
+
+
+[^45]:
+
+    The term kalana has different meanings. Kālī is the conscious agent who performs kalana, therefore she is known as Kālī. The number of Kālīs is twelve. They are as follows:  
+    (1) Sr̥ṣṭikālī, (2) Sthiti Kālī, (3) Saṁhārakālī, (4) Raktakālī, (5) Svakālī (sukālī), (6) Yama Kālī, (7) Mộtyukālī, (8) Rudrakālī (Bhadrakālī), (9) Paramārkakālī, (10) Mārtandakālī, (11) Kālāgnirudrakālī, and (12) Mahākālī (Parākālī, Mahākālakālī, Kālakālī).  
+    This kalana also occurs in relation to the knowable, the instrument of knowledge, and the knowing subject. As each state is of the characteristic of creation, maintenance, dis solution, and the nameless one (anākhyā), the number of the divine energies also becomes twelve. 
+
 </details>
 
 
@@ -723,7 +731,7 @@ As it has been stated by the teacher Śrī Bhūtirāja: "She is known as Kālī 
 
 
 
-एष च अर्थस् तत्र तत्र मद्-विरचिते विवरणे प्रकरण-स्तोत्रादौ वितत्य वीक्ष्यः ।  
+एष +++(काली-परिचयः)+++ च अर्थस् तत्र तत्र मद्-विरचिते विवरणे प्रकरण-स्तोत्रादौ वितत्य वीक्ष्यः ।  
 न +अतिरहस्यम् एकत्र ख्याप्यं, न च सर्वथा गोप्यम् इति हि अस्मद्गुरवः ।+++(5)+++
 
 
@@ -733,31 +741,155 @@ The meaning of Kālī can be seen in detail in various places of my Parātrīśi
 It is the tradition of my teachers that esoteric secrets should not be disclosed in one place, nor is it proper to keep them totally hidden.
 </details>
 
-तदेवम् यदुक्तं यागहोमादि तत् एवं-विधे महेश्वर एव मन्तव्यम् । सर्वे हि हेयमेव उपादेयभूमिरूपं विष्णुतः प्रभृति शिवान्तं परमशिवतया पश्यन्ति, तच्च मिथ्यादर्शनम् अवश्यत्याज्यम् अनुत्तरयोगिभिरिति, तदर्थमेव विद्याधिपतेः अनुभवस्तोत्रे महान् संरम्भः, एवं-विधे यागादौ योगान्ते च पञ्चके प्रत्येकं बहुप्रकारं निरूढिः यथा यथा भवति तथैव आचरेत्, न तु भक्ष्याभक्ष्यशुद्ध्यशुद्ध गादिविवेचनया वस्तुधर्मोज्झितया कल्पनामात्रसारया स्वात्मा खेदनीय' इति उक्त : श्रीपूर्वादौ, न हि शुद्धिः वस्तुनो रूपं नीलत्ववत्, अन्यत्र तस्यैव अशुद्धिचोदनात्, दानस्येव दीक्षितत्वे, चोदनातः तस्य तत् तत्र अशुद्धम् इति चेत् चोदनान्तरेऽपि तुल्यं, चोदनान्तरम् असत् - तद्बाधितत्वात् इति चेत् न, शिवचोदनाया एव बाधकत्वं युक्तिसिद्धं सर्वज्ञानोत्तराद्यनन्तागमसिद्धं च इति वक्ष्यामः | तस्मात् वैदिकात् प्रभृति पारमेश्वरसिद्धान्ततन्त्रकुलोच्छुष्मादिशास्त्रोक्तोऽपि यो नियमो विधिः वा निषेधो वा सोऽत्र यावदकिंचित्कर एव इति सिद्धम् । तथैव च उक्तं श्रीपूर्वादौ, वितत्य तन्त्रालोकात् अन्वेष्यम्। 
+
+तद् एवम् यद्-उक्तं **याग-होमादि** तद् **एवं-विधे** +++([ख्: एवं विधमिति पाठः ।])+++ **महेश्वर** एव मन्तव्यम् ।  
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+न तु मायागर्भाधिकारिणि अन्यस्मिन्निति भावः ।
+</details>
+
+<details><summary>English</summary>
+
+All that has been stated about yāga, homa, and so on, should be understood to be only for Maheśvara.[^46]
+
+[^46]:
+
+    Here the word Maheśvara does not refer to the highest Lord of this system but to one of the triad, Brahmā, Viṣnu, and Maheśvara.
+</details>
+
+सर्वे हि हेयम् एव उपादेय-भूमि-रूपं +++([ख्: पाशभूमिरूपमिति पाठान्तरं च ।])+++ **विष्णुतः प्रभृति शिवान्तं परम-शिवतया** पश्यन्ति।  
+तच् च **मिथ्या-दर्शनम्** अवश्य-त्याज्यम् अनुत्तर-योगिभिर् इति। 
+
+<details><summary>English</summary>
+
+All perceive those very things that are to be avoided as those that are to be accepted, and also perceive everything from Viṣnu to śiva as Paramaśiva.  
+This kind of view is wrong and it should be rejected by yogins following the path of the Absolute (anuttarayogins).
+</details>
+
+तदर्थम् एव विद्याधिपतेः +++(आचार्यविशेषस्य)+++ अनुभव-स्तोत्रे महान् संरम्भः।  
+
+<details><summary>English</summary>
+
+For this very purpose, Vidyādhipati has made great effort in his monograms entitled "Anubhāva Stotra."
+</details>
+
+
+
+> एवं-विधे +++(पर-तत्त्व-निष्ठे)+++ यागादौ योगान्ते च पञ्चके +++(यागो होमो जपो व्रतं योग इत्येतेषु)+++ प्रत्येकं  
+> बहुप्रकारं निरूढिर् यथा यथा भवति  
+> तथैव आचरेत्।  
+> न तु भक्ष्याभक्ष्य-शुद्ध्य्-अशुद्ध्य्-आदि-विवेचनया  
+> वस्तु-धर्मोज्झितया कल्पना-मात्र-सारया  
+> स्वात्मा खेदनीय  
+
+इति उक्तं श्रीपूर्वादौ +++(=मालिनीविजयोत्तरे)+++।
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+**भक्ष्याभक्ष्यादि-विवेचनया** - वैदिक-क्रिया-मात्र-परत्वे ।  
+**आदिना** कार्याकार्यादि गृह्यते ।
+</details>
+
+<details><summary>English</summary>
+
+Thus, in each of these five, beginning with yāga and ending with yoga, there are different levels of steadiness to be attained.[^47] One should act in such a way that one may attain a steady conviction in them.
+
+This kind of yogin should not think, “This food is sanctioned and this food is prohibited, or this is pure and this is impure," and in this way cause suffering to his own self. Purity, impurity, etc., are not invariable properties belonging to the object, but in essence, products of the imagination. Thus, it is stated in the Sripūrva[^48].
+
+[^47]:
+
+    For example, while performing yāga one can one day offer flowers to the Lord. Then, next day, the one may offer sandal paste, food, etc., until finally one is able to offer oneself.+++(5)+++
+
+[^48]:
+
+    Śrīpūrva is another name for the Mālinivijayottara Tantra.
+</details>
+
+
+न हि **शुद्धिर्** वस्तुनो रूपं नीलत्ववत् -  
+अन्यत्र तस्यैव +अ-शुद्धि-चोदनात् -  
+दानस्येव दीक्षितत्वे।  
+
++++(वैदिक-)+++चोदनातस् तस्य तत् तत्र +अशुद्धम् इति चेच्  +++(आगमाख्ये)+++ चोदनान्तरेऽपि,  
+तुल्यं +++(आगमोक्तं)+++ चोदनान्तरम् असत् - तद्-बाधितत्वात् +++(वैदिक-सम्प्रदाय-वचनैर्)+++ इति चेन् न -  
+**शिव-चोदनाया +एव बाधकत्वं** युक्ति-सिद्धं,  
+सर्वज्ञानोत्तराद्य्-अनन्तागम-सिद्धं च  
++इति वक्ष्यामः ।
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+**चोदनान्तरे ऽपि** - शिवोदिते । क्रियायां प्रवर्तकं वचनं चोदनेति ।
+
+> वेदबाह्यस् तु यः कश्चिद्  
+> आगमो वञ्चनैव सा । 
+
+इत्यनेन **बाधितत्वम्** ।
+</details>
+
+
+
+<details><summary>English</summary>
+
+Purity is not the essential attribute of an object in the same way as the property of being blue, etc., is not the essential nature of an object,  
+for it has been started to be impure on other occasions.
+
+In (the case of) an offering of gifts to one who has been initiated,  
+if it is argued that because of directive statement (codana), this offering of gifts is impure with reference to that (directive statement),  
+then it is similar to some other directive statement (codanāntara) which may contradict the former, but such a contradictory directive statement is unreal because of [this] incongruity-  
+if it is so argued, then we say, "no," that is not right.  
+The directive statement uttered by Lord śiva himself is sufficiently forceful to annul other directive precepts.  
+It is well-supported by logical reasoning,  
+and also (well-established] in numberless āgamas like the Sarvajñānottara and others.  
+We shall speak of it later in the sequel.
+</details>
+
+तस्मात् वैदिकात् प्रभृति पारमेश्वर-सिद्धान्त-तन्त्र--कुलोच्छुष्मादि-शास्त्रोक्तोऽपि  
+यो नियमो - विधिर् वा निषेधो वा  
+सोऽत्र यावद् अकिञ्चित्कर एव इति सिद्धम् ।  
+तथैव च उक्तं श्रीपूर्वादौ वितत्य तन्त्रालोकात् अन्वेष्यम् ।
+
+<details><summary>English</summary>
+
+Therefore, the rule which is enjoined, in the scriptures, as the precept to be followed and the thing that is to be prohibited,  
+beginning from the Vedas down to the Tantras of the Lord as understood by the Siddhāntins, such as Kulocchuṣma and others, serves no purpose in this context;  
+therefore the truth of the matter is established.  
+In the Sripūrva and other texts it has been so stated.  
+One should seek a detailed account of it in the Tantrāloka and other texts.
+</details>
+
+
 
 यो निश्चयः पशुजनस्य जडोऽस्मि कर्म-  
 सम्पाशितोऽस्मि मलिनोऽस्मि परेरितोऽस्मि ।  
 इत्य् एतद् अन्य-दृढ-निश्चय-लाभ-सिद्ध्या  
 सद्यः पतिर् भवति विश्व-वपुश् चिद्-आत्मा ॥ +++(4)+++
 
-यथा यथा निश्चय ईदृगाप्यते  
-तथावधेयं परयोगिना सदा ।  
-न वस्तुयाथात्म्यविहीनया दृशा  
-विशङ्कितव्यं शिशुदेशनागणैः   
-[अपरमार्थज्ञोपदेशैर्मूर्खोपदेशैरित्यर्थः ।] ॥
+<details><summary>English</summary>
 
-All that has been stated about yāga, homa, and so on, should be understood to be only for Maheśvara.[^46] All perceive those very things that are to be avoided as those that are to be accepted, and also perceive everything from Viṣnu to śiva as Paramaśiva. This 
 
-TANTRASĀRA 77 
+Bound souls possess a firm conviction of the following nature:  
+"I am dull, I am much-enticed by the bonds of past deeds, I am impure, I am led by others."  
+Upon perfect attainment of a firm conviction contrary and distinct from the above,  
+the same bound soul immediately becomes the Lord (pati) with the immanent form of pure consciousness.
+</details>
 
-kind of view is wrong and it should be rejected by yogins fol lowing the path of the Absolute (anuttarayogins). For this very purpose, Vidyādhipati has made great effort in his monograms entitled "Anubhāva Stotra." 
 
-Thus, in each of these five, beginning with yāga and ending with yoga, there are different levels of steadiness to be attained.[^47] One should act in such a way that one may attain a steady convic tion in them. This kind of yogin should not think, “This food is sanctioned and this food is prohibited, or this is pure and this is impure," and in this way cause suffering to his own self. Purity, impurity, etc., are not invariable properties belonging to the object, but in essence, products of the imagination. Thus, it is stated in the Sripūrva:[^48] “Purity is not the essential attribute of an object in the same way as the property of being blue, etc., is not the essential nature of an object, for it has been started to be impure on other occasions." In (the case of) an offering of gifts to one who has been initiated, if it is argued that because of directive statement (codana), this offering of gifts is impure with reference to that (directive statement), then it is similar to some other direc tive statement (codanāntara) which may contradict the former, but such a contradictory directive statement is unreal because of [this] incongruity-if it is so argued, then we say, "no," that is not right. The directive statement uttered by Lord śiva himself is sufficiently forceful to annul other directive precepts. It is well-supported by logical reasoning, and also (well-established] in numberless āga mas like the Sarvajñānottara and others. We shall speak of it later in the sequel. Therefore, the rule which is enjoined, in the scrip tures, as the precept to be followed and the thing that is to be prohibited, beginning from the Vedas down to the Tantras of the Lord as understood by the Siddhāntins, such as Kulocchuṣma and others, serves no purpose in this context; therefore the truth of the matter is established. In the Sripūrva and other texts it has been so stated. One should seek a detailed account of it in the Tantrāloka and other texts. 
 
-Bound souls possess a firm conviction of the follow 
+यथा यथा निश्चय ईदृग् आप्यते  
+तथा ऽवधेयं पर-योगिना सदा ।  
+न वस्तु-याथात्म्य-विहीनया दृशा  
+विशङ्कितव्यं शिशु-देशना-गणैः॥
 
-78 TANTRASĀRA 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-ing nature: "I am dull, I am much-enticed by the bonds of past deeds, I am impure, I am led by others." Upon perfect attainment of a firm conviction contrary and distinct from the above, the same bound soul immedi ately becomes the Lord (pati) with the immanent form of pure consciousness. The perfect yogin should always be mindful that a firm conviction of the aforesaid nature should be attained. He should not endanger himself with doubts [arising from] notions lacking the true nature of things, or by the unsound precepts of dullards. 
+**शिशु-देशना-गणैः** = अ-परमार्थ-ज्ञोपदेशैर् मूर्खोपदेशैर् इत्य् अर्थः। 
+</details>
 
-b.. 
+<details><summary>English</summary>
+
+The perfect yogin should always be mindful that a firm conviction of the aforesaid nature should be attained.  
+He should not endanger himself with doubts [arising from] notions lacking the true nature of things, or by the unsound precepts of dullards.
+</details>
+
+
