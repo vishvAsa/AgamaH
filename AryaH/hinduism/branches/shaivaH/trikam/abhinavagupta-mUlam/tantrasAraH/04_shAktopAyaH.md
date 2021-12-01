@@ -705,7 +705,7 @@ In this way, they nourish the autonomy of the 'Lord of the Wheel (Cakreśvara) a
 
 <details><summary>English</summary>
 
-The different meanings of the word kalana[^45] are: moving, throwing (projecting), knowledge, enumeration, causing all the objects to become objects of enjoyment, sounding, and withdraw ing [assimilating] the objects into oneself.
+The different meanings of the word kalana[^45] are: moving, throwing (projecting), knowledge, enumeration, causing all the objects to become objects of enjoyment, sounding, and withdrawing [assimilating] the objects into oneself.
 </details>
 
 
