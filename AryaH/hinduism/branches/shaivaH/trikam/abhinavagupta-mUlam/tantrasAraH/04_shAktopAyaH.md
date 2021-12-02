@@ -544,21 +544,22 @@ However, the whole universe can be summed up under three main Śaktis.
 ### ३/४-शो, १२-शश् च विभागः
 
 यया +इदं शिवादि-धरण्य्-अन्तम् अविकल्प्य-संविन्-मात्र-रूपतया बिभर्ति च पश्यति च भासयति च परमेश्वरः  
-सा अस्य **श्री-परा-शक्तिः** ।
+सा अस्य **श्री-परा-शक्तिः**। +++(सा च स्वसंवित्तिर् विमर्श इति वार्त्तिके । )+++
 
 <details><summary>English</summary>
 
 The supreme energy (Śrīparāśakti) of the Lord is that śakti by means of which this universe, beginning with śiva and ending with earth principle (tattva), is born, seen, and manifested by the Lord in indeterminate consciousness.
 </details>
 
-यया च दर्पणहस्त्यादिवत् भेदाभेदाभ्यां सा अस्य **श्री-परापरा-शक्तिः** ।
+यया च दर्पणहस्त्यादिवत् भेदाभेदाभ्यां सा अस्य **श्री-परापरा-शक्तिः** +++(मानम् इति वार्त्तिक उक्ता च)+++।
 
 <details><summary>English</summary>
 
 Srīparāparāśakti of the Lord is that śakti by means of which he projects the universe just like the reflection of an elephant, etc., in a mirror +++(reflection being part of mirror, yet separate)+++: as different-cum nondifferent.
 </details>
 
-यया परस्पर-विविक्तात्मना भेदेनैव +++([ख्: विविक्तताभेदेनेति पाठः ।])+++ सा अस्य श्रीमदपराशक्तिः ।
+यया परस्पर-विविक्तात्मना भेदेनैव +++([ख्: विविक्तताभेदेनेति पाठः ।])+++ सा अस्य **श्रीमद्-अपरा-शक्तिः** ।  
++++(मेयात्मिकेयम् इति वार्त्तिकम्।)+++
 
 <details><summary>English</summary>
 
@@ -605,7 +606,7 @@ Each of those four śaktis, because of their freedom, shines in threefold manner
 ### १२ काल्यः
 तथाहि 
 
-- १ संवित् पूर्वम् अन्तर् एव भावं कलयति, 
+- १ संवित् पूर्वम् अन्तर् एव भावं कलयति +++(सृष्टि-काली)+++, 
 - २ ततो बहिर् अपि स्फुटतया कलयति, 
 - ३ तत्रैव रक्ति-मयतां गृहीत्वा, ततः तम् एव भावम् अन्तर् उप-संजिहीर्षया कलयति,  
 - ४ ततश् च तद्-उपसंहार-विघ्न-भूतां शङ्कां निर्मिणोति च ग्रसते च,+++(4)+++  
@@ -741,6 +742,7 @@ The meaning of Kālī can be seen in detail in various places of my Parātrīśi
 It is the tradition of my teachers that esoteric secrets should not be disclosed in one place, nor is it proper to keep them totally hidden.
 </details>
 
+## परशिवाराधनम्
 
 तद् एवम् यद्-उक्तं **याग-होमादि** तद् **एवं-विधे** +++([ख्: एवं विधमिति पाठः ।])+++ **महेश्वर** एव मन्तव्यम् ।  
 
@@ -859,6 +861,7 @@ One should seek a detailed account of it in the Tantrāloka and other texts.
 </details>
 
 
+## सङ्ग्रहः
 
 यो निश्चयः पशुजनस्य जडोऽस्मि कर्म-  
 सम्पाशितोऽस्मि मलिनोऽस्मि परेरितोऽस्मि ।  
