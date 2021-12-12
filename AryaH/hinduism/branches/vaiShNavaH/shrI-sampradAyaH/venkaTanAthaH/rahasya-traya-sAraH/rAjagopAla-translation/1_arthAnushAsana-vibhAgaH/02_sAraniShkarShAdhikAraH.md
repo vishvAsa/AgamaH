@@ -38,7 +38,7 @@ THE ONLY PRAMANA IN REGARD TO) MOKSHA AND
 
 THE MEANS OF ATTAINING IT IS SASTRA: 
 
-The ultimate goal or aim of life (purushärtha ) (namely, moksha) and the means of attainiog it are not capable of being understood from sense perception (pratyaksha) or (anumāna) inference. As stated in such passages as "It is from the 
+The ultimate goal or aim of life (purushārtha ) (namely, moksha) and the means of attainiog it are not capable of being understood from sense perception (pratyaksha) or (anumāna) inference. As stated in such passages as "It is from the 
 
 1. Naradiya Kalpa 19. - ORAPTER 
 

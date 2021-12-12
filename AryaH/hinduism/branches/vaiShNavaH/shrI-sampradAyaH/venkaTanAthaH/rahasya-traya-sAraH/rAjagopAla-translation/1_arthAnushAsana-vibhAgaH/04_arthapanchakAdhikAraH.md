@@ -11,9 +11,9 @@ AFTER SALVATION.
 
 SANSKRIT SLOKA: 
 
-In the '&' in Om and in the word 'Narayana' occurring in Ashtakshara, the supreme end of life (i.e.) Bhagavan, who is opposed to all that is objectionable or faulty, is indicated; in the in in om and in the part nära occurring in Nārāyaṇāya, the essential natare (svarūpa) of the jiva who is to attain this end is dis 
+In the '&' in Om and in the word 'Narayana' occurring in Ashtakshara, the supreme end of life (i.e.) Bhagavan, who is opposed to all that is objectionable or faulty, is indicated; in the in in om and in the part nāra occurring in Nārāyaṇāya, the essential natare (svarūpa) of the jiva who is to attain this end is dis 
 
-(siddha upāya) namely, Bhagavan, is indicated in the part ayance occurring in Nārāyana and the means to be accomplished or adopted (sādhya upāya ), which is self-surrender, is in namas; the fruit desired, viz., the enjoyment of Brabman which includes also service to Him is disclosed in the dative or fourth case in Närāyaṇāya; the bindrance to it, namely, the feeling of 'mine' is in the word mama occurring in sramah (na mama ). He who understands the Ashtākshara mantra that reveals all these five and \*Dvayam too, wbich is to the same effect--he will be consi dered by all as one who knows everything. 
+(siddha upāya) namely, Bhagavan, is indicated in the part ayance occurring in Nārāyana and the means to be accomplished or adopted (sādhya upāya ), which is self-surrender, is in namas; the fruit desired, viz., the enjoyment of Brabman which includes also service to Him is disclosed in the dative or fourth case in Nārāyaṇāya; the bindrance to it, namely, the feeling of 'mine' is in the word mama occurring in sramah (na mama ). He who understands the Ashtākshara mantra that reveals all these five and \*Dvayam too, wbich is to the same effect--he will be consi dered by all as one who knows everything. 
 
 THERE IS NO REAL DIFFERENCE BETWEEN THOSE WHO SPEAK OF FIVE THINGS AND THOSE 
 
@@ -29,13 +29,13 @@ THE FIVE THINGS TO BE KNOWN.
 
 33 
 
-things are that should be onderstood by the seeker after moksha along with tbe relationship itself, the answer is as follows: "The patare' of "the end to be attained ” vis. Brahman, the nature of the individual self who is the seeker of the attainment, the means of attainment (upāya), the fruit resulting from it and so also the hindrances to the attainment of Brabman - all the Vedas with their (elucidatory) itihäsās and purānās speak of these five," 
+things are that should be onderstood by the seeker after moksha along with tbe relationship itself, the answer is as follows: "The patare' of "the end to be attained ” vis. Brahman, the nature of the individual self who is the seeker of the attainment, the means of attainment (upāya), the fruit resulting from it and so also the hindrances to the attainment of Brabman - all the Vedas with their (elucidatory) itihāsās and purānās speak of these five," 
 
 BRAHMAN, THE END TO BE ATTAINED: 
 
 ITS SVARĪPA: 
 
-Among these, the essential nature of Brabman, which is the object of attainment, is revealed in the first letter a in om and in the word 'Narayana' in Tirumantra and in the words Nārāyana with the adjectives 'Srünün' occurring in Duayam and in the words 'me' and 'I' occurring in the Charama sloka. It is in this way that they should be considered. Wbile doing so, one should thiok of His essential nature (svarīpa) as infinite jräna and infinite bliss ever inseparable from His consort, Lakshmi, who, in every form and in all situations, participates in all His actions. For there are many authoritative passages in support of this prescribed contemplation - 
+Among these, the essential nature of Brabman, which is the object of attainment, is revealed in the first letter a in om and in the word 'Narayana' in Tirumantra and in the words Nārāyana with the adjectives 'Srünün' occurring in Duayam and in the words 'me' and 'I' occurring in the Charama sloka. It is in this way that they should be considered. Wbile doing so, one should thiok of His essential nature (svarīpa) as infinite jrāna and infinite bliss ever inseparable from His consort, Lakshmi, who, in every form and in all situations, participates in all His actions. For there are many authoritative passages in support of this prescribed contemplation - 
 
 “The Lord of the Universe is over with Lakshmi in Vai. kunta, the world beyond” (Here the reference is to the Supreme Lord (Para) in Vaikunta.) 
 
@@ -163,7 +163,7 @@ THE FIVE THINGS TO BE KNOWN
 
 BHAGAVAN HAS A DIVINE AND AUSPICIOUS FORM: 
 
-Bhagavan should be thought of, also, es having a trans cendent, super sensuous (apräkrita), divide and auspicious form, wbich is the resting place (āsraya ) of the universe, for there are many passages which refer to this form of His 
+Bhagavan should be thought of, also, es having a trans cendent, super sensuous (aprākrita), divide and auspicious form, wbich is the resting place (āsraya ) of the universe, for there are many passages which refer to this form of His 
 
 "To Him whose form ever remains the same -- " 
 
@@ -227,7 +227,7 @@ of eternal glory
 
 “The sanda of the Universe and whatever else is found within that anda are His vibhutis." 
 
-These vibhūtis (possessions or glories) of God are of two kinds, sentient and non-sentient, and these again are of two kinds, some existing for His Lila or sport and others for His enjoyment (bhoga). This division into things for play (lila) and things for enjoyment (bhoga) is based on the difference in the rasa or delectation, though all of them have agreeableness (or änukiilgan) in common. Bhagavan should be considered as being engaged in the work of the Universe merely for His play or sport (lila), for it has been said as follows: 
+These vibhūtis (possessions or glories) of God are of two kinds, sentient and non-sentient, and these again are of two kinds, some existing for His Lila or sport and others for His enjoyment (bhoga). This division into things for play (lila) and things for enjoyment (bhoga) is based on the difference in the rasa or delectation, though all of them have agreeableness (or ānukiilgan) in common. Bhagavan should be considered as being engaged in the work of the Universe merely for His play or sport (lila), for it has been said as follows: 
 
 " From 
 
@@ -263,11 +263,11 @@ THE NATURE OF THE INDIVIDUAL SELF:
 
 Now for the individual self (Pratyak ātmā) which is to attain Brahman : 
 
-We should know that the in.lividual self is in three categories : Baddha or those who are in the bondage of sansürer, Mukta, or those who have attained release froin sainsära and Nitya or those who are eternally free fron bondage. The seeker after salvation should also know the peculiar features which distinguish him as a seeker of the means of mukti, from other baddhas. 
+We should know that the in.lividual self is in three categories : Baddha or those who are in the bondage of sansürer, Mukta, or those who have attained release froin sainsāra and Nitya or those who are eternally free fron bondage. The seeker after salvation should also know the peculiar features which distinguish him as a seeker of the means of mukti, from other baddhas. 
 
 The baddhas (or the bound) are those caught up in the cycle of births and deaths owing to the stream of beginningless karma, They range from Brahma to the blade of grass and are called kshetrajnāh. (Brabma, gods, men, beasts, trees, grass and so on ). 
 
-The muktās (or released souls) are those who, by adopting the means (upāya ) prescribed in the s'ästrüs, have obtained the Lord's grace, permanently transcended the cycle of births and deaths, and have obtained unsurpassed bliss as a result of the uprestricted enjoyment of Bhagavan. 
+The muktās (or released souls) are those who, by adopting the means (upāya ) prescribed in the s'āstrüs, have obtained the Lord's grace, permanently transcended the cycle of births and deaths, and have obtained unsurpassed bliss as a result of the uprestricted enjoyment of Bhagavan. 
 
 The nityās (the eternally free) are those whose knowledge has never undergone contraction and who are, in this respect, like 
 
@@ -279,7 +279,7 @@ They have never been in samsāra and are engaged in eternal service to the Lord 
 
 The characteristic attributes common to all the three of them are being atomic (in size) (anu) and being of the nature of knowledge (jnana), bliss (ānanda), purity (amalatvam) and the like. They are all seshas to Bhagavan and are entirely subject to His will. One should also understand what is distinctive and peculiar to one as a mumukshu or seeker after salvation. This has been (already) mentioned in the Introductory Chapter and will be described later on also. 
 
-The essential nature of the jiva who seeks attainment should be thought of, while considering the letter in in om and in namas or namo in Tirumantra, and in the part nära of the word Närāyana, wherever it occurrs in the Ashtakshara and the Dvayam, in the first person singular form " I seek refuge" prapadye in Duayain, in the second person singular of the word " thyself" in "surrender thyself" (vraja) and in the word thec (tva) and in the sentence " despair not" in the charamasloka. 
+The essential nature of the jiva who seeks attainment should be thought of, while considering the letter in in om and in namas or namo in Tirumantra, and in the part nāra of the word Nārāyana, wherever it occurrs in the Ashtakshara and the Dvayam, in the first person singular form " I seek refuge" prapadye in Duayain, in the second person singular of the word " thyself" in "surrender thyself" (vraja) and in the word thec (tva) and in the sentence " despair not" in the charamasloka. 
 
 THE MEANS OF ATTAINMENT. 
 
@@ -299,7 +299,7 @@ siloka in the words "I will free thee from all sins."
 
 THE HINDRANCE TO ATTAINMENT, 
 
-The bindrances to the attainment are the multitude of obstacles that stand in the way of our attaining moksha, such as ignorance (avidyā), karma and väsana or impression left in the mind by karma in previous births, 
+The bindrances to the attainment are the multitude of obstacles that stand in the way of our attaining moksha, such as ignorance (avidyā), karma and vāsana or impression left in the mind by karma in previous births, 
 
 The foremost of these bindrances is the punishment ipflicted by Bhagavan for disobedience of His orders contionally from time immemorial. This chastisement causes association with prakriti or matter with its three qualities (satva, rajas and tamas) and thereby contraction of knowledge. It brings about a connec tion between the soul on the one hand, and the body, the senses and the like which are specific modifications of matter (or prakriti) on the other. Further it makes the jīva subject to the sway of the body and the senses. To quote the words of the Alwar, “With the 'strong ropes of my sins, Thou hast bound me tightly with the body, covered the sores within the body (like flesh, fat and blood) with the skin and let me walk away from Thee." "With the body given by Thee at the time of creation, I have been wandering about to the satisfaction of the body." This chastisement often consists in placing the jiva in the body of animals which can have no knowledge of the Sāstras and cannot act in accordance with them. Even in births like those of men, it copfounds the mind with the views of infidels and heretics and, even in the case of those who escape this, causes, through the concealing agency of the peacock feather of primal matter (moola-prakriti) and its modifications, the bodies and the senses, (1) ignorance 
 

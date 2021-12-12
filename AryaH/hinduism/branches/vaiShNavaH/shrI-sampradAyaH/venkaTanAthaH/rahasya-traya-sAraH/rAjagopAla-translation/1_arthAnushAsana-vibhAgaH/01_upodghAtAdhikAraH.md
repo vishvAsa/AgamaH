@@ -51,7 +51,7 @@ and His seat." Sesha, the serpent, is ever bent on serving the Lord in all place
 
 The parable of the prince brought up by huntsmen. 
 
-The condition of the Jiva in sainsära has been aptly des cribed in the following parable :- A certain king went out & hunting with the women of the harem and was keenly absorbed in the sport. The little prince lost his way even before he knew who be was and was brought up in a hamlet by tribesmen who found him wandering about (helpless). As he grew older, be identified himself with the people who brought him up and thought that he, too, was a savage tribesman, learnt their language as if it were his own and, like their own sops, ate their food and lived their life. Without knowing anything about the enjoyments, the 
+The condition of the Jiva in sainsāra has been aptly des cribed in the following parable :- A certain king went out & hunting with the women of the harem and was keenly absorbed in the sport. The little prince lost his way even before he knew who be was and was brought up in a hamlet by tribesmen who found him wandering about (helpless). As he grew older, be identified himself with the people who brought him up and thought that he, too, was a savage tribesman, learnt their language as if it were his own and, like their own sops, ate their food and lived their life. Without knowing anything about the enjoyments, the 
 
 Vishnu Purana: 6-7.10 
 

@@ -1,11 +1,9 @@
 +++
-title = "१६ पुरुषार्थकाष्ठाधिकारः"
+title = "१६ पुरुषार्थ-काष्ठाधिकारः"
 
 +++
 
-(16) THE CHAPTER ON THE FARTHEST EXTENT 
-
-OF OUR ULTIMATE OBJECT IN LIFE. 
+(16) THE CHAPTER ON THE FARTHEST EXTENT OF OUR ULTIMATE OBJECT IN LIFE. 
 
 SANSKRIT SLOKA: 
 
@@ -15,7 +13,7 @@ In the world of everyday life (a king sometimes uses his dependents and ornament
 
 REASONS FOR RENDERING SERVICE 
 
-TO BHÄGAVATĀS : 
+TO BHĀGAVATĀS : 
 
 If it is asked here how it can be stated that the service of Bhagavan extends up to the service of His devotees (the Bbaga vatas), the answer is as follows:- It has been said in the Vedartha Sangraha: "He is the s'esha whose svarība or essential nature is such as is chosen on account of the desire to promote the glory of another and that another is the s'eslii." So in regard to the Supreme Ruler of all, the Jiva who is the sesha is bound to pro mote His glory. That glory will depend on the nature of the s'esha, whether it be sentient or non-sentient. It may be asked, "What is the glory that the jiva is capable of conferring on the Supreme Being? With his body and the like, he can copfer only such glory as non-sentient things do. So this service is common to him and acit. The special glory that he can be the cause of promoting must be by ineans of his intelligence or chaitanya, \* When the 
 
@@ -33,7 +31,7 @@ EN
 
 . 
 
-jiva acts against the spirit of the sõstras, Iswara, who is the Ruler and the Dispenser of punishment, enjoys only the delight or delectation of lila and thus attains atisaya glory. It has been said: " Bhagavan, 'who has all beings as His body, rejoices when a jiva does what is good and does not rejoice when the action is evil." When a man acts in accordance with the stāstras, he gives thereby delight to the Lord and thus does not let his generosity and other qualities run to waste, but promotes the glory of the Lord so that He extols binn as in the words :-"All those are", indeed, generous". In the same way as the muktas (released souls) and the nityas (the sūris ) promote the glory of the Lord by direct percep tion of the Lord's will and by acting in such a way as to give Him bhoga or enjoyment, the prapanias, too, can give rise to a special kind of bhoga or enjoyment to the Lord and thus promote His glory as stated in the following sloka:-"When shall I\*always be Thy servant, look upon Thee as my Master and in this way give Thee delight?". The prapanna learns the Lord's will from the sästras (though not directly ) and renders service to the Lord. 
+jiva acts against the spirit of the sõstras, Iswara, who is the Ruler and the Dispenser of punishment, enjoys only the delight or delectation of lila and thus attains atisaya glory. It has been said: " Bhagavan, 'who has all beings as His body, rejoices when a jiva does what is good and does not rejoice when the action is evil." When a man acts in accordance with the stāstras, he gives thereby delight to the Lord and thus does not let his generosity and other qualities run to waste, but promotes the glory of the Lord so that He extols binn as in the words :-"All those are", indeed, generous". In the same way as the muktas (released souls) and the nityas (the sūris ) promote the glory of the Lord by direct percep tion of the Lord's will and by acting in such a way as to give Him bhoga or enjoyment, the prapanias, too, can give rise to a special kind of bhoga or enjoyment to the Lord and thus promote His glory as stated in the following sloka:-"When shall I\*always be Thy servant, look upon Thee as my Master and in this way give Thee delight?". The prapanna learns the Lord's will from the sāstras (though not directly ) and renders service to the Lord. 
 
 THE LORD IS PLEASED AT THE SERVICE RENDERED 
 
@@ -113,9 +111,9 @@ If so, it may be asked, "If both are Bhagavatas, would it not be inconsistent th
 
 166 CHAPTER 
 
-So also when each of the two Bhagavatas is bent on promoting the glory (atisaya) of the other, without either of them expecting that glory, they become s'eshas by their being the cause of the promo tion of the glory of the other; they are also seshis inasmuch as they are the recipients of the glory (atisaya), though they themselves may not desire it. Since they have been directed by Iswara'd will to promote each other's glory, the relationship of being sesha to Bhagavatas is, in the case of both, based on sästraic authority. 
+So also when each of the two Bhagavatas is bent on promoting the glory (atisaya) of the other, without either of them expecting that glory, they become s'eshas by their being the cause of the promo tion of the glory of the other; they are also seshis inasmuch as they are the recipients of the glory (atisaya), though they themselves may not desire it. Since they have been directed by Iswara'd will to promote each other's glory, the relationship of being sesha to Bhagavatas is, in the case of both, based on sāstraic authority. 
 
-The relationship of being a servant (dása) to Bhagavan and Bhagavatās owing to an appreciation of their qualities or character adds to one's delight or enjoyment and promotes one's own exaltation. In this, Iswara, by His omnipotence and His will which accompanies it, enables all Bhagavatas to become seshis. Taking their desire also along with His own will, Iswara makes them seshas to Bhagavatas. Since both the Bhagavatas stand in the relation of seshis to each other as having been fit to be directed by the Master to do His will, both of them attain their true and essential nature (svarüpa). They attain the ultimate limit of their purushärtha or goal of life, since they attain the relationship of being s'eshas, which they are eager to have and also the privilege of rendering service to the Bhagavata which follows from it. Since Iswara delights in having directed them to become seshas and s'eshīs to each other, Iswara attains the state of being an Iswara or ruler and of being an enjoyer. Since they realise clearly that this relationship of being seshas and s'eshis to each other contri. butes to the enjoyment (bhoga) of Iswara, they attain the faultless and ultimate limit of purushärtha By those who have done what should be done (prapannas), who understand this subtle truth and are convinced of it, the grace of devotees who are exclusively and supremely attached to the Lord will be desired as an end in itself - devotees who are free from the following stains : the desire for transgressing the Lord's commands, excess of doubt, connection with other deities, enjoyment depending on one's own effort and enjoyment for one's own self. 
+The relationship of being a servant (dása) to Bhagavan and Bhagavatās owing to an appreciation of their qualities or character adds to one's delight or enjoyment and promotes one's own exaltation. In this, Iswara, by His omnipotence and His will which accompanies it, enables all Bhagavatas to become seshis. Taking their desire also along with His own will, Iswara makes them seshas to Bhagavatas. Since both the Bhagavatas stand in the relation of seshis to each other as having been fit to be directed by the Master to do His will, both of them attain their true and essential nature (svarüpa). They attain the ultimate limit of their purushārtha or goal of life, since they attain the relationship of being s'eshas, which they are eager to have and also the privilege of rendering service to the Bhagavata which follows from it. Since Iswara delights in having directed them to become seshas and s'eshīs to each other, Iswara attains the state of being an Iswara or ruler and of being an enjoyer. Since they realise clearly that this relationship of being seshas and s'eshis to each other contri. butes to the enjoyment (bhoga) of Iswara, they attain the faultless and ultimate limit of purushārtha By those who have done what should be done (prapannas), who understand this subtle truth and are convinced of it, the grace of devotees who are exclusively and supremely attached to the Lord will be desired as an end in itself - devotees who are free from the following stains : the desire for transgressing the Lord's commands, excess of doubt, connection with other deities, enjoyment depending on one's own effort and enjoyment for one's own self. 
 
 16 
 

@@ -35,7 +35,7 @@ Some speak of five things and some of six but there is Do real difference betwee
 32 to 47
 ## CHAPTER V. The three 'Reals' or Tattvas: 
 
-Classification of tattvas or reals' and its use - The Jiva or experiencing subject. The nature of the Jiva ( baddhas, muktas and nitras) . dharma bhūtajnana - the three kinds of pop-septient ibidge (stiddhasattvam; prakriti ; its essential pature and activity - Kala or Time ) Tswara :- His svarüpa and qualities. His rūpas or forms ; (11 Para; (2) Vyuhas; (3) Vibhavas; (4) Archā; and (5) Härda - The nature of the Avatārs - Laksmi; Her status and role. Other classifications of the tattvas. 48 to 71 
+Classification of tattvas or reals' and its use - The Jiva or experiencing subject. The nature of the Jiva ( baddhas, muktas and nitras) . dharma bhūtajnana - the three kinds of pop-septient ibidge (stiddhasattvam; prakriti ; its essential pature and activity - Kala or Time ) Tswara :- His svarüpa and qualities. His rūpas or forms ; (11 Para; (2) Vyuhas; (3) Vibhavas; (4) Archā; and (5) Hārda - The nature of the Avatārs - Laksmi; Her status and role. Other classifications of the tattvas. 48 to 71 
 
 ## CHAPTER VI. The truth concerning the Supreme Deity: 
 
@@ -56,12 +56,12 @@ Bhagavan is both upaya and upeya ; karma yoga, jnana yoga and bhakti yoga; bhakt
 
 ## CHAPTER X. The fitness for Prapatti : 
 
-The meaning of competency or adhikära; akinchanya and ananyagatitva; their need and the pramānas in sopport - Prapatti open to all, 
+The meaning of competency or adhikāra; akinchanya and ananyagatitva; their need and the pramānas in sopport - Prapatti open to all, 
 
 111 to 114 
 
 ## CHAPTER XI. The classification of accessories or angas
-The angas or accessories of prapatti, ünukulya - Sankalpa and prätikulyavarjana, kārpanyant, mahūvis. wäsa, goptritva varanjam; illustrations of the presence of these five angas in well-known acts of saranagati ; the presence of these angas and the angi in Dvaya , the five doubts concerning the efficacy of prapatti and their clarification. 
+The angas or accessories of prapatti, ünukulya - Sankalpa and prātikulyavarjana, kārpanyant, mahūvis. wāsa, goptritva varanjam; illustrations of the presence of these five angas in well-known acts of saranagati ; the presence of these angas and the angi in Dvaya , the five doubts concerning the efficacy of prapatti and their clarification. 
 
 115 to 126 
 
@@ -76,7 +76,7 @@ The prapanna as one who has done what he onght to do and has won his goal; illus
 136 to 140 
 
 ## CHAPTER XIV. The marks or signs by which one can recognise that one is in the proper state or nishti 
-Signs of steadfastness in regard to (1) tattva, (2) hita or upāya and (3) purushärtha or goal of attainment; the consequence of the knowledge of this steadfastness. 141 to 146 
+Signs of steadfastness in regard to (1) tattva, (2) hita or upāya and (3) purushārtha or goal of attainment; the consequence of the knowledge of this steadfastness. 141 to 146 
 
 ## CHAPTER XV. The manner in which one should conduct oneself after prapatti
 Reflection on Bhagavan and His attributes; the com panionship of those who are solely and exclusively devoted to Bhagavad ; consciousness of one's helplessness; service to archā; gratefulness to Bhagavad; wbat ought to be done and what ought not to be done with the mind, the speech and the body. 
@@ -87,7 +87,7 @@ Reflection on Bhagavan and His attributes; the com panionship of those who are s
 Reasons for rendering service to Bhagavatas; God's appreciation of the service ren lered to Bhagavatas : Bhagavatas are s'eshas to one anoiber; the consequences arising from service to Bhagavatas. 
 
 160 to 167. 
-## CHAPTER XVII. T'he Ordinances imposed by the Sästras 
+## CHAPTER XVII. T'he Ordinances imposed by the Sāstras 
 
 Süstra the true guide of the prapanna in this life; Sri 
 
@@ -141,7 +141,7 @@ Recapitulation of the contents of the First Part; three caused by which the Lord
 
 by Sadhyopaya or the upāya that 
 
-has to be adopted The need for the clarification; competence for pra. patti open to all ( castes and both sexes ); misconceptions about the pature or svarūpa of prapatti (a) the knowledge that one is sesha to the Lord is not prapatti in itself (b) refraining from one's own activity is not prapatti ; the srästra bas to enjoin prapatti; bhakti pot inconsistent witb one's svarūpa; the objection that the Jiva being entirely dependent on the Lord cannot and should not adopt any upaya pot tepable; the objection that the rites of varna and äsrama and bhaktiyoga are inconsistent with exclusive devotion to Bhagavan antepable; the objection that bhakti and prapatti are not adopted by s'ishtas; does prapatti require angas or accessories? Why should intense faith be called an añga instead of mere faith ? causes of the decay of faith and the remedy therefor; the rites of nitya and naimittika are, on no account, to be given ap by the prapanna. 
+has to be adopted The need for the clarification; competence for pra. patti open to all ( castes and both sexes ); misconceptions about the pature or svarūpa of prapatti (a) the knowledge that one is sesha to the Lord is not prapatti in itself (b) refraining from one's own activity is not prapatti ; the srāstra bas to enjoin prapatti; bhakti pot inconsistent witb one's svarūpa; the objection that the Jiva being entirely dependent on the Lord cannot and should not adopt any upaya pot tepable; the objection that the rites of varna and āsrama and bhaktiyoga are inconsistent with exclusive devotion to Bhagavan antepable; the objection that bhakti and prapatti are not adopted by s'ishtas; does prapatti require angas or accessories? Why should intense faith be called an añga instead of mere faith ? causes of the decay of faith and the remedy therefor; the rites of nitya and naimittika are, on no account, to be given ap by the prapanna. 
 
 264 to 298 
 
@@ -189,7 +189,7 @@ Why is the mantra called Dvara? Saraṇāgatigadya a commentary on the Duaya; de
 
 ## CHAPTER XXIX. The Charamasloka : 
 
-Introduction to charama-sloka ; meaning of sarva. dharmān; meaning of partityajya; refutation of the view that the giving up of rites or dharmas is enjoined and of the view that what is enjoined is the giving up of the notion that they are upāyas; the obligatoriness of the performance of the rites of varna and asrama'; how äkinchanya and Nairapekshya are to be understood in the charamasloka; summary of the meanings of parityajya considered; the meaning of mūm and of ekam; tbe refutation of the view that prapatti is no upāya ; mām includes Laksbmi, the attribute; the meaning of saranam; the meaning of vraja; the proper interpretation of Alavandar's silokas in this connec tion; the meaning of aham and of tva; the meaning of sarvapāpebhyo and of mokshayishyāmi; the manner of libe. ration from all sins; the meaning of mūs'uchah; the reasons for giving up grief or despair; the purport of charamasloka. 
+Introduction to charama-sloka ; meaning of sarva. dharmān; meaning of partityajya; refutation of the view that the giving up of rites or dharmas is enjoined and of the view that what is enjoined is the giving up of the notion that they are upāyas; the obligatoriness of the performance of the rites of varna and asrama'; how ākinchanya and Nairapekshya are to be understood in the charamasloka; summary of the meanings of parityajya considered; the meaning of mūm and of ekam; tbe refutation of the view that prapatti is no upāya ; mām includes Laksbmi, the attribute; the meaning of saranam; the meaning of vraja; the proper interpretation of Alavandar's silokas in this connec tion; the meaning of aham and of tva; the meaning of sarvapāpebhyo and of mokshayishyāmi; the manner of libe. ration from all sins; the meaning of mūs'uchah; the reasons for giving up grief or despair; the purport of charamasloka. 
 
 465 to 565 
 
