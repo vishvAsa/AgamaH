@@ -3,10 +3,6 @@ title = "Notes"
 
 +++
 
-
-## 01
-Chapter One 
-
 ## 02
 Chapter Two  
 
