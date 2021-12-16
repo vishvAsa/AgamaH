@@ -39,14 +39,15 @@ Mate selection is a tough problem. The best laid plans can still result in disas
     - Many “highly educated” shUdra-s (in marked contrast to their parents) are filled with bile and hatred for brAhmaNa-s, even if concealed well at the time of betrothal.
 - Of course, avoid inbreeding - avoids "inbreeding depression". Care more about sa-yoni than sa-gotra flaws.
 
-|Fareed and Afzal among Muslims|n|Relatedness|IQ|sd|
-|--- |--- |--- |--- |--- |
-|Non-inbred|225|.0000|96.51|(16.25)|
-|Second cousin|31|.0156|88.57|(13.99)|
-|First cousin once removed|21|.03125|79.70|(6.51)|
-|First cousin|105|.0625|68.72|(7.15)|
-|Double first cousin|26|.125|59.52|(14.99)|
+Fareed and Afzal among Muslims:
 
+| Relation                  | n   | Relatedness | IQ    | sd      |
+|---------------------------|-----|-------------|-------|---------|
+| Non-inbred                | 225 | .0000       | 96.51 | (16.25) |
+| Second cousin             | 31  | .0156       | 88.57 | (13.99) |
+| First cousin once removed | 21  | .03125      | 79.70 | (6.51)  |
+| First cousin              | 105 | .0625       | 68.72 | (7.15)  |
+| Double first cousin       | 26  | .125        | 59.52 | (14.99) |
 
 ## Marriage maintenance
 
