@@ -1,7 +1,7 @@
 ---
 title: Deriving knowledge
----
 
+---
 - The way to correctly derive valid knowledge out of the sacred books is to :
     - apply proper mImAMsA analysis encompassing all valid texts (thereby applying a sort of averaging),
         - One doesn't use quotes to make cases about what a text does or does not stand for - that is considered childish and stupid within hindu tradition. Instead one needs to consider and reconcile a whole mass of contradictory statements within all "prAmANika" texts -- this is the main purpose of a branch of analysis called miimaamsa . That is exactly what old commentators claimed to have done, and that is what modern interpreters and critics must do if they are honest.

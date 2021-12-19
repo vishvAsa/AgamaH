@@ -3,7 +3,7 @@ title = "archaka-classes"
 +++
 (Source: https://threader.app/thread/890124547244122112)
 
-Felt like re-reading an old judgement:  https://tinyurl.com/y9pzm28b  This judgement is not without problems & more than anything bears out the inherent flaws of the constitution. Nonetheless, it was a significant victory that was won for ALL Agamika temples by the Adishaiva priestsA remarkable feature of tamil shaivam and of the broader tamil bhakti movement for which I am yet to observe a parallel elsewhere is the veneration of the shaiva priesthood and the fact that this high veneration was given a canonical status. There may be a parallel in tamil vaiSNava literature - but I'm uncertain. But as far as I know, such an admiration for the priesthood as a category of devotees is not to be found elsewhere. 
+Felt like re-reading an old judgement: https://tinyurl.com/y9pzm28b This judgement is not without problems & more than anything bears out the inherent flaws of the constitution. Nonetheless, it was a significant victory that was won for ALL Agamika temples by the Adishaiva priestsA remarkable feature of tamil shaivam and of the broader tamil bhakti movement for which I am yet to observe a parallel elsewhere is the veneration of the shaiva priesthood and the fact that this high veneration was given a canonical status. There may be a parallel in tamil vaiSNava literature - but I'm uncertain. But as far as I know, such an admiration for the priesthood as a category of devotees is not to be found elsewhere. 
 
 There are two distinct classes of shaiva priests in drAviDam: 1. the dIkSita-s & 2. Adishaivas/shivavipras. 
 

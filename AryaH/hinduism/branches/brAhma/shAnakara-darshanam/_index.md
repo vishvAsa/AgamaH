@@ -1,6 +1,7 @@
 +++
 title = "+शाङ्कर-दर्शनम्"
 unicode_script = "devanagari"
+
 +++
 
 ## प्रस्तुतयः
