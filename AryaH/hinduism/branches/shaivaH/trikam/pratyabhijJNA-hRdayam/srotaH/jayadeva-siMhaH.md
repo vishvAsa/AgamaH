@@ -1753,7 +1753,7 @@ Sovereignty of Will, primary docrthip, and lordship because of the cancellation 
 
 vedya-prakafuya'-all objective experience like jar, plenure etc. "Sardekra-wiredhata" doce not mean "because "perception of the univerwe is impeded", a Prof. Leidecker thinks. .. 
 
-प्रसभिशाहदवम् इत्यम्तम् श्रीस्पन्चे । शिवसूत्रेषु अपि 
+प्रसभिशाहदवम् इत्यन्तम् श्रीस्पन्चे । शिवसूत्रेषु अपि 
 
 'महादानुसंधानान्मन्त्रवीर्यानुभवः, (१७० २२ सू०) इति । तदत्र महामन्त्रवीर्यात्मिकायां पूर्णाहन्तायाम् 'आवेशो' बहप्राणादिनिमज्जनात् तत्पदावाप्त्यवष्टम्भेन देहादीनां नीलादीना मपि तब साप्लावनेन तन्मयीकरणम् । तथा हि--देहसुखनीलादि यत् किंचित प्रयते, अध्यवसीयते, स्मर्यते, संकल्प्यते वा, तत्र सर्वत्रैव 
 
