@@ -4287,7 +4287,7 @@ Thus, possession casts extreme doubt on the viability of the socially constructe
 50. Cf. Wadley 1999. This is perhaps not so odd, as the peripheral nature of this episode (ākhyāna) to the main action of the epic renders this aspect of it dispensable. Nor is it depicted in Draupadī epic performances in Tamilnadu or Garhwal. Neither Nala nor Damayantī are mentioned by Hiltebeitel in his Draupadī volumes or by Sax in Dancing the Self. As mentioned earlier, the Jain story of Nala excises the possession completely; he is an archetypal good king who ends up renouncing the world.
 51. Shulman 1994:27.
  
-## 14
+## 5
 ### BIBLIOGRAPHY
 #### Abbreviations
 
