@@ -2,15 +2,13 @@
 title = "08 NOTES"
 
 +++
-1. See Lopez 1996:83–104; Padoux 2002; Sharf 2002:263ff.; Urban 1999; White 2000:4ff. and his elastic definition of Tantra on p. 9.
-2. See Muller-Ortega, who notes: “There were various forms of non-dualistic Tantric Saivism represented by a series of related preceptorial lineages: the Trika, Pratyabhijñā, Kaula, Krama, and Mata, which were by no means identical in practice or doctrine. In addition, there were also powerful lineages of conservative, dualistic Śaiva Siddhānta in Kashmir, as well as the centrist cult of the worship of Svacchandabhairava. Of these, it is the first, by no means homogeneous, group that seems to have generally and imprecisely been referred to as Kashmir Saivism” (1996:188). On the history and development of these sects, see Sanderson 1988:692ff.
-3. Sanderson 1985:201. Sanderson writes of his work, that it “is concerned with the processes by which the learned tradition has transformed (and domesticated) the element of possession in Śaiva practice” (personal communication, October 1993). The places Sanderson lists in this passage (mountains, caves, forests, etc.) are among those that the MBh also regards as liminal, and for which the epic employs the verb āv√iś denoting entry into them; see above pp. 248f.
-4. Sanderson 1985:202.
-5. The most complete description of smasāna sādhana, in fact of savasadhana, a ritual that employs a corpse, occurs in the Agamarahasyam, pp. 117–135. This is not a Kashmiri Tantra, but a copious modern north Indian compilation of all manner of tantric and domestic ritual, including sections on nyāsa, haṭhayoga, and initiation.
-6. kāpālikāḥ samāveśena sāṃyam upagacchati | tathā hi–yathā grahāḥ puruṣeṣv āviś-anti tatheśvaraguṇā mukteṣv āviśanti | cited in Torella 1994:xxxiii n. 49; also mentioned in Sanderson 1985:213n90. On symptoms of āveśa according to the Kāpālikas, Pāsupātas, and the Lākulas/Kālamukhas, see Śaivaparibhāṣā, p. 156. Though the Kāpālikas aspire to the Lord’s qualities (guṇa) through samāveśa, the other atimārga sects, the Pāsupatas and the Kālāmukhas, aspire to the same through saṃkrānti and utpatti.
-7. Torella 1994. See also Bhaṭṭa Rāmakaṇṭha’s views expressed in his commentary on the Kiraṇatantra 1.20c–22b: [śivatvasya] vyaktir iha mokṣāḥ na [tu siddhe] saṃkrāntir āveśaḥ samutpattir vety etad apy ataḥ siddham | “In this system (iha) liberation is the revelation of [innate] Śivahood. It is not [characterized by] transference [of Śivahood] into the adept (siddhe) or possession or the coming into being [of Śivahood]. This too is proved by this [verse].” Cf. Goodall 1998:28; see also Brunner’s observations (1986:518–519) on the sectarian distinctions between saṃkrānti, āveśa, and samutpatti, seen in this passage.
-8. For an intriguing possibility of initiatory possession from a different culture, note the case of Jesus. The evidence for this was reviewed in a very interesting article by DeMaris (2000), who enters an older debate over the historicity of Jesus’ baptism by John the Baptist. If in fact it occurred, argues DeMaris, then the baptism could represent a case of positive, ritually induced, possession of the Holy Spirit. If it did not occur and was a later addition to the Bible, as some suggest, then Jesus’ visions could be a case of negative, spontaneous, nonritually induced possession by a spirit. Either of these scenarios challenges certain articles of Christian belief. In the former, the baptism would challenge the notion of Jesus’ born perfection, which calls into question his very need for a baptism, while in the latter the baptism would legitimate Jesus’ spontaneous possession. DeMaris raises the issue because of the frequent references in the Old Testament (which he discusses) to possession as an accompaniment to visionary experience.
-9. See also the reflections of Padoux 1999.
+
+
+
+
+
+
+
 10. See Kaw 1967:230, KSTS ed. of the text, 131–132.
 11. Finn 1986:65.
 12. Failure is also possible: Tantrāloka, ch. 31, uses the term pisācāvesa to indicate incorrect rise of kuṇḍalinī.
