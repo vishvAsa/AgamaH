@@ -9,11 +9,9 @@ title = "08 NOTES"
 
 
 
-10. See Kaw 1967:230, KSTS ed. of the text, 131–132.
-11. Finn 1986:65.
-12. Failure is also possible: Tantrāloka, ch. 31, uses the term pisācāvesa to indicate incorrect rise of kuṇḍalinī.
-13. Adapted from Flood 1993:294.
-14. Summarized from Finn 1986:65f. For an elaboration of this see Vasudeva 2004:185ff., 303ff. Sanderson states that Abhinavagupta “understands samāveśaḥ to mean not the act of being entered but entering (into one’s true nature)” (1986:177n33). This is to be distinguished from the Mālinīvijayottara’s use of āveśa as being possessed by the deity (Vasudeva 2004:304n10), in this case the śakti or goddess Parā. It is important here to examine Mālinīvijayottara 2,17–23, 12.15–20. For more on the Mālinīvijayottara’s nuancing of both samāveśa and āvesa, see Biernacki 2006.
+
+
+
 15. Cited in Kaw 1967:233, 1975:175; Sanderson 1986:176; Torella 1994:203. Śiva’s projection into the individual is fourfold: as a sensationless void (sūnyam), as internal sensation (āntaraḥ sparśaḥ), as the intellect (buddhiḥ), and as the body (śarīra) (cf. Sanderson 1986.).
 16. asmad rūpasamāviṣṭaḥ svātmanātmanivāraṇe | śivaḥ karotu nijayā namaḥ śāktyā tatātmane ||
 17. Cf. Utpaladeva’s Vṛtti on Śivadṛṣṭi 1.1, that samāveśa is to be practiced assiduously, after which it grants fruit commensurate with the vision it generates.
