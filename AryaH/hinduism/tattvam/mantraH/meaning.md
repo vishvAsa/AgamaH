@@ -26,6 +26,13 @@ title: Meaning
   - Such opinion is condemned in quotes in shikSha texts which denounce pATha without "understanding" with the aid of vedAnga-s (शीघ्रपाठी…). 
 
 ## Importance of meaning
+> भावार्थः सम्प्रदायार्थः  
+> निगमार्थश्च कौलिकः।  
+> तथा सर्वरहस्यार्थो  
+> महातत्त्वार्थ एव च॥
+> 
+> - योगिनीहृदये
+ 
 - While a mantra can contain meanings beyond what is revealed by mere grammar and vocabulary, that lower level of meaning is important in itself, and as an aid to access deeper meanings.
 - Via [MT](https://twitter.com/blog_supplement/status/1276383217290010626): "The essence of yAska who defends against the kautsa pUrvapakSha is that all these purported features of mantra-s are common place in laukika Skt hence to claim that specially negate meaningfulness of mantra-s is an empty claim because by the same token they should also make laukika speech meaningless (contra what kautsa holds). Thus, yAska holds that one must pursue the etymology of the difficult words and find their meaning to understand mantra-s." 
 - Via [MT](https://twitter.com/blog_supplement/status/1276383217290010626): The learned mImAMsAchArya-s of yore have already posited that this is untenable because you cannot observe vaidika injunction or dharma correctly if you cannot apprehend their meaning. Hence, the very validity of basing your dharma on shruti is negated by not knowing the meaning. I personally attach a further point which is often neglected even by those who accept the need to know meaning.

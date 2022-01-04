@@ -14,3 +14,4 @@ title = "+जयरथटीका"
 
 मूलम् [अत्र](https://archive.org/details/in.ernet.dli.2015.477540) । 
 
+परमहंसमिश्रानुवादो हिन्द्या [ऽत्र](https://archive.org/details/ShriTantralokaHindiTranslationIIParamhansaMishra/page/n189/mode/2up?view=theater)। 
