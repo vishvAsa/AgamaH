@@ -626,7 +626,7 @@ Each of those four śaktis, because of their freedom, shines in threefold manner
 - ९ ततः करणेश्वरम् +++(कालाग्निरुद्र-संज्ञं)+++ अपि कलयति +++(परमार्क-काली)+++, 
 - १० ततः कल्पितं मायीयं  +++(कालाग्निरुद्र-संज्ञं)+++ प्रमातृ-रूपम् अपि +++(महाकाले ऽहम्-इदम्-मये विलयेन)+++ कलयति +++(कालाग्निरुद्र-काली)+++, 
 - ११ सङ्कोच-त्यागोन्मुख--विकास-ग्रहण-रसिकम् +++(महाकालं)+++ अपि प्रमातारं +++("सर्वम् इदम् अहम् एवे"ति भोगेन रक्ते +अकुले धाम्नि लयेन)+++ कलयति +++(महाकाल-काली)+++, 
-- १२ ततो विकसितम् अपि रूपं कलयति 
+- १२ ततो विकसितम् अपि रूपं +++(प्रमेयं प्रमाणं प्रमाता प्रमा चिन्मात्रम् एवेति)+++ कलयति +++(महा-भैरव-चण्डोग्र-घोर-काली, परा)+++ 
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -698,7 +698,7 @@ In this way, they nourish the autonomy of the 'Lord of the Wheel (Cakreśvara) a
 
 
 
-**कलनं** च - 
+**कलनं** च +++(धातुपाठम् अनुसृत्य)+++- 
 गतिः क्षेपो ज्ञानं गणनं भोगीकरणं शब्दनं स्वात्मलयीकरणं च ।
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -721,7 +721,9 @@ The different meanings of the word kalana[^45] are: moving, throwing (projecting
 [^45]:
 
     The term kalana has different meanings. Kālī is the conscious agent who performs kalana, therefore she is known as Kālī. The number of Kālīs is twelve. They are as follows:  
+
     (1) Sr̥ṣṭikālī, (2) Sthiti Kālī, (3) Saṁhārakālī, (4) Raktakālī, (5) Svakālī (sukālī), (6) Yama Kālī, (7) Mộtyukālī, (8) Rudrakālī (Bhadrakālī), (9) Paramārkakālī, (10) Mārtandakālī, (11) Kālāgnirudrakālī, and (12) Mahākālī (Parākālī, Mahākālakālī, Kālakālī).  
+    
     This kalana also occurs in relation to the knowable, the instrument of knowledge, and the knowing subject. As each state is of the characteristic of creation, maintenance, dis solution, and the nameless one (anākhyā), the number of the divine energies also becomes twelve. 
 
 </details>
