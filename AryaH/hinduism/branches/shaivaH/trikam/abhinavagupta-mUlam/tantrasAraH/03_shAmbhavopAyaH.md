@@ -5,27 +5,106 @@ title = "03 शाम्भवोपायः"
 
 अथ तृतीयमाह्निकम् ।
 
+<details><summary>English</summary>
+
+Chapter Three
+</details>
+
+
 अथ शाम्भवोपायः ।
 
 यद् एतत् प्रकाश-रूपं शिव-तत्त्वम् उक्तम्,  
-तत्र +अखण्ड-मण्डले यदा प्रवेष्टुं न शक्नोति तदा स्वातन्त्र्यशक्तिमेव अधिकां [अधिकामिति   
-कल्पनामात्रेण न हि वस्तुतो वस्तुनः स्वभावोऽतिरिच्यत इति भावः ।]   
-पश्यन् निर्विकल्पमेव भैरवसमावेशम् अनुभवति अयं च अस्य उपदेशः   
-सर्वमिदं भावजातं बोधगगने प्रतिबिम्बमात्रं   
-प्रतिबिम्बलक्षणोपेतत्वात् इदं हि प्रतिबिम्बस्य लक्षणं यत् भेदेन भासितम्   
-अशक्तम् अन्यव्यामिश्रत्वेनैव भाति तत् प्रतिबिम्बम्
+तत्र +अखण्ड-मण्डले यदा प्रवेष्टुं न शक्नोति,  
+तदा स्वातन्त्र्य-शक्तिम् एव अधिकां पश्यन्  
+निर्विकल्पम् एव भैरव-समावेशम् अनुभवति। 
 
-भासितम् अशक्तम् अन्यव्यामिश्रत्वेनैव भाति तत् प्रतिबिम्बम्, मुखरूपमिव दर्पणे, रस इव दन्तोदके, गन्ध इव घ्राणे, मिथुनस्पर्श इव आनन्देन्द्रिये, शूलकुन्तादिस्पर्शो वा अन्तःस्पर्शनेन्द्रिये, प्रतिश्रुत्केव व्योम्नि | न हि स रसो मुख्यः तत्कार्यव्याधिशमनाद्यदृष्टेः । नापि गन्धस्पर्टी मुख्यौ गुणिनः तत्र अभावे तयोरयोगात् कार्यपरम्परानारम्भात् च । न च तौ न स्तः देहोद्धलनविसर्गादिद र्शनात् । शब्दोऽपि न मुख्यः कोऽपि वक्ति इति आगच्छन्त्या इव प्रतिश्रुत्कायाः श्रवणात् । एवं यथा एतत् प्रतिबिम्बितं भाति तथैव विश्वं परमेश्वरप्रकाशे । ननु अत्र बिम्बं किं स्यात् ? माभूत् किंचित् । ननु किम् अकारणकं तत् ? हन्त तर्हि हेतुप्रश्न: - तत् किं बिम्बवाचोयुक्त्या, हेतुश्च परमेश्वरशक्तिरेव स्वातन्त्र्यापरपर्याया भविष्यति, विश्वप्रतिबिम्बधारित्वाच्च. विश्वात्मकत्वं : भगवतः, संविन्मयं हि विश्वं चैतन्यस्य व्यक्तिंस्थानम् इति, तदेव हि विश्वम्, अत्र प्रतीपम्, इति प्रतिबिम्बधारित्वम् अस्य, तच्च तावत् विश्वात्मकत्वं परमेश्वरस्य स्वरूपं न अनामृष्टं भवति, चित्स्वभावस्य स्वरूपानामर्शनानुपपत्तेः | स्वरूपानामर्शने हि वस्तुतो जडतैव स्यात्, आमर्शश्च अयं न सांकेतिकः, अपि तु चित्स्वभावतामात्रनान्तरीयकः परनादगर्भ उक्तः, स च यावान् विश्वस्यावस्थापकः परमेश्वरस्य शक्तिकलापः तावन्तम् आमृशति । 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-Chapter Three One who is unable to enter the unbroken circle of light, [^12] already explained as the reality of śiva, (who takes recourse to view ing the power of autonomy (svātantrya)3 as extraneous to him, experiences the indeterminate (nirvikalpa) absorption belonging to Bhairava. What follows are the instructions leading to this type of absorption. 
+**अधिकां पश्यन्** = अधिकाम् इति कल्पनामात्रेण न हि वस्तुतो वस्तुनः स्वभावो ऽतिरिच्यत इति भावः ।
+</details>
 
-All these multitudes of beings (bhāvas) are merely reflections in the void of consciousness 14 because they possess the charac teristic marks of reflection. These are the characteristic marks of reflection. That which cannot shine separately, but shines when 
+<details><summary>English</summary>
 
-merged with others, is known as reflection; for example, the reflection of the shape or form of the face in a mirror, the reflec tion of a taste in saliva, the reflection of a smell in the nose, the 
+One who is unable to enter the unbroken circle of light, [^12]  already explained as the reality of śiva,  
+who takes recourse to viewing the power of autonomy (svātantrya)[^13] as extraneous to him,  
+experiences the indeterminate (nirvikalpa) absorption belonging to Bhairava.
 
-TANTRASĀRA 61 
+[^12]:
 
-reflection of sexual touch in the organ of pleasure, the reflection of a sensation of sharp contact by a spear or lance in the inner organ of touch, or the reflection of an echo in the void. However, this taste is not the original,15 and being only the effect of that pri mary principle, it is not known to cure diseases, etc. In the same way, smell and touch are not considered original because in the absence of the principal subject (guṇinah), the existence of smell and touch could not even be postulated, and more so because they do not set in motion any series of effects or results. On the other hand, we cannot say that these two are non-existent, as shaking of the limbs and emission of semen can be seen. Even a sound is not original because someone.utters it and the approaching of its echo can be heard. 
+    The perfect Absolute is in reality partless and full; it should be meditated upon as orbicular and without any parts. 
+
+    This reality shines to the yogin who has attained 'absorption without taking recourse to any means' (anupāya), as a mass of the fire of consciousness into which all beings enter to be consumed. The yogin experiences freedom from pleasure, pain, doubts, and determinate knowledge (vikalpa), and is finally absorbed in the highest 'indeterminate state' (nirvikalpa). 
+
+[^13]:
+
+    The 'autonomous energy of the Lord is known as icchāśakti, which is inseparable from the Lord. The essence of the Lord is light (prakāśa), which by its free will manifests the multitude of cre ations and dissolutions. The entire picture of the universe shines on the screen of one's own consciousness, inseparable from the Self. 
+</details>
+
+
+अयं च +अस्य उपदेशः -   
+सर्वम् इदं भाव-जातं बोध-गगने प्रतिबिम्ब-मात्रं प्रतिबिम्ब-लक्षणोपेतत्वात्।
+
+<details><summary>English</summary>
+
+What follows are the instructions leading to this type of absorption.
+
+All these multitudes of beings (bhāvas) are merely reflections in the void of consciousness [^14] because they possess the characteristic marks of reflection.
+
+[^14]:
+
+    The absolute light is known as the void of consciousness and likened to a mirror. By means of its freedom (svātantrya) the entire universe manifests as a reflection in a mirror. The reflected objects are apprehended according to the cleanliness or purity of the mirror. All objects of the universe shine in it, along with all of their individual distinctions. The different sense organs and mind are also described as mirrors and their reflections possess specific characteristics which are perceived according to the comparative purity of their surface. For example, a mirror, clear water, or the retina of the eye can reflect a form or color, while the sexual organ is capable of reflecting only touch, and so on. However, the light of consciousness is capable of displaying all sorts of reflections. 
+</details>
+
+
+इदं हि प्रतिबिम्बस्य लक्षणं - यद् भेदेन भासितम् अशक्तम् अन्यव्यामिश्रत्वेनैव भाति, तत् प्रतिबिम्बम्  
+मुखरूपमिव दर्पणे  
+रस इव दन्तोदके +++(5)+++  
+गन्ध इव घ्राणे  
+मिथुनस्पर्श इव आनन्देन्द्रिये  
+शूलकुन्तादिस्पर्शो +++([ख्: स्थूलशून्यादिस्पर्शो वा इति पाठः ।])+++ वा अन्तःस्पर्शनेन्द्रिये   
+प्रतिश्रुत्केव व्योम्नि ।
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+यथोक्तम् ।
+
+हन्त मुखं प्रतिबिम्बति  
+प्रतिबिम्बयतु तथा तद् अपि दर्पणः ।  
+दर्पणः पुनर् यस्मिन्  
+प्रतिबिम्बति सोऽपि ज्ञातव्यः ॥
+
+इति महार्थमञ्जर्याम् । तथा
+
+सदृशं भाति नयन-  
+दर्पणाम्बर-वारिषु ।   
+तथाहि निर्मले रूपे  
+रूपम् एवावभासते ॥
+
+प्रच्छन्न-रागिणी कान्त-  
+प्रतिबिम्बित-सुन्दरम् ।   
+दर्पणं कुच-कुम्भाभ्यां  
+स्पृशन्त्य् अपि न तृप्यति ॥
+</details>
+
+<details><summary>English</summary>
+
+These are the characteristic marks of reflection.  
+That which cannot shine separately, but shines when merged with others, is known as reflection; 
+for example,  
+the reflection of the shape or form of the face in a mirror,  
+the reflection of a taste in saliva,  
+the reflection of a smell in the nose, the reflection of sexual touch in the organ of pleasure,  
+the reflection of a sensation of sharp contact by a spear or lance in the inner organ of touch, 
+or the reflection of an echo in the void.
+</details>
+
+
+
+न हि स रसो मुख्यः तत्कार्यव्याधिशमनाद्यदृष्टेः । नापि गन्धस्पर्टी मुख्यौ गुणिनः तत्र अभावे तयोरयोगात् कार्यपरम्परानारम्भात् च । न च तौ न स्तः देहोद्धलनविसर्गादिद र्शनात् । शब्दोऽपि न मुख्यः कोऽपि वक्ति इति आगच्छन्त्या इव प्रतिश्रुत्कायाः श्रवणात् । एवं यथा एतत् प्रतिबिम्बितं भाति तथैव विश्वं परमेश्वरप्रकाशे । ननु अत्र बिम्बं किं स्यात् ? माभूत् किंचित् । ननु किम् अकारणकं तत् ? हन्त तर्हि हेतुप्रश्न: - तत् किं बिम्बवाचोयुक्त्या, हेतुश्च परमेश्वरशक्तिरेव स्वातन्त्र्यापरपर्याया भविष्यति, विश्वप्रतिबिम्बधारित्वाच्च. विश्वात्मकत्वं : भगवतः, संविन्मयं हि विश्वं चैतन्यस्य व्यक्तिंस्थानम् इति, तदेव हि विश्वम्, अत्र प्रतीपम्, इति प्रतिबिम्बधारित्वम् अस्य, तच्च तावत् विश्वात्मकत्वं परमेश्वरस्य स्वरूपं न अनामृष्टं भवति, चित्स्वभावस्य स्वरूपानामर्शनानुपपत्तेः | स्वरूपानामर्शने हि वस्तुतो जडतैव स्यात्, आमर्शश्च अयं न सांकेतिकः, अपि तु चित्स्वभावतामात्रनान्तरीयकः परनादगर्भ उक्तः, स च यावान् विश्वस्यावस्थापकः परमेश्वरस्य शक्तिकलापः तावन्तम् आमृशति । 
+
+
+
+However, this taste is not the original,15 and being only the effect of that pri mary principle, it is not known to cure diseases, etc. In the same way, smell and touch are not considered original because in the absence of the principal subject (guṇinah), the existence of smell and touch could not even be postulated, and more so because they do not set in motion any series of effects or results. On the other hand, we cannot say that these two are non-existent, as shaking of the limbs and emission of semen can be seen. Even a sound is not original because someone.utters it and the approaching of its echo can be heard. 
 
 Thus, just as an echo, etc., appears shining as a reflection, similarly the universe is reflected in the light of the Lord. Now, the question can be raised: What is the original image' (bimba) of this reflection? The answer is that there is none. Does this mean that the reflection of the universe is without cause? Alas! Your query is then aimed at finding a cause. In that case, what would be the purpose of verbal reasoning? The cause will indeed be the śakti belonging to the Lord, whose other name is 'autonomy (svātantrya). This śakti is the immanence of the Lord because She is the bearer of the reflection of the universe. This universe is permeated with consciousness, and this universe is the locus of the manifestation of that consciousness. That consciousness indeed is this universe in which it is reflected in the reverse order. There fore, the Lord is designated as the bearer of the reflection. Fur thermore, the Lord's innate nature, which includes the totality of immanence, cannot be devoid of reflective awareness (āmarśa), because the one who is consciousness cannot be devoid of reflec tive awareness regarding his own Self. If, however, consciousness lacks self-awareness (awareness of its own innate nature), then it would condescend to the level of insentiency (jada).16 Further more, self-reflective awareness is not created by convention, but is experienced as being inseparable from the innate nature of 
 

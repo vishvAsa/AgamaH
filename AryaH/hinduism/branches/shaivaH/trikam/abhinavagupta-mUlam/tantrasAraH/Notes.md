@@ -2,34 +2,19 @@
 title = "Notes"
 
 +++
-
-## 02
-Chapter Two  
-
-
-[^11]:
-
-    The term anupāya refers to the attainment of identity with śiva without the application of any means. 
-
 ## 03
 Chapter Three  
 
 
-[^12]:
 
-    The perfect Absolute is in reality partless and full; it should be meditated upon as orbicular and without any parts. This reality shines to the yogin who has attained 'absorption without taking recourse to any means' (anupāya), as a mass of the fire of con sciousness into which all beings enter to be consumed. The yogin experiences freedom from pleasure, pain, doubts, and determinate knowledge (vikalpa), and is finally absorbed in the highest 'indeter minate state' (nirvikalpa). 
 
 218 NOTES 
 
 
 
-[^13]:
 
-    The 'autonomous energy of the Lord is known as icchāśakti, which is inseparable from the Lord. The essence of the Lord is light (prakāśa), which by its free will manifests the multitude of cre ations and dissolutions. The entire picture of the universe shines on the screen of one's own consciousness, inseparable from the Self. 
 
-[^14]:
 
-    The absolute light is known as the void of consciousness and likened to a mirror. By means of its freedom (svātantrya) the entire uni verse manifests as a reflection in a mirror. The reflected objects are apprehended according to the cleanliness or purity of the mirror. All objects of the universe shine in it, along with all of their indi vidual distinctions. The different sense organs and mind are also described as mirrors and their reflections possess specific charac-: teristics which are perceived according to the comparative purity of their surface. For example, a mirror, clear water, or the retina of the eye can reflect a form or color, while the sexual organ is capa ble of reflecting only touch, and so on. However, the light of con sciousness is capable of displaying all sorts of reflections. 
 
 
 [^15]:
