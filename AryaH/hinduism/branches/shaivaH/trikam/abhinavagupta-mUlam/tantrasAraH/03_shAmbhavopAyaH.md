@@ -13,6 +13,7 @@ Chapter Three
 
 अथ शाम्भवोपायः ।
 
+## स्वातन्त्र्यशक्तेर् अवलम्बनम्
 यद् एतत् प्रकाश-रूपं शिव-तत्त्वम् उक्तम्,  
 तत्र +अखण्ड-मण्डले यदा प्रवेष्टुं न शक्नोति,  
 तदा स्वातन्त्र्य-शक्तिम् एव अधिकां पश्यन्  
@@ -40,7 +41,8 @@ experiences the indeterminate (nirvikalpa) absorption belonging to Bhairava.
     The 'autonomous energy of the Lord is known as icchāśakti, which is inseparable from the Lord. The essence of the Lord is light (prakāśa), which by its free will manifests the multitude of cre ations and dissolutions. The entire picture of the universe shines on the screen of one's own consciousness, inseparable from the Self. 
 </details>
 
-
+## प्रतिबिम्ब-युक्तिः
+### प्रतिबिम्बम्
 अयं च +अस्य उपदेशः -   
 सर्वम् इदं भाव-जातं बोध-गगने प्रतिबिम्ब-मात्रं प्रतिबिम्ब-लक्षणोपेतत्वात्।
 
@@ -100,29 +102,300 @@ or the reflection of an echo in the void.
 
 
 
-न हि स रसो मुख्यः तत्कार्यव्याधिशमनाद्यदृष्टेः । नापि गन्धस्पर्टी मुख्यौ गुणिनः तत्र अभावे तयोरयोगात् कार्यपरम्परानारम्भात् च । न च तौ न स्तः देहोद्धलनविसर्गादिद र्शनात् । शब्दोऽपि न मुख्यः कोऽपि वक्ति इति आगच्छन्त्या इव प्रतिश्रुत्कायाः श्रवणात् । एवं यथा एतत् प्रतिबिम्बितं भाति तथैव विश्वं परमेश्वरप्रकाशे । ननु अत्र बिम्बं किं स्यात् ? माभूत् किंचित् । ननु किम् अकारणकं तत् ? हन्त तर्हि हेतुप्रश्न: - तत् किं बिम्बवाचोयुक्त्या, हेतुश्च परमेश्वरशक्तिरेव स्वातन्त्र्यापरपर्याया भविष्यति, विश्वप्रतिबिम्बधारित्वाच्च. विश्वात्मकत्वं : भगवतः, संविन्मयं हि विश्वं चैतन्यस्य व्यक्तिंस्थानम् इति, तदेव हि विश्वम्, अत्र प्रतीपम्, इति प्रतिबिम्बधारित्वम् अस्य, तच्च तावत् विश्वात्मकत्वं परमेश्वरस्य स्वरूपं न अनामृष्टं भवति, चित्स्वभावस्य स्वरूपानामर्शनानुपपत्तेः | स्वरूपानामर्शने हि वस्तुतो जडतैव स्यात्, आमर्शश्च अयं न सांकेतिकः, अपि तु चित्स्वभावतामात्रनान्तरीयकः परनादगर्भ उक्तः, स च यावान् विश्वस्यावस्थापकः परमेश्वरस्य शक्तिकलापः तावन्तम् आमृशति । 
+न हि स रसो मुख्यः तत्-कार्य-व्याधि-शमनाद्य्-अदृष्टेः ।
+
+<details><summary>English</summary>
+
+However, this taste is not the original,[^15] and being only the effect of that primary principle, it is not known to cure diseases, etc.
+
+[^15]:
+
+    The principles of original taste, touch, etc., shine in the Lord and are inseparable from him. However, on the empirical level they become manifest as reflections. Even then, they remain in contact with the original (bimba). Otherwise, the chain reactions as referred to in the text would not be possible.
+</details>
 
 
 
-However, this taste is not the original,15 and being only the effect of that pri mary principle, it is not known to cure diseases, etc. In the same way, smell and touch are not considered original because in the absence of the principal subject (guṇinah), the existence of smell and touch could not even be postulated, and more so because they do not set in motion any series of effects or results. On the other hand, we cannot say that these two are non-existent, as shaking of the limbs and emission of semen can be seen. Even a sound is not original because someone.utters it and the approaching of its echo can be heard. 
+नापि गन्धस्पर्शौ मुख्यौ -  
+गुणिनस् तत्र +अभावे  
+तयोर् अयोगात्  
+कार्य-परम्परानारम्भाच् च ।  
 
-Thus, just as an echo, etc., appears shining as a reflection, similarly the universe is reflected in the light of the Lord. Now, the question can be raised: What is the original image' (bimba) of this reflection? The answer is that there is none. Does this mean that the reflection of the universe is without cause? Alas! Your query is then aimed at finding a cause. In that case, what would be the purpose of verbal reasoning? The cause will indeed be the śakti belonging to the Lord, whose other name is 'autonomy (svātantrya). This śakti is the immanence of the Lord because She is the bearer of the reflection of the universe. This universe is permeated with consciousness, and this universe is the locus of the manifestation of that consciousness. That consciousness indeed is this universe in which it is reflected in the reverse order. There fore, the Lord is designated as the bearer of the reflection. Fur thermore, the Lord's innate nature, which includes the totality of immanence, cannot be devoid of reflective awareness (āmarśa), because the one who is consciousness cannot be devoid of reflec tive awareness regarding his own Self. If, however, consciousness lacks self-awareness (awareness of its own innate nature), then it would condescend to the level of insentiency (jada).16 Further more, self-reflective awareness is not created by convention, but is experienced as being inseparable from the innate nature of 
+<details><summary>English</summary>
 
-62 TANTRASĀRA 
+In the same way, smell and touch are not considered original  
+because in the absence of the principal subject (guṇinah),  
+the existence of smell and touch could not even be postulated,  
+and more so because they do not set in motion any series of effects or results.
+</details>
 
-consciousness, and impregnated with the 'supreme sound' (para nāda).17 This supreme sound reflects all the multitudes of energies belonging to the Lord, which determine this universe. 
+न च तौ +++(गन्धस्पर्शौ)+++ न स्तः - देहोद्धूलन-विसर्गादि-दर्शनात् ।
 
-तत्र मुख्यास्तावत् तिस्रः परमेश्वरस्य शक्तयः-अनुत्तर:-इच्छा-उन्मेष इति, तदेव परामर्शत्रयम् अ-इ-उ इति, एतस्मादेव त्रितयात् सर्वः शक्तिप्रपञ्चः चर्च्यते, अनुत्तर एव हि विश्रान्तिरानन्दः, इच्छायामेव विश्रान्तिः ईशनम्, उन्मेष एव हि विश्रान्तिरूर्मिः यः क्रियाशक्तेः प्रारम्भः, तदेवपरामर्शत्रयम् आ-ई-ऊ इति । 
+<details><summary>English</summary>
 
-अत्र च प्राच्यं परामर्शत्रयं प्रकाशभागसारत्वात् सूर्यात्मकं, चरमं परामर्शत्रयं विश्रान्तिस्वभावा-हादप्राधान्यात् सोमात्मकम्, इयति यावत्कर्मांशस्य अनुप्रवेशो नास्ति । यदा तु इच्छायाम् ईशने च कर्म अनुप्रविशति यत् तत् इष्यमाणम् ईश्यमाणंम् इति च उच्यते, तंदा अस्य द्वौ भेदौ प्रकाशमात्रेण रश्रतिः. विश्रान्त्या लश्रतिः, रलयोः प्रकाशस्तम्भस्वभावत्वात, इष्यमाणं च न बाह्यवत् स्फुटम्, स्फुटरूपत्वे तदेव निर्माणं स्यात्, न इच्छा ईशनं वा, अतः अस्फुटत्वात् एव श्रुतिमात्रं रलयोः, न व्यञ्जनवत् स्थितिः । तदेतद्वर्णचतुष्टयं उभयच्छायाधारित्वात् नपुंसकम् -ऋ-ऋ-ख-ङ्ख इति। 
+On the other hand, we cannot say that these two are non-existent, as shaking of the limbs and emission of semen can be seen.
+</details>
 
-The Lord possesses three principal powers, namely, the supreme (anuttara), will (icchā), and act of unfolding (unmesa). These threefold cognitive reflections (parāmarśa) are “a," "i," "u."18 Out of these three main powers, multitudes of power evolve. Ananda19 "a" rests in anuttara "a," isana "1" rests in icchā, while ūrmi “ū” rests in unmeṣa. This (ūrmi) is the initial stage of the evolution of the energy of activity (kriyā śakti). The first group of cognitive reflections (parāmarśa), that is, “a," "i," and "u," being essentially part of light, are identified with the sun. The second group of reflective cognitions, that is, "ā," "ī,” and “u," being of the nature of repose and predominantly blissful by nature, are identified with the moon. Up to this point, even the slightest trace of activity has not entered into the process of manifestation). When, however, in the power of will (icchā) and in the power of will to lord over' (īśāna), activity enters, then they are called 'the object of the power of will isyamāna) and 'the subject of the power of will' (isyamāna). At that stage, activity (karman) divides 
+शब्दोऽपि न मुख्यः - कोऽपि वक्ति इति आगच्छन्त्या इव प्रतिश्रुत्कायाः श्रवणात् ।
 
-TANTRASĀRA 63 
+<details><summary>English</summary>
 
-itself into two: the semivowel "r" when light dominates, and the semivowel “I” when it is at rest.20 This is because semivowels "r” and “!" have the nature of arresting the light. However, (at that stage of manifestation) 'the object of the power of will' (isyamāṇa) is not discernable as an external object. If it were discernable it would be created like an external object would be. However, nei ther will (icchā) nor the power to lord over' (isana) are clearly discernible. For that very reason, "r" and “I” are only semivowels and not consonants like "y" and "?". Furthermore, this group of letters, “r,” “ri," "!" and "?," are considered neuter because they bear shades of both consonants and vowels. . . . . . . 
+Even a sound is not original because someone utters it and the approaching of its echo can be heard.
+</details>
 
-- अनुत्तरानन्दयोः इच्छादिषु यदा प्रसरः तदा वर्णद्वयम् ए-ओ इति । तत्रापि पुनरनुत्तरानन्दसंघट्टात् वर्णद्वयम् ऐ-औ इति । सा इयं क्रियाशक्तिः , तदेव च वर्णचतुष्टयम् ए-ऐ ओ-औ इति । ततः पुनः क्रियाशक्त्यन्ते सर्वं कार्यभूतं यावत् अनुत्तरे प्रवेक्ष्यति, तावदेव पूर्वं संवेदनसारतया प्रकाशमात्रत्वेन बिन्दुतया आस्ते - अमिति । ततस्तत्रैव अनुत्तरस्य विसर्गो जायते- अः इति । एवं षोडशकं परामर्शानां बीजस्वरूपम् उच्यते । तदुत्थं व्यञ्जनात्मकं योनिरूपम् | तत्र अनुत्तरात् कवर्गः, श्रद्धायाः इच्छायाः चवर्गः, सकर्मिकाया इच्छाया द्वौ टवर्णस्तवर्गश्च, उन्मेषात् पवर्ग:-शक्तिपञ्चकयोगात् पञ्चकत्वम् । इच्छाया एव त्रिविधायाः य-र-लाः, उन्मेषात् वकारः, इच्छाया एव त्रिविधाया श-ष-साः, विसर्गात् हकारः, योनिसंयोगजः क्षकारः । इत्येवम् एष भगवान् अनुत्तर एव कुलेश्वररूपः | तस्य च एकैव कौलिकी विसर्गशक्तिः, यया आनन्दरूपात् प्रभृति इयता बहिःसृष्टिपर्यन्तेन प्रस्पन्दतः वर्गादिपरामर्शा एव बहिस्तत्त्वरूपतां प्राप्ताः | स च एष विसर्गस्त्रिधा, आणवः चित्तविश्रान्तिरूपः, शाक्तः चित्तसंबोधलक्षणः, शांभवः चित्तप्रलयरूपः इति । 
+
+
+एवं यथा एतत् प्रतिबिम्बितं +++([क्: बिम्बप्रतिबिम्बेति पाठः ।])+++ भाति तथैव विश्वं   
+परमेश्वर-प्रकाशे +++([ख्: परमेश्वरस्वरूपं नाना स्पष्टमिति पाठः।])+++ ।
+
+<details><summary>English</summary>
+
+Thus, just as an echo, etc., appears shining as a reflection, similarly the universe is reflected in the light of the Lord.
+</details>
+
+### बिम्बम्
+ननु अत्र बिम्बं किं स्यात्? मा भूत् किञ्चित्।
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+बिम्बलक्षणं यथा - अव्यामिश्रं स्वतन्त्रं सद् - भासमानं मुखं यथा ।
+</details>
+
+<details><summary>English</summary>
+
+Now, the question can be raised: What is the original image (bimba) of this reflection? The answer is that there is none.
+
+</details>
+
+ननु किम् अकारणकं तत् ?  
+हन्त तर्हि हेतुप्रश्नः - तत् किं बिम्ब-वाचोयुक्त्या?
+
+
+<details><summary>English</summary>
+
+Does this mean that the reflection of the universe is without cause?  
+Alas! Your query is then aimed at finding a cause.  
+In that case, what would be the purpose of verbal reasoning?
+</details>
+
+### आदर्शः परमेश्वरशक्तिः
+हेतुश् च परमेश्वरशक्तिर् एव - स्वातन्त्र्यापर-पर्याया भविष्यति।
+
+<details><summary>English</summary>
+
+The cause will indeed be the śakti belonging to the Lord, whose other name is 'autonomy' (svātantrya).
+
+This śakti is the immanence of the Lord because She is the bearer of the reflection of the universe. 
+</details>
+
+विश्व-प्रतिबिम्ब-धारित्वाच् च विश्वात्मकत्वं भगवतः।  
+संविन्मयं हि विश्वं चैतन्यस्य व्यक्तिस्थानम् इति  
+तद् एव हि विश्वम् अत्र प्रतीपम् इति   
+प्रतिबिम्बधारित्वम् अस्य।
+
+<details><summary>English</summary>
+
+This universe is permeated with consciousness, and this universe is the locus of the manifestation of that consciousness.  
+That consciousness indeed is this universe in which it is reflected in the reverse order.  
+Therefore, the Lord is designated as the bearer of the reflection.
+</details>
+
+## स्वामर्शः
+तच्च तावत् विश्वात्मकत्वं परमेश्वरस्य स्वरूपं न +अनामृष्टं भवति - चित्-स्वभावस्य स्वरूपानामर्शनानुपपत्तेः ।
+
+<details><summary>English</summary>
+
+Furthermore, the Lord's innate nature, which includes the totality of immanence, cannot be devoid of reflective awareness (āmarśa), because the one who is consciousness cannot be devoid of reflective awareness regarding his own Self.
+</details>
+
+
+स्वरूपानामर्शने हि वस्तुतो जडतैव +++([ख्: वस्तुनो जडता इति पाठः ।])+++ स्यात्।  
+
+<details><summary>English</summary>
+
+If, however, consciousness lacks self-awareness (awareness of its own innate nature), then it would condescend to the level of insentiency (jada).[^16]
+
+[^16]:
+
+    That power called citśakti is of the nature of singular, self-conscious light (prakāśa). The insentient objects which shine in our senses are also composed of light. However, we are unable to perceive them as sentient because they lack an awareness that “I am sentient." In contrast, the knowing subject, although remaining limited, is aware that he or she exists, and is capable of consciously reflecting on this self-aware existence.
+</details>
+
+
+
+आमर्शश्च +अयं न साङ्केतिकः -  
+अपि तु चित्-स्वभावता-मात्र-नान्तरीयकः  
+- पर-नाद-गर्भ उक्तः।
+
+<details><summary>English</summary>
+
+Further more, self-reflective awareness is not created by convention, but is experienced as being inseparable from the innate nature of consciousness, and impregnated with the 'supreme sound' (para nāda).[^17]
+
+[^17]:
+
+    This universe is perceived as possessing two aspects: 
+
+    - first, its relation with speech, specifically the sounds that denote meaning; and 
+    - second, the entity denoted by speech or sound. 
+
+    The former is known as parāmarśa and the latter parāmarśanīya, literally 'that is denoted by sound.' In addition, there is a supreme form of speech that is inseparably associated with Lord called paranada or parā vāk.
+</details>
+
+### शक्तयः
+स च +++(पर-नाद-गर्भ आमर्शः)+++ यावान् विश्व-व्यवस्थापकः - परमेश्वरस्य शक्ति-कलापः तावन्तम् आमृशति ।
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+शक्तयोऽस्य जगत् सर्वम् इत्युक्त्या शक्तीनां विश्व-व्यवस्थापकत्वम् ।
+</details>
+
+<details><summary>English</summary>
+
+This supreme sound reflects all the multitudes of energies belonging to the Lord, which determine this universe.
+</details>
+
+### अ-इ-उ
+तत्र मुख्यास् तावत् तिस्रः परमेश्वरस्य शक्तयः -  
+अनुत्तरः इच्छा उन्मेष इति।  
+तदेव परामर्शत्रयम् अ-इ-उ इति।  
+एतस्माद् एव त्रितयात् सर्वः शक्ति-प्रपञ्चश् चर्च्यते।
+
+<details><summary>English</summary>
+
+The Lord possesses three principal powers, namely, the supreme (anuttara), will (icchā), and act of unfolding (unmesa). These threefold cognitive reflections (parāmarśa) are “a," "i," "u."[^18] Out of these three main powers, multitudes of power evolve.
+
+[^18]:
+
+    The Lord is associated with three principal energies (śakti) called anuttara, icchā, and unmeṣa, represented by the three phonemes "a,” “i," and "u,” respectively. Each phoneme has two aspects: a short and a long measure. The corresponding long forms are known as ānanda, īśāna, and ūrmi. 
+
+    This tradition states that the short vowels are predominantly of the nature of light (prakāśa), therefore, they have the characteristic of the sun; the corresponding long vowels, having the nature of repose, are considered to be of the nature of the moon.
+</details>
+
+#### अ इ उ → आ ई ऊ
+अनुत्तर एव हि विश्रान्तिर् आनन्दः।  
+
+<details><summary>English</summary>
+
+Ānanda[^19] "ā" rests in anuttara "a"
+
+[^19]:
+
+    The syllable "a" has another “a” as its corresponding phoneme. The one represents śiva and the other śakti.+++(5)+++ The vibrative union of both gives rise to bliss (ānanda), representing the phoneme. “ā.” It is from the energy of ānanda śakti that the universe comes into being, which in short are all the remaining phonemes beginning with icchā and ending in "kṣa.” 
+
+    This union of "a" and "a" is characterized by consciousness alone, while pratyavamarśana, the cognitive desire to create sisr̥kṣātmā, is known as the energy of will.  
+    This desire representing will (icchā) is the desire to get back to bliss that has been as if lost. 
+
+</details>
+
+
+
+इच्छायाम् एव विश्रान्तिर् ईशनम् ।
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इच्छाशक्तेर् लक्षणं यथा
+
+> सङ्घट्टे ऽस्मिंश् चिदात्मत्वाद् यत् तत् प्रत्यवमर्शनम् - इच्छाशक्तिः ।॥
+</details>
+
+<details><summary>English</summary>
+
+īsana "ī" rests in icchā,
+</details>
+
+
+
+उन्मेष एव हि विश्रान्तिर् ऊर्मिर् यः क्रियाशक्तेः प्रारम्भः
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+यद् उक्तम्
+
+> स्वात्म-प्रत्यवमर्शो यः  
+> प्राग् अभूद् एक-वीरकः ।  
+> ज्ञातव्य-विश्वोन्मेषात्मा  
+> ज्ञानशक्तिः प्रकीर्त्यते ॥
+</details>
+
+<details><summary>English</summary>
+
+while ūrmi “ū” rests in unmeṣa. This (ūrmi) is the initial stage of the evolution of the energy of activity (kriyā śakti).
+</details>
+
+तद् एव परामर्श-त्रयम् आ-ई-ऊ इति ।
+
+अत्र च प्राच्यं परामर्श-त्रयं प्रकाश-भाग-सारत्वात् सूर्यात्मकं,  
+चरमं परामर्श-त्रयं विश्रान्ति-स्वभावाह्लाद-प्राधान्यात् सोमात्मकम्।
+
+<details><summary>English</summary>
+
+The first group of cognitive reflections (parāmarśa), that is, “a," "i," and "u," being essentially part of light, are identified with the sun.  
+The second group of reflective cognitions, that is, "ā," "ī,” and “u," being of the nature of repose and predominantly blissful by nature, are identified with the moon.
+</details>
+
+इयति यावत्कर्मांशस्य अनुप्रवेशो नास्ति।
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+क्रियाशक्त्यंशस्य ज्ञानशक्तिप्राधान्यात् इत्यर्थः ।
+</details>
+
+<details><summary>English</summary>
+
+Up to this point, even the slightest trace of activity has not entered into the process of manifestation).
+</details>
+
+## कर्म
+यदा तु इच्छायाम् ईशने च कर्म +अनुप्रविशति - यत् तद् इष्यमाणम् ईश्यमाणम् इति च +उच्यते ।   
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+यदुक्तम्
+
+इच्छाशक्तिर् द्विरूपोक्ता  
+क्षुभिताक्षुभिता च या ।   
+इष्यमाणं हि सा वस्तु  
+द्वैरूप्येणावभासयेत् ॥
+</details>
+
+<details><summary>English</summary>
+
+When, however, in the power of will (icchā) and in the power of 'will to lord over' (īśāna), activity enters, then they are called 'the object of the power of will (iṣyamāṇa) and 'the subject of the power of will' (īśyamāna).
+</details>
+
+तदा +अस्य +++(कर्मणः)+++ द्वौ भेदौ प्रकाशमात्रेण रश्रुतिः, विश्रान्त्या लश्रुतिः -  
+रलयोः प्रकाश-स्तम्भ-स्वभावत्वात्।
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+स्तम्भः स्थैर्यमित्यर्थः ।
+</details>
+
+
+<details><summary>English</summary>
+
+At that stage, activity (karman) divides itself into two: the semivowel "r" when light dominates, and the semivowel “l” when it is at rest.[^20] This is because semivowels "r” and “l" have the nature of +++(light and)+++ arresting the light.
+
+[^20]:
+
+    Icchā, īśana, unmeṣa, and urmi represent the energy of will and the energy of knowledge, respectively. The energy of action does not exist in any form either manifest or unmanifest up to this level of unfoldment. When activity shows itself, only then four neuter phonemes, which are “r̥," "r̥̄," "l̥," and "l̥̄," appear. They are similar in nature to that of “r” and “l” belonging to the group of consonants. 
+
+TANTRASĀRA 63
+</details>
+
+इष्यमाणं च न बाह्यवत् स्फुटम् स्फुटरूपत्वे तदेव निर्माणं स्यात् न   
+इच्छा ईशनं वा अतः अस्फुटत्वात् एव श्रुतिमात्रं [न साक्षाद्वर्णः ।] रलयोः न व्यञ्जनवत् स्थितिः ।  
+तदेतद्वर्णचतुष्टयं उभयच्छायाधारित्वात्   
+[बीजयोनिरूपत्वादुभयत्वम् । अत एव नरसिंहवज्रास्यन्तरमिति   
+महाभाष्यकारः] नपुंसकम् ऋ ॠ ऌ ॡ इति । अनुत्तरानन्दयोः   
+इच्छादिषु यदा प्रसरः तदा वर्णद्वयम् ए ओ इति । तत्रापि   
+पुनरनुत्तरानन्दसङ्घट्टात् वर्णद्वयम् ऐ औ इति । सा इयं क्रियाशक्तिः   
+तदेव च वर्णचतुष्टयम् ए ऐ ओ औ इति ।
+
+
+
+However, (at that stage of manifestation) 'the object of the power of will' (isyamāṇa) is not discernable as an external object. If it were discernable it would be created like an external object would be. However, nei ther will (icchā) nor the power to lord over' (isana) are clearly discernible. For that very reason, "r" and “I” are only semivowels and not consonants like "y" and "?". Furthermore, this group of letters, “r,” “ri," "!" and "?," are considered neuter because they bear shades of both consonants and vowels. . . . . . . 
+
+
+ततः पुनः क्रियाशक्त्यन्ते सर्वं कार्यभूतं यावत् अनुत्तरे प्रवेक्ष्यति, तावदेव पूर्वं संवेदनसारतया प्रकाशमात्रत्वेन बिन्दुतया आस्ते - अमिति । ततस्तत्रैव अनुत्तरस्य विसर्गो जायते- अः इति । एवं षोडशकं परामर्शानां बीजस्वरूपम् उच्यते । तदुत्थं व्यञ्जनात्मकं योनिरूपम् | तत्र अनुत्तरात् कवर्गः, श्रद्धायाः इच्छायाः चवर्गः, सकर्मिकाया इच्छाया द्वौ टवर्णस्तवर्गश्च, उन्मेषात् पवर्ग:-शक्तिपञ्चकयोगात् पञ्चकत्वम् । इच्छाया एव त्रिविधायाः य-र-लाः, उन्मेषात् वकारः, इच्छाया एव त्रिविधाया श-ष-साः, विसर्गात् हकारः, योनिसंयोगजः क्षकारः । इत्येवम् एष भगवान् अनुत्तर एव कुलेश्वररूपः | तस्य च एकैव कौलिकी विसर्गशक्तिः, यया आनन्दरूपात् प्रभृति इयता बहिःसृष्टिपर्यन्तेन प्रस्पन्दतः वर्गादिपरामर्शा एव बहिस्तत्त्वरूपतां प्राप्ताः | स च एष विसर्गस्त्रिधा, आणवः चित्तविश्रान्तिरूपः, शाक्तः चित्तसंबोधलक्षणः, शांभवः चित्तप्रलयरूपः इति । 
 
 When the expansion of anuttara "a" or ānanda "ā” in the direction of icchā “i,” etc., takes place, then the two syllables “e" and "o" come into existence. Then again, when these two sylla bles, Me" and "o,” are closely united (samghatta) with anuttara "a" and ānanda "ā," then the syllables "ai" and "au" are born. This indeed is the play of the energy of activity (kriyā śakti), which 
 

@@ -3,119 +3,36 @@ title = "Notes"
 
 +++
 ## 03
-Chapter Three  
+Chapter Three
 
 
 
-
-218 NOTES 
-
-
-
-
-
-
-
-
-[^15]:
-
-    The principles of original taste, touch, etc., shine in the Lord and are inseparable from him. However, on the empirical level they become manifest as reflections. Even then, they remain in contact with the original (bimba). Otherwise, the chain reactions as 
-
-referred to in the text would not be possible. 
-
-[^16]:
-
-    That power called citśakti is of the nature of singular, self-con 
-
-scious light (prakāśa). The insentient objects which shine in our senses are also composed of light. However, we are unable to per ceive them as sentient because they lack an awareness that “I am sentient." In contrast, the knowing subject, although remaining limited, is aware that he or she exists, and is capable of consciously 
-
-reflecting on this self-aware existence. 
-
-[^17]:
-
-    This universe is perceived as possessing two aspects: first, its relation 
-
-with speech, specifically the sounds that denote meaning; and sec ond, the entity denoted by speech or sound. The former is known as parāmarśa and the latter parāmarśanīya, literally 'that is denoted by sound.' In addition, there is a supreme form of speech that is inseparably associated with Lord called paranada or parā vāk. 
-
-NOTES 219 
-
-
-
-[^18]:
-
-    The Lord is associated with three principal energies (śakti) called 
-
-anuttara, icchā, and unmeṣa, represented by the three phonemes "a,” “i," and "u,” respectively. Each phoneme has two aspects: a short and a long measure. The corresponding long forms are known as ānanda, īśāna, and urmi. This tradition states that the short vowels are predominantly of the nature of light (prakāśa), there fore, they have the characteristic of the sun; the corresponding long vowels, having the nature of repose, are considered to be of the 
-
-nature of the moon. 
-
-[^19]:
-
-    The syllable "a" has another “a” as its corresponding phoneme. The 
-
-one represents śiva and the other śakti. The vibrative union of both gives rise to b[iss (ānanda), representing the phoneme.“ā.” It is from the energy of ānanda śakti that the universe comes into being, which in short are all the remaining phonemes beginning with icchā and ending in "kṣa.” This union of "a" and "a" is character ized by consciousness alone, while pratyavamarśana, the cognitive desire to create sisskṣātmā, is known as the energy of will. This desire representing will (icchā) is the desire to get back to bliss that 
-
-has been as if lost. 
-
-[^20]:
-
-    Icchā, īśana, unmeṣa, and urmi represent the energy of will and the 
-
-energy of knowledge, respectively. The energy of action does not exist in any form either manifest or unmanifest up to this level of unfoldment. When activity shows itself, only then four neuter pho nemes, which are “r," "rī," "?," and "?," appear. They are similar 
-
-in nature to that of “r” and “l” belonging to the group of consonants. 
 
 [^21]:
 
-    Four phonemes, namely "e," "ai," "o," and "au," represent the 
-
-energy of action. When the movement of the supreme vibration becomes completely externalized, then it is known as "au,” in which the flow of the unfoldment stops. Then all the divisions of 
-
-the energy merge in the one which shows itself as the bindu or drop. 
+    Four phonemes, namely "e," "ai," "o," and "au," represent the energy of action. When the movement of the supreme vibration becomes completely externalized, then it is known as "au,” in which the flow of the unfoldment stops. Then all the divisions of the energy merge in the one which shows itself as the bindu or drop. 
 
 [^22]:
 
-    Bindu is the compact mass of consciousness assembled into an undif 
-
-ferentiated point from which the creation of the universe proceeds. 
+    Bindu is the compact mass of consciousness assembled into an undifferentiated point from which the creation of the universe proceeds. 
 
 [^23]:
 
-    On its way of unfolding the universe, the akulaśakti belonging to 
-
-śiva first manifests bindu represented by one dot. Further, out of bindu, the kauliki visarga śakti emerges in the form of two dots,220 NOTES 
-
-one above the other. It is from this śakti that the creation of the 
-
-entire universe takes place. 
+    On its way of unfolding the universe, the akulaśakti belonging to śiva first manifests bindu represented by one dot. Further, out of bindu, the kauliki visarga śakti emerges in the form of two dots, one above the other. It is from this śakti that the creation of the entire universe takes place. 
 
 [^24]:
 
     Emission (visarga) is threefold, i.e., ānava, śākta, and śāmbhava. 
 
-They are characterized by difference, difference-cum-nondifference, and nondifference. The picture in the form of ānavavisarga shines to the view of the limited subject as "this." In this view, on the one end lies the limited subject and on the other lies the universe. These two get merged into the unity of limited knowledge and its object, which is nothing but the unity of knowingness (citi) and the object of knowledge (cetya). This is known as visarga, where repose occurs in the heart. In the second visarga, known as cittasam 
-
-·bodha, the entire universe-while shining as one with conscious-. 
-
-ness with all the distinctions of subjects and their objects-yet also shines, transcending them all. The third visarga is known as the dissolution of citta (cittapralaya) when all the distinctions of know ing subjects and objects are obliterated, and therefore shines as one 
-
-with the subject of supreme consciousness. 
+    They are characterized by difference, difference-cum-nondifference, and nondifference. The picture in the form of ānavavisarga shines to the view of the limited subject as "this." In this view, on the one end lies the limited subject and on the other lies the universe. These two get merged into the unity of limited knowledge and its object, which is nothing but the unity of knowingness (citi) and the object of knowledge (cetya). This is known as visarga, where repose occurs in the heart. In the second visarga, known as cittasambodha, the entire universe-while shining as one with consciousness with all the distinctions of subjects and their objects-yet also shines, transcending them all. The third visarga is known as the dissolution of citta (cittapralaya) when all the distinctions of know ing subjects and objects are obliterated, and therefore shines as one with the subject of supreme consciousness. 
 
 [^25]:
 
-    The energy of emission (visarga) manifesting itself as individual cog 
-
-nitions appears as the universe. She, that is, śakti, is the cause, or the mother, of all sorts of gross words and sentences. In agamas it has two appellations; the one is called mātska and the other malini. The former is the seed (bīja) and the latter is the recipient (yoni) of the seed. The one, when agitated, gives birth to diverse phonemes. All these phonemes, being the indicative sound, represent all thirty 
-
-six principles (tattva), beginning with śiva and ending with the earth. 
+    The energy of emission (visarga) manifesting itself as individual cognitions appears as the universe. She, that is, śakti, is the cause, or the mother, of all sorts of gross words and sentences. In agamas it has two appellations; the one is called mātska and the other malini. The former is the seed (bīja) and the latter is the recipient (yoni) of the seed. The one, when agitated, gives birth to diverse phonemes. All these phonemes, being the indicative sound, represent all thirty six principles (tattva), beginning with śiva and ending with the earth. 
 
 [^26]:
 
-    In reality the number of cognitions is six. They are anuttara, iccha, 
-
-unmeṣa, ānanda, īśāna, and ūrmi. However, because of expansion and reverse movement the number becomes twelve. When anuttara proceeds to expand it becomes “a." Similarly, "i" becomes "i" and "u” becomes "ú." This movement is called prasarana. At the same 
-
-time, mutual relation of "a" with "," "a" with "u," ";" with “a," "u" with "a," "a" with bindu, and "a" with visarga occurs. It is then known as pratisamcarana. Thus the phonemes which come into being following the above methods are of mixed character. They make the fullness of the Lord. 
+    In reality the number of cognitions is six. They are anuttara, iccha, unmeṣa, ānanda, īśāna, and ūrmi. However, because of expansion and reverse movement the number becomes twelve. When anuttara proceeds to expand it becomes “a." Similarly, "i" becomes "i" and "u” becomes "ú." This movement is called prasarana. At the same time, mutual relation of "a" with "," "a" with "u," ";" with “a," "u" with "a," "a" with bindu, and "a" with visarga occurs. It is then known as pratisamcarana. Thus the phonemes which come into being following the above methods are of mixed character. They make the fullness of the Lord. 
 
 NOTES 221 
 
@@ -125,9 +42,7 @@ NOTES 221
 
     The number of Kālikās is twelve. They are called Kālikās because 
 
-they cause change through the process of mutation denoted by the word kalana. Cognition is nothing but the energy of the Lord on the pure level of consciousness. However, with emergence of māyā, differentiation sets in, with the result that reflective cognition (parāmarśa) descends down to the worldly level and assumes the character of syllables on the one hand and the principles (tattva) on 
-
-the other. 
+they cause change through the process of mutation denoted by the word kalana. Cognition is nothing but the energy of the Lord on the pure level of consciousness. However, with emergence of māyā, differentiation sets in, with the result that reflective cognition (parāmarśa) descends down to the worldly level and assumes the character of syllables on the one hand and the principles (tattva) on the other. 
 
 [^28]:
 
@@ -139,29 +54,15 @@ Padoux's Vāc: The Concept of the Word in Selected Hindu Tantras.
 
 [^29]:
 
-    Even on the level māyā these phonemes can possibly be enlivened by 
-
-contact with pure knowledge (śuddhavidyā) through which they can 
-
-be utilized to serve the purpose of both enjoyment and liberation. 
+    Even on the level māyā these phonemes can possibly be enlivened by contact with pure knowledge (śuddhavidyā) through which they can be utilized to serve the purpose of both enjoyment and liberation. 
 
 [^30]:
 
-    Pure absorption into śiva (śāmbhava samāvesa) signifies pure con 
-
-sciousness. When a yogin attains it, he realizes that all the six paths (sadadhvas) are not different from his own Self. They reflect in his own consciousness, rise in his very Self, and gain their rest in it. In the integrated unitary consciousness, creation, maintenance, and 
-
-dissolution shine inseparably from one's own nature. 
+    Pure absorption into śiva (śāmbhava samāvesa) signifies pure consciousness. When a yogin attains it, he realizes that all the six paths (sadadhvas) are not different from his own Self. They reflect in his own consciousness, rise in his very Self, and gain their rest in it. In the integrated unitary consciousness, creation, maintenance, and dissolution shine inseparably from one's own nature. 
 
 [^31]:
 
-    If one is capable of merging his consciousness into the pure light of 
-
-absolute consciousness through śāmbhava upaya, then assiduous tasks, such as bathing, religious observances (vrata), purification of the body, meditation, recitation of sacred syllables (mantras), sacrifice, or oblation into the fire are not required. 
-
-## 04
-Chapter Four 
-
+    If one is capable of merging his consciousness into the pure light of absolute consciousness through śāmbhava upaya, then assiduous tasks, such as bathing, religious observances (vrata), purification of the body, meditation, recitation of sacred syllables (mantras), sacrifice, or oblation into the fire are not required. 
 
 ## 06
 [^79]:
@@ -196,17 +97,11 @@ rial world.
 
 [^83]:
 
-    The twelve superintending deities, one for each month, are called 
-
-rudras and named Dakṣa, Canda, Hara, Caṇdī, Pramatha, Bhima, 
-
-Manmatha, Sakuni, Sumati, Nanda, Gopālaka, and Pitāmahā. 
+    The twelve superintending deities, one for each month, are called rudras and named Dakṣa, Canda, Hara, Caṇdī, Pramatha, Bhima, Manmatha, Sakuni, Sumati, Nanda, Gopālaka, and Pitāmahā. 
 
 [^84]:
 
-    If the movement of the vital breath covers one digit, only represent 
-
-ing a season (two months), then the sun's movement occupies only the span of three digits. As a result, the span of one year will be six digits and in one single movement of the outgoing and ingoing vital breaths twelve years can be conceived. 
+    If the movement of the vital breath covers one digit, only representing a season (two months), then the sun's movement occupies only the span of three digits. As a result, the span of one year will be six digits and in one single movement of the outgoing and ingoing vital breaths twelve years can be conceived. 
 
 234 NOTES 
 
@@ -214,19 +109,11 @@ ing a season (two months), then the sun's movement occupies only the span of thr
 
 [^85]:
 
-    The normal period of the year with reference to human beings and 
-
-the supposed year of the vital breath are different. 
+    The normal period of the year with reference to human beings and the supposed year of the vital breath are different. 
 
 [^86]:
 
-    The span of a divine year is said to to consist of 12,000 human years. 
-
-This period is divided into four divisions known as: ksta, consisting 4,000 years; tretā, consisting of 3,000 years; dvāpara, consisting of 2,000 years, and kali, whose duration is 1,000 years. Thus, the total comes to 10,000 years, while the remaining 2,000 years are considered to be junctions. The span of these junctions is 400, 300, 200, 100 years and counted in the following way: the last 100 years of the kali are added to the first 400 years of the krta; thus the span 
-
-of the first junction is 500 years. Similarly, the duration of the junc - ture of the krta and tretā is 400 years plus 300, and thus 700 years; next, the duration of the juncture of the trētā and dvāpara is 300 years plus 200 and thus 500 years; finally, the juncture of dvāpara and kali is 200 years plus 100, yielding 300 years. Therefore, the 
-
-accumulated duration of all the junctions is 2000 years. 
+    The span of a divine year is said to to consist of 12,000 human years. This period is divided into four divisions known as: ksta, consisting 4,000 years; tretā, consisting of 3,000 years; dvāpara, consisting of 2,000 years, and kali, whose duration is 1,000 years. Thus, the total comes to 10,000 years, while the remaining 2,000 years are considered to be junctions. The span of these junctions is 400, 300, 200, 100 years and counted in the following way: the last 100 years of the kali are added to the first 400 years of the krta; thus the span of the first junction is 500 years. Similarly, the duration of the junc - ture of the krta and tretā is 400 years plus 300, and thus 700 years; next, the duration of the juncture of the trētā and dvāpara is 300 years plus 200 and thus 500 years; finally, the juncture of dvāpara and kali is 200 years plus 100, yielding 300 years. Therefore, the accumulated duration of all the junctions is 2000 years. 
 
 [^87]:
 
