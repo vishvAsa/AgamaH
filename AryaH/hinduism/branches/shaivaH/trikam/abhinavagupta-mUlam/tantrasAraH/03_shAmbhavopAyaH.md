@@ -75,7 +75,7 @@ All these multitudes of beings (bhāvas) are merely reflections in the void of c
 दर्पणः पुनर् यस्मिन्  
 प्रतिबिम्बति सोऽपि ज्ञातव्यः ॥
 
-इति महार्थमञ्जर्याम् । तथा
+इति महार्थमञ्जर्याम् +++(प्राकृतपद्यस्य च्छाया)+++। तथा
 
 सदृशं भाति नयन-  
 दर्पणाम्बर-वारिषु ।   
@@ -361,7 +361,7 @@ Up to this point, even the slightest trace of activity has not entered into the 
 When, however, in the power of will (icchā) and in the power of 'will to lord over' (īśāna), activity enters, then they are called 'the object of the power of will (iṣyamāṇa) and 'the subject of the power of will' (īśyamāna).
 </details>
 
-तदा +अस्य +++(कर्मणः)+++ द्वौ भेदौ प्रकाशमात्रेण रश्रुतिः, विश्रान्त्या लश्रुतिः -  
+तदा +अस्य +++(कर्मणः)+++ द्वौ भेदौ प्रकाशमात्रेण रश्रुतिः +++(ऋकारे)+++, विश्रान्त्या लश्रुतिः +++(ऌकारे)+++ -  
 रलयोः प्रकाश-स्तम्भ-स्वभावत्वात्।
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -372,7 +372,7 @@ When, however, in the power of will (icchā) and in the power of 'will to lord o
 
 <details><summary>English</summary>
 
-At that stage, activity (karman) divides itself into two: the semivowel "r" when light dominates, and the semivowel “l” when it is at rest.[^20] This is because semivowels "r” and “l" have the nature of +++(light and)+++ arresting the light.
+At that stage, activity (karman) divides itself into two: the semivowel "r̥" when light dominates, and the semivowel “l̥” when it is at rest.[^20] This is because semivowels "r̥” and “l̥" have the nature of +++(light and)+++ arresting the light.
 
 [^20]:
 
@@ -381,39 +381,374 @@ At that stage, activity (karman) divides itself into two: the semivowel "r" when
 TANTRASĀRA 63
 </details>
 
-इष्यमाणं च न बाह्यवत् स्फुटम् स्फुटरूपत्वे तदेव निर्माणं स्यात् न   
-इच्छा ईशनं वा अतः अस्फुटत्वात् एव श्रुतिमात्रं [न साक्षाद्वर्णः ।] रलयोः न व्यञ्जनवत् स्थितिः ।  
-तदेतद्वर्णचतुष्टयं उभयच्छायाधारित्वात्   
-[बीजयोनिरूपत्वादुभयत्वम् । अत एव नरसिंहवज्रास्यन्तरमिति   
-महाभाष्यकारः] नपुंसकम् ऋ ॠ ऌ ॡ इति । अनुत्तरानन्दयोः   
-इच्छादिषु यदा प्रसरः तदा वर्णद्वयम् ए ओ इति । तत्रापि   
-पुनरनुत्तरानन्दसङ्घट्टात् वर्णद्वयम् ऐ औ इति । सा इयं क्रियाशक्तिः   
-तदेव च वर्णचतुष्टयम् ए ऐ ओ औ इति ।
+इष्यमाणं च न बाह्यवत् स्फुटम् - स्फुटरूपत्वे तदेव निर्माणं स्यात्।  
+न इच्छा ईशनं वा +++(स्फुटम्)+++।
+
+<details><summary>English</summary>
+
+However, (at that stage of manifestation) 'the object of the power of will' (isyamāṇa) is not discernable as an external object. If it were discernable it would be created like an external object would be.  
+However, neither will (icchā) nor the 'power to lord over' (isana) are clearly discernible.
+</details>
+
+
+अतो ऽस्फुटत्वाद् एव श्रुतिमात्रं रलयोः+++(→ऋऌयोः)+++ न व्यञ्जनवत् स्थितिः ।  
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+न साक्षाद् वर्णः ।
+</details>
+
+<details><summary>English</summary>
+
+For that very reason, "r̥" and “l̥” are only semivowels and not consonants like "r" and "l".
+</details>
+
+
+तद् एतद् वर्ण-चतुष्टयं उभय-च्छाया-धारित्वात् +नपुंसकम् ऋ ॠ ऌ ॡ इति । 
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+बीज-योनि-रूपत्वाद् उभयत्वम् ।  
+अत एव नरसिंह-वज्रास्यन्तरम् इति महाभाष्यकारः।
+</details>
+
+<details><summary>English</summary>
+
+Furthermore, this group of letters, “ऋ,” “ॠ," "ऌ" and "ॡ" are considered neuter because they bear shades of both consonants and vowels.
+</details>
+
+
+## क्रिया
+अनुत्तरानन्दयोर् इच्छादिषु यदा प्रसरस् तदा वर्णद्वयम् ए ओ इति । 
+
+<details><summary>English</summary>
+
+When the expansion of anuttara "a" or ānanda "ā” in the direction of icchā “i,” etc., takes place, then the two syllables “e" and "o" come into existence.
+</details>
+
+तत्रापि पुनर् अनुत्तरानन्द-सङ्घट्टाद् वर्ण-द्वयम् ऐ औ इति । 
+
+<details><summary>English</summary>
+
+Then again, when these two syllables, "e" and "o,” are closely united (samghatta) with anuttara "a" and ānanda "ā," then the syllables "ai" and "au" are born.
+</details>
+
+
+सा इयं क्रियाशक्तिः।  
+तद् एव च वर्णचतुष्टयम् - ए ऐ ओ औ इति ।
+
+<details><summary>English</summary>
+
+
+This indeed is the play of the energy of activity (kriyā śakti),  
+which shines in the manifestation of the four syllables, that is, "e," "ai," "o," and "au."[^21]
+
+[^21]:
+
+    Four phonemes, namely "e," "ai," "o," and "au," represent the energy of action. When the movement of the supreme vibration becomes completely externalized, then it is known as "au,” in which the flow of the unfoldment stops. Then all the divisions of the energy merge in the one which shows itself as the bindu or drop. 
+
+</details>
+
+ततः पुनः क्रियाशक्त्यन्ते सर्वं कार्यभूतं यावद् अनुत्तरे प्रवेक्ष्यति।  
+तावद् एव पूर्वं संवेदन-सारतया पकाश-मात्रत्वेन बिन्दुतया ऽऽस्ते - अम् इति ।
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+तथा च मालिनीवार्तिके -
+
+अनुत्तरात् समारभ्य  
+ज्ञान-शक्त्यन्तम् ईदृशम् ।   
+इच्छैव तु क्रिया-शक्तिम्  
+ईशनेन समास्थिता ॥
+
+प्रकाशस्थितिलेशांशं  
+गृह्णती गण्यतां गता ।   
+इच्छादि यच् च तत्-पूर्वा-  
+ऽनुत्तरानन्दसङ्गतेः ॥
+
+तदादिश्लेषयोगेन सन्ध्यक्षरचतुष्टयम् ।   
+ततः स्वरूपसंवित्तिलाभाद्विन्द्वादिका स्थितिः ॥
+
+ततः समग्रसन्दर्भभरिताकाररूपिणि ।   
+विसर्गः किल शाक्तोऽसौ विक्षेप इति यः स्मृतः ॥
+
+विसर्गस्यैव विश्लेष इति सप्तदशी कला ।   
+क्वचिदष्टादशी सैव पुनः प्रक्षोभयोगतः ॥
+
+अनुत्तरस्याकारस्य परभैरवरूपिणः ।   
+अकुलस्य परा येयं कौलिकी शक्तिरुत्तमा ॥
+
+स एवायं विसर्गस्तु तस्माज्जातमिदं जगत् ।   
+तस्य प्रक्षोभयोग्यत्वं प्रक्षोभकलनोदयः ॥
+
+प्रक्षोभपूर्णताभावात्तदकुलक्रमोनता ।   
+इति षट्कस्वरूपात्मविमर्शान्दोलनोदितम् ॥
+
+अनुत्तरस्वभावत्वादाद्यस्यैव विजृम्भितम् ।   
+स एव भगवानन्तर्नित्यं प्रस्फुरदात्मकः ॥
+
+अन्तःस्थसर्वभावौघपूर्णमध्यमशक्तिकः ।   
+स्वेच्छाक्षोभस्वभावोद्यज्जगदानन्दसुन्दरः ॥
+
+नित्यं स्फुरति सम्पूर्णविसर्गरससुन्दरः ।   
+शिवशक्त्योः स सङ्घट्टः स्नेह इत्यभिधीयते ॥
+
+अत्रैव पूर्णवैसर्गपदे लब्धुं प्रवेशनम् ।   
+लेहनामन्थनेत्यादि सम्प्रदायमुपासते ॥
+
+तथाहि मध्यमां नाडीमधिष्ठायाखिलं वपुः ।   
+प्राणयत्परमं तेजः प्रक्षुब्धामृतमान्यतः ॥
+
+विसृष्टिरूपतां गच्छेद्यात्यानन्दचमत्क्रियाम् ।   
+अपूर्णां केवलं सा तु पूर्णां तु भगवन्मयी ॥
+
+तेन वैसर्गिकी शक्तिरेकैवेयं विजृम्भते ।   
+विसर्ग एव प्रक्षुब्धः प्रयत्नद्विगुणत्वतः ॥   
+हकारो नाम विश्वेषां व्यञ्जनानां प्रसूतिकृत् ।   
+स एव च पुनर्बिन्दुयोगात् स्वामेव भूमिकाम् ।   
+अनुत्तरामाश्रयते सोहं भाव इहेष्यते ॥ इति ।
+</details>
+
+<details><summary>English</summary>
+
+Then, at the end of the development of the power of action (kriyā śakti), just before entering anuttara, all that which has been created up to this point takes repose and abides in the bindu[^22] (am), which is light alone and the very essence of knowledge.
+
+
+[^22]:
+
+    Bindu is the compact mass of consciousness assembled into an undifferentiated point from which the creation of the universe proceeds. 
+</details>
+
+
+ततस्तत्रैव अनुत्तरस्य विसर्गो जायते अः इति ।  
+
+
+<details><summary>English</summary>
+
+At that very place where bindu rests in unsurpassed (anuttara), the "anuttara visarga" is born, which is "ah.”
+</details>
+
+एवं षोडशकं परामर्शानां बीज-स्वरूपम् उच्यते ।
+
+<details><summary>English</summary>
+
+Thus, the aggregate of sixteen letters, which are seeds (bīja), are said to be the very nature of all reflective awarenesses (parāmarśa).
+</details>
+
+## योनयः
+तदुत्थं +++([ख्: तदुक्तमिति पाठः ।])+++ व्यञ्जनात्मकं योनिरूपम् ।
+
+<details><summary>English</summary>
+
+The recipients (yoni), which are consonants, are born from that vi+sarga.
+</details>
+
+तत्र +अनुत्तरात् कवर्गः श्रद्धायाः,  
+इच्छायाः चवर्गः,  
+सकर्मिकाया इच्छाया द्वौ टवर्गस् तवर्गश् च,  
+उन्मेषात् पवर्गः।  
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+तथाहि
+
+अकुलात्पदशक्त्यात्मा प्रथमो वर्ग उत्थितः ।   
+अनारूपितरूपाया इच्छायाश्च ततः परम् ॥
+
+वह्निक्षमाजुषस्तस्य ट-ताद्यं च द्वयं ततः ।   
+षादिरुन्मेषतो जात इति स्पर्शाः प्रकीर्तिताः ॥
+
+इच्छाशक्तिर्द्विधा या च क्षुभिताक्षुभितस्वतः ।   
+सा विजातीयशक्त्यंशः प्रोन्मुखे याति यत्र ताम् ॥
+
+सैव शीघ्रतरोपात्तज्ञेया कालुष्यरूषिता ।   
+विजातीयोन्मुखत्वेन रत्वं लत्वं च गच्छति ॥
+
+तद्वदुन्मेषशक्तिर्द्विरूपा वैज्रात्यशक्तिगा ।   
+वकारत्वं सृष्टिसारप्रवर्तकम् ॥   
+इति मालिनीवार्तिके एव ।
+</details>
+
+<details><summary>English</summary>
+
+From anuttara emerges the "ka" group of letters;  
+from 'will without an object' (icchā) the "ca" group of letters;  
+from will with an object the "ta" and "ta" groups of letters;  
+and from unmesa the "pa" group of letters is born.
+</details>
+
+
+शक्ति-पञ्चक-योगात् पञ्चकत्वम् ।
+
+<details><summary>English</summary>
+
+It is because of being united with five śaktis that the five groups of letters are produced.
+</details>
+
+इच्छाया एव त्रिविधाया य-र-लाः,  
+उन्मेषात् वकारः,  
+इच्छाया एव त्रिविधायाः श-ष-साः,  
+विसर्गात् हकारः,  
+योनिसंयोगजः क्षकारः । 
+
+<details><summary>English</summary>
+
+It is from this threefold division of the will (icchā) that the semi vowels "ya," "ra," and "la" are born,  
+while the semivowel "va” is born from unmeṣa.
+
+The letters "sa,” “ṣa," and "sa" are created from the threefold division of will (iccha).  
+From visarga, "ha" is born,  
+and the letter "kṣa" arises from the union of two consonants: "ha" and "sa."
+</details>
+
+## विसर्गशक्तिः
+इत्य् एवम् एष भगवान् अनुत्तर एव कुलेश्वररूपः ।  
+तस्य च एकैव कौलिकी विसर्गशक्तिः  
+यया आनन्द-रूपात् प्रभृति +इयता बहिःसृष्टिपर्यन्तेन  
+प्रस्पन्दतः वर्गादि-परामर्शा +++([क्: प्रसृताः ककारादि इति कवर्गादि इति च पाठः ।])+++ एव बहिस्-तत्त्व-रूपतां प्राप्ताः ।
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अकारादि विसर्गान्तं शिवतत्त्वम्।  
+कादि-ङान्तं धरादि-नभोन्तं भूतपञ्चकम्  
+चादि-ञान्तं गन्धादि शब्दान्तं तन्मात्रपञ्चकम्  
+टादि-णान्तं पादादि-वागन्त-कर्मेन्द्रियपञ्चकम्  
+तादि नान्तं घ्राणादि-श्रोत्रान्तं-बुद्धिकरणपञ्चकम्  
+षादि-मान्तं मनोऽहङ्कार-बुद्धि-प्रकृति-पुरुषाख्यं पञ्चकम्  
+वाद्यादिशब्दवाच्या यकारादयो वकारान्ता - राग-विद्या-कला-मायाख्यानि तत्त्वानि  
+धारणाख्यान्तराणि धारयन्ति पृथग्-भूततया ऽभिमानयन्तीति धारणानि इति ।
+</details>
+
+<details><summary>English</summary>
+
+Thus, the Lord who is supreme (anuttara) becomes the 'Lord of the group of letters' (Kuleśvara). It is this single kauliki visarga Śakti [^23] of the Lord, which as the flow of vibrating impulse in the form of reflective cognition (parāmarśa) such as groups of letters, etc., extends from ānanda to external manifestation and assumes the form of the external principles (tattvas).
+
+[^23]:
+
+    On its way of unfolding the universe, the akulaśakti belonging to śiva first manifests bindu represented by one dot. Further, out of bindu, the kauliki visarga śakti emerges in the form of two dots, one above the other. It is from this śakti that the creation of the entire universe takes place. 
+
+</details>
 
 
 
-However, (at that stage of manifestation) 'the object of the power of will' (isyamāṇa) is not discernable as an external object. If it were discernable it would be created like an external object would be. However, nei ther will (icchā) nor the power to lord over' (isana) are clearly discernible. For that very reason, "r" and “I” are only semivowels and not consonants like "y" and "?". Furthermore, this group of letters, “r,” “ri," "!" and "?," are considered neuter because they bear shades of both consonants and vowels. . . . . . . 
+स च एष विसर्गस्त्रिधा -   
+आणवः चित्त-विश्रान्ति-रूपः   
+शाक्तः चित्त-सम्बोध-लक्षणः  
+शाम्भवः चित्त-प्रलय-रूपः इति ।
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+यद् उक्तम्
+
+पूर्वं विसृज्य सकलं  
+कर्तव्यं शून्यतानले ।   
+चित्त-विश्रान्ति-सञ्ज्ञोऽयम्  
+आणवः सम्प्रकीर्तितः ॥
+</details>
+
+<details><summary>English</summary>
+
+Visarga is threefold, [^24] that is,  
+āṇava, which is the restful state of citta;  
+śākta, characterized by the awakening of citta;  
+and sāmvabha, which is the dissolution of citta.
 
 
-ततः पुनः क्रियाशक्त्यन्ते सर्वं कार्यभूतं यावत् अनुत्तरे प्रवेक्ष्यति, तावदेव पूर्वं संवेदनसारतया प्रकाशमात्रत्वेन बिन्दुतया आस्ते - अमिति । ततस्तत्रैव अनुत्तरस्य विसर्गो जायते- अः इति । एवं षोडशकं परामर्शानां बीजस्वरूपम् उच्यते । तदुत्थं व्यञ्जनात्मकं योनिरूपम् | तत्र अनुत्तरात् कवर्गः, श्रद्धायाः इच्छायाः चवर्गः, सकर्मिकाया इच्छाया द्वौ टवर्णस्तवर्गश्च, उन्मेषात् पवर्ग:-शक्तिपञ्चकयोगात् पञ्चकत्वम् । इच्छाया एव त्रिविधायाः य-र-लाः, उन्मेषात् वकारः, इच्छाया एव त्रिविधाया श-ष-साः, विसर्गात् हकारः, योनिसंयोगजः क्षकारः । इत्येवम् एष भगवान् अनुत्तर एव कुलेश्वररूपः | तस्य च एकैव कौलिकी विसर्गशक्तिः, यया आनन्दरूपात् प्रभृति इयता बहिःसृष्टिपर्यन्तेन प्रस्पन्दतः वर्गादिपरामर्शा एव बहिस्तत्त्वरूपतां प्राप्ताः | स च एष विसर्गस्त्रिधा, आणवः चित्तविश्रान्तिरूपः, शाक्तः चित्तसंबोधलक्षणः, शांभवः चित्तप्रलयरूपः इति । 
 
-When the expansion of anuttara "a" or ānanda "ā” in the direction of icchā “i,” etc., takes place, then the two syllables “e" and "o" come into existence. Then again, when these two sylla bles, Me" and "o,” are closely united (samghatta) with anuttara "a" and ānanda "ā," then the syllables "ai" and "au" are born. This indeed is the play of the energy of activity (kriyā śakti), which 
+[^24]:
 
-64 TANTRASĀRA 
+    Emission (visarga) is threefold, i.e., ānava, śākta, and śāmbhava. 
 
-shines in the manifestation of the four syllables, that is, "e," "ai," "o," and "au."21 Then, at the end of the development of the power of action (kriyā śakti), just before entering anuttara, all that which has been created up to this point takes repose and abides in the bindu22 (am), which is light alone and the very essence of knowledge. At that very place where bindu rests in unsurpassed (anuttara), the "anuttara visarga" is born, which is "ah.” Thus, the aggregate of sixteen letters, which are seeds (bīja), are said to be the very nature of all reflective awarenesses (parāmarśa). The recipients (yoni), which are consonants, are born from that vi+sarga. From anuttara emerges the "ka" group of letters; from 'will without an object (icchā) the "ca" group of letters; from will with an object the "ta" and "ta" groups of letters; and from unmesa the "pa" group of letters is born. It is because of being united with five śaktis that the five groups of letters are produced. It is from this threefold division of the will (icchā) that the semi vowels "ya," "ra," and "la". are born, while the semivowel "va” is born from unmeṣa. 
+    They are characterized by difference, difference-cum-nondifference, and nondifference. 
 
-The letters "sa,” “ṣa," and "sa" are created from the threefold division of will (iccha). From visarga, "ha" is born, and the let ter "kṣa" arises from the union of two consonants: "ha" and "sa." Thus, the Lord who is supreme (anuttara) becomes the 'Lord of the group of letters' (Kuleśvara). It is this single kauliki visarga Śakti 23 of the Lord, which as the flow of vibrating impulse in the form of reflective cognition (parāmarśa) such as groups of letters, etc., extends from ānanda to external manifestation and assumes the form of the external principles (tattvas). Visarga is threefold,24 that is, āṇava, which is the restful state of citta; śākta, character ized by the awakening of citta; and sāmvabha, which is the dis solution of citta. 
+    The picture in the form of ānavavisarga shines to the view of the limited subject as "this." In this view, on the one end lies the limited subject and on the other lies the universe. These two get merged into the unity of limited knowledge and its object, which is nothing but the unity of knowingness (citi) and the object of knowledge (cetya). This is known as visarga, where repose occurs in the heart. 
 
-एवं विसर्ग एव विश्वजनने भगवतः शक्तिः। इत्येवम् इयतो यदा निर्विभागतया एव परामर्शः तदा एक एव भगवान्, बीजयोनितया भागशः परामर्शे शक्तिमान् शक्तिश्च | पृथक् अष्टकपरामर्श चक्रेश्वरसाहित्येन नववर्गः, एकैकपरामर्शप्राधान्ये पञ्चाशदात्मकता । तत्रापि संभवद्भागभेद-परामर्शने 
+    In the second visarga, known as cittasambodha, the entire universe-while shining as one with consciousness with all the distinctions of subjects and their objects-yet also shines, transcending them all. 
 
-TANTRASĀRA 65 
+    The third visarga is known as the dissolution of citta (cittapralaya) when all the distinctions of knowing subjects and objects are obliterated, and therefore shines as one with the subject of supreme consciousness. 
+</details>
 
-एकाशीतिरूपत्वम्। वस्तुतस्तु षट् एव परामर्शाः, प्रसरणप्रतिसंचरणयोगेन द्वादश भवन्तः परमेश्वरस्य विश्वशक्तिपूर्णत्वं पुष्णन्ति । ता एव एताः परामर्शरूपत्वात् शक्तयो भगवत्यः श्रीकालिका इति निरुक्ताः । एते च शक्तिरूपा एव शुद्धाः परामर्शाः शुद्धविद्यायां परापररूपत्वेन मायान्मेषमात्रसंकोचात् विद्याविद्येश्वररूपतां भजन्ते । मायायां पुनः स्फुटीभूतभेदविभागा मायीयवर्णतां भजन्ते, ये पश्यन्तीमध्यमावैखरीषु व्यावहारिकत्वम् आसाद्य बहीरूपतत्त्व स्वभावतापत्तिपर्यन्ताः ते च मायीया अपि शरीरकल्पत्वेन यदा दृष्यन्ते, यदा च तेषाम् उक्तनयैरेतैः जीवितस्थानीयैः शुद्धैः परामर्शः प्रत्युज्जीवनं क्रियते तदा ते सवीर्या भवन्ति, ते च तादृशा भोगमोक्षप्रदाः, इत्येवं सकलपरामर्शविश्रान्ति मात्ररूपं प्रतिबिम्बितसमंस्ततत्त्वभूतंभुवनभेदम् आत्मानं पश्यतो निर्विकल्पतया शांभवेन समावेशेन जीवन्मुक्ततां । अत्रपि पूर्ववत् न मन्त्रादियन्त्राणा काचिदिति 
+एवं विसर्ग एव विश्वजनने भगवतः शक्तिः ।  
+इत्येवम् इयतो +++([ख्: इयति इति पाठान्तरं च ।])+++ यदा निर्विभागतया +एव परामर्शः  
+तदा +एक एव भगवान्।  
+बीज-योनितया भागशः परामर्शे शक्तिमान् शक्तिश् च ।
 
-Thus, visarga is the power belonging to the Lord capable of creating the universe.25 When that reality is cognized as integrated reflective consciousness, then the Lord alone shines. On the other hand, if that reality is cognized as being divided into con sonants and vowels, then it is known as the 'possessor of power' (śaktimān) and śakti herself. When that reality is cognized as eightfold parāmarśa along with cakreśvara (the letter kṣa), then it is divided into nine groups. Furthermore, if one cognizes that same reality placing the emphasis on each and every individual parāmarśa, then it is divided into fifty. Finally, when that real ity is cognized as existing with possible subtle divisions, then the number becomes eighty-one. 
+<details><summary>English</summary>
 
-In reality, reflective cognitions (parāmarśas) are only six.26 However, on account of expansion and contraction they become twelve and thus nourish the fullness of the Lord, as the possessor of all the śaktis. All these śaktis of the Lord, being of the nature of reflecting cognitions, are known as Kālikās, 27 divine goddesses. These pure reflective cognitions are energies by nature, which on the level of pure knowledge (śuddhavidyā) appear as vidyā (man tra) and vidyesvara (mantresvara), as supreme and nonsupreme 
+Thus, visarga is the power belonging to the Lord capable of creating the universe.[^25]  
+When that reality is cognized as integrated reflective consciousness, then the Lord alone shines.  
+On the other hand, if that reality is cognized as being divided into consonants and vowels, then it is known as the 'possessor of power' (śaktimān) and śakti herself.
+
+
+[^25]:
+
+    The energy of emission (visarga) manifesting itself as individual cognitions appears as the universe. She, that is, śakti, is the cause, or the mother, of all sorts of gross words and sentences. In agamas it has two appellations; the one is called mātr̥ka and the other malinī. The former is the seed (bīja) and the latter is the recipient (yoni) of the seed. The one, when agitated, gives birth to diverse phonemes. All these phonemes, being the indicative sound, represent all thirty six principles (tattva), beginning with śiva and ending with the earth. 
+</details>
+
+पृथक् अष्टक-परामर्शे चक्रेश्वर-साहित्येन नववर्गः।  
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+चक्रेश्वर-साहित्येन = क्षकारसाहित्येन इत्यर्थः ।
+</details>
+
+<details><summary>English</summary>
+
+When that reality is cognized as eightfold parāmarśa along with cakreśvara (the letter kṣa), then it is divided into nine groups.
+</details>
+
+एकैकपरामर्शप्राधान्ये पञ्चाशद्-आत्मकता ।  
+तत्रापि सम्भवद्-भाग-भेद-परामर्शने एकाशीतिरूपत्वम् ।
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+भागा अर्धमात्रारूपाः ।
+</details>
+
+<details><summary>English</summary>
+
+Furthermore, if one cognizes that same reality placing the emphasis on each and every individual parāmarśa, then it is divided into fifty.  
+Finally, when that real ity is cognized as existing with possible subtle divisions, then the number becomes eighty-one.
+</details>
+
+वस्तुतस्तु षड् एव +++(अ-ऊ इति)+++ परामर्शाः  
+प्रसरण-प्रतिसञ्चरण-योगेन +++(ए-ऐ-ओ-औ-अं-अः इति)+++ द्वादश भवन्तः  
+परमेश्वरस्य विश्व-शक्ति-पूर्णत्वं पुष्णन्ति । 
+  
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+यदा अनुत्तर आनन्देच्छादिरूपेण प्रसृतस्,  
+तदा षट्।  
+पुनर् यदासौ इच्छादिषु प्रतिसञ्चरंस् तदा एकारादयः षट्।  
+अतः षण्ढ-स्वर-वर्जं द्वादश इति ।
+</details>
+
+<details><summary>English</summary>
+
+In reality, reflective cognitions (parāmarśas) are only six.[^26]  
+However, on account of expansion and contraction they become twelve and thus nourish the fullness of the Lord, as the possessor of all the śaktis.
+
+
+[^26]:
+
+    In reality the number of cognitions is six. They are anuttara, iccha, unmeṣa, ānanda, īśāna, and ūrmi. 
+
+    However, because of expansion and reverse movement the number becomes twelve. When anuttara proceeds to expand it becomes “ā." Similarly, "i" becomes "ī" and "u” becomes "ū." This movement is called prasaraṇa. 
+
+    At the same time, mutual relation of "a" with "i" "a" with "u," "e" with “a," "u" with "a," "a" with bindu, and "a" with visarga occurs. It is then known as pratisamcarana. Thus the phonemes which come into being following the above methods are of mixed character. They make the fullness of the Lord.
+
+</details>
+
+
+
+ता एव एताः परामर्शरूपत्वात् शक्तयो भगवत्यः श्रीकालिका इति निरुक्ताः । एते च शक्तिरूपा एव शुद्धाः परामर्शाः शुद्धविद्यायां परापररूपत्वेन मायान्मेषमात्रसंकोचात् विद्याविद्येश्वररूपतां भजन्ते । मायायां पुनः स्फुटीभूतभेदविभागा मायीयवर्णतां भजन्ते, ये पश्यन्तीमध्यमावैखरीषु व्यावहारिकत्वम् आसाद्य बहीरूपतत्त्व स्वभावतापत्तिपर्यन्ताः ते च मायीया अपि शरीरकल्पत्वेन यदा दृष्यन्ते, यदा च तेषाम् उक्तनयैरेतैः जीवितस्थानीयैः शुद्धैः परामर्शः प्रत्युज्जीवनं क्रियते तदा ते सवीर्या भवन्ति, ते च तादृशा भोगमोक्षप्रदाः, इत्येवं सकलपरामर्शविश्रान्ति मात्ररूपं प्रतिबिम्बितसमंस्ततत्त्वभूतंभुवनभेदम् आत्मानं पश्यतो निर्विकल्पतया शांभवेन समावेशेन जीवन्मुक्ततां । अत्रपि पूर्ववत् न मन्त्रादियन्त्राणा काचिदिति 
+
+
+TANTRASĀRA 65
+
+
+
+All these śaktis of the Lord, being of the nature of reflecting cognitions, are known as Kālikās, 27 divine goddesses. These pure reflective cognitions are energies by nature, which on the level of pure knowledge (śuddhavidyā) appear as vidyā (man tra) and vidyesvara (mantresvara), as supreme and nonsupreme 
 
 66 TANTRASĀRA 
 

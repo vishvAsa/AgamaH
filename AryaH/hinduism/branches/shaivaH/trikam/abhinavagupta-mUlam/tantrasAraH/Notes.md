@@ -5,52 +5,17 @@ title = "Notes"
 ## 03
 Chapter Three
 
-
-
-
-[^21]:
-
-    Four phonemes, namely "e," "ai," "o," and "au," represent the energy of action. When the movement of the supreme vibration becomes completely externalized, then it is known as "au,” in which the flow of the unfoldment stops. Then all the divisions of the energy merge in the one which shows itself as the bindu or drop. 
-
-[^22]:
-
-    Bindu is the compact mass of consciousness assembled into an undifferentiated point from which the creation of the universe proceeds. 
-
-[^23]:
-
-    On its way of unfolding the universe, the akulaśakti belonging to śiva first manifests bindu represented by one dot. Further, out of bindu, the kauliki visarga śakti emerges in the form of two dots, one above the other. It is from this śakti that the creation of the entire universe takes place. 
-
-[^24]:
-
-    Emission (visarga) is threefold, i.e., ānava, śākta, and śāmbhava. 
-
-    They are characterized by difference, difference-cum-nondifference, and nondifference. The picture in the form of ānavavisarga shines to the view of the limited subject as "this." In this view, on the one end lies the limited subject and on the other lies the universe. These two get merged into the unity of limited knowledge and its object, which is nothing but the unity of knowingness (citi) and the object of knowledge (cetya). This is known as visarga, where repose occurs in the heart. In the second visarga, known as cittasambodha, the entire universe-while shining as one with consciousness with all the distinctions of subjects and their objects-yet also shines, transcending them all. The third visarga is known as the dissolution of citta (cittapralaya) when all the distinctions of know ing subjects and objects are obliterated, and therefore shines as one with the subject of supreme consciousness. 
-
-[^25]:
-
-    The energy of emission (visarga) manifesting itself as individual cognitions appears as the universe. She, that is, śakti, is the cause, or the mother, of all sorts of gross words and sentences. In agamas it has two appellations; the one is called mātska and the other malini. The former is the seed (bīja) and the latter is the recipient (yoni) of the seed. The one, when agitated, gives birth to diverse phonemes. All these phonemes, being the indicative sound, represent all thirty six principles (tattva), beginning with śiva and ending with the earth. 
-
-[^26]:
-
-    In reality the number of cognitions is six. They are anuttara, iccha, unmeṣa, ānanda, īśāna, and ūrmi. However, because of expansion and reverse movement the number becomes twelve. When anuttara proceeds to expand it becomes “a." Similarly, "i" becomes "i" and "u” becomes "ú." This movement is called prasarana. At the same time, mutual relation of "a" with "," "a" with "u," ";" with “a," "u" with "a," "a" with bindu, and "a" with visarga occurs. It is then known as pratisamcarana. Thus the phonemes which come into being following the above methods are of mixed character. They make the fullness of the Lord. 
-
 NOTES 221 
 
 
 
 [^27]:
 
-    The number of Kālikās is twelve. They are called Kālikās because 
-
-they cause change through the process of mutation denoted by the word kalana. Cognition is nothing but the energy of the Lord on the pure level of consciousness. However, with emergence of māyā, differentiation sets in, with the result that reflective cognition (parāmarśa) descends down to the worldly level and assumes the character of syllables on the one hand and the principles (tattva) on the other. 
+    The number of Kālikās is twelve. They are called Kālikās because they cause change through the process of mutation denoted by the word kalana. Cognition is nothing but the energy of the Lord on the pure level of consciousness. However, with emergence of māyā, differentiation sets in, with the result that reflective cognition (parāmarśa) descends down to the worldly level and assumes the character of syllables on the one hand and the principles (tattva) on the other. 
 
 [^28]:
 
-    There are four levels of speech. They are parā, pasyanti, madhy 
-
-amā, and vaikhari. For detailed account on the subject of four lev els of speech see Abhinavagupta's Parātrisikā. Vivarana. See also 
-
-Padoux's Vāc: The Concept of the Word in Selected Hindu Tantras. 
+    There are four levels of speech. They are parā, pasyanti, madhyamā, and vaikhari. For detailed account on the subject of four lev els of speech see Abhinavagupta's Parātrisikā. Vivarana. See also Padoux's Vāc: The Concept of the Word in Selected Hindu Tantras. 
 
 [^29]:
 
