@@ -741,7 +741,66 @@ However, on account of expansion and contraction they become twelve and thus nou
 
 
 
-ता एव एताः परामर्शरूपत्वात् शक्तयो भगवत्यः श्रीकालिका इति निरुक्ताः । एते च शक्तिरूपा एव शुद्धाः परामर्शाः शुद्धविद्यायां परापररूपत्वेन मायान्मेषमात्रसंकोचात् विद्याविद्येश्वररूपतां भजन्ते । मायायां पुनः स्फुटीभूतभेदविभागा मायीयवर्णतां भजन्ते, ये पश्यन्तीमध्यमावैखरीषु व्यावहारिकत्वम् आसाद्य बहीरूपतत्त्व स्वभावतापत्तिपर्यन्ताः ते च मायीया अपि शरीरकल्पत्वेन यदा दृष्यन्ते, यदा च तेषाम् उक्तनयैरेतैः जीवितस्थानीयैः शुद्धैः परामर्शः प्रत्युज्जीवनं क्रियते तदा ते सवीर्या भवन्ति, ते च तादृशा भोगमोक्षप्रदाः, इत्येवं सकलपरामर्शविश्रान्ति मात्ररूपं प्रतिबिम्बितसमंस्ततत्त्वभूतंभुवनभेदम् आत्मानं पश्यतो निर्विकल्पतया शांभवेन समावेशेन जीवन्मुक्ततां । अत्रपि पूर्ववत् न मन्त्रादियन्त्राणा काचिदिति 
+ता एव एतापरामर्शरूपत्वात् शक्तयो   
+भगवत्यः श्रीकालिका इति निरुक्ताः ।
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+कलयन्ति क्रमन्ते इति कालिकाः । यदुक्तम्
+
+> परामर्शात्मकत्वेन  
+विसर्गाक्षेप-योगतः ।   
+इयत्ता-कलनाज् ज्ञानात्  
+ताः प्रोक्ताः कालिकाः क्वचित् ॥ 
+
+इति ।
+</details>
+
+
+एते च शक्तिरूपा एव शुद्धाः परामर्शाः  
+शुद्धविद्यायां परापर-रूपत्वेन मायोन्मेष-मात्रसङ्कोचात् विद्याविद्येश्वररूपतां [क्: विद्येश्वरतारूपा मन्त्ररूपतामिति पाठः ।; ख्: विद्याविद्येश्वरबीजरूपा मन्त्ररूपतामिति पाठान्तरं च ।] भजन्ते । मायायां पुनः   
+स्फुटीभूतभेदविभागा मायीयवर्णतां भजन्ते ये   
+पश्यन्तीमध्यमावैखरीषु व्यावहारिकत्वम् [ख्: व्यवहारकारित्वमिति   
+पाठः ।] आसाद्य बहीरूपतत्त्वस्वभावतापत्तिपर्यन्ताः ते च मायीया   
+अपि शरीरकल्पत्वेन [मायीया वर्णा जीवरहितं शरीरमिव तेषां तु   
+परामर्शो जीव इवास्ति अन्यथा तेऽकिञ्चित्करा इति भावः ।] यदा दृश्यन्ते   
+यदा च तेषाम्
+
+१९)
+
+उक्तनयैरेतैः जीवितस्थानीयैः शुद्धैः परामर्शैः प्रत्युज्जीवनं क्रियते   
+तदा ते सवीर्या भवन्ति ते च तादृशा भोगमोक्षप्रदाः इत्येवं   
+सकलपरामर्शविश्रान्तिमात्ररूपं   
+प्रतिबिम्बितसमस्ततत्त्वभूतभुवनभेदम् आत्मानं पश्यतो निर्विकल्पतया   
+शाम्भवेन समावेशेन जीवन्मुक्तता । अत्रापि पूर्ववत् न मन्त्रादियन्त्रणा   
+काचिदिति ।
+
+अन्तर्बिभाति सकलं जगदात्मनीह  
+यद्वद्विचित्ररचना मुकुरान्तराले ।  
+भोधः परं निजविमर्शरसानुवृत्त्या [ख्: निजविमर्शनसारमूर्त्या   
+इति पाठः; ग्: विमर्शनसारयुक्त्या इति सारयोगादिति च पाठान्तरम् ।]  
+विश्वं परामृशति नो मुकुरस्तथा तु ॥
+
+[अत्रेयं छाया
+
+संवेदननिर्मलदर्पणेऽस्मिन् सकलं स्फुरन्निजसारम् ।   
+आमर्शनरससरहस्यविसृष्टरूपं सत्यं भाति ॥] संवे-अण   
+निम्मल दप्पणस्मि  
+स-अलं फुरत्त नि-असारं ।  
+आमरिसण रस सरहस  
+विमट्टरू-अं स-इं भा-इ ॥
+
+२०)
+
+[इति श्रुत्वा विमलमेनं निजात्मानं समस्तवस्तुमयम् ।   
+यो योजयति स परभैरवो भूत्वा परनिर्वृत्तिं लभते ॥] इ-अ सुण##-  
+नि-अ अप्पाणं समत्थवत्थम-अम् ।  
+जो जो-अय सो परभैर-इ  
+बोव्व परणिव्व-इं लह-इ ॥
+
+इति श्रीमदभिनवगुप्ताचार्यविरचिते तन्त्रसारे शाम्भवोपायप्रकाशनं   
++++([ख्, ग्: परोपायप्रकाशनमिति पाठः ।])+++ नाम तृतीयमाह्निकम्   
+॥३॥
 
 
 TANTRASĀRA 65
@@ -756,6 +815,5 @@ because of the limitation which was created by the slight emer gence of māyā. 
 
 When these syllables finally descend through the stages of pasyanti, madhyamā, and vaikharī 28 and assume the nature of external categories, then they take on the role of worldly transac tions. Although on this level they are syllables belonging to māyā and are seen as bodies (that is, devoid of life), when by means of the aforesaid ingenuity they are enlivened by pure reflective cog nitions, 29 which symbolize their very life, then they become invig orated. If they become invigorated, then they are capable of giv ing liberation and/or enjoyment. When one conceives oneself as the single resort of all possible reflective cognitions in which the entire multitudes of principles (tattvas), beings, and regions are reflected, one attains liberation while living through the absorp tion born of śambhu,30 which is free from determinate knowledge. For attaining this type of absorption, as in the case of anupāya, there is no need whatsoever for adopting painful procedures such as the use of mantras, and other such practices.31 
 
-अन्तर्विभाति सकलं जगदात्मनीह यद्वद्विचित्ररचना मुकुरान्तराले । बोधः परं निजंविमर्शरसानुवृत्त्या 
 
-विश्वं परामृशति नो मुकुरस्तथा तु ।। The entire universe is shining on the clear inner core of the Self. The multifarious forms shine on the surface of the mirror, but the mirror is not aware of them. On the other hand, supreme consciousness, by means of continuous flow of its own delight of self-consciousness, reflects the universe. 
+The entire universe is shining on the clear inner core of the Self. The multifarious forms shine on the surface of the mirror, but the mirror is not aware of them. On the other hand, supreme consciousness, by means of continuous flow of its own delight of self-consciousness, reflects the universe. 
