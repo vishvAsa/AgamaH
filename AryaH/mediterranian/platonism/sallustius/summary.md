@@ -1,8 +1,9 @@
----
-title: Sallustus's view
----
++++
+title = "Summary"
++++
 
-Some of the Hermetic sage Sallustius's views [p1](https://hermetic.com/texts/on_the_gods-1), [p2](https://hermetic.com/texts/on_the_gods-2) are extremely valuable in understanding the deva-s. Sallustius was a friend of the revered Roman emperor Caesar Julian the Apostate, who tried but ultimately failed to restore deva-dharma and was murdered by a Christian. Below are some pertinent quotes from a translation by Gilbert Murray in Five Stages of Greek Religion.
+
+Some of the Hermetic sage Sallustius's views ["On the Gods and the world"](../on-the-gods/) are extremely valuable in understanding the deva-s. Sallustius was a friend of the revered Roman emperor Caesar Julian the Apostate, who tried but ultimately failed to restore deva-dharma and was murdered by a Christian. Below are some pertinent quotes from a translation by Gilbert Murray in Five Stages of Greek Religion.
 
 ## Gods are unchanging, unbegotten, eternal.
 - "Neither are they separate from the first cause nor from one another, just as thoughts are not separate from mind nor acts of knowledge from the soul."
