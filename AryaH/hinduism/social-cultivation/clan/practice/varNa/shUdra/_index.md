@@ -25,3 +25,7 @@ Abhinavagupta on varNavyavasthA : "कृतयुगे सत्त्वो�
 - Some ALwAr-s.
 - nArAyaNa guru
 - \[[IRF](http://www.indusresearch.org/dalit-saints-of-hinduism-part-1/)\]
+
+## shUdra kShatriyas
+-   In practice, śūdra-s came to found many a dynasty.
+-   This de-facto rulership was acknowledged and regulated by the ever flexible dharmaśāstra-s. (Relevant observations of PV Kane [here](https://archive.org/stream/HistoryOfDharmasastraancientAndMediaevalReligiousAndCivilLawV.3/Kane_A-History-of-Dharmasastra-v3_1946#page/n81/mode/2up)
