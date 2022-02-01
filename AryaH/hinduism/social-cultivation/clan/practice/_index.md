@@ -19,10 +19,6 @@ title: +varNa practice
     - madhusUdana-sarasvatI initiated many sannyAsins from other dvija-varNa-s with the intention of protecting brAhmaNa sannyAsins as suggested by bIrbal \[[IMG](http://i.imgur.com/WLSY6VL.jpg)\].
     - matsyendranAtha's 1k year old tradition initiates non-brAhmaNa sannyAsins as well.  
 
-## jAti position relative to mlecCha-s
-- mlecCha-s were in practice treated better than the lowest strata of the native society. This made sense since they brought with them military and economic power which hindus wanted to deal with, and since they were located outside India.
-- This proved mal-adaptive when the mlecCha-s started living and breeding in the Arya lands. For example: A low-jAti person converted to a muslim or christian would be treated much better. This contributed to their increase in numbers. (../More [here](future/).)
-
 ## Elsewhere
 - Bali - [W](https://en.wikipedia.org/wiki/Balinese_caste_system).
 
