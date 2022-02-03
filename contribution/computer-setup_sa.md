@@ -1,11 +1,11 @@
 +++
-title = "सङ्गणक-व्यवस्था"
+title = "Computer setup"
 unicode_script = "devanagari"
 +++
-For English instructions [go here](../computer-setup_en/) ।
 
 ## समानं कर्म
 - अधः XYZ इति यद् अस्ति, तस्य स्थाने स्वीयं github-नाम प्रयुङ्क्ताम्।
+  - अथवैतत् प्रयुज्यतां यन्त्रम्: <input id="input_githubUserId"></input><button id="transformId">पाठम् परिवर्तय!!</button>
 - https://github.com/XYZ/AgamaH इति पूर्वम् एव वर्तते चेन् निष्कासयतु browser-उपयोगेन।
 - https://github.com/vishvAsa/AgamaH इत्यत्र गत्वा पुनः fork इति करोतु। https://github.com/XYZ/AgamaH इति किञ्चिल् लभ्यते।
 
@@ -51,9 +51,18 @@ hugo server --renderToDisk --config ./config_dev.toml
 
 ## सञ्चिकासु प्राप्तासु सत्सु कार्यम्
 - यदि कार्यम् AgamaH-content इत्यस्मिन् क्रियते
-    - `git pull upstream content` इति परिवर्तनानि लभ्यानि।
-    - ततो नुदित्वाकर्षणाभ्यर्थनं https://github.com/XYZ/AgamaH/tree/content इत्यत्र गत्वा प्रेषणीयम्।
+  - `git pull upstream content` इति परिवर्तनानि लभ्यानि।
+  - ततो नुदित्वाकर्षणाभ्यर्थनं https://github.com/XYZ/AgamaH/tree/content इत्यत्र गत्वा प्रेषणीयम्।
 - यदि कार्यम् AgamaH-static इत्यस्मिन् क्रियते
-    - `git pull upstream static_files` इति परिवर्तनानि लभ्यानि।
-    - ततो नुदित्वाकर्षणाभ्यर्थनं https://github.com/XYZ/AgamaH/tree/static_files इत्यत्र गत्वा प्रेषणीयम्।
+  - `git pull upstream static_files` इति परिवर्तनानि लभ्यानि।
+  - ततो नुदित्वाकर्षणाभ्यर्थनं https://github.com/XYZ/AgamaH/tree/static_files इत्यत्र गत्वा प्रेषणीयम्।
 
+<script>
+module_ui_lib.default.replaceWithQueryParam("githubUserId", /XYZ(?=[^'’])/g);
+
+document.getElementById("transformId").onclick = function(e) {
+  let userId = document.getElementById("input_githubUserId").value;
+  console.log(userId);
+  module_ui_lib.default.insertQueryParam("githubUserId", userId);
+};
+</script>
