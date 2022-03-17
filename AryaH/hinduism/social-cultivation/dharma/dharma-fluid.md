@@ -96,3 +96,11 @@ Indian notions of dharma was very fluid. (../For a general context on the limits
         -  \[[Zoro1](https://agnimaan.wordpress.com/2015/08/31/a-hindu-perspective-on-zoroastrians-schism-of-the-liberals-and-its-dangers/)\]
 - Modern orthodoxy: Practice of ways that are ancient in spirit, suitably adapted, while participating in contemporary enterprise. This is chief.
     - An essential bridge between liberalism and ultra-orthodoxy \[[Jew1](https://agnimaan.wordpress.com/2015/08/31/modern-orthodoxy-as-a-glue-between-the-ultra-orthodox-and-the-liberal-the-jewish-example/)\].
+  
+## Core
+> देखो भाई, सीधी सी बात है। धर्मानुसार जीवनयापन करनेवाला/वाली स्तुत्य है। अन्य जो जितनी मात्रा में विपरीत करे उतना निन्द्य है। धर्मानुसार स्त्री सन्तति को जन्म दे पोषित व संस्कारित करे वही श्रेष्ठतम मार्ग उसके लिये है, उसी प्रकार पुरुष स्त्री के लिये सर्वथा अनुकूल वातावरण बनाये, आवश्यक होने पर इसके लिये अपने प्राण भी दे, यही उसके लिये श्रेष्ठतम मार्ग है। इन दोनों बातों के अधीन ही अन्य सब बाते हैं। 
+> 
+> प्रधानतम यही हैं। इनमें चूकना दोष है ही, **इनके अतिरिक्त जो कर सको वो वही है - अतिरिक्त**। अतिरिक्त के चक्कर में मुख्य को त्यागना मूर्खता है।
+> 
+> - [मोहितः](https://twitter.com/vvaayu/status/1501459414288531459)
+
