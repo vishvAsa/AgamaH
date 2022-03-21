@@ -206,4 +206,3 @@ title = "02 व्याप्त्यधिकारः"
 
 इति श्रीमालिनीविजयोत्तरे तन्त्रे व्याप्त्यधिकारो द्वितीयः ॥ २ ॥
 
-<div class="js_include" url="/AgamaH//home/vvasuki/vishvAsa/AgamaH/static/AryaH/hinduism/branches/shaivaH/trikam/mAlinI-vijayottara-tantram/mUlam/02_vyAptyadhikAraH.md"  newLevelForH1="2" title="मूलम्"> </div>  
