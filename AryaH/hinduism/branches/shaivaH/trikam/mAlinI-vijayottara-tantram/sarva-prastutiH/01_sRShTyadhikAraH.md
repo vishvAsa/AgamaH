@@ -144,7 +144,6 @@ title = "01 सृष्ट्यधिकारः"
 मल की परिभाषा बतलाते हुए भगवान् कह रहे हैं कि, 'अज्ञान' को ही मल कहने की प्रथा है। सभी इसी परिभाषा को चाहते हैं - अर्थात् इसका समर्थन करते हैं।  
 यह संसाररूपी अङ्कुर का कारण माना जाता है। वास्तव में अङ्कुर बीज से निकलता है, और वह वृक्ष बन जाता है। इस तरह स्वात्म विस्मरण रूप अज्ञान ही जिसे शास्त्र 'मल' कहते हैं, यही जगत् का बोज है। इसी से संसरण का अङ्कुर उत्पन्न होता है और यही प्रपञ्च विस्तारयुक्त होकर वृक्ष हो जाता है ।। २२-२३ ॥
 </details>
-
 <details><summary>English</summary>
 
 22 & 23. All these great souled mantras are bringers of all fruits. There are four kinds of Atman (Limited self) (the four kinds are Sakala, Pralayakala, vijnanakala and Mantra). (Out of these four, only two kinds are defined).  
@@ -190,7 +189,6 @@ In accordance with the divine will, this limited soul (who is siva and who has a
 26. That one, that is, all-parvading transcendental, fountain head of the world, without beginning and end, the Maya Sakti of siva, Isani is immune, from any change.
 
 </details>
-
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 वह माया जिसमें शक्तियों द्वारा प्रवेश कर अनन्त रूप मन्त्रमहेश्वर जगत् को उत्पन्न करते हैं, वह माया 'एक' ही शक्ति है । सर्वव्यापक तत्त्व हैं।    
@@ -212,7 +210,6 @@ In accordance with the divine will, this limited soul (who is siva and who has a
 27. This power of Maya Sakti created Kala-tattwa from which Purushatattva is born, which (Purushatattva) after getting the strength of doership, produced Vidya Tattva, i.e. impure Vidya, and Raga Tattva (attachment).
 
 </details>
-
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 माया ने ही कला तत्व को उत्पन्न किया।  
@@ -236,8 +233,6 @@ In accordance with the divine will, this limited soul (who is siva and who has a
 28. Vidya (limited knowledge) makes the limited self (who is Siva) and distinguishes between the cause and its effect. The Raga (attachment or inalination), pleases the limited self with the pleasures of the Impure enjoyments.
 
 </details>
-
-
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 विद्या के कार्य -
@@ -264,9 +259,6 @@ In accordance with the divine will, this limited soul (who is siva and who has a
 29. Niyati (limited desire) appoints the individual self to his own work.  
 The Kala defined as the extent or two fingers and a quarter (tuti) presents before him (the Anu) division of space and place.
 </details>
-
-
-
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 'नियति' माया की चौथी सन्तति है। माया की पुत्री माया के गुणों का भरपूर प्रयोग करने में समर्थ है। यह विशिष्ट कार्य मण्डलों में योजित करने में पूरी तरह दक्ष है। किंचित्-कर्तृत्व और अल्पज्ञान को अपने ऊपर आरोपित कर राग-रक्त शिव को भाव, अभाव में अवभासित कार्यों में नियोजित करने का ही यह फल है कि, यह स्वात्म स्वरूप का संस्मरण कभी कर ही न सके ।
@@ -285,7 +277,6 @@ The Kala defined as the extent or two fingers and a quarter (tuti) presents befo
 
 30. From Kalatattva, the Prakrti is formed, and from avyakta the Buddhi, possessing eight qualities is created  and from the Buddhi, consisting of eight Gunas, Ahankara formed.
 </details>
-
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 इस तरह **माया** ने कला, विद्या, राग, नियति और काल रूप +++(५)+++ कञ्चुकों के कलुष-कलङ्क पङ्क से इस विश्व प्रपञ्च को अंचित कर ही विश्राम नहीं लिया -  
@@ -306,7 +297,6 @@ The Kala defined as the extent or two fingers and a quarter (tuti) presents befo
 
 31. From light (tejas) mind the King of the senses has sprung up. From the Vaikarika light, the (ten) senses are produced. From the third kind of light the Tanmatras are born.
 </details>
-
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 **अहङ्कार** तीन प्रकार का होता है । १. तैजस, २, वैकारिक और ३. तामस । **तैजस** अहङ्कार से मन उत्पन्न हुआ। तैजस अहङ्कार में ज्ञान शक्ति, **वैकारिक** में क्रियाशक्ति और **तामस** में द्रव्यशक्ति का समावेश है।
@@ -330,9 +320,6 @@ The Kala defined as the extent or two fingers and a quarter (tuti) presents befo
 32. Ears, skin, eyes, tongue and nose, these aro five senses of knowledge. Speech, hands, the Anus, the Genitals and foot, these five are the senses of action.
 
 </details>
-
-
-
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 श्रोत्र, स्वक्, चक्षु, जिह्वा, नासिका रूप-पांच **बुद्धीन्द्रियाँ** तथा वाक्, पाणि, पायु, उपस्थ और चरण-ये पांच **कर्मेन्द्रियाँ** मानी जाती है ॥ ३२ ॥
@@ -349,9 +336,6 @@ The Kala defined as the extent or two fingers and a quarter (tuti) presents befo
 
 33. The whole world, from Kala to earth, the sea etc., by his own power, are changed by Siva. 
 </details>
-
-
-
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 इस तरह तत्त्वों के क्रम में पांच महाभूतों की गणना के साथ **कला** से लेकर अन्तिम पञ्च-महाभुत **क्षिति** पर्यन्त **संसार मण्डल** माना जाता है। संसार का अन्तिम तत्त्व पृथ्वी ही है।  
@@ -371,8 +355,6 @@ The Kala defined as the extent or two fingers and a quarter (tuti) presents befo
 
 34. The same siva has created the difference of Kala etc., tattvas from the worlds (Bhuvana) for the sake of enjoyers who desire to have success in their enjoyment.
 </details>
-
-
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 कला इत्यादि तत्त्वों के भेदों की चर्चा शास्त्रों में है। भगवान् कहते हैं कि, पार्वति ! वे भेद भुवनों के रूप में जाने जाते हैं । इनकी संरचना भी भोगियों की भोगसिद्धि के लिये स्वयम् उसी ने की है ।। ३४ ॥
@@ -388,7 +370,6 @@ The Kala defined as the extent or two fingers and a quarter (tuti) presents befo
 
 36. Thus all the individual souls united with Tattvas beginnings from Kala upto tho end of Dhara Tattva (earth) should be known as "Sakalatman' by those who wish to avoid the state of Tattvas.
 </details>
-
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 भेद का यह विस्तार 'कला' से लेकर 'धरा' पर्यन्त माना जाता है । इसमें अवस्थित पुरुष तत्त्व 'सकल' माने जाते हैं। यह भेदवाद का ही विस्तार है। जो इसके विनाश के अभिलाषी हैं, वे इस तथ्य को पूरी तरह जानते हैं कि, भेदवाद से प्रभावित पुरुष 'सकल' ही कहे जा सकते हैं क्योंकि ये 'कला' से ही समन्वित हैं।॥ ३५॥ 
@@ -405,8 +386,6 @@ The Kala defined as the extent or two fingers and a quarter (tuti) presents befo
 
 37. All the Souls under the influence of the sakti of Siva, the nature of which is to conceal the whole universe in it, do movements in the world, which has three States viz. Ejection (srsti) stability (Sthiti) and destruction (Samhara).
 </details>
-
-
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 इस प्रकार तैजस, वैकारिक और तामस अवस्थाओं की इस तिरोधान-पूर्ण प्रक्रिया में सकलों का सारा विचेष्टित अर्थात् व्यापार शिव-शक्ति के उभयात्मक प्रभाव का ही परिणाम है ।।३६ ।।
@@ -421,9 +400,6 @@ The Kala defined as the extent or two fingers and a quarter (tuti) presents befo
 
 इस प्रकार इस जगत् में सर्वत्र रुद्रों को कर्तृत्व शक्तिरूप योग्यता के अनुसार ही सारा व्यवहार-वाद घटित होता है। इन रुद्रों को संख्या पहले एक सौ अट्ठारह थो। इनको आकृति अङ्गुष्ठ मात्र की ही थी।
 </details>
-
-
-
 <details><summary>English</summary>
 
 37. The Rudras, who are thumb-sized, have one hundred and eight varieties, owing to their doership everywhere in the world.
@@ -445,9 +421,6 @@ The Kala defined as the extent or two fingers and a quarter (tuti) presents befo
 
 इनके ऊपर भगवान् शिव ने महान् अनुग्रह किया और इन्हें मन्त्रेश के पद पर नियुक्त कर दिया। उन्होंने जो कुछ साक्षात्कार किया, उसके अनुसार फलार्थियों को फल प्रदान करना प्रारम्भ किया। इसी क्रम में ब्रह्मा आदि को भी उन्होंने अपने बल और प्रभाव से फल भोग निर्धारित किया। ब्रह्मा आदि ने ऋषियों को और ऋषियों ने मन्वन्तर प्रति-निधियों को फल की व्यवस्था की। ये सभी इस दृष्टि से 'महाधिप' श्रेणी में आते हैं ॥ ३७-३९ ॥
 </details>
-
-
-
 <details><summary>English</summary>
 
 38, 39. Being kind to Rudras (who create the whole universe and assume the form of seven measurers) siva, has openly appointed them to the rank of Mantresvara. The Mantresvaras, having found that the Brahma etc. are approaching them, give the fruit equal to their own strength, to three (Brahma etc.) who are desirous of enjoyment and salvation. The Brahma etc. who themselves are delivered, deliver seers - who again being great personalities, deliver Manvantas.
@@ -464,8 +437,6 @@ The Kala defined as the extent or two fingers and a quarter (tuti) presents befo
 
 40. (The sages) say that this is the knowledge of avoidable and aquaptable explained by Siva and is sufficient for the created world beginning from the Creator down to the earth.
 </details>
-
-
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 इस विश्वात्मक विस्तार की जागतिक उत्पत्ति का यह परम परिवेश **ब्रह्म** से '**स्तम्ब**' पर्यन्त व्याप्त है। भगवान् शिव द्वारा कहे गये **हेयोपादेय** **विज्ञान** का भरपूर सदुपयोग इसी जगत् में किया जा सकता है। 'अलम्' अव्यय यह स्पष्ट करता है कि, पूरी तरह यहीं के लिये यह महाविज्ञान है, जिसे भगवान् ने 'हेयोपादेय विज्ञान' की संज्ञा दी है ॥ ४० ॥
@@ -483,8 +454,6 @@ The Kala defined as the extent or two fingers and a quarter (tuti) presents befo
 41. Three crores and a half Mantras appointed by Siva, after being kind to group of Anus, went to the eternal place.
 
 </details>
-
-
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 इसमें शिव द्वारा नियोजित साढ़े तीन करोड़ मन्त्र हैं। ये अणुता से प्रभावित पुद्गल पशु वर्ग पर अनुग्रह करते हैं। स्वयम् अनामय पद को प्राप्त करते हैं ।। ४१ ।।
@@ -502,8 +471,6 @@ The Kala defined as the extent or two fingers and a quarter (tuti) presents befo
 42. Thus in the course of time when the degraded Atman becomes able to be identical with Siva, this Atman is connected with the siva -Sakti which is quite calm and gives liberation.
 
 </details>
-
-
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 आत्मा का इस प्रकार आवरण से आविल स्वरूप में और काल की कलनात्मकता के सन्दर्भ में कहीं किसी से उसकी योग्यता के फलस्वरूप **शैवी शक्ति** का सम्पर्क सध जाता है। यह सौभाग्य का विषय है कि, इस सम्पर्क के कारण सारा प्रपञ्च शान्त हो जाता है। इसीलिये उस शक्ति को **शान्ता शक्ति** कहते हैं। यह **मुक्ति** का **फल** प्रदान करने वाली मानी जाती है ॥ ४२ ॥
@@ -523,7 +490,6 @@ The Kala defined as the extent or two fingers and a quarter (tuti) presents befo
 
 43. Some one when linked to Siva Sakti dies, while the other gets free from the nescience with which he is united.
 </details>
-
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 इस शान्ता शक्ति के महाप्रभाव से चमत्कार घटित हो जाता है। उसका सम्बन्ध होते ही उसी समय अविलम्ब वह वैराग्यवान हो जाता है, और अपवर्ग उसके लिये हस्तामलकवत् हो जाता है।  
@@ -542,9 +508,6 @@ The Kala defined as the extent or two fingers and a quarter (tuti) presents befo
 44. The Anu under the possession or Rudra Sakti and desirous of obtaining liberation is taken to a good teacher by the will of siva in order to got enjoyment and salvation.
 
 </details>
-
-
-
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 यह रुद्रशक्ति के समावेश का ही सुपरिणाम है कि, वह समाविष्ट होकर यह सोचने को विवश हो जाता है कि, अपने स्वरूप को पहचानने और अच्छी तरह जानने के लिये हमें **गुरु** के पास जाना चाहिये। इस भाव को '**यियासा**' कहते हैं । **गुरु** को पाने का प्रबल अभिलाष ही 'यियासा' है। जिसे 'यियासा' होती है, उसे '**यियासु**' कहते हैं।  
@@ -564,9 +527,6 @@ The Kala defined as the extent or two fingers and a quarter (tuti) presents befo
 45. On worshipping the teacher and getting the initiation of Siva from him who is contented, the Anu (Sadhaka) at once dies and obtains the state or Siva or enjoys the Siva Yoga and realises Siva after death.
 
 </details>
-
-
-
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 सद्गुरु की शरण में वह पहुंचता है। उनकी आराधना कर उन्हें प्रसन्न कर देता है। वे इसकी सेवा से सन्तुष्ट हो जाते हैं। उस पर **शाङ्करी दीक्षा** द्वारा शक्तिपात करते हैं। अब वह शाङ्करी दीक्षा से दीक्षित हो जाता है।  
@@ -586,7 +546,6 @@ The Kala defined as the extent or two fingers and a quarter (tuti) presents befo
 
 46. (The aspirant) on getting the initiation or Yoga should practise it. He gets success in Yoga and eternal place in the end.
 </details>
-
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 शाङ्करी दीक्षा के अतिरिक्त कुछ लोग शाङ्कर योग दीक्षा प्राप्त करते हैं। इसे शिव-भक्ति सम्पन्न योग करते हैं। इस योग का अभ्यास कर उसमें परम सिद्धि प्राप्त करते हैं। इस शिवभक्ति योग सिद्धि के परिणामस्वरूप अन्त में शाश्वत शिव-धाम को प्राप्ति का सौभाग्य उन्हें अधिगत हा जाता है।॥ ४६॥
@@ -604,9 +563,6 @@ The Kala defined as the extent or two fingers and a quarter (tuti) presents befo
 47. The Anu when he reaches the highest place in accordance with this system never becomes Pasu and stands in the pure consciousness as a part and parcel of it.
 
 </details>
-
-
-
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 यह अभ्यास को क्रमिकता का ही सुपरिणाम है-शाङ्करी दीक्षा में सम्पन्नता, पुनः शिवभक्ति योग सम्पन्नता और शाश्वत शैव धाम की उपलब्धि रूप परम पद की प्राप्ति । यह सब जोवन को चरितार्थता ही है। इस प्रकार इस सर्वोच्च धाम में प्रवेश प्राप्त कर लेने वाला पुनः पशुता का परिवेश नहीं प्राप्त कर सकता- अर्थात् शिव पद से उसकी अधोगति नहीं होती। वह शुद्ध स्वात्मस्वरूप में अवस्थित हो जाता है ॥ ४७ ॥
@@ -625,7 +581,6 @@ The Kala defined as the extent or two fingers and a quarter (tuti) presents befo
 48. There are four kinds of Atman which again has four kinds - Sadhaka, Samayi, Putraka and Acarya. The Acarya among them is said to be pure.
 
 </details>
-
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 यहाँ तक जिन तथ्यों का वर्णन किया गया है, और जिस तत्ववाद की व्याख्या की गयी है, उससे यह स्पष्ट हो गया है कि, आत्मा चार प्रकार का होता है।  
@@ -645,7 +600,6 @@ The Kala defined as the extent or two fingers and a quarter (tuti) presents befo
 49. The Preceptor and Sadhaka should perform three sorts or deeds i.e. daily duties, duties related to some cause (Naimittika) and desireless deeds (Niskama)+++(काम्यं वस्तुतः तन्त्रसारानुसारेण विवक्षितम् भाति)+++. The other two Samayi and Putraka should only perform daily duties.
 
 </details>
-
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 नित्य-आदि योग-मार्ग का त्रिक अनुशासन गुरु और साधक शिष्य सब को निरन्तर और नियमित रूप से सम्पन्न करना चाहिये। इसी तरह दीक्षा का द्वि-विध अभ्यास अवश्य करना चाहिये, जिससे ज्ञान-योग और भक्ति-योग की अनवरत क्रिया सम्पन्न कर आत्मा का शुद्ध स्तर प्राप्त हो सके। जीवन-पर्यन्त अनवरत साधना का आदेश भगवान् शङ्कर का ही है। इस आज्ञा का पालन करना साधक ओर गुरु का परम कर्तव्य है ॥४९॥
@@ -665,7 +619,6 @@ The Kala defined as the extent or two fingers and a quarter (tuti) presents befo
 50. The acceptable and avoidable knowledge is hereby explained. It is the best of all the knowable things. On knowing this, one gets all sorts of accomplishments.
 
 </details>
-
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 इस प्रकार इस अधिकार में जितनी बातें निर्दिष्ट हैं, वे दो भागों में विभक्त की जा सकती है-१. उपादेय भाग और २. हेय भाग। पशुता और पशुता के हेतु सभी हेय, तथा शुद्धात्मा में अवस्थान - यही उपादेय भाग की कर्तव्य शीलता है। इसका जानना अत्यन्त अनिवार्यतः आवश्यक है। यह ज्ञेय सर्वस्व माना जाता है। इन विद्याओं का ज्ञाता समस्त सिद्धियों का अधिकारी बन जाता है। सिद्धि के लिये 'अर्ह' अर्थात् योग्य हो जाता है ॥ ५० ॥
@@ -674,6 +627,179 @@ The Kala defined as the extent or two fingers and a quarter (tuti) presents befo
 
 इति श्रीमालिनीविजयोत्तरे प्रथमोऽधिकारः ॥ १ ॥
 
-<div class="js_include" url="/AgamaH/AryaH/hinduism/branches/shaivaH/trikam/mAlinI-vijayottara-tantram/mUlam/01_sRShTyadhikAraH.md"  newLevelForH1="2" title="मूलम्"> </div>  
+<div class="js_include" newlevelforh1="2" title="मूलम्" unfilled url="/AgamaH/AryaH/hinduism/branches/shaivaH/trikam/mAlinI-vijayottara-tantram/mUlam/01_sRShTyadhikAraH.md">
+<details open><summary><h2>मूलम् ...{Loading}...</h2></summary>
 
+अथ मालिनीविजयोत्तरे तन्त्रे प्रथमोऽधिकारः ।
 
+प्रथमोऽधिकारः ।
+
+जयन्ति जगदानन्दविपक्षक्षपणक्षमाः ।  
+परमेशमुखोद्भूतज्ञानचन्द्रमरीचयः ॥ १ ॥
+
+जगदर्णवमग्नानां तारकं तारकान्तकम् ।  
+सनत्कुमारसनकसनातनसनन्दनाः ॥ २ ॥
+
+नारदागस्त्यसंवर्तवसिष्ठाद्या महर्षयः ।  
+जिज्ञासवः परं तत्त्वं शिवशक्त्युन्मुखीकृताः ॥ ३ ॥
+
+समभ्यर्च्य विधानेन ते तमूचुः प्रहर्षिताः ।  
+भगवन्योगसंसिद्धिकाङ्क्षिणो वयमागताः ॥ ४ ॥
+
+सा च योगं विना यस्मान्न भवेत्तमतो वद ।  
+ऋषिभिर्योगमिच्छद्भिः स तैरेवमुदाहृतः ॥ ५ ॥
+
+प्रत्युवाच प्रहृष्टात्मा नमस्कृत्य महेश्वरम् ।  
+शृणुध्वं सम्प्रवक्ष्यामि सर्वसिद्धिफलप्रदम् ॥ ६ ॥
+
+मालिनीविजयं तन्त्रं परमेशमुखोद्गतम् ।  
+भुक्तिमुक्तिप्रदातारमुमेशममरार्चितम् ॥ ७ ॥
+
+प्। २)
+
+स्वस्थानस्थमुमा देवी प्रणिपत्येदमब्रवीत् ।  
+सिद्धयोगीश्वरीतन्त्रं नवकोटिप्रविस्तरम् +++([तम्० शतकोटिप्रविस्तरमिति])+++   
+॥ ८ ॥
+
+यत्त्वया कथितं पूर्वं भेदत्रयविसर्पितम् ।  
+मालिनीविजये तन्त्रे कोटित्रितयलक्षिते ॥ ९ ॥
+
+योगमार्गस्त्वया प्रोक्तः सुविस्तीर्णो महेश्वर ।  
+भूयस्तस्योपसंहारः प्रोक्तो द्वादशभिस्तथा +++([तम्० द्वादशभिस्त्वत इति])+++ ॥ १० ॥
+
+सहस्रैः सोऽपि विस्तीर्णो गृह्यते नाल्पबुद्धिभिः ।  
+अतस्तमुपसंहृत्य समासादल्पधीहितम् ॥ ११ ॥
+
+सर्वसिद्धिकरं ब्रूहि प्रसादात्परमेश्वर ।  
+एवमुक्तस्तदा +++([तम्: उक्तस्तत इति])+++ देव्या प्रहस्योवाच विश्वराट् ॥ १२ ॥
+
+शृणु देवि प्रवक्ष्यामि सिद्धयोगीश्वरीमतम् ।  
+यन्न कस्यचिदाख्यातं मालिनीविजयोत्तरम् ॥ १३ ॥
+
+मयाप्येतत्पुरा प्राप्तमघोरात्परमात्मनः ।  
+उपादेयं च हेयं च विज्ञेयं परमार्थतः ॥ १४ ॥
+
+शिवः शक्तिः सविद्येशा मन्त्रा मन्त्रेश्वराणवः ।  
+उपादेयमिति प्रोक्तमेतत्षट्कं फलार्थिनाम् ॥ १५ ॥
+
+मलः कर्म च माया च मायीयमखिलं जगत् ।  
+सर्वं हेयमिति प्रोक्तं विज्ञेयं वस्तु निश्चितम् ॥ १६ ॥
+
+प्। ३)
+
+एतज्ज्ञात्वा परित्यज्यं सर्वसिद्धिफलं लभेत् ।  
+तत्रेशः सर्वकृच्छान्तः सर्वज्ञः सर्वकृत्प्रभुः ॥ १७ ॥
+
+सकलो निष्कलोऽनन्तः शक्तिरप्यस्य तद्विधा ।  
+स सिसृक्षुर्जगत्सृष्टेरादावेव निजेच्छया ॥ १८ ॥
+
+विज्ञानकेवलानष्टौ बोधयामास पुद्गलान् ।  
+अघोरः परमो घोरो घोररूपस्तदाननः ॥ १९ ॥
+
+भीमश्च भीषणश्चैव वमनः पिवनस्तथा ।  
+एतानष्टौ स्थितिध्वंसरक्षानुग्रहकारिणः ॥ २० ॥
+
+मन्त्रमन्त्रेश्वरेशत्वे +++([प० श्री० मन्त्रमहेश्वरेशत्वे इति ।])+++   
+सन्नियोज्य ततः पुनः ।  
+मन्त्राणामसृजत्तद्वत्सप्त कोटीः समण्डलाः ॥ २१ ॥
+
+सर्वेऽप्येते महात्मानो मन्त्राः सर्वफलप्रदाः ।  
+आत्मा चतुर्विधो ज्ञेयस्तत्र विज्ञानकेवलः ॥ २२ ॥
+
+मलैकयुक्तस्तत्कर्मयुक्तः प्रलयकेवलः ।  
+मलमज्ञानमिच्छन्ति संसाराङ्कुरकारणम् ॥ २३ ॥
+
+धर्माधर्मात्मकं कर्म सुखदुःखादिलक्षणम् ।  
+ईश्वरेच्छावशादस्य +++([क्: वशात्तस्येति])+++ भोगेच्छा सम्प्रजायते ॥ २४ ॥
+
+भोगसाधनसंसिद्ध्यै भोगेच्छोरस्य मन्त्रराट् ।  
+जगदुत्पादयामास मायामाविश्य शक्तिभिः ॥ २५ ॥
+
+प्। ४)
+
+च चैका व्यापिनीरूपा निष्कला +++([क्: निष्कलस्य स्वभावजेति । ख्० पु० निष्कलस्य शिवात्मन इति पाठः । निष्कला इत्यारभ्य कथ्यते इत्यन्तः पाठः घसञ्ज्ञपुस्तकात्पूरितः ।])+++ जगतो निधिः ।  
+अनाद्यन्ताशिवेशानी व्ययहीना च कथ्यते ॥ २६ ॥
+
+असूत सा कलाअतत्त्वं यद्योगादभवत्पुमान् ।  
+जातकर्तृत्वसामर्थ्यो विद्यारागौ ततोऽसृजत् ॥ २७ ॥
+
+विद्या विवेचयत्यस्य कर्म तत्कार्यकारणे ।  
+रागोऽपि +++([क्: रागोऽनुरञ्जयतीति ।])+++ रञ्जयत्येनं स्वभोगेष्वशुचिष्वपि ॥ २८   
+॥
+
+नियतिर्योजयत्येनं स्वके कर्मणि पुद्गलम् ।  
+कालोऽपि कलयत्येनं तुट्यादिभिरवस्थितः ॥ २९ ॥
+
+तत एव कलातत्त्वादव्यक्तमसृजत्ततः +++([क्, ख्: तत्त्वमव्यक्तमिति ।])+++ ।  
+गुणानष्टगुणां तेभ्यो धियं धीतोऽप्यहङ्कृतम् +++([क्, ख्, ग्: अहङ्कृतिमिति ])+++ ॥ ३० ॥
+
+तत्त्रिधा तैजसात्तस्मात्मनोऽक्षेशमजायत ।  
+वैकारिकात्ततोऽक्षाणि तन्मात्राणि तृतीयकात् ॥ ३१ ॥
+
+श्रोत्रं त्वक्चक्षुषी जिह्वा घ्राणं बुद्धीन्द्रियाणि तु ।  
+कर्मेन्द्रियाणि वाक्पाणिपायूपस्थाङ्घ्रयः क्रमात् ॥ ३२ ॥
+
+कलादिक्षितिपर्यन्तमेतत्संसारमण्डलम् ।  
+समुद्रादि +++([ख्, ग्: समुद्राद्यमिति।])+++ जगत्कृत्स्नं   
+परिवर्तयतीच्छया ॥ ३३ ॥
+
+प्। ५)
+
+भेदः परः कलादीनां भुवनत्वेन यः स्थितः ।  
+असृजत्तमसावेव भोगिनां भोगसिद्धये ॥ ३४ ॥
+
+इत्यनेन कलाद्येन धरान्तेन समास्थिताः +++([ख्: अवस्थात्रितय इति ।])+++ ।  
+पुमांसः सकला ज्ञेयास्तदवस्थाजिघांसुभिः ॥ ३५ ॥
+
+अवस्थात्रितयेऽप्यस्मिंस्तिरोभावनशीलया ।  
+शिवशक्त्योभयाक्रान्ताः +++([ख्: शक्त्युभयेति ।])+++ प्रकुर्वन्ति विचेष्टितम् ॥   
+३६ ॥
+
+एवं जगति सवत्र रुद्राणां योग्यतावशात् +++([ख्: कर्तृतावशादिति।])+++ ।  
+अङ्गुष्ठमात्रपूर्वाणां शतमष्टादशोत्तरम् ॥ ३७ ॥
+
+अनुगृह्य शिवः साक्षन्मन्त्रेशत्वे नियुक्तवान् ।  
+ते स्वगोचरमासाद्य भुक्तिमुक्तिफलार्थिनाम् ॥ ३८ ॥
+
+ब्रह्मादीनां प्रयच्छन्ति स्वबलेन समं फलम् ।  
+ऋषिभ्यस्तेऽपि ते चानु मन्वन्तेभ्यो महाधिपाः ॥ ३९ ॥
+
+हेयोपादेयविज्ञानं कथयन्ति शिवोदितम् ।  
+ब्रह्मादिस्तम्बपर्यन्ते जातमात्रे जगत्यलम् ॥ ४० ॥
+
+मन्त्राणां कोट्यस्तिस्रः सार्धाः शिवनियोजिताः ।  
+अनुगृह्याणुसङ्घातं याताः पदमनामयम् ॥ ४१ ॥
+
+एवमस्यात्मनः काले कस्मिंश्चिद्योग्यतावशात् ।  
+शैवी सम्बध्यते शक्तिः शान्ता मुक्तिफलप्रदा ॥ ४२ ॥
+
+प्। ६)
+
+तत्सम्बन्धात्ततः कश्चित्तत्क्षणान्दपवृज्यते ।  
+अज्ञानेन सहैकत्वं कस्यचिद्विनिवर्तते ॥ ४३ ॥
+
+रुद्रशक्तिसमाविष्टः स यियासुः शिवेच्छया ।  
+भुक्तिमुक्तिप्रसिद्ध्यर्थं नीयते सद्गुरुं प्रति ॥ ४४ ॥
+
+तमाराध्य ततस्तुष्टाद्दीक्षामासाद्य शाङ्करीम् ।  
+तत्क्षणाद्वोपभोगाद्वा +++([ख्: उपयोगाद्वेति ।])+++ देहपाताच्छिवं +++([क्: पाते शिवमिति ।])+++ व्रजेत् ॥ ४५ ॥
+
+योगदीक्षां समासाद्य ज्ञात्वा योगं समभ्यसेत् ।  
+योगसिद्धिमवाप्नोति तदन्ते शाश्वतं पदम् ॥ ४६ ॥
+
+अनेन क्रमयोगेन सम्प्राप्तः परमं पदम् ।  
+न भूयः पशुतामेति शुद्धे स्वात्मनि तिष्ठति ॥ ४७ ॥
+
+आत्मा चतुर्विधो ह्येष पुनरेष चतुर्विधः ।  
+आचार्यत्वादिभेदेन शुद्धात्मा परिपठ्यते ॥ ४८ ॥
+
+नित्यादित्रितयं कुर्याद्गुरुः साधक एव च ।  
+नित्यमेव द्वयं चान्योयावज्जीवं शिवाज्ञया ॥ ४९ ॥
+
+उपादेयं च हेयं च तदेतत् परिकीर्तितम् ।  
+ज्ञात्वैतज्ज्ञेयसर्वस्वं सर्वसिद्ध्यरहो भवेत् +++([क्, ख्: सिद्धिफलं लभेत् ])+++ ॥ ५० ॥
+
+इति श्रीमालिनीविजयोत्तरे प्रथमोऽधिकारः ॥ १ ॥  
+
+</details>
+</div>

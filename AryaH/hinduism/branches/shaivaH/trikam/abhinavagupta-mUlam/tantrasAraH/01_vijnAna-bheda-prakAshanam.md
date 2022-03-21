@@ -8,7 +8,7 @@ title = "01 विज्ञान-भेद-प्रकाशनम्"
 विमल-कला--ऽऽश्रयाभिनव-सृष्टि-महाजननी  
 भरिततनुश् च पञ्च-मुख+++(→[नर]सिंह/शक्त्यादि)+++-गुप्त--रुचिर् जनकः ।  
 तद्-उभय-यामल-स्फुरित-भाव-विसर्ग-मयं  
-हृदयम् अनुत्तरामृत-कुलं+++(=शरीरं‌‌/अमाचन्द्रकला)+++ मम संस्फुरतात् ॥१॥
+हृदयम् अनुत्तरामृत-कुलं+++(=शरीरं‌/अमाचन्द्रकला)+++ मम संस्फुरतात् ॥१॥
 
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -22,8 +22,6 @@ title = "01 विज्ञान-भेद-प्रकाशनम्"
 **जनकश्** च कीदृक्? **भरिततनुः** सर्वाकाङ्क्षाविरहात् पूर्णस्वभावः अनन्योन्मुखतया स्वतन्त्र इति यावत्। अत एव पद्मभिश् चिदादि-शक्त्यात्मकैर् **मुखैः** शक्तिभिर् **गुप्ता** प्रबन्धेनानुवर्तमाना **रुचिः** पञ्चकृत्य-विषयोऽभिलाषो यस्यासौ । अथ च ग्रन्थ-कर्तुर् अभिनव-गुप्तस्य विमलाभिधाना जननी नरसिंहगुप्ताख्यश् च जनक इति तयोर् अपि शिव-शक्ति-समावेश-मयत्वाद् विमर्शनम् ॥१॥
 
 </details>
-
-
 <details>
 <summary>English</summary>
 
@@ -53,8 +51,6 @@ In the Tantric doctrine, visarga is stated to be hārdhakalā, one-half of the s
 
 **विगाहितुं** विवेक्तुम् इति यावत्। **सर्वैर्** इति अकृत-तीक्ष्ण-तर्क-शास्त्र-परिश्रमैः। **ऋजु**-वचनेति - ऋजुता चात्र तीक्ष्ण-तर्काभावात् ।
 </details>
-
-
 <details>
 <summary>English</summary>
 
@@ -71,7 +67,6 @@ As everyone is not capable of delving deep into the long text of the Tantrāloka
 
 **श्रीशम्भुनाथो** हि ग्रन्थकर्तुस् त्रिक-शास्त्रोपदेष्टा गुरुः। स एव **भास्करः** परमात्मा सूर्यश् च। तस्य **चरणे** ज्ञान-क्रिये किरणाः पादाश् च। तेषां निपातेन **प्रभा**-स्फुरत्तया **अपगत-सङ्कोचं** स्व-स्वरूप-विकसत्तया विद्योतमानं **अभिनवगुप्तस्य हृद्-अम्बुजं**, यथा हि सूर्यकिरणनिपातेन अम्बुजं विकसति तथा श्रीशम्भुनाथ-चरण-प्रभया विकसितं हृदयं - लक्षणया तन्-निर्गतं शास्त्रं च । अनेनास्य _प्रकाशस्य_ स्वरूप-विमर्शात्मकत्वम् एव स्वरूपम् इति भङ्ग्या निरूपितम्। तद् एतत् विचिनुत **महेशस्य पूजनं** स्वात्मतया प्रत्यभिज्ञानं तद्-धेतोः एतद्-विवेचनं महेश्वर-प्रत्यभिज्ञान-फलम् इत्य् अर्थः । महेश्वरतालाभे हि किम् अन्येन फलेन इत्य् अभिप्रायः ।। ख्: प्रभावगतसङ्कोचम् इति पाठः।
 </details>
-
 <details><summary>English</summary>
 
 By falling at the feet of the venerable sun-like śambhu-nātha, whose rays have removed all limitations from the lotus heart of Abhinavagupta, please collect this for the purpose of worshipping Maheśa.
@@ -90,13 +85,10 @@ By falling at the feet of the venerable sun-like śambhu-nātha, whose rays have
 
 अज्ञानविरोधकत्वेन ज्ञानं मोक्षकारणम्। नहि एतयोर् वस्तुतः कार्य-कारण-भावः सम्भवति। पूर्णप्रथैव सर्वथा मुक्तिर् इति हि शैवसिद्धान्तः। न तु नैयायिकवत् ज्ञानादिशक्तयो ऽस्य भिन्नतया ऽभ्युपगम्यन्ते । यदुक्तं ।
 
-> मोक्षो हि नाम नैवान्यः  
-> स्वरूपप्रथनं हि सः ।   
-> स्वरूपं चात्मनः संवित् …॥ इति ।
+&gt; मोक्षो हि नाम नैवान्यः  
+&gt; स्वरूपप्रथनं हि सः ।   
+&gt; स्वरूपं चात्मनः संवित् …॥ इति ।
 </details>
-
-
-
 <details>
 <summary>English</summary>
 
@@ -118,8 +110,6 @@ According to this system, knowledge is the cause of liberation (moksa), because 
 तात्त्विक-स्वभावस्याज्ञानम् अनिश्चयः ।  
 अनात्मनि आत्माभिमानो विपरीतनिश्चयः ।
 </details>
-
-
 <details>
 <summary>English</summary>
 
@@ -141,14 +131,12 @@ On the other hand, the ignorance lying in the self (pauruṣa) is of the nature 
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-> दीयते ज्ञान-सद्-भावः,  
+&gt; दीयते ज्ञान-सद्-भावः,  
 क्षीयते पशुवासना ।
 
 इत्येवं लक्षणा दीक्षा।  
 आदिना शेषतया वर्तमानं सन्ध्योपासनादि ।
 </details>
-
-
 <details>
 <summary>English</summary>
 
@@ -210,8 +198,6 @@ The Self (ātmā) is the light of consciousness (prakāśa) free from the limita
 
 न तु अनुमान-गम्यम् इति शेषः।
 </details>
-
-
 <details>
 <summary>English</summary>
 
@@ -233,8 +219,6 @@ The attainment of this knowledge is preceded by study of the holy texts (sāstra
 तन्निष्पन्नं यद् वस्तु विकल्पासङ्कुचित-पूर्ण-प्रथा-रूपं शिव-तत्त्वाख्यं,  
 तस्य निरूपणात् ।
 </details>
-
-
 <details>
 <summary>English</summary>
 
@@ -256,8 +240,6 @@ The holy texts are authoritative, as they are revealed by the highest Lord (Para
 चिदानन्देच्छाज्ञानक्रिया-मय--ईश-तत्पुरुष-सद्योजात-वामदेवाऽघोर-रूपाणि पञ्च स्रोतांसि। तन्-मयं शास्त्रं, भेदाभिधायका दश शिव-भेदाः, भेदाभेदाभिधायका अष्टादश रुद्रभेदाः, अभेदाभिधायकाः वसुभिर् अष्टभिर् गुणिता अष्टौ = चतुःषष्टिः भैरवभेदाः ।
 
 </details>
-
-
 <details>
 <summary>English</summary>
 
@@ -322,8 +304,6 @@ The highest human end has its root in knowledge, which should be practiced in on
 **तद्** इति अज्ञानम्, **अखिलम्** इति त्रिविधम्।  
 **निर्मूलतां** संस्कारस्यापि विरहम् तेनेति हेतुना ।
 </details>
-
-
 <details>
 <summary>English</summary>
 
@@ -352,9 +332,6 @@ For this reason, I shall, with the help of this text, reveal the real nature of 
 
 **स च सर्वभावानां प्रकाशरूप एव** - भावानां प्रकाश एव रूपं न तु नीलतादि इति भावः। यद् अप्रकाशरूपं तत्र प्रथते - अस्य तु स्वभावता कुत एव स्यात् ।
 </details>
-
-
-
 <details>
 <summary>English</summary>
 
@@ -377,8 +354,6 @@ In this world, 'innate nature' (svabhāva) is the highest aim to be attained[^4]
 
 प्रकाशस्य यदि तद्-इतर-स्वरूपो ऽनुप्रविशेत्, तदा तस्य भेदः स्यात् - यथा घटाकारानुप्रवेशेन मृदाकारस्येति भावः ।
 </details>
-
-
 <details>
 <summary>English</summary>
 
@@ -570,9 +545,4 @@ He, by the delightful sport of his power of autonomy, veils his innate nature an
 पुनः प्रकटयति झटिति अथ क्रम-वशाद्  
 एष परमार्थेन शिवरसम् ।
 </details>
-
-
-
-
-<div class="js_include" url="/AgamaH/content/hinduism/branches/shaivaH/trikam/tantrasAraH/00/Summary/01/"  newLevelForH1="2" title="Summary"> </div>  
-
+<div class="js_include" newlevelforh1="2" title="Summary" unfilled url="/AgamaH/hinduism/branches/shaivaH/trikam/tantrasAraH/00/Summary/01/"></div>

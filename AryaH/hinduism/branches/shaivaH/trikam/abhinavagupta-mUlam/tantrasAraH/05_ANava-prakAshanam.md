@@ -187,7 +187,6 @@ Finally, it should be conceived of as being merged into transcendence in order t
 
 इत्थं कृतान् = अनुत्तरात्म-रूपान् इत्यर्थः । यदि कस्यचिद् भावस्य वासना शिष्यते तर्हि सापि नश्यतीति तात्पर्यम् ।
 </details>
-
 <details>
 <summary>English</summary>
 
@@ -214,8 +213,6 @@ Then, one should meditate by means of that “wheel" on the residual traces that
 पश्चात् ज्ञातोऽयम् अर्थ इति विमृशन्न् उपसंहरति।  
 अनन्तरम् अलं-ग्रास-युक्त्या पूर्णतापादनेन चिद्-अग्निसाद्-भावम् आपादयति ।
 </details>
-
-
 <details>
 <summary>English</summary>
 
@@ -274,8 +271,6 @@ The yogin should meditate on the totality of entities, both external and interna
 "अशून्यं शून्यम्" इत्य् उक्त-नीत्या निरूपिते **शून्ये** ।  
 **प्राणोदयात्** = "प्राक् संवित् प्राणे परिणता" इत्य् उक्त-लक्षणात् ।
 </details>
-
-
 <details>
 <summary>English</summary>
 
@@ -302,8 +297,6 @@ and then through the rising of prāṇa should have it rest in external objects.
 
 **प्रत्य्-अपान-चन्द्रापूरणेन**। अपान एवाप्यायन-कारित्वाच् चन्द्रः, तेन कृतं पूरणं नैराकाङ्क्ष्यम्, तद्-दशायां हि प्रमातृ-गताः प्रमेयांशाः क्रोडीभूय तिष्ठन्ति ।
 </details>
-
-
 <details>
 <summary>English</summary>
 
@@ -322,8 +315,6 @@ and becomes indifferent to everything distinct from the Self.
 
 विश्रान्तिम् = सर्वार्थानाम् अन्योन्य-मेलन-रूपाम् ।
 </details>
-
-
 <details>
 <summary>English</summary>
 
@@ -341,8 +332,6 @@ With the rise of samāna, balanced energy, one experiences the state of unificat
 
 प्राणापानादीनां कलना "षट्-शतानि दिवारात्रौ सहस्राण्य् एकविंशतिः"+++(=२१६०० श्वासाः)+++ इत्युक्त्या निरूपित-स्वरूपा ।
 </details>
-
-
 <details>
 <summary>English</summary>
 
@@ -358,8 +347,6 @@ Then, with the rise of the fire of udāna, the limiting distinction between subj
 
 सर्वावच्छेद-वन्ध्यः - व्यापकतया सर्वावच्छेद-वन्ध्यत्वम् ।
 </details>
-
-
 <details>
 <summary>English</summary>
 
@@ -387,32 +374,32 @@ With this consuming fire, which devours objects, knower, and knowledge, and with
 
 तथाहि श्रीतन्त्रालोके -
 
-> **निजानन्दः** प्रमात्रंश-  
+&gt; **निजानन्दः** प्रमात्रंश-  
 मात्र-निष्ठा-निबन्धनः ।   
 शून्यता-मात्र-विश्रान्तेर्  
 **निरानन्दात्मिका** स्थितिः ॥
->
-> प्रमेय-पद-विश्रान्तेः  
+&gt;
+&gt; प्रमेय-पद-विश्रान्तेः  
 **परानन्दो** ऽप्य् उदेत्य् अलम् ।   
 अनन्त-मेय-सङ्घट्ट-  
 पूर्णे मेये तु सर्वतः ॥
->
-> प्रमाणाच् चर्वणा-योगान्  
+&gt;
+&gt; प्रमाणाच् चर्वणा-योगान्  
 **महानन्द** इति स्थितिः ।   
 समस्त-मेयौघ-कला-  
 कलना-ग्रास-कोविदः ॥
->
-> यदा विश्रान्तिम् अभ्येति  
+&gt;
+&gt; यदा विश्रान्तिम् अभ्येति  
 निरुपाधि-सुनिर्भराम् ।   
 तदा खलु **चिदानन्दो**  
 यो जडानुपबृंहितः ॥
->
-> न च यत्र स्थितिः कापि  
+&gt;
+&gt; न च यत्र स्थितिः कापि  
 विभक्ता जड-रूपिणी ।   
 यत्र कोऽपि व्यवछेदो  
 नास्ति यद्विश्वतः स्फुरत् ॥
->
-> यद् अनाहृत-संवित्ति-  
+&gt;
+&gt; यद् अनाहृत-संवित्ति-  
 परमामृत-बृंहितम् ।   
 तदेव जगदानन्द-  
 धामास्माकं गुरुर् जगौ ॥
@@ -421,8 +408,6 @@ With this consuming fire, which devours objects, knower, and knowledge, and with
 
 जगदानन्दः = जगता निजानन्दादि-रूपेण इति तृतीयाकर्मधारयेण योज्यम् ।
 </details>
-
-
 <details>
 <summary>English</summary>
 
@@ -507,15 +492,13 @@ The above-mentioned 'stages of rest' have five stages, each of which depends on 
 
 **प्रागानन्दः** चमत्कार-विशेषः। तथा च
 
-> अत्र भावनया देह-  
-> गतोपायैः परे पथि ।  
-> विविक्षोः पूर्णतास्पर्शात्  
-> प्रागानन्दः प्रजायते ॥
+&gt; अत्र भावनया देह-  
+&gt; गतोपायैः परे पथि ।  
+&gt; विविक्षोः पूर्णतास्पर्शात्  
+&gt; प्रागानन्दः प्रजायते ॥
 
 इति ।
 </details>
-
-
 <details>
 <summary>English</summary>
 
@@ -543,8 +526,6 @@ However, if one is well practiced in the above means, then the bliss comes in th
 **उद्भवः** अधस्तन-दशा-विशेषात् पर-धामाधिरोहात्मा। **निःशरीरतायां रूढेः** देहाहम्भावाभावे दार्ढ्यात्।
 
 </details>
-
-
 <details>
 <summary>English</summary>
 
@@ -562,8 +543,6 @@ As a result of this, an 'upsurge' (udbhava) takes place for a moment as one gain
 
 **कम्पः** तद्-दार्ढ्य-त्यागः - स्वबलस्याहन्ता-वीर्यस्येति ।
 </details>
-
-
 <details>
 <summary>English</summary>
 
@@ -579,8 +558,6 @@ After this, 'shaking' (kampa) follows - because the conviction that the Self is 
 
 **बहिर्-मुखत्व-विलयात्** = बाह्य-वृत्त्य्-उपरमात् ।
 </details>
-
-
 <details>
 <summary>English</summary>
 
@@ -597,15 +574,13 @@ This is followed by the 'void of sleep' (nidrā) as the tendency toward external
 
 दशावस्थाभ्युदासो घूर्णिः । तथा च
 
-> ततः सत्यपदे रूढो  
-> विश्वात्मत्वेन संविदम् ।   
-> संविदा घूर्णते घूर्णिर्  
-> महाव्याप्तिर् यतः स्मृता ॥
+&gt; ततः सत्यपदे रूढो  
+&gt; विश्वात्मत्वेन संविदम् ।   
+&gt; संविदा घूर्णते घूर्णिर्  
+&gt; महाव्याप्तिर् यतः स्मृता ॥
 
 इति ।
 </details>
-
-
 <details>
 <summary>English</summary>
 
@@ -776,7 +751,6 @@ One well established in the above is able to ascend to (or become established in
 इति सर्ववर्णाविभाग-स्वभावत्वाद् अव्यक्तः।  
 एवंविधो वर्णः क्वोपलभ्यते इत्य् आशङ्क्याह तस्येति ।
 </details>
-
 <details><summary>English</summary>
 
 Now on the topic of 'syllabic sound' (varna), which is of the nature of subtle vital energy:   
@@ -814,7 +788,6 @@ The most important characteristics of this syllable are the seed mantras of crea
 उच्चारिते प्राणोपारोहेण।  
 स्मृते बुद्ध्युपारोहेण ।
 </details>
-
 <details><summary>English</summary>
 
 One can attain supreme consciousness by the practice of these mantras.  
@@ -846,8 +819,6 @@ This is because the word, that is, mantra, is free from conventional relations (
 काम-शोकादिना निबिडतरं भाव्यमाना  
 अ-सन्निहितम् अपि स्त्र्यादि-भावं साक्षात् कुर्वन्ति ।
 </details>
-
-
 <details><summary>English</summary>
 
 Even the words which depend on convention are also capable of conveying their respective meanings according to the imagination of one's mind.  
@@ -880,7 +851,6 @@ Some explain that from the 'reflective consciousness' vibrating in the 'core of 
 **गति-निरोधाभ्याम्** = बहिः-प्रसृत्य्--अन्तर्-मुख-विश्रान्तिभ्याम् ।  
 **पूर्णा** इति अनन्योन्मुखत्वान् निराकाङ्क्षा ।
 </details>
-
 <details><summary>English</summary>
 
 By the vibrating consciousness in absence of any object to be denoted,  
@@ -912,10 +882,10 @@ Karaṇa will be explained in the mudrā section.
 कस्यापि शक्तिपातवतः पूर्णमयतामित्यत्र करोतीति शेषः उपासत् शाक्तात् ।
 तथा चोक्तं मालिनीविजये
 
-> उच्चार-करण-ध्यान-  
-> वर्ण-स्थान-विकल्पनैः ।   
-> यो भवेत् स समावेशः  
-> सम्यग् आणव उच्यते ॥
+&gt; उच्चार-करण-ध्यान-  
+&gt; वर्ण-स्थान-विकल्पनैः ।   
+&gt; यो भवेत् स समावेशः  
+&gt; सम्यग् आणव उच्यते ॥
 
 इति ।
 
@@ -927,7 +897,6 @@ Karaṇa will be explained in the mudrā section.
 यदि च +एवं कथं तर्हि उपाय-वैचित्र्यम् ?  
 शक्ति-पात-वैचित्र्याद् इति ब्रूमः - यथा शक्ति-पात-वैचित्र्यात् शाम्भव-शाक्ताणवानां वैचित्र्यं, तथा इहापि इत्य् अर्थः ।
 </details>
-
 <details><summary>English</summary>
 
 To some, discursive thought (vikalpa) attains fullness without resorting to any means, and to some it is purified by taking recourse to means.  
@@ -949,14 +918,13 @@ It is in the intellect (buddhi), the vital energy (prāṇa) in the body, and in
 
 छायानुमाने सुहासः - 
 
-> शून्यं रवि-शशि-दहन-समं उस्सउ? एष सवीर्यः ।  
-> तत्र तिष्ठन् परमपदं प्राप्नोति अचिराद् वीरः ॥  
-> तन्त्रं सर्वथापरिचितमेव मे । तस्मादर्थं न स्फुटं गृह्णामि । इतोऽपि परिष्कारः शक्यः । दोषाः मर्षणीयाः ।
+&gt; शून्यं रवि-शशि-दहन-समं उस्सउ? एष सवीर्यः ।  
+&gt; तत्र तिष्ठन् परमपदं प्राप्नोति अचिराद् वीरः ॥  
+&gt; तन्त्रं सर्वथापरिचितमेव मे । तस्मादर्थं न स्फुटं गृह्णामि । इतोऽपि परिष्कारः शक्यः । दोषाः मर्षणीयाः ।
 </details>
 
 इति श्रीमदभिनवगुप्ताचार्यविरचिते तन्त्रसारे आणवप्रकाशनं नाम   
 पञ्चममाह्निकम् ॥
 
 
-<div class="js_include" url="/AgamaH/content/hinduism/branches/shaivaH/trikam/tantrasAraH/00/Summary/05/"  newLevelForH1="2"  title="Summary"> </div>  
-
+<div class="js_include" newlevelforh1="2" title="Summary" unfilled url="/AgamaH/content/hinduism/branches/shaivaH/trikam/tantrasAraH/00/Summary/05/"></div>

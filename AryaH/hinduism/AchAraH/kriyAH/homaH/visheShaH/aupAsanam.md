@@ -3,7 +3,6 @@ title: औपासनम्
 unicode_script: devanagari
 
 ---
-
 ## परिचयः
 - भावः
   - विवाहस्य साक्षी यो ऽग्निः, +++स एव+++ विवाह-साक्षी भवति खलु दम्पत्योर् नित्यम् उपास्यः!
@@ -11,7 +10,7 @@ unicode_script: devanagari
 - स्रोतांसि
   - धर्मसिन्धाव् [अत्र](https://archive.org/details/DHARMASINDHU/page/n253)।
 
-<div class="js_include" url="../../angAni/agni-raxA/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="../../angAni/agni-raxA/"></div>  
 
 ## होमक्रमः
 - तण्डुलम् अपक्वम् यवधान्यानि वा हविः
