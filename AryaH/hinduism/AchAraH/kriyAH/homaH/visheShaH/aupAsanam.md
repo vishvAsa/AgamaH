@@ -8,19 +8,24 @@ unicode_script: devanagari
   - विवाहस्य साक्षी यो ऽग्निः, +++स एव+++ विवाह-साक्षी भवति खलु दम्पत्योर् नित्यम् उपास्यः!
   - तेन विवाहे गृहस्थाश्रमे सर्वोत्तमे च श्रद्धा वर्धते, तयोस् सामरस्यञ्च। विशिष्य यदि दम्पती स्मरतो विस्मयेन सौन्दर्यांशम् इदम्।
 - स्रोतांसि
-  - धर्मसिन्धाव् [अत्र](https://archive.org/details/DHARMASINDHU/page/n253)।
+  - धर्मसिन्धाव् [अत्र](https://archive.org/details/DHARMASINDHU/page/n253) ।
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="../../angAni/agni-raxA/"></div>  
 
 ## होमक्रमः
 - तण्डुलम् अपक्वम् यवधान्यानि वा हविः
 - हस्तेन दानम्
-- प्रातः - सूर्याय/ अग्नये वा स्वाहा।  
-सायम् - अग्नये स्वाहा।  
-अग्नये स्विष्टकृते स्वाहा।
+
 
 ## आपन्नियमाः
-### तन्त्रेण
+### यजमानः
+> यजमानविषये विशेष उक्तस् तत्रैव +++(मदनरत्ने)+++ गदाधरभाष्ये “यजमानं विना नान्यो जुहुयात् प्रातराहुतिम्" इति ॥ होमञ्च स्वयमेव कुर्यात्, आशौचादिप्रतिबन्धे ऋत्विगादिभिः कारयेत्।। ऋत्विगादीनाह दक्षः-"ऋत्विवपुत्रो गुरुद्घता भागिनेयोऽथ विदपतिः। एतैरेव हुतं यत्तु तध्दुतं स्वयमेव तु" इति ॥ विट्पति- र्जामाता ॥  
+> ऋत्विगादिभिः करणे त्वयं विशेषः-" असमक्षन्तु दम्पत्योर्हातव्यं नर्त्विगादिना । द्वयोरप्य् असमक्षं चेद् भवेद्+हुतम् अनर्थकम्" इति ॥
+>  
+> (बोधायनब्रह्मकर्मसमुच्चये विस्तारः।)
+
+
+### तन्त्रेण नित्यहोमः
 वैद्यनाथीयाह्निककाण्डे बृहस्पतिस्मृतेर् उदाहरणम्।
 
 > सायम्प्रातस्तनौ होमाव्  
@@ -32,6 +37,7 @@ My current understanding of the last part - having performed the combined aupAsa
 
 The combination itself, I presume, can happen by the following sequence: agnaye svAhA, sUryAya svAhA, agnaye sviShTakRte svAhA surrounded by parishechanas, and perhaps with an upasthAna.
 
+बोधायनब्रह्मकर्मसमुच्चये विस्तारः। 
 
 ## FAQ
 The below is copied from other sources - does not necessarily reflect a particular person's opinion fully.
