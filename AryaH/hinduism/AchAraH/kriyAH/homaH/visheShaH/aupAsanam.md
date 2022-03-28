@@ -46,11 +46,19 @@ The below is copied from other sources - does not necessarily reflect a particul
 - Once you are used to the procedure and have the constituents handy, it should not take more than 20 min per kalam. -V
 
 ### Travel
-- In case if we are in travel whom can we ask to do oupasanam instead of us. Is there a possibility?
-  - If  patni is not travelling, she can continue to the aupasanam till you return back, but that should not be beyond one sthalipaaka kalam. Including gauna kaalam it comes to a month.  If one round of sthalipaaka (purnamasa and darsha) is missed the agni becomes laukika. Another view is that the wife can do aupasana only for 5 kaalams in the absence of husband.
-  - A vadhyar or one's son who has had upanayanam etc can also maintain the agni - subject to the patni is at home.
+#### yajamAna-substitute
+- If  patni is not travelling, she can continue to the aupasanam till you return back, but that should not be beyond one sthalipaaka kalam. Including gauna kaalam it comes to a month.  If one round of sthalipaaka (purnamasa and darsha) is missed the agni becomes laukika. Another view is that the wife can do aupasana only for 5 kaalams in the absence of husband.
+- A vadhyar or one's son who has had upanayanam etc can also maintain the agni - subject to the patni being at home.
+- More in baudhAyana-brahma-karma-samuchchaya.
 
-- 3. Incase of travel how long can we go without oupasanam
+#### Maintenance without homa
+- If patni is just maintaining the Agni, then she should just remove the ash, put new viratti, thavidu etc and keep back the Agni.  For Agni rakshanam there is no need to offer two handfuls of taNDulam.
+- Also there is a paddhati where the karta is away and patni cannot do aupasanam due to Asoucham etc, and other male members are not available. In such cases one's married daughter or even a neighboring Maami can do Agni rakshanam for 7 kaalas - just removing the ash, keep new viratti and thavidu, so that the Agni is kept live (pure Agni rakshanam), without offering taNDulam. Once the karta returns, he has to give the taNDula ahutis for each of the past kaalas, missed. In case of patni doing aupasanam, the karta is not required to repeat the past kaalas...indicating what patni offered was an Ahuti.
+
+
+
+#### Breakage
+- 3. Incase of travel how long can we go without aupasanam
   - If agni is not maintained as above you and patni can be away indefinitely and then restart with a vichinnagni sandhanam.
 
 ### vichChinnAgni-sandhAnam
