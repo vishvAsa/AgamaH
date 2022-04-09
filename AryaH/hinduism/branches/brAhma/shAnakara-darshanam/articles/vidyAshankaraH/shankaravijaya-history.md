@@ -713,103 +713,93 @@ Chandrasekharan, T., ed. 1954. Śaṅkaravijaya (Vyāsācala) (in Sanskrit; Engl
 
 Cinmayānanda, Svāmī. 1978. Śaṅkara: The missionary. Bombay: Chinmaya Mission Trust. Dakshinamurthy, N. S. 1973. A review of SriŚaṅkaravijaya of Anantanandagiri. Madras: City Printing Works. 
 
-Dazey, Wade H. 1987. The daśanāmi order and monastic life. PhD dissertation. 
+Dazey, Wade H. 1987. The daśanāmi order and monastic life. PhD dissertation. Santa Barbara: University of California, Santa Barbara, Library.
 
-Santa Barbara: University of California, Santa Barbara, Library. Devasenapati, V. A. 1975. Kamakottam, Nayanmars, and Adi Śaṅkara. Madras: 
+Devasenapati, V. A. 1975. Kamakottam, Nayanmars, and Adi Śaṅkara. Madras: University of Madras Institute of Traditional Cultures.
 
-University of Madras Institute of Traditional Cultures. Diksita, Rāmabhadra. 1934. Patañjalicarita in Sanskrit). Bombay: Nirnaya 
+Diksita, Rāmabhadra. 1934. Patañjalicarita in Sanskrit). Bombay: Nirnaya sāgara Press. 
 
-sāgara Press. Encyclopedia Britannica. 1990 (1768]. The encyclopedia Britannica. Chicago: 
+Encyclopedia Britannica. 1990 (1768]. The encyclopedia Britannica. Chicago: Encyclopedia Britannica. 
 
-Encyclopedia Britannica. Fuller, Christopher J. 1984. Servants of the goddess: The priests of a South 
+Fuller, Christopher J. 1984. Servants of the goddess: The priests of a South Indian temple. Cambridge: Cambridge University Press.
 
-Indian temple. Cambridge: Cambridge University Press. Ghate, V. S. 1924. Sarkarācārya. In, Encyclopedia of religion and ethics 11: 
+Ghate, V. S. 1924. Sarkarācārya. In, Encyclopedia of religion and ethics 11: 185–86. New York: Charles Scribner.
 
-185–86. New York: Charles Scribner. Ghurye, G. S. 1953. Indian sadhus. Bombay: Popular Book Depot. Giri, Svāmi Sadānanda. 1976. Society and sannyasin: A history of the dasnami 
+Ghurye, G. S. 1953. Indian sadhus. Bombay: Popular Book Depot.
 
-sannyasins. Rishikesh: Kriyayoga Ashram. Govindachar, Bannanje. 1995. Uḍupi: Past and present. Uḍupi: Puttige Math. Hacker, Paul. 1978. Kleine Schriften (ed. L. Schmithausen) (in German). 
+Giri, Svāmi Sadānanda. 1976. Society and sannyasin: A history of the dasnami sannyasins. Rishikesh: Kriyayoga Ashram.
 
-Wiesbaden: Steiner. Isayeva, Natalia. 1993. Shankara and Indian philosophy. Albany: State Univer 
+Govindachar, Bannanje. 1995. Uḍupi: Past and present. Uḍupi: Puttige Math.
 
-sity of New York Press. Kamakoti Śāstri, C. 1981. Sri Kāmākṣi ampā! stala varalāru in Tamil). 
+Hacker, Paul. 1978. Kleine Schriften (ed. L. Schmithausen) (in German). Wiesbaden: Steiner. 
 
-Madras: Shammi Syndicate Press. King, Richard. 1999. Orientalism and religion: Post-colonial theory, India, 
+Isayeva, Natalia. 1993. Shankara and Indian philosophy. Albany: State University of New York Press. 
 
-and the mystic East.' London: Routledge. Kulke, Hermann. 1969. Erklārung eines sūdindischen Māhātmyas: Die Legende 
+Kamakoti Śāstri, C. 1981. Sri Kāmākṣi ampā! stala varalāru in Tamil). Madras: Shammi Syndicate Press. 
 
-Hiranyavarmans und das Leben des Cāļa-Königs Kulottunga I (in German). 
+King, Richard. 1999. Orientalism and religion: Post-colonial theory, India, and the mystic East.' London: Routledge. 
 
-Saeculum 20:412–22. Kulke, Hermann. 1985. Maharajas, mahants, and historians: Reflections on the 
+Kulke, Hermann. 1969. Erklārung eines sūdindischen Māhātmyas: Die Legende Hiranyavarmans und das Leben des Cāļa-Königs Kulottunga I (in German). Saeculum 20:412–22.
 
-historiography of early Vijayanagara and Sringeri. In Anna Libera Dallapiccola and Stephanie Zingel-Avé Lallemant, eds., Vijayanagara: City and empire. 
+Kulke, Hermann. 1985. Maharajas, mahants, and historians: Reflections on the historiography of early Vijayanagara and Sringeri. In Anna Libera Dallapiccola and Stephanie Zingel-Avé Lallemant, eds., Vijayanagara: City and empire. New currents of research, 120–43. Wiesbaden: Steiner.
 
-New currents of research, 120–43. Wiesbaden: Steiner. Kuppuswami Śāstri, S., ed. 1982 (1937]. Brahmasiddhi (Sanskrit; English 
+Kuppuswami Śāstri, S., ed. 1982 (1937]. Brahmasiddhi (Sanskrit; English foreword and introduction). Delhi: Sri Satguru Publications.
 
-foreword and introduction). Delhi: Sri Satguru Publications. Lincoln, Bruce. 1989. Discourse and the construction of society: Comparative 
+Lincoln, Bruce. 1989. Discourse and the construction of society: Comparative studies of myth, ritual, and classification. Chicago: University of Chicago Press.
 
-studies of myth, ritual, and classification. Chicago: University of Chicago 
+Lorenzen, David N. 1983. The life of Śaṅkarācārya. In Fred W. Clothey and J. Bruce Long, eds., Experiencing Siva: Encounters with a Hindu deity, 155–75. New Delhi: Manohar.
 
-Press. Lorenzen, David N. 1983. The life of Śaṅkarācārya. In Fred W. Clothey and J. 
+Lorenzen, David N. 1987. Śaṅkara. In, Encyclopedia of religion 13: 64-65. New York: Macmillan.
 
-Bruce Long, eds., Experiencing Siva: Encounters with a Hindu deity, 
+Lūtt, Jūrgen. 1978. The Śaṅkarācārya of Puri. In Anncharlott Eschman, Hermann Kulke, and G. C. Tripathi, eds., The cult of Jagannath and the regional tradition of Orissa, 411-19. New Delhi: Manohar.
 
-155–75. New Delhi: Manohar. Lorenzen, David N. 1987. Śaṅkara. In, Encyclopedia of religion 13: 64-65. 
+Mādhava. 1891. Sri Śaṅkaradigvijaya (in Sanskrit). Pune: Anandāśrama.
 
-New York: Macmillan. Lūtt, Jūrgen. 1978. The Śaṅkarācārya of Puri. In Anncharlott Eschman, Hermann 
+Mahadevan, T. M. P. 1960. Gaudapada: A study in early Vedanta. Madras: University of Madras.
 
-Kulke, and G. C. Tripathi, eds., The cult of Jagannath and the regional 
+Mahadevan, T. M. P. 1976. The philosophy of Advaita, with special reference to Bharatitirtha-Vidyāraṇya. New Delhi: Amold-Heinemann.
 
-tradition of Orissa, 411-19. New Delhi: Manohar. Mādhava. 1891. Sri Śaṅkaradigvijaya (in Sanskrit). Pune: Anandāśrama. Mahadevan, T. M. P. 1960. Gaudapada: A study in early Vedanta. Madras: 
+Mahadevan, T. M. P. 1983. The sage of Kanchi. Secunderabad: Kanchi Maha swami Ninetieth Birthday Celebration Committee.
 
-University of Madras. Mahadevan, T. M. P. 1976. The philosophy of Advaita, with special reference 
+Mayeda, Sengaku. 1992. A thousand teachings: The Upadeśasāhasri of Śaṅkara. Albany: State University of New York Press.
 
-to Bharatitirtha-Vidyāraṇya. New Delhi: Amold-Heinemann. Mahadevan, T. M. P. 1983. The sage of Kanchi. Secunderabad: Kanchi Maha 
+Mines, Mattison and Vijayalakshmi Gourishankar. 1990. Leadership and individuality in South Asia: The case of the South Indian big-man. Journal of Asian studies 49, 4: 761-86.
 
-swami Ninetieth Birthday Celebration Committee. Mayeda, Sengaku. 1992. A thousand teachings: The Upadeśasāhasri of 
+Mohanty, M. P. 1997. Tradition in decline: How Puri's once thriving monas teries came to face extinction. Hinduism today 19, 11: 34–36.
 
-Śaṅkara. Albany: State University of New York Press. Mines, Mattison and Vijayalakshmi Gourishankar. 1990. Leadership and 
+Mutaliyar, A. Cinkaravelu. 1981. Apitāna Cintamani: The encyclopedia of Tamil literature (in Tamil). New Delhi: Asian Educational Services.
 
-individuality in South Asia: The case of the South Indian big-man. Journal 
+Nārāyaṇa Śāstri, T. S. 1916 (1910). The age of Śaṅkara. Madras: B. G. Paul.
 
-of Asian studies 49, 4: 761-86. Mohanty, M. P. 1997. Tradition in decline: How Puri's once thriving monas 
+Nilakantha Śāstri, K. A. 1958. A history of South India. Madras: Oxford  University Press. Olivelle, 1. Patrick, ed. 1976. Vāsudevāsrama Yatidharmaprakāśa (in Sanskrit). Vienna: University of Vienna Institute for Indology.
 
-teries came to face extinction. Hinduism today 19, 11: 34–36. Mutaliyar, A. Cinkaravelu. 1981. Apitāna Cintamani: The encyclopedia of 
+Padoux, André. 1990. Vāc: The concept of the word in selected Hindu Tantras. Albany: State University of New York Press, Pande, G. C. 1994. Life and thought of Śaṅkaracarya. Delhi: Motilal Banarsidass.
 
-Tamil literature (in Tamil). New Delhi: Asian Educational Services. Nārāyaṇa Śāstri, T. S. 1916 (1910). The age of Śaṅkara. Madras: B. G. Paul. Nilakantha Śāstri, K. A. 1958. A history of South India. Madras: Oxford  University Press. Olivelle, 1. Patrick, ed. 1976. Vāsudevāsrama Yatidharmaprakāśa (in Sanskrit). 
+Patchen, Nancy. 1989. The journey of a master: Swami Chinmayananda. Berkeley: Asian Humanities Press.
 
-Vienna: University of Vienna Institute for Indology. Padoux, André. 1990. Vāc: The concept of the word in selected Hindu Tantras. 
+Pathak, K. B. 1882. The date of Śaṅkara. Indian antiquary 11: 174–75.
 
-Albany: State University of New York Press, Pande, G. C. 1994. Life and thought of Śaṅkaracarya. Delhi: Motilal 
+Potter, Karl H. 1981. Encyclopedia of Indian philosophies: Advaita Vedānta up to Śaṅkara and his pupils. Delhi: Motilal Banarsidass.
 
-Banarsidass. Patchen, Nancy. 1989. The journey of a master: Swami Chinmayananda. 
+Potter, Karl H. 1982. Samkarācārya: The myth and the man. In Michael A. Williams, ed., Charisma and sacred biography, 111-25. Chico: Scholars Press.
 
-Berkeley: Asian Humanities Press. Pathak, K. B. 1882. The date of Śaṅkara. Indian antiquary 11: 174–75. Potter, Karl H. 1981. Encyclopedia of Indian philosophies: Advaita Vedānta up 
+Radhakrishna Śāstri, S. V., ed. 1986. Sri Śaṅkarābhyudayam: Sri Rājacūdāma nidīksitakrtam in Sanskrit), Trichy: Simili Venkatarama Śāstri Trust.
 
-to Śaṅkara and his pupils. Delhi: Motilal Banarsidass. Potter, Karl H. 1982. Samkarācārya: The myth and the man. In Michael A. 
+Radhakrishnan, Sarvepalli. 1989 (1923). Indian philosophy. 2 vols. New Delhi: Oxford University Press.
 
-Williams, ed., Charisma and sacred biography, 111-25. Chico: Scholars 
+Raja, K. Kunjunni. 1960. On the date of Samkarācārya and allied problems. The Adyar Library bulletin 24, 1-2: 125-48.
 
-Press. Radhakrishna Śāstri, S. V., ed. 1986. Sri Śaṅkarābhyudayam: Sri Rājacūdāma 
+Rāma, Svāmi. 1989. Living with the Himalayan masters. Honesdale: Himalayan International Institute of Yoga Science and Philosophy.
 
-nidīksitakrtam in Sanskrit), Trichy: Simili Venkatarama Śāstri Trust. Radhakrishnan, Sarvepalli. 1989 (1923). Indian philosophy. 2 vols. New Delhi: 
+Rama Śāstri, Polakam. 1976. Āticankarar mutal Kāñcīyil totarntavarum kuruparamparai (in Tamil). Madras: Liberty Patippakam.
 
-Oxford University Press. Raja, K. Kunjunni. 1960. On the date of Samkarācārya and allied problems. The 
+Rāmakrsnānanda, Svāmi. 1959. The life of Sri Ramanuja. Madras: Rama krishna Math.
 
-Adyar Library bulletin 24, 1-2: 125-48. Rāma, Svāmi. 1989. Living with the Himalayan masters. Honesdale: Himalayan 
+Reddiar, N. Krishnaswami. 1987. Some judicial references and some adminis trative records regarding Shankaracharya mutts. Madras: Bhavani Book Center.
 
-International Institute of Yoga Science and Philosophy. Rama Śāstri, Polakam. 1976. Āticankarar mutal Kāñcīyil totarntavarum 
+Rigopoulos, Antonio. 1998. Dattatreya: The immortal guru, yogin, and avatāra. Albany: State University of New York Press, Sarasvatī, Candrasekharendra. 1980. Adi Śaṅkara: His life and times (trans. T. M. P. Mahadevan). Bombay: Bharatiya Vidya Bhavan. 
 
-kuruparamparai (in Tamil). Madras: Liberty Patippakam. Rāmakrsnānanda, Svāmi. 1959. The life of Sri Ramanuja. Madras: Rama 
-
-krishna Math. Reddiar, N. Krishnaswami. 1987. Some judicial references and some adminis 
-
-trative records regarding Shankaracharya mutts. Madras: Bhavani Book 
-
-Center. Rigopoulos, Antonio. 1998. Dattatreya: The immortal guru, yogin, and 
-
-avatāra. Albany: State University of New York Press, Sarasvatī, Candrasekharendra. 1980. Adi Śaṅkara: His life and times (trans. T. 
-
-M. P. Mahadevan). Bombay: Bharatiya Vidya Bhavan. Sarasvatī, Gangādhara. 1975. Sri Gurucaritra: Sake 1702 madhila prāsādika hastalikhita pothīvarān (ed. Govinda Ātmārāma Gokhale) (in Marathi). Pune: Paraśurāma Press. 
+Sarasvatī, Gangādhara. 1975. Sri Gurucaritra: Sake 1702 madhila prāsādika hastalikhita pothīvarān (ed. Govinda Ātmārāma Gokhale) (in Marathi). Pune: Paraśurāma Press. 
 
 Sarasvatī, Paramasivendra. 1991. Daharavidyā Prakāśikā. Varanasi: Sri Dakshinamurti maṭha. 
 
