@@ -4,7 +4,7 @@ title = "Shaṅkaravijaya History"
 
 
 Conflicting hagiographies and history: The place of Śaṅkaravijaya texts in Advaita tradition  
-Vidyaśankar Sundaresan
+Vidyasankar Sundaresan
 
 
 ## THE TEXTS AND THEIR CULTURAL CONTEXT 
@@ -665,65 +665,55 @@ sufficient.
 
 ## References cited 
 
-Aiyangar, S. K. Nd. Three great acharyas: Śaṅkara, Ramanuja, Madhwa. 
+Aiyangar, S. K. Nd. Three great acharyas: Śaṅkara, Ramanuja, Madhwa. Madras: G. A. Natesan. 
 
-Madras: G. A. Natesan. Aiyar, C. N. Krishnaswami. Nd. Life and times of Śaṅkara. Madras: G. A. Natesan. Aiyar, R. Krishnaswami and K. R. Venkataraman. 1977. The truth about the 
+Aiyar, C. N. Krishnaswami. Nd. Life and times of Śaṅkara. Madras: G. A. Natesan. 
 
-Kumbhakonam mutt. Madurai: Ramakrishna Press. Aiyer, A. Nataraja and S. Lakshminarasimha Śāstri. 1962. The traditional age 
+Aiyar, R. Krishnaswami and K. R. Venkataraman. 1977. The truth about the Kumbhakonam mutt. Madurai: Ramakrishna Press. 
 
-of Sri Śaṅkaracharya and the maths. Madras: Minerva Press. Aklujkar, Ashok. 1991. Interpreting Vākyapadīya 2.486 historically: Part 3. In Madhav M. Deshpande and Saroja Bhate, eds., Paninian studies: Prof. S. D. Joshi felicitation volume, 1-47. Ann Arbor: University of Michigan Center 
+Aiyer, A. Nataraja and S. Lakshminarasimha Śāstri. 1962. The traditional age of Sri Śaṅkaracharya and the maths. Madras: Minerva Press. 
 
-for South and Southeast Asian Studies. Anonymous. 1965. Four Amnaya pīṭhas, Dwaraka: Sri Navbharati Office. Antarkar, W.R. 1960. The Bṭhat Śaṅkaravijaya of Citsukhācārya and the Prācīna 
+Aklujkar, Ashok. 1991. Interpreting Vākyapadīya 2.486 historically: Part 3. In Madhav M. Deshpande and Saroja Bhate, eds., Paninian studies: Prof. S. D. Joshi felicitation volume, 1-47. Ann Arbor: University of Michigan Center for South and Southeast Asian Studies. 
 
-Śaṅkaravijaya of Anandagiri. Journal of the University of Bombay 29, 2: 
+Anonymous. 1965. Four Amnaya pīṭhas, Dwaraka: Sri Navbharati Office. 
 
-113–21. Antarkar, W. R. 1961. The Śaṅkaravijaya of Anantānandagiri. Journal of the 
+Antarkar, W.R. 1960. The Bṭhat Śaṅkaravijaya of Citsukhācārya and the Prācīna Śaṅkaravijaya of Anandagiri. Journal of the University of Bombay 29, 2: 113–21. 
 
-University of Bombay 30, 2: 73–80. Antarkar, W. R., ed. 1962. Śaṅkaravijaya Sangraha (Puruṣottama Bhāratī) (in 
+Antarkar, W. R. 1961. The Śaṅkaravijaya of Anantānandagiri. Journal of the University of Bombay 30, 2: 73–80. 
 
-Sanskrit; English introduction). Oriental thought 6, 1: 1-17. Antarkar, W. R., ed. 1965. Śaṅkarábhyudaya (Tirumala Diksita) (in Sanskrit; 
+Antarkar, W. R., ed. 1962. Śaṅkaravijaya Sangraha (Puruṣottama Bhāratī) (in Sanskrit; English introduction). Oriental thought 6, 1: 1-17. Antarkar, W. R., ed. 1965. Śaṅkarábhyudaya (Tirumala Diksita) (in Sanskrit; English introduction). Journal of the University of Bombay 34, 2: 139-87. 
 
-English introduction). Journal of the University of Bombay 34, 2: 139-87. Antarkar, W.R. 1972. The Samkṣepa Śaṅkara Jaya of Mādhavācārya. Journal of 
+Antarkar, W.R. 1972. The Samkṣepa Śaṅkara Jaya of Mādhavācārya. Journal of the University of Bombay 41, 77: 1-23. 
 
-the University of Bombay 41, 77: 1-23. Antarkar, W. R., ed. 1973. Sri Śaṅkaravijaya Vilāsa (Cidvilāsa) (in Sanskrit; 
+Antarkar, W. R., ed. 1973. Sri Śaṅkaravijaya Vilāsa (Cidvilāsa) (in Sanskrit; English introduction). Bharatiya vidyā 33, 1-4: 1-92. 
 
-English introduction). Bharatiya vidyā 33, 1-4: 1-92. Antarkar, W. R., ed. 1992a. Śaṅkarācāryacarita (Govindanātha) in Sanskrit; 
+Antarkar, W. R., ed. 1992a. Śaṅkarācāryacarita (Govindanātha) in Sanskrit; English introduction). Bhāratīya vidyā 52, 1-4: 57–140. 
 
-English introduction). Bhāratīya vidyā 52, 1-4: 57–140. Antarkar, W. R. 1992b. The date of Śaṅkarācārya. Journal of the Asiatic Society 
+Antarkar, W. R. 1992b. The date of Śaṅkarācārya. Journal of the Asiatic Society of Bombay 67: 117-20. Antarkar, W. R. 1996. The place of Śaṅkara's final disappearance. Journal of the Asiatic Society of Bombay 71: 1-22. 
 
-of Bombay 67: 117-20. Antarkar, W. R. 1996. The place of Śaṅkara's final disappearance. Journal of 
+Appadurai, Arjun. 1981. Worship and conflict under colonial rule: A South Indian case. Cambridge: Cambridge University Press. Bader, Jonathan. 1991. Conquest of the four quarters: Traditional accounts of the life of Śaṅkara. PhD dissertation. Canberra: Australian National University Library. 
 
-the Asiatic Society of Bombay 71: 1-22. Appadurai, Arjun. 1981. Worship and conflict under colonial rule: A South 
+Bharati, Agehananda. 1965. The Tantric tradition. London: Rider. Bhāratī Tīrtha. 1980. Vaiyāsikanyāyamālā: Vedāntādhikaraṇanyāyamālā (in Sanskrit). Pune: Anandāśrama. 
 
-Indian case. Cambridge: Cambridge University Press. Bader, Jonathan. 1991. Conquest of the four quarters: Traditional accounts of 
+Bhattacharya, J. N. 1968 [1896). Hindu castes and sects. Calcutta: Editions Indian. 
 
-the life of Śaṅkara. PhD dissertation. Canberra: Australian National University 
+Bhattacharya, Jibananda Vidyasagara, ed. 1881. Śaṅkaravijaya (Anantānanda  giri) (in Sanskrit). Calcutta: Sarasudhānidhi Press. 
 
-Library. 
+Birūnī, Abū Raiṇān Muḥammad ibn Ahmad. 1971. Alberuni's India (ed. Ainslie T. Embree). New York: Norton. 
 
-Bharati, Agehananda. 1965. The Tantric tradition. London: Rider. Bhāratī Tīrtha. 1980. Vaiyāsikanyāyamālā: Vedāntādhikaraṇanyāyamālā (in 
+Bodas, M. R. 1923. Sri Śaṅkarācārya va tyāmcā sampradāya (in Marathi). Bombay: Np. 
 
-Sanskrit). Pune: Anandāśrama. Bhattacharya, J. N. 1968 [1896). Hindu castes and sects. Calcutta: Editions 
+Brooks, Douglas R. 1992. Auspicious wisdom: The texts and traditions of Śrīvidyā sākta Tantrism in southern India. Albany: State University of New York Press. 
 
-Indian. Bhattacharya, Jibananda Vidyasagara, ed. 1881. Śaṅkaravijaya (Anantānanda  giri) (in Sanskrit). Calcutta: Sarasudhānidhi Press. Birūnī, Abū Raiṇān Muḥammad ibn Ahmad. 1971. Alberuni's India (ed. 
+Burnell, A. C. 1880. A classified index to the Sanskrit mss. in the palace at Tanjore. London: Trūbner. 
 
-Ainslie T. Embree). New York: Norton. Bodas, M. R. 1923. Sri Śaṅkarācārya va tyāmcā sampradāya (in Marathi). 
+Cenkner, William, 1983. A tradition of teachers: Śaṅkara and the Jagadgurus today. Delhi: Motilal Banarsidass. 
 
-Bombay: Np. Brooks, Douglas R. 1992. Auspicious wisdom: The texts and traditions of 
+Chandrasekharan, T., ed. 1954. Śaṅkaravijaya (Vyāsācala) (in Sanskrit; English Preface). Madras: Government Oriental Manuscripts Library. 
 
-Śrīvidyā sākta Tantrism in southern India. Albany: State University of New 
+Cinmayānanda, Svāmī. 1978. Śaṅkara: The missionary. Bombay: Chinmaya Mission Trust. Dakshinamurthy, N. S. 1973. A review of SriŚaṅkaravijaya of Anantanandagiri. Madras: City Printing Works. 
 
-York Press. Burnell, A. C. 1880. A classified index to the Sanskrit mss. in the palace at 
-
-Tanjore. London: Trūbner. Cenkner, William, 1983. A tradition of teachers: Śaṅkara and the Jagadgurus 
-
-today. Delhi: Motilal Banarsidass. Chandrasekharan, T., ed. 1954. Śaṅkaravijaya (Vyāsācala) (in Sanskrit; English 
-
-Preface). Madras: Government Oriental Manuscripts Library. Cinmayānanda, Svāmī. 1978. Śaṅkara: The missionary. Bombay: Chinmaya 
-
-Mission Trust. Dakshinamurthy, N. S. 1973. A review of SriŚaṅkaravijaya of Anantananda 
-
-giri. Madras: City Printing Works. Dazey, Wade H. 1987. The daśanāmi order and monastic life. PhD dissertation. 
+Dazey, Wade H. 1987. The daśanāmi order and monastic life. PhD dissertation. 
 
 Santa Barbara: University of California, Santa Barbara, Library. Devasenapati, V. A. 1975. Kamakottam, Nayanmars, and Adi Śaṅkara. Madras: 
 
@@ -819,49 +809,43 @@ Center. Rigopoulos, Antonio. 1998. Dattatreya: The immortal guru, yogin, and
 
 avatāra. Albany: State University of New York Press, Sarasvatī, Candrasekharendra. 1980. Adi Śaṅkara: His life and times (trans. T. 
 
-M. P. Mahadevan). Bombay: Bharatiya Vidya Bhavan. Sarasvatī, Gangādhara. 1975. Sri Gurucaritra: Sake 1702 madhila prāsādika 
+M. P. Mahadevan). Bombay: Bharatiya Vidya Bhavan. Sarasvatī, Gangādhara. 1975. Sri Gurucaritra: Sake 1702 madhila prāsādika hastalikhita pothīvarān (ed. Govinda Ātmārāma Gokhale) (in Marathi). Pune: Paraśurāma Press. 
 
-hastalikhita pothīvarān (ed. Govinda Ātmārāma Gokhale) (in Marathi). Pune: 
+Sarasvatī, Paramasivendra. 1991. Daharavidyā Prakāśikā. Varanasi: Sri Dakshinamurti maṭha. 
 
-Paraśurāma Press. Sarasvatī, Paramasivendra. 1991. Daharavidyā Prakāśikā. Varanasi: Sri 
+Sarkar, Jadunath. 1946. A history of dasnami naga sannyasis. Allahabad: Mahanirvani Akhada. 
 
-Dakshinamurti maṭha. Sarkar, Jadunath. 1946. A history of dasnami naga sannyasis. Allahabad: Mahanirvani Akhada. Śāstri, Jagadisalala, ed. 1970. Upaniṣatsamgrahah (in Sanskrit). 2 parts. Delhi: 
+Śāstri, Jagadisalala, ed. 1970. Upaniṣatsamgrahah (in Sanskrit). 2 parts. Delhi:Motilal Banarsidass. 
 
-Motilal Banarsidass. Sawai, Yoshitsugu. 1992. The faith of ascetics and lay Smārtas: A study of the 
+Sawai, Yoshitsugu. 1992. The faith of ascetics and lay Smārtas: A study of the Śaṅkaran tradition of Śr̥ṅgeri. Vienna: Sammlung de Nobili. 
 
-Śaṅkaran tradition of Śr̥ṅgeri. Vienna: Sammlung de Nobili. Sawyer, Dana. 1993. Monastic structure of Banarsi Dandi Sadhus. In Bradley 
+Sawyer, Dana. 1993. Monastic structure of Banarsi Dandi Sadhus. In Bradley R. Hertel and Cynthia Humes, eds., Living Banaras: Hindu religion in cultural context, 159–80. Albany: State University of New York Press. 
 
-R. Hertel and Cynthia Humes, eds., Living Banaras: Hindu religion in 
+Sax, William S. 2000. Conquering the directions: Religion and politics in Hinduism. International journal of Hindu studies 4, 1: 39-60. 
 
-cultural context, 159–80. Albany: State University of New York Press. Sax, William S. 2000. Conquering the directions: Religion and politics in 
+Sewell, Robert. 1975 [1883]. A sketch of the dynasties of southern India. Delhi: Cosmo.
 
-Hinduism. International journal of Hindu studies 4, 1: 39-60. Sewell, Robert. 1975 [1883]. A sketch of the dynasties of southern India. Delhi: 
+Sharma, Raj Gopal. 1987. Kanchi Kamakoti Math: A myth. Varanasi: Ganga Tunga Prakashan. 
 
-Cosmo. Sharma, Raj Gopal. 1987. Kanchi Kamakoti Math: A myth. Varanasi: Ganga 
+Shastry, A. K. 1982. A history of Sringeri. Dharwad: Karnatak University. 
 
-Tunga Prakashan. Shastry, A. K. 1982. A history of Sringeri. Dharwad: Karnatak University. Sivānanda, Svāmi. 1993. Lives of saints. Shivanandanagar: The Divine Life 
+Sivānanda, Svāmi. 1993. Lives of saints. Shivanandanagar: The Divine Life Society. 
 
-Society. Sprockhoff, Joachim F. 1976. Samnyāsa: Quellenstudien zur Askese im 
+Sprockhoff, Joachim F. 1976. Samnyāsa: Quellenstudien zur Askese im Hinduismus (in German). Wiesbaden: Steiner. Śrīharsa. 1952. Naiṣadhiyacarita (in Sanskrit). Bombay: Nirnayasagara Press. 
 
-Hinduismus (in German). Wiesbaden: Steiner. Śrīharsa. 1952. Naiṣadhiyacarita (in Sanskrit). Bombay: Nirnayasagara Press. Subrahmanya Śāstri, S., ed. 1982–90. Brhadāraṇyakopaniṣad Bhasya Vārtti 
+Subrahmanya Śāstri, S., ed. 1982–90. Brhadāraṇyakopaniṣad Bhasya Vārttikam: Anandagiri-ṭīkā-samvalitam (in Sanskrit), 2 vols. Mount Abu: Maheśānusandhāna Sansthānam. 
 
-kam: Anandagiri-ṭīkā-samvalitam (in Sanskrit), 2 vols. Mount Abu: Maheśānusandhāna Sansthānam. Subramuniyasvāmi, Satguru Sivāya. 1993. Dancing with siva. Hawai'i: 
+Subramuniyasvāmi, Satguru Sivāya. 1993. Dancing with siva. Hawai'i: Himalayan Academy. 
 
-Himalayan Academy. Sundaresan, VidyaŚaṅkar. 2002. What determines Sarkara's authorship? The 
+Sundaresan, VidyaŚaṅkar. 2002. What determines Sarkara's authorship? The case of the Pancikaraṇa. Philosophy East and West 52, 1: 1–35. Sunil, K. P. 1987. 
 
-case of the Pancikaraṇa. Philosophy East and West 52, 1: 1–35. Sunil, K. P. 1987. The curious case of the missing monk. The illustrated 
+The curious case of the missing monk. The illustrated weekly of India 13 September: 9–17. Swaminathan, K. D. 1957. The Nāyakas of Ikkeri. Madras: P. Varadachary. 
 
-weekly of India 13 September: 9–17. Swaminathan, K. D. 1957. The Nāyakas of Ikkeri. Madras: P. Varadachary. Tapasyānanda, Svāmi, trans. 1980 [1978]. Śaṅkara-dig-vijaya: The traditional 
+Tapasyānanda, Svāmi, trans. 1980 [1978]. Śaṅkara-dig-vijaya: The traditional life of Śri Śaṅkarācārya by Mādhava-Vidyāranya. Madras: Ramakrishna Math. 
 
-life of Śri Śaṅkarācārya by Mādhava-Vidyāranya. Madras: Ramakrishna Math. Tarkapanchanana, Jayanarayana and Nabadweep Chandra Goswami, eds. 1982 
+Tarkapanchanana, Jayanarayana and Nabadweep Chandra Goswami, eds. 1982 (1868). Śaṅkaravijaya (Anantānandagiri) (in Sanskrit; English introduction). Osnabrūck: Biblio Verlag. Thurman, Robert A. F. 1991. The central philosophy of Tibet. Princeton: Princeton University Press. 
 
-(1868). Śaṅkaravijaya (Anantānandagiri) (in Sanskrit; English introduction). Osnabrūck: Biblio Verlag. Thurman, Robert A. F. 1991. The central philosophy of Tibet. Princeton: 
-
-Princeton University Press. Tripathi, T. M., ed. 1917. Tarkasangraha (Anandagiri) (in Sanskrit; English 
-
-introduction). Baroda: Gaekwad Oriental Research Institute.  Upadhyaya, Baladev. 1967. Śri Śaṅkaradigvijaya: Madhavācārya viracita (in 
-
-Sanskrit and Hindi). Hardwar: Sri Sravananātha Jñānamandiram. Upadhyaya, Kasinath. 1986 (1907). The Dharmasindhu by Kaśīnātha 
+Tripathi, T. M., ed. 1917. Tarkasangraha (Anandagiri) (in Sanskrit; English introduction). Baroda: Gaekwad Oriental Research Institute.  Upadhyaya, Baladev. 1967. Śri Śaṅkaradigvijaya: Madhavācārya viracita (in Sanskrit and Hindi). Hardwar: Sri Sravananātha Jñānamandiram. Upadhyaya, Kasinath. 1986 (1907). The Dharmasindhu by Kaśīnātha 
 
 Upadhyāya in Sanskrit; English introduction). Delhi: Sri Satguru. Veezhinathan, N., ed. 1971. Anantānandagiripraṇītam Śrīśankaravijayam (in 
 
@@ -869,14 +853,8 @@ Sanskrit; English preface and introduction). Madras: University of Madras. Veezh
 
 Sanskrit; English introduction). Madras: University of Madras. Venkataraman, K. R. 1959. The throne of transcendental wisdom. Trichy: 
 
-Trichinopoly United Printers. Venkataraman, N. 1923. Śaṅkaracarya, the great, and his successors at 
+Trichinopoly United Printers. Venkataraman, N. 1923. Śaṅkaracarya, the great, and his successors at Kanchi. Madras: Ganesh. Weber, Max. 1958 [1920]. The religion of India: The sociology of Hinduism and Buddhism (ed. and trans. Hans H. Gerth and Don Martindale). New York: 
 
-Kanchi. Madras: Ganesh. Weber, Max. 1958 [1920]. The religion of India: The sociology of Hinduism 
+Free Press. Wilson, Horace H. 1977 (1861). A sketch of the religious sects of the Hindus. New Delhi: Cosmo. 
 
-and Buddhism (ed. and trans. Hans H. Gerth and Don Martindale). New York: 
-
-Free Press. Wilson, Horace H. 1977 (1861). A sketch of the religious sects of the Hindus. 
-
-New Delhi: Cosmo. 
-
-VIDYAŚaṅkar SUNDARESAN is an independent scholar residing in San Diego, California.
+VIDYASANKAR SUNDARESAN is an independent scholar residing in San Diego, California.
