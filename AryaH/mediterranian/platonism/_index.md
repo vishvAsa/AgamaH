@@ -12,8 +12,15 @@ They are very valuable to us due to their:
 "Neoplatonism absorbed, appropriated, and creatively harmonized almost the entire Hellenic tradition of philosophy, religion, and even literature—with the exceptions of Epicureanism and the thoroughgoing corporealism of the Stoics."
 
 ## Summaries
-From Proclus: "Zeus created the World-Intellect (noun tou pantos) from
-himself, prior to all others"[and then, still from himself] "the rest of the intellectual and whole classes (ie. the ideas, and forms). In conjunction with the 'Mixing Bowl' (kratEr) he created the World-Soul (psuche pantos)' and the the "partible souls", prior to the bodies. He also created the souls' associated vehicles (ochemata; see II.A.4.4) and arranged the appropriate souls around the appropriate divinity...this includes all the celestial, dalmonic and sublunary classes.. all according to the law of Fate". "In conjunction with the universal Nature (holes phuseOs) and Necessity (anankes), he fashioned (plattOn) the World-Body (sOma pantos) and the partible bodies, and delineated (diagraphOn) the heavens"
+From Proclus: 
+
+> "Zeus created the World-Intellect (noun tou pantos) from himself, prior to all others"[and then, still from himself] "the rest of the intellectual and whole classes (ie. the ideas, and forms). In conjunction with the 'Mixing Bowl' (kratEr) he created the World-Soul (psuche pantos)' and the the "partible souls", prior to the bodies. He also created the souls' associated vehicles (ochemata; see II.A.4.4) and arranged the appropriate souls around the appropriate divinity...this includes all the celestial, dalmonic and sublunary classes.. all according to the law of Fate". "In conjunction with the universal Nature (holes phuseOs) and Necessity (anankes), he fashioned (plattOn) the World-Body (sOma pantos) and the partible bodies, and delineated (diagraphOn) the heavens"
+
+Like shaiva-tattvas, they explain emergence of a series of "hypostases".
+
+- The One (individuating principle)
+- Nous/ Consciousness, whose inner activity is reflecting upon itself and it's cause - The One, leading to ideal world of forms
+- Soul and Nature - "The general idea is that Soul, qua outer activity of Consciousness, looks back at its cause in order to understand itself so as to truly be what it is. Gazing thus at the forms and ideas eternally present in Consciousness, it becomes “informed” by them and carries forward, by some manner of benevolent necessity, images of the eternal forms into the lower realm of Being."
 
 ## Incessant Emanationism
 - "Pagan Neoplatonists were not creationists. Instead, they speculated that the process of the emergence of the universe from their divine principle, has gone on forever, just as it continues at this very moment and will continue to do so, sustaining a world without end. ... reality emerged from “the First” in coherent stages, in such a way that one stage functions as creative principle of the next."
@@ -80,7 +87,7 @@ See [sallustius](sallustius/).
 - the outer activity and effect of the First must be nous - pure and absolute “Consciousness”.  Hence the the second “Hypostasis”.
 - Consciousness would not be some kind of emergent property of material constituents arranged in a certain way, but rather be the first effect of the activity of the One.
 - "What, then, is the inner activity of Consciousness? The inherent task of consciousness is to understand, and understanding entails the cognition of causes. In trying to understand itself, Consciousness can only turn towards its origin and thus posit or behold the First as the transcendent principle of its own reality."
-- Compare with the [ideal realm of hindus](/AgamaH/hinduism/tattvam/Rtam/).
+- Compare with the [ideal realm of hindus](/AgamaH/AryaH/hinduism/tattvam/Rtam/).
 
 ### Forms
 - "Becoming thus aware of another entity, the originary unity of Consciousness breaks up into duality, and with it emerge the categories of identity and difference, of greater and smaller, of number, of change and of rest."
