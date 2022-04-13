@@ -18,9 +18,12 @@ Scholars have been selective about deciding whether any book's statement can be 
 
 ## Challenges to authority claims
 ### Interpolation
-- A position adopted by the likes of madhvAcArya is that many works (especially itihAsa-s and purANa-s) contains interpolations, deletions and corruptions. \[[MTN](http://mahabharata-resources.org/mbtntrans/chapter_2_gururajahrao.pdf)  2.3\]
+- Ancient observations
+  - A position adopted by the likes of madhvAcArya is that many works (especially itihAsa-s and purANa-s) contains interpolations, deletions and corruptions. \[[MTN](http://mahabharata-resources.org/mbtntrans/chapter_2_gururajahrao.pdf)  2.3\]
+  - vedAntadeshika pointed out that some use fabricated texts, ascribing them to vyAsa.
+- Motivation
+  - Sometimes, marginal comments may come to be inserted into the main text when the manuscript is copied.
 - advaitins consider the Padma Purana verse equating Mayavada and crypto-Buddhism as an interpolation.
-- vedAntadeshika pointed out that some use fabricated texts, ascribing them to vyAsa.
 - bhaviShyapurANa
     - "Many parts of Bhavishya purana are original. Some chapter were added in time of Akbar to show him reincarnation of Prithviraj Chauhan. 2 chapters were added by either William Jones or Eric Pargiter to show that British are descendants of Hanuman who were blessed by Bhagvan Ram to rule India. William Jones also removed some key verses of puranas."
 
