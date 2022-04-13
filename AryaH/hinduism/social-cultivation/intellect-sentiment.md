@@ -3,7 +3,7 @@ title: Intellect, sentiment
 ---
 ## Scholasticism, intellectual and sentimental life.
 
-The beauty and depth that is the dharmic civilization and traditions is [considered elsewhere](javascript:void(0);).  
+The beauty and depth that is the dharmic civilization and traditions is considered elsewhere.  
 
 Consider the list of [individual heroes involved in scholarly pursuit](). Contributions were abundant in the fields of Psychology, philosophy and physical training (remember the yoga-Asanas and the many martial arts). "If we look at the old Hindu education system it clearly had a mechanism to fast-track scientific talent which the modern Indian system woefully lacks. \[[TW](https://twitter.com/blog_supplement/status/904040621173874688)\]"
 
