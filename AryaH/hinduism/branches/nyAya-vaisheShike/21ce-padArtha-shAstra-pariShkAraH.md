@@ -233,7 +233,7 @@ Consciousness joins other building blocks of the universe like space, time, mass
 
 ## देवताः
 ### पराः
-पर-देवता अनपेक्षिताश्रय-सूचनात्मक-पदार्थेषु परिगण्यन्ते। +++(यावनैः ἑνάς, Hyper-essential henads, huperousios इति यावनाः।)+++  
+पर-देवता अनपेक्षिताश्रय-सूचनात्मक-पदार्थेषु परिगण्यन्ते। +++(ἑνάς, Hyper-essential henads, huperousios इति यावनाः।)+++  
 तेऽनेके।  
 ते समाः। सर्वज्ञाश् च। तेषु सामरस्यं सहकारश् च स्वाभाविकम्।  
 
