@@ -106,25 +106,64 @@ even while remaining pristine.
 <details><summary>English</summary>
 
 Victorious is Mada (Unmatta) Bhairava riding a horse chariot,   
-who faces dissolution by means of the path of manifest subjectivity; who, being in the state of ecstatic arousal, still retains his semen; and whose body is glowing [or is in wonderous excitement caused] by his self-performed dance. 
+who faces dissolution by means of the path of manifest subjectivity;  
+who, being in the state of ecstatic arousal, still retains his semen;  
+and whose body is glowing [or is in wonderous excitement caused] by his self-performed dance. 
 </details>
 
 
-
-अहमि विश्व-विकल्प-निधायको  
+अहमि विश्व-विकल्प-विधायको  
 जय चतुर्-भुज! पालन-तत्परो। +++(←परिवर्तितपाठः)+++  
 प्रकट-गुप्त-रहस्य-गणार्चितो  
 भरित-भाव-मयो गज-वाहनः॥७॥    
+
+<details><summary>English</summary>
+
+Victorious is the elephant-riding [Bhairava], 
+who is filled with all modes of emotions,  
+who has four arms and is eager to sustain the world, 
+who holds all manifestations within the singular 'I-am' 
+and is worshipped by the group of [Yoginīs] who are esoteric, hidden, and also manifest. 
+</details>
+
 
 करण-वर्ग-विविक्त-चिद्-उद्-द्रुतिं
 हरसि मान्त-हकारम् अनुत्तरम्॥    
 सम्-अधि-रुह्य पिशाच-वरं प्रभुः  
 प्रकटितो भव भीषण भैरव॥८॥+++(5)+++    
 
+<details><summary>English</summary>
+
+Bhīṣaṇa Bhairava! Reveal yourself!  
+You, the corpse-riding Lord,  
+as you retrieve the flow of consciousness differentiated in the group of sensory faculties in [reverse order] ending with Ma, followed by Ha, and culminating in A.
+</details>
+
 पुनर् अनाख्य-पथं विनिवर्तितः  
 प्रमिति-मेय-सुमातृ-दशोज्झितः॥  
 जयति पञ्चमुखासन-भैरवो  
 भव-भयान्तकरः सुख-दायकः॥९॥+++(5)+++    
+
+<details><summary>English</summary>
+
+Victorious is the lion-riding Bhairava,  
+who terminates the fears of becoming and bestows bliss,  
+who has returned to the primordial unarticulated state  
+by abandoning the states of cognition, the cognized, and the subject of cognition. 
+</details>
+
+प्रचण्डे स्थितिमार्तण्डे  
+कौमार्यङ्कस्थ-भैरवम्।  
+प्रणमामीश्वरं हंसं +++(→ "हं सं" इति श्लेषः)+++  
+सहस्रार्कसमप्रभम्॥
+
+<details><summary>English</summary>
+
+I prostrate to Lord Bhairava with Kaumārī on his lap, 
+having the brilliance of one thousand suns,  
+in the form of ‘Ha’ and ‘Sa’ [or as life]  
+when the sun of sustenance is scorching hot.
+</details>
 
 
 
@@ -135,73 +174,186 @@ who faces dissolution by means of the path of manifest subjectivity; who, being 
 मद्-भावापन्नस् त्वं  
 स्तौस्य् आत्मानं स्व-वाग्-भाभिः ॥१०॥ +++(4)+++   
 
+<details><summary>English</summary>
+
+Lord! With your own will, when you shine with all the modes of causality [of being the agent and the object and the instrument etc.],   
+by assuming my identity, you pray to yourself with the luminous speech of your own form.
+</details>
+
+### बटुकः
 चिन्-मात्रेऽप्य् आकाशे  
 नर्तक आत्मा स्वकीय-रङ्गे ऽस्मिन्।  
 बटुकादि-लोल-भावैः  
 स्व-स्वातन्त्र्याच् चकास्ति मे स्वामी ॥११॥+++(5)+++    
 
+<details><summary>English</summary>
 
-निगिरसि विश्व-वि-कल्पं  
+In the sky of pure consciousness, my lord shines forth as the self,
+the dancer, within this theater of his own making,  
+and with his own freedom, he shines with the capricious modes of a child [Baṭuka], and so on.
+</details>
+
+
+### आकाशभैरवः
+निगिरसि विश्व-विकल्पं  
 क्रमम् उल्लङ्घ्याथ कायम् आविष्टः। +++(←परिवर्तित-पाठः)+++  
 झग् इति चमत्-कृत्या त्वं  
 प्रकटयसि पुनर् जगद्-भावम् ॥१२॥+++(5)+++    
+
+<details><summary>English</summary>
+
+You swallow all conceptualizations and by transcending the successive order, you enter the body.  
+With a wondrous sudden surge, you manifest the modes of the world again.  
+</details>
+
+
 
 न्यक्-कृत-षोढा-ऽऽनन्दश्  
 चिद्-आत्म-भावेन चोच्छलन् सततम्। +++(←परिवर्तित-पाठः)+++  
 विश्वाकारः प्रथमो  
 पूजित आकाश-भैरवो देवः ॥१३॥ +++(←परिवर्तित-पाठः)+++   
 
+<details><summary>English</summary>
 
+Constantly surging in the essential form of pure consciousness, you have subordinated sixfold bliss.  
+The Luminous Bhairava in the form of empty space [Ākāśabhairava]! You, my Lord, are the primordial shining while also being in the universal forms.
+</details>
+
+### घोरः
 भेद-स्पर्शे +++(मन्त्रेषु प्रसिद्धो)+++ घोरः  
 प्रतिबिम्बतयोल्लसत्-सकलम्।  
 संवित्-किरणैर् बाह्यं  
 सिञ्चस्य् आत्म-स्वरूपं त्वम् ॥१४॥ +++(4)+++  
 
+<details><summary>English</summary>
+
+Ghora (refers to) coming into contact with duality.  
+All of this is manifesting as a mirror image.  
+You saturate these externals with your own form of the pristine rays of consciousness.
+</details>
+
+### स्वच्छन्दो बहुरूप-रुद्रश्च
 बहुरूपः सन् रुद्रस्  
 तुर्यातिग भासि निष्कलोऽप्येकः।+++(←परिवर्तित-पाठः)+++  
 स्वच्छन्दस् त्वं वन्द्यो  
 जगत्-श्मशाने निविष्टानाम् ॥१५॥+++(←परिवर्तित-पाठः)+++    
 
+<details><summary>English</summary>
+
+While being in the form of the manifold [or while being called Bahurupa],  you are Rudra.  
+You alone shine, even though you are beyond the manifest aspects while transcending 
+the fourth state [devoid of concepts].  
+You, Svacchanda! [alone] are to be praised  
+by those living in the cremation ground that is called the world.
+</details>
+
+### आनन्दभैरवः
 प्रत्याभासं चेत्यं  
-चिद्-अभिन्नं सद् बहिःस्थितं विलसत्।  
+चिद्-अभिन्नं सद् विलसति बाह्यतया।  
 स्वात्मन्य् उपसंहर्ता  
 विमर्श-मय-भैरवी-घनाश्लिष्टः ॥१६॥ +++(←परिवर्तित-पाठः)+++   
+
+<details><summary>English</summary>
+
+[He] causes the objects to manifest as if externals even though they are identical to consciousness, and retrieves them back within himself.
+He is in the embrace of Bhairavī whose body is reflexivity.
+</details>
+
 
 षोढोल्लसत्-स्वरूपो  
 जगद्-आनन्दैक-निर्भर-रसात्मा।  
 आनन्दभैरवोऽसाव्  
 अनुत्तर-प्रथम-कन्दलो जयति॥१७॥    
 
+<details><summary>English</summary>
+
+His own form is the bliss that assumes the sixfold (path of) manifestation,
+even though His inherent nature is saturated with the savoring of universal bliss [Jagadānanda].
+The luminous Ananda Bhairava manifests on his own as the first expression of the absolute [or the phoneme A].
+</details>
+
+### मन्थानभैरवः
+
 ज्ञान-स्वप्न-विमोहैस्  
 त्रिधाऽवभातः स्वयं-विमर्शस् त्वम्।  
 मिति-मेय-मातृ-भावैः  
-क्रमोपनीतैर् अनाख्यान्तैः ॥१८॥    
+क्रमोपनीतैर् अनाख्यान्तैः ॥१८॥+++(अर्थसाधनार्थं परिष्कार्यं कथम्??)+++    
+
+<details><summary>English</summary>
+
+See next
+</details>
+
 
 सृष्टि-स्थिति-लय-कर्ता  
 मथ्नासि त्वं विभज्य चिद्-रूपम्।  
 चण्डोग्र-घोर-कायो  
 मन्थानो मे हृद्-अन्तः-स्थः ॥१९॥    
 
+<details><summary>English</summary>
+
+You, manifest in threefold forms of knowing (waking), dreaming, and not-knowing (deep sleep),  
+of the character of having self-reflexivity.  
+The agent of the successive acts of creation, sustenance, and dissolution that culminate in the nameless state,
+you churn yourself by differentiating pure consciousness in the modes of cognition, subject,
+and object. You are in my heart, Manthana Bhairava! Your form is fierce and horrifying, and at the same time passionate [Caṇḍograghora].
+</details>
+
+### महाकालः
 क्षणम् अप्य् अस्पन्दात्मा  
 विवर्तसे त्वं प्रभो महाकालः ।  
 स्पन्दात्मैक-प्रकृतिः  
 शान्तोऽप्य् असि लक्षितश् चलन् बहुधा ॥२०॥    
+
+<details><summary>English</summary>
+
+Great Lord of Time! You manifest as moments but even then, you are motionless.  
+You have a singular nature of mere pulsation  
+and therefore even when you are resting, you still pulsate  
+and are thus cognized in varied forms.
+</details>
 
 उपसंहरसि विकल्पं  
 तथापि कुरुषे बहिर् निजात्मानम् ।  
 वैश्विक्यस् तव भासो  
 विश्वोत्तीर्णस् तथाप्य् असि महाकाल ॥२१॥    
 
+<details><summary>English</summary>
+
+You retrieve all conceptualizations and still externalize yourself.  
+Even though your manifestations are of universal forms,  
+you still transcend the world.  
+You manifest as absolute time while appearing as the manifold.
+</details>
+
+### तुम्बुरु-भैरवः
+
 परिवृतकलनो नवरण-  
-नाङ्कितवरभैरवीसमूहवृतः ।  
-पाशाङ्कुशशूलधरो  
-नित्यं भवभीतिभञ्जनैकरतः ॥२२॥
+नाङ्कित-वर-भैरवी-समूहवृतः ।  
+पाशाङ्कुशशूल-धरो  
+नित्यं भव-भीति-भञ्जनैकरतः ॥२२॥
+
+<details><summary>English</summary>
+
+Surrounded by the group of Bhairavis marked by ninefold sounds when he embodies the manifest form,  
+He always destroys the fear of the world by carrying rope, goad, and trident.
+</details>
+
 
 
 परिहृतकलनो  
-लोकोल्लङ्घनमहिमा विकल्पलेहनकृत् ।  
-जय तुम्बुरुसोमव्रतभैरव  
-परिरब्धगात्र वामेश्या ॥२३॥
+लोकोल्लङ्घन-महिमा विकल्प-लेहन-कृत् ।  
+जय तुम्बुरु सोम-व्रत  
+भैरव परिरब्धगात्र वामेश्या ॥२३॥
+
+<details><summary>English</summary>
+
+In his transcendent form devoid of aspects,  
+he overpowers and transcends the world and consumes all mental constructs.
+Victorious is Tumburu Bhairava, the keeper of the Soma vow,  
+embraced by Vāmeśvarī,  
+and displaying the gesture of boons.  
+</details>
 
 
 रविशशिहुतभुक्करकृत-  
