@@ -25,8 +25,8 @@ At the dawn, I bow to Bhairava in baby form, comprised of pure sattva, with a sl
 
 ## प्रातःसवनम्
 जयति चिन्मय-विश्वमयाऽद्वयः+++(4)+++  
-जनन-पालन-संहृति-तूर्य-गः।  +++(←परिवर्तित-पाठः)+++   
-उदय-लोप-विविक्त-चिद्-आत्मवान् +++(←परिवर्तित-पाठः)+++  
+जनन-पालन-संहृति-तूर्य-गः।   
+उदय-लोप-विविक्त-चिद्-आत्मवान्  
 अहमि योऽष्ट-विधोऽस्ति विकल्पितः॥१॥  
 
 <details><summary>English</summary>
@@ -196,7 +196,7 @@ and with his own freedom, he shines with the capricious modes of a child [Baṭu
 
 ### आकाशभैरवः
 निगिरसि विश्व-विकल्पं  
-क्रमम् उल्लङ्घ्याथ कायम् आविष्टः। +++(←परिवर्तित-पाठः)+++  
+क्रमम् उल्लङ्घ्याथ कायम् आविष्टः।  
 झग् इति चमत्-कृत्या त्वं  
 प्रकटयसि पुनर् जगद्-भावम् ॥१२॥+++(5)+++    
 
@@ -209,9 +209,9 @@ With a wondrous sudden surge, you manifest the modes of the world again.
 
 
 न्यक्-कृत-षोढा-ऽऽनन्दश्  
-चिद्-आत्म-भावेन चोच्छलन् सततम्। +++(←परिवर्तित-पाठः)+++  
+चिद्-आत्म-भावेन चोच्छलन् सततम्।  
 विश्वाकारः प्रथमो  
-पूजित आकाश-भैरवो देवः ॥१३॥ +++(←परिवर्तित-पाठः)+++   
+पूजित आकाश-भैरवो देवः ॥१३॥   
 
 <details><summary>English</summary>
 
@@ -234,9 +234,9 @@ You saturate these externals with your own form of the pristine rays of consciou
 
 ### स्वच्छन्दो बहुरूप-रुद्रश्च
 बहुरूपः सन् रुद्रस्  
-तुर्यातिग भासि निष्कलोऽप्येकः।+++(←परिवर्तित-पाठः)+++  
+तुर्यातिग भासि निष्कलोऽप्येकः।  
 स्वच्छन्दस् त्वं वन्द्यो  
-जगत्-श्मशाने निविष्टानाम् ॥१५॥+++(←परिवर्तित-पाठः)+++    
+जगत्-श्मशाने निविष्टानाम् ॥१५॥    
 
 <details><summary>English</summary>
 
@@ -251,7 +251,7 @@ by those living in the cremation ground that is called the world.
 प्रत्याभासं चेत्यं  
 चिद्-अभिन्नं सद् विलसति बाह्यतया।  
 स्वात्मन्य् उपसंहर्ता  
-विमर्श-मय-भैरवी-घनाश्लिष्टः ॥१६॥ +++(←परिवर्तित-पाठः)+++   
+विमर्श-मय-भैरवी-घनाश्लिष्टः ॥१६॥   
 
 <details><summary>English</summary>
 
@@ -355,55 +355,121 @@ embraced by Vāmeśvarī,
 and displaying the gesture of boons.  
 </details>
 
+### अष्टादशबाहुर् भैरवः
+रवि-शशि-हुतभुक्-करकृत-  
+सदने ऽष्टाष्टाक+++(=८*८)+++-खेचरी-वलिते ।  
+नव-तत्त्वेश्वर--मण्डल-  
+भैरव-सद्-भाव--मिलित--रति-शेखरके +++(=????)+++॥२४॥
 
-रविशशिहुतभुक्करकृत-  
-सदनेऽष्टाष्टाकखेचरीवलिते ।  
-नवतत्त्वेश्वरमण्डल-  
-भैरवसद्भाबवमिलितरतिशेखरके ॥२૪॥
+वडवानल-कीलाकुल-  
+काये नवभिर् मुखैर् युतो ऽसित-रुक् ।  
+प्रथते ऽष्टादश-बाहुः  
+पर-मोक्ष-निधिः स भैरवो देवः ॥२५॥
+
+<details><summary>English</summary>
+
+In the temple constructed by rays of the sun [12], moon [16] and fire [10],  
+the abode surrounded by sixty-four Khecari deities, in the maṇḍala of Bhairava-Sadbhava, Navatattveshvara, and Ratishekhara,  
+in the body surrounded by flames of the fire of dissolution,  
+there resides Bhairava with dark hue, nine faces, and eighteen arms, 
+who is of the singular nature of granting liberation. 
+</details>
 
 
-वडवानलकीलाकुल-  
-काये नवभिर्मुखैर्युतोऽसितरुक् ।  
-प्रथतेऽष्टादशबाहुः  
-परमोक्षनिधिः स भैरवो देवः ॥२५॥
 
-
-बहुरूपस्त्वमरूपो-  
-ऽनेजन्नेजस्यजायमानो जातः ।  
+बहुरूपस् त्वम् अरूपो  
+ऽनेजन्न् एजस्य्+++(←एज कम्पने)+++ अजायमानो जातः ।  
 आत्मनि विलाप्य सर्वं  
 सङ्कर्षिण्यै जुहोषि चरुकतया स्वम् ॥२६॥
 
+<details><summary>English</summary>
 
-विमलज्ञानतनुस्त्वं  
-जगदानन्दोल्बणो विकल्प्यात्मानम् ।  
-परमस्वतन्त्र निरतो  
-मिथुने क्रमकेलिकालिकाभिरसि ॥२७॥
+Even when assuming manifold forms, you are formless.  
+You move without moving  
+and you are born without ever being caused.  
+You dissolve everything within yourself and offer your body as libation to Kālasaṃkarṣiṇī.
+</details>
 
 
-प्लोषसि बाह्यविकल्पं  
-कालं मृत्युं ग्रसस्युग्रः ।  
+विमल-ज्ञान-तनुस् त्वं  
+जगद्-आनन्दोल्बणो विकल्प्यात्मानम् ।  
+परम-स्वतन्त्र निरतो  
+मिथुने क्रम-केलि-कालिकाभिर् असि ॥२७॥
+
+<details><summary>English</summary>
+
+O You, (who are) absolutely free!  
+Having the body of pure consciousness, you are full with universal bliss.  
+By means of constructing yourself, you are engaged in passionate embrace with the Kālīs who love to play in sequence.
+</details>
+
+भानाव् अस्तं गते शून्ये  
+निशानाथोदयात् पुरा।  
+प्रौढाङ्कस्थम् अहं वन्दे  
+भैरवं पीठनायकम्॥
+
+<details><summary>English</summary>
+
+In the empty void, I bow to Bhairava, the Lord of Pīṭha  
+who is seated on the lap of the Aged [Goddess]  
+when the sun is set and the moon is yet to arise.
+</details>
+
+
+## सायंसवनम्
+
+### कालाग्निरुद्रः
+प्लोषसि+++(=दहसि)+++ बाह्यविकल्पं  
+कालं मृत्युं ग्रसस्य् उग्रः ।  
 वपुषि चिदात्मतया त्वं  
-राजस्याद्वादशान्तमङ्गुष्ठात् ॥२८॥
+राजस्य् आद्वादशान्तम् अङ्गुष्ठात् ॥२८॥
+
+<details><summary>English</summary>
+
+You, ferocious one! Incinerate conceptualizations that are given in the form of externals.  
+You consume time and death and manifest within this body from the toes up to twelve inches above the head in the form of sentience. 
+</details>
+
+कालाग्नि-रुद्र-रूपो  
+होता स हविस् तथा स्वयं हवनम् ।  
+मत्-पाश-विलय-दक्षो  
+द्वैत-भयाद् रक्षको जयति ॥२९॥
+
+<details><summary>English</summary>
+
+Victorious is Kalāgni Rudra who is himself the sacrificer, the objects of sacrifice, and the very act of sacrifice.  
+Skilled in dissolving the snares that bind me, victorious is the one who protects from fear of duality.
+</details>
 
 
-कालाग्निरुद्ररूपो  
-होता स हविस्तथा स्वयं हवनम् ।  
-मत्पाशविलयदक्षो  
-द्वैतभयाद्रक्षको जयति ॥२९॥
-
+### अमृतेशः
 
 दग्धं स्वेन निषिञ्चसि  
-बाह्यविकल्पं रसोद्रेकात् ।  
-अमृतेशोद्यमरूप-  
-श्चिन्नेत्रो भेदमर्दनप्रवणः ॥३०॥
+बाह्य-विकल्पं रसोद्रेकात् ।  
+अमृतेशोद्यम-रूपश्  
+चिन्-नेत्रो भेद-मर्दन-प्रवणः ॥३०॥
+
+<details><summary>English</summary>
+
+Amṛteśa! Through the gaze of pure consciousness, you soak with a splash of ambrosia the external conceptualizations that have been incinerated.  
+You are of the character of the surge [of self-awareness] and you are the destroyer of duality. 
+</details>
 
 
-सर्वाक्षचक्रपथकृत-  
-बहिरुल्लासेऽप्यनुत्तरप्रथनै-  
-कान्तस्वभाव भगव-  
-न्भर च रमस्व च यतोऽसि वमनपरः ॥३१॥
+
+सर्वाक्ष-चक्र-पथ-कृत-  
+बहिर्-उल्लासे ऽप्य् अनुत्तर-प्रथनै-  
+कान्त-स्वभाव भगवन्  
+भर च रमस्व च यतोऽसि वमनपरः ॥३१॥
+
+<details><summary>English</summary>
+
+Even when there is the surge of externals through the wheel of sensory faculties, you are of a singular character of the manifestation of the absolute.  
+Lord! Generate [beings], and rejoice [in your creation], as you are skilled in externalizing [lit. vomiting] [entities].
+</details>
 
 
+### मार्ताण्डः
 कालग्रसनोग्रतपः-  
 स्फारितहृदयप्रमोदमूर्तात्मन् ।  
 खरसाग्निभावचित्रं  
@@ -415,11 +481,22 @@ and displaying the gesture of boons.
 कुलपथभास्करभैरव  
 दह मार्तण्ड प्रभो मदणुभावम् ॥३३॥
 
+<details><summary>English</summary>
 
+Mārtaṇḍa! You are the manifest
+form of bliss in the heart of those who have blossomed their heart by the severe penance of consuming time.
+You, who envelops the sky, have a
+wondrous body having three hundred and sixty forms [or having different modes of emptiness, fire, as well as ambrosia]. The very manifestation of duality is death, and the surge of conceptualization is the collection of the modes of your
+(manifestation) in embryonic form.
+Bhairava, illuminator of the Kaula path! Incinerate my limitedness.
+</details>
+
+
+### उच्छुष्मः
 कारकभावे लीने  
 व्याप्ते कल्पान्तपावकज्वालैः ।  
 उच्छिष्टसंविदग्ने-  
-र्विश्वाकारोऽसि साक्षिभूतस्त्वम् ॥३૪॥
+र्विश्वाकारोऽसि साक्षिभूतस्त्वम् ॥३४॥
 
 
 कालग्रासिनि योगे  
@@ -427,6 +504,15 @@ and displaying the gesture of boons.
 उच्छुष्म सृजसि मोक्षं  
 द्वैताद्वैतादिकल्पानाबन्धात् ॥३५॥
 
+<details><summary>English</summary>
+
+You are the witness to the universal forms generated in the ash of the fire of consciousness, being permeated by the flames of the fire when all modes of causation [as agent, instrument, object, location, relation] are consumed at the end of the cycle of creation. You
+are the bestower of liberation,
+Ucchuṣma [Bhairava]! from bondage in the form of conceptualizations such as duality and non-duality, to those who are
+engaged in the yoga of consuming time by taking refuge in the fire of breath.
+</details>
+
+### संवर्तः
 
 प्रलयाग्निज्वालामय  
 रुद्रक्रोधानलप्रकटरूप ।  
@@ -439,13 +525,52 @@ and displaying the gesture of boons.
 स्वाधिष्ठाने वस वस  
 विलापय द्बादशान्तभुवि हृदयम् ॥३७॥
 
+<details><summary>English</summary>
+
+The burning image of the inferno of
+dissolution, the manifest body of
+the fire of the fury of Rudra, located in the [triangular] abode called Kāma
+[desire], the materialized form of the fire of churning the ocean [with a
+horse's face], Lord Samvarta!
+enflame, enflame, and scorch, scorch, the notion of duality from its roots.
+Please remain in your self-abode [the Svādhiṣṭhana Cakra] and dissolve my heart in the end of the twelve.
+</details>
+
+पराह्लाद-रसोेदेक-  
+जगद्-आनन्द-कारणम्।  
+वन्दे सोम-रसाप्लुष्ट-  
+भैरवं भयभनम्॥
+
+<details><summary>English</summary>
+
+I surrender to Bhairava,
+the destroyer of all fears,
+who is soaked in the
+elixir of soma, and who
+causes the rise of bliss
+in collective form with
+the expression of rasa in
+the form of supreme bliss.
+</details>
+
+## नशीथसवनम्
 
 विश्वविविक्ताविद्या-  
 तनुभिरवस्थाभिदावशाद्भासि ।  
 प्रस्पन्दतया हृदि मे  
 प्रथसे रागात्मना मनसि ॥३८॥
 
+<details><summary>English</summary>
 
+Due to differences in
+the states of consciousness,
+you manifest in the form
+of worldly objects [in the waking state], or as subtle objects [in the dream state] and as ignorance [in deep sleep]. You appear in the form of
+pulsation in my heart and as passion in my mind.
+</details>
+
+
+### महादेवः
 प्रतिवाच्यं त्वद्रूपं  
 प्रतिशब्दं त्वन्महःस्फुरणम् ।  
 प्रतिकायं त्वद्रमणं  
@@ -455,16 +580,41 @@ and displaying the gesture of boons.
 नामार्थबहुविकल्पैः  
 क्रीडसि तत्कीर्त्यसे महादेवः ।  
 मयि भाति यत्तु मत्त्वं  
-तदभिन्नतयासि भातस्त्वम् ॥૪०॥
+तदभिन्नतयासि भातस्त्वम् ॥४०॥
 
+<details><summary>English</summary>
 
-  
+In every object of expression,
+[I see] your form, and in every word, I hear your manifestation. In every form, there lies your blissful engagement, and in every conceptualization, there resides your recognition. Since you play in various fantasies of name and form, you are the great sport [or the Supreme Lord Mahādeva!]. You are being manifest as not distinct from what manifests in me as 'I-am'.
+
+</details>
+
 
 
 उदयलयमयः सन्निर्विकल्पस्वभावः।  
-कवलितजगदात्मा मालिनीमन्त्रगर्भः ॥४१॥    
-प्रथयति बहुरूपान्स्वेच्छयाच्छादितः सन्।  
+कवलित-जगदात्मा मालिनी-मन्त्र-गर्भः ॥४१॥    
+प्रथयति बहुरूपान् स्वेच्छयाच्छादितः सन्।  
 ह-स-ख-फ-र-भगान्तो बिन्दुरूपो महेशः ॥४२॥    
+
+<details><summary>English</summary>
+
+While being of the character
+of emerging and dissolving,
+the supreme Lord,
+having the form of the drop
+at the end of the triangle
+led by Ha-Sa-Kha-Pha- and Ra,
+is of the character devoid of
+conceptualizations. He is
+the one whose nature
+envelops the world
+and who is the womb
+of all phonemes and mantras.
+While being covered with his
+own will, he manifests
+multitudes of forms.
+</details>
+
 
 
 प्रतिविषयविकल्पैः कल्पितस्त्वं कपाली।  
@@ -472,22 +622,68 @@ and displaying the gesture of boons.
 विविधभवविडम्बैर्नर्तसे सप्तजिह्वः।  
 विमलचितिविलासात्स्वप्रकाशादभिन्नः ॥४३॥    
 
+<details><summary>English</summary>
+
+You the skull-bearer [or Kapālin]! You are the one conceptualized when conceptualizing every single object; you, as the rays of consciousness, are the one that is felt in the emotional modes inherent within you that generate aesthetic pleasure [rasa]. You with seven tongues dance in every single disguise of
+being in the world. But even then, you are never dissociated from the play of self-luminous
+pure consciousness.
+</details>
+
+
 
 विगलितपशुभावो भैरवोऽहं शिवोऽहम्।  
 सकलकरणचक्रेश्वर्यधिष्ठानकायः॥    
 विकसितनयनः सन्निर्विकल्पे निषण्णः।  
 भवडिमरसपूर्णो भैरवोऽहं शिवोऽहम् ॥४४॥    
 
+<details><summary>English</summary>
+
+With bondage [modes of duality]
+dissolved, I am Bhairava! I am Shiva. While I have my eyes fully opened as my body is the basis for the
+governing deities of all the sensory faculties, I am situated in absolute absorption [without thoughts]. I am full while savoring the drama of the world, as I am Bhairava, I am Shiva.
+</details>
+
+
+
 विहितकुसुमचर्यं भैरवीमण्डलस्थं ।  
 परिहृततनुभावं वीक्ष्य मां व्योमचित्तम्॥    
 झटिति करणवाहात्प्राविशत् कायमध्ये।  
-स्वयमकृतवचोभिः स्वात्मनः ख्यातयेऽभूत् ॥૪५॥    
+स्वयमकृतवचोभिः स्वात्मनः ख्यातयेऽभूत् ॥४५॥    
+
+<details><summary>English</summary>
+
+Seeing me empty-minded with
+no sense of body and sitting in the maṇḍala of Bhairavīs after having offered flowers, [Lord Bhairava] suddenly
+and forcefully entered my heart through the channels of sensory faculties and revealed himself with unconstructed words.
+</details>
+
 
 
 प्रकटितनवमेघो भैरवोऽनुग्रहार्थम्।  
 विगलितपशुभावान्साधकान्शक्तिपातैः॥  
 भरितपरमभावैर्वाग्भिरख्यापयद्यत्।  
 सकृदपि परिपाठाद्भैरवः स्यान्मनुष्यः ॥४६॥    
+
+<details><summary>English</summary>
+
+With the emission of his potencies
+[or by means of śaktipāta], in order to bestow His grace upon sādhakās whose beastly natures have been dissolved, Lord Bhairava, of the hue of dense new cloud, articulated this [prayer] with speech filled with the supreme mode of being. A mortal will become Bhairava with even a single recitation [of these hymns].
+</details>
+
+वक्राङ्कनिलयं देवं  
+मालिनीमातृकातनुं।  
+संवर्तं सततं वन्दे  
+सृष्ट्युन्मुख-कुलेश्वरम्॥
+
+<details><summary>English</summary>
+
+I constantly bow to the luminous
+Samvarta who has Vakrā [or Kubjikā]
+seated on his lap, the Lord of Kula
+who is oriented towards creation
+[or who is in the bhāsā state] and
+whose body is comprised of Mālinī and Mātṛkā.
+</details>
 
 
 इति स्थानेश्वरमुखोद्गीर्णः संवर्तस्तवः।  
