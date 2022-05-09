@@ -4,6 +4,8 @@ title = "Split-brain Anand venkaTarAman talk"
 
 Source: [YT](https://www.youtube.com/watch?v=Qj8DmMGHynk)
 
+Slides: [GD](https://docs.google.com/presentation/d/1cJG1YjV4rqrJleFBDH5YUJvCSXe9xdsFWR7abffds-g/edit#slide=id.g10b7bb8751d_0_16)
+
 <div class="videoEmbed"  src="https://www.youtube.com/watch?v=Qj8DmMGHynk" caption="Split Brains, Julian Jaynes: Neuroscience in Indology - By Dr Anand Venkatraman"></div>
 
 
