@@ -51,7 +51,7 @@ When? **tasmin dr̥ṣṭē parāvarē-**When you know the mechanism by which th
 
 With the knowledge of Self one can overcome grief.
 
-Let us now try to understand how Vedānta goes about the above subject. It asks the person to investigate - do Parīkṣa. Whatever the inside forces are and whatever the inside phenomena are, observe them. The following beautiful stanza from Kaţhopaniṣhad (2-4-1) is worth elaborating and contemplating**.**:
+Let us now try to understand how Vedānta goes about the above subject. It asks the person to investigate - do Parīkṣa. Whatever the inside forces are and whatever the inside phenomena are, observe them. The following beautiful stanza from Kaţhopaniṣhad (2-4-1) is worth elaborating and contemplating.:
 
 **पराञ्चि खानि व्यतृणत्स्वयंभूस्तस्मात्पराङ्पश्यति नान्तरात्मन्।**
 
@@ -114,7 +114,7 @@ So the first method of investigation is ātmaparīkṣā under the guidance of a
 
 For the attainment of knowledge of SELF one has to approach the teacher who is not only a scholar but also is established in Brahman.
 
-A competent teacher is one who should have double qualifications. There are two eligibility factors. What are they? He must be well versed with the śāstrā-s. That alone is not sufficient, because he may be repeating the śāstra in a parrot like way, without himself being a brahmaniṣṭha_,_ without having touched the source. So, while śrotriyatva_ _is necessary, brahmaniṣṭhatva is also necessary. He must have known the truth, not only by śāstrarūpeņa but also by anubhavarūpeņa_. _The two factors put together are necessary to be a teacher**.**
+A competent teacher is one who should have double qualifications. There are two eligibility factors. What are they? He must be well versed with the śāstrā-s. That alone is not sufficient, because he may be repeating the śāstra in a parrot like way, without himself being a brahmaniṣṭha_,_ without having touched the source. So, while śrotriyatva_ _is necessary, brahmaniṣṭhatva is also necessary. He must have known the truth, not only by śāstrarūpeņa but also by anubhavarūpeņa_. _The two factors put together are necessary to be a teacher.
 
 **2. Sukha-Duḥkha Parīkṣa- सुखदुःखपरीक्षा ।**
 

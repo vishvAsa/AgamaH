@@ -134,7 +134,7 @@ But the wise man, in the greatness of his knowledge and spiritual discrimination
 
 --Sri Shankaracharya,---Vivekachudamani
 
-##       How to use this book
+    ##  How to use this book
 
 This book is a compilation of the short sadhana pointers  collected  from Prof. Shashtriji talks at various forums.  They are meant    for a **serious seeker**. The book contains fifty two talks to correspond to enable practice in  fifty two weeks.
 

@@ -39,45 +39,39 @@ Some examples could be given:
 
 In India there is what is called, an **Upākarma-उपाकर्म** - programme.+++(?? virajAhoma is done during sannyAsa-svIkAra, not upAkarma.)+++ In this ceremony during the Virajāhoma mantra chanting (Mahānārāyaṇa Upaniṣad) many blessings are sought from the Gods. The student is asking for five prāṇā-s to be purified.
 
-**प्राणोपानव्यानोदानसमाना मे शुद्ध्यन्ताम् ज्योतिरहम् विरजा विपाप्मा भूयासम् स्वाहा ॥**
+**प्राणोपानव्यानोदानसमाना मे शुद्ध्यन्ताम्, ज्योतिरहम्, विरजा विपाप्मा भूयासम् स्वाहा ॥**
 
 **Prāṇa-apāna-vyāna-udāna-samānā mē śuddhyantām jyōtiraham virajā vipāpmā bhūyāsam svāhā.**
 
 I am offering into the fire, the homadravyā-s so that my pañcaprāṇā-s be purified. Let my several vital organs be purified. All this goes to show that very dignified wishes were sought from the Gods with the belief that, when properly approached, they would give the necessary favours.
 
-After initiation into the ritualistic ways through **Upākarma-**i.e., after **dvijatva svīkāra-द्विजत्व स्वीकार -**the student who performs Agni Upāsana seeks from Gods the following blessings-
+After initiation into the ritualistic ways through **Upākarma-**i.e., after **dvijatva svīkāra-द्विजत्व स्वीकार -** the student who performs Agni Upāsana seeks from Gods the following blessings-
 
 
 
-* **मेधावी भूयासम्**  -  **Medhāvī bhūyāsam -**Let me become an intellectual.
-* **तेजस्वी भूयासम् - Tejasvī bhūyāsam -**Let me have the intellectual resplendence.
-* **वर्चस्वी भूयासम् – Varcasvī bhūyāsam -**Let me have exalted stature in the society.
-* **आयुश्मान् भूयासम्**- **Āyuśmān bhūyāsam –**Let me have long life.
-* **अन्नादो भूयासम् -Annādo bhūyāsam -**Let me have strong digestive power.
-* **सर्वसमृद्धो भूयासम्** -**Sarvasamṛddho bhūyāsam -** Let me have all physical wants at my disposal- i.e.- food, clothing,shelter, etc**.**
+* **मेधावी भूयासम्**  -  **Medhāvī bhūyāsam -** Let me become an intellectual.
+* **तेजस्वी भूयासम् - Tejasvī bhūyāsam -** Let me have the intellectual resplendence.
+* **वर्चस्वी भूयासम् – Varcasvī bhūyāsam -** Let me have exalted stature in the society.
+* **आयुश्मान् भूयासम्**- **Āyuśmān bhūyāsam –** Let me have long life.
+* **अन्नादो भूयासम् -Annādo bhūyāsam -** Let me have strong digestive power.
+* **सर्वसमृद्धो भूयासम्** -**Sarvasamṛddho bhūyāsam -** Let me have all physical wants at my disposal- i.e.- food, clothing,shelter, etc.
 
 The above are not mean or cheap desires. They are highly dignified. These blessings were sought from the Gods with the belief that they would bestow the necessary favours. In the same tone many Mantras are there in Medhāsūktam:
 
-**मयि मेधाम् मयि प्रजाम् मय्यग्निस्तेजो दधातु।**
+**मयि मेधाम् मयि प्रजाम् मय्यग्निस्तेजो दधातु।**  
+**मयि मेधाम् मयि प्रजाम् मयीन्द्र इन्द्रियम् दधातु।**  
+**मयि मेधाम् मयि प्रजाम् सूर्यो भ्राजो दधातु।**  
 
-**मयि मेधाम् मयि प्रजाम् मयीन्द्र इन्द्रियम् दधातु।**
-
-**मयि मेधाम् मयि प्रजाम् सूर्यो भ्राजो दधातु।**
-
-**Mayi mēdhām mayi prajām mayi agniḥ - tējō dadhātu.**
-
-**Mayi mēdhām mayi prajām mayi indra indriyam dadhātu.**
-
+**Mayi mēdhām mayi prajām mayi agniḥ - tējō dadhātu.**  
+**Mayi mēdhām mayi prajām mayi indra indriyam dadhātu.**  
 **Mayi mēdhām mayi prajām sūryō bhrājō dadhātu.**
 
 May Agni render in me intelligence, continuity of progeny and splendour born of Vedic study. May Indra render in me intelligence, continuity of progeny and virility. May Surya render in me intelligence, continuity of progeny and prowess that strikes fear in the hearts of enemies.
 
 This is one part of Karmakāṇḍa. But the question arises now under the second part of Karmakāṇḍa, under which the **kāmya-karmā-s** are listed. Karmakāṇḍa takes a stand where certain mantras with corresponding homadravyā-s, when offered through a combination of chanting and offerings to Agni, can bring desired results. Under kāmyakarma we have for example; 
 
-
-
-* **पर्जन्यहोम - Parjanyahoma -**where rain can be sought after
-* **मृत्युञ्जयहोम**- **Mṛtyuñjayahoma‍ -**where the mortality could be extended**.**
+* **पर्जन्यहोम - Parjanyahoma -** where rain can be sought after
+* **मृत्युञ्जयहोम**- **Mṛtyuñjayahoma -** where the mortality could be extended.
 * **पुत्रकामेष्टि याग**- **Putra-kāmeṣṭi yāga**- where progeny can be sought after.
 
 But the whole question is this**. Is there any experimental support**to this aspect of Karmakāṇḍa which declares that we can win over the Gods and get their favours and have these dignified wishes fulfilled? Whatever palatable or interesting things one may say on this aspect of Karmakāṇḍa, the question posed by today’s generation is, whether these are born out of experimentation. This was the counter I had in my days of studentship also. By that time the country had moved in the direction of scientific thinking. Fifty years ago, science really started capturing the imagination of man. We became a scientifically oriented community. Being scientific in temperament, we would put questions why, what and how, for the things which we had no proof or justification. We would accept a thing only if it was reasoned out. We would not accept a thing on the basis of **śraddhā - श्रद्धा -**(pure faith) alone. The above aspect which looks so glorious is incomplete in the sense that the followers of karmakāṇḍa accepted them with blind faith with all its deficiencies because it was a dignified thing according to them and they had been so ordained.
@@ -157,7 +151,7 @@ In another context in the **Chāndogya Upaniṣad- छान्दोग्य �
 
 * **Yajuradhyemi, ṛgadhyemi -**I know all the four Veda-s.
 * **Kṣātravidyām –**I know the science of valour.
-* **Nakṣatravidyām –**I know the science of Astronomy**.**
+* **Nakṣatravidyām –**I know the science of Astronomy.
 * **Gandharvavidyām-**I know the art of music and dance.
 
 Despite the above, I have come to you to seek solution to my problem as I am in distress and I am not comfortable with myself.
@@ -222,7 +216,7 @@ What is this suffering? What is this helplessness? What is the solution?
 
 **Iti praśnān-udāharan pārāvāravidāṁ pādān-kasmāt rājan na sēvasē.**
 
-Posing such questions, go to the experts who have solved them. Go to a teacher not in a challenging way, but in a very modest way, with full faith and acceptance of the teacher's ability, by serving him, by looking after his comforts**.**
+Posing such questions, go to the experts who have solved them. Go to a teacher not in a challenging way, but in a very modest way, with full faith and acceptance of the teacher's ability, by serving him, by looking after his comforts.
 
 **साधूनां समदृष्टीनां परिप्रश्नेन सेवय। ।**
 

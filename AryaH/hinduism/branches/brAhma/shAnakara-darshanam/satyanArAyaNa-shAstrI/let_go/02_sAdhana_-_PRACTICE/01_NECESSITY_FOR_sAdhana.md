@@ -27,7 +27,7 @@ Then the question would be why does one extol this non doing role? What is so ex
 
 Putting this in another way- all that is necessary is to prove it to oneself the unimportance of thinking and uselessness of thinking. Our present notion is that thinking is a must, is useful and hence it is our real nature. You have to break these two positions by vichāra. That is all what Vedānta wants us to know. We have to show the hollowness of this equation by showing that happiness that one gets out of objects of enjoyment, content wise, is a state of quietness wherein mind becomes empty.
 
-When you enjoy the ice-cream, ice-cream did not carry the element of joy. By a strange mechanism, it pushed the mind into the non- doing state for a short period. That is all the role of any bhogavastu. This parīkșa is necessary to get a conviction. We have over simplified the study by saying that ice cream gave us joy. It is a very superficial study**.**
+When you enjoy the ice-cream, ice-cream did not carry the element of joy. By a strange mechanism, it pushed the mind into the non- doing state for a short period. That is all the role of any bhogavastu. This parīkșa is necessary to get a conviction. We have over simplified the study by saying that ice cream gave us joy. It is a very superficial study.
 
 <u>Ice cream gave you joy by shifting the energy from boredom centre which is our thinking centre or Ajnacakra, down to the tongue centre, thereby creating an emptiness at the thinking centre resulting in joy.</u> See the freshness of this study! **It was nothing but an agent to divert the bothering energy from ajñacakra-sthāna down to the concerned centre or the involved centre.**
 

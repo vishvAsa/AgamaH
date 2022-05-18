@@ -244,4 +244,4 @@ Here is the unmanifested/causal version, paramārtha-svarūpa version - kāraṇ
 
 (Māṇḍūkya Upaniṣad  1 Śankarabhāṣya, 7)
 
-**A.** That is a beautiful explanation**.**You can go by the śabda way to the origin, in which process the other is automatically covered. If you dissolve one type of activity, all other type of activities are dissolved. Ākāśadharma or vyāpakatva is established. So the sādhaka need not do all softening methods, but can tackle one when others vanish simultaneously. This is the master stroke of Śankara.
+**A.** That is a beautiful explanation.You can go by the śabda way to the origin, in which process the other is automatically covered. If you dissolve one type of activity, all other type of activities are dissolved. Ākāśadharma or vyāpakatva is established. So the sādhaka need not do all softening methods, but can tackle one when others vanish simultaneously. This is the master stroke of Śankara.

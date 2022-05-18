@@ -44,7 +44,7 @@ But the forces within us on the contrary have malleability and flexibility. One 
 
 **Pratyagātmatayā ēva brahma grāhyam na anyathā.**Śankarabhāṣya.
 
-This causal stuff of the universe cannot be grasped by the study of the outside. I am sure the physicist will come to the point of deadlock one day and turn to eastern ways. They have already started recognising the importance of observer in experimental physics. Because of the role of the observer, observations become defective. He disturbs the phenomena and there is no way by which one can avoid this observer. The scientists have come to that position of impasse. Śāstra recognizes this point. One can retrace these steps as far as the inside forces are concerned. That is what I am doing, called **nāḍiśuddhi prāṇāyāma - नाडिशुद्धि प्राणायाम**. Slow down the inner forces until you touch the origin. Such a manipulation is possible inside- not possible outside. Therefore the manipulation of the activities inside is a convenient method for understanding the source of the universe. Some of the physicists appreciated this point in those international conferences where in I had to enforce this point because it makes a reference at the basic level itself. We will now continue with the ātmaparīkṣa**.**
+This causal stuff of the universe cannot be grasped by the study of the outside. I am sure the physicist will come to the point of deadlock one day and turn to eastern ways. They have already started recognising the importance of observer in experimental physics. Because of the role of the observer, observations become defective. He disturbs the phenomena and there is no way by which one can avoid this observer. The scientists have come to that position of impasse. Śāstra recognizes this point. One can retrace these steps as far as the inside forces are concerned. That is what I am doing, called **nāḍiśuddhi prāṇāyāma - नाडिशुद्धि प्राणायाम**. Slow down the inner forces until you touch the origin. Such a manipulation is possible inside- not possible outside. Therefore the manipulation of the activities inside is a convenient method for understanding the source of the universe. Some of the physicists appreciated this point in those international conferences where in I had to enforce this point because it makes a reference at the basic level itself. We will now continue with the ātmaparīkṣa.
 
 **Sa-ayam-ātmā catuṣpāt** - That ‘I’ (that Me- ātmā-Brahma-Self) has four components. Let us see the first component.
 
@@ -52,7 +52,7 @@ This causal stuff of the universe cannot be grasped by the study of the outside.
 
 **Jāgarita-sthānaḥ bahiḥ-prajñaḥ sapta-aṅga ēkōnaviṁśati mukhaḥ sthūla-bhuk-vaiśvānaraḥ prathamaḥ pādaḥ.     (**Māṇḍūkya Upaniṣad 3) 
 
-He is identified as **Vaiśvānara.** His sphere of activity is the Waking State**.** He is conscious of the external world of objects. He has seven limbs and nineteen outlets. He enjoys the gross objects of the world. The nineteen outlets of the waking state are – the five organs of perception, the five organs of action, the five aspects of our vital breath – Prāṇa (Prāṇa, Apāna, Vyāna, Samāna, and Udāna), the Mind, the Intellect, Egoity (Ahankāra) and Citta. If any one of them is missing, our experience of the world shall, to that degree, become imperfect. In the waking state, we are outwardly conscious and are enjoying gross objects of the world through the above gateways.
+He is identified as **Vaiśvānara.** His sphere of activity is the Waking State. He is conscious of the external world of objects. He has seven limbs and nineteen outlets. He enjoys the gross objects of the world. The nineteen outlets of the waking state are – the five organs of perception, the five organs of action, the five aspects of our vital breath – Prāṇa (Prāṇa, Apāna, Vyāna, Samāna, and Udāna), the Mind, the Intellect, Egoity (Ahankāra) and Citta. If any one of them is missing, our experience of the world shall, to that degree, become imperfect. In the waking state, we are outwardly conscious and are enjoying gross objects of the world through the above gateways.
 
 Let us not worry about the details as they are not very important to our study. This is one aspect of me which is called Jāgṛth Avastha. I have a world outside of me, the details of which I can capture through the five sense organs. I am a perceiver of the outside world. Having perceived, I apply likes and dislikes such as-this is a good carpet that is a bad carpet, he is a fine person, he is not a fine person, etc. These are called rāga-dveṣa. Having perceived the world outside of me, I begin to choose and select. This facet of mine is called **Jñātṛtva - ज्ञातृत्व** –the knower's capacity, the seer's capacity.
 
@@ -68,7 +68,7 @@ I do not think that even a scientist can simplify to this degree of accuracy. My
 
 **Svapna-sthānaḥ-antaḥ-prajñaḥ sapta-aṅga ēkōnaviṁśatimukhaḥ pravivikta-bhuk-taijasō dvitīyaḥ pādaḥ.** (Māṇḍūkya Upaniṣad 4.)
 
-His second state is called as **Taijasa.** His sphere of activity is Dream State. He is conscious of internal world of objects. He has seven limbs and nineteen outlets. He enjoys the subtle objects of the inner world. This state is called as Svapna State**.**
+His second state is called as **Taijasa.** His sphere of activity is Dream State. He is conscious of internal world of objects. He has seven limbs and nineteen outlets. He enjoys the subtle objects of the inner world. This state is called as Svapna State.
 
 This Dream State is the same as the first one (Jāgṛt-Avastha) but the difference being that you are seeing inside where as in the first state you are seeing outside. Now, there is an inside world, the dream world, exactly a replica of the Jāgṛt with all the details. This is the world of your own making. In this world, you fail in an examination although you have passed the same in the Jagṛt phase forty or fifty years ago- you may walk twenty miles and still are not tired. So you have another phase of existence where the region of perception is different from that of the first phase but the experiences are common to both the phases. Even in this phase, you perceive things, you involve emotionally and you are a doer here also.
 
@@ -90,7 +90,7 @@ One can feel that in Jāgṛt or waking state he is transacting with what is bes
 
 **Suṣupta-sthāna ēkībhūtaḥ prajñāna-ghanaḥ ēva-ānandamayō hi-ānanda-bhuk-cētōmukhaḥ prājñaḥ tr̥tīyaḥ pādaḥ.**(Māṇḍūkya Upaniṣad  3) 
 
-This ‘I’ is called **Prājñā.** Here, in deep sleep, all experiences become undifferentiated. He is verily a homogeneous mass of consciousness in entirety. He is full of bliss and enjoying bliss and whose door is conscious wisdom – This is the third state of the ‘I’**–** called as Suśupti- Dreamless Sleep**.**
+This ‘I’ is called **Prājñā.** Here, in deep sleep, all experiences become undifferentiated. He is verily a homogeneous mass of consciousness in entirety. He is full of bliss and enjoying bliss and whose door is conscious wisdom – This is the third state of the ‘I’**–** called as Suśupti- Dreamless Sleep.
 
 In the jāgṛt or svapna state your enjoyment gives you only a fraction of ānanda, but in Suśupti state you are eating ānanda itself. What a beautiful metaphor! Bhuk means eater, enjoyer. Ānandabhuk means eater of ānanda itself. Ānandamayaḥ means ānanda personified. Given this extra information, you cannot take the sleep state in a light way. It is valuable because, your very question is tackled here. There is a ready answer to your starting question - your search for joy.
 
@@ -104,7 +104,7 @@ That’s the entire lesson you draw from the nidrā experience. So what is the l
 
 **Atra mātā amātā bhavati pitā apitā bhavati stēnō astēnō bhavati bhrūṇahā abhrūṇahā bhavati ananvāgataṁ puṇyēna ananvāgataṁ pāpēna tīrṇō hi tadā sarvān-śōkān-hr̥dayasya bhavati.**
 
-Aatra māta amāta bhavati. What are you here in jagṛt? You are burdened with your motherhood. Oh, this child doesn’t eat. This child overeats. He is indifferent to studies. He is a bookworm**.**Whereas in nidrā, she is rid of the motherly cares.
+Aatra māta amāta bhavati. What are you here in jagṛt? You are burdened with your motherhood. Oh, this child doesn’t eat. This child overeats. He is indifferent to studies. He is a bookworm.Whereas in nidrā, she is rid of the motherly cares.
 
 Pitā apitā bhavati. The father has come out of his responsibilities, rid of his fatherly responsibilities, fatherly cares, and fatherly duties.
 
@@ -189,7 +189,7 @@ You know there are four states of existence viz Jāgṛt, Svapna, Suśupti, and 
 
 **guṇā-guṇēṣu vartanta iti matvā na sajjata**.
 
-He, who knows about the classification of the Guṇā-s and their respective functions, understands that the qualities of sense organs move amidst qualities of sense objects is not attached to the actions**.**
+He, who knows about the classification of the Guṇā-s and their respective functions, understands that the qualities of sense organs move amidst qualities of sense objects is not attached to the actions.
 
 I can talk, I can transact, and I can walk ten miles, while the citta is zero. A mechanical work does not require brain or the thinking portion. Śāstra says manage it that way, life will be beautiful, charming, and every one can do that.
 
