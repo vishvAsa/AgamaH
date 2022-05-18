@@ -2,7 +2,7 @@
 title = "Talks"
 +++
 
-       ## 0
+   ## 0
 
 TALKS
 
@@ -196,7 +196,7 @@ Shastriji always used to tell his followers that, it was difficult for him to pu
 - Editor
 
 
-YŌGAVĀSIṢṬHA (योगवासिष्ठ) - IS AN EXTRAORDINARY text. It talks at high levels of spirituality. The very thought and study of the text puts me into a state of _samādhi_ (समाधि, bliss). How can I talk on the text and do justice to you. Normally, that is why I do not wish to talk on Yōgavāsiṣṭha. If one is having _pātrata_ (पात्रत, eligibility), then, this text will put hiim into that blissful state. If one has attained the right level of maturity and if the concepts are clear about his true Nature, here is a text, every word, every half śloka, puts him into that state of samādhi. That is why; the wise rightly call it a _manana-grantha_ (a reference book for repeated reflection). I thought I would write something, but I failed due to inability to concentrate on words. Ramakrishna refers to that State as an ocean of _amr̥ta_ (nectar), after dipping in it, you dissolve and you are gone. Where is the reporter? Even to report about that, you have to stand at the threshold – at the _sandhikāla_ (संधिकाल) - a bit of cognition, a bit of _tr̥upti_ (तृप्ति, satisfaction) and a feel of dissatisfaction, _a-tr̥upti_. Otherwise you cannot do anything at all. That is the beauty of the text. After the phase of _śravaṇa_ (श्रवण, listening to scriptures), where you intellectually know what you really are, go to Yōgavāsiṣṭha. You will be surprised to note that any sloka can push you to a state of non-doing. It is not superficial. Thoughts cannot shape themselves. How can you develop big arguments in support of your positions when you are in that non-doing state?
+YŌGAVĀSIṢṬHA (योगवासिष्ठ) - IS AN EXTRAORDINARY text. It talks at high levels of spirituality. The very thought and study of the text puts me into a state of _samādhi_ (समाधि, bliss). How can I talk on the text and do justice to you. Normally, that is why I do not wish to talk on Yōgavāsiṣṭha. If one is having _pātrata_ (पात्रत, eligibility), then, this text will put hiim into that blissful state. If one has attained the right level of maturity and if the concepts are clear about his true Nature, here is a text, every word, every half śloka, puts him into that state of samādhi. That is why; the wise rightly call it a _manana-grantha_ (a reference book for repeated reflection). I thought I would write something, but I failed due to inability to concentrate on words. Ramakrishna refers to that State as an ocean of _amr̥ta_ (nectar), after dipping in it, you dissolve and you are gone. Where is the reporter? Even to report about that, you have to stand at the threshold – at the _sandhikāla_ (संधिकाल) - a bit of cognition, a bit of _tr̥pti_ (तृप्ति, satisfaction) and a feel of dissatisfaction, _a-tr̥pti_. Otherwise you cannot do anything at all. That is the beauty of the text. After the phase of _śravaṇa_ (श्रवण, listening to scriptures), where you intellectually know what you really are, go to Yōgavāsiṣṭha. You will be surprised to note that any sloka can push you to a state of non-doing. It is not superficial. Thoughts cannot shape themselves. How can you develop big arguments in support of your positions when you are in that non-doing state?
 
 I will pick up some points from the text, without going in a methodical way, and try to place before you my feelings even though they are disjointed and broken. I would like to avoid as much as possible the story portion and the anecdotes. If we have to go in detail, it may take three to four years. We cannot afford to spend such a time, in this busy world. If we think of a concept of _vānaprastha_ (वानप्रस्थ, retirement) period, then such a thing is possible, since we can be in continuous _ātmaciṁtana_ (आत्मचिंतन, self introspection) phase without distractions. That is why much of Vedanta is one’s own study. There is nothing like spoon feeding. You can appreciate those states only when you touch them yourselves, in your experimentation. The prescription in Yōgavāsiṣṭha, is to ‘look inside”, that is all!
 
@@ -608,11 +608,11 @@ This is a permitted question in Vedanta. To this, the answer is - following are 
 
 Time is not heavy. It is fine. But, gentle pressures may be there. If the pressure increases, adopt the energy expenditure method of shubha karma. Keep doing any saatvik activity like reading Bhagavad Gita or any other neutral activity. Since chitta is not excited in the process, your “self’ is revealed. Your mind slows down and you expand. Aananda increases. All the duhkha versions are getting purified, becoming thin. Thinning process of all the unruly forces is taking place. He is so soft and not aggressive, not harsh. Even in unreasonable circumstances, he does not react. How much one grows depends upon the intensity of application of these markers for that individual. That also depends upon the stock of vaasanaas he has. Too much of sensitivity of a person also can delay the result of getting clarity in thinking itself. The sloka of Bhagavad Geeta reminds us the same. (B.G.5-18)
 
-विद्या विनय संपन्ने ब्राह्मणे गवि हस्तिनि,
+विद्या विनय संपन्ने ब्राह्मणे गवि हस्तिनि,
 
 शुनि च एव श्वपाकेच पण्डिताः समदर्शिनः.
 
-vidyā vinaya saṁpannē brāhmaṇē gavi hastini
+vidyā vinaya saṁpannē brāhmaṇē gavi hastini
 
 śuni ca ēva śvapākēca paṇḍitāḥ samadarśinaḥ.
 
@@ -1645,7 +1645,7 @@ Shankara repeatedly stresses this point. _Srustou aadharaha na kartavyaha. Param
 
 
 
-## SAPTAPADĀM
+## SAPTA-PADAM
 
 
 (SEVEN DESCENDING STEPS OF IGNORANCE)
@@ -1822,7 +1822,7 @@ prāṇān namō bhagavatē puruśāya tubhyaṁ.
 
 (Dhruva stuti)
 
-(My Lord, I make my prostrations to You. You are the One who has entered into me as my inner soul making me speak. My speech has been dormant all along. You are the One who makes my ears hear, my hands work, my feet walk, my tactile senses to feel, my life to vibrate - all by your Glory, my Lord, who wields Infinite Power.)
+(My Lord, I make my prostrations to You. You are the One who has entered into me as my inner soul making me speak. My speech has been dormant all along. You are the One who makes my ears hear, my hands work, my feet walk, my tactile senses to feel, my life to vibrate - all by your Glory, my Lord, who wields Infinite Power.)
 
 I salute The One who is directing my mind the ultimate centre which is stimulating my vocal organs or vaak, organs of karmendriyaas, organs of action, All are forces acting in different ways.
 
@@ -1947,7 +1947,7 @@ _śāntē bhēdē_ – Then the division of experience and the experienced dies.
 
 
 
-## SAPTA BHŪMIKĀ
+## SAPTA-BHŪMIKĀ
 
 (SEVEN ASCENDING STATES OF WISDOM)
 
@@ -2928,7 +2928,7 @@ Extremely contrary to our conviction, here is a shastra which says that you are 
 ## BHUŚUṆḌŌPĀKHYĀNAM
 
 
-HERE IS A CHAPTER WHICH SHOWS THE GROWTH OF spiritual level until one touches nirvana levels in the path of sadhana or even attain the state of jeevanmukti Jeevanmukti is a concession to the position of nirvana. When a jeevanmukta winds up, whatever is the state of self or soul is nirvana, or liberation, never to get into the cycle of birth and death as sampradaya puts it. Of course I have an extreme view of mukti, being daring and radical. I would say why we should even bother or think about mukti or think of coming out of the cycle of life and death!
+HERE IS A CHAPTER WHICH SHOWS THE GROWTH OF spiritual level until one touches nirvana levels in the path of sadhana or even attain the state of jeevanmukti. Jeevanmukti is a concession to the position of nirvana. When a jeevanmukta winds up, whatever is the state of self or soul is nirvana, or liberation, never to get into the cycle of birth and death as sampradaya puts it. Of course I have an extreme view of mukti, being daring and radical. I would say why we should even bother or think about mukti or think of coming out of the cycle of life and death!
 
 Suppose I am always comfortable with this body with its limitations, a position where there is no reason for me to complain, any time of the day with friends, without friends in ekaanta (solitude or seclusion), in ailments and neglect, with bodily difficulties, no burden of time on me, then why should I think of closing myself? Whatever may be the environment in which one is placed, if one is happy, he is a mukta. This is itself mukti. This is what I want to encourage. Think about this seriously. Do you require mukti in the classic definition way! A special condition of death and no birth situation is called for if one is having a slightest complaint here. Suppose one is very comfortable in this world and is possible for him not to have the end in the classical way and then what is the problem? That was Bhushunda, the crow, who was a Brahmajnaani. We will now try to know a little more. Here is the brief story of Bhushunda as narrated by sage Vasishtha.
 
@@ -3070,18 +3070,18 @@ I will give an example. I have seen in my chemical industry, where a load of 50 
 
 In Bhagavad-Gita also, a mention has been made in the following sloka:
 
-अपाने जुह्वति प्राणं प्राणे अपानं तथा अपरे
+अपाने जुह्वति प्राणं प्राणे अपानं तथा अपरे
 
 प्राण अपान गती रुद्ध्वा प्राणयाम परायणाः.
 
-apānē juhvati prāṇaṁ prāṇē apānaṁ tathā aparē
+apānē juhvati prāṇaṁ prāṇē apānaṁ tathā aparē
 
 prāṇa apāna gatī ruddhvā prāṇāyāma parāyaṇāḥ.
 
 
-(B G 4-29) __ __ 
+(B G 4-29) 
 
-Some offer as sacrifice the outgoing breath, apaana, in the incoming breath, prana, while some others offer the incoming breath into the outgoing breath. Some arduously practice _prāṇāyāma _and restrain the incoming and outgoing breaths, purely absorbed in the regulation of the life-energy
+Some offer as sacrifice the outgoing breath, apaana, in the incoming breath, prana, while some others offer the incoming breath into the outgoing breath. Some arduously practice _prāṇāyāma _and restrain the incoming and outgoing breaths, purely absorbed in the regulation of the life-energy
 
 It is considered as one of the _yajnas_. One is in upward motion and the other downwards. When you surrender one into the other, by slowing down or leisurely then it becomes a yajna. Yajna is any bhoga done with patience, done with reverence or done with piety, यज्ञदृश्टि, _yajñadr̥śṭi_ itself is a _mahaasadhana_ being one of the practices ordained in karmakanda. It is a trick to conquer the unruly forces inside. Every व्रत, _vrata_ one does is a yajna. One is  required to follow restraint to conquer the urges.
 
@@ -3149,7 +3149,7 @@ In _nidrā_, every activity has gone in to that general activity. Each specializ
 
 You may ask me as to my way of sadhana. Sometimes I do diffusion or let go. I also practice pranavidya. If you observe breathing, you will notice that the direction of inward and outward breaths shifts its course. The shift from upward movement to downward movement and vice versa happens almost sudden and quick. One can slow down this shifting by volition by sitting leisurely and by just observing the breath. You will be thereby conquering the forces through pranavyapara. This is the trick I employ. Many people talk very high of this practice. The main content of Bhushunda upakhyana is on pranavidya. Let us know a few general things about prana.
 
-Prana is the vital force that sustains not only the body, but also creation at every level. Prana is not exactly breath; it is a subtle life force energy that pervades the breath of varieties of animate and inanimate objects. And that helps regulate various physiological bodily functions. The Sanskrit word prana_ _is a combination of two syllables, _pra _and _na, _and denotes constancy, a force in constant motion. Prana exists in sentient beings as the energy that drives every action, voluntary and involuntary, every thought, every level of the mind and body. Scientific research describes prana as a complex multidimensional energy: a combination of electrical, magnetic, electro-magnetic, photonic, ocular, thermal and mental energies.
+Prana is the vital force that sustains not only the body, but also creation at every level. Prana is not exactly breath; it is a subtle life force energy that pervades the breath of varieties of animate and inanimate objects. And that helps regulate various physiological bodily functions. The Sanskrit word prana_ _is a combination of two syllables, _pra _and _na, _and denotes constancy, a force in constant motion. Prana exists in sentient beings as the energy that drives every action, voluntary and involuntary, every thought, every level of the mind and body. Scientific research describes prana as a complex multidimensional energy: a combination of electrical, magnetic, electro-magnetic, photonic, ocular, thermal and mental energies.
 
 Prana also exists in the insentient world, causing motion, growth and decay at this level. Prana is, indeed, the basis of manifested creation. It is the force that emerged out of the 'original willing' of the primal consciousness to bring about creation. The Chhandogya Upanishad (1:11:5) says:
 
@@ -3242,31 +3242,31 @@ Bhushunda is talking about the संधिकाल_, saṁdhikāla_, the trans
 
 Lakshman Jha was a very big Kashmiri saadhaka. He was referring to a text called Vijnaana Bhairava Tantra where Parvati was given instructions by Eshvara. It was a very small book containing 112 hints. It is a story where Pavati wanted the tricks to come out of duhkha and Eshvara has accordingly given the techniques. The first four techniques relate to breathing. What we discussed above is reflected there. They are:
 
-ऊर्ध्वे प्राणो ह्यधो जीवो विसर्गात्मा परोच्चरेत्, \
-उत्पत्तिद्वितयस्थाने भरणाद् भरिता स्थितिः. \
+ऊर्ध्वे प्राणो ह्यधो जीवो विसर्गात्मा परोच्चरेत्, \
+उत्पत्तिद्वितयस्थाने भरणाद् भरिता स्थितिः. \
 ūrdhve prāṇo hyadho jīvo visargātmā paroccaret, \
 utpattidvitayasthāne bharaṇād bharitā sthitiḥ.
 
 Radiant One, this experience may dawn between two breaths. After breath comes in (down) and just before turning up (out) or vice versa is the Supreme State. At that moment you are in स्वरूप, _svarūpa_.
 
-मरुतोऽन्तर् बहिर् वापि वियद्युग्मानिवर्तनात्। \
-भैरव्या भैरवस्येत्थम् भैरवि व्यज्यते वपुः॥
+मरुतोऽन्तर् बहिर् वापि वियद्युग्मानिवर्तनात्। \
+भैरव्या भैरवस्येत्थम् भैरवि व्यज्यते वपुः॥
 
 maruto'ntar bahir vāpi viyadyugmānivartanāt, \
 bhairavyā bhairavasyettham bhairavi vyajyatevapuḥ.
 
 As breath turns from down to up, and again as breath curves up to down – through both these turns, realize.
 
-न व्रजेन् न विशेच् चक्तिर् मरुद्रूपा विकासिते, \
-निर्विकल्पतया मध्ये तया भैरवरूपत.
+न व्रजेन् न विशेच् चक्तिर् मरुद्रूपा विकासिते, \
+निर्विकल्पतया मध्ये तया भैरवरूपत.
 
 na vrajen na viśec caktir marudrūpā vikāsite,  \
 nirvikalpatayā madhye tayā bhairavarūpatā.
 
 Or, whenever in-breath and out-breath fuse, at this instant touch the energy-less, energy-filled center.
 
-कुम्भिता रेचिता वापि पूरिता वा यदा भवेत्, \
-तदन्ते शान्तनामासौ शक्त्या शान्तः प्रकाशते.
+कुम्भिता रेचिता वापि पूरिता वा यदा भवेत्, \
+तदन्ते शान्तनामासौ शक्त्या शान्तः प्रकाशते.
 
 kumbhitā recitā vāpi pūritā vā yadā bhavet, \
 tadante śāntanāmāsau śaktyā śāntaḥ prakāśate.
@@ -3487,7 +3487,7 @@ brahmaiva tēna gantavyaṁ brahmakarmasamādhinā.
 
 (B.G.4-24)
 
-Brahman can be attained by one who performs yajna in which the sacrificial instruments, the ghee, the fire, the offerings and the priest (agent) are all Brahman. Such a person is qualified to attain Brahman because he is fully absorbed in karma which is of the same nature as Brahman. The evil forces are the fires. I am the offering person. The bhoga or karma is the havis offered. Casualness is the element of vistarata. Slowness or leisureliness is an element of naidhyanya. We should not injure the system in vedantic sadhana. Indians never thought that bhoga was foul. The cheapness of indulgence and the enslavement in that is the foul element. Minus that, it is brahmasadhana and every vyapara fed to the relative centre gives you brahmasparsha.
+Brahman can be attained by one who performs yajna in which the sacrificial instruments, the ghee, the fire, the offerings and the priest (agent) are all Brahman. Such a person is qualified to attain Brahman because he is fully absorbed in karma which is of the same nature as Brahman. The evil forces are the fires. I am the offering person. The bhoga or karma is the havis offered. Casualness is the element of vistarata. Slowness or leisureliness is an element of naidhyanya. We should not injure the system in vedantic sadhana. Indians never thought that bhoga was foul. The cheapness of indulgence and the enslavement in that is the foul element. Minus that, it is brahmasadhana and every vyapara fed to the relative centre gives you brahmasparsha.
 
 The locked up centre expands. Why did parampara insist on holding things? Because things are done in excess due to the rush to that bhoga which injures the system. Holding is not starvation. Conduct the programme in a gentle way. Rashness in Bhoga is the element of dukha, element of suffering and element of bondage
 
