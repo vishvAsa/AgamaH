@@ -254,7 +254,7 @@ I was explaining the way of understanding _tripuṭi_. _Tripuṭi_ is focusing. 
 
 * Self, therefore, is also just the mere knowing power. Prior to knowing, whatever we are is the Svarūpa. Jñāna is the mere knowing state.
 * By degenerative process, the knowing becomes the known. That is, _Jñāna_ which is mere knowing becomes _jñēya_ – ज्ञेय, the known.
-* This is also termed as _cit_ (चित्) and _cētya_ (चेत्य) – <sub><em>saṁvit</em> <strong>(संवित्) </strong>and <em>saṁvedya</em> <strong>(संवेद्य) </strong>as in </sub>Yōgavāsiṣṭha. _Cit_, which is just the knowing, has become _Cētya_, the known by the degenerative process of focussing into creation. This is how we cognize the world. After position of this focussing is _vastu_ (वस्तु – a thing, an object, a thought, etc.)
+* This is also termed as _cit_ (चित्) and _cētya_ (चेत्य) –  _saṁvit_   __(संवित्)__ and  _saṁvedya_   __(संवेद्य)__ as in Yōgavāsiṣṭha. _Cit_, which is just the knowing, has become _Cētya_, the known by the degenerative process of focussing into creation. This is how we cognize the world. After position of this focussing is _vastu_ (वस्तु – a thing, an object, a thought, etc.)
 * The in-between process or stage of _Cit_ and _Cētya_ is beautifully recognized by Yōgavāsiṣṭha as _cētyōnmukhata_ – चेत्योन्मुखत or vēdyōnmukhata / _vēdanōnmukhata_ - वेद्योन्मुखत / वेदनोन्मुखत – is knowing which is, in the process of becoming known. That is Knowing is in the process of cognition or crystallisation of thought. The result is, you have pictures and sounds and the movements of different intensities. We call it by _nāma, rūpa, karma_ – नाम, रूप, कर्म - name, form, activity.
 
 In most of us the ‘I’ is in the process of cognition or crystallization. If _Cētya_ or cognition has not set in, then whatever you are is the ‘I’ portion. Being in the attentive phase is the ’I’. If you are in that cognizing mood without taking the details of the Jagat, you are in the ‘I’ state. So this I is the creating principle and its creation is the world of objects like pictures, sounds, thoughts, etc. Why not call this as ultimate ‘I’? What is wrong with this ‘I’? This ‘I’ in the attention mood without the resultant formation of object, _dēśasr̥ṣṭi_ or _vastusr̥ṣṭi, देशसृष्टि _or वस्तुसृष्टि, is a burdensome state.
@@ -314,7 +314,7 @@ tasyāśca āgantukatvē kōpapattiḥ?
 
 prayōga upasaṁhāra sāmarthya.
 
-<sub>.</sub>
+.
 
 Rama asks the question to Vasishta: (YV 4-4-32)
 
@@ -399,9 +399,7 @@ Ramana stole money meant for school fees and got his head shaved and threw away 
 ## THE INWARD JOURNEY
 
 
-I
-
-HAVE DRAWN LESSONS FROM YŌGAVĀSIṢṬHA. Whatever is detailed out in the Upanishads is repeated here, as you must have seen by now. It is not possible for me to see anything other than what is in Upanishads. There is a huge repetition. Every second line in Yōgavāsiṣṭha talks about cetya versus cit. Any chapter, any sloka you see it is:
+I HAVE DRAWN LESSONS FROM YŌGAVĀSIṢṬHA. Whatever is detailed out in the Upanishads is repeated here, as you must have seen by now. It is not possible for me to see anything other than what is in Upanishads. There is a huge repetition. Every second line in Yōgavāsiṣṭha talks about cetya versus cit. Any chapter, any sloka you see it is:
 
 चेत्योनुसंधान रहितम् चिन्मात्रम् 
 
@@ -441,7 +439,7 @@ These three lakshanas completely define jagat. One is able to do all the three t
 
 atra dēvaḥ sva mahimānam anubhavati.
 
-<sub>That power in you clearly shows that you are the creator. The sacred stuff you are, you can create! This is the support for Advaita Vedanta. You are creating this complicated jagat with all its intricacies.</sub>
+That power in you clearly shows that you are the creator. The sacred stuff you are, you can create! This is the support for Advaita Vedanta. You are creating this complicated jagat with all its intricacies.
 
 What are we inside? We are _cinmātra_ (चिन्मात्र). Cit can project a universe. Cit which is the predisposition or the pre stuff becomes Cētya, the world of objects, thoughts, etc through the process of Cetyonmukhata. What is it made up of at the ultimate state? We have to infer this by only argument - _nēti nēti_ - नेति नेति - not this, not this etc. Otherwise, how can nothingness produce something? Therefore, by inference you say that, there is some _sattā_ (सत्ता). Sattaa is our svaroopa. When objects, sounds and details are withdrawn, whatever remains is called svaroopa sattaa. Any picture is a collection of points of infinite nature. This is the process by which a picture is created. Cit or Samvit will shrink itself into a point. It localises into a point. Hundreds of such points placed in orderly position, gives you a picture of a river, a house, a tree etc. So this sattaa is the predisposition. This is about creation. But this is a burden. Chandogya Upanishad clarifies that:
 
@@ -505,13 +503,13 @@ dr̥śyadarśanasambandhē sukhasaṁvidanuttamā
 dr̥śya saṁvalitā bandhastanmuktā muktirucyatē.
 
 
-(Y.V.5-9-43)<sup> </sup>[^1]
+(Y.V.5-9-43)
 
 (The bliss that manifests at the contact of sense and the object, if associated with the objects is of the nature of bondage and if dissociated with the objects is liberation)
 
 When you establish a contact with the object of enjoyment and the relevant sense organ whatever happy state you get is sacred. If you always depend on the objects for happiness, then it is bandhana. A saadhaka tries to catch hold of the no mind state created due to energy shift mechanism by the sense object and tries to stay as long as possible. And if you manage to stay happy without dependence on sense objects then it is mukti. You will be cinmaatra. You will be in Samvit.
 
-Drushya –for example let us have a laddoo as the sense object here. Darshana is the tongue – sambandhe – when laddoo comes in contact with tongue being the relevant sense organs, you are very happy. That is the experience of joy. Whatever happy state that is got is sacred – sukha samvit annuttamam. But, if you depend on the laddoo, to get to that state and for maintaining that state, every time, then it is bandhana, a problem. What a saadhaka has to do now? Having got that state of samvit (there is no wandering and focusing). he has to observe that and stay there. Laddoo can wait. Then that is mukti or liberation.This is all the difference between mukti and bandhana. Yōgavāsiṣṭha takes a cue from Upanishads and deals in four stanzas. Tai.Upa.S-B-197)[^2]
+Drushya –for example let us have a laddoo as the sense object here. Darshana is the tongue – sambandhe – when laddoo comes in contact with tongue being the relevant sense organs, you are very happy. That is the experience of joy. Whatever happy state that is got is sacred – sukha samvit annuttamam. But, if you depend on the laddoo, to get to that state and for maintaining that state, every time, then it is bandhana, a problem. What a saadhaka has to do now? Having got that state of samvit (there is no wandering and focusing). he has to observe that and stay there. Laddoo can wait. Then that is mukti or liberation.This is all the difference between mukti and bandhana. Yōgavāsiṣṭha takes a cue from Upanishads and deals in four stanzas. Tai.Upa.S-B-197)
 
 लौकिकोपि आनन्दो ब्रह्मानन्दस्यैव मात्रा.
 
@@ -533,7 +531,7 @@ dr̥śyadarśanasaṁbandhē yānubhūtiranāmayā
 tāmavaṣṭabhya tiṣṭha tvaṁ sauṣuptīṁ bhaja tē sthitim.
 
 
-(Y.V.5-9-44)[^3]
+(Y.V.5-9-44)
 
 (Hold on to the pure experience that manifests at the contact of the sense and the object and remain in that sleep-like state.)
 
@@ -548,7 +546,7 @@ tāmavaṣṭabhya tiṣṭha tvaṁ– after getting that state, hold on to tha
 anēna hi prasiddhēna ānandēna vyāvr̥tta viṣaya buddhi gamya ānandō anugantuṁ śakyatē.
 
 
-(Tai.Upa.SB-197)<sup> </sup>[^4]
+(Tai.Upa.SB-197)
 
 vyāvr̥tta viṣaya buddhi gamya ānandō anugantuṁ śakyatē Through this familiar aananda, minus the bhoga agent, you feel the experience and hold on to that state. You are softer, you are carefree and then you exist also.
 
@@ -557,7 +555,7 @@ vyāvr̥tta viṣaya buddhi gamya ānandō anugantuṁ śakyatē Through this fa
 ētasyaiva ānandasya anyāni bhūtāni mātrāmupajīvanti.
 
 
-(Bru.Upa.4-3-32)[^5]
+(Bru.Upa.4-3-32)
 
 This is from Bruhadaraanyaka Upanishad and Shankara quotes it in support of his argument. By means of this worldly aananda, anybody in this world, the good, the bad – Tom, Dick and Harry – touches that moment of expansive state, his svaroopa. This is to show how Yōgavāsiṣṭha helps us to go deep into that state. There can be layers and layers of expansion or stages of expansion. Scientifically putting, the force of burden on an expanded shell is reduced; force on the unit area of the shell is terribly reduced. As already discussed our shell needs to expand from satta to sattaa saamaanya amd then to sattaa saamaanya koti. In Vedanta also there are levels of retracing from that of Buddhi to Mahat-tatva and to Avyaakruta and finally to Purusha.
 
@@ -567,7 +565,7 @@ In Nidra, vyaapaara or activity has not gone. Specific vyaapaara like talking, s
 
 Look at the mantra recognising this. I concluded that we are in the praana maatra swaroopa. Further study showed me evidences from Upanishads and from Shankara bhaashya. Each one of us has to do research at our own level and for verification we should go to Upanishad. Look at how Chandogya Upanishad (4-3-3) puts it.
 
-स यदा स्वपिति . . प्राणो हि एव एनं सर्वान् संवृङ्क्ते [^6]
+स यदा स्वपिति . . प्राणो हि एव एनं सर्वान् संवृङ्क्ते 
 
 sa yadā svapiti . . prāṇō hi ēva ēnaṁ
 
@@ -604,11 +602,11 @@ tajñasya yanmadana kōpa viṣāda mōha
 lōbhāpadāṁ anudinaṁ nipuṇaṁ tanutvam.
 
 
-(YV-6-14-6)[^7]
+(YV-6-14-6)
 
 This is a permitted question in Vedanta. To this, the answer is - following are the symptoms. Jnaani has no lakshanaas or attributes what so ever. It is very difficult to label a jnani symptomatically. He is just like any other person when one looks at him. But then, in him, madana (sex), kopa (anger), vishaada (depression), Moha (confusion), lobha (greed), etc, aapadaam, these evil forces are thinning out every day. It is not a sudden change. It is a progressive ascent every day. In critical situations and reacting situations, a Jnaani remains utterly calm and balanced. He does not react. That is the growth one has to undergo in saadhana. This is the test, both for you and for others.
 
-Time is not heavy. It is fine. But, gentle pressures may be there. If the pressure increases, adopt the energy expenditure method of shubha karma. Keep doing any saatvik activity like reading Bhagavad Gita or any other neutral activity. Since chitta is not excited in the process, your “self’ is revealed. Your mind slows down and you expand. Aananda increases. All the duhkha versions are getting purified, becoming thin. Thinning process of all the unruly forces is taking place. He is so soft and not aggressive, not harsh. Even in unreasonable circumstances, he does not react. How much one grows depends upon the intensity of application of these markers for that individual. That also depends upon the stock of vaasanaas he has. Too much of sensitivity of a person also can delay the result of getting clarity in thinking itself. The sloka of Bhagavad Geeta reminds us the same. (B.G.5-18)[^8]
+Time is not heavy. It is fine. But, gentle pressures may be there. If the pressure increases, adopt the energy expenditure method of shubha karma. Keep doing any saatvik activity like reading Bhagavad Gita or any other neutral activity. Since chitta is not excited in the process, your “self’ is revealed. Your mind slows down and you expand. Aananda increases. All the duhkha versions are getting purified, becoming thin. Thinning process of all the unruly forces is taking place. He is so soft and not aggressive, not harsh. Even in unreasonable circumstances, he does not react. How much one grows depends upon the intensity of application of these markers for that individual. That also depends upon the stock of vaasanaas he has. Too much of sensitivity of a person also can delay the result of getting clarity in thinking itself. The sloka of Bhagavad Geeta reminds us the same. (B.G.5-18)
 
 विद्या विनय संपन्ने ब्राह्मणे गवि हस्तिनि,
 
@@ -631,7 +629,7 @@ anāsthaiva hi nirvāṇam duḥkhamāsthā parigrahaḥ
 anēnaiva prayatnēna brahma sampadyatē kṣaṇāt.
 
 
-(YV-3-9-39)[^9]
+(YV-3-9-39)
 
 (Absence of craving for pleasure is the state of liberation. Craving is fraught with misery. Through this practice, Brahman is realized immediately)
 
@@ -670,7 +668,7 @@ nahi caṁcalatāhīnaṁ manaḥ kvaca na vidyatē,
 caṁcalatvaṁ manōdharmō vanhērdharmo yathōṣṇatā.
 
 
-(YV.3-9-23)[^10]
+(YV.3-9-23)
 
 Mind without vacillation or fluctuation does not exist. Like heat is inseparable from fire, fluctuation which is the nature of the mind is inseparable from it.
 
@@ -687,7 +685,7 @@ yaiṣā hi caṁcalā spaṁdaśaktiḥ cittatva saṁsthitā,
 tāṁ viddhi mānasīṁśaktiṁ jagadāḍaṁbaratmikām.
 
 
-(Sl.3-9-24)[^11]
+(Sl.3-9-24)
 
 The feature of vacillation is really the spanda shakti. It is the capacity of movement abiding in the chit, consciousness. It is that mental power that is responsible for the spectacle called world.
 
@@ -722,7 +720,7 @@ yadā na līyatē cittaṁ na ca vikṣipyatē punaḥ,
 aniṅganamanābhāsaṁ niṣpannaṁ brahma tattadā. 
 
 
-(Ma.Upa-Ka-4-46)<sup><strong> </strong></sup>[^12]
+(Ma.Upa-Ka-4-46)<sup> __ __ </sup>
 
 When the mind is no more wandering, when it does not seek any more, that mind is verily Brahman. It is either moving or in a state of rest. When it is in movement, we call it as mind and when it is in rest, we call it _Brahman_ or _Svarūpa_. Such a state is further described as _svastham_ (a quietened mind), śāntam (peaceful), _nirvānam_ (liberated), and sukham (a very relaxed state).
 
@@ -772,7 +770,7 @@ yattu caṁcalatāhīnaṁ tanmanō amr̥taṁ ucyatē,
 tadēva ca tapaḥśāstraṁ siddhāntō mōkṣa ucyatē.
 
 
-(Sl.3-9-25)[^13]
+(Sl.3-9-25)
 
 Devoid of or without this fluctuation, the mind ceases to exist and that is one’s state of liberation or immortality or svaroopa. This state is the aim of all kinds of tapas or penance, study of scriptures and spiritual doctrine, etc.
 
@@ -815,7 +813,7 @@ tasya caṁcalatā yaiṣā tvavidyā rāma sa ucyatē,
 vāsanāparanāmnīṁ tāṁ vicārēṇa vināśaya.
 
 
-(Sl.3-9-26)[^14]
+(Sl.3-9-26)
 
 The fluctuating power of the mind is called by several names such as avidya, ignorance, vasana, tendency and others. The flirting mind is no other than the fluctuating Shakti itself. It is this fluctuating potency of the mind that you should destroy through ceaseless Atma-vicara, Self enquiry.
 
@@ -830,7 +828,7 @@ Shastra says that there is an undisputable proof in your nidra stithi and you sh
 अत्र माता अमाता भवति पिता अपिता भवति स्तेनो अस्तेनो भवति भ्रूणहा अभ्रूणहा भवति अनन्वागतं पुण्येन अनन्वागतं पापेन तीर्णो हि तदा सर्वाञ्छोकान्हृदयस्य भवति.
 
 
-(Bru.Upa.4-3-22)[^15]
+(Bru.Upa.4-3-22)
 
 atra mātā amātā bhavati pitā apitā bhavati stēnō astēnō bhavati bhrūṇahā abhrūṇahā bhavati ananvāgataṁ puṇyēna ananvāgataṁ pāpēna tīrṇō hi tadā sarvāñchōkānhr̥dayasya bhavati.
 
@@ -926,7 +924,7 @@ avidyayā vāsanayā tayāntaścittasattayā,
 vilīnayā tyāgavaśātparaṁśrēyaḥ adhigamyatē.
 
 
-(Sl.3-9-27)<sup><strong> </strong></sup>[^16]
+(Sl.3-9-27)<sup> __ __ </sup>
 
 By virtue of renunciation, the avidya which is vaasana, inside the mind stuff gets dissolved thereby resulting in one’s liberation. Having said that one has to clean the mind by vichaara, Sage Vasishta goes on to expand the idea.
 
@@ -949,7 +947,7 @@ yat tat sadasatōrmadhyaṁ yanmadhyaṁ cittajāḍyayoḥ,
 tanmanaḥ prōcyatē rāma dvayadōlāyitākr̥tiḥ.
 
 
-(Sl.3-9-28)[^17]
+(Sl.3-9-28)
 
 Mind is that which is associated with and oscillating between both Cit and jada, that is self and inert matter, is in between Sat and a-sat.
 
@@ -977,7 +975,7 @@ jāḍyānusaṁdhānahr̥taṁ jāḍyātmakayēddhayā,
 cētō jaḍatvamāyāti dhr̥ḍhābhyāsavaśēna hi.
 
 
-(Sl. 3-9-29)[^18]
+(Sl. 3-9-29)
 
 Chit gets corrupted or vitiated and itself becomes inert by prolonged contemplation of the inert matter.
 
@@ -995,7 +993,7 @@ In that state there should be nothing when I am observing an object. I immediate
 
 I have always given that instance of my experiments to some senior sadhakaas only. When I wished to think of a child like Krishna and do the dhaarana, he would remain for long periods in my mind and even move along with me. It became so much that he would even jump on the platform in front of me. This amounted to almost creating stuff. If it were hallucination the object cannot remain for long. This is a case of volition and not helplessness. Suppose it is possible to keep this image for long period it might sometimes become terrifying for you. The mentally created shakti can walk to your house and even talk to you. If the stability of that praana is so powerful then it is possible that you can see the object created by me.
 
-Any stuff that is created should have a main characteristic of impenetrability and should be opaque. That is how shristi happens. I was told that Allama prabhu had that type of creating power. For devataas since it is manodeha sukshmataya karana - creation of mental objects is easy. If this idea is expanded too large, then one can create the jagat itself. (Sl.3-9-30)[^19]
+Any stuff that is created should have a main characteristic of impenetrability and should be opaque. That is how shristi happens. I was told that Allama prabhu had that type of creating power. For devataas since it is manodeha sukshmataya karana - creation of mental objects is easy. If this idea is expanded too large, then one can create the jagat itself. (Sl.3-9-30)
 
 विरोध एक अनुसंधानात् चिदंशात्मतया मनः,
 
@@ -1011,7 +1009,7 @@ _Virōdha ēka anusaṁdhānāt_ – This is what we are required to do as sadha
 
 _cidaṁśātmatayā manaḥ_ - This mid stuff or this attention I is not there inside at all. If you come to a situation where there is no ’I’ at all– then you reach your chit svaroopa,
 
-_cidēkatāṁ upāyāti dr̥ḍhābhyāsavaśādiha_ – If you reverse the process the process which gave you the jaadya and apply it to swaroopa, you become swaroopa maatra. An utter relaxation on your part leads to chinmaatrata. That is why the mid stuff is important. You can spoil yourself and become jada or get back to your source. This was the case with Nisargadutta Maharaj. His Guru told him to hold on to that state. That put him into jnaana swaroopa. It was an extraordinary attainment. Even UGK was like that. This is called Jnaana siddhi. (Sl.3-9-31)[^20]
+_cidēkatāṁ upāyāti dr̥ḍhābhyāsavaśādiha_ – If you reverse the process the process which gave you the jaadya and apply it to swaroopa, you become swaroopa maatra. An utter relaxation on your part leads to chinmaatrata. That is why the mid stuff is important. You can spoil yourself and become jada or get back to your source. This was the case with Nisargadutta Maharaj. His Guru told him to hold on to that state. That put him into jnaana swaroopa. It was an extraordinary attainment. Even UGK was like that. This is called Jnaana siddhi. (Sl.3-9-31)
 
 पौरुषेण प्रयत्नेन तस्मिन्नेव पदे मनः,
 
@@ -1032,7 +1030,7 @@ ataḥ pauruṣamāśritya cittayākramya cētasā,
 viśōkaṁ padamālaṁbya nirātaṁkaḥ sthirō bhava.
 
 
-(Sl.3-9-32)[^21]
+(Sl.3-9-32)
 
 Therefore, by overcoming the mind by the mind, attain to that state untainted by sorrow and remain established in IT.
 
@@ -1049,7 +1047,7 @@ mana ēva samarthaṁ hi manasō dr̥ḍhanigrahē,
 arājā kiṁ samarthaṁ syāt rājñō rāghava nigrahē.
 
 
-(Sl.3-9-33)[^22]
+(Sl.3-9-33)
 
 It is only mind that is capable of decisively vanquishing or conquering the mind as nobody else other than a king is capable of defeating another king.
 
@@ -1066,7 +1064,7 @@ tr̥ṣṇāgrāhya grihītānāṁ saṁsārārṇava pātinām,
 avartairūhyamānānāṁ dūrē saṁ mana ēva sauḥ.
 
 
-(Sl.3-9-34)[^23]
+(Sl.3-9-34)
 
 For those drowned in the ocean of samsaara, caught in the grips of the crocodiles of desires and carried far by the current, one’s mind alone is the boat which can save them.People who are caught up by endless desire and caught up in the vicious circle of bhoga vaasana are completely drowned in the _samsaara saagara_. For such people it is impossible to control the mind.
 
@@ -1075,13 +1073,13 @@ For those drowned in the ocean of samsaara, caught in the grips of the crocodile
 भवादुत्तारयात्मानं नासावन्येन तार्यते. 
 
 
-(Sl.3-9-35)[^24]
+(Sl.3-9-35)
 
 manasaiva manaśchitvā pāśaṁ parama bandhanam,
 
 bhavāduttārayātmānaṁ nāsāvanyēna tāryatē.
 
-You have to cut the mind which is in the form of a tight rope from the mind itself and _bhavāduttārayātmānaṁ_ - lift oneself from this worldly bondage. _nāsāvanyēna tāryatē_ - it is not possible for anybody else other than you to come out of samsaara. This is not possible either by performing a pooja or surrendering to a guru. You must control it yourself. What else can be the suffering except this non stop thinking of so many things which are trivial in nature, yet giving rise to repeated duhkha. When the mind focuses on any subject, immediately a state of fear or anxiety is reached. Then raga and dwesha develops. This leads to a lot of strain. Focusing is a torture, a burden. Moment one changes to a lighter mood, then the burden goes. This is called understanding what misery is. To go after a thing or to run away from a thing is what happens to us generally all the time. So, for survival, every man shifts from a focusing mood to a lighter mood and this facility is available to everyone. (Chandogya upa)[^25]
+You have to cut the mind which is in the form of a tight rope from the mind itself and _bhavāduttārayātmānaṁ_ - lift oneself from this worldly bondage. _nāsāvanyēna tāryatē_ - it is not possible for anybody else other than you to come out of samsaara. This is not possible either by performing a pooja or surrendering to a guru. You must control it yourself. What else can be the suffering except this non stop thinking of so many things which are trivial in nature, yet giving rise to repeated duhkha. When the mind focuses on any subject, immediately a state of fear or anxiety is reached. Then raga and dwesha develops. This leads to a lot of strain. Focusing is a torture, a burden. Moment one changes to a lighter mood, then the burden goes. This is called understanding what misery is. To go after a thing or to run away from a thing is what happens to us generally all the time. So, for survival, every man shifts from a focusing mood to a lighter mood and this facility is available to everyone. (Chandogya upa)
 
 विप्र: दरिद्रशोः सत् संपत्तिः समानानपि,
 
@@ -1102,7 +1100,7 @@ yayōdēti manōnāmnī vāsanāvāsitāntarā,
 tāṁ tāṁ pariharēt prājñaḥ tatōavidyākṣayō bhavēt.
 
 
-(Sl3-9-36)[^26]
+(Sl3-9-36)
 
 Whenever the mind is activated by vasana, counter the vasana. That will destroy avidya.
 
@@ -1119,7 +1117,7 @@ bhōgaikavāsanāṁ tyaktvā tyaja tvaṁ bhēdavāsanam,
 bhāvābhāvau tatastyaktvā nirvikalpaḥ sukhī bhava.
 
 
-(Sl.3-9-37)[^27]
+(Sl.3-9-37)
 
 bhogaikavāsanāṁ tyaktvā - After dropping attractions and pulls towards worldly enjoyments
 
@@ -1157,7 +1155,7 @@ avidyāmānaiva naṣṭaprajñēṣu vidyatē,
 nāmnaiva aṁgīkr̥tākārā samyak prajñasya sā kutaḥ
 
 
-(Sl.3-9-40)[^28]
+(Sl.3-9-40)
 
 _avidyāmānaiva_ – The avidya forces (mind, spandana, shakti, maya, vaasana, etc) that construct the universe do not really exit. Then where do they exit? _naṣṭaprajñēṣu vidyatē _- It is there for those who have forgotten their true nature. Here, we have to forget creation outside and think of creation inside. My thoughts, my emotions are not there when you keep in mind always my ultimate position. There is no mind at all for those who are convinced that they are a non thinking stuff, are _aakashamaatra_, there is no concept of _aham, Idam division(vibhajana), _splitting into ‘I’, this, that, etc.
 
@@ -1184,7 +1182,7 @@ anāsthaiva hi nirvāṇam duḥkhamāsthā parigrahaḥ,
 anēnaiva prayatnēna brahma sampadyatē kṣaṇāt.
 
 
-(Sl.3-9-39)[^29]
+(Sl.3-9-39)
 
 Absence of craving for pleasures is the state of liberation. Craving is fillled with misery. Through this practice Brahman is realised immediately.
 
@@ -1209,7 +1207,7 @@ avidyā yāvat asyāstu na utpannā kṣayakāriṇī,
 svayamātmāvalōkēcchā mōhasaṁkṣayadāyinī.
 
 
- (Sl.3-9-43)[^30]
+ (Sl.3-9-43)
 
 _Svayamātmāvalōkēcchā_ - avidya stays till the urge for self introspection sets in. This urge to stay in self even annihilates the delusion caused by fake identification. Avidya will not go as long the interest to see inside does not arise. This is called _subheccha_ in the _Sapta Bhoomika_. When one gets this inclination all other steps of shravana, manana, etc follows and Vasishtha affirms that liberation is assured.
 
@@ -1222,7 +1220,7 @@ asyāḥ paraṁ prapaśyantyāḥ svātmanāśaḥ prajāyatē,
 dr̥ṣṭē sarvagatē bōdhē svayaṁ hi ēṣā vilīyatē.
 
 
-(Sl.3-9-44)[^31]
+(Sl.3-9-44)
 
 _asyāḥ paraṁ prapaśyantyāḥ svātmanāśaḥ prajāyatē_ – The moment one realizes his true nature, avidya gets destroyed.
 
@@ -1295,7 +1293,7 @@ icchāmātraṁ avidyēyaṁ tannāśō mōkṣa ucyatē,
 sa ca asaṁkalpa śastrēṇa siddhō bhavati rāghava.
 
 
-(Sl.3-9-45)[^32]
+(Sl.3-9-45)
 
 _icchāmātraṁ avidyēyaṁ_ - Here one more definition for avidya is given. To desire is avidya.
 
@@ -1310,7 +1308,7 @@ yadā sarvē pramucyantē kāmā yē asya hr̥di sthitāḥ,
 atha martyaḥ amr̥tōbhavati atra brahma samaśnutē.
 
 
-(Ka.Upa.2-3-14)[^33]
+(Ka.Upa.2-3-14)
 
 When all the kaamanaas or desires in you become zero or subside or become subtle, then you will attain the brahmic state even when you are alive.
 
@@ -1321,7 +1319,7 @@ _sa ca asaṁkalpa śastrēṇa siddhō bhavati rāghava_ - So, to get to that s
 कालिका तनुतामेति चिदादित्य प्रकाशनात्.
 
 
-(Sl.3-9-46)[^34]
+(Sl.3-9-46)
 
 manāgapi manōvyōmni vāsanārajanīkṣayē,
 
@@ -1337,7 +1335,7 @@ The famous Devi Stotra should always be on your mind_. _
 
 या देवी सर्वभूतेषु चेतनेत्यभिधीयते, बुद्धिरूपेण, निद्रारूपेण, चायारूपेण, शक्तिरूपेण, तृष्णारूपेण, भ्रांतिरूपेण......संस्थिते नमस्तस्यै, नमस्तस्यै, नमस्तस्यै नमो नमः.
 
-yā dēvī sarvabhūtēṣu cētanētyabhidhīyatē, buddhirūpēṇa, nidrārūpēṇa, cāyārūpēṇa, śaktirūpēṇa, tr̥ṣṇārūpēṇa, bhrāṁtirūpēṇa......saṁsthitē namastasyai namastsyai namastasyai namō namaḥ.[^35]
+yā dēvī sarvabhūtēṣu cētanētyabhidhīyatē, buddhirūpēṇa, nidrārūpēṇa, cāyārūpēṇa, śaktirūpēṇa, tr̥ṣṇārūpēṇa, bhrāṁtirūpēṇa......saṁsthitē namastasyai namastsyai namastasyai namō namaḥ.
 
 The force of hate that develops in you is more violent than the forces already in you. So we have to reduce the intensity of such forces residing deep in us. The aim is to reach moksha and the pressure that is built up because of that sankalpa is itself a severe one. Vedanta does not classify forces as noble force or ignoble force. The speed with which you go towards the object is the only matter of concern. If you rush to go to a temple, that very rush leads to suffering. It may be a noble thought never the less it is the speed that bothers you.
 
@@ -1356,7 +1354,7 @@ yāvat kiṁcididaṁ dr̥śyaṁ sāvidyā kṣīyatē ca sā,
 ātmabhāvanayā brahmatyātmāsau kīdr̥śaḥ smr̥taḥ.
 
 
-(Sl.3-9-47)[^36]
+(Sl.3-9-47)
 
 _yāvat kiṁcididaṁ dr̥śyaṁsāvidyā_ - Whenever you cognize things, you are in the doing phase and that is avidya.
 
@@ -1367,7 +1365,7 @@ _kṣīyatē ca sāātmabhāvanayā_ - The avidya has to go by repeated remembra
 यत् चित्तत्वमनाख्येयं स आत्मा परमेश्वरः. 
 
 
-(Sl.3-9-48)[^37]
+(Sl.3-9-48)
 
 cētyānupātarahitaṁ sāmānyēna ca sarvagaṁ,
 
@@ -1394,11 +1392,11 @@ nityaṁ cidghanaṁ avyayam,
 kalpanānyā manōnāmnī vidyatē nahi kācana.
 
 
-(Sl.3-9-49)[^38]
+(Sl.3-9-49)
 
 _sarvaṁ ca khalvidaṁ brahma_ - If specialization does not happen then it is Brahman,. In other words the world or any pattern is spandana shakti of Brahman. We can remember Devi Bhagavata here which salutes Brahman vibrating in all kinds of forms wherein there is nothing like superior or inferior, meaning that it is pure spandana. All our problems are to choose and prefer, differentiate between likes and dislikes. Not to cognize is the way of sadhana as per first line of the sloka.
 
-The second way of sadhana is if you have to see at all, then see the ekatwa or pavitrata in everything.That silence in me has another quality. It is dormant power of Self. But, it can manifest itself into activity. Jnaani’s emptiness is not idiot’s emptiness. The silence has immense power available but it is yet not revealed. We have to remember the famous sloka. (B G -3-22)[^39]
+The second way of sadhana is if you have to see at all, then see the ekatwa or pavitrata in everything.That silence in me has another quality. It is dormant power of Self. But, it can manifest itself into activity. Jnaani’s emptiness is not idiot’s emptiness. The silence has immense power available but it is yet not revealed. We have to remember the famous sloka. (B G -3-22)
 
 न मे पार्थास्ति कर्तव्यं त्रिषु लोकेषु किञ्चन। \
 नानवाप्तमवाप्तव्यं वर्त एव च कर्मणि.  \
@@ -1438,7 +1436,7 @@ grahō na tatra nōtsargaściṁtā yatra na vidyatē,
 ātmasaṁsthaṁ tadā jñānamajāti samatāṁ gatam.
 
 
-(Gau.ka.3-38)[^40]
+(Gau.ka.3-38)
 
 _grahaha na tatra utsargaha na ciṁtā yatra na vidyatē_ - Going after things is not there. And, going away from the things is also not there. If there is no grahana or utsarga there will not be any chitta.
 
@@ -1467,7 +1465,7 @@ a jāyatē na mriyatē kiṁcidatra jagatrayē,
 naca bhāva vikārāṇāṁ sattā kvacana vidyatē.
 
 
-(Sl.3-9-50)[^41]
+(Sl.3-9-50)
 
 When you move to that stage, you understand the value of these tools. He will be declaring about the non existence of mind. Mind just comes out of silence and dissolves into that silence. It has no sattaa. That is, the mind has no independent existence. Till now you continuously maintained the existence of mind. With this realisation you become casual with udaasina bhaava and finally even that dies.
 
@@ -1476,7 +1474,7 @@ When you move to that stage, you understand the value of these tools. He will be
 चेत्यानुपातरहितं चिन्मात्रमिहविद्यते. 
 
 
-(Sl.3-9-51)[^42]
+(Sl.3-9-51)
 
 kēvalaṁ kēvalābhāsaṁ sarvasāmānyaṁ akṣayam,
 
@@ -1495,7 +1493,7 @@ tasmin nityē tatēśuddhē cinmātrē nirupadravē,
 śāntē samasamābhōgē nirvikārōdidātmani.
 
 
-(SL.3-9-52)[^43]
+(SL.3-9-52)
 
 Excellent adjectives are given. It is _nitya,_ because it is everlasting. _Śuddha_ - It is pure. _nirupadravē_, means there is no taxing or efforting phase. _śāntē samasamābhōgē_ - peaceful and absolutely steady, without any variation. _Nirvikārōdidātmani_ - in that pure, peaceful and non - efforting phase.
 
@@ -1508,7 +1506,7 @@ yāēṣā svabhāva atigataṁ svayaṁ sankalpya dhāvati,
 cit cētyaṁ svayamamlānā mana nāmna na ucyatē.
 
 
-(Sl.3-9-53)[^44]
+(Sl.3-9-53)
 
 Somehow in that state, thoughts start coming and once thought comes, it becomes mind. Otherwise it is so pure and so effortless, which means ananda. In ananda the labour or toiling of creating is not there. In the normal course, we keep on creating sound and pictures endlessly. That is, creating inside the counterpart of jagat in the form of naama, roopa, karma. So, effortlessness is the principle of ananda. Ananda is non doing and doing is burden. That is why it is said:
 
@@ -1520,7 +1518,7 @@ prapaṁcōpaśamaṁśāntaṁśivaṁ advaitaṁ
 
 caturthaṁ manyantē sa ātmā sa vijñēyaḥ.
 
-(Man.Upa.7)[^45]
+(Man.Upa.7)
 
 _prapaṁcōpaśamaṁśāntaṁśivaṁ advaitaṁ_ - not the outside cognizing, not the inside cognizing as in a dream, not the mere vyaapaara as in ndira. Having given up the three aspects of the prapancha, the world, such a swaroopa has been considered ultimate.
 
@@ -1537,7 +1535,7 @@ Always mind is in the toilsome phase. But it can become less and less toilsome, 
 vibhāga kalpanāśaktiḥ laharīvōthitāmbhasaḥ
 
 
-(Sl.3-9-54)[^46]
+(Sl.3-9-54)
 
 _ētasmāt sarvagatāddēvātsarvaśaktēh_ - He is always powerful in the potential and in the latent way. _mahātmanaḥ _- that great stuff.
 
@@ -1552,7 +1550,7 @@ ataḥ saṁkalpasiddhēyaṁ saṁkalpēnaiva naśyati,
 yēnaiva jātā tēnaiva vanhijvālēva vāyunā.
 
 
-(Sl.3-9-55)[^47]
+(Sl.3-9-55)
 
 Now this is interesting. If this creation is because of the volition/decision or sankalpa of attention and doing, it can also be dissolved by non doing which is the counter sankalpa. It needs to be understood that we are discussing about the inner world and not the outer world. Let us say shraddha is helpful for creation. Atah- therefore
 
@@ -1565,7 +1563,7 @@ Our first ajnnaana is to label ourself as a functioning stuff and the other is, 
 सर्वं ब्रह्मेति संकल्पात् सुदृढात् मुच्यते मनः. 
 
 
-(Sl.3-9-56)[^48]
+(Sl.3-9-56)
 
 nāhaṁ brahmēti saṁkalpāt sudr̥ḍhāt badhyatē manaḥ,
 
@@ -1582,7 +1580,7 @@ _sarvaaṁ brahmēti saṁkalpāt sudr̥ḍhāt mucyatē_ _manaḥ_ On the perip
 इति भावनारूपेण व्यवहारेण बद्धते.
 
 
-(Sl.3-9-57)[^49]
+(Sl.3-9-57)
 
 kr̥̄śaḥ atiduḥkhī baddhaḥ ahaṁ hastapādādimānaham,
 
@@ -1599,7 +1597,7 @@ nāhaṁ duḥkhī na mē dēhō bandhaḥ kasyātmanē sthitaḥ,
 iti bhāvanārūpēṇa vyavahārēṇa mucyatē.
 
 
-(Sl.3-9-58)[^50]
+(Sl.3-9-58)
 
 _nāhaṁ duḥkhī_ - I have no reason to be miserable. I am fine even in my old age and with all the shortcomings and debilities, I need not suffer. I am always happy. This type of attitude and argument gets you peace. I am not the body. Where is the bondage for the ‘Soul’? If the ‘I’ thought goes, all other things disappear. I need not suffer means that I can drop my thinking ‘I’ also. A residue may remain, that is permitted. Apart from the participating ‘I’,if the minding ‘I’, the focusing ‘I’or watching ‘I’ is not there, even the residue gets dropped. If you do not encourage the thoughts the watching ‘I’ gets dropped. If watching I is not there the thoughts are also not there. So, one has to drop the thoughts. Vasishtha declares that there are three ways of touching or reaching the origin:
 
@@ -1609,7 +1607,7 @@ _nāhaṁ duḥkhī_ - I have no reason to be miserable. I am fine even in my ol
 
 3. Ultimately he says drop both _sarva kartutwa, akartutwa_. _Akartr̥tvaṁ_ is, taking a stand that I am not the doer of all this. _Sarva kartr̥taṁ_ - Everything is pure. Everything is His power.
 
-Vasishta puts arguments for the three methods. Suddenly he suggests Rama to drop all these methods once for all and be steady in Self. (Y.V.4-5-14)<sup> </sup>[^51]
+Vasishta puts arguments for the three methods. Suddenly he suggests Rama to drop all these methods once for all and be steady in Self. (Y.V.4-5-14)
 
 अथवा सर्व कर्तृत्वं अकर्तृत्वं च राघव,
 
@@ -1659,9 +1657,7 @@ After a detailed account on the play and control of the mind, sage Vasishta expl
 - EDITOR
 
 
-L
-
-ET US NOW GO INTO DETAILS AS TO WHAT SAGE Vasishta says on seven descending steps of ignorance or ajnaana.
+LET US NOW GO INTO DETAILS AS TO WHAT SAGE Vasishta says on seven descending steps of ignorance or ajnaana.
 
 अतः परं प्रवक्ष्यामि शृणु राम यथातथम्,
 
@@ -1672,7 +1668,7 @@ ataḥ paraṁ pravakṣyāmi śr̥ṇu rāma yathātatham,
 ajñānabhūḥ saptapadā jñabhūḥ saptapadaiva hi.
 
 
-(Sl.3-9-89)[^52]
+(Sl.3-9-89)
 
 He is now giving a model. ajnaana can be considered in seven steps. Similarly jnaana can also be considered in seven steps. This is a famous chapter in Yogavasishta which most of the people quote. Jnana till moksha is considered in seven steps. Similarly ajnaana can also be conceived in seven layers.
 
@@ -1685,7 +1681,7 @@ padāntarāṇi asaṁkhyāni bhavanti anyōnyamētayōḥ,
 ētē pratipadaṁ baddhamūlē svaṁ phalataḥ phalam.
 
 
-(Y.V.3-9-90)[^53]
+(Y.V.3-9-90)
 
 _bhavanti anyōnyamētayōḥ_ - There can be any number of steps till the end point. A mile is having 8 furlongs. This is not final. A furlong can be divided into yards, feet, etc. _padāntarāṇi asaṁkhyāni_ – In between levels or grades, there can be many sub divisions. We often go by definitions and get caught in the definitions. For example, gunas are divided into three main divisions. But, Satva guna itself can further be sub divided into three levels. There is Ga (gandhaara) in music scale which can be sub divided in to slightly higher and lower levels in the scale. There is no rigidity in these sub divisions.
 
@@ -1704,7 +1700,7 @@ svarūpa avasthitiḥ muktiḥ tadbhraṁśōhantvavēdanam,
 ētatsaṁkṣipya tatprōktaṁ tat jñātva jñatvalakṣaṇam.
 
 
-(Sl.3-9-91)[^54]
+(Sl.3-9-91)
 
 He starts showing the steps of avidya.
 
@@ -1725,7 +1721,7 @@ yanmanasā na manutē ēnāhurmanō matam,
 tadēva brahma tvaṁ viddhi nēdaṁ yadidamupāsatē.
 
 
-(Kena.Upa.1-6)[^55]
+(Kena.Upa.1-6)
 
 What cannot be conceived or cognized by the mind is svaroopa. What is it? Whatever you are before you start functioning or conceiving. It is the power by which mind functions. That is Brahman. Brahman cannot be worshipped or meditated by mind. Vishaalata or expansiveness got lost when the mind starts seeing. All indriya vyapaaraas, activities are just matters of focusing. All the activities of sense organs are doing in a specialized respective way. Non doing is therefore Brahman.
 
@@ -1746,7 +1742,7 @@ Bulk of you can be in the diffused way or resting when you are focusing. Then it
 rāgadvēṣādayō bhāvāstēṣāṁ nājñatvasaṁbhavaḥ.
 
 
- (Sl.3-9-92)[^56]
+ (Sl.3-9-92)
 
 _śuddhasanmātra saṁvittēḥ svarūpānna calaṁti yē_ – To whom this mereness or non focussing has become steady or those who do not get disturbed from svaroopa they do not fall from that state. He will never be an ajnaani. Raga and dvesha, attraction and repulsion do not bind him.
 
@@ -1761,7 +1757,7 @@ yat svarūpa paribhraṁśaḥ cētyārthacitimajjanam,
 ētasmāt aparō mōhō na bhūtō na bhaviṣyati.
 
 
-(Sl.3-9-93)[^57] 
+(Sl.3-9-93) 
 
 Cit becoming cētya is known as _svarūpa paribhraṁśaḥ_. When chit starts to see objects then it is cētya. Cit becomes cētya on its own. Reminds one of the Upanishad mantra - _tadeva anupravishat_. That is the theme here. In one section of Vedanta it is said that if I see an object it amounts to creation. But, the object is already there and hence how that is created? In a more subtle way or in a cleverer way I can say that the moment I see the object I become that. That is, I vibrate in resonance. But, the object is already there. Focussing mechanism or localizing mechanism is involved in creation. In mukti or liberation de-localisation or diffusing mechanism is involved. In creation the fastness is brought in. In the path to upashanti or tranquility slowness is brought in.
 
@@ -1774,7 +1770,7 @@ arthādarthāntaraṁ cittē yāti madhyē tu yā sthitiḥ.
 nirastamananākārā svarūpasthitiṁ ucyatē.
 
 
-(Sl.3-9-94)[^58]
+(Sl.3-9-94)
 
 _ardhāt arthāntaraṁ cittē yāti madhyē tu yā sthitiḥ._ – The state between two objects of grasping in the mind is _nirastamananākārā_ – if there will be nothing or no object to focus upon._svarūpasthitiṁ ucyatē_ – that is recognised or verily called svaroopa sthiti. It is the state of _chintanarahitya_, absence of thoughts or _a-sankalpa sthiti_, absence of desires.You have invited one picture. Then you are inviting another picture. Between the two what was the mind? After the elimination of one picture and before the arrival of the next picture what were you? That is Swaroopa or Self. Between one thought and another thought there is a silent gap. You do the inquiry there. That gap is Swaroopa. When you tone down the chetyonmukhata the gap becomes very soft.
 
@@ -1791,7 +1787,7 @@ nivr̥ttasya apravr̥ttasya niścalā hi tadā sthitiḥ,
 viṣayaḥ sa hi buddhānāṁ tatsāmyamajamadvayam.
 
 
-(Ma Upa., Gau.Ka.4-80)[^59]
+(Ma Upa., Gau.Ka.4-80)
 
 Chitta will be without any movement between two thoughts. What is so big about it? That is the transacting region of all yogis and jnanis. All jnaanis hover around that place and remain in the advaya stage. This is a mahaavaakya for saadhana. One has to constantly look out for the gap between two thoughts. Every saadhaka’s goal should be that.
 
@@ -1824,7 +1820,7 @@ anyāṁśca hasta caraṇa śravaṇa tvagādhīn
 prāṇān namō bhagavatē puruśāya tubhyaṁ.
 
 
-(Dhruva stuti)[^60]
+(Dhruva stuti)
 
 (My Lord, I make my prostrations to You. You are the One who has entered into me as my inner soul making me speak. My speech has been dormant all along. You are the One who makes my ears hear, my hands work, my feet walk, my tactile senses to feel, my life to vibrate - all by your Glory, my Lord, who wields Infinite Power.)
 
@@ -1855,7 +1851,7 @@ saṁśānta sarva saṁkalpā yā śilāvat avsthtiḥ,
 jāḍyanidrā vinirmuktā sā svarūpa sthitiḥ smr̥tā.
 
 
-(Sl.3-9-95)[^61]
+(Sl.3-9-95)
 
 (The state in which all the desires have become extinct, in which one remains motionless like stone, in which one is free from inertness of sleep or dream, is known as the state of abidance in Consciousness.)
 
@@ -1924,7 +1920,7 @@ labdhvā cāparaṁ lābhaṁ manyatē nādhikaṁ tataḥ,
 yasminsthitō na duḥkhēna guruṇāpi vicālyatē.
 
 
-(BG..6-20,21,22)[^62]
+(BG..6-20,21,22)
 
 (In the stage of perfection called trance, or samadhi, one’s mind is completely restrained from material mental activities by practice of yoga. This perfection is characterized by one’s ability to experience the self by the pure mind and to relish and rejoice in the self. In that joyous state, one is situated in boundless transcendental happiness, realized through transcendental senses. Established thus, one never departs from the truth, and upon gaining this he thinks there is no greater gain. Being situated in such a position, one is never shaken, even in the midst of greatest difficulty. This indeed is actual freedom from all miseries arising from material contact.)
 
@@ -1939,7 +1935,7 @@ ahantāṁśēkṣatē śāntē bhēdē niṣpandacittatā,
 ajaḍā yā prakacati tatsvarūpamiti sthitam.
 
 
-(SL.3-9-96)[^63]
+(SL.3-9-96)
 
 (When the ‘I’ notion has been erased and when the duality has been got rid of by the restraint of the mind, the illumining consciousness that manifests is known as Self.)
 
@@ -1956,9 +1952,7 @@ _śāntē bhēdē_ – Then the division of experience and the experienced dies.
 (SEVEN ASCENDING STATES OF WISDOM)
 
 
-A
-
-FTER GIVING DETAILED ACCOUNT OF SWAROOPA IN different ways Yogavasishta takes up the discussion on the aspect of sapta bhoomika, the seven steps or stages of evolvement of a peson. We will try to know about these seven steps in the path of yoga sadhana or svaroopa praapti, knowing ourselves. How these steps can be identified and adopted in the process of saadhana is the subject matter of discussion.
+AFTER GIVING DETAILED ACCOUNT OF SWAROOPA IN different ways Yogavasishta takes up the discussion on the aspect of sapta bhoomika, the seven steps or stages of evolvement of a peson. We will try to know about these seven steps in the path of yoga sadhana or svaroopa praapti, knowing ourselves. How these steps can be identified and adopted in the process of saadhana is the subject matter of discussion.
 
 इमां सप्तपदां ज्ञानभूमिं आकर्णय अनघ,
 
@@ -1969,7 +1963,7 @@ imāṁ saptapadāṁ jñānabhūmiṁ ākarṇaya anagha,
 nānayā jñātayā bhūyō mōhapaṁkē nimajjati.
 
 
-(3-9-110)[^64]
+(3-9-110)
 
 _imāṁ saptapadāṁ jñānabhūmiṁ ākarṇaya anagha_ - Oh Rama listen to these seven steps that lead to jnaana praapti. _anayā jñātayā bhūyō mōhapaṁkē nimajjati na_ - By this you will get the clarity and confidence that you will not fall into the path of moha or delusion again.
 
@@ -1982,7 +1976,7 @@ vadanti bahu bhēdēna jñāninā yōgabhūmikāḥ,
 mamaḥ svabhimatā nūnamimā ēva sukhapradāḥ.
 
 
-(SL.3-9-111)[^65] 
+(SL.3-9-111) 
 
 These steps have been told by many people in different ways in the sampradaaya. Many schools have different paths all of which are duly accepted by others. Here Vasistha accepts the variety. He says that, he prefers these steps which are capable of giving happiness.
 
@@ -1995,7 +1989,7 @@ avabōdhaṁ vidurjñānaṁ tadidaṁ sāptabhūmikam,
 muktustu jñēyamityuktā bhūmikā bhūmikāntarē.
 
 
-(SL.3-9-112)[^66] 
+(SL.3-9-112) 
 
 _avabōdhaṁ vidurjñaanaṁ_ - Learned people have taught ways to understand Brahman. _tadidaṁ sāptabhūmikam _– This develops in seven steps.These seven steps lead to mukti as per sampradaya. In another method there are eight steps.
 
@@ -2008,7 +2002,7 @@ jñānabhūmiḥ śubhēcchākhyā prathamā samudāhyatā,
 vicāraṇā dvitīyā tu tr̥tīyā tanumānasā.
 
 
-(Sl.3-9-113)[^67]
+(Sl.3-9-113)
 
 सत्वापत्तिश्चतुर्थी स्यात्ततो संसक्तिनामिका,
 
@@ -2019,7 +2013,7 @@ satvāpattiścaturthī syāttatō saṁsaktināmikā,
 padārthābhāvanīṣaṣṭhī saptamī turyagā smr̥tā.
 
 
-(Sl.3-9-114)[^68]
+(Sl.3-9-114)
 
 Shubheccha is the name of the first step.
 
@@ -2044,7 +2038,7 @@ Seventh is called TURIYA
 ētāsāṁ bhūmikānāṁ tvamidaṁ nirvacanaṁ śr̥ṇu,
 
 
-(Sl.115)[^69]
+(Sl.115)
 
 After the seven bhoomikaas there is mukti. One who touches that state does not return to samsaara. There is no further conceiving for him. It is a non doing wakeful state. Rama, I will now elaborate these states which please listen.
 
@@ -2061,7 +2055,7 @@ kiṁ mūḍhaiva tiṣṭhāmi prēkṣē ahśāstra sajjanaiḥ,
 vairāgyapūramicchēti śubhēcchā iti ucyatē budhaiḥ.
 
 
-(Sl.116)[^70]
+(Sl.116)
 
 (Why do I remain a stupid person? Let me try to know the Self with the help of scriptures and wise persons. When such a resolve is made and is associated with vairagya detachment, that is the plane called subheccha desire for beatitude)
 
@@ -2079,7 +2073,7 @@ Psychiatry only suggests sedation when vairagya sets in and there is no answer t
 
 यॊगरतो वा भोगरतो वा संगरतो वा संगविहीनः,
 
-यस्य ब्रह्मणि रमते चित्तं नन्दति नन्दति नन्दत्येव. [^71]
+यस्य ब्रह्मणि रमते चित्तं नन्दति नन्दति नन्दत्येव. 
 
 yogaratōvā bhōgaratō vā saṁgaratō vā saṁgavihīnaḥ,
 
@@ -2102,7 +2096,7 @@ It is also said that Mukti is assured for a person who has gone in to the first 
 sadācāra pravr̥ttiryā prōcyatē sā vicāraṇā.
 
 
-(Sl.117)[^72]
+(Sl.117)
 
 Investigation is the next stage. With the help of shastra and learned people one develops vairaagya. The most important is the _sadaachaara pravrutti, _bent of mind to follow right path, which can be called as _dharma-anushstaana_ and control of indriya. After one gets shubheccha the investigation should not be done rashly or without any controls. Dharma is indriyanigraha, controlling the senses.
 
@@ -2118,7 +2112,7 @@ taddharmaha sarva dharmāṇāṁ sa dharma para ucyatē.
 
 It is the nobler dharma of all other dharmas. This means that indriya nigraha itself is dharma. And is taken as _para-dharma_ or dharma of all dharmas. The same thought is reflected in Shankara bhashya on Bhruguvalli as to how Brahman is attained.
 
-एवं तपसा विशुद्धात्मा प्राणादिषु साकल्येन ब्रह्म लक्षणं अपश्यन् शनैः शनैः अंतः अनुप्रविश्य अंतरतमं आनंदं ब्रह्म विज्ञातवान् तपसैव साधनेन भृगुः.                       (Tai.Upa.SB – 235)[^73]
+एवं तपसा विशुद्धात्मा प्राणादिषु साकल्येन ब्रह्म लक्षणं अपश्यन् शनैः शनैः अंतः अनुप्रविश्य अंतरतमं आनंदं ब्रह्म विज्ञातवान् तपसैव साधनेन भृगुः.                       (Tai.Upa.SB – 235)
 
 ēvaṁ tapasā viśuddhātmā prāṇādiṣu sākalyēna brahma lakṣaṇaṁ apaśyan śanaiḥ śanaiḥ aṁtaḥ anupraviśya aṁtaratamaṁ ānaṁdaṁ brahma vijñātavān tapasaiva sādhanēna bhr̥guḥ.
 
@@ -2126,7 +2120,7 @@ Bhrugu realised through tapas that ananda itself is Brahman by way of negating a
 
 प्राणाश्चलन्तु तद्धर्मैः कामैद्वा हन्यतां मनः,
 
-आनन्द बुद्धिपूर्णस्य न मे किंचित् भविष्यति.[^74]
+आनन्द बुद्धिपूर्णस्य न मे किंचित् भविष्यति.
 
 prāṇāścalantu taddharmaiḥ kāmaidvā hanyatāṁ manaḥ,
 
@@ -2158,11 +2152,11 @@ _sadācāra pravr̥ttiryā prōcyatē sā vicāraṇā_ - Contact with the text 
 
 सर्व सामग्र्यहीनापि तीक्ष्णप्रज्ञा यदि भवति.
 
-sarva sāmagryahīnāpi tīkṣṇaprajñā yadi bhavati.[^75]
+sarva sāmagryahīnāpi tīkṣṇaprajñā yadi bhavati.
 
 If the urge is there terribly and if the intellect is there to grasp the substitutes, you can go ahead. Without these eligibility factors and qualifications if a student is truely earnest and has the capacity to do atamapariksha then he can go ahead. This is an unusual exception given. But, one needs to follow sadaachara. You cannot take liberty with life conduct.
 
-Shbheccha is just change of direction, whereas, vicharana is the most important step. In my view, the best way of vichaarana is to proceed in the following lines which was enunciated by Chudala to Shikhdhwaja. (Y.V. 6-9-252)[^76]
+Shbheccha is just change of direction, whereas, vicharana is the most important step. In my view, the best way of vichaarana is to proceed in the following lines which was enunciated by Chudala to Shikhdhwaja. (Y.V. 6-9-252)
 
 कोहं। कथमिदं जातं।
 
@@ -2189,7 +2183,7 @@ _Kathaṁ śāmyati vētti bhō?_ - Tell me how this world subsides?
 Kathaṁ bandhaḥ kathaṁ mōkṣaḥ?
 
 
-(Y.V. 6-9-253)[^77]
+(Y.V. 6-9-253)
 
 What is this suffering? What is this helplessness? What is the solution? What is liberation?
 
@@ -2210,7 +2204,7 @@ Sādhūnāṁ sama-dr̥ṣṭīnāṁ paripraśnēna sēvayā,
 saṁṅgamēna ca sā yuktiḥ labhatē mucyatē yayā.
 
 
-(Y.V.6-9-254)[^78] 
+(Y.V.6-9-254) 
 
 It is not that the teacher gives some magic wand and the problem is solved or the teacher gives some blessing by which the solution is in sight. None of such things is quoted anywhere in _vedāntic_ texts. What does the teacher give you by way of _parihāra _(solution)? He gives you a style of logic, a line of investigation, a line of thinking by which your doubts are cleared. You don’t have to accept the teacher even. He gives you a fresh direction of investigation the result of which is an answer to the problem. That is what precisely _Vedānta_ does. You don’t have to accept anything. The student can argue with the teacher. This is what we saw earlier in the case of the post doctoral student who did not agree with his teacher and posed serious doubts. It is not possible to understand _Vedānta_ by listening to a lecture, but by repeated introspection and clarifying the doubts that arise in the mind - by one to one dialogue - by cross questioning the teacher - sometimes not agreeing to what he says and expressing freely one’s own point of view. In my case itself, I could get out of the torture in matter of moments on accidentally coming across the following sloka on my uncle’s suggestion.
 
@@ -2223,7 +2217,7 @@ Dvitva-ēkatva-dr̥śau cittaṁ tat-ēva-ajñānam- ucyatē,
 ētayōryō layō dr̥ṣṭayō-tat-jñānaṁ sā parā gatiḥ.
 
 
-(Y.V.6-9-418)[^79]
+(Y.V.6-9-418)
 
 That itself is ignorance if either the mind cognises several objects at a time or concentrates on one object only. If both these modes of the mind dissolve then that is the highest exalted state.
 
@@ -2240,7 +2234,7 @@ vicāraṇā śubhēcchābhyāṁ indriyārthēṣu araktatā,
 yatr sā tanutābhāvātprōcyatē tanumānasā.
 
 
-(Sl.3-9-118)[^80]
+(Sl.3-9-118)
 
 When after these two states are fully developed in him, he abandons the natural desires and his mind is concentrated on one object at its will, then it (the mind) is rendered lean like Tanu (fine thread) and the third stage is reached, On realizing that ananda or happiness is not there in the mundane, worldly things one develops detachment, He starts his journey towards eternal happiness. In the third stage softening of mind takes place and gets into soft state. At this stage itself 50% of duhkha would have gone and equal amount of sukha would have come. An average person frets and fumes, gets confused and confuses others, he gets upset and upsets others. The mind of a person who is in this stage is a governed or half controlled mind. Bhoga is not totally dropped. But it is_, tanu manasa_ – mind has become thinner, softer, gentler.
 
@@ -2259,7 +2253,7 @@ bhūmikā tritayābhyāsāt cittārthaviratēvaṣāt,
 satvātmani sthitiḥśuddhē satvāpattirudāhr̥tā.
 
 
-(Sl.3-9-119)[^81]
+(Sl.3-9-119)
 
 All desires being eliminated from the mind through the above three processes, Tatwa Jnana is developed and this is the fourth state of Truth.
 
@@ -2276,7 +2270,7 @@ daśā catuṣṭayābhyāsāt asamsargaphalāya ca,
 rūḍhasatvacamatkārā prōktā asaṁsakti nāmikā.
 
 
-(Sl.3-9-120)[^82]
+(Sl.3-9-120)
 
 Beyond these is the fifth state when he disconnects himself from all Sankalpas by merging into the blissful enjoyment of true Jnana without association with objects.Where the aasakti is gone.
 
@@ -2287,7 +2281,7 @@ _asamshaktii naamika _- Lack of interest in the transactions or the vairagya sth
 अभ्यंतराणां बाह्यानां पदार्थानां अभावनात्.
 
 
-(Sl,3-9-121)[^83]
+(Sl,3-9-121)
 
 bhūmikā paṁcaka abhyāsātvāt ātmārāmatayā dr̥ḍham,
 
@@ -2320,9 +2314,7 @@ As aforesaid, the first three planes belong to the realm of sadhana. In the four
 ## PRAHLĀDŌPĀKHYĀNAM
 
 
-W
-
-E WILL TAKE UP A CHAPTER FROM UPASHAMA prakarana from Yōgavāsiṣṭha for our discussion and deliberate. The chapter is that of Prahlada.The purpose of our study is limited to the saadhana part and we are not interested in the story as such. How the text deliberates on the aspect of liberation and search for ‘Self’ is more important.
+WE WILL TAKE UP A CHAPTER FROM UPASHAMA prakarana from Yōgavāsiṣṭha for our discussion and deliberate. The chapter is that of Prahlada.The purpose of our study is limited to the saadhana part and we are not interested in the story as such. How the text deliberates on the aspect of liberation and search for ‘Self’ is more important.
 
 There is an interesting story of Prahlaada who is an established Vishnu bhakta and his bhakti, devotion was of that order that whenever he thought of the Lord, the Lord would appear before him. He notices that his mind is absolutely at peace and serene during the hours of worship. Subsequent to this he observes that his mind getting unsettled – किंचित् डोलायितम् मनः - kiṁcit ḍōlāyitam manaḥ, mind is disturbed a little. Although he is fine and peaceful, there is still unrest in some corner of the mind. There is an oscillation and he tries to ask his Master Vishnu for a solution. He was having doubts about mystery of creation. Even devotion to God cannot give us paramaśānti – परमशान्ति, eternal bliss as there is some mystery which does not get solved. In the blank hours after pooja, he starts thinking about this status as what is “he”? What is the purpose or goal of this life? Such questions come to all of us. Imagine the plight of a सात्विक् - sātvik, a pious man, who is unable to solve doubts about the aspect of creation during his leisure hours.
 
@@ -2337,7 +2329,7 @@ sarvasaṁbhramasaṁśāntyai paramāya phalāya ca
 brahmaviśrāntiparyaṁtōvicārōstu tavānagha.
 
 
-(YV.5-4-49)[^84]
+(YV.5-4-49)
 
 (The Lord said, “O fearless soul, that which puts an end to all delusions ,that which confers on one, the supreme good, is attainable only through enquiry which culminates in the experience of oneness with Brahman and let this kind of enquiry manifest in you”)
 
@@ -2352,7 +2344,7 @@ padmāsana sthitaḥ api mudā hyupaviṣṭhaḥ adharāsanē
 stōtrapāṭhavidhiprāntē ciṁtayāmāsa ciṁtayā.
 
 
-(Sl.5-4-52)[^85]
+(Sl.5-4-52)
 
 The Lord had commanded me to continually be engaged in enquiry. Hence, I shall engage myself in enquiry into the self. After Vishnu’s departure Prahlada sits in comfortable seat and starts investigation during the stotra pathana hours or during pooja. Muda is a significant word here which has to be noted.
 
@@ -2367,7 +2359,7 @@ kimahaṁ tāvadēva syāṁ yaḥ asminbhuvanaḍambarē
 vacmi gacchāmi tiṣṭhāmi prayatē viharāmi ca.
 
 
-(Sl.5-4-54)[^86]
+(Sl.5-4-54)
 
 (What indeed am I, who in this worldly drama speaks, goes, stands, exerts and plays about?)
 
@@ -2382,7 +2374,7 @@ jagattāvadidaṁ nāhaṁ savr̥kṣatr̥ṇavīrudham,
 yadbāhyaṁ jaḍamatyantaṁ tatsyāṁ kathamahaṁ kila.
 
 
-(Sl.5-4-55)[^87]
+(Sl.5-4-55)
 
 (This world, comprising of trees, mountains, grass, etc., is not myself. How can I be that which is exterior and insentient?)
 
@@ -2399,7 +2391,7 @@ tatsyāṁ kathamahaṁ kila - Why I am not this? It is because they are jada �
 kālēnālpēna vilayau dēhō nāhamacētanaḥ.
 
 
-(Sl.5-4-56)[^88]
+(Sl.5-4-56)
 
 (I am not the inert body which has manifested through the action of vayu and which gets destroyed in a short period of time.)
 
@@ -2416,7 +2408,7 @@ jaḍāya karṇaśaṣkulyā kalpamānaḥ kṣaṇasthayā,
 śūnyākr̥tiḥśūnyabhavaḥśabdō nāhamacētanaḥ.
 
 
-(Sl.5-4-57)[^89]
+(Sl.5-4-57)
 
 (I am not the inert sound which is perceived by the organ of ear momentarily which is of the nature of void and which arises from void.)
 
@@ -2435,7 +2427,7 @@ tvacā kṣaṇavināśinyā prāpyō aprāpyō ayamanyathā,
 citprasādōpalabdhātmā sparśō nāhamacētanaḥ.
 
 
-(Sl.5-4-58)[^90]
+(Sl.5-4-58)
 
 I am not the sense or experience of touch, which is also momentary and which is able to function only on account of the infinite consciousness.
 
@@ -2450,7 +2442,7 @@ labdhātmā jihvayā tucchō lōlakṣṇikasattayā,
 svalpaspaṁdō dravvyaniṣṭhō rasō nāhamacētanaḥ.
 
 
-(Sl.5-4-59)[^91]
+(Sl.5-4-59)
 
 Nor am I the sense of taste based on the ever changing and restless tongue ever devoted to its objects.After sparsha, coming to rasa, sense of taste, it is unsteady. It means, a taste relished and you drop it. It has a dropping quality. So it is chanchala – wavering. It depends upon the taste carrying substance. So I am not the rasa.
 
@@ -2463,7 +2455,7 @@ dr̥śyadarśayōrlīnaṁ kṣayikṣaṇavināśinōḥ,
 kēvalēdraṣṭhari kṣīṇaṁ rūpaṁ nāhamacētanam.
 
 
-(Sl.5-4-60)[^92]
+(Sl.5-4-60)
 
 I am not the sense of sight (or form) which too is momentary and which is absorbed into the seer.
 
@@ -2478,7 +2470,7 @@ nāsayā gandhajaḍayā kṣayiṇā parikalpitaḥ,
 pēlavō niyatākārō gandhō nāhamacētanaḥ.
 
 
-(Sl.5-4-61)[^93]
+(Sl.5-4-61)
 
 Nor am I the sense of smell, which is an imaginary creation of the nose and which has an indeterminate form. I am not the smell either by the same argument.
 
@@ -2491,7 +2483,7 @@ nirmamōmananaḥ śāntō gatapaṁcēdriyabhramaḥ,
 śuddhacētana ēvāhaṁ kalākalana varjitaḥ.
 
 
-(Sl.5-4-62)[^94]
+(Sl.5-4-62)
 
 (I am indeed pure consciousness, bereft of the illusory five sense-perceptions, without the notion ‘mine’, without mentation, conception and imagination.)
 
@@ -2499,7 +2491,7 @@ Hence, I am devoid of all these imaginary qualities. I have nothing whatsoever t
 
 I am minus of the activities of roopa, rasa etc. When one penetrates to see what is thinking, it is replica of the indriya vyaapaara inside. Thinking is nothing but shabda formation or drushya formation. It is only inner talking or inviting pictures. Whatever the bahir indriyas or sense organs do in the world outside, if it is done inside, it is मनोव्यापार, manōvyāpāra. So it is nothing but इन्द्रियव्यापार, indriyavyāpāra, without the aid of the indriyaas. A duplicate, a replica, a सूक्ष्म, sūkṣma, subtle version, also called as तन्मात्रा, tanmātrā, (mind is indriyatanmatra), a subtler version of the pancha jnaanendriyas (sense organs), which the body is provided with.
 
-nirmamōmananaḥ śāntō – a peaceful state without activities. Just because pictures have vanished, you are still not at peace, since the tendency of the urge to know, keeps us haunting all the time. The urge to do any activity is chetyonmukhata. That is the main suffering inside. One is in the questioning mood, the searching mood most of the time. We keep on searching. That is the subtlest version of human suffering which is chetyonmukhata. If you can recognise it and drop the folly then it is MUKTI (liberation). Absolutely effortless and no toiling state is aananda. Dukha is efforting, labouring and toiling. Vyaapaara is duhkha. Minus that is aananda. It is as simple as that. (Sl.5-4-63)[^95]
+nirmamōmananaḥ śāntō – a peaceful state without activities. Just because pictures have vanished, you are still not at peace, since the tendency of the urge to know, keeps us haunting all the time. The urge to do any activity is chetyonmukhata. That is the main suffering inside. One is in the questioning mood, the searching mood most of the time. We keep on searching. That is the subtlest version of human suffering which is chetyonmukhata. If you can recognise it and drop the folly then it is MUKTI (liberation). Absolutely effortless and no toiling state is aananda. Dukha is efforting, labouring and toiling. Vyaapaara is duhkha. Minus that is aananda. It is as simple as that. (Sl.5-4-63)
 
 चेत्यवर्जितचिन्मात्रम् अहमेव अवभासकः,
 
@@ -2546,7 +2538,7 @@ It was similar wonder like when Archimedes, forgetting that he is nude, wonders,
 nirvikalpa cidābhāsa ēśa ātmāsi sarvagaḥ.
 
 
-(Sl.5-4-64)[^96]
+(Sl.5-4-64)
 
 Ah, I now recollect the truth that I am the Self which is omnipresent, in which there is no conceptualisation.
 
@@ -2560,7 +2552,7 @@ If you try to read between the lines, when sound is not produced and roopa is no
 
 Till now, we encouraged the evil quality in us which had become natural tendency. One will realise now that, he has become a different person. One will say to oneself that he will not allow the prāṇavyāpāra going. He starts settling down. Then the joy of bliss, the comfort, the relaxation comes to him. Every cell starts vibrating in resonance. This अनाद्यविद्या, anādyavidyā or the मूल अविद्या, mūla avidyā, the general prāṇavyāpāra is the main culprit.
 
-Vedanta says that it is not necessary for you to stay in the moola avidya phase. In nidra, deep sleep, one did not have the praana vyaapara of the visible type and that is also a coming and going type of thing. It is, in a sense, a perishable thing because praana can be manipulated. First of all, you have to kill the forces at the argument level itself, so that saadhana is possible. The forces have to die down by suggestion and implementation. That is the vedantic contribution. The whole world is of the opinion that one has to be active and thinking for achieving happiness. Vedanta says it is not necessary. Nirvikalpa is a good adjective for explaining this phase. (Sl.5-4-65)[^97]
+Vedanta says that it is not necessary for you to stay in the moola avidya phase. In nidra, deep sleep, one did not have the praana vyaapara of the visible type and that is also a coming and going type of thing. It is, in a sense, a perishable thing because praana can be manipulated. First of all, you have to kill the forces at the argument level itself, so that saadhana is possible. The forces have to die down by suggestion and implementation. That is the vedantic contribution. The whole world is of the opinion that one has to be active and thinking for achieving happiness. Vedanta says it is not necessary. Nirvikalpa is a good adjective for explaining this phase. (Sl.5-4-65)
 
 मयिएव चेतनेनेमे सर्वे घटपटादयः,
 
@@ -2583,7 +2575,7 @@ Prahlada concludes that he is becoming all the objects as they get existence bec
 भासा सर्वमिदं विभाति.
 
 
-(Ka.upa.2-2-15)[^98]
+(Ka.upa.2-2-15)
 
 na tatra suryō bhāti na caṁdra tārakam
 
@@ -2608,7 +2600,7 @@ sūryāṁtā avabhāsaṁte dīpenottamatejasā.- So,Prahlada says that he is l
 तेजसान्तः प्रकाशेन यथाग्निकणपंक्तयः.
 
 
-(Sl.5-4-66)[^99]
+(Sl.5-4-66)
 
 mayi ēva ētāḥ sphuratīha vicitra indriya vr̥ttayaḥ,
 
@@ -2627,7 +2619,7 @@ viriṁcisadanātpārē kalpāntēapi aharatpadam,
 prasartyēva mē rūpaṁ adyāpi na nivartatē.
 
 
-(Sl.5-4-67)[^100]
+(Sl.5-4-67)
 
 It alone is the cause of the manifestation of the trinity - Brahma the creator (Virinchi is Brahma), Vishnu the preserver and Siva the redeemer; But, IT is itself not the cause. Prahlada got such an expansion that he could only say that he could see the unlimited space and all the worlds are his projection. They exist because of his taking note of them.
 
@@ -2642,7 +2634,7 @@ ayaṁ nāmāhamityantahakutō niravalambanaḥ,
 aparyāntākr̥tērēṣā kilāsītsvalpatā mama.
 
 
-(Sl.5-4-68)[^101]
+(Sl.5-4-68)
 
 (When my being is unbounded and unconditioned, how could there be the limited identification caused by the notion ‘I’)
 
@@ -2665,7 +2657,7 @@ aparyāntākr̥tērēṣā kilāsītsvalpatā mama - Prahlada wonders that he un
 शुद्धेयं चिन्मयी दृष्टिः जयति अखिल दृष्टिषु.
 
 
-(Sl.5-4-69)[^102]
+(Sl.5-4-69)
 
 anaṁta ānaṁda saṁbhōgā parōpaśamaśālinī,
 
@@ -2684,7 +2676,7 @@ sarvabhāvāntarasthāya cētyamuktacidātmanē.
 pratyakcētanarūpāya mahyamēva namōnamaḥ.
 
 
-(Sl.5-4-70)[^103]
+(Sl.5-4-70)
 
 (My salutation to Myself who is one with all existence, who is bereft of change, the object and who is innermost consciousness.)
 
@@ -2705,7 +2697,7 @@ vicitrāḥśaktayaḥ svacchasamayā nirvikārayā
 citā kriyaṁtē parayā kalaṁkamalamuktayā.
 
 
-(Sl.5-4-71)[^104]
+(Sl.5-4-71)
 
 All these activities, forms, general vyaapaaras and everything, are coming out of the pure stuff.
 
@@ -2730,7 +2722,7 @@ kālatrayaṁ upēkśiṇyā hīnāyāḥ cētya bandhanaiḥ,
 citaḥ cētyamupēkśitryāḥ samataivāvaśiṣyatē.
 
 
-(Sl.5-4-72)[^105]
+(Sl.5-4-72)
 
 (When the three periods of time, past, present and future are ignored, when the bondage caused by the chetya, object, is erased, when the object itself is totally un- cognised, there is only the residual equanimity.)
 
@@ -2743,14 +2735,14 @@ citaḥ cētyamupēkśitryāḥ - This cit, minus the cētya, the corruption, sa
 नैरात्म्य सिद्धांतदशां उपयातेव तिष्ठति.
 
 
-(Sl.5-4-73)[^106]
+(Sl.5-4-73)
 
 sā hi vācāmagamyatvāt asattāmiva śāśvatīm,
 
 nairātmya siddhāṁtadaśāṁ upayātēva tiṣṭhati.
 
 
-(Sl.5-4-73)[^107]
+(Sl.5-4-73)
 
 (Since that state is beyond description of words, it is as though non-existent. It is identical with the state where there is no self, as it were.)
 
@@ -2765,7 +2757,7 @@ sā hi vācāmagamyatvāt – What is that state? How can you describe that stat
 sā hi na utpatituṁśaktā pāśabaddhēva pakṣiṇē.
 
 
-(Sl.5-4-74)[^108]
+(Sl.5-4-74)
 
 (When chit, Consciousness, is tainted by desire, hatred, etc., it is not able to get liberated like the bird bound by fetters.)
 
@@ -2780,7 +2772,7 @@ icchādvēśa samutthēna dvaṁdvamohēna jantavaḥ,
 dharāvivaralagnānāṁ kīṭānāṁ samatāṁ gatāḥ.
 
 
-(Sl.5-4-75)[^109]
+(Sl.5-4-75)
 
 (Human beings because of the delusion caused by the pairs of opposites like desire and aversion, become in-distinguishable like creatures thriving in the holes of earth)
 
@@ -2795,7 +2787,7 @@ What a tragedy? We are caught continuously by icchā dvēśa – desire and hatr
 lōkālōkamaṇē dēva cirēṇa adhikatō asmi ahaṁ.
 
 
-(Sl.5-4-76)[^110]
+(Sl.5-4-76)
 
 (I salute the expansive, unbounded consciousness, which is my Self. A jewel of this and the transcendental world you are, O God, I have realized the Truth after a long time.)
 
@@ -2814,7 +2806,7 @@ parāmr̥ṣṭōsi labdhōsi prōditosyacirāya ca,
 uddhr̥tōsi vikalpēbhyō yōsi sōsi namōstutē.
 
 
-(Sl.5-4-77)[^111]
+(Sl.5-4-77)
 
 (I have reflected upon you, attained you, realised your ultimate form, understood you distinctively from imaginary entities and my salutations to you who is of such nature.)
 
@@ -2825,7 +2817,7 @@ vikalpēbhyō uddhr̥tōsi – I have got lift from this, vikalpa (after positio
 नमोदेवाधिदेवाय पराय परमात्मने.
 
 
-(Sl.5-4-78)[^112]
+(Sl.5-4-78)
 
 mahyaṁ tubhyaṁ anantāya tubhyaṁ mahyaṁśivātmanē,
 
@@ -2848,7 +2840,7 @@ tiṣṭhan api hi na āsīnō gacchan api na gacchati,
 śāṁtaḥ api vyavahārasthaḥ kurvan api na lipyatē.
 
 
-(Sl.5-4-80)[^113]
+(Sl.5-4-80)
 
 (Though he remains standing, he is not there. Though he moves, he moves not. Though calm, he is active. Though acting, he is untainted.)
 
@@ -2866,7 +2858,7 @@ Even after a big slice is taken out of the terrible infinity, a big slice still 
 
 indriyāṇi indriyārthēṣu vartanta iti dhārayan.
 
-There is a stimulus, there is a response. I am not doing anything but remain quiet and fine. My balanced state of mind is not at all upset by this doing. That is the way in which jeevanmuktas or people who have got this trick do their profession as doing the obligation warrants them. This is called the phase of co existence. If you just relax, a little more, it is a wonderful position. World will be different to us, complaining stops. (Sl.5-4-90)[^114]
+There is a stimulus, there is a response. I am not doing anything but remain quiet and fine. My balanced state of mind is not at all upset by this doing. That is the way in which jeevanmuktas or people who have got this trick do their profession as doing the obligation warrants them. This is called the phase of co existence. If you just relax, a little more, it is a wonderful position. World will be different to us, complaining stops. (Sl.5-4-90)
 
 जयप्रोड्ढामराकार जय शांतिपरायण,
 
@@ -2887,7 +2879,7 @@ iti saṁcitayannēva prahlādaḥ paravīrahā,
 nirvikalpaparānanda samādhiṁ samupāyayau.
 
 
-(Sl.5-4-92)[^115]
+(Sl.5-4-92)
 
 iti saṁcitayannēva - Now it is a deep flash, thinking in this way Prahalada, must have touched the state of satta samanya koti and reached steadiness state. When a steady state is reached, there is nothing to come back from it. The larger the expansion of the shell, the lesser the time it takes for steadiness. Prahalada touched that state because of the chittashudhi he had attained in Mahaa Samadhi.
 
@@ -2900,7 +2892,7 @@ nirvikalpa samādhisthaḥ citrārpita ivābabhau,
 paṁcavarṣasahasrāṇi pīnāṁsōtiṣṭhadēkadr̥k.
 
 
-(Sl.5-4-93)[^116]
+(Sl.5-4-93)
 
 citrārpita ivābabhau – In nirvikalpa samaadhi, the whole body became steady like a picture. Pancha varsha sahasra - This is fear causing and is impossible is our position. How blood cannot coagulate if somebody is in that state for 15000 years! We have to humbly accept shaastra vaakya in this context. Chudala supports this;
 
@@ -2915,7 +2907,7 @@ sarvathātmani tiṣṭhēt cēt tyaktvā
 tat jantōrhīyatēvyādhiḥ antarmāruta rōdhataḥ.
 
 
-(YV 6-9-81)[^117]
+(YV 6-9-81)
 
 (If prana remains in all circumstances within the body, abandoning all upward and downward movements, the diseases of the person perish, since prana is totally restricted within.)
 
@@ -2965,7 +2957,7 @@ brahmanniyatirēṣā hi durlaṁghyā pāramēśvarī,
 mayēdr̥śēna vai bhāvyaṁbhāvamanyaiścatādr̥śaiḥ.
 
 
-(6-1-142)[^118]
+(6-1-142)
 
 ‘O’ knower of Brahman, this is due to the Cosmic Will set in motion by the Supreme God and cannot be transgressed. I have to contemplate the way I do. Others contemplate in a different way.
 
@@ -2980,7 +2972,7 @@ na śakyatē cālayituṁ avaśyaṁ bhavitavyatā,
 tadyathā tat tathaitaddi svabhāvaihiēṣa niścayaḥ.
 
 
-(Sl.6-1-143)[^119]
+(Sl.6-1-143)
 
 That which has to happen cannot be made to alter the course. This is the way of nature. _svabhāvaihiēṣa niścayaḥ_ - Whatever has to happen, ultimately happens.
 
@@ -3006,7 +2998,7 @@ The rigorous test of a brahmajnani is stated in the mantra.
 
 tasya prāṇaḥ na utkrāmanti atraiva asminnēva parēṇātmanā avibhāgaṁ gacchanti.
 
-Bru.Upa.SB.3-2-1)[^120]
+Bru.Upa.SB.3-2-1)
 
 Even here, unless the saadhaka discourages localisation and point formation, then only, diffusion starts till anantata is reached. Until re-mobilisation processes are totally discouraged, there is every possibility of reconnection.
 
@@ -3019,7 +3011,7 @@ Bhushunda, the crow, offers pooja to Vasishta, an honourable guest, a Maharishi.
 saṁkalpamātra jātābhyāṁ karābhyāṁ kusumāṁjalim.
 
 
-(Sl.6-1-82)[^121] 
+(Sl.6-1-82) 
 
 Since he is a crow and a crow does not have hands he invites his hands by a mere sankalpa and the hands are there and thus he offers pooja and then discusses prana- vidya with the Maharshi.
 
@@ -3032,7 +3024,7 @@ Since he is a crow and a crow does not have hands he invites his hands by a mere
 yuṣmadādiṣu suprāpā duṣprāpā ca asmadādiṣu.
 
 
-(Sl.6-1-192)[^122] 
+(Sl.6-1-192) 
 
 _ātmaciṁtāsamastānāṁ duḥkhānāṁ antakāriṇī_ - He humbly tells Maharshi that atmachintana and other methods which annihilate duhkha are all for intellectual people like the Rishis.
 
@@ -3047,7 +3039,7 @@ _yuṣmadādiṣu suprāpā duṣprāpā ca asmadādiṣu_ – He pleads that he
 ātmaciṁtā vayasyānāṁ madhyāt ēkatamā mayā.
 
 
-(Sl.6-1-194)[^123]
+(Sl.6-1-194)
 
 Of the various methods identical in nature to contemplation of Self, I have adhered to the contemplation of प्राण, prāṇa.
 
@@ -3062,7 +3054,7 @@ sarvaduḥkhakṣyakarī sarvasaubhāgyavardhinī,
 kāraṇaṁ jīvitasyēha prāṇaciṁtā samāśritā.
 
 
-(Sl.1-6-195)[^124] 
+(Sl.1-6-195) 
 
 The contemplation of the life-force or prana enables one to overcome sorrow and to promote auspiciousness. I have adopted this contemplation
 
@@ -3087,7 +3079,7 @@ apānē juhvati prāṇaṁ prāṇē apānaṁ tathā aparē
 prāṇa apāna gatī ruddhvā prāṇāyāma parāyaṇāḥ.
 
 
-(B G 4-29)<strong> </strong>[^125]
+(B G 4-29) __ __ 
 
 Some offer as sacrifice the outgoing breath, apaana, in the incoming breath, prana, while some others offer the incoming breath into the outgoing breath. Some arduously practice _prāṇāyāma _and restrain the incoming and outgoing breaths, purely absorbed in the regulation of the life-energy
 
@@ -3114,7 +3106,7 @@ cittōnmēṣa nimēṣābhyāṁ saṁsāra pralayōdayau,
 vāsanā prāṇasaṁrōdhāt animēṣaṁ manaḥ kuru.
 
 
-(Y.V-6-3-7)[^126]
+(Y.V-6-3-7)
 
 With the slightest movement in the mind, when the mind blinks, the saṁsāra, (world appearance) arises and ceases. Make the mind free from movement of thought by the restraint of the prana and also the latent tendencies (vasana).
 
@@ -3127,7 +3119,7 @@ cittaṁ prāṇaparispaṁdamāhurāgamabhūṣaṇāḥ,
 tasminsaṁrōdhitē nūnamupaśāntaṁ bhavēnmanaḥ.
 
 
-(Y.V.5-9-73)<sup> </sup>[^127]
+(Y.V.5-9-73)
 
 Movement of thought in the mind arises from the movement of prana. And movement of prana arises because of the movement of thought in consciousness. They thus form a cycle of mutual dependence, like waves and movement of currents in water. The wise ones declare that the mind is caused by the movement of prana; and hence by the restraint of the prana, the mind becomes quiescent.
 
@@ -3139,7 +3131,7 @@ In Chandogya Upanishad (4-10-4) the following declaration is made by the Agni.
 
 Prāṇō brahma kaṁ brahma khaṁ brahma.
 
-Prāṇa is the general activity. You can also have prāṇa as the activity of the jagat - like emotions and feelings which are not coming in the _śabda_ format or the _dṛṣya_ (pictorial) format. To soften these, you have to do _prāṇopāsana _(meditation on prāṇa) - by softening the _prāṇavyāpara_ (pulsation/vibration of prāṇa) to such a level as to reach the no mind state. This is _Prāṇo hi Brahma_. _Prāṇopāsana_ is to quench the _śabda_ version of the jagat. Śankara explains the state of nidra or dreamless sleep thus in Śankarabhāṣya 22 on Kārika 2 of Māṇ.Up.1[^128]
+Prāṇa is the general activity. You can also have prāṇa as the activity of the jagat - like emotions and feelings which are not coming in the _śabda_ format or the _dṛṣya_ (pictorial) format. To soften these, you have to do _prāṇopāsana _(meditation on prāṇa) - by softening the _prāṇavyāpara_ (pulsation/vibration of prāṇa) to such a level as to reach the no mind state. This is _Prāṇo hi Brahma_. _Prāṇopāsana_ is to quench the _śabda_ version of the jagat. Śankara explains the state of nidra or dreamless sleep thus in Śankarabhāṣya 22 on Kārika 2 of Māṇ.Up.1
 
 दर्शनस्मरण एव हि मनः स्पंदिते। तदभावे 
 
@@ -3149,7 +3141,7 @@ Darśana-smaraṇa ēva hi manaḥ spanditē, tadabhāvē hr̥di-ēva aviśēṣ
 
 When the dream phase is not there, when the _jāgrat_ (wakeful state) phase is also not there, how do you exist? You are merely in the pulsating phase in _nidrā_. Chāndogya Upaniṣad (4-3-3) declares -
 
-स यदा स्वपिति प्राणमेव वागप्येति, चक्षुःप्राणं, श्रोत्रं प्राणं मनः प्राणं, प्राणोह्येवैतान् सर्वान् संवृङ्क्त इति. [^129]
+स यदा स्वपिति प्राणमेव वागप्येति, चक्षुःप्राणं, श्रोत्रं प्राणं मनः प्राणं, प्राणोह्येवैतान् सर्वान् संवृङ्क्त इति. 
 
 Sa yadā svapiti prāṇaṁ-ēva vāk apyeti, cakṣuḥ prāṇaṁ, śrotraṁ prāṇaṁ, manaḥ prāṇaṁ iti- Prāṇo-hi-ēva-ētān sarvān samvṛṁkta iti.
 
@@ -3188,7 +3180,7 @@ prāṇāpānamiti khyātau prakaṭau tau varānilau,
 tayōranusarannityaṁ munē gatirahaṁ sthitaḥ.
 
 
-(Sl.6-1-200)[^130] 
+(Sl.6-1-200) 
 
 The breath going up and down in the body is known by two names, _prana_ and _apana_. By contemplating always on their courses, I remain alive. In fact, it is only prana that undergoes a modification and appears as apana. The incoming breath is prana and the outgoing breath is apana. You inhale prana and exhale apana.
 
@@ -3201,7 +3193,7 @@ prāṇabhakṣōnmukhaḥ apanē prāṇē vā apāna bhakṣkē,
 ubhayōraṁtarālasthaṁ na bhūyō jāyatē naraḥ.
 
 
-(Sl.6-1-230) [^131]   
+(Sl.6-1-230)    
 
 If one keenly observes the exact spot where prana is consumed by apana and where in turn apana consumes prana, the mind becomes peaceful and free of grief.
 
@@ -3214,7 +3206,7 @@ prāṇakṣayasamīpastha apānōdayakōṭigaḥ,
 apānaprāṇayōrmadhyaṁ cidātmanamupāsyatē.
 
 
-(Sl.6-1-231)[^132]   
+(Sl.6-1-231)   
 
 That principle of Chit which is in between apana and prana and between the disappearance of apana and the appearance of prana is the Self which I adore. Watch within yourself directly where inhalation turns to exhalation and where exhalation turns to inhalation
 
@@ -3227,7 +3219,7 @@ apānōstaṁ gatō yatra prāṇō nābhyuditaḥ kṣaṇaṁ,
 kalākalaṁkarahitaṁ tat cittatvamupāsyatē.
 
 
-(Sl.6-1-232)[^133]  
+(Sl.6-1-232)  
 
 That precise moment at which the prana has just ceased to move and the apana has not yet begun to move is the supreme state. That is the Svaroopa or Self which is untainted. I adore and contemplate that infinite consciousness. Similarly;
 
@@ -3240,7 +3232,7 @@ na apānō abhyuditō yatra prāṇaścāstamupāgataḥ,
 nāsāgragaganāvartaṁ tat cittatvamupāsatē.
 
 
-(Sl.6-1-233)[^134]   
+(Sl.6-1-233)   
 
 I adore that principle of Chit manifesting when apana has not risen and prana has subsided.
 
@@ -3292,7 +3284,7 @@ prāṇōnmēṣa nimēṣābhyāṁ saṁsr̥tēḥ pralayōdayau,
 tamābhyāsaprayōgābhyāṁ unmēṣarahitaṁ kuru.
 
 
-(YV-6-3-8)[^135] 
+(YV-6-3-8) 
 
 By the movement or blinking of prana, the samsara or jagat arises and ceases. By diligent practice make the prana free from such movement.
 
@@ -3319,7 +3311,7 @@ apānōstaṁgatē prāṇō yāvannabhyuditō hr̥di,
 yāvatsā kumbhakāvasthā yōgibhiryānubhūyatē
 
 
-(Sl.6-1-211)[^136] 
+(Sl.6-1-211) 
 
 When the apana has ceased to move and when the prana does not arise and move out of the heart, and till these begin to happen, it is known as kumbhaka. (retention as of a filled pot). That is, the pause or effortless state of retention happens when exhalation is complete and the inhalation is yet to begin is known as kumbhaka. Shankara, commenting on the sloka of Bhagavad-Gita about prana - _prāṇa apāna gatī ruddhvā prāṇāyāma parāyaṇāḥ_. - mentions like this -
 
@@ -3338,7 +3330,7 @@ Retention of breath is kumbhana. At that moment at which the prana has ceased to
 krameṇa anēna saṁprāptā svayamātmani nirmalē.
 
 
-(Sl.6-1-235)[^137] 
+(Sl.6-1-235) 
 
 This is the tranquility in Chit that is practiced by me through the means of pranayama. In this way one is led to the abidance in pure Self and gets liberated. The following sloka in Yōgavāsiṣṭha reflects the above.
 
@@ -3351,7 +3343,7 @@ asaṁvitspandamātrēṇa yāti cittamacittatām,
 prāṇānāṁ vā nirōdhēna tadēva paramaṁ padam.
 
 
-(YV.6-3-10)[^138]
+(YV.6-3-10)
 
 This world illusion has arisen because of the movement of thought in the mind; When that ceases the illusion will cease, too, and the mind becomes no mind. This can also be achieved by the restraint of prana. That is the supreme state.
 
@@ -3377,7 +3369,7 @@ asya saṁsāra duḥkhasya sarvōpadravakāriṇaḥ,
 upāya ēka ēva asti manasaḥ svastha nigrahaḥ.
 
 
-(Y.V.4-4-1)<sup> </sup>[^139]
+(Y.V.4-4-1)
 
 F
 
@@ -3410,7 +3402,7 @@ cakṣustasya nimīlinādisamayē kiṁ dhīrdhiyo darśanē
 kiṁ tatrāhamatō bhavān paramakaṁ jyōtistadasmi prabhō.
 
 
-Ekasloki[^140]
+Ekasloki
 
 
 
@@ -3455,7 +3447,7 @@ Let us see the text.
 bhōgēcchāmātrakō bandhaḥ tattyāgō mōkṣa ucyatē.
 
 
-(4-4-2)[^141]
+(4-4-2)
 
 Do thou hear about wisdom in its fullness. After hearing about it, contemplate on it. The desire for worldly happiness is bondage. Renunciation of such desire is liberation.
 
@@ -3474,7 +3466,7 @@ Lot of people around us do number of vratas. Some even give up food for three or
 śabdādīn viṣayānanyē indriyāgniṣu juhvati.
 
 
-(B.G.4-26)[^142]
+(B.G.4-26)
 
 Some offer their hearing and other senses into the fire of the controlled mind, while the grihasthas, householders, offer sense objects, such as sound, into the fire of the senses.
 
@@ -3493,7 +3485,7 @@ brahmaṇā hutam.
 brahmaiva tēna gantavyaṁ brahmakarmasamādhinā.
 
 
-(B.G.4-24)[^143]
+(B.G.4-24)
 
 Brahman can be attained by one who performs yajna in which the sacrificial instruments, the ghee, the fire, the offerings and the priest (agent) are all Brahman. Such a person is qualified to attain Brahman because he is fully absorbed in karma which is of the same nature as Brahman. The evil forces are the fires. I am the offering person. The bhoga or karma is the havis offered. Casualness is the element of vistarata. Slowness or leisureliness is an element of naidhyanya. We should not injure the system in vedantic sadhana. Indians never thought that bhoga was foul. The cheapness of indulgence and the enslavement in that is the foul element. Minus that, it is brahmasadhana and every vyapara fed to the relative centre gives you brahmasparsha.
 
@@ -3532,7 +3524,7 @@ kimanyaiḥ śāstrasaṁdarbhaiḥ kriyatāmētadēva tu,
 yadyatsvādviha tatsarvaṁ dr̥śyatāṁ viṣavanhivat.
 
 
-(4-4-3)[^144]
+(4-4-3)
 
 Of what use are the extensive scriptures? Let this alone be accomplished. Whatever is thought of as pleasing be known to be like poison and like fire.
 
@@ -3561,7 +3553,7 @@ svayamēvāśu bhavati svayamēva vilīyatē,
 svayamēva prasarati svayaṁ saṁkōcamiti ca.
 
 
-(6-19-19)[^145]
+(6-19-19)
 
 He rises spontaneously of himself, and then subsides in himself, he expands hi own essence all over the universe, and at last contracts the whole in himself.
 
