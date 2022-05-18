@@ -23,7 +23,7 @@ In fact I myself proceeded on the following lines of investigation - What am I? 
 
 One more example- I am angry. Am I always angry? No. That means I have a no-angry phase.  I have a no activity phase also. I thought that I am always active, I am always a doer. But here is a ready proof that I am **equally a non-doer**. See the force of this argument. If you can understand this much, the Vedānta is understood and appreciated. Our first impression is that I am a doer because I am doing this or doing that at ever so many function centres. But equally so, I do not have that quality of doing always. I am listening but not always. So, my phases of existence wherein I am not listening, not eating, not sleeping, mean I that I am not doing these act always. **I am also a non-doer as much as I am a doer too**. Our weightage is on our doer’s role which we always thought is our nature. This notion of doer ship is weakened by the above logic. So, this is also a prakriyā, a simplified prakriyā. This not only re-sets values but also takes you to your svarūpa **- स्वरूप**. Why do you say this is your svarūpa? The study suggested in vedāntic tradition puts us into the new truth that I am as much a non doer as I am a doer.
 
-Then the question would be why does one extol this non doing role? What is so extraordinary about that? This question also must be answered to one's satisfaction. The answer is, that this non doing is a comforting phase, as we discussed the other day. Vijñānakośa **- विज्ञानकोश**- is a toiling phase and ānandakośa is a comforting phase. You cannot belittle your non doing role. It is more precious than the āyāsasthāna **- आयासस्थान**. One can easily understand the difference between two convictions. I have this non doing phase which is viśrāntisthāna - **विश्रान्तिस्थान**- whereas the doing phase of mine is āyāsasthāna.** **While the former is a healing phase the later is a fatigue phase.
+Then the question would be why does one extol this non doing role? What is so extraordinary about that? This question also must be answered to one's satisfaction. The answer is, that this non doing is a comforting phase, as we discussed the other day. Vijñānakośa **- विज्ञानकोश**- is a toiling phase and ānandakośa is a comforting phase. You cannot belittle your non doing role. It is more precious than the āyāsasthāna **- आयासस्थान**. One can easily understand the difference between two convictions. I have this non doing phase which is viśrāntisthāna - **विश्रान्तिस्थान**- whereas the doing phase of mine is āyāsasthāna. While the former is a healing phase the later is a fatigue phase.
 
 Putting this in another way- all that is necessary is to prove it to oneself the unimportance of thinking and uselessness of thinking. Our present notion is that thinking is a must, is useful and hence it is our real nature. You have to break these two positions by vichāra. That is all what Vedānta wants us to know. We have to show the hollowness of this equation by showing that happiness that one gets out of objects of enjoyment, content wise, is a state of quietness wherein mind becomes empty.
 
@@ -39,7 +39,7 @@ At this point, it is appropriate to remember Śankara who has such a sharpness o
 
 **Tasyā avidyāyāḥ kiṁ svābhāvikatvaṁ āhōsvit kāma karmādivat āgantukatvam?**
 
-Is, this thinking your natural dharma or superimposed dharma? This is all the study to be made. Avidyā is cognising, emotionally involving and doing. Avidyā, kāma, karma is the triple** **point. Is this your svabhāva-dharma or āgantuka-dharma? Svabhāva-dharma is the natural quality, āgantuka-dharma is something borrowed or superimposed. This line of thinking will solve the question. Hence:
+Is, this thinking your natural dharma or superimposed dharma? This is all the study to be made. Avidyā is cognising, emotionally involving and doing. Avidyā, kāma, karma is the triple point. Is this your svabhāva-dharma or āgantuka-dharma? Svabhāva-dharma is the natural quality, āgantuka-dharma is something borrowed or superimposed. This line of thinking will solve the question. Hence:
 
 **यदि च आगन्तुकत्वम् ततो विमोक्षः उपपद्यते।**
 
@@ -53,7 +53,7 @@ If it is borrowed from outside or if it comes and goes it can be dropped by the 
 
 **na-asti.**
 
-If anger, jealousy, disturbance, thinking were to be your natural quality nobody can take it away. No Śāstra can take it away because it is your natural quality. Whiteness is the natural quality of milk. You cannot think of milk without the whiteness. Similarly, thermal quality is the nityadharma of fire. You cannot think of the fire without the heat quality, without the heat component. Heat is the nityadharma of agni. If the qualities like anger etc are your nityadharma-s, it must conform to this definition. Anger is not nityadharma because it comes and goes. Thinking is not your nityadharma because it comes and goes. None of these attributes come under the category of nityadharma. So, you can drop it by the very definition. Yadi_ _āgantukatvam_ _vimokșaḥ_ _upapadyate_-_ thinking is droppable, and worrying is** **droppable.
+If anger, jealousy, disturbance, thinking were to be your natural quality nobody can take it away. No Śāstra can take it away because it is your natural quality. Whiteness is the natural quality of milk. You cannot think of milk without the whiteness. Similarly, thermal quality is the nityadharma of fire. You cannot think of the fire without the heat quality, without the heat component. Heat is the nityadharma of agni. If the qualities like anger etc are your nityadharma-s, it must conform to this definition. Anger is not nityadharma because it comes and goes. Thinking is not your nityadharma because it comes and goes. None of these attributes come under the category of nityadharma. So, you can drop it by the very definition. Yadi_ _āgantukatvam_ _vimokșaḥ_ _upapadyate_-_ thinking is droppable, and worrying is droppable.
 
 All that one has to examine is just two minutes of study to check <u>whether it comes under the list of nityadharma or that of āropitadharma</u>. All our attributes are coming under the second category. Show me an attribute which is nityadharma of a human being. How sharp is this argument? I was sold over to the great thinker Śankara. That’s all Vedānta! One can forget ten Upanișad-s and  Śankarabhāșya. Deliverance**can come by this simple argument.**
 
@@ -71,7 +71,7 @@ Only two examples of great men are quoted in parampara. They just listened from 
 
 **Nōpacāraḥ kathañcana iti avōcāma.**
 
-In such cases no prescription or methodology is necessary. Sādhana is not necessary---**teșām śravaṇam - eva alam-** **तॆषं श्रवणमॆव अलं** - for them one listening will do and they are set in Svarūpa **–**
+In such cases no prescription or methodology is necessary. Sādhana is not necessary---**teșām śravaṇam - eva alam- तॆषं श्रवणमॆव अलं** - for them one listening will do and they are set in Svarūpa **–**
 
 **अतः अन्ये योगिनः मार्गगाः हीनमध्यमदृष्टयः . . . मनसः निग्रहायत्तम् अभयं सर्वेषां योगिनाम् ॥**
 
@@ -87,7 +87,7 @@ What about others who have big stock of rajas and tamas? For such people a long 
 
 **duḥkhakṣayaḥ prabōdhaḥ-ca-api-akṣayā śāntiḥ-ēva ca.**
 
-For all of us manonigraha is required. Taming of the mind is required because mind is very much strong and bulky filled with rajas and tamas. So a process of sādhana is** **required.
+For all of us manonigraha is required. Taming of the mind is required because mind is very much strong and bulky filled with rajas and tamas. So a process of sādhana is required.
 
 I will now take up questions from you.
 
@@ -135,7 +135,7 @@ Brahman thought that he had to focus to generate multitudes. So he started prepa
 
 **A.** We are all conditioned to involve ourselves in one or the other activity day in and day out. We cannot think of a person without any activity. Majority of us feel that it is a crime not to do any work. Although we have seen in detail that non doing is our svarūpa and that is the sukha sthāna, no person can be happy without doing. Even I cannot do that. Why? Due to the pressure of boredom forces, one is driven to activity. Everybody who says that he is doing work for so many good reasons is due to the fact that he cannot keep quiet. The proof for this is very simple. If I challenge you to sit quiet for ten minutes without doing anything, you may say that it is very easy. But if I ask you to remain quiet for half an hour, then you fail the test. Why? Yogaśāstra gives an answer to that point.
 
-There is what is called a life force, a vital force or kundaliniśakti in us. It originates at the mulādhāra cakra and is continuously releasing the vital force or prāṇaśakti into the system, to every part of the body. It flows up into the higher centres or the urdhvasthāna, and comes to Ājñācakra (the thinking centre or the seat of the intellect) and develops a pressure. If the rates at which the energy produced and expended are not equal, one develops pressure which can be termed as the boredom force. And the pressure so developed drives you into activity. This is the most reasonable explanation.** **
+There is what is called a life force, a vital force or kundaliniśakti in us. It originates at the mulādhāra cakra and is continuously releasing the vital force or prāṇaśakti into the system, to every part of the body. It flows up into the higher centres or the urdhvasthāna, and comes to Ājñācakra (the thinking centre or the seat of the intellect) and develops a pressure. If the rates at which the energy produced and expended are not equal, one develops pressure which can be termed as the boredom force. And the pressure so developed drives you into activity. This is the most reasonable explanation. 
 
 **Q.** What is the difference between Vāsanākșaya, Manonāśa and ātmābodha?
 

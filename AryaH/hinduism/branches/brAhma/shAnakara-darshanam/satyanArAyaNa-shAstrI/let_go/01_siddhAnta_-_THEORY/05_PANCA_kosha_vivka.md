@@ -10,7 +10,7 @@ Another equally important prakriya about understanding the ‘self’ isbeautifu
 
 **Bhr̥gurvai vāruṇiḥ varuṇaṁ pitaraṁ upasasāra adhīhi bhagavō brahmēti.**
 
-There is seeker called Bhṛgu. He goes to his teacher who is also his father by name Varuṇa.What question he goes with?** **Master, give me the wisdom of the self; tell me about the self or the causal stuff of the universe.
+There is seeker called Bhṛgu. He goes to his teacher who is also his father by name Varuṇa.What question he goes with? Master, give me the wisdom of the self; tell me about the self or the causal stuff of the universe.
 
 **तस्मा एतत्प्रोवाच अन्नम् प्राणं चक्षुः श्रोत्रं मनो वाचमिति॥**
 
@@ -30,7 +30,7 @@ This is an excellent definition according to cosmology or even according to theo
 
 **Annaṁ brahma-iti vyajānāt, annāt-hi-ēva khalu- imāni bhūtāni jāyantē, annēna jātāni jīvanti, annaṁ yat-prayanti-abhisaṁviśanti-iti.**
 
-The student understood that this body is "I" and is called as anna. Anna (the food)** **is brahma, because all living things originate from anna-lives because of anna and return to the same anna. The teacher neither accepts his word nor suggests any answer but sends him back to investigate again. “By intense thinking seek Brahman”.
+The student understood that this body is "I" and is called as anna. Anna (the food) is brahma, because all living things originate from anna-lives because of anna and return to the same anna. The teacher neither accepts his word nor suggests any answer but sends him back to investigate again. “By intense thinking seek Brahman”.
 
 **तपसा ब्रह्म विजिज्ञासस्व। तपो ब्रह्मेति।**
 
@@ -42,15 +42,15 @@ It is at this point we should also make a study as to why the R̥ṣi sent back 
 
 **Prāṇō brahma-iti vyajānāt, prāṇāt-hi-ēva khalu-imāni bhūtāni jāyantē, prāṇēna jātāni jīvanti prāṇaṁ  prayanti-abhisaṁviśanti-iti.**
 
-He comes to the conclusion that prāṇa, the vital force is that “I”.   It is from prāṇa that all these living beings are born. Being produced from it, they live by it and in the end become one with it. The spandana, the vibration, the movement inside, which makes transactions possible for the body is that “I”. The teacher directs the disciple to do further investigation to arrive at the Truth. **Tapasā** **brahma vijijñāsasva**
+He comes to the conclusion that prāṇa, the vital force is that “I”.   It is from prāṇa that all these living beings are born. Being produced from it, they live by it and in the end become one with it. The spandana, the vibration, the movement inside, which makes transactions possible for the body is that “I”. The teacher directs the disciple to do further investigation to arrive at the Truth. **Tapasā brahma vijijñāsasva**
 
 The disciple is asked to ponder as to what is wrong with prāṇa?    Why that “I” really is not that Prāṇa. If one has just the body and prāṇa, we all very well know that it is useless to him and to others. This is the case with the person who is in the state of coma who will be just like bellows working to and fro - vegetating stuff as the doctors put it. So prāṇa is not that “I”. There is something more. Cognition, grasping things, usefully using them and working with them is something worthwhile.  Otherwise who wants that just respirating body! The student after further struggle returns with the report that-
 
 **मनो ब्रह्मेति व्यजानात ।**
 
-**Mano Brahma-iti** **Vyajānāt.**  -  (Bhṛguvalli 4)
+**Mano Brahma-iti Vyajānāt.**  -  (Bhṛguvalli 4)
 
-He concludes that MIND** **is that “I”. Mind through indriyā-s can capture things, can use it for one’s own joy or whatever it is. Indriya Vyāpāra dictated by Mind (Manas) is that real “I”. So this me is the mind- not the mere Prāṇa.  But the teacher dismisses him once again and orders him to do tapas and find the real truth.
+He concludes that MIND is that “I”. Mind through indriyā-s can capture things, can use it for one’s own joy or whatever it is. Indriya Vyāpāra dictated by Mind (Manas) is that real “I”. So this me is the mind- not the mere Prāṇa.  But the teacher dismisses him once again and orders him to do tapas and find the real truth.
 
 Why is the mind not "me" has to be questioned here.-what is the shortcoming about mind being identified with “I”?  The simple explanation could be, mind can only take perceptions- that’s all- it cannot discriminate. It cannot see what is good for the living thing and what is bad for that, what is useful and what is not useful, what is injurious and what is not injurious. That’s the stage of the child.  Till three/four years, a child does not know how to find out what is good or bad, due to which it can cause injury to itself.  Mind is there, perception of objects is there, but judgment is not there. So self destruction could be possible. If you had only Manokośa and no Vijñānakośa, then discrimination is not possible. If both potassium cyanide and sugar are given together, one can consume former for latter and may end his life due to lack of understanding. So, Manokośa is incomplete because there is no discrimination, the faculty to know what is good or what is bad, what is useful or what is not, etc. Later, the student after further investigation asserts that-
 
@@ -58,7 +58,7 @@ Why is the mind not "me" has to be questioned here.-what is the shortcoming abou
 
 **Vijñānaṁ Brahma-iti Vyajānāt.**  - (Bhṛguvalli 5)
 
-Intellect is - that “I”. The teacher dismisses this point also. All of us know that Vijñānakośa** **is the one of discrimination, and judgment.  Why did the teacher dismiss it?  This stand of the teacher is an unacceptable position to all of us, since we assume that Vijñānakośa is the ultimate. That is the cream of man, that is the best of man and it is through this kośa humans do things, earn food, clothing and shelter. The primitive man could not have lived without that, as protection from predators was not possible without Vijñānakośa. So, Vijñānakośa is the best of me.
+Intellect is - that “I”. The teacher dismisses this point also. All of us know that Vijñānakośa is the one of discrimination, and judgment.  Why did the teacher dismiss it?  This stand of the teacher is an unacceptable position to all of us, since we assume that Vijñānakośa is the ultimate. That is the cream of man, that is the best of man and it is through this kośa humans do things, earn food, clothing and shelter. The primitive man could not have lived without that, as protection from predators was not possible without Vijñānakośa. So, Vijñānakośa is the best of me.
 
 If one looks at the old temples and the present day structures, where columns and beams are used, it will immediately occur to everyone about the wonders of Vijñānakośa.  In olden days, they could not think of a beam more than five or six feet and they had to have hundreds of them in a huge structure. Now it is possible to build a large span of 60ft or 80ft without a pillar in between with the knowledge of this kośa. Today, surgery has become so easy with very high advancement in the anaesthesia technology. All this has been possible because of this kośa. So, Vijñānakośa is the best of man for his welfare and for thewelfare of the community. So, it looks that the study of the ātman is complete with “I” being equated to Vijñānakośa.   Most of the systems of philosophy stopped here. Tobe moral, to be ethical, sharing what we have with the have-nots is the outcome of this understanding. Despite these benefits, why the teacher did not accept this kośa as the ultimate is the point to ponder over.
 
@@ -78,11 +78,11 @@ Who would have done respiration if there was no ānanda in ākāśa dharma or a 
 
 We touch our ākāśa dharma by <u>letting go the confinement.</u> If we did not touch this emptiness or the quietness in us, how couldwe have lived, how could we have respired? Our inhalation and exhalation would have been impossible and we wouldhave broken down - **yeśa hi eva ānandayati - एषह्येवानन्दयति.** This ākāśa dharma is only the source of joy or ānanda. So the student discovers the last truth-
 
-**आनन्दो ब्रह्मेति व्यजानात्। आनन्दाद्ध्येव खल्विमानि भूतानि जायन्ते। आनन्देन जातानि जीवन्ति। आनन्दं प्रयन्त्यभिसंविशन्तीति।**(Bhṛguvalli 6)** **
+**आनन्दो ब्रह्मेति व्यजानात्। आनन्दाद्ध्येव खल्विमानि भूतानि जायन्ते। आनन्देन जातानि जीवन्ति। आनन्दं प्रयन्त्यभिसंविशन्तीति।**(Bhṛguvalli 6) 
 
 **Ānandō brahma-iti vyajānāt, ānandāt- hi-ēva khalu-imāni bhūtāni jāyantē, ānandēna jātāni jīvanti, ānandaṁ prayanti-abhisaṁviśanti-iti.**
 
-From ānanda you are born, your activity is sustained.  It is because of the ānanda that you experience here,you get back to your ānanda- sthāna** **when you die. It is the SOURCE, which is the sustaining stuff, the‘ONE’ into which activity dissolves. When the student discovered that, he had nothing else to verify because he was so certain that he did not approach the teacher to verify whether he was correct or not. So, the Upaniṣad ends with the mantra—
+From ānanda you are born, your activity is sustained.  It is because of the ānanda that you experience here,you get back to your ānanda- sthāna when you die. It is the SOURCE, which is the sustaining stuff, the‘ONE’ into which activity dissolves. When the student discovered that, he had nothing else to verify because he was so certain that he did not approach the teacher to verify whether he was correct or not. So, the Upaniṣad ends with the mantra—
 
 **सैषा भार्गवी वारुणी विद्या। परमे व्योमन् प्रतिष्ठित।।**
 
@@ -122,9 +122,9 @@ When you compare vijñānakośa and ānadakośa, expansion is common, cognition 
 
 Vistārata is there in manokośa, but naidhānya is not there. That has come in vijñānakośa and that ānanda has already come to you because of relaxation. But, dwaita-bodha is destroyed only in ānandakośa since focusing is not there.
 
-**तस्य प्रियमेव शिर**:**। मोदो दक्शिण**:**पक्श**:**।** **प्रमोदो उत्तर**: **पक्श**:**।** **आनन्द आत्मा**।.
+**तस्य प्रियमेव शिर**:**। मोदो दक्शिण**:**पक्श**:**। प्रमोदो उत्तर**: **पक्श**:**। आनन्द आत्मा**।.
 
-**Tasya priyamēva śiraḥ- modo dakṣiṇaḥ pakṣaḥ** **pramodo uttaraḥ pakṣaḥ- ānanda ātmā.**
+**Tasya priyamēva śiraḥ- modo dakṣiṇaḥ pakṣaḥ pramodo uttaraḥ pakṣaḥ- ānanda ātmā.**
 
 The characteristic of Ānandakośa is that it is near to Samādhi state. One can ask the difference between ānandakośa and vijñānakośa-Śankara clarifies that in Vijñānakośa, individualisation or localisation has not gone. That is, object has a locus –KHANDATVA in this Kośa. But, in Ānandakośa this defect is not there.
 

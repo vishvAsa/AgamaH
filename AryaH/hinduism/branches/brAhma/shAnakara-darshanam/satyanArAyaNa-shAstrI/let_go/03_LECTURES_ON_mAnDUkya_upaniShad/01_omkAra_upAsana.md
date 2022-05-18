@@ -4,13 +4,13 @@ title = "01 OMKĀRA UPĀSANA"
 +++
 (MEDITATION ON OMKĀRA)
 
-Māṇḍūkya Upaniṣad** **is one of the ten major Upaniṣad-s admitted by Sampradāya. Sampradāya holds this Upaniṣad very high. In fact there is a śloka to show what status this Upaniṣad earns in the eyes of sampradāya. Muktikopaniṣad declares that the study of only Māṇḍūkya Upaniṣad is sufficient to liberate an ardent student of Vedānta:
+Māṇḍūkya Upaniṣad is one of the ten major Upaniṣad-s admitted by Sampradāya. Sampradāya holds this Upaniṣad very high. In fact there is a śloka to show what status this Upaniṣad earns in the eyes of sampradāya. Muktikopaniṣad declares that the study of only Māṇḍūkya Upaniṣad is sufficient to liberate an ardent student of Vedānta:
 
 **एकं माण्डूक्यमेव अलं मुमुक्षूणाम् विमुक्तये ।**
 
 **Ēkaṁ māṇḍūkyam-ēva alaṁ mumukṣūṇām vimuktayē.**
 
-That means you can bypass all other details enumerated in other Upaniṣad -s and go straight to Māṇḍūkya Upaniṣad and that is the right thing to do. Mumukṣu is a sādhaka who is after liberation. For his liberation, study of this Upaniṣad will give him the necessary guide lines and there is no need to waste time going through other vedāntic texts- says the axiom. Such a point of view on this Upaniṣad is reasonable because as I see there is no waste of time at all here- not a syllable, not a word which is extra is stated in this text than what is required. It is as straight as the flight of an arrow. There are no stories told in this Upaniṣad, no ākhyāyika and no dialogue between the master and the disciple as found in other Upaniṣad-s. Brevity of this order or an accuracy of this order is not seen elsewhere. That is why it is remarkable. People have rightly called it the best. Let us study the aspect of Omkāra as described in First Mantra of Māṇḍūkya Upaniṣad:** **
+That means you can bypass all other details enumerated in other Upaniṣad -s and go straight to Māṇḍūkya Upaniṣad and that is the right thing to do. Mumukṣu is a sādhaka who is after liberation. For his liberation, study of this Upaniṣad will give him the necessary guide lines and there is no need to waste time going through other vedāntic texts- says the axiom. Such a point of view on this Upaniṣad is reasonable because as I see there is no waste of time at all here- not a syllable, not a word which is extra is stated in this text than what is required. It is as straight as the flight of an arrow. There are no stories told in this Upaniṣad, no ākhyāyika and no dialogue between the master and the disciple as found in other Upaniṣad-s. Brevity of this order or an accuracy of this order is not seen elsewhere. That is why it is remarkable. People have rightly called it the best. Let us study the aspect of Omkāra as described in First Mantra of Māṇḍūkya Upaniṣad: 
 
 **ओमित्येतदक्षरमिदग्ं सर्वं तस्योपव्याख्यानम् भूतम् भवद्भभविष्यदिति सर्वमोङ्कार एव।**
 
@@ -22,7 +22,7 @@ That means you can bypass all other details enumerated in other Upaniṣad -s an
 
 (AUM, the word, is all this, the whole universe. A clear explanation of it is as follows: All that is past, present and future is, indeed, AUM. And whatever else there is, beyond the threefold division of time, space and causation also is truly AUM.)
 
-This is the first mantra which tries to extol Omkāra. I always wondered why Upaniṣad-s have extolled Omkāra. Śankara quotes number of references** **from other Upaniṣad-s to show that there is hardly any vedāntic text without the mention of Omkāra. Let me explain my difficulty. Atman is nirguṇa - lakṣaṇarahita, without attributes. That is, all adjectives are withdrawn from the one who is the enjoyer, cognisor and the doer. Whatever lakṣaṇā-s we seem to possess are superimpositions on us are what śāstra wants to prove. If you drop them one after the other or en-block, whatever is the residue, is your Self. That is a satisfactory definition and is consistent for all of us to agree. But I could not understand as to why Omkāra has been extolled so much? I could not get the right vision until I went through Śankarā’s commentary on Māṇḍūkya Upaniṣad which I want to share with you all.
+This is the first mantra which tries to extol Omkāra. I always wondered why Upaniṣad-s have extolled Omkāra. Śankara quotes number of references from other Upaniṣad-s to show that there is hardly any vedāntic text without the mention of Omkāra. Let me explain my difficulty. Atman is nirguṇa - lakṣaṇarahita, without attributes. That is, all adjectives are withdrawn from the one who is the enjoyer, cognisor and the doer. Whatever lakṣaṇā-s we seem to possess are superimpositions on us are what śāstra wants to prove. If you drop them one after the other or en-block, whatever is the residue, is your Self. That is a satisfactory definition and is consistent for all of us to agree. But I could not understand as to why Omkāra has been extolled so much? I could not get the right vision until I went through Śankarā’s commentary on Māṇḍūkya Upaniṣad which I want to share with you all.
 
 **ओमित्येतदक्षरमिदग्ं सर्वं ।**
 
@@ -100,9 +100,9 @@ The component subtler to manas or mind is buddhi or intellect. Subtler to buddhi
 
 (Beyond Mahat is the Unmanifested; beyond the Unmanifested is the Purusha (the SELF) and Purusha is the ultimate.)
 
-Sūkṣma or subtler than mahattatva one more component is posited which is called as  **avyākṛta.** How to conceive that? It is less and less of activity or pulsation. While Kathopanishad mentions this phase as **Mahattattva**and **Avyākṛta,** Taittirīya Upaniṣad mentions it as **ākāśa**. From atman, the first grossification is ākāśa.** **
+Sūkṣma or subtler than mahattatva one more component is posited which is called as  **avyākṛta.** How to conceive that? It is less and less of activity or pulsation. While Kathopanishad mentions this phase as **Mahattattva**and **Avyākṛta,** Taittirīya Upaniṣad mentions it as **ākāśa**. From atman, the first grossification is ākāśa. 
 
-Still it is not yet Brahma. These layers are recognised by the Upaniṣad  as- **Yat ca anyat trikālātītam ---** there is a universe subtler and which does not fall under the framework of Bhūta, Bhavat and Bhaviṣyat (past, present and future) represented by the nāma, rūpa, karma and **that is also Omkāra**.** **
+Still it is not yet Brahma. These layers are recognised by the Upaniṣad  as- **Yat ca anyat trikālātītam ---** there is a universe subtler and which does not fall under the framework of Bhūta, Bhavat and Bhaviṣyat (past, present and future) represented by the nāma, rūpa, karma and **that is also Omkāra**. 
 
 **That also has to be dropped to get to your Brahmasthiti.**
 
@@ -130,7 +130,7 @@ Exactly, such thinking is here in the vedantic research. I really marvelled at t
 
 **Paraṁ ca brahma abhidhāna-abhidhēyaōḥ-upāya-pūrvakam-ēva gamyatē iti ōm̐kāra ēva.**
 
-What is our object? Why are we becoming the students of the Upaniṣad -s? It is to get to know our true nature- the causal stuff out of which activity has sprung. We want to get to the pre- activity version of the universe. Therefore I will stay at the smallest activity (utterance of Omkāra) and then I drop even that to know the pre state.** **What is so big about this utterance? Śankara goes further in helping us (Māṇḍūkya Upaniṣad 1, Śankara Bhāṣya 5.) as under:
+What is our object? Why are we becoming the students of the Upaniṣad -s? It is to get to know our true nature- the causal stuff out of which activity has sprung. We want to get to the pre- activity version of the universe. Therefore I will stay at the smallest activity (utterance of Omkāra) and then I drop even that to know the pre state. What is so big about this utterance? Śankara goes further in helping us (Māṇḍūkya Upaniṣad 1, Śankara Bhāṣya 5.) as under:
 
 **तस्य एतस्य परापरब्रह्मरूपस्य अक्षरस्य ॐ इत्येतस्य उपव्याख्यानम् ब्रह्मप्रतिपत्त्युपायत्वात् ब्रह्मसमीपतया विस्पष्टं प्रकथनं उपव्याख्यानम् ॥**
 
@@ -152,7 +152,7 @@ You hold on to the least activity and then naturally you slip into no activity. 
 
 We have now represented the threshold point and a further explanation is necessary to justify this. The answer is that Om is so near to brahma that it needs a very small shift either to realize it or to get away from it. This justifies extolling Omkāra.
 
-That is why we do** **not find any Upaniṣad that does not frequently refer to Omkāra. To know this aspect, it took me many years of purposeful thinking though I had read Mānḍūkya hundreds of times! But I had not taken the first mantra and the Śankarabhāṣya seriously. In fact I am not exaggerating if I were to say that there is enough material for lot of research.
+That is why we do not find any Upaniṣad that does not frequently refer to Omkāra. To know this aspect, it took me many years of purposeful thinking though I had read Mānḍūkya hundreds of times! But I had not taken the first mantra and the Śankarabhāṣya seriously. In fact I am not exaggerating if I were to say that there is enough material for lot of research.
 
 When you come to sādhana what else is the way? When you advance in the sādhana the gāyatri that is being chanted tends to lengthen itself and the Japa starts decomposing itself when you slow down and finally it becomes Omkāra. Sri Rāmakṛṣṇa rightly said that:
 
@@ -164,7 +164,7 @@ Om, when you stretch, merges into silence and that is svarūpa.
 
 This is also called as the turīya stage. Why?
 
-**a**- component is very coarse,** **represents Jāgṛat, the outside world or even the jagat.
+**a**- component is very coarse, represents Jāgṛat, the outside world or even the jagat.
 
 **u-**component corresponds to the inner sound and this is the dream equivalent which is subtler.
 
@@ -190,9 +190,9 @@ Svarūpa is that one where there is no mind and no prāṇavyāpāra. But in nid
 
 **Na utkrāmanti atraiva asmin-ēva parēṇa-ātmanā avibhāgaṁ gacchanti---samavanīyantē---** (Bṛh.Upa. 3-2-1, Śankarabhāṣya)
 
-Bṛhadāraṇyaka Upaniṣad declares that there is no displacement of citta and prāṇa cluster for a Jñāni. It diffuses into omnipresence, never to re-collect itself, merges into limitless space. That is mukti in Indian thinking. The obstacle to mukti in all of us is the importance given by us for our existence. That is why many people cannot go into** **Samādhi.
+Bṛhadāraṇyaka Upaniṣad declares that there is no displacement of citta and prāṇa cluster for a Jñāni. It diffuses into omnipresence, never to re-collect itself, merges into limitless space. That is mukti in Indian thinking. The obstacle to mukti in all of us is the importance given by us for our existence. That is why many people cannot go into Samādhi.
 
-Therefore one can get Brahmasthiti by operating at the śabda level. Omkāra is so near to Brahma. If you stay there and citta becomes Omkāra mātra you simply slide into self effortlessly. **Omkāra becomes a working tool to reach brahma.** We may appreciate the theoretical potion, but how do you reach that state? Only** **by sādhana of Omkāra upāsana one can attain that state.
+Therefore one can get Brahmasthiti by operating at the śabda level. Omkāra is so near to Brahma. If you stay there and citta becomes Omkāra mātra you simply slide into self effortlessly. **Omkāra becomes a working tool to reach brahma.** We may appreciate the theoretical potion, but how do you reach that state? Only by sādhana of Omkāra upāsana one can attain that state.
 
 **Q.** How do you explain the concept of Brahma?
 
@@ -206,7 +206,7 @@ So, how can energy be got from nothingness? But if you take the calculus languag
 
 Brahma according to me is not a no-activity principle. But it is a principle tending to no-activity state. All people, who are less than the mutually agreed level of activities, are brahmajñāni-s. There could be hundreds of types of brahmajñāni-s, but they are all well accommodated. So, we can easily understand the concept of Omkāra once you know the calculus language. The paradox of activity begotten from non activity is easily explained. This is the advantage of a modern thinker over the ancient thinkers.
 
-Even Śankara had to concede and say that it was not brahma who created the jagat but māya created the jagat. My** **question was where is māya from? Then why do you say sarvam khalu idaṁ  brahma? You should have said saravam khalu idaṁ māyā instead of brahma. Māṇḍūkya Upaniṣad declares that—
+Even Śankara had to concede and say that it was not brahma who created the jagat but māya created the jagat. My question was where is māya from? Then why do you say sarvam khalu idaṁ  brahma? You should have said saravam khalu idaṁ māyā instead of brahma. Māṇḍūkya Upaniṣad declares that—
 
 **सर्वंह्येतत् ब्रह्म अयमात्मा ब्रह्म सोयमात्मा चतुष्पात् ।**
 

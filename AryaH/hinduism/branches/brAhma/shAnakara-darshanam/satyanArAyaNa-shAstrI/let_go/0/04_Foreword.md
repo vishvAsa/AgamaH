@@ -31,7 +31,7 @@ Omkāra Upāsana is extolled repeatedly in the Upaniṣad-s and prescribed as a 
 
 The concept of enlightenment or self realization has been demystified by Shastriji using the calculus model which has an appeal to modern scientific mind.
 
-Finally, Shastriji’s brilliant exposition of Dharma in Hindu thinking is a jewel in the crown. He relates different episodes in Hindu mythology which seemingly appear inconsistent with ethical considerations but have a deeper meaning of achieving a calmer and quietened state of mind,  thus, resulting in** **śāśvata sukha. He differentiates between concepts of nyāya and Dharma. He propagates a new definition of Dharma based on his research as;’ an act done in the background of ‘Cittaśuddhi ‘or for the expansion of citta is Dharma’.
+Finally, Shastriji’s brilliant exposition of Dharma in Hindu thinking is a jewel in the crown. He relates different episodes in Hindu mythology which seemingly appear inconsistent with ethical considerations but have a deeper meaning of achieving a calmer and quietened state of mind,  thus, resulting in śāśvata sukha. He differentiates between concepts of nyāya and Dharma. He propagates a new definition of Dharma based on his research as;’ an act done in the background of ‘Cittaśuddhi ‘or for the expansion of citta is Dharma’.
 
 Shastriji’s message contained in this book endeavours to communicate deep spiritual wisdom from the Upaniṣad-s without the overload of academic discourse. It has been rendered in a scientific manner with an emphasis on the experiential and Sādhana perspective. It can quench the thirst for higher spiritual wisdom among readers from across different disciplines of knowledge and different continents.
 

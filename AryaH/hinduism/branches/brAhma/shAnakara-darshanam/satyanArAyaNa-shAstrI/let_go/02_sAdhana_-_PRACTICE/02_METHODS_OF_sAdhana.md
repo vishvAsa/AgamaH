@@ -39,7 +39,7 @@ Arjuna says it is very difficult to do that- he would rather be able to tame the
 
 **abhyāsēna tu kauṁtēya vairāgyēṇa ca gr̥hyatē.**
 
-(Bhagavad-Ġīta, 6-35)** **
+(Bhagavad-Ġīta, 6-35) 
 
 There is no doubt that mind is very unsteady, very fickle and it is very difficult to subdue it. Mind can be subdued by abhyāsa_ and _vairāgya. Whatever Pathanjali said, the very thought is here -- to show the consistency in tradition is maintained-
 
@@ -60,11 +60,11 @@ My dear Rāma, there are two methods for quietening the mind, for purifying the 
 
 ## JÑĀNA-MĀRGA (PATH OF KNOWLEDGE)
 
-Jñanamarga, as Yoga-Vāsiṣṭa’s definition goes, is**samyak** **avekṣaṇam-** whatever wrong notions we have, about the nature of sukha and about our own nature, we correct them by right ideas. This is the safest method and is most productive. A sick person can do that, a paralytic patient can do that, a woman with a child can do that, a suckling mother can do that, a boy can do that because there is no toil in this process and there is no struggle. By simple suggestions, one can counter duḥkha.
+Jñanamarga, as Yoga-Vāsiṣṭa’s definition goes, is**samyak avekṣaṇam-** whatever wrong notions we have, about the nature of sukha and about our own nature, we correct them by right ideas. This is the safest method and is most productive. A sick person can do that, a paralytic patient can do that, a woman with a child can do that, a suckling mother can do that, a boy can do that because there is no toil in this process and there is no struggle. By simple suggestions, one can counter duḥkha.
 
 By correct counselling, by auto suggestions, one can achieve the desired results. Therefore it is the easiest, safest but most productive. When the mind slips into disturbance, advise the mind to become quiet. You can do that when you are in a train; you can do that when you are driving, you can do that when you are in the office. When you get a stroke of annoyance tell yourself that annoyance is not necessary and is not your true nature.
 
-Our system is equipped with these two tools. By a long practice of suggestion, one removes the forces inside and by applying the principle of LET GO one is able to conquer the mind**.**Our system can change under the influence of suggestions. Whenever there is duḥkha in the form of speed, suggest to slowdown. Whenever there is increased focussing, suggest the system to undo** **the pressure built up at the ājñācakra by suggesting ‘let go’.
+Our system is equipped with these two tools. By a long practice of suggestion, one removes the forces inside and by applying the principle of LET GO one is able to conquer the mind**.**Our system can change under the influence of suggestions. Whenever there is duḥkha in the form of speed, suggest to slowdown. Whenever there is increased focussing, suggest the system to undo the pressure built up at the ājñācakra by suggesting ‘let go’.
 
 If you are comfortable with the speed in your profession, continue the same as long it is not burdensome to you. When the system complains, start using the method since it works wonderfully. Always remember the triple gems as we call them- **śravaṇa, Manana and Nididhyāsa** -**श्रवण, मनन, निदिधयास -**Śravaṇa is listening and forming a base thought. Manana is that where all secondary questions are sorted out. Nididhyāsa is the one where the process of softening, which has already begun due to sravaṇa and manana, culminates in the peaceful state**.**
 
@@ -86,7 +86,7 @@ My confidence is restored. My scruples are gone. My fears are gone. I can enter 
 
 Therefore, one has to tag on to slowness when ekāgrata is a must, when performance is a must. The burden of focussing is reduced very much at that point. That’s the skill. And when speed is required, be in the expansive state. Or when you are expansive, speed does not become a point for complaint.
 
-You know, when a cricket match is going on and when your side is scoring runs, you will be shouting. You will be up on your seat. But it is not taxing as you are in an expansive mood. If an athlete focuses totally on the thread line he has to reach, that builds up pressure and he will break down. Instead, if he keeps his mind relaxed his performance gets enhanced. **So any amount of focussing is acceptable for the system in the background of slowness** **and vice versa**.
+You know, when a cricket match is going on and when your side is scoring runs, you will be shouting. You will be up on your seat. But it is not taxing as you are in an expansive mood. If an athlete focuses totally on the thread line he has to reach, that builds up pressure and he will break down. Instead, if he keeps his mind relaxed his performance gets enhanced. **So any amount of focussing is acceptable for the system in the background of slowness and vice versa**.
 
 I would always do that. My son and I would try to solve the chemistry problems of our industry. I could hold on for a couple of hours, whereas he would be tired after one hour. He may be cleverer than me. But then I could hold on, because I go about the whole thing slowly whereas he is too fast or in confusion. Vedānta gives you tricks to become a better performer in your profession, may be medicine, may be engineering, may be teaching. If you apply that in your research work, qualitatively and quantitatively, your research will be of a higher order. Number of papers produced and the quality of papers will be decidedly superior. So, by understanding these points you should not be giving up focussing. Bhagavad-Ġīta puts this very nicely-**Yogaḥ karmasu kauśalam- योगः कर्मसु कौशलम्**. It is a cleverness with which we have to approach the whole problem**.**
 
@@ -108,9 +108,9 @@ Man is an extra ordinary species in the universe, unlike inanimate objects which
 
 **~vā~ svayam-ēva prasaratē svayam-ēva saṅkōcamēti ca.** (Yoga-Vāsiṣṭa. 6-9-19)
 
-It's an unusual species in the universe. It can magnify itself. It can quieten itself. It is not dictated by an external agency. All these years, you were under the belief that your psychological transactions were completely governed by stimulus response theory. Even psychology and psychiatry, nearly stayed by this notion, determinism**.** **Kārya-kāraṇa-sambandha-** **कार्यकारणसंबंध** - cause--result sequence. An abuse on me, I am disturbed. Praise on me, I am comfortable.
+It's an unusual species in the universe. It can magnify itself. It can quieten itself. It is not dictated by an external agency. All these years, you were under the belief that your psychological transactions were completely governed by stimulus response theory. Even psychology and psychiatry, nearly stayed by this notion, determinism**. Kārya-kāraṇa-sambandha- कार्यकारणसंबंध** - cause--result sequence. An abuse on me, I am disturbed. Praise on me, I am comfortable.
 
-No, says śāstra. This is a vulnerable law as far as psychological transactions are concerned. It is true with physical laws. An apple when ripe, pulled by the force of gravity, has got to fall down. Not so with us. We can refuse to be affected internally by the outside world, is the key point in Vedānta. Nothing can touch us- a death, a sorrow, a failure, lack of recognition in society, ill health - major factors of discomfort need not just touch us. **Cidānanda-rūpaḥ śivohaṁ śivohaṁ- चिदानंदरूपः शिवोहम् शिवोहम्** -I am pure, I am auspicious, I am chinmātra, I am mere consciousness, untouched by situations- this is our brahmadharma_,_ and this is our ātmadharma. In fact, if you want me to define brahmadharma or ātmadharma** **–It is a state of inside which is not touched by anything in the world. You don’t know how profitable it would be when we apply it. It has a solution to all your problems, a subjective solution and therefore permanent. Other solutions are external, objective, and segmental. This is total, subjective, therefore fully in your control. Just use it. You are liberated. The beauty of Vedānta lies in its application. Six months you try this, you are a different person.
+No, says śāstra. This is a vulnerable law as far as psychological transactions are concerned. It is true with physical laws. An apple when ripe, pulled by the force of gravity, has got to fall down. Not so with us. We can refuse to be affected internally by the outside world, is the key point in Vedānta. Nothing can touch us- a death, a sorrow, a failure, lack of recognition in society, ill health - major factors of discomfort need not just touch us. **Cidānanda-rūpaḥ śivohaṁ śivohaṁ- चिदानंदरूपः शिवोहम् शिवोहम्** -I am pure, I am auspicious, I am chinmātra, I am mere consciousness, untouched by situations- this is our brahmadharma_,_ and this is our ātmadharma. In fact, if you want me to define brahmadharma or ātmadharma –It is a state of inside which is not touched by anything in the world. You don’t know how profitable it would be when we apply it. It has a solution to all your problems, a subjective solution and therefore permanent. Other solutions are external, objective, and segmental. This is total, subjective, therefore fully in your control. Just use it. You are liberated. The beauty of Vedānta lies in its application. Six months you try this, you are a different person.
 
 My friend, who is a post doctoral fellow, professor in the Institute in Bangalore, was a highly irritable person although he was a very talented person, a rank holder all his career. He used to get upset even for very silly things outside his domain and would lose control on him and would put himself in a miserable plight. Once he listened and appreciated the simple logic put forth by me and he at once shifted his focus and set himself right. He took the situation with utter calmness. He told me that. ‘Shastriji, I applied your method and it worked wonderfully’. That’s Vedānta. Vedānta is extraordinary because it is so convincing and logical.
 
@@ -132,7 +132,7 @@ Don’t apply this law for the body problems like stomach ache, head ache, pain 
 
 What I want to impress here is that, one should use this method to soften one’s stand on various problems. Please understand that there is this freedom in you. Using it or not using is up to you. Most of the time we calm down by auto suggestion. That is the freedom I am referring to. Now I am applying this freedom at all levels. **This is all my sādhana.**
 
-Thirty years ago, I was always concentrating. I was always researching. I defeated my horrible concentrating tendency by this argument. It is not your nityadharma as the śāstra puts it. It is an āropita dharma. It can come and go. Whatever is the āropita dharma, by the very definition, you can drop it. Your objection that it cannot be dropped overnight stands well. But the whole sādhana is excellently described by Kṛṣṇa in Bhagavad-Ġīta** **as:
+Thirty years ago, I was always concentrating. I was always researching. I defeated my horrible concentrating tendency by this argument. It is not your nityadharma as the śāstra puts it. It is an āropita dharma. It can come and go. Whatever is the āropita dharma, by the very definition, you can drop it. Your objection that it cannot be dropped overnight stands well. But the whole sādhana is excellently described by Kṛṣṇa in Bhagavad-Ġīta as:
 
 **यतो यतो निश्चरति मनश्चञ्चलमस्थिरम् ।**
 
@@ -148,7 +148,7 @@ When mind goes vary, keep telling your mind that you will be steady; you will co
 
 **Q.** But we all live together in a family or society or workplace and encounter problems- when something goes wrong, particularly when it is not your fault, the annoyance is there. Even if you suppress it at that point, sometime later it throws up at some other point. What of that?
 
-**A.** Not necessary- This again is the result of our conditioning. Therefore it shows up. Now you are not suppressing it, you have proved to yourself that, even when the other person is at fault, you don’t have to work up yourself. So this quietness is based on the knowledge of your independence, your freedom, your autonomy. In the earlier method, it was suppression for decorum sake- that means you have every reason to get disturbed but you are not doing that at that moment. You were holding the very act of response, whereas here you have no cause to get disturbed. This is the realisation that you got from the study. Other fellow is at fault and you get disturbed. Given that other fellow is at fault, why you should get upset is a thing not known to man. Ātma is swatantra_, _alipta, untouched by anything good or bad. This new knowledge makes it clear that **it is not suppression but it is sublimation**. Let there be hundred errors in the world around -that need not touch me-**asaṅgo ayaṁ puruśaḥ- असङ्गो अयं पुरुषः -**a big vedantic saying. I remain untouched- this is what you have realised.** **
+**A.** Not necessary- This again is the result of our conditioning. Therefore it shows up. Now you are not suppressing it, you have proved to yourself that, even when the other person is at fault, you don’t have to work up yourself. So this quietness is based on the knowledge of your independence, your freedom, your autonomy. In the earlier method, it was suppression for decorum sake- that means you have every reason to get disturbed but you are not doing that at that moment. You were holding the very act of response, whereas here you have no cause to get disturbed. This is the realisation that you got from the study. Other fellow is at fault and you get disturbed. Given that other fellow is at fault, why you should get upset is a thing not known to man. Ātma is swatantra_, _alipta, untouched by anything good or bad. This new knowledge makes it clear that **it is not suppression but it is sublimation**. Let there be hundred errors in the world around -that need not touch me-**asaṅgo ayaṁ puruśaḥ- असङ्गो अयं पुरुषः -**a big vedantic saying. I remain untouched- this is what you have realised. 
 
 **Q.** What about the instance when your children put you in that irritable mood. Then I have to react, in order to change him.
 
@@ -162,13 +162,13 @@ This should happen in the case of desires also. Slowly but steadily one should g
 
 By auto suggestions, self counselling, gentle counselling, a time comes when the forces are all reduced-this is the manana portion. Repeatedly recalling what we have listened in śravaṇa is manana.
 
-Whenever you trip, whenever you falter, whenever you lose your poise, apply this method and a stage comes when the vāsanākşaya happens so much that even the suggestion is not necessary. This is nididhyāsa - śravaṇa improves into manana and manana improves into nididhyāsa. Nididhyāsa is a gentle sitting wherein the forces are so low that** **you can just diffuse them.
+Whenever you trip, whenever you falter, whenever you lose your poise, apply this method and a stage comes when the vāsanākşaya happens so much that even the suggestion is not necessary. This is nididhyāsa - śravaṇa improves into manana and manana improves into nididhyāsa. Nididhyāsa is a gentle sitting wherein the forces are so low that you can just diffuse them.
 
 **Ātmaparicaya - आत्मपरिचय**, **ātmābhyāsa - अत्माभ्यास and ātmaniṣṭha - आत्मनिष्ट -**are the three methods of identification for the progress.
 
-**śravaṇa is_ _ātmāparichaya -**that is,** **identification of the true nature.
+**śravaṇa is_ _ātmāparichaya -**that is, identification of the true nature.
 
-Then**manana is** **ātmābhyāsa -**repeatedly reminding the same.** **
+Then**manana is ātmābhyāsa -**repeatedly reminding the same. 
 
 And the steady state established through this process is**nididhyāsa**or**ātmāniṣṭha_._**
 
@@ -190,7 +190,7 @@ Bṛhadāraṇyaka Upaniṣad makes a beautiful comment. Why don’t you watch t
 
 **तद्यथा प्रियया स्त्रिया सम्परिष्वक्तो ।**
 
-**न बाह्यं किञ्चन वेद नान्तरम् ॥**(Bṛh. Upa, 4-3-21)** **
+**न बाह्यं किञ्चन वेद नान्तरम् ॥**(Bṛh. Upa, 4-3-21) 
 
 **Tadyathā priyayā striyā sampariṣvaktō,**
 
@@ -204,7 +204,7 @@ The best of sukha is the laingikasukha. But why don’t you see the mechanism in
 
 **एषोऽस्य परम आनन्दः, एषास्य परमा गतिः।**
 
-**ēṣaḥ-asya parama ānandaḥ, ēṣāsya paramā gatiḥ.** (Bṛh. Upa, 4-3-21)** **
+**ēṣaḥ-asya parama ānandaḥ, ēṣāsya paramā gatiḥ.** (Bṛh. Upa, 4-3-21) 
 
 This is your exalted state. This is your richest state -world doesn’t exist for you. You are a zero inside. There is a vacuum. The knower, the known, and the knowing process are all dissolved. **Tripuṭināśa-त्रिपुटिनाश**has happened. It is a sheer emptiness. In ever so many ways it is showing you what is that **ānandasthiti** which is nothing but an expansion inside.
 
@@ -246,7 +246,7 @@ When you get that tranquillity, hold on, do not disturb that. Then it is a mahā
 
 **Q**. While one is practicing this method and attain a reasonable amount of purity of mind devoid of anger and jealousy, external forces like selfishness of people around you, dishonesty, unfaithfulness, etc may disturb you from time to time. How to come out of this?
 
-**A**. The answer to this is given in** **Chāndogya Upaniṣad:
+**A**. The answer to this is given in Chāndogya Upaniṣad:
 
 **सर्वं खल्विदं ब्रह्म तज्जलानीति शान्त उपासीत ।**
 
@@ -284,7 +284,7 @@ How easy! What a recommendation! You are asked to be comfortable- that’s all. 
 
 And if focusing comes, a small attention comes. Just advise yourself that it is not necessary and you begin to diffuse. You begin to get back your quality of expansiveness. Layers and layers of diffusion can happen with this way of relaxed sitting culminating in expansiveness.
 
-**That is why, when people say that realisation is instantaneous and total, I have reservations about it and** **I feel that the expansion is a gradual process.**
+**That is why, when people say that realisation is instantaneous and total, I have reservations about it and I feel that the expansion is a gradual process.**
 
 **Q**. Are there different levels of expansion?
 
@@ -292,7 +292,7 @@ And if focusing comes, a small attention comes. Just advise yourself that it is 
 
 **अप्राणो ह्यमानाः शुभ्रो ह्यक्षरात् परतः परः।**
 
-**A-prāṇō hi-amānāḥ śubhrō hi-akṣarāt parataḥ paraḥ.** (Muṇḍaka Upaniṣad, 2-1-2)** **
+**A-prāṇō hi-amānāḥ śubhrō hi-akṣarāt parataḥ paraḥ.** (Muṇḍaka Upaniṣad, 2-1-2) 
 
 The glorious state of tuirīya is beyond the mind, prāṇa and the unmanifeseted.
 
@@ -312,17 +312,17 @@ The seed of ignorance which is prevalent in sleep, is absent in tuirīya.
 
 In nidrā, although a no mind state is reached, vyāpāra has not ceased. Triputi has gone- manovyāpāra has gone- but nonetheless you are in vyāpāra. Prāṇaspandana is there**.**Relative centres were perhaps blocked. Once these centres resume work again, you are very much in vyāpāra. You immediately ask for your bed coffee or rush for your news paper as soon as you get up--- all the forces are back in action. **You thought you were very quiet but the forces were all in the bīja or seed form, that is, in the form of small spandana or vibration**. You just slipped into sleep but, somehow and somewhere the forces were not tamed by a process. So you come back. Citta-laya had happened in nidrā_, _citta-nāśa had not happened.
 
-How does the sādhaka then tackle this?--He begins to tame the forces and kills them. The forces are vanquished in the sādhana phase. Therefore there is no residue. There is nothing like coming back to any worldly desires. A man going to samādhi this way, when he comes back he is equally soft- that is all. This is called Jāgrannidrā. That’s the difference between nidrā and turīya. Śankara clearly explains the difference between nidrā and turīya thus in Śankarabhāṣya 22 on** **Kārika, 2 of  Māṇ. Up. 1
+How does the sādhaka then tackle this?--He begins to tame the forces and kills them. The forces are vanquished in the sādhana phase. Therefore there is no residue. There is nothing like coming back to any worldly desires. A man going to samādhi this way, when he comes back he is equally soft- that is all. This is called Jāgrannidrā. That’s the difference between nidrā and turīya. Śankara clearly explains the difference between nidrā and turīya thus in Śankarabhāṣya 22 on Kārika, 2 of  Māṇ. Up. 1
 
 **दर्शनस्मरण एव हि मनः स्पन्दते। तदभावे हृद्येव अविशेषेण प्राणात्मना अवस्थानम् ।**
 
 **Darśana-smaraṇa ēva hi manaḥ spandatē, tadabhāvē hr̥di-ēva aviśēṣēṇa prāṇa-ātmanā avasthānam.**
 
-When the dream phase is not there, when the jāgrat phase is also not there, how do you exist?** **You are merely in the pulsating phase in nidrā. Chāndogya Upaniṣad (4-3-3) declares-
+When the dream phase is not there, when the jāgrat phase is also not there, how do you exist? You are merely in the pulsating phase in nidrā. Chāndogya Upaniṣad (4-3-3) declares-
 
 **स यदा स्वपिति प्राणमेव वागप्येति, चक्षुःप्राणं, श्रोत्रं प्राणं मनः प्राणं, प्राणोह्येवैतान् सर्वान् संवृङ्क्त इति ॥**
 
-**Sa yadā svapiti prāṇaṁ-ēva vāk apyeti, cakṣuḥ prāṇaṁ, śrotraṁ prāṇaṁ, manaḥ prāṇaṁ iti-** **Prāṇo-hi-ēva-ētān sarvān samvṛṁkta iti.**
+**Sa yadā svapiti prāṇaṁ-ēva vāk apyeti, cakṣuḥ prāṇaṁ, śrotraṁ prāṇaṁ, manaḥ prāṇaṁ iti- Prāṇo-hi-ēva-ētān sarvān samvṛṁkta iti.**
 
 In nidrā, every activity has gone in to that general activity. Each specialized activity has taken a general version but has not been eliminated. Prāṇa has absorbed in its womb all the specialized activities like seeing, listening, talking, and thinking. But activity has not gone in nidrā. Therefore it comes back in the jāgṛt phase. By consciously taming the forces in jāgṛt never to re-appear again, you slip into turīya state.  Therefore a jñāni cannot become angry again, since anger has been conquered consciously-boredom has been conquered consciously-focusing has become diffused, over a phase of sādhana.
 
@@ -385,7 +385,7 @@ That is the real prescription to a sādhaka. These are inner sādhana methods on
 
 ## YOGA MĀRGA (PATH OF YOGA)
 
-**Yogaḥ citta** **vṛtti nirodhaḥ**as per Patanjali. **yogo cittarodhohi-**as per Yoga-Vāsiṣṭha.  In the later, through suggestions you are softening the mind and purifying it, whereas in the former, you are actually controlling the forces. I hope you see the slight difference there. Yoga-Vāsiṣṭha further declares that:
+**Yogaḥ citta vṛtti nirodhaḥ**as per Patanjali. **yogo cittarodhohi-**as per Yoga-Vāsiṣṭha.  In the later, through suggestions you are softening the mind and purifying it, whereas in the former, you are actually controlling the forces. I hope you see the slight difference there. Yoga-Vāsiṣṭha further declares that:
 
 **मनः प्रशमनोपायो योग इत्यभिधीयते ।**
 
@@ -399,7 +399,7 @@ One could ask this question as to whether it is possible to soften the mind by s
 
 Yes, it is possible. For example, when you are walking, you are fast and ahead of your wife and your wife asks you to walk slowly and you immediately start walking slowly. How did you change from walking fast to walking slow? Yoga method is naturally available in the system. This system is capable of yoga method as it is capable of adopting Jñānamārga. Both methods are compatible with human system. Manipulations are possible. You can vary the rate of the forces inside. A doctor comes to you- wants to examine the chest for inflammation and he puts the stethoscope and asks you to take deep breath. How did you vary your breathing? You did that under the instruction from a doctor. This is a facility available at all functional centers of the human system.
 
-**Let us study the vāksthāna-**that is the place from where sounds emanate. It is possible to stretch (elongate) the śabda or sound and go to the moola or its root until a sentence decomposes into words, words decompose into letters, letters decompose into OM, and then OM decomposes into silence.. Through śabda, as a vehicle, you can apply the slowing process, until you touch the origin. Remember the famous sentence of Shri Rāmakṛṣḥṇa Paramahamsa.** **Sandhyā merges into gāyathri, gāyathri merges into OM and OM merges into silence.
+**Let us study the vāksthāna-**that is the place from where sounds emanate. It is possible to stretch (elongate) the śabda or sound and go to the moola or its root until a sentence decomposes into words, words decompose into letters, letters decompose into OM, and then OM decomposes into silence.. Through śabda, as a vehicle, you can apply the slowing process, until you touch the origin. Remember the famous sentence of Shri Rāmakṛṣḥṇa Paramahamsa. Sandhyā merges into gāyathri, gāyathri merges into OM and OM merges into silence.
 
 This is beautifully shown in Mānḍūkya Upaniṣad while dealing with parts of OMKĀRA- **Akāra** as crude,**Ukāra** as sutler, **Makāra** still sutler. Then the Upaniṣad says- **amātraḥ charthopādaḥ-**there is the unuttered sound. That means, it goes to the pre state, a very sūkṣma phase, then it becomes silence- just the idea of touching the origin or swarūpa.
 
@@ -470,16 +470,16 @@ Everyone is spending his or her energy in eating, talking chatting, and so on—
 
 This is the most important portion of sādhana wherein karmakāṇḍa practices are to be re accepted. I have coined the word for this as **ŚUBHAKARMA.**
 
-We are going to prove here that for vedāntic gains, karmakāṇḍa is the only way though it looks incompatible. When the stock of vāsana is more the only way to reduce the same is through karmakāṇḍa practices.** **You go back to japa, you go back to sahasranāma paṭhaṇa, and you go back to formal pūja. Once again, this primitive, trivial, seemingly absurd lookingprogramme is what we have to go back to.
+We are going to prove here that for vedāntic gains, karmakāṇḍa is the only way though it looks incompatible. When the stock of vāsana is more the only way to reduce the same is through karmakāṇḍa practices. You go back to japa, you go back to sahasranāma paṭhaṇa, and you go back to formal pūja. Once again, this primitive, trivial, seemingly absurd lookingprogramme is what we have to go back to.
 
 Jñānamārga would be inapplicable with students havingbig stock of rajas and tamas--even yogamārga cannot be applied. Then what is the solution for them? Do we not have a way out? And that is exactly where Indian genius has worked out wonderfully. The best of Indian research to me is thedevelopment of karmakāṇḍa details. The westerners mock at the way we have number of Gods, instead of one God. They even laugh at the idea of Gods having many wives and their children whom to be worshipped!
 
-One can choose a god of one’s taste and preference. It is a plus point to Hinduism, not a minus point.** **I worship Lakshmi if I want wealth, I worship Sarasvati if I want scholarship. If I want a peaceful contemplating God, I choose Īśvara. I can design my god to suit my taste, and relate myself with the deity. This is the defence of karmakāṇḍa. The karmakāṇḍa, which is seemingly rejected, now comes as our saviour! Karmakāṇḍa caters to any human being, depending on his/her mental status. These are derived to reach the required goal. When a learned man is chanting the mantra-s with accurate intonation and one hears them, the result is a peaceful state. The peace that we have to acquire in the name of Brahmasādhana is achieved.
+One can choose a god of one’s taste and preference. It is a plus point to Hinduism, not a minus point. I worship Lakshmi if I want wealth, I worship Sarasvati if I want scholarship. If I want a peaceful contemplating God, I choose Īśvara. I can design my god to suit my taste, and relate myself with the deity. This is the defence of karmakāṇḍa. The karmakāṇḍa, which is seemingly rejected, now comes as our saviour! Karmakāṇḍa caters to any human being, depending on his/her mental status. These are derived to reach the required goal. When a learned man is chanting the mantra-s with accurate intonation and one hears them, the result is a peaceful state. The peace that we have to acquire in the name of Brahmasādhana is achieved.
 
 
 ## SĀKĀRADHYĀNA (MEDITATION ON A FORM)
 
-We will now discuss the details of practice to be undertaken at each functional centre. Let us first take up the **CITTA**or the mind** **centre.
+We will now discuss the details of practice to be undertaken at each functional centre. Let us first take up the **CITTA**or the mind centre.
 
 If you sit and start contemplating on Brahma (Nirguṇabrahma), you will only waste your time ending up in developing headache. Instead, have a picture of God of your choice and engage your mind on that. It is a wonderful tool in your hands. Now you relate yourself with your Iṣṭadevata. If you are a Hindu you have many gods to choose. If you are Christian, then keep a picture of Jesus or Mother Mary. A certain amount of sanctity is also established by that process which will be helpful. You can even think of your Guru. If both god and guru are not acceptable to you, then have a candle light to gaze. You are connected with a person or thing which <u>does not excite the mind</u>.
 
@@ -538,11 +538,11 @@ When you are placed in helpless situation take to some type of japa. It is a mah
 
 Japa starts decomposing itself when you know that slowing has to be practiced and whatever japa that is being uttered reduces to Omkāra.
 
-Shri Rāmakṛṣṇa has rightly said that sandhyāvandana merges into mere GAYATRI JAPA. Gayatri japa merges into OM and OM when stretched, merges into silence and that is svarūpa. Mānḍūkya Upaniṣad puts this as- amātraḥ Caturthaḥ pādaḥ-there is no activity or vyāpāra at all when silence sets in.** **
+Shri Rāmakṛṣṇa has rightly said that sandhyāvandana merges into mere GAYATRI JAPA. Gayatri japa merges into OM and OM when stretched, merges into silence and that is svarūpa. Mānḍūkya Upaniṣad puts this as- amātraḥ Caturthaḥ pādaḥ-there is no activity or vyāpāra at all when silence sets in. 
 
 **Q.** What about mukti?
 
-**A.** The point of importance is that we have reversed the direction. Bhagavad-Ġīta** **states:
+**A.** The point of importance is that we have reversed the direction. Bhagavad-Ġīta states:
 
 **अनेकजन्म संसिद्धः ततो याति परां गतिम् ।**
 
@@ -615,7 +615,7 @@ No desire and no activity is -**Turīya.**
 
 ## OTHER NEUTRAL ACTIVITIES
 
-For some people,** **japa is not sufficient for expenditure of large amounts of energy. For them, still a courser activity is required for spending the stock of energy. Japa is inner articulation. For that reason, our ancestors suggested the use of loud chanting of names of the Lord. Again this is a neutral activity. They designed the Sandhyā-Vandana which was a still coarser method. Performance of this involves time, resulting in spending larger amounts of the bothering energy.
+For some people, japa is not sufficient for expenditure of large amounts of energy. For them, still a courser activity is required for spending the stock of energy. Japa is inner articulation. For that reason, our ancestors suggested the use of loud chanting of names of the Lord. Again this is a neutral activity. They designed the Sandhyā-Vandana which was a still coarser method. Performance of this involves time, resulting in spending larger amounts of the bothering energy.
 
 Hindus have the practice of offering Śodaśa Pūja to God every day. They have Aṣṭottara-Nāma-s or Sahasra-Nāmā-s for each Deity. They have a number of Vrata-s which are being celebrated throughout the year. Each such Vrata is having its own discipline and code for itsperformance resulting in expenditure of energy.
 
@@ -625,7 +625,7 @@ Although our elders prescribed these methods, they could not explain why such an
 
 If present generation gets such clarity of mind, what was thought as meaningless and incompatible religious practices, becomes beneficial and meaningful.
 
-I laughed at Hinduism in my college days, ridiculed the gāyatri japa and all that. Now, I am the very fellow advocating gāyatri to everyone. A very big scientist from an Institute in Bangalore, who swore by Sartre and ridiculed everything that is in Hinduism, is now learning Puruṣasūkta and other mantra-s, once he got an exposure to this science of Vedānta and its importance. Concentrating on GOD is not as tiring as concentrating on a mundane thing because of the role of rāga and dveṣa in the latter and absence of it in the former. That has to be taken notice of. That is why ultimately when we come to sādhana, we shift from the unholy to the holy. If you keep thinking of God, violent emotions do not bother you, do not cripple** **you.
+I laughed at Hinduism in my college days, ridiculed the gāyatri japa and all that. Now, I am the very fellow advocating gāyatri to everyone. A very big scientist from an Institute in Bangalore, who swore by Sartre and ridiculed everything that is in Hinduism, is now learning Puruṣasūkta and other mantra-s, once he got an exposure to this science of Vedānta and its importance. Concentrating on GOD is not as tiring as concentrating on a mundane thing because of the role of rāga and dveṣa in the latter and absence of it in the former. That has to be taken notice of. That is why ultimately when we come to sādhana, we shift from the unholy to the holy. If you keep thinking of God, violent emotions do not bother you, do not cripple you.
 
 A famous Mexican philosopher who knew this point advised his student to get the lessons in non doing. How did he teach? He asked his student to walk around his house clasping both the hands, keeping them behind his back, thirty times in the morning, thirty times in the afternoon and thirty times in the evening. The student took this seriously and did as prescribed by his teacher for six months. This sort of neutral activity put the student in the phase of non doing.
 
@@ -650,7 +650,7 @@ The second presumption is –**Phala-anusandhāna- rāhitya – फलानु�
 
 The third presumption is- **Īśvara-arpaṇa budhyā vā - ईश्वरार्पण बुध्या वा**. Just accept that you are only a proxy and the result that you get out of the work done is taken care of by HIM and you are only his obedient servant. This relationship with the Almighty, when tagged on to the work you do, gives you an expansive state.
 
-The fourth presumption is-**Yajña dṛṣṭyā vā - यज्ञदृष्ट्या वा.** Every action performed by you can be turned into a Yajña wherein the indulgence is replaced by moderation in action. If one is invited for a lunch or a dinner with an Indian family, one has to wait patiently till all the food is served on the plate. Then the host offers the food to the Lord by saying Kṛṣṇārpaṇamastu -**कृष्णार्पणमस्तु**.** **Let all the food be offered to the Lord. After a brief prayer, everyone starts taking the food. This is an example of Yajñadṛṣṭi. This goes to show that one should not rush to satisfy the indulgence of the tongue. Likewise other indriyā-s can be mellowed down. Every bhoga can be turned into a Yajña. The feeling that bhoga is cheap is removed here, patience is introduced and a lesson in waiting is incorporated. If this attitude is taken up then any action could be converted into yajña. We will now study how a jnāni melts up activities of bhoga also by applying this attitude. This will be an excellent tool for sādhana.
+The fourth presumption is-**Yajña dṛṣṭyā vā - यज्ञदृष्ट्या वा.** Every action performed by you can be turned into a Yajña wherein the indulgence is replaced by moderation in action. If one is invited for a lunch or a dinner with an Indian family, one has to wait patiently till all the food is served on the plate. Then the host offers the food to the Lord by saying Kṛṣṇārpaṇamastu -**कृष्णार्पणमस्तु**. Let all the food be offered to the Lord. After a brief prayer, everyone starts taking the food. This is an example of Yajñadṛṣṭi. This goes to show that one should not rush to satisfy the indulgence of the tongue. Likewise other indriyā-s can be mellowed down. Every bhoga can be turned into a Yajña. The feeling that bhoga is cheap is removed here, patience is introduced and a lesson in waiting is incorporated. If this attitude is taken up then any action could be converted into yajña. We will now study how a jnāni melts up activities of bhoga also by applying this attitude. This will be an excellent tool for sādhana.
 
 An idiot’s suffering is due to pulls and pressures. The superior or sensitive man’s suffering is because of imagined idealism. This is very clearly brought out in TaittirĪya Upaniṣad (2-9-2):
 
@@ -728,7 +728,7 @@ Drop both righteousness and un-righteousness, truth as well as un-truth. Having 
 
 **Q.** This is something like our leaving everything to Lord Nārāyaṇa and get the comfort by not taking the burden on ourselves.
 
-**A.** Exactly the same way. This is surrender bhāva. The sankocata is gone. In that background if you do research, it is not a burdensome** **research at all.
+**A.** Exactly the same way. This is surrender bhāva. The sankocata is gone. In that background if you do research, it is not a burdensome research at all.
 
 **Q.** When we leave the rest to GOD are we not already in the non focussing state?
 
@@ -738,7 +738,7 @@ Drop both righteousness and un-righteousness, truth as well as un-truth. Having 
 
 **A**. Vedānta is very liberal. By whatever argument, if you can diffuse, it is accepted. If beating a table or turning a wheel can diffuse you, fine- please do it. That’s the Indian design. When you go on rounds in a temple, the very act takes away the energy. By your simple trust in God, your mind expands. Don’t bother about the method- being reasonable or unreasonable. If the result is there – take to that method.
 
-I** **have envied people who can surrender in a twinkle of the eye whereby focusing goes and ego is smashed. That is the quickest method.
+I have envied people who can surrender in a twinkle of the eye whereby focusing goes and ego is smashed. That is the quickest method.
 
 **Q.** Should we be bothered about the time taken for achievement?
 
@@ -807,7 +807,7 @@ May all see the good in others.
 
 May none suffer from sorrow.
 
-Then, the above concept begins to set in the mind. In the whole process, ego should vanish and that is the main concern for the sādhaka.** **You should understand that when the mind becomes empty at that moment of prēmabhāva, where is the question of moha?
+Then, the above concept begins to set in the mind. In the whole process, ego should vanish and that is the main concern for the sādhaka. You should understand that when the mind becomes empty at that moment of prēmabhāva, where is the question of moha?
 
 **Q.** The ecstasy developed through prēma can cause a lot of mental damage. How do we rate this?
 
@@ -853,7 +853,7 @@ But, when you are looking at the process of surrender, you are still in the ego 
 
 **Q.** Sir how do the pursuits and goals that one has set up fit into vedāntic pursuit of happiness?
 
-**A.** That’s a very good question and a very contextual question. What else can be a goal of man? It ought to be one’s happiness or the happiness ofone’s near and dear? If you are more liberal it can be the happiness of the globe. **Sarvē** **bhavantu sukhinaḥ -**सर्वॆ भवन्तु सुक्खिन:**.** Let all beings be happy throughout this Universe.Every pursuit of man, trivial or profound, is in the direction of happiness. At the smallest level, it is indriyabhoga**.** At the next level, it is the joy of achievement. At a still higher level, it is the joy of service, giving something worthwhile to the society at large. Everything becomes Joy, comfort, ānanda. Why does one serve staying by the side of a sick patient spending six hours of the night? It is to get the joy of comforting the sick. Don’t you think that this joy is superior to others? Nonetheless it is the joy of comforting a human, the sick person. Everywhere the ultimate motivation is ānanda and sukha.
+**A.** That’s a very good question and a very contextual question. What else can be a goal of man? It ought to be one’s happiness or the happiness ofone’s near and dear? If you are more liberal it can be the happiness of the globe. **Sarvē bhavantu sukhinaḥ -**सर्वॆ भवन्तु सुक्खिन:**.** Let all beings be happy throughout this Universe.Every pursuit of man, trivial or profound, is in the direction of happiness. At the smallest level, it is indriyabhoga**.** At the next level, it is the joy of achievement. At a still higher level, it is the joy of service, giving something worthwhile to the society at large. Everything becomes Joy, comfort, ānanda. Why does one serve staying by the side of a sick patient spending six hours of the night? It is to get the joy of comforting the sick. Don’t you think that this joy is superior to others? Nonetheless it is the joy of comforting a human, the sick person. Everywhere the ultimate motivation is ānanda and sukha.
 
 Thank you, one and all, for staying with me and sharing my thoughtsall these days and I hope that all of you attain inner peace, which is the only thing to be attained in this world. Benefit by the vedāntic truths and lead a happy life as Upaniṣad-s proudly announce:
 
@@ -880,7 +880,7 @@ There is a cetana, which by a powerful kumbhana establishes a potential as a res
 
 Closely integrated with the karma aspect, there is the Dharma aspect also. This is the sādhana portion of the karmakāṇḍa. The theory portion of Dharma is covered in the message of Upaniṣads. Man thought that sukha was in the objects of enjoyments and the indriyā-s connecting them. A connection between the viśaya and viśayi gives us the sense of joy. That is a surface truth. But the real truth is that when viśaya and viśayi come together, the joy or sukha results in an empty state of mind.
 
-See the enormous difference between the first and the second conclusion. Eating gives me joy. Any sweet dish gives me joy. The corresponding indriya and the required object getting a contact produces the happy state –** **
+See the enormous difference between the first and the second conclusion. Eating gives me joy. Any sweet dish gives me joy. The corresponding indriya and the required object getting a contact produces the happy state – 
 
 **विषयिविषयसम्बन्धजनितः सुखः॥**
 
@@ -908,7 +908,7 @@ If you practice dharma, dharma itself takes care of your welfare. Your Iha- इ�
 
 Wwhatever śāstra is telling you in terms of dos and don’ts is dharma.
 
-All these do not give us a sustainable position as far as practice is concerned. This is more orthodox in nature. This also did not help me when I went as an earnest research student. Notwithstanding this difficulty, we have number of dhārmic tenets or dhārmic practices observed in every Hindu home even without knowing definition of dharma. In** **Taittirīya Upaniṣad-Śikshāvalli, the following are a few dhārmic injunctions:
+All these do not give us a sustainable position as far as practice is concerned. This is more orthodox in nature. This also did not help me when I went as an earnest research student. Notwithstanding this difficulty, we have number of dhārmic tenets or dhārmic practices observed in every Hindu home even without knowing definition of dharma. In Taittirīya Upaniṣad-Śikshāvalli, the following are a few dhārmic injunctions:
 
 **Satyam vada, Dharmam cara- सत्यं वद धर्मं चर।** Always speak the truth and follow dharma.
 
@@ -916,7 +916,7 @@ All these do not give us a sustainable position as far as practice is concerned.
 
 **Mātr̥dēvō bhava, pitr̥dēvō bhava, ācāryadēvō bhava**
 
-Hold Mother as God, Father as God, Teacher as God etc. These** **are all orders from a guru to the disciple when he leaves the ashram after the study.
+Hold Mother as God, Father as God, Teacher as God etc. These are all orders from a guru to the disciple when he leaves the ashram after the study.
 
 Whereas it is not mandatory in the west to take care of their parents in their old age, it is a dictum in Hindu Dharma. All the problems of providing separate shelter and facility for the old are just struck off by an injunction in Hindu tenets which says that they have to be looked upon as ‘gods’ and hence to be cared for. What a safe society it becomes when dharma tenets are applied? **Mātr̥vat paradārāṁśca  - मातृवत् परदारांश्च**। Look at this great thinking. Every woman other than your wife is a mother like to you. If man were to practice this dharma, all crimes born out of illegitimate relationships get routed out and society becomes safe. Rape and kill is a very common affair now a days and this can be eradicated if one were to follow this tenet. In Taittirīya Upaniṣad (3-7, 8) we have following mantra:
 

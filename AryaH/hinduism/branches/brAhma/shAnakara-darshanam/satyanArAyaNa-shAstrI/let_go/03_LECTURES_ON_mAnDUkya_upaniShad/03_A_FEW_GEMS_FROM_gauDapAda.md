@@ -44,7 +44,7 @@ _As per Shastriji, the Advaita Prakaraṇa of Gaudapāda Kārika of Māṇdūkya
 
 **Paryāyēṇa tri-sthānatvāt saḥ-aham iti smr̥tyā prati-sandhānāt-ca sthānatraya-vyatiriktatvam śuddhatvam ēkatvam asaṅgatvam ca siddham iti abhiprāyaḥ.**
 
-Since you are changing the three states and confirm that you are the same fellow in these states, you are one, you are pure, untainted and not linked with any of the three states. There were moments in your life when you stood aloof from these dharmā-s, you are pure and single and are unattached. Ultimately one has to come out of all these dharmā-s instead of fighting what is tamas and rajas! The state, where there is no outside cognition or inside cognition or even mere prāṇavyāpāra as in Nidra, is known as **Turīya** where you are untainted. Even for a** **paramahaṁsa sanyāsi who is exempted from sandhya or gayatri must hold on to prāņava japa. This is because the avidita forces are not easy to dissolve. Otherwise he will slip into corresponding nidrā. With a loss of awareness how can you manipulate? That means you must be wakeful and then decompose using onkāra in a very minimal way.
+Since you are changing the three states and confirm that you are the same fellow in these states, you are one, you are pure, untainted and not linked with any of the three states. There were moments in your life when you stood aloof from these dharmā-s, you are pure and single and are unattached. Ultimately one has to come out of all these dharmā-s instead of fighting what is tamas and rajas! The state, where there is no outside cognition or inside cognition or even mere prāṇavyāpāra as in Nidra, is known as **Turīya** where you are untainted. Even for a paramahaṁsa sanyāsi who is exempted from sandhya or gayatri must hold on to prāņava japa. This is because the avidita forces are not easy to dissolve. Otherwise he will slip into corresponding nidrā. With a loss of awareness how can you manipulate? That means you must be wakeful and then decompose using onkāra in a very minimal way.
 
 Why do you think of three states and examine them? Gauḍapāda puts it very nicely- In one wakeful state itself we can have the three properties.
 
@@ -250,7 +250,7 @@ Indriyavyāpāra is called bhogavāsana. Karmendriyavyāpāra is called karmavā
 
 **Aniṅganamana-ābhāsaṁ niṣphannaṁ brahma tat-tadā.**(Mā.Up.3-Kā.46)
 
-(When the mind does not lapse into inactivity and is not distracted by desires, that is to say, when it remains unshakable and does not give rise to appearances, it verily becomes Brahman.)** **
+(When the mind does not lapse into inactivity and is not distracted by desires, that is to say, when it remains unshakable and does not give rise to appearances, it verily becomes Brahman.) 
 
 When the mind is no more wandering, that is the brahmasthiti. When there is movement it is called mind, when it is not there then it is brahman.
 

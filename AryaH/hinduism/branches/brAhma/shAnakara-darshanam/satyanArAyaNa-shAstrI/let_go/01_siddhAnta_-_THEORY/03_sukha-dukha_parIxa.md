@@ -4,7 +4,7 @@ title = "03 SUKHA-DUḤKHA PARĪKṣA"
 +++
 (AN ANALYSIS OF HAPPINESS AND SUFFERING)
 
-The credit of discovering this path definitely has to go to me. In my days of intense suffering, I was frantically searching for solutions in Vedānta śāstrās by thorough study of the texts along with the invaluable commentary by Śankara on them. This in-depth search of mine led to the discovery of the above path. When presented in the public, many took it with disbelief and they naturally wanted sanction in Vedāntic Texts or Śāstra Pramāna. In Chāndogya Upaniṣad (7-22)** **Sanatkumāra (the teacher) tells Nārada (the student) that:
+The credit of discovering this path definitely has to go to me. In my days of intense suffering, I was frantically searching for solutions in Vedānta śāstrās by thorough study of the texts along with the invaluable commentary by Śankara on them. This in-depth search of mine led to the discovery of the above path. When presented in the public, many took it with disbelief and they naturally wanted sanction in Vedāntic Texts or Śāstra Pramāna. In Chāndogya Upaniṣad (7-22) Sanatkumāra (the teacher) tells Nārada (the student) that:
 
 **यदा वै सुखं लभतेऽथ करोति।**
 
@@ -34,7 +34,7 @@ Hence, we have to investigate or do the parīkṣa of sukha only. Therefore the 
 
 Oh my Lord, let me know about the secrets of Sukha.
 
-In Taittirīya Upaniṣad, (2-8) the aspect of Ānanda or Happiness or Sukha is discussed in detail:** **
+In Taittirīya Upaniṣad, (2-8) the aspect of Ānanda or Happiness or Sukha is discussed in detail: 
 
 **सैषानन्दस्य मीमांसा भवति।**
 
@@ -57,9 +57,9 @@ What's the nature of mind at that time? Anxiety! Insecurity! Fear! Doubt! The st
 
 The most powerful example that I always remember to illustrate, is to imagine the mental state of your wife or daughter or your sister when a baby is about to be delivered in the family. Admitted to the hospital/ nursing home, the lady is moved to the operation theatre. Watch the husband or father or the mother of the lady in question. They are all anxious, moving up and down the corridor of the hospital. Would it be a simple labour case? Would it be a forceps case? Would it be a caesarean case? Would the child and the mother be safe? The state of mind of the concerned person, when observed, points to **Uncertainty, Anxiety, Impatience, Fear,**which are all attributes of duḥkha.
 
-Similarly, Rāga-attraction,** **Dveṣa-repulsion, Bhaya-fear, are also facets of duḥkha. Jealousy comes when you have only one car and your neighbour has more than that. You grudge him. You feel small. It's that inferiority complex that bothers you- this is a duḥkha attribute. Mind is agitated, excited and troubled. You try to further see the common factor through a scientist's eye-that is, to reduce many things into as few things as possible.
+Similarly, Rāga-attraction, Dveṣa-repulsion, Bhaya-fear, are also facets of duḥkha. Jealousy comes when you have only one car and your neighbour has more than that. You grudge him. You feel small. It's that inferiority complex that bothers you- this is a duḥkha attribute. Mind is agitated, excited and troubled. You try to further see the common factor through a scientist's eye-that is, to reduce many things into as few things as possible.
 
-It is a wellestablished fact in Vedānta that the entire set of activities of a human being, both physical and psychological, are nothing butPrāṇic Activity only. Prāṇa is defined as ‘Gatiḥ Prāṇaḥ’-** गतिः प्राणः**. Movement is Prāṇa. Movement is vibration or pulsation. Chāndogya Upaniṣad** **declares that:
+It is a wellestablished fact in Vedānta that the entire set of activities of a human being, both physical and psychological, are nothing butPrāṇic Activity only. Prāṇa is defined as ‘Gatiḥ Prāṇaḥ’-** गतिः प्राणः**. Movement is Prāṇa. Movement is vibration or pulsation. Chāndogya Upaniṣad declares that:
 
 **…स यदा स्वपिति प्राणमेव वागप्येति । प्राणं चक्षुःप्राणं श्रोत्रं प्राणं मनः प्राणोह्येवैतान् सर्वान् संवृङ्क्त इति।**
 
@@ -138,7 +138,7 @@ I want you to appreciate this point. The world of technology and the civilizatio
 
 While attachment (focussing) is sufferring, detachment (diffusion) alone leads to liberation.
 
-Focussing, pinpointedness, concentration, coning, etc. all result in untold suffering or Duḥkha. Whereas, Vistārata or diffusion or expansive state of mind gives you Sukha or happiness or deliverance from Duḥkha. Therefore drop burdensome/tiresome focussing and concentration and adopt a**Let go** **attitude** as far as possible. This is called **Udāsīnabhāva- उदासीनभाव.**
+Focussing, pinpointedness, concentration, coning, etc. all result in untold suffering or Duḥkha. Whereas, Vistārata or diffusion or expansive state of mind gives you Sukha or happiness or deliverance from Duḥkha. Therefore drop burdensome/tiresome focussing and concentration and adopt a**Let go attitude** as far as possible. This is called **Udāsīnabhāva- उदासीनभाव.**
 
 This focussing is the main aspect of Duḥkha for an intellectual. The duḥkha of a non intellectual or worldly person is to hanker for small things such as satisfaction of the tongue, attainment of status and recognition etc. Even the role of the social worker is to think about the ways of serving the society. What about the householder then? He worries about the children, about the wife, about the bank deposit? How does it help him to come out of duḥkha? As said in Yoga-Vāsiṣṭa (6-9-418)-
 
@@ -156,7 +156,7 @@ If cāncalya is a bandhana then ēkāgratā also is a bandhana. When these are p
 
 Anyway, **speed and focussing** are the two aspects of duḥkha. It is a very big piece of research whatever we have discussed in these ten minutes. Duḥkha is completely understood through these two words- speed - **vega- वेग**and focussing (Lakshya). Thus, duḥkha is either an agitated state of mind or a focussed state of mind. <u>If agitation is replaced by **naidhānya- नैधान्य**, gradually and consciously it will result in less and less of duḥkha. Whenever focussing becomes burdensome, replace the same by de-focussing or diffusion (‘let go’ attitude - udāsīnabhāva).</u> And again the result will be elimination of duḥkha. More you diffuse, more will be the expansion of your shell. Ramaṇa and R<u>ā</u>makṛṣṇa would often say 'I don’t know where I exist. I am not centred.' The point here is that they did not even know where they were. To that extent the diffusion had taken place. We identify ourselves with some place or work as a reference point when we ask ourselves as to where we are. Whereas, a Jñāni would say that he cannot see himself and confirms that he has lost his focus. That’s the experiential announcement of a jñāni.
 
-As doctors put it, half the remedy is achieved by proper diagnosis. So if you are convinced that the points raised above are the symptoms of Duḥkha, then replace**Vēga by slowness** **and focussing by expansion**. This is the solution to the problem of duḥkha. That was our research to come out of duḥkha. Sankochatā or constriction or narrowing down is replaced by Vistāratā-**विस्तारता** -everywhereness, spreadness.
+As doctors put it, half the remedy is achieved by proper diagnosis. So if you are convinced that the points raised above are the symptoms of Duḥkha, then replace**Vēga by slowness and focussing by expansion**. This is the solution to the problem of duḥkha. That was our research to come out of duḥkha. Sankochatā or constriction or narrowing down is replaced by Vistāratā-**विस्तारता** -everywhereness, spreadness.
 
 That’s where a scientist is at an advantage over the pundit as far as Vedānta is concerned. We are at a distinct advantage than our forefathers who did not know this vocabulary. They did not know this scientific phraseology because they didn’t know aspects like density, potential etc. Duḥkha is localization. Non localized- spread version is the solution for the state of burden. So once you know this, you have the answer.
 
@@ -182,7 +182,7 @@ What a wonderful truth! The mind can do this way, it can do the other way, it ca
 
 Here is the difference between the **jaḍa** and the **cetana,**the inanimate and the animate. In the case of a **jaḍavastu** like football- it cannot manipulate itself. When left in a place for fifty thousand years, it stays there. It cannot vary by itself. If one pushes, then it moves. It is a helpless mass, it has no choice. It is governed totally by the stimulus and response.
 
-**Cetana**on the other hand, has the freedom of action, a facility not available with jaḍavastu. Let us say – a fellow has hurt me. I have a reason to get into depression or hit back with anger. Or, I can as well say ‘let him have his own opinion, why should I bother?’ **The evil forces dissolve by applying the second suggestion.**This is the available freedom** **in us.
+**Cetana**on the other hand, has the freedom of action, a facility not available with jaḍavastu. Let us say – a fellow has hurt me. I have a reason to get into depression or hit back with anger. Or, I can as well say ‘let him have his own opinion, why should I bother?’ **The evil forces dissolve by applying the second suggestion.**This is the available freedom in us.
 
 To say that the external situations determine one’s mental state is a wrong thing. With the recognition of the freedom element in him, a person can have a strong volition, will or autonomy. Everyone’s home becomes beautiful if he can grow as wise as this. Any difference of opinion can be accepted. An opinion suggested by the other person may be foolish. But one need not be disturbed by that because of the freedom element human beings have. Look at the contribution of Vedānta to individual suffering and therefore to global suffering!
 
@@ -191,7 +191,7 @@ I can put this one argument into the textual language. <u>This freedom of choice
 
 ## SUKHA PARĪKṣA (HAPPINESS ANALYSED)
 
-Now let us examine the concept of Sukha as understood by our** **R̥ṣi-s. One may say that Duḥkharāhitya or absence of Duḥkha is not Sukha. It is the general notion that Sukha is positive and comes from:
+Now let us examine the concept of Sukha as understood by our R̥ṣi-s. One may say that Duḥkharāhitya or absence of Duḥkha is not Sukha. It is the general notion that Sukha is positive and comes from:
 
 
 
@@ -259,11 +259,11 @@ Bhūma state is really the blessed state, the blissful state as against the conf
 
 **नापूर्वं वक्षति श्रुतिः**। **Na-pūrvaṁ vakṣati śrutiḥ.**
 
-Śruti** **doesn’t tell you anything that is not within the zone of your experience.
+Śruti doesn’t tell you anything that is not within the zone of your experience.
 
 **ज्ञापकमात्रम् हि शास्त्रम्**- **Jñāpaka-mātram hi śāstram -**- Śāstra is but a reminder of whatever you know. Every experience of sukha, is verily a mind in broken state—a decomposed mind---a non functioning mind. In fact, the thought formation forces cannot connect themselves into a thought. What a realization! You see that every joy is an empty state of mind-an expansive state of mind- an **advaitasthiti- अद्वैतस्थिति.**
 
-Even sukha, on examination, reduces itself to a no-mind state. If the frequency moments of sukha are increased very much, you are just nonexistent and the shell is terribly expanded for a moment. This is the same as the state of vistārata described as a remedy to Duḥkha. There is a gradation in Duḥkha state -continuous duḥkha – ati-duḥkha - somewhat duḥkha - very slight duḥkha - the curve reaches a no mind state - you cannot even think further. A further inference of this one, a bigger version of this process, makes one to conclude that, sukha and duḥkha, being separate entities, are interconnected. They are very much like conductivity and resistance. Reciprocal of resistance is conductivity. Reciprocal of conductivity is resistance. Less and less of duḥkha is more and more of sukha.** **Thus there are only two aspects of Duḥkha-
+Even sukha, on examination, reduces itself to a no-mind state. If the frequency moments of sukha are increased very much, you are just nonexistent and the shell is terribly expanded for a moment. This is the same as the state of vistārata described as a remedy to Duḥkha. There is a gradation in Duḥkha state -continuous duḥkha – ati-duḥkha - somewhat duḥkha - very slight duḥkha - the curve reaches a no mind state - you cannot even think further. A further inference of this one, a bigger version of this process, makes one to conclude that, sukha and duḥkha, being separate entities, are interconnected. They are very much like conductivity and resistance. Reciprocal of resistance is conductivity. Reciprocal of conductivity is resistance. Less and less of duḥkha is more and more of sukha. Thus there are only two aspects of Duḥkha-
 
 One is the Speed, at thinking centre or cittasthāna (mind centre – Ājñācakra – space between the eye brows). The other is the focussing-which is constant minding, resulting in one pointedness and this is termed as sankocata. This is also termed as a coning phase. In order to overcome these two aspects of duḥkha:
 
@@ -292,7 +292,7 @@ I will take up questions from you to sort out any doubts on whatever we discusse
 
 **A.** Yes, but we get a glimpse of that śāṣvata sukha in this bhogasukha. Therefore one has to see this welcome element and stay firm in it and then reject the hankering for bhoga.
 
-**Q**Does** **the peace of mind, as described above relate to viṣayasukha?
+**Q**Does the peace of mind, as described above relate to viṣayasukha?
 
 **A.** This is another good objection on sukha. But it is that peace of mind that is referred to as sukha in the tradition also. Again the two questions overlap. Actually in our viṣayasukha moment, the penultimate positions are in excitement whereas the real point is in peace. We are tempted to say that this excitement is a sukha element. The penultimate centres are in excited state and therefore one is tempted to conclude sukha carries the element of excitement which is the previous position or the taditarasthāna. The after position or the samīpasthāna is the peaceful expansive state. When we discuss the mechanism of sukha in the next lecture, we will discuss the things involved in the mechanism of bhogasukha and then clarity would come to all of you.
 
@@ -310,7 +310,7 @@ I remember one instance when I had to undergo a minor operation. I was waiting i
 
 **Q.** But that does not mean I stop concentrating. I may be taking a break but I am still in that mood? We cannot stop our attention mood as it is very important in life?
 
-**A.** No. The śāstra is examining facts and their nature. That’s the point. How much of śāstra you will use for your life is another question. That’s a matter of necessity. That’s a matter of the situation or the profession in which you are placed. I am not advising everyone to give up focussing or speed. But one very important point you must remember here is, that when I am talking of speed**it is not the physical speed. It is the internal speed. The speed** **of the mind within** **is thousand times faster than the speed at the physical level.** One has to keep this always in mind when we talk of reducing speed.
+**A.** No. The śāstra is examining facts and their nature. That’s the point. How much of śāstra you will use for your life is another question. That’s a matter of necessity. That’s a matter of the situation or the profession in which you are placed. I am not advising everyone to give up focussing or speed. But one very important point you must remember here is, that when I am talking of speed**it is not the physical speed. It is the internal speed. The speed of the mind within is thousand times faster than the speed at the physical level.** One has to keep this always in mind when we talk of reducing speed.
 
 **Q.** Is it possible to drop speed when you are focussing?
 
@@ -372,7 +372,7 @@ He asks Kṛṣṇa, ‘Why are you forcing me to the war which is very bad alth
 
 **A.** The other point where Vedānta makes a mark is to let that person examine whether he can be happy without doing. Most of us cannot remain so, though logically that position is correct. Even I cannot do that. Why? There is the boredom force acting within, which is driving one to activity. I will come to that in the next lecture when we do ātmaparīkṣa. The reason for anyone who says that he is doing work for so many good causes is that he cannot keep quiet. The proof for this is very simple. If I challenge you to sit quiet for ten minutes without doing anything, you may say that it is very easy. But if I ask you to remain quiet for half an hour, then you fail the test. Why?
 
-Vedānta gives an answer to that point in the **yogaśāstra- योगशास्त्र**. There is what is called a life force, a vital force or **kundaliniśakti- कुण्डलिनीशक्ति**, if you care to use a technical word. It is there at the **mūlādhāra- मूलाधार** and is continuously releasing **sūkṣmaśakti- सूक्ष्मशक्ति** or**prāṇaśakti** into the system, to every part of the body. It flows up into the **ūrdhvasthāna- ऊर्ध्वस्थान**and comes to **ājñācakrasthāna- आज्ञाचक्रस्थान**, where pressure is built up.** **If the rates at which it is produced and expended are not equal, then you develop a pressure. And the pressure so developed drives you into activity. This is the most reasonable explanation.
+Vedānta gives an answer to that point in the **yogaśāstra- योगशास्त्र**. There is what is called a life force, a vital force or **kundaliniśakti- कुण्डलिनीशक्ति**, if you care to use a technical word. It is there at the **mūlādhāra- मूलाधार** and is continuously releasing **sūkṣmaśakti- सूक्ष्मशक्ति** or**prāṇaśakti** into the system, to every part of the body. It flows up into the **ūrdhvasthāna- ऊर्ध्वस्थान**and comes to **ājñācakrasthāna- आज्ञाचक्रस्थान**, where pressure is built up. If the rates at which it is produced and expended are not equal, then you develop a pressure. And the pressure so developed drives you into activity. This is the most reasonable explanation.
 
 The proof is very simple. Sit in the house without any work. That is the biggest test, to check whether you are growing in the vedāntic way or not. No wife to talk to. No kitchen where you can go and get some salted cashew nut or anything of that kind. No tape recorder to play music. Sit and try. Try this simple experiment. Everybody in the world fails. Why?
 

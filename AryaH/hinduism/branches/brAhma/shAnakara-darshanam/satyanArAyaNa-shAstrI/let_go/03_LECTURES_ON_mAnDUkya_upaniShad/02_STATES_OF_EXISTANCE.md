@@ -93,17 +93,17 @@ Any sukha is āyāsa-rāhitya. What is the āyāsa that was found in jagrat and 
 
 **Manasaḥ viṣaya viṣayi-ākāra-spandana-āyāsa duḥkha-abhāvāt ānanda-mayaḥ.**
 
-You are continuously** **oscillating between two pulsations - thinking and emotions which are the taxing elements.
+You are continuously oscillating between two pulsations - thinking and emotions which are the taxing elements.
 
-**तत् रहितत्वात् आनन्दभुक् - tat rahitatvāt ānandabhuk -**the absence of these two gives ānanda.** **
+**तत् रहितत्वात् आनन्दभुक् - tat rahitatvāt ānandabhuk -**the absence of these two gives ānanda. 
 
 **दर्शन स्मरणे ऎव हि मन: स्पन्दिते -  darśana smaraṇē eva hi manaḥ spanditē**- Mind reacts only to the experiences of senses as well as memory.
 
 **तदभावे हृद्येव अविशेषेण प्राणात्मना अवस्थानम् ।**
 
-**Tat-abhāvē hr̥di-ēva aviśēṣēṇa prāṇa-ātmanā avasthānam -**In the absence of it** **you are mere spandana of prāṇa.
+**Tat-abhāvē hr̥di-ēva aviśēṣēṇa prāṇa-ātmanā avasthānam -**In the absence of it you are mere spandana of prāṇa.
 
-We should never lose sight of the main issue of our study which is to **give us clarity about what should man do in the name of coming out** **of duḥkha and attaining permanent happiness.** We should search for situations where we are permanently happy.
+We should never lose sight of the main issue of our study which is to **give us clarity about what should man do in the name of coming out of duḥkha and attaining permanent happiness.** We should search for situations where we are permanently happy.
 
 In jāgṛt it is a divided happiness, broken as it were. Such a thing is not there in nidrā. One could pose a naughty question as to why he should study the nidrā phase in man! The lesson is, that it is the happiest state by anybody’s admission and is not because of any religious brainwashing. Every one, whether he is cultured or not says that nidrā is the happiest state. Man would forego anything in preference to sleep.
 
@@ -149,7 +149,7 @@ Perform all the tasks of your wakeful state in a leisurely manner and incorporat
 
 **sa buddhimān manuṣyēṣu sa yuktaḥ kr̥tsnakarmakr̥t.**
 
-He who sees action in inaction and inaction in action is a wise and strong man. He is a yogi and performer of all actions. Can we come to the conclusion that there is no vyāpāra in nidrā as compared to jāgṛt? As per śāstra it is not a state of a-vyāpāra, but vyāpāra exists in seed form. Seed version means something that is hidden. It is prāṇa vyāpāra. Prāṇa is the general activity whereas thinking and emotions are specialized activities. If there was no vyāpāra, it is not possible to come back from sleep. As opined in Śankarabhāşya 24 on** **Gauḍapāda Kārika-2
+He who sees action in inaction and inaction in action is a wise and strong man. He is a yogi and performer of all actions. Can we come to the conclusion that there is no vyāpāra in nidrā as compared to jāgṛt? As per śāstra it is not a state of a-vyāpāra, but vyāpāra exists in seed form. Seed version means something that is hidden. It is prāṇa vyāpāra. Prāṇa is the general activity whereas thinking and emotions are specialized activities. If there was no vyāpāra, it is not possible to come back from sleep. As opined in Śankarabhāşya 24 on Gauḍapāda Kārika-2
 
 **निर्बीजतयैव चेत् सति लीनानाम् संपन्नानाम् सुषुप्त -प्रलययोः पुनरुत्थानानुपपत्तिः स्यात् । मुक्तानाम् पुनरुत्पत्ति प्रसङ्गः।	**
 
@@ -157,7 +157,7 @@ He who sees action in inaction and inaction in action is a wise and strong man. 
 
 To come back, you have to infer that there is a bījarūpa of vyāpāra, that is, the general activity of prāṇa. In jāgṛt a fatigue point is reached in two hours. Whereas in nidrā, it takes six hours to reach the fatigue point since there is a very feeble vyāpāra. In Samādhi, it takes much longer. In fact you are comfortable even after you return to Jāgṛt. It took a very long time for Prahlāda to come back from Samādhi -** mahatā tēna śabdēna vaiśṇava prāṇa janmanaḥ -  महता तेन शब्देन वैश्णव प्राण जन्मन:।** a very big śankhanāda (sound of a conch) had to be blown to wake him up from Samādhi.
 
-The more relaxed you are, the more time it takes you to come to the activity phase.** **In the light of this how do you do sādhana? Reduce the thought speed and emotion speed if you want to perform. Leisureliness is not anti productive as per śāstra. Yoga-Vāsiṣṭa (5-7-9) puts it beautifully-
+The more relaxed you are, the more time it takes you to come to the activity phase. In the light of this how do you do sādhana? Reduce the thought speed and emotion speed if you want to perform. Leisureliness is not anti productive as per śāstra. Yoga-Vāsiṣṭa (5-7-9) puts it beautifully-
 
 **बहिरुन्मत्तताण्डवः अन्तःशीतलतयता समधिरिति कथ्यत**॥
 
@@ -239,7 +239,7 @@ How do you dissolve the avidita forces? You keep on reducing the vāsanā-s such
 
 But when you come to turīya, none of these exist. Prāṇa is also thinned out in turīya. Even according to science, there cannot be annihilation of anything–so confinement spreads. You exist in the spread version. **It is not death but immortality**. What can nothingness die into? This nothingness is sattā. Vedānta is sometimes wonderful, but at times it is dreadful- that is why we don’t go to that state! We prefer to be safe here only. We are only more comfortable by slowing down the activity and feel happier. When the system breaks barriers, then enlightenment happens.
 
-Even in praļaya we are all not gone. Then why bother about liberation? **Simho vā maṣako vā vyāghro vā**—**सिंहो वा मषको वा व्याघ्रो वा** the lion, the mosquito, the tiger or anybody-**tattat jñānakarma vāsanāṅkitaḥ sapraviśanti-** **तत्तत् ज्ञानकर्म वासनांकितः सप्रविशन्ति‍ -**they come here and retain their sūkṣma tendencies. Our tendencies do not die in praļaya or even in nidrā - this is in Chāndogya Upaniṣad. Whereas, a jñāni softens the activities and comes to a phase where even the prāṇadharma gets dropped. Such a man cannot come into the cycle of creation.
+Even in praļaya we are all not gone. Then why bother about liberation? **Simho vā maṣako vā vyāghro vā**—**सिंहो वा मषको वा व्याघ्रो वा** the lion, the mosquito, the tiger or anybody-**tattat jñānakarma vāsanāṅkitaḥ sapraviśanti- तत्तत् ज्ञानकर्म वासनांकितः सप्रविशन्ति‍ -**they come here and retain their sūkṣma tendencies. Our tendencies do not die in praļaya or even in nidrā - this is in Chāndogya Upaniṣad. Whereas, a jñāni softens the activities and comes to a phase where even the prāṇadharma gets dropped. Such a man cannot come into the cycle of creation.
 
 **न उत्क्रामन्ति अत्रैव अस्मिन्नेव परेणात्मना अविभागं गच्छन्ति ।**
 

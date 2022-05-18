@@ -4,7 +4,7 @@ title = "04 AVASTHĀ-TRAYA-PARĪKṣĀ"
 +++
 (EXAMINATION OF THREE STATES OF EXISTANCE)
 
-We shall do a revision on whatever we discussed in these lectures so that they remain fresh in your minds. Recapitulation is fine as it strengthens the thought pattern and sets deep rooted in your minds.We have found that Vedānta can give a solvable approach to the problems of various facets of our life. We found that there are two sides. One is the ritualistic side. Distinguished from this, you have the Parīkṣa side or the investigation side. Two routes of investigation were suggested - one is Sukha-Duḥkha-parīkṣa and the other is ātmāparīkṣa. In the first one, you do the investigation on the involved question or the involved issue which we covered exhaustively. Equally productive is the other method- ātmaparīkṣa - suggestion to examine the self, to understand one’s true nature. In fact śāstra recommends this parīkṣa more often. Most of the scholars or most of the traditional Vedāntic literature emphasises on ātmaparīkṣa. In my previous lecture I had mentioned about the discussion found in Bṛhahadāraṇyaka Upaniṣad between Yajñavalkya and his two wives Kātyāyani and Maitrēyi. When** **Maitrēyi asks the husband to show her the way for everlasting happiness, he says that the only way is to find out one’s true nature.
+We shall do a revision on whatever we discussed in these lectures so that they remain fresh in your minds. Recapitulation is fine as it strengthens the thought pattern and sets deep rooted in your minds.We have found that Vedānta can give a solvable approach to the problems of various facets of our life. We found that there are two sides. One is the ritualistic side. Distinguished from this, you have the Parīkṣa side or the investigation side. Two routes of investigation were suggested - one is Sukha-Duḥkha-parīkṣa and the other is ātmāparīkṣa. In the first one, you do the investigation on the involved question or the involved issue which we covered exhaustively. Equally productive is the other method- ātmaparīkṣa - suggestion to examine the self, to understand one’s true nature. In fact śāstra recommends this parīkṣa more often. Most of the scholars or most of the traditional Vedāntic literature emphasises on ātmaparīkṣa. In my previous lecture I had mentioned about the discussion found in Bṛhahadāraṇyaka Upaniṣad between Yajñavalkya and his two wives Kātyāyani and Maitrēyi. When Maitrēyi asks the husband to show her the way for everlasting happiness, he says that the only way is to find out one’s true nature.
 
 **आत्मा वा अरे द्रष्टव्यो मन्तव्यो निदिध्यासितव्यो मैत्रेयि ।**
 
@@ -20,7 +20,7 @@ Tradition holds the Māṇḍūkya Upaniṣad in very high esteem for the reason
 
 **एकं माण्डूक्यमेव अलं मुमुक्षूणां विमुक्तये।**
 
-**Ēkaṁ māṇḍūkyam-ēva alaṁ mumukṣūṇāṁ vimuktayē**.** **Muktikopaniṣad
+**Ēkaṁ māṇḍūkyam-ēva alaṁ mumukṣūṇāṁ vimuktayē**. Muktikopaniṣad
 
 If a person is very serious about liberation, all that he has to do is to study Māṇḍūkya Upaniṣad to clear all his doubts. That is the importance with which tradition places Māṇḍūkya Upaniṣad. The Upaniṣad straight away goes into depths of human existence. After extolling Omkāra, the Upaniṣad goes to affirm that everything in this universe is Brahma.
 
@@ -50,7 +50,7 @@ This causal stuff of the universe cannot be grasped by the study of the outside.
 
 **जागरितस्थानः बहिष्प्रज्ञः सप्ताङ्ग एकोनविंशतिमुखः स्थूलभुग्वैश्वानरः प्रथमः पादः।**
 
-**Jāgarita-sthānaḥ bahiḥ-prajñaḥ sapta-aṅga ēkōnaviṁśati mukhaḥ sthūla-bhuk-vaiśvānaraḥ prathamaḥ pādaḥ.     (**Māṇḍūkya Upaniṣad 3)** **
+**Jāgarita-sthānaḥ bahiḥ-prajñaḥ sapta-aṅga ēkōnaviṁśati mukhaḥ sthūla-bhuk-vaiśvānaraḥ prathamaḥ pādaḥ.     (**Māṇḍūkya Upaniṣad 3) 
 
 He is identified as **Vaiśvānara.** His sphere of activity is the Waking State**.** He is conscious of the external world of objects. He has seven limbs and nineteen outlets. He enjoys the gross objects of the world. The nineteen outlets of the waking state are – the five organs of perception, the five organs of action, the five aspects of our vital breath – Prāṇa (Prāṇa, Apāna, Vyāna, Samāna, and Udāna), the Mind, the Intellect, Egoity (Ahankāra) and Citta. If any one of them is missing, our experience of the world shall, to that degree, become imperfect. In the waking state, we are outwardly conscious and are enjoying gross objects of the world through the above gateways.
 
@@ -62,7 +62,7 @@ Having chosen and worked, I want to enjoy the fruits of my so doing. This facet 
 
 Jnātṛtva, bhoktṛtva, kartṛtva - this is ‘Me’ in my Jāgṛth.
 
-I do not think that even a scientist can simplify to this degree of accuracy. My tens of thousands of activities have been brought down now to three terms - **I am a perceiver, am emotionally** **involved and a doer**. Millions of my activities have been condensed into three terms, that’s a brilliant scientific performance even by today's standards. This is what Vedānta does. Thus one who enjoys the external world as above in his waking state, is called as **Sthūlabhuk-** **स्थूलभुक्** - enjoyer of gross objects. He is also otherwise called as Vaiśvānara in this state. This is the first state of ‘I’ – the wakeful state – **Jāgarita- Sthāna - जागरितस्थान.**  The second state of ‘I’ is:
+I do not think that even a scientist can simplify to this degree of accuracy. My tens of thousands of activities have been brought down now to three terms - **I am a perceiver, am emotionally involved and a doer**. Millions of my activities have been condensed into three terms, that’s a brilliant scientific performance even by today's standards. This is what Vedānta does. Thus one who enjoys the external world as above in his waking state, is called as **Sthūlabhuk- स्थूलभुक्** - enjoyer of gross objects. He is also otherwise called as Vaiśvānara in this state. This is the first state of ‘I’ – the wakeful state – **Jāgarita- Sthāna - जागरितस्थान.**  The second state of ‘I’ is:
 
 **स्वप्नस्थानोऽन्तःप्रज्ञः सप्ताङ्ग एकोनविंशतिमुखः प्रविविक्तभुक्तैजसो द्वितीयः पादः।**
 
@@ -80,7 +80,7 @@ However, we have one more state which is generally missed by us. It is neither w
 
 **Yatra suptō na kañcana kāmaṁ kāmayatē na kañcana svapnaṁ paśyati tat-suṣuptam.**
 
-That is the state of deep sleep wherein the sleeper (that ‘I’) does not yearn for any desires nor does he see any dreams – That is the third state of the ‘I’ – **Suśupti**–** **Dreamless Sleep.
+That is the state of deep sleep wherein the sleeper (that ‘I’) does not yearn for any desires nor does he see any dreams – That is the third state of the ‘I’ – **Suśupti**– Dreamless Sleep.
 
 No scientist could have given a better definition to the sleeping state. In this state there are no thoughts, no emotions no cognition, no emotional involvement, no work. The karmendriyā-s are resting, the jnānedriyā-s are resting, the talk centre is resting, and the mind is also not there. None of the three lakṣaṇā-s, Jñātṛtva, kartṛutva and bhokṛutva which are found in the jāgṛt and in the svapna phase are seen here. Well, definition wise it is alright, what is so big about it?
 
@@ -88,7 +88,7 @@ One can feel that in Jāgṛt or waking state he is transacting with what is bes
 
 **सुषुप्तस्थान एकीभूतः प्रज्ञानघन एवानन्दमयो ह्यान्दभुक्चेतोमुखः प्राज्ञस्तृतीयः पादः॥**
 
-**Suṣupta-sthāna ēkībhūtaḥ prajñāna-ghanaḥ ēva-ānandamayō hi-ānanda-bhuk-cētōmukhaḥ prājñaḥ tr̥tīyaḥ pādaḥ.**(Māṇḍūkya Upaniṣad  3)** **
+**Suṣupta-sthāna ēkībhūtaḥ prajñāna-ghanaḥ ēva-ānandamayō hi-ānanda-bhuk-cētōmukhaḥ prājñaḥ tr̥tīyaḥ pādaḥ.**(Māṇḍūkya Upaniṣad  3) 
 
 This ‘I’ is called **Prājñā.** Here, in deep sleep, all experiences become undifferentiated. He is verily a homogeneous mass of consciousness in entirety. He is full of bliss and enjoying bliss and whose door is conscious wisdom – This is the third state of the ‘I’**–** called as Suśupti- Dreamless Sleep**.**
 
@@ -175,7 +175,7 @@ The end of evolution, peaceful, non-dual is deemed as the fourth state of ‘I�
 
 **स आत्मा स विज्ञेयः - sa ātmā sa vijñēyaḥ**
 
- (Māṇḍūkya Upaniṣat 7)** **
+ (Māṇḍūkya Upaniṣat 7) 
 
 That is SELF. Why don’t you discover this aspect of You?
 
@@ -231,7 +231,7 @@ Very simple. Just sit wherever you are. Just sit and empty the mind. Ēkānte su
 
 **Q.**Why was this truth which is so simple to adopt was hibernating these many years? Why has it not seen the light of the day?
 
-**A.** Very good question. Because, it is difficult to follow/practice. The point one has to bear in mind is that the truth must be accepted. Secondly, one has to enter into sādhana phase. Life's value systems must change. Life's habits must change. That’s the important question. Don’t think that in India everybody is this way. That’s making a wrong conclusion. Most of the people in that country also are after materialism. Everyone in that country, given a chance wants to come to America because this is a country of plenty. But the society at large must appreciate this wisdom and they should be the path setters. If the intellectuals were to appreciate and adopt them in their lifestyle, then the ordinary people will automatically follow. **Mahājanāḥ yena gatāḥ sa** **eva panthāḥ** - **महाजना: येन गता: स** **एव पन्था:।**The average person treads on the path set by noble people.
+**A.** Very good question. Because, it is difficult to follow/practice. The point one has to bear in mind is that the truth must be accepted. Secondly, one has to enter into sādhana phase. Life's value systems must change. Life's habits must change. That’s the important question. Don’t think that in India everybody is this way. That’s making a wrong conclusion. Most of the people in that country also are after materialism. Everyone in that country, given a chance wants to come to America because this is a country of plenty. But the society at large must appreciate this wisdom and they should be the path setters. If the intellectuals were to appreciate and adopt them in their lifestyle, then the ordinary people will automatically follow. **Mahājanāḥ yena gatāḥ sa eva panthāḥ** - **महाजना: येन गता: स एव पन्था:।**The average person treads on the path set by noble people.
 
 We shall take up another prakriya, Pancakośa Viveka, in our next lecture and see how it takes us to deeper levels of understanding our true nature.
 
