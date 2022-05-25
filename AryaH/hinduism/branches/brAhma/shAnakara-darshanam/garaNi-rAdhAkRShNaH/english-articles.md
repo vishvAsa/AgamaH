@@ -271,7 +271,7 @@ Contact  for permission to share for  private study
 
 ### Meta
 
-**Compilers preface**
+#### Compilers preface
 
 While I was looking for a Sanskrit text version  of  Ashtavakra Samhita by Swami Nityaswarupananda,I stumbled upon the Study Notes of Swami Shraddhananda, compiled by Lalita Maly.  These were from a study group headed  by the famous and erudite scholar Shri subramanya Iyer      during 1937 and 1939.   who was the then   pundit to the Maharaja of Mysore, ( of the state of Mysore ).  These were nicely compiled and translated with punctuation wherever necessary and put in a good format.    While I found them extremely useful for the study, she had not put the verses in question,   So, I had to look for a good translation of the verses.  I could find one in the small publication of Bart Marshall,which was very close to the rendering of  Swami Nityaswarupananda.   I have merged the two together and put the verses in bold format to separately distinguish from the notes of Swami Shraddananda.
 
@@ -314,7 +314,7 @@ These words all point  to  What Is—the true nature of Reality. The words unive
 
 Synonymous words and phrases used to denote  a  “person” who has realized Self, who knows Truth, who perceives the Real  include: wise one, desireless one, liberated one, liberated soul, great soul,  sage and yogi.
 
-**Translator’s  Introduction**
+#### Translator’s  Introduction
 
 The  Ashtavakra Gita  is an ancient  spiritual  document of great purity and power.  Pure, because it is relentlessly one-pointed.  Every word is aimed at triggering Self-realization--no suggestions for self-improvement, no rules for moral behavior, no practical wisdom for daily life.
 
