@@ -15,13 +15,13 @@ title = "Non brAhmaNa gotras"
 > However, Purushottama Pandita also points out the Tandin school's opinion (which he seems to favor) that other than brahmans or kshatriyas with kulapurohits, the sarvasadharana usage should be Manava gotra, since (they say) we all are human beings and belong to the human gotra.
 
 ### sUtra quotes
-#### Bandhayana 
+#### Baudhayana 
 Ksatriyas have a three-riShi (pravara), 'Mänava, Aida, Paurüravasa'. Vaisyas have a three-riShi pravara, 'bhAlandana, vAtsapra, mAnkila'.
 
 #### Apastamba
 Next, of Ksatriyas. If they recite their own, they have the one pravara, Manava, Aila, paurUravasa', etc. Those who do not have hymn-composers should make the recitation with their purohita's pravara; those who have hymn composers should do without their purohita's pravara. (But the correct view is that these also) should use their purohita's pravara, because of the logical argument.
 
-Vaisyas have a one-ripravara, "Vatsapra' for the Hotr, 'like Vatsapri for the Adhvaryu.
+Vaisyas have a one-rShipravara, "Vatsapra' for the Hotr, 'like Vatsapri for the Adhvaryu.
 
 #### Kätydyana and Laugäksi
 Kings have their purohita's pravara; with this too the pravara of Vaisyas is explained. If he should recite with yi-names he should say: 'Manava, Aila, Paurüravasa'.
