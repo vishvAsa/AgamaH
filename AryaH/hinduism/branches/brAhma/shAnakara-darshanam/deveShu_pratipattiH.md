@@ -4,6 +4,11 @@ unicode_script = "devanagari"
 +++
 
 - आहार्यसत्तायां देवानाम् अवकाशो ऽस्तीति केचित्। 
+  - स्वसिद्धान्तव्यवस्थासु  
+    द्वैतिनो निश्चिता दृढम् ।  
+    परस्परं विरुध्यन्ते  
+    तैरयं न विरुध्यते ॥ १७॥
+    Gaudapada Karika
 - तत्रापि नेत्य् अन्य अधुनिकाः - परिमेय-प्रत्यक्ष-प्रमाणाभावात्। नानेन ब्रह्मवादे काचित् क्षतिः। Gods are at best "useful fiction" for this section of advaitins.
 
 - Deists or Theists (for example, trika shaivas like abhinava-gupta, or for that matter Platonists) are not necessarily dvaitin-s in the sense of being opposed to "जीव-ब्रह्मैक्य"; even while they admit theophany, samAvesha etc..
