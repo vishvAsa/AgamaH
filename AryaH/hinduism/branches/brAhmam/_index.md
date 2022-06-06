@@ -1,5 +1,5 @@
 +++
-title = "+ब्राह्म"
+title = "+ब्राह्मम्"
 unicode_script = "devanagari"
 +++
 
