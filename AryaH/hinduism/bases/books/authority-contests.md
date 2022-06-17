@@ -32,7 +32,7 @@ Scholars have been selective about deciding whether any book's statement can be 
 
 ### Examples
 - Various primary texts insult or controvert certain other texts (and vice-versa).
-- For examples of bickering between brAhmaNas of various shAkhA-s, see [veda](../vedas/) page.
+- For examples of bickering between brAhmaNas of various shAkhA-s, see [veda](/vedAH/meta/shAkhA/shAkhA-spardhA/) page.
 - Certain purANa-s insult certain Agama-s.
     - See kUrma-purANa quote below.
 - Within vaiShNava-Agama-s
