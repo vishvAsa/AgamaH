@@ -30,12 +30,7 @@ So,**from the core to the periphery**:
 - while nAstika (veda-nindaka) systems loosely lie at the peripheri
 - Sectarian Astika beliefs and practices (eg. mokSha-drive, pAncharAtra, shaiva, kaumAra) lie somewhere in-between.
 
-The last section of chapter 36 of PV Kane's vol 5 a must-read for every hindu who wants to understand his background. The part that starts [here](https://archive.org/stream /HistoryOfDharmasastraancientAndMediaevalReligiousAndCivilLawV.5.2/Kane_A-History-of-Dharmasastra-v5-2_1962#page/n945/mode/2up), specifically.
-
-An introduction to some of these concepts by shatAvadhAnI gaNesha here:
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tMDOTpLR1NE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+The last section of [chapter 36](/kalpAntaram/kANe/v5p2/10_Hindu_Culture_and_Civilization/36_Characteristics_of_Hindu_Culture/) of PV Kane's vol 5 a must-read for every hindu who wants to understand his background. 
 
 Is hinduism a religion? See [here](religion/).
 
@@ -76,7 +71,7 @@ Here is an introduction to Hindu India by the Hinduism Today magazine:
 
   
 
-Problematic stereotyping and omissions:
+## Problematic stereotyping and omissions
 
 - CA textbooks hearing 2015: Omission of women \[[YT](https://www.youtube.com/watch?v=m0f2iCtW9BA&feature=player_embedded)\], caricature of caste \[[YT](https://www.youtube.com/watch?v=2Y7zt4LtBh8&feature=youtu.be)\]
 - Suspicious terminology trends such as brahminical vs hindu ([GTrends](https://books.google.com/ngrams/graph?content=brahmanical%2Chindu&year_start=1930&year_end=2008&corpus=15&smoothing=5&share=&direct_url=t1%3B%2Cbrahmanical%3B%2Cc0%3B.t1%3B%2Chindu%3B%2Cc0), FB).
