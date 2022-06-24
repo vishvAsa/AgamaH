@@ -59,3 +59,7 @@ unicode_script: devanagari
 ## बोधनानि
 - नव्य-न्याय-भाषायाम् [अत्र](https://www.youtube.com/watch?v=ioLl9gGSAo4)।
 - आळ्वार-पाठो ऽत्र।
+
+
+## पाश्चात्य-पर्यायाः
+- probans (lit. "the thing that proves")=liṅga; probandum (lit. "the thing that should be proved")=sādhya; locus (lit. "the place")=pakṣa.
