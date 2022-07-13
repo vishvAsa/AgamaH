@@ -228,7 +228,7 @@ Consciousness joins other building blocks of the universe like space, time, mass
 - असंशयस्य दृश्यानि निरूपणानि यथा - ऽस्मिन् दृश्ये प्रारम्भ-निमेषे - [Hattori Honzo restaurant scene](https://www.youtube.com/watch?v=peP8CsCw09Y) । अथवाऽत्र - [Last samurai - no mind scene](https://www.youtube.com/watch?v=NbecIBvR3mE) , [Bruce Lee teaching scene](https://www.youtube.com/watch?v=cm0uSVvjsOA) इत्य् अत्र वा।
 - "bicameral mind" इति केचिद् आहुर् इमां स्थितिम्।
 - "What is called ’No Mind’ is a mind that is pure and lacks complication ." इति बौद्ध-ध्यान-गुरवः। तदर्थं तत्त्वावेशाय यतन्ते। तेन हि "Harmony of pen and sword" इत्य् उषः-पुत्र-योद्धृषु प्रसिद्धम्।
-- संशय-राहित्यं क्षुद्र-(पिशाचादि)-ग्रहेष्व् अपि दृश्यते - उन्मादावेषे ऽपि। किञ्च तद् अहितं हेयं च। पूर्णतरज्ञानमूला ऽसंशीतिर् हि वरीयसी।
+- संशय-राहित्यं क्षुद्र-(पिशाचादि)-ग्रहेष्व् अपि दृश्यते। उन्मादावेषे ऽपि। किञ्च तद् अहितं हेयं चान्ततः। पूर्णतर-ज्ञान-मूला ऽसंशीतिर् हि वरीयसी।
 </details>
 
 #### सद्-आचार-परता
