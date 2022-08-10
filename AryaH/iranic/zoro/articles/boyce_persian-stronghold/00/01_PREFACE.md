@@ -1,0 +1,105 @@
++++
+title = "01 PREFACE"
+
++++
+THE present work is based on six lectures given in 1975 in the series of Ratanbai Katrak lectures founded at Oxford in memory of his wife by the late Dr. Nanabhai Navroji Katrak. I am indebted to the Electors for inviting me to give these lectures, and to the Oxford University Press for allowing me to expand them for publication. Even with this concession, much necessarily remains still unrecorded which I learnt from the Zoroastrians of Sharifabad-e Ardekan, a little village at the northern end of the Yazdi plain. While on leave from the School of Oriental and African Studies, University of London, I spent twelve months in Iran during 1963–4, and most of this time I was able to pass in Sharifabad, thanks to the great kindness and hospitality of Agha Rustam Noshiravan Belivani and his wife Tahmina Khanom. To them and to their children I owe the warmest debt of gratitude. I was shown much helpfulness too by their relatives and friends, and by the Zoroastrian villagers at large, who received an unexpected stranger in their midst with truly remarkable tolerance and kindness. Since what I leart of the Sharifabadis was so striking and admirable, I trust that the following pages will constitute both a faithful record of what they taught me, and at the same time a tribute to them themselves.
+
+My gratitude is due also to Khanom Ferangis Shahrokh, to whom I turned on arrival in Tehran. Apart from sacrificing her own time on my behalf there, she kindly gave me an introduction to Arbab Jamshid Sorushian of Kerman, who, with his wife Humayun Khanom, has shown so much hospitality to European visitors to Iran, patiently helping them to understand something of his own community. Through Humayun Khanom I was received into the home of her brother, Arbab Faridun Kayanian of Yazd, and I am grateful to him and his family for allowing me to impose upon their kindness for several weeks. At their house I met Shehriar Zohrabi of Mazra Kalantar, one of their tenant farmers, who at their prompt ing hospitably invited me to his village for the festival of Mihragan. From Mazrat I visited neighbouring Sharifabad, and there I was privileged to remain.
+
+My first hosts in the city of Yazd were a Moslem family, that of the late Agha Abbas Mohitpour, who not only sheltered me initially (there were no hotels then in Yazd), but showed me thereafter un stinting kindness and friendship, despite my entire preoccupation with Zoroastrian affairs. It is a cause of keen regret to me that it is impossible to write about the Zoroastrians of Yazd without casting the Moslems in the role of villains, just as it is impossible to write an account of Jews in Europe without showing Christians in a hateful light. Under the present Pablavi dynasty the Zoroastrians of Iran have come to share the rights of citizenship equally with their Moslem fellow countrymen. The community has prospered, and individual Zoroastrians have attained high position; but in the old centres of Kerman and Yazd local prejudice, deep-rooted, dies hard, and in 1964 the Zoroastrians there still suffered local pressures and disadvantages. In the following decade there were many changes, with the Tehrani community growing steadily in numbers at the expense of the older ones. As the Zoroastrian population of Yazd and its villages dwindled, it became more vulnerable to the forces of change, and new developments brought shocks to young and old alike, as well as creating fresh perspectives and opportunities. Nevertheless, so strong is tradition in Sharifabad that in 1975 Agha Rustam was able to assure me that nothing described in this book had funda mentally changed.
+
+Since my stay in the village I have published a number of articles containing matter derived from what I learnt there. These are cited in the footnotes simply by a shortened title, without author's name, and full references are given in the bibliography at the end of the book. A problem in the body of the work has been to attain con sistency in proper names and technical terms between forms in standard Persian and in 'Dari' (the Zoroastrian dialect). In general the former have been preferred, as more widely familiar, but the Dari ones are often given also, either in the text or following the Persian ones in the index, and occasionally, for religious technical terms, they are the only ones available. It has proved impossible to avoid some inconsistencies, however. Thus, for example, the archaic form 'Ardvahišt' has been used for the name of the divinity, but the current 'Urdibehišt' for the month devoted to him. As is illustrated by these two words, the letter *$has been used as a convenient sign in both Persian and Dari words for the sound rendered by 'sh' in place-names (such as Shiraz) and in modern personal names; and * <* is similarly employed for 'ch'. In general the Yazdis prefer the sound 'p' to 'f', and though they would write ‘Faridun', 'Faramarz', they say 'Paridun', 'Palamarz'; and, having come to know iri dividuals by these latter forms, I have used them here, together with “Erdesbir' rather than "Ardashir', and other small variants on standard written usage. For convenience the Greek letters 'y' and '8' have been employed very occasionally to avoid the clumsiness of ‘gh' and 'dh' in rendering a voiced guttural or a dental fricative in Dari or Avestan words. For simplicity's sake, the length of vowels in Persian or Dari words is marked only at their first occurrence, and in the index.
+
+As to the writing of personal names, some use has been made here of the Persian izafe, a linking particle which is never written in the Arabic script. In spoken Persian this particle is used to join all proper names, whether given or family ones. Fixed surnames came into existence in Iran, by government decree, only this century, and were still not much used by the villagers among themselves, so that I did not always learn them. So by a convention, in the following pages a given name followed by a surname is written without the particle, e.g. Bahram Khademi, whereas one followed by the father's name (the old way of identification) is joined to it by the particle, e.g. Rustam-e Bahram. Nicknames were the commonest way of distinguishing people, and one middle-aged man was known as Rustam-e Tehrani, because as a boy in the 1930s he had lived briefly at the capital, being one of the first Sharifabadis to visit that then remote place. This nickname in itself showed the enormous changes that had taken place in three decades, for already by 1964 there was frequent coming and going between the village and Tehran, and the easy mobility of a motorized age was beginning to affect the lives of its inhabitants.
+
+I am grateful to Dr. Michael Fischer of Harvard University (who himself worked as an anthropologist in Yazd in 1970 and 1971) for kindly sparing time to read a set of proofs, and to make helpful comments. I am also indebted to the Oxford University Press for their courtesy, thoroughness, and impressive skill.
+
+AX WWE
+
+DER W
+
+..
+
+.....
+
+....
+
+CONTENTS
+
+LIST OF PLATES
+
+page xiii
+
+ABBREVIATIONS
+
+..
+
+I. The Village of the Two Cathedral' Fires
+
+'
+
+..
+
+.''
+
+2. The Worship of Ohrmazd and the Creations
+
+'.'
+
+.
+
+1'
+
+3. Some Individual Rites of Piety and Charity
+
+.
+
+4. Sacred Fires and Empty Shrines
+
+-.4-1.'1'.wrn' in
+
+5. The Laws and Rites of Purity
+
+6. Death and the Mysteries of the Dog
+
+   : 
+
+:,,T
+
+7. The Spring New Year and the Hundredth-Day Feast
+
+164
+
+Jl.
+
+8. Some Rites of Expiation or Comfort for the Living and
+
+the Dead
+
+186
+
+9. The Festivals of All Souls and the Religious New Year
+
+212
+
+10. Initiations and Pilgrimages
+
+236
+
+BIBLIOGRAPHY
+
+271
+
+INDEX
+
+275
+
+--
+
+-T.
+
+IP.
+
+.
+
+0:!.

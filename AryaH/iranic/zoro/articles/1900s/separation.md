@@ -1,9 +1,0 @@
-+++
-title = "Separation"
-+++
-
-The separation of the Zoroastrians from the rest of the community was enforced as thoroughly as possible by the Moslem authorities. Thus the 'gors' were forbidden to take up crafts or professions which might bring them into contact with Moslems, and were in the main restricted to farming and labouring work.+++(4)+++ They had, moreover, to wear distinctive clothing, so that they could be instantly recognized and shunned. Traditionally Iranian peasants dressed in blue, 28 but Zoroastrian men were forbidden to wear this or any other colour, and had to have garments of undyed cotton or wool, with roughly tied headgear to mark their lowly state. 
-
-Their women wore a modest but richly coloured costume which was probably that worn by village women before the Arab conquest; but they were clearly distinguished from their Moslem sisters by their refusal to veil their faces--a refusal which, since many of them were comely, needed courage to maintain. There were many stories, written and told, of the rape and abduction of Zoroastrian girls, and the oldest village women recalled how sometimes the prettiest among them would have to blacken their teeth and disfigure their faces with dirt before leaving their houses. In general, however, the Zoroastrian women made no concessions, and their dignified and open carriage, at home and abroad, was all the more striking in contrast with the shrouded, self-effacing bearing of their Moslem sisters. 
-
-As for the men's clothing, the restrictions on it lasted into the twentieth century; and one of the Sharifabadi villagers29 told me how, as a

@@ -2,9 +2,7 @@
 title = "Funerary similarity"
 +++
 
-Once the practice was established of giving the consecrated food-offerings for the dead to a dog, then this act, being very frequently performed, must gradually have merged with the ordinary daily feeding of herdand house-dog, and so have led to this being itself regarded as a rite which served the departed. The development was probably a slow one, but may well be very old. It must certainly have been firmly established before the downfall of the Sasanians, in order for it to be maintained by both branches of the Zoroastrian community down into modern times. 
 
-Apart from the unique contribution of the dog, the Zoroastrian funerary observances are paralleled with startling closeness by those of ancient India, 49 and so must be supposed to have their origin in the remote past of the Indo-Iranians. The two peoples, it is thought, began to drift apart in the third millennium B.C.; and so these sites, inherited. by Zoroastrians from the pagan past, must have a history of at least five thousand years, and probably immeasurably longer.
 
 ... The fravašis thus help in war, and they give aid also in peace. They are "givers of ... a boon to the eager, of health to the sick, givers of good fortune to him who invokes them, worshipping, satisfying, bringing offerings” (Yt.13.24). In fact, like the Indian pitaras, the fravašis receive reverence and supplication in very much the same way as the gods themselves, and are held to have the same capacity to answer prayers and bestow boons. It seems probable that protective powers, perhaps early attributed to the heroic departed, were magnified with the development of the doctrine that blessed souls might hope to dwell with the gods them
 
