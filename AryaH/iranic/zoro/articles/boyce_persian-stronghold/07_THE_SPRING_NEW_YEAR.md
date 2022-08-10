@@ -10,9 +10,9 @@ To complicate matters, the Parsis (who had once intercalated a month after settl
 
 i On these matters see 'On the calendar of Zoroastrian feasts'.
 
-2 At least one group of Sasanian scholars evidently held that it was desirable to make such an intercalation every 120 years, and they even wrote as if this system were in operation, thus confusing subsequent studies of the matter,
+[^2 ]: At least one group of Sasanian scholars evidently held that it was desirable to make such an intercalation every 120 years, and they even wrote as if this system were in operation, thus confusing subsequent studies of the matter,
 
-3 The evidence points to this being the only intercalation of the kind ever to be made. It was probably carried out between A.D. 1125 and 1250.
+[^3 ]: The evidence points to this being the only intercalation of the kind ever to be made. It was probably carried out between A.D. 1125 and 1250.
 
 --
 
@@ -38,7 +38,7 @@ Reversion to the traditional calendar did not mean, however, that the Sharifabad
 
 + Both calendars were sometimes observed within the same family. Thus out of piety the Kayanian family kept the anniversary day of Arbab Şohrab according to the reformed calendar, but otherwise used the traditional one. I was much indebted to Khanom Simindukht, Arbab Sohrab's widow, who most kindly collated for me the reformed calendar for 1963/4, printed in Tehran, with the traditional one, maintained through unwritten custom and usage.
 
-5 Infuence was nevertheless constantly being exerted from Tehran in favour of the reformed calendar, and the resulting perplexities for the Yazdi villagers were such that once, when I was present at a discussion of such matters in Moriabad, an elderly man turned to me and asked grimly if I did not think that the whole problem had been invented by Moslems to plague those of the old religion. The Zoroastrian reformed calendar coincided with the national one only for the first thirty days of the year, for the national Farvardin Mah has thirty-one days, whereas all the months of every Zoroastrian calendar are uni formly of thirty days, with the five 'Gatha' days gathered together at the end of the year (becoming six in number every fourth year in the reformed calendar).
+[^5 ]: Infuence was nevertheless constantly being exerted from Tehran in favour of the reformed calendar, and the resulting perplexities for the Yazdi villagers were such that once, when I was present at a discussion of such matters in Moriabad, an elderly man turned to me and asked grimly if I did not think that the whole problem had been invented by Moslems to plague those of the old religion. The Zoroastrian reformed calendar coincided with the national one only for the first thirty days of the year, for the national Farvardin Mah has thirty-one days, whereas all the months of every Zoroastrian calendar are uni formly of thirty days, with the five 'Gatha' days gathered together at the end of the year (becoming six in number every fourth year in the reformed calendar).
 
 THE HUNDREDTH-DAY FEAST
 

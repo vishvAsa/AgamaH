@@ -15,9 +15,9 @@ It was customary in the villages of the plain for most of the sheep, stalled thr
 
 to the bills to graze the spring herbage there; but the shepherd was always a Moslem, and Zoroastrians were often reluctant to entrust their animals to him, sayiog that it was remarkable how often when an animal died 'accidentally' (for the benefit, they thought, of the shepherd's stomach), it chanced to be one of theirs.
 
-2 D. Khodadad, who though wiry was slight of build, used to approach at least one of his parishioners' houses there warily, so boisterous was the welcome given him by the friendly young dog.
+[^2 ]: D. Khodadad, who though wiry was slight of build, used to approach at least one of his parishioners' houses there warily, so boisterous was the welcome given him by the friendly young dog.
 
-3 For such 'four-eyed dogs (described otherwise as being yellowish, with yellowish ears) see Vd. 8.16, 17, 18. When I visited the smaller fire-temple in Karachi in 1963 the priests there kindly showed me the dogs which they kept for ritual purposes. One of these was 'four-eyed' (i.e. bad the two flecks over the eyes), but again it was not for this reason esteemed above the other animal.
+[^3 ]: For such 'four-eyed dogs (described otherwise as being yellowish, with yellowish ears) see Vd. 8.16, 17, 18. When I visited the smaller fire-temple in Karachi in 1963 the priests there kindly showed me the dogs which they kept for ritual purposes. One of these was 'four-eyed' (i.e. bad the two flecks over the eyes), but again it was not for this reason esteemed above the other animal.
 
 DEATH AND THE MYSTERIES OF THE DOG 141 this dog, probably one of the last of the many thousands that have been kept by the Zoroastrian priests of Iran, was a pure-bred terrier imported from Europe and answering to the name of Jacky. He had been owned by an English family in Yazd, who gave him to the Dastur when they left, because he had admired him. He was much smaller than any of the lane-dogs, which even in Sharifabad and Mazras were all large animals from working strains.
 
@@ -33,7 +33,7 @@ It accordingly behoves man, as the stronger of the two, to look after this faith
 
 s Notably in Vd, 13. -
 
-6 See Yd, 15.20 ff.
+[^6 ]: See Yd, 15.20 ff.
 
 DEATH AND THE MYSTERIES OF THE DOG 143 whelped at the dakhma that night, and its guardian, Paridun, took her food when he went there daily to tend the fire.
 
@@ -43,7 +43,7 @@ The most remarkable feature of this custom is that precedence was yielded to the
 
 ? Namely Shirin, the wife of Erdeshir Qudusi.
 
-8 It was always set aside first for the dog, though sometimes in practice it was not taken out to it immediately; but even though some delay was permissible, the com-e šwa had always to be given before the sun set.
+[^8 ]: It was always set aside first for the dog, though sometimes in practice it was not taken out to it immediately; but even though some delay was permissible, the com-e šwa had always to be given before the sun set.
 
 "
 
@@ -53,9 +53,9 @@ The villagers were sometimes at a loss to explain a traditional observance, but 
 
 Thus in traditional Zoroastrianism a dog was regarded as being able to act somehow as intermediary between the living and the
 
-9 It was only late in the ten-day festival of Panji that the dogs sometimes reached satiety.
+[^9 ]: It was only late in the ten-day festival of Panji that the dogs sometimes reached satiety.
 
-10 The Sharifabadis accordingly took care to avoid engaging in certain activities at this time of day, such as eating food themselves, or handling money. Thus I was once with Agha Rustam when he bought some eggs in a hill-village at dusk, and he postponed payment till the following morning.
+[^10 ]: The Sharifabadis accordingly took care to avoid engaging in certain activities at this time of day, such as eating food themselves, or handling money. Thus I was once with Agha Rustam when he bought some eggs in a hill-village at dusk, and he postponed payment till the following morning.
 
 -
 
@@ -331,9 +331,9 @@ DEATH AND THE MYSTERIES OF THE DOG 145 dead. That this belief was once generally
 
 Further, there are Indo-Iranian-possibly even Indo-European myths which connect spirit-dogs with death. The Vedas know two hounds, the messengers of Yama, who hunt out those who are to die, and accompany their spirits into the hereafter; and according to the Avesta two dogs await the spirits of the dead at the Cinvat Bridge, which all must try to cross. 13 Here, Zoroastrians believe, both good and evil powers gather, each hoping to gain the soul; and whatever the original myth may have been, they naturally regard the spirit dogs as beneficent, there to protect the soul, before judgement, from the prowling powers of darkness. This may well have been another factor in fostering the belief that a mortal dog could in the same
 
-11 Among them the com-e šwa came to be knowa by the Gujarati expression kutrā-no būk 'share for the dog' (see Modi, CC, 404, 350). Even in Bombay the Parsis regularly fed the street-dogs as a religious duty down to the pineteenth century; and when in 1832 the British tried to round up the dogs there to destroy them as potential carriers of disease, it was the Parsis who led the resulting 'dog riot* (see H, G. Briggs, The Pārsis or Modern Zerdusthians, 39). In the early 1960s the Iranian authorities dealt in this way with the street-dogs of Yazd, so that in 1963 it was not always easy for the Zoroastrians to find a recipient there for the com-e swa,
+[^11 ]: Among them the com-e šwa came to be knowa by the Gujarati expression kutrā-no būk 'share for the dog' (see Modi, CC, 404, 350). Even in Bombay the Parsis regularly fed the street-dogs as a religious duty down to the pineteenth century; and when in 1832 the British tried to round up the dogs there to destroy them as potential carriers of disease, it was the Parsis who led the resulting 'dog riot* (see H, G. Briggs, The Pārsis or Modern Zerdusthians, 39). In the early 1960s the Iranian authorities dealt in this way with the street-dogs of Yazd, so that in 1963 it was not always easy for the Zoroastrians to find a recipient there for the com-e swa,
 
-12 Şee Bess A. Donaldson, The Wild Rue, 45. 13 Vd. 19.30, 13.9.. 8265311
+[^12 ]: Şee Bess A. Donaldson, The Wild Rue, 45. 13 Vd. 19.30, 13.9.. 8265311
 
 146 DEATH AND THE MYSTERIES OF THE DOG way protect the soul from evil forces while it still dwelt on earth.14
 
@@ -341,11 +341,11 @@ There is thus an ancient link between dogs and death. There is also the fact tha
 
 Already, however, in Indo-Iranian times a hope, it seems, had been born that the strong and powerful in the community, that is,
 
-14 The dual aspects of the dog's protective role, physical and spiritual, are brought together in the seemingly late legend of Zarringoš, 'Yellow Ears', a dog who was brought into being by the word of Ohrmazd to guard the physical body of Adam/Gayömard from Ahriman, but who also has his place near the Cinvat Bridge. There he barks to frighten the dēvs away from the righteous. He moreover helps Mihr to check the demons who wish to inflict more than their due punishment on the damned, and he prevents anyone crossing the Cinvat Bridge who has been cruel to dogs on earth. See Riv., ed. Unyala, i. 256-7; Dhabhar, 259-60.
+[^14 ]: The dual aspects of the dog's protective role, physical and spiritual, are brought together in the seemingly late legend of Zarringoš, 'Yellow Ears', a dog who was brought into being by the word of Ohrmazd to guard the physical body of Adam/Gayömard from Ahriman, but who also has his place near the Cinvat Bridge. There he barks to frighten the dēvs away from the righteous. He moreover helps Mihr to check the demons who wish to inflict more than their due punishment on the damned, and he prevents anyone crossing the Cinvat Bridge who has been cruel to dogs on earth. See Riv., ed. Unyala, i. 256-7; Dhabhar, 259-60.
 
 Is For the evidence for this belief among the ancient Iranians see Boyce, History, i. 108 ff.
 
-16 See J. Gonda, Die Religionen Indiens, vol. I, 135-6. 17 See e.g., J. A. Dubois, Hindu Manners, Customs and Ceremonies, 489 ff.
+[^16 ]: See J. Gonda, Die Religionen Indiens, vol. I, 135-6. 17 See e.g., J. A. Dubois, Hindu Manners, Customs and Ceremonies, 489 ff.
 
 DEATH AND THE MYSTERIES OF THE DOG 147 the warriors and priests, could attain to a different place in the hereafter, namely to paradise on high, which was not only bright with sunshine but full of all imaginable delights; and Zoroaster taught that this Paradise was within the reach of all—even of women and the poor 8—if only they had lived the good life. In his revelation the dark underworld was transformed partly into a limbo for those who had been neither greatly good nor greatly bad, partly into a hell of torments, ruled over by Ahriman. Zoroastrians naturally always hope that the dear departed will attain to paradise, where they will taste bliss and have no need of any comfort that the living can bestow. Nevertheless, the immemorial custom prevails, with them as with the Brahmans, of providing food for the dead as if all had still gone down to the drear kingdom of shades beneath the earth, there to experience only nothingness.19
 
@@ -353,7 +353,7 @@ Although men shrank from touching food that had been enjoyed by the dead, they w
 
 18 See Y. 46.10.
 
-19 Lest such tenacity in "chthonic ministrations' should seem to set the Zoro astrians and Brahmans apart among the followers of higher religions, one should perhaps remind oneself that food-offerings for the dead are also regularly made by, for example, Shiri Moslems and Christians of the Greek Orthodox Church, while it is a widely practised custom among Christian communities to place flowers as offerings on graves in autumn and spring, the seasons for ancient festivals of the dead. Modi was struck by the similarity in this respect between observances among French Roman Catholics and the Parsis (see CC, 431 D, 2).
+[^19 ]: Lest such tenacity in "chthonic ministrations' should seem to set the Zoro astrians and Brahmans apart among the followers of higher religions, one should perhaps remind oneself that food-offerings for the dead are also regularly made by, for example, Shiri Moslems and Christians of the Greek Orthodox Church, while it is a widely practised custom among Christian communities to place flowers as offerings on graves in autumn and spring, the seasons for ancient festivals of the dead. Modi was struck by the similarity in this respect between observances among French Roman Catholics and the Parsis (see CC, 431 D, 2).
 
 .
 
@@ -375,9 +375,9 @@ If a person was seen to be at the point of death, then the priest was sent for, 
 
 Meantime one of the family had gone to the priest with the mes sage 'The soul of so-and-so is taking the road' (vrün pārsang å görən). He carried with him an egg, the symbol of immortality, and the priest roasted this in the embers of a fire while he consecrated a short dron
 
-20 The Parsi and Irani rites are essentially the same. On the former see Modi, CC, 48 ff.; on the latter Jackson, Persia past and present, 387-96. For a particular account of the observances as carried out in Sharifabad itself see Ardeshir Khodadadian, 'Die Bestattungssitten und Bestattungsriten bei den heutigen Parsen', Ph.D. thesis of the Freie Universität, Berlin, 1975 (in which the term 'Parsi' is used generally for 'Zoroastrian').
+[^20 ]: The Parsi and Irani rites are essentially the same. On the former see Modi, CC, 48 ff.; on the latter Jackson, Persia past and present, 387-96. For a particular account of the observances as carried out in Sharifabad itself see Ardeshir Khodadadian, 'Die Bestattungssitten und Bestattungsriten bei den heutigen Parsen', Ph.D. thesis of the Freie Universität, Berlin, 1975 (in which the term 'Parsi' is used generally for 'Zoroastrian').
 
-21 Among the Parsis a few drops from the second yasna-preparation of para hom (i.e. the infusion of consecrated höm-juice, pomegranate, and milk) were given instead to the dying as a viaticum (see Modi, CC, 307 1. I). This practice seems doctrinally soundly based (see Modi, CC, 52, Boyce, 'Haoma', 64), and probably the giving of nirang was a substitute, made by the Iranis in the light of the general pursuit of purity under the menace of death.
+[^21 ]: Among the Parsis a few drops from the second yasna-preparation of para hom (i.e. the infusion of consecrated höm-juice, pomegranate, and milk) were given instead to the dying as a viaticum (see Modi, CC, 307 1. I). This practice seems doctrinally soundly based (see Modi, CC, 52, Boyce, 'Haoma', 64), and probably the giving of nirang was a substitute, made by the Iranis in the light of the general pursuit of purity under the menace of death.
 
 DEATH AND THE MYSTERIES OF THE DOG 149 service in the name of Sroš, to invoke this yazad's protection for the departed soul. Thereafter the egg, blessed by this service, was given to a dog to eat.
 
@@ -385,15 +385,15 @@ In the old days, when there were many priests, a priest would then come to the h
 
 la Sharifabad one of the salars joined the pakšu, if the deceased were a male, to lay out the body, and while they were at work they made paivand, that is, they were joined by a košti tied round their right wrists, so that the contact might strengthen them against evil. As the woman pakšu had to work alone, she usually made paivand with the dog. (If a woman relative helped in this way, she had to undergo no-šwa thereafter.) The corpse was washed three times with pajow,24 and then clothed from head to foot in white cotton gar ments, which must be clean but used—it is forbidden, as sinful
 
-22 This was the custom in both Yazd and Kerman. According to Briggs, The Parsis, 39, curds were used for the same purpose by the Parsis in Bombay in the early nineteenth century.
+[^22 ]: This was the custom in both Yazd and Kerman. According to Briggs, The Parsis, 39, curds were used for the same purpose by the Parsis in Bombay in the early nineteenth century.
 
-21 This plant, which I failed to identify, grew in the desert and hills, and was dug up and dried for this special use. D. Khodadad used to obtain his own supplies from around the shrine of Banu-Pars. Its Dari name appears to derive from the odour it produces when bunt.
+[^21 ]: This plant, which I failed to identify, grew in the desert and hills, and was dug up and dried for this special use. D. Khodadad used to obtain his own supplies from around the shrine of Banu-Pars. Its Dari name appears to derive from the odour it produces when bunt.
 
-24 Whoever did the actual washing drew a woollen glove over his right hand, with which he applied the pajow.150 DEATH AND THE MYSTERIES OF THE DOG waste, to put anything new on the dead. These garments, which had sometimes been worn during no-šwa,25 consisted of the sacred shirt, cotton trousers reaching to just below the knee, rough foot wrappings, and a folded head-cloth tied under the chin. The hands were crossed over the breast, the legs were crossed in tailor-fashion, and the body was laid in a cotton sheet for a shroud.26 This sheet should have been washed previously by the priest himself, in running water, and was to be sewn up with thread which had been woven by a young girl, and had also been washed by the priest. Only the face was left exposed, and this was covered by a small piece of white cloth which could be lifted for the second and third sagdids. Thus the wrappings of the polluting corpse were made as clean-indeed as pure—as humanly possible. Finally, a pair of open scissors was thrust into the shroud, on the corpse's breast, the points towards the feet. The metal blades had a part to play in warding off evil, but their other purpose was for slitting open the shroud in the dakhma, When all this had been done, and everything was ready for the funeral, the dog performed sagdid for the second time, the pieces of bread being laid upon the winding sheet.
+[^24 ]: Whoever did the actual washing drew a woollen glove over his right hand, with which he applied the pajow.150 DEATH AND THE MYSTERIES OF THE DOG waste, to put anything new on the dead. These garments, which had sometimes been worn during no-šwa,25 consisted of the sacred shirt, cotton trousers reaching to just below the knee, rough foot wrappings, and a folded head-cloth tied under the chin. The hands were crossed over the breast, the legs were crossed in tailor-fashion, and the body was laid in a cotton sheet for a shroud.26 This sheet should have been washed previously by the priest himself, in running water, and was to be sewn up with thread which had been woven by a young girl, and had also been washed by the priest. Only the face was left exposed, and this was covered by a small piece of white cloth which could be lifted for the second and third sagdids. Thus the wrappings of the polluting corpse were made as clean-indeed as pure—as humanly possible. Finally, a pair of open scissors was thrust into the shroud, on the corpse's breast, the points towards the feet. The metal blades had a part to play in warding off evil, but their other purpose was for slitting open the shroud in the dakhma, When all this had been done, and everything was ready for the funeral, the dog performed sagdid for the second time, the pieces of bread being laid upon the winding sheet.
 
 Unless death had occurred late in the day, or at night, the funeral followed in a few hours. Any adult who wished night attend, man or woman; and with the mourners there gathered at the house those who were to carry the bier. Traditional Zoroastrian funerals are conducted on foot, and since the dakhma was out in the desert, teams of men (four, six, twelve, or even eighteen) were needed for this task. These bearers were drawn from among friends and neigh bours, and it was thought meritorious to help in this way. Like the salars, they dressed wholly in white, with white cloths over their hands; but since they did not touch the shrouded corpse, but only the bier, they did not become seriously unclean, and a simple ablution after the funeral sufficed to purify them again. The white clothes, provided by the Anjoman, were washed after every time of use. (This was done at the Zād-o-Marg Khāna, ‘House of Birth and Death', where too the iron biers were kept, and the salars made their regular ablutions.)
 
-25 Cf. above, p. 114.
+[^25 ]: Cf. above, p. 114.
 
 26 Because of the crossing of the legs, the shrouded corpse presented a tri angular shape. This way of laying out the dead is enjoined in the Rivayats (see Unvala, i. 141.8; Dhabhar, 158, with discussion, n. 3). The Parsis tradition ally lay out the corpse with straight legs, and great controversy arose. when the Irani custom was introduced among them in the eighteenth century.
 

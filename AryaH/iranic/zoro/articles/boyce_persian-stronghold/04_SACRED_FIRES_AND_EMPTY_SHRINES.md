@@ -11,9 +11,9 @@ This, the standpoint of the intellectual Zoroastrian, has probably been that of 
 
 .TTT
 
-1 The usage is supported by an interpolated verse in the Persian epic (see Firdausi, Shahnama, Tehran edo., 1935-6, i. 19, line 9), and presumably evolved in early debates between Zoroastrians and Moslems.
+[^1 ]: The usage is supported by an interpolated verse in the Persian epic (see Firdausi, Shahnama, Tehran edo., 1935-6, i. 19, line 9), and presumably evolved in early debates between Zoroastrians and Moslems.
 
-2 See Boyce, History, i. 70, 153-5.
+[^2 ]: See Boyce, History, i. 70, 153-5.
 
 II.
 
@@ -25,7 +25,7 @@ The Zoroastrian cult of fire is thus complex, embracing immensely archaic and pr
 
 A further complexity—or enrichment in the Zoroastrian cult of fire comes from the dedication of each temple-fire of the highest grade to Verethraghna, the ancient yazad of Victory, now known in
 
-3 For the literature on this subject, and the evidence that Zoroaster himself made the traditional offerings to fire, see Boyce, History, i. 214 ff.
+[^3 ]: For the literature on this subject, and the evidence that Zoroaster himself made the traditional offerings to fire, see Boyce, History, i. 214 ff.
 
 + Ataš Niyayes, 7.
 
@@ -33,7 +33,7 @@ SACRED FIRES AND EMPTY SHRINES Dari as Varahrām or Vahrām, in Persian as Bahr�
 
 Varahram was also invoked at other times of peril. Thus within recent memory there was an occasion when fierce storm-foods threatened to sweep away Zoroastrian houses in the hill-village of Taft; and the head of the local anjoman, Namir Mizanian, stood beside the waters with two of the village elders, chanting the hymn to Varahram, and their level dropped and the peril passed. D. Khodadad himself told me of another occasion when he was asked for help by a farmer in Hasanabad against a wolf which had learnt to swim down a ganat stream to get at his sheep. The Dastur stationed
 
-5 See 'On the Zoroastrian temple-cult of fire', 455 f. 6 See 'Iconoclasm', 100.
+[^5 ]: See 'On the Zoroastrian temple-cult of fire', 455 f. 6 See 'Iconoclasm', 100.
 
 The highway was moved to its present position in the reign of Reza Shah.
 
