@@ -15,11 +15,11 @@ title = "04 References and Index"
 
 List of figures 
 
-1 Gupta–Vākāt.aka matrimonial relations . . . . . . . . . . . . . . . . . . . . . 115 2 Historical map of Mekalā and Daks.in. a Kosala . . . . . . . . . . . . . . . . . 237 3 Dynasties of Mekalā and Daks.in. a Kosala . . . . . . . . . . . . . . . . . . . . 238 4 Dynastic capitals of Mekalā and Daks.in. a Kosala . . . . . . . . . . . . . . . . 238 5 Genealogy of the Gupta and Vākāt.aka dynasties . . . . . . . . . . . . . . . . 318 6 Map of Vidarbha and surrounding countries . . . . . . . . . . . . . . . . . . 347 7 Gupta Vākāt.aka relationship as known before the KNT Inscription . . . . . . . 359 8 Gupta Vākāt.aka relationship as deduced from the KNT Inscription . . . . . . . 360 9 The Gupta Vākāt.aka relationship . . . . . . . . . . . . . . . . . . . . . . . 362 10 The Maukharis of Kanauj . . . . . . . . . . . . . . . . . . . . . . . . . . . 382 11 Survey map of Mansar. Based on T.A. Wellsted 1934, 
+1 Gupta–Vākāt.aka matrimonial relations . . . . . . . . . . . . . . . . . . . . . 115 2 Historical map of Mekalā and Daks.iṇa Kosala . . . . . . . . . . . . . . . . . 237 3 Dynasties of Mekalā and Daks.iṇa Kosala . . . . . . . . . . . . . . . . . . . . 238 4 Dynastic capitals of Mekalā and Daks.iṇa Kosala . . . . . . . . . . . . . . . . 238 5 Genealogy of the Gupta and Vākāt.aka dynasties . . . . . . . . . . . . . . . . 318 6 Map of Vidarbha and surrounding countries . . . . . . . . . . . . . . . . . . 347 7 Gupta Vākāt.aka relationship as known before the KNT Inscription . . . . . . . 359 8 Gupta Vākāt.aka relationship as deduced from the KNT Inscription . . . . . . . 360 9 The Gupta Vākāt.aka relationship . . . . . . . . . . . . . . . . . . . . . . . 362 10 The Maukharis of Kanauj . . . . . . . . . . . . . . . . . . . . . . . . . . . 382 11 Survey map of Mansar. Based on T.A. Wellsted 1934, 
 
 Plan of Old Town Site Mansar ......................... 432 12 Avimuktaks.etra. The twelve liṅga sanctuaries encircling Avimukteśvara. 
 
-Map made by Niels Gutschow . . . . . . . . . . . . . . . . . . . . . . . . . 472 13 Bān. a’s pedigree . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 536 14 Matrimonial alliances of the royal houses of North India 
+Map made by Niels Gutschow . . . . . . . . . . . . . . . . . . . . . . . . . 472 13 Bāṇa’s pedigree . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 536 14 Matrimonial alliances of the royal houses of North India 
 
 in the 6th and 7th centuries . . . . . . . . . . . . . . . . . . . . . . . . . . 538 15 Map of northwestern India: spread of the Pāśupata movement. 
 
@@ -29,7 +29,7 @@ List of plates
 
 All photos were taken by the author, unless stated otherwise 
 
-1 Illiers–Combray: La maison o`u Tante L´eonie achetait ses madeleines . . . . . . . 53 2 Ayodhyā: Hanumāngar.hī (before 1870) After Carnegy 1870 . . . . . . . . . . . 67 3 Ayodhyā: Monks of the Hanumāngar.hī (before 1870) After Carnegy 1870 . . . . . 67 4 Ayodhyā: Babri Masjid (before 1870). After Carnegy 1870 . . . . . . . . . . . . 69 5 Nasik: Consecration of bricks for the Rāmajanmabh¯umi Temple . . . . . . . . . 74 6 Ramtek: Graffito on an entrance pillar of the Kevala–Narasim. ha Temple . . . . . 82 7 Ramtek: Graffito on a pillar inside the Kevala–Narasim. ha Temple . . . . . . . . 82 8 Ramtek: Kevala–Narasim. ha Temple Ramtek Inscription No. 1 . . . . . . . . . . 84 9 Ramtek: Kevala–Narasim. ha Temple Ramtek Inscription No. 2 . . . . . . . . . . 87 10 Ramtek: Vākāt.aka Inscription in the Kevala–Narasim. ha Temple . . . . . . . . 117 11 Ramtek: Varāha Temple . . . . . . . . . . . . . . . . . . . . . . . . . . . . 156 12 Ramtek: Rāmacandra and Laks.man. a temples on the spur of the Rāmagiri . . . . 166 13 Paunar: Kam. savadha . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 171 14 Paunar: Dhenukāsuravadha . . . . . . . . . . . . . . . . . . . . . . . . . . 171 15 Paunar: Little Kr.s.n. a’s play with the moon . . . . . . . . . . . . . . . . . . . 172 16 Rajim: Panels on ‘Rucaka’ pillar (north side) in the Rāmacandra Temple . . . . 246 17 Turturiya: Pillar at the entrance of temple in Turturiya . . . . . . . . . . . . . 246 18 Sirpur Site Museum Laks.man. a Temple: Narasim. ha . . . . . . . . . . . . . . . 254 19 Tālā: Devarānī Temple seen from the south . . . . . . . . . . . . . . . . . . . 257 
+1 Illiers–Combray: La maison o`u Tante L´eonie achetait ses madeleines . . . . . . . 53 2 Ayodhyā: Hanumāngar.hī (before 1870) After Carnegy 1870 . . . . . . . . . . . 67 3 Ayodhyā: Monks of the Hanumāngar.hī (before 1870) After Carnegy 1870 . . . . . 67 4 Ayodhyā: Babri Masjid (before 1870). After Carnegy 1870 . . . . . . . . . . . . 69 5 Nasik: Consecration of bricks for the Rāmajanmabh¯umi Temple . . . . . . . . . 74 6 Ramtek: Graffito on an entrance pillar of the Kevala–Narasim. ha Temple . . . . . 82 7 Ramtek: Graffito on a pillar inside the Kevala–Narasim. ha Temple . . . . . . . . 82 8 Ramtek: Kevala–Narasim. ha Temple Ramtek Inscription No. 1 . . . . . . . . . . 84 9 Ramtek: Kevala–Narasim. ha Temple Ramtek Inscription No. 2 . . . . . . . . . . 87 10 Ramtek: Vākāt.aka Inscription in the Kevala–Narasim. ha Temple . . . . . . . . 117 11 Ramtek: Varāha Temple . . . . . . . . . . . . . . . . . . . . . . . . . . . . 156 12 Ramtek: Rāmacandra and Laks.maṇa temples on the spur of the Rāmagiri . . . . 166 13 Paunar: Kam. savadha . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 171 14 Paunar: Dhenukāsuravadha . . . . . . . . . . . . . . . . . . . . . . . . . . 171 15 Paunar: Little Kr.s.ṇa’s play with the moon . . . . . . . . . . . . . . . . . . . 172 16 Rajim: Panels on ‘Rucaka’ pillar (north side) in the Rāmacandra Temple . . . . 246 17 Turturiya: Pillar at the entrance of temple in Turturiya . . . . . . . . . . . . . 246 18 Sirpur Site Museum Laks.maṇa Temple: Narasim. ha . . . . . . . . . . . . . . . 254 19 Tālā: Devarānī Temple seen from the south . . . . . . . . . . . . . . . . . . . 257 
 
 613 
 
@@ -41,19 +41,19 @@ All photos were taken by the author, unless stated otherwise
 
 614 References 
 
-20 Tālā: Jit.hānī Temple seen from the south . . . . . . . . . . . . . . . . . . . 257 21 Tālā: Brick buttresses at the western side of the Jit.hānī Temple . . . . . . . . . 258 22 Tālā: Image (with us.n.īs.a?) lying west of the Jit.hānī Temple . . . . . . . . . . 266 23 Tālā: Image of Narasim. ha on architrave lying southwest of the Jit.hānī Temple . 266 24 Tālā: Bhāraraks.akas supporting central entrance pillar of the Jit.hānī Temple . . 267 25 Tālā: Lions supporting outer entrance pillar of Jit.hānī Temple . . . . . . . . . 267 26 Tālā: Base of central entrance pillar of Jit.hānī Temple . . . . . . . . . . . . . 268 27 Tālā: Pillar lying at the western entrance of the Jit.hānī Temple . . . . . . . . . 269 28 Tālā: Mouse/rat on pillar at the western entrance of the Jit.hānī Temple . . . . . 269 29 Tālā: Eastern side of the Jit.hānī Temple . . . . . . . . . . . . . . . . . . . . 269 30 Tālā: Rear side of pillar at eastern entrance of Jit.hānī Temple . . . . . . . . . 270 31 Tālā: Figure at eastern entrance of Jit.hānī Temple . . . . . . . . . . . . . . . 270 32 Tālā: Elephant’s head at the northern side of the Jit.hānī Temple . . . . . . . . 271 33 Tālā: Gan. eśa at the northern side of the entrance of the Devarānī Temple . . . . 272 34 Tālā: Supporting makara head and gan. a (Jit.hānī Temple) . . . . . . . . . . . 273 35 Tālā: Supporting makara (Jit.hānī Temple) . . . . . . . . . . . . . . . . . . . 274 36 Tālā: Supporting gan. a (Jit.hānī Temple) . . . . . . . . . . . . . . . . . . . . 274 37 Tālā: Supporting gan. as (Jit.hānī Temple) . . . . . . . . . . . . . . . . . . . . 275 38 Tālā: Gan. a supporting standing image (Jit.hānī Temple) . . . . . . . . . . . . 275 39 Tālā: Supporting gan. a (Jit.hānī Temple) . . . . . . . . . . . . . . . . . . . . 276 40 Tālā: Image standing at the southern staircase of the Jit.hānī Temple . . . . . . 277 41 Tālā: Broken right underarm of image at southern entrance 
+20 Tālā: Jit.hānī Temple seen from the south . . . . . . . . . . . . . . . . . . . 257 21 Tālā: Brick buttresses at the western side of the Jit.hānī Temple . . . . . . . . . 258 22 Tālā: Image (with us.n.īs.a?) lying west of the Jit.hānī Temple . . . . . . . . . . 266 23 Tālā: Image of Narasim. ha on architrave lying southwest of the Jit.hānī Temple . 266 24 Tālā: Bhāraraks.akas supporting central entrance pillar of the Jit.hānī Temple . . 267 25 Tālā: Lions supporting outer entrance pillar of Jit.hānī Temple . . . . . . . . . 267 26 Tālā: Base of central entrance pillar of Jit.hānī Temple . . . . . . . . . . . . . 268 27 Tālā: Pillar lying at the western entrance of the Jit.hānī Temple . . . . . . . . . 269 28 Tālā: Mouse/rat on pillar at the western entrance of the Jit.hānī Temple . . . . . 269 29 Tālā: Eastern side of the Jit.hānī Temple . . . . . . . . . . . . . . . . . . . . 269 30 Tālā: Rear side of pillar at eastern entrance of Jit.hānī Temple . . . . . . . . . 270 31 Tālā: Figure at eastern entrance of Jit.hānī Temple . . . . . . . . . . . . . . . 270 32 Tālā: Elephant’s head at the northern side of the Jit.hānī Temple . . . . . . . . 271 33 Tālā: Gaṇeśa at the northern side of the entrance of the Devarānī Temple . . . . 272 34 Tālā: Supporting makara head and gaṇa (Jit.hānī Temple) . . . . . . . . . . . 273 35 Tālā: Supporting makara (Jit.hānī Temple) . . . . . . . . . . . . . . . . . . . 274 36 Tālā: Supporting gaṇa (Jit.hānī Temple) . . . . . . . . . . . . . . . . . . . . 274 37 Tālā: Supporting gaṇas (Jit.hānī Temple) . . . . . . . . . . . . . . . . . . . . 275 38 Tālā: Gaṇa supporting standing image (Jit.hānī Temple) . . . . . . . . . . . . 275 39 Tālā: Supporting gaṇa (Jit.hānī Temple) . . . . . . . . . . . . . . . . . . . . 276 40 Tālā: Image standing at the southern staircase of the Jit.hānī Temple . . . . . . 277 41 Tālā: Broken right underarm of image at southern entrance 
 
 of the Jit.hānī Temple . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 278 42 Tālā: Sculpture on top of the Jit.hānī Temple mound . . . . . . . . . . . . . . 279 43 Tālā: Profile of the head of the minor figure of the sculpture on top of the 
 
 Jit.hānī Temple mound . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 280 44 Tālā: Naigames.a standing to the left (south) of the entrance of the 
 
-Devarānī Temple . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 281 45 Mandhal: Naigames.a image found in Mandhal excavations (Vidarbha) . . . . . 282 46 Kumāragupta: Apratigha Type gold coin. BM 1884,0404.1. 
+Devarānī Temple . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 281 45 Mandhal: Naigames.a image found in Mandhal excavations (Vidarbha) . . . . . 282 46 Kumāragupta: Apratigha Type gold coiṇBM 1884,0404.1. 
 
 Photograph courtesy British Museum via Ellen Raven. . . . . . . . . . . . . . 309 47 Signet-ring of Mahārāja Maheśvaranāga, son of Nāgabhat.t.a, 
 
-A & B (mirrored). BM 1892,1103.91. Photo courtesy British Museum . . . . . . 313 48 Skandagupta: King-and-Lady Type gold coin. BM 1847,1201.369. 
+A & B (mirrored). BM 1892,1103.91. Photo courtesy British Museum . . . . . . 313 48 Skandagupta: King-and-Lady Type gold coiṇBM 1847,1201.369. 
 
-Photograph courtesy British Museum via Ellen Raven. . . . . . . . . . . . . . 316 49 Mansar (MNS 2): Seal of Prabhāvatī: śrīprabhākā, A & B (mirrored). . . . . . . 331 50 Mansar (MNS 2): Seal of Pravarasena: pravarasya, A & B (mirrored). . . . . . . 331 51 The Rāmagiri . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 338 52 Ramtek: The Dh¯umreśvara Temple . . . . . . . . . . . . . . . . . . . . . . . 338 53 Ramtek: The Rāma and Laks.man. a temples on Rāma’s Hill . . . . . . . . . . . 339 54 Nagardhan: Footprint tablet . . . . . . . . . . . . . . . . . . . . . . . . . . 341 55 Ramtek: Vis.n. u Trivikrama . . . . . . . . . . . . . . . . . . . . . . . . . . . 342 56 Nagardhan: Miniature Narasim. ha . . . . . . . . . . . . . . . . . . . . . . . 344 57 Ramtek: Narasim. ha in the Kevala–Narasim. ha Temple . . . . . . . . . . . . . 345 58 Ramtek: Narasim. ha in the Rudra–Narasim. ha Temple . . . . . . . . . . . . . . 345 59 Rajim, Rājīvalocana Temple: Narasim. ha slaying the demon Hiran. yakaśipu . . . 346 60 Sindursi: Narasim. ha carved in the rock . . . . . . . . . . . . . . . . . . . . . 348 61 Garh-Dhanora: Two Narasim. ha images. Photo courtesy L.S. Nigam . . . . . . . 348 62 Sirpur: Narasim. ha image . . . . . . . . . . . . . . . . . . . . . . . . . . . . 349 63 View of the Vākāt.aka temples on the Rāmagiri. Courtesy of Google Earth. . . . 366 
+Photograph courtesy British Museum via Ellen Raven. . . . . . . . . . . . . . 316 49 Mansar (MNS 2): Seal of Prabhāvatī: śrīprabhākā, A & B (mirrored). . . . . . . 331 50 Mansar (MNS 2): Seal of Pravarasena: pravarasya, A & B (mirrored). . . . . . . 331 51 The Rāmagiri . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 338 52 Ramtek: The Dh¯umreśvara Temple . . . . . . . . . . . . . . . . . . . . . . . 338 53 Ramtek: The Rāma and Laks.maṇa temples on Rāma’s Hill . . . . . . . . . . . 339 54 Nagardhan: Footprint tablet . . . . . . . . . . . . . . . . . . . . . . . . . . 341 55 Ramtek: Vis.ṇu Trivikrama . . . . . . . . . . . . . . . . . . . . . . . . . . . 342 56 Nagardhan: Miniature Narasim. ha . . . . . . . . . . . . . . . . . . . . . . . 344 57 Ramtek: Narasim. ha in the Kevala–Narasim. ha Temple . . . . . . . . . . . . . 345 58 Ramtek: Narasim. ha in the Rudra–Narasim. ha Temple . . . . . . . . . . . . . . 345 59 Rajim, Rājīvalocana Temple: Narasim. ha slaying the demon Hiraṇyakaśipu . . . 346 60 Sindursi: Narasim. ha carved in the rock . . . . . . . . . . . . . . . . . . . . . 348 61 Garh-Dhanora: Two Narasim. ha images. Photo courtesy L.S. Nigam . . . . . . . 348 62 Sirpur: Narasim. ha image . . . . . . . . . . . . . . . . . . . . . . . . . . . . 349 63 View of the Vākāt.aka temples on the Rāmagiri. Courtesy of Google Earth. . . . 366 
 
 
 
@@ -131,11 +131,11 @@ Photo courtesy D.M. Srinivasan 1997. . . . . . . . . . . . . . . . . . . . . . .
 
 Courtesy Government Museum Mathura. . . . . . . . . . . . . . . . . . . . . 494 113 Mansar: Caturbhuja Siva. National Museum (Delhi): L-77/2. ´ 
 
-Courtesy National Museum. . . . . . . . . . . . . . . . . . . . . . . . . . . 495 114 Tiruttan. i: Daks.in. ām¯urti on the outer southern wall of the garbhagr.ha of the Vīrat.t.āneśvara Temple. After Dumar¸cay & l’Hernault 1975, photo 54 . . . . . . 522 115 Nagarī: Crossbar of toran. a (obverse). Photo courtesy Joanna G. Williams. . . . 523 116 Nagarī: a Daks.in. am¯urti. Photo courtesy Joanna G. Williams. . . . . . . . . . . 525 117 Thanesar: Excavations at the Hars.a kā T.īlā. . . . . . . . . . . . . . . . . . . 528 118 Mathurā: Lakulīśa with two pupils. . . . . . . . . . . . . . . . . . . . . . . 530 119 Thanesar: Sthān. uvat.a at the Stān. utīrtha. . . . . . . . . . . . . . . . . . . . 535 120 Symeons’s entry into the city of Emesa. . . . . . . . . . . . . . . . . . . . . 547 121 Mathurā: Club-bearing ascetic. After Michael Meister (ed.) 1984. . . . . . . . . 555 122 Mathurā: Lakulīśa. After Michael Meister (ed.) 1984. . . . . . . . . . . . . . . 555 123 A¨ı Khanum: Heracles. After Afghanistan 2008. . . . . . . . . . . . . . . . . . 556 124 Mathurā: Heracles and the Nemeian lion (Mathura Museum). 
+Courtesy National Museum. . . . . . . . . . . . . . . . . . . . . . . . . . . 495 114 Tiruttaṇi: Daks.in. ām¯urti on the outer southern wall of the garbhagr.ha of the Vīrat.t.āneśvara Temple. After Dumar¸cay & l’Hernault 1975, photo 54 . . . . . . 522 115 Nagarī: Crossbar of toraṇa (obverse). Photo courtesy Joanna G. Williams. . . . 523 116 Nagarī: a Daks.iṇam¯urti. Photo courtesy Joanna G. Williams. . . . . . . . . . . 525 117 Thanesar: Excavations at the Hars.a kā T.īlā. . . . . . . . . . . . . . . . . . . 528 118 Mathurā: Lakulīśa with two pupils. . . . . . . . . . . . . . . . . . . . . . . 530 119 Thanesar: Sthāṇuvat.a at the Stāṇutīrtha. . . . . . . . . . . . . . . . . . . . 535 120 Symeons’s entry into the city of Emesa. . . . . . . . . . . . . . . . . . . . . 547 121 Mathurā: Club-bearing ascetic. After Michael Meister (ed.) 1984. . . . . . . . . 555 122 Mathurā: Lakulīśa. After Michael Meister (ed.) 1984. . . . . . . . . . . . . . . 555 123 A¨ı Khanum: Heracles. After Afghanistan 2008. . . . . . . . . . . . . . . . . . 556 124 Mathurā: Heracles and the Nemeian lion (Mathura Museum). 
 
 After Vogel 1930. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 556 125 A¨ı Khanum: Heracles’ club (left) & Mathurā: Lakulīśa’s club (right). 
 
-Details of Plates 122 & 123. . . . . . . . . . . . . . . . . . . . . . . . . . . 557 126 Dan. ḍapān. i on Mathurā pilaster, ge 61 (Mathura Museum). . . . . . . . . . . . 558 127 Ujjain: The Cremation GrounḍAfter Garde 1940. . . . . . . . . . . . . . . . 560 128 Yogeśvarī Cave (Mumbai): Lakulīśa with four disciples. . . . . . . . . . . . . . 561 129 The citadel of the old town of Madhyamikā. Courtesy Google Earth Pro. . . . . 567 130 Nagarī: The site of the Mahādeva Temple. Courtesy Google Earth Pro. . . . . . 568 131 Nagarī: Remains within the precincts of the Mahādeva Temple. . . . . . . . . . 568 132 Nagarī: Toran. a east face. . . . . . . . . . . . . . . . . . . . . . . . . . . . 569 
+Details of Plates 122 & 123. . . . . . . . . . . . . . . . . . . . . . . . . . . 557 126 Dan. ḍapāṇi on Mathurā pilaster, ge 61 (Mathura Museum). . . . . . . . . . . . 558 127 Ujjain: The Cremation GrounḍAfter Garde 1940. . . . . . . . . . . . . . . . 560 128 Yogeśvarī Cave (Mumbai): Lakulīśa with four disciples. . . . . . . . . . . . . . 561 129 The citadel of the old town of Madhyamikā. Courtesy Google Earth Pro. . . . . 567 130 Nagarī: The site of the Mahādeva Temple. Courtesy Google Earth Pro. . . . . . 568 131 Nagarī: Remains within the precincts of the Mahādeva Temple. . . . . . . . . . 568 132 Nagarī: Toraṇa east face. . . . . . . . . . . . . . . . . . . . . . . . . . . . 569 
 
 
 
@@ -145,7 +145,7 @@ Details of Plates 122 & 123. . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 References 617 
 
-133 Nagarī: Toran. a west face. . . . . . . . . . . . . . . . . . . . . . . . . . . . 569 134 Nagarī: Liṅga of Mahādeva Temple. . . . . . . . . . . . . . . . . . . . . . . 572 135 Nagarī: Excavated brick platform. . . . . . . . . . . . . . . . . . . . . . . . 572 136 Nagarī: Side face of the toran. a post. . . . . . . . . . . . . . . . . . . . . . . 574 137 Nagarī: Gatekeeper with trident facing east, at the bottom of the toran. a post. . . 574 138 Nagarī: Candraśālā arches in the second tier of the toran. a. ........... 574 139 Miniature temple; detail of Plate 138. . . . . . . . . . . . . . . . . . . . . . 575 140 Amalaka found in the village of Nagarī. . . . . . . . . . . . . . . . . . . . . ¯ 575 141 Nagarī: Architrave of the gateway, facing east. . . . . . . . . . . . . . . . . . 575 142 Nagarī: Reconstruction of the architrave of the gateway, facing east. 
+133 Nagarī: Toraṇa west face. . . . . . . . . . . . . . . . . . . . . . . . . . . . 569 134 Nagarī: Liṅga of Mahādeva Temple. . . . . . . . . . . . . . . . . . . . . . . 572 135 Nagarī: Excavated brick platform. . . . . . . . . . . . . . . . . . . . . . . . 572 136 Nagarī: Side face of the toraṇa post. . . . . . . . . . . . . . . . . . . . . . . 574 137 Nagarī: Gatekeeper with trident facing east, at the bottom of the toraṇa post. . . 574 138 Nagarī: Candraśālā arches in the second tier of the toraṇa. ........... 574 139 Miniature temple; detail of Plate 138. . . . . . . . . . . . . . . . . . . . . . 575 140 Amalaka found in the village of Nagarī. . . . . . . . . . . . . . . . . . . . . ¯ 575 141 Nagarī: Architrave of the gateway, facing east. . . . . . . . . . . . . . . . . . 575 142 Nagarī: Reconstruction of the architrave of the gateway, facing east. 
 
 Drawing by V´eronique Degroot. . . . . . . . . . . . . . . . . . . . . . . . . 575 143 Nagarī: The first panel of the eastern face of the architrave (E 1). . . . . . . . . 577 144 Malhar: Lower-most panel in the doorpost of the Deur Temple. 
 
@@ -183,9 +183,9 @@ Bibliography
 
 Abhayadeva S¯uri 
 
-Commentary (Vivaran. a) at the Sthānas¯utra (Thānasuya), edit. by Sudharma Svamin. Bombay/Mehesana 1918–1919. 2 vols. Agamodaya Samiti. ¯ 
+Commentary (Vivaraṇa) at the Sthānas¯utra (Thānasuya), edit. by Sudharma SvamiṇBombay/Mehesana 1918–1919. 2 vols. Agamodaya Samiti. ¯ 
 
-Commentary (Vivaran. a) at the Antakr.ddaśā (Antagadadasāo), 
+Commentary (Vivaraṇa) at the Antakr.ddaśā (Antagadadasāo), 
 
 Anuttaropapātikadaśā (Anuttarovavāiyadasāo), and Vipākas¯utra 
 
@@ -205,7 +205,7 @@ Delhi 1973. 3 vols.
 
 Acharya, Diwakar 
 
-1997 Madhyakālamā Nepāla āekā Yogī Sa˙nkarācārya hoinan. in: R ´ . tambharā (Journal of the Research Centre of Mahendra Sanskrit University) Vol. II.2 
+1997 Madhyakālamā Nepāla āekā Yogī Sa˙nkarācārya hoinaṇin: R ´ . tambharā (Journal of the Research Centre of Mahendra Sanskrit University) Vol. II.2 
 
 (1997), 76–88, Vol. II.3, 86–96. 
 
@@ -219,7 +219,7 @@ Lakulīśa–Pāśupatas. in: Goodall, Dominic & Andr´e Padoux (eds.), M´elang
 
 Ackermann, Hans Christoph 
 
-1975 Narrative Stone Reliefs from Gandhāra in the Victoria and Albert Museum in London. Catalogue and Attempt at a Stylistic History. Rome. Reports and 
+1975 Narrative Stone Reliefs from Gandhāra in the Victoria and Albert Museum in LondoṇCatalogue and Attempt at a Stylistic History. Rome. Reports and 
 
 Memoirs XVII. 
 
@@ -233,15 +233,15 @@ Aerts, W.J. & H. Hokwerda
 
 Afghanistan 
 
-2008 Afghanistan, les tr´esors retrouv´es. Collections nationales du mus´ee de Kaboul, du 6 d´ecembre 2006 au 30 avril 2007. U.S.A. exhibition: ‘Afghanistan. Hidden treasure from the National Museum, Kabul’, edit. by Fredrik Hiebert and 
+2008 Afghanistan, les tr´esors retrouv´es. Collections nationales du mus´ee de Kaboul, du 6 d´ecembre 2006 au 30 avril 2007. U.S.A. exhibition: ‘AfghanistaṇHidden treasure from the National Museum, Kabul’, edit. by Fredrik Hiebert and 
 
-Pierre Cambon. National Geographic Society, Washington 2008. 
+Pierre CamboṇNational Geographic Society, Washington 2008. 
 
 Agastyasam. hitā 
 
 (AgS) Agastyasam. hitā 1–23. Introduction, Critical Edition and Annotated Translation by Roelf Barkhuis. Thesis, Groningen 1995. 2 vols. 
 
-Agastyasam. hitā. Edit. by Rāmnārāyan. dās. Published by Seth Chotelal 
+Agastyasam. hitā. Edit. by Rāmnārāyaṇdās. Published by Seth Chotelal 
 
 Laksmichand Bookseller Ayodhya. Printed at the Jain Press. Lucknow 1898. Agni 
 
@@ -275,7 +275,7 @@ Sivaramamurti Commemoration Volume. Vol. I. Delhi. pp. 179–83.
 
 Agrawala, R.C. 
 
-1987 Early Vais.n. ava Icons from Rajasthan. in: Parimoo, Ratan (ed.), Vais.n. avism in Indian Arts and Culture. New Delhi. pp. 328–34. 
+1987 Early Vais.ṇava Icons from Rajasthaṇin: Parimoo, Ratan (ed.), Vais.ṇavism in Indian Arts and Culture. New Delhi. pp. 328–34. 
 
 Agrawala, Urmila 
 
@@ -285,19 +285,19 @@ Agrawala, Vasudeva S.
 
 1947–48 Terracotta Figurines of Ahichchhatrā, District Bareilly, U.P. in: Ancient India 4 (1947–48), 104–179. 
 
-1969 The Deeds of Harsha [being a cultural study of Bān. a’s Harshacharita]. Redacted and edited by P.K. Agrawala. Varanasi. 
+1969 The Deeds of Harsha [being a cultural study of Bāṇa’s Harshacharita]. Redacted and edited by P.K. Agrawala. Varanasi. 
 
 Ahmad, A. 
 
-1964 Studies in Islamic Culture in the Indian Environment. OxforḍAitareya Brāhman. a 
+1964 Studies in Islamic Culture in the Indian Environment. OxforḍAitareya Brāhmaṇa 
 
-(AB) Das Aitareya-Brāhman. a. Mit Ausz¨ugen aus dem Commentare von 
+(AB) Das Aitareya-Brāhmaṇa. Mit Ausz¨ugen aus dem Commentare von 
 
 Ajitāgama Ali, Daud 
 
-Sāyan. ācārya und anderen Beilagen. Hrsg. von Theodor Aufrecht. Bonn 1879. 
+Sāyan. ācārya und anderen BeilageṇHrsg. von Theodor Aufrecht. Bonn 1879. 
 
-Edition critique par N.R. Bhatt. Pondich´ery 1964–91. 3 vols. Publications de l’Institut Fran¸cais d’Indologie 24.1–3. 
+Edition critique par ṇR. Bhatt. Pondich´ery 1964–91. 3 vols. Publications de l’Institut Fran¸cais d’Indologie 24.1–3. 
 
 2004 Courtly Culture and Political Life in Early Medieval India. Cambridge. 
 
@@ -331,7 +331,7 @@ Amarasim. ha
 
 Amarapadavivr.ti of Liṅgayas¯urin and the Amarapadapārijāta of Mallinātha. 
 
-Critically edited with Introduction by A. A. Ramanathan. Vol. 1. Madras 
+Critically edited with Introduction by A. A. RamanathaṇVol. 1. Madras 
 
 1971. The Adyar Library Series 101. 
 
@@ -353,13 +353,13 @@ Anandavardhana ¯
 
 Dhvanyāloka, Uddyota 3, with Abhinavagupta’s Locana and Rāmaśāraka’s 
 
-Bālapriyā. http://gretil.sub.uni-goettingen.de/gretil/1_sanskr/5_ 
+Bālapriyā. http://gretil.sub.uni-goettingeṇde/gretil/1_sanskr/5_ 
 
 poetry/1_alam/andhvc3u.htm. Input by members of the Sansknet project. 
 
 Andersen, Walter K. & and Shridhar ḍDamle 
 
-1987 The Brotherhood in Saffron. The Rashtriya Svayamsevak Sangh and Hindu Revivalism. Boulder/London. 
+1987 The Brotherhood in SaffroṇThe Rashtriya Svayamsevak Sangh and Hindu Revivalism. Boulder/London. 
 
 Aṅguttaranikāya 
 
@@ -373,11 +373,11 @@ Anquetil-Duperron, A.H.
 
 1801–02 Theologica et Philosophia Indica. Oupnek’hat (Id est, Secretum Tegendum) . . . Ad verbum, e Persico idiomate Sanskreticis vocabulis intermixto, in 
 
-Latinum conversum, dissertationibus et annotationibus . . . illustratum: studio et opera Anquetil du Perron. Strassburg/Paris. 2 vols. 
+Latinum conversum, dissertationibus et annotationibus . . . illustratum: studio et opera Anquetil du PerroṇStrassburg/Paris. 2 vols. 
 
 Aparārka 
 
-Yāj˜navalkyasmr.tih. [with the] T. īkā [of] Aparārka, [edit. by] Hari Nārāyan. a 
+Yāj˜navalkyasmr.tih. [with the] T. īkā [of] Aparārka, [edit. by] Hari Nārāyaṇa 
 
 Apt ¯ .e. [Poona] 1903–04. 2 vols. Ananda Ashrama Sanskrit Series 46. 
 
@@ -385,7 +385,7 @@ Apastambadharmas¯utra ¯
 
 (ApDhS) ¯ Apastamba’s Aphorisms on the Sacred Law of the Hindus. Edited in the ¯ original Sanskrit, with critical notes, variant readings from 
 
-Hiran. yakeśi-dharmas¯utras, an alphabetical index of s¯utras, and word-index, together with extracts from Haradatta’s commentary, the Ujjvalā, by George B¨uhler. Third Edition. Poona 1932. Bombay Sanskrit Series Nos. XLIV and L. Apastambagr ¯ .hyas¯utra 
+Hiraṇyakeśi-dharmas¯utras, an alphabetical index of s¯utras, and word-index, together with extracts from Haradatta’s commentary, the Ujjvalā, by George B¨uhler. Third EditioṇPoona 1932. Bombay Sanskrit Series Nos. XLIV and L. Apastambagr ¯ .hyas¯utra 
 
 (ApGS) The ¯ Apastambˆıya Gr ˆ .ihyasˆutra with extracts from the commentaries of Haradatta and Sudarśanārya. Edit. by M. Winternitz. Vienna 1887. 
 
@@ -469,11 +469,11 @@ Varanasi 1972. 2 vols.).
 
 Aśvalāyanagr ¯ .hyas¯utra 
 
-(AśvGS) ¯ Gr.hyas¯utrān. i. Indische Hausregeln. Sanskrit und Deutsch herausgegeben von Adolf Friedrich Stenzler. I. A¸cvalˆayana. Leipzig 1864–65. Abhandlungen der ˆ 
+(AśvGS) ¯ Gr.hyas¯utrāṇi. Indische HausregelṇSanskrit und Deutsch herausgegeben von Adolf Friedrich Stenzler. I. A¸cvalˆayana. Leipzig 1864–65. Abhandlungen der ˆ 
 
 Deutschen Morgenl¨andischen Gesellschaft III. Band No. 4, IV. Band No. 1. 
 
-Aśvalāyana Gr ¯ .hyas¯utram. With Sanskrit Commentary of Nārāyan. a, English 
+Aśvalāyana Gr ¯ .hyas¯utram. With Sanskrit Commentary of Nārāyaṇa, English 
 
 Translation, Introduction and Index by Narendra Nath Sharma. Delhi 1976. 
 
@@ -483,11 +483,11 @@ Ayachit, S.M.
 
 Bajpai, K.D. 
 
-1977–78 New Light on the Early Pān. ḍava Dynasty of South Kosala. in: ABORI LVIII–LIX (1977–78), ‘Diamond Jubilee Volume’, edit. by R.N. Dandekar, 
+1977–78 New Light on the Early Pān. ḍava Dynasty of South Kosala. in: ABORI LVIII–LIX (1977–78), ‘Diamond Jubilee Volume’, edit. by R.ṇDandekar, 
 
 434–437. 
 
-1992 Coins from Eran. Excavations: A Chronological Analysis. in: Macdowall, D.W. et al. (eds.), Indian Numismatics, History, Art, and Culture. Essays in the 
+1992 Coins from EraṇExcavations: A Chronological Analysis. in: Macdowall, D.W. et al. (eds.), Indian Numismatics, History, Art, and Culture. Essays in the 
 
 Honour of Dr P.L. Gupta. Delhi. 
 
@@ -511,9 +511,9 @@ reference to the Ayodhyāmāhātmya and the worship of Rāma according to
 
 the Agastyasam. hitā. Pt. II Ayodhyāmāhātmya. Introduction, Edition, and 
 
-Annotation. Pt. III Appendices, Concordances, Bibliography, Indexes, and 
+AnnotatioṇPt. III Appendices, Concordances, Bibliography, Indexes, and 
 
-Maps. Groningen. Groningen Oriental Studies I. 
+Maps. GroningeṇGroningen Oriental Studies I. 
 
 *1986b Ayodhyā: le nom et le lieu. in: Revue de l’Histoire des Religions cciii/1, 53–66. [3] 
 
@@ -529,7 +529,7 @@ Maps. Groningen. Groningen Oriental Studies I.
 
 1988 De Culturele Ontdekking van India. Romantische Geestdrift en de Opkomst der Ori¨entalistiek. in: Bakker & Gosman (eds.) 1988, pp. 94–112. 
 
-*1989a Some Methodological Considerations with Respect to the Critical Edition of Purān. ic Literature. in: xxiii. Deutscher Orientalistentag vom 16. bis 20. 
+*1989a Some Methodological Considerations with Respect to the Critical Edition of Purāṇic Literature. in: xxiii. Deutscher Orientalistentag vom 16. bis 20. 
 
 September 1985 in W¨urzburg. Ausgew¨ahlte Vortr¨age hrsg. von Einar von 
 
@@ -539,15 +539,15 @@ Schuler. Stuttgart. pp. 329–341. [9]
 
 1989c The Antiquities of Ramtek Hill (Maharashtra). in: Journal of South Asian Studies 5, 79–102. 
 
-1990 The History of Sacred Places in India as reflected in Traditional Literature. Papers on Pilgrimage in South Asia, edit. by Hans Bakker. Leiden. Panels of the VIIth World Sanskrit Conference vol. III. 
+1990 The History of Sacred Places in India as reflected in Traditional Literature. Papers on Pilgrimage in South Asia, edit. by Hans Bakker. LeideṇPanels of the VIIth World Sanskrit Conference vol. III. 
 
-*1990a An Indian Image of Man. An Inquiry into a Change of Perspective in the Hindu World-view. in: H.G. Kippenberg, H.G., Yme B. Kuiper & Andy F. 
+*1990a An Indian Image of MaṇAn Inquiry into a Change of Perspective in the Hindu World-view. in: H.G. Kippenberg, H.G., Yme B. Kuiper & Andy F. 
 
 Sanders (eds.), Concepts of Persons in Religion and Thought. Berlin/New 
 
 York. pp. 279–307. [1] 
 
-1990b Ramtek: An Ancient Centre of Vis.n. u Devotion in Maharashtra. in: Bakker 1990, 62–85. 
+1990b Ramtek: An Ancient Centre of Vis.ṇu Devotion in Maharashtra. in: Bakker 1990, 62–85. 
 
 1990c The History of Hanuman Worship in Ayodhyā. In: Lallanji Gopal & D.P. Dubey (eds.), Pilgrimages Studies: Text and Context. Srī Phalāhārī Bābā ´ 
 
@@ -561,25 +561,25 @@ Groningen / Paris, pp. 19–38.
 
 *1991a Ayodhyā: a Hindu Jerusalem. An investigation of ‘Holy War’ as a Religious Idea in the Light of Communal Unrest in India. in: Numen 38 (1991), 80–109. [4] 
 
-1992a The Sacred Centre as the Focus of Political Interest. Proceedings of the symposium held on the occasion of the 375th anniversary of the University of Groningen, 5–8 March 1989. Groningen. Groningen Oriental Studies VI. 
+1992a The Sacred Centre as the Focus of Political Interest. Proceedings of the symposium held on the occasion of the 375th anniversary of the University of Groningen, 5–8 March 1989. GroningeṇGroningen Oriental Studies VI. 
 
 1992b Memorials, Temples, Gods, and Kings. An attempt to unravel the symbolic texture of Vākāt.aka kingship. in: A.W. van den Hoek, D.H.A. Kolff, M.S. 
 
-Oort (eds.), Ritual, State and History in South Asia. Essays in Honour of J.C. Heesterman. Leiden. pp. 7–19. 
+Oort (eds.), Ritual, State and History in South Asia. Essays in Honour of J.C. HeestermaṇLeideṇpp. 7–19. 
 
 1992c The Manbhaus’ seat on Ramtek Hill. in: McGregor, R.S. (ed.), Devotional literature in South Asia. Cambridge 1992. pp. 11–25. 
 
 *1992d Throne and Temple. Political Power and Religious Prestige in Vidarbha. in: Bakker, Hans (ed.), The Sacred Centre as the Focus of Political Interest. 
 
-Groningen. pp. 83–100. [7] 
+Groningeṇpp. 83–100. [7] 
 
-1993a Early Mythology Relating to Vārān. asī. in: Rana P.B. Singh (ed.), Banāras (Vārān. asī). Cosmic Order, Sacred City and Hindu Traditions. Festschrift to Prof R.L. Singh. Varanasi 1993. pp. 21–28. 
+1993a Early Mythology Relating to Vārāṇasī. in: Rana P.B. Singh (ed.), Banāras (Vārāṇasī). Cosmic Order, Sacred City and Hindu Traditions. Festschrift to Prof R.L. Singh. Varanasi 1993. pp. 21–28. 
 
-1993b A Newly Found Statue from Nagardhan. in: South Asian Archæology 1991. Stuttgart. pp. 303–311. 
+1993b A Newly Found Statue from Nagardhaṇin: South Asian Archæology 1991. Stuttgart. pp. 303–311. 
 
-*1994a Die Indische Herausforderung. Hegels Beitrag zu einer europ¨aischen kulturhistorischen Diskussion. in: Bakker, H, J. Schickel & B. Nagel (eds.), 
+*1994a Die Indische Herausforderung. Hegels Beitrag zu einer europ¨aischen kulturhistorischen Diskussioṇin: Bakker, H, J. Schickel & B. Nagel (eds.), 
 
-Indische Philosophie und europ¨aische Rezeption. J. Dinter Verlag, K¨oln 
+Indische Philosophie und europ¨aische RezeptioṇJ. Dinter Verlag, K¨oln 
 
 [1994]. Dialectica Minora 5. pp. 33–56. [2] 
 
@@ -591,21 +591,21 @@ Indische Philosophie und europ¨aische Rezeption. J. Dinter Verlag, K¨oln
 
 References 623 
 
-*1994b Observations on the History and Culture of Daks.in. a Kosala (5th to 7th centuries ad). in: Nalini Balbir & Joachim K. Bautze (eds.), Festschrift Klaus 
+*1994b Observations on the History and Culture of Daks.iṇa Kosala (5th to 7th centuries ad). in: Nalini Balbir & Joachim K. Bautze (eds.), Festschrift Klaus 
 
 Bruhn, zur Vollendung des 65. Lebensjahres dargebracht von Sch¨ulern, 
 
-Freunden und Kollegen. Reinbek 1994 (1995), pp. 1–66. [12] 
+Freunden und KollegeṇReinbek 1994 (1995), pp. 1–66. [12] 
 
-*1996 Pārvatī’s Svayam. vara. Studies in the Skandapurān. a I. in: Wiener Zeitschrift f¨ur die Kunde S¨udasiens 40 (1996), 5–43. [10] 
+*1996 Pārvatī’s Svayam. vara. Studies in the Skandapurāṇa I. in: Wiener Zeitschrift f¨ur die Kunde S¨udasiens 40 (1996), 5–43. [10] 
 
-1996a Construction and Reconstruction of Sacred Space in Vārān. asī. in: Numen 43 (1996): 32–55. 
+1996a Construction and Reconstruction of Sacred Space in Vārāṇasī. in: Numen 43 (1996): 32–55. 
 
-1997 The Vākāt.akas. An Essay in Hindu Iconology. Groningen. Gonda Indological Studies 5. 
+1997 The Vākāt.akas. An Essay in Hindu Iconology. GroningeṇGonda Indological Studies 5. 
 
 1999 [Review article of:] Doris Meth Srinivasan, ‘Many Heads, Arms and Eyes’. in: Artibus Asiae 58 3/4 (1999), 339–43. 
 
-*2000 Somaśarman, Somavam. ´a and Somasiddhānta. A Pāśupata tradition in seventh-century Daks.in. a Kosala. Studies in the Skandapurān. a III. in: Ryutaro 
+*2000 Somaśarman, Somavam. ´a and Somasiddhānta. A Pāśupata tradition in seventh-century Daks.iṇa Kosala. Studies in the Skandapurāṇa III. in: Ryutaro 
 
 Tsuchida and Albrecht Wezler (eds.), Harānandalaharī. Volume in Honour of 
 
@@ -619,7 +619,7 @@ the Istituto Italiano per l’Africa e l’Oriente, Palazzo Brancaccio, Rome, 7�
 
 July 1997 . Rome 2000 [= 2001]. Vol. III, pp. 1155–70. 
 
-*2000b Little Kr.s.n. a’s Play with the Moon. in: Mariola Offredi (ed.), The Banyan Tree. Essays on Early Literature in New Indo-Aryan Languages (Proceedings 
+*2000b Little Kr.s.ṇa’s Play with the Mooṇin: Mariola Offredi (ed.), The Banyan Tree. Essays on Early Literature in New Indo-Aryan Languages (Proceedings 
 
 of the Seventh International Conference on Early Literature in 
 
@@ -639,17 +639,17 @@ Orientale Roma XCII. Vol. I, pp. 1–11.
 
 2002 Religion and Politics in the Eastern Vākāt.aka Kingdom. in: South Asian Studies 18 (2002), 1–24. 
 
-2004a Mansar. in: Bakker, Hans T. (ed.), The Vākāt.aka Heritage. Indian Culture at the Crossroads. Groningen. pp. 71–85. 
+2004a Mansar. in: Bakker, Hans T. (ed.), The Vākāt.aka Heritage. Indian Culture at the Crossroads. Groningeṇpp. 71–85. 
 
-2004b Origin and Growth of the Purān. ic Text Corpus with Special Reference to the Skandapurān. a. Papers of the 12th World Sanskrit Conference Vol. 3.2, edited 
+2004b Origin and Growth of the Purāṇic Text Corpus with Special Reference to the Skandapurāṇa. Papers of the 12th World Sanskrit Conference Vol. 3.2, edited 
 
 by Hans T. Bakker. Delhi. 
 
-*2004c At the Right Side of the Teacher: Imagination, Imagery, and Image in Vedic and Saiva Initiation. in: Granoff, Phyllis & Koichi Shinohara (eds.), Images in ´ 
+*2004c At the Right Side of the Teacher: Imagination, Imagery, and Image in Vedic and Saiva Initiatioṇin: Granoff, Phyllis & Koichi Shinohara (eds.), Images in ´ 
 
 Asian Religions. Toronto 2004. pp. 117–148. [26] 
 
-2004d The Vākāt.aka Heritage. Indian Culture at the Crossroads. Edited by Hans T. Bakker. Egbert Forsten, Groningen. Gonda Indological Studies XIII. 
+2004d The Vākāt.aka Heritage. Indian Culture at the Crossroads. Edited by Hans T. Bakker. Egbert Forsten, GroningeṇGonda Indological Studies XIII. 
 
 *2005 Commemorating the DeaḍA note on Skandagupta’s Bhitarī Inscription, vv. 8–12. in: Sharma, R.K. & Devendra Handa (eds.), Revealing the Past: recent 
 
@@ -669,25 +669,25 @@ Essays for Hermann Kulke, Chapter 9. New Delhi. pp. 165–187. [14]
 
 624 References 
 
-2006a The Avimuktaks.etra in Vārān. asī. Its Origin and Early Development. Studies in the Skandapurān. a VI. in: Gaenszle, Martin & J¨org Gengnagel (eds.), 
+2006a The Avimuktaks.etra in Vārāṇasī. Its Origin and Early Development. Studies in the Skandapurāṇa VI. in: Gaenszle, Martin & J¨org Gengnagel (eds.), 
 
 Visualizing Space in Banaras: Images, Maps, and the Practice of 
 
-Representation. Wiesbaden. pp. 23–39. 
+RepresentatioṇWiesbadeṇpp. 23–39. 
 
-*2007 Thanesar, the Pāśupata Order and the Skandapurān. a. Studies in the Skandapurān. a IX. in: Journal of Indological Studies 19 (2007), 1–16. [27] 
+*2007 Thanesar, the Pāśupata Order and the Skandapurāṇa. Studies in the Skandapurāṇa IX. in: Journal of Indological Studies 19 (2007), 1–16. [27] 
 
 *2007a Monuments to the Dead in Ancient North India. in: IIJ 50.1 (2007), 11–47. [21] 
 
 2007b Human Sacrifice (Purus.amedha), Construction Sacrifice and the Origin of the Idea of the ‘Man of the Homestead’ (Vāstupurus.a). in: Bremmer, Jan N. 
 
-(ed.), The Strange World of Human Sacrifice. Leuven. pp. 179–194. 
+(ed.), The Strange World of Human Sacrifice. Leuveṇpp. 179–194. 
 
-2007c The Hindu Religion and War. in: King, Anna S (ed.), Indian Religions. Renaissance and Renewal. The Spalding Papers in Indic Studies. London. pp. 28–40. 
+2007c The Hindu Religion and War. in: King, Anna S (ed.), Indian Religions. Renaissance and Renewal. The Spalding Papers in Indic Studies. Londoṇpp. 28–40. 
 
 2008 Mansar. The Discovery of Pravareśvara and Pravarapura, Temple and Residence of the Vākāt.aka King Pravarasena II. Proceedings of a Symposium at the British Museum, London, 30 June – 1 July, 2008. Library of the 
 
-University of Groningen, Groningen. e-book: 
+University of Groningen, Groningeṇe-book: 
 
 http://irs.ub.rug.nl/dbi/4ccec5f085aa0 
 
@@ -703,7 +703,7 @@ London 2008. pp. 81–91.
 
 *2009c Rāma Devotion in a Saiva Holy Place: The Case of Vārān ´ . asī. Chapter 5 in: Pauwels, H.R.M. (ed.), Patronage and Popularisation, Pilgrimage and 
 
-Procession. Channels of Transcultural Translation and Transmission in Early Modern South Asia. Papers in Honour of Monika Horstmann. Harrassowitz Verlag, Wiesbaden. pp. 67–80. [23] 
+ProcessioṇChannels of Transcultural Translation and Transmission in Early Modern South Asia. Papers in Honour of Monika HorstmanṇHarrassowitz Verlag, Wiesbadeṇpp. 67–80. [23] 
 
 *2010a La collina di Rāma. Transgressione ed espiazione su una collina nel sud e l’inadeguatezza delle sostituzioni [Rāma’s Hill. Transgression and Atonement on a Hill in the South and the Inadequacy of Substitutes]. in: Pellizzari, Paolo (ed.), La bisaccia del pellegrino: fra evocazione e memoria, a cura di Amilcare Barbero e Stefano Piano. Atlas, Centro di Documentazione dei Sacri Monti, Monferrato. pp. 73a’—-82. [16] (English) 
 
@@ -715,7 +715,7 @@ Procession. Channels of Transcultural Translation and Transmission in Early Mode
 
 (2010), 461–75. [15] 
 
-*2010e The Hindu Religion and War. in: Dijk, Jacobus van (ed.), Onder Orchidee¨en. Nieuwe Oogst uit de Tuin der Geesteswetenschappen te Groningen. Barkhuis Publishing, Groningen. pp. 7–17. [2nd edition of the 2007 publication]. [24] 
+*2010e The Hindu Religion and War. in: Dijk, Jacobus van (ed.), Onder Orchidee¨eṇNieuwe Oogst uit de Tuin der Geesteswetenschappen te GroningeṇBarkhuis Publishing, Groningeṇpp. 7–17. [2nd edition of the 2007 publication]. [24] 
 
 *2010f The Gospel of Kaun. ḍinya: The Descent of God in Gujarat and the Practice of Imitating Goḍin: Dijkstra, Jitse, Justin Kroesen & Yme Kuiper (eds.), 
 
@@ -729,7 +729,7 @@ Myths, Martyrs, and Modernity. Studies in the History of Religions in Honour
 
 References 625 
 
-of Jan N. Bremmer. Brill, Leiden 2010, pp. 517–29. Numen Book Series 127. 
+of Jan ṇBremmer. Brill, Leiden 2010, pp. 517–29. Numen Book Series 127. 
 
 [28] 
 
@@ -737,7 +737,7 @@ of Jan N. Bremmer. Brill, Leiden 2010, pp. 517–29. Numen Book Series 127.
 
 ‘P¯urvāparapraj˜nābhinandanam’, East and West, Past and Present: 
 
-Indological and Other Essays in Honour of Klaus Karttunen. Helsinki. Studia 
+Indological and Other Essays in Honour of Klaus KarttuneṇHelsinki. Studia 
 
 Orientalia 110. pp. 21–37. [29] 
 
@@ -747,29 +747,29 @@ evidence (2). in: Religions of South Asia 5.1–2 (2011), 293–302. DOI:
 
 10.1558/rosa.v5i1/2.293 . [17.2] 
 
-*2013a The Temple of Man. ḍaleśvarasvāmin. The Mun. ḍeśvarī Inscription of the Time of Udayasena Reconsidereḍin: Bosma, N. & Nina Mirnig (eds.), IIJ 56.3–4 
+*2013a The Temple of Man. ḍaleśvarasvāmiṇThe Mun. ḍeśvarī Inscription of the Time of Udayasena Reconsidereḍin: Bosma, N. & Nina Mirnig (eds.), IIJ 56.3–4 
 
 (2013), 263–277. [20] 
 
 *2013b The Trivikrama Temple: A New Interpretation of Rāmagiri evidence (3). in: South Asian Studies 29.2 (2013), 169–76. [17.3] 
 
-*2013c Composition and Spread of the Skandapurān. a. An Artist’s Impression. 
+*2013c Composition and Spread of the Skandapurāṇa. An Artist’s Impression. 
 
 Concluding Lecture of VVIK Indologendag 2013: ‘The Study of the History of 
 
 Hinduism in the Sanskrit Tradition.’ Leiden, 
 
-https://instituutkern.nl/content/uploads/mediabank/bakker_symposium_ 
+https://instituutkerṇnl/content/uploads/mediabank/bakker_symposium_ 
 
 bakker_lecture_28_sept_2013.pdf. [31] 
 
-2014 The World of the Skandapurān. a. Northern India in the Sixth and Seventh Centuries. Brill, Leiden/Boston. Supplement to Groningen Oriental Studies. 
+2014 The World of the Skandapurāṇa. Northern India in the Sixth and Seventh Centuries. Brill, Leiden/BostoṇSupplement to Groningen Oriental Studies. 
 
 2018 [Review article of] Dominic Goodall et al. (eds.), ‘The Niśvāsatattvasam. hitā’. Pondich´ery/Hamburg 2015. in: IIJ 61.3 (2018), 263–71. 
 
 Bakker, Hans & R. Adriaensen & H. Isaacson 
 
-1994 Towards a Critical Edition of the Skandapurān. a. in: IIJ 37 (1994), 325–331. Bakker, Hans & Peter Bisschop 
+1994 Towards a Critical Edition of the Skandapurāṇa. in: IIJ 37 (1994), 325–331. Bakker, Hans & Peter Bisschop 
 
 *1999 Moks.adharma 187 and 239–241 Reconsidereḍin: Asiatische Studien/Etudes ´ Asiatiques LII.3 (1999), 459–472. (= Proceedings of the ‘Conference Sām. khya 
 
@@ -779,7 +779,7 @@ and Yoga’, Universit´e de Lausanne, November 6–8 1998). [11]
 
 Bakker, Hans & Alan Entwistle 
 
-1981 Vais.n. avism. The history of the Kr.s.n. a and Rāma cults and their contribution to Indian pilgrimage. Groningen. 
+1981 Vais.ṇavism. The history of the Kr.s.ṇa and Rāma cults and their contribution to Indian pilgrimage. Groningen. 
 
 1983 Devī. The worship of the Goddess and its contribution to Indian pilgrimage. Groningen. 
 
@@ -793,7 +793,7 @@ Studies LVI (1993), 46–74. [6]
 
 Bakker, Hans & Martin Gosman (eds.) 
 
-1988 De Ori¨ent, Droom of Dreiging? Het Oosten in Westers Perspectief. Kampen. 1991 Heilige Oorlogen. Een onderzoek naar historische en hedendaagse vormen van collectief religieus gewelḍKampen. 
+1988 De Ori¨ent, Droom of Dreiging? Het Oosten in Westers Perspectief. Kampen. 1991 Heilige OorlogeṇEen onderzoek naar historische en hedendaagse vormen van collectief religieus gewelḍKampen. 
 
 Balogh, D´aniel 
 
@@ -803,7 +803,7 @@ Inscriptions Database http://siddham.uk/inscription/IN00185.
 
 forthc. Bhitari Stone Pillar Inscription of Skandagupta. in: Siddham, the South Asian Inscriptions Database http://siddham.uk/inscription/. 
 
-Bān. a(HC) The Hars.acarita of Bān. abhat.t.a (Text of Ucchvāsa I–VIII). Edit. with an Introduction and Notes by P.V. Kane. Delhi etc. 1965 (2nd ed.). 
+Bāṇa(HC) The Hars.acarita of Bāṇabhat.t.a (Text of Ucchvāsa I–VIII). Edit. with an Introduction and Notes by P.V. Kane. Delhi etc. 1965 (2nd ed.). 
 
 
 
@@ -815,9 +815,9 @@ Bān. a(HC) The Hars.acarita of Bān. abhat.t.a (Text of Ucchvāsa I–VIII). Ed
 
 Hindīvyākhyākārah. śrī Jagannātha Pāt.hakah. . Caukhambā Vidyābhavan, 
 
-Vārān. asī 1958. 
+Vārāṇasī 1958. 
 
-1897 The Hars.a-carita of Bān. a translated by E.B. Cowell and F.W. Thomas. London. Oriental Translation Fund New Series II. 
+1897 The Hars.a-carita of Bāṇa translated by E.B. Cowell and F.W. Thomas. LondoṇOriental Translation Fund New Series II. 
 
 Banerjea, Jitendra Nath 
 
@@ -835,11 +835,11 @@ Barnett, Richard B.
 
 Barthwal, P.D. 
 
-1978 Traditions of Indian Mysticism based upon Nirgun. a School of Hindi Poetry. New Delhi. 
+1978 Traditions of Indian Mysticism based upon Nirguṇa School of Hindi Poetry. New Delhi. 
 
 Bareau,Andr´e 
 
-1979 Ayodhyā et Mithilā dans les textes canoniques du Bouddhisme ancien. in: Indologica Taurinensia VII (1979), 75–82. 
+1979 Ayodhyā et Mithilā dans les textes canoniques du Bouddhisme ancieṇin: Indologica Taurinensia VII (1979), 75–82. 
 
 Basham, A.L. 
 
@@ -859,7 +859,7 @@ See Xuanzang
 
 Bedekar, V.M. 
 
-1969 Principles of Mahābhārata textual criticism: The need for restatement. in: Purān. a XI No. 2 (1969), 212–228. 
+1969 Principles of Mahābhārata textual criticism: The need for restatement. in: Purāṇa XI No. 2 (1969), 212–228. 
 
 Bemmann, Martin & Ditte K¨onig 
 
@@ -913,11 +913,11 @@ Aus dem Bhagavadgita. Von F. Mayer. in: Asiatischer Magazin (J. Klaproth).
 
 Weimar 1802. 
 
-(BhG, tr.) The Bhagavad Gītā, translated and interpreted by Franklin Edgerton. Part I: text and Translation. Cambridge (Mass.) 1952. Harvard Oriental Studies 38. 
+(BhG, tr.) The Bhagavad Gītā, translated and interpreted by Franklin EdgertoṇPart I: text and TranslatioṇCambridge (Mass.) 1952. Harvard Oriental Studies 38. 
 
-Bhāgavatapurān. a 
+Bhāgavatapurāṇa 
 
-(BhāgP) Srīmad ´ Bhāgavatapurān. am. Srīdharasvāmiviracitayā ´ 
+(BhāgP) Srīmad ´ Bhāgavatapurāṇam. Srīdharasvāmiviracitayā ´ 
 
 Bhāvārthabodhinī-nāmnyā sam. skr.tat.īkayā samupetam. Edited by J.L. 
 
@@ -937,7 +937,7 @@ Bhandarkar, D.R.
 
 Bhandarkar, Ramkrishna Gopal 
 
-1913 Vais.n. avism, Saivism and minor religious systems. Strassburg. Grundriss der ´ Indo-Arischen Philologie und Altertumskunde (Encyclopedia of Indo-Aryan 
+1913 Vais.ṇavism, Saivism and minor religious systems. Strassburg. Grundriss der ´ Indo-Arischen Philologie und Altertumskunde (Encyclopedia of Indo-Aryan 
 
 Research) III.6. 
 
@@ -957,11 +957,11 @@ second edition, Calcutta 1967.
 
 Bhāravi 
 
-(KA) The Kirātārjunīya of Bhāravi with the commentary (Ghan. t.āpatha) of 
+(KA) The Kirātārjunīya of Bhāravi with the commentary (Ghaṇt.āpatha) of 
 
 Mallinātha and various readings. EḍPan. ḍit Durgāprasād and Kāśīnāth 
 
-Pān. ḍurang Parab, revised by Wāsudev Laxman. Sāstrī Pan ´ .śīkar. Bombay 
+Pān. ḍurang Parab, revised by Wāsudev LaxmaṇSāstrī Pan ´ .śīkar. Bombay 
 
 1933. 
 
@@ -985,7 +985,7 @@ Bhatnagar, G.D.
 
 1968 Awadh under Wājid ,Alī Shāh. Benares. 
 
-Bhatt, N.R. 
+Bhatt, ṇR. 
 
 1984 Saiva ´ Agamas. in: Agama and Silpa. Bombay 1984. pp. 10–28. ¯ 
 
@@ -1007,19 +1007,19 @@ Bhattasali, Nalini Kanta
 
 Biardeau, Madeleine 
 
-1968 Some more considerations about textual criticism. in: Purān. a X No. 2 (1968), 115–123. 
+1968 Some more considerations about textual criticism. in: Purāṇa X No. 2 (1968), 115–123. 
 
-1970 The story of Arjuna Kārtavīrya without reconstruction. in: Purān. a XII No. 2 (1970), 286–303. 
+1970 The story of Arjuna Kārtavīrya without reconstructioṇin: Purāṇa XII No. 2 (1970), 286–303. 
 
-2002 Le Mahābhārata. Un r´ecit fondateur du brahmanisme et son interpr´etation. Paris. 2 vols. 
+2002 Le Mahābhārata. Un r´ecit fondateur du brahmanisme et son interpr´etatioṇParis. 2 vols. 
 
 Bisschop, Peter 
 
-2002 On a quotation of the Skandapurān. a in the Tīrthavivecanakān. ḍa of Laks.mīdhara’s Kr.tyakalpataru. Studies in the Skandapurān. a V. in: IIJ 45 
+2002 On a quotation of the Skandapurāṇa in the Tīrthavivecanakān. ḍa of Laks.mīdhara’s Kr.tyakalpataru. Studies in the Skandapurāṇa V. in: IIJ 45 
 
 (2002), pp. 231–243. 
 
-2006 Early Saivism and the Skandapurān ´ . a. Sects and Centres. Groningen. Groningen Oriental Studies XXI. 
+2006 Early Saivism and the Skandapurān ´ . a. Sects and Centres. GroningeṇGroningen Oriental Studies XXI. 
 
 2006a The S¯utrapāt.ha of the Pāśupatas¯utra. in: IIJ 49 (2006), 1–21. 
 
@@ -1033,7 +1033,7 @@ Bloch, T.
 
 1906–07 Excavations at Lauriya. in: ASI, Annual report 1906–07, 119–126. Bock, Andreas 
 
-1984 Der Sāgara–Gaṅgāvataran. a–Mythos in der episch-purān. ischen Literatur. Stuttgart. Alt- und Neu-Indische Studien 27. 
+1984 Der Sāgara–Gaṅgāvataraṇa–Mythos in der episch-purāṇischen Literatur. Stuttgart. Alt- und Neu-Indische Studien 27. 
 
 Bodewitz, Henk W. 
 
@@ -1051,9 +1051,9 @@ Violence in South Asian Cultural History. Leiden etc. 1999. pp. 17–41.
 
 Bonazzoli, Giorgio 
 
-1983 Composition, transmission and recitation of the Purān. as (A Few Remarks). in: Purān. a XXV No. 2 (1983), 254–80. 
+1983 Composition, transmission and recitation of the Purāṇas (A Few Remarks). in: Purāṇa XXV No. 2 (1983), 254–80. 
 
-1984 The Pretakalpa of the Garuḍapurān. a (Adhyāya 5). Critically edited by Giorgio Bonazzoli. Varanasi. 
+1984 The Pretakalpa of the Garuḍapurāṇa (Adhyāya 5). Critically edited by Giorgio Bonazzoli. Varanasi. 
 
 Boner, Alice & Sadāśiva Rath Sarmā (eds.) ´ 
 
@@ -1079,11 +1079,11 @@ genauer metrischen Uebersetzungen . . . und einigen Abschnitten aus den
 
 Veda’s. Herausgegeben und mit Vorerinnerungen begleitet von Dr. K.J. 
 
-Windischmann. Frankfurt. 
+WindischmanṇFrankfurt. 
 
 Bosch, L.P. van den 
 
-1990 Levende Godsdiensten 1. Deelmodule: Inleiding in het hindoeisme. Kampen. Open Theologisch Onderwijs. Groep V: Theologie en Dialoog. 
+1990 Levende Godsdiensten 1. Deelmodule: Inleiding in het hindoeisme. KampeṇOpen Theologisch Onderwijs. Groep V: Theologie en Dialoog. 
 
 Bose, Nirmal Kumar 
 
@@ -1091,7 +1091,7 @@ Bose, Nirmal Kumar
 
 Bosma, Natasja 
 
-2018 Daks.in. a Kosala. A Rich centre of Early Saivism. Barkhuis, Groningen. ´ 
+2018 Daks.iṇa Kosala. A Rich centre of Early Saivism. Barkhuis, Groningen. ´ 
 
 Bouchart, Fran¸cois-Xavier 
 
@@ -1111,21 +1111,21 @@ Bowra, C.M.
 
 1952 Heroic Poetry. London. 
 
-Brahmān. ḍapurān. a 
+Brahmān. ḍapurāṇa 
 
-(BḍP) Srī-Vyāsa-mahars ´ .iproktam. Brahmān. ḍapurān. am. (With Introduction in 
+(BḍP) Srī-Vyāsa-mahars ´ .iproktam. Brahmān. ḍapurāṇam. (With Introduction in 
 
 Sanskrit and English and an Alphabetical Index of Verses). Edit. by J. L. 
 
 Shastri. Delhi etc. 1973. (Reprint of the Venkatesvara edition of ad 1912). 
 
-Brahmapurān. a 
+Brahmapurāṇa 
 
-(BrP) Vol. 1, Sanskrit Indices and text of the Brahmapurān. a by Peter Schreiner and Renate S¨ohnen. Vol. 2, Brahmapurān. a. Summary of Contents, with Index of 
+(BrP) Vol. 1, Sanskrit Indices and text of the Brahmapurāṇa by Peter Schreiner and Renate S¨ohneṇVol. 2, Brahmapurāṇa. Summary of Contents, with Index of 
 
 Names and Motifs by Renate S¨ohnen and Peter Schreiner. Wiesbaden. 2 vols. 
 
-Purān. a Research Publications, T¨ubingen 1 and 2. 
+Purāṇa Research Publications, T¨ubingen 1 and 2. 
 
 Brandtner, Martin 
 
@@ -1145,9 +1145,9 @@ Sanskrit Series No. 68.
 
 Br.hats¯ucīpatram 
 
-[Index of Old mss in the National Archives, Nepal] Vol. 8 Purān. a and Itihāsa 
+[Index of Old mss in the National Archives, Nepal] Vol. 8 Purāṇa and Itihāsa 
 
-by Bābu Kr.s.n. a Sarman ´ . [under the supervision of] Buddhisāgara Sarman. ´ 
+by Bābu Kr.s.ṇa Sarman ´ . [under the supervision of] Buddhisāgara Sarman. ´ 
 
 Publication of the National Archives, Kathmandu s.ḍPurātatva Prakaśana 
 
@@ -1193,7 +1193,7 @@ B¨uhler, G.
 
 2007 śivaliṅgas and caityas in representations of the eight cremation grounds from Nepal. in: Kellner, Birgit, Helmut Krasser & Horst Lasic et al. (eds.), 
 
-Pramān. akīrtih. . Papers dedicated to Ernst Steinkellner on the occasion of his 70th birthday. Vienna. 2 vols. Vol. I, 23–36. 
+Pramāṇakīrtih. . Papers dedicated to Ernst Steinkellner on the occasion of his 70th birthday. Vienna. 2 vols. Vol. I, 23–36. 
 
 Buitenen, J.A.B. van 
 
@@ -1211,11 +1211,11 @@ Bulke, Ph. K.
 
 Burghart, R. 
 
-1983 Renunciation in the Religious Traditions of South Asia. in: Man (N.S.) 18 (1983), 635–53. 
+1983 Renunciation in the Religious Traditions of South Asia. in: Man (ṇS.) 18 (1983), 635–53. 
 
 Burkert, W. 
 
-1986 Krieg, Sieg und die Olympischen G¨otter der Griechen. In: Stolz 1986, pp. 67–87. 
+1986 Krieg, Sieg und die Olympischen G¨otter der GriecheṇIn: Stolz 1986, pp. 67–87. 
 
 Burn, R. 
 
@@ -1223,7 +1223,7 @@ Burn, R.
 
 Caland, W. 
 
-1896 Die altindischen Todten- und Bestattungsgebr¨auche. Mit Benutzung handschriftelicher Quellen. Amsterdam. Verhandelingen der KNAW Afd. 
+1896 Die altindischen Todten- und Bestattungsgebr¨auche. Mit Benutzung handschriftelicher QuelleṇAmsterdam. Verhandelingen der KNAW Afd. 
 
 Lett. Deel I. No. 6. 
 
@@ -1233,7 +1233,7 @@ vierde reeks, elfde deel, pp. 378–385.
 
 Callewaert, Wim & S. Hemraj 
 
-1982 Bhagavadgītānuvāda. A study in transcultural translation. Ranchi. Cannon, Garland 
+1982 Bhagavadgītānuvāda. A study in transcultural translatioṇRanchi. Cannon, Garland 
 
 1979 Sir William Jones. A Bibliography of primary and secondary sources. Amsterdam. Amsterdam Studies in the Theory and History of Linguistic 
 
@@ -1253,15 +1253,15 @@ References 631
 
 Cecil, Elizabeth Ann 
 
-2016 Mapping the Pāśupata Landscape. The Skandapurān. a, Lakulīśa, and the Saiva Imaginary in Early Medieval North India (6th–10th Century CE). ´ 
+2016 Mapping the Pāśupata Landscape. The Skandapurāṇa, Lakulīśa, and the Saiva Imaginary in Early Medieval North India (6th–10th Century CE). ´ 
 
 Brown University, Providence (thesis). 
 
 Chakravarty, Kalyan Kumar 
 
-1992 The Temples at Tala and the Art of Daks.in. a Kośala. Harvard University, Cambridge (MA). [Unpublished PhD thesis]. 
+1992 The Temples at Tala and the Art of Daks.iṇa Kośala. Harvard University, Cambridge (MA). [Unpublished PhD thesis]. 
 
-2018 Walking with Siva. Cognitive roots of Indian art, archaeology and religion, ´ with reference to Tala and Daks.in. a Kosala. Aryan Books, New Delhi. 2 vols. 
+2018 Walking with Siva. Cognitive roots of Indian art, archaeology and religion, ´ with reference to Tala and Daks.iṇa Kosala. Aryan Books, New Delhi. 2 vols. 
 
 Chaudhuri, Nirod C. 
 
@@ -1275,7 +1275,7 @@ Chhabra, B. Ch.
 
 Clark, Matthew 
 
-2006 The Daśanāmī-Sam. nyāsīs. The Integration of Ascetic Lineages into an Order. Brill, Leiden–Boston. Brill’s Indological Library 23. 
+2006 The Daśanāmī-Sam. nyāsīs. The Integration of Ascetic Lineages into an Order. Brill, Leiden–BostoṇBrill’s Indological Library 23. 
 
 Cœd`es, George 
 
@@ -1347,17 +1347,17 @@ Swamirao Gai. New Delhi 1981.
 
 Cousens, Henry 
 
-1931 Mediaeval temples of the Dakhan. Calcutta. 
+1931 Mediaeval temples of the DakhaṇCalcutta. 
 
 Creuzer, Friedrich G. 
 
-1810–23 Symbolik und Mythologie der alten V¨olker, besonders der Griechen. Leipzig/Darmstadt. 6 vols. 
+1810–23 Symbolik und Mythologie der alten V¨olker, besonders der GriecheṇLeipzig/Darmstadt. 6 vols. 
 
 Crollius, A.R. 
 
 1978 Die islamische Transzendenzerfahrung im indischen Kontext. Zur Beziehung zwischen Sufismus und Bhakti. in: Oberhammer, Gerhard (ed.), 
 
-Tranzendenzerfahrung, Vollzugshorizont des Heils. Wien. pp. 81–96. 
+Tranzendenzerfahrung, Vollzugshorizont des Heils. Wieṇpp. 81–96. 
 
 Crooke, William 
 
@@ -1383,7 +1383,7 @@ Fran¸cais d’Indologie 67.1–2.
 
 Dalal, Chimanlal D. 
 
-1920 Gan. akārikā of Acārya Bhāsarvaj˜na. With four appendices including the ¯ Kāravan. a-Māhātmya. Edit. by Ch. ḍDalal. Baroda (reprint 1966). 
+1920 Gaṇakārikā of Acārya Bhāsarvaj˜na. With four appendices including the ¯ Kāravaṇa-Māhātmya. Edit. by Ch. ḍDalal. Baroda (reprint 1966). 
 
 Gaekwad’s Oriental Series No. 15. 
 
@@ -1393,7 +1393,7 @@ Dani, Ahmad Hasan
 
 Dani´elou, Alain 
 
-1989 Manimekhala¨ı, the Dancer with the Magic Bowl by Merchant-Prince Shattan. Translated from the Tamil by Alain Dani´elou; co-translator: Kenneth F. 
+1989 Manimekhala¨ı, the Dancer with the Magic Bowl by Merchant-Prince ShattaṇTranslated from the Tamil by Alain Dani´elou; co-translator: Kenneth F. 
 
 Hurry; With the collaboration of T.V. Gopala Iyer. New York. 
 
@@ -1437,7 +1437,7 @@ Deo, S.B. & M.K. Dhavalikar
 
 Deppert, Joachim 
 
-1977 Rudras Geburt. Systematische Untersuchungen zum Inzest in der Mythologie der Brāhman. as. Wiesbaden. Beitr¨age zur S¨udasienforschung, Band 28. Derrett, J.D.M. 
+1977 Rudras Geburt. Systematische Untersuchungen zum Inzest in der Mythologie der Brāhmaṇas. WiesbadeṇBeitr¨age zur S¨udasienforschung, Band 28. Derrett, J.D.M. 
 
 1976 Rājadharma. in: Journal of Asian Studies XXXV (1976), 597–603. Deshpande, Suresh Raghunath 
 
@@ -1505,13 +1505,13 @@ Dutt, Manmatha Natha (ed.)
 
 Dviveda, Vraja Vallabha 
 
-1982 Purān. avarn. itāh. Pāśupatā yogācāryāh. . in: Purān. a XXIV.2 (1982), 
+1982 Purāṇavarṇitāh. Pāśupatā yogācāryāh. . in: Purāṇa XXIV.2 (1982), 
 
 Eaton, R.M. 
 
 Sam. skr.ta-khan. ḍa pp. 1–21. 
 
-1978 Sufis of Bijapur 1300–1700. Social Roles of Sufis in Medieval India. Princeton. Eck, D.L. 
+1978 Sufis of Bijapur 1300–1700. Social Roles of Sufis in Medieval India. PrincetoṇEck, D.L. 
 
 1991 Following Rāma, worshipping Siva. in: D.L. Eck & F. Mallison (eds.), ´ Devotion Divine. Groningen/Paris 1991. Groningen Oriental Studies VIII. 
 
@@ -1519,31 +1519,31 @@ Edgerton, Franklin
 
 1965 The Beginnings of Indian Philosophy: selections from the Rig Veda, Atharva Veda, Upanis.ads, and Mahābhārata, translated from the Sanskrit with an 
 
-introduction, notes and glossarial index by Franklin Edgerton. London. 
+introduction, notes and glossarial index by Franklin EdgertoṇLondon. 
 
 (BHSD) Buddhist Hybrid Sanskrit Grammar and Dictionary. Volume II: Dictionary. Indian reprint, Delhi 1970. 
 
 Eibl-Eibesfeldt, I 
 
-1975 Krieg und Frieden aus der Sicht der Verhaltensforschung. M¨unchen. Einoo, Shingo 
+1975 Krieg und Frieden aus der Sicht der Verhaltensforschung. M¨uncheṇEinoo, Shingo 
 
-1999 The Autumn Goddess Festival: Described in the Purān. as. in: M. Tanaka & M. Tachikawa (eds.), Living with Sakti ´ . Gender, Sexuality and Religion in 
+1999 The Autumn Goddess Festival: Described in the Purāṇas. in: M. Tanaka & M. Tachikawa (eds.), Living with Sakti ´ . Gender, Sexuality and Religion in 
 
 South Asia. Osaka 1999. Senri Ethnological Studies No. 50, pp. 33–70. 
 
 Elliot, H.M. & John Dowson 
 
-1867–77 The History of India as told by its own Historians. The Muhammadan Period, edited from the posthumous papers of the late H.M. Elliot by John Dowson. London. 8 vols. 
+1867–77 The History of India as told by its own Historians. The Muhammadan Period, edited from the posthumous papers of the late H.M. Elliot by John DowsoṇLondon. 8 vols. 
 
 Emeneau, M.B. 
 
 1958 Oral Poets of South India—the Todas. in: Journal of American Folklore 71 (1958), 312–324. 
 
-1988 Sanskrit Studies of M.B. Emeneau. Selected Papers, edit. by B.A. van Nooten. Berkeley. 
+1988 Sanskrit Studies of M.B. Emeneau. Selected Papers, edit. by B.A. van NooteṇBerkeley. 
 
 Encyclopaedia of Islam 
 
-(En.Is.) The Encyclopaedia of Islam. New Edition, Leiden. 5 Vols. & Suppl. Encyclopaedia of Religion and Ethics 
+(EṇIs.) The Encyclopaedia of Islam. New Edition, Leiden. 5 Vols. & Suppl. Encyclopaedia of Religion and Ethics 
 
 (ERE) The Encyclopaedia of Religion and Ethics. Edit. by James Hastings. Edinburgh 1921. 13 vols. 
 
@@ -1555,9 +1555,9 @@ Encyclopedia of Indian Temple Architecture
 
 Entwistle, A.W. 
 
-1985 An Introduction to Indian Historiography. in: Groniek 92 (1985), 4–15. 1987 Braj. Centre of Krishna Pilgrimage. Groningen. Groningen Oriental Studies Ill. 
+1985 An Introduction to Indian Historiography. in: Groniek 92 (1985), 4–15. 1987 Braj. Centre of Krishna Pilgrimage. GroningeṇGroningen Oriental Studies Ill. 
 
-Epic and Purān. ic Bibliography 
+Epic and Purāṇic Bibliography 
 
 1992 (up to 1985) annotated and with indexes, compiled under the chairmanship of Heinrich von Stietencron [. . . ], edit. by H. von Stietencron, K. P. Gietz, 
 
@@ -1569,9 +1569,9 @@ Epic and Purān. ic Bibliography
 
 References 635 
 
-A. Malinar, A. Kollmann, P. Schreiner, M. Brockington. Wiesbaden. 2 vols. 
+A. Malinar, A. Kollmann, P. Schreiner, M. BrockingtoṇWiesbaden. 2 vols. 
 
-Purān. a Research Publications T¨ubingen Vol. 3. 
+Purāṇa Research Publications T¨ubingen Vol. 3. 
 
 Epigraphia Indica 
 
@@ -1587,13 +1587,13 @@ Erdheim, Mario
 
 objektiver Faktoren des kulturellen Wandels zur Klassengesellschaft bei den 
 
-Azteken. Wiesbaden. Kultur-Anthropologische Studien zur Geschichte. Band 
+AztekeṇWiesbadeṇKultur-Anthropologische Studien zur Geschichte. Band 
 
 2. 
 
 Eschmann, Anncharlot 
 
-1978 The Vais.n. ava typology of hinduization and the origin of Jagannātha. in: 
+1978 The Vais.ṇava typology of hinduization and the origin of Jagannātha. in: 
 
 Eschmann, A. et al. 1978. pp. 99–117. 
 
@@ -1639,7 +1639,7 @@ Folkert, Kendall W.
 
 1989 Jain Religious Life at Ancient Mathurā: The Heritage of Late Victorian 
 
-Interpretation. in: Srinivasan, D.M. (ed.), Mathurā. The Cultural heritage. 
+Interpretatioṇin: Srinivasan, D.M. (ed.), Mathurā. The Cultural heritage. 
 
 New Delhi. pp. 103–22. 
 
@@ -1651,7 +1651,7 @@ Frank, Othman
 
 Franz, Heinrich Gerhard 
 
-1978 Pagoda, Turmtempel, Stupa. Studien zum Kultbau des Buddhismus in Indien und Ostasien. Graz. 
+1978 Pagoda, Turmtempel, Stupa. Studien zum Kultbau des Buddhismus in Indien und OstasieṇGraz. 
 
 Frauwallner, E. 
 
@@ -1695,7 +1695,7 @@ Gaeffke, Peter
 
 1982 [Review of] J.W. Sedlar, ‘India in the mind of Germany. Schelling, Schopenhauer and their times’. in: JAOS 102.3 (1982), 549–550. 
 
-1984 De symbolis in litteris indicis mediae aetatis. in: Ozols, J. & V. Thewalt (eds.), Aus dem osten des Alexandereichs. V¨olker und Kulturen zwischen Orient und Okzident. Iran, Afghanistan, Pakistan und Indien. K¨oln. pp. 84–99. 
+1984 De symbolis in litteris indicis mediae aetatis. in: Ozols, J. & V. Thewalt (eds.), Aus dem osten des Alexandereichs. V¨olker und Kulturen zwischen Orient und Okzident. Iran, Afghanistan, Pakistan und IndieṇK¨olṇpp. 84–99. 
 
 Gai, G.S. 
 
@@ -1707,15 +1707,15 @@ Gai, G.S. & S. Sankaranarayanan
 
 Gail, A. 
 
-1969 Buddha als Avatāra Vis.n. us im Spiegel de Purān. as. in: ZDMG (Suppl. I, XVII. Deutscher Orientalistentag, Teil 3). Wiesbaden. pp. 917–23. 
+1969 Buddha als Avatāra Vis.ṇus im Spiegel de Purāṇas. in: ZDMG (Suppl. I, XVII. Deutscher Orientalistentag, Teil 3). Wiesbadeṇpp. 917–23. 
 
-1977a Paraśurāma. Brahmane und Krieger. Untersuchung ¨uber Ursprung und Entwicklung eines Avatāra Vis.n. u und Bhakta Sivas in der indischen Literatur. ´ Wiesbaden. 
+1977a Paraśurāma. Brahmane und Krieger. Untersuchung ¨uber Ursprung und Entwicklung eines Avatāra Vis.ṇu und Bhakta Sivas in der indischen Literatur. ´ Wiesbaden. 
 
-1977b Vis.n. u als Eber in Mythos und Bilḍin: Beitr¨age zur Indienforschung. Ernst Waldschmidt zum 80. Geburtstag gewidmet. Berlin. pp. 127–68. 
+1977b Vis.ṇu als Eber in Mythos und Bilḍin: Beitr¨age zur Indienforschung. Ernst Waldschmidt zum 80. Geburtstag gewidmet. Berliṇpp. 127–68. 
 
-2008 The Enlightened Buddha and the Preaching Siva. More Light on the ´ Daks.in. ām¯urti icon. in: Raven, Ellen M. (ed.), South Asian Archaeology 1999. Groningen. pp. 457–462. 
+2008 The Enlightened Buddha and the Preaching Siva. More Light on the ´ Daks.in. ām¯urti icoṇin: Raven, Ellen M. (ed.), South Asian Archaeology 1999. Groningeṇpp. 457–462. 
 
-Gan. akārikāSee Dalal 1920. 
+GaṇakārikāSee Dalal 1920. 
 
 Garde, M.B. 
 
@@ -1725,13 +1725,13 @@ Gwalior State, Gwalior.
 
 Geertz, Clifford 
 
-1980 Negara. The Theatre State in Nineteenth-Century Bali. Princeton. Gambier-Parry, T. R. 
+1980 Negara. The Theatre State in Nineteenth-Century Bali. PrincetoṇGambier-Parry, T. R. 
 
 1930 A Catalogue of Photographs of Sanskrit mss purchased for the administrators of the Max M¨uller Memorial FunḍOxford/London. 
 
 Geer, Alexandra Anna Enrica van der 
 
-1998 The Bhāsa Problem. A statistical research into its solution. Thesis, Leiden. 
+1998 The Bhāsa Problem. A statistical research into its solutioṇThesis, Leiden. 
 
 
 
@@ -1765,7 +1765,7 @@ Saeculum 37 (1986), 150–65.
 
 Gobhilagr.hyas¯utra 
 
-(GoGS) Gobhilagr.hyas¯utram with Bhat.t.anārāyan. a’s commentary. Crit. edit. from the original manuscripts with notes and indices by Chintamani Bhattacharya. 
+(GoGS) Gobhilagr.hyas¯utram with Bhat.t.anārāyaṇa’s commentary. Crit. edit. from the original manuscripts with notes and indices by Chintamani Bhattacharya. 
 
 With an Introduction by V. Vedantatirtha. Calcutta 1936. The Calcutta 
 
@@ -1779,23 +1779,23 @@ Gonda, Jan
 
 1960–63 Die Religionen Indiens. Stuttgart. 2 Vols. Die Religionen der Menschheit Band 11, 12. 
 
-1965 Change and Continuity in Indian Religion. London-The Hague-Paris. 
+1965 Change and Continuity in Indian ReligioṇLondon-The Hague-Paris. 
 
 Disputationes Rheno-Trajectinae IX. 
 
 1969 Ancient Indian Kingship from the Religious Point of View. Leiden. 
 
-1977 Medieval Religious Literature in Sanskrit. Wiesbaden. A History of Indian Literature II.1. 
+1977 Medieval Religious Literature in Sanskrit. WiesbadeṇA History of Indian Literature II.1. 
 
-1977a The Ritual S¯utras. Wiesbaden. A History of Indian Literature I.2. 
+1977a The Ritual S¯utras. WiesbadeṇA History of Indian Literature I.2. 
 
-1980 Vedic Ritual. The Non-solemn Rites. Leiden. Handbuch der Orientalistik, zweite Abteilung: Indien, vierter Band: Religionen, erster Abschnitt: Vedic 
+1980 Vedic Ritual. The Non-solemn Rites. LeideṇHandbuch der Orientalistik, zweite Abteilung: Indien, vierter Band: Religionen, erster Abschnitt: Vedic 
 
 Ritual. 
 
 Goodall, Dominic 
 
-1998 Bhat.t.a Rāmakan. t.ha’s Commentary on the Kiran. atantra. Vol. I: chapters 1–6. Critical edition and annotated translation. Pondich´ery. Publications du 
+1998 Bhat.t.a Rāmakaṇt.ha’s Commentary on the Kiraṇatantra. Vol. I: chapters 1–6. Critical edition and annotated translatioṇPondich´ery. Publications du 
 
 D´epartement d’Indologie 86.1. 
 
@@ -1821,9 +1821,9 @@ Dhanavajra Vajrācārya and Kamal P. Malla. Wiesbaden 1985. Nepal Research
 
 Centre Publications No. 9. 
 
-Gopathabrāhman. a 
+Gopathabrāhmaṇa 
 
-Das Gopatha Brāhman. a edit. by Dieuke Gaastra. Leiden 1919. 
+Das Gopatha Brāhmaṇa edit. by Dieuke Gaastra. Leiden 1919. 
 
 
 
@@ -1835,15 +1835,15 @@ Das Gopatha Brāhman. a edit. by Dieuke Gaastra. Leiden 1919.
 
 Goswamy, Brijinder Nath 
 
-1980 Introductory Speech: the St¯upa—some uninformed questions about terminological equivalents. in: Dallapiccola, Anna Libera (ed.), The St¯upa. Its religious, historical and architectural significance. Wiesbaden. pp. 1–11. 
+1980 Introductory Speech: the St¯upa—some uninformed questions about terminological equivalents. in: Dallapiccola, Anna Libera (ed.), The St¯upa. Its religious, historical and architectural significance. Wiesbadeṇpp. 1–11. 
 
 Goudriaan, Teun & Sanjukta Gupta 
 
-1981 Hindu Tantric and Sākta Literature. Wiesbaden. A History of Indian ´ Literature Vol. III fasc. 2. 
+1981 Hindu Tantric and Sākta Literature. WiesbadeṇA History of Indian ´ Literature Vol. III fasc. 2. 
 
 Govindasvāmī 
 
-Sāhityik viśles.an vārtā aur pada-sam. graha. Edit. by Brajabh¯us.an. a Sarmā and ´ Kan. t.haman. i Sāstrī and Gokulānanda Taila˙nga. Kankroli VS 2008. ´ 
+Sāhityik viśles.an vārtā aur pada-sam. graha. Edit. by Brajabh¯us.aṇa Sarmā and ´ Kaṇt.hamaṇi Sāstrī and Gokulānanda Taila˙nga. Kankroli VS 2008. ´ 
 
 Goyal, Shankar 
 
@@ -1865,13 +1865,13 @@ Granoff, Phyllis
 
 1992 Worship as Commemoration: Pilgrimage, Death and Dying in Medieval Jainism. in: Bulletin d’Etudes Indiennes 10(1992), 181–202. ´ 
 
-1992a The Householder as Shaman. Jaina Biographies of Temple Builders. in: East and West 42 (1992), 301–317. 
+1992a The Householder as ShamaṇJaina Biographies of Temple Builders. in: East and West 42 (1992), 301–317. 
 
 2001 Portraits. Likenesses and Looking Glasses: some literary and philosophical reflections on representation and art in medieval India. in: Assman, Jan & 
 
-A.I. Baumgarten (eds.), Representation in Religion. Studies in Honor of 
+A.I. Baumgarten (eds.), Representation in ReligioṇStudies in Honor of 
 
-Moshe Barasch. Leiden. pp. 63–105. 
+Moshe Barasch. Leideṇpp. 63–105. 
 
 2006 Reading between the Lines: Colliding Attitudes towards Image Worship in Indian Religious texts. in: Colas, G´erard & Gilles Tarabout (eds.), Rites 
 
@@ -1883,11 +1883,11 @@ Greaves, Laxshmi Rose
 
 2015 Brick Foundations: North Indian Brick Temple Architecture and Terracotta Art of the Fourth to Sixth Centuries CE. Cardiff University, Cardiff (thesis). Grenet, Frantz 
 
-2015 Zoroastrianism among the Kushans. in: Falk, Harry (ed.), Kushan Histories. Literary Sources and Selected Papers from a Symposium at Berlin, December 5 to 7, 2013. Hempen Verlag, Bremen. pp. 203–39. 
+2015 Zoroastrianism among the Kushans. in: Falk, Harry (ed.), Kushan Histories. Literary Sources and Selected Papers from a Symposium at Berlin, December 5 to 7, 2013. Hempen Verlag, Bremeṇpp. 203–39. 
 
 Gr¨unendahl, Reinhold 
 
-1983–89 Vis.n. udharmāh. , Precepts for the worship of Vis.n. u. Part 1: Adhyāyas 1–43. Part 2: Adhyāyas 44–81. Part 3: Adhyāyas 82–105 (with a Pāda-index of 
+1983–89 Vis.ṇudharmāh. , Precepts for the worship of Vis.ṇu. Part 1: Adhyāyas 1–43. Part 2: Adhyāyas 44–81. Part 3: Adhyāyas 82–105 (with a Pāda-index of 
 
 Adhyāyas 1–105). Wiesbaden. 3 vols. 
 
@@ -1901,7 +1901,7 @@ Deutschland, Supplementband 31.
 
 Gupta, Ananda Swarup 
 
-1970 A problem of purān. ic text-reconstruction. in: Purān. a XII No. 2 (1970), 304–21. 
+1970 A problem of purāṇic text-reconstructioṇin: Purāṇa XII No. 2 (1970), 304–21. 
 
 Gupta, Chandrashekhar 
 
@@ -1919,7 +1919,7 @@ Gupta, Parmeshwari Lal
 
 1946 Ghat.otkacagupta. in: Indian Historical Quarterly 22 (1946), 316–319. 
 
-1989 Early Coins of Mathurā Region. in: Srinivasan 1989 (Mathurā. The Cultural Heritage), pp. 124–139. 
+1989 Early Coins of Mathurā Regioṇin: Srinivasan 1989 (Mathurā. The Cultural Heritage), pp. 124–139. 
 
 Gupta, S.P. 
 
@@ -1935,11 +1935,11 @@ Hacker, P.
 
 1960b Prahlāda. Werden und Wandlungen einer Idealgestalt. Beitr¨age zur 
 
-Geschichte des Hinduismus. Wiesbaden. Ak. ḍWiss. u. ḍLit. Abh. d. 
+Geschichte des Hinduismus. WiesbadeṇAk. ḍWiss. u. ḍLit. Abh. d. 
 
 Geistes- u. Sozialwiss. Kl. Jahrgang 1959, Nr. 9, 13. 
 
-1961a Zur Methode der geschichtlichen Erforschung der anonymen Sanskritliteratur des Hinduismus. in: ZDMG 111 N.F. Bd. 36 (1961), 483–92. 
+1961a Zur Methode der geschichtlichen Erforschung der anonymen Sanskritliteratur des Hinduismus. in: ZDMG 111 ṇF. Bd. 36 (1961), 483–92. 
 
 1961b The Sām. khyization of the Emanation Doctrine (Shown in a Critical Analysis of Texts). in: Wiener Zeitschrift f¨ur die Kunde S¨ud- und Ostasiens 5 (1961), 
 
@@ -1947,7 +1947,7 @@ Geistes- u. Sozialwiss. Kl. Jahrgang 1959, Nr. 9, 13.
 
 1978 Schopenhauer und die Ethik des Hinduismus. in: Paul Hacker, Kleine 
 
-Schriften. Herausgegeben von Lambert Schmithausen. Wiesbaden. pp. 
+SchrifteṇHerausgegeben von Lambert SchmithauseṇWiesbadeṇpp. 
 
 531–564. 
 
@@ -1961,7 +1961,7 @@ Roma, Vol. 2, 573–587.
 
 Halbfass, Wilhelm 
 
-1981 Indien und Europa. Perspektiven ihrer geistigen Begegnung. Basel/Stuttgart. 1983 Inklusivismus. in: Gerhard Oberhammer (Hrsg.), Inklusivismus. Eine indische Denkform. Wien. pp. 11–28. 
+1981 Indien und Europa. Perspektiven ihrer geistigen Begegnung. Basel/Stuttgart. 1983 Inklusivismus. in: Gerhard Oberhammer (Hrsg.), Inklusivismus. Eine indische Denkform. Wieṇpp. 11–28. 
 
 Hamilton, A. & L.Langl`es 
 
@@ -1985,11 +1985,11 @@ Hara, Minoru
 
 Hardy, Friedhelm. 
 
-1974 Mādhavˆendra Purī: a link between Bengal Vais.n. avism and South Indian 
+1974 Mādhavˆendra Purī: a link between Bengal Vais.ṇavism and South Indian 
 
 bhakti. in: JRAS (1974), 23–41. 
 
-1983a Viraha-Bhakti. The early history of Kr.s.n. a devotion in South India. Delhi etc. 1983b Viraha in relation to concrete space and time. in: Thiel-Horstmann, Monika (ed.), Bhakti in Current Research, 1979–1982. Berlin. pp. 143–55. 
+1983a Viraha-Bhakti. The early history of Kr.s.ṇa devotion in South India. Delhi etc. 1983b Viraha in relation to concrete space and time. in: Thiel-Horstmann, Monika (ed.), Bhakti in Current Research, 1979–1982. Berliṇpp. 143–55. 
 
 
 
@@ -2023,7 +2023,7 @@ Heesterman, J.C.
 
 1984 Non-Violence and Sacrifice. in: Indologica Taurinensia XII (1984), 119–127. 
 
-1985 The Inner Conflict of Tradition. Essays in Indian Ritual, Kingship, and Society. Chicago/London. 
+1985 The Inner Conflict of TraditioṇEssays in Indian Ritual, Kingship, and Society. Chicago/London. 
 
 Hegel, Georg Wilhelm Friedrich 
 
@@ -2037,7 +2037,7 @@ G.W.F. Hegel Werke 11, Berliner Schriften 1818–1831. Auf der Grundlage der Wer
 
 1832–45 Werke Vollst¨andige Ausgabe durch einen Verein von Freunden des Verewigten: Plilipp Marheineke (etc.). Berlin. 18 vols. 
 
-1928 Vorlesungen ¨uber die Aesthetik. Teilbd. 1. Hrsg. von Georg Lasson. Leipzig 1928. S¨ammtliche Werke Bd. 10a. 
+1928 Vorlesungen ¨uber die Aesthetik. Teilbd. 1. Hrsg. von Georg LassoṇLeipzig 1928. S¨ammtliche Werke Bd. 10a. 
 
 1940 System und Geschichte der Philosophie. Vollst¨andig neu nach den Quellen hrsg. von Johannes Hoffmeister. Leipzig 1940 (19442). S¨ammtliche Werke. 
 
@@ -2047,7 +2047,7 @@ Philosophie. Einleitung: System und Geschichte der Philosophie.
 
 Philosophische Bibliothek Bd. 166. (3. gek¨urzte Auflage besorgt von 
 
-Friedhelm Nicolin. Hamburg 1959 (19662)). 
+Friedhelm NicoliṇHamburg 1959 (19662)). 
 
 1955 Grundlinien der Philosophie des Rechts. Mit Hegels eigenh¨andigen Randbemerkungen in seinem Handexemplar der Rechtsphilosophie. Hrsg. von Johannes Hoffmeister. Hamburg 1955. Philosophische Bibliothek Bd. 124a. 
 
@@ -2055,11 +2055,11 @@ Friedhelm Nicolin. Hamburg 1959 (19662)).
 
 H¨alfte. Bd. 2: Die orientalische Welt; Bd. 3: Die griechische und die r¨omische Welt; Bd. 4: Die germanische Welt, auf Grund der Handschriften hrsg. von 
 
-Georg Lasson. Hamburg 19232, 1955. 2 vols. Philosophische Bibliothek Bde. 171a, b–d. 
+Georg LassoṇHamburg 19232, 1955. 2 vols. Philosophische Bibliothek Bde. 171a, b–d. 
 
-1983–1985 Vorlesungen ¨uber die Philosophie der Religion. Teil 1: Einleitung. Der Begriff der Religion. Teil 2: Die bestimmte Religion (a: Text; b: Anhang). Teil 3: Die vollendete Religion. Herausgegeben von Walter Jaeschke. Hamburg 
+1983–1985 Vorlesungen ¨uber die Philosophie der ReligioṇTeil 1: Einleitung. Der Begriff der ReligioṇTeil 2: Die bestimmte Religion (a: Text; b: Anhang). Teil 3: Die vollendete ReligioṇHerausgegeben von Walter Jaeschke. Hamburg 
 
-1983–1985. 4 vols. Georg Wilhelm Friedrich Hegel Vorlesungen. Ausgew¨ahlte Nachschriften und Manuskripte Bde. 3, 4a/b, 5. 
+1983–1985. 4 vols. Georg Wilhelm Friedrich Hegel VorlesungeṇAusgew¨ahlte Nachschriften und Manuskripte Bde. 3, 4a/b, 5. 
 
 
 
@@ -2077,7 +2077,7 @@ Bibliothek Bde. 235–238 (a, b).
 
 Hegel in Berlin 
 
-1981 Preussische Kulturpolitik und idealistische Aesthetik. Zum 150. Todestag des Philosophen. Ausstellung der Staatsbibliothek Preussischer Kulturbesitz 
+1981 Preussische Kulturpolitik und idealistische Aesthetik. Zum 150. Todestag des PhilosopheṇAusstellung der Staatsbibliothek Preussischer Kulturbesitz 
 
 Berlin, [. . . ] Berlin 11. November 1981. Herausgeber des Katalogs: Otto 
 
@@ -2087,7 +2087,7 @@ Ausstellungskataloge 16.
 
 Heine, Heinrich 
 
-S¨ammtliche Schriften in zw¨olf B¨anden. Herausgegeben vor Klaus Briegleb. 
+S¨ammtliche Schriften in zw¨olf B¨andeṇHerausgegeben vor Klaus Briegleb. 
 
 Band V: Schriften 1831–1837, hrsg. von Karl P¨ornbacher. M¨unchen/Wien 
 
@@ -2095,13 +2095,13 @@ Band V: Schriften 1831–1837, hrsg. von Karl P¨ornbacher. M¨unchen/Wien
 
 Hemādri 
 
-(CVC) Caturvargacintāman. i of Srī Hemādri. Originally published by the Asiatic ´ Society of Bengal in 1871. Reprint, Varanasi 1985. 7 vols. 
+(CVC) Caturvargacintāmaṇi of Srī Hemādri. Originally published by the Asiatic ´ Society of Bengal in 1871. Reprint, Varanasi 1985. 7 vols. 
 
 Herder, Johann Gottfried 
 
 1772 ‘Abhandlung ¨uber den Ursprung der Sprache’, welche den von der K¨onigl. Academie der Wissenschaften [. . . ] gesezten Preis erhalten hat. Berlin. 
 
-S¨ammtliche Werke. Hrsg. von Bernhard Suphan. Berlin 1877–1913. 33 vols. 
+S¨ammtliche Werke. Hrsg. von Bernhard SuphaṇBerlin 1877–1913. 33 vols. 
 
 Herklots, G.A. 
 
@@ -2131,7 +2131,7 @@ Handschriftenkolophone und Schutzzauber. Materialien zur Geschichte von
 
 Gilgit und Chilas. Mainz. Heidelberger Akademie de Wissenschaften, 
 
-Antiquities of Northern Pakistan. Reports and Studies Vol. 5. 
+Antiquities of Northern PakistaṇReports and Studies Vol. 5. 
 
 Hiralal, Rai Bahadur 
 
@@ -2139,9 +2139,9 @@ Hiralal, Rai Bahadur
 
 1932 Inscriptions in the Central Provinces and Berar. Nagpur. 
 
-Hiran. yakeśigr.hyas¯utra 
+Hiraṇyakeśigr.hyas¯utra 
 
-(HirGS) The Gr.ihyas¯utra of Hiran. yakeśin with extracts from the commentary of Mātr.idatta. Edit. by J. Kirste. Vienna 1889. 
+(HirGS) The Gr.ihyas¯utra of Hiraṇyakeśin with extracts from the commentary of Mātr.idatta. Edit. by J. Kirste. Vienna 1889. 
 
 History and Culture of the Indian People 
 
@@ -2149,7 +2149,7 @@ History and Culture of the Indian People
 
 Hoekstra, A. 
 
-1965 Homeric Modifications of Formulaic Prototypes. Studies in the development of Greek epic diction. Amsterdam. Verh. ḍKon. Ak. v. Wet. AfḍLett. NR 
+1965 Homeric Modifications of Formulaic Prototypes. Studies in the development of Greek epic dictioṇAmsterdam. Verh. ḍKoṇAk. v. Wet. AfḍLett. NR 
 
 Deel LXXI No. 1. 
 
@@ -2185,9 +2185,9 @@ Humboldt, Wilhelm von
 
 1826 Ueber die Bhagavad-Gita. Mit Bezug auf die Beurtheilung der Schlegelschen Ausgabe im Pariser Asiatischen Journal. in: Indische Bibliothek BḍII (1826), Heft 2, pp. 218–258; Heft 3 pp. 328–372. 
 
-1828 Ueber die unter dem Namen Bhagavad-G´ıt´a bekannte Episode des Mah´a-Bh´arata (gelesen in der Akademie der Wissenschaften am 30. Juni 1825 und 15. Juni 1826). in: Abh. ḍhist.-phil. Kl. der K¨on. Ak. ḍWiss. zu Berlin aus dem Jahre 1825. Berlin 1828. pp. 1–44, 45–64. (in: Wilhelm von 
+1828 Ueber die unter dem Namen Bhagavad-G´ıt´a bekannte Episode des Mah´a-Bh´arata (gelesen in der Akademie der Wissenschaften am 30. Juni 1825 und 15. Juni 1826). in: Abh. ḍhist.-phil. Kl. der K¨oṇAk. ḍWiss. zu Berlin aus dem Jahre 1825. Berlin 1828. pp. 1–44, 45–64. (in: Wilhelm von 
 
-Humboldts Gesammelte Schriften, hrsg. von der K¨on. Preuss. Ak. ḍWiss. 5. Band (1823–26), hrsg. von Albert Leitzman, Berlin 1906 [Nachdruck Berlin 1968], pp. 190–232, 325–344). 
+Humboldts Gesammelte Schriften, hrsg. von der K¨oṇPreuss. Ak. ḍWiss. 5. Band (1823–26), hrsg. von Albert Leitzman, Berlin 1906 [Nachdruck Berlin 1968], pp. 190–232, 325–344). 
 
 (Humboldt BhG) Siehe Humboldt 1828. 
 
@@ -2197,7 +2197,7 @@ Hunter, G.R.
 
 Huntington, Susan L. 
 
-1985 The Art of Ancient India. Buddhist, Hindu, Jain. With Contributions by John C. Huntington. New York/Tokyo. 
+1985 The Art of Ancient India. Buddhist, Hindu, JaiṇWith Contributions by John C. HuntingtoṇNew York/Tokyo. 
 
 Huussen, A.H. Jr. 
 
@@ -2233,7 +2233,7 @@ Indo-Iranian Journal
 
 Indraji, Bhagvānlāl 
 
-1881–82 Antiquarian Remains at Sopˆarˆa and Padan. a. in: Journal of the Bombay Branch of the Royal Asiatic Society 15 (1881–82). [Published in 1883] 
+1881–82 Antiquarian Remains at Sopˆarˆa and Padaṇa. in: Journal of the Bombay Branch of the Royal Asiatic Society 15 (1881–82). [Published in 1883] 
 
 
 
@@ -2259,7 +2259,7 @@ Irwin, John
 
 1980 The Axial Symbolism of the Early St¯upa: an Exegesis. in: Dallapiccola, Anna Libera (ed.), The St¯upa. Its religious, historical and architectural significance. 
 
-Wiesbaden. pp. 12–38. 
+Wiesbadeṇpp. 12–38. 
 
 Iyer, T. Paramasiva 
 
@@ -2271,13 +2271,13 @@ Jābāla Upanis.ad
 
 Jain, Kailash Chand 
 
-1972 Malwa Through the Ages (from the earliest times to 1305 ad). Delhi etc. Jalhan. aThe S¯uktimuktāvalī of Bhagadatta Jalhan. a, edit. with an Introduction in Sanskrit by Embar Krishnamacharya. Baroda 1938. Gaekwad’s Oriental 
+1972 Malwa Through the Ages (from the earliest times to 1305 ad). Delhi etc. JalhaṇaThe S¯uktimuktāvalī of Bhagadatta Jalhaṇa, edit. with an Introduction in Sanskrit by Embar Krishnamacharya. Baroda 1938. Gaekwad’s Oriental 
 
 Series, No. LXXXII. 
 
 Jamb¯udvīpapraj˜napti 
 
-The Jambuddīvapan. n. attī with the (Sanskrit) gloss of Dharmasāgaragan. ivara, 
+The Jambuddīvapaṇṇattī with the (Sanskrit) gloss of Dharmasāgaragaṇivara, 
 
 edit. by Labhsagargani. Gopipura 1977. Agamoddhāraka Series 57. ¯ 
 
@@ -2291,7 +2291,7 @@ Jamkhedkar, A.P.
 
 1985–86 Ancient Structures. in: Mārg 37 No. 1 (1985–86), 25–36. 
 
-1987a Vais.n. avism in the Vākāt.aka Times. in: Parimoo, R. (ed.), Vais.n. avism in Indian Arts and Culture. New Delhi 1987 [= 1986]. pp. 335–41. 
+1987a Vais.ṇavism in the Vākāt.aka Times. in: Parimoo, R. (ed.), Vais.ṇavism in Indian Arts and Culture. New Delhi 1987 [= 1986]. pp. 335–41. 
 
 1987b A Newly Discovered Vākāt.aka Temple at Ramtek, Dist. Nagpur. in: Nagaraja Rao (ed.), Kusumā˜njali. C. Sivaramamurti Commemoration Volume. Delhi. 
 
@@ -2343,7 +2343,7 @@ Transactions of the Society. Vol. 1 (1788), 343–355.
 
 1794 Institutes of Hindu Law, or the ordinances of Manu, according to the gloss of Culluca. Comprising the Indian system of duties, religious and civil. Verbally translated from the original Sanscrit. Calcutta. (Reprinted in London 1796). Jordaan, Roy E. & Robert Wessing 
 
-1999 Construction Sacrifice in India, “Seen from the East.” in: Jan E.M. Houben & Karel R. van Kooij (eds.), Violence DenieḍLeiden. pp. 211–247. 
+1999 Construction Sacrifice in India, “Seen from the East.” in: Jan E.M. Houben & Karel R. van Kooij (eds.), Violence DenieḍLeideṇpp. 211–247. 
 
 Joshi, Jagat Pati & A.K. Sharma 
 
@@ -2361,9 +2361,9 @@ Joshi, M.C.
 
 Reappraising Gupta History for S.R. Goyal. New Delhi. pp. 111–126. 
 
-Joshi, N.P. 
+Joshi, ṇP. 
 
-1989 Brahmanical Sculptures in the State Museum, Lucknow. Part II, Vol. 1 (Siva ´ and Vis.n. u). Part II, Vol. 2 (Gan. apati, Skanda, Brahmā, S¯urya, Revanta, 
+1989 Brahmanical Sculptures in the State Museum, Lucknow. Part II, Vol. 1 (Siva ´ and Vis.ṇu). Part II, Vol. 2 (Gaṇapati, Skanda, Brahmā, S¯urya, Revanta, 
 
 Grahas, Sakti-images and Minor Divinities). Lucknow. 2 vols. ´ 
 
@@ -2393,11 +2393,11 @@ Journal of the Royal Asiatic Society
 
 Jouveau-Dubreuil, G. 
 
-1920 Ancient History of the Deccan. Pondich´erry. 
+1920 Ancient History of the DeccaṇPondich´erry. 
 
 Kafle, Nirajan 
 
-2015 The Niśvāsamukha, the Introductory Book of the Niśvāsatattvasam. hitā. Critical Edition, with an Introduction and Annotated Translation. Appended by Sivadharmasam ´ . graha 5–9. Leiden (thesis). 
+2015 The Niśvāsamukha, the Introductory Book of the Niśvāsatattvasam. hitā. Critical Edition, with an Introduction and Annotated TranslatioṇAppended by Sivadharmasam ´ . graha 5–9. Leiden (thesis). 
 
 
 
@@ -2435,7 +2435,7 @@ E. Hultzsch. With a Foreword by Albrecht Wezler. New Delhi 1998.
 
 The Raghuvam. śa of Kˆalidˆasa, with the commentary of Mallinˆatha, edit. with 
 
-various readings by Kˆaśˆınˆatha Pˆanduranga Paraba. Third edition. Bombay, 
+various readings by Kˆaśˆınˆatha Pˆanduranga Paraba. Third editioṇBombay, 
 
 1886. 
 
@@ -2443,7 +2443,7 @@ The Raghupa˜ncikā of Vallabhadeva, being the earliest commentary on the
 
 Raghuvam. śa of Kālidāsa. Vol. I. Critical Edition with Introduction and Notes 
 
-by Dominic Goodall & Harunaga Isaacson. Groningen 2003. Groningen 
+by Dominic Goodall & Harunaga IsaacsoṇGroningen 2003. Groningen 
 
 Oriental Studies 17. 
 
@@ -2479,9 +2479,9 @@ Kaumudī Mahˆotsava. Edit. by M. Ramakrishna Kavi and S.K. Ramanatha
 
 Sastri. Trivandrum 1929. Andhra Oriental Series 1. 
 
-Kaus.ītaki Brāhman. a 
+Kaus.ītaki Brāhmaṇa 
 
-(Kaus.Br) The Kaus.ītaki-Brāhman. a [with the] Vyākhyā of Udaya. Edit. by E.R. 
+(Kaus.Br) The Kaus.ītaki-Brāhmaṇa [with the] Vyākhyā of Udaya. Edit. by E.R. 
 
 Sreekrishna Sarma. Wiebaden 1968–1976. 3 vols. Verzeichnis der 
 
@@ -2505,7 +2505,7 @@ Kielhorn, F.
 
 Kippenberg, Hans G. 
 
-1991a Heilige Oorlogen: Godsdienstwetenschappelijke Aspecten. in: Bakker & Gosman 1991, pp. 18–36. 
+1991a Heilige Oorlogen: Godsdienstwetenschappelijke Aspecteṇin: Bakker & Gosman 1991, pp. 18–36. 
 
 1991b Revolt against Modernism: A note on some recent comparative studies in fundamentalism. in: Numen XXXVIII.1 (1991), 128–133. 
 
@@ -2513,13 +2513,13 @@ Kirfel, Willibald
 
 1915 Die Anf¨ange des Sanskrit-Druckes in Europa. in: Zentralblatt f¨ur 
 
-Bibliothekswesen 32 (1915), 274–280. [in: Kleine Schriften. Hrsg. von R. 
+Bibliothekswesen 32 (1915), 274–280. [in: Kleine SchrifteṇHrsg. von R. 
 
 Birw´e. Wiesbaden 1976. Glasenapp Stiftung 11]. 
 
-1927 Das Purān. a Pa˜ncalaks.an. a. Versuch einer Textgeschichte. Leiden. 
+1927 Das Purāṇa Pa˜ncalaks.aṇa. Versuch einer Textgeschichte. Leiden. 
 
-1944 August Wilhelm von Schlegel und die Bonner indologische Schule. Bonn. Kriegsvortr¨age der Rheinischen Friedrich-Wilhelms-Universit¨at, Bonn a. 
+1944 August Wilhelm von Schlegel und die Bonner indologische Schule. BonṇKriegsvortr¨age der Rheinischen Friedrich-Wilhelms-Universit¨at, Bonn a. 
 
 Rhein 133. 
 
@@ -2539,11 +2539,11 @@ Nagpur. pp. 372–87.
 
 Korolkova, E.F. 
 
-2017 Death and Burial. in: Simpson, St John & Svetlana Pankova (eds.), Scythians. Warriors of Ancient Siberia. The British Museum, London. pp. 258–75. 
+2017 Death and Burial. in: Simpson, St John & Svetlana Pankova (eds.), Scythians. Warriors of Ancient Siberia. The British Museum, Londoṇpp. 258–75. 
 
 Kramrisch, Stella 
 
-1961 P¯us.an. in: JAOS 81 (1961), 104–122. 
+1961 P¯us.aṇin: JAOS 81 (1961), 104–122. 
 
 1977 The Hindu Temple. Reprint, Delhi etc. (First edition, Calcutta 1946). 2 vols. Kreisel, Gerd 
 
@@ -2563,19 +2563,19 @@ Kropman, Martine
 
 http://irs.ub.rug.nl/dbi/4ccec5f085aa0. 
 
-2018 The consecration of Kumāra: the role of Thanesar and King Hars.a in the composition of the Skandapurān. a. in: Journal of the Royal Asiatic Society, 
+2018 The consecration of Kumāra: the role of Thanesar and King Hars.a in the composition of the Skandapurāṇa. in: Journal of the Royal Asiatic Society, 
 
 series 3 (2018), 1–31. 
 
-Kr.s.n. akarn. āmr.ta 
+Kr.s.ṇakarn. āmr.ta 
 
-(KK) The Kr.s.n. akarn. āmr.ta edit. by S.K. De. Dacca 1938. University of Dacca Oriental Publication Series No. 5. 
+(KK) The Kr.s.ṇakarn. āmr.ta edit. by S.K. De. Dacca 1938. University of Dacca Oriental Publication Series No. 5. 
 
-Bilvamaṅgala’s Kr.s.n. a-Stotra. Edit. by Maheshwar Neog. Gauhati 1962. 
+Bilvamaṅgala’s Kr.s.ṇa-Stotra. Edit. by Maheshwar Neog. Gauhati 1962. 
 
 See Wilson 1975. 
 
-Ks.īrasvāminThe Ks.īratara˙ngin.ī. Ks.īrasvāmin’s Kommentar zu Pān. ini’s Dhātupāt.ha. Zum ersten Mal herausgegeben von Bruno Liebich. Breslau 1930. Indische 
+Ks.īrasvāminThe Ks.īratara˙ngin.ī. Ks.īrasvāmin’s Kommentar zu Pāṇini’s Dhātupāt.ha. Zum ersten Mal herausgegeben von Bruno Liebich. Breslau 1930. Indische 
 
 Forschungen Doppelheft 8/9. 
 
@@ -2589,7 +2589,7 @@ References 647
 
 Kuiper, F.B.J. 
 
-1983 Ancient Indian Cosmogony. Essays selected and introduced by John Irwin. Delhi. 
+1983 Ancient Indian Cosmogony. Essays selected and introduced by John IrwiṇDelhi. 
 
 Kulke, Hermann 
 
@@ -2601,9 +2601,9 @@ Kulke, H & ḍRothermund
 
 1982 Geschichte Indiens. Stuttgart etc. 1982. 
 
-K¯urmapurān. a 
+K¯urmapurāṇa 
 
-(K¯uP) The K¯urmapurān. a, crit. edit. by Anand Swarup Gupta. Varanasi 1971. 
+(K¯uP) The K¯urmapurāṇa, crit. edit. by Anand Swarup Gupta. Varanasi 1971. 
 
 All-India Kashiraj Trust. 
 
@@ -2669,7 +2669,7 @@ Santiago de Compostela 1944.
 
 Lienhart, Siegfried 
 
-1984 A history of classical poetry: Sanskrit–Pali–Prakrit. Wiesbaden. A History of Indian Literature, Vol. III, fasc. I. 
+1984 A history of classical poetry: Sanskrit–Pali–Prakrit. WiesbadeṇA History of Indian Literature, Vol. III, fasc. I. 
 
 
 
@@ -2679,13 +2679,13 @@ Lienhart, Siegfried
 
 648 References 
 
-Liṅgapurān. a 
+Liṅgapurāṇa 
 
-(LiP) Srī-Vyāsa-mahars ´ .iproktam. Srī- ´ Liṅgamahāpurān. am. , with the Sanskrit commentary Sivatos ´ .in.ī by Gan. eśa Nātu. [Edit. by] Ga˙ngāvis.n. u (son of 
+(LiP) Srī-Vyāsa-mahars ´ .iproktam. Srī- ´ Liṅgamahāpurāṇam. , with the Sanskrit commentary Sivatos ´ .in.ī by Gaṇeśa Nātu. [Edit. by] Ga˙ngāvis.ṇu (son of 
 
-Kr.s.n. adāsa). Venkatesvara Press, Bombay V.S. 1981 [= ad 1924]. [Reprinted, with a Slokānukraman ´ .ī by Nāgaśaran. a Sim. ha, by Nag Publishers, Delhi 1989 (2nd ed. 1996)] 
+Kr.s.ṇadāsa). Venkatesvara Press, Bombay V.S. 1981 [= ad 1924]. [Reprinted, with a Slokānukraman ´ .ī by Nāgaśaraṇa Sim. ha, by Nag Publishers, Delhi 1989 (2nd ed. 1996)] 
 
-((LiP Va˙ng. Ed.) The Liṅgapurān. a [of] Kr.s.n. a Dvaipāyana Vyāsa. [Edit. by] Pa˜ncānana Tarkaratna. Va˙ngavāsī Press, Calcutta 1297 [= ad 1890]. 
+((LiP Va˙ng. Ed.) The Liṅgapurāṇa [of] Kr.s.ṇa Dvaipāyana Vyāsa. [Edit. by] Pa˜ncānana Tarkaratna. Va˙ngavāsī Press, Calcutta 1297 [= ad 1890]. 
 
 Lingat, Robert 
 
@@ -2707,7 +2707,7 @@ Lorenzen, David N.
 
 L¨uders, Heinrich 
 
-1961 Mathurā Inscriptions. Unpublished papers edited by Klaus L. Janert. G¨ottingen. Abh. ḍAk. ḍWiss. in G¨ottingen. Phil.-hist. Kl. 3. Folge, Nr. 47. Lutzker, Mary-Ann 
+1961 Mathurā Inscriptions. Unpublished papers edited by Klaus L. Janert. G¨ottingeṇAbh. ḍAk. ḍWiss. in G¨ottingeṇPhil.-hist. Kl. 3. Folge, Nr. 47. Lutzker, Mary-Ann 
 
 1984 The Celebration of Arjuna. The Kiratarjuniya and the Arjunawiwaha in South and Southeast Asian Art. University of California, Berkeley (thesis). 
 
@@ -2719,17 +2719,17 @@ Calcutta–Bombay–London.
 
 McGregor, R.S. 
 
-1984 Hindi Literature from its Beginnings to the Nineteenth Century. Wiesbaden. A History of Indian Literature Vol. VIII Fasc. 6. 
+1984 Hindi Literature from its Beginnings to the Nineteenth Century. WiesbadeṇA History of Indian Literature Vol. VIII Fasc. 6. 
 
 Mahābhārata 
 
 (MBh) The Mahābhārata. For the first time critically edited by V. S. Suktankar and others. Poona 1927–59. 19 vols. 
 
-(MBhB) The Mahābhārata with the Bhāratabhāvadīpa by Nīlakan. t.ha, edit. by Kinjawadekar, Ramachandrashastri. Chitrashala Press, Poona 1929–36. 7 
+(MBhB) The Mahābhārata with the Bhāratabhāvadīpa by Nīlakaṇt.ha, edit. by Kinjawadekar, Ramachandrashastri. Chitrashala Press, Poona 1929–36. 7 
 
 vols. [reprinted, New Delhi 1979] 
 
-The Mahābhārata. Translated and Edited by J.A.B. van Buitenen. Volume 2: 2 The Book of the Assembly Hall; 3 The Book of the Forest. Chicago and 
+The Mahābhārata. Translated and Edited by J.A.B. van BuiteneṇVolume 2: 2 The Book of the Assembly Hall; 3 The Book of the Forest. Chicago and 
 
 London 1975. 
 
@@ -2749,7 +2749,7 @@ d’introduction et d’un commentaire par E. Senart. Paris 1882–1897. Reprint
 
 Māheśvarakhan. ḍa 
 
-(MKh Ve˙nk. Ed.) The Māheśvarakhan. ḍa of the Skandapurān. a (SkP), Vol. 1. [Edit. by] Ks.emarāja. Bombay 1910. 
+(MKh Ve˙nk. Ed.) The Māheśvarakhan. ḍa of the Skandapurāṇa (SkP), Vol. 1. [Edit. by] Ks.emarāja. Bombay 1910. 
 
 
 
@@ -2759,17 +2759,17 @@ Māheśvarakhan. ḍa
 
 References 649 
 
-(MKh Va˙ng. Ed.) Skandapurān. am, Māheśvarakhan. ḍam. [Edit. by] Srīyukta Pa˜ncānana ´ Tarkaratna. [With a Bengali translation by] Sr ´ ¯i Tārākānta Devaśarma 
+(MKh Va˙ng. Ed.) Skandapurāṇam, Māheśvarakhan. ḍam. [Edit. by] Srīyukta Pa˜ncānana ´ Tarkaratna. [With a Bengali translation by] Sr ´ ¯i Tārākānta Devaśarma 
 
 Kāvyatīrtha. Vaṅgavāsī Press, Bombay 1318 [= ad 1911]. 
 
 Majer, Fr. 
 
-1798 Zur Kulturgeschichte der V¨olker. Historische Untersuchungen. Mit einer 
+1798 Zur Kulturgeschichte der V¨olker. Historische UntersuchungeṇMit einer 
 
 Vorrede von Herrn Vice-Pr¨asident Herder in Weimar. Leipzig. 2 Bde. 
 
-Majumdar, N.G. 
+Majumdar, ṇG. 
 
 1920 The Mun. ḍeśvarī Inscription of the Time of Udayasena: The Year 30. in: 
 
@@ -2823,13 +2823,13 @@ Mann, Thomas
 
 1952 Der Zauberberg. Fisher Verlag, Frankfurt 1952 (reprint 1996). 
 
-Mārkan. ḍeyapurān. a 
+Mārkan. ḍeyapurāṇa 
 
-(MkP) The Mārkan. ḍeyamahāpurān. am edit. (with a Hindi translation) by R.N. Sarmā. Venkatesvara Steam Press, Bombay 1910. Reprinted with an ´ 
+(MkP) The Mārkan. ḍeyamahāpurāṇam edit. (with a Hindi translation) by R.ṇSarmā. Venkatesvara Steam Press, Bombay 1910. Reprinted with an ´ 
 
-Slokānukraman ´ .ī by N. S. Sim. ha. Nag Publishers, Delhi 1983. 
+Slokānukraman ´ .ī by ṇS. Sim. ha. Nag Publishers, Delhi 1983. 
 
-(Mārkpur.) The M´arcan. ḍeya Pur´an. a in the original Sanscrit edited by K. M. Banerjea. Calcutta 1855–62. Bibliotheca Indica 29. [Reprinted by Biblio Verlag, 
+(Mārkpur.) The M´arcan. ḍeya Pur´aṇa in the original Sanscrit edited by K. M. Banerjea. Calcutta 1855–62. Bibliotheca Indica 29. [Reprinted by Biblio Verlag, 
 
 Osnabr¨uck 1988] 
 
@@ -2839,13 +2839,13 @@ Marshall, J.P.
 
 Martin, Montgomery 
 
-1838 The History, Antiquities, Topography, and Statistics of Eastern India. Volume I, Behar (Patna City) and ShahabaḍLondon. Indian Reprint, Delhi 1976. 
+1838 The History, Antiquities, Topography, and Statistics of Eastern India. Volume I, Behar (Patna City) and ShahabaḍLondoṇIndian Reprint, Delhi 1976. 
 
 Mataṅga 
 
 Mataṅgapārameśvarāgama (Vidyāpāda) avec le commentaire de Bhat.t.a 
 
-Rāmakan. t.ha. Edition critique par N.R. Bhatt. Pondich´ery 1977. Publications 
+Rāmakaṇt.ha. Edition critique par ṇR. Bhatt. Pondich´ery 1977. Publications 
 
 de l’Institut Fran¸cais d’Indologie No. 56. 
 
@@ -2857,15 +2857,15 @@ de l’Institut Fran¸cais d’Indologie No. 56.
 
 650 References 
 
-Matsyapurān. a 
+Matsyapurāṇa 
 
-(MtP) Srīmad-Dvaipāyanamuni-pran ´ .ītam. Matsyapurān. am, etad pustakam Anandāśramasthapaṅḍitaih. sam. śodhitam. [Poona] 1981. Ananda Ashrama 
+(MtP) Srīmad-Dvaipāyanamuni-pran ´ .ītam. Matsyapurāṇam, etad pustakam Anandāśramasthapaṅḍitaih. sam. śodhitam. [Poona] 1981. Ananda Ashrama 
 
-Sanskrit Series 54. [Reprint of the eḍof H. N. Apte ad 1907] 
+Sanskrit Series 54. [Reprint of the eḍof H. ṇApte ad 1907] 
 
 Mauss, M. 
 
-1980 Sociology and Psychology. Essays translated by Ben Brewster, London. Mayamata 
+1980 Sociology and Psychology. Essays translated by Ben Brewster, LondoṇMayamata 
 
 Trait´e Sanskrit d’Architecture. Premi`ere Partie Ch. i `a xxv. Deuxi`eme Partie Ch. xxvi – xxxvi et Index-Glossaire g´en´eral. Edition Critique, Traduction et ´ Notes par Bruno Dagens. Pondich´ery 1970–76. Publications de l”Institut 
 
@@ -2873,9 +2873,9 @@ Fran¸cais d’Indologie No. 40.1–2.
 
 Mayrhofer, Manfred 
 
-(EWA) Etymologisches W¨orterbuch des Altindoarischen. Heidelberg 1992–2001. 3 vols. Indogermanische Bibliothek II. Reihe: W¯orterb¨ucher. 
+(EWA) Etymologisches W¨orterbuch des AltindoarischeṇHeidelberg 1992–2001. 3 vols. Indogermanische Bibliothek II. Reihe: W¯orterb¨ucher. 
 
-(KEWA) Kurzgefaßtes etymologisches W¨orterbuch des Altindischen. Heidelberg 1956–1980. 4 vols. Indogermanische Bibliothek II. Reihe: W¯orterb¨ucher. 
+(KEWA) Kurzgefaßtes etymologisches W¨orterbuch des AltindischeṇHeidelberg 1956–1980. 4 vols. Indogermanische Bibliothek II. Reihe: W¯orterb¨ucher. 
 
 Mead, George Herbert 
 
@@ -2891,11 +2891,11 @@ Medieval Indian palaeography
 
 Bombay. 
 
-1984a Siva’s Forts in Central India: Temples in Daks ´ .in. a Kosala and their “Daemonic” Plans. in: Meister M.W. (ed.), Discourses on Siva. Bombay. pp. ´ 119–142. 
+1984a Siva’s Forts in Central India: Temples in Daks ´ .iṇa Kosala and their “Daemonic” Plans. in: Meister M.W. (ed.), Discourses on Siva. Bombay. pp. ´ 119–142. 
 
 Mertens, Annemarie 
 
-1998 Der Daks.amythus in der episch-purān. ischen Literatur. Beobachtungen zur religionsgeschichtlichen Entwicklung des Gottes Rudra-Siva im Hinduismus. ´ Wiesbaden. Beitr¨age zur Indologie Band 29. 
+1998 Der Daks.amythus in der episch-purāṇischen Literatur. Beobachtungen zur religionsgeschichtlichen Entwicklung des Gottes Rudra-Siva im Hinduismus. ´ WiesbadeṇBeitr¨age zur Indologie Band 29. 
 
 Meulenbeld, Gerrit Jan 
 
@@ -2985,7 +2985,7 @@ Occidentaux III. Paris.
 
 Mr.gendrāgama 
 
-(Mr.A Kr.) ¯ Kriyāpāda et Caryāpāda avec le commentaire de Bhat.t.a-Nārāyan. akan. t.ha. Edition critique par N. R. Bhatt. Pondich´ery 1962. Publications de l’Institut 
+(Mr.A Kr.) ¯ Kriyāpāda et Caryāpāda avec le commentaire de Bhat.t.a-Nārāyaṇakaṇt.ha. Edition critique par ṇR. Bhatt. Pondich´ery 1962. Publications de l’Institut 
 
 Fran¸cais d’Indologie No. 23. 
 
@@ -3009,11 +3009,11 @@ Narain, A.K.
 
 pp. 17–51. 
 
-Nārāyan. abhat.t.a 
+Nārāyaṇabhat.t.a 
 
-Tristhalīsetuh. [edit. by] Gan. eśa Sāstrī Gokhale and published by Hari ´ 
+Tristhalīsetuh. [edit. by] Gaṇeśa Sāstrī Gokhale and published by Hari ´ 
 
-Nārāyan. a Apt ¯ .e. Pun. yākhyapattana (Poona) 1915. 
+Nārāyaṇa Apt ¯ .e. Puṇyākhyapattana (Poona) 1915. 
 
 Anandāśramasam ¯ . skr.tagranthāvali 78. 
 
@@ -3029,17 +3029,17 @@ Neuß, J¨urgen
 
 2003 The Temple of Mun. ḍeśvarī: Reconsidering the Evidence. in: Berliner Indologische Studien 15/16/17 (2003), 531–585. 
 
-2012 [Review of] Bakker, H.T. & H. Isaacson, ‘The Skandapurān. a Volume II a’. in: Orientalistische Literaturzeitung 107 (2012), 55–57. 
+2012 [Review of] Bakker, H.T. & H. Isaacson, ‘The Skandapurāṇa Volume II a’. in: Orientalistische Literaturzeitung 107 (2012), 55–57. 
 
 Nicholson, R.A. 
 
 1963 The Mystics of Islam. London (first published in 1914). 
 
-1964 The Idea of Personality in Sufism. Three lectures delivered in the University of London. Lahore (reprint). 
+1964 The Idea of Personality in Sufism. Three lectures delivered in the University of LondoṇLahore (reprint). 
 
 Nigam, L.S. (ed.) 
 
-2000 Riddle of Indian Iconography (Zetetic on Rare Icon from Tālā). Delhi. 2004 Impact and Extension of Vākāt.aka Art in Chhattisgarh (Daks.in. a Kosala). in: Bakker, Hans T. (ed.), The Vākāt.aka Heritage. Indian Culture at the 
+2000 Riddle of Indian Iconography (Zetetic on Rare Icon from Tālā). Delhi. 2004 Impact and Extension of Vākāt.aka Art in Chhattisgarh (Daks.iṇa Kosala). in: Bakker, Hans T. (ed.), The Vākāt.aka Heritage. Indian Culture at the 
 
 Crossroads. Groningen 2004. pp. 143–156. 
 
@@ -3053,7 +3053,7 @@ Niśvāsatattvasam. hitā
 
 Nayas¯utra. Edited by Dominic Goodall in collaboration with Alexis 
 
-Sanderson & Harunaga Isaacson. With contributions of Nirajan Kafle, 
+Sanderson & Harunaga IsaacsoṇWith contributions of Nirajan Kafle, 
 
 Diwakar Acharya & others. Institut Fran¸cais de Pondich´ery, Ecole Fran¸caise ´ d’Extrˆeme-Orient, Asien–Afrika–Institut, Universit¨at Hamburg. Pondich´ery 2015. Collection Indologie 128, Early Tantra Series 1. [See also Kafle 2015] 
 
@@ -3073,15 +3073,15 @@ Norman, K.R.
 
 Noth, Albrecht 
 
-1966 Heiliger Krieg und Heiliger Kampf in Islam und Christentum. Beitr¨age zur Vorgeschichte und Geschichte der Kreuzz¨uge. Bonn. Bonner Historische 
+1966 Heiliger Krieg und Heiliger Kampf in Islam und Christentum. Beitr¨age zur Vorgeschichte und Geschichte der Kreuzz¨uge. BonṇBonner Historische 
 
 Forschungen 28. 
 
 Oberhammer, Gerhard 
 
-1977 Strukturen yogischer Meditation. Wien. Osterreichische Ak. ḍWiss. ¨ Phil.-hist. Kl. Sitzungsberichte. 322. BanḍVer¨offentlichungen ḍKomm. f¨ur Sprachen u. Kulturen S¨udasiens Heft 13. 
+1977 Strukturen yogischer MeditatioṇWieṇOsterreichische Ak. ḍWiss. ¨ Phil.-hist. Kl. Sitzungsberichte. 322. BanḍVer¨offentlichungen ḍKomm. f¨ur Sprachen u. Kulturen S¨udasiens Heft 13. 
 
-1984 Wahrheit und Transzendenz. Ein Beitrag zur Spiritualit¨at des Nyāya. Wien. Osterreichische Ak. ḍWiss. Phil.-hist. Kl. Ver¨offentlichungen der ¨ 
+1984 Wahrheit und Transzendenz. Ein Beitrag zur Spiritualit¨at des Nyāya. WieṇOsterreichische Ak. ḍWiss. Phil.-hist. Kl. Ver¨offentlichungen der ¨ 
 
 Kommission f¨ur Sprachen und Kulturen S¨udasiens, Heft 18. 
 
@@ -3141,23 +3141,23 @@ Oral Poetry
 
 Das Problem der M¨undlichkeit mittelalterlicher epischer Dichtung. 
 
-Herausgegeben von Norbert Voorwinden und Max de Haan. Darmstadt 1979. 
+Herausgegeben von Norbert Voorwinden und Max de HaaṇDarmstadt 1979. 
 
 Wege der Forschung Bd. 555. 
 
-Padmapurān. a 
+Padmapurāṇa 
 
-(PdP) Srī ´ Pādmam. Mahāpurān. am, [edit. by ] Ks.emarāja śrī-Kr.s.n. adāsa and 
+(PdP) Srī ´ Pādmam. Mahāpurāṇam, [edit. by ] Ks.emarāja śrī-Kr.s.ṇadāsa and 
 
-Ga˙ngāvis.n. u Srīkr ´ .s.n. adāsa. Venkatesvara Press, Bombay V.S. 1984 (ad 1927). 
+Ga˙ngāvis.ṇu Srīkr ´ .s.ṇadāsa. Venkatesvara Press, Bombay V.S. 1984 (ad 1927). 
 
 3 vols. [Reprinted by Nag Publishers, Delhi 1984 (2nd ed. 1996). Vol. 4, 
 
-Slokānukraman ´ .ī by Nāgaśaran. a Sim. ha. Nag Publishers, Delhi 1984 (19962)]. 
+Slokānukraman ´ .ī by Nāgaśaraṇa Sim. ha. Nag Publishers, Delhi 1984 (19962)]. 
 
 Palmer, Andrew 
 
-1991 De overwinning van het kruis en het probleem van de christelijke nederlaag: Kruistochten en djihaad in Byzantijnse en Syrisch-orthodoxe ogen. in: Bakker 
+1991 De overwinning van het kruis en het probleem van de christelijke nederlaag: Kruistochten en djihaad in Byzantijnse en Syrisch-orthodoxe ogeṇin: Bakker 
 
 & Gosman 1991, pp. 84–109. 
 
@@ -3165,13 +3165,13 @@ Panigrahi, K.C.
 
 1956 The Archaeological Remains at Benisāgar in the Singbhum District of Bihar. in: The Journal of the Bihar Research Society 42/1, 3–11. 
 
-Pān. ini(P) The Vyākaran. a-Mahābhās.ya of Pata˜njali, edited by F. Kielhorn. 3rd edition, revised and furnished with additional readings, references and select critical 
+Pāṇini(P) The Vyākaraṇa-Mahābhās.ya of Pata˜njali, edited by F. Kielhorn. 3rd edition, revised and furnished with additional readings, references and select critical 
 
 notes by K.V. Abhyankar. Poona 1962–72. 5 vols. 
 
-http://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/1_gram/ 
+http://gretil.sub.uni-goettingeṇde/gretil/1_sanskr/6_sastra/1_gram/ 
 
-pmbhassu.htm : Pata˜njali: Vyākaran. amahābhās.ya. Based on the edition by 
+pmbhassu.htm : Pata˜njali: Vyākaraṇamahābhās.ya. Based on the edition by 
 
 Franz Kielhorn (Bombay 1880–1885), revised by K.V. Abhyankar (Poona 
 
@@ -3179,19 +3179,19 @@ Franz Kielhorn (Bombay 1880–1885), revised by K.V. Abhyankar (Poona
 
 Paramānanda-Sāgara 
 
-Paramānanda-Sāgara. Edit. by Prabh¯us.an. a Sarmā, Kan ´ . t.haman. i Sastrī, and ´ 
+Paramānanda-Sāgara. Edit. by Prabh¯us.aṇa Sarmā, Kan ´ . t.hamaṇi Sastrī, and ´ 
 
 Gokulānanda Tailaṅg. Kankroli VS 2016. 
 
 Pāraskaragr.hyas¯utra 
 
-(PārGS) Gr.hyas¯utrān. i. Indische Hausregeln. Sanskrit und Deutsch herausgegeben von Adolf Friedrich Stenzler. II. Pˆaraskara. Leipzig 1878. Abhandlungen der 
+(PārGS) Gr.hyas¯utrāṇi. Indische HausregelṇSanskrit und Deutsch herausgegeben von Adolf Friedrich Stenzler. II. Pˆaraskara. Leipzig 1878. Abhandlungen der 
 
 Deutschen Morgenl¨andischen Gesellschaft VI. Band No. 4. 
 
 Pargiter, F.E. 
 
-1913 The Purān. a Text of the Dynasties of the Kali Age with Intr. and Notes. 
+1913 The Purāṇa Text of the Dynasties of the Kali Age with Intr. and Notes. 
 
 London etc. 
 
@@ -3217,7 +3217,7 @@ Pata˜njali
 
 Pathak, V.S. 
 
-See s.v. Pān. ini. 
+See s.v. Pāṇini. 
 
 1960 History of Saiva Cults in Northern India from Inscriptions (700 A.ḍto 1200 ´ A.D.). Varanasi. 
 
@@ -3229,7 +3229,7 @@ The Paumacariyam with Hindi translation, edit. by H. Jacobi. Sec. eḍrev. by Pu
 
 Petech,Luciano 
 
-1976 Indien bis zur Mitte des 6. Jahrhunderts. in: Propyl¨aen Weltgeschichte 2. Bd., 2. HalbbḍFrankfurt/Berlin/Wien. Ullstein Taschenbuchausgabe. 
+1976 Indien bis zur Mitte des 6. Jahrhunderts. in: Propyl¨aen Weltgeschichte 2. Bd., 2. HalbbḍFrankfurt/Berlin/WieṇUllstein Taschenbuchausgabe. 
 
 Pinch, William R 
 
@@ -3259,7 +3259,7 @@ Claudii Ptolemaei Geographia. Edidit C.F.A. Nobbe cum introductione a
 
 Aubrey Diller, Leipzig 1843–1845. 
 
-Purān. a Pa˜ncalaks.an. a 
+Purāṇa Pa˜ncalaks.aṇa 
 
 (PPL) see Kirfel 1927 
 
@@ -3275,7 +3275,7 @@ Raghunātha Prasāda
 
 Srīmahārājacaritra ´ . Bindu ācārya dīnabandhu śrīsvāmī Rāmaprasāda jī 
 
-Mahārāja kī sam. p¯urn. a jīvanī. [Edit. by] Rāmamanohara Prasādācārya. 
+Mahārāja kī sam. p¯urṇa jīvanī. [Edit. by] Rāmamanohara Prasādācārya. 
 
 Ayodhyā 1930. 
 
@@ -3297,9 +3297,9 @@ Ramachandran, T.N.
 
 (Kuppuswami Sastri Research Institute, Mylapore), 21 (1951–52), 1–31. 
 
-Rāmāyan. a 
+Rāmāyaṇa 
 
-(Rām.) The Vālmīki-Rāmāyan. a. Crit. edit. for the first time by a board of editors. Baroda 1960–75. 7 vols. 
+(Rām.) The Vālmīki-Rāmāyaṇa. Crit. edit. for the first time by a board of editors. Baroda 1960–75. 7 vols. 
 
 Ramesh, K.V. & S.P. Tewari 
 
@@ -3307,7 +3307,7 @@ Ramesh, K.V. & S.P. Tewari
 
 Rāmottaratāpanīya Upanis.ad 
 
-(RUTU) Die Rˆama-Tˆapanˆıya-UpanishaḍVon A. Weber. Berlin 1864. Abhandlungen der k¨oniglichen Akademie der Wissenschaften zu Berlin. Philologische und 
+(RUTU) Die Rˆama-Tˆapanˆıya-UpanishaḍVon A. Weber. Berlin 1864. Abhandlungen der k¨oniglichen Akademie der Wissenschaften zu BerliṇPhilologische und 
 
 historische Abhandlungen. 
 
@@ -3319,11 +3319,11 @@ Reprint Corp., New York 1968 in 2 volumes, 4 parts.]
 
 Rao, Lakshman K.V. 
 
-1924 The Telugu Academy Plates of Vishn. ukun. ḍin = Mādhavavarman III. A.D. 594. in: Journal of the Department of Letters, University of Calcutta Vol. XI 
+1924 The Telugu Academy Plates of Vishṇukun. ḍin = Mādhavavarman III. A.D. 594. in: Journal of the Department of Letters, University of Calcutta Vol. XI 
 
 (1924), 31–62. 
 
-Rasārn. avaRasārn. am or Rasatantram. A semi dialogue between Pārvatī & Parameśvara. Edit. with Rasacandrika Hindi Commentary by Indradeo Tripathi. Varanasi 
+RasārṇavaRasārṇam or Rasatantram. A semi dialogue between Pārvatī & Parameśvara. Edit. with Rasacandrika Hindi Commentary by Indradeo Tripathi. Varanasi 
 
 1978. 
 
@@ -3331,7 +3331,7 @@ Raven, Ellen M.
 
 1994a Gupta Gold Coins with a Garuḍa-Banner. Samudragupta–Skandagupta. Groningen. 2 vols. Gonda Indological Studies I. 
 
-1994b Invention and Innovation. Royal Gupta Gold Coins. in: Carter, Martha L. (ed.), A Treasure of Indian Coins. Marg Publications, Bombay 1994. pp. 
+1994b Invention and InnovatioṇRoyal Gupta Gold Coins. in: Carter, Martha L. (ed.), A Treasure of Indian Coins. Marg Publications, Bombay 1994. pp. 
 
 39–56. 
 
@@ -3339,7 +3339,7 @@ Raven, Ellen M.
 
 Ray, Amita 
 
-1960 House-Building Rituals in Ancient India. in: J.N. Banerjea Volume. Calcutta. pp. 298–312. 
+1960 House-Building Rituals in Ancient India. in: J.ṇBanerjea Volume. Calcutta. pp. 298–312. 
 
 Raykwar, G.L. 
 
@@ -3351,7 +3351,7 @@ Raykwar, G.L. & Rahul Kumar Singh
 
 tāmralekha. in: Purātana 9 (1994), 146–47. 
 
-2005 Utkīrn. a Lekha. Lekhana evam. sam. pādana: Bālacandra Jain. Parivardhana: G.L. Rāyakavāra & R.K. Sim. ha. Raipur. 
+2005 Utkīrṇa Lekha. Lekhana evam. sam. pādana: Bālacandra JaiṇParivardhana: G.L. Rāyakavāra & R.K. Sim. ha. Raipur. 
 
 Renou, Louis 
 
@@ -3363,7 +3363,7 @@ R. gveda
 
 Rhys Davids, T.W. 
 
-1903 Buddhist India. London. The Story of the Nations Vol. 61. 
+1903 Buddhist India. LondoṇThe Story of the Nations Vol. 61. 
 
 Riesebrodt, Martin 
 
@@ -3389,19 +3389,19 @@ Rizvi, S.A.
 
 Rocher, Ludo 
 
-1986 The Purān. as. Wiesbaden. A History of Indian Literature Vol. II, Fasc. 3. Rosenfield, John M. 
+1986 The Purāṇas. WiesbadeṇA History of Indian Literature Vol. II, Fasc. 3. Rosenfield, John M. 
 
 1993 The Dynastic Arts of the Kushans. Indian Edition, Delhi. 
 
 Rosenkranz, Karl 
 
-1844 G.W.F. Hegels Leben. Berlin. (Darmstadt 19722). 
+1844 G.W.F. Hegels LebeṇBerlin. (Darmstadt 19722). 
 
 Roth, Gustav 
 
-1980 Symbolism of the St¯upa. in: Dallapiccola, Anna Libera (ed.), The St¯upa. Its religious, historical and architectural significance. Wiesbaden. pp. 183–209. R¨uping, Klaus 
+1980 Symbolism of the St¯upa. in: Dallapiccola, Anna Libera (ed.), The St¯upa. Its religious, historical and architectural significance. Wiesbadeṇpp. 183–209. R¨uping, Klaus 
 
-1970 Amr.tamanthana und K¯urma-Avatāra. Wiesbaden. Schriftenreihe des S¨udasien- Instituts der Universit¨at Heidelberg. 
+1970 Amr.tamanthana und K¯urma-Avatāra. WiesbadeṇSchriftenreihe des S¨udasien- Instituts der Universit¨at Heidelberg. 
 
 1977 Zur Emanationslehre im Moks.adharma. in: Studien zur Indologie und Iranistik 3 (1977), 3–10. 
 
@@ -3433,7 +3433,7 @@ See Sār˙ngadeva ´
 
 Sām. khyakārikās 
 
-(SK) Sām. khyakārikās of ¯Iśvarakr.s.n. a. With the Yuktidīpikā and the Sanskrit Commentary Tattvaprabhā and Hindi gloss by Ramāśa˙nkara Tripāt.hi. Vārān. asī 1970. 
+(SK) Sām. khyakārikās of ¯Iśvarakr.s.ṇa. With the Yuktidīpikā and the Sanskrit Commentary Tattvaprabhā and Hindi gloss by Ramāśa˙nkara Tripāt.hi. Vārāṇasī 1970. 
 
 Sām. khyas¯utras 
 
@@ -3443,7 +3443,7 @@ Sam ´ . kara
 
 Harvard Oriental Series 2. 
 
-(ad BhG) Srīmadbhagavadgītā ´ [with the commentary of] Srīśam ´ . kara. [Edit. by] Gan. eśa Sāstrī Jośī. Poona 1981. Ananda Ashrama Sanskrit Series 34. ´ 
+(ad BhG) Srīmadbhagavadgītā ´ [with the commentary of] Srīśam ´ . kara. [Edit. by] Gaṇeśa Sāstrī Jośī. Poona 1981. Ananda Ashrama Sanskrit Series 34. ´ 
 
 Sam. yuttanikāya 
 
@@ -3461,7 +3461,7 @@ References 657
 
 Sanderson, Alexis 
 
-1985 Purity and power among the Brahmans of Kashmir. in: Carrithers, M. & S. Collins & S. Lukes (eds.), The Category of the Person. Anthropology, 
+1985 Purity and power among the Brahmans of Kashmir. in: Carrithers, M. & S. Collins & S. Lukes (eds.), The Category of the PersoṇAnthropology, 
 
 Philosophy, History. Cambridge. pp. 190–216. 
 
@@ -3477,7 +3477,7 @@ fran¸ccaise d’Extrˆeme-Orient 90–91 (2003–04), 349–462.
 
 2004 Religion and the State: Saiva Officiants in the Territory of the King’s ´ 
 
-Brahmanical Chaplain. in: IIJ 47 (2004), 229–300. 
+Brahmanical Chaplaiṇin: IIJ 47 (2004), 229–300. 
 
 2006 The Lākulas: New Evidence of a System Intermediate between Pā˜ncārthika Pāśupatism and Agamic ¯ Saivism. in: The Indian Philosophical Annual 24 ´ 
 
@@ -3493,7 +3493,7 @@ Tantrism. Tokyo 2009. pp. 41–350.
 
 Sankalia, H.D. 
 
-1973 The Ur (original) Rāmāyan. a or Archaeology and the Rāmāyan. a. in: 
+1973 The Ur (original) Rāmāyaṇa or Archaeology and the Rāmāyaṇa. in: 
 
 Indologen-Tagung 1971, edit. by H. H¨artel & V. Moeller, Wiesbaden 1973, 
 
@@ -3501,7 +3501,7 @@ Indologen-Tagung 1971, edit. by H. H¨artel & V. Moeller, Wiesbaden 1973,
 
 Sankaranarayanan, S. 
 
-1977 The Vis.n. ukun. ḍis and Their Times (An Epigraphical Study). Foreword T.V. Mahalingam. Delhi. 
+1977 The Vis.ṇukun. ḍis and Their Times (An Epigraphical Study). Foreword T.V. Mahalingam. Delhi. 
 
 Sā˙nkhāyanagr ´ .hyas¯utra 
 
@@ -3535,7 +3535,7 @@ Sim. habh¯upāla. Edit. by S.S. Sastri. Vol I (Adhyāya I). Madras 1943.
 
 Saromāhātmya 
 
-(VāmP) The Vāmana purān. a. Crit. edit. by Anand Swarup Gupta. All-India Kashiraj Trust, Varanasi 1967. pp. 164–292. 
+(VāmP) The Vāmana purāṇa. Crit. edit. by Anand Swarup Gupta. All-India Kashiraj Trust, Varanasi 1967. pp. 164–292. 
 
 Sāstri, Hirananda ´ 
 
@@ -3551,7 +3551,7 @@ Sāstri, Hirananda ´
 
 Satapathabrāhman ´ . a 
 
-(SBr) The ´ C¸ atapatha-Brˆahman. a in the Mˆadhyandina-C¸ ˆakhˆa with extracts from the commentaries of Sˆayan. a, Harisvˆamin and Dvivedaganga edited by Albrecht Weber. Leipzig 1924. (Reprint, Varanasi 1964). 
+(SBr) The ´ C¸ atapatha-Brˆahmaṇa in the Mˆadhyandina-C¸ ˆakhˆa with extracts from the commentaries of Sˆayaṇa, Harisvˆamin and Dvivedaganga edited by Albrecht Weber. Leipzig 1924. (Reprint, Varanasi 1964). 
 
 The Satapatha-Brāhman ´ . a according to the text of the Mādhyandina School, transl. by Julius Eggeling. Reprint, Delhi 1963. 5 vols. The sacred books of the East 12, 26, 41, 43, 44. (original eḍOxford, 1882–1900). 
 
@@ -3561,7 +3561,7 @@ Scheuer, Jacques
 
 Schimmel, A. 
 
-1980 Islam in the Indian Subcontinent. Leiden. Handbuch der Orientalistik, 2. Abt. ’Indien’ 4. Bd. 3. Abschnitt. 
+1980 Islam in the Indian Subcontinent. LeideṇHandbuch der Orientalistik, 2. Abt. ’Indien’ 4. Bd. 3. Abschnitt. 
 
 Schlegel, August Wilhelm 
 
@@ -3581,7 +3581,7 @@ Schlingloff, Dieter
 
 1968–69 Menschenopfer in Kauśāmbī? in: IIJ 11 (1968/69), 175–189. 
 
-1969 Die altindische Stadt. Eine vergleichende Untersuchung. Wiesbaden. Abh. ḍAk. ḍWiss. u. ḍLit. in Mainz, Geistes u. Sozialwiss. Kl. 
+1969 Die altindische Stadt. Eine vergleichende Untersuchung. WiesbadeṇAbh. ḍAk. ḍWiss. u. ḍLit. in Mainz, Geistes u. Sozialwiss. Kl. 
 
 Schmidt, Hanns-Peter 
 
@@ -3591,13 +3591,13 @@ Schmidt, Hanns-Peter
 
 1999 Aspects of the Buddhist Attitude towards War. in: Houben, Jan E.M & Karel R. van Kooij (eds.), Violence DenieḍViolence, Non-Violence and the 
 
-Rationalization of Violence in South Asian Cultural History. Leiden. pp. 
+Rationalization of Violence in South Asian Cultural History. Leideṇpp. 
 
 45–67. 
 
 Schoonenberg, P. 
 
-1978 Gott als Person und Gott als das unpers¨onlich g¨ottliche. Bhakti und J˜nāna. in: Oberhammer, Gerhard (ed.), Tranzendenzerfahrung. Vollzugshorizont des Heils. Wien. pp. 207–34. 
+1978 Gott als Person und Gott als das unpers¨onlich g¨ottliche. Bhakti und J˜nāna. in: Oberhammer, Gerhard (ed.), Tranzendenzerfahrung. Vollzugshorizont des Heils. Wieṇpp. 207–34. 
 
 Schopen, Gregory 
 
@@ -3605,11 +3605,11 @@ Schopen, Gregory
 
 Schreiner, P. 
 
-1997 Nārāyan.īya–Studien, herausgegeben von Peter Schreiner. Wiesbaden. Purān. a Research Publications T¨ubingen vol. 6. 
+1997 Nārāyan.īya–Studien, herausgegeben von Peter Schreiner. WiesbadeṇPurāṇa Research Publications T¨ubingen vol. 6. 
 
 Schulin, E. 
 
-1958 Die weltgeschichtliche Erfassung des Orients bei Hegel und Ranke. G¨ottingen. Schwab, Raymond 
+1958 Die weltgeschichtliche Erfassung des Orients bei Hegel und Ranke. G¨ottingeṇSchwab, Raymond 
 
 1950 La renaissance orientale. Paris. 
 
@@ -3623,13 +3623,13 @@ References 659
 
 Select Inscriptions 
 
-Select Inscriptions bearing on Indian History and Civilization. See Sircar, 
+Select Inscriptions bearing on Indian History and CivilizatioṇSee Sircar, 
 
 Dines Chandra (SI). 
 
 Sen, Nabaneeta 
 
-1966 Comparative Studies in Oral Epic Poetry and the Vālmīki Rāmāyan. a: A report on the Bālākān. ḍa. in: JAOS 86 (1966), 397–409. 
+1966 Comparative Studies in Oral Epic Poetry and the Vālmīki Rāmāyaṇa: A report on the Bālākān. ḍa. in: JAOS 86 (1966), 397–409. 
 
 Settar, S. & Gunther ḍSontheimer (eds.) 
 
@@ -3641,11 +3641,11 @@ Shah, Priyabala
 
 1984 Lakulīśa: Saivite Saint. in: Meister 1984, 92–102. ´ 
 
-See Vis.n. udharmottarapurān. a (VDhP III). 
+See Vis.ṇudharmottarapurāṇa (VDhP III). 
 
 Sharfe, Hartmut 
 
-1989 The State in Indian Tradition. Leiden. Handbuch der Orientalistik. 2. Abt. ‘Indien’, 3. Band ‘Geschichte’, 2. Abschnitt. 
+1989 The State in Indian TraditioṇLeideṇHandbuch der Orientalistik. 2. Abt. ‘Indien’, 3. Band ‘Geschichte’, 2. Abschnitt. 
 
 Sharma, A.K. 
 
@@ -3681,7 +3681,7 @@ Shastri, Ajay Mitra
 
 1987 Early History of the Deccan: Problems and Perspectives. Delhi. 
 
-1987a The Vākāt.akas. Fresh Epigraphic Evidence. in: Shastri, A.M., Early History of the Deccan. Delhi 1987. pp. 45–81. 
+1987a The Vākāt.akas. Fresh Epigraphic Evidence. in: Shastri, A.M., Early History of the DeccaṇDelhi 1987. pp. 45–81. 
 
 1991 Varāhamihira and his times. Jodhpur. 
 
@@ -3723,7 +3723,7 @@ Shastri, Haraprasad
 
 Bendall). [Vol. I] Calcutta 1905. Vol. II, Calcutta 1915. 
 
-1928 A Descriptive Catalogue of Sanskrit Manuscripts in the Government Collection under the care of the Asiatic Society of Bengal. Vol. V, Purān. a 
+1928 A Descriptive Catalogue of Sanskrit Manuscripts in the Government Collection under the care of the Asiatic Society of Bengal. Vol. V, Purāṇa 
 
 Manuscripts. Calcutta. 
 
@@ -3769,7 +3769,7 @@ Sinha, B.P.
 
 Sircar, Dines Chandra 
 
-(SI) Select Inscriptions bearing on Indian History and Civilization. Volume I, Calcutta 1942 [2nd ed.: Delhi/Madras 1965]. Volume II, Delhi 1983. 
+(SI) Select Inscriptions bearing on Indian History and CivilizatioṇVolume I, Calcutta 1942 [2nd ed.: Delhi/Madras 1965]. Volume II, Delhi 1983. 
 
 1953–54 Two Inscriptions of Gauri. in: Epigraphia Indica XXX (1953–54), 120–32. 
 
@@ -3791,33 +3791,33 @@ References 661
 
 Sivapurān ´ . a 
 
-(SiP) ´ Srī- ´ Sivamahāpurān ´ . am, [edit. by] Ks.emarāja (son of Kr.s.n. adāsa). Venkatesvara Press, Bombay V.S. 2011 [= ad 1954]. 
+(SiP) ´ Srī- ´ Sivamahāpurān ´ . am, [edit. by] Ks.emarāja (son of Kr.s.ṇadāsa). Venkatesvara Press, Bombay V.S. 2011 [= ad 1954]. 
 
-Skandapurān. a 
+Skandapurāṇa 
 
-(SkP) Srī- ´ Skāndamahāpurān. am, [edit. by] Ks.emarāja Srīkr ´ .s.n. adāsa. Venkatesvara Press, Bombay V.S. 1967 [ad 1910]. 7 vols. [Reprinted by Nag Publishers, 
+(SkP) Srī- ´ Skāndamahāpurāṇam, [edit. by] Ks.emarāja Srīkr ´ .s.ṇadāsa. Venkatesvara Press, Bombay V.S. 1967 [ad 1910]. 7 vols. [Reprinted by Nag Publishers, 
 
-Delhi 1986 (2nd ed. 1995). 7 vols. Vol. 8, Slokānukraman ´ .ī by Nāgaśaran. a 
+Delhi 1986 (2nd ed. 1995). 7 vols. Vol. 8, Slokānukraman ´ .ī by Nāgaśaraṇa 
 
 Sim. ha. Nag Publishers, Delhi 1990]. 
 
-(KKh) Skandapurān. a (SkP), Vol. IV: The Kāśīkhan. ḍa. [With the commentary (T.īkā) of Rāmānanda.] 
+(KKh) Skandapurāṇa (SkP), Vol. IV: The Kāśīkhan. ḍa. [With the commentary (T.īkā) of Rāmānanda.] 
 
-Skandapurān. a (SP) 
+Skandapurāṇa (SP) 
 
-(SP I) The Skandapurān. a, Volume I. Adhyāyas 1–25. Critically Edited with 
+(SP I) The Skandapurāṇa, Volume I. Adhyāyas 1–25. Critically Edited with 
 
 Prolegomena and English Synopsis by R. Adriaensen, H.T. Bakker & H. 
 
-Isaacson. Groningen 1998. Supplement to Groningen Oriental Studies. 
+IsaacsoṇGroningen 1998. Supplement to Groningen Oriental Studies. 
 
-(SP II A) The Skandapurān. a, Volume II A. Adhyāyas 26–31.14: The Vārān. asī Cycle. Critical Edition with an Introduction, English Synopsis & Philological and 
+(SP II A) The Skandapurāṇa, Volume II A. Adhyāyas 26–31.14: The Vārāṇasī Cycle. Critical Edition with an Introduction, English Synopsis & Philological and 
 
-Historical Commentary by Hans T. Bakker & Harunaga Isaacson. Groningen 
+Historical Commentary by Hans T. Bakker & Harunaga IsaacsoṇGroningen 
 
 2004. Supplement to Groningen Oriental Studies. 
 
-(SP II B) The Skandapurān. a, Volume II B. Adhyāyas 31 – 52: The Vāhana and Naraka Cycles. Critical Edition with an Introduction and Annotated English Synopsis 
+(SP II B) The Skandapurāṇa, Volume II B. Adhyāyas 31 – 52: The Vāhana and Naraka Cycles. Critical Edition with an Introduction and Annotated English Synopsis 
 
 by Hans T. Bakker, Peter C. Bisschop, Yuko Yokochi, in cooperation with 
 
@@ -3825,11 +3825,11 @@ Nina Mirnig and Judit T¨orzs¨ok. Brill, Leiden/Boston 2014. Supplement to
 
 Groningen Oriental Studies. 
 
-(SP III) The Skandapurān. a, Volume III. Adhyāyas 34.1–61, 53–69: The Vindhyavāsinī Cycle. Critical Edition with Introduction and Annotated English Synopsis by 
+(SP III) The Skandapurāṇa, Volume III. Adhyāyas 34.1–61, 53–69: The Vindhyavāsinī Cycle. Critical Edition with Introduction and Annotated English Synopsis by 
 
 Yuko Yokochi. Forsten/ Brill, Groningen/Leiden 2013. 
 
-(SP IV) The Skandapurān. a, Volume IV. Adhyāyas 70–95: Start of the Skanda and Andhaka Cycles. Critical Edition with an Introduction & English Synopsis by 
+(SP IV) The Skandapurāṇa, Volume IV. Adhyāyas 70–95: Start of the Skanda and Andhaka Cycles. Critical Edition with an Introduction & English Synopsis by 
 
 Peter C. Bisschop and Yuko Yokochi, in cooperation with Diwakar Acharya 
 
@@ -3839,7 +3839,7 @@ Oriental Studies.
 
 (SP 167) [For edition of Adyāya 167 see Bisschop 2006.] 
 
-(SPBh ) Skandapurān. asya Ambikākhan. ḍah. , sam. pādakah. Kr.s.n. aprasāda Bhat.t.arāī. Kathmandu 1988. Mahendraratnagranthamālā 2. 
+(SPBh ) Skandapurāṇasya Ambikākhan. ḍah. , sam. pādakah. Kr.s.ṇaprasāda Bhat.t.arāī. Kathmandu 1988. Mahendraratnagranthamālā 2. 
 
 Slusser, Mary Shepherd 
 
@@ -3853,7 +3853,7 @@ Smith, John D.
 
 1977 The Singer or the Song? A reassessment of Lord’s ‘Oral Theory’. in: MAN 12 (1977), 141–153. 
 
-1980 Old Indian. The two Sanskrit Epics. in: Traditions of Heroic and Epic Poetry. London 1980. pp. 48–78. 
+1980 Old IndiaṇThe two Sanskrit Epics. in: Traditions of Heroic and Epic Poetry. London 1980. pp. 48–78. 
 
 Smith, Travis L. 
 
@@ -3863,7 +3863,7 @@ Puranic Studies. in: Biblio. A Review of Books. Vol. XI Nos. 3 & 4
 
 (March–April 2006), 24–26. 
 
-2017 [Review of] ‘The World of the Skandapurān. a’ by Hans T. Bakker. in: JRAS 2017, 523–24. 
+2017 [Review of] ‘The World of the Skandapurāṇa’ by Hans T. Bakker. in: JRAS 2017, 523–24. 
 
 Sontakke, Virag & Shrikant Ganvir & Shantanu Vaidya & P.P. Joglekar 
 
@@ -3879,7 +3879,7 @@ Sontakke, Virag & Shrikant Ganvir & Shantanu Vaidya & P.P. Joglekar
 
 Sontheimer, G.D. 
 
-1985 Folk Deities in the Vijayanagara Empire: Narasim. ha and Mallan. n. a/Mailār. in: Dallapiccola, A.L. (ed.), Vijayanagara—City and Empire. New Currents of Research. Wiesbaden. pp. 144–59. 
+1985 Folk Deities in the Vijayanagara Empire: Narasim. ha and Mallaṇṇa/Mailār. in: Dallapiccola, A.L. (ed.), Vijayanagara—City and Empire. New Currents of Research. Wiesbadeṇpp. 144–59. 
 
 Speijer, J.S 
 
@@ -3893,7 +3893,7 @@ Spink, Walter
 
 Srīnivāsadāsa ´ 
 
-Yatīndramatadīpikā, edit. by H. N. Apte. Poona 1906. Ananda ¯ Aśrama ¯ Sanskrit Series No. 50. 
+Yatīndramatadīpikā, edit. by H. ṇApte. Poona 1906. Ananda ¯ Aśrama ¯ Sanskrit Series No. 50. 
 
 Srinivasan, Doris Meth 
 
@@ -3903,7 +3903,7 @@ Srinivasan, Doris Meth
 
 Srinivasan, P.R. 
 
-1991 Mundesvari Temple Inscription. in: Margabandhu, C. et al. (eds.), Indian Archaeological Heritage. Shri K.V. Soundara Rajan Festschrift. Vol. I. Delhi. Srivastava, M. 
+1991 Mundesvari Temple Inscriptioṇin: Margabandhu, C. et al. (eds.), Indian Archaeological Heritage. Shri K.V. Soundara Rajan Festschrift. Vol. I. Delhi. Srivastava, M. 
 
 1984 Sirpur. Bhopal. 
 
@@ -3913,19 +3913,19 @@ Stadtner, Donald M.
 
 1980 A Sixth-century A.ḍTemple from Kosala. in: Archives of Asian Art 33 (1986), 38–48. 
 
-1981a Ancient Kosala and the Stellate Plan. in: Williams, J.G. (ed.), Kalādarśana, New Delhi. pp. 137–45. 
+1981a Ancient Kosala and the Stellate Plaṇin: Williams, J.G. (ed.), Kalādarśana, New Delhi. pp. 137–45. 
 
 1981b The Siddheśvara Temple at Palāri and the Art of Kosala during the Seventh and Eighth Centuries. in: Ars Orientalis 12 (1981), 49–56. 
 
 Stein, Burton 
 
-1969 Interpretation of the Agrarian System of South India. in: Frykenberg, R.E. (ed.), Land Control and Social Structure in Indian History. Madison. pp. 
+1969 Interpretation of the Agrarian System of South India. in: Frykenberg, R.E. (ed.), Land Control and Social Structure in Indian History. Madisoṇpp. 
 
 175–216. 
 
 1978 All the King’s Mana: Perspectives on Kingship in Medieval South India. in: Richards, J.F. (ed.), Kingship and Authority in South Asia. 
 
-Wisconsin–Madison. pp. 115–67. 
+Wisconsin–Madisoṇpp. 115–67. 
 
 1983 Mahānavamī: medieval and modern kingly ritual in South India. in: Bardwell L. Smith (ed.), Essays on Gupta Culture. Delhi. pp. 67–90. 
 
@@ -3935,7 +3935,7 @@ Wisconsin–Madison. pp. 115–67.
 
 Sthānapothī 
 
-Sthāna Pothī. Prastāvanā, M¯ul.a Pothī, Sthānas¯ucī, Kat.hīn. a śabdām. cā kośa, ityadīsahita sam. pādilelā. [Edit. by] Vis.n. u Bhikājī Kolte. Malkapur 1976 (2nd ed.). 
+Sthāna Pothī. Prastāvanā, M¯ul.a Pothī, Sthānas¯ucī, Kat.hīṇa śabdām. cā kośa, ityadīsahita sam. pādilelā. [Edit. by] Vis.ṇu Bhikājī Kolte. Malkapur 1976 (2nd ed.). 
 
 Sthānas¯utra 
 
@@ -3951,19 +3951,19 @@ References 663
 
 Stietencron, Heinrich von 
 
-1979 Angst und Gewalt. Ihre Pr¨asenz und ihre Bew¨altigung in den Religionen. D¨usseldorf. 
+1979 Angst und Gewalt. Ihre Pr¨asenz und ihre Bew¨altigung in den ReligioneṇD¨usseldorf. 
 
 Stolz, Fritz 
 
-1986 Religion zu Krieg und Frieden. Z¨urich. 
+1986 Religion zu Krieg und FriedeṇZ¨urich. 
 
 Stuhr, P. 
 
-1812 Vom Untergange der Naturstaaten. Berlin. 
+1812 Vom Untergange der NaturstaateṇBerlin. 
 
 Sumption, Jonathan 
 
-1975 Pilgrimage. An image of Mediaeval Religion. London. 
+1975 Pilgrimage. An image of Mediaeval ReligioṇLondon. 
 
 S¯uradāsa 
 
@@ -3995,15 +3995,15 @@ interpretation and verification of tithis, nakshatras, horoscopes and other
 
 Indian time-records B.C. 1 to A.D. 2000. New Delhi. 
 
-Taittirīyāran. yaka 
+Taittirīyāraṇyaka 
 
-(TaiA) ¯ Taittirīyāran. yakam. With the Commentary of Sāyan. ācārya. Edit. by 
+(TaiA) ¯ Taittirīyāraṇyakam. With the Commentary of Sāyan. ācārya. Edit. by 
 
 Rājendralāl Mitra. Calcutta 1871. Bibliotheca Indica LII. 
 
 Taittirīya-Sam. hitā 
 
-(TaiSa) Taittirˆıya-Sam. hitˆa, herausgegeben von Albrecht Weber. Leipzig 1871–72. 2 vols. Indische Studien. Beitr¨age f¨ur die Kunde des indischen Alterthums. 
+(TaiSa) Taittirˆıya-Sam. hitˆa, herausgegeben von Albrecht Weber. Leipzig 1871–72. 2 vols. Indische StudieṇBeitr¨age f¨ur die Kunde des indischen Alterthums. 
 
 (TaiS transl.) The Veda of the Black Yajus school, entitled Taittiriya Sanhita. Transl. from the original Sanskrit prose and verse by Arthur Berriedale Keith. 
 
@@ -4021,7 +4021,7 @@ Tanemura, Ryugen
 
 2004 Kuladatta’s Kriyāsam. grhapa˜njikā. A critical edition and annotated 
 
-translation of selected sections. Groningen. Groningen Oriental Studies XIX. 
+translation of selected sections. GroningeṇGroningen Oriental Studies XIX. 
 
 Tedesco, P. 
 
@@ -4051,7 +4051,7 @@ Tieken, Herman
 
 Tīrthāṅk 
 
-Tīrthāṅk. in: Kalyān. a 31 (1957), 1–704. (Gitapress Gorakhpur). 
+Tīrthāṅk. in: Kalyāṇa 31 (1957), 1–704. (Gitapress Gorakhpur). 
 
 Tiwari, Jagdish Narain 
 
@@ -4077,7 +4077,7 @@ Trivedi, H.V.
 
 Trivikrama 
 
-Madālasā-Camp¯u, a Camp¯u-kāvya attributed to Trivikrama-bhat.t.a. Edit. by J.B. Modak and K.N. Sane. Poona 1882. 
+Madālasā-Camp¯u, a Camp¯u-kāvya attributed to Trivikrama-bhat.t.a. Edit. by J.B. Modak and K.ṇSane. Poona 1882. 
 
 Atha Trivikrama-Bhat.t.a-viracita Madālasācamp¯u. Nirmalā–Hindī vyākhyā 
 
@@ -4085,7 +4085,7 @@ sahita, sampādaka evam. vyākhyākāra, Nira˜njana Miśra. Satyam Publishing H
 
 Trivikramabhat.t.a 
 
-Damayantīkathā or Nalacamp¯u, with the Commentary Vis.amapadaprakāśa by Can. ḍapāla. Edit. by N.B. Parvan. ikar, Durgāprasād and Sivadatta. ´ 
+Damayantīkathā or Nalacamp¯u, with the Commentary Vis.amapadaprakāśa by Can. ḍapāla. Edit. by ṇB. Parvaṇikar, Durgāprasād and Sivadatta. ´ 
 
 Nirnaya Sagar Press, Bombay 1885 (2nd ed., 1903). 
 
@@ -4103,13 +4103,13 @@ Tulpule, S.G.
 
 Tulasī Dāsa 
 
-(RCM) Srī Rāmacaritamānasa ´ , or the Mānasa lake brimming over with the exploits of Srī Rāma. With Hindi text and English translation. Gita Press, Gorakhpur ´ 1968. 
+(RCM) Srī Rāmacaritamānasa ´ , or the Mānasa lake brimming over with the exploits of Srī Rāma. With Hindi text and English translatioṇGita Press, Gorakhpur ´ 1968. 
 
 (tr. Hill) The Holy Lake of the Acts of Rāma. A translation of Tulasī Dās’s Rāmacaritamānasa by Douglas P. Hill. Oxford 1952. 
 
 (VP) Vinaya-Patrikā, [with the] Hari-Tos.an.ī T. īkā by Viyogī Hari. Banaras 1977 (12th ed.). 
 
-(tr. Allchin) The petition to Rām. Hindi devotional hymns of the seventeenth century. A translation of Vinaya-patrikā with Introduction, Notes and Glossary by F.R. Allchin. London 1966. 
+(tr. Allchin) The petition to Rām. Hindi devotional hymns of the seventeenth century. A translation of Vinaya-patrikā with Introduction, Notes and Glossary by F.R. AllchiṇLondon 1966. 
 
 Turner, R.L. 
 
@@ -4129,7 +4129,7 @@ References 665
 
 Vākpatirāja 
 
-Ga¨udavaho. Edit. with an Introduction, Sanskrit Chāyā, English Translation, Notes, Appendices, and Glossary by N.G. Suru. Ahmedabad/Varanasi 1975. Prakrit Text Society Series No. 18. 
+Ga¨udavaho. Edit. with an Introduction, Sanskrit Chāyā, English Translation, Notes, Appendices, and Glossary by ṇG. Suru. Ahmedabad/Varanasi 1975. Prakrit Text Society Series No. 18. 
 
 Vanderjagt, Arjo 
 
@@ -4139,11 +4139,11 @@ Varāhamihira
 
 Br.hatsam. hitā of Varāhamihira. With English Translation, Exhaustive Notes and Literary Comments by Ramakrishna Bhat. Delhi 1981–82. 2 vols. Vārāhaśrautas¯utra 
 
-(VSS) ´ Vārāha Srautas¯utra ´ belonging to the Maitrāyan.īya recension of Kr.s.n. a Yajurveda. Crit. edit. by C.G. Kashikar. Pune 1988. Shree Balmukund Sanskrit Mahavidyalaya Research Series No. 4. 
+(VSS) ´ Vārāha Srautas¯utra ´ belonging to the Maitrāyan.īya recension of Kr.s.ṇa Yajurveda. Crit. edit. by C.G. Kashikar. Pune 1988. Shree Balmukund Sanskrit Mahavidyalaya Research Series No. 4. 
 
 Varenne, Jean 
 
-1960 La Mahā Nārāyan. a Upanis.aḍEdition critique, avec une traduction fran¸caise, ´ une ´etude, des notes et, en annexe, la Prān. āgnihotra Upanis.aḍParis 1960. Publications de l’Institut de Civilisation Indienne 11. 
+1960 La Mahā Nārāyaṇa Upanis.aḍEdition critique, avec une traduction fran¸caise, ´ une ´etude, des notes et, en annexe, la Prān. āgnihotra Upanis.aḍParis 1960. Publications de l’Institut de Civilisation Indienne 11. 
 
 Vātsyāyana 
 
@@ -4153,13 +4153,13 @@ Vaudeville, Ch.
 
 1974 Kabīr, Vol. I. Oxford. 
 
-Vāyupurān. a 
+Vāyupurāṇa 
 
-(VāP) Mahāmuniśrīmad-Vyāsa-pran.ītam. Vāyupurān. am, etat pustakam 
+(VāP) Mahāmuniśrīmad-Vyāsa-pran.ītam. Vāyupurāṇam, etat pustakam 
 
 ānandāśramasthapan. ḍitaih. sam. śodhitam. [Poona] 1983. Ananda Ashrama 
 
-Sanskrit Series 49. [Reprint of the edition by H. N. Apte ad 1905] 
+Sanskrit Series 49. [Reprint of the edition by H. ṇApte ad 1905] 
 
 Veer, Peter van der 
 
@@ -4171,7 +4171,7 @@ Modern Asian Studies 21.2 (1987), 283–301.
 
 Verardi, Giovanni 
 
-1983 The Kus.ān. a Emperors as Cakravartins. Dynastic Art and Cults in India and Central Asia: History of a Theory, Clarifications and Refutations. in: East 
+1983 The Kus.āṇa Emperors as Cakravartins. Dynastic Art and Cults in India and Central Asia: History of a Theory, Clarifications and Refutations. in: East 
 
 and West 33 (1983), 225–94. 
 
@@ -4205,9 +4205,9 @@ appendixes, indexes, etc. by K.H. Dhruva. Third edition (thoroughly revised
 
 and enlarged), Poona 1930. 
 
-Vis.n. udharmottarapurān. a 
+Vis.ṇudharmottarapurāṇa 
 
-(VDhP) Vis.n. udharmottarapurān. a. [Edit. by] Ks.emarāja Srīkr ´ .s.n. adāsa. Venkatesvara Press, Bombay V.S. 1969 [1912]. 
+(VDhP) Vis.ṇudharmottarapurāṇa. [Edit. by] Ks.emarāja Srīkr ´ .s.ṇadāsa. Venkatesvara Press, Bombay V.S. 1969 [1912]. 
 
 
 
@@ -4215,13 +4215,13 @@ Vis.n. udharmottarapurān. a
 
 666 References 
 
-VDhP III Vis.n. udharmottarapurān. a. Third Khan. ḍa. Vol. I: Text, Critical Notes etc. Critically Edited with Introduction, Notes etc. by Priyabala Shah. Vol. II: 
+VDhP III Vis.ṇudharmottarapurāṇa. Third Khan. ḍa. Vol. I: Text, Critical Notes etc. Critically Edited with Introduction, Notes etc. by Priyabala Shah. Vol. II: 
 
 Introduction, Appendixes, Indexes etc. A study on a Sanskrit Text of Ancient Indian Arts. Baroda 1994–98. 2 vols. Gaekwad’s Oriental Series 130 & 137. 
 
-Vis.n. upurān. a 
+Vis.ṇupurāṇa 
 
-(ViP) The Vis.n. upurān. am, critically edited by M.M. Pathak. Pāda-Index by Peter Schreiner. Vadodara 1997–99. 2 vols. 
+(ViP) The Vis.ṇupurāṇam, critically edited by M.M. Pathak. Pāda-Index by Peter Schreiner. Vadodara 1997–99. 2 vols. 
 
 Viyagappa, Ignatius 
 
@@ -4233,23 +4233,23 @@ Vogel, J.Ph.
 
 Wackernagel, Jacob 
 
-1896–1930 Altindische Grammatik, I (1896): Lautlehre. II,1 (1905): Einleitung zur Wortlehre. Nominalkomposition. III (1930): Nominalflexion – Zahlwort – 
+1896–1930 Altindische Grammatik, I (1896): Lautlehre. II,1 (1905): Einleitung zur Wortlehre. NominalkompositioṇIII (1930): Nominalflexion – Zahlwort – 
 
 Pronomen, von Albert Debrunner und Jacob Wackernagel. G¨ottingen. 
 
 Ward, W. 
 
-1817 The Hindus, History, Literature and Religion. London. (repr. Delhi 1981). Warder, A.K. 
+1817 The Hindus, History, Literature and ReligioṇLondon. (repr. Delhi 1981). Warder, A.K. 
 
 1989–92 Indian Kāvya Literature. Delhi. 6 vols. 
 
 Weippert, M. 
 
-1972 ‘Heiliger Krieg’ in Israel und Assyrien. Kritische Anmerkungen zu Gerhard von Rads Konzept des ‘Heilgen Krieges im alten Israel’. in: Zeitschrift f¨ur die alttestamentliche Wissenschaft 84 (1972), 460–493. 
+1972 ‘Heiliger Krieg’ in Israel und AssyrieṇKritische Anmerkungen zu Gerhard von Rads Konzept des ‘Heilgen Krieges im alten Israel’. in: Zeitschrift f¨ur die alttestamentliche Wissenschaft 84 (1972), 460–493. 
 
 Wellsted, T.A. 
 
-1934 Notes on the Vakatakas of the Central Provinces and Berar, and their Country, 4th to 8th Century A.ḍin: Journal and Proceedings of the Asiatic Society of Bengal, N.S. 29 (1933), 159–166a, Plates 4–12. [Printed at the 
+1934 Notes on the Vakatakas of the Central Provinces and Berar, and their Country, 4th to 8th Century A.ḍin: Journal and Proceedings of the Asiatic Society of Bengal, ṇS. 29 (1933), 159–166a, Plates 4–12. [Printed at the 
 
 Baptist Mission Press, published by the Asiatic Society of Bengal. Calcutta 1934]. 
 
@@ -4273,7 +4273,7 @@ Willis, Michael
 
 1997 Temples of Gopaks.etra. A Regional History of Architecture and Sculpture in Central India ce 600–900. The British Museum, London. 
 
-2004 The Archaeology and Politics of Time. in: Bakker, Hans (ed.), The Vākāt.aka Heritage. Groningen. pp. 33–58. 
+2004 The Archaeology and Politics of Time. in: Bakker, Hans (ed.), The Vākāt.aka Heritage. Groningeṇpp. 33–58. 
 
 2009 The Archaeology of Hindu Ritual. Temples and the Establishmnet of the Gods. Cambridge. 
 
@@ -4283,7 +4283,7 @@ Willis, Michael
 
 Wilson, Frances 
 
-1975 The Love of Krishna. The Kr.s.n. akarn. āmr.ta of Līlāśuka Bilvama˙ngala. Edited with an Introduction [and Translation]. Philadelphia. Haney Foundation 
+1975 The Love of Krishna. The Kr.s.ṇakarn. āmr.ta of Līlāśuka Bilvama˙ngala. Edited with an Introduction [and Translation]. Philadelphia. Haney Foundation 
 
 Series 14. 
 
@@ -4303,7 +4303,7 @@ I, 1 Bd. 1–2.
 
 Winternitz, Moriz 
 
-1887 Einige Bemerkungen ¨uber das Bauopfer bei den Inder. in: Mittheilungen der Antropologischer Gesellschaft in Wien. XVII. BanḍWien. pp. 37–40. 
+1887 Einige Bemerkungen ¨uber das Bauopfer bei den Inder. in: Mittheilungen der Antropologischer Gesellschaft in WieṇXVII. BanḍWieṇpp. 37–40. 
 
 1920 Geschichte der indischen Literatur, Band 3. Leipzig. 
 
@@ -4319,11 +4319,11 @@ edition, Delhi 1969).
 
 Yazdani, G. (ed.) 
 
-1960 The Early History of the Deccan. Oxford. 2 vols. 
+1960 The Early History of the DeccaṇOxford. 2 vols. 
 
 Yokochi, Yuko 
 
-1999 Mahis.āsuramardinī Myth and Icon. Studies in the Skandapurān. a II. in: 
+1999 Mahis.āsuramardinī Myth and IcoṇStudies in the Skandapurāṇa II. in: 
 
 Studies in the History of Indian Thought 11 (1999), 65–103. 
 
@@ -4331,15 +4331,15 @@ Studies in the History of Indian Thought 11 (1999), 65–103.
 
 Osaka. Senri Ethnological Studies No. 50. pp. 71–113. 
 
-2004 The Relation between the Skandapurān. a and the Avantyakhaṅḍa. in: Bakker, Hans T. (ed.), Origin and Growth of the Puranic Text Corpus with Special 
+2004 The Relation between the Skandapurāṇa and the Avantyakhaṅḍa. in: Bakker, Hans T. (ed.), Origin and Growth of the Puranic Text Corpus with Special 
 
-Reference to the Skandapurān. a. Delhi. Papers of the 12th World Sanskrit 
+Reference to the Skandapurāṇa. Delhi. Papers of the 12th World Sanskrit 
 
 Conference Vol. 3.2. pp. 79–109. 
 
-2005 The Rise of the Warrior Goddess in Ancient India. A Study of the Myth Cycle of Kauśikī-Vindhyavāsinī in the Skandapurān. a. Thesis, Groningen. 
+2005 The Rise of the Warrior Goddess in Ancient India. A Study of the Myth Cycle of Kauśikī-Vindhyavāsinī in the Skandapurāṇa. Thesis, Groningen. 
 
-Yugapurān. aA critically edited text of the Yugapurān. a by D.R. Mankaḍin: Journal of the United Provinces Historical Society XX (1947), 32–64. 
+YugapurāṇaA critically edited text of the Yugapurāṇa by D.R. Mankaḍin: Journal of the United Provinces Historical Society XX (1947), 32–64. 
 
 Yuktidīpikā 
 
@@ -4349,7 +4349,7 @@ neu-indische Studien 44.
 
 Zaehner, R.C. 
 
-1960 Hindu and Muslim Mysticism. London. Jordan Lectures in Comparative 
+1960 Hindu and Muslim Mysticism. LondoṇJordan Lectures in Comparative 
 
 Religion V. 
 
@@ -4363,7 +4363,7 @@ Universit¨at Berlin, Berlin.
 
 Zvelebil, K.V. 
 
-1974 Tamil Literature. Wiesbaden. A History of Indian Literature X.1. 
+1974 Tamil Literature. WiesbadeṇA History of Indian Literature X.1. 
 
 Zwalf, W. 
 
@@ -4485,7 +4485,7 @@ Agrawal, Jagannath, 375
 
 aham. kāra, 29, 30, 228 
 
-āhatalaks.an. a, 129, 130 
+āhatalaks.aṇa, 129, 130 
 
 āhavanīya, 451 
 
@@ -4497,7 +4497,7 @@ A¨ı Khanum, 555–557
 
 aid. ¯uka, 406, 407, 413, 419–422, 424, 437, 438, 440 
 
-Ajanta (Caves), 119, 147, 260, 333 Ajan. t.ā Cave Inscription of Varāhadeva, 127 ajina, 510 
+Ajanta (Caves), 119, 147, 260, 333 Ajaṇt.ā Cave Inscription of Varāhadeva, 127 ajina, 510 
 
 Ajitāgama, 411, 431 
 
@@ -4579,7 +4579,7 @@ Ambrakanagara, 236 ¯
 
 American Institute of Indian Studies, 121 Amīr Khusraw, 90 
 
-Amīr ud-Dīn alias Amīr ,Alī, 68, 69 Amman. a, 89 
+Amīr ud-Dīn alias Amīr ,Alī, 68, 69 Ammaṇa, 89 
 
 Amoghavars.a I, 304 
 
@@ -4629,7 +4629,7 @@ Anugīta, 229
 
 anugraha, 541, 559, see also grace and prasāda 
 
-Anukraman. ikā, 604 
+Anukramaṇikā, 604 
 
 anumantrita, 593, 594 
 
@@ -4659,7 +4659,7 @@ Arang, 236, 248
 
 Ara˙ng Copper-Plate of Bhīmasena II ¯ , 236 Ara˙ng Stone Inscription of Bhavadeva ¯ 
 
-Ran. akesarin and Nannarāja, 240, 248, 250 aran. ya, 511 
+Raṇakesarin and Nannarāja, 240, 248, 250 araṇya, 511 
 
 Aravalli, 429 
 
@@ -4833,7 +4833,7 @@ Avadh, 66, 68, 69, 72
 
 avamāna, 546, 548, see also dishonour Avantivarman, 303, 394, 397, 527, 601–605 Avantyakhaṅḍa, 469 
 
-avatāra (of Vis.n. u), 18, 50, 64, 80, 90, 93, 175, 346, 353, 542 
+avatāra (of Vis.ṇu), 18, 50, 64, 80, 90, 93, 175, 346, 353, 542 
 
 avatāra (of Siva), 292, 293, 296, 494, 530, ´ 553, 554, 559 
 
@@ -4887,7 +4887,7 @@ Bamhanī Plates of Pān. ḍava King Bharata bala, Year 2, 237, 239, 242
 
 ban-practice, 59 
 
-Bān. a, 303, 405, 406, 421, 527, 528, 531, 535, 
+Bāṇa, 303, 405, 406, 421, 527, 528, 531, 535, 
 
 536, 603, 605, 607 
 
@@ -4943,13 +4943,13 @@ Benares, 69, 74, 465, 467, 469, 473, 484, 534,
 
 672 Index 
 
-602, 604, 605, see also Vārān. asī and Kāśī Bengal, 17, 31, 169, 453 
+602, 604, 605, see also Vārāṇasī and Kāśī Bengal, 17, 31, 169, 453 
 
 Benisagar, 539 
 
-Ben. n. ā River, 324, 332, see also Vainyā and Waiganga River 
+Beṇn. ā River, 324, 332, see also Vainyā and Waiganga River 
 
-Ben. n. ātat.asthāna, 325, 332 
+Beṇn. ātat.asthāna, 325, 332 
 
 Berach River, 567 
 
@@ -4963,7 +4963,7 @@ Bhadrabāhu, 51
 
 Bhadrakālī, 524 
 
-bhadrapīt.ha, 406, 407, 419, 421, 437 Bhadravis.n. u, 399 
+bhadrapīt.ha, 406, 407, 419, 421, 437 Bhadravis.ṇu, 399 
 
 Bhadreśvara, 248, 602, 605 
 
@@ -4975,11 +4975,11 @@ Bhagavadgītā, 9, 31, 33–35, 37, 38, 43–45, 61, 62, 477, 478
 
 bhagavat (lord), 414, 431, 529 
 
-Bhagavat (Vis.n. u), 155, 320, 326, 330, 333, 340, 341, 344, 352, 376 
+Bhagavat (Vis.ṇu), 155, 320, 326, 330, 333, 340, 341, 344, 352, 376 
 
 Bhāgavata (cult), 80, 321, 326, 328, 330, 353 Bhāgavata (devotees), 319, 325, 326, 329, 331, 438 
 
-Bhāgavatapurān. a, 17, 18, 169, 284 Bhagavatism, see Bhāgavata cult 
+Bhāgavatapurāṇa, 17, 18, 169, 284 Bhagavatism, see Bhāgavata cult 
 
 bhāgineyī, 115, 132, 140, 311, 358, 359, 361, 363 
 
@@ -4999,13 +4999,13 @@ bhajan, 15
 
 Bhaktas, 15–21, 165, 170, 407, see also Sivabhaktas ´ 
 
-bhakti, 8, 9, 15–18, 20, 164, see also Rāma, Kr.s.n. a and Vais.n. ava bhakti 
+bhakti, 8, 9, 15–18, 20, 164, see also Rāma, Kr.s.ṇa and Vais.ṇava bhakti 
 
 bhakti movement, 15, 17, 19, 162, 165, 168 bhaktirasa, 19 
 
 bhaktiyoga, 36, 39 
 
-Bhān. d. āgāra, 290, 291 
+Bhāṇd. āgāra, 290, 291 
 
 Bhandara District, 326, 418 
 
@@ -5047,7 +5047,7 @@ Bhasman (Rudra), 285
 
 Bhatsu, 603 
 
-Bhat.t.arāī, Kr.s.n. aprasāda, 185 
+Bhat.t.arāī, Kr.s.ṇaprasāda, 185 
 
 Bhat.t.asaṅghasena, 330 
 
@@ -5181,7 +5181,7 @@ Bogra District, 453
 
 Bom. gī Huḍkī, 329, 333 
 
-Bommagan. t.i Appayārya, 129 
+Bommagaṇt.i Appayārya, 129 
 
 Bonazzoli, Giorgio, 179, 180, 181 
 
@@ -5205,11 +5205,11 @@ brahmacārin, 490, 491, 506, 509, 511, 527 brahmacarya, 506
 
 brahman, 30, 36–39, 41–44, 188, 223, 295, 506, 534, 549, 585, 589, 594 
 
-five (pa˜ncabrahman), 492, 493, 513 brahm´an priest, 187, 188, 190, 508 Brahman, see brahman and brahmin Brāhman. a(s), 187, 192, 193, 195, 446, 562 Brahmān. ḍapurān. a, 51 
+five (pa˜ncabrahman), 492, 493, 513 brahm´an priest, 187, 188, 190, 508 Brahman, see brahman and brahmin Brāhmaṇa(s), 187, 192, 193, 195, 446, 562 Brahmān. ḍapurāṇa, 51 
 
 brahmanical (tradition, view, etc.), 151, 152, 155, 158, 417, 447, 462, 417, 477, 498, 544 Brahmanism, 56, 154 
 
-Brahmapurān. a, 186, 192, 193, 196–199, 223, 408 
+Brahmapurāṇa, 186, 192, 193, 196–199, 223, 408 
 
 brahmasattra, 607 
 
@@ -5291,7 +5291,7 @@ caityagr.ha, 425
 
 Cākord. ā, 91 
 
-cakra (Vis.n. u’s discus), 91, 107, 189, 320, 326, 
+cakra (Vis.ṇu’s discus), 91, 107, 189, 320, 326, 
 
 327, 343, 361, see also Sudarśana 
 
@@ -5307,7 +5307,7 @@ Cakrapālita, 144
 
 674 Index 
 
-Cakrapān. i, 153, 326 
+Cakrapāṇi, 153, 326 
 
 Cakratīrtha (Ramtek), 91, 107, 145 cakravartin, 51, 85 
 
@@ -5323,7 +5323,7 @@ camp¯u, 86
 
 Cāmun. ḍa (adhipati), 87, 88 
 
-Cāmun. d. ā, 130, 137 
+Cāmuṇd. ā, 130, 137 
 
 Cāmun. ḍasoma, 294 
 
@@ -5331,13 +5331,13 @@ Can. ālasvāmin (ācārya), 330
 
 Can. ḍa, 558 
 
-can. d. āla, 473 
+caṇd. āla, 473 
 
 candra, 131, 307, 310, 327, 362 
 
 Candradeva, 484 
 
-Candraks.aman. a, 321 
+Candraks.amaṇa, 321 
 
 Candragupta (brother of Tīvaradeva), 247, 253 
 
@@ -5361,7 +5361,7 @@ cannibalism, 444
 
 Cān. ¯ura, 171 
 
-caran. a (school), 328 
+caraṇa (school), 328 
 
 caste, 3, 5, 12, 14, 16, 19, 21, 24, 38, 40, 542 Catholic Church / Catholicism, 60, 543 cattle, 245, 443, 448, 544, 545 
 
@@ -5371,11 +5371,11 @@ caturmukhaliṅga, 393, 400–402, 490, 492, 493, 499
 
 caturm¯urti, 490 
 
-Caturvargacintāman. i, 159 
+Caturvargacintāmaṇi, 159 
 
 Cecil, Elizabeth, 562 
 
-Celuks.aman. a, 321 
+Celuks.amaṇa, 321 
 
 cemetery, 411, 430, 437, 455 
 
@@ -5523,9 +5523,9 @@ daityas, 197, 369, 371, 512
 
 Daks.a(’s sacrifice), 189, 420, 524, 525, 534, 576–579, 584, 587 
 
-daks.in. a/ā, 516–518, see also right side daks.in. ā (fee), 163, 415 
+daks.iṇa/ā, 516–518, see also right side daks.in. ā (fee), 163, 415 
 
-Daks.in. a Kosala, 48, 65, 147, 235–245, 247, 250, 251, 253, 255, 289, 296, 297, 419, 532, 539, 601 
+Daks.iṇa Kosala, 48, 65, 147, 235–245, 247, 250, 251, 253, 255, 289, 296, 297, 419, 532, 539, 601 
 
 daks.in. ām¯urti (concept), 516–520 
 
@@ -5545,9 +5545,9 @@ dan. ḍa, 558, 559
 
 Dan. ḍa (king), 337 
 
-Dan. ḍakāran. ya, 337 
+Dan. ḍakāraṇya, 337 
 
-Dan. ḍapān. i, 558 
+Dan. ḍapāṇi, 558 
 
 Dani, Ahmad Hasan, 119 
 
@@ -5565,7 +5565,7 @@ Daśapura (modern Mandasor), 307, 308, 570, 571, 598
 
 Dasarā, 482 
 
-Daśaratha, 48, 64, 93, 109, 173, 335, 411 Daśārn. a, 302 
+Daśaratha, 48, 64, 93, 109, 173, 335, 411 Daśārṇa, 302 
 
 Dasnāmī (Saiva order), 12, 13, 18 ´ dāsya-rasa, 21 
 
@@ -5627,7 +5627,7 @@ Devadāruvana, 548, 578–583, 586, 587, 598,
 
 Devadeva (Siva), 192, 197 ´ 
 
-Devadeva (Vis.n. u), 361 
+Devadeva (Vis.ṇu), 361 
 
 Devāditya, 86 
 
@@ -5683,7 +5683,7 @@ Dhanustīrtha (Ramtek), 91, 107
 
 dhārā, 388 
 
-Dhāran. a gotra, 312, 328, 414, 438 
+Dhāraṇa gotra, 312, 328, 414, 438 
 
 Dhārin.ī, 311, 312 
 
@@ -5781,13 +5781,13 @@ Dravida, 405, 408
 
 Dravidian, 175, 259, 260, 408 
 
-Dron. a, 187, 293 
+Droṇa, 187, 293 
 
-Dron. abhat.t.ārakā, 239 
+Droṇabhat.t.ārakā, 239 
 
 Dron. āka, 249 
 
-Dron. aparvan, 187, 190, 199, 496, 497 dr. s.t.am, 324 
+Droṇaparvan, 187, 190, 199, 496, 497 dr. s.t.am, 324 
 
 dualism, 30, see also dvaita 
 
@@ -5829,7 +5829,7 @@ Ekādaśī day, 108, 330
 
 ekamukhaliṅga, 320, 401, 402 
 
-ekaven. i, 306 
+ekaveṇi, 306 
 
 elements (five), see mahābh¯uta 
 
@@ -5939,9 +5939,9 @@ Gajendravadana, 93
 
 Gambhīra (brahmin), 536 
 
-gan. a(s), 261, 262, 265, 273–276, 420, 587 Gan. akārikā, 513–515, 518 
+gaṇa(s), 261, 262, 265, 273–276, 420, 587 Gaṇakārikā, 513–515, 518 
 
-Gan. apatināga / Gan. apatīndra, 302 Gan. ḍakī (river), 605 
+Gaṇapatināga / Gaṇapatīndra, 302 Gan. ḍakī (river), 605 
 
 gandha, 225 
 
@@ -5949,11 +5949,11 @@ Gandhāra, 412, 424, 429, 436, 440 Gandharvas, 265, 407, 497, 516, 593 Gandharve
 
 Gandhi, M.K., see Mahātma Gandhi Gandhi, Rajiv, 73, 74, 76 
 
-Gan. endra, see Gan. apatināga 
+Gaṇendra, see Gaṇapatināga 
 
-Gan. eśa, 108, 261, 262, 272, 320, 330, 333, 464 
+Gaṇeśa, 108, 261, 262, 272, 320, 330, 333, 464 
 
-Gan. eśa Nātu, 194, 198 
+Gaṇeśa Nātu, 194, 198 
 
 Gaṅgā, 243, 264, 463, 465, 474, 580, 607, see also Ganges 
 
@@ -5983,7 +5983,7 @@ Garuḍa, 315
 
 Garuḍa standard, 309, 315 
 
-Garuḍapurān. a, 181 
+Garuḍapurāṇa, 181 
 
 Gauḍas, 388, 601, 605, 606 
 
@@ -5993,7 +5993,7 @@ Gautama gotra, 160
 
 Gautameśvara, 106 
 
-Gautamīputra Sātakarn. i, 138 
+Gautamīputra Sātakarṇi, 138 
 
 gavāks.a, 568 
 
@@ -6011,7 +6011,7 @@ Gentz, Friedrich von, 35
 
 G¯es¯u-darāz, 10 
 
-Ghan. t.eśvara, 91, 106 
+Ghaṇt.eśvara, 91, 106 
 
 Ghat.o (gold coin, St. Petersburg collection), 
 
@@ -6033,7 +6033,7 @@ Ghazni, 63
 
 Ghosh, Ajit, 315, 411, 421 
 
-Ghos.¯un. d.ī Well Stone Inscription, 570 
+Ghos.¯uṇd.ī Well Stone Inscription, 570 
 
 Ghot.apadrakagrāma, 250 
 
@@ -6063,19 +6063,19 @@ golden man, 448–451
 
 Gomibhat.a (general), 397–399, 402 
 
-Gomun. d. ā, 137 
+Gomuṇd. ā, 137 
 
 Goncourt brothers, 551 
 
 Gonda, Jan, 508, 513 
 
-Gon. d. ārya, 158 
+Goṇd. ārya, 158 
 
 Gonds, 154, 158 
 
 Goodall, Dominic, 285 
 
-Gopāla (Kr.s.n. a), 93, 109 
+Gopāla (Kr.s.ṇa), 93, 109 
 
 Gopālarājavam. śāvalī, 530 
 
@@ -6109,7 +6109,7 @@ gotra, 85, 86, 160, 295, 312, 328, 354, 414,
 
 518, 521, 561, 562, 564, 584, 602, passim 
 
-Govinda (Kr.s.n. a), 307 
+Govinda (Kr.s.ṇa), 307 
 
 Govinda IV, 304 
 
@@ -6157,9 +6157,9 @@ Guhyas¯utra, 559
 
 Gujarat, 62, 86, 119, 388, 419, 429, 482, 528, 553, 557, 561, 563 
 
-gun. a (quality), 40, 229, 406 
+guṇa (quality), 40, 229, 406 
 
-gun. a (modification), 225, 228, 229 Gun. aratna, 529 
+guṇa (modification), 225, 228, 229 Guṇaratna, 529 
 
 Guntur District, 171 
 
@@ -6227,7 +6227,7 @@ Hardy, Adam, 394
 
 Hardy, Friedhelm, 16–18, 167, 168, 194 
 
-Hari (Vis.n. u), 105–107, 164, 165, 254, 464, 588 
+Hari (Vis.ṇu), 105–107, 164, 165, 254, 464, 588 
 
 Haribhadra, 189, 529 
 
@@ -6235,7 +6235,7 @@ Harirāja (S¯ura family), 236 ´
 
 Hariścandra, 473 
 
-Haris.en. a, 146, 147, 244, 333 
+Haris.eṇa, 146, 147, 244, 333 
 
 Harivam. śa, 167, 168, 604 
 
@@ -6313,17 +6313,17 @@ Hingalaj, 12
 
 Hiralal, Rai Bahadur, 236 
 
-Hiran. yakeśigr.hyas¯utra, 510, 511 
+Hiraṇyakeśigr.hyas¯utra, 510, 511 
 
-Hiran. yakeśiśrautas¯utra, 449 
+Hiraṇyakeśiśrautas¯utra, 449 
 
-Hiran. yānadīvāsaka, 325 
+Hiraṇyānadīvāsaka, 325 
 
 Hisse-Borala, 144, 145, 372 
 
 Hisse-Borala Inscription of Devasena, 119, 144, 372 
 
-Hiran. yakaśipu, 90, 106, 254, 346, 353 Hitavada, 75 
+Hiraṇyakaśipu, 90, 106, 254, 346, 353 Hitavada, 75 
 
 Hitopadeśa, 32 
 
@@ -6347,7 +6347,7 @@ horse sacrifice, 311, 447, see also Aśvamedha Horstmann, Monika, 463
 
 house, (installation of), 444, 446–447, 460, see also vāstu and Vāstupratis.t.hā householder, 4, 14, 513, 584 
 
-Hr.daya (Pramān. a text), 286 
+Hr.daya (Pramāṇa text), 286 
 
 huḍum. , 545 
 
@@ -6359,7 +6359,7 @@ human sacrifice, 444–447, 450–452, 455, 458, see also Purus.amedha
 
 human skulls, 287, 288, 454, 455 
 
-Humboldt,Wilhelm von, 26, 31, 34–36, 39, 40 H¯un. as, 375, 414, 481, 553, 598, 601 al-Husayn b. Man. s¯ur al-H. allādj, 7 Hussein, Saddam, 56 
+Humboldt,Wilhelm von, 26, 31, 34–36, 39, 40 H¯uṇas, 375, 414, 481, 553, 598, 601 al-Husayn b. Maṇs¯ur al-H. allādj, 7 Hussein, Saddam, 56 
 
 Huvis.ka, 415, 416 
 
@@ -6447,7 +6447,7 @@ initiation, 291–294, 296, 467, 505, 506,
 
 576, 586, see also dīks.ā 
 
-Inscription of Ajan. t.ā Cave XVII, 127 
+Inscription of Ajaṇt.ā Cave XVII, 127 
 
 Institute of Indian Studies, Groningen Uni 
 
@@ -6509,7 +6509,7 @@ Jainism, 51, 321, 413, 426, 437, 578 Jaipur, 356
 
 Jaitrapāla, 89 
 
-Jalhan. a, 86, 160 
+Jalhaṇa, 86, 160 
 
 Jami Masjid (Jaunpur), 384 
 
@@ -6577,7 +6577,7 @@ jihād (holy war), 56, 60, 68, 69
 
 jihvām¯ulīya, 119 
 
-Jis.n. ugupta, 531 
+Jis.ṇugupta, 531 
 
 Jit.hānī Temple (Tālā), 256–260, 262–271, 273–280 
 
@@ -6735,7 +6735,7 @@ Kapilā (river), 144
 
 Kapilān. ḍa, 529 
 
-Kapileśvara (liṅga), 287, 328, 494 karāma (supernatural power), 10, 11 Kāravan. amāhātmya, 297 
+Kapileśvara (liṅga), 287, 328, 494 karāma (supernatural power), 10, 11 Kāravaṇamāhātmya, 297 
 
 karma(n), 5, 39, 40, 150, 468, 497, 548 karma-doctrine, 40 
 
@@ -6743,13 +6743,13 @@ Karmānta S¯utra, 451
 
 karmayoga, 36, 39 
 
-Karn. a, 593 
+Karṇa, 593 
 
-karn. ajāpa, 468, 471 
+karṇajāpa, 468, 471 
 
-karn. ikāra (tree), 407 
+karṇikāra (tree), 407 
 
-Kārohan. a (modern Karvan), 287, 295, 297, 
+Kārohaṇa (modern Karvan), 287, 295, 297, 
 
 Karp¯uravāpī, 92, 93, 108 
 
@@ -6763,7 +6763,7 @@ Karuka, 287
 
 Kāruka (Pāśupata division), 287 
 
-Karvan, see Kārohan. a 
+Karvan, see Kārohaṇa 
 
 Kāsarapura, 87, 88 
 
@@ -6771,7 +6771,7 @@ Kashmir, 70, 71
 
 Kashmir Saivism, 543 
 
-Kāśī, 108, 464, 465, 484, see also Vārān. asī 
+Kāśī, 108, 464, 465, 484, see also Vārāṇasī 
 
 Kāśīkhan. ḍa, 181, 467, 468, 469, 470, 471 
 
@@ -6787,7 +6787,7 @@ Kātyāyana, 196
 
 Kātyāyanaśrautas¯utra, 450 
 
-Kaumārakhan. ḍa (Padmapurān. a), 338, 339 
+Kaumārakhan. ḍa (Padmapurāṇa), 338, 339 
 
 Kaumudīmahotsava, 603 
 
@@ -6805,9 +6805,9 @@ Kauśāmbī, 253, 302, 306, 453, 455–459
 
 Kauśika, see Kuśika 
 
-Kauśikī Cycle (Skandapurān. a, SP), 400 
+Kauśikī Cycle (Skandapurāṇa, SP), 400 
 
-Kaus.ītakibrāhman. a, 187, 190, 291 
+Kaus.ītakibrāhmaṇa, 187, 190, 291 
 
 Kaus.ītaki Upanis.ad, 60, 223 
 
@@ -6823,11 +6823,11 @@ kāyasādhana, 13
 
 kāyasiddhi, 13 
 
-Kāyāvarohan. a, 297 
+Kāyāvarohaṇa, 297 
 
-Kāyāvataran. a (= Kārohan. a), 529, 542, 553, 
+Kāyāvataraṇa (= Kārohaṇa), 529, 542, 553, 
 
-see also Kārohan. a 
+see also Kārohaṇa 
 
 Kedārakhan. ḍa, 181 
 
@@ -6837,7 +6837,7 @@ Keesargutta, 453
 
 Kelāpur, 144, 156, 371, see also Kadalīvāt.aka 
 
-Keśava (Kr.s.n. a), 497 
+Keśava (Kr.s.ṇa), 497 
 
 Kevala-Narasim. ha Temple (Ramtek), 80, 82, 
 
@@ -6917,7 +6917,7 @@ Konow, Sten, 395, 427
 
 Koran, 6, 7 
 
-Kosala, see Daks.in. a Kosala 
+Kosala, see Daks.iṇa Kosala 
 
 Kosalā, 243, 247, 249, 256 
 
@@ -6951,23 +6951,23 @@ Kropman, Martine, 332, 535
 
 Kr.pa, 593 
 
-Kr.s.n. a, 9, 16–21, 36, 38–40, 71, 128, 159, 161, 163, 164, 167–171, 173, 174, 316, 375, 376, 478, 480, 481, 497, 512, 550, 551, 556, 557, 588, 604 
+Kr.s.ṇa, 9, 16–21, 36, 38–40, 71, 128, 159, 161, 163, 164, 167–171, 173, 174, 316, 375, 376, 478, 480, 481, 497, 512, 550, 551, 556, 557, 588, 604 
 
-Kr.s.n. a (Sātavāhana), 415 
+Kr.s.ṇa (Sātavāhana), 415 
 
-Kr.s.n. a (Yādava king), 89 
+Kr.s.ṇa (Yādava king), 89 
 
-Kr.s.n. a bhakti, 17 
+Kr.s.ṇa bhakti, 17 
 
-Kr.s.n. adāsa, 140 
+Kr.s.ṇadāsa, 140 
 
-Kr.s.n. akarn. āmr.ta, 169 
+Kr.s.ṇakarn. āmr.ta, 169 
 
-Kr.s.n. akarn. āmr.tat.īkā, 169 
+Kr.s.ṇakarn. āmr.tat.īkā, 169 
 
-Kr.s.n. amiśra, 293 
+Kr.s.ṇamiśra, 293 
 
-Kr.s.n. arāja, 561 
+Kr.s.ṇarāja, 561 
 
 Kr.ta Era, see Vikrama Era 
 
@@ -7049,7 +7049,7 @@ Kuruks.etratīrtha (Ramtek), 91, 107
 
 Kuśa, 93, 109 
 
-Kus.ān. a, 49, 50, 156, 260, 415–417, 421, 440, 481, 493, 529, 557 
+Kus.āṇa, 49, 50, 156, 260, 415–417, 421, 440, 481, 493, 529, 557 
 
 
 
@@ -7073,9 +7073,9 @@ Lahore, 9, 313
 
 Lajjā Gaurī, 462 
 
-Lakhneśvara (Laks.man. eśvara) Temple (Kharod), 249–251 
+Lakhneśvara (Laks.maṇeśvara) Temple (Kharod), 249–251 
 
-Laks.man. a (brother of Rāma), 93, 94, 110, 163 
+Laks.maṇa (brother of Rāma), 93, 94, 110, 163 
 
 Index 683 
 
@@ -7089,7 +7089,7 @@ liṅga, 313, 319, 320, 328, 339, 401, 406, 411, 413, 420, 421, 431, 437, 471, 4
 
 ekamukha-, caturmukha-, svayam. bhuliṅga twelve liṅgas, 533 
 
-Liṅgapurān. a, 186, 189, 192–199, 203 ff., 294, 559 
+Liṅgapurāṇa, 186, 189, 192–199, 203 ff., 294, 559 
 
 Liṅgasambh¯uta, 520 
 
@@ -7099,17 +7099,17 @@ Liṅgayas¯urin, 129, 408
 
 lion throne (sim. hāsana), 383, 385, 388, 389 logos, 543 
 
-Lokanātha (Vis.n. u), 355 
+Lokanātha (Vis.ṇu), 355 
 
 Lokapālas, 406, 407, 421 
 
 Lokaprakāśā, 239, 242, 243, 249, 256 
 
-Laks.man. a Temple (Ramtek), 80, 88, 89, 93, 94, 165, 166, 338, 339, 347 
+Laks.maṇa Temple (Ramtek), 80, 88, 89, 93, 94, 165, 166, 338, 339, 347 
 
-Laks.man. a Temple (Sirpur), 245, 251, 253, 254, 258 
+Laks.maṇa Temple (Sirpur), 245, 251, 253, 254, 258 
 
-Laks.man. asena, 484 
+Laks.maṇasena, 484 
 
 Laks.mī, 107, 126, 140, 159, 247, 263, 311, 316, 531, 603 
 
@@ -7189,7 +7189,7 @@ madeleines, 53
 
 Mādhāinagar Copper-plate Inscription of 
 
-Laks.man. asena, 484 
+Laks.maṇasena, 484 
 
 Mādhavavarman II Janāśraya, 173, 174, 251, 
 
@@ -7225,7 +7225,7 @@ Māgha, 325
 
 
 
-684 Index Mahā-Nārāyan. a-Upanis.ad, 545, 549 
+684 Index Mahā-Nārāyaṇa-Upanis.ad, 545, 549 
 
 308 
 
@@ -7309,7 +7309,7 @@ Maheśvara (Siva), 154, 326, 330, 333, 406, ´ 470, 489, 490, 492, 497, 498, 512
 
 Māheśvara(s), 287, 288, 321, 326, 329, 331, 494, 496, 543, 593, 602–608 
 
-Māheśvarakhan. ḍa (vulgate Skandapurān. a), 186, 192–199, 203 ff. 
+Māheśvarakhan. ḍa (vulgate Skandapurāṇa), 186, 192–199, 203 ff. 
 
 Maheśvaranāga, 313 
 
@@ -7323,7 +7323,7 @@ Mah. m¯ud (prince), 483
 
 Māhurjharī, 143 
 
-Māhurjharī Plates of Pr.thivīs.en. a II, Year 17, 325 
+Māhurjharī Plates of Pr.thivīs.eṇa II, Year 17, 325 
 
 Māideva (Māyideva), 89 
 
@@ -7341,7 +7341,7 @@ Majhimikā, 569
 
 Major, John, 56 
 
-Majumdar, N.G., 394, 412 
+Majumdar, ṇG., 394, 412 
 
 Majumdar, R.C., 301 
 
@@ -7433,23 +7433,23 @@ Mandasor Inscription of the Kr.ta Year 461, 308
 
 Mandasor Stone Inscription of Kumāragupta and Bandhuvarman, 119, 136 
 
-Mandasor Stone Inscription of Yaśodharman and Vis.n. udharman, 127 
+Mandasor Stone Inscription of Yaśodharman and Vis.ṇudharman, 127 
 
 Mandhal, 81, 138, 141, 146, 157, 259, 264, 282, 323–329, 333, 334 
 
-Mān. ḍhal. Charter of Pr.thivīs.en. a II, Year 10, 146, 325 
+Mān. ḍhal. Charter of Pr.thivīs.eṇa II, Year 10, 146, 325 
 
-Mān. ḍhal. Plates of Pr.thivīs.en. a II, Year 2, 142, 325, 340 
+Mān. ḍhal. Plates of Pr.thivīs.eṇa II, Year 2, 142, 325, 340 
 
 Mān. ḍhal. Plates of Vākāt.aka Rudrasena II, Year 5, 323–326, 328–330, 361, 362 maṅgala, 352, 355, 383, 571 
 
 Maniārī (river), 256 
 
-Man. ikālakun. ḍa, 92, 108 
+Maṇikālakun. ḍa, 92, 108 
 
-Man. ikarn. ikā, 467, 468, 473 
+Maṇikarṇikā, 467, 468, 473 
 
-Man. imekalai, 411 
+Maṇimekalai, 411 
 
 Mann, Thomas, 548 
 
@@ -7471,7 +7471,7 @@ Maria Anna of Bavaria, 363
 
 Maria of Spain, 363 
 
-Mārkan. ḍeyapurān. a, 473 
+Mārkan. ḍeyapurāṇa, 473 
 
 Mārtān. ḍamāhātmya, 193 
 
@@ -7515,7 +7515,7 @@ mātr. s (mothers), 265, see also Mātr.kās and
 
 Mothers 
 
-Matsyapurān. a, 468, 471, 473 
+Matsyapurāṇa, 468, 471, 473 
 
 Mattavilāsaprahasana, 293 
 
@@ -7663,7 +7663,7 @@ Mun. ḍa (a brahmin), 328
 
 Mun. ḍa (king), 406, 408 
 
-Mun. d. ā, 126, 130, 137, 138, 310, 327, 328, 333, 358, 359, 361, 362 
+Muṇd. ā, 126, 130, 137, 138, 310, 327, 328, 333, 358, 359, 361, 362 
 
 Mun. ḍa-Sr ´.ṅkhalika Pāśupatas, 294, 531, 532 Mun. ḍasvāmin, 326, 327, 329, 333, 361, 362 Mun. ḍeśvarī (goddess), 391 
 
@@ -7671,11 +7671,11 @@ Mun. ḍeśvarī Hill, 393, 401, 403
 
 Mun. ḍeśvarī Inscription of the Time of Udaya sena, Year 30, 392, 394–396, 401 Mun. ḍeśvarī Temple, 391, 392 
 
-mun. d.in, 491, 492 
+muṇd.in, 491, 492 
 
 mu˜nja grass, 510 
 
-Murāri (Vis.n. u), 109, 110, 159, 338, 339 
+Murāri (Vis.ṇu), 109, 110, 159, 338, 339 
 
 m¯urti, 496, 505, 513, 514, 515, 516, 518 
 
@@ -7787,13 +7787,13 @@ Nandikeśvara, 261
 
 Nandin, 261, 496, 516, 517, 518, 520 Nandivardhana, 79, 141–143, 146, 147, 150, 306, 309, 314, 325, 329–332, 340, 364, see also Nagardhan 
 
-Nān. eghāt., 415, 416, 440 
+Nāṇeghāt., 415, 416, 440 
 
 Nannarāja I (son of Indrabala), 240, 247–251 Nannarāja II, 253 
 
 Nara, 497, 581, 588–590, 599 
 
-Nara-Nārāyan. a, 589 
+Nara-Nārāyaṇa, 589 
 
 Nārada (seer), 336 
 
@@ -7801,21 +7801,21 @@ Nāradasmr.ti, 141
 
 Narain, A.K., 322 
 
-Narasim. ha (Vis.n. u), 80, 81, 83, 85, 90, 93, 106, 109, 128, 134, 135, 143, 144, 155, 156, 158, 160, 163, 165, 254, 261, 265, 333, 334, 343–349, 353, 355, 356, 365, 372 
+Narasim. ha (Vis.ṇu), 80, 81, 83, 85, 90, 93, 106, 109, 128, 134, 135, 143, 144, 155, 156, 158, 160, 163, 165, 254, 261, 265, 333, 334, 343–349, 353, 355, 356, 365, 372 
 
 Narasiṅgha (son of Bot.a), 239, 256 Naratta˙ngavāristhāna, 325 
 
 Naravarman, 308 
 
-Nārāyan. a, 160, 196, 320, 322, 327, 398, 497, 581, 588–590 
+Nārāyaṇa, 160, 196, 320, 322, 327, 398, 497, 581, 588–590 
 
-Nārāyan. a Vāt.ikā, 570 
+Nārāyaṇa Vāt.ikā, 570 
 
-Nārāyan. a Temple, 400 
+Nārāyaṇa Temple, 400 
 
-Nārāyan. abhat.t.a, 467 
+Nārāyaṇabhat.t.a, 467 
 
-Nārāyan. adevakula, 397 
+Nārāyaṇadevakula, 397 
 
 Narendra (mahārāja), 243, 244 
 
@@ -7879,7 +7879,7 @@ New Indo-Aryan, 175
 
 New Jerusalem, 71 
 
-Nhān. i Sīteci, see Sītecī Nhān.ī 
+Nhāṇi Sīteci, see Sītecī Nhān.ī 
 
 Nibandha, 469 
 
@@ -7887,19 +7887,19 @@ Niḍilā (river), 241
 
 Nigam, L.S., 261 
 
-Nīlakan. t.ha, 191 
+Nīlakaṇt.ha, 191 
 
 nīlalohita, 190 
 
 Nīlalohita, 589, 594 
 
-Nīlamatapurān. a, 193 
+Nīlamatapurāṇa, 193 
 
 Nimbārka, 18 
 
 nīrājanā, 481, 482 
 
-nirgun. a, 14, 16 
+nirguṇa, 14, 16 
 
 Nirr.ti, 492 
 
@@ -7979,11 +7979,11 @@ pada, see footprint
 
 pādam¯ula, 330, 340, 343 
 
-Padan. a Hill (Bombay), 289 
+Padaṇa Hill (Bombay), 289 
 
 Padmapura, 141, 324–327, 332 
 
-Padmapura District, 324, 328, 329 Padmapurān. a, 338, 466 
+Padmapura District, 324, 328, 329 Padmapurāṇa, 338, 466 
 
 Padmāvatī (modern Pawaya), 302 Pakistan, 11, 70, 71, 72, 426, 437 
 
@@ -7997,7 +7997,7 @@ Pa˜ncārtha doctrine (Pāśupata), 286–288, 295, 296, 528, 533, 563
 
 Pa˜ncārthabhās.ya, 541, 553, 578 
 
-Pa˜ncārthapramān. a, 286, 287, 541, 563 pa˜ncaśikha, 190, 197 
+Pa˜ncārthapramāṇa, 286, 287, 541, 563 pa˜ncaśikha, 190, 197 
 
 Pa˜ncavat.ī, 337 
 
@@ -8013,9 +8013,9 @@ Pān. ḍhurn. ā Plates of Pravarasena II, Year 29, 323, 332, 354, 503
 
 Pān. ḍu, 239, 248, 601 
 
-Pān. ḍuvam. śin(s), 532, see also Pān. ḍavas Pān. ini, 49, 196, 407 
+Pān. ḍuvam. śin(s), 532, see also Pān. ḍavas Pāṇini, 49, 196, 407 
 
-pān. ipātrika, 321 
+pāṇipātrika, 321 
 
 Panjab, 48, 71, 483, 570 
 
@@ -8031,7 +8031,7 @@ paramamāheśvara, 154, 255, 531, 606
 
 Paramānanda-Sāgara, 20 
 
-paramavais.n. ava, 255 
+paramavais.ṇava, 255 
 
 Parameśāna, 192, 559 
 
@@ -8051,7 +8051,7 @@ Parīks.it, 248
 
 Paris, 32–34 
 
-Parn. adatta, 144 
+Parṇadatta, 144 
 
 Parry, Milman, 176 
 
@@ -8149,7 +8149,7 @@ Paunar, 141, 170–174
 
 Paunī, 326, 418 
 
-paurān. ika, 178, 471 
+paurāṇika, 178, 471 
 
 Pawaya, 302, 370, see also Padmāvatī Pax Britannica, 55 
 
@@ -8181,11 +8181,11 @@ Pināka, 490
 
 pin. ḍa, 325, 405 
 
-pin. d. āra, 401 
+piṇd. āra, 401 
 
-Pin. d. āraka, 401 
+Piṇd. āraka, 401 
 
-Pin. d. āreśvara, 401 
+Piṇd. āreśvara, 401 
 
 Pine Forest, 579, 599, see also Devadāruvana Piṅgala, 529 
 
@@ -8205,7 +8205,7 @@ pīt.ha, 263
 
 pitr̥(s), 492 
 
-pitr.tarpan. a, 91 
+pitr.tarpaṇa, 91 
 
 Pitr.tīrtha (Ramtek), 91, 107 
 
@@ -8231,7 +8231,7 @@ Prabodhinī Ekādaśī, 330
 
 pradaks.in. ā/a, 401, 407, 482, 509, 511 
 
-pradaks.in. apatha, 393 
+pradaks.iṇapatha, 393 
 
 pradhāna, 228 
 
@@ -8261,11 +8261,11 @@ Prakrit, 327
 
 prakr.ti, 30, 228, 229 
 
-Pramān. a (texts), 286, 288, 292 
+Pramāṇa (texts), 286, 288, 292 
 
-Pranardanaprān. a Kauśika (Pāśupata teach er), 531 
+Pranardanaprāṇa Kauśika (Pāśupata teach er), 531 
 
-pran. ava, 468, see also om. prasāda (grace), 18, 153, 154, 160, 161, 165, 
+praṇava, 468, see also om. prasāda (grace), 18, 153, 154, 160, 161, 165, 
 
 498, 542, 583, see also grace 
 
@@ -8333,9 +8333,9 @@ Pr.thivīpura, 142, 143
 
 Pr.thivīsamudra, 142, 143, 325 
 
-Pr.thivīs.en. a I, 154, 323–325 
+Pr.thivīs.eṇa I, 154, 323–325 
 
-Pr.thivīs.en. a II, 142, 143, 146, 147, 173, 325, 326, 332 
+Pr.thivīs.eṇa II, 142, 143, 146, 147, 173, 325, 326, 332 
 
 Pr.thivīvigraha, 236 
 
@@ -8353,13 +8353,13 @@ Pun. ḍra, 606–608
 
 Punjab, see Panjab 
 
-Purān. as, 179–182, 184, 193, 194, 198, 199, 283, 284, 294, 401, 407, 464, 468, 469, 473, 474, 604, 606–608, 610 
+Purāṇas, 179–182, 184, 193, 194, 198, 199, 283, 284, 294, 401, 407, 464, 468, 469, 473, 474, 604, 606–608, 610 
 
-Purān. a of Skanda, 403 
+Purāṇa of Skanda, 403 
 
-Purān. apa˜ncalaks.an. a, 47, 176, 179, 190 Purī, 63, 64, 108 
+Purāṇapa˜ncalaks.aṇa, 47, 176, 179, 190 Purī, 63, 64, 108 
 
-p¯urn. akalaśa, 580, 581, 595 
+p¯urṇakalaśa, 580, 581, 595 
 
 purod. āś, 579 
 
@@ -8401,7 +8401,7 @@ Qut.b al-Dīn Aybak, 484
 
 RA recension of SP, 469–473, see also 
 
-Skandapurān. a (SP) 
+Skandapurāṇa (SP) 
 
 Rabatak inscription, 416 
 
@@ -8487,7 +8487,7 @@ Rāma bhakti, 19, 52, 465
 
 Rāma Navamī, 66 
 
-Rāma rājya, 64, 71, 72, 75, 77, 336, 485 Rāma-Kr.s.n. a Temple, 91 
+Rāma rājya, 64, 71, 72, 75, 77, 336, 485 Rāma-Kr.s.ṇa Temple, 91 
 
 Rāma’s Birthplace, see Rāmajanmabh¯umi Rāma’s footprints, 92 
 
@@ -8517,7 +8517,7 @@ raudra, 490, 593, 594
 
 Raudra Weapon, 593 
 
-Rāvan. a, 93, 108, 110, 339, 498 
+Rāvaṇa, 93, 108, 110, 339, 498 
 
 Raven, Ellen, 305, 309, 315, 609 
 
@@ -8539,7 +8539,7 @@ Rāmagirisvāmin, 143, 330, 333, 340, 341, 343 Rāmagupta, 302–307, 321
 
 Rāmajanmabh¯umi, 65, 68, 71-73, 75-77, 337, 485 
 
-Rāmakan. t.ha, 287 
+Rāmakaṇt.ha, 287 
 
 Rāmakathā, 50 
 
@@ -8551,7 +8551,7 @@ Rāmarājya, see Rāma rājya
 
 Rāmatīrtha, 92, 108 
 
-Rāmāyan. a, 25, 39, 47, 48, 50, 64, 65, 71, 72, 77, 93, 94, 170, 179, 335–341, 350, 376, 465, 498, 502, 604 
+Rāmāyaṇa, 25, 39, 47, 48, 50, 64, 65, 71, 72, 77, 93, 94, 170, 179, 335–341, 350, 376, 465, 498, 502, 604 
 
 Rāmeśvara liṅga, 498 
 
@@ -8573,7 +8573,7 @@ rasa (tanmātra), 225
 
 rasa (mercury, elixer), 12, 451 
 
-Rasārn. ava, 12, 18 
+Rasārṇava, 12, 18 
 
 rasāyana (alchemy), 12 
 
@@ -8597,7 +8597,7 @@ Revā, 174, 388, see also Narmadā
 
 Revākhan. ḍa (R recension SP), 185, 469 
 
-Revākhan. ḍa (vulgate Skandapurān. a, SkP), 
+Revākhan. ḍa (vulgate Skandapurāṇa, SkP), 
 
 185 
 
@@ -8647,7 +8647,7 @@ r. s.i, 489, 497, 516, 519, 554
 
 RSS, see Rastriya Svayamsevak Sangh 
 
-R. tuparn. a (king), 48 
+R. tuparṇa (king), 48 
 
 R. tusam. hāra, 31 
 
@@ -8701,7 +8701,7 @@ Rupiam. ma, 418
 
 Russian Orthodox Church, 548 
 
-S recension, 473, 537, see Skandapurān. a, SP Sa,ādat Khān, 66 
+S recension, 473, 537, see Skandapurāṇa, SP Sa,ādat Khān, 66 
 
 śabda, 225, 543 
 
@@ -8745,7 +8745,7 @@ Sadyojyotis, 287
 
 Safī al-Dīn of Uch, 11 
 
-sagun. a, 16 
+saguṇa, 16 
 
 sahaja, 13 
 
@@ -8807,7 +8807,7 @@ samayadīks.ā, 515
 
 Sāmba (Aditya), 329 ¯ 
 
-Sāmbapurān. a, 193 
+Sāmbapurāṇa, 193 
 
 Sambhar, 562 
 
@@ -8823,9 +8823,9 @@ Sam ´ . kara (Siva), 187, 191, 192, 197, 295, 466, ´ 497, 516, 582, 592
 
 Sam ´ . kara (philosopher), 7, 8, 37, see also pseudo-Sam ´ . kara 
 
-Sam ´ . karagan. a, 561 
+Sam ´ . karagaṇa, 561 
 
-Sam. kars.an. a, 163, 329, 556, 570 
+Sam. kars.aṇa, 163, 329, 556, 570 
 
 Sām. khya, 28–30, 44, 223–225, 227–231, 285 Sām. khya-yoga, 524 
 
@@ -8871,9 +8871,9 @@ Sār˙ngadeva (king, son of Kāmadeva), 83–85, ´ 88, 165
 
 Sār˙ngadeva (author of the ´ Sam. gītaratnākara), 85 
 
-Sār˙ngapān ´ . i (Vis.n. u), 107, 161 
+Sār˙ngapān ´ . i (Vis.ṇu), 107, 161 
 
-Sār˙ngin (Vis ´ .n. u), 375, 376, 377, 414 
+Sār˙ngin (Vis ´ .ṇu), 375, 376, 377, 414 
 
 Saromāhātmya, 583 
 
@@ -8881,7 +8881,7 @@ sarpa, 448, 449
 
 sarpaśiras, 449 
 
-Sarpasenaks.aman. a, 321 
+Sarpasenaks.amaṇa, 321 
 
 Sā˜nchi Stone Inscription of Candragupta II, Year 93, 308, 321 
 
@@ -8901,7 +8901,7 @@ Sankalia, H.D., 48
 
 Saṅkha, 93, 94 ´ 
 
-Saṅkhapān ´ . in (Vis.n. u), 110 
+Saṅkhapān ´ . in (Vis.ṇu), 110 
 
 Saṅkharāma (Ramtek), 94, 110 ´ 
 
@@ -8963,7 +8963,7 @@ Saśāṅka (Moon), 605, 606 ´
 
 Sastri, R. Ananthakrishna, 553 
 
-Sātakani/Sātakarn. i (king), 415 
+Sātakani/Sātakarṇi (king), 415 
 
 Satānīka, 248 ´ 
 
@@ -9015,7 +9015,7 @@ Savitr., 187–189, 506, 507, 509
 
 Sāvitrī (mantra), 506–509, 511 
 
-Sāyan. a, 492, 493, 507 
+Sāyaṇa, 492, 493, 507 
 
 Scheuer, Jacques, 496 
 
@@ -9125,7 +9125,7 @@ Sīlavarman, 452 ´
 
 Silpaśāstra(s), 435, 460 ´ 
 
-Sim. han. a (king), 83–86, 88, 89, 105, 158, 159, 165 
+Sim. haṇa (king), 83–86, 88, 89, 105, 158, 159, 165 
 
 Sim. havarman, 308 
 
@@ -9161,7 +9161,7 @@ Sirpur Stone Inscription of Sivagupta Bālā- ´ rjuna (in the Gandharveśvara T
 
 Sirpur Stone Inscription of the Time of 
 
-Mahāśivagupta (i.e. Vāsat.ā’s Inscription in the Laks.man. a Temple), 253, 397 
+Mahāśivagupta (i.e. Vāsat.ā’s Inscription in the Laks.maṇa Temple), 253, 397 
 
 Sirsa (Haryana), 532 
 
@@ -9223,9 +9223,9 @@ Skandagupta, 51, 144, 146, 307–309,
 
 Index 695 
 
-Skandapurān. a (vulgate, SkP), 180, 181, 182, 185, 469 
+Skandapurāṇa (vulgate, SkP), 180, 181, 182, 185, 469 
 
-Skandapurān. a (original, SP), 180, 181, 185, 186, 194, 197–199, 202 ff., 284, 294–297, 400–402, 431, 468–471, 498, 503, 518, 521, 527–529, 533–535, 537, 539, 542, 553, 554, 559–564, 578, 584, 589, 594, 598, 599, 604, 607–609, 610 
+Skandapurāṇa (original, SP), 180, 181, 185, 186, 194, 197–199, 202 ff., 284, 294–297, 400–402, 431, 468–471, 498, 503, 518, 521, 527–529, 533–535, 537, 539, 542, 553, 554, 559–564, 578, 584, 589, 594, 598, 599, 604, 607–609, 610 
 
 A recension, 185, 196, 469, 532, see also Ambikākhan. ḍa 
 
@@ -9253,7 +9253,7 @@ Slaczka, Anna, 452 ´
 
 Sleemanabad, 347 
 
-smaran. a, 16 
+smaraṇa, 16 
 
 śmaśāna (cremation ground), 409, 410, 425, 429, 430, 431, 435, 437, 438, 471–473, 531, 542 
 
@@ -9273,7 +9273,7 @@ Soci´et´e des Amis de Marcel Proust, 52 Soḍḍhala, 85
 
 Soḍhala, 320 
 
-Sokasallaharan. a, 406 
+Sokasallaharaṇa, 406 
 
 soma, 291, 293, 294, 297, 554 
 
@@ -9293,7 +9293,7 @@ Somnāth, 62, 63, 73, 482
 
 Somnāth Temple, 75, 482 
 
-Son / Son ´ . a / Son. a (river), 236, 391, 402, 536, 605 
+Son / Son ´ . a / Soṇa (river), 236, 391, 402, 536, 605 
 
 S¯ondani, 575 
 
@@ -9321,7 +9321,7 @@ Spring Festival, 606, 607
 
 Sraman ´ . as, 606 
 
-śrāman. erī (novice nun), 419, 439 
+śrāmaṇerī (novice nun), 419, 439 
 
 Srautas¯utras, 450, 451 ´ 
 
@@ -9345,7 +9345,7 @@ Srīgopālabālastuti ´ , 169
 
 Srīgupta, 139 ´ 
 
-śrīkan. t.ha, 490 
+śrīkaṇt.ha, 490 
 
 Srīkan ´ . t.ha (janapada), 531 
 
@@ -9401,15 +9401,15 @@ Sthāneśvara, 535, 563, 601, 605
 
 Sthāneśvaramāhātmya, 534, 535 
 
-sthān. u (post), 489 
+sthāṇu (post), 489 
 
-Sthān. u (Mahādeva), 489, 535 
+Sthāṇu (Mahādeva), 489, 535 
 
-Sthān. utīrtha, 264, 265, 534, 535 
+Sthāṇutīrtha, 264, 265, 534, 535 
 
-Sthān. uvat.a, 534, 535 
+Sthāṇuvat.a, 534, 535 
 
-Sthān. vīśvara (modern Thanesar), 531, see 
+Sthāṇvīśvara (modern Thanesar), 531, see 
 
 also Thanesar and Sthāneśvara 
 
@@ -9435,7 +9435,7 @@ sudarśana (artificial lake), 144, 156 Sudarśana (artificial lake near Rāmagir
 
 Sudarśana (artificial lake near Junagarh), 144 
 
-Sudarśana (god), 127, 134, 145, 371 Sudarśana (cakra Vis.n. u), 91, 107, 145 Sudarśanā (princess), 407 
+Sudarśana (god), 127, 134, 145, 371 Sudarśana (cakra Vis.ṇu), 91, 107, 145 Sudarśanā (princess), 407 
 
 Sudarśanārya, 510 
 
@@ -9507,7 +9507,7 @@ S¯uryavarman, 251–253, 381–383, 389, 532, 533, 602
 
 S¯uta, 604–608 
 
-Suvarn. anadī, 236 
+Suvarṇanadī, 236 
 
 Svacchanda(tantra), 284–287, 515 
 
@@ -9529,7 +9529,7 @@ Svarlīneśvara Mandir, 534
 
 svasiddhānta (‘own doctrine’), 295, 527, 528, 532, 533, 539, 563 
 
-svayamātr.n. n. a, 449 
+svayamātr.ṇṇa, 449 
 
 svayam. bhuliṅga, 471 
 
@@ -9551,7 +9551,7 @@ tad ekam, 443
 
 Tagare, G.V., 468 
 
-Taittirīyāran. yaka, 47, 492, 493, 500, 545 Taittirīyabrāhman. a, 546, 554 
+Taittirīyāraṇyaka, 47, 492, 493, 500, 545 Taittirīyabrāhmaṇa, 546, 554 
 
 Taittirīyasam. hitā, 448, 449 
 
@@ -9617,13 +9617,13 @@ textual criticism, 179, 470 Thānasuya, see Sthānas¯utra
 
 Index 697 
 
-Trivikrama (Vis.n. u), 80, 83–85, 143, 334, 342–344, 353–358, 361, 365, 368–372 
+Trivikrama (Vis.ṇu), 80, 83–85, 143, 334, 342–344, 353–358, 361, 365, 368–372 
 
 Trivikrama (poet, son of Srīdhara Kavi; ´ author of the Madālasācamp¯u), 83–88, 163, 165 
 
 Trivikramabhat.t.a (grandson of Srīdhara; ´ author of the Nalacamp¯u), 85, 86 
 
-Thanesar (Sthān. vīśvara / Sthāneśvara), 63, 421, 528, 531, 534, 535, 553, 563, 602, 605 Thapar, Romila, 455 
+Thanesar (Sthāṇvīśvara / Sthāneśvara), 63, 421, 528, 531, 534, 535, 553, 563, 602, 605 Thapar, Romila, 455 
 
 Thaplyal, Kiran Kumar, 308, 382 
 
@@ -9655,7 +9655,7 @@ Tīrthavivecanakān. ḍa, 468, 469, 533 Tīrthayātrāparvan (MBh), 50
 
 Tirumol¯i, 167 
 
-Tiruttan. i, 522 
+Tiruttaṇi, 522 
 
 Tiruvorriyur Temple, 294 
 
@@ -9667,9 +9667,9 @@ Tiwari, Jagdish Narain, 410
 
 Tolstoy, Leo, 477 
 
-Toramān. a, 598 
+Toramāṇa, 598 
 
-toran. a, 522, 523, 525, 526, 568, 569, 573, 574, 576, 597 
+toraṇa, 522, 523, 525, 526, 568, 569, 573, 574, 576, 597 
 
 tortoise, 227, 449, 454, 456, 542 
 
@@ -9767,7 +9767,7 @@ Udayasena (mahāsāmanta), 391, 392, 394,
 
 Udbhavarāśi, 292, 532, 533 
 
-Udīrn. avaira, see S¯urabala ´ 
+Udīrṇavaira, see S¯urabala ´ 
 
 udumbara wood, 449 
 
@@ -9853,7 +9853,7 @@ vaijayikadharmasthāna, 325, 496
 
 Vaikhānasa, 599 
 
-Vaikun. t.ha (Vis.n. u’s Paradise), 20, 52, 71 Vaimala (Lākula division), 287, 288, 561 Vainyā River, 332, see also Ben. n. ā and Wain ganga Vainyapura, 87, 88 
+Vaikuṇt.ha (Vis.ṇu’s Paradise), 20, 52, 71 Vaimala (Lākula division), 287, 288, 561 Vainyā River, 332, see also Beṇn. ā and Wain ganga Vainyapura, 87, 88 
 
 Vainyāpurasthāna, 332 
 
@@ -9861,15 +9861,15 @@ vairāgin, 66
 
 Vaiśālī, 137, 307, 310 
 
-Vais.n. ava(s), 16, 66, 133, 155, 163, 320, 329, 342, 343, 400, 432, 464, 465, 467, 468, 520, 534, 542, 550, 551, 571, 588 
+Vais.ṇava(s), 16, 66, 133, 155, 163, 320, 329, 342, 343, 400, 432, 464, 465, 467, 468, 520, 534, 542, 550, 551, 571, 588 
 
-Vais.n. ava bhakti, 16–18, 161, 164, 550, 551 Vais.n. ava Sam. hitās, 16 
+Vais.ṇava bhakti, 16–18, 161, 164, 550, 551 Vais.ṇava Sam. hitās, 16 
 
-Vais.n. avakhan. ḍa, 182–184 
+Vais.ṇavakhan. ḍa, 182–184 
 
 Vaisnavism, 16, 81, 464, 550 
 
-Vaiśravan. a, 407 
+Vaiśravaṇa, 407 
 
 vaiśya, 450 
 
@@ -9923,9 +9923,9 @@ Varāhadeva (minister), 119, 120, 127, 130, 147
 
 Varāhamihira, 460, 482 
 
-Vārān. asī, 236, 391, 403, 463, 464, 465, 467, 470, 471, 473, 483, 484, 533, 534, 602–606, 608, see also Benares and Kāśī 
+Vārāṇasī, 236, 391, 403, 463, 464, 465, 467, 470, 471, 473, 483, 484, 533, 534, 602–606, 608, see also Benares and Kāśī 
 
-Vārān. asīmāhātmya, 468, 469, 470, 471, 473, 533, 534 
+Vārāṇasīmāhātmya, 468, 469, 470, 471, 473, 533, 534 
 
 Vareśvara (Rudra), 292 
 
@@ -9933,9 +9933,9 @@ Varmabhat.ā, 418
 
 varn. āśrama, 524, 531 
 
-Varun. a, 106, 263, 265, 406, 585 
+Varuṇa, 106, 263, 265, 406, 585 
 
-Varun. atīrtha, 91, 106 
+Varuṇatīrtha, 91, 106 
 
 vāsaka (army camp), 314, 325, 364, 606 
 
@@ -9989,7 +9989,7 @@ Vātsyāyana(s), 49, 535, 536
 
 Vaudeville, Charlotte, 6, 10, 15, 16 Vaula, 160 
 
-Vāyupurān. a, 193, 294, 559 
+Vāyupurāṇa, 193, 294, 559 
 
 Vāyuraks.ita, 307, 308 
 
@@ -10029,7 +10029,7 @@ vikrama (action), 334
 
 Vikrama Era, 397, 570 
 
-Vikramendravarman II (Vis.n. ukun. ḍin), 251 Vilāsatu˙nga, 256 
+Vikramendravarman II (Vis.ṇukun. ḍin), 251 Vilāsatu˙nga, 256 
 
 Vima/Vema Kadphises, 239, 415, 416 Vima Taktu, 416 
 
@@ -10077,7 +10077,7 @@ Viśākhadatta, 303, 304, 603
 
 Viśis.t.ādvaita, 8, 17 
 
-Vis.n. u, passim, 52, 64, 65, 71, 81, 86, 94, 
+Vis.ṇu, passim, 52, 64, 65, 71, 81, 86, 94, 
 
 106, 109, 128, 135, 138, 139, 143, 144, 
 
@@ -10089,35 +10089,35 @@ Vis.n. u, passim, 52, 64, 65, 71, 81, 86, 94,
 
 570, 571, 589, 590, 602, 604, see also 
 
-avatāra (Vis.n. u), the individual avatāras, 
+avatāra (Vis.ṇu), the individual avatāras, 
 
 Bhagavat, and Rāmagirisvāmin 
 
-Vis.n. u Cakrapān. i, 145 
+Vis.ṇu Cakrapāṇi, 145 
 
-Vis.n. u-Nārāyan. a, 94, 319, 327, 330 
+Vis.ṇu-Nārāyaṇa, 94, 319, 327, 330 
 
-Vis.n. u-Sār˙ngin, 375 ´ 
+Vis.ṇu-Sār˙ngin, 375 ´ 
 
-Vis.n. udatta, 571 
+Vis.ṇudatta, 571 
 
-Vis.n. udharmottarapurān. a (VDhP), 406, 407, 
+Vis.ṇudharmottarapurāṇa (VDhP), 406, 407, 
 
 413, 419, 421, 424, 437, 438, 440, 493, 499, 
 
 503, 519, 581 
 
-Vis.n. ugupta, 539 
+Vis.ṇugupta, 539 
 
-Vis.n. ukun. ḍin(s), 170, 171, 173, 251, 252 
+Vis.ṇukun. ḍin(s), 170, 171, 173, 251, 252 
 
-Vis.n. upada/pāda (Vis.n. u’s footprint), 
+Vis.ṇupada/pāda (Vis.ṇu’s footprint), 
 
 341–344, 570 
 
-Vis.n. upurān. a, 169, 181, 283, 604 
+Vis.ṇupurāṇa, 169, 181, 283, 604 
 
-Vis.n. uvardhana, 588 
+Vis.ṇuvardhana, 588 
 
 Visva Hindu Parisad (VHP), 73, 74, 76 
 
@@ -10159,7 +10159,7 @@ Vrindavan / Vr.ndāvana, 18–20, 52, 551 Vr.s.a (bull), 534
 
 Vr.s.an, 534 
 
-Vr.s.n. i, 329 
+Vr.s.ṇi, 329 
 
 Vr.tra (Indra), 387 
 
@@ -10175,7 +10175,7 @@ Wackernagel, Jacob, 517
 
 Wadgāon Plates of Pravarasena II, Year 25, 325 
 
-Wainganga River, 324–326, 332, see also Vainyā and Ben. n. ā 
+Wainganga River, 324–326, 332, see also Vainyā and Beṇn. ā 
 
 Wainganga Plain, 149, 150 
 
@@ -10287,7 +10287,7 @@ Yogeśvarī Cave, 530, 561
 
 yogi(n)(s), 11–13, 15, 16, 18, 19, 62, 164, 386, 412, 431, 472, 490–492, 560, 602, 606, 608 Yokochi, Yuko, 352, 400, 401, 537, 594, 610 yuddha, 476, see also k¯ut.a-, prakāśa-, t¯us.n.ī ˙m yuddha Yudhis.t.hira, 230, 328, 398, 399, 585, 586 yuga, 409, 554 
 
-Yugapurān. a, 49 
+Yugapurāṇa, 49 
 
 Yugaśaila, 452 
 

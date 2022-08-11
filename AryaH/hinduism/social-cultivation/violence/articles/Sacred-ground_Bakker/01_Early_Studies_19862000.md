@@ -13,7 +13,7 @@ title = "01 Early Studies 1986–2000"
 
 
 
-An Indian Image of Man∗ 
+## An Indian Image of Man 
 
 An Inquiry into a Change of Perspective 
 
@@ -39,7 +39,7 @@ Dieses Hervortreten des Geistes h¨angt nach der geschichtlichen Seite damit zus
 
 
 
-Though, admittedly, long as a quotation, this passage from Hegel’s Lectures on the History of Philosophy presents in a nutshell a central idea in modern Euro pean understanding of man: the concept of person or individuality and how it may account for the Western ethos as being apparently fundamentally differ ent from the Indian. And when it is objected that the view quoted is an early nineteenth century one, and worse, one of Hegel, let me draw your attention to Marcel Mauss’s treatment of the history of the notion of ‘the person’, in which he needs only one paragraph to explain that our notion of person, though it would not seem to have been completely absent from the ancient Indian mind, ‘was dissolved (again) almost irrevocably’: the ‘self’ (i.e. the ego) is according to one school of Indian thought (‘Brahmanists’) an ‘illusory thing’, to another, the Buddhists, a ‘separable compound of skandha’, the annihilation of which is to be sought. 2 What a sad world we must be prepared to arrive in when we pass through the customs at Delhi Airport! 
+Though, admittedly, long as a quotation, this passage from Hegel’s Lectures on the History of Philosophy presents in a nutshell a central idea in modern Euro pean understanding of man: the concept of person or individuality and how it may account for the Western ethos as being apparently fundamentally differ ent from the IndiaṇAnd when it is objected that the view quoted is an early nineteenth century one, and worse, one of Hegel, let me draw your attention to Marcel Mauss’s treatment of the history of the notion of ‘the person’, in which he needs only one paragraph to explain that our notion of person, though it would not seem to have been completely absent from the ancient Indian mind, ‘was dissolved (again) almost irrevocably’: the ‘self’ (i.e. the ego) is according to one school of Indian thought (‘Brahmanists’) an ‘illusory thing’, to another, the Buddhists, a ‘separable compound of skandha’, the annihilation of which is to be sought. 2 What a sad world we must be prepared to arrive in when we pass through the customs at Delhi Airport! 
 
 M. Mauss’s student, Louis Dumont, fully envisaged the intricacies and lim itations of comparing the experience of existence (‘Existenzerfahrung’) in two entirely different socio-cultural contexts. At the outset of his Homo Hierarchi cus Dumont warns the reader never to lose sight of an ambiguity in our notion of ‘the individual’: (1) ‘l’agent empirique’, (2) ‘l’ˆetre de raison, le sujet normatif des institutions’ (Dumont 1966, 22). Whereas the individual in the first sense is virtually co-existent with the human race, the second seems more peculiar to our society ‘comme en font foi les valeurs d’´egalit´e et de libert´e, c’est une repr´esentation id´eelle et id´eale que nous avons’ (Dumont 1966, 22). To desig nate this second category we should employ, unlike Dumont, the word ‘person’ and use it as an operational definition of an individual who somehow conceives, or is supposed to conceive of himself, rightly or wrongly, as an (ethical) value sui generis, ‘la mesure de toutes choses’, and end in itself. 3 
 
@@ -49,7 +49,7 @@ As Dumont has argued, the idea of an individual as ‘person’ is an ideal and 
 
 3 Dumont 1966, 23. By taking this definition as our point of reference we align ourselves with the concept of person as current in post-Kantian Western philosophy, a tradition that is understood in Hubbeling’s concept of ‘personc’ and ‘personc0 ’ (Hubbeling 1990, 17 ff.). On the other hand, we refer to ‘man’ by the term ‘individual’, conceiving of him as characterised by selfconsciousness and/or will—that is without any implication of moral and aesthetic categories. To avoid misunderstanding, it may again be stated explicitly, that we consider these definitions ‘operational’, hence neither propositions concerning the ‘real’ nature of human beings can be derived from them, nor value judgements. 
 
-4 Dumont 1966, 300. For a critical evaluation see i.a. Burghart 1983, in particular with respect to Dumont’s concept of the ‘renouncer’, which appears sociologically and re ligiously to be a more complex phenomenon. Though, undeniably, the ethos of the renouncer and the householder differ in several important aspects, I agree with Richard Burghart’s view, developed in reaction to Dumont’s simplifications, saying householders and renouncers operate through ‘two different conceptual universes’, that the latter is too much a theoretical construction. Burghart 1983, 650. Cf. Van der Veer 1986, 61–67. 
+4 Dumont 1966, 300. For a critical evaluation see i.a. Burghart 1983, in particular with respect to Dumont’s concept of the ‘renouncer’, which appears sociologically and re ligiously to be a more complex phenomenoṇThough, undeniably, the ethos of the renouncer and the householder differ in several important aspects, I agree with Richard Burghart’s view, developed in reaction to Dumont’s simplifications, saying householders and renouncers operate through ‘two different conceptual universes’, that the latter is too much a theoretical constructioṇBurghart 1983, 650. Cf. Van der Veer 1986, 61–67. 
 
 
 
@@ -81,7 +81,7 @@ My guide fully disagreed with the view. He, convinced that he will come back on 
 
 
 
-in and experience the proximity and love of goḍFor the ordinary Hindu of today god is experienced through his presence in certain landscapes, the temple and the heart. To this I may add what everyone knows who has visited Hindu temples, viz. that the atmosphere there is usually one of great joy and exuberance, which strengthens the individual and makes it worthwhile to be present in the flesh and in the company of fellow devotees. There can be little doubt that many a Hindu experiences a great measure of liberty and solidarity, though perhaps not equality, in the daily routine of his religion. To understand this ethos in its genesis we should consider the religious currents that informed it. 
+in and experience the proximity and love of god. For the ordinary Hindu of today god is experienced through his presence in certain landscapes, the temple and the heart. To this I may add what everyone knows who has visited Hindu temples, viz. that the atmosphere there is usually one of great joy and exuberance, which strengthens the individual and makes it worthwhile to be present in the flesh and in the company of fellow devotees. There can be little doubt that many a Hindu experiences a great measure of liberty and solidarity, though perhaps not equality, in the daily routine of his religioṇTo understand this ethos in its genesis we should consider the religious currents that informed it. 
 
 The Sufis 
 
@@ -141,7 +141,7 @@ Allah is the Creator, and though the metaphor of ‘creation’, which implies H
 
 13 Cf. B¨owering 1980, 165 f., describing the tradition of Sahl Al-Tustarī: 
 
-Tustarī’s range of mystical ideas depicts man as being driven in his inner dynamics to his ultimate destiny, described by the events of the Day of Resurrection. This post-existential Day, beyond the phenomenal existence of man in the world of cre ation, introduces man to his final and lasting state in the eternal presence of the Transcendent, and opens up for him the life of paradise, gratified by the bliss of theo phanic encounter. [. . . ] The theophany, as the perpetual self-manifestation of the divine Reality, thus transfigures man through its irradiation, transforms him through its illumination, and brings his life of ultimate destiny and final glory to fulfilment. 
+Tustarī’s range of mystical ideas depicts man as being driven in his inner dynamics to his ultimate destiny, described by the events of the Day of ResurrectioṇThis post-existential Day, beyond the phenomenal existence of man in the world of cre ation, introduces man to his final and lasting state in the eternal presence of the Transcendent, and opens up for him the life of paradise, gratified by the bliss of theo phanic encounter. [. . . ] The theophany, as the perpetual self-manifestation of the divine Reality, thus transfigures man through its irradiation, transforms him through its illumination, and brings his life of ultimate destiny and final glory to fulfilment. 
 
 Cf. op. cit. 264 f. 
 
@@ -153,7 +153,7 @@ Cf. op. cit. 264 f.
 
 1 / An Indian Image of Man 9 
 
-creatures, His slaves, absolutely inferior to Him. And Allah in His essence is One. In His essence there can be no interplay of personality. The Islamic conception of plurality in the Divine Unity signifies not the relation of persons within that Unity, but the relations existing between the Unity and the manifold aspects in which it reveals itself. All these aspects are reflected in the Perfect Man, who may therefore be considered as the personified Idea in and through whom the Divine nature makes itself known. While the Christian doctrine expresses ‘the realisation of human personality as characterised by and consummated in the indwelling reality of the Spirit of Christ, which is God’, in Mohammedan theology the main stress falls on Revelation. 14 
+creatures, His slaves, absolutely inferior to Him. And Allah in His essence is One. In His essence there can be no interplay of personality. The Islamic conception of plurality in the Divine Unity signifies not the relation of persons within that Unity, but the relations existing between the Unity and the manifold aspects in which it reveals itself. All these aspects are reflected in the Perfect Man, who may therefore be considered as the personified Idea in and through whom the Divine nature makes itself knowṇWhile the Christian doctrine expresses ‘the realisation of human personality as characterised by and consummated in the indwelling reality of the Spirit of Christ, which is God’, in Mohammedan theology the main stress falls on Revelation. 14 
 
 We may add that in Hindu theology as reflected in Sanskrit literature up to the time of the introduction of Islam in India the main emphasis fell on merging into god. 15 
 
@@ -163,9 +163,9 @@ As a matter of course the Sufi orders did not meet with the same impedi ments fr
 
 14 Nicholson 1964, 95. 
 
-15 This may be illustrated by examples taken from two texts, the Bhagavadgītā (14.27; 6.20–27; 12.9–10; 11.54; 6.31) and the Agastyasam. hitā (23.46; 20.24; 20.29–32; 5.38– 39; 19.23–24). Both teach primarily the doctrine of devotion to a personal god (Kr.- s.n. a/Rāma), yet acknowledge two methods (yoga) of reaching him: worship of a god who loves his devotees for whose sake he has descended to earth, and meditation on the absolute divinity. Though both texts declare that the method of devotional service and activity (bhakti) is to be preferred in the present circumstances, the ultimate state attained by both methods is more or less the same, viz. union, that is submersion into the divine. The Bhagavadgītā stands at the beginning of devotional Hinduism, the Agastyasam. hitā concludes, as it were, the pre-Muslim era of North India. 
+15 This may be illustrated by examples taken from two texts, the Bhagavadgītā (14.27; 6.20–27; 12.9–10; 11.54; 6.31) and the Agastyasam. hitā (23.46; 20.24; 20.29–32; 5.38– 39; 19.23–24). Both teach primarily the doctrine of devotion to a personal god (Kr.- s.ṇa/Rāma), yet acknowledge two methods (yoga) of reaching him: worship of a god who loves his devotees for whose sake he has descended to earth, and meditation on the absolute divinity. Though both texts declare that the method of devotional service and activity (bhakti) is to be preferred in the present circumstances, the ultimate state attained by both methods is more or less the same, viz. union, that is submersion into the divine. The Bhagavadgītā stands at the beginning of devotional Hinduism, the Agastyasam. hitā concludes, as it were, the pre-Muslim era of North India. 
 
-16 Mujeeb 1967, 138; Schimmel 1980, 26f; cf. En.Is. II, 51. 
+16 Mujeeb 1967, 138; Schimmel 1980, 26f; cf. EṇIs. II, 51. 
 
 
 
@@ -183,7 +183,7 @@ Among the traditional orders that were established in India the Cishtī order ˇ
 
 Of all the observances the Sufis brought with them into India none found such fertile soil as dhikr (‘recollection’), which involves the practice of repeating the 
 
-17 Mujeeb 1967, 139 ff.; cf. En.Is. II, 51. 
+17 Mujeeb 1967, 139 ff.; cf. EṇIs. II, 51. 
 
 18 Mujeeb 1967, 289; McGregor 1984, 23; Schimmel 1980, 23, 4l f. 
 
@@ -211,9 +211,9 @@ The Yogis
 
 The frequent mention of Yogis in medieval Indian texts refers to a rather ill defined group of practitioners of yoga which may range from itinerant charla tans, conjurers, and wonder-workers of all sorts to sincere ascetics who through rigorous self-discipline endeavoured to transcend the human condition, to at tain a state of complete autonomy by defying the laws of nature. In many cases they would not have belonged to any particular school or organisation, and at tempts to unite the various and often legendary traditions of individual adepts into one framework, like that of the 84 siddhas or of the 9 nāths, were certainly made in retrospect. The Yogis of the 13th and 14th centuries were the heirs of a rich and long tradition of uncompromising experiments with human phys iological and psychological processes. Physiological exploration of the human body had led to a system of discipline that is usually designated as Hat.hayoga. 
 
-23 Nicholson 1963, 10; En.Is. II, 223 f. 
+23 Nicholson 1963, 10; EṇIs. II, 223 f. 
 
-24 Gramlich 1976 II, 379: ‘Der D¯ikr kann eine rein ¨ausserliche und mechanische Repetition eines Namens Gottes sein. In dieser Form ist er kein mystisches Ph¨anomen. Aber er ist seinem Wesen nach dazu angelegt, in mystische Sph¨aren ¨uberzugreifen.’ For a description of this process see op. cit. 378 ff. 
+24 Gramlich 1976 II, 379: ‘Der D¯ikr kann eine rein ¨ausserliche und mechanische Repetition eines Namens Gottes seiṇIn dieser Form ist er kein mystisches Ph¨anomeṇAber er ist seinem Wesen nach dazu angelegt, in mystische Sph¨aren ¨uberzugreifen.’ For a description of this process see op. cit. 378 ff. 
 
 25 Shaykh Safī al-Dīn of Uch (Bahawalpur dstr. Pakistan), middle of the 11th century, is said to have defeated a Yogi in a super-natural contest (Rizvi 1978 I, lll f.), and similar stories are told of later Sufi shaykhs, as for instance Khwādja Mu,īn al-Dīn (Rizvi op. cit. 117; cf. Vaudeville 1974, 94) and many others (Mujeeb 1967, 165). 
 
@@ -231,7 +231,7 @@ ln addition to the movement that sought complete control over mind and body by m
 
 In the centuries under discussion a group of wandering Yogis appeared on the scene who cultivated the ‘sciences’ of Hat.hayoga and Rasāyana, and considered themselves to be the descendants of the semi-mythological preceptors Macche ndranāth and Gorakhnāth. These so-called Nāth Yogis or Gorakhnāthīs stood outside the pale of orthodoxy and must have enjoyed great popularity. Nothing is known about the earliest form of their organisation, but the oldest centres or monasteries (mat.has) may date from the 14th century. 27 They were not the first sect within Saivism to be organized into monastic orders, 28 yet their organising may have found a stimulus in their Sufi antagonists, as has been suggested above. 29 
 
-Reason why attention is paid to the Nāth Yogis in the present context is that they represent an influential and significant popular phenomenon that contributed largely to the image of the perfect man in the eyes of the common people. The Nāth Yogis embody the belief that the individual human being, irrespective of caste, can attain perfection in this body, here and now. As in heritors of the alchemic tradition, the Yogis tend to identify the supra-natural or ‘divine body’ (divyadeha), which is attained in the highest state of perfection (i.e. when identity with Siva is realised), and the natural body that is trans- ´ muted to perfection by yoga (siddhadeha). In this connexion they subscribe to the position expressed in the alchemic text Rasārn. ava (1.8–9): 
+Reason why attention is paid to the Nāth Yogis in the present context is that they represent an influential and significant popular phenomenon that contributed largely to the image of the perfect man in the eyes of the common people. The Nāth Yogis embody the belief that the individual human being, irrespective of caste, can attain perfection in this body, here and now. As in heritors of the alchemic tradition, the Yogis tend to identify the supra-natural or ‘divine body’ (divyadeha), which is attained in the highest state of perfection (i.e. when identity with Siva is realised), and the natural body that is trans- ´ muted to perfection by yoga (siddhadeha). In this connexion they subscribe to the position expressed in the alchemic text Rasārṇava (1.8–9): 
 
 Release during life-time (jīvanmukti), i.e. realisation of one’s identity with Siva, ´ is attained by him whose body is no longer subject to decay and death, O Great Goddess. Even for gods this is a precious thing (durlabha). But release (moks.a) that is accompanied by the break-up of the body, that kind of release is useless, for, O Goddess, even a donkey is liberated when his body falls apart. 
 
@@ -241,7 +241,7 @@ Release during life-time (jīvanmukti), i.e. realisation of one’s identity wit
 
 29 The abbots (mahant) of the Gorakhnāth monasteries, for instance, are frequently called pīrs (Briggs 1938, 8; Vaudeville 1974, 95). Ghurye 1953, 157 makes some interesting remarks: 
 
-First, the most important centres of the Nāthapanthīs are situated in predominantly Muslim localities. [. . . ] Second, the partiality of the Nāthapanthīs for the goddess Hingalaj on the Makran Coast (see Bakker & Entwistle 1983, 73–85) must have brought them in close contact with Muslim population. Third, we know it from history that the Nāthapanthīs had repeated trouble with the Muslims. The temple of Gorakhnātha at Gorakhpur is known to have been destroyed by the Muslims twice or thrice, the Nāthapanthīs having rebuilt it every time. The daily course of life that is lived at Nāthapanthī centres, typically in the past, approximates the life of the Muslim Pir. 
+First, the most important centres of the Nāthapanthīs are situated in predominantly Muslim localities. [. . . ] Second, the partiality of the Nāthapanthīs for the goddess Hingalaj on the Makran Coast (see Bakker & Entwistle 1983, 73–85) must have brought them in close contact with Muslim populatioṇThird, we know it from history that the Nāthapanthīs had repeated trouble with the Muslims. The temple of Gorakhnātha at Gorakhpur is known to have been destroyed by the Muslims twice or thrice, the Nāthapanthīs having rebuilt it every time. The daily course of life that is lived at Nāthapanthī centres, typically in the past, approximates the life of the Muslim Pir. 
 
 
 
@@ -275,9 +275,9 @@ The cultural forces, exemplified by Yogis and Sufis, which manifested them selve
 
 the spirit that fostered egalitarianism in defiance of the caste system—this cru cial shift in the Indian cultural pattern reached its acme in the movement of the Sants. The Sants, i.e. the saints, are the pivot of cultural developments in northern India during the period under consideration (the 14th to 16th cen turies). For the first time the lower classes, cotton-printers, weavers, cobblers, barbers, and butchers raised their voices, and soon the country resounded with their devotional vernacular poetry, which rapidly attained to an astonishingly sophisticated level. We may conceive of the Sant movement as the first success ful reaction of the indigenous genius against the foreign domination to which it had become exposed. 
 
-As a matter of fact, the Sant movement was deeply influenced by Islamic attitudes. Its uncompromising monotheism and devotion towards one tran scendent god, its rejection of idol worship, and its refusal to attach much sig nificance to caste distinctions are not conceivable without the incitement of Islam. These concessions went so far that the Sant movement can hardly be considered as pertaining to Hinduism in the traditional sense. In fact its ex ponents were individualists who rejected the traditional precepts and practices of Islam and Hinduism alike and who created a cultural synthesis that stood on its own. They were zealots, hankering for God, and they harnessed their lives in order to contact Him. Socially they were neither wandering ascetics nor settled monks or householders. The orthodox division of the four stages of life did not concern them. They were unorganized and exalted laymen, who renounced as much of their social and religious duties as possible in order to devote themselves to singing the Name of goḍTheir world-view was basically puritanical and in several respects they resembled the protestant movement of the 16th century Europe. Their enthusiasm may have inspired the masses, but the following they attracted became organized only after their death. This was the case, for instance, with Kabīr who, more than any of his contemporaries, embodied the Sant movement. 
+As a matter of fact, the Sant movement was deeply influenced by Islamic attitudes. Its uncompromising monotheism and devotion towards one tran scendent god, its rejection of idol worship, and its refusal to attach much sig nificance to caste distinctions are not conceivable without the incitement of Islam. These concessions went so far that the Sant movement can hardly be considered as pertaining to Hinduism in the traditional sense. In fact its ex ponents were individualists who rejected the traditional precepts and practices of Islam and Hinduism alike and who created a cultural synthesis that stood on its owṇThey were zealots, hankering for God, and they harnessed their lives in order to contact Him. Socially they were neither wandering ascetics nor settled monks or householders. The orthodox division of the four stages of life did not concern them. They were unorganized and exalted laymen, who renounced as much of their social and religious duties as possible in order to devote themselves to singing the Name of goḍTheir world-view was basically puritanical and in several respects they resembled the protestant movement of the 16th century Europe. Their enthusiasm may have inspired the masses, but the following they attracted became organized only after their death. This was the case, for instance, with Kabīr who, more than any of his contemporaries, embodied the Sant movement. 
 
-Kabīr, a weaver of Islamized stock (julāhā), active in the mid 15th century, promulgated devotion to an unqualified (nirgun. a) ultimate being that reveals itself graciously to the devotee through its Name. The Name of god, mostly rama ¯ ,33 is the mystical scheme that connects the ineffable being with those who love him (it?). By repeating the Name of god the devotee becomes imbued with it, unites with god. 34 Though the god of the Sants can hardly be called personal, the relationship between god and soul is, paradoxically, described in terms of love (prema-bhakti). It may be clear how much this movement owed to Sufism. Not only the doctrine of love and grace as the medium between this and 
+Kabīr, a weaver of Islamized stock (julāhā), active in the mid 15th century, promulgated devotion to an unqualified (nirguṇa) ultimate being that reveals itself graciously to the devotee through its Name. The Name of god, mostly rama ¯ ,33 is the mystical scheme that connects the ineffable being with those who love him (it?). By repeating the Name of god the devotee becomes imbued with it, unites with god. 34 Though the god of the Sants can hardly be called personal, the relationship between god and soul is, paradoxically, described in terms of love (prema-bhakti). It may be clear how much this movement owed to Sufism. Not only the doctrine of love and grace as the medium between this and 
 
 33 See below, p. 466. 
 
@@ -309,23 +309,23 @@ All authors who have dealt with the Sants, and especially Vaudeville (1974, 120)
 
 35 Cf. Ahmad 1964, 142: 
 
-Thus, most of the ideas underlying all varieties of the Bhakti movement such as religion of love, monotheism, revolt against the formalism of orthodoxy and the basic principles of egalitarianism are of Hindu origin. They were brought into relief by Muslim example, stimulus, and challenge. 
+Thus, most of the ideas underlying all varieties of the Bhakti movement such as religion of love, monotheism, revolt against the formalism of orthodoxy and the basic principles of egalitarianism are of Hindu origiṇThey were brought into relief by Muslim example, stimulus, and challenge. 
 
-36 This theoretical background explains the schematic function attributed to the Name of god by the Sants. The Name is a sort of cosmic force or mantra that can be appropriated by the devotee rather than a sign that conveys god’s personality. It embodies the quintessence of his being, but this quintessence is devoid of personality (nirgun. a). 
-
-
+36 This theoretical background explains the schematic function attributed to the Name of god by the Sants. The Name is a sort of cosmic force or mantra that can be appropriated by the devotee rather than a sign that conveys god’s personality. It embodies the quintessence of his being, but this quintessence is devoid of personality (nirguṇa). 
 
 
 
 
 
-Although Vaudeville exaggerates the Yogis’ contribution, since much that she ascribes to Nāth influences may actually be attributed to the common stock of esoteric occultism developed in Vais.n. ava Sam. hitās, Saiva ´ Agamas, and ¯ Sākta ´ Tantras, the important point to note is that the Sants shared with the Yogis this anti-brahmanical individualistic self-asserting ethos. Unquestionably, the verses of the Sant poets generally contain a stronger moral and social emphasis than those of the Yogis, yet also in the teachings of the former one would look in vain for a philosophy that establishes the ethical value of the individual per se. Kabīr’s god, despite being conceived of as the ‘perfect instructor’ (sadguru), a concept borrowed from the Yogis, is no person and hence no ethical substance. The greatness of Kabīr lies in his waywardness, in his courage to break with conventional codes, in the superb manner in which he interprets the deepest religious sentiments of the ordinary people. As the greatest of the Sant poets, the personality of Kabīr epitomizes the self-esteem of the lower castes whose exalted voice he was. 
+
+
+Although Vaudeville exaggerates the Yogis’ contribution, since much that she ascribes to Nāth influences may actually be attributed to the common stock of esoteric occultism developed in Vais.ṇava Sam. hitās, Saiva ´ Agamas, and ¯ Sākta ´ Tantras, the important point to note is that the Sants shared with the Yogis this anti-brahmanical individualistic self-asserting ethos. Unquestionably, the verses of the Sant poets generally contain a stronger moral and social emphasis than those of the Yogis, yet also in the teachings of the former one would look in vain for a philosophy that establishes the ethical value of the individual per se. Kabīr’s god, despite being conceived of as the ‘perfect instructor’ (sadguru), a concept borrowed from the Yogis, is no person and hence no ethical substance. The greatness of Kabīr lies in his waywardness, in his courage to break with conventional codes, in the superb manner in which he interprets the deepest religious sentiments of the ordinary people. As the greatest of the Sant poets, the personality of Kabīr epitomizes the self-esteem of the lower castes whose exalted voice he was. 
 
 The Bhaktas 
 
-However, there was a more down to earth, pedestrian strand in this outburst of devotion. It seems, a priori, very unlikely that the majority of devotees, who since time immemorial had approached god through an idol, i.e. who had worshipped his visual manifestations (sagun. a), would give up the habits under the influence of such ecstatics like Kabīr. The Sant owed his popularity to his charisma, to the fact that he was recognized as the embodiment of perfect man, but this does not imply that his followers shared his view of the absolute. Moreover, it could well be that many of the Sants themselves were in reality more closely affiliated to Vais.n. ava bhakti as the doctrine of nirgun. a would suggest. There seems to be sufficient evidence for the view expressed by me earlier (Bakker 1986 I, 123) that, from their inception, the Sant movement and the cult of the Name were in constant touch with Vais.n. ava religion from which they partly derived and into which sections of them would eventually be reabsorbeḍThis view receives support from Friedhelm Hardy’s observations, which led him to infer: ‘that a simplistic usage of terms like nirgun. a, sant, advaita etc. creates lines of demarcation which, by using a different type of conceptual framework, reveal themselves as artificial’ (Hardy 1983b, 149). 
+However, there was a more down to earth, pedestrian strand in this outburst of devotioṇIt seems, a priori, very unlikely that the majority of devotees, who since time immemorial had approached god through an idol, i.e. who had worshipped his visual manifestations (saguṇa), would give up the habits under the influence of such ecstatics like Kabīr. The Sant owed his popularity to his charisma, to the fact that he was recognized as the embodiment of perfect man, but this does not imply that his followers shared his view of the absolute. Moreover, it could well be that many of the Sants themselves were in reality more closely affiliated to Vais.ṇava bhakti as the doctrine of nirguṇa would suggest. There seems to be sufficient evidence for the view expressed by me earlier (Bakker 1986 I, 123) that, from their inception, the Sant movement and the cult of the Name were in constant touch with Vais.ṇava religion from which they partly derived and into which sections of them would eventually be reabsorbeḍThis view receives support from Friedhelm Hardy’s observations, which led him to infer: ‘that a simplistic usage of terms like nirguṇa, sant, advaita etc. creates lines of demarcation which, by using a different type of conceptual framework, reveal themselves as artificial’ (Hardy 1983b, 149). 
 
-The soil on which an emotional type of bhakti directed either to Kr.s.n. a or to Rāma could grow was prepared before the Muslim conquest. The germs of devotion towards Rāma were still couched in an intellectual and ritualistic framework peculiar to the Pā˜ncarātra tradition, but remarkable concessions to popular demand were already made. The Agastyasam. hitā (12th century), for instance, acknowledged the singing of god’s Name, rama ¯ , and the ‘re membering’ (smaran. a) of his exploits as suitable methods, open to everyone, for realizing god (Bakker 1986 I, 67 ff.). Somehow the pedantic and hieratic ‘higher’ Hinduism of the North interacted with the more personal, emotional forms of Visnuism of the South, but exactly how this process operated remains 
+The soil on which an emotional type of bhakti directed either to Kr.s.ṇa or to Rāma could grow was prepared before the Muslim conquest. The germs of devotion towards Rāma were still couched in an intellectual and ritualistic framework peculiar to the Pā˜ncarātra tradition, but remarkable concessions to popular demand were already made. The Agastyasam. hitā (12th century), for instance, acknowledged the singing of god’s Name, rama ¯ , and the ‘re membering’ (smaraṇa) of his exploits as suitable methods, open to everyone, for realizing god (Bakker 1986 I, 67 ff.). Somehow the pedantic and hieratic ‘higher’ Hinduism of the North interacted with the more personal, emotional forms of Visnuism of the South, but exactly how this process operated remains 
 
 
 
@@ -337,13 +337,13 @@ The soil on which an emotional type of bhakti directed either to Kr.s.n. a or to
 
 largly unsolveḍThe growth of the bhakti movement during the 13th to 15th centuries is eclipsed by that of the Sants. 
 
-This is not the place to dwell at length on the early forms of Vais.n. ava bhakti that evolved in South India. A most significant contribution to its understanding was made by Friedhelm Hardy (Hardy 1983a). From it we learn that the earliest Vais.n. ava mystics, the Al ¯¯vārs, started from anthropocentric premises. A positive world-view rooted in the self-awareness of the individual as a psychosomatic being combined with aesthetic sensibility. From it arose the aestheticizing attitude towards the natural environment which was employed ‘to visualize and savour’ human emotions (Hardy 1983a, 444). Mystic experiences were expressed by means of symbols derived from sensuous experiences and sexual imagery was used to express and evoke intensity of emotions. The awareness of the limitations of the human condition turned god into a distant beloved, which made feelings of separation (viraha) the emotional cornerstone of this type of bhakti. The relationship between god and Bhakta was basically an interpersonal one. But though god as another, as ‘you’, is fundamentally different from the ego, he, being as Kr.s.n. a the personification of beauty and love, allows a meeting halfway through his incarnations ‘in a variety of concrete forms available to the I’s senses and emotions: in the temple vigrahas (i.e. images), and similarly in poetry and in the heart.’ (Hardy 1983a, 443; cf. below, p. 551). 
+This is not the place to dwell at length on the early forms of Vais.ṇava bhakti that evolved in South India. A most significant contribution to its understanding was made by Friedhelm Hardy (Hardy 1983a). From it we learn that the earliest Vais.ṇava mystics, the Al ¯¯vārs, started from anthropocentric premises. A positive world-view rooted in the self-awareness of the individual as a psychosomatic being combined with aesthetic sensibility. From it arose the aestheticizing attitude towards the natural environment which was employed ‘to visualize and savour’ human emotions (Hardy 1983a, 444). Mystic experiences were expressed by means of symbols derived from sensuous experiences and sexual imagery was used to express and evoke intensity of emotions. The awareness of the limitations of the human condition turned god into a distant beloved, which made feelings of separation (viraha) the emotional cornerstone of this type of bhakti. The relationship between god and Bhakta was basically an interpersonal one. But though god as another, as ‘you’, is fundamentally different from the ego, he, being as Kr.s.ṇa the personification of beauty and love, allows a meeting halfway through his incarnations ‘in a variety of concrete forms available to the I’s senses and emotions: in the temple vigrahas (i.e. images), and similarly in poetry and in the heart.’ (Hardy 1983a, 443; cf. below, p. 551). 
 
 The main vehicle in which the emotional and sensuous bhakti of the Al ¯¯vārs 
 
-was exported to the North was the Bhāgavatapurān. a (9th century/early 10th century). It conveyed a religious attitude that was basically anthropocentric, maintaining ‘the validity of the whole person (body, senses, emotions, mind)’ (Hardy 1983a, 553). Intrinsically related to this self-awareness is the concep tion of an absolute being that is avowedly personal, endowed with qualities such as love, grace, beauty, and compassion. In later centuries poems deriving themes and inspiration from the Bhāgavatapurān. a began to circulate in north ern India. It would seem that in particular Bengal, where a Vais.n. ava-sahajiyā cult developed by integrating elements of Kr.s.n. a bhakti and ‘tantric’ sādhana (the latter we already encountered while discussing the Nāth Yogis), 37 played an important role in the transmission of the spirit of southern devotion into the northern realm. 
+was exported to the North was the Bhāgavatapurāṇa (9th century/early 10th century). It conveyed a religious attitude that was basically anthropocentric, maintaining ‘the validity of the whole person (body, senses, emotions, mind)’ (Hardy 1983a, 553). Intrinsically related to this self-awareness is the concep tion of an absolute being that is avowedly personal, endowed with qualities such as love, grace, beauty, and compassioṇIn later centuries poems deriving themes and inspiration from the Bhāgavatapurāṇa began to circulate in north ern India. It would seem that in particular Bengal, where a Vais.ṇava-sahajiyā cult developed by integrating elements of Kr.s.ṇa bhakti and ‘tantric’ sādhana (the latter we already encountered while discussing the Nāth Yogis), 37 played an important role in the transmission of the spirit of southern devotion into the northern realm. 
 
-Another, indirect, channel through which the bhakti movement was infused into upper India was the Viśis.t.ādvaita and kindred schools. From the 10th century onwards learned brahmins of the South, trained in Vedantic philos ophy, were engaged in coming to grips with popular devotion which tended to undermine their position. By far the greatest figure that emerged from this encounter was Rāmānuja (late 11th century). Rāmānuja succeeded bet ter than anyone before or after him in coming to terms with bhakti—on the one hand by transforming the abstract absolute of Advaita into a personal god 
+Another, indirect, channel through which the bhakti movement was infused into upper India was the Viśis.t.ādvaita and kindred schools. From the 10th century onwards learned brahmins of the South, trained in Vedantic philos ophy, were engaged in coming to grips with popular devotion which tended to undermine their positioṇBy far the greatest figure that emerged from this encounter was Rāmānuja (late 11th century). Rāmānuja succeeded bet ter than anyone before or after him in coming to terms with bhakti—on the one hand by transforming the abstract absolute of Advaita into a personal god 
 
 37 For reasons of space this interesting cult should presently be passed over. The reader is referred to Dimock 1966; Das Gupta 1969; S.K. De 1961. 
 
@@ -357,11 +357,11 @@ Another, indirect, channel through which the bhakti movement was infused into up
 
 endowed with (ethical) qualities who contains the world and the souls within him (advaita), yet remains distinct from them (viśis.t.a), thus leaving scope for a personal relationship between god and man, the latter’s liberation being ul timately dependent on the former’s grace (prasāda)—on the other hand by reformulating bhakti in intellectual terms, thus providing it with a theological basis that made it eventually acceptable for the brahmins of the North. The order in which Rāmānuja’s followers were organized, the Srīsam ´ . pradāya, seems only to have slowly penetrated into the North, but other southern Acāryas, ¯ founders of orders (sam. pradāyas), like Nimbārka (12th century?) and Madhva (13th century) also contributed to the (organized) spread of bhakti all over India. 38 
 
-In this context an idea propounded by Hardy seems to me to have a particu lar relevance. He points out that inherent in the bhakti experience of separation (viraha) is the urge to overcome the spatial and temporal distance from god: ‘a bhakti that defined itself by reference to space and time began to use space and time to “materialize” itself’ (Hardy 1983b, 144). The spatial interval was crossed when the southern Bhaktas moved northwards and recovered the puta tive sites where Kr.s.n. a’s amorous adventures had taken place according to the texts. In this way the mythical spatial realm elaborated in the Bhāgavatapurā n. a was reified in Vr.ndāvana and its surroundings, Vraja, and one of India’s most important pilgrimage centres sprang into existence. 
+In this context an idea propounded by Hardy seems to me to have a particu lar relevance. He points out that inherent in the bhakti experience of separation (viraha) is the urge to overcome the spatial and temporal distance from god: ‘a bhakti that defined itself by reference to space and time began to use space and time to “materialize” itself’ (Hardy 1983b, 144). The spatial interval was crossed when the southern Bhaktas moved northwards and recovered the puta tive sites where Kr.s.ṇa’s amorous adventures had taken place according to the texts. In this way the mythical spatial realm elaborated in the Bhāgavatapurā ṇa was reified in Vr.ndāvana and its surroundings, Vraja, and one of India’s most important pilgrimage centres sprang into existence. 
 
-But something more happeneḍAs we have seen, the North with its growing individualism was well prepared to receive the subjective emotionalism of the South and so the ecstatic cult of the Name was easily harmonized with the sen suality of southern devotion as soon as the political situation had stabilized and the socio-religious atmosphere became less tense. 39 But the northern attitude of not being satisfied with halfway solutions, the unquestioned belief that the individual could ultimately transcend his limitations and unite with god—be it in his own immortalized body as aspired to by the Yogis, or in a spiritual state of total merger as aimed at by the Sants and, to some extent, by the Sufis—this disposition contrived a means of crossing the ‘temporal’ separation as well. The tendency of the Al ¯¯vārs to substitute aesthetic experience for spiritual illumina tion was brought to its logical conclusion. A trend to identify bhukti (enjoying the world of the senses) and mukti (release from the pangs of the human con dition) could already be indicated in the Agastyasam. hitā (Bakker 1986 I, 74), and a similar thought was expressed in the Rasārn. ava quoted above (p. 12). The social and religious condition that had evolved in northern India in the 15th and 16th centuries was ripe for a theory which proclaimed that, although Vis.n. u’s avatāra as Kr.s.n. a in Vraja had happened a long time ago, his subtle presence in the places of dalliance (līlā) had not vanished at all. To experience 
+But something more happeneḍAs we have seen, the North with its growing individualism was well prepared to receive the subjective emotionalism of the South and so the ecstatic cult of the Name was easily harmonized with the sen suality of southern devotion as soon as the political situation had stabilized and the socio-religious atmosphere became less tense. 39 But the northern attitude of not being satisfied with halfway solutions, the unquestioned belief that the individual could ultimately transcend his limitations and unite with god—be it in his own immortalized body as aspired to by the Yogis, or in a spiritual state of total merger as aimed at by the Sants and, to some extent, by the Sufis—this disposition contrived a means of crossing the ‘temporal’ separation as well. The tendency of the Al ¯¯vārs to substitute aesthetic experience for spiritual illumina tion was brought to its logical conclusioṇA trend to identify bhukti (enjoying the world of the senses) and mukti (release from the pangs of the human con dition) could already be indicated in the Agastyasam. hitā (Bakker 1986 I, 74), and a similar thought was expressed in the Rasārṇava quoted above (p. 12). The social and religious condition that had evolved in northern India in the 15th and 16th centuries was ripe for a theory which proclaimed that, although Vis.ṇu’s avatāra as Kr.s.ṇa in Vraja had happened a long time ago, his subtle presence in the places of dalliance (līlā) had not vanished at all. To experience 
 
-38 Apart from the Vais.n. ava orders the Saiva Dasnāmī order seems also to have contributed ´ to diffusion of Vis.n. u bhakti in the North. See Hardy 1974; cf. De 1961, 23 ff. 39 Outstanding exponents of the blending are e.g. Caitanya and Tulsī Dās. Cf. Bakker 1986 I, 124. 
+38 Apart from the Vais.ṇava orders the Saiva Dasnāmī order seems also to have contributed ´ to diffusion of Vis.ṇu bhakti in the North. See Hardy 1974; cf. De 1961, 23 ff. 39 Outstanding exponents of the blending are e.g. Caitanya and Tulsī Dās. Cf. Bakker 1986 I, 124. 
 
 
 
@@ -371,11 +371,11 @@ But something more happeneḍAs we have seen, the North with its growing individ
 
 1 / An Indian Image of Man 19 
 
-his presence and to participate in his eternal sports only required the special eye and disposition of the Bhakta. The state of auto-suggestion pursued by the devotees allows them to perceive in the impoverished copses, pointed out to them by local pandits, the luxuriant forests in which Kr.s.n. a sporteḍThe holy sites were no longer seen as ‘souvenirs’ of a far past, but as actually im bued with divine presence. The whole sacred complex of Vr.ndāvana, like the city of Ayodhyā for the Rāma Bhakta (Bakker 1986 I, 139 ff.), turned by the end of the 16th century into a ‘mega-avatāra’ of the realm of myth. Sacred sites became conceived of as true replicas of paradise and god’s eternal līlās as being enacted simultaneously on two planes, unmanifest (aprakat.a), i.e. in heaven, and manifest (prakat.a), i.e. cognizable in the phenomenal worlḍThe Bhakta needed only to cultivate this hyper-sensitivity, this faculty to envisage, through the profane, the underlying divine aesthetic quality in order to realize communion with god. 
+his presence and to participate in his eternal sports only required the special eye and disposition of the Bhakta. The state of auto-suggestion pursued by the devotees allows them to perceive in the impoverished copses, pointed out to them by local pandits, the luxuriant forests in which Kr.s.ṇa sporteḍThe holy sites were no longer seen as ‘souvenirs’ of a far past, but as actually im bued with divine presence. The whole sacred complex of Vr.ndāvana, like the city of Ayodhyā for the Rāma Bhakta (Bakker 1986 I, 139 ff.), turned by the end of the 16th century into a ‘mega-avatāra’ of the realm of myth. Sacred sites became conceived of as true replicas of paradise and god’s eternal līlās as being enacted simultaneously on two planes, unmanifest (aprakat.a), i.e. in heaven, and manifest (prakat.a), i.e. cognizable in the phenomenal worlḍThe Bhakta needed only to cultivate this hyper-sensitivity, this faculty to envisage, through the profane, the underlying divine aesthetic quality in order to realize communion with god. 
 
 In order to explain this possibility of transcendental rapture, poetic aesthet ical theory was reformulated in a theological context of bhaktirasa (De 1961, 166 ff.). God himself and his divine retinue are the containers of sublime emo tions (rasa) that are pursued by the Bhaktas. The soteriological effect of the earthly holy places is due to their underlying divine beauty which, when per ceived by the eye of the Bhakta, evokes in him the very emotions that identify him with the archetypal divine actors. In his phantasy the devotee plays the role of one of god’s intimates. 
 
-In this way something of a revolution was accomplished in the Indian world view as represented in more literate forms of so-called higher Hinduism. Instead of seeking release from this world the Bhakta plunges into it. Instead of hoping to reach heaven and not to be born again the Bhakta intensifies his earthly experience and hopes to prolong it in a subsequent life. The ideal Bhakta tran scends the limitations of the human condition, which are invigorated by the laws and rules of caste and society. Hence the bhakti movement contributed largely to the ideal that emerged in the first half of the second millennium, according to which each individual, irrespective of caste, could attain to and participate in the divine, not in a nebulous hereafter, but here and now. At the same time it led the masses safely back into the fold of Hinduism. In this respect the bhakti movement that manifested itself throughout northern India in the 16th and 17th centuries may be seen as a successful restoration. But the background from which this movement emanated, the religious compound of Sufis, Yogis, Sants, and popular religion had effected a lasting change of perspective. Moks.a, release, became something that should preferably be ex perienced in this worlḍAs we have seen, this new ethos was anticipated by the Al ¯¯vārs (cf. Hardy 1983a, 484, 430, 448 ff.), and in several Sanskrit texts datable before the Muslim period, but its full growth only took place in 16th century North India. It is here, where the vernacular tended to fuse with the Great Sanskrit Tradition, that in an outburst of devotional poetry lyrics such as the following could be produced. 
+In this way something of a revolution was accomplished in the Indian world view as represented in more literate forms of so-called higher Hinduism. Instead of seeking release from this world the Bhakta plunges into it. Instead of hoping to reach heaven and not to be born again the Bhakta intensifies his earthly experience and hopes to prolong it in a subsequent life. The ideal Bhakta tran scends the limitations of the human condition, which are invigorated by the laws and rules of caste and society. Hence the bhakti movement contributed largely to the ideal that emerged in the first half of the second millennium, according to which each individual, irrespective of caste, could attain to and participate in the divine, not in a nebulous hereafter, but here and now. At the same time it led the masses safely back into the fold of Hinduism. In this respect the bhakti movement that manifested itself throughout northern India in the 16th and 17th centuries may be seen as a successful restoratioṇBut the background from which this movement emanated, the religious compound of Sufis, Yogis, Sants, and popular religion had effected a lasting change of perspective. Moks.a, release, became something that should preferably be ex perienced in this worlḍAs we have seen, this new ethos was anticipated by the Al ¯¯vārs (cf. Hardy 1983a, 484, 430, 448 ff.), and in several Sanskrit texts datable before the Muslim period, but its full growth only took place in 16th century North India. It is here, where the vernacular tended to fuse with the Great Sanskrit Tradition, that in an outburst of devotional poetry lyrics such as the following could be produced. 
 
 
 
@@ -385,15 +385,15 @@ In this way something of a revolution was accomplished in the Indian world view 
 
 
 
-What shall I do, once I have arrived in Vaikun.t.ha (Paradise), where there is no banyan where Kr.s.n. a plays the flute, no Yamunā river, no moutain Govardhan, [or] cow of Nanda? 
+What shall I do, once I have arrived in Vaikuṇt.ha (Paradise), where there is no banyan where Kr.s.ṇa plays the flute, no Yamunā river, no moutain Govardhan, [or] cow of Nanda? 
 
 Where there are none of those bowers, creepers, and trees, and no gentle fragant wind blows, no cuckoo, peacock, or swan sings; what is the joy of living there? 
 
-Where Kr.s.n. a does not place the flute on his lip and fill it with sound; no thought, word, or deed gives rise to the thrill and rapture of love, my friend! 
+Where Kr.s.ṇa does not place the flute on his lip and fill it with sound; no thought, word, or deed gives rise to the thrill and rapture of love, my friend! 
 
 Where there is no earthly Vr.ndāvana, father Nanda, [or] mother Yaśodā, 
 
-Govinda says: ‘abandonning the Lord and the joy of Nanda’s home stead (i.e. Braj): living there (i.e. Vaikun.t.ha) [would be] a misfor tune!’ 40 
+Govinda says: ‘abandonning the Lord and the joy of Nanda’s home stead (i.e. Braj): living there (i.e. Vaikuṇt.ha) [would be] a misfor tune!’ 40 
 
 This brings us back to the pandit of Ayodhyā, i.e. the ‘raw material’. It has become evident that the attitude towards life assumed by this devout brahmin adheres to the Hindu tradition that culminated in the 16th century. For him, as a sincere Bhakta, experiencing the proximity of god consists in cultivating the emotions that are evoked in the practice of worship and in participating in god’s divine play as enacted every day in his temples and the landscape of his holy sites. 
 
@@ -415,9 +415,9 @@ If as a bird, then let me dwell for ever in the boughs of a kadamba on the banks
 
 individual in traditional Hindu culture a ‘person’ is not so much his supposed intrinsic human capacity to act as a morally autonomous being within social ramifications, 41 as his realisation of an inner autonomy, i.e. of his potential capacity to transcend his natural as well as social definiteness by appropriating a system of religious symbols; in other words, his acknowledgement as a person in the Hindu context rather depends on the measure in which he succeeds in manifesting himself as enacting or personifying these symbols, or, to formulate it differently, his personhood, rather than something given, is something that can be acquired by degrees. 
 
-To give an example, the Bhakta, for instance, aspires to emancipation by evoking an emotional state (bhāva) that is traditionally ascribed to one of the archetypes affiliated with goḍThus he may identify himself with the milkmaids (gopīs) who develop their erotic feelings for Kr.s.n. a (mādhurya-rasa), or, he may assimilate to Hanumat, the servant of Rāma, in order to experience god’s proximity through sentiments of service and submission (dāsya-rasa). By integrating his religious and social life as much as possible his endeavour and zeal may be translated into social esteem and prestige. 
+To give an example, the Bhakta, for instance, aspires to emancipation by evoking an emotional state (bhāva) that is traditionally ascribed to one of the archetypes affiliated with goḍThus he may identify himself with the milkmaids (gopīs) who develop their erotic feelings for Kr.s.ṇa (mādhurya-rasa), or, he may assimilate to Hanumat, the servant of Rāma, in order to experience god’s proximity through sentiments of service and submission (dāsya-rasa). By integrating his religious and social life as much as possible his endeavour and zeal may be translated into social esteem and prestige. 
 
-A central category in this process is the notion of an eternal self or soul essential to each human being, which forms part of the divine and which only awaits emancipation. Partly, the degree of this emancipation is thought to be represented by caste. However, the institution of renunciation (sam. nyāsa) as well as the context of popular devotional religion offer alternative symbol systems, which may lead man up the rungs of Jacob’s ladder within this life. All this amounts to what is already almost an intellectual clich´e, viz. that, rather than promoting the ideal of Homo Aequalis, traditional Hindu culture fosters man as a Homo Hierarchicus. 
+A central category in this process is the notion of an eternal self or soul essential to each human being, which forms part of the divine and which only awaits emancipatioṇPartly, the degree of this emancipation is thought to be represented by caste. However, the institution of renunciation (sam. nyāsa) as well as the context of popular devotional religion offer alternative symbol systems, which may lead man up the rungs of Jacob’s ladder within this life. All this amounts to what is already almost an intellectual clich´e, viz. that, rather than promoting the ideal of Homo Aequalis, traditional Hindu culture fosters man as a Homo Hierarchicus. 
 
 41 For the development of ethical thought in Neo-hinduism under Western influence see especially Hacker 1978. 
 
@@ -431,7 +431,7 @@ A central category in this process is the notion of an eternal self or soul esse
 
 
 
-Die indische Herausforderung∗ 
+## Die indische Herausforderung 
 
 Hegels Beitrag zu einer europ¨aischen 
 
@@ -439,11 +439,11 @@ kulturhistorischen Diskussion
 
 Einleitung 
 
-In den Jahren 1979, 1980 und 1981 erschienen drei Bucher, die sich jeweils ¨ mit Hegels Indien-Konzeption als zentralem Thema befassen. Der Tatsache ih res kurz aufeinanderfolgenden Erscheinens ist es wahrscheinlich zuzuschreiben, daß die Autoren dieser drei Arbeiten wenig Gelegenheit hatten, um die Beitr¨age jeweils der beiden anderen zur Kenntnis zu nehmen. Und dementsprechend las sen sich diese drei Monographien als relativ unabh¨angige Forschungsbeitr¨age der Orient-Rezeption Hegels betrachten. Umso bemerkenswerter ist es, obwohl die drei Bucher in Aufbau und Umfang sehr unterschiedlich sind, daß die drei ¨ Autoren darin ubereinstimmen, gegen die weitverbreitete Auffassung Stellung ¨ zu beziehen, daß sich Hegels Interpretation der indischen Kultur haupts¨achlich auf sekund¨are und dubiose Informationen stutzte, die ihm ausschließlich da- ¨ zu dienten, seine Vorurteile uber den Wert nichteurop ¨ ¨aischer kultureller Lei stungen zu best¨arken. Vorurteile, die mit einem absoluten, rigiden Interpre tationsschema verbunden w¨aren, mit dem Hegel versuchte die Diversit¨at der Weltgeschichte zu einer Einheit zusammenzuschmieden, und die eine unbefan genen Kenttnisnahme und wissenschaflichen Urteilsfindung im Wege gestanden h¨atten. 
+In den Jahren 1979, 1980 und 1981 erschienen drei Bucher, die sich jeweils ¨ mit Hegels Indien-Konzeption als zentralem Thema befasseṇDer Tatsache ih res kurz aufeinanderfolgenden Erscheinens ist es wahrscheinlich zuzuschreiben, daß die Autoren dieser drei Arbeiten wenig Gelegenheit hatten, um die Beitr¨age jeweils der beiden anderen zur Kenntnis zu nehmeṇUnd dementsprechend las sen sich diese drei Monographien als relativ unabh¨angige Forschungsbeitr¨age der Orient-Rezeption Hegels betrachteṇUmso bemerkenswerter ist es, obwohl die drei Bucher in Aufbau und Umfang sehr unterschiedlich sind, daß die drei ¨ Autoren darin ubereinstimmen, gegen die weitverbreitete Auffassung Stellung ¨ zu beziehen, daß sich Hegels Interpretation der indischen Kultur haupts¨achlich auf sekund¨are und dubiose Informationen stutzte, die ihm ausschließlich da- ¨ zu dienten, seine Vorurteile uber den Wert nichteurop ¨ ¨aischer kultureller Lei stungen zu best¨arkeṇVorurteile, die mit einem absoluten, rigiden Interpre tationsschema verbunden w¨aren, mit dem Hegel versuchte die Diversit¨at der Weltgeschichte zu einer Einheit zusammenzuschmieden, und die eine unbefan genen Kenttnisnahme und wissenschaflichen Urteilsfindung im Wege gestanden h¨atten. 
 
 Im Jahr 1979 erschien in Paris Michel Hulins Buch Hegel et l’Orient; 1980 erschien in Rom Ignatius Viyagappas G.W.F. Hegel’s Concept of Indian Phi losophy und 1981 in Basel/Stuttgart Wilhelm Halbfass’ lndien und Europa, das im ersten Teil unter anderem Hegel behandelt. Es ist nicht meine Ab sicht, diese drei Arbeiten hier miteinander zu vergleichen oder zu besprechen, noch ihre soeben dargelegte Position zu bestreiten. 1 Im Gegenteil, ich denke, daß Hegel mit seinen Kenntnissen und Einsichten in bezug auf die indische 
 
-∗ The first version of this article was published in: Bakker, H., J. Schickel und B. Nagel, Indische Philosophie und europ¨aische Rezeption. Dinter Verlag, K¨oln [1994]. pp. 33–56. Dialectica Minora 5 
+∗ The first version of this article was published in: Bakker, H., J. Schickel und B. Nagel, Indische Philosophie und europ¨aische RezeptioṇDinter Verlag, K¨oln [1994]. pp. 33–56. Dialectica Minora 5 
 
 1 Vgl. Walter Jaeschke zu Hegels Vorlesungen uber die Philosophie der Religion ¨ , Teil 2, p. xi: 
 
@@ -459,7 +459,7 @@ Nichts ist Hegels Vorgehen weniger angemessen als das g¨angige Bild des Kathede
 
 
 
-Kultur die uberwiegende Zahl seiner Zeitgenossen weit ¨ ubertroffen hat. Viel- ¨ mehr ist es mein Ziel, diese Position anhand einer historischen Analyse der Entwicklung, die sein Denken uber Indien und insbesondere die indische Phi- ¨ losophie durchlaufen hat, n¨aher zu illustrieren. Diese M¨oglichkeit bietet uns die kritische Ausgabe der Einleitung, die den ersten Teil von Hegels Vorlesun gen zur Geschichte der Philosophie bildet und von Johannes Hoffmeister 1940 herausgegeben wurde. Der Text von vier zweij¨ahrlich gehaltenen Vorlesungs zyklen dokumentiert den Entwicklungsgang eines Denkers auf eine, verglichen mit den meisten Philosophien der Geschichte, ungew¨ohnlich detaillierte Wei se. Desto auff¨alliger ist es, daß keiner der drei genannten Autoren, wie es mir scheint, von den philosophisch-historischen M¨oglichkeiten dieses ‘document hu main’ ausfuhrlich Gebrauch gemacht hat. ¨ 2 
+Kultur die uberwiegende Zahl seiner Zeitgenossen weit ¨ ubertroffen hat. Viel- ¨ mehr ist es mein Ziel, diese Position anhand einer historischen Analyse der Entwicklung, die sein Denken uber Indien und insbesondere die indische Phi- ¨ losophie durchlaufen hat, n¨aher zu illustriereṇDiese M¨oglichkeit bietet uns die kritische Ausgabe der Einleitung, die den ersten Teil von Hegels Vorlesun gen zur Geschichte der Philosophie bildet und von Johannes Hoffmeister 1940 herausgegeben wurde. Der Text von vier zweij¨ahrlich gehaltenen Vorlesungs zyklen dokumentiert den Entwicklungsgang eines Denkers auf eine, verglichen mit den meisten Philosophien der Geschichte, ungew¨ohnlich detaillierte Wei se. Desto auff¨alliger ist es, daß keiner der drei genannten Autoren, wie es mir scheint, von den philosophisch-historischen M¨oglichkeiten dieses ‘document hu main’ ausfuhrlich Gebrauch gemacht hat. ¨ 2 
 
 Die Jahre 1820–1825 
 
@@ -483,7 +483,7 @@ Dieses erste Reich ist die vom patriachalischen Naturganzen ausgehende, in sich 
 
 In den darauffolgenden Jahren sturzt Hegel sich, sofern wir seinem Bio- ¨ graphen Rosenkranz Glauben schenken m¨ogen, ‘mit wahrer Begeisterung und gewohnter Nachhaltigkeit’ in die Studien der morgenl¨andischen Kulturen. 5 Ein erster Niederschlag dieser Studien findet sich in den Vorlesungen uber die Phi- ¨ losophie der Weltgeschichte, die Hegel erstmals im Winter 1822/23 h¨alt, 6 und in denen der Abschnitt uber Indien selbst siebzig gedruckte Seiten umfaßt. ¨ 7 Im Grunde geht es hier um die Widerlegung der (von ihm bestrittenen) Ge schichtsauffassung, die, in Deutschland durch Herder initiiert, um Zeitalter der Romantik einen großen Anhang erworben hatte und derzufolge Indien als Wie ge und Urbrunnen aller Reinheit und Weisheit betrachet wurde. Vor allem Friedrich Schlegel konstruierte in seinem Werk Uber die Sprache und Weisheit ¨ der Indier einen Entwicklungsgang der Menschheit, der diametral demjenigen von Hegel gegenuberstanḍSchlegel sah im Verlauf der Geschichte nur einen ¨ Verfall, demgem¨aß die ursprungliche reine g ¨ ¨ottliche Emanation durch den Ver stand allm¨ahlich korrumpiert und verdunkelt wird. 
 
-Ohne die stets erneuerte Anregung dieses belebenden Prinzips (d.h. ‘das immer von Zeit zu Zeit geschehene Eingreifen der orientalischen Philosophie’) wurde der ¨ europ¨aische Geist sich wohl nie so hoch erhoben haben, oder doch fruhe (sic) wieder ¨ gesunken sein. Auch die h¨ochste Philosophie der Europ¨aer, der Idealismus der Vernunft, so wie ihm griechische Selbstdenker aufstellten, wurde wohl, an die F ¨ ulle ¨ der Kraft und des Lichts in dem orientalischen Idealismus der Religion gehalten, nur als ein schwacher prometheischer Funke gegen die volle himmlische Glut der Sonne erscheinen, nur geraubt und immer wieder zu erl¨oschen drohend. 8 
+Ohne die stets erneuerte Anregung dieses belebenden Prinzips (d.h. ‘das immer von Zeit zu Zeit geschehene Eingreifen der orientalischen Philosophie’) wurde der ¨ europ¨aische Geist sich wohl nie so hoch erhoben haben, oder doch fruhe (sic) wieder ¨ gesunken seiṇAuch die h¨ochste Philosophie der Europ¨aer, der Idealismus der Vernunft, so wie ihm griechische Selbstdenker aufstellten, wurde wohl, an die F ¨ ulle ¨ der Kraft und des Lichts in dem orientalischen Idealismus der Religion gehalten, nur als ein schwacher prometheischer Funke gegen die volle himmlische Glut der Sonne erscheinen, nur geraubt und immer wieder zu erl¨oschen drohend. 8 
 
 Schon bald fuhlte sich Hegel diesem ersten deutschen ‘Indologen’ aufgrund ¨ seiner eigenen Studien uberlegen und bemerkt ¨ uber ihm, daß ‘er zwar einer der ¨ ersten Deutschen sei, die sich mit indischer Philosophie besch¨aftigt haben; aber er ist noch nicht weit damit gekommen; es zeigt sich gelegentlich, daß er weiter nichts als die Inhaltsangabe des Ramayana gelesen hat.’ 9 
 
@@ -491,9 +491,9 @@ Schon bald fuhlte sich Hegel diesem ersten deutschen ‘Indologen’ aufgrund ¨
 
 6 Der Handschrift nach zu urteilen, die Hegel selbst fur seinen ersten Vorlesungszyklus ¨ uber die ¨ Philosophie der Religion 1821 verfertigte (alle Nachschriften dieser Vorlesungen sind verlorengegangen), hat er hierin die indische Religion als solche noch nicht behandelt (siehe Phil. ḍRel. II, 4–29). Hingegen behandelt er in den Vorlesungen 1824 ausfuhrlich ¨ die indische Religion unter dem Titel Die Religion der Phantasie. 
 
-7 Wir verweisen auf die Edition von G. Lasson von 1923. Ob die Vorlesungen 1822/23 tats¨achlich so umfangreich gewesen sind, l¨aßt sich momentan nicht exakt feststellen, da diese Vorlesungen noch nicht in der kritischen Ausgabe vorliegen. Zur Illustration dient allerdings eine Bemerkung Hegels, die er anl¨aßlich seiner Vorbereitungen zu diesen Vorlesungen in einem Brief an EḍDuboc am 22. Dezember 1822 niederschrieb. 
+7 Wir verweisen auf die Edition von G. Lasson von 1923. Ob die Vorlesungen 1822/23 tats¨achlich so umfangreich gewesen sind, l¨aßt sich momentan nicht exakt feststellen, da diese Vorlesungen noch nicht in der kritischen Ausgabe vorliegeṇZur Illustration dient allerdings eine Bemerkung Hegels, die er anl¨aßlich seiner Vorbereitungen zu diesen Vorlesungen in einem Brief an EḍDuboc am 22. Dezember 1822 niederschrieb. 
 
-Meine Vorlesungen uber die Philosophie der Weltgeschichte machen mir sehr viel zu ¨ tun. Ich bin in Quartanten und Octavb¨anden zun¨achst noch von indischem und chi nesischem Wesen besch¨aftigt. Es ist mir aber ein sehr interessantes und vergnugliches ¨ Gesch¨afte, die V¨olker der Welt Revue passieren zu lassen. Aber ich weiß noch nicht recht, wie ich sie bis auf diese unsere letzte Zeit auf Ostern durchkriegen soll. (Hegel, Briefe II, 366 f.) 
+Meine Vorlesungen uber die Philosophie der Weltgeschichte machen mir sehr viel zu ¨ tuṇIch bin in Quartanten und Octavb¨anden zun¨achst noch von indischem und chi nesischem Wesen besch¨aftigt. Es ist mir aber ein sehr interessantes und vergnugliches ¨ Gesch¨afte, die V¨olker der Welt Revue passieren zu lasseṇAber ich weiß noch nicht recht, wie ich sie bis auf diese unsere letzte Zeit auf Ostern durchkriegen soll. (Hegel, Briefe II, 366 f.) 
 
 8 Fr. Schlegel, Kritische Ausgabe VIII, 305. 
 
@@ -505,9 +505,9 @@ Meine Vorlesungen uber die Philosophie der Weltgeschichte machen mir sehr viel z
 
 
 
-Trotzdem ist es wichtig zu bemerken, daß die Struktur von Hegels Ge schichtsauffassung die von Schlegel in vielerlei Hinsicht reflektiert. 10 Beide ha ben eine idealistische und evolution¨are Geschichtsauffassung und beide sind sich darin einig, daß Indien am Anfang dieser Evolution steht. Nur was fur ¨ Schlegel die h¨ochste Stufe bedeutet, ist fur Hegel die niedrigste. Ist f ¨ ur Schlegel ¨ der naturliche Staat ein paradiesischer, in dem die g ¨ ¨ottliche Emanation noch in ihrer vollen Reinheit erfahren wird, so ist fur Hegel ‘die erste Existenz des ¨ menschen . . . die tierische Existenz. Die naturliche unmittelbare Einheit ist so ¨ nicht die wahrhafte Existenz der Idee, vielmehr ihre niedrigste, unwahrste Stu fe.’ 11 Unter diesem Gesichtspunkt charakterisiert Hegel in seiner Philosophie der Weltgeschichte die Inder als ein ‘an geistiger Substantialit¨at leeres Volk’ (op. cit. II, 391). Und um der romantischen Schw¨armerei ein fur allemal ein En- ¨ de zu setzen, scheut er, aus den ‘Annalen englischer Offiziere’ sch¨opfend, selbst nicht vor Bemerkungen von ¨außerst zweifelhaftem Gehalt zuruck: ‘List und ¨ Verschlagenheit ist der Grundcharakter des Inders; Betrugen, Stehlen, Rau- ¨ ben, Morden liegt in seinen Sitten; demutig kriechend und niedertr ¨ ¨achtig zeigt er sich dem Sieger und Herrn, vollkommen rucksichtslos und grausam dem ¨ Uberwundenen und Untergebenen’ ( ¨ op. cit. II, 391). Es ist daher nicht verwun derlich, daß wir im ersten Vorlesungszyklus, in dem Hegel die Geschichte der Philosophie vortr¨agt, im Wintersemester 1823/24, noch nicht Kapitel E der Einleitung, das den Titel Die orientalische Philosophie tr¨agt, antreffen. Des halb nicht, weil im Orient von Philosophie uberhaupt nicht die Rede sein kann. ¨ Dementsprechend lehrt Hegel im Kapitel Der Anfang der Geschichte der Phi losophie: 
+Trotzdem ist es wichtig zu bemerken, daß die Struktur von Hegels Ge schichtsauffassung die von Schlegel in vielerlei Hinsicht reflektiert. 10 Beide ha ben eine idealistische und evolution¨are Geschichtsauffassung und beide sind sich darin einig, daß Indien am Anfang dieser Evolution steht. Nur was fur ¨ Schlegel die h¨ochste Stufe bedeutet, ist fur Hegel die niedrigste. Ist f ¨ ur Schlegel ¨ der naturliche Staat ein paradiesischer, in dem die g ¨ ¨ottliche Emanation noch in ihrer vollen Reinheit erfahren wird, so ist fur Hegel ‘die erste Existenz des ¨ menschen . . . die tierische Existenz. Die naturliche unmittelbare Einheit ist so ¨ nicht die wahrhafte Existenz der Idee, vielmehr ihre niedrigste, unwahrste Stu fe.’ 11 Unter diesem Gesichtspunkt charakterisiert Hegel in seiner Philosophie der Weltgeschichte die Inder als ein ‘an geistiger Substantialit¨at leeres Volk’ (op. cit. II, 391). Und um der romantischen Schw¨armerei ein fur allemal ein En- ¨ de zu setzen, scheut er, aus den ‘Annalen englischer Offiziere’ sch¨opfend, selbst nicht vor Bemerkungen von ¨außerst zweifelhaftem Gehalt zuruck: ‘List und ¨ Verschlagenheit ist der Grundcharakter des Inders; Betrugen, Stehlen, Rau- ¨ ben, Morden liegt in seinen Sitten; demutig kriechend und niedertr ¨ ¨achtig zeigt er sich dem Sieger und Herrn, vollkommen rucksichtslos und grausam dem ¨ Uberwundenen und Untergebenen’ ( ¨ op. cit. II, 391). Es ist daher nicht verwun derlich, daß wir im ersten Vorlesungszyklus, in dem Hegel die Geschichte der Philosophie vortr¨agt, im Wintersemester 1823/24, noch nicht Kapitel E der Einleitung, das den Titel Die orientalische Philosophie tr¨agt, antreffeṇDes halb nicht, weil im Orient von Philosophie uberhaupt nicht die Rede sein kann. ¨ Dementsprechend lehrt Hegel im Kapitel Der Anfang der Geschichte der Phi losophie: 
 
-Es irren so alle diejenigen, welche die Einheit des Geistes mit der Natur fur die ¨ vortrefflichste Weise des Bewußtseins annehmen. Diese Stufe ist vielmehr die nie derste, unwahrste; sie ist nicht durch den Geist selbst hervorgebracht. Sie ist das orientalische Wesen uberhaupt. Hingegen die erste Gestalt des freien, geistigen ¨ Selbstbewußtseins und damit der Anfang der Philosophie ist in dem griechischen Volke zu finden. 12 
+Es irren so alle diejenigen, welche die Einheit des Geistes mit der Natur fur die ¨ vortrefflichste Weise des Bewußtseins annehmeṇDiese Stufe ist vielmehr die nie derste, unwahrste; sie ist nicht durch den Geist selbst hervorgebracht. Sie ist das orientalische Wesen uberhaupt. Hingegen die erste Gestalt des freien, geistigen ¨ Selbstbewußtseins und damit der Anfang der Philosophie ist in dem griechischen Volke zu finden. 12 
 
 Dieses Urteil des beruhmten Philosophieprofessors der von W. von Humboldt ¨ ausdrucklich als ‘philosophische’ gestifteten Universit ¨ ¨at von Berlin, die außer dem als Mittelpunkt des wiederauferstandenen preußischen Staates betrachtet werden sollte, 13 sozusagen ex cathedra, stieß Indien von seinem Sokkel, was zu weitreichenden Folgen fur die Rezeption Indiens f ¨ uhrte. Es bedeutete den ¨ Todesstoß fur den schw ¨ ¨armerischen Enthusiasmus fur alles ‘ ¨ Ostliche’, wie er be- ¨ sonders die deutsche Romantik dominierte, oder—wie Peter Gaeffke bemerkt: ‘He came to the most negative conclusions, his judgement guided the official academic world (Karl Marx included), drove Schopenhauer into isolation and 
 
@@ -531,7 +531,7 @@ killed the hopes for a new Renaissance based on the writings of the classical In
 
 Doch scheint die Frage berechtigt, ob Hegels Folgerung wirklich so nega tiv war. Kann das Bild Indiens, so wie es in der Philosophie des Rechts, der Philosophie der Weltgeschichte und den Vorlesungen der Jahre 1820–1824 skiz ziert wurde, tats¨achlich als repr¨asentativ fur Hegels Konzeption des Orients ¨ betrachtet werden? Sicherlich wurde und wird es von vielen als die fur Hegel ¨ repr¨asentative Vorstellung betrachtet, worin man zugleich die Ursache sehen kann, warum diese Vorstellung im 19. und 20. Jahrhundert von so großen Ein fluß gewesen ist. Seit Hegel ist die indische Philosophie von der allgemeinen Ge schichtsschreibung der Philosophie ausgeschlossen. 15 Der weitaus uberwiegende ¨ Teil der Philosophiestudenten, die die philosophischen Fakult¨aten der Univer sit¨aten heutzutage verlassen, wissen von der Tradition der indischen Philoso phie nicht mehr, als daß sie besteht, daß Kenntnisse daruber f ¨ ur eine gute ¨ Einsicht in die Philosophiegeschichte allerdings nicht unentbehrlich sind und daß ihre Ausubung in den H ¨ ¨anden einer ¨außerst selekten Gruppe Sanskritisten oder anderer Liebhaber von Exotischem liegt, die aus Mangel an philosophi scher Schulung nicht in der Lage sind, auf verantwortete Weise den wahren philosophischen Gehalt dieser Tradition zu konzipieren. 
 
-Aber ich schweife ab. Wir stellen uns die Frage, ob Hegels Schlußfolgerungen in bezug auf die indische Kultur tats¨achlich so negativ waren. Sie waren es sicherlich in den Jahren 1820–1824, aber eine n¨ahere Betrachtung der in der Periode zwischen 1820 und 1830 verfassten Schriften l¨aßt sehen, daß hier ein wichtiger Umschlag stattgefunden hat, der die indische Kultur in einem anderen Licht erscheinen l¨aßt. 
+Aber ich schweife ab. Wir stellen uns die Frage, ob Hegels Schlußfolgerungen in bezug auf die indische Kultur tats¨achlich so negativ wareṇSie waren es sicherlich in den Jahren 1820–1824, aber eine n¨ahere Betrachtung der in der Periode zwischen 1820 und 1830 verfassten Schriften l¨aßt sehen, daß hier ein wichtiger Umschlag stattgefunden hat, der die indische Kultur in einem anderen Licht erscheinen l¨aßt. 
 
 Um diese Entwicklung gebuhrend beurteilen zu k ¨ ¨onnen, ist es notwendig, daß wir uns bewußt sind, daß vor 1824 in Europa so gut wie nichts uber die ¨ philosophische Tradition Indiens als solche bekannt war. Zwei Sanskrit-Werke, die Upanis.ad-Kollektion, aus dem Persischen ubersetzt von Anquetil-Duperron ¨ (1801/02) und die Manusmr.ti, ubersetzt von William Jones (1796) waren Hegel ¨ zwar bekannt, doch schienen sie ihn eher in der Auffassung best¨arkt zu haben, die er auch noch in den Vorlesungen von 1825/26 wiederholt, n¨amlich daß das, was allgemein unter indischer Philosophie verstanden wird, eigentlich zu den Religionen gerechnet werden mußte. Dem Mangel an Individualit ¨ ¨at zufolge, der die indischen Gottesgestalten kennzeichnet, was damit zusammenh¨angt, daß das Moment der subjektiven Freiheit unvollst¨andig entwickelt ist, erscheinen 
 
@@ -563,7 +563,7 @@ In der Geschichte tritt die Philosophie also da auf, wo freie Verfassungen exist
 
 17 Einleitung, 266: 
 
-[. . . ] daß das Prinzip der Freiheit und Individualit¨at in allen anderen Religionen, be sonders im griechischen und mehr noch im germanischen Prinzip, mehr hervortritt. Die religi¨osen Vorstellungen erscheinen daher sogleich mehr individuell, mehr in Ge stalt von Personen. In der orientalischen Religion ist aber das Moment der Subjekti vit¨at, der subjektiven Freiheit noch nicht genug ausgebildet, sondern sie hat mehr den Charakter der Allgemeinheit; und so sind auch die religi¨osen Vorstellungen mehr all gemeine Vorstellungen und erscheinen so leicht als philosophische Vorstellungen oder Gedanken. 
+[. . . ] daß das Prinzip der Freiheit und Individualit¨at in allen anderen Religionen, be sonders im griechischen und mehr noch im germanischen Prinzip, mehr hervortritt. Die religi¨osen Vorstellungen erscheinen daher sogleich mehr individuell, mehr in Ge stalt von PersoneṇIn der orientalischen Religion ist aber das Moment der Subjekti vit¨at, der subjektiven Freiheit noch nicht genug ausgebildet, sondern sie hat mehr den Charakter der Allgemeinheit; und so sind auch die religi¨osen Vorstellungen mehr all gemeine Vorstellungen und erscheinen so leicht als philosophische Vorstellungen oder Gedanken. 
 
 Siehe oben, p. 3. 
 
@@ -577,15 +577,15 @@ Siehe oben, p. 3.
 
 auf, aber das Verh¨altnis ist so, daß das Subjekt, die Individualit¨at nicht Person ist, sondern als untergehend im Objektiven bestimmt ist.’ (op. cit. 227) 
 
-Diese Pr¨aambel, die einen zentralen Gedanken der Hegelschen Philosophie zum Ausdruck bringt, muß in diesem Kontext wohl in erster Linie als eine Grund satzerkl¨arung betrachtet werden, deren Zielsetzung darin besteht, das dialekti sche Geb¨aude des philosophischen Systems als Ganzes, wie es vor allem in der Philosophie der Weltgeschichte entwickelt wurde, nicht anzutasten. Das h¨alt Hegel allerdings nicht davon zuruck, einige Vorlesungen sp ¨ ¨ater zu erkl¨aren, daß man neuerdings, dank des Engl¨anders Colebrooke, wirklich philosophische Systeme der Inder kennengelernt hat (op. cit. 294). 
+Diese Pr¨aambel, die einen zentralen Gedanken der Hegelschen Philosophie zum Ausdruck bringt, muß in diesem Kontext wohl in erster Linie als eine Grund satzerkl¨arung betrachtet werden, deren Zielsetzung darin besteht, das dialekti sche Geb¨aude des philosophischen Systems als Ganzes, wie es vor allem in der Philosophie der Weltgeschichte entwickelt wurde, nicht anzutasteṇDas h¨alt Hegel allerdings nicht davon zuruck, einige Vorlesungen sp ¨ ¨ater zu erkl¨aren, daß man neuerdings, dank des Engl¨anders Colebrooke, wirklich philosophische Systeme der Inder kennengelernt hat (op. cit. 294). 
 
 Außerdem pr¨asentiert Hegel eine kommentierte Wiedergabe von Colebrookes Essay uber das Sām ¨ . khya mit vielen w¨ortlichen ubersetzten Zitaten, gefolgt von ¨ einer knappen, nicht ausgearbeiteten Wiedergabe des Essays uber die Nyāya– ¨ Vaiśes.ika. Daß diese erste Bekanntschaft mit der Indischen Schule der Philo sophie Hegel nicht direkt von ihrer Tiefe und der Systematik ihres Gedanken ganges uberzeugen kann—Hegel vermißt vorl ¨ ¨aufig noch die logische Ordnung und sieht in den 25 tattvas (Prinzipien) des Sām. khya nur eine oberfl¨achliche, trockene, ideenlose Aufz¨ahlung (op. cit. 302)—kann ihm kaum zur Last gelegt werden, da Colebrookes Essay, um die Wahrheit zu sagen, zwar als grundlegend angesehen werden kann, sich aber darum noch keineswegs als eine beispielhaf te philosophische Studie erweist. Colebrooke beschr¨ankt sich haupts¨achlich auf eine deskriptive Wiedergabe dessen, was in einer viel zu kurzen Fassung in den Sām. khyakārikās steht. 18 
 
-Ein weiteres Problem besteht darin, daß Colebrooke technische Ausdrucke ¨ aus dem Sanskrit mechanisch ubersetzt, mit leider nicht immer gelungenen ¨ englischen Aquivalenten, die, sofern der traditionelle Kontext nicht streng im ¨ Auge behalten wird, unvermeidlich zu Fehlinterpretationen fuhren m ¨ ussen. So ¨ wird purus.a mit ‘soul’ ubersetzt, ¨ buddhi mit ‘intelligence’ und, eine Quel le der Verwirrung, aham. kāra mit ‘consciousness.’ Michel Hulin, der Hegels Sām. khya-Interpretation analysiert hat, bemerkt zurecht, daß: ‘il n’y a donc rien d’´etonnant `a ce que, sur de nombreux points de d´etail, Hegel soit victime de certaines confusions. L’´etonnant est plutˆot que ses erreurs caract´eris´ees ne soient pas plus nombreuses et plus graves.’ 19 
+Ein weiteres Problem besteht darin, daß Colebrooke technische Ausdrucke ¨ aus dem Sanskrit mechanisch ubersetzt, mit leider nicht immer gelungenen ¨ englischen Aquivalenten, die, sofern der traditionelle Kontext nicht streng im ¨ Auge behalten wird, unvermeidlich zu Fehlinterpretationen fuhren m ¨ usseṇSo ¨ wird purus.a mit ‘soul’ ubersetzt, ¨ buddhi mit ‘intelligence’ und, eine Quel le der Verwirrung, aham. kāra mit ‘consciousness.’ Michel Hulin, der Hegels Sām. khya-Interpretation analysiert hat, bemerkt zurecht, daß: ‘il n’y a donc rien d’´etonnant `a ce que, sur de nombreux points de d´etail, Hegel soit victime de certaines confusions. L’´etonnant est plutˆot que ses erreurs caract´eris´ees ne soient pas plus nombreuses et plus graves.’ 19 
 
 Sowohl diese Umst¨ande als auch die Tatsache, daß Colebrooke sein Ex pos´e der Kārikās mit einigen Doktrinen aus den Kapila zugeschriebenen 
 
-18 Was Hegel im indischen Denken, d.h. im Sām. khya, im besonderen vermißt, ist der lo gische Zusammenhang von Begriffen bzw. Bestimmungen, die das Denken (dialektisch) strukturieren. Dieser Mangel ist, unserer Ansicht nach, eher der Ubersetzung Colebroo- ¨ kes als dem Sām. khya selbst zu zuschreiben, und wir werden noch sehen, daß Hegel sp¨ater selbst diese Auflassung korrigiert. Vorl¨aufig glaubt er allerdings, diesen Mangel der Struktur des indischen Denkens im allgemeinen zuschreiben zu k¨onnen, die alle Sub jektivit¨at des Ichs, und somit alles Besondere im Allgemeinen, Abstrakten aufl¨ost, d.h. in ihre formlose intellektuelle Substantialit¨at (op. cit. 335). 
+18 Was Hegel im indischen Denken, d.h. im Sām. khya, im besonderen vermißt, ist der lo gische Zusammenhang von Begriffen bzw. Bestimmungen, die das Denken (dialektisch) strukturiereṇDieser Mangel ist, unserer Ansicht nach, eher der Ubersetzung Colebroo- ¨ kes als dem Sām. khya selbst zu zuschreiben, und wir werden noch sehen, daß Hegel sp¨ater selbst diese Auflassung korrigiert. Vorl¨aufig glaubt er allerdings, diesen Mangel der Struktur des indischen Denkens im allgemeinen zuschreiben zu k¨onnen, die alle Sub jektivit¨at des Ichs, und somit alles Besondere im Allgemeinen, Abstrakten aufl¨ost, d.h. in ihre formlose intellektuelle Substantialit¨at (op. cit. 335). 
 
 19 Hulin 1979, 119. 
 
@@ -609,7 +609,7 @@ Eine dritte Phase seines Studiums der indischen Kultur setzt in der zwei ten H¨
 
 21 Colebrooke 1824, 37 paraphrasiert: 
 
-He (i.e. Kapila) acknowledges indeed a being issuing from nature (i.e. prakr.ti), who is intelligence absolute (sarvavit?); source of all individual intelligences; and origin of other existences successively evolved and developeḍHe expressly affirms ‘that the truth of such an ¯Iśwara is demonstrated’, the creator of the world, in such sense of creation: for ‘the existence of effects’, he says, ‘is dependent upon consciousness [N.B. d.h. aham. kāra], not upon ¯Iśwara’; and ‘all else is from the great principle, intellect’. 
+He (i.e. Kapila) acknowledges indeed a being issuing from nature (i.e. prakr.ti), who is intelligence absolute (sarvavit?); source of all individual intelligences; and origin of other existences successively evolved and developeḍHe expressly affirms ‘that the truth of such an ¯Iśwara is demonstrated’, the creator of the world, in such sense of creation: for ‘the existence of effects’, he says, ‘is dependent upon consciousness [ṇB. d.h. aham. kāra], not upon ¯Iśwara’; and ‘all else is from the great principle, intellect’. 
 
 Wer kann es Hegel verubeln, daß er aus dieser Passage nicht mehr herausholt als ( ¨ Ein leitung, 317 f.): 
 
@@ -655,7 +655,7 @@ Generation der Sanskritisten in Europa angeh¨orte.
 
 Wie das Schicksal so spielt, wurde Paris zu Napoleons Zeiten zum Zentrum des Sanskrit-Studiums, als Alexander Hamilton, ein englischer Marineoffizier, der w¨ahrend seines Aufenthalts in Indien im Dienste der Ostindischen Kompa nie Sanskrit gelernt hatte, im Jahre 1803 die Biblioth`eque Nationale in Paris aufsuchte, um die Handschriften der Hitopadeśa zu kollationieren und schließ lich, durch den Bruch des Friedens von Amiens, von der franz¨osischen Regie rung in Paris zuruckgehalten wurde, wo er allerdings die Freiheit erhielt, seine ¨ orientalischen Kenntnisse zu nutzen, und mit dem Katalogisieren der Sanskrit- ¨ handschriften in der Bibliothek betraut wurde. 29 Es ist vor allem dem Einfluß seines Schulers der ersten Stunde, Friedrich Schlegel, der 1808 seine Arbeit ¨ Uber die Sprache und Weisheit der Inder ¨ ver¨offentlicht, zuzuschreiben, daß aus ganz Europa, aber vor allem aus Deutschland, Studenten nach Paris ziehen, um die Ursprache, das Sanskrit, zu lernen. 1808 kommt Othmar Frank, 1812 Franz Bopp nach Paris, gefolgt von seinem zukunftigen collega proximus, Au- ¨ gust Wilhelm Schlegel, im Jahre 1815. Dieser, wie auch sein sp¨aterer Kritiker Langlois, studierte Sanskrit bei unter anderem L´eonard de Ch´ezy, der ab 1815 den ersten Lehrstuhl fur Sanskrit am Coll`ege de France innehatte. ¨ 
 
-Eine zweite Generation Sanskritisten verbreitet sich uber das post- ¨ napoleonische Europa. Von nationalistischen, anti-franz¨osischen Sentimenten geleitet, entwickelt sich in Deutschland im zweiten und dritten Jahrzehnt des neunzehnten Jahrhunderts ein kulturelles Klima, in dem die gerade entdeckte Erkenntnis der indo-europ¨aischen Sprachverwandtschaft und deren ¨altester bekannter Repr¨asentant, das Sanskrit, in den Dienst einer reaktion¨aren, chau vinistischen Geschichtsauffassung gestellt wurde, die den germanischen Stamm zum direkten Erben dieser ‘Urquelle’ von Sprache und Weisheit ernannte. Trotz des Einspruchs von Gelehrten wie Bopp wird das Indo-Europ¨aische zum Indo-Germanischen. So sagt auch Hegel, obwohl v¨ollig frei von romantischer Sehnsucht nach dem Urvolk, der Ursprache und der Urreligion, als er die Geschichte der Philosophie periodisiert: ‘Die europ¨aischen V¨olker, insofern sie der Welt der Gedanken (der Wissenschaft) angeh¨oren, sind germanisch zu nennen; denn sie haben in ihrer Gesamtheit germanische Bildung.’ 30 
+Eine zweite Generation Sanskritisten verbreitet sich uber das post- ¨ napoleonische Europa. Von nationalistischen, anti-franz¨osischen Sentimenten geleitet, entwickelt sich in Deutschland im zweiten und dritten Jahrzehnt des neunzehnten Jahrhunderts ein kulturelles Klima, in dem die gerade entdeckte Erkenntnis der indo-europ¨aischen Sprachverwandtschaft und deren ¨altester bekannter Repr¨asentant, das Sanskrit, in den Dienst einer reaktion¨aren, chau vinistischen Geschichtsauffassung gestellt wurde, die den germanischen Stamm zum direkten Erben dieser ‘Urquelle’ von Sprache und Weisheit ernannte. Trotz des Einspruchs von Gelehrten wie Bopp wird das Indo-Europ¨aische zum Indo-GermanischeṇSo sagt auch Hegel, obwohl v¨ollig frei von romantischer Sehnsucht nach dem Urvolk, der Ursprache und der Urreligion, als er die Geschichte der Philosophie periodisiert: ‘Die europ¨aischen V¨olker, insofern sie der Welt der Gedanken (der Wissenschaft) angeh¨oren, sind germanisch zu nennen; denn sie haben in ihrer Gesamtheit germanische Bildung.’ 30 
 
 Es ist dasselbe Klima, das A.W. Schlegel zum unvers¨ohnlichen Kritiker der klassischen franz¨osischen Literatur machte, was ihm den beißenden Hohn Hei nes eintrug: ‘Wir sahen mit stolzer Freude, wie unser kampflustiger Landsmann den Franzosen zeigte, daß ihre ganze klassische Literatur nichts wert sei. [. . . ] Sein Refrain war immer, daß die Franzosen das prosaischste Volk der Welt seien und daß es in Frankreich gar keine Poesie g¨abe.’ 31 
 
@@ -723,9 +723,9 @@ Wilkins Ubersetzung, A.W. Schlegels Ausgabe und ¨ Ubersetzung, Langlois’ Re- 
 
 2 / Die indische Herausforderung 35 
 
-BhG, 170) eine zuverl¨assige Informationsquelle (besonders in bezug auf die epi sche Literatur) und Autorit¨at in allem, was Indien und das Sanskrit betrifft, direkt zur Hand hatte. Im Gegensatz zu von Humboldt, der die Gītā als Werk an sich ‘abgesondert fur sich, als ein Ganzes’ (Humboldt BhG, 190) behan- ¨ delt, ohne andere Quellen der indischen Philosophie und Literatur in Anspruch zu nehmen, nimmt Hegel sich die Muhe, die Einsichten, die er aus seinem ¨ Studium Indiens und vor allem aus Colebrookes Essay gewonnen hat, in seiner Betrachtung der Bhagavadgītā zu verarbeiten. Und darin unterscheidet sich sei ne Beurteilung wesentlich von der von Humboldts. An Stelle einer philosophia perennis `a la von Humboldt weist Hegel der Gītā ihren Platz im historischen Kontext zu. Kann sich von Humboldt nach Hegels erstem Artikel, der mit den h¨oflichsten Worten formuliert ist und der, oberfl¨achlich betrachtet, keine all zu schwere Kritik befaßt, noch geschmeichelt fuhlen, ¨ 39 so reagiert er auf das Erscheinen des zweiten Artikels nicht mehr direkt, schreibt aber in einem Brief an Friedrich von Gentz (1. M¨arz 1828): ‘Hegels lange Rezension uber mich kann ¨ ich am wenigsten billigen. [. . . ] Die ganze Rezension ist aber auch gegen mich, wenngleich versteckt, gerichtet und geht deutlich aus der Uberzeugung hervor, ¨ daß ich eher alles als ein Philosoph bin.’ 40 
+BhG, 170) eine zuverl¨assige Informationsquelle (besonders in bezug auf die epi sche Literatur) und Autorit¨at in allem, was Indien und das Sanskrit betrifft, direkt zur Hand hatte. Im Gegensatz zu von Humboldt, der die Gītā als Werk an sich ‘abgesondert fur sich, als ein Ganzes’ (Humboldt BhG, 190) behan- ¨ delt, ohne andere Quellen der indischen Philosophie und Literatur in Anspruch zu nehmen, nimmt Hegel sich die Muhe, die Einsichten, die er aus seinem ¨ Studium Indiens und vor allem aus Colebrookes Essay gewonnen hat, in seiner Betrachtung der Bhagavadgītā zu verarbeiteṇUnd darin unterscheidet sich sei ne Beurteilung wesentlich von der von Humboldts. An Stelle einer philosophia perennis `a la von Humboldt weist Hegel der Gītā ihren Platz im historischen Kontext zu. Kann sich von Humboldt nach Hegels erstem Artikel, der mit den h¨oflichsten Worten formuliert ist und der, oberfl¨achlich betrachtet, keine all zu schwere Kritik befaßt, noch geschmeichelt fuhlen, ¨ 39 so reagiert er auf das Erscheinen des zweiten Artikels nicht mehr direkt, schreibt aber in einem Brief an Friedrich von Gentz (1. M¨arz 1828): ‘Hegels lange Rezension uber mich kann ¨ ich am wenigsten billigen. [. . . ] Die ganze Rezension ist aber auch gegen mich, wenngleich versteckt, gerichtet und geht deutlich aus der Uberzeugung hervor, ¨ daß ich eher alles als ein Philosoph bin.’ 40 
 
-Hegels zweiter Artikel uber die ¨ Bhagavadgītā richtet sich auf eine Passa ge aus der Gītā, worin eine Hierarchie von ‘Methoden’ und ‘Wegen’ gelehrt wird, die alle auf das h¨ochste Ziel hinfuhren. Das Herausnehmen dieser Pas- ¨ sage als Kernpunkt der Analyse ist an sich wissenschaftlich legitim und gibt Hegel die Gelegenheit, auf naturliche Weise all seine Kenntnisse und Einsich- ¨ ten von der indischen Kultur systematisch auszuarbeiten, hat allerdings zur ungewunschten Folge, daß er den Hauptakzent auf einen f ¨ ur die integrale Gītā ¨ sekund¨aren Aspekt legt und dadurch eine verzerrte Vorstellung vom Text im Ganzen hervorruft. 41 
+Hegels zweiter Artikel uber die ¨ Bhagavadgītā richtet sich auf eine Passa ge aus der Gītā, worin eine Hierarchie von ‘Methoden’ und ‘Wegen’ gelehrt wird, die alle auf das h¨ochste Ziel hinfuhreṇDas Herausnehmen dieser Pas- ¨ sage als Kernpunkt der Analyse ist an sich wissenschaftlich legitim und gibt Hegel die Gelegenheit, auf naturliche Weise all seine Kenntnisse und Einsich- ¨ ten von der indischen Kultur systematisch auszuarbeiten, hat allerdings zur ungewunschten Folge, daß er den Hauptakzent auf einen f ¨ ur die integrale Gītā ¨ sekund¨aren Aspekt legt und dadurch eine verzerrte Vorstellung vom Text im Ganzen hervorruft. 41 
 
 Die betreffende Passage, BhG 12.8–11, lautet folgendermaßen: 
 
@@ -751,11 +751,11 @@ Bist du aber ebenfalls nicht imstande, dies zu tun, nimm dann deine Zuflucht zu
 
 Meiner Disziplin (madyoga): verzichte auf die Fruchte all deiner Werke, selbstbe- ¨ herrscht. (11) 42 
 
-Von Humboldt z¨ahlt diese Passage ‘zu den schwierigsten der Gītā’ (op. cit. 171) und zurecht bemerkt Hegel, daß zwischen den ersten beiden ślokas, 8 und 9, und den letzten beiden, 10 und 11, sich ein Widerspruch befindet. In den er sten beiden Methoden tritt ein ‘rein negative Verhalten des Geistes’ auf, das fur die indische Religion im Ganzen typisch ist und ‘im Widerspruche mit dem ¨ Handeln steht, zu welchem Krischna fruher den Ardschuna aufgefordert hat.’ ¨ (Hegel BhG, 157). Und wer wurde es Hegel bestreiten, wenn er infolgedessen ¨ bemerkt: ‘Es macht eine der t¨adi¨osen Seiten des Gedichtes aus, diesen Wider spruch der Aufforderung zum Handeln und der Aufforderung zu der handlungs losen, ja ganz bewegungslosen, alleinigen Versenkung in Krischna immerfort hervorkommen zu sehen und keine Aufl¨osung dieses Widerspruchs zu finden’ (op. cit. 157 f.). Hegel stellt fest, daß dieser Widerspruch schon den Vedas zu grundeliegt, in denen einerseits zum sakralen Handeln gerufen wird, anderer seits zum Versenken in die absolute Substantialit¨at (op. cit. 180). Aus dieser Antinomie, die wir tats¨achlich durch die gesamte indische Kulturgeschichte ver folgen k¨onnen, leitet Hegel seine zentralste These in Beziehung auf die indische Zivilisation ab, die wir, angesichts ihrer Wichtigkeit fur die Indien-Rezeption, ¨ in ihrer Vollst¨andigkeit zitieren m¨ochten. Hegel BhG, 158: 
+Von Humboldt z¨ahlt diese Passage ‘zu den schwierigsten der Gītā’ (op. cit. 171) und zurecht bemerkt Hegel, daß zwischen den ersten beiden ślokas, 8 und 9, und den letzten beiden, 10 und 11, sich ein Widerspruch befindet. In den er sten beiden Methoden tritt ein ‘rein negative Verhalten des Geistes’ auf, das fur die indische Religion im Ganzen typisch ist und ‘im Widerspruche mit dem ¨ Handeln steht, zu welchem Krischna fruher den Ardschuna aufgefordert hat.’ ¨ (Hegel BhG, 157). Und wer wurde es Hegel bestreiten, wenn er infolgedessen ¨ bemerkt: ‘Es macht eine der t¨adi¨osen Seiten des Gedichtes aus, diesen Wider spruch der Aufforderung zum Handeln und der Aufforderung zu der handlungs losen, ja ganz bewegungslosen, alleinigen Versenkung in Krischna immerfort hervorkommen zu sehen und keine Aufl¨osung dieses Widerspruchs zu finden’ (op. cit. 157 f.). Hegel stellt fest, daß dieser Widerspruch schon den Vedas zu grundeliegt, in denen einerseits zum sakralen Handeln gerufen wird, anderer seits zum Versenken in die absolute Substantialit¨at (op. cit. 180). Aus dieser Antinomie, die wir tats¨achlich durch die gesamte indische Kulturgeschichte ver folgen k¨onnen, leitet Hegel seine zentralste These in Beziehung auf die indische Zivilisation ab, die wir, angesichts ihrer Wichtigkeit fur die Indien-Rezeption, ¨ in ihrer Vollst¨andigkeit zitieren m¨ochteṇHegel BhG, 158: 
 
-Unm¨oglich aber ist diese Aufl¨osung, weil das H¨ochste des indischen Bewußtseins, das abstrakte Wesen, Brahman, in ihm selbst ohne Bestimmung ist, welche daher nur außer der Einheit und nur ¨außerliche, naturliche Bestimmung sein kann. In ¨ diesem Zerfallen des Allgemeinen und des Konkreten sind beide geistlos, – jenes die leere Einheit, dieses die unfreie Mannigfaltigkeit; der Mensch, an diese verfallen, ist nur an ein Naturgesetz des Lebens gebunden; zu jenem Extrem sich erhebend, ist er auf der Flucht und in der Negation aller konkreten, geistigen Lebendigkeit. 
+Unm¨oglich aber ist diese Aufl¨osung, weil das H¨ochste des indischen Bewußtseins, das abstrakte Wesen, Brahman, in ihm selbst ohne Bestimmung ist, welche daher nur außer der Einheit und nur ¨außerliche, naturliche Bestimmung sein kanṇIn ¨ diesem Zerfallen des Allgemeinen und des Konkreten sind beide geistlos, – jenes die leere Einheit, dieses die unfreie Mannigfaltigkeit; der Mensch, an diese verfallen, ist nur an ein Naturgesetz des Lebens gebunden; zu jenem Extrem sich erhebend, ist er auf der Flucht und in der Negation aller konkreten, geistigen Lebendigkeit. 
 
-Mit genialer Intuition bemerkt Hegel, was keiner seiner indologischen Weg bereiter in dieser Deutlichkeit gesehen hat, daß der Ausdruck abhyāsayoga in śloka 9 (‘methodische Ubungen’) auf die Yoga-Techniken verweist, wie sie in ¨ den Yogas¯utras gelehrt werden, und nichts mit den Methoden des bhaktiyoga und den karmayoga zu tun hat, worauf in den letzten beiden ślokas verwie sen wirḍA.W. Schlegel ubersetzte diesen Ausdruck mit ¨ assiduitatis devotio (Schlegel BhG, 179), laut von Humboldt ein ‘sehr dunkler Ausdruck’ (op. cit. 170), den auch dieser nicht erhellen kann. Hegel aber, auf Colebrookes Darle gung der Yogas¯utras bezugnehmend, 43 bemerkt, daß dieser Ausdruck auf ‘die dem H¨ochsten, der Erreichung der Seligkeit vorhergehende Stufe’ (op. cit. 159) verweist, n¨amlich die ‘Ausubung gewaltsamer Zur ¨ uckziehung und das Aushal- ¨ ten in der Einf¨ormigkeit eines taten- und gedankenlosen Zustandes’ (op. cit. 
+Mit genialer Intuition bemerkt Hegel, was keiner seiner indologischen Weg bereiter in dieser Deutlichkeit gesehen hat, daß der Ausdruck abhyāsayoga in śloka 9 (‘methodische Ubungen’) auf die Yoga-Techniken verweist, wie sie in ¨ den Yogas¯utras gelehrt werden, und nichts mit den Methoden des bhaktiyoga und den karmayoga zu tun hat, worauf in den letzten beiden ślokas verwie sen wirḍA.W. Schlegel ubersetzte diesen Ausdruck mit ¨ assiduitatis devotio (Schlegel BhG, 179), laut von Humboldt ein ‘sehr dunkler Ausdruck’ (op. cit. 170), den auch dieser nicht erhellen kanṇHegel aber, auf Colebrookes Darle gung der Yogas¯utras bezugnehmend, 43 bemerkt, daß dieser Ausdruck auf ‘die dem H¨ochsten, der Erreichung der Seligkeit vorhergehende Stufe’ (op. cit. 159) verweist, n¨amlich die ‘Ausubung gewaltsamer Zur ¨ uckziehung und das Aushal- ¨ ten in der Einf¨ormigkeit eines taten- und gedankenlosen Zustandes’ (op. cit. 
 
 42 MBh 6.34.8–11 (= BhG 12.8–11). Ubersetzung von mir. ¨ 
 
@@ -803,7 +803,7 @@ Wenn wir Europ¨aer sagen, Gott ist das h¨ochste Wesen, so ist diese Bestimmung
 
 zugrundliegt, das dementsprechend nur von einem Extrem, der ‘Substanz ohne Subjektivit¨at,’ ins andere, die Mannigfaltigkeit der naturlichen Wirklichkeit, ¨ ubergehen kann, ein ¨ Ubergang, den Hegel des ¨ ¨ofteren als einen ‘haltungslosen Taumel’ bezeichnet. 48 
 
-Nun kann diese ‘Ubung’ außer in dem ‘Unterdr ¨ uckungsyoga’ genausogut ¨ in der theistischen Form der Meditation angewandt werden, eine Meditation, worin Gott, unter anderem durch das Wiederholen des om. -Klangs, zum Be wußtseinsinhalt gemacht wird. 49 Zweifellos hat diese Art der Meditation mehr Verwandtschaft mit dem von Kr.s.n. a gelehrten Weg in der Bhagavadgītā, wenn er sagt: ‘Richte deine Gedanken ausschließlich auf Mich, durchdringe Mich mit deinem Geist.’ Und hiermit stoßen wir an einen zweiten Punkt, an dem Hegel der Gītā nicht gerecht wird, da er aus Kr.s.n. as Aussprachen, in denen dieser Sich selbst mit der Silbe om. , mit den Vedas, oder mit allem, ‘was ist und nicht ist,’ gleichstellt (BhG 9.17, 19), folgert, daß Kr.s.n. a eigentlich nichts anderes als eine Personifikation des brahman, d.h. Brahmā darstellt. Diese Aquivalenz ¨ konstatierend, illustriert er anhand der verschiedenen Mythen, daß Brahmā nur eine oberfl¨achliche Personifikation des brahman ist, eine leere Form, kein indi viduelles Subjekt, und deshalb kein Gott im Sinne der christlichen Tradition. 50 Hiermit verschwindet aber auch Kr.s.n. a als pers¨onliche Gottheit, zu der hin alle Wege der Gītā fuhren, als sinnvolles Ziel und als liebevoller Helfer, vollst ¨ ¨andig aus Hegels Blick. 
+Nun kann diese ‘Ubung’ außer in dem ‘Unterdr ¨ uckungsyoga’ genausogut ¨ in der theistischen Form der Meditation angewandt werden, eine Meditation, worin Gott, unter anderem durch das Wiederholen des om. -Klangs, zum Be wußtseinsinhalt gemacht wird. 49 Zweifellos hat diese Art der Meditation mehr Verwandtschaft mit dem von Kr.s.ṇa gelehrten Weg in der Bhagavadgītā, wenn er sagt: ‘Richte deine Gedanken ausschließlich auf Mich, durchdringe Mich mit deinem Geist.’ Und hiermit stoßen wir an einen zweiten Punkt, an dem Hegel der Gītā nicht gerecht wird, da er aus Kr.s.ṇas Aussprachen, in denen dieser Sich selbst mit der Silbe om. , mit den Vedas, oder mit allem, ‘was ist und nicht ist,’ gleichstellt (BhG 9.17, 19), folgert, daß Kr.s.ṇa eigentlich nichts anderes als eine Personifikation des brahman, d.h. Brahmā darstellt. Diese Aquivalenz ¨ konstatierend, illustriert er anhand der verschiedenen Mythen, daß Brahmā nur eine oberfl¨achliche Personifikation des brahman ist, eine leere Form, kein indi viduelles Subjekt, und deshalb kein Gott im Sinne der christlichen Tradition. 50 Hiermit verschwindet aber auch Kr.s.ṇa als pers¨onliche Gottheit, zu der hin alle Wege der Gītā fuhren, als sinnvolles Ziel und als liebevoller Helfer, vollst ¨ ¨andig aus Hegels Blick. 
 
 Was mit dieser Betrachtung der zwei bereits genannten ‘Methoden’ gewon nen ist, ist eine grundliche Analyse des Begriffs ¨ brahman und damit eine Un termauerung seiner Beurteilung des indischen Denkens. Außerdem bietet sich ihm die Gelegenheit, einige sogenannte ‘Versuche’ zu analysieren, in denen be absichtigt ist, die Pluriformit¨at der naturlichen Empirie mit der abstrakten ¨ allgemeinen Substanz zu verbinden; und in diesem Verband fuhrt Hegel einige ¨ Kosmogonien an, die er Colebrookes Essay On the Vedas entnimmt. 51 
 
@@ -829,15 +829,15 @@ abstrakt und durftig, und die Verstandesmetaphysik, welche das Erkennen Gottes, 
 
 2 / Die indische Herausforderung 39 
 
-on. [. . . ] Der Inder hat an dem Brahmanen den gegenw¨artigen Gott vor sich’ (op. cit. 210 f.). Die Brahmanen stehen somit, dank ihrer Geburt (und dieser entscheidende Faktor macht fur Hegel diesen ‘Vers ¨ ¨ohnungsversuch’ letztend lich wertlos), auf einem Niveau, auf dem das Denken und die Vertiefung in das brahman naturlich sind, im Gegensatz zu den anderen St ¨ ¨anden, die sich nur durch Askese und Yoga–Techniken oder religi¨ose Kulte diesem Ziel n¨ahern k¨onnen (op. cit. 201). In diesem Zusammenhang erz¨ahlt Hegel ausfuhrlich die ¨ Geschichte von Viśvāmitra aus dem Rāmāyan. a.52 Diese besondere Stellung der Brahmanen scheint Konsequenzen fur das Paradigma zu haben, dementspre- ¨ chend die Interpretation der Weltgeschichte zu erfolgen hat, wie wir sogleich sehen werden. 
+on. [. . . ] Der Inder hat an dem Brahmanen den gegenw¨artigen Gott vor sich’ (op. cit. 210 f.). Die Brahmanen stehen somit, dank ihrer Geburt (und dieser entscheidende Faktor macht fur Hegel diesen ‘Vers ¨ ¨ohnungsversuch’ letztend lich wertlos), auf einem Niveau, auf dem das Denken und die Vertiefung in das brahman naturlich sind, im Gegensatz zu den anderen St ¨ ¨anden, die sich nur durch Askese und Yoga–Techniken oder religi¨ose Kulte diesem Ziel n¨ahern k¨onnen (op. cit. 201). In diesem Zusammenhang erz¨ahlt Hegel ausfuhrlich die ¨ Geschichte von Viśvāmitra aus dem Rāmāyaṇa.52 Diese besondere Stellung der Brahmanen scheint Konsequenzen fur das Paradigma zu haben, dementspre- ¨ chend die Interpretation der Weltgeschichte zu erfolgen hat, wie wir sogleich sehen werden. 
 
-Hegels Analyse der zwei erstgenannten Methoden, die den umfassenden letz ten Teil seines zweiten Gītā–Artikels einnimmt (op. cit. 157–204), erl¨autert eine Anzahl von Gedanken und Einsichten, die seiner Beurteilung der zwei letztge nannten ‘Wege’, die sich auf das Handeln beziehen, implizit zugrundeliegen. Sie werden im ersten Artikel und in der ersten H¨alfte des zweiten Artikels behandelt. Daher uberrascht es uns nicht, wenn die devotionelle Variante des ¨ karmayogas, auch bhaktiyoga genannt, in Hegels Analyse ein wenig verkummert, ¨ gem¨aß seiner formalen Interpretation der Figur des Kr.s.n. a. 53 Der bereits kon statierte Bruch zwischen einerseits dem transzendenten, v¨ollig unbestimmten ens realissimum und andererseits der Pluriformit¨at der bestimmten naturlichen ¨ Wirklichkeit, fuhrt Hegel zu der Annahme, daß die vorgeschriebenen ‘Werke’ ¨ (karma), selbstlos im Dienste Gottes ausgefuhrt ( ¨ madartham api karmān. i kur van), nicht in dem christlichen Sinne aufgefaßt werden durfen, ‘daß in jedem ¨ Stande, wer Gott furchtet und Recht tut, ihm angenehm ist; denn dort gibt ¨ es keinen affirmativen Zusammenhang zwischen einem geistigen Gott und den Pflichten und somit kein innerliches Recht und Gewissen, denn der Inhalt der Pflichten ist nicht geistig, sondern naturlich bestimmt’ ( ¨ op. cit. 155). Es ist of fensichtlich, daß Hegel die Seite der Gītā v¨ollig ignoriert, wie sie so sch¨on im achtzehnten Vers des sechzehnten Gesanges ausgedruckt wird: ¨ 
+Hegels Analyse der zwei erstgenannten Methoden, die den umfassenden letz ten Teil seines zweiten Gītā–Artikels einnimmt (op. cit. 157–204), erl¨autert eine Anzahl von Gedanken und Einsichten, die seiner Beurteilung der zwei letztge nannten ‘Wege’, die sich auf das Handeln beziehen, implizit zugrundeliegeṇSie werden im ersten Artikel und in der ersten H¨alfte des zweiten Artikels behandelt. Daher uberrascht es uns nicht, wenn die devotionelle Variante des ¨ karmayogas, auch bhaktiyoga genannt, in Hegels Analyse ein wenig verkummert, ¨ gem¨aß seiner formalen Interpretation der Figur des Kr.s.ṇa. 53 Der bereits kon statierte Bruch zwischen einerseits dem transzendenten, v¨ollig unbestimmten ens realissimum und andererseits der Pluriformit¨at der bestimmten naturlichen ¨ Wirklichkeit, fuhrt Hegel zu der Annahme, daß die vorgeschriebenen ‘Werke’ ¨ (karma), selbstlos im Dienste Gottes ausgefuhrt ( ¨ madartham api karmāṇi kur van), nicht in dem christlichen Sinne aufgefaßt werden durfen, ‘daß in jedem ¨ Stande, wer Gott furchtet und Recht tut, ihm angenehm ist; denn dort gibt ¨ es keinen affirmativen Zusammenhang zwischen einem geistigen Gott und den Pflichten und somit kein innerliches Recht und Gewissen, denn der Inhalt der Pflichten ist nicht geistig, sondern naturlich bestimmt’ ( ¨ op. cit. 155). Es ist of fensichtlich, daß Hegel die Seite der Gītā v¨ollig ignoriert, wie sie so sch¨on im achtzehnten Vers des sechzehnten Gesanges ausgedruckt wird: ¨ 
 
 Sie, die Egoismus, Macht, Eitelkeit, Begierde und Wut zugetan sind, sind abgunstige Leute, die Mir sowohl in ihrem eigenen als auch im K ¨ ¨orper des anderen schlecht gesinnt sind. 
 
 Auf der anderen Seite korrigiert Hegel hiermit die hyperbolische Idealisierung von von Humboldt, der in der Lehre des karmayoga ‘unl¨augbar philosophisch eine an das Erhabene grenzende Seelenstimmung’ sieht (von Humboldt BhG, 195). Und hiermit sind wir bei Hegels eigener Beurteilung des karmayoga an gekommen. 
 
-52 Rāmāyan. a 1.52–57; Hegel BhG, 167 ff. Vgl. Phil. ḍRel. II, 492–494 (1831). 
+52 Rāmāyaṇa 1.52–57; Hegel BhG, 167 ff. Vgl. Phil. ḍRel. II, 492–494 (1831). 
 
 53 Zurecht bemerkt Hulin: ‘La participation d’amour `a Krishna et `a ses oeuvres, th`eme majeur de la Bhagavad-Gītā, est donc assimil´ee par lui `a l’asc`ese purement physique qui m`ene `a l’h´eb´etude.’ (Hulin 1979, 214). 
 
@@ -851,7 +851,7 @@ Auf der anderen Seite korrigiert Hegel hiermit die hyperbolische Idealisierung v
 
 Hierin zentral steht seine gerechtfertigte Annahme, mit der er sich wesent lich von von Humboldt unterscheidet, daß, wenn die Gītā vom karma, von den Werken, spricht, hiermit die Summe von Handlungen gemeint ist, die sich di rekt aus der Sammlung der traditionellen Vorschriften ergeben (die mehr oder weniger als religi¨ose eingestuft werden k¨onnen) und von der jeweiligen Kaste oder Klasse abh¨angig sinḍIn Arjunas Zweifel geht es nicht, wie von Hum boldt es gerne sehen wurde, um eine Familienethik. Es ist nicht die Liebe zu ¨ den Verwandten, die Arjuna treibt, sondern die Furcht, vor der Zerst¨orung der naturlichen Ordnung als indirekte Folge seines Handelns, dadurch n ¨ ¨amlich, daß den Witwen keine geeigneten Ehem¨anner mehr zur Verfugung stehen, und sich ¨ deshalb die Kasten vermengen mussen, so daß die geforderten Ahnenopfer nicht ¨ mehr in der erforderlichen Weise erbracht werden k¨onnen usw. 
 
-In der Kr.s.n. as Ratschl¨agen kann Hegel ebensowenig eine ‘moralische Bestim mung’ finden, doch legt er großen Wert darauf, daß der Schwerpunkt mehr auf die Intention als auf die Handlungen selbst gelegt wirḍDas Handlen in Ubereinstimmung mit den Vorschriften, die der Ordnung der Kasten entstam- ¨ men, ungeachtet dessen, ob hierbei von den Fruchten derselben Abstand ge- ¨ nommen wird oder nicht—und die insofern nicht auf einer vernunftigen Verein- ¨ barung basieren, in der jedes Individuum als prinzipiell gleichgestelltes Wesen, d.h. als Person, Anerkennung findet—kann in Hegels Betrachtungsweise, die letztendlich eine kantianische ist, niemals einem sittlichen Handeln entspre chen. Hegel fuhrt verschiedene Stellen der Gītā an, in denen gelehrt wird, daß ¨ die kasten-gebundenen Werke durch naturliche Qualit ¨ ¨aten (gun. a) bestimmt werden, d.h. biologisch durch die Geburt in eine spezifische Kaste (svabhāva, BhG 18.42 ff.) determiniert sind. 
+In der Kr.s.ṇas Ratschl¨agen kann Hegel ebensowenig eine ‘moralische Bestim mung’ finden, doch legt er großen Wert darauf, daß der Schwerpunkt mehr auf die Intention als auf die Handlungen selbst gelegt wirḍDas Handlen in Ubereinstimmung mit den Vorschriften, die der Ordnung der Kasten entstam- ¨ men, ungeachtet dessen, ob hierbei von den Fruchten derselben Abstand ge- ¨ nommen wird oder nicht—und die insofern nicht auf einer vernunftigen Verein- ¨ barung basieren, in der jedes Individuum als prinzipiell gleichgestelltes Wesen, d.h. als Person, Anerkennung findet—kann in Hegels Betrachtungsweise, die letztendlich eine kantianische ist, niemals einem sittlichen Handeln entspre cheṇHegel fuhrt verschiedene Stellen der Gītā an, in denen gelehrt wird, daß ¨ die kasten-gebundenen Werke durch naturliche Qualit ¨ ¨aten (guṇa) bestimmt werden, d.h. biologisch durch die Geburt in eine spezifische Kaste (svabhāva, BhG 18.42 ff.) determiniert sind. 
 
 Es ist eher fur wichtig anzusehen, es bemerklich zu machen, daß auch in diesem ¨ Gedichte, welches dies große Ansehen indischer Weisheit und Moral genießt, die bekannten Kastenunterschiede ohne die Spur einer Erhebung zur moralischen Frei heit zugrunde liegen. (op. cit. 154) 
 
@@ -873,13 +873,13 @@ terielle Realit¨at transzendiert. Uberhaupt spielt bei Hegel die Lehre von der 
 
 Schlussbetrachtung 
 
-Betrachten wir abschließend noch einmal, ob diese tiefere Einsicht Hegel veranlaßte, seine Vorlesungen, da, wo sie Indien betreffen, zu ¨andern. Da wir uns speziell auf seine Rezeption der indischen Philosophie richten, kann ich in diesem Kontext nur kurz auf die Anderungen eingehen, die in den ¨ nicht-philosophiehistorischen Vorlesungen vorgenommen worden sind. 54 Von den Vorlesungen sind bis heute nur die Vorlesungen uber die Philosophie ¨ der Religion vollst¨andig, differenziert nach Vorlesungsjahren herausgegeben. Diese Ausgabe allerdings macht einmal mehr deutlich, daß Hegel st¨andig das Material seiner Vorlesungen entsprechend dem neuesten Stand von Einsichten erg¨anzte und ¨anderte, und dies scheint vor allem der Fall gewesen zu sein, wo er den Begriff brahman/Brahmā behandelte. Verglichen mit dem Vorle sungszyklus von 1824 ist Hegels Analyse der indischen Religion 1827 bereits systematischer und dadurch pr¨agnanter. Die von Jaeschke als ‘Sondergut’ vermerkten Beilagen der Zykli von 1824 und 1827, von denen ein wesentlicher Teil wahrscheinlich auf die verlorenen Nachschriften des Vorlesungszyklus von 1831 zuruckzuf ¨ uhren ist, lassen allerdings vermuten, daß er vor allem f ¨ ur ¨ diesen letzten Zyklus die Zeit gefunden hat, seinen Vorlesungsstoff grundlich ¨ umzuarbeiten. 55 Inhaltlich scheinen viele dieser Ver¨anderungen mit dem ubereinzustimmen, was wir in den ¨ Vorlesungen uber die Geschichte der ¨ Philosophie antreffen, die Hegel in den Wintersemestern 1827/28 und 1829/30 vor einem stets wachsenden Auditorium gehalten hat, 56 und worauf wir uns jetzt beschr¨anken wollen. 
+Betrachten wir abschließend noch einmal, ob diese tiefere Einsicht Hegel veranlaßte, seine Vorlesungen, da, wo sie Indien betreffen, zu ¨anderṇDa wir uns speziell auf seine Rezeption der indischen Philosophie richten, kann ich in diesem Kontext nur kurz auf die Anderungen eingehen, die in den ¨ nicht-philosophiehistorischen Vorlesungen vorgenommen worden sind. 54 Von den Vorlesungen sind bis heute nur die Vorlesungen uber die Philosophie ¨ der Religion vollst¨andig, differenziert nach Vorlesungsjahren herausgegebeṇDiese Ausgabe allerdings macht einmal mehr deutlich, daß Hegel st¨andig das Material seiner Vorlesungen entsprechend dem neuesten Stand von Einsichten erg¨anzte und ¨anderte, und dies scheint vor allem der Fall gewesen zu sein, wo er den Begriff brahman/Brahmā behandelte. Verglichen mit dem Vorle sungszyklus von 1824 ist Hegels Analyse der indischen Religion 1827 bereits systematischer und dadurch pr¨agnanter. Die von Jaeschke als ‘Sondergut’ vermerkten Beilagen der Zykli von 1824 und 1827, von denen ein wesentlicher Teil wahrscheinlich auf die verlorenen Nachschriften des Vorlesungszyklus von 1831 zuruckzuf ¨ uhren ist, lassen allerdings vermuten, daß er vor allem f ¨ ur ¨ diesen letzten Zyklus die Zeit gefunden hat, seinen Vorlesungsstoff grundlich ¨ umzuarbeiten. 55 Inhaltlich scheinen viele dieser Ver¨anderungen mit dem ubereinzustimmen, was wir in den ¨ Vorlesungen uber die Geschichte der ¨ Philosophie antreffen, die Hegel in den Wintersemestern 1827/28 und 1829/30 vor einem stets wachsenden Auditorium gehalten hat, 56 und worauf wir uns jetzt beschr¨anken wollen. 
 
 54 Siehe oben, n. 2 on p. 24. 
 
 55 Siebe Phil. ḍRel. II, 222–228, 237–239, 245–246, 475–478, 485–486, 492–494. Vgl. den Kommentar des Herausgebers der Phil. ḍRel. II, xi. 
 
-56 Dies fur sich genommen ist eine textinhaltliche Best ¨ ¨atigung einer von Jaeschke aufgrund seiner textkritischen Analyse gewonnenen Vermutung, daß die betreffenden Sondergut Passagen zum Vorlesungszyklus von 1831 geh¨oren. Auch bei einigen, von Jaeschke nicht n¨aher bestimmten Sondergut-Passagen (Phil. ḍRel. II, 237 f.) scheint aus textimma nenten Grunden die Zugeh ¨ ¨origkeit zum letzten Vorlesungszyklus sehr wahrscheinlich, obwohl nicht v¨ollig auszuschließen ist, daß die fruheren Herausgeber (Marheineke und ¨ Bauer) dem Text eigene Formulierungen, dann aber im Geiste des letzten Vorlesungszy klus, hinzufugten (vgl. Jaeschke ¨ op. cit. I, lxxxiii sq.). 
+56 Dies fur sich genommen ist eine textinhaltliche Best ¨ ¨atigung einer von Jaeschke aufgrund seiner textkritischen Analyse gewonnenen Vermutung, daß die betreffenden Sondergut Passagen zum Vorlesungszyklus von 1831 geh¨oreṇAuch bei einigen, von Jaeschke nicht n¨aher bestimmten Sondergut-Passagen (Phil. ḍRel. II, 237 f.) scheint aus textimma nenten Grunden die Zugeh ¨ ¨origkeit zum letzten Vorlesungszyklus sehr wahrscheinlich, obwohl nicht v¨ollig auszuschließen ist, daß die fruheren Herausgeber (Marheineke und ¨ Bauer) dem Text eigene Formulierungen, dann aber im Geiste des letzten Vorlesungszy klus, hinzufugten (vgl. Jaeschke ¨ op. cit. I, lxxxiii sq.). 
 
 
 
@@ -889,9 +889,9 @@ Betrachten wir abschließend noch einmal, ob diese tiefere Einsicht Hegel veranl
 
 
 
-Zuerst f¨allt auf, daß das Kapitel aus der Einleitung mit dem Titel Der Anfang der Geschichte der Philosophie, das in den Vorlesungen von 1825/26 bereits si gnifikanten Anderungen unterzogen wurde, 1827/28 und 1829/30 nahezu v ¨ ¨ollig verschwanḍDie vorausgesetzte Einheit von Geist und Natur als ‘das orientali sche Wesen uberhaupt’, sowie auch das ‘Prinzip der Freiheit’ als ¨ conditio sine qua non der philosophischen Reflexion sind gestrichen. An deren Stelle geht Hegel schlichtweg davon aus, daß die Geschichte der Philosophie dort anf¨angt, ‘wo der Gedanke rein hervortritt, wo er allgemein ist, und wo dieses Reine, dieses Allgemeine das Wesentliche, Wahrhafte, Absolute ist, das Wesen von Allem’ (Einleitung 224), was den Osten, obwohl die griechische Welt explizit genannt wird, nicht mehr prinzipiell ausschließt. Hingegen beginnt er seine Vor lesung uber Indien 1827/28 mit der Bemerkung: ‘Im allgemeinen ist es gleich zu ¨ bemerken, daß wir auch bei ihnen abstrakte Philosophien und die Ausbildung einer sehr formellen Logik antreffen’ (op. cit. 288). Es kann nicht geleugnet wer den, daß wir es hier mit einer radikalen Standpunktver¨anderung zu tun haben. Die Frage, die sich uns in diesem Verband stellt, eine Frage, deren Hegel sich bewußt gewesen sein muß, ist, wie diese neue Sichtweise in Ubereinstimmung ¨ zu bringen ist mit den Gesetzm¨aßigkeiten der Selbstentfaltung des Geistes in der Weltgeschichte, oder mit anderen Worten, wie sie sich zum Ganzen des Hegelschen Systems verh¨alt. 
+Zuerst f¨allt auf, daß das Kapitel aus der Einleitung mit dem Titel Der Anfang der Geschichte der Philosophie, das in den Vorlesungen von 1825/26 bereits si gnifikanten Anderungen unterzogen wurde, 1827/28 und 1829/30 nahezu v ¨ ¨ollig verschwanḍDie vorausgesetzte Einheit von Geist und Natur als ‘das orientali sche Wesen uberhaupt’, sowie auch das ‘Prinzip der Freiheit’ als ¨ conditio sine qua non der philosophischen Reflexion sind gestricheṇAn deren Stelle geht Hegel schlichtweg davon aus, daß die Geschichte der Philosophie dort anf¨angt, ‘wo der Gedanke rein hervortritt, wo er allgemein ist, und wo dieses Reine, dieses Allgemeine das Wesentliche, Wahrhafte, Absolute ist, das Wesen von Allem’ (Einleitung 224), was den Osten, obwohl die griechische Welt explizit genannt wird, nicht mehr prinzipiell ausschließt. Hingegen beginnt er seine Vor lesung uber Indien 1827/28 mit der Bemerkung: ‘Im allgemeinen ist es gleich zu ¨ bemerken, daß wir auch bei ihnen abstrakte Philosophien und die Ausbildung einer sehr formellen Logik antreffen’ (op. cit. 288). Es kann nicht geleugnet wer den, daß wir es hier mit einer radikalen Standpunktver¨anderung zu tun habeṇDie Frage, die sich uns in diesem Verband stellt, eine Frage, deren Hegel sich bewußt gewesen sein muß, ist, wie diese neue Sichtweise in Ubereinstimmung ¨ zu bringen ist mit den Gesetzm¨aßigkeiten der Selbstentfaltung des Geistes in der Weltgeschichte, oder mit anderen Worten, wie sie sich zum Ganzen des Hegelschen Systems verh¨alt. 
 
-Vorerst sei darauf verwiesen, daß Hegel mit diesem Problem nicht mehr ganz ins Reine gekommen ist. 57 Jedoch ist er in keiner Weise dieser indischen Her ausforderung aus dem Wege gegangen. Eine L¨osung, fur die wir glauben An- ¨ deutungen in seinen sp¨ateren Vorlesungen zu finden, hat er vielleicht durch die Differenzierung der indischen Kulturtr¨ager zu erreichen versucht. So wie auch in Griechenland nicht jeder in der Lage war, sich zum Philosophen zu entwickeln (schließlich wurde der Großteil der Bev¨olkerung unfrei geboren), ist in Indien einem jeden diese Position versagt. Vor allem die Klasse der Brahmanen muß als Vertretung eines geistigen Niveaus betrachtet werden, auf dem sich das phi losophische Denken entfalten konnte. Wie wir gesehen haben, verk¨orpern die Brahmanen nach Hegels Ansicht das Denken des und die Vereinigung mit dem brahman (op. cit. 292). Das, was durch andere Klassen nur, entweder durch Riten, d.h. durch religi¨osen Kultus, oder durch asketische Gewalt, d.h. mittels eines Yoga-Kurses, zu erreichen ist, n¨amlich die Erhebung zum brahman, ist fur die Brahmanen auf eine dritte Art und Weise erreichbar, und zwar dem ¨ Weg folgend, der die eigentliche Philosophie ausmacht, ‘das Gehen durch den entwickelten, durch den bestimmten Gedanken’, und Hegel fugt, einer Ent- ¨ schuldigung gleich, hinzu: ‘Von dieser war uns bisher wenig bekannt’ (op. cit. 293). 
+Vorerst sei darauf verwiesen, daß Hegel mit diesem Problem nicht mehr ganz ins Reine gekommen ist. 57 Jedoch ist er in keiner Weise dieser indischen Her ausforderung aus dem Wege gegangeṇEine L¨osung, fur die wir glauben An- ¨ deutungen in seinen sp¨ateren Vorlesungen zu finden, hat er vielleicht durch die Differenzierung der indischen Kulturtr¨ager zu erreichen versucht. So wie auch in Griechenland nicht jeder in der Lage war, sich zum Philosophen zu entwickeln (schließlich wurde der Großteil der Bev¨olkerung unfrei geboren), ist in Indien einem jeden diese Position versagt. Vor allem die Klasse der Brahmanen muß als Vertretung eines geistigen Niveaus betrachtet werden, auf dem sich das phi losophische Denken entfalten konnte. Wie wir gesehen haben, verk¨orpern die Brahmanen nach Hegels Ansicht das Denken des und die Vereinigung mit dem brahman (op. cit. 292). Das, was durch andere Klassen nur, entweder durch Riten, d.h. durch religi¨osen Kultus, oder durch asketische Gewalt, d.h. mittels eines Yoga-Kurses, zu erreichen ist, n¨amlich die Erhebung zum brahman, ist fur die Brahmanen auf eine dritte Art und Weise erreichbar, und zwar dem ¨ Weg folgend, der die eigentliche Philosophie ausmacht, ‘das Gehen durch den entwickelten, durch den bestimmten Gedanken’, und Hegel fugt, einer Ent- ¨ schuldigung gleich, hinzu: ‘Von dieser war uns bisher wenig bekannt’ (op. cit. 293). 
 
 57 Hegels Zweifel in Bezug hierauf kommt in seiner achten Vorlesung im Wintersemester 1829/30 in der Aussage zum Ausdruck: 
 
@@ -931,11 +931,11 @@ Schlussmoral
 
 A.W. Schlegel, dessen fruhere Werke, man denke an seine Shakespeare-Studien ¨ und die Bhagavadgītā-Edition, von Hegel sehr gesch¨atzt wurden, gibt 1827 nach einer Periode der Abwesenheit wieder eine Reihe von Vorlesungen an der Universit¨at von Berlin, die auch von Hegel besucht und desweiteren von ihm mit den Worten kommentiert werden: ‘Tief kann er freilich nicht gehen, aber fur sein Publikum ist seine deutliche und beredte Art sehr passend.’ ¨ 60 Unter diesem Publikum befand sich auch Heinrich Heine und sein Bericht legt nahe, Hegels Schilderung vom Extrem der Eitelkeit konkret der Person August Wilhelm Schlegels zuzuschreiben, dessen Abgetakeltheit von Heine wie folgt beschrieben wird: 
 
-Aber er hatte unterdessen nichts Neues gelernt, und er sprach jetzt zu einem Publikum, welches von Hegel eine Philosophie der Kunst, eine Wissenschaft der Asthetik, erhalten hatte. Man spottete und zuckte die Achsel. Es ging ihm wie ¨ einer alten Kom¨odiantin, die nach zwanzigj¨ahriger Abwesenheit den Schauplatz ihres ehemaligen Succes wieder betritt, und nicht begreift, warum die Leute lachen statt zu applaudieren. Der Mann hatte sich entsetzlich ver¨andert und er erg¨otzte Berlin vier Wochen lang durch die Etalage seiner L¨acherlichkeiten. Er war ein alter eitler Geck geworden, der sich uberall zum Narren halten ließ. Man erz ¨ ¨ahlt daruber ¨ die unglaublichsten Dinge. 61 
+Aber er hatte unterdessen nichts Neues gelernt, und er sprach jetzt zu einem Publikum, welches von Hegel eine Philosophie der Kunst, eine Wissenschaft der Asthetik, erhalten hatte. Man spottete und zuckte die Achsel. Es ging ihm wie ¨ einer alten Kom¨odiantin, die nach zwanzigj¨ahriger Abwesenheit den Schauplatz ihres ehemaligen Succes wieder betritt, und nicht begreift, warum die Leute lachen statt zu applaudiereṇDer Mann hatte sich entsetzlich ver¨andert und er erg¨otzte Berlin vier Wochen lang durch die Etalage seiner L¨acherlichkeiteṇEr war ein alter eitler Geck geworden, der sich uberall zum Narren halten ließ. Man erz ¨ ¨ahlt daruber ¨ die unglaublichsten Dinge. 61 
 
 Es wird nicht ohne Ironie gewesen sein, aber desto kennzeichnender fur seine ¨ virtuose Dialektik, daß Hegel dem ersten deutschen Professor in der Indologie zur Genesung von seinem Ungluck ein Bad im indischem ¨ brahman empfohlen haben soll. 
 
-Was die inhaltliche Auseinandersetzung mit der indischen Philosophie in seinen Vorlesungen von 1827/28 und 1829/30 betrifft, werde ich mich kurz fassen. Hegel bringt eine nicht wesentlich von seiner ‘Bhagavadgītā-Version’ abweichende Betrachtung uber den Begriff ¨ brahman ein (op. cit. 286 f. u. 291 ff.). Außerdem revidiert er im positiven Sinne seine Meinung uber das Sām ¨ . khya. Sah er in den Vorlesungen von 1825/26 in den tattvas des Sām. khya-Systems nur eine trockene, ideenlose Aufz¨ahlung, beurteilt er sie jetzt doch als ‘einen sinnigen Zusammenhang, eine sinnige Form darin’ (op. cit. 304). 
+Was die inhaltliche Auseinandersetzung mit der indischen Philosophie in seinen Vorlesungen von 1827/28 und 1829/30 betrifft, werde ich mich kurz fasseṇHegel bringt eine nicht wesentlich von seiner ‘Bhagavadgītā-Version’ abweichende Betrachtung uber den Begriff ¨ brahman ein (op. cit. 286 f. u. 291 ff.). Außerdem revidiert er im positiven Sinne seine Meinung uber das Sām ¨ . khya. Sah er in den Vorlesungen von 1825/26 in den tattvas des Sām. khya-Systems nur eine trockene, ideenlose Aufz¨ahlung, beurteilt er sie jetzt doch als ‘einen sinnigen Zusammenhang, eine sinnige Form darin’ (op. cit. 304). 
 
 59 Hegel in Berlin, 115. Vgl. Halbfass 1981, 115 f. 
 
@@ -951,11 +951,9 @@ Was die inhaltliche Auseinandersetzung mit der indischen Philosophie in seinen V
 
 2 / Die indische Herausforderung 45 
 
-Hiermit mussen wir unsere Betrachtung zu Hegels Bem ¨ uhungen, um mit der ¨ Herausforderung ins Reine zu kommen, die die Entdeckung der indischen philo sophischen Tradition ihm bietet, abschließen. Es m¨oge deutlich geworden sein, daß seine Ansichten nicht unabh¨angig von dem Stand des Wissens und der Haltung in bezug auf die indische Zivilisation zu seiner Zeit gesehen werden k¨onnen. 
+Hiermit mussen wir unsere Betrachtung zu Hegels Bem ¨ uhungen, um mit der ¨ Herausforderung ins Reine zu kommen, die die Entdeckung der indischen philo sophischen Tradition ihm bietet, abschließeṇEs m¨oge deutlich geworden sein, daß seine Ansichten nicht unabh¨angig von dem Stand des Wissens und der Haltung in bezug auf die indische Zivilisation zu seiner Zeit gesehen werden k¨onnen. 
 
-W¨ahrend Hegel einerseits in diese Zivilisation tiefer eindringt, als die meisten seiner Zeitgenossen, entlehnt er andererseits hieraus eine Einsicht, die seiner Stellungnahme gegen die herrschende romantische Orientrezeption eine gewis se Autorit¨at und Treffsicherheit verleiht. Seine philosophische Analyse ist eine andauernde Polemik gegen alle diejenigen, die in der indischen Kultur eine Alternative sahen, ein Vorbild, nach dem sich auch der westliche Mensch rich ten sollte. Es ist dieser Mythos, den Hegel gnadenlos abbricht. Obwohl er nicht leugnet, daß das indische Denken in gewisser Weise auch fur uns von Bedeutung ¨ sein kann, weist er damit zugleich auf dessen Begrenztheit, auf sein historisches Niveau in der Geistesgeschichte der Menschheit, wohin kein Weg zuruckf ¨ uhrt. ¨ Und damit kommt der romantische Traum zu einem Ende. Wie beeindruckend die Bhagavadgītā auch jetzt noch ist, sie ist es als historisch-literarisches Do kument. Fur den entwickelten europ ¨ ¨aischen Menschen des neunzehnten oder zwanzigsten Jahrhunderts kann sie niemals ein Evangelium sein. Dies ist die Einsicht, die wir bzw. ich an erster Stelle Hegel verdanke. 
-
-
+W¨ahrend Hegel einerseits in diese Zivilisation tiefer eindringt, als die meisten seiner Zeitgenossen, entlehnt er andererseits hieraus eine Einsicht, die seiner Stellungnahme gegen die herrschende romantische Orientrezeption eine gewis se Autorit¨at und Treffsicherheit verleiht. Seine philosophische Analyse ist eine andauernde Polemik gegen alle diejenigen, die in der indischen Kultur eine Alternative sahen, ein Vorbild, nach dem sich auch der westliche Mensch rich ten sollte. Es ist dieser Mythos, den Hegel gnadenlos abbricht. Obwohl er nicht leugnet, daß das indische Denken in gewisser Weise auch fur uns von Bedeutung ¨ sein kann, weist er damit zugleich auf dessen Begrenztheit, auf sein historisches Niveau in der Geistesgeschichte der Menschheit, wohin kein Weg zuruckf ¨ uhrt. ¨ Und damit kommt der romantische Traum zu einem Ende. Wie beeindruckend die Bhagavadgītā auch jetzt noch ist, sie ist es als historisch-literarisches Do kument. Fur den entwickelten europ ¨ ¨aischen Menschen des neunzehnten oder zwanzigsten Jahrhunderts kann sie niemals ein Evangelium seiṇDies ist die Einsicht, die wir bzw. ich an erster Stelle Hegel verdanke. 
 
 
 
@@ -963,7 +961,9 @@ W¨ahrend Hegel einerseits in diese Zivilisation tiefer eindringt, als die meist
 
 
 
-Ayodhyā : le nom et le lieu∗ 
+
+
+## Ayodhyā : le nom et le lieu 
 
 Ayodhya conc¸ue : le nom ¯ 
 
@@ -971,11 +971,11 @@ Mais si ces noms absorb`erent `a tout jamais l’image que j’avais de ces vill
 
 C’est ainsi que Marcel Proust d´ecrit les lois sp´ecifiques qui r´egissent le pro cessus de l’imagination litt´eraire. Cette imagination peut prendre son essor `a partir d’une r´ealit´e g´eographique `a peine esquiss´ee. S’appuyant sur la mystique des noms, on transforme et red´efinit cette r´ealit´e en lui attribuant des traits particuliers vari´es—et la transposant ainsi dans le domaine de la fiction o`u elle trouve son existence id´eale; ‘ils exalt`erent l’id´ee que je me faisais de certains lieux de la terre, en les faisant plus particuliers, par cons´equent plus r´eels’ (ibid.). 
 
-D’une fa¸con analogue le nom ‘Ayodhyā’, ´evocateur de la gloire h´ero¨ıque d’un ˆage r´evolu, a dˆu se confondre avec la r´ealit´e historique de la vie quotidienne de l’Inde du Nord dans l’imagination cr´eatrice des auteurs de l’Epop´ee in dienne. Nous connaissons le r´esultat de cette fusion cr´eatrice : ce fut le monde romanesque du Rāmāyan. a dont le foyer ´etait la ville d’Ayodhyā, bˆatie jadis par Manu, le prog´eniteur de la race humaine. La ville s’´etendait sur douze lieues et poss´edait des rues et des forums larges au trac´e magnifique; elle ´etait embellie par des portes massives, des hˆotels sublimes et des palais dor´es. 2 
+D’une fa¸con analogue le nom ‘Ayodhyā’, ´evocateur de la gloire h´ero¨ıque d’un ˆage r´evolu, a dˆu se confondre avec la r´ealit´e historique de la vie quotidienne de l’Inde du Nord dans l’imagination cr´eatrice des auteurs de l’Epop´ee in dienne. Nous connaissons le r´esultat de cette fusion cr´eatrice : ce fut le monde romanesque du Rāmāyaṇa dont le foyer ´etait la ville d’Ayodhyā, bˆatie jadis par Manu, le prog´eniteur de la race humaine. La ville s’´etendait sur douze lieues et poss´edait des rues et des forums larges au trac´e magnifique; elle ´etait embellie par des portes massives, des hˆotels sublimes et des palais dor´es. 2 
 
-On trouve d´ej`a le mot ayodhyā (‘imprenable’) dans l’Atharvaveda 10.2.39 et dans le Taittirīya Araṅyaka 1.27.2–3, comme ´epith`ete de la forteresse (pur) des dieux. Dans toute la partie narrative du Mahābhārata, qui constituait pro bablement la partie la plus ancienne de l’Epop´ee, et dans les parties analogues de la litt´erature purˆanique (d´esign´ee par Purān. apa˜ncalaks.an. a), Ayodhyā figu re comme la capitale ancienne de la dynastie des Iks.vāku qui r´egnait dans le 
+On trouve d´ej`a le mot ayodhyā (‘imprenable’) dans l’Atharvaveda 10.2.39 et dans le Taittirīya Araṅyaka 1.27.2–3, comme ´epith`ete de la forteresse (pur) des dieux. Dans toute la partie narrative du Mahābhārata, qui constituait pro bablement la partie la plus ancienne de l’Epop´ee, et dans les parties analogues de la litt´erature purˆanique (d´esign´ee par Purāṇapa˜ncalaks.aṇa), Ayodhyā figu re comme la capitale ancienne de la dynastie des Iks.vāku qui r´egnait dans le 
 
-∗ Cet article a ´et´e publi´e dans la Revue de l’Histoire des Religions, CCIII–1 (1986), pp. 53 `a 66, et r´e´edit´e dans Bakker, Hans (ed.), Een Tuil Orchidee¨en. Anthologie uit de Tuin der Geesteswetenschappen te Groningen. Groningen 2005. pp. 233–241. 
+∗ Cet article a ´et´e publi´e dans la Revue de l’Histoire des Religions, CCIII–1 (1986), pp. 53 `a 66, et r´e´edit´e dans Bakker, Hans (ed.), Een Tuil Orchidee¨eṇAnthologie uit de Tuin der Geesteswetenschappen te GroningeṇGroningen 2005. pp. 233–241. 
 
 1 Marcel Proust, A la recherche du temps perdu, I, 387. 
 
@@ -991,11 +991,11 @@ On trouve d´ej`a le mot ayodhyā (‘imprenable’) dans l’Atharvaveda 10.2.3
 
 
 
-lointain ˆage de Tretā. Bien que la ville soit reli´ee au pays des Kosala, 3 elle n’est nulle part mentionn´ee comme ´etant situ´ee au bord de la rivi`ere Saray¯u. Pareillement, dans les parties anciennes du Rāmāyan. a, il est seulement sugg´er´e que la capitale de Rāma ´etait situ´ee pr`es de la Saray¯u, 4 et on n’y indique que tr`es vaguement son emplacement en le d´esignant comme la capitale du Ko sala. 5 On doit, d’ailleurs, noter que dans les parties anciennes du Rāmāyan. a l’emplacement non seulement d’Ayodhyā ´etait impr´ecis mais aussi celui de la Saray¯u. Il est fort probable que la rivi`ere Sarayu, connue d´ej`a dans la litt´erature v´edique, coulait `a travers le Punjab. 6 Lorsque le peuple aryen p´en´etra dans le bassin du Gange il d´esigna peut-ˆetre une des rivi`eres du janapada de Kosala par le nom ‘Saray¯u’ en souvenir de la rivi`ere de leur ancienne patrie : ainsi, on a probablement ici un cas de transfert toponymique. Aujourd’hui encore, trois rivi`eres dans le bassin du Gogra sont appel´ees Sarj¯u. 7 L’impr´ecision de l’emplacement de la ville d’Ayodhyā dans les portions anciennes de la litt´erature ´epique, est, comme on pouvait le pr´evoir, en accord avec la nature en grande partie fictive de ces textes. Dans ce contexte, on peut aussi songer aux nom breuses difficult´es que l’on rencontre lorsqu’on veut d´eterminer la route exacte d’Ayodhyā `a Laṅkā qu’avait emprunt´ee Rāma. 8 
+lointain ˆage de Tretā. Bien que la ville soit reli´ee au pays des Kosala, 3 elle n’est nulle part mentionn´ee comme ´etant situ´ee au bord de la rivi`ere Saray¯u. Pareillement, dans les parties anciennes du Rāmāyaṇa, il est seulement sugg´er´e que la capitale de Rāma ´etait situ´ee pr`es de la Saray¯u, 4 et on n’y indique que tr`es vaguement son emplacement en le d´esignant comme la capitale du Ko sala. 5 On doit, d’ailleurs, noter que dans les parties anciennes du Rāmāyaṇa l’emplacement non seulement d’Ayodhyā ´etait impr´ecis mais aussi celui de la Saray¯u. Il est fort probable que la rivi`ere Sarayu, connue d´ej`a dans la litt´erature v´edique, coulait `a travers le Punjab. 6 Lorsque le peuple aryen p´en´etra dans le bassin du Gange il d´esigna peut-ˆetre une des rivi`eres du janapada de Kosala par le nom ‘Saray¯u’ en souvenir de la rivi`ere de leur ancienne patrie : ainsi, on a probablement ici un cas de transfert toponymique. Aujourd’hui encore, trois rivi`eres dans le bassin du Gogra sont appel´ees Sarj¯u. 7 L’impr´ecision de l’emplacement de la ville d’Ayodhyā dans les portions anciennes de la litt´erature ´epique, est, comme on pouvait le pr´evoir, en accord avec la nature en grande partie fictive de ces textes. Dans ce contexte, on peut aussi songer aux nom breuses difficult´es que l’on rencontre lorsqu’on veut d´eterminer la route exacte d’Ayodhyā `a Laṅkā qu’avait emprunt´ee Rāma. 8 
 
-Une ´equipe d’arch´eologues indiens c´el`ebres a essay´e par une s´erie de fouilles de retrouver les endroits cit´es dans le Rāmāyan. a, mais en vain, comme on aurait pu pr´evoir si on avait ajout´e foi `a la remarque de Sankalia : ‘Careful study of the descriptions of Laṅkā and Kis.kindhā shows that the poets have created imaginary cities, though this imagination was no doubt helped either by a sight or description of the cities of India in the beginning of the Christian era or later.’ 9 Comme la ville sacr´ee actuelle d’Ayodhyā semblait, de fa¸con ´evidente, ˆetre la preuve de l’historicit´e de la capitale de la dynastie solaire, la remarque de Sankalia ne fut jamais consid´er´ee comme applicable `a cette ville. Cependant, `a l’exception des textes ´epiques, il n’existe aucune preuve en faveur de l’existence r´eelle d’une capitale ancienne de Daśaratha et de son fils; et personnellement je suis convaincu que tout effort pour retrouver la topographie du Rāmāyan. a doit ˆetre consid´er´e comme un gaspillage d’ing´eniosit´e. 
+Une ´equipe d’arch´eologues indiens c´el`ebres a essay´e par une s´erie de fouilles de retrouver les endroits cit´es dans le Rāmāyaṇa, mais en vain, comme on aurait pu pr´evoir si on avait ajout´e foi `a la remarque de Sankalia : ‘Careful study of the descriptions of Laṅkā and Kis.kindhā shows that the poets have created imaginary cities, though this imagination was no doubt helped either by a sight or description of the cities of India in the beginning of the Christian era or later.’ 9 Comme la ville sacr´ee actuelle d’Ayodhyā semblait, de fa¸con ´evidente, ˆetre la preuve de l’historicit´e de la capitale de la dynastie solaire, la remarque de Sankalia ne fut jamais consid´er´ee comme applicable `a cette ville. Cependant, `a l’exception des textes ´epiques, il n’existe aucune preuve en faveur de l’existence r´eelle d’une capitale ancienne de Daśaratha et de son fils; et personnellement je suis convaincu que tout effort pour retrouver la topographie du Rāmāyaṇa doit ˆetre consid´er´e comme un gaspillage d’ing´eniosit´e. 
 
-3 Par ex., MBh 3.75.3, o`u la capitale du roi R. tuparn. a s’appelle Kosalā. 
+3 Par ex., MBh 3.75.3, o`u la capitale du roi R. tuparṇa s’appelle Kosalā. 
 
 4 Rām. 2.43.13, 2.32.15, 2.32.18, 2.70.19. Cf. Bakker 1986 I, 9. 
 
@@ -1019,7 +1019,7 @@ Une ´equipe d’arch´eologues indiens c´el`ebres a essay´e par une s´erie d
 
 Ayodhya retrouv ¯ ee : le lieu ´ 
 
-Ailleurs j’ai d´emontr´e 10 longuement que les textes anciens qui parlent d’une part d’Ayodhyā et d’autre part d’une ville appel´ee Sāketa, peuvent ˆetre divis´es en deux groupes distincts. A l’exception de deux passages dans le canon pāli, qu’on peut d´emontrer n’avoir ´et´e `a l’origine qu’un seul texte, 11 qui font men tion d’un lieu sans importance nomm´e Ayodhyā au bord du Gange, 12 et d’un autre passage dans le Sthānas¯utra du canon jain, 13 qui, dans l’´enum´eration des territoires et de leurs chefs-lieux—en grande partie mythologiques—pr´esente Ayodhyā comme la capitale de Mahāvideha, Ayodhyā semble figurer en tant que nom de ville ancienne uniquement dans la litt´erature ´epique d´ej`a men tionn´ee qui s’occupe principalement du savoir traditionnel; alors que Sāketa en tant que nom de lieu ne figure point dans ces textes. Par contre, les anciens textes qui parlent de Sāketa, d’abord, ne mentionnent jamais Ayodhyā, et, de plus, ils sont nettement d’une autre nature. On peut `a peine douter qu’il s’agit de cas historiques r´eels dans les canons des deux traditions h´et´erodoxes, ainsi que dans les textes sanskrits comme le commentaire de Pata˜njali sur Pān. ini, 14 ou dans ceux un peu plus r´ecents, comme le Yugapurān. a,15 la Mahāmāy¯urī,16 et le Kāmas¯utra de Vātsyāyana, 17 de mˆeme que dans l’oeuvre du g´eographe grec Ptol´em´ee qui parle de la ville de           .18 En lisant ces textes nous avons l’impression de trouver une ville r´eelle qui a jou´e un rˆole important dans l’histoire ancienne de l’Inde septentrionale, et qui, par communis opinio, est identifi´ee avec l’emplacement occup´e actuellement par la ville d’Ayodhyā. Ce fait historique est en outre attest´e par une inscription en caract`eres kus.ān. a sur le pi´edestal d’une statue du Bouddha trouv´ee `a Srāvastī et qui raconte la ´ donation de cette statue par un certain Sihadeva de Sāketa. 19   
+Ailleurs j’ai d´emontr´e 10 longuement que les textes anciens qui parlent d’une part d’Ayodhyā et d’autre part d’une ville appel´ee Sāketa, peuvent ˆetre divis´es en deux groupes distincts. A l’exception de deux passages dans le canon pāli, qu’on peut d´emontrer n’avoir ´et´e `a l’origine qu’un seul texte, 11 qui font men tion d’un lieu sans importance nomm´e Ayodhyā au bord du Gange, 12 et d’un autre passage dans le Sthānas¯utra du canon jain, 13 qui, dans l’´enum´eration des territoires et de leurs chefs-lieux—en grande partie mythologiques—pr´esente Ayodhyā comme la capitale de Mahāvideha, Ayodhyā semble figurer en tant que nom de ville ancienne uniquement dans la litt´erature ´epique d´ej`a men tionn´ee qui s’occupe principalement du savoir traditionnel; alors que Sāketa en tant que nom de lieu ne figure point dans ces textes. Par contre, les anciens textes qui parlent de Sāketa, d’abord, ne mentionnent jamais Ayodhyā, et, de plus, ils sont nettement d’une autre nature. On peut `a peine douter qu’il s’agit de cas historiques r´eels dans les canons des deux traditions h´et´erodoxes, ainsi que dans les textes sanskrits comme le commentaire de Pata˜njali sur Pāṇini, 14 ou dans ceux un peu plus r´ecents, comme le Yugapurāṇa,15 la Mahāmāy¯urī,16 et le Kāmas¯utra de Vātsyāyana, 17 de mˆeme que dans l’oeuvre du g´eographe grec Ptol´em´ee qui parle de la ville de           .18 En lisant ces textes nous avons l’impression de trouver une ville r´eelle qui a jou´e un rˆole important dans l’histoire ancienne de l’Inde septentrionale, et qui, par communis opinio, est identifi´ee avec l’emplacement occup´e actuellement par la ville d’Ayodhyā. Ce fait historique est en outre attest´e par une inscription en caract`eres kus.āṇa sur le pi´edestal d’une statue du Bouddha trouv´ee `a Srāvastī et qui raconte la ´ donation de cette statue par un certain Sihadeva de Sāketa. 19   
 
 En bref, l’ancienne question de savoir si Sāketa et Ayodhyā ´etaient deux villes voisines, 20 identiques, 21 ou diff´erentes, 22 dans la p´eriode qui s’´etend jusqu’aux premiers si`ecles de notre `ere, trouve sa r´eponse dans la th´eorie de l’existence d’une ville historique sur l’emplacement actuel d’Ayodhyā depuis au moins le vie si`ecle avant J.-C., 23 qui s’appelait Sāketa, et d’une autre ville, fictive, 
 
@@ -1031,9 +1031,9 @@ En bref, l’ancienne question de savoir si Sāketa et Ayodhyā ´etaient deux v
 
 13 Sthānas¯utra (Thānasuya), 637 (II, 435v). 
 
-14 Pata˜njali ad Pān. ini, 1.3.25. 
+14 Pata˜njali ad Pāṇini, 1.3.25. 
 
-15 Yugapurān. a 1.94–95, 1.116–119. 
+15 Yugapurāṇa 1.94–95, 1.116–119. 
 
 16 L´evi 1915, Mahāmāy¯urī, 1.10, 65, 68. 
 
@@ -1061,9 +1061,9 @@ En bref, l’ancienne question de savoir si Sāketa et Ayodhyā ´etaient deux v
 
 Ayodhyā, particuli`ere `a la tradition ´epique, et dont l’origine se perd, de l’aveu g´en´eral, dans les temps pr´ehistoriques et, par cons´equent, se trouve au-del`a des confins de la recherche historique. 
 
-Si nous fixons maintenant notre attention sur la partie de la litt´erature ´epique qui a pu ˆetre ajout´ee `a la souche premi`ere pendant les ´epoques kus.ān. a et gupta, nous constatons un changement significatif. Il y a une description d’Ayodhyā dans le premier livre du Rāmāyan. a, o`u la ville est situ´ee explici tement au bord de la rivi`ere Saray¯u. 24 Le caract`ere essentiellement fictif de la ville se refl`ete dans sa description imaginaire st´er´eotyp´ee, 25 mais dans le li vre VII l’endroit o`u Rāma s’est noy´e est d´esign´e sp´ecifiquement par Gopratāra (Rām. 7.110.20), emplacement qui figure aussi dans la liste des lieux sacr´es que donne le Tīrthayātrāparvan du Mahābhārata (MBh 3.82.63–65). Nous pouvons concevoir ces deux d´emarcations comme l’aboutissement d’une ten dance `a mat´erialiser l’emplacement de la ville l´egendaire. Cette mat´erialisation (r´eification), ce processus par lequel un nombre croissant de personnes est amen´e progressivement `a envisager la ville de Sāketa comme l’emplacement de l’Ayodhyā ´epique, ne doit aucunement ˆetre vue comme un ph´enom`ene isol´e. A la mˆeme ´epoque—soit `a partir du ier si`ecle jusqu’`a la fin du ive—et li´e, pour ainsi dire, dialectiquement `a ce processus de r´eification, il y a la d´eification du h´eros du Rāmāyan. a. Pendant ces si`ecles, justement, la doctrine des r´eincarnations de Vis.n. u, d´esign´ees au d´ebut comme des ‘apparitions’ (prādurbhāva), 26 mais bientˆot appel´ees ‘descentes’ (avatāra), fut universellement reconnue. 27 Ceci prit place `a l’´epoque mˆeme o`u il y eut le d´eveloppement rapide du culte hindoui sant des temples, dans lequel les idoles furent consid´er´ees comme des divinit´es v´eritables incarn´ees. 
+Si nous fixons maintenant notre attention sur la partie de la litt´erature ´epique qui a pu ˆetre ajout´ee `a la souche premi`ere pendant les ´epoques kus.āṇa et gupta, nous constatons un changement significatif. Il y a une description d’Ayodhyā dans le premier livre du Rāmāyaṇa, o`u la ville est situ´ee explici tement au bord de la rivi`ere Saray¯u. 24 Le caract`ere essentiellement fictif de la ville se refl`ete dans sa description imaginaire st´er´eotyp´ee, 25 mais dans le li vre VII l’endroit o`u Rāma s’est noy´e est d´esign´e sp´ecifiquement par Gopratāra (Rām. 7.110.20), emplacement qui figure aussi dans la liste des lieux sacr´es que donne le Tīrthayātrāparvan du Mahābhārata (MBh 3.82.63–65). Nous pouvons concevoir ces deux d´emarcations comme l’aboutissement d’une ten dance `a mat´erialiser l’emplacement de la ville l´egendaire. Cette mat´erialisation (r´eification), ce processus par lequel un nombre croissant de personnes est amen´e progressivement `a envisager la ville de Sāketa comme l’emplacement de l’Ayodhyā ´epique, ne doit aucunement ˆetre vue comme un ph´enom`ene isol´e. A la mˆeme ´epoque—soit `a partir du ier si`ecle jusqu’`a la fin du ive—et li´e, pour ainsi dire, dialectiquement `a ce processus de r´eification, il y a la d´eification du h´eros du Rāmāyaṇa. Pendant ces si`ecles, justement, la doctrine des r´eincarnations de Vis.ṇu, d´esign´ees au d´ebut comme des ‘apparitions’ (prādurbhāva), 26 mais bientˆot appel´ees ‘descentes’ (avatāra), fut universellement reconnue. 27 Ceci prit place `a l’´epoque mˆeme o`u il y eut le d´eveloppement rapide du culte hindoui sant des temples, dans lequel les idoles furent consid´er´ees comme des divinit´es v´eritables incarn´ees. 
 
-De ce mˆeme d´eveloppement r´esulta le besoin d’envisager un lieu o`u l’unique descente de Vis.n. u en tant que roi futur d’Ayodhyā avait eu lieu : un vrai dieu descendant sur terre a besoin d’un sol ferme et r´eel, si tant est qu’il descende. En fait cette adoration des images et des emplacements topographiques n’´etait que l’inversion dialectique de l’id´ee de la divinit´e incarn´ee. Cette id´ee de la des cente de dieu, une fois mise en relation avec le h´eros du Rāmāyan. a entraˆınant la d´eification de Rāma, mena `a l’attribution d’une signification nouvelle `a un endroit terrestre peu exceptionnel, ce qui aboutit finalement `a l’homologation de Sāketa et d’Ayodhyā, autrement dit, `a la r´eification d’Ayodhyā. Le processus que je viens de d´ecrire inspira de nouvelles activit´es litt´eraires et th´eologiques. Il produisit non seulement un d´eveloppement de cette litt´erature qu’on appelle la Rāmakathā,28 mais il ouvrit aussi des possibilit´es `a de nouveaux cr´eateurs de mythes, en particulier dans le milieu jaina. Pendant les si`ecles en question, 
+De ce mˆeme d´eveloppement r´esulta le besoin d’envisager un lieu o`u l’unique descente de Vis.ṇu en tant que roi futur d’Ayodhyā avait eu lieu : un vrai dieu descendant sur terre a besoin d’un sol ferme et r´eel, si tant est qu’il descende. En fait cette adoration des images et des emplacements topographiques n’´etait que l’inversion dialectique de l’id´ee de la divinit´e incarn´ee. Cette id´ee de la des cente de dieu, une fois mise en relation avec le h´eros du Rāmāyaṇa entraˆınant la d´eification de Rāma, mena `a l’attribution d’une signification nouvelle `a un endroit terrestre peu exceptionnel, ce qui aboutit finalement `a l’homologation de Sāketa et d’Ayodhyā, autrement dit, `a la r´eification d’Ayodhyā. Le processus que je viens de d´ecrire inspira de nouvelles activit´es litt´eraires et th´eologiques. Il produisit non seulement un d´eveloppement de cette litt´erature qu’on appelle la Rāmakathā,28 mais il ouvrit aussi des possibilit´es `a de nouveaux cr´eateurs de mythes, en particulier dans le milieu jaina. Pendant les si`ecles en question, 
 
 24 Rām. 1.5.5. 
 
@@ -1081,7 +1081,7 @@ De ce mˆeme d´eveloppement r´esulta le besoin d’envisager un lieu o`u l’u
 
 3 / Ayodhyā : le nom et le lieu 51 
 
-un corpus consid´erable de mythologie avait ´et´e re¸cu et ´elabor´e `a l’int´erieur du jainisme. Une grande partie de ce corpus n’´etait pourtant pas issue des traditions sp´ecifiquement jainistes, mais ´etait d´ej`a connue sous des formes brˆahmaniques. 29 Dans cette fusion, la mythologie du clan des Iks.vāku fut li´ee `a la notion des tīrthaṅkara et des cakravartin. Ainsi dit-on que le premier tīrthaṅkara, R. s.abha, ´etait n´e `a Ikkhāgabh¯umi, 30 ou Vin.īyā (Vinītā), comme cette ville est appel´ee dans le Jamb¯udvīpapraj˜napti (I, p. 112). La ville mytho logique de Vin.īyā ne peut ˆetre que l’Ayodhyā ´epique d´esign´ee sous un autre nom. Et vu que Sāketa ´etait d´ej`a connu dans le jainisme comme un des lieux sacr´es, sanctifi´e par les s´ejours de Mahāvīra, 31 les jainas n’h´esit`erent pas `a con fondre Vin.īyā, Ikkhāgabh¯umi, Aojjhā et Sāketa. Ce ph´enom`ene semble avoir eu lieu `a la mˆeme p´eriode o`u les mythes de Rāma ´etaient incorpor´es dans la mythologie jaina, c’est-`a-dire pendant les premiers si`ecles de l’`ere chr´etienne, ainsi qu’il est attest´e pour la premi`ere fois dans le Paumacariya ¨ .32 
+un corpus consid´erable de mythologie avait ´et´e re¸cu et ´elabor´e `a l’int´erieur du jainisme. Une grande partie de ce corpus n’´etait pourtant pas issue des traditions sp´ecifiquement jainistes, mais ´etait d´ej`a connue sous des formes brˆahmaniques. 29 Dans cette fusion, la mythologie du clan des Iks.vāku fut li´ee `a la notion des tīrthaṅkara et des cakravartiṇAinsi dit-on que le premier tīrthaṅkara, R. s.abha, ´etait n´e `a Ikkhāgabh¯umi, 30 ou Vin.īyā (Vinītā), comme cette ville est appel´ee dans le Jamb¯udvīpapraj˜napti (I, p. 112). La ville mytho logique de Vin.īyā ne peut ˆetre que l’Ayodhyā ´epique d´esign´ee sous un autre nom. Et vu que Sāketa ´etait d´ej`a connu dans le jainisme comme un des lieux sacr´es, sanctifi´e par les s´ejours de Mahāvīra, 31 les jainas n’h´esit`erent pas `a con fondre Vin.īyā, Ikkhāgabh¯umi, Aojjhā et Sāketa. Ce ph´enom`ene semble avoir eu lieu `a la mˆeme p´eriode o`u les mythes de Rāma ´etaient incorpor´es dans la mythologie jaina, c’est-`a-dire pendant les premiers si`ecles de l’`ere chr´etienne, ainsi qu’il est attest´e pour la premi`ere fois dans le Paumacariya ¨ .32 
 
 La premi`ere phase de ce processus de r´eification du lieu l´egendaire fut achev´ee `a l’´epoque des Gupta et aboutit `a l’acceptation g´en´erale de l’identit´e entre Ayodhyā et Sāketa. Le fait que cette identification n’´etait pas universellement reconnue sous le r`egne des premiers Gupta semble ˆetre implicite dans quelques textes purˆaniques, qui attribuent aux rois Gupta la souverainet´e sur la ville g´eographique de Sāketa plutˆot que sur la ville fictive d’Ayodhyā. 33 
 
@@ -1101,7 +1101,7 @@ C’est seulement `a partir du moment o`u le nom d’Ayodhyā a ´et´e employ´
 
 35 Takakusu 1904, 283 sqq.; Xuanzang, Xiyuji I, 106; Frauwallner 1951, p. 30; Bakker 1986 I, 29. 
 
-36 Raghuvam. śa 16.25–42; Ks.īrasvāmin’s Ks.īratara˙ngin.ī, 274 sq.; Frauwallner 1951, 30; Bak ker 1982a, 103–126. 37 Raghuvam. śa, 5.31, 13.79, 14.13; cf. Brahmān. ḍapurān. a (BḍP) 3.54.5, 54. 
+36 Raghuvam. śa 16.25–42; Ks.īrasvāmin’s Ks.īratara˙ngin.ī, 274 sq.; Frauwallner 1951, 30; Bak ker 1982a, 103–126. 37 Raghuvam. śa, 5.31, 13.79, 14.13; cf. Brahmān. ḍapurāṇa (BḍP) 3.54.5, 54. 
 
 
 
@@ -1111,9 +1111,9 @@ C’est seulement `a partir du moment o`u le nom d’Ayodhyā a ´et´e employ´
 
 
 
-Une deuxi`eme phase de ce processus de r´eification/d´eification s’accomplit quand la signification religieuse de la manifestation de Vis.n. u, comme Rāma, re¸cut une impulsion nouvelle. Lorsque, `a partir du xiie si`ecle, Rāma fut re connu non pas simplement comme une incarnation de Dieu, mais comme la manifestation de sa nature la plus v´eritable et la plus secr`ete, le prestige de sa demeure terrestre augmenta en raison directe. En mˆeme temps que la construc tion des premiers temples dans lesquels l’idole principale de Vis.n. u ´etait con¸cue comme (l’incarnation de) Rāma, 38 Ayodhyā, ainsi que d’autres emplacements particuliers `a l’int´erieur d’Ayodhyā, furent reconnus comme des lieux sacr´es, tīrtha.39 Ces endroits et leurs contenus n’´etaient plus uniquement de simples r´eifications d’un pass´e glorieux, mais furent consid´er´es petit `a petit comme des repr´esentations d’une r´ealit´e divine. 
+Une deuxi`eme phase de ce processus de r´eification/d´eification s’accomplit quand la signification religieuse de la manifestation de Vis.ṇu, comme Rāma, re¸cut une impulsion nouvelle. Lorsque, `a partir du xiie si`ecle, Rāma fut re connu non pas simplement comme une incarnation de Dieu, mais comme la manifestation de sa nature la plus v´eritable et la plus secr`ete, le prestige de sa demeure terrestre augmenta en raison directe. En mˆeme temps que la construc tion des premiers temples dans lesquels l’idole principale de Vis.ṇu ´etait con¸cue comme (l’incarnation de) Rāma, 38 Ayodhyā, ainsi que d’autres emplacements particuliers `a l’int´erieur d’Ayodhyā, furent reconnus comme des lieux sacr´es, tīrtha.39 Ces endroits et leurs contenus n’´etaient plus uniquement de simples r´eifications d’un pass´e glorieux, mais furent consid´er´es petit `a petit comme des repr´esentations d’une r´ealit´e divine. 
 
-Finalement, `a la fin du xvie si`ecle, ce processus trouva son accomplissement dans la conception de deux villes parall`eles. La ville terrestre d’Ayodhyā avec son appareil de lieux sacr´es fut consid´er´ee comme la r´eplique fid`ele d’un mod`ele ´eternel et c´eleste, Vaikun.t.ha, le paradis de Vis.n. u. 40 Ce qui peut paraˆıtre comme une de ces ironies de l’histoire, c’est le fait que, pr´ecis´ement dans le milieu de la secte dite Rasika de la Rāma-bhakti, le nom archa¨ıque de Sāketa fut repris pour d´esigner cet arch´etype c´eleste, Vaikun.t.ha, le bhogasthala (‘lieu de la jouissance’) de Rāma. 41 Les adeptes et les p`elerins qui visitaient (et visitent encore) cette r´eplique terrestre, la ville sacr´ee d’Ayodhyā, pensaient ˆetre dans le ‘champ du jeu’, līlāsthala,42 de Rāma et participer `a son jeu (līlā), et, quand ils prenaient le prasāda (aliment sacralis´e) que les prˆetres leur donnaient, ils pensaient prendre part `a la jouissance ´eternelle et bienheureuse de Rāma. 
+Finalement, `a la fin du xvie si`ecle, ce processus trouva son accomplissement dans la conception de deux villes parall`eles. La ville terrestre d’Ayodhyā avec son appareil de lieux sacr´es fut consid´er´ee comme la r´eplique fid`ele d’un mod`ele ´eternel et c´eleste, Vaikuṇt.ha, le paradis de Vis.ṇu. 40 Ce qui peut paraˆıtre comme une de ces ironies de l’histoire, c’est le fait que, pr´ecis´ement dans le milieu de la secte dite Rasika de la Rāma-bhakti, le nom archa¨ıque de Sāketa fut repris pour d´esigner cet arch´etype c´eleste, Vaikuṇt.ha, le bhogasthala (‘lieu de la jouissance’) de Rāma. 41 Les adeptes et les p`elerins qui visitaient (et visitent encore) cette r´eplique terrestre, la ville sacr´ee d’Ayodhyā, pensaient ˆetre dans le ‘champ du jeu’, līlāsthala,42 de Rāma et participer `a son jeu (līlā), et, quand ils prenaient le prasāda (aliment sacralis´e) que les prˆetres leur donnaient, ils pensaient prendre part `a la jouissance ´eternelle et bienheureuse de Rāma. 
 
 Illiers–Combray 
 
@@ -1169,7 +1169,7 @@ toutes les fleurs du . . . jardin et celles du parc de M. Swann, et les nymph´e
 
 
 
-Ayodhyā: A Hindu Jerusalem∗ 
+## Ayodhyā: A Hindu Jerusalem 
 
 An Investigation of ‘Holy War’ as a Religious Idea 
 
@@ -1183,7 +1183,7 @@ How is this contradiction to be explained, and how has the image of a peace ful 
 
 ∗ The first version of this article was published in: Numen XXXVIII, Fasc. I (1991), 80–109. 
 
-1 In the famous Indian handbook on policy, the Arthaśāstra, the king is regularly referred to as vijigīs.u, ‘he who wishes to conquer’, an epithet which is not given a religious justification. The duty of the nobility (ks.atriya) is defined as: ‘Studying (the Vedas), performing sacrifices (with the help of brahmin priests), dotation, living by arms (śastrā jīvana), and protection of beings’ (AS 1.3.6). 
+1 In the famous Indian handbook on policy, the Arthaśāstra, the king is regularly referred to as vijigīs.u, ‘he who wishes to conquer’, an epithet which is not given a religious justificatioṇThe duty of the nobility (ks.atriya) is defined as: ‘Studying (the Vedas), performing sacrifices (with the help of brahmin priests), dotation, living by arms (śastrā jīvana), and protection of beings’ (AS 1.3.6). 
 
 2 Heesterman 1985 has traced the origin of this conflict in the Indian tradition to the oppo sition between the Hindu ideal of world-renunciation and the reality of social conditions. 
 
@@ -1201,7 +1201,7 @@ Holy war as a religious idea
 
 On the eve of the deadline of the UN’s ultimatum to Irak (15 January 1991) the British prime minister John Major declared in the House of Commons that the now inevitable war is a ‘just’ one. At the same time Saddam Hussein calls on all Muslims to fight under Irak’s banner, as it leads them on to a holy war, jihād, to be fought by ‘believers’ against ‘infidels’. 
 
-It cannot but be noted that both speeches make use of concepts developed during the early Middle Ages in the two great monotheistic traditions, which apparently still retain some currency, and indeed evocative force. In the pre dominantly secular society of late twentieth century England a summons to a ‘holy war’ would hardly have an effect, except to provoke ridicule and suspi cion. Instead, we find an appeal to a concept first developed by St. Augustine, namely that of a bellum justum (‘just war’), which can be shown to be the source of the idea of a crusade. 5 Saddam Hussein’s proclamation of a jihād has almost equally venerable precedents. The aim of summoning ‘believers’ to a holy war against ‘infidels’ is to mobilize the strength and motivation of the faithful in a military enterprise, to suppress fear of physical danger, and to encourage actions which frequently are opposed to the direct personal interests of the individual. 
+It cannot but be noted that both speeches make use of concepts developed during the early Middle Ages in the two great monotheistic traditions, which apparently still retain some currency, and indeed evocative force. In the pre dominantly secular society of late twentieth century England a summons to a ‘holy war’ would hardly have an effect, except to provoke ridicule and suspi cioṇInstead, we find an appeal to a concept first developed by St. Augustine, namely that of a bellum justum (‘just war’), which can be shown to be the source of the idea of a crusade. 5 Saddam Hussein’s proclamation of a jihād has almost equally venerable precedents. The aim of summoning ‘believers’ to a holy war against ‘infidels’ is to mobilize the strength and motivation of the faithful in a military enterprise, to suppress fear of physical danger, and to encourage actions which frequently are opposed to the direct personal interests of the individual. 
 
 Such declarations and exhortations on both sides are clearly primarily in tended to raise morale among both soldiers and civilians. In other words, their value is chiefly propagandistic, and this is certainly an important aspect of the phenomenon of holy war. It would however be a serious mistake to imagine that this alone could provide a full or adequate explanation of the phenomenon. 
 
@@ -1223,7 +1223,7 @@ It is necessary to ask a more fundamental question: why is it that the call to a
 
 When a modern researcher of war and peace, the polemologist Hylke Tromp, concludes that we should forget about ‘the faith, ideology and sacred fire’ of soldiers on the field of battle because they only go forward because they have no alternative, if they do not want to lose the respect of others and their own self respect’ (Tromp 1991), this may seem to suggest that cultural anthropological questions and questions such as posed in the previous paragraph are irrelevant. However, the self-image which determines the content and force of this ‘respect of others and self-respect’ is in fact the product of the individualization of the cultural and religious values of the society which the soldier is called upon to fight for. 6 It is this self-image that war-propaganda aims at building up and strengthening, in order to break down any innate repugnance against killing fellow men. 7 To understand what ultimately motivates the individual soldier to place his duty as soldier above personal safety it is necessary to focus on the social, cultural and—in the case of holy wars—particularly the religious values and symbols which constitute this self-image. 
 
-Fear and violence are universal basic experiences and thus important con stituents of all religions (von Stietencron 1979). But this has not always re sulted in them giving rise to collective violence sanctioned by religion. What then specifically distinguishes holy wars from war in general? 
+Fear and violence are universal basic experiences and thus important con stituents of all religions (von Stietencron 1979). But this has not always re sulted in them giving rise to collective violence sanctioned by religioṇWhat then specifically distinguishes holy wars from war in general? 
 
 As has been noted above, some scholars have seen the answer to this question in some common element of the three great monotheistic religions: Judaism, Christianity and Islam. Significantly, Colpe does not consider Hinduism at all in his two articles Zur Bezeichnung und Bezeugung des Heiligen Krieges (1984), while as to the polytheism thesis he remarks with reference to ancient Greek history that: 
 
@@ -1251,13 +1251,13 @@ Although the term ‘holy war’ (                     ) seems to have been used
 
 As is clear from a glance at the literature on this subject, especially Colpe’s work, the definition of ‘holy war’ itself is considerably problematic. Agree ment may be reached easily enough on the meaning of the word ‘war’ but ‘holy’ and the idea of ‘holiness’ have been understood in very different ways by various scholars. Kippenberg (1991a) has pointed out that ‘the word “holy” should be freed from its connotations of irrationality, with which especially R. Otto has associated it, and should rather be connected with “the uncommon” (“nicht-allt¨agliche”) in contrast with “the common” (“allt¨agliche”) (M. Weber), and with “collective” in contrast with “individual” (E. Durkheim)’. By such a definition all wars are ‘holy’, and in view of the large number of wars which have taken place on the South-Asian subcontinent, the polytheism thesis would have to be considered to be directly refuteḍOn the other hand, the historical material definitely suggests that holy wars form a separate category, and for heuristic reasons too it seems desirable to narrow the scope of our definition in some way. 
 
-The narrowest definition of a ‘holy war’ would be a war waged in the name of God by people who believe that by doing so they fulfil His will and carry out His plan. Some of the Christian crusades may be taken as examples of such wars. The deus vult of Pope Urban II’s address in Clermont in ad 1095, and the consequence of this ‘will’ are well known. However, it seems questionable whether the Islamic jihād can in all circumstances be comprised within this definition. 9 A compromise, which comes close to the ordinary usage of the 
+The narrowest definition of a ‘holy war’ would be a war waged in the name of God by people who believe that by doing so they fulfil His will and carry out His plaṇSome of the Christian crusades may be taken as examples of such wars. The deus vult of Pope Urban II’s address in Clermont in ad 1095, and the consequence of this ‘will’ are well knowṇHowever, it seems questionable whether the Islamic jihād can in all circumstances be comprised within this definition. 9 A compromise, which comes close to the ordinary usage of the 
 
 8 Burkert 1986, 82 f. See also Brodersen 1991. 
 
 9 Noth remarks in his Heiliger Krieg und Heiliger Kampf in Christentum und Islam (1966, 21 f.): 
 
-Fassen wir als ‘heilige Kriege’ bewaffnete Unternehmungen auf, bei denen die Reli gion allein das Gesetz des Handelns bestimmte und nicht zugleich Volkswohl, Lan desverteidigung, Staatsinteresse oder nationale Ehre mit im Spiel waren, dann hat es ‘heilige Kriege’ im Islam auf staatlicher Ebene nie gegeben. Missionskriege, die als heilige Kriege angesprochen werden k¨onnen, waren die K¨ampfe der Muslims noch nicht einmal zu Lebzeiten des Propheten. In der Folgezeit wurde der Missionskrieg zwar theoretisch konzipiert, aber nicht in die Tat umgesetzt. 
+Fassen wir als ‘heilige Kriege’ bewaffnete Unternehmungen auf, bei denen die Reli gion allein das Gesetz des Handelns bestimmte und nicht zugleich Volkswohl, Lan desverteidigung, Staatsinteresse oder nationale Ehre mit im Spiel waren, dann hat es ‘heilige Kriege’ im Islam auf staatlicher Ebene nie gegebeṇMissionskriege, die als heilige Kriege angesprochen werden k¨onnen, waren die K¨ampfe der Muslims noch nicht einmal zu Lebzeiten des PropheteṇIn der Folgezeit wurde der Missionskrieg zwar theoretisch konzipiert, aber nicht in die Tat umgesetzt. 
 
 Cf. also Weippert 1972, 490: 
 
@@ -1283,7 +1283,7 @@ Two of the conditions formulated by von Stietencron do not appear to be necessar
 
 10 Weippert 1972, 485 ff.: 
 
-Wichtig erscheint mir jedoch die Erkenntnis, daß diese Motive in den assyrischen K¨onigsinschriften eine legitimierende Funktion haben. Sie sollen zeigen, daß in den Kriegen des K¨onigs und seiner Truppen der Wille des Reichsgottes Assur und der anderen großen G¨otter vollstreckt wird, daß der K¨onig als vicarius deorum auf die Weisung und mit dem Beistand seiner ‘Herren’ handelt. [. . . ] Die Legitimation kann auch propagandistisch verwendet werden, etwa bei ¨offentlich zug¨anglichen Siegesste len. Auch in Israel l¨aßt sich die legitimierende Funktion der Motive vom g¨ottlichen Eingreifen in Kampfhandlungen mit einiger Sicherheit feststellen (op. cit. 487 f.). 
+Wichtig erscheint mir jedoch die Erkenntnis, daß diese Motive in den assyrischen K¨onigsinschriften eine legitimierende Funktion habeṇSie sollen zeigen, daß in den Kriegen des K¨onigs und seiner Truppen der Wille des Reichsgottes Assur und der anderen großen G¨otter vollstreckt wird, daß der K¨onig als vicarius deorum auf die Weisung und mit dem Beistand seiner ‘Herren’ handelt. [. . . ] Die Legitimation kann auch propagandistisch verwendet werden, etwa bei ¨offentlich zug¨anglichen Siegesste leṇAuch in Israel l¨aßt sich die legitimierende Funktion der Motive vom g¨ottlichen Eingreifen in Kampfhandlungen mit einiger Sicherheit feststellen (op. cit. 487 f.). 
 
 The ‘polytheism thesis’ should be examined further with respect to this historical ma terial. This is, however, beyond the competence of the present author. 
 
@@ -1303,7 +1303,7 @@ The common acceptance of an exclusive truth unites believers into a commu nity. 
 
 The Hindu religion and the social reality of war 
 
-To pursue our investigation into collective religious violence in the historical and contemporary reality of South Asia in relation to Hinduism, it is necessary to introduce a chronological differentiation. Early Hinduism, before Muslim dominance (c. ad 1200), unquestionably taught an absolute truth as the basis of the entire universe and the final aim of all living beings. However, as argued by Hacker (1983), this truth had a diffuse, all pervasive, inclusive (‘inklusivistisch’) nature and was thus the opposite of exclusive. God transcends the world but is simultaneously omnipresent in it. Such a world-view can have no fundamental opposition between good and evil. This characteristic of early Indian thought can be illustrated by a passage from Kaus.ītaki Upanis.ad 3.1. 
+To pursue our investigation into collective religious violence in the historical and contemporary reality of South Asia in relation to Hinduism, it is necessary to introduce a chronological differentiatioṇEarly Hinduism, before Muslim dominance (c. ad 1200), unquestionably taught an absolute truth as the basis of the entire universe and the final aim of all living beings. However, as argued by Hacker (1983), this truth had a diffuse, all pervasive, inclusive (‘inklusivistisch’) nature and was thus the opposite of exclusive. God transcends the world but is simultaneously omnipresent in it. Such a world-view can have no fundamental opposition between good and evil. This characteristic of early Indian thought can be illustrated by a passage from Kaus.ītaki Upanis.ad 3.1. 
 
 Indra said to him: Know me alone; for I hold this alone to be the most beneficial thing for a man, that he should know me. I slew the three-headed son of Tvas.t.ar. 
 
@@ -1331,7 +1331,7 @@ Agastyasam. hitā 5.47 (Barkhuis 1995 II, 27): ‘For those who live, having rea
 
 Community must be understood according to the usual English signification of being simultaneously a people and a place, rather than in its limited and debased usage as sub-caste or religious group. [. . . ] However, in addition to the sharing of sentiments and values, community is also about shared rights or entitlements over human and material resources. Thus, in its particularities and under conditions of premodern technology, community pertains to smaller, local spatial entities. 
 
-The picture becomes more complicated when we take Buddhism into consideration. Already in an early stage Buddhism tended to extend the community of monks (saṅgha) to the community of all followers of the Buddhist faith. Consequently in that community the concept of the Bodhisattva, the one who temporarily sacrifices his own salvation for the benefit of all, could arise. 
+The picture becomes more complicated when we take Buddhism into consideratioṇAlready in an early stage Buddhism tended to extend the community of monks (saṅgha) to the community of all followers of the Buddhist faith. Consequently in that community the concept of the Bodhisattva, the one who temporarily sacrifices his own salvation for the benefit of all, could arise. 
 
 
 
@@ -1347,7 +1347,7 @@ We shall investigate whether a change has recently been taking place in regard t
 
 The advent of Islam 
 
-Such tendencies generally have a long history. As has been shown in Lorenzen’s study (1978), Warrior Ascetics in Indian History, before the Muslim conquests India did not have any holy wars, either in the sense defined above or in the sense of ‘wars fought by holy men’. But with the introduction of Muslim rule in North India, a change takes place, although this does not directly result in a holy war. Hindus are obstructed in the observance of their religious practices, and the religious interests vested in temples and monasteries are threatened with confiscation or destruction. At the same time the advent of Islam leads to conflicts between Hindu Yogis and Muslim fak.īrs (see above, p. 11), and the system of traditional education, which ensured the continuity of cultural and religious values, was seriously undermineḍThe state of affairs may be illustrated by a description of the razzia of Mah. m¯ud of Ghazni, who destroyed the great temple in Somnāth (Gujarat) in ad 1024–25. 
+Such tendencies generally have a long history. As has been shown in Lorenzen’s study (1978), Warrior Ascetics in Indian History, before the Muslim conquests India did not have any holy wars, either in the sense defined above or in the sense of ‘wars fought by holy men’. But with the introduction of Muslim rule in North India, a change takes place, although this does not directly result in a holy war. Hindus are obstructed in the observance of their religious practices, and the religious interests vested in temples and monasteries are threatened with confiscation or destructioṇAt the same time the advent of Islam leads to conflicts between Hindu Yogis and Muslim fak.īrs (see above, p. 11), and the system of traditional education, which ensured the continuity of cultural and religious values, was seriously undermineḍThe state of affairs may be illustrated by a description of the razzia of Mah. m¯ud of Ghazni, who destroyed the great temple in Somnāth (Gujarat) in ad 1024–25. 
 
 In the year 414 ah Mahm´ud captured several forts and cities in Hind, and he also took the idol called Somn´at. The idol was the greatest of all the idols of HinḍEvery night that there was an eclipse the Hindus went on pilgrimage to the temple, and there congregated to the number of a hundred thousand persons. [. . . ] One thousand Brahmans attended every day to perform the worship of the idol, and to introduce the visitors. Three hundred persons were employed in shaving the heads and beards of the pilgrims. Three hundred and fifty persons sang and danced at the gate of the temple. Every one of these received a settled allowance daily. [. . . ] He reached Somn´at on a Thursday in the middle of Z´ı-l Ka-da, and there he beheld a strong fortress built upon the seashore, so that it was washed by the waves. [. . . ] Next morning, early, the Muhammadans renewed the battle, and made great havoc 
 
@@ -1369,7 +1369,7 @@ among the Hindus, till they drove them from the town to the house of their idol,
 
 It is a well-authenticated fact that when Mahm´ud was about to destroy the idol, a crowd of Brahmans represented (to his nobles) that if he would desist from the mutilation they would pay several crores of gold coins into the treasury. [. . . ] Mahm´ud replied: ‘I know this, but I desire that on the day of resurrection I should be summoned with the words, ‘Where is that Mahm´ud who broke the greatest of the heathen idols?’ rather than by these: ‘Where is that Mahm´ud who sold the greatest of the idols to the infidels for gold?’ 17 
 
-A dreadful slaughter followed at the gate of the temple. Band after band of the defenders entered the temple to Somn´at, and with their hands clasped round their necks, wept and passionately entreated him. Then again they issued forth to fight until they were slain, and but few were left alive. [. . . ] This temple of Somn´at was built upon fifty-six pillars of teak wood covered with leaḍThe idol itself was in a chamber. [Mahm´ud] seized it, part of it he burnt, and part of it he carried away with him to Ghazn´ı, where he made it a step at the entrance of the J´ami--masjiḍThe worth of what was found in the temple exceeded two millions of dinars, all of which was taken. The number of slain exceeded fifty thousand. 18 
+A dreadful slaughter followed at the gate of the temple. Band after band of the defenders entered the temple to Somn´at, and with their hands clasped round their necks, wept and passionately entreated him. Then again they issued forth to fight until they were slain, and but few were left alive. [. . . ] This temple of Somn´at was built upon fifty-six pillars of teak wood covered with leaḍThe idol itself was in a chamber. [Mahm´ud] seized it, part of it he burnt, and part of it he carried away with him to Ghazn´ı, where he made it a step at the entrance of the J´ami--masjiḍThe worth of what was found in the temple exceeded two millions of dinars, all of which was takeṇThe number of slain exceeded fifty thousand. 18 
 
 It is therefore hardly surprising that in the following centuries a number of groups of Hindus formed military organizations to defend such religious inter ests. However, significantly enough this process only appears to have taken place among groups which already formed a religious community, namely vari ous orders of ascetics or monastic orders. Of course these were also the groups whose direct interests were particularly threateneḍResistance was naturally also offered by the Hindu kingdoms, but the resultant conflicts did not essen tially differ from early wars between Hindu rulers themselves, as may also be illustrated by the fact that many Hindus served in the armies commanded by and fighting for Muslims. It is important to note that there never was a popular Hindu uprising against the new Muslim rule. 
 
@@ -1399,13 +1399,13 @@ The segregation of the Hindu and Muslim communities
 
 The idea of the Rāma rājya 
 
-To trace developments further we will now turn to a particular religious centre, situated centrally in northern India: the city of Ayodhyā. The sacredness of this town was (and is) founded on the belief that in the distant past the god Vis.n. u was born there as the son of King Daśaratha. This particular incarnation of Vis.n. u is named Rāma. This belief belongs to the cultural heritage of every Hindu. The story of Vis.n. u’s avatāra as Rāma is told in the ancient Sanskrit epic Rāmāyan. a, as well as in countless later, vernacular versions of that story. 
+To trace developments further we will now turn to a particular religious centre, situated centrally in northern India: the city of Ayodhyā. The sacredness of this town was (and is) founded on the belief that in the distant past the god Vis.ṇu was born there as the son of King Daśaratha. This particular incarnation of Vis.ṇu is named Rāma. This belief belongs to the cultural heritage of every Hindu. The story of Vis.ṇu’s avatāra as Rāma is told in the ancient Sanskrit epic Rāmāyaṇa, as well as in countless later, vernacular versions of that story. 
 
-The figure of Rāma has developed into the archetype of the just king in Indian culture, the ruler who brings happiness and prosperity to all his subjects. He is introduced in the Rāmāyan. a 1.1.2–4 as follows. 
+The figure of Rāma has developed into the archetype of the just king in Indian culture, the ruler who brings happiness and prosperity to all his subjects. He is introduced in the Rāmāyaṇa 1.1.2–4 as follows. 
 
 Who is there in this world today who is virtuous? Who is mighty (heroic), knows the dharma, is grateful (kr.taj˜na), speaks the truth and firmly keeps his vows? Who is possessed of good conduct, and who is well-disposed towards all living beings? Who is wise, who is skilful, and who alone is beautiful to behold? Who is self controlled and has conquered (his) wrath; who is wise and free from envy? For whom do (even) the gods feel fear when his fury is roused in battle? 
 
-The answer to all these questions is of course King Rāma. His rule, popularly called Rāma rājya, as depicted in the Rāmāyan. a and later literature, represents the ideal society, and Rāma himself personifies simultaneously the ideal king and GoḍThe sixteenth century Rāmacaritamānasa describes his divine reign thus: 
+The answer to all these questions is of course King Rāma. His rule, popularly called Rāma rājya, as depicted in the Rāmāyaṇa and later literature, represents the ideal society, and Rāma himself personifies simultaneously the ideal king and GoḍThe sixteenth century Rāmacaritamānasa describes his divine reign thus: 
 
 19 Abu -l-Faz.l’s Akbar Nāma (transl. Beveridge), Vol. II, 423. Cf. Lorenzen 1978, 68 f.; Pinch 2006, 28 ff.; Clark 2006, 62. 
 
@@ -1419,7 +1419,7 @@ The answer to all these questions is of course King Rāma. His rule, popularly c
 
 When Rāma sat upon his sovereign throne, the three spheres rejoiced and there was no more sorrow. No man was any other’s enemy, and under Rāma’s royal influence all ill-feeling was laid aside. Everyone devoted himself to his duty in accordance with his caste and stage of life, and ever found happiness in treading the Vedic path. Fear and sorrow and sickness were no more. [. . . ] Sole monarch of the land engirdled by seven seas was Raghupati (i.e. Rāma) in Kosala—no great dominion for him in each of whose several hairs dwelt many a universe. [. . . ] The bliss and prosperity of Rāma’s realm neither Serpent King nor Sarasvatī can describe. All who dwelt therein were generous and charitable and did humble service to the Brāhmans. Each husband was true to one wife, and each wife was loyal to her husband in thought and word and deed. 20 
 
-As I have attempted to demonstrate elsewhere, the religious cult of this incar nation of Vis.n. u only assumes significant proportions in the period that saw the forces of Islam threatening to destroy Hindu society, many centuries after the formation of the Rāmāyan. a itself (Bakker 1986; 1987). It is only in the eleventh and twelfth centuries that Ayodhyā develops into a pilgrimage centre in which the spot where Rāma was born, the Rāmajanmabh¯umi, is the main attraction. A coincidence? Or is there some intrinsic connection between the Muslim in vasions and the rise in importance of this god-king as a symbol for traditional Hindu values? In any case, there can be no doubt that as the time-honoured model of justice (dharma) and of regal fame and power (ks.atra), Rāma was re markably well suited to develop into a symbol of the struggle against the forces that undermined traditional Hindu society and its values. 21 It is not possible to go further into this problem here; for our present purpose it is sufficient to remark that in the course of the second millennium Rāma, together with his birth-place Ayodhyā, came to occupy an increasingly important and central role in Hinduism. 
+As I have attempted to demonstrate elsewhere, the religious cult of this incar nation of Vis.ṇu only assumes significant proportions in the period that saw the forces of Islam threatening to destroy Hindu society, many centuries after the formation of the Rāmāyaṇa itself (Bakker 1986; 1987). It is only in the eleventh and twelfth centuries that Ayodhyā develops into a pilgrimage centre in which the spot where Rāma was born, the Rāmajanmabh¯umi, is the main attractioṇA coincidence? Or is there some intrinsic connection between the Muslim in vasions and the rise in importance of this god-king as a symbol for traditional Hindu values? In any case, there can be no doubt that as the time-honoured model of justice (dharma) and of regal fame and power (ks.atra), Rāma was re markably well suited to develop into a symbol of the struggle against the forces that undermined traditional Hindu society and its values. 21 It is not possible to go further into this problem here; for our present purpose it is sufficient to remark that in the course of the second millennium Rāma, together with his birth-place Ayodhyā, came to occupy an increasingly important and central role in Hinduism. 
 
 Until the end of Great Moghul rule, that is to say till the beginning of the eighteenth century, Ayodhyā was the capital of one of the provinces of the Muslim empire in northern India. In consequence, Hindu sects had few rights to defend in the city. Pilgrimage was tolerated, but the cream of the profits from it was taken by the Muslim rulers in the form of a tax on pilgrims. It was forbidden to build temples or monasteries of more than a certain dimension in the city, and the existing temples fell into decay and disappeared or were replaced by mosques. The latter happened to the temple on the alleged spot of Rāma’s birth, which dated to the early eleventh century. This small temple was replaced by a mosque, the so-called Babri Masjid, in ad 1528, during the reign of the first Moghul emperor, Bābur, 22 a deed of far-reaching consequences. 
 
@@ -1437,11 +1437,11 @@ Until the end of Great Moghul rule, that is to say till the beginning of the eig
 
 The Kingdom of Avadh 
 
-After the death of Aurangzeb in ad 1707, central Muslim rule in northern India was weakened to such an extent that regional and local rulers could found small independent kingdoms. Ayodhyā became the capital of the virtually indepen dent kingdom of Avadh, ruled by the former governor of the Moghul province, the nawāb Sa,ādat Khān, a Shiite Muslim of Persian descent. However, the power of the rulers of Avadh had been weakened so much that the execution of their authority came to lie more and more in the hands of allied Hindu leaders and landowners. Even the military power of the Islamic nawābs of Avadh was partly dependent on the services of Hindu ascetics. 23 The logical outcome of this situation was that Muslim authority lost its control over the activities in and around the Hindu holy places. The organization and management of the birth-city of Rāma came into the hands of Hindu monastic orders, who did not hesitate to use force in order to drive one another from economically lucrative spots. A Vais.n. ava source describes the situation as follows. 
+After the death of Aurangzeb in ad 1707, central Muslim rule in northern India was weakened to such an extent that regional and local rulers could found small independent kingdoms. Ayodhyā became the capital of the virtually indepen dent kingdom of Avadh, ruled by the former governor of the Moghul province, the nawāb Sa,ādat Khān, a Shiite Muslim of Persian descent. However, the power of the rulers of Avadh had been weakened so much that the execution of their authority came to lie more and more in the hands of allied Hindu leaders and landowners. Even the military power of the Islamic nawābs of Avadh was partly dependent on the services of Hindu ascetics. 23 The logical outcome of this situation was that Muslim authority lost its control over the activities in and around the Hindu holy places. The organization and management of the birth-city of Rāma came into the hands of Hindu monastic orders, who did not hesitate to use force in order to drive one another from economically lucrative spots. A Vais.ṇava source describes the situation as follows. 
 
 At that time [. . . ] when the occasion of Rāma’s birth came, people went to Kosala pur (i.e. Ayodhyā) and assembled there—who can describe the enormous crowd? At that place there was an unlimited (number of) strong warriors in sam. nyāsin garb, carrying weapons, with matted hair and ashes smeared on every limb—an unlimited army of soldiers taking pleasure in battle. Fighting with the vairāgins broke out. This fight was of no avail (to the vairāgins), owing to lack of strategy. [. . . ] They made a mistake by going there towards them; the vairāgin garb became a source of misery. All people dressed in vairagin garb fled—through fear of them (scil. sam. nyāsins) Avadhpur was abandoneḍWherever they (scil. sam. nyāsins) happened to find people in vairāgin garb, there they struck great fear into them. Through fear of them everyone was frightened and wherever they could they took shelter in a secret place and hid themselves. They changed their dress and hid their sectarian markings—no one showed his proper identity. 24 
 
-Inevitably, the Vais.n. ava orders armed themselves too. The evolving military orders were organized on the model of their Saiva counterparts, into ´ akhār.ās, ‘wrestling-schools’, and during the eighteenth century their fort-like monas teries appeared throughout North India. One of these orders succeeded in wresting the control over some of the important holy places in Ayodhyā from their Saiva adverseries. And as a reward for services rendered to the Nawāb of ´ Avadh—a Shiite, as remarked above—the Vais.n. avas were even granted permis sion to build a fort-monastery at a mere 700 meters distance from the Babri MasjiḍThis so-called ‘Fort of Hanumān’, the Hanumāngar.hī, has remained the most important and frequently visited monastery-cum-temple in Ayodhyā until today (Bakker 1990c). 
+Inevitably, the Vais.ṇava orders armed themselves too. The evolving military orders were organized on the model of their Saiva counterparts, into ´ akhār.ās, ‘wrestling-schools’, and during the eighteenth century their fort-like monas teries appeared throughout North India. One of these orders succeeded in wresting the control over some of the important holy places in Ayodhyā from their Saiva adverseries. And as a reward for services rendered to the Nawāb of ´ Avadh—a Shiite, as remarked above—the Vais.ṇavas were even granted permis sion to build a fort-monastery at a mere 700 meters distance from the Babri MasjiḍThis so-called ‘Fort of Hanumān’, the Hanumāngar.hī, has remained the most important and frequently visited monastery-cum-temple in Ayodhyā until today (Bakker 1990c). 
 
 23 Sarkar 1958, 123 ff.; Barnett 1980, 56 f. 
 
@@ -1501,7 +1501,7 @@ The Islamic campaign set out from Lucknow, the new capital of Avadh, under comma
 
 4 / Ayodhyā: A Hindu Jerusalem 69 
 
-as the fifth imām. Despite desperate attempts on the part of Wājid ,Alī Shāh, who had the jihād pronounced unlawful by both a Shiite and a Sunna court, Amīr ,Alī continued his march, leaving a wake of destruction. But before this mob reached Ayodhyā, they were intercepted by government troops under British commanḍConsultations ensued with the lawful Muslim authorities in Lucknow, in the course of which the British far-sightedly pointed out that if the rebellious Muslims were permitted to build their mosque on the site of the Hanumāngar.hī, chaos would immediately result, with the Hindus in their turn claiming their rights to the holy places now occupied by mosques in Ayodhyā, Benares etc. But the consultations and all attempts at negotiation yielded no result, and finally the jihād of Amīr ,Alī ended before the British cannons of Captain Barlow. Four or five hundred Muslims perished, Amīr ,Alī among them. Two months later, in February 1857, Avadh was annexed by the English, who eventually ‘put up a railing around the Babri Masjid to prevent disputes’. 26 
+as the fifth imām. Despite desperate attempts on the part of Wājid ,Alī Shāh, who had the jihād pronounced unlawful by both a Shiite and a Sunna court, Amīr ,Alī continued his march, leaving a wake of destructioṇBut before this mob reached Ayodhyā, they were intercepted by government troops under British commanḍConsultations ensued with the lawful Muslim authorities in Lucknow, in the course of which the British far-sightedly pointed out that if the rebellious Muslims were permitted to build their mosque on the site of the Hanumāngar.hī, chaos would immediately result, with the Hindus in their turn claiming their rights to the holy places now occupied by mosques in Ayodhyā, Benares etc. But the consultations and all attempts at negotiation yielded no result, and finally the jihād of Amīr ,Alī ended before the British cannons of Captain Barlow. Four or five hundred Muslims perished, Amīr ,Alī among them. Two months later, in February 1857, Avadh was annexed by the English, who eventually ‘put up a railing around the Babri Masjid to prevent disputes’. 26 
 
   
 
@@ -1523,11 +1523,11 @@ This harrowing episode clearly shows that large-scale conflicts between Hindus a
 
 
 
-ruling class and an oppressed Hindu population. The religious conflict only took the form of popular movements when Muslim authority was about to topple and both segments of the population attempted to take the law into their own hands. With the restoration of government control and the emergence of the modern state, these movements subsequently became increasingly directed against public authority, which they tried to undermine, no matter whether this authority was exercised by British colonial power or the democratically chosen government of the Republic of India. 27 
+ruling class and an oppressed Hindu populatioṇThe religious conflict only took the form of popular movements when Muslim authority was about to topple and both segments of the population attempted to take the law into their own hands. With the restoration of government control and the emergence of the modern state, these movements subsequently became increasingly directed against public authority, which they tried to undermine, no matter whether this authority was exercised by British colonial power or the democratically chosen government of the Republic of India. 27 
 
-From a core of a small number of Sunni mullahs and trained Hindu ascetics, the awareness of being a group with common religious beliefs that differ fun damentally from those of the opposing group spreaded out among both the Hindu and Muslim population during the nineteenth and twentieth century. In other words, the feeling of ‘community’ arose also within the Hindu population, stimulated, among other things, by the regularly recurrent conflicts around the spot of Rāma’s birth, the Babri MasjiḍAn additional factor was that in ac cordance with British colonial policy the Hindus were now officially defined as a separate category from the Muslim segment of the population. In connec tion with the colonial census reports, the individual citizen was compelled, for the first time in the history of India, to explicitly state whether he was of the Hindu or Muslim faith. The combination of such factors meant that Hindus of all castes and sects were forced to reflect on what made them Hindus and distinguished them from their Islamic fellow citizens. 28 
+From a core of a small number of Sunni mullahs and trained Hindu ascetics, the awareness of being a group with common religious beliefs that differ fun damentally from those of the opposing group spreaded out among both the Hindu and Muslim population during the nineteenth and twentieth century. In other words, the feeling of ‘community’ arose also within the Hindu population, stimulated, among other things, by the regularly recurrent conflicts around the spot of Rāma’s birth, the Babri MasjiḍAn additional factor was that in ac cordance with British colonial policy the Hindus were now officially defined as a separate category from the Muslim segment of the populatioṇIn connec tion with the colonial census reports, the individual citizen was compelled, for the first time in the history of India, to explicitly state whether he was of the Hindu or Muslim faith. The combination of such factors meant that Hindus of all castes and sects were forced to reflect on what made them Hindus and distinguished them from their Islamic fellow citizens. 28 
 
-With the restoration of central rule by the colonial authorities, the role of the armed Hindu ascetics was greatly diminisheḍSome of them served as mer cenaries in the colonial army, and some were of assistance to the authorities in times of crisis, such as the Rebellion of 1857, 29 but they played no further important role as a military power. Instead one could say that their militant character gradually spread over the Hindu population in general. The most gruesome consequence of this development (so far at least) took place during the period of de-colonization, when British India fell apart into two states: the secular state of India and the Islamic Pakistan. This ‘partition’ was accompa nied by massacres, carried out by both sides, which are estimated to have cost half a million lives. But even after the secession of Pakistan some 40 million Muslims remained inhabitants of the state of India, a number which had al ready doubled in 1981. 30 Since the secession India has fought two wars with Pakistan, and the present unrest in Kashmir could be the prelude of a third. 
+With the restoration of central rule by the colonial authorities, the role of the armed Hindu ascetics was greatly diminisheḍSome of them served as mer cenaries in the colonial army, and some were of assistance to the authorities in times of crisis, such as the Rebellion of 1857, 29 but they played no further important role as a military power. Instead one could say that their militant character gradually spread over the Hindu population in general. The most gruesome consequence of this development (so far at least) took place during the period of de-colonization, when British India fell apart into two states: the secular state of India and the Islamic PakistaṇThis ‘partition’ was accompa nied by massacres, carried out by both sides, which are estimated to have cost half a million lives. But even after the secession of Pakistan some 40 million Muslims remained inhabitants of the state of India, a number which had al ready doubled in 1981. 30 Since the secession India has fought two wars with Pakistan, and the present unrest in Kashmir could be the prelude of a third. 
 
 27 On similar processes in Islam, cf. Lawrence 1990, 240. 
 
@@ -1547,9 +1547,9 @@ Ayodhya: a Hindu Jerusalem ¯
 
 For our present subject it is more fruitful to look at the current situation in India—which, it must not be forgotten, is a secular state. This situation is characterized by the disintegration of the population into several sections whose identity is chiefly based on religious beliefs. This is generally referred to as ‘communalism’. In regard to the Muslim segment, a world-wide tendency towards fundamentalism has undoubtedly played a role in India too. Numerous accusations have been made by Hindus that Islamic organizations in India are being financially supported by the Arab oil-producing nations. Another danger is of course seen in Pakistan, which is said to aim at destabilizing India via the Islamic population; particularly by fanning the flames of Sikh violence in the Panjab and, most recently, by causing the turmoil in Kashmir. 
 
-These geo-political factors have no doubt strengthened the self-awareness of the Hindus as forming one community. A common ideology, which could (and increasingly does) unite the still largely fragmented Hindu population under a single banner, has been developed on the basis of the mythology of the Rāmāyan. a. In this ideology, Rāma is the deity who in the past created and ruled the ideal state here on earth. Through the inevitable process of historical decline, this state has since disappeared, but can, if all Hindus were to unite in working towards it, be recreated in the future. This new utopic reign, the Rāma rājya, which will of course encompass only the Hindu faithful, may be compared with the eschatological ideal of the civitas dei reified in the reconquered earthly Jerusalem. 31 
+These geo-political factors have no doubt strengthened the self-awareness of the Hindus as forming one community. A common ideology, which could (and increasingly does) unite the still largely fragmented Hindu population under a single banner, has been developed on the basis of the mythology of the Rāmāyaṇa. In this ideology, Rāma is the deity who in the past created and ruled the ideal state here on earth. Through the inevitable process of historical decline, this state has since disappeared, but can, if all Hindus were to unite in working towards it, be recreated in the future. This new utopic reign, the Rāma rājya, which will of course encompass only the Hindu faithful, may be compared with the eschatological ideal of the civitas dei reified in the reconquered earthly Jerusalem. 31 
 
-For the Hindu believer of the present, a holy place like Ayodhyā or Braj (as sociated with Vis.n. u’s incarnation as Kr.s.n. a) is more than a sacred remembrance of the past; it is an actual hierophany of the paradise of Vis.n. u/Rāma/Kr.s.n. a. The holy spots in Ayodhyā represent the manifest (prakat.a) forms of transcen dent (aprakat.a) archetypes in the paradise Vaikun.t.ha (see above, p. 19). The occupation of the central and most holy site by a mosque is therefore a direct encroachment on the holy or divine itself. From such a point of view, the fight for control of Rāma’s Birthplace can be seen as a divine fight. A historical, religious ideal is transformed into a political programme. 32 
+For the Hindu believer of the present, a holy place like Ayodhyā or Braj (as sociated with Vis.ṇu’s incarnation as Kr.s.ṇa) is more than a sacred remembrance of the past; it is an actual hierophany of the paradise of Vis.ṇu/Rāma/Kr.s.ṇa. The holy spots in Ayodhyā represent the manifest (prakat.a) forms of transcen dent (aprakat.a) archetypes in the paradise Vaikuṇt.ha (see above, p. 19). The occupation of the central and most holy site by a mosque is therefore a direct encroachment on the holy or divine itself. From such a point of view, the fight for control of Rāma’s Birthplace can be seen as a divine fight. A historical, religious ideal is transformed into a political programme. 32 
 
 31 For St. Augustine the New Jerusalem was not a historical geographic reality, but the City of God situated at the end of time. In the eleventh century, however, when Pope Urban II proclaimed the First Crusade, this idea became reified in the actual Jerusalem that only awaited emancipation from its desecration by the Gentiles (i.e. Muslims). (Robertus Monachus 1866, 729). 
 
@@ -1563,7 +1563,7 @@ For the Hindu believer of the present, a holy place like Ayodhyā or Braj (as so
 
 
 
-The ideology which aims at restoring Rāma’s rule in its pure form by elimi nating the profane encroachments on it has become a politic factor of increasing importance, particularly in North India, where the oppositions between Hin dus, Muslims and Sikhs are most deeply felt, and where, as we have seen, the historical developments took place which gave the Hindu community its cohesion. This ideology is connected with the attempts on the part of funda mentalist Hindu groups, such as the Rastriya Svayamsevak Sangh (RSS), to make India a national Hindu state (Hind¯u Rās.t.ra), just as Pakistan is an Is lamic state and Khalistan a wished-for Sikh state. 33 On the religious level this ideology has led to the monotheistic aspect of Hinduism being articulated and assuming tangible, personal form, embodied by Rāma. It is in this light that the exorbitant success of the Rāmāyan. a television series should be seen. This series enthralled the Hindu population to such an extent that riots broke out when power-failures interrupted television-reception, and a television-station was stormed when the series (already stretched as far as human ingenuity could manage) finally came to an end without a sequel, ‘the later deeds of Rāma’ (a kind of Uttararāmacarita) being announced. 
+The ideology which aims at restoring Rāma’s rule in its pure form by elimi nating the profane encroachments on it has become a politic factor of increasing importance, particularly in North India, where the oppositions between Hin dus, Muslims and Sikhs are most deeply felt, and where, as we have seen, the historical developments took place which gave the Hindu community its cohesioṇThis ideology is connected with the attempts on the part of funda mentalist Hindu groups, such as the Rastriya Svayamsevak Sangh (RSS), to make India a national Hindu state (Hind¯u Rās.t.ra), just as Pakistan is an Is lamic state and Khalistan a wished-for Sikh state. 33 On the religious level this ideology has led to the monotheistic aspect of Hinduism being articulated and assuming tangible, personal form, embodied by Rāma. It is in this light that the exorbitant success of the Rāmāyaṇa television series should be seeṇThis series enthralled the Hindu population to such an extent that riots broke out when power-failures interrupted television-reception, and a television-station was stormed when the series (already stretched as far as human ingenuity could manage) finally came to an end without a sequel, ‘the later deeds of Rāma’ (a kind of Uttararāmacarita) being announced. 
 
 As the re-capture of Jerusalem was the central theme in the ideology of the Christian crusades, so the re-possessing of Rāma’s Birthplace, the Rāmajanma bh¯umi, gradually came to be central in this newly developed Hindu ideology. 34 
 
@@ -1573,7 +1573,7 @@ As we have seen, after the annexation of Avadh the English erected a fence aroun
 
 34 In the early phase of Hindu fundamentalism (as embodied in the RSS) the ‘liberation’ of Rāma’s Birthplace in Ayodhyā did not yet take a special place. Gradually it was realized however, that to combine fundamentalist aims with a pilgrim’s goal like Ayodhyā had unparalleled mass-mobilizing potential. A similar process seems to have taken place in the history of the crusades: 
 
-Der Einfluß des Pilgerwesens, wenn nicht auf die Entstehung, so doch auf den Char acter schon der ersten kriegerischen Orientfahrten der Abendl¨ander ist bekanntlich sehr stark gewesen, und die Verbindung von Wallfahrt und Heidenkrieg kann gera dezu als typisch f¨ur die gesamte Kreuzzugbewegung gelten. Den Anstoß dazu hat wiederum Urban II. gegeben, indem er das Wallfahrerziel Jerusalem zum Marschziel der geplanten Orientexpedition bestimmte. Daß Urban Jerusalem in seinen Kreuz zugplan aufnahm, ist wahrscheinlich aus Gr¨unden der Werbung geschehen, denn—wie Erdmann ¨uberzeugend hat nachweisen k¨onnen—sah Urban den Zweck der Orientex pedition nicht in der Eroberung Jerusalems, sondern allgemeiner in der Befreiung der Orientalischen Kirchen. (Noth 1966, 128) 
+Der Einfluß des Pilgerwesens, wenn nicht auf die Entstehung, so doch auf den Char acter schon der ersten kriegerischen Orientfahrten der Abendl¨ander ist bekanntlich sehr stark gewesen, und die Verbindung von Wallfahrt und Heidenkrieg kann gera dezu als typisch f¨ur die gesamte Kreuzzugbewegung gelteṇDen Anstoß dazu hat wiederum Urban II. gegeben, indem er das Wallfahrerziel Jerusalem zum Marschziel der geplanten Orientexpedition bestimmte. Daß Urban Jerusalem in seinen Kreuz zugplan aufnahm, ist wahrscheinlich aus Gr¨unden der Werbung geschehen, denn—wie Erdmann ¨uberzeugend hat nachweisen k¨onnen—sah Urban den Zweck der Orientex pedition nicht in der Eroberung Jerusalems, sondern allgemeiner in der Befreiung der Orientalischen Kirchen. (Noth 1966, 128) 
 
 
 
@@ -1629,11 +1629,11 @@ youth that does not serve Rāmajanmabh¯umi is youth lived in vain. 36
 
 An illustration of the clashes that resulted is provided by the occurrences in Bhagalpur, a fairly ordinary village in Bihar, as reported in the Indian press (Hitavada 19-11-1989). 
 
-It was Friday, October 27: the Muslims had just said their prayers in the newly built makeshift mosque when they found themselves surrounded from all sides by fierce mobs. One pretext trotted up by them was the presence of a Rajpur imām to read the namāz. ‘Why bring an outsider’, they askeḍThe Muslims explained there was nobody educated enough in the village to preside over the Friday prayers, but the mob wouldn’t listen. The scared Muslims gathered in the house of Minnat Mian, the only building without a thatched roof that would not collapse when torcheḍLater in the afternoon, the local head of police along with some policemen made their appearance and assured them safety. 
+It was Friday, October 27: the Muslims had just said their prayers in the newly built makeshift mosque when they found themselves surrounded from all sides by fierce mobs. One pretext trotted up by them was the presence of a Rajpur imām to read the namāz. ‘Why bring an outsider’, they askeḍThe Muslims explained there was nobody educated enough in the village to preside over the Friday prayers, but the mob wouldn’t listeṇThe scared Muslims gathered in the house of Minnat Mian, the only building without a thatched roof that would not collapse when torcheḍLater in the afternoon, the local head of police along with some policemen made their appearance and assured them safety. 
 
 Meanwhile, houses in the Muslim quarter had begun being set ablaze with both sides exchanging brickbats. ‘My hands were aching, we had hurled so many stones’, recalled Suleiman. 
 
-When night fell, the stone throwing stopped but the houses continued to burn. Suleiman and a few others managed to escape to Rajpur but the rest stayed put in Minnat Mian’s house. One escapee was killed, but late in the evening an army con tigent arriveḍThe army officer personally counted the number of people sheltering in the house and handed over charge to the local policemen, leaving word that he would return next morning to remove them elsewhere. When he did, almost all of them were deaḍIt was the silence of the graveyard. 
+When night fell, the stone throwing stopped but the houses continued to burṇSuleiman and a few others managed to escape to Rajpur but the rest stayed put in Minnat Mian’s house. One escapee was killed, but late in the evening an army con tigent arriveḍThe army officer personally counted the number of people sheltering in the house and handed over charge to the local policemen, leaving word that he would return next morning to remove them elsewhere. When he did, almost all of them were deaḍIt was the silence of the graveyard. 
 
 Fundamentalist organizations sanction the use of force on the part of the Hin dus. A statement is issued saying that (Hitavada 13-11-1989): 
 
@@ -1657,13 +1657,13 @@ There is hardly a village where the consecration of bricks for Rama’s temple h
 
 In the elections of late November 1989 the Congress Party is defeateḍPar ticularly in North India, where the new Hindu movement was most successful, the opposition inflicts a crushing defeat on Rajiv Gandhi’s party. The Indian People’s Party BJP rockets from 2 to 88 seats in the newly elected Loksabhā (parliament). This trend is continued in the state-elections in early March 1990: the BJP even acquires an absolute majority in the state-parliaments of Himachal Pradesh and Madhya Pradesh. 
 
-A year after the first stone of the temple on Rāma’s Birthplace was laid, the question flares up again. Hundreds of thousands of ‘temple-builders’ (kār sevaks) are called upon by the VHP and other fundamentalist Hindu groups to march on Ayodhyā. The leader of the BJP, Lal Advani, places himself at the head of this procession in ‘Rāma’s Vehicle’ (Rām rāth) and is promptly arresteḍTens of thousands of soldiers seal off Ayodhyā. Photos of inflamed Hindus waving flags on the domes of the Babri Masjid make the front pages of newspapers all over the worlḍThe whole country is in the grip of the struggle around the mosque in Ayodhyā. The secular and unitary state of India seems about to founder; the population, incited by religious emotions, seems deaf to reason, and the minority-government of the People’s Front (Janata Dal)— together with the BJP the main winners of the 1989 election—seems helpless and at a loss. 
+A year after the first stone of the temple on Rāma’s Birthplace was laid, the question flares up agaiṇHundreds of thousands of ‘temple-builders’ (kār sevaks) are called upon by the VHP and other fundamentalist Hindu groups to march on Ayodhyā. The leader of the BJP, Lal Advani, places himself at the head of this procession in ‘Rāma’s Vehicle’ (Rām rāth) and is promptly arresteḍTens of thousands of soldiers seal off Ayodhyā. Photos of inflamed Hindus waving flags on the domes of the Babri Masjid make the front pages of newspapers all over the worlḍThe whole country is in the grip of the struggle around the mosque in Ayodhyā. The secular and unitary state of India seems about to founder; the population, incited by religious emotions, seems deaf to reason, and the minority-government of the People’s Front (Janata Dal)— together with the BJP the main winners of the 1989 election—seems helpless and at a loss. 
 
 The BJP withdraws its support from the minority-cabinet of V.P. Singh and precipitates yet another government crisis. Like his predecessor Rajiv Gandhi, V.P. Singh had endeavoured to remain neutral in this conflict between members of two faiths, but he too is brought down by the new Hindu fundamentalism. 
 
 In December 1990 communal disturbances and riots claim hundreds of lives. Noteworthy is the fact that the disturbances clearly are spreading to the south as well. ‘Temple-builders’ are arrested in large numbers. Ayodhyā becomes a military fortress, and new fortifications in the shape of a wire-fence and barbed wire are placed around the mosque. The new minority-government, led by 
 
-utopisch ausgerichtet sein. Als Mythos hat sie die Funktion einer restaurativen Krisen bew¨altigung. Das ‘Goldene Zeitalter’ soll durch R¨uckkehr zu seinen w¨ortlich tradierten Ordnungsprinzipien wiederhergestellt werden. Als Utopie dagegen dient die ideale Ordnung zu einer ‘progressiven’ sozialreformerischen oder sozialrevolution¨aren Krisen bew¨altigung. Nicht den Buchstaben, sondern den ‘Geist’ der in der Vergangenheit ein mal verwirklichten idealen Ordnung gilt es unter neuen Bedingungen zu realisieren. Demzufolge ist das ‘mythische’ Denken tendenziell durch eine rigide Gesetzethik, das ‘utopische’ Denken dagegen durch eine radikale Gesinnungsethik gekennzeichnet. (op. cit. 20) 
+utopisch ausgerichtet seiṇAls Mythos hat sie die Funktion einer restaurativen Krisen bew¨altigung. Das ‘Goldene Zeitalter’ soll durch R¨uckkehr zu seinen w¨ortlich tradierten Ordnungsprinzipien wiederhergestellt werdeṇAls Utopie dagegen dient die ideale Ordnung zu einer ‘progressiven’ sozialreformerischen oder sozialrevolution¨aren Krisen bew¨altigung. Nicht den Buchstaben, sondern den ‘Geist’ der in der Vergangenheit ein mal verwirklichten idealen Ordnung gilt es unter neuen Bedingungen zu realisiereṇDemzufolge ist das ‘mythische’ Denken tendenziell durch eine rigide Gesetzethik, das ‘utopische’ Denken dagegen durch eine radikale Gesinnungsethik gekennzeichnet. (op. cit. 20) 
 
 It is clear that Mahatma Gandhi exemplifies the ‘utopic’ type of movement, whereas the movement described here should be classified as ‘mythic’. Riesebrodt proposes to restrict the use of the term ‘fundamentalism’ to the latter type of movement. 
 
@@ -1681,11 +1681,11 @@ Epilogue
 
 Our conclusions may be summarized as follows. 
 
-During a process of interaction with Islam, a new Hindu self-awareness grad ually emerges, particularly in North India. This self-awareness draws heavily on the mythological material of the Rāmāyan. a. The worship of Rāma as the highest, personal God becomes ever more prominent. Hindus of other sects also increasingly partake in this movement, so that a shift in emphasis appears to take place towards the more monotheistic aspects of Hinduism. Related to this, the feeling of belonging to a single (religious) community spreads dur ing the nineteenth and twentieth century from the militant monastery orders to large sections of the population. The myth of King Rāma provides a new utopic ideal of a summum bonum here on earth: the Rāma rājya. The first step towards the realization of this ideal is seen in a very concrete action, which in spires violent emotions: the ‘liberation’ of Rāma’s Birthplace in Ayodhyā. This goal not only unites Hindus of all castes all over the country, but also provides an effective instrument to harass the Muslim population, which is regarded as the major hindrance with regard to the realization of this ideal, and as an encroachment on the holy order. The result is large-scale disturbances which result in the death of large numbers of Hindus and Muslims. By imposing strict measures the state-authorities and the central government in Delhi just manage to prevent an outright civil war. 
+During a process of interaction with Islam, a new Hindu self-awareness grad ually emerges, particularly in North India. This self-awareness draws heavily on the mythological material of the Rāmāyaṇa. The worship of Rāma as the highest, personal God becomes ever more prominent. Hindus of other sects also increasingly partake in this movement, so that a shift in emphasis appears to take place towards the more monotheistic aspects of Hinduism. Related to this, the feeling of belonging to a single (religious) community spreads dur ing the nineteenth and twentieth century from the militant monastery orders to large sections of the populatioṇThe myth of King Rāma provides a new utopic ideal of a summum bonum here on earth: the Rāma rājya. The first step towards the realization of this ideal is seen in a very concrete action, which in spires violent emotions: the ‘liberation’ of Rāma’s Birthplace in Ayodhyā. This goal not only unites Hindus of all castes all over the country, but also provides an effective instrument to harass the Muslim population, which is regarded as the major hindrance with regard to the realization of this ideal, and as an encroachment on the holy order. The result is large-scale disturbances which result in the death of large numbers of Hindus and Muslims. By imposing strict measures the state-authorities and the central government in Delhi just manage to prevent an outright civil war. 
 
 India has known countless wars, but none of them can be called ‘holy war’ in the sense defined here. The developments sketched above, however, have led to the incorporation into Hinduism of a number of elements which have been associated with the idea of a ‘holy war’. These elements are: 1 The formation of an exclusive community of Hindus who share the desire for a common good. 2 A shift in religious emphasis towards a single, personal, God, Rāma. 3 A tendency to see Islam and its adherents as agents of evil (which may be described as demonization of the enemy). 4 The regarding of Hindus who perish during conflicts with Muslims as victims for the common weal. 
 
-The question may be asked whether Hinduism is developing into a monotheistic-like religion. As a rule historians rightly refrain from making 
+The question may be asked whether Hinduism is developing into a monotheistic-like religioṇAs a rule historians rightly refrain from making 
 
 38 The Babri Masjid was eventually destroyed on December 6, 1992, provoking another round of acrimonious Muslim–Hindu antagonism. Cf. also below, p. 485. 
 
@@ -1697,7 +1697,7 @@ The question may be asked whether Hinduism is developing into a monotheistic-lik
 
 
 
-predictions about the future, and I too will not attempt to answer this ques tion. We may conclude then merely by remarking that, though Hinduism has proved in the past to be a religion not prone to holy wars, recent developments in Indian society unfortunately have made the prospect of a holy war between Hindus and Muslims seem only too real and close. 
+predictions about the future, and I too will not attempt to answer this ques tioṇWe may conclude then merely by remarking that, though Hinduism has proved in the past to be a religion not prone to holy wars, recent developments in Indian society unfortunately have made the prospect of a holy war between Hindus and Muslims seem only too real and close. 
 
 
 
@@ -1705,11 +1705,11 @@ predictions about the future, and I too will not attempt to answer this ques tio
 
 
 
-The Ramtek Inscriptions I∗ 
+## The Ramtek Inscriptions I 
 
 Introduction 
 
-The hill of Ramtek (21◦ 28´ N, 79◦ 28´ E), c. 45 km NE of Nagpur (Maha rashtra), merits special attention because it appears to be one of the few places in India where an uninterrupted historical development from the fourth century ad to the present day can be investigated through a series of archaeological monuments which, although partly restored or built over in later periods, seem never to have been exposed to destructive and iconoclastic forces. From at least the fifth century onwards the hill, also known as Rāmagiri, Sind¯uragiri, or Tapam. giri (Tapogiri), served as a regional centre of religious activity and, probably, also had a more secular function as an outstanding strategic base controlling the highway that connected, and still connects, the central and eastern part of the basin of the Ganges with the northern Deccan. This could possibly explain, at least in part, why the religious structures on top of the hill have attracted the attention and care of the rulers of the area from a very early date. 
+The hill of Ramtek (21◦ 28´ N, 79◦ 28´ E), c. 45 km NE of Nagpur (Maha rashtra), merits special attention because it appears to be one of the few places in India where an uninterrupted historical development from the fourth century ad to the present day can be investigated through a series of archaeological monuments which, although partly restored or built over in later periods, seem never to have been exposed to destructive and iconoclastic forces. From at least the fifth century onwards the hill, also known as Rāmagiri, Sind¯uragiri, or Tapam. giri (Tapogiri), served as a regional centre of religious activity and, probably, also had a more secular function as an outstanding strategic base controlling the highway that connected, and still connects, the central and eastern part of the basin of the Ganges with the northern DeccaṇThis could possibly explain, at least in part, why the religious structures on top of the hill have attracted the attention and care of the rulers of the area from a very early date. 
 
 Archaeological explorations in the Nagpur Plain during the last two decades have brought to light a great number of interesting sites belonging to the cul ture of the Vākāt.akas (fourth-fifth centuries), notably Nagardhan and adja cent Hamlapuri (7 km south of Ramtek), generally considered to be the area of the Vākāt.aka capital, Nandivardhana. In Hamlapuri, a splendid collection of Buddhist bronzes was recently found which seems to prove, in the words of Jamkhedkar, ‘that Buddhism was a living faith under the Brahmanical Vākāt.akas’. 1 Whereas other Vākāt.aka centres of culture fell into decay and were gradually obliterated, 2 Ramtek survived and to date still has four intact and one impaired Vākāt.aka temples (four of them still containing the original idol), besides a small cave-temple and a cave-reclusory, probably also dating back to this perioḍMoreover, at least one stone tank situated on the top of 
 
@@ -1733,9 +1733,9 @@ the hill appears to preserve very old cloister constructions which could like wi
 
 In two articles the present author has described the archaeological remains of Ramtek Hill on the basis of an inventory made during field-work in November 1986 and has evaluated the historical development of the religious structure of the Ramtek complex by making use of this inventory. 4 Among the collected data are several inscriptions which could be only referred to in the above mentioned articles, but which deserve a more detailed treatment. This is the purpose of the present paper. For an historical evaluation of the religious content of these inscriptions the reader is referred to the second of the two articles (Bakker 1990b). 
 
-To the best of my knowledge there are four Sanskrit inscriptions to be found in temples on the Ramtek Hill, as well as two ancient pieces of graffiti. Three inscriptions and the graffiti are found on the walls and pillars of one of the two Narasim. ha temples, the so-called Kevala–Narasim. ha Temple; the other lengthy inscription is found in the Laks.man. a Temple. The latter has been published by Mirashi and Kulkarni in Epigraphia Indica, xxv (1939-40), 7– 20. However, that edition does not attempt to restore the original metrical composition of the text, nor is a translation given. The publication of the oldest inscription, found in the Kevala–Narasim. ha Temple, cannot be presented here. Its publication is envisaged by the Archaeological Survey of India, and here we can only note what has been published about it so far. In a recent article Jamkhedkar observed: 
+To the best of my knowledge there are four Sanskrit inscriptions to be found in temples on the Ramtek Hill, as well as two ancient pieces of graffiti. Three inscriptions and the graffiti are found on the walls and pillars of one of the two Narasim. ha temples, the so-called Kevala–Narasim. ha Temple; the other lengthy inscription is found in the Laks.maṇa Temple. The latter has been published by Mirashi and Kulkarni in Epigraphia Indica, xxv (1939-40), 7– 20. However, that edition does not attempt to restore the original metrical composition of the text, nor is a translation giveṇThe publication of the oldest inscription, found in the Kevala–Narasim. ha Temple, cannot be presented here. Its publication is envisaged by the Archaeological Survey of India, and here we can only note what has been published about it so far. In a recent article Jamkhedkar observed: 
 
-During conservation (i.e. of the Kevala–Narasim. ha Temple), an inscription, cov ered with lime plaster, was discovered on the temple wall beneath the thick layers of white wash. This 14-line record in nail-headed Gupta Brahmi characters, caused to be carved by Prabhavati Gupta herself, refers to the god as Prabhavati svamin. On the basis of the internal evidence the temple as well as the image can be dated to c. 415–425 ad [. . . ] The presence of a cluster of stone temples enshrining differ ent avatāras of Vis.n. u (viz. Trivikrama, Varāha) at Ramtek has established beyond doubt the prevalence of a Bhāgavata cult on parallel lines with that popular in the Gupta court. On architectural, sculptural and epigraphical evidence these can be 
+During conservation (i.e. of the Kevala–Narasim. ha Temple), an inscription, cov ered with lime plaster, was discovered on the temple wall beneath the thick layers of white wash. This 14-line record in nail-headed Gupta Brahmi characters, caused to be carved by Prabhavati Gupta herself, refers to the god as Prabhavati svamiṇOn the basis of the internal evidence the temple as well as the image can be dated to c. 415–425 ad [. . . ] The presence of a cluster of stone temples enshrining differ ent avatāras of Vis.ṇu (viz. Trivikrama, Varāha) at Ramtek has established beyond doubt the prevalence of a Bhāgavata cult on parallel lines with that popular in the Gupta court. On architectural, sculptural and epigraphical evidence these can be 
 
 3 I looked in vain in Cousens 1931, Brown 1976, Deglurkar 1974, Verma 1973, Deshpande 1985, Huntington 1985, Harle 1986. A short treatment of two of the Vākāt.aka temples is found in Williams 1983, 225–27. 
 
@@ -1747,7 +1747,7 @@ During conservation (i.e. of the Kevala–Narasim. ha Temple), an inscription, c
 
 5 / The Ramtek Inscriptions I 81 
 
-firmly dated at least to the first quarter of the fifth century aḍThe stylistic char acteristic observed in the images of Vis.n. u found at Nagra, Nandapuri (Ramtek) and Mandhal suggest that on art historical considerations, the introduction of Vais.n. avism in the Vidarbha area can be further pushed back, at least by half a century. 5 
+firmly dated at least to the first quarter of the fifth century aḍThe stylistic char acteristic observed in the images of Vis.ṇu found at Nagra, Nandapuri (Ramtek) and Mandhal suggest that on art historical considerations, the introduction of Vais.ṇavism in the Vidarbha area can be further pushed back, at least by half a century. 5 
 
 One may add that the other Narasim. ha temple, which is referred to as the Rudra–Narasim. ha Temple, and is not far from the first, seems to be older still. It is similar to the first in construction as well as in having the huge Narasim. ha idol installed (cf. below, Plates 56 and 57). It is, however, less refined, lacking the two small windows and the ornamentation along the doorposts and on the outer walls. However, it has eight ‘firepits’ (?) (kun. ḍas) along its sides, above which are small pedestals constructed against the temple wall on which, orig inally, dikpāla deities may have been installeḍTwo fragments of such images have been found and are at present stored in the Central Nagpur Museum. 
 
@@ -1805,7 +1805,7 @@ Graffito on a pillar inside the Kevala–Narasim. ha Temple
 
 The two short Kevala–Narasim. ha Temple inscriptions 
 
-On the same pillar on which the second graffito is found, on the side that faces the entrance, is engraved a short Sanskrit inscription. An outwardly very similar inscription is found on the parallel pillar at the right side of the cella entrance. Both pillars have recently been connected by an iron frame which screens off the entrance of that part of the temple where the image is installeḍThe appearance of both parallel inscriptions on the two pillars in front of the garbhagr.ha strongly suggests that they somehow belong together and were engraved at about the same time. 
+On the same pillar on which the second graffito is found, on the side that faces the entrance, is engraved a short Sanskrit inscriptioṇAn outwardly very similar inscription is found on the parallel pillar at the right side of the cella entrance. Both pillars have recently been connected by an iron frame which screens off the entrance of that part of the temple where the image is installeḍThe appearance of both parallel inscriptions on the two pillars in front of the garbhagr.ha strongly suggests that they somehow belong together and were engraved at about the same time. 
 
 As it happens, photographs of both inscriptions have been published in In dian Archaeology 1982–83—A Review (p. 167), but this might have been more or less accidental, since the description of these two plates (p. 137) confuses them with the reported ‘Prabhāvatī Guptā inscription’ ‘on the southern wall of the man. ḍapa’. Nothing is said as to the contents of the two parallel in scriptions, and they certainly do not endorse the statement made in the IAR that the temple ‘on the basis of these inscriptions could definitely be dated to the fifth to sixth century ad’. 11 In fact, both inscriptions belong to the Yādava period as will be shown below. I shall refer to these two inscriptions as Kevala–Narasim. ha Temple Ramtek Inscription No. 1 & No. 2. 
 
@@ -1817,7 +1817,7 @@ Text
 
 [2] ˘ śirasārasālam. kr.tiśobhanā kkāmadevasutah. [3] ˘ rṅgadevastārkikaśekharah. |trivikramakavervā 
 
-[4] dyonautiśrīnr.harim. sadā ksim. han. arājyeśārva 
+[4] dyonautiśrīnr.harim. sadā ksim. haṇarājyeśārva 
 
 [5] ˘ vatsare |am. gam. vaikalyatāmetirāmebhaktasya 
 
@@ -1833,7 +1833,7 @@ kāmadevasutah. hśāirṅgadevas tārkikaśekharah. |
 
 trivikramakaver vādyo nauti śrīnr.harim. sadā k 
 
-sim. han. arājye śārvahriivatsare | 
+sim. haṇarājye śārvahriivatsare | 
 
 aṅgam. vaikalyatām eti rāme (’)bhaktasya sarvadā | 2 | 
 
@@ -1855,7 +1855,7 @@ Sarasvatī, who has sprung from the steps of Trivikrama (the speech, which arise
 
 S´ar¯ ngadeva ˙ , son of Kāmadeva, who is the crown of the philosophers and whose praises are sung by the poet Trivikrama, praises always the illustrious Nr.hari. 
 
-In the time of the reign of Sim. han. a, in the Sārvarin-year. ´ 
+In the time of the reign of Sim. haṇa, in the Sārvarin-year. ´ 
 
 The body of one who is devoted to Rāma will attain a state of good health / The body of one who is not devoted to Rāma will certainly attain a state of weakness. 
 
@@ -1883,13 +1883,13 @@ The inscription is written in clear Nāgarī script. Only a few syllables at the
 
 5 / The Ramtek Inscriptions I 85 
 
-The inscription can be dated in the Sārvarin-year (i.e. the 34th year of the ´ Br.haspati Cycle) at the time of the reign of King Sim. han. a, which yields the date ad 1240. 13 
+The inscription can be dated in the Sārvarin-year (i.e. the 34th year of the ´ Br.haspati Cycle) at the time of the reign of King Sim. haṇa, which yields the date ad 1240. 13 
 
 The text is a mixture of verse (śloka) and prose (i.e. of gadya and padya). The verses appear to contain several double-entendres (śles.a), whereas the last hemistich is to be read twice (indicated by the figure 2 between dan. ḍas) in a different way in order to make a complete śloka verse. This is made explicit by the prose statement that it should be understood as a samudgayamaka, i.e. that the same aks.aras can be grouped into two ways yielding different, in fact opposite meanings. 14 Thus we can read: vaikalyatām . . . ’bhaktasya or vai kalyatām . . . bhaktasya. 
 
-The text testifies to the pilgrimage to Ramtek and worship of Narasim. ha (the deity of the temple in which the inscription is found) by a certain Sārṅga- ´ deva son of Kāmadeva. The Srīnr ´ .hari who is praised may, besides the obvious Narasim. ha, also be the Yādava king Sim. han. a whose name marks him as a ‘lion among men’. Sārṅgadeva is called ´ tārkikaśekhara, which excludes the possibility of his being identical with the musician Sārṅgadeva, author of the ´ Sam. gītaratnākara, who worked at the court of the Yādava king Sim. han. a and whose father we know to have been Soḍḍhala. 15 
+The text testifies to the pilgrimage to Ramtek and worship of Narasim. ha (the deity of the temple in which the inscription is found) by a certain Sārṅga- ´ deva son of Kāmadeva. The Srīnr ´ .hari who is praised may, besides the obvious Narasim. ha, also be the Yādava king Sim. haṇa whose name marks him as a ‘lion among men’. Sārṅgadeva is called ´ tārkikaśekhara, which excludes the possibility of his being identical with the musician Sārṅgadeva, author of the ´ Sam. gītaratnākara, who worked at the court of the Yādava king Sim. haṇa and whose father we know to have been Soḍḍhala. 15 
 
-The first śloka is an invocation of the goddess Sarasvatī. When we resolve the śles.a, however, we read the poet’s own praise. Moreover, it would seem that the philosopher and poet in referring to Sarasvatī’s (Goddess of Learning, i.e. ‘learning’) descent from Trivikrama (i.e. Vis.n. u) are making a pun on their own lineages. It is well-known that the members of the distinguished and learned family that traced its origin back to Trivikrama held important offices at the court of the Yādavas, notably Caṅgadeva, who was the astronomer of King Sim. han. a.16 Sārṅgadeva could have been a member of this family. ´ The ancestral Trivikrama, who belonged to the Sān ´ . ḍilya gotra, is called kavi cakravartin, ‘Prince of the Poets’, in the Patna Inscription, 17 and he is, in all likelihood, identical to the author of the Nalacamp¯u or Damayantīkathā, viz. Trivikramabhat.t.a, who flourished at the beginning of the tenth century ad.18 This excludes the possibility that the poet Trivikrama mentioned in the present inscription who is said to sing the praise of Sārṅgadeva—which might be taken ´ to mean that Sārṅgadeva commissioned him to compose this inscription for ´ him—is the same as the ‘Prince of the Poets’ who wrote the Nalacamp¯u. 
+The first śloka is an invocation of the goddess Sarasvatī. When we resolve the śles.a, however, we read the poet’s own praise. Moreover, it would seem that the philosopher and poet in referring to Sarasvatī’s (Goddess of Learning, i.e. ‘learning’) descent from Trivikrama (i.e. Vis.ṇu) are making a pun on their own lineages. It is well-known that the members of the distinguished and learned family that traced its origin back to Trivikrama held important offices at the court of the Yādavas, notably Caṅgadeva, who was the astronomer of King Sim. haṇa.16 Sārṅgadeva could have been a member of this family. ´ The ancestral Trivikrama, who belonged to the Sān ´ . ḍilya gotra, is called kavi cakravartin, ‘Prince of the Poets’, in the Patna Inscription, 17 and he is, in all likelihood, identical to the author of the Nalacamp¯u or Damayantīkathā, viz. Trivikramabhat.t.a, who flourished at the beginning of the tenth century ad.18 This excludes the possibility that the poet Trivikrama mentioned in the present inscription who is said to sing the praise of Sārṅgadeva—which might be taken ´ to mean that Sārṅgadeva commissioned him to compose this inscription for ´ him—is the same as the ‘Prince of the Poets’ who wrote the Nalacamp¯u. 
 
 Consequently, there were two poets Trivikrama, one living in the tenth cen tury, the other in the middle of the thirteenth. Like the first, the second 
 
@@ -1911,11 +1911,11 @@ Consequently, there were two poets Trivikrama, one living in the tenth cen tury,
 
 
 
-Trivikrama apparently made use of the camp¯u style of composition. This result agrees perfectly with the outcome of an investigation of Mirashi with respect to the author of the Madālasācamp¯u, who earlier had been generally held to be identical with his namesake, the author of the Nalacamp¯u. Mirashi has argued convincingly that the poet Trivikrama who wrote the Madālasācamp¯u, and who was a devotee of Vis.n. u rather than of Siva, as was the author of ´ the Nalacamp¯u, was not the same as the author of the Nalacamp¯u, who in his introduction ‘tells us that he was born in the Sān ´ . ḍilya gotra and was the son of Devāditya (v.l. Nemāditya) and grandson of Srīdhara’. ´ 19 According to Mirashi, the second Trivikrama, who does not give any particulars about his descent in his work of the Madālasācamp¯u, is ‘much inferior’ as a poet and wrote ‘apparently in a much later age’. 20 
+Trivikrama apparently made use of the camp¯u style of compositioṇThis result agrees perfectly with the outcome of an investigation of Mirashi with respect to the author of the Madālasācamp¯u, who earlier had been generally held to be identical with his namesake, the author of the Nalacamp¯u. Mirashi has argued convincingly that the poet Trivikrama who wrote the Madālasācamp¯u, and who was a devotee of Vis.ṇu rather than of Siva, as was the author of ´ the Nalacamp¯u, was not the same as the author of the Nalacamp¯u, who in his introduction ‘tells us that he was born in the Sān ´ . ḍilya gotra and was the son of Devāditya (v.l. Nemāditya) and grandson of Srīdhara’. ´ 19 According to Mirashi, the second Trivikrama, who does not give any particulars about his descent in his work of the Madālasācamp¯u, is ‘much inferior’ as a poet and wrote ‘apparently in a much later age’. 20 
 
-If our identification of the poet Trivikrama of the inscription with the author of the Madālasācamp¯u is correct, this ‘later age’ can now be determined as the middle of the thirteenth century; he may have been also the author of a verse quoted in Jalhan. a’s S¯uktimuktāvalī (p. 172, v. 13.), 21 which was composed in the court of the Yādavas in ad 1258. The possible hint at Trivikramabhat.t.a in the first śloka of the inscription makes it conceivable that the second Trivikrama was well aware of his illustrious predecessor whose style he sought to imitate. 
+If our identification of the poet Trivikrama of the inscription with the author of the Madālasācamp¯u is correct, this ‘later age’ can now be determined as the middle of the thirteenth century; he may have been also the author of a verse quoted in Jalhaṇa’s S¯uktimuktāvalī (p. 172, v. 13.), 21 which was composed in the court of the Yādavas in ad 1258. The possible hint at Trivikramabhat.t.a in the first śloka of the inscription makes it conceivable that the second Trivikrama was well aware of his illustrious predecessor whose style he sought to imitate. 
 
-Finally, in the third verse the inscription testifies to the importance that was attached by that time to the worship of Rāma. Apart from the samudgaya maka, this verse, like the first two, may also contain a śles.a, since ‘Rāma’ was also the name of the chief general of King Sim. han. a, who had succeeded his fa ther Kholeśvara in his military profession and who was killed in an expedition against Gujarat in the year of the present inscription or shortly before it. 22 
+Finally, in the third verse the inscription testifies to the importance that was attached by that time to the worship of Rāma. Apart from the samudgaya maka, this verse, like the first two, may also contain a śles.a, since ‘Rāma’ was also the name of the chief general of King Sim. haṇa, who had succeeded his fa ther Kholeśvara in his military profession and who was killed in an expedition against Gujarat in the year of the present inscription or shortly before it. 22 
 
 Kevala–Narasim. ha Temple Ramtek Inscription No. 2 (Plate 9) 
 
@@ -1933,9 +1933,9 @@ Text
 
 21 See Sternbach 1978–80, 387, s.v. ‘Trivikrama II’. 
 
-22 The Ambˆa Inscription (ad 1240) in Arch. Survey of Western India III, 85–93 (by B¨uhler). A similar double-entendre is found in the Ambā inscription, which records the erection of a Rāma–Nārāyan. a Temple to commemorate the death of General Rāma, who is praised by his aunt (Laks.mī) in the following ambiguous Sragdharā verse: 
+22 The Ambˆa Inscription (ad 1240) in Arch. Survey of Western India III, 85–93 (by B¨uhler). A similar double-entendre is found in the Ambā inscription, which records the erection of a Rāma–Nārāyaṇa Temple to commemorate the death of General Rāma, who is praised by his aunt (Laks.mī) in the following ambiguous Sragdharā verse: 
 
-phriauḍhas tyāge sa rāmo nayavinayavidām agragan. yas sa rāmo, 
+phriauḍhas tyāge sa rāmo nayavinayavidām agragaṇyas sa rāmo, 
 
 sauryasvāmī sa rāmo harapadakamaladhyānadhīrah. sa rāmah. | 
 
@@ -1951,7 +1951,7 @@ tattvaj˜nāno sa rāmo hniijakulasaraso rājaham. sah. sa rāmah. k 38 k
 
 5 / The Ramtek Inscriptions I 87 
 
-[5] rāghavasodaren. asahitah. śrīrāmasam. se 
+[5] rāghavasodareṇasahitah. śrīrāmasam. se 
 
 [6] vanam. k 
 
@@ -1963,7 +1963,7 @@ putras tasya babh¯uva kāsarapure śrīmān kavih. śrīdharah. |
 
 tatputrah. sukr.tī trivikramakr.tī sāhityaratnākaraś, 
 
-cakre rāghavasodaren. a sahitah. śrīrāmasam. sevanam k 
+cakre rāghavasodareṇa sahitah. śrīrāmasam. sevanam k 
 
 Translation 
 
@@ -1993,13 +1993,13 @@ The present inscription contains one verse in Sārd¯ulavikrīd ´ . ita metre. 
 
 If this identification is correct, the inscription supplies us with some addi tional information about the author of the Madālasācamp¯u. He was a brahmin, son of Srīdhara, also a poet, and grandson of Cāmun ´ . ḍa, who is said to have been an adhipati in Vainyapura. 
 
-Trivikrama came to Ramtek with his brother Rāghava to worship Rāma. His place of residence is not mentioned, but could have been the court of King Sim. han. a to which also Sārṅgadeva might have belongeḍHis grandfather hailed ´ from Vainyapura, his father from Kāsarapura, two unidentifiable toponyms. 
+Trivikrama came to Ramtek with his brother Rāghava to worship Rāma. His place of residence is not mentioned, but could have been the court of King Sim. haṇa to which also Sārṅgadeva might have belongeḍHis grandfather hailed ´ from Vainyapura, his father from Kāsarapura, two unidentifiable toponyms. 
 
 The Ramtek Stone Inscription of the time of Ramacandra ¯ 
 
-We now turn to the longest inscription found at Ramtek, the so-called Ramtek Stone Inscription of the time of Rāmacandra. A technical description of it has been given by Mirashi and Kulkarni, who published a first edition in Epigraphia Indica xxv. The historical conclusions reached by Mirashi, ascribing the in scription to the Yādava king Rāmacandra (i.e. ‘last quarter of the thirteenth century ad’) against the earlier opinion of Kielhorn, who identified Sim. han. a and Rāmacandra with homonymous princes of the Raipur branch of the Hai haya dynasty, have been corroborated by later research and need no further discussion. 23 
+We now turn to the longest inscription found at Ramtek, the so-called Ramtek Stone Inscription of the time of Rāmacandra. A technical description of it has been given by Mirashi and Kulkarni, who published a first edition in Epigraphia Indica xxv. The historical conclusions reached by Mirashi, ascribing the in scription to the Yādava king Rāmacandra (i.e. ‘last quarter of the thirteenth century ad’) against the earlier opinion of Kielhorn, who identified Sim. haṇa and Rāmacandra with homonymous princes of the Raipur branch of the Hai haya dynasty, have been corroborated by later research and need no further discussion. 23 
 
-I shall give a synopsis of the contents and a metrical restoration of the text. Those verses that are sufficiently legible will be translateḍFor technical details of the inscription (‘which is incised on a large slab let into the wall on the right hand side of the door of the garbhagr.ha in the temple of Laks.man. a’) the reader is referred to Epigraphia Indica.24 The numbering of the verses is mine. The first three lines of the inscription have suffered so much that only a few words are legible, too little to restore the metre. On account of the average number of verses contained in one line we conjecture that the first three lines contained five or six verses. Our numbering therefore starts with verse 6. 
+I shall give a synopsis of the contents and a metrical restoration of the text. Those verses that are sufficiently legible will be translateḍFor technical details of the inscription (‘which is incised on a large slab let into the wall on the right hand side of the door of the garbhagr.ha in the temple of Laks.maṇa’) the reader is referred to Epigraphia Indica.24 The numbering of the verses is mine. The first three lines of the inscription have suffered so much that only a few words are legible, too little to restore the metre. On account of the average number of verses contained in one line we conjecture that the first three lines contained five or six verses. Our numbering therefore starts with verse 6. 
 
 23 EI II, 230; cf. EI XXV, 7. 
 
@@ -2017,11 +2017,11 @@ Synopsis of the contents
 
 Verses 1–28 describe the exploits of the Yādava dynasty (v. 8) which traces its origin back to Yadu (v. 9). Vv. 12–21 seem to be concerned with the deeds of King Bhillama and his successor Jaitrapāla (Jaitugi) ad 1191–1210 (v. 15), whose victory over Rudra (probably Rudradeva of the Kākatīyas) is mentioned in v. 12. 25 His victories against the Andhras and Colas appear in v. 14, against the Gurjaras in v. 15. 
 
-Vv. 22–24 seem to deal with King Sim. han. a (v. 22), whose exploits on the battlefield are praised (v. 23) and who is said to have reached the ultimate peace (śāntim. paramām avāpa). Then the inscription passes on to his successor, who must be King Kr.s.n. a (ad 1247–60), who ruled the earth, was a tree of tranquility (viśrāmataru) for the petitioners who appealed to him never in vain (v. 25) and who finally, after pacifying the whole earth, made it forget its grief over the loss of King Sim. han. a (v. 27). 
+Vv. 22–24 seem to deal with King Sim. haṇa (v. 22), whose exploits on the battlefield are praised (v. 23) and who is said to have reached the ultimate peace (śāntim. paramām avāpa). Then the inscription passes on to his successor, who must be King Kr.s.ṇa (ad 1247–60), who ruled the earth, was a tree of tranquility (viśrāmataru) for the petitioners who appealed to him never in vain (v. 25) and who finally, after pacifying the whole earth, made it forget its grief over the loss of King Sim. haṇa (v. 27). 
 
-Vv. 28–29 seem to introduce King Rāmacandra (ad 1271–1310), either with or without explicitly mentioning his immediate predecessors, viz. King Mahādeva, his uncle, and Amman. a, the latter’s son. tat◦ in tatsutah. (v. 29c) may hence refer to King Kr.s.n. a, father of Rāmacandra, whereas the epithet vāyināyaka (29a) could possibly allude to the ruse by means of which Rāmacandra wrested the throne from his cousin Amman. a. This episode is told in another inscription of Rāmacandra (EI xxv, 199–225 v. 14), where it is said that the young pretender to the throne succeeded in entering the palace of his cousin in the guise of a leader (or actor) (nāyaka) of a theatrical troupe which in reality consisted of his comrades. Maybe we should read vājināyaka (‘the impetuous hero’) instead of vāyināyaka, which does not seem to make sense. 
+Vv. 28–29 seem to introduce King Rāmacandra (ad 1271–1310), either with or without explicitly mentioning his immediate predecessors, viz. King Mahādeva, his uncle, and Ammaṇa, the latter’s soṇtat◦ in tatsutah. (v. 29c) may hence refer to King Kr.s.ṇa, father of Rāmacandra, whereas the epithet vāyināyaka (29a) could possibly allude to the ruse by means of which Rāmacandra wrested the throne from his cousin Ammaṇa. This episode is told in another inscription of Rāmacandra (EI xxv, 199–225 v. 14), where it is said that the young pretender to the throne succeeded in entering the palace of his cousin in the guise of a leader (or actor) (nāyaka) of a theatrical troupe which in reality consisted of his comrades. Maybe we should read vājināyaka (‘the impetuous hero’) instead of vāyināyaka, which does not seem to make sense. 
 
-V. 30 introduces Rāghavadeva on whom King Rāmacandra devolved the responsibilities for the welfare of the empire in order that he himself could enjoy the arts of his harem-ladies (v. 31). Of this Rāghava it is said that he held the office of ‘superintendent of the guard of the royal bed-chamber’ (sayyāpālakulādhīśa) (vv. 32, 38). He gained this new position, as it would seem, thanks to his devotion to Vaidyanātha (Siva?) (v. 33), and he was mar- ´ ried to the most lovely and virtuous lady Rājāyī, who personified happiness and beauty (v. 34). Rāghava, invested with this honourable charge, considered his foremost duty (v. 118); what this involved seems to have been expressed in the part of the inscription that has become illegible, but Mirashi’s supposition appears plausible: ‘some repairs done to the temple of Laks.man. a where the inscription is put up. Māideva (Māyideva), who is mentioned in ll. 70 f., seems to have been a local official in charge of the work’. 26 
+V. 30 introduces Rāghavadeva on whom King Rāmacandra devolved the responsibilities for the welfare of the empire in order that he himself could enjoy the arts of his harem-ladies (v. 31). Of this Rāghava it is said that he held the office of ‘superintendent of the guard of the royal bed-chamber’ (sayyāpālakulādhīśa) (vv. 32, 38). He gained this new position, as it would seem, thanks to his devotion to Vaidyanātha (Siva?) (v. 33), and he was mar- ´ ried to the most lovely and virtuous lady Rājāyī, who personified happiness and beauty (v. 34). Rāghava, invested with this honourable charge, considered his foremost duty (v. 118); what this involved seems to have been expressed in the part of the inscription that has become illegible, but Mirashi’s supposition appears plausible: ‘some repairs done to the temple of Laks.maṇa where the inscription is put up. Māideva (Māyideva), who is mentioned in ll. 70 f., seems to have been a local official in charge of the work’. 26 
 
 It seems likely that this Rāghava is the same as Raghu ‘the deputy and minister of the late R´a´ı R´am Deo’ who joined the rebellion of Rāmacandra’s 
 
@@ -2041,7 +2041,7 @@ son-in-law, Harapāladeva, against the Sultan of Delhi and whose miserable death
 
 The main part of the inscription is concerned with the eulogy (Māhātmya) of Rāma and his most holy abode, the Sind¯ura Mountain (i.e. Rāmagiri, or Ramtek) (vv. 39–116). As such, the text provides an early, and what is more, datable forerunner of the Sind¯uragirimāhātmya of which only a late eighteenth century version in 16 chapters is now available (recently edited by S.M. Ayachit and hereafter referred to by the siglum SM). 28 
 
-In order to discover a way of crossing the unfathomable ocean of existence, Rāghava addressed his guru (vv. 35–37). In response the latter recites the Sind¯uragirimāhātmya. The guru starts proclaiming that of all ten avatāras of Vis.n. u, Rāma is the foremost (v. 39). He lives on this mountain, also called Tapam. giri, together with Hanumat (v. 40). Before (prāg) Rāma (i.e. in the Kr.tayuga), the mountain was resorted to by Narasim. ha, who killed the ‘en emy of the gods’ (i.e. Hiran. yakaśipu) here. His blood gave the mountain its red colour (sind¯ura), hence the name Sind¯uragiri (v. 42). Thus Rāma and Narasim. ha appear to be the two principal gods of this tīrtha. 
+In order to discover a way of crossing the unfathomable ocean of existence, Rāghava addressed his guru (vv. 35–37). In response the latter recites the Sind¯uragirimāhātmya. The guru starts proclaiming that of all ten avatāras of Vis.ṇu, Rāma is the foremost (v. 39). He lives on this mountain, also called Tapam. giri, together with Hanumat (v. 40). Before (prāg) Rāma (i.e. in the Kr.tayuga), the mountain was resorted to by Narasim. ha, who killed the ‘en emy of the gods’ (i.e. Hiraṇyakaśipu) here. His blood gave the mountain its red colour (sind¯ura), hence the name Sind¯uragiri (v. 42). Thus Rāma and Narasim. ha appear to be the two principal gods of this tīrtha. 
 
 After these introductory remarks, Rāghava’s guru seems to expose the trans mission of the Māhātmya. It would seem that Agastya (‘who had protected the ocean by keeping it in his mouth’, v. 44) heard the story in Brahmā’s 
 
@@ -2057,17 +2057,17 @@ The Sind¯uragirimāhātmya as it is published by Dr. Ayachit appears to be a pr
 
 5 / The Ramtek Inscriptions I 91 
 
-palace and subsequently communicated it to Rāma, who visited his hermitage (vv. 44–46). Agastya is also responsible for Rāma’s installation on this hill (v. 110; cf. SM 16.63). Traditionally Agastya’s hermitage is located on the southern flank of the Vindhya mountains (cf. SM 9.35: vindhyasya daks.in. e pārśve samīpe nandivardhanam | gautamasyāgnikon. e vai nairr.tye kumbhajasya vai k 35 k), and today a tirtha on top of the hill is considered as the place where Agastya practised his tapas (in the precincts of the Rāma–Kr.s.n. a temple near the Bhairava Darwāzā). The line of transmission of the Māhātmya, Brahmā– Agastya–Rāma–other sages, etc., corresponds to the one presented in the SM 6.8–14. 
+palace and subsequently communicated it to Rāma, who visited his hermitage (vv. 44–46). Agastya is also responsible for Rāma’s installation on this hill (v. 110; cf. SM 16.63). Traditionally Agastya’s hermitage is located on the southern flank of the Vindhya mountains (cf. SM 9.35: vindhyasya daks.iṇe pārśve samīpe nandivardhanam | gautamasyāgnikoṇe vai nairr.tye kumbhajasya vai k 35 k), and today a tirtha on top of the hill is considered as the place where Agastya practised his tapas (in the precincts of the Rāma–Kr.s.ṇa temple near the Bhairava Darwāzā). The line of transmission of the Māhātmya, Brahmā– Agastya–Rāma–other sages, etc., corresponds to the one presented in the SM 6.8–14. 
 
-Vv. 47–116 contain the actual Māhātmya of Sind¯uragiri as revealed by Agastya. After having proclaimed the merit that accrues to one who stays on this mountain, especially after keeping a fast and vigil on a Vis.n. u-day (probably the 11th of each paks.a) (vv. 47–51), the text goes on to mention the four dvārapālas, or guardians of the ks.etra (v. 52). They are the same as described in the SM 2.1, viz. Ghan.t.eśvara, Sudheśvara (= Siddheśvara ?), Kedāreśvara and A˜njaneya (i.e. Hanumat). ¯ 
+Vv. 47–116 contain the actual Māhātmya of Sind¯uragiri as revealed by Agastya. After having proclaimed the merit that accrues to one who stays on this mountain, especially after keeping a fast and vigil on a Vis.ṇu-day (probably the 11th of each paks.a) (vv. 47–51), the text goes on to mention the four dvārapālas, or guardians of the ks.etra (v. 52). They are the same as described in the SM 2.1, viz. Ghaṇt.eśvara, Sudheśvara (= Siddheśvara ?), Kedāreśvara and A˜njaneya (i.e. Hanumat). ¯ 
 
-Next the inscription describes the ‘eight tīrthas’ (cf. v. 64) that, accord ing to the SM 5.4, encircle the pond Ambatīrtha (v. 60) (in SM known as Ambakun. ḍa and now called Ambālā Tālāb). This pond lies at the eastern end of the horseshoe-shaped Rāmagiri hill and is nowadays surrounded by many temples, most of which date from the Bhonsle perioḍThe same eight holy places are described in SM 5.1–7: Gaṅgāsrotas (which must have been men tioned in v. 55; cf. SM 5.4), Saṅkhatīrtha (v. 56), Agnitīrtha (v. 58), Ambikāpati ´ (v. 60), Varun. atīrtha (v. 61), Suklatīrtha (v. 62), Nr ´ .sim. hatīrtha (v. 63), and the eighth, Kuruks.etratīrtha (v. 64). 
+Next the inscription describes the ‘eight tīrthas’ (cf. v. 64) that, accord ing to the SM 5.4, encircle the pond Ambatīrtha (v. 60) (in SM known as Ambakun. ḍa and now called Ambālā Tālāb). This pond lies at the eastern end of the horseshoe-shaped Rāmagiri hill and is nowadays surrounded by many temples, most of which date from the Bhonsle perioḍThe same eight holy places are described in SM 5.1–7: Gaṅgāsrotas (which must have been men tioned in v. 55; cf. SM 5.4), Saṅkhatīrtha (v. 56), Agnitīrtha (v. 58), Ambikāpati ´ (v. 60), Varuṇatīrtha (v. 61), Suklatīrtha (v. 62), Nr ´ .sim. hatīrtha (v. 63), and the eighth, Kuruks.etratīrtha (v. 64). 
 
-Then a group of ‘five tīrthas’ is described (tīrthapa˜ncaka, vv. 65–70), of which only three are known today and mentioned, not coherently, in the SM. The first three are Laks.mītīrtha (v. 66), Ham. satīrtha (v. 67), Cakratīrtha (v. 68; SM 7.25–29). According to Mirashi (1959, 101) this latter could be the pond today called Cākord. ā lying one mile to the south of the hill. 29 The fourth is Dhanustīrtha (v. 69; SM 7.29–35). Here one should offer a bow, preferably of gold (cf. SM 7.31–32). The fifth is Pitr.tīrtha (v. 70), where one should bathe and offer a pitr.tarpan. a. This tīrtha is described at length in SM 4.3–16, where it is said that its modern name is Rāmagayā (cf. v. 80, in which this name is mentioned). It could be modern Gāyakhurī near Khim. d.sī Lake (Mirashi 1959, 101), or the Ambālā tank (Hiralal 1908, 205). 
+Then a group of ‘five tīrthas’ is described (tīrthapa˜ncaka, vv. 65–70), of which only three are known today and mentioned, not coherently, in the SM. The first three are Laks.mītīrtha (v. 66), Ham. satīrtha (v. 67), Cakratīrtha (v. 68; SM 7.25–29). According to Mirashi (1959, 101) this latter could be the pond today called Cākord. ā lying one mile to the south of the hill. 29 The fourth is Dhanustīrtha (v. 69; SM 7.29–35). Here one should offer a bow, preferably of gold (cf. SM 7.31–32). The fifth is Pitr.tīrtha (v. 70), where one should bathe and offer a pitr.tarpaṇa. This tīrtha is described at length in SM 4.3–16, where it is said that its modern name is Rāmagayā (cf. v. 80, in which this name is mentioned). It could be modern Gāyakhurī near Khim. d.sī Lake (Mirashi 1959, 101), or the Ambālā tank (Hiralal 1908, 205). 
 
 Before beginning the description of the principal holy places on the mountain itself, the text seems to make another tour around the hill, starting in the west (Vājimedhatīrtha v. 71; cf. SM 7.43 where an Aśvamedhatīrtha is located in the 
 
-29 The Cakratīrtha is said to have been created by Vis.n. u’s cakra called Sudarśana; the fact that this is made explicit in v. 68 may point to an awareness of the old name of the lake north of the hill, called ‘Sudarśana’ in the Vākāt.aka inscription in the Kevala–Narasim. ha Temple (see below, p. 144). 
+29 The Cakratīrtha is said to have been created by Vis.ṇu’s cakra called Sudarśana; the fact that this is made explicit in v. 68 may point to an awareness of the old name of the lake north of the hill, called ‘Sudarśana’ in the Vākāt.aka inscription in the Kevala–Narasim. ha Temple (see below, p. 144). 
 
 
 
@@ -2077,13 +2077,13 @@ Before beginning the description of the principal holy places on the mountain it
 
 
 
-south), along the River Kalipā and its confluence with the Suranadī (vv. 72– 74), which is to be located to the north and northeast of the hill in accordance with the present situation (cf. SM 2.16–28, 3.1–31; below, n. 71 on p. 144), and Man. ikālakun. ḍa (v. 75) which, contrary to what is suggested in the inscription, in the SM 2.6 is located in the west, and ending with the Moks.akun. ḍa in the south (v. 76; cf. SM 2.4). 
+south), along the River Kalipā and its confluence with the Suranadī (vv. 72– 74), which is to be located to the north and northeast of the hill in accordance with the present situation (cf. SM 2.16–28, 3.1–31; below, n. 71 on p. 144), and Maṇikālakun. ḍa (v. 75) which, contrary to what is suggested in the inscription, in the SM 2.6 is located in the west, and ending with the Moks.akun. ḍa in the south (v. 76; cf. SM 2.4). 
 
 The inscription continues with a description of the tīrthas on or by the side of the hill. The first three are tanks: Rāmatīrtha, Sind¯uravāpī, and Karp¯uravāpī. The two latter are among the most noteworthy constructions at Rāmagiri. The Karp¯uravāpī lies at the foot of the northern flank of the hill (v. 82). It consists of a tank of stone with arcades on four sides (its eastern and part of its northern sides now in ruins), along with a temple complex with five cellas, three of which are crowned by śikharas situated on the western side. The compound is a good example of the thirteenth-century so-called Hemādpanti style. 
 
-The Sind¯uravāpī (v. 81) is a deep, well-constructed tank of stone with an entrance gate, which may date from the Mārāt.ha period, and cloisters on its northern side, which are probably earlier than the Yādava perioḍThe tank is situated on top of the hill to the east of the main temple complex. In its vicinity (samīpatas, v. 81) the Rāmatīrtha is said to be founḍWe hazzard the idea that a predecessor of the tank that is situated beside the main temple complex might have been meant, a tank which nowadays is known as the Sītecī Nhān.ī (or Sītā’s Bathing Place), since no other bathing place, let alone an old one, is found elsewhere in the close surroundings of the Sind¯uravāpī. If, on the other hand, as is assumed by Mirashi (1959, 102), this ‘Rāmatīrtha’ is identical with the reservoir northeast of the hill, which according to the SM was formerly called ¯Iśāla and today Rām Sāgar or Rāmatirtha (SM 15.40: īśālākhyam. purā nāmādhunā pus.karam. śubham | rāmatīrtham idānīm. tu rāma snānena te bhavet k), the fact would remain that a conspicuous tank on the Rāmagiri is not recorded in the inscription. The inscription does not make a reference to a bathing place of Sītā (a Sītākun. ḍa or a Sītātīrtha). 30 The tank near the entrance of the main temple-complex may have been restored and embellished on several later occasions. Thus the sculptured relief at its western wall seems to point to the Vijayanagara period. 31 The Rāmatīrtha is the only tank to which the inscription devotes three stanzas, and this, together 
+The Sind¯uravāpī (v. 81) is a deep, well-constructed tank of stone with an entrance gate, which may date from the Mārāt.ha period, and cloisters on its northern side, which are probably earlier than the Yādava perioḍThe tank is situated on top of the hill to the east of the main temple complex. In its vicinity (samīpatas, v. 81) the Rāmatīrtha is said to be founḍWe hazzard the idea that a predecessor of the tank that is situated beside the main temple complex might have been meant, a tank which nowadays is known as the Sītecī Nhān.ī (or Sītā’s Bathing Place), since no other bathing place, let alone an old one, is found elsewhere in the close surroundings of the Sind¯uravāpī. If, on the other hand, as is assumed by Mirashi (1959, 102), this ‘Rāmatīrtha’ is identical with the reservoir northeast of the hill, which according to the SM was formerly called ¯Iśāla and today Rām Sāgar or Rāmatirtha (SM 15.40: īśālākhyam. purā nāmādhunā pus.karam. śubham | rāmatīrtham idānīm. tu rāma snānena te bhavet k), the fact would remain that a conspicuous tank on the Rāmagiri is not recorded in the inscriptioṇThe inscription does not make a reference to a bathing place of Sītā (a Sītākun. ḍa or a Sītātīrtha). 30 The tank near the entrance of the main temple-complex may have been restored and embellished on several later occasions. Thus the sculptured relief at its western wall seems to point to the Vijayanagara period. 31 The Rāmatīrtha is the only tank to which the inscription devotes three stanzas, and this, together 
 
-30 This, along with the fact that the inscription does not make any allusion to the Yaks.a of Kālidāsa’s Meghad¯uta (cf. below, pp. 349 f.), seems to imply that the thirteenth-century author was not aware of an identity of the Ramtek Hill with a Rāmagiri of which ‘the waters were hallowed by the bathing of Janaka’s daughter’ (Meghad¯uta 1). This, again, makes Mirashi’s identification more problematic. On the other hand, Rāma’s footprints occur in v. 83 and a ‘Nhān. i Sīteci’ is mentioned in the fourteenth-century Mahānubhāva text, the Sthānapothī (p. 5). The lake to the north of the hill is known to the Vākāt.aka inscription in the Kevala–Narasim. ha Temple as ‘Sudarśana’ (see below, p. 144), a name evidently no longer in use in the 13th century (but see above, n. 29 on p. 91). 
+30 This, along with the fact that the inscription does not make any allusion to the Yaks.a of Kālidāsa’s Meghad¯uta (cf. below, pp. 349 f.), seems to imply that the thirteenth-century author was not aware of an identity of the Ramtek Hill with a Rāmagiri of which ‘the waters were hallowed by the bathing of Janaka’s daughter’ (Meghad¯uta 1). This, again, makes Mirashi’s identification more problematic. On the other hand, Rāma’s footprints occur in v. 83 and a ‘Nhāṇi Sīteci’ is mentioned in the fourteenth-century Mahānubhāva text, the Sthānapothī (p. 5). The lake to the north of the hill is known to the Vākāt.aka inscription in the Kevala–Narasim. ha Temple as ‘Sudarśana’ (see below, p. 144), a name evidently no longer in use in the 13th century (but see above, n. 29 on p. 91). 
 
 31 Bakker 1989c, 97 ff. 
 
@@ -2097,15 +2097,15 @@ The Sind¯uravāpī (v. 81) is a deep, well-constructed tank of stone with an en
 
 with its location in the neighbourhood of the Sind¯uravāpī, points to the fact that is was a prominent holy place. 
 
-After these three tanks, sanctuaries of tutelary deities of Saiva nature, which ´ appear to have been connected with the access to the summit, are listed: Gaje ndravadana (v. 84), Dharmeśvara (v. 85; SM 5.9), Dh¯umrāks.a, which is said to be the spot where the ś¯udra ascetic Sam ´ . buka was killed by the sword ‘Can drahāsa’ which Rāma had taken from Rāvan. a (v. 86; cf. Rāmāyan. a 7.17; SM 14), but which originally might have been a yaks.a (rāks.asa) shrine, 32 and Muktīśvara (v. 87). 
+After these three tanks, sanctuaries of tutelary deities of Saiva nature, which ´ appear to have been connected with the access to the summit, are listed: Gaje ndravadana (v. 84), Dharmeśvara (v. 85; SM 5.9), Dh¯umrāks.a, which is said to be the spot where the ś¯udra ascetic Sam ´ . buka was killed by the sword ‘Can drahāsa’ which Rāma had taken from Rāvaṇa (v. 86; cf. Rāmāyaṇa 7.17; SM 14), but which originally might have been a yaks.a (rāks.asa) shrine, 32 and Muktīśvara (v. 87). 
 
-Having thus reached the top again the Māhātmya concludes with the eulogy of the main deities who have their abode on the hill and who appear to have been the principal objects of worship (vv. 88–116). Six avatāras are mentioned, the first being Vis.n. u in his incarnation of Gopāla, who is the full moon (re flected) in the ocean of bliss of the gopīs (v. 88). Then Narasim. ha is mentioned again, the fourth descent, who out of compassion protected the earth which was tortured by a torrent of heat (v. 89). As already observed, the myth of Narasim. ha is adduced to account for the name of the mountain, and no doubt the cult of Narasim. ha has old roots here, as is testified by the two fifth-century temples dedicated to him. The third incarnation described is that of the boar, Adikola (Varāha), who lifted the earth on his tusk out of the flood of the seven ¯ oceans (v. 90). That the worship of Varāha also goes back to early days is evident from the huge Vākāt.aka image of a boar not far from the Narasim. ha temples (see Plate 63). 
+Having thus reached the top again the Māhātmya concludes with the eulogy of the main deities who have their abode on the hill and who appear to have been the principal objects of worship (vv. 88–116). Six avatāras are mentioned, the first being Vis.ṇu in his incarnation of Gopāla, who is the full moon (re flected) in the ocean of bliss of the gopīs (v. 88). Then Narasim. ha is mentioned again, the fourth descent, who out of compassion protected the earth which was tortured by a torrent of heat (v. 89). As already observed, the myth of Narasim. ha is adduced to account for the name of the mountain, and no doubt the cult of Narasim. ha has old roots here, as is testified by the two fifth-century temples dedicated to him. The third incarnation described is that of the boar, Adikola (Varāha), who lifted the earth on his tusk out of the flood of the seven ¯ oceans (v. 90). That the worship of Varāha also goes back to early days is evident from the huge Vākāt.aka image of a boar not far from the Narasim. ha temples (see Plate 63). 
 
-The eulogy of the family of Rāmacandra begins with his father, Paṅktiratha (i.e. Daśaratha; v. 91), who lives here after his abdication, and with Rāma’s two sons, Kuśa and Lava (v. 92), but is then interrupted by two heterologous deities, Mahāsiddhi and Mahābhairava (vv. 93 f.), which can only be accounted for if we assume that the inscription follows an actual topographical pattern. The shrine of Mahāsiddhi, where the eight Mātr.kās were installed, no longer exists, but I found an old relief of the eight mother-goddesses, evidently displaced, in the main cella of the Karp¯uravāpī compounḍMahābhairava likewise has disappeared, yet a temple of his, nearby Bhogarāma, is also mentioned in the Sthānapothī.33 
+The eulogy of the family of Rāmacandra begins with his father, Paṅktiratha (i.e. Daśaratha; v. 91), who lives here after his abdication, and with Rāma’s two sons, Kuśa and Lava (v. 92), but is then interrupted by two heterologous deities, Mahāsiddhi and Mahābhairava (vv. 93 f.), which can only be accounted for if we assume that the inscription follows an actual topographical patterṇThe shrine of Mahāsiddhi, where the eight Mātr.kās were installed, no longer exists, but I found an old relief of the eight mother-goddesses, evidently displaced, in the main cella of the Karp¯uravāpī compounḍMahābhairava likewise has disappeared, yet a temple of his, nearby Bhogarāma, is also mentioned in the Sthānapothī.33 
 
-The inscription reverts to the retinue of Rāma in verse 95, describing Hanu mat (Pavanaja), partly as an incarnation of Bhairava, viz. as possessing five mouths, as moon-crested, with ten arms, three eyes, blazing ferociously like a million rising suns, and partly as Rāma’s devout servant, help and mainstay of all devotees who direct their thoughts to him. The Hanumat Temple is found in the innermost court, right next to the Laks.man. a Temple which is named in the next verse (v. 96). 
+The inscription reverts to the retinue of Rāma in verse 95, describing Hanu mat (Pavanaja), partly as an incarnation of Bhairava, viz. as possessing five mouths, as moon-crested, with ten arms, three eyes, blazing ferociously like a million rising suns, and partly as Rāma’s devout servant, help and mainstay of all devotees who direct their thoughts to him. The Hanumat Temple is found in the innermost court, right next to the Laks.maṇa Temple which is named in the next verse (v. 96). 
 
-Laks.man. a, in whose temple the present inscription is found, is said to be Saṅkha (the serpent/the conch), whom we suppose to be homologous with ´ 
+Laks.maṇa, in whose temple the present inscription is found, is said to be Saṅkha (the serpent/the conch), whom we suppose to be homologous with ´ 
 
 32 See Bakker 2010a (below, p. 349). 
 
@@ -2119,11 +2119,11 @@ Laks.man. a, in whose temple the present inscription is found, is said to be Sa�
 
 
 
-Ses ´ .a, though he is explicitly denied a śaṅkha nature. 34 Does the Laks.man. a Temple replace an older nāga sanctuary? In Rāma’s proximity Sītā is present, the remembrance of whose name makes a mountain of sins disappear (v. 97). And then, of course, there are several images of Rāma (Vis.n. u) himself (v. 98). They appear to be described in the next four verses (vv. 99–102). 
+Ses ´ .a, though he is explicitly denied a śaṅkha nature. 34 Does the Laks.maṇa Temple replace an older nāga sanctuary? In Rāma’s proximity Sītā is present, the remembrance of whose name makes a mountain of sins disappear (v. 97). And then, of course, there are several images of Rāma (Vis.ṇu) himself (v. 98). They appear to be described in the next four verses (vv. 99–102). 
 
-The foremost (ādi) of these is referred to as Adirāma (v. 99), in all likelihood ¯ the name of the main Rāma temple just behind the Laks.man. a Mandir. The second is Bhogarāma (v. 100), which is the name of the Vākāt.aka temple that nowadays is in the possession of the Mahānubhāva sect. The third, Guptarāma, (v. 101), refers to a small (Vākāt.aka) temple partly carved into a recess in the rock below the path that leads up to the hill. And, finally, Saṅkharāma which, ´ in view of Laks.man. a’s designation as Saṅkha (v. 96), may refer to the Laks ´ .man. a Temple, thus being an appropriate conclusion of the tour of the holy places of Ramtek as described in the inscription in question, found in this very temple. 
+The foremost (ādi) of these is referred to as Adirāma (v. 99), in all likelihood ¯ the name of the main Rāma temple just behind the Laks.maṇa Mandir. The second is Bhogarāma (v. 100), which is the name of the Vākāt.aka temple that nowadays is in the possession of the Mahānubhāva sect. The third, Guptarāma, (v. 101), refers to a small (Vākāt.aka) temple partly carved into a recess in the rock below the path that leads up to the hill. And, finally, Saṅkharāma which, ´ in view of Laks.maṇa’s designation as Saṅkha (v. 96), may refer to the Laks ´ .maṇa Temple, thus being an appropriate conclusion of the tour of the holy places of Ramtek as described in the inscription in question, found in this very temple. 
 
-The Māhātmya ends with a stotra, an As.t.aka praising Rāmacandra in eight Sārd¯ulavikrīd ´ . ita verses. The worn state of great parts of it makes it hard to read, but from what remains it appears that Rāma is thought identical with Vis.n. u–Nārāyan. a, equated with the primordial Purus.a (v. 111), the Lord of the Advaita doctrine (v. 104), who, next to the exploits known from the Rāmāyan. a, churned the ocean of milk (v. 105), the remembrance of whose Name (rāmeti nāma, v. 108) leads his devotees to the realm of bliss, and who has been installed on the Sind¯ura Mountain by Agastya (v. 100). 
+The Māhātmya ends with a stotra, an As.t.aka praising Rāmacandra in eight Sārd¯ulavikrīd ´ . ita verses. The worn state of great parts of it makes it hard to read, but from what remains it appears that Rāma is thought identical with Vis.ṇu–Nārāyaṇa, equated with the primordial Purus.a (v. 111), the Lord of the Advaita doctrine (v. 104), who, next to the exploits known from the Rāmāyaṇa, churned the ocean of milk (v. 105), the remembrance of whose Name (rāmeti nāma, v. 108) leads his devotees to the realm of bliss, and who has been installed on the Sind¯ura Mountain by Agastya (v. 100). 
 
 The last part of the inscription is practically illegible. What it could possibly contain has already been discussed above. 
 
@@ -2133,7 +2133,7 @@ The following edition of this inscription is based on two publications of it by 
 
 On the whole, M(1) is to be preferred above M(2), but occasionally the reading of M(2) seems more plausible. Mirashi does not account for the dis crepancies between his two editions. M(1) gives an estimate of the number of syllables erased or illegible. This made it possible to restore the metrical composition of the text. I took advantage of the metres that were suggested by 
 
-34 Hiralal 1908, 206 (n. 14). Saṅkha is one of the main Nāgas mentioned in MBh 1.31.8, ´ 5.101.12. But a śaṅkha nature is denied to Laks.man. a, who is generally considered to be an incarnation of Ses ´ .a, to which also the first pāda of v. 96 seems to refer (‘carrying the world on his heads’). The usual absence of snake-hoods and other nāga characteristics in Laks.man. a’s iconography could possibly explain this denial (cf. Mirashi 1964a, 143), but aśaṅkhātmaka may play on the meaning of śaṅkha, ‘conch’, which would deny Laks.man. a a white colour. 
+34 Hiralal 1908, 206 (n. 14). Saṅkha is one of the main Nāgas mentioned in MBh 1.31.8, ´ 5.101.12. But a śaṅkha nature is denied to Laks.maṇa, who is generally considered to be an incarnation of Ses ´ .a, to which also the first pāda of v. 96 seems to refer (‘carrying the world on his heads’). The usual absence of snake-hoods and other nāga characteristics in Laks.maṇa’s iconography could possibly explain this denial (cf. Mirashi 1964a, 143), but aśaṅkhātmaka may play on the meaning of śaṅkha, ‘conch’, which would deny Laks.maṇa a white colour. 
 
 
 
@@ -2143,9 +2143,9 @@ On the whole, M(1) is to be preferred above M(2), but occasionally the reading o
 
 5 / The Ramtek Inscriptions I 95 
 
-M(1) in footnotes. The numbers of the lines are given in bold face. Rejected readings are given in the apparatus. In the majority of cases this applies to readings given in M(2). I have accepted most of the emendations proposed by Mirashi (these concern mostly orthographic matters such as kha instead of s.a) and added some of my own. The actual reading of the inscription is given in the apparatus indicated by the siglum E. Homorganic nasals have been silently written wherever required by standard orthography. 
+M(1) in footnotes. The numbers of the lines are given in bold face. Rejected readings are given in the apparatus. In the majority of cases this applies to readings given in M(2). I have accepted most of the emendations proposed by Mirashi (these concern mostly orthographic matters such as kha instead of s.a) and added some of my owṇThe actual reading of the inscription is given in the apparatus indicated by the siglum E. Homorganic nasals have been silently written wherever required by standard orthography. 
 
-Conjectural readings by Mirashi and myself are, if considered plausible enough, given in the text between angular brackets h i, or else in the apparatus. Accepted alterations (emendations) are indicated by round brackets ( ). It is not clear whether the dan. ḍas that appear in Mirashi’s text are his own or actually found in the inscription. Occasionally they interfere with the metre, more often they are missing at the end of a verse or hemistich. The dan. ḍas given in the present edition indicate the metrical divisions and are my own without claim of authenticity. The same applies to the numbering of the verses. All emendations and conjectures by Mirashi that are metrically incorrect have been rejected and relegated to the apparatus, since, as will be proved, the author of the inscription was a skilful poet who knew his prosody. 
+Conjectural readings by Mirashi and myself are, if considered plausible enough, given in the text between angular brackets h i, or else in the apparatus. Accepted alterations (emendations) are indicated by round brackets ( ). It is not clear whether the dan. ḍas that appear in Mirashi’s text are his own or actually found in the inscriptioṇOccasionally they interfere with the metre, more often they are missing at the end of a verse or hemistich. The dan. ḍas given in the present edition indicate the metrical divisions and are my own without claim of authenticity. The same applies to the numbering of the verses. All emendations and conjectures by Mirashi that are metrically incorrect have been rejected and relegated to the apparatus, since, as will be proved, the author of the inscription was a skilful poet who knew his prosody. 
 
 Edition 
 
@@ -2165,7 +2165,7 @@ M(l) : reading Mirashi in EI XXV (1939–40), 12–20
 
 M(2) : reading Mirashi 1959, 92–99 
 
-1 . . . (15–18 syll.) n. u . . . (25 syll.) mavān. mu . . . (45 syll.) 
+1 . . . (15–18 syll.) ṇu . . . (25 syll.) mavāṇmu . . . (45 syll.) 
 
 2 . . . (15–18 syll.) p¯ujita . . . (25 syll.) statvena . . . (45 syll.) 
 
@@ -2189,17 +2189,17 @@ l. 3 ◦oraga conj. M 6a pravis.t.ah. conj. M(1): ◦vis.t.a conj. M(2)
 
 
 
-kim. varn. yate h’yam yaiduvam. śajah. ˘ , ˘ ˘ ˘ ˘ ˘ ˘ | 
+kim. varṇyate h’yam yaiduvam. śajah. ˘ , ˘ ˘ ˘ ˘ ˘ ˘ | 
 
 6 ˘ ˘ ˘ ˘ ˘ ˘ , ˘ ˘ ˘ ˘ ˘ ˘ k 9 k 
 
-˘ ks.on. ipāla(h.), kālah. prodyadvairivīravra | 
+˘ ks.oṇipāla(h.), kālah. prodyadvairivīravra | 
 
 ˘ ˘ , ˘ jam. bhaśatruh. k 10 k 
 
 bhraśyatkalaṅkavidhumahn. ḍala i ˘ ˘ , ˘ ˘˘˘ ˘ ˘ ˘ ˘ | 7 ˘ ˘˘˘ ˘ ˘ ˘ ˘ , ˘ ˘˘˘ ˘ ˘ ˘ ˘ k11 k 
 
-yasyātibhīs.an. aran. āṅgan. a ˘ ˘ , 
+yasyātibhīs.aṇaran. āṅgaṇa ˘ ˘ , 
 
 ˘ ˘˘˘ ˘ ˘ ˘ ˘ | 
 
@@ -2217,7 +2217,7 @@ tvam. re coḍavimu˜nca dahrpai ˘ ˘ ˘ ˘ |
 
 ˘ ˘ ˘ ˘ ˘ dharānāthaprabodha ˘ k 14 k 
 
-9 ˘ ˘˘˘ ˘ ˘ ˘ ˘ , ˘ ˘˘˘ (khi)labh¯upatīnām | śir ˘ ˘˘˘ ˘ ˘ ˘ ˘ , ˘ ˘˘˘ ˘ ˘ hgurjairendrah. k 15 k parāṅmukho yasya puro ran. e ’bh¯ut, ˘ ˘ ˘ ˘ ˘ ˘ | 
+9 ˘ ˘˘˘ ˘ ˘ ˘ ˘ , ˘ ˘˘˘ (khi)labh¯upatīnām | śir ˘ ˘˘˘ ˘ ˘ ˘ ˘ , ˘ ˘˘˘ ˘ ˘ hgurjairendrah. k 15 k parāṅmukho yasya puro raṇe ’bh¯ut, ˘ ˘ ˘ ˘ ˘ ˘ | 
 
 10 ˘ ˘ hes.u mahāmahīndre, jaitra ˘ ˘ ˘ ˘ ˘ k 16 k 
 
@@ -2229,7 +2229,7 @@ gaganam iva satāram. sam. dhyayā sa ˘ k 17 k
 
 ˘ ˘˘˘ ˘ ˘ ˘ ˘ , ˘ ˘˘˘ ˘ hkairotkarān. ām | 
 
-11 saundarya ˘˘˘ ˘ ˘ ˘ ˘ , ˘ ˘˘˘ ˘ ˘ ˘ ˘ k 18 k ˘ ˘ hks.oin. ipater asya, bh¯umipālo ’˘ ˘ ˘ | 
+11 saundarya ˘˘˘ ˘ ˘ ˘ ˘ , ˘ ˘˘˘ ˘ ˘ ˘ ˘ k 18 k ˘ ˘ hks.oiṇipater asya, bh¯umipālo ’˘ ˘ ˘ | 
 
 ˘ ˘ ˘ ˘ ˘ ˘ ˘ ˘ , ˘ ˘ ˘ ˘ ˘ ˘ ˘ k 19 k 
 
@@ -2249,7 +2249,7 @@ tejobhir dinakr.drucām api hat.hād āhdhiikya ˘ ,
 
 drālayabhogabh¯umir abhavat kāla ˘ ˘ k 21 k 
 
-9a ’yam. ya◦ conj. M 10ab ks.on. ipālah. kālah. M(1): ks.on. ipālakālah. M(2), ks.on. ipālas.kālah. E 11a conieci ◦man. ḍala◦: EM ma 12cd rudrakolā conj. M(2) 13d ◦bhujagavā M(2) 14b darpa◦ conj. M 15b khila◦ M: s.ila E 15c śirassu conj. M 15d gurjarendrah. conj. M 17c mauktikaughair conj. M 18b karo◦ conj. M 18c saundaryasya M(2) 19a ks.on. i◦ conj. M 19b ’ om. M(2) 21a candra conj. M 
+9a ’yam. ya◦ conj. M 10ab ks.oṇipālah. kālah. M(1): ks.oṇipālakālah. M(2), ks.oṇipālas.kālah. E 11a conieci ◦man. ḍala◦: EM ma 12cd rudrakolā conj. M(2) 13d ◦bhujagavā M(2) 14b darpa◦ conj. M 15b khila◦ M: s.ila E 15c śirassu conj. M 15d gurjarendrah. conj. M 17c mauktikaughair conj. M 18b karo◦ conj. M 18c saundaryasya M(2) 19a ks.oṇi◦ conj. M 19b ’ om. M(2) 21a candra conj. M 
 
 9 Indravajra (Upajāti) 10 Sālinī 11 Vasantatilaka 12 Vasantatilaka 13 Mālinī 14 ´ Sārd¯ulavikrīd ´ . ita 15 Vasantatilaka 16 Upajāti 17 Mālinī 18 Vasantatilaka 19 Sloka 20 Pr ´ .thvī 21 Sārd¯ulavikrīd ´ . ita 
 
@@ -2261,7 +2261,7 @@ drālayabhogabh¯umir abhavat kāla ˘ ˘ k 21 k
 
 5 / The Ramtek Inscriptions I 97 
 
-13 ˘ ˘ ˘ ˘ ˘ ˘ , ˘ ˘ hghain. adevanāmā | 
+13 ˘ ˘ ˘ ˘ ˘ ˘ , ˘ ˘ hghaiṇadevanāmā | 
 
 gun. ābhi ˘ ˘ ˘ ˘ , ˘ ˘ ˘ ˘ ˘ ˘ k 22 k 
 
@@ -2291,7 +2291,7 @@ phalegrahir yācakapattripaṅkteh. k 25 k
 
 apārasam. sārasamudrasārair, yaśah.sudhaughair vasudhā yadīyaih. | 
 
-śrīsim. han. aks.on. ipater viyogatāpam. jahau ˘ ˘ ˘ ˘ k 27 k 
+śrīsim. haṇaks.oṇipater viyogatāpam. jahau ˘ ˘ ˘ ˘ k 27 k 
 
 16 a ˘ ˘ ˘ ˘ ˘ ˘ ˘ , ˘ ˘ ˘ ˘ ˘ ˘ ˘ | 
 
@@ -2305,7 +2305,7 @@ tasyāpy ayam. rāghavadevahnāmāi, ˘ ˘ ˘ ˘ ˘ ˘ |
 
 17 ˘ ˘ ˘ ˘ ˘ ˘ , ˘ ˘ ˘ ˘ ˘ ˘ k 30 k 
 
-hguin. agauravapran. ayinam. śrīrāmacandrah. prabhur, 
+hguiṇagauravapraṇayinam. śrīrāmacandrah. prabhur, 
 
 yam. sāmrājyasamr.ddhisundararucah. pātram. vidhāya śrīyah. | 
 
@@ -2321,7 +2321,7 @@ sam. pāditā(khi)lamaha(ttva)padāya tasmai |
 
 ˘ ˘˘˘ ˘ ˘ ˘ ˘ k 33 k 
 
-22b ghan. adeva◦ conj. M(1): sim. ghan. adeva◦ conj. M(2) 23b ◦dan. ḍaih. M(1): ◦dan. ḍair M(2) 23c vikhan. d.itā◦ M: vis.an. d.itā◦ E 23d ◦khan. ḍair M: s.an. ḍair E 24c māsādya conj. M 25c śaśāsa M: śaśāśa E, yah. M: yas. E 25d phalegrahi◦ M (unmetrical) 26a tridaśa M: tr.daśa E 26d ◦kabandha conj. M (unmetrical) 27d after jahau M inserts k 28a a om. M(2) 28d mahī◦ conj. M 29a conieci vājināyaka 30a nāmā conj. M 31a gun. a◦ conj. M 31c ’khilo◦ M: ’s.ilo◦ E 32d sattvam M: satvam E 33b ◦ākhila◦ M: ◦ās.ila◦ E, ◦mahattva◦ M: ◦mahatva◦ E 22 Upendravajra (Upajāti) 23 Upajāti 24 Indravajra (Upajāti) 25 Upendravajra (Upajāti) 26 Sikharin ´ .ī 27 Upajāti 28 Sloka 29 Rathoddhatā 30 Indravajra ´ (Upajāti) 31 Sārd¯ulavikrīd ´ . ita 32 Indravajra (Upajāti) 33 Vasantatilaka 
+22b ghaṇadeva◦ conj. M(1): sim. ghaṇadeva◦ conj. M(2) 23b ◦dan. ḍaih. M(1): ◦dan. ḍair M(2) 23c vikhaṇd.itā◦ M: vis.aṇd.itā◦ E 23d ◦khan. ḍair M: s.an. ḍair E 24c māsādya conj. M 25c śaśāsa M: śaśāśa E, yah. M: yas. E 25d phalegrahi◦ M (unmetrical) 26a tridaśa M: tr.daśa E 26d ◦kabandha conj. M (unmetrical) 27d after jahau M inserts k 28a a om. M(2) 28d mahī◦ conj. M 29a conieci vājināyaka 30a nāmā conj. M 31a guṇa◦ conj. M 31c ’khilo◦ M: ’s.ilo◦ E 32d sattvam M: satvam E 33b ◦ākhila◦ M: ◦ās.ila◦ E, ◦mahattva◦ M: ◦mahatva◦ E 22 Upendravajra (Upajāti) 23 Upajāti 24 Indravajra (Upajāti) 25 Upendravajra (Upajāti) 26 Sikharin ´ .ī 27 Upajāti 28 Sloka 29 Rathoddhatā 30 Indravajra ´ (Upajāti) 31 Sārd¯ulavikrīd ´ . ita 32 Indravajra (Upajāti) 33 Vasantatilaka 
 
 
 
@@ -2333,7 +2333,7 @@ sam. pāditā(khi)lamaha(ttva)padāya tasmai |
 
 ˘ ˘ ˘ ˘˘˘ ˘ ˘ tir, 
 
-(dhī)ram. ks.āntir api pradhānakulajam. śraddhā yathā sā(ttvi)kam | tadvad bh¯us.ayati sma yam. (pri)yatamā saubhāgyasaundharyabh¯u, rājāyīti gun. āśrayā gun. agan. ādhāram. dharā ˘ k 34 k 
+(dhī)ram. ks.āntir api pradhānakulajam. śraddhā yathā sā(ttvi)kam | tadvad bh¯us.ayati sma yam. (pri)yatamā saubhāgyasaundharyabh¯u, rājāyīti gun. āśrayā guṇagan. ādhāram. dharā ˘ k 34 k 
 
 20 ˘ ˘ ˘ ˘ ˘ ˘ ˘ ˘ , dinakr.ddinakr.ddyutim | 
 
@@ -2347,7 +2347,7 @@ jānāsi sarvam. bhagavam. s tatas tvām. , pr.cchāmi paryutsukatām upetah. | 
 
 śayyāpālakulādhīśa nibodhedam. vaco mama | 
 
-sam. sārasāgarottārakāran. am. na hareh. param k 38 k 
+sam. sārasāgarottārakāraṇam. na hareh. param k 38 k 
 
 22 avatārā daśāpy asya, rāmas tehs.āmi˘ ˘ ˘ | 
 
@@ -2363,13 +2363,13 @@ prabhāvam agryam. kim udāharāmi k 40 k
 
 ˘ ˘ ˘ ˘ ˘ ˘ , ˘ ˘ sādya ragh¯udvahasya k 41 k 
 
-prāg atra devo nr.harih. surārer, (bi)bheda vaks.ah. karajaih. śitāgraih. | tadraktap¯urārun. itas tato ’yam, ˘ ˘ ˘ ˘ ˘ ˘ k 42 k 
+prāg atra devo nr.harih. surārer, (bi)bheda vaks.ah. karajaih. śitāgraih. | tadraktap¯urāruṇitas tato ’yam, ˘ ˘ ˘ ˘ ˘ ˘ k 42 k 
 
 24 ˘ ˘ ˘ ˘˘˘ ˘ ˘ ˘ , 
 
 ˘ ˘ ˘ ˘˘˘ ˘ ˘ ˘ | 
 
-˘ ˘ ˘ hguin. akathām. saundaryasāraih. punas, 
+˘ ˘ ˘ hguiṇakathām. saundaryasāraih. punas, 
 
 tadvad vaktum amum. (br.)haspatisamo ’py anyo hi jānāti kah. k 43 k 25 papau samudram. culukena yas tam. , munīhśai ˘ ˘ ˘ ˘ | ˘ ˘ ˘ ˘ ˘ ˘ , ˘ ˘ ˘ ˘ ˘ ˘ k 44 k 
 
@@ -2377,7 +2377,7 @@ tadvad vaktum amum. (br.)haspatisamo ’py anyo hi jānāti kah. k 43 k 25 papau
 
 ˘ ˘˘˘ ˘ ˘ , ˘ meśvara itīha kīrtyate k 45 k 
 
-śrīrāmāya munīśvarah. kalaśabh¯ur madhyesabham. (bra)hman. ah. , 
+śrīrāmāya munīśvarah. kalaśabh¯ur madhyesabham. (bra)hmaṇah. , 
 
 26 śrutvaitasya gireh. prahbhāvai ˘ ˘ ˘ ˘ | 
 
@@ -2385,7 +2385,7 @@ tadvad vaktum amum. (br.)haspatisamo ’py anyo hi jānāti kah. k 43 k 25 papau
 
 ˘ ˘ ˘ ˘˘˘ ˘ ˘ ˘ k46 k 
 
-34b ddhīram. E M, yathā M(1): tathā M(2), sāttvikam M: sātvikam E 34c priyatamā M: pr.yatamā E 35c gurum ātmīyam M(1): gurutmātmīyam M(2) 36b pr.cchāni M(2) 37d khila◦ M: s.ila◦ E 39b tes.ām conj. M, conieci tes.ām anuttamah. 40a conieci ragh¯uttamo yatra ca 42b bibheda M: vibheda E 42c tatoyam M(2) 43c gun. a◦ conj. M 43d br.haspati◦ M: vr.haspati◦ E 44b munīśa conj. M 45d conieci gautameśvara (cf. SM 6.14 ff.): rāmeśvara conj. M 46a brahman. ah. M: vrahman. ah. E 46b prabhāva conj. M 34 Sārd¯ulavikrīd ´ . ita 35 Sloka 36 Upajāti 37 Indravajra (Upajāti) 38 ´ Sloka 39 ´ Sloka 40 Upajāti 41 Upajāti 42 Upajāti 43 ´ Sārd¯ulavikrīd ´ . ita 44 Upendravajra (Upajāti) 45 Rathoddhatā 46 Sārd¯ulavikrīd ´ . ita 
+34b ddhīram. E M, yathā M(1): tathā M(2), sāttvikam M: sātvikam E 34c priyatamā M: pr.yatamā E 35c gurum ātmīyam M(1): gurutmātmīyam M(2) 36b pr.cchāni M(2) 37d khila◦ M: s.ila◦ E 39b tes.ām conj. M, conieci tes.ām anuttamah. 40a conieci ragh¯uttamo yatra ca 42b bibheda M: vibheda E 42c tatoyam M(2) 43c guṇa◦ conj. M 43d br.haspati◦ M: vr.haspati◦ E 44b munīśa conj. M 45d conieci gautameśvara (cf. SM 6.14 ff.): rāmeśvara conj. M 46a brahmaṇah. M: vrahmaṇah. E 46b prabhāva conj. M 34 Sārd¯ulavikrīd ´ . ita 35 Sloka 36 Upajāti 37 Indravajra (Upajāti) 38 ´ Sloka 39 ´ Sloka 40 Upajāti 41 Upajāti 42 Upajāti 43 ´ Sārd¯ulavikrīd ´ . ita 44 Upendravajra (Upajāti) 45 Rathoddhatā 46 Sārd¯ulavikrīd ´ . ita 
 
 
 
@@ -2415,7 +2415,7 @@ kr.topavāsā harivāsare ye, kurvanti rātrau raghunandanāgre |
 
 ˘ ˘ ˘ ˘ ˘ ˘ , ˘ ˘ ˘ marādhikābhaih. k 51 k 
 
-ghan.t.eśvaram. caiva sudheśvaram. ca kedāram īśam. ca tathā˜njaneyam | 29 dvāreśvaram ˘ ˘ ˘ ˘ , ˘ ˘ ˘ ˘ ˘ ˘ k 52 k 
+ghaṇt.eśvaram. caiva sudheśvaram. ca kedāram īśam. ca tathā˜njaneyam | 29 dvāreśvaram ˘ ˘ ˘ ˘ , ˘ ˘ ˘ ˘ ˘ ˘ k 52 k 
 
 ˘ ˘ ˘ ˘˘˘ ˘ ˘ ˘ , 
 
@@ -2445,7 +2445,7 @@ snātvā śrī [32] ˘˘˘˘˘ ˘ ˘ ,
 
 ˘˘˘˘˘ ˘ ˘ , 
 
-† latyanalām. † samayam abhayah. śaṅkhapān. yantikasthah. k 57 k 
+† latyanalām. † samayam abhayah. śaṅkhapāṇyantikasthah. k 57 k 
 
 tām agnitīrthaprabhavām. vibh¯utim. , [33] ˘ ˘ ˘ ˘ ˘ ˘ | 
 
@@ -2471,11 +2471,11 @@ am(bi)kānāthasadane yāti bhogaikabh¯umitām k 60 k
 
 
 
-adhigamya varun. atīrtham. , [34] ˘˘˘˘ ˘ ˘ ˘˘˘˘ ˘˘˘˘ ˘ ˘ ˘˘˘˘ | 
+adhigamya varuṇatīrtham. , [34] ˘˘˘˘ ˘ ˘ ˘˘˘˘ ˘˘˘˘ ˘ ˘ ˘˘˘˘ | 
 
-varun. ādilokapālair, vanditacarahn. am. i ˘˘˘˘ ˘ ˘ hhairiśaran. am k 61 k yat śuklatīrthe ’py abhis.ekabhājām. , 
+varun. ādilokapālair, vanditacarahṇam. i ˘˘˘˘ ˘ ˘ hhairiśaraṇam k 61 k yat śuklatīrthe ’py abhis.ekabhājām. , 
 
-jāyeta pu(n. ya)m. narapum. gavānām | 
+jāyeta pu(ṇya)m. narapum. gavānām | 
 
 tad aśvamedhādimahāma(khā)nām, 
 
@@ -2483,7 +2483,7 @@ oghair na labhyam. na tapobhi [35] r ugraih. k 62 k
 
 tīhrtham. i nr.sim. hasya katham. hciid ādyaih. , 
 
-puhn. yaih.i samāsādya viśuddham¯urteh. | 
+puhṇyaih.i samāsādya viśuddham¯urteh. | 
 
 narasya loka(tri)taye karastham. , 
 
@@ -2495,11 +2495,11 @@ nima(jjya) (bra)hmahatyādimr.jāśuddho divam. vra [36] jet k 64 k tīrthapa˜n
 
 tatprabhāvakathane na samartho devasārthagurur asti na so ’pi k 65 k laks.mītīrtham. tes.u mukhyam. durāpā, 
 
-laks.mīr na syān majjatām. yatra t¯urn. am | 
+laks.mīr na syān majjatām. yatra t¯urṇam | 
 
 yāvajjīvam. pātakodbh¯utihetu prodyahddui(h. kho)drekadāridryabhājām k 66 k 
 
-37 kim. ham. satīrthasya tathāprabhāvah. prabh¯utapun. yo(jjva)laketanasya | vyāhkhyāiyate yajjalapānato ’pi ham. so hr.distho vimalatvam eti k 67 k śrīcakratīrthamahimānam amānam urvyām. , 
+37 kim. ham. satīrthasya tathāprabhāvah. prabh¯utapuṇyo(jjva)laketanasya | vyāhkhyāiyate yajjalapānato ’pi ham. so hr.distho vimalatvam eti k 67 k śrīcakratīrthamahimānam amānam urvyām. , 
 
 gurvī pravaktum api kasya narasya śaktih. | 
 
@@ -2507,7 +2507,7 @@ yasya svayam. bhagavatā harin. ā svacakram. ,
 
 raks.ārtham udyatam akalpi [38] sudarśanākhyam k 68 k 
 
-snātvā dhanustīrthajale dhanuś ca pradāya hemādikr.tam. svaśaktyā | naro vid¯urīkr.tapāparāśih. śrīśār˙ngapān. eh. sadanam. prayāti k 69 k tīrthe pit¯r.n. ām. pitr.tīrthanāmni, 
+snātvā dhanustīrthajale dhanuś ca pradāya hemādikr.tam. svaśaktyā | naro vid¯urīkr.tapāparāśih. śrīśār˙ngapāṇeh. sadanam. prayāti k 69 k tīrthe pit¯r.n. ām. pitr.tīrthanāmni, 
 
 snātvā ca kr.tvā pitr.tarpan. ādi | 
 
@@ -2517,7 +2517,7 @@ girer apācyām. diśi vājimedhatīrthe samarthe ’khilatīrthasārthāt | nar
 
 sā tathāsya kalipeti viśrutā samnidhau kalimalam. haraty alam k 72 k 
 
-61 metre uncertain 61d ◦caran. am. conj. M 61d conieci hari◦: ri◦ E, svari◦ conj. M(2) 62b pun. yam. M: punyam. E 62c ◦makhānām M: ◦mas.ānām E 63a tīrtham conj. M(1): tīrthe conj. M(2), ◦cid ādyaih. conj. M 63b pun. yaih. conj. M 63c ◦tritaye M: tr.taye E 64c nimajja M(1): nimajya E M(2), brahma◦ M: vrahma◦ E 65b viditākhyam conj. M 66d prodyadduh. kho◦ conj. M 67b ◦ojjvala◦ M: ◦ojvala◦ E 67c vyākhyāyate conj. M 70c niyatah. E: niyatam. conj. M 70d ◦kr.tyaiti M: ◦kr.tyeti E 71a ◦āganayā M(1) 
+61 metre uncertain 61d ◦caraṇam. conj. M 61d conieci hari◦: ri◦ E, svari◦ conj. M(2) 62b puṇyam. M: punyam. E 62c ◦makhānām M: ◦mas.ānām E 63a tīrtham conj. M(1): tīrthe conj. M(2), ◦cid ādyaih. conj. M 63b puṇyaih. conj. M 63c ◦tritaye M: tr.taye E 64c nimajja M(1): nimajya E M(2), brahma◦ M: vrahma◦ E 65b viditākhyam conj. M 66d prodyadduh. kho◦ conj. M 67b ◦ojjvala◦ M: ◦ojvala◦ E 67c vyākhyāyate conj. M 70c niyatah. E: niyatam. conj. M 70d ◦kr.tyaiti M: ◦kr.tyeti E 71a ◦āganayā M(1) 
 
 61 Gīti ? 62 Upajāti 63 Upajāti 64 Sloka 65 Indravajra 66 Indravajra 67 ´ Upajāti 68 Vasantatilaka 69 Upajāti 70 Indravajra 71 Upajāti 72 Indravajra 
 
@@ -2531,9 +2531,9 @@ suranadī ca suraugha [40] samāśritā nikat.ato ’sya vahaty acalasya sā | s
 
 kalipāsuranadyam(bu)saṅgād hgiaṅgārkajām(bu)noh. | 
 
-saṅgam. na gan. ayanty uccair manu(s.ya)munidevatāh. k 74 k 
+saṅgam. na gaṇayanty uccair manu(s.ya)munidevatāh. k 74 k 
 
-nāścaryam asmin man. ikālakun. ḍam. , 
+nāścaryam asmin maṇikālakun. ḍam. , 
 
 tīrthottame prāpya samastasiddīh. | 
 
@@ -2541,19 +2541,19 @@ tīrthottame prāpya samastasiddīh. |
 
 prasādatah. sāpi na d¯urasam. sthā k 75 k 
 
-hmoiks.akun. ḍam. samāsādya da(ks.i)n. asyām. mahībhr.tah. | 
+hmoiks.akun. ḍam. samāsādya da(ks.i)ṇasyām. mahībhr.tah. | 
 
-durlabho ’pi bhaven moks.ah. sulabhah. prān. inām. ks.an. āt k 76 k 
+durlabho ’pi bhaven moks.ah. sulabhah. prāṇinām. ks.an. āt k 76 k 
 
 śrīrāmatīrtham. yad ihāsti tīrtham. , 
 
 sāks.ātsadarthaprathitaprabhāvam | 
 
-tasyāplutiprodbhavapu(n. ya)rāśe(h.), 
+tasyāplutiprodbhavapu(ṇya)rāśe(h.), 
 
 phalapradātā daśakandharā [42] rih. k 77 k 
 
-ekādaśīvāsaravāsabhājām. tīrthe śubhārthe daśakan.t.haśatroh. | 
+ekādaśīvāsaravāsabhājām. tīrthe śubhārthe daśakaṇt.haśatroh. | 
 
 muktir varākī karapa˜njarasthā karoti sevām. gr.hasārikeva k 78 k 
 
@@ -2567,7 +2567,7 @@ labhante pitaras tasya muktim atyantadurlabhām k 80 k
 
 yasyā viśuddhena vilokanena vijitya nākam. samupaiti muktim k 81 k 
 
-karp¯uravāpī sukr.tapravāha p¯uren. a p¯urn. ā kim u varn. anīyā | 
+karp¯uravāpī sukr.tapravāha p¯ureṇa p¯urn. ā kim u varṇanīyā | 
 
 devasya sītādayitasya pārśve, 
 
@@ -2575,7 +2575,7 @@ dāsyam. hi yasyāh. kurute ’pi [44] muktih. k 82 k
 
 kāśī nojjayinī na cāpi mathurā no dvārakā no purī, 
 
-tadvat pun. yabharam. prayacchati nr.n. ām. vāsena nityāyus.ā | 
+tadvat puṇyabharam. prayacchati nr.n. ām. vāsena nityāyus.ā | 
 
 yadvad vāsaram ekam (āsita)kr.tām. sind¯urabh¯umīdharah. , 
 
@@ -2589,7 +2589,7 @@ gajendravadanah. [45] sāks.ād atrāste rāmakāṅks.ayā k 84 k
 
 pīḍitam. kalinā dharmam. yah. kr.pālur apālayat k 85 k 
 
-74a ◦ambu◦ M: ◦amvu◦ E 74b conieci gaṅgā◦: aṅgā◦ M, ◦āmbunoh. M: ◦āmvunoh. E 74d manus.ya◦ M: manukhya◦ E 75b tīrthottamam. M(2) 75d sāpi: sā ’pi M 76a moks.a◦ conj. M 76b daks.in. asyām. M: daks.an. asyām. E 77c pun. ya◦ M: punya◦ E, ◦rāśeh. conj. M: ◦rāśes. E 78d sevā M(2) 79a nimajjya M: mimajya E 81a ’sti M(1): ’hi M(2) 81d samupaiti M(1): sumupaiti M(2) 83c conieci āsita◦: as.t.iti◦ M (expressing doubt) 
+74a ◦ambu◦ M: ◦amvu◦ E 74b conieci gaṅgā◦: aṅgā◦ M, ◦āmbunoh. M: ◦āmvunoh. E 74d manus.ya◦ M: manukhya◦ E 75b tīrthottamam. M(2) 75d sāpi: sā ’pi M 76a moks.a◦ conj. M 76b daks.iṇasyām. M: daks.aṇasyām. E 77c puṇya◦ M: punya◦ E, ◦rāśeh. conj. M: ◦rāśes. E 78d sevā M(2) 79a nimajjya M: mimajya E 81a ’sti M(1): ’hi M(2) 81d samupaiti M(1): sumupaiti M(2) 83c conieci āsita◦: as.t.iti◦ M (expressing doubt) 
 
 73 Drutavilambita 74 Sloka 75 Upajāti 76 ´ Sloka 77 Upajāti 78 Upajāti 79 ´ Indravajra 80 Sloka 81 Upajāti 82 Indravajra 83 ´ Sārd¯ulavikrīd ´ . ita 84–85 Sloka ´ 
 
@@ -2601,13 +2601,13 @@ pīḍitam. kalinā dharmam. yah. kr.pālur apālayat k 85 k
 
 
 
-śrīrāmacandrasya karen. a candra hāsāhatah. prāpya padam. murāreh. | 
+śrīrāmacandrasya kareṇa candra hāsāhatah. prāpya padam. murāreh. | 
 
 sa śambukah. ś¯udramunir mahīdhra rāje ’tra dh¯umrāks.a iti prasiddhah. k 86 k 
 
 paśyanti muktīśvaranāmadheyam. śivam. śivā [46] nātham ihācalendre | śivavratasthāh. śivavāsare ye śivatvam āyānti śivālaye te k 87 k 
 
-gopījanānandasamudrap¯urn. acandro vinidro(jjva)lapadmanetrah. | gopālam¯urtir jagadekam¯urtir vasaty asāv atra dharādharendre k 88 k atīva tejah. prasaraprataptam. , 
+gopījanānandasamudrap¯urṇacandro vinidro(jjva)lapadmanetrah. | gopālam¯urtir jagadekam¯urtir vasaty asāv atra dharādharendre k 88 k atīva tejah. prasaraprataptam. , 
 
 jagat samagram. kr.payā raraks.a | 
 
@@ -2635,11 +2635,11 @@ dadhāte kalpavr.ks.atvam. bhaktibhājām. jagatprabh¯u k 92 k
 
 mātaro ’s.t.au mahāsiddhināmadheyopalaks.itāh. | 
 
-atra tis.t.hanti bhaktānām an. imādyas.t.akapradāh. k 93 k 
+atra tis.t.hanti bhaktānām aṇimādyas.t.akapradāh. k 93 k 
 
 kalpānte kavalī [49] karoti sakalam. trailokyam alpetara jvālājālakarālakālavadano ya(h.) kālikākelibh¯uh. | 
 
-sind¯urācalam īks.an. am. ks.an. am api ks.īnānyavāsaspr.hah. , 
+sind¯urācalam īks.aṇam. ks.aṇam api ks.īnānyavāsaspr.hah. , 
 
 śrīrāmaspr.hayā karoti bhagavān kim. vā mahābhairavah. | 94 k 
 
@@ -2649,7 +2649,7 @@ pa˜ncāsyam. candramaulim. daśabhujam udayatkot.ibhān¯ugrabhāsam. , tryaks.
 
 āste so h’trai sa [51] mastabhaktajanatātattanmanovā˜nchitam. , 
 
-sam. yacchan janakādhirājatanayānāthāntike laks.man. ah. k 96 k 
+sam. yacchan janakādhirājatanayānāthāntike laks.maṇah. k 96 k 
 
 86b ◦hāsāhatah. M(1): ◦hāsāddhatah. M(2), murāreh. M(2): purāreh. M(1) 88b ◦ojjvala◦ M: ◦ojvala◦ E 90a ◦apihitam. M(2), dram. s.t.ryā M(2) 90b conieci yadvan nayan: yad vanmayan M, who remarks in footnote: ‘Perhaps unmajjayan is intended here’, on which the editor of EI remarks: ‘This reading would involve a sandhi with the preceding word which would spoil the metre. I would suggest ◦dalam ibho dantena yadvan nayan as the intended reading.’ 90c tus.t.uvuh. M: tus.t.uvus E 90d deśakandharāri◦ M(2) 91c nr.pah. M: nr.pas E 94b yah. M: yas. E 95b tryaks.am. vr.ks.ā om. M(2), conieci ◦āsi◦ 96c so ’tra conj. M 
 
@@ -2667,15 +2667,15 @@ yannāmasmaran. āt prayāti ni(khi)lah. pāpādrir uccaih. ks.ayam. ,
 
 yā viśvaikapativratādhvani gurur devī dayaikāpagā | 
 
-yā śāpena nināya bhasmakan. ikābh¯uyam. (ca) laṅkāpatim. , 
+yā śāpena nināya bhasmakaṇikābh¯uyam. (ca) laṅkāpatim. , 
 
 kartā me dayi(to) h’syai [52] nāśam iti sāpy atrāsti rāmāntike k 97 k 
 
-ihācalendre daśakan.t.haśatror vilokya m¯urtīh. khalu ˘ martyah. | 
+ihācalendre daśakaṇt.haśatror vilokya m¯urtīh. khalu ˘ martyah. | 
 
 paratra kāle na karoti bhītim. † kātāstamat † sam. hr.tighoram¯urteh. k 98 k bhaktyā mahatyā prabhum ādirāmam. jagatsu(khā)rāmatanum. nirīks.ya | narah. surendrādikaropanītap¯ujāgryapātratvam uhpaitii ni [53] tyam k 99 k śrīhbhoigarāmam abhirāmatanum. nirīks.ya, 
 
-ks.īn. ā(khi)lāghasaran. ih. śaran. e murāreh. | 
+ks.īn. ā(khi)lāghasaraṇih. śaraṇe murāreh. | 
 
 bhogāhn abhaṅgurarasāin suciram. vicitrān, 
 
@@ -2689,25 +2689,25 @@ prāpnoti yat tad iha kim. nanu devarāhjoi,
 
 ˘ [54] tadgururathāṅgiraso ’pi so ’pi k 101 k 
 
-śrīśa˙nkharāmam. pran. ipatya martyah. , padam. samabhyeti hi śaṅkhapān. eh. | viśuddhabhāvena hr.dā mahendramukhyādidevair abhivandyamānah. k 102 k jaganmahānandanidānam īśam. , 
+śrīśa˙nkharāmam. praṇipatya martyah. , padam. samabhyeti hi śaṅkhapāṇeh. | viśuddhabhāvena hr.dā mahendramukhyādidevair abhivandyamānah. k 102 k jaganmahānandanidānam īśam. , 
 
-śrīmaithilīlaks.man. adevayuktam | 
+śrīmaithilīlaks.maṇadevayuktam | 
 
-śrīrāmadevam. pran. ipatya m¯urdhnā, 
+śrīrāmadevam. praṇipatya m¯urdhnā, 
 
 namaskari(s.ye) ’lpatarair vahcobhih.i k 103 k 
 
 55 deva śrīraghunandana (tri)jagatām advaitavādaprabho, 
 
-bhāsvadvam. śamahāvibh¯us.an. aman. e kārun. yaratnākara | 
+bhāsvadvam. śamahāvibh¯us.aṇamaṇe kāruṇyaratnākara | 
 
-trailokyāridaśāsyakan.t.hadaśakacchedollasatpān. aye, 
+trailokyāridaśāsyakaṇt.hadaśakacchedollasatpāṇaye, 
 
 pā ˘ ˘ ˘ ˘˘˘ te te trailokyagoptre namah. k 104 k 
 
 deva ks.īrasamudrasāndralaharīhr niirmathya hr.tkīrtaye, 
 
-tattādr.ggun. a ˘ ˘ [56] ˘ ˘ viśvaikabhartre namah. | 
+tattādr.gguṇa ˘ ˘ [56] ˘ ˘ viśvaikabhartre namah. | 
 
 śrīrāmāya han¯umadādivadanāmbhojanmas.an. ḍaprabhā bhartre śrījanakaks.itīndratanayānandaikahkanidāya ca k 105 k 
 
@@ -2737,7 +2737,7 @@ deva tvām giripādape(khi)labhujāmus.t.iprahāro ˘ ,
 
 ˘ ˘ ˘ ˘ nikhilam. trailokyanāśaks.amam. , 
 
-dhāmnā hyes.ui sahasrap¯urn. arucima ˘ mam. numah. k 107 k 
+dhāmnā hyes.ui sahasrap¯urṇarucima ˘ mam. numah. k 107 k 
 
 ˘ [58] visarparogajagatīnāthāridāridryabh¯ur, 
 
@@ -2749,19 +2749,19 @@ gavy¯utipra ˘ ˘ ˘˘˘ ˘ ˘ ,
 
 deva tvām. karun. ā ˘ ˘˘˘ sāmantasind¯urajam. , 
 
-ren. um. sam. śayayantama ˘˘˘ [59] ks.obhujām. tejasām | 
+reṇum. sam. śayayantama ˘˘˘ [59] ks.obhujām. tejasām | 
 
-kurvān. e jagadis.t.avr.s.t.im amr.tāsārām. bhavonmāthinīm. , 
+kurvāṇe jagadis.t.avr.s.t.im amr.tāsārām. bhavonmāthinīm. , 
 
 prārthitat.aprabhākahrai ˘ ˘ ˘ k 109 k 
 
 ˘ ˘ ˘ ˘˘˘ ˘ ˘ , 
 
-˘ ˘ r.n. ikāsana ˘ ˘ ˘ | 
+˘ ˘ r.ṇikāsana ˘ ˘ ˘ | 
 
 sind¯urācalamaulikalpi ˘ ˘ [60] pratis.t.ham. vibhum. , 
 
-kumbhodbh¯utamunīśvaren. a bhagavan vande mude nityaśah. k 110 k deva tvām. purus.am. purātanam ajam. tatta ˘ ˘ , 
+kumbhodbh¯utamunīśvareṇa bhagavan vande mude nityaśah. k 110 k deva tvām. purus.am. purātanam ajam. tatta ˘ ˘ , 
 
 ˘ ˘ ˘ ˘˘˘ ˘ ˘ | 
 
@@ -2783,7 +2783,7 @@ kalpāntāvadhinirmalā(khi)lajalā vr.ks.ā ˘ ˘ [62] lah. |
 
 āste bālasamudra es.a vilasaddevālayālīmila- 
 
-˘ jalo jaleks.an. akr.tām. devā ˘ ˘ k 114 k 
+˘ jalo jaleks.aṇakr.tām. devā ˘ ˘ k 114 k 
 
 ˘ ˘ ˘ ˘ ˘ ˘ , ˘ ˘ ˘ ˘ ˘ ˘ | 
 
@@ -2791,11 +2791,11 @@ kalpāntāvadhinirmalā(khi)lajalā vr.ks.ā ˘ ˘ [62] lah. |
 
 samabhyarcya naro bhaktyā na ˘ ˘ ˘ ˘ [63] ˘ ˘ | 
 
-durlabhām. labhate kām. kām. na hi siddhim. viśuddhadhīh. k 116 k ˘ ˘ ˘ varān. i tāni, devām. śu ˘ ˘ ˘ ˘ | 
+durlabhām. labhate kām. kām. na hi siddhim. viśuddhadhīh. k 116 k ˘ ˘ ˘ varāṇi tāni, devām. śu ˘ ˘ ˘ ˘ | 
 
 ˘ ˘ ˘ ˘ ˘ ˘ , ˘ ˘ ˘ ˘ ˘ ˘ k 117 k 
 
-107a tvām. gi om. M(2), pādapekhila◦ conj. M(1): pādapes.ila◦ E, ◦pes.i◦ om. M(2), bhu◦ om. M(2) 107c nikhilam. M: nis.ilam. E 107d yes.u conj. M(2): om. M(1) 108a nātha M(2) 108ab ridāridrya . . . bhīter om. M(2) 108b sya sam. madapadam. rāmeti om. M(2) 109a karun. ām. M(2), sāmanta om. M(2) 109b sa śamayantama M(2) 109d prārthitadā M(2) (uncertain), prabhākara M(2): prabhāka M(1) 110b r.n. ikāsana M(1): mvi(mbi)kās¯unu M(2) 111d prabho conj. M 112a yah. conj. M: ya E 112cd ◦stham. . . . ya om. M(2) 114b ◦ākhila◦ M: ◦ās.ila E 116b ˘ ˘ |: vidvān | M(2) 117a ragan. itāni M(2) 117b devaścara M(2) 
+107a tvām. gi om. M(2), pādapekhila◦ conj. M(1): pādapes.ila◦ E, ◦pes.i◦ om. M(2), bhu◦ om. M(2) 107c nikhilam. M: nis.ilam. E 107d yes.u conj. M(2): om. M(1) 108a nātha M(2) 108ab ridāridrya . . . bhīter om. M(2) 108b sya sam. madapadam. rāmeti om. M(2) 109a karun. ām. M(2), sāmanta om. M(2) 109b sa śamayantama M(2) 109d prārthitadā M(2) (uncertain), prabhākara M(2): prabhāka M(1) 110b r.ṇikāsana M(1): mvi(mbi)kās¯unu M(2) 111d prabho conj. M 112a yah. conj. M: ya E 112cd ◦stham. . . . ya om. M(2) 114b ◦ākhila◦ M: ◦ās.ila E 116b ˘ ˘ |: vidvān | M(2) 117a ragaṇitāni M(2) 117b devaścara M(2) 
 
 107–111 Sārd¯ulavikrīd ´ . ita 112 Sloka 113 ´ Sloka 114 ´ Sārd¯ulavikrīd ´ . ita 115 Indravajra (Upajāti) 116 Sloka 117 Indravajra (Upajāti) ´ 
 
@@ -2809,7 +2809,7 @@ durlabhām. labhate kām. kām. na hi siddhim. viśuddhadhīh. k 116 k ˘ ˘ ˘ 
 
 ˘ ˘ ˘ ˘ ˘ ˘ , ˘ ˘ ˘ ˘ ˘ ˘ | 
 
-˘ ˘ bharan. am. garīyah. , 
+˘ ˘ bharaṇam. garīyah. , 
 
 śrīrāghavo ’mam. sta kr.tārtham uccaih. k 118 k 
 
@@ -2837,7 +2837,7 @@ ll. 64–68 illegible l. 69 illegible; conieci māyideva: māīdeva M(1), māide
 
 Translation 
 
-27 Owing to the nectar stream of whose glory, the essence of the boundless ocean of existence, the earth has shed her grief at the loss of the illustrious King Sim. han. a ... 
+27 Owing to the nectar stream of whose glory, the essence of the boundless ocean of existence, the earth has shed her grief at the loss of the illustrious King Sim. haṇa ... 
 
 29 His son, known on earth as Vāyināyaka on account of the abundance of glory . . . , became famous throughout the world, and no one that equalled him was ever heard of here. 
 
@@ -2859,7 +2859,7 @@ Translation
 
 39 Though there are ten avatars of His, Rāma is the (foremost) of them . . . 40 How can I describe that unsurpassed, wonderful efficacy of this mountain Tapam. giri, where he, (the scion of the Raghu race), who is the supreme object of meditation of the yogis, lives together with the Son of the Wind (i.e. Hanumat)? 
 
-42 Earlier, it was here that god Nr.hari had ripped open the chest of Surāri (i.e. Hiran. yakaśipu) with his sharp claws; reddened by the stream of his blood, this (mountain became known as Sind¯uragiri). 
+42 Earlier, it was here that god Nr.hari had ripped open the chest of Surāri (i.e. Hiraṇyakaśipu) with his sharp claws; reddened by the stream of his blood, this (mountain became known as Sind¯uragiri). 
 
 43 For who else, even if he resembles Br.haspati, would thus know how to tell yonder . . . ? 
 
@@ -2871,7 +2871,7 @@ Translation
 
 47 A man who has seen with due respect . . . , he is liberated from the sin of killing a brahmin. 
 
-50 Those who fast on a day sacred to Vis.n. u and keep a vigil in front of Raghu nandana on Tapam. giri . . . 52 Ghan.t.eśvara, Sudheśvara (Siddheśvara?), Lord Kedāra as well as A˜njaneya ¯ (i.e. Hanumat), the Lord of the Gate (Dvāreśvara) . . . 
+50 Those who fast on a day sacred to Vis.ṇu and keep a vigil in front of Raghu nandana on Tapam. giri . . . 52 Ghaṇt.eśvara, Sudheśvara (Siddheśvara?), Lord Kedāra as well as A˜njaneya ¯ (i.e. Hanumat), the Lord of the Gate (Dvāreśvara) . . . 
 
 53 People who, by taking a bath . . . , have removed their sins, they shall, by breaking their fetters, attain to freedom in the House of Lustre (i.e. the World of Brahmā) and what is beyond that. 
 
@@ -2879,11 +2879,11 @@ Translation
 
 56 . . . (in the tīrtha) called the illustrious Saṅkha(tīrtha) . . . , whose lotusfeet ´ are worshipped by the inhabitants of the three worlds. 
 
-57 After having taken a bath in the illustrious (Saṅkhatīrtha?) . . . , he shall ´ be without fear and abide in the proximity of Saṅkhapān ´ . in (i.e. Vis.n. u). 58 . . . that splendid power that is manifest in the Agnitīrtha . . . 
+57 After having taken a bath in the illustrious (Saṅkhatīrtha?) . . . , he shall ´ be without fear and abide in the proximity of Saṅkhapān ´ . in (i.e. Vis.ṇu). 58 . . . that splendid power that is manifest in the Agnitīrtha . . . 
 
 60 A man who has taken a bath in the Ambatīrtha and has worshipped the Spouse of Ambikā, he shall be the unique recipient of pleasures in the abode of Ambikānātha. 
 
-61 After having proceeded to the Varun. atīrtha . . . , (he shall reach) the Refuge of (Hari) . . . , whose feet are venerated by the Guardians of the World, Varun. a and others. 
+61 After having proceeded to the Varuṇatīrtha . . . , (he shall reach) the Refuge of (Hari) . . . , whose feet are venerated by the Guardians of the World, Varuṇa and others. 
 
 35 Cf. SM 5.4. 
 
@@ -2909,7 +2909,7 @@ Translation
 
 68 Would there be a man who possesses enough power to explain the greatness of the illustrious Cakratīrtha, whose equal there is not on earth, and for whose protection Lord Hari employed his own discus, called Sudarśana? 
 
-69 A man who has taken a bath in the water of the Dhanustīrtha and who has offered a bow made of gold, or of other material depending on his means, his pile of sins will be destroyed and he will go to the abode of the illustrious Sārṅgapān ´ . in (the Bearer of the Bow, i.e. Vis.n. u). 
+69 A man who has taken a bath in the water of the Dhanustīrtha and who has offered a bow made of gold, or of other material depending on his means, his pile of sins will be destroyed and he will go to the abode of the illustrious Sārṅgapān ´ . in (the Bearer of the Bow, i.e. Vis.ṇu). 
 
 70 The man who takes a bath in the tīrtha of the ancestors, named Pitr.tīrtha, and who offers oblations to his ancestors, after this disciplined man has (thus) purified a million of his ancestors, he will himself go to the heavenly abode of the ancestors. 
 
@@ -2931,15 +2931,15 @@ they perform them only once, abundant enjoyments in the House of the Gods.
 
 74 Gods, sages and men do not value the confluence of the waters of the Ganges and the Arkajā (i.e. Yamunā) higher than they do the confluence of the waters of the Kalipā and Suranadī rivers. 
 
-75 It is no wonder that, after having reached the Man. ikālakun. ḍa, a mortal attains all accomplishments (siddhi) in this most excellent tīrtha; and then, owing to its grace, final release itself is not far away either. 
+75 It is no wonder that, after having reached the Maṇikālakun. ḍa, a mortal attains all accomplishments (siddhi) in this most excellent tīrtha; and then, owing to its grace, final release itself is not far away either. 
 
 76 (And) though release is difficult to obtain, it comes within reach of the living at the very moment that he reaches the Moks.akun. ḍa to the south of the mountain. 
 
-77 The Enemy of the Ten-necked (Rāvan. a) (i.e. Rāma) grants a mass of merit to come forth as the reward of bathing in the illustrious Rāmatīrtha that lies here (on this mountain), a tīrtha of which the wonderful efficacy is famous for making the final goal come into view. 
+77 The Enemy of the Ten-necked (Rāvaṇa) (i.e. Rāma) grants a mass of merit to come forth as the reward of bathing in the illustrious Rāmatīrtha that lies here (on this mountain), a tīrtha of which the wonderful efficacy is famous for making the final goal come into view. 
 
-78 Those who are dedicated to stay in this holy place of the Enemy of the Ten-necked (Rāvan. a) for goodness’ sake on an Ekādaśī day, to them release becomes humble and, captured in the cage of their hands, will serve them like a domesticated maina-bird. 
+78 Those who are dedicated to stay in this holy place of the Enemy of the Ten-necked (Rāvaṇa) for goodness’ sake on an Ekādaśī day, to them release becomes humble and, captured in the cage of their hands, will serve them like a domesticated maina-bird. 
 
-79 When a man takes a bath in the illustrious Rāmatīrtha in the month of Kārttika and, filled with devotion, pays his respect to the Enemy of the Ten-necked (Rāvan. a), then his soul shall not become (that of) a maggot, if he returns into an earthly frame. 
+79 When a man takes a bath in the illustrious Rāmatīrtha in the month of Kārttika and, filled with devotion, pays his respect to the Enemy of the Ten-necked (Rāvaṇa), then his soul shall not become (that of) a maggot, if he returns into an earthly frame. 
 
 80 If one performs on this mountain only once a śrāddha-sacrifice, a Rāma’s Gayā (as it were), then one’s ancestors will obtain the release which is extremely difficult to attain. 
 
@@ -2949,7 +2949,7 @@ they perform them only once, abundant enjoyments in the House of the Gods.
 
 83 The accumulation of merit that accrues from staying one day on the Sind¯ura mountain, which surpasses all other (mountains) because of its being touched by the lotus-feet of the illustrious Rāma, that (same amount of merit) is not even obtained by people who stay all their life in, be it Kāśī, or Ujjayinī, or Mathurā, or Dvārakā, or Purī. 
 
-84 Out of desire for Rāma the Elephant-faced (Gan. eśa) abides here in person, whose pair of frontal globes, when thought of, brings worldly blessings. 
+84 Out of desire for Rāma the Elephant-faced (Gaṇeśa) abides here in person, whose pair of frontal globes, when thought of, brings worldly blessings. 
 
 85 And here on this mountain of Rāma also abides the Lord of the Dharma (Dharmeśvara) who, as a vehicle of compassion, protects the Dharma in jured by Kali. 
 
@@ -2961,15 +2961,15 @@ they perform them only once, abundant enjoyments in the House of the Gods.
 
 5 / The Ramtek Inscriptions I 109 
 
-86 Here the ś¯udra saint Sambuka has reached the abode of Murāri (i.e. ´ Kr.s.n. a/Vis.n. u) after having been killed by the sword Candrahāsa, which was wielded by Rāmacandra; and on this eminent mountain he became well-known as Dh¯umrāks.a. 
+86 Here the ś¯udra saint Sambuka has reached the abode of Murāri (i.e. ´ Kr.s.ṇa/Vis.ṇu) after having been killed by the sword Candrahāsa, which was wielded by Rāmacandra; and on this eminent mountain he became well-known as Dh¯umrāks.a. 
 
 87 Those who go and see the Lord of Sivā, ´ Siva, known on this mountain ´ under the name of Muktīśvara, on a day sacred to Siva, while keeping a ´ vow dedicated to Siva, will attain to ´ Siva-hood in ´ Siva’s abode. ´ 
 
 88 Yonder God whose unique form comprises the world lives here on this king of mountains, the one who in His form of Gopāla is the full moon in the ocean of bliss of the gopī folk and whose shining lotus eyes are wide open. 
 
-89 The illustrious Narasim. ha also lives on that (same mountain), who is the fourth descent of the Unshakable one (i.e. Vis.n. u), who out of compassion has fully protected the world, when it was harassed exceedingly by a torrent of heat. 
+89 The illustrious Narasim. ha also lives on that (same mountain), who is the fourth descent of the Unshakable one (i.e. Vis.ṇu), who out of compassion has fully protected the world, when it was harassed exceedingly by a torrent of heat. 
 
-90 And here, in the residence of the Enemy of the Ten-necked (Rāvan. a), lives lord Adikola (i.e. Varāha) at the end of the Kalpa, the one who, while ¯ carrying on his tusk the earth which had deeply sunken into the flood of the seven oceans, appeared as a leaf in a lotus pond as it were, when he brought it up by his tooth, and whose praises were sung by the divine seers, whose excitement resided within their hairs (i.e. whose hair stood on end due to exhilaration). 
+90 And here, in the residence of the Enemy of the Ten-necked (Rāvaṇa), lives lord Adikola (i.e. Varāha) at the end of the Kalpa, the one who, while ¯ carrying on his tusk the earth which had deeply sunken into the flood of the seven oceans, appeared as a leaf in a lotus pond as it were, when he brought it up by his tooth, and whose praises were sung by the divine seers, whose excitement resided within their hairs (i.e. whose hair stood on end due to exhilaration). 
 
 91 The illustrious monarch Paṅktiratha (i.e. Daśaratha) has also come to live on the top of this mountain, out of love for his son, after he had forever resigned the unequalled and unique homage payed to him by the great Indra. 
 
@@ -2989,23 +2989,23 @@ they perform them only once, abundant enjoyments in the House of the Gods.
 
 
 
-96 The powerful lord who carries on his heads this world as if it were a gar land made of flowers, Hari’s companion during his descent as the illustrious Rāma, the conch/serpent (śaṅkha), though without conch/serpent nature (aśaṅkhātmaka), resides here, in the proximity of the spouse of Janaka’s daughter, as Laks.man. a, who fulfils whatever desire is cherished by any of his devotees. 
+96 The powerful lord who carries on his heads this world as if it were a gar land made of flowers, Hari’s companion during his descent as the illustrious Rāma, the conch/serpent (śaṅkha), though without conch/serpent nature (aśaṅkhātmaka), resides here, in the proximity of the spouse of Janaka’s daughter, as Laks.maṇa, who fulfils whatever desire is cherished by any of his devotees. 
 
-97 She is also present here in Rāma’s proximity, she by remembering whose Name the whole mountain of sins is totally destroyed, this Goddess, single river of compassion, who is a guide on the path of all women who remain faithful to their husbands, and who reduced the king of Lan. kā to ashes by a curse: ‘my husband shall effect his destruction’. 
+97 She is also present here in Rāma’s proximity, she by remembering whose Name the whole mountain of sins is totally destroyed, this Goddess, single river of compassion, who is a guide on the path of all women who remain faithful to their husbands, and who reduced the king of Laṇkā to ashes by a curse: ‘my husband shall effect his destruction’. 
 
-98 A man who has seen the images of the Enemy of the Ten-necked (Rāvan. a) . . . here on this mountain, into him . . . of the terrifying image of the destruc tion of the world will no longer strike fear. 
+98 A man who has seen the images of the Enemy of the Ten-necked (Rāvaṇa) . . . here on this mountain, into him . . . of the terrifying image of the destruc tion of the world will no longer strike fear. 
 
 99 When a man full of ardent devotion comes and sees Lord Adirāma, whose ¯ image (body) is a garden of happiness to the world, then he shall forever attain to the state of being the principal recipient of veneration offered by the hands of the Lord of the Gods and the others. 
 
-100 If one sees the illustrious Bhogarāma, whose image (body) is beautiful, the whole range of sins is destroyed in Murāri’s (Kr.s.n. a’s) refuge; and directly one shall taste all kinds of undiminishing enjoyments for a hundred world periods, dwarfing the king of the gods. 
+100 If one sees the illustrious Bhogarāma, whose image (body) is beautiful, the whole range of sins is destroyed in Murāri’s (Kr.s.ṇa’s) refuge; and directly one shall taste all kinds of undiminishing enjoyments for a hundred world periods, dwarfing the king of the gods. 
 
 101 When one, filled with inexhaustible devotion, has seen Guptarāma here, who is of superior greatness and whose abode is very secret, one gets what ever (one desires)—nay, (one becomes like) the king of the gods or even Aṅgirasa (Br ¯ .haspati), who is their guru . . . 
 
-102 A mortal who prostrates before the illustrious Saṅkharāma reaches, indeed, ´ the abode of Saṅkhapān ´ . in (the Bearer of the Conch, i.e. Vis.n. u) where he, being in a state of inner purity, will be respectfully welcomed by the great Indra followed by (the other) gods. 
+102 A mortal who prostrates before the illustrious Saṅkharāma reaches, indeed, ´ the abode of Saṅkhapān ´ . in (the Bearer of the Conch, i.e. Vis.ṇu) where he, being in a state of inner purity, will be respectfully welcomed by the great Indra followed by (the other) gods. 
 
-103 Bowing my head to the Lord who is the source of great happiness for the world, the illustrious god Rāma, who is accompanied by the illustrious princess of Mithilā and god Laks.man. a, I shall sing his praise in modest words: 
+103 Bowing my head to the Lord who is the source of great happiness for the world, the illustrious god Rāma, who is accompanied by the illustrious princess of Mithilā and god Laks.maṇa, I shall sing his praise in modest words: 
 
-l04 ‘O God, illustrious Raghunandana, Lord who proclaims the oneness of the three worlds, you who, like a great jewel, adorn your splendid dynasty, mine of compassion, obeisance to you whose hand chops off in play the ten heads of the ten-faced Enemy of the Universe (i.e. Rāvan. a), obeisance to you, O guardian of the universe . . . ’ 
+l04 ‘O God, illustrious Raghunandana, Lord who proclaims the oneness of the three worlds, you who, like a great jewel, adorn your splendid dynasty, mine of compassion, obeisance to you whose hand chops off in play the ten heads of the ten-faced Enemy of the Universe (i.e. Rāvaṇa), obeisance to you, O guardian of the universe . . . ’ 
 
 105 ‘O God, obeisance to you whose glory of having churned the clotted waves of the milk-ocean (stirs) the heart, to you who are the unique support of all . . . , obeisance to you, illustrious Rāma, who lends lustre to a multitude 
 
@@ -3033,7 +3033,7 @@ of lotus-like faces such as those of Hanumat and others, to you who are the sole
 
 
 
-The Ramtek Inscriptions II∗ 
+## The Ramtek Inscriptions II 
 
 The Vākāt.aka Inscription in the 
 
@@ -3043,7 +3043,7 @@ Hans T. Bakker & Harunaga Isaacson
 
 Introduction 
 
-In The Ramtek Inscriptions I (hereafter RI) mention was made of a Vākāt.aka inscription in the Kevala–Narasim. ha Temple on Ramtek Hill, 1 the discovery of which was reported in IAR 1982–83, 137. The credit for first discussing, as well as editing the text goes to the Director of the Archaeological Survey and Museums of Maharashtra, Dr. A.P. Jamkhedkar. In an article which appeared in 1986 in R. Parimoo (ed.), Vais.n. avism in Indian Arts and Culture (pp. 335– 41), 2 Jamkhedkar attributed the inscription to Prabhāvatī Guptā (Jamkhedkar 1987a, 340), an attribution for which he adduced arguments in a subsequent article that was published in M.S. Nagaraja Rao (ed.), Kusumā˜njali, vol. I in 1987 (Jamkhedkar 1987b, pp. 217–23). In the latter publication the text of the inscription was edited and an interpretation of it was given (op. cit. 220 f.). In the same year Ajay Mitra Shastri’s Early History of the Deccan appeared, chapter V (pp. 45–81) of which deals with ‘The Vākāt.aka: fresh epigraphic evidence’. This chapter is for the greater part a reprint of the author’s earlier publication in the Nagpur University Journal (vol. 35 (1984–86), 130–64) with the exception of the Appendix (pp. 68–74). The appendix may have been added to the book in a late phase of its production, since the text of the endnotes 
+In The Ramtek Inscriptions I (hereafter RI) mention was made of a Vākāt.aka inscription in the Kevala–Narasim. ha Temple on Ramtek Hill, 1 the discovery of which was reported in IAR 1982–83, 137. The credit for first discussing, as well as editing the text goes to the Director of the Archaeological Survey and Museums of Maharashtra, Dr. A.P. Jamkhedkar. In an article which appeared in 1986 in R. Parimoo (ed.), Vais.ṇavism in Indian Arts and Culture (pp. 335– 41), 2 Jamkhedkar attributed the inscription to Prabhāvatī Guptā (Jamkhedkar 1987a, 340), an attribution for which he adduced arguments in a subsequent article that was published in M.S. Nagaraja Rao (ed.), Kusumā˜njali, vol. I in 1987 (Jamkhedkar 1987b, pp. 217–23). In the latter publication the text of the inscription was edited and an interpretation of it was given (op. cit. 220 f.). In the same year Ajay Mitra Shastri’s Early History of the Deccan appeared, chapter V (pp. 45–81) of which deals with ‘The Vākāt.aka: fresh epigraphic evidence’. This chapter is for the greater part a reprint of the author’s earlier publication in the Nagpur University Journal (vol. 35 (1984–86), 130–64) with the exception of the Appendix (pp. 68–74). The appendix may have been added to the book in a late phase of its production, since the text of the endnotes 
 
 ∗ The first version of this article with the title The Ramtek Inscriptions II was published in the Bulletin of the School of Oriental and African Studies, Vol. LVI, Part 1 (1993), 46–74. A revised version of the Sanskrit text of the inscription by Bakker alone was included in Bakker 1997, The Vākāt.akas, 163–67. The inscription was discussed again and new readings were proposed in Bakker 2010c, A new interpretation of Rāmagiri evidence (1) (below, pp. 351 ff.) and Bakker 2012 A new interpretation of Rāmagiri evidence (2) (below, pp. 357 ff.). The present edition reproduces the first edition in the BSOAS, but reference to the revised readings are given in the apparatus between [ ], footnotes, and through cross-references. 
 
@@ -3073,7 +3073,7 @@ As will be argued below, the inscription was commissioned by a lady, though not 
 
 5 Jamkhedkar 1987b, 221: ‘References to Srī Rudrasena [. . . ], husband of the celebrated ´ Prabhāvatīguptā, and to Ghat.otkaca, probably a son of Candragupta himself, all point to the inscription having been caused to be carved by Prabhāvatīguptā herself.’ See also the following note. 
 
-6 Shastri 1987, 70 f.: ‘The name of the person responsible for its excavation was also given, but it is damageḍThe only thing that can be said with some degree of certitude is that it was a male person as would follow from the word kārayitr. in masculine form (kārayitā) (l. 12): he may have been Pravarasena II.’ Compare Jamkhedkar 1987b, 221: ‘That the present inscription was caused to be written by a lady is clear from the references in line 15 and that she is no other than Prabhāvatīguptā herself is most certain [sic!] from the nail-headed characters in which the inscription is carved.’ In his 1992 publication (p. 160) Jamkhedkar seems less certain of the identity of the lady in question. On Shastri’s argument from the word kārayitā see below, p. 134. 
+6 Shastri 1987, 70 f.: ‘The name of the person responsible for its excavation was also given, but it is damageḍThe only thing that can be said with some degree of certitude is that it was a male person as would follow from the word kārayitr. in masculine form (kārayitā) (l. 12): he may have been Pravarasena II.’ Compare Jamkhedkar 1987b, 221: ‘That the present inscription was caused to be written by a lady is clear from the references in line 15 and that she is no other than Prabhāvatīguptā herself is most certain [sic!] from the nail-headed characters in which the inscription is carved.’ In his 1992 publication (p. 160) Jamkhedkar seems less certain of the identity of the lady in questioṇOn Shastri’s argument from the word kārayitā see below, p. 134. 
 
 
 
@@ -3099,7 +3099,7 @@ We shall elaborate on this scheme below on the basis of the text. For the archae
 
 The inscription is found in the southern wall of the man. ḍapa of the Kevala– Narasim. ha Temple, 9 and was discovered when the covering plaster was removed during restoration work of the Archaeological Survey, which unfortunately led to severe damage. It is not clear whether the inscription has always been fixed to this spot or was, at a certain time, inserted in the southern wall. 10 When found, it covered principally two slabs of stone, fixed beneath one another. The left and upper sides of both stones are somewhat crumbled off, and the lower slab has been broken vertically in the middle. The three pieces of stone have been fitted again with mortar by the restorers. Twelve lines are carved on the upper slab and three on the lower. The height of both slabs taken together is about 50 cm, and their breadth about 100 cm. The ragged right sides of both 
 
-7 Names within square brackets do not occur in the legible part of the inscription. For a further elaboration see Bakker 2012, The Gupta–Vākāt.aka Relationship. A new inter pretation of Rāmagiri evidence (2); below, pp. 357 ff. 8 Bakker 1989c, 1990b, 1991, 1992b, 1992c, 1992d (below, pp. 149 ff.). 
+7 Names within square brackets do not occur in the legible part of the inscriptioṇFor a further elaboration see Bakker 2012, The Gupta–Vākāt.aka Relationship. A new inter pretation of Rāmagiri evidence (2); below, pp. 357 ff. 8 Bakker 1989c, 1990b, 1991, 1992b, 1992c, 1992d (below, pp. 149 ff.). 
 
 9 For descriptions of the temple see Jamkhedkar 1988 and Bakker 1989c. 
 
@@ -3113,9 +3113,9 @@ The inscription is found in the southern wall of the man. ḍapa of the Kevala�
 
 the upper and lower slab seem to indicate that some portion was broken off which is now irretrievably lost. 
 
-Before presenting the edited text and translation and embarking on a line by line discussion of problems and uncertainties, it seems advisable, in view of the fact that the right part of the inscription is totally illegible and partly lost, to attempt to determine what its breadth originally was, i.e. how many verses (syllables) were written on one line. In this we are helped by the fact that the text appears to be totally written in verse. As can be readily determined, the legible portions of lines 2–10 are written in Upajāti metre. Each line begins at the beginning of a pāda, and in almost all of these cases it seems as good as certain that this is also the beginning of a verse. Thus the imagery of verse 5 (line 3) seems too coherent and fitting for it to be in fact parts of two different verses; the first two pādas of line 4 could hardly come elsewhere than at the beginning of a verse; in line 6 it seems highly probable that the genitive supuṅgavasya depends on ghat.otkaco nāma suto, etc. And since on several lines, syllables or even words can be made out which clearly come after the fourth pāda of the verse with which the line begins, and these syllables or words can invariably be easily fitted into the Upajāti pattern, we conclude that on each line from lines 2–10 at least two complete verses in Upajāti metre were written. This has an important implication; since the first four pādas of Upajāti already cover approximately four-fifths of the breadth of the stone, at the time the inscription was made either the stone must have been (considerably) larger, i.e. since that time it must have been broken and a large section lost, or the inscription must have been continued horizontally on an adjacent stone or stones, just as we can see that it was continued vertically from the top stone to the bottom one. Assuming that there were two Upajāti verses (88 sylls.) to a line, the inscription would probably have covered a breadth of about 170 cm. This would already make it one of the broadest Gupta or Vākāt.aka inscriptions known. If we were to assume yet one more Upajāti verse per line (as one is tempted to do on the basis of the contents) the breadth would come to approximately 250 cm. 
+Before presenting the edited text and translation and embarking on a line by line discussion of problems and uncertainties, it seems advisable, in view of the fact that the right part of the inscription is totally illegible and partly lost, to attempt to determine what its breadth originally was, i.e. how many verses (syllables) were written on one line. In this we are helped by the fact that the text appears to be totally written in verse. As can be readily determined, the legible portions of lines 2–10 are written in Upajāti metre. Each line begins at the beginning of a pāda, and in almost all of these cases it seems as good as certain that this is also the beginning of a verse. Thus the imagery of verse 5 (line 3) seems too coherent and fitting for it to be in fact parts of two different verses; the first two pādas of line 4 could hardly come elsewhere than at the beginning of a verse; in line 6 it seems highly probable that the genitive supuṅgavasya depends on ghat.otkaco nāma suto, etc. And since on several lines, syllables or even words can be made out which clearly come after the fourth pāda of the verse with which the line begins, and these syllables or words can invariably be easily fitted into the Upajāti pattern, we conclude that on each line from lines 2–10 at least two complete verses in Upajāti metre were writteṇThis has an important implication; since the first four pādas of Upajāti already cover approximately four-fifths of the breadth of the stone, at the time the inscription was made either the stone must have been (considerably) larger, i.e. since that time it must have been broken and a large section lost, or the inscription must have been continued horizontally on an adjacent stone or stones, just as we can see that it was continued vertically from the top stone to the bottom one. Assuming that there were two Upajāti verses (88 sylls.) to a line, the inscription would probably have covered a breadth of about 170 cm. This would already make it one of the broadest Gupta or Vākāt.aka inscriptions knowṇIf we were to assume yet one more Upajāti verse per line (as one is tempted to do on the basis of the contents) the breadth would come to approximately 250 cm. 
 
-Proceeding on the supposition that in lines 11–15, which can be determined to be in Sloka metre, the scribe would have covered approximately the same ´ breadth of stone as in the lines with Upajāti, one arrives at the approximation that if two Upajātis (88 sylls.) were written there, three Slokas (96 sylls.) ´ could be written per line. This is borne out by the fact that in line 12 an aks.ara can be faintly made out that lies beyond where the end of the second Sloka could be, and by the fact that in the ´ Sloka lines the ´ aks.aras are written slightly closer to each other. If however we suppose that three Upajātis (132 sylls.) were written, there would have been room for four Slokas (128 sylls.); ´ even with more economical use of space it is hard to believe that five (160 sylls.) could have been written. The marked attempt in lines 11–15 to write more aks.aras in the same space therefore seems to support the first assumption of three Slokas per line. ´ 
+Proceeding on the supposition that in lines 11–15, which can be determined to be in Sloka metre, the scribe would have covered approximately the same ´ breadth of stone as in the lines with Upajāti, one arrives at the approximation that if two Upajātis (88 sylls.) were written there, three Slokas (96 sylls.) ´ could be written per line. This is borne out by the fact that in line 12 an aks.ara can be faintly made out that lies beyond where the end of the second Sloka could be, and by the fact that in the ´ Sloka lines the ´ aks.aras are written slightly closer to each other. If however we suppose that three Upajātis (132 sylls.) were written, there would have been room for four Slokas (128 sylls.); ´ even with more economical use of space it is hard to believe that five (160 sylls.) could have been writteṇThe marked attempt in lines 11–15 to write more aks.aras in the same space therefore seems to support the first assumption of three Slokas per line. ´ 
 
 
 
@@ -3259,9 +3259,9 @@ V
 
 Palaeography 
 
-The inscription is beautifully carved, giving a gentle and rounded impression. The characters may be described as belonging to the southern variety of Brāhmī with, as Shastri remarks, ‘solid triangles, instead of square boxes, on the tops of letters’. 11 So bald a description will, however, give little indication of the palaeographic interest of the inscription. The feature to which Shastri has briefly called attention, the solid triangular head-marks, is particularly note worthy, in view of the fact that for a long time the Poona copperplates of Prabhāvatī Guptā (CII V, no. 2) was the only known Vākāt.aka inscription with triangular (in this case, however, hollow) head-marks. 12 The large ma jority of known Vākāt.aka inscriptions, with their characteristic hollow square head-marks, 13 are admittedly on copperplates—a medium whose differences from stone influenced the palaeography to an extent which has not yet been sufficiently evaluated—but also the few Vākāt.aka stone inscriptions published in CII V (those discovered since will be discussed separately below) have square rather than triangular head-marks. 14 On the characters of the Poona Plates Mirashi made the following remarks (CII V, 5). 
+The inscription is beautifully carved, giving a gentle and rounded impressioṇThe characters may be described as belonging to the southern variety of Brāhmī with, as Shastri remarks, ‘solid triangles, instead of square boxes, on the tops of letters’. 11 So bald a description will, however, give little indication of the palaeographic interest of the inscriptioṇThe feature to which Shastri has briefly called attention, the solid triangular head-marks, is particularly note worthy, in view of the fact that for a long time the Poona copperplates of Prabhāvatī Guptā (CII V, no. 2) was the only known Vākāt.aka inscription with triangular (in this case, however, hollow) head-marks. 12 The large ma jority of known Vākāt.aka inscriptions, with their characteristic hollow square head-marks, 13 are admittedly on copperplates—a medium whose differences from stone influenced the palaeography to an extent which has not yet been sufficiently evaluated—but also the few Vākāt.aka stone inscriptions published in CII V (those discovered since will be discussed separately below) have square rather than triangular head-marks. 14 On the characters of the Poona Plates Mirashi made the following remarks (CII V, 5). 
 
-The characters are mostly of the nail-headed variety, having a triangle with its apex downwards at the top of the letters. A few letters, however, are of the box headed type in which all other inscriptions of the Vākāt.akas were written. See, e.g. vākāt.aka◦ in line 1 of the seal and si of siddham in line 1 on the first plate. It is noteworthy that besides their boxheads, some of these letters (e.g. v and s) have forms which are different from those noticed elsewhere in the grant. They agree with those in other grants of box-headed characters. It would seem therefore that the scribe began to write the present grant in box-headed characters, but not being accustomed to them, he soon changed over to nail-headed characters with which he was more familiar. He may have hailed from North India where the nail-headed characters were in vogue. 
+The characters are mostly of the nail-headed variety, having a triangle with its apex downwards at the top of the letters. A few letters, however, are of the box headed type in which all other inscriptions of the Vākāt.akas were writteṇSee, e.g. vākāt.aka◦ in line 1 of the seal and si of siddham in line 1 on the first plate. It is noteworthy that besides their boxheads, some of these letters (e.g. v and s) have forms which are different from those noticed elsewhere in the grant. They agree with those in other grants of box-headed characters. It would seem therefore that the scribe began to write the present grant in box-headed characters, but not being accustomed to them, he soon changed over to nail-headed characters with which he was more familiar. He may have hailed from North India where the nail-headed characters were in vogue. 
 
 The characters show an admixture of northern and southern peculiarities, the former predominating over the latter. 
 
@@ -3317,9 +3317,9 @@ On the basis of the photograph published by Gokhale these observations can be co
 
 The other two, admittedly very short, Vākāt.aka stone inscriptions published in recent years are the two graffiti found in the very same temple as the in scription at issue and published in RI. The first of these (RI, pl. II (a); above, Plate 6) was there described as being ‘written in Deccani style characters with solid triangular head-marks’, while the second (RI, pl. II (b); above, Plate 7) has ‘a mixture of solid triangular and block [i.e. square] head-marks’ (RI, 469; above, p. 81). 
 
-Of these two graffiti, the second need not occupy us long here; it may suffice to draw attention to the ra with its extended lower curve and the very square tha, two features that distinguish it clearly from our inscription. The first graffito, on the other hand, is of interest here, since its letters can be seen to bear a certain resemblance to those of the large inscription. None the less, the appealing theory that the engraver of the latter carved his own name onto a pillar during an idle moment, must no doubt be rejected, as can be determined already by a study of the first letter of the graffito (śrī). As can be clearly seen in the published photograph (Plate 6), the medial ī is of the curved rather than the circular type, and the top of the śa is rather broader and definitely flat, another characteristic which may suggest ‘northern’ influence. Finally the da is round, resembling the ḍa rather than the da of the inscription published here. 
+Of these two graffiti, the second need not occupy us long here; it may suffice to draw attention to the ra with its extended lower curve and the very square tha, two features that distinguish it clearly from our inscriptioṇThe first graffito, on the other hand, is of interest here, since its letters can be seen to bear a certain resemblance to those of the large inscriptioṇNone the less, the appealing theory that the engraver of the latter carved his own name onto a pillar during an idle moment, must no doubt be rejected, as can be determined already by a study of the first letter of the graffito (śrī). As can be clearly seen in the published photograph (Plate 6), the medial ī is of the curved rather than the circular type, and the top of the śa is rather broader and definitely flat, another characteristic which may suggest ‘northern’ influence. Finally the da is round, resembling the ḍa rather than the da of the inscription published here. 
 
-To conclude this note on palaeography, we believe that in this respect too this inscription proves itself to be unusual, showing a combination of characteristics which has not yet been found in any other Vākāt.aka inscription. The present 
+To conclude this note on palaeography, we believe that in this respect too this inscription proves itself to be unusual, showing a combination of characteristics which has not yet been found in any other Vākāt.aka inscriptioṇThe present 
 
 18 Sic: meant is the inscription of Varāhadeva, CII V, no. 26, which has square head-marks. 
 
@@ -3341,7 +3341,7 @@ One problem which bedevils inscriptional studies . . . is that what is legible o
 
 It is in part such problems as these that have led us to give here, in addition to the text and translation, a relatively detailed commentary touching on both palaeographical and philological problems, and a separate section setting out our interpretation and its historical implications at some length. More impor tantly, however, this was done from a conviction that it is in these respects that much of the work done in inscriptional studies so far could be improved; and even if part of what follows may seem unnecessary, plodding or self-evident, our aims will have been fulfilled if with its help other scholars can more easily locate our mistakes and improve on them. 
 
-Those conjectures of which we felt relatively certain, that is, for which we could think of no other possibility that was at all plausible, have been placed in hangular bracketsi in the text. Others, which seemed attractive but were less compelling, have been suggested in notes below the text, while a few more suggestions have been tentatively made in the annotation. We are of course aware of the subjective element involved in this procedure—what seems com pelling to us may appear implausible to others—but feel none the less that at 
+Those conjectures of which we felt relatively certain, that is, for which we could think of no other possibility that was at all plausible, have been placed in hangular bracketsi in the text. Others, which seemed attractive but were less compelling, have been suggested in notes below the text, while a few more suggestions have been tentatively made in the annotatioṇWe are of course aware of the subjective element involved in this procedure—what seems com pelling to us may appear implausible to others—but feel none the less that at 
 
 19 The use of this technique was first suggested to us by Mr. M. Albers. We are also grateful to J.P. Posthumus (MA) for technical assistance. 
 
@@ -3357,11 +3357,11 @@ Those conjectures of which we felt relatively certain, that is, for which we cou
 
 least a rough categorization of such suggestions is desirable. Other conjectures proposed in Bakker 1997, 2010c, 2012 are given in [square brackets] in the ap paratus. Readings of which we were less certain (not emendations as in RI) have been placed in (round brackets) in the text. 
 
-The readings of Jamkhedkar’s edition are given after the text, in so far as they differ from the text as adopted by us. When the two published versions (Jamkhedkar 1987b and 1992) differ, one reading is almost always an obvious misprint and has not been reporteḍIn one doubtful case both readings are given with J2 denoting the later version. So many of Jamkhedkar’s readings are metrically impossible that this has not been explicitly remarked in each case. 
+The readings of Jamkhedkar’s edition are given after the text, in so far as they differ from the text as adopted by us. When the two published versions (Jamkhedkar 1987b and 1992) differ, one reading is almost always an obvious misprint and has not been reporteḍIn one doubtful case both readings are given with J2 denoting the later versioṇSo many of Jamkhedkar’s readings are metrically impossible that this has not been explicitly remarked in each case. 
 
 Orthographical ‘peculiarities’ such as the use of the homorganic nasal for the anusvāra, the doubling of consonants after r have been left unaltereḍThe punctuation marks are, however, all ours, with the sole exception of the double dan. ḍa after verse 27. Commas have been used to indicate the ends of the odd pādas. 
 
-It should be noted that our use of brackets in the translation differs from the system employed in the edition. Explicatory additions are placed in (paren theses), restorations proposed in the notes to the edition are within hangular bracketsi, and lacunae in the text are indicated with the use of [square brack ets]. Words or parts of words which are in parentheses or angular brackets in the text are not marked as such in the translation. 
+It should be noted that our use of brackets in the translation differs from the system employed in the editioṇExplicatory additions are placed in (paren theses), restorations proposed in the notes to the edition are within hangular bracketsi, and lacunae in the text are indicated with the use of [square brack ets]. Words or parts of words which are in parentheses or angular brackets in the text are not marked as such in the translation. 
 
 Text 
 
@@ -3383,11 +3383,11 @@ hi conjectural addition
 
 ˘˘˘˘ bhayalohlaidr.s.t.i(dr.)hs.t.aih. ||1|| 
 
-(mu) n. ahrāi jar(s.)isa ˘ ˘ , ˘ ˘ ˘ ˘ ˘ ˘ | 
+(mu) ṇahrāi jar(s.)isa ˘ ˘ , ˘ ˘ ˘ ˘ ˘ ˘ | 
 
 ˘ ˘ ˘ ˘ ˘ ˘ , ˘ ˘ ˘ ˘ ˘ ˘ ||2|| 
 
-1a ◦odarābhah. 1c ran. amakha◦ [For possible reconstructions of verse 1 see Bakker 1997, 163 and 2010c (below, p. 353)] [2a d¯uren. a conj. Bakker 1997, 163; ◦samudraguptah. conj. Bakker 1997, 163, but rejected again in Bakker 2012 (below, n. 16 on p. 359)] 
+1a ◦odarābhah. 1c raṇamakha◦ [For possible reconstructions of verse 1 see Bakker 1997, 163 and 2010c (below, p. 353)] [2a d¯ureṇa conj. Bakker 1997, 163; ◦samudraguptah. conj. Bakker 1997, 163, but rejected again in Bakker 2012 (below, n. 16 on p. 359)] 
 
 1 Pus.pitāgrā: ˘˘˘˘˘˘ ˘ ˘ , ˘˘˘˘ ˘ ˘ ˘ ˘ | 2 × (12, 13) 2–20 Upajāti: ˘ ˘ ˘ ˘ ˘ ˘ 4 × (11) 
 
@@ -3405,7 +3405,7 @@ hi conjectural addition
 
 yasyottamāṅgair bbalayo kriyanthei, 
 
-(pā)de hsaic¯ud. āman. ibhir nr.hpān. āmi ||3|| 
+(pā)de hsaic¯ud. āmaṇibhir nr.hpān. āmi ||3|| 
 
 ta(s)yodadhiprānta ˘ la ˘ ˘ , ˘ ˘ ˘ ˘ ˘ ˘ | 
 
@@ -3423,7 +3423,7 @@ tām. ˘ nābhyunnata ˘ ˘ , ˘ ˘ ˘ ˘ ˘ ˘ |
 
 ˘ ˘ ˘ ˘ ˘ ˘ , ˘ ˘ ˘ ˘ ˘ ˘ ||6|| 
 
-4 tayoh¯ kramād āhatala(ks.an. es.)u, 
+4 tayoh¯ kramād āhatala(ks.aṇes.)u, 
 
 jātes.u ˘ ˘ nvite(s.u)| 
 
@@ -3437,7 +3437,7 @@ yhavīyaisī candra(ma)sah¸ (p)ra(bh)hevai,
 
 5 sadaiva devas trisamudranāthas, 
 
-sa candragup(t)a(h¸ parip¯u)rn. n. ahvi(r.)ttah. | 
+sa candragup(t)a(h¸ parip¯u)rṇṇahvi(r.)ttah. | 
 
 ˘ ˘ nām adhi(pa)s suhtām. tāim. , 
 
@@ -3465,9 +3465,9 @@ dr.(s.)ht.vāi˘ ˘ ˘ veśmalaks.mīhmi |
 
 ˘ ˘ ˘ ˘ ˘ (d)y/h i, 
 
-huipāsya pān. igrahan. am. cakāra ||13|| 
+huipāsya pāṇigrahaṇam. cakāra ||13|| 
 
-[3a tīks.n. a◦ conj. Bakker 1997, 163] 3b prabhā◦ [4a ◦palāyamānām conj. Bakker 1997, 163] 5a sā devateva, [yā devateva conj. Bakker 1997, 164] [5b pitur gr.hītā conj. Bakker 1997, 164, but rejected in Bakker 2010c (below, n. 1 on p. 352); pratis.iddhaśakteh. conj. Bakker 1997, 164] [5c kanyā yayau conj. Bakker 1997, 164] [5d śuddhā conj. Bakker 1997, 164] 7b putres.u gun. ānvites.u [7d sā mun. ḍa◦ conj. Bakker 1997, 164; I now conjecture: yā mun. ḍa◦] 9c dadau˘ nām, [dadau prajānām conj. Bakker 1997, 164] 9d gun. ākarāya [11c prajādhipasyā◦ conj. Bakker 1997, 164] 11d suto babh¯uva 
+[3a tīks.ṇa◦ conj. Bakker 1997, 163] 3b prabhā◦ [4a ◦palāyamānām conj. Bakker 1997, 163] 5a sā devateva, [yā devateva conj. Bakker 1997, 164] [5b pitur gr.hītā conj. Bakker 1997, 164, but rejected in Bakker 2010c (below, n. 1 on p. 352); pratis.iddhaśakteh. conj. Bakker 1997, 164] [5c kanyā yayau conj. Bakker 1997, 164] [5d śuddhā conj. Bakker 1997, 164] 7b putres.u gun. ānvites.u [7d sā mun. ḍa◦ conj. Bakker 1997, 164; I now conjecture: yā mun. ḍa◦] 9c dadau˘ nām, [dadau prajānām conj. Bakker 1997, 164] 9d gun. ākarāya [11c prajādhipasyā◦ conj. Bakker 1997, 164] 11d suto babh¯uva 
 
 
 
@@ -3495,7 +3495,7 @@ sādh¯un dhanaughair yyaśasā ca lokān ||15||
 
 9 tasmin kadācit kamanīyar¯upe, 
 
-˘ ˘ ˘ purandaren. a | 
+˘ ˘ ˘ purandareṇa | 
 
 (t/) ˘ (y/) ˘ ˘ (s sa)mānām. , 
 
@@ -3511,7 +3511,7 @@ bhrātā balāt svam. gr.ham ā(ni)nāya ||17||
 
 ˘ ˘ ˘ ˘ ˘ ˘ , 
 
-˘ (n. a tes.ām. ) ˘ ˘ bhāgam etam. ||19|| 
+˘ (ṇa tes.ām. ) ˘ ˘ bhāgam etam. ||19|| 
 
 ˘ ˘ ˘ ˘ ˘ ˘ , ˘ ˘ ˘ ˘ ˘ ˘ | 
 
@@ -3519,7 +3519,7 @@ bhrātā balāt svam. gr.ham ā(ni)nāya ||17||
 
 11 prabhāvatisvāminam. ca, lokanāhthaim a(th)ā ˘ ˘ | 
 
-pun. yam aks.ayam uddiśya, mā ˘ ˘ ˘ h aikhāirayahti ||21|| 
+puṇyam aks.ayam uddiśya, mā ˘ ˘ ˘ h aikhāirayahti ||21|| 
 
 ˘ ˘ ˘ ˘ ˘ ˘ ˘ ˘ , jagaduthpai(tti)nā ˘ ˘ | 
 
@@ -3533,7 +3533,7 @@ pun. yam aks.ayam uddiśya, mā ˘ ˘ ˘ h aikhāirayahti ||21||
 
 kadalīvāt.akagrāme, kārayithviāti vatī ||24|| 
 
-˘ ˘ ˘ (pī)takeśā, pun. yam uhddiśyai ˘ ˘ | 
+˘ ˘ ˘ (pī)takeśā, puṇyam uhddiśyai ˘ ˘ | 
 
 ˘ ˘ ˘ ˘ ˘ ˘ ˘ ˘ , (pā) ˘ ˘ ˘ ˘ ˘ ˘ ||25|| 
 
@@ -3553,11 +3553,11 @@ kadalīvāt.akagrāme, kārayithviāti vatī ||24||
 
 6 / The Ramtek Inscriptions II 125 
 
-13 arddham. brahmārppahn. am. i pun. yam. ,  r. ˘ ˘ ˘ n. a ˘ nī | 
+13 arddham. brahmārppahṇam. i puṇyam. ,  r. ˘ ˘ ˘ ṇa ˘ nī | 
 
 mātāpitr.bhyhāmi˘ ˘ ˘ , ˘ ˘ ˘ ˘  krhiiyodbhavam 27|| 
 
-jagatas (sth)ihtiisaṅhārakāran. asyāhmiitaujahsah.i | 
+jagatas (sth)ihtiisaṅhārakāraṇasyāhmiitaujahsah.i | 
 
 (ā)rs.hai(ma) ˘ ˘ ˘ ˘ ˘ ˘ , ˘ ˘ ˘ ˘ ˘ ˘ ˘ ||28|| 
 
@@ -3567,7 +3567,7 @@ jagatas (sth)ihtiisaṅhārakāran. asyāhmiitaujahsah.i |
 
 14 prāsādam. dayihti(ā)hdhi ātur, vvicintya tam aśāśvatam | 
 
-mātur eva samuddihśyai, hpuin. yaugham aghavarjjitā ||30|| 
+mātur eva samuddihśyai, hpuiṇyaugham aghavarjjitā ||30|| 
 
 śil(ā) ˘  (śi)lasaṅhkiāśam. , (ci)rā(ya) ˘ ˘ ˘ ˘ | 
 
@@ -3585,11 +3585,11 @@ kāvyahm. maihaj jay(a) ˘ (dam. ), ˘ ˘ ˘ ˘ ˘ gena (ca) |
 
 ˘ ˘ ˘ ˘ ˘ ˘ ˘ ˘ , ˘ ˘ ˘ ˘ ˘ ˘ ˘ ||34|| 
 
-[27b ◦n. aśālinī Bakker 1997, 166; I now conjecture: kr.pākarun. aśālinī ] [27c arddham. ca conj. Bakker 1997, 166] [28c ārs.ad/ Bakker 1997, 166] [30a dayi tur Bakker 1997, 167] 
+[27b ◦ṇaśālinī Bakker 1997, 166; I now conjecture: kr.pākaruṇaśālinī ] [27c arddham. ca conj. Bakker 1997, 166] [28c ārs.ad/ Bakker 1997, 166] [30a dayi tur Bakker 1997, 167] 
 
 Divergent readings of Jamkhedkar’s edition 
 
-1a J [ja]yati sajalāmbudodaro. . . 1b J does not read sylls. 6–9, 11 1c J ce samayai vi(rvi)tāṅgata. . . 1d J ◦dr. s.t.ir m¯u [rdhrā]. . . 2a J does not read sylls. 1–4, . . . jami sa. . . 3a J prabhavodgatavādepi. . . 3b J reads nothing 3c J does not read syll. 1, pyontamāṅgair bbalayo [’]kriyanta 3d J does not read sylls. 1–3, 10–11 4a J [tasyā]tavīprānta. . . 5a J does not read sylls. 10–11 5b J . . . vicintya . . . 5c J does not read sylls. 3–4, 7–9 5d J sikhe[va] . . . 6a J tām. ... nābhyunna [tā] . . . 7ab J tayoh. kramād āha tala ... prajāte ... nvite . . . 7c J does not read sylls. 1–3, śrī[ca]ndra . . . 7d J [cā]mun. d. ām. nāmnī (mnīm. ) tana[yām. ] . . . 8a J ... la[do]mi. . . 9b J . . . rn. n. a . . . ptah. 9c J reads nothing 9d J does not read sylls. 7–8 10a J reads nothing 11b J [◦sya]. . . : ◦syeva 11c J reads nothing 12a J . . . maṅgānāpah. (J2 maṅgānala) . . . 13d J [a*]pāsya 14a J devendrata[nayā*]. . . 14b J reads nothing 15a J does not read sylls. 10–11 15b J does not read sylls. 1, 11 15d J does not read syll. 1; [bh¯u]ndhanaudhair yaśasā ca lokān | 16a J reads nothing 17b J syll. 6 [ta] 17c J . . . [psamānām. ] 17d J tām. : svam. 19b J does not read syll. 4 19d J . . . yam. ...: n. a tes.ām. 21a J om. ca 21b J a[rthā]: athā 21c J pun. yā(n. ya)m 21d J reads nothing 22b J . . . jagadutta[ma?mi mam. ?] . . . 24b J devaś 24d J kārayitā... vatī 25a J . . . takretā 25d J reads nothing 27b J reads nothing 27c J mātāpitr.bhyo . . . 27d J . . . krayodbhavam || 28a J jagatsthitisaṅha(sam. hā)rakāran. asyāmito. . . 28c J reads nothing 30a J dayitā mātur 31a J tilāttailasaṅkāśa 33ab J ◦sthāyinīm. caimāṅ 33b J prakhyāpayis.yattā(ntyā) 33c J tayā . . . gr.hī[tānam. ] 33d J tadāj˜nānuti vā [citā?] 
+1a J [ja]yati sajalāmbudodaro. . . 1b J does not read sylls. 6–9, 11 1c J ce samayai vi(rvi)tāṅgata. . . 1d J ◦dr. s.t.ir m¯u [rdhrā]. . . 2a J does not read sylls. 1–4, . . . jami sa. . . 3a J prabhavodgatavādepi. . . 3b J reads nothing 3c J does not read syll. 1, pyontamāṅgair bbalayo [’]kriyanta 3d J does not read sylls. 1–3, 10–11 4a J [tasyā]tavīprānta. . . 5a J does not read sylls. 10–11 5b J . . . vicintya . . . 5c J does not read sylls. 3–4, 7–9 5d J sikhe[va] . . . 6a J tām. ... nābhyunna [tā] . . . 7ab J tayoh. kramād āha tala ... prajāte ... nvite . . . 7c J does not read sylls. 1–3, śrī[ca]ndra . . . 7d J [cā]muṇd. ām. nāmnī (mnīm. ) tana[yām. ] . . . 8a J ... la[do]mi. . . 9b J . . . rṇṇa . . . ptah. 9c J reads nothing 9d J does not read sylls. 7–8 10a J reads nothing 11b J [◦sya]. . . : ◦syeva 11c J reads nothing 12a J . . . maṅgānāpah. (J2 maṅgānala) . . . 13d J [a*]pāsya 14a J devendrata[nayā*]. . . 14b J reads nothing 15a J does not read sylls. 10–11 15b J does not read sylls. 1, 11 15d J does not read syll. 1; [bh¯u]ndhanaudhair yaśasā ca lokān | 16a J reads nothing 17b J syll. 6 [ta] 17c J . . . [psamānām. ] 17d J tām. : svam. 19b J does not read syll. 4 19d J . . . yam. ...: ṇa tes.ām. 21a J om. ca 21b J a[rthā]: athā 21c J puṇyā(ṇya)m 21d J reads nothing 22b J . . . jagadutta[ma?mi mam. ?] . . . 24b J devaś 24d J kārayitā... vatī 25a J . . . takretā 25d J reads nothing 27b J reads nothing 27c J mātāpitr.bhyo . . . 27d J . . . krayodbhavam || 28a J jagatsthitisaṅha(sam. hā)rakāraṇasyāmito. . . 28c J reads nothing 30a J dayitā mātur 31a J tilāttailasaṅkāśa 33ab J ◦sthāyinīm. caimāṅ 33b J prakhyāpayis.yattā(ntyā) 33c J tayā . . . gr.hī[tānam. ] 33d J tadāj˜nānuti vā [citā?] 
 
 34a J kāvya[ā?]˜n jaya . . . 34b J reads nothing 
 
@@ -3609,7 +3609,7 @@ Translation
 
 4 To him [. . . ] the edge of the ocean [. . . ]. [one verse possibly lost] 5 hShei, being worshipped in the residence of her father like a deity [. . . ], grew up like a [. . . ] flame of a fire in which abundant ghee has been poured. 6 Her [. . . ] raised [. . . ]. [one verse possibly lost] 
 
-7 After (a number of) hsonsi had been born to them in succession, famous and furnished hwith virtuesi, [. . . ] a daughter called mun.d.ā, resembling the lustre of the moon, was born as (their) younger sister. 
+7 After (a number of) hsonsi had been born to them in succession, famous and furnished hwith virtuesi, [. . . ] a daughter called muṇd.ā, resembling the lustre of the moon, was born as (their) younger sister. 
 
 8 [. . . ] streak [. . . ]. [one verse possibly lost] 
 
@@ -3659,7 +3659,7 @@ Annotation
 
 Line 1 Though much of the opening verse has been lost, enough remains to be able to determine with a high degree of certainty that the metre employed was Pus.pitāgrā. The fact that the fourth pāda seems to end at approximately the same place as the fourth pādas of lines 2 and 3 is consistent with the observation that the aks.aras are written somewhat more closely together in line 1. 
 
-The first legible aks.ara we read as ya; the left tip of the ya can be clearly seen though the connexion with the centre vertical is no longer visible. This leads us to the natural conjecture sa jayati for the opening words. Judging from the place where all the succeeding lines begin, there might have been room for one more aks.ara before this, e.g. om. . It should however be noted that neither the Ajanta Cave Inscription of Varāhadeva (CII V no. 25) nor the Ghat.otkaca Cave Inscription of the same minister (CII V no. 26) has any benedictory syllables or formula before the first verse. 22 For a metrical Gupta inscription which opens with a Pus.pitāgrā verse see CII III (1888) no. 35, the Mandasor Stone Inscription of Yaśodharman and Vis.n. udharman (beginning with the words sa jayati jagatām. patih. pinākī). 
+The first legible aks.ara we read as ya; the left tip of the ya can be clearly seen though the connexion with the centre vertical is no longer visible. This leads us to the natural conjecture sa jayati for the opening words. Judging from the place where all the succeeding lines begin, there might have been room for one more aks.ara before this, e.g. om. . It should however be noted that neither the Ajanta Cave Inscription of Varāhadeva (CII V no. 25) nor the Ghat.otkaca Cave Inscription of the same minister (CII V no. 26) has any benedictory syllables or formula before the first verse. 22 For a metrical Gupta inscription which opens with a Pus.pitāgrā verse see CII III (1888) no. 35, the Mandasor Stone Inscription of Yaśodharman and Vis.ṇudharman (beginning with the words sa jayati jagatām. patih. pinākī). 
 
 22 These two inscriptions, together with the inscription in Ajanta Cave XVII (CII V no. 27), are in some ways the most appropriate for purposes of comparison with our inscription, since they are the only other known Vākāt.aka stone inscriptions written entirely in verse. 
 
@@ -3671,9 +3671,9 @@ The first legible aks.ara we read as ya; the left tip of the ya can be clearly s
 
 128 Hans T. Bakker & Harunaga Isaacson 
 
-At the end of the first pāda we tentatively propose restoring sa jalāmbudodarābhah. ,23 which would be a suitable enough adjective to describe Vis.n. u. It cannot however be determined with certainty to what (manifestation of a) divinity this maṅgala verse is addresseḍAs it is found in a Narasim. ha temple one certainly could expect Vis.n. u, perhaps even in his man-lion incarnation. This would accord well with bhayaloladr. s.t.idr. s.t.ah. , our reading in the fourth pāda; but the comparison with a dark rain-cloud would then be inappropriate. Also ◦makhasamayaidhitāṅga◦, if this reading is correct, does not seem particularly suiteḍThe tentative suggestion ran. amakhasamayaidhitāṅga◦ would be more appropriate for a god doing battle in human form, e.g. Kr.s.n. a or Rāma. 
+At the end of the first pāda we tentatively propose restoring sa jalāmbudodarābhah. ,23 which would be a suitable enough adjective to describe Vis.ṇu. It cannot however be determined with certainty to what (manifestation of a) divinity this maṅgala verse is addresseḍAs it is found in a Narasim. ha temple one certainly could expect Vis.ṇu, perhaps even in his man-lion incarnatioṇThis would accord well with bhayaloladr. s.t.idr. s.t.ah. , our reading in the fourth pāda; but the comparison with a dark rain-cloud would then be inappropriate. Also ◦makhasamayaidhitāṅga◦, if this reading is correct, does not seem particularly suiteḍThe tentative suggestion raṇamakhasamayaidhitāṅga◦ would be more appropriate for a god doing battle in human form, e.g. Kr.s.ṇa or Rāma. 
 
-For the second pāda of the first verse we can offer no compelling restoration. In our translation we have chosen to interpret ◦ rasarājya◦ as containing the word ājya (also found in verse 5) rather than rājya, and this has led us to propose reading ◦prasarājya◦. The syllables miti preceding this could, e.g. be part of the word samiti, but since interpretation of the pāda and indeed the whole verse is problematic, the possibility that one should rather divide the words ◦m iti prasarājya◦ can not be completely ruled out. 24 
+For the second pāda of the first verse we can offer no compelling restoratioṇIn our translation we have chosen to interpret ◦ rasarājya◦ as containing the word ājya (also found in verse 5) rather than rājya, and this has led us to propose reading ◦prasarājya◦. The syllables miti preceding this could, e.g. be part of the word samiti, but since interpretation of the pāda and indeed the whole verse is problematic, the possibility that one should rather divide the words ◦m iti prasarājya◦ can not be completely ruled out. 24 
 
 The second verse clearly cannot be in Pus.pitāgrā metre, since the fifth sylla ble ja must be heavy, as the following aks.ara is certainly a ligature. The sixth syllable is somewhat problematic; though we read r(s.)i, it must be admitted that the ligature rs. would in that case have here a form rather different from that which one would expect and which is indeed found in line 13. 25 On the basis of our proposed reading, we restore the word ◦rājars.i◦. Unfortunately, the word preceding it does not appear to be any name that is familiar to us. 26 
 
@@ -3685,7 +3685,7 @@ Line 2 The main construction of verse 3 is to be found in pādas c and d, and is
 
 25 The other main candidate, the ligature rm seems, however, still less acceptable; the two arms visible do not really resemble those of the looped ma, and moreover there appears to be a short vertical connecting them with the lower part of the letter. 
 
-26 One possible restoration of the first three syllables would be muren. a, which at least has the advantage that the cerebral n. would be explaineḍOn the other hand, this would suggest that the content of the verse is again mythical rather than historical, as one would expect from the word rājars.i and from the fact that verse 3 seems to imply that a king or royal family had already been mentioned before. 
+26 One possible restoration of the first three syllables would be mureṇa, which at least has the advantage that the cerebral ṇwould be explaineḍOn the other hand, this would suggest that the content of the verse is again mythical rather than historical, as one would expect from the word rājars.i and from the fact that verse 3 seems to imply that a king or royal family had already been mentioned before. 
 
 27 Also possible, though to our minds rather less likely, is that the king is first named in the following verse which begins with tasya. 
 
@@ -3705,13 +3705,13 @@ Line 3 The main image of verse 5, that of a young girl growing up and increasing
 
 Of verse 6 far too little is preserved to be able to arrive at any certainty as to its syntax or contents. The first syllable tām no doubt refers to the girl described in verse 5. Whether nābhyunnata◦ contains the negative particle na or whether this is instead the termination of a word in the instrumental case, or even an a-stem which is the prior member of a compound, cannot be determined. 
 
-Line 4 Of considerable interest in verse 7 is the word āhatalaks.an. es.u, which, although the last three aks.aras are somewhat damaged, and although it was misread by Jamkhedkar, can in our opinion be read with certainty in pāda a. This word was hitherto chiefly known from lexicographical works, its earliest and most important occurrence being in the Amarakośa (AK 3.1.10): gun. aih. pratīte tu kr.talaks.an. āhatalaks.an. au.29 At least one commentator of Amara, the southern author Bommagan.t.i Appayārya (most probably to be dated towards the end of the fourteenth or beginning of the fifteenth century), seems also to have known a reading kr.talaks.an. āhitalaks.an. au.30 The word āhitalaks.an. a 
+Line 4 Of considerable interest in verse 7 is the word āhatalaks.aṇes.u, which, although the last three aks.aras are somewhat damaged, and although it was misread by Jamkhedkar, can in our opinion be read with certainty in pāda a. This word was hitherto chiefly known from lexicographical works, its earliest and most important occurrence being in the Amarakośa (AK 3.1.10): guṇaih. pratīte tu kr.talaks.an. āhatalaks.aṇau.29 At least one commentator of Amara, the southern author Bommagaṇt.i Appayārya (most probably to be dated towards the end of the fourteenth or beginning of the fifteenth century), seems also to have known a reading kr.talaks.an. āhitalaks.aṇau.30 The word āhitalaks.aṇa 
 
 28 Less likely, though perhaps not impossible, is pratis.ikta◦; the passive participle of √ sic also occurs in pāda d, and, as far as we can judge, the use of this root with the preposition prati is rather uncommon. 
 
-29 Amara teaches the use of the words kr.talaks.an. a and āhatalaks.an. a in the sense of ‘one who is known on account of his virtues’, obviously the sense in which the latter is used by the author of the inscription. Other early occurrences of the word are found in MBh 2.48.36, 3.247.4, 7.19.63. 
+29 Amara teaches the use of the words kr.talaks.aṇa and āhatalaks.aṇa in the sense of ‘one who is known on account of his virtues’, obviously the sense in which the latter is used by the author of the inscriptioṇOther early occurrences of the word are found in MBh 2.48.36, 3.247.4, 7.19.63. 
 
-30 AK 16. Note that MS K5 of Liṅgayas¯urin’s commentary on the AK adds āhitalaks.an. a iti vā pāt.hah. (AK1 16). The other commentaries available to us all read ◦āhatalaks.an. au. 
+30 AK 16. Note that MS K5 of Liṅgayas¯urin’s commentary on the AK adds āhitalaks.aṇa iti vā pāt.hah. (AK1 16). The other commentaries available to us all read ◦āhatalaks.aṇau. 
 
 
 
@@ -3721,21 +3721,21 @@ Line 4 Of considerable interest in verse 7 is the word āhatalaks.an. es.u, whic
 
 130 Hans T. Bakker & Harunaga Isaacson 
 
-occurs in apparently the same sense in Raghuvam. śa 6.71, where it is noteworthy that Mallinātha (also a southern writer) glosses it with prakhyātagun. ah. , and supports this by quoting Amara with the ◦āhitalaks.an. au reading. 31 In the present state of Kālidāsa studies it is, however, impossible to have any certainty about such textual details, and without a thorough study of the manuscript traditions of the Raghuvam. śa it would be rash to maintain that Kālidāsa must have used the word in the form āhita◦ rather than āhatalaks.an. a. Indeed, Rāya mukut.a (ad 1431/32), in his commentary on AK 3.1.10, quotes the relevant pāda from the Raghuvam. śa with the reading āhatalaks.an. o ’bh¯ut (AK2 9). 
+occurs in apparently the same sense in Raghuvam. śa 6.71, where it is noteworthy that Mallinātha (also a southern writer) glosses it with prakhyātaguṇah. , and supports this by quoting Amara with the ◦āhitalaks.aṇau reading. 31 In the present state of Kālidāsa studies it is, however, impossible to have any certainty about such textual details, and without a thorough study of the manuscript traditions of the Raghuvam. śa it would be rash to maintain that Kālidāsa must have used the word in the form āhita◦ rather than āhatalaks.aṇa. Indeed, Rāya mukut.a (ad 1431/32), in his commentary on AK 3.1.10, quotes the relevant pāda from the Raghuvam. śa with the reading āhatalaks.aṇo ’bh¯ut (AK2 9). 
 
-We have met with one other significant occurrence of the worḍIn line 4 of the Ghat.otkaca Cave inscription of the Vākāt.aka minister Varāhadeva (CII V no. 26) the word āhitalaks.an. ānām. occurs; as Mirashi however points out in a footnote, earlier editions of the inscription by Pandit Bhagvanlal Indraji and B¨uhler had read āhatalaks.an. ānām. .32 The valuable point about the occurrence of the word in our inscription, however, is that there can here be no doubt at all that the form āhatalaks.an. a was used, for the aks.ara ha is beautifully preserved on an undamaged section of the stone. 33 
+We have met with one other significant occurrence of the worḍIn line 4 of the Ghat.otkaca Cave inscription of the Vākāt.aka minister Varāhadeva (CII V no. 26) the word āhitalaks.an. ānām. occurs; as Mirashi however points out in a footnote, earlier editions of the inscription by Pandit Bhagvanlal Indraji and B¨uhler had read āhatalaks.an. ānām. .32 The valuable point about the occurrence of the word in our inscription, however, is that there can here be no doubt at all that the form āhatalaks.aṇa was used, for the aks.ara ha is beautifully preserved on an undamaged section of the stone. 33 
 
-In 7ab we obviously have an absolute locative, and there can be little doubt that after jātes.u a substantive (masc. pl. loc.) meaning ‘son’, and another qualification of these sons must have followeḍThe restoration jātes.u putres.u gun. āvites.u, while perhaps not the only metrically correct possibility, seems both simple and plausible. More compelling, to our minds, are the readings proposed in pāda c; yavīyasī being the only metrically correct and at the same time both syntactically and semantically natural and convincing restoration. In view of the fact that a simile is clearly intended, prabheva at the end of the pāda seems equally certain. 
+In 7ab we obviously have an absolute locative, and there can be little doubt that after jātes.u a substantive (masc. pl. loc.) meaning ‘son’, and another qualification of these sons must have followeḍThe restoration jātes.u putres.u gun. āvites.u, while perhaps not the only metrically correct possibility, seems both simple and plausible. More compelling, to our minds, are the readings proposed in pāda c; yavīyasī being the only metrically correct and at the same time both syntactically and semantically natural and convincing restoratioṇIn view of the fact that a simile is clearly intended, prabheva at the end of the pāda seems equally certain. 
 
-In 7d we find a personal name of a girl as the first member of a compound ending in ◦nāmnī. The name no doubt ended in mun. d. ā,34 though the first syllable is unfortunately illegible; it may have ended in ā (which would suggest Cāmun. d. ā), for what appears to be the right vertical of the ā can still be seen, together with the horizontal stroke attaching it to the head-mark. That the vowel is o instead is less likely, since the two arms of the o are generally curved rather than angular. For further discussion of the name and identity of the girl see below, p. 137. 
+In 7d we find a personal name of a girl as the first member of a compound ending in ◦nāmnī. The name no doubt ended in muṇd. ā,34 though the first syllable is unfortunately illegible; it may have ended in ā (which would suggest Cāmuṇd. ā), for what appears to be the right vertical of the ā can still be seen, together with the horizontal stroke attaching it to the head-mark. That the vowel is o instead is less likely, since the two arms of the o are generally curved rather than angular. For further discussion of the name and identity of the girl see below, p. 137. 
 
-The few aks.aras legible of verse 8 do not of course offer much material for interpretation. We are inclined to think that the verse contains the word 
+The few aks.aras legible of verse 8 do not of course offer much material for interpretatioṇWe are inclined to think that the verse contains the word 
 
-31 Cf. Vallabhadeva’s gloss in his Raghupa˜ncikā: gun. asampadā vikhyātah.. 
+31 Cf. Vallabhadeva’s gloss in his Raghupa˜ncikā: guṇasampadā vikhyātah.. 
 
 32 The photograph published in CII V is unfortunately not of sufficiently good quality to confirm whether there really are, as Mirashi claims, traces of a curve above the ha, so that here too some doubt remains as to the correct reading. 
 
-33 A discussion of the not unproblematic etymology and semantics of āhatalaks.an. a/āhita laks.an. a must be deferred to a later occasion. 34 The shortening of the feminine suffix ā to a is permitted here by P. 6.3.36. Cf. also prabhāvatisvāminam. in verse 21. 
+33 A discussion of the not unproblematic etymology and semantics of āhatalaks.aṇa/āhita laks.aṇa must be deferred to a later occasion. 34 The shortening of the feminine suffix ā to a is permitted here by P. 6.3.36. Cf. also prabhāvatisvāminam. in verse 21. 
 
 
 
@@ -3743,11 +3743,11 @@ The few aks.aras legible of verse 8 do not of course offer much material for int
 
 6 / The Ramtek Inscriptions II 131 
 
-lekhā which suggests the possibility that the daughter introduced in verse 7 is described further, and perhaps said to grow in beauty and lustre as the crescent moon; a comparison found in Kālidāsa’s description of the young Pārvatī in Kumārasambhava (1.25): dine dine sā parivardhamānā labdhodayā cāndrama sīva lekhā | pupos.a lāvan. yamayān viśes.ā˜n jyotsnāntarān.īva kalāntarān. i. It is not possible to determine whether one should divide lekhā mi ◦, lekhām i ◦, or lekhāmi ◦. 
+lekhā which suggests the possibility that the daughter introduced in verse 7 is described further, and perhaps said to grow in beauty and lustre as the crescent moon; a comparison found in Kālidāsa’s description of the young Pārvatī in Kumārasambhava (1.25): dine dine sā parivardhamānā labdhodayā cāndrama sīva lekhā | pupos.a lāvaṇyamayān viśes.ā˜n jyotsnāntarān.īva kalāntarāṇi. It is not possible to determine whether one should divide lekhā mi ◦, lekhām i ◦, or lekhāmi ◦. 
 
-Line 5 Verse 9 is relatively unproblematic. On the use of the term trisamu dranātha in pāda a see below, p. 138. The sixth and seventh aks.aras of pāda b are very badly damaged, but we are fairly confident of the reading parip¯urn. a vr.ttah. . The upadhmānīya can be made out on the left arm of the pa. The word may be taken as containing a (mild form of) śles.a, with a secondary meaning of ‘completely full and round’, which would be a suitable adjective to describe the moon (candra), aside from the meaning ‘of perfect conduct’, a description of Candragupta. 
+Line 5 Verse 9 is relatively unproblematic. On the use of the term trisamu dranātha in pāda a see below, p. 138. The sixth and seventh aks.aras of pāda b are very badly damaged, but we are fairly confident of the reading parip¯urṇa vr.ttah. . The upadhmānīya can be made out on the left arm of the pa. The word may be taken as containing a (mild form of) śles.a, with a secondary meaning of ‘completely full and round’, which would be a suitable adjective to describe the moon (candra), aside from the meaning ‘of perfect conduct’, a description of Candragupta. 
 
-The verb has been lost, but considerations of syntax and common sense (the presence of a fem. acc. sg. besides a masc. dat. sg.), aside from known historical facts (see below, p. 138), strongly suggest a form of √ dā or a verb with the same meaning. This must almost certainly have been at the beginning of pāda c, since the second half of pāda d hardly has space for a verb, and contains instead in all probability an adjective describing Rudrasena, for which we propose gun. ākarāya. Aside from this verb, the illegible part of pāda c may have contained a gen. masc. pl., the final syllable of which (nām) is still legible, depending on the following words adhipas and most probably meaning either ‘king’ or ‘man’. The alternative possibility, that ◦nām is to be interpreted as a fem. acc. sg. ending, a further qualification of the daughter, is most unlikely in view of the following adhipas. Since the gen. pl. must have taken up at least three syllables, 35 only two, at the very beginning of the pāda, remain for the verb. Hence our proposal dadau. 
+The verb has been lost, but considerations of syntax and common sense (the presence of a fem. acc. sg. besides a masc. dat. sg.), aside from known historical facts (see below, p. 138), strongly suggest a form of √ dā or a verb with the same meaning. This must almost certainly have been at the beginning of pāda c, since the second half of pāda d hardly has space for a verb, and contains instead in all probability an adjective describing Rudrasena, for which we propose gun. ākarāya. Aside from this verb, the illegible part of pāda c may have contained a geṇmasc. pl., the final syllable of which (nām) is still legible, depending on the following words adhipas and most probably meaning either ‘king’ or ‘man’. The alternative possibility, that ◦nām is to be interpreted as a fem. acc. sg. ending, a further qualification of the daughter, is most unlikely in view of the following adhipas. Since the geṇpl. must have taken up at least three syllables, 35 only two, at the very beginning of the pāda, remain for the verb. Hence our proposal dadau. 
 
 Verse 10 must be regarded as completely lost, as far as the extraction of information, or even a single word, is concerneḍThe second aks.ara could be a ta (vowel uncertain), and two or three syllables after the li or lī which can with difficulty be made out there seems to be another ta (vowel again uncertain). 
 
@@ -3755,7 +3755,7 @@ Line 6 Verse 11 is again relatively well preserveḍThe sense seems clear; pāda
 
 It does not appear possible to say anything about the text of verse 12. The only point to be noted is that four or five syllables after the last legible aks.ara 
 
-35 The only at all plausible word which could yield a two-syllable gen. pl. with the metrical pattern is nr. (n¯r.n. ām) but this, as well as other words such as nr.pa, nara, prabhu, etc., is impossible in view of the fact that the last syllable is clearly nām and not n. ām. 
+35 The only at all plausible word which could yield a two-syllable geṇpl. with the metrical pattern is nr. (n¯r.n. ām) but this, as well as other words such as nr.pa, nara, prabhu, etc., is impossible in view of the fact that the last syllable is clearly nām and not n. ām. 
 
 
 
@@ -3767,11 +3767,11 @@ It does not appear possible to say anything about the text of verse 12. The only
 
 (pā) what could be the sign for medial u can be seen. 
 
-Line 7 Of verse 13, we are fortunate in having the subject, object and verb well preserved, so that the interpretation is clear and unproblematic. Since the main verb is at the end of pāda d, it is highly probable that the dr. s. which can be made out at the beginning of pāda b, and of which the s. appears to be the top part of a ligature, is to be interpreted as dr. s.t.vā, and this would provide a syntactically smooth construction. Pāda b may also have contained another adjective belonging with the bhāgineyī and perhaps, though not necessarily, an iva going with veśmalaks.mīm. The contents of pāda c can not be reconstructeḍLittle can be said of verse 14. The fourth aks.ara could have been the horse shoe type ga, but since the lower part is damaged, so that it cannot be de termined whether the character has a closed bottom or not, dha is an equally likely reading. We have chosen for the latter possibility, simply on the grounds that words beginning with dhan are rather more frequent than words begin ning with gan. In pāda b the opening syllables amā suggest, in a royal context, amātya. 
+Line 7 Of verse 13, we are fortunate in having the subject, object and verb well preserved, so that the interpretation is clear and unproblematic. Since the main verb is at the end of pāda d, it is highly probable that the dr. s. which can be made out at the beginning of pāda b, and of which the s. appears to be the top part of a ligature, is to be interpreted as dr. s.t.vā, and this would provide a syntactically smooth constructioṇPāda b may also have contained another adjective belonging with the bhāgineyī and perhaps, though not necessarily, an iva going with veśmalaks.mīm. The contents of pāda c can not be reconstructeḍLittle can be said of verse 14. The fourth aks.ara could have been the horse shoe type ga, but since the lower part is damaged, so that it cannot be de termined whether the character has a closed bottom or not, dha is an equally likely reading. We have chosen for the latter possibility, simply on the grounds that words beginning with dhan are rather more frequent than words begin ning with gaṇIn pāda b the opening syllables amā suggest, in a royal context, amātya. 
 
-Line 8 Of verse fifteen neither subject nor verb has been preserveḍThe construction clearly involves a series of acc. (pl.) together with instrumentals, both singular and plural, and in pādas a and b also 2 cases of a gen. pl., presumably dependant on an acc. pl. From the general tenor, one expects the verb to have a meaning such as ‘satisfy’, ‘delight’, ‘win over’ or the like, and the subject is no doubt a king. It should be noted that very similar verses are found in two Gupta inscriptions: the Junāgaḍh Rock Inscription of Skandagupta (ad 457–58), where we read: ājyapran. āmair vibudhān athe s.t.vā dhanair dvijātīn api tarpayitvā | paurām. s tathābhyarcya yathārhamānaih. bhr.tyām. ś ca p¯ujyān suhr.daś ca dānaih. k (CII III (1888), 60 (l. 19)), and the Gangdhar Stone Inscription of Viśvarvarman, which contains a verse reading yaj˜nais surān munigan. ān niyamair udāraih. ˘ ˘˘˘ ˘ ˘ ˘ | mānena bhr.ttyajanam appratimena (sic) loke yo [’]tos.ayat sucaritaiś ca jagat sama ggram k (CII III (1888), 74 (ll. 3–4)). 
+Line 8 Of verse fifteen neither subject nor verb has been preserveḍThe construction clearly involves a series of acc. (pl.) together with instrumentals, both singular and plural, and in pādas a and b also 2 cases of a geṇpl., presumably dependant on an acc. pl. From the general tenor, one expects the verb to have a meaning such as ‘satisfy’, ‘delight’, ‘win over’ or the like, and the subject is no doubt a king. It should be noted that very similar verses are found in two Gupta inscriptions: the Junāgaḍh Rock Inscription of Skandagupta (ad 457–58), where we read: ājyapran. āmair vibudhān athe s.t.vā dhanair dvijātīn api tarpayitvā | paurām. s tathābhyarcya yathārhamānaih. bhr.tyām. ś ca p¯ujyān suhr.daś ca dānaih. k (CII III (1888), 60 (l. 19)), and the Gangdhar Stone Inscription of Viśvarvarman, which contains a verse reading yaj˜nais surān munigan. ān niyamair udāraih. ˘ ˘˘˘ ˘ ˘ ˘ | mānena bhr.ttyajanam appratimena (sic) loke yo [’]tos.ayat sucaritaiś ca jagat sama ggram k (CII III (1888), 74 (ll. 3–4)). 
 
-At the beginning of pāda b we read the aks.ara prī: the left arm of the pa and the medial ī are clearly visible, and at the bottom left there is a mark which we interpret as the tip of the curved subscript r. On the strength of this aks.ara we propose reading the verb form prīn. āti (historical present), and for the two remaining illegible syllables nīlā◦ seems a very plausible reading. This would however mean either that the acc. pl. on which the gen. pl. nīlāmburuheks.an. ā nām depends is in pāda c or that manām. si in pāda a is to be construed again with this gen. pl. as well as with vidus.ām. It must also be admitted that a historical present does not seem to occur elsewhere in the inscription, though its durative aspect could be quite appropriate here. The subject must have been given in pāda c, perhaps at the end, for the double s (s sādh¯un) suggests that the last word of pāda c may have been a nom. masc. sg. 
+At the beginning of pāda b we read the aks.ara prī: the left arm of the pa and the medial ī are clearly visible, and at the bottom left there is a mark which we interpret as the tip of the curved subscript r. On the strength of this aks.ara we propose reading the verb form prīn. āti (historical present), and for the two remaining illegible syllables nīlā◦ seems a very plausible reading. This would however mean either that the acc. pl. on which the geṇpl. nīlāmburuheks.an. ā nām depends is in pāda c or that manām. si in pāda a is to be construed again with this geṇpl. as well as with vidus.ām. It must also be admitted that a historical present does not seem to occur elsewhere in the inscription, though its durative aspect could be quite appropriate here. The subject must have been given in pāda c, perhaps at the end, for the double s (s sādh¯un) suggests that the last word of pāda c may have been a nom. masc. sg. 
 
 Verse 16 is again almost completely lost. The aks.aras hīpa at the end of the 
 
@@ -3785,13 +3785,13 @@ Verse 16 is again almost completely lost. The aks.aras hīpa at the end of the
 
 first pāda strongly suggest the word mahīpa, probably, given the position, in the nominative, though the precise form taken after application of the rules of sandhi cannot be determined. 
 
-Line 9 The basic outline of verse 17 is in any case clear: the first two pādas must have consisted of an absolute locative construction (on which purandaren. a probably depended), while pāda d contains the subject and verb. ānināya must govern two accusatives, the second of which (svam. gr.ham) is in pāda d and the first no doubt in pāda c, qualified by the adjective samānām. The possibility that samānām is a gen. pl. rather than an acc. fem. sg. is in this context very unlikely. 
+Line 9 The basic outline of verse 17 is in any case clear: the first two pādas must have consisted of an absolute locative construction (on which purandareṇa probably depended), while pāda d contains the subject and verb. ānināya must govern two accusatives, the second of which (svam. gr.ham) is in pāda d and the first no doubt in pāda c, qualified by the adjective samānām. The possibility that samānām is a geṇpl. rather than an acc. fem. sg. is in this context very unlikely. 
 
 Line 10 The subject of verse 19 is obviously manujendraputrī. The reading of this word is not in any doubt, despite the fact that Shastri misread it as manujendrapurī (metrically impossible) and took this as a reference to the capital. The r visible is definitely in its subscript form, and above it the form of the t can still be made out. As for the grammatical construction of the verse, it is likely that tes.ām. in pāda d correlates with yān yān of the first pāda. It is unfortunately not quite clear what the princess akārs.īt (note the use of the aorist which could point to the actuality of the action); ◦savān in pāda b suggests ◦prasavān,36 and we conjecture that this is the final member of a bahuvrīhi compound meaning in effect ‘producing. . . ’. The aks.ara dha visible, and in a position where it must be metrically heavy, suggests dharmaprasavān. 
 
 Line 11 With this line the metre changes to Sloka. This accompanies a ´ noticeable change in subject matter and style; whereas till now the events related clearly seem to have taken place in a not very recent past and have been narrated, so far as can be judged, with a preponderance of perfect forms and in a fairly developed style with regular use of alam. kāras, from this point on the events spoken of are evidently those of the very recent past, told without the use of perfect forms and in a simpler style. Verse 19, in the previous line (with the only certain use of the aorist in the inscription), though still in Upajāti metre, may be seen as a transition to the second half of the inscription. 
 
-In pāda a of verse 21 (fourth or ra-vipulā) the word prabhāvatisvāminam. 37 is an apposition to lokanātham in the following pāda, which obviously indi cates an immediate connexion between Prabhāvatī Guptā and the Vais.n. ava image/temple spoken of. The sixth syllable of pāda b is here read as thā; the curve inside the th is not visible, and the letter appears slightly damageḍPossible would also be the reading dhā, but we are unable to find a plausible restoration beginning with adhā,38 whereas with athā◦ there are a number of 
+In pāda a of verse 21 (fourth or ra-vipulā) the word prabhāvatisvāminam. 37 is an apposition to lokanātham in the following pāda, which obviously indi cates an immediate connexion between Prabhāvatī Guptā and the Vais.ṇava image/temple spoken of. The sixth syllable of pāda b is here read as thā; the curve inside the th is not visible, and the letter appears slightly damageḍPossible would also be the reading dhā, but we are unable to find a plausible restoration beginning with adhā,38 whereas with athā◦ there are a number of 
 
 36 utsavān is metrically impossible, as well as intrinsically unlikely here. 
 
@@ -3833,19 +3833,19 @@ In the first pāda of verse 25 (◦)pītakeśā ( nom. fem. sg.) must be another
 
 admittedly not found in dictionaries, so the intended sense could be ‘she who worships Narasim. ha’ or ‘she who had installed/caused to be made [an image of] Narasim. ha’ or something similar. 42 Finally, it is important to note that at the far right of the slab, well after where one would expect verse 25 to have ended, there appears to be an aks.ara, probably pā or bā. While this cannot of course add anything to our understanding of the content of the inscription, it is useful confirmation that there must have been three Slokas to the line in ´ lines 11–15, and that the inscription must originally have been broader yet. 
 
-Line 13 The verb of verse 27 has not been preserved, but the sense is prob ably that the daughter assigns half of the merit arising from some deed or rite to the gods, 43 and half to her parents. Pāda a is somewhat problematic; first of all one would expect arddham. to be construed with a genitive (pun. yasya). One would perhaps have also expected brahmārpitam. , but, though there seems to be a mark of some kind above the ligature rpp, we regard this as damage to the stone and do not think it warranted to read medial i. brahmārppan. am. must therefore be taken as an apposition to (arddham. ) pun. yam. . In pāda b there no doubt was a nom. fem. sg. qualifying or describing the princess who is the grammatical subject, which might have ended with, e.g. ◦śālinī. 
+Line 13 The verb of verse 27 has not been preserved, but the sense is prob ably that the daughter assigns half of the merit arising from some deed or rite to the gods, 43 and half to her parents. Pāda a is somewhat problematic; first of all one would expect arddham. to be construed with a genitive (puṇyasya). One would perhaps have also expected brahmārpitam. , but, though there seems to be a mark of some kind above the ligature rpp, we regard this as damage to the stone and do not think it warranted to read medial i. brahmārppaṇam. must therefore be taken as an apposition to (arddham. ) puṇyam. . In pāda b there no doubt was a nom. fem. sg. qualifying or describing the princess who is the grammatical subject, which might have ended with, e.g. ◦śālinī. 
 
-While the missing part of pāda c cannot of course be restored with certainty, one metrically correct and rather appealing possibility would be to read mātā pitr.bhyām arddham. ca (a third or ma-vipulā). In pāda d we suggest the reading (◦)kriyodbhavam; admittedly the sign for medial i cannot be seen, but the upper part of the character has in any case been completely destroyeḍThe low position of the arms of the k must be caused by the fact that another consonant sign was written above it, i.e. in ligature; this too however is no longer legible. From the point of view of sense, (◦)kriyodbhavam seems more satisfactory as an adjective of pun. yam than krayodbhavam (as read by Jamkhedkar) or vikrayo dbhavam. 
+While the missing part of pāda c cannot of course be restored with certainty, one metrically correct and rather appealing possibility would be to read mātā pitr.bhyām arddham. ca (a third or ma-vipulā). In pāda d we suggest the reading (◦)kriyodbhavam; admittedly the sign for medial i cannot be seen, but the upper part of the character has in any case been completely destroyeḍThe low position of the arms of the k must be caused by the fact that another consonant sign was written above it, i.e. in ligature; this too however is no longer legible. From the point of view of sense, (◦)kriyodbhavam seems more satisfactory as an adjective of puṇyam than krayodbhavam (as read by Jamkhedkar) or vikrayo dbhavam. 
 
-Of verse 28 one can do little more than to hazard the suggestion that it described the erection of a temple or the construction of a statue of a god, most probably Vis.n. u, described as ‘the cause of the sustenance and destruction of the world’. 44 The contents of pādas c and d remain a mystery. 
+Of verse 28 one can do little more than to hazard the suggestion that it described the erection of a temple or the construction of a statue of a god, most probably Vis.ṇu, described as ‘the cause of the sustenance and destruction of the world’. 44 The contents of pādas c and d remain a mystery. 
 
-Line 14 An important crux is presented by the gen. in pāda a of verse 30. The syllables 4 and 5 reading dayi practically only allow the word dayita (‘beloved’), which one would expect to be used exclusively for close relatives. This is in accordance with syllable 8 ◦tur, which may be a genitive of a nomen agentis or noun of relationship probably different from mātr. found in 30c. A 
+Line 14 An important crux is presented by the geṇin pāda a of verse 30. The syllables 4 and 5 reading dayi practically only allow the word dayita (‘beloved’), which one would expect to be used exclusively for close relatives. This is in accordance with syllable 8 ◦tur, which may be a genitive of a nomen agentis or noun of relationship probably different from mātr. found in 30c. A 
 
 42 MBh 7.173.22 gives harikeśa as an epithet of Siva. ´ 
 
 43 Less probably, to the brahmins. 
 
-44 The omission of ‘creation’ is probably merely due to metrical reasons; cf. e.g. MkP 78.53 (cf. Mārkpur. 81.53) in which Vis.n. u’s cosmic sleep is described as the cause of sustenance and dissolution of the world: viśveśvarīm. jagaddhātrīm. sthitisam. hārakārin.īm. | staumi nidrām. bhagavatīm. vis.n. or atulatejasah. k 
+44 The omission of ‘creation’ is probably merely due to metrical reasons; cf. e.g. MkP 78.53 (cf. Mārkpur. 81.53) in which Vis.ṇu’s cosmic sleep is described as the cause of sustenance and dissolution of the world: viśveśvarīm. jagaddhātrīm. sthitisam. hārakārin.īm. | staumi nidrām. bhagavatīm. vis.ṇor atulatejasah. k 
 
 
 
@@ -3853,7 +3853,7 @@ Line 14 An important crux is presented by the gen. in pāda a of verse 30. The s
 
 136 Hans T. Bakker & Harunaga Isaacson 
 
-metrically correct conjecture would be dayitādhātur: ‘of/for her beloved beget ter’. 45 In pāda b tam. must refer to the prāsāda of pāda a, despite the slight awkwardness of expression. Perhaps the temple, which we take to be one erected either by or in memory of the father of the princess, i.e. Rudrasena, was already mentioned before, in verse 29 which is lost. The sentiment ex pressed in pāda b is unusual, and, to the best of our knowledge, without a close parallel. While royal inscriptions occasionally refer to the transitoriness of life, wealth, etc., and the changeableness of the world, 46 so specific a remark as that found here, made in regard to a temple (in memory) of a father, 47 seems only possible if prompted by the actual observation that the temple had fallen into some decay. 
+metrically correct conjecture would be dayitādhātur: ‘of/for her beloved beget ter’. 45 In pāda b tam. must refer to the prāsāda of pāda a, despite the slight awkwardness of expressioṇPerhaps the temple, which we take to be one erected either by or in memory of the father of the princess, i.e. Rudrasena, was already mentioned before, in verse 29 which is lost. The sentiment ex pressed in pāda b is unusual, and, to the best of our knowledge, without a close parallel. While royal inscriptions occasionally refer to the transitoriness of life, wealth, etc., and the changeableness of the world, 46 so specific a remark as that found here, made in regard to a temple (in memory) of a father, 47 seems only possible if prompted by the actual observation that the temple had fallen into some decay. 
 
 Verse 30 contains no finite verb form, and probably formed a syntactic unit with verse 31. The latter probably spoke of the construction of another temple for the sake of the mother of the princess. 48 The fourth syllable of pāda a appears to be a ligature, with a ś or a g 49 partly visible at the bottom right. Also partly visible is what could be the sign for medial i above the character, though this seems a little smaller than is usual. cirāya in pāda b may be intended to contrast with vicintya tam aśāśvatam in 30b (cf. below, p. 144). 
 
@@ -3883,9 +3883,9 @@ as their prior member adverbs which are themselves indeclinable compounds with a
 
 Analysis and interpretation 
 
-As emerges from the above, very few things can be derived with certainty as to the content and purport of the inscription. Since it is found in a fifth century Vākāt.aka temple and contains a geneology featuring, and extending to, the children of Candragupta and Rudrasena (v. 9), it is certain however that the inscription belongs to the fifth century (a date which is also consistent with the palaeography), while the name Rudrasena and the name or title Prabhāvati svāmin (v. 21) indicate that we are concerned with a Vākāt.aka inscription, notwithstanding the fact that the dynastic name Vākāt.aka does not feature in the legible part of the text. Comparison with other Vākāt.aka inscriptions makes clear that it does not fall into the category of official royal edicts or land grants (śāsana), the structure and contents of which are very much standardized and completely different from the text under discussion. Rather, the inscription seems to report events that are related to some subordinate member of the royal family and as such is without parallel. The interpretation ventured below, in spite of all uncertainties, can claim no more than to be the most plausible hypothesis that the authors could think of. 
+As emerges from the above, very few things can be derived with certainty as to the content and purport of the inscriptioṇSince it is found in a fifth century Vākāt.aka temple and contains a geneology featuring, and extending to, the children of Candragupta and Rudrasena (v. 9), it is certain however that the inscription belongs to the fifth century (a date which is also consistent with the palaeography), while the name Rudrasena and the name or title Prabhāvati svāmin (v. 21) indicate that we are concerned with a Vākāt.aka inscription, notwithstanding the fact that the dynastic name Vākāt.aka does not feature in the legible part of the text. Comparison with other Vākāt.aka inscriptions makes clear that it does not fall into the category of official royal edicts or land grants (śāsana), the structure and contents of which are very much standardized and completely different from the text under discussioṇRather, the inscription seems to report events that are related to some subordinate member of the royal family and as such is without parallel. The interpretation ventured below, in spite of all uncertainties, can claim no more than to be the most plausible hypothesis that the authors could think of. 
 
-Verse 9 tells us that Candragupta gave ‘that daughter’ (sutām. tām. ) to Rudra sena and this agrees with the well-known historical fact that the Gupta emperor gave his daughter Prabhāvatī in marriage to the Vākāt.aka king Rudrasena II in the eighth or ninth decade of the fourth century aḍWhat tends to dis turb this interpretation, is the fact that two, possibly three verses earlier a ‘daughter’ (tanayā) is mentioned, the name of whom seems to end in ◦mun. d. ā, which could yield Cāmun. d. ā or Gomun. d. ā, names not known from any other Vākāt.aka or Gupta inscription (v. 7). Family or tribal names ending in Mun. ḍa are known from some seals found in Basarh (Vaiśālī) and Patna (Pāt.aliputra), 51 
+Verse 9 tells us that Candragupta gave ‘that daughter’ (sutām. tām. ) to Rudra sena and this agrees with the well-known historical fact that the Gupta emperor gave his daughter Prabhāvatī in marriage to the Vākāt.aka king Rudrasena II in the eighth or ninth decade of the fourth century aḍWhat tends to dis turb this interpretation, is the fact that two, possibly three verses earlier a ‘daughter’ (tanayā) is mentioned, the name of whom seems to end in ◦muṇd. ā, which could yield Cāmuṇd. ā or Gomuṇd. ā, names not known from any other Vākāt.aka or Gupta inscription (v. 7). Family or tribal names ending in Mun. ḍa are known from some seals found in Basarh (Vaiśālī) and Patna (Pāt.aliputra), 51 
 
 50 Cf. e.g. CII V, 13 (1. 28) (ācandrādityakālīya). Of course such compounds, though rather rare, also occur in the classical works of Sanskrit literature; cf. e.g. Raghuvam. śa 1.5. 51 T. Bloch (ASI Annual Report (ASIAR) 1903–04, 113, 116) reports two seals dating from 
 
@@ -3899,11 +3899,11 @@ the Gupta period found in Basarh with the legend ‘Gomun. ḍaka’. Thaplyal (
 
 138 Hans T. Bakker & Harunaga Isaacson 
 
-but Prabhāvatī Guptā in her own inscriptions claims descent from a Nāga lin eage through her mother Kuberanāgā. 52 The daughter named [ ˘ ]mun. d. ā, is praised as resembling the lustre of the moon (candramasah¸ prabheva), an ap posite pun if the daughter of Candragupta were meant. 53 However this may be, in view of the sutām. tām. in 9c, it is certain that the daughter known as Prabhāvatī has been mentioned somewhere before verse 9. 54 
+but Prabhāvatī Guptā in her own inscriptions claims descent from a Nāga lin eage through her mother Kuberanāgā. 52 The daughter named [ ˘ ]muṇd. ā, is praised as resembling the lustre of the moon (candramasah¸ prabheva), an ap posite pun if the daughter of Candragupta were meant. 53 However this may be, in view of the sutām. tām. in 9c, it is certain that the daughter known as Prabhāvatī has been mentioned somewhere before verse 9. 54 
 
 Likewise, the way Candragupta is mentioned in 9b (sa candraguptah¸) im plies that he had been mentioned in an earlier verse. This probably was before verse 7, since the initial tayoh¯ of 7a entails that members of two families had already been introduced: 1) a young girl who ‘grew up like a flame of a fire in which abundant ghee has been poured’ (v. 5); 2) her (future) husband whose lineage may well have been described from v. 2 onwards, the first member be ing qualified as ◦rājars.i. A similar qualification (rājādhirājars.i) was given to Candragupta II in the Udayagiri Cave inscription by his minister Vīrasena (CII III (1888), 35 (1. 3)). The description in verses 3 and 4 suits the Gupta dy nasty well. The imperial status ensues from the tribute (bali) paid by other kings, whereas the rule is said to extend to the edge of the ocean, which has also been said of Candragupta II in the Tumain inscription. 55 The title at tributed to Candragupta in verse 9, ‘Lord of the Three Oceans’, is noteworthy in view of the Poona Plates of Prabhāvatī Guptā (CII V, 7 (l. 5)) where he is furnished with an honorific title generally given to his father Samudragupta, viz. caturudadhisalilāsvāditayaśas (‘whose fame has tasted the waters of the four oceans’). 56 A.M. Shastri argues that the title ‘Lord of the Three Oceans’ is ‘pertinent only in South Indian context’ 57 and ‘indicative of the tremendous 
 
-Mahārāja Svāmidāsa (Kalacuri year 67 = ad 317) a śān. d.ilyasagotramun. ḍabrāhman. a is mentioned (CII IV, 7 (1. 3)). An inscription dating from the 5th regnal year of Rudrasena II is reported by Shastri (1987, 46-8) to have been recently found in Mandhal. According to Shastri it records the erection of a Vis.n. u temple dedicated to Mondasvāmin. One wonders whether there could be a connexion between ◦mun. ḍa and ‘monda’. To be certain we have to wait for the publication of the text. A detailed treatment of this issue will be found in Bakker 2010d, 467–69 (below, pp. 326 ff.). 
+Mahārāja Svāmidāsa (Kalacuri year 67 = ad 317) a śāṇd.ilyasagotramun. ḍabrāhmaṇa is mentioned (CII IV, 7 (1. 3)). An inscription dating from the 5th regnal year of Rudrasena II is reported by Shastri (1987, 46-8) to have been recently found in Mandhal. According to Shastri it records the erection of a Vis.ṇu temple dedicated to MondasvāmiṇOne wonders whether there could be a connexion between ◦mun. ḍa and ‘monda’. To be certain we have to wait for the publication of the text. A detailed treatment of this issue will be found in Bakker 2010d, 467–69 (below, pp. 326 ff.). 
 
 52 CII V, 7 (ll. 7-8) (Poona Plates), 36 (ll. 7-8) (R. ddhipur Plates). 
 
@@ -3915,7 +3915,7 @@ Mahārāja Svāmidāsa (Kalacuri year 67 = ad 317) a śān. d.ilyasagotramun. �
 
 56 CII III (1888), 26 (l. 2), 43 (l. 1), 49 (l. 15), 53 (l. 1), 256 (l. 2). The same epithet in CII IV, 41, (l. 10), 169 (ll. 5–6). A similar expression (catuh. samudraparyantaprathitayaśas) is found in CII III (1888), 89 l 7), 160 (l. 5). Cf. also catussamudrātikkrāntakīrttih. in CII III (1888), 220 (l. 1). 
 
-57 A similar epithet, tisamudatoyapītavāhanasa, found in the Nasik inscription, is given to the Sātavāhana king Gautamīputra Sātakarn. i (SI I, 204 (l. 3)). Sircar (SI I, 203, n. 4) 
+57 A similar epithet, tisamudatoyapītavāhanasa, found in the Nasik inscription, is given to the Sātavāhana king Gautamīputra Sātakarṇi (SI I, 204 (l. 3)). Sircar (SI I, 203, n. 4) 
 
 
 
@@ -3927,13 +3927,13 @@ Mahārāja Svāmidāsa (Kalacuri year 67 = ad 317) a śān. d.ilyasagotramun. �
 
 influence verging on political hegemony wielded by Candragupta II over a large part of the Deccan’ (Shastri 1987, 69). 
 
-The marriage out of which the ‘moon-like’ princess named [ ˘ ]mun. d. ā was born in addition to a number of famous and virtuous elder princes (v. 7) must have been mentioned in verse 6 or, if we add one more verse to every line (see above, p. 116), in the verse directly following it (v. 6*). The comparison of the princess named [ ˘ ]mun. d. ā with the lustre (prabhā) of the moon and of her mother with a ‘flaming fire’ make it conceivable that [ ˘ ]mun. d. ā was a maiden name that became substituted by the more illustrious ‘Prabhāvatī’. 
+The marriage out of which the ‘moon-like’ princess named [ ˘ ]muṇd. ā was born in addition to a number of famous and virtuous elder princes (v. 7) must have been mentioned in verse 6 or, if we add one more verse to every line (see above, p. 116), in the verse directly following it (v. 6*). The comparison of the princess named [ ˘ ]muṇd. ā with the lustre (prabhā) of the moon and of her mother with a ‘flaming fire’ make it conceivable that [ ˘ ]muṇd. ā was a maiden name that became substituted by the more illustrious ‘Prabhāvatī’. 
 
 The Vākāt.aka dynasty, i.e. Rudrasena, must have been introduced in verse 8, or possibly in 8*. And just as the offspring was mentioned directly after the description of the marriage in verse 6 or 6*, the offspring of Rudrasena’s marriage with Prabhāvatī might have been mentioned in the following verse 10. 
 
-To summarize our analysis of the first ten (partly) legible verses, we would venture the hypothesis that after an introductory verse in Pus.pitāgrā metre eulogizing a deity, probably Vis.n. u, verses 2 to 4 relate to the Gupta dynasty, in particular to Candragupta II, whereas in the second half of verse 4 and possibly in 4* another family is introduced in which a ’flame-like’ daughter was born, who in verse 6 (or 6*) was married to Candragupta II. Among the offspring of this couple is a ‘moon-like’ girl named [ ˘ ]mun. d. ā, who might have been no other than Prabhāvatī Guptā. Verse 8 (or possibly 8*) may then have introduced a third lineage, viz. that of the Vākāt.akas, in particular its king Rudrasena II, to whom Candragupta gave his daughter in marriage, the offspring of that marriage being mentioned in verse 10. 
+To summarize our analysis of the first ten (partly) legible verses, we would venture the hypothesis that after an introductory verse in Pus.pitāgrā metre eulogizing a deity, probably Vis.ṇu, verses 2 to 4 relate to the Gupta dynasty, in particular to Candragupta II, whereas in the second half of verse 4 and possibly in 4* another family is introduced in which a ’flame-like’ daughter was born, who in verse 6 (or 6*) was married to Candragupta II. Among the offspring of this couple is a ‘moon-like’ girl named [ ˘ ]muṇd. ā, who might have been no other than Prabhāvatī Guptā. Verse 8 (or possibly 8*) may then have introduced a third lineage, viz. that of the Vākāt.akas, in particular its king Rudrasena II, to whom Candragupta gave his daughter in marriage, the offspring of that marriage being mentioned in verse 10. 
 
-Verse 11 refers to a powerful (supuṅgava) king mentioned earlier. His name might possibly have re-occurred in verse 10* and may be inferred from the name of the son that was born to him, Ghat.otkaca (11d ). Considering the fact that he occurs in the middle of the inscription it is unlikely that the legendary Ghat.otkaca Gupta, son of Srīgupta and father of Candragupta I, ´ known from the Gupta genealogies, is meant. Rather it would seem, that we are here concerned with the same Ghat.otkaca who is known from the Tumain Inscription, who was ‘of perpetual good character and fame’, who ‘attained the glory of his ancestors, won by (the prowess of his) arms’, 58 and who descended from Candragupta II, but of whom the fragmentary state of that inscription does not allow us to specify whether he was his son or grandson. 59 The present context suggests that this Ghat.otkaca was a later son of Candragupta II, born after several princes and the daughter [ ˘ ]mun. d. ā/Prabhāvatī (v. 7). The phrase describing his father ‘who was like a beast of burden, [carrying] the entire 
+Verse 11 refers to a powerful (supuṅgava) king mentioned earlier. His name might possibly have re-occurred in verse 10* and may be inferred from the name of the son that was born to him, Ghat.otkaca (11d ). Considering the fact that he occurs in the middle of the inscription it is unlikely that the legendary Ghat.otkaca Gupta, son of Srīgupta and father of Candragupta I, ´ known from the Gupta genealogies, is meant. Rather it would seem, that we are here concerned with the same Ghat.otkaca who is known from the Tumain Inscription, who was ‘of perpetual good character and fame’, who ‘attained the glory of his ancestors, won by (the prowess of his) arms’, 58 and who descended from Candragupta II, but of whom the fragmentary state of that inscription does not allow us to specify whether he was his son or grandson. 59 The present context suggests that this Ghat.otkaca was a later son of Candragupta II, born after several princes and the daughter [ ˘ ]muṇd. ā/Prabhāvatī (v. 7). The phrase describing his father ‘who was like a beast of burden, [carrying] the entire 
 
 raises the possibility that the epithet may be connected with a digvijaya. Cf. Hars.acarita 82 (l. 22): trisamudrādhipataye sātavāhananāmne narendrāya. 
 
@@ -3947,17 +3947,17 @@ raises the possibility that the epithet may be connected with a digvijaya. Cf. H
 
 140 Hans T. Bakker & Harunaga Isaacson 
 
-burden of (his) kingdom, which was difficult to bear’ (11ab), may point towards the end of Candragupta’s reign. On the basis of the Tumain inscription we may say that Ghat.otkaca ruled as viceroy in eastern Malwa at the time that Kumāragupta held the imperial office (ad 435–36). 60 There might not therefore have been too great a difference in age between the children of Rudrasena and Prabhāvatī on the one hand, and their maternal uncle, Ghat.otkaca, on the other. This observation may serve as a clue for the interpretation of one of the key verses of the inscription, verse 13. 
+burden of (his) kingdom, which was difficult to bear’ (11ab), may point towards the end of Candragupta’s reigṇOn the basis of the Tumain inscription we may say that Ghat.otkaca ruled as viceroy in eastern Malwa at the time that Kumāragupta held the imperial office (ad 435–36). 60 There might not therefore have been too great a difference in age between the children of Rudrasena and Prabhāvatī on the one hand, and their maternal uncle, Ghat.otkaca, on the other. This observation may serve as a clue for the interpretation of one of the key verses of the inscription, verse 13. 
 
-Verse 12 may have said more of Ghat.otkaca and then, possibly in 12*, his sister’s daughter (bhāgineyī) may have been reintroduced (as the initial tām of 13a seems to suggest), whom the viceroy (rājarāja) is said, not to have ‘con soled’ as Jamkhedkar paraphrases (1987b, 221), but to have actually married (pān. igrahan. am. cakāra), impressed as he was with her Laks.mī-like qualities. 
+Verse 12 may have said more of Ghat.otkaca and then, possibly in 12*, his sister’s daughter (bhāgineyī) may have been reintroduced (as the initial tām of 13a seems to suggest), whom the viceroy (rājarāja) is said, not to have ‘con soled’ as Jamkhedkar paraphrases (1987b, 221), but to have actually married (pāṇigrahaṇam. cakāra), impressed as he was with her Laks.mī-like qualities. 
 
-If our interpretation is correct so far, this niece can have been no other than the daughter born from the marriage between the Vākāt.aka king Rudrasena and his Gupta wife Prabhāvatī. She might have been mentioned in verse 10, and one wonders whether the conjectured reading atibhāvatī (‘of extreme lustre’) in verse 24d could be her personal name. 61 Actually, bhāgineyī may here stand for half-niece, since, more likely than not, Ghat.otkaca and Prabhāvatī had been born of different mothers. Nevertheless this matrimony is at odds with the majority of the Smr.ti texts which prohibit intermarriage of cognates in the second remove. The present case, however, corroborates Kane’s (II, 467) observation to the effect that ‘a very striking instance of the limits of sapin. ḍa relationship not being observed is the practice among certain sections of even brāhman. a marrying their own sister’s daughter’. After the alliance between the Guptas and the Vākāt.akas had first been sealed by the marrying-off of Prabhāvatī, the latter may have wished to confirm the friendship by giving her own daughter in marriage to her (half-)brother (see Fig. 1). 62 
+If our interpretation is correct so far, this niece can have been no other than the daughter born from the marriage between the Vākāt.aka king Rudrasena and his Gupta wife Prabhāvatī. She might have been mentioned in verse 10, and one wonders whether the conjectured reading atibhāvatī (‘of extreme lustre’) in verse 24d could be her personal name. 61 Actually, bhāgineyī may here stand for half-niece, since, more likely than not, Ghat.otkaca and Prabhāvatī had been born of different mothers. Nevertheless this matrimony is at odds with the majority of the Smr.ti texts which prohibit intermarriage of cognates in the second remove. The present case, however, corroborates Kane’s (II, 467) observation to the effect that ‘a very striking instance of the limits of sapin. ḍa relationship not being observed is the practice among certain sections of even brāhmaṇa marrying their own sister’s daughter’. After the alliance between the Guptas and the Vākāt.akas had first been sealed by the marrying-off of Prabhāvatī, the latter may have wished to confirm the friendship by giving her own daughter in marriage to her (half-)brother (see Fig. 1). 62 
 
 The following verses (14–16) seem to tell us what a good husband this Vākāt.aka princess marrieḍThen, at a certain time (kadācit), something hap 
 
 60 Thaplyal 1972, 66 (cf. Bloch in ASIAR 1903–04, 107), among other scholars, argues in favour of the identify of Ghat.otkaca of the Tumain inscription with the Ghat.otkacagupta of the sealing of Basarh. As to his possible identity with the ‘issuer of the [gold] coin in the St. Petersburg collection which bears on the obverse the word Ghat.o beneath the king’s arm and the marginal legend ending in (gu)pta(h. ) [and] on the reverse the legend kramādityah.’, Thaplyal is more reserved and numismatists appear divided on the issue. 
 
-61 Names to which ati is prefixed or in which ati replaces another prefix are relatively infrequent, but for an example in a Vākāt.aka inscription see CII V, 125 (l. 7), where the wife of Kr.s.n. adāsa is said to have been named Aticandrā (following Mirashi’s reading: B¨uhler had previously read Sucandrā); unfortunately the name of her father/mother is lost. Such names appear to be most usually given to younger brothers (or sisters), e.g., Māyā – Atimāyā (Mahāvastu I, 355), Sudānta – Atidānta (PPL p. 456, v. 38), Datta – Atidatta (PPL p. 455, v. 34), Sulkagulma – Atigulma (PPL p. 459, v. 56 ´ 2), Gan. ḍa – Atigan. ḍa (BrP 165.29), Gambhīrā – Atigambhīrā (BrP 147.11), Balā – Atibalā (Rām. 3.12.12, Crit. App.). 
+61 Names to which ati is prefixed or in which ati replaces another prefix are relatively infrequent, but for an example in a Vākāt.aka inscription see CII V, 125 (l. 7), where the wife of Kr.s.ṇadāsa is said to have been named Aticandrā (following Mirashi’s reading: B¨uhler had previously read Sucandrā); unfortunately the name of her father/mother is lost. Such names appear to be most usually given to younger brothers (or sisters), e.g., Māyā – Atimāyā (Mahāvastu I, 355), Sudānta – Atidānta (PPL p. 456, v. 38), Datta – Atidatta (PPL p. 455, v. 34), Sulkagulma – Atigulma (PPL p. 459, v. 56 ´ 2), Gan. ḍa – Atigan. ḍa (BrP 165.29), Gambhīrā – Atigambhīrā (BrP 147.11), Balā – Atibalā (Rām. 3.12.12, Crit. App.). 
 
 62 Cf. Majumdar & Altekar 1967, 169 f. 
 
@@ -3989,9 +3989,9 @@ The residence to which the princess was taken would probably have been in Pravar
 
 the eastern Vākāt.aka kingdom was overrun by the Nalas in the last decade of the fifth century, the victorious king Bhavadattavarman issued a charter from Nandivardhana—rather odd if that place had been deserted as capital for already over half a century. 67 Pravarapura, on the other hand, was never mentioned again after the death of Pravarasena II. It is therefore quite con ceivable that Pravarasena merely had his capital Nandivardhana renamed for the sake of his own glory (the first inscription issued from Pravarapura dates from his 16th regnal year, when Prabhāvatī was still alive and issuing char ters from Rāmagiri). 68 The princess might thus have been brought back to 
 
-67 EI XIX, 102. There is uncertainty and hence controversy regarding these kings of the Nala dynasty. The grant recorded in the charter of Mahārāja Bhavattavarman (prakritism for Bhavadattavarman) was made during a pilgrimage of him and his wife to Prayāga, but it was issued from Nandivardhana. The date of the charter (7th of the dark half of Kārttika in the 11th regnal year) seems to correspond with the time the king himself, being in Prayāga, instructed his officer Culla to write it down in pri vate (svamukhāj˜n(a)yābhilikhit(ā) rahasi niyukte(n)a cullena). The charter was (later) engraved on a copperplate by a Mahārāja Arthapati Bhat.t.āraka, who was ‘favoured by the grace of his grandfather’s feet’ (āryakapādaprasādānugr.hītena), ‘for the sake of the increase in merit and fame of his father and mother’ (mātāpitroh. pun. yakīrtti vardhana◦). These copperplates were found in Rithapur along with those of Prabhāvatī Guptā. From the Poḍagaḍh Inscription (EI XXI, 155 f.) we know that Bhavadatta’s son [Skanda]varman recovered the lost (bhras.t.ā) royal fortune of his family and repopu lated the capital Pus.karī. The father of Mahārāja Arthapati might therefore have been [Skanda]varman, who was dead at the time his son published the grant of his grand father. The expression āryakapādaprasādānugr.hītena probably served to authorize this deeḍThat king Arthapati reigned after [Skanda]varman also seems to follow from the Kesaribeda Inscription (EI XXVIII, 12) dating from his 7th regnal year, which was issued from the capital Pus.karī (cf. Sircar in HCI III, 188 f.). From this epigraphical ev idence we may deduce that the Nala king Bhavadattavarman conquered Nandivardhana of the Vākāt.akas, but soon afterwards was defeated and his own capital destroyeḍHis son [Skanda]varman succeeded in restoring the power of the dynasty, at least in its traditional homelanḍHis successor, Arthapati, proclaimed his grandfather’s glory as conqueror of the eastern Vākāt.aka realm. If Sircar is right in dating the Rithapur Plates of Bhavadattavarman ‘on grounds of palaeography to the first half of the sixth century’, this would place Bhavadattavarman’s conquest of Nandivardhana at the end of the fifth century. Only two generations later, at the time that the Vākāt.aka power had collapsed completely, Bhavadattavarman’s grandson could publish his grandfather’s grant. This could well imply that the Nalas had again taken possession of Nandivardhana in the first half of the sixth century (Sircar in HCI III, 190). When they finally met defeat at the hands of the early Cālukyas (Kīrtivarman I, c. ad 566–97), their role of suzerain of Vidarbha might have been taken over by the Kalacuris, whose feudatory Svāmirāja ruled in Nandivardhana in ad 573, according to an inscription dated in Kalacuri Sam. vat 322 (EI XXVIII, 8). 
+67 EI XIX, 102. There is uncertainty and hence controversy regarding these kings of the Nala dynasty. The grant recorded in the charter of Mahārāja Bhavattavarman (prakritism for Bhavadattavarman) was made during a pilgrimage of him and his wife to Prayāga, but it was issued from Nandivardhana. The date of the charter (7th of the dark half of Kārttika in the 11th regnal year) seems to correspond with the time the king himself, being in Prayāga, instructed his officer Culla to write it down in pri vate (svamukhāj˜n(a)yābhilikhit(ā) rahasi niyukte(n)a cullena). The charter was (later) engraved on a copperplate by a Mahārāja Arthapati Bhat.t.āraka, who was ‘favoured by the grace of his grandfather’s feet’ (āryakapādaprasādānugr.hītena), ‘for the sake of the increase in merit and fame of his father and mother’ (mātāpitroh. puṇyakīrtti vardhana◦). These copperplates were found in Rithapur along with those of Prabhāvatī Guptā. From the Poḍagaḍh Inscription (EI XXI, 155 f.) we know that Bhavadatta’s son [Skanda]varman recovered the lost (bhras.t.ā) royal fortune of his family and repopu lated the capital Pus.karī. The father of Mahārāja Arthapati might therefore have been [Skanda]varman, who was dead at the time his son published the grant of his grand father. The expression āryakapādaprasādānugr.hītena probably served to authorize this deeḍThat king Arthapati reigned after [Skanda]varman also seems to follow from the Kesaribeda Inscription (EI XXVIII, 12) dating from his 7th regnal year, which was issued from the capital Pus.karī (cf. Sircar in HCI III, 188 f.). From this epigraphical ev idence we may deduce that the Nala king Bhavadattavarman conquered Nandivardhana of the Vākāt.akas, but soon afterwards was defeated and his own capital destroyeḍHis son [Skanda]varman succeeded in restoring the power of the dynasty, at least in its traditional homelanḍHis successor, Arthapati, proclaimed his grandfather’s glory as conqueror of the eastern Vākāt.aka realm. If Sircar is right in dating the Rithapur Plates of Bhavadattavarman ‘on grounds of palaeography to the first half of the sixth century’, this would place Bhavadattavarman’s conquest of Nandivardhana at the end of the fifth century. Only two generations later, at the time that the Vākāt.aka power had collapsed completely, Bhavadattavarman’s grandson could publish his grandfather’s grant. This could well imply that the Nalas had again taken possession of Nandivardhana in the first half of the sixth century (Sircar in HCI III, 190). When they finally met defeat at the hands of the early Cālukyas (Kīrtivarman I, c. ad 566–97), their role of suzerain of Vidarbha might have been taken over by the Kalacuris, whose feudatory Svāmirāja ruled in Nandivardhana in ad 573, according to an inscription dated in Kalacuri Sam. vat 322 (EI XXVIII, 8). 
 
-68 CII V, 35; Shastri 1987, 51 f. His grandson Pr.thivīs.en. a II issued charters from various places including Rāmagiri (Shastri 1977–78, 142: Mandhal Plates of his second regnal year). In this connexion it is striking to find that Pr.thivīs.en. a II ’s Māhurjharī Plates (dating from his 17th regnal year) were issued from ‘Pr.thivīsamudra’ for the sake of two inhabitants of Pr.thivīpura. Kolte 1971–72, 67 ff. thinks that Pr.thivīsamudra and Pr.thivīpura refer to one and the same place, viz. the capital of Pr.thivīs.en. a, and he assumes that the capital had been shifted again from Pravarapura. Kolte (1971–72) proposes to identify this ‘third capital’ with the modern village of Samudrapura in the 
+68 CII V, 35; Shastri 1987, 51 f. His grandson Pr.thivīs.eṇa II issued charters from various places including Rāmagiri (Shastri 1977–78, 142: Mandhal Plates of his second regnal year). In this connexion it is striking to find that Pr.thivīs.eṇa II ’s Māhurjharī Plates (dating from his 17th regnal year) were issued from ‘Pr.thivīsamudra’ for the sake of two inhabitants of Pr.thivīpura. Kolte 1971–72, 67 ff. thinks that Pr.thivīsamudra and Pr.thivīpura refer to one and the same place, viz. the capital of Pr.thivīs.eṇa, and he assumes that the capital had been shifted again from Pravarapura. Kolte (1971–72) proposes to identify this ‘third capital’ with the modern village of Samudrapura in the 
 
 
 
@@ -4005,11 +4005,11 @@ Nandivardhana or Pravarapura, in the vicinity of the temple on the Rāmagiri in 
 
 Back in her ancestral home, perhaps against her will (note samānām in 17c), the unlucky (widowed) princess (manujendraputrī, 19a) threw herself into charitable and pious activity (verse 19), recorded in verses 21–32 in Sloka metre. ´ 
 
-The princess, ‘free of sins’ (30d), and ‘of extreme lustre’ (24d, see above, p. 140) ‘caused to be made the Lord of the Earth’, i.e. an image of Vis.n. u, named ‘Master of Prabhāvatī’, in recognition of her mother’s devotion to that god (21a). Prabhāvatī in her own inscriptions used to refer to the main deity of the hill as Rāmagirisvāmin (CII V, 35; Shastri 1987, 51). Apparently the image installed is the same as the fifth-century Narasim. ha image of the temple in which the inscription is found, however explicit references to that incarnation are not found in the legible part of the inscription, unless pītakeśā (‘whose hair is yellow’) in verse 25a somehow would refer to him. 69 
+The princess, ‘free of sins’ (30d), and ‘of extreme lustre’ (24d, see above, p. 140) ‘caused to be made the Lord of the Earth’, i.e. an image of Vis.ṇu, named ‘Master of Prabhāvatī’, in recognition of her mother’s devotion to that god (21a). Prabhāvatī in her own inscriptions used to refer to the main deity of the hill as Rāmagirisvāmin (CII V, 35; Shastri 1987, 51). Apparently the image installed is the same as the fifth-century Narasim. ha image of the temple in which the inscription is found, however explicit references to that incarnation are not found in the legible part of the inscription, unless pītakeśā (‘whose hair is yellow’) in verse 25a somehow would refer to him. 69 
 
-Another temple (prāsādam. ), the deity of which being possibly described in verse 28 as ‘of infinite might, the cause of destruction and preservation of the world’, is mentioned in verse 30. If we are correct in restoring dayitādhātur (see above, p. 135), we are concerned with a temple of/for the beloved father of the princess (i.e. Rudrasena), of which the transitoriness is realizeḍIt has been argued in Bakker (1992b, 12) that the (older) Rudra–Narasim. ha Temple, which stands next to the so-called Kevala–Narasim. ha Temple in which the inscription is found, may have been built in commemoration of Rudrasena in the first part of the fifth century for the sake of his merit (pun. ya). It seems plausible that the main clause in verse 31 contains a reference to the stone (śilā◦) temple that housed the present inscription, built by the princess in emulation of the older Narasim. ha Temple, exclusively (eva) for the sake of her mother’s merit. 70 
+Another temple (prāsādam. ), the deity of which being possibly described in verse 28 as ‘of infinite might, the cause of destruction and preservation of the world’, is mentioned in verse 30. If we are correct in restoring dayitādhātur (see above, p. 135), we are concerned with a temple of/for the beloved father of the princess (i.e. Rudrasena), of which the transitoriness is realizeḍIt has been argued in Bakker (1992b, 12) that the (older) Rudra–Narasim. ha Temple, which stands next to the so-called Kevala–Narasim. ha Temple in which the inscription is found, may have been built in commemoration of Rudrasena in the first part of the fifth century for the sake of his merit (puṇya). It seems plausible that the main clause in verse 31 contains a reference to the stone (śilā◦) temple that housed the present inscription, built by the princess in emulation of the older Narasim. ha Temple, exclusively (eva) for the sake of her mother’s merit. 70 
 
-Hinganghat Taluq of the Wardha District. This is rejected by Shastri (1987, 63) who states: ‘Māhurjharī itself has a strong case for identification with Pr.thivīsamudra. It has even now a large water-reservoir which could be figuratively called samudra. It may have been in existence at the time of Pr.thivīs.en. a or may have been excavated and named/renamed by him after himself. The township adjoining it also may have been named similarly.’ (Italics ours). As we shall discuss below, the present inscription records the building of a water reservoir (Sudarśana) near Nandivardhana. Is it not more plausible to assume that, instead of ever shifting their capital, the Vākāt.aka kings of Nandivardhana, when at the height of their power, simply renamed it after themselves in triumph? Renaming is definitely easier than shifting. The argument advanced by Shastri (1987, 64) to explain why the present name of the village is Māhurjharī and not a derivative of Pr.thivīpura, viz. ‘that more often than not older names persist and survive new names’, would equally apply to Nandivardhana, which the conqueror Bhava dattavarman for obvious reasons did not want to call Pravarapura or Pr.thivīpura. 
+Hinganghat Taluq of the Wardha District. This is rejected by Shastri (1987, 63) who states: ‘Māhurjharī itself has a strong case for identification with Pr.thivīsamudra. It has even now a large water-reservoir which could be figuratively called samudra. It may have been in existence at the time of Pr.thivīs.eṇa or may have been excavated and named/renamed by him after himself. The township adjoining it also may have been named similarly.’ (Italics ours). As we shall discuss below, the present inscription records the building of a water reservoir (Sudarśana) near Nandivardhana. Is it not more plausible to assume that, instead of ever shifting their capital, the Vākāt.aka kings of Nandivardhana, when at the height of their power, simply renamed it after themselves in triumph? Renaming is definitely easier than shifting. The argument advanced by Shastri (1987, 64) to explain why the present name of the village is Māhurjharī and not a derivative of Pr.thivīpura, viz. ‘that more often than not older names persist and survive new names’, would equally apply to Nandivardhana, which the conqueror Bhava dattavarman for obvious reasons did not want to call Pravarapura or Pr.thivīpura. 
 
 Excavations at Mansar, c. 6 km northwest of Nagardhan/Nandivardhana, have shed new light on this issue. For the identity of Pravarapura with the archaeological site in Mansar see Bakker 2010d, below, pp. 331 ff. (cf. Bakker 1997, 5; Bakker 2008). 
 
@@ -4027,9 +4027,9 @@ Excavations at Mansar, c. 6 km northwest of Nagardhan/Nandivardhana, have shed n
 
 Hence the appropriate designation of its image as Prabhāvatisvāmin (21a). The word cirāya (31b) may indicate that the princess, aware of the dilapidation of the older Narasim. ha temple, wished this new temple for her mother to be (more) durable. 
 
-In addition to the erection of a temple and installation of an image of Vis.n. u (on the Rāmagiri Hill itself), the inscription specifies constructions in the village Kadalīvāt.aka (‘Plantain Park’) (v. 24), which, in all probability, is identical with modern Kelāpur, 2 km north of Ramtek Hill. Of the village Kelāpur very little remains today, since it is situated in the basin (nālā) of the rivulet Sura, which is flooded in the rainy season. 71 The Sura flows into the artificial Khindsi Lake or Rām Sāgar a little to the east. This artificial lake, which laps at the northern and eastern foot of the Ramtek Hill, may be the modern successor of the old Sudarśana reservoir (tad. āga) mentioned in verse 24 (see below, n. 72 on p. 145). The tradition to name storage reservoirs Sudarśana is summarized by Kolte (1965, 377): 
+In addition to the erection of a temple and installation of an image of Vis.ṇu (on the Rāmagiri Hill itself), the inscription specifies constructions in the village Kadalīvāt.aka (‘Plantain Park’) (v. 24), which, in all probability, is identical with modern Kelāpur, 2 km north of Ramtek Hill. Of the village Kelāpur very little remains today, since it is situated in the basin (nālā) of the rivulet Sura, which is flooded in the rainy season. 71 The Sura flows into the artificial Khindsi Lake or Rām Sāgar a little to the east. This artificial lake, which laps at the northern and eastern foot of the Ramtek Hill, may be the modern successor of the old Sudarśana reservoir (tad. āga) mentioned in verse 24 (see below, n. 72 on p. 145). The tradition to name storage reservoirs Sudarśana is summarized by Kolte (1965, 377): 
 
-It was the duty of the kings to construct lakes, dig wells, etc. In the Gunda inscrip tion (Saka 103) of the time of the ´ Saka Ks ´ .atrapa Rudrasim. ha I, we come across a mention of such a construction (vāpī khānitā-bandhāpitā (sic) ca sarvvasattvānām. hitasukhārtham iti) (SI I, 182). The lakes were generally named as Sudarśana, Priyadarśana, etc. One Pus.yagupta, a Rās.t.riya of Candragupta Maurya, had con structed a lake at Junagarh (i.e. Girinagara) which he had named as Sudarśana (SI I, 176; EI VIII, 42: idam. tad. ākam. sudarśanam. girinagarād). [. . . ] Many a time the Sudarśana Lake at Junagarh was washed away by flood and therefore had to be repaired again and again. Pus.yagupta had constructed it originally (SI I, 171). Then the Yavana king Tus.āspha rebuilt it for Aśoka. Afterwards during Gupta Sam. vat 136–38 (i.e. Saka 377–79) it was again rebuilt by Cakrapālita, the son of ´ Parn. adatta, who was the governor appointed by Skandagupta. It was just at this time (i.e. in Saka 380) that Svāmilladeva constructed the lake near Washim and ´ probably it was therefore that it was named Sudarśana. 
+It was the duty of the kings to construct lakes, dig wells, etc. In the Gunda inscrip tion (Saka 103) of the time of the ´ Saka Ks ´ .atrapa Rudrasim. ha I, we come across a mention of such a construction (vāpī khānitā-bandhāpitā (sic) ca sarvvasattvānām. hitasukhārtham iti) (SI I, 182). The lakes were generally named as Sudarśana, Priyadarśana, etc. One Pus.yagupta, a Rās.t.riya of Candragupta Maurya, had con structed a lake at Junagarh (i.e. Girinagara) which he had named as Sudarśana (SI I, 176; EI VIII, 42: idam. tad. ākam. sudarśanam. girinagarād). [. . . ] Many a time the Sudarśana Lake at Junagarh was washed away by flood and therefore had to be repaired again and agaiṇPus.yagupta had constructed it originally (SI I, 171). Then the Yavana king Tus.āspha rebuilt it for Aśoka. Afterwards during Gupta Sam. vat 136–38 (i.e. Saka 377–79) it was again rebuilt by Cakrapālita, the son of ´ Parṇadatta, who was the governor appointed by Skandagupta. It was just at this time (i.e. in Saka 380) that Svāmilladeva constructed the lake near Washim and ´ probably it was therefore that it was named Sudarśana. 
 
 The last reference is to the Hisse-Borala Inscription (Saka 380 = ´ ad 458–59), which was discovered near the remnants of a dam near the village Hisse-Borala, c. 10 km south of the capital of the Vatsagulma Branch of the Vākāt.akas (above, p. 119). It dates from the reign of Devasena. The reservoir near Rāmagiri, like the one near Vatsagulma, might indeed have been named after the first 
 
@@ -4047,13 +4047,13 @@ construction of this sort known to us in Girinagara, and both may have served a 
 
 Our inscription informs us that near the reservoir in Kadalīvāt.aka a beautiful (sudarśana) image of a god was installed, 72 and this seems to lend support to a conjecture made by Kolte with respect to the Hisse-Borala reservoir: ‘there may have been a temple near the dam, since old bricks piled upon each other are still found at the place where this inscription was discovered’ (Kolte 1965, 378). The absolutive kārayitvā in 24d implies that something more was done, maybe the granting or purchase of a piece of land in the neighbourhood for the maintenance of the god of Rāmagiri (vv. 25–26). 
 
-Of all the activities mentioned in these Slokas the ensuing merit ( ´ pun. ya) is notified; in verse 27 it appears to be divided into two: half of it is assigned to the gods, the other half to the father and mother of the princess, Rudrasena and Prabhāvatī. In verse 30 the merit is exclusively assigned to her mother for reasons explained above. In verses 25 and 21 it is unclear who is the beneficiary of the meritorious deeds, though in verse 21 one would expect the mother again, whose name occurs in the first pāda, whereas mā at the beginning of the fourth suggests the reading mātur. From all this it ensues that the mother of the princess, Prabhāvatī Guptā, the main beneficiary of the inscription, must have been dead at the time of its composition. Because the last known inscription of Prabhāvatī dates from the 20th regnal year of her son (Shastri 1987, 51), the above reached terminus post quem can be adjusted to c. ad 440. 
+Of all the activities mentioned in these Slokas the ensuing merit ( ´ puṇya) is notified; in verse 27 it appears to be divided into two: half of it is assigned to the gods, the other half to the father and mother of the princess, Rudrasena and Prabhāvatī. In verse 30 the merit is exclusively assigned to her mother for reasons explained above. In verses 25 and 21 it is unclear who is the beneficiary of the meritorious deeds, though in verse 21 one would expect the mother again, whose name occurs in the first pāda, whereas mā at the beginning of the fourth suggests the reading mātur. From all this it ensues that the mother of the princess, Prabhāvatī Guptā, the main beneficiary of the inscription, must have been dead at the time of its compositioṇBecause the last known inscription of Prabhāvatī dates from the 20th regnal year of her son (Shastri 1987, 51), the above reached terminus post quem can be adjusted to c. ad 440. 
 
 Vākāt.aka Gupta relations 
 
 The death of Prabhāvatī might have marked a change in Vākāt.aka Gupta rela tions. It would seem unlikely that the remarkable event described above would have taken place when the queen-mother was still alive, in view of her strong Gupta feelings and dominating personality. Consequently this episode may be dated between c. ad 440 and 452 († Pravarasena II). 73 Admittedly, the present inscription provides no other indications for a deterioration of these relations, but the conclusion that, because the Guptas are extensively mentioned, this relationship remained good may be a fallacy. The princess, who through her 
 
-72 Sudarśana-deva calls forth an association of Vis.n. u Cakrapān. i, the tutelary deity of Rudrasena II (see CII V, 12 (1. 13)), whose discus is called Sudarśana. By virtue of this association the Sudarśana reservoir and temple may (later) have become known as Cakra tīrtha. As such it may have been referred to in the Ramtek Stone Inscription of the Time of Rāmachandra v. 68: śrīcakratīrthamahimānam amānam urvyām. gurvī pravaktum api kasya narasya śaktih. | yasya svayam. bhagavatā harin. ā svacakram. raks.ārtham udyatam akalpi sudarśanākhyam k (RI 484; above, p. 100). The SM locates a Cakratīrtha—said to be a great lake (mahat sarah. ), with a shrine of Cakreśa on its bank (SM 7.26-27)—to the east (or north) of the hill; here: brāhman. ān bhojayed bhaktyā prīto ’stv iti sudarśanah. | (SM 7.29ab). Neither Sudarśana nor the Cakratīrtha are known today; both may have been obliterated by the Khindsi Lake. 
+72 Sudarśana-deva calls forth an association of Vis.ṇu Cakrapāṇi, the tutelary deity of Rudrasena II (see CII V, 12 (1. 13)), whose discus is called Sudarśana. By virtue of this association the Sudarśana reservoir and temple may (later) have become known as Cakra tīrtha. As such it may have been referred to in the Ramtek Stone Inscription of the Time of Rāmachandra v. 68: śrīcakratīrthamahimānam amānam urvyām. gurvī pravaktum api kasya narasya śaktih. | yasya svayam. bhagavatā harin. ā svacakram. raks.ārtham udyatam akalpi sudarśanākhyam k (RI 484; above, p. 100). The SM locates a Cakratīrtha—said to be a great lake (mahat sarah. ), with a shrine of Cakreśa on its bank (SM 7.26-27)—to the east (or north) of the hill; here: brāhman. ān bhojayed bhaktyā prīto ’stv iti sudarśanah. | (SM 7.29ab). Neither Sudarśana nor the Cakratīrtha are known today; both may have been obliterated by the Khindsi Lake. 
 
 73 On the basis of the legible part of the inscription it is impossible to determine, however, whether her brother (Pravarasena II) was still alive at the time the inscription was made. 
 
@@ -4065,13 +4065,13 @@ The death of Prabhāvatī might have marked a change in Vākāt.aka Gupta rela t
 
 marriage had become a member of the Gupta family, showed great pride in her Gupta kinship as is evident from her elaborating on the glory of her in-laws (vv. 2–4, 9–16) rather than on that of the Vākāt.akas, just as in her mother’s inscriptions the Gupta dynasty is eulogized at length while husband Rudra sena is disposed of in one line (see CII V, 7, 36). The daughter may have taken after her mother. But does this also reflect the attitude of her brother, king Pravarasena II, and his successor, her nephew, Narendrasena? The phrasing of verse 17 leads one to doubt it and so does the Indore Plates of Pravarasena II. 
 
-The latter charter, of which the first plate was recently recovered (Mirashi 1982a), was issued from the king’s camp (vāsaka) in Tripurī (= Tewar near Jabalpur in Baghelkhand) in the 23rd year of his reign (c. ad 443). Tripurī was traditional Gupta territory and Mirashi (1982a, 67 ff.) has argued that Pravarasena’s sojourn there must have implied a military operation on the part of the Vākāt.akas. 74 Moreover, Pravarasena’s son Narendrasena (ad 452–75), of whom we (significantly) do not possess inscriptions, is not referred to as ‘king’ in the first charter of his successor, Pr.thivīs.en. a II (dating from his 2nd regnal year). 75 The latter even explicitly claims that he has raised his sunken family’s fortune, saying that Narendrasena had lost power to his ‘agnate’ (dāyāda), which could well refer to his rival of the Vatsagulma Branch, king Devasena or Haris.en. a. 76 All this points to a serious weakening of the Nandivardhana Branch 
+The latter charter, of which the first plate was recently recovered (Mirashi 1982a), was issued from the king’s camp (vāsaka) in Tripurī (= Tewar near Jabalpur in Baghelkhand) in the 23rd year of his reign (c. ad 443). Tripurī was traditional Gupta territory and Mirashi (1982a, 67 ff.) has argued that Pravarasena’s sojourn there must have implied a military operation on the part of the Vākāt.akas. 74 Moreover, Pravarasena’s son Narendrasena (ad 452–75), of whom we (significantly) do not possess inscriptions, is not referred to as ‘king’ in the first charter of his successor, Pr.thivīs.eṇa II (dating from his 2nd regnal year). 75 The latter even explicitly claims that he has raised his sunken family’s fortune, saying that Narendrasena had lost power to his ‘agnate’ (dāyāda), which could well refer to his rival of the Vatsagulma Branch, king Devasena or Haris.eṇa. 76 All this points to a serious weakening of the Nandivardhana Branch 
 
-74 Mirashi draws attention i.a. to the Bhitarī Stone Pillar Inscription of Skandagupta, in which Skandagupta, still during the reign of his father Kumāragupta (i.e. before ad 455), is said to have gained a victory over unspecified enemies (yuddhy amitrām. s; Fleet and others read pus.yamitrām. s) whom he identifies with the Vākāt.akas. This theory is rejected in Shastri 1987, 52–4, but the arguments should be reconsidered in the light of the present inscription. For such a reconsidration see Bakker 2006 (below, pp. 301 ff.). 
+74 Mirashi draws attention i.a. to the Bhitarī Stone Pillar Inscription of Skandagupta, in which Skandagupta, still during the reign of his father Kumāragupta (i.e. before ad 455), is said to have gained a victory over unspecified enemies (yuddhy amitrām. s; Fleet and others read pus.yamitrām. s) whom he identifies with the Vākāt.akas. This theory is rejected in Shastri 1987, 52–4, but the arguments should be reconsidered in the light of the present inscriptioṇFor such a reconsidration see Bakker 2006 (below, pp. 301 ff.). 
 
-75 Shastri (1977–78, 163 (l. 15)) where Pr.thivīs.en. a is called the satputra of Narendrasena: vākāt.akānām mahārājaśrīpravarasenasya s¯unor narendrasenasatputrasya vākāt.akānām mahārājaśrī[h¸]pr.thivīs.en. asya. According to Shastri 1987, 57 this is due to the fact that ‘the post-Pravarasena II praśasti or draft was not yet standardized at the time of this charter; alternatively, this omission may have been due to oversight’. In later inscriptions Narendrasena is referred to as vākātakānām. mahārāja (Shastri 1977–78, 172 (l. 18); CII V, 81 (ll. 29–30)). 
+75 Shastri (1977–78, 163 (l. 15)) where Pr.thivīs.eṇa is called the satputra of Narendrasena: vākāt.akānām mahārājaśrīpravarasenasya s¯unor narendrasenasatputrasya vākāt.akānām mahārājaśrī[h¸]pr.thivīs.eṇasya. According to Shastri 1987, 57 this is due to the fact that ‘the post-Pravarasena II praśasti or draft was not yet standardized at the time of this charter; alternatively, this omission may have been due to oversight’. In later inscriptions Narendrasena is referred to as vākātakānām. mahārāja (Shastri 1977–78, 172 (l. 18); CII V, 81 (ll. 29–30)). 
 
-76 On the basis of the recently found inscription of Pr.thivīs.en. a II in Mandhal (dating from his 10th regnal year) Shastri 1987, 60 argues convincingly (against earlier Kiel horn, Mirashi and Kolte) that one should read: p¯urvvādhigatagun. avadd(ā)yādāpahr.ta va[m. ]śaśriya[h.] (Shastri 1977-78, 171 (l. 17)), which he analyses as p¯urvam adhigatā gun. avatā dāyādena apahr.tā vam. śaśrīh. yasya tasya. 
+76 On the basis of the recently found inscription of Pr.thivīs.eṇa II in Mandhal (dating from his 10th regnal year) Shastri 1987, 60 argues convincingly (against earlier Kiel horn, Mirashi and Kolte) that one should read: p¯urvvādhigataguṇavadd(ā)yādāpahr.ta va[m. ]śaśriya[h.] (Shastri 1977-78, 171 (l. 17)), which he analyses as p¯urvam adhigatā guṇavatā dāyādena apahr.tā vam. śaśrīh. yasya tasya. 
 
 [This], if accepted would indicate that Narendrasena had at first succeeded to his family fortune, viz. throne, but was subsequently deprived of it by a dāyāda or dāyādas. The word dāyāda primarily means ‘heirs to property’, i.e. sons or brothers in relation to each other with a claim to inheritance. [. . . ] Dāyāda has, however, a secondary meaning also, viz. a distant relative or kinsman (Amarakośa 3.3.89: dāyādau suta bāndhavau), and if this were the intended meaning, it may as well refer to a feud between the two branches (Nandivardhana and Vatsagulma) of the Vākāt.akas during Narendrasena’s reign, in which Narendrasena was defeated and lost the kingdom or a major portion thereof. (Shastri 1987, 60) 
 
@@ -4087,11 +4087,11 @@ In the latter sense, dāyāda is often used synonymously with sapin. ḍa (Jolly
 
 of the Vākāt.akas at the end of Pravarasena’s reign in the sixth decade of the fifth century, a decay that might have been triggered off by the disturbance of Gupta Vākāt.aka relations in the fifth decade. 
 
-Archaeological data as well point to a shift from Nandivardhana to Vatsa gulma in the second half of the century, when under Haris.en. a (ad 462–82) the excavation of the Ajanta Caves is started (Spink 1981), whereas, as far as we can judge, no new buildings were erected on the Rāmagiri Hill. 77 Craftsmen and engineers in the service of the Nandivardhana Branch may have been drawn to the west. Along with their expertise they might have brought with them the idea to build a water reservoir near the capital. If this hypothesis is correct, the reservoir Sudarśana in Kadalīvāt.aka predates the one near Vatsagulma of the same name. This would provide the present inscription with a terminus ad quem of ad 458. 
+Archaeological data as well point to a shift from Nandivardhana to Vatsa gulma in the second half of the century, when under Haris.eṇa (ad 462–82) the excavation of the Ajanta Caves is started (Spink 1981), whereas, as far as we can judge, no new buildings were erected on the Rāmagiri Hill. 77 Craftsmen and engineers in the service of the Nandivardhana Branch may have been drawn to the west. Along with their expertise they might have brought with them the idea to build a water reservoir near the capital. If this hypothesis is correct, the reservoir Sudarśana in Kadalīvāt.aka predates the one near Vatsagulma of the same name. This would provide the present inscription with a terminus ad quem of ad 458. 
 
-The last two legible Slokas of the inscription contain its conclusion. Unfor- ´ tunately the name of the kavi chosen by the princess has been lost, as well as the date of the composition. On the basis of the arguments advanced above, however, we may tentatively date the inscription about the middle of the fifth century. This would be in agreement with the date proposed for the Kevala– Narasim. ha Temple on the basis of archaeological and historical considerations in Bakker 1989c, 82–85 and 1992b. 
+The last two legible Slokas of the inscription contain its conclusioṇUnfor- ´ tunately the name of the kavi chosen by the princess has been lost, as well as the date of the compositioṇOn the basis of the arguments advanced above, however, we may tentatively date the inscription about the middle of the fifth century. This would be in agreement with the date proposed for the Kevala– Narasim. ha Temple on the basis of archaeological and historical considerations in Bakker 1989c, 82–85 and 1992b. 
 
-Narendrasena and Devasena/Haris.en. a were sapin. ḍa relatives in the fifth/sixth remove. Narendrasena might, however, have recovered parts of his kingdom, since the (later) Pr.thivīs.en. a inscriptions credit him in one and the same breath with the overlordship of Kosalā, Mekalā and Mālavā, though this, as Shastri 1987, 61 remarks, ‘looks somewhat boastful’. If true, it certainly would have brought him into conflict with the Guptas as well (cf. HCI III, 184). This claim is also at variance with Pr.thivīs.en. a’s own title: magnavam. śoddhartr. (Shastri 1977–78, 172 (l. 21); Kolte 1971–72: (l. 26)). Moreover, Narendrasena’s rival, king Haris.en. a, is credited by his minister Varāhadeva with the conquest of (Daks.in. a) Kosala, which is situated to the east of the traditional Nandi vardhana territory (CII V, 108 (l. 14); Spink 1981, 109). In short, the period after Pravarasena II appears to have been one of (civil) wars, in which, to judge by the archaeological remains, the Vatsagulma Branch was on top. Pr.thivīs.en. a’s later claim to have rescued his family fortune for the second time (dvi magnavam. śoddhartr., CII V, 81 (l. 33), in the unfinished Bālāghāt Plates, which must date from after his 17th regnal year) may refer to the incursion of the Nala king Bhava dattavarman (see above, n. 67 on p. 142; cf. Shastri 1987, 61 f.). 
+Narendrasena and Devasena/Haris.eṇa were sapin. ḍa relatives in the fifth/sixth remove. Narendrasena might, however, have recovered parts of his kingdom, since the (later) Pr.thivīs.eṇa inscriptions credit him in one and the same breath with the overlordship of Kosalā, Mekalā and Mālavā, though this, as Shastri 1987, 61 remarks, ‘looks somewhat boastful’. If true, it certainly would have brought him into conflict with the Guptas as well (cf. HCI III, 184). This claim is also at variance with Pr.thivīs.eṇa’s own title: magnavam. śoddhartr. (Shastri 1977–78, 172 (l. 21); Kolte 1971–72: (l. 26)). Moreover, Narendrasena’s rival, king Haris.eṇa, is credited by his minister Varāhadeva with the conquest of (Daks.iṇa) Kosala, which is situated to the east of the traditional Nandi vardhana territory (CII V, 108 (l. 14); Spink 1981, 109). In short, the period after Pravarasena II appears to have been one of (civil) wars, in which, to judge by the archaeological remains, the Vatsagulma Branch was on top. Pr.thivīs.eṇa’s later claim to have rescued his family fortune for the second time (dvi magnavam. śoddhartr., CII V, 81 (l. 33), in the unfinished Bālāghāt Plates, which must date from after his 17th regnal year) may refer to the incursion of the Nala king Bhava dattavarman (see above, n. 67 on p. 142; cf. Shastri 1987, 61 f.). 
 
 77 Bakker 1989c and 1992b. 
 
@@ -4105,7 +4105,7 @@ Narendrasena and Devasena/Haris.en. a were sapin. ḍa relatives in the fifth/si
 
 
 
-Throne and Temple∗ 
+## Throne and Temple 
 
 Political Power and Religious Prestige in Vidarbha 
 
@@ -4165,7 +4165,7 @@ Significant in this quotation is the absence of the brahmin, something, of cours
 
 4 Cf. also Stein’s discussion of the ‘different perspectives’ that tend to confuse scholarly communication on the issue of Indian kingship (1978, 147 ff.). By bringing archaeological and iconographical material into our analysis the present paper attempts to overcome Stein’s verdict (1978, 148): 
 
-The conventional historian’s approach aimed at confronting various conceptions about kings with evidence about how kings actually performed [. . . ] provides no solution. For, it is necessary to recognize that almost all that is known of Indian kings of the ancient and medieval periods comes from normative texts, that is from documents possessing a firm value perspective. No source for understanding Indian kingship exists apart from literature of this character. 
+The conventional historian’s approach aimed at confronting various conceptions about kings with evidence about how kings actually performed [. . . ] provides no solutioṇFor, it is necessary to recognize that almost all that is known of Indian kings of the ancient and medieval periods comes from normative texts, that is from documents possessing a firm value perspective. No source for understanding Indian kingship exists apart from literature of this character. 
 
 5 Mirashi in CII V, xxiv; Mirashi 1964a, 137–140. When I visited the Central Nag pur Museum in November 1989 a red sandstone image that was recently found in the Nagardhan–Hamlapuri region was shown to me. This splendid image represents a kavi holding a book in his left hanḍThere appears to have been an inscription on the ‘book’ which, however, has remained undeciphereḍIt has been suggested that the image rep resents Kālidāsa himself. I have dealt with this image more elaborately in Bakker 1997, 124–27. 
 
@@ -4205,7 +4205,7 @@ In sum, it may be questioned whether these boasted performances of Vedic sacrifi
 
 The Vākāt.aka inscriptions 
 
-In their inscriptions the Vākāt.aka rulers of the Eastern Branch styled them selves as representatives and supporters of the dharma by calling themselves the ‘champions of the dharma’ (dharmavijayin) or dharmamahārāja, claiming to have reinstalled the dharmic ideal of the Kr.tayuga on earth—pictured by Kālidāsa in the above-quoted stanza—thanks to the grace of God (śambhoh¸ prasādadhr.ti(ta)kārtayugasya). 9 It is obvious that at least part of the function of these inscriptions was to broadcast this image of the Vākāt.aka ruler as the ideal dharmic, that is unimpeachable, king, who was entitled to the royal office on account of his exemplariness and the Vedic rituals performed by his ancestor (not on account of birth, since the Vākāt.akas were brahmins!), and who by this exemplary behaviour and thanks to the grace of Vis.n. u (bhagavataś cakrapān. eh¸ prasādād [CII V, 12 l. 13]) was able to bring prosperity to his subjects. 
+In their inscriptions the Vākāt.aka rulers of the Eastern Branch styled them selves as representatives and supporters of the dharma by calling themselves the ‘champions of the dharma’ (dharmavijayin) or dharmamahārāja, claiming to have reinstalled the dharmic ideal of the Kr.tayuga on earth—pictured by Kālidāsa in the above-quoted stanza—thanks to the grace of God (śambhoh¸ prasādadhr.ti(ta)kārtayugasya). 9 It is obvious that at least part of the function of these inscriptions was to broadcast this image of the Vākāt.aka ruler as the ideal dharmic, that is unimpeachable, king, who was entitled to the royal office on account of his exemplariness and the Vedic rituals performed by his ancestor (not on account of birth, since the Vākāt.akas were brahmins!), and who by this exemplary behaviour and thanks to the grace of Vis.ṇu (bhagavataś cakrapāṇeh¸ prasādād [CII V, 12 l. 13]) was able to bring prosperity to his subjects. 
 
 In other words, their prestige as rulers was greatly dependent on the ex tent to which, on the one hand, these kings managed to be acknowledged by their subjects as exemplary executors of an order hailed as dharmic and, on the other hand, they were successful in convincing their subjects that this acclaimed dharmic order really was the desired one. Or, in the words of Mario Erdheim, who gave a penetrating analysis of this issue in his study of Aztec society (Erd heim 1973), their prestige consisted in ‘das Wissen das die Angeh¨origen (ihrer) Bezugsgruppe von (ihrer) Vorbildlichkeit (hatten)’. (op. cit. 27). The stability of the Vākāt.aka regime during more than a century—it is very remarkable that their inscriptions hardly make mention of wars and heroic feats on the battleground—and the prosperity they brought in Vidarbha as attested by the archaeological remains, seem to warrant the conclusion that, indeed, they were quite successful in this respect. 
 
@@ -4225,13 +4225,13 @@ To illustrate the values that determine the exemplariness of the Vākāt.aka kin
 
 quoted: 
 
-By order of the illustrious Pravarasena [II], the king (mahārāja) of the Vākāt.akas, who is entirely devoted to Maheśvara (paramamāheśvara), and who, by the grace of Sambhu ( ´ śambhoh¸ prasāda◦), has established the Kr.tayuga on earth[. . . ]; he was born from Prabhāvatī Guptā, daughter of the illustrious emperor (mahārājā dhirāja) Devagupta (i.e. Candragupta II), [. . . ] and is the grandson of the illustri ous Vākāt.aka king Pr.thivīs.en. a [. . . ], who was endowed with the following virtues among others: truthfulness, sincerity, compassion, courage, leadership, selfdisci pline, magnanimity, wisdom, modesty, righteousness (dharmavijayitva), purity of mind, [. . . ] and who had performed [. . . ] four Aśvamedha sacrifices. (CII V, 12 ll. 2–17) 
+By order of the illustrious Pravarasena [II], the king (mahārāja) of the Vākāt.akas, who is entirely devoted to Maheśvara (paramamāheśvara), and who, by the grace of Sambhu ( ´ śambhoh¸ prasāda◦), has established the Kr.tayuga on earth[. . . ]; he was born from Prabhāvatī Guptā, daughter of the illustrious emperor (mahārājā dhirāja) Devagupta (i.e. Candragupta II), [. . . ] and is the grandson of the illustri ous Vākāt.aka king Pr.thivīs.eṇa [. . . ], who was endowed with the following virtues among others: truthfulness, sincerity, compassion, courage, leadership, selfdisci pline, magnanimity, wisdom, modesty, righteousness (dharmavijayitva), purity of mind, [. . . ] and who had performed [. . . ] four Aśvamedha sacrifices. (CII V, 12 ll. 2–17) 
 
 One cannot fail to note that, whatever ‘divine substances’ might once have believed to have been generated within the king by his passing through re generative brahmanic rituals, 10 the Vākāt.aka king does not explicitly claim these; on the contrary, the qualities on which these kings pride themselves are quite human, and though, admittedly, their possession in full by one individual might appear rather extraordinary, the king’s claim is simply to be such an extraordinary, exemplary human being owing to the grace of goḍThis is the ideology that these charters intended to advocate. 
 
 Policy of the Vākāt.aka kings 
 
-Considering this ideology the question arises how this thus legitimized political authority was brought to bear in the Vidarbha region. A difficulty encountered in reconstructing this process is the fact that we have practically no direct information regarding the situation in the region before the Vākāt.aka age. But extrapolation from the results of research in other comparative regions makes it plausible that the fertile areas of Vidarbha situated in the vicinity of rivers were inhabited by agrarian communities under local (sub-regional) rule, and that its less arable areas were populated by what is often called with a misnomer ‘tribal’ societies, the ancestors of the Gonds, and the Gaolis or Ahirs. 11 
+Considering this ideology the question arises how this thus legitimized political authority was brought to bear in the Vidarbha regioṇA difficulty encountered in reconstructing this process is the fact that we have practically no direct information regarding the situation in the region before the Vākāt.aka age. But extrapolation from the results of research in other comparative regions makes it plausible that the fertile areas of Vidarbha situated in the vicinity of rivers were inhabited by agrarian communities under local (sub-regional) rule, and that its less arable areas were populated by what is often called with a misnomer ‘tribal’ societies, the ancestors of the Gonds, and the Gaolis or Ahirs. 11 
 
 The power of the Vākāt.akas was originally based on the surplus-production of the agrarian regions which, following Stein, may be conceived of as ‘nu clear areas’ (Stein 1969). It is in this area that the ‘higher’, sanskritic form of Hinduism/Brahmanism had its strongest base, and the administrative and in tellectual staff of the Vākāt.akas was primarily recruited from here. Our sources do not permit any conjecture regarding the origin of the Vākāt.akas themselves, who may either have belonged to the area or have forced themselves upon it as roaming freebooters. In either case their first success consisted in becoming recognized as central authority (mahārāja) by the land-owning and educated 
 
@@ -4249,15 +4249,15 @@ The power of the Vākāt.akas was originally based on the surplus-production of 
 
 classes of the region, as a result of which they succeeded in appropriating an im portant part of the surplus-production which, again, enabled them to develop their power base consisting of the military, intelligence and administrative sys tems. 
 
-A religious policy, no doubt, was an important device for gaining this recog nition. The Ramtek Hill was reshaped into the impressive religious centre of the realm as well as, probably, into a military strongholḍSince the beginning of the 5th century numerous temples, seven of which still remain today, arose on top of the hill. 12 The Narasim. ha form of Vis.n. u occupied a major place besides Varāha. Two temples testify to this. In addition, archaeological explo ration in the environs yielded a number of little images of the Man-lion deity, which are replicas of the main idol on the hill and which were obviously meant for domestic altars. 13 
+A religious policy, no doubt, was an important device for gaining this recog nitioṇThe Ramtek Hill was reshaped into the impressive religious centre of the realm as well as, probably, into a military strongholḍSince the beginning of the 5th century numerous temples, seven of which still remain today, arose on top of the hill. 12 The Narasim. ha form of Vis.ṇu occupied a major place besides Varāha. Two temples testify to this. In addition, archaeological explo ration in the environs yielded a number of little images of the Man-lion deity, which are replicas of the main idol on the hill and which were obviously meant for domestic altars. 13 
 
-Ramtek Hill thus seems to substantiate the findings of A. Eschmann in Orissa, to the effect that aside from the theriomorphic boar deity (Varāha), Narasim. ha has been the figure par excellence to accommodate non-sanskritic or so-called ‘tribal’ deities within the Vais.n. ava pantheon of the ‘Great Tradition’. Eschmann discovered various cases in which lion deities—who were preferably worshipped on hills or in caves at a safe distance from residential areas—were assimilated in a process of ‘sanskritisation’ (Eschmann 1978a, 106 f.). This certainly was the active policy of the Vākāt.aka rulers: through recognition and patronage (e.g. by means of temple construction) of local deities, large groups of the population were won over to their regime, while at the same time, by enforcing ‘higher’ or sanskritic cult images and ritual proceedings, the brahmanical world-view, which was the ideological basis of the Vākāt.akas, was spread among broad layers of the populace. 
+Ramtek Hill thus seems to substantiate the findings of A. Eschmann in Orissa, to the effect that aside from the theriomorphic boar deity (Varāha), Narasim. ha has been the figure par excellence to accommodate non-sanskritic or so-called ‘tribal’ deities within the Vais.ṇava pantheon of the ‘Great Tradition’. Eschmann discovered various cases in which lion deities—who were preferably worshipped on hills or in caves at a safe distance from residential areas—were assimilated in a process of ‘sanskritisation’ (Eschmann 1978a, 106 f.). This certainly was the active policy of the Vākāt.aka rulers: through recognition and patronage (e.g. by means of temple construction) of local deities, large groups of the population were won over to their regime, while at the same time, by enforcing ‘higher’ or sanskritic cult images and ritual proceedings, the brahmanical world-view, which was the ideological basis of the Vākāt.akas, was spread among broad layers of the populace. 
 
-Charters of the Vākāt.aka queen Prabhāvatī Guptā were issued from Ramtek: ‘Bhagavat (i.e. Lord Vis.n. u) is victorious! From the feet of the Lord of Rāmagiri (i.e. Ramtek) [. . . ] etc.’ (CII V, 35, Inscr. No. 8). Her brother, the em peror Kumāragupta, issued coins with the legend: ‘the lion-king who resembles Narasim. ha is always victorious’. 14 Recently another Vākāt.aka inscription was discovered on the wall of one of the Narasim. ha temples which shows, accord ing to our interpretation, that this temple was built in the second quarter of the 5th century, probably by a daughter of Prabhāvatī Guptā for the sake of her mother’s merit. 15 As the case of Prabhāvatī Guptā herself shows, women played an important and public role in the Vākāt.aka polity and were evidently 
+Charters of the Vākāt.aka queen Prabhāvatī Guptā were issued from Ramtek: ‘Bhagavat (i.e. Lord Vis.ṇu) is victorious! From the feet of the Lord of Rāmagiri (i.e. Ramtek) [. . . ] etc.’ (CII V, 35, Inscr. No. 8). Her brother, the em peror Kumāragupta, issued coins with the legend: ‘the lion-king who resembles Narasim. ha is always victorious’. 14 Recently another Vākāt.aka inscription was discovered on the wall of one of the Narasim. ha temples which shows, accord ing to our interpretation, that this temple was built in the second quarter of the 5th century, probably by a daughter of Prabhāvatī Guptā for the sake of her mother’s merit. 15 As the case of Prabhāvatī Guptā herself shows, women played an important and public role in the Vākāt.aka polity and were evidently 
 
 12 Jamkhedkar 1985–86, 1987a, 1987b, 1988; Bakker 1989c. 
 
-13 Four such images were shown to me in the Central Nagpur Museum, all from the Nagardhan–Hamlapuri region. Two more are said to have been found and stored in the Museum, but their present whereabouts are not known. Two such images are in a private collection (also said to be found in Nagardhan), while more images are reported to have been found at other Vākāt.aka sites in Vidarbha. 
+13 Four such images were shown to me in the Central Nagpur Museum, all from the Nagardhan–Hamlapuri regioṇTwo more are said to have been found and stored in the Museum, but their present whereabouts are not knowṇTwo such images are in a private collection (also said to be found in Nagardhan), while more images are reported to have been found at other Vākāt.aka sites in Vidarbha. 
 
 14 sāks.ād iva narasim. ho sim. hamahendro jayaty aniśam (Allan 1914, 77). The particle iva is particularly significant. 
 
@@ -4269,7 +4269,7 @@ Charters of the Vākāt.aka queen Prabhāvatī Guptā were issued from Ramtek: �
 
 
 
-in a position to make large endowments (cf. Dirks 1976, 141). This newly discovered inscription mentions, for instance, the construction of an artificial lake (sudarśana) in the village Kadalīvāt.aka (modern Kelāpur, 2 km N of the Hill) and the purchase of a piece of land, probably for the maintenance of this temple (prāsāda) which is said to be dedicated to the ‘Lord of Prabhāvatī (prabhāvatisvāminam), i.e. Vis.n. u (see above p. 144). Until recently, when the image in this temple was cleaned by the Archaeological Survey, thick layers of sind¯ura testified to the original nature of this deity as a bloodthirsty ‘king of spirits’ ( bh¯utarāja) (cf. Sontheimer 1985, 145). 
+in a position to make large endowments (cf. Dirks 1976, 141). This newly discovered inscription mentions, for instance, the construction of an artificial lake (sudarśana) in the village Kadalīvāt.aka (modern Kelāpur, 2 km N of the Hill) and the purchase of a piece of land, probably for the maintenance of this temple (prāsāda) which is said to be dedicated to the ‘Lord of Prabhāvatī (prabhāvatisvāminam), i.e. Vis.ṇu (see above p. 144). Until recently, when the image in this temple was cleaned by the Archaeological Survey, thick layers of sind¯ura testified to the original nature of this deity as a bloodthirsty ‘king of spirits’ ( bh¯utarāja) (cf. Sontheimer 1985, 145). 
 
 When we look at the artistic products of this process, the first thing that strikes us is their earthly and stalwart, though pious character. The Narasim. ha temples and the Varāha pavillion (and image) are square and solid, like the Vākāt.aka inscriptions themselves (Plate 11). The image of Narasim. ha in stalled in the above-mentioned temple is a genuine masterpiece, expressing assured sovereignty, not particularly ethereal or heavenly, not hieratic, but nat ural supremacy, which is again accentuated by its relaxed friendly, even sweet playfulness (see below, Plate 57). It represents the peculiar Vākāt.aka style, which is largely independent of the mainstream of Gupta art, a conclusion to which the material available to Joanna Williams had already tentatively led her in the above-mentioned article. 16 
 
@@ -4283,7 +4283,7 @@ Varāha on the Rāmagiri
 
 16 Williams 1983, 232 f.: 
 
-To my mind, the two (i.e. Vākāt.aka and Gupta) are too different and the points of contact too limited to justify uniting the dynastic terms. [. . . ] The Vākāt.aka style seems different in broad historical terms from the Gupta. On the one hand, Vākāt.aka work continues a sense of specificity in modelling which was characteristic of the second century A.D., both in Kus.ān. a Mathurā and Amarāvatī. At the same time, the Gupta artists had shifted the balance toward the ideal. The relationship between the image and the real world is distinctly different in the two. On the other hand, the Vākāt.aka style may well usher in elements of the medieval before these are apparent in the Gangetic north. 
+To my mind, the two (i.e. Vākāt.aka and Gupta) are too different and the points of contact too limited to justify uniting the dynastic terms. [. . . ] The Vākāt.aka style seems different in broad historical terms from the Gupta. On the one hand, Vākāt.aka work continues a sense of specificity in modelling which was characteristic of the second century A.D., both in Kus.āṇa Mathurā and Amarāvatī. At the same time, the Gupta artists had shifted the balance toward the ideal. The relationship between the image and the real world is distinctly different in the two. On the other hand, the Vākāt.aka style may well usher in elements of the medieval before these are apparent in the Gangetic north. 
 
 
 
@@ -4313,17 +4313,17 @@ From an analysis of the corpus of Vākāt.aka inscriptions it appears that, broa
 
 
 
-This outcome seems to prove two things. First, that the actual range of power of the Main or Eastern Branch of the Vākāt.akas was not really very wide and that what is often taken as the realm of the Vākāt.akas was in re ality probably a sort of federation of collateral branches. Secondly, that the Vākāt.aka kings strived to extend their sphere of influence by means of brah manical colonisation. The endowed brahmins, as members of the class that supplied the religious and management executives of the Vākāt.aka adminis tration, naturally had an enormous influence on the spread of the ideology on which the prestige of these kings was based. 19 Often they may have been the main upholders of law and order and in this way may have proved them selves indispensable, though ultimately merely instrumental to their political masters. 20 
+This outcome seems to prove two things. First, that the actual range of power of the Main or Eastern Branch of the Vākāt.akas was not really very wide and that what is often taken as the realm of the Vākāt.akas was in re ality probably a sort of federation of collateral branches. Secondly, that the Vākāt.aka kings strived to extend their sphere of influence by means of brah manical colonisatioṇThe endowed brahmins, as members of the class that supplied the religious and management executives of the Vākāt.aka adminis tration, naturally had an enormous influence on the spread of the ideology on which the prestige of these kings was based. 19 Often they may have been the main upholders of law and order and in this way may have proved them selves indispensable, though ultimately merely instrumental to their political masters. 20 
 
 The historical sources of the Vākāt.aka age do not allow us to narrow down the exact proportion of the two strategies of dominion, viz. that of coercion and that of creation of consensus linking mutual interests that is largely based on prestige, 21 but it may ensue from the above that prestige was an important factor in the building up and enforcement of the authority of the Vākāt.aka kings, who seem to have been duly aware of this. 
 
 The Yadava period ¯ 
 
-More than seven centuries after Vākāt.aka dominion, Vidarbha came under the sway of the Yādava kings. This is clear from two brief inscriptions in the Narasim. ha temple, which I have edited and discussed elsewhere (above, pp. 83 ff.), one of which is dated in ad 1240 and refers to the reign of the Yādava king Sim. han. a. For the Yādavas Ramtek Hill was not the centre of 
+More than seven centuries after Vākāt.aka dominion, Vidarbha came under the sway of the Yādava kings. This is clear from two brief inscriptions in the Narasim. ha temple, which I have edited and discussed elsewhere (above, pp. 83 ff.), one of which is dated in ad 1240 and refers to the reign of the Yādava king Sim. haṇa. For the Yādavas Ramtek Hill was not the centre of 
 
 19 Cf. Shrimali 1987, 26 f.: 
 
-Who were the agents of this transformation? We see this problem in the light of the process of Sanskritisation of tribal areas, the thrust for which came mainly from the Guptas. [. . . ] Some of the names of donees of Vākāt.aka land grants also enable us to trace the process of Sanskritisation of the tribal areas, e.g., the donee of the Indore plates is Gon. d. ārya—the Gonds still constitute an important element of tribal population in the Vidarbha region. 
+Who were the agents of this transformation? We see this problem in the light of the process of Sanskritisation of tribal areas, the thrust for which came mainly from the Guptas. [. . . ] Some of the names of donees of Vākāt.aka land grants also enable us to trace the process of Sanskritisation of the tribal areas, e.g., the donee of the Indore plates is Goṇd. ārya—the Gonds still constitute an important element of tribal population in the Vidarbha region. 
 
 20 Cf. Derrett’s main conclusion: ‘The king was not subordinated to brahmins in his actual performance of his duties: he manipulated them, and utilized them. After all, he was their principal patron.’ (Derrett 1976, 607). 
 
@@ -4341,23 +4341,23 @@ Das Ph¨anomen der Herrschaft wird nur verst¨andlich, wenn man zweierlei beacht
 
 their realm, but it was an important foothold on the periphery of their sphere of influence. We return to the question of how these kings legitimized their, super-regional, power. 
 
-The prime minister (sarvaśrīkaran. aprabhu) 22 under two Yādava kings (Mahādeva and Rāmacandra), the brahmin Hemādri, author (or editor?) of the great encyclopaedia of the dharma, the Caturvargacintāman. i, acclaims the standing of the Yādava dynasty in his Rājapraśasti that precedes the Vratakhan. ḍa 23 in the following words: 
+The prime minister (sarvaśrīkaraṇaprabhu) 22 under two Yādava kings (Mahādeva and Rāmacandra), the brahmin Hemādri, author (or editor?) of the great encyclopaedia of the dharma, the Caturvargacintāmaṇi, acclaims the standing of the Yādava dynasty in his Rājapraśasti that precedes the Vratakhan. ḍa 23 in the following words: 
 
-The Dynasty of the Moon is victorious, the renowned one, in which that King Yadu made his appearance and in which in former days Murāri (i.e. Kr.s.n. a) was born in order to take away the burden of the incarnations of Asuras. 
+The Dynasty of the Moon is victorious, the renowned one, in which that King Yadu made his appearance and in which in former days Murāri (i.e. Kr.s.ṇa) was born in order to take away the burden of the incarnations of Asuras. 
 
 In that dynasty of the one who caused Kam. sa’s ruin King Bhillama made his appearance; his valour, a lamp (illuminating) several continents, led the moths, his enemies, to their destruction. 24 
 
-The divine nature of the kings of this lineage is asserted by King Sim. han. a himself less reluctantly than by the orthodox brahmin minister. 
+The divine nature of the kings of this lineage is asserted by King Sim. haṇa himself less reluctantly than by the orthodox brahmin minister. 
 
-Vis.vaksena (i.e. Vis.n. u) who broke the arrogance of King Bali, who bestrode the universe in (three) steps, and who is held in eternal embrace by Laks.mī, he is the towering king, the ornament of the Yadu dynasty. 
+Vis.vaksena (i.e. Vis.ṇu) who broke the arrogance of King Bali, who bestrode the universe in (three) steps, and who is held in eternal embrace by Laks.mī, he is the towering king, the ornament of the Yadu dynasty. 
 
-Murari ¯ (i.e. Kr.s.n. a) was desirous to descend to earth in the Kaliyuga also (in order to take away) its burden; thus a certain part of the Lord of the World was born on earth as its king with the name of Bhillama. 25 
+Murari ¯ (i.e. Kr.s.ṇa) was desirous to descend to earth in the Kaliyuga also (in order to take away) its burden; thus a certain part of the Lord of the World was born on earth as its king with the name of Bhillama. 25 
 
-Two significant components of the Yādava ideology are expressed in these verses: 1) Kr.s.n. a, the famous incarnation of Vis.n. u, is a member of the Yādava lineage, that is, should be reckoned among its ancestors; 2) the living kings of this dynasty are likewise at least partial incarnations of Vis.n. u, born on earth for the sake of relieving it from a burden, just as their famous, divine kinsman Kr.s.n. a. The dharmic order that regulates the exchange of divine and earthly affairs is no longer the focus of attention. Contrary to the view set forth by Burton Stein to the effect that ‘what divine qualities were lost to individual kings, however, appear to have been gained by the institution of kingship’ (Stein 
+Two significant components of the Yādava ideology are expressed in these verses: 1) Kr.s.ṇa, the famous incarnation of Vis.ṇu, is a member of the Yādava lineage, that is, should be reckoned among its ancestors; 2) the living kings of this dynasty are likewise at least partial incarnations of Vis.ṇu, born on earth for the sake of relieving it from a burden, just as their famous, divine kinsman Kr.s.ṇa. The dharmic order that regulates the exchange of divine and earthly affairs is no longer the focus of attentioṇContrary to the view set forth by Burton Stein to the effect that ‘what divine qualities were lost to individual kings, however, appear to have been gained by the institution of kingship’ (Stein 
 
-22 Hemādri, Caturvargacintāman. i Vol. I v. 13 (p. 3). 
+22 Hemādri, Caturvargacintāmaṇi Vol. I v. 13 (p. 3). 
 
-23 Not included in the printed edition of the Caturvargacintāman. i but edited separatedly by Bhandarkar 1928, pp. 238–47. 
+23 Not included in the printed edition of the Caturvargacintāmaṇi but edited separatedly by Bhandarkar 1928, pp. 238–47. 
 
 24 Bhandarkar 1928, 245 (= Rājapraśasti II): 
 
@@ -4391,15 +4391,15 @@ am. sah. ko ’py āvirāsīd bhuvi bhuvanavibhor bh¯upatir bhillamākhyah. k
 
 A representative passage from one of the many Yādava inscriptions may be quoted to bring out the contrast with the Vākāt.aka kings and to make manifest this change in ideology. 
 
-The illustrious King Rāmacandra, who makes his appearance in the dynasty of Yadu like a pearl (in a shell), who is Nārāyan. a among the earthly kings, who is the Grandsire (Brahmā) among the protectors of the earth, who equals Bhīma when he raises his arms like a rampart, a lion to the mighty elephants of the trembling master of the Mālava land, the son of King Kr.s.n. a, he is victorious! (14) 
+The illustrious King Rāmacandra, who makes his appearance in the dynasty of Yadu like a pearl (in a shell), who is Nārāyaṇa among the earthly kings, who is the Grandsire (Brahmā) among the protectors of the earth, who equals Bhīma when he raises his arms like a rampart, a lion to the mighty elephants of the trembling master of the Mālava land, the son of King Kr.s.ṇa, he is victorious! (14) 
 
 Which enemy, like a deep darkness, would not flee when he, shining with the lustre of the sun, ascends the Mountain of the Gods (i.e. Devagiri), which is like the Eastern Mountain Range, and shoots his arrows, thus vying with the halo (of the sun). (15) 
 
-—In the reign of this illustrious Rāmacandra, who is the moon (above) the lotuses of the lineage of Yadu, who controls the entire terrestrial sphere and whose em inence shines forth from the honorary titles like the following: ‘he who parches the petty reservoirs of glory of inimical kings by his scorching burning brilliance’, [. . . ] ‘he who is tumultuous like Narasim. ha when he rips up the broad chests of his mighty foes’, [. . . ] ‘he who is courageous like Nārāyan. a against the demons, his enemies’, [. . . ] ‘he, who himself a Grandsire among kings, surpasses Grandsire (Brahmā) in his life’, [. . . ] ‘lion who tears asunder the elephants of the Gurjaras’, [. . . ] ‘the holocaust that extinguishes the light of the Mālavas’, ‘generous tree of plenty’, 
+—In the reign of this illustrious Rāmacandra, who is the moon (above) the lotuses of the lineage of Yadu, who controls the entire terrestrial sphere and whose em inence shines forth from the honorary titles like the following: ‘he who parches the petty reservoirs of glory of inimical kings by his scorching burning brilliance’, [. . . ] ‘he who is tumultuous like Narasim. ha when he rips up the broad chests of his mighty foes’, [. . . ] ‘he who is courageous like Nārāyaṇa against the demons, his enemies’, [. . . ] ‘he, who himself a Grandsire among kings, surpasses Grandsire (Brahmā) in his life’, [. . . ] ‘lion who tears asunder the elephants of the Gurjaras’, [. . . ] ‘the holocaust that extinguishes the light of the Mālavas’, ‘generous tree of plenty’, 
 
 —While the illustrious Hemādri [. . . ], crest-jewel of the ministers, who has re claimed the jungle (nirjitajhāḍiman. ḍala), who is completely dedicated to the super intendency of (all) records, [. . . ] who is the head of the elephant-drivers—(while) this (Hemādri) is acquiting himself of the heavy task (of administering) the whole empire consigned to him by his (i.e. the king’s) grace (prasāda), 
 
-There is this pearl in the line (gotra) of Gautama, the illustrious Jalhan. a; after him there is M¯udhugi [. . . ] who excels in virtues and who is a polemicist in the field of śruti and śāstra; to him has been born a virtuous son, the illustrious Acyutanāyaka who is blessed by the illustrious Rāmacandra. (16) [. . . ] 
+There is this pearl in the line (gotra) of Gautama, the illustrious Jalhaṇa; after him there is M¯udhugi [. . . ] who excels in virtues and who is a polemicist in the field of śruti and śāstra; to him has been born a virtuous son, the illustrious Acyutanāyaka who is blessed by the illustrious Rāmacandra. (16) [. . . ] 
 
 And this (Acyutanāyaka), the Grandsire among the governors [. . . ], 
 
@@ -4417,13 +4417,13 @@ What stands out in this passage is the hierarchy among the four parties men tion
 
 describe, 2) Hemādri, the actual ruler and superintendent of the administra tion and the army, 3) the ruler of the Konkan who excels among the governors, 4) the 32 brahmin donees only mentioned by name. 
 
-The inscription begins with ‘King Rāmacandra is victorious’, instead of ‘God (Bhagavat) is victorious’ as do the Vākāt.aka inscriptions. It is not the king who rules the empire by grace (prasāda), but his prime minister Hemādri. Instead of God blessing the king, the king blesses his proxies. Yet another conspicuous difference between the Vākāt.aka and Yādava inscriptions is the bellicose tone in the latter, completely absent in the former. On the other hand, the Yādava princes declare themselves, like some of the Vākāt.akas, great devotees of Vis.n. u. However, in variance with the Vākāt.aka practice, according to which endowments were made ‘in order to increase our merit (dharma), life, power, glory, and authority and for our own benefit with regard to (our) welfare in this and yonder world’, 27 endowments and donations of the Yādavas were professedly made ‘for our own sake to please Sār(a)ṅgapān ´ . i (i.e. Vis.n. u)’. 28 
+The inscription begins with ‘King Rāmacandra is victorious’, instead of ‘God (Bhagavat) is victorious’ as do the Vākāt.aka inscriptions. It is not the king who rules the empire by grace (prasāda), but his prime minister Hemādri. Instead of God blessing the king, the king blesses his proxies. Yet another conspicuous difference between the Vākāt.aka and Yādava inscriptions is the bellicose tone in the latter, completely absent in the former. On the other hand, the Yādava princes declare themselves, like some of the Vākāt.akas, great devotees of Vis.ṇu. However, in variance with the Vākāt.aka practice, according to which endowments were made ‘in order to increase our merit (dharma), life, power, glory, and authority and for our own benefit with regard to (our) welfare in this and yonder world’, 27 endowments and donations of the Yādavas were professedly made ‘for our own sake to please Sār(a)ṅgapān ´ . i (i.e. Vis.ṇu)’. 28 
 
 This leads to a central theme of our study: to investigate whether there is any correlation between this change of ideology (concomittant with a change in religion) and the extent of the Yādava realm as compared to that of the Vākāt.akas. The Yādava kingdom had been established by military means and was consequently made up of different regions that had very little in common, which resulted in a political constellation that threatened to fall apart on every and each occasion. 29 
 
-The new ideology emphasized the uniqueness of the monarch; his (semi-) divine status aimed at distinguishing him from all ordinary regional rulers, be they governors, vassals or puppets. If his power were legitimized in the same way as that of the Vākāt.akas, there would have been no specific reason for the populace and chieftains of a region to raise this monarch above the authority of their own political elite. In other words, the type of prestige acquired by the Vākāt.akas would not have been sufficient for the Yādavas to keep the dangerous feudal forces in check, except at the expense of great military efforts. The new form of Hinduism, the Vais.n. ava devotion (bhakti), which was in the ascendent in the Yādava age and was actively supported by them, appears to have been almost the only thing in common that united the different regions. This religion, in which the divine is humanized as a corollary of the growing devotion to Rāma and Kr.s.n. a, both born as the sons of kings on earth (a phenomenon that could be denominated as ‘royalisation’), and in which the human is deified concomitant with the king’s recognition as an impersonation of a part of the divine (which could be called ‘deification’)—this type of religion 
+The new ideology emphasized the uniqueness of the monarch; his (semi-) divine status aimed at distinguishing him from all ordinary regional rulers, be they governors, vassals or puppets. If his power were legitimized in the same way as that of the Vākāt.akas, there would have been no specific reason for the populace and chieftains of a region to raise this monarch above the authority of their own political elite. In other words, the type of prestige acquired by the Vākāt.akas would not have been sufficient for the Yādavas to keep the dangerous feudal forces in check, except at the expense of great military efforts. The new form of Hinduism, the Vais.ṇava devotion (bhakti), which was in the ascendent in the Yādava age and was actively supported by them, appears to have been almost the only thing in common that united the different regions. This religion, in which the divine is humanized as a corollary of the growing devotion to Rāma and Kr.s.ṇa, both born as the sons of kings on earth (a phenomenon that could be denominated as ‘royalisation’), and in which the human is deified concomitant with the king’s recognition as an impersonation of a part of the divine (which could be called ‘deification’)—this type of religion 
 
-27 CII V, 12 ll. .22 f. (Inscr. No. 3): ātmano dharmāyurbalavijayaiśvaryavivr.ddhaye ihāmu trahitārtham ātmānugrahāya [. . . ]. 28 Fleet 1885, Paithan Plates of Rāmachandra – Saka 1193 (= ad 1272), p. 317 ll. 63 f.: [. . . ] ātmanah. śrīśāraṅgapān. iprītyartham [. . . ]. 
+27 CII V, 12 ll. .22 f. (Inscr. No. 3): ātmano dharmāyurbalavijayaiśvaryavivr.ddhaye ihāmu trahitārtham ātmānugrahāya [. . . ]. 28 Fleet 1885, Paithan Plates of Rāmachandra – Saka 1193 (= ad 1272), p. 317 ll. 63 f.: [. . . ] ātmanah. śrīśāraṅgapāṇiprītyartham [. . . ]. 
 
 29 Cf. Dirks 1976, 148 f.; Kulke 1978, l31 ff. 
 
@@ -4473,7 +4473,7 @@ We shall finally consider how this development—this structural change in royal
 
 Ramtek Hill: Theatre of Plenipotentiaries 
 
-In the 13th century Ramtek evolved into a place of pilgrimage which attracted votaries from far beyond the region itself. The best known of these was the founder of the Mahānubhāva sect, Cakradhara. He came to the hill sometime before ad 1264, probably during the reign of Mahādeva, and stayed in the Bhogarāma Temple, which was originally a Vākāt.aka temple enshrining Vāsu deva and Sam. kars.an. a, but at that time was dedicated to Vis.n. u–Rāma and his counterpart Kr.s.n. a.34 The hill did not derive its fame directly from its being a Vais.n. ava centre as such, nor from its possession of an ancient Narasim. ha temple, but from the fact that it had come to be considered as the residence of Rāmacandra. Two 13th-century inscriptions in the Kevala–Narasim. ha Temple testify to the pilgrimage of two brothers, the poet Trivikrama (who may have been the author of the Madālasācamp¯u) and his brother Rāghava, for the sake of worshipping the illustrious Rāma (above, p. 86). 
+In the 13th century Ramtek evolved into a place of pilgrimage which attracted votaries from far beyond the region itself. The best known of these was the founder of the Mahānubhāva sect, Cakradhara. He came to the hill sometime before ad 1264, probably during the reign of Mahādeva, and stayed in the Bhogarāma Temple, which was originally a Vākāt.aka temple enshrining Vāsu deva and Sam. kars.aṇa, but at that time was dedicated to Vis.ṇu–Rāma and his counterpart Kr.s.ṇa.34 The hill did not derive its fame directly from its being a Vais.ṇava centre as such, nor from its possession of an ancient Narasim. ha temple, but from the fact that it had come to be considered as the residence of Rāmacandra. Two 13th-century inscriptions in the Kevala–Narasim. ha Temple testify to the pilgrimage of two brothers, the poet Trivikrama (who may have been the author of the Madālasācamp¯u) and his brother Rāghava, for the sake of worshipping the illustrious Rāma (above, p. 86). 
 
 Two big temples had arisen to the west of the Vākāt.aka temples on the spur of the hill, giving it an impressive skyline (Plate 12). The main temple 
 
@@ -4489,17 +4489,17 @@ Two big temples had arisen to the west of the Vākāt.aka temples on the spur of
 
 
 
-was dedicated to Rāmacandra, the other to his brother Laks.man. a. The latter temple contains a lengthy stone-inscription, in which the praises are sung of Rāmacandra, the king and the god, and a Māhātmya is given of the holy places on and around the hill (see above, pp. 88 ff.). It was engraved under the reign of the Yādava king Rāmacandra by his plenipotentiary, the governor ruling this part of the realm, and it may have recorded some endowments or repairs made to the temple by this governor, though illegibility of the last part of the text makes this uncertain. 
+was dedicated to Rāmacandra, the other to his brother Laks.maṇa. The latter temple contains a lengthy stone-inscription, in which the praises are sung of Rāmacandra, the king and the god, and a Māhātmya is given of the holy places on and around the hill (see above, pp. 88 ff.). It was engraved under the reign of the Yādava king Rāmacandra by his plenipotentiary, the governor ruling this part of the realm, and it may have recorded some endowments or repairs made to the temple by this governor, though illegibility of the last part of the text makes this uncertain. 
 
-The governor, who styles himself the ‘superintendent of the guard of the royal bed-chamber’, proclaims that ‘the illustrious lord Rāmacandra had en trusted him, who was giving due weight to the virtues . . . , with the care of the magnificent prosperity of his thriving empire’ (v. 31). It may have been more than mere coincidence that the king’s proxy put up this inscription in the temple dedicated to the younger brother, not in the main Rāma temple itself, since he might have conceived of his relationship to the sovereign as ho mologous with the relation between the latter’s eponym, Rāma the god, and Laks.man. a, the deity of the temple. 
+The governor, who styles himself the ‘superintendent of the guard of the royal bed-chamber’, proclaims that ‘the illustrious lord Rāmacandra had en trusted him, who was giving due weight to the virtues . . . , with the care of the magnificent prosperity of his thriving empire’ (v. 31). It may have been more than mere coincidence that the king’s proxy put up this inscription in the temple dedicated to the younger brother, not in the main Rāma temple itself, since he might have conceived of his relationship to the sovereign as ho mologous with the relation between the latter’s eponym, Rāma the god, and Laks.maṇa, the deity of the temple. 
 
-From the inscription it appears that, at the time, Rāma was deemed the supreme form of Vis.n. u (vv. 38–40): 
+From the inscription it appears that, at the time, Rāma was deemed the supreme form of Vis.ṇu (vv. 38–40): 
 
 . . . There is nothing superior to Hari to enable one to cross the ocean of existence. Though there are ten avatars of His, Rāma is the (foremost) of them . . . . How can I describe that unsurpassed, wonderful efficacy of this mountain Tapam. - giri (i.e. Rāmagiri), where he, (the scion of the Raghu race), who is the supreme object of meditation of the yogis, lives together with the Son of the Wind (i.e. Hanumat)? 
 
-The text continues in the accomplished style of the Vais.n. ava bhakti tradition, mentioning the Aśvamedha sacrifice merely to extoll the far superior merit that accrues to the visitor of the sanctuaries on the hill (ibiḍv. 62). 
+The text continues in the accomplished style of the Vais.ṇava bhakti tradition, mentioning the Aśvamedha sacrifice merely to extoll the far superior merit that accrues to the visitor of the sanctuaries on the hill (ibiḍv. 62). 
 
-The analysis above provides, at least partly, an explanation of the so far unsolved problem why, of all incarnations of Vis.n. u or of all other Worshipful figures in the Hindu pantheon, it was Rāma (along with Kr.s.n. a) who became the central object of veneration in Hinduism of the 2nd millennium, Rāma who, in contrast with Kr.s.n. a, did not have roots in a folk deity nor had been the exclusive object of worship or cult of any consequence in the first eight centuries of his career as an acknowledged incarnation of Vis.n. u. The same devotional religion that informed their ideology provided a mighty symbol for these kings to appropriate (in the sense of a ‘personal symbol’ as introduced by Obeyesekere 1981). For, just as the Yādava king assumed transcendency and royalty in his person and as such boasted of being a reflection of divinity, so this divinity reflected had to compromise the same both aspects. And within the entire Hindu pantheon no symbol was more suitable for this than the figure of Rāmacandra, who personified kingship and godhead in one. 
+The analysis above provides, at least partly, an explanation of the so far unsolved problem why, of all incarnations of Vis.ṇu or of all other Worshipful figures in the Hindu pantheon, it was Rāma (along with Kr.s.ṇa) who became the central object of veneration in Hinduism of the 2nd millennium, Rāma who, in contrast with Kr.s.ṇa, did not have roots in a folk deity nor had been the exclusive object of worship or cult of any consequence in the first eight centuries of his career as an acknowledged incarnation of Vis.ṇu. The same devotional religion that informed their ideology provided a mighty symbol for these kings to appropriate (in the sense of a ‘personal symbol’ as introduced by Obeyesekere 1981). For, just as the Yādava king assumed transcendency and royalty in his person and as such boasted of being a reflection of divinity, so this divinity reflected had to compromise the same both aspects. And within the entire Hindu pantheon no symbol was more suitable for this than the figure of Rāmacandra, who personified kingship and godhead in one. 
 
 Appropriation by kings of this symbolism—and the analysis of the Mahā navamī ritual by Stein, for instance, seems to uncover the same phenomenon 
 
@@ -4511,9 +4511,9 @@ Appropriation by kings of this symbolism—and the analysis of the Mahā navamī
 
 7 / Throne and Temple 165 
 
-in the Vijayanagara empire (Stein 1983, 83)—contributed naturally, in an in teractive process, to the growth of this type of bhakti. This was the way in which the dialectics of ‘royalisation’ and ‘deification’ referred to above (p. 161) actually workeḍOne of its consequences was the aggrandizement of the sacred complex of the hill of Rāma, Ramtek, epitomized in the Rāma and Laks.man. a temples. 
+in the Vijayanagara empire (Stein 1983, 83)—contributed naturally, in an in teractive process, to the growth of this type of bhakti. This was the way in which the dialectics of ‘royalisation’ and ‘deification’ referred to above (p. 161) actually workeḍOne of its consequences was the aggrandizement of the sacred complex of the hill of Rāma, Ramtek, epitomized in the Rāma and Laks.maṇa temples. 
 
-Whereas the Vākāt.akas in their dealing with the cult of Narasim. ha were actually concerned with a metaphor—the divine figure of Narasim. ha and his symbolization in an icon presented the qualities of the king by analogy—in the days of the Yādavas this analogy developed into a homology. The bhaktas who visited the sanctuaries on top of the hill and who witnessed and participated in the elaborate ritual universe created around the idols installed, not only stood in front of their god Rāmacandra, but also faced their King Rāmacandra. Partly under the influence of the bhakti religion, court ritual and temple ritual had become almost indistinguishable, the idol being handled as a living king, the king treated as a deity. This conflation of different levels of meaning is constantly met with in the epigraphical material of this period, the authors of which were experts in double-entendres and equivocal expressions (śles.a). Take, for instance, the Kevala–Narasim. ha Temple Ramtek Inscription No. 1: ‘Sārṅgadeva, son of Kāmadeva, who is the crown of the philosophers and whose ´ praises are sung by the poet Trivikrama, praises always the illustrious Nr.hari. 35 In the time of the reign of Sim. han. a, in the Sārvarin-year’. ´ 36 Here Nr.hari may equally refer to the god of the temple Narasim. ha and to the reigning monarch Sim. han. a, whose name qualifies him as a ‘Lion among Men’. 
+Whereas the Vākāt.akas in their dealing with the cult of Narasim. ha were actually concerned with a metaphor—the divine figure of Narasim. ha and his symbolization in an icon presented the qualities of the king by analogy—in the days of the Yādavas this analogy developed into a homology. The bhaktas who visited the sanctuaries on top of the hill and who witnessed and participated in the elaborate ritual universe created around the idols installed, not only stood in front of their god Rāmacandra, but also faced their King Rāmacandra. Partly under the influence of the bhakti religion, court ritual and temple ritual had become almost indistinguishable, the idol being handled as a living king, the king treated as a deity. This conflation of different levels of meaning is constantly met with in the epigraphical material of this period, the authors of which were experts in double-entendres and equivocal expressions (śles.a). Take, for instance, the Kevala–Narasim. ha Temple Ramtek Inscription No. 1: ‘Sārṅgadeva, son of Kāmadeva, who is the crown of the philosophers and whose ´ praises are sung by the poet Trivikrama, praises always the illustrious Nr.hari. 35 In the time of the reign of Sim. haṇa, in the Sārvarin-year’. ´ 36 Here Nr.hari may equally refer to the god of the temple Narasim. ha and to the reigning monarch Sim. haṇa, whose name qualifies him as a ‘Lion among Men’. 
 
 The promotion of imperial sanctuaries all through the realm, especially in the periphery, thus enabled the sovereign, standing proxy for God, to be ubiquitous. This, again, created ramifications of loyalty by means of which the king and his plenipotentiaries could enact authority. Though we disagreed with Stein with regard to the starting-point of his above-quoted article, we subscribe to his conclusion: 
 
@@ -4539,7 +4539,7 @@ And this brings us back to the visual material of the Yādava age that is left o
 
 Plate 12 
 
-Rāmacandra and Laks.man. a temples on the spur of the Rāmagiri 
+Rāmacandra and Laks.maṇa temples on the spur of the Rāmagiri 
 
 
 
@@ -4547,11 +4547,11 @@ Rāmacandra and Laks.man. a temples on the spur of the Rāmagiri
 
 
 
-Little Kr.s.n. a’s Play with the Moon∗ 
+## Little Kr.s.ṇa’s Play with the Moon∗ 
 
 The literary evidence 
 
-Within the collection of hymns (Tirumol¯i) attributed to Vit.t.ucittan¯, also known as the ‘Great Saint’, Periyāl¯vār (9th century ad), we find ‘a series of indepen dent songs, [in which] Periyāl¯vār envisages the childhood of Kr.s.n. a through various games and ceremonies such as a real South Indian child would play and go through’ (Hardy 1983a, 406). Friedhelm Hardy, from whose Viraha–Bhakti I derive this information, styled this section the Bālacarita. It contains folk songs which, Hardy observes, afterwards came to form part of the genre styled pil.l.aitamil¯, ‘songs accompanying the games etc. of children’ (Hardy ibid.), ‘de picting the child-life of a hero or god’ (Zvelebil 1974, 102). In one of the ten stages which constitute this genre, the mother, Yaśodā, calls the moon to play with the child Kr.s.n. a. 1 ‘Whence’, Hardy asks, ‘did Periyāl¯vār derive the inspi ration for his Bālacarita?’ This scholar points to the Harivam. śa (HV 60.15), in which, just as in one of the Al ¯¯vār’s songs (III.5), Kr.s.n. a is said to eat a ‘lake of 
+Within the collection of hymns (Tirumol¯i) attributed to Vit.t.ucittan¯, also known as the ‘Great Saint’, Periyāl¯vār (9th century ad), we find ‘a series of indepen dent songs, [in which] Periyāl¯vār envisages the childhood of Kr.s.ṇa through various games and ceremonies such as a real South Indian child would play and go through’ (Hardy 1983a, 406). Friedhelm Hardy, from whose Viraha–Bhakti I derive this information, styled this section the Bālacarita. It contains folk songs which, Hardy observes, afterwards came to form part of the genre styled pil.l.aitamil¯, ‘songs accompanying the games etc. of children’ (Hardy ibid.), ‘de picting the child-life of a hero or god’ (Zvelebil 1974, 102). In one of the ten stages which constitute this genre, the mother, Yaśodā, calls the moon to play with the child Kr.s.ṇa. 1 ‘Whence’, Hardy asks, ‘did Periyāl¯vār derive the inspi ration for his Bālacarita?’ This scholar points to the Harivam. śa (HV 60.15), in which, just as in one of the Al ¯¯vār’s songs (III.5), Kr.s.ṇa is said to eat a ‘lake of 
 
 curds’ with a ‘whirlpool of ghee’/‘marsh of ghee’, and Hardy concludes ‘that in the two common r¯upakas we can safely assume direct literary dependence’. 2 How ‘safe’ is it, we may ask, to assume literary dependence on the basis of only two interconnected, and rather obvious metaphors (r¯upaka): ‘a lake of curd’ and ‘a whirlpool/marsh of ghee’? Hardy continues, 
 
@@ -4575,11 +4575,11 @@ Northern cultural values have deeply influenced and transformed the Southern awa
 
 as the connection of particular folk customs with mythical songs (which, we might say, are acted out in the custom), has been detected already in the Kalittokai and the Aycciyarkuravai ¯ . In language and idiom, Periyˆalvār comes closer to ordinary people than any other Al ¯¯vār. It is a difficult problem to find an overall explanation for the clear Northern influence on the one hand, and the closeness of our brahmin priest to the ordinary people and his deep roots in Tamil culture on the other hanḍI shall not attempt an answer here (Hardy 1983a, 411 f.). 
 
-I cannot try to solve this problem, first and foremost because I do not have access to the source material, Tamil literature. However, we may observe that the alleged influence from the North does not necessarily entail literary depen dence; the arguments adduced by Hardy for such dependence are rather flimsy and they are not corroborated by our investigation into the origin of one of the themes of the pil.l.aitamil¯, baby Kr.s.n. a’s play with the moon. 
+I cannot try to solve this problem, first and foremost because I do not have access to the source material, Tamil literature. However, we may observe that the alleged influence from the North does not necessarily entail literary depen dence; the arguments adduced by Hardy for such dependence are rather flimsy and they are not corroborated by our investigation into the origin of one of the themes of the pil.l.aitamil¯, baby Kr.s.ṇa’s play with the moon. 
 
-Baby Kr. s.n. a’s play with the moon 
+Baby Kr. s.ṇa’s play with the moon 
 
-As one might expect, the topic of Kr.s.n. a’s play with the moon became connected with those currents in the bhakti movement that cultivated the emotions as sociated with motherhood, in emulation of Yaśodā, the vātsalyabhāva. These emotions were beautifully expressed in a poem ascribed to S¯urdās, and we may assume that by the 16th century this and similar songs were sung all over India. I present Sabhā 809 of the S¯urasāgara in the translation of Kenneth Bryant. 
+As one might expect, the topic of Kr.s.ṇa’s play with the moon became connected with those currents in the bhakti movement that cultivated the emotions as sociated with motherhood, in emulation of Yaśodā, the vātsalyabhāva. These emotions were beautifully expressed in a poem ascribed to S¯urdās, and we may assume that by the 16th century this and similar songs were sung all over India. I present Sabhā 809 of the S¯urasāgara in the translation of Kenneth Bryant. 
 
 Again and again, Yaśodā coaxes: 
 
@@ -4605,7 +4605,7 @@ And S¯ur’s Lord laughed and dipped his two hands
 
 again and again and again. 3 
 
-If this topic originally hailed from the North, we could hope to find allusions to it in the early Sanskrit literature dealing with Kr.s.n. a’s childhood; the first text to investigate is indeed the Harivam. śa. However, neither here nor in the 
+If this topic originally hailed from the North, we could hope to find allusions to it in the early Sanskrit literature dealing with Kr.s.ṇa’s childhood; the first text to investigate is indeed the Harivam. śa. However, neither here nor in the 
 
 3 Bryant 1978, 170. 
 
@@ -4627,17 +4627,17 @@ s¯uradāsa prabhu ham. si musakyāne, bāra-bāra do¯u kara nāvaim. |
 
 
 
-8 / Little Kr.s.n. a’s Play with the Moon 169 
+8 / Little Kr.s.ṇa’s Play with the Moon 169 
 
-Vis.n. upurān. a have I been able to find the topic. Bhāsa’s Bālacarita does not mention it either and even the Bhāgavatapurān. a, which is certainly inspired by the South Indian tradition, does not seem to contain this theme. 
+Vis.ṇupurāṇa have I been able to find the topic. Bhāsa’s Bālacarita does not mention it either and even the Bhāgavatapurāṇa, which is certainly inspired by the South Indian tradition, does not seem to contain this theme. 
 
-A well-known collection of Sanskrit devotional verses in honour of Kr.s.n. a is the one ascribed to the poet Līlāśuka Bilvamaṅgala, the title of which in the South Indian mss is Kr.s.n. akarn. āmr.ta. The identity of its author, who probably was a South Indian and who might have lived in the 14th century, is problem atic, 4 but an anthology named Kr.s.n. akarn. āmr.ta was reportedly brought from South India to Bengal by Caitanya in c. ad 1510. 5 Neither in the South-Indian nor in the Bengali recension of this anthology do we find a verse dealing with the topic at issue. However, in addition to the Bengali one there exist other North-Indian anthologies that are attributed to Bilvamaṅgala. In Wilson’s critical edition they are represented by his mss Y. About these manuscripts Wilson remarks: 
+A well-known collection of Sanskrit devotional verses in honour of Kr.s.ṇa is the one ascribed to the poet Līlāśuka Bilvamaṅgala, the title of which in the South Indian mss is Kr.s.ṇakarn. āmr.ta. The identity of its author, who probably was a South Indian and who might have lived in the 14th century, is problem atic, 4 but an anthology named Kr.s.ṇakarn. āmr.ta was reportedly brought from South India to Bengal by Caitanya in c. ad 1510. 5 Neither in the South-Indian nor in the Bengali recension of this anthology do we find a verse dealing with the topic at issue. However, in addition to the Bengali one there exist other North-Indian anthologies that are attributed to Bilvamaṅgala. In Wilson’s critical edition they are represented by his mss Y. About these manuscripts Wilson remarks: 
 
-The Y version (Northern mss.) shows that the KK (Kr.s.n. akarn. āmr.ta) collection reached West India and Madhyadeśa and was popular there from c. 1400–1700 aḍFrom a descriptive point of view the Y version is not a version of the KK: except for Y 50, the mss. of the Y version do not arrange the verses into centuries; no Y version is named Kr.s.n. akarn. āmr.ta; finally, about one half the verses in any Y ms. are not found in the mss. named KK and about one half of the verses in the mss. named KK are not found in any Y ms. 6 
+The Y version (Northern mss.) shows that the KK (Kr.s.ṇakarn. āmr.ta) collection reached West India and Madhyadeśa and was popular there from c. 1400–1700 aḍFrom a descriptive point of view the Y version is not a version of the KK: except for Y 50, the mss. of the Y version do not arrange the verses into centuries; no Y version is named Kr.s.ṇakarn. āmr.ta; finally, about one half the verses in any Y ms. are not found in the mss. named KK and about one half of the verses in the mss. named KK are not found in any Y ms. 6 
 
-Among the half that is not found in mss titled Kr.s.n. akarn. āmr.ta is a verse that refers to our topic in a slightly varied form. It is preserved in a ms kept in the Chandra Shum Shere collection of the Bodleian Library (d 843), titled Srīgopālabālastuti ´ by Bilvamaṅgala, in an India Office ms (No. 564), titled Su maṅgalastotra by Bilvamaṅgala, with a commentary called Kr.s.n. akarn. āmr.ta t.īkā, in a ms used for a Bengali edition of 1817, 7 and in 4 mss used in the so-called Assamese version edited by M. Neog; two of the latter mss are dated, namely ad 1803 and 1837, all other mss are undated. 8 Wilson presents this verse among his Additional Verses: 
+Among the half that is not found in mss titled Kr.s.ṇakarn. āmr.ta is a verse that refers to our topic in a slightly varied form. It is preserved in a ms kept in the Chandra Shum Shere collection of the Bodleian Library (d 843), titled Srīgopālabālastuti ´ by Bilvamaṅgala, in an India Office ms (No. 564), titled Su maṅgalastotra by Bilvamaṅgala, with a commentary called Kr.s.ṇakarn. āmr.ta t.īkā, in a ms used for a Bengali edition of 1817, 7 and in 4 mss used in the so-called Assamese version edited by M. Neog; two of the latter mss are dated, namely ad 1803 and 1837, all other mss are undated. 8 Wilson presents this verse among his Additional Verses: 
 
-Kr. s.n.a who, seeing the moon reflected in the waters of a pot, dipped his fingers into it to taste, thinking it was fresh butter: bewildered he was, when he found none; may he protect us. 9 
+Kr. s.ṇa who, seeing the moon reflected in the waters of a pot, dipped his fingers into it to taste, thinking it was fresh butter: bewildered he was, when he found none; may he protect us. 9 
 
 4 Wilson 1975, 16 ff.; Gonda 1977, 31. 
 
@@ -4645,13 +4645,13 @@ Kr. s.n.a who, seeing the moon reflected in the waters of a pot, dipped his fing
 
 6 Wilson 1975, 5. 
 
-7 Given in S.K. De’s edition of the Kr.s.n. akarn. āmr.ta. 
+7 Given in S.K. De’s edition of the Kr.s.ṇakarn. āmr.ta. 
 
 8 See Wilson 1975, 439. The same author mentions (ibid. 315) a ms in the Scindia Oriental Institute (Ujjain) (No. 6523) as a source for this verse (his Y 31), which seems to take the place of the Oxford and London mss (his Y 13 and Y 33) that are mentioned as sources on p. 439. 
 
 9 Wilson 1975, p. 227: 
 
-ghat.odakes.u pratimāśaśāṅkam. vilokya kr. s.n. o navanītabuddhyā | 
+ghat.odakes.u pratimāśaśāṅkam. vilokya kr. s.ṇo navanītabuddhyā | 
 
 ādātum antar nihitāgrahastah. pāyāt tadaprāptisamākulo nah. k 
 
@@ -4663,17 +4663,17 @@ ghat.odakes.u pratimāśaśāṅkam. vilokya kr. s.n. o navanītabuddhyā |
 
 
 
-It would seem that in this Sanskrit version the original character of the topic as reported in the Tamil tradition and preserved in S¯urdās’ poem, namely, that of a lullaby in which the moon is the object of Kr.s.n. a’s fancy, has been assimilated to the famous theme of Kr.s.n. a’s appetite for butter, for which he takes the moon’s reflection by mistake. 
+It would seem that in this Sanskrit version the original character of the topic as reported in the Tamil tradition and preserved in S¯urdās’ poem, namely, that of a lullaby in which the moon is the object of Kr.s.ṇa’s fancy, has been assimilated to the famous theme of Kr.s.ṇa’s appetite for butter, for which he takes the moon’s reflection by mistake. 
 
-Wilson reports that around Ujjain Bilvamaṅgala is identified with S¯urdās, 10 and though this may be just a local tradition, it may indicate the affinity that was sensed between this Sanskrit anthology and the S¯urasāgara tradition. Both verses, the Sanskrit and the Braj, may have come into existence independently at about the same period, articulating the popularity of the topic in circles of Kr.s.n. a bhaktas of the fifteenth and sixteenth century. 
+Wilson reports that around Ujjain Bilvamaṅgala is identified with S¯urdās, 10 and though this may be just a local tradition, it may indicate the affinity that was sensed between this Sanskrit anthology and the S¯urasāgara traditioṇBoth verses, the Sanskrit and the Braj, may have come into existence independently at about the same period, articulating the popularity of the topic in circles of Kr.s.ṇa bhaktas of the fifteenth and sixteenth century. 
 
-With respect to the origin of the topic the verse ascribed to Bilvamaṅgala adds little to the testimony of the S¯urasāgara. We must conclude that our literary survey has not yielded any evidence that the topic of Kr.s.n. a’s play with the moon was known in northern India before the fifteenth century. 
+With respect to the origin of the topic the verse ascribed to Bilvamaṅgala adds little to the testimony of the S¯urasāgara. We must conclude that our literary survey has not yielded any evidence that the topic of Kr.s.ṇa’s play with the moon was known in northern India before the fifteenth century. 
 
 The archaeological evidence 
 
-We could leave it at that were it not that Indian archaeology has its own story to tell. For that reason we go to a village called Paunar on the right bank of the River Dham, 70 km southwest of Nagpur in Maharashtra. It has several mounds testifying to a long-standing occupation of the site. Excavations were carried out in 1967 under the supervision of S.B. Deo of the Department of Ancient Indian History, Culture and Archaeology of the University of Nagpur. Among other things this excavation brought to light that Paunar enjoyed its days of prosperity during the Vākāt.aka period, i.e. 5th century ad, and consecutive period, the first quarter of the 6th century, when the Vis.n. ukun. ḍins held sway over this area. 11 
+We could leave it at that were it not that Indian archaeology has its own story to tell. For that reason we go to a village called Paunar on the right bank of the River Dham, 70 km southwest of Nagpur in Maharashtra. It has several mounds testifying to a long-standing occupation of the site. Excavations were carried out in 1967 under the supervision of S.B. Deo of the Department of Ancient Indian History, Culture and Archaeology of the University of Nagpur. Among other things this excavation brought to light that Paunar enjoyed its days of prosperity during the Vākāt.aka period, i.e. 5th century ad, and consecutive period, the first quarter of the 6th century, when the Vis.ṇukun. ḍins held sway over this area. 11 
 
-The major findings in Paunar, however, did not emerge from the excavation, but were recovered during the building of the Paramadhāma Aśrama of Vinoba ¯ Bhave on the left (northern) bank of the Dham. The sculptures and panels found ‘while digging in the fields round Srī Vin¯obājī’s ´ āśrama’ are preserved in the Ashram. 12 They attest to the existence of several sanctuaries on the bank of the river, among which at least one large Vis.n. u temple. From the beginning, however, there has been controversy over their iconography and date. Mirashi, who was the first to give a systematic interpretation of the panels, thought they depict scenes of the Rāmāyan. a.13 This view has proved to be untenable 
+The major findings in Paunar, however, did not emerge from the excavation, but were recovered during the building of the Paramadhāma Aśrama of Vinoba ¯ Bhave on the left (northern) bank of the Dham. The sculptures and panels found ‘while digging in the fields round Srī Vin¯obājī’s ´ āśrama’ are preserved in the Ashram. 12 They attest to the existence of several sanctuaries on the bank of the river, among which at least one large Vis.ṇu temple. From the beginning, however, there has been controversy over their iconography and date. Mirashi, who was the first to give a systematic interpretation of the panels, thought they depict scenes of the Rāmāyaṇa.13 This view has proved to be untenable 
 
 10 Wilson 1975, 6. 
 
@@ -4687,9 +4687,9 @@ The major findings in Paunar, however, did not emerge from the excavation, but w
 
 
 
-8 / Little Kr.s.n. a’s Play with the Moon 171 
+8 / Little Kr.s.ṇa’s Play with the Moon 171 
 
-and it is now generally believed that the majority of the panels (if not all) represent līlā scenes of Kr.s.n. a and his associates, for instance: ‘Kam. savadha’ (Plate 13), 14 and ‘Dhenukāsuravadha’ (Plate 14). 15 
+and it is now generally believed that the majority of the panels (if not all) represent līlā scenes of Kr.s.ṇa and his associates, for instance: ‘Kam. savadha’ (Plate 13), 14 and ‘Dhenukāsuravadha’ (Plate 14). 15 
 
   
 
@@ -4701,9 +4701,9 @@ Plate 13 Plate 14
 
 Paunar: Kam. savadha Paunar: Dhenukāsuravadha 
 
-Considerations of style would suggest that many of the findings preserved in the Ashram, including the panels, do not belong to the Vākāt.akas, but may date from a somewhat later perioḍWalter Spink ascribes them to ‘a period (c. ad 500) of Vis.n. ukun. ḍin rule over Vidarbha’. 16 The Vis.n. ukun. ḍins, whose homeland was the Guntur District (AP) and the region to the north of the Srīśaila Hills ´ (the present Mahbubnagar District AP), became, when their kingdom began to 
+Considerations of style would suggest that many of the findings preserved in the Ashram, including the panels, do not belong to the Vākāt.akas, but may date from a somewhat later perioḍWalter Spink ascribes them to ‘a period (c. ad 500) of Vis.ṇukun. ḍin rule over Vidarbha’. 16 The Vis.ṇukun. ḍins, whose homeland was the Guntur District (AP) and the region to the north of the Srīśaila Hills ´ (the present Mahbubnagar District AP), became, when their kingdom began to 
 
-14 The story covers Kr.s.n. a disposing of an elephant, named Kuvalayāpīḍa, Kr.s.n. a and Balarāma entering the arena and killing the wrestlers Cān. ¯ura and Mus.t.ika, and finally Kr.s.n. a dragging Kam. sa by holding his hair. 
+14 The story covers Kr.s.ṇa disposing of an elephant, named Kuvalayāpīḍa, Kr.s.ṇa and Balarāma entering the arena and killing the wrestlers Cān. ¯ura and Mus.t.ika, and finally Kr.s.ṇa dragging Kam. sa by holding his hair. 
 
 15 Balarāma hurling the ass-demon Dhenuka on to a palmyra tree, from which he falls down, his back broken and, dying, transmutes into his anthropomorphic demon form (Bakker 1997, 157 f.). 
 
@@ -4725,7 +4725,7 @@ emerge at the end of the 4th century, heirs to the artistic tradition of Amarā 
 
 Plate 15 
 
-Paunar: Little Kr. s.n. a’s play with the moon 
+Paunar: Little Kr. s.ṇa’s play with the moon 
 
 17 Huntington 1985, 180 observes: 
 
@@ -4737,17 +4737,17 @@ The sculptural style at Nāgārjunakon. ḍa, like that at Amarāvatī, is known
 
 
 
-8 / Little Kr.s.n. a’s Play with the Moon 173 
+8 / Little Kr.s.ṇa’s Play with the Moon 173 
 
 One of the panels (Plate 15) was interpreted by Mirashi (1954, 4) as ‘the birth of Rāma. The prominent male figure is Daśaratha who has taken the baby in his hands and is looking affectionately at him’. Joanna Williams (1983, 229) surmises that it ‘may represent Vasudeva transporting the baby to Gokul’. Yet another identification has been proposed by Chandrashekhar Gupta, who describes the panel as follows. 
 
-The main figure standing in the centre facing right (head mutilated) is shown carrying a chilḍTwo persons are standing on his either [sic] side and a female attendant is seated in the Garuḍakrama posture, holding an oval object in her hands in the lower right corner. One of the male figures is an attendant holding the staff of an umbrella and the other is some elderly person in the varadamudrā. The scene is described [by Mirashi] as Daśaratha receiving Rāma, brought to him by the female attendant, after the birth. The child does not appear to be a newly born one. On the other hand he looks like a 2-3 years old boy. It can be identified with the story of Kr.ishn. a’s obstinacy for getting the moon. The oval object in the hands of the female attendant can be identified as a mirror or a pot filled with water to reflect the image of the moon to satisfy Kr.ishn. a. (Gupta 1992, 146 f.) 
+The main figure standing in the centre facing right (head mutilated) is shown carrying a chilḍTwo persons are standing on his either [sic] side and a female attendant is seated in the Garuḍakrama posture, holding an oval object in her hands in the lower right corner. One of the male figures is an attendant holding the staff of an umbrella and the other is some elderly person in the varadamudrā. The scene is described [by Mirashi] as Daśaratha receiving Rāma, brought to him by the female attendant, after the birth. The child does not appear to be a newly born one. On the other hand he looks like a 2-3 years old boy. It can be identified with the story of Kr.ishṇa’s obstinacy for getting the mooṇThe oval object in the hands of the female attendant can be identified as a mirror or a pot filled with water to reflect the image of the moon to satisfy Kr.ishṇa. (Gupta 1992, 146 f.) 
 
-Though I find it difficult to assess the precise age of the boy held by the main male figure, I think Gupta’s identification of the panel might be the correct one. At variance with S¯urdās’ description, the infant Kr.s.n. a in the Paunar relief is held by Nanda, while Yaśodā kneels in front of him to hold the mirror (apparently not a pot with water). The two male bystanders in the background could be inhabitants of Gokula, the one at his right holds what seems to be a staff, possibly of an umbrella. 18 
+Though I find it difficult to assess the precise age of the boy held by the main male figure, I think Gupta’s identification of the panel might be the correct one. At variance with S¯urdās’ description, the infant Kr.s.ṇa in the Paunar relief is held by Nanda, while Yaśodā kneels in front of him to hold the mirror (apparently not a pot with water). The two male bystanders in the background could be inhabitants of Gokula, the one at his right holds what seems to be a staff, possibly of an umbrella. 18 
 
 Conclusion 
 
-When we combine the Paunar evidence with the outcome of our literary survey, the panel thus seems to endorse the hypothesis that the topic of Kr.s.n. a’s play with the moon originated in South India. The South-Indian Vis.n. ukun. ḍins brought it with them when their influence spread over Maharashtra during the last phase of Vākāt.aka rule, when Pr.thivīs.en. a II was king of Vidarbha. In order to defend his kingdom against the Nalas of the Bastar region (MP), the latter king had summoned the assistence of what probably was his son-in-law, the Vis.n. ukun. ḍin king Mādhavavarman II Janāśraya in the last decade of the fifth century. As I have argued in my The Vākāt.akas (Bakker 1997, 55–57), the Vis.n. ukun. ḍins succeeded the Vākāt.akas after the collapse of the Vākāt.aka kingdom. Mādhavavarman II declared himself emperor (sārvabhauma) in his Khanapur Plates which were found in the Satara District of Maharashtra. 19 
+When we combine the Paunar evidence with the outcome of our literary survey, the panel thus seems to endorse the hypothesis that the topic of Kr.s.ṇa’s play with the moon originated in South India. The South-Indian Vis.ṇukun. ḍins brought it with them when their influence spread over Maharashtra during the last phase of Vākāt.aka rule, when Pr.thivīs.eṇa II was king of Vidarbha. In order to defend his kingdom against the Nalas of the Bastar region (MP), the latter king had summoned the assistence of what probably was his son-in-law, the Vis.ṇukun. ḍin king Mādhavavarman II Janāśraya in the last decade of the fifth century. As I have argued in my The Vākāt.akas (Bakker 1997, 55–57), the Vis.ṇukun. ḍins succeeded the Vākāt.akas after the collapse of the Vākāt.aka kingdom. Mādhavavarman II declared himself emperor (sārvabhauma) in his Khanapur Plates which were found in the Satara District of Maharashtra. 19 
 
 18 I do not see the varadamudrā of the figure to the left. 
 
@@ -4761,7 +4761,7 @@ When we combine the Paunar evidence with the outcome of our literary survey, the
 
 
 
-In the inscriptions of his descendents Mādhavavarman II’s kingdom is said to have adjoined the waters of the Revā, i.e. the Narmadā River. 20 In sum it may be observed that the materials that we have been able to survey all point to South India as the cradle, to use an apposite metaphor, of the topic of Kr.s.n. a’s play with the moon. Of course it is very well possible that we have missed an early Sanskrit passage containing this topic. Moreover, further research is needed of the ancient Tamil tradition of folk songs or lullabies from which Periyāl¯vār may have derived his inspiration. If our interpretation of the Paunar pannel is correct, though, such a song must already have been around in the fifth century ad. 
+In the inscriptions of his descendents Mādhavavarman II’s kingdom is said to have adjoined the waters of the Revā, i.e. the Narmadā River. 20 In sum it may be observed that the materials that we have been able to survey all point to South India as the cradle, to use an apposite metaphor, of the topic of Kr.s.ṇa’s play with the mooṇOf course it is very well possible that we have missed an early Sanskrit passage containing this topic. Moreover, further research is needed of the ancient Tamil tradition of folk songs or lullabies from which Periyāl¯vār may have derived his inspiratioṇIf our interpretation of the Paunar pannel is correct, though, such a song must already have been around in the fifth century ad. 
 
 20 Journal of Indian History 43 (1965), 734 ll. 8–9. 
 
@@ -4770,16 +4770,14 @@ In the inscriptions of his descendents Mādhavavarman II’s kingdom is said to 
 
 
 
-
+## Puranic Literature Methodology
 Some Methodological Considerations with 
-
 Respect to the Critical Edition of 
-
 Puranic Literature∗ 
 
 Introduction 
 
-Remarkably, two much-debated issues appear to have had little or no conse quence for the editing of classical Sanskrit texts. I am thinking of Paul Hacker’s methodology for the investigation of anonymous Sanskrit literature, 1 as well as of a field of study that might be referred to as ‘oral poetics’. Neither Hacker him self nor any of his pupils whose investigations were concerned with the historical development of Vis.n. u’s avatars have provided us with solid text-editions to un derpin their findings. 2 On the other hand, although Indian literature avowedly comprises one of the world’s greatest oral traditions, Sanskritists have seldom had recourse to the theories about oral poetry developed by scholars of other languages, nor has Sanskrit material been taken into account in, for instance, C.M. Bowra’ s Heroic Poetry, in A.B. Lord’s The Singer of Tales, or in such general works as Oral Poetry. Das Problem der M¨undlichkeit mittelalterlicher epischer Dichtung, or Ruth Finnegan’s Oral Poetry (1977). If we think of the studies of Emeneau (1958), and Kailasapathy (1968), or John Smith, 3 we must conclude that Dravidian and New Indo-Aryan literary traditions are thought to be more appropriate for an investigation along the lines of comparative oral poetics than their Sanskrit counterparts. In this respect the neglect of classical anonymous Sanskrit literature is understandable, if we think of puranic litera ture of which the written nature (Schriftlichkeit) has never been seriously ques tioned since Kirfel’s ‘Ersch¨utterung’ of the ‘Hypothese von der Jahrhunderte langen m¨undlichen Tradition gr¨osserer Texte in Indien’ in the Introduction of 
+Remarkably, two much-debated issues appear to have had little or no conse quence for the editing of classical Sanskrit texts. I am thinking of Paul Hacker’s methodology for the investigation of anonymous Sanskrit literature, 1 as well as of a field of study that might be referred to as ‘oral poetics’. Neither Hacker him self nor any of his pupils whose investigations were concerned with the historical development of Vis.ṇu’s avatars have provided us with solid text-editions to un derpin their findings. 2 On the other hand, although Indian literature avowedly comprises one of the world’s greatest oral traditions, Sanskritists have seldom had recourse to the theories about oral poetry developed by scholars of other languages, nor has Sanskrit material been taken into account in, for instance, C.M. Bowra’ s Heroic Poetry, in A.B. Lord’s The Singer of Tales, or in such general works as Oral Poetry. Das Problem der M¨undlichkeit mittelalterlicher epischer Dichtung, or Ruth Finnegan’s Oral Poetry (1977). If we think of the studies of Emeneau (1958), and Kailasapathy (1968), or John Smith, 3 we must conclude that Dravidian and New Indo-Aryan literary traditions are thought to be more appropriate for an investigation along the lines of comparative oral poetics than their Sanskrit counterparts. In this respect the neglect of classical anonymous Sanskrit literature is understandable, if we think of puranic litera ture of which the written nature (Schriftlichkeit) has never been seriously ques tioned since Kirfel’s ‘Ersch¨utterung’ of the ‘Hypothese von der Jahrhunderte langen m¨undlichen Tradition gr¨osserer Texte in Indien’ in the Introduction of 
 
 ∗ The first version of this article was published in Zeitschrift der Deutschen Mor genla¨ndischen Gesellschaft. Supplementa xxiii. Deutscher Orientalistentag vom 16. bis 20. September 1985 in W¨urzburg. Ausgew¨ahlte Vortr¨age hrsg. von Einar von Schuler. Stuttgart 1989. pp. 329–341. 
 
@@ -4787,7 +4785,7 @@ Remarkably, two much-debated issues appear to have had little or no conse quence
 
 2 Hacker 1960a and 1960b; Tripathi 1968; R¨uping 1970; Gail 1969, 1977a, 1977b; Bock 1984. 
 
-3 Smith 1977. Smith 1980 discusses, besides other things, the oral origin of the two Sanskrit epics with reference to the Parry–Lord theory and concludes that, in spite of initial attempts by R.K. Sharma 1964 and N. Sen 1966, ‘formula-analysis of the two Sanskrit epics is an urgent desideratum’ (op. cit. 73). 
+3 Smith 1977. Smith 1980 discusses, besides other things, the oral origin of the two Sanskrit epics with reference to the Parry–Lord theory and concludes that, in spite of initial attempts by R.K. Sharma 1964 and ṇSen 1966, ‘formula-analysis of the two Sanskrit epics is an urgent desideratum’ (op. cit. 73). 
 
 175 
 
@@ -4797,7 +4795,7 @@ Remarkably, two much-debated issues appear to have had little or no conse quence
 
 
 
-his Purān. apa˜ncalaks.an. a’ (PPL p. il). Before going further into the matter of critically editing these texts, a few words need to be said on some character istics of this type of literature viewed in the light of the results attained by investigators of oral literary traditions elsewhere. 
+his Purāṇapa˜ncalaks.aṇa’ (PPL p. il). Before going further into the matter of critically editing these texts, a few words need to be said on some character istics of this type of literature viewed in the light of the results attained by investigators of oral literary traditions elsewhere. 
 
 The theory of ‘oral composition’ 
 
@@ -4829,7 +4827,7 @@ Composition-in-transmission
 
 The many different versions of what basically seems to be one and the same epic or puranic text may have its origin in recomposition during the process of literary transmission rather than in a living oral tradition. 8 By the very nature of this genre, which recognizes divine inspiration as the only authentic source, the role of the individual composer is ignored to such an extent that every skilful author or transmitter may believe himself authorized to change, delete, or add to given text-material without conceiving of this as a personal contribution, distortion, or frauḍThe aspiration to create something supra-individual is responsible for the fact that Indian puranic composers vie with each other in minimalizing the effect of empirical, historical and personal circumstances on the texts, making it a hard task for indologists to date and to determine the products. 
 
-The congeniality of both phenomena, ‘composition-in-performance’ and ‘composition-in-transmission’ ensues from the style of the texts themselves. Like orally composed epic poems, puranic texts are often highly formulaic in diction and sometimes repetitive to a degree that Westerners are likely to regard as tedious and inappropriate to written form. Yet the conclusion that puranic literature as known to us must be a product of oral tradition seems to be based on a fallacy. These texts are formulaic and repetitive, first of all because this style lends authority to the texts, and secondly, because it ac counts for a process on an Indian scale of ‘composition-in-transmission’. These observations entail that the techniques of composition of oral and written texts of this sort have much in common. In both instances the composer is well-trained in a traditional formulaic language and has memorized large pieces of text which he can reproduce and modify at will. The first consideration of style refers to the conservatism of the Indian cultural tradition which often disparages innovation and idiosyncracy. A puranic author who intended to present a new subject, vision, or altered situation had rather to comply with traditional style and diction on penalty of being ignored. 
+The congeniality of both phenomena, ‘composition-in-performance’ and ‘composition-in-transmission’ ensues from the style of the texts themselves. Like orally composed epic poems, puranic texts are often highly formulaic in diction and sometimes repetitive to a degree that Westerners are likely to regard as tedious and inappropriate to written form. Yet the conclusion that puranic literature as known to us must be a product of oral tradition seems to be based on a fallacy. These texts are formulaic and repetitive, first of all because this style lends authority to the texts, and secondly, because it ac counts for a process on an Indian scale of ‘composition-in-transmission’. These observations entail that the techniques of composition of oral and written texts of this sort have much in commoṇIn both instances the composer is well-trained in a traditional formulaic language and has memorized large pieces of text which he can reproduce and modify at will. The first consideration of style refers to the conservatism of the Indian cultural tradition which often disparages innovation and idiosyncracy. A puranic author who intended to present a new subject, vision, or altered situation had rather to comply with traditional style and diction on penalty of being ignored. 
 
 Both arguments, the stylistic and the technical one, seem to point, however, to a living oral tradition from which the puranic genre once emerged, 9 and by 
 
@@ -4851,7 +4849,7 @@ The theory advanced here may be seen as an attempt to elucidate something of thi
 
 which it possibly, as we may see, was sustaineḍMuch of the technique and method of the oral composers was retained by their successors who made use of writing and written exemplars, whereas, on the other hand, the conservatism in Indian culture made the characteristics of the bygone oral tradition, such as formulaic diction, repetitiveness, and traditionality of setting and frame-stories, themes, and motives, the very yardstick of authenticity which above anything else could bestow authority upon the texts. 
 
-The phenomenon of ‘composition-in-transmission’ does not exclude scribal activity of the sort in which exemplars are more or less faithfully copieḍBoth activities may have been practised since the time writing was employed as a means of transmission. In the heyday of the genre, say from ad 400 to ad 1400, composition-in-transmission may have often taken the place of mere copying, and it seems likely that with the extinction of the genius of puranic creativity and fading away of its oral roots copying became the normal practice, yet, until today, specialists may feel entitled to re-compose traditional text-material with out notification. The amazing persistence of the puranic technique and style of composition may also be ascribed to the custom of reciting the text. Spe cial audiences or occasions may have required newly composed or copied texts, whereas the ambience of these sessions as well as the techniques of recitation involved preserved the professional expertise and contributed to the mnemonic capacities of the pustakavācaka or paurān. ika (see below, p. 607). 
+The phenomenon of ‘composition-in-transmission’ does not exclude scribal activity of the sort in which exemplars are more or less faithfully copieḍBoth activities may have been practised since the time writing was employed as a means of transmissioṇIn the heyday of the genre, say from ad 400 to ad 1400, composition-in-transmission may have often taken the place of mere copying, and it seems likely that with the extinction of the genius of puranic creativity and fading away of its oral roots copying became the normal practice, yet, until today, specialists may feel entitled to re-compose traditional text-material with out notificatioṇThe amazing persistence of the puranic technique and style of composition may also be ascribed to the custom of reciting the text. Spe cial audiences or occasions may have required newly composed or copied texts, whereas the ambience of these sessions as well as the techniques of recitation involved preserved the professional expertise and contributed to the mnemonic capacities of the pustakavācaka or paurāṇika (see below, p. 607). 
 
 The theory advanced here poses the question of how and when the oral tradition evolved into a written one. Since the practice of ‘composition-in transmission’ requires much of the technique and know-how of an oral tradition, and since, as we know, 10 the analogue practice of recitation supplanted the ‘composition-in-performance’, oral and written traditions may have co-existed for a long time. The general Indian preference for oral rather than written authority may also have contributed to the longevity of the system of combined oral and written transmission. 
 
@@ -4873,7 +4871,7 @@ question, simply because we have to do with a multiple of re-compositions. 11 Th
 
 A brief evaluation of the accomplishments of critical editing of Indian epic and puranic texts may elucidate the actual state of affairs. Under the influence of Western philologists and armed with the classical method of textual criticism, the edition of the Mahābhārata was undertaken by a team of Indian scholars in the second decade of the twentieth century. 13 From the beginning critical noises were heard and some doubt was raised as to the applicability to such a text of the classical method of editing. 14 
 
-It was, however, a long time before a frontal attack was launcheḍBy that time the monumental critical edition of the Mahābhārata was completed, that of the Rāmāyan. a was half finished, and the editing on the same principles of Purān. as had begun. Supported by the first results of the Parry–Lord school and influenced by French structuralism with its notorious disregard of historicity, Madeleine Biardeau argued for an abandonment of all so-called ‘critical’ editing and stood up for the value of each individual recension. 15 Aside from a number of emotional rather than rational objections, the attitude of the Indian critical school as voiced by V.M. Bedekar (1969) and A.S. Gupta (1970) produced one irrefutable counterargument, viz. that the edition of all different versions of texts like the Mahābhārata is practically impossible. Consequently, the preparation of critical editions was continued along the same lines, until quite recently Giorgio Bonazzoli in charge of the All-India Kashiraj Trust gave a warning that the vessel founders as a result of overloading with incongruous text-materials. 16 
+It was, however, a long time before a frontal attack was launcheḍBy that time the monumental critical edition of the Mahābhārata was completed, that of the Rāmāyaṇa was half finished, and the editing on the same principles of Purāṇas had beguṇSupported by the first results of the Parry–Lord school and influenced by French structuralism with its notorious disregard of historicity, Madeleine Biardeau argued for an abandonment of all so-called ‘critical’ editing and stood up for the value of each individual recension. 15 Aside from a number of emotional rather than rational objections, the attitude of the Indian critical school as voiced by V.M. Bedekar (1969) and A.S. Gupta (1970) produced one irrefutable counterargument, viz. that the edition of all different versions of texts like the Mahābhārata is practically impossible. Consequently, the preparation of critical editions was continued along the same lines, until quite recently Giorgio Bonazzoli in charge of the All-India Kashiraj Trust gave a warning that the vessel founders as a result of overloading with incongruous text-materials. 16 
 
 In Germany on the other hand, the cradle of the Indian critical school, occu pation with epic and puranic texts took another course. At its basis lay Kirfel’s reconstruction of the five oldest constituents of puranic literature. Unlike his Indian colleagues, Kirfel recognized the futility of an attempt at reconstructing one most original text. 17 Consequently, his edition contains a synoptic presen 
 
@@ -4891,7 +4889,7 @@ In Germany on the other hand, the cradle of the Indian critical school, occu pat
 
 17 Kirfel in PPL p. xlviii: 
 
-Die eventuelle Annahme, dass jenseits der ¨altesten Textschicht unseres Pa˜ncalaks.an. a 
+Die eventuelle Annahme, dass jenseits der ¨altesten Textschicht unseres Pa˜ncalaks.aṇa 
 
 
 
@@ -4903,13 +4901,13 @@ Die eventuelle Annahme, dass jenseits der ¨altesten Textschicht unseres Pa˜nca
 
 tation of different recensions or ‘Textgruppen’ which are not further reducible. The extreme complexity of Kirfel’s magnum opus might have deterred other sanskritists from following suit. 
 
-The matter was taken up again systematically by Paul Hacker. He pointed out that many of the Purān. as are, as such, only secondary products, compila tions of ‘Einzelst¨ucke’, or ‘components’, which often had existed independently before being intergrated into the superstructure of a Purān. a. This led to the maxim: ‘Zun¨achts ist bei der Untersuchung von Texten der anonymen Literatur auf einzelne, inhaltlich einheitliche St¨ucke zu achten aus denen die ¨uberliefer ten Werke zusammengesezt sind.’ 18 The works that this line of research has brought forth are well-known. However, the limitation of the method is con tained in the words just quoted: ‘Untersuchung’ and ‘¨uberlieferten Werke’. Evidently, for Hacker and his celās ‘Untersuchung’ did not imply ‘edition’, 19 and ‘¨uberlieferten Werke’ referred in the majority of cases to printed editions of ‘complete’ works. That these limitations could easily give rise to short comings has recently been pointed out by Horst Brinkhaus in a review of A. Gail’s Paraśurāma. Brahmane und Krieger, in which he noticed that the au thor, 
+The matter was taken up again systematically by Paul Hacker. He pointed out that many of the Purāṇas are, as such, only secondary products, compila tions of ‘Einzelst¨ucke’, or ‘components’, which often had existed independently before being intergrated into the superstructure of a Purāṇa. This led to the maxim: ‘Zun¨achts ist bei der Untersuchung von Texten der anonymen Literatur auf einzelne, inhaltlich einheitliche St¨ucke zu achten aus denen die ¨uberliefer ten Werke zusammengesezt sind.’ 18 The works that this line of research has brought forth are well-knowṇHowever, the limitation of the method is con tained in the words just quoted: ‘Untersuchung’ and ‘¨uberlieferten Werke’. Evidently, for Hacker and his celās ‘Untersuchung’ did not imply ‘edition’, 19 and ‘¨uberlieferten Werke’ referred in the majority of cases to printed editions of ‘complete’ works. That these limitations could easily give rise to short comings has recently been pointed out by Horst Brinkhaus in a review of A. Gail’s Paraśurāma. Brahmane und Krieger, in which he noticed that the au thor, 
 
-. . . in seiner Monographie immer wieder von den ¨uberlieferten Endredaktionen der epischen oder purān. ischen Gesamtabschnitte zu Paraśurāma oder gar der Gesamtwerke als notwendig koh¨arenten Einheiten aus [geht] und [. . . ] von den Gesamttexten die Funktionen der Einzelst¨ucke ab[leitet]. 20 
+. . . in seiner Monographie immer wieder von den ¨uberlieferten Endredaktionen der epischen oder purāṇischen Gesamtabschnitte zu Paraśurāma oder gar der Gesamtwerke als notwendig koh¨arenten Einheiten aus [geht] und [. . . ] von den Gesamttexten die Funktionen der Einzelst¨ucke ab[leitet]. 20 
 
-The crux of the matter is the concept of the ‘complete Purān. a’ (‘Gesamtwerk’) or the ‘traditional final redaction’ (‘¨uberlieferte Endredak tion’). In several cases a puranic text is never handed down as a ‘complete’ work at all. Thus, for instance, to the best of my knowledge, there does not exist a ms containing the collection of khan. ḍas that could pass for the complete Skandapurān. a,21 and Bonazzoli has made it clear that on the basis of the ms evidence it cannot be decided what should be conceived of as the ’complete’ 
+The crux of the matter is the concept of the ‘complete Purāṇa’ (‘Gesamtwerk’) or the ‘traditional final redaction’ (‘¨uberlieferte Endredak tion’). In several cases a puranic text is never handed down as a ‘complete’ work at all. Thus, for instance, to the best of my knowledge, there does not exist a ms containing the collection of khan. ḍas that could pass for the complete Skandapurāṇa,21 and Bonazzoli has made it clear that on the basis of the ms evidence it cannot be decided what should be conceived of as the ’complete’ 
 
-noch ein uns nicht erhaltenes Ur-Purān. a liegen k¨onnte [. . . ] ist kaum mehr als eine willk¨urliche Annahme, da ausser ein paar sekund¨aren Versen tats¨achlich nichts Hand greifliches auf diese M¨oglichkeit hindeutet und wir nur von den realen Grundlagen der Textgeschichte ausgehen d¨urfen, um hinter das eigentliche Purān. a–Geheimnis zu kommen. 
+noch ein uns nicht erhaltenes Ur-Purāṇa liegen k¨onnte [. . . ] ist kaum mehr als eine willk¨urliche Annahme, da ausser ein paar sekund¨aren Versen tats¨achlich nichts Hand greifliches auf diese M¨oglichkeit hindeutet und wir nur von den realen Grundlagen der Textgeschichte ausgehen d¨urfen, um hinter das eigentliche Purāṇa–Geheimnis zu kommen. 
 
 18 Hacker 1961a, 486. 
 
@@ -4917,7 +4915,7 @@ noch ein uns nicht erhaltenes Ur-Purān. a liegen k¨onnte [. . . ] ist kaum meh
 
 20 Brinkhaus 1983, 47. Gail 1977a. 
 
-21 The comprehensive catalogue of ancient mss in the National Archives (Nepal) (Br.hat s¯ucīpatram) vol. 8 ‘Purān. a and Itihāsa’ lists s.v. ‘Skandapurān. a’ an incomplete palmleaf ms of 700 verses (or should we read 7000?) comprising 229 folios, which is not assigned to any particular Sam. hitā or Khan. ḍa. It is written in ‘Licchavī’ characters and may hence date from before ad 1000 (information kindly provided by Prof. Dr. M. Witzel). However, even if a closer examination of this ms would reveal that it contains a part of an integral text that is entitled Skandapurān. a, the other, in some cases very old mss indexed in the same catalogue prove all the more that from an early date it had become common practice to signify particular texts or compilations as parts of the Skandapurān. a 
+21 The comprehensive catalogue of ancient mss in the National Archives (Nepal) (Br.hat s¯ucīpatram) vol. 8 ‘Purāṇa and Itihāsa’ lists s.v. ‘Skandapurāṇa’ an incomplete palmleaf ms of 700 verses (or should we read 7000?) comprising 229 folios, which is not assigned to any particular Sam. hitā or Khan. ḍa. It is written in ‘Licchavī’ characters and may hence date from before ad 1000 (information kindly provided by Prof. Dr. M. Witzel). However, even if a closer examination of this ms would reveal that it contains a part of an integral text that is entitled Skandapurāṇa, the other, in some cases very old mss indexed in the same catalogue prove all the more that from an early date it had become common practice to signify particular texts or compilations as parts of the Skandapurāṇa 
 
 
 
@@ -4925,21 +4923,21 @@ noch ein uns nicht erhaltenes Ur-Purān. a liegen k¨onnte [. . . ] ist kaum meh
 
 9 / Some Methodological Considerations 181 
 
-Garuḍapurān. a.22 The texts, or so-called ‘final redactions’, which we are in the habit of referring to as the ‘so-and-so-purān. a’ more often than not have come into existence only after they rolled off the Ve˙nkateśvara, Vaṅgavāsī, or other 19th and early 20th century presses of India. Even if mss of ‘complete’ Purān. as exist, these are often to be considered as conflated products. How should we proceed when we want to produce a critical edition of such elusive material? This question was posed by Bonazzoli in an article in 1983 and a brave solution was proposed in a sample-edition of the Garuḍapurān. a, handed out and discussed at the Sixth World Sanskrit Conference in Philadelphia October 1984. 23 
+Garuḍapurāṇa.22 The texts, or so-called ‘final redactions’, which we are in the habit of referring to as the ‘so-and-so-purāṇa’ more often than not have come into existence only after they rolled off the Ve˙nkateśvara, Vaṅgavāsī, or other 19th and early 20th century presses of India. Even if mss of ‘complete’ Purāṇas exist, these are often to be considered as conflated products. How should we proceed when we want to produce a critical edition of such elusive material? This question was posed by Bonazzoli in an article in 1983 and a brave solution was proposed in a sample-edition of the Garuḍapurāṇa, handed out and discussed at the Sixth World Sanskrit Conference in Philadelphia October 1984. 23 
 
-Alas, apart from problems of lay-out, which are considerable, I think the proposed procedure is unsatisfactory, since no text edited in this new way can lay any claim to authenticity. In fact it is a new creation which could be best designated as a vulgate, and of vulgate editions we have already enough. It is a ‘collectio lectionum’ (op. cit. 2), which, in itself, is of course a useful thing, but it is of doubtful value for historical research. It takes as the standard text the readings ‘that have been accepted by the majority of the mss and editions (op. cit. 4) and presents the variant-readings in sub-lines, on the parallel page, and in a critical apparatus. The decision to abandon the concept of the ‘orig inal’ text is to be welcomed, yet the replacement of a pedigree as the guiding principle by only a single rule, viz. that of the lectio plurium codicum potior, might lead to a phenomenon that the connoisseurs of football may know: the world-team composed of the best players of the globe looks respectable and trustworthy, yet it fails to do the trick, due to the incompatibility of its mem bers. Besides, how can we determine what should still be included? Is there a minimum of mss required for a text-portion to be accepted or will every ms that in its colophon claims to belong to the Garuḍpurān. a be taken into account? 
+Alas, apart from problems of lay-out, which are considerable, I think the proposed procedure is unsatisfactory, since no text edited in this new way can lay any claim to authenticity. In fact it is a new creation which could be best designated as a vulgate, and of vulgate editions we have already enough. It is a ‘collectio lectionum’ (op. cit. 2), which, in itself, is of course a useful thing, but it is of doubtful value for historical research. It takes as the standard text the readings ‘that have been accepted by the majority of the mss and editions (op. cit. 4) and presents the variant-readings in sub-lines, on the parallel page, and in a critical apparatus. The decision to abandon the concept of the ‘orig inal’ text is to be welcomed, yet the replacement of a pedigree as the guiding principle by only a single rule, viz. that of the lectio plurium codicum potior, might lead to a phenomenon that the connoisseurs of football may know: the world-team composed of the best players of the globe looks respectable and trustworthy, yet it fails to do the trick, due to the incompatibility of its mem bers. Besides, how can we determine what should still be included? Is there a minimum of mss required for a text-portion to be accepted or will every ms that in its colophon claims to belong to the Garuḍpurāṇa be taken into account? 
 
-It is my conviction that as long as critical editions of puranic literature aim at presenting such artificial compilations as ‘complete Purān. as’ the results will remain arbitrary. For reasons just mentioned, in the majority of cases recon struction of an archetypal version is out of the question, 24 compilatory editions as now proposed by Bonazzoli seem inadequate to the demands of historical 
+It is my conviction that as long as critical editions of puranic literature aim at presenting such artificial compilations as ‘complete Purāṇas’ the results will remain arbitrary. For reasons just mentioned, in the majority of cases recon struction of an archetypal version is out of the question, 24 compilatory editions as now proposed by Bonazzoli seem inadequate to the demands of historical 
 
-(e.g. Ambikākhan. ḍa, Utkalakhan. ḍa, Kāśīkhan. ḍa, Kedārakhan. ḍa), whereas evidently no attempt was made to compile or transcribe a ‘complete’ Skandapurān. a comprising all (i.e. more than one) parts (khan. ḍas/sam. hitās) (cf. Aufrecht, Catalogus Catalogorum s.v.). 
+(e.g. Ambikākhan. ḍa, Utkalakhan. ḍa, Kāśīkhan. ḍa, Kedārakhan. ḍa), whereas evidently no attempt was made to compile or transcribe a ‘complete’ Skandapurāṇa comprising all (i.e. more than one) parts (khan. ḍas/sam. hitās) (cf. Aufrecht, Catalogus Catalogorum s.v.). 
 
-The manuscript referred to would become ms S1 of our critical edition of the ‘original’ Skandapurān. a (see below, p. 185 ff.). 
+The manuscript referred to would become ms S1 of our critical edition of the ‘original’ Skandapurāṇa (see below, p. 185 ff.). 
 
 22 Bonazzoli 1983, 255 ff. 
 
 23 Bonazzoll 1984. 
 
-24 An exception is to be made for some of the early Purān. as like e.g. the Vis.n. upurān. a, which shows a homogeneous structure and gives the impression of being composed by a single (group of) author(s). This seems to be borne out by the critical edition of this Purān. a by M.M. Pathak (Baroda 1997–99). Another instance of a homogeneous original Purān. a text is the Skandapurān. a preserved in some early Nepalese mss (see below, p. 185 ff. and the Prolegomena to Skandapurān. a, SP I. 
+24 An exception is to be made for some of the early Purāṇas like e.g. the Vis.ṇupurāṇa, which shows a homogeneous structure and gives the impression of being composed by a single (group of) author(s). This seems to be borne out by the critical edition of this Purāṇa by M.M. Pathak (Baroda 1997–99). Another instance of a homogeneous original Purāṇa text is the Skandapurāṇa preserved in some early Nepalese mss (see below, p. 185 ff. and the Prolegomena to Skandapurāṇa, SP I. 
 
 
 
@@ -4951,15 +4949,15 @@ The manuscript referred to would become ms S1 of our critical edition of the ‘
 
 research, synoptic editions of all versions and recensions are more often than not practically unrealizable, and also critical editions of only one recension may mostly appear unattainable owing to the fact that what a recension is can only be defined by comparing it with the text-material that deviates or does not belong to it. 25 
 
-The solution I would suggest is to build on the principles of Kirfel and Hacker, that is to start from the basic materials or components out of which the network of puranic literature is built up and to forget about the superstructure of ‘complete’ Purān. as for the time being. An assessment of a khan. ḍa or Purān. a as a whole can be made when all its components are critically evaluateḍThe joint editions of the components can be seen as constituting the critical edition of the whole. 
+The solution I would suggest is to build on the principles of Kirfel and Hacker, that is to start from the basic materials or components out of which the network of puranic literature is built up and to forget about the superstructure of ‘complete’ Purāṇas for the time being. An assessment of a khan. ḍa or Purāṇa as a whole can be made when all its components are critically evaluateḍThe joint editions of the components can be seen as constituting the critical edition of the whole. 
 
-The proposed method entails the dissolution of the traditional texture of Mahā- and Upapurān. as, and though the resulting fragmentation might appear confusing on first sight, it could be the only way to disclose the historical struc ture of this type of literature. Study of a component should be accompanied by an edition of it, because only the collation of all related ms evidence can reveal the particular text-tradition of the component. It may appear that the recension included in a certain Purān. a represents merely one stage of its textual history. A synoptic edition of all recensions pertaining to this tradition may intersect one or more Purān. as since, as it would seem, many a re-composition remained outside the Smr.ti compilations. 
+The proposed method entails the dissolution of the traditional texture of Mahā- and Upapurāṇas, and though the resulting fragmentation might appear confusing on first sight, it could be the only way to disclose the historical struc ture of this type of literature. Study of a component should be accompanied by an edition of it, because only the collation of all related ms evidence can reveal the particular text-tradition of the component. It may appear that the recension included in a certain Purāṇa represents merely one stage of its textual history. A synoptic edition of all recensions pertaining to this tradition may intersect one or more Purāṇas since, as it would seem, many a re-composition remained outside the Smr.ti compilations. 
 
 The critical edition of the Ayodhyam¯ ah¯ atmya ¯ 
 
-To illustrate the proposal I may adduce my investigation into the history of the holy town of Ayodhyā (Bakker 1986). The starting point of my research was the Ayodhyāmāhātmya (AM) as it occurs in the Vais.n. avakhan. ḍa of the Skandapurān. a. 
+To illustrate the proposal I may adduce my investigation into the history of the holy town of Ayodhyā (Bakker 1986). The starting point of my research was the Ayodhyāmāhātmya (AM) as it occurs in the Vais.ṇavakhan. ḍa of the Skandapurāṇa. 
 
-A collation of all available ms material that was somehow related to the AM, among which were texts bearing other titles such as Kośalakhan. ḍa or Ayodhyā khan. ḍa, yielded three different text-groups as well as an epitome. 26 First there is the recension that is found in the printed Skandapurān. a and that is secured by Dharmanibandha testimony (the ‘Vais.n. avakhan. ḍa recension’). Then there is a second recension that extends the text-material and re-composes it. In the colophon of some of its mss it claims to belong to the Rudrayāmala, probably the most chimeric of all anonymous literature. 27 The third group contains longer and shorter versions, both having only very few ślokas in common with 
+A collation of all available ms material that was somehow related to the AM, among which were texts bearing other titles such as Kośalakhan. ḍa or Ayodhyā khan. ḍa, yielded three different text-groups as well as an epitome. 26 First there is the recension that is found in the printed Skandapurāṇa and that is secured by Dharmanibandha testimony (the ‘Vais.ṇavakhan. ḍa recension’). Then there is a second recension that extends the text-material and re-composes it. In the colophon of some of its mss it claims to belong to the Rudrayāmala, probably the most chimeric of all anonymous literature. 27 The third group contains longer and shorter versions, both having only very few ślokas in common with 
 
 25 Cf. Bedekar 1969, 213. 
 
@@ -4975,11 +4973,11 @@ A collation of all available ms material that was somehow related to the AM, amo
 
 9 / Some Methodological Considerations 183 
 
-the Vais.n. avakhan. ḍa recension though they appear structurally akin to it. The texts pertaining to this group could, on text-critical grounds, be proven to have been meant as a kind of supplement to the Vais.n. avakhan. ḍa recension. They lost their relevance when the second recension was composed which includes most of the materials of the Vais.n. avakhan. ḍa recension and its supplements. This recension was, again, abridged in an epitome. The relative chronology of the text-groups was established by virtue of text-critical arguments only. In order to avoid a petitio principii, inferences from the texts regarding the historical development of the town were based on this chronology, which was subsequently given an absolute foundation by connecting it with independent evidence. 28 
+the Vais.ṇavakhan. ḍa recension though they appear structurally akin to it. The texts pertaining to this group could, on text-critical grounds, be proven to have been meant as a kind of supplement to the Vais.ṇavakhan. ḍa recensioṇThey lost their relevance when the second recension was composed which includes most of the materials of the Vais.ṇavakhan. ḍa recension and its supplements. This recension was, again, abridged in an epitome. The relative chronology of the text-groups was established by virtue of text-critical arguments only. In order to avoid a petitio principii, inferences from the texts regarding the historical development of the town were based on this chronology, which was subsequently given an absolute foundation by connecting it with independent evidence. 28 
 
 The three basic text-groups are presented in three parallel columns. Al though this gives a certain amount of duplication and sometimes triplication of the text-material, it seems justified by the fact that a proper assessment of the historical purport of one recension can only be fully grasped by means of a scrupulous comparison with the other versions. It is especially the, often minute, differences between the texts that lend significance to their contents. A problem that this type of editing brings with it is that each composition has its own sequence in which pericopes or chapters are organizeḍThe problem is solved by accepting the sequence of the most comprehensive recension as the standard one, by splitting this text in its textual units, and presenting these along with the parallel versions of the other text-groups. To enable the reader to read the units of a text-group in their original sequence references are given at the beginning and end of each chapter to the page on which the linking text can be founḍThe original sequence can also be recovered with the help of detailed concordances. 
 
-A close examination of the ms evidence revealed that none of the versions was directly based upon another. They seem to represent three more or less independent re-compositions of a basic stock of text-materials. These com positions were handed down in more than one ms so that a critical edition of each of them could be attaineḍComparison of several abrupt transitions and obscure references in the Vais.n. avakhan. ḍa recension with the supplemen tary texts revealed that both must have drawn on the same source and that the Skanda- or Vais.n. avakhan. ḍa recension actually forms a selection and first redaction of this original pool of text-materials. 29 The latter may have been the Māhātmya as it evolved and was transmitted locally. This was not nec essarily a well-defined text, something that could be called ‘   ’, an archetype in the strict sense. Rather it would have been in a fluid state, modified and supplemented according to changes in local circumstances. Hence I prefered to designate it as an ‘   -type-of-text’. The composer of the Vais.n. avakhan. ḍa may 
+A close examination of the ms evidence revealed that none of the versions was directly based upon another. They seem to represent three more or less independent re-compositions of a basic stock of text-materials. These com positions were handed down in more than one ms so that a critical edition of each of them could be attaineḍComparison of several abrupt transitions and obscure references in the Vais.ṇavakhan. ḍa recension with the supplemen tary texts revealed that both must have drawn on the same source and that the Skanda- or Vais.ṇavakhan. ḍa recension actually forms a selection and first redaction of this original pool of text-materials. 29 The latter may have been the Māhātmya as it evolved and was transmitted locally. This was not nec essarily a well-defined text, something that could be called ‘   ’, an archetype in the strict sense. Rather it would have been in a fluid state, modified and supplemented according to changes in local circumstances. Hence I prefered to designate it as an ‘   -type-of-text’. The composer of the Vais.ṇavakhan. ḍa may 
 
 28 Bakker 1986 I, 125 ff. 
 
@@ -4995,13 +4993,13 @@ A close examination of the ms evidence revealed that none of the versions was di
 
 have had access to this pool and have given it definite form. 30 
 
-If, as may well be assumed, the three other regional Māhātmyas contained in the Vais.n. avakhan. ḍa appear just as accurate and detailed descriptions of local circumstances as the AM proved to be, it seems impossible that the composer of the khan. ḍa himself created the texts. He might, however, have done the same as the editor of the modern Tīrthāṅk, viz. solliciting local communities to provide him with the basic materials. 31 Presumably the local tradition did not breakdown after it had issued its first acknowledged Smr.ti product, but continued to generate text-materials which finally resulted in a new composition at the time the Vais.n. avakhan. ḍa recension was felt to be antiquateḍThus the second recension came into being, too late to find recognition in the traditional Smr.ti literature. It was hoped that the assignment to the Rudrayāmala would do. 
+If, as may well be assumed, the three other regional Māhātmyas contained in the Vais.ṇavakhan. ḍa appear just as accurate and detailed descriptions of local circumstances as the AM proved to be, it seems impossible that the composer of the khan. ḍa himself created the texts. He might, however, have done the same as the editor of the modern Tīrthāṅk, viz. solliciting local communities to provide him with the basic materials. 31 Presumably the local tradition did not breakdown after it had issued its first acknowledged Smr.ti product, but continued to generate text-materials which finally resulted in a new composition at the time the Vais.ṇavakhan. ḍa recension was felt to be antiquateḍThus the second recension came into being, too late to find recognition in the traditional Smr.ti literature. It was hoped that the assignment to the Rudrayāmala would do. 
 
-The given scheme of text-evolution confirms the well-known fact that the contents of the components of puranic texts may be considerably older than the respective khan. ḍas or Purān. as in which they are includeḍThese embry onic components may have evolved and been transmitted in local or religious communities, in the form of a pool of text-materials that we have called ‘   - type-of-text’, to which the Purān. a composers had recourse. It is only on this level of the textual history of puranic literature that the question of oral versus written tradition becomes significant. Are the texts that were incorporated in a puranic superstructure the first redactions in writing? Was the genetic process of ‘composition-in-transmission’, which no doubt took place by means of writ ing, continuously sustained by small-scale oral traditions? The present state of our knowledge does not allow a general answer to these questions. However, the glimpses of the ‘   -type-of-text’ that we obtained through analysing the ms evidence of the AM showed textual fluidity as well as formularity to such a degree as to make at least the hypothesis that postulates local or religious communities as the oral fountain-heads of puranic literature worthy of further investigation. 
+The given scheme of text-evolution confirms the well-known fact that the contents of the components of puranic texts may be considerably older than the respective khan. ḍas or Purāṇas in which they are includeḍThese embry onic components may have evolved and been transmitted in local or religious communities, in the form of a pool of text-materials that we have called ‘   - type-of-text’, to which the Purāṇa composers had recourse. It is only on this level of the textual history of puranic literature that the question of oral versus written tradition becomes significant. Are the texts that were incorporated in a puranic superstructure the first redactions in writing? Was the genetic process of ‘composition-in-transmission’, which no doubt took place by means of writ ing, continuously sustained by small-scale oral traditions? The present state of our knowledge does not allow a general answer to these questions. However, the glimpses of the ‘   -type-of-text’ that we obtained through analysing the ms evidence of the AM showed textual fluidity as well as formularity to such a degree as to make at least the hypothesis that postulates local or religious communities as the oral fountain-heads of puranic literature worthy of further investigation. 
 
 30 The nature of this ‘pool’ and how it evolved into an organized text is the subject of an essay included at the end of this volume (below, pp. 601 ff.). 
 
-31 The composer of the Vais.n. avakhan. ḍa may have been active in the 14th century. On the basis of independent evidence, the Vais.n. avakhan. ḍa recension of the AM reflects the historical situation in the 13th century. This tallies with the date given to the Purus.o ttamaks.etramāhātmya contained in the same khan. ḍa, viz. c. ad 1300 (COJ pp. 36, 54, 170). 
+31 The composer of the Vais.ṇavakhan. ḍa may have been active in the 14th century. On the basis of independent evidence, the Vais.ṇavakhan. ḍa recension of the AM reflects the historical situation in the 13th century. This tallies with the date given to the Purus.o ttamaks.etramāhātmya contained in the same khan. ḍa, viz. c. ad 1300 (COJ pp. 36, 54, 170). 
 
 
 
@@ -5011,11 +5009,11 @@ The given scheme of text-evolution confirms the well-known fact that the content
 
 Pārvatī’s Svayam. vara∗ 
 
-Studies in the Skandapurān. a I 
+Studies in the Skandapurāṇa I 
 
 Introduction 
 
-As has been reported in various international meetings and in Indo-Iranian Journal (IIJ) 37 (1994), 325–331, a team at the University of Groningen (con sisting of R. Adriaensen, H. Isaacson and the present author) is currently work ing on the critical edition of the oldest extant text that calls itself Skanda purān. a. Apart from the passage discussed below there seem to be few textual links between the vulgate Skandapurān. a and the text we are presently editing. The oldest document on which this edition is based is a Nepalese palm-leaf manuscript dating from ad 810 (our siglum S1). 1 It contains a Skandapurān. a (further referred to as SP) that does not yet consist of khan. ḍas. Of this text three recensions are known. The oldest recension is the one found in three (incomplete) Nepalese palm-leaf mss (our sigla S1, S2, S3, jointly S). 2 A later recension is found in a ms that in its colophon calls itself the Revākhan. ḍa of the Skandapurān. a (our siglum R), but that is entirely different from the printed Revākhan. ḍa.3 The third and probably latest recension is found in mss that in their colophons style themselves as the Ambikākhan. ḍa of the Skandapurān. a. Of these we have collected to date four manuscripts (our sigla A1, A2, A3 and A4, jointly A). 4 Our edition aims at reconstructing the S recension as far as possible, while the variants of the R and A recensions will be presented each in a separate register of the critical apparatus. 5 The editio princeps of the SP (abbreviated as SPBh) was prepared by Kr.s.n. aprasāda Bhat.t.arāī and appeared 
+As has been reported in various international meetings and in Indo-Iranian Journal (IIJ) 37 (1994), 325–331, a team at the University of Groningen (con sisting of R. Adriaensen, H. Isaacson and the present author) is currently work ing on the critical edition of the oldest extant text that calls itself Skanda purāṇa. Apart from the passage discussed below there seem to be few textual links between the vulgate Skandapurāṇa and the text we are presently editing. The oldest document on which this edition is based is a Nepalese palm-leaf manuscript dating from ad 810 (our siglum S1). 1 It contains a Skandapurāṇa (further referred to as SP) that does not yet consist of khan. ḍas. Of this text three recensions are knowṇThe oldest recension is the one found in three (incomplete) Nepalese palm-leaf mss (our sigla S1, S2, S3, jointly S). 2 A later recension is found in a ms that in its colophon calls itself the Revākhan. ḍa of the Skandapurāṇa (our siglum R), but that is entirely different from the printed Revākhan. ḍa.3 The third and probably latest recension is found in mss that in their colophons style themselves as the Ambikākhan. ḍa of the Skandapurāṇa. Of these we have collected to date four manuscripts (our sigla A1, A2, A3 and A4, jointly A). 4 Our edition aims at reconstructing the S recension as far as possible, while the variants of the R and A recensions will be presented each in a separate register of the critical apparatus. 5 The editio princeps of the SP (abbreviated as SPBh) was prepared by Kr.s.ṇaprasāda Bhat.t.arāī and appeared 
 
 ∗ The first version of this article was published in Wiener Zeitschrift f¨ur die Kunde S¨udasiens und Archiv f¨ur indische Philosophie XL (1996), 5–43. 
 
@@ -5025,7 +5023,7 @@ As has been reported in various international meetings and in Indo-Iranian Journ
 
 4 A1: Asiatic Society of Bengal (Calcutta) ms 4554 (= Shastri 1928, No. 3922); A2: India Office Library (London) ms 662–663; A3: Asiatic Society of Bengal (Calcutta), ms 972 (= Shastri 1928, No. 3921); A4: Library of the Sanskrit College (Varanasi) ms 14311. 
 
-5 In the Prolegomena to our Skandapurān. a edition (SP I), which appeared in 1998 after the first publication of the present article, we have reformulated the aim of our text 
+5 In the Prolegomena to our Skandapurāṇa edition (SP I), which appeared in 1998 after the first publication of the present article, we have reformulated the aim of our text 
 
 185 
 
@@ -5039,11 +5037,11 @@ in Kathmandu in 1988 (in the apparatus referred to by our siglum Bh). For furthe
 
 The wedding of Siva and P ´ arvat ¯ ī 
 
-The aim of the present study is to illustrate the value of our text for the in vestigation of Sanskrit literature and the mythology of Hinduism by discussing a text passage in adhyāya 13. This chapter is concerned with the wedding of Siva and Pārvatī. Four more texts appear to be relevant to this topic; they are ´ discussed below and, together with the passage in SP 13, presented at the end of this article. In the four critical apparatuses I have only given those variant readings that may be significant for the comparison of the texts. For more variae lectiones of the Skandapurān. a text the reader is referred to adhyāya 13 in SP I. 
+The aim of the present study is to illustrate the value of our text for the in vestigation of Sanskrit literature and the mythology of Hinduism by discussing a text passage in adhyāya 13. This chapter is concerned with the wedding of Siva and Pārvatī. Four more texts appear to be relevant to this topic; they are ´ discussed below and, together with the passage in SP 13, presented at the end of this article. In the four critical apparatuses I have only given those variant readings that may be significant for the comparison of the texts. For more variae lectiones of the Skandapurāṇa text the reader is referred to adhyāya 13 in SP I. 
 
-The myth of the wedding of Siva and Pārvatī is well known to Indologists ´ from many Sanskrit texts as well as from numerous works of art. 7 It is all the more suprising that the version of this myth that occurs in the printed texts of the Brahmapurān. a (abbreviated as BrP; in the critical apparatus siglum Bpur), Liṅgapurān. a (abbreviated as LiP) and the Māheśvarakhan. ḍa of the vulgate Skandapurān. a (abbreviated as MKh; in the critical apparatus siglum Mkh), in which Pārvatī is allowed to choose her husband in a svayam. vara, has attracted little attention of researchers of puranic literature and Saiva mythology; at least ´ we have neither found a reference to it in the secondary literature which we have consulted directly, nor in the indices of the unsurpassed T¨ubingen Epic and Purān. ic Bibliography. The myth of Pārvatī’s svayam. vara is, however, discussed by some historians of Indian art in order to explain images of a 
+The myth of the wedding of Siva and Pārvatī is well known to Indologists ´ from many Sanskrit texts as well as from numerous works of art. 7 It is all the more suprising that the version of this myth that occurs in the printed texts of the Brahmapurāṇa (abbreviated as BrP; in the critical apparatus siglum Bpur), Liṅgapurāṇa (abbreviated as LiP) and the Māheśvarakhan. ḍa of the vulgate Skandapurāṇa (abbreviated as MKh; in the critical apparatus siglum Mkh), in which Pārvatī is allowed to choose her husband in a svayam. vara, has attracted little attention of researchers of puranic literature and Saiva mythology; at least ´ we have neither found a reference to it in the secondary literature which we have consulted directly, nor in the indices of the unsurpassed T¨ubingen Epic and Purāṇic Bibliography. The myth of Pārvatī’s svayam. vara is, however, discussed by some historians of Indian art in order to explain images of a 
 
-critical reconstruction. This modification does not directly effect the material presented here, but it may be useful to repeat the view expressed in the Prolegomena (SP I, 42). Our aim in the edition has therefore been to establish a readable text based primarily on the early palm-leaf manuscripts. But we have also attempted to go at least to some extent beyond their readings to recover, to the best of our abilities, an earlier form of the text. That such an earlier form existed cannot be called into question, nor, in our view, that one should attempt, with all due caution, to reach it. We have emended (or adopted the reading of one or both other recensions) in cases where the Nepalese manuscripts offer a reading which we had good reason to think the result of, mainly involuntary, transmissional (i.e. scribal) error or variation. 
+critical reconstructioṇThis modification does not directly effect the material presented here, but it may be useful to repeat the view expressed in the Prolegomena (SP I, 42). Our aim in the edition has therefore been to establish a readable text based primarily on the early palm-leaf manuscripts. But we have also attempted to go at least to some extent beyond their readings to recover, to the best of our abilities, an earlier form of the text. That such an earlier form existed cannot be called into question, nor, in our view, that one should attempt, with all due caution, to reach it. We have emended (or adopted the reading of one or both other recensions) in cases where the Nepalese manuscripts offer a reading which we had good reason to think the result of, mainly involuntary, transmissional (i.e. scribal) error or variation. 
 
 6 The text of SP 13.28–57 adopted in this article conforms to the one presented in our critical edition of SP 13.28–57, which was published in 1998 (SP I, pp. 192–97). 7 For an elaborate survey the reader may be referred to the MA thesis (1991) of Ms Martina Stoye (Freie Universit¨at Berlin), Die textlichen Grundlagen zu Darstellungen der Hochzeit von Siva und Pārvatī in der indischen Kunst ´ , which is as yet unpublished. 
 
@@ -5055,11 +5053,11 @@ critical reconstruction. This modification does not directly effect the material
 
 10 / Pārvatī’s Svayam. vara 187 
 
-(lying) woman with child. 8 It is this svayam. vara version of the holy wedding that is found in adhyāya 13 of the SP. In addition to the four texts mentioned, a cryptic passage in the Dron. aparvan of the Mahābhārata appears also to be of relevance, although it does not at first sight deal with Pārvatī’s ‘self-choice’. 
+(lying) woman with child. 8 It is this svayam. vara version of the holy wedding that is found in adhyāya 13 of the SP. In addition to the four texts mentioned, a cryptic passage in the Droṇaparvan of the Mahābhārata appears also to be of relevance, although it does not at first sight deal with Pārvatī’s ‘self-choice’. 
 
 Siva’s exclusion from the sacrifice ´ 
 
-We may start our investigation by having a closer look at this chapter (173) of the Dron. aparvan. After the death of Dron. a and the shattering of the Kauravas, Arjuna asks Vyāsa who was the man with the lance who marched in front of him and caused such havock on the battle fielḍVyāsa answers that Arjuna had seen Sam ´ . kara; Vyāsa reveals Siva’s nature in a famous eulogy, in which, among ´ other things, reference is made to his retaliation against the gods when he is not allowed his share in the sacrifice (MBh 7.173.37–51). Then Vyāsa broaches another subject. He tells how the gods asked Siva to break the power of the ´ three cities of the asuras and how Siva accomplished this by one three-pronged ´ arrow when an auspicious (astronomical) conjunction of the three heavenly cities had occurred (MBh 7.173.52–58). The next śloka makes a very harsh transition. Apparently without any connection with the fore-going the text proceeds, 
+We may start our investigation by having a closer look at this chapter (173) of the DroṇaparvaṇAfter the death of Droṇa and the shattering of the Kauravas, Arjuna asks Vyāsa who was the man with the lance who marched in front of him and caused such havock on the battle fielḍVyāsa answers that Arjuna had seen Sam ´ . kara; Vyāsa reveals Siva’s nature in a famous eulogy, in which, among ´ other things, reference is made to his retaliation against the gods when he is not allowed his share in the sacrifice (MBh 7.173.37–51). Then Vyāsa broaches another subject. He tells how the gods asked Siva to break the power of the ´ three cities of the asuras and how Siva accomplished this by one three-pronged ´ arrow when an auspicious (astronomical) conjunction of the three heavenly cities had occurred (MBh 7.173.52–58). The next śloka makes a very harsh transitioṇApparently without any connection with the fore-going the text proceeds, 
 
 After herself placing the little child with five tufts of hair on her lap, Umā, as she wished to know (who he was), asked the gods ‘who is this?’ (MBh 7.173.59) 9 
 
@@ -5067,13 +5065,13 @@ This verse is directly followed by another one, not less bewildering in its abru
 
 The lord immobilized the arm of the infuriated Sakra that held the ´ vajra; this bountiful god, lord and ruler of the entire universe. (MBh 7.173.60) 
 
-Two themes are juxtaposed here which, on first sight, seem to have very little to do with one another: (1) Siva’s transformation into a little child and (2) ´ his immobilisation of Indra who, it would seem, leads the gods in an act of aggresion. The origin of both themes can be traced back to the Brāhman. a literature and a short survey of their evolution may help to clarify the text. 
+Two themes are juxtaposed here which, on first sight, seem to have very little to do with one another: (1) Siva’s transformation into a little child and (2) ´ his immobilisation of Indra who, it would seem, leads the gods in an act of aggresioṇThe origin of both themes can be traced back to the Brāhmaṇa literature and a short survey of their evolution may help to clarify the text. 
 
-Discussing the function of the brahm´an priest, the Kaus.ītaki Brāhman. a teaches: 
+Discussing the function of the brahm´an priest, the Kaus.ītaki Brāhmaṇa teaches: 
 
 Then, when the gods thereupon performed the sacrifice, they put the fore-portion (prāśitra) aside for Savitr.; it cleft his hands. They restored to him two golden 
 
-8 My attention was drawn to this by the MA thesis of Ms Britta Zehmke (Freie Universit¨at Berlin), published in 1994: Die liegende Frau mit Kind in der indischen Steinplastik. Zehmke refers to the work of Bhattasali 1929, Sanyal 1935, U. Agrawala 1964 and N.P. Joshi 1989. These publications were not available to me. Zehmke’s investigation, how ever, makes it clear that the motif of the ‘lying woman with child’ can hardly have anything to do with Pārvatī’s svayam. vara. 
+8 My attention was drawn to this by the MA thesis of Ms Britta Zehmke (Freie Universit¨at Berlin), published in 1994: Die liegende Frau mit Kind in der indischen Steinplastik. Zehmke refers to the work of Bhattasali 1929, Sanyal 1935, U. Agrawala 1964 and ṇP. Joshi 1989. These publications were not available to me. Zehmke’s investigation, how ever, makes it clear that the motif of the ‘lying woman with child’ can hardly have anything to do with Pārvatī’s svayam. vara. 
 
 9 The text of the critical edition is probably corrupt here. Below I will discuss another reading. The oddity of the passage was noted by Scheuer 1982, 289 f. 
 
@@ -5089,21 +5087,21 @@ Then, when the gods thereupon performed the sacrifice, they put the fore-portion
 
 The same theme is found in the Satapathabrāhman ´ . a with some significant changes. Here ‘the god who rules the animals’ (y`o ’y´am. dev´ah. paś¯unā´m īś.t.e, SBr 1.6.2.3), i.e. Rudra, is asked by the gods to pierce Prajāpati, who is the ´ sacrifice, because he had abused his daughter. 11 Rudra pierces him with the lance (śaly´a). When the lance is torn out again, the gods offer that portion of Prajāpati, i.e. of the sacrifice, that has come out with the lance—that is the fore-portion of the sacrifice (prāśitr´a), intended for the brahm´an priest—to Bhaga etc.: 
 
-Bhaga looked at it; it burnt his eyes. And so indeed it happeneḍTherefore they say ‘Bhaga is blind’. They said, ‘it has not yet become appeased here, put it aside for P¯us.an’. They put it aside for P¯us.an. P¯us.an ate from it; it knocked out his teeth. And so indeed it happeneḍTherefore they say, ‘P¯us.an is without teeth’. Therefore they prepare the rice pudding (car´u) that they make for P¯us.an from ground rice, just as for a person without teeth. 12 
+Bhaga looked at it; it burnt his eyes. And so indeed it happeneḍTherefore they say ‘Bhaga is blind’. They said, ‘it has not yet become appeased here, put it aside for P¯us.an’. They put it aside for P¯us.aṇP¯us.an ate from it; it knocked out his teeth. And so indeed it happeneḍTherefore they say, ‘P¯us.an is without teeth’. Therefore they prepare the rice pudding (car´u) that they make for P¯us.an from ground rice, just as for a person without teeth. 12 
 
 Br.haspati next passes it on to Savitr. who appeases it. 
 
 What is the fore-portion (prāśitr´a), that is originally this. When he cuts off the fore-portion, he metes out exactly that part of the sacrifice that has been pierced, that belonges to Rudra. 13 
 
-10 Kaus.ītaki Brāhman. a 6.8.8–6.9.4: 
+10 Kaus.ītaki Brāhmaṇa 6.8.8–6.9.4: 
 
-atha yatra ha tad devā yaj˜nam atanvata | 8 | tad savitre prāśitram. parijahruh. | 9 | ta sya pān.ī praciccheda | 10 | tasmai hiran. mayau pratidadhuh. | 11 | tasmād dhiran. yapān. ir iti stutah. | 12 | tad bhagāya parijahruh. | 13 | tasyāks.in.ī nirjaghāna | 14 | tasmād āhur andho bhaga iti | 15 | tat p¯us.n. e parijahruh. | 16 | tasya dantān parovāpa | 17 | tasmād āhur adantakah. p¯us.ā karambhabhāga iti | 18 | te devā ¯ucuh. | 19 | indro vai devānām ojis.t.ho balis.t.has tasmā etat pariharateti | 1 | tat tasmai parijahruh. | 2 | tat sa brahman. ā śamayām. cakāra | 3 | tasmād āhendro brahmeti | 4 | 
+atha yatra ha tad devā yaj˜nam atanvata | 8 | tad savitre prāśitram. parijahruh. | 9 | ta sya pān.ī praciccheda | 10 | tasmai hiraṇmayau pratidadhuh. | 11 | tasmād dhiraṇyapāṇir iti stutah. | 12 | tad bhagāya parijahruh. | 13 | tasyāks.in.ī nirjaghāna | 14 | tasmād āhur andho bhaga iti | 15 | tat p¯us.ṇe parijahruh. | 16 | tasya dantān parovāpa | 17 | tasmād āhur adantakah. p¯us.ā karambhabhāga iti | 18 | te devā ¯ucuh. | 19 | indro vai devānām ojis.t.ho balis.t.has tasmā etat pariharateti | 1 | tat tasmai parijahruh. | 2 | tat sa brahman. ā śamayām. cakāra | 3 | tasmād āhendro brahmeti | 4 | 
 
 11 Rudra himself is the issue of this abuse, see Kaus.Br 6.1 (below p. 190). He avenges the incest by piercing his begetter, Prajāpati, i.e. the sacrifice (Deppert 1977, 267 f.). 12 SBr 1.6.2.6–7: ´ 
 
 t´ad bh´ago ’veks.ā´m. cakre t´aksyā´ks.in.ī nirdadāha t´ath´en n¯un´am. t´ad āsa t´asmād āhur andh´o bh´aga iti | 6 | t´e hocuh. | n`o nv `evā´trāśamat p¯us.n. ´a enat p´ariharat´eti t´at p¯us.n. ´e paryā´jahrus t´at p¯us.ā´ prā´śa t´asya dat´o nirjaghāna t´ath´en n¯un´am. t´ad āsa t´asmād āhur ad´antakah. p¯us.´eti t´asmād y´am. p¯us.n. ´e car´um. kurv´anti pr´apis.t.ānām ev´a kurvanti y´athād´antakāyaiv´am | 7 | 
 
-Cf. Taittirīya Sam. hitā 2.6.8; Gopathabrāhman. a 2.1.2. See Kramrisch 1961, 119 f. 13 SBr 1.7.4.8–9: ´ 
+Cf. Taittirīya Sam. hitā 2.6.8; Gopathabrāhmaṇa 2.1.2. See Kramrisch 1961, 119 f. 13 SBr 1.7.4.8–9: ´ 
 
 t´ad et´an nidā´nena y´at prāśitr´am | 8 | s´a y´at prāśitr´am avady´ati | y´ad evā´trā´viddham. yaj˜n´asya y´ad rudr´ıyam. t´ad ev`ait´an n´ırmimīte | 9 | 
 
@@ -5121,9 +5119,9 @@ The theme returns in the Sauptikaparvan 18 of the Mahābhārata, where it is con
 
 The infuriated Tryambaka cut off (vyaśātayat) the arms of Savitr., (and knocked out) the eyes of Bhaga and the teeth of P¯us.an with the point of his bow (dhanus.kot.i). Then the gods and aṅgas of the sacrifice ran away all together; some rolled about on that very spot and became as if they breathed their last. But after he had put that entire (assembly) to the rout, Sitikan ´ .t.ha laughed, arrested the point of the bow and halted the gods. Thereupon the cry (vāc) uttered by the immortals snapped the string of his bow and, due to the shock, O king, the bow, its string broken, quivereḍThereupon the gods along with sacrifice approached the foremost of the gods, who was without bow (now), and took refuge; and the lord showed compassion. 16 
 
-Chapter 32 of the SP, followed by i.a. the Liṅga- and Sivapurān ´ . as, applies the theme to the description of Siva’s exclusion from Daks ´ .a’s sacrifice. Here Indra and Vis.n. u are added to the group of explicitly mentioned gods that fall victim to the anger of Siva, in this case represented by his factotum Haribhadra. The ´ arms raising their weapons are immobilized (stambhana), just as the other inhabitants of heaven are said to be transfixed. 
+Chapter 32 of the SP, followed by i.a. the Liṅga- and Sivapurān ´ . as, applies the theme to the description of Siva’s exclusion from Daks ´ .a’s sacrifice. Here Indra and Vis.ṇu are added to the group of explicitly mentioned gods that fall victim to the anger of Siva, in this case represented by his factotum Haribhadra. The ´ arms raising their weapons are immobilized (stambhana), just as the other inhabitants of heaven are said to be transfixed. 
 
-And Haribhadra, inflamed and without dismay, immobilized Sakra’s hand when he ´ raised (it); and likewise (he immobilized the hands) of the other gods. (And) before (their) eyes he, with anger on his face, knocked out Bhaga’s eyes and P¯us.an’s teeth, striking with the point of (his) bow. And without dismay he immobilized that dreadful discus of Vis.n. u, which shone like the apocalyptic sun, and it, (remaining) in his hand, did not move (forth). 17 
+And Haribhadra, inflamed and without dismay, immobilized Sakra’s hand when he ´ raised (it); and likewise (he immobilized the hands) of the other gods. (And) before (their) eyes he, with anger on his face, knocked out Bhaga’s eyes and P¯us.an’s teeth, striking with the point of (his) bow. And without dismay he immobilized that dreadful discus of Vis.ṇu, which shone like the apocalyptic sun, and it, (remaining) in his hand, did not move (forth). 17 
 
 So much for Siva’s mutilation of the gods. ´ 
 
@@ -5137,7 +5135,7 @@ Also SBr 1.6.1.1–8. ´
 
 16 MBh 10.18.16–20. 
 
-17 SP 32.40–42; cf. Liṅgapurān. a 1.100.15–17, 28–30 and Sivapurān ´ . a, Rudrasam. hitā 2.37.34–36, 54 f. 
+17 SP 32.40–42; cf. Liṅgapurāṇa 1.100.15–17, 28–30 and Sivapurān ´ . a, Rudrasam. hitā 2.37.34–36, 54 f. 
 
 
 
@@ -5149,21 +5147,21 @@ Also SBr 1.6.1.1–8. ´
 
 Siva as the cosmic child ´ 
 
-The origin of the other theme, viz. Siva’s transformation into a little child, ´ can also be traced back to the Kaus.ītaki Brāhman. a, in which Prajāpati begets a (grand)son through his four sons and daughter Us.as (Kaus.Br 6.1–3). This infant (?), ‘of a thousand eyes, of a thousand feet, with a thousand fitted (arrows on his bow)’, 18 asks his (grand)father to bestow upon him eight names. 19 
+The origin of the other theme, viz. Siva’s transformation into a little child, ´ can also be traced back to the Kaus.ītaki Brāhmaṇa, in which Prajāpati begets a (grand)son through his four sons and daughter Us.as (Kaus.Br 6.1–3). This infant (?), ‘of a thousand eyes, of a thousand feet, with a thousand fitted (arrows on his bow)’, 18 asks his (grand)father to bestow upon him eight names. 19 
 
-A new version of this myth is found in the Purān. apa˜ncalaks.an. a,20 which tells that at the dawn of creation, in the first kalpa, Mahādeva Rudra engendered a son in his own likeness (ātmanas tulyam. sutam). This little ‘blue-red’ boy (kumāro nīlalohitah.) appeared in the lap of Brahmā and cried (ruroda) terribly (ghoram). He asked Brahmā to give him a name, and Brahmā names him Rudra. The child kept crying until altogether eight names—the same as given to Prajāpati’s son in the Kaus.ītaki and Satapatha Brāhman ´ . as—were given to him, the final one being Mahādeva. Thereupon the ‘blue-red’ boy requested Brahmā to bestow a domain (sthāna) or body (tanu) to each name, which resulted in the following combinations: Rudra obtained the sun, Bhava the waters, Sarva ´ earth, ¯Iśāna wind, Paśupati fire, Bhīma ākāśa, Ugra the initiated brahmin, and Mahādeva the moon. In this way the divine, primordial child in Brahmā’s lap was made to personify Siva’s cosmic dimension, his eight embodiments ( ´ as.t.a m¯urti), encompassing the entire phenomenal universe. 
+A new version of this myth is found in the Purāṇapa˜ncalaks.aṇa,20 which tells that at the dawn of creation, in the first kalpa, Mahādeva Rudra engendered a son in his own likeness (ātmanas tulyam. sutam). This little ‘blue-red’ boy (kumāro nīlalohitah.) appeared in the lap of Brahmā and cried (ruroda) terribly (ghoram). He asked Brahmā to give him a name, and Brahmā names him Rudra. The child kept crying until altogether eight names—the same as given to Prajāpati’s son in the Kaus.ītaki and Satapatha Brāhman ´ . as—were given to him, the final one being Mahādeva. Thereupon the ‘blue-red’ boy requested Brahmā to bestow a domain (sthāna) or body (tanu) to each name, which resulted in the following combinations: Rudra obtained the sun, Bhava the waters, Sarva ´ earth, ¯Iśāna wind, Paśupati fire, Bhīma ākāśa, Ugra the initiated brahmin, and Mahādeva the mooṇIn this way the divine, primordial child in Brahmā’s lap was made to personify Siva’s cosmic dimension, his eight embodiments ( ´ as.t.a m¯urti), encompassing the entire phenomenal universe. 
 
-When we return to the two verses in the Dron. aparvan, we may observe that it is probably this primordial, cosmic child that sits in Umā’s lap (MBh 7.173.59); his five tufts of hair (pa˜ncaśikha) may symbolize his embodiment of the five elements that build the material world. 
+When we return to the two verses in the Droṇaparvan, we may observe that it is probably this primordial, cosmic child that sits in Umā’s lap (MBh 7.173.59); his five tufts of hair (pa˜ncaśikha) may symbolize his embodiment of the five elements that build the material world. 
 
 This being so, one may rightly ask what, if any, is the function of the ap pearance of the cosmic child in Pārvatī’s lap at this junction of Tripura’s de 
 
-18 Kaus.Br 6.1.13–14: tata udatis.t.hat sahasrāks.ah. sahasrapāt | 13 | sahasren. a pratihitā bhih. | 14 | Udaya comments: sahasren. a sahasrasam. khyābhir dhanus.i pratihitābhih. sam. - hitābhir is.ubhir upalaks.itah. | 
+18 Kaus.Br 6.1.13–14: tata udatis.t.hat sahasrāks.ah. sahasrapāt | 13 | sahasreṇa pratihitā bhih. | 14 | Udaya comments: sahasreṇa sahasrasam. khyābhir dhanus.i pratihitābhih. sam. - hitābhir is.ubhir upalaks.itah. | 
 
 19 This incestuous son of Prajāpati is ‘this great god possessed of eight names, who is com posed of eight folds’ (Kaus.Br 6.3.49–50: sa es.o ’s.t.anāmā | 49 | as.t.adhā vihito mahān de vah. | 50 |), i.e. Mahādeva/Rudra, whose eight forms (as.t.am¯urti) are described in Kaus.Br 6.2–3 (cf. SBr 6.1.3.8–18). Apparently, the 6th ´ adhyāya of the Kaus.Br does not make a connection between this myth of the birth of Rudra (6.1–3) and the second section (6.4–11) dealing mainly with the function of the brahm´an priest, in which context the myth of the sacrifice of the gods and their injury by the prāśitra is described (see above, p. 187). 
 
-The underlying connection, however, becomes clear when the SBr version is taken into ´ consideration. It is Rudra, the son of Prajāpati, i.e. the sacrifice, who procures (and is) the first issue of the sacrifice, the ‘fore-portion’, or, in the words of the Brāhman. a, ‘[the portion] that belongs to Rudra’ (rudr´ıya) (SBr 1.6.2.9). The underlying identity ´ seems to be that Rudra, son of Prajāpati’s seed, is the first issue (prāśitra) of Prajāpati’s (self-)sacrifice. If we keep this identity in mind the relevance of the statement (Kaus.Br 6.10.7–8) that introduces the concluding part of adhyāya 6 of the Kaus.ītaki Brāhman. a becomes clear: ‘Prajāpati once emitted the sacrifice; he emitted seed by installing the sacrificial fire’ (prajāpatir ha yaj˜nam. sasr.je | 7 | so ’gnyādheyenaiva reto ’sr.jata | 8 |). 
+The underlying connection, however, becomes clear when the SBr version is taken into ´ consideratioṇIt is Rudra, the son of Prajāpati, i.e. the sacrifice, who procures (and is) the first issue of the sacrifice, the ‘fore-portion’, or, in the words of the Brāhmaṇa, ‘[the portion] that belongs to Rudra’ (rudr´ıya) (SBr 1.6.2.9). The underlying identity ´ seems to be that Rudra, son of Prajāpati’s seed, is the first issue (prāśitra) of Prajāpati’s (self-)sacrifice. If we keep this identity in mind the relevance of the statement (Kaus.Br 6.10.7–8) that introduces the concluding part of adhyāya 6 of the Kaus.ītaki Brāhmaṇa becomes clear: ‘Prajāpati once emitted the sacrifice; he emitted seed by installing the sacrificial fire’ (prajāpatir ha yaj˜nam. sasr.je | 7 | so ’gnyādheyenaiva reto ’sr.jata | 8 |). 
 
-20 PPL pp. 121–127, i.e. Vāyupurān. a 27 and Brahmān. ḍapurān. a 1.10. Cf. SP 4.1–21. 
+20 PPL pp. 121–127, i.e. Vāyupurāṇa 27 and Brahmān. ḍapurāṇa 1.10. Cf. SP 4.1–21. 
 
 
 
@@ -5183,7 +5181,7 @@ In SP 12.1–20 Brahmā prophesies that Pārvatī (Umā) will obtain a husband o
 
 Siva returns to Pārvatī, tells her about her father’s intention and is about to take ´ his leave, when Pārvatī assures him not to despair, since she will choose him. If he has any doubt, she will choose him right there. Pārvatī plucks a flowering branch from the aśoka tree and laying it on his shoulder says ‘you have been chosen by me’. 22 
 
-21 Nīlakan. t.ha’s commentary (MBhB) does not really help: tes.u ca vardhamānes.u rudro bālavad rāgadves.aś¯unyo brahmavidyāparanāmnyā umāyā vaśago bhavitīty etad atra pra darśyate | 22 SP 12.21–63 continues with several other things, among which another myth in which Siva puts Pārvatī to the test. He assumes the form of a crocodile who has seized a child. ´ Pārvatī liberates the child by giving her tapas away to the crocodile, who reveals his true nature. 
+21 Nīlakaṇt.ha’s commentary (MBhB) does not really help: tes.u ca vardhamānes.u rudro bālavad rāgadves.aś¯unyo brahmavidyāparanāmnyā umāyā vaśago bhavitīty etad atra pra darśyate | 22 SP 12.21–63 continues with several other things, among which another myth in which Siva puts Pārvatī to the test. He assumes the form of a crocodile who has seized a child. ´ Pārvatī liberates the child by giving her tapas away to the crocodile, who reveals his true nature. 
 
 
 
@@ -5197,9 +5195,9 @@ In SP 13.1-27 Himavat, though aware of the engagement of his daughter with Devad
 
 When the gods, however, see the maiden of the wedding contest with a child in her lap they, understandably enough, are bewildered, fly into passion and try to attack him (SP 13.32). Siva repels the assault by immobilizing and mutilating ´ the offenders (SP 13.33–38). Brahmā is the only god who sees through Siva’s ´ disguise, and he informs the other gods about their mistake (SP 13.39–50). The gods take refuge with Siva (SP 13.51). ´ Siva is pleased and lifts the spell (SP 13.52). ´ He assumes his supreme form, seen by the gods only after receiving a divine eye (SP 13.53–54), and is elected by Pārvatī as her husband (SP 13.56), after which the wedding is celebrateḍThe cosmic order, sealed by Siva’s and Pārvatī’s holy ´ wedlock, is confirmed. 
 
-It is clear that the SP story of Pārvatī’s svayam. vara combines the two mytholog ical themes at issue, viz. (1) Siva’s taking the form of a little child (in Pārvatī’s ´ lap), and (2) Siva’s immobilisation/mutilation of the gods, though now applied ´ in a situation in which revenge of the incest or exclusion from the sacrifice is no longer the direct cause of his anger. In contrast with the Mahābhārata text, however, the encompassing myth of Pārvatī’s svayam. vara unites these two themes into a new, meaningful and logical whole. Pārvatī stands the test, as one would expect, and does not need to ask who the child is; the ignorant gods, however, go astray. Not recognizing Siva, they are embarassed by the ´ child’s presence at the svayam. vara. They become angry and consequently are immobilized/mutilateḍWhen their delusion is removed by Brahmā, they have no choice but to recognize Siva’s superiority and to accept that he is Pārvatī’s ´ choice. In this way the Saiva cosmic order proved to be superior to the ancient ´ world represented by the Vedic gods. The latter were crippled and, to bring out the contrast—and this distinguishes the epic and puranic versions from those of the Brāhman. as—this was effected by the supreme lord in the form of a newly born child. 
+It is clear that the SP story of Pārvatī’s svayam. vara combines the two mytholog ical themes at issue, viz. (1) Siva’s taking the form of a little child (in Pārvatī’s ´ lap), and (2) Siva’s immobilisation/mutilation of the gods, though now applied ´ in a situation in which revenge of the incest or exclusion from the sacrifice is no longer the direct cause of his anger. In contrast with the Mahābhārata text, however, the encompassing myth of Pārvatī’s svayam. vara unites these two themes into a new, meaningful and logical whole. Pārvatī stands the test, as one would expect, and does not need to ask who the child is; the ignorant gods, however, go astray. Not recognizing Siva, they are embarassed by the ´ child’s presence at the svayam. vara. They become angry and consequently are immobilized/mutilateḍWhen their delusion is removed by Brahmā, they have no choice but to recognize Siva’s superiority and to accept that he is Pārvatī’s ´ choice. In this way the Saiva cosmic order proved to be superior to the ancient ´ world represented by the Vedic gods. The latter were crippled and, to bring out the contrast—and this distinguishes the epic and puranic versions from those of the Brāhmaṇas—this was effected by the supreme lord in the form of a newly born child. 
 
-The Brahmapurān. a, Liṅgapurān. a and Māheśvarakhan. ḍa tell basically the same myth as SP 13. In the Brahmapurān. a the svayam. vara episode forms part of the ‘story of Umā and Sam ´ . kara’ (umāśam. karayoh. pun. yām. kathām, BrP 34.55), which the Brahmapurān. a has taken over from the SP in its entirety. The Brahmapurān. a follows the text of the SP rather closely, showing only mi nor variants—often adaptation due to the fact that Brahmā has supplanted Sanatkumāra as the narrator—in addition to occasional omissions and corrup tions. From the latter it is clear that the Brahmapurān. a is the borrower, the SP the ‘original’. The borrowed chapters in the Brahmapurān. a, viz. 34.56 to 
+The Brahmapurāṇa, Liṅgapurāṇa and Māheśvarakhan. ḍa tell basically the same myth as SP 13. In the Brahmapurāṇa the svayam. vara episode forms part of the ‘story of Umā and Sam ´ . kara’ (umāśam. karayoh. puṇyām. kathām, BrP 34.55), which the Brahmapurāṇa has taken over from the SP in its entirety. The Brahmapurāṇa follows the text of the SP rather closely, showing only mi nor variants—often adaptation due to the fact that Brahmā has supplanted Sanatkumāra as the narrator—in addition to occasional omissions and corrup tions. From the latter it is clear that the Brahmapurāṇa is the borrower, the SP the ‘original’. The borrowed chapters in the Brahmapurāṇa, viz. 34.56 to 
 
 
 
@@ -5209,23 +5207,21 @@ The Brahmapurān. a, Liṅgapurān. a and Māheśvarakhan. ḍa tell basically t
 
 10 / Pārvatī’s Svayam. vara 193 
 
-38.12 (= SP 11.1 to 15.12) fit neatly in between the preceding passage borrowed from the Sāmbapurān. a (BrP 29–33) and the succeeding passage borrowed from the Mahābhārata and Vāyupurān. a (BrP 39–40). 23 
+38.12 (= SP 11.1 to 15.12) fit neatly in between the preceding passage borrowed from the Sāmbapurāṇa (BrP 29–33) and the succeeding passage borrowed from the Mahābhārata and Vāyupurāṇa (BrP 39–40). 23 
 
-The situation is somewhat different in the case of the Liṅgapurān. a and Māheśvarakhan. ḍa. These two texts show a greater distance to the SP, having numerous ommisions, additions and transpositions, whereas they are marred by textual corruptions, due to which the story has become more difficult to follow, especially in the Māheśvarakhan. ḍa. A comparison with the SP may help to restore its meaning. It ensues from a collation that the Liṅgapurān. a is closer to the SP and that the text of the Māheśvarakhan. ḍa goes back to an original that must have been related to the text as found in the Liṅgapurān. a. 
+The situation is somewhat different in the case of the Liṅgapurāṇa and Māheśvarakhan. ḍa. These two texts show a greater distance to the SP, having numerous ommisions, additions and transpositions, whereas they are marred by textual corruptions, due to which the story has become more difficult to follow, especially in the Māheśvarakhan. ḍa. A comparison with the SP may help to restore its meaning. It ensues from a collation that the Liṅgapurāṇa is closer to the SP and that the text of the Māheśvarakhan. ḍa goes back to an original that must have been related to the text as found in the Liṅgapurāṇa. 
 
-No such close correspondence is found between the MBh and SP, but there are some indications that, at the time the MBh passage at issue was composed, the myth of Pārvatī’s svayam. vara was not wholly unknown. It might actually have been the source whence the diaskeuast derived both themes, namely Siva ´ (Rudra) as a child and the injury of the gods, unified by Pārvatī’s pivot role. 24 These may have been lifted out of their context and incorporated in the eulogy of Rudra to illustrate his greatness. With the destruction of Tripura they evidently lack any intrinsic relation. 
+No such close correspondence is found between the MBh and SP, but there are some indications that, at the time the MBh passage at issue was composed, the myth of Pārvatī’s svayam. vara was not wholly unknowṇIt might actually have been the source whence the diaskeuast derived both themes, namely Siva ´ (Rudra) as a child and the injury of the gods, unified by Pārvatī’s pivot role. 24 These may have been lifted out of their context and incorporated in the eulogy of Rudra to illustrate his greatness. With the destruction of Tripura they evidently lack any intrinsic relation. 
 
 The synoptic edition of the Svayam. vara myth 
 
-To facilitate a comparison I have presented the five text traditions in four parallel columns. The Brahmapurān. a version is not given a column of its own; 
+To facilitate a comparison I have presented the five text traditions in four parallel columns. The Brahmapurāṇa version is not given a column of its own; 
 
-23 See the Appendices 4 and 5 of the edition of Schreiner and S¨ohnen. Though it has been known since long that the ‘Brahma◦, as presently edited, is nothing more than a loose “conglomeration of portions belonging to different periods and written by different hands”’ (Rocher 1986, 155), until now the source of the chapters 34 to 38 had not been identifieḍI am grateful to Mss Zehmke and Stoye (see above, n. 8 on p. 187 and n. 7 on p. 186), whose MA theses drew my attention to this BrP passage. 
+23 See the Appendices 4 and 5 of the edition of Schreiner and S¨ohneṇThough it has been known since long that the ‘Brahma◦, as presently edited, is nothing more than a loose “conglomeration of portions belonging to different periods and written by different hands”’ (Rocher 1986, 155), until now the source of the chapters 34 to 38 had not been identifieḍI am grateful to Mss Zehmke and Stoye (see above, n. 8 on p. 187 and n. 7 on p. 186), whose MA theses drew my attention to this BrP passage. 
 
-While I was preparing this article for the press, it was brought to my notice that at least fragments of the (original) Brahmapurān. a quoted by Laks.mīdhara are found in a manu script in the Jammu & Kashmir Government Research Library (Srinagar, MS. No. 1346), the title of which is written as ā. pu, taken to mean Adipurāṅa. On the cover of this fragment the title Mārtān. ḍamāhātmya has been written in another hanḍThe frag ment itself is without colophon. The text has been edited by Yasuke Ikari & Takao Hayashi (1994), who also give a concordance with the corresponding passages in the Kr.tyakalpataru and Kr.tyaratnākara where the text is quoted as Brahmapurān. a. The same fragment corresponds partly with the text of the Nīlamatapurān. a. 
+While I was preparing this article for the press, it was brought to my notice that at least fragments of the (original) Brahmapurāṇa quoted by Laks.mīdhara are found in a manu script in the Jammu & Kashmir Government Research Library (Srinagar, MS. No. 1346), the title of which is written as ā. pu, taken to mean Adipurāṅa. On the cover of this fragment the title Mārtān. ḍamāhātmya has been written in another hanḍThe frag ment itself is without colophoṇThe text has been edited by Yasuke Ikari & Takao Hayashi (1994), who also give a concordance with the corresponding passages in the Kr.tyakalpataru and Kr.tyaratnākara where the text is quoted as Brahmapurāṇa. The same fragment corresponds partly with the text of the Nīlamatapurāṇa. 
 
-24 The connection between (the child) Rudra and the mutilation of the gods is not com pletely new, since it underlies the myth of Prajāpati’s (self-)sacrifice and Rudra’s birth (see n. 19 on p. 190). Though the two myths are structurally akin, the trait-d’union between both themes changes from the sacrifice, i.e. Prajāpati, in the Brāhman. as to Pārvatī in the epic and Purān. as. 
-
-
+24 The connection between (the child) Rudra and the mutilation of the gods is not com pletely new, since it underlies the myth of Prajāpati’s (self-)sacrifice and Rudra’s birth (see n. 19 on p. 190). Though the two myths are structurally akin, the trait-d’union between both themes changes from the sacrifice, i.e. Prajāpati, in the Brāhmaṇas to Pārvatī in the epic and Purāṇas. 
 
 
 
@@ -5233,7 +5229,9 @@ While I was preparing this article for the press, it was brought to my notice th
 
 
 
-its variant readings are given in the critical apparatus ad the text of SP. 25 The text of MBh 7.173 actually recurs in MBh 13.145; the major variant readings of the reprise have been given in the apparatus (the sigla are those of the Critical Edition). The text of SP is basically a reconstruction of the S recension (cf. above, n. 5 on p. 185), though it should be taken into account that for the passage at issue only S2 is available. The sequence of ślokas in the Liṅgapurān. a and the Māheśvarakhan. ḍa of the Veṅkat.eśvara (and Vaṅgavāsī) Press editions has been adapted to the SP and this already yields a slight improvement of the story line. 26 Significant variant readings of the Vaṅgavāsī editions of the Liṅgapurān. a and Māheśvarakhan. ḍa have been either accepted in the text or presented in the apparatus. 27 
+
+
+its variant readings are given in the critical apparatus ad the text of SP. 25 The text of MBh 7.173 actually recurs in MBh 13.145; the major variant readings of the reprise have been given in the apparatus (the sigla are those of the Critical Edition). The text of SP is basically a reconstruction of the S recension (cf. above, n. 5 on p. 185), though it should be taken into account that for the passage at issue only S2 is available. The sequence of ślokas in the Liṅgapurāṇa and the Māheśvarakhan. ḍa of the Veṅkat.eśvara (and Vaṅgavāsī) Press editions has been adapted to the SP and this already yields a slight improvement of the story line. 26 Significant variant readings of the Vaṅgavāsī editions of the Liṅgapurāṇa and Māheśvarakhan. ḍa have been either accepted in the text or presented in the apparatus. 27 
 
 When we turn our attention again to MBh 173 verse 59 we see in the appa ratus that a part of the Southern Recension inserts before this verse a signifi cant hemistich: ‘Listen to another event, O Dhanam. jaya, (which happened) at Pārvatī’s svayam. vara.’ The insertion of this hemistich may have been prompted by the harsh transition from the Tripura battle scene to Siva’s transformation ´ into a chilḍSince this hemistich is only found in the Telugu and some of the Grantha mss, it may be secondary and not have formed part of the original MBh text, but, all the same, it could represent a reminiscence of the original context to which the myth told in the following verses might have belonged. 
 
@@ -5241,9 +5239,9 @@ Another significant variant is found ad 59c. This reading, although the edi tors
 
 25 If one of the variant readings of the BrP text that are presented in Schreiner and S¨ohnen’s edition corresponds with SP, the other readings are ignoreḍOccasionally, if these variant readings resemble the SP reading, they are also given in the apparatus with siglum Bpur*. 
 
-26 Occasionally the Veṅkat.eśvara edition of the Māheśvarakhan. ḍa gives a variant reading— i(tarah. ) pā(t.hah. )—which is noted in the apparatus. The commentary of Gan. eśa Nātu in the Veṅkat.eśvara edition of the LiP has also been presented in the apparatus. 
+26 Occasionally the Veṅkat.eśvara edition of the Māheśvarakhan. ḍa gives a variant reading— i(tarah. ) pā(t.hah. )—which is noted in the apparatus. The commentary of Gaṇeśa Nātu in the Veṅkat.eśvara edition of the LiP has also been presented in the apparatus. 
 
-27 One may recall Friedhelm Hardy’s dictum (Hardy 1983a, 592) to the effect that ‘any analysis solely based on one printed edition of a Purān. a will be onesided or even dis torted’. It would be better still, and generally of greater significance (as too often the printed editions apear to be related to one another), to consult the mss of the Purān. a at issue. It is obvious that here practical considerations impose a limit. I am very grateful to my colleague H. Isaacson for having taken the trouble to look at a ms of the Liṅga purān. a in the Bodleian Library (MS Wilson 100). According to Isaacson ‘this ms does not look very old and has a large number of mistakes, but very strikingly it agrees in some places more closely with the SP than the printed Liṅgapurān. a does’. The significant variants are given in the apparatus of Liṅgapurān. a with siglum ‘MSBodl’. The variant readings of another Liṅgapurān. a ms in the National Archives of Nepal (No. 6/3393) dated NS 837 (= ad 1717), available on a microfilm of the Nepal–German Manuscript Preservation Project in Berlin (reel A 1392/6), are also presented in the apparatus with siglum ‘MSNep’ (it concerns the folios 195v to 196v). I am grateful to Prof. Dr A. Wezler, through whose kind offices this microfilm was placed at my disposal. 
+27 One may recall Friedhelm Hardy’s dictum (Hardy 1983a, 592) to the effect that ‘any analysis solely based on one printed edition of a Purāṇa will be onesided or even dis torted’. It would be better still, and generally of greater significance (as too often the printed editions apear to be related to one another), to consult the mss of the Purāṇa at issue. It is obvious that here practical considerations impose a limit. I am very grateful to my colleague H. Isaacson for having taken the trouble to look at a ms of the Liṅga purāṇa in the Bodleian Library (MS Wilson 100). According to Isaacson ‘this ms does not look very old and has a large number of mistakes, but very strikingly it agrees in some places more closely with the SP than the printed Liṅgapurāṇa does’. The significant variants are given in the apparatus of Liṅgapurāṇa with siglum ‘MSBodl’. The variant readings of another Liṅgapurāṇa ms in the National Archives of Nepal (No. 6/3393) dated NS 837 (= ad 1717), available on a microfilm of the Nepal–German Manuscript Preservation Project in Berlin (reel A 1392/6), are also presented in the apparatus with siglum ‘MSNep’ (it concerns the folios 195v to 196v). I am grateful to Prof. Dr A. Wezler, through whose kind offices this microfilm was placed at my disposal. 
 
 
 
@@ -5253,39 +5251,39 @@ Another significant variant is found ad 59c. This reading, although the edi tors
 
 10 / Pārvatī’s Svayam. vara 195 
 
-devyā jij˜nāsayā (‘in order to test the Goddess’), which has a greater intrinsic probability than Umā openly acknowledging her ignorance: umā jij˜nāsamānā. The editors of the MBh may have been tempted into accepting this, probably corrupt version of 59c in the critical text on account of the fact that the MBh text as we have it does not explicitly state that Umā stands the test and rec ognizes Siva and because ´ Siva as the subject of ´ abravīt in 59d seems rather odd as we would expect ko ’ham iti. However, also the reading of 59d is far from certain. That Umā’s knowledge of the child’s true nature was (originally) taken as understood may be deduced not only from the fact that the gods altogether ignore her question, but also from the fact that only they manifest their igno rance in the story that follows (MBh 7.173.61). 28 And neither does Brahmā, who knows the truth, inform Umā; on the contrary, Umā, together with Siva, ´ is the object of veneration in verse 63, directly after Brahmā’s discovery in verse 62. The conclusion seems inevitable that v. 59 as a whole is corrupt be yond reliable restoration and a wavy line under the entire verse in the edition would not have been superfluous. The (later) Liṅgapurān. a and Māheśvara khan. ḍa have replaced the (probably) original feature of ‘Umā’s trial’ by the traditional platitude that it is just Siva’s game ( ´ krīd. ārtham, LiP 1.102.28d, MKh 2.25.100d). 
+devyā jij˜nāsayā (‘in order to test the Goddess’), which has a greater intrinsic probability than Umā openly acknowledging her ignorance: umā jij˜nāsamānā. The editors of the MBh may have been tempted into accepting this, probably corrupt version of 59c in the critical text on account of the fact that the MBh text as we have it does not explicitly state that Umā stands the test and rec ognizes Siva and because ´ Siva as the subject of ´ abravīt in 59d seems rather odd as we would expect ko ’ham iti. However, also the reading of 59d is far from certaiṇThat Umā’s knowledge of the child’s true nature was (originally) taken as understood may be deduced not only from the fact that the gods altogether ignore her question, but also from the fact that only they manifest their igno rance in the story that follows (MBh 7.173.61). 28 And neither does Brahmā, who knows the truth, inform Umā; on the contrary, Umā, together with Siva, ´ is the object of veneration in verse 63, directly after Brahmā’s discovery in verse 62. The conclusion seems inevitable that v. 59 as a whole is corrupt be yond reliable restoration and a wavy line under the entire verse in the edition would not have been superfluous. The (later) Liṅgapurāṇa and Māheśvara khan. ḍa have replaced the (probably) original feature of ‘Umā’s trial’ by the traditional platitude that it is just Siva’s game ( ´ krīd. ārtham, LiP 1.102.28d, MKh 2.25.100d). 
 
 Due to textual corruption MKh 101–102 has become difficult to understand, which may have led the pandits of the Veṅkat.eśvara Press to their note given in the apparatus ad 100cd–101. The tasya in MKh 102b and tasyā in LiP 29d lack an obvious antecedent (SP reads devyā). The two pādas MKh 101cd make the impression of an interpolation, the connection of which with the immediate context is difficult to determine. The relevance of the word jaya is obscure and may point to another context, perhaps the exegetical tradition concerning the famous verse that opens the Mahābhārata and, for instance, the Māheśvara khan. ḍa.29 
 
-In SP 34–38 (BrP 36.33–36ab), LiP 31–39 and MKh 104–110 (missing in MBh) the theme of the mutilation of the gods is worked out, adding to the immobilized Indra other victims such as Bhaga (not in LiP) and P¯us.an (not in BrP), known as such already from the Brāhman. a literature. A very striking elaboration is presented in SP 36, which is without parallel in the Māheśvara khan. ḍa and significantly different in Liṅgapurān. a, whereas BrP (36.36cd) has omitted the second remarkable hemistich (SP 36cd). The deluded Vis.n. u angrily shakes his head, whereupon Siva makes his hair fall out. I have not succeeded ´ in finding any reference to Vis.n. u’s baldness in Sanskrit literature and we may have here an idiosyncrasy of the ancient Skandapurān. a text. 30 That this ex 
+In SP 34–38 (BrP 36.33–36ab), LiP 31–39 and MKh 104–110 (missing in MBh) the theme of the mutilation of the gods is worked out, adding to the immobilized Indra other victims such as Bhaga (not in LiP) and P¯us.an (not in BrP), known as such already from the Brāhmaṇa literature. A very striking elaboration is presented in SP 36, which is without parallel in the Māheśvara khan. ḍa and significantly different in Liṅgapurāṇa, whereas BrP (36.36cd) has omitted the second remarkable hemistich (SP 36cd). The deluded Vis.ṇu angrily shakes his head, whereupon Siva makes his hair fall out. I have not succeeded ´ in finding any reference to Vis.ṇu’s baldness in Sanskrit literature and we may have here an idiosyncrasy of the ancient Skandapurāṇa text. 30 That this ex 
 
 28 Significant may be also that Pārvatī takes the child on to her lap (59ab), but the reading of the entire verse 59 is uncertain. 
 
-29 nārāyan. am. namaskr.tya naram. caiva narottamam | devīm. sarasvatīm. caiva tato jayam udīrayet k 
+29 nārāyaṇam. namaskr.tya naram. caiva narottamam | devīm. sarasvatīm. caiva tato jayam udīrayet k 
 
-30 Note the hymn in praise of Siva after his wedding, which is borrowed by the ´ Brahma purān. a, and in which obeisance is paid to Siva as ´ kr. s.n. akeśāpahārin. e—clearly a reference 
-
-
+30 Note the hymn in praise of Siva after his wedding, which is borrowed by the ´ Brahma purāṇa, and in which obeisance is paid to Siva as ´ kr. s.ṇakeśāpahāriṇe—clearly a reference 
 
 
 
 
 
-treme Saivism was hard to swallow for later redactors of the text may follow not only from the adaptation in the Liṅgapurān. a, where Vis.n. u’s head is immo bilized instead of made bald, and the omission of this verse or half of it in the Māheśvarakhan. ḍa and in the Brahmapurān. a, but also from the interpolations in the R and A recensions of SP ad 39ab (only in R) and ad 50cd, 31 in which Vis.n. u’s role is mitigated when it is said, that Nārāyan. a has known from the start that it was Siva who fooled the gods. ´ 32 
+
+
+treme Saivism was hard to swallow for later redactors of the text may follow not only from the adaptation in the Liṅgapurāṇa, where Vis.ṇu’s head is immo bilized instead of made bald, and the omission of this verse or half of it in the Māheśvarakhan. ḍa and in the Brahmapurāṇa, but also from the interpolations in the R and A recensions of SP ad 39ab (only in R) and ad 50cd, 31 in which Vis.ṇu’s role is mitigated when it is said, that Nārāyaṇa has known from the start that it was Siva who fooled the gods. ´ 32 
 
 Then in MBh 62, SP 39–40 (BrP 36.36cd–39ab), LiP 40–41 and MKh 111– 112ab Brahmā sees what Siva’s game is and starts praising him. Of the five ´ ślokas that follow in SP 41–45 (BrP 36.39cd–44ab) and LiP 42cd–47, in which Brahmā reveals Siva’s true nature and coaxes him into undoing his spell, the ´ MKh has retained only one (112cd–113ab), while the Northern Recension of the MBh includes three different, though appropriate verses after 62, relegated to the apparatus by the editors. The effect of this is that according to the text of the Critical Edition the gods never are informed about the true nature of the child, which again makes it unlikely that, in spite of that, they suddenly are able to satisfy (prasādayāmāsur) Umā and Rudra in v. 63. 
 
-The next passage, SP 46–47 (BrP 36.44cd–45) and LiP 48–49, has also been transmitted incompletely in the MKh (113cd–114). The equivalent of SP 46 and LiP 48, in which Brahmā turns to the gods, has been omitted, as a re sult of which the text has become unintelligible as it is no longer clear who are addresseḍThe corruption may have had its starting point, however, in the alternative sandhi m¯uḍhā stha for m¯uḍhāh. stha (SP 13.47a), which we find in the SP manuscript S2 and the Veṅkat.eśvara edition of Liṅgapurān. a. Al though Kātyāyana ad Pān. ini 8.3.36 allows the elision of the final s before a sibilant followed by a voiceless occlusive and this practice is found regularly in manuscripts, 33 the loss of the hiatus between m¯uḍhā and stha in handwriting (reflected in the Veṅkat.eśvara edition of the Liṅgapurān. a) may have caused that the verbal second plural indicative (‘you are fools’) was no longer under stood, which gave rise to the nominal m¯uḍhās tu (A1, A3) and m¯uḍhāś ca in 
+The next passage, SP 46–47 (BrP 36.44cd–45) and LiP 48–49, has also been transmitted incompletely in the MKh (113cd–114). The equivalent of SP 46 and LiP 48, in which Brahmā turns to the gods, has been omitted, as a re sult of which the text has become unintelligible as it is no longer clear who are addresseḍThe corruption may have had its starting point, however, in the alternative sandhi m¯uḍhā stha for m¯uḍhāh. stha (SP 13.47a), which we find in the SP manuscript S2 and the Veṅkat.eśvara edition of Liṅgapurāṇa. Al though Kātyāyana ad Pāṇini 8.3.36 allows the elision of the final s before a sibilant followed by a voiceless occlusive and this practice is found regularly in manuscripts, 33 the loss of the hiatus between m¯uḍhā and stha in handwriting (reflected in the Veṅkat.eśvara edition of the Liṅgapurāṇa) may have caused that the verbal second plural indicative (‘you are fools’) was no longer under stood, which gave rise to the nominal m¯uḍhās tu (A1, A3) and m¯uḍhāś ca in 
 
-to the episode under the discussion, since the same verse praises him also as pus.n. o danta harāya and bhaganetranipātāya (SP 14.9 = BrP 37.9). In SP 32.116 Devī is praised as vis.n. ukeśāpahartrī. The SP apparently refers again to Vis.n. u’s baldness when it praises Siva as ´ śipivis.t.akr.te vis.n. or. About the term śipivis.t.a we remarked in the annotation ad loc. (SP II B, 45): 
+to the episode under the discussion, since the same verse praises him also as pus.ṇo danta harāya and bhaganetranipātāya (SP 14.9 = BrP 37.9). In SP 32.116 Devī is praised as vis.ṇukeśāpahartrī. The SP apparently refers again to Vis.ṇu’s baldness when it praises Siva as ´ śipivis.t.akr.te vis.ṇor. About the term śipivis.t.a we remarked in the annotation ad loc. (SP II B, 45): 
 
-The surprising fate of Vis.n. u is actually modelled on a Vedic reference, as in the case of Bhaga and P¯us.an, though in this case the reference is a much more dubious one. It appears that one interpretation of the obscure Vedic epithet Sipivis ´ .t.a—applied to Vis.n. u in R. V 7.99.7 and especially R. V 7.100.5–7—understands the word as meaning ‘bald’. 
+The surprising fate of Vis.ṇu is actually modelled on a Vedic reference, as in the case of Bhaga and P¯us.an, though in this case the reference is a much more dubious one. It appears that one interpretation of the obscure Vedic epithet Sipivis ´ .t.a—applied to Vis.ṇu in R. V 7.99.7 and especially R. V 7.100.5–7—understands the word as meaning ‘bald’. 
 
 For references to alternative interpretations of the Vedic word see our annotation ad SP 32.55. 
 
 31 See also SP I, 303 f. App. 2. 
 
-32 This uprating of Vis.n. u’s position is consistently found throughout the R and A recensions. 
+32 This uprating of Vis.ṇu’s position is consistently found throughout the R and A recensions. 
 
 33 Wackernagel 1896, Altindische Grammatik I § 287b. 
 
@@ -5301,13 +5299,13 @@ BrP and MKh. The vocative devatāh. in SP was accordingly interpreted as a nomin
 
 In short, the transcriptive and intrinsic probability of the corruptions point to successive stages, of which the MKh represents the last. Thanks to the SP we are now in the position to understand what the BrP, LiP and MKh were supposed to convey. 
 
-SP 48–49 show the acquaintance of Brahmā (and the authors of the ancient Skandapurān. a) with the symbolic meaning of the child as the embodiment of Siva’s cosmic dimension, which meaning is now revealed to the Vedic gods. In ´ addition to epithets such as kapardimat, ātman, aja etc., we encounter seven of the eight names of the as.t.am¯urti; only Bhava appears to be missing or may be considered to be replaced by another name such as Sam ´ . kara or De vadeva. This revelation of the child’s eightfold nature has become lost in the course of transmission as the omission of these two verses in BrP, LiP and MKh attests. The absence of the child’s qualification as pa˜ncaśikha in LiP 28d and MKh 100d should probably be viewed in the same light. At the instance of Brahmā the still petrified gods turn their minds towards Sarva ( ´ pran. emur manasā śarvam. ,34 whereas a minor textual inconsequence in the MKh permits them to bow (pran. atāh.) at that as well (MKh 115ab). The Māheśvarakhan. ḍa then inserts a stotra, in which the gods apologize for their behaviour (MKh 115cd–121ab), which does not occur in the other versions and therefore may be considered an accretion. 
+SP 48–49 show the acquaintance of Brahmā (and the authors of the ancient Skandapurāṇa) with the symbolic meaning of the child as the embodiment of Siva’s cosmic dimension, which meaning is now revealed to the Vedic gods. In ´ addition to epithets such as kapardimat, ātman, aja etc., we encounter seven of the eight names of the as.t.am¯urti; only Bhava appears to be missing or may be considered to be replaced by another name such as Sam ´ . kara or De vadeva. This revelation of the child’s eightfold nature has become lost in the course of transmission as the omission of these two verses in BrP, LiP and MKh attests. The absence of the child’s qualification as pa˜ncaśikha in LiP 28d and MKh 100d should probably be viewed in the same light. At the instance of Brahmā the still petrified gods turn their minds towards Sarva ( ´ praṇemur manasā śarvam. ,34 whereas a minor textual inconsequence in the MKh permits them to bow (praṇatāh.) at that as well (MKh 115ab). The Māheśvarakhan. ḍa then inserts a stotra, in which the gods apologize for their behaviour (MKh 115cd–121ab), which does not occur in the other versions and therefore may be considered an accretion. 
 
 In MBh 63, SP 52 (BrP 36.48), LiP 53 and MKh 121cd–122ab the texts converge again: the satisfied Siva restores the gods to their normal condition. ´ With this ends the episode in the MBh, which continues with its eulogy of Rudra. 
 
 The SP, BrP, LiP and MKh continue their story of Umā’s svayam. vara. The MKh inserted 5 ślokas (122cd–127ab) in which the daityas in their turn express their ignorance. By pronouncing the bīja hum. Siva drives them back to their ´ own city where they forget about the svayam. vara, a fate that, unfortunately, did not remain restricted to that city and its inhabitants. 
 
-In the following verses the great god drops his disguise and manifests him self in his supreme body (vapus), which can only be seen by the gods after having received a supreme eye. It is noteworthy that according to the Liṅga purān. a and Māheśvarakhan. ḍa versions also the Goddess (Bhavānī) needs such an eye, 35 whereas in SP 13.54 (BrP 36.50cd–51ab)—consistent with SP 13.30 (BrP 36.29), which verse has no parallel in LiP and MKh—she evidently pos sesses this capacity (by virtue of her yogic powers). Yet, the superiority of the Goddess over the gods is acknowledged in the Liṅgapurān. a and Māheśvara 
+In the following verses the great god drops his disguise and manifests him self in his supreme body (vapus), which can only be seen by the gods after having received a supreme eye. It is noteworthy that according to the Liṅga purāṇa and Māheśvarakhan. ḍa versions also the Goddess (Bhavānī) needs such an eye, 35 whereas in SP 13.54 (BrP 36.50cd–51ab)—consistent with SP 13.30 (BrP 36.29), which verse has no parallel in LiP and MKh—she evidently pos sesses this capacity (by virtue of her yogic powers). Yet, the superiority of the Goddess over the gods is acknowledged in the Liṅgapurāṇa and Māheśvara 
 
 34 SP 51, BrP 36.47, LiP 52. 
 
@@ -5325,15 +5323,15 @@ khan. ḍa versions as well, when in these two texts ‘Brahmā and so forth’ 
 
 In SP 56 (BrP 36.52cd–53ab), LiP 61cd–62ab and MKh 134cd–135ab Devī finally chooses Siva as her husband by placing the wreath at his feet. In the ´ next verse(s) the gods express approval by exclaiming ‘hail, hail!’ The words saha devyā in LiP 63a (MKh 136a) could be construed with sarve devāh. in 63c (MKh 136c), which would imply that the Goddess is herself honouring instead of being honoured as is the case in SP 57. Apart from the fact that the Sanskrit construction is rather cumbersome, this does not fit the situation, all the less so, since taking saha devyā with the subject of namaścakruh. would normally entail that the Goddess is also part of the subject of sam. procya in LiP 62c and MKh 135c, which, however, is undesirable as it is totally inappropriate. If, on the other hand, we take saha devyā with the object clause LiP 62d, MKh 135d, this would also result in an awkward construction (tayā along with saha devyā). 37 
 
-In a nutshell, the reformulation and elaboration of the final verses in LiP and Māheśvarakhan. ḍa is rather unfortunate and illustrates once more the value of the critically edited Skandapurān. a (SP) for the understanding of these two vulgate Purān. a texts. 
+In a nutshell, the reformulation and elaboration of the final verses in LiP and Māheśvarakhan. ḍa is rather unfortunate and illustrates once more the value of the critically edited Skandapurāṇa (SP) for the understanding of these two vulgate Purāṇa texts. 
 
 Conclusion 
 
-Summarizing, we may say that the corruptions and elaborations in the second part of the text which is without counterpart in the MBh confirm the tentative conclusion reached above, viz. that the Māheśvarakhan. ḍa represents a later version of the myth as told in LiP, whereas the wording of the latter devi ates again from the text as preserved in the ancient Skandapurān. a, without improving upon it, however, in any respect. On the contrary, the collation clearly shows that the corresponding text portions of the Liṅgapurān. a and Māheśvarakhan. ḍa successively derived from an archetype that represented a corrupted version of SP. The Brahmapurān. a version of the myth is an inde pendent copy of the SP text, which does not seem to have a direct connection with the archetype from which the Liṅgapurān. a and Māheśvarakhan. ḍa deriveḍCorruptions and omissions show the dependency of the Brahmapurān. a on SP 
+Summarizing, we may say that the corruptions and elaborations in the second part of the text which is without counterpart in the MBh confirm the tentative conclusion reached above, viz. that the Māheśvarakhan. ḍa represents a later version of the myth as told in LiP, whereas the wording of the latter devi ates again from the text as preserved in the ancient Skandapurāṇa, without improving upon it, however, in any respect. On the contrary, the collation clearly shows that the corresponding text portions of the Liṅgapurāṇa and Māheśvarakhan. ḍa successively derived from an archetype that represented a corrupted version of SP. The Brahmapurāṇa version of the myth is an inde pendent copy of the SP text, which does not seem to have a direct connection with the archetype from which the Liṅgapurāṇa and Māheśvarakhan. ḍa deriveḍCorruptions and omissions show the dependency of the Brahmapurāṇa on SP 
 
 36 LiP 1.102.58cd, MKh 2.25.134ab; the reading of BrP 36.52a, MSNep and MKh 134a, menire, looks like a corruption (metathesis) of the text as found in SP and LiP, whereas the reading of LiP 58d seems a corruption of the reading as found in MKh 134b, possibly caused by LiP’s transposition of this hemistich. Our placing of this hemistich after 61ab, however, does not solve the problem (note that MSNep reads digīśvarāh. to avoid the awkwardness). LiP 61c has preserved the no doubt correct reading hr. s.t.ā of SP 56a, while MKh reads dr. s.t.vā (134c), echoing the mistaken conception underlying LiP and MKh, viz. that the Goddess has only just now, after receipt of a supreme eye, seen her future spouse. 
 
-37 The commentary of Gan. eśa Nātu is equally ambiguous on this point, although it seems most natural to me that he construes saha devyā with the subject. The dan. ḍa after śirobhih. is misplaced anyway. 
+37 The commentary of Gaṇeśa Nātu is equally ambiguous on this point, although it seems most natural to me that he construes saha devyā with the subject. The dan. ḍa after śirobhih. is misplaced anyway. 
 
 
 
@@ -5343,15 +5341,15 @@ Summarizing, we may say that the corruptions and elaborations in the second part
 
 10 / Pārvatī’s Svayam. vara 199 
 
-and not vice versa. The textual distortions that the Brahmapurān. a has in common with the Liṅgapurān. a and Māheśvarakhan. ḍa, notably in the passages SP 35–38 and SP 48–49, seem to point to a slightly altered version of the S recension of SP that is not, or only partly represented in our ms material. 
+and not vice versa. The textual distortions that the Brahmapurāṇa has in common with the Liṅgapurāṇa and Māheśvarakhan. ḍa, notably in the passages SP 35–38 and SP 48–49, seem to point to a slightly altered version of the S recension of SP that is not, or only partly represented in our ms material. 
 
-The wording of the SP, in its turn, does not show direct dependency on the MBh, but nevertheless elucidates it considerably, since it preserved the context from which the verses in the MBh may have been borroweḍWe thus have stumbled upon a layer in the process of composition of the Mahābhārata that has been transmitted incompletely—and consequently incomprehensibly—in the ms tradition of the epic. One explanation of this phenomenon could be that in the course of this ms transmission, at an early stage, for one reason or another, a significant text passage had been lost and that only the Telugu and Grantha traditions preserved a vestige thereof. However, the hemistich devyāh. svayam. vare vr.ttam. śr.n. us.vānyad dhanam. jaya (ad MBh 7.173.58) makes the impression of being secondary, i.e. of being an explanatory interpolation. A copyist of the Telugu and Grantha lines of transmission may have known the myth through the Purān. a tradition. 
+The wording of the SP, in its turn, does not show direct dependency on the MBh, but nevertheless elucidates it considerably, since it preserved the context from which the verses in the MBh may have been borroweḍWe thus have stumbled upon a layer in the process of composition of the Mahābhārata that has been transmitted incompletely—and consequently incomprehensibly—in the ms tradition of the epic. One explanation of this phenomenon could be that in the course of this ms transmission, at an early stage, for one reason or another, a significant text passage had been lost and that only the Telugu and Grantha traditions preserved a vestige thereof. However, the hemistich devyāh. svayam. vare vr.ttam. śr.ṇus.vānyad dhanam. jaya (ad MBh 7.173.58) makes the impression of being secondary, i.e. of being an explanatory interpolatioṇA copyist of the Telugu and Grantha lines of transmission may have known the myth through the Purāṇa tradition. 
 
-On the other hand, the textual incongruity at issue could itself have been caused by an early infelicitous interpolation in the text of the Dron. aparvan. The interpolator may have known the myth of Pārvatī’s svayam. vara and may have carelessly used elements of it to embellish the eulogy of Siva, an example ´ of what I elsewhere have called ‘composition-in-transmission’ (above, p. 177). If this were the case, it probably was a very early interpolation, not only because the passage is found in all major mss, but also in the reprise in book 13. 
+On the other hand, the textual incongruity at issue could itself have been caused by an early infelicitous interpolation in the text of the DroṇaparvaṇThe interpolator may have known the myth of Pārvatī’s svayam. vara and may have carelessly used elements of it to embellish the eulogy of Siva, an example ´ of what I elsewhere have called ‘composition-in-transmission’ (above, p. 177). If this were the case, it probably was a very early interpolation, not only because the passage is found in all major mss, but also in the reprise in book 13. 
 
-A third possibility is that a diaskeuast who worked on the Dron. aparvan composed his text by drawing upon disparate texts and that one of these texts contained the myth of Pārvatī’s svayam. vara. In this connection the question arises how we should conceive of the nature of this text, a question that may also be formulated as follows: how did the redactor of this part of the Dron. aparvan proceed? Did he have written texts at his disposal or did he collect his material from memory, that is, was he acquainted with a corpus of orally transmitted mythology out of which corpus he selected those parts that he could use? In view of the Vedic roots of two of the themes of the svayam. vara myth, it seems likely to me that the myth of Pārvatī’s svayam. vara circulated before it found its place in the SP, or in its garbled form in the MBh for that matter. Whether this circulation had an oral or written basis, or was actually an interplay of the two, is a question that has a direct bearing on our understanding of the process of composition of the Mahābhārata itself, a question that falls beyond the scope of the present investigation. 38 
+A third possibility is that a diaskeuast who worked on the Droṇaparvan composed his text by drawing upon disparate texts and that one of these texts contained the myth of Pārvatī’s svayam. vara. In this connection the question arises how we should conceive of the nature of this text, a question that may also be formulated as follows: how did the redactor of this part of the Droṇaparvan proceed? Did he have written texts at his disposal or did he collect his material from memory, that is, was he acquainted with a corpus of orally transmitted mythology out of which corpus he selected those parts that he could use? In view of the Vedic roots of two of the themes of the svayam. vara myth, it seems likely to me that the myth of Pārvatī’s svayam. vara circulated before it found its place in the SP, or in its garbled form in the MBh for that matter. Whether this circulation had an oral or written basis, or was actually an interplay of the two, is a question that has a direct bearing on our understanding of the process of composition of the Mahābhārata itself, a question that falls beyond the scope of the present investigation. 38 
 
-38 A tentative answer to this question, not regarding the Mahābhārata, but the Skanda purān. a itself is formulated in the last essay of this volume (below, pp. 601 ff.). 
+38 A tentative answer to this question, not regarding the Mahābhārata, but the Skanda purāṇa itself is formulated in the last essay of this volume (below, pp. 601 ff.). 
 
 
 
@@ -5373,7 +5371,7 @@ A Textual Reconstruction
 
 
 
-Mahābhārata 7.173 Skandapurān. a 13 (Bpur 36.27–54) ∗ 
+Mahābhārata 7.173 Skandapurāṇa 13 (Bpur 36.27–54) ∗ 
 
   
 
@@ -5485,7 +5483,7 @@ D10 T G1,4) After 59 N inserts:
 
 10 / Pārvatī’s Svayam. vara 203 
 
-Liṅgapurān. a 1.102 Māheśvarakhan. ḍa 2.25 
+Liṅgapurāṇa 1.102 Māheśvarakhan. ḍa 2.25 
 
 26 
 
@@ -5515,7 +5513,7 @@ Liṅgapurān. a 1.102 Māheśvarakhan. ḍa 2.25
 
 27a ] MSNep 
 
-27cd ] MSNep Ad 28 the commentator Gan. eśa Nātu remarks: 
+27cd ] MSNep Ad 28 the commentator Gaṇeśa Nātu remarks: 
 
 
 
@@ -5535,7 +5533,7 @@ pādas 101cd are clearly an accretion.
 
 
 
-Mahābhārata 7.173 Skandapurān. a 13 (Bpur 36.27–54) 
+Mahābhārata 7.173 Skandapurāṇa 13 (Bpur 36.27–54) 
 
 
 
@@ -5627,7 +5625,7 @@ Bpur reads 38ef 36b ] Bpur 36cd–38cd ] om. Bpur 36d ] S Bh, A, R (hypometrical
 
 10 / Pārvatī’s Svayam. vara 205 
 
-Liṅgapurān. a 1.102 Māheśvarakhan. ḍa 2.25 
+Liṅgapurāṇa 1.102 Māheśvarakhan. ḍa 2.25 
 
 
 
@@ -5695,7 +5693,7 @@ Veṅk. Ed. 109c ] conj.
 
 
 
-Mahābhārata 7.173 Skandapurān. a 13 (Bpur 36.27–54) 
+Mahābhārata 7.173 Skandapurāṇa 13 (Bpur 36.27–54) 
 
   
 
@@ -5795,7 +5793,7 @@ R inserts:
 
 10 / Pārvatī’s Svayam. vara 207 
 
-Liṅgapurān. a 1.102 Māheśvarakhan. ḍa 2.25 
+Liṅgapurāṇa 1.102 Māheśvarakhan. ḍa 2.25 
 
 108cd 
 
@@ -5851,7 +5849,7 @@ MSNep
 
 
 
-Mahābhārata 7.173 Skandapurān. a 13 (Bpur 36.27–54) 
+Mahābhārata 7.173 Skandapurāṇa 13 (Bpur 36.27–54) 
 
 
 
@@ -5963,7 +5961,7 @@ Bpur After 42 R A Bh insert:
 
 10 / Pārvatī’s Svayam. vara 209 
 
-Liṅgapurān. a 1.102 Māheśvarakhan. ḍa 2.25 
+Liṅgapurāṇa 1.102 Māheśvarakhan. ḍa 2.25 
 
 
 
@@ -6023,7 +6021,7 @@ Liṅgapurān. a 1.102 Māheśvarakhan. ḍa 2.25
 
 40d ] MSBodl Ad 
 
-40 Gan. eśa Nātu comments: 
+40 Gaṇeśa Nātu comments: 
 
 
 
@@ -6033,7 +6031,7 @@ Liṅgapurān. a 1.102 Māheśvarakhan. ḍa 2.25
 
 
 
-] MSNep Ad 42 Gan. eśa 
+] MSNep Ad 42 Gaṇeśa 
 
 
 
@@ -6051,7 +6049,7 @@ Nātu comments:
 
 
 
-Mahābhārata 7.173 Skandapurān. a 13 (Bpur 36.27–54) 
+Mahābhārata 7.173 Skandapurāṇa 13 (Bpur 36.27–54) 
 
 
 
@@ -6145,7 +6143,7 @@ Bpur
 
 10 / Pārvatī’s Svayam. vara 211 
 
-Liṅgapurān. a 1.102 Māheśvarakhan. ḍa 2.25 
+Liṅgapurāṇa 1.102 Māheśvarakhan. ḍa 2.25 
 
   
 
@@ -6225,7 +6223,7 @@ Liṅgapurān. a 1.102 Māheśvarakhan. ḍa 2.25
 
 ] MSNep 47d ] MSNep 48c ] MSNep 49a ] Veṅk. Ed., 
 
-MSNep Ad 49ab Gan. eśa Nātu com ments: 
+MSNep Ad 49ab Gaṇeśa Nātu com ments: 
 
 
 
@@ -6253,7 +6251,7 @@ awkward transition.
 
 
 
-Mahābhārata 7.173 Skandapurān. a 13 (Bpur 36.27–54) 
+Mahābhārata 7.173 Skandapurāṇa 13 (Bpur 36.27–54) 
 
 
 
@@ -6331,7 +6329,7 @@ A3
 
 10 / Pārvatī’s Svayam. vara 213 
 
-Liṅgapurān. a 1.102 Māheśvarakhan. ḍa 2.25 
+Liṅgapurāṇa 1.102 Māheśvarakhan. ḍa 2.25 
 
 
 
@@ -6411,7 +6409,7 @@ metrical) 51d ] MSNep
 
 
 
-Mahābhārata 7.173 Skandapurān. a 13 (Bpur 36.27–54) 
+Mahābhārata 7.173 Skandapurāṇa 13 (Bpur 36.27–54) 
 
 
 
@@ -6451,7 +6449,7 @@ MBh
 
 10 / Pārvatī’s Svayam. vara 215 
 
-Liṅgapurān. a 1.102 Māheśvarakhan. ḍa 2.25 
+Liṅgapurāṇa 1.102 Māheśvarakhan. ḍa 2.25 
 
 
 
@@ -6521,7 +6519,7 @@ Liṅgapurān. a 1.102 Māheśvarakhan. ḍa 2.25
 
 
 
-Mahābhārata 7.173 Skandapurān. a 13 (Bpur 36.27–54) 
+Mahābhārata 7.173 Skandapurāṇa 13 (Bpur 36.27–54) 
 
   
 
@@ -6583,7 +6581,7 @@ Bpur 53f ] Bpur
 
 10 / Pārvatī’s Svayam. vara 217 
 
-Liṅgapurān. a 1.102 Māheśvarakhan. ḍa 2.25 
+Liṅgapurāṇa 1.102 Māheśvarakhan. ḍa 2.25 
 
 
 
@@ -6681,11 +6679,11 @@ Liṅgapurān. a 1.102 Māheśvarakhan. ḍa 2.25
 
 
 
-54a ] MSNep Ad 54 Gan. eśa 
+54a ] MSNep Ad 54 Gaṇeśa 
 
 Nātu comments: 
 
-Ad 55 Gan. eśa Nātu 
+Ad 55 Gaṇeśa Nātu 
 
 comments: 
 
@@ -6711,7 +6709,7 @@ MSpc?} MSNep
 
 
 
-Mahābhārata 7.173 Skandapurān. a 13 (Bpur 36.27–54) 
+Mahābhārata 7.173 Skandapurāṇa 13 (Bpur 36.27–54) 
 
 
 
@@ -6769,7 +6767,7 @@ Bpur 55c ] 56a ] S A1−3 Bh Bpur, A4, ( ) R
 
 10 / Pārvatī’s Svayam. vara 219 
 
-Liṅgapurān. a 1.102 Māheśvarakhan. ḍa 2.25 
+Liṅgapurāṇa 1.102 Māheśvarakhan. ḍa 2.25 
 
 
 
@@ -6835,7 +6833,7 @@ MSBodl 56d ]
 
 MSNep 57b ] 
 
-Veṅk. EḍAd 57 Gan. eśa Nātu com ments: 
+Veṅk. EḍAd 57 Gaṇeśa Nātu com ments: 
 
 
 
@@ -6849,7 +6847,7 @@ MSNep 61a ] MSNep
 
 ] MSNep Ad 61–62ab 
 
-Gan. eśa Nātu comments: 
+Gaṇeśa Nātu comments: 
 
 
 
@@ -6859,7 +6857,7 @@ Gan. eśa Nātu comments:
 
 
 
-Mahābhārata 7.173 Skandapurān. a 13 (Bpur 36.27–54) 
+Mahābhārata 7.173 Skandapurāṇa 13 (Bpur 36.27–54) 
 
 
 
@@ -6879,7 +6877,7 @@ Mahābhārata 7.173 Skandapurān. a 13 (Bpur 36.27–54)
 
 10 / Pārvatī’s Svayam. vara 221 
 
-Liṅgapurān. a 1.102 Māheśvarakhan. ḍa 2.25                               
+Liṅgapurāṇa 1.102 Māheśvarakhan. ḍa 2.25                               
 
 
 
@@ -6907,7 +6905,7 @@ Liṅgapurān. a 1.102 Māheśvarakhan. ḍa 2.25
 
 Ad 62cd–63 
 
-Gan. eśa Nātu comments: 
+Gaṇeśa Nātu comments: 
 
 
 
@@ -6927,7 +6925,9 @@ Gan. eśa Nātu comments:
 
 
 
-Moks.adharma 187 and 239–241 Reconsidered∗ Hans T. Bakker & Peter C. Bisschop 
+## Moks.adharma 187 and 239–241 Reconsidered
+
+∗ Hans T. Bakker & Peter C. Bisschop 
 
 Preamble 
 
@@ -6937,7 +6937,7 @@ Van Buitenen (1956) also stressed the importance of these texts, but con trary t
 
 ∗ The first version of this article was published in Asiatische Studien/ Etudes Asiatiques ´ LII.3 (1999), 459–472. [= Proceedings of the ‘Conference Sām. khya and Yoga’, Universit´e de Lausanne, November 6–8 1998.] 
 
-1 Frauwallner 1925b; 1953. Frauwallner uses a different numbering, based on the Bombay edition of the Mahābhārata: MBhB 12.194 (= MBh 12.187) and MBhB 12.247–249 (= MBh 12.239–241). MBh 12.239–241 is also transmitted as part of the Brahmapurān. a: BrP 237.43–238.14. 
+1 Frauwallner 1925b; 1953. Frauwallner uses a different numbering, based on the Bombay edition of the Mahābhārata: MBhB 12.194 (= MBh 12.187) and MBhB 12.247–249 (= MBh 12.239–241). MBh 12.239–241 is also transmitted as part of the Brahmapurāṇa: BrP 237.43–238.14. 
 
 2 Frauwallner 1953, 288–299. 
 
@@ -6983,13 +6983,13 @@ When we read through the two versions we are struck by the fact that the term bh
 
 11 / Moks.adharma 187 and 239–241 Reconsidered 225 
 
-2 A teaching about the intellect (buddhi) and its relation to the ‘knower of the field’ (ks.etraj˜na), the mind (manas) and the senses (indriyān. i). 9 
+2 A teaching about the intellect (buddhi) and its relation to the ‘knower of the field’ (ks.etraj˜na), the mind (manas) and the senses (indriyāṇi). 9 
 
 3 A teaching about the relationship between the sattva and the ks.etraj˜na.10 
 
 The five elements 
 
-The first theme forms a coherent whole, which can be distinguished quite easily from the rest of the texts. The five elements are regarded as the (material) cause of all sentient beings. They evolve into three modifications (gun. a): a sense organ, a sense-faculty and a sense-impression. So, for instance, the element ākāśa evolves into the ears, hearing and sound. 11 The characteristic feature of this treatment of the elements is the epistemological point of view, which entails that the essential qualities of the elements are characterized by their impression on the senses. 12 
+The first theme forms a coherent whole, which can be distinguished quite easily from the rest of the texts. The five elements are regarded as the (material) cause of all sentient beings. They evolve into three modifications (guṇa): a sense organ, a sense-faculty and a sense-impressioṇSo, for instance, the element ākāśa evolves into the ears, hearing and sound. 11 The characteristic feature of this treatment of the elements is the epistemological point of view, which entails that the essential qualities of the elements are characterized by their impression on the senses. 12 
 
 In addition to the five elements as the material cause, this section speaks of the bh¯utakr.t (‘creator of beings’) as a kind of efficient cause (Appendix: A). 13 The bh¯utakr.t appears to cause the differentiation of the elements into the triple modification of sense-organ, sense-faculty and sense-impression (MBh 187.7; MBh 239.6–7). The conclusion seems justified that in this section of both texts a consistent doctrine is presented, which considers the elements to be the material out of which sentient beings (bh¯uta) are made, a process set in motion by a bh¯utakr.t. This section forms a teaching of its own; this is evident also from the fact that none of the words playing a key role in the rest of the texts, such as ks.etraj˜na, buddhi, manas, bhāva and sattva, are used here. 
 
@@ -7005,9 +7005,9 @@ The transition to the next theme can be illustrated by MBh 187.10cd–11ab (Appe
 
 12 This epistemological perspective remains in classical Sām. khya, where the five elements are considered to originate from the so called ‘subtle elements’ (tanmātra). These tanmātrās, in fact, are the sense-impressions: śabda, sparśa, r¯upa, rasa and gandha. 
 
-13 The Appendix contains the text of some passages of the critical edition. It is meant to facilitate comparison: the left column contains a passage of MBh 12.187, the right column contains the parallel of MBh 12.239–241 and vice versa. A blank means there is no parallel for a passage. 
+13 The Appendix contains the text of some passages of the critical editioṇIt is meant to facilitate comparison: the left column contains a passage of MBh 12.187, the right column contains the parallel of MBh 12.239–241 and vice versa. A blank means there is no parallel for a passage. 
 
-14 That we are here concerned with a break is also evident from the parallel passage which omits 187.11ab, and instead of mahābh¯utāni pa˜ncaiva (MBh 187.10c) reads indriyān. i nare pa˜nca (MBh 239.14a). 
+14 That we are here concerned with a break is also evident from the parallel passage which omits 187.11ab, and instead of mahābh¯utāni pa˜ncaiva (MBh 187.10c) reads indriyāṇi nare pa˜nca (MBh 239.14a). 
 
 
 
@@ -7015,13 +7015,13 @@ The transition to the next theme can be illustrated by MBh 187.10cd–11ab (Appe
 
 226 Hans T. Bakker & Peter C. Bisschop 
 
-their origin out of the elements seems to be forgotten. Whereas up to this point we had a description of material nature, after it both texts seem to be dealing with ideal nature only. Although the following teaching about the buddhi does not form such a clear section as the foregoing teaching about the elements, the verses which we consider to belong to this teaching all have one thing in common: they deal with a psychic or ideal principle distinct from the (material) elements. 
+their origin out of the elements seems to be forgotteṇWhereas up to this point we had a description of material nature, after it both texts seem to be dealing with ideal nature only. Although the following teaching about the buddhi does not form such a clear section as the foregoing teaching about the elements, the verses which we consider to belong to this teaching all have one thing in common: they deal with a psychic or ideal principle distinct from the (material) elements. 
 
 The teaching starts with an enumeration of eight principles: the five senses, the manas, the buddhi and the ks.etraj˜na. Their respective functions are given: 
 
 The eye is for seeing, the mind causes reflection, the intellect serves determination, the knower of the field is called the onlooker. 15 
 
-While both texts agree on these functions they disagree about the relationship between the buddhi and the ks.etraj˜na. This disagreement can be deduced from a small, but important variation in the parallel passages 187.20 and 240.6 (Appendix: C). According to both passages the ‘invisible one’ governs the senses, but whereas 187.20 uses the masculine adr.śyah. , 240.6 uses the feminine adr.śyā.16 Therefore in 187.20 the term ‘invisible one’ refers to the ks.etraj˜na, whereas in 240.6 it refers to the buddhi. In the parallel passages 187.13 and 239.18 (Appendix: D) there is a similar variation. Both verses deal with the question: who is the one that sees everything that is above the soles of the feet and inhabits all this? 187.13 seems to teach that it is the ks.etraj˜na, as in the preceding verse the ks.etraj˜na is called the onlooker. 239.18 however explicitly states it is the buddhir uttamā (‘supreme intellect’). These variations indicate a difference with respect to the relationship between the buddhi and the ks.etraj˜na. Whereas according to 187 the buddhi and the ks.etraj˜na are utterly distinct, in that the one is the active knowledge-principle responsible for the activity of the senses and the other an absolute, non-active onlooker or subject, in some parts of 239–241 the buddhi and the ks.etraj˜na seem to be two sides of one and the same principle. 
+While both texts agree on these functions they disagree about the relationship between the buddhi and the ks.etraj˜na. This disagreement can be deduced from a small, but important variation in the parallel passages 187.20 and 240.6 (Appendix: C). According to both passages the ‘invisible one’ governs the senses, but whereas 187.20 uses the masculine adr.śyah. , 240.6 uses the feminine adr.śyā.16 Therefore in 187.20 the term ‘invisible one’ refers to the ks.etraj˜na, whereas in 240.6 it refers to the buddhi. In the parallel passages 187.13 and 239.18 (Appendix: D) there is a similar variatioṇBoth verses deal with the question: who is the one that sees everything that is above the soles of the feet and inhabits all this? 187.13 seems to teach that it is the ks.etraj˜na, as in the preceding verse the ks.etraj˜na is called the onlooker. 239.18 however explicitly states it is the buddhir uttamā (‘supreme intellect’). These variations indicate a difference with respect to the relationship between the buddhi and the ks.etraj˜na. Whereas according to 187 the buddhi and the ks.etraj˜na are utterly distinct, in that the one is the active knowledge-principle responsible for the activity of the senses and the other an absolute, non-active onlooker or subject, in some parts of 239–241 the buddhi and the ks.etraj˜na seem to be two sides of one and the same principle. 
 
 The difference between the two texts can be illustrated by comparing those verses that explain the relation of the buddhi to the senses (appendix: E). In 187.18–19 the senses are characterized as instruments which the buddhi employs for apperception: 
 
@@ -7043,19 +7043,19 @@ In the parallel passage of 240.4–5, however, it is not the instrumental case (
 
 While hearing it becomes hearing, while touching it is called touch, while seeing it becomes sight, while tasting it becomes taste, while smelling it becomes smell. 
 
-The buddhi does not employ the senses as instruments, but it is or becomes itself the senses. The word indriyān. i used in both text passages (187.20; 240.6) does not seem to have exactly the same meaning: in 240 it denotes the sense faculties, whereas in 187 its connotation seems to encompass the sense-organs as well. 17 In 240 a sense is not so much an instrument, as a modification of the buddhi, viz. a state of mind characterized by sense-perception. In this way it is said that the buddhi evolves the complex of the senses, just as a tortoise sticks out its limbs (239.17). 
+The buddhi does not employ the senses as instruments, but it is or becomes itself the senses. The word indriyāṇi used in both text passages (187.20; 240.6) does not seem to have exactly the same meaning: in 240 it denotes the sense faculties, whereas in 187 its connotation seems to encompass the sense-organs as well. 17 In 240 a sense is not so much an instrument, as a modification of the buddhi, viz. a state of mind characterized by sense-perceptioṇIn this way it is said that the buddhi evolves the complex of the senses, just as a tortoise sticks out its limbs (239.17). 
 
 However, despite this occasional ambiguity, the verses in this section do not deal with material nature, but with ideal nature. The buddhi is therefore not looked upon as a material entity as it is in classical Sām. khya. In this connection some remarks have to be made on Frauwallner’s observation—in the introduction to his translation of the reconstructed ‘Grundtext’, published in his Nachgelassene Werke II—to the effect that the buddhi in this text-group is ranked among material nature. 
 
 Besondere Bedeutung kommt in ihm [viz. the ‘Grundtext’] der Psychologie zu. Weltseele und Materie sind n¨amlich nach ihm scharf getrennt. Dabei werden nicht nur die Sinnesorgane, sondern auch die psychischen Organe, Denken (manah.) und Erkennen (buddhih.) der Materie zugerechnet. 18 
 
-In our opinion this is certainly not true for some passages in adhyāya 240. This becomes evident when we consider MBh 240.3 (Appendix: F). After the progressive enumeration of the indriyān. i, the arthās, the manas, the buddhi and the ātman, which we also encounter with some variations in the Kat.ha Upanis.ad,19 it is said that: 
+In our opinion this is certainly not true for some passages in adhyāya 240. This becomes evident when we consider MBh 240.3 (Appendix: F). After the progressive enumeration of the indriyāṇi, the arthās, the manas, the buddhi and the ātman, which we also encounter with some variations in the Kat.ha Upanis.ad,19 it is said that: 
 
 The intellect is the self of man; the intellect indeed is the essence of the self; when it produces a bhāva it is / becomes mind. 20 
 
-17 In classical Sām. khya the indriyān. i as faculties are explicitly distinguished from the organs, which are called their ‘seats’ (adhis.t.hānāni)—e.g. in the Yuktidīpikā (YD ad SK 26cd, p. 197): 
+17 In classical Sām. khya the indriyāṇi as faculties are explicitly distinguished from the organs, which are called their ‘seats’ (adhis.t.hānāni)—e.g. in the Yuktidīpikā (YD ad SK 26cd, p. 197): 
 
-ucyate: adhis.t.hānād indriyapr.thaktvam. śaktiviśes.opalambhāt | yathā śarīrāsambha vino vis.ayavyavasāyalaks.an. asya śaktiviśes.asyopalambhād arthāntaram. buddhir anu mīyata evam adhis.t.hānāsambhavino vis.ayagrahan. alaks.an. asya śaktiviśes.asyopala mbhād arthāntaram indriyam iti | The use of the term in these texts of the Moks.adharma, however, is ambiguous. Thus in MBh 12.239.11cd the ‘complex of the senses’ (indriyagrāma) is described as ‘derived from the five elements’ (pa˜ncabhautika), thereby implying its material nature, whereas MBh 187.20 seems to conflate the adhis.t.hānāni and the indriyān. i. 
+ucyate: adhis.t.hānād indriyapr.thaktvam. śaktiviśes.opalambhāt | yathā śarīrāsambha vino vis.ayavyavasāyalaks.aṇasya śaktiviśes.asyopalambhād arthāntaram. buddhir anu mīyata evam adhis.t.hānāsambhavino vis.ayagrahaṇalaks.aṇasya śaktiviśes.asyopala mbhād arthāntaram indriyam iti | The use of the term in these texts of the Moks.adharma, however, is ambiguous. Thus in MBh 12.239.11cd the ‘complex of the senses’ (indriyagrāma) is described as ‘derived from the five elements’ (pa˜ncabhautika), thereby implying its material nature, whereas MBh 187.20 seems to conflate the adhis.t.hānāni and the indriyāṇi. 
 
 18 Frauwallner 1992, 78. 
 
@@ -7075,9 +7075,9 @@ The buddhi is regarded as the essence of the self in this verse. In the precedin
 
 Sattva and ks.etraj˜na 
 
-The difference between the two texts can be illustrated further by comparing the passages that deal with the relationship between sattva and ks.etraj˜na (Ap pendix: G). If we understand sattva here, not as referring to a material principle comparable to the prakr.ti, but as referring to the buddhi,22 a remarkable agree ment with the foregoing appears. According to both texts the sattva creates (sr.jate) the gun. ās, whereas the ks.etraj˜na is only their observer. The gun. ās are to be interpreted here as the modifications of the buddhi, just as in the teaching about the elements the word gun. a denotes the modification of the elements. The difference between the two texts lies in the relationship of ks.etraj˜na and sattva to the self (ātman). For, whereas 187.40cd states that the self is the one who observes the gun. ās (i.e. is the ks.etraj˜na) but wrongly thinks himself to be their creator, according to the parallel passage 240.19ab the self in reality (yathātatham) is both, the observer (paridras.t.r.) and the creator (sras.t.r.) of the 
+The difference between the two texts can be illustrated further by comparing the passages that deal with the relationship between sattva and ks.etraj˜na (Ap pendix: G). If we understand sattva here, not as referring to a material principle comparable to the prakr.ti, but as referring to the buddhi,22 a remarkable agree ment with the foregoing appears. According to both texts the sattva creates (sr.jate) the gun. ās, whereas the ks.etraj˜na is only their observer. The gun. ās are to be interpreted here as the modifications of the buddhi, just as in the teaching about the elements the word guṇa denotes the modification of the elements. The difference between the two texts lies in the relationship of ks.etraj˜na and sattva to the self (ātman). For, whereas 187.40cd states that the self is the one who observes the gun. ās (i.e. is the ks.etraj˜na) but wrongly thinks himself to be their creator, according to the parallel passage 240.19ab the self in reality (yathātatham) is both, the observer (paridras.t.r.) and the creator (sras.t.r.) of the 
 
-21 This difference may also explain the parallel verses 187.23 and 240.8. According to 187.23 the essence of the buddhi consists of the three bhāvās (viz. sattva, rajas and tamas) and it never transcends them; according to 240.8 however it does transcend the three bhāvās, although its essence is said to consist in them (bhāvātmikā). In both chapters the passage at issue has variant readings—some manuscripts of 187.23 read ativartate instead of nātivartate, while some manuscripts of 240.8 read nātivartate instead of ativartate—yet this variance may be significant and point to an original difference of doctrine rather than being due to mere textual corruption. In 187.23 the buddhi does not transcend the three bhāvās, because only the ‘invisible one’, viz. the ks.etraj˜na, transcends them. In 240.8 the buddhi does transcend them, since it is equated to the absolute self and as such is the transcendental ‘invisible one’. 
+21 This difference may also explain the parallel verses 187.23 and 240.8. According to 187.23 the essence of the buddhi consists of the three bhāvās (viz. sattva, rajas and tamas) and it never transcends them; according to 240.8 however it does transcend the three bhāvās, although its essence is said to consist in them (bhāvātmikā). In both chapters the passage at issue has variant readings—some manuscripts of 187.23 read ativartate instead of nātivartate, while some manuscripts of 240.8 read nātivartate instead of ativartate—yet this variance may be significant and point to an original difference of doctrine rather than being due to mere textual corruptioṇIn 187.23 the buddhi does not transcend the three bhāvās, because only the ‘invisible one’, viz. the ks.etraj˜na, transcends them. In 240.8 the buddhi does transcend them, since it is equated to the absolute self and as such is the transcendental ‘invisible one’. 
 
 22 Frauwallner (1992) translates sattva in this part of the texts with ‘die G¨ute’; Edgerton (1965) translates it with ‘essential (material) reality’. Van Buitenen (1957b, 95) distin guishes five meanings of the word sattva in the context of proto-Sām. khya: ‘1. sattva as the material counterpart of the ks.etraj˜na; 2. as the buddhi; 3. as a bhāva of the buddhi; 4. as a state of well-being amounting to release; 5. as the first of the three gun. ās’. Although van Buitenen takes sattva here in the first meaning, he observes that there is no real difference between the first and the second meaning: ‘In these early forms of Sām. khya creation does not necessarily start from a higher principle than the buddhi, e.g., avyakta, pradhāna or prakr.ti, but from the buddhi itself; nor has the aham. kāra yet taken over the evolutionary functions of the buddhi. As the buddhisattva is indeed creation and thus the ‘material’ counterpart of the unaffected ks.etraj˜na’ (1957b, 96–97). Cf. also Johnston 1937, 50–51. 
 
@@ -7099,7 +7099,7 @@ The ‘evolution theory’
 
 We now return to the ‘evolution theory’ that van Buitenen found in his recon structed tract. The verses van Buitenen used for his tract are those that deal with the modification of the buddhi. However, he mixes passages from 187 and 239–241, thereby blurring the difference between them. Frauwallner also con flates the texts, selecting material from all three dialogues and blending them into one ‘Grundtext’. The unacceptable consequences of this conflation can be seen when we look at the important difference between the buddhi using the sense-organs in 187 and the buddhi becoming the sense-faculties in 240, which difference is obliterated in the verses 18–19 of his ‘Grundtext’. 
 
-Wodurch es sieht, das ist das Auge. H¨orend wird es Geh¨or genannt. Riechend wird es zum Geruch. Schmeckend ist es der Geschmack. Mit der Haut ber¨uhrt es die Ber¨uhrung. Vielfach wandelt sich das Erkennen. Wenn es etwas begehrt, dann wird es zum Denken. 24 
+Wodurch es sieht, das ist das Auge. H¨orend wird es Geh¨or genannt. Riechend wird es zum Geruch. Schmeckend ist es der Geschmack. Mit der Haut ber¨uhrt es die Ber¨uhrung. Vielfach wandelt sich das ErkenneṇWenn es etwas begehrt, dann wird es zum Denken. 24 
 
 However, Frauwallner was right in his observation that the evolution theory of the Sām. khya is not attested in this text-group. Frauwallner has given three features of the evolution theory: 
 
@@ -7109,9 +7109,9 @@ Die Vorstellung der Urmaterie (prakr.ti), die Lehre von den drei Eigenschaften (
 
 24 Frauwallner 1992, 82–83. Frauwallner’s eclectic translation finds some support in MBhB 12.286.19–20, since this text also seems to be a mixture of both theories (cf. Frauwallner 1992, 82, n. 34–36): 
 
-yena paśyati tac caks.uh. śr.n. vatī śrotram ucyate | 
+yena paśyati tac caks.uh. śr.ṇvatī śrotram ucyate | 
 
-jighratī bhavati ghrān. am. rasatī rasanā rasān k 19 k 
+jighratī bhavati ghrāṇam. rasatī rasanā rasān k 19 k 
 
 sparśanam. sparśatī sparśān buddhir vikriyate ’sakr.t | 
 
@@ -7359,21 +7359,21 @@ G
 
 
 
-
+## Daks.iṇa Kosala
 
 Observations on the History and Culture of 
 
-Daks.in. a Kosala∗ 
+Daks.iṇa Kosala∗ 
 
 Fifth to Seventh Centuries ad 
 
 Introduction 
 
-The historiography of the region called Daks.in. a Kosala, nowadays generally known as Chhattisgarh, is beset with difficulties of a predominantly chrono logical nature. Apart from quite a number of inscriptions, we do not possess written sources that can help us to unravel its early history. The chronological problems are due to the fact that, with one isolated exception, the charters of its kings are dated in regnal years. Moot questions, such as the dating of the kings of Sarabhapur, the relation, if any, between the Pān ´ . ḍava dynasties of Mekalā and Kosala, or the date of King Tīvaradeva, have been discussed again and again by a number of scholars during the last fifty years, a debate that has been dominated by three eminent Indian epigraphists, V.V. Mirashi, D.C. Sircar, and A.M. Shastri. A first reading of this facinating corpus of learned articles gives the uncomfortable feeling that these three scholars dis agree among themselves on almost every issue. Only laborious study makes one realize that in this debate a large body of historical evidence has been dis closed and evaluated, as a result of which we know to date considerably more about the history and culture of this region than half a century ago. Still, many inscriptions await publication and this is, unfortunately, in particular true for those on stone. Unlike copperplate charters, stone epigraphs often inform us about particular historical circumstances and details beyond the official royal records. They are less formal and regulated, but they are usually more difficult to decipher and this may have hampered their publication. 
+The historiography of the region called Daks.iṇa Kosala, nowadays generally known as Chhattisgarh, is beset with difficulties of a predominantly chrono logical nature. Apart from quite a number of inscriptions, we do not possess written sources that can help us to unravel its early history. The chronological problems are due to the fact that, with one isolated exception, the charters of its kings are dated in regnal years. Moot questions, such as the dating of the kings of Sarabhapur, the relation, if any, between the Pān ´ . ḍava dynasties of Mekalā and Kosala, or the date of King Tīvaradeva, have been discussed again and again by a number of scholars during the last fifty years, a debate that has been dominated by three eminent Indian epigraphists, V.V. Mirashi, D.C. Sircar, and A.M. Shastri. A first reading of this facinating corpus of learned articles gives the uncomfortable feeling that these three scholars dis agree among themselves on almost every issue. Only laborious study makes one realize that in this debate a large body of historical evidence has been dis closed and evaluated, as a result of which we know to date considerably more about the history and culture of this region than half a century ago. Still, many inscriptions await publication and this is, unfortunately, in particular true for those on stone. Unlike copperplate charters, stone epigraphs often inform us about particular historical circumstances and details beyond the official royal records. They are less formal and regulated, but they are usually more difficult to decipher and this may have hampered their publication. 
 
 It seems a whim of fate that the only inscription belonging to this period and said to be found in this area that is dated in a known era, scil. the Gupta Era, has no apparent connection with any of the other data. I refer to the 
 
-∗ The first version of this article was published in Balbir, Nalini & Joachim K. Bautze (eds.), Festschrift Klaus Bruhn zur Vollendung des 65. Lebensjahres, dargebracht von Sch¨ulern, Freunden und Kollegen. Inge Wezler Verlag f¨ur orientalistische Fachpublika tionen, Reinbek 1994. Studien zur Indologie und Iranistik. pp. 1–66. 
+∗ The first version of this article was published in Balbir, Nalini & Joachim K. Bautze (eds.), Festschrift Klaus Bruhn zur Vollendung des 65. Lebensjahres, dargebracht von Sch¨ulern, Freunden und KollegeṇInge Wezler Verlag f¨ur orientalistische Fachpublika tionen, Reinbek 1994. Studien zur Indologie und Iranistik. pp. 1–66. 
 
 235 
 
@@ -7383,17 +7383,17 @@ It seems a whim of fate that the only inscription belonging to this period and s
 
 
 
-Araṅg Copper-Plate of Bhīmasena II ¯ . Though in this case the era is known, there is uncertainty with regard to the reading of the year. Hiralal, who edited the inscription (EI IX, 342–345), read 282, which would mean ad 601/2. This would make it the latest record dated in the Gupta Era in an area in which Gupta influence had virtually disappeared one century earlier. 1 Mirashi has vigorously argued against this interpretation, which was accepted by Sircar and Shastri, and has made it plausible that we should read 182 instead of 282. 2 This would place Bhīmasena of the S¯ura family in that phase of the history of ´ Daks.in. a Kosala, in which it emerged as a politically and culturally autonomous state. Bhīmasena may therefore be seen as a figure who, in the turmoil of the age, hoped, by pledging allegiance to the once mighty Guptas, to secure a dominant position in the political arena of his days. However, Gupta support no longer amounted to much, and Bhīmasena and his dynasty disappeared from the scene without leaving a trace. 3 His inscription can therefore not be used for absolute dating of the dynastic history of Kosala, 4 and hence we have left it out of account in the following reconstruction. 
+Araṅg Copper-Plate of Bhīmasena II ¯ . Though in this case the era is known, there is uncertainty with regard to the reading of the year. Hiralal, who edited the inscription (EI IX, 342–345), read 282, which would mean ad 601/2. This would make it the latest record dated in the Gupta Era in an area in which Gupta influence had virtually disappeared one century earlier. 1 Mirashi has vigorously argued against this interpretation, which was accepted by Sircar and Shastri, and has made it plausible that we should read 182 instead of 282. 2 This would place Bhīmasena of the S¯ura family in that phase of the history of ´ Daks.iṇa Kosala, in which it emerged as a politically and culturally autonomous state. Bhīmasena may therefore be seen as a figure who, in the turmoil of the age, hoped, by pledging allegiance to the once mighty Guptas, to secure a dominant position in the political arena of his days. However, Gupta support no longer amounted to much, and Bhīmasena and his dynasty disappeared from the scene without leaving a trace. 3 His inscription can therefore not be used for absolute dating of the dynastic history of Kosala, 4 and hence we have left it out of account in the following reconstruction. 
 
 There is another important source of the history of Kosala, viz. the archae ological materials in which this region abounds. Major contributions to their systematic and coherent treatment were made by Donald Stadtner in his the sis Sirpur to Rajim: the Art of Kosala During the Seventh Century,5 and by Krishna Deva in the Encyclopedia of Indian Temple Architecture (II.1, Chap ter 18, 1988). But whereas the archaeologists and historians of art concentrate on the abundance of material remains, and the historians and epigraphists on a sizeable corpus of inscriptions, very few attempts have been made to an integral treatment. Although, in my opinion, only such a study can really deepen our understanding of the cultural history of this region, the present article does 
 
 1 ‘The Sumandal copperplate inscription of King Pr.thivīvigraha who was the ruler of Kaliṅga, refers to the sovereignty of the Guptas in the year 250, i.e. A.D. 569/70. This was perhaps the last flicker of an extinguishing lamp.’ (Agrawal 1989, 269). Cf. Bakker 2014, 60. 
 
-2 EI XXVI, 227; see also many of Mirashi’s later publications. Although the Plate is reported to have been found in Arang, this seems by no means certain. The place of issue, Suvarn. anadī, is identified by Sircar as the River Son, though the Mahānadī might be another possibility. The characters of the inscription, according to Sircar (op. cit. 342), ‘belong to the Northern class of alphabets’. 
+2 EI XXVI, 227; see also many of Mirashi’s later publications. Although the Plate is reported to have been found in Arang, this seems by no means certaiṇThe place of issue, Suvarṇanadī, is identified by Sircar as the River Son, though the Mahānadī might be another possibility. The characters of the inscription, according to Sircar (op. cit. 342), ‘belong to the Northern class of alphabets’. 
 
-3 A king named Harirāja, son of Nis.t.hurarāja, grandson of Bhāgraharāja (?), said to belong to the S¯ura family, is known from a copperplate charter found in Vārān ´ . asī. The open nail-headed letters of this inscription point to Central India (possibly Daks.in. a Kosala), which led Michael Willis (2014, 109) to conclude that ‘this plate, although belonging to the fifth century, was found outside of its first geographical context’. King Harirāja and his Queen Anantamahādevī may have belonged to the same vam. śa as Bhīmasena, though the latter’s inscription does not mention Harirāja and his ancestors in its pedigree. Neither the place of issue, Sāntanapura, nor the village in which land ´ was donated, Ambrakanagara, have been identifieḍSee Bhattacharya 1945, 167–73. ¯ Also Chhabra 1949, 47–48 and Plates XXI–XXII. 
+3 A king named Harirāja, son of Nis.t.hurarāja, grandson of Bhāgraharāja (?), said to belong to the S¯ura family, is known from a copperplate charter found in Vārān ´ . asī. The open nail-headed letters of this inscription point to Central India (possibly Daks.iṇa Kosala), which led Michael Willis (2014, 109) to conclude that ‘this plate, although belonging to the fifth century, was found outside of its first geographical context’. King Harirāja and his Queen Anantamahādevī may have belonged to the same vam. śa as Bhīmasena, though the latter’s inscription does not mention Harirāja and his ancestors in its pedigree. Neither the place of issue, Sāntanapura, nor the village in which land ´ was donated, Ambrakanagara, have been identifieḍSee Bhattacharya 1945, 167–73. ¯ Also Chhabra 1949, 47–48 and Plates XXI–XXII. 
 
-4 In this article ‘Kosala’ is shorthand for Daks.in. a Kosala. 
+4 In this article ‘Kosala’ is shorthand for Daks.iṇa Kosala. 
 
 5 Unpublished PhD dissertation, University of California, Berkeley 1976. 
 
@@ -7403,9 +7403,9 @@ There is another important source of the history of Kosala, viz. the archae olog
 
 
 
-12 / History and Culture of Daks.in. a Kosala 237 
+12 / History and Culture of Daks.iṇa Kosala 237 
 
-not have that pretention. It was written after a short visit to Chhattisgarh and touches only on a fraction of its historical wealth. What it does hope to illustrate, however, is that the methodology employed, consisting in utilization of sources of various sorts with the aim of cross-fertilisation, is in principle a sound and fruitful one. Whether this is borne out by the following essay is up to the reader to decide. 
+not have that pretentioṇIt was written after a short visit to Chhattisgarh and touches only on a fraction of its historical wealth. What it does hope to illustrate, however, is that the methodology employed, consisting in utilization of sources of various sorts with the aim of cross-fertilisation, is in principle a sound and fruitful one. Whether this is borne out by the following essay is up to the reader to decide. 
 
   
 
@@ -7413,7 +7413,7 @@ not have that pretention. It was written after a short visit to Chhattisgarh and
 
 Figure 2 
 
-Historical map of Mekalā and Daks.in. a Kosala 
+Historical map of Mekalā and Daks.iṇa Kosala 
 
 The Pan¯ .d.avas of Mekalā 
 
@@ -7435,7 +7435,7 @@ This lineage of Pān. ḍavas is known from two inscriptions, both to be ascribe
 
 Figure 3 
 
-Dynasties of Mekalā and Daks.in. a Kosala 
+Dynasties of Mekalā and Daks.iṇa Kosala 
 
   
 
@@ -7443,7 +7443,7 @@ Dynasties of Mekalā and Daks.in. a Kosala
 
 Figure 4 
 
-Dynastic capitals of Mekalā and Daks.in. a Kosala 
+Dynastic capitals of Mekalā and Daks.iṇa Kosala 
 
 to be ascribed to Bharatabala’s son S¯urabala, as a comparison with the latter’s ‘Malhar ´ Plates’ (JESI III, 183–193) suggests. A third, incomplete inscription in nail-headed characters, is reported by K.ḍBajpai 1977-78, 433–37. It concerns the second of three plates, found in B¯urhīkhar (near Malhar). It contains a prose passage, followed by two verses in praise of King Nāgabala and one incomplete verse referring to his Queen Indrabhat.t.ārikā. 
 
@@ -7453,23 +7453,23 @@ to be ascribed to Bharatabala’s son S¯urabala, as a comparison with the latte
 
 
 
-12 / History and Culture of Daks.in. a Kosala 239 
+12 / History and Culture of Daks.iṇa Kosala 239 
 
-A descendant of the legendary Pān. ḍu, this king considers himself to belong to the Lunar Race (somavam. śa). The first two kings in the genealogy according to both inscriptions are styled rāja and nr.pati, the later kings mahārāja. Son of Jayabala, founder of the dynasty, is Vatsarāja, from whose marriage with Dron. abhat.t.ārakā mahārāja Nāgabala is born. From the latter’s marriage with Indrabhat.t.ārakā is born mahārāja Bharatabala, who is eulogized as a great warrior. 7 Bharatabala married a daughter of a family descending from Amara (amarajakula), a fact that is particularly emphasizeḍThis princess, designated as ‘Lokaprakāśā’, is said to hail from Kosalā. 8 The accentuation of her origin seems to indicate that this relationship of the Pān. ḍavas of Mekalā with a lead ing family in Daks.in. a Kosala was of some importance to them. According to the inscription of the 8th regnal year, the son born out of this marriage, S¯urabala ´ Udīrn. avaira, allowed a donation to be made by one Narasiṅgha, son of Bot.a, of a village at a confluence (sam. gama), situated in the southern province of Mekalā (mekalāyām. daks.in. arās.t.re), to a temple of Jayeśvarabhat.t.āraka.9 The Saiva leanings of this king not only appear from the recipient of the endow- ´ ment, Jayeśvarabhat.t.āraka (i.e. Siva), whose eulogy opens the Malhar Plates, ´ 10 but also from the seal attached to them, which ‘bears in relief the figure of a 
+A descendant of the legendary Pān. ḍu, this king considers himself to belong to the Lunar Race (somavam. śa). The first two kings in the genealogy according to both inscriptions are styled rāja and nr.pati, the later kings mahārāja. Son of Jayabala, founder of the dynasty, is Vatsarāja, from whose marriage with Droṇabhat.t.ārakā mahārāja Nāgabala is borṇFrom the latter’s marriage with Indrabhat.t.ārakā is born mahārāja Bharatabala, who is eulogized as a great warrior. 7 Bharatabala married a daughter of a family descending from Amara (amarajakula), a fact that is particularly emphasizeḍThis princess, designated as ‘Lokaprakāśā’, is said to hail from Kosalā. 8 The accentuation of her origin seems to indicate that this relationship of the Pān. ḍavas of Mekalā with a lead ing family in Daks.iṇa Kosala was of some importance to them. According to the inscription of the 8th regnal year, the son born out of this marriage, S¯urabala ´ Udīrṇavaira, allowed a donation to be made by one Narasiṅgha, son of Bot.a, of a village at a confluence (sam. gama), situated in the southern province of Mekalā (mekalāyām. daks.iṇarās.t.re), to a temple of Jayeśvarabhat.t.āraka.9 The Saiva leanings of this king not only appear from the recipient of the endow- ´ ment, Jayeśvarabhat.t.āraka (i.e. Siva), whose eulogy opens the Malhar Plates, ´ 10 but also from the seal attached to them, which ‘bears in relief the figure of a 
 
 7 Of the four verses eulogizing King Bharatabala in the Bamhanī Plates (EI XXVII, 141, vv. 5–8), two (7–8) are omitted, one (6) replaced by another, and one (5) retained in the Malhar Plates (JESI III, 190). 
 
-8 Of the two verses (9–10) eulogizing this princess in the Bamhanī Plates (EI XXVII, 141) the first one (9) has been substituted by a prose passage in the Malhar Plates saying that she was the mother of mahārāja S¯urabala (JESI III, 190 f.). The two verses are ´ presented below, n. 23 on p. 242. The Malhar Plates read jātā yā kosalāyām, and, in my opinion, the Bamhanī Plates read the same (cf. Mirashi in CII V, 85 f.). The feminine form ‘Kosalā’ could mean ‘town of Kosala’ (cf. Kosalā = Ayodhyā, MBh 3.75.3; Bakker 1986 I, 6,7,9), but it seems equally possible that the actual name of the area was Kosalā (see EI XXXI, 221 ll. 8–9 kosalāman. ḍala; CII V, 81 l. 27 and VSMA 1971/72, 75 l. 22 kosalā–mekalā; however CII V, 108 l. 14 reads kosala-trik¯ut.a). There is an old village Kosalā at the Kamji River, 25 km east of Malhar. ‘The antiquity of this large site, which has several mounds and the remains of a moat all round, go [sic] back at least to the Maurya perioḍApart from early historical pottery, a copper coin of the Kushān. a emperor Vima-Kadphises was acquired by us from the site.’ (Bajpai & Pandey 1977, 21). 
+8 Of the two verses (9–10) eulogizing this princess in the Bamhanī Plates (EI XXVII, 141) the first one (9) has been substituted by a prose passage in the Malhar Plates saying that she was the mother of mahārāja S¯urabala (JESI III, 190 f.). The two verses are ´ presented below, n. 23 on p. 242. The Malhar Plates read jātā yā kosalāyām, and, in my opinion, the Bamhanī Plates read the same (cf. Mirashi in CII V, 85 f.). The feminine form ‘Kosalā’ could mean ‘town of Kosala’ (cf. Kosalā = Ayodhyā, MBh 3.75.3; Bakker 1986 I, 6,7,9), but it seems equally possible that the actual name of the area was Kosalā (see EI XXXI, 221 ll. 8–9 kosalāman. ḍala; CII V, 81 l. 27 and VSMA 1971/72, 75 l. 22 kosalā–mekalā; however CII V, 108 l. 14 reads kosala-trik¯ut.a). There is an old village Kosalā at the Kamji River, 25 km east of Malhar. ‘The antiquity of this large site, which has several mounds and the remains of a moat all round, go [sic] back at least to the Maurya perioḍApart from early historical pottery, a copper coin of the Kushāṇa emperor Vima-Kadphises was acquired by us from the site.’ (Bajpai & Pandey 1977, 21). 
 
 9 JESI III, 191 f. (text corrected): 
 
-tato mekalāyām. daks.in. arās.t.re sam. gamagrāmake grāmak¯ut.apramukham. nāyakapra mukham. ca grāmam. samāj˜nāpayati | viditam astu vo ’smābhir ayam. grāmah. so draṅgah. [. . . ] mātāpitror ātmanaś ca pun. yābhivr.ddhaye yatra van. ikamanoratha pautrasya bot.aputrasya narasiṅghasya prasādīkr.tas tad anenāpy asmadanumatyā bhagavatah. śrījayeśvarabhat.t.ārakasya pratipāditah. k 
+tato mekalāyām. daks.iṇarās.t.re sam. gamagrāmake grāmak¯ut.apramukham. nāyakapra mukham. ca grāmam. samāj˜nāpayati | viditam astu vo ’smābhir ayam. grāmah. so draṅgah. [. . . ] mātāpitror ātmanaś ca puṇyābhivr.ddhaye yatra vaṇikamanoratha pautrasya bot.aputrasya narasiṅghasya prasādīkr.tas tad anenāpy asmadanumatyā bhagavatah. śrījayeśvarabhat.t.ārakasya pratipāditah. k 
 
 prasādīkr.tas seems to imply that the village was actually held in fief by Narasi˙ngha, who therefore needed the permission of S¯urabala for the donation (cf. Sircar in ´ Indian Epigraphical Glossary s.v. pasāita). 
 
 10 JESI III, 189 (text corrected): 
 
-aparimitagun. asamudayasya bhagavatas triś¯ulapān. er varavr. s.abhavāhasya sphuradbhu jagaparikarasyānaṅgāṅgavidhvam. sinah. tridaśapatinutacaran. ābjayugalasya śrījaye- śvarabhat.t.ārakasyedam. śāsanam. likhyate śryudīrn. avairānumatyā k 
+aparimitaguṇasamudayasya bhagavatas triś¯ulapāṇer varavr. s.abhavāhasya sphuradbhu jagaparikarasyānaṅgāṅgavidhvam. sinah. tridaśapatinutacaran. ābjayugalasya śrījaye- śvarabhat.t.ārakasyedam. śāsanam. likhyate śryudīrṇavairānumatyā k 
 
 
 
@@ -7479,7 +7479,7 @@ aparimitagun. asamudayasya bhagavatas triś¯ulapān. er varavr. s.abhavāhasya 
 
 
 
-couchant bull (Nandin)’. 11 The findspot of the inscription, Malhar, 12 suggests that the mentioned daks.in. arās.t.ra actually bordered on the northern parts of Kosala, which may have come under the sway of the house of Mekalā thanks to the matrimonial alliance contracted by Bharatabala. It would seem that in the 6th century the course of the rivers Sevnāth and Mahānadī running west to east was considered to be the border between Mekalā and Kosalā (see Figure 
+couchant bull (Nandin)’. 11 The findspot of the inscription, Malhar, 12 suggests that the mentioned daks.iṇarās.t.ra actually bordered on the northern parts of Kosala, which may have come under the sway of the house of Mekalā thanks to the matrimonial alliance contracted by Bharatabala. It would seem that in the 6th century the course of the rivers Sevnāth and Mahānadī running west to east was considered to be the border between Mekalā and Kosalā (see Figure 
 
 2). 
 
@@ -7497,7 +7497,7 @@ This family is known from an inscription of Vyāghrarāja, which was also found 
 
 13 Chhabra in EI XXVII, 132. Mirashi (CII V, 82) remarks about the inscription of the 2nd regnal year: ‘They resemble in some respects those of the Poona Plates of Prabhāvatīguptā, which also are of the same nail-headed variety, but unlike the latter, they do not contain any admixture of the northern letters.’ 
 
-14 Bosma 2018, 22 ff. argues that Bharatabala and the sāmanta Indrabala are one and the same person. I consider this a plausible hypothesis. It would make S¯urabala the fourth, ´ missing, son of Indrabala. That Indrabala had a fourth son, in addition to Nannarāja, ¯Iśānadeva and Bhavadeva, seems to follow from the Mālinī verse 19 of the Ara˙ng Stone ¯ Inscription of Bhavadeva Ran. akesarin and Nannarāja (JRAS 1905, 626; Shastri 1995 II, 97), which is only partly leggible: 
+14 Bosma 2018, 22 ff. argues that Bharatabala and the sāmanta Indrabala are one and the same persoṇI consider this a plausible hypothesis. It would make S¯urabala the fourth, ´ missing, son of Indrabala. That Indrabala had a fourth son, in addition to Nannarāja, ¯Iśānadeva and Bhavadeva, seems to follow from the Mālinī verse 19 of the Ara˙ng Stone ¯ Inscription of Bhavadeva Raṇakesarin and Nannarāja (JRAS 1905, 626; Shastri 1995 II, 97), which is only partly leggible: 
 
 suvihitavr. s.a ˘ ˘ , ˘˘˘˘˘˘ ˘ ˘ | 
 
@@ -7507,7 +7507,7 @@ suvihitavr. s.a ˘ ˘ , ˘˘˘˘˘˘ ˘ ˘ |
 
 
 
-12 / History and Culture of Daks.in. a Kosala 241 
+12 / History and Culture of Daks.iṇa Kosala 241 
 
 Vyāghrarāja is the younger brother of a chieftain (manujapati) Pravarabha t.t.āraka, a son of Jayabhat.t.āraka, who is without title except for the honorific śrī. The family to which they belong is said to be that of Amarārya, 16 on which Sircar passes the following remark, 
 
@@ -7551,7 +7551,7 @@ sphat.ikavimalaśubhram. bibhratī śīlatoyam. ,
 
 yamaniyamatat.āntaprāntaśuddhapravāham | 
 
-praśamagun. agan. ormir yā janam. pāvayantī, 
+praśamaguṇagaṇormir yā janam. pāvayantī, 
 
 svayam iha suralokād āgatā jāhnavīva k 9 k 
 
@@ -7571,13 +7571,13 @@ In 10b I read ◦kulajām. : ◦kulajā Mirashi (the anusvāra is clearly visibl
 
 
 
-12 / History and Culture of Daks.in. a Kosala 243 
+12 / History and Culture of Daks.iṇa Kosala 243 
 
 However, it did not yet bring them sovereignty over Kosala, which for the greater part remained in the hands of the rulers of Sarabhapur for at least one ´ more generation. 24 
 
 The rulers of Sarabhapur ´ 
 
-The kings who issued their charters from Sarabhapur, generally designated ´ as Sarabhapurīyas in want of any other dynastic nomination, may be divided ´ into two groups, which are linked by similarity in the style of their seals and inscriptions as well as by their capital. 25 Kings of both groups call themselves paramabhāgavatas, i.e. worshippers of Vis.n. u. To the earlier group belongs mahārāja Narendra, son of Sarabha, of whom we possess three epigraphical ´ testimonies, written in 5th-century square-headed characters which we think very similar to the ones used in the charters of the Vākāt.aka kings. 26 Also to be included in this group is a king called Mahendra or Mahendrāditya, who is known from repouss´e gold coins of the Khairtal Hoard, 27 and, possibly, from a 
+The kings who issued their charters from Sarabhapur, generally designated ´ as Sarabhapurīyas in want of any other dynastic nomination, may be divided ´ into two groups, which are linked by similarity in the style of their seals and inscriptions as well as by their capital. 25 Kings of both groups call themselves paramabhāgavatas, i.e. worshippers of Vis.ṇu. To the earlier group belongs mahārāja Narendra, son of Sarabha, of whom we possess three epigraphical ´ testimonies, written in 5th-century square-headed characters which we think very similar to the ones used in the charters of the Vākāt.aka kings. 26 Also to be included in this group is a king called Mahendra or Mahendrāditya, who is known from repouss´e gold coins of the Khairtal Hoard, 27 and, possibly, from a 
 
 Peerless, the chief queen of King Bharatabala, whose fame resembles the illustrious rays of the moon—she, being as it were the river Ga˙ngā herself descended to earth from the world of the gods, who purifies the people, carrying the waters of her good character, bright and spotless like cristal, her pure stream contained within the two banks formed by self-control and good conduct, and her waves being a mass of virtues and tranquility—she, being born in Kosalā and holding high the fame of the family descending from Amara, and being very much the ‘Lustre of the World’ (Lokaprakāśā), by whom darkness has been counteracted by means of eternal dharma, artha and kāma, she has attained preeminence (owing to) her grandsons and great-grandsons, princes like lions, devoted to good policy and conduct. 
 
@@ -7605,7 +7605,7 @@ sealing found in the excavation in Malhar. 28
 
 In his Kurud Plates Narendra reconfirms an earlier grant of the paramabha t.t.āraka and the ensuing merit is also assigned to the latter. Sircar (EI XXXI, 267) argues convincingly that the respectful manner in which the paramabha t.t.āraka is mentioned shows that Narendra ‘still considered himself, howsoever nominally, a subordinate of the Imperial Guptas’. Another argument in favour of an allegiance of Sarabha and Narendra to the Imperial Guptas pursued by ´ A. M. Shastri, who follows Sircar in this respect, has been contested by Mirashi in his later work. According to Sircar, Shastri and others, Narendra’s father Sarabha is ‘identical with the maternal grandfather of Goparāja who died in ´ fighting on behalf of the Gupta monarch Bhānugupta at Eran [. . . ] in the Gupta year 191 (= ad 510)’. 29 In his Indological Research Papers I (1982, 187 f.) Mirashi gives up his earlier view and argues against this identification, though, in our view, he missed the most plausible argument, which was formulated by J. Williams as follows: ‘Sarabha cannot be the maternal grandfather of Goparāja ´ of Eran, called śarabharāja-dauhittrah. . That term is used only when a male heir is lacking, and Sarabha of Kosala had a son’ (scil. Narendra). ´ 30 
 
-When the ‘Goparāja argument’ has thus proven to be invalid, there seems to be no longer any reason not to date King Sarabha around the middle of ´ the 5th century, as one is inclined to do on the basis of the palaeography of the inscriptions of his son. The paramabhat.t.āraka to whom Narendra refers might therefore have been Kumāragupta I himself, whose biruda and coinage the kings of Kosala, in particular Mahendra/Mahendrāditya, may have sought to imitate. 31 During the second half of the 5th century, when Mahendra and Narendra ruled—Narendra at least for 24 years—Gupta power was certainly on the wane, a fact of which the Vākāt.aka kings Haris.en. a and Narendrasena may have temporarily taken advantage, to judge by their claims of suzerainty over Kosala/Kosalā and Mekalā. 32 However, a disruption of the rule of Sarabhapur ´ 
+When the ‘Goparāja argument’ has thus proven to be invalid, there seems to be no longer any reason not to date King Sarabha around the middle of ´ the 5th century, as one is inclined to do on the basis of the palaeography of the inscriptions of his soṇThe paramabhat.t.āraka to whom Narendra refers might therefore have been Kumāragupta I himself, whose biruda and coinage the kings of Kosala, in particular Mahendra/Mahendrāditya, may have sought to imitate. 31 During the second half of the 5th century, when Mahendra and Narendra ruled—Narendra at least for 24 years—Gupta power was certainly on the wane, a fact of which the Vākāt.aka kings Haris.eṇa and Narendrasena may have temporarily taken advantage, to judge by their claims of suzerainty over Kosala/Kosalā and Mekalā. 32 However, a disruption of the rule of Sarabhapur ´ 
 
 headed characters of the 5th–6th century A.ḍBelow the legend are a cluster of seven dots and a letter ‘ru’ (?); in one case the letter looks like u or d. [. . . ] The legend on these coins is in box-headed characters which resemble those of the Pīpard. ¯ulā grant of King Narendra of Sarabhapur family.’ ( ´ op. cit. 137 f.) 
 
@@ -7627,7 +7627,7 @@ Another hoard found in Bhandara contains one coin of Srī-Mahendrāditya and ele
 
 
 
-12 / History and Culture of Daks.in. a Kosala 245 
+12 / History and Culture of Daks.iṇa Kosala 245 
 
 did not come from the side of the Vākāt.akas, as it would seem, but may have been brought about by their enemies, the Nala kings of Pus.karī from the Andhra country to the southeast of Kosala, when they overran the kingdom of the Vākāt.akas in the last decade of the 5th century. 33 
 
@@ -7641,7 +7641,7 @@ The same ´elan gave rise to the construction of stone temples, the oldest of wh
 
 34 EI XXXIII, 157 ll. 1–2: 
 
-vikramopanatasāmantac¯ud. āman. iprabhāprasekāmbubhir dhautapādayugalo ripuvilāsi nīsīmantoddharan. ahetur vasuvasudhāgopradah. paramabhāgavato mātāpitr.pādānu dhyātah. śrīmahājayarājah.. 35 Stadtner 1980, 47. Krishna Deva in EITA II.1, 225: ‘Of two early pillars in the Rāmacandra Temple, one is Rucaka, the other octagonal with a circular fluted laśuna and crowning members. Similar pillars are known from Turturiā. These Mahāk¯osala art forms, which reveal the diffused impact of Vākāt.aka prototypes, can be dated c. ad 525–550.’ For photographs of the pillars in the Rāmacandra Temple see EITA II.1. nos. 439–443; for those in Turturiya see ASI XIII (1882), Plate no. XVII. For another pillar, found at the entrance of the temple at Turturiya, see below, Plate 17. Krishna Deva’s description of the Rucaka pillar to the effect that ‘the lower two-fifths [. . . ] is plain; the upper three-fifths is carved in three zones’ is probably based on the photo graph II.D 2. No. 443, since actually the lower two-fifths consists of two panels in low relief (below, Plate 16). Other (?) pillars of this temple are reported by Cunningham to have been brought here ‘about 250 years ago (some say 400) by Govind Sˆah, Kamˆasdˆar of Raypur’ from the Laks.man. a Temple in Sirpur ‘in boats’ (ASI XVII, 28). See also Viennot 1958, 138–140; Dikshit 1960, 31 f. 
+vikramopanatasāmantac¯ud. āmaṇiprabhāprasekāmbubhir dhautapādayugalo ripuvilāsi nīsīmantoddharaṇahetur vasuvasudhāgopradah. paramabhāgavato mātāpitr.pādānu dhyātah. śrīmahājayarājah.. 35 Stadtner 1980, 47. Krishna Deva in EITA II.1, 225: ‘Of two early pillars in the Rāmacandra Temple, one is Rucaka, the other octagonal with a circular fluted laśuna and crowning members. Similar pillars are known from Turturiā. These Mahāk¯osala art forms, which reveal the diffused impact of Vākāt.aka prototypes, can be dated c. ad 525–550.’ For photographs of the pillars in the Rāmacandra Temple see EITA II.1. nos. 439–443; for those in Turturiya see ASI XIII (1882), Plate no. XVII. For another pillar, found at the entrance of the temple at Turturiya, see below, Plate 17. Krishna Deva’s description of the Rucaka pillar to the effect that ‘the lower two-fifths [. . . ] is plain; the upper three-fifths is carved in three zones’ is probably based on the photo graph II.D 2. No. 443, since actually the lower two-fifths consists of two panels in low relief (below, Plate 16). Other (?) pillars of this temple are reported by Cunningham to have been brought here ‘about 250 years ago (some say 400) by Govind Sˆah, Kamˆasdˆar of Raypur’ from the Laks.maṇa Temple in Sirpur ‘in boats’ (ASI XVII, 28). See also Viennot 1958, 138–140; Dikshit 1960, 31 f. 
 
 
 
@@ -7671,15 +7671,15 @@ After the collapse of the Vākāt.aka empire artisans may have travelled and hel
 
 
 
-12 / History and Culture of Daks.in. a Kosala 247 
+12 / History and Culture of Daks.iṇa Kosala 247 
 
-the east (e.g. Kosala) of the old culture area. However, there seems to have been enough self-confidence to allow for revolutionary new experiments of an astonishing richness and beauty, such as are witnessed in the temples in Tālā (see below). They lay the foundation of the emerging Daks.in. a Kosala style of sculpture and architecture of the second half of the 6th and 7th centuries. 
+the east (e.g. Kosala) of the old culture area. However, there seems to have been enough self-confidence to allow for revolutionary new experiments of an astonishing richness and beauty, such as are witnessed in the temples in Tālā (see below). They lay the foundation of the emerging Daks.iṇa Kosala style of sculpture and architecture of the second half of the 6th and 7th centuries. 
 
 Jayarāja was, in all likelihood, succeeded by his nephew Sudevarāja, who soon inaugurated a second centre from where the kingdom was governed, a place named after the goddess who adorned the seals of the dynasty, Srī (Laks ´ .mī), viz. Srīpura (modern Sirpur) on the right bank of the Great River (Mahānadī). ´ The residence of the king remained in Sarabhapur, as is evident from the fact ´ that the charters issued from there were direct orders of the king himself (sva mukhāj˜nayā), 37 whereas the charters from Srīpura were issued by his proxy ( ´ d¯u taka), the illustrious great feudatory (śrīmahāsāmanta) Indrabalarāja, whose office is described as that of chief minister (sarvādhikārādhikr.ta). 38 
 
 There can be little doubt that Indrabala is the same as the king of the Pān. ḍava lineage from whom the later King Tīvaradeva traced his descent (see below). 39 The ending of the name ◦bala as well as the fact that he belonged to a Pān. ḍava lineage are strong indications that Indrabala was somehow related to the Somavam. śa dynasty of Mekalā, whose last ruling king, S¯urabala, was ´ born from a princess of Kosalā and who probably ruled as a feudatory of the Sarabhapurīyas over parts of southern Mekalā and/or northern Kosala at the ´ times of Jayarāja and/or Sudevarāja. 40 
 
-Sudevarāja’s successor, Pravararāja—probably his younger brother—may have had a rather short reign. Both of his charters date from his 3rd regnal year. 41 They were issued from Srīpura, this time, however, without media- ´ tion of Indrabala or another sāmanta. It appears not implausible that the death of Sudevarāja was followed by a power struggle between the old family of Sarabhapur and the feudatories of the newly founded ´ Srīpura. Within the ´ family of the Pān. ḍuvam. śins of Mekalā this may also have led to a conflict of interests, in particular between S¯urabala, reigning in Mekalā, and Nannarāja, ´ son of Indrabala, reigning in Kosala; according to Bosma’s hypothesis they were brothers (above, n. 14 on p. 240; see Figure 3). The outcome of this struggle we know: the Indrabala–Nannarāja–Tīvaradeva/Candragupta lineage of the Pān. ḍavas of Kosala emerged as the new monarchs of Srīpura and under their ´ rule this place evolved into an imposing temple town. 
+Sudevarāja’s successor, Pravararāja—probably his younger brother—may have had a rather short reigṇBoth of his charters date from his 3rd regnal year. 41 They were issued from Srīpura, this time, however, without media- ´ tion of Indrabala or another sāmanta. It appears not implausible that the death of Sudevarāja was followed by a power struggle between the old family of Sarabhapur and the feudatories of the newly founded ´ Srīpura. Within the ´ family of the Pān. ḍuvam. śins of Mekalā this may also have led to a conflict of interests, in particular between S¯urabala, reigning in Mekalā, and Nannarāja, ´ son of Indrabala, reigning in Kosala; according to Bosma’s hypothesis they were brothers (above, n. 14 on p. 240; see Figure 3). The outcome of this struggle we know: the Indrabala–Nannarāja–Tīvaradeva/Candragupta lineage of the Pān. ḍavas of Kosala emerged as the new monarchs of Srīpura and under their ´ rule this place evolved into an imposing temple town. 
 
 37 EI XXXI, 108 l. 24; EI XXIII, 22 ll. 25 f. 
 
@@ -7707,7 +7707,7 @@ As has been noted above, scholars nowadays generally agree that sāmanta Indraba
 
 gacchati bh¯uyasi kāle bh¯umipatih. ks.apitasakalaripupaks.ah. | 
 
-pān. ḍavavam. śād gun. avān udayananāmā samutpannah. k 16 k 
+pān. ḍavavam. śād guṇavān udayananāmā samutpannah. k 16 k 
 
 ... ◦sya tan¯ujanmā k 17 k 
 
@@ -7731,7 +7731,7 @@ pavanalulitacihnam. ramyakāntīs.t.akābhir,
 
 gr.havaram atibhaktyā kāritam. tena p¯urvam k 
 
-44 I still think that both Udayana’s are the same figure, but I have given up the view that conceives of this king as a historical person. He features in these pedigrees to forge a link with Pān. ḍu and the legendary Somavam. śa dynasty. I wrote the following in Bakker 2014, 203: 
+44 I still think that both Udayana’s are the same figure, but I have given up the view that conceives of this king as a historical persoṇHe features in these pedigrees to forge a link with Pān. ḍu and the legendary Somavam. śa dynasty. I wrote the following in Bakker 2014, 203: 
 
 This suggestion [of an historic Udayana] now seems to me naive. The Kāla˜njara inscription and the two Pān. ḍuvam. śin inscriptions from Kosala refer to one and the same legendary Pān. ḍava king Udayana of Vatsa, son of Satānīka, descendant of Bhara- ´ ta through Pān. ḍu, Arjuna, Abhimanyu, Parīks.it, Janamejaya [. . . ] and Satānīka II. ´ 
 
@@ -7743,7 +7743,7 @@ Telling in this respect is that in the inscriptions of S¯urabala, which give th
 
 
 
-12 / History and Culture of Daks.in. a Kosala 249 
+12 / History and Culture of Daks.iṇa Kosala 249 
 
 It is conceivable, nevertheless, that the territory over which King Indra(bala) and the Pān. ḍuvam. śins of Mekalā ruled may have included the region of the present-day Shahdol District. This rule is apparently attested by an inscription found in Malgā (Shahdol District) of a sāmanta Indrarāja, dating from his first year, issued from Man. ḍaka (EI XXXIII, 209–214). The father of this sāmanta is only designated as ‘king’ (ks.itipati). About this inscription A. M. Shastri 1987, 201 observed: 
 
@@ -7757,11 +7757,11 @@ However, the Pān. ḍava family settling in Srīpura soon proved to be a cuckoo
 
 46 JESI V, 96 l. 26; Shastri 1995 II, 33; EI XXXI, 316 l. 23; Shastri 1995 II, 44. 
 
-47 In the as yet not published stone inscription in the Lakhneśvara (Laks.man. eśvara) Tem ple at Kharod of his son ¯Iśānadeva (see below, n. 51 on p. 250), Indrabala is described as sovereign monarch. Thanks to the good services of Natasja Bosma, who took pho tos of this inscription, I could decipher the following in lines 22–23 (four pādas of a Vasantatilaka and the first pāda of a Sragdharā): 
+47 In the as yet not published stone inscription in the Lakhneśvara (Laks.maṇeśvara) Tem ple at Kharod of his son ¯Iśānadeva (see below, n. 51 on p. 250), Indrabala is described as sovereign monarch. Thanks to the good services of Natasja Bosma, who took pho tos of this inscription, I could decipher the following in lines 22–23 (four pādas of a Vasantatilaka and the first pāda of a Sragdharā): 
 
-sarvāvanīśvaraśiroman. irājirājat-, 
+sarvāvanīśvaraśiromaṇirājirājat-, 
 
-pādāmbujah. śaśikulāmbarap¯urn. acandrah. | 
+pādāmbujah. śaśikulāmbarap¯urṇacandrah. | 
 
 āsīd bhuvah. patir avārita  ī(ya) [22] ˘ , 
 
@@ -7783,7 +7783,7 @@ There was a lord of the earth named Indrabala, who had thrown off his enemies by
 
 give up their control over parts of the Vindhya (Mekalā) after they had seized sovereignty over Kosala ensues from the Senakapāt. Inscription of the time of Mahāśivagupta Bālārjuna, in which a certain brahmin Devaraks.ita is said to have ‘obtained, apparently from King Nannarāja, the governorship of the Vindhya territory (vindhyadh¯urdharatva)’. 48 
 
-Nannarāja I had three brothers, the youngest of whom, Bhavadeva (see above, n. 14 on p. 240), was glorified in the above-mentioned inscription, as he was responsible for the repair of an old Buddhist monastery (vihāra) originally built by one S¯uryaghos.a. 49 The inscription informs us that Bhavadeva was a great warrior, hence his birudas Ran. akesarin and Cintādurga (vv. 20, 32), but he does not seem to have been (sovereign) king (pr.thivīpati) himself, if we read one of the verses in his praise correctly, 
+Nannarāja I had three brothers, the youngest of whom, Bhavadeva (see above, n. 14 on p. 240), was glorified in the above-mentioned inscription, as he was responsible for the repair of an old Buddhist monastery (vihāra) originally built by one S¯uryaghos.a. 49 The inscription informs us that Bhavadeva was a great warrior, hence his birudas Raṇakesarin and Cintādurga (vv. 20, 32), but he does not seem to have been (sovereign) king (pr.thivīpati) himself, if we read one of the verses in his praise correctly, 
 
 (Though) he has not taken (her) by the hand (/ has not taken tax), and with out walking around (the fire) (/ marching the surrounding (countries)), he, (al ready) being Lord of Laks.mī, became an unparallelled supporter (/ husband) of the earth. 50 
 
@@ -7791,7 +7791,7 @@ Another brother of Bhavadeva and Nannarāja I, ¯Iśānadeva, is reported to hav
 
 Cf. Mirashi, Studies in Indology I (1960), 241 n. 1; Shastri 1995 II, 375 f. 
 
-Nannarāja had himself (probably) proclaimed rājādhirāja in the Ara˙ng Stone Inscription ¯ of Bhavadeva Ran. akesarin and Nannarāja (JRAS (1905), 629 v. 40; Shastri 1995 II, 99). The redrafting of the dynastic Pān. ḍava lineage, substituting Udayana for the Bala kings of Mekalā, gives the impression that the Pān. ḍava family, after the coup d’´etat in Srīpura, ´ no longer wished to be reminded of its tribal roots in Mekalā. A similar redrafting of a pedigree took place when the Maukharis came to power in Kanauj in about the same period (see Bakker 2014, 42). 
+Nannarāja had himself (probably) proclaimed rājādhirāja in the Ara˙ng Stone Inscription ¯ of Bhavadeva Raṇakesarin and Nannarāja (JRAS (1905), 629 v. 40; Shastri 1995 II, 99). The redrafting of the dynastic Pān. ḍava lineage, substituting Udayana for the Bala kings of Mekalā, gives the impression that the Pān. ḍava family, after the coup d’´etat in Srīpura, ´ no longer wished to be reminded of its tribal roots in Mekalā. A similar redrafting of a pedigree took place when the Maukharis came to power in Kanauj in about the same period (see Bakker 2014, 42). 
 
 48 EI XXXI, 32, 35 v. 7. The reading and interpretation of this verse are uncertain and disputed by Mirashi and Sircar in EI XXXIII, 251–256. Sanderson 2013, 237 f. accepts Mirashi’s reading (though not his interpretation): ‘. . . Devaraks.ita, who had become a close confidant of King Nannarāja, had been appointed [by him] to govern the Vindhya region of the kingdom and had received various districts as the reward of his services.’ Cf. Bosma 2018, 34 ff., who argues that the Nannarāja mentioned may have been Nanna rāja I. 
 
@@ -7809,7 +7809,7 @@ Shastri 1995 II, 375 reads the name of the village as Sāt.t.hapadraka-grāma an
 
 
 
-12 / History and Culture of Daks.in. a Kosala 251 
+12 / History and Culture of Daks.iṇa Kosala 251 
 
 temple builders. Many of the grants of this royal family concern the erection and maintenance of temples; Krishna Deva was right when he observed that ‘if the Pān. ḍuvam. śīs did not found Srīpura, to them is mainly due its abundant ´ archaeological wealth’. 52 
 
@@ -7817,13 +7817,13 @@ Nannarāja I was succeeded by his son Tīvaradeva, who acquired the sove reignty
 
 The date of the Pān. ḍuvam. śa dynasty of Srīpura ´ 
 
-Two dating criteria are thought to be relevant: 1) his capital (obviously Srī- ´ pura, but possibly also called ‘Trivaranagara’) might have been alluded to in an inscription of Mādhavavarman, the Vis.n. ukun. ḍin king; 2) he might have been a contemporary of the (Maukhari) prince S¯uryavarman, whose daughter Vāsat.ā was wedded to his nephew Hars.agupta (EI XI, 191 vv. 15–16). 
+Two dating criteria are thought to be relevant: 1) his capital (obviously Srī- ´ pura, but possibly also called ‘Trivaranagara’) might have been alluded to in an inscription of Mādhavavarman, the Vis.ṇukun. ḍin king; 2) he might have been a contemporary of the (Maukhari) prince S¯uryavarman, whose daughter Vāsat.ā was wedded to his nephew Hars.agupta (EI XI, 191 vv. 15–16). 
 
-With regard to the first criterium A. M. Shastri has convincingly argued, on the strength of the Indrapālanagara (Tummalagudem) charter of the Vis.n. u kun. ḍin king Vikramendravarman II, which is dated in the expired Saka year 488 ´ (= ad 566), that the latter’s great-grandfather, Mādhavavarman II Janāśraya, must have ruled between the termini post and ad quem of ad 470 and 528 (Shastri 1987, 122–131). This Mādhavavarman II, son of Govindavarman and married to a Vākāt.aka princess, is said in his Ipur Plates to have ‘rejoiced the hearts of the young ladies in the palaces of the town of Trivara’. 55 In view of the highly improbable, very early date that has to be assumed for Tīvaradeva in 
+With regard to the first criterium A. M. Shastri has convincingly argued, on the strength of the Indrapālanagara (Tummalagudem) charter of the Vis.ṇu kun. ḍin king Vikramendravarman II, which is dated in the expired Saka year 488 ´ (= ad 566), that the latter’s great-grandfather, Mādhavavarman II Janāśraya, must have ruled between the termini post and ad quem of ad 470 and 528 (Shastri 1987, 122–131). This Mādhavavarman II, son of Govindavarman and married to a Vākāt.aka princess, is said in his Ipur Plates to have ‘rejoiced the hearts of the young ladies in the palaces of the town of Trivara’. 55 In view of the highly improbable, very early date that has to be assumed for Tīvaradeva in 
 
 by Mahāśivagupta (EI XXVII, 324) to a temple of ¯Iśāneśvarabhat.t.āraka in the township (pattana) Khadirapadra. The identification of this place is uncertain, but the identity of the temple in Kharod called today ‘Lakhneśvara’ with this ¯Iśāneśvara Temple seems likely. 
 
-52 EITA II.1, 224. Cf. Beglar in ASI VII, 168–193; Cunningham in ASI XVII, 23–31; Srīvāstava 1984. Many of the temples of South Kosala have been constructed and ´ reconstructed during several generations. Among the oldest remains (apart from Tālā, see below) Krishna Deva reckons the Rājīvalocana Temple at Rajim, which ‘should be at least a generation earlier than the Laks.man. a Temple at Sirpur and is assignable on ground of style to c. ad 600 [. . . ]’ (EITA II.1, 231 f.; cf. Meister 1984a, 121). In Sirpur itself the oldest surviving construction appears to be the Buddhist vihāra (see IAR 1954–55, 24–26; IAR 1955–56, 26 f.; EITA II.1, 232 f.). The so-called Laks.man. a Temple at Sirpur was, according to a large stone inscription recovered from it, built by the queen mother of Mahāśivagupta in memory of her deceased husband Hars.agupta. Krishna Deva observes: ‘Paleographically, this epigraph belongs to c. ad 625–650 and the temple is also assignable to the same period.’ (EITA II.1, 235 f.; cf. Stadtner 1980, 39: ‘ca. A.D. 595–605’). 
+52 EITA II.1, 224. Cf. Beglar in ASI VII, 168–193; Cunningham in ASI XVII, 23–31; Srīvāstava 1984. Many of the temples of South Kosala have been constructed and ´ reconstructed during several generations. Among the oldest remains (apart from Tālā, see below) Krishna Deva reckons the Rājīvalocana Temple at Rajim, which ‘should be at least a generation earlier than the Laks.maṇa Temple at Sirpur and is assignable on ground of style to c. ad 600 [. . . ]’ (EITA II.1, 231 f.; cf. Meister 1984a, 121). In Sirpur itself the oldest surviving construction appears to be the Buddhist vihāra (see IAR 1954–55, 24–26; IAR 1955–56, 26 f.; EITA II.1, 232 f.). The so-called Laks.maṇa Temple at Sirpur was, according to a large stone inscription recovered from it, built by the queen mother of Mahāśivagupta in memory of her deceased husband Hars.agupta. Krishna Deva observes: ‘Paleographically, this epigraph belongs to c. ad 625–650 and the temple is also assignable to the same period.’ (EITA II.1, 235 f.; cf. Stadtner 1980, 39: ‘ca. A.D. 595–605’). 
 
 53 EI VII, 105 l. 19: prāptasakalakosalādhipatyah.. 
 
@@ -7841,11 +7841,11 @@ by Mahāśivagupta (EI XXVII, 324) to a temple of ¯Iśāneśvarabhat.t.āraka i
 
 order to make his residence the scene of Mādhavavarman’s conquests, Shastri concludes that, whatever might have been meant by the expression, it had nothing to do with the Pān. ḍava king Tīvaradeva and his capital Srīpura. ´ 56 
 
-Regarding the second criterium, A. M. Shastri, following Sankaranarayanan 1977, argued that the father of Tīvaradeva’s nephew’s wife Vāsat.ā, Prince (nr.pa) S¯uryavarman, who is said to belong to a family of Varmans that had attained sovereignty over Magadhā, 57 has nothing to do with the homonymous Maukhari prince, son of ¯Iśānavarman, who is known from the Haraha Inscrip tion (EI XIV, 110–120). Shastri’s arguments (1987, 215–217) fail to carry conviction. They had already all been cogently discussed by B. P. Sinha (1977, 116–119) and shown to be invaliḍShastri’s assertion to the effect that ‘history knows of several other dynasties like the Pallavas, all the members of which had names ending with varman; but that was never employed as a dynastic name’ 58 and that, consequently, no dynasty, including the Maukharis, was ever designated as ‘Varman’, is ipso facto refuted by the Sirpur inscription, unless we accept that only completely unknown ‘Varman’ families could be denoted varman. ām. kulam. Secondly, Shastri’s assessment that the Maukharis at the time of ¯Iśānavarman were not in actual control of Magadhā is beside the point. They were certainly claiming to be sovereigns of this province and were about to realize it; epigraphical praśastis serve to promulgate this sort of claims, not to report truthfully about the often less rosy historical reality. Moreover, when Vāsat.ā/Mahāśivagupta made this claim, about half a century had passed since ¯Iśānavarman. 
+Regarding the second criterium, A. M. Shastri, following Sankaranarayanan 1977, argued that the father of Tīvaradeva’s nephew’s wife Vāsat.ā, Prince (nr.pa) S¯uryavarman, who is said to belong to a family of Varmans that had attained sovereignty over Magadhā, 57 has nothing to do with the homonymous Maukhari prince, son of ¯Iśānavarman, who is known from the Haraha Inscrip tion (EI XIV, 110–120). Shastri’s arguments (1987, 215–217) fail to carry convictioṇThey had already all been cogently discussed by B. P. Sinha (1977, 116–119) and shown to be invaliḍShastri’s assertion to the effect that ‘history knows of several other dynasties like the Pallavas, all the members of which had names ending with varman; but that was never employed as a dynastic name’ 58 and that, consequently, no dynasty, including the Maukharis, was ever designated as ‘Varman’, is ipso facto refuted by the Sirpur inscription, unless we accept that only completely unknown ‘Varman’ families could be denoted varman. ām. kulam. Secondly, Shastri’s assessment that the Maukharis at the time of ¯Iśānavarman were not in actual control of Magadhā is beside the point. They were certainly claiming to be sovereigns of this province and were about to realize it; epigraphical praśastis serve to promulgate this sort of claims, not to report truthfully about the often less rosy historical reality. Moreover, when Vāsat.ā/Mahāśivagupta made this claim, about half a century had passed since ¯Iśānavarman. 
 
 Sinha’s conclusion that ‘ “the Varman dynasty famous for its supremacy over Magadha” on strong circumstantial evidence can be no other than the impe rial Maukhari dynasty which ruled over Magadha for many generations’ should be accepted as the most plausible interpretation of the evidence furnished by the Sirpur stone inscription (Sinha 1977, 118). Because the Haraha inscrip tion of S¯uryavarman has been shown to date from ad 554, 59 we may safely conclude that his contemporary, Tīvaradeva, ruled in the middle of the 6th century, a conclusion that is fully consistent with the archaeological dating of the monuments in Sirpur that were built by Vāsat.ā and her son Mahāśivagupta Bālārjuna two generations later (ad 600–650). 60 
 
-56 Shastri 1975-76; Shastri 1987, 117–220. Cf. Sankaranarayanan 1977, 224–230: Therefore it is certain that Trivaranagara was the capital of the Vis.n. ukun. ḍins. We have also seen earlier how both Mādhavavarmans of the Ipur (I) and Polamuru (I) plates brought prosperity to this capital Trivaranagara. We have identified this Trivaranagara with the modern Tiruvuru (17◦ 10´ North and 30◦ 35´ East), the headquarters of the taluk of that name in the Krishna District, Andhra Pradesh. (op. cit. 229) 
+56 Shastri 1975-76; Shastri 1987, 117–220. Cf. Sankaranarayanan 1977, 224–230: Therefore it is certain that Trivaranagara was the capital of the Vis.ṇukun. ḍins. We have also seen earlier how both Mādhavavarmans of the Ipur (I) and Polamuru (I) plates brought prosperity to this capital Trivaranagara. We have identified this Trivaranagara with the modern Tiruvuru (17◦ 10´ North and 30◦ 35´ East), the headquarters of the taluk of that name in the Krishna District, Andhra Pradesh. (op. cit. 229) 
 
 57 EI XI, 191 v. 16: magadhādhipatya. 
 
@@ -7861,17 +7861,17 @@ Sinha’s conclusion that ‘ “the Varman dynasty famous for its supremacy ove
 
 
 
-12 / History and Culture of Daks.in. a Kosala 253 
+12 / History and Culture of Daks.iṇa Kosala 253 
 
 Tīvaradeva 
 
-To judge by his inscriptions, Tīvaradeva was a great warrior. In his military campaigns he may have been supported by the alliance which had evidently been forged between the Maukharis and the rulers of Daks.in. a Kosala. 
+To judge by his inscriptions, Tīvaradeva was a great warrior. In his military campaigns he may have been supported by the alliance which had evidently been forged between the Maukharis and the rulers of Daks.iṇa Kosala. 
 
-There was enough geographical proximity for the Maukharis and Somavam. śīs to come into contact. Sarvavarman [reigning brother of S¯uryavarman, H.T.B.] was ´ overlord of Kalanjar region and probably held the Vindhyan fort Asigarh; 61 and the Somavam. śī kings of Mahākosala were associated with Mekala region. It is likely that [the Maukhari king] ¯Iśānavarman was helped by the Somavam. śī king in his campaign against the Vis.n. ukun. ḍins of Andhra. ¯ 62 Tīvaradeva who was master of the entire Mahākosala region must have facilitated ¯Iśānavarman’s march into the interior of Orissa and Andhra. ¯ 63 (Sinha 1977, 118 f.) 
+There was enough geographical proximity for the Maukharis and Somavam. śīs to come into contact. Sarvavarman [reigning brother of S¯uryavarman, H.T.B.] was ´ overlord of Kalanjar region and probably held the Vindhyan fort Asigarh; 61 and the Somavam. śī kings of Mahākosala were associated with Mekala regioṇIt is likely that [the Maukhari king] ¯Iśānavarman was helped by the Somavam. śī king in his campaign against the Vis.ṇukun. ḍins of Andhra. ¯ 62 Tīvaradeva who was master of the entire Mahākosala region must have facilitated ¯Iśānavarman’s march into the interior of Orissa and Andhra. ¯ 63 (Sinha 1977, 118 f.) 
 
 Tīvaradeva may have actively participated in the exploits of his northern ally, since his successor, Nannarāja II, credits him with sovereignty over Orissa (Utkala) etc. 64 
 
-Irrespective of how much these campaigns (or raids) may have contributed to the wealth of Kosala, they did not result in a lasting expansion of the king dom. Nannarāja II, who in his own charter calls himself ‘son’, 65 but who might actually have been the son-in-law of Tīvaradeva, 66 only claims the sovereignty of the Kosalāman. ḍala (EI XXXI, 221 ll. 8–9). This ‘modesty’ of Nannarāja II, also apparent from the comparison of his ‘father’ with Vis.n. u (Kait.abhāri), himself with Pradyumna (EI XXXI, 221 l. 7), and the fact that the charter does not feature a regnal year, may all point to the comparative insignificance of his reign. Whether brought about by force or not, after him the line of succession switched again to the collateral branch. It must also remain uncer tain whether Candragupta, brother of Tīvaradeva, 67 and his son Hars.agupta, who was married to Vāsat.ā, ever really ruled, as long as we do not possess their inscriptions. Anyway, the exceptionally long reign (c. ad 590–650) of Hars.agupta’s son Mahāśivagupta (at least 57 years) indicates that he ascended the throne as a boy or young man. 68 
+Irrespective of how much these campaigns (or raids) may have contributed to the wealth of Kosala, they did not result in a lasting expansion of the king dom. Nannarāja II, who in his own charter calls himself ‘son’, 65 but who might actually have been the son-in-law of Tīvaradeva, 66 only claims the sovereignty of the Kosalāman. ḍala (EI XXXI, 221 ll. 8–9). This ‘modesty’ of Nannarāja II, also apparent from the comparison of his ‘father’ with Vis.ṇu (Kait.abhāri), himself with Pradyumna (EI XXXI, 221 l. 7), and the fact that the charter does not feature a regnal year, may all point to the comparative insignificance of his reigṇWhether brought about by force or not, after him the line of succession switched again to the collateral branch. It must also remain uncer tain whether Candragupta, brother of Tīvaradeva, 67 and his son Hars.agupta, who was married to Vāsat.ā, ever really ruled, as long as we do not possess their inscriptions. Anyway, the exceptionally long reign (c. ad 590–650) of Hars.agupta’s son Mahāśivagupta (at least 57 years) indicates that he ascended the throne as a boy or young man. 68 
 
 61 Cf. CII III (1888), 219–221; HCI III, 69 n. 3. 
 
@@ -7885,7 +7885,7 @@ Irrespective of how much these campaigns (or raids) may have contributed to the 
 
 66 EI VII, 105 ll. 25–26: priyajāmātr.śrīnannarāja. 
 
-67 In the Sirpur Stone Inscription of the Time of Mahāśivagupta (i.e. Vāsat.ā’s inscription in the Laks.man. a Temple), Tīvaradeva is only anonymously referred to by the words rājā dhikāradhavalah. sabalo [. . . ] agrajo (scil. candraguptarājasya); EI XI, 190 v. 6 (Shastri 1995 II, 142). 
+67 In the Sirpur Stone Inscription of the Time of Mahāśivagupta (i.e. Vāsat.ā’s inscription in the Laks.maṇa Temple), Tīvaradeva is only anonymously referred to by the words rājā dhikāradhavalah. sabalo [. . . ] agrajo (scil. candraguptarājasya); EI XI, 190 v. 6 (Shastri 1995 II, 142). 
 
 68 On the basis of the Bonda Plates of Mahaśivagupta, year 22 (EI XXXV, 60–65) Mirashi and Pandeya argue that this ‘king came to the throne in 595 A.D’. The editor, ḍC. 
 
@@ -7911,7 +7911,7 @@ fine ourselves to only the most outstand
 
 ing achievements. Queen Mother Vāsat.ā 
 
-built the splendid ‘Laks.man. a Temple’: ‘She 
+built the splendid ‘Laks.maṇa Temple’: ‘She 
 
 caused this eternal abode of Lord Hari to 
 
@@ -7921,7 +7921,7 @@ actly (the abode) in which he lives in per
 
 petual adoration of the imperishable one 
 
-(i.e. Vis.n. u).’ 70 This temple was proba bly dedicated to Vis.n. u–Narasim. ha as the 
+(i.e. Vis.ṇu).’ 70 This temple was proba bly dedicated to Vis.ṇu–Narasim. ha as the 
 
 first three verses of the inscription suggest. 
 
@@ -7945,11 +7945,11 @@ all of a sudden tore (him) up with the
 
 Plate 18 
 
-Narasim. ha in Site Museum Laks.man. a Temple Sirpur 
+Narasim. ha in Site Museum Laks.maṇa Temple Sirpur 
 
 nails of his other hand and cast him away in rage, as if (he were just) dirt under them (i.e. nails). 71 
 
-An image of Narasim. ha tearing the demon Hiran. yakaśipu apart is preserved in the museum next to the temple (Plate 18). 
+An image of Narasim. ha tearing the demon Hiraṇyakaśipu apart is preserved in the museum next to the temple (Plate 18). 
 
 Sircar, however, sees a flaw in the reasoning, as he usually does if Mirashi is involved (EI XXXV, 61 n. 7). Cf. Meister 1984a, 140 n. 6. 
 
@@ -7961,7 +7961,7 @@ labdho nirbhettum ebhir na ripur iti rasād dattacaks.ur nakhes.u,
 
 trāsāt tatkroḍarandhrodarakuharadarīm eva līnam. vilokya | 
 
-hāsollāsāvahelam. taditarakarajāgren. a nirbhidya sadyah., 
+hāsollāsāvahelam. taditarakarajāgreṇa nirbhidya sadyah., 
 
 krośāc ciks.epa tajjam. malam iva danujam. yah. sa vo ’vyān nr. sim. hah. k 2 k 
 
@@ -7971,9 +7971,9 @@ krośāc ciks.epa tajjam. malam iva danujam. yah. sa vo ’vyān nr. sim. hah. k
 
 
 
-12 / History and Culture of Daks.in. a Kosala 255 
+12 / History and Culture of Daks.iṇa Kosala 255 
 
-Mahāśivagupta, who, unlike his ancestors who were paramavais.n. avas, was a paramamāheśvara (EI XXVII, 323 l. 5), evidently pursued a policy of active patronage of various religious currents of his day, as is apparent from his grant to a Buddhist monastery in Taraḍam. śaka (at the request of his maternal uncle Bhāskaravarman), 72 and, indirectly, from the Buddhist monasteries a little south of Srīpura. The inscription found in one of them records the donation ´ by a monk called Anandaprabha of a ‘free-feeding establishment for the ¯ yatis or monks’ under the reign of Mahāśivagupta. 73 
+Mahāśivagupta, who, unlike his ancestors who were paramavais.ṇavas, was a paramamāheśvara (EI XXVII, 323 l. 5), evidently pursued a policy of active patronage of various religious currents of his day, as is apparent from his grant to a Buddhist monastery in Taraḍam. śaka (at the request of his maternal uncle Bhāskaravarman), 72 and, indirectly, from the Buddhist monasteries a little south of Srīpura. The inscription found in one of them records the donation ´ by a monk called Anandaprabha of a ‘free-feeding establishment for the ¯ yatis or monks’ under the reign of Mahāśivagupta. 73 
 
 Among the major constructions of this period, however, is the Gandheśvara Temple on the bank of the Mahānadī. According to Hiralal this temple was, 
 
@@ -8003,7 +8003,7 @@ Tal¯ ā
 
 Tālā is a tiny village in the Bilaspur District, situated a little north of the con fluence of the Maniārī and the Sevnāth rivers; the junction of the latter with the Mahānadī is c. 50 km downstream. The hamlet lies at a distance of 25 km to the west of Malhar as the crow flies. Near the village, on the left bank of the Maniārī are two stone temples known under the names Jit.hānī and Devarānī. Bajpai suggested that one of these temples was the Jayeśvarabhat.t.āraka Tem ple, which was endowed with the village at the confluence by one Narasiṅgha and King S¯urabala Udīrn ´ . avaira (see above, p. 239). 76 
 
-At the time of the grant this ‘confluence-hamlet’ (sam. gamagrāmaka) be longed to the southern province (daks.in. arās.t.ra) of the kingdom of the Pān. ḍavas of Mekalā. As we have argued above, this dynasty may have extended its ter ritory to the north of Kosala since the times of S¯urabala’s father, who had ´ married a princess of Kosalā. This princess, as has been shown, probably came from the Amarārya family, who were petty chiefs in Kosala. Their progenitor was Jayabhat.t.āraka. In view of the common practice to name temples after their builders, we would venture the hypothesis, that this Jayeśvarabhat.t.āraka Temple was founded by Jayabhat.t.āraka of the Amarāryakula. From this it would follow that S¯urabala made a grant to the temple built by either his ma- ´ ternal grandfather or, less likely, his maternal uncle (depending on whether the princess ‘Lokaprakāśā’ was a daughter or (younger) sister of Jayabhat.t.āraka). And this would place this temple around 500 ad, according to the dynastic history of Kosala that has been reconstructed above on the basis of epigraph ical testimony. Pending new epigraphical discoveries that throw fresh light on this issue, we shall now have a look at the archaeological evidence of the two temples themselves. 
+At the time of the grant this ‘confluence-hamlet’ (sam. gamagrāmaka) be longed to the southern province (daks.iṇarās.t.ra) of the kingdom of the Pān. ḍavas of Mekalā. As we have argued above, this dynasty may have extended its ter ritory to the north of Kosala since the times of S¯urabala’s father, who had ´ married a princess of Kosalā. This princess, as has been shown, probably came from the Amarārya family, who were petty chiefs in Kosala. Their progenitor was Jayabhat.t.āraka. In view of the common practice to name temples after their builders, we would venture the hypothesis, that this Jayeśvarabhat.t.āraka Temple was founded by Jayabhat.t.āraka of the Amarāryakula. From this it would follow that S¯urabala made a grant to the temple built by either his ma- ´ ternal grandfather or, less likely, his maternal uncle (depending on whether the princess ‘Lokaprakāśā’ was a daughter or (younger) sister of Jayabhat.t.āraka). And this would place this temple around 500 ad, according to the dynastic history of Kosala that has been reconstructed above on the basis of epigraph ical testimony. Pending new epigraphical discoveries that throw fresh light on this issue, we shall now have a look at the archaeological evidence of the two temples themselves. 
 
 75 In addition to A.M. Shastri, Thomas E. Donaldson may be mentioned as an art-historian who has argued in favour of a much later historical framework for the Kosala temples (Hindu Temple Art of Orissa I (1985), 188 ff.). One of his main arguments is the dynastic gap or dark period of the region that follows the reign of Mahāśivagupta Bālārjuna. Apart from the fact that shifting the whole dynastic and art history with 200 years to fill this gap only results in another gap, beginning at the time that Vākāt.aka and Gupta hegenomy ended (c. 500 ad), it may be assumed that, after the Pān. ḍuvam. śa, a re-emerged Nala dynasty ruled over parts of Kosala including Rajim, where Vilāsatuṅga reconstructed the Rājīvalocana Temple (EI XXVI, 49–58; cf. Krishna Deva in EITA II.1, 224 f.). 
 
@@ -8015,7 +8015,7 @@ At the time of the grant this ‘confluence-hamlet’ (sam. gamagrāmaka) be lon
 
 
 
-12 / History and Culture of Daks.in. a Kosala 257 
+12 / History and Culture of Daks.iṇa Kosala 257 
 
   
 
@@ -8053,7 +8053,7 @@ Brick buttresses at the western side of the Jit.hānī Temple at Tālā
 
 77 Cf. Williams 1982, 125: ‘The temple known locally as the Jet.hānī is in ruins, per haps because it had an unstable stone superstructure, indicated by fragments of large āmalakas.’ 
 
-78 This has first been suggested to me by the two excavators G. L. Raykwar and R. K. Singh. These brick supports may, possibly, date from the beginning of the 7th century when, as e.g. the Laks.man. a Temple of Sirpur shows, brick had become the building material in Kosala. 
+78 This has first been suggested to me by the two excavators G. L. Raykwar and R. K. Singh. These brick supports may, possibly, date from the beginning of the 7th century when, as e.g. the Laks.maṇa Temple of Sirpur shows, brick had become the building material in Kosala. 
 
 
 
@@ -8061,13 +8061,13 @@ Brick buttresses at the western side of the Jit.hānī Temple at Tālā
 
 
 
-12 / History and Culture of Daks.in. a Kosala 259 
+12 / History and Culture of Daks.iṇa Kosala 259 
 
 So far it is mainly the Devarānī Temple that has been discussed in the Indo logical literature. Donald Stadtner was the first to propose a date for it, viz. ad 525–550 (Stadtner 1980, 47). Two years later Joanna Williams observed: ‘To establish a precise date for temples of Tala is impossible, for nothing in the area is preserved to which they can be significantly related. [. . . ] The position of about 480 to 530 is a reasoned guess’ (op. cit. 128). Krishna Deva, finally, dates the Devarānī Temple to c. ad 550–575 (EITA II.1, 229 f.). 
 
 The dynastic chronology that we have tried to establish seems to support the early dating of Joanna Williams. Viewed from the dynastic perspective and considering the relative chronology of the two temples we are inclined to assign the Jit.hānī Temple to the last decade of the 5th century. Keeping in view a margin of uncertainty in the dating of at least 25 years, however, it is virtually impossible to determine with certainty whether Jayeśvarabhat.t.āraka of the Malhar Plates of S¯urabala refers to the deity of the Jit ´ .hānī or to that of the Devarānī Temple, if indeed Jayabhat.t.āraka lent his name to one of these temples. 
 
-Williams (1982, 127) observes that the motifs found on both temples are on the whole ‘basically orthodox Gupta’. This observation should now, in view of the sculptures that have been discovered in Vidarbha since 1982 (Mandhal, Ramtek, Nagardhan, Mansar) be qualified to the effect that the artefacts of Tālā, especially the gan. a type images, bear just as much or more relation to the Vākāt.aka as to the Gupta idiom. 79 However, it has been noted that the basal wall-mouldings and niched walls of the Devarānī Temple in particular have a definite South Indian flavour. 80 Krishna Deva (EITA II.1, 229) speaks of ‘some features reminiscent of Calukya and Pallava temples’. This theme had earlier been elaborated by Stadtner (1980, 39–41) who observes about the Devarānī Temple that, 
+Williams (1982, 127) observes that the motifs found on both temples are on the whole ‘basically orthodox Gupta’. This observation should now, in view of the sculptures that have been discovered in Vidarbha since 1982 (Mandhal, Ramtek, Nagardhan, Mansar) be qualified to the effect that the artefacts of Tālā, especially the gaṇa type images, bear just as much or more relation to the Vākāt.aka as to the Gupta idiom. 79 However, it has been noted that the basal wall-mouldings and niched walls of the Devarānī Temple in particular have a definite South Indian flavour. 80 Krishna Deva (EITA II.1, 229) speaks of ‘some features reminiscent of Calukya and Pallava temples’. This theme had earlier been elaborated by Stadtner (1980, 39–41) who observes about the Devarānī Temple that, 
 
 Vertical exterior niches alternating recessed and projecting and with or without images, are a characteristic of early temples of the Deccan and of South Indian architecture in general. [. . . ] Certain elements of the base (adhis.t.hāna) moldings of the Devarani also indicate a relationship between the temple and South Indian forms. [. . . ] The presence of these distinctly southern features in Kosala should probably be interpreted as a borrowing of architectural forms that probably existed in the sixth century in the Deccan and in South India but that appeared on temples constructed of perishable materials and therefore have not surviveḍIt is highly unlikely that these forms originated in Kosala during the sixth century in light of Kosala’s rather provincial and isolated position. 
 
@@ -8085,7 +8085,7 @@ Vertical exterior niches alternating recessed and projecting and with or without
 
 Joanna Williams (1982, 26), though agreeing with Stadtner that the architec ture of Tālā may go back to wooden archetypes and that ‘these forms are in a general way akin to slightly later buildings to the south, both Calukya and Pallava’, disagrees with Stadtner’s emphasis of the southern origin of these forms. 
 
-Stadtner describes these (scil. base moldings) as forming a typically Dravidian base of the type known as pratibandha, citing the authority of M. A. Dhaky. [. . . ] The makara toran. as of the exterior, another seemingly south Indian element, are also found at Ajan.t.ā (Cave 6, lower). I would prefer to think of such forms as indigenous to Kosala in wood, rather than as resulting from influence from the South, where such forms are not known at this point. (op. cit. 125, n. 81) 
+Stadtner describes these (scil. base moldings) as forming a typically Dravidian base of the type known as pratibandha, citing the authority of M. A. Dhaky. [. . . ] The makara toraṇas of the exterior, another seemingly south Indian element, are also found at Ajaṇt.ā (Cave 6, lower). I would prefer to think of such forms as indigenous to Kosala in wood, rather than as resulting from influence from the South, where such forms are not known at this point. (op. cit. 125, n. 81) 
 
 We are not in the position to make a final assessment on this issue, which should be settled by historians of Indian architecture. However, the hypothesis advanced above, making a ruler of the Amarārya dynasty primarily responsible for the origin of these monuments, could provide an historical explanation of some South Indian influence in the architecture of Tālā in virtue of the possible South Indian descent of this family. 
 
@@ -8093,7 +8093,7 @@ The Jit.hānī Temple
 
 Bajpai & Pandey 1977 are again the first to report on this temple. They noticed ‘the colossal nature of the stone-sculptures lying around the ruined Jethani Temple. [. . . ] Some of the sculptures have a height of 4 m to 5 m. The images of Narsimha, Buddha and a few other deities have been identifieḍThe temple may have been a Daśāvatāra shrine. In point of time this temple is earlier than the Devrani Temple. It can be assigned to the 4th century A.D.’ 81 
 
-The archaeological exploration of the Jit.hānī Temple mound was initiated in 1986 according to the Indian Archaeological Review of that year (IAR 1985–86, 48 (published in 1990)). Here it is said that ‘the unearthed temple has a large, simple but typical plan. Amongst antiquities mention may be made of silver coin of Prasannamātra Sarabhpuriya king of Dakshina Kosala [. . . ].’ 82 This seems to confirm a dating of the site to the end of the 5th, beginning of the 6th 
+The archaeological exploration of the Jit.hānī Temple mound was initiated in 1986 according to the Indian Archaeological Review of that year (IAR 1985–86, 48 (published in 1990)). Here it is said that ‘the unearthed temple has a large, simple but typical plaṇAmongst antiquities mention may be made of silver coin of Prasannamātra Sarabhpuriya king of Dakshina Kosala [. . . ].’ 82 This seems to confirm a dating of the site to the end of the 5th, beginning of the 6th 
 
 81 Op. cit. 37. Cf. Stadtner 1980, 46 f.: 
 
@@ -8101,21 +8101,21 @@ The style of the sculptures surrounding the Jithani conforms to that of the Deva
 
 Risbud 1984, 61: 
 
-Jit.hānī mam. dir kī bhārī bharkam pratimāem. Kus.ān. akālīn pratīt hotā haim. . Sam. bhavatah. unke laks.an. mem. śilpakār ke sāmne Kus.ān. a kālīn yaks.a-pratimāom. kā svar¯up rahā hogā. Is ādhār par Devarānī mam. dir kī tithi īsvī pām. cvīm. chat.hīm. śatī evam. Jit.hānī mam. dir kī tithi īsvī cauthī śatī nirdhārit kī jā saktī hai. 82 I am not fully certain whether the section that begins with ‘Amongst antiquities . . . ’ really refers to Tālā. 
+Jit.hānī mam. dir kī bhārī bharkam pratimāem. Kus.āṇakālīn pratīt hotā haim. . Sam. bhavatah. unke laks.aṇmem. śilpakār ke sāmne Kus.āṇa kālīn yaks.a-pratimāom. kā svar¯up rahā hogā. Is ādhār par Devarānī mam. dir kī tithi īsvī pām. cvīm. chat.hīm. śatī evam. Jit.hānī mam. dir kī tithi īsvī cauthī śatī nirdhārit kī jā saktī hai. 82 I am not fully certain whether the section that begins with ‘Amongst antiquities . . . ’ really refers to Tālā. 
 
 
 
 
 
-12 / History and Culture of Daks.in. a Kosala 261 
+12 / History and Culture of Daks.iṇa Kosala 261 
 
-century. The final clearance of the mound was conducted during three seasons from 1985–86 under the supervision of G.L. Raykwar and Rahul Kumar Singh (Nigam 2000, 46). R. K. Singh published a short note on the uncovered temple in Purātan vol. 6 (1989), 169 in which he observes that, though the image of the deity enshrined in the garbhagr.ha seems lacking, the whole collection of images definitely prove the temple to be of Saiva stamp. Among the free- ´ standing images found at the site mention is made of that of Kārttikeya, a Siva ´ head, a torso of Ardhanārīśvara, a head of an emaciated devotee, a head of Nandikeśvara and a stele of Gaurī. 83 As part of the architecture Singh lists images of Gan. eśa, Nandin and Sivagan ´ . as. 
+century. The final clearance of the mound was conducted during three seasons from 1985–86 under the supervision of G.L. Raykwar and Rahul Kumar Singh (Nigam 2000, 46). R. K. Singh published a short note on the uncovered temple in Purātan vol. 6 (1989), 169 in which he observes that, though the image of the deity enshrined in the garbhagr.ha seems lacking, the whole collection of images definitely prove the temple to be of Saiva stamp. Among the free- ´ standing images found at the site mention is made of that of Kārttikeya, a Siva ´ head, a torso of Ardhanārīśvara, a head of an emaciated devotee, a head of Nandikeśvara and a stele of Gaurī. 83 As part of the architecture Singh lists images of Gaṇeśa, Nandin and Sivagan ´ . as. 
 
-K. K. Chakravarty devoted his PhD thesis to the subject: The temples at Tala and the art of Daks.in. a Kośala.84 Unfortunately this thesis was not avail able to me. I had the privilege of visiting the site in November 1992 in the company of the two excavators R. K. Singh and G.L. Raykwar along with Dr L. S. Nigam of Raipur University. To all three of them I owe many valuable observations. 
+K. K. Chakravarty devoted his PhD thesis to the subject: The temples at Tala and the art of Daks.iṇa Kośala.84 Unfortunately this thesis was not avail able to me. I had the privilege of visiting the site in November 1992 in the company of the two excavators R. K. Singh and G.L. Raykwar along with Dr L. S. Nigam of Raipur University. To all three of them I owe many valuable observations. 
 
 First of all I fully agree with R. K. Singh’s observation that the temple is decidedly Saiva although the overall scheme of the monument has yet to be ´ establisheḍBajpai and Pandey’s conjecture to the effect that the temple was a Daśāvatāra shrine is based on very shallow evidence, made obsolete by the clearance of the mounḍThe large slabs of stone lying to the west of the temple are too much damaged (they look as if their front sites are sliced off by a razor, probably caused by fractures in the stone) to allow identification as Narasim. ha and the Buddha, though one of them (measuring 110 x 265 cm) does seem to have an us.n.īs.a (Plate 22). A smaller image of a seated Narasim. ha is found in low relief on a stone architrave lying to the southwest of the mound (Plate 23). 
 
-One of the remarkable aspects of this temple is its lay-out. There appear to have been three entrances reached by steps. The major entrance is a flight of steps, more than 7 m in width, at the bottom of which four huge pillars (measuring between 70 to 80 cm on each side, one still standing) must have supported a roof like projection (Plate 20). The space between these pillars is 114, 206 and 108 cm. This propylaeum faces south. The two pillars in the middle of the frontside rest on plinths that are bolstered by atlantid gan. as (bhāraraks.akas) (Plate 24). The plinths of the two outward pillars are formed by lions (Plate 25). The bases of the two central pillars are formed by kumbhas on four sides, out of each of which two horses jump (Plate 26). The broadness 
+One of the remarkable aspects of this temple is its lay-out. There appear to have been three entrances reached by steps. The major entrance is a flight of steps, more than 7 m in width, at the bottom of which four huge pillars (measuring between 70 to 80 cm on each side, one still standing) must have supported a roof like projection (Plate 20). The space between these pillars is 114, 206 and 108 cm. This propylaeum faces south. The two pillars in the middle of the frontside rest on plinths that are bolstered by atlantid gaṇas (bhāraraks.akas) (Plate 24). The plinths of the two outward pillars are formed by lions (Plate 25). The bases of the two central pillars are formed by kumbhas on four sides, out of each of which two horses jump (Plate 26). The broadness 
 
 83 Some of these images are now in the Bilaspur Museum (State Archaeology in Bilaspur). For photos see Bosma 2018, Plates 3.17, 3.26, 3.25, 3.29. 
 
@@ -8133,11 +8133,11 @@ of the steps and their direction to the south suggest that this temple faced the
 
 The other two entrances are at the rear of the temple, facing east and west respectively (Plate 21). Near the steps of the western entrance lies a pillar that is deliciously carved with oblique bands of floral and foliage patterns (Plate 27). On these bands a mouse or rat is sculptured as if running down the pillar (Plate 28). A similar motif recurs in the Devarānī Temple. Along the north and east sides of the moulded base of that temple a snake emerges repeatedly out of the stone in chase of a mouse. The distance between snake and mouse gradually decreases until the mouse is caught. 
 
-Several ‘sliced off’ slabs of stone flank the eastern steps (Plate 29). A stand ing pillar, which seems to have split along its vertical axis, has different bands of ornamentation. The upper portion consists of a ‘convex-lobed āmalaka’ that rests upon a vase decorated with festoons hanging from lions (cf. Williams 1982, 127 Plate 197). At the rear side of this pillar a figure with bird-like legs and ram-like head is carved standing against the vase (Plate 30). The sculp ture work evokes a strong flavour of wood carving. At the bottom of the steps stands a torso clad in a tiger skin covering a pronounced scrotum and erect penis (Plate 31). A claw and the face of the tiger is sculptured on the right thigh next to what seems to be a trident. Along the left thigh the tail of the animal runs downwards starting next to the phallus. Two huge elephant heads buttress the temple platform on the northern side (Plate 32). To compare, an image of Gan. eśa with trunk to the left and holding a danta in his right hand is found at the northern base (i.e. right side) of the steps leading up to the Devarānī Temple (Plate 33). 
+Several ‘sliced off’ slabs of stone flank the eastern steps (Plate 29). A stand ing pillar, which seems to have split along its vertical axis, has different bands of ornamentatioṇThe upper portion consists of a ‘convex-lobed āmalaka’ that rests upon a vase decorated with festoons hanging from lions (cf. Williams 1982, 127 Plate 197). At the rear side of this pillar a figure with bird-like legs and ram-like head is carved standing against the vase (Plate 30). The sculp ture work evokes a strong flavour of wood carving. At the bottom of the steps stands a torso clad in a tiger skin covering a pronounced scrotum and erect penis (Plate 31). A claw and the face of the tiger is sculptured on the right thigh next to what seems to be a trident. Along the left thigh the tail of the animal runs downwards starting next to the phallus. Two huge elephant heads buttress the temple platform on the northern side (Plate 32). To compare, an image of Gaṇeśa with trunk to the left and holding a danta in his right hand is found at the northern base (i.e. right side) of the steps leading up to the Devarānī Temple (Plate 33). 
 
-The mound of the ruined temple is strewn with very lively carved images of makaras and gan. as, which once supported pillars and other figures (Plates 34–39). These jolly, delicately sculptured, pot-bellied figures, all markedly different, are in a way reminiscent of Vākāt.aka and Gupta examples, yet they definitely breathe an atmosphere of their own. Luxuriant patterns of flowers and foliage decorate the faces of the stone remains as far as these are not damaged and ‘sliced off’. 
+The mound of the ruined temple is strewn with very lively carved images of makaras and gaṇas, which once supported pillars and other figures (Plates 34–39). These jolly, delicately sculptured, pot-bellied figures, all markedly different, are in a way reminiscent of Vākāt.aka and Gupta examples, yet they definitely breathe an atmosphere of their owṇLuxuriant patterns of flowers and foliage decorate the faces of the stone remains as far as these are not damaged and ‘sliced off’. 
 
-Two fragmentary images merit particular attention. One is a complex, bro ken image, about 1.50 m as it stands now, fixed in concrete and resting against the brick prop at the middle of the southern staircase (Plate 40). It shows a group of three figures; the main one is a male deity broken just below the waist, against whose breast two makaras rise up (the right one has lost the upper portion of his trunk-like jaw). 85 The left arm of the main deity is bro ken off, but part of what seems to be his underarm in an upwards position is 
+Two fragmentary images merit particular attentioṇOne is a complex, bro ken image, about 1.50 m as it stands now, fixed in concrete and resting against the brick prop at the middle of the southern staircase (Plate 40). It shows a group of three figures; the main one is a male deity broken just below the waist, against whose breast two makaras rise up (the right one has lost the upper portion of his trunk-like jaw). 85 The left arm of the main deity is bro ken off, but part of what seems to be his underarm in an upwards position is 
 
 85 Under the left makara a fan-shaped fold protrudes, which in a way resembles the sole of a left foot. If indeed it is that it must, in view of its position, have been attached to the image by those who are responsible for fixing the sculpture in concrete. Or it may belong to the makara itself which, anyway, is not complete as we see it now. 
 
@@ -8147,7 +8147,7 @@ Two fragmentary images merit particular attention. One is a complex, bro ken ima
 
 
 
-12 / History and Culture of Daks.in. a Kosala 263 
+12 / History and Culture of Daks.iṇa Kosala 263 
 
 preserved under his shoulder. The right arm is broken off at the elbow. The fracture above the bent elbow indicates that originally the right underarm also was directed upwards. This right underarm is preserved on a slab of stone that is placed to the left of the image (Plate 41). The right hand holds braided curls of hair, also seen at other images found in Tālā, which may have belonged to the female figure that rises above the hood-like halo of the main image. This hood consists of layers of petals, on the outer rim of which (lotus) buds are placed in a row. Altogether I count eleven buds, two preserved on the slab that contains the right underarm. The head of the female figure is missing. To her right, placed a little below her, stands a male figure, apparently making an a˜njali. 
 
@@ -8155,11 +8155,11 @@ The head of the main deity is slightly slanted to the left. His round face, with
 
 The group of figures as it stands now is flanked by two round pillars, profusely decorated with scroll-work. The preserved upper portion of the right pillar consists of abacus, āmalaka, a vase and (damaged) capital, a sequence that recurs in other fragmentary pillars preserved at the site. 
 
-The interpretation of this sculpture poses many problems. There are few, if any, clues that connect it with other known iconographic material. In dis cussions with the excavators the suggestion arose that the image could be that of Varun. a, i.e. the ocean, out of which Srī arises. The apparently invariable ´ attribute of Varun. a, the noose (pāśa), is absent. It can not be excluded that it was held in the left hand which is missing. The makaras (the traditional vāhana of Varun. a), and possibly, the scroll-work on the pillars (waterplants / waves) may point to the ocean. 86 His expression of forbearance would be appropriate if we assume that the goddess Srī arises out of him while he is being churned. ´ The halo of lotuses encircling his head serves the goddess above as pīt.ha, the traditional one of Srī/Laks ´ .mī. 
+The interpretation of this sculpture poses many problems. There are few, if any, clues that connect it with other known iconographic material. In dis cussions with the excavators the suggestion arose that the image could be that of Varuṇa, i.e. the ocean, out of which Srī arises. The apparently invariable ´ attribute of Varuṇa, the noose (pāśa), is absent. It can not be excluded that it was held in the left hand which is missing. The makaras (the traditional vāhana of Varuṇa), and possibly, the scroll-work on the pillars (waterplants / waves) may point to the ocean. 86 His expression of forbearance would be appropriate if we assume that the goddess Srī arises out of him while he is being churned. ´ The halo of lotuses encircling his head serves the goddess above as pīt.ha, the traditional one of Srī/Laks ´ .mī. 
 
 The other sculpture is also incomplete and apparently composed of at least three figures. It is hewn out of a large slab of stone that lies on top of the Jit.hānī Temple mound (Plate 42). The main figure is a large decapitated male deity wearing a belt, key¯ura adorned with lion’s head on his left arm, a kaṅkana, and a graiveyaka. His left arm seems to hold at the waist another, smaller male figure, who is positioned on the main image’s right side and of whom only the upper part of the head and left arm are preserveḍThe head is deliciously sculpted showing a youthful face, almond eyes, snail-like curls, and a cranial bumb (Plate 43). At both sides of the cranial bumb the feet are preserved of a third figure that must have stood on top of his heaḍThe left 
 
-86 For the iconography of Varun. a see Sahai 1975, 45–52. 
+86 For the iconography of Varuṇa see Sahai 1975, 45–52. 
 
 
 
@@ -8177,19 +8177,19 @@ Deserted by the gods Sakra then hurled (his) thunderbolt ( ´ vajra) at Skanda. 
 
 I would conjecture that the main figure is Skanda/Kumāra, the smaller deity at his right side Viśākha. 88 MBh 3.217 continues by describing the other deities that were born ‘from the thunderbolt’s impact on Skanda’, maidens (kanyās) and Kumārakas, whose father is Viśākha. MBh 1.60.23 lists three sons of Kumāra: ‘Sākha, Viśākha, and Naigameśa, born from his back’. ´ 89 Whether Naigames.a (Naigameśa or Naigameya), the ram-headed deity, also formed part of this group is impossible to determine. That his existence was well-known to the sculptors, however, is proved by the image of Naigames.a that is found at the left side of the steps leading up to the Devarānī Temple (Plate 44). 90 An early parallel for this sculpture is found among the Vākāt.aka images discovered in Mandhal (Plate 45). 91 
 
-Another origin myth relating to the various forms of Skanda/Kumāra, pos sibly relevant to the Jit.hānī Temple, is told in MBh 9.43–46. In the course of his pilgrimage Baladeva (Balarāma) arrived at Sthān. utīrtha at the Saras vatī (MBh 9.41.4). It is told how once the consecration of Kumāra as general (senāpati) took place here (kumārasyābhis.ekam, MBh 9.43.1). The curious birth of Kumāra is briefly relateḍThen it is said that Kumāra, in order to venerate his four parents (Rudra, Devī, Agni and Gaṅgā) splits himself up into four figures. 92 
+Another origin myth relating to the various forms of Skanda/Kumāra, pos sibly relevant to the Jit.hānī Temple, is told in MBh 9.43–46. In the course of his pilgrimage Baladeva (Balarāma) arrived at Sthāṇutīrtha at the Saras vatī (MBh 9.41.4). It is told how once the consecration of Kumāra as general (senāpati) took place here (kumārasyābhis.ekam, MBh 9.43.1). The curious birth of Kumāra is briefly relateḍThen it is said that Kumāra, in order to venerate his four parents (Rudra, Devī, Agni and Gaṅgā) splits himself up into four figures. 92 
 
 87 Below the gripping hand an anklet seems to be preserved, which would make the figure most probably a female one. 
 
 88 Cf. Mahābhās.ya ad P 5.3.99. 
 
-89 MBh 1.60.22cd–23ab: agneh. putrah. kumāras tu śrīmā˜n śaravan. ālayah. k 22 ktasya śākho viśākhaś ca naigameśaś ca pr. s.t.hajah. | Van Buitenen translates pr. s.t.hajah. with ‘as the last born’. Some mss read, however, pr. s.t.hatah. and this is also the reading of MBh 9.43.37, where they are said to be simultaneous (ks.an. ena) manifestations (see below, n. 92 on p. 264). See also Purān. apa˜ncalaks.an. a (PPL p. 212, v. 27). 
+89 MBh 1.60.22cd–23ab: agneh. putrah. kumāras tu śrīmā˜n śaravan. ālayah. k 22 ktasya śākho viśākhaś ca naigameśaś ca pr. s.t.hajah. | Van Buitenen translates pr. s.t.hajah. with ‘as the last born’. Some mss read, however, pr. s.t.hatah. and this is also the reading of MBh 9.43.37, where they are said to be simultaneous (ks.aṇena) manifestations (see below, n. 92 on p. 264). See also Purāṇapa˜ncalaks.aṇa (PPL p. 212, v. 27). 
 
 90 Cf. EITA II.1, Plate no. 446. 
 
 91 See Shastri 1977-78, 147 f.; Bakker 1997, 110 f. 
 
-92 MBh 9.43.37: tato ’bhavac caturm¯urtih. ks.an. ena bhagavān prabhuh. |skandah. śākho viśā khaś ca naigames.aś ca pr. s.t.hatah. k 37 k 
+92 MBh 9.43.37: tato ’bhavac caturm¯urtih. ks.aṇena bhagavān prabhuh. |skandah. śākho viśā khaś ca naigames.aś ca pr. s.t.hatah. k 37 k 
 
 
 
@@ -8197,17 +8197,17 @@ Another origin myth relating to the various forms of Skanda/Kumāra, pos sibly r
 
 
 
-12 / History and Culture of Daks.in. a Kosala 265 
+12 / History and Culture of Daks.iṇa Kosala 265 
 
-All gods come together for Kumāra’s consecration, bringing with them all nec essary requisites (sam. bhāra). The text continues by saying that earlier at this site the consecration of Varun. a as ‘Lord of the Waters’ (jaleśvara, MBh 9.44.20) had taken place, as is indeed described in MBh 9.46.5–11. Kumāra is conse crated and he is equipped with an army: 
+All gods come together for Kumāra’s consecration, bringing with them all nec essary requisites (sam. bhāra). The text continues by saying that earlier at this site the consecration of Varuṇa as ‘Lord of the Waters’ (jaleśvara, MBh 9.44.20) had taken place, as is indeed described in MBh 9.46.5–11. Kumāra is conse crated and he is equipped with an army: 
 
 And the gods gave him the army, which thronged together in the southwest (?), to destroy the enemies of the gods, invincible, containing all sorts of beings. Then all the gods and descendants of Vasu, Gandharvas, Yaks.as, Raks.as, sages and ancestors exclaimed the word ‘Jaya!’ (‘Victory!’). 93 
 
-They each present him with two servants and then the text embarks on a lengthy description of the soldiers making up Skanda’s army (MBh 9.44.51– 108), among whom we encounter all sorts of gan. as (a summary is given by Dhaky 1984, 246 ff.). After also the host of mothers (mātr.gan. a), which sur rounds Kumāra (MBh 9.45.1–40), is described, the major gods present him with special gifts, a ceremony concluded by Varun. a and Brahmā. 
+They each present him with two servants and then the text embarks on a lengthy description of the soldiers making up Skanda’s army (MBh 9.44.51– 108), among whom we encounter all sorts of gaṇas (a summary is given by Dhaky 1984, 246 ff.). After also the host of mothers (mātr.gaṇa), which sur rounds Kumāra (MBh 9.45.1–40), is described, the major gods present him with special gifts, a ceremony concluded by Varuṇa and Brahmā. 
 
-And King Varun. a gave the noose provided with strength and courage, and Lord Brahmā gave Brahman. ya (i.e. Kumāra) the skin of a black antelope, and the Creator of the World also gave victory (jaya) in battle. 94 
+And King Varuṇa gave the noose provided with strength and courage, and Lord Brahmā gave Brahmaṇya (i.e. Kumāra) the skin of a black antelope, and the Creator of the World also gave victory (jaya) in battle. 94 
 
-Thus equipped Kumāra/Skanda gained victory over the enemy of the gods. We have rendered this passage from the Mahābhārata in some detail be cause it seems to fit with the materials we find in and around the ruins of the Jit.hānī Temple. Two divine figures play a major part in the Māhātmya of Sthān. utīrtha, Skanda/Kumāra and Varun. a, and the two major images found at the Jit.hānī mound could, tentatively, it is true, be identified with these two gods. 95 And to this could be added the recurrent motif of makaras and the abundance of gan. a images at the site, the latter concurring with the promi nence of these figures in the epic story. Further research is needed to support the correspondence founḍFor the present purpose, the introduction of Tālā in its cultural-historical setting, may it suffice to end with a speculation, viz. that the name ‘Jayeśvara’, referring simultaneously to Lord Siva as well as to ´ the great victory obtained by Kumāra in his stead, could have been thought to be an appropriate name for the ‘Jit.hānī Temple’ at Tālā. 
+Thus equipped Kumāra/Skanda gained victory over the enemy of the gods. We have rendered this passage from the Mahābhārata in some detail be cause it seems to fit with the materials we find in and around the ruins of the Jit.hānī Temple. Two divine figures play a major part in the Māhātmya of Sthāṇutīrtha, Skanda/Kumāra and Varuṇa, and the two major images found at the Jit.hānī mound could, tentatively, it is true, be identified with these two gods. 95 And to this could be added the recurrent motif of makaras and the abundance of gaṇa images at the site, the latter concurring with the promi nence of these figures in the epic story. Further research is needed to support the correspondence founḍFor the present purpose, the introduction of Tālā in its cultural-historical setting, may it suffice to end with a speculation, viz. that the name ‘Jayeśvara’, referring simultaneously to Lord Siva as well as to ´ the great victory obtained by Kumāra in his stead, could have been thought to be an appropriate name for the ‘Jit.hānī Temple’ at Tālā. 
 
 93 MBh 9.44.25-26: 
 
@@ -8221,13 +8221,13 @@ gandharvayaks.araks.ām. si munayah. pitaras tathā k 26 k
 
 94 Mbh.9.45.47: 
 
-pāśam. tu varun. o rājā balavīryasamanvitam | 
+pāśam. tu varuṇo rājā balavīryasamanvitam | 
 
-kr. s.n. ājinam. tathā brahmā brahman. yāya dadau prabhuh. | 
+kr. s.n. ājinam. tathā brahmā brahmaṇyāya dadau prabhuh. | 
 
 samares.u jayam. caiva pradadau lokabhāvanah. k 47 k 
 
-95 This is not to suggest, of course, that the Sthān. utīrtha of the Mahābhārata is to be identified with Tālā. For the Sthān. utīrtha and its mythology see below, p. 535 and Bakker 2014, 160 ff. 
+95 This is not to suggest, of course, that the Sthāṇutīrtha of the Mahābhārata is to be identified with Tālā. For the Sthāṇutīrtha and its mythology see below, p. 535 and Bakker 2014, 160 ff. 
 
 
 
@@ -8257,7 +8257,7 @@ Image of Narasim. ha on architrave lying southwest of the Jit.hānī Temple
 
 
 
-12 / History and Culture of Daks.in. a Kosala 267 
+12 / History and Culture of Daks.iṇa Kosala 267 
 
   
 
@@ -8297,7 +8297,7 @@ Base of central entrance pillar of Jit.hānī Temple
 
 
 
-12 / History and Culture of Daks.in. a Kosala 269 
+12 / History and Culture of Daks.iṇa Kosala 269 
 
   
 
@@ -8345,7 +8345,7 @@ Rear side of pillar at eastern Figure at eastern entrance entrance of Jit.hānī
 
 
 
-12 / History and Culture of Daks.in. a Kosala 271 
+12 / History and Culture of Daks.iṇa Kosala 271 
 
   
 
@@ -8369,7 +8369,7 @@ Elephant’s head at the northern side of the Jit.hānī Temple
 
 Plate 33 
 
-Gan. eśa at the northern side of the entrance of the Devarānī Temple at Tālā 
+Gaṇeśa at the northern side of the entrance of the Devarānī Temple at Tālā 
 
 
 
@@ -8377,7 +8377,7 @@ Gan. eśa at the northern side of the entrance of the Devarānī Temple at Tāl�
 
 
 
-12 / History and Culture of Daks.in. a Kosala 273 
+12 / History and Culture of Daks.iṇa Kosala 273 
 
   
 
@@ -8385,7 +8385,7 @@ Gan. eśa at the northern side of the entrance of the Devarānī Temple at Tāl�
 
 Plate 34 
 
-Supporting makara head and gan. a (Jit.hānī Temple) 
+Supporting makara head and gaṇa (Jit.hānī Temple) 
 
 
 
@@ -8409,7 +8409,7 @@ Supporting makara (Jit.hānī Temple)
 
 Plate 36 
 
-Supporting gan. a (Jit.hānī Temple) 
+Supporting gaṇa (Jit.hānī Temple) 
 
 
 
@@ -8417,7 +8417,7 @@ Supporting gan. a (Jit.hānī Temple)
 
 
 
-12 / History and Culture of Daks.in. a Kosala 275 
+12 / History and Culture of Daks.iṇa Kosala 275 
 
   
 
@@ -8425,7 +8425,7 @@ Supporting gan. a (Jit.hānī Temple)
 
 Plate 37 
 
-Supporting gan. as (Jit.hānī Temple) 
+Supporting gaṇas (Jit.hānī Temple) 
 
   
 
@@ -8433,7 +8433,7 @@ Supporting gan. as (Jit.hānī Temple)
 
 Plate 38 
 
-Gan. a supporting standing image (Jit.hānī Temple) 
+Gaṇa supporting standing image (Jit.hānī Temple) 
 
 
 
@@ -8447,7 +8447,7 @@ Gan. a supporting standing image (Jit.hānī Temple)
 
 Plate 39 
 
-Supporting gan. a (Jit.hānī Temple) 
+Supporting gaṇa (Jit.hānī Temple) 
 
 
 
@@ -8455,7 +8455,7 @@ Supporting gan. a (Jit.hānī Temple)
 
 
 
-12 / History and Culture of Daks.in. a Kosala 277 
+12 / History and Culture of Daks.iṇa Kosala 277 
 
   
 
@@ -8487,7 +8487,7 @@ Broken right underarm of image at southern entrance of the Jit.hānī Temple
 
 
 
-12 / History and Culture of Daks.in. a Kosala 279 
+12 / History and Culture of Daks.iṇa Kosala 279 
 
   
 
@@ -8517,7 +8517,7 @@ Profile of the head of the minor figure of the sculpture on top of the Jit.hān�
 
 
 
-12 / History and Culture of Daks.in. a Kosala 281 
+12 / History and Culture of Daks.iṇa Kosala 281 
 
   
 
@@ -8548,20 +8548,20 @@ Naigames.a image found in Mandhal (Vidarbha)
 
 
 
-
+## Somaśarman, Somavam. śa and Somasiddhānta
 Somaśarman, Somavam. śa and Somasiddhānta A Pāśupata tradition in seventh-century 
 
-Daks.in. a Kosala∗ 
+Daks.iṇa Kosala∗ 
 
-Studies in the Skandapurān. a III 
+Studies in the Skandapurāṇa III 
 
 Haraya Namah ¯ . 
 
-The first fruit of Minoru Hara’s life-task-project to clarify the early history of the Saiva religion appeared in the ´ Indo-Iranian Journal of 1958 under the title Nakulīśa–Pāśupata–Darśanam. This was followed by the submission of his dis sertation, Materials for the study of Pāśupata Saivism ´ , to the Department of Sanskrit and Indian Studies of Harvard University in 1966 (Hara 1967). Ever since, Hara has contributed to the research into the history of the Pāśupata religion by a continuous series of meticulous studies. 1 Thanks to these studies our knowledge of this enigmatic but fascinating branch of early Hinduism has significantly increaseḍPaucity of sources, however, has inevitably hampered our understanding of the process of origin and spread of this religious move ment. Hara, like other scholars before him, duly recognized that the puranic text corpus contains numerous references to the Pāśupata religion. Yet, due to inconsistencies of all sorts and uncertainty as to their exact dates, he consid ered, rightly, the use of these texts for historic purposes a hazardous affair and consequently assigned them to the periphery of historical research. That is to say, for the time being, since, 
+The first fruit of Minoru Hara’s life-task-project to clarify the early history of the Saiva religion appeared in the ´ Indo-Iranian Journal of 1958 under the title Nakulīśa–Pāśupata–Darśanam. This was followed by the submission of his dis sertation, Materials for the study of Pāśupata Saivism ´ , to the Department of Sanskrit and Indian Studies of Harvard University in 1966 (Hara 1967). Ever since, Hara has contributed to the research into the history of the Pāśupata religion by a continuous series of meticulous studies. 1 Thanks to these studies our knowledge of this enigmatic but fascinating branch of early Hinduism has significantly increaseḍPaucity of sources, however, has inevitably hampered our understanding of the process of origin and spread of this religious move ment. Hara, like other scholars before him, duly recognized that the puranic text corpus contains numerous references to the Pāśupata religioṇYet, due to inconsistencies of all sorts and uncertainty as to their exact dates, he consid ered, rightly, the use of these texts for historic purposes a hazardous affair and consequently assigned them to the periphery of historical research. That is to say, for the time being, since, 
 
-Some day in the future, when all Purān. ic texts are critically edited and the inter relationships among them established, they may help us in tracing the history of Pāśupata Saivism. (Hara 1967, 12 f.) ´ 
+Some day in the future, when all Purāṇic texts are critically edited and the inter relationships among them established, they may help us in tracing the history of Pāśupata Saivism. (Hara 1967, 12 f.) ´ 
 
-This day is, after thirty-four years, still far off. Critical editions of some Purān. a texts have indeed been prepared since, by the All-India Kashiraj Trust in Ram nagar, the Oriental Institute in Vadodara (Vis.n. upurān. a), and the Institute of 
+This day is, after thirty-four years, still far off. Critical editions of some Purāṇa texts have indeed been prepared since, by the All-India Kashiraj Trust in Ram nagar, the Oriental Institute in Vadodara (Vis.ṇupurāṇa), and the Institute of 
 
 ∗ The first version of this article was published in Wezler, Albrecht & Ryutaro Tsuchida (eds.), Harānandalaharī. Volume in Honour of Professor Minoru Hara on his Seventieth Birthday. Inge Wezler Verlag, Reinbek 2000. pp. 1–19. 
 
@@ -8577,7 +8577,7 @@ This day is, after thirty-four years, still far off. Critical editions of some P
 
 
 
-Learning and Research in Ahmedabad (Bhāgavatapurān. a), but they have not really brought the progress in Purān. a studies that one should wish. Partly this is due to the unwieldiness of the puranic text corpus, partly to the fact that no old manuscript material has been used for these editions. How valuable ancient manuscripts are for gaining insight in the puranic text tradition itself and for the assessment of these texts as historical sources may be shown by the original Skandapurān. a (SP), the edition of which is a long-term project of the Institute of Indian Studies in Groningen. Because the oldest manuscript of this text is dated ad 810, we can be certain that the information it contains dates from the eighth century or earlier. But even in this particular case the use of the Purān. a text as a source of historical information remains a venturesome undertaking. Its historical value is greatly enhanced, however, when it proves possible to relate its data to other historical sources such as inscriptions. It is a matter of good fortune that this turns out to be the case in chapter 167 of the original Skandapurān. a, a chapter—transmitted in two old Nepalese manu scripts, among which the one dated in ad 810—which deals with the traditional history and holy places of the Pāśupata and which is, as we will show, partly in agreement with epigraphical evidence of the seventh century. In this tribute to Hara I intend to make a modest contribution to the objective envisaged by the great Japanese scholar, viz. ‘tracing the history of Pāśupata Saivism’. ´ 
+Learning and Research in Ahmedabad (Bhāgavatapurāṇa), but they have not really brought the progress in Purāṇa studies that one should wish. Partly this is due to the unwieldiness of the puranic text corpus, partly to the fact that no old manuscript material has been used for these editions. How valuable ancient manuscripts are for gaining insight in the puranic text tradition itself and for the assessment of these texts as historical sources may be shown by the original Skandapurāṇa (SP), the edition of which is a long-term project of the Institute of Indian Studies in GroningeṇBecause the oldest manuscript of this text is dated ad 810, we can be certain that the information it contains dates from the eighth century or earlier. But even in this particular case the use of the Purāṇa text as a source of historical information remains a venturesome undertaking. Its historical value is greatly enhanced, however, when it proves possible to relate its data to other historical sources such as inscriptions. It is a matter of good fortune that this turns out to be the case in chapter 167 of the original Skandapurāṇa, a chapter—transmitted in two old Nepalese manu scripts, among which the one dated in ad 810—which deals with the traditional history and holy places of the Pāśupata and which is, as we will show, partly in agreement with epigraphical evidence of the seventh century. In this tribute to Hara I intend to make a modest contribution to the objective envisaged by the great Japanese scholar, viz. ‘tracing the history of Pāśupata Saivism’. ´ 
 
 Saiva cosmology ´ 
 
@@ -8605,7 +8605,7 @@ In the Pure Universe, above the reality (tattva) of Suddhavidyā (Vāgīśvarī)
 
 6 SvT 10.1125–26. Cf. Mataṅga 1.8.79–81. 
 
-7 In Niśvāsamukha Pat.ala 4 the text deals with the Atimārga. My treatment of this intricate subject in the original publication of 2000 was based on a letter by Alexis Sanderson (Oxford) to the author (21–7–’97), in which he generously placed at my disposal a preliminary edition of a portion of this text with an elaborate apparatus of testimonia. Since then much progress has been made in the edition and study of the Niśvāsatattvasam. hitā corpus, and a critical edition of the three oldest S¯utras of this corpus—the M¯ula, Uttara, and Naya—made by Dominic Goodall and others (including Alexis Sanderson), was published in Pondich´ery in 2015. For further details I refer to the Prolegomena of this edition. For an assessment see Bakker 2018. See also Kafle 2015 for a critical edition of the Niśvāsamukha. 
+7 In Niśvāsamukha Pat.ala 4 the text deals with the Atimārga. My treatment of this intricate subject in the original publication of 2000 was based on a letter by Alexis Sanderson (Oxford) to the author (21–7–’97), in which he generously placed at my disposal a preliminary edition of a portion of this text with an elaborate apparatus of testimonia. Since then much progress has been made in the edition and study of the Niśvāsatattvasam. hitā corpus, and a critical edition of the three oldest S¯utras of this corpus—the M¯ula, Uttara, and Naya—made by Dominic Goodall and others (including Alexis Sanderson), was published in Pondich´ery in 2015. For further details I refer to the Prolegomena of this editioṇFor an assessment see Bakker 2018. See also Kafle 2015 for a critical edition of the Niśvāsamukha. 
 
 8 Ks.emarāja ad SvT 10.1127ab. Ks.emarāja adds that the Srīp¯urvaśāstra ´ (i.e. Mālinīvija yottaratantra 5.28–29) speaks of only eight deities (īśvarās.t.a) in the Māyātattva that form a man. ḍala of the size of a thumb, the first one of them being Mahādeva. Mata˙nga 1.8.83–85: 
 
@@ -8629,17 +8629,17 @@ bhasmāntako dundubhiś ca śrīvatsaś ca mahābalah. k 85 k
 
 
 
-incarnated in the eight Pramān. a texts of the Pāśupata: Pa˜ncārtha etc. 10 Though none of these texts has come to light so far, we have a glimpse of the Pa˜ncārthapramān. a, as this text is quoted by Ks.emarāja ad Svacchanda 1.41–43. This fragment establishes that also the prime Pramān. a of the Lākula division of the Pāśupata (see below)—in contrast with the system known from the Pāśupatas¯utra and its commentary—acknowledges the ascending hierarchy of Rudra worlds; these are classified into three categories, namely aghora, ghora, and ghoraghoratara. Here we meet the very same Rudras again: ‘Those Rudras who have been mentioned, beginning with Gopati and ending with Gahana, they, however, are designated ‘terrible’ (ghora); they live in various worlds.’ 11 
+incarnated in the eight Pramāṇa texts of the Pāśupata: Pa˜ncārtha etc. 10 Though none of these texts has come to light so far, we have a glimpse of the Pa˜ncārthapramāṇa, as this text is quoted by Ks.emarāja ad Svacchanda 1.41–43. This fragment establishes that also the prime Pramāṇa of the Lākula division of the Pāśupata (see below)—in contrast with the system known from the Pāśupatas¯utra and its commentary—acknowledges the ascending hierarchy of Rudra worlds; these are classified into three categories, namely aghora, ghora, and ghoraghoratara. Here we meet the very same Rudras again: ‘Those Rudras who have been mentioned, beginning with Gopati and ending with Gahana, they, however, are designated ‘terrible’ (ghora); they live in various worlds.’ 11 
 
-With regard to the fourth of these Pramān. a texts, the Hr.daya, Ks.emarāja makes an interesting remark. From this text six other Pramān. a texts have been extracted that deal with ritual acts (kriyā) and in this respect differ from the other eight Pramān. as, which deal with knowledge (j˜nāna). 12 These ritual Pramān. as are said to have been revealed by a pupil of Laku(leśa), Musu lendra. 13 
+With regard to the fourth of these Pramāṇa texts, the Hr.daya, Ks.emarāja makes an interesting remark. From this text six other Pramāṇa texts have been extracted that deal with ritual acts (kriyā) and in this respect differ from the other eight Pramāṇas, which deal with knowledge (j˜nāna). 12 These ritual Pramāṇas are said to have been revealed by a pupil of Laku(leśa), Musu lendra. 13 
 
-This brings Ks.emarāja to the difference between two divisions within the Pāśupata movement (referred to as ‘Tantra’), namely between the Pāśupata proper, founded by Lakuleśa, and hence designated ‘Lākula’, and the Mausula, founded by the eponymous pupil of Lakuleśa, Musula or Musulendra. These Mausulas, though Pāśupatas in the wider sense—after all they too stem from Lakuleśa—are put on a lower scale by the Svacchanda and its commentator. Whereas the observance of the Mausulas leads them finally to the Māyā Reality (SvT 11.71cd), the Pāśupatas who base themselves on the eight Pramān. as and belong to the Lākula division reach the ¯Iśvara Reality in the Pure Universe (SvT 10.1169cd–70ab, 11.71ab). 
+This brings Ks.emarāja to the difference between two divisions within the Pāśupata movement (referred to as ‘Tantra’), namely between the Pāśupata proper, founded by Lakuleśa, and hence designated ‘Lākula’, and the Mausula, founded by the eponymous pupil of Lakuleśa, Musula or Musulendra. These Mausulas, though Pāśupatas in the wider sense—after all they too stem from Lakuleśa—are put on a lower scale by the Svacchanda and its commentator. Whereas the observance of the Mausulas leads them finally to the Māyā Reality (SvT 11.71cd), the Pāśupatas who base themselves on the eight Pramāṇas and belong to the Lākula division reach the ¯Iśvara Reality in the Pure Universe (SvT 10.1169cd–70ab, 11.71ab). 
 
 The Pāśupata movement 
 
 The differences between the various traditions that form the Pāśupata move ment become more clear from the treatment (in Svacchanda Pat.ala 11) of the ascending hierarchy of highest stations (para(ma)m. padam) that can be reached 
 
-10 The eight Pramān. a texts are: Pa˜ncārtha, Guhya, Rudrāṅkuśa, Hr.daya, Laks.an. a, Vy¯uha, Akars ¯ .a, Adarśa ¯ . Ks.emarāja ad SvT 10.1134: ete rudrā etannāmakapāśupataśāstrāvatā rakāh. (SvT II, 275). 11 Pa˜ncārthapramān. a: proktā gopatip¯urvā ye rudrās tu gahanāntagāh. | te tu ghorāh. samākhyātā nānābhuvanavāsinah. k (SvT I, 16). 12 One wonders whether these ritual acts are subsumed under the six forms of wor ship specified in the Pāśupatas¯utra (PS) 1.8: laughter, song, dance, bellowing, mak ing obeisance, and muttering (PS 1.8: hasitagītanr.ttaḍum. ḍum. kāranamaskārajapyopa hāren. opatis.t.het |). 13 The names of these texts are given as (SvT II, 275): Purakalpa, Kanaka, Sālā, Niruttara, ´ Viśva, Prapa˜nca. They are no longer extant. 
+10 The eight Pramāṇa texts are: Pa˜ncārtha, Guhya, Rudrāṅkuśa, Hr.daya, Laks.aṇa, Vy¯uha, Akars ¯ .a, Adarśa ¯ . Ks.emarāja ad SvT 10.1134: ete rudrā etannāmakapāśupataśāstrāvatā rakāh. (SvT II, 275). 11 Pa˜ncārthapramāṇa: proktā gopatip¯urvā ye rudrās tu gahanāntagāh. | te tu ghorāh. samākhyātā nānābhuvanavāsinah. k (SvT I, 16). 12 One wonders whether these ritual acts are subsumed under the six forms of wor ship specified in the Pāśupatas¯utra (PS) 1.8: laughter, song, dance, bellowing, mak ing obeisance, and muttering (PS 1.8: hasitagītanr.ttaḍum. ḍum. kāranamaskārajapyopa hāreṇopatis.t.het |). 13 The names of these texts are given as (SvT II, 275): Purakalpa, Kanaka, Sālā, Niruttara, ´ Viśva, Prapa˜nca. They are no longer extant. 
 
 
 
@@ -8649,27 +8649,27 @@ The differences between the various traditions that form the Pāśupata move men
 
 13 / Somaśarman, Somavam. śa and Somasiddhānta 287 
 
-by the followers of the various sects. 14 The Mausula is here grouped together with the Kāruka, 15 of which Ks.emarāja only notes that it has been founded by someone else, descended in the place Kārohan. a. 16 The followers of both sects, whose observances (vrata) deal with a multitude of rituals, reach the worlds of the Rudras Ks.emeśa and Brahmasvāmin, whom the Svacchanda (10.1125) had situated on yonder side of the barrier (granthi), though still in the Māyā Reality. 17 
+by the followers of the various sects. 14 The Mausula is here grouped together with the Kāruka, 15 of which Ks.emarāja only notes that it has been founded by someone else, descended in the place Kārohaṇa. 16 The followers of both sects, whose observances (vrata) deal with a multitude of rituals, reach the worlds of the Rudras Ks.emeśa and Brahmasvāmin, whom the Svacchanda (10.1125) had situated on yonder side of the barrier (granthi), though still in the Māyā Reality. 17 
 
-Within the Lākula division the Svacchanda seems to distinguish between the Vaimalas and those who follow the eight Pramān. as, more specifically the Pa˜ncārtha, according to Ks.emarāja; both reach the ¯Iśvara Reality, but the for mer’s highest station is the world of the Rudra Tejeśa, while of the latter it is that of Dhruveśa. 18 The Mathurā Pilaster Inscription of Candragupta II, Year 61 (i.e. ad 380/81, or ad 388, according to Falk 2004, 173) reports that a tradition of preceptors (guru) whose names end in vimala and who may have hence belonged to the Vaimala division, were affiliated to a lineage of teachers (ācārya) that traced its origin back to Kuśika, supposedly the first disciple of Lakulīśa. The sacred memory of these gurus was kept alive in a ‘preceptor’s shrine’ (gurvāyatana), where cult objects were installed bearing their names (Upamiteśvara and Kapileśvara), objects which were to be worshipped by the Māheśvaras. 19 The Vaimalas may therefore have adhered to the Pāśupata school that followed the Pa˜ncārtha doctrine as laid down in the Pāśupatas¯utra (see below, p. 295). Finally, the Svacchanda specifies a group within the Lākula division that practises the observance of the skull (kapālavrata). This group 
+Within the Lākula division the Svacchanda seems to distinguish between the Vaimalas and those who follow the eight Pramāṇas, more specifically the Pa˜ncārtha, according to Ks.emarāja; both reach the ¯Iśvara Reality, but the for mer’s highest station is the world of the Rudra Tejeśa, while of the latter it is that of Dhruveśa. 18 The Mathurā Pilaster Inscription of Candragupta II, Year 61 (i.e. ad 380/81, or ad 388, according to Falk 2004, 173) reports that a tradition of preceptors (guru) whose names end in vimala and who may have hence belonged to the Vaimala division, were affiliated to a lineage of teachers (ācārya) that traced its origin back to Kuśika, supposedly the first disciple of Lakulīśa. The sacred memory of these gurus was kept alive in a ‘preceptor’s shrine’ (gurvāyatana), where cult objects were installed bearing their names (Upamiteśvara and Kapileśvara), objects which were to be worshipped by the Māheśvaras. 19 The Vaimalas may therefore have adhered to the Pāśupata school that followed the Pa˜ncārtha doctrine as laid down in the Pāśupatas¯utra (see below, p. 295). Finally, the Svacchanda specifies a group within the Lākula division that practises the observance of the skull (kapālavrata). This group 
 
-14 A similar hierarchy, though unfortunately without the allocation of the Pāśupata sects by name, is given by Rāmakan. t.ha in his sub-commentary (upanyāsa) of the (lost) partial commentary on the Raurava by Sadyojyotis, the Sarvāgamaprāmān. ya, reconstructed by Goodall 1998, xxii–xxv. 
+14 A similar hierarchy, though unfortunately without the allocation of the Pāśupata sects by name, is given by Rāmakaṇt.ha in his sub-commentary (upanyāsa) of the (lost) partial commentary on the Raurava by Sadyojyotis, the Sarvāgamaprāmāṇya, reconstructed by Goodall 1998, xxii–xxv. 
 
 15 SvT 11.71cd quoted by Jayaratha ad Tantrāloka 1.34 (I, 70): mausule kāruke caiva māyātattvam. prakīrtitam k 11.71cd k 
 
-16 Who this founder is does not become clear. He might be ‘Karuka’ whose name evidently connects him, in the view of Ks.emarāja, with the place of his descent, Kārohan. a. Bhan darkar 1913, 121 identifies this sect with the Kālāmukha (Kālānana) and conjectures that ‘the word Kāruka is probably a corruption of Kaurus.ya, the name of the third of the four (according to the Purān. as) pupils of Lakulīśa, or this last name may be the Sanskritised form of the original Kāruka’. Cf. Pathak 1960, 10. Lorenzen 1991, 84 rejects this identification. Cf. below, n. 3 on p. 527. 
+16 Who this founder is does not become clear. He might be ‘Karuka’ whose name evidently connects him, in the view of Ks.emarāja, with the place of his descent, Kārohaṇa. Bhan darkar 1913, 121 identifies this sect with the Kālāmukha (Kālānana) and conjectures that ‘the word Kāruka is probably a corruption of Kaurus.ya, the name of the third of the four (according to the Purāṇas) pupils of Lakulīśa, or this last name may be the Sanskritised form of the original Kāruka’. Cf. Pathak 1960, 10. Lorenzen 1991, 84 rejects this identificatioṇCf. below, n. 3 on p. 527. 
 
 17 Ks.emarāja ad SvT 11.71cd: 
 
-śrīlakuleśaśis.yen. a musulendren. a kārohan. asthānāvatīrn. ena cāparen. a māyātattvagata ks.emeśabrahmasvāmiprāptihetukriyābahulāh. sve sve śāstre vrataviśes.ā uktā iti māyā tattvam eva tatra paramam. padam | Cf. above, n. 15 on p. 287. 
+śrīlakuleśaśis.yeṇa musulendreṇa kārohaṇasthānāvatīrṇena cāpareṇa māyātattvagata ks.emeśabrahmasvāmiprāptihetukriyābahulāh. sve sve śāstre vrataviśes.ā uktā iti māyā tattvam eva tatra paramam. padam | Cf. above, n. 15 on p. 287. 
 
 18 SvT 11.72. Ks.emarāja (II, 328): 
 
 ye ’pi vaimalākhyāh. pāśupatabhedāh., tathā pa˜ncārthapramān. ās.t.akoktopāsāparāh. pare, tes.ām īśvaratattvagatatejeśadhruveśau param. padam ity āha: 
 
-tejeśo vaimalānām. ca pramān. e ca dhruvam. padam k 72 k 
+tejeśo vaimalānām. ca pramāṇe ca dhruvam. padam k 72 k 
 
-Cf. SvT 10.1174ab, where Tejeśa and Dhruveśa are both said to be the highest station for the followers of the Pramān. as (see below, n. 20 on p. 288). 
+Cf. SvT 10.1174ab, where Tejeśa and Dhruveśa are both said to be the highest station for the followers of the Pramāṇas (see below, n. 20 on p. 288). 
 
 19 Sircar, SI I, 277–279; Bakker 1997, 68; below, p. 494. 
 
@@ -8683,11 +8683,11 @@ Cf. SvT 10.1174ab, where Tejeśa and Dhruveśa are both said to be the highest s
 
 seems to coincide with or to encompass the Vaimala, though Kse. marāja’s com mentary does not make this very clear. 20 So far as to the Lākula division. 
 
-The question now arises: who is this disciple of Lakuleśa, Musulendra or Musula, who initiated a sect designated ‘Mausula’? Evidently we are here concerned with a group within the Pāśupata movement that was chiefly en gaged in ritual (worship) activity, forsaking the more rigorous portion of the Pāśupata praxis. As such it might be a group that stood between the lay Māheśvaras (laukikas) and the tough ascetics with their transgressive prac tices. Unfortunately, none of the Pramān. a texts ascribed by Ks.emarāja to this school has survived and little more information about the sect is known from the later Saiva Siddhānta, which, in view of its ritualistic orientation, in a way ´ may be conceived of as its successor (see below, p. 296). However, the alleged dependence of the Mausula text corpus on the Lākula Pramān. as seems to allow the inference that this sect also ackowledged the hierarchy of Rudra worlds and as such deviated from the Pa˜ncārtha school. 
+The question now arises: who is this disciple of Lakuleśa, Musulendra or Musula, who initiated a sect designated ‘Mausula’? Evidently we are here concerned with a group within the Pāśupata movement that was chiefly en gaged in ritual (worship) activity, forsaking the more rigorous portion of the Pāśupata praxis. As such it might be a group that stood between the lay Māheśvaras (laukikas) and the tough ascetics with their transgressive prac tices. Unfortunately, none of the Pramāṇa texts ascribed by Ks.emarāja to this school has survived and little more information about the sect is known from the later Saiva Siddhānta, which, in view of its ritualistic orientation, in a way ´ may be conceived of as its successor (see below, p. 296). However, the alleged dependence of the Mausula text corpus on the Lākula Pramāṇas seems to allow the inference that this sect also ackowledged the hierarchy of Rudra worlds and as such deviated from the Pa˜ncārtha school. 
 
 20 Ks.emarāja ad Svacchanda 11.73–74ab: 
 
-vaimalapramān. aśāstranis.t.ho hi: 
+vaimalapramāṇaśāstranis.t.ho hi: 
 
 dīks.āj˜nānaviśuddhātmā dehāntam. yāva caryayā | 
 
@@ -8697,17 +8697,17 @@ dīks.āj˜nānaviśuddhātmeti padena proktakriyāpradhānavratamātranis.t.ham
 
 iti k 73 k 
 
-ye tu kapālādyasthivratadhārin. ah. p¯urvoktalākulāmnāyāt — ‘bhasmani śayīta’ [PS 1.3] ityādipāśupataśāstracodanātah.: 
+ye tu kapālādyasthivratadhāriṇah. p¯urvoktalākulāmnāyāt — ‘bhasmani śayīta’ [PS 1.3] ityādipāśupataśāstracodanātah.: 
 
 japabhasmakriyānis.t.hās te vrajanty aiśvaram. padam k 11.74ab k 
 
-For, he who follows the Pramān. a Sāstra and the Vaimala, ´ 
+For, he who follows the Pramāṇa Sāstra and the Vaimala, ´ 
 
 His soul is purified by initiation and knowledge, by (keeping to) the prescribed praxis until death, while abiding by the Kapāla observance—he goes to that station that is his own. [SvT 11.73] 
 
 The quarter-verse ‘His soul is purified by initiation and knowledge’ indicates the dif ference here from the afore-mentioned Mausulas and Kārukas, who are devoted only to observances that are chiefly ritualistic. ‘His own (station)’, that is to say the afore mentioned Tejeśa or Dhruveśa; this has been stated above: 
 
-Tejeśa and Dhruveśa are the highest station (for those who follow) the Pramān. as. [SvT 10.1174] 
+Tejeśa and Dhruveśa are the highest station (for those who follow) the Pramāṇas. [SvT 10.1174] 
 
 But those, (issuing) from the afore-mentioned Lākula stream, who practise the ob servances of bones like the skull (kapāla), on account of injunctions in the Pāśupata Sāstra such as ‘One should lie in ashes’ [PS 1.3], ´ 
 
@@ -8733,11 +8733,11 @@ I present here my edition of 2000, which gave a Sanskrit text that was slightly 
 
 Before discussing this inscription any further, I give the text of that portion of it that is relevant for the present study. This portion starts with the last word on the first plate (second side), line 8, and ends in line 23 on the second plate, second side. 
 
-21 For the early chronology of Daks.in. a Kosala, the Pān. ḍuvam. śa dynasty of Srīpura and ´ the reign of Mahāśivagupta (c. ad 590–650) see Bakker 1994b; above, pp. 235 ff. 
+21 For the early chronology of Daks.iṇa Kosala, the Pān. ḍuvam. śa dynasty of Srīpura and ´ the reign of Mahāśivagupta (c. ad 590–650) see Bakker 1994b; above, pp. 235 ff. 
 
 22 My edition of this inscription in Bakker 2000 was based, in addition to Raykwar and Singh’s edition of 1994, on a draft of a new edition by Ajay Mitra Shastri (Nagpur), which was published in 2001 (cf. Shastri 1995 II, 380 f.). Since then the original edition of Raykwar & Singh has been republished in Raykwar & Singh 2005, 188–192. The inscription was again edited by Susmita Majumdar in 2007. This set of three plates of copper is presently in the collection of Shri Raghunandan Prasad Pandeya (Raykwar & Singh 2005, 188; Majumdar 2007, 285). Shastri, unlike Raykwar and Singh, worked from photographs. Majumdar saw the plates herself and made use of photographs provided by Rahul Kumar Singh (Majumdar 2007, 293 n. 1). The text starts on the verso side of the first plate and comprises altogether 40 lines. 
 
-23 I consider musula/mausula to be a variant of musala/mausala. Cf. Rāmakan. t.ha’s intro duction to Mataṅga 1.1.1 (p. 2) reading: lākulamausalādibhyah.. That we are concerned with an ancient historic tradition seems to be confirmed by grafitti found in the caves at Padan. a Hill (Bombay), reading: sadhamusala (siddhamusala), and twice musaladatta. See Indraji 1881–82; Bakker 1991, 23; Bisschop 2006, 47. The site has been destroyed by building developments. 
+23 I consider musula/mausula to be a variant of musala/mausala. Cf. Rāmakaṇt.ha’s intro duction to Mataṅga 1.1.1 (p. 2) reading: lākulamausalādibhyah.. That we are concerned with an ancient historic tradition seems to be confirmed by grafitti found in the caves at Padaṇa Hill (Bombay), reading: sadhamusala (siddhamusala), and twice musaladatta. See Indraji 1881–82; Bakker 1991, 23; Bisschop 2006, 47. The site has been destroyed by building developments. 
 
 
 
@@ -8751,9 +8751,9 @@ Malhar (Junvānī) Copperplates of Mahāśivagupta, Year 57: ll. 8–23 24
 
 [8] viditam a [9] stu bhavatām. yathāsmābhir ayam. grāmah. sa-kurapadrakah., 
 
-vājasaneyaca [10] ran. ād abhyarthya bhan¯ .d.ag¯ aratulapadrakam ¯ ∗ on.ı-bhogīyam. parivartena dattvā, 
+vājasaneyaca [10] ran. ād abhyarthya bhan¯ .d.ag¯ aratulapadrakam ¯ ∗ oṇı-bhogīyam. parivartena dattvā, 
 
-[11] sam. prati sanidhānah. sopanidhānah. sarvakarādānasametah. sarvapīd. ā [12] vivarjitas sadaśāparādhah. pratis.iddhacāt.abhat.apraveśah. , asyām. [13] mā(gha?)∗∗-paurn. amāsyām, 
+[11] sam. prati sanidhānah. sopanidhānah. sarvakarādānasametah. sarvapīd. ā [12] vivarjitas sadaśāparādhah. pratis.iddhacāt.abhat.apraveśah. , asyām. [13] mā(gha?)∗∗-paurṇamāsyām, 
 
 atraivātmakāritaśrī-bale ¯ śvarabhat.t.araka ¯ -tapo [14] vanapratipālanārtham āropitebhyah.— 
 
@@ -8765,29 +8765,29 @@ adhunā kalikālam āsādya,
 
 śrīmal-lakulīśanatho ¯ ’vatīrya, 
 
-somaśa [17] rmaˆ-khyabrāhman. akule bh¯utvā, 
+somaśa [17] rmaˆ-khyabrāhmaṇakule bh¯utvā, 
 
 mahāvrate (te)na∗∗∗ dīks.ito jagadindus, 
 
 tenāpi [18] mugalisas∗∗∗∗, 
 
-tatah. somādipāram. paryakramen. a, 
+tatah. somādipāram. paryakrameṇa, 
 
 sthāne guru∗∗∗∗∗ śrī-rudrasoma-pra [19] śis.yaśrī-tejasoma-śis.yebhyah. śrīmad-bhīmasoma-pādebhyah. , śis.yapraśis.yān. ām. [20] yāgadīks.āvyākhyānavasatipravartanāya 
 
-bhagnavidīrn. adevakula [21] sam. skr.taye ca | 
+bhagnavidīrṇadevakula [21] sam. skr.taye ca | 
 
-mātāpitror ātmanaś ca pun. yābhivr.ddhaye, 
+mātāpitror ātmanaś ca puṇyābhivr.ddhaye, 
 
 samakālopa [22] bhogārtham ācandratārakārkam, 
 
 udakap¯urvakam. tāmraśāsanena pratipādi [23] ta ity [. . . ] 
 
-∗ Majumdar reads (typo?): bhān. ḍagāra◦. Shastri takes this as the name of two villages: ‘Bhān. d. āgāra may have been Boḍor in the same tahsil (i.e. Mahāsamund tahsil of the Raipur District), and T(¯u)lapadraka may have been a suburb of this locality.’ Their names seem to indicate villages where cotton (t¯ula) was cultivated and stored. 
+∗ Majumdar reads (typo?): bhān. ḍagāra◦. Shastri takes this as the name of two villages: ‘Bhāṇd. āgāra may have been Boḍor in the same tahsil (i.e. Mahāsamund tahsil of the Raipur District), and T(¯u)lapadraka may have been a suburb of this locality.’ Their names seem to indicate villages where cotton (t¯ula) was cultivated and stored. 
 
 ∗∗ Singh, Shastri and Majumdar read māpu◦. 
 
-∗∗∗ Singh, Shastri and Majumdar read: mahāvratena. The emendation mahāvrate tena (hap lography) in Bakker 2000 was proposed by H. Isaacson. In Bakker 2014, 144 this emendation has been again rejected. 
+∗∗∗ Singh, Shastri and Majumdar read: mahāvratena. The emendation mahāvrate tena (hap lography) in Bakker 2000 was proposed by H. IsaacsoṇIn Bakker 2014, 144 this emendation has been again rejected. 
 
 ∗∗∗∗ Majumdar reads mugalisas; Singh and Shastri: ‘mugalisas (?)’. Mugalisa may be a variant/prakritism of Mudgalīśa or Musalīśa. 
 
@@ -8805,13 +8805,13 @@ Let it be known to you that—after we have earlier asked permission of the Vāj
 
 13 / Somaśarman, Somavam. śa and Somasiddhānta 291 
 
-Bhān. d. āgāra-Tulapadraka in the district of On.ī in return—this village (scil. Pāśipadraka) together with Kurapadraka, along with the rights to hidden treasures and deposits, the right to collect all taxes, immunity from all impositions, the right to impose fines for the ten offences, and the exemption from being entered by officials and constables, starting immediately, has been bestowed by us here and now, on the day of full moon of Māgha (?) with the offering of a libation and by (this) copperplate charter, upon the feet of the illustrious Bhīmasoma, for the increase of merit of father, mother and ourselves and to be enjoyed as long as moon, stars and sun will last: 
+Bhāṇd. āgāra-Tulapadraka in the district of On.ī in return—this village (scil. Pāśipadraka) together with Kurapadraka, along with the rights to hidden treasures and deposits, the right to collect all taxes, immunity from all impositions, the right to impose fines for the ten offences, and the exemption from being entered by officials and constables, starting immediately, has been bestowed by us here and now, on the day of full moon of Māgha (?) with the offering of a libation and by (this) copperplate charter, upon the feet of the illustrious Bhīmasoma, for the increase of merit of father, mother and ourselves and to be enjoyed as long as moon, stars and sun will last: 
 
 There are eight embodiments of Siva, the Vigraheśvaras; the embodiments of ´ Gahaneśa are the sixty-six Rudras who bestow grace (initiation) and who roam about in successive yugas. Now the Kali Age has come and Lakulīśanātha has descendeḍHe was born in the family of a brahmin named Somaśarman; after having been initiated by him (i.e. Somaśarman) in the Great Vow he became a moon on earth. 25 And he again (i.e. Lakulīśanātha) initiated Mugalisa. Then, in due succession of the lineage that started with Soma (‘the Moon’), the afore-mentioned Bhīmasoma—the pupil of the illustrious Tejasoma and grand-pupil of the illustrious guru Rudrasoma 26 —has been (justly) raised to the position responsible for the protection of the tapovana attached to the Bāleśvara-bhat.t.āraka (Temple), which has been erected by ourselves. The donation is made to meet the expenses of ceremonies, initiations, teaching and housing of pupils and grand-pupils and to restore the shrines that have fallen into decay and are in need of repair. 
 
 Interpretation 
 
-The inscription is of paramount importance for more than one reason. One of them is that, in addition to the lineage of preceptors, it gives doctrinal arguments to legitimize the claims of the recipient Bhīmasoma. These doctrinal arguments should be compared with what we know of Pāśupata theology. In order to follow the param. parā of teachers back to Siva himself, the text refers ´ first to the latter’s eight forms that are designated ‘Vigraheśvaras’. As we have seen above, Vigraheśvara is, according to one tradition, 27 the name of the deity who stands at the apex of our cosmos, in the granthi, where it borders on the Pure Universe. There he is surrounded by eight Rudras, four of whom bear names that mark the As.t.am¯urti according to Kaus.ītaki Brāhman. a 6.2–3. Just 
+The inscription is of paramount importance for more than one reasoṇOne of them is that, in addition to the lineage of preceptors, it gives doctrinal arguments to legitimize the claims of the recipient Bhīmasoma. These doctrinal arguments should be compared with what we know of Pāśupata theology. In order to follow the param. parā of teachers back to Siva himself, the text refers ´ first to the latter’s eight forms that are designated ‘Vigraheśvaras’. As we have seen above, Vigraheśvara is, according to one tradition, 27 the name of the deity who stands at the apex of our cosmos, in the granthi, where it borders on the Pure Universe. There he is surrounded by eight Rudras, four of whom bear names that mark the As.t.am¯urti according to Kaus.ītaki Brāhmaṇa 6.2–3. Just 
 
 25 Having reconsidered the issue, I have accepted the reading of the epigraph in my 2014 publication, against the emendation accepted in Bakker 2000 (reproduced here). This has led to a new interpretation in Bakker 2014, 144: 
 
@@ -8831,7 +8831,7 @@ Consecrated by the Great Vow (Mahāvrata), He (i.e. Lakulīśanātha) became a �
 
 like Rudra, the (grand)son of Prajāpati, through his eight forms, is the actual manifestation of God in the created cosmos, sometimes represented as the divine child, 28 so, it seems, is Siva in his eightfold form of Vigraheśvara (‘the ´ Lord of Form’) considered the fountain-head of our universe in the theology underlying the inscription at issue. Then the inscription mentions Gahaneśa (‘the Lord of the Abyss’), the Rudra who rules the lowest world of the Māyā Reality in the sub-barrier layer, directly above the ‘abyss’ or ‘net of bonds’, the material worlḍHe is said to roam about in sixty-six embodiments in successive yugas and Lakulīśa is just the last of these incarnations in the present Kaliyuga. 
 
-In a letter already mentioned (see above, n. 7 on p. 285) Professor Alexis Sanderson brought an unpublished text to my notice, the Jayadrathayāmala (JRY), which belongs to the (later) Bhairava scriptures of Agamic Saivism. Sanderson kindly placed at my disposal a portion of the edition he made of this text (4.449–460), based on a ms in the National Archives in Kathmandu. 29 He drew my attention to the fact that this text describes the sixty-six em bodiments as ‘the Bhavas who reside in the sixty-six Māna (i.e. Pramān. a) [worlds]’. 30 These embodiments or manifestations are divided into two lines of gurus (gurupaṅktis), a set of twenty-eight Sivas and one of thirty-eight Rudras, ´ which are associated with different levels of Saiva teaching. The first set, which ´ begins with Sveta and of which the last two gurus are Someśa and Lakulīśa, ´ is said to bestow both exegesis of the scriptures and, occasionally, initiation, following the division of the Pramān. aj˜nāna. 31 The second line of thirty-eight Rudras, which begins with Vareśvara and ends with Vas.at.kāra, is said to be authorized to granting initiation and is described as propounding the teachings of Bhairava. 32 It may be that the Pāśupata ascetic Udbhavarāśi, who is known 
+In a letter already mentioned (see above, n. 7 on p. 285) Professor Alexis Sanderson brought an unpublished text to my notice, the Jayadrathayāmala (JRY), which belongs to the (later) Bhairava scriptures of Agamic Saivism. Sanderson kindly placed at my disposal a portion of the edition he made of this text (4.449–460), based on a ms in the National Archives in Kathmandu. 29 He drew my attention to the fact that this text describes the sixty-six em bodiments as ‘the Bhavas who reside in the sixty-six Māna (i.e. Pramāṇa) [worlds]’. 30 These embodiments or manifestations are divided into two lines of gurus (gurupaṅktis), a set of twenty-eight Sivas and one of thirty-eight Rudras, ´ which are associated with different levels of Saiva teaching. The first set, which ´ begins with Sveta and of which the last two gurus are Someśa and Lakulīśa, ´ is said to bestow both exegesis of the scriptures and, occasionally, initiation, following the division of the Pramāṇaj˜nāna. 31 The second line of thirty-eight Rudras, which begins with Vareśvara and ends with Vas.at.kāra, is said to be authorized to granting initiation and is described as propounding the teachings of Bhairava. 32 It may be that the Pāśupata ascetic Udbhavarāśi, who is known 
 
 28 See Bakker 1996, 9 ff., above, p. 197. Cf. the Srīp¯urvaśāstra ´ (5.28-29), referred to by Ks.emarāja (see above, n. 8 on p. 285), which assigns eight deities (īśvarās.t.a) to this reality, forming a man. ḍala of the size of a thumb and headed by Mahādeva, the first of the As.t.am¯urti. 
 
@@ -8839,7 +8839,7 @@ In a letter already mentioned (see above, n. 7 on p. 285) Professor Alexis Sande
 
 30 JRY 4.449 (edition A. Sanderson): 
 
-adhunā g¯uḍhanirg¯uḍhān paṅktiyugmagatā˜n śr.n. u | 
+adhunā g¯uḍhanirg¯uḍhān paṅktiyugmagatā˜n śr.ṇu | 
 
 śvetādivas.atkārāntān bhavān s.at.s.as.t.imānagān k 449 k 
 
@@ -8847,7 +8847,7 @@ adhunā g¯uḍhanirg¯uḍhān paṅktiyugmagatā˜n śr.n. u |
 
 someśo lakulīśaś ca hy as.t.āvim. śaty amī śivāh. | 
 
-vyākhyānānugrahakarāh. pramān. aj˜nānabhedatah. k 4.453 k 
+vyākhyānānugrahakarāh. pramāṇaj˜nānabhedatah. k 4.453 k 
 
 prāsaṅgikī tv asau tes.ām. sadyo ’nugrahakāritā | 
 
@@ -8861,7 +8861,7 @@ sadyonugrahakartr.tve tasyā devy adhikāritā | [. . . ]
 
 vaus.at.kāro vas.at.kārah. kathitās tu gur¯uttamāh. | 
 
-bhairavāptapravaktārah. svādhah. sthānagatān. uśah. k 4.459 k 
+bhairavāptapravaktārah. svādhah. sthānagatāṇuśah. k 4.459 k 
 
 
 
@@ -8879,11 +8879,11 @@ Lakulīśanātha, unlike Somaśarman, is explicitly said in the inscription to b
 
 Somaśarman and the Somasiddhanta ¯ 
 
-Here, however, we encounter a difficulty. Though Bhīmasoma and his predeces sors no doubt belonged to the Pāśupata fold, the designation ‘Mausula’ does not occur in the inscription. With the Mausulas these ācāryas may have in common, it would seem, that they were engaged with ceremonies (kriyā) and worship rather than with ascetic practices, though they were in charge of the tapovana attached to the Bāleśvara-bhat.t.āraka Temple in Srīpura. But how ´ do we explain that their names end in soma? On account of these names I have argued (Bakker 2000a, 1159) that these ācāryas probably belonged to the Pāśupata sect known as Somasiddhānta, a sect that hardly, if at all, features in Agamic literature where it is concerned with the Atimārga, but which in later sources is often equated with the Kāpālikas. 34 Pāśupata ascetics whose names 
+Here, however, we encounter a difficulty. Though Bhīmasoma and his predeces sors no doubt belonged to the Pāśupata fold, the designation ‘Mausula’ does not occur in the inscriptioṇWith the Mausulas these ācāryas may have in common, it would seem, that they were engaged with ceremonies (kriyā) and worship rather than with ascetic practices, though they were in charge of the tapovana attached to the Bāleśvara-bhat.t.āraka Temple in Srīpura. But how ´ do we explain that their names end in soma? On account of these names I have argued (Bakker 2000a, 1159) that these ācāryas probably belonged to the Pāśupata sect known as Somasiddhānta, a sect that hardly, if at all, features in Agamic literature where it is concerned with the Atimārga, but which in later sources is often equated with the Kāpālikas. 34 Pāśupata ascetics whose names 
 
 33 From this evidence we may infer that a distinct Bhairava tradition within Saivism was acknowledged by the middle of the 7th century; it would seem, however, that Bhīmasoma did not himself belong to this tradition, since he affiliates himself to the first lineage of ‘Sivas’. ´ 
 
-34 In the play Prabodhacandrodaya by Kr.s.n. amiśra (c. ad 1050–1100), the doctrine of the Somasiddhānta is identified with that of the Kāpālikas (Handiqui 1965, 640–645). Fur ther see Lorenzen 1991, 82 ff., 215 ff.; Pathak 1960, 25. Alexis Sanderson pointed out to me that the Kapālin Satyasoma and his companion Devasomā feature in the Matta vilāsaprahasana of the Pallava king Mahendravikramavarman (cf. Lorenzen 1991, 53). 
+34 In the play Prabodhacandrodaya by Kr.s.ṇamiśra (c. ad 1050–1100), the doctrine of the Somasiddhānta is identified with that of the Kāpālikas (Handiqui 1965, 640–645). Fur ther see Lorenzen 1991, 82 ff., 215 ff.; Pathak 1960, 25. Alexis Sanderson pointed out to me that the Kapālin Satyasoma and his companion Devasomā feature in the Matta vilāsaprahasana of the Pallava king Mahendravikramavarman (cf. Lorenzen 1991, 53). 
 
 
 
@@ -8895,15 +8895,15 @@ Here, however, we encounter a difficulty. Though Bhīmasoma and his predeces sor
 
 end in soma are known from several inscriptions in which they are said to be engaged in the Mahāvrata, the observance in which, according to the Malhar inscription, Lakulīśa was initiated. 35 Consequently, another question arises: who was Somaśarman? 
 
-The name Somaśarman was already known from the Vāyu◦ and Liṅgapurān. as and he is evidently the same as the Someśa named in the Jayadrathayāmala as Lakulīśa’s predecessor (see above, p. 293). These Purān. as describe him as the 27th incarnation of Siva, born in Prabhāsatīrtha, ´ a holy place in Saurashtra near the Arabian Sea, famous for its Somanātha Temple, an assignment that makes the impression of being secondary. 36 The legend told in the Malhar Plates, however, is apparently somewhat different. It says that Lakulīśanātha was born in the brahmin family of Somaśarman, who therefore may have been a senior contemporary of his. Moreover, Lakulīśa is said to have been initiated by this Somaśarman in the Mahāvrata and so became the ‘Moon on Earth’. 37 
+The name Somaśarman was already known from the Vāyu◦ and Liṅgapurāṇas and he is evidently the same as the Someśa named in the Jayadrathayāmala as Lakulīśa’s predecessor (see above, p. 293). These Purāṇas describe him as the 27th incarnation of Siva, born in Prabhāsatīrtha, ´ a holy place in Saurashtra near the Arabian Sea, famous for its Somanātha Temple, an assignment that makes the impression of being secondary. 36 The legend told in the Malhar Plates, however, is apparently somewhat different. It says that Lakulīśanātha was born in the brahmin family of Somaśarman, who therefore may have been a senior contemporary of his. Moreover, Lakulīśa is said to have been initiated by this Somaśarman in the Mahāvrata and so became the ‘Moon on Earth’. 37 
 
 Somaśarman and his family (kula) thus appear, in the religious imagination of the believer, to have been the House (śarman) from which the Moon (soma) rose over the world (jagadindu). The play of words may allude to ‘Soma’ as a name of Siva and the transfiguration undergone by Lakulīśa in the initiation ´ ritual, which, when he underwent the anointment with ashes, made him shine like the moon. 
 
 The evidence of the Skandapuran¯ .a 
 
-The tradition recorded in the inscription seems also to have been known to the author(s) of the original Skandapurān. a (SP). This text, too, places 
+The tradition recorded in the inscription seems also to have been known to the author(s) of the original Skandapurāṇa (SP). This text, too, places 
 
-35 Alexis Sanderson kindly provided me with the following information. The Indargarh Pāśupata stone inscription of ad 710–11 was engraved by a Mahāvratin with the name Cāmun. ḍasoma (Journal of the Bihar Research Society 1955, 249–261). A Mahāvratin Somibhat.t.āraka/ Sobadeva of the Kolanupākā inscription of ad 1050 is described as proficient in expounding the Somasiddhānta (Select Epigraphs of Andhra Padesh No.4). Two inscriptions of the time of the Cola king Rājādhirāja II (Nos. 403 of 1896 and 206 of 1912 of the Madras Epigraphical Collection), mention a Somasiddhāntin, though ‘soma’ is not affixed to his name: Vāgīśabhat.t.a (EI XXVII (1947–48), 297 f.). The predecessors of this and other priests associated with the Tiruvorriyur Temple, ‘five hundred Brˆahman. a Mahˆavratins’, were, according to the account of the Sthalapurān. a, ‘brought from the banks of the Ganges’ (EI XXVII, 300 n. 1). See also Bakker 2014, 149 f. for ◦Soma priests belonging to the Mun. ḍa–Sr ´.ṅkhalika Pāśupatas serving at the Paśupatinātha Temple in Nepal. 
+35 Alexis Sanderson kindly provided me with the following informatioṇThe Indargarh Pāśupata stone inscription of ad 710–11 was engraved by a Mahāvratin with the name Cāmun. ḍasoma (Journal of the Bihar Research Society 1955, 249–261). A Mahāvratin Somibhat.t.āraka/ Sobadeva of the Kolanupākā inscription of ad 1050 is described as proficient in expounding the Somasiddhānta (Select Epigraphs of Andhra Padesh No.4). Two inscriptions of the time of the Cola king Rājādhirāja II (Nos. 403 of 1896 and 206 of 1912 of the Madras Epigraphical Collection), mention a Somasiddhāntin, though ‘soma’ is not affixed to his name: Vāgīśabhat.t.a (EI XXVII (1947–48), 297 f.). The predecessors of this and other priests associated with the Tiruvorriyur Temple, ‘five hundred Brˆahmaṇa Mahˆavratins’, were, according to the account of the Sthalapurāṇa, ‘brought from the banks of the Ganges’ (EI XXVII, 300 n. 1). See also Bakker 2014, 149 f. for ◦Soma priests belonging to the Mun. ḍa–Sr ´.ṅkhalika Pāśupatas serving at the Paśupatinātha Temple in Nepal. 
 
 36 VāP 23.214–217; LiP 1.24.120–124. Another feature that makes the impression of being secondary is that Aks.apāda (=Gautama?), Kumāra (or Kan. āda), Ul¯uka and Vatsa are mentioned as his pupils. Dviveda 1982 remarks about him: ‘Prabhāsatīrtham āsādya somaśarmā prādurbh¯utah. | nāsti pāt.hāntaram atra | .’ 
 
@@ -8917,11 +8917,11 @@ The tradition recorded in the inscription seems also to have been known to the a
 
 13 / Somaśarman, Somavam. śa and Somasiddhānta 295 
 
-Somaśarman in the Kali Age and he and his family are said to have been the first ones blessed with Lakulīśa’s grace; the text apparently implies that the latter was born in Somaśarman’s, i.e., Atri’s House. The spot where the incarnation took place is called Kārohan. a. 38 The relevant passage reads: 
+Somaśarman in the Kali Age and he and his family are said to have been the first ones blessed with Lakulīśa’s grace; the text apparently implies that the latter was born in Somaśarman’s, i.e., Atri’s House. The spot where the incarnation took place is called Kārohaṇa. 38 The relevant passage reads: 
 
 And God, the Lord of the gods, who is possessed of supreme sovereignty, after having assumed a white-bodied form (i.e. a body like that of the moon), went to the auspicious House of Atri, (that is to say, he went to the house of a man) named Somaśarman, who was born in the lineage of Atri. That lord, i.e. Sam ´ . kara, blessed/initiated that brahman-knowing brahmin belonging to Atri’s lineage to gether with his (whole) family by bestowing upon him perfection in yoga. There upon, after he had initiated this excellent brahmin and his family, O Vyāsa, God went to Ujjayanī (Ujjain) and entered the cremation grounḍThere the bull bannered God took a bath in ashes, took a torch in his left hand and sat down (in meditation). 39 
 
-In Ujjain the God-man accepted Kauśika as his first disciple, 40 and then this ‘white-bodied’ or moon-like incarnation went to Jamb¯umārga, Mathurā and Kanyakubja, where he initiated Gārgya, Mitra and a fourth person who is only said to have been born in a good gotra in the Country of the Kurus, whose name may have become Kaurus.(y)a (SPS 167.122–123). Then the Lord, here named Lāguḍi, taught them his own doctrine (svasiddhānta), known as ‘Pa˜ncārtha’, which, as the Skandapurān. a suggests, was different from the doctrine of his se nior, the blessed Somaśarman. 41 I take this as an indication that the author(s) of the Skandapurān. a belonged to circles that were closer to the Lākula than to the Mausula division. 
+In Ujjain the God-man accepted Kauśika as his first disciple, 40 and then this ‘white-bodied’ or moon-like incarnation went to Jamb¯umārga, Mathurā and Kanyakubja, where he initiated Gārgya, Mitra and a fourth person who is only said to have been born in a good gotra in the Country of the Kurus, whose name may have become Kaurus.(y)a (SPS 167.122–123). Then the Lord, here named Lāguḍi, taught them his own doctrine (svasiddhānta), known as ‘Pa˜ncārtha’, which, as the Skandapurāṇa suggests, was different from the doctrine of his se nior, the blessed Somaśarman. 41 I take this as an indication that the author(s) of the Skandapurāṇa belonged to circles that were closer to the Lākula than to the Mausula division. 
 
 38 Cf. Kaun. ḍinya ad Pāśupatas¯utra 1.1 (p. 3); Hara 1967, 157 n. 1. 
 
@@ -8929,7 +8929,7 @@ In Ujjain the God-man accepted Kauśika as his first disciple, 40 and then this 
 
 bhagavān api deveśah. paramaiśvaryasam. yutah. | 
 
-atrivam. śapras¯utasya nāmnā vai somaśarman.ah. | 
+atrivam. śapras¯utasya nāmnā vai somaśarmaṇah. | 
 
 r¯upam. kr.tvā sitāṅgam. tu jagāmātrigr.ham. śubham k 124 k 
 
@@ -8941,7 +8941,7 @@ anugr.hya tadā vyāsa sakulam. dvijasattamam |
 
 jagāmojjayanīm. devah. śmaśānam. ca viveśa ha k 126 k 
 
-sa tatra bhasmanātmānam avagun. t.hya vr. s.adhvajah. | 
+sa tatra bhasmanātmānam avaguṇt.hya vr. s.adhvajah. | 
 
 ulmukam. vāmahastena gr.hītvā samupāviśat k 127 k 
 
@@ -8971,13 +8971,13 @@ anayā dīks.ayā viprān prāpayadhvam. param. padam k 130 k
 
 Somaśarman, Somavam. śa and Somasiddhanta ¯ 
 
-When we return to the Junvānī inscription and combine its evidence with that of the Skandapurān. a, we may say that there evidently was a tradition within the Pāśupata fold that recognized a, what we may call ‘Pāśupata milieu’ be fore the appearance of Lakulīśa. Somaśarman belonged to this milieu. In the Pā˜ncārthika-Pāśupata context he was mostly either ignored, or relegated to a previous yuga by being promoted to an avatāra of Siva himself. Both ´ our sources, however, the inscription and the Skandapurān. a, emphasize that, though they recognize Somaśarman as a patriarch, Somaśarman is not an in carnation, and he or his tradition derived legitimacy only from the belief that Lakulīśa was born in or resorted to his House. According to the Skandapurān. a, Somaśarman himself was favoured with initiation by Lakulīśa, according to the inscription it was the other way round, 42 but, the inscription adds, the lineage of Bhīmasoma, received its ‘certificate of divinity’ through Mugalisa, who was initiated by the incarnated Siva himself. ´ 
+When we return to the Junvānī inscription and combine its evidence with that of the Skandapurāṇa, we may say that there evidently was a tradition within the Pāśupata fold that recognized a, what we may call ‘Pāśupata milieu’ be fore the appearance of Lakulīśa. Somaśarman belonged to this milieu. In the Pā˜ncārthika-Pāśupata context he was mostly either ignored, or relegated to a previous yuga by being promoted to an avatāra of Siva himself. Both ´ our sources, however, the inscription and the Skandapurāṇa, emphasize that, though they recognize Somaśarman as a patriarch, Somaśarman is not an in carnation, and he or his tradition derived legitimacy only from the belief that Lakulīśa was born in or resorted to his House. According to the Skandapurāṇa, Somaśarman himself was favoured with initiation by Lakulīśa, according to the inscription it was the other way round, 42 but, the inscription adds, the lineage of Bhīmasoma, received its ‘certificate of divinity’ through Mugalisa, who was initiated by the incarnated Siva himself. ´ 
 
-The combined evidence of both sources thus seems to suggest that there ex isted an early Saiva tradition that, on the one hand, recognized the uniqueness ´ of Lakulīśa’s incarnation, but that, on the other hand, distanced itself from the Pā˜ncārthika and Lākula divisions. In its initial stage this tradition, or one strand of it, may have been named after its putative preceptor: ‘Mausula’. In the course of time other groups may have been assimilated, and gradually a distinct theology and praxis may have been developed, which became known as the Somasiddhānta, thus preserving a reference to a distant saint who was hal lowed as its founder, Somaśarman. Part of this tradition, again, may eventually have merged with groups that produced the Bhairava texts such as the Jayad rathayāmala, that is to say, became indistinguishable from the Kāpālikas. 43 Others may have joined the Saiva Siddhānta, of which a ´ mat.hikā was attached to the very same temple complex of Bāleśvara-bhat.t.āraka in Srīpura. ´ 44 
+The combined evidence of both sources thus seems to suggest that there ex isted an early Saiva tradition that, on the one hand, recognized the uniqueness ´ of Lakulīśa’s incarnation, but that, on the other hand, distanced itself from the Pā˜ncārthika and Lākula divisions. In its initial stage this tradition, or one strand of it, may have been named after its putative preceptor: ‘Mausula’. In the course of time other groups may have been assimilated, and gradually a distinct theology and praxis may have been developed, which became known as the Somasiddhānta, thus preserving a reference to a distant saint who was hal lowed as its founder, SomaśarmaṇPart of this tradition, again, may eventually have merged with groups that produced the Bhairava texts such as the Jayad rathayāmala, that is to say, became indistinguishable from the Kāpālikas. 43 Others may have joined the Saiva Siddhānta, of which a ´ mat.hikā was attached to the very same temple complex of Bāleśvara-bhat.t.āraka in Srīpura. ´ 44 
 
 42 This clause is no longer valid according my 2014 interpretation; above, p. 290. 43 Sanderson 1988, 668. 
 
-44 A hoard of nine copperplate grants of Mahāśivagupta Bālārjuna was found in Sirpur (Shastri 1995 II, 376–379; see also Shastri 1992a and Shastri 2001). These nine charters have been edited and published by Rahul Kumar Singh in Raykwar & Singh 2005, 196–217. It appears that in this Sirpur hoard there are altogether seven charters that record grants made to Saiva ´ ācāryas said to issue from Nandapura, but who were living in this mat.hikā in Srīpura. The lineage of these ´ ācāryas should therefore been seen as a subbranch of the Nandapur one; it can be reconstructed from these grants: 1) śaivācārya Aghoraśiva, 2) bhagavatpāda Dīrghaśiva, 3) bhagavatpāda Vyāpaśiva, and 4) sthānaguru Astraśiva. All the donations were made to meet the expenses on repairs, daily worship and musical performances. From these inscriptions and the names of the Saiva ´ ācāryas ending in śiva it becomes clear that the Saiva Siddhānta was firmly ´ established in Daks.in. a Kosala, at least from the second half of the 6th century onwards. The original headquarters may have been in Nandapura, a place not properly identified, but probably an administrative division within the Pān. ḍava Kingdom. The charters of the Sirpur hoard and their significance for our understanding of the Bāleśvara-bhat.t.āraka Temple complex in Sirpur have been evaluated in Bosma 2018, 75–87. 
+44 A hoard of nine copperplate grants of Mahāśivagupta Bālārjuna was found in Sirpur (Shastri 1995 II, 376–379; see also Shastri 1992a and Shastri 2001). These nine charters have been edited and published by Rahul Kumar Singh in Raykwar & Singh 2005, 196–217. It appears that in this Sirpur hoard there are altogether seven charters that record grants made to Saiva ´ ācāryas said to issue from Nandapura, but who were living in this mat.hikā in Srīpura. The lineage of these ´ ācāryas should therefore been seen as a subbranch of the Nandapur one; it can be reconstructed from these grants: 1) śaivācārya Aghoraśiva, 2) bhagavatpāda Dīrghaśiva, 3) bhagavatpāda Vyāpaśiva, and 4) sthānaguru Astraśiva. All the donations were made to meet the expenses on repairs, daily worship and musical performances. From these inscriptions and the names of the Saiva ´ ācāryas ending in śiva it becomes clear that the Saiva Siddhānta was firmly ´ established in Daks.iṇa Kosala, at least from the second half of the 6th century onwards. The original headquarters may have been in Nandapura, a place not properly identified, but probably an administrative division within the Pān. ḍava Kingdom. The charters of the Sirpur hoard and their significance for our understanding of the Bāleśvara-bhat.t.āraka Temple complex in Sirpur have been evaluated in Bosma 2018, 75–87. 
 
 
 
@@ -8987,19 +8987,19 @@ The combined evidence of both sources thus seems to suggest that there ex isted 
 
 13 / Somaśarman, Somavam. śa and Somasiddhānta 297 
 
-The Skandapurān. a goes a step further in its mystification of the origins by affiliating Somaśarman to the lineage of Atri, the father of the Moon, that is to the Lunar Race, the Somavam. śa. 45 There are indications that this powerful symbolism was not lost on the rulers of Daks.in. a Kosala. It can hardly be coincidence that the Junvānī inscription is a charter issued by a king who proclaims to belong to the Somavam. śa. 46 After the theological and legendary superstructure, the actual param. parā of Bhīmasoma is said to begin with Soma, thus creating, possibly intentionally, a profound ambiguity: Soma who? Soma that is Siva, Soma that is the son of Atri, the Moon, Soma that is Somaśarman, ´ Soma that is Jagadindu (i.e. Lakulīśanātha), or just a preceptor named Soma who lived long after the times of Lakulīśa and Mugalisa, but who happened to start a tradition of ascetic teachers within the Pāśupata fold? 
+The Skandapurāṇa goes a step further in its mystification of the origins by affiliating Somaśarman to the lineage of Atri, the father of the Moon, that is to the Lunar Race, the Somavam. śa. 45 There are indications that this powerful symbolism was not lost on the rulers of Daks.iṇa Kosala. It can hardly be coincidence that the Junvānī inscription is a charter issued by a king who proclaims to belong to the Somavam. śa. 46 After the theological and legendary superstructure, the actual param. parā of Bhīmasoma is said to begin with Soma, thus creating, possibly intentionally, a profound ambiguity: Soma who? Soma that is Siva, Soma that is the son of Atri, the Moon, Soma that is Somaśarman, ´ Soma that is Jagadindu (i.e. Lakulīśanātha), or just a preceptor named Soma who lived long after the times of Lakulīśa and Mugalisa, but who happened to start a tradition of ascetic teachers within the Pāśupata fold? 
 
-The intimate relationship of the royal Soma dynasty with this particular branch of Pāśupatas may thus have been endorsed by an ideology according to which both claimed descent from Soma—the dynastic one from Soma, the son of Atri, the sectarian one from the ‘Moon on Earth’ that appeared in the family of Somaśarman, that is in the House of the Moon. This House may therefore have been conceived by the mythmakers of the time as the joint cradle of two lineages: a worldly one culminating in Mahāśivagupta, the Somavam. śin king of Kosala, and a religious one headed by Bhīmasoma, an ācārya living in the temple complex founded and patronized by his royal counterpart. 
+The intimate relationship of the royal Soma dynasty with this particular branch of Pāśupatas may thus have been endorsed by an ideology according to which both claimed descent from Soma—the dynastic one from Soma, the son of Atri, the sectarian one from the ‘Moon on Earth’ that appeared in the family of Somaśarman, that is in the House of the MooṇThis House may therefore have been conceived by the mythmakers of the time as the joint cradle of two lineages: a worldly one culminating in Mahāśivagupta, the Somavam. śin king of Kosala, and a religious one headed by Bhīmasoma, an ācārya living in the temple complex founded and patronized by his royal counterpart. 
 
-45 That this tradition was not completely obliterated in later centuries, but locally survived well into the second millennium is shown by the Kāravan. amāhātmya. This late text sings the greatness of the Kārohan. a tīrtha, which is unanimously identified with the village Karvan c. 30 km north of Baroda (D.R. Bhandarkar 1906–07; Lorenzen 1991, 177). We encounter the following pedigree of Siva’s incarnation in the fourth ´ adhyāya of this far from homogeneous text, spoken by Mahādeva (edition in Dalal 1920, 51): 
+45 That this tradition was not completely obliterated in later centuries, but locally survived well into the second millennium is shown by the Kāravaṇamāhātmya. This late text sings the greatness of the Kārohaṇa tīrtha, which is unanimously identified with the village Karvan c. 30 km north of Baroda (D.R. Bhandarkar 1906–07; Lorenzen 1991, 177). We encounter the following pedigree of Siva’s incarnation in the fourth ´ adhyāya of this far from homogeneous text, spoken by Mahādeva (edition in Dalal 1920, 51): 
 
-kāyāvarohan. e pun. ye tīrthe tīrthavarottame | 
+kāyāvarohaṇe puṇye tīrthe tīrthavarottame | 
 
-bhr.guks.etrapavitrārtham avatīrn. o yuge yuge k 
+bhr.guks.etrapavitrārtham avatīrṇo yuge yuge k 
 
 ādikalpāvasāne tu brahmakalpe purātane | 
 
-brahman. o manasah. putro atrināmā ca viśrutah. k 
+brahmaṇo manasah. putro atrināmā ca viśrutah. k 
 
 atris tu janayāmāsa ātreyam. nāma nāmatah. | 
 

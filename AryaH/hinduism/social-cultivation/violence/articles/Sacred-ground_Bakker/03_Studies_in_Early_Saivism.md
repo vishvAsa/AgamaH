@@ -19,9 +19,9 @@ Siva Caturmukha ´
 
 The myth of Tilottamā 
 
-In chapter 203 of the Adiparvan ¯ of the Mahābhārata we are told that, in order to kill the Asuras Sunda and Upasunda, who could only be killed by each other, Viśvakarman, ordered by Brahmā, creates a woman of unparallelled beauty. The Grandfather tells her to go to the two demons and to seduce them in order that they may kill one and other in their rivalry over her. This beauty, named Tilottamā, promises to do so and takes her leave of the gods by making a circumambulation. Among those gods is Bhagavat Maheśvara, who sits to the south (scil. of Brahmā) with his face turned east, whereas the gods sit to the north (of him) and the r. s.is all around (see below Textual Sources No. 2 (TS 2) v. 21). Only Indra and Bhagavat Sthān. u (i.e. Maheśvara) are able to preserve their composure, but the latter’s excessive desire to watch her (dras.t.u kāmasya cātyartham. ) leads to the coming forth of three more faces (mukha), one directed towards the south, which is possessed of curling lashes (a˜ncita paks.māntam), one to the west and one to the north, the latter two not further qualified (TS 2 vv. 22–24). In this way Sthān. u Mahādeva became four-faced (caturmukhah.). Indra, on the other hand, issues forth eyes on all sides up to a thousand (TS 2 vv. 25–26). 
+In chapter 203 of the Adiparvan ¯ of the Mahābhārata we are told that, in order to kill the Asuras Sunda and Upasunda, who could only be killed by each other, Viśvakarman, ordered by Brahmā, creates a woman of unparallelled beauty. The Grandfather tells her to go to the two demons and to seduce them in order that they may kill one and other in their rivalry over her. This beauty, named Tilottamā, promises to do so and takes her leave of the gods by making a circumambulatioṇAmong those gods is Bhagavat Maheśvara, who sits to the south (scil. of Brahmā) with his face turned east, whereas the gods sit to the north (of him) and the r. s.is all around (see below Textual Sources No. 2 (TS 2) v. 21). Only Indra and Bhagavat Sthāṇu (i.e. Maheśvara) are able to preserve their composure, but the latter’s excessive desire to watch her (dras.t.u kāmasya cātyartham. ) leads to the coming forth of three more faces (mukha), one directed towards the south, which is possessed of curling lashes (a˜ncita paks.māntam), one to the west and one to the north, the latter two not further qualified (TS 2 vv. 22–24). In this way Sthāṇu Mahādeva became four-faced (caturmukhah.). Indra, on the other hand, issues forth eyes on all sides up to a thousand (TS 2 vv. 25–26). 
 
-The curling eyelashes apart, the myth in this form does not yet refer to dif ferent aspects of Siva that are represented by these faces, but his qualification ´ of ‘Post’ (sthān. u) may hint at his ithyphallic nature. That the appellation ‘Sthān. u’ may have a phallic connotation emerges from the ambiguous and rather obscure nirukti in MBh 7.173.92 (TS 5 v. 92): ‘Because he burns (/de stroys) when standing erect, and, because his standing (erect) is the arising of the vital breath, and, because his phallus is always standing, therefore is he known as “Post”.’ 1 
+The curling eyelashes apart, the myth in this form does not yet refer to dif ferent aspects of Siva that are represented by these faces, but his qualification ´ of ‘Post’ (sthāṇu) may hint at his ithyphallic nature. That the appellation ‘Sthāṇu’ may have a phallic connotation emerges from the ambiguous and rather obscure nirukti in MBh 7.173.92 (TS 5 v. 92): ‘Because he burns (/de stroys) when standing erect, and, because his standing (erect) is the arising of the vital breath, and, because his phallus is always standing, therefore is he known as “Post”.’ 1 
 
 The myth of Tilottamā is taken up in the Anuśāsanaparvan, where signif icant iconographic features are addeḍAn allusion to his ithyphallic nature 
 
@@ -43,13 +43,13 @@ is absent here. Instead it is explained how Siva assumed a quadruple form ´ (ca
 
 Wherever she with beautiful teeth (i.e. Tilottamā) came into my vicinity, there, O Goddess, emerged a lovely head of mine. Wishing to watch her, I assumed a quadruple form with the help of yoga. Having become four-faced, while showing my own yoga, I exercise sovereignty (indratva) with my eastern face, with my northern one I sport (ramāmi) with you, O blameless one (Umā); my western face is gentle (saumya) and conveys happiness to all living beings; my southern face, which has a terrifying appearance and is fierce (raudra), destroys the creatures. 
 
-Translating this description into iconography, we may tentatively infer that the main head, which faces east, has the stern countenance of the yogin, that the southern face expresses the ferocious (ugra) aspect, that the northern face ex presses delight(√ ram), whereas the western benevolent (saumya) face, which bestows happiness to the world, may have, by virtue of this function, a regal appearance, which may be symbolized by the turban (us.n.īs.a), although the text does not explicitly specify this headgear. The Mahābhārata text seems to assign these four aspects—asceticism (yogin), ferociousness (ugra/raudra), benevolence (saumya) towards the world (i.e. us.n.īs.in), and delight—to an an thropomorphic form of Siva Maheśvara, who describes himself further as pos- ´ sessed of matted hair (jat.ila), celibate (brahmacārin), with the Pināka bow in his hand, and with a lustrous throat, śrīkan. t.ha (TS 7 vv. 7–8). It is this quartet of aspects that seems to underly, admittedly with some variations, the early sculptural representations of Siva, no matter whether we are concerned with a ´ caturmukhaliṅga (aniconic) or with an anthropomorphic image. This may be illustrated by some early examples. 
+Translating this description into iconography, we may tentatively infer that the main head, which faces east, has the stern countenance of the yogin, that the southern face expresses the ferocious (ugra) aspect, that the northern face ex presses delight(√ ram), whereas the western benevolent (saumya) face, which bestows happiness to the world, may have, by virtue of this function, a regal appearance, which may be symbolized by the turban (us.n.īs.a), although the text does not explicitly specify this headgear. The Mahābhārata text seems to assign these four aspects—asceticism (yogin), ferociousness (ugra/raudra), benevolence (saumya) towards the world (i.e. us.n.īs.in), and delight—to an an thropomorphic form of Siva Maheśvara, who describes himself further as pos- ´ sessed of matted hair (jat.ila), celibate (brahmacārin), with the Pināka bow in his hand, and with a lustrous throat, śrīkaṇt.ha (TS 7 vv. 7–8). It is this quartet of aspects that seems to underly, admittedly with some variations, the early sculptural representations of Siva, no matter whether we are concerned with a ´ caturmukhaliṅga (aniconic) or with an anthropomorphic image. This may be illustrated by some early examples. 
 
 Images of Siva in his quadruple form ´ 
 
 In the statue found in Bhita, datable around the beginning of the Common Era, 2 Siva’s main characteristic, viz. his ascetic, i.e. ´ yogin nature, is repre sented by the central anthropomorphic figure, who is provided with matted locks (jat.ila) and penis erectus (Plate 109). Unlike his description in the Mahābhārata quoted above this central figure does not carry the bow Pināka, but rather seems to conform to devotional demands in that he carries the vessel (kalaśa) of amr.ta in his left hand, while the right hand seems to be raised in abhayamudrā.3 
 
-This main deity is further characterized by four distinctive aspects symbol ized by a ‘girdle’ of four heads around his waist, only partly in conformity with the Mahābhārata description. One of the heads clearly represents 
+This main deity is further characterized by four distinctive aspects symbol ized by a ‘girdle’ of four heads around his waist, only partly in conformity with the Mahābhārata descriptioṇOne of the heads clearly represents 
 
 2 Kreisel 1986, 54 f.; Abb. A 1a–f; State Museum Lucknow H 4. 
 
@@ -121,7 +121,7 @@ tial ramification fails in the Mahābhārata description and in any other early 
 
 5 Kreisel 1986, 58. 
 
-6 This orientation of the Bhita sculpture is based on the assumption that the ugra head faces south. Kreisel op. cit. 60 f. takes as the most likely direction of the main figure the south, which entails that the four heads are facing the intermediate quarters. Kreisel explains this unusual orientation by the hypothesis, earlier proposed by J.N. Banerjea 1935, 36 ff., that the Bhita sculpture represents an ancestor monument (Kreisel 1986, 55, 60). This assumption would not be contradicted, but rather reinforced, by an orientation 
+6 This orientation of the Bhita sculpture is based on the assumption that the ugra head faces south. Kreisel op. cit. 60 f. takes as the most likely direction of the main figure the south, which entails that the four heads are facing the intermediate quarters. Kreisel explains this unusual orientation by the hypothesis, earlier proposed by J.ṇBanerjea 1935, 36 ff., that the Bhita sculpture represents an ancestor monument (Kreisel 1986, 55, 60). This assumption would not be contradicted, but rather reinforced, by an orientation 
 
 
 
@@ -175,7 +175,7 @@ Mathurā: Caturmukhaliṅga
 
 1999). The liṅga or central figure itself was, when Saiva theology developed, interpreted ´ as the ‘fifth’ (invisible) aspect in order to 
 
-bring the fourfold spatial arrangement into line with the non-iconographic five fold division known from the Taittirīya Araṅyaka (TS 1), which associates five mantras, i.e. five cosmic dimensions or functions with Sadāśiva; the first word of each mantra is explained by the commentator Sāyan. a as the name of a face (vaktra) of God (Parameśvara), viz. Sadyojāta, Vāmadeva, Aghora, Tatpurus.a, 
+bring the fourfold spatial arrangement into line with the non-iconographic five fold division known from the Taittirīya Araṅyaka (TS 1), which associates five mantras, i.e. five cosmic dimensions or functions with Sadāśiva; the first word of each mantra is explained by the commentator Sāyaṇa as the name of a face (vaktra) of God (Parameśvara), viz. Sadyojāta, Vāmadeva, Aghora, Tatpurus.a, 
 
 of the main figure to the southwest (nairr.ti). According to the Gobhilagr.hyas¯utra 4.7.41 a bali offering to the pitr̥s should be made to the southwest. Cf. Gonda 1980, 55 f. on ‘the region of Nirr.ti (southwest), the awful goddess of decay’. 
 
@@ -189,7 +189,7 @@ of the main figure to the southwest (nairr.ti). According to the Gobhilagr.hyas�
 
 25 / Sources for Reconstructing Ancient Forms of Siva Worship ´ 493 
 
-and ¯Iśāna. 8 This synthesis of a spatial and a cosmological order postdates our earliest Saiva sculptures; it is, to the best of my knowledge, for the first time ´ presented in the Vis.n. udharmottarapurān. a 3.48.1–7 (TS 16). Consequently, there is in our view nothing remarkable (‘auffallend’) about the absence of the fivefold form of Siva in the ´ Mahābhārata as observed by Kreisel, since this form is equally absent in the early sculptures. 9 
+and ¯Iśāna. 8 This synthesis of a spatial and a cosmological order postdates our earliest Saiva sculptures; it is, to the best of my knowledge, for the first time ´ presented in the Vis.ṇudharmottarapurāṇa 3.48.1–7 (TS 16). Consequently, there is in our view nothing remarkable (‘auffallend’) about the absence of the fivefold form of Siva in the ´ Mahābhārata as observed by Kreisel, since this form is equally absent in the early sculptures. 9 
 
   
 
@@ -199,13 +199,13 @@ Plate 111
 
 Mathurā: Architrave with scene of liṅga worship 
 
-What, on the other hand, is very remarkable is the comparatively little atten tion paid to the liṅga as a Saiva cult object in our early Sanskrit texts. There is ´ ample evidence which demonstrates that aniconic Siva worship was widespread ´ throughout the Indian continent at the beginning of the Common Era. Not only do we have, for instance, the testimony of the unequivocally phallic rep resentation of Siva from Gudimallam, ´ 10 which possibly dates from before the Common Era, but we also have an architrave from Mathurā, datable to the late Ks.atrapa period (middle of first century ad), which shows a liṅga sanctuary (Plate 111). 11 To this may be added the late-Ks.atrapa Caturmukhali˙nga that we have just discussed and numerous liṅgas pertaining to the Kus.ān. a period &c. 12 
+What, on the other hand, is very remarkable is the comparatively little atten tion paid to the liṅga as a Saiva cult object in our early Sanskrit texts. There is ´ ample evidence which demonstrates that aniconic Siva worship was widespread ´ throughout the Indian continent at the beginning of the Common Era. Not only do we have, for instance, the testimony of the unequivocally phallic rep resentation of Siva from Gudimallam, ´ 10 which possibly dates from before the Common Era, but we also have an architrave from Mathurā, datable to the late Ks.atrapa period (middle of first century ad), which shows a liṅga sanctuary (Plate 111). 11 To this may be added the late-Ks.atrapa Caturmukhali˙nga that we have just discussed and numerous liṅgas pertaining to the Kus.āṇa period &c. 12 
 
 Epigraphic sources attesting the worship of Siva ´ 
 
 Due to this rich archaeological evidence of liṅga worship, some other data of the early period have also been interpreted as referring to Siva’s ´ liṅga, such as the 
 
-8 These five aspects, known in the scriptures of the Saiva Siddhānta as ‘the five Brahmans’, ´ are conceived of as being comprised in or as being the embodiment of Sadāśiva, an idea also reaching back to the Taittirīya Araṅyaka, which concludes the fifth formula of ¯Iśāna with the words sadāśivom, glossed by Sāyan. a as sa eva sadāśiva om. 
+8 These five aspects, known in the scriptures of the Saiva Siddhānta as ‘the five Brahmans’, ´ are conceived of as being comprised in or as being the embodiment of Sadāśiva, an idea also reaching back to the Taittirīya Araṅyaka, which concludes the fifth formula of ¯Iśāna with the words sadāśivom, glossed by Sāyaṇa as sa eva sadāśiva om. 
 
 9 Kreisel 1986, 21 n. 43: ‘Auffallend ist jedoch, daß im Epos die F¨unfgestalt Sivas fehlt.’ ´ 10 Kreisel 1986, Abb. A2a–b. 
 
@@ -253,7 +253,7 @@ that contain the ‘portraits of the teachers’. 14 The
 
 text on the pillar reads (TS 12): 
 
-[. . . ] āryoditācāryen. a svapun. yāpyāyananimittam. 
+[. . . ] āryoditācāryeṇa svapuṇyāpyāyananimittam. 
 
 gur¯un. ām. ca kīrtyartham upamiteśvarakapileśvarau 
 
@@ -269,7 +269,7 @@ conjectured to read five: ◦pratimāyutau, evidently conceived as an attributiv
 
 That iconic images of Siva were installed as main objects of worship in ´ temples of this period may not only follow from the great number of early iconic images of Siva (Maheśa) from Mathurā as described by Gerd Kreisel (Abb. 65– ´ 126), it may be illustrated also by an image commissioned by a Māheśvara for a Saiva temple in the first half of the fifth century, viz. the image installed by ´ 
 
-13 Kreisel 1986, Abb. 126a–b. For the figure carrying a stick (Dan. ḍapān. i) at the bottom see below, p. 558 and Plate 126. 
+13 Kreisel 1986, Abb. 126a–b. For the figure carrying a stick (Dan. ḍapāṇi) at the bottom see below, p. 558 and Plate 126. 
 
 14 Bhandarkar 1931–32, 5; cf. CII III (1981), 241; Sircar in SI I, 278 n. 5. 
 
@@ -319,9 +319,9 @@ The sanctuary is ‘of the Great God’ (mahādevasya). This is the answer (iti)
 
 The Mahābhārata 
 
-Though Rudra’s phallic aspect is recognized in MBh 10.17.21, 12.160.46, and 13.17.74, there are only a few passages in the Mahābhārata where liṅga worship as such is acknowledged, the oldest of which may be the verses in Dron. aparvan 172 and 173 (TS 3, 4 and 5), although these too are a matter of dispute. Discussing these passages Jacques Scheuer remarked, 
+Though Rudra’s phallic aspect is recognized in MBh 10.17.21, 12.160.46, and 13.17.74, there are only a few passages in the Mahābhārata where liṅga worship as such is acknowledged, the oldest of which may be the verses in Droṇaparvan 172 and 173 (TS 3, 4 and 5), although these too are a matter of dispute. Discussing these passages Jacques Scheuer remarked, 
 
-Hopkins consid`ere que la fin du Dron. aparvan est une addition tardive `a ce livre. D’ailleurs, tout ce qui se r´ef`ere au liṅga, ´ecrit-il encore, n’appartient pas aux 
+Hopkins consid`ere que la fin du Droṇaparvan est une addition tardive `a ce livre. D’ailleurs, tout ce qui se r´ef`ere au liṅga, ´ecrit-il encore, n’appartient pas aux 
 
 18 Bakker 1997, 4 f., 87 f. 
 
@@ -337,19 +337,19 @@ Hopkins consid`ere que la fin du Dron. aparvan est une addition tardive `a ce li
 
 25 / Sources for Reconstructing Ancient Forms of Siva Worship ´ 497 
 
-couches les plus anciennes de l’´epop´ee. Dans une “critical note” de l’´edition cri tique, S.K. De rejette la “conjecture” de Hopkins: le passage n’est pas si r´ecent qu’il ne soit attest´e par les principales familles de manuscrits. Cela est ind´eniable. A notre point de vue, cependant, il est plus int´eressant de remarquer que le culte du liṅga ne semble jamais intervenir dans des passages se rattachant imm´ediate ment au mythe central. Qu’il suffise ici de noter ce clivage. Il serait sans doute pr´ematur´e d’en proposer une explication. La mention du culte du liṅga est rela tivement claire. Les relations de Kr.s.n. a et de Rudra le sont moins. 21 
+couches les plus anciennes de l’´epop´ee. Dans une “critical note” de l’´edition cri tique, S.K. De rejette la “conjecture” de Hopkins: le passage n’est pas si r´ecent qu’il ne soit attest´e par les principales familles de manuscrits. Cela est ind´eniable. A notre point de vue, cependant, il est plus int´eressant de remarquer que le culte du liṅga ne semble jamais intervenir dans des passages se rattachant imm´ediate ment au mythe central. Qu’il suffise ici de noter ce clivage. Il serait sans doute pr´ematur´e d’en proposer une explicatioṇLa mention du culte du liṅga est rela tivement claire. Les relations de Kr.s.ṇa et de Rudra le sont moins. 21 
 
 The Mahābhārata passages at issue run (TS 3 and 4): 
 
-Birth, karman, tapas, and yoga of these two (i.e. Nara and Nārāyan. a) and of you (i.e. Aśvatthāman) are eminent; God has been adored by these two in the phallus (liṅga), by you in an image, during the various world-periods. He who adores the Lord in the liṅga, knowing Bhava to assume all forms, in him the disciplines concerning the self and the disciplines concerning learning are everlasting. For the gods and Siddhas and great seers, by worshipping in this way, strife to attain the highest in the world and the everlasting station. And this very Keśava (Kr.s.n. a) is a votary of Rudra, being born from Rudra; this Kr.s.n. a who is eternal is also to be worshipped with sacrifices. He who adores the Lord in the phallus, knowing Him to exist in all creatures, in him the One whose emblem is the bull (i.e. Siva) takes ´ an extraordinary delight. 
+Birth, karman, tapas, and yoga of these two (i.e. Nara and Nārāyaṇa) and of you (i.e. Aśvatthāman) are eminent; God has been adored by these two in the phallus (liṅga), by you in an image, during the various world-periods. He who adores the Lord in the liṅga, knowing Bhava to assume all forms, in him the disciplines concerning the self and the disciplines concerning learning are everlasting. For the gods and Siddhas and great seers, by worshipping in this way, strife to attain the highest in the world and the everlasting statioṇAnd this very Keśava (Kr.s.ṇa) is a votary of Rudra, being born from Rudra; this Kr.s.ṇa who is eternal is also to be worshipped with sacrifices. He who adores the Lord in the phallus, knowing Him to exist in all creatures, in him the One whose emblem is the bull (i.e. Siva) takes ´ an extraordinary delight. 
 
 Because his phallus stands erect in perpetual celibacy and the people worship greatly (mahayanti), (therefore) is he known as the Great Lord (Maheśvara). Seers, gods, Gandharvas and Apsarases also have adored his phallus, and that one also stood erect. Therefore that Great Lord (Maheśvara) rejoices when his (phallus) is worshipped; Sam ´ . kara becomes happy and gratified and he is delighted. 
 
-The latter text is with some minor variants found again in Anuśāsanaparvan 146.15-18 (TS 8), which may indicate that the Dron. aparvan passage belongs to an older stratum of the epic. An explicatory śloka, which is also found in the Dron. aparvan but in another context (MBh 7.173.94; TS 5), and which seems to echo MBh 7.172.87 and 90 (TS 3), has been inserted (MBh 13.146.16), somewhat disturbing the syntax, since the relative pronoun yo in 16a lacks a clear antecedent. 22 This verse unequivocally refers to the liṅga as a particular cult object distinct from an iconic image (vigraha). It says (TS 8 v. 16), 23 
+The latter text is with some minor variants found again in Anuśāsanaparvan 146.15-18 (TS 8), which may indicate that the Droṇaparvan passage belongs to an older stratum of the epic. An explicatory śloka, which is also found in the Droṇaparvan but in another context (MBh 7.173.94; TS 5), and which seems to echo MBh 7.172.87 and 90 (TS 3), has been inserted (MBh 13.146.16), somewhat disturbing the syntax, since the relative pronoun yo in 16a lacks a clear antecedent. 22 This verse unequivocally refers to the liṅga as a particular cult object distinct from an iconic image (vigraha). It says (TS 8 v. 16), 23 
 
 One who worships the body (i.e. image) of the magnanimous one (i.e. Siva), or ´ otherwise his phallus (liṅga)—the constant worshipper of the phallus shall obtain great prosperity. 
 
-The fourth, or, if we count the Dron. aparvan passage and its reprise in the Anuśāsanaparvan as one, third passage advocating liṅga worship is also found 
+The fourth, or, if we count the Droṇaparvan passage and its reprise in the Anuśāsanaparvan as one, third passage advocating liṅga worship is also found 
 
 21 Scheuer 1982, 277. 
 
@@ -365,21 +365,21 @@ The fourth, or, if we count the Dron. aparvan passage and its reprise in the Anu
 
 
 
-in book thirteen. On the question of Sakra why he does not wish ´ prasāda from anybody but Siva, Upamanyu answers (TS 6 vv. 100–102), ´ 
+in book thirteeṇOn the question of Sakra why he does not wish ´ prasāda from anybody but Siva, Upamanyu answers (TS 6 vv. 100–102), ´ 
 
-What other reasons do you need, the Lord is the primary cause. It has not been revealed to us that the gods adore the phallus (liṅga) of anybody else; of whom else than Maheśvara is the phallus worshipped by all gods, or has ever been worshipped? Tell me if it has been revealed to you. Whose phallus Brahmā, Vis.n. u and you too with the gods should always adore, that one is the chiefest for that reason. 
+What other reasons do you need, the Lord is the primary cause. It has not been revealed to us that the gods adore the phallus (liṅga) of anybody else; of whom else than Maheśvara is the phallus worshipped by all gods, or has ever been worshipped? Tell me if it has been revealed to you. Whose phallus Brahmā, Vis.ṇu and you too with the gods should always adore, that one is the chiefest for that reason. 
 
-The Rāmāyan. a 
+The Rāmāyaṇa 
 
-The Rāmāyan. a confirms the impression obtained from the Mahābhārata: though a later tradition ascribes to Rāma the foundation of the Rāmeśvara liṅga, this is not found in the critical edition of the Adikāvya itself. ¯ 24 Liṅga worship is only ascribed to the Rāks.asas led by Rāvan. a (TS 9), who worships with incense and fragrant flowers a golden liṅga, which he had installed on an altar of sand on the bank of the Narmadā River. ‘And after the worship he sung and danced, waving and spreading his hands’ (TS 9 v. 40). It may be significant that in the Mahābhārata passages great emphasis is laid on the fact that gods and other divine beings also worship Siva’s ´ liṅga,25 which sounds like a sort of justification, whereas the Rāmāyan. a confines liṅga worship to Rāks.asas in a tone of scarcely concealed dismay. 
+The Rāmāyaṇa confirms the impression obtained from the Mahābhārata: though a later tradition ascribes to Rāma the foundation of the Rāmeśvara liṅga, this is not found in the critical edition of the Adikāvya itself. ¯ 24 Liṅga worship is only ascribed to the Rāks.asas led by Rāvaṇa (TS 9), who worships with incense and fragrant flowers a golden liṅga, which he had installed on an altar of sand on the bank of the Narmadā River. ‘And after the worship he sung and danced, waving and spreading his hands’ (TS 9 v. 40). It may be significant that in the Mahābhārata passages great emphasis is laid on the fact that gods and other divine beings also worship Siva’s ´ liṅga,25 which sounds like a sort of justification, whereas the Rāmāyaṇa confines liṅga worship to Rāks.asas in a tone of scarcely concealed dismay. 
 
 Concluding observations 
 
 The overall impression that we may gather from the material surveyed is that, during the first centuries of the Common Era, the brahmanical elite, whether priest, king or renouncer, preferred to venerate Maheśvara in iconic form and frowned upon liṅga worship. 26 Its gradual acceptance in the 5th and 6th cen turies by those circles that earlier rejected it may be illustrated again by the myth of Tilottamā. 
 
-The evidence of the Skandapurān. a 
+The evidence of the Skandapurāṇa 
 
-This myth recurs in what we think is the original Skandapurān. a, which we date in the sixth or seventh century, and which may have been composed in Pāśupata circles. 27 Here explicit reference is made to Siva in his ´ liṅga form (TS 14): ‘There arose amidst these celestials a liṅga, solid, massive, a bundle of tejas as it were.’ From this liṅga four faces emerged when Tilottamā made her circumambulation, the eastern one lustrous, with lips gracious as the bimba 
+This myth recurs in what we think is the original Skandapurāṇa, which we date in the sixth or seventh century, and which may have been composed in Pāśupata circles. 27 Here explicit reference is made to Siva in his ´ liṅga form (TS 14): ‘There arose amidst these celestials a liṅga, solid, massive, a bundle of tejas as it were.’ From this liṅga four faces emerged when Tilottamā made her circumambulation, the eastern one lustrous, with lips gracious as the bimba 
 
 24 Eck 1991, 62 f. 
 
@@ -397,7 +397,7 @@ This myth recurs in what we think is the original Skandapurān. a, which we date
 
 25 / Sources for Reconstructing Ancient Forms of Siva Worship ´ 499 
 
-fruit (prasannabimbaus.t.ha) and with three eyes (tryaks.a) (TS 15 vv. 16–17); the southern one ‘possessed of the colour of a languid cloud laden with water, having a ferocious voice, with dreadful teeth shining (in an open mouth), and the corners of the eyes bloodshot and glittering’ (v. 19); the western face was perfect (anuttama) having three eyes, and the northern one was very full (su sam. p¯urn. a) and very gracious (suprasanna) (vv. 21–24). Thus runs the oldest description of the Caturmukhaliṅga in the Sanskrit literature known to me, at least half a millennium after the Indian sculptors had begun to materialize the idea in stone (see also below, p. 521). 
+fruit (prasannabimbaus.t.ha) and with three eyes (tryaks.a) (TS 15 vv. 16–17); the southern one ‘possessed of the colour of a languid cloud laden with water, having a ferocious voice, with dreadful teeth shining (in an open mouth), and the corners of the eyes bloodshot and glittering’ (v. 19); the western face was perfect (anuttama) having three eyes, and the northern one was very full (su sam. p¯urṇa) and very gracious (suprasanna) (vv. 21–24). Thus runs the oldest description of the Caturmukhaliṅga in the Sanskrit literature known to me, at least half a millennium after the Indian sculptors had begun to materialize the idea in stone (see also below, p. 521). 
 
 Conclusions 
 
@@ -405,9 +405,9 @@ The various sources surveyed above lead to the following conclusions.
 
 1 The historic reality of ancient Siva worship, which is taken here as a spec- ´ imen of a wider issue, cannot be reconstructed by relying on one type of source only. If we would base ourselves on texts alone, we would hardly be aware that liṅga worship was practised on a large scale throughout the Subcontinent during the first centuries of the Common Era. If, on the other hand, we would not have texts, we would be at a loss how to interprete the phallic stones provided with four heads of different countenances. 
 
-2 When the visual material is interpreted with the help of written sources it is of paramount importance that both sources date from about the same time. More often than not art-historians describe their visual material on the basis of textual material that dates from half a millennium later, such as when early sculptures are explained by having recourse to the iconographic treatise of the Vis.n. udharmottarapurān. a or still later texts, while, as we have seen, contemporaneous descriptions are sometimes to be found in, for instance, the Mahābhārata. 
+2 When the visual material is interpreted with the help of written sources it is of paramount importance that both sources date from about the same time. More often than not art-historians describe their visual material on the basis of textual material that dates from half a millennium later, such as when early sculptures are explained by having recourse to the iconographic treatise of the Vis.ṇudharmottarapurāṇa or still later texts, while, as we have seen, contemporaneous descriptions are sometimes to be found in, for instance, the Mahābhārata. 
 
-3 The incongruity that is frequently found between the archaeological material and textual descriptions may have its root in the different sections of the society to which these sources pertain. This makes us realize how tentative our assessments are and how little we actually know about the early history of the religions of India. 
+3 The incongruity that is frequently found between the archaeological material and textual descriptions may have its root in the different sections of the society to which these sources pertaiṇThis makes us realize how tentative our assessments are and how little we actually know about the early history of the religions of India. 
 
 4 If these three conclusions are accepted it follows finally that, in view of the scarcity of sources at our disposal, we simply cannot afford to disregard any of them. When, however, we evaluate them and try to construe an integral picture of the past, we should never lose sight of their innate differences and we must proceed with the utmost caution, in the knowledge that the complexity of the historic reality of ancient India is far greater than we can ever hope to recover. 
 
@@ -439,21 +439,21 @@ tan no rudrah. pracodayāt k 46 k
 
 īśānah. sarvavidyānām īśvarah. sarvabh¯utānām. brahmādhipatir 
 
-brahman. o ’dhipatir brahmā śivo me astu sadāśivom k 47 k 
+brahmaṇo ’dhipatir brahmā śivo me astu sadāśivom k 47 k 
 
 2 Mahābhārata 1.203.21–26 
 
-prāṅmukho bhagavān āste daks.in. ena maheśvarah. | 
+prāṅmukho bhagavān āste daks.iṇena maheśvarah. | 
 
 devāś caivottaren. āsan sarvatas tv r. s.ayo ’bhavan k 21 k 
 
-kurvantyā tu tayā tatra man. ḍalam. tatpradaks.in. am | 
+kurvantyā tu tayā tatra man. ḍalam. tatpradaks.iṇam | 
 
-indrah. sthān. uś ca bhagavān dhairyen. a pratyavasthitau k 22 k 
+indrah. sthāṇuś ca bhagavān dhairyeṇa pratyavasthitau k 22 k 
 
 dras.t.ukāmasya cātyartham. gatāyāh. pārśvatas tadā | 
 
-anyad a˜ncitapaks.māntam. daks.in. am. nih. sr.tam. mukham k 23 k 
+anyad a˜ncitapaks.māntam. daks.iṇam. nih. sr.tam. mukham k 23 k 
 
 pr. s.t.hatah. parivartantyāh. paścimam. nih. sr.tam. mukham | 
 
@@ -463,7 +463,7 @@ mahendrasyāpi netrān. ām. pārśvatah. pr. s.t.hato ’gratah. |
 
 raktāntānām. viśālānām. sahasram. sarvato ’bhavat k 25 k 
 
-evam. caturmukhah. sthān. ur mahādevo ’bhavat purā | 
+evam. caturmukhah. sthāṇur mahādevo ’bhavat purā | 
 
 tathā sahasranetraś ca babh¯uva balas¯udanah. k 26 k 
 
@@ -483,7 +483,7 @@ prārthayanti param. loke sthānam eva ca śāśvatam k 88 k
 
 sa es.a rudrabhaktaś ca keśavo rudrasam. bhavah. | 
 
-kr. s.n. a eva hi yas.t.avyo yaj˜naiś cais.a sanātanah. k 89 k 
+kr. s.ṇa eva hi yas.t.avyo yaj˜naiś cais.a sanātanah. k 89 k 
 
 sarvabh¯utabhavam. j˜nātvā liṅge ’rcayati yah. prabhum | 
 
@@ -497,7 +497,7 @@ tasminn abhyadhikām. prītim. karoti vr. s.abhadhvajah. k 90 k
 
 4 Mahābhārata 7.173.83–85 
 
-nityena brahmacaryen. a liṅgam asya yad āsthitam* | 
+nityena brahmacaryeṇa liṅgam asya yad āsthitam* | 
 
 mahayanti ca lokāś ca maheśvara iti smr.tah. k 83 k 
 
@@ -513,11 +513,11 @@ sukhī prītaś ca bhavati prahr. s.t.aś caiva śam. karah. k 85 k
 
 5 Mahābhārata 7.173.92–94 
 
-dahaty ¯urdhvam. sthito yac ca prān. otpattisthitaś* ca yat | 
+dahaty ¯urdhvam. sthito yac ca prāṇotpattisthitaś* ca yat | 
 
-sthitaliṅgaś ca yan nityam. tasmāt sthān. ur iti smr.tah. k 92 k 
+sthitaliṅgaś ca yan nityam. tasmāt sthāṇur iti smr.tah. k 92 k 
 
-vis.amasthah. śarīres.u samaś ca prān. inām iha | 
+vis.amasthah. śarīres.u samaś ca prāṇinām iha | 
 
 sa vāyur vis.amasthes.u prān. āpānaśarīris.u k 93 k ** 
 
@@ -525,19 +525,19 @@ p¯ujayed vigraham. yas tu liṅgam. vāpi samarcayet |
 
 liṅgam. p¯ujayitā nityam. mahatīm. śriyam aśnute k 94 k *** 
 
-* The editors of the Anuśāsanaparvan, where the same verse is found (MBh 13.146.10), opted for another reading: prān. otpattih. sthitiś. ** MBh 13.146.20 has an important variant reading: vis.amasthah. śarīres.u sa mr.tyuh. prān. inām iha | sa ca vāyuh. śarīres.u prān. o ’pānah. śarīrin. ām k 20 k *** Cf. MBh 13.146.16 (TS 8 v. 16). 
+* The editors of the Anuśāsanaparvan, where the same verse is found (MBh 13.146.10), opted for another reading: prāṇotpattih. sthitiś. ** MBh 13.146.20 has an important variant reading: vis.amasthah. śarīres.u sa mr.tyuh. prāṇinām iha | sa ca vāyuh. śarīres.u prāṇo ’pānah. śarīrin. ām k 20 k *** Cf. MBh 13.146.16 (TS 8 v. 16). 
 
 6 Mahābhārata 13.14.99–102 
 
 śakra uvāca | 
 
-kah. punas tava hetur vai īśe kāran. akāran. e | 
+kah. punas tava hetur vai īśe kāraṇakāraṇe | 
 
 yena devād r.te ’nyasmāt prasādam. nābhikāṅks.asi k 99 k 
 
 upamanyur uvāca | 
 
-hetubhir vā kim anyais te īśah. kāran. akāran. am | 
+hetubhir vā kim anyais te īśah. kāraṇakāraṇam | 
 
 na śuśruma yad anyasya liṅgam abhyarcyate suraih. k 100 k 
 
@@ -545,7 +545,7 @@ kasyānyasya suraih. sarvair liṅgam. muktvā maheśvaram |
 
 arcyate ’rcitap¯urvam. vā br¯uhi yady asti te śrutih. k 101 k 
 
-yasya brahmā ca vis.n. uś ca tvam. cāpi saha daivataih. | 
+yasya brahmā ca vis.ṇuś ca tvam. cāpi saha daivataih. | 
 
 arcayadhvam. sadā liṅgam. tasmāc chres.t.hatamo hi sah. k 102 k 
 
@@ -559,13 +559,13 @@ tām. didr.ks.ur aham. yogāc caturm¯urtitvam āgatah. |
 
 caturmukhaś ca sam. vr.tto darśayan yogam ātmanah. k 4 k 
 
-p¯urven. a vadanenāham indratvam anuśāsmi ha | 
+p¯urveṇa vadanenāham indratvam anuśāsmi ha | 
 
-uttaren. a tvayā sārdham. ramāmy aham anindite k 5 k 
+uttareṇa tvayā sārdham. ramāmy aham anindite k 5 k 
 
-paścimam. me mukham. saumyam. sarvaprān. isukhāvaham | 
+paścimam. me mukham. saumyam. sarvaprāṇisukhāvaham | 
 
-daks.in. am. bhīmasam. kāśam. raudram. sam. harati prajāh. k 6 k 
+daks.iṇam. bhīmasam. kāśam. raudram. sam. harati prajāh. k 6 k 
 
 jat.ilo brahmacārī ca lokānām. hitakāmyayā | 
 
@@ -579,13 +579,13 @@ devakāryārthasiddhyartham. pinākam. me kare sthitam k 7 k
 
 
 
-indren. a ca purā vajram. ks.iptam. śrīkāṅks.in. ā mama | 
+indreṇa ca purā vajram. ks.iptam. śrīkāṅks.in. ā mama | 
 
-dagdhvā kan. t.ham. tu tad yātam. tena śrīkan. t.hatā mama k 8 k 
+dagdhvā kaṇt.ham. tu tad yātam. tena śrīkaṇt.hatā mama k 8 k 
 
 8 Mahābhārata 13.146.15–18 
 
-nityena brahmacaryen. a liṅgam asya yad āsthitam | 
+nityena brahmacaryeṇa liṅgam asya yad āsthitam | 
 
 mahayanty asya lokāś ca maheśvara iti smr.tah. k 15 k 
 
@@ -601,39 +601,39 @@ p¯ujyamāne tatas tasmin modate sa maheśvarah. |
 
 sukham. dadāti prītātmā bhaktānām. bhaktavatsalah. k 18 k 
 
-9 Rāmāyan. a 7.31.38–40 
+9 Rāmāyaṇa 7.31.38–40 
 
-rāvan. am. prā˜njalim. yāntam anvayuh. sapta rāks.asāh. | 
+rāvaṇam. prā˜njalim. yāntam anvayuh. sapta rāks.asāh. | 
 
-yatra yatra sa yāti sma rāvan. o rāks.asādhipah. | 
+yatra yatra sa yāti sma rāvaṇo rāks.asādhipah. | 
 
 jāmb¯unadamayam. liṅgam. tatra tatra sma nīyate k 38 k 
 
-bālukāvedimadhye tu tal liṅgam. sthāpya rāvan. ah. | 
+bālukāvedimadhye tu tal liṅgam. sthāpya rāvaṇah. | 
 
 arcayāmāsa gandhaiś ca pus.paiś cāmr.tagandhibhih. k 39 k 
 
 tatah. satām ārtiharam. haram. param. , 
 
-varapradam. candramay¯ukhabh¯us.an. am | 
+varapradam. candramay¯ukhabh¯us.aṇam | 
 
 samarcayitvā sa niśācaro jagau, 
 
-prasārya hastān pran. anarta cāyatān k 40 k 
+prasārya hastān praṇanarta cāyatān k 40 k 
 
 10 Kaun. ḍinya ad Pāśupatas¯utra 1.9 (Sastri’s eḍp. 15) 
 
-m¯urtir nāma yad etad devasya daks.in. e pārśve sthitenodaṅmukhenopānte yad r¯upam upalabhyate | vr. s.adhvajaś¯ulapān. inandimahākālordhvaliṅgā dilaks.an. am | yad vā laukikāh. pratipadyante | mahādevasyāyatanam iti | tatropastheyam | 
+m¯urtir nāma yad etad devasya daks.iṇe pārśve sthitenodaṅmukhenopānte yad r¯upam upalabhyate | vr. s.adhvajaś¯ulapāṇinandimahākālordhvaliṅgā dilaks.aṇam | yad vā laukikāh. pratipadyante | mahādevasyāyatanam iti | tatropastheyam | 
 
 11 Gr.hyapariśis.t.as¯utras of Baudhāyana II.16 (Harting 1922, 7 ll. 16 f.) 
 
-hiran. yena tejasā caks.ur vimocayet tejo ’sīti | 
+hiraṇyena tejasā caks.ur vimocayet tejo ’sīti | 
 
 liṅge cen nivartate caks.us.or abhāvād | 
 
 12 Mathurā Pilaster Inscription of Candragupta II, Year 61 (Sircar SI I, 278 ll. 5–10; cf. CII III (1981), 240) 
 
-asyām. p¯urvvā[yām. ] [bha]gava[tku]śikād daśamena bhagavatparāśarāc caturthena [bhagavatka*]pi[la]vimalaśis.yaśis.yen. a bhagava[dupamita*]vi malaśis.yen. a āryyodi[tā*]cāryye[n. a*] [sva*]pu[n. yā]pyāyananimittam. gur¯un. ām. ca kīrtya[rtham upamiteśva]rakapileśvarau gurvvāyatane guru ... pratis.t.hāpito [read: ◦tau] (| *) 
+asyām. p¯urvvā[yām. ] [bha]gava[tku]śikād daśamena bhagavatparāśarāc caturthena [bhagavatka*]pi[la]vimalaśis.yaśis.yeṇa bhagava[dupamita*]vi malaśis.yeṇa āryyodi[tā*]cāryye[ṇa*] [sva*]pu[ṇyā]pyāyananimittam. gur¯un. ām. ca kīrtya[rtham upamiteśva]rakapileśvarau gurvvāyatane guru ... pratis.t.hāpito [read: ◦tau] (| *) 
 
 Bhandarkar conjectures gurupratimāyutau for guru ... 
 
@@ -653,13 +653,13 @@ viditam astu vo yathehāsmābhir dharmāyurbalavijayavivr.ddhaye ihāmu tra hit�
 
 Readings corrected with the help of other similar inscriptions. Mirashi notes that we should read atisr. s.t.ā, ‘if it has to qualify some word like bh¯umih.’. 
 
-14 Skandapurān. a 62.12 (SP III, 260) 
+14 Skandapurāṇa 62.12 (SP III, 260) 
 
 atha liṅgam. samuttasthau tes.ām. madhye divaukasām | 
 
 susam. hatam. susam. ślis.t.am. sam¯uhas tejasām iva k 12 k 
 
-15 Skandapurān. a 62.16–24 (SP III, 261 f.) 
+15 Skandapurāṇa 62.16–24 (SP III, 261 f.) 
 
 neme m¯urtim. tadā p¯urvām. nih. sasāra tato mukham | 
 
@@ -669,7 +669,7 @@ atha tejo vinih. sr.tya vadanendoh. pinākinah. |
 
 tām. viveśāṅganām āśu śaradbhāskarabhāsvaram k 17 k 
 
-atha sā daks.in. ām. m¯urtim. pran. eme cārudarśanā | 
+atha sā daks.in. ām. m¯urtim. praṇeme cārudarśanā | 
 
 nirjagāma tadā dīptam. mukham. suraguros tatah. k 18 k 
 
@@ -681,7 +681,7 @@ atyādityam. tatas tejo mukhān nih. sr.tya daks.in. āt |
 
 dr.śyamānam. suraih. sarvair viveśa pramadottamām k 20 k 
 
-pran. eme sā tatas tasya paścimām. m¯urtim a˜njasā | 
+praṇeme sā tatas tasya paścimām. m¯urtim a˜njasā | 
 
 niścakrāma tatas tasyā mukham. tryaks.am anuttamam k 21 k 
 
@@ -689,15 +689,15 @@ tatas tejo vinih. sr.tya mukhendor madanadvis.ah. |
 
 dīpyamānam. viveśāśu tām eva pramadottamām k 22 k 
 
-uttarām. m¯urtim āgamya pran. eme sā kr.tā˜njalih. | 
+uttarām. m¯urtim āgamya praṇeme sā kr.tā˜njalih. | 
 
-tasyā mukham. susam. p¯urn. am. suprasannam. viniryayau k 23 k 
+tasyā mukham. susam. p¯urṇam. suprasannam. viniryayau k 23 k 
 
 tasmāt tejo vinih. sr.tya s¯uryadīptānalaprabham | 
 
-viveśa pramadām āśu tām eva varavarn. inīm k 24 k 
+viveśa pramadām āśu tām eva varavarṇinīm k 24 k 
 
-16 Vis.n. udharmottarapurān. a 3.48.1–7 
+16 Vis.ṇudharmottarapurāṇa 3.48.1–7 
 
 sadyojātam. vāmadevam aghoram. ca mahābhuja | 
 
@@ -713,9 +713,9 @@ vibhāgenātha vaks.yāmi śambhor vadanapa˜ncakam |
 
 mahādevamukham. j˜neyam. p¯urvam. śambhor mahātmanah. | 
 
-netrān. i trīn. i tasyāhuh. somas¯uryahutāśanāh. k 3 k 
+netrāṇi trīṇi tasyāhuh. somas¯uryahutāśanāh. k 3 k 
 
-daks.in. am. tu mukham. raudram. bhairavam. tat prakīrtitam | 
+daks.iṇam. tu mukham. raudram. bhairavam. tat prakīrtitam | 
 
 paścimam. yan mukham. tasya nandivaktram. tad ucyate k 4 k 
 
@@ -731,7 +731,7 @@ umāvaktram. ca vij˜neyam. tasya devasya cottaram |
 
 sadāśivākhyam. vij˜neyam. pāvanam. tasya pa˜ncamam | 
 
-trilocanāni sarvān. i vāmadevam. dvilocanam k 5 k 
+trilocanāni sarvāṇi vāmadevam. dvilocanam k 5 k 
 
 mahādevamukham. bh¯umis* tejah. syād bhairavam. mukham | 
 
@@ -767,7 +767,7 @@ Introduction
 
 The transformation of the Vedic religion into new systems of belief and prac tice, early Hinduism for short, is a process of cultural change that, despite two centuries of research, has only partly been understooḍThe replacement of the sacrificial fire by images of wood and stone is among the most obvious innovations. As has been convincingly argued by Phyllis Granoff (2006), this in novation was only reluctantly accepted in some circles of brahmanic orthodoxy. On the other hand, there can be little doubt that Vedic imagination informed the concept of God and His image (m¯urti) in the newly emerging religions. It found expression in the Sanskrit texts of early Hinduism. The confrontation of this textual evidence with the material images of the archaeologist is often perplexing, however. 
 
-An example of such a conundrum is the so-called Daks.in. ām¯urti, mentioned in the Pāśupata texts, the Mahābhārata, and the later Saiva literature of the ´ Mantramārga. In this essay, we will examine the Vedic origins of the imagery of the Daks.in. ām¯urti. This m¯urti appears first and foremost to be an ideal image embedded in the ritual of initiation. The Vedic upanayana ceremony laid the structural foundations for the initiation rites of the later religious orders. The Daks.in. ām¯urti appears to be a token of the theistic transformation of the Vedic imagination. It illustrates how literate Saiva brahmins took the Hinduistic ´ turn. At first material images played, if at all, only a secondary role in this transformation. However, in a religious world that was increasingly pervaded by material images of the divine, it was bound to happen that the visionary 
+An example of such a conundrum is the so-called Daks.in. ām¯urti, mentioned in the Pāśupata texts, the Mahābhārata, and the later Saiva literature of the ´ Mantramārga. In this essay, we will examine the Vedic origins of the imagery of the Daks.in. ām¯urti. This m¯urti appears first and foremost to be an ideal image embedded in the ritual of initiatioṇThe Vedic upanayana ceremony laid the structural foundations for the initiation rites of the later religious orders. The Daks.in. ām¯urti appears to be a token of the theistic transformation of the Vedic imaginatioṇIt illustrates how literate Saiva brahmins took the Hinduistic ´ turṇAt first material images played, if at all, only a secondary role in this transformatioṇHowever, in a religious world that was increasingly pervaded by material images of the divine, it was bound to happen that the visionary 
 
 ∗ The first version of this article was published in Granoff, Phyllis & Koichi Shinohara (eds.), Images in Asian Religions. Text and Contexts. UBCPress, Vancouver–Toronto, 2004. pp. 117–48. 
 
@@ -799,7 +799,7 @@ The Satapathabrāhman ´ . a 11.5.4 is our earliest source for the ancient upana
 
 6 After this initiation—with or without delay (see below n. 11 on p. 508)—the ācārya teaches the Veda by making him repeat its quintessence, the Sāvitrī. 
 
-The importance attached to the position of pupil and teacher during the Veda instruction is apparent from the fact that it is singled out for specification in the Brāhman. a; there appear to be two different traditions. According to one tradition the student sits or stands at the right side (daks.in. atas) of the teacher, who, as is understood, is facing east. The position of the pupil is characterised by the term bulva/bulba. This word, apparently a hapax legomenon, is given by Mayrhofer ewa s.v. as ‘etwa “seitw¨arts”’ (with the remark: ‘nicht klar’). Because of this sideway position, this tradition is rejected in the Brāhman. a, which opts for the alternative: the student should sit opposite the teacher looking at him from east to west. 2 
+The importance attached to the position of pupil and teacher during the Veda instruction is apparent from the fact that it is singled out for specification in the Brāhmaṇa; there appear to be two different traditions. According to one tradition the student sits or stands at the right side (daks.iṇatas) of the teacher, who, as is understood, is facing east. The position of the pupil is characterised by the term bulva/bulba. This word, apparently a hapax legomenon, is given by Mayrhofer ewa s.v. as ‘etwa “seitw¨arts”’ (with the remark: ‘nicht klar’). Because of this sideway position, this tradition is rejected in the Brāhmaṇa, which opts for the alternative: the student should sit opposite the teacher looking at him from east to west. 2 
 
 1 Cf. Bodewitz 2000, 22 f. 
 
@@ -815,17 +815,17 @@ The importance attached to the position of pupil and teacher during the Veda ins
 
 Which direction, we may ask, faces the pupil in the situation that is rejected? The commentary of Sāyan. ācārya does not resolve the question. 3 There can be little doubt that the teacher, homologous to Agni, is facing east; 4 the student, on the other hand, may be thought to be looking at his teacher in profile, i.e. he may be facing north, for that is the region of the gods, 5 the region of living men as opposed to that of the deceased. 6 Or, he may face the northeast, since standing towards that direction Prajāpati created the creatures, there the gate of heaven is believed to stand. 7 The northeast may be particularly appropriate in the present case, because it not only is the direction into which Prajāpati issued the beings—Prajāpati to whom the student has just been consigned— but also is the point of the compass where the Sun (Savitr.) rises at the summer solstice to begin a new year, the Sun to whom the student has just as well been consigned and into whose mantra (Sāvitrī) he is actually being initiated, that is, whose mantra he is reciting. If directed to the northeast, the student is seated obliquely, not transversely, with respect to the teacher. It is difficult to determine whether bulva means ‘oblique’ or ‘transverse’. 
 
-Consequently, the first of the two alternatives discussed in the Satapatha- ´ brāhman. a, the one that is rejected by the Brāhman. a itself, namely that the student is sitting at the right side (daks.in. atas) of the teacher, allows for two interpretations: (1a) teacher is facing east and student is facing north, or (1b) 
+Consequently, the first of the two alternatives discussed in the Satapatha- ´ brāhmaṇa, the one that is rejected by the Brāhmaṇa itself, namely that the student is sitting at the right side (daks.iṇatas) of the teacher, allows for two interpretations: (1a) teacher is facing east and student is facing north, or (1b) 
 
-´atha ha´ıke daks.in. at´ah.[ | ] tis.t.hate vāśīnāya vā´nvāhur n´a t´athā kuryād y´o hainam. t´atra br¯uyād bulb´am. nv ā´ ay´am im´am ´ajījanata bulbo bhavis.yatī´tīśvar´o ha t´athaiv´a syāt t´asmāt pur´astād ev´a pratī´ce samī´ks.amān. āyā´nubr¯uyāt k 14 k 
+´atha ha´ıke daks.iṇat´ah.[ | ] tis.t.hate vāśīnāya vā´nvāhur n´a t´athā kuryād y´o hainam. t´atra br¯uyād bulb´am. nv ā´ ay´am im´am ´ajījanata bulbo bhavis.yatī´tīśvar´o ha t´athaiv´a syāt t´asmāt pur´astād ev´a pratī´ce samī´ks.amān. āyā´nubr¯uyāt k 14 k 
 
 Now some recite (to the pupil) while the latter is standing or sitting at the right side (of the teacher). One should not do so. One would be able to say to him in that case: ‘Yes indeed, he (the teacher) has begotten him (the student) sideways, and sideways (i.e. wayward) he (the student) will be’; and so, indeed, it will come to pass. Therefore he should recite to (the pupil) sitting in front of him, while the former is westwards looking. 
 
-3 Sāyan. a glosses: ayam ācārya imam śis.yam atha bulvam. tiraścīnam. prāṅmukham ajījanat tathā cāyam. [b]ulvah. parāṅmukho bhavis.yatītier I take prāṅmukham, like bulvam. tiraścīnam. , as an adverb qualifying ajījanat: ‘bulva, i.e. transversely, while facing forward/eastwards (prāṅmukham), he has begotten (the pupil)’; this adverb, referring to the position of the teacher, serves to pronounce the contrast with the pupil, who will turn away (parāṅmukha), will be adverse. Bulva thus means transverse (tiraścīna), adverse (parāṅmukha), which, again, suggests that teacher and pupil sit at right angles. 
+3 Sāyaṇa glosses: ayam ācārya imam śis.yam atha bulvam. tiraścīnam. prāṅmukham ajījanat tathā cāyam. [b]ulvah. parāṅmukho bhavis.yatītier I take prāṅmukham, like bulvam. tiraścīnam. , as an adverb qualifying ajījanat: ‘bulva, i.e. transversely, while facing forward/eastwards (prāṅmukham), he has begotten (the pupil)’; this adverb, referring to the position of the teacher, serves to pronounce the contrast with the pupil, who will turn away (parāṅmukha), will be adverse. Bulva thus means transverse (tiraścīna), adverse (parāṅmukha), which, again, suggests that teacher and pupil sit at right angles. 
 
 4 This is the default position. ‘In the domestic rites the sacrificer stands to the west of the fire facing the east’ (Gonda 1980, 52). Cf. Bodewitz 2000, 25, 49. 
 
-5 SBr 12.7.3.7: ´ ´uttaro va´ı devalok´o, d´aks.in. ah. pitr.lok´a[h.]. 
+5 SBr 12.7.3.7: ´ ´uttaro va´ı devalok´o, d´aks.iṇah. pitr.lok´a[h.]. 
 
 6 SBr 13.8.1.6: ´ ´udīcī va´ı manus.yā`n. ām. d´ık. Cf. Gonda 1980, 53; Bodewitz 2000, 23. 7 SBr 6.6.2.2-4: ´ 
 
@@ -841,7 +841,7 @@ Now some recite (to the pupil) while the latter is standing or sitting at the ri
 
 teacher is facing east and student is facing northeast. (1b) is clearly a variant of (1a) and a combination of both is perfectly feasible: the pupil faces north, but, if appropriate, may look towards the northeast. 8 
 
-That the Brāhman. a prefers alternative (2)—teacher and pupil sitting oppo site to one another, directed to the east and west respectively—-may above all have practical reasons, since the teacher bestows more than only learning upon the neophyte at this occasion; a change of position may have been thought to be cumbersome. 9 The first alternative (1a–b), on the other hand, because it makes sense in terms of the mystique of the quarters, may have preserved original traits. Moreover, the right side of the teacher has symbolic meaning. ‘There is ample evidence that the right hand or the right side of the body was decidedly preferred to the left.’ 10 We will return to this below. 
+That the Brāhmaṇa prefers alternative (2)—teacher and pupil sitting oppo site to one another, directed to the east and west respectively—-may above all have practical reasons, since the teacher bestows more than only learning upon the neophyte at this occasion; a change of position may have been thought to be cumbersome. 9 The first alternative (1a–b), on the other hand, because it makes sense in terms of the mystique of the quarters, may have preserved original traits. Moreover, the right side of the teacher has symbolic meaning. ‘There is ample evidence that the right hand or the right side of the body was decidedly preferred to the left.’ 10 We will return to this below. 
 
 The Satapathabrāhman ´ . a does itself refer to earlier modalities of the ritual recitation of the Sāvitrī, when it reads: ‘In former days, however, they recited that same verse (the Sāvitrī) at the end of the year (sam. vatsare), thinking “being as old as a year, indeed, children are born; as soon as born, we impart speech to him”.’ 11 The appropriate direction in this ritual is, or so it seems, the northeast, in which direction Prajāpati gave birth, Prajāpati who is equated with the year (Gonda 1984). 
 
@@ -859,7 +859,7 @@ The boy is not said to sit in or face the south, but to sit at the right side of
 
 10 Gonda 1977a, 624; Gonda 1980, 57–60. ‘In the case of male beings the right side was auspicious, most probably because it was the ‘male’ side. Atharvavedapariśis.t.a 70 c 25, 5 a royal sacrificer seeing that the flame of a (sacrificial) fire points to the right will be victorious. The side of strength and auspiciousness is also widely regarded as that of benignity, allegiance, benediction’ (op. cit. 60). 
 
-11 SBr 11.5.4.6: ´ tā´m. ha smaitā´m. purā´ sam. vatsar´e ’nvāhuh. sam. vatsar´asam. mitā va´ı g´arbhāh. pr´ajāyante jāt´a evā`smim. s t´ad vā´cam. dadhma ´ıti | Sāyan. a ad loc. takes this to mean that the teaching of the student of the Sāvitrī took place a year after the initiation (or after a shorter period as specified in the following paragraphs). 
+11 SBr 11.5.4.6: ´ tā´m. ha smaitā´m. purā´ sam. vatsar´e ’nvāhuh. sam. vatsar´asam. mitā va´ı g´arbhāh. pr´ajāyante jāt´a evā`smim. s t´ad vā´cam. dadhma ´ıti | Sāyaṇa ad loc. takes this to mean that the teaching of the student of the Sāvitrī took place a year after the initiation (or after a shorter period as specified in the following paragraphs). 
 
 
 
@@ -869,25 +869,25 @@ The boy is not said to sit in or face the south, but to sit at the right side of
 
 26 / At the Right Side of the Teacher 509 
 
-belongs, like the Satapathabrāhman ´ . a, to the White Yajurveda, the Pāraskara gr.hyas¯utra, follows the accepted tradition of the Brāhman. a, though it mentions the alternative. The place where the teaching takes place is specified: north of the sacrificial fire. 
+belongs, like the Satapathabrāhman ´ . a, to the White Yajurveda, the Pāraskara gr.hyas¯utra, follows the accepted tradition of the Brāhmaṇa, though it mentions the alternative. The place where the teaching takes place is specified: north of the sacrificial fire. 
 
-After (the pupil) has made a pradaks.in. a around the fire he takes his seat. The teacher, touched (by the pupil), pours oblations of ghee into the fire; when the remains have been eaten, he instructs him: ‘You are a brahmacārin, drink water, do your service, may you not sleep in the daytime, restrain your speech, put fuel on the fire, drink water.’ Then he recites to him the Sāvitrī, north of the sacrificial fire, while (the pupil) is sitting near him with his face turned west, looking (at him) and being looked at. Some: ‘to him while standing or sitting to his right side’. 12 
+After (the pupil) has made a pradaks.iṇa around the fire he takes his seat. The teacher, touched (by the pupil), pours oblations of ghee into the fire; when the remains have been eaten, he instructs him: ‘You are a brahmacārin, drink water, do your service, may you not sleep in the daytime, restrain your speech, put fuel on the fire, drink water.’ Then he recites to him the Sāvitrī, north of the sacrificial fire, while (the pupil) is sitting near him with his face turned west, looking (at him) and being looked at. Some: ‘to him while standing or sitting to his right side’. 12 
 
 The Gr.hyas¯utras of the R. gveda, the Aśvalāyana- ¯ and Sāṅkhāyanagr ´ .hyas¯utras, although different in details and sequence, seem basically to follow the accepted tradition of the White Yajurveda with regard to the place of teaching, to the north of the fire, and the vis-`a-vis position of teacher and pupil. 13 The same goes for the Gobhilagr.hyas¯utra of the Sāmaveda. 14 
 
 12 PārGS 2.3.1–5: 
 
-pradaks.in. am agnim. parītyopaviśati k 1 k anvārabdha ājyāhutīr hutvā prāśanānte ’thainam. sam. śāsti k 2 k brahmacāry asy apo ’śāna karma kuru mā divā sus.upthā vācam. yaccha samidham ādhehy apo ’śāneti k 3 k athāsmai sāvitrīm anvāhotta rato ’gneh. pratyaṅmukhāyopavis.t.āyopasannāya samīks.amān. āya samīks.itāya k 4 k daks.in. atas tis.t.hata āsīnāya vaike k 5 k 
+pradaks.iṇam agnim. parītyopaviśati k 1 k anvārabdha ājyāhutīr hutvā prāśanānte ’thainam. sam. śāsti k 2 k brahmacāry asy apo ’śāna karma kuru mā divā sus.upthā vācam. yaccha samidham ādhehy apo ’śāneti k 3 k athāsmai sāvitrīm anvāhotta rato ’gneh. pratyaṅmukhāyopavis.t.āyopasannāya samīks.amān. āya samīks.itāya k 4 k daks.iṇatas tis.t.hata āsīnāya vaike k 5 k 
 
-Words in bold face are literal quotations from the SBr 11.5.4.5, 14. Stenzler in his ´ translation (1878, 44) leaves daks.in. atas out altogether. Oldenberg in his translation (1886, 306) takes daks.in. atas as referring to the fire: ‘to the south (of the fire)’, which, since we are here concerned with a literal quote from the SBr, is certainly wrong. ´ 
+Words in bold face are literal quotations from the SBr 11.5.4.5, 14. Stenzler in his ´ translation (1878, 44) leaves daks.iṇatas out altogether. Oldenberg in his translation (1886, 306) takes daks.iṇatas as referring to the fire: ‘to the south (of the fire)’, which, since we are here concerned with a literal quote from the SBr, is certainly wrong. ´ 
 
 13 The Aśvalāyana ¯ gives the following procedure. The teacher, touched (by the pupil), after having poured (oblations of ghee into the fire), stands to the north of the fire, his face turned east; opposite of him, with his face turned west the other (AśvGS ¯ 1.20.2–3: samanvārabdhe hutv¯ottarato ’gneh. prāṅmukha ācāryo ’vatis.t.hate k 2 k purastāt pratyaṅmukha itarah. k 3 k ). Then, while pouring the water of his a˜njali into that of the pupil, the teacher consigns the pupil to Savitr. and to Prajāpati. After this the pupil puts on fuel and touches the fire. Then, without mentioning another position, the text continues by saying that the pupil, while reciting mantras, ‘approaches (the teacher), bends his knee, touches (the feet of the teacher), and should say: “O lord, teach the Sāvitrī, O lord, recite”.’ (AśvGS 1.21.4: [. . . ] ¯ upasthāya jānv ācyopasam. gr.hya br¯uyād adhīhi bho sāvitrīm. bho3 anubr¯uhīti k 4 k ). Cf. Sā˙nkhāyanagr ´ .hyas¯utra 2.5.8–12: 
 
-[. . . ] uttaren. āgnim upaviśatah. | prāṅmukha ācāryah. pratyaṅmukha itaro | adhīhi bho3 ity uktvā | ācārya om. kāram. prayujyāthetaram. vācayati sāvitrīm. bho3 anu br¯uhīti | athāsmai sāvitrīm avāha tat savitur varen. yam ity etām paccho ’rdharcaśo ’navānam k 5 k 
+[. . . ] uttaren. āgnim upaviśatah. | prāṅmukha ācāryah. pratyaṅmukha itaro | adhīhi bho3 ity uktvā | ācārya om. kāram. prayujyāthetaram. vācayati sāvitrīm. bho3 anu br¯uhīti | athāsmai sāvitrīm avāha tat savitur vareṇyam ity etām paccho ’rdharcaśo ’navānam k 5 k 
 
 14 GoGS 2.10.31–35: 
 
-udaṅ agner utsr.pya prāṅ ācārya upaviśaty udagagres.u darbhes.u k 31 k pratyaṅ mān. avako daks.in. ajānvakto ’bhimukha ācāryam udagagres.v eva darbhes.u k 32 k athainam. trih. pradaks.in. am. mu˜njamekhalām. pariharan vācayatīyam. duruktāt paribādhamāneti r.tasya goptrīti ca k 33 k athopasīdaty adhīhi bhoh. sāvitrīm. me bhavān anubravītv iti k 34 k tasmā anvāha paccho ’rddharcaśa r.kśa iti k 35 k 
+udaṅ agner utsr.pya prāṅ ācārya upaviśaty udagagres.u darbhes.u k 31 k pratyaṅ māṇavako daks.iṇajānvakto ’bhimukha ācāryam udagagres.v eva darbhes.u k 32 k athainam. trih. pradaks.iṇam. mu˜njamekhalām. pariharan vācayatīyam. duruktāt paribādhamāneti r.tasya goptrīti ca k 33 k athopasīdaty adhīhi bhoh. sāvitrīm. me bhavān anubravītv iti k 34 k tasmā anvāha paccho ’rddharcaśa r.kśa iti k 35 k 
 
 
 
@@ -897,9 +897,9 @@ udaṅ agner utsr.pya prāṅ ācārya upaviśaty udagagres.u darbhes.u k 31 k p
 
 
 
-The other tradition, rejected in the Satapathabrāhman ´ . a, we find in some Gr.hyas¯utras affiliated with the Black Yajurveda, though not in all. 15 For an assessment of the upanayana ritual according to this tradition, we turn to the elaborate description in the Bhāradvājagr.hyas¯utra. Its procedure may be epit omized (with cross-references to the Hiran. yakeśigr.hyas¯utra). 
+The other tradition, rejected in the Satapathabrāhman ´ . a, we find in some Gr.hyas¯utras affiliated with the Black Yajurveda, though not in all. 15 For an assessment of the upanayana ritual according to this tradition, we turn to the elaborate description in the Bhāradvājagr.hyas¯utra. Its procedure may be epit omized (with cross-references to the Hiraṇyakeśigr.hyas¯utra). 
 
-The teacher prepares for the homa sacrifice by consecrating the implements etc. (BhGS 1.3). He prepares west of the sacrificial fire a seat of grass (k¯urca), of which the grassblades are turned to the north. There the teacher takes his seat, his face turned to the east; the pupil (kumāra), who has put on the yaj˜nopavīta and sipped water, takes his seat at the right side (of his teacher) (daks.in. atas). 16 
+The teacher prepares for the homa sacrifice by consecrating the implements etc. (BhGS 1.3). He prepares west of the sacrificial fire a seat of grass (k¯urca), of which the grassblades are turned to the north. There the teacher takes his seat, his face turned to the east; the pupil (kumāra), who has put on the yaj˜nopavīta and sipped water, takes his seat at the right side (of his teacher) (daks.iṇatas). 16 
 
 The teacher performs the homa sacrifice (BhGS 1.4). Then he gives the pupil a new cloth, a girdle of mu˜nja grass (mau˜njī mekhalā), and a skin of the black antelope (ajina) (BhGS 1.5–6). Next (BhGS 1.7) (the teacher) strews to the west of the sacrificial fire darbha grasses, on which the two (teacher and pupil) take their stand, one facing east, the other west. The one facing east takes the hand of the one facing west and vice versa. A servant fills the a˜njalis of both with water. By his a˜njali (the teacher) transfers the water into the a˜njali (of the pupil). 17 
 
@@ -907,13 +907,13 @@ A formal interview takes place in which the teacher asks for the name of the pup
 
 15 Not, for instance, in the ApGS 4.11.7–8: ¯ 
 
-paris.ecanāntam. kr.tvāparen. āgnim udagagram. k¯urcam. nidhāya tasminn uttaren. a yaju s.opanetopaviśati k 7 k purastāt pratyaṅṅ āsīnah. kumāro daks.in. ena pān. inā daks.in. am. pādam anvārabhyāha sāvitrīm. bho anubr¯uhīti k 8 k The commentator Sudarśanārya, reading pratyaṅāsīnah., glosses: pratyaṅmukhah.. Sim ilarly the Baudhāyanagr.hyas¯utra 2.5.38–39: aparen. āgnim udagagram. k¯urcam. nidhāya tasmin prāṅmukha ācārya upaviśati— rās.t.rabhr.d asy ācāryāsandī mā tvad yos.am iti k 38 k tasyāgren. a kumāro darbhes.u 
+paris.ecanāntam. kr.tvāparen. āgnim udagagram. k¯urcam. nidhāya tasminn uttareṇa yaju s.opanetopaviśati k 7 k purastāt pratyaṅṅ āsīnah. kumāro daks.iṇena pāṇinā daks.iṇam. pādam anvārabhyāha sāvitrīm. bho anubr¯uhīti k 8 k The commentator Sudarśanārya, reading pratyaṅāsīnah., glosses: pratyaṅmukhah.. Sim ilarly the Baudhāyanagr.hyas¯utra 2.5.38–39: aparen. āgnim udagagram. k¯urcam. nidhāya tasmin prāṅmukha ācārya upaviśati— rās.t.rabhr.d asy ācāryāsandī mā tvad yos.am iti k 38 k tasyāgreṇa kumāro darbhes.u 
 
-pratyaṅmukha upaviśya pādāv anvārabhyāha—sāvitrīm. bho anubr¯uhīti k 39 k Although the site of the teaching is said to be to the west side of the sacrificial fire, the pupil is said to sit opposite (i.e. east) of the teacher while facing west, that is he sits with his back towards the fire blocking the teacher’s access to it. This evidently hybrid version of the ritual appears to be a conflation of the tradition of the White Yajurveda (and R. g- and Sāmaveda, as we saw above) and the alternative tradition (see below). The Gautamadharmas¯utra adds to the confusion when it declares that the student should sit at the right side of the teacher, but may face either east or north; in the former case he sits parallel to the teacher: prāṅmukho daks.in. atah. śis.ya udaṅmukho vā . . . (GauDhS 1, in Dutt 1988). 
+pratyaṅmukha upaviśya pādāv anvārabhyāha—sāvitrīm. bho anubr¯uhīti k 39 k Although the site of the teaching is said to be to the west side of the sacrificial fire, the pupil is said to sit opposite (i.e. east) of the teacher while facing west, that is he sits with his back towards the fire blocking the teacher’s access to it. This evidently hybrid version of the ritual appears to be a conflation of the tradition of the White Yajurveda (and R. g- and Sāmaveda, as we saw above) and the alternative tradition (see below). The Gautamadharmas¯utra adds to the confusion when it declares that the student should sit at the right side of the teacher, but may face either east or north; in the former case he sits parallel to the teacher: prāṅmukho daks.iṇatah. śis.ya udaṅmukho vā . . . (GauDhS 1, in Dutt 1988). 
 
 16 BhGS 1.3 (cf. HirGS 1.2.5–6): 
 
-[. . . ] aparen. āgnim udagagram. k¯urcam. nidhāya tasmin prāṅmukha upaviśati | yaj˜no pavītam. kr.tvāpa ācamya daks.in. atah. kumāra upaviśyānvārabhate k 3 k 17 BhGS 1.7: 
+[. . . ] aparen. āgnim udagagram. k¯urcam. nidhāya tasmin prāṅmukha upaviśati | yaj˜no pavītam. kr.tvāpa ācamya daks.iṇatah. kumāra upaviśyānvārabhate k 3 k 17 BhGS 1.7: 
 
 aparen. āgnim. dvayān darbhān p¯urvāparān udagagrān str.n. āti | tes.u p¯urvāparāv upa tis.t.hete | prāṅmukhah. pratyaṅmukhasya hastam. gr.hn.īyād ity ekam | pratyaṅmukhah. prāṅmukhasyety aparam | athainayoh. prais.akr.d a˜njalī udakena p¯urayati | athāsyā˜nja linā˜njalāv udakam ānayati | 
 
@@ -925,35 +925,35 @@ aparen. āgnim. dvayān darbhān p¯urvāparān udagagrān str.n. āti | tes.u p
 
 The teacher consigns the pupil to several other deities. The teacher asks him to step on a stone (aśman) and to put fuel on the fire (BhGS 1.8). 
 
-Then the pupil makes a pradaks.in. a around the fire, takes his seat at the right side (daks.in. atas), scil. of the teacher, while he turns to the north, touches (the feet of the teacher), and asks: ‘O lord, recite the Sāvitrī’. 18 The place where the teacher is seated is not again specified, but presumably he is still seated west of the fire facing east, that is the place where he performed the homa sacrifice, took the interview accompanied by the a˜njalis, and consigned the pupil to Prajāpati etc. This is corroborated by the Hiran. yakeśigr.hyas¯utra.19 
+Then the pupil makes a pradaks.iṇa around the fire, takes his seat at the right side (daks.iṇatas), scil. of the teacher, while he turns to the north, touches (the feet of the teacher), and asks: ‘O lord, recite the Sāvitrī’. 18 The place where the teacher is seated is not again specified, but presumably he is still seated west of the fire facing east, that is the place where he performed the homa sacrifice, took the interview accompanied by the a˜njalis, and consigned the pupil to Prajāpati etc. This is corroborated by the Hiraṇyakeśigr.hyas¯utra.19 
 
 The sitting position of the preceptor and his audience 
 
-Veda study is of course not restricted to the brahmacārin. Outside the village, retreated into the wilderness (aran. ya), brahmins devoted themselves to study and, if they became known for their learnedness, attracted students. In this way we conceive of the origin of the different Upanis.ad teaching traditions and of other early Indian schools of philosophy (above, p. 230). The subject of study and teaching may have changed accordingly, but the setting is traditional and had a long life. We find such an idyllic setting, for instance, in the Sāṅkhāyana- ´ gr.hyas¯utra, where it describes ‘the rules for the forest-dweller regarding his (Veda) study’. 20 
+Veda study is of course not restricted to the brahmacāriṇOutside the village, retreated into the wilderness (araṇya), brahmins devoted themselves to study and, if they became known for their learnedness, attracted students. In this way we conceive of the origin of the different Upanis.ad teaching traditions and of other early Indian schools of philosophy (above, p. 230). The subject of study and teaching may have changed accordingly, but the setting is traditional and had a long life. We find such an idyllic setting, for instance, in the Sāṅkhāyana- ´ gr.hyas¯utra, where it describes ‘the rules for the forest-dweller regarding his (Veda) study’. 20 
 
 For this study (svādhyāya) the forest-dwellers should go to a pure spot in the northeast that is open at the eastern side. The site is circular or marked by a circle with an entrance to the east or the north. After some preliminary rites, they may take up their studies. 21 
 
 The next section describes the teaching situation. 
 
-atha praviśya man. ḍalam | prāṅmukha ācārya upaviśyaty udaṅmukhā daks.in. ata ita re yathāpradhānam | asam. bhave sarvatomukhāh. | pratīks.erann udayam ādityasya | vij˜nāya cainam. dīdhitimantam | adhīhi bho3 iti daks.in. air daks.in. am. savyaih. savyam. daks.in. ottaraih. pān. ibhir upasam. gr.hya pādāv ācārasya nirn. iktau | (SāṅGS 6.3.1–6) ´ 
+atha praviśya man. ḍalam | prāṅmukha ācārya upaviśyaty udaṅmukhā daks.iṇata ita re yathāpradhānam | asam. bhave sarvatomukhāh. | pratīks.erann udayam ādityasya | vij˜nāya cainam. dīdhitimantam | adhīhi bho3 iti daks.iṇair daks.iṇam. savyaih. savyam. daks.iṇottaraih. pāṇibhir upasam. gr.hya pādāv ācārasya nirṇiktau | (SāṅGS 6.3.1–6) ´ 
 
 Then, after having entered the circle, the teacher is seated with his face turned to the east; the others sit with their faces turned to the north at the right side (of the 
 
 18 BhGS 1.8 (cf. HirGS 1.6.10, below, n. 19 on p. 511): 
 
-[. . . ] pradaks.in. am agnim. parikramya daks.in. ata udagāvr.tyopaviśyopasam. gr.hya pr.- cchati k 8 k sāvitrīm. bho anubr¯uhīti | 
+[. . . ] pradaks.iṇam agnim. parikramya daks.iṇata udagāvr.tyopaviśyopasam. gr.hya pr.- cchati k 8 k sāvitrīm. bho anubr¯uhīti | 
 
 19 HirGS 1.6.9–10: 
 
-aparen. āgnim udagagram. k¯urcam. nidhāya tasmin prāṅmukha upaviśati | rās.t.rabhr.d asy ācāryāsandī mā tvad yos.am k iti k 9 k ādityāyā˜njalim. kr.tvācāryāyopasam. gr.hya daks.in. atah. kumāra upaviśya | adhīhi bho | ity uktvāthāha | sāvitrīm. bho anubr¯uhi k iti k 10 k 
+aparen. āgnim udagagram. k¯urcam. nidhāya tasmin prāṅmukha upaviśati | rās.t.rabhr.d asy ācāryāsandī mā tvad yos.am k iti k 9 k ādityāyā˜njalim. kr.tvācāryāyopasam. gr.hya daks.iṇatah. kumāra upaviśya | adhīhi bho | ity uktvāthāha | sāvitrīm. bho anubr¯uhi k iti k 10 k 
 
 20 Sā˙nGS 6.1.1: ´ 
 
-athāto brahmān. am. brahmars.im. , brahmayonim indram [. . . ] sarvān eva p¯urvācāryān namasya svādhyāyāran. yakasya niyamān udāharis.yāmah. | 
+athāto brahmāṇam. brahmars.im. , brahmayonim indram [. . . ] sarvān eva p¯urvācāryān namasya svādhyāyāraṇyakasya niyamān udāharis.yāmah. | 
 
 21 Sā˙nGS 6.2.3–10: ´ 
 
-prāgjyotis.am aparājitāyām. diśi pun. yam upagamya deśam | ... man. ḍalam. tu prāgdvā ram udagdvāram. vā ... bahirman. ḍalasthābhir ācamya | prādhīyīran kr.taśāntayah. | 
+prāgjyotis.am aparājitāyām. diśi puṇyam upagamya deśam | ... man. ḍalam. tu prāgdvā ram udagdvāram. vā ... bahirman. ḍalasthābhir ācamya | prādhīyīran kr.taśāntayah. | 
 
 
 
@@ -963,13 +963,13 @@ prāgjyotis.am aparājitāyām. diśi pun. yam upagamya deśam | ... man. ḍala
 
 
 
-teacher), according to rank; if this is impossible (i.e., if there is not enough space) they may face all directions. They should wait for the rising of the sun. And when they have seen it (rise) in all its splendour, they say: ‘Sir, recite’, while touching with their right and left hands the hallowed feet of the teacher—his right (foot) with their right, his left (foot) with their left hands. 22 
+teacher), according to rank; if this is impossible (i.e., if there is not enough space) they may face all directions. They should wait for the rising of the suṇAnd when they have seen it (rise) in all its splendour, they say: ‘Sir, recite’, while touching with their right and left hands the hallowed feet of the teacher—his right (foot) with their right, his left (foot) with their left hands. 22 
 
 The Sāṅkhāyanagr ´ .hyas¯utra, which, as we have seen, agreed with the tradition of the White Yajurveda in opting for the face-to-face position of teacher and pupil north of the sacrificial fire in the upanayana ritual (see above n. 13 on p. 509), reserved the alternative position, in which the student sits at the right side of the teacher facing north, for the traditional school of the hermitage. 
 
 It is to be expected that this time-honoured traditional setting of religious education may be met again in the Mahābhārata. The practice to stand with one’s face turned to the east when making a solemn pronouncement or to reveal a secret is attested in the great epic, as the following example may show. 
 
-But then, when Kr.s.n. a, haven of brahmins, heard the cause of Pārtha’s (i.e. Arju na’s) sorrow, he touched water and stood still, his face turned to the east; and the mighty lotus-eyed one spoke this word for the benefit of Pān. ḍu’s son, intent upon killing the army of Jayadratha: ‘O Pārtha, there is a supreme unfailing weapon called “Pāśupata”, by which god Maheśvara killed all the Daityas in battle.’ 23 
+But then, when Kr.s.ṇa, haven of brahmins, heard the cause of Pārtha’s (i.e. Arju na’s) sorrow, he touched water and stood still, his face turned to the east; and the mighty lotus-eyed one spoke this word for the benefit of Pān. ḍu’s son, intent upon killing the army of Jayadratha: ‘O Pārtha, there is a supreme unfailing weapon called “Pāśupata”, by which god Maheśvara killed all the Daityas in battle.’ 23 
 
 However, I have not found in the Mahābhārata an exact parallel of the situation described in the Sāṅkhāyanagr ´ .hyas¯utra, in which the position of the audience is specified. 
 
@@ -977,13 +977,13 @@ The sitting position of guru and novice in early Saiva ´ initiation ritual
 
 We may next investigate whether the tradition of Vedic initiation and instruc tion informed similar rites in the emerging religious communities. In his Change 
 
-22 Cf. Apastambadharmas¯utra ¯ 1.(2).6.24: ekādhyāyī daks.in. am. bāhum. pratyupasīdet k 24 k yathāvakāśam. bahavah. k 25 k, which is translated by Olivelle (1999), 14: ‘A single stu dent should sit on his teacher’s right, while a group may sit as space permits.’ 23 MBh 7.57.14–16: 
+22 Cf. Apastambadharmas¯utra ¯ 1.(2).6.24: ekādhyāyī daks.iṇam. bāhum. pratyupasīdet k 24 k yathāvakāśam. bahavah. k 25 k, which is translated by Olivelle (1999), 14: ‘A single stu dent should sit on his teacher’s right, while a group may sit as space permits.’ 23 MBh 7.57.14–16: 
 
 śokasthānam. tu tac chrutvā pārthasya dvijaketanah. | 
 
-sam. spr.śyāmbhas tatah. kr. s.n. ah. prāṅmukhah. samavasthitah. k 14 k 
+sam. spr.śyāmbhas tatah. kr. s.ṇah. prāṅmukhah. samavasthitah. k 14 k 
 
-idam. vākyam. mahātejā babhās.e pus.kareks.an. ah. | 
+idam. vākyam. mahātejā babhās.e pus.kareks.aṇah. | 
 
 hitārtham. pān. ḍuputrasya saindhavasya vadhe vr.tah. k 15 k 
 
@@ -995,7 +995,7 @@ Cf. MBh 12.333.14cd–16ab:
 
 [. . . ] 
 
-sam. kalpayitvā trīn pin. d. ān svenaiva vidhinā prabhuh. k 14 k 
+sam. kalpayitvā trīn piṇd. ān svenaiva vidhinā prabhuh. k 14 k 
 
 ātmagātros.masam. bh¯utaih. snehagarbhais tilair api | 
 
@@ -1029,11 +1029,11 @@ The earliest text of a Saiva order that we have is the ´ Pāśupatas¯utra with
 
 ‘Shall’ (syā) refers to the time required, namely the time that is required (before the exposition can begin) by the ācārya, to consecrate a brahmin at Mahādeva’s ‘southern m¯urti’ with ashes that are consecrated with the (five) mantras, ‘Sadyojāta’ etc., and to initiate him in the mantra, after he has made him relinquish the signs of his origin—a brahmin whose (antecedents) have earlier been screened, as follows from the word ‘therefore’ (atah.) in the S¯utra, who comes (to him) from amongst the householders etc., and who has (already) engaged himself in fasting and observances. 24 
 
-The other Pāśupata text that has survived is the Gan. akārikā. The Ratnat.īkā, commenting on Gan. akārikā 5, in which the elements of the initiation are 
+The other Pāśupata text that has survived is the Gaṇakārikā. The Ratnat.īkā, commenting on Gaṇakārikā 5, in which the elements of the initiation are 
 
 24 Kaun. ḍinya ad PS 1.1 (p. 8): 
 
-syā ity es.ye kāle | yāvad ayam ācāryo gr.hasthādibhyo ’bhyāgatam. p¯urvam atah.- śabdāt parīks.itam. brāhman. am. vratopavāsādyam. * mahādevasya daks.in. asyām. m¯urtau sadyojātādisam. skr.tena bhasmanā sam. skaroti utpattiliṅgavyāvr.ttim. kr.tvā mantraśrā van. am. ca karoti tāvad es.yah. kālah. kriyate | * read: ◦āḍhyam. , instead of ◦ādyam. . 
+syā ity es.ye kāle | yāvad ayam ācāryo gr.hasthādibhyo ’bhyāgatam. p¯urvam atah.- śabdāt parīks.itam. brāhmaṇam. vratopavāsādyam. * mahādevasya daks.iṇasyām. m¯urtau sadyojātādisam. skr.tena bhasmanā sam. skaroti utpattiliṅgavyāvr.ttim. kr.tvā mantraśrā vaṇam. ca karoti tāvad es.yah. kālah. kriyate | * read: ◦āḍhyam. , instead of ◦ādyam. . 
 
 I consider the interpretation that takes the locative m¯urtau as depending on ◦sam. skr.tena, rather than on sam. skaroti, possible, though less likely in the present context for reasons given below (cf., however, the T.īkā quoted in n. 38 on p. 518). 
 
@@ -1047,21 +1047,21 @@ I consider the interpretation that takes the locative m¯urtau as depending on �
 
 summed up—the (right) materials, the (right) time, the ritual (of consecration), the image (m¯urti), and the preceptor (guru) 25 —explains what in the context of the consecration ritual (sam. skāra) is meant by m¯urti. It reads: 
 
-The word image (m¯urti) in the Kārikā aims at (abhipretah.) the spot (bh¯upradeśah.) a little to the right (daks.in. a) of that, which [by Kaun. ḍinya], in [his commentary on] the ‘S¯utra on offering’ [i.e. PS 1.8–9], is described (vyākhyātam. ) as the locus (sthāna) of worship of Mahādeva that is characterized by the erect phallus etc.—a spot not separated from it by a wall (kuḍya) or the like. 26 
+The word image (m¯urti) in the Kārikā aims at (abhipretah.) the spot (bh¯upradeśah.) a little to the right (daks.iṇa) of that, which [by Kaun. ḍinya], in [his commentary on] the ‘S¯utra on offering’ [i.e. PS 1.8–9], is described (vyākhyātam. ) as the locus (sthāna) of worship of Mahādeva that is characterized by the erect phallus etc.—a spot not separated from it by a wall (kuḍya) or the like. 26 
 
-‘M¯urti’ is here to be interpreted as a location, ‘at the m¯urti’, referring to the site of consecration, said to be by the right side of (◦daks.in. a◦), close to ◦samīpa◦ and not separated ◦avyavahito from that which in Pāśupatas¯utra 1.8–9 is qualified as Mahādeva’s manifestation (r¯upa). If we assume that the commentator of the Gan. akārikā and Kaun. ḍinya both describe the same initiation tradition, we may deduce from the T.īkā that the words of Kaun. ḍinya ad PS 1.1, mahādevasya daks.in. asyām. m¯urtau, are to be understood as saying that the novice is seated on the right side of Mahādeva. 27 
+‘M¯urti’ is here to be interpreted as a location, ‘at the m¯urti’, referring to the site of consecration, said to be by the right side of (◦daks.iṇa◦), close to ◦samīpa◦ and not separated ◦avyavahito from that which in Pāśupatas¯utra 1.8–9 is qualified as Mahādeva’s manifestation (r¯upa). If we assume that the commentator of the Gaṇakārikā and Kaun. ḍinya both describe the same initiation tradition, we may deduce from the T.īkā that the words of Kaun. ḍinya ad PS 1.1, mahādevasya daks.iṇasyām. m¯urtau, are to be understood as saying that the novice is seated on the right side of Mahādeva. 27 
 
 Though the esoteric intention of both authors clearly hampers our under standing, I would hazard the conjecture that the guru, who initiates the student into the Pāśupata observance (vrata) by communicating to him the doctrine as revealed by Siva himself in the ´ Pāśupatas¯utra, embodies Siva. The novice is ´ seated next to him on his right-hand side, that is, he is situated ‘at the m¯urti’; and this designation is understandable as it refers to a situation in which the neophyte envisages the image (m¯urti) of the divine preceptor in his guru, that is, he sits at Mahādeva’s visual manifestation and sees Him, His r¯upa, His benign epiphany, in front of him, in profile. The two natures of the teacher, the learned and pious person of flesh and blood, and the divine archetype are explicitly stated in the T.īkā on the word ‘guru’. 
 
 ‘Guru’ is the preceptor (ācārya); he has two forms, on account of the distinction supreme and not-supreme. With regard to these (two forms) not-supreme is he as 
 
-25 Gan. akārikā 5cd: dravyam. kālah. kriyā m¯urtir guruś caiveha pa˜ncamah.. 
+25 Gaṇakārikā 5cd: dravyam. kālah. kriyā m¯urtir guruś caiveha pa˜ncamah.. 
 
-26 Bhāsarvaj˜na (?) ad Gan. akārikā 5c (p. 9): 
+26 Bhāsarvaj˜na (?) ad Gaṇakārikā 5c (p. 9): 
 
-m¯urtiśabdena yad upahāras¯utre mahādevejyāsthānam ¯urdhvaliṅgādilaks.an. am. vyā khyātam. tatsamīpadaks.in. abh¯upradeśah. kut.yādyavyavahito* ’trābhipretah. As Harunaga Isaacson has suggested to me, we should read kuḍyādya◦, instead of kut.yā dya◦. I cannot subscribe to the translation of Oberhammer (1984, viii), which makes m¯urti- śabdena the logical subject of vyākhyātam. (‘Mit dem Wort m¯urtih., das im Verehrungs s¯utram [vorkommt], wird der große Gott als [sichtbares] Object der Verehrung (mahā devejyāsthānam) genannt, das [ikonographisch] durch das aufgerichtete Glied gekenn zeichnet ist [¯urdhvaliṅgādilaks.an. am]’). The commentator’s wording seems to me on the other hand a sign that he tried to avoid saying that the m¯urti meant here is a sculpture that has the actual iconographic characteristics of ¯urdhvaliṅgādi. 
+m¯urtiśabdena yad upahāras¯utre mahādevejyāsthānam ¯urdhvaliṅgādilaks.aṇam. vyā khyātam. tatsamīpadaks.iṇabh¯upradeśah. kut.yādyavyavahito* ’trābhipretah. As Harunaga Isaacson has suggested to me, we should read kuḍyādya◦, instead of kut.yā dya◦. I cannot subscribe to the translation of Oberhammer (1984, viii), which makes m¯urti- śabdena the logical subject of vyākhyātam. (‘Mit dem Wort m¯urtih., das im Verehrungs s¯utram [vorkommt], wird der große Gott als [sichtbares] Object der Verehrung (mahā devejyāsthānam) genannt, das [ikonographisch] durch das aufgerichtete Glied gekenn zeichnet ist [¯urdhvaliṅgādilaks.aṇam]’). The commentator’s wording seems to me on the other hand a sign that he tried to avoid saying that the m¯urti meant here is a sculpture that has the actual iconographic characteristics of ¯urdhvaliṅgādi. 
 
-27 To interpret the word m¯urtau here (above, n. 24 on p. 513) in conformity with the com mentary on the Gan. akārikā was first suggested to me by Dr G´erard Colas. 
+27 To interpret the word m¯urtau here (above, n. 24 on p. 513) in conformity with the com mentary on the Gaṇakārikā was first suggested to me by Dr G´erard Colas. 
 
 
 
@@ -1077,17 +1077,17 @@ If we turn to the Svacchandatantra, describing the samayadīks.ā, we find the a
 
 After he has performed the (preliminary) rites, he [i.e. the guru], rejoiced at heart, makes the pupil, whose eyes are full of joy, stand up and, taking him by his hand, leads him towards the ‘southern m¯urti’: Having made a circle there into a seat (consisting) of the syllable om with the help of a flower, he places the pupil upon it, his body erect, his face turned to the north. After the guru has installed himself whilst facing east, he performs the sprinkling and subsequent rites. 29 
 
-The Daks.in.am¯ urti ¯ 
+The Daks.iṇam¯ urti ¯ 
 
-From the place of initiation where Siva manifests himself to the novice for the ´ first time in that He assumes the form of guru, we now proceed to the public domain of the temple. In that context the word m¯urti is used to refer to the physical object of veneration. This connotation underlies the T.īkā’s description of the daily worship of the initiated Pāśupata, who, after his bath in ashes, 
+From the place of initiation where Siva manifests himself to the novice for the ´ first time in that He assumes the form of guru, we now proceed to the public domain of the temple. In that context the word m¯urti is used to refer to the physical object of veneratioṇThis connotation underlies the T.īkā’s description of the daily worship of the initiated Pāśupata, who, after his bath in ashes, 
 
-enters slowly the sanctum. Then he falls to his knees on a spot to the right of the image (m¯urtidaks.in. e bh¯upradeśe), makes an a˜njali before his heart, and looks at Siva in the image as if He were there in His very person, ´ 
+enters slowly the sanctum. Then he falls to his knees on a spot to the right of the image (m¯urtidaks.iṇe bh¯upradeśe), makes an a˜njali before his heart, and looks at Siva in the image as if He were there in His very person, ´ 
 
 and which means that, 
 
 he, fully concentrated and with his head turned towards the north, practises japa with the aim of that (viśes.a) detachment from the sensual world, after which japa he sinks into meditation on Siva; only then ( ´ eva) he should burst into repeated boisterous laughter. 30 
 
-28 Bhāsarvaj˜na (?) ad Gan. akārikā 5c (p. 9): 
+28 Bhāsarvaj˜na (?) ad Gaṇakārikā 5c (p. 9): 
 
 gurur ācāryah. sa dvividhah. parāparabhedāt | tatrāparah. pa˜ncārthaj˜nānamaryādānvī tah. | ... tasyādhis.t.hātā bhagavān maheśvarah. paro guruh. | 29 SvT (Bombay ed.) 3.129–131ab: 
 
@@ -1095,7 +1095,7 @@ kr.takr.tyah. prahr. s.t.ātmā prahr. s.t.anayanam. śiśum |
 
 utthāpya hastāt sam. gr.hya daks.in. ām. m¯urtim ānayet k 129 k 
 
-tatra man. ḍalakam. kr.tvā pus.pen. a pran. avāsanam | 
+tatra man. ḍalakam. kr.tvā pus.peṇa praṇavāsanam | 
 
 tasyopari śiśum. nyasya ¯urdhvakāyam udaṅmukham k 130 k 
 
@@ -1103,9 +1103,9 @@ guruh. p¯urvānanah. sthitvā proks.an. ādīni kārayet |
 
 Ks.emarāja ad SvT (Bombay ed.) 3.129d (I, p. 212): daks.in. ām. anuk¯ulām. śivātmikām e va, na tu pāśavīm. dehamayīm k (“‘daks.in. ām”, i.e. favourable, purely of Siva’s/auspicious ´ nature, but not a paśu-type, corporeal (m¯urti)’). See also SvT 4.496 (sādhakābhis.eka) and SvT 4.468–9 (ācāryābhis.eka). Cf. Mr.A Kr. 7.61–62, 8.198–202ab. ¯ 
 
-30 Bhāsarvaj˜na (?) ad Gan. akārikā 7 (p. 18): 
+30 Bhāsarvaj˜na (?) ad Gaṇakārikā 7 (p. 18): 
 
-. . . śanair garbhagr.ham. praviśet | tad anu m¯urtidaks.in. e bh¯upradeśe jānunī pātayitvā hr.di cā˜njalim. baddhvā m¯urtistham. sāks.ād iva śivahm. i paśyan . . . sam. yatātmano ttarābhimukhena pratyāhāraviśes.ārtham. japtavyam. japtvā tu śivadhyānāsakta evāt.t.a 
+. . . śanair garbhagr.ham. praviśet | tad anu m¯urtidaks.iṇe bh¯upradeśe jānunī pātayitvā hr.di cā˜njalim. baddhvā m¯urtistham. sāks.ād iva śivahm. i paśyan . . . sam. yatātmano ttarābhimukhena pratyāhāraviśes.ārtham. japtavyam. japtvā tu śivadhyānāsakta evāt.t.a 
 
 
 
@@ -1135,7 +1135,7 @@ The commentator rejects the view of some (ity eke) who say that he may burst int
 
 niveśayati manm¯urtyāhmi ātmānam. madgatah. śucih. | 
 
-rudradaks.in. am¯urtyām. vā caturdaśyām. viśes.atah. k 
+rudradaks.iṇam¯urtyām. vā caturdaśyām. viśes.atah. k 
 
 siddhair brahmars.ibhiś caiva devalokaiś ca p¯ujitah. | 
 
@@ -1143,11 +1143,11 @@ gandharvair bh¯utasam. ghaiś ca gīyamāno mahātapāh. |
 
 praviśet sa mahātejā mām. vā śam. karam eva ca k 
 
-Cf. ibiḍll. 3067 f. daks.in. am¯urti here instead of daks.in. ām¯urti for metrical reasons. I am grateful to Phyllis Granoff who pointed these passages out to me. 
+Cf. ibiḍll. 3067 f. daks.iṇam¯urti here instead of daks.in. ām¯urti for metrical reasons. I am grateful to Phyllis Granoff who pointed these passages out to me. 
 
 32 Kaun. ḍinya ad PS 1.9 (p. 15): 
 
-devasya iti s.as.t.hī | svasvāmibhāvah. sambandhah. | parigrahārtham evādhikurute | atra daks.in. eti dikprativibhāge bhavati | ādityo diśo vibhajati | diśaś ca m¯urtim. vibha janti | 
+devasya iti s.as.t.hī | svasvāmibhāvah. sambandhah. | parigrahārtham evādhikurute | atra daks.iṇeti dikprativibhāge bhavati | ādityo diśo vibhajati | diśaś ca m¯urtim. vibha janti | 
 
 
 
@@ -1167,11 +1167,11 @@ In spite of the use of the word mukha, used here in figurative sense, I think th
 
 In the direct vision that is granted to the Pāśupata the ideal image of Mahādeva is visualized as being accompanied by his acolytes Nandin and Mahākāla, the 
 
-m¯urtir nāma yad etad devasya daks.in. e pārśve sthitenodaṅmukhenopānte yad r¯upam upalabhyate vr. s.adhvajaś¯ulapān. inandimahākālordhvaliṅgādilaks.an. am. yad vā laukikāh. pratipadyante [ | ] mahādevasyāyatanam iti tatropastheyam | 
+m¯urtir nāma yad etad devasya daks.iṇe pārśve sthitenodaṅmukhenopānte yad r¯upam upalabhyate vr. s.adhvajaś¯ulapāṇinandimahākālordhvaliṅgādilaks.aṇam. yad vā laukikāh. pratipadyante [ | ] mahādevasyāyatanam iti tatropastheyam | 
 
 I propose to read a dan. ḍa after pratipadyante. 
 
-33 The adverbial daks.in. ena (cf. MBh 1.203.21, above, p. 500) is equivalent to daks.in. ā, which is the oia instrumental in ā preserved in some adverbs. Wackernagel 1930, III § 41b s.v. d´aks.in. a: ‘daks.in. ā´ zur rechten Seite.’ The phrase daks.in. ām¯urtigrahan. āt in his commen tary ad PS 1.9 shows that Kaun. ḍinya takes daks.in. ām¯urteh. as a compound, altough he does not explain it. However, his speaking of ‘eastern’, ‘northern’, and ‘western’ m¯urtis (below, n. 34 on p. 517) implies that he takes the compound as a Karmadhāraya. In the gloss (above, n. 32 on p. 516 f.) he makes clear that ‘southern’ is to be understood as ‘at the right side of’ (daks.in. e pārśve). This is his explanation of the adverbial daks.in. ā (cf. below, n. 39 on p. 518). 
+33 The adverbial daks.iṇena (cf. MBh 1.203.21, above, p. 500) is equivalent to daks.in. ā, which is the oia instrumental in ā preserved in some adverbs. Wackernagel 1930, III § 41b s.v. d´aks.iṇa: ‘daks.in. ā´ zur rechten Seite.’ The phrase daks.in. ām¯urtigrahan. āt in his commen tary ad PS 1.9 shows that Kaun. ḍinya takes daks.in. ām¯urteh. as a compound, altough he does not explain it. However, his speaking of ‘eastern’, ‘northern’, and ‘western’ m¯urtis (below, n. 34 on p. 517) implies that he takes the compound as a Karmadhāraya. In the gloss (above, n. 32 on p. 516 f.) he makes clear that ‘southern’ is to be understood as ‘at the right side of’ (daks.iṇe pārśve). This is his explanation of the adverbial daks.in. ā (cf. below, n. 39 on p. 518). 
 
 34 In this way the daks.in. ām¯urti continues the R. gvedic idea that the supreme deity manifests only one fourth of himself. R. V 10.90.3–4: 
 
@@ -1185,7 +1185,7 @@ t´ato v´ıs.v`aṅ vyakrāmat sāśanānaśan´e abh´ı k 4 k
 
 This seems to be the purport of Kaun. ḍinya’s remark (ibiḍp. 15): daks.in. ām¯urtigrahan. āt p¯urvottarapaścimānām. m¯urtīnām. pratis.edhah. | 
 
-35 R.C. Zaehner’s translation in Hindu Scriptures, p. 197: ajāta ity evam. kaścid bhīruh. prapadyate | rudra yat te daks.in. am. mukham. tena mām. pāhi nityam k 21 k 
+35 R.C. Zaehner’s translation in Hindu Scriptures, p. 197: ajāta ity evam. kaścid bhīruh. prapadyate | rudra yat te daks.iṇam. mukham. tena mām. pāhi nityam k 21 k 
 
 
 
@@ -1199,15 +1199,15 @@ bull-banner etc., in short, a ‘tableau de la troupe’. The physical image in 
 
 The definition of God’s figure of grace 
 
-The concept of daks.in. ām¯urti thus comprises the manifested form (r¯upa) of God, the (physical) image or body (m¯urti) in which it may be envisaged, and the right side (daks.in. e pārśve), which indicates the Pāśupata’s position with respect to Mahādeva and his embodiment. As such the term is applicable to every situation in which the Pāśupata enters into contact with his object of worship. And this appears to have been the intention of the author of the Pāśupatas¯utra when we read PS 1.8–9 coherently (as also the author of the T.īkā seems to have done: upahāras¯utra, above, p. 514): ‘He should worship with offerings of laughter, singing, dancing, bellowing, obeisance, and muttering to the figure of grace (daks.in. ām¯urti) of Mahādeva.’ 37 The same idea underlies the Ratnat.īkā, where it says that the Pāśupata should consecrate the ashes with mantras in the temple ‘at Siva’s Daks ´ .in. ām¯urti’, 38 or the Skandapurān. a when it advises that one should offer rice pudding with ghee at the ‘southern m¯urti’ during one year in order to become like Nandin. 39 
+The concept of daks.in. ām¯urti thus comprises the manifested form (r¯upa) of God, the (physical) image or body (m¯urti) in which it may be envisaged, and the right side (daks.iṇe pārśve), which indicates the Pāśupata’s position with respect to Mahādeva and his embodiment. As such the term is applicable to every situation in which the Pāśupata enters into contact with his object of worship. And this appears to have been the intention of the author of the Pāśupatas¯utra when we read PS 1.8–9 coherently (as also the author of the T.īkā seems to have done: upahāras¯utra, above, p. 514): ‘He should worship with offerings of laughter, singing, dancing, bellowing, obeisance, and muttering to the figure of grace (daks.in. ām¯urti) of Mahādeva.’ 37 The same idea underlies the Ratnat.īkā, where it says that the Pāśupata should consecrate the ashes with mantras in the temple ‘at Siva’s Daks ´ .in. ām¯urti’, 38 or the Skandapurāṇa when it advises that one should offer rice pudding with ghee at the ‘southern m¯urti’ during one year in order to become like Nandin. 39 
 
 It seems obvious that the same idea underlies the initiation rite, in which the place of the physical image, i.e. the m¯urti, may be taken by the guru who 
 
 36 This position conforms best with the view of images maintained in the Nyāya school, which is generally believed to have had close links with the Pāśupata. In Colas 2004, 163 this author describes Udayana’s point of view as follows: ‘The rite does not specifically invest the image with a divine presence or power through a mechanical process, but occasions the conscious reflection, by deities, of themselves as being present in the image.’ In other words, Siva’s presence in the Daks ´ .in. ām¯urti is an act of grace (parigraha). 
 
-37 PS 1.8–9: hasitagītanr.ttaḍum. ḍum. kāranamaskārajapyopahāren. opatis.t.het mahādevasya daks.in. ām¯urteh. k 8–9 k I take daks.in. ām¯urteh. here as genitivus pro dativo depending on upahāren. a (see Speijer 1889, § 132). Alternatively, we may read an accusative, daks.in. ā m¯urtim, in accordance with the Benares and Calcutta mss of the S¯utras and some testimonies. See Bisschop 2006a, 5. 
+37 PS 1.8–9: hasitagītanr.ttaḍum. ḍum. kāranamaskārajapyopahāreṇopatis.t.het mahādevasya daks.in. ām¯urteh. k 8–9 k I take daks.in. ām¯urteh. here as genitivus pro dativo depending on upahāreṇa (see Speijer 1889, § 132). Alternatively, we may read an accusative, daks.in. ā m¯urtim, in accordance with the Benares and Calcutta mss of the S¯utras and some testimonies. See Bisschop 2006a, 5. 
 
-38 Ratnat.īkā at Gan. akārikā 7 (p. 18): . . . śivadaks.in. am¯urtau mantraih. sam. skr.tya . . . . Cf. Kaun. ḍinya ad PS 1.1 (above, p. 513). 
+38 Ratnat.īkā at Gaṇakārikā 7 (p. 18): . . . śivadaks.iṇam¯urtau mantraih. sam. skr.tya . . . . Cf. Kaun. ḍinya ad PS 1.1 (above, p. 513). 
 
 39 SP 27.31: 
 
@@ -1221,9 +1221,9 @@ tasminn āyatane rudram. tr.n. āṅgah. sa mahān r. s.ih. |
 
 daks.in. ām. m¯urtim āsthāya stauti nityam. kapardinam | 
 
-divaukasas tam abhyarcya bhavanti gan. apādhipāh. k 15 k 
+divaukasas tam abhyarcya bhavanti gaṇapādhipāh. k 15 k 
 
-When the compound daks.in. ām¯urti is dissolved, daks.in. a is taken as an adjective— sometimes inflected nominally (above), sometimes pronominally (e.g. Kaun. ḍinya ad PS 1.1, quoted in n. 24 on p. 513)—which shows again that we should read daks.in. ām¯urti as a Karmadhāraya compounḍHowever, when dissolved, the original use of the adverb daks.in. ā´ (= daks.in. ena) is ignored. 
+When the compound daks.in. ām¯urti is dissolved, daks.iṇa is taken as an adjective— sometimes inflected nominally (above), sometimes pronominally (e.g. Kaun. ḍinya ad PS 1.1, quoted in n. 24 on p. 513)—which shows again that we should read daks.in. ām¯urti as a Karmadhāraya compounḍHowever, when dissolved, the original use of the adverb daks.in. ā´ (= daks.iṇena) is ignored. 
 
 
 
@@ -1241,11 +1241,11 @@ This obeisance is to Him who has the form of the illustrious teacher,
 
 to the illustrious figure of grace. 40 
 
-The Daks.in.am¯ urti and iconography ¯ 
+The Daks.iṇam¯ urti and iconography ¯ 
 
 Having thus established the original meaning of Daks.in. ām¯urti, we may proceed to its current iconographic denotation. 
 
-Among the earliest texts that describe the daks.in. ām¯urti in iconographic terms may be the two Upajāti verses that are quoted by Gopinatha Rao, which he ascribed to the Vis.n. udharmottarapurān. a, but which are not found in the printed text of that name. 
+Among the earliest texts that describe the daks.in. ām¯urti in iconographic terms may be the two Upajāti verses that are quoted by Gopinatha Rao, which he ascribed to the Vis.ṇudharmottarapurāṇa, but which are not found in the printed text of that name. 
 
 His right (lower) hand shows the (j˜nāna) mudrā and in his (right) upper (hand) he (holds) a white rosary; in his left (lower hand) he is holding a book comprising all the Agamas and more, and with his upper (left hand) he holds the cup with ¯ nectar. 
 
@@ -1259,11 +1259,11 @@ One account gives an explanation regarding the etymology of this name; it states
 
 41 Rao 1914, II.2, Appendix B, p. 140 (cf. Mayamata 36.98–101): 
 
-daks.en. a mudrām. pratipādayantam. sitāks.as¯utram. ca tathordhvabhāge | 
+daks.eṇa mudrām. pratipādayantam. sitāks.as¯utram. ca tathordhvabhāge | 
 
-vāme ca pustām akhilāgamādyām. bibhrān. am ¯urdhvena sudhādharam. ca k 
+vāme ca pustām akhilāgamādyām. bibhrāṇam ¯urdhvena sudhādharam. ca k 
 
-sitāmbujastham. sitavarn. am īśam. sitāmbarālepanam indumaulim | 
+sitāmbujastham. sitavarṇam īśam. sitāmbarālepanam indumaulim | 
 
 j˜nānam. munibhyah. pratipādayantam. tam. daks.in. ām¯urtim udāharanti k 
 
@@ -1283,7 +1283,7 @@ As to why the southern direction, which is believed almost everywhere in India t
 
 It is not beyond reason that we explain this curiously positive evaluation of the southern direction on the basis of the same religious principle by which the Furies in Greece came to be called the ‘Eumenides’, and Rudra, the ferocious Howler, came to be addressed as Siva, the Auspicious. Perhaps the worshippers of ´ Siva ´ hoped that by having the Divine Preceptor face the southern direction, that area would, thereby, lose its sinister qualities and become benign. 45 
 
-Although I shall not deny that considerations such as the above may have played some role, at least in coming to terms with the apparent incongruity once established, it is important to recognize that, if they played a role, they did so in retrospect. The cause of the alleged incongruity, I would like to argue, is a reorientation of the tradition. A cult concept was transposed to iconography. Part of the original meaning was retained—Siva as the source of knowledge— ´ part of it was reinterpreted, namely, the direction God faces when expounding His wisdom: His ‘right side’ became his ‘southern face’. The southern temple walls were consequently thought most suitable for showing images of Siva in ´ his role of teacher. 46 Thus the daks.in. ām¯urti entered the textbooks of Indian architecture, for instance the Mayamata, which divided Kaun. ḍinya’s vision into two. 
+Although I shall not deny that considerations such as the above may have played some role, at least in coming to terms with the apparent incongruity once established, it is important to recognize that, if they played a role, they did so in retrospect. The cause of the alleged incongruity, I would like to argue, is a reorientation of the traditioṇA cult concept was transposed to iconography. Part of the original meaning was retained—Siva as the source of knowledge— ´ part of it was reinterpreted, namely, the direction God faces when expounding His wisdom: His ‘right side’ became his ‘southern face’. The southern temple walls were consequently thought most suitable for showing images of Siva in ´ his role of teacher. 46 Thus the daks.in. ām¯urti entered the textbooks of Indian architecture, for instance the Mayamata, which divided Kaun. ḍinya’s vision into two. 
 
 A chacun des paliers des temples il faut disposer aux points cardinaux des (images des) dieux. Au rez-de-chauss´ee on place `a l’Est les deux guardiens de la porte, Nandi et Kāla; au Sud c’est la Daks.in. ām¯urti, `a l’Ouest Acyuta ou Li˙ngasambh¯uta et au Nord Pitāmaha. 47 
 
@@ -1295,7 +1295,7 @@ A chacun des paliers des temples il faut disposer aux points cardinaux des (imag
 
 46 Harle 1986, 301: 
 
-All the principal images of the Brahmanical pantheon are represented in South India during the Col.a perioḍThere is a particular predilection for Bhiks.āt.ana, Siva as the ´ naked young ascetic, and for Siva as Daks ´ .in. ām¯urti, the expounder of yoga, music and the śāstras, who is always, where possible, facing south (daks.in. a means ‘south’, and although there is no very convincing explanation of the name, it may account in part for the popularity of this image in South India). 
+All the principal images of the Brahmanical pantheon are represented in South India during the Col.a perioḍThere is a particular predilection for Bhiks.āt.ana, Siva as the ´ naked young ascetic, and for Siva as Daks ´ .in. ām¯urti, the expounder of yoga, music and the śāstras, who is always, where possible, facing south (daks.iṇa means ‘south’, and although there is no very convincing explanation of the name, it may account in part for the popularity of this image in South India). 
 
 47 Mayamata 19.39–40 (Translation Bruno Dagens): 
 
@@ -1321,11 +1321,11 @@ This incongruity may be considered to have been solved when the image of the Dak
 
 The genesis of the iconic representation of the teaching Siva thus ended with ´ his ‘banishment’ outside the cultic sphere. The idea of the guru as the locus (sthāna) or support of the divinity was transferred onto the central cult object in the sanctum, the liṅga. Therewith the Daks.in. ām¯urti on the southern outer temple wall lost its original ritual setting. It became part of the iconographic programme of the Siva temple. ´ 
 
-The process of transformation from cult concept into an iconic image seems to have been completed (in South India at least) by the tenth century (i.e. the early Col.a period), but may have started much earlier. An early textual testimony of this process is found in the Skandapurān. a. It tells the myth of Tilottamā that we discussed above, pp. 498 f. When the nymph bows to Siva’s southern appearance ( ´ daks.in. ām. m¯urtim. ), the face of the guru of the gods (mukham. suraguros) emerged, ‘possessed of the colour of a languid cloud laden with water, having a ferocious voice, with dreadful teeth shining (in an open mouth), and the corners of the eyes bloodshot and glittering’ (SP 62.18– 19). The ‘incongruity’ is obviously not yet solved, since the description of this face suits the figure of Aghora/Bhairava, not that of the teacher or guru. 
+The process of transformation from cult concept into an iconic image seems to have been completed (in South India at least) by the tenth century (i.e. the early Col.a period), but may have started much earlier. An early textual testimony of this process is found in the Skandapurāṇa. It tells the myth of Tilottamā that we discussed above, pp. 498 f. When the nymph bows to Siva’s southern appearance ( ´ daks.in. ām. m¯urtim. ), the face of the guru of the gods (mukham. suraguros) emerged, ‘possessed of the colour of a languid cloud laden with water, having a ferocious voice, with dreadful teeth shining (in an open mouth), and the corners of the eyes bloodshot and glittering’ (SP 62.18– 19). The ‘incongruity’ is obviously not yet solved, since the description of this face suits the figure of Aghora/Bhairava, not that of the teacher or guru. 
 
 p¯urvāyām. dvārapālau tu nandikālau ca vinyaset k 39 k 
 
-daks.in. e daks.in. ām¯urtim. paścime ’cyutam eva hi | 
+daks.iṇe daks.in. ām¯urtim. paścime ’cyutam eva hi | 
 
 athavā liṅgasambh¯utam uttare tu pitāmaham k 40 k 
 
@@ -1363,7 +1363,7 @@ a four armed Siva as teacher on the outer ´
 
 southern wall of the garbhagr.ha of the 
 
-Vīrat.t.āneśvara Temple in Tiruttan. i. His 
+Vīrat.t.āneśvara Temple in Tiruttaṇi. His 
 
 hands show the vitarkamudrā combined 
 
@@ -1385,7 +1385,7 @@ why the material representing moment
 
 Plate 114 
 
-Tiruttan. i: Daks.in. ām¯urti 
+Tiruttaṇi: Daks.in. ām¯urti 
 
 difficult to establish which direction the teaching Siva is facing, if the image or ´ relief is no longer part of a spatial con 
 
@@ -1395,7 +1395,7 @@ A Daks.in. ām¯urti on a crossbar found in Nagarī
 
 To conclude I wish to present an image that may alleviate our doubts somewhat. It concerns a crossbar found in Nagarī (Rajasthan) illustrated in Williams 1982, Pl. 216. On p. 140 f. this scholar gives the following description. 
 
-The most impressive carvings at Nagarī are the remains of a gigantic gateway or toran. a that must belong to the early sixth century on the basis of its relationship to works from Mandasor. 
+The most impressive carvings at Nagarī are the remains of a gigantic gateway or toraṇa that must belong to the early sixth century on the basis of its relationship to works from Mandasor. 
 
 The lintel has sculptures on both sides. The reliefs on what appears to be the reverse (mistakenly said in op. cit. 141 to be illustrated in Pl. 216) are identified by Williams as scenes from ‘the story of the encounter between Arjuna and the kirāta or hunter’. After his fight with Siva incognito, Arjuna receives the ´ 
 
@@ -1417,21 +1417,21 @@ Pāśupata weapon, a scene that is unfortunately missing, but may have been depi
 
 Plate 115 
 
-Nagarī: Crossbar of toran. a 
+Nagarī: Crossbar of toraṇa 
 
 About the obverse side of the lintel (Plate 115; see also below, Plates 141–142) Williams observes: 
 
 The subjects of the [obverse] of this same crossbar remain to be identifieḍThe third panel from the right (not the center of the lintel) [below, Plate 154] shows a seated figure with twisted locks in meditation, surrounded by four worshippers; despite the lack of the club, this might represent Lakulīśa. If so, the remaining scenes are presumably Saiva. ´ 51 
 
-50 The end of the story may be supplied as it is told in the Mahābhārata (see also below, pp. 592 ff.). Mahādeva reveals himself and Arjuna falls to his knees MBh 3.40.55–56: tato devam. mahādevam. giriśam. ś¯ulapān. inam | 
+50 The end of the story may be supplied as it is told in the Mahābhārata (see also below, pp. 592 ff.). Mahādeva reveals himself and Arjuna falls to his knees MBh 3.40.55–56: tato devam. mahādevam. giriśam. ś¯ulapāṇinam | 
 
 dadarśa phalgunas tatra saha devyā mahādyutim k 55 k 
 
-sa jānubhyām. mahīm. gatvā śirasā pran. ipatya ca | 
+sa jānubhyām. mahīm. gatvā śirasā praṇipatya ca | 
 
 prasādayāmāsa haram. pārthah. parapuram. jayah. k 56 k 
 
-Arjuna asks for forgiveness and receives a boon. Arjuna asks for the terrible Pāśupata weapon also called ‘Brahmaśiras’ (MBh 3.41): 
+Arjuna asks for forgiveness and receives a booṇArjuna asks for the terrible Pāśupata weapon also called ‘Brahmaśiras’ (MBh 3.41): 
 
 bhagavan dadāsi cen mahyam. kāmam. prītyā vr. s.adhvaja | 
 
@@ -1439,7 +1439,7 @@ kāmaye divyam astram. tad ghoram. pāśupatam. prabho k 7 k
 
 yat tad brahmaśiro nāma raudram. bhīmaparākramam | 
 
-yugānte dārun. e prāpte kr.tsnam. sam. harate jagat k 8 k 
+yugānte dāruṇe prāpte kr.tsnam. sam. harate jagat k 8 k 
 
 This is granteḍThen Arjuna, purified, embraces the feet of the Lord and the latter says ‘learn’: 
 
@@ -1471,7 +1471,7 @@ The story of Siva’s destruction of Daks ´ .a’s sacrifice is told in Mahābh
 
 jānubhyām avanīm. gatvā daks.o labdhvā bhavād varam | 
 
-nāmnām as.t.asahasren. a stutavān vr. s.abhadhvajam k 
+nāmnām as.t.asahasreṇa stutavān vr. s.abhadhvajam k 
 
 Daks.a fell to his knees, having received (this) boon from Bhava. 
 
@@ -1481,7 +1481,7 @@ The stotra of Siva’s thousand-and-eight names follows (ll. 160–389). ´ Siva
 
 mayā pāśupatam. daks.a yogam utpāditam. purā | 
 
-tasya cīrn. asya tat samyak phalam. bhavati pus.kalam | 
+tasya cīrṇasya tat samyak phalam. bhavati pus.kalam | 
 
 tac cāstu te mahābhāga tvajyatām. mānaso jvarah. k 54 
 
@@ -1499,7 +1499,7 @@ aham. yaj˜naharas tubhyam. dr. s.t.am etat purātanam k
 
 bh¯uyaś ca te varam. dadmi tam. tvam. gr.hn.īs.va suvrata | 
 
-prasannavadano bh¯utvā tad ihaikamanāh. śr.n. u k 
+prasannavadano bh¯utvā tad ihaikamanāh. śr.ṇu k 
 
 vedāt s.aḍaṅgād uddhr.tya sām. khyayogāc ca yuktitah. | 
 
@@ -1527,7 +1527,7 @@ Long ago, O Daks.a, the Pāśupata yoga was created by me: that (tat, scil. yoga
 
 In other words: Mahādeva instructs/initiates Daks.a in the Pāśupata obser vance; this is the boon that will lead him eventually to the end of suffering (duh. khānta), the Pāśupata yoga or union with God. 
 
-In view of the material discussed in the present article, it is obvious to see in the first panel from the right on the lintel (Plate 116; cf. Plate 156) an example of a Daks.in. ām¯urti. If we assume that the toran. a was facing east and that this is the obverse side of the lintel, Maheśvara, accompanied by his wife, 55 sits facing east, leaning towards the right, where his suppliant sits on his knees, facing north. 
+In view of the material discussed in the present article, it is obvious to see in the first panel from the right on the lintel (Plate 116; cf. Plate 156) an example of a Daks.in. ām¯urti. If we assume that the toraṇa was facing east and that this is the obverse side of the lintel, Maheśvara, accompanied by his wife, 55 sits facing east, leaning towards the right, where his suppliant sits on his knees, facing north. 
 
 This interpretation is corroborated by our later study of the crossbar. How ever, although the two panels to the left (above, p. 524) initially suggested that the suppliant in question might be King Daks.a (Bakker 2004c, 133), there are good reasons to reconsider this interpretation and to see in the person who receives instruction, not Daks.a, but Arjuna. 56 
 
@@ -1551,7 +1551,7 @@ Nagarī: a Daks.in. ām¯urti
 
 
 
-It thus appears that the central theme of both sides of the crossbar is the acquisition of a Pāśupata good: the instruction in the Pāśupata observance and the procurement of the Pāśupata weapon. The toran. a may have stood at the entrance of a Pāśupata temple. The depiction of the instruction scene, the Daks.in. ām¯urti or Siva’s figure of grace, would therefore be appropriate, if our ´ analysis is correct. 
+It thus appears that the central theme of both sides of the crossbar is the acquisition of a Pāśupata good: the instruction in the Pāśupata observance and the procurement of the Pāśupata weapoṇThe toraṇa may have stood at the entrance of a Pāśupata temple. The depiction of the instruction scene, the Daks.in. ām¯urti or Siva’s figure of grace, would therefore be appropriate, if our ´ analysis is correct. 
 
 
 
@@ -1561,19 +1561,19 @@ It thus appears that the central theme of both sides of the crossbar is the acqu
 
 Thanesar, the Pāśupata Order and the 
 
-Skandapurān. a∗ 
+Skandapurāṇa∗ 
 
-Studies in the Skandapurān. a IX 
+Studies in the Skandapurāṇa IX 
 
 The tradition of the four pupils of Lagud ¯ .i 
 
-By the middle of the sixth century the city of Kanauj seems to have emerged as the capital of the rising dynasty of the Maukharis under its king ¯Iśānavarman. 1 This town, in the Sanskrit tradition named Kānyakubja/ Kanyakubja, is known from the Skandapurān. a, and from this text only, as the seat of one of the Pāśupata lineages. 
+By the middle of the sixth century the city of Kanauj seems to have emerged as the capital of the rising dynasty of the Maukharis under its king ¯Iśānavarman. 1 This town, in the Sanskrit tradition named Kānyakubja/ Kanyakubja, is known from the Skandapurāṇa, and from this text only, as the seat of one of the Pāśupata lineages. 
 
-The Skandapurān. a (SPS 167.123–29) informs us that the fourth pupil of Lāguḍi was a brahmacārin who came from a distinguished family in the (Land of the) Kurus. 2 He received initiation in Kanyakubja and, as implied by SPS 167.130, established the fourth lineage of Pāśupata teachers there. Lāguḍi bestowed on him (and the other three pupils) ‘His own doctrine’ (and) yoga.3 
+The Skandapurāṇa (SPS 167.123–29) informs us that the fourth pupil of Lāguḍi was a brahmacārin who came from a distinguished family in the (Land of the) Kurus. 2 He received initiation in Kanyakubja and, as implied by SPS 167.130, established the fourth lineage of Pāśupata teachers there. Lāguḍi bestowed on him (and the other three pupils) ‘His own doctrine’ (and) yoga.3 
 
 ∗ The first version of this article was published in Journal of Indological Studies 19 (2007), 1–16. 
 
-1 As far as I am aware, there exists no direct evidence for this statement. There is circumstantial evidence, though, which has led the majority of historians to accept it as the most plausible hypothesis. Tripathi 1964, 32–36; Majumdar in HCI III, 69 f.; Goyal 1967, 363; Thaplyal 1985, 19 f. Among this evidence is the clay seal-matrix, probably to be ascribed to Avantivarman, that was found in Kanauj (Thaplyal 1985, 153). The major argument for Kanauj being the Maukhari capital, at least at the time of Grahavarman, is based on the evidence of Bān. a’s Hars.acarita (see Tripathi 1964, 32–36). 
+1 As far as I am aware, there exists no direct evidence for this statement. There is circumstantial evidence, though, which has led the majority of historians to accept it as the most plausible hypothesis. Tripathi 1964, 32–36; Majumdar in HCI III, 69 f.; Goyal 1967, 363; Thaplyal 1985, 19 f. Among this evidence is the clay seal-matrix, probably to be ascribed to Avantivarman, that was found in Kanauj (Thaplyal 1985, 153). The major argument for Kanauj being the Maukhari capital, at least at the time of Grahavarman, is based on the evidence of Bāṇa’s Hars.acarita (see Tripathi 1964, 32–36). 
 
 2 We deduce from this evidence that the name of the fourth pupil was unknown to the composer of the SP, but that there was a living tradition that connected him with the Kurus or Kuruks.etra. In order to supply a name for the founder of this lineage, this tradition later invented the name Kaurus.ya (LiP 1.7.51, 1.24.131, SiP´ Satarudrasam ´ . hitā 5.49) or Kaurus.a (see above, n. 16 on p. 287). 
 
@@ -1593,7 +1593,7 @@ kanyakubje tataś cānyam anugr.hya jagatpatih. |
 
 svasiddhāntam. dadau yogam uvācedam. ca lāgud.ih. ** k 129 k 
 
-* The reading of SPS 167.123d is uncertain. The syllables ku-ru are relatively certain as they are attested in all manuscripts: both SPS mss (S1and S2) and all SPRA mss (R before 
+* The reading of SPS 167.123d is uncertaiṇThe syllables ku-ru are relatively certain as they are attested in all manuscripts: both SPS mss (S1and S2) and all SPRA mss (R before 
 
 527 
 
@@ -1605,9 +1605,9 @@ svasiddhāntam. dadau yogam uvācedam. ca lāgud.ih. ** k 129 k
 
 
 
-The route along which the Pāśupata movement had reached the Land of the Kurus may also be deduced from the Skandapurān. a: 1) Kārohan. a (where Siva’s ´ incarnation took place), 2) Ujjayanī (initiation of Kauśika), 3) Jambumārga between Ujjayanī and Pus.kara (initiation of Gārgya), 4) Mathurā (initiation of Mitra), 5) Land of the Kurus, 6) Kanyakubja (initiation of the Kuru). 4 
+The route along which the Pāśupata movement had reached the Land of the Kurus may also be deduced from the Skandapurāṇa: 1) Kārohaṇa (where Siva’s ´ incarnation took place), 2) Ujjayanī (initiation of Kauśika), 3) Jambumārga between Ujjayanī and Pus.kara (initiation of Gārgya), 4) Mathurā (initiation of Mitra), 5) Land of the Kurus, 6) Kanyakubja (initiation of the Kuru). 4 
 
-The major city in the ‘Land of the Kurus’ in the 5th and 6th centuries was Thanesar. In his Hars.acarita Bān. a depicts Thanesar (Sthān. vīśvara) under (the legendary) King Pus.yabh¯uti as a country completely devoted to Maheśvara. 5 It is therefore not impossible, at least it is suggested by the Skandapurān. a, that the Pāśupata movement had reached Kanauj from Gujarat via Kuruks.etra and had thus passed through Thanesar. 
+The major city in the ‘Land of the Kurus’ in the 5th and 6th centuries was Thanesar. In his Hars.acarita Bāṇa depicts Thanesar (Sthāṇvīśvara) under (the legendary) King Pus.yabh¯uti as a country completely devoted to Maheśvara. 5 It is therefore not impossible, at least it is suggested by the Skandapurāṇa, that the Pāśupata movement had reached Kanauj from Gujarat via Kuruks.etra and had thus passed through Thanesar. 
 
   
 
@@ -1639,17 +1639,17 @@ SPS 167.130 thus defines the svasiddhānta doctrine as ‘Pa˜ncārtha’ and ex
 
 
 
-27 / Thanesar, the Pāśupata Order and the Skandapurān. a 529 
+27 / Thanesar, the Pāśupata Order and the Skandapurāṇa 529 
 
-Some information about this ‘Kuru lineage’ seems to have survived the ages. The (Jaina) tradition—preserved in Gun. aratna’s (fourteenth century) commentary on the S. aḍdarśanasamuccaya of Haribhadra (ninth century) and Rājaśekharas¯uri’s S. aḍdarśanasamuccaya (fourteenth century)—records the first four names of the teachers in each of the four lineages that are said to derive from Lakulīśa. The fourth teacher, here named Kaurus.a, was succeeded by Manus.yaka, Pus.paka and Rāśīkara. 6 
+Some information about this ‘Kuru lineage’ seems to have survived the ages. The (Jaina) tradition—preserved in Guṇaratna’s (fourteenth century) commentary on the S. aḍdarśanasamuccaya of Haribhadra (ninth century) and Rājaśekharas¯uri’s S. aḍdarśanasamuccaya (fourteenth century)—records the first four names of the teachers in each of the four lineages that are said to derive from Lakulīśa. The fourth teacher, here named Kaurus.a, was succeeded by Manus.yaka, Pus.paka and Rāśīkara. 6 
 
 Lāguḍi 
 
-The idea of a guru with four pupils named Lāguḍi/Lākulin or Lakulīśa seems to be an example of ‘invention of tradition’. Kaun. ḍinya does not know a teacher (incarnation) by the name of Lakulīśa, but speaks only about the Lord (bhaga vat) descending in Kāyāvataran. a (= Kārohan. a), who initiated only one pupil, Kuśika, in the city of Ujjayanī. 7 Nor does the name Lakulīśa, or any of its vari ants, occur in the Mathurā Pilaster Inscription of Candragupta II, Year 61. 8 It may have been coined in the fifth century to refer to the (divine) teacher who carried a club (laguḍa), portrayed in several fifth-century images, and as such came to be attested in the Skandapurān. a.9 
+The idea of a guru with four pupils named Lāguḍi/Lākulin or Lakulīśa seems to be an example of ‘invention of tradition’. Kaun. ḍinya does not know a teacher (incarnation) by the name of Lakulīśa, but speaks only about the Lord (bhaga vat) descending in Kāyāvataraṇa (= Kārohaṇa), who initiated only one pupil, Kuśika, in the city of Ujjayanī. 7 Nor does the name Lakulīśa, or any of its vari ants, occur in the Mathurā Pilaster Inscription of Candragupta II, Year 61. 8 It may have been coined in the fifth century to refer to the (divine) teacher who carried a club (laguḍa), portrayed in several fifth-century images, and as such came to be attested in the Skandapurāṇa.9 
 
 The apparently oldest image of an ithyphallic Saiva teacher with a ´ lakula resting against his left shoulder is accompanied by only two pupils and may date from the 5th century (Plate 118). 10 
 
-6 Gun. aratna ad Haribhadra’s S. aḍdarśanasamuccaya (Dalal 1920, 29): 
+6 Guṇaratna ad Haribhadra’s S. aḍdarśanasamuccaya (Dalal 1920, 29): 
 
 tasya cās.t.ādaśāvatārā amī | nakulīśo ’tha, 
 
@@ -1665,17 +1665,17 @@ vidyāguruś ca |
 
 Cf. Rājaśekharas¯uri’s S. aḍdarśanasamuccaya, Dayal op. cit. 35. 
 
-For an elaborate discussion of this param. parā see Bisschop 2006, 48 ff. The commentator of the Pāśupatas¯utra, Kaun. ḍinya ad PS 4.10, apparently placed himself in the lineage of Kuśika and ¯Iśāna: kuśikeśānasambandhāt. No doubt the lineage of Kuśika is the oldest Pāśupata tradition (Indraji 1881–82, 322 f., 327; Sircar: SI I, 278), a fact corroborated by the Skandapurān. a itself (see above, n. 3 on p. 527). 
+For an elaborate discussion of this param. parā see Bisschop 2006, 48 ff. The commentator of the Pāśupatas¯utra, Kaun. ḍinya ad PS 4.10, apparently placed himself in the lineage of Kuśika and ¯Iśāna: kuśikeśānasambandhāt. No doubt the lineage of Kuśika is the oldest Pāśupata tradition (Indraji 1881–82, 322 f., 327; Sircar: SI I, 278), a fact corroborated by the Skandapurāṇa itself (see above, n. 3 on p. 527). 
 
 7 Kaun. ḍinya ad PS 1.1 (for translation see below, p. 542): 
 
-kāmitvād ajātatvāc ca manus.yar¯upī bhagavān brāhman. akāyam āsthāya kāyāvataran. e avatīrn. a iti | tathā padbhyām ujjayanīm. prāptah. | [. . . ] ato rudrapracoditah. ku- śikabhagavān abhyāgatya [. . . ] kāle vaidyavad avasthitam āturavad avasthitah. śi s.yah. pr. s.t.avān: bhagavan kim etes.ām ādhyā¯tmikādhibhautikādhidaivikānām. sarvaduh.- khānām aikāntiko ’tyantiko vyapoho ’sty uta neti k 
+kāmitvād ajātatvāc ca manus.yar¯upī bhagavān brāhmaṇakāyam āsthāya kāyāvataraṇe avatīrṇa iti | tathā padbhyām ujjayanīm. prāptah. | [. . . ] ato rudrapracoditah. ku- śikabhagavān abhyāgatya [. . . ] kāle vaidyavad avasthitam āturavad avasthitah. śi s.yah. pr. s.t.avān: bhagavan kim etes.ām ādhyā¯tmikādhibhautikādhidaivikānām. sarvaduh.- khānām aikāntiko ’tyantiko vyapoho ’sty uta neti k 
 
 8 Bhandarkar 1931–32. Above, p. 494. 
 
 9 SPS 167.129 (above, n. 3 on p. 527). See further below, p. 554 ff. and p. 559 f. 
 
-10 Shah 1984, 97, Pl. 81: ‘Mathurā, Svāmīghāt., Lakulīśa with two disciples, ca. fifth century A.D.’ See Kreisel 1986, 167–169; Bisschop 2004, 46. The image (below, Plate 121) of a (non-ithyphallic) Saiva ascetic holding a staff or club in his right hand and vessel ( ´ kalaśa) in his left, dating from the Kus.ān. a period and preserved in the Mathura Museum, may be ‘a prototype of the figure of Lakulīśa’ (Shah 1984, 97, Pl. 80). 
+10 Shah 1984, 97, Pl. 81: ‘Mathurā, Svāmīghāt., Lakulīśa with two disciples, ca. fifth century A.D.’ See Kreisel 1986, 167–169; Bisschop 2004, 46. The image (below, Plate 121) of a (non-ithyphallic) Saiva ascetic holding a staff or club in his right hand and vessel ( ´ kalaśa) in his left, dating from the Kus.āṇa period and preserved in the Mathura Museum, may be ‘a prototype of the figure of Lakulīśa’ (Shah 1984, 97, Pl. 80). 
 
 
 
@@ -1705,31 +1705,31 @@ Pus.paka in the Kuru (Kaurus.a) lineage evokes the name of the (alleged) founder
 
 12 The foundation of this temple is credited to a (legendary) king of the Licchavi dynasty, named Supus.padeva in the (corrupt) Gopālarājavam. śāvalī (ff. 19v–20r): 
 
-rājā śrīsupus.padeva vars.a 76 k tena hi nepālabh¯umiś cāturvarn. akr.tā k śrīpaśupati bhat.ārakasya devālaya kr.tam. saṅkhalīsam. chādanam k tata sundarīn. irmitanagaram sakalarājyamarjjādā kr.tyah. nyāyena prajāh. samasta pratipālitānih. svasvasvakīyena bhumi ˘ ˘ sam. tha ˘ ˘ vyavahāra pravartate k 
+rājā śrīsupus.padeva vars.a 76 k tena hi nepālabh¯umiś cāturvarṇakr.tā k śrīpaśupati bhat.ārakasya devālaya kr.tam. saṅkhalīsam. chādanam k tata sundarīṇirmitanagaram sakalarājyamarjjādā kr.tyah. nyāyena prajāh. samasta pratipālitānih. svasvasvakīyena bhumi ˘ ˘ sam. tha ˘ ˘ vyavahāra pravartate k 
 
-This Supus.pa is also known from the genealogy of King Jayadeva, the same who recorded the name of his maternal grandfather, the Maukhari prince Bhogavarman (see below, p. 538): tasmāl licchavitah. paren. a nr.patīn hitvā parān dvādaśa śrīmān pus.paśarākr.tih. ks.itipatir jātah. supus.pas tatah. | (Verma & Singh 1994, 238). According to Slusser 1982, 227 this king is ‘alternately known as Paśuprekha (he who has seen Paśupati)’. A later (equally legendary) Licchavi king, Supus.pavarman, is said in the Gopālarājavam. śāvalī to have renovated the temple of Paśupati: 
-
-
+This Supus.pa is also known from the genealogy of King Jayadeva, the same who recorded the name of his maternal grandfather, the Maukhari prince Bhogavarman (see below, p. 538): tasmāl licchavitah. pareṇa nr.patīn hitvā parān dvādaśa śrīmān pus.paśarākr.tih. ks.itipatir jātah. supus.pas tatah. | (Verma & Singh 1994, 238). According to Slusser 1982, 227 this king is ‘alternately known as Paśuprekha (he who has seen Paśupati)’. A later (equally legendary) Licchavi king, Supus.pavarman, is said in the Gopālarājavam. śāvalī to have renovated the temple of Paśupati: 
 
 
 
-27 / Thanesar, the Pāśupata Order and the Skandapurān. a 531 
 
-Pus.yabh¯uti, a name spelled in some mss as Pus.pabh¯uti, the legendary founder of the dynasty of Thanesar to which King Hars.avardhana belonged. 13 Pus.yabh¯uti is depicted in the Hars.acarita 3 (pp. 49–55) as being deeply involved in a Saiva ritual of black magic (Vetālasādhana) in the cremation ´ ground (Mahāśmaśāna), under the guidance of a Mahāśaiva preceptor (bhu vanaguru) hailing from the South (dāks.in. ātya), Bhairavācārya. 14 In this ritual the deity (vāstunāga) of the land (janapada) Srīkan ´ .t.ha, in which Sthān. vīśvara (Pus.yabh¯uti’s capital) is situated, 15 the Nāga Srīkan ´ .t.ha is conjured up by the ācārya;16 he is forced into submission by the king, who is about to kill him with the magic sword At.t.ahāsa, a gift of Bhairavācārya. Then, when the king is prepared to let him go because of his brahminhood, a goddess dressed in white, evidently Laks.mī (Rājyaśrī), 17 emerges from the sword, annoints the king and grants Pus.yabh¯uti to become the founder of a mighty dynasty. This dynasty is therefore believed to have acquired its legitimicy and authority over the land of Kuruks.etra thanks to the magic of the Saiva preceptor. ´ 18 
+
+27 / Thanesar, the Pāśupata Order and the Skandapurāṇa 531 
+
+Pus.yabh¯uti, a name spelled in some mss as Pus.pabh¯uti, the legendary founder of the dynasty of Thanesar to which King Hars.avardhana belonged. 13 Pus.yabh¯uti is depicted in the Hars.acarita 3 (pp. 49–55) as being deeply involved in a Saiva ritual of black magic (Vetālasādhana) in the cremation ´ ground (Mahāśmaśāna), under the guidance of a Mahāśaiva preceptor (bhu vanaguru) hailing from the South (dāks.in. ātya), Bhairavācārya. 14 In this ritual the deity (vāstunāga) of the land (janapada) Srīkan ´ .t.ha, in which Sthāṇvīśvara (Pus.yabh¯uti’s capital) is situated, 15 the Nāga Srīkan ´ .t.ha is conjured up by the ācārya;16 he is forced into submission by the king, who is about to kill him with the magic sword At.t.ahāsa, a gift of Bhairavācārya. Then, when the king is prepared to let him go because of his brahminhood, a goddess dressed in white, evidently Laks.mī (Rājyaśrī), 17 emerges from the sword, annoints the king and grants Pus.yabh¯uti to become the founder of a mighty dynasty. This dynasty is therefore believed to have acquired its legitimicy and authority over the land of Kuruks.etra thanks to the magic of the Saiva preceptor. ´ 18 
 
 The fourth teacher in the Kuru (Kaurus.a) lineage, Rāśīkara, is known from the Ratnat.īkā (9th century?). 19 It would seem a plausible hypothesis to 
 
-rājā śrīsupus.pavarmā vars.a 56, tena nepālabh¯umi dharmen. a vr.dhikr.tam k puna śrī paśubhat.ārikasya devālaye atisundara n. irmitam k (ibiḍf. 20v) The first firm evidence of Pāśupata presence in Nepal comes from the reign of King Jis.n. ugupta (ad 624–632 ). It is found in the Paśupatinātha Temple in a shrine called Chatracan. ḍeśvara, in which the pillar next to the image of Chatracan. ḍeśvara is engraved with an inscription, which records a donation by a (Pāśupata) teacher (ācārya) called Bhagavat Pranardanaprān. a Kauśika (Verma & Singh 1994, no. 119). The donation was made to some ascetics of the mun. ḍaśr.ṅkhalikapāśupatācāryapars.ad (the assembly of Pāśupata teachers belonging to the Mun. ḍa–Sr ´.ṅkhalikas). See Bakker 2014, 149 f. The ācārya Bhagavat Pranardana informs us in another inscription on the pedestal of the same image that he is varn. āśramodvāsita, i.e. living outside the varn. āśrama confines of society (Verma & Singh 1994, no. 120). The Licchavi inscriptions further provide information about the Sr ´.ṅkhalika-Pāśupatas who care for the sick (Verma & Singh 1994, no. 132), and Pāśupata ācāryas (Verma & Singh 1994, no. 147 l. 8), for whom see below, n. 44 on p. 539. 
+rājā śrīsupus.pavarmā vars.a 56, tena nepālabh¯umi dharmeṇa vr.dhikr.tam k puna śrī paśubhat.ārikasya devālaye atisundara ṇirmitam k (ibiḍf. 20v) The first firm evidence of Pāśupata presence in Nepal comes from the reign of King Jis.ṇugupta (ad 624–632 ). It is found in the Paśupatinātha Temple in a shrine called Chatracan. ḍeśvara, in which the pillar next to the image of Chatracan. ḍeśvara is engraved with an inscription, which records a donation by a (Pāśupata) teacher (ācārya) called Bhagavat Pranardanaprāṇa Kauśika (Verma & Singh 1994, no. 119). The donation was made to some ascetics of the mun. ḍaśr.ṅkhalikapāśupatācāryapars.ad (the assembly of Pāśupata teachers belonging to the Mun. ḍa–Sr ´.ṅkhalikas). See Bakker 2014, 149 f. The ācārya Bhagavat Pranardana informs us in another inscription on the pedestal of the same image that he is varn. āśramodvāsita, i.e. living outside the varn. āśrama confines of society (Verma & Singh 1994, no. 120). The Licchavi inscriptions further provide information about the Sr ´.ṅkhalika-Pāśupatas who care for the sick (Verma & Singh 1994, no. 132), and Pāśupata ācāryas (Verma & Singh 1994, no. 147 l. 8), for whom see below, n. 44 on p. 539. 
 
 13 The Nalanda Clay Seal of Hars.a describes Hars.a as: paramamāheśvarah. maheśvara iva sarvasattvānukampakah. paramabhat.t.ārakamahārājādhirājaśrīhars.ah. (Thaplyal 1985, 186). The report on the excavations of the Hars.a kā T.īlā at Thanesar informs us that the ‘Pushyabhuti or Vardhana period (middle of the sixth to end of seventh entury) was distinguished by a massive brick building and other structural remains’ (IAR 1987–99, 29; see Plate 117). 
 
-14 Bān. a gives a flowery description of this teacher (HC* 3, pp. 169–73). See also Bakker 2014, 78. 
+14 Bāṇa gives a flowery description of this teacher (HC* 3, pp. 169–73). See also Bakker 2014, 78. 
 
 15 The Ga¨uḍavaho refers to Srīkan ´ . t.ha, as Siri¨am. t.ha (v. 484). Vākpatirāja describes it as the site where Janamejaya’s serpent sacrifice took place (vv. 472–484). Verse 485 makes it clear that Kuruks.etra is meant. 
 
 16 The Nāga or goblin/deity (vetāla), whose submission is sought, is evoked by the japa of the Mahāmantra named ‘Mahākālahr.daya’ (HC* 3, pp. 178, 184 ff.). 
 
-17 HC* 3, p. 189: viddhi mām. nārāyan. orah. sthalīlīlāvihāraharin.īm. 
+17 HC* 3, p. 189: viddhi mām. nārāyaṇorah. sthalīlīlāvihāraharin.īm. 
 
 18 For the gradual take over of the function of the royal Purohita by Saiva officiants see ´ Sanderson 2004. Here we are concerned with an early instance of this historic process. 19 Dalal 1920, Ratnat.īkā p. 19 ll. 7–9: tato ’vabhr.tyasnānam. kr.tvā bhagavam. llakulīśādīn 
 
@@ -1745,9 +1745,9 @@ connect the branch of Pāśupata teachers with names ending in ◦rāśi to this
 
 Rāśi ascetics and ‘His own doctrine’ 
 
-Rāśi ascetics are known from inscriptions to have been living in various places. The first epigraphical attestation (c. ad 600) is that of an ascetic called Udbha varāśi, said to be a Rudra, in an inscription from the Gandharveśvara Tem ple in Sirpur (Srīpura) of the time of King Mahāśivagupta Bālārjuna, who ´ ruled from c. ad 590 to 650. 21 This Udbhavarāśi Rudra, called ‘an ocean for the streams of his own doctrine’, might have reached Daks.in. a Kosala in the train of Bālārjuna’s mother Vāsat.ā, who was a Maukhari princess, daughter of S¯uryavarman, and who had come from Kanyakubja to Srīpura as the wife of ´ the Pān. ḍuvam. śi prince Hars.agupta in the last quarter of the sixth century. 22 
+Rāśi ascetics are known from inscriptions to have been living in various places. The first epigraphical attestation (c. ad 600) is that of an ascetic called Udbha varāśi, said to be a Rudra, in an inscription from the Gandharveśvara Tem ple in Sirpur (Srīpura) of the time of King Mahāśivagupta Bālārjuna, who ´ ruled from c. ad 590 to 650. 21 This Udbhavarāśi Rudra, called ‘an ocean for the streams of his own doctrine’, might have reached Daks.iṇa Kosala in the train of Bālārjuna’s mother Vāsat.ā, who was a Maukhari princess, daughter of S¯uryavarman, and who had come from Kanyakubja to Srīpura as the wife of ´ the Pān. ḍuvam. śi prince Hars.agupta in the last quarter of the sixth century. 22 
 
-rāśīkarāntām. ś ca tīrthakarān anukramen. a yathāvad bhaktyā namaskuryāt tad anu pra daks.in. am ekam iti | 20 The Skandapurān. a (SPBh 162.45) refers to Siva as ´ rāśividām. varah., ‘Best of the As trologers’, or a reference to the Rāśi ascetics? In this connection attention should be drawn to a passage in the Skandapurān. a, SP 32.103–110. It tells us that the gods out of fear for Kālakarn.ī, a personification of death, dive into a heap (rāśi) of ashes (bha sman), due to which they become Pāśupatas and enjoy the protection of Siva. Could ´ this myth reflect the initiation rite in which the novice takes his first bath in a heap of ashes (bhasmarāśi) and receives a sectarian name ending in rāśi? (this was suggested to me by Peter Bisschop). 
+rāśīkarāntām. ś ca tīrthakarān anukrameṇa yathāvad bhaktyā namaskuryāt tad anu pra daks.iṇam ekam iti | 20 The Skandapurāṇa (SPBh 162.45) refers to Siva as ´ rāśividām. varah., ‘Best of the As trologers’, or a reference to the Rāśi ascetics? In this connection attention should be drawn to a passage in the Skandapurāṇa, SP 32.103–110. It tells us that the gods out of fear for Kālakarn.ī, a personification of death, dive into a heap (rāśi) of ashes (bha sman), due to which they become Pāśupatas and enjoy the protection of Siva. Could ´ this myth reflect the initiation rite in which the novice takes his first bath in a heap of ashes (bhasmarāśi) and receives a sectarian name ending in rāśi? (this was suggested to me by Peter Bisschop). 
 
 21 EI XXXIX, 151, v. 3 (metre Indravajrā): 
 
@@ -1769,23 +1769,23 @@ I take ‘Rudra’ as a title, which, on the one hand, may be connected to the d
 
 
 
-27 / Thanesar, the Pāśupata Order and the Skandapurān. a 533 
+27 / Thanesar, the Pāśupata Order and the Skandapurāṇa 533 
 
-Although, admittedly, ‘his own doctrine’ (svasiddhānta) would normally be taken to mean ‘the doctrine of/adhered to by Udbhavarāśi’, it may be signif icant to note that SPS 167.129–30 refers to the Pa˜ncārtha doctrine imparted by Lāguḍi to his disciples as ‘His own doctrine’: svasiddhānta (above, n. 3 on p. 527). Possibly the phrase ‘his own doctrine’ within this lineage was a shib boleth, a denomination signifying ‘His own doctrine’, thereby claiming that the doctrine was the only true one, revealed directly by Lord Lāguḍi himself. The phrase ‘an ocean for the streams of his own doctrine’ makes sense, if the ‘ocean’, i.e. the ascetic, is conceived a receptacle of the streams that make up the Pāśupata/Pa˜ncārtha tradition. We will come across another Pāśupata ascetic who was devoted to ‘his own doctrine’ below, (p. 539). 
+Although, admittedly, ‘his own doctrine’ (svasiddhānta) would normally be taken to mean ‘the doctrine of/adhered to by Udbhavarāśi’, it may be signif icant to note that SPS 167.129–30 refers to the Pa˜ncārtha doctrine imparted by Lāguḍi to his disciples as ‘His own doctrine’: svasiddhānta (above, n. 3 on p. 527). Possibly the phrase ‘his own doctrine’ within this lineage was a shib boleth, a denomination signifying ‘His own doctrine’, thereby claiming that the doctrine was the only true one, revealed directly by Lord Lāguḍi himself. The phrase ‘an ocean for the streams of his own doctrine’ makes sense, if the ‘ocean’, i.e. the ascetic, is conceived a receptacle of the streams that make up the Pāśupata/Pa˜ncārtha traditioṇWe will come across another Pāśupata ascetic who was devoted to ‘his own doctrine’ below, (p. 539). 
 
 The Skandapurana and the P ¯ āśupata movement 
 
-Vārān. asī 
+Vārāṇasī 
 
-It is obvious that the Skandapurān. a is an important source for reconstructing the history of the Pāśupata movement, a text composed during the second half of the 6th and first half of the 7th century. 23 The holy town of Vārān. asī plays an important role in this text and its Vārān. asīmāhātmya shows detailed knowledge of the local situation. It is the only holy place that is eulogized in much detail and at great length. 24 The Māhātmya describes a ks.etra that seems to correlate with the historic situation in the late Gupta and early medieval perioḍThe sanctuary of Avimukteśvara takes centre stage. Around it are said to be twelve liṅgas of lesser importance (above, p. 471; Figure 12), none of which is known from seals. 
+It is obvious that the Skandapurāṇa is an important source for reconstructing the history of the Pāśupata movement, a text composed during the second half of the 6th and first half of the 7th century. 23 The holy town of Vārāṇasī plays an important role in this text and its Vārāṇasīmāhātmya shows detailed knowledge of the local situatioṇIt is the only holy place that is eulogized in much detail and at great length. 24 The Māhātmya describes a ks.etra that seems to correlate with the historic situation in the late Gupta and early medieval perioḍThe sanctuary of Avimukteśvara takes centre stage. Around it are said to be twelve liṅgas of lesser importance (above, p. 471; Figure 12), none of which is known from seals. 
 
-The Skandapurān. a testifies to the establishment of a Pāśupata community of ascetics and ācāryas in Vārān. asī, who may well have been in charge of most of the sanctuaries described in the text. Being united in the kingdom of Kanauj by the time the SP was composed, 25 the Vārān. asī Pāśupatas entertained probably manifold relations with their brethren in Kanyakubja. This sectarian affilia tion may partly explain why, with the exception of Avimukteśvara, the tīrthas mentioned in the SP do not feature in other sources, before their inclusion in the Tīrthavivecanakān. ḍa of Laks.mīdhara who, by quoting the Skandapurān. a, 
+The Skandapurāṇa testifies to the establishment of a Pāśupata community of ascetics and ācāryas in Vārāṇasī, who may well have been in charge of most of the sanctuaries described in the text. Being united in the kingdom of Kanauj by the time the SP was composed, 25 the Vārāṇasī Pāśupatas entertained probably manifold relations with their brethren in Kanyakubja. This sectarian affilia tion may partly explain why, with the exception of Avimukteśvara, the tīrthas mentioned in the SP do not feature in other sources, before their inclusion in the Tīrthavivecanakān. ḍa of Laks.mīdhara who, by quoting the Skandapurāṇa, 
 
 23 Above, pp. 185 ff., p. 469. See also Bakker 2014, 137f. 
 
 24 See Introduction to SP II A. 
 
-25 Being so near to their homeland in Baghelkhand, Vārān. asī may have been part of the Maukhari territories from the moment that these kings began to assert themselves in the Ga˙ngā Valley, that is during the course of the first half of the 6th century. The three inscriptions of the Maukhari kings were found within a circle of 220 km around Vārān. asī: in Shankarpur, 200 km SW (Harivarman), Jaunpur, 52 km NW (ascribed to ¯Iśvaravarman, but probably of ¯Iśānavarman or one of his successors), Haraha, 220 km NW (S¯uryavarman/¯Iśānavarman). 
+25 Being so near to their homeland in Baghelkhand, Vārāṇasī may have been part of the Maukhari territories from the moment that these kings began to assert themselves in the Ga˙ngā Valley, that is during the course of the first half of the 6th century. The three inscriptions of the Maukhari kings were found within a circle of 220 km around Vārāṇasī: in Shankarpur, 200 km SW (Harivarman), Jaunpur, 52 km NW (ascribed to ¯Iśvaravarman, but probably of ¯Iśānavarman or one of his successors), Haraha, 220 km NW (S¯uryavarman/¯Iśānavarman). 
 
 
 
@@ -1795,21 +1795,21 @@ The Skandapurān. a testifies to the establishment of a Pāśupata community of 
 
 
 
-canonized them, so to speak. 26 The spread of the Pāśupata order itself towards the east, to Vārān. asī and Magadhā, may have taken off from Kanyakubja earlier, during the period when North India was united in the Gupta kingdom. 
+canonized them, so to speak. 26 The spread of the Pāśupata order itself towards the east, to Vārāṇasī and Magadhā, may have taken off from Kanyakubja earlier, during the period when North India was united in the Gupta kingdom. 
 
-In view of the learned tradition of the town, duly observed, for instance, by Xuanzang, it has a certain probability per se that the Skandapurān. a was composed either in Vārān. asī, or in a (Pāśupata) centre that had close contacts with this city. If the above dating is correct, the text was composed under the rule of either the Maukharis or Hars.avardhana of Kanauj (see below, pp. 601 ff.). 
+In view of the learned tradition of the town, duly observed, for instance, by Xuanzang, it has a certain probability per se that the Skandapurāṇa was composed either in Vārāṇasī, or in a (Pāśupata) centre that had close contacts with this city. If the above dating is correct, the text was composed under the rule of either the Maukharis or Hars.avardhana of Kanauj (see below, pp. 601 ff.). 
 
 The Māhātmya of Sthāneśvara 
 
-The historic relations between the Pāśupatas of Vārān. asī and those in Kanauj and Thanesar at the time of its composition also seem to emerge from the Skan dapurān. a itself. It might be significant in this respect that—after a brief inter mezzo (SP 31.15–47) in which Siva makes Mount Mandara his House (named ´ Vr.s.an) and the question arises why, after having first made Yaj˜na in the form of a cloud his vehicle, he has exchanged him for Vr.s.a, the bull (which again is a prelude to the myth of the destruction of Daks.a’s sacrifice told in SP 32)— the Vārān. asīmāhātmya is followed by a section (SP 31.48–115) that tells the mythology related to and the Māhātmya of Sthāneśvara. 27 
+The historic relations between the Pāśupatas of Vārāṇasī and those in Kanauj and Thanesar at the time of its composition also seem to emerge from the Skan dapurāṇa itself. It might be significant in this respect that—after a brief inter mezzo (SP 31.15–47) in which Siva makes Mount Mandara his House (named ´ Vr.s.an) and the question arises why, after having first made Yaj˜na in the form of a cloud his vehicle, he has exchanged him for Vr.s.a, the bull (which again is a prelude to the myth of the destruction of Daks.a’s sacrifice told in SP 32)— the Vārāṇasīmāhātmya is followed by a section (SP 31.48–115) that tells the mythology related to and the Māhātmya of Sthāneśvara. 27 
 
-This mythology relates that the Saiva sage Dadhīca (son of Cyavana, grand- ´ son of Bhr.gu), whose āśrama is on the Sarasvatī River, defeats his Vais.n. ava rival Ks.upa with Siva’s help. ´ 28 To commemorate this victory the site (sthāna) named ‘Sthāneśvara’ is established, one krośa in circumference, full of flowers (pus.pa) and creepers. 29 It is evident that the foundation myth of Sthāneśvara, i.e. Thanesar, is told. 
+This mythology relates that the Saiva sage Dadhīca (son of Cyavana, grand- ´ son of Bhr.gu), whose āśrama is on the Sarasvatī River, defeats his Vais.ṇava rival Ks.upa with Siva’s help. ´ 28 To commemorate this victory the site (sthāna) named ‘Sthāneśvara’ is established, one krośa in circumference, full of flowers (pus.pa) and creepers. 29 It is evident that the foundation myth of Sthāneśvara, i.e. Thanesar, is told. 
 
 26 TVK pp. 130–135. An exception is Svarlīna, which had passed into the hands of ācāryas of the Saivasiddhānta, at least by the 12th century. One of its incumbents left us an ´ inscription (the National Museum Kathamandhu Stone Inscription of NS 264 (ad 1144), edited in Acharya 1997), in which an Acārya Rudraśiva reports, among other things, ¯ that he initiated several princes in Nepal. See SP II A, 72 ff., SP 29.28. The modern Svarlīneśvara Mandir is situated at Prahlāda Ghāt. in the north of Benares (A 11/29). 
 
-27 This Māhātmya is intricately positioned between the prelude to the Daks.a myth (SP 31.15–47) and this myth itself (SP 32); see SP II B, 27. It provides the cause (kāran. a, SP 31.49) of Siva’s victory over all the gods in the Daks ´ .a myth. This cause is the boon asked by Dadhīca after his victory over the Vais.n. ava Ks.upa: bhagavan yadi tus.t.o ’si yadi deyo varaś ca me | icchāmi vis.n. unā sārdham. sarvān devām. s tvayā jitān k 31.101 k 
+27 This Māhātmya is intricately positioned between the prelude to the Daks.a myth (SP 31.15–47) and this myth itself (SP 32); see SP II B, 27. It provides the cause (kāraṇa, SP 31.49) of Siva’s victory over all the gods in the Daks ´ .a myth. This cause is the boon asked by Dadhīca after his victory over the Vais.ṇava Ks.upa: bhagavan yadi tus.t.o ’si yadi deyo varaś ca me | icchāmi vis.ṇunā sārdham. sarvān devām. s tvayā jitān k 31.101 k 
 
-28 The fight (vaira) between Dadhīca and Ks.upa, who argue about the superiority of either the brahman or the ks.atra principle, resembles in many respects that between Vasis.t.ha and Vis´vāmitra, whose āśramas are also said to be in Sthān. utīrtha (MBh 9.41.4). MBh 3.81.163–64 locates Dadhīca’s āśrama in Kuruks.etra, where also the Sthān. uvat.a is said to be (MBh 3.81.54). 
+28 The fight (vaira) between Dadhīca and Ks.upa, who argue about the superiority of either the brahman or the ks.atra principle, resembles in many respects that between Vasis.t.ha and Vis´vāmitra, whose āśramas are also said to be in Sthāṇutīrtha (MBh 9.41.4). MBh 3.81.163–64 locates Dadhīca’s āśrama in Kuruks.etra, where also the Sthāṇuvat.a is said to be (MBh 3.81.54). 
 
 29 SP 31.106: deva uvāca | 
 
@@ -1823,19 +1823,19 @@ bhavitr. krośaparyantam. nānāpus.palatākulam k 106 k
 
 
 
-27 / Thanesar, the Pāśupata Order and the Skandapurān. a 535 
+27 / Thanesar, the Pāśupata Order and the Skandapurāṇa 535 
 
 Dadhīca’s own āśrama is here called   
 
-‘Sthān. utīrtha’, where the famous 
+‘Sthāṇutīrtha’, where the famous 
 
-Sthān. uvat.a is said to stand, 30 both 
+Sthāṇuvat.a is said to stand, 30 both 
 
 already known from the Mahābhā 
 
-rata. Sthān. utīrtha is said to have 
+rata. Sthāṇutīrtha is said to have 
 
-been established by Lord Sthān. u 
+been established by Lord Sthāṇu 
 
 (MBh 9.41.6) and is the place cred 
 
@@ -1857,37 +1857,37 @@ SP I (p. 26), one of the few direct
 
 borrowings from the Mahābhārata by 
 
-the Skandapurān. a is this description 
+the Skandapurāṇa is this description 
 
 of Skanda’s consecration in Samanta pa˜ncaka. 32 
 
 Plate 119 
 
-Thanesar: the Sthān. uvat.a 
+Thanesar: the Sthāṇuvat.a 
 
-Bān. a’s relationship with Dadhīca, the founder of Sthāneśvara 
+Bāṇa’s relationship with Dadhīca, the founder of Sthāneśvara 
 
-The Māhātmya in the Skandapurān. a thus reformulates the significance of Sthān. utīrtha and adds to its glory the newly established site Sthāneśvara. In his Hars.acarita Bān. a ingeniously adapted this mythological complex by linking his own descent to Dadhīca, when he made the latter’s son (by his divine wife Sarasvatī), viz. Sārasvata, the foster brother of another scion of the Bhārgava lineage, namely Vatsa; Vatsa again is the ancestor of the Vātsyāyanas to whom the author of the Hars.acarita belongs on his own account (see Figure 13). When he embroidered on the story of Dadhīca’s mother Sukanyā, told in Mahābhārata 3.121–25, Bān. a and his audience may have been aware of the mythology that attributed the foundation of Hars.a’s native city Thanesar to Dadhīca as told in the Skandapurān. a.33 It may actually have been the very reason why he gave 
+The Māhātmya in the Skandapurāṇa thus reformulates the significance of Sthāṇutīrtha and adds to its glory the newly established site Sthāneśvara. In his Hars.acarita Bāṇa ingeniously adapted this mythological complex by linking his own descent to Dadhīca, when he made the latter’s son (by his divine wife Sarasvatī), viz. Sārasvata, the foster brother of another scion of the Bhārgava lineage, namely Vatsa; Vatsa again is the ancestor of the Vātsyāyanas to whom the author of the Hars.acarita belongs on his own account (see Figure 13). When he embroidered on the story of Dadhīca’s mother Sukanyā, told in Mahābhārata 3.121–25, Bāṇa and his audience may have been aware of the mythology that attributed the foundation of Hars.a’s native city Thanesar to Dadhīca as told in the Skandapurāṇa.33 It may actually have been the very reason why he gave 
 
 30 SP 31.109–10: 
 
-sthān. utīrtham. ca bhavitr. tavaiva pāpanāśanam | 
+sthāṇutīrtham. ca bhavitr. tavaiva pāpanāśanam | 
 
 aśvamedhaphalam. hy atra snātah. prāpnoti pus.kalam k 109 k 
 
 ayam. cāpi vat.ah. śrīmān sthito ’ham. yatra sām. pratam | 
 
-varam. dātum. madākhyāto namnā sthān. uvat.o mahān | 
+varam. dātum. madākhyāto namnā sthāṇuvat.o mahān | 
 
-bhavis.yati na sam. dehah. phalam. cāsyāpi me śr.n. u k 110 k 
+bhavis.yati na sam. dehah. phalam. cāsyāpi me śr.ṇu k 110 k 
 
 31 MBh 9.41.6–7; MBh 9.43–46. 
 
-32 See also Bakker 2014, 163 f. For an exciting explanation of the connection between the Skandapurān. a and Thanesar, hometown of Hars.avardhana, see Kropman 2018. 
+32 See also Bakker 2014, 163 f. For an exciting explanation of the connection between the Skandapurāṇa and Thanesar, hometown of Hars.avardhana, see Kropman 2018. 
 
 33 SPS 167.81: 
 
-dadhīcena mahad divyam pun. yam āyatanam. kr.tam | 
+dadhīcena mahad divyam puṇyam āyatanam. kr.tam | 
 
 sthāneśvaram iti khyātam. lokes.u tris.u viśrutam k 81 k 
 
@@ -1903,13 +1903,13 @@ Dadhīca such a prominent role in the first chapter of his history and why he li
 
 Figure 13 
 
-Bān. a’s Pedigree 
+Bāṇa’s Pedigree 
 
 Compare the version in SPRA 167.4.10, 20: 
 
 tapah. ks.etre kuruks.etre dharmaks.etre sanātane | 
 
-dadhīcena mahad divyam. pun. yam āyatanam. kr.tam | 
+dadhīcena mahad divyam. puṇyam āyatanam. kr.tam | 
 
 dadhīcasyālayah. khyātah. sarvapāpaharah. parah. k 10 k 
 
@@ -1919,23 +1919,23 @@ dadhīcena yatas tatra kr.tam āyatanam. śubham |
 
 sthāneśvaram iti khyātam. tena lokes.u tris.v api k 20 k 
 
-34 The pedigree constructed by Bān. a not only links the Vātsyāyanas to the collateral Bhārgava branch of Dadhīca, it seems also to have a geo-political dimension in that it connects two regions: the one along the Sarasvatī and the one along the Son ´ . a River. The Pus.yabh¯utis belonged to the former area, the Maukharis to the latter. Bān. a’s hero Hars.a united both regions within his kingdom. Cf. HC* 4 (p. 244), where the wise brahmin Gambhīra says to Hars.a’s brother-in-law Grahavarman, when the latter is about to enter the house of his bride Rājyaśrī: 
+34 The pedigree constructed by Bāṇa not only links the Vātsyāyanas to the collateral Bhārgava branch of Dadhīca, it seems also to have a geo-political dimension in that it connects two regions: the one along the Sarasvatī and the one along the Son ´ . a River. The Pus.yabh¯utis belonged to the former area, the Maukharis to the latter. Bāṇa’s hero Hars.a united both regions within his kingdom. Cf. HC* 4 (p. 244), where the wise brahmin Gambhīra says to Hars.a’s brother-in-law Grahavarman, when the latter is about to enter the house of his bride Rājyaśrī: 
 
-tāta, tvām. prāpya cirāt khalu rājyaśriyā ghat.itau tejomayau sakalajagadgīyamāna budhakarn. ānandakārigun. agan. au somas¯uryavam. śāv iva pus.yabh¯utimukharavam. śau | 
-
-
+tāta, tvām. prāpya cirāt khalu rājyaśriyā ghat.itau tejomayau sakalajagadgīyamāna budhakarn. ānandakāriguṇagaṇau somas¯uryavam. śāv iva pus.yabh¯utimukharavam. śau | 
 
 
 
 
 
-27 / Thanesar, the Pāśupata Order and the Skandapurān. a 537 
+
+
+27 / Thanesar, the Pāśupata Order and the Skandapurāṇa 537 
 
 The Skandapuran¯ .a reaches Nepal 
 
 It has been argued by Yokochi in the Introduction to SP III, taken up in Bakker 2014, 137 f., that a major new redaction of our text, the ancestor of the RA recension, came into being in the ninth century. 35 
 
-It is likely that before this major new redaction took place the Skanda purān. a had reached Nepal, where it became our S recension. This so-called S or ‘Nepalese recension’ has a few particularities of its own. The end of chapter 167 in this recension features two remarkable passages in what is in all probability an accretion to the original text (SPS 167.163–187), two passages that may betray the background against which this recension S came into being: in one it is said that there are eight places in the country of Magadhā where Lagud.īśvara (Lakulīśa) roamed about together with his pupils (cf. below, p. 564), and in the other, at the end of this interpolation, Paśupati in Nepāla is mentioned together with another sanctuary called Naikatuṅgādhipeśvara, which calls forth associations with the king of Nepal, the lord supreme of many mountain peaks/thrones. 36 Could it be that there is a nexus that links both additions to the original text? 
+It is likely that before this major new redaction took place the Skanda purāṇa had reached Nepal, where it became our S recensioṇThis so-called S or ‘Nepalese recension’ has a few particularities of its owṇThe end of chapter 167 in this recension features two remarkable passages in what is in all probability an accretion to the original text (SPS 167.163–187), two passages that may betray the background against which this recension S came into being: in one it is said that there are eight places in the country of Magadhā where Lagud.īśvara (Lakulīśa) roamed about together with his pupils (cf. below, p. 564), and in the other, at the end of this interpolation, Paśupati in Nepāla is mentioned together with another sanctuary called Naikatuṅgādhipeśvara, which calls forth associations with the king of Nepal, the lord supreme of many mountain peaks/thrones. 36 Could it be that there is a nexus that links both additions to the original text? 
 
 It has been argued by Yokochi that this interpolation in what would even tually develop into our ‘Nepalese recension’ was made ‘in an early text of the S recension in northeastern India before it bifurcated and came to be transmitted to Nepal’. 37 Since the earliest transmission to Nepal relates to an ancestor of our ms S1, this transmission must, according to Yokochi’s theory, have taken place before ad 700. 38 
 
@@ -1963,7 +1963,7 @@ anyad dhimagirau sthānam. naikatuṅgādhipeśvaram |
 
 tam. dr. s.t.vā na punarmartyo jāyate munisattama | 
 
-bhaktānām. pran. atānām. ca sarvakāmapradam. smr.tam k 187 k 
+bhaktānām. praṇatānām. ca sarvakāmapradam. smr.tam k 187 k 
 
 See Bisschop 2006, 15–17, 222 f. Bisschop 2006, 218 observes about this interpola tion: ‘Although the list starts with places in the northwest, the number of toponyms in the northeast is striking’, e.g. Gr.dhrak¯ut.eśvara and Pāt.alīputra in Magadhā, where the Prahasiteśvara liṅga is mentioned (SPS 167.166–169). The same Prahasiteśvara is apparently mentioned in a Khmer inscription (Sanderson 2003–04, 408). 
 
@@ -1991,7 +1991,7 @@ Matrimonial alliances of the royal houses of North India in the 6th and 7th cent
 
 39 IA IX, 178 ff. Indraji & B¨uhler read 153 ( = ad 728); Verma & Singh 1994, 238 f. (see ibiḍpp. xlix f.). Verse 13 (Sārd¯ulavikrīd ´ . ita): 
 
-devī bāhubalāḍhyamaukharikulaśrīvarmac¯ud. āman. i khyātihrepitavairibh¯upatigan. aśrībhogavarmodbhavā | 
+devī bāhubalāḍhyamaukharikulaśrīvarmac¯ud. āmaṇi khyātihrepitavairibh¯upatigaṇaśrībhogavarmodbhavā | 
 
 dauhitrī magadhādhipasya mahatah. śryādityasenasya yā, 
 
@@ -2005,15 +2005,15 @@ vy¯uḍhā śrīr iva tena (i.e. Sivadeva) ´ sā ks.itibhujā śrīvatsadevy �
 
 
 
-27 / Thanesar, the Pāśupata Order and the Skandapurān. a 539 
+27 / Thanesar, the Pāśupata Order and the Skandapurāṇa 539 
 
-The Later Guptas of Magadhā, from whose family the princess stemmed, were well familiar with the Pāśupata tradition. 41 This follows from an inscrip tion of the time of another grandchild of Adityasena (Vatsadevī’s cousin), the ¯ Later–Gupta king Vis.n. ugupta. In this inscription we are told that the pilgrim Avimuktajja (Skt. Avimuktārya), 42 who had visited numerous Saiva holy places ´ inhabited by Siddhas (anekaśivasiddhāyatana◦), was devoted to ‘his own doc trine’ (svasiddhāntābhirata). 43 It is therefore possible, even likely, that one or more Pāśupata teachers from Magadhā had traveled to Nepal, some of whom may have reached it in the company of the Later–Gupta princess. 44 
+The Later Guptas of Magadhā, from whose family the princess stemmed, were well familiar with the Pāśupata tradition. 41 This follows from an inscrip tion of the time of another grandchild of Adityasena (Vatsadevī’s cousin), the ¯ Later–Gupta king Vis.ṇugupta. In this inscription we are told that the pilgrim Avimuktajja (Skt. Avimuktārya), 42 who had visited numerous Saiva holy places ´ inhabited by Siddhas (anekaśivasiddhāyatana◦), was devoted to ‘his own doc trine’ (svasiddhāntābhirata). 43 It is therefore possible, even likely, that one or more Pāśupata teachers from Magadhā had traveled to Nepal, some of whom may have reached it in the company of the Later–Gupta princess. 44 
 
-When the Skandapurān. a text was thus brought to Nepal, it had undergone the two additions quoted above, (n. 36 on p. 537 f.) as part of a wider inter polation, in order to make good for what were, in the eyes of its conveyers and receivers, two neglected issues: the authenticity of the Pāśupata tradition within Magadhā, now said to have been founded by Lakulīśa himself, and the prominence of the holy state sanctuary of Nepal, Paśupatinātha. 
+When the Skandapurāṇa text was thus brought to Nepal, it had undergone the two additions quoted above, (n. 36 on p. 537 f.) as part of a wider inter polation, in order to make good for what were, in the eyes of its conveyers and receivers, two neglected issues: the authenticity of the Pāśupata tradition within Magadhā, now said to have been founded by Lakulīśa himself, and the prominence of the holy state sanctuary of Nepal, Paśupatinātha. 
 
 Matrimonial alliances and the spread of culture 
 
-Historians are used to judge royal matrimonial alliances by their political im plications. If our reconstruction holds any water, the cultural implications may also have been significant and may have had a more lasting effect than the po litical ones. Next to their husbands, princesses on their way to the residences of their grooms were accompanied by a cort`ege of ladies-in-waiting and dignitaries of all sorts. Among these there may have been religious virtuosi and literati, who, in the train of the two newlywed queens, Vāsat.ā and Vatsadevī, brought the Pāśupata order to Daks.in. a Kosala and the Skandapurān. a to Nepal. 
+Historians are used to judge royal matrimonial alliances by their political im plications. If our reconstruction holds any water, the cultural implications may also have been significant and may have had a more lasting effect than the po litical ones. Next to their husbands, princesses on their way to the residences of their grooms were accompanied by a cort`ege of ladies-in-waiting and dignitaries of all sorts. Among these there may have been religious virtuosi and literati, who, in the train of the two newlywed queens, Vāsat.ā and Vatsadevī, brought the Pāśupata order to Daks.iṇa Kosala and the Skandapurāṇa to Nepal. 
 
 41 A post-Gupta Lakulīśa image was found in Benisagar, southeastern Bihar (Panigrahi 1956, 3). Other Lakulīśa images in Bihar are reported in Mitra 1984, 116, n. 16. 
 
@@ -2023,7 +2023,7 @@ Historians are used to judge royal matrimonial alliances by their political im p
 
 44 Vatsadevī’s Nepalese husband, King Sivadeva, is known from the ´ Laganat.ola Inscription (ad 694/95) to have himself patronized the ācāryas of the Pāśupata order, since he handed over to the Pāśupata ācāryas the village of Vaidya as an agrahāra settlement for the maintenance of the temple (devakula) of Sivadeveśvara Bhat ´ .t.āraka, which the king had built himself. Verma & Singh 1994, no. 147, ll. 5–9: 
 
-ayam. grāmah. śarirakot.t.amaryādo(papanna)ś cāt.abhat.ānām apraveśyenācandrārkā vanikāliko bh¯umicchidranyāyenāgrahāratayā mātāpitror ātmanaś ca vipulapun. yopa cayahetor asmābhih. svakāritaśrīśivadeveśvaram. bhat.t.ārakam. nimittīkr.tya taddeva kulakhan. ḍasphut.itasam. skārakaran. āya vaśapāśupatācāryebhyah. * pratipāditas | * Diwakar Acharya informed me that it is possible to read ◦karan. āyāvam. śapāśupatācā ryebhyah., ‘Pāśupata ācāryas who are without family’. Cf. Bakker 2014, 132 f. 
+ayam. grāmah. śarirakot.t.amaryādo(papanna)ś cāt.abhat.ānām apraveśyenācandrārkā vanikāliko bh¯umicchidranyāyenāgrahāratayā mātāpitror ātmanaś ca vipulapuṇyopa cayahetor asmābhih. svakāritaśrīśivadeveśvaram. bhat.t.ārakam. nimittīkr.tya taddeva kulakhan. ḍasphut.itasam. skārakaran. āya vaśapāśupatācāryebhyah. * pratipāditas | * Diwakar Acharya informed me that it is possible to read ◦karan. āyāvam. śapāśupatācā ryebhyah., ‘Pāśupata ācāryas who are without family’. Cf. Bakker 2014, 132 f. 
 
 
 
@@ -2037,7 +2037,7 @@ The Gospel of Kaun. ḍinya∗
 
 The Descent of God in Gujarat and the Practice of Imitating God 
 
-Kaun.d.inya’s Panc˜ arthabh ¯ as¯.ya 
+Kauṇd.inya’s Panc˜ arthabh ¯ as¯.ya 
 
 Kuśika and the divine revelation 
 
@@ -2047,7 +2047,7 @@ It is generally accepted that this Kuśika has been a historic person, who may h
 
 And accordingly, since His nature is play (krīd. ā) . . . (it is certain that) the activity of God is springing from play. And (His) activity, insomuch as this consists in pro claiming the doctrine, is for the sake of bestowing favour (anugraha). (Kaun. ḍinya ad PS 1.1) 
 
-∗ The first version of this article was published in Dijkstra, Jitse, Justin Kroesen, & Yme Kuiper (eds.), Myths, Martyrs, and Modernity. Studies in the History of Religions in Honour of Jan N. Bremmer. Brill, Leiden – Boston 2010. pp. 517–529. Numen Book Series. Studies in the History of Religions 127. 
+∗ The first version of this article was published in Dijkstra, Jitse, Justin Kroesen, & Yme Kuiper (eds.), Myths, Martyrs, and Modernity. Studies in the History of Religions in Honour of Jan ṇBremmer. Brill, Leiden – Boston 2010. pp. 517–529. Numen Book Series. Studies in the History of Religions 127. 
 
 1 Kaun. ḍinya ad PS 4.10: kuśikeśānasambandhāt. Cf. above, n. 6 on p. 529 and Bisschop 2006, 49 f. 
 
@@ -2065,11 +2065,11 @@ And accordingly, since His nature is play (krīd. ā) . . . (it is certain that)
 
 The emphasis Kaun. ḍinya lays upon the true nature of God as play is to safe guard His sovereignty, His omnipotence (prabhutva). This nature of God, here defined for the first time, will remain an integral feature of nearly all Hindu conceptions of god, and we will meet it again below in this essay. Bestowing favour is God’s free choice, not induced by anything outside Him. His absolute freedom is without beginning and end, but, in order to fulfil His wish, He takes birth. 
 
-So, on account of His ability to do whatever He wishes, and His being unborn, God, having taken upon Him a body of a brahmin, has descended in Kāyāvataran. a in human form. And He has reached Ujjayanī by foot. How do we know that? (We know that) on account of the authoritativeness of learned persons (śis.t.a), and because we (still) see and hear the proofs thereof. (Kaun. ḍinya ad PS 1.1; above, n. 7 on p. 529) 
+So, on account of His ability to do whatever He wishes, and His being unborn, God, having taken upon Him a body of a brahmin, has descended in Kāyāvataraṇa in human form. And He has reached Ujjayanī by foot. How do we know that? (We know that) on account of the authoritativeness of learned persons (śis.t.a), and because we (still) see and hear the proofs thereof. (Kaun. ḍinya ad PS 1.1; above, n. 7 on p. 529) 
 
-This event is of a completely different nature as the mythic avatāra stories that we know from the Vais.n. ava religion. Its measure is human and it has a ring of historicity. Imagine Vis.n. u’s descent as the Boar or the Tortoise, going on foot from one historical site to another, a distance of 290 km as the divine aerial chariot (vimāna) flies! 
+This event is of a completely different nature as the mythic avatāra stories that we know from the Vais.ṇava religioṇIts measure is human and it has a ring of historicity. Imagine Vis.ṇu’s descent as the Boar or the Tortoise, going on foot from one historical site to another, a distance of 290 km as the divine aerial chariot (vimāna) flies! 
 
-Kaun. ḍinya continues by telling that this divine brahmin smeared himselves with ashes and selected a sanctuary in Ujjain as his place of residence. Unfor tunately the name of the sanctuary is not mentioned and the later tradition of the Skandapurān. a locates this residence in the cremation ground (śmaśāna) of Ujjain. 
+Kaun. ḍinya continues by telling that this divine brahmin smeared himselves with ashes and selected a sanctuary in Ujjain as his place of residence. Unfor tunately the name of the sanctuary is not mentioned and the later tradition of the Skandapurāṇa locates this residence in the cremation ground (śmaśāna) of Ujjain. 
 
 Thereupon Lord Kuśika arrived, impelled by God; he saw the signs of perfec tion, such as complete contentment, in the preceptor and the opposites thereof in himself; falling at his feet he informed him properly about his caste, gotra, Vedic affiliation, and his being free of debts; then, at an appropiate moment, (this) pupil, who was like a patient, consulted the preceptor, who had bided his time, and who was the doctor as it were: ‘Lord, is there a remedy that is effective and final for all those pains which fate, the world and we ourself afflict upon us, or not?’ (Kaun. ḍinya ad PS 1.1) 
 
@@ -2109,7 +2109,7 @@ At the same time, this magic potency accounts for the fact that the revelation i
 
 
 
-‘well’ and promising to reveal the divine doctrine, the teacher performs the ini tiation ceremony of the pupil, who has to take off all his worldly insignia (above, p. 513). From now on he should go naked or with a loincloth only, smeared with ashes, and without any personal belongings. Only then the teacher will impart the revelation. This divides the community of Siva worshippers (Māheśvaras) ´ into two, just as in Buddhism—which seems to have been a major source of inspiration to the Pāśupatas anyway: the laymen (laukikas), whose task it is to gather merit by supporting the order of initiates and by worshipping God in the temple, and the elite group of consecrated ascetics. Only these ascetics are entitled to practise in order to obtain union (yogavidhi), which is the main subject of the subsequent S¯utras. 
+‘well’ and promising to reveal the divine doctrine, the teacher performs the ini tiation ceremony of the pupil, who has to take off all his worldly insignia (above, p. 513). From now on he should go naked or with a loincloth only, smeared with ashes, and without any personal belongings. Only then the teacher will impart the revelatioṇThis divides the community of Siva worshippers (Māheśvaras) ´ into two, just as in Buddhism—which seems to have been a major source of inspiration to the Pāśupatas anyway: the laymen (laukikas), whose task it is to gather merit by supporting the order of initiates and by worshipping God in the temple, and the elite group of consecrated ascetics. Only these ascetics are entitled to practise in order to obtain union (yogavidhi), which is the main subject of the subsequent S¯utras. 
 
 The Pāśupata praxis 
 
@@ -2155,7 +2155,7 @@ sadyojātam. prapadyāmi sadyojātāya vai namah. |
 
 bhave bhave nātibhave bhajasva mām bhavodbhavah. k 
 
-This verse (Anus.t.ubh) corresponds to Taittirīya Araṅyaka 10.43. It has some variants (see Bisschop 2006a, 7 f.), the most important of which is the reading bhavasva instead of bhajasva. The Mahā-Nārāyan. a Upanis.ad 17.1 (Varenne 1960, 277–78) reads bhavasva. This verse is translated by Varenne 1960, 71, with a little too much Cartesian flavour, as: ‘Je cherge refuge aupr`es du nouveau-n´e; hommage au nouveau-n´e! Hommage! Je suis! Je suis! Je n’excelle pas! Sois pour moi! Hommage `a celui qui est l’origine de l’existence!’ 
+This verse (Anus.t.ubh) corresponds to Taittirīya Araṅyaka 10.43. It has some variants (see Bisschop 2006a, 7 f.), the most important of which is the reading bhavasva instead of bhajasva. The Mahā-Nārāyaṇa Upanis.ad 17.1 (Varenne 1960, 277–78) reads bhavasva. This verse is translated by Varenne 1960, 71, with a little too much Cartesian flavour, as: ‘Je cherge refuge aupr`es du nouveau-n´e; hommage au nouveau-n´e! Hommage! Je suis! Je suis! Je n’excelle pas! Sois pour moi! Hommage `a celui qui est l’origine de l’existence!’ 
 
 
 
@@ -2165,7 +2165,7 @@ This verse (Anus.t.ubh) corresponds to Taittirīya Araṅyaka 10.43. It has some
 
 refer to the notorious doctrine of seeking dishonour (avamāna). To initiate its discussion in his commentary on PS 3.3, reading ‘despised’ (avamatah.), Kaun. ḍinya quotes two verses which are in slightly modified form known from older sources, the Mahābhārata (12.222.20–21) and the Manusmr.ti (2.162– 163). 
 
-The wise brahmin should seek dishonour as if it were ambrosia and he should always beware of honour as if it were poison. For, while being despised, he rests in happiness, excluded from all society; a sage should not think of the faults of the other, (but) always of his own evil. (Kaun. ḍinya ad PS 3.3) 
+The wise brahmin should seek dishonour as if it were ambrosia and he should always beware of honour as if it were poisoṇFor, while being despised, he rests in happiness, excluded from all society; a sage should not think of the faults of the other, (but) always of his own evil. (Kaun. ḍinya ad PS 3.3) 
 
 Kaun. ḍinya’s quotation of older sources in this context and the fact that this stage of the path to salvation dealing with dishonour disappears soon from the repertoire of Saiva soteriologial texts seem to indicate that we are here con- ´ cerned with an archaic practice accommodated to the early Pāśupata move ment. 9 The practice involves that the aspirant seeks dishonour when, in public and without making himself known as a Pāśupata ascetic, 
 
@@ -2181,7 +2181,7 @@ Fools through the Ages
 
 A letter of Paul to the Corinthiers is often seen as a point of departure of this phenomenon in Christianity: 
 
-9 Oberlies 2000 points out that this practice, as part of the wider context of the brahmodya, is already attested in the Taittirīya Brāhman. a 2.3.9.9 and that an influence of Cynicism as argued by Ingalls (see below, p. 554) is very unlikely. Cf. Acharya 2013. In Bakker 2011 (below, p. 553 ff.) I argue that the Pāśupata doctrine, practice and iconography (Lakulīśa) are to be conceived as orthogenetic. 
+9 Oberlies 2000 points out that this practice, as part of the wider context of the brahmodya, is already attested in the Taittirīya Brāhmaṇa 2.3.9.9 and that an influence of Cynicism as argued by Ingalls (see below, p. 554) is very unlikely. Cf. Acharya 2013. In Bakker 2011 (below, p. 553 ff.) I argue that the Pāśupata doctrine, practice and iconography (Lakulīśa) are to be conceived as orthogenetic. 
 
 10 Translation based on Ingalls 1962. 
 
@@ -2195,11 +2195,11 @@ A letter of Paul to the Corinthiers is often seen as a point of departure of thi
 
 28 / The Gospel of Kaun. ḍinya 547 
 
-For I think that God hath set forth us the apostles last, as it were appointed to death: for we are made a spectacle unto the world, and to angels, and to men. We are fools for Christ’s sake, but ye are wise in Christ; we are weak, but ye are strong; ye are honourable, but we are despised. (1 Corintheans 4:9–10) 
+For I think that God hath set forth us the apostles last, as it were appointed to death: for we are made a spectacle unto the world, and to angels, and to meṇWe are fools for Christ’s sake, but ye are wise in Christ; we are weak, but ye are strong; ye are honourable, but we are despised. (1 Corintheans 4:9–10) 
 
 To what extremes this could evolve, we read, for instance, in the Life of Symeon the Holy Fool by Leontios, bishop of Neapolis, Cyprus (first half of 7th century ad): 
 
-His entry into the city of Emesa was as follows. Outside the city the illustrious one found a dead dog on a dunghill. He unleashed his cord, tied it to a leg of the dog, and tugged the animal behind him, while he was running through the city gate near the school. 12 . . . By everything he did he suggested to be mad or unbecoming. . . . He made it his habit, sometimes to limp, sometimes to spring around, or to shuffle on his bottom, or to trip someone up. Sometimes he watched the sky at new moon, upon which he dropped to the ground and began kicking around; sometimes he acted as if he were raving mad. . . . He had become completely incorporeal and innocent with respect to what is appropriate among men. When he wanted to answer a call of nature, it often happened that he was ashamed of nobody and defecated at the market square in full view. . . . The blessed one had reached such a degree of purity and sacrosanctity that he often danced and sprung around, having a harlot on each hanḍEtcetera. 13 
+His entry into the city of Emesa was as follows. Outside the city the illustrious one found a dead dog on a dunghill. He unleashed his cord, tied it to a leg of the dog, and tugged the animal behind him, while he was running through the city gate near the school. 12 . . . By everything he did he suggested to be mad or unbecoming. . . . He made it his habit, sometimes to limp, sometimes to spring around, or to shuffle on his bottom, or to trip someone up. Sometimes he watched the sky at new moon, upon which he dropped to the ground and began kicking around; sometimes he acted as if he were raving mad. . . . He had become completely incorporeal and innocent with respect to what is appropriate among meṇWhen he wanted to answer a call of nature, it often happened that he was ashamed of nobody and defecated at the market square in full view. . . . The blessed one had reached such a degree of purity and sacrosanctity that he often danced and sprung around, having a harlot on each hanḍEtcetera. 13 
 
   
 
@@ -2223,7 +2223,7 @@ Symeons’s entry into the city of Emesa
 
 We could continue to the yurodivyj ( rodivyi˘) of the Russian Orthodox Church, but it might be wise to return to the Pāśupata and to explain what is common to its tradition of seeking dishonour (avamāna) and apparently similar practices in the Greek and Christian traditions, and what is different. Common to all traditions, it would seem to me, is the feeling of ecstatic power, when freedom from all forms of (social) bondage is experienced, when the social ego is destroyeḍIt is the         and of which the Cynics speak, and which, for modern man, has been worded brilliantly by Thomas Mann in his Magic Mountain (Der Zauberberg): 
 
-Da seine Betrachtungen dumpf und verworren waren, so ist es schwer, sie zu pr¨a zisieren. Haubts¨achlich schien ihm, daß die Ehre bedeutende Vorteile fur sich habe, ¨ aber die Schande nicht minder, ja daß die Vorteile der letzteren geradezu grenzenlo ser Art seien. Und indem er sich probeweise in Herrn Albins Zustand versetzte und sich vergegenw¨artigte, wie es sein musse, wenn man endg ¨ ultig des Druckes der Ehre ¨ ledig war und auf immer die bodenlosen Vorteile der Schande genoß, erschreckte den jungen Mann ein Gefuhl von w ¨ uster S ¨ ußigkeit, das sein Herz vor ¨ ubergehend ¨ zu noch hastigerem Gange erregte. 14 
+Da seine Betrachtungen dumpf und verworren waren, so ist es schwer, sie zu pr¨a zisiereṇHaubts¨achlich schien ihm, daß die Ehre bedeutende Vorteile fur sich habe, ¨ aber die Schande nicht minder, ja daß die Vorteile der letzteren geradezu grenzenlo ser Art seieṇUnd indem er sich probeweise in Herrn Albins Zustand versetzte und sich vergegenw¨artigte, wie es sein musse, wenn man endg ¨ ultig des Druckes der Ehre ¨ ledig war und auf immer die bodenlosen Vorteile der Schande genoß, erschreckte den jungen Mann ein Gefuhl von w ¨ uster S ¨ ußigkeit, das sein Herz vor ¨ ubergehend ¨ zu noch hastigerem Gange erregte. 14 
 
 Kaun. ḍinya describes at length the supernatural powers that the aspirant at tains in the course of his ascetic training. However, the S¯utras that form the introduction to his treatment of dishonour run: ‘He gives his bad karma to them and from them he takes their good karma.’ (PS 3.8–9). The provocations that apparently heap shame upon the practioner induce a transfer of merit: the provoked bourgeois, who is tricked into mistaking the ascetic for a madman, looses good karma due to his mistake, which karma is booked at the karma credit side of the Pāśupata: a sort of credit swap avant la lettre. This highly individualistic motive, or should we say immoral, selfish ideology, although still well recognizable in its present-day forms, makes the gospel of Kaun. ḍinya stand out amongst its sort. 
 
@@ -2243,13 +2243,13 @@ Siva then wandered into the Pine Forest, and the wives of the sages there fell i
 
 28 / The Gospel of Kaun. ḍinya 549 
 
-to fall to the grounḍThe liṅga fell but began to cause a terrible conflagration; Brahmā and Vis.n. u tried in vain to find the top and bottom of it, and peace was only restored when the sages agreed to worship the liṅga, together with their wives. 
+to fall to the grounḍThe liṅga fell but began to cause a terrible conflagration; Brahmā and Vis.ṇu tried in vain to find the top and bottom of it, and peace was only restored when the sages agreed to worship the liṅga, together with their wives. 
 
 Antinomian conduct has remained a feature of Saiva ascetics until the present ´ day. 
 
-Kaun.d.inya’s eschatology 
+Kauṇd.inya’s eschatology 
 
-Like the aspirant, we should leave this provocative, foolish phase in the dis cipline behind us and move on towards the final goal. The next step in the career of the practitioner is to retreat into solitude, which ends in his move to the cremation grounḍBy chosing this, for ordinary Hindus most pollutive and horrifying place, as his last residence on earth (while still alive), the accom plished Pāśupata saint proves his complete detachment from all earthly things. Like God Himself, he has transcended the relative world of opposites, of pure and impure, of good and evil, and as a monad, steeped in meditation, he awaits the moment that God’s grace will fall upon him and his suffering comes to an enḍThis signals in the completion of the practice of imitation. With this, at the moment of death, the saint becomes god. 
+Like the aspirant, we should leave this provocative, foolish phase in the dis cipline behind us and move on towards the final goal. The next step in the career of the practitioner is to retreat into solitude, which ends in his move to the cremation grounḍBy chosing this, for ordinary Hindus most pollutive and horrifying place, as his last residence on earth (while still alive), the accom plished Pāśupata saint proves his complete detachment from all earthly things. Like God Himself, he has transcended the relative world of opposites, of pure and impure, of good and evil, and as a monad, steeped in meditation, he awaits the moment that God’s grace will fall upon him and his suffering comes to an enḍThis signals in the completion of the practice of imitatioṇWith this, at the moment of death, the saint becomes god. 
 
 The Pāśupatas¯utras finish when the divine speaker, that is Siva the author ´ of the S¯utras, instructs the practitioner in the penultimate stage to meditate on Him by repeating the following prayer: 
 
@@ -2259,9 +2259,9 @@ the Overlord of brahman, God (Brahmā), (who is) the Overlord of the demiurge (B
 
 This is followed in the Calcutta manuscript by the syllable om. ,17 which should be seen in this context as a declaration of affirmation, amen, from the side of GoḍKaun. ḍinya too, although he apparently omits this syllable om. , seems to take this prayer in an eschatological way. The fact that God Himself instructs the devotee to entreat Him to be gracious holds a great promise: the end of suffering is at hand; it will be realized at the moment of death (the last stage) and will be for ever. Typical for Kaun. ḍinya’s style, this vision of hope is prompted by a question: 
 
-16 TaiA 10.47 (= ¯ Mahānārāyan. a Upanis.ad 17.5 (Varenne 1960, 285–86)). This mantra/ bra hman is found in PS 5.42–47 with some variation. I follow the Calcutta ms (C) that conforms to the TaiA text (Bisschop 2006a, 18): ¯ 
+16 TaiA 10.47 (= ¯ Mahānārāyaṇa Upanis.ad 17.5 (Varenne 1960, 285–86)). This mantra/ bra hman is found in PS 5.42–47 with some variatioṇI follow the Calcutta ms (C) that conforms to the TaiA text (Bisschop 2006a, 18): ¯ 
 
-īśānah. sarvavidyānām īśvarah. sarvabh¯utānām. brahmādhipatir brahman. o ’dhipatir brahmā śivo me astu sadāśivom | 
+īśānah. sarvavidyānām īśvarah. sarvabh¯utānām. brahmādhipatir brahmaṇo ’dhipatir brahmā śivo me astu sadāśivom | 
 
 17 See Bisschop 2006a, 18. om. also in the TaiA text, see note above. ¯ 
 
@@ -2277,15 +2277,15 @@ This is followed in the Calcutta manuscript by the syllable om. ,17 which should
 
 This doctrine, scholastic, technical, and elitist as it may be, of a personal gracious God, who has descended to earth in order to save all those from suffering who have the courage and stamina to give up their own person for the sake of attaining Him, was something of a religious revolution in the first centuries ad in northern India. 
 
-In one important aspect the imitatio dei of the Pāśupata differs from other practices of this sort in later Hinduism as well as in Christianity. The imitation of the ascetic is meant to efface all human individuality, to destroy the ego and all worldly sensual experiences. Along this path, accessible only to ascetic virtuosi, the imitatio ends in an aequatio. The human soul, the paśu, as such ceases to exist; it has ‘transubstantiated’ into goḍAs so many products of the Indian mind, this ideal has never vanished, but remained part and parcel of the Indian cultural heritage. However, it has become relatively marginalized and eclipsed by modern forms of mass devotion, in particular by Vais.n. ava bhakti. 
+In one important aspect the imitatio dei of the Pāśupata differs from other practices of this sort in later Hinduism as well as in Christianity. The imitation of the ascetic is meant to efface all human individuality, to destroy the ego and all worldly sensual experiences. Along this path, accessible only to ascetic virtuosi, the imitatio ends in an aequatio. The human soul, the paśu, as such ceases to exist; it has ‘transubstantiated’ into goḍAs so many products of the Indian mind, this ideal has never vanished, but remained part and parcel of the Indian cultural heritage. However, it has become relatively marginalized and eclipsed by modern forms of mass devotion, in particular by Vais.ṇava bhakti. 
 
 Modern forms of Hindu devotion 
 
-I would like to finish with a few words on these modern forms of Hindu worship. We may say that the idea of the imitation of god as a path to reach him has retained a normative value in Saivism, Vaisnavism and Hinduism in general, ever since its earliest formulation in the Pāśupata religion. We have limited ourselves here to an early Saiva movement, but instances of the ´ imitatio dei practice within modern Vaisnavism are not hard to come by. 
+I would like to finish with a few words on these modern forms of Hindu worship. We may say that the idea of the imitation of god as a path to reach him has retained a normative value in Saivism, Vaisnavism and Hinduism in general, ever since its earliest formulation in the Pāśupata religioṇWe have limited ourselves here to an early Saiva movement, but instances of the ´ imitatio dei practice within modern Vaisnavism are not hard to come by. 
 
-One could even maintain that the modern devotional schools of Vis.n. u wor ship are nothing but imitations of the divine play (līlā/ krīd. ā), be it the sports of Rāma and Sītā in Ayodhyā, or those of Kr.s.n. a and Rādhā in Braj. In order to enact the eternal līlā, devotees make pilgrimages to the places where the mythology is believed to be topographically embeddeḍIt is a strategy prac tised by hundreds of millions to remove the painful separation (viraha) of the human soul and GoḍIn contrast to what the Christian pilgrim may experience 
+One could even maintain that the modern devotional schools of Vis.ṇu wor ship are nothing but imitations of the divine play (līlā/ krīd. ā), be it the sports of Rāma and Sītā in Ayodhyā, or those of Kr.s.ṇa and Rādhā in Braj. In order to enact the eternal līlā, devotees make pilgrimages to the places where the mythology is believed to be topographically embeddeḍIt is a strategy prac tised by hundreds of millions to remove the painful separation (viraha) of the human soul and GoḍIn contrast to what the Christian pilgrim may experience 
 
-18 I read kāran. a instead of karan. a. 
+18 I read kāraṇa instead of karaṇa. 
 
 
 
@@ -2293,11 +2293,11 @@ One could even maintain that the modern devotional schools of Vis.n. u wor ship 
 
 28 / The Gospel of Kaun. ḍinya 551 
 
-on the Via Dolorosa in Jerusalem, the imitation of Kr.s.n. a in Braj and Vrindavan usually results in great exuberance. Modern Hinduism, in particular Vais.n. ava bhakti, is a religion celebrating the joys of life rather than its sufferings (cf. above, p. 17). It is this character, unexpected as it may be to some readers, especially after reading this essay—it is this life-affirming attitude, which seeks to imitate the sports of a happy god, that sat in the way of a warm reception by Christian missionaries. It made Hinduism in the eyes of many of them a shallow, silly, and naive religion, a too childish way of life to compare in earnest with the grave and deadly serious, revealed religion whose ceremonialism em phasized the doleful side of life and banished, like the Pāśupata faith, the end of suffering to a realm beyond death. 
+on the Via Dolorosa in Jerusalem, the imitation of Kr.s.ṇa in Braj and Vrindavan usually results in great exuberance. Modern Hinduism, in particular Vais.ṇava bhakti, is a religion celebrating the joys of life rather than its sufferings (cf. above, p. 17). It is this character, unexpected as it may be to some readers, especially after reading this essay—it is this life-affirming attitude, which seeks to imitate the sports of a happy god, that sat in the way of a warm reception by Christian missionaries. It made Hinduism in the eyes of many of them a shallow, silly, and naive religion, a too childish way of life to compare in earnest with the grave and deadly serious, revealed religion whose ceremonialism em phasized the doleful side of life and banished, like the Pāśupata faith, the end of suffering to a realm beyond death. 
 
 Epilogue 
 
-Comparison is central to the systematic study of religion. The comparative method, however, carries a great risk. As the scope widens, the collected insights tend to become more shallow and this not infrequently results in an arid display of learnedness. A balance should be struck between collecting comparable phenomena in different religions and bringing to light the great divisions that do exist, despite superficial resemblances. It will not lead us to the essence of religion, but it will enhance our understanding and debunk absolute claims, since it is due to explode naive ethnocentricity and academic parochialism. Thus is the task of the historian of religion, and this task has been accomplished in an exemplary way by Jan Bremmer in his distinguished career as professor of religious studies. 
+Comparison is central to the systematic study of religioṇThe comparative method, however, carries a great risk. As the scope widens, the collected insights tend to become more shallow and this not infrequently results in an arid display of learnedness. A balance should be struck between collecting comparable phenomena in different religions and bringing to light the great divisions that do exist, despite superficial resemblances. It will not lead us to the essence of religion, but it will enhance our understanding and debunk absolute claims, since it is due to explode naive ethnocentricity and academic parochialism. Thus is the task of the historian of religion, and this task has been accomplished in an exemplary way by Jan Bremmer in his distinguished career as professor of religious studies. 
 
 Many scholars in the humanities today will agree that god as an entity is unwarranteḍGod is not an ontological category in the sense of an ens realis simum, but a human ideal, that is a mental, social and cultural figuration that gives meaning to life and guides the conduct of the community of believers. As such, the idea of god, which a community creates and sustains, is quintessen tial to the culture of that community. For this reason the study of religion is such a rewarding enterprise: it allows us access to key notions of a culture. A comparative perspective may help to bring these notions into prominence. 
 
@@ -2321,11 +2321,11 @@ Lagud ¯ .i
 
 The study of the origins of organized Saivism received a completely new per spective with the publication of the Pāśupatas¯utras (PS) and Kaun. ḍinya’s com mentary thereon, the Pa˜ncārthabhās.ya, by R. Ananthakrishna Sastri in 1940. Research by Minoru Hara, Daniel Ingalls, Alexis Sanderson, Thomas Oberlies, Peter Bisschop, and Diwakar Acharya, to mention just the major players in this field, built on this new evidence and has paved the way for our present investigation, which draws heavily on their work. 1 
 
-For the last fifteen years we have also been fortunate to possess another source that comes from the same Pāśupata tradition and is chronologically not too far removed from Kaun. ḍinya. This text reflects the layman’s, laukika, view, rather than that of the initiated ascetic, who is the primary person treated by Kaun. ḍinya. This text is the Skandapurān. a (SP), whose composition we date between ad 550 and 650, which means that the text is probably about 200 years later than Kaun. ḍinya’s commentary. Much had happened in India in those 200 years: it saw the rise and fall of the great Gupta Empire, the intrusion of Hunnic peoples, and the gradual recovery of centralized power in the new capital Kanauj (Kanyakubja) under the Maukharis and the great Hars.avardhana of Thanesar. 
+For the last fifteen years we have also been fortunate to possess another source that comes from the same Pāśupata tradition and is chronologically not too far removed from Kaun. ḍinya. This text reflects the layman’s, laukika, view, rather than that of the initiated ascetic, who is the primary person treated by Kaun. ḍinya. This text is the Skandapurāṇa (SP), whose composition we date between ad 550 and 650, which means that the text is probably about 200 years later than Kaun. ḍinya’s commentary. Much had happened in India in those 200 years: it saw the rise and fall of the great Gupta Empire, the intrusion of Hunnic peoples, and the gradual recovery of centralized power in the new capital Kanauj (Kanyakubja) under the Maukharis and the great Hars.avardhana of Thanesar. 
 
-The first thing that strikes us, when we compare the Skandapurān. a’s account of the well-known descent of Siva in Kāyāvataran ´ . a (called Kārohan. a in SP and known today as Karvan in Gujarat) with that given by Kaun. ḍinya, is that the uniqueness of this mystical event is no longer maintaineḍReflecting the general Hindu and Buddhist conception of the time, viz. that a Buddha or a god incarnates on earth again and again in various forms and persons, the Skandapurān. a makes Siva’s descent in Gujarat a cyclic event: each world period ´ 
+The first thing that strikes us, when we compare the Skandapurāṇa’s account of the well-known descent of Siva in Kāyāvataran ´ . a (called Kārohaṇa in SP and known today as Karvan in Gujarat) with that given by Kaun. ḍinya, is that the uniqueness of this mystical event is no longer maintaineḍReflecting the general Hindu and Buddhist conception of the time, viz. that a Buddha or a god incarnates on earth again and again in various forms and persons, the Skandapurāṇa makes Siva’s descent in Gujarat a cyclic event: each world period ´ 
 
-∗ The first version of this article was published in Tikkanen, Betil & Albion M. Butters (eds.), P¯urvāparapraj˜nābhinandanam. East and West, Past and Present. Indological and Other Essays in Honour of Klaus Karttunen. The Finnish Oriental Society, Helsinki 2011. pp. 21–37. Studia Orientalia 110. 
+∗ The first version of this article was published in Tikkanen, Betil & Albion M. Butters (eds.), P¯urvāparapraj˜nābhinandanam. East and West, Past and Present. Indological and Other Essays in Honour of Klaus KarttuneṇThe Finnish Oriental Society, Helsinki 2011. pp. 21–37. Studia Orientalia 110. 
 
 1 Hara 2002; Ingalls 1962; Sanderson 2006; Oberlies 2000; Bisschop 2006, 2006a; Acharya 2005, 2007, 2013. 
 
@@ -2339,17 +2339,17 @@ The first thing that strikes us, when we compare the Skandapurān. a’s account
 
 
 
-(yuga) had its own incarnation: Bhārabh¯uti in the Kr.tayuga, Din. ḍimun. ḍa in the Tretā, As ¯ .āḍhi in the Dvāpara, and Lāguḍi in our Kali Age. 2 Another development that apparently took place or gained prominence in the 5th to 6th centuries is that the avatāra story in Kārohan. a itself was reviseḍGod is said in the Skandapurān. a to have been born into the house of a certain Somaśarman, who is said to belong to the lineage of the r. s.i Atri, father of Soma, the Moon. 3 This new tradition may have been invented to account for a lineage of Pāśupata teachers who traced their pedigree back to Somaśarman, a topic that I have discussed in my paper Somaśarman, Somavam. śa and So masiddhānta (above, p. 283 ff.). The Skandapurān. a is, in all likelihood, the first extant text that attests the name Lāguḍi (variant: Lākulin), meaning ‘club bearer’ (laguḍa/lakut.a: ‘club’; see above, p. 529). However, this relatively late first attestation of the name ‘club bearer’ does not preclude the possibility that the association of this incarnation with the attribute of the club is much older. For this we have some indications. 
+(yuga) had its own incarnation: Bhārabh¯uti in the Kr.tayuga, Din. ḍimun. ḍa in the Tretā, As ¯ .āḍhi in the Dvāpara, and Lāguḍi in our Kali Age. 2 Another development that apparently took place or gained prominence in the 5th to 6th centuries is that the avatāra story in Kārohaṇa itself was reviseḍGod is said in the Skandapurāṇa to have been born into the house of a certain Somaśarman, who is said to belong to the lineage of the r. s.i Atri, father of Soma, the Moon. 3 This new tradition may have been invented to account for a lineage of Pāśupata teachers who traced their pedigree back to Somaśarman, a topic that I have discussed in my paper Somaśarman, Somavam. śa and So masiddhānta (above, p. 283 ff.). The Skandapurāṇa is, in all likelihood, the first extant text that attests the name Lāguḍi (variant: Lākulin), meaning ‘club bearer’ (laguḍa/lakut.a: ‘club’; see above, p. 529). However, this relatively late first attestation of the name ‘club bearer’ does not preclude the possibility that the association of this incarnation with the attribute of the club is much older. For this we have some indications. 
 
 Early images of a club bearing ascetic or teacher 
 
 To begin with, there is an image found in Mathurā, 4 usually dated to the third century ad on stylistic grounds, of a rather glum-faced, club-bearing ascetic. This figure might represent, either an ascetic associated with the Pāśupata sect, or—less likely, because characteristic iconographic signs are absent—the incarnation of Siva himself (Plate 121). ´ 5 
 
-Secondly, the American scholar Daniel Ingalls, who compared the Pāśupata sect with the school of the Greek Cynics, broke new ground in his paper Cynics and Pāśupata: the Seeking of Dishonor, when he conjectured that the name Lakulīśa, the Lāguḍi of the Skandapurān. a, may have been derived from the Greek name Heracles,           , ‘if it lost its first syllable in order to help out a folk etymology’. 6 If this were correct, it might point to an (iconographic) influence of the Hellenistic school of the Cynics, whose patron saint was the club-bearing Heracles, on the movement of the Pāśupata.       
+Secondly, the American scholar Daniel Ingalls, who compared the Pāśupata sect with the school of the Greek Cynics, broke new ground in his paper Cynics and Pāśupata: the Seeking of Dishonor, when he conjectured that the name Lakulīśa, the Lāguḍi of the Skandapurāṇa, may have been derived from the Greek name Heracles,           , ‘if it lost its first syllable in order to help out a folk etymology’. 6 If this were correct, it might point to an (iconographic) influence of the Hellenistic school of the Cynics, whose patron saint was the club-bearing Heracles, on the movement of the Pāśupata.       
 
-Ingalls’ wider suggestion, namely that the Pāśupata practice of seeking dis honour may have originated under the influence of the Cynics, has been met with scepticism by contemporary scholarship. Thomas Oberlies (2000) argued in his Kriegslisten und ungeziemendes Benehmen: Die Askesepraktiken der Pāśupatas that antinomian praxis, as part of the context of the brahmodya, is already attested in the Taittirīya Brāhman. a (2.3.9.9); the influence of Cynicism in this particular respect, something that was conjectured by Ingalls, is there fore not required to explain the phenomenon. Though it may indeed be the case that the Pāśupata antinomian praxis in the second stage of the ascetic’s 
+Ingalls’ wider suggestion, namely that the Pāśupata practice of seeking dis honour may have originated under the influence of the Cynics, has been met with scepticism by contemporary scholarship. Thomas Oberlies (2000) argued in his Kriegslisten und ungeziemendes Benehmen: Die Askesepraktiken der Pāśupatas that antinomian praxis, as part of the context of the brahmodya, is already attested in the Taittirīya Brāhmaṇa (2.3.9.9); the influence of Cynicism in this particular respect, something that was conjectured by Ingalls, is there fore not required to explain the phenomenoṇThough it may indeed be the case that the Pāśupata antinomian praxis in the second stage of the ascetic’s 
 
-2 Skandapurān. a S recension (SPS 167.112–117) in Bisschop 2006. 
+2 Skandapurāṇa S recension (SPS 167.112–117) in Bisschop 2006. 
 
 3 SPS 167.124 (above, p. 295). 
 
@@ -2407,7 +2407,7 @@ Plate 123 Plate 124
 
 A¨ı Khanum: Heracles Mathurā: Heracles & Nemeian Lion 
 
-This is clear from, among other things, coins found of the Indo-Greek king Agathokles (c. 170 bc). They show two Indian deities, who have been identi fied as Vāsudeva (Kr.s.n. a), obverse, and Sam. kars.an. a (Balarāma), reverse. As H¨artel has observed, ‘these coins are the oldest examples at all of the pictorial representation of Hinduistic gods, a fact which cannot be emphasized enough’. 11 
+This is clear from, among other things, coins found of the Indo-Greek king Agathokles (c. 170 bc). They show two Indian deities, who have been identi fied as Vāsudeva (Kr.s.ṇa), obverse, and Sam. kars.aṇa (Balarāma), reverse. As H¨artel has observed, ‘these coins are the oldest examples at all of the pictorial representation of Hinduistic gods, a fact which cannot be emphasized enough’. 11 
 
 9 Paul Bernard in Afghanistan 2008, 81 ff. 
 
@@ -2423,7 +2423,7 @@ This is clear from, among other things, coins found of the Indo-Greek king Agath
 
 29 / Origin and Spread of the Pāśupata Movement 557 
 
-Elements of the syncretistic culture of Bactria reached western India with the entrance into the Subcontinent of Saka tribes, who built a kingdom from ´ Mathurā to southern Gujarat in the last decades before the Common Era. That Heracles remained a popular figure there till Kus.ān. a rule is attested, for instance, by the so-called Hercules-type of coins of the Saka ruler Rajuvula (1st ´ quarter 1st cent. ad), some of which were found in Mathurā, 12 and a second century ad image of Heracles and the Nemeian Lion, which was also found in Mathurā (Plate 124). 13 
+Elements of the syncretistic culture of Bactria reached western India with the entrance into the Subcontinent of Saka tribes, who built a kingdom from ´ Mathurā to southern Gujarat in the last decades before the Common Era. That Heracles remained a popular figure there till Kus.āṇa rule is attested, for instance, by the so-called Hercules-type of coins of the Saka ruler Rajuvula (1st ´ quarter 1st cent. ad), some of which were found in Mathurā, 12 and a second century ad image of Heracles and the Nemeian Lion, which was also found in Mathurā (Plate 124). 13 
 
   
 
@@ -2443,9 +2443,9 @@ Cette pi`ece de sculpture est ´evidemment l’imitation assez faible d’un th`
 
 Cunningham in ASI Reports, Vol. XVII (1884), pp. 109 f. notes: 
 
-The head of Herakles is unfortunately wanting; but the pose and muscular develop ment of the body are infinitely superior to any purely Indian sculpture that I have seen. Herakles has his left arm wound about the lion’s neck, while with his right he is raising the club, which appears behind his back, to strike a blow. The raised arm is also gone. The lion is rather a weak animal. The group is not cut in the round, but is an altro-relievo with a rough back, and has apparently formed one side of an altar. 
+The head of Herakles is unfortunately wanting; but the pose and muscular develop ment of the body are infinitely superior to any purely Indian sculpture that I have seeṇHerakles has his left arm wound about the lion’s neck, while with his right he is raising the club, which appears behind his back, to strike a blow. The raised arm is also gone. The lion is rather a weak animal. The group is not cut in the round, but is an altro-relievo with a rough back, and has apparently formed one side of an altar. 
 
-Cf. Harle 1986, 67 f. The ‘Indian Heracles’ of Greek sources, mentioned by Megasthenes et al., is mostly identified as Kr.s.n. a, a deity very well at home in Mathurā (Karttunen 1989, 211 f.). 
+Cf. Harle 1986, 67 f. The ‘Indian Heracles’ of Greek sources, mentioned by Megasthenes et al., is mostly identified as Kr.s.ṇa, a deity very well at home in Mathurā (Karttunen 1989, 211 f.). 
 
 
 
@@ -2467,13 +2467,13 @@ An orthogenetic root of the club-bearing deity seems therefore to be more obviou
 
 Plate 126 
 
-Dan. ḍapān. i on Mathurā pilaster, ge 61 
+Dan. ḍapāṇi on Mathurā pilaster, ge 61 
 
 14 The Mahābhārata knows the Pāśupata sect, its vow (vrata), doctrine (j˜nāna), and prac tice (yoga); it also knows the Pāśupata weapon (astra), which Siva gave to Arjuna; for ´ this weapon see below, p. 567. Lāguḍi/Lakulīśa is unknown to the MBh and so is his club. 
 
 15 CII III (1981), 240. 
 
-16 The identity of this figure is disputeḍThat we are concerned with a divine figure follows from the third eye. Acharya 2005, 209 proposes to read the name of this deity as Can. ḍa. My designation ‘Dan. ḍapān. i’ is descriptive, it is not the proper name of the deity. 
+16 The identity of this figure is disputeḍThat we are concerned with a divine figure follows from the third eye. Acharya 2005, 209 proposes to read the name of this deity as Can. ḍa. My designation ‘Dan. ḍapāṇi’ is descriptive, it is not the proper name of the deity. 
 
 
 
@@ -2483,11 +2483,11 @@ Dan. ḍapān. i on Mathurā pilaster, ge 61
 
 29 / Origin and Spread of the Pāśupata Movement 559 
 
-Admittedly, the origin of the word laguḍa/lakut.a—attested, for instance, in Manusmr.ti (8.315) and Mahābhārata (7.29.16) in the sense of ‘cudgel’ or ‘club’—remains as yet unclear. 17 But even if we do not accept Przyluski’s etymology that links the word to the Austro–Asiatic lāṅgula, meaning ‘stick’ or ‘penis’, 18 we may assume that phallic symbolism easily suggested itself to the Indian mind and came to be associated with this particular attribute. The phallic shape of the club in the earliest representations of the divine teacher, evident from the line pattern and its upright position (Plate 125), may have been prompted by the ithyphallic nature of this teacher and his prototype, Siva. Thus, the club may have replaced the ascetic ´ dan. ḍa, by virtue of its more outspoken phallic, i.e. Saiva connotation. ´ 19 The name Lāguḍi, ‘club-bearer’, in Skandapurān. a (SPS 167.129), Lagud.īśvara in SPS 167.169 (interpolation), Lākuli in Niśvāsamukha 3.19 (Kafle 2015, 149) and Lakulīśa, i.e. ‘Lord of the club-bearers’, in slightly later sources, e.g. the Guhyas¯utra (12.18) of the Niśvāsatattvasam. hitā, derive all from this eponymous attribute. 20 
+Admittedly, the origin of the word laguḍa/lakut.a—attested, for instance, in Manusmr.ti (8.315) and Mahābhārata (7.29.16) in the sense of ‘cudgel’ or ‘club’—remains as yet unclear. 17 But even if we do not accept Przyluski’s etymology that links the word to the Austro–Asiatic lāṅgula, meaning ‘stick’ or ‘penis’, 18 we may assume that phallic symbolism easily suggested itself to the Indian mind and came to be associated with this particular attribute. The phallic shape of the club in the earliest representations of the divine teacher, evident from the line pattern and its upright position (Plate 125), may have been prompted by the ithyphallic nature of this teacher and his prototype, Siva. Thus, the club may have replaced the ascetic ´ dan. ḍa, by virtue of its more outspoken phallic, i.e. Saiva connotation. ´ 19 The name Lāguḍi, ‘club-bearer’, in Skandapurāṇa (SPS 167.129), Lagud.īśvara in SPS 167.169 (interpolation), Lākuli in Niśvāsamukha 3.19 (Kafle 2015, 149) and Lakulīśa, i.e. ‘Lord of the club-bearers’, in slightly later sources, e.g. the Guhyas¯utra (12.18) of the Niśvāsatattvasam. hitā, derive all from this eponymous attribute. 20 
 
 The four disciples 
 
-Another major development (in addition to the invention of the figure of Lāguḍi) that took place in the 4th to 6th centuries is also attested by the Skandapurān. a: Kuśika is no longer the only disciple. The number of disciples that is said to have been initiated by Lāguḍi himself has increased to four. These four are considered to have a semi-divine status; our text declares them to have sprung from the four faces of God (Parameśāna), out of His desire to bestow grace (anugraha) upon the world: 
+Another major development (in addition to the invention of the figure of Lāguḍi) that took place in the 4th to 6th centuries is also attested by the Skandapurāṇa: Kuśika is no longer the only disciple. The number of disciples that is said to have been initiated by Lāguḍi himself has increased to four. These four are considered to have a semi-divine status; our text declares them to have sprung from the four faces of God (Parameśāna), out of His desire to bestow grace (anugraha) upon the world: 
 
 17 See Manfred Mayrhofer, EWA s.v. ‘lakut.a’: ‘Nicht erkl¨art’. 
 
@@ -2499,7 +2499,7 @@ tato ’sya mau˜njim. prayacchati k
 
 sāvitryā tu dan. ḍam. pālāśam. bailvam āśvattham. vāsim. lakut.am. khat.vāṅgam. paraśum. vā k (40.3.2) For translation and explicatory notes see Bisschop & Griffiths 2003, 331 f. These authors date this text to the 2nd half of the 1st millennium (op. cit. 324). 
 
-20 Lakulīśanātha in the Malhar (Junvānī) Copperplates of Mahāśivagupta, Year 57 (above, p. 290). The names Lakulin/Lakulīśa/Lakuladhārin are also known to the Pāśupatavidhi texts discovered and published by Diwakar Acharya; for instance the Sam. skāravidhi (Acharya 2007). The name ‘Nakulin/Lakulin’ is known from the list of 28 incarnations of Siva as given in the ´ Vāyupurān. a 1.23 and Liṅgapurān. a 1.24. However, as Bisschop 2006, 43 ff. has argued convincingly ‘this list of twenty-eight avatāras did not yet form part of that text [i.e. the Vāyupurān. a] at the time of composition of the Skandapurān. a’. The earliest attestation of a group of ascetics named Lākuḍas seems to be a graffito on Mount Kāla˜njara (Bakker 2014, 196). 
+20 Lakulīśanātha in the Malhar (Junvānī) Copperplates of Mahāśivagupta, Year 57 (above, p. 290). The names Lakulin/Lakulīśa/Lakuladhārin are also known to the Pāśupatavidhi texts discovered and published by Diwakar Acharya; for instance the Sam. skāravidhi (Acharya 2007). The name ‘Nakulin/Lakulin’ is known from the list of 28 incarnations of Siva as given in the ´ Vāyupurāṇa 1.23 and Liṅgapurāṇa 1.24. However, as Bisschop 2006, 43 ff. has argued convincingly ‘this list of twenty-eight avatāras did not yet form part of that text [i.e. the Vāyupurāṇa] at the time of composition of the Skandapurāṇa’. The earliest attestation of a group of ascetics named Lākuḍas seems to be a graffito on Mount Kāla˜njara (Bakker 2014, 196). 
 
 
 
@@ -2515,9 +2515,9 @@ And after having led the brahmins to the supreme station,
 
 you, O masters of yoga, should return to Me. (SPS 167.120) 
 
-The first disciple, Kuśika/Kauśika, is born in Ujjain and initiated there by Siva’s incarnation himself, just as is in Kaun ´ . ḍinya’s version of the story (above, n. 7 on p. 529 and p. 542). But the venue has changeḍThe initiation according to the Skandapurān. a takes place in the cremation ground instead of a temple. The Lord, smeared with ashes, is said to hold a firebrand (ulmuka) in his left hand (SPS 167.127 f.). This seems appropriate for a cremation ground and may suggest that the initiation included branding. Although it is tempting to hypothesize that the ascetic’s club has been mistakenly interpreted for what was originally a firebrand, this hypothesis has to be discarded, not only because of what has been said above, but also, more importantly, because images of Lakulīśa with a firebrand have never come to light and the ulmuka is elsewhere never mentioned as one of his potential attributes. On the other hand, the firebrand as an attribute is found in some later images of Siva as a teacher, in ´ his so-called ‘Daks.in. ām¯urti’. 21 
+The first disciple, Kuśika/Kauśika, is born in Ujjain and initiated there by Siva’s incarnation himself, just as is in Kaun ´ . ḍinya’s version of the story (above, n. 7 on p. 529 and p. 542). But the venue has changeḍThe initiation according to the Skandapurāṇa takes place in the cremation ground instead of a temple. The Lord, smeared with ashes, is said to hold a firebrand (ulmuka) in his left hand (SPS 167.127 f.). This seems appropriate for a cremation ground and may suggest that the initiation included branding. Although it is tempting to hypothesize that the ascetic’s club has been mistakenly interpreted for what was originally a firebrand, this hypothesis has to be discarded, not only because of what has been said above, but also, more importantly, because images of Lakulīśa with a firebrand have never come to light and the ulmuka is elsewhere never mentioned as one of his potential attributes. On the other hand, the firebrand as an attribute is found in some later images of Siva as a teacher, in ´ his so-called ‘Daks.in. ām¯urti’. 21 
 
-The ancient cremation ground in Ujjain has been identifieḍLocally known as Kumhār T. ekd.ī, this site was the subject of preliminary explorations by M.B. Garde in the season of 1938–39. Discovered there were skeletons in sitting posture, reflecting the normal way of interning yogins. Kuśika may have been one of them. 22 The specification of these four disciples in the Skandapurān. a allows us to catch a glimpse of the spread and ramification of the movement; it will be our subject in the final part of this essay. 
+The ancient cremation ground in Ujjain has been identifieḍLocally known as Kumhār T. ekd.ī, this site was the subject of preliminary explorations by M.B. Garde in the season of 1938–39. Discovered there were skeletons in sitting posture, reflecting the normal way of interning yogins. Kuśika may have been one of them. 22 The specification of these four disciples in the Skandapurāṇa allows us to catch a glimpse of the spread and ramification of the movement; it will be our subject in the final part of this essay. 
 
   
 
@@ -2541,7 +2541,7 @@ Spread and ramification of the Pāśupata movement
 
 From the Mathurā Pilaster of ad 380 we deduce that the Pāśupata movement had spread from South Gujarat to Mathurā before the end of the fourth cen tury. This is true for at least one tradition of gurus, the so-called ‘Vaimalas’, who traced their pedigree also directly back to Kuśika. In an image found in Mathurā that might be slightly later than the pilaster, the ithyphallic divine teacher—who, to judge by his attribute, is to be identified as Lāguḍi—is shown with two disciples (above, Plate 118). 23 Evidently the Kuśika lineage (param parā) as attested in Kaun. ḍinya’s commentary needed to compete with one or more rival traditions that also claimed direct descent from Siva’s incarnation. ´ 24 
 
-The Skandapurān. a’s account of the four disciples of Lāguḍi, which would become the standard, reflects this bifurcation, which may have started already in the 4th century, if not earlier. The earliest known image that shows four disciples seated around a divine teacher, however, comes only in the 6th century (Plate 128); it is found ‘above the doorway in the east vestibule to the great cave at Yogeśvarī near Bombay’, which is dated by Walter Spink to c. ad 525. 25 
+The Skandapurāṇa’s account of the four disciples of Lāguḍi, which would become the standard, reflects this bifurcation, which may have started already in the 4th century, if not earlier. The earliest known image that shows four disciples seated around a divine teacher, however, comes only in the 6th century (Plate 128); it is found ‘above the doorway in the east vestibule to the great cave at Yogeśvarī near Bombay’, which is dated by Walter Spink to c. ad 525. 25 
 
   
 
@@ -2555,7 +2555,7 @@ Yogeśvarī Cave (Mumbai): Lakulīśa with four disciples
 
 24 Cf. above, n. 6 on p. 529 and p. 541. 
 
-25 Spink 1983, 243. Shah 1984, 88. The divine figure in the Yogeśvarī Cave seems to be four-armed: the left upper hand holds the rosary, the left lower hand the club, the right lower hand seems to make a vyākhānamudrā, whereas the right upper arm is missing (cf. Shah 1984, 98). This early Saiva monument, just as the monuments at Mandapesvar ´ and Elephanta, shows the flourishing of the Pāśupata movement in the middle of the 6th century, when the movement’s home country came under the control of the early Kalacuris, who extended their rule to the northern Konkan, where these monuments are preserved (Spink 1983; cf. Mirashi in CII IV.1, xlvi f., cxlvii f.). The Kalacuri king Kr.s.n. arāja in an inscription of his son (Sam ´ . karagan. a) datable to ad 597, is said to have been devoted to Paśupati from the day of his birth (janmana eva paśupatisamāśraya parah., CII IV.1, 41). 
+25 Spink 1983, 243. Shah 1984, 88. The divine figure in the Yogeśvarī Cave seems to be four-armed: the left upper hand holds the rosary, the left lower hand the club, the right lower hand seems to make a vyākhānamudrā, whereas the right upper arm is missing (cf. Shah 1984, 98). This early Saiva monument, just as the monuments at Mandapesvar ´ and Elephanta, shows the flourishing of the Pāśupata movement in the middle of the 6th century, when the movement’s home country came under the control of the early Kalacuris, who extended their rule to the northern Konkan, where these monuments are preserved (Spink 1983; cf. Mirashi in CII IV.1, xlvi f., cxlvii f.). The Kalacuri king Kr.s.ṇarāja in an inscription of his son (Sam ´ . karagaṇa) datable to ad 597, is said to have been devoted to Paśupati from the day of his birth (janmana eva paśupatisamāśraya parah., CII IV.1, 41). 
 
 
 
@@ -2565,15 +2565,15 @@ Yogeśvarī Cave (Mumbai): Lakulīśa with four disciples
 
 
 
-The account in the Skandapurān. a tells us that the third disciple, who was initiated in Mathurā, was named Mitra. No doubt there were many Mitras in Mathurā, but the mentioning of this name in this context may betray some historical awareness of the fact that the city of Mathurā, before the coming of the Sakas, had been governed by a Mitra dynasty. ´ 26 Making a (legendary) Mitra the fountainhead of a lineage of Pāśupata gurus in Mathurā would only add to the authenticity of this tradition. 
+The account in the Skandapurāṇa tells us that the third disciple, who was initiated in Mathurā, was named Mitra. No doubt there were many Mitras in Mathurā, but the mentioning of this name in this context may betray some historical awareness of the fact that the city of Mathurā, before the coming of the Sakas, had been governed by a Mitra dynasty. ´ 26 Making a (legendary) Mitra the fountainhead of a lineage of Pāśupata gurus in Mathurā would only add to the authenticity of this tradition. 
 
-The Skandapurān. a suggests that before the Pāśupata teachers had settled in Mathurā, the movement had reached the city of Jambumārga, to be located between Ujjayanī and Mathurā. 27 In this city, the divine incarnation is said to have initiated his second disciple Gārgya. The exact location of Jambumārga is unknown, but it must have been an important Saiva centre. Professor Tsuchida ´ (Tokyo) has suggested to me that it may be the town called Mo-hi-shi-fa-lo pu-lo, Maheśvarapura, visited by Xuanzang in the first quarter of the seventh century. The chinese pilgrim describes the place as follows. 
+The Skandapurāṇa suggests that before the Pāśupata teachers had settled in Mathurā, the movement had reached the city of Jambumārga, to be located between Ujjayanī and Mathurā. 27 In this city, the divine incarnation is said to have initiated his second disciple Gārgya. The exact location of Jambumārga is unknown, but it must have been an important Saiva centre. Professor Tsuchida ´ (Tokyo) has suggested to me that it may be the town called Mo-hi-shi-fa-lo pu-lo, Maheśvarapura, visited by Xuanzang in the first quarter of the seventh century. The chinese pilgrim describes the place as follows. 
 
 The produce of the soil and the manners of the people are like those of the kingdom of Ujjayanˆı. They greatly esteem the heretics and do not reverence the law of the Buddha. There are several tens of Dˆeva temples, and the sectaries principally belong to the Pˆasupatas. The king is of the Brˆahman caste; he places but little faith in the doctrine of Buddha. 28 
 
 The itinerary of the Chinese pilgrim suggests that Maheśvarapura lay on the route from Ujjain to the north through Chitor, that is on the axis Ujjain, Mandasor, Chitor, Pus.kara, Mathurā. 29 The research of Elizabeth Cecil (2016, 150 ff.) has shown that the salt lake region north of Pus.kara, around Sikar– Sambhar, traditionally known as Sapādalaks.a, in particular the excavation site at Naliasar, 6 km from Sāmbhar (Sākambharī), may be another good candidate ´ for Jambumārga. 
 
-In between Pus.kara and Ujjain is the village presently known as Nagarī, corresponding to the ancient town of Mādhyamika, which is located near Chitor (Xuanzang’s Chi-ki-to) in Rajasthan. Just as in Maheśvarapura, Xuanzang reports a strong Saiva presence in Chi-ki-to: ‘There are about ten Dˆeva temples, ´ which some thousand followers frequent’ (Beal II, 271). The archaeological remains in Nagarī (Mādhyamika) testify to its importance as a Saiva centre in ´ the 5th and 6th centuries, predating Chitor. 30 We discuss the Nagarī remains in more detail elsewhere. 31 
+In between Pus.kara and Ujjain is the village presently known as Nagarī, corresponding to the ancient town of Mādhyamika, which is located near Chitor (Xuanzang’s Chi-ki-to) in RajasthaṇJust as in Maheśvarapura, Xuanzang reports a strong Saiva presence in Chi-ki-to: ‘There are about ten Dˆeva temples, ´ which some thousand followers frequent’ (Beal II, 271). The archaeological remains in Nagarī (Mādhyamika) testify to its importance as a Saiva centre in ´ the 5th and 6th centuries, predating Chitor. 30 We discuss the Nagarī remains in more detail elsewhere. 31 
 
 26 Gupta 1989, 129–131. 
 
@@ -2599,11 +2599,11 @@ The route along which the Pāśupata religion moved north
 
 Combining the evidence and the above conjectures, tentative as much of it may be, we could try to reconstruct the route along which the Pāśupata reli gion moved north in the fourth century. Coming from Karvan in Gujarat, and after having established itself in Ujjain in Western Malwa (Madhya Pradesh), it moved northwards along the ancient caravan route that connected the port of Bharukaccha (Bharuch) at the mouth of the Narmadā River, through Uj jain, with Pus.kara in Rajasthan and the town of Mathurā further-on in Uttar Pradesh. On this route Jambumārga, Maheśvarapura, became a Pāśupata stronghold like Ujjain and Mathurā (Figure 15). 
 
-The movement did not end in Mathurā. The Skandapurān. a speaks of the fourth disciple of Lāguḍi as a man born in the Kuru country, i.e. Kuruks.etra, but it stops short of mentioning him by name (see above, p. 527). This purus.a issued from the fourth face of Siva is said to have been initiated by Lāgud ´ . i in Kanyakubja, the city of Kanauj in Uttar Pradesh (SPS 167, 129). We take this as an indication that Kanauj had become another important centre of the Pāśupata sect in the 5th or 6th century. The explicit mentioning of the birth of the fourth disciple in the Land of the Kurus strongly suggests that this region too, with its capital Thanesar (Sthāneśvara), had become a mainstay of the new faith. The rise of the city of Kanauj as the political (and cultural) capital of Northern India in the 6th century, made that it became the base from where the movement spread over North India and beyond, into Magadhā, Nepal and Southeast Asia (Cambodia). 
+The movement did not end in Mathurā. The Skandapurāṇa speaks of the fourth disciple of Lāguḍi as a man born in the Kuru country, i.e. Kuruks.etra, but it stops short of mentioning him by name (see above, p. 527). This purus.a issued from the fourth face of Siva is said to have been initiated by Lāgud ´ . i in Kanyakubja, the city of Kanauj in Uttar Pradesh (SPS 167, 129). We take this as an indication that Kanauj had become another important centre of the Pāśupata sect in the 5th or 6th century. The explicit mentioning of the birth of the fourth disciple in the Land of the Kurus strongly suggests that this region too, with its capital Thanesar (Sthāneśvara), had become a mainstay of the new faith. The rise of the city of Kanauj as the political (and cultural) capital of Northern India in the 6th century, made that it became the base from where the movement spread over North India and beyond, into Magadhā, Nepal and Southeast Asia (Cambodia). 
 
 The origin of a pan-Indian religion 
 
-The Skandapurān. a describes the four disciples, after they had been initiated (anugr.hya), as apostles of the Pa˜ncārtha doctrine. 
+The Skandapurāṇa describes the four disciples, after they had been initiated (anugr.hya), as apostles of the Pa˜ncārtha doctrine. 
 
 Lāguḍi (the divine incarnation) bestowed on them ‘His own doctrine’ (Svasiddhā nta) and yoga, and spoke: 
 
@@ -2623,13 +2623,13 @@ To pursue the further course of the Pāśupata religion will remain a future tas
 
 
 
-in many respects unique, mystical event, the religious enlightenment of the brahmin saint Kuśika in Ujjain, developed into a pan-Indian cult of Lakulīśa. The author Kaun. ḍinya gives the impression of still being in direct touch with the origins of the movement. He relates how the divine incarnation reached Ujjain by foot, a touching detail, and suggests that the authenticity of this event can be confirmed by the still visible traces that have been left behind. 33 In the two hundred years between Kaun. ḍinya and the composition of the Skandapurā n. a great developments had taken place. There had risen a number of gurus, no doubt rivals with one another, who claimed that their respective lineages (paramparā) hailed back to a disciple of the divine incarnation. To unite them, 
+in many respects unique, mystical event, the religious enlightenment of the brahmin saint Kuśika in Ujjain, developed into a pan-Indian cult of Lakulīśa. The author Kaun. ḍinya gives the impression of still being in direct touch with the origins of the movement. He relates how the divine incarnation reached Ujjain by foot, a touching detail, and suggests that the authenticity of this event can be confirmed by the still visible traces that have been left behind. 33 In the two hundred years between Kaun. ḍinya and the composition of the Skandapurā ṇa great developments had taken place. There had risen a number of gurus, no doubt rivals with one another, who claimed that their respective lineages (paramparā) hailed back to a disciple of the divine incarnatioṇTo unite them, 
 
-the idea of multiple disciples—first two, and then four—was inventeḍIn an orthogenetic process—or, less likely, a heterogenetic one through the influence of the Hellenistic figure of Heracles—the divine incarnation who was believed to have initiated these four disciples somehow came to be called Lāguḍi or Lakulīśa. Once the idea was accepted that this Lāguḍi had operated not only in Kārohan. a and Ujjain, but had initiated in Saiva centres such as Jambu- ´ mārga, Mathurā and another as far off as Kanyakubja, there was no longer a reason not to claim that he had operated in other places as well. The last vestige of historicity vanisheḍIt was replaced by the belief that there had been incarnations of Siva in all world periods: Lakulīśa was just one of them. ´ And why should God limit his range to western India? This new view is evident in a passage in the Skandapurān. a that has been shown by Peter Bisschop to be an interpolation in the earliest extant recension of the text, the one preserved in Nepal (SPS). 34 This passage runs as follows: 
+the idea of multiple disciples—first two, and then four—was inventeḍIn an orthogenetic process—or, less likely, a heterogenetic one through the influence of the Hellenistic figure of Heracles—the divine incarnation who was believed to have initiated these four disciples somehow came to be called Lāguḍi or Lakulīśa. Once the idea was accepted that this Lāguḍi had operated not only in Kārohaṇa and Ujjain, but had initiated in Saiva centres such as Jambu- ´ mārga, Mathurā and another as far off as Kanyakubja, there was no longer a reason not to claim that he had operated in other places as well. The last vestige of historicity vanisheḍIt was replaced by the belief that there had been incarnations of Siva in all world periods: Lakulīśa was just one of them. ´ And why should God limit his range to western India? This new view is evident in a passage in the Skandapurāṇa that has been shown by Peter Bisschop to be an interpolation in the earliest extant recension of the text, the one preserved in Nepal (SPS). 34 This passage runs as follows: 
 
 Tradition has it that there are eight holy places of Siva ( ´ Saśimaulin) in the land of ´ Magadhā, through which Lagud.īśvara wandered, surrounded by his pupils. When one has visited those, a man will be at once redeemed from sins. 35 
 
-Thus developed an elitist faith of ascetic virtuosi into a catholic religion. The anonymous saviour of Kaun. ḍinya turned into just another manifestation of the divine, his worship into just another form of Siva devotion. ´ 
+Thus developed an elitist faith of ascetic virtuosi into a catholic religioṇThe anonymous saviour of Kaun. ḍinya turned into just another manifestation of the divine, his worship into just another form of Siva devotion. ´ 
 
 33 Kaun. ḍinya ad PS 1.1. Sastri’s edition pp. 3 f. Above, p. 542. 
 
@@ -2703,7 +2703,7 @@ Plate 130
 
 The site of the Mahādeva Temple 
 
-These remains consist of a reconstructed brick platform surrounded by some stray pieces of architecture: parts of a dhvajastambha (pillar), pillar capitals having bull and lion, a pedestal, an architrave of a toran. a, a beam with gavāks.as and makara, and a toran. a post (Plate 131). 
+These remains consist of a reconstructed brick platform surrounded by some stray pieces of architecture: parts of a dhvajastambha (pillar), pillar capitals having bull and lion, a pedestal, an architrave of a toraṇa, a beam with gavāks.as and makara, and a toraṇa post (Plate 131). 
 
   
 
@@ -2731,9 +2731,9 @@ they must have been part of a free standing gateway, as the following (partial) 
 
 Plate 132 Plate 133 
 
-Toran. a east face Toran. a west face 
+Toraṇa east face Toraṇa west face 
 
-Before we discuss the iconography of the toran. a, we will give a brief sketch of the historical setting of the site. 
+Before we discuss the iconography of the toraṇa, we will give a brief sketch of the historical setting of the site. 
 
 The history of the Nagarī site 
 
@@ -2745,7 +2745,7 @@ Many coins are reported to have come from Nagarī. Bhandarkar found in his ex ca
 
 2 Bhandarkar 1920, 122; Allan 1936, cxxiii f. 
 
-3 Pata˜njali ad P. 3.2.111: arun. ad yavano madhyamikām. 
+3 Pata˜njali ad P. 3.2.111: aruṇad yavano madhyamikām. 
 
 
 
@@ -2757,9 +2757,9 @@ Many coins are reported to have come from Nagarī. Bhandarkar found in his ex ca
 
 translates the legend as ‘Coin of the Sibi ´ janapada of the Madhyamikā country’. This distinguishes the Sibis of Nagarī from those of the Punjab. Bhandarkar ´ (and historians after him) had little doubt that Madhyamikā ‘was the old name of Nagarī and also the district around it’. 4 
 
-Five inscriptions have been reportedly found in Nagarī and surroundings, one of them is the famous Ghos.¯un. d.ī Well Stone Inscription,5 recording the establish ment of a stone enclosure around the Nārāyan. a Vāt.ikā, which was dedicated to the two gods Sam. kars.an. a and Vāsudeva. The site of this Vāt.ikā has been identified by Bhandarkar (1920, 128 ff.) with the so-called Elephant Pen of Ak bar (Hāthī-bād. ā), ‘half a mile east of the village [Nagarī]’. Bhandarkar found here, among other things, a stone with grafitto reading: śrīvis.n. upādābhyām. in seventh-century characters. 6 
+Five inscriptions have been reportedly found in Nagarī and surroundings, one of them is the famous Ghos.¯uṇd.ī Well Stone Inscription,5 recording the establish ment of a stone enclosure around the Nārāyaṇa Vāt.ikā, which was dedicated to the two gods Sam. kars.aṇa and Vāsudeva. The site of this Vāt.ikā has been identified by Bhandarkar (1920, 128 ff.) with the so-called Elephant Pen of Ak bar (Hāthī-bād. ā), ‘half a mile east of the village [Nagarī]’. Bhandarkar found here, among other things, a stone with grafitto reading: śrīvis.ṇupādābhyām. in seventh-century characters. 6 
 
-For our present purpose, the inscription reportedly found ‘not far from the shrine of Mahādeva’ is of greater relevance. It is dated 481 in the Kr.ta (= Vikrama) Era, corresponding to ad 424. It records ‘the erection of a temple to Vishnu by the three Baniā brothers’, Satyaś¯ura, Srugandha (Srīgandha ?) ´ and Dāsa, and thus testifies to a Vis.n. u temple, established at or near the site of the Mahādeva temple during the reign of Emperor Kumāragupta. 7 At this time Western Mālava was under control of the feudatory Early Aulikara prince (nr.pati) Viśvavarman, who was ruling from Daśapura (Mandasor), c. 100 km to the south of Nagarī. 8 
+For our present purpose, the inscription reportedly found ‘not far from the shrine of Mahādeva’ is of greater relevance. It is dated 481 in the Kr.ta (= Vikrama) Era, corresponding to ad 424. It records ‘the erection of a temple to Vishnu by the three Baniā brothers’, Satyaś¯ura, Srugandha (Srīgandha ?) ´ and Dāsa, and thus testifies to a Vis.ṇu temple, established at or near the site of the Mahādeva temple during the reign of Emperor Kumāragupta. 7 At this time Western Mālava was under control of the feudatory Early Aulikara prince (nr.pati) Viśvavarman, who was ruling from Daśapura (Mandasor), c. 100 km to the south of Nagarī. 8 
 
 Some fragments belonging to the Gupta period were discovered by Bhan darkar in the area: two capitals of pillars with addorsed lions and bulls (in the Kaṅkālī Mātā shrine in Nagarī village). Other pillars and images were found c. 4 km southeast of Nagarī at the shrine of Sād. ¯u Mātā. 9 
 
@@ -2767,11 +2767,11 @@ One more inscribed stone relevant to our present discussion was found in Chittor
 
 4 Bhandarkar 1920, 123 f. 
 
-5 The Ghos.¯un. d.ī village lies c. 6 km NE of Nagarī, but the inscribed stone came originally from the so-called Hāthī-bād. ā at Nagarī. There exist apparently three copies of this inscription, one still in situ. EI 16, 25–27; EI 22, 198–205; Sircar in SI I, 90 f.: ‘2nd half of the 1st cent. BC’. 
+5 The Ghos.¯uṇd.ī village lies c. 6 km NE of Nagarī, but the inscribed stone came originally from the so-called Hāthī-bād. ā at Nagarī. There exist apparently three copies of this inscription, one still in situ. EI 16, 25–27; EI 22, 198–205; Sircar in SI I, 90 f.: ‘2nd half of the 1st cent. BC’. 
 
 6 Bhandarkar 1920, 129; Agrawala 1987. 
 
-7 Bhandarkar 1920, 121. The text of this inscription has not been published, although it is referred to in several publications. We only know about the basic contents of this inscription from Bhandarkar’s original description. According to Bhandarkar it was ‘deposited in the Rajputana Museum, Ajmer’. Although the line of the inscription that mentions the Kr.ta Era has been extensively discussed in CII III (1981), 192 ff., and the inscription clearly falls within the category of ‘Inscriptions of the Early Gupta Kings’, the editors of the revised edition of Volume III of the CII (B. Chhabra & G.S. Gai) refrain from including and editing this inscription in their volume, nor do they give any more information about the inscription itself and its whereabouts. It shows again the limited value of this ‘revised edition’. 
+7 Bhandarkar 1920, 121. The text of this inscription has not been published, although it is referred to in several publications. We only know about the basic contents of this inscription from Bhandarkar’s original descriptioṇAccording to Bhandarkar it was ‘deposited in the Rajputana Museum, Ajmer’. Although the line of the inscription that mentions the Kr.ta Era has been extensively discussed in CII III (1981), 192 ff., and the inscription clearly falls within the category of ‘Inscriptions of the Early Gupta Kings’, the editors of the revised edition of Volume III of the CII (B. Chhabra & G.S. Gai) refrain from including and editing this inscription in their volume, nor do they give any more information about the inscription itself and its whereabouts. It shows again the limited value of this ‘revised edition’. 
 
 8 CII III (1880), 72–78; SI I, 399–405; Salomon 1989, 19 f. 
 
@@ -2783,9 +2783,9 @@ One more inscribed stone relevant to our present discussion was found in Chittor
 
 30 / The Quest for the Pāśupata Weapon 571 
 
-and Gai in Epigraphia Indica 34 (1961–62). The second inscription attests to the building of a temple, which was, in all likelihood, dedicated to Siva, since ´ the maṅgala verse speaks of ‘the one who hides the moon in the pile of his curling, tawny matted locks’. 10 Its construction seems to have been commis sioned by a rājasthānīya or viceroy who was ruling in Daśapura and Madhyamā. The (Siva) temple is said to be located to the north of the (Vis ´ .n. u) temple of Manorathasvāmin. 11 
+and Gai in Epigraphia Indica 34 (1961–62). The second inscription attests to the building of a temple, which was, in all likelihood, dedicated to Siva, since ´ the maṅgala verse speaks of ‘the one who hides the moon in the pile of his curling, tawny matted locks’. 10 Its construction seems to have been commis sioned by a rājasthānīya or viceroy who was ruling in Daśapura and Madhyamā. The (Siva) temple is said to be located to the north of the (Vis ´ .ṇu) temple of Manorathasvāmin. 11 
 
-Madhyamā has been identified with Madhyamikā, and the rājasthānīya, son of Vis.n. udatta and grandson of Varāha(dāsa), belonged to the powerful mer chant (Naigama) family that kept the office of chief minister or viceroy un der the Later Aulikara kings of Daśapura, in particular Prakāśadharman and Yaśodharman (between ad 510 and 533). 12 The two Chittorgarh inscriptions belong to this period and record the importance of the Madhyamā/Madhya mikā province within the kingdom of Daśapura in the first four decades of the sixth century. They also testify to shifting religious affiliations amongst re gional rulers: the Early Aulikaras, like their Gupta overlords, were Vais.n. avas; the Later Aulikaras, who came to power after the turbulent period that saw the fall of the Gupta Empire, were devotees of Siva. It would seem that the ´ archaeological remains in Nagarī reflect this revolution. 
+Madhyamā has been identified with Madhyamikā, and the rājasthānīya, son of Vis.ṇudatta and grandson of Varāha(dāsa), belonged to the powerful mer chant (Naigama) family that kept the office of chief minister or viceroy un der the Later Aulikara kings of Daśapura, in particular Prakāśadharman and Yaśodharman (between ad 510 and 533). 12 The two Chittorgarh inscriptions belong to this period and record the importance of the Madhyamā/Madhya mikā province within the kingdom of Daśapura in the first four decades of the sixth century. They also testify to shifting religious affiliations amongst re gional rulers: the Early Aulikaras, like their Gupta overlords, were Vais.ṇavas; the Later Aulikaras, who came to power after the turbulent period that saw the fall of the Gupta Empire, were devotees of Siva. It would seem that the ´ archaeological remains in Nagarī reflect this revolution. 
 
 The fort of Chittorgarh dates from the post-Aulikara period, when Daśapura and Madhyamikā had lost their prominence. It is conceivable that the inscribed stone slab came from nearby Nagarī along with other materials, when the newly built fort provided safety to a successor state, possibly that of the Mori Rajputs (Mauryas) in the seventh century. 13 
 
@@ -2793,7 +2793,7 @@ Archaeology
 
 Excavations at Nagarī were conducted by D.R. Bhandarkar in the ‘second decade of the [20th] century’, and after him by K.V. Soundara Rajan in 1962– 63. 14 The archaeological situation is summed up by R.P. Sharma in A. Ghosh’s Encyclopaedia of Indian Archaeology, volume II s.v. ‘Nagari’. 
 
-[. . . ] Three periods were distinguished, the first two being anterior to the stone fortification and seemingly without baked-brick structures, though limestone struc tures were known. They had both red and grey wares; the occurrence of the NBPW was negligible, though associated red ware was available. The settlement seems to have originated in c. 400 B.C. [. . . ] Period III was marked by the presence of the Red Polished Ware. The other finds of the site include terracotta human and ani mal figures in Suṅga and Gupta styles [. . . ] The fortification probably originated ´ in Gupta times. 
+[. . . ] Three periods were distinguished, the first two being anterior to the stone fortification and seemingly without baked-brick structures, though limestone struc tures were knowṇThey had both red and grey wares; the occurrence of the NBPW was negligible, though associated red ware was available. The settlement seems to have originated in c. 400 B.C. [. . . ] Period III was marked by the presence of the Red Polished Ware. The other finds of the site include terracotta human and ani mal figures in Suṅga and Gupta styles [. . . ] The fortification probably originated ´ in Gupta times. 
 
 10 EI 34, 57: āpiṅgabhaṅgurajat.ācayalīnacandram. 
 
@@ -2841,19 +2841,19 @@ Excavated brick platform in Nagarī
 
 30 / The Quest for the Pāśupata Weapon 573 
 
-It will be seen from the plan that the east side was unlike the other sides of the platform and shows that it and its superstructure faced that direction. The max imum height preserved of its moulded walls is 4’ [122 cm] and is found in the west wall. This seems to be nearly half of the original height of the platform. Though the upper half of its walls has fallen down, it appears from the terracottas picked up from the d´ebris, to have been covered with decorative tiles of at least three types, some of them probably arranged in string courses. One type is represented by what may be styled bird terracottas. [. . . ] 
+It will be seen from the plan that the east side was unlike the other sides of the platform and shows that it and its superstructure faced that directioṇThe max imum height preserved of its moulded walls is 4’ [122 cm] and is found in the west wall. This seems to be nearly half of the original height of the platform. Though the upper half of its walls has fallen down, it appears from the terracottas picked up from the d´ebris, to have been covered with decorative tiles of at least three types, some of them probably arranged in string courses. One type is represented by what may be styled bird terracottas. [. . . ] 
 
 The centre of the platform was originally occupied by a superstructure, very little of which has now surviveḍIt is 43’ 6” [13.30 m] square at the base. Immediately below each side of this square is a foundation wall, 6’ [1.80 m] thick. [. . . ] Of the superstructure only the lowermost moulding has been preserved, which is nearly two feet high. (Bhandarkar 1920, 135 f.) 
 
-The original temple of the Gupta period may have been of brick, but, as ob served by Bhandarkar (op. cit. 138), ‘to the second period of additions charac terised by the introduction of stone work, or possibly to a period slightly later, belong the remains of a stone toran. a exhumed in front of the mound’. It is this toran. a which is the subject of this article. 
+The original temple of the Gupta period may have been of brick, but, as ob served by Bhandarkar (op. cit. 138), ‘to the second period of additions charac terised by the introduction of stone work, or possibly to a period slightly later, belong the remains of a stone toraṇa exhumed in front of the mound’. It is this toraṇa which is the subject of this article. 
 
-The toran.a of the Mahadeva Temple ¯ 
+The toraṇa of the Mahadeva Temple ¯ 
 
 In describing this gateway Joanna Williams (1982, 140 f.) observed that, 
 
-The most impressive carvings at Nagarī are the remains of a gigantic gateway or toran. a that must belong to the early sixth century on the basis of its relationship to works from Mandasor. The decorative side face of the post bears fluted bands and medallions [Plate 136], which elaborate upon forms found at Mukundara. 
+The most impressive carvings at Nagarī are the remains of a gigantic gateway or toraṇa that must belong to the early sixth century on the basis of its relationship to works from Mandasor. The decorative side face of the post bears fluted bands and medallions [Plate 136], which elaborate upon forms found at Mukundara. 
 
-Passing through the temple gateway is entering a new worlḍThe toran. a as such epitomizes the rite of passage and the symbolism of this rite informs the iconography of the gateway (below, p. 599). It begins with the gatekeeper and his trident at the bottom of the gate post, eastern side, at the entry of the temple compound, which is oriented toward the east (Plate 137). 15 
+Passing through the temple gateway is entering a new worlḍThe toraṇa as such epitomizes the rite of passage and the symbolism of this rite informs the iconography of the gateway (below, p. 599). It begins with the gatekeeper and his trident at the bottom of the gate post, eastern side, at the entry of the temple compound, which is oriented toward the east (Plate 137). 15 
 
 15 That this is the eastern, that is entry side, follows from the fact that it has the figure of a Dvārapāla, and because it fits only the eastern face of the architrave. The latter face is the eastern one, because it contains a Daks.in. ām¯urti, which would be without meaning if it faced west (Bakker 2004c), and an image of Siva in meditation (Yogeśvara), which ´ should likewise face east. It also seems to follow from the iconographic programme of the architrave itself, which begins, as we will see, in the panels at the entrance, that is the eastern side, and continues with the panels at the exit, that is the western side. 
 
@@ -2873,9 +2873,9 @@ Passing through the temple gateway is entering a new worlḍThe toran. a as such
 
 Plate 136 Plate 137 
 
-Side face of toran. a post Gatekeeper with trident facing east 
+Side face of toraṇa post Gatekeeper with trident facing east 
 
-Just as Bhandarkar, Williams assumes that the fragment with candraśālā arches lying near the architrave is part of a second tier of the toran. a (Plate 138). She observed that ‘the top half of the double-candraśālā arches have di agonal projections from their lower corners, a detail mentioned as characteristic of pieces found in Deogarh’. 16 
+Just as Bhandarkar, Williams assumes that the fragment with candraśālā arches lying near the architrave is part of a second tier of the toraṇa (Plate 138). She observed that ‘the top half of the double-candraśālā arches have di agonal projections from their lower corners, a detail mentioned as characteristic of pieces found in Deogarh’. 16 
 
   
 
@@ -2883,7 +2883,7 @@ Just as Bhandarkar, Williams assumes that the fragment with candraśālā arches
 
 Plate 138 
 
-Candraśālā arches in the second tier of toran. a 
+Candraśālā arches in the second tier of toraṇa 
 
 The original Mahādeva Temple in Nagarī may have resembled the architec tural structures that are depicted next to the candraśālās (Plate 139). 17 An 
 
@@ -2931,7 +2931,7 @@ The upper cross-beam had makara heads at each end with architectural representa 
 
 576 Hans T. Bakker & Peter C. Bisschop 
 
-The full length of the architrave must have measured about 4 metres, but the southern-most panel has broken off at one-third and the concluding sculpture of a garland bearer is missing at that end (Plates 141–142; cf. Plate 115). The whole architrave consisted, in our reconstruction, of two garland bearers on either end and six panels in between. The middle of the architrave must have been between the third and the fourth panel, which we deduce from the turn of the torsion in between the third and fourth panels in the garland at the bottom of the crossbar. The height of the architrave is 65 cm, its width 38 cm. The architrave is broken at two places: in the first panel at the northern end and in the middle, between the third and fourth panels. 19 
+The full length of the architrave must have measured about 4 metres, but the southern-most panel has broken off at one-third and the concluding sculpture of a garland bearer is missing at that end (Plates 141–142; cf. Plate 115). The whole architrave consisted, in our reconstruction, of two garland bearers on either end and six panels in betweeṇThe middle of the architrave must have been between the third and the fourth panel, which we deduce from the turn of the torsion in between the third and fourth panels in the garland at the bottom of the crossbar. The height of the architrave is 65 cm, its width 38 cm. The architrave is broken at two places: in the first panel at the northern end and in the middle, between the third and fourth panels. 19 
 
 The iconography of the eastern face of the architrave, seen by visitors when they entered the temple complex, has been discussed in Bakker 2004c, 131– 34, in particular its panel at the northern end, which, it was argued (above, p. 525), contained a Daks.in. ām¯urti. The latter interpretation still stands, but the person who is instructed in this m¯urti has to be reconsidered. 
 
@@ -2939,7 +2939,7 @@ At the time Bakker worked from a photograph kindly sent to him by Joanna William
 
 The present revision of this interpretation has been prompted by a visit to the excavation site at Nagarī by Bakker and Bisschop and a study of the architrave in the field (15 January 2016). For it turned out that the panel at the southern end (E 1), although incomplete since it has broken off at one-third, 
 
-19 Bhandarkar 1920, 139 thinks that ‘enough has been recovered to show that each broader side was originally divided into nine panels [including garland bearers]’. Bhandarkar’s reconstruction in Plate XXIII shows that he conjectures that one complete panel plus garland bearer is missing at the southern enḍIn view of the turn of the torsion between the third and fourth panels (E 3–4, W 3–4), we think this is less likely. An argument against our assumption, as voiced by V´eronique Degroot, is that the architrave panels show alternating indentation and protrusion: panels E 2/W 5, E 4/W 3 and (northern most) E 6/W 1 are protruding and so, assuming symmetry, one might expect a southern most panel to be protruding as well. Another argument, however, against a missing 7th panel, in addition to the change in torsion, seems to be that the breaking point in the southern-most panel (E 1/W 6) corresponds with the crack in the northern-most panel (E 6/W 1), the positions where the architrave supposedly rested on its two posts. The collapse of the toran. a thus seems to have taken place by a break in the middle and at the two junctures. Six panels on each side makes sense according to the iconographical analysis offered in this article. If a 7th, lost panel was originally part of the architrave, the iconography of panels E 1 and W 6 that we conjecture may have been divided, broadly speaking, over two panels. 
+19 Bhandarkar 1920, 139 thinks that ‘enough has been recovered to show that each broader side was originally divided into nine panels [including garland bearers]’. Bhandarkar’s reconstruction in Plate XXIII shows that he conjectures that one complete panel plus garland bearer is missing at the southern enḍIn view of the turn of the torsion between the third and fourth panels (E 3–4, W 3–4), we think this is less likely. An argument against our assumption, as voiced by V´eronique Degroot, is that the architrave panels show alternating indentation and protrusion: panels E 2/W 5, E 4/W 3 and (northern most) E 6/W 1 are protruding and so, assuming symmetry, one might expect a southern most panel to be protruding as well. Another argument, however, against a missing 7th panel, in addition to the change in torsion, seems to be that the breaking point in the southern-most panel (E 1/W 6) corresponds with the crack in the northern-most panel (E 6/W 1), the positions where the architrave supposedly rested on its two posts. The collapse of the toraṇa thus seems to have taken place by a break in the middle and at the two junctures. Six panels on each side makes sense according to the iconographical analysis offered in this article. If a 7th, lost panel was originally part of the architrave, the iconography of panels E 1 and W 6 that we conjecture may have been divided, broadly speaking, over two panels. 
 
 20 Williams 1982, Plate 216; Bakker 2004c, Figure 4.1 (above, Plate 115). 
 
@@ -2957,7 +2957,7 @@ actually contains significant information that had been invisible in the above m
 
 The incomplete panel at the southern end (E 1) deserves a full discussion (Plate 143). 
 
-Two features of this sculpture catch the eye and suggest a new identification. The pronounced ithyphallic character and the brush with peacock feathers, which is held in the ascetic’s left hanḍIt invites comparison to an image found at the bottom of the seventh-century doorpost built into the Deur Temple in Malhar, Chhattisgarh (Plate 144). 22 
+Two features of this sculpture catch the eye and suggest a new identificatioṇThe pronounced ithyphallic character and the brush with peacock feathers, which is held in the ascetic’s left hanḍIt invites comparison to an image found at the bottom of the seventh-century doorpost built into the Deur Temple in Malhar, Chhattisgarh (Plate 144). 22 
 
   
 
@@ -2985,7 +2985,7 @@ Plate 144
 
 Lower-most panel in Malhar doorpost 
 
-As emerges from this and other panels of the same doorjamb, the Malhar panel depicts Siva’s entry as a naked ascetic into the Devadāruvana. The earliest ´ account of this myth is found in the Skandapurān. a. The description of his appearance there matches the present panel: 
+As emerges from this and other panels of the same doorjamb, the Malhar panel depicts Siva’s entry as a naked ascetic into the Devadāruvana. The earliest ´ account of this myth is found in the Skandapurāṇa. The description of his appearance there matches the present panel: 
 
 The Trident-bearer once entered that forest for the sake of alms. The sages saw the Lord of Gods there with his phallus erect. 23 
 
@@ -2993,7 +2993,7 @@ Like in the Nagarī panel, Siva carries the ascetic attribute of a brush and is 
 
 In the Nagarī panel E 1 the protagonist carries something in his raised right hanḍThe elevated position suggests the object is significant, auspicious it would seem. It is held in such a way as if it is being shown to an audience 
 
-23 SPS 167.74: bhiks.āhetor vanam. tat tu prāviśat kila ś¯uladhr.k | sa dr. s.t.as tatra deveśo munibhih. stabdhamehanah. k For the Devadāruvana myth in the Skandapurān. a etc. see Bisschop 2006, 195 f. Cf. above, p. 548. 
+23 SPS 167.74: bhiks.āhetor vanam. tat tu prāviśat kila ś¯uladhr.k | sa dr. s.t.as tatra deveśo munibhih. stabdhamehanah. k For the Devadāruvana myth in the Skandapurāṇa etc. see Bisschop 2006, 195 f. Cf. above, p. 548. 
 
 24 Although the ascetic brush (sthalapavitra; picchikā in Jaina texts) is usually associated with Jainism, it was a mark of mendicants in general and of Pāśupatas as well. Cf. Pa˜ncārthabhās.ya ad Pāśupatas¯utra 1.6: tathā bhiks.os tridan. ḍamun. ḍakaman. ḍalukās.āya vāsopajalapavitrasthalapavitrādi liṅgam. The sieve and brush are listed as donations to be given to the śivayogin in Sivadharmaśāstra ´ 12.70 (De Simini 2013, 291). On the adoption of the principle of ahim. sā by the Pāśupatas, see Hara 2002, 67–76. For Bhiks.āt.anam¯urtis with staff (trident) with peacock feathers see Donaldson 1986, 56. 
 
@@ -3019,7 +3019,7 @@ That this forest in the Nagarī panel is also the Devadāruvana, follows from an
 
 Out of envy the bewildered sages felled the great liṅga of the god, O Vyāsa, in the Pine Forest hermitage. 25 
 
-A problem remains: what is the object that Siva holds first in his raised right ´ and then in his left hand? Erosion of the object in all three panels hampers its identification. The earlier view that saw in these panels the depiction of the Daks.a myth naturally interpreted this object as the sacrificial cake (purod. āś), seized from the sacrifice, but this could apply to the second and third panels only (E 2 & 3), not to the first one (E 1), in which the object is shown by Siva. ´ 26 
+A problem remains: what is the object that Siva holds first in his raised right ´ and then in his left hand? Erosion of the object in all three panels hampers its identificatioṇThe earlier view that saw in these panels the depiction of the Daks.a myth naturally interpreted this object as the sacrificial cake (purod. āś), seized from the sacrifice, but this could apply to the second and third panels only (E 2 & 3), not to the first one (E 1), in which the object is shown by Siva. ´ 26 
 
 25 SPS 167.75: īrs.ayā munibhir liṅgam. tasya devasya tan mahat | vim¯uḍhaih. pātitam. vyāsa devadāruvanāśrame k 
 
@@ -3043,9 +3043,9 @@ Plate 147 Plate 148
 
 Fertility goddess, Mathurā Gaṅgā, Ahicchatra 27 
 
-The hand gesture in this panel recalls images of goddesses of life and natural fertility holding a vase or pot with amr.ta, the elixir of life, such as, for instance, the maiden on the st¯upa railing found in Bh¯uteśvara, or the terracotta image of Gaṅgā found in Ahicchatra (Plates 147, 148). This p¯urn. akalaśa carried in the raised palm of the hand symbolizes vitality and natural growth. And although the Devadāruvana myth is all about life, growth and natural reproduction, depictions of this myth in which Siva carries a vase are not known to us. ´ 28 
+The hand gesture in this panel recalls images of goddesses of life and natural fertility holding a vase or pot with amr.ta, the elixir of life, such as, for instance, the maiden on the st¯upa railing found in Bh¯uteśvara, or the terracotta image of Gaṅgā found in Ahicchatra (Plates 147, 148). This p¯urṇakalaśa carried in the raised palm of the hand symbolizes vitality and natural growth. And although the Devadāruvana myth is all about life, growth and natural reproduction, depictions of this myth in which Siva carries a vase are not known to us. ´ 28 
 
-Another terracotta piece found in Ahicchatra may be considered in this con nection. It has been described by Agrawala and Banerjea as a panel depicting a Siva Daks ´ .in. ām¯urti (Plate 149), 29 an identification that is, however, unten able in our understanding of a Daks.in. ām¯urti (Bakker 2004c). This panel shows 
+Another terracotta piece found in Ahicchatra may be considered in this con nectioṇIt has been described by Agrawala and Banerjea as a panel depicting a Siva Daks ´ .in. ām¯urti (Plate 149), 29 an identification that is, however, unten able in our understanding of a Daks.in. ām¯urti (Bakker 2004c). This panel shows 
 
 27 Photo courtesy National Museum New Delhi. http://www.nationalmuseumindia.gov. in/prodCollections.asp?pid=24&id=2&lk=dp2 (accessed 17-5-2016). 
 
@@ -3059,7 +3059,7 @@ Another terracotta piece found in Ahicchatra may be considered in this con necti
 
 30 / The Quest for the Pāśupata Weapon 581 
 
-a four-armed deity represented as an ascetic (matted hair, rosary), holding a p¯urn. akalaśa with foliage in his back left hanḍApart from the general charac teristics of the ascetic, none of Siva’s usual iconographic markers is apparently ´ present and the question is justified whether we are really concerned with an image of this god. 30 
+a four-armed deity represented as an ascetic (matted hair, rosary), holding a p¯urṇakalaśa with foliage in his back left hanḍApart from the general charac teristics of the ascetic, none of Siva’s usual iconographic markers is apparently ´ present and the question is justified whether we are really concerned with an image of this god. 30 
 
   
 
@@ -3071,7 +3071,7 @@ Terracotta panel, Ahicchatra
 
 There are two figures on the left of the god, one male and the other female with hands in the namaskāra mudrā. 
 
-30 A new interpretation of this panel has recently been proposed by Laxshmi Greaves (2015, 308–13, 450–55). After a comparison of this plaque with the depiction of the sages Nara and Nārāyan. a on the east face of the Gupta temple at Deogarh and a terracotta plaque from Bhitargaon, Greaves proposes to identify the four-armed figure in the Ahicchatra panel with Nārāyan. a. The nymph standing to his left, Greaves argues, is the Apsaras Urvaśī, and the panel depicts the myth told in the Vis.n. udharmottarapurān. a 1.129.1– 19, 3.35.1–18), which describes how the sage Nārāyan. a created Urvaśī by drawing her outline in mango juice on his thigh: ‘It is apposite then that Sage Nārāyan. a has been depicted with his left hand on his thigh, perhaps illustrating that the creation of Urvaśī has just taken place’ (Greaves op. cit. 454). We consider this interpretation interesting, but conclude that for the moment the Ahicchatra panel, whether Nārāyan. a or Siva, ´ cannot help us to decode the iconographic programme of the Nagarī architrave. One of our doubts concerns the upanayana corḍCould this be a snake, whose head appears at the deity’s left ear? If so, this would point to Siva, rather than Nārāyan ´ . a. In the present state of conservation it is impossible to see if the deity is ithyphallic. However, his vexed look and the way the vessel in the left upper hand is kept off suggest a certain similarity with the Nagarī panels E 2 and E 3 (Plates 145–46); they may point to a Devadāruvana scene, in which the male in the background is the seer in a pose of resignation, while his wife in front of him is full of admiration for the intruder. 
+30 A new interpretation of this panel has recently been proposed by Laxshmi Greaves (2015, 308–13, 450–55). After a comparison of this plaque with the depiction of the sages Nara and Nārāyaṇa on the east face of the Gupta temple at Deogarh and a terracotta plaque from Bhitargaon, Greaves proposes to identify the four-armed figure in the Ahicchatra panel with Nārāyaṇa. The nymph standing to his left, Greaves argues, is the Apsaras Urvaśī, and the panel depicts the myth told in the Vis.ṇudharmottarapurāṇa 1.129.1– 19, 3.35.1–18), which describes how the sage Nārāyaṇa created Urvaśī by drawing her outline in mango juice on his thigh: ‘It is apposite then that Sage Nārāyaṇa has been depicted with his left hand on his thigh, perhaps illustrating that the creation of Urvaśī has just taken place’ (Greaves op. cit. 454). We consider this interpretation interesting, but conclude that for the moment the Ahicchatra panel, whether Nārāyaṇa or Siva, ´ cannot help us to decode the iconographic programme of the Nagarī architrave. One of our doubts concerns the upanayana corḍCould this be a snake, whose head appears at the deity’s left ear? If so, this would point to Siva, rather than Nārāyan ´ . a. In the present state of conservation it is impossible to see if the deity is ithyphallic. However, his vexed look and the way the vessel in the left upper hand is kept off suggest a certain similarity with the Nagarī panels E 2 and E 3 (Plates 145–46); they may point to a Devadāruvana scene, in which the male in the background is the seer in a pose of resignation, while his wife in front of him is full of admiration for the intruder. 
 
 
 
@@ -3099,7 +3099,7 @@ Third panel from left (E 3), Nagarī Third panel from bottom, Malhar In both cas
 
 Thereupon the gods, beginning with Brahmā, and the sages striving for liberation realized that the terrible calamity was all caused by Sam ´ . kara. After praising him with various hymns, they propitiated Sam ´ . kara. 31 
 
-31 SPS 167.77: brahmādayas tato devās te ca siddhā mumuks.avah. | j˜nātvā śam. karajam. sarvam. tad apāyam. sudārun. am | sam. stutya vividhaih. stotraih. śam. karam. paryatos.ayan k 
+31 SPS 167.77: brahmādayas tato devās te ca siddhā mumuks.avah. | j˜nātvā śam. karajam. sarvam. tad apāyam. sudāruṇam | sam. stutya vividhaih. stotraih. śam. karam. paryatos.ayan k 
 
 
 
@@ -3135,13 +3135,13 @@ The reason that his Yogeśvara form and not the liṅga is chosen to represent h
 
 584 Hans T. Bakker & Peter C. Bisschop 
 
-tell another story. Realization of one’s aim in this world and the acquisition of (yogic) power is achieved by following the path (sādhana) that he contemplates and is ready to communicate to the world of men. The four acolytes around Yogeśvara may intimate the spread of this sādhana over the earth, since they evoke the image of the four disciples: 
+tell another story. Realization of one’s aim in this world and the acquisition of (yogic) power is achieved by following the path (sādhana) that he contemplates and is ready to communicate to the world of meṇThe four acolytes around Yogeśvara may intimate the spread of this sādhana over the earth, since they evoke the image of the four disciples: 
 
 And in the present age as well, when the Supreme Lord had seen the suffering in the world, He emitted four men (purus.a) from His four faces and spoke to them, since it was His wish to bestow grace upon mankind: 
 
 ‘You four should go to earth and become twice-born ascetics; O Masters of Yoga, return to me after you have led the brahmins to the highest station. 34 
 
-These purus.as, the Skandapurān. a (SP) continues, will become the four disciples (śis.ya) of Siva, whose own incarnation on earth is known as Lāgud ´ . i in the SP or Lakulīśa in later literature. This incarnation, characterised by his attribute the club (lakula), is not depicted on the architrave, but any guru pertaining to the four param. parās inaugurated by him, may be imagined to be implicitly involved in the last panel of the eastern face, since these ācāryas are believed to impersonate Siva when they initiate and instruct their pupils. ´ 35 The four acolytes around Yogeśvara perform different acts of veneration and they do not seem all to be of the same standing. The one at the viewer’s lower right may be a householder, indicating that not only ascetics, but the whole world had come to recognize Siva as supreme god. ´ 
+These purus.as, the Skandapurāṇa (SP) continues, will become the four disciples (śis.ya) of Siva, whose own incarnation on earth is known as Lāgud ´ . i in the SP or Lakulīśa in later literature. This incarnation, characterised by his attribute the club (lakula), is not depicted on the architrave, but any guru pertaining to the four param. parās inaugurated by him, may be imagined to be implicitly involved in the last panel of the eastern face, since these ācāryas are believed to impersonate Siva when they initiate and instruct their pupils. ´ 35 The four acolytes around Yogeśvara perform different acts of veneration and they do not seem all to be of the same standing. The one at the viewer’s lower right may be a householder, indicating that not only ascetics, but the whole world had come to recognize Siva as supreme god. ´ 
 
 The following, penultimate panel (E 5, Plate 155) shows someone set on the path towards instruction in the doctrine, which is the subject of the last panel (E 6, Plate 156, cf. Plate 116). 
 
@@ -3161,7 +3161,7 @@ y¯uyam. yāta mahīm. sarve dvijā bh¯utvā tapasvinah. |
 
 mām evais.yatha yogīśā nītvā viprān param. padam k 120 k 
 
-35 Bakker 2004c, 124 f. (above, p. 514). Kaun. ḍinya ad PS 1.1. Dalal 1920, p. 9: Ratnat.īkā ad Gan. akārikā 5c. 
+35 Bakker 2004c, 124 f. (above, p. 514). Kaun. ḍinya ad PS 1.1. Dalal 1920, p. 9: Ratnat.īkā ad Gaṇakārikā 5c. 
 
 
 
@@ -3181,11 +3181,11 @@ Fifth panel from the left (E 5), Nagarī
 
 The figure at the viewer’s left seems to be of a different standing than the two persons to the right. He is naked and of plump builḍHis headdress seems plain and his right hand makes the ‘do-not-fear’ gesture. His left hand is something of a puzzle. It would seem that this hand is raised and holds an object at head height, if this is not the raised right arm of the central figure. 
 
-The tallest figure in the middle is clearly a senior person. His left hand holds the knot of his dhotī. His right arm, if it is not raised, appears to lean on the left arm of his companion to the right, while his hand seems to hold something; a stick? It is clear that he wears a high crown with an ornament. 
+The tallest figure in the middle is clearly a senior persoṇHis left hand holds the knot of his dhotī. His right arm, if it is not raised, appears to lean on the left arm of his companion to the right, while his hand seems to hold something; a stick? It is clear that he wears a high crown with an ornament. 
 
 As a working hypothesis we conjecture that the figure carrying the quiver and who reappears in the next panel is Arjuna, who is being dispatched by his elder brother Yudhis.t.hira, the figure in the middle, on the advise of Vyāsa, who stands on the (viewer’s) left side. 
 
-Mahābhārata 3.37–38 tells the story. 36 Vyāsa instructs Yudhis.t.hira to pass on to Arjuna a spell, a vidyā named Pratismr.ti, also referred to as yogavidyā or brahman, which will enable him to acquire the necessary weapons from Indra, Rudra, Varun. a, Kubera and Dharma. 37 Yudhis.t.hira explains to Arjuna that their enemies possess mastery in the use of all sorts of weapons and therefore, for the Pān. ḍavas to win the war, it is necessary to obtain superior weapons. He will initiate him into this secret knowledge (Upanis.ad) received from Vyāsa, 
+Mahābhārata 3.37–38 tells the story. 36 Vyāsa instructs Yudhis.t.hira to pass on to Arjuna a spell, a vidyā named Pratismr.ti, also referred to as yogavidyā or brahman, which will enable him to acquire the necessary weapons from Indra, Rudra, Varuṇa, Kubera and Dharma. 37 Yudhis.t.hira explains to Arjuna that their enemies possess mastery in the use of all sorts of weapons and therefore, for the Pān. ḍavas to win the war, it is necessary to obtain superior weapons. He will initiate him into this secret knowledge (Upanis.ad) received from Vyāsa, 
 
 36 Cf. Kirātārjunīya (KA) 3.10–29. 
 
@@ -3215,7 +3215,7 @@ This panel shows Siva facing east, with Pārvatī to his left. The necklace and 
 
 38 MBh 3.38.9–10: 
 
-kr. s.n. advaipāyanāt tāta gr.hītopanis.an mayā | 
+kr. s.ṇadvaipāyanāt tāta gr.hītopanis.an mayā | 
 
 tayā prayuktayā samyag jagat sarvam. prakāśate k 9 k 
 
@@ -3233,7 +3233,7 @@ devatānām. yathākālam. prasādam. pratipālaya k 10 k
 
 30 / The Quest for the Pāśupata Weapon 587 
 
-identifies the figure to Siva’s right ( ´ daks.in. ā), towards whom he slightly bends, as the same princely figure that we have tentatively identified as Arjuna in the preceding panel (E 5). Arjuna is on his knees now, facing north, receiving instruction. The scene is set on a mountain, in a forest. A powerful gan. a-type of figure stands behind him, bending the hero’s arms behind his back by his front hands, or so it seems; his right back hand sticks up holding something above his head, whereas the contour of his raised left back arm is only vaguely visible. We will discuss below who this four-armed helper of Siva could be. ´ 
+identifies the figure to Siva’s right ( ´ daks.in. ā), towards whom he slightly bends, as the same princely figure that we have tentatively identified as Arjuna in the preceding panel (E 5). Arjuna is on his knees now, facing north, receiving instructioṇThe scene is set on a mountain, in a forest. A powerful gaṇa-type of figure stands behind him, bending the hero’s arms behind his back by his front hands, or so it seems; his right back hand sticks up holding something above his head, whereas the contour of his raised left back arm is only vaguely visible. We will discuss below who this four-armed helper of Siva could be. ´ 
 
 As we have argued earlier, this panel (E 6) shows a Daks.in. ām¯urti in the orig inal meaning of the term (Bakker 2004c, 132 f.; above, p. 525). The neophyte who is instructed or initiated in the Pāśupata doctrine is not Daks.a, according to our present understanding, but the princely figure depicted in the penulti mate panel E 5, who is there about to be dispatched by his elder brother and a saintly advisor. 
 
@@ -3261,11 +3261,11 @@ The panels of the reverse side of the architrave (Plates 157–158), which faced
 
 588 Hans T. Bakker & Peter C. Bisschop 
 
-It accords well with the fact that the poet Bhāravi probably wrote his fa mous Kirātārjunīya at the court of the Later Aulikara king Yaśodharman, also known as Vis.n. uvardhana. 40 Either he or, more likely, his father, King Prakāśadharman, was responsible for the building of this temple and its gate way. 
+It accords well with the fact that the poet Bhāravi probably wrote his fa mous Kirātārjunīya at the court of the Later Aulikara king Yaśodharman, also known as Vis.ṇuvardhana. 40 Either he or, more likely, his father, King Prakāśadharman, was responsible for the building of this temple and its gate way. 
 
-The first or northern-most panel (W 1, Plate 159) shows, according to Williams, ‘Nara and Nārāyan. a seated in the wilderness’. She compares it with the great Deogarh relief (Plate 160). 
+The first or northern-most panel (W 1, Plate 159) shows, according to Williams, ‘Nara and Nārāyaṇa seated in the wilderness’. She compares it with the great Deogarh relief (Plate 160). 
 
-The scene interpreted in this way may represent the dialogue between both seers as given in the Mahābhārata.41 The function of this piece of Vais.n. ava philosophy, however, within the story told in the Nagarī architrave remains entirely obscure. In the Deogarh relief, the scene is overseen by Brahmā, who had sent both seers to earth to fight demons. 
+The scene interpreted in this way may represent the dialogue between both seers as given in the Mahābhārata.41 The function of this piece of Vais.ṇava philosophy, however, within the story told in the Nagarī architrave remains entirely obscure. In the Deogarh relief, the scene is overseen by Brahmā, who had sent both seers to earth to fight demons. 
 
   
 
@@ -3287,7 +3287,7 @@ In the Nagarī panel there appears in the viewer’s right top corner a third fi
 
 41 MBh 3.13.37–41 (tr. van Buitenen): 
 
-After the Pān. ḍava (i.e. Arjuna), who was the very self of Kr.s.n. a, had thus spoken to himself, he fell silent and Janārdana (i.e. Kr.s.n. a) said to the Pārtha (i.e. Arjuna). ‘You are mine and I am yours, and my people are yours. He who hates you hates me; who follows you follows me. You, invincible hero, are Nara and I am Hari Nārāyan. a. Nara and Nārāyan. a, the seers, have come from their world to this worlḍYou are no other than I, Pārtha, I none other than you, Bhārata, no difference can be found between the two of us, bull of the Bharatas. 
+After the Pān. ḍava (i.e. Arjuna), who was the very self of Kr.s.ṇa, had thus spoken to himself, he fell silent and Janārdana (i.e. Kr.s.ṇa) said to the Pārtha (i.e. Arjuna). ‘You are mine and I am yours, and my people are yours. He who hates you hates me; who follows you follows me. You, invincible hero, are Nara and I am Hari Nārāyaṇa. Nara and Nārāyaṇa, the seers, have come from their world to this worlḍYou are no other than I, Pārtha, I none other than you, Bhārata, no difference can be found between the two of us, bull of the Bharatas. 
 
 
 
@@ -3299,19 +3299,19 @@ After the Pān. ḍava (i.e. Arjuna), who was the very self of Kr.s.n. a, had th
 
 armeḍThe scene is set in the mountains, where the rest of the Kirātārjunīya myth takes place. A lion is visible in a mountain cave at the foot. 
 
-Despite the striking similarities between the Deogarh and Nagarī panels, we are not convinced that the figure to the left of Arjuna is indeed Nārāyan. a. Instead we think it more likely that the person Arjuna is speaking to is ‘the ascetic (tapasvin), blazing with the lustre of brahman, tawny, with matted hair and lean’, 42 who is no other than Indra in disguise. This brahmin asks Arjuna why he has come in full armour and requests him to leave behind his bow (MBh 3.38.32–34). The bow may indeed be visible in the present panel to Arjuna’s right side. 
+Despite the striking similarities between the Deogarh and Nagarī panels, we are not convinced that the figure to the left of Arjuna is indeed Nārāyaṇa. Instead we think it more likely that the person Arjuna is speaking to is ‘the ascetic (tapasvin), blazing with the lustre of brahman, tawny, with matted hair and lean’, 42 who is no other than Indra in disguise. This brahmin asks Arjuna why he has come in full armour and requests him to leave behind his bow (MBh 3.38.32–34). The bow may indeed be visible in the present panel to Arjuna’s right side. 
 
-After this brahmin failed to have Arjuna give up his resolve, he reveals his true identity and offers a boon. Arjuna replies: 
+After this brahmin failed to have Arjuna give up his resolve, he reveals his true identity and offers a booṇArjuna replies: 
 
 I do not want wishes of worlds, or divinity, still less happiness, nor the sovereignty over all the gods, overlord of the Thirty! If I leave my brothers in the wilderness without avenging the feud, I shall find infamy in all the worlds for time without end. 43 
 
 These are the proud words of the Ks.atriya, the quintessence of the Kirātā rjunīya. Confronted with so much self-confidence, Indra can think of nothing better than to refer Arjuna to ‘the three-eyed, trident-bearing Lord of Beings, Siva’. ´ 44 
 
-The similarity of the Nagarī panel with the one in Deogarh and other Nara– Nārāyan. a representations is, however, not coincidence, but serves as a reminder to the onlooker that Arjuna is Nara. In Bhāravi’s Kirātārjunīya (12.33) Siva ´ explains to the seers that Arjuna is in fact an incarnation of Nara, a part of the Primaeval Man (Adipurus ¯ .a). And, he says, there is Acyuta. Nara and Acyuta have been asked by Brahmā to go among men to protect creation by killing demons, 45 but ‘Nārāyan. a’ as such does not figure in Bhāravi’s work. 
+The similarity of the Nagarī panel with the one in Deogarh and other Nara– Nārāyaṇa representations is, however, not coincidence, but serves as a reminder to the onlooker that Arjuna is Nara. In Bhāravi’s Kirātārjunīya (12.33) Siva ´ explains to the seers that Arjuna is in fact an incarnation of Nara, a part of the Primaeval Man (Adipurus ¯ .a). And, he says, there is Acyuta. Nara and Acyuta have been asked by Brahmā to go among men to protect creation by killing demons, 45 but ‘Nārāyaṇa’ as such does not figure in Bhāravi’s work. 
 
-Nara is said to have been created by Deva Nīlalohita in Skandapurān. a 6. He had issued from the mirror image of Vis.n. u, who was reflected in the blood that the latter had himself donated to Nīlalohita’s begging bowl. This begging bowl is said in SP 6.1 to be Brahmā’s Head (brahman. ah. śirah.), that is, his fifth one, which had been chopped off in SP 5 and was then used by Siva/Nīlalohita ´ on his rounds for alms. 46 
+Nara is said to have been created by Deva Nīlalohita in Skandapurāṇa 6. He had issued from the mirror image of Vis.ṇu, who was reflected in the blood that the latter had himself donated to Nīlalohita’s begging bowl. This begging bowl is said in SP 6.1 to be Brahmā’s Head (brahmaṇah. śirah.), that is, his fifth one, which had been chopped off in SP 5 and was then used by Siva/Nīlalohita ´ on his rounds for alms. 46 
 
-After Deva (i.e. Nīlalohita) has seen (Vis.n. u’s) reflection in the liquid (rasa) within the skull (kapāla), he issues forth (a) man (purus.a) resembling Vis.n. u in strength. 
+After Deva (i.e. Nīlalohita) has seen (Vis.ṇu’s) reflection in the liquid (rasa) within the skull (kapāla), he issues forth (a) man (purus.a) resembling Vis.ṇu in strength. 
 
 42 MBh 3.38.31: tato ’paśyat savyasācī vr.ks.am¯ule tapasvinam | brāhmyā śriyā dīpyamānam. piṅgalam. jat.ilam. kr.śam k 31 k 43 MBh 3.38.40cd–41 (tr. van Buitenen): na lokān na punah. kāmān na devatvam. kutah. sukham k 40 k na ca sarvāmaraiśvaryam. kāmaye tridaśādhipa | bhrāt¯r.m. s tān vipine tyaktvā vairam apratiyātya ca | akīrtim. sarvalokes.u gaccheyam. śāśvatīh. samāh. k 41 k 44 MBh 3.38.43: bh¯uteśam. tryaks.am. ś¯uladharam. śivam. 
 
@@ -3327,11 +3327,11 @@ After Deva (i.e. Nīlalohita) has seen (Vis.n. u’s) reflection in the liquid (
 
 590 Hans T. Bakker & Peter C. Bisschop 
 
-He says to him: You (shall) be immortal, exempt from old age and decay and invincible on the battle field; Vis.n. u will be your best friend, and you (shall) live with him performing divine tasks. 
+He says to him: You (shall) be immortal, exempt from old age and decay and invincible on the battle field; Vis.ṇu will be your best friend, and you (shall) live with him performing divine tasks. 
 
-Because you are born from the ‘waters’ (nārā) that rose from Vis.n. u’s body, you shall be called Nara (i.e. ‘man’) and be dear to him. 47 
+Because you are born from the ‘waters’ (nārā) that rose from Vis.ṇu’s body, you shall be called Nara (i.e. ‘man’) and be dear to him. 47 
 
-Evidently these two sixth-century Saiva, i.e. Pāśupata, texts play down Vis ´ .n. u’s role; the story told in the Nagarī architrave might do just the same. With Arjuna we move from Mount Indrakīla, where the meeting with Indra had taken place (MBh 3.38.30), to Mount Himavat (MBh 3.39.11), where the extreme tapas will take place, illustrated in the second panel (W 2, Plate 161). 
+Evidently these two sixth-century Saiva, i.e. Pāśupata, texts play down Vis ´ .ṇu’s role; the story told in the Nagarī architrave might do just the same. With Arjuna we move from Mount Indrakīla, where the meeting with Indra had taken place (MBh 3.38.30), to Mount Himavat (MBh 3.39.11), where the extreme tapas will take place, illustrated in the second panel (W 2, Plate 161). 
 
   
 
@@ -3341,11 +3341,11 @@ Plate 161
 
 Second panel from left (W 2): Arjuna’s penance 
 
-The overall idea of this panel W 2 is clear: it shows Arjuna’s severe asceticism by standing on one leg in order to propitiate Siva. ´ 48 Nārāyan. a does not belong to this context, nor has Indra a role to play any longer. It is not immediately clear, however, who the figure to his left could be. 
+The overall idea of this panel W 2 is clear: it shows Arjuna’s severe asceticism by standing on one leg in order to propitiate Siva. ´ 48 Nārāyaṇa does not belong to this context, nor has Indra a role to play any longer. It is not immediately clear, however, who the figure to his left could be. 
 
 47 SP 6.10–12. For Sanskrit text and notes see SP I, 71, 144. 
 
-48 MBh 3.39.23: caturthe tv atha sam. prāpte māsi p¯urn. e tatah. param | vāyubhaks.o mahā bāhur abhavat pān. ḍunandanah. | ¯urdhvabāhur nirālambah. pādāṅgus.t.hāgravis.t.hitah. k 23 k 
+48 MBh 3.39.23: caturthe tv atha sam. prāpte māsi p¯urṇe tatah. param | vāyubhaks.o mahā bāhur abhavat pān. ḍunandanah. | ¯urdhvabāhur nirālambah. pādāṅgus.t.hāgravis.t.hitah. k 23 k 
 
 
 
@@ -3367,9 +3367,9 @@ Plate 162
 
 Third panel from left (W 3): Who shot the boar? 
 
-It shows the boar and the Kirāta with his wife, a disguise that Siva and Pārvatī ´ had taken on. Arjuna and the hunter argue about whose arrow pierced the boar. 
+It shows the boar and the Kirāta with his wife, a disguise that Siva and Pārvatī ´ had taken oṇArjuna and the hunter argue about whose arrow pierced the boar. 
 
-49 MBh 3.39.28–29; tr. van Buitenen. Cf. Kirātārjunīya canto 12. 
+49 MBh 3.39.28–29; tr. van BuiteneṇCf. Kirātārjunīya canto 12. 
 
 
 
@@ -3417,7 +3417,7 @@ The Kirāta had been a form adopted by Siva to test his devotee Arjuna. ´ The l
 
 30 / The Quest for the Pāśupata Weapon 593 
 
-that the eastern and western faces of the architrave tell a continuous story, the story of Arjuna and his quest for the Pāśupata Weapon. The other element is this weapon itself. 
+that the eastern and western faces of the architrave tell a continuous story, the story of Arjuna and his quest for the Pāśupata WeapoṇThe other element is this weapon itself. 
 
 Just as in the first panel of the obverse   
 
@@ -3465,7 +3465,7 @@ properly spelt (anumantritāh.), issues forth
 
 thousand of tridents, awful-looking, clubs 
 
-and missiles like venomous snakes. With it I shall embattle Bhīs.ma, Dron. a, and Kr.pa, and the always rough-spoken son of the s¯uta (Karn. a). This is my wish, my lord, who took Bhaga’s eyes, so by your grace I may go forth competent! 52 
+and missiles like venomous snakes. With it I shall embattle Bhīs.ma, Droṇa, and Kr.pa, and the always rough-spoken son of the s¯uta (Karṇa). This is my wish, my lord, who took Bhaga’s eyes, so by your grace I may go forth competent! 52 
 
 Plate 165 
 
@@ -3477,7 +3477,7 @@ Arjuna receives the Pāśupata Weapon
 
 Siva gives this powerful weapon to Arjuna, ´ 53 but warns him to use it cautiously, since launched against a person of insufficient strength it may have apocalyptic consequences. If the panels of the architrave are to make any sense, this gift of the Pāśupata Weapon must have been represented somehow. Aside from final release (duh. khānta), it is the ultimate boon for the Māheśvaras. 
 
-52 Tr. van Buitenen. MBh 3.41.7–12 (above, n. 50 on p. 523). 
+52 Tr. van BuiteneṇMBh 3.41.7–12 (above, n. 50 on p. 523). 
 
 53 In the Kirātārjunīya 18.44 Siva gives Arjuna the Raudra Weapon, encompassed by flam- ´ ing fire (jvaladanalaparītam. raudram astram). 
 
@@ -3493,7 +3493,7 @@ The Pāśupata Weapon
 
 If we work on the assumption that this boon must have been represented in the narrative of the architrave, we should answer the question how it has been de picted in its iconographic programme. The weapon (astra) is called ‘belonging to Rudra’ or ‘fierce’ (raudra), but more significantly: ‘Head of Brahmā’. This may refer, as we have seen above (p. 589), to one of the Pāśupata key myths, namely the cutting off of the fifth head of Brahmā by Siva/Nīlalohita. This ´ myth was known in the last phase of the Mahābhārata composition, where Siva ´ is called Brahmaśiropaharta (sic). 54 
 
-The full story is first told in the Skandapurān. a. 
+The full story is first told in the Skandapurāṇa. 
 
 Then, ordered by Parameśvara, this lord Nīlalohita, his (matted) hair coiled into a top-knot (kapardin), took the Head of Brahmā. 
 
@@ -3503,13 +3503,13 @@ This ‘Head of Brahmā’ is Siva’s begging bowl and, according to the ´ Mah
 
 We return to E 1, the first, incomplete panel of the eastern face. What we see in Siva’s right, raised hand could agree to the shape of a begging bowl or ´ skull. The function of the bowl/skull shown here is not so much the collecting of alms, rather than exposing it to an audience. This makes sense only if the begging bowl is more than just that. We consider it a rebus, representing the word brahmaśiras in visual (iconographic) form. 
 
-54 MBh 13 App. I, No. 6 l. 45. Yuko Yokochi (personal communication) has questioned van Buitenen’s translation of brahmaśiras with ‘Brahmā’s Head’ in MBh 3.41.8a (above, n. 50 on p. 523). Admittedly, there is no reference to the myth of the decapitation of Brahmā here. The Brahmaśiras, like all divine weapons, is a mantra weapon and should be ‘properly spelt’ (anumantrita) to yield the desired result, that means that this skull of Brahmā (kapāla)/begging bowl has the potency to issue forth the most powerful weapon. As such the word may signify ‘the foremost (śiras) of the Vedic mantras (brahman)’. We consider it plausible that the ambiguity was deliberate and was made use of by the designer of the architrave. 
+54 MBh 13 App. I, No. 6 l. 45. Yuko Yokochi (personal communication) has questioned van Buitenen’s translation of brahmaśiras with ‘Brahmā’s Head’ in MBh 3.41.8a (above, n. 50 on p. 523). Admittedly, there is no reference to the myth of the decapitation of Brahmā here. The Brahmaśiras, like all divine weapons, is a mantra weapon and should be ‘properly spelt’ (anumantrita) to yield the desired result, that means that this skull of Brahmā (kapāla)/begging bowl has the potency to issue forth the most powerful weapoṇAs such the word may signify ‘the foremost (śiras) of the Vedic mantras (brahman)’. We consider it plausible that the ambiguity was deliberate and was made use of by the designer of the architrave. 
 
 55 SP 6.1–2 (only in the R and A recensions): 
 
 tatah. sa bhagavān devah. kapardī nīlalohitah. | 
 
-āj˜nayā parameśasya jagrāha brahman. ah. śirah. k 1 k 
+āj˜nayā parameśasya jagrāha brahmaṇah. śirah. k 1 k 
 
 tad gr.hītvā śiro dīptam. r¯upam. vikr.tam āsthitah. | 
 
@@ -3517,11 +3517,11 @@ yogakrīd. ām. samāsthāya bhaiks.āya pracacāra ha k 2 k
 
 56 MBh 3.41.7–8 (above, n. 50 on p. 523); cf. MBh 14.62.15, 133* ll. 3–4. According to MBh 3 App. 27, l. 1 the Pāśupata weapon is an arrow (śara); the brahmaśiras may be thought to be the mantra that makes this weapon so effective. SPBh 98.7–8ab seems to distinguish between the Pāśupata Weapon and the Brahmaśiras when it lists the four weapons that form the four tusks of Varāha: 
 
-catvāry astrān. i dam. s.t.rāś ca kr.tāni sumahānti vai | 
+catvāry astrāṇi dam. s.t.rāś ca kr.tāni sumahānti vai | 
 
 astram. pāśupatam. p¯urvam. dvitīyam. cakram eva ca k 7 k 
 
-brahmadan. ḍam. tr.tīyam. ca caturtham. brahman. ah. śirah. k 
+brahmadan. ḍam. tr.tīyam. ca caturtham. brahmaṇah. śirah. k 
 
 
 
@@ -3531,7 +3531,7 @@ brahmadan. ḍam. tr.tīyam. ca caturtham. brahman. ah. śirah. k
 
 30 / The Quest for the Pāśupata Weapon 595 
 
-If our analysis is correct, it represents the ne plus ultra, the power that devotees who pursue the Pāśupata sādhana aspire to obtain in this world: the Pāśupata Weapon or ‘Head of Brahmā’, the Saiva equivalent of the ´ p¯urn. akalaśa, the source of life (nara) and death (antaka). 57 This equivalence is further expressed by the fact that in the first panel the bowl seemed to have been filled, whereas the bowl appears empty in the following two panels, when it is withdrawn. 
+If our analysis is correct, it represents the ne plus ultra, the power that devotees who pursue the Pāśupata sādhana aspire to obtain in this world: the Pāśupata Weapon or ‘Head of Brahmā’, the Saiva equivalent of the ´ p¯urṇakalaśa, the source of life (nara) and death (antaka). 57 This equivalence is further expressed by the fact that in the first panel the bowl seemed to have been filled, whereas the bowl appears empty in the following two panels, when it is withdrawn. 
 
 The token that was held out at the beginning in the first relief (E 1) was thus finally obtained by Arjuna in the addorsed panel at the end of the architrave’s narrative (W 6). It is the ks.atra or fighting spirit of Arjuna and his unswerving devotion to Siva that won him this award at long last, the Pāśupata Weapon, ´ and therewith the power to defeat all enemies. The Mahābhārata again de scribes the scene. 
 
@@ -3539,13 +3539,13 @@ Hearing this, the Pārtha (Arjuna) hurriedly and attentively purified himself; a
 
 When the moment came, there was an outcry of conches, drums, and kettledrums by the thousands, and a huge quake occurreḍThe Gods and the Dānavas wit nessed how that fiercely burning dreadful missile stood bodily deployed (m¯urtimat) at the side of the boundlessly lustrous Pān. ḍava. 58 
 
-And we believe the visitors to the Mahādeva Temple in Nagarī witnessed it too. Arjuna’s pose in the final panel (W 6) is one of vacillation. The ends of his cloth flutter. His knee is bent, as if he is taken aback. In front of him, we speculate, the Pāśupata Weapon may have stood in bodily form, next to Siva ´ in all his glory. What the weapon may have looked like, we know from another sculpture telling the same story. 
+And we believe the visitors to the Mahādeva Temple in Nagarī witnessed it too. Arjuna’s pose in the final panel (W 6) is one of vacillatioṇThe ends of his cloth flutter. His knee is bent, as if he is taken aback. In front of him, we speculate, the Pāśupata Weapon may have stood in bodily form, next to Siva ´ in all his glory. What the weapon may have looked like, we know from another sculpture telling the same story. 
 
 Joanna Williams discusses ‘a pair of pillars found at Rajaona, 60 km east (and slightly north) of Rajgir’, Bihar (Plate 166). Its subject matter, according to her, ‘resembles that of the Nagarī lintel’. ‘The remaining face shows Siva ´ seated with Pārvatī on his mountain, whilst in front Arjuna kneels before the chubby four-armed personification of the Pāśupatāstra, the weapon that has been his goal throughout the story.’ 59 
 
 Arjuna, however, is not on his knees in Nagarī; in that pose he had been depicted when he was brought to Siva for instruction by a four-armed figure in ´ the last panel of the eastern face (E 6). 
 
-57 Above, p. 589, and below. SPBh 84.3 compares the battle with the sacrifice. The ‘heads’ are the ‘sacrificial cakes’ (purod. āśāh. śirām. si), the divine weapons are the mantras (mantrāś cāstrān. i divyāni). 
+57 Above, p. 589, and below. SPBh 84.3 compares the battle with the sacrifice. The ‘heads’ are the ‘sacrificial cakes’ (purod. āśāh. śirām. si), the divine weapons are the mantras (mantrāś cāstrāṇi divyāni). 
 
 58 MBh 3.41.17–22 (tr. van Buitenen). [. . . ] athāstram. jājvalad ghoram. pān. ḍavasyāmi taujasah. | m¯urtimad vis.t.hitam. pārśve dadr.śur devadānavāh. k 22 k 59 Williams 1982, 151, Plate 240. Lutzker 1984, 36 f. This fragment is presently located at Calcutta, Indian Museum: A 25106. 
 
@@ -3601,7 +3601,7 @@ W 1 (detail of Plate 159): the Pāśupata Weapon?
 
 Concluding observations 
 
-Like the composers of epic and puranic lore, the architect of the Mahādeva Temple and the designer of the iconographic programme of the toran. a shared in the universe of myths. Like textual composers, the designer made his se lection from this universe to compose his narrative. And like written texts, his visual narrative is inevitably an incomplete rendering of the stock of myths that circulated in his days. Like a textual author he extracted from this stock, adapted it to his needs and in this way contributed to its evolution. A textual source that tells exactly the same narrative as the architrave and that would 
+Like the composers of epic and puranic lore, the architect of the Mahādeva Temple and the designer of the iconographic programme of the toraṇa shared in the universe of myths. Like textual composers, the designer made his se lection from this universe to compose his narrative. And like written texts, his visual narrative is inevitably an incomplete rendering of the stock of myths that circulated in his days. Like a textual author he extracted from this stock, adapted it to his needs and in this way contributed to its evolutioṇA textual source that tells exactly the same narrative as the architrave and that would 
 
 61 An alternative sees in this figure the Yaks.a (rājarājānucara, KA 3.30) who leads Arjuna to Indra in Bhāravi’s Kirātārjunīya. 
 
@@ -3615,13 +3615,13 @@ Like the composers of epic and puranic lore, the architect of the Mahādeva Temp
 
 thus be considered to be its source is not likely ever to turn up. The narrative of the architrave is the text, and as such it shows instances of intertextuality, thanks to which we can try to understand its message. 
 
-Without doubt the designer was well acquainted with the Mahābhārata, whose story of the Kirātārjunīya was at the basis of his work. 62 He could not yet know the Skandapurān. a, since we believe that its composition only began in the second half of the sixth century, but the universe of Saiva myths had ´ substantially expanded from the days that the composition of the great epic was coming to a close. The myth of Brahmā’s decapitation by Siva, for instance, is ´ only referred to through an epithet of the Great God in an Appendix passage of the epic, but the full story must have been around in Pāśupata circles before it was put down in the Skandapurān. a. The same is true of the Devadāruvana myth. Familiarity with this lore is to be presupposed, not only for the designer, but for the general visitor at the time. 
+Without doubt the designer was well acquainted with the Mahābhārata, whose story of the Kirātārjunīya was at the basis of his work. 62 He could not yet know the Skandapurāṇa, since we believe that its composition only began in the second half of the sixth century, but the universe of Saiva myths had ´ substantially expanded from the days that the composition of the great epic was coming to a close. The myth of Brahmā’s decapitation by Siva, for instance, is ´ only referred to through an epithet of the Great God in an Appendix passage of the epic, but the full story must have been around in Pāśupata circles before it was put down in the Skandapurāṇa. The same is true of the Devadāruvana myth. Familiarity with this lore is to be presupposed, not only for the designer, but for the general visitor at the time. 
 
 Arjuna’s quest for the divine Pāśupata Weapon and the Devadāruvana story are both mythical in nature and as such convey general, timeless truths. As all myths, however, they may serve as templates for human action and their depiction in art may function as historical allegory. 
 
 It is appealing therefore to read the architrave as a metaphor and to specu late on its connection with the rājasthānīya, the Aulikara viceroy who ruled in Madhyamā/Madhyamikā under Prakāśadharman and Yaśodharman (between ad 510 and 533), and who had, according to the Chittorgarh inscription (above, p. 570), commissioned the building of a Mahādeva temple. The educated con temporary onlooker may have seen in its iconographic programme evidence of his governor or king embracing the Saiva religion by being instructed in its ´ observances; other visitors may have seen only the template, the myth, an ambiguity inherent in Indian—and not only Indian—plastic art in general. 
 
-We have discovered the central theme of the Nagarī architrave, the one that con nects both faces. It appears to be the recovery of the Pāśupata Weapon, which alone was believed to secure victory in difficult times. It helped the Pān. ḍavas to win back their kingdom, and it may have been thought to bring victory to the Later Aulikara kings Prakāśadharman and Yaśodharman of Daśapura and their allies in Madhyamikā, when they were locked in a deadly conflict with their archenemies, Toramān. a and Mihirakula, who were commanding the dreaded armies of the Huns. 
+We have discovered the central theme of the Nagarī architrave, the one that con nects both faces. It appears to be the recovery of the Pāśupata Weapon, which alone was believed to secure victory in difficult times. It helped the Pān. ḍavas to win back their kingdom, and it may have been thought to bring victory to the Later Aulikara kings Prakāśadharman and Yaśodharman of Daśapura and their allies in Madhyamikā, when they were locked in a deadly conflict with their archenemies, Toramāṇa and Mihirakula, who were commanding the dreaded armies of the Huns. 
 
 This theme also links the Devadāruvana myth to the Kirātārjunīya. In addition to Siva’s stark naked and ithyphallic appearance, misunderstood and ´ causing offence, it is the bowl made out of Brahmā’s head and symbolizing the Great God’s benevolence, that the seers failed to recognize in the first panel (E 1). Standing alone and being despised is, after all, the fundamental attitude 
 
@@ -3637,11 +3637,11 @@ This theme also links the Devadāruvana myth to the Kirātārjunīya. In additio
 
 of the Pāśupata ascetic. 63 When the seers attack him in the next panel (E 2), he keeps it away from them. 
 
-In the earliest written version of the Devadāruvana myth that we possess, 64 Skandapurān. a 167.72–80, the ‘audience’ are the Vaikhānasa hermits. It is quite possible that only these or similar sages were depicted in the missing part of the first panel. The role of the wives of the sages may have come more to the fore in later versions, such as the narrative on the doorpost in Malhar, when the connotations of ‘Brahmaśiras’ either were no longer recognized, as ‘Brahmā’s Head’ had subsided into just a bowl to collect alms, or had come into bad grace due to its association with the Kāpālikas. 
+In the earliest written version of the Devadāruvana myth that we possess, 64 Skandapurāṇa 167.72–80, the ‘audience’ are the Vaikhānasa hermits. It is quite possible that only these or similar sages were depicted in the missing part of the first panel. The role of the wives of the sages may have come more to the fore in later versions, such as the narrative on the doorpost in Malhar, when the connotations of ‘Brahmaśiras’ either were no longer recognized, as ‘Brahmā’s Head’ had subsided into just a bowl to collect alms, or had come into bad grace due to its association with the Kāpālikas. 
 
 The exclusive focus in the Pine Forest myth on the liṅga may therefore have been the result of a development, which gradually replaced the idea that underlies the Nagarī architrave. This would explain that the liṅga as object of worship does not feature in the architrave. Instead, it was the supreme good that only Siva can bestow, object of his meditation in E 4, and symbolized in ´ his Brahmaśiras attribute, that took centre stage. 
 
-The irony that will not have been lost on the designer of the architrave and the educated Pāśupata visitor of the temple thus seems to be that, if we follow the Skandapurān. a, Arjuna at the end of his quest recovers the fons et origo from which he, as Nara (above, p. 589), had once emerged, namely the Head of Brahmā. This cycle illustrates the superiority of the high god of the age, Mahādeva. 
+The irony that will not have been lost on the designer of the architrave and the educated Pāśupata visitor of the temple thus seems to be that, if we follow the Skandapurāṇa, Arjuna at the end of his quest recovers the fons et origo from which he, as Nara (above, p. 589), had once emerged, namely the Head of Brahmā. This cycle illustrates the superiority of the high god of the age, Mahādeva. 
 
 When they passed through the temple gateway, the king and his subjects were reminded of the major realities of Siva’s World—asceticism, His benevolence, ´ His revelation of the doctrine. After worshipping God, they saw, while they were leaving through the gate, the path which would lead to His grace and which held out to them the prospect of the acquisition of the highest good in this world, the Pāśupata Weapon—through steadfastness, self-control and bravery. 
 
@@ -3659,7 +3659,7 @@ It was this faith, embraced by the Later Aulikara kings and their court, that wa
 
 
 
-Composition and Spread of the Skandapurān. a ∗ An Artist’s Impression 
+Composition and Spread of the Skandapurāṇa ∗ An Artist’s Impression 
 
   
 
@@ -3701,9 +3701,9 @@ Friends, if you will permit me, let me be that kavi today. 1 Allow me to take ad
 
 So it came to pass, 
 
-When Avantivarman ascended the Maukhari throne in Kanyakubja in the last quarter of the sixth century, it may have appeared as if the old days of stability and prosperity had returned to Madhyadeśa. Thanks to the incessant war efforts of his grandfather, ¯Iśānavarman, the cruel intruders called H¯un. as had been driven back to the foothills of the western Himālayas after a long and devastating period of war. A close friendship had developed between the rulers in Kanyakubja and Sthāneśvara, where the dynasty of the Vardhanas guarded the western part of the kingdom. The eastern enemies, the Gauḍas and their allies the Guptas, had been forced to take refuge at the borders of the ocean, where they were being kept in check by Kanyakubja’s powerful southern allies in Daks.in. a Kosala, who traced their respectable pedigree straight back to Pān. ḍu and his mighty son Arjuna. 
+When Avantivarman ascended the Maukhari throne in Kanyakubja in the last quarter of the sixth century, it may have appeared as if the old days of stability and prosperity had returned to Madhyadeśa. Thanks to the incessant war efforts of his grandfather, ¯Iśānavarman, the cruel intruders called H¯uṇas had been driven back to the foothills of the western Himālayas after a long and devastating period of war. A close friendship had developed between the rulers in Kanyakubja and Sthāneśvara, where the dynasty of the Vardhanas guarded the western part of the kingdom. The eastern enemies, the Gauḍas and their allies the Guptas, had been forced to take refuge at the borders of the ocean, where they were being kept in check by Kanyakubja’s powerful southern allies in Daks.iṇa Kosala, who traced their respectable pedigree straight back to Pān. ḍu and his mighty son Arjuna. 
 
-∗ This is the text of my valedictory on the occasion of my retirement as professor of The Interpretation of Hinduism in the Sanskrit Tradition and Indian Philosophy at the University of Groningen. It concluded the VVIK Indologendag 2013 in Leiden, 28 September 2013. Parts of this lecture have been included in the Introduction to The World of the Skandapurān. a (Bakker 2014). 
+∗ This is the text of my valedictory on the occasion of my retirement as professor of The Interpretation of Hinduism in the Sanskrit Tradition and Indian Philosophy at the University of GroningeṇIt concluded the VVIK Indologendag 2013 in Leiden, 28 September 2013. Parts of this lecture have been included in the Introduction to The World of the Skandapurāṇa (Bakker 2014). 
 
 1 For the above Sanskrit verse see below, p. 609. 
 
@@ -3719,11 +3719,11 @@ When Avantivarman ascended the Maukhari throne in Kanyakubja in the last quarter
 
 The ancient land of the Buddha and the cradle of empire was firmly un der control. Avantivarman proudly bore the title ‘sovereign of Magadhā’. A Buddhist settlement there was developing into a place of learning of high in ternational repute. The university of Nālandā attracted students and scholars from all over India and abroad, and the Maukhari king, though not a Buddhist, prided himself on being its chancellor. 
 
-The monarch watched over the Bull of the Dharma, which was shepherded by his countrymen. The Bull, shown on the royal seal, had in recent years become a forceful emblem, a symbol appropriated by another religion, one to which the Maukharis had confessed ever since they had thrown off the yoke of the Imperial Guptas with their state deity Vis.n. u. Worship of Siva had opened up ´ new avenues for the imagination and enshrined royal authority in burgeoning forms of early tantric Hinduism. 
+The monarch watched over the Bull of the Dharma, which was shepherded by his countrymeṇThe Bull, shown on the royal seal, had in recent years become a forceful emblem, a symbol appropriated by another religion, one to which the Maukharis had confessed ever since they had thrown off the yoke of the Imperial Guptas with their state deity Vis.ṇu. Worship of Siva had opened up ´ new avenues for the imagination and enshrined royal authority in burgeoning forms of early tantric Hinduism. 
 
-Though familiar with all sorts of asceticism, northern India in the sixth century saw a new type of strange sādhus travelling around, who smeared themselves with ashes and imitated the god of their devotion, Siva Paśupati. ´ A lineage of gurus pertaining to this movement had settled in Kanyakubja, an establishment founded in the capital by a saint from Kuruks.etra, the ancient battlefield, now firmly under the control of the friendly Vardhanas or Pus.ya bh¯utis, who themselves had become staunch followers of this type of religion. Avantivarman, too, was well disposed towards them and invited some of them to his court. 
+Though familiar with all sorts of asceticism, northern India in the sixth century saw a new type of strange sādhus travelling around, who smeared themselves with ashes and imitated the god of their devotion, Siva Paśupati. ´ A lineage of gurus pertaining to this movement had settled in Kanyakubja, an establishment founded in the capital by a saint from Kuruks.etra, the ancient battlefield, now firmly under the control of the friendly Vardhanas or Pus.ya bh¯utis, who themselves had become staunch followers of this type of religioṇAvantivarman, too, was well disposed towards them and invited some of them to his court. 
 
-The Pāśupatas, as these Siva worshippers were called, made good use of the ´ patronage that fell to their lot. They set up religious centres (sthāna), temples (āyatana) and monasteries (mat.ha) at the country’s holiest grounds, such as the Kapālasthāna in Kuruks.etra, Bhadreśvara near Ga˙ngādvāra, the great Deva temple, āyatana, in Prayāga, and the siddhasthāna, ‘home of the saints’, called Madhyameśvara, circa one kilometer north of the renowned cremation grounds of Avimukta or Vārān. asī. 
+The Pāśupatas, as these Siva worshippers were called, made good use of the ´ patronage that fell to their lot. They set up religious centres (sthāna), temples (āyatana) and monasteries (mat.ha) at the country’s holiest grounds, such as the Kapālasthāna in Kuruks.etra, Bhadreśvara near Ga˙ngādvāra, the great Deva temple, āyatana, in Prayāga, and the siddhasthāna, ‘home of the saints’, called Madhyameśvara, circa one kilometer north of the renowned cremation grounds of Avimukta or Vārāṇasī. 
 
 A network of itinerant sādhus connected these centres, which became well integrated with the local religious infrastructure and developed into junctions within a fabric of yogins and religious teachers. The Pāśupatas had had a good look at their Buddhist counterparts and had copied their formula for success, namely a standing organisation of professional religious specialists— yogins, ascetics, and ācāryas—supported by a following of ordinary devotees, the Māheśvara community at large, to whose spiritual needs it catereḍOne of the peculiar facilities offered to the community of laukikas, by at least some of these Pāśupata ascetics, was to extend services in and around the cremation grounds. Living in the cremation ground was a highly acclaimed strategy within Pāśupata asceticism. Mahākāla in Ujjain, Mahākapāla in Thanesar, Avimukteśvara in Benares, Paśupatinātha in Nepal, to mention just the best known, were run by Pāśupatas and became key to their success. 
 
@@ -3735,7 +3735,7 @@ Avantivarman, therefore, acted in tune with the spirit of his time when he suppo
 
 
 
-31 / Composition and Spread of the Skandapurān. a 603 
+31 / Composition and Spread of the Skandapurāṇa 603 
 
 on the rebuilding of a dilapidated temple of the ‘Foe of Andhaka’, whose images were beginning to appear around this time. The prince had hired a poet to sing the praises of the god as well as of himself, chiselled into stone, for everyone to read: 
 
@@ -3747,9 +3747,9 @@ Poets were held in high esteem and Avantivarman invited them to his court. Imagi
 
 A son of the House of Magadhā has arrived, thronged by hundreds of eminent ministers, like the moon enhanced by an aureole of stars, that prince, who is a feast for the eyes of his delighted subjects. 3 
 
-This is the world in which Sanskrit flourished, the world in which the kavi Bhatsu, Bān. a’s respected teacher, was honoured by crowned heads. This court was sustained by the inhabitants of Kanyakubja who, in the words of the famous Chinese pilgrim Xuanzang, were ‘honest and sincere, noble and gracious in appearance, clothed in ornamented and bright-shining fabrics’, inhabitants who ‘applied themselves much to learning, and in their travels were very much given to discussion on religious subjects, whereas the fame of their pure language was far spread’. 4 To this court the leading figures of the community of Māheśvaras were also welcomeḍSanskrit was their language and in Sanskrit they composed their learned treatises and witty mythology. 
+This is the world in which Sanskrit flourished, the world in which the kavi Bhatsu, Bāṇa’s respected teacher, was honoured by crowned heads. This court was sustained by the inhabitants of Kanyakubja who, in the words of the famous Chinese pilgrim Xuanzang, were ‘honest and sincere, noble and gracious in appearance, clothed in ornamented and bright-shining fabrics’, inhabitants who ‘applied themselves much to learning, and in their travels were very much given to discussion on religious subjects, whereas the fame of their pure language was far spread’. 4 To this court the leading figures of the community of Māheśvaras were also welcomeḍSanskrit was their language and in Sanskrit they composed their learned treatises and witty mythology. 
 
-For learned treatises and religious expositions the educated classes of northern India looked to Vārān. asī. This trading town on the River Ganges had emerged under the Guptas in the preceding century as a centre of traditional Hindu learning. The arrival of the Pāśupata movement added to its reputation for holiness, whereas the collective Sanskrit learning of the town added to the literary achievements of the Māheśvaras. 
+For learned treatises and religious expositions the educated classes of northern India looked to Vārāṇasī. This trading town on the River Ganges had emerged under the Guptas in the preceding century as a centre of traditional Hindu learning. The arrival of the Pāśupata movement added to its reputation for holiness, whereas the collective Sanskrit learning of the town added to the literary achievements of the Māheśvaras. 
 
 2 EI XIV, 115, 117 vv. 2, 17. 
 
@@ -3765,15 +3765,15 @@ For learned treatises and religious expositions the educated classes of northern
 
 
 
-The composition of the two classic Sanskrit epics was closed by the fourth century. Some of the new religious ideas concerning the god Siva had still made ´ it into the latest layers of the Mahābhārata. After the Rāmāyan. a had been completed, mythology related to the tutelary deity of the Gupta Empire, Vis.n. u, and his popular manifestation of Kr.s.n. a in particular, had found expression in an Appendix to the great epic, the Harivam. śa, as well as in a new type of Sanskrit text styled ‘Ancient Lore’, i.e. Purān. a. 
+The composition of the two classic Sanskrit epics was closed by the fourth century. Some of the new religious ideas concerning the god Siva had still made ´ it into the latest layers of the Mahābhārata. After the Rāmāyaṇa had been completed, mythology related to the tutelary deity of the Gupta Empire, Vis.ṇu, and his popular manifestation of Kr.s.ṇa in particular, had found expression in an Appendix to the great epic, the Harivam. śa, as well as in a new type of Sanskrit text styled ‘Ancient Lore’, i.e. Purāṇa. 
 
-The Purān. a as a literary genre in its first stages of development dealt with the creation of the universe, the origin of the world and its royal dynasties. However, as for instance the Vis.n. upurān. a had shown, the genre also lent itself perfectly to the circulation of popular, religious and mythological material. After the civilized world had recovered from a period of devastating wars and invasions, and now that Vis.n. u had ceded his place of prominence to Siva, the ´ sixth century embraced a new form of devotion. The time had come to collect the mythology of the Great GoḍIn the words of the Skandapurān. a: ‘Having heard the story of Bhārata as well as the Ancient Lore, we wish to hear about the birth of Siva’s son, Kārttikeya.’ ´ 
+The Purāṇa as a literary genre in its first stages of development dealt with the creation of the universe, the origin of the world and its royal dynasties. However, as for instance the Vis.ṇupurāṇa had shown, the genre also lent itself perfectly to the circulation of popular, religious and mythological material. After the civilized world had recovered from a period of devastating wars and invasions, and now that Vis.ṇu had ceded his place of prominence to Siva, the ´ sixth century embraced a new form of devotioṇThe time had come to collect the mythology of the Great GoḍIn the words of the Skandapurāṇa: ‘Having heard the story of Bhārata as well as the Ancient Lore, we wish to hear about the birth of Siva’s son, Kārttikeya.’ ´ 
 
-A senior brahmin member of the Māheśvara community in Vārān. asī, well versed in Sanskrit literature, an expert on the epic tradition, initiated in the Pāśupata sacred texts, in short, a brahmin with great prestige among his fellow believers, charismatic and dynamic, that man, let us call him the S¯uta, took the initiative to fulfil this wish and to compose a Purān. a text that would do justice to the rich mythology of Siva and his family, that would be accessible to ´ the whole community, and, last but not least, that would validate local claims of the sanctity of holy ground by telling their Māhātmyas. In order to possess this authority, the text should be in the anonymous, pseudohistoric style of the Purān. a, reportedly spoken by a sage of yore with intimate knowledge of the Great God’s own thoughts and deeds. 
+A senior brahmin member of the Māheśvara community in Vārāṇasī, well versed in Sanskrit literature, an expert on the epic tradition, initiated in the Pāśupata sacred texts, in short, a brahmin with great prestige among his fellow believers, charismatic and dynamic, that man, let us call him the S¯uta, took the initiative to fulfil this wish and to compose a Purāṇa text that would do justice to the rich mythology of Siva and his family, that would be accessible to ´ the whole community, and, last but not least, that would validate local claims of the sanctity of holy ground by telling their Māhātmyas. In order to possess this authority, the text should be in the anonymous, pseudohistoric style of the Purāṇa, reportedly spoken by a sage of yore with intimate knowledge of the Great God’s own thoughts and deeds. 
 
 It happened in the days of Avantivarman’s reign that a group of kindred spirits and literary talents convened in an institution of the community in Benares. They discussed the plan and pledged their commitment. The S¯uta, the editor-in-chief, began his composition in Sloka verses, while an inventory ´ was being agreed on of the myths, stories, topics and places that had to be treated in the course of the work, a narrative that was designed to lead to the birth, consecration and heroic deeds of Kārttikeya, but could not reach that point before an extensive cycle of Andhaka myths had been told first— Andhaka who, like the Mleccha foes of the Maukharis, could not be slain until after an endless series of battles. 5 
 
-The materials were arranged in a preliminary order in versified form. This inventory or blueprint, Anukraman. ikā as it was called, has survived and come down to us in the second adhyāya of the Skandapurān. a. The editor-in-chief was assisted by some editors who were assigned specific portions of the com 
+The materials were arranged in a preliminary order in versified form. This inventory or blueprint, Anukramaṇikā as it was called, has survived and come down to us in the second adhyāya of the Skandapurāṇa. The editor-in-chief was assisted by some editors who were assigned specific portions of the com 
 
 5 SPBh 130–56. 
 
@@ -3783,15 +3783,15 @@ The materials were arranged in a preliminary order in versified form. This inven
 
 
 
-31 / Composition and Spread of the Skandapurān. a 605 
+31 / Composition and Spread of the Skandapurāṇa 605 
 
-position. The Pāśupata network was called in to assemble information about places sacred to the Māheśvara community. Sometimes this resulted in new collaborators entering the group, bringing in local knowledge couched in Māhā tmya-style texts, sometimes the editor himself used the information to compose the story. Rarely were ready-made texts taken from existing literature. The S¯uta guaranteed the unity of literary style and the quality of the Sanskrit, but this could not prevent minor differences remaining. He also took great care that the arrangement of stories, the complex narrative structure of the text, remained consistent and logical. However, soon it appeared that the original blueprint could not be implemented except in broad outline; the myths and stories composed had too powerful a dynamic of their own to link up with each other perfectly. Here the genius of the S¯uta was most needed and he did a brilliant job. 6 
+positioṇThe Pāśupata network was called in to assemble information about places sacred to the Māheśvara community. Sometimes this resulted in new collaborators entering the group, bringing in local knowledge couched in Māhā tmya-style texts, sometimes the editor himself used the information to compose the story. Rarely were ready-made texts taken from existing literature. The S¯uta guaranteed the unity of literary style and the quality of the Sanskrit, but this could not prevent minor differences remaining. He also took great care that the arrangement of stories, the complex narrative structure of the text, remained consistent and logical. However, soon it appeared that the original blueprint could not be implemented except in broad outline; the myths and stories composed had too powerful a dynamic of their own to link up with each other perfectly. Here the genius of the S¯uta was most needed and he did a brilliant job. 6 
 
-The Pāśupata network was strongest along the east-west axis, Vārān. asī– Kanyakubja–Kuruks.etra. It had been decided to begin in the west, since it was one of the underlying aims of the work to cover, or rather to recover the entire landscape of northern India, transforming it into sacred space, a landscape on which the deeds of the Great God and his entourage had bestowed holiness at the beginning of time. The work was well under way—the myths relating to Kuruks.etra and the Sarasvatī, Sthāneśvara, Bhadreśvara and Kanakhala, and Vārān. asī itself had been composed, and the Vindhyavāsinī Cycle was drafted— when political reality threatened to disrupt the literary activity. A joint attack from the east and the southwest brought to an end the rule of the Maukharis, just when Grahavarman had succeeded his father Avantivarman, while that of its allies in Thanesar was shaking on its foundations. For a while Benares came under the control of the easterners, the Gauḍas. 
+The Pāśupata network was strongest along the east-west axis, Vārāṇasī– Kanyakubja–Kuruks.etra. It had been decided to begin in the west, since it was one of the underlying aims of the work to cover, or rather to recover the entire landscape of northern India, transforming it into sacred space, a landscape on which the deeds of the Great God and his entourage had bestowed holiness at the beginning of time. The work was well under way—the myths relating to Kuruks.etra and the Sarasvatī, Sthāneśvara, Bhadreśvara and Kanakhala, and Vārāṇasī itself had been composed, and the Vindhyavāsinī Cycle was drafted— when political reality threatened to disrupt the literary activity. A joint attack from the east and the southwest brought to an end the rule of the Maukharis, just when Grahavarman had succeeded his father Avantivarman, while that of its allies in Thanesar was shaking on its foundations. For a while Benares came under the control of the easterners, the Gauḍas. 
 
 A young prince, a kumāra from Sthāneśvara, installed as chief of the army on the banks of the Sarasvatī, as it were the embodiment of Skanda himself, came to the rescue of the kingdom of Kanyakubja. In a war that lasted sev eral years, Hars.avardhana succeeded in pushing the Gauḍas under their king ‘Moon’, Saśāṅka, back across the rivers Son ´ . a and Gan. ḍakī. 
 
-In about ad 606, the political situation had stabilized enough to organize a magnificent royal coronation ceremony. Hars.avardhana was enthroned in Kanyakubja. It would take Hars.a six more years, however, to consolidate his sovereignty over the combined hereditary lands of the Vardhanas and Maukha ris, including Magadhā, and before finally, to paraphrase the closing metaphor of Hars.a’s Deeds sung by the greatest writer of the time, Bān. a—‘After a day of bloody contest, at the fall of night, while the sinking sun crimsoned the sky and the waters of the ocean, the Fame of his House, the Glory of his Rule, and the Force of his Destiny united to hand over to him a pale-looking Moon.’ 
+In about ad 606, the political situation had stabilized enough to organize a magnificent royal coronation ceremony. Hars.avardhana was enthroned in Kanyakubja. It would take Hars.a six more years, however, to consolidate his sovereignty over the combined hereditary lands of the Vardhanas and Maukha ris, including Magadhā, and before finally, to paraphrase the closing metaphor of Hars.a’s Deeds sung by the greatest writer of the time, Bāṇa—‘After a day of bloody contest, at the fall of night, while the sinking sun crimsoned the sky and the waters of the ocean, the Fame of his House, the Glory of his Rule, and the Force of his Destiny united to hand over to him a pale-looking Moon.’ 
 
 6 An illustration of this intricate process is the inclusion of the legend of the seven brahmins into the Vindhyavāsinī Cycle, for which see Yokochi’s Introduction SP III, 15–22. 
 
@@ -3801,13 +3801,13 @@ In about ad 606, the political situation had stabilized enough to organize a mag
 
 
 
-Vārān. asī was back in the kingdom of Kanyakubja, but the new political situation had an effect on the perspective and scope of the composition in progress. 
+Vārāṇasī was back in the kingdom of Kanyakubja, but the new political situation had an effect on the perspective and scope of the composition in progress. 
 
-To begin with, the historical consecration of a young prince (kumāra) on the banks of the Sarasvatī to lead an army against the Gauḍa king Moon (śaśāṅka), reflected the mythology of Skanda, the main subject of the Purān. a—Skanda, the god of war, who, after his consecration as General (senāpati) on the banks of the same river, led the Devas against the Asuras in order to destroy the demon king Star (tāraka). 7 The composers decided to bring their work to the attention of King Hars.avardhana, soliciting his blessing. After all, Hars.a himself confessed to be a paramamāheśvara, and his court offered a venue to the most promising literary men of the country, among whom was the king himself. 
+To begin with, the historical consecration of a young prince (kumāra) on the banks of the Sarasvatī to lead an army against the Gauḍa king Moon (śaśāṅka), reflected the mythology of Skanda, the main subject of the Purāṇa—Skanda, the god of war, who, after his consecration as General (senāpati) on the banks of the same river, led the Devas against the Asuras in order to destroy the demon king Star (tāraka). 7 The composers decided to bring their work to the attention of King Hars.avardhana, soliciting his blessing. After all, Hars.a himself confessed to be a paramamāheśvara, and his court offered a venue to the most promising literary men of the country, among whom was the king himself. 
 
-Secondly, the king’s military successes against Gauḍa called attention to the east, bringing a Saiva settlement in western Gaud ´ . a within the purview of the composers. The S¯uta, or his successor, made the decision to conclude the sanctification of the sacred landscape of northern India in Kot.ivars.a, an important commercial and religious centre in the province of Pun. d.ra, which was situated 80 km northeast of the army camp of King Hars.a on the Lower Ganges, the camp where the king would eventually meet the Chinese pilgrim. The concluding chapters of the Purān. a were reserved for philosophy and an exposition of Pāśupata yoga, which, along with devotion and pilgrimage, would bring the Māheśvara, yogin and layman alike, to paradise, the City of Siva at ´ the top of the universe (SPBh 183). 
+Secondly, the king’s military successes against Gauḍa called attention to the east, bringing a Saiva settlement in western Gaud ´ . a within the purview of the composers. The S¯uta, or his successor, made the decision to conclude the sanctification of the sacred landscape of northern India in Kot.ivars.a, an important commercial and religious centre in the province of Puṇd.ra, which was situated 80 km northeast of the army camp of King Hars.a on the Lower Ganges, the camp where the king would eventually meet the Chinese pilgrim. The concluding chapters of the Purāṇa were reserved for philosophy and an exposition of Pāśupata yoga, which, along with devotion and pilgrimage, would bring the Māheśvara, yogin and layman alike, to paradise, the City of Siva at ´ the top of the universe (SPBh 183). 
 
-The day arrived when the composition of the Purān. a was concluded and the text could be copied into a carefully prepared book, a pustaka, that could be offered to the Great God and donated to the king and the community of the Māheśvaras. As usual when a work of such magnitude was completed, a solemn occasion had to be found when parts of the work could be recited and the book could be consecrated and ritually entrusted to a temple. Such an occasion was King Hars.a’s ‘arena of charitable offerings’, a spectacular event that was staged every five years at the confluence of the Gaṅgā and Yamunā. The great āyatana or temple of Deva there would be an excellent repository. 
+The day arrived when the composition of the Purāṇa was concluded and the text could be copied into a carefully prepared book, a pustaka, that could be offered to the Great God and donated to the king and the community of the Māheśvaras. As usual when a work of such magnitude was completed, a solemn occasion had to be found when parts of the work could be recited and the book could be consecrated and ritually entrusted to a temple. Such an occasion was King Hars.a’s ‘arena of charitable offerings’, a spectacular event that was staged every five years at the confluence of the Gaṅgā and Yamunā. The great āyatana or temple of Deva there would be an excellent repository. 
 
 The permission was obtaineḍIn the middle of Hars.a’s reign, when he was at the pinnacle of power, a great assembly of feudatories, Sraman ´ . as, and Brah mins, convened in Kanyakubja around the beginning of the New Year, in prepa ration of the quinquennial event. The procession to Prayāga and the festivities there were part of the Festival of Spring in the month of Caitra. The king rode on his magnificent elephant Darpaśāta towards Prayāga, scattering pearls and other riches, while dressed as Indra. His mobile court offered splendid opportu nities for staging theatrical productions, first and foremost, of course, those of 
 
@@ -3819,13 +3819,13 @@ The permission was obtaineḍIn the middle of Hars.a’s reign, when he was at t
 
 
 
-31 / Composition and Spread of the Skandapurān. a 607 
+31 / Composition and Spread of the Skandapurāṇa 607 
 
-his own. The S¯utradhāra in the Ratnāvalī and Priyadarśikā introduces Hars.a’s plays: 
+his owṇThe S¯utradhāra in the Ratnāvalī and Priyadarśikā introduces Hars.a’s plays: 
 
 Today, on the occasion of the Spring Festival, I have been respectfully called by the assembly of kings, which has convened from all quarters of the world, and which is subservient to the lotus-feet of King Srī-Hars ´ .adeva. I have been addressed as follows: ‘We have heard by hearsay that a play entitled Ratnāvalī, which is embellished by an unprecedented arrangement of the material, was composed by our lord Srī-Hars ´ .a, but we have not yet seen it performed.’ 8 
 
-The play turned out to be a great success, and would stand the test of time. But Hars.avardhana was too great a king to hear only his own voice. A date for the first recitation of the Skandapurān. a was agreed on. The S¯uta and his team were offered their platform. In order to sustain the illusion of its being a work from time immemorial, an essential feature of the genre of Ancient Lore, a professional reader, a pustakavācaka, was asked to recite it. The first presentation of the work went ahead before an audience including the king, courtiers, sādhus, monks, literati of all sorts, pandits and a selection of educated Māheśvaras. It was a great tamāśā, going by the consolidated words of the S¯uta and his fellow kavi, Bān. a: 
+The play turned out to be a great success, and would stand the test of time. But Hars.avardhana was too great a king to hear only his own voice. A date for the first recitation of the Skandapurāṇa was agreed oṇThe S¯uta and his team were offered their platform. In order to sustain the illusion of its being a work from time immemorial, an essential feature of the genre of Ancient Lore, a professional reader, a pustakavācaka, was asked to recite it. The first presentation of the work went ahead before an audience including the king, courtiers, sādhus, monks, literati of all sorts, pandits and a selection of educated Māheśvaras. It was a great tamāśā, going by the consolidated words of the S¯uta and his fellow kavi, Bāṇa: 
 
 The sages, assembling in Prayāga to bathe in the confluence of the Ga˙ngā and Yamunā on the day of full moon, see the Singer of Ancient Lore coming towards them to pay his respects. 
 
@@ -3833,7 +3833,7 @@ Dressed in white silk made in Pun. ḍra, his forehead marked by a tilaka consis
 
 He pauses for a moment before he places, on a desk made of reed stalks that is put in front of him, a pustaka, which, although its wrapping has been removed by that time, is still wrapped, as it were, in the halo of his nails, which shine softly like the fibres of a lotus. 
 
-They ask him about the birth of Kārttikeya, a story that equals the Mahābhārata and surpasses the Purān. a, both of which he had recited in the Naimis.a forest on the occasion of a brahmasattra. 
+They ask him about the birth of Kārttikeya, a story that equals the Mahābhārata and surpasses the Purāṇa, both of which he had recited in the Naimis.a forest on the occasion of a brahmasattra. 
 
 Then, while he assigns two places behind him to two flautists, Madhukara, ‘the bee’, and Pārāvata, ‘the turtle-dove’, his close associates, he turns over the fron tispiece, takes a small bundle of folios, and announces the story of the birth of Skanda, of his friendliness towards brahmins, his glory and his heroism, greater than that of the gods. 
 
@@ -3851,17 +3851,17 @@ By his chanting he enchants the hearts of his audience with sweet intonations, e
 
 
 
-The performance received favourable reactions. After having done their ritual duties, attended the great potlatch ceremony at the confluence, and paid obei sance to the Great God in his temple and the king in his court, the S¯uta and his entourage returned to Vārān. asī. More copies of the book were produceḍSmall emendations were made and the first transcriber’s faults slipped in. The different versions of the text were born. 
+The performance received favourable reactions. After having done their ritual duties, attended the great potlatch ceremony at the confluence, and paid obei sance to the Great God in his temple and the king in his court, the S¯uta and his entourage returned to Vārāṇasī. More copies of the book were produceḍSmall emendations were made and the first transcriber’s faults slipped iṇThe different versions of the text were born. 
 
-The subsequent transmission and distribution of the Purān. a over various centres of the Māheśvaras added more flaws. The copying took place in focal points of Sanskrit learning, to the west and the east of Vārān. asī. In Maga dhā, some Pāśupata ācāryas were not entirely satisfied with the text. They missed in particular an account of the Lakulīśa tradition in their own country, and, in general, they felt that the holy places in the east and in the north, in Magadhā, Orissa and Nepal, had not been done justice. They decided to amend this shortcoming by inserting an additional list of tīrthas in an adhyāya that appeared to be the right place for it. 10 
+The subsequent transmission and distribution of the Purāṇa over various centres of the Māheśvaras added more flaws. The copying took place in focal points of Sanskrit learning, to the west and the east of Vārāṇasī. In Maga dhā, some Pāśupata ācāryas were not entirely satisfied with the text. They missed in particular an account of the Lakulīśa tradition in their own country, and, in general, they felt that the holy places in the east and in the north, in Magadhā, Orissa and Nepal, had not been done justice. They decided to amend this shortcoming by inserting an additional list of tīrthas in an adhyāya that appeared to be the right place for it. 10 
 
 While these processes were underway, the political situation in India changed dramatically. What a few years earlier had still seemed far away or down right impossible, happeneḍHars.a’s empire collapseḍChaos prevailed all over northern India, whereas the Northeast was confronted by an unprecedented military invasion from Nepal and Tibet. 
 
-Magadhā was the first country in which order was restored under the author ity of the dynasty of the Later Guptas. The daughter of Adityagupta married ¯ the Maukhari prince Bhogavarman, a wise move, contributing significantly to political stability. And while the kingdoms of Kanyakubja, Pun. d.ra and Kāma r¯upa were still in disarray, the Gupta House of Magadhā consolidated its power further by re-establishing good relations with its northern neighbour, the Lic chavi kingdom of Nepal. A daughter born of the marriage with the Maukhari prince, Vatsadevī, was married off to the Licchavi king Sivadeva. ´ 
+Magadhā was the first country in which order was restored under the author ity of the dynasty of the Later Guptas. The daughter of Adityagupta married ¯ the Maukhari prince Bhogavarman, a wise move, contributing significantly to political stability. And while the kingdoms of Kanyakubja, Puṇd.ra and Kāma r¯upa were still in disarray, the Gupta House of Magadhā consolidated its power further by re-establishing good relations with its northern neighbour, the Lic chavi kingdom of Nepal. A daughter born of the marriage with the Maukhari prince, Vatsadevī, was married off to the Licchavi king Sivadeva. ´ 
 
 During the last two decades of the seventh century, relations with Nepal be came close and cultural exchange between the two countries intensifieḍPāśu pata yogins and ācāryas wandered from Magadhā into Nepal to visit the great shrine of Paśupatinātha, which had developed into a state sanctuary and re ceived substantial financial support from Vatsadevī and her Nepalese husbanḍThe priesthood of this temple was firmly in the hands of a local branch of Pāśupatas. They were happy with the growing reputation of their temple. It brought them pilgrims from afar and their coffers filled accordingly. At the same time the intensive traffic kept them up-to-date with new religious devel opments and informed about the latest literary productions. 
 
-Thus the reputation of the Skandapurān. a spread to Nepal, and friends in Magadhā were asked for a copy. They brought one, naturally a manuscript that contained the insertion mentioning Paśupatinātha in Nepāla. The new acquisition was treasureḍIn order to preserve the text, the manuscript was 
+Thus the reputation of the Skandapurāṇa spread to Nepal, and friends in Magadhā were asked for a copy. They brought one, naturally a manuscript that contained the insertion mentioning Paśupatinātha in Nepāla. The new acquisition was treasureḍIn order to preserve the text, the manuscript was 
 
 10 SPS 167.163–87. 
 
@@ -3871,17 +3871,17 @@ Thus the reputation of the Skandapurān. a spread to Nepal, and friends in Magad
 
 
 
-31 / Composition and Spread of the Skandapurān. a 609 
+31 / Composition and Spread of the Skandapurāṇa 609 
 
-copied in the century that followeḍAnd so it happened that on the twelfth day of the bright half of the month of Caitra in the year 234 (= ad 810/11) a scribe in Nepal could complete his work on the Skandapurān. a, a labour that he had undertaken for the sake of the perfection of all beings. It would become our manuscript S1. And, if it has not contributed to our perfection, we ourselves are the only ones to blame. 
+copied in the century that followeḍAnd so it happened that on the twelfth day of the bright half of the month of Caitra in the year 234 (= ad 810/11) a scribe in Nepal could complete his work on the Skandapurāṇa, a labour that he had undertaken for the sake of the perfection of all beings. It would become our manuscript S1. And, if it has not contributed to our perfection, we ourselves are the only ones to blame. 
 
-I began my lecture today with a quote from Anandavardhana’s ¯ Dhvanyāloka: ‘In the boundless universe of literature the author alone is goḍIn it the world revolves as per his liking.’ 11 The scenario presented here is indeed to my liking, but as you have, no doubt, understood, it is just one possible scenario among others. I hope that the reader can appreciate it for what it is and will not lose sight of its speculative nature. Nevertheless, it is the most plausible one that I can come up with after twenty years of study of the text and context of the Skandapurān. a. It was a work of the longue dur´ee, too long maybe for modern adepts of bibliometrics, but not so for building a dedicated team of fellow students. A day like this proves that I am right at least in that respect. 
+I began my lecture today with a quote from Anandavardhana’s ¯ Dhvanyāloka: ‘In the boundless universe of literature the author alone is goḍIn it the world revolves as per his liking.’ 11 The scenario presented here is indeed to my liking, but as you have, no doubt, understood, it is just one possible scenario among others. I hope that the reader can appreciate it for what it is and will not lose sight of its speculative nature. Nevertheless, it is the most plausible one that I can come up with after twenty years of study of the text and context of the Skandapurāṇa. It was a work of the longue dur´ee, too long maybe for modern adepts of bibliometrics, but not so for building a dedicated team of fellow students. A day like this proves that I am right at least in that respect. 
 
-Western indologists usually leave the pre-modern history of the Subconti nent to their Indian colleagues. For this there are no good arguments, espe cially not, if we realize that classical Indian culture and religion cannot be fully comprehended without situating them in their proper historical and geograph ical context. I am fortunate in having two friends who share this view with me. Michael Willis, the active curator of South Asia at the British Museum, and Ellen Raven, just as active, working in the University of Leiden. Walking together in the field, or down in the storage rooms of the BM, Michael has always surprised me with cute and innovative insights. They have influenced my view of Gupta India to no small degree. 
+Western indologists usually leave the pre-modern history of the Subconti nent to their Indian colleagues. For this there are no good arguments, espe cially not, if we realize that classical Indian culture and religion cannot be fully comprehended without situating them in their proper historical and geograph ical context. I am fortunate in having two friends who share this view with me. Michael Willis, the active curator of South Asia at the British Museum, and Ellen Raven, just as active, working in the University of LeideṇWalking together in the field, or down in the storage rooms of the BM, Michael has always surprised me with cute and innovative insights. They have influenced my view of Gupta India to no small degree. 
 
 Without Ellen and her work I would have been a blind man in another field, one which forms a most important source of early Indian history and icono graphy, numismatics. Not only has Ellen opened my eyes for the beauty of the Gupta coinage, she has also always found time to answer my many queries and has been willing to help me out with splendid photos from her incredible database of Indian coins. But maybe most importantly, Ellen’s scholarly cau tiousness and meticulousness has often kept me from rash conclusions. As a pair, if I may say so, Michael and Ellen are a student-of-Indian-history’s best friends. 
 
-Our study of the Skandapurān. a has been team work from the early nineties of the last century. It is entirely to the credit of Harunaga Isaacson and Rob Adriaensen that this project got off the grounḍRob had been my mainstay and support from my college days. His spirit lives on in all we do until this very moment. And just as great a privilege it has been to have Haru among my students and soon as a great colleague and team member. The critical edition 
+Our study of the Skandapurāṇa has been team work from the early nineties of the last century. It is entirely to the credit of Harunaga Isaacson and Rob Adriaensen that this project got off the grounḍRob had been my mainstay and support from my college days. His spirit lives on in all we do until this very moment. And just as great a privilege it has been to have Haru among my students and soon as a great colleague and team member. The critical edition 
 
 11 Anandavardhana: ¯ Dhvanyāloka 3.42. 
 
@@ -3893,9 +3893,9 @@ Our study of the Skandapurān. a has been team work from the early nineties of t
 
 
 
-of the Skandapurān. a as it has crystallized over the long years of intensive collaboration is unthinkable without his genius. 
+of the Skandapurāṇa as it has crystallized over the long years of intensive collaboration is unthinkable without his genius. 
 
-One of the wonders of my career has been that time and again generations of students showed the interest, capacity, and stamina to join our work on the world of the Purān. a. Yuko Yokochi, Peter Bisschop and Natasja Bosma, you have brought the kalpavr.ks.a into blossom. Without your studies hardly a word of what I have said this afternoon could have been spoken. To quote an old love of mine, the philosopher Aristotle: ‘In the case of all things which have several parts and in which the whole is not, as it were, a mere heap, but the totality is something besides the parts, there is a cause of unity; [. . . ].’ 12 This cause of unity, I would like to argue, is the form (           ) of scholarship that you embody. I am deeply obliged. 
+One of the wonders of my career has been that time and again generations of students showed the interest, capacity, and stamina to join our work on the world of the Purāṇa. Yuko Yokochi, Peter Bisschop and Natasja Bosma, you have brought the kalpavr.ks.a into blossom. Without your studies hardly a word of what I have said this afternoon could have been spokeṇTo quote an old love of mine, the philosopher Aristotle: ‘In the case of all things which have several parts and in which the whole is not, as it were, a mere heap, but the totality is something besides the parts, there is a cause of unity; [. . . ].’ 12 This cause of unity, I would like to argue, is the form (           ) of scholarship that you embody. I am deeply obliged. 
 
 12 Aristotle, Metaphysica, VIII 1045a 8–11:                     Translation W.ḍRoss. 
 
