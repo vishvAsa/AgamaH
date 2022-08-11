@@ -33,7 +33,7 @@ distribution, and reproduction in any medium, provided the original
 
 author(s) and source are credited. 
 
-Research and production of this book have been made possible by financial support from:   the European Research Council (ERC Project no. ) 
+Research and production of this book have been made possible by financial support from:   the European Research Council
 
 J. Gonda Foundation, Royal Netherlands Academy of Arts and Sciences 
 
