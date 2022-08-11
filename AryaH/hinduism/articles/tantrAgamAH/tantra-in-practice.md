@@ -790,9 +790,7 @@ White, David Gordon (1996). The Alchemical Body: Siddha Traditions in Medieval I
 
 ## Gurus and Adepts 
 
-1  
-
-The Tantric Guru  
+### 01 The Tantric Guru  
 
 Andre Padoux  
 
@@ -994,9 +992,7 @@ After having enumerated different kinds of gurus, the chapter ends as follows:
 
 133. Thus have I told you briefly the qualities of the guru and of the disciple,  O Mistress of the Kula. What else do you wish to hear? 
 
-2  
-
-King Kunji's Banquet  
+### 02 King Kunji's Banquet  
 
 Matthew I. Kapstein  
 
@@ -1534,9 +1530,7 @@ Bring all creatures to the stage of perfection!
 
 The small text of the instructions of The Garland of Gems is now concluded. 
 
-3  
-
-Interviews with a Tantric Kali Priest:  
+### 03 Interviews with a Tantric Kali Priest:  
 
 Feeding Skulls in the Town of Sacrifice  
 
@@ -1690,9 +1684,9 @@ Further Reading
 
 For further information on Sakta Tantra in Bengal, see Narendranath Bhattachar yya, History of the Tantric Religion (New Delhi: Manohar, 1982); and June Mc Daniel, The Madness of the Saints (Chicago: University of Chicago Press, 1989). 
 
-4  
+### 04 A Parody of the Kapalikas in the Mattavilasa  
 
-A Parody of the Kapalikas in the Mattavilasa  David N. Lorenzen  
+David N. Lorenzen  
 
 The Mattavilasa is a one-act comic farce written in Sanskrit and Prakrit and at tributed to a Pallava ruler of south India named Mahendra-varman, who ruled  from his capital at Kanchi from about 600 to 630 C.E. The principal character in  the play is a drunken Kapalika adept named Satyasoma.  
 
@@ -2378,9 +2372,7 @@ And rule for as long as the sun and moon exist. (23)
 
 Here ends the farce entitled Drunken Games 
 
-5  
-
-A Trance Healing Session with Mataji  
+### 05 A Trance Healing Session with Mataji  
 
 Kathleen M. Erndl  
 
@@ -2977,9 +2969,7 @@ Some stay awhile to chat with her, ask advice, or seek a blessing for their chil
 
 ## Kings and Priests 
 
-6  
-
-The Consecration of the Monastic Compound at  Mount Koya by Kukai  
+### 06 The Consecration of the Monastic Compound at  Mount Koya by Kukai  
 
 David L. Gardiner  
 
@@ -3121,9 +3111,7 @@ With the sincerest of hearts I invoke the palace of the Three Jewels, our most  
 
 dali bodhisattva and the two Medicine King bodhisattvas who deliver from  suffering, along with their holy assemblies, Vajra-garbha-raja bodhisattva and  his holy assembly, Brahma, Indra, the four Deva kings, the Nagas - all the  deities and holy beings who protect the Dharma - I implore you all to enter  this place of religious practice to assure the success of these rites. Please accept  my request with pity. 
 
-7  
-
-Praises of the Drunken Peacocks  
+### 07 Praises of the Drunken Peacocks  
 
 Richard H. Davis  
 
@@ -3567,9 +3555,7 @@ Wise in the Pasupata philosophy of the Self.
 
 Daily enlightening those who had fallen into the deep darkness,  Their fame ripening as they served others with the gift of vision,  the splendor of their commands carried by kings on their heads - They moved about honored by the best sages and the people. 
 
-8  
-
-Precepts for an Emperor  
+### 08 Precepts for an Emperor  
 
 Allan G. Grapard  
 
@@ -3805,7 +3791,7 @@ Finally, when one looks at the preceding nine stages of the mind with pro found 
 
 ## Devotees and Deities 
 
-9  
+### 09 Raising Snakes in Bengal
 
 Raising Snakes in Bengal: The Use of Tantric Imagery  in Sakta Poetry Contests  
 
@@ -4621,8 +4607,7 @@ like a drum.
 
 RJR no. 320 
 
-10  
-
+### 10 The Wedding of Siva and the Goddess
 The Wedding of Siva and the Goddess  
 
 in the Kulalikamnaya  
@@ -5001,9 +4986,7 @@ The Venerable Kubjika spoke:
 
 39. "[Such realization] comes to pass by his mantras and ritual instruction, by  his yoga; [in short,] his traditional authority. Dear Lord, please relate this all  in a relaxed manner, but [if possible] within one session." 
 
-11  
-
-An Advertised Secret: The Goddess Taleju  and the King of Kathmandu  
+### 11 An Advertised Secret: The Goddess Taleju  and the King of Kathmandu  
 
 Bronwen Bledsoe  
 
@@ -5213,9 +5196,7 @@ Every single fault of mine, overlook it! O sea of compassion, O Devi Kali!
 
 Thus ends the Sarvaparadhastotra composed by him who excels in all fields of  expertise, including war, book-learning, and music, the ruler of great rulers,  the lord of Nepal, the great scholar, the lord of the circle of all kings, the  supreme king of kings, the most worshipful poet-king, Jaya Pratapa Malla. 
 
-12  
-
-Tantric Rites in Antal's Poetry  
+### 12 Tantric Rites in Antal's Poetry  
 
 D. Dennis Hudson  
 
@@ -6217,9 +6198,7 @@ Never to leave.
 
 ## Traditions in Transition and Conflict
 
-13  
-
-The Jain Monk Jinapati Suri Gets the Better  of a Nath Yogi  
+### 13 The Jain Monk Jinapati Suri Gets the Better  of a Nath Yogi  
 
 Paul Dundas  
 
@@ -6329,9 +6308,9 @@ At this, the senior monks became deeply despondent, for none of them had  any ma
 
 In the morning, while the senior monks and preceptors were expounding  the scriptures, Jinapati went to the temple and played with the children who  surrounded him. The yogi once again announced that he had immobilized the  image. But then Jinapati threw magically consecrated powder on his head and  so immobilized the yogi in turn. The entire Jain community assembled and the  installation ceremony was carried out to the accompaniment of praise of the  power of its teacher, even though he was so young. The yogi said, "Let me go.  Have pity." Jinapati replied, "Hand over the jewel from my teacher's head that  you took in Delhi." The yogi did so and said, "My dear sir! Take this source  of magic. However, a spell of the sort I have employed with it only succeeds if  betel nut is used." Jinapati replied, "We Jains are not allowed to chew betel  nut, because it is the equivalent of flesh. I do not care whether the spell is  successful or not." Then the yogi spat betel nut from his mouth and said,  "Worker of magic spells! Go back to the underworld where you came from.  There is nobody else in this world who can possess you." And the jewel, the  source of magic, went straight to the underworld. 
 
-14  
+### 14 Longchenpa and the Possession of the Dakinis  
 
-Longchenpa and the Possession of the Dakinis  David Germano and Janet Gyatso  
+David Germano and Janet Gyatso  
 
 Lay communities of itinerant yogins and yoginis have been a vital dimension of  Tibetan Buddhist culture from at least the ninth century onward. These com munities were almost always irreducibly Tantric in character, in their ritual and  contemplative practices, their textual traditions, and the very structure of their  communal life. Although much of our information about early Tantric Buddhist  . communities in India and Tibet is fragmentary and heavily mythologized, detailed  biographical and historical narratives that emerged in in later centuries in Tibet  give a fuller portrayal of the nature of these communities, and afford us a glimpse  of actual male-female relationships. We have chosen to translate a depiction of  the fourteenth-century Tibetan saint Longchenpa's (Klong chen pa, 1308-1363)  ritual empowerment of a group of Tibetan yogins and yoginis into esoteric Tantric  practices. The action portrayed here occurred in the spring of 1339. The work is  signed by Longchenpa himself in the colophon and is specifically referred to as  his composition in his own catalogue to The Seminal Quintessence of the Dakinis,  which is the larger cycle of his texts in which it is found. It refers to him through 
 
@@ -6753,7 +6732,7 @@ seeched him, "We are bound to your heart-mind! Please look after us com passiona
 
 The Luminous Web of Precious Visions is set forth here by Yogi Pema Ledrel tsel - the one illuminated by the light rays of the sun, who is the glorious  Oddiyana Master [Padmasambhava] - through summarizing a portion of the  chronicle of the manifest emergence of the profound Treasures. It is completed. 
 
-15  
+### 15 The Anonymous Agama Prakasa
 
 The Anonymous Agama Prakasa: Preface to  a Nineteenth-Century Gujarati Polemic  
 
@@ -6959,7 +6938,7 @@ ficed, it (the ceremony) is found in the candi-patha; while if a pumpkin is to  
 
 The ceremonies of the followers of the Vama-marga are ten times greater  than those of the adherents of the Vedas. In the Vama-marga, the puja (wor ship) is called yaga [yajna](sacrifice), the Kall-yaga is named as anusthana in  which a sacrifice is made by repeating a thousand names of Kali. In all the  ceremonies (anusthana), there is a great deal of nyasa, mudra, and japa. In some  ceremonies, red peppers and bhilana [?] are sacrificed. They make a doll of the  man by the name of whom the ceremony is undertaken and after piercing a  knife in the body of the doll and destroying its eyes, sacrifice it piece by piece  and recite mantras; this ceremony is called marana [killing] or abhicara-karman  (act of killing). The Syena-yaga mentioned in the Tantras is intended for killing  enemies but there are thousands of such ceremonies in the books of Agamas  and the credulous men consider them valid, while the heretical Mantra-sastris  take an undue advantage. Thus there is a great deal of mischief in this subject.  If you go to a city like Baroda and examine the state of the thing, there you  will see much of it. 
 
-16  
+### 16 Conversation between Guru Hasan Kabiruddm and  Jogi Kanipha
 
 Conversation between Guru Hasan Kabiruddm and  Jogi Kanipha: Tantra Revisited by the  
 
@@ -7171,9 +7150,7 @@ Thus, in various ways, the path to liberation was revealed to him by Guru  Hasan
 
 ## Tantric Paths 
 
-17  
-
-Emptiness and Dust: Zen Dharma  
+### 17 Emptiness and Dust: Zen Dharma  
 
 Transmission Rituals  
 
@@ -7295,9 +7272,7 @@ What is the great affair of the buddhas and ancestors like? You must guard  this
 
 - Copied on a good day, second moon, eighth year of Genwa Period [1622]  by Kyugai Donryo. 
 
-18  
-
-The Necklace of Immortality: A Seventeenth-Century  Vaisnava Sahajiya Text  
+### 18 The Necklace of Immortality: A Seventeenth-Century  Vaisnava Sahajiya Text  
 
 Glen A. Hayes  
 
@@ -7769,9 +7744,8 @@ This book, The Necklace of Immortality, is the vessel of Divine  Essence.
 
 330. The nectar of the celestial river Mandakini is delightful ambrosia.  Blessed Mukunda-dasa presents The Necklace of Immortality. 
 
-19  
-
-The Tibetan Practice of the Mantra Path  
+### 19 The Tibetan Practice of the Mantra Path
+The Tibetan Practice of the Mantra Path
 
 According to Lce-sgom-pa  
 
@@ -8037,9 +8011,7 @@ d. Practicing in this way brings about attainment of great stability in expe rie
 
 tained the fruit by adhering to the Mantra practice. The Guhyasamaja teaches:  "Buddhas and bodhisattvas and those who practice the highest Mantra practice  attain the unwavering [eighth bodhisattva level], the highest quality, by relying  on all desires." If those Mantra practices are not performed in accordance with  the timing of the practice, if the beginner performs the taming of engagement  of awareness or the "practice of the crazy yogin," that will later become a cause  for a lower rebirth. Therefore it is very important to perform in accordance  with the timing of the practice. In this way these four practices are conducive  to quick awakening. For example, when you urge a good horse on with the  conducive factor of a whip, it runs faster. Just so, you should obliterate your  ordinary body, speech, and mind with the conducive factor of practicing the  experience and realization in meditative equipoise. Thereby you quickly bring  about the attainment of the level of buddhahood. Therefore this is called the  conducive practice. 
 
-20  
-
-The Ocean of the Heart: Selections from  
+### 20 The Ocean of the Heart: Selections from  
 
 the Kularnava Tantra  
 
@@ -8349,11 +8321,7 @@ THE NATURE OF THE DIVINE AS MANTRA IMPARTS THE SUPREME GRACE
 
 17.102 This treatise called the Ocean of the Heart exists within the heart of  divine yoginis. 1 have illumined it today; and with true effort it should be kept  secret. 
 
-21  
-
-Tantric Buddhism and Chinese Thought  
-
-in East Asia  
+### 21 Tantric Buddhism and Chinese Thoughtin East Asia  
 
 Fabio Rambelli  
 
@@ -8633,9 +8601,7 @@ I vow to abide in peace in the sea of supreme purity.
 
 ## Rites and Techniques 
 
-11  
-
-Worship of the Ladies of the Dipper  
+### 22 Worship of the Ladies of the Dipper  
 
 Charles D. Orzech and James H. Sanford  
 
@@ -8837,9 +8803,8 @@ LADIE S OF THE DIPPE R 395
 
 Dipper will be delighted and therefore will protect you. You will long abide in  a superior station and you will continually receive peace and security. Ladies in-waiting, wives of high officials, concubines of the rear palaces, princes, the  multitude of officers, the three dukes, and the one hundred officials will be in  concord and will not act contrary to the Dharma. The people will multiply,  they will sow and reap bountifully, and the state will be at peace. There will  be no calamites, and incongruous events will not manifest themselves. Sickness  and death will not arise. Within the borders resentment and opposition and  the hordes of bandits will naturally flee and disperse. Therefore keep this  method secret! 
 
-23  
-
-The Great Wisdom Mother and the Good Tradition  Giacomella Orofino  
+### 23 The Great Wisdom Mother and the Good Tradition  
+Giacomella Orofino  
 
 The tradition of Bdud kyi good yul (literally, "the demon as the object that is to  be cut off) is a medieval Buddhist practice developed in Tibet in the eleventh  century. Becoming widespread soon after the so-called period of the "new trans lations" of the Indian Buddhist Tantras in Tibetan, it was developed directly in  Tibetan rather than imported from India and translated from Sanskrit. It is a  syncretic movement that marks the confluence of Indian Tantric Buddhist and  pre-Buddhist Tibetan elements that are clearly shamanic in nature, which together  gave rise to a religious phenomenon with an identity of its own. It is based on a  complex literature that incorporated texts on dance, chanting, ritual music, the  nature of mystic hallucinations and visions, geomancy, exorcism, curing plagues,  and funeral rites. The basic principle of the practice involves annihilating the ego  by severing or "cutting off demons.  
 
@@ -9475,11 +9440,7 @@ So be at ease in a free condition
 
 and let everything be, in its own natural state. 
 
-24  
-
-Worship of Bell-Ears the Great Hero,  
-
-a Jain Tantric Deity  
+### 24 Worship of Bell-Ears the Great Hero, a Jain Tantric Deity  
 
 John E. Cort  
 
@@ -9885,9 +9846,12 @@ WORSHI P O F BELL-EARS 433
 
 6. Auspicious garlands shine in every house, stopping harmful influences. May  peace and joy shine forth. Come at once to those who remember you.  
 
-7. Soul, Mahavir and the teachings reign; this the devotees sing to the world.  In every moment help Buddhisagar in the worldly affairs of his soul.25  
+7. Soul, Mahavir and the teachings reign; this the devotees sing to the world.  In every moment help Buddhisagar in the worldly affairs of his soul.
 
-Secret Yantras and Erotic Display for Hindu Temples  Michael D. Rabe  
+
+### 25 Secret Yantras and Erotic Display for Hindu Temples  
+
+Michael D. Rabe  
 
 The Silpa Prakasa is the only surviving text on Hindu architecture that was written  from an explictly Tantric perspective. Its author, Ramacandra, was an architect  who belonged to a community of Kaula brahmans residing in the Mahanadi delta  of Orissa. Composed during the reign of an obscure local raja, the text's date can  be approximated by the fact that its prescriptions are best exemplifed by one  particular temple. That is the Varahi temple at Chaurasi, located midway between  the great temple towns of Bhuvaneshvar and Puri, and assigned on stylistic  grounds to the early eleventh century.  
 
@@ -10107,9 +10071,7 @@ This is the reason that images of erotic play [should hide] the yantra's align m
 
 539. The considered opinion among tantrikas is that erotic images should  adorn upper panels on pilasters of the exterior temple wall. There erotic sculp ture panels should be mounted in order to delight the general public. 
 
-26  
-
-The Six Rites of Magic  
+### 26 The Six Rites of Magic  
 
 Gudrun Buhnemann  
 
@@ -10503,9 +10465,9 @@ CONCLUDING VERSE
 
 I worship that Brahman, the all-pervading Lord who, in the form of various  deities, grants man [fulfillment of his] desire. (Verse 102) 
 
-27  
+### 27 The Worship of Kali According to the Todala Tantra  
 
-The Worship of Kali According to the Todala Tantra  Sanjukta Gupta  
+Sanjukta Gupta  
 
 To many Hindu Bengalis, Kali is the most important divinity. Identified with the  great Goddess, Devi Bhagavati, she subsumes all other goddesses. She is held to  be equal in status to Durga and their annual festivals, which occur close to each  other, are celebrated with the greatest grandeur: feasts are held, gifts are ex 
 
@@ -10867,9 +10829,7 @@ First he performs the nyasa of the poet-sage, and so on, of his main mantra;  th
 
 circles his surroundings with [a fiery barrier]. Then he performs breath control  followed by dhyana on his mantra deity and then mentally performs her wor ship. Then he prepares and places the pitcher of arghya water, and worships  the seat [of the Goddess]. On that he invokes the Goddess after having med itated on her image. Then he performs her ritual welcome, and so forth, fol lowed by establishing life in her symbol, jivanyasa or pranapratistha, and finally  worships the supreme Goddess. Then he worships the attendant deities Kali,  and so on, as well as the eight Saktis, Brahmi, and so on, along with their  bhairavas. Then having worshiped Mahakala he worships his guru's lineage as  well as the Goddess's attributes and weapons such as the sword. This is fol lowed by a repeat of the worship of the Goddess. Then the foremost of all  worshipers practices breath control before performing his japa. He dedicates  the [merit of his] japa to the Goddess's hand. He performs the concluding  breath control, prostrates himself, recites the Goddess's panegyric and kavaca  and causes the special arghya to be offered. He then dedicates himself [to the  Goddess] and bids her farewell with the gesture of resorption. He draws a  diagram on his southwestern side and worships Ucchistacandali. In conclusion,  he partakes of some of the offered food and then he may do as he pleases. 
 
-28  
-
-Ritual Manual for the Protective Fire Offering  Devoted to Manjusri, Chuin Lineage  
+### 28 Ritual Manual for the Protective Fire Offering  Devoted to Manjusri, Chuin Lineage  
 
 Richard K. Payne  
 
@@ -11485,9 +11445,7 @@ Next, declaration, ring the gong.
 
 "Solely requesting that the worldly devas return to their original seats."  The above finishes the homa. 
 
-29  
-
-The Purification of the Body  
+### 29 The Purification of the Body  
 
 Gavin Flood  
 
@@ -11737,9 +11695,7 @@ Here ends the tenth chapter of the Jayakhyasarhhita of the Pancaratra, called  t
 
 ## Yoga and Meditation 
 
-30  
-
-A Tantric Meditation on Emptiness  
+### 30 A Tantric Meditation on Emptiness  
 
 Donald S. Lopez, Jr.  
 
@@ -12007,11 +11963,7 @@ May this pure prayer be realized by the power of the blessings of the con queror
 
 This cluster of grain of achievements, a prayer to teachers of the dear lineage  of blessings, was written by the glorious bLo bzang grags pa of rGyal khams,  who has heard much, at O' de gung rgyal of Lha zhol, the king of snow moun tains in the snowy range. 
 
-31  
-
-Japanese Tantra, the Tachikawa-ryu,  
-
-and Ryobu Shinto  
+### 31 Japanese Tantra, the Tachikawa-ryu,  and Ryobu Shinto  
 
 Bernard Faure  
 
@@ -12179,9 +12131,9 @@ The Ise shosho Nihongi yushiki honsho nin denki passage translated above is take
 
 Further Reading  
 
-Additional sources on Japanese Tantra and the Tachikawa-ryu include Bernard  Faure, The Red Thread: Buddhist Approaches to Sexuality (Princeton: Princeton Uni versity Press, 1998); Michel Strickmann, Mantras et mandarins: Le bouddhisme  tantrique en Chine (Paris: Gallimard, 1996); Susan Blakeley Klein, "Allegories of  Desire: Poetry and Eroticism in Ise Monogatari Zuino" Monumenta Nipponica 52.4  (1997): 441-65; James H. Sanford, "Wind, Waters, Stupas, Mandalas: Fetal Bud dhahood in Shingon," Japanese Journal of Religious Studies 21.1-2 (1997): 1-38;  and Sanford, "The Abominable Tachikawa Skull Ritual," Monumenta Nipponica  46.1 (Spring 1991), pp. 1-15.32  
+Additional sources on Japanese Tantra and the Tachikawa-ryu include Bernard  Faure, The Red Thread: Buddhist Approaches to Sexuality (Princeton: Princeton Uni versity Press, 1998); Michel Strickmann, Mantras et mandarins: Le bouddhisme  tantrique en Chine (Paris: Gallimard, 1996); Susan Blakeley Klein, "Allegories of  Desire: Poetry and Eroticism in Ise Monogatari Zuino" Monumenta Nipponica 52.4  (1997): 441-65; James H. Sanford, "Wind, Waters, Stupas, Mandalas: Fetal Bud dhahood in Shingon," Japanese Journal of Religious Studies 21.1-2 (1997): 1-38;  and Sanford, "The Abominable Tachikawa Skull Ritual," Monumenta Nipponica  46.1 (Spring 1991), pp. 1-15.
 
-Assorted Topics of the Great Completeness by  Dodrupchen III  
+### 32 Assorted Topics of the Great Completeness by  Dodrupchen III  
 
 Anne Carolyn Klein  
 
@@ -12467,9 +12419,7 @@ Cyclic existence and nirvana are not separate.
 
 Due to the injunctions that came my way from the mouth of the precious  omnipresent Lama to do this I, Jigme, leaving aside elaborations such as the  use of scriptural quotations, amply applied whatever I remembered. 
 
-33  
-
-On the Seal of Sambhu: A Poem  
+### 33 On the Seal of Sambhu: A Poem  
 
 by Abhinavagupta  
 
@@ -12809,11 +12759,7 @@ not originate. During the moment all phenomena disintegrate they do not origi na
 
 moments of origination, abiding, and disintegration are not identical.  However, you might say: In sequence, the moment of abiding arises from  the moment of origination, the moment of disintegration arises from the mo ment of abiding, and the moment of origination arises from the moment of  disintegration. But that is irrelevant from the point of view of reasoning about  the ultimate: here, another moment does not arise from a prior moment that  has not ceased; likewise, it does not arise from a moment that has ceased. For  example, a sprout does not arise from a seed that is destroyed, and a sprout does  not arise from a seed that is not destroyed. Similarly, since ultimate being does  not exist, there is no one moment, because one and many are contradictory.  With regard to "the supreme, perfect buddhahood in one moment that de velops all the moments" [Namasangiti 141cb]: Being first fully awakened in a  moment of supreme imperishable bliss, one develops the 21,600 moments of  supreme imperishable bliss. After that, when all moments are nonexistent, the  supreme nondual yoga of the buddhas - separate from one and many - is ul timate because it is separate from being and nonbeing. As long as there is  worldly being, phenomena are discriminated by means of one and many be cause of the appearance of momentary mind. When mind is separate from  momentary phenomena, it is called "devoid of own-being."  Therefore, the Bhagavan said that the position devoid of own-being is a  nonposition. So-called "positions" are: existent/nonexistent, being/nonbeing,  is/is not, one/many, eternity/annihilation, existence/nirvana, form/nonform,  sound/nonsound, moment/nonmoment, desire/nondesire, hatred/nonhatred,  delusion/nondelusion. These and others are positions because they are mutu ally dependent. The buddhas' nonfixated nirvana that is separate from this  position is devoid of own-being. Gnosis that is separate from one and many  moments is called "reality" by the victorious buddhas. 
 
-35  
-
-Jain Tantra: Divinatory and Meditative Practices  in the Twelfth-Century Yogasastra  
-
-of Hemacandra  
+### 35 Jain Tantra: Divinatory and Meditative Practices  in the Twelfth-Century Yogasastra of Hemacandra  
 
 Olle Qvarnstrom  
 
@@ -12943,9 +12889,7 @@ through the middle path, the susumna channel. This and other additional prac tic
 
 The first letter [of the syllabary, a], should be placed in front [of the lotus]  and the final letter [ha], at its center accompanied by [the letter] r - which is  spotless as snow - a pleasant crescent, and a dot (m). This holy word, arham,  which brings one in contact with the essence of life, [should first be uttered  in the mind] with a short [sound], then with a long, [then with a] protracted,  [then with a] subtle and [finally with an] excessively subtle sound. 
 
-36  
-
-Cheating Death  
+### 36 Cheating Death  
 
 Michael Walter  
 
