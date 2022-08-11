@@ -19,7 +19,7 @@ Siva Caturmukha ´
 
 The myth of Tilottamā 
 
-In chapter 203 of the Adiparvan ¯ of the Mahābhārata we are told that, in order to kill the Asuras Sunda and Upasunda, who could only be killed by each other, Viśvakarman, ordered by Brahmā, creates a woman of unparallelled beauty. The Grandfather tells her to go to the two demons and to seduce them in order that they may kill one and other in their rivalry over her. This beauty, named Tilottamā, promises to do so and takes her leave of the gods by making a circumambulatioṇAmong those gods is Bhagavat Maheśvara, who sits to the south (scil. of Brahmā) with his face turned east, whereas the gods sit to the north (of him) and the r̥ṣis all around (see below Textual Sources No. 2 (TS 2) v. 21). Only Indra and Bhagavat Sthāṇu (i.e. Maheśvara) are able to preserve their composure, but the latter’s excessive desire to watch her (draṣṭu kāmasya cātyartham. ) leads to the coming forth of three more faces (mukha), one directed towards the south, which is possessed of curling lashes (añcita pakṣmāntam), one to the west and one to the north, the latter two not further qualified (TS 2 vv. 22–24). In this way Sthāṇu Mahādeva became four-faced (caturmukhah.). Indra, on the other hand, issues forth eyes on all sides up to a thousand (TS 2 vv. 25–26). 
+In chapter 203 of the Adiparvan ¯ of the Mahābhārata we are told that, in order to kill the Asuras Sunda and Upasunda, who could only be killed by each other, Viśvakarman, ordered by Brahmā, creates a woman of unparallelled beauty. The Grandfather tells her to go to the two demons and to seduce them in order that they may kill one and other in their rivalry over her. This beauty, named Tilottamā, promises to do so and takes her leave of the gods by making a circumambulatioṇAmong those gods is Bhagavat Maheśvara, who sits to the south (sciḷof Brahmā) with his face turned east, whereas the gods sit to the north (of him) and the r̥ṣis all around (see below Textual Sources No. 2 (TS 2) v. 21). Only Indra and Bhagavat Sthāṇu (i.e. Maheśvara) are able to preserve their composure, but the latter’s excessive desire to watch her (draṣṭu kāmasya cātyartham. ) leads to the coming forth of three more faces (mukha), one directed towards the south, which is possessed of curling lashes (añcita pakṣmāntam), one to the west and one to the north, the latter two not further qualified (TS 2 vv. 22–24). In this way Sthāṇu Mahādeva became four-faced (caturmukhah.). Indra, on the other hand, issues forth eyes on all sides up to a thousand (TS 2 vv. 25–26). 
 
 The curling eyelashes apart, the myth in this form does not yet refer to dif ferent aspects of Siva that are represented by these faces, but his qualification ´ of ‘Post’ (sthāṇu) may hint at his ithyphallic nature. That the appellation ‘Sthāṇu’ may have a phallic connotation emerges from the ambiguous and rather obscure nirukti in MBh 7.173.92 (TS 5 v. 92): ‘Because he burns (/de stroys) when standing erect, and, because his standing (erect) is the arising of the vital breath, and, because his phallus is always standing, therefore is he known as “Post”.’ 1 
 
@@ -71,7 +71,7 @@ scribed by Kreisel in Die Siva-Bildwerke der ´
 
 Mathurā-Kunst as follows. 
 
-Als einziger der H¨aupter ist er ohne Ohr 
+Als einziger der Häupter ist er ohne Ohr 
 
 und Halsschmuck dargestellt. Der Haar 
 
@@ -79,11 +79,11 @@ ansatz ist nur als leichte Aufw¨olbung erkenn
 
 bar, das offenbar kurzgeschorene Haar liegt 
 
-ohne Zeichnung glatt am Sch¨adel—sofern 
+ohne Zeichnung glatt am Schädel—sofern 
 
 nicht ein Kahlkopf (muṇḍa) gemeint ist. Die 
 
-schmucklose Darstellung l¨aßt auf den aske 
+schmucklose Darstellung läßt auf den aske 
 
 tischen Charakter dieses Kopfes schließen, 
 
@@ -207,7 +207,7 @@ Due to this rich archaeological evidence of liṅga worship, some other data of 
 
 8 These five aspects, known in the scriptures of the Saiva Siddhānta as ‘the five Brahmans’, ´ are conceived of as being comprised in or as being the embodiment of Sadāśiva, an idea also reaching back to the Taittirīya Araṅyaka, which concludes the fifth formula of Īśāna with the words sadāśivom, glossed by Sāyaṇa as sa eva sadāśiva om. 
 
-9 Kreisel 1986, 21 n. 43: ‘Auffallend ist jedoch, daß im Epos die F¨unfgestalt Sivas fehlt.’ ´ 10 Kreisel 1986, Abb. A2a–b. 
+9 Kreisel 1986, 21 n. 43: ‘Auffallend ist jedoch, daß im Epos die Fünfgestalt Sivas fehlt.’ ´ 10 Kreisel 1986, Abb. A2a–b. 
 
 11 Kreisel 1986, Abb. 1a–c. 
 
@@ -385,7 +385,7 @@ This myth recurs in what we think is the original Skandapurāṇa, which we date
 
 25 MBh 7.172.88; 7.173.84; 13.14.101 f.; 13.146.17. 
 
-26 Gonda 1960, 256: ‘M¨oglicherweise ist dieser Phallus urspr¨unglich nicht mit dem Siva- ´ dienst verbunden gewesen, wie denn auch gebildete Kreise ¨ofters Bedenken gegen dessen Verehrung getragen haben.’ 
+26 Gonda 1960, 256: ‘M¨oglicherweise ist dieser Phallus ursprünglich nicht mit dem Siva- ´ dienst verbunden gewesen, wie denn auch gebildete Kreise ¨ofters Bedenken gegen dessen Verehrung getragen haben.’ 
 
 27 See Bakker & Adriaensen & Isaacson 1994. Bakker 2014. Above, pp. 185 ff., p. 469. 
 
@@ -799,7 +799,7 @@ The Satapathabrāhman ´ . a 11.5.4 is our earliest source for the ancient upana
 
 6 After this initiation—with or without delay (see below n. 11 on p. 508)—the ācārya teaches the Veda by making him repeat its quintessence, the Sāvitrī. 
 
-The importance attached to the position of pupil and teacher during the Veda instruction is apparent from the fact that it is singled out for specification in the Brāhmaṇa; there appear to be two different traditions. According to one tradition the student sits or stands at the right side (dakṣiṇatas) of the teacher, who, as is understood, is facing east. The position of the pupil is characterised by the term bulva/bulba. This word, apparently a hapax legomenon, is given by Mayrhofer ewa ṣv. as ‘etwa “seitw¨arts”’ (with the remark: ‘nicht klar’). Because of this sideway position, this tradition is rejected in the Brāhmaṇa, which opts for the alternative: the student should sit opposite the teacher looking at him from east to west. 2 
+The importance attached to the position of pupil and teacher during the Veda instruction is apparent from the fact that it is singled out for specification in the Brāhmaṇa; there appear to be two different traditions. According to one tradition the student sits or stands at the right side (dakṣiṇatas) of the teacher, who, as is understood, is facing east. The position of the pupil is characterised by the term bulva/bulba. This word, apparently a hapax legomenon, is given by Mayrhofer ewa ṣv. as ‘etwa “seitwärts”’ (with the remark: ‘nicht klar’). Because of this sideway position, this tradition is rejected in the Brāhmaṇa, which opts for the alternative: the student should sit opposite the teacher looking at him from east to west. 2 
 
 1 Cf. Bodewitz 2000, 22 f. 
 
@@ -881,7 +881,7 @@ pradakṣiṇam agniṁparītyopaviśati k 1 k anvārabdha ājyāhutīr hutvā p
 
 Words in bold face are literal quotations from the SBr 11.5.4.5, 14. Stenzler in his ´ translation (1878, 44) leaves dakṣiṇatas out altogether. Oldenberg in his translation (1886, 306) takes dakṣiṇatas as referring to the fire: ‘to the south (of the fire)’, which, since we are here concerned with a literal quote from the SBr, is certainly wrong. ´ 
 
-13 The Aśvalāyana ¯ gives the following procedure. The teacher, touched (by the pupil), after having poured (oblations of ghee into the fire), stands to the north of the fire, his face turned east; opposite of him, with his face turned west the other (AśvGS ¯ 1.20.2–3: samanvārabdhe hutv¯ottarato ’gneḥprāṅmukha ācāryo ’vatiṣṭhate k 2 k purastāt pratyaṅmukha itaraḥk 3 k ). Then, while pouring the water of his añjali into that of the pupil, the teacher consigns the pupil to Savitr̥and to Prajāpati. After this the pupil puts on fuel and touches the fire. Then, without mentioning another position, the text continues by saying that the pupil, while reciting mantras, ‘approaches (the teacher), bends his knee, touches (the feet of the teacher), and should say: “O lord, teach the Sāvitrī, O lord, recite”.’ (AśvGS 1.21.4: [. . . ] ¯ upasthāya jānv ācyopasaṁgr̥hya brūyād adhīhi bho sāvitrīṁbho3 anubrūhīti k 4 k ). Cf. Sā˙nkhāyanagr ´ .hyasūtra 2.5.8–12: 
+13 The Aśvalāyana ¯ gives the following procedure. The teacher, touched (by the pupil), after having poured (oblations of ghee into the fire), stands to the north of the fire, his face turned east; opposite of him, with his face turned west the other (AśvGS ¯ 1.20.2–3: samanvārabdhe hutvōttarato ’gneḥprāṅmukha ācāryo ’vatiṣṭhate k 2 k purastāt pratyaṅmukha itaraḥk 3 k ). Then, while pouring the water of his añjali into that of the pupil, the teacher consigns the pupil to Savitr̥and to Prajāpati. After this the pupil puts on fuel and touches the fire. Then, without mentioning another position, the text continues by saying that the pupil, while reciting mantras, ‘approaches (the teacher), bends his knee, touches (the feet of the teacher), and should say: “O lord, teach the Sāvitrī, O lord, recite”.’ (AśvGS 1.21.4: [. . . ] ¯ upasthāya jānv ācyopasaṁgr̥hya brūyād adhīhi bho sāvitrīṁbho3 anubrūhīti k 4 k ). Cf. Sā˙nkhāyanagr ´ .hyasūtra 2.5.8–12: 
 
 [. . . ] uttareṇāgnim upaviśataḥ| prāṅmukha ācāryaḥpratyaṅmukha itaro | adhīhi bho3 ity uktvā | ācārya oṁkāraṁprayujyāthetaraṁvācayati sāvitrīṁbho3 anu brūhīti | athāsmai sāvitrīm avāha tat savitur vareṇyam ity etām paccho ’rdharcaśo ’navānam k 5 k 
 
@@ -925,7 +925,7 @@ apareṇāgniṁdvayān darbhān pūrvāparān udagagrān str̥ṇāti | teṣu 
 
 The teacher consigns the pupil to several other deities. The teacher asks him to step on a stone (aśman) and to put fuel on the fire (BhGS 1.8). 
 
-Then the pupil makes a pradakṣiṇa around the fire, takes his seat at the right side (dakṣiṇatas), scil. of the teacher, while he turns to the north, touches (the feet of the teacher), and asks: ‘O lord, recite the Sāvitrī’. 18 The place where the teacher is seated is not again specified, but presumably he is still seated west of the fire facing east, that is the place where he performed the homa sacrifice, took the interview accompanied by the añjalis, and consigned the pupil to Prajāpati etc. This is corroborated by the Hiraṇyakeśigr̥hyasūtra.19 
+Then the pupil makes a pradakṣiṇa around the fire, takes his seat at the right side (dakṣiṇatas), sciḷof the teacher, while he turns to the north, touches (the feet of the teacher), and asks: ‘O lord, recite the Sāvitrī’. 18 The place where the teacher is seated is not again specified, but presumably he is still seated west of the fire facing east, that is the place where he performed the homa sacrifice, took the interview accompanied by the añjalis, and consigned the pupil to Prajāpati etc. This is corroborated by the Hiraṇyakeśigr̥hyasūtra.19 
 
 The sitting position of the preceptor and his audience 
 
@@ -1253,7 +1253,7 @@ He is seated on a white lotus, his colour is white, powerful, with white cloth a
 
 On this and other, predominantly late South-Indian texts Rao based his de scription, which was repeated without any significant change by almost all later indological writing on this subject. It may be significant to note, though, that in the above passage the southern orientation of the image is not mentioned. To substantiate his view, however, Rao wrote: 
 
-One account gives an explanation regarding the etymology of this name; it states that because Siva was seated ´ facing south when he taught the r̥ishis y¯oga and jñāna he came to be known as Dakshiṇāmūrti. This aspect of Siva is always ´ invoked by students of science and arts. 42 
+One account gives an explanation regarding the etymology of this name; it states that because Siva was seated ´ facing south when he taught the r̥ishis yōga and jñāna he came to be known as Dakshiṇāmūrti. This aspect of Siva is always ´ invoked by students of science and arts. 42 
 
 40 ṬṀP. Mahadevan (1980), The Hymns of Saṅkara ´ , p. 2 ff. Sam ´ . kara’s authorship of this hymn is doubtful, see Potter 1981, 317. 
 
@@ -1295,7 +1295,7 @@ A chacun des paliers des temples il faut disposer aux points cardinaux des (imag
 
 46 Harle 1986, 301: 
 
-All the principal images of the Brahmanical pantheon are represented in South India during the Col.a period. There is a particular predilection for Bhikṣāṭana, Siva as the ´ naked young ascetic, and for Siva as Daks ´ .iṇāmūrti, the expounder of yoga, music and the śāstras, who is always, where possible, facing south (dakṣiṇa means ‘south’, and although there is no very convincing explanation of the name, it may account in part for the popularity of this image in South India). 
+All the principal images of the Brahmanical pantheon are represented in South India during the Coḷa period. There is a particular predilection for Bhikṣāṭana, Siva as the ´ naked young ascetic, and for Siva as Daks ´ .iṇāmūrti, the expounder of yoga, music and the śāstras, who is always, where possible, facing south (dakṣiṇa means ‘south’, and although there is no very convincing explanation of the name, it may account in part for the popularity of this image in South India). 
 
 47 Mayamata 19.39–40 (Translation Bruno Dagens): 
 
@@ -1321,7 +1321,7 @@ This incongruity may be considered to have been solved when the image of the Dak
 
 The genesis of the iconic representation of the teaching Siva thus ended with ´ his ‘banishment’ outside the cultic sphere. The idea of the guru as the locus (sthāna) or support of the divinity was transferred onto the central cult object in the sanctum, the liṅga. Therewith the Dakṣiṇāmūrti on the southern outer temple wall lost its original ritual setting. It became part of the iconographic programme of the Siva temple. ´ 
 
-The process of transformation from cult concept into an iconic image seems to have been completed (in South India at least) by the tenth century (i.e. the early Col.a period), but may have started much earlier. An early textual testimony of this process is found in the Skandapurāṇa. It tells the myth of Tilottamā that we discussed above, pp. 498 f. When the nymph bows to Siva’s southern appearance ( ´ dakṣiṇāṁmūrtim. ), the face of the guru of the gods (mukhaṁsuraguros) emerged, ‘possessed of the colour of a languid cloud laden with water, having a ferocious voice, with dreadful teeth shining (in an open mouth), and the corners of the eyes bloodshot and glittering’ (SP 62.18– 19). The ‘incongruity’ is obviously not yet solved, since the description of this face suits the figure of Aghora/Bhairava, not that of the teacher or guru. 
+The process of transformation from cult concept into an iconic image seems to have been completed (in South India at least) by the tenth century (i.e. the early Coḷa period), but may have started much earlier. An early textual testimony of this process is found in the Skandapurāṇa. It tells the myth of Tilottamā that we discussed above, pp. 498 f. When the nymph bows to Siva’s southern appearance ( ´ dakṣiṇāṁmūrtim. ), the face of the guru of the gods (mukhaṁsuraguros) emerged, ‘possessed of the colour of a languid cloud laden with water, having a ferocious voice, with dreadful teeth shining (in an open mouth), and the corners of the eyes bloodshot and glittering’ (SP 62.18– 19). The ‘incongruity’ is obviously not yet solved, since the description of this face suits the figure of Aghora/Bhairava, not that of the teacher or guru. 
 
 pūrvāyāṁdvārapālau tu nandikālau ca vinyaset k 39 k 
 
@@ -1523,7 +1523,7 @@ gatāntair adhyavasitam atyāśramam idaṁvratam k
 
 26 / At the Right Side of the Teacher 525 
 
-Long ago, O Dakṣa, the Pāśupata yoga was created by me: that (tat, scil. yoga) is the eminent reward of properly practising that (tasya, scil. vrata), and that (yoga) shall be yours, O blessed one. Throw off the fever of (your) soul! 
+Long ago, O Dakṣa, the Pāśupata yoga was created by me: that (tat, sciḷyoga) is the eminent reward of properly practising that (tasya, sciḷvrata), and that (yoga) shall be yours, O blessed one. Throw off the fever of (your) soul! 
 
 In other words: Mahādeva instructs/initiates Dakṣa in the Pāśupata obser vance; this is the boon that will lead him eventually to the end of suffering (duḥkhānta), the Pāśupata yoga or union with God. 
 
@@ -1539,7 +1539,7 @@ Plate 116
 
 Nagarī: a Dakṣiṇāmūrti 
 
-(cf. MBh 13.17.18). Yoga in the Pāśupata system is defined by Kauṇḍinya ad PS 1.1 as ‘union with god’: ucyate yogam | atra ātmeśvarasaṁyogo yogaḥ| My interpretation differs from that of Mertens 1998, 76 f., who assumes a conflation of concepts: ‘Im selben Satz wird das pāśupatavrata als yoga bezeichnet (407); die beiden Begriffe tapas und yoga werden hier also synonym verwendet. F¨ur bestimmte Schichten des Mahābhārata ist die Vermischung beider Begriffe ¨ublich.’ However, no examples from the MBh are adduced to corroborate this contention. 
+(cf. MBh 13.17.18). Yoga in the Pāśupata system is defined by Kauṇḍinya ad PS 1.1 as ‘union with god’: ucyate yogam | atra ātmeśvarasaṁyogo yogaḥ| My interpretation differs from that of Mertens 1998, 76 f., who assumes a conflation of concepts: ‘Im selben Satz wird das pāśupatavrata als yoga bezeichnet (407); die beiden Begriffe tapas und yoga werden hier also synonym verwendet. Für bestimmte Schichten des Mahābhārata ist die Vermischung beider Begriffe üblich.’ However, no examples from the MBh are adduced to corroborate this contention. 
 
 55 Cf. MBh ibiḍl. 410: evam uktvā mahādevaḥsapatnīko vr̥ṣabhadvajaḥ| 
 
@@ -1725,7 +1725,7 @@ rājā śrīsupuṣpavarmā varṣa 56, tena nepālabhūmi dharmeṇa vr̥dhikr�
 
 14 Bāṇa gives a flowery description of this teacher (HC* 3, pp. 169–73). See also Bakker 2014, 78. 
 
-15 The Ga¨uḍavaho refers to Srīkan ´ . ṭha, as Siri¨aṁṭha (v. 484). Vākpatirāja describes it as the site where Janamejaya’s serpent sacrifice took place (vv. 472–484). Verse 485 makes it clear that Kurukṣetra is meant. 
+15 The Gaüḍavaho refers to Srīkan ´ . ṭha, as Siriäṁṭha (v. 484). Vākpatirāja describes it as the site where Janamejaya’s serpent sacrifice took place (vv. 472–484). Verse 485 makes it clear that Kurukṣetra is meant. 
 
 16 The Nāga or goblin/deity (vetāla), whose submission is sought, is evoked by the japa of the Mahāmantra named ‘Mahākālahr̥daya’ (HC* 3, pp. 178, 184 ff.). 
 
@@ -1989,7 +1989,7 @@ Figure 14
 
 Matrimonial alliances of the royal houses of North India in the 6th and 7th centuries 
 
-39 IA IX, 178 ff. Indraji & B¨uhler read 153 ( = ad 728); Verma & Singh 1994, 238 f. (see ibiḍpp. xlix f.). Verse 13 (Sārdūlavikrīd ´ . ita): 
+39 IA IX, 178 ff. Indraji & Bühler read 153 ( = ad 728); Verma & Singh 1994, 238 f. (see ibiḍpp. xlix f.). Verse 13 (Sārdūlavikrīd ´ . ita): 
 
 devī bāhubalāḍhyamaukharikulaśrīvarmacūḍāmaṇi khyātihrepitavairibhūpatigaṇaśrībhogavarmodbhavā | 
 
@@ -2017,7 +2017,7 @@ Historians are used to judge royal matrimonial alliances by their political im p
 
 41 A post-Gupta Lakulīśa image was found in Benisagar, southeastern Bihar (Panigrahi 1956, 3). Other Lakulīśa images in Bihar are reported in Mitra 1984, 116, n. 16. 
 
-42 See von Hin¨uber 2001, 141. 
+42 See von Hinüber 2001, 141. 
 
 43 EI XXVI, 246; Thaplyal 1985, 168. Cf. above, n. 3 on p. 527. 
 
@@ -2223,7 +2223,7 @@ Symeons’s entry into the city of Emesa
 
 We could continue to the yurodivyj ( rodivyi˘) of the Russian Orthodox Church, but it might be wise to return to the Pāśupata and to explain what is common to its tradition of seeking dishonour (avamāna) and apparently similar practices in the Greek and Christian traditions, and what is different. Common to all traditions, it would seem to me, is the feeling of ecstatic power, when freedom from all forms of (social) bondage is experienced, when the social ego is destroyed. It is the         and of which the Cynics speak, and which, for modern man, has been worded brilliantly by Thomas Mann in his Magic Mountain (Der Zauberberg): 
 
-Da seine Betrachtungen dumpf und verworren waren, so ist es schwer, sie zu pr¨a zisiereṇHaubts¨achlich schien ihm, daß die Ehre bedeutende Vorteile fur sich habe, ¨ aber die Schande nicht minder, ja daß die Vorteile der letzteren geradezu grenzenlo ser Art seieṇUnd indem er sich probeweise in Herrn Albins Zustand versetzte und sich vergegenw¨artigte, wie es sein musse, wenn man endg ¨ ultig des Druckes der Ehre ¨ ledig war und auf immer die bodenlosen Vorteile der Schande genoß, erschreckte den jungen Mann ein Gefuhl von w ¨ uster S ¨ ußigkeit, das sein Herz vor ¨ ubergehend ¨ zu noch hastigerem Gange erregte. 14 
+Da seine Betrachtungen dumpf und verworren waren, so ist es schwer, sie zu prä zisiereṇHaubtsächlich schien ihm, daß die Ehre bedeutende Vorteile fur sich habe, ¨ aber die Schande nicht minder, ja daß die Vorteile der letzteren geradezu grenzenlo ser Art seieṇUnd indem er sich probeweise in Herrn Albins Zustand versetzte und sich vergegenwärtigte, wie es sein musse, wenn man endg ¨ ultig des Druckes der Ehre ¨ ledig war und auf immer die bodenlosen Vorteile der Schande genoß, erschreckte den jungen Mann ein Gefuhl von w ¨ uster S ¨ ußigkeit, das sein Herz vor ¨ ubergehend ¨ zu noch hastigerem Gange erregte. 14 
 
 Kauṇḍinya describes at length the supernatural powers that the aspirant at tains in the course of his ascetic training. However, the Sūtras that form the introduction to his treatment of dishonour run: ‘He gives his bad karma to them and from them he takes their good karma.’ (PS 3.8–9). The provocations that apparently heap shame upon the practioner induce a transfer of merit: the provoked bourgeois, who is tricked into mistaking the ascetic for a madman, looses good karma due to his mistake, which karma is booked at the karma credit side of the Pāśupata: a sort of credit swap avant la lettre. This highly individualistic motive, or should we say immoral, selfish ideology, although still well recognizable in its present-day forms, makes the gospel of Kauṇḍinya stand out amongst its sort. 
 
@@ -2407,13 +2407,13 @@ Plate 123 Plate 124
 
 A¨ı Khanum: Heracles Mathurā: Heracles & Nemeian Lion 
 
-This is clear from, among other things, coins found of the Indo-Greek king Agathokles (c. 170 bc). They show two Indian deities, who have been identi fied as Vāsudeva (Kr̥ṣṇa), obverse, and Saṁkarṣaṇa (Balarāma), reverse. As H¨artel has observed, ‘these coins are the oldest examples at all of the pictorial representation of Hinduistic gods, a fact which cannot be emphasized enough’. 11 
+This is clear from, among other things, coins found of the Indo-Greek king Agathokles (c. 170 bc). They show two Indian deities, who have been identi fied as Vāsudeva (Kr̥ṣṇa), obverse, and Saṁkarṣaṇa (Balarāma), reverse. As Härtel has observed, ‘these coins are the oldest examples at all of the pictorial representation of Hinduistic gods, a fact which cannot be emphasized enough’. 11 
 
 9 Paul Bernard in Afghanistan 2008, 81 ff. 
 
 10 Karttunen 1997, 47, 279. 
 
-11 H¨artel 1987, 574. 
+11 Härtel 1987, 574. 
 
 
 
@@ -2489,7 +2489,7 @@ The four disciples
 
 Another major development (in addition to the invention of the figure of Lāguḍi) that took place in the 4th to 6th centuries is also attested by the Skandapurāṇa: Kuśika is no longer the only disciple. The number of disciples that is said to have been initiated by Lāguḍi himself has increased to four. These four are considered to have a semi-divine status; our text declares them to have sprung from the four faces of God (Parameśāna), out of His desire to bestow grace (anugraha) upon the world: 
 
-17 See Manfred Mayrhofer, EWA ṣv. ‘lakuṭa’: ‘Nicht erkl¨art’. 
+17 See Manfred Mayrhofer, EWA ṣv. ‘lakuṭa’: ‘Nicht erklärt’. 
 
 18 Turner, CDIAL ṣv. ‘lakuṭa’: ‘Ac. to J. Przyluski Pre-Aryan in sense “penis” is of same origin as lāṅgula &c ← Austro-as.; but prob. same word as “stick”.’ Cf. Mayrhofer, KEWA ṣv. 
 
@@ -2921,7 +2921,7 @@ S N Plates 141–142 Architrave of the gateway, facing east
 
 Reconstruction of the architrave of the gateway, facing east 
 
-The upper cross-beam had makara heads at each end with architectural representa tions on the cross-lintel that show dvibhūma Phāṁsanā structures [i.e. ‘tiered, pyra midal roof-type’] faced with candraśālās and with small, square, stone platforms sur porting globular āmalakas represented to either side of the upper bhūmi. Such units have been found at Bhūmarā and Sārnāth, are suggested at S¯ondani and earlier at Bilsad. , are still utilized on structures in Surāṣṭra in the seventh century, and contribute conceptually to the formation of the Nāgara superstructure, where they become in corporated as bhūmikhaṇḍas. 
+The upper cross-beam had makara heads at each end with architectural representa tions on the cross-lintel that show dvibhūma Phāṁsanā structures [i.e. ‘tiered, pyra midal roof-type’] faced with candraśālās and with small, square, stone platforms sur porting globular āmalakas represented to either side of the upper bhūmi. Such units have been found at Bhūmarā and Sārnāth, are suggested at Sōndani and earlier at Bilsad. , are still utilized on structures in Surāṣṭra in the seventh century, and contribute conceptually to the formation of the Nāgara superstructure, where they become in corporated as bhūmikhaṇḍas. 
 
 18 Bhandarkar op. cit. 125, Plate XIV(b) (probably upside-down). 
 

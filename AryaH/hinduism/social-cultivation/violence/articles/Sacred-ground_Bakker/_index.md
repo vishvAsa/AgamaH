@@ -36,7 +36,7 @@ Jonathan A. Silk (Leiden)
 
 VOLUME 20 
 
-The titles published in this series are listed at brill.com/gis 
+The titles published in this series are listed at brilḷcom/gis 
 
 
 
@@ -112,11 +112,11 @@ The Bhaktas . . . . . . . . . . . . . . . . . . . . . . . 16
 
 Epilogue . . . . . . . . . . . . . . . . . . . . . . . . . . . 20 2 Die Indische Herausforderung 
 
-Hegels Beitrag zu einer europ¨aischen kulturhistorischen Diskussion . . 23 Einleitung . . . . . . . . . . . . . . . . . . . . . . . . . . 23 Die Jahre 1820–1825 . . . . . . . . . . . . . . . . . . . . . 24 Neue Einsichten . . . . . . . . . . . . . . . . . . . . . . 28 
+Hegels Beitrag zu einer europäischen kulturhistorischen Diskussion . . 23 Einleitung . . . . . . . . . . . . . . . . . . . . . . . . . . 23 Die Jahre 1820–1825 . . . . . . . . . . . . . . . . . . . . . 24 Neue Einsichten . . . . . . . . . . . . . . . . . . . . . . 28 
 
 Die Jahre 1826–1831 . . . . . . . . . . . . . . . . . . . . . 30 Die Rezeption der Bhagavadgītā . . . . . . . . . . . . . . 31 
 
-Von Humboldts Bhagavadgītā Vortr¨age und Hegels Kritik . 34 
+Von Humboldts Bhagavadgītā Vorträge und Hegels Kritik . 34 
 
 Schlussbetrachtung . . . . . . . . . . . . . . . . . . . . . . 41 
 

@@ -19,7 +19,7 @@ Prologue
 
 In his monumental Geschichte Indiens Hermann Kulke depicts the relation ship between the Gupta and Vākāṭaka dynasties as basically an unproblematic one, an alliance that was dominated by the Guptas and secured a peaceful coexistence till their fall. 
 
-Vermutlich in der Phase der Vorbereitung seines Krieges gegen die Kshatrapa gab dann aber Candragupta seine Tochter dem K¨onig Rudrasena II. zur Ehe, um den R¨ucken f¨ur seinen Kampf im Westen frei zu habeṇRudrasena starb jedoch schon nach f¨unfj¨ahriger Regierung etwa im Jahre 390 ṇChr. Auf Candraguptas Rat hin ¨ubernahm daraufhin seine Tochter Prabhavatigupta die Regentschaft f¨ur ihre S¨ohne. W¨ahrend ihrer etwa zwanzigj¨ahrigen Regentschaft geriet das Vakataka Reich zunehmend unter direkten einfluß der Gupta und geh¨orte de facto bald zu deren Reichsverband. Zwar wurde die Unabh¨angigkeit der Vakatakas unter Pravarasena II. (ca. 410 bis 440 ṇChr.), von dem eine große Zahl Inschriften bekannt ist, wiederhergestellt. Doch hatte das Reich der Vakatakas aufgeh¨ort, eine potentielle Bedrohung f¨ur die Guptas zu seiṇBis zum Untergang der Guptas bestanden statt dessen ¨uberaus enge Beziehungen zwischen beiden Reichen, so daß man in der Geschichtsschreibung bisweilen sogar vom Vakataka-Gupta-Zeitalter spricht. Diese engen Beziehungen trugen wesentlich zur Ausbreitung der Gupta Kultur nach Zentralindien bei. (Kulke 1998, 114) 
+Vermutlich in der Phase der Vorbereitung seines Krieges gegen die Kshatrapa gab dann aber Candragupta seine Tochter dem K¨onig Rudrasena II. zur Ehe, um den Rücken für seinen Kampf im Westen frei zu habeṇRudrasena starb jedoch schon nach fünfjähriger Regierung etwa im Jahre 390 ṇChr. Auf Candraguptas Rat hin übernahm daraufhin seine Tochter Prabhavatigupta die Regentschaft für ihre S¨ohne. Während ihrer etwa zwanzigjährigen Regentschaft geriet das Vakataka Reich zunehmend unter direkten einfluß der Gupta und geh¨orte de facto bald zu deren Reichsverband. Zwar wurde die Unabhängigkeit der Vakatakas unter Pravarasena II. (ca. 410 bis 440 ṇChr.), von dem eine große Zahl Inschriften bekannt ist, wiederhergestellt. Doch hatte das Reich der Vakatakas aufgeh¨ort, eine potentielle Bedrohung für die Guptas zu seiṇBis zum Untergang der Guptas bestanden statt dessen überaus enge Beziehungen zwischen beiden Reichen, so daß man in der Geschichtsschreibung bisweilen sogar vom Vakataka-Gupta-Zeitalter spricht. Diese engen Beziehungen trugen wesentlich zur Ausbreitung der Gupta Kultur nach Zentralindien bei. (Kulke 1998, 114) 
 
 This representation (including the chronology) reaches back to a powerful, his torical theory set forth by A.ṢAltekar in a book which he edited together with R̥C. Majumdar and which was first published in 1960 under the title The Vākāṭaka–Gupta Age. The evidence that has come to light in the last forty years justifies a reassessment of it. In Religion and Politics in the Eastern Vākāṭaka Kingdom (Bakker 2002) I investigated the actual lines along which Gupta culture reached the Deccan and how Gupta examples of religious and artistic expression informed those of the Vākāṭakas. This study has confirmed the last quoted statement of Hermann Kulke to the effect that the close relations between both kingdoms significantly contributed to a process of acculturation. 
 
@@ -445,7 +445,7 @@ Ghaṭotkaca, ruling in Vidiśā, and, 3) the outsider, a boy from the harem, Sk
 
 To stake his claims, Ghaṭotkaca may have begun to issue his own gold coins; one such coin can, with some amount of confidence, be ascribed to a Ghaṭo(tkaca), on which he wields the imperial Garuḍa standard and takes the biruda ‘Kramāditya’. 30 For the third time the Gupta Empire threatened to fall apart. I have analysed this episode elsewhere (Bakker 1997, 25–29). Here it may suffice to refer to the Bhitarī Stone Pillar Inscription of Skandagupta in which, following Mirashi, we may find references to three wars conducted by Skandagupta. The first one records how Skandagupta, while his father Kumāra was still emperor, raised again the faltering fortune of his family (vicalitakula lakṣmī) by vanquishing his enemies. Mirashi took this as a reference to the Vākāṭakas and Pravarasena’s campaign on the northern banks of the Nar madā may have had to do with it. 31 I consider it most plausible that in the struggle for power between the centre—the yuvarāja Skandagupta (in lieu of Kumāragupta)—and the viceroy of Vidiśā, Pravarasena had chosen the side of his brother-in-law, Ghaṭotkaca. Another ally of the Vidiśā party was in all likelihood the faction of the local Nāgas. The civil war may have dragged on for a decade and may have intensified after the death of Kumāragupta when Skandagupta’s fortunes reached rock bottom (viplutāṁvaṁśalakṣmīm),32 but the end was a total defeat of Vidiśā. Skandagupta’s Junagaḍh Rock Inscrip tion contains a verse in which Skandagupta boasts about how ‘he was for ever triumphant, (when) he took the antidotal herb, namely the Garuḍa/imperial command, to fight against the Serpent Kings (i.e. the Nāgas) whose hoods were uplifted in pride and arrogance’. 33 and the Kevala–Narasiṁha Temple Inscription reports the death of Ghaṭotkaca. 
 
-30 P.L. Gupta 1946, 316: ‘The Leningrad Museum [possesses a coin] with the king on the obverse (nimbate, standing to left, holding bow in left hand and arrow in the right), Garuḍa standard is on the right of the king; beneath the left arm is inscribed Ghaṭo with a crescent above. It bears traces of marginal legend ending in (gu)pta(h. ). On the reverse of the coin is the Goddess (holding lotus in left hand and pāśa (fillet) in out stretched right hand) with a symbol on the top left corner. The legend on this side is not certain but seems to be kramāditya.’ Cf. Altekar 1954, 310. On account of its weight, 9.16 g (141.2 grains), Tandon 2014, 4 f. argues that this coin was ‘almost certainly issued some length of time after the accession of Skandagupta’. 
+30 P.ḶGupta 1946, 316: ‘The Leningrad Museum [possesses a coin] with the king on the obverse (nimbate, standing to left, holding bow in left hand and arrow in the right), Garuḍa standard is on the right of the king; beneath the left arm is inscribed Ghaṭo with a crescent above. It bears traces of marginal legend ending in (gu)pta(h. ). On the reverse of the coin is the Goddess (holding lotus in left hand and pāśa (fillet) in out stretched right hand) with a symbol on the top left corner. The legend on this side is not certain but seems to be kramāditya.’ Cf. Altekar 1954, 310. On account of its weight, 9.16 g (141.2 grains), Tandon 2014, 4 f. argues that this coin was ‘almost certainly issued some length of time after the accession of Skandagupta’. 
 
 Another coin ascribed to Ghaṭotkaca was published by Ajit Ghosh in JNSI 22 (1960), 120 f. The attribution of this coin to Ghaṭotkaca is dubious; Ellen Raven reads skanda instead of ghaṭo and ascribes this coin to Skandagupta (personal communication). 
 
@@ -725,7 +725,7 @@ In his Mandhal Plates Rudrasena II styled himself as someone ‘whose rule is ba
 
 Success! Approved. By order of Lord Muṇḍasvāmin, God of gods, who holds the conch, discus and sword; after He had made the Nāga king stretch out on the waters of the ocean, He has entered a state of yogic sleep, while lying on the serpent coils of that (king) Ananta (the Infinite One)—a bundle of expanded hoods bending (over Him by way of canopy). 36 
 
-times in the sense of a temple or place of worship’; it refers to a ‘court of justice’, whereas vaijayika (victorious) is to be taken as ‘an honorific’. The location of Padmapura, like that of the Victorious Dharmasthāna, is unknown (cf. above, n. 65 on p. 141). A plausible conjecture, however, identifies the town with the ancient Sātavāhana site of Paunī in the Bhandara District on the right bank of the Wainganga; Paunī ← Prakit pa¨umiṇī, Skt. Padminī(pura). 
+times in the sense of a temple or place of worship’; it refers to a ‘court of justice’, whereas vaijayika (victorious) is to be taken as ‘an honorific’. The location of Padmapura, like that of the Victorious Dharmasthāna, is unknown (cf. above, n. 65 on p. 141). A plausible conjecture, however, identifies the town with the ancient Sātavāhana site of Paunī in the Bhandara District on the right bank of the Wainganga; Paunī ← Prakit paümiṇī, Skt. Padminī(pura). 
 
 35 Shastri & Gupta 1985, 227 l. 11: bhagavataś cakralakṣmapratiṣṭhitaśāsanasya. This ex pression is changed in the inscriptions of Rudrasena’s son Pravarasena into: ‘whose royal fortune was obtained by the grace of Cakrapāṇi, the Lord’: bhagavataś cakrapāṇeh¸ prasādopārjitaśrīsamudayasya (CII V, 12 ll. 13–14)—not merely because, as Shastri ob serves, this is ‘grammatically more acceptable’, but also because Pravarasena, who had again embraced the Saiva faith of his ancestors, thought it politically more acceptable; ´ for as a Māheśvara he could not officially declare that the rule of his father, or of his House for that matter, was based (pratiṣṭhita) on Viṣṇu’s cakra. For similar reasons Rudrasena II may have left out the religious affiliation of his father. 
 
@@ -749,13 +749,13 @@ The image described is that of the great Nārāyaṇa relief in Udayagiri. But w
 
 As Isaacson and I have shown elsewhere, the Kevala–Narasiṁha Temple In scription on the Rāmagiri mentions the princess that was wedded to Rudrasena by the name of ‘Muṇḍā’—‘a younger daughter who resembled the lustre of the moon’, 39 the same lady who, from her own inscriptions, came to be known as the ‘Lustrous One’, Prabhāvatī. This queen may have used the name Muṇḍā as long as her husband was still alive and may then have changed it into the dynastic ‘Prabhāvatī Guptā’, after she had assumed power in Vidarbha as the regentess of her minor sons in about ad 405. 40 Muṇḍa- or Moṇḍasvāmin, and even Mauṇḍasvāmin may thus be taken to mean ‘Lord of Muṇḍā’, ‘Muṇḍā’s 
 
-37 Von Hin¨uber 2001, 121. 
+37 Von Hinüber 2001, 121. 
 
 38 Shastri & Gupta 1997, 149 propose to connect it with a toponym by pointing to two present-day villages in the neighbourhood called Maudā and ḍo˙ngar Maudā. It seems more likely, however, that the toponyms preserve the ancient name of the temple than that the temple-name derived from these toponyms. 
 
 39 Kevala–Narasiṁha Temple Inscription (KNT) v. 7: yhavīyaisī candra(ma)sah¸ (p)ra- (bh)hevai hyāi muṇḍanāmnī tana(yā). Bakker 1997, 164; cf. Bakker & Isaacson 1993, 53 (above, p. 123). 
 
-40 Bakker & Isaacson 1993, 53; Bakker 1997, 16. The KNT inscription may hint at the dynastic name, when it compares the girl Muṇḍā with the light (prabhā) of the moon (candra): Prabhāvatī is ‘the one who possesses the lustre’, scil. of Candra, her father. Tedesco 1945 proposes to derive MI muṇḍa from Skṭvr̥ddha. This is not taken over by Mayrhofer EWA ṣv., who gives as first meaning: ‘kahl’ (‘– Unklar’). 
+40 Bakker & Isaacson 1993, 53; Bakker 1997, 16. The KNT inscription may hint at the dynastic name, when it compares the girl Muṇḍā with the light (prabhā) of the moon (candra): Prabhāvatī is ‘the one who possesses the lustre’, sciḷof Candra, her father. Tedesco 1945 proposes to derive MI muṇḍa from Skṭvr̥ddha. This is not taken over by Mayrhofer EWA ṣv., who gives as first meaning: ‘kahl’ (‘– Unklar’). 
 
 As an appellation of a princess, the name ‘muṇḍā’ (‘the bald one’) is odd. One may 
 
@@ -773,7 +773,7 @@ The aim of Rudrasena’s Mandhal inscription is not the installation of this dei
 
 conjecture that the name refers to the tribal background of the princess, the Muṇḍas, in which case these Muṇḍas must have been part of the Nāga confederation mentioned in Prabhāvatī’s inscriptions; the Muṇḍas are known, for instance, from MBh 3.48.21 (present at Yudhiṣṭhira’s consecration), MBh 6.52.9b (App.), MBh 7.95.20 and VāP 45.123. Cf. Muruṇḍa-devī/svāminī, mother of the Uccakalpa king Sarvanātha (CII III ´ (1888), 127, 131), a queen obviously named after the Muruṇḍa people from which she came; this people is mentioned among the ‘foreign countries’ in Samudragupta’s Alla habad Pillar Inscription (CII III (1888), 8). We possess no epigraphical corroboration of the existence of the Muṇḍas, however. 
 
-Another explanation for the name Muṇḍā could be: the girl was bald (muṇḍa), i.e. suffered from alopecia. Her bald head may have resembled the lustre of the full mooṇL¨uders 1961 classified the name Muṇḍa (Prakrit: Muḍa), which is found as the name of a donor on a railing at Bharhut (A 102 (827)), in the category of ‘names derived from the appearance of the body’ (CII II.2 (1998), pp. 53, 6). That the name Muṇḍa could be a brahmin name (Prabhāvatī belonged to the Dhāraṇa gotra) is proven by the Grant of Svāmidāsa, Year 67 in the copper-plate hoard from Bagh, which has preserved the name of a donee, Muṇḍa, a brahmin belonging to the Sān ´ . ḍilya gotra (Ramesh & Tewari 1990, 65). 
+Another explanation for the name Muṇḍā could be: the girl was bald (muṇḍa), i.e. suffered from alopecia. Her bald head may have resembled the lustre of the full mooṇLüders 1961 classified the name Muṇḍa (Prakrit: Muḍa), which is found as the name of a donor on a railing at Bharhut (A 102 (827)), in the category of ‘names derived from the appearance of the body’ (CII II.2 (1998), pp. 53, 6). That the name Muṇḍa could be a brahmin name (Prabhāvatī belonged to the Dhāraṇa gotra) is proven by the Grant of Svāmidāsa, Year 67 in the copper-plate hoard from Bagh, which has preserved the name of a donee, Muṇḍa, a brahmin belonging to the Sān ´ . ḍilya gotra (Ramesh & Tewari 1990, 65). 
 
 41 Cf. the Prabhāvatisvāmin mentioned in the Kevala–Narasiṁha Temple Inscription v. 21, installed after the same queen’s death for the sake of merit transfer. Bakker & Isaacson 1993, 54, 69 (above, p. 124); Bakker 1997, 30, 140–42. The shortening of the feminine suffixes ā and ī to a and i is permitted by P. 6.3.36. This naming practice created a legal fiction, individualizing the god so that he could be endowed with property and authority (cf. Sanderson 2003–04, n. 250). For naming deities after the donors see also Willis 2009, 139. The two liṅgas (?) Upamiteśvara and Kapileśvara mentioned on the Mathura Pilaster (ad 380) were named after the deceased ācāryas Upamita and Kapila (CII III (1981), 240); below, p. 494. 
 
@@ -1041,7 +1041,7 @@ The same tīrtha is also described in a (late) text called Sindūragirimāhā tm
 
 12 For this text, of which a longer recension also seems to have existed, see Bakker 1990b, 76; above, n. 28 on p. 90. Mirashi and Kulkarni (1939–40) refer to this longer recension in EI XXV, 11 n. 7: 
 
-The larger Sindūragirimāhātmya mentions Mahāśaivala as a name of the hill at Rāmt.¯ek in addition to the two names noticed above, and explains it as being due to Siva bringing the ´ Saivas to the hill. According to the colophon the Māhātmya has ´ been taken from the Kaumārakhaṇḍa of the Padmapurāṇa; but the portion dealing with Sambūka’s story seems to have been copied ´ verbatim from the Rāmāyaṇa of 
+The larger Sindūragirimāhātmya mentions Mahāśaivala as a name of the hill at Rāmṭēk in addition to the two names noticed above, and explains it as being due to Siva bringing the ´ Saivas to the hill. According to the colophon the Māhātmya has ´ been taken from the Kaumārakhaṇḍa of the Padmapurāṇa; but the portion dealing with Sambūka’s story seems to have been copied ´ verbatim from the Rāmāyaṇa of 
 
 
 
@@ -1063,7 +1063,7 @@ The Rāma and Lakṣmaṇa Temples on Rāma’s Hill
 
 Evidently the Rāmagiri tradition as reported in the Yādava inscription iden tified the śūdra who was beheaded by Rāma with a local deity Dhūmrākṣa. 13 We note also that this tradition had mitigated the most cynical part of the Rāmāyaṇa legend by allowing Sambuka/ ´ Sambūka at least to reach heaven, ´ the abode of Murāri, i.e. Viṣṇu. 14 The same Yādava inscription testifies to Agastya’s association with the hill, though the exact relation remains obscure 
 
-Vālmīki. We have not been able to trace the Kaumārakhaṇḍa in the printed edition of the Purāṇa. Yet, this description lends support to our inference that Saivala was ´ one of the old names of the hill at Rāmt.¯ek. 
+Vālmīki. We have not been able to trace the Kaumārakhaṇḍa in the printed edition of the Purāṇa. Yet, this description lends support to our inference that Saivala was ´ one of the old names of the hill at Rāmṭēk. 
 
 13 This name is also known from the epics, namely as that of a courtier of Rāvaṇa. MBh 3.270.5; Rām. 5.5.21. 
 
@@ -1527,7 +1527,7 @@ We now turn to a portion of the inscription that describes the deeds performed f
 
 [1997] 11 prabhāvatisvāminaṁca, lokanāhthaim a(th)ā(la)hyei | puṇyam akṣayam uddiśya, (mā)htuḥi ˘ ˘ haikhāirayahti k 21 k 
 
-5 The Satapathabrāhman ´ . a transl. by Julius Eggeling. SBr 2.2.3.20: ´ 
+5 The Satapathabrāhman ´ . a transḷby Julius Eggeling. SBr 2.2.3.20: ´ 
 
 atha svāhāgnim ity āha — āgneyam ājyabhāgaṁsvāhāgniṁpavamānam iti yadi pavamānāya dhriyerant svāhāgnim indumantam iti yady agnaya indumate dhriyerant svāhāgniṁsvāhāgnīn ājyapān˜ juṣāṇo agnir ājyasya vetv iti yajati | 
 
@@ -1808,7 +1808,7 @@ The narration of the KNT Inscription
 
 First of all it needs to be noted that, despite the fact that the inscription is found in Vākāṭaka territory and celebrates foundations within the complex 
 
-20 Bakker & Isaacson 1993, 53; Bakker 1997, 16. The KNT inscription may hint at the dynastic name, when it compares in verse 7 the girl Muṇḍā with the light (prabhā) of the moon (candra): Prabhāvatī is ‘the one who possesses the lustre’, scil. of Candra, her father. For a discussion of this name (meaning ‘the bald one’) see above, n. 40 on p. 327. Is it coincidence that Muṇḍā’s younger brother is named the one who is ‘Bald-like-a-pot’ (Ghaṭotkaca)? 
+20 Bakker & Isaacson 1993, 53; Bakker 1997, 16. The KNT inscription may hint at the dynastic name, when it compares in verse 7 the girl Muṇḍā with the light (prabhā) of the moon (candra): Prabhāvatī is ‘the one who possesses the lustre’, sciḷof Candra, her father. For a discussion of this name (meaning ‘the bald one’) see above, n. 40 on p. 327. Is it coincidence that Muṇḍā’s younger brother is named the one who is ‘Bald-like-a-pot’ (Ghaṭotkaca)? 
 
 
 
@@ -2354,7 +2354,7 @@ The So-called
 
 Preamble 
 
-Few scholars can claim mastery of such a wide range of different fields within the discipline of Indology as Prof Dr Oskar von Hin¨uber. One of the branches of learning that owes a great deal to his studies is Indian epigraphy. My con tribution here is meant as a humble tribute to Oskar and his work. 
+Few scholars can claim mastery of such a wide range of different fields within the discipline of Indology as Prof Dr Oskar von Hinüber. One of the branches of learning that owes a great deal to his studies is Indian epigraphy. My con tribution here is meant as a humble tribute to Oskar and his work. 
 
 Introduction 
 
@@ -2362,7 +2362,7 @@ We possess two inscriptions that undisputably belong to that branch of the Maukh
 
 It is estimated that only about one-third of the width of the inscribed stone has been preserved (Plate 77), and it is unknown how many lines would have been below the last line extant. Fleet remarks that ‘the probability is [. . . ] that the larger number (seventy-two) has been lost at the beginning of this (i.e. first) line, and in proportion all the way down’. 3 The other option considered by Fleet is that only thirty-eight syllables are missing at the beginning of each line. This option is invalidated by the Sārdūlavikrīd ´ . ita verse in line 3, of which the end coincides with the right side of the stone. From this and the preceding incomplete Mālinī verse of line 2 it can be deduced that altogether 69 syllables have been lost in line 3. This would bring the total number of akṣaras in line 3 
 
-∗ The first version of this article was published in Indo-Iranian Journal 52.2–3 (2009), 207–16. The article in this double issue of IIJ was dedicated to Oskar von Hin¨uber. 1 For the Haraha Inscription of the Reign of Īśānavarman, Year [VS] 611 see: Sāstri 1917– ´ 
+∗ The first version of this article was published in Indo-Iranian Journal 52.2–3 (2009), 207–16. The article in this double issue of IIJ was dedicated to Oskar von Hinüber. 1 For the Haraha Inscription of the Reign of Īśānavarman, Year [VS] 611 see: Sāstri 1917– ´ 
 
 18; Sircar SI I, 385–389; Thaplyal 1985, 141–146. For the Jaunpur Stone Inscription of Īśvaravarman see: J.F. Fleet in CII III (1888), 228–230; Thaplyal 1985, 139–40. 2 CII III (1888), 228. 
 
@@ -2810,7 +2810,7 @@ Plate 80 Plate 81
 
 Daniell: drawing ad 1790 11 The liṅga in ad 2008 
 
-The hill, temple, surrounding d´ebris, and the inscription have been thoroughly examined by J¨urgen Neuss (2003). 12 Neuss subscribes to the almost universally accepted theory that dates the oldest elements of the architecture of the present 
+The hill, temple, surrounding d´ebris, and the inscription have been thoroughly examined by Jürgen Neuss (2003). 12 Neuss subscribes to the almost universally accepted theory that dates the oldest elements of the architecture of the present 
 
 refers to the Harṣa Era, yielding a date of A.D. 636, the temple stylistically can be assigned to the same period.’ 
 
@@ -2874,7 +2874,7 @@ Muṇḍeśvarī Inscription, Year 30
 
 18 Banerji 1907–08 in EI IX, 220 n. 1. 
 
-19 CII III (1888), Pl. xxxii; Bakker 2009b, 210 f. above, Plate 77 
+19 CII III (1888), Pḷxxxii; Bakker 2009b, 210 f. above, Plate 77 
 
 
 
@@ -3254,7 +3254,7 @@ From the evidence surveyed above it seems to appear that the erection of funer a
 
 ambe yadi me sapta kṣatriyā parasparam virudhitvā ghātayiṣyanti, tataḥbhasmāyitvā asthīni saṁharyitvā tato me elūkāṁkārāpayesi | tatra ca elūkādvāre karṇikāravr̥kṣaṁropāpayasi | tato grīṣmāṇām atyayena prathame prāvr̥ṣamāse vartamāne so karṇi kāravr̥kṣo sarvapariphullo bhaveyā hemaprakāśavarṇaḥ| tato me smarasi | edr̥śā me varṇena dhītā sudarśanā āsīti k 
 
-Cf. the thūpa (stūpa) erected for Queen Bhaddā by her husband, King Muṇḍa of Pāṭaliputra, Aṅguttara-Nikāya III, 62 (I thank Oskar von Hin¨uber for referring me to this passage). 
+Cf. the thūpa (stūpa) erected for Queen Bhaddā by her husband, King Muṇḍa of Pāṭaliputra, Aṅguttara-Nikāya III, 62 (I thank Oskar von Hinüber for referring me to this passage). 
 
 Kane IV, 255 n. 580 draws our attention to a passage in the Brahmanical literature where a tree and eḍūka are mentioned. It concerns a passage found in Aparārka’s commentary on the Yājñavalkyasmr̥ti (vol. II, pp. 885 f.) ascribed to the Brahmapurāṇa: 
 
@@ -3286,9 +3286,9 @@ was, for obvious reasons, not much in vogue in orthodox circles, as the follow i
 
 And this perverted world shall be upside down: at the dissolution of the yuga (people) will venerate charnel-houses (eḍūkas) and abandon the gods, (whereas) śūdras will not serve the brahmins. When the yuga expires, the earth shall no longer be decorated by temples, but marked by charnel-houses (eḍūkas): in the hermitages of the great seers, in the settlements of brahmins, in the dwellings of the gods, in hallowed places (caitya), and in the abodes of the Nāgas. That is the sign that the yuga has come to an end. When men, fierce and devoid of dharma, will be constantly eating meat and drinking liquor, then the yuga will collapse. 18 
 
-Although not popular with the orthodox, the custom of erecting a monument for the dead goes back to megalithic times and was partly sanctioned by Vedic literature. 19 Kane, dealing with funerary rites, observes (IV, 255): ‘It will be seen that the disposal of the dead in ancient India was divided into four stages, viz. cremation, collecting the charred bones and depositing them underground in an urn, expiatory rites (called Sāntikarma) and erection of a monument ´ over the bones. The last was not necessarily done in every case.’ Caland in his Die altindischen Todten- und Bestattungsgebr¨auche describes this optional procedure. On the ground where the cremation had taken place (śmaśāna) a plot of land of the size of a man is demarcated, square or, according to others, round. The land is ritually ploughed. 
+Although not popular with the orthodox, the custom of erecting a monument for the dead goes back to megalithic times and was partly sanctioned by Vedic literature. 19 Kane, dealing with funerary rites, observes (IV, 255): ‘It will be seen that the disposal of the dead in ancient India was divided into four stages, viz. cremation, collecting the charred bones and depositing them underground in an urn, expiatory rites (called Sāntikarma) and erection of a monument ´ over the bones. The last was not necessarily done in every case.’ Caland in his Die altindischen Todten- und Bestattungsgebräuche describes this optional procedure. On the ground where the cremation had taken place (śmaśāna) a plot of land of the size of a man is demarcated, square or, according to others, round. The land is ritually ploughed. 
 
-Mitten in die gepflugte Stelle wird der Aschenkrug hingestellt . . . ( ¨ op. cit. §93) Dar auf wird die Smaśāna-st ´ ¨atte besprengt und bes¨at (op. cit. §95).. . . Ganz wie bei der gew¨ohnlichen ‘Feuerschichtung’ wird das Smaśānafeld jetzt mit kleinen Steinen ´ umschlossen (op. cit. §96).. . . Jetzt, da das Terrain fur die ‘Schichtung’ geh ¨ ¨orig zu bereitet ist, wird die Stelle des śmaśāna, wo die Gebeine niedergelegt werden sollen, zur Aufname derselben zurechtgemacht (op. cit. §98). . . . Jetzt endlich das in allen Kalpas beschriebene Ausstreuen der Knochen. . . . Der Mādhyandina verwendet 
+Mitten in die gepflugte Stelle wird der Aschenkrug hingestellt . . . ( ¨ op. cit. §93) Dar auf wird die Smaśāna-st ´ ätte besprengt und besät (op. cit. §95).. . . Ganz wie bei der gew¨ohnlichen ‘Feuerschichtung’ wird das Smaśānafeld jetzt mit kleinen Steinen ´ umschlossen (op. cit. §96).. . . Jetzt, da das Terrain fur die ‘Schichtung’ geh ¨ ¨orig zu bereitet ist, wird die Stelle des śmaśāna, wo die Gebeine niedergelegt werden sollen, zur Aufname derselben zurechtgemacht (op. cit. §98). . . . Jetzt endlich das in allen Kalpas beschriebene Ausstreuen der Knochen. . . . Der Mādhyandina verwendet 
 
 17 Madeleine Biardeau (2002 I, 607) is the latest in a long tradition starting with Lassen that sees in this passage a reference to Buddhist practice (below, n. 81 on p. 429). 
 
@@ -3322,7 +3322,7 @@ bhaviṣyanti narā nityaṁtadā saṁkṣepsyate yugam k 67 k
 
 
 
-folgenden: ‘Gott Savitar soll dein Gebein in den Schoß der Mutter ausstreuen, O Erde, sei du gunstig ihm’ ( ¨ op. cit. §102). . . . Die Knochen sollen jetzt so auseinan der gelegt werden, dass eine menschliche Gestalt hergestelllt wird (op. cit. §103).. . . Der Aschenkrug wird darauf vernichtet (op. cit. §105). . . . . Die eigentliche Schich tung kann jetzt einen Anfang nehmen (op. cit. §107).. . . Jetzt ist die citi mittelst der ‘raumfullenden’ Ziegel zur erforderlichen H ¨ ¨ohe aufzuschichteṇIhre Anzahl ist abh¨angig von der Gr¨oße, die man der citi geben will; meistens ist die Gesammtzahl der Ziegel tausend (op. cit. §112). 20 
+folgenden: ‘Gott Savitar soll dein Gebein in den Schoß der Mutter ausstreuen, O Erde, sei du gunstig ihm’ ( ¨ op. cit. §102). . . . Die Knochen sollen jetzt so auseinan der gelegt werden, dass eine menschliche Gestalt hergestelllt wird (op. cit. §103).. . . Der Aschenkrug wird darauf vernichtet (op. cit. §105). . . . . Die eigentliche Schich tung kann jetzt einen Anfang nehmen (op. cit. §107).. . . Jetzt ist die citi mittelst der ‘raumfullenden’ Ziegel zur erforderlichen H ¨ ¨ohe aufzuschichteṇIhre Anzahl ist abhängig von der Gr¨oße, die man der citi geben will; meistens ist die Gesammtzahl der Ziegel tausend (op. cit. §112). 20 
 
 Despite the attention paid to these barrows (citi) in the Kalpaśāstra, we, pace Giuseppe de Marco, find little hard evidence that this Vedic tradition was continued in historic times in classical North India. Disposal of the remains in holy water (tīrtha)—be it the ashes/bones, or the body as a whole (as in the case of ascetics)—seems to have replaced the older practices of inhumation and exposure. 21 This tallies with the virtual absence in the Mahābhārata of any reference to the erection of monuments to the dead, apart from the quoted passage regarding the alleged worship of eḍūkas.22 
 
@@ -3424,7 +3424,7 @@ As I have argued elsewhere (Bakker 1992b and 1997, 30 f.), the 5th-century Vāk�
 
 Then (the princess) commissioned the splendid ‘Master of Prabhāvatī’, (the image of the) Lord of the World, within the temple, for the sake of undecaying merit of 
 
-35 Above, p. 125; Bakker 1997, 167. Granoff 1992, 187 refers to a temple built after the cre mation of the Jain minister Vastupāla on Mt Satruñjaya called ‘Svargārohanaprāsāda’. ´ Granoff 1992 (passim) proves that the building of memorial temples was just as pop ular in Jainism as it was in Hinduism. This type of memorial temple seems to be referred to under the C¯ol.as as pal.l.i-paṭai in Tamil: ‘temple erected in memory of kings’. Huntington 1985, 310 conjectures that the famous Dharmarāja shrine in Māmallapuram may have been such a pal.l.i-paṭai, since it contains a portrait image of the Pallava king Nr̥siṁhavarman I himself on its southern face. 
+35 Above, p. 125; Bakker 1997, 167. Granoff 1992, 187 refers to a temple built after the cre mation of the Jain minister Vastupāla on Mt Satruñjaya called ‘Svargārohanaprāsāda’. ´ Granoff 1992 (passim) proves that the building of memorial temples was just as pop ular in Jainism as it was in Hinduism. This type of memorial temple seems to be referred to under the Cōḷas as paḷḷi-paṭai in Tamil: ‘temple erected in memory of kings’. Huntington 1985, 310 conjectures that the famous Dharmarāja shrine in Māmallapuram may have been such a paḷḷi-paṭai, since it contains a portrait image of the Pallava king Nr̥siṁhavarman I himself on its southern face. 
 
 36 The wide-spread practice to install liṅgas in commemoration of the deceased, which could be comprised in the category of ‘memorial’, is left out of account here. An example hereof is e.g. attested by the Mathurā Pilaster Inscription of Candragupta II, Year 61, above, p. 287, below, p. 494. For this practice in Nepal, centering around Paśupatinātha, see Mirnig 2016. 
 
@@ -3482,7 +3482,7 @@ One of them, a large but fragmentary one is inscribed partly on the left and par
 
 According to Shastri the gallery was initiated by King Kr̥ṣṇa, who set up the image of his elder brother Simuka, and continued by Vediśrī, who set up the images of his father and mother Sātakarṇi and Nāganikā. Shastri argues, on the basis of the Pratimānāṭaka, that all images were erected after the death of the person involved. If his identification of these early Sātavāhana kings is correct, it would mean that this pratimāgr̥ha predates the one at Māṭand therefore cannot have been inspired by the Kuṣāṇa example. The epigraphs found in Nāṇeghāṭdo not give any reason to believe that these images were worshipped. The long inscription enumerates many Vedic sacrifices and their dakṣiṇās, but is silent as to the images. 
 
-The situation seems different at Māt.. The archaeological remains of a build ing and the inscribed images of the Kuṣāṇa kings Vima/Vema (Kadphises), Kaniṣka, Huviṣka (?) and others, belong to the most well-known India has produced. The epigraphs have been competently dealt with by L¨uders (posthu mously published by Janert 1961). The building that housed these images is referred to as devakula in the inscriptions themselves. About this L¨uders re marks: 
+The situation seems different at Māt.. The archaeological remains of a build ing and the inscribed images of the Kuṣāṇa kings Vima/Vema (Kadphises), Kaniṣka, Huviṣka (?) and others, belong to the most well-known India has produced. The epigraphs have been competently dealt with by Lüders (posthu mously published by Janert 1961). The building that housed these images is referred to as devakula in the inscriptions themselves. About this Lüders re marks: 
 
 43 For these inscriptions see also Sircar SI I, 190–197. 
 
@@ -3496,17 +3496,17 @@ The situation seems different at Māt.. The archaeological remains of a build in
 
 There can be little doubt that the devakula at the Māṭsite, similarly to ‘Bhāsa’s’ devakula, served chiefly as a hall for the statues of members of the royal Kuṣāṇfamily, although, as proved by the life-size image found together with the Kaniṣka statue, images of gods were mixed up with them. 45 
 
-The latter concessive clause may mark a significant difference with the situation in Nāṇeghāṭand the depiction in the Pratimānāṭaka. It may account for the term devakula used in the Māṭinscriptions. ‘Bhāsa’ speaks also about a devakula, but that word is used when Bharata does not yet know whether he has to do with a ‘house of the gods’ or not. When he discovers the true nature of the monument the text uses the word pratimāgr̥ha.46 Another important difference may be related to this. L¨uders remarks, 
+The latter concessive clause may mark a significant difference with the situation in Nāṇeghāṭand the depiction in the Pratimānāṭaka. It may account for the term devakula used in the Māṭinscriptions. ‘Bhāsa’ speaks also about a devakula, but that word is used when Bharata does not yet know whether he has to do with a ‘house of the gods’ or not. When he discovers the true nature of the monument the text uses the word pratimāgr̥ha.46 Another important difference may be related to this. Lüders remarks, 
 
 In one respect, however, the collection of the Kuṣāṇstatues seems to have differed from the gallery described in the Pratimānāṭaka. Bhāsa tells us that only deceased kings were honoured by setting up their images. This restriction does not seem to have prevailed in the case of the Kuṣāṇdevakula. The present inscription was engraved on the pedestal of a statue, and we may reasonably assume that, in addition to the repair of the devakula, the gift of the statue was recorded in the inscriptioṇThe statue cannot have represented the grandfather of Huviṣka, nor is it likely that it was the second image of Kaniṣka. As the donation was made for the increase of the life and strength of Huviṣka, it becomes very probable that it represented that king, but that benedictory phrase shows at the same time that the statue was set up during the lifetime of Huviṣka. 47 
 
 From this combined evidence it may appear that the images of the Kuṣāṇa kings were worshipped like those of gods, even when still alive. The true nature of the devakula was the subject of an interesting essay by G´erard Fussman, who compared the Māṭsanctuary with a similar one in Surkh-Kotal, also containing images of Kuṣāṇa kings. 48 He argues that we should conceive of these temples as ‘shrines where the king, his family and high officials worshipped the deity who protects the king and his family, not the temple of the godlike king’. 49 A devakula is, according to the French scholar, ‘a royal family shrine’. 50 This 
 
-45 L¨uders 1961, 144. 
+45 Lüders 1961, 144. 
 
 46 Pratimānāṭaka 3. 5, 6. Cf. ibid. 3.1 paḍimāgeha, 3.13 idaṁgr̥haṁtat pratimānr̥pasya. It has to be admitted, though, that the keeper is called devakulika. 
 
-47 L¨uders 1961, 144 f. 
+47 Lüders 1961, 144 f. 
 
 48 Fussman 1989; cf. Rosenfield 1993, 154–172. Shastri 1998, 109 refers to similar ‘small sanctuaries in the Swāt region of Afghanistan’. 
 
@@ -3528,19 +3528,19 @@ connotation accords well with the use of the term in the Vākāṭaka inscriptio
 
 Memorial stones 
 
-The third category, ‘hero-stones’, has been the subject of a seminar at Dhar wad, the papers of which have been edited by ṢSettar & G¨unther d. Sont heimer (1982). In this volume ḌR̥Patil studies The Origin of Memorial Stones. Patil (op. cit. 48) observes that ‘. . . a memorial stone, in its basic conception, is commemorative in character, raised in memory or honour of the dead, and did not form part of the actual practice of the disposal of the dead’. Nevertheless Patil traces its origin back to this very practice by referring to early Buddhist monuments containing mortuary deposits, because in some of them a wooden post was found (Lauriya-Nandangarh), whereas an inscription in another Buddhist monument (Sui Vihar) seems to refer to such a post as a yaṣṭi raised in honour of the deceased (see below, p. 426). Typical of this type of stones seems to be that they contain a visual representation or symbol referring to the fate of those commemorated, in addition to, occasionally, a brief text. 
+The third category, ‘hero-stones’, has been the subject of a seminar at Dhar wad, the papers of which have been edited by ṢSettar & Günther d. Sont heimer (1982). In this volume ḌR̥Patil studies The Origin of Memorial Stones. Patil (op. cit. 48) observes that ‘. . . a memorial stone, in its basic conception, is commemorative in character, raised in memory or honour of the dead, and did not form part of the actual practice of the disposal of the dead’. Nevertheless Patil traces its origin back to this very practice by referring to early Buddhist monuments containing mortuary deposits, because in some of them a wooden post was found (Lauriya-Nandangarh), whereas an inscription in another Buddhist monument (Sui Vihar) seems to refer to such a post as a yaṣṭi raised in honour of the deceased (see below, p. 426). Typical of this type of stones seems to be that they contain a visual representation or symbol referring to the fate of those commemorated, in addition to, occasionally, a brief text. 
 
 Early specimens of ‘memorial stones’ as defined above seem to have been the so-called chāyāstambha or chāyāskambha (‘shade-pillar’) from Nāgārjunakoṇḍa 
 
-51 Von Hin¨uber 2004, 172 n. 234. Rosenfield 1993, 202 thinks that Iran is the most likely source of the tendency to deify the Kuṣāṇa kings. The term devakula literary means the ‘family seat of the god(s)’. When one installs a life-size image of oneself in this ‘seat’, does that not suggest that one wants to be regarded as part of that family? 
+51 Von Hinüber 2004, 172 n. 234. Rosenfield 1993, 202 thinks that Iran is the most likely source of the tendency to deify the Kuṣāṇa kings. The term devakula literary means the ‘family seat of the god(s)’. When one installs a life-size image of oneself in this ‘seat’, does that not suggest that one wants to be regarded as part of that family? 
 
 52 Cf. Rosenfield 1993, 202 ff. Differently Grenet 2015, 209 n. 27: 
 
-The Kushan royal title ‘son of the god(s)/son of the lord(s)’, Bactr̥bagopouro, Indian devaputra, are no more real proof of a claim to divine filiation as theopat¯or on some Arsacid coins, probably corresponding to a genuine Parthian word *bagpuhr. It can just as well allude to the legitimate royal filiation, eventually to the divine election. 
+The Kushan royal title ‘son of the god(s)/son of the lord(s)’, Bactr̥bagopouro, Indian devaputra, are no more real proof of a claim to divine filiation as theopatōr on some Arsacid coins, probably corresponding to a genuine Parthian word *bagpuhr. It can just as well allude to the legitimate royal filiation, eventually to the divine election. 
 
 A critical examination of this difficult issue is found in Verardi 1983. 
 
-53 Cf. above, n. 27 on p. 411. Granoff 1992, 190 reports that ‘. . . images of tīrthaṅkaras were often made for the welfare of the dead. Bharata’s funerary monument to his father also bears striking resemblances to actual funerary monuments for Jain monks in having a portrait image of the deceased. . . ’ See also below, n. 72 on p. 425. Von Hin¨uber 2004, 172 refers to the inscribed portrait images of Pallava kings and queens (7th century ad) in South India (see above, n. 35 on p. 413; Huntington 1985, 310; Lef`evre 2006). 
+53 Cf. above, n. 27 on p. 411. Granoff 1992, 190 reports that ‘. . . images of tīrthaṅkaras were often made for the welfare of the dead. Bharata’s funerary monument to his father also bears striking resemblances to actual funerary monuments for Jain monks in having a portrait image of the deceased. . . ’ See also below, n. 72 on p. 425. Von Hinüber 2004, 172 refers to the inscribed portrait images of Pallava kings and queens (7th century ad) in South India (see above, n. 35 on p. 413; Huntington 1985, 310; Lef`evre 2006). 
 
 
 
@@ -3816,7 +3816,7 @@ A hollow shaft, about 10 in. (25.4 cm) in diameter, running right through the ce
 
 maharajasya rajatirajasya devaputrasya ka[niṣkasya] saṁva[tsa]re ekadaśe sam. 10 (+ *) 1 . . . bhikṣusya nagadattasya . . . yaṭhiṁaropayata iha da[ma]ne vihara svamiṇiṁupasika [ba]lanaṁdi[-ku]ṭiṁbini balajayamata ca imaṁyaṭhipratiṭhanaṁṭhapa[i]caṁanu parivaraṁdadarim. ( |*) . . . Rendered in Sanskrit by Sircar as: 
 
-mahārājasya rājātirājasya devaputrasya kaniṣkasya saṁvatsare ekādaśe sam. 11 . . . bhikṣoḥnāgadattasya . . . yaṣṭim āropayati iha damane vihārasvāminī upāsikā bala nandikuṭumbinī, balajayamātā ca idaṁyaṣṭipratiṣṭhānaṁsthāpayitvā anu parivāraṁdadāti |... Konow in CII II A, 141 and Schopen 1997, 157 suggest that parivāra here might mean the room or chamber, i.e. the chamber in which the mortuary deposits and the inscription have been found. I diverge from Sircar et al. by taking anu in composito with parivāra, a noun related to anuparivārayati: ‘to encircle’ (see Edgerton’s BHSD ṣv.). 
+mahārājasya rājātirājasya devaputrasya kaniṣkasya saṁvatsare ekādaśe sam. 11 . . . bhikṣoḥnāgadattasya . . . yaṣṭim āropayati iha damane vihārasvāminī upāsikā bala nandikuṭumbinī, balajayamātā ca idaṁyaṣṭipratiṣṭhānaṁsthāpayitvā anu parivāraṁdadāti |... Konow in CII II A, 141 and Schopen 1997, 157 suggest that parivāra here might mean the room or chamber, i.e. the chamber in which the mortuary deposits and the inscription have been found. I diverge from Sircar et aḷby taking anu in composito with parivāra, a noun related to anuparivārayati: ‘to encircle’ (see Edgerton’s BHSD ṣv.). 
 
 74 Konow in CII II A, 138; drawing in Indian Antiquary X (1881) facing p. 324., copied from the Journal of the Asiatic Society of Bengal XXXIX. 
 
@@ -3964,7 +3964,7 @@ For the edition of this chapter of the original Skandapurāṇa (SP) see Bisscho
 
 84 I find it difficult to be so sure about the scene on the eastern gateway of Stūpa 1 at Sanchi, which, according to de Marco (1987, 226, Fig. 22), ‘is certainly the tomb of a yogin belonging to the same community represented in the relief’. How to explain that we have no archaeological evidence of this sort of ancient monuments of yogins, whereas we have innumerable ones of Buddhist saints? And even if it were a tomb of a yogin, I find it hazardous to conclude from this piece of ‘evidence’ (and this tentative piece alone), that the samādhis of yogins found in South Asia to date existed all throughout Indian history (de Marco 1987, 228 n. 76). 
 
-The situation appears significantly altered in the later (post ad 1200) period, in which we find samādhis, chiefly of yogins and saints—e.g. the ‘śmaśāna of Pāśupatanāth’ il lustrated in de Marco 1987, Figs. 18 f., or the samādhis of Gorakhnāth yogis, ibid. Figs. 20 f.—and mausoleums or chatarīs of princes (Mishra 2003). This change may be partly due to Islamic influence; it falls outside the scope of the present investigatioṇFor the burial practice of the Gorakhnāth yogis see Briggs 1938, 39–43. For the development of the (esoteric) Saiva tantric concept of the ‘eight (nine) great cremation grounds’ (Sander- ´ son 2003–04, n. 208) in the syncretistic religion of Nepal see B¨uhnemann 2007 (cf. Mirnig 2016). 
+The situation appears significantly altered in the later (post ad 1200) period, in which we find samādhis, chiefly of yogins and saints—e.g. the ‘śmaśāna of Pāśupatanāth’ il lustrated in de Marco 1987, Figs. 18 f., or the samādhis of Gorakhnāth yogis, ibid. Figs. 20 f.—and mausoleums or chatarīs of princes (Mishra 2003). This change may be partly due to Islamic influence; it falls outside the scope of the present investigatioṇFor the burial practice of the Gorakhnāth yogis see Briggs 1938, 39–43. For the development of the (esoteric) Saiva tantric concept of the ‘eight (nine) great cremation grounds’ (Sander- ´ son 2003–04, n. 208) in the syncretistic religion of Nepal see Bühnemann 2007 (cf. Mirnig 2016). 
 
 For South India this practice is attested in the Ajitāgama (see above, n. 27 on p. 411), which reports that a liṅga may be erected for Sivabhaktas ( ´ op. cit. 63.44 f.): 
 
@@ -4126,7 +4126,7 @@ A high quadrangular stone podium, decorated, on the visible side, with a sort of
 
 93 Similar structures are depicted in the petroglyphs found in Oshibat on the upper Indus River in northern PakistaṇBemmann & K¨onig (1994) classify these pictures, given in Tafel 24–27, as ‘stūpas’, but they may rather be funerary monuments of a more general nature, as the crowning with a trident (18:227), the crescent and sun (18:127, 18:199, 18:156), or a pennant (18:269, 20:2) seems to indicate. Also the pictures in Tafel 32, classified as ‘Scene’, are monuments rather than Buddhist stūpas. 
 
-94 This regards a relief that is kept in the Victoria and Albert Museum (IS.1-1945) and has been described by Ackermann 1975, 107–109. The scene is found in the lowest of three registers that make up this relief; it depicts the episode of a boy bound in the cemetery (i.e., śmaśāna) who takes refuge with the Buddha. For the identification of this scene see Santoro 1980, 106 f., who bases herself on the Chinese Tripiṭaka (Tsa p’i-y¨u ching II, 20 = Taish¯o Issaiky¯o IV, nr. 205, pp. 507, c, 7-508, a, 1), translated by P. Daffin`a. Ackermann 1975, 107 had described this funerary monument as a ‘miniature vihāra’. 
+94 This regards a relief that is kept in the Victoria and Albert Museum (IS.1-1945) and has been described by Ackermann 1975, 107–109. The scene is found in the lowest of three registers that make up this relief; it depicts the episode of a boy bound in the cemetery (i.e., śmaśāna) who takes refuge with the Buddha. For the identification of this scene see Santoro 1980, 106 f., who bases herself on the Chinese Tripiṭaka (Tsa p’i-yü ching II, 20 = Taishō Issaikyō IV, nr. 205, pp. 507, c, 7-508, a, 1), translated by P. Daffin`a. Ackermann 1975, 107 had described this funerary monument as a ‘miniature vihāra’. 
 
 95 De Marco 1987, 196. Cf. the description given by Ackermann 1975, 107 f.: 
 
@@ -4372,7 +4372,7 @@ Human sacrifice in India
 
 William Crooke, one of the great connoisseurs of the living traditions of India of his time and reporter of many a crooked thing, notes in his delightful book Things Indian under the heading ‘House’: 
 
-Very similar to these [scil. houses] was the earliest Indo-Aryan house, the form of which has been handed down in the marriage shed of our days. The mate rials were wood, basket-work, and clay. The main feature was the corner-posts, which were fixed in the ground with rites, sometimes including human sacrifice, intended to conciliate the earth-spirits, and were always regarded as, in some sense, sacrosanct. 4 
+Very similar to these [sciḷhouses] was the earliest Indo-Aryan house, the form of which has been handed down in the marriage shed of our days. The mate rials were wood, basket-work, and clay. The main feature was the corner-posts, which were fixed in the ground with rites, sometimes including human sacrifice, intended to conciliate the earth-spirits, and were always regarded as, in some sense, sacrosanct. 4 
 
 Sub voce ‘Human Sacrifice; Cannibalism’ Crooke adds to this, 
 
@@ -4538,7 +4538,7 @@ ad āSS 16.27.22). As to the place of the human figure Caland ( ´ ad loc.) rema
 
 26 mr̥dā pralipya nidadhāti, āSS 16.6.7; cf. B ´ SS 10.10 ( ´ Agni II, 501). The ritual according to Caland’s translation of Apastamba (A ¯ SS 16.6.2–4) is as follows: ´ 
 
-Dann geht er mit sieben oder einundzwanzig Bohnen in der Hand, um einen Men schenkopf zu holen, der von einem Vaiśya oder Kṣatriya herr¨uhrt, welcher durch einen Pfeil (im Kriege) oder durch den Blitz get¨otet worden ist. Nachdem er die Bohnen in der N¨ahe (des K¨orpers) hingeworfen hat, haut er den Menschenkopf ab mit der Formel: ,Der du hier bist, dem dir dieses Haupt angeh¨ort, durch dieses Haupt sollst du dort im Besitze eines Hauptes sein’ und legt dann an die Stelle des Kopfes einen siebenfach durchl¨ocherten Ameisenhaufen nieder. Er singt, w¨ahrend er rechts um das Haupt herumgeht, die drei an Yama gerichteten Verse. [. . . ] 
+Dann geht er mit sieben oder einundzwanzig Bohnen in der Hand, um einen Men schenkopf zu holen, der von einem Vaiśya oder Kṣatriya herrührt, welcher durch einen Pfeil (im Kriege) oder durch den Blitz get¨otet worden ist. Nachdem er die Bohnen in der Nähe (des K¨orpers) hingeworfen hat, haut er den Menschenkopf ab mit der Formel: ,Der du hier bist, dem dir dieses Haupt angeh¨ort, durch dieses Haupt sollst du dort im Besitze eines Hauptes sein’ und legt dann an die Stelle des Kopfes einen siebenfach durchl¨ocherten Ameisenhaufen nieder. Er singt, während er rechts um das Haupt herumgeht, die drei an Yama gerichteten Verse. [. . . ] 
 
 27 KSS 16.1.14: ´ parivr̥te puruṣasaṁjñapanam. 
 
@@ -4692,7 +4692,7 @@ Sharma’s conclusions have been challenged by Schlingloff, whose criticism is i
 
 The identification of the site as a fire-altar does raise some problems. The location of the altar so close to the ramparts of the city seems unusual. [. . . ] The shape of the bird as presently reconstructed appears to be rather curvilinear, whereas the bricks used for the altar would indicate a more rectilinear form. The interpretation of the objects found is also not convincing. [. . . ] The frequency of human skulls and bones would also seem to suggest a ritual different from that described in the texts and it certainly is in excess of what is required. [. . . ] there can be little doubt that the structure did represent some kind of sacrificial or funerary site. 39 
 
-Comparison of the Kauśāmbī brick structure with the fire-altar remains in Ja gatgram makes it clear at a single glance that the two are completely different. Thapar is right when she notes that the location where this brick construction was found, at the foot of the ramparts, is unusual and I would like to go one step further, saying that this location virtually excludes the possibility that we are here concerned with an Agnicayana altar, which has to and can only be con structed in an open field. The great number of animal and human remains also seems incompatible with the Agnicayana ritual. Neither can I accept Schling loff’s suggestion that we may here be concerned with a ritual ‘Grabst¨atte’ or cemetery just like that. The location speaks against it and what to do with all the animal bones? The excavation is in need of a thorough reassessment, but my tentative suggestion would be that the uncovered brick structure rep resents the material remains of a construction sacrifice performed to ‘animate’, i.e. strengthen the defence constructions of the towṇTaking its clue from the paradigmatic Agnicayana, this sacrifice entailed that animals and humans were slaughtered and bricked into an altar-like structure, yielding a ‘Grabst¨atte’ of a very peculiar kind. And what remains valid of Sharma’s conclusions, against Schlingloff, is that the site does indeed testify to the practice of a Puruṣamedha, human sacrifice. 
+Comparison of the Kauśāmbī brick structure with the fire-altar remains in Ja gatgram makes it clear at a single glance that the two are completely different. Thapar is right when she notes that the location where this brick construction was found, at the foot of the ramparts, is unusual and I would like to go one step further, saying that this location virtually excludes the possibility that we are here concerned with an Agnicayana altar, which has to and can only be con structed in an open field. The great number of animal and human remains also seems incompatible with the Agnicayana ritual. Neither can I accept Schling loff’s suggestion that we may here be concerned with a ritual ‘Grabstätte’ or cemetery just like that. The location speaks against it and what to do with all the animal bones? The excavation is in need of a thorough reassessment, but my tentative suggestion would be that the uncovered brick structure rep resents the material remains of a construction sacrifice performed to ‘animate’, i.e. strengthen the defence constructions of the towṇTaking its clue from the paradigmatic Agnicayana, this sacrifice entailed that animals and humans were slaughtered and bricked into an altar-like structure, yielding a ‘Grabstätte’ of a very peculiar kind. And what remains valid of Sharma’s conclusions, against Schlingloff, is that the site does indeed testify to the practice of a Puruṣamedha, human sacrifice. 
 
 Mansar 
 
@@ -5396,7 +5396,7 @@ One example, a very early one that has however retained its unquestioned authori
 
 2 For this ethos and its implementation see Schmithausen 1999; on Aśoka op. cit. 55. 3 Schmidt 1968, 1997; Heesterman 1984; Bodewitz 1999. For a survey and bibliography of this discussion see Bodewitz 1999. Bodewitz concludes (ibid. 41): 
 
-One may rather assume that ahi ˙msā originally belonged to the ascetic antiritualism, which was especially represented by the heretics (Buddhist and Jains) and only hes itantly obtained a foothold in the older Vedic Upaniṣads, where, however, it [scil. antiritualism] was never associated with ahi ˙msā. 
+One may rather assume that ahi ˙msā originally belonged to the ascetic antiritualism, which was especially represented by the heretics (Buddhist and Jains) and only hes itantly obtained a foothold in the older Vedic Upaniṣads, where, however, it [sciḷantiritualism] was never associated with ahi ˙msā. 
 
 4 Bodewitz 1999, 20: 
 
@@ -5516,7 +5516,7 @@ However, it will cause no surprise that in a culture that was entirely permeated
 
 
 
-the end of the autumnal Navarātra festival, on the ‘Tenth of Victory’ (vijayā daśamī, Dasarā), in which the ‘Invincible Goddess’ (Aparājitā) was worshipped and the king’s arms, his soldiers, horses and elephants were purified before they took to the field. 17 The festival preceding this lustration of arms, the Nava rātra, is dedicated to Durgā, who became also the Hindu goddess of war. 18 When Vākpatirāja (first half of eighth century ad) in his Ga¨uḍavaha (vv. 285– 338) describes the worship of Durgā by his hero, Yaśovarman of Kanauj, before this king set out on his conquest, 19 this may refer to actual practice. All this, however, does not imply that the kings went to war because of this Goddess, or for the sake of religioṇIn this respect Hinduism differed fundamentally from the Abrahamic religions. I will conclude this essay with some observations on what actually happened, when these two types of religions came into conflict. 
+the end of the autumnal Navarātra festival, on the ‘Tenth of Victory’ (vijayā daśamī, Dasarā), in which the ‘Invincible Goddess’ (Aparājitā) was worshipped and the king’s arms, his soldiers, horses and elephants were purified before they took to the field. 17 The festival preceding this lustration of arms, the Nava rātra, is dedicated to Durgā, who became also the Hindu goddess of war. 18 When Vākpatirāja (first half of eighth century ad) in his Gaüḍavaha (vv. 285– 338) describes the worship of Durgā by his hero, Yaśovarman of Kanauj, before this king set out on his conquest, 19 this may refer to actual practice. All this, however, does not imply that the kings went to war because of this Goddess, or for the sake of religioṇIn this respect Hinduism differed fundamentally from the Abrahamic religions. I will conclude this essay with some observations on what actually happened, when these two types of religions came into conflict. 
 
 Hinduism and Islam 
 
