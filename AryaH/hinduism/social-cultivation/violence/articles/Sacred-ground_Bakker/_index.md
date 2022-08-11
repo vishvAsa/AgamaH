@@ -4,40 +4,7 @@ title = "+Holy Ground - Bakker"
 +++
 
 
-Holy Ground – Where Art and Text Meet 
-
-
-
-
-
-
-
-Gonda Indological Studies 
-
-PUBLISHED UNDER THE AUSPICES OF THE J. GONDA FOUNDATION ROYAL NETHERLANDS ACADEMY OF ARTS AND SCIENCES 
-
-Edited by 
-
-Peter C. Bisschop (Leiden) 
-
-Editorial Board 
-
-Hans ṬBakker (London) 
-
-Dominic ḌṢGoodall (Paris/Pondicherry) 
-
-Hans Harder (Heidelberg) 
-
-Stephanie Jamison (Los Angeles) 
-
-Ellen ṀRaven (Leiden) 
-
-Jonathan A. Silk (Leiden) 
-
-VOLUME 20 
-
-The titles published in this series are listed at brilḷcom/gis 
-
+Holy Ground – Where Art and Text Meet
 
 
 
@@ -60,7 +27,7 @@ LEIDEN | BOSTON
 
 This is an open access title distributed under the terms of the   
 
-CC-BY-NC . License, which permits any non-commercial use, 
+CC-BY-NC License, which permits any non-commercial use, 
 
 distribution, and reproduction in any medium, provided the original 
 
@@ -70,27 +37,13 @@ Research and production of this book have been made possible by financial suppor
 
 J. Gonda Foundation, Royal Netherlands Academy of Arts and Sciences 
 
-Typesetting and layout: ḤṬBakker. 
-
-The Library of Congress Cataloging-in-Publication Data is available online at http://catalog.loc.gov LC record available at http://lccṇloc.gov/ 
-
-ISSN 1382-3442 
-
-ISBN 978-90-04-41206-4 (hardback) 
-
-ISBN 978-90-04-41207-1 (e-book) 
-
-Copyright  by Hans ṬBakker. Published by Koninklijke Brill NV, Leiden, The Netherlands. Koninklijke Brill NV incorporates the imprints Brill, Brill Hes & De Graaf, Brill Nijhoff, Brill Rodopi, Brill Sense, Hotei Publishing, mentis Verlag, Verlag Ferdinand Schöningh and Wilhelm Fink Verlag. Koninklijke Brill NV reserves the right to protect the publication against unauthorized use and to authorize dissemination by means of offprints, legitimate photocopies, microform editions, reprints, translations, and secondary information sources, such as abstracting and indexing services including databases. Requests for commercial re-use, use of parts of the publication, and/or translations must be addressed to Koninklijke Brill NV. 
-
-This book is printed on acid-free paper and produced in a sustainable manner. 
 
 
 
 
 
 
-
-Table of Contents 
+## Table of Contents 
 
 part i 
 
