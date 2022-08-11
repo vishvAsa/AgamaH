@@ -197,7 +197,7 @@ Rudra \(Śatarudriya\) hymn \[erecting the image\]   *oṃ bhūr puruṣam āvā
 *paro mātrayā* … *TB* 2.8.3.2  
 *vi cakrame* … *TB* 2.4.3.5  
 *trir devaḥ* … *TB* 2.4.3.5  
-12 names of Viṣṇu: To X, *svāhā* To Bhava, Śarva, Īśāna, Paśupati, Rudra, Ugra, Bhīma, Mahat Deva, *svāhā* \[*kṛsara ājyamiśrahoma*\]  
+[^12]: names of Viṣṇu: To X, *svāhā* To Bhava, Śarva, Īśāna, Paśupati, Rudra, Ugra, Bhīma, Mahat Deva, *svāhā* \[*kṛsara ājyamiśrahoma*\]  
 To the Patnīs of these, svaha \[*guḍodanahoma*\]  
 To the Sutas of these, *svāhā* \[*haridrodanahoma*\]  
 *tryambakaṃ yajāmahe* *TS* 1.8.6.2 = *ṚV* 7.59.12  
@@ -206,7 +206,7 @@ To the Sutas of these, *svāhā* \[*haridrodanahoma*\]
 *ārāt te goghne* … *TS* 5.4.10.3  
 *vikirida vilohita* … *TS* 4.5.10.5  
 *sahasrāṇi sahasraśaḥ* … *TS* 4.5.11.1 \(anuvāka\)  
-12 names of Śiva: To X, *svāhā*   \[Here, the *homa* Paradigm is Concluded, from *Sviṣṭakṛd-āhuti* to *Varadāna*.  
+[^12]: names of Śiva: To X, *svāhā*   \[Here, the *homa* Paradigm is Concluded, from *Sviṣṭakṛd-āhuti* to *Varadāna*.  
 A *bali* Follows:\]   *tvām ekam ādyaṃ puruṣaṃ purātanaṃ**nārāyaṇam / rudraṃ śivaṃ**viśvasṛjaṃ yajāmahe |  
 tvam eva yajño vihito vidheyas tvam ātmanātman pratigṛhṇīṣva havyam* || \[*balis* from all the fire-offerings \(*havis*\)\]  
 *bhūr bhuvaḥ suvar oṃ* \[remains of *havis* placed on a leaf\]  
@@ -268,109 +268,109 @@ If this would seem to subordinate the image cult to the fire cult, this was only
 
 ## NOTES
 
-1. The examples discussed here were presented earlier in papers at the 2006 meeting of the American Academy of Religion and at the 4th International Vedic Workshop, Austin, Texas, 2007. I gratefully acknowledge the support of a Fulbright-Hays FRA fellowship and a National Endowment for the Humanities sabbatical fellowship. An early draft was prepared while in residence at the Institut français de Pondichéry.
+[^1]: The examples discussed here were presented earlier in papers at the 2006 meeting of the American Academy of Religion and at the 4th International Vedic Workshop, Austin, Texas, 2007. I gratefully acknowledge the support of a Fulbright-Hays FRA fellowship and a National Endowment for the Humanities sabbatical fellowship. An early draft was prepared while in residence at the Institut français de Pondichéry.
 
-2. There is a thread of exegesis that takes *pākayajña* to mean “simple worship,” as if it contained the word *pā́ka*, “simple” \(etymology contested\) as its first element, rather than *pāká,* “cooked food” \(&lt; *pac-, pacati*, “cook”\). Thus, *brāhmaṇa* passages in the *Kāṭhaka-Saṃhitā* \(*KS*\) 36.9:76.13, the *Taittirīya-Saṃhitā* \(*TS*\) 1.7.1, and the *Mādhyandina Śatapatha-Brāhmaṇa* \(*ŚBM*\), 1.7.4.19, 1.8.1.18, and 43–44, represent a *pākayajñá* as a “household sacrifice” \(*gṛhamedha, KS*\) lacking the fore-offerings and after-offerings of a full *śrauta yajña* \(*KS, TS*\), and identifying it with the *iḍā* offering, which is called the “weakest part” \(*taniṣṭha*\) of the sacrifice \(*ŚBM* 1.8.1.18\). Even more explicit is the *Vārāha-Gṛhyasūtra* \(1.2–4\): *hrasvatvāt pākayajñaḥ | hrasvaṃ hi pāka ityācakṣate | darśapūrṇamāsaprakṛtiḥ pākayajñavidhir aprayājo ‘nanuyājo ‘sāmidhenīkaḥ |* “\[It is called\] ‘*pāka* worship’ because of its brevity. For what is brief is known as ‘*pāka.*’ The rule for simple worship follows the paradigm for the new- and full-moon rites, omitting the preliminary offerings, closing offerings, and kindling recitation.” *Gobhila-Gṛhyasūtra* \(1.9.8–9\) may imply the meaning “simple worship” when it defines the *pākayajña* as worship performed by the patron acting as his own *hotṛ* priest and employing just a single *brahman* priest. Brian K. Smith, “The Unity of Ritual: The Place of the Domestic Sacrifice in Vedic Ritualism,” *Indo-Iranian Journal* 28 \(1986\): 79–96, endorses the notion that the original meaning of *pāka* in this compound was “simple,” but this is unlikely.
+[^2]: There is a thread of exegesis that takes *pākayajña* to mean “simple worship,” as if it contained the word *pā́ka*, “simple” \(etymology contested\) as its first element, rather than *pāká,* “cooked food” \(&lt; *pac-, pacati*, “cook”\). Thus, *brāhmaṇa* passages in the *Kāṭhaka-Saṃhitā* \(*KS*\) 36.9:76.13, the *Taittirīya-Saṃhitā* \(*TS*\) 1.7.1, and the *Mādhyandina Śatapatha-Brāhmaṇa* \(*ŚBM*\), 1.7.4.19, 1.8.1.18, and 43–44, represent a *pākayajñá* as a “household sacrifice” \(*gṛhamedha, KS*\) lacking the fore-offerings and after-offerings of a full *śrauta yajña* \(*KS, TS*\), and identifying it with the *iḍā* offering, which is called the “weakest part” \(*taniṣṭha*\) of the sacrifice \(*ŚBM* 1.8.1.18\). Even more explicit is the *Vārāha-Gṛhyasūtra* \(1.2–4\): *hrasvatvāt pākayajñaḥ | hrasvaṃ hi pāka ityācakṣate | darśapūrṇamāsaprakṛtiḥ pākayajñavidhir aprayājo ‘nanuyājo ‘sāmidhenīkaḥ |* “\[It is called\] ‘*pāka* worship’ because of its brevity. For what is brief is known as ‘*pāka.*’ The rule for simple worship follows the paradigm for the new- and full-moon rites, omitting the preliminary offerings, closing offerings, and kindling recitation.” *Gobhila-Gṛhyasūtra* \(1.9.8–9\) may imply the meaning “simple worship” when it defines the *pākayajña* as worship performed by the patron acting as his own *hotṛ* priest and employing just a single *brahman* priest. Brian K. Smith, “The Unity of Ritual: The Place of the Domestic Sacrifice in Vedic Ritualism,” *Indo-Iranian Journal* 28 \(1986\): 79–96, endorses the notion that the original meaning of *pāka* in this compound was “simple,” but this is unlikely.
 
-3. *Taittirīya-Saṃhitā* 1.7.1, 6.2.5.4 \(without parallel in the older *Kāṭhaka, Kapiṣṭhala*, and *Maitrāyaṇī Saṃhitā*s\); *Aitareya-Brāhmaṇa* 3.40.2; *Śatapatha-Brāhmaṇa* 1.4.2.10, 1.8.1.6, 2.3.1.21.
+[^3]: *Taittirīya-Saṃhitā* 1.7.1, 6.2.5.4 \(without parallel in the older *Kāṭhaka, Kapiṣṭhala*, and *Maitrāyaṇī Saṃhitā*s\); *Aitareya-Brāhmaṇa* 3.40.2; *Śatapatha-Brāhmaṇa* 1.4.2.10, 1.8.1.6, 2.3.1.21.
 
-4. Phyllis Granoff, “Other People’s Rituals: Ritual Eclecticism in Early Medieval Indian Religious,” *Journal of Indian Philosophy* 28/4 \(2000\): 401.
+[^4]: Phyllis Granoff, “Other People’s Rituals: Ritual Eclecticism in Early Medieval Indian Religious,” *Journal of Indian Philosophy* 28/4 \(2000\): 401.
 
-5. Rock Edict 9: *asti jano ucc*āvacaṃ maṃgalaṃ karote ābādhesu vā āvāhavīvāhesu vā putralābhesu vā pravāsaṃmhi vā etamhi ca aññamhi ca jano uccāvacaṃ maṃgalaṃ karote. etta tu mahiḍāyo bahukaṃ ca bahuvidhaṃ ca chuddaṃ ca niratthaṃ ca maṃgalaṃ karote. ta kattavyam eva tu maṃgalaṃ. appaphalaṃ tu kho etārisaṃ maṃgalaṃ. \(Girnar version\) “It happens that people perform various ceremonies in the case of sicknesses, in marrying and giving in marriage, at the birth of a son, or when setting out on a journey. On these and other occasions, people perform various ceremonies. But in these, women perform numerous, diverse, vulgar, and pointless ceremonies. Now, ceremonies should certainly be performed, but ceremonies like these bear little fruit.”
+[^5]: Rock Edict 9: *asti jano ucc*āvacaṃ maṃgalaṃ karote ābādhesu vā āvāhavīvāhesu vā putralābhesu vā pravāsaṃmhi vā etamhi ca aññamhi ca jano uccāvacaṃ maṃgalaṃ karote. etta tu mahiḍāyo bahukaṃ ca bahuvidhaṃ ca chuddaṃ ca niratthaṃ ca maṃgalaṃ karote. ta kattavyam eva tu maṃgalaṃ. appaphalaṃ tu kho etārisaṃ maṃgalaṃ. \(Girnar version\) “It happens that people perform various ceremonies in the case of sicknesses, in marrying and giving in marriage, at the birth of a son, or when setting out on a journey. On these and other occasions, people perform various ceremonies. But in these, women perform numerous, diverse, vulgar, and pointless ceremonies. Now, ceremonies should certainly be performed, but ceremonies like these bear little fruit.”
 
-6. Shingo Einoo, “The Formation of the Pūjā Ceremony,” *Studien zur Indologie und Iranistik* 20 \(*Festschrift für Paul Thieme*\) \(1996\): 73–87.
+[^6]: Shingo Einoo, “The Formation of the Pūjā Ceremony,” *Studien zur Indologie und Iranistik* 20 \(*Festschrift für Paul Thieme*\) \(1996\): 73–87.
 
-7. In, e.g., Timothy Lubin, “The Transmission, Patronage, and Prestige of Brahmanical Piety from the Mauryas to the Guptas,” in Federico Squarcini, ed., *Boundaries, Dynamics and Construction of Traditions in South Asia* \(Florence: Firenze University Press, 2005\), pp. 77–103.
+[^7]: In, e.g., Timothy Lubin, “The Transmission, Patronage, and Prestige of Brahmanical Piety from the Mauryas to the Guptas,” in Federico Squarcini, ed., *Boundaries, Dynamics and Construction of Traditions in South Asia* \(Florence: Firenze University Press, 2005\), pp. 77–103.
 
-8. Marko Geslani, “The Ritual Culture of Appeasement: Śānti Rites in Post-Vedic Sources” \(PhD dissertation, Yale University, 2011\), especially chapter 4.
+[^8]: Marko Geslani, “The Ritual Culture of Appeasement: Śānti Rites in Post-Vedic Sources” \(PhD dissertation, Yale University, 2011\), especially chapter 4.
 
-9. Even the term *pūjā* itself is likely to be a loanword, perhaps from Dravidian \(*pace* Paul Thieme, “Indische Wörter und Sitten. I. pūjā,” *Zeitschrift der Deutschen Morgenländischen Gesellschaft* 93 \[1939\]: 105–124, who derives it from a hypothetical ur-form \**pṛñcā* &lt; √*pṛñc*\); Manfred Mayrhofer, *Kurzgefaßtes etymologisches Wörterbuch des Altindischen* \[*A Concise Etymological Sanskrit Dictionary*\], vol. 2 \(Heidelberg: Carl Winter, 1963\), pp. 320–321, remains agnostic on the matter.
+[^9]: Even the term *pūjā* itself is likely to be a loanword, perhaps from Dravidian \(*pace* Paul Thieme, “Indische Wörter und Sitten. I. pūjā,” *Zeitschrift der Deutschen Morgenländischen Gesellschaft* 93 \[1939\]: 105–124, who derives it from a hypothetical ur-form \**pṛñcā* &lt; √*pṛñc*\); Manfred Mayrhofer, *Kurzgefaßtes etymologisches Wörterbuch des Altindischen* \[*A Concise Etymological Sanskrit Dictionary*\], vol. 2 \(Heidelberg: Carl Winter, 1963\), pp. 320–321, remains agnostic on the matter.
 
-10. Caroline Humphrey and James Laidlaw, *The Archetypal Actions of Ritual* \(Oxford: Clarendon Press, 1994\); Jane Monnig Atkinson, *The Art and Politics of Wana Shamanship* \(Berkeley: University of California Press, 1989\).
+[^10]: Caroline Humphrey and James Laidlaw, *The Archetypal Actions of Ritual* \(Oxford: Clarendon Press, 1994\); Jane Monnig Atkinson, *The Art and Politics of Wana Shamanship* \(Berkeley: University of California Press, 1989\).
 
-11. Atkinson, *The Art and Politics of Wana Shamanship*, p. 15.
+[^11]: Atkinson, *The Art and Politics of Wana Shamanship*, p. 15.
 
-12. In *The Science of Ritual* \(Poona: Bhandarkar Oriental Research Institute, 1982\), Frits Staal pursued the linguistic analogy further, speaking of a “science of ritual.” Others have since carried forward the project of treating ritual structures as a sort of syntax; a number of recent studies in this vein were presented in Heidelberg in 2008 and are collected in Axel Michaels and Anand Mishra, eds., *Ritual Dynamics and the Science of Ritual*: vol. 1, *Grammars and Morphologies of Ritual Practices in Asia* \(Wiesbaden: Harrassowitz, 2010\), which includes a retrospective view by Staal himself.
+[^12]: In *The Science of Ritual* \(Poona: Bhandarkar Oriental Research Institute, 1982\), Frits Staal pursued the linguistic analogy further, speaking of a “science of ritual.” Others have since carried forward the project of treating ritual structures as a sort of syntax; a number of recent studies in this vein were presented in Heidelberg in 2008 and are collected in Axel Michaels and Anand Mishra, eds., *Ritual Dynamics and the Science of Ritual*: vol. 1, *Grammars and Morphologies of Ritual Practices in Asia* \(Wiesbaden: Harrassowitz, 2010\), which includes a retrospective view by Staal himself.
 
-13. Carl A. Seaquist, “Ritual Syntax” \(PhD dissertation, University of Pennsylvania, 2004\), p. 61. Pages 53–118 of Seaquist’s dissertation are given over to examining and restating Staal’s views. Richard K. Payne, “Ritual Syntax and Cognitive Science,” *Pacific World*, 3rd ser., 6 \(2004\): 195–227, offers a similar defense of Staal’s approach.
+[^13]: Carl A. Seaquist, “Ritual Syntax” \(PhD dissertation, University of Pennsylvania, 2004\), p. 61. Pages 53–118 of Seaquist’s dissertation are given over to examining and restating Staal’s views. Richard K. Payne, “Ritual Syntax and Cognitive Science,” *Pacific World*, 3rd ser., 6 \(2004\): 195–227, offers a similar defense of Staal’s approach.
 
-14. Frits Staal, “Mantras and Bird Songs,” *Journal of the American Oriental Society* 105/3 \(1985\): 550.
+[^14]: Frits Staal, “Mantras and Bird Songs,” *Journal of the American Oriental Society* 105/3 \(1985\): 550.
 
-15. Staal, *The Science of Ritual*, p. 33; and writing at more length on the insufficiency of *brāhmaṇa* exegesis in *Rules Without Meaning: Ritual, Mantra and the Human Sciences* \(New York: Peter Lang, 1990\), pp. 117–122.
+[^15]: Staal, *The Science of Ritual*, p. 33; and writing at more length on the insufficiency of *brāhmaṇa* exegesis in *Rules Without Meaning: Ritual, Mantra and the Human Sciences* \(New York: Peter Lang, 1990\), pp. 117–122.
 
-16. Staal addresses the difference between ritual and linguistic syntax by observing that the stipulated ordering of ritual elements “determines the order of embeddings and causes the generative capacity of the ritual system to be restricted in a manner the generative capacity of a natural language is not”; “Ritual Syntax,” in *Sanskrit and Indian Studies*, ed. M. Nagatomi et al. \(Dordrecht: Reidel, 1979\), p. 133; for the larger argument, see pp. 131–137.
+[^16]: Staal addresses the difference between ritual and linguistic syntax by observing that the stipulated ordering of ritual elements “determines the order of embeddings and causes the generative capacity of the ritual system to be restricted in a manner the generative capacity of a natural language is not”; “Ritual Syntax,” in *Sanskrit and Indian Studies*, ed. M. Nagatomi et al. \(Dordrecht: Reidel, 1979\), p. 133; for the larger argument, see pp. 131–137.
 
-17. This raises the question of what the nominalist philosopher Israel Scheffler, building on the work of Nelson Goodman, called the “wrong-note” problem: the way a single deviation calls into doubt the authenticity of a performance that is “individuated” strictly by a fixed “score”; Carl A. Seaquist, “Ritual Individuation and Ritual Change,” *Method and Theory in the Study of Religion* 21 \(2009\): 357–358.
+[^17]: This raises the question of what the nominalist philosopher Israel Scheffler, building on the work of Nelson Goodman, called the “wrong-note” problem: the way a single deviation calls into doubt the authenticity of a performance that is “individuated” strictly by a fixed “score”; Carl A. Seaquist, “Ritual Individuation and Ritual Change,” *Method and Theory in the Study of Religion* 21 \(2009\): 357–358.
 
-18. J. Frits Staal, *Word Order in Sanskrit and Universal Grammar* \(Wiesbaden: Springer, 1967\), pp. 24–46, 45–47.
+[^18]: J. Frits Staal, *Word Order in Sanskrit and Universal Grammar* \(Wiesbaden: Springer, 1967\), pp. 24–46, 45–47.
 
-19. Staal, “Ritual Syntax”; he later summed up his argument on this point thus: “syntax in language has a ritual origin, and language developed from syntactic structures to which meanings were added subsequently. The physical structures of ritual and the sound structures of mantras are therefore older than language” \(“Mantras and Bird Songs,” pp. 549 ff.\).
+[^19]: Staal, “Ritual Syntax”; he later summed up his argument on this point thus: “syntax in language has a ritual origin, and language developed from syntactic structures to which meanings were added subsequently. The physical structures of ritual and the sound structures of mantras are therefore older than language” \(“Mantras and Bird Songs,” pp. 549 ff.\).
 
-20. This is to appeal to Stanley Jeyaraja Tambiah’s adaptation of the speech-act theory proposed by John Austin and developed by John Searle and Maurice Bloch, in “A Performative Approach to Ritual,” *Proceedings of the British Academy* 65 \(1979\): 113–169.
+[^20]: This is to appeal to Stanley Jeyaraja Tambiah’s adaptation of the speech-act theory proposed by John Austin and developed by John Searle and Maurice Bloch, in “A Performative Approach to Ritual,” *Proceedings of the British Academy* 65 \(1979\): 113–169.
 
-21. Israel Scheffler, “Ritual and Reference,” *Synthese* 46/3 \(1981\): 421–437, “Ritual Change,” *Revue Internationale de Philosophie* 47 \(1993\): 151–160; Seaquist, “Ritual Individuation and Ritual Change.”
+[^21]: Israel Scheffler, “Ritual and Reference,” *Synthese* 46/3 \(1981\): 421–437, “Ritual Change,” *Revue Internationale de Philosophie* 47 \(1993\): 151–160; Seaquist, “Ritual Individuation and Ritual Change.”
 
-22. Richard Davis, “Cremation and Liberation: A Śaiva Siddhānta Revision,” *History of Religions* 28 \(1988\): 48.
+[^22]: Richard Davis, “Cremation and Liberation: A Śaiva Siddhānta Revision,” *History of Religions* 28 \(1988\): 48.
 
-23. Staal \(“Ritual Syntax,” p. 131\), citing a letter from Jan Heesterman, acknowledged that an embedded rite may be interrupted by segments of the rite in which it is embedded. An extended form of this is “interleaving.”
+[^23]: Staal \(“Ritual Syntax,” p. 131\), citing a letter from Jan Heesterman, acknowledged that an embedded rite may be interrupted by segments of the rite in which it is embedded. An extended form of this is “interleaving.”
 
-24. The *Khādira* states that “any offering made in a single fire is called ‘*pākayajña*’” \(*pākayajña ity ākhyā yaḥ kaś caikāgnau*, 1.1.20\). This single ritual fire is generally said to be the same as the one used in the wedding ceremony performed for the incipient householder, though the *Baudhāyana* prescribes that the fire used in the future ritualist’s initiation into Veda study should become his ritual fire. It is designated by various names in different sources \(*gṛhya, āvasathya*\), but it is to be distinguished from the ordinary kitchen fire \(the *laukika*, “secular,” or *pacana*, “cooking,” fire\). To convert the rite into an act of sorcery, the offering may instead be made in the *śālāgni*, or in the southern fire in the case of one who has laid the *śrauta* fires \(*Vārāha-Gṛhyasūtra* 1.6\). *Baudhāyana-Gṛhyasūtra* quotes an ostensibly general view that the use of iron ladles serves the same purpose.
+[^24]: The *Khādira* states that “any offering made in a single fire is called ‘*pākayajña*’” \(*pākayajña ity ākhyā yaḥ kaś caikāgnau*, 1.1.20\). This single ritual fire is generally said to be the same as the one used in the wedding ceremony performed for the incipient householder, though the *Baudhāyana* prescribes that the fire used in the future ritualist’s initiation into Veda study should become his ritual fire. It is designated by various names in different sources \(*gṛhya, āvasathya*\), but it is to be distinguished from the ordinary kitchen fire \(the *laukika*, “secular,” or *pacana*, “cooking,” fire\). To convert the rite into an act of sorcery, the offering may instead be made in the *śālāgni*, or in the southern fire in the case of one who has laid the *śrauta* fires \(*Vārāha-Gṛhyasūtra* 1.6\). *Baudhāyana-Gṛhyasūtra* quotes an ostensibly general view that the use of iron ladles serves the same purpose.
 
-25. Thus, too, *Kāṭhaka-Gṛhyasūtra* 13.7: darśapūrṇamāsaprakṛtayaḥ pākayajñāḥ.
+[^25]: Thus, too, *Kāṭhaka-Gṛhyasūtra* 13.7: darśapūrṇamāsaprakṛtayaḥ pākayajñāḥ.
 
-26. *tatrartvig brahmā sāyaṃprā* *tarhomavarjam* | *svaya*ṃ *hautram* \(*Khādira-Gṛhyasūtra* 1.1.21–22\).
+[^26]: *tatrartvig brahmā sāyaṃprā* *tarhomavarjam* | *svaya*ṃ *hautram* \(*Khādira-Gṛhyasūtra* 1.1.21–22\).
 
-27. See *Mānava-Gṛhyasūtra* 1.10.2 and 2.2.5.
+[^27]: See *Mānava-Gṛhyasūtra* 1.10.2 and 2.2.5.
 
-28. These four ritual elements are explained in the *homa* outline included later in this section.
+[^28]: These four ritual elements are explained in the *homa* outline included later in this section.
 
-29. saṃgheṣv ekavad barhir agnir āghārājyabhāgājyāhutayaḥ sviṣṭakṛ*c ca* | *agnir indra*ḥ somaḥ sītā savitā sarasvaty aśvinānumatī revatī rākā pū ṣā rudra ity etair āyojanaparyayanapravapanapralavanasītāyajñakhalayajñatantīyajñānaḍud-yajñeṣv etā devatā iti yajati sāṃvatsareṣ*u ca parvasu* | *nadyudadhik*ūpataḍāgeṣu varuṇ aṃ yajaty oṣadhivanaspatiṣu somam anādiṣṭadevateṣ*v agnim* | \(*Mānava-Gṛhyasūtra* 2.10.6–8\).
+[^29]: saṃgheṣv ekavad barhir agnir āghārājyabhāgājyāhutayaḥ sviṣṭakṛ*c ca* | *agnir indra*ḥ somaḥ sītā savitā sarasvaty aśvinānumatī revatī rākā pū ṣā rudra ity etair āyojanaparyayanapravapanapralavanasītāyajñakhalayajñatantīyajñānaḍud-yajñeṣv etā devatā iti yajati sāṃvatsareṣ*u ca parvasu* | *nadyudadhik*ūpataḍāgeṣu varuṇ aṃ yajaty oṣadhivanaspatiṣu somam anādiṣṭadevateṣ*v agnim* | \(*Mānava-Gṛhyasūtra* 2.10.6–8\).
 
-30. HGS 1.1.18–1.3.13; for the *śrauta* rites, see *Āpastamba-Śrautasūtra* 24.3.2.
+[^30]: HGS 1.1.18–1.3.13; for the *śrauta* rites, see *Āpastamba-Śrautasūtra* 24.3.2.
 
-31. See *Āśvalāyana-Gṛhyasūtra* 1.10.23; *Śatapatha-Brāhmaṇa \(Mādhyandina\)* 14.9.4.24.
+[^31]: See *Āśvalāyana-Gṛhyasūtra* 1.10.23; *Śatapatha-Brāhmaṇa \(Mādhyandina\)* 14.9.4.24.
 
-32. athāpy ṛ ca udā*haranti* | **yáḥ samídhā yá ā´hutī yó védena \[dadāśa márto agnáye | yó námasā svadhvaráḥ\] iti | … yo namasā svadhvara** iti namaskāreṇ a vai khalv api na vai devā namaskāram ati yajño vai nama iti hi brāhmaṇ  *am bhavati* | \(*Āśvalāyana-Gṛhyasūtra* 1.2–4\).
+[^32]: athāpy ṛ ca udā*haranti* | **yáḥ samídhā yá ā´hutī yó védena \[dadāśa márto agnáye | yó námasā svadhvaráḥ\] iti | … yo namasā svadhvara** iti namaskāreṇ a vai khalv api na vai devā namaskāram ati yajño vai nama iti hi brāhmaṇ  *am bhavati* | \(*Āśvalāyana-Gṛhyasūtra* 1.2–4\).
 
-33. This is the interpretation of Thomas Oberlies, “Die Śvetāśvatara-Upaniṣad: Eine Studie ihrer Gotteslehre \(Studien zu den ‘mittleren’ Upaniṣads I\),” *Wiener Zeitschrift für die Kunde Südasiens* 32 \(1988\): 35–62.
+[^33]: This is the interpretation of Thomas Oberlies, “Die Śvetāśvatara-Upaniṣad: Eine Studie ihrer Gotteslehre \(Studien zu den ‘mittleren’ Upaniṣads I\),” *Wiener Zeitschrift für die Kunde Südasiens* 32 \(1988\): 35–62.
 
-34. Mantras: *Taittirīya-Saṃhitā* 1.8.66; *brāhmaṇa: Taittirīya-Brāhmaṇa* 1.6.10; *Śatapatha-Brāhmaṇa \(Mādhyandina\)* 2.6.2.4–17; rules: *Baudhāyana-Śrautasūtra* 12.3; 5.16–17
+[^34]: Mantras: *Taittirīya-Saṃhitā* 1.8.66; *brāhmaṇa: Taittirīya-Brāhmaṇa* 1.6.10; *Śatapatha-Brāhmaṇa \(Mādhyandina\)* 2.6.2.4–17; rules: *Baudhāyana-Śrautasūtra* 12.3; 5.16–17
 
-35. A rite for Īśāna, with his consort Mīḍhuṣī and son Jayanta, is described at *Āpastamba-Gṛhya sūtra* 19.13 ff., to receive offerings along with Kṣetrapati; also, *Pāraskara-Gṛhyasūtra* 3.8–9.
+[^35]: A rite for Īśāna, with his consort Mīḍhuṣī and son Jayanta, is described at *Āpastamba-Gṛhya sūtra* 19.13 ff., to receive offerings along with Kṣetrapati; also, *Pāraskara-Gṛhyasūtra* 3.8–9.
 
-36. *haviṣāṃ balim upaharati, Baudhāyana-Gṛhya-Śeṣasūtra* 2.13.36 and 2.16.39.
+[^36]: *haviṣāṃ balim upaharati, Baudhāyana-Gṛhya-Śeṣasūtra* 2.13.36 and 2.16.39.
 
-37. This, the last section in the first chapter \(*praśna* 1\), may be a later addition. On the *nārāyaṇabali*, see Hertha Krick, “Nārāyaṇabali und Opfertod,” *Wiener Zeitschrift für die Kunde Südasiens* 21 \(1977\): 71–142.
+[^37]: This, the last section in the first chapter \(*praśna* 1\), may be a later addition. On the *nārāyaṇabali*, see Hertha Krick, “Nārāyaṇabali und Opfertod,” *Wiener Zeitschrift für die Kunde Südasiens* 21 \(1977\): 71–142.
 
-38. pumān asyai jāyata iti vijñā*yate*, *Baudhāyana-Gṛhyasūtra* 1.11.14.
+[^38]: pumān asyai jāyata iti vijñā*yate*, *Baudhāyana-Gṛhyasūtra* 1.11.14.
 
-39. The *viṣṇubali* is listed among childhood *saṃskāra*s in *Baudhāyana-Gṛhyasūtra* 4.6.1 and in *Baudhāyana-Gṛhya-Śeṣasūtra* 1.9.1 \(in which it is stated that Savitṛ is the deity honored\).
+[^39]: The *viṣṇubali* is listed among childhood *saṃskāra*s in *Baudhāyana-Gṛhyasūtra* 4.6.1 and in *Baudhāyana-Gṛhya-Śeṣasūtra* 1.9.1 \(in which it is stated that Savitṛ is the deity honored\).
 
-40. It is also described in the *śrauta* literature at *Śāṅkhāyana-Śrautasūtra* 4.17. See Willem Caland, *Śāṅkhāyana-Śrautasūtra* \(1953; reprint, Nagpur: Motilal Banarsidass, 1980\), p. 99.
+[^40]: It is also described in the *śrauta* literature at *Śāṅkhāyana-Śrautasūtra* 4.17. See Willem Caland, *Śāṅkhāyana-Śrautasūtra* \(1953; reprint, Nagpur: Motilal Banarsidass, 1980\), p. 99.
 
-41. paśunā yakṣyamāṇaḥ pākayajñopacārā*gnim upacarati* | *raudra*ḥ śaradi śūlagavaḥ | *pr*āgudīcyāṃ diśi grāmasyāsakāśe niśi gavāṃ madhye taṣṭo yūpaḥ | *pr*āk sviṣṭakṛto ’ṣṭhau śoṇitapuṭān pūrayitvā *namas te rudra manyava iti* *prabh*ṛtibhir aṣṭabhir anuvākair dikṣv antardikṣ*u copaharet* | *n*āśṛtaṃ grāmam ā*haret* | śeṣaṃ bhū*mau nikhaned api carma* | *ay*ūpān eke pākayajñapaśūn āhuḥ | \(*Mānava-Gṛhyasūtra* 2.4.1–2.5.6\).
+[^41]: paśunā yakṣyamāṇaḥ pākayajñopacārā*gnim upacarati* | *raudra*ḥ śaradi śūlagavaḥ | *pr*āgudīcyāṃ diśi grāmasyāsakāśe niśi gavāṃ madhye taṣṭo yūpaḥ | *pr*āk sviṣṭakṛto ’ṣṭhau śoṇitapuṭān pūrayitvā *namas te rudra manyava iti* *prabh*ṛtibhir aṣṭabhir anuvākair dikṣv antardikṣ*u copaharet* | *n*āśṛtaṃ grāmam ā*haret* | śeṣaṃ bhū*mau nikhaned api carma* | *ay*ūpān eke pākayajñapaśūn āhuḥ | \(*Mānava-Gṛhyasūtra* 2.4.1–2.5.6\).
 
-42. īśānāya sthālīpākaṃ vā ś*rapayanti* | *tasm*ād etat sarvaṃ karoti yad gavā kā*ryam* | \(*Baudhāyana-Gṛhyasūtra* 2.7.27\).
+[^42]: īśānāya sthālīpākaṃ vā ś*rapayanti* | *tasm*ād etat sarvaṃ karoti yad gavā kā*ryam* | \(*Baudhāyana-Gṛhyasūtra* 2.7.27\).
 
-43. Frederick M. Smith, *The Vedic Sacrifice in Transition: A Translation and Study of the Trikāṇḍamaṇḍana of Bhāskara Miśra* \(Poona: Bhandarkar Oriental Research Institute, 1987\), pp. 73–75.
+[^43]: Frederick M. Smith, *The Vedic Sacrifice in Transition: A Translation and Study of the Trikāṇḍamaṇḍana of Bhāskara Miśra* \(Poona: Bhandarkar Oriental Research Institute, 1987\), pp. 73–75.
 
-44. Gudrun Bühnemann, *Pūjā: A Study in Smārta Ritual* \(Vienna: De Nobili Research Library, 1988\), p. 49.
+[^44]: Gudrun Bühnemann, *Pūjā: A Study in Smārta Ritual* \(Vienna: De Nobili Research Library, 1988\), p. 49.
 
-45. For the relationship between the various strata of the Baudhāyana *gṛhya* canon, Willem Caland’s *Über das rituelle Sūtra des Baudhāyana* \(Leipzig: F. A. Brockhaus, 1903\) remains the authority. Pieter Harting made a study of the installation rites discussed here in *Selections from the Baudhāyana-Gṛhyapariśiṣṭasūtra* \(Amersfoort: J. Valkhoff & Co, 1922\).
+[^45]: For the relationship between the various strata of the Baudhāyana *gṛhya* canon, Willem Caland’s *Über das rituelle Sūtra des Baudhāyana* \(Leipzig: F. A. Brockhaus, 1903\) remains the authority. Pieter Harting made a study of the installation rites discussed here in *Selections from the Baudhāyana-Gṛhyapariśiṣṭasūtra* \(Amersfoort: J. Valkhoff & Co, 1922\).
 
-46. All translations from the *Taittirīya-Saṃhitā* are from Arthur B. Keith, *The Veda of the Black Yajus School Entitled Taittiriya Sanhita* \(Cambridge, MA: Harvard University Press, 1914\).
+[^46]: All translations from the *Taittirīya-Saṃhitā* are from Arthur B. Keith, *The Veda of the Black Yajus School Entitled Taittiriya Sanhita* \(Cambridge, MA: Harvard University Press, 1914\).
 
-47. Harting’s note: “Therefore the first verse for Viṣṇu, the second one for Śiva.”
+[^47]: Harting’s note: “Therefore the first verse for Viṣṇu, the second one for Śiva.”
 
-48. *athāto mahādevayoḥ pūjākaraṇ e sarvatra trīṇi padā vi cakrame tryambakaṃ yajāmaha ity etābhyāṃ yathāliṅgam āsanaṃ pādyam arghyam ācamanīyaṃ cety etayoś ca traivarṇikadharmatvāt sarvatra vacanāl lokaprasiddhaprāptapratiṣedhābhāvāt kriyata iti ha smāha baudhā* *yana*\[ḥ\] | \(Harting, *Selections from the Baudhāyana-Gṛhyapariśiṣṭasūtra*, pp. 14–15, 41; I have standardized the citation here\).
+[^48]: *athāto mahādevayoḥ pūjākaraṇ e sarvatra trīṇi padā vi cakrame tryambakaṃ yajāmaha ity etābhyāṃ yathāliṅgam āsanaṃ pādyam arghyam ācamanīyaṃ cety etayoś ca traivarṇikadharmatvāt sarvatra vacanāl lokaprasiddhaprāptapratiṣedhābhāvāt kriyata iti ha smāha baudhā* *yana*\[ḥ\] | \(Harting, *Selections from the Baudhāyana-Gṛhyapariśiṣṭasūtra*, pp. 14–15, 41; I have standardized the citation here\).
 
-49. Staal writes, “As for rites, it is especially rites of the śrauta ritual that seem to be devoid of meaning or functions. Rites of the gṛhya or ‘domestic’ ritual, on the other hand, seem often quite meaningful and functional” \(“Mantras and Bird Songs,” p. 553\). He does not explain why this should be the case, given the similarities between the two systems, simply noting that *gṛhya* rites are more attuned to practical concerns.
+[^49]: Staal writes, “As for rites, it is especially rites of the śrauta ritual that seem to be devoid of meaning or functions. Rites of the gṛhya or ‘domestic’ ritual, on the other hand, seem often quite meaningful and functional” \(“Mantras and Bird Songs,” p. 553\). He does not explain why this should be the case, given the similarities between the two systems, simply noting that *gṛhya* rites are more attuned to practical concerns.
 
-50. The *Atharvaśiras* and the *Nīlarudra* represent examples of Vedic liturgies for Rudra as supreme deity \(Timothy Lubin, “The *Nīlarudropaniṣad* and the *Paippalādasaṃhitā*: A Critical Edition and Translation of the Upaniṣad and Nārāyaṇa’s *Dīpikā*,” in Arlo Griffiths and Annette Schmiedchen, eds., *The Atharvaveda and its Paippalāda Śākhā: Historical and Philological Papers on a Vedic Tradition* \[Aachen: Shaker Verlag, 2007\], pp. 81–139; and *Atharvaśiras: Historical Study, Critical Edition, and Translation* \[Leiden: Brill, forthcoming\]\).
+[^50]: The *Atharvaśiras* and the *Nīlarudra* represent examples of Vedic liturgies for Rudra as supreme deity \(Timothy Lubin, “The *Nīlarudropaniṣad* and the *Paippalādasaṃhitā*: A Critical Edition and Translation of the Upaniṣad and Nārāyaṇa’s *Dīpikā*,” in Arlo Griffiths and Annette Schmiedchen, eds., *The Atharvaveda and its Paippalāda Śākhā: Historical and Philological Papers on a Vedic Tradition* \[Aachen: Shaker Verlag, 2007\], pp. 81–139; and *Atharvaśiras: Historical Study, Critical Edition, and Translation* \[Leiden: Brill, forthcoming\]\).
 
-51. Ute Hüsken, *Viṣṇu’s Children: Prenatal Life-Cycle Rituals in South India* \(Wiesbaden: Harrassowitz, 2009\), is a monographic study of the Vedic childhood sacraments as codified by the Vaikhānasas. She notes the special significance of the *gṛhya* Vedic *niṣeka* ritual in this tradition.
+[^51]: Ute Hüsken, *Viṣṇu’s Children: Prenatal Life-Cycle Rituals in South India* \(Wiesbaden: Harrassowitz, 2009\), is a monographic study of the Vedic childhood sacraments as codified by the Vaikhānasas. She notes the special significance of the *gṛhya* Vedic *niṣeka* ritual in this tradition.
 
-52. Gérard Colas, “On the *Baudhāyanagṛhyapariśiṣṭasūtra* and the Vaiṣṇavāgama,” in P-S. Filliozat, S. P. Narang, and C. P. Bhatta, eds., *Pandit N. R. Bhatt Felicitation Volume* \(Delhi: Motilal Banarsidass, 1994\), pp. 511–525, identifies connections between Vaiṣṇava Tantric liturgy and the prescriptions found in the *BGŚS*.
+[^52]: Gérard Colas, “On the *Baudhāyanagṛhyapariśiṣṭasūtra* and the Vaiṣṇavāgama,” in P-S. Filliozat, S. P. Narang, and C. P. Bhatta, eds., *Pandit N. R. Bhatt Felicitation Volume* \(Delhi: Motilal Banarsidass, 1994\), pp. 511–525, identifies connections between Vaiṣṇava Tantric liturgy and the prescriptions found in the *BGŚS*.
 
 
 

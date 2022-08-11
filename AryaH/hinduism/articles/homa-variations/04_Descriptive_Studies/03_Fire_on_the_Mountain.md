@@ -139,23 +139,23 @@ According to Miyake, Fudō is involved in effectively all Shugendō rituals, bec
 
 Miyake gives a detailed description of the basic Shugendō ritual for the Immovable \(Wisdom King\) Fudō hō \(不動法\), based on the manual and explanatory text of the Tendai-affiliated Shugendō Honzan \(本山\).57 He explains that the rite is structured in accord with the first of the four training rituals of Tendai esoteric Buddhism, known \(as in Shingon\) as the ritual in eighteen stages \(*jūhachidō* 十八堂\). This ritual now entails twenty-two *mudrā*-mantra ritual complexes, extended from the original eighteen. As presented by Miyake, there are nine stages of the Fudō hō, summarized here:
 
-1. *Shōgon gyōja hō* 荘厳行者法: the rite of preparing the practitioner, entering the practice space, honoring the deity, and so on.
+[^1]: *Shōgon gyōja hō* 荘厳行者法: the rite of preparing the practitioner, entering the practice space, honoring the deity, and so on.
 
-2. *Kekkai hō* 結界法: the rite of establishing the perimeter of the space in which the ritual practice will be performed.
+[^2]: *Kekkai hō* 結界法: the rite of establishing the perimeter of the space in which the ritual practice will be performed.
 
-3. *Shōgon dōjō hō* 荘厳道場法: the rite of preparing the ritual space by means of contemplative construction and decoration of the ritual enclosure.
+[^3]: *Shōgon dōjō hō* 荘厳道場法: the rite of preparing the ritual space by means of contemplative construction and decoration of the ritual enclosure.
 
-4. *Kanjō hō* 勧請法: the rite of inviting, bringing, and welcoming Fudō into the ritual enclosure.
+[^4]: *Kanjō hō* 勧請法: the rite of inviting, bringing, and welcoming Fudō into the ritual enclosure.
 
-5. *Ketsugo hō* 結護法: the rite of sealing the ritual enclosure.
+[^5]: *Ketsugo hō* 結護法: the rite of sealing the ritual enclosure.
 
-6. *Kuyō hō* 供養法: the rite of making five offerings to Fudō, including *zukō* 塗香, powdered or paste incense; *keman* 華まん, flowers; *shōkō* 焼香, burnt incense; *inshoku* 飲食, food and drink; and *tōmyō* 灯明, burning light.
+[^6]: *Kuyō hō* 供養法: the rite of making five offerings to Fudō, including *zukō* 塗香, powdered or paste incense; *keman* 華まん, flowers; *shōkō* 焼香, burnt incense; *inshoku* 飲食, food and drink; and *tōmyō* 灯明, burning light.
 
-7. *Sagōbun* 作業分: contemplative actions—ritual identification with Fudō.
+[^7]: *Sagōbun* 作業分: contemplative actions—ritual identification with Fudō.
 
-8. *Goku hōben hō* 後供方便法: the rite of making five offerings to Fudō for a second time, in the same order as above.
+[^8]: *Goku hōben hō* 後供方便法: the rite of making five offerings to Fudō for a second time, in the same order as above.
 
-9. *Hadan sahō* 破壇作法: the rite of leave-taking, sending Fudō back and “dismantling the altar.”58
+[^9]: *Hadan sahō* 破壇作法: the rite of leave-taking, sending Fudō back and “dismantling the altar.”58
 
 Analyzed at this level of detail, the ritual structure can be illustrated as in figure 2.
 
@@ -793,147 +793,147 @@ Return to their original place.
 
 ## NOTES
 
-1. In this regard, see, however, Anne Bouchy, “Le Littoral, espace de médiations: Cultes des monts Sengen, Asama, Aomine et systèmes de représentations chez les gens de mer de la côte orientale de la péninsule de Kii,” *Cahiers d’Extrême–Asie* 9 \(1996\): 255–298.
+[^1]: In this regard, see, however, Anne Bouchy, “Le Littoral, espace de médiations: Cultes des monts Sengen, Asama, Aomine et systèmes de représentations chez les gens de mer de la côte orientale de la péninsule de Kii,” *Cahiers d’Extrême–Asie* 9 \(1996\): 255–298.
 
-2. This claim certainly seems plausible when considering the religious function of mountains in Japan, and the widespread symbolism of mountains as realms of the deities in Asia. Such religious functions and symbolism, however, do not necessarily establish a continuous institutional form.
+[^2]: This claim certainly seems plausible when considering the religious function of mountains in Japan, and the widespread symbolism of mountains as realms of the deities in Asia. Such religious functions and symbolism, however, do not necessarily establish a continuous institutional form.
 
-3. Bouchy provides a valuable review of modern research on Shugendō in her “La Cascade et l’écritoire,” *Bulletin de l’Ecole française d’Extrême-Orient* 87/1 \(2000\): 341–366.
+[^3]: Bouchy provides a valuable review of modern research on Shugendō in her “La Cascade et l’écritoire,” *Bulletin de l’Ecole française d’Extrême-Orient* 87/1 \(2000\): 341–366.
 
-4. Ichiro Hori, “Mountains and Their Importance for the Idea of the Other World in Japanese Folk Religion,” *History of Religions* 6/1 \(August 1966\): 1.
+[^4]: Ichiro Hori, “Mountains and Their Importance for the Idea of the Other World in Japanese Folk Religion,” *History of Religions* 6/1 \(August 1966\): 1.
 
-5. Over the course of my fieldwork in Japan in 1982 and 1983, I observed *shugenja* visiting Mt. Kōya and also performing *saitō goma* at Tanukidani Fudōin just northeast of Kyoto, at the Fushimi Inari temple in Fukakusa, Kyoto, at the Shōgoin temple east of the Imperial court in central Kyoto, and at the grand opening of a Shingon Fudō temple along the road to Kōyasan from Hashimoto.
+[^5]: Over the course of my fieldwork in Japan in 1982 and 1983, I observed *shugenja* visiting Mt. Kōya and also performing *saitō goma* at Tanukidani Fudōin just northeast of Kyoto, at the Fushimi Inari temple in Fukakusa, Kyoto, at the Shōgoin temple east of the Imperial court in central Kyoto, and at the grand opening of a Shingon Fudō temple along the road to Kōyasan from Hashimoto.
 
-6. In addition to the version presented as part of the “Homa Variations” conference, an earlier draft of this essay was presented at the Western Region meeting of the American Academy of Religions \(AAR\) at The Claremont Colleges, Claremont, California, 1998.
+[^6]: In addition to the version presented as part of the “Homa Variations” conference, an earlier draft of this essay was presented at the Western Region meeting of the American Academy of Religions \(AAR\) at The Claremont Colleges, Claremont, California, 1998.
 
-7. Hans Henrich Hock writes in *Principles of Historical Linguistics*, 2nd ed. \(Berlin: Mouton de Gruyter, 1991\), p. 6, “Considering that such borrowed items are rarely returned, the terms ‘theft’ or ‘embezzlement’ would be more appropriate, but they sound less nice.”
+[^7]: Hans Henrich Hock writes in *Principles of Historical Linguistics*, 2nd ed. \(Berlin: Mouton de Gruyter, 1991\), p. 6, “Considering that such borrowed items are rarely returned, the terms ‘theft’ or ‘embezzlement’ would be more appropriate, but they sound less nice.”
 
-8. Gaynor Sekimori, “Shugendō and its Relationship with the Japanese Esoteric Sects: A Study of the Ritual Calendar of an Edo-Period Shugendō Shrine-Temple Complex,” in Charles D. Orzech, Henrik H. Sørensen, and Richard K. Payne, eds., *Esoteric Buddhism and the Tantras in East Asia* \(Leiden: Brill, 2011\), pp. 997–1008.
+[^8]: Gaynor Sekimori, “Shugendō and its Relationship with the Japanese Esoteric Sects: A Study of the Ritual Calendar of an Edo-Period Shugendō Shrine-Temple Complex,” in Charles D. Orzech, Henrik H. Sørensen, and Richard K. Payne, eds., *Esoteric Buddhism and the Tantras in East Asia* \(Leiden: Brill, 2011\), pp. 997–1008.
 
-9. Ryuichi Abé, *The Weaving of Mantra: Kūkai and the Construction of Esoteric Buddhist Discourse* \(New York: Columbia University Press, 1999\), p. 83. See also George J. Tanabe, Jr., “The Founding of Mount Kōya and Kūkai’s Eternal Meditation,” in George J. Tanabe, Jr., ed., *Religions of Japan in Practice* \(Princeton, NJ: Princeton University Press, 1999\), pp. 354–359; William Frank Londo, “The Other Mountain: The Mt. Kōya Temple Complex in the Heian Era” \(PhD dissertation, University of Michigan, 2004\).
+[^9]: Ryuichi Abé, *The Weaving of Mantra: Kūkai and the Construction of Esoteric Buddhist Discourse* \(New York: Columbia University Press, 1999\), p. 83. See also George J. Tanabe, Jr., “The Founding of Mount Kōya and Kūkai’s Eternal Meditation,” in George J. Tanabe, Jr., ed., *Religions of Japan in Practice* \(Princeton, NJ: Princeton University Press, 1999\), pp. 354–359; William Frank Londo, “The Other Mountain: The Mt. Kōya Temple Complex in the Heian Era” \(PhD dissertation, University of Michigan, 2004\).
 
-10. On the relation between the establishment of Mt. Kōya as the main training center of Shingon Buddhism and Kūkai’s mountain austerities prior to his trip to China, see Londo, “The Other Mountain,” pp. 45–61.
+[^10]: On the relation between the establishment of Mt. Kōya as the main training center of Shingon Buddhism and Kūkai’s mountain austerities prior to his trip to China, see Londo, “The Other Mountain,” pp. 45–61.
 
-11. Gorai Shigeru, “Shugendo Lore,” *Japanese Journal of Religious Studies* 16/2–3 \(1989\): 124.
+[^11]: Gorai Shigeru, “Shugendo Lore,” *Japanese Journal of Religious Studies* 16/2–3 \(1989\): 124.
 
-12. Londo points to the important role of another similar group, the *jikyōsha* \(持経者\), “a type of wandering ascetic specializing in the memorization, chanting, and preaching of the *Lotus Sutra*” \(“The Other Mountain,” p. 85\).
+[^12]: Londo points to the important role of another similar group, the *jikyōsha* \(持経者\), “a type of wandering ascetic specializing in the memorization, chanting, and preaching of the *Lotus Sutra*” \(“The Other Mountain,” p. 85\).
 
-13. See, Janet R. Goodwin, *Alms and Vagabonds: Buddhist Temples and Popular Patronage in Medieval Japan* \(Honolulu: University of Hawai’i Press, 1994\); Mikael S. Adolphson, *The Gates of Power: Monks, Courtiers, and Warriors in Premodern Japan* \(Honolulu: University of Hawai’i Press, 2000\), p. 56; Donald C. Drummond, Sr., “Negotiating Influence: The Pilgrimage Diary of Monastic Imperial Prince Kakuhō—*Omurogosho Kōyasan gosanrō nikki*” \(PhD dissertation, Graduate Theological Union, Berkeley, California, 2007\).
+[^13]: See, Janet R. Goodwin, *Alms and Vagabonds: Buddhist Temples and Popular Patronage in Medieval Japan* \(Honolulu: University of Hawai’i Press, 1994\); Mikael S. Adolphson, *The Gates of Power: Monks, Courtiers, and Warriors in Premodern Japan* \(Honolulu: University of Hawai’i Press, 2000\), p. 56; Donald C. Drummond, Sr., “Negotiating Influence: The Pilgrimage Diary of Monastic Imperial Prince Kakuhō—*Omurogosho Kōyasan gosanrō nikki*” \(PhD dissertation, Graduate Theological Union, Berkeley, California, 2007\).
 
-14. Allan G. Grapard, “*Keiranshuyoshu*: A Different Perspective on Mount Hiei in the Medieval Period,” in Richard K. Payne, ed., *Re-Visioning “Kamakura” Buddhism* \(Honolulu: University of Hawai’i Press, 1998\), pp. 55–69.
+[^14]: Allan G. Grapard, “*Keiranshuyoshu*: A Different Perspective on Mount Hiei in the Medieval Period,” in Richard K. Payne, ed., *Re-Visioning “Kamakura” Buddhism* \(Honolulu: University of Hawai’i Press, 1998\), pp. 55–69.
 
-15. Gorai, “Shugendo Lore,” p. 128.
+[^15]: Gorai, “Shugendo Lore,” p. 128.
 
-16. Barbara Ambros, “Tōzanha Shugendō in the Early Modern Period,” in Charles D. Orzech, Henrik H. Sørensen, and Richard K. Payne, eds., *Esoteric Buddhism and the Tantras in East Asia* \(Leiden: Brill, 2011\), pp. 1018–1023.
+[^16]: Barbara Ambros, “Tōzanha Shugendō in the Early Modern Period,” in Charles D. Orzech, Henrik H. Sørensen, and Richard K. Payne, eds., *Esoteric Buddhism and the Tantras in East Asia* \(Leiden: Brill, 2011\), pp. 1018–1023.
 
-17. Hitoshi Miyake, “Religious Rituals in Shugendo: A Summary,” *Japanese Journal of Religious Studies* 16/2–3 \(1989\): 103–104.
+[^17]: Hitoshi Miyake, “Religious Rituals in Shugendo: A Summary,” *Japanese Journal of Religious Studies* 16/2–3 \(1989\): 103–104.
 
-18. Gorai, “Shugendo Lore,” p. 128.
+[^18]: Gorai, “Shugendo Lore,” p. 128.
 
-19. Gorai, “Shugendo Lore,” p. 135.
+[^19]: Gorai, “Shugendo Lore,” p. 135.
 
-20. H. Byron Earhart, *A Religious Study of the Mount Haguro Sect of Shugendō: An Example of a Japanese Mountain Religion* \(Tokyo: Sophia University, 1970\), p. 37.
+[^20]: H. Byron Earhart, *A Religious Study of the Mount Haguro Sect of Shugendō: An Example of a Japanese Mountain Religion* \(Tokyo: Sophia University, 1970\), p. 37.
 
-21. Carmen Blacker, *The Catalpa Bow: A Study in Shamanistic Practices in Japan* \(London: George Allen and Unwin, 1975\), p. 191.
+[^21]: Carmen Blacker, *The Catalpa Bow: A Study in Shamanistic Practices in Japan* \(London: George Allen and Unwin, 1975\), p. 191.
 
-22. Blacker, *The Catalpa Bow*, p. 191.
+[^22]: Blacker, *The Catalpa Bow*, p. 191.
 
-23. Yoshito S. Hakeda, *Kūkai: Major Works Translated, with an Account of His Life and a Study of His Thought* \(New York and London: Columbia University Press, 1972\), p. 241.
+[^23]: Yoshito S. Hakeda, *Kūkai: Major Works Translated, with an Account of His Life and a Study of His Thought* \(New York and London: Columbia University Press, 1972\), p. 241.
 
-24. Miyake gives a description of a mountain practice structured around the six worlds in his 1975 essay “Mountain Austerities in Shugendō,” chapter 4 in Hitoshi Miyake, *Shugendō: Essays on the Structure of Japanese Folk Religion* \(Ann Arbor, MI: Center for Japanese Studies, 2001\), pp. 78–98. He explains that the ten-world system was used on Mount Ōmine from the fourteenth to sixteenth centuries \(p. 92\).
+[^24]: Miyake gives a description of a mountain practice structured around the six worlds in his 1975 essay “Mountain Austerities in Shugendō,” chapter 4 in Hitoshi Miyake, *Shugendō: Essays on the Structure of Japanese Folk Religion* \(Ann Arbor, MI: Center for Japanese Studies, 2001\), pp. 78–98. He explains that the ten-world system was used on Mount Ōmine from the fourteenth to sixteenth centuries \(p. 92\).
 
-25. Hitoshi Miyake, *The Mandala of the Mountain: Shugendō and Folk Religion* \(Tokyo: Keio University Press, 2005\), p. 62. For a fuller discussion, see also pp. 108–109.
+[^25]: Hitoshi Miyake, *The Mandala of the Mountain: Shugendō and Folk Religion* \(Tokyo: Keio University Press, 2005\), p. 62. For a fuller discussion, see also pp. 108–109.
 
-26. Miyake, *Shugendō: Essays on the Structure of Japanese Folk Religion*, p. 78.
+[^26]: Miyake, *Shugendō: Essays on the Structure of Japanese Folk Religion*, p. 78.
 
-27. Earhart, *A Religious Study of the Mount Haguro Sect of Shugendō*, p. 29.
+[^27]: Earhart, *A Religious Study of the Mount Haguro Sect of Shugendō*, p. 29.
 
-28. For a discussion of the use of this concept, see David Seyfort Ruegg, *The Symbiosis of Buddhism with Brahmanism/Hinduism in South Asia and of Buddhism with ‘Local Cults’ in Tibet and the Himalayan Region* \(Vienna: Österreichische Akademie der Wissenschaften, 2008\), pp. v–ix.
+[^28]: For a discussion of the use of this concept, see David Seyfort Ruegg, *The Symbiosis of Buddhism with Brahmanism/Hinduism in South Asia and of Buddhism with ‘Local Cults’ in Tibet and the Himalayan Region* \(Vienna: Österreichische Akademie der Wissenschaften, 2008\), pp. v–ix.
 
-29. Richard K. Payne, *The Tantric Ritual of Japan* \(Delhi: International Academy of Indian Culture, 1991\), pp. 52–53.
+[^29]: Richard K. Payne, *The Tantric Ritual of Japan* \(Delhi: International Academy of Indian Culture, 1991\), pp. 52–53.
 
-30. For example, Miyake mentions that one of the distinct practices of the Kannokura *hijiri* at Shingū was that they “fasted and kept watch over the ‘eternal flame’ on preparation for the fire festival.” Hitoshi Miyake, “Rethinking Japanese Folk Religion: A Study of Kumano Shugen,” in P. F. Kornicki and I. J. McMullen, eds., *Religion in Japan: Arrows to Heaven and Earth* \(Cambridge: Cambridge University Press, 1996\), p. 128.
+[^30]: For example, Miyake mentions that one of the distinct practices of the Kannokura *hijiri* at Shingū was that they “fasted and kept watch over the ‘eternal flame’ on preparation for the fire festival.” Hitoshi Miyake, “Rethinking Japanese Folk Religion: A Study of Kumano Shugen,” in P. F. Kornicki and I. J. McMullen, eds., *Religion in Japan: Arrows to Heaven and Earth* \(Cambridge: Cambridge University Press, 1996\), p. 128.
 
-31. See Klaus Antoni, *Rituale und ihre Urheber: Invented Traditions in der japanischen Religionsgschichte* \(Hamburg: Lit, 1997\). For what is perhaps the foundational study of this process in European history, see Eric Hobsbawm and Terence Ranger, *The Invention of Tradition* \(Cambridge: Cambridge University Press, 1983\).
+[^31]: See Klaus Antoni, *Rituale und ihre Urheber: Invented Traditions in der japanischen Religionsgschichte* \(Hamburg: Lit, 1997\). For what is perhaps the foundational study of this process in European history, see Eric Hobsbawm and Terence Ranger, *The Invention of Tradition* \(Cambridge: Cambridge University Press, 1983\).
 
-32. Earhart, *A Religious Study of the Mount Haguro Sect of Shugendō*, p. 29.
+[^32]: Earhart, *A Religious Study of the Mount Haguro Sect of Shugendō*, p. 29.
 
-33. Miyake, “Religious Rituals in Shugendo: A Summary,” p. 106.
+[^33]: Miyake, “Religious Rituals in Shugendo: A Summary,” p. 106.
 
-34. Miyake, *The Mandala of the Mountain*, p. 130. The idea that the fire consumes the body per se is symbolized by interpreting the “lattice of logs \[as\] representing the bones of the human body” \(p. 106\).
+[^34]: Miyake, *The Mandala of the Mountain*, p. 130. The idea that the fire consumes the body per se is symbolized by interpreting the “lattice of logs \[as\] representing the bones of the human body” \(p. 106\).
 
-35. Richard K. Payne, “The Shingon *Ajikan*: Diagrammatic Analysis of Ritual Syntax,” *Religion* 29/3 \(July 1999\): 215–229; “*Ajikan*: Ritual and Meditation in the Shingon Tradition,” in Payne, ed., *Re-Visioning “Kamakura” Buddhism*, pp. 219–248.
+[^35]: Richard K. Payne, “The Shingon *Ajikan*: Diagrammatic Analysis of Ritual Syntax,” *Religion* 29/3 \(July 1999\): 215–229; “*Ajikan*: Ritual and Meditation in the Shingon Tradition,” in Payne, ed., *Re-Visioning “Kamakura” Buddhism*, pp. 219–248.
 
-36. For illustrations, see Shugendō shugyō taikei hensan iinkai, ed., *Shugendō shugyō taikei* 修験道修行大系 \[A Compendium of Shugendō Practices\] \(Tokyo: Kokusho Kankōka, 1994\), pp. 142–146.
+[^36]: For illustrations, see Shugendō shugyō taikei hensan iinkai, ed., *Shugendō shugyō taikei* 修験道修行大系 \[A Compendium of Shugendō Practices\] \(Tokyo: Kokusho Kankōka, 1994\), pp. 142–146.
 
-37. In the course of my research in Japan from 1982 to 1983, I observed four different *saitō goma* in different locations. I believe that these constituted a fairly representative sample of public performances of the *saitō goma*, as distinct from those done in conjunction with the periods of austerities that *shugenja* engage in during mountain retreats.
+[^37]: In the course of my research in Japan from 1982 to 1983, I observed four different *saitō goma* in different locations. I believe that these constituted a fairly representative sample of public performances of the *saitō goma*, as distinct from those done in conjunction with the periods of austerities that *shugenja* engage in during mountain retreats.
 
-38. Carmen Blacker, “Appendix: Climbing the Ladder of Swords,” in *The Catalpa Bow: A Study in Shamanistic Practices in Japan* \(London: George Allen and Unwin, 1975\), pp. 288–291.
+[^38]: Carmen Blacker, “Appendix: Climbing the Ladder of Swords,” in *The Catalpa Bow: A Study in Shamanistic Practices in Japan* \(London: George Allen and Unwin, 1975\), pp. 288–291.
 
-39. Miyake, “Religious Rituals in Shugendo,” p. 104.
+[^39]: Miyake, “Religious Rituals in Shugendo,” p. 104.
 
-40. Richard Karl Payne, *The Tantric Ritual of Japan, Feeding the Gods: The Shingon Fire Ritual* \(Delhi: International Academy of Indian Culture and Aditya Prakashan, 1991\).
+[^40]: Richard Karl Payne, *The Tantric Ritual of Japan, Feeding the Gods: The Shingon Fire Ritual* \(Delhi: International Academy of Indian Culture and Aditya Prakashan, 1991\).
 
-41. One of the rationales for secrecy encountered in both Tibetan and Japanese esoteric Buddhism is that it provided for the protection of the uninitiated. Regarding the practice of secrecy in Tibet, David Gray explains the traditional view that “\[t\]‌his secrecy was for the protection of the unprepared, not for the hoarding of wisdom by initiated elite” \(“The Purification of Heruka: Reflections on Identity Formation in Late Indian Buddhism,” *Pacific World*, 3rd ser., 13 \[2011\]: 81–93\). This is congruent with assertions made by the early twentieth-century Shingon scholar Tajima Ryūjun in *Étude sur le Mahāvairocana-sūtra \(Dainichikyō\)*\(Paris: Adrien Maisonneuve, 1936\), p. 9. Tajima employs two metaphors to explain the dangers of the tantric teaching that the passions are of the same nature as *bodhi*. The first metaphor is medicine, which used properly can heal the sick, but if used improperly it can be a virulent poison. The second is a sharp knife, which in adult hands is a useful tool but in the hands of a child is dangerous both to the child and others. In contrast to these apologetic explanations, a more complex and historically nuanced interpretation emerges from the essays collected in Bernhard Scheid and Mark Teeuwen, eds., *The Culture of Secrecy in Japanese Religion* \(London: Routledge, 2006\).
+[^41]: One of the rationales for secrecy encountered in both Tibetan and Japanese esoteric Buddhism is that it provided for the protection of the uninitiated. Regarding the practice of secrecy in Tibet, David Gray explains the traditional view that “\[t\]‌his secrecy was for the protection of the unprepared, not for the hoarding of wisdom by initiated elite” \(“The Purification of Heruka: Reflections on Identity Formation in Late Indian Buddhism,” *Pacific World*, 3rd ser., 13 \[2011\]: 81–93\). This is congruent with assertions made by the early twentieth-century Shingon scholar Tajima Ryūjun in *Étude sur le Mahāvairocana-sūtra \(Dainichikyō\)*\(Paris: Adrien Maisonneuve, 1936\), p. 9. Tajima employs two metaphors to explain the dangers of the tantric teaching that the passions are of the same nature as *bodhi*. The first metaphor is medicine, which used properly can heal the sick, but if used improperly it can be a virulent poison. The second is a sharp knife, which in adult hands is a useful tool but in the hands of a child is dangerous both to the child and others. In contrast to these apologetic explanations, a more complex and historically nuanced interpretation emerges from the essays collected in Bernhard Scheid and Mark Teeuwen, eds., *The Culture of Secrecy in Japanese Religion* \(London: Routledge, 2006\).
 
-42. An important statement against the use of “influence” is found in Michael Baxandall, *Patterns of Intention: On the Historical Explanation of Pictures* \(New Haven, CT: Yale University Press, 1985\), pp. 58–62.
+[^42]: An important statement against the use of “influence” is found in Michael Baxandall, *Patterns of Intention: On the Historical Explanation of Pictures* \(New Haven, CT: Yale University Press, 1985\), pp. 58–62.
 
-43. This provides an alternative to the categories of linguistics, which I have attempted to employ analytically elsewhere. See Richard K. Payne, “Translating Ritual: Methodological Reflections on the Transmission of Esoteric Buddhist Ritual to East Asia,” in Editorial Board, International Conference on Esoteric Buddhist Studies, eds., *Esoteric Buddhist Studies: Identity in Diversity* \(Koyasan: Koyasan University, 2008\), pp. 101–112. This approach may pose the danger of becoming something of a Procrustean bed for the study of ritual, by looking for exact analogues of the contemporary theoretical entities of linguistics, such as, words, phrases, sentences, and so on. Cf. Axel Michaels, “Struktur und Varianz: Kann es eine Grammatik der Ritual geben?” Paper delivered for the Kulturwissenschaftlichen Kollegs of the Universität Konstanz, June 4, 2008. [http://www.sai.uni-heidelberg.de/abt/IND/en/publikation/online-publikationen](http://www.sai.uni-heidelberg.de/abt/IND/en/publikation/online-publikationen).
+[^43]: This provides an alternative to the categories of linguistics, which I have attempted to employ analytically elsewhere. See Richard K. Payne, “Translating Ritual: Methodological Reflections on the Transmission of Esoteric Buddhist Ritual to East Asia,” in Editorial Board, International Conference on Esoteric Buddhist Studies, eds., *Esoteric Buddhist Studies: Identity in Diversity* \(Koyasan: Koyasan University, 2008\), pp. 101–112. This approach may pose the danger of becoming something of a Procrustean bed for the study of ritual, by looking for exact analogues of the contemporary theoretical entities of linguistics, such as, words, phrases, sentences, and so on. Cf. Axel Michaels, “Struktur und Varianz: Kann es eine Grammatik der Ritual geben?” Paper delivered for the Kulturwissenschaftlichen Kollegs of the Universität Konstanz, June 4, 2008. [http://www.sai.uni-heidelberg.de/abt/IND/en/publikation/online-publikationen](http://www.sai.uni-heidelberg.de/abt/IND/en/publikation/online-publikationen).
 
-44. Erik Zürcher, “Buddhist Influence on Early Taoism: A Survey of Scriptural Evidence,” *T’oung Pao: International Journal of Chinese Studies*, 66/1–3 \(1980\): 86.
+[^44]: Erik Zürcher, “Buddhist Influence on Early Taoism: A Survey of Scriptural Evidence,” *T’oung Pao: International Journal of Chinese Studies*, 66/1–3 \(1980\): 86.
 
-45. Zürcher, “Buddhist Influence on Early Taoism,” p. 86.
+[^45]: Zürcher, “Buddhist Influence on Early Taoism,” p. 86.
 
-46. Zürcher, “Buddhist Influence on Early Taoism,” p. 87. It is interesting that Zürcher qualifies this level of borrowing in terms of concepts, specifically doctrinal concepts. It seems to unnecessarily focus on doctrine as the essential matter, ignoring practice.
+[^46]: Zürcher, “Buddhist Influence on Early Taoism,” p. 87. It is interesting that Zürcher qualifies this level of borrowing in terms of concepts, specifically doctrinal concepts. It seems to unnecessarily focus on doctrine as the essential matter, ignoring practice.
 
-47. Zürcher, “Buddhist Influence on Early Taoism,” p. 87.
+[^47]: Zürcher, “Buddhist Influence on Early Taoism,” p. 87.
 
-48. Zürcher, “Buddhist Influence on Early Taoism,” p. 88.
+[^48]: Zürcher, “Buddhist Influence on Early Taoism,” p. 88.
 
-49. Zürcher, “Buddhist Influence on Early Taoism,” p. 88.
+[^49]: Zürcher, “Buddhist Influence on Early Taoism,” p. 88.
 
-50. See, in particular, Christine Mollier, *Buddhism and Taoism Face to Face: Scripture, Ritual, and Iconographic Exchange in Medieval China* \(Honolulu: University of Hawai’i Press, 2008\). Mollier’s work is particularly valuable in that she examines exchanges in both directions. Her study also goes beyond Zürcher’s apparent focus on doctrinal concepts noted in n. 44.
+[^50]: See, in particular, Christine Mollier, *Buddhism and Taoism Face to Face: Scripture, Ritual, and Iconographic Exchange in Medieval China* \(Honolulu: University of Hawai’i Press, 2008\). Mollier’s work is particularly valuable in that she examines exchanges in both directions. Her study also goes beyond Zürcher’s apparent focus on doctrinal concepts noted in n. 44.
 
-51. Fabio Rambelli, *Buddhist Materiality: A Cultural History of Objects in Japanese Buddhism* \(Palo Alto, CA: Stanford University Press, 2007\), p. 23.
+[^51]: Fabio Rambelli, *Buddhist Materiality: A Cultural History of Objects in Japanese Buddhism* \(Palo Alto, CA: Stanford University Press, 2007\), p. 23.
 
-52. See Christopher S. George, *The Caṇḍamahāroṣaṇa Tantra* \(New Haven, CT: American Oriental Society, 1974\).
+[^52]: See Christopher S. George, *The Caṇḍamahāroṣaṇa Tantra* \(New Haven, CT: American Oriental Society, 1974\).
 
-53. Miyake, “Religious Rituals in Shugendo,” p. 106.
+[^53]: Miyake, “Religious Rituals in Shugendo,” p. 106.
 
-54. One of the semiotic markers between Shintō *kami* 神 and Buddhist deities is the nature of the offerings made to them. In general *kami* can be offered meat, such as fish, and saké, while buddhas and their retinues cannot. Fudō, however, is regularly offered saké. That this rule does not perfectly demarcate the two categories of deities makes for interesting case studies. See, e.g., Lisa Grumbach, “Sacrifice and Salvation in Medieval Japan: Hunting and Meat in Religious Practice as Suwa Jinja” \(PhD dissertation, Stanford University, 2005\), and Ikuo Nakamura, “The Debate on Taking Life and Eating Meat in the Edo-Period Jōdo Shin Tradition,” in Richard K. Payne, ed., *How Much is Enough? Buddhism, Consumerism, and the Human Environment* \(Boston: Wisdom Publications, 2010\), pp. 147–160.
+[^54]: One of the semiotic markers between Shintō *kami* 神 and Buddhist deities is the nature of the offerings made to them. In general *kami* can be offered meat, such as fish, and saké, while buddhas and their retinues cannot. Fudō, however, is regularly offered saké. That this rule does not perfectly demarcate the two categories of deities makes for interesting case studies. See, e.g., Lisa Grumbach, “Sacrifice and Salvation in Medieval Japan: Hunting and Meat in Religious Practice as Suwa Jinja” \(PhD dissertation, Stanford University, 2005\), and Ikuo Nakamura, “The Debate on Taking Life and Eating Meat in the Edo-Period Jōdo Shin Tradition,” in Richard K. Payne, ed., *How Much is Enough? Buddhism, Consumerism, and the Human Environment* \(Boston: Wisdom Publications, 2010\), pp. 147–160.
 
-55. On the matching of fire and water symbolism, see Holly Grether, “The Ritual Interplay of Fire and Water in Hindu and Buddhist Tantras,” in this volume. On interior heat in the *Anuttara-tantra* Mother tantras, see Heather Stoddard, “Dynamic Structures in Buddhist Maṇḍalas: Apradakṣina and Mystic Heat in the Mother Tantra Section of the Anuttarayoga Tantras,” *Artibus Asiae* 58/3–4 \(1999\): 169–213.
+[^55]: On the matching of fire and water symbolism, see Holly Grether, “The Ritual Interplay of Fire and Water in Hindu and Buddhist Tantras,” in this volume. On interior heat in the *Anuttara-tantra* Mother tantras, see Heather Stoddard, “Dynamic Structures in Buddhist Maṇḍalas: Apradakṣina and Mystic Heat in the Mother Tantra Section of the Anuttarayoga Tantras,” *Artibus Asiae* 58/3–4 \(1999\): 169–213.
 
-56. Miyake, “Religious Rituals in Shugendo,” p. 112.
+[^56]: Miyake, “Religious Rituals in Shugendo,” p. 112.
 
-57. Hitoshi Miyake, *Shugendō Girei no Kenkyū* 修験道儀礼の研究 \[Studies in Shugendō Ritual\] \(Tokyo: Shujūnsha, 1971\), pp. 141–161.
+[^57]: Hitoshi Miyake, *Shugendō Girei no Kenkyū* 修験道儀礼の研究 \[Studies in Shugendō Ritual\] \(Tokyo: Shujūnsha, 1971\), pp. 141–161.
 
-58. My deepest thanks to my friend and colleague Donald Drummond for providing me with this summary, and for his extensive summary of the other relevant sections of Miyake’s work.
+[^58]: My deepest thanks to my friend and colleague Donald Drummond for providing me with this summary, and for his extensive summary of the other relevant sections of Miyake’s work.
 
-59. One significant difference is that as part of a fuller training sequence the Shingon ritual in eighteen stages does not include ritual identification per se. This comes in the second of the four training rituals, the ritual of the *vajra* world \(*kongō kai* 金剛界\). See Richard K. Payne, “The Fourfold Training in Japanese Esoteric Buddhism,” in Charles D. Orzech, Henrik H. Sørensen, and Richard K. Payne, eds., *Esoteric Buddhism and the Tantras in East Asia* \(Leiden: Brill, 2011\), pp. 1024–1028.
+[^59]: One significant difference is that as part of a fuller training sequence the Shingon ritual in eighteen stages does not include ritual identification per se. This comes in the second of the four training rituals, the ritual of the *vajra* world \(*kongō kai* 金剛界\). See Richard K. Payne, “The Fourfold Training in Japanese Esoteric Buddhism,” in Charles D. Orzech, Henrik H. Sørensen, and Richard K. Payne, eds., *Esoteric Buddhism and the Tantras in East Asia* \(Leiden: Brill, 2011\), pp. 1024–1028.
 
-60. Gavin Flood, *An Introduction to Hinduism* \(Cambridge: Cambridge University Press, 1996\), p. 40.
+[^60]: Gavin Flood, *An Introduction to Hinduism* \(Cambridge: Cambridge University Press, 1996\), p. 40.
 
-61. Earhart, *A Religious Study of the Mount Haguro Sect of Shugendō*, p. 143.
+[^61]: Earhart, *A Religious Study of the Mount Haguro Sect of Shugendō*, p. 143.
 
-62. As sketched here, the scope of syntactic analysis is generally congruent with that of performance theory, but focuses instead on a formal analysis of ritual actions rather than what might be considered—by the same analogy with linguistics—a pragmatic one.
+[^62]: As sketched here, the scope of syntactic analysis is generally congruent with that of performance theory, but focuses instead on a formal analysis of ritual actions rather than what might be considered—by the same analogy with linguistics—a pragmatic one.
 
-63. Michaels, “Struktur und Varianz,” p. 6.
+[^63]: Michaels, “Struktur und Varianz,” p. 6.
 
-64. Hans Penner, e.g., has asserted that on the basis of the “evidence from linguistics, Staal’s position is simply wrong” \(“Language, Ritual, and Meaning,” *Numen* 32/1 \[1985\]: 11\).
+[^64]: Hans Penner, e.g., has asserted that on the basis of the “evidence from linguistics, Staal’s position is simply wrong” \(“Language, Ritual, and Meaning,” *Numen* 32/1 \[1985\]: 11\).
 
-65. Staal’s claim works within the linguistic theory, based on a fundamental distinction between syntax and semantics, that is contemporary with his research. One may argue, of course, that this is an overly narrow definition of meaning, but it is a principled one and consistent with the dominant philosophic notion of meaning as semantic—and as fundamentally distinct from syntactic.
+[^65]: Staal’s claim works within the linguistic theory, based on a fundamental distinction between syntax and semantics, that is contemporary with his research. One may argue, of course, that this is an overly narrow definition of meaning, but it is a principled one and consistent with the dominant philosophic notion of meaning as semantic—and as fundamentally distinct from syntactic.
 
 Although I am not a linguist, I suspect that while the two may be theoretically distinct \(and that the distinction may be heuristically useful\), there are significant ways in which they are not. Contrary to the Saussurean legacy in linguistics and philosophy of language, meaning is not purely contrastive in nature, as suggested by the work of Anna Wierzbicka on semantic universals. In particular, see Anna Wierzbicka, *Semantics, Culture, and Cognition: Universal Human Concepts in Culture-Specific Configurations* \(Oxford and New York: Oxford University Press, 1992\). The structuralist concept of language was itself developed out of phonetic studies employing the tool of “minimal pairs,” in which significant difference is defined by contrast, i.e., meaning is solely dependent upon structure. It is the extension of this phonetic insight to other aspects of language that may be problematic.
 
-66. The same is true for arguments and argument forms. *Modus ponens* is a valid argument form, but it has no meaning—there is no content that allows us to determine whether the conclusion is true. The same analysis may be unproblematically applied *mutatis mutandis* to mathematics.
+[^66]: The same is true for arguments and argument forms. *Modus ponens* is a valid argument form, but it has no meaning—there is no content that allows us to determine whether the conclusion is true. The same analysis may be unproblematically applied *mutatis mutandis* to mathematics.
 
-67. Ray Jackendoff, *Language, Consciousness, Culture: Essays on Mental Structure* \(Cambridge, MA: MIT Press, 2007\), p. 22.
+[^67]: Ray Jackendoff, *Language, Consciousness, Culture: Essays on Mental Structure* \(Cambridge, MA: MIT Press, 2007\), p. 22.
 
-68. Another analogy would be the kind of historical significance that Alexis Sanderson has suggested for the examination of texts, not for their individual didactic content but rather for the intertextuality that exists between them. See his “History through Textual Criticism in the Study of Śaivism, the Pañcarātra and the Buddhist Yoginītantras,” in François Grimal, ed., *Les Sources et le temps* \[Sources and Time\] \(Pondicherry: Institut Français de Pondichéry and École Française d’Extrême-Orient, 2001\), pp. 1–47.
+[^68]: Another analogy would be the kind of historical significance that Alexis Sanderson has suggested for the examination of texts, not for their individual didactic content but rather for the intertextuality that exists between them. See his “History through Textual Criticism in the Study of Śaivism, the Pañcarātra and the Buddhist Yoginītantras,” in François Grimal, ed., *Les Sources et le temps* \[Sources and Time\] \(Pondicherry: Institut Français de Pondichéry and École Française d’Extrême-Orient, 2001\), pp. 1–47.
 
-69. Up to this point the mantra have been represented by *katakana* alone. This mantra and the rest through the end of the manual are represented by *siddham* script with *furigana* written in *hiragana*. At this point, the manual shifts from introductory material to the first fire offering. Based on similar organization of Shingon homas, one possible explanation is that up to this point the mantra are ones more commonly used in other Shugendō rituals, while the rest are unique to the homa.
+[^69]: Up to this point the mantra have been represented by *katakana* alone. This mantra and the rest through the end of the manual are represented by *siddham* script with *furigana* written in *hiragana*. At this point, the manual shifts from introductory material to the first fire offering. Based on similar organization of Shingon homas, one possible explanation is that up to this point the mantra are ones more commonly used in other Shugendō rituals, while the rest are unique to the homa.
 
-70. This indicates that this manual is not of the Haguro Shugendō, since this sect worships Nōjo Taishi/Shōken Daibosatsu as its founder.
+[^70]: This indicates that this manual is not of the Haguro Shugendō, since this sect worships Nōjo Taishi/Shōken Daibosatsu as its founder.
 
 
 

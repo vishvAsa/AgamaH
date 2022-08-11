@@ -59,7 +59,7 @@ After dedicating a bit more than one folio side describing the highest and inner
 
 Next, the outer \[fire sacrifice\] should be stated. The various masters should explain the rite of fire sacrifice as it is stated in each tantra. Here \[it is described as\] taught in the Yoginī tantras. I will state just a bit of the Cakrasaṃvara oral instructions. With respect to that, the hearth, \[while its types\] are infinite classified with respect to sentient beings, there are five classified with respect to the social classes38 and four classified with respect to the \[types of\] ritual action. The hearths are explained in the following manner. For pacification, it is round and white. For enriching, it is yellow and square.39 For controlling, it is red and triangular. For destroying, it is half-moon \[shaped\].
 
-\(/ de nas yang phyi’i bshad par40 bya ste / rgyud so so las41 slob dpon tha dad pas sbyin sreg gi cho ga ji bzhin42 bshad par bya /43 ‘di ni rnal ‘byor ma’i rgyud las bstan44 te / bdag gis ‘khor lo sdom pa’i man ngag cung zad tsam brjod par bya’o / / de la thab khung ni / sems can dbye bas mtha’ yas te / / rigs kyi dbye bas lnga ru ‘gyur / / las kyi dbye bas bzhi ru ‘gyur / / thab khung rnams ni de ltar bshad / / zhi ba ni zlum la dkar / / rgyas la dbang chen ser po ste45 / / dbang la dmar po gru gsum pa / / mngon spyod zla ba phyed pa yin /\) \(A 293b.3–5, B 112b.4–6\)
+\(/ de nas yang phyi’i bshad pa[^40] bya ste / rgyud so so las41 slob dpon tha dad pas sbyin sreg gi cho ga ji bzhin42 bshad par bya /43 ‘di ni rnal ‘byor ma’i rgyud las bstan44 te / bdag gis ‘khor lo sdom pa’i man ngag cung zad tsam brjod par bya’o / / de la thab khung ni / sems can dbye bas mtha’ yas te / / rigs kyi dbye bas lnga ru ‘gyur / / las kyi dbye bas bzhi ru ‘gyur / / thab khung rnams ni de ltar bshad / / zhi ba ni zlum la dkar / / rgyas la dbang chen ser po ste45 / / dbang la dmar po gru gsum pa / / mngon spyod zla ba phyed pa yin /\) \(A 293b.3–5, B 112b.4–6\)
 
 Following this, the text continues with a lengthy presentation of the *homa* ritual as performed with each of the four ritual applications, each of which not only has its own hearth shape but also dominant colors, times for performance, types of firewood and offerings, and so forth, as even a casual reader of this sort of ritual literature would expect.
 
@@ -75,99 +75,99 @@ AKāṇha, Śrīcakrasaṃvarahomavidhi, To. 1447. BKāṇha, Śrīcakrasaṃvar
 
 ## NOTES
 
-1. Regarding this, see David B. Gray, “Tsongkhapa on Tantric Exegetical Authority and Methodology,” *Pacific World* 3/11 \(2009\): 95–117. See also David Templeman, *Tāranātha’s Life of Kṛṣṇācārya/Kāṇha* \(Dharamsala: Library of Tibetan Works and Archives, 1989\), pp. x–xi.
+[^1]: Regarding this, see David B. Gray, “Tsongkhapa on Tantric Exegetical Authority and Methodology,” *Pacific World* 3/11 \(2009\): 95–117. See also David Templeman, *Tāranātha’s Life of Kṛṣṇācārya/Kāṇha* \(Dharamsala: Library of Tibetan Works and Archives, 1989\), pp. x–xi.
 
-2. For a Sanskrit edition of this text, see Munenobu Sakurai, “Cakrasaṃvarābhisamaya no genten kenkyū,” *Chizan Gakuho* 47 \(1998\): 1–32.
+[^2]: For a Sanskrit edition of this text, see Munenobu Sakurai, “Cakrasaṃvarābhisamaya no genten kenkyū,” *Chizan Gakuho* 47 \(1998\): 1–32.
 
-3. These include his *Śrīcakrasaṃvaramaṇḍalavidhitattvāvatāra* \(To. 1430\), *Śrīcakrasamvaraśekaprakriya-upadeśa* \(To. 1431\), *Śrīcakrasamvarasādhana* \(To. 1432\), and *Sahajasaṃvarasādhana* \(To. 1436\).
+[^3]: These include his *Śrīcakrasaṃvaramaṇḍalavidhitattvāvatāra* \(To. 1430\), *Śrīcakrasamvaraśekaprakriya-upadeśa* \(To. 1431\), *Śrīcakrasamvarasādhana* \(To. 1432\), and *Sahajasaṃvarasādhana* \(To. 1436\).
 
-4. These works are preserved in the Tibetan canon at To. 1451 and 1452. Regarding them, see Tsunehiko Sugiki, “Kṛṣṇācārya’s Four Stage Meditational Process,” *Journal of Indian and Buddhist Studies* 94/2 \(1999\): 880–883.
+[^4]: These works are preserved in the Tibetan canon at To. 1451 and 1452. Regarding them, see Tsunehiko Sugiki, “Kṛṣṇācārya’s Four Stage Meditational Process,” *Journal of Indian and Buddhist Studies* 94/2 \(1999\): 880–883.
 
-5. This work is preserved in the Tibetan canon at To. 1448. The Sanskrit and Tibetan texts are found in Samdhong Rinpoche and Vrajvallabh Dwivedi, eds., *Vasantatilakā of Caryāvratī Śrīkṛṣṇācārya* \(Sarnath, Varanasi: Central Institute of Higher Tibetan Studies, 1990\).
+[^5]: This work is preserved in the Tibetan canon at To. 1448. The Sanskrit and Tibetan texts are found in Samdhong Rinpoche and Vrajvallabh Dwivedi, eds., *Vasantatilakā of Caryāvratī Śrīkṛṣṇācārya* \(Sarnath, Varanasi: Central Institute of Higher Tibetan Studies, 1990\).
 
-6. These are the *Yogaratnamālā-nāma-hevajrapañjikā* \(To. 1183\) and the *Āryaḍākinīvajrapañjara-mahātantrarājakalpa-nāma-mukhabandha* \(To. 1195\). The Sanskrit text of the former is edited in David Snellgrove, *The Hevajra Tantra: A Critical Study* \(London: Oxford University Press, 1959\), vol. 2, pp. 103–159.
+[^6]: These are the *Yogaratnamālā-nāma-hevajrapañjikā* \(To. 1183\) and the *Āryaḍākinīvajrapañjara-mahātantrarājakalpa-nāma-mukhabandha* \(To. 1195\). The Sanskrit text of the former is edited in David Snellgrove, *The Hevajra Tantra: A Critical Study* \(London: Oxford University Press, 1959\), vol. 2, pp. 103–159.
 
-7. These include a maṇḍalavidhi, the *Bhagavacchrīcakrasaṃvaramaṇḍalavidhi* \(To. 1446\), and a sādhana, the *Śrīcakrasamvarasādhana* \(To. 1445\).
+[^7]: These include a maṇḍalavidhi, the *Bhagavacchrīcakrasaṃvaramaṇḍalavidhi* \(To. 1446\), and a sādhana, the *Śrīcakrasamvarasādhana* \(To. 1445\).
 
-8. This is interesting because the two texts, preserved at To. 1447 and To. 1537, are almost identical, the same translation of the same text. This may represent one of the minor anomalies that are quite common in the history of Tibetan canonical collections.
+[^8]: This is interesting because the two texts, preserved at To. 1447 and To. 1537, are almost identical, the same translation of the same text. This may represent one of the minor anomalies that are quite common in the history of Tibetan canonical collections.
 
-9. See especially the *Vajraḍāka-nāma-mahātantrarāja* \(To. 370\), chapter 48.
+[^9]: See especially the *Vajraḍāka-nāma-mahātantrarāja* \(To. 370\), chapter 48.
 
-10. See Snellgrove, *The Hevajra Tantra*, vol. 1, pp. 13–14, esp. n. 4.
+[^10]: See Snellgrove, *The Hevajra Tantra*, vol. 1, pp. 13–14, esp. n. 4.
 
-11. See Ronald M. Davidson, “Reframing Sahaja: Genre, Representation, Ritual and Lineage,” *Journal of Indian Philosophy* 30 \(2002\): 77–78 n. 69.
+[^11]: See Ronald M. Davidson, “Reframing Sahaja: Genre, Representation, Ritual and Lineage,” *Journal of Indian Philosophy* 30 \(2002\): 77–78 n. 69.
 
-12. The dating of this work is a very interesting and complex problem. I originally estimated that the *Cakrasaṃvara-tantra* was composed in the late eighth or early ninth centuries, on the basis of a mention of the text in one of Vilāsavajra’s commentaries \(which date to the late eighth century\), and my estimate that the earliest commentator, Jayabhadra, was active in the mid-ninth century \(see Gray, *The Cakrasamvara Tantra*, pp. 11–14\). However, Alexis Sanderson, in “The Śaiva Age: The Rise and Dominance of Śaivism During the Early Medieval Period,” in Shingo Einoo, ed., *Genesis and Development of Tantrism* \(Tokyo: Institute of Oriental Culture, University of Tokyo, 2009\), pp. 158–164, demonstrates that Jayabhadra’s dates are quite uncertain and that he may have been active as late as the early tenth century. I thus now assign the text to the ninth century, as it seems likely that it was composed at some point during that century, although there is a small chance that it might have been by composed as early as the late eighth century or as late as the early tenth century, as I discuss in my edition of this text. See David Gray, *The Cakrasamvara Tantra: Editions of the Sanskrit and Tibetan Texts* \(New York: AIBS/Columbia University Press, 2012\), pp. 6–8.
+[^12]: The dating of this work is a very interesting and complex problem. I originally estimated that the *Cakrasaṃvara-tantra* was composed in the late eighth or early ninth centuries, on the basis of a mention of the text in one of Vilāsavajra’s commentaries \(which date to the late eighth century\), and my estimate that the earliest commentator, Jayabhadra, was active in the mid-ninth century \(see Gray, *The Cakrasamvara Tantra*, pp. 11–14\). However, Alexis Sanderson, in “The Śaiva Age: The Rise and Dominance of Śaivism During the Early Medieval Period,” in Shingo Einoo, ed., *Genesis and Development of Tantrism* \(Tokyo: Institute of Oriental Culture, University of Tokyo, 2009\), pp. 158–164, demonstrates that Jayabhadra’s dates are quite uncertain and that he may have been active as late as the early tenth century. I thus now assign the text to the ninth century, as it seems likely that it was composed at some point during that century, although there is a small chance that it might have been by composed as early as the late eighth century or as late as the early tenth century, as I discuss in my edition of this text. See David Gray, *The Cakrasamvara Tantra: Editions of the Sanskrit and Tibetan Texts* \(New York: AIBS/Columbia University Press, 2012\), pp. 6–8.
 
-13. Although this passage evokes the opening sections of chapters in the tantras, it does not appear to be a quotation. It certainly is not a quotation from the *Cakrasaṃvara* \(*bde mchog ‘khor lo*\), the only text mentioned by name. The text is quite close to, but not a direct quotation of, passages found in the *homa* chapters of the *Saṃputa-tantra* \(kalpa 7, section 4\), and the *Māyājāla-tantra* \(chapter 9\). See especially the *Saṃputa-tantra*, fol. 136b, and the *Māyājāla-tantra*, fol. 129b–130a.
+[^13]: Although this passage evokes the opening sections of chapters in the tantras, it does not appear to be a quotation. It certainly is not a quotation from the *Cakrasaṃvara* \(*bde mchog ‘khor lo*\), the only text mentioned by name. The text is quite close to, but not a direct quotation of, passages found in the *homa* chapters of the *Saṃputa-tantra* \(kalpa 7, section 4\), and the *Māyājāla-tantra* \(chapter 9\). See especially the *Saṃputa-tantra*, fol. 136b, and the *Māyājāla-tantra*, fol. 129b–130a.
 
-14. *bya*: B; *byas*: A.
+[^14]: *bya*: B; *byas*: A.
 
-15. *‘byung*: A; *‘byin*: B.
+[^15]: *‘byung*: A; *‘byin*: B.
 
-16. Note that I follow here text A’s \(To. 1147\) reading, *sgra yi mtshan ma dag*, rather than B’s \(To. 1537\) reading, *dgra yi mtshan ma dag*. The former reading, which I have translated, seems more likely in this context. We would expect the latter, “name of the enemy,” in the context only of destructive rites.
+[^16]: Note that I follow here text A’s \(To. 1147\) reading, *sgra yi mtshan ma dag*, rather than B’s \(To. 1537\) reading, *dgra yi mtshan ma dag*. The former reading, which I have translated, seems more likely in this context. We would expect the latter, “name of the enemy,” in the context only of destructive rites.
 
-17. Both texts here read *ye she bā da pas*, but they should be corrected to *ye she pā da pas*, since they are clearly a reference to Buddhaśrījñānapāda’s writing on this subject. Many thanks to Prof. Sugiki for pointing this out to me.
+[^17]: Both texts here read *ye she bā da pas*, but they should be corrected to *ye she pā da pas*, since they are clearly a reference to Buddhaśrījñānapāda’s writing on this subject. Many thanks to Prof. Sugiki for pointing this out to me.
 
-18. *pa*: B; *la*: A.
+[^18]: *pa*: B; *la*: A.
 
-19. */*: B; */ /*: A.
+[^19]: */*: B; */ /*: A.
 
-20. *sgra*: A; *dgra*: B.
+[^20]: *sgra*: A; *dgra*: B.
 
-21. *bsreg*: B; *bsregs*: A.
+[^21]: *bsreg*: B; *bsregs*: A.
 
-22. gyur pas: A; ‘gyur bas: B.
+[^22]: gyur pas: A; ‘gyur bas: B.
 
-23. *bsregs*: B; *bsreg*: A.
+[^23]: *bsregs*: B; *bsreg*: A.
 
-24. *byung*: B; *‘byung*: A.
+[^24]: *byung*: B; *‘byung*: A.
 
-25. *bsreg*: B; *bsregs*: A.
+[^25]: *bsreg*: B; *bsregs*: A.
 
-26. *ji*: A; *ci*: B.
+[^26]: *ji*: A; *ci*: B.
 
-27. *bsam*: B; *bsams*: A.
+[^27]: *bsam*: B; *bsams*: A.
 
-28. *sreg*: A; *bsreg*: B.
+[^28]: *sreg*: A; *bsreg*: B.
 
-29. For information about this, see Tsunehiko Sugiki’s essay, “Oblation, Non-conception, and Body: Systems of Psychosomatic Fire Oblation in Esoteric Buddhism in Medieval South Asia,” in this volume.
+[^29]: For information about this, see Tsunehiko Sugiki’s essay, “Oblation, Non-conception, and Body: Systems of Psychosomatic Fire Oblation in Esoteric Buddhism in Medieval South Asia,” in this volume.
 
-30. The eroticization and internalization of the fire sacrifice, transposing the rite onto the act of sexual union and/or transforming it into an internalized visualization was, of course, a development of the late Vedic period, which appears again in tantric literature over a millennium later. Regarding this, see Yael Bentor, “Interiorized Fire Offerings of Breathing, Inner Heat and the Subtle Body,” *Tibetan Studies: Proceedings of the 7th Seminar of the International Association for Tibetan Studies, Graz 1995* \(Vienna: Verlag der Österreichischen Akademie der Wissenschaften, 1997\), pp. 51–58.
+[^30]: The eroticization and internalization of the fire sacrifice, transposing the rite onto the act of sexual union and/or transforming it into an internalized visualization was, of course, a development of the late Vedic period, which appears again in tantric literature over a millennium later. Regarding this, see Yael Bentor, “Interiorized Fire Offerings of Breathing, Inner Heat and the Subtle Body,” *Tibetan Studies: Proceedings of the 7th Seminar of the International Association for Tibetan Studies, Graz 1995* \(Vienna: Verlag der Österreichischen Akademie der Wissenschaften, 1997\), pp. 51–58.
 
-31. The Tibetan here, *dus bzhi*, is ambiguous and might be translated here as the four seasons or four ages \(*yuga*\). I believe that the latter is most likely the intended meaning, since these four ritual applications accord nicely with the hierarchy of the ages, with the *śāntika* rite corresponding to the *kṛtayuga*, and the *abhicāraka* corresponding to the *kaliyuga*.
+[^31]: The Tibetan here, *dus bzhi*, is ambiguous and might be translated here as the four seasons or four ages \(*yuga*\). I believe that the latter is most likely the intended meaning, since these four ritual applications accord nicely with the hierarchy of the ages, with the *śāntika* rite corresponding to the *kṛtayuga*, and the *abhicāraka* corresponding to the *kaliyuga*.
 
-32. *sel*: A; *ser*: B.
+[^32]: *sel*: A; *ser*: B.
 
-33. *yin*: A; *cing*: B.
+[^33]: *yin*: A; *cing*: B.
 
-34. *ba’i*: A; *pa’i*: B.
+[^34]: *ba’i*: A; *pa’i*: B.
 
-35. *zad*: B; *bzad*: A.
+[^35]: *zad*: B; *bzad*: A.
 
-36. Regarding this, see Hans-Georg Türstig, “The Indian Sorcery Called Abhicāra,” *Wiener Zeitschrift für die Kunde Südasiens und Archive für Indische Philosophie* 29 \(1985\): 69–117; Teun Goudriaan, *Māyā Divine and Human* \(Delhi: Motilal Banarsidass, 1978\).
+[^36]: Regarding this, see Hans-Georg Türstig, “The Indian Sorcery Called Abhicāra,” *Wiener Zeitschrift für die Kunde Südasiens und Archive für Indische Philosophie* 29 \(1985\): 69–117; Teun Goudriaan, *Māyā Divine and Human* \(Delhi: Motilal Banarsidass, 1978\).
 
-37. See the *Vajraḍāka*, 103b–104a.
+[^37]: See the *Vajraḍāka*, 103b–104a.
 
-38. This text, *rigs kyi dbye bas*, is almost certainly a reference to the *homa* rituals designed to subjugate members of the five social classes: *brāhmaṇa, kṣatriya, vaiṣya, śūdra*, and outcastes, described in chapter 40 of the *Cakrasaṃvara-tantra.* Regarding this, see Gray, *The Cakrasamvara Tantra*, pp. 327–328.
+[^38]: This text, *rigs kyi dbye bas*, is almost certainly a reference to the *homa* rituals designed to subjugate members of the five social classes: *brāhmaṇa, kṣatriya, vaiṣya, śūdra*, and outcastes, described in chapter 40 of the *Cakrasaṃvara-tantra.* Regarding this, see Gray, *The Cakrasamvara Tantra*, pp. 327–328.
 
-39. The Tibetan here, *dbang chen ser po*, almost certainly refers to the square, golden foundation of the cosmos in Buddhist cosmology, the *kañcanamaṇḍala*. This seems to be a variant of the description *sa gzhi ser po* found in the *Vajraḍāka*. See the *Vajraḍāka*, 103b.6.
+[^39]: The Tibetan here, *dbang chen ser po*, almost certainly refers to the square, golden foundation of the cosmos in Buddhist cosmology, the *kañcanamaṇḍala*. This seems to be a variant of the description *sa gzhi ser po* found in the *Vajraḍāka*. See the *Vajraḍāka*, 103b.6.
 
-40. *par*: B; *pa*: A.
+[^40]: *par*: B; *pa*: A.
 
-41. *las*: A; *la*: B.
+[^41]: *las*: A; *la*: B.
 
-42. *bzhin*: B; *skad*: A.
+[^42]: *bzhin*: B; *skad*: A.
 
-43. *bshad par bya /*: A; *bshad pa las*: B.
+[^43]: *bshad par bya /*: A; *bshad pa las*: B.
 
-44. *las bstan*: A; *la brten*: B.
+[^44]: *las bstan*: A; *la brten*: B.
 
-45. *dbang chen ser po ste*: B; *ser po dbang chen te*: A.
+[^45]: *dbang chen ser po ste*: B; *ser po dbang chen te*: A.
 
-46. See Robert H. Sharf, “Visualization and Mandala in Shingon Buddhism,” in Robert H. Sharf and Elizabeth Horton Sharf, eds., *Living Images: Japanese Buddhist Icons in Context* \(Palo Alto, CA: Stanford University Press, 2001\), pp. 153–154. The question of whether tantric practitioners were and are actually able to simultaneously perform external rituals and internal visualizations is beyond the scope of this essay. While this sort of “multitasking” is by no means easy, I see no reason to believe that dedicated practitioners would be able to master these skills in this fashion.
+[^46]: See Robert H. Sharf, “Visualization and Mandala in Shingon Buddhism,” in Robert H. Sharf and Elizabeth Horton Sharf, eds., *Living Images: Japanese Buddhist Icons in Context* \(Palo Alto, CA: Stanford University Press, 2001\), pp. 153–154. The question of whether tantric practitioners were and are actually able to simultaneously perform external rituals and internal visualizations is beyond the scope of this essay. While this sort of “multitasking” is by no means easy, I see no reason to believe that dedicated practitioners would be able to master these skills in this fashion.
 
-47. Regarding this practice, see David Stott, “Offering the Body: The Practice of gCod in Tibetan Buddhism,” *Religion* 19/3 \(1989\): 221–226; Jérôme Edou, *Machig Labdrön and the Foundations of Chöd* \(Ithaca, NY: Snow Lion Publications, 1996\), pp. 39–77.
+[^47]: Regarding this practice, see David Stott, “Offering the Body: The Practice of gCod in Tibetan Buddhism,” *Religion* 19/3 \(1989\): 221–226; Jérôme Edou, *Machig Labdrön and the Foundations of Chöd* \(Ithaca, NY: Snow Lion Publications, 1996\), pp. 39–77.
 
 
 

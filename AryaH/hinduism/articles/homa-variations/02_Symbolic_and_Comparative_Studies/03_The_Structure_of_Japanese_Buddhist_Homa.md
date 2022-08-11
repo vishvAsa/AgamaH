@@ -243,15 +243,15 @@ After the empowerment of the goddess Locanā, the mantras of various deities are
 
 Now the fire offering, which is the main event, as it were, of Japanese *homa*, begins. This is done in the following five parts:
 
-1. Offerings to the fire god Agni,
+[^1]: Offerings to the fire god Agni,
 
-2. Offerings to Trailokyavijaya,
+[^2]: Offerings to Trailokyavijaya,
 
-3. Offerings to the main deity, Acala,
+[^3]: Offerings to the main deity, Acala,
 
-4. Offerings to the thirty-seven deities belonging to the Vajradhātu Maṇḍala,
+[^4]: Offerings to the thirty-seven deities belonging to the Vajradhātu Maṇḍala,
 
-5. Offerings to the guardians of the ten directions.
+[^5]: Offerings to the guardians of the ten directions.
 
 The scope of this chapter, however, does not allow for a complete description of the main ritual.26
 
@@ -267,57 +267,57 @@ The Japanese *homa* ritual is comprised of two parts: the preliminary ritual and
 
 ## NOTES
 
-1. See, e.g., Mircea Eliade, *The Sacred and the Profane: The Nature of Religion* \(Orlando, FL: Harcourt, 1959\).
+[^1]: See, e.g., Mircea Eliade, *The Sacred and the Profane: The Nature of Religion* \(Orlando, FL: Harcourt, 1959\).
 
-2. I employ here the long-standing anthropological theory known as “functionalism.” Although originally offered as a comprehensive explanatory theory, I find it inadequate and therefore complement it with a focus on individual well-being.
+[^2]: I employ here the long-standing anthropological theory known as “functionalism.” Although originally offered as a comprehensive explanatory theory, I find it inadequate and therefore complement it with a focus on individual well-being.
 
-3. See Gavin Flood, *An Introduction to Hinduism* \(Cambridge: Cambridge University Press, 1996\), p. 13, where the author traces the character of this distinction in Hindu society back to Louis Dumont.
+[^3]: See Gavin Flood, *An Introduction to Hinduism* \(Cambridge: Cambridge University Press, 1996\), p. 13, where the author traces the character of this distinction in Hindu society back to Louis Dumont.
 
-4. Flood, *An Introduction to Hinduism*, p. 155.
+[^4]: Flood, *An Introduction to Hinduism*, p. 155.
 
-5. Musashi Tachikawa, “Preface,” in Musashi Tachikawa, Shoun Hino, and Lalita Deodhar, *Pūjā and Saṃskāra* \(Delhi: Motilal Banarsidass, 2001\), pp. v–ix.
+[^5]: Musashi Tachikawa, “Preface,” in Musashi Tachikawa, Shoun Hino, and Lalita Deodhar, *Pūjā and Saṃskāra* \(Delhi: Motilal Banarsidass, 2001\), pp. v–ix.
 
-6. Given the centrality of *bhakti* as a concept for so much of Indian religion, while it is seemingly a simple idea—“devotion to a personal deity”—in fact *bhakti* is a complex and highly nuanced religious category. For a discussion of the development of the idea, see Karen Penchilis Prentiss, *The Embodiment of Bhakti* \(New York and Oxford: Oxford University Press, 1999\).
+[^6]: Given the centrality of *bhakti* as a concept for so much of Indian religion, while it is seemingly a simple idea—“devotion to a personal deity”—in fact *bhakti* is a complex and highly nuanced religious category. For a discussion of the development of the idea, see Karen Penchilis Prentiss, *The Embodiment of Bhakti* \(New York and Oxford: Oxford University Press, 1999\).
 
-7. See, e.g., Jay L. Garfield, *The Fundamental Wisdom of the Middle Way: Nāgārjuna’s Mūlamadhyamakakārikā* \(New York and Oxford: Oxford University Press, 1995\), p. 101.
+[^7]: See, e.g., Jay L. Garfield, *The Fundamental Wisdom of the Middle Way: Nāgārjuna’s Mūlamadhyamakakārikā* \(New York and Oxford: Oxford University Press, 1995\), p. 101.
 
-8. For example, in the case of the New Moon and Full Moon Sacrifice rites priests are unconsecrated or profane \(*laukika*\) before they actually participate in the ritual, and they must be consecrated before they can participate in the ritual. In other words, they must to have the qualification of being Vedic \(*vaidika*\). The ritual paraphernalia is also consecrated so that it can be employed in the *homa* rite. The consecration is usually accomplished by means of a mantra or sacred water \(*praṇītā*\). As for the sacred water used in the New Moon and Full Moon Sacrifice rites, see Musashi Tachikawa, Shrikant Bahulkar, and Madhavi Kolhatkar, *Indian Fire Ritual* \(Delhi: Motial Banarsidass, 2001\), p. 67.
+[^8]: For example, in the case of the New Moon and Full Moon Sacrifice rites priests are unconsecrated or profane \(*laukika*\) before they actually participate in the ritual, and they must be consecrated before they can participate in the ritual. In other words, they must to have the qualification of being Vedic \(*vaidika*\). The ritual paraphernalia is also consecrated so that it can be employed in the *homa* rite. The consecration is usually accomplished by means of a mantra or sacred water \(*praṇītā*\). As for the sacred water used in the New Moon and Full Moon Sacrifice rites, see Musashi Tachikawa, Shrikant Bahulkar, and Madhavi Kolhatkar, *Indian Fire Ritual* \(Delhi: Motial Banarsidass, 2001\), p. 67.
 
-9. Following on Friedrich D. Schleiermacher’s emphasis on the centrality of experience, Rudolf Otto coins the phrase *mysterium tremendum* to describe the ambivalent character of religious awe as both fear-inducing and awe-inspiring. See Rudolf Otto, *The Idea of the Holy*, 2nd ed. \(London: Oxford University Press, 1950\), p. 13.
+[^9]: Following on Friedrich D. Schleiermacher’s emphasis on the centrality of experience, Rudolf Otto coins the phrase *mysterium tremendum* to describe the ambivalent character of religious awe as both fear-inducing and awe-inspiring. See Rudolf Otto, *The Idea of the Holy*, 2nd ed. \(London: Oxford University Press, 1950\), p. 13.
 
-10. According to Michael Witzel, a funeral is often considered an offering ritual to the Buddha among the Newar Buddhists in the Kathmandu Valley.
+[^10]: According to Michael Witzel, a funeral is often considered an offering ritual to the Buddha among the Newar Buddhists in the Kathmandu Valley.
 
-11. Richard H. Davis, “Cremation and Liberation: The Revision of a Hindu Ritual,” *History of Religions* 28/1 \(August 1988\): 37–53.
+[^11]: Richard H. Davis, “Cremation and Liberation: The Revision of a Hindu Ritual,” *History of Religions* 28/1 \(August 1988\): 37–53.
 
-12. See Geoffrey Samuel, *The Origins of Yoga and Tantra: Indic Religions to the Thirteenth Century* \(Cambridge: Cambridge University Press, 2008\), p. 255. For a study specifically of internal practices in the nondualist tradition of Śaivism from Kaśmir, see Lilian Silburn, *Kuṇḍalinī: The Energy of the Depths* \(Albany: State University of New York Press, 1988\).
+[^12]: See Geoffrey Samuel, *The Origins of Yoga and Tantra: Indic Religions to the Thirteenth Century* \(Cambridge: Cambridge University Press, 2008\), p. 255. For a study specifically of internal practices in the nondualist tradition of Śaivism from Kaśmir, see Lilian Silburn, *Kuṇḍalinī: The Energy of the Depths* \(Albany: State University of New York Press, 1988\).
 
-13. The material up to this point in the chapter was based upon the Preface by Musashi Tachikawa, Shoun Hino, and Lalita Deodhar, *Pūjā and Saṅskāra* \(Delhi: Motial Banarsidass, 2001\), pp. v–ix.
+[^13]: The material up to this point in the chapter was based upon the Preface by Musashi Tachikawa, Shoun Hino, and Lalita Deodhar, *Pūjā and Saṅskāra* \(Delhi: Motial Banarsidass, 2001\), pp. v–ix.
 
-14. R. N. Dandekar, “Moksha: The Fourth End of Man,” in *Sources of Indian Tradition*, vol. 1, *From the Beginning to 1800*, 2nd ed., edited by Ainslie T. Embree \(New York: Columbia University Press, 1988\), p. 279.
+[^14]: R. N. Dandekar, “Moksha: The Fourth End of Man,” in *Sources of Indian Tradition*, vol. 1, *From the Beginning to 1800*, 2nd ed., edited by Ainslie T. Embree \(New York: Columbia University Press, 1988\), p. 279.
 
-15. Rolf W. Giebel, trans., *The Vairocanābhisaṃbodhi Sutra* \(Berkeley, CA: Numata Center for Buddhist Translation and Research, 2005\), pp. 213–217.
+[^15]: Rolf W. Giebel, trans., *The Vairocanābhisaṃbodhi Sutra* \(Berkeley, CA: Numata Center for Buddhist Translation and Research, 2005\), pp. 213–217.
 
-16. Giebel, *The Vairocanābhisaṃbodhi Sutra*, p. 217.
+[^16]: Giebel, *The Vairocanābhisaṃbodhi Sutra*, p. 217.
 
-17. In the Shugen school, the fire is constructed outdoors and is known as *saitō-goma* \(柴燈護摩\). Its role in Shugen is discussed by Carmen Blacker in *The Catalpa Bow: A Study in Shamanistic Practices in Japan* \(London: George Allen and Unwin, 1975\), passim. See also, Payne, “Fire on the Mountain,” in this volume.
+[^17]: In the Shugen school, the fire is constructed outdoors and is known as *saitō-goma* \(柴燈護摩\). Its role in Shugen is discussed by Carmen Blacker in *The Catalpa Bow: A Study in Shamanistic Practices in Japan* \(London: George Allen and Unwin, 1975\), passim. See also, Payne, “Fire on the Mountain,” in this volume.
 
-18. See the chapter by Todd Lewis and Naresh Bajracarya, “Newar Buddhist *Homa* Ritual Traditions,” in this volume.
+[^18]: See the chapter by Todd Lewis and Naresh Bajracarya, “Newar Buddhist *Homa* Ritual Traditions,” in this volume.
 
-19. As for the structure of the “*Pūjā* in Sixteen Steps,” see Tachikawa, Hino, and Deodhar, *Pūjā and Saṅskāra*, p. 8.
+[^19]: As for the structure of the “*Pūjā* in Sixteen Steps,” see Tachikawa, Hino, and Deodhar, *Pūjā and Saṅskāra*, p. 8.
 
-20. Raiei Ueno, *Hudōgoma Shiki* \(Kyoto: Chishakuin Temple, 1963\), p. 54.
+[^20]: Raiei Ueno, *Hudōgoma Shiki* \(Kyoto: Chishakuin Temple, 1963\), p. 54.
 
-21. Ueno, *Hudōgoma Shiki*, p. 54. Excerpt translated by Musashi Tachikawa.
+[^21]: Ueno, *Hudōgoma Shiki*, p. 54. Excerpt translated by Musashi Tachikawa.
 
-22. Ueno, *Hudōgoma Shiki*, p. 69. Excerpt translated by Musashi Tachikawa.
+[^22]: Ueno, *Hudōgoma Shiki*, p. 69. Excerpt translated by Musashi Tachikawa.
 
-23. For all the mantras used in the Japanese *homa*, see Richard K. Payne, *The Tantric Ritual of Japan. Feeding the Gods: The Shingon Fire Ritual* \(Delhi: International Academy of Indian Culture and Aditya Prakashan, 1991\), pp. 322–331.
+[^23]: For all the mantras used in the Japanese *homa*, see Richard K. Payne, *The Tantric Ritual of Japan. Feeding the Gods: The Shingon Fire Ritual* \(Delhi: International Academy of Indian Culture and Aditya Prakashan, 1991\), pp. 322–331.
 
-24. Ueno, *Hudōgoma Shiki*, p. 75. Excerpt translated by Musashi Tachikawa.
+[^24]: Ueno, *Hudōgoma Shiki*, p. 75. Excerpt translated by Musashi Tachikawa.
 
-25. Cf. Benoytosh Bhattacharya, *Sādhanamālā*, vol. 1 \(Baroda: Oriental Institute, 1968\), pp. 103, 118.
+[^25]: Cf. Benoytosh Bhattacharya, *Sādhanamālā*, vol. 1 \(Baroda: Oriental Institute, 1968\), pp. 103, 118.
 
-26. For the order of the rites of the Japanese *homa*, I have followed Ueno, *Hudōgoma Shiki*, which describes the *homa* of the Chisan Shingon school.
+[^26]: For the order of the rites of the Japanese *homa*, I have followed Ueno, *Hudōgoma Shiki*, which describes the *homa* of the Chisan Shingon school.
 
 
 

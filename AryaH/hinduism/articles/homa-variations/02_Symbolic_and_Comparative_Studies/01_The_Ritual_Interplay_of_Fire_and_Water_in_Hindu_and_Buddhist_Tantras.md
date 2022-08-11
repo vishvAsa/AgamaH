@@ -169,155 +169,155 @@ Pervasive shared ritual technologies, such as those that characterize *homa* fir
 
 ## NOTES
 
-1. Michel Strickmann, “*Homa* in East Asia,” in Frits Staal, ed., *Agni: The Vedic Ritual of the Fire Altar* \(Berkeley, CA: Asian Humanities Press, 1983\), pp. 418–455.
+[^1]: Michel Strickmann, “*Homa* in East Asia,” in Frits Staal, ed., *Agni: The Vedic Ritual of the Fire Altar* \(Berkeley, CA: Asian Humanities Press, 1983\), pp. 418–455.
 
-2. Yael Bentor, for example, draws upon categories in Tibetan texts to explicate the various functions of internalized fire: as part of the perfection process, with a consort, as a food ritual, mental fire offerings, and fire offerings of the great enlightened wisdom. The rites discussed in this essay most logically fit within this last category of internalized rites. Yael Bentor, “Interiorized Fire Rituals in India and in Tibet,” *Journal of the American Oriental Society* 120/4 \(October–December 2000\): 594–613.
+[^2]: Yael Bentor, for example, draws upon categories in Tibetan texts to explicate the various functions of internalized fire: as part of the perfection process, with a consort, as a food ritual, mental fire offerings, and fire offerings of the great enlightened wisdom. The rites discussed in this essay most logically fit within this last category of internalized rites. Yael Bentor, “Interiorized Fire Rituals in India and in Tibet,” *Journal of the American Oriental Society* 120/4 \(October–December 2000\): 594–613.
 
-3. I borrow this concept from Richard Davis’s study of a Śaiva Siddhānta ritual universe, in his *Ritual in an Oscillating Universe: Worshiping Śiva in Medieval India* \(Princeton, NJ: Princeton University Press, 1991\).
+[^3]: I borrow this concept from Richard Davis’s study of a Śaiva Siddhānta ritual universe, in his *Ritual in an Oscillating Universe: Worshiping Śiva in Medieval India* \(Princeton, NJ: Princeton University Press, 1991\).
 
-4. The obvious exception here is found in the elaborate *śrauta* Vedic rites in which the traditional three fires are utilized; thus, fire is found in three locations while water has multiple locations. However, fire still represents the central element and is surrounded by water.
+[^4]: The obvious exception here is found in the elaborate *śrauta* Vedic rites in which the traditional three fires are utilized; thus, fire is found in three locations while water has multiple locations. However, fire still represents the central element and is surrounded by water.
 
-5. William Darrow, “Keeping the Waters Dry: The Semiotics of Fire and Water in the Zoroastrian Yasna,” *Journal of the American Academy of Religion* 56/3 \(Autumn 1988\): 417–442.
+[^5]: William Darrow, “Keeping the Waters Dry: The Semiotics of Fire and Water in the Zoroastrian Yasna,” *Journal of the American Academy of Religion* 56/3 \(Autumn 1988\): 417–442.
 
-6. Stephanie W. Jamison and Michael Witzel, *Vedic Hinduism* \(Cambridge: Sanskrit Department, Cambridge University, 1992\), [http://www.people.fas.harvard.edu/~witzel/vedica.pdf](http://www.people.fas.harvard.edu/~witzel/vedica.pdf). The authors are also careful to note the striking parallels between early Vedic and Avestan literature.
+[^6]: Stephanie W. Jamison and Michael Witzel, *Vedic Hinduism* \(Cambridge: Sanskrit Department, Cambridge University, 1992\), [http://www.people.fas.harvard.edu/~witzel/vedica.pdf](http://www.people.fas.harvard.edu/~witzel/vedica.pdf). The authors are also careful to note the striking parallels between early Vedic and Avestan literature.
 
-7. Here, he refers us also to the work of Henri Hubert and Marcel Mauss. Frits Staal, *Agni: The Vedic Ritual of the Fire Altar* \(Berkeley, CA: Asian Humanities Press, 1983\), p. 128.
+[^7]: Here, he refers us also to the work of Henri Hubert and Marcel Mauss. Frits Staal, *Agni: The Vedic Ritual of the Fire Altar* \(Berkeley, CA: Asian Humanities Press, 1983\), p. 128.
 
-8. Staal, *Agni: The Vedic Ritual of the Fire Altar*, p. 129.
+[^8]: Staal, *Agni: The Vedic Ritual of the Fire Altar*, p. 129.
 
-9. Michael Witzel, “Meaningful Ritual,” in J. C. Hessterman, Albert W. Van den Hoek, Dirk H. A. Kolff, and M. S. Oort, eds., *Ritual, State, and History in South Asia: Essays in Honour of J. C. Heesterman* \(Leiden: Brill, 1992\), p. 781. Witzel offers a helpful chart to illustrate his point.
+[^9]: Michael Witzel, “Meaningful Ritual,” in J. C. Hessterman, Albert W. Van den Hoek, Dirk H. A. Kolff, and M. S. Oort, eds., *Ritual, State, and History in South Asia: Essays in Honour of J. C. Heesterman* \(Leiden: Brill, 1992\), p. 781. Witzel offers a helpful chart to illustrate his point.
 
-10. Witzel, “Meaningful Ritual,” p. 785.
+[^10]: Witzel, “Meaningful Ritual,” p. 785.
 
-11. Almut Hintze, “On the Ritual Significance of the Yasna Haptanhaiti,” in Michael Stausberg, ed., *Zoroastrian Rituals in Context* \(Leiden: Brill, 2004\), p. 293.
+[^11]: Almut Hintze, “On the Ritual Significance of the Yasna Haptanhaiti,” in Michael Stausberg, ed., *Zoroastrian Rituals in Context* \(Leiden: Brill, 2004\), p. 293.
 
-12. Yasna 36.6. Hintze also points out that this moment is also located in the center of the *Yasna Haptanhaiti* text \(recited in full during the rite\).
+[^12]: Yasna 36.6. Hintze also points out that this moment is also located in the center of the *Yasna Haptanhaiti* text \(recited in full during the rite\).
 
-13. Hintze, “On the Ritual Significance of the Yasna Haptanhaiti,” p. 294.
+[^13]: Hintze, “On the Ritual Significance of the Yasna Haptanhaiti,” p. 294.
 
-14. Recitation of mantras, incorporated into all Zoroastrian rites, generally is interpreted to have a purificatory function, and in this way does not seem to differ radically from Vedic or tantric conceptions. M. P. Kotwal also points out that, like water, mantras frame independent ritual sequences. See M. P. Kotwal and James W. Boyd, *A Persian Offering the Yasna: A Zoroastrian High Liturgy* \(Paris: Association Pour L’Avancement de Études Iraniennes, 1991\).
+[^14]: Recitation of mantras, incorporated into all Zoroastrian rites, generally is interpreted to have a purificatory function, and in this way does not seem to differ radically from Vedic or tantric conceptions. M. P. Kotwal also points out that, like water, mantras frame independent ritual sequences. See M. P. Kotwal and James W. Boyd, *A Persian Offering the Yasna: A Zoroastrian High Liturgy* \(Paris: Association Pour L’Avancement de Études Iraniennes, 1991\).
 
-15. The *hōm* libation consists of “the essence of the *hōm* and pomegranate \[twigs\], infused with consecrated water \(*zōhr*\) and milk, and filtered through a sieve” \(Kotwal and Boyd, *A Persian Offering the Yasna*, p. 17\).
+[^15]: The *hōm* libation consists of “the essence of the *hōm* and pomegranate \[twigs\], infused with consecrated water \(*zōhr*\) and milk, and filtered through a sieve” \(Kotwal and Boyd, *A Persian Offering the Yasna*, p. 17\).
 
-16. Kotwal and Boyd, *A Persian Offering the Yasna*, p. 129.
+[^16]: Kotwal and Boyd, *A Persian Offering the Yasna*, p. 129.
 
-17. Bentor, “Interiorized Fire Rituals,” p. 609.
+[^17]: Bentor, “Interiorized Fire Rituals,” p. 609.
 
-18. Witzel, “Meaningful Ritual,” p. 785.
+[^18]: Witzel, “Meaningful Ritual,” p. 785.
 
-19. Witzel, “Meaningful Ritual,” p. 785.
+[^19]: Witzel, “Meaningful Ritual,” p. 785.
 
-20. On this point, see David White, *Kiss of the Yogini: “Tantric Sex” in its South Asian Contexts* \(Chicago: University of Chicago Press, 2003\), p. 8.
+[^20]: On this point, see David White, *Kiss of the Yogini: “Tantric Sex” in its South Asian Contexts* \(Chicago: University of Chicago Press, 2003\), p. 8.
 
-21. Vedic healing rites, particularly those found in the *Atharva Veda*, are directed toward the self to the extent that the practitioner hopes to destroy *takman* or some other disease that afflicts the body. However, this differs significantly from the internalization of fire in a tantric context.
+[^21]: Vedic healing rites, particularly those found in the *Atharva Veda*, are directed toward the self to the extent that the practitioner hopes to destroy *takman* or some other disease that afflicts the body. However, this differs significantly from the internalization of fire in a tantric context.
 
-22. In the Buddhist *Kriyāsaṃgraha*, for example, consecration rites utilize only water \(though light symbolism could be interpreted as replacing the internal fire\), whereas the use of internal fire is explicit in most Hindu tantric sources.
+[^22]: In the Buddhist *Kriyāsaṃgraha*, for example, consecration rites utilize only water \(though light symbolism could be interpreted as replacing the internal fire\), whereas the use of internal fire is explicit in most Hindu tantric sources.
 
-23. See, for example, S. Gupta and T. Goudriaan, *Hindu Tantrism* \(Leiden and Koln: E. J. Brill, 1979\); Wade Wheelock, “The Mantra in Vedic and Tantric Ritual,” in Havey P. Alper, ed., *Understanding Mantras* \(New York: State University of New York Press, 1989\), pp. 96–123; Witzel, “Meaningful Ritual” and David White, ed., *Tantra in Practice* \(Princeton, NJ, and Oxford: Princeton University Press, 2000\).
+[^23]: See, for example, S. Gupta and T. Goudriaan, *Hindu Tantrism* \(Leiden and Koln: E. J. Brill, 1979\); Wade Wheelock, “The Mantra in Vedic and Tantric Ritual,” in Havey P. Alper, ed., *Understanding Mantras* \(New York: State University of New York Press, 1989\), pp. 96–123; Witzel, “Meaningful Ritual” and David White, ed., *Tantra in Practice* \(Princeton, NJ, and Oxford: Princeton University Press, 2000\).
 
-24. Giovanni Verardi, *“Homa” and Other Fire Rituals in Gandhāra* \(Naples: Istituto Universitario Orientale, 1994\), p. 18.
+[^24]: Giovanni Verardi, *“Homa” and Other Fire Rituals in Gandhāra* \(Naples: Istituto Universitario Orientale, 1994\), p. 18.
 
-25. Richard K. Payne, “Ritual Manual for the Protective Fire Offering Devoted to Mañjuśrī,” in David G. White, ed., *Tantra in Practice* \(Princeton, NJ, and Oxford: Princeton University Press, 2000\), p. 493.
+[^25]: Richard K. Payne, “Ritual Manual for the Protective Fire Offering Devoted to Mañjuśrī,” in David G. White, ed., *Tantra in Practice* \(Princeton, NJ, and Oxford: Princeton University Press, 2000\), p. 493.
 
-26. Beth Potier, “Wisdom Shines Through: Buddhist Bishop Tells the Tale of Ancient Fire Rite,” *Harvard University Gazette*, October 4, 2001, [http://news.harvard.edu/gazette/2001/10.04/28-goma.html](http://news.harvard.edu/gazette/2001/10.04/28-goma.html).
+[^26]: Beth Potier, “Wisdom Shines Through: Buddhist Bishop Tells the Tale of Ancient Fire Rite,” *Harvard University Gazette*, October 4, 2001, [http://news.harvard.edu/gazette/2001/10.04/28-goma.html](http://news.harvard.edu/gazette/2001/10.04/28-goma.html).
 
-27. Glenn Wallis, *Mediating Power of the Buddhas: Ritual in the Mañjuśrimūlakalpa* \(Albany: State University of New York Press, 2002\), p. 25.
+[^27]: Glenn Wallis, *Mediating Power of the Buddhas: Ritual in the Mañjuśrimūlakalpa* \(Albany: State University of New York Press, 2002\), p. 25.
 
-28. Wallis, *Mediating Power of the Buddhas*, p. 25.
+[^28]: Wallis, *Mediating Power of the Buddhas*, p. 25.
 
-29. Bulcsu Siklos, trans., *The Vajrabhairava Tantras*, Buddhica Britanica Series Conintua 10 \(Tring, UK: Institute of Buddhist Studies, 1996\), p. 38.
+[^29]: Bulcsu Siklos, trans., *The Vajrabhairava Tantras*, Buddhica Britanica Series Conintua 10 \(Tring, UK: Institute of Buddhist Studies, 1996\), p. 38.
 
-30. Aurel Stein once suggested that the portrayal of flames rising from the shoulders is likely Iranian in origin. See Aurel Stein, *Serindia: Detailed Report of Explorations in Central Asia and Westernmost China Carried out and Described under the Orders of H.M. Indian Government* \(Oxford: Clarendon Press, 1921\), p. 874.
+[^30]: Aurel Stein once suggested that the portrayal of flames rising from the shoulders is likely Iranian in origin. See Aurel Stein, *Serindia: Detailed Report of Explorations in Central Asia and Westernmost China Carried out and Described under the Orders of H.M. Indian Government* \(Oxford: Clarendon Press, 1921\), p. 874.
 
-31. *MVT* VII.53. All *MVT* translations from Steven Hodge, *The Mahā-Vairocana-Abhisaṃbhodi Tantra: With Buddhaguhya’s Commentary* \(London: Routledge, 2003\), p. 431.
+[^31]: *MVT* VII.53. All *MVT* translations from Steven Hodge, *The Mahā-Vairocana-Abhisaṃbhodi Tantra: With Buddhaguhya’s Commentary* \(London: Routledge, 2003\), p. 431.
 
-32. Jeffrey Hopkins, *The Kālachakra Tantra: Rite of Initiation for the Stage of Generation* \(London: Wisdom Publications, 1985\), p. 325. David White argues that this language of the luminous appears to have emerged from Kashmir in the early Mahāyāna period. See David White, *Sinister Yogis* \(Chicago: University of Chicago Press, 2009\), esp. chapter 3.
+[^32]: Jeffrey Hopkins, *The Kālachakra Tantra: Rite of Initiation for the Stage of Generation* \(London: Wisdom Publications, 1985\), p. 325. David White argues that this language of the luminous appears to have emerged from Kashmir in the early Mahāyāna period. See David White, *Sinister Yogis* \(Chicago: University of Chicago Press, 2009\), esp. chapter 3.
 
-33. *MVT* I.25 \(Hodge, *The Mahā-Vairocana-Abhisaṃbhodi Tantra*, p. 400\).
+[^33]: *MVT* I.25 \(Hodge, *The Mahā-Vairocana-Abhisaṃbhodi Tantra*, p. 400\).
 
-34. *MVT* II.12 \(Hodge, *The Mahā-Vairocana-Abhisaṃbhodi Tantra*, p. 405\).
+[^34]: *MVT* II.12 \(Hodge, *The Mahā-Vairocana-Abhisaṃbhodi Tantra*, p. 405\).
 
-35. *MVT* III.7 \(Hodge, *The Mahā-Vairocana-Abhisaṃbhodi Tantra*, p. 407\). Interestingly, in the *abhicāra homa* prescribed here, the body image of Agni is imagined as “smoky, black in color,” with radiance that is “smoky like blue rain clouds.” However, here, there is no requirement to sprinkle him with water; it is only prescribed that the *mantrin* should offer him “perfumes and so forth” \(p. 411\). For a comparable description of the four *homa* rites, see Tadeusz Skorupski, “Funeral Rites for Rebirth in the Sukhavati Abode,” in Tadeusz Skorupski, ed., *The Buddhist Forum VI* \(Tring, UK: Institute of Buddhist Studies, 2001\), pp. 137–181; *The Sarvadurgatipariśodhana Tantra: Elimination of All Evil Destinies; Sanskrit and Tibetan Texts with Introduction, English Translation and Notes* \(Delhi: Motilal Banarsidass, 1983\), pp. 68–73; and, with some variances, *Kriyāsaṃgraha: Compendium of Buddhist Rituals* \(Tring, UK: Institute of Buddhist Studies, 2002\), pp. 22, 37, 53.
+[^35]: *MVT* III.7 \(Hodge, *The Mahā-Vairocana-Abhisaṃbhodi Tantra*, p. 407\). Interestingly, in the *abhicāra homa* prescribed here, the body image of Agni is imagined as “smoky, black in color,” with radiance that is “smoky like blue rain clouds.” However, here, there is no requirement to sprinkle him with water; it is only prescribed that the *mantrin* should offer him “perfumes and so forth” \(p. 411\). For a comparable description of the four *homa* rites, see Tadeusz Skorupski, “Funeral Rites for Rebirth in the Sukhavati Abode,” in Tadeusz Skorupski, ed., *The Buddhist Forum VI* \(Tring, UK: Institute of Buddhist Studies, 2001\), pp. 137–181; *The Sarvadurgatipariśodhana Tantra: Elimination of All Evil Destinies; Sanskrit and Tibetan Texts with Introduction, English Translation and Notes* \(Delhi: Motilal Banarsidass, 1983\), pp. 68–73; and, with some variances, *Kriyāsaṃgraha: Compendium of Buddhist Rituals* \(Tring, UK: Institute of Buddhist Studies, 2002\), pp. 22, 37, 53.
 
-36. Skorupski, *Kriyāsaṃgraha*, p. 124.
+[^36]: Skorupski, *Kriyāsaṃgraha*, p. 124.
 
-37. Skorupski, “Funeral Rites for Rebirth in the Sukhāvati Abode,” p. 158.
+[^37]: Skorupski, “Funeral Rites for Rebirth in the Sukhāvati Abode,” p. 158.
 
-38. Skorupski, “Funeral Rites for Rebirth in the Sukhāvati Abode,” p. 158.
+[^38]: Skorupski, “Funeral Rites for Rebirth in the Sukhāvati Abode,” p. 158.
 
-39. Skorupski, “Funeral Rites for Rebirth in the Sukhāvati Abode,” p. 170.
+[^39]: Skorupski, “Funeral Rites for Rebirth in the Sukhāvati Abode,” p. 170.
 
-40. Rolf Giebel, *The Vairocanābhisaṃbodhi Sutra* \(Berkeley, CA: Numata Center for Buddhist Translation and Research, 2005\), p. 152.
+[^40]: Rolf Giebel, *The Vairocanābhisaṃbodhi Sutra* \(Berkeley, CA: Numata Center for Buddhist Translation and Research, 2005\), p. 152.
 
-41. Tadeusz Skorupski, “Jyotirmañjari of Abhayakaragupta,” *The Buddhist Forum: Volume VI*. Tring \(UK: The Institute of Buddhist Studies, 2001\), 183-222.
+[^41]: Tadeusz Skorupski, “Jyotirmañjari of Abhayakaragupta,” *The Buddhist Forum: Volume VI*. Tring \(UK: The Institute of Buddhist Studies, 2001\), 183-222.
 
-42. Hopkins, *The Kālachakra Tantra,* p. 67.
+[^42]: Hopkins, *The Kālachakra Tantra,* p. 67.
 
-43. The symbolism and structure of tantric consecrations apparently draw on preexisting royal consecrations. For discussions of the relationship between royal and tantric consecration, see White, *Kiss of the* Yogīnī, p. 134; Ronald Davidson, *Indian Esoteric Buddhism: A Social History of the Tantric Movement* \(New York: Columbia University Press, 2002\), p. 122; Hopkins, *Kālachakra Tantra*, p. 66.
+[^43]: The symbolism and structure of tantric consecrations apparently draw on preexisting royal consecrations. For discussions of the relationship between royal and tantric consecration, see White, *Kiss of the* Yogīnī, p. 134; Ronald Davidson, *Indian Esoteric Buddhism: A Social History of the Tantric Movement* \(New York: Columbia University Press, 2002\), p. 122; Hopkins, *Kālachakra Tantra*, p. 66.
 
-44. See, e.g., Hopkins, *The Kālachakra Tantra*, pp. 282, 293, 300, 320.
+[^44]: See, e.g., Hopkins, *The Kālachakra Tantra*, pp. 282, 293, 300, 320.
 
-45. Hopkins, *The Kālachakra Tantra*, pp. 285, 296, 303, 323.
+[^45]: Hopkins, *The Kālachakra Tantra*, pp. 285, 296, 303, 323.
 
-46. Skorupski, *The Sarvadurgatipariśodhana Tantra*, p. 76.
+[^46]: Skorupski, *The Sarvadurgatipariśodhana Tantra*, p. 76.
 
-47. Wallis, *Mediating Power of the Buddhas*, p. 37.
+[^47]: Wallis, *Mediating Power of the Buddhas*, p. 37.
 
-48. Siklos, *The Vajrabhairava Tantras*, pp. 37–38.
+[^48]: Siklos, *The Vajrabhairava Tantras*, pp. 37–38.
 
-49. In the descriptions of the six magical rites of tantra \(*ṣaṭkarmāṇi*\), the *Mantramahodadhi* \(MM\) correlates the element water with appeasement. Fire is associated with subjugation and liquidation, earth with immobilization, ether with enmity, and wind with eradication; in MM 25.23cd–26ab; Gudrun Bühnemann, “Six Rites of Magic,” in David Gordon White, ed., *Tantra in Practice* \(Princeton, NJ, and Oxford: Princeton University Press, 2000\), pp. 447–462. And the *Pariśiṣtas*, which contain several elements that overlap with Buddhist tantras, similarly depict water as “a means of purification by which the evil effects which may be connected with certain actions are removed or appeasement is realized.” Specifically, “after having pronounced the word vaṣat he \(the priest\) touches water; water is a means of appeasing and medicine \(against evil influences\) appeasing and medicine thus are produced at the end in the sacrifice” B. R. Modak, *The Ancillary Literature of the Atharva Veda* \(New Delhi: Rashtriya Veda Vidya Pratishthan, 1993\), p. 73.
+[^49]: In the descriptions of the six magical rites of tantra \(*ṣaṭkarmāṇi*\), the *Mantramahodadhi* \(MM\) correlates the element water with appeasement. Fire is associated with subjugation and liquidation, earth with immobilization, ether with enmity, and wind with eradication; in MM 25.23cd–26ab; Gudrun Bühnemann, “Six Rites of Magic,” in David Gordon White, ed., *Tantra in Practice* \(Princeton, NJ, and Oxford: Princeton University Press, 2000\), pp. 447–462. And the *Pariśiṣtas*, which contain several elements that overlap with Buddhist tantras, similarly depict water as “a means of purification by which the evil effects which may be connected with certain actions are removed or appeasement is realized.” Specifically, “after having pronounced the word vaṣat he \(the priest\) touches water; water is a means of appeasing and medicine \(against evil influences\) appeasing and medicine thus are produced at the end in the sacrifice” B. R. Modak, *The Ancillary Literature of the Atharva Veda* \(New Delhi: Rashtriya Veda Vidya Pratishthan, 1993\), p. 73.
 
-50. Tulku, Sharpa and Guard, Richard, trans., *Self Initiation of Vajrabhairava: Compiled by Kyabje Phabongkha Rinpoche* \(Dharamsala: Library of Tibetan Works and Archives, 1991\), p. 24. Translation is of a ritual text composed by Kyabje Phabongkha Rinpoche \(1878–1941\).
+[^50]: Tulku, Sharpa and Guard, Richard, trans., *Self Initiation of Vajrabhairava: Compiled by Kyabje Phabongkha Rinpoche* \(Dharamsala: Library of Tibetan Works and Archives, 1991\), p. 24. Translation is of a ritual text composed by Kyabje Phabongkha Rinpoche \(1878–1941\).
 
-51. Sharpa and Guard, *Self Initiation of Vajrabhairava.*
+[^51]: Sharpa and Guard, *Self Initiation of Vajrabhairava.*
 
-52. Sharpa and Guard, *Self Initiation of Vajrabhairava*, pp. 25–26.
+[^52]: Sharpa and Guard, *Self Initiation of Vajrabhairava*, pp. 25–26.
 
-53. Sharpa and Guard, *Self Initiation of Vajrabhairava*, p. 131.
+[^53]: Sharpa and Guard, *Self Initiation of Vajrabhairava*, p. 131.
 
-54. White, *Tantra in Practice*, p. 5.
+[^54]: White, *Tantra in Practice*, p. 5.
 
-55. Witzel, “Meaningful Ritual,” p. 808.
+[^55]: Witzel, “Meaningful Ritual,” p. 808.
 
-56. Witzel, “Meaningful Ritual,” p. 802.
+[^56]: Witzel, “Meaningful Ritual,” p. 802.
 
-57. White, *Sinister Yogis*, pp. 122–123. Here White specifically discusses “the rise of the luminous person \(*puruṣa*\), self \(*ātman*\), or lifebody \(*jīva*\) of the dying or departing individual” and the “science of entering another body.” However, I believe his points apply also to the shift in understanding we see between Vedic and tantric speculations on the role of ritual fire. White himself argues that “Indic metaphysics of rays came to be applied to the diverse yet interconnected fields of aesthetics, epistemology, climatology.”
+[^57]: White, *Sinister Yogis*, pp. 122–123. Here White specifically discusses “the rise of the luminous person \(*puruṣa*\), self \(*ātman*\), or lifebody \(*jīva*\) of the dying or departing individual” and the “science of entering another body.” However, I believe his points apply also to the shift in understanding we see between Vedic and tantric speculations on the role of ritual fire. White himself argues that “Indic metaphysics of rays came to be applied to the diverse yet interconnected fields of aesthetics, epistemology, climatology.”
 
-58. Diehl, *Instrument and Purpose*, p. 124.
+[^58]: Diehl, *Instrument and Purpose*, p. 124.
 
-59. Lit., “fit to be honored.”
+[^59]: Lit., “fit to be honored.”
 
-60. Jan Gonda, *Visnuism and Sivaism: A Comparison* \(London: University of London Press, 1970\), p. 84.
+[^60]: Jan Gonda, *Visnuism and Sivaism: A Comparison* \(London: University of London Press, 1970\), p. 84.
 
-61. Gonda, *Visnuism and Sivaism*, p. 84.
+[^61]: Gonda, *Visnuism and Sivaism*, p. 84.
 
-62. Diehl, *Instrument and Purpose*, p. 125.
+[^62]: Diehl, *Instrument and Purpose*, p. 125.
 
-63. For a discussion of the three main fetters, *mala, karman*, and *māyā*, and the necessity of their removal for liberation, see Davis, *Ritual in an Oscillating Universe*, p. 86.
+[^63]: For a discussion of the three main fetters, *mala, karman*, and *māyā*, and the necessity of their removal for liberation, see Davis, *Ritual in an Oscillating Universe*, p. 86.
 
-64. Davis, *Ritual in an Oscillating Universe*, p. 92.
+[^64]: Davis, *Ritual in an Oscillating Universe*, p. 92.
 
-65. Davis, *Ritual in an Oscillating Universe*, p. 58.
+[^65]: Davis, *Ritual in an Oscillating Universe*, p. 58.
 
-66. Davis, *Ritual in an Oscillating Universe*, p. 59.
+[^66]: Davis, *Ritual in an Oscillating Universe*, p. 59.
 
-67. *VŚT* 72–73. All *Vīṇāśikhatantra* translations are by Teun Goudriaan, *The Vīṇāśikhatantra: A Śaiva Tantra of the Left Current* \(Delhi: Motilal Banarsidass, 1985\). Sanskrit terms in parentheses were added.
+[^67]: *VŚT* 72–73. All *Vīṇāśikhatantra* translations are by Teun Goudriaan, *The Vīṇāśikhatantra: A Śaiva Tantra of the Left Current* \(Delhi: Motilal Banarsidass, 1985\). Sanskrit terms in parentheses were added.
 
-68. *Bhūta* carries the double meaning of “element” and “demon.” Therefore, *bhūtaśuddhi* can be translated either as “purification of elements” or “purification from demons.”
+[^68]: *Bhūta* carries the double meaning of “element” and “demon.” Therefore, *bhūtaśuddhi* can be translated either as “purification of elements” or “purification from demons.”
 
-69. Gavin Flood describes the *Jayākhya Saṃhitā* as “The Tantric tradition’s most elaborated source for the purification of the body and its ritual identification with the cosmos” \(“The Purification of the Body,” in White, ed., *Tantra in Practice*, p. 507\).
+[^69]: Gavin Flood describes the *Jayākhya Saṃhitā* as “The Tantric tradition’s most elaborated source for the purification of the body and its ritual identification with the cosmos” \(“The Purification of the Body,” in White, ed., *Tantra in Practice*, p. 507\).
 
-70. The six coverings include *śakti* \(energy\), *māyā* \(illusion\), *prasūti* \(“setting in motion”\), *prakŗti* \(matter\), *brahmāṇḍa* \(cosmic egg\), and *jīvadeha* \(“the body of the soul”\). Flood describes them as “coverings” or “sheaths” that “surround both the purity of the soul and vast levels or regions of the hierarchical cosmos … described in chapter 6 of the *Lakṣmī Tantra*” \(“The Purification of the Body,” p. 511\).
+[^70]: The six coverings include *śakti* \(energy\), *māyā* \(illusion\), *prasūti* \(“setting in motion”\), *prakŗti* \(matter\), *brahmāṇḍa* \(cosmic egg\), and *jīvadeha* \(“the body of the soul”\). Flood describes them as “coverings” or “sheaths” that “surround both the purity of the soul and vast levels or regions of the hierarchical cosmos … described in chapter 6 of the *Lakṣmī Tantra*” \(“The Purification of the Body,” p. 511\).
 
-71. The subtle body is referred to as the “City of Eight” \(*puryaṣṭaka*\) “because it comprises the five subtle elements along with the intellect \(*buddhi*\), ego *\(ahaṃkāra*\), and the mind \(*manas*\) of Sāṃkhya cosmology” \(Flood, “The Purification of the Body,” p. 511\).
+[^71]: The subtle body is referred to as the “City of Eight” \(*puryaṣṭaka*\) “because it comprises the five subtle elements along with the intellect \(*buddhi*\), ego *\(ahaṃkāra*\), and the mind \(*manas*\) of Sāṃkhya cosmology” \(Flood, “The Purification of the Body,” p. 511\).
 
-72. *Jayākhya Saṃhitā* \(*JS*\) 10.74b–75. All *JS* translations are by Flood, “The Purification of the Body.”
+[^72]: *Jayākhya Saṃhitā* \(*JS*\) 10.74b–75. All *JS* translations are by Flood, “The Purification of the Body.”
 
-73. *JS* 10.76–77.
+[^73]: *JS* 10.76–77.
 
-74. *JS* 10.79b–80a.
+[^74]: *JS* 10.79b–80a.
 
-75. *JS* 10.81b–82.
+[^75]: *JS* 10.81b–82.
 
 
 

@@ -157,15 +157,15 @@ The *Śatapatha-Brāhmaṇa* distinguishes two kinds of gods: gods who are truly
 
 The *Śatapatha Brāhmaṇa* also sets forth the classical grouping of sacrifices into five great sacrificial sessions \(*mahāsattra*\):
 
-1. Sacrifice to beings \(*bhūta-yajña*\): every day one offers sacrificial cakes \(*bali*\).
+[^1]: Sacrifice to beings \(*bhūta-yajña*\): every day one offers sacrificial cakes \(*bali*\).
 
-2. Sacrifice to humans \(*manuṣya*-\): every day one gives alms, including a cup of water.
+[^2]: Sacrifice to humans \(*manuṣya*-\): every day one gives alms, including a cup of water.
 
-3. Sacrifice to the fathers \(*pitṛ-*\): every day one offers libations, including a cup of water.
+[^3]: Sacrifice to the fathers \(*pitṛ-*\): every day one offers libations, including a cup of water.
 
-4. Sacrifice to the gods \(*deva*-\): every day one makes offerings, including firewood.
+[^4]: Sacrifice to the gods \(*deva*-\): every day one makes offerings, including firewood.
 
-5. Sacrifice to Brahman \(*brahma-yajña*\): one recites the Vedas.65
+[^5]: Sacrifice to Brahman \(*brahma-yajña*\): one recites the Vedas.65
 
 Thus, as a whole, these five sacrifices discharge offerings and gratify all categories of beings in all three Vedic worlds.
 
@@ -345,7 +345,7 @@ Secret *homa*. This *homa* follows the path of passions, and it is the worship c
 
 The *homa* of the path of liberation. In this *homa* the head’s skull is the vessel for the *homa* articles: the five ambrosias. Inside the heart, on the right side of the *dharmacakra* is Rasanā epitomising the first *homa* ladle, and on the left side is Lalanā epitomising the second *homa* ladle. At the navel there is the fire circle as the hearth. Inside the head, one generates the pure self-arising fire by means of the karma wind. It is in this way that one performs this *homa*. After that one perform a series of recitations.1
 
-1 Vīryavajra. *Ratnamālā,* 73a-76a.
+[^1]: Vīryavajra. *Ratnamālā,* 73a-76a.
 
 
 
@@ -565,401 +565,401 @@ Part Three attempts to ascertain the function of the fire element and the other 
 
 ## NOTES
 
-1. Arthur Berriedale Keith, *The Religion and Philosophy of the Veda and Upanishads*, Harvard Oriental Series 31–32 \(Cambridge, MAassachusetts: Harvard University Press, 1925\), p. 155; Louis Renou and Jean Filliozat, *L’Inde classique: Manuel des études indiennes*, 2 vols. \(Paris: Adrien Maisonneuve, 1985\), §647.
+[^1]: Arthur Berriedale Keith, *The Religion and Philosophy of the Veda and Upanishads*, Harvard Oriental Series 31–32 \(Cambridge, MAassachusetts: Harvard University Press, 1925\), p. 155; Louis Renou and Jean Filliozat, *L’Inde classique: Manuel des études indiennes*, 2 vols. \(Paris: Adrien Maisonneuve, 1985\), §647.
 
-2. *Śatapatha*, I.6.2.8–11; III.1.3.1.
+[^2]: *Śatapatha*, I.6.2.8–11; III.1.3.1.
 
-3. *Śatapatha*, III.2.2.9.
+[^3]: *Śatapatha*, III.2.2.9.
 
-4. *Śatapatha*, VI.1.3.10–19.
+[^4]: *Śatapatha*, VI.1.3.10–19.
 
-5. Renou and Filliozat, *L’Inde classique*, §1016.
+[^5]: Renou and Filliozat, *L’Inde classique*, §1016.
 
-6. *Bṛhadāraṇyaka*, V.9.1.
+[^6]: *Bṛhadāraṇyaka*, V.9.1.
 
-7. Abel Bergaigne, *Vedic Religion*, translated by V. G. Paranjpe, 4 vols. \(Delhi: Motilal Banarsidass, 1978\), vol. 1, p. 14.
+[^7]: Abel Bergaigne, *Vedic Religion*, translated by V. G. Paranjpe, 4 vols. \(Delhi: Motilal Banarsidass, 1978\), vol. 1, p. 14.
 
-8. *Ṛgveda*, III.2.8.
+[^8]: *Ṛgveda*, III.2.8.
 
-9. Bergaigne, *Vedic Religion*, vol. 1, pp. 107, 116.
+[^9]: Bergaigne, *Vedic Religion*, vol. 1, pp. 107, 116.
 
-10. Such as *hotṛ, potṛ, praśāstṛ, neṣṭṛ*, and *adhvaryu*. Bergaigne, *Vedic Religion*, vol. 1, p. 38.
+[^10]: Such as *hotṛ, potṛ, praśāstṛ, neṣṭṛ*, and *adhvaryu*. Bergaigne, *Vedic Religion*, vol. 1, p. 38.
 
-11. Bergaigne, *Vedic Religion*, vol. 1, p. 38.
+[^11]: Bergaigne, *Vedic Religion*, vol. 1, p. 38.
 
-12. Keith, *Religion and Philosophy*, p. 158.
+[^12]: Keith, *Religion and Philosophy*, p. 158.
 
-13. Keith, *Religion and Philosophy*, pp. 159–160.
+[^13]: Keith, *Religion and Philosophy*, pp. 159–160.
 
-14. Bergaigne, *Vedic Religion*, vol. 1, p. 40; Renou and Filliozat, *L’Inde classique*, §647.
+[^14]: Bergaigne, *Vedic Religion*, vol. 1, p. 40; Renou and Filliozat, *L’Inde classique*, §647.
 
-15. Keith, *Religion and Philosophy*, p. 160.
+[^15]: Keith, *Religion and Philosophy*, p. 160.
 
-16. *Ṛgveda*, X.2.3–5.
+[^16]: *Ṛgveda*, X.2.3–5.
 
-17. *Ṛgveda*, I.96.2.
+[^17]: *Ṛgveda*, I.96.2.
 
-18. For an integrated discussion of the five fires and related fire theories in the *Upaniṣads*, see Eric Frauwallner, *History of Indian Philosophy*, vol. 1 \(Delhi: Motilal Banarsidass, 1973\), 45–55. For a textual study of the doctrine of the five fires, see Hendrik Wilhelm Bodewitz, *Jaiminīya Brāhmaṇa I, 1–65: Translation and Commentary, with a Study of Agnihotra and Prāṇāgnihotra* \(Leiden: E. J. Brill, 1973\), pp. 110–123, 249–253.
+[^18]: For an integrated discussion of the five fires and related fire theories in the *Upaniṣads*, see Eric Frauwallner, *History of Indian Philosophy*, vol. 1 \(Delhi: Motilal Banarsidass, 1973\), 45–55. For a textual study of the doctrine of the five fires, see Hendrik Wilhelm Bodewitz, *Jaiminīya Brāhmaṇa I, 1–65: Translation and Commentary, with a Study of Agnihotra and Prāṇāgnihotra* \(Leiden: E. J. Brill, 1973\), pp. 110–123, 249–253.
 
-19. In one source the gods offer the immortal waters \(*amṛta-āpas*\), which is considered to be a more original reading than *śraddhā*, although both of them denote immortality. Bodewitz, *Jaiminīya Brāhmaṇa*, pp. 111, 113.
+[^19]: In one source the gods offer the immortal waters \(*amṛta-āpas*\), which is considered to be a more original reading than *śraddhā*, although both of them denote immortality. Bodewitz, *Jaiminīya Brāhmaṇa*, pp. 111, 113.
 
-20. *Bṛhadāraṇyaka*, VI.2.9–13; *Chāndogya*, V.4.1–V.8.2.
+[^20]: *Bṛhadāraṇyaka*, VI.2.9–13; *Chāndogya*, V.4.1–V.8.2.
 
-21. *Chāndogya*, V.9.1–2.
+[^21]: *Chāndogya*, V.9.1–2.
 
-22. *Bṛhadāraṇyaka*, VI.2.13–14.
+[^22]: *Bṛhadāraṇyaka*, VI.2.13–14.
 
-23. *Bṛhadāraṇyaka*, VI.2.14–15. A similar passage in the *Chāndogya*, V.10.2, briefly states that a nonhuman person leads them to Brahman and concludes by saying that this is the path leading to the gods \(*devayāna*\).
+[^23]: *Bṛhadāraṇyaka*, VI.2.14–15. A similar passage in the *Chāndogya*, V.10.2, briefly states that a nonhuman person leads them to Brahman and concludes by saying that this is the path leading to the gods \(*devayāna*\).
 
-24. In the *Chāndogya*, V.10.3–6, a similar passage diverges at this point and says that when they reach the earth, they spring up as rice and barley, plants and trees. When someone consumes them as food and emits as semen, from him they come into being again.
+[^24]: In the *Chāndogya*, V.10.3–6, a similar passage diverges at this point and says that when they reach the earth, they spring up as rice and barley, plants and trees. When someone consumes them as food and emits as semen, from him they come into being again.
 
-25. *Bṛhadāraṇyaka*, VI.2.16.
+[^25]: *Bṛhadāraṇyaka*, VI.2.16.
 
-26. *Chāndogya*, V.10.10.
+[^26]: *Chāndogya*, V.10.10.
 
-27. *Kauṣītaki*, chapter one.
+[^27]: *Kauṣītaki*, chapter one.
 
-28. Renou and Filliozat, *L’Inde classique*, §703. For drawings of the three fires, see Patrick Olivelle, *Upaniṣads* \(Oxford: Oxford University Press, 1996\), p. xliii.
+[^28]: Renou and Filliozat, *L’Inde classique*, §703. For drawings of the three fires, see Patrick Olivelle, *Upaniṣads* \(Oxford: Oxford University Press, 1996\), p. xliii.
 
-29. *Śatapatha*, VII.1.1.13; VII.1.1.35–37; VII.3.1.1, 10; *Chāndogya*, IV.11.1–IV.13.2; *Maitrī*, V.34.
+[^29]: *Śatapatha*, VII.1.1.13; VII.1.1.35–37; VII.3.1.1, 10; *Chāndogya*, IV.11.1–IV.13.2; *Maitrī*, V.34.
 
-30. *Chāndogya*, V.12.1–V.17.2.
+[^30]: *Chāndogya*, V.12.1–V.17.2.
 
-31. *Chāndogya*, V.18.1–2.
+[^31]: *Chāndogya*, V.18.1–2.
 
-32. *Kaṭha*, V.15; *Muṇḍaka*, II.2.10.
+[^32]: *Kaṭha*, V.15; *Muṇḍaka*, II.2.10.
 
-33. *Maitrī*, VI.17.
+[^33]: *Maitrī*, VI.17.
 
-34. *Chāndogya*, VIII.12.1–5.
+[^34]: *Chāndogya*, VIII.12.1–5.
 
-35. *Bṛhadāraṇyaka*, III.2.13.
+[^35]: *Bṛhadāraṇyaka*, III.2.13.
 
-36. *Śatapatha*, X.3.3.8.
+[^36]: *Śatapatha*, X.3.3.8.
 
-37. *Bṛhadāraṇyaka*, IV.4.1–2, 6–7.
+[^37]: *Bṛhadāraṇyaka*, IV.4.1–2, 6–7.
 
-38. *Bṛhadāraṇyaka*, III.2.10.
+[^38]: *Bṛhadāraṇyaka*, III.2.10.
 
-39. *Bṛhadāraṇyaka*, I.2.1–7.
+[^39]: *Bṛhadāraṇyaka*, I.2.1–7.
 
-40. *Aitareya Upaniṣad*, I.1.2–2.4.
+[^40]: *Aitareya Upaniṣad*, I.1.2–2.4.
 
-41. *Aitareya Upaniṣad*, I.1.2.
+[^41]: *Aitareya Upaniṣad*, I.1.2.
 
-42. *Śatapatha*, II.3.2.2.
+[^42]: *Śatapatha*, II.3.2.2.
 
-43. *Bṛhadāraṇyaka*, I.5.21.
+[^43]: *Bṛhadāraṇyaka*, I.5.21.
 
-44. *Śatapatha*, X.5.1.1–5. For a conceptually similar account, see *Śatapatha*, II.3.3.7–9, and Hendrik Wilhelm Bodewitz, *The Daily Evening and Morning Offering \(Agnihotra\) According to the Brāhmaṇas* \(Leiden: E. J. Brill, 1976\), pp. 155–156.
+[^44]: *Śatapatha*, X.5.1.1–5. For a conceptually similar account, see *Śatapatha*, II.3.3.7–9, and Hendrik Wilhelm Bodewitz, *The Daily Evening and Morning Offering \(Agnihotra\) According to the Brāhmaṇas* \(Leiden: E. J. Brill, 1976\), pp. 155–156.
 
-45. *Bṛhadāraṇyaka*, I.3.28.
+[^45]: *Bṛhadāraṇyaka*, I.3.28.
 
-46. Sacrifice, study of the scriptures, and alms-giving.
+[^46]: Sacrifice, study of the scriptures, and alms-giving.
 
-47. *Kaṭha*, I.12–19. For a learned discussion of the Naciketas fire, see Hendrik Wilhelm Bodewitz, “Yama’s Second Boon in the Kaṭha Upaniṣad,” *Wiener Zeitschrift für die Kunde Sudasiens* 29 \(1985\): 5–26.
+[^47]: *Kaṭha*, I.12–19. For a learned discussion of the Naciketas fire, see Hendrik Wilhelm Bodewitz, “Yama’s Second Boon in the Kaṭha Upaniṣad,” *Wiener Zeitschrift für die Kunde Sudasiens* 29 \(1985\): 5–26.
 
-48. *Śatapatha*, X.1.4.14.
+[^48]: *Śatapatha*, X.1.4.14.
 
-49. *Śatapatha*, X.2.6.17–19.
+[^49]: *Śatapatha*, X.2.6.17–19.
 
-50. *Śatapatha*, IX.5.1.1–11
+[^50]: *Śatapatha*, IX.5.1.1–11
 
-51. *Śvetāśvatara*, II.11–12.
+[^51]: *Śvetāśvatara*, II.11–12.
 
-52. *Bṛhadāraṇyaka*, I.3.8–16.
+[^52]: *Bṛhadāraṇyaka*, I.3.8–16.
 
-53. *Praśna Upaniṣad*, I.4–10.
+[^53]: *Praśna Upaniṣad*, I.4–10.
 
-54. *Śatapatha*, X.5.2.1–4.
+[^54]: *Śatapatha*, X.5.2.1–4.
 
-55. Keith, *Religion and Philosophy*, p. 252.
+[^55]: Keith, *Religion and Philosophy*, p. 252.
 
-56. Surendranath Dasgupta, *A History of Indian Philosophy*, vol. 1 \(Delhi: Motilal Banarsidass, 1975\), pp. 21–22; *Śatapatha*, IX.4.4.15.
+[^56]: Surendranath Dasgupta, *A History of Indian Philosophy*, vol. 1 \(Delhi: Motilal Banarsidass, 1975\), pp. 21–22; *Śatapatha*, IX.4.4.15.
 
-57. Dasgupta, *History of Indian Philosophy*, 20; Silvain Lévi, *La Doctrine du sacrifice dans les Brāhmaṇas* \(Paris: Ernest Leroux, 1898\), 77.
+[^57]: Dasgupta, *History of Indian Philosophy*, 20; Silvain Lévi, *La Doctrine du sacrifice dans les Brāhmaṇas* \(Paris: Ernest Leroux, 1898\), 77.
 
-58. For an excellent study of the *agnihotra*, see Hendrik Wilhelm Bodewitz, *The Daily Evening and Morning Offering \(Agnihotra\) According to the Brāhmaṇas* \(1976; reprint, Leiden: E. J. Brill, 2003\).
+[^58]: For an excellent study of the *agnihotra*, see Hendrik Wilhelm Bodewitz, *The Daily Evening and Morning Offering \(Agnihotra\) According to the Brāhmaṇas* \(1976; reprint, Leiden: E. J. Brill, 2003\).
 
-59. Keith, *Religion and Philosophy*, p. 287.
+[^59]: Keith, *Religion and Philosophy*, p. 287.
 
-60. An elaborate, and highly ritualized, animal sacrifice is detailed in *Śatapatha*, III.6.4.1–III.8.3.36.
+[^60]: An elaborate, and highly ritualized, animal sacrifice is detailed in *Śatapatha*, III.6.4.1–III.8.3.36.
 
-61. Keith, *Religion and Philosophy*, pp. 278–279; Renou and Filliozat, *L’Inde classique*, §700; *Śatapatha*, III.8.1.15.
+[^61]: Keith, *Religion and Philosophy*, pp. 278–279; Renou and Filliozat, *L’Inde classique*, §700; *Śatapatha*, III.8.1.15.
 
-62. Keith, *Religion and Philosophy*, p. 259.
+[^62]: Keith, *Religion and Philosophy*, p. 259.
 
-63. Madeleine Biardeau and Charles Malamoud, *Le Sacrifice dans l’Inde ancienne* \(Paris: Presses Universitaires de France, 1976\), pp. 19, 22. It is said in the *Śatapatha*, IX.5.2.16, that the benefactor is the body of the sacrifice, and the officiating priests are the limbs.
+[^63]: Madeleine Biardeau and Charles Malamoud, *Le Sacrifice dans l’Inde ancienne* \(Paris: Presses Universitaires de France, 1976\), pp. 19, 22. It is said in the *Śatapatha*, IX.5.2.16, that the benefactor is the body of the sacrifice, and the officiating priests are the limbs.
 
-64. *Śatapatha*, IV.3.4.4–7.
+[^64]: *Śatapatha*, IV.3.4.4–7.
 
-65. *Śatapatha*, XI.5.6.1–3; *Manusmṛti*, III.67–71; Lévi, *La Doctrine du sacrifice*, p. 78; Renou and Filliozat, *L’Inde classique*, §731.
+[^65]: *Śatapatha*, XI.5.6.1–3; *Manusmṛti*, III.67–71; Lévi, *La Doctrine du sacrifice*, p. 78; Renou and Filliozat, *L’Inde classique*, §731.
 
-66. *Bṛhadāraṇyaka*, I.5.16.
+[^66]: *Bṛhadāraṇyaka*, I.5.16.
 
-67. *Bṛhadāraṇyaka*, III.8.10.
+[^67]: *Bṛhadāraṇyaka*, III.8.10.
 
-68. *Muṇḍaka*, I.1.4–5.
+[^68]: *Muṇḍaka*, I.1.4–5.
 
-69. *Muṇḍaka*, I.1.1.
+[^69]: *Muṇḍaka*, I.1.1.
 
-70. Bodewitz, *Jaiminīya Brāhmaṇa*, p. 220.
+[^70]: Bodewitz, *Jaiminīya Brāhmaṇa*, p. 220.
 
-71. *Prāṇa, apāna, vyāna, udāna, samāna*. The precise meaning of these terms is not always clear in all contexts, and in Western publications they are not consistently translated in the same way. According to Olivelle, *Upaniṣads*, p. l, these terms appear to have the following meanings: *prāṇa* is breathing out, *apāna* is breathing in, *vyāna* is the breath that traverses, *udāna* is the breath that moves up, and *samāna* is the breath that equalizes or links.
+[^71]: *Prāṇa, apāna, vyāna, udāna, samāna*. The precise meaning of these terms is not always clear in all contexts, and in Western publications they are not consistently translated in the same way. According to Olivelle, *Upaniṣads*, p. l, these terms appear to have the following meanings: *prāṇa* is breathing out, *apāna* is breathing in, *vyāna* is the breath that traverses, *udāna* is the breath that moves up, and *samāna* is the breath that equalizes or links.
 
-72. Bodewitz, *Jaiminīya Brāhmaṇa*, pp. 220, 218, 278.
+[^72]: Bodewitz, *Jaiminīya Brāhmaṇa*, pp. 220, 218, 278.
 
-73. *Bṛhadāraṇyaka*, I.5.21; *Aitareya Upaniṣad*, II.4.1–6.
+[^73]: *Bṛhadāraṇyaka*, I.5.21; *Aitareya Upaniṣad*, II.4.1–6.
 
-74. *Bṛhadāraṇyaka*, I.5.1–3.
+[^74]: *Bṛhadāraṇyaka*, I.5.1–3.
 
-75. *Aitareya Upaniṣad*, III.3.
+[^75]: *Aitareya Upaniṣad*, III.3.
 
-76. *Chāndogya*, III.14.2–3.
+[^76]: *Chāndogya*, III.14.2–3.
 
-77. *Praśna Upaniṣad*, IV.2–4.
+[^77]: *Praśna Upaniṣad*, IV.2–4.
 
-78. *Chāndogya*, III.13.
+[^78]: *Chāndogya*, III.13.
 
-79. *Bṛhadāraṇyaka*, I.3.8–16; *Aitareya Āraṇyaka*, II.4.1–6.
+[^79]: *Bṛhadāraṇyaka*, I.3.8–16; *Aitareya Āraṇyaka*, II.4.1–6.
 
-80. *Bṛhadāraṇyaka*, I.5.3–13.
+[^80]: *Bṛhadāraṇyaka*, I.5.3–13.
 
-81. *Chāndogya*, VI.5.1–4.
+[^81]: *Chāndogya*, VI.5.1–4.
 
-82. *Maitrī*, VI.11–12.
+[^82]: *Maitrī*, VI.11–12.
 
-83. *Taittirīya*, II.2.1.
+[^83]: *Taittirīya*, II.2.1.
 
-84. Bodewitz, *Jaiminīya Brāhmaṇa*, pp. 38, 235; *Daily Evening and Morning Offering*, pp. 41, 145.
+[^84]: Bodewitz, *Jaiminīya Brāhmaṇa*, pp. 38, 235; *Daily Evening and Morning Offering*, pp. 41, 145.
 
-85. *Bṛhadāraṇyaka*, I.5.23.
+[^85]: *Bṛhadāraṇyaka*, I.5.23.
 
-86. *Chāndogya*, V.19.1–V.23.2.
+[^86]: *Chāndogya*, V.19.1–V.23.2.
 
-87. *Chāndogya*, V.24.1–2.
+[^87]: *Chāndogya*, V.24.1–2.
 
-88. *Kauṣītakī*, 2.5.
+[^88]: *Kauṣītakī*, 2.5.
 
-89. *Maitrī*, VI.9.
+[^89]: *Maitrī*, VI.9.
 
-90. *Aṅguttara*, II.42–43; *Saṃyutta*, I.76.
+[^90]: *Aṅguttara*, II.42–43; *Saṃyutta*, I.76.
 
-91. In the *Brahmajāla*, the Buddha lists the following nine kinds of *homa*: fire oblation \(*aggi-homa*\), ladle oblation \(*dabbi-homa*\), husk oblation \(*thusa-homa*\), husk-powder oblation \(*kaṇa-homa*\), rice-grain oblation \(*taṇḍula-homa*\), ghee oblation \(*sappi-homa*\), sesame-oil oblation \(*tela-homa*\), mouth oblation \(*mukha-homa*\), blood oblation \(*lohita-homa*\). *Dīgha*, I.9.
+[^91]: In the *Brahmajāla*, the Buddha lists the following nine kinds of *homa*: fire oblation \(*aggi-homa*\), ladle oblation \(*dabbi-homa*\), husk oblation \(*thusa-homa*\), husk-powder oblation \(*kaṇa-homa*\), rice-grain oblation \(*taṇḍula-homa*\), ghee oblation \(*sappi-homa*\), sesame-oil oblation \(*tela-homa*\), mouth oblation \(*mukha-homa*\), blood oblation \(*lohita-homa*\). *Dīgha*, I.9.
 
-92. *Suttanipāta*, verses 1043–1048.
+[^92]: *Suttanipāta*, verses 1043–1048.
 
-93. *Suttanipāta*, verses 285–314.
+[^93]: *Suttanipāta*, verses 285–314.
 
-94. *Aṅguttara*, II.42–43.
+[^94]: *Aṅguttara*, II.42–43.
 
-95. *Dīgha*, II.352–354.
+[^95]: *Dīgha*, II.352–354.
 
-96. *Dīgha*, I.134–135; *Majjhima*, I.82.
+[^96]: *Dīgha*, I.134–135; *Majjhima*, I.82.
 
-97. *Suttanipāta*, verses 461–467, 486.
+[^97]: *Suttanipāta*, verses 461–467, 486.
 
-98. In the *Majjhima*, III.254–255, the Buddha lists fourteen offerings \(*dakṣiṇā*\) that are graded in relation to the ethical qualities of their recipients. The list includes the Buddha, solitary Buddha, the eight grades of holy persons \(arhat, candidate for *arhatship, anāgamin*, and so forth; ten in all\), a person detached from sense-pleasures, an ordinary person of good moral habit, an ordinary person of weak moral habit, and an animal. The grades of merit start with a gift to an animal. The offering given to an animal yields a hundredfold reward. The offering given to a person detached from the sense-pleasures brings a thousandfold reward, and the offering given to the candidate for the fruit of stream-entry is incalculable and immeasurable. In the case of the remaining individuals, including arhats and the Buddha, the volume of merit is simply impossible to calculate.
+[^98]: In the *Majjhima*, III.254–255, the Buddha lists fourteen offerings \(*dakṣiṇā*\) that are graded in relation to the ethical qualities of their recipients. The list includes the Buddha, solitary Buddha, the eight grades of holy persons \(arhat, candidate for *arhatship, anāgamin*, and so forth; ten in all\), a person detached from sense-pleasures, an ordinary person of good moral habit, an ordinary person of weak moral habit, and an animal. The grades of merit start with a gift to an animal. The offering given to an animal yields a hundredfold reward. The offering given to a person detached from the sense-pleasures brings a thousandfold reward, and the offering given to the candidate for the fruit of stream-entry is incalculable and immeasurable. In the case of the remaining individuals, including arhats and the Buddha, the volume of merit is simply impossible to calculate.
 
-99. *Dīgha*, I.134–146.
+[^99]: *Dīgha*, I.134–146.
 
-100. Their Pāli names are: *āhunneyaggi, gahapataggi, dakkhiṇeyyaggi*. Their Vedic equivalents are: *āhavanīya, gārhapatya*, and *dakṣiṇāgni*.
+[^100]: Their Pāli names are: *āhunneyaggi, gahapataggi, dakkhiṇeyyaggi*. Their Vedic equivalents are: *āhavanīya, gārhapatya*, and *dakṣiṇāgni*.
 
-101. *Aṅguttara*, IV.41–46. For a good translation of this discourse and explanatory notes, see Richard Gombrich, “Recovering the Buddha’s Message,” in Tadeusz Skorupski, ed., *The Buddhist Forum I* \(London: SOAS, University of London, 1990\), 16–20.
+[^101]: *Aṅguttara*, IV.41–46. For a good translation of this discourse and explanatory notes, see Richard Gombrich, “Recovering the Buddha’s Message,” in Tadeusz Skorupski, ed., *The Buddhist Forum I* \(London: SOAS, University of London, 1990\), 16–20.
 
-102. *Visuddhimagga*, VII.94–95, 97.
+[^102]: *Visuddhimagga*, VII.94–95, 97.
 
-103. *Dhammapada*, 107.
+[^103]: *Dhammapada*, 107.
 
-104. *Vinaya*, I.23–35; *Saṃyutta*, IV.19.
+[^104]: *Vinaya*, I.23–35; *Saṃyutta*, IV.19.
 
-105. *Itivuttaka*, 181–82.
+[^105]: *Itivuttaka*, 181–82.
 
-106. *Milindapañha*, 324.
+[^106]: *Milindapañha*, 324.
 
-107. *Dhammapada*, 220.
+[^107]: *Dhammapada*, 220.
 
-108. E.g., *Dīgha*, III.214; *Majjhima*, I.47; *Dhammasaṅgani*, 982; *Siddhi*, 328.
+[^108]: E.g., *Dīgha*, III.214; *Majjhima*, I.47; *Dhammasaṅgani*, 982; *Siddhi*, 328.
 
-109. *Milindapañha*, 384.
+[^109]: *Milindapañha*, 384.
 
-110. *Paṭisambhidāmagga*, I.475.
+[^110]: *Paṭisambhidāmagga*, I.475.
 
-111. *Majjhima*, II.130.
+[^111]: *Majjhima*, II.130.
 
-112. *Saṃyutta*, V.185–186; *Aṅguttara*, II.21; *Majjhima*, I.168–169.
+[^112]: *Saṃyutta*, V.185–186; *Aṅguttara*, II.21; *Majjhima*, I.168–169.
 
-113. *Dīgha*, II.139–140, 157.
+[^113]: *Dīgha*, II.139–140, 157.
 
-114. *Saṃyutta*, I.421–423.
+[^114]: *Saṃyutta*, I.421–423.
 
-115. *Lalitavistara*, 357.
+[^115]: *Lalitavistara*, 357.
 
-116. *Majjhima*, I.326–331.
+[^116]: *Majjhima*, I.326–331.
 
-117. *Dīgha*, I.216; II.253–261; III.194, 204; *Majjhima*, III.100–103; *Aṅguttara*, I.132.
+[^117]: *Dīgha*, I.216; II.253–261; III.194, 204; *Majjhima*, III.100–103; *Aṅguttara*, I.132.
 
-118. Full descriptions of the threefold world are given in the *Abhidharmakośa*, chapter III, and the *Abhidhammasaṅgaha*, chapter V.
+[^118]: Full descriptions of the threefold world are given in the *Abhidharmakośa*, chapter III, and the *Abhidhammasaṅgaha*, chapter V.
 
-119. E.g., *Dīgha*, I.9, 101; II.339.
+[^119]: E.g., *Dīgha*, I.9, 101; II.339.
 
-120. *Saṃyutta*, I.69, 168; *Aṅguttara*, IV.97; *Suttanipāta*, 462; *Dhammapada*, 71, 140; *Visuddhimagga*, V.5–8.
+[^120]: *Saṃyutta*, I.69, 168; *Aṅguttara*, IV.97; *Suttanipāta*, 462; *Dhammapada*, 71, 140; *Visuddhimagga*, V.5–8.
 
-121. Gunapala Piyasena Malalasekera, *Dictionary of Pāli Proper Names*, 2 vols. \(London: Luzac & Company Ltd, 1960\), vol. 1, p. 13.
+[^121]: Gunapala Piyasena Malalasekera, *Dictionary of Pāli Proper Names*, 2 vols. \(London: Luzac & Company Ltd, 1960\), vol. 1, p. 13.
 
-122. *Mañjūśrīmūlakalpa*, 104, 123.
+[^122]: *Mañjūśrīmūlakalpa*, 104, 123.
 
-123. *Mahā-Vairocana-Abhisaṃbodhi*, 381–386.
+[^123]: *Mahā-Vairocana-Abhisaṃbodhi*, 381–386.
 
-124. For descriptions of three forms of Agni, see *Niṣpannayogāvali*, 61, 73, 88. In the *Durgatipariśodhana*, 51–53, the ten *lokapālas* have their own *maṇḍala* presided over by Vajrapāni. In the *Purāṇa*s, the god Agni is included in the group of eight guardians of the world \(*lokapāla*\): Kubera \(N\), Yama \(S\), Indra \(E\), Varuṇa \(W\), Soma \(NE\), Vāyu \(NW\), Agni \(SE\), Sūrya \(SW\). Occasionally Sūrya is replaced by Nirṛti, Soma by Pṛthivī or Áśāna \(= Śiva\). Renou and Filliozat, *L’Inde classique*, §1012.
+[^124]: For descriptions of three forms of Agni, see *Niṣpannayogāvali*, 61, 73, 88. In the *Durgatipariśodhana*, 51–53, the ten *lokapālas* have their own *maṇḍala* presided over by Vajrapāni. In the *Purāṇa*s, the god Agni is included in the group of eight guardians of the world \(*lokapāla*\): Kubera \(N\), Yama \(S\), Indra \(E\), Varuṇa \(W\), Soma \(NE\), Vāyu \(NW\), Agni \(SE\), Sūrya \(SW\). Occasionally Sūrya is replaced by Nirṛti, Soma by Pṛthivī or Áśāna \(= Śiva\). Renou and Filliozat, *L’Inde classique*, §1012.
 
-125. For full descriptions of Agni’s iconic forms in some *homa* rites, see *Jyotirmañjarī*, 210; *Kriyāsaṃgraha*, 29, 37, 40, 53, 72; *Mañjurmūlakalpa*, 118.
+[^125]: For full descriptions of Agni’s iconic forms in some *homa* rites, see *Jyotirmañjarī*, 210; *Kriyāsaṃgraha*, 29, 37, 40, 53, 72; *Mañjurmūlakalpa*, 118.
 
-126. *Kriyāsaṃgraha*, 29, 37, 40, 53, 72, 150–151; *Jyotirmañjarī*, 210; *Byang-gter Homa*, 366.
+[^126]: *Kriyāsaṃgraha*, 29, 37, 40, 53, 72, 150–151; *Jyotirmañjarī*, 210; *Byang-gter Homa*, 366.
 
-127. The Japanese scholars trace the incipient descriptions or prototypes of *homa* rites to the *Mahāmāyūrīvidyārājñī*, and several other texts included among the *dhāraṇī-sūtras*. However, they find the mature expositions of *homa* rites only in the *tantras*, namely in the *Susiddhikara* and *Mahāvairocana*-*Abhisaṃbodhi*. For more information, see Michael Strickmann, “*Homa* in East Asia,” in Frits Staal, ed., *Agni: The Vedic Ritual of the Fire Altar* \(Berkeley, CA: Asian Humanities, 1983\), vol. 2, pp. 418–455. His paper is based on the research published by Japanese scholars and largely discusses the Indian sources in their Chinese translations.
+[^127]: The Japanese scholars trace the incipient descriptions or prototypes of *homa* rites to the *Mahāmāyūrīvidyārājñī*, and several other texts included among the *dhāraṇī-sūtras*. However, they find the mature expositions of *homa* rites only in the *tantras*, namely in the *Susiddhikara* and *Mahāvairocana*-*Abhisaṃbodhi*. For more information, see Michael Strickmann, “*Homa* in East Asia,” in Frits Staal, ed., *Agni: The Vedic Ritual of the Fire Altar* \(Berkeley, CA: Asian Humanities, 1983\), vol. 2, pp. 418–455. His paper is based on the research published by Japanese scholars and largely discusses the Indian sources in their Chinese translations.
 
-128. *Jyotirmañjarī*, 188–189.
+[^128]: *Jyotirmañjarī*, 188–189.
 
-129. *Jyotirmañjarī*, 190.
+[^129]: *Jyotirmañjarī*, 190.
 
-130. The shapes and directions of the four continents are based on the *Abhidharmakośa*, III, *kārikās* 53–55 and the commentaries.
+[^130]: The shapes and directions of the four continents are based on the *Abhidharmakośa*, III, *kārikās* 53–55 and the commentaries.
 
-131. *Vajrāvalī*, 480–484.
+[^131]: *Vajrāvalī*, 480–484.
 
-132. Abhayākaragupta gives their titles: *Vajramālābhidhāna, Vairocanābhisambodhi, Trisamaya-vyūharāja, Samantābhiṣekajanana, Vajrapāṇigarbhasambhava, Vajrābhyudaya*.
+[^132]: Abhayākaragupta gives their titles: *Vajramālābhidhāna, Vairocanābhisambodhi, Trisamaya-vyūharāja, Samantābhiṣekajanana, Vajrapāṇigarbhasambhava, Vajrābhyudaya*.
 
-133. *Padmasambhava* and *Supratiṣṭha.*
+[^133]: *Padmasambhava* and *Supratiṣṭha.*
 
-134. In addition to different accounts attributed to the Buddha himself, all the major Buddhist traditions have their own specific interpretations of the Buddha’s enlightenment. For summaries of the Buddha’s enlightenment according to the Vaibhāṣikas, Sautrāntikas, Mahāyāna, Yoga and Anuttara Yoga Tantras, see Mkhas grub rje, *Rgyud sde spyi’i rnam par gzhag pa rgyas par brjod*, translated by Ferdinand Lessing and Alex Wayman, *Introduction to Buddhist Tantric Systems* \(Delhi: Motilal Banarsidass, 1978\), chapter 1.
+[^134]: In addition to different accounts attributed to the Buddha himself, all the major Buddhist traditions have their own specific interpretations of the Buddha’s enlightenment. For summaries of the Buddha’s enlightenment according to the Vaibhāṣikas, Sautrāntikas, Mahāyāna, Yoga and Anuttara Yoga Tantras, see Mkhas grub rje, *Rgyud sde spyi’i rnam par gzhag pa rgyas par brjod*, translated by Ferdinand Lessing and Alex Wayman, *Introduction to Buddhist Tantric Systems* \(Delhi: Motilal Banarsidass, 1978\), chapter 1.
 
-135. The present sketch of these two paths provides only their basic schemes, but not full details as this will be done in the next two sections.
+[^135]: The present sketch of these two paths provides only their basic schemes, but not full details as this will be done in the next two sections.
 
-136. In Buddhist sources, the term *pṛthagjana*, normally translated as ‘ordinary person’, is mostly used to denote non-Buddhist believers and yoga practitioners. According to the *Kośa*, the *pṛthagjana* is the person who has not obtained the Buddhist path. The *pṛthagjanas* are also referred to as not-noble \(*anārya*\) or as outsiders \(*bāhyaka*\). The *Kośa* distinguishes two kinds of *pṛthagjana*: insider \(*ābhyantaraka*\) who is a Buddhist \(*bauddha*\) and in possession of the wholesome roots \(*kuśalamūla*\), and outsider \(*bāhyaka*\) who has severed the wholesome roots. Within the Buddhist tradition, the term *pṛthagjana* is also applied to the trainees \(*śaikṣa*\) prior to their entry into the path of vision, which eliminates the status of *pṛthagjanatva* and transforms them into noble persons \(*ārya*\). In other words, the transition from the mundane path to the transcendent path terminates the status of *pṛthajana. Abhidharmakośa*, II.119, 193; VI.173.
+[^136]: In Buddhist sources, the term *pṛthagjana*, normally translated as ‘ordinary person’, is mostly used to denote non-Buddhist believers and yoga practitioners. According to the *Kośa*, the *pṛthagjana* is the person who has not obtained the Buddhist path. The *pṛthagjanas* are also referred to as not-noble \(*anārya*\) or as outsiders \(*bāhyaka*\). The *Kośa* distinguishes two kinds of *pṛthagjana*: insider \(*ābhyantaraka*\) who is a Buddhist \(*bauddha*\) and in possession of the wholesome roots \(*kuśalamūla*\), and outsider \(*bāhyaka*\) who has severed the wholesome roots. Within the Buddhist tradition, the term *pṛthagjana* is also applied to the trainees \(*śaikṣa*\) prior to their entry into the path of vision, which eliminates the status of *pṛthagjanatva* and transforms them into noble persons \(*ārya*\). In other words, the transition from the mundane path to the transcendent path terminates the status of *pṛthajana. Abhidharmakośa*, II.119, 193; VI.173.
 
-137. Normally there are three influxes \(*āsrava*\): sensual pleasures \(*kāma*\), becoming \(*bhava*\), and ignorance \(*avidyā*\). Some texts add views \(*dṛṣṭi*\) as a fourth influx.
+[^137]: Normally there are three influxes \(*āsrava*\): sensual pleasures \(*kāma*\), becoming \(*bhava*\), and ignorance \(*avidyā*\). Some texts add views \(*dṛṣṭi*\) as a fourth influx.
 
-138. *Vinaya*, III.4–6; *Majjhima*, I.22–23, 247–249; *Aṅguttara*, IV.177–179.
+[^138]: *Vinaya*, III.4–6; *Majjhima*, I.22–23, 247–249; *Aṅguttara*, IV.177–179.
 
-139. *Jātakanidāna*, 75–76.
+[^139]: *Jātakanidāna*, 75–76.
 
-140. *Mahāvastu*, I.131–133.
+[^140]: *Mahāvastu*, I.131–133.
 
-141. *Mahāvastu*, II.283–285.
+[^141]: *Mahāvastu*, II.283–285.
 
-142. *Lalitavistara*, 343–350.
+[^142]: *Lalitavistara*, 343–350.
 
-143. *Saṅghabhedavastu*, 116–119.
+[^143]: *Saṅghabhedavastu*, 116–119.
 
-144. For instance in *Majjhima*, I.482.
+[^144]: For instance in *Majjhima*, I.482.
 
-145. *Aṅguttara*, V.32–36; *Yaśomitra*, 641–642; *MPP-Śāstra*, III.1505–1566.
+[^145]: *Aṅguttara*, V.32–36; *Yaśomitra*, 641–642; *MPP-Śāstra*, III.1505–1566.
 
-146. *Abhidharmakośa*, VII.108; *MPP-Śāstra*, III.1506–1509.
+[^146]: *Abhidharmakośa*, VII.108; *MPP-Śāstra*, III.1506–1509.
 
-147. *Nettippakaraṇa*, §81–83; *Abhidharmakośa*, VI.282, 298.
+[^147]: *Nettippakaraṇa*, §81–83; *Abhidharmakośa*, VI.282, 298.
 
-148. *MPP-Śāstra*, III.1555–1559, IV.1815–1816; *Abhidharmakośa*, VII.98–112.
+[^148]: *MPP-Śāstra*, III.1555–1559, IV.1815–1816; *Abhidharmakośa*, VII.98–112.
 
-149. *MPP-Śāstra*, IV.1815–1816.
+[^149]: *MPP-Śāstra*, IV.1815–1816.
 
-150. In the *Majjhima*, III.25–29, the Buddha describes Śāriputra’s enlightenment in an almost identical way. This version also occurs toward the end of the *Ariyapariyesana*, which is considered to be one of the oldest accounts of the Buddha’s life. *Majjhima*, I.174–175.
+[^150]: In the *Majjhima*, III.25–29, the Buddha describes Śāriputra’s enlightenment in an almost identical way. This version also occurs toward the end of the *Ariyapariyesana*, which is considered to be one of the oldest accounts of the Buddha’s life. *Majjhima*, I.174–175.
 
-151. *Aṅguttara*, IV.438.
+[^151]: *Aṅguttara*, IV.438.
 
-152. *Abhidharmakośa*, II.204–207, VI.230; *Yaśomitra*, 162; *MPP-Śāstra*, I.434–435; II.1035 n. 1.
+[^152]: *Abhidharmakośa*, II.204–207, VI.230; *Yaśomitra*, 162; *MPP-Śāstra*, I.434–435; II.1035 n. 1.
 
-153. *Majjhima*, III.31, 62, 239, 240; *Aṅguttara*, I.176; *Abhidharmakośa*, I.49–51, 66.
+[^153]: *Majjhima*, III.31, 62, 239, 240; *Aṅguttara*, I.176; *Abhidharmakośa*, I.49–51, 66.
 
-154. Y. Karunadasa, *Buddhist Analysis of Matter* \(Singapore: Buddhist Research Society, 1989\), 22, 23, 26.
+[^154]: Y. Karunadasa, *Buddhist Analysis of Matter* \(Singapore: Buddhist Research Society, 1989\), 22, 23, 26.
 
-155. *Abhidhammasaṅgaha*, VI, §3; Karunadasa, *Buddhist Analysis of Matter*, 14, 16–20, 24, 113; Y. Karunadasa, Y. *The Theravāda Abhidhamma*. Hong Kong: Centre of Buddhist Studies, 2010, 164–165; *Abhidharmakośa*, I.21–22, II.145–146, 230.
+[^155]: *Abhidhammasaṅgaha*, VI, §3; Karunadasa, *Buddhist Analysis of Matter*, 14, 16–20, 24, 113; Y. Karunadasa, Y. *The Theravāda Abhidhamma*. Hong Kong: Centre of Buddhist Studies, 2010, 164–165; *Abhidharmakośa*, I.21–22, II.145–146, 230.
 
-156. *Visuddhimagga*, XIV.36; Karunadasa, *Buddhist Analysis of Matter*, 31–41.
+[^156]: *Visuddhimagga*, XIV.36; Karunadasa, *Buddhist Analysis of Matter*, 31–41.
 
-157. *Abhidharmakośa*, I.14, 63–64.
+[^157]: *Abhidharmakośa*, I.14, 63–64.
 
-158. *Abhidharmakośa*, I.14, 18, 63–64; II.313–15; *Abhidhammasaṅgaha*, VI, §2–4; Karunadasa, *Buddhist Analysis of Matter*, 31–66.
+[^158]: *Abhidharmakośa*, I.14, 18, 63–64; II.313–15; *Abhidhammasaṅgaha*, VI, §2–4; Karunadasa, *Buddhist Analysis of Matter*, 31–66.
 
-159. *Abhidharmakośa*, I.25, II.144–145, 148. For the Theravāda treatment of the basic unit of matter, see Karunadasa, *Buddhist Analysis of Matter*, chapter 8.
+[^159]: *Abhidharmakośa*, I.25, II.144–145, 148. For the Theravāda treatment of the basic unit of matter, see Karunadasa, *Buddhist Analysis of Matter*, chapter 8.
 
-160. *Abhidharmakośa*, I.24; Karunadasa, *Buddhist Analysis of Matter*, 12–14.
+[^160]: *Abhidharmakośa*, I.24; Karunadasa, *Buddhist Analysis of Matter*, 12–14.
 
-161. *Abhidharmakośa*, I.8, 49, 50, 51. For the Theravāda treatment of space, see Karunadasa, *Buddhist Analysis of Matter*, 16, 91–98.
+[^161]: *Abhidharmakośa*, I.8, 49, 50, 51. For the Theravāda treatment of space, see Karunadasa, *Buddhist Analysis of Matter*, 16, 91–98.
 
-162. *Abhidharmakośa*, I.30, 50–51, 58.
+[^162]: *Abhidharmakośa*, I.30, 50–51, 58.
 
-163. *Abhidharmakośa*, I.50.
+[^163]: *Abhidharmakośa*, I.50.
 
-164. *Abhidharmakośa*, I.14, 62–63, *Siddhi*, 193.
+[^164]: *Abhidharmakośa*, I.14, 62–63, *Siddhi*, 193.
 
-165. *Dhammasaṅgaṇi*, 583, 595; Karunadasa, *Buddhist Analysis of Matter*, 167–168.
+[^165]: *Dhammasaṅgaṇi*, 583, 595; Karunadasa, *Buddhist Analysis of Matter*, 167–168.
 
-166. *Abhidharmakośa*, I.53–54.
+[^166]: *Abhidharmakośa*, I.53–54.
 
-167. For full *Abhidharma* expositions of the ethical qualities of consciousness, see *Abhidhammasaṅgaha*, chapter 1; *Visuddhimagga*, XIV.81–110; *Abhidharmakośa*, I.16, 19, 30, 31–36, 58, 94, II.315–316, 319.
+[^167]: For full *Abhidharma* expositions of the ethical qualities of consciousness, see *Abhidhammasaṅgaha*, chapter 1; *Visuddhimagga*, XIV.81–110; *Abhidharmakośa*, I.16, 19, 30, 31–36, 58, 94, II.315–316, 319.
 
-168. For a full exposition of the qualities of consciousness in the three spheres of existence, see *Abhidhammasaṅgaha*, chapter 1.
+[^168]: For a full exposition of the qualities of consciousness in the three spheres of existence, see *Abhidhammasaṅgaha*, chapter 1.
 
-169. *Abhidharmakośa*, II.313–315.
+[^169]: *Abhidharmakośa*, II.313–315.
 
-170. *Dhammasaṅgaṇi*, 584, 1424; Karunadasa, *Buddhist Analysis of Matter*, 96.
+[^170]: *Dhammasaṅgaṇi*, 584, 1424; Karunadasa, *Buddhist Analysis of Matter*, 96.
 
-171. Karunadasa, *Buddhist Analysis of Matter*, 31.
+[^171]: Karunadasa, *Buddhist Analysis of Matter*, 31.
 
-172. For full expositions of the fourfold origination of material phenomena, see *Abhidhammasaṅgaha*, VI, §9–§15; *Visuddhimagga*, XX.27–42.
+[^172]: For full expositions of the fourfold origination of material phenomena, see *Abhidhammasaṅgaha*, VI, §9–§15; *Visuddhimagga*, XX.27–42.
 
-173. The above summary of the mundane path, and its exposition that now follows, are based on Florin Deleanu’s edition and translation of the *Śrāvakabhūmi*’s chapter on the *laukikamārga*, as listed in the bibliography. Volume 1 contains a trilingual \(Sanskrit, Tibetan, Chinese\) edition, and volume 2 contains an English translation and a vast number of rich and erudite annotations.
+[^173]: The above summary of the mundane path, and its exposition that now follows, are based on Florin Deleanu’s edition and translation of the *Śrāvakabhūmi*’s chapter on the *laukikamārga*, as listed in the bibliography. Volume 1 contains a trilingual \(Sanskrit, Tibetan, Chinese\) edition, and volume 2 contains an English translation and a vast number of rich and erudite annotations.
 
-174. *Śrāvakabhūmi*, I.318–326, II.446–453.
+[^174]: *Śrāvakabhūmi*, I.318–326, II.446–453.
 
-175. *Śrāvakabhūmi*, I.328–342, II.452–460.
+[^175]: *Śrāvakabhūmi*, I.328–342, II.452–460.
 
-176. According to the *Abhidharmakośa*, the *asaṃjñā*-*samāpatti* is practiced by non-Buddhists in the fourth *dhyāna* in order to attain deliverance \(*mokṣa*\), but it is falsely imagined as a state of true deliverance. As such this attainment is wholesome and produces as its retribution a rebirth among the unconscious gods in the Bṛhatphala plane. The Buddhists consider this attainment as impure \(*sāsrava*\) and a calamity. *Abhidharmakośa*, II.200–204.
+[^176]: According to the *Abhidharmakośa*, the *asaṃjñā*-*samāpatti* is practiced by non-Buddhists in the fourth *dhyāna* in order to attain deliverance \(*mokṣa*\), but it is falsely imagined as a state of true deliverance. As such this attainment is wholesome and produces as its retribution a rebirth among the unconscious gods in the Bṛhatphala plane. The Buddhists consider this attainment as impure \(*sāsrava*\) and a calamity. *Abhidharmakośa*, II.200–204.
 
-177. *Śrāvakabhūmi*, I.342–344, II.460–461. According to the *Abhidharmakośa*, the *nirodhasamāpatti* is similar to the *asaṃjñāsamāpatti*, but it is different in terms of tranquility. It appertains to the pinnacle of existence \(*bhavāgra*\), that is it is penetrated by departing from the plane of neither perception nor non-perception. It is wholesome \(*kuśala*\) but not undetermined or stained. Its retribution occurs in the next or later existences. However, it can also have an undetermined retribution, because the person practicing it may gain the state of *nirvāṇa* in this very life. The non-Buddhists cannot produce this attainment, because they fear annihilation \(*uccheda*\), and because this attainment is gained only by the force of the noble path. *Abhidharmakośa*, II.203–204.
+[^177]: *Śrāvakabhūmi*, I.342–344, II.460–461. According to the *Abhidharmakośa*, the *nirodhasamāpatti* is similar to the *asaṃjñāsamāpatti*, but it is different in terms of tranquility. It appertains to the pinnacle of existence \(*bhavāgra*\), that is it is penetrated by departing from the plane of neither perception nor non-perception. It is wholesome \(*kuśala*\) but not undetermined or stained. Its retribution occurs in the next or later existences. However, it can also have an undetermined retribution, because the person practicing it may gain the state of *nirvāṇa* in this very life. The non-Buddhists cannot produce this attainment, because they fear annihilation \(*uccheda*\), and because this attainment is gained only by the force of the noble path. *Abhidharmakośa*, II.203–204.
 
-178. 1. knowledge of magical power \(*ṛddhiviṣayajñāna*\), 2. knowledge of divine ear \(*divyaśrotrajñāna*\), 3. knowledge of reading the minds of other beings \(*paracittajñāna*\), 4. knowledge of recalling one’s previous existences \(*pūrvanivāsānusmṛtijñāna*\), 5. knowledge of divine eye \(*divyacakṣus*\).
+[^178]: 1. knowledge of magical power \(*ṛddhiviṣayajñāna*\), 2. knowledge of divine ear \(*divyaśrotrajñāna*\), 3. knowledge of reading the minds of other beings \(*paracittajñāna*\), 4. knowledge of recalling one’s previous existences \(*pūrvanivāsānusmṛtijñāna*\), 5. knowledge of divine eye \(*divyacakṣus*\).
 
-179. The twelve perceptions are: 1. lightness \(*laghu*\), 2. softness \(*mṛdu*\), 3. space \(*ākāśa*\), 4. body-mind fusion \(*kāyacittasamādhāna*\), 5. determination \(*adhimukti*\), 6. recollection of one’s formerly experienced deeds \(*pūrvānubhūta-caryānukrama*-*anusmṛti*\), 7. sound \(*śabda*\), 8. characteristics of light \(*avabhāsarūpanimitta*\), 9. changes in material bodies induced by defilements \(*kleśakṛtarūpavikāra*\), 10. eight liberations \(*vimokṣa*\), 11. eight bases of mastery \(*abhibhvāyatana*\), and 12. ten totalities \(*kṛtsnāyatana-saṃjñā*\).
+[^179]: The twelve perceptions are: 1. lightness \(*laghu*\), 2. softness \(*mṛdu*\), 3. space \(*ākāśa*\), 4. body-mind fusion \(*kāyacittasamādhāna*\), 5. determination \(*adhimukti*\), 6. recollection of one’s formerly experienced deeds \(*pūrvānubhūta-caryānukrama*-*anusmṛti*\), 7. sound \(*śabda*\), 8. characteristics of light \(*avabhāsarūpanimitta*\), 9. changes in material bodies induced by defilements \(*kleśakṛtarūpavikāra*\), 10. eight liberations \(*vimokṣa*\), 11. eight bases of mastery \(*abhibhvāyatana*\), and 12. ten totalities \(*kṛtsnāyatana-saṃjñā*\).
 
-180. *Śrāvakabhūmi*, I.345–348, II.462–463.
+[^180]: *Śrāvakabhūmi*, I.345–348, II.462–463.
 
-181. *Śrāvakabhūmi*, I.349–351, II.463–464.
+[^181]: *Śrāvakabhūmi*, I.349–351, II.463–464.
 
-182. *Śrāvakabhūmi*, I.351–352, II.464–465.
+[^182]: *Śrāvakabhūmi*, I.351–352, II.464–465.
 
-183. The Buddha displayed his command of the water and fire elements when he performed the miracle at Śrāvastī. *Divyāvadāna*, chapter 12.
+[^183]: The Buddha displayed his command of the water and fire elements when he performed the miracle at Śrāvastī. *Divyāvadāna*, chapter 12.
 
-184. According to the *Parinibbāna*-*sutta*, the Buddha’s funeral pyre ignited of itself. *Dīgha*, II.164.
+[^184]: According to the *Parinibbāna*-*sutta*, the Buddha’s funeral pyre ignited of itself. *Dīgha*, II.164.
 
-185. *Visuddhimagga*, chapters 4 and 5; *Śāstra* III.1287–1289.
+[^185]: *Visuddhimagga*, chapters 4 and 5; *Śāstra* III.1287–1289.
 
-186. The Sarvāstivāda path is sketched in the previous section; for its full exposition, see *Abhidharmakośa*, chapter 6. For an exposition of the transcendent path in the Theravāda, see *Visuddhimagga*, chapter 22.
+[^186]: The Sarvāstivāda path is sketched in the previous section; for its full exposition, see *Abhidharmakośa*, chapter 6. For an exposition of the transcendent path in the Theravāda, see *Visuddhimagga*, chapter 22.
 
-187. *Aṅguttara*, I, 10.
+[^187]: *Aṅguttara*, I, 10.
 
-188. *Pañcaviṃśati*, 121–122. For insightful comments on this passage, see Haribhadra, *Abhisamayālaṃkārāloka*, U. Wogihara, ed. Tokyo: Toyo Bunko, 1932-1935, 37–40.
+[^188]: *Pañcaviṃśati*, 121–122. For insightful comments on this passage, see Haribhadra, *Abhisamayālaṃkārāloka*, U. Wogihara, ed. Tokyo: Toyo Bunko, 1932-1935, 37–40.
 
-189. *Bhadrapāla*, 169.5.4–170.4.2.
+[^189]: *Bhadrapāla*, 169.5.4–170.4.2.
 
-190. *Laṅkāvatāra*, 77–78.
+[^190]: *Laṅkāvatāra*, 77–78.
 
-191. *Laṅkāvatāra*, 220–224.
+[^191]: *Laṅkāvatāra*, 220–224.
 
-192. *STT-Saṃgraha*, 7–8.
+[^192]: *STT-Saṃgraha*, 7–8.
 
-193. Indrabhūti, *Jñānasiddhi*, 82.
+[^193]: Indrabhūti, *Jñānasiddhi*, 82.
 
-194. Jamgon Kongtrul, *The Treasury of Knowledge: Systems of Buddhist Tantra*, translated by Kalu Rinpoche Translation Group \(Ithaca, NY: Snow Lion Publications, 2005\), pp. 36, 172.
+[^194]: Jamgon Kongtrul, *The Treasury of Knowledge: Systems of Buddhist Tantra*, translated by Kalu Rinpoche Translation Group \(Ithaca, NY: Snow Lion Publications, 2005\), pp. 36, 172.
 
-195. *Saṃvarodaya*, 79–83; Shashi Bhushan Dasgupta, *An Introduction to Tantric Buddhism* \(Berkeley and London: Shambhala, 1974\), chapter 5.
+[^195]: *Saṃvarodaya*, 79–83; Shashi Bhushan Dasgupta, *An Introduction to Tantric Buddhism* \(Berkeley and London: Shambhala, 1974\), chapter 5.
 
-196. Anaṅgavajra, *Prajñopāyaviniścayasiddhi*. In *Two Vajrayāna Works*, edited by Benoytosh Bhattacharyya, Gaekwad’s Oriental Series 44 \(Baroda: Oriental Institute, 1929\), chapters II.29 and IV.17. For a set of definitions of *bodhicitta*, see chapter 2 of *Guhyasamāja*. See also Indrabhūti’s *Jñānasiddhi*. In *Two Vajrayāna Works*, edited by Benoytosh Bhattacharyya, Gaekwad’s Oriental Series 44 \(Baroda: Oriental Institute, 1929\), in particular pp. 82–84, where he quotes a number of sources.
+[^196]: Anaṅgavajra, *Prajñopāyaviniścayasiddhi*. In *Two Vajrayāna Works*, edited by Benoytosh Bhattacharyya, Gaekwad’s Oriental Series 44 \(Baroda: Oriental Institute, 1929\), chapters II.29 and IV.17. For a set of definitions of *bodhicitta*, see chapter 2 of *Guhyasamāja*. See also Indrabhūti’s *Jñānasiddhi*. In *Two Vajrayāna Works*, edited by Benoytosh Bhattacharyya, Gaekwad’s Oriental Series 44 \(Baroda: Oriental Institute, 1929\), in particular pp. 82–84, where he quotes a number of sources.
 
-197. *Hevajra*, II.iv.32–35.
+[^197]: *Hevajra*, II.iv.32–35.
 
-198. Anaṅgavajra, *Prajñopāyaviniścayasiddhi*, chapter IV.22–23; Lal Mani Joshi, *Studies in the Buddhistic Culture of India* \(Delhi: Motilal Banarsidass, 1967\), pp. 276‒278.
+[^198]: Anaṅgavajra, *Prajñopāyaviniścayasiddhi*, chapter IV.22–23; Lal Mani Joshi, *Studies in the Buddhistic Culture of India* \(Delhi: Motilal Banarsidass, 1967\), pp. 276‒278.
 
 
 

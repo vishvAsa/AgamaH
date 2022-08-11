@@ -81,17 +81,17 @@ Sometime shortly after the eighth century, composers of later Buddhist tantras p
 
 Except for works that give only brief or obscure explanations, which therefore make it difficult to know details of the practice or to judge with certainty whether they really explain this type of fire oblation, available textual sources suggest that Buddhist systems of psychosomatic fire oblation appeared around or after the ninth century. The next discussion examines the structures of Buddhist systems of psychosomatic fire oblation, using mainly the following six works that provide the most detailed descriptions:
 
-1. The *Mahāmudrātilaka-tantra* \(the *Hevajra* scriptural cycle\).16
+[^1]: The *Mahāmudrātilaka-tantra* \(the *Hevajra* scriptural cycle\).16
 
-2. The *Vajramālā-tantra* \(the *Guhyasamāja* scriptural cycle\).
+[^2]: The *Vajramālā-tantra* \(the *Guhyasamāja* scriptural cycle\).
 
-3. The *Saṃpuṭodbhava-tantra* \(the *Hevajra-Cakrasaṃvara* scriptural cycle\).17
+[^3]: The *Saṃpuṭodbhava-tantra* \(the *Hevajra-Cakrasaṃvara* scriptural cycle\).17
 
-4. The *Vajraḍāka-tantra* \(the *Cakrasaṃvara* scriptural cycle\).
+[^4]: The *Vajraḍāka-tantra* \(the *Cakrasaṃvara* scriptural cycle\).
 
-5. The *Ḍākārṇava-tantra* \(the *Cakrasaṃvara* scriptural cycle\).
+[^5]: The *Ḍākārṇava-tantra* \(the *Cakrasaṃvara* scriptural cycle\).
 
-6. Jayasena’s *Ḍākārṇavahomavidhi* \(the *Cakrasaṃvara* scriptural cycle\).
+[^6]: Jayasena’s *Ḍākārṇavahomavidhi* \(the *Cakrasaṃvara* scriptural cycle\).
 
 Because many of the instructions on psychosomatic fire oblation given in minor Buddhist works are identical with, or similar to, the instructions given in the *Saṃpuṭodbhava-tantra* and the *Vajraḍāka-tantra*, and especially those given in the former text, the instructions in these works can be considered to be the most popular in South Asian Buddhism.18 We first investigate the *Mahāmudrātilaka-tantra* \(1\) and the *Vajramālā-tantra* \(2\), then the *Saṃpuṭodbhava-tantra* \(3\) and the *Vajraḍāka-tantra* \(4\), and finally the *Ḍākārṇava-tantra* \(5\) and the *Ḍākārṇavahomavidhi* \(6\). This order is followed for the following reasons:
 
@@ -349,7 +349,7 @@ Now I will explain the internal fire oblation.64
 
 A practitioner, who applies himself most diligently to the internal, sits on a soft and wide seat. Having aroused compassion for all sentient beings, he transforms himself through meditation into Saṃvara, who is accompanied by Vārāhī of one face and two arms, in an instant.
 
-There is a disk of wind produced from \[the letter\] YAṂ on the soles of the feet and a disk of fire from \[the letter\] RAṂ on that \[disk of wind\]. Subsequently, a hearth manifested in the navel area is round \(1\). A square \[hearth\] is in the heart \(2\). \[A triangular hearth is in the private part \(3\)\]. A hexagonal \[hearth\] is at the urethral orifice \(4\). A heptagonal \[hearth\] is in the throat \(5\). An octagonal \[hearth\] is in the head \(6\). An enneagonal \[hearth\] is between the eyebrows \(7\). A pentagonal \[hearth\] is in the tuft of the head \(8\). \[A decagonal hearth is in the forehead \(9\)\].65 Having meditated that all have the appearance of a channel-hearth in this way, he contemplates that \[the letters\] HŪṂ of blue color and VAṂ of red color66 are put together at the centers of all \[those hearths\]. He illuminates well \[the body areas\] between the tuft of the head and the penis, which are linked together by the *avadhūtī* channel and which are accompanied by the right and left channels \(i.e., *rasanā* and *lalanā*\).
+There is a disk of wind produced from \[the letter\] YAṂ on the soles of the feet and a disk of fire from \[the letter\] RAṂ on that \[disk of wind\]. Subsequently, a hearth manifested in the navel area is round \(1\). A square \[hearth\] is in the heart \(2\). \[A triangular hearth is in the private part \(3\)\]. A hexagonal \[hearth\] is at the urethral orifice \(4\). A heptagonal \[hearth\] is in the throat \(5\). An octagonal \[hearth\] is in the head \(6\). An enneagonal \[hearth\] is between the eyebrows \(7\). A pentagonal \[hearth\] is in the tuft of the head \(8\). \[A decagonal hearth is in the forehead \(9\)\].65 Having meditated that all have the appearance of a channel-hearth in this way, he contemplates that \[the letters\] HŪṂ of blue color and VAṂ of red colo[^66] are put together at the centers of all \[those hearths\]. He illuminates well \[the body areas\] between the tuft of the head and the penis, which are linked together by the *avadhūtī* channel and which are accompanied by the right and left channels \(i.e., *rasanā* and *lalanā*\).
 
 Then he ignites a fire with the wind \[blowing\] on the soles of the feet through the yoga of controlling upward and downward \[movements of the\] wind.
 
@@ -485,35 +485,35 @@ iti śrīmahāmudrātilake ’dhyātmahomavidhipaṭala ekādaśamaḥ //15
 
 #### NOTES
 
-1 athānyaṃ, corr.; athānya Sanskrit ms.
+[^1]: athānyaṃ, corr.; athānya Sanskrit ms.
 
-2 nādaṃ nādānte, em. nādo nme, Sanskrit ms \(ac\). nādanyadonme \(uncertain\) Skt. ms \(pc\). tshul for nādaṃ and tshul gyis mtha’ na for nādānte TTP. tshul for nādaṃ and tshul gyis mtha’ mar for nādānte GAP. \(The abbreviation GAP here and below means a reading in Gambhīravajra’s *Guhyārthaprakāśa*, a commentary on this scripture, TTP: Tohoku 1200, 137a3–138a7, Otani 2330, 150a2–151b1.\)
+[^2]: nādaṃ nādānte, em. nādo nme, Sanskrit ms \(ac\). nādanyadonme \(uncertain\) Skt. ms \(pc\). tshul for nādaṃ and tshul gyis mtha’ na for nādānte TTP. tshul for nādaṃ and tshul gyis mtha’ mar for nādānte GAP. \(The abbreviation GAP here and below means a reading in Gambhīravajra’s *Guhyārthaprakāśa*, a commentary on this scripture, TTP: Tohoku 1200, 137a3–138a7, Otani 2330, 150a2–151b1.\)
 
-3 svatantra-, corr.; svātantra Sanskrit ms.: parivartya nalasya ca, em.; paravarttyaḥ nalasya ca Sanskrit ms. bskor ba byas nas ngal so ste TTP. kun tu bskor te mi bskor GAP.
+[^3]: svatantra-, corr.; svātantra Sanskrit ms.: parivartya nalasya ca, em.; paravarttyaḥ nalasya ca Sanskrit ms. bskor ba byas nas ngal so ste TTP. kun tu bskor te mi bskor GAP.
 
-4 dvīndriyeṇa vara-, Sanskrti ms \(pc\).; dvīndriyeva ṇara Sanskrit ms \(ac\).: tejaḥ kṛtvānupaśyate, em.; tejaḥ kṛtvā’nupāsyate Sanskrit ms. rlung gis me ni sbar ba’o TTP.
+[^4]: dvīndriyeṇa vara-, Sanskrti ms \(pc\).; dvīndriyeva ṇara Sanskrit ms \(ac\).: tejaḥ kṛtvānupaśyate, em.; tejaḥ kṛtvā’nupāsyate Sanskrit ms. rlung gis me ni sbar ba’o TTP.
 
-5 -pūrṇa-, em.; pūrvva Sanskrit ms. yod pa TTP. gnas pa GAP.: sthālikā, corr.; sthalikā Sanskrit ms.
+[^5]: -pūrṇa-, em.; pūrvva Sanskrit ms. yod pa TTP. gnas pa GAP.: sthālikā, corr.; sthalikā Sanskrit ms.
 
-6 hakārasrukka-r apy uktaṃ, Sanskrit ms.; ha ni blugs gzar zhes su bshad TTP. ha ni rnam par dgang gzar bstan GAP.: sruvā, corr.; śruvā Sanskrt ms. dgang gzar TTP. blugs gzar GAP.
+[^6]: hakārasrukka-r apy uktaṃ, Sanskrit ms.; ha ni blugs gzar zhes su bshad TTP. ha ni rnam par dgang gzar bstan GAP.: sruvā, corr.; śruvā Sanskrt ms. dgang gzar TTP. blugs gzar GAP.
 
-7 skandhā, em.; skandā Sanskrit ms. phung po TTP.: cājyāgraṃ, em.; cājyagram Sanskrit ms. mar du bsreg TTP.
+[^7]: skandhā, em.; skandā Sanskrit ms. phung po TTP.: cājyāgraṃ, em.; cājyagram Sanskrit ms. mar du bsreg TTP.
 
-8 bahir, corr.; bahi Sanskrit ms.: sruvayā, em.; śrutayā Sanskrit ms. dgang gzar TTP. blugs gzar nas GAP.
+[^8]: bahir, corr.; bahi Sanskrit ms.: sruvayā, em.; śrutayā Sanskrit ms. dgang gzar TTP. blugs gzar nas GAP.
 
-9 -rākṣasān, corr.; rākṣasāna Sanskrit ms.
+[^9]: -rākṣasān, corr.; rākṣasāna Sanskrit ms.
 
-10 āhutyā, corr.; āhūtyā Sanskrit ms.
+[^10]: āhutyā, corr.; āhūtyā Sanskrit ms.
 
-11 cāndra-, Sanskrit ms.; rnam pa TTP. rnam pa \(or no word for cāndra\) GAP.: -hutir, corr.; huti, Sanskrit ms.
+[^11]: cāndra-, Sanskrit ms.; rnam pa TTP. rnam pa \(or no word for cāndra\) GAP.: -hutir, corr.; huti, Sanskrit ms.
 
-12 tathātra bahumātaraḥ, Sanskrit ms.; gzhan yang rnal ’byor ma mo mnyes TTP. gzhan yang rnal ’byor ma mo GAP.
+[^12]: tathātra bahumātaraḥ, Sanskrit ms.; gzhan yang rnal ’byor ma mo mnyes TTP. gzhan yang rnal ’byor ma mo GAP.
 
-13 sthitām, em.; sthitā Sanskrit ms.
+[^13]: sthitām, em.; sthitā Sanskrit ms.
 
-14 sarvāsāṃ, corr.; sarvvāsā Sanskrit ms.
+[^14]: sarvāsāṃ, corr.; sarvvāsā Sanskrit ms.
 
-15 ’dhyātma, Sanskrit ms.; don dam pa TTP.
+[^15]: ’dhyātma, Sanskrit ms.; don dam pa TTP.
 
 
 
@@ -567,21 +567,21 @@ rnal ’byor chen po’i rgyud dpal rdo rje phreng ba mngon par rtogs pa las nan
 
 #### NOTES
 
-1 **’**byung ba, Tohoku; dbyung ba Otani.
+[^1]: **’**byung ba, Tohoku; dbyung ba Otani.
 
-2 rtse, Tohoku; tshe Otani.
+[^2]: rtse, Tohoku; tshe Otani.
 
-3 dgang gzar, em.; blugs gzar Tohoku and Otani. \(Tibetan translaters often confuse *dgang gzar,* “large ritual ladle,” and *blugs gzar,* “small ritual ladle.” I emended according to the context and the Sanskrit ms. of the *Mahāmudrātilaka-tantra*.\).: blugs gzar, em. dgang gzar Tohoku and Otani.
+[^3]: dgang gzar, em.; blugs gzar Tohoku and Otani. \(Tibetan translaters often confuse *dgang gzar,* “large ritual ladle,” and *blugs gzar,* “small ritual ladle.” I emended according to the context and the Sanskrit ms. of the *Mahāmudrātilaka-tantra*.\).: blugs gzar, em. dgang gzar Tohoku and Otani.
 
-4 lnga yi, Tohoku; lnga’i Otani.
+[^4]: lnga yi, Tohoku; lnga’i Otani.
 
-5 mi ’pho ba, Tohoku; mi ’bo ba Otani.
+[^5]: mi ’pho ba, Tohoku; mi ’bo ba Otani.
 
-6 de yis, Tohoku; da yis Otani.
+[^6]: de yis, Tohoku; da yis Otani.
 
-7 dngos grub, Otani; dngo grub Tohoku.
+[^7]: dngos grub, Otani; dngo grub Tohoku.
 
-8 drug cu ba’o, Tohoku; drug cu tham pa’o Otani.
+[^8]: drug cu ba’o, Tohoku; drug cu tham pa’o Otani.
 
 
 
@@ -613,15 +613,15 @@ cittād ṛte nāsti bhāvaṃ devatākāram uttamam //5
 
 #### NOTES
 
-1 tadrūpaṃ, conj.; tadrū \(one letter blurred\) ṃ Sanskrit ms.
+[^1]: tadrūpaṃ, conj.; tadrū \(one letter blurred\) ṃ Sanskrit ms.
 
-2 nirālambā, em.; nirālambāt saṃ \(or “t saṃ” may be canceled\) Sanskrit ms.
+[^2]: nirālambā, em.; nirālambāt saṃ \(or “t saṃ” may be canceled\) Sanskrit ms.
 
-3 viśuddhyabhijño, em.; viśuddhyābhijño Sanskrit ms.
+[^3]: viśuddhyabhijño, em.; viśuddhyābhijño Sanskrit ms.
 
-4 paryaṭet, Sanskrit ms \(pc\).; parryabhṛt, Sanskrit ms \(ac\).
+[^4]: paryaṭet, Sanskrit ms \(pc\).; parryabhṛt, Sanskrit ms \(ac\).
 
-5 bhāvaṃ, em.; cānaṃ Sanskrit ms. dngos TTP.
+[^5]: bhāvaṃ, em.; cānaṃ Sanskrit ms. dngos TTP.
 
 
 
@@ -665,33 +665,33 @@ sarvam atraiva mantavyam evamādi yathoditam //14
 
 
 
-1 bāhyai rūpādibhis, T; pādibhis L.
+[^1]: bāhyai rūpādibhis, T; pādibhis L.
 
-2 tu, T; L omits.
+[^2]: tu, T; L omits.
 
-3 -dhātūnāṃ, L.; dhātunāṃ T.: skandhādīnāṃ, L.; skandhādināṃ T.
+[^3]: -dhātūnāṃ, L.; dhātunāṃ T.: skandhādīnāṃ, L.; skandhādināṃ T.
 
-4 -rūpiṇāṃ, T.; rūpīṇāṃ L.: ḍākinīnāṃ, em.; ḍākināṃ L. dākinīnāṃ T.
+[^4]: -rūpiṇāṃ, T.; rūpīṇāṃ L.: ḍākinīnāṃ, em.; ḍākināṃ L. dākinīnāṃ T.
 
-5 yoga-, L.; yogaṃ T.: samākhyātā, em.; mahākhyātās L. samākhyāto T.: te, T; L omits.
+[^5]: yoga-, L.; yogaṃ T.: samākhyātā, em.; mahākhyātās L. samākhyāto T.: te, T; L omits.
 
-6 śiraḥ-, T.; śiraṃ L.: -kapālam L.; kapāram T.: etat, T; evaṃ L.: -bhājanam, L.; bhājana \(one unreadable letter\) m T.
+[^6]: śiraḥ-, T.; śiraṃ L.: -kapālam L.; kapāram T.: etat, T; evaṃ L.: -bhājanam, L.; bhājana \(one unreadable letter\) m T.
 
-7 sruvaṃ, corr.; śruvaṃ LT.: -nātmikā, T; nātmakaḥ L.
+[^7]: sruvaṃ, corr.; śruvaṃ LT.: -nātmikā, T; nātmakaḥ L.
 
-8 vaktram uddiṣṭaṃ, L; ca samuddiṣṭaṃ T.: kuṇḍaṃ ca nābhi-, em.; kuṇḍasenābhi L. kuṇḍa ca nābhi T.
+[^8]: vaktram uddiṣṭaṃ, L; ca samuddiṣṭaṃ T.: kuṇḍaṃ ca nābhi-, em.; kuṇḍasenābhi L. kuṇḍa ca nābhi T.
 
-9 -nirdhūto, T.; nirddhūtā L.: brahmāgnis trikaṭisthitaḥ, corr.; brahmāgnitrikaṭisthitā L. vahnistrīkatisaṃsthitaḥ T.
+[^9]: -nirdhūto, T.; nirddhūtā L.: brahmāgnis trikaṭisthitaḥ, corr.; brahmāgnitrikaṭisthitā L. vahnistrīkatisaṃsthitaḥ T.
 
-10 mantram ity, L.; mantra ityu ity T.
+[^10]: mantram ity, L.; mantra ityu ity T.
 
-11 pratibhāsas, em.; pratibhāstus L. pratibhāsan T.
+[^11]: pratibhāsas, em.; pratibhāstus L. pratibhāsan T.
 
-12 etat, em.; etaṃ LT.: maṇḍalātmakam, L.; maṇḍalādikaṃ T.
+[^12]: etat, em.; etaṃ LT.: maṇḍalātmakam, L.; maṇḍalādikaṃ T.
 
-13 ācāryaś, L.; ācāryya T.
+[^13]: ācāryaś, L.; ācāryya T.
 
-14 sarvam atraiva, em.; sarvamantraiva L.T.
+[^14]: sarvam atraiva, em.; sarvamantraiva L.T.
 
 
 
@@ -721,9 +721,9 @@ sāmānyaḥ sarvatantreṣu vidhir eṣa prakīrtitaḥ //
 
 #### NOTES
 
-1 *-jñānāgnikarma-*, corr.; *jñānāgni*\(→ *gniḥ\) karma* Sanskrit ed. I correct my previous edition here because the compound is gramatically possible, as all Sanksrit manuscripts read.
+[^1]: *-jñānāgnikarma-*, corr.; *jñānāgni*\(→ *gniḥ\) karma* Sanskrit ed. I correct my previous edition here because the compound is gramatically possible, as all Sanksrit manuscripts read.
 
-2 *samādhiṃ*, corr.; *samādhis* Sanskrit ed. I correct my previous edition here because the reading of the Tokyo University manuscript \(*samādhiṃ*\) is possible and better.
+[^2]: *samādhiṃ*, corr.; *samādhis* Sanskrit ed. I correct my previous edition here because the reading of the Tokyo University manuscript \(*samādhiṃ*\) is possible and better.
 
 
 
@@ -759,27 +759,27 @@ tatra sarvadravyāṇi ca homayed aviśaṅkitaḥ //11
 
 #### NOTES
 
-1 kiṃcic ca vakṣyamāṇatvāt, corr.; kiñcid vakṣyamānatvā tu O. kiñcid vaktamānatvā tu A. kiṃcic ca vakṣyamānatvā B.: -tantrakam, OA; tantrake B.
+[^1]: kiṃcic ca vakṣyamāṇatvāt, corr.; kiñcid vakṣyamānatvā tu O. kiñcid vaktamānatvā tu A. kiṃcic ca vakṣyamānatvā B.: -tantrakam, OA; tantrake B.
 
-2 kuṇḍaṃ, em.; kuṇḍa OAB.
+[^2]: kuṇḍaṃ, em.; kuṇḍa OAB.
 
-3 guhye, OB; guhya A.: kuṇḍaṃ, B; kuṇḍa OA.
+[^3]: guhye, OB; guhya A.: kuṇḍaṃ, B; kuṇḍa OA.
 
-4 kaṇṭhe, B; kaṇṭha OA.: ca, OA; tu B.
+[^4]: kaṇṭhe, B; kaṇṭha OA.: ca, OA; tu B.
 
-5 lalāṭe, AB; lalāṭa O.: vāyodbhaveṣu, OA; vāyobhaveṣu B.: mūlakam, B; mūlakām O. mūlakā A.
+[^5]: lalāṭe, AB; lalāṭa O.: vāyodbhaveṣu, OA; vāyobhaveṣu B.: mūlakam, B; mūlakām O. mūlakā A.
 
-6 sarvadhātūnāṃ, em; sarvvadhātunāṃ OA. garbhaśatrūṇāṃ B.: juhuyed, OA; vāhuyed B.
+[^6]: sarvadhātūnāṃ, em; sarvvadhātunāṃ OA. garbhaśatrūṇāṃ B.: juhuyed, OA; vāhuyed B.
 
-7 kāle, A; kale \(uncertain because it is a bit blurred\) O. kālan B.: karmaṇy, OA; karmaṃny B.: alpeṣu, OB; aleṣu A.: buddhimān, OB; ddhimān A.
+[^7]: kāle, A; kale \(uncertain because it is a bit blurred\) O. kālan B.: karmaṇy, OA; karmaṃny B.: alpeṣu, OB; aleṣu A.: buddhimān, OB; ddhimān A.
 
-8 srucisruvo, OA; bhrūvibhrūvā B.
+[^8]: srucisruvo, OA; bhrūvibhrūvā B.
 
-9 ājya-, OA; ārya B.: -sthāly ava-, em.; sthalī ca OB. sthalī va A.: tu, OA; ca B.
+[^9]: ājya-, OA; ārya B.: -sthāly ava-, em.; sthalī ca OB. sthalī va A.: tu, OA; ca B.
 
-10 sārvakarmika-, corr.; sarvvakarmmika OA. sarvvakamika B.: -homaṃ tu, OA; ho maṃtra B.: iha kāle tu kārayet, O; ihākāle tu kārayet A. mantram iha kāleva tu B.
+[^10]: sārvakarmika-, corr.; sarvvakarmmika OA. sarvvakamika B.: -homaṃ tu, OA; ho maṃtra B.: iha kāle tu kārayet, O; ihākāle tu kārayet A. mantram iha kāleva tu B.
 
-11 ca, OA; B omits.: homayed, OA; homaye B.: aviśaṅkitaḥ, O \(pc\) A; aṅkiṅkitaḥ O \(ac\). havisaṃkitaḥ B.
+[^11]: ca, OA; B omits.: homayed, OA; homaye B.: aviśaṅkitaḥ, O \(pc\) A; aṅkiṅkitaḥ O \(ac\). havisaṃkitaḥ B.
 
 
 
@@ -803,9 +803,9 @@ de ltar thams cad kyang rtsa thab kyi dbyibs can du bsgoms te / thams cad kyi db
 
 #### NOTES
 
-1 byang chub kyi sems, Tohoku; byang chub kyis sems, Otani.
+[^1]: byang chub kyi sems, Tohoku; byang chub kyis sems, Otani.
 
-2 bla mas gsungs pa las bdag gis dpe mkhyud ma byas pa, Tohoku; bla mas gsungs pa la bdag gi dpe mkhyud pa byas pa, Otani.
+[^2]: bla mas gsungs pa las bdag gis dpe mkhyud ma byas pa, Tohoku; bla mas gsungs pa la bdag gi dpe mkhyud pa byas pa, Otani.
 
 
 
@@ -821,141 +821,141 @@ de ltar thams cad kyang rtsa thab kyi dbyibs can du bsgoms te / thams cad kyi db
 
 ## NOTES
 
-1. For a modern example of Vedic fire oblation ritual in Pune, see Musashi Tachikawa, Shrikant Bahulkar, and Madhavi Kolhatkar, *Indian Fire Ritual* \(Delhi: Motilal Banarsidass Publishers, 2001\).
+[^1]: For a modern example of Vedic fire oblation ritual in Pune, see Musashi Tachikawa, Shrikant Bahulkar, and Madhavi Kolhatkar, *Indian Fire Ritual* \(Delhi: Motilal Banarsidass Publishers, 2001\).
 
-2. For some inner forms of fire oblation practice in Brahmanism and its offshoots in the ancient and medieval ages, see H. W. Bodewitz, *Jaiminīyabrāhmaṇa I, 1–65: Translation and Commentary with a Study Agnihotra and Prāṇāgnihotra* \(Leiden: E. J. Brill, 1973\); and Patrick Olivelle, *Saṃnyāsa Upaniṣads: Hindu Scriptures on Asceticism and Renunciation* \(New York: Oxford University Press, 1992\).
+[^2]: For some inner forms of fire oblation practice in Brahmanism and its offshoots in the ancient and medieval ages, see H. W. Bodewitz, *Jaiminīyabrāhmaṇa I, 1–65: Translation and Commentary with a Study Agnihotra and Prāṇāgnihotra* \(Leiden: E. J. Brill, 1973\); and Patrick Olivelle, *Saṃnyāsa Upaniṣads: Hindu Scriptures on Asceticism and Renunciation* \(New York: Oxford University Press, 1992\).
 
-3. Abhayākaragupta’s *Jyotirmañjarī*, TTP: Tohoku 3142, 161a3–b3, Otani 3963, 198b1–b6. Base studies of the *Jyotirmañjarī* were conducted by Naoji Okuyama, who published a Sanskrit edition of the *Jyotirmañjarī* based on an incomplete Sanskrit manuscript, “*Jyotirmañjarī* no Kenkyū \(I\),” *Bunka* \[*Culture*\] 47/1–2 \(1983\): 29–46, and “*Jyotirmañjarī* no Kenkyū \(II\),” *Indogaku Shūkyōgaku Kai Ronshū* 13 \(1986\): 1–18. In his other papers, Okuyama argued Abhayākaragupta’s view on fire oblation practices. Tadeusz Skorupski published a translation of the entire text of the *Jyotirmañjarī* using Okuyama’s edition and Tibetan translations: “*Jyotirmañjarī*: Abhayākaragupta’s Commentary on *Homa* Rites,” *Mikkyō Bunka Kenkyūjo Kiyō* \[*Bulletin of the Research Institute of Esoteric Buddhist Culture*\] 8 \(1994\): 206–236. The Sanskrit text of section II \(1\) of the *Jyotirmañjarī* \(i.e., the internal fire oblation by use of external matters\) can be restored from Jagaddarpaṇa’s *Ācāryakriyāsamuccaya*. A draft edition of the Sanskrit text is presented in Tsunehiko Sugiki, “The Consumption of Food as a Practice of Fire-Oblation in Esoteric Buddhism in Medieval South Asia,” *International Journal of South Asian Studies* 3 \(2010\): 74 n. 30. In this “The Consumption of Food” paper, I examined the type of inner fire oblation that I call “fire oblation of food,” which roughly corresponds to Abhayākaragupta, section II \(1\), and which also contains elements of Abhayākaragupta, section III.
+[^3]: Abhayākaragupta’s *Jyotirmañjarī*, TTP: Tohoku 3142, 161a3–b3, Otani 3963, 198b1–b6. Base studies of the *Jyotirmañjarī* were conducted by Naoji Okuyama, who published a Sanskrit edition of the *Jyotirmañjarī* based on an incomplete Sanskrit manuscript, “*Jyotirmañjarī* no Kenkyū \(I\),” *Bunka* \[*Culture*\] 47/1–2 \(1983\): 29–46, and “*Jyotirmañjarī* no Kenkyū \(II\),” *Indogaku Shūkyōgaku Kai Ronshū* 13 \(1986\): 1–18. In his other papers, Okuyama argued Abhayākaragupta’s view on fire oblation practices. Tadeusz Skorupski published a translation of the entire text of the *Jyotirmañjarī* using Okuyama’s edition and Tibetan translations: “*Jyotirmañjarī*: Abhayākaragupta’s Commentary on *Homa* Rites,” *Mikkyō Bunka Kenkyūjo Kiyō* \[*Bulletin of the Research Institute of Esoteric Buddhist Culture*\] 8 \(1994\): 206–236. The Sanskrit text of section II \(1\) of the *Jyotirmañjarī* \(i.e., the internal fire oblation by use of external matters\) can be restored from Jagaddarpaṇa’s *Ācāryakriyāsamuccaya*. A draft edition of the Sanskrit text is presented in Tsunehiko Sugiki, “The Consumption of Food as a Practice of Fire-Oblation in Esoteric Buddhism in Medieval South Asia,” *International Journal of South Asian Studies* 3 \(2010\): 74 n. 30. In this “The Consumption of Food” paper, I examined the type of inner fire oblation that I call “fire oblation of food,” which roughly corresponds to Abhayākaragupta, section II \(1\), and which also contains elements of Abhayākaragupta, section III.
 
-4. For a Śaiva Śrīkula example, see Katsuaki Ida, “Tantorarāja ni okeru Homa Girei,” *Shakai Kankyō Kenkyū* 8 \(2003\): 13–23. For a Vaiṣṇava Pāñcarātra example, see Hiromichi Hikita, *Hindū Tantorizumu no Kenkyū* \(Tokyo: Sankibō Butsu Shorin, 1997\), pp. 193–195.
+[^4]: For a Śaiva Śrīkula example, see Katsuaki Ida, “Tantorarāja ni okeru Homa Girei,” *Shakai Kankyō Kenkyū* 8 \(2003\): 13–23. For a Vaiṣṇava Pāñcarātra example, see Hiromichi Hikita, *Hindū Tantorizumu no Kenkyū* \(Tokyo: Sankibō Butsu Shorin, 1997\), pp. 193–195.
 
-5. Elements that are not considered in Abhayākaragupta’s typology are the physical practice of sexual yoga and elements of meditation related to it. For these, see section four \(THE *MAHĀMUDRĀTILAKA* AND THE *VAJRAMĀLĀ*\) of this essay.
+[^5]: Elements that are not considered in Abhayākaragupta’s typology are the physical practice of sexual yoga and elements of meditation related to it. For these, see section four \(THE *MAHĀMUDRĀTILAKA* AND THE *VAJRAMĀLĀ*\) of this essay.
 
-6. Yael Bentor, “Interiorized Fire Rituals in India and in Tibet,” *Journal of the American Oriental Society* 120/4 \(October–December 2000\): 594–613. Bentor develops a new typology of Buddhist systems of inner fire oblation, arguing for a type of inner fire oblation that was not considered in Abhayākaragupta’s typology. However, with regard to other types of inner fire oblation, Bentor’s typology is almost same as that of Abhayākaragupta. Bentor’s typology is as follows: I. “Fire offerings based on the inner heat and the subtle body as part of the Perfection Process,” which corresponds to Abhayākaragupta’s \(2\)-2; II. “Fire offerings of great bliss performed together with a consort, as in the third initiation,” which is omitted in Abhayākaragupta’s typology; III. “Food ritual, in which food is offered to the deities residing at one’s heart,” which corresponds to Abhayākaraguta’s \(2\)-1; IV. “Mental fire offerings,” which corresponds to Abhayākaragupta’s \(1\); and V. “Fire offerings of the Great Enlightened Wisdom which destroy ignorance, burn the *kleśa*s, and consume dichotomies,” which corresponds to Abhayākaragupta’s \(3\) \(Bentor, “Interiorized Fire Rituals in India and in Tibet,” p. 596\). Psychosomatic fire oblation roughly corresponds to Bentor’s I and II, and it also contains elements that constitute Bentor’s V. As Abhayākaragupta’s typology, Bentor’s typology appears to be a list of elements of practice that constitute actual types of inner fire oblation rather than as a list of actual types of inner fire oblation.
+[^6]: Yael Bentor, “Interiorized Fire Rituals in India and in Tibet,” *Journal of the American Oriental Society* 120/4 \(October–December 2000\): 594–613. Bentor develops a new typology of Buddhist systems of inner fire oblation, arguing for a type of inner fire oblation that was not considered in Abhayākaragupta’s typology. However, with regard to other types of inner fire oblation, Bentor’s typology is almost same as that of Abhayākaragupta. Bentor’s typology is as follows: I. “Fire offerings based on the inner heat and the subtle body as part of the Perfection Process,” which corresponds to Abhayākaragupta’s \(2\)-2; II. “Fire offerings of great bliss performed together with a consort, as in the third initiation,” which is omitted in Abhayākaragupta’s typology; III. “Food ritual, in which food is offered to the deities residing at one’s heart,” which corresponds to Abhayākaraguta’s \(2\)-1; IV. “Mental fire offerings,” which corresponds to Abhayākaragupta’s \(1\); and V. “Fire offerings of the Great Enlightened Wisdom which destroy ignorance, burn the *kleśa*s, and consume dichotomies,” which corresponds to Abhayākaragupta’s \(3\) \(Bentor, “Interiorized Fire Rituals in India and in Tibet,” p. 596\). Psychosomatic fire oblation roughly corresponds to Bentor’s I and II, and it also contains elements that constitute Bentor’s V. As Abhayākaragupta’s typology, Bentor’s typology appears to be a list of elements of practice that constitute actual types of inner fire oblation rather than as a list of actual types of inner fire oblation.
 
 Problems in Bentor’s study \(pp. 596–601\) can be summarized as follows: First, I use as the main materials in my essay the following texts: \(1\) the *Mahāmudrātilaka-tantra*, \(2\) the *Vajramālā-tantra*, \(3\) the *Saṃpuṭodbhava-tantra*, \(4\) the *Vajraḍāka-tantra*, \(5\) the *Ḍākārṇava-tantra*, and \(6\) Jayasena’s *Ḍākārṇavahomavidhi*. The fundamental reason for Bentor’s study being insufficient is that she used only Tibetan translations of texts 1 and 4. Second, important elements that form structures of Buddhist systems of psychosomatic fire oblation are the practice of oblation, nonconceptual meditation, and subtle-body yoga, as I discuss in this essay. Bentor did not clarify these structures, as she did not develop a category of inner fire oblation that I call “psychosomatic fire oblation,” which is a major type of inner fire oblation both in Buddhism and non-Buddhist traditions in South Asia, as mentioned earlier. Finally, Bentor regarded types I and II of her typology as being similar to, or having nearly the same significance as, the third initiation and the yoga of perfection process \(*utpanna*-/ *niṣpanna-krama*\), respectively. While these two types are indeed similar in the respects that type II and the third initiation are forms of sexual yoga and that type I and the yoga of perfection process are forms of subtle-body yoga \(as is also examined in this essay\), we must also carefully consider the significance of their being taught as different practices in the tantras.
 
-7. *Subāhuparipṛcchā*, CT 895, 733b1–b2, 以呼摩故本尊歡喜 即便施與如意樂果. \(This passage appears only in its Chinese translation. It can not be found in its Tibetan translation. However, one passage found in Tohoku 805, 138b5-b6, and in Otani 428, 200a2-a3, may be a different reading of this passage.\) Similar passages can be found in scriptures compiled after the *Subāhuparipṛcchā*. For example, the *Māyājāla-tantra*, TTP: Tohoku 465, 129b7–130a1, Otani 102, 97b3. Text: *sbyin sreg gis ni lha rnams tshim* / *tshim par gyur nas dngos grub ster* / \(The deities become satisfied through \[the performance of\] the fire oblation. Having been gratified, \[these deities\] bring accomplishment\[s\]‌\). The same passage appears in the *Vajrahṛdayālaṃkāra-tantra* \(TTP: Tohoku 449, 46b4, Otani 86, 308b8\), which was composed later than the *Māyājāla-tantra*.
+[^7]: *Subāhuparipṛcchā*, CT 895, 733b1–b2, 以呼摩故本尊歡喜 即便施與如意樂果. \(This passage appears only in its Chinese translation. It can not be found in its Tibetan translation. However, one passage found in Tohoku 805, 138b5-b6, and in Otani 428, 200a2-a3, may be a different reading of this passage.\) Similar passages can be found in scriptures compiled after the *Subāhuparipṛcchā*. For example, the *Māyājāla-tantra*, TTP: Tohoku 465, 129b7–130a1, Otani 102, 97b3. Text: *sbyin sreg gis ni lha rnams tshim* / *tshim par gyur nas dngos grub ster* / \(The deities become satisfied through \[the performance of\] the fire oblation. Having been gratified, \[these deities\] bring accomplishment\[s\]‌\). The same passage appears in the *Vajrahṛdayālaṃkāra-tantra* \(TTP: Tohoku 449, 46b4, Otani 86, 308b8\), which was composed later than the *Māyājāla-tantra*.
 
-8. For the fire of gnosis in the practice of inner fire oblation, see also Bentor, “Interiorized Fire Rituals in India and in Tibet,” pp. 605–606; Sugiki, “The Consumption of Food as a Practice of Fire-oblation,” pp. 56–57.
+[^8]: For the fire of gnosis in the practice of inner fire oblation, see also Bentor, “Interiorized Fire Rituals in India and in Tibet,” pp. 605–606; Sugiki, “The Consumption of Food as a Practice of Fire-oblation,” pp. 56–57.
 
-9. The *Chāndogyopaniṣad*, Sanskrit ed. 5.24.2–24.4. See also Patrick Olivelle, *The Early Upaniṣads: Annotated Text and Translation* \(New York: Oxford University Press, 1998\), p. 245 \(translation\); Sugiki, “The Consumption of Food as a Practice of Fire-oblation,” p. 56.
+[^9]: The *Chāndogyopaniṣad*, Sanskrit ed. 5.24.2–24.4. See also Patrick Olivelle, *The Early Upaniṣads: Annotated Text and Translation* \(New York: Oxford University Press, 1998\), p. 245 \(translation\); Sugiki, “The Consumption of Food as a Practice of Fire-oblation,” p. 56.
 
-10. The *Mahāvairocana-sūtra*, TTP: Tohoku 494, 228b2–b4, Otani 126, 193a7–b1. See also Stephen Hodge, *The Mahā-Vairocana-Abhisaṃbodhi Tantra with Buddhaguhya’s Commentary* \(New York: Routledge Curzon, 2003\), pp. 389–390 \(translation\); Sugiki, “The Consumption of Food as a Practice of Fire-oblation,” p. 57. The *Mahāvairocana-sūtra* teaches two kinds of internal fire oblation: a fire oblation practiced in the form of the meditation mentioned earlier, and an external ritual form of fire oblation that a practitioner performs while considering internally the identity of the nature of three constituents of fire oblation \(i.e., fire, practitioner, and offered article\) in terms of emptiness \(TTP: Tohoku 494, 228a2–a3; see also Hodge, *The Mahā-Vairocana-Abhisaṃbodhi Tantra*, p. 386 \[translation\]\). From the viewpoint of the second kind of internal fire oblation, a truly external form of fire oblation means an external ritual form of fire oblation that a practitioner performs without considering the identity of the nature of the three constituents.
+[^10]: The *Mahāvairocana-sūtra*, TTP: Tohoku 494, 228b2–b4, Otani 126, 193a7–b1. See also Stephen Hodge, *The Mahā-Vairocana-Abhisaṃbodhi Tantra with Buddhaguhya’s Commentary* \(New York: Routledge Curzon, 2003\), pp. 389–390 \(translation\); Sugiki, “The Consumption of Food as a Practice of Fire-oblation,” p. 57. The *Mahāvairocana-sūtra* teaches two kinds of internal fire oblation: a fire oblation practiced in the form of the meditation mentioned earlier, and an external ritual form of fire oblation that a practitioner performs while considering internally the identity of the nature of three constituents of fire oblation \(i.e., fire, practitioner, and offered article\) in terms of emptiness \(TTP: Tohoku 494, 228a2–a3; see also Hodge, *The Mahā-Vairocana-Abhisaṃbodhi Tantra*, p. 386 \[translation\]\). From the viewpoint of the second kind of internal fire oblation, a truly external form of fire oblation means an external ritual form of fire oblation that a practitioner performs without considering the identity of the nature of the three constituents.
 
-11. Jñānapāda’s *Mukhāgama*, TTP: Tohoku 1854, 27b7, Otani 2717, 32b2 \(*ye shes me ’bar ba yis phung po ni* / *sreg pa gang yin de ni bla med bshad* //. For this, see also Naoji Okuyama, “Indo Mikkyō Hōma Girei,” in Musashi Tachikawa and Motohiro Yoritomi, eds., *Indo Mikkyō* \(Tokyo: Shunjū Sha, 1999\), p. 191 n. 19. \(Probably Okuyama is the first scholar who pointed out the existence of this passage in the *Mukhāgama*.\) The following three works give a similar explanation: Kṛṣṇa’s *Hevajrahomavidhi*, TTP: Tohoku 1256, 277a3–a4, Otani 2385, 338b4; Saroruhavajra’s *Homavidhi*, TTP: Tohoku 1223, 23a6, Otani 2352, 27b2; and Abhayākaragupta’s *Jyotirmañjarī*, TTP: Tohoku 3142, 161b3, Otani 3963, 198b5–b6. For some other works that hold the idea of the fire of gnosis that burns up the conceptual categories, see Tsunehiko Sugiki, “The *Homa* System of the *Vajraḍākatantra*: A Critical Edition and a Preliminary Analysis of its *Homa* System,” *Tantric Studies* 1 \(2008\): 134. These works often call fire oblation of this type “the supreme \[form of\] \(*niruttara, bla med*\) fire oblation.”
+[^11]: Jñānapāda’s *Mukhāgama*, TTP: Tohoku 1854, 27b7, Otani 2717, 32b2 \(*ye shes me ’bar ba yis phung po ni* / *sreg pa gang yin de ni bla med bshad* //. For this, see also Naoji Okuyama, “Indo Mikkyō Hōma Girei,” in Musashi Tachikawa and Motohiro Yoritomi, eds., *Indo Mikkyō* \(Tokyo: Shunjū Sha, 1999\), p. 191 n. 19. \(Probably Okuyama is the first scholar who pointed out the existence of this passage in the *Mukhāgama*.\) The following three works give a similar explanation: Kṛṣṇa’s *Hevajrahomavidhi*, TTP: Tohoku 1256, 277a3–a4, Otani 2385, 338b4; Saroruhavajra’s *Homavidhi*, TTP: Tohoku 1223, 23a6, Otani 2352, 27b2; and Abhayākaragupta’s *Jyotirmañjarī*, TTP: Tohoku 3142, 161b3, Otani 3963, 198b5–b6. For some other works that hold the idea of the fire of gnosis that burns up the conceptual categories, see Tsunehiko Sugiki, “The *Homa* System of the *Vajraḍākatantra*: A Critical Edition and a Preliminary Analysis of its *Homa* System,” *Tantric Studies* 1 \(2008\): 134. These works often call fire oblation of this type “the supreme \[form of\] \(*niruttara, bla med*\) fire oblation.”
 
-12. The earliest teachings on channels can be found in old *Upaniṣad* scriptures such as the *Bṛhadāraṇyakopaniṣad* and *Chāndogyopaniṣad*, compiled around the fifth century B.C.E. *Bṛhadāraṇyakopaniṣad*, Sanskrit ed. 4.2.3 and 4.3.20; *Chāndogyopaniṣad*, Sanskrit ed. 8.6.1–6. See also Olivelle, *The Early Upaniṣads*, pp. 109, 115, 279 \(translations\). The channels are also called Hitā in these two *Upaniṣad* texts, and the number of channels totals 101 according to the *Chāndogyopaniṣad*. Some sort of divine body fluid flows in the channels. One of the channels goes upward from the heart to the top of the head, and one’s soul \(or inner god\) moves to the top of the head through that channel.
+[^12]: The earliest teachings on channels can be found in old *Upaniṣad* scriptures such as the *Bṛhadāraṇyakopaniṣad* and *Chāndogyopaniṣad*, compiled around the fifth century B.C.E. *Bṛhadāraṇyakopaniṣad*, Sanskrit ed. 4.2.3 and 4.3.20; *Chāndogyopaniṣad*, Sanskrit ed. 8.6.1–6. See also Olivelle, *The Early Upaniṣads*, pp. 109, 115, 279 \(translations\). The channels are also called Hitā in these two *Upaniṣad* texts, and the number of channels totals 101 according to the *Chāndogyopaniṣad*. Some sort of divine body fluid flows in the channels. One of the channels goes upward from the heart to the top of the head, and one’s soul \(or inner god\) moves to the top of the head through that channel.
 
-13. The theory of six *cakra*s mentioned here appears in the *Mahāmudrātilaka-tantra* and in the *Vajramālā-tantra*, two of the main source materials of this essay. \(See also n. 34.\) It differs from theories of the six *cakra*s found in the *Kālacakra* and *Jñānodaya* systems.
+[^13]: The theory of six *cakra*s mentioned here appears in the *Mahāmudrātilaka-tantra* and in the *Vajramālā-tantra*, two of the main source materials of this essay. \(See also n. 34.\) It differs from theories of the six *cakra*s found in the *Kālacakra* and *Jñānodaya* systems.
 
-14. The *Hevajratantra*, Sanskrit ed. I.8.30–36, etc. The first of the four types of bliss is simply “bliss” \(*ānanda*\), the second is “highest bliss” \(*paramānanda*\), the third is “renunciation bliss” \(*viramānanda*\), and the fourth is “innate bliss” \(*sahajānanda*\).
+[^14]: The *Hevajratantra*, Sanskrit ed. I.8.30–36, etc. The first of the four types of bliss is simply “bliss” \(*ānanda*\), the second is “highest bliss” \(*paramānanda*\), the third is “renunciation bliss” \(*viramānanda*\), and the fourth is “innate bliss” \(*sahajānanda*\).
 
-15. The *Bṛhadāraṇyakopaniṣad*, Sanskrit ed. 6.4.1–3. Translation of the passages is from Olivelle, *The Early Upaniṣads*, p. 155. \(Interpolations and glosses are supplemented by me.\) See also the *Bṛhadāraṇyakopaniṣad*, Sanskrit ed. 6.2.13; the *Chāndogyopaniṣad*, Sanskrit ed. 5.8.1–2; Olivelle, *Saṃnyāsa Upaniṣads*, p. 28. After this instruction, the *Bṛhadāraṇyakopaniṣad* gives an instruction on the way of retrieving one’s discharged semen, which also appears to have assisted the development of theories on the tantric Buddhist practice of *guhyābhiṣeka* \(“secret consecration,” the initiation rite in which a teacher transmits his semen to his disciple’s mouth with his thumb and ring finger\). The *Bṛhadāraṇyakopaniṣad* \(Sanskrit ed. 6.4.4–5; Olivelle, *The Early Upaniṣads*, p. 155\) teaches as follows: When a man has discharged semen, whether in sleep or while awake, he should take the semen with his thumb and ring finger and rub it between his breasts or brows. By this he can retrieve his virility inherent in the semen. In a personal conversation, Einoo Shingo suggested that the passages given in the *Bṛhadāraṇyakopaniṣad* can be read as instructions on the *garbhādhāna*, or impregnation, rite.
+[^15]: The *Bṛhadāraṇyakopaniṣad*, Sanskrit ed. 6.4.1–3. Translation of the passages is from Olivelle, *The Early Upaniṣads*, p. 155. \(Interpolations and glosses are supplemented by me.\) See also the *Bṛhadāraṇyakopaniṣad*, Sanskrit ed. 6.2.13; the *Chāndogyopaniṣad*, Sanskrit ed. 5.8.1–2; Olivelle, *Saṃnyāsa Upaniṣads*, p. 28. After this instruction, the *Bṛhadāraṇyakopaniṣad* gives an instruction on the way of retrieving one’s discharged semen, which also appears to have assisted the development of theories on the tantric Buddhist practice of *guhyābhiṣeka* \(“secret consecration,” the initiation rite in which a teacher transmits his semen to his disciple’s mouth with his thumb and ring finger\). The *Bṛhadāraṇyakopaniṣad* \(Sanskrit ed. 6.4.4–5; Olivelle, *The Early Upaniṣads*, p. 155\) teaches as follows: When a man has discharged semen, whether in sleep or while awake, he should take the semen with his thumb and ring finger and rub it between his breasts or brows. By this he can retrieve his virility inherent in the semen. In a personal conversation, Einoo Shingo suggested that the passages given in the *Bṛhadāraṇyakopaniṣad* can be read as instructions on the *garbhādhāna*, or impregnation, rite.
 
-16. The supreme \(*bla med*\) fire oblation in Kṛṣṇapādaś *Cakrasaṃvarahomavidhi* \(TTP: Tohoku 1447, 293a4–b1, Otani 2165, 363b3–365a3\) \(*Cakrasaṃvara* scriptural cycle\) may fall into the group of the *Mahāmudrātilaka-tantra* and the *Vajramālā-tantra* because internal symbols in Kṛṣṇapāda’s work are quite similar to those in the *Mahāmudrātilaka-tantra* and *Vajramālā-tantra* \(see also Bentor, “Interiorized Fire Rituals in India and in Tibet,” p. 600\). There is also a possibility that Kṛṣṇapāda’s supreme fire oblation is not a version of psychosomatic fire oblation because his work does not clearly mention the subtle-body system, the base element constituting psychosomatic fire oblation.
+[^16]: The supreme \(*bla med*\) fire oblation in Kṛṣṇapādaś *Cakrasaṃvarahomavidhi* \(TTP: Tohoku 1447, 293a4–b1, Otani 2165, 363b3–365a3\) \(*Cakrasaṃvara* scriptural cycle\) may fall into the group of the *Mahāmudrātilaka-tantra* and the *Vajramālā-tantra* because internal symbols in Kṛṣṇapāda’s work are quite similar to those in the *Mahāmudrātilaka-tantra* and *Vajramālā-tantra* \(see also Bentor, “Interiorized Fire Rituals in India and in Tibet,” p. 600\). There is also a possibility that Kṛṣṇapāda’s supreme fire oblation is not a version of psychosomatic fire oblation because his work does not clearly mention the subtle-body system, the base element constituting psychosomatic fire oblation.
 
-17. The psychosomatic fire oblation taught in Kṛṣṇācārya’s *Vasantatilakā* \(Sanskrit ed. 8.20c–24\) and the *Herukādyavajravārāhīyogarājottamottamaparamarahasya* \(Sanskrit ms. in Kiyotaka Goshima and Keiya Noguchi, *A Succinct Catalogue of the Sanskrit Manuscripts in the Possession of the Faculty of Letters* \[Kyoto: Kyoto University, 1983\], p. 133, 18a5–b3; both from the *Cakrasaṃvara* scriptural cycle\) are the same as that taught in the *Saṃpuṭodbhava-tantra*. “The internal fire oblation with no recourse to external matter” \(*phyi rol gyi rdzas la ma ltos pa’i nang gi sbyin sreg*\) in Abhayākaragupta’s *Jyotirmañjarī* \(cross-traditional\) should be related to the psychosomatic fire oblation in the *Saṃpuṭodbhava-tantra* because Abhayākaraguta states in his *Jyotirmañjarī* that he explained details of this type of fire oblation in his *Āmnāyamañjarī*, a commentary on the *Saṃpuṭodbhava-tantra*. The internal \(*adhyātma*\) fire oblation in Umāpatideva’s *Vajravārāhīsādhana* \(*Cakrasaṃvara* scriptural cycle\) may also be able to be related to the psychosomatic fire oblation in the *Saṃpuṭodbhava-tantra* \(Umāpatideva’s *Vajravārāhīsādhana*, Sanskrit ed. 51\); see also Elizabeth English, *The Vajrayogini: Her Visualization, Rituals, and Forms* \(Somerville, MA: Wisdom Publications, 2002\), p. 221. The instruction given in the *Saṃpuṭodbhava-tantra* \(with Abhayākaragupta’s comment on it\) was examined by Naoji Okuyama, “Abhayākaragupta no Goma Shūhō \[The Practice of Homa of Abhayākaragupta\],” *Indogaku Bukkyōgaku Kenkyū* *\[Journal of Indian and Buddhist Studies\]* 32/2 \(1984\): 105–106. As for outlines of all chapters in the *Saṃpuṭodbhavatantra*, see Tadeusz Skorupski, “The *Saṃpuṭa-tantra* Sanskrit and Tibetan Versions of Chapter One,” in Tadeuz Skorupski, ed., *The Buddhist Forum IV. Seminar Papers 1994–1996* \(London: School of Oriental and African Studies, University of London, 1996\), pp. 151–244.
+[^17]: The psychosomatic fire oblation taught in Kṛṣṇācārya’s *Vasantatilakā* \(Sanskrit ed. 8.20c–24\) and the *Herukādyavajravārāhīyogarājottamottamaparamarahasya* \(Sanskrit ms. in Kiyotaka Goshima and Keiya Noguchi, *A Succinct Catalogue of the Sanskrit Manuscripts in the Possession of the Faculty of Letters* \[Kyoto: Kyoto University, 1983\], p. 133, 18a5–b3; both from the *Cakrasaṃvara* scriptural cycle\) are the same as that taught in the *Saṃpuṭodbhava-tantra*. “The internal fire oblation with no recourse to external matter” \(*phyi rol gyi rdzas la ma ltos pa’i nang gi sbyin sreg*\) in Abhayākaragupta’s *Jyotirmañjarī* \(cross-traditional\) should be related to the psychosomatic fire oblation in the *Saṃpuṭodbhava-tantra* because Abhayākaraguta states in his *Jyotirmañjarī* that he explained details of this type of fire oblation in his *Āmnāyamañjarī*, a commentary on the *Saṃpuṭodbhava-tantra*. The internal \(*adhyātma*\) fire oblation in Umāpatideva’s *Vajravārāhīsādhana* \(*Cakrasaṃvara* scriptural cycle\) may also be able to be related to the psychosomatic fire oblation in the *Saṃpuṭodbhava-tantra* \(Umāpatideva’s *Vajravārāhīsādhana*, Sanskrit ed. 51\); see also Elizabeth English, *The Vajrayogini: Her Visualization, Rituals, and Forms* \(Somerville, MA: Wisdom Publications, 2002\), p. 221. The instruction given in the *Saṃpuṭodbhava-tantra* \(with Abhayākaragupta’s comment on it\) was examined by Naoji Okuyama, “Abhayākaragupta no Goma Shūhō \[The Practice of Homa of Abhayākaragupta\],” *Indogaku Bukkyōgaku Kenkyū* *\[Journal of Indian and Buddhist Studies\]* 32/2 \(1984\): 105–106. As for outlines of all chapters in the *Saṃpuṭodbhavatantra*, see Tadeusz Skorupski, “The *Saṃpuṭa-tantra* Sanskrit and Tibetan Versions of Chapter One,” in Tadeuz Skorupski, ed., *The Buddhist Forum IV. Seminar Papers 1994–1996* \(London: School of Oriental and African Studies, University of London, 1996\), pp. 151–244.
 
-18. See n. 17.
+[^18]: See n. 17.
 
-19. One passage in text 2 is quoted in Tantric Nāgārjuna’s *Pañcakrama* \(Nāgārjuna’s *Pañcakrama*, Sanskrit ed. 1.16.\). The *Pañcakrama* was composed at an early stage of the history of the Ārya school of the *Guhyasamāja* tradition \(i.e., ninth century\) and does not quote any passages from works 3, 4, and 5. This suggests the possibility that work 2 was composed earlier than works 3, 4, and 5, but this does not prove with certainty that work 2 is really earlier. First, the passage quoted in the *Pañcakrama* does not appear in the instruction on psychosomatic fire oblation. Second, there is also the possibility that the chapter that gives the instruction on psychosomatic fire oblation was not contained in the older version of work 2 used by Tantric Nāgārjuna. Alaṃkakalaśa’s \(or Alaṃkadeva’s\) *Gambhīrārthadīpikā*, a commentary on work 2 deals only with chapters 1–44 of the extant version of that text and gives no mention of chapter 60, in which the instruction on psychosomatic fire oblation under examination here appears.
+[^19]: One passage in text 2 is quoted in Tantric Nāgārjuna’s *Pañcakrama* \(Nāgārjuna’s *Pañcakrama*, Sanskrit ed. 1.16.\). The *Pañcakrama* was composed at an early stage of the history of the Ārya school of the *Guhyasamāja* tradition \(i.e., ninth century\) and does not quote any passages from works 3, 4, and 5. This suggests the possibility that work 2 was composed earlier than works 3, 4, and 5, but this does not prove with certainty that work 2 is really earlier. First, the passage quoted in the *Pañcakrama* does not appear in the instruction on psychosomatic fire oblation. Second, there is also the possibility that the chapter that gives the instruction on psychosomatic fire oblation was not contained in the older version of work 2 used by Tantric Nāgārjuna. Alaṃkakalaśa’s \(or Alaṃkadeva’s\) *Gambhīrārthadīpikā*, a commentary on work 2 deals only with chapters 1–44 of the extant version of that text and gives no mention of chapter 60, in which the instruction on psychosomatic fire oblation under examination here appears.
 
-20. The names of scriptures mentioned in the *Ḍākārṇava-tantra* are *Guhyasamāja, Saṃvarottara, Saṃvara, Vajraḍāka, Herukābhyudaya, Tattvasaṃgraha, Vajrabhairava, Saṃpuṭa*, and *Laghusaṃvara*. For details, see Tsunehiko Sugiki, *Sanbara Kei Mikkyō no Shosō* \[Aspects of Saṃvara Esoteric Buddhism: Practitioner, Holy Site, Body, Time, and Death and Life\] \(Tokyo: Tōshindō, 2007\), pp. 17, 20.
+[^20]: The names of scriptures mentioned in the *Ḍākārṇava-tantra* are *Guhyasamāja, Saṃvarottara, Saṃvara, Vajraḍāka, Herukābhyudaya, Tattvasaṃgraha, Vajrabhairava, Saṃpuṭa*, and *Laghusaṃvara*. For details, see Tsunehiko Sugiki, *Sanbara Kei Mikkyō no Shosō* \[Aspects of Saṃvara Esoteric Buddhism: Practitioner, Holy Site, Body, Time, and Death and Life\] \(Tokyo: Tōshindō, 2007\), pp. 17, 20.
 
-21. See Appendix, Source Text no. 1. Sanskrit or Tibetan texts of the translations of the works mentioned are found in the Appendix.
+[^21]: See Appendix, Source Text no. 1. Sanskrit or Tibetan texts of the translations of the works mentioned are found in the Appendix.
 
-22. What the terms “sound,” “navel area,” and “secret lotus” indicate is not clear, although it is doubtless that they represent some areas, or explain what is happening, in the body of the practitioner. Probably they explain what is happening around the *cakra* in the navel area of the male practitioner. In his *Guhyārthaprakāśa* \(TTP: Tohoku 1200, 137a3–138a7, Otani 2330, 150a2–151b1\), a commentary on the *Mahāmudrātilaka-tantra*, Gambhīravajra mentions some masters’ interpretations of these words: according to Mahāguhyavajra, the “navel area” means the heart of a secret lotus \(*gsang ba’i pa dma’i snying po*\), and according to Ḍombīpa it is the center of the lotus with sixty-four petals \(*’dab ma drug cu rtsa bzhi’i lte ba’i gnas*, probably indicating the creation *cakra* in the navel area\); according to Gambhīravajra’s teacher, the “secret lotus” means the petals of channels to be touched \(*reg bya’i rtsa’i ‘dab ma*, probably indicating a *cakra* somewhere in the body\); and the “sound” is the sound of the awakening mind \(*byang chub sems kyi sgra*\) according to Vīrabhūti \(*bī ra bhū ti* \[TTP: Tohoku\] and *bhi ra pu ti* \[TTP: Otani\]\). Based on these masters’ words, Gambhīravajra relates that the “sound” is momentary sound \(*blo bur ba’i sgra*\) and that “sound is located at the center of the ‘secret lotus.’” What Gambhīravajra wants to say here remains unclear.
+[^22]: What the terms “sound,” “navel area,” and “secret lotus” indicate is not clear, although it is doubtless that they represent some areas, or explain what is happening, in the body of the practitioner. Probably they explain what is happening around the *cakra* in the navel area of the male practitioner. In his *Guhyārthaprakāśa* \(TTP: Tohoku 1200, 137a3–138a7, Otani 2330, 150a2–151b1\), a commentary on the *Mahāmudrātilaka-tantra*, Gambhīravajra mentions some masters’ interpretations of these words: according to Mahāguhyavajra, the “navel area” means the heart of a secret lotus \(*gsang ba’i pa dma’i snying po*\), and according to Ḍombīpa it is the center of the lotus with sixty-four petals \(*’dab ma drug cu rtsa bzhi’i lte ba’i gnas*, probably indicating the creation *cakra* in the navel area\); according to Gambhīravajra’s teacher, the “secret lotus” means the petals of channels to be touched \(*reg bya’i rtsa’i ‘dab ma*, probably indicating a *cakra* somewhere in the body\); and the “sound” is the sound of the awakening mind \(*byang chub sems kyi sgra*\) according to Vīrabhūti \(*bī ra bhū ti* \[TTP: Tohoku\] and *bhi ra pu ti* \[TTP: Otani\]\). Based on these masters’ words, Gambhīravajra relates that the “sound” is momentary sound \(*blo bur ba’i sgra*\) and that “sound is located at the center of the ‘secret lotus.’” What Gambhīravajra wants to say here remains unclear.
 
-23. In Tanric Buddhism the phrase “fusion of the two forces” signifies the union of two opposite principles, such as union of wisdom and means, of female and male genital organs, the gathering of winds blowing in the left and right channels in a practitioner’s body, and so on.
+[^23]: In Tanric Buddhism the phrase “fusion of the two forces” signifies the union of two opposite principles, such as union of wisdom and means, of female and male genital organs, the gathering of winds blowing in the left and right channels in a practitioner’s body, and so on.
 
-24. The letter HA means the “HA” part of the letter HAṂ that is visualized in the great bliss *cakra* in the head of a male practitioner.
+[^24]: The letter HA means the “HA” part of the letter HAṂ that is visualized in the great bliss *cakra* in the head of a male practitioner.
 
-25. As for the letters HŪṂ and PHAṬ placed on the moonstone, see the instruction on the third initiation \(*prajñājñānābhiṣeka*, “consecration of the gnosis of the wisdom female”\) in the *Mahāmudrātilaka-tantra*, Sanskrit ms. SB Hs or 8711, 5a1; *prāṇāyāmasamānatvāt suratenārcanaṃ punaḥ* / “*hūṃphaṭmantraṃ maṇimukhe nyastvā*” *vajraṃ pracālayet* // \[Note\] *maṇimukhe*\] em; *maṇimukhye padyate tadā jñā*, Sanskrit ms \(ac\). *maṇimukhye*, Sanskrit ms \(pc\). The same interpretation can be applied to the “mantra of *hūṃ* and *phaṭ* letters” in the teaching of psychosomatic fire oblation in the *Vajramālā-tantra*; see chapter 2, *’byung rngub pa ni ro gcig cing* / *rab tu dga’ bas mchod par bya* / *hūṃ phaṭ sngags kyi nor bu’i sgor* / *bkod de rdo rje rang bskyod bya* // \(TTP: Tohoku 445, 213a2, Otani 82, 172b3\). On the other hand, Gambhīravajra comments that the practitioner visualizes the letter HŪṂ in the middle of his penis and the letter PHAṬ in the middle of his female partner’s vagina. His comment suggests that *maṇi* indicates the penis and *mukha* signifies the vagina.
+[^25]: As for the letters HŪṂ and PHAṬ placed on the moonstone, see the instruction on the third initiation \(*prajñājñānābhiṣeka*, “consecration of the gnosis of the wisdom female”\) in the *Mahāmudrātilaka-tantra*, Sanskrit ms. SB Hs or 8711, 5a1; *prāṇāyāmasamānatvāt suratenārcanaṃ punaḥ* / “*hūṃphaṭmantraṃ maṇimukhe nyastvā*” *vajraṃ pracālayet* // \[Note\] *maṇimukhe*\] em; *maṇimukhye padyate tadā jñā*, Sanskrit ms \(ac\). *maṇimukhye*, Sanskrit ms \(pc\). The same interpretation can be applied to the “mantra of *hūṃ* and *phaṭ* letters” in the teaching of psychosomatic fire oblation in the *Vajramālā-tantra*; see chapter 2, *’byung rngub pa ni ro gcig cing* / *rab tu dga’ bas mchod par bya* / *hūṃ phaṭ sngags kyi nor bu’i sgor* / *bkod de rdo rje rang bskyod bya* // \(TTP: Tohoku 445, 213a2, Otani 82, 172b3\). On the other hand, Gambhīravajra comments that the practitioner visualizes the letter HŪṂ in the middle of his penis and the letter PHAṬ in the middle of his female partner’s vagina. His comment suggests that *maṇi* indicates the penis and *mukha* signifies the vagina.
 
-26. See Appendix, Source Text no. 2.
+[^26]: See Appendix, Source Text no. 2.
 
-27. What “sound” and “secret lotus” indicate in this context is not clear. Chapter 7 of the *Vajramālā-tantra* expounds the nature and features of the “sound” \(*nā da* or *sgra*\) and an inner lotus where the sound resides. The “sound” is the letter AṂ \(or A\). The lotus is the creation *cakra* in the shape of a lotus with sixty-four petals, which is situated in the navel area of the practitioner. The letter AṂ \(or A\) is located at the center of the creation *cakra,* and the yogic subtle fire blazes up from the letter AṂ \(or A\); TTP: Tohoku 445, 218b3–b7, Otani 82, 178a2–a7. See also Alaṃkakalaśa’s comments on this chapter, TTP: Tohoku 1795, 65b2–b6, Otani 2660, 77a1–a6. These explanations on the sound and inner lotus in chapter 7 may be applicable to the “sound” and “secret lotus” in chapter 60.
+[^27]: What “sound” and “secret lotus” indicate in this context is not clear. Chapter 7 of the *Vajramālā-tantra* expounds the nature and features of the “sound” \(*nā da* or *sgra*\) and an inner lotus where the sound resides. The “sound” is the letter AṂ \(or A\). The lotus is the creation *cakra* in the shape of a lotus with sixty-four petals, which is situated in the navel area of the practitioner. The letter AṂ \(or A\) is located at the center of the creation *cakra,* and the yogic subtle fire blazes up from the letter AṂ \(or A\); TTP: Tohoku 445, 218b3–b7, Otani 82, 178a2–a7. See also Alaṃkakalaśa’s comments on this chapter, TTP: Tohoku 1795, 65b2–b6, Otani 2660, 77a1–a6. These explanations on the sound and inner lotus in chapter 7 may be applicable to the “sound” and “secret lotus” in chapter 60.
 
-28. As for the meaning of the phrase “fusion of the two forces,” see n. 23.
+[^28]: As for the meaning of the phrase “fusion of the two forces,” see n. 23.
 
-29. See n. 24.
+[^29]: See n. 24.
 
-30. The word *samaya* \(*dam tshig*\), or “vow,” is a technical term in Tantric Buddhism that has many meanings. In this context, it appears to mean some sort of heavenly or superhuman experience.
+[^30]: The word *samaya* \(*dam tshig*\), or “vow,” is a technical term in Tantric Buddhism that has many meanings. In this context, it appears to mean some sort of heavenly or superhuman experience.
 
-31. According to Gambhīravajra, the sentence in the *Mahāmudrātilaka-tantra* in question \(line 3\) is intended to teach that the practitioner ejaculates into the vagina, to prohibit ejaculation to places outside the vagina \(TTP: Tohoku 1200, 137b6-b7, Otani 2330, 150b8- 151a1: *ho ma khung gi phyi rol* \(*kuṇḍād bahir*\) *ni gsang ba’i pa dma’i phyi rol lo* // *blugs gzar nas* \(*sruvayā*\) *ni gsang ba’i rdo rje’i rin po che nas* / *de la don ni ’di yin te* / *byang chub sems kyi mar dgang blugs dbul ba’i dus su* / y*o ni phyi rol du gtang bar mi bya’o* \(*na kṣipet*\) // \[Since *gsang ba’i pa dma’i phyi rol* in the first sentence and the *yo ni phyi rol* in the last sentence are equivalent terms, the latter \(*yo ni phyi rol*\) should be read as “outside of the vagina,” not as “the vagina, which is outside.”\). Gambhīravajra’s reading appears to be the most natural reading of the sentence. However, at the same time, Gambhīravajra mentions an interpretation of this sentence by Ḍombīpa, according to whom this sentence explains non-ejaculation. Ḍombīpa says that both the words “hearth” \(*kuṇḍa*\) and “small ritual ladle” \(*sruvā*\) in this sentence signify the penis of the practitioner \(TTP: Tohoku 1200, 137b7- 138a1, Otani 2330, 151a1-a2\).
+[^31]: According to Gambhīravajra, the sentence in the *Mahāmudrātilaka-tantra* in question \(line 3\) is intended to teach that the practitioner ejaculates into the vagina, to prohibit ejaculation to places outside the vagina \(TTP: Tohoku 1200, 137b6-b7, Otani 2330, 150b8- 151a1: *ho ma khung gi phyi rol* \(*kuṇḍād bahir*\) *ni gsang ba’i pa dma’i phyi rol lo* // *blugs gzar nas* \(*sruvayā*\) *ni gsang ba’i rdo rje’i rin po che nas* / *de la don ni ’di yin te* / *byang chub sems kyi mar dgang blugs dbul ba’i dus su* / y*o ni phyi rol du gtang bar mi bya’o* \(*na kṣipet*\) // \[Since *gsang ba’i pa dma’i phyi rol* in the first sentence and the *yo ni phyi rol* in the last sentence are equivalent terms, the latter \(*yo ni phyi rol*\) should be read as “outside of the vagina,” not as “the vagina, which is outside.”\). Gambhīravajra’s reading appears to be the most natural reading of the sentence. However, at the same time, Gambhīravajra mentions an interpretation of this sentence by Ḍombīpa, according to whom this sentence explains non-ejaculation. Ḍombīpa says that both the words “hearth” \(*kuṇḍa*\) and “small ritual ladle” \(*sruvā*\) in this sentence signify the penis of the practitioner \(TTP: Tohoku 1200, 137b7- 138a1, Otani 2330, 151a1-a2\).
 
-32. The five sense faculties are inner instruments for sensory enjoyment. This is probably why the five sense faculties are identified not with firewood and fuel but with articles that bring sensory enjoyment \(i.e., rice or offered articles\).
+[^32]: The five sense faculties are inner instruments for sensory enjoyment. This is probably why the five sense faculties are identified not with firewood and fuel but with articles that bring sensory enjoyment \(i.e., rice or offered articles\).
 
-33. I believe that this is the most natural understanding of the passage. However, it must be noted that there were practitioners who internalized these recipient deities, as Gambhīravajra suggests. Gambhīravajra comments that masters taught the sacred meanings of these recipient deities \(excluding *ḍākinī*s and mothers\) as follows: buddhas are the mind and mental functions; bodhisattvas are the five aggregates; gods and *dānava*s are the \(four or five\) material causes; *rākṣasa*s are \(twelve\) bases of experience; and the eight world-protectors are the eight faces. However, no such teaching can be found in the *Mahāmudrātilaka-tantra*. Regarding Vajrasattva, Gambhīravajra introduces the words of the master Jñānapūti, who says that Vajrasattva means Mahāsukharāja, probably Heruka, the highest deity in this scripture.
+[^33]: I believe that this is the most natural understanding of the passage. However, it must be noted that there were practitioners who internalized these recipient deities, as Gambhīravajra suggests. Gambhīravajra comments that masters taught the sacred meanings of these recipient deities \(excluding *ḍākinī*s and mothers\) as follows: buddhas are the mind and mental functions; bodhisattvas are the five aggregates; gods and *dānava*s are the \(four or five\) material causes; *rākṣasa*s are \(twelve\) bases of experience; and the eight world-protectors are the eight faces. However, no such teaching can be found in the *Mahāmudrātilaka-tantra*. Regarding Vajrasattva, Gambhīravajra introduces the words of the master Jñānapūti, who says that Vajrasattva means Mahāsukharāja, probably Heruka, the highest deity in this scripture.
 
-34. See Appendix, Source Text no. 3.
+[^34]: See Appendix, Source Text no. 3.
 
-35. The *Mahāmudrātilaka-tantra* \(chapter 4\), Sanskrit ms. Hs or 8711, 6a5–9a2.
+[^35]: The *Mahāmudrātilaka-tantra* \(chapter 4\), Sanskrit ms. Hs or 8711, 6a5–9a2.
 
-36. Gambhīravajra also explains that the *ḍākinī*s are channels and the mothers are outer channels \(*phyi’i rtsa*\) in this context. \(However, I have no idea about what the outer channels mean.\)
+[^36]: Gambhīravajra also explains that the *ḍākinī*s are channels and the mothers are outer channels \(*phyi’i rtsa*\) in this context. \(However, I have no idea about what the outer channels mean.\)
 
-37. Gambhīravajra comments that the acquisition of accomplishments means “to increase channels and so on” \(*rtsa la sogs pa rgyas pa*\).
+[^37]: Gambhīravajra comments that the acquisition of accomplishments means “to increase channels and so on” \(*rtsa la sogs pa rgyas pa*\).
 
-38. The body *maṇḍala* is a concept that I would like to define as explaining “the innate purity and power of an initiated practitioner.” It explains that deities are present as a framework \(such as the five aggregates, the five or six sense faculties, channels, and so forth\) that constitutes one’s own being; it says that one’s own being is a *maṇḍala* consisting of deities. Although the body *maṇḍala* is innate to each person, it becomes really significant when one is taught its contents and significance in practice through the initiation to become a master \(*guru* or *ācārya*\). For details of *Cakrasaṃvara* systems of body *maṇḍala*, see Tsunehiko Sugiki, “Five Types of Internal *Maṇḍala* Described in the *Cakrasaṃvara* Buddhist Literature: Somatic Representations of One’s Innate Sacredness,” *Tōyō Bunka Kenkyūjo Kiyō* \[*Memoirs of the Institute of Oriental Culture*\] 144 \(2003\): 157–231.
+[^38]: The body *maṇḍala* is a concept that I would like to define as explaining “the innate purity and power of an initiated practitioner.” It explains that deities are present as a framework \(such as the five aggregates, the five or six sense faculties, channels, and so forth\) that constitutes one’s own being; it says that one’s own being is a *maṇḍala* consisting of deities. Although the body *maṇḍala* is innate to each person, it becomes really significant when one is taught its contents and significance in practice through the initiation to become a master \(*guru* or *ācārya*\). For details of *Cakrasaṃvara* systems of body *maṇḍala*, see Tsunehiko Sugiki, “Five Types of Internal *Maṇḍala* Described in the *Cakrasaṃvara* Buddhist Literature: Somatic Representations of One’s Innate Sacredness,” *Tōyō Bunka Kenkyūjo Kiyō* \[*Memoirs of the Institute of Oriental Culture*\] 144 \(2003\): 157–231.
 
-39. The *Vajramālā-tantra*, TTP: Tohoku 445, 250a3–b1, Otani 82, 210b1–b7.
+[^39]: The *Vajramālā-tantra*, TTP: Tohoku 445, 250a3–b1, Otani 82, 210b1–b7.
 
-40. The *Vajramālā-tantra*, TTP: Tohoku 445, 270a1–b5, Otani 82, 230b8–231b5. This instruction in chapter 64 is quoted in Candrakīrti’s *Pradīpodyotana* commentary on the *Guhyasamāja-tantra* \(Sanskrit ed., pp. 27–28\) and in Nāgabodhi’s *Samājasādhanavyavasthāna* \(Sanskrit ed., pp. 123–128\).
+[^40]: The *Vajramālā-tantra*, TTP: Tohoku 445, 270a1–b5, Otani 82, 230b8–231b5. This instruction in chapter 64 is quoted in Candrakīrti’s *Pradīpodyotana* commentary on the *Guhyasamāja-tantra* \(Sanskrit ed., pp. 27–28\) and in Nāgabodhi’s *Samājasādhanavyavasthāna* \(Sanskrit ed., pp. 123–128\).
 
-41. The *Vajramālā-tantra*, TTP: Tohoku 445, 270b4, Otani 82, 231b2–b3; *lus ni ’di nyid kun la ’dir* / *de bzhin gshegs pa thams cad bzhugs* // *sku yi dkyil ’khor zhes brjod pa* / *rdo rje sems dpa’ nyid kyi sku* / *rdo rje sems dpa’i dbye ba yis* / *rdzogs pa’i sangs rgyas ma lus ’di* //.
+[^41]: The *Vajramālā-tantra*, TTP: Tohoku 445, 270b4, Otani 82, 231b2–b3; *lus ni ’di nyid kun la ’dir* / *de bzhin gshegs pa thams cad bzhugs* // *sku yi dkyil ’khor zhes brjod pa* / *rdo rje sems dpa’ nyid kyi sku* / *rdo rje sems dpa’i dbye ba yis* / *rdzogs pa’i sangs rgyas ma lus ’di* //.
 
-42. See Appendix, Source Text no. 4.
+[^42]: See Appendix, Source Text no. 4.
 
-43. See Appendix, Source Text no. 5.
+[^43]: See Appendix, Source Text no. 5.
 
-44. I read “*hotavyaḥ sarvadravyāṇāṃ*” freely in grammar.
+[^44]: I read “*hotavyaḥ sarvadravyāṇāṃ*” freely in grammar.
 
-45. The last paragraph and the chapter name of the *Vajraḍāka-tantra* \(chapter 44\), Sanskrit ed.; Sugiki, “The *Homa* System of the *Vajraḍākatantra*,” p. 142, l. 17; *vetāḍasādhanā-“dhyātmahoma”-vidhipaṭalaś catuścatvāriṃśattamaḥ*.
+[^45]: The last paragraph and the chapter name of the *Vajraḍāka-tantra* \(chapter 44\), Sanskrit ed.; Sugiki, “The *Homa* System of the *Vajraḍākatantra*,” p. 142, l. 17; *vetāḍasādhanā-“dhyātmahoma”-vidhipaṭalaś catuścatvāriṃśattamaḥ*.
 
-46. Abhayākaragupta’s *Āmnāyamañjarī*, TTP: Tohoku 1198, 213a2–b6, Otani 2328, 234b3–235a8. Abhayākaragupta’s *Jyotirmañjarī*, TTP: Tohoku 3142, 161b2–b3, Otani 3963, 198b4–b6. Okuyama, “Abhayākaragupta no Goma Shūhō \[The Practice of *Homa* of Abhayākaragupta\],” pp. 105–106.
+[^46]: Abhayākaragupta’s *Āmnāyamañjarī*, TTP: Tohoku 1198, 213a2–b6, Otani 2328, 234b3–235a8. Abhayākaragupta’s *Jyotirmañjarī*, TTP: Tohoku 3142, 161b2–b3, Otani 3963, 198b4–b6. Okuyama, “Abhayākaragupta no Goma Shūhō \[The Practice of *Homa* of Abhayākaragupta\],” pp. 105–106.
 
-47. Bhavabhadra’s *Vajraḍākavivṛti*, a commentary on the *Vajraḍāka-tantra*, gives only a brief comment on chapter 44 and is not useful. The *Vajraḍākavivṛti*, TTP: Tohoku 1415, 185b6, Otani 2131, 211a4. The entire comment on this instruction is: “\[The passages\] beginning with ‘internal fire oblation’ are easy to understand” \(*nang gi sbyin sreg ces bya ba la sogs pa ni go sla’o*\).
+[^47]: Bhavabhadra’s *Vajraḍākavivṛti*, a commentary on the *Vajraḍāka-tantra*, gives only a brief comment on chapter 44 and is not useful. The *Vajraḍākavivṛti*, TTP: Tohoku 1415, 185b6, Otani 2131, 211a4. The entire comment on this instruction is: “\[The passages\] beginning with ‘internal fire oblation’ are easy to understand” \(*nang gi sbyin sreg ces bya ba la sogs pa ni go sla’o*\).
 
-48. The *Saṃpuṭodbhava-tantra*’s definition of the five sense objects as externally offered articles does not mean that a practitioner uses external objects actively in this fire oblation practice. Both internal and external articles \(i.e., bodily substances and the five sense objects\) are described as offered articles in the skullbone in the head \(i.e., body fluid in the great bliss *cakra*\). However, why are external objects \(i.e., the five sense objects\) represented in the form of body fluid? Abhayākaragupta explains: There is no distinction between inner and outer in the real \(*don dam pa*\). They are undivided and are both of the nature of the awakening mind. Hence, a practitioner must perform the inner oblation of the awakening mind, which represents both the inner and outer \(Abhayākaragupta’s *Āmnāyamañjarī*, TTP: Tohoku 1198, 213a3–a4, Otani 2328, 234b4–b6\).
+[^48]: The *Saṃpuṭodbhava-tantra*’s definition of the five sense objects as externally offered articles does not mean that a practitioner uses external objects actively in this fire oblation practice. Both internal and external articles \(i.e., bodily substances and the five sense objects\) are described as offered articles in the skullbone in the head \(i.e., body fluid in the great bliss *cakra*\). However, why are external objects \(i.e., the five sense objects\) represented in the form of body fluid? Abhayākaragupta explains: There is no distinction between inner and outer in the real \(*don dam pa*\). They are undivided and are both of the nature of the awakening mind. Hence, a practitioner must perform the inner oblation of the awakening mind, which represents both the inner and outer \(Abhayākaragupta’s *Āmnāyamañjarī*, TTP: Tohoku 1198, 213a3–a4, Otani 2328, 234b4–b6\).
 
-49. Abhayākaragupta’s *Āmnāyamañjarī*, TTP: Tohoku 1198, 213a3, Otani 2328, 234b4; *rnam par rtogs pa’i rab rib ma lus pa sel bar byed pa’i phyir*….
+[^49]: Abhayākaragupta’s *Āmnāyamañjarī*, TTP: Tohoku 1198, 213a3, Otani 2328, 234b4; *rnam par rtogs pa’i rab rib ma lus pa sel bar byed pa’i phyir*….
 
-50. As shown in table 3, a bejeweled *vajra* attached to the lower ends of the handles of ritual ladles is identified with the penis of the practitioner in the *Vajraḍāka-tantra*. This is not to explain a process of the physical practice of sexual yoga. In chapter 48, the *Vajraḍāka-tantra* explains how to make the large and small ritual ladles that are used in the external fire oblation ritual. According to this chapter, a bejeweled *vajra* is attached to the lower end of the handle of a ritual ladle \(Sanskrit ed.; Sugiki, “The *Homa* System of the *Vajraḍākatantra*,” pp. 48, 85–91\). In the psychosomatic fire oblation the ritual ladles are the two inner channels, i.e., the *lalanā* and *rasanā*, and the lower ends of these two channels are located around the genitals of a practitioner. This is the reason the penis is regarded as a bejeweled *vajra* attached to the lower ends of the handles of the ritual ladles and indicates nothing more than that.
+[^50]: As shown in table 3, a bejeweled *vajra* attached to the lower ends of the handles of ritual ladles is identified with the penis of the practitioner in the *Vajraḍāka-tantra*. This is not to explain a process of the physical practice of sexual yoga. In chapter 48, the *Vajraḍāka-tantra* explains how to make the large and small ritual ladles that are used in the external fire oblation ritual. According to this chapter, a bejeweled *vajra* is attached to the lower end of the handle of a ritual ladle \(Sanskrit ed.; Sugiki, “The *Homa* System of the *Vajraḍākatantra*,” pp. 48, 85–91\). In the psychosomatic fire oblation the ritual ladles are the two inner channels, i.e., the *lalanā* and *rasanā*, and the lower ends of these two channels are located around the genitals of a practitioner. This is the reason the penis is regarded as a bejeweled *vajra* attached to the lower ends of the handles of the ritual ladles and indicates nothing more than that.
 
-51. Abhayākaragupta’s *Āmnāyamañjarī*, TTP: Tohoku 1198, 213a7–b1, Otani 2328, 235a1–a2; *las ni yid mnyam par bzhag pa ’am* “*dbang po gnyis kyi bya ba*”*’o* / *des bskul ba’i rlung ste* / *des sbar ba’o* //. The phrase *dbang po gnyis kyi bya ba* \(“the action of the two forces”\) may mean the union of the genital organs of a male practitioner and his female partner.
+[^51]: Abhayākaragupta’s *Āmnāyamañjarī*, TTP: Tohoku 1198, 213a7–b1, Otani 2328, 235a1–a2; *las ni yid mnyam par bzhag pa ’am* “*dbang po gnyis kyi bya ba*”*’o* / *des bskul ba’i rlung ste* / *des sbar ba’o* //. The phrase *dbang po gnyis kyi bya ba* \(“the action of the two forces”\) may mean the union of the genital organs of a male practitioner and his female partner.
 
-52. Abhayākaragupta’s *Āmnāyamañjarī*, TTP: Tohoku 1198, 213a5–a6, Otani 2328, 234b6–b7.
+[^52]: Abhayākaragupta’s *Āmnāyamañjarī*, TTP: Tohoku 1198, 213a5–a6, Otani 2328, 234b6–b7.
 
-53. The *Saṃpuṭodbhava-tantra,* chapter 5.2, Sanskrit ms.; E. B. Cowell and J. B. Eggeling, “Catalogue of Buddhist Sanskrit Manuscripts in the Possession of the Royal Asiatic Society, London \(Hodgson Collection\),” *Journal of the Royal Asiatic Society* \(1876\): 37, 51b1–b5; Seiren Matsunami, *A Catalogue of the Sanskrit Manuscripts in the Tokyo University Library* \(Tokyo: University of Tokyo, 1965\), p. 427, 44b5–45a3.
+[^53]: The *Saṃpuṭodbhava-tantra,* chapter 5.2, Sanskrit ms.; E. B. Cowell and J. B. Eggeling, “Catalogue of Buddhist Sanskrit Manuscripts in the Possession of the Royal Asiatic Society, London \(Hodgson Collection\),” *Journal of the Royal Asiatic Society* \(1876\): 37, 51b1–b5; Seiren Matsunami, *A Catalogue of the Sanskrit Manuscripts in the Tokyo University Library* \(Tokyo: University of Tokyo, 1965\), p. 427, 44b5–45a3.
 
-54. The prototype idea of a *maṇḍala* consisting of deities representing the five aggregates, the bases of experience, and the material causes first appeared in the *Guhyasamāja-tantra*. The idea of the body *maṇḍala* consisting of channels \(i.e., the circle of channels\) was first systematically taught in the *Hevajra-tantra*. Both of these ideas prevailed and were later combined. As a result, many similar schema of the body *maṇḍala* appeared. The body *maṇḍala* shown in table 4, or those similar, is a widely taught version, especially in texts belonging to the *Cakrasaṃvara* literature, and the body *maṇḍala* shown in table 2, or those similar, is a version found especially in later texts belonging to *Guhyasamāja* literature.
+[^54]: The prototype idea of a *maṇḍala* consisting of deities representing the five aggregates, the bases of experience, and the material causes first appeared in the *Guhyasamāja-tantra*. The idea of the body *maṇḍala* consisting of channels \(i.e., the circle of channels\) was first systematically taught in the *Hevajra-tantra*. Both of these ideas prevailed and were later combined. As a result, many similar schema of the body *maṇḍala* appeared. The body *maṇḍala* shown in table 4, or those similar, is a widely taught version, especially in texts belonging to the *Cakrasaṃvara* literature, and the body *maṇḍala* shown in table 2, or those similar, is a version found especially in later texts belonging to *Guhyasamāja* literature.
 
-55. Abhayākaragupta’s *Āmnāyamañjarī*, TTP: Tohoku 1198, 213b6, Otani 2328, 235a8.
+[^55]: Abhayākaragupta’s *Āmnāyamañjarī*, TTP: Tohoku 1198, 213b6, Otani 2328, 235a8.
 
-56. Abhayākaragupta’s *Jyotirmañjarī*, TTP: Tohoku 3142, 161b2, Otani 3963, 198b4. It is not clear what he means by “supreme bliss” \(*mchog tu dga’ ba*\). He may mean “highest bliss,” the second of the four types of bliss according to the four-bliss doctrine, because *mchog tu dga’ ba* is often a translation of Sanskrit *paramānanda*, “highest bliss.” Or he may mean innate bliss \(or great pleasure\), the fourth and highest of the four bliss states, because *mchog tu dga’ ba* is also often a translation of a Sanskrit phrase that indicates the supreme level of bliss. Abhayākaragupta’s *Āmnāyamañjarī* is not useful in this examination, as it does not explain clearly what the term “supreme bliss” in the *Jyotirmañjarī* means.
+[^56]: Abhayākaragupta’s *Jyotirmañjarī*, TTP: Tohoku 3142, 161b2, Otani 3963, 198b4. It is not clear what he means by “supreme bliss” \(*mchog tu dga’ ba*\). He may mean “highest bliss,” the second of the four types of bliss according to the four-bliss doctrine, because *mchog tu dga’ ba* is often a translation of Sanskrit *paramānanda*, “highest bliss.” Or he may mean innate bliss \(or great pleasure\), the fourth and highest of the four bliss states, because *mchog tu dga’ ba* is also often a translation of a Sanskrit phrase that indicates the supreme level of bliss. Abhayākaragupta’s *Āmnāyamañjarī* is not useful in this examination, as it does not explain clearly what the term “supreme bliss” in the *Jyotirmañjarī* means.
 
-57. The *Vajraḍāka-tantra*, chapter 1, Sanskrit ed.; Tsunehiko Sugiki, “A Critical Study of the *Vajraḍākamahātantrarāja* \(I\)—Chapters 1 and 42,” *Chisan Gakuhō* \[*Journal of Chisan Studies*\] 51 \(2002\): 81–115, 1.16–22. There are slight differences between the *maṇḍala* in the *Vajraḍāka-tantra* \(VḌ\) and that in the *Saṃpuṭodbhava-tantra*. Vajraḍāka \(who is the supreme deity in VḌ\) represents all the aggregates and all the bases of experience in VḌ. Mahāmāyā \(who is the supreme goddess in VḌ\) represents the space material cause and, at the same time, all the material causes in VḌ.
+[^57]: The *Vajraḍāka-tantra*, chapter 1, Sanskrit ed.; Tsunehiko Sugiki, “A Critical Study of the *Vajraḍākamahātantrarāja* \(I\)—Chapters 1 and 42,” *Chisan Gakuhō* \[*Journal of Chisan Studies*\] 51 \(2002\): 81–115, 1.16–22. There are slight differences between the *maṇḍala* in the *Vajraḍāka-tantra* \(VḌ\) and that in the *Saṃpuṭodbhava-tantra*. Vajraḍāka \(who is the supreme deity in VḌ\) represents all the aggregates and all the bases of experience in VḌ. Mahāmāyā \(who is the supreme goddess in VḌ\) represents the space material cause and, at the same time, all the material causes in VḌ.
 
-58. The *Vajraḍāka-tantra,* chapter 14, Sanskrit ed., Tsunehiko Sugiki, “A Critical Study of the *Vajraḍākamahātantrarāja* \(II\)—Sacred Districts and Practices Concerned,” *Chisan Gakuhō* \[*Journal of Chisan Studies*\] 52 \(2003\): 53–106. The idea that *ḍākinī*s are channels appears in many chapters of this scripture, but chapter 14 can be taken as representative because it has the most systematic explanation.
+[^58]: The *Vajraḍāka-tantra,* chapter 14, Sanskrit ed., Tsunehiko Sugiki, “A Critical Study of the *Vajraḍākamahātantrarāja* \(II\)—Sacred Districts and Practices Concerned,” *Chisan Gakuhō* \[*Journal of Chisan Studies*\] 52 \(2003\): 53–106. The idea that *ḍākinī*s are channels appears in many chapters of this scripture, but chapter 14 can be taken as representative because it has the most systematic explanation.
 
-59. See Appendix, Source Text no. 6.
+[^59]: See Appendix, Source Text no. 6.
 
-60. This does not mean that the *Ḍākārṇava-tantra* has the nine-*cakra* theory. The *cakra* theory found in the *Ḍākārṇava-tantra* is the four-*cakra* theory, and its structure is the same as the four-*cakra* theory taught in many scriptures belonging to the *Yoginī-tantra* tradition. In short, in this *Ḍākārṇava* system, four hearths are visualized on the four *cakra*s and the other five hearths are visualized at other points on the vertical centerline of the body.
+[^60]: This does not mean that the *Ḍākārṇava-tantra* has the nine-*cakra* theory. The *cakra* theory found in the *Ḍākārṇava-tantra* is the four-*cakra* theory, and its structure is the same as the four-*cakra* theory taught in many scriptures belonging to the *Yoginī-tantra* tradition. In short, in this *Ḍākārṇava* system, four hearths are visualized on the four *cakra*s and the other five hearths are visualized at other points on the vertical centerline of the body.
 
-61. In the external ritual form of fire oblation, a practitioner \(i.e., a tantric priest\) makes one of the nine hearths according to the aim of his ritual performance \(e.g., a practitioner makes a round hearth on the ground in the ritual place when performing the pacifying rite\). From this one might expect that the practitioner visualizes a particular hearth in his body according to the specific aim of the practice of psychosomatic fire oblation \(e.g., a practitioner visualizes a round hearth in his navel area when he is performing the pacifying rite\). However, this is unlikely, and no available textual sources support this interpretation. Jayasena’s *Ḍākārṇavahomavidhi*, which is examined next, clearly teaches that a practitioner visualizes all nine hearths in his body.
+[^61]: In the external ritual form of fire oblation, a practitioner \(i.e., a tantric priest\) makes one of the nine hearths according to the aim of his ritual performance \(e.g., a practitioner makes a round hearth on the ground in the ritual place when performing the pacifying rite\). From this one might expect that the practitioner visualizes a particular hearth in his body according to the specific aim of the practice of psychosomatic fire oblation \(e.g., a practitioner visualizes a round hearth in his navel area when he is performing the pacifying rite\). However, this is unlikely, and no available textual sources support this interpretation. Jayasena’s *Ḍākārṇavahomavidhi*, which is examined next, clearly teaches that a practitioner visualizes all nine hearths in his body.
 
-62. Padmavajra’s *Vohitā*, TTP: Tohoku 1419, 185b7, Otani 2136, 219b4–b5. It comments on the instruction of the psychosomatic fire oblation as follows: *da ni sbyin sreg gi thab rnams gsungs pa* / *zhi ba zhes bya ba la sogs pa ste* / *de ltar phyi dang nang gi bdag nyid thams cad rtogs pa sla’o* //.
+[^62]: Padmavajra’s *Vohitā*, TTP: Tohoku 1419, 185b7, Otani 2136, 219b4–b5. It comments on the instruction of the psychosomatic fire oblation as follows: *da ni sbyin sreg gi thab rnams gsungs pa* / *zhi ba zhes bya ba la sogs pa ste* / *de ltar phyi dang nang gi bdag nyid thams cad rtogs pa sla’o* //.
 
-63. Jayasena’s *Ḍākārṇavahomavidhi*, TTP: Tohoku 1522, 68a3, Otani 2236, 85a1–a2.
+[^63]: Jayasena’s *Ḍākārṇavahomavidhi*, TTP: Tohoku 1522, 68a3, Otani 2236, 85a1–a2.
 
-64. See Appendix, Source Text no. 7.
+[^64]: See Appendix, Source Text no. 7.
 
-65. This passage explaining inner hearths is likely to be from the passage in the *Ḍākārṇava-tantra* previously examined in this subsection of this essay. The available texts of Jayasena’s *Ḍākārṇavahomavidhi* \(TTP: both Tohoku and Otani\) omit the sentences “a triangular hearth is in the private part” and “a decagonal hearth is in the forehead.” I provided them as supplementary from the passage in the *Ḍākārṇava-tantra*, although there is also a possibility that these sentences were omitted in the original Sanskrit text of Jayasena’s work.
+[^65]: This passage explaining inner hearths is likely to be from the passage in the *Ḍākārṇava-tantra* previously examined in this subsection of this essay. The available texts of Jayasena’s *Ḍākārṇavahomavidhi* \(TTP: both Tohoku and Otani\) omit the sentences “a triangular hearth is in the private part” and “a decagonal hearth is in the forehead.” I provided them as supplementary from the passage in the *Ḍākārṇava-tantra*, although there is also a possibility that these sentences were omitted in the original Sanskrit text of Jayasena’s work.
 
-66. Both texts \(TTP: Tohoku and Otani\) read *baṃ*, but the original may be *aṃ* \(the letter AṂ\). In esoteric Buddhism the fusion of the letters HŪṂ \(blue color, male\) and AṂ \(red color, female\) signifies the union of male and female, which represents the real. If this fusion occurs in all the inner hearths, they all represent the real, which makes this fire oblation practice more excellent. The letter VAṂ, however, generally symbolizes male. It may be that the letter VAṂ colored in red symbolizes female in this context.
+[^66]: Both texts \(TTP: Tohoku and Otani\) read *baṃ*, but the original may be *aṃ* \(the letter AṂ\). In esoteric Buddhism the fusion of the letters HŪṂ \(blue color, male\) and AṂ \(red color, female\) signifies the union of male and female, which represents the real. If this fusion occurs in all the inner hearths, they all represent the real, which makes this fire oblation practice more excellent. The letter VAṂ, however, generally symbolizes male. It may be that the letter VAṂ colored in red symbolizes female in this context.
 
-67. See Appendix, Source Text no. 8.
+[^67]: See Appendix, Source Text no. 8.
 
 
 

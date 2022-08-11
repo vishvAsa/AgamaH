@@ -187,196 +187,196 @@ Bajra. lights flame from lamp, places it under wood in clay bowl \(*= Bhuta Agni
 
 
 
-1. *PsP* to the flame in clay bowl; bit of each of 32 grains dropped in clay bowl flame
+[^1]: *PsP* to the flame in clay bowl; bit of each of 32 grains dropped in clay bowl flame
 
-2. Bundle of *Sintā* \(wood\) lit from the clay bowl flame, then put into *homa kuṇḍa* to ignite it \(*= Agni sthāpana*\)
+[^2]: Bundle of *Sintā* \(wood\) lit from the clay bowl flame, then put into *homa kuṇḍa* to ignite it \(*= Agni sthāpana*\)
 
-3. Place a flower into the *homa kuṇḍa* fire  
+[^3]: Place a flower into the *homa kuṇḍa* fire  
 \(*= Samayāgni bhāvanā*: visualization of samayā Agni\)
 
-4. Bajra. shows *takkirāja mu*  
+[^4]: Bajra. shows *takkirāja mu*  
 *drā*, lights incense, does *nirānjana*, offers water used for foot-washing and mouth purification, from conch to Samayā Agni
 
 \(*= samayā Agniāhvahana:* Invoking Samayā Agni\)
 
-5. Sprinkle water from conch and *pañca-gavya* from bowl w/*durvā* grass
+[^5]: Sprinkle water from conch and *pañca-gavya* from bowl w/*durvā* grass
 
-6. *PSP* offered to the Samayā Agni and eight directional deities \(*dikpāla*\)
+[^6]: *PSP* offered to the Samayā Agni and eight directional deities \(*dikpāla*\)
 
-7. Cooking ghee: *jajamāna* holds ladle; Bajra. touches ladle 108 times with ritual *catvā*  
+[^7]: Cooking ghee: *jajamāna* holds ladle; Bajra. touches ladle 108 times with ritual *catvā*  
 \(= *grhta* ś*odhana*\)
 
-8. *Jajamāna* holding ladle, asked to take black sesame seeds in his right hand, touch his body all over, put them in the cooked ghee in the ladle; then told to look for his reflection in it
+[^8]: *Jajamāna* holding ladle, asked to take black sesame seeds in his right hand, touch his body all over, put them in the cooked ghee in the ladle; then told to look for his reflection in it
 
-9. Bajra. offers ghee from ladle three times to Agni
+[^9]: Bajra. offers ghee from ladle three times to Agni
 
-10. Bajra. touches all thirty-two grains in bowls and *catvā* and *sulāpā*
+[^10]: Bajra. touches all thirty-two grains in bowls and *catvā* and *sulāpā*
 
-11. One piece of kuśa grass dipped in ghee to Agni
+[^11]: One piece of kuśa grass dipped in ghee to Agni
 
-12. One piece Hombi26 dipped into ghee to Agni
+[^12]: One piece Hombi26 dipped into ghee to Agni
 
-13. Each sample of thirty-two grains \(each with mantra\)
+[^13]: Each sample of thirty-two grains \(each with mantra\)
 
-14. In *sulāpā*, place cow milk, wave it three times over *homa kuṇḍa*
+[^14]: In *sulāpā*, place cow milk, wave it three times over *homa kuṇḍa*
 
-15. First ghee added to *sulāpā*, then Pp on this
+[^15]: First ghee added to *sulāpā*, then Pp on this
 
-16. All poured down to Agni \(*= Pratham Agni Āhuti*\)
+[^16]: All poured down to Agni \(*= Pratham Agni Āhuti*\)
 
-17. Bajra. does \[*Pa. Lā. Gha. Stu. Ta. śatākṣara*\]
+[^17]: Bajra. does \[*Pa. Lā. Gha. Stu. Ta. śatākṣara*\]
 
-18. Pours water from *kalaśa* to conch, then sprinkles it to Agni  
+[^18]: Pours water from *kalaśa* to conch, then sprinkles it to Agni  
 \(*= Jñāna Agni-agni bhāvanā:* visualization of Jñāna Agni \+ visualization of the union of Samaya Agni and Jñāna Agni\)
 
-19. *PsP* to Jñāna Agni
+[^19]: *PsP* to Jñāna Agni
 
-20. One piece of Hombi dipped into ghee
+[^20]: One piece of Hombi dipped into ghee
 
-21. Sample of each of thirty-two grains \(each with mantra\)
+[^21]: Sample of each of thirty-two grains \(each with mantra\)
 
-22. Ghee added to *sulāpā*, then Pp on this
+[^22]: Ghee added to *sulāpā*, then Pp on this
 
-23. All poured down \(= *jñāna āhuti*\)
+[^23]: All poured down \(= *jñāna āhuti*\)
 
-24. Offering *hojā-dojā*27: *hojā* dipped in cow milk, *dojā* dipped in ghee**;** to Agni
+[^24]: Offering *hojā-dojā*27: *hojā* dipped in cow milk, *dojā* dipped in ghee**;** to Agni
 
 
 
 ### *Deity* P*ū*j*ā*
 
-25. Bajra. does \[Pā Ā. Dhu. Ni. Adhye *ṣ* anā**\]**, then *snāna, dhāramaṇḍala* made, then offerings of red \+ yellow powder \(*sinha*\), thread, flowers, food, fruit, cow milk, liquor, ending with lamp offering to deity
+[^25]: Bajra. does \[Pā Ā. Dhu. Ni. Adhye *ṣ* anā**\]**, then *snāna, dhāramaṇḍala* made, then offerings of red \+ yellow powder \(*sinha*\), thread, flowers, food, fruit, cow milk, liquor, ending with lamp offering to deity
 
-26. Offering sample of thirty-two grains
+[^26]: Offering sample of thirty-two grains
 
-27. Ghee added to *sulāpā*, then Pp on this
+[^27]: Ghee added to *sulāpā*, then Pp on this
 
-28. All poured \(*= devatā āhuti*\)
+[^28]: All poured \(*= devatā āhuti*\)
 
-29. TāyaJāpa: Bajra. pours water, does *puṣpa-nyāsa*, then does  
+[^29]: TāyaJāpa: Bajra. pours water, does *puṣpa-nyāsa*, then does  
 \[*Pa. Lā. Gha. Stu. Ta*\]. Then chants mantra holding rosary in left hand, puffed rice in right hand
 
-30. Puffed rice offered to deity
+[^30]: Puffed rice offered to deity
 
-31. *Dakṣiṇā* offered to deity
+[^31]: *Dakṣiṇā* offered to deity
 
-32. Rice, water, flower offered to deity
+[^32]: Rice, water, flower offered to deity
 
-33. *Satākṣara* chant
+[^33]: *Satākṣara* chant
 
-34. *Kāsāyavastra* \(red scarf\) and *āhuti* affirmation \(*samkalpa*\) by *jajamāna*, then he hands it to the Bajra.
+[^34]: *Kāsāyavastra* \(red scarf\) and *āhuti* affirmation \(*samkalpa*\) by *jajamāna*, then he hands it to the Bajra.
 
-35. Bajra. ties on red scarf over one shoulder, offers *āhuti* one thousand times
+[^35]: Bajra. ties on red scarf over one shoulder, offers *āhuti* one thousand times
 
-36. Ghee added to *sulāpā*, then Pp on this
+[^36]: Ghee added to *sulāpā*, then Pp on this
 
-37. All poured down to Agni \(= *sahasra āhuti*\)
+[^37]: All poured down to Agni \(= *sahasra āhuti*\)
 
-38. \[Pa. Lā. Gha. Stu. Ta. *ākṣara*\] to Agni
+[^38]: \[Pa. Lā. Gha. Stu. Ta. *ākṣara*\] to Agni
 
 
 
 ### *Bali* P*ū*j*ā*
 
-39. Bajra. tells *jajamāna* to offer water from conch to big clay plate \(*bali*\) that contains many materials for offering
+[^39]: Bajra. tells *jajamāna* to offer water from conch to big clay plate \(*bali*\) that contains many materials for offering
 
-40. Bajra. shows *garuḍa mudrā*
+[^40]: Bajra. shows *garuḍa mudrā*
 
-41. *Jajamāna* offers water three times from conch to *bali*
+[^41]: *Jajamāna* offers water three times from conch to *bali*
 
-42. Bajra. shows *ākarsanāi mudrā*
+[^42]: Bajra. shows *ākarsanāi mudrā*
 
-43. Bajra. offers flower, *Jajamāna* puts on bali
+[^43]: Bajra. offers flower, *Jajamāna* puts on bali
 
-44. \[Pa. Lā. Gha. Stu. ta\]
+[^44]: \[Pa. Lā. Gha. Stu. ta\]
 
-45. Bajra. offers rice/flower/water in one hand; gives to *Jajamāna* to offer to *bali*, done four times but with different mantras chanted by Bajra. *Jajamāna* is told to pour cow milk \[and/or liquor\] on *bali* from container
+[^45]: Bajra. offers rice/flower/water in one hand; gives to *Jajamāna* to offer to *bali*, done four times but with different mantras chanted by Bajra. *Jajamāna* is told to pour cow milk \[and/or liquor\] on *bali* from container
 
-46. *PsP* to *Bali*
+[^46]: *PsP* to *Bali*
 
 
 
 ### *Cakra* P*ū*j*ā*
 
-47. *Jajamāna* does **Pp** to deities in all the directions
+[^47]: *Jajamāna* does **Pp** to deities in all the directions
 
 
 
 ### *Ś*i*ṣ*a-adhiv*ā**ṣ*ana
 
-48. *Jajamāna*s sit in row, eldest closest to Agni, youngest at end; all hold string from the *kalaśa*; female Bajrācārya assists; Bajra. puts piece of flower from offering plate on the heads of each person in row; does *nirāñjana; lohā-Agni rakṣā*;
+[^48]: *Jajamāna*s sit in row, eldest closest to Agni, youngest at end; all hold string from the *kalaśa*; female Bajrācārya assists; Bajra. puts piece of flower from offering plate on the heads of each person in row; does *nirāñjana; lohā-Agni rakṣā*;
 
-49. pour out *phala abhiṣekha* on each person’s head
+[^49]: pour out *phala abhiṣekha* on each person’s head
 
 
 
 ### **Kigatine
 
-50. *Jajamāna* is asked to make a maṇḍala with white stone powder on the ground and to put ten flower pieces on it to do the Pp, to put flower and rice with water on it.
+[^50]: *Jajamāna* is asked to make a maṇḍala with white stone powder on the ground and to put ten flower pieces on it to do the Pp, to put flower and rice with water on it.
 
-51. All *Jajamāna*s offer rice, following Bajra.
+[^51]: All *Jajamāna*s offer rice, following Bajra.
 
 
 
 ### Purna *Ā*huti
 
-52. Shows *garuḍamudrā*
+[^52]: Shows *garuḍamudrā*
 
-53. Bajra. gives water three times from conch
+[^53]: Bajra. gives water three times from conch
 
-54. Shows *ākaraṣanādi mudrā*s
+[^54]: Shows *ākaraṣanādi mudrā*s
 
-55. Puts bundle \(clothes, various items supplied by *baniy*ā: fruits, flowers, sweets, medicinal herbs, Saki, special incense, betel leaf\) to Agni
+[^55]: Puts bundle \(clothes, various items supplied by *baniy*ā: fruits, flowers, sweets, medicinal herbs, Saki, special incense, betel leaf\) to Agni
 
-56. *Hombi*
+[^56]: *Hombi*
 
-57. Offering most of remaining thirty-two grains
+[^57]: Offering most of remaining thirty-two grains
 
-58. Ghee added to *sulāpā*, a piece of *pañcasutra* then Pp on this
+[^58]: Ghee added to *sulāpā*, a piece of *pañcasutra* then Pp on this
 
-59. All poured down \(*= Purna āhuti*\)
+[^59]: All poured down \(*= Purna āhuti*\)
 
-60. *Sulāpā* touched to heads of *jajamāna*s
+[^60]: *Sulāpā* touched to heads of *jajamāna*s
 
-61. *Jajamāna* is asked for ash from *homa* \(*yajña rakṣā*\) and gets with *catuā*
+[^61]: *Jajamāna* is asked for ash from *homa* \(*yajña rakṣā*\) and gets with *catuā*
 
-62. *Jajamāna* holds *catuā* with ash, Bajra. takes *tikā* \(*yajña rakṣā*\) high on forehead for himself, then all get *tikā* for themselves
+[^62]: *Jajamāna* holds *catuā* with ash, Bajra. takes *tikā* \(*yajña rakṣā*\) high on forehead for himself, then all get *tikā* for themselves
 
-63. \[Pa. L*ā*. Gha. Stu. ta. *śatākṣara*\]
+[^63]: \[Pa. L*ā*. Gha. Stu. ta. *śatākṣara*\]
 
-64. Bajra. chants of forgiveness for any mistakes in ritual
+[^64]: Bajra. chants of forgiveness for any mistakes in ritual
 
-65. *Jajamāna* asked to offer curd offering to *kalaśa*, and so on.
+[^65]: *Jajamāna* asked to offer curd offering to *kalaśa*, and so on.
 
-66. Bajra. receives *tikā* and gives *tikā* to all in attendance
+[^66]: Bajra. receives *tikā* and gives *tikā* to all in attendance
 
-67. All in attendance get *tikā*, give *dakṣiṇā* to Bajrācārya priest\(s\).28
+[^67]: All in attendance get *tikā*, give *dakṣiṇā* to Bajrācārya priest\(s\).28
 
 
 
 ### *Ś*es*ā* *Ā*huti
 
-68. Bajra. Absorbs chief deity of *maṇḍalas* into self, visualizes Agni deity as earlier
+[^68]: Bajra. Absorbs chief deity of *maṇḍalas* into self, visualizes Agni deity as earlier
 
-69. Shows *garuḍa mudrā*
+[^69]: Shows *garuḍa mudrā*
 
-70. Offering *padya, argha, acamana* to *āhuti Śesā Āhuti*
+[^70]: Offering *padya, argha, acamana* to *āhuti Śesā Āhuti*
 
-71. Remaining grains collected, put in common vessel, final offering to Agni
+[^71]: Remaining grains collected, put in common vessel, final offering to Agni
 
-72. Remaining ghee added to *sulāpā*, then Pp on this
+[^72]: Remaining ghee added to *sulāpā*, then Pp on this
 
-73. All poured \(*= āhuti Śesā Āhuti*\) to Agni
+[^73]: All poured \(*= āhuti Śesā Āhuti*\) to Agni
 
-74. \[Pa. La. Gha. Stu. ta. *Śatākṣara*\]
+[^74]: \[Pa. La. Gha. Stu. ta. *Śatākṣara*\]
 
-75. *Visarjana* Closing of Introductory Ritual
+[^75]: *Visarjana* Closing of Introductory Ritual
 
-76. *Jajamāna* takes *vajra*, touches everything in ritual
+[^76]: *Jajamāna* takes *vajra*, touches everything in ritual
 
-77. The holy water from *kalaśa* given to all \(water initiation\)
+[^77]: The holy water from *kalaśa* given to all \(water initiation\)
 
-78. Everything now dismantled, spent offerings, ash thrown in a river, and bricks used by the participants. Some keep ash as *prasad* and use it medicinally on forehead daily or occasionally.
+[^78]: Everything now dismantled, spent offerings, ash thrown in a river, and bricks used by the participants. Some keep ash as *prasad* and use it medicinally on forehead daily or occasionally.
 
 
 
@@ -458,97 +458,97 @@ The concept of *upāya-kauśala* \(“skillful means”\) is seen as underlying 
 
 The following works, with brief commentary, are known to be authoritative in modern Newar praxis. This section is necessarily impressionistic, drawing on Dr. Bajrācārya’s examination of works related to the performance of a variety of *homa* rituals.
 
-1. *Mañjuśrīmūlakalpa.* In chapter 14 of this important work in local tradition are discussed the *Bāhya* or *Loukika homa*, including the places for performing the ritual, construction of the fire pit \(*Agnikuṇḍa\)*, the types of wood and other materials to be used, number of oblations, the sources of the mantras, and the range of results obtained, from worldly to supra mundane.
+[^1]: *Mañjuśrīmūlakalpa.* In chapter 14 of this important work in local tradition are discussed the *Bāhya* or *Loukika homa*, including the places for performing the ritual, construction of the fire pit \(*Agnikuṇḍa\)*, the types of wood and other materials to be used, number of oblations, the sources of the mantras, and the range of results obtained, from worldly to supra mundane.
 
-2. *Guhyasamāja Tantra.* Here also is treatment of the *Bāhya homa*, and especially the deity to be invoked, qualification of a person who will do *homa*, purpose of *homa*, objects to be put in fire. The text uses *sandhyā bhāhya* in some places.
+[^2]: *Guhyasamāja Tantra.* Here also is treatment of the *Bāhya homa*, and especially the deity to be invoked, qualification of a person who will do *homa*, purpose of *homa*, objects to be put in fire. The text uses *sandhyā bhāhya* in some places.
 
-3. *Cakrasamvara Tantra* has four chapters that discuss the *Bāhya* and *Adhyātma \(lokottara\)-homa* rituals.
+[^3]: *Cakrasamvara Tantra* has four chapters that discuss the *Bāhya* and *Adhyātma \(lokottara\)-homa* rituals.
 
-4. The *Vasanta-tilaka* and its *tikā* provide details of the *Adhyatmika homa*.
+[^4]: The *Vasanta-tilaka* and its *tikā* provide details of the *Adhyatmika homa*.
 
-5. *Hevajra Tantra* has sections devoted to the *laukika-homa*, shapes and sizes of *homa-kuṇḍa* according to the purpose, materials according to the purpose, and the corresponding mantras.
+[^5]: *Hevajra Tantra* has sections devoted to the *laukika-homa*, shapes and sizes of *homa-kuṇḍa* according to the purpose, materials according to the purpose, and the corresponding mantras.
 
-6. *Kriśṇayamāri Tantra* and its commentary discusses the *laukika-homa*, also. It contains information on the shapes and sizes of *homa-kuṇḍa* according the purpose of the rite, specific mental states to be formed according the *homa*’s purpose, and specific dates according to propose. The commentary to this text adds information about the symbols to be written in *homa-kuṇḍa*, materials to be put in fire, the iconographic description of Agnideva, and mantra recitations.
+[^6]: *Kriśṇayamāri Tantra* and its commentary discusses the *laukika-homa*, also. It contains information on the shapes and sizes of *homa-kuṇḍa* according the purpose of the rite, specific mental states to be formed according the *homa*’s purpose, and specific dates according to propose. The commentary to this text adds information about the symbols to be written in *homa-kuṇḍa*, materials to be put in fire, the iconographic description of Agnideva, and mantra recitations.
 
-7. *Samvarodaya Tantra*, chapter 23, contains a discussion of both the *lokottara* and *laukika-homa*s. It has specific details of the *laukika-homa*: its purposes and flame types leading to various results.
+[^7]: *Samvarodaya Tantra*, chapter 23, contains a discussion of both the *lokottara* and *laukika-homa*s. It has specific details of the *laukika-homa*: its purposes and flame types leading to various results.
 
-8. *Kriyāsaṃgraha by Kuladatta* is a central reference in Newar tradition.35 Its discussion is primarily on the *Bāhya-homa* and details of the *homa* ritual associated with the establishment of sacred icons and monasteries \(*pratisthā*\).
+[^8]: *Kriyāsaṃgraha by Kuladatta* is a central reference in Newar tradition.35 Its discussion is primarily on the *Bāhya-homa* and details of the *homa* ritual associated with the establishment of sacred icons and monasteries \(*pratisthā*\).
 
-9. *Kālacakra Tantra* and commentary *Vimalaprabhā* have extensive information on the shapes and sizes of *homa-kuṇḍa* for the *Bāhya homa*, symbols to be written in it, *homa*-ritual procedure, mantra *niyama* \(rules for making mantra\) and so on. The commentary contains various iconographic descriptions of *Samaya Agni* for visualization, invocations, and *pūjā* procedures for it, sources for Agni according to purpose, authority of *homa, viśuddhi* \(meaning of iconographic description\) of *vaisvanara* according to the purpose, techniques, and mantras for offering *āhuti* and so on.
+[^9]: *Kālacakra Tantra* and commentary *Vimalaprabhā* have extensive information on the shapes and sizes of *homa-kuṇḍa* for the *Bāhya homa*, symbols to be written in it, *homa*-ritual procedure, mantra *niyama* \(rules for making mantra\) and so on. The commentary contains various iconographic descriptions of *Samaya Agni* for visualization, invocations, and *pūjā* procedures for it, sources for Agni according to purpose, authority of *homa, viśuddhi* \(meaning of iconographic description\) of *vaisvanara* according to the purpose, techniques, and mantras for offering *āhuti* and so on.
 
 
 
 ## NOTES
 
-1. By 1850, this left only the local Tibetan *sangh*as where Newars could seek ordination into celibate monastic life; from the twentieth century onward, modern Theravāda monastic traditions added to this diversity \(Levine and Gellner 2005\). Lewis and Bajracarya have recently authored a long chapter to begin the task of writing the history of Newar Vajrayāna Buddhist traditions. It will appear in the volume edited by David Gray and Ryan Overbey, *Tantra on the Move* \(New York: Oxford University Press, forthcoming\).
+[^1]: By 1850, this left only the local Tibetan *sangh*as where Newars could seek ordination into celibate monastic life; from the twentieth century onward, modern Theravāda monastic traditions added to this diversity \(Levine and Gellner 2005\). Lewis and Bajracarya have recently authored a long chapter to begin the task of writing the history of Newar Vajrayāna Buddhist traditions. It will appear in the volume edited by David Gray and Ryan Overbey, *Tantra on the Move* \(New York: Oxford University Press, forthcoming\).
 
-2. Sukumar Dutt, *Buddhist Monks and Monasteries of India* \(London: Allen and Unwin, 1962\), p. 389.
+[^2]: Sukumar Dutt, *Buddhist Monks and Monasteries of India* \(London: Allen and Unwin, 1962\), p. 389.
 
-3. From the Sanskrit term *Vande* or *vandanā*, an ancient Indic term of respect for monks.
+[^3]: From the Sanskrit term *Vande* or *vandanā*, an ancient Indic term of respect for monks.
 
-4. In this chapter, we follow the Newar tradition’s usage of spelling the caste name as “Bajrācārya” and the classical Indic-originating vajrayāna ritualist as *vajrācārya.* There has for centuries been the preference for Buddhist Newars to write Sanskrit words as they are pronounced, not as in the written texts.
+[^4]: In this chapter, we follow the Newar tradition’s usage of spelling the caste name as “Bajrācārya” and the classical Indic-originating vajrayāna ritualist as *vajrācārya.* There has for centuries been the preference for Buddhist Newars to write Sanskrit words as they are pronounced, not as in the written texts.
 
-5. Symptomatic of the philosophical focus of modern Buddhist studies, there has never been a systematic study of Mahāyāna rituals or even *homa* as found in the major tantric works. See, e.g., Schopen 1991.
+[^5]: Symptomatic of the philosophical focus of modern Buddhist studies, there has never been a systematic study of Mahāyāna rituals or even *homa* as found in the major tantric works. See, e.g., Schopen 1991.
 
-6. In Appendix I, there are notes on textual sources of *homa* found in archives reviewed by Dr. Bajrācārya in Nepal.
+[^6]: In Appendix I, there are notes on textual sources of *homa* found in archives reviewed by Dr. Bajrācārya in Nepal.
 
-7. New *bajrācāryas* begin their priestly *acārya* career performing a *māmsa āhuti homa* at *pitha*s, sites where a temple to the *aṣṭamātṛk*ā goddesses are found.
+[^7]: New *bajrācāryas* begin their priestly *acārya* career performing a *māmsa āhuti homa* at *pitha*s, sites where a temple to the *aṣṭamātṛk*ā goddesses are found.
 
-8. *Kalaśārcananādi Homa Vidhāna-Pustakam*, 2nd ed. \(Kathmandu: Sankata Press, n.d.\).
+[^8]: *Kalaśārcananādi Homa Vidhāna-Pustakam*, 2nd ed. \(Kathmandu: Sankata Press, n.d.\).
 
-9. This source is not identified by its title by Amoghabajra, but only with a brief comment on page 21 of his book citing the manuscript’s colophon: *Thugu kriyā sāphu Ne. Sam. 650 sālasa kwathubāhāya Bajrācārya Śri Lum Gopālanam cvayā ta:gulinam svayā prakaśa yānā*. “This ritual manual was copied by one Śri Lum Gopalanam Bajrācārya of Kwathu Bāhā \[modern name, Kwā Bāhā of Kathmandu\] in 1530\[C.E.\].”
+[^9]: This source is not identified by its title by Amoghabajra, but only with a brief comment on page 21 of his book citing the manuscript’s colophon: *Thugu kriyā sāphu Ne. Sam. 650 sālasa kwathubāhāya Bajrācārya Śri Lum Gopālanam cvayā ta:gulinam svayā prakaśa yānā*. “This ritual manual was copied by one Śri Lum Gopalanam Bajrācārya of Kwathu Bāhā \[modern name, Kwā Bāhā of Kathmandu\] in 1530\[C.E.\].”
 
-10. For those in the Manandhar caste \(traditional oil pressers\), this rite is done not only on the twelfth day, as well as on the forty-fifth day, as well as after the third, sixth, and twelfth months; for the Tandukar caste \(traditional rice makers\), it is only done on the twelfth and forty-fifth days.
+[^10]: For those in the Manandhar caste \(traditional oil pressers\), this rite is done not only on the twelfth day, as well as on the forty-fifth day, as well as after the third, sixth, and twelfth months; for the Tandukar caste \(traditional rice makers\), it is only done on the twelfth and forty-fifth days.
 
-11. Note that the *Kālacakra Tantra* calls for doing *homa* before the *dikśā*; but Newar tantric practitioners always do it afterwards. This may reflect how this text is not as important in Nepal. However, there is an oral recollection of a senior *bajrācārya* that the Kālachakra initiation was once done in recent times in Itum Bāhā, one of the eighteen main monasteries of Kathmandu city.
+[^11]: Note that the *Kālacakra Tantra* calls for doing *homa* before the *dikśā*; but Newar tantric practitioners always do it afterwards. This may reflect how this text is not as important in Nepal. However, there is an oral recollection of a senior *bajrācārya* that the Kālachakra initiation was once done in recent times in Itum Bāhā, one of the eighteen main monasteries of Kathmandu city.
 
-12. The sixth, seventh, and eighth life-cycle rites: Passages of life.
+[^12]: The sixth, seventh, and eighth life-cycle rites: Passages of life.
 
-13. The *saptavidhanuttarapūjā* \(“sevenfold supreme offering”\) for which patrons make 108 or 1,008 offerings of seven substances, and the v*ajrācārya* priest summons the bodhisattva Avalokiteśvara to receive them.
+[^13]: The *saptavidhanuttarapūjā* \(“sevenfold supreme offering”\) for which patrons make 108 or 1,008 offerings of seven substances, and the v*ajrācārya* priest summons the bodhisattva Avalokiteśvara to receive them.
 
-14. Regarding the symbolic associations of water and fire in Indo-Iranian ritual, see Holly Grether, “The Ritual Interplay of Fire and Water in Hindu and Buddhist Tantras,” in this volume.
+[^14]: Regarding the symbolic associations of water and fire in Indo-Iranian ritual, see Holly Grether, “The Ritual Interplay of Fire and Water in Hindu and Buddhist Tantras,” in this volume.
 
-15. What follows is the tradition that is normative for Kathmandu city, based on the authoritative text published by Amoghabajra. There are slight variations in *homa* performance in Patan and Bhaktapur.
+[^15]: What follows is the tradition that is normative for Kathmandu city, based on the authoritative text published by Amoghabajra. There are slight variations in *homa* performance in Patan and Bhaktapur.
 
-16. Eighteen types of wood sold especially for *homa*, tied up in ready-made small bundles.
+[^16]: Eighteen types of wood sold especially for *homa*, tied up in ready-made small bundles.
 
-17. From a clean, flowing river.
+[^17]: From a clean, flowing river.
 
-18. Red and yellow powder, used for putting *tika*s on icons, *pūjā* equipment, people.
+[^18]: Red and yellow powder, used for putting *tika*s on icons, *pūjā* equipment, people.
 
-19. Five cow products: milk, ghee, yogurt, dung, urine.
+[^19]: Five cow products: milk, ghee, yogurt, dung, urine.
 
-20. Fruits, flowers, medicinal herbs, sweets, *saki root*, special incense, betel leaf.
+[^20]: Fruits, flowers, medicinal herbs, sweets, *saki root*, special incense, betel leaf.
 
-21. Although it is called “32 grains,” the ingredients also include fruits such as sugar cane, *amba* \(“Himalayan fruit”\), and pomegranate.
+[^21]: Although it is called “32 grains,” the ingredients also include fruits such as sugar cane, *amba* \(“Himalayan fruit”\), and pomegranate.
 
-22. The details of these common Newar Buddhist rituals are described in Locke \(1980\) and Gellner \(1992\). The normal order is: *surya argha, gurumaṇḍala, pañcagavya, sinhamu pūjā, lankhabali, trisamādhi, kalaśa archan pūjā*, then the commence of the *homa* proper.
+[^22]: The details of these common Newar Buddhist rituals are described in Locke \(1980\) and Gellner \(1992\). The normal order is: *surya argha, gurumaṇḍala, pañcagavya, sinhamu pūjā, lankhabali, trisamādhi, kalaśa archan pūjā*, then the commence of the *homa* proper.
 
-23. Mudras are done in order: *Bīnā, Vamsa, Mrḍang, Muruja, Lāsyā, Mālā, Gitā, Nrtyā, Puspāa, Dhūpāa, Dīpāa, Gandhā, Ādaśa, Rasa, Sparśa, Dharmadhātugarbha*.
+[^23]: Mudras are done in order: *Bīnā, Vamsa, Mrḍang, Muruja, Lāsyā, Mālā, Gitā, Nrtyā, Puspāa, Dhūpāa, Dīpāa, Gandhā, Ādaśa, Rasa, Sparśa, Dharmadhātugarbha*.
 
-24. Indra, Yama, Varuna, Kuvera, Agni, Nairti, Vāyu, Isana, Brahmā, Pṛthivi, Surya, Candra, Nāga, Aśura, Yakṣa.
+[^24]: Indra, Yama, Varuna, Kuvera, Agni, Nairti, Vāyu, Isana, Brahmā, Pṛthivi, Surya, Candra, Nāga, Aśura, Yakṣa.
 
-25. For the Harvard ritual on October 1, 2010, this deity was Mañjuśri. It could be any bodhisattva on other occasions.
+[^25]: For the Harvard ritual on October 1, 2010, this deity was Mañjuśri. It could be any bodhisattva on other occasions.
 
-26. Eighteen types of wood dipped in Ghee, placed one by one in fire kuṇḍa \(each with mantra\) in text, not done today; replaced by step no. 20.
+[^26]: Eighteen types of wood dipped in Ghee, placed one by one in fire kuṇḍa \(each with mantra\) in text, not done today; replaced by step no. 20.
 
-27. *hojā-dojā*: pair of objects made of flattened rice, boiled rice, or fried wheat grains, solid and oblong in shape.
+[^27]: *hojā-dojā*: pair of objects made of flattened rice, boiled rice, or fried wheat grains, solid and oblong in shape.
 
-28. At this time, all in attendance who wish *tika* from the priest can come forward to receive the *tika*; giving *dakṣina* \(payment\) is customary in return.
+[^28]: At this time, all in attendance who wish *tika* from the priest can come forward to receive the *tika*; giving *dakṣina* \(payment\) is customary in return.
 
-29. The *māmsa āhuti homa* is also called “*pitha māmsāhuti homa*” in local parlance.
+[^29]: The *māmsa āhuti homa* is also called “*pitha māmsāhuti homa*” in local parlance.
 
-30. Tantric songs which originate with the supposedly spontaneous expression of awakening by early figures known as the *Mahāsiddhas*. See, recently, Jackson \(2004\).
+[^30]: Tantric songs which originate with the supposedly spontaneous expression of awakening by early figures known as the *Mahāsiddhas*. See, recently, Jackson \(2004\).
 
-31. It is believed in Vajrayāna that one who passes away practicing “*utkrānti yoga*” successfully will obtain *arupavacara bhūmi* \(the “formless realm”\), from where final emancipation is possible. On the basis of this idea, “*utkrānti yoga*” is performed by a bajracārya for the deceased.
+[^31]: It is believed in Vajrayāna that one who passes away practicing “*utkrānti yoga*” successfully will obtain *arupavacara bhūmi* \(the “formless realm”\), from where final emancipation is possible. On the basis of this idea, “*utkrānti yoga*” is performed by a bajracārya for the deceased.
 
-32. More technically, proximate to the navel, where the *nirmāna cakra* is located.
+[^32]: More technically, proximate to the navel, where the *nirmāna cakra* is located.
 
-33. Michael Witzel, “On the History and Present State of Vedic Tradition in Nepal,” *Vasudha* 15 \(1976\): 17–39; see also Witzel 1992.
+[^33]: Michael Witzel, “On the History and Present State of Vedic Tradition in Nepal,” *Vasudha* 15 \(1976\): 17–39; see also Witzel 1992.
 
-34. This is popularly known as the “*Gha:su-Jagya/yajña*” in Newari.
+[^34]: This is popularly known as the “*Gha:su-Jagya/yajña*” in Newari.
 
-35. For this article, Prof. Bajrācārya consulted the *Kriyāsaṃgraha* manuscript, with the colophon date of N.S. 783 \(1662 CE\), now in the library of Subhsa Bajrācārya, in the Pakanajol neighborhood of Kathmandu.
+[^35]: For this article, Prof. Bajrācārya consulted the *Kriyāsaṃgraha* manuscript, with the colophon date of N.S. 783 \(1662 CE\), now in the library of Subhsa Bajrācārya, in the Pakanajol neighborhood of Kathmandu.
 
 
 

@@ -113,7 +113,7 @@ The basis of the Vedic *śrauta*, or “solemn” rituals,32 therefore, is the i
 
 Although the *navarātra* fire sacrifice is not a public *śrauta* ritual, the identification of the sacrificer, sacrifice, and the deity is strongly maintained. It is argued that the priest should know the deeper identification in order for the ritual to be effective—that is, for the fulfillment of his wishes as expressed during the ritual of making solemn declaration \(*saṃkalpa*\). He should also know the secret meanings of words and should perform the ritual without any fault. He should also have complete faith \(*śraddhā*\) in the power of the *yajña* and its effects in this world and after death. In this *homa* ritual, the *brāhmaṇa* priest is identified with the deities, and during the fire installation he repeatedly stresses that he acts with his arms, which have become those of the Aśvins, and his hands, which are those of the god Pūṣan \(TS 1.3.1.1\).35 His words, being drawn from the Vedic texts, are considered to be divinely potent and they are recited with precision, with proper intonation, formulation, and meter.36
 
-The sacrificer is made godlike through consecration \(*dīkṣā*\) in order for the sacrifice to be acceptable to the deities, because, according to traditional conceptions regarding Vedic ritual, only a god can offer to the gods or deities. In the *navarātra* ritual, following the mythic narrative as given in the *Devī Bhāgavata* and the *Kālikā Purāṇa*, it is the god Śiva \(the primal *puruṣa*\) who becomes the sacrificial victim, the Mahiṣa demon.37 In the sacrifice of Mahiṣa, as explained in these *Purāṇa*s, the goddess and Mahiṣa are also symbolically united through both devotional love and violence. Additionally, the sacrificial animal becomes a substitution of the sacrificer38 and the deity as the ritual brings together sacrificer, sacrificial object, and deity.39 The fact that the sacrificial object is also a devotional self-sacrifice is shown literally in the narrative of the Devī Māhātmya. There we find the king Suratha and the merchant Samadhi offering devotional worship, including their own blood, to the goddess.
+The sacrificer is made godlike through consecration \(*dīkṣā*\) in order for the sacrifice to be acceptable to the deities, because, according to traditional conceptions regarding Vedic ritual, only a god can offer to the gods or deities. In the *navarātra* ritual, following the mythic narrative as given in the *Devī Bhāgavata* and the *Kālikā Purāṇa*, it is the god Śiva \(the primal *puruṣa*\) who becomes the sacrificial victim, the Mahiṣa demon.37 In the sacrifice of Mahiṣa, as explained in these *Purāṇa*s, the goddess and Mahiṣa are also symbolically united through both devotional love and violence. Additionally, the sacrificial animal becomes a substitution of the sacrifice[^38] and the deity as the ritual brings together sacrificer, sacrificial object, and deity.39 The fact that the sacrificial object is also a devotional self-sacrifice is shown literally in the narrative of the Devī Māhātmya. There we find the king Suratha and the merchant Samadhi offering devotional worship, including their own blood, to the goddess.
 
 Specific aspects of the *navarātra* offer evidence of its connections with Vedic ritual practices. These include the centrality of identification, most importantly the identity of sacrificer, sacrifice, and deity. In addition to considering the *navarātra* in relation to Vedic ritual practices, it is also revealing to consider its characteristics as a form of magic.
 
@@ -189,171 +189,171 @@ Despite the importance of worshiping the Mother Goddess and her multiple powers 
 
 ## NOTES
 
-1. Gīrvāṇayuddha Bir Bikrama Śāhdev, *Satkarmaratnāvalī, Uttarārdha* \(Kathmandu: His Majesty’s Government, c. 1972\), pp. 222, 228–230.
+[^1]: Gīrvāṇayuddha Bir Bikrama Śāhdev, *Satkarmaratnāvalī, Uttarārdha* \(Kathmandu: His Majesty’s Government, c. 1972\), pp. 222, 228–230.
 
-2. Some of the *Purāṇa*s that describe the *navarātra* festival are the *Agni* \(185.3–15; 268.13–16\), *Bhaviṣya* \(4.138.1–115\), *Brahmavaivarta* \(2.62.1–65.12\), *Bṛhaddharma* \(1.22.17–34\), *Devī* \(22.4–24\), *Devībhāgavata* \(3.26–27; 5.34.12–31\), *Garuḍa* \(1.133.3–134.7\), *Kālikā* \(60.6–80; 61.14–30\), *Nārada* \(1.110.30–34; 117.76–78; 118.17‒22; *Skanda* \(1.2.47.77–82; 5.1.14.4; 18.4; 7.1.83.39–60\), and *Viṣṇudharmottara* \(2.158.1–8\). The description of the ritual in these purāṇic texts suggests its popularity from early on.
+[^2]: Some of the *Purāṇa*s that describe the *navarātra* festival are the *Agni* \(185.3–15; 268.13–16\), *Bhaviṣya* \(4.138.1–115\), *Brahmavaivarta* \(2.62.1–65.12\), *Bṛhaddharma* \(1.22.17–34\), *Devī* \(22.4–24\), *Devībhāgavata* \(3.26–27; 5.34.12–31\), *Garuḍa* \(1.133.3–134.7\), *Kālikā* \(60.6–80; 61.14–30\), *Nārada* \(1.110.30–34; 117.76–78; 118.17‒22; *Skanda* \(1.2.47.77–82; 5.1.14.4; 18.4; 7.1.83.39–60\), and *Viṣṇudharmottara* \(2.158.1–8\). The description of the ritual in these purāṇic texts suggests its popularity from early on.
 
-3. This fact was testified both by Balarām Aryāl himself and by his son, Bhānu Aryāl, from whom I received the manuscripts, as well as from Sūryanāth Arjyāl, who has had many years’ ritual experiences in the Gorkhā palace. See Rājārām Subedī, folio 3.
+[^3]: This fact was testified both by Balarām Aryāl himself and by his son, Bhānu Aryāl, from whom I received the manuscripts, as well as from Sūryanāth Arjyāl, who has had many years’ ritual experiences in the Gorkhā palace. See Rājārām Subedī, folio 3.
 
-4. Pratāpa Siṃha Śāhdev, *Brihat Purascharyarnava*, 4 vols. \(Kathmandu: Nepal Press, 1974\), vol. 1, pp. 1–207; Gīrvānyuddha Bikram Śāhdev, *Satkarmaratnāvalī*, 4 vols. \(Kathmandu: His Majesty’s Government’s Press, 1973\), vol. 1, pp. 201–244. As we will come to know later, the word *deva* was added to the Nepalese kings only from the time of Pr̥thvī Bīr Bikram Śāhdev \(r. 1881–1911\), and afterward this honorific word was used in official documents in references to all the previous Śāh kings as well.
+[^4]: Pratāpa Siṃha Śāhdev, *Brihat Purascharyarnava*, 4 vols. \(Kathmandu: Nepal Press, 1974\), vol. 1, pp. 1–207; Gīrvānyuddha Bikram Śāhdev, *Satkarmaratnāvalī*, 4 vols. \(Kathmandu: His Majesty’s Government’s Press, 1973\), vol. 1, pp. 201–244. As we will come to know later, the word *deva* was added to the Nepalese kings only from the time of Pr̥thvī Bīr Bikram Śāhdev \(r. 1881–1911\), and afterward this honorific word was used in official documents in references to all the previous Śāh kings as well.
 
-5. The interviews were conducted by Rājārām Subedī on February 25 and April 10, 11, and 16, 2011, in the residence of Sūryanāth Aryal. Subedī also collected information from a retired army general, Jasapāu, who had firsthand knowledge of these rituals and of the priest working in the Gorkhā palace.
+[^5]: The interviews were conducted by Rājārām Subedī on February 25 and April 10, 11, and 16, 2011, in the residence of Sūryanāth Aryal. Subedī also collected information from a retired army general, Jasapāu, who had firsthand knowledge of these rituals and of the priest working in the Gorkhā palace.
 
-6. Sanu Bhai Dangol, *The Palace in Nepalese Politics, with special reference to the Politics of 1951–1990* \(Kathmandu: Ratna Pustak Bhandar, 1999\), p. 202.
+[^6]: Sanu Bhai Dangol, *The Palace in Nepalese Politics, with special reference to the Politics of 1951–1990* \(Kathmandu: Ratna Pustak Bhandar, 1999\), p. 202.
 
-7. The main royal *purohita* Siṃharāj writes in the ritual handbook \(1969\):
+[^7]: The main royal *purohita* Siṃharāj writes in the ritual handbook \(1969\):
 
 With a view to preserving and circulating the religious activities as given in the *karmakāṇḍa* \(that department of the Veda which relates to ceremonial acts and sacrificial rites and the merit arising from a due performance thereof\) protected by the lord \(*prabhu*\) His Majesty the king Mahendra Bir Bikram Śāhdeva, the protector of dharma and bestower of the fortune of Nepal, which is the only Hindu kingdom in the world, and with the wish of His Majesty the crown prince \(Birendra\), this book on Agnisthāpanā \(*Installation of Agni*\) prepared in a planned way by the general Dhanaśamśer Jaṅgabahādur Rāṇā and Paṇḍit Kṛṣṇaprasāda Bhaṭṭarai has been read thoroughly and corrected by me. \(“Sammati” \[Agreement\], main *purohita* Siṃharāj\)
 
-8. The compiler was closely associated with the reigning king Mahendra and with the crown prince Birendra, under whose expressed wishes and guardianship he published his handbook through the Royal Nepal Academy; the academy was instituted to protect and promote Nepali culture and tradition. The compiler acknowledges in his “introduction” that he received full support from the royal Paṇḍit Kṛṣṇa Prasāda Bhaṭṭarāī \(*Śāradīyadurgāpūjāpaddhati*, p. ā\), with whom he had earlier published another ritual handbook on the installation and observance of the fire ceremony \(*Agnisthāpanāvidhi*, 1969\), which was given final shape and authority by the main royal *purohita* Siṃharāj himself \(see the acknowledgment by the main royal *purohita*\). These ritual manuals were published by the Royal Nepal Academy and His Majesty’s Government’s Department of Publicity, and they include pictures of the reigning king and the crown prince at the front of each publication, suggesting that these texts were sanctioned by the royal palace and authorized by the royal *purohita*s themselves. The interview with the former *purohita* and palace official in Gorkhā led me to believe that Rāṇā’s ritual handbook was the basis of the rituals of these places. However, the palace official cautioned that Rāṇā’s manual does not contain “every elaborate description” of some of the more secret palace rituals \(Subedī, p. 17\).
+[^8]: The compiler was closely associated with the reigning king Mahendra and with the crown prince Birendra, under whose expressed wishes and guardianship he published his handbook through the Royal Nepal Academy; the academy was instituted to protect and promote Nepali culture and tradition. The compiler acknowledges in his “introduction” that he received full support from the royal Paṇḍit Kṛṣṇa Prasāda Bhaṭṭarāī \(*Śāradīyadurgāpūjāpaddhati*, p. ā\), with whom he had earlier published another ritual handbook on the installation and observance of the fire ceremony \(*Agnisthāpanāvidhi*, 1969\), which was given final shape and authority by the main royal *purohita* Siṃharāj himself \(see the acknowledgment by the main royal *purohita*\). These ritual manuals were published by the Royal Nepal Academy and His Majesty’s Government’s Department of Publicity, and they include pictures of the reigning king and the crown prince at the front of each publication, suggesting that these texts were sanctioned by the royal palace and authorized by the royal *purohita*s themselves. The interview with the former *purohita* and palace official in Gorkhā led me to believe that Rāṇā’s ritual handbook was the basis of the rituals of these places. However, the palace official cautioned that Rāṇā’s manual does not contain “every elaborate description” of some of the more secret palace rituals \(Subedī, p. 17\).
 
-9. In the *Gṛhya-sūtra* texts, *maṇḍala* generally refers to the circle, but over time the term came to include other shapes and diagrams as well. See Shingo Einoo, “The Formation of Hindu Ritual,” in Shingo Einoo and Jun Takashima, eds., *From Material to Deity: Indian Rituals of Consecration* \(New Delhi: Monohar, 2005\), pp. 24–33 \(on “*maṇḍala*”\).
+[^9]: In the *Gṛhya-sūtra* texts, *maṇḍala* generally refers to the circle, but over time the term came to include other shapes and diagrams as well. See Shingo Einoo, “The Formation of Hindu Ritual,” in Shingo Einoo and Jun Takashima, eds., *From Material to Deity: Indian Rituals of Consecration* \(New Delhi: Monohar, 2005\), pp. 24–33 \(on “*maṇḍala*”\).
 
-10. Balaram Aryal, *Navarātra Tathā Yamapañcaka Pūjāvidhi* \(Kathmandu: Triyugā Aphaseṭa Printing Press, 2005\), p. 27. The nine goddesses worshiped during this festival are Śailaputrī, Brahmacāriṇī, Candraghaṇṭā, Kuṣmāṇḍā, Skandamātā, Kāyāyanī, Kālarātrī, Mahāgaurī, and Siddhidātrī \(p. 7\); Dhanaśamaśera Jaṅgabahadura Rāṇa, *Śāradīyadurgāpūjāpaddhati* \(Kathmandu: Royal Nepal Academy, 1975\), cha. The tantric names of more violent forms of the goddess are Rudracaṇḍā, Pracaṇḍā, Caṇḍogrā, Caṇḍanāyikā, Caṇḍā, Caṇḍavatī, Caṇḍarūpā, Aticaṇḍikā, and Mahogracaṇḍikā. For those following the *śrīvidyā* tradition, the form of the main goddess is Tripurāsundarī, and her nine names are Tripurā, Tripureśī, Tripurāsundarī, Tripuravāsinī, Tripurāśrī, Tripurāmālinī, Tripurāsiddhā, Tripurāmbā, and Mahātripurabhairavī \(see Dhanaśamaśera, cha- ja\). However, these ritual manuals have a similar conception of the Supreme Goddess who is regarded as having various names and forms, and all these varied names coalesce into one. Also, when the Supreme Goddess is regarded as Durgā, she is also worshiped as having three different forms: Mahākālī, Mahālakṣmī, and Mahāsarasvatī \(Nārayan Dās Arjyāl, folio 1: “*śrī mahākālī mahālakṣmī mahāsarasvatī svarūpiṇi śrīdurgādevi* …”\).
+[^10]: Balaram Aryal, *Navarātra Tathā Yamapañcaka Pūjāvidhi* \(Kathmandu: Triyugā Aphaseṭa Printing Press, 2005\), p. 27. The nine goddesses worshiped during this festival are Śailaputrī, Brahmacāriṇī, Candraghaṇṭā, Kuṣmāṇḍā, Skandamātā, Kāyāyanī, Kālarātrī, Mahāgaurī, and Siddhidātrī \(p. 7\); Dhanaśamaśera Jaṅgabahadura Rāṇa, *Śāradīyadurgāpūjāpaddhati* \(Kathmandu: Royal Nepal Academy, 1975\), cha. The tantric names of more violent forms of the goddess are Rudracaṇḍā, Pracaṇḍā, Caṇḍogrā, Caṇḍanāyikā, Caṇḍā, Caṇḍavatī, Caṇḍarūpā, Aticaṇḍikā, and Mahogracaṇḍikā. For those following the *śrīvidyā* tradition, the form of the main goddess is Tripurāsundarī, and her nine names are Tripurā, Tripureśī, Tripurāsundarī, Tripuravāsinī, Tripurāśrī, Tripurāmālinī, Tripurāsiddhā, Tripurāmbā, and Mahātripurabhairavī \(see Dhanaśamaśera, cha- ja\). However, these ritual manuals have a similar conception of the Supreme Goddess who is regarded as having various names and forms, and all these varied names coalesce into one. Also, when the Supreme Goddess is regarded as Durgā, she is also worshiped as having three different forms: Mahākālī, Mahālakṣmī, and Mahāsarasvatī \(Nārayan Dās Arjyāl, folio 1: “*śrī mahākālī mahālakṣmī mahāsarasvatī svarūpiṇi śrīdurgādevi* …”\).
 
-11. A domestic chaplain who acts for the king or another sponsor in Vedic rituals, both solemn and domestic.
+[^11]: A domestic chaplain who acts for the king or another sponsor in Vedic rituals, both solemn and domestic.
 
-12. An abstract meditative thought process of purification through which the worshiper \(*sādhaka*\) is said to dissolve the older body and recreate a new metaphysical or spiritual body.
+[^12]: An abstract meditative thought process of purification through which the worshiper \(*sādhaka*\) is said to dissolve the older body and recreate a new metaphysical or spiritual body.
 
-13. A ritual act of touching in which various parts of the body \(e.g., of the worshiper or of the image\) are assigned to different deities, accompanied by prayers and hand gestures \(*mudrā*s\). The *nyāsa* can be on different parts of the body of the worshiper by himself/herself, or on the image, or on the abstract diagram.
+[^13]: A ritual act of touching in which various parts of the body \(e.g., of the worshiper or of the image\) are assigned to different deities, accompanied by prayers and hand gestures \(*mudrā*s\). The *nyāsa* can be on different parts of the body of the worshiper by himself/herself, or on the image, or on the abstract diagram.
 
-14. One of the earliest examples of what mantras are employed while bathing with *pañcagavya* and *pañcāmr̥ta* is found in the *Baudhāyana Gṛhyaśeśasūtra* \(BGŚS, 2.13\)
+[^14]: One of the earliest examples of what mantras are employed while bathing with *pañcagavya* and *pañcāmr̥ta* is found in the *Baudhāyana Gṛhyaśeśasūtra* \(BGŚS, 2.13\)
 
-15. It appears that the *purohita*s tend to use both the Vedic and tantric mantras for the infusion of vital energy.
+[^15]: It appears that the *purohita*s tend to use both the Vedic and tantric mantras for the infusion of vital energy.
 
-16. Julius Eggeling, trans., *The Śatapatha-Brāhmaṇa, According to the Text of the Mādhyandina School*, Part I, Books I and II \(Delhi: Motilal Banarsidass, 1966, second ed.\), p. 215 \(ŚB\). The complete translation in ŚB, however, runs as follows:
+[^16]: Julius Eggeling, trans., *The Śatapatha-Brāhmaṇa, According to the Text of the Mādhyandina School*, Part I, Books I and II \(Delhi: Motilal Banarsidass, 1966, second ed.\), p. 215 \(ŚB\). The complete translation in ŚB, however, runs as follows:
 
 ‘May his mind delight in the gushing \(of the\) butter\! By the mind, assuredly, all this \(universe\) is obtained \(or pervaded, *āptam*\): hence he thereby obtains this All by mind.—“May Brihaspati \[*sic*\] spread \(carry through\) this sacrifice\! May he restore the sacrifice uninjured\!”—he thereby restores the sacrifice uninjured\!’—he thereby restores what was torn asunder.—‘May all the gods rejoice here\!’—‘all the gods,’ doubtless, means the All: hence he thereby restore \(the sacrifice\) by means of the All.
 
-17. Aryal, *Navarātra Tathā Yamapañcaka Pūjāvidhi*, p. 27.
+[^17]: Aryal, *Navarātra Tathā Yamapañcaka Pūjāvidhi*, p. 27.
 
-18. This tantric main mantra is formed on the basis of the *gāyatrī* verse of the *Ṛgveda* \(III.62.10\): *oṃ bhūrbhuvaḥ svaḥ tatsaviturvareṇyaṃ bhargo devasya dhīmahi dhiyo yo naḥ pracodayāt* \(We wish to obtain that adorable light of the divine Savitr̥ \[i.e., the sun\] who should stir up our thoughts\).
+[^18]: This tantric main mantra is formed on the basis of the *gāyatrī* verse of the *Ṛgveda* \(III.62.10\): *oṃ bhūrbhuvaḥ svaḥ tatsaviturvareṇyaṃ bhargo devasya dhīmahi dhiyo yo naḥ pracodayāt* \(We wish to obtain that adorable light of the divine Savitr̥ \[i.e., the sun\] who should stir up our thoughts\).
 
-19. The style of mantras found in *smṛti* \(literally, that which is “remembered” or “known”\). *Smr̥ti* is a class of Hindu religious literature that is highly prestigious but which does not have the same status as *śruti*, that which is “heard” or “revealed,” that is, the Vedas. The Vedic corpus is classified as *śruti* while the Dharma literature, the Epics, and the *Purāṇa*s are classified as *smr̥ti.* However, the boundary between these two classifications remains very fluid.
+[^19]: The style of mantras found in *smṛti* \(literally, that which is “remembered” or “known”\). *Smr̥ti* is a class of Hindu religious literature that is highly prestigious but which does not have the same status as *śruti*, that which is “heard” or “revealed,” that is, the Vedas. The Vedic corpus is classified as *śruti* while the Dharma literature, the Epics, and the *Purāṇa*s are classified as *smr̥ti.* However, the boundary between these two classifications remains very fluid.
 
-20. The *dhenu mudrā* is formed with both hands joined together to form the shape of the four teats of the udder of the cow. The general purpose of this gesture is to turn the offerings to the deity into ambrosia \(milk is symbolically considered to be identical with ambrosia\).
+[^20]: The *dhenu mudrā* is formed with both hands joined together to form the shape of the four teats of the udder of the cow. The general purpose of this gesture is to turn the offerings to the deity into ambrosia \(milk is symbolically considered to be identical with ambrosia\).
 
-21. Some of the preparatory rituals leading to the midnight *homa* are “restraining the directions” \(*digvandhana*\), purification of the seat \(*āsanaśuddhi*\), inscribing the mantras on the hands and six limbs \(*karaṣaḍaṅganyāsa*\),*pūjā*s to the following: deities such as Dīpa, Kalaśa, Gaṇeṣa, and the goddess; various weapons mythologically upheld by the goddess; the eight guardian deities \(*kṣetrapāla*s\); the eight Bhairavas \(*aṣṭabhairava*\); and the guardians of the ten directions \(*daśadikpāla*\). It is followed by the propitiation of sacrificial animals for sacrifice and other rituals related to blood and the liver.
+[^21]: Some of the preparatory rituals leading to the midnight *homa* are “restraining the directions” \(*digvandhana*\), purification of the seat \(*āsanaśuddhi*\), inscribing the mantras on the hands and six limbs \(*karaṣaḍaṅganyāsa*\),*pūjā*s to the following: deities such as Dīpa, Kalaśa, Gaṇeṣa, and the goddess; various weapons mythologically upheld by the goddess; the eight guardian deities \(*kṣetrapāla*s\); the eight Bhairavas \(*aṣṭabhairava*\); and the guardians of the ten directions \(*daśadikpāla*\). It is followed by the propitiation of sacrificial animals for sacrifice and other rituals related to blood and the liver.
 
-22. It appears that the *homa* ritual of this type was generally performed from the first to the ninth days of the *navarātra* \(see the ca. 1931 manual\) but was sometimes limited only to the eighth and ninth days \(see ca. 1907 manual\). However, the manuals of ca. 1975 and 2005 recommend this ritual for the eighth and ninth nights, and this seems to be the general practice at least from 1975 onward. The handwritten manuals were made available by Balarām Aryāl.
+[^22]: It appears that the *homa* ritual of this type was generally performed from the first to the ninth days of the *navarātra* \(see the ca. 1931 manual\) but was sometimes limited only to the eighth and ninth days \(see ca. 1907 manual\). However, the manuals of ca. 1975 and 2005 recommend this ritual for the eighth and ninth nights, and this seems to be the general practice at least from 1975 onward. The handwritten manuals were made available by Balarām Aryāl.
 
-23. *Taittirīyasaṃhitā* 5.5.9; *Baudhāyanagṛhyaśeṣa-sūtra* 4.7.5; See Shingo Einoo, “Notes on the Installation Ceremonies Described in the Gr̥hyapariśiṣṭas,” in Shingo Einoo and Jun Takashima, eds., *From Material to Deity: Indian Rituals of Consecration* \(New Delhi: Manohar, 2005\), pp. 109–113.
+[^23]: *Taittirīyasaṃhitā* 5.5.9; *Baudhāyanagṛhyaśeṣa-sūtra* 4.7.5; See Shingo Einoo, “Notes on the Installation Ceremonies Described in the Gr̥hyapariśiṣṭas,” in Shingo Einoo and Jun Takashima, eds., *From Material to Deity: Indian Rituals of Consecration* \(New Delhi: Manohar, 2005\), pp. 109–113.
 
-24. Girvānayuddha Śāh, p. 230. This tantric *mūlamantra* does not seem to have any meaning except for the noun *cāmuṇḍāyai* \(“to Cāmuṇḍā”\). However, Thomas Coburn, in *Encountering the Goddess: A Translation of the Devī-Māhātmya and a Study of Its Interpretation* \(Albany: State University of New York Press, 1991\), pp. 136–137, quotes a late *Śākta Devī-Atharva-Śīrṣa-Upaniṣad* and mentions that these letters collectively refer to the unmanifest and manifest forms of the goddess. It appears that the *purohita* can choose any other mantras such as *oṃ durge durge rakṣini svāhā, Jayantī, Maṅgalā, Kālī, Bhadrakālī, Kapālinī, Durgā, Kṣamā, Śivā, Dhātrī, Svāhā, Svadhā namo’stu te* \(Gīrvānayuddha, p. 206\) and *oṃ hrīṃ hrīṃ raktadantikāyai kālarātryai dhuru dhuru svāhā*; see Vāsudev Nepal, “Śrī Purāno Gorakhgaṇa \(Śa. Ra.\) Atītadekhi Vartamānasamma” \(“Śrī Old Gorakhabattalion \[Śa. Ra.\] from Past to the Present”\), *Sipāhī* \(Kathmandu, Royal Nepal Army Quarterly\) 34 \(2001\): 77–83.
+[^24]: Girvānayuddha Śāh, p. 230. This tantric *mūlamantra* does not seem to have any meaning except for the noun *cāmuṇḍāyai* \(“to Cāmuṇḍā”\). However, Thomas Coburn, in *Encountering the Goddess: A Translation of the Devī-Māhātmya and a Study of Its Interpretation* \(Albany: State University of New York Press, 1991\), pp. 136–137, quotes a late *Śākta Devī-Atharva-Śīrṣa-Upaniṣad* and mentions that these letters collectively refer to the unmanifest and manifest forms of the goddess. It appears that the *purohita* can choose any other mantras such as *oṃ durge durge rakṣini svāhā, Jayantī, Maṅgalā, Kālī, Bhadrakālī, Kapālinī, Durgā, Kṣamā, Śivā, Dhātrī, Svāhā, Svadhā namo’stu te* \(Gīrvānayuddha, p. 206\) and *oṃ hrīṃ hrīṃ raktadantikāyai kālarātryai dhuru dhuru svāhā*; see Vāsudev Nepal, “Śrī Purāno Gorakhgaṇa \(Śa. Ra.\) Atītadekhi Vartamānasamma” \(“Śrī Old Gorakhabattalion \[Śa. Ra.\] from Past to the Present”\), *Sipāhī* \(Kathmandu, Royal Nepal Army Quarterly\) 34 \(2001\): 77–83.
 
-25. Coburn, *Encountering the Goddess*, p. 230.
+[^25]: Coburn, *Encountering the Goddess*, p. 230.
 
-26. Śarmā Bhaṭṭarāī mentions that on the ninth day of the year 1996, thirty-three buffaloes, nine sheep, three goats, and a pig provided by the government and about 500 to 700 animals brought by the public were sacrificed. See Lokaprasad Śarmā Bhaṭṭarai, *Gorkhādarabarakṣetrako Sāṃskr̥tika Pakṣa: Yasako Udbhava ra Vikāsa* \(Dāṅg: Madendra Sanskrit University, 1997\), pp. 74, 78, 89.
+[^26]: Śarmā Bhaṭṭarāī mentions that on the ninth day of the year 1996, thirty-three buffaloes, nine sheep, three goats, and a pig provided by the government and about 500 to 700 animals brought by the public were sacrificed. See Lokaprasad Śarmā Bhaṭṭarai, *Gorkhādarabarakṣetrako Sāṃskr̥tika Pakṣa: Yasako Udbhava ra Vikāsa* \(Dāṅg: Madendra Sanskrit University, 1997\), pp. 74, 78, 89.
 
-27. Manu 3.76; Patrick Olivelle, trans., *The Law Code of Manu* \(Oxford: Oxford University Press, 2009\). Axel Michaels, *Hinduism: Past and Present* \(Princeton, NJ: Princeton University Press, 2003\), p. 246.
+[^27]: Manu 3.76; Patrick Olivelle, trans., *The Law Code of Manu* \(Oxford: Oxford University Press, 2009\). Axel Michaels, *Hinduism: Past and Present* \(Princeton, NJ: Princeton University Press, 2003\), p. 246.
 
-28. Dhanaśamaśera Ja. Ba. Rā. and Krishṇaprasād Bhaṭṭarāī, *Agnisthāpanāvidhiḥ*, pp. 20, 22. Time and again, the verses mention that such-and-such deities conquered such-and-such realms or beings by employing various Vedic hymns/meters, further recommending that the sacrificer may also do the same for conquest \(pp. 22–24\).
+[^28]: Dhanaśamaśera Ja. Ba. Rā. and Krishṇaprasād Bhaṭṭarāī, *Agnisthāpanāvidhiḥ*, pp. 20, 22. Time and again, the verses mention that such-and-such deities conquered such-and-such realms or beings by employing various Vedic hymns/meters, further recommending that the sacrificer may also do the same for conquest \(pp. 22–24\).
 
-29. Michael Witzel, *Kaṭha Āraṇyaka: Critical Edition with a Translation into German and an Introduction* \(Cambridge, MA: Department of Sanskrit and Indian Studies, Harvard University, 2004\), p. xxxi.
+[^29]: Michael Witzel, *Kaṭha Āraṇyaka: Critical Edition with a Translation into German and an Introduction* \(Cambridge, MA: Department of Sanskrit and Indian Studies, Harvard University, 2004\), p. xxxi.
 
-30. Witzel quotes several scholars such as Max Müller, Leopold von Schroeder, Arthur B. Keith, Jan Gonda, and Karl Hoffmann and discusses the significance of *bandhu* in terms of the magical interpretation of the world.
+[^30]: Witzel quotes several scholars such as Max Müller, Leopold von Schroeder, Arthur B. Keith, Jan Gonda, and Karl Hoffmann and discusses the significance of *bandhu* in terms of the magical interpretation of the world.
 
-31. Witzel, *Kaṭha Āraṇyaka*, p. xxxiv. He makes a distinction, however, between scientific thinking, in which differing causes lead to distinctive effects, and Vedic thinking, in which a minor relation is sufficient for cause and effect relation.
+[^31]: Witzel, *Kaṭha Āraṇyaka*, p. xxxiv. He makes a distinction, however, between scientific thinking, in which differing causes lead to distinctive effects, and Vedic thinking, in which a minor relation is sufficient for cause and effect relation.
 
-32. Vedic ritual is divided into two broad categories, the public, “solemn” rituals known as *śrauta*, and private, domestic, and life-cycle rituals known as *gṛhya*. The textual sources for the two types also differ, the sources for *śrauta* being older.
+[^32]: Vedic ritual is divided into two broad categories, the public, “solemn” rituals known as *śrauta*, and private, domestic, and life-cycle rituals known as *gṛhya*. The textual sources for the two types also differ, the sources for *śrauta* being older.
 
-33. Witzel, *Kaṭha Āraṇyaka*, p. xxxiv.
+[^33]: Witzel, *Kaṭha Āraṇyaka*, p. xxxiv.
 
-34. Jan C. Heesterman, “Vedism and Hinduism,” in Gerhard Oberhammer, Jan C. Heesterman, and Madeleine Biardeau, eds., *Studies in Hinduism: Vedism and Hinduism* \(Vienna: Verlag der Osterreichischen Akademie der Wissenschaften, 1997\), p. 58; Michaels, *Hinduism: Past and Present,* pp. 246–247.
+[^34]: Jan C. Heesterman, “Vedism and Hinduism,” in Gerhard Oberhammer, Jan C. Heesterman, and Madeleine Biardeau, eds., *Studies in Hinduism: Vedism and Hinduism* \(Vienna: Verlag der Osterreichischen Akademie der Wissenschaften, 1997\), p. 58; Michaels, *Hinduism: Past and Present,* pp. 246–247.
 
-35. Dhana Śamaśera Rāṇā, *Agnisthāpanāvidhiḥ*, pp. 3, 36, 157.
+[^35]: Dhana Śamaśera Rāṇā, *Agnisthāpanāvidhiḥ*, pp. 3, 36, 157.
 
-36. An example of the power of the Vedic mantra is given in the ŚB I.6.3.10, where the mispronunciation of one word \(“Indraśatru”\) leads to a disastrous result because of the emphasis placed on the latter syllable and used as a *bahubrīhi* compound having the meaning, “having Indra for an enemy.” In the story, Indra then comes rushing forth and cuts off the head of Viśvarūpa, who had mispronounced the word. See Witzel, *Kaṭha Āraṇyaka*, p. lxi. Cf. Arthur B. Keith, *The Religion and Philosophy of the Veda and Upanishads* \(Cambridge, MA: Harvard University Press, 1925\), p. 464.
+[^36]: An example of the power of the Vedic mantra is given in the ŚB I.6.3.10, where the mispronunciation of one word \(“Indraśatru”\) leads to a disastrous result because of the emphasis placed on the latter syllable and used as a *bahubrīhi* compound having the meaning, “having Indra for an enemy.” In the story, Indra then comes rushing forth and cuts off the head of Viśvarūpa, who had mispronounced the word. See Witzel, *Kaṭha Āraṇyaka*, p. lxi. Cf. Arthur B. Keith, *The Religion and Philosophy of the Veda and Upanishads* \(Cambridge, MA: Harvard University Press, 1925\), p. 464.
 
-37. This is in consonance with the Vedic conception of sacrifice that includes both the sacrificer and the god to whom it is offered \(*Taittrīyasaṃhitā*, 1.7.9\).
+[^37]: This is in consonance with the Vedic conception of sacrifice that includes both the sacrificer and the god to whom it is offered \(*Taittrīyasaṃhitā*, 1.7.9\).
 
-38. The concept that sacrificial animal represents the sacrificer has also been understood in symbolic terms, with sacrificial animals representing the demonic forces within humans, such as anger, sensuality, greed, and attachment. For the symbolic understanding of sacrifice in Bengal \(India\), see Suchitra Samanta, “The ‘Self-Animal’ and Divine Digestion: Goat Sacrifice to the Goddess Kālī in Bengal,” *Journal of Asian Studies* 53/3 \(August 1994\): 779–803.
+[^38]: The concept that sacrificial animal represents the sacrificer has also been understood in symbolic terms, with sacrificial animals representing the demonic forces within humans, such as anger, sensuality, greed, and attachment. For the symbolic understanding of sacrifice in Bengal \(India\), see Suchitra Samanta, “The ‘Self-Animal’ and Divine Digestion: Goat Sacrifice to the Goddess Kālī in Bengal,” *Journal of Asian Studies* 53/3 \(August 1994\): 779–803.
 
-39. For the detailed study of myths and identification between Mahiṣa, deities, and the sacrifice, see Carmel Berkson, *The Divine and the Demoniac: Mahiṣa’s Heroic Struggle with Durga* \(Delhi: Oxford University Press, 1995\). The text also discusses the pervasiveness of animal sacrifices in India from past to present.
+[^39]: For the detailed study of myths and identification between Mahiṣa, deities, and the sacrifice, see Carmel Berkson, *The Divine and the Demoniac: Mahiṣa’s Heroic Struggle with Durga* \(Delhi: Oxford University Press, 1995\). The text also discusses the pervasiveness of animal sacrifices in India from past to present.
 
-40. Hermann Oldenberg, *The Religion of the Veda* \(Delhi: Motilal Banarsidass, 1988\), p. 184.
+[^40]: Hermann Oldenberg, *The Religion of the Veda* \(Delhi: Motilal Banarsidass, 1988\), p. 184.
 
-41. Oldenberg, *The Religion of the Veda*, p. 185.
+[^41]: Oldenberg, *The Religion of the Veda*, p. 185.
 
-42. Quoted by Witzel, *Kaṭha Āraṇyaka*, p. xxxvi. Cf. Max Marwick, ed., *Witchcraft and Sorcery: Selected Readings* \(New York: Penguin, 1982\).
+[^42]: Quoted by Witzel, *Kaṭha Āraṇyaka*, p. xxxvi. Cf. Max Marwick, ed., *Witchcraft and Sorcery: Selected Readings* \(New York: Penguin, 1982\).
 
-43. Keith, *The Religion and Philosophy of the Veda and Upanishads*, p. 379; Witzel, *Kaṭha Āraṇyaka*, p. xxxvi.
+[^43]: Keith, *The Religion and Philosophy of the Veda and Upanishads*, p. 379; Witzel, *Kaṭha Āraṇyaka*, p. xxxvi.
 
-44. B. R. Modak, *The Ancillary Literature of the Atharva-Veda: A Study with Special Reference to the Pariśiṣṭas* \(New Delhi: Rashtriya Veda Vidya Pratishthan in association with Munshiram Manoharlal Publishers, 1993\), p. 308.
+[^44]: B. R. Modak, *The Ancillary Literature of the Atharva-Veda: A Study with Special Reference to the Pariśiṣṭas* \(New Delhi: Rashtriya Veda Vidya Pratishthan in association with Munshiram Manoharlal Publishers, 1993\), p. 308.
 
-45. Modak, *The Ancillary Literature of the Atharva-Veda*, p. 308.
+[^45]: Modak, *The Ancillary Literature of the Atharva-Veda*, p. 308.
 
-46. Erica Reiner, “Astral Magic in Babylonia,” *Transactions of the American Philosophical Society*, n.s., 85/4 \(1995\): 78–79.
+[^46]: Erica Reiner, “Astral Magic in Babylonia,” *Transactions of the American Philosophical Society*, n.s., 85/4 \(1995\): 78–79.
 
-47. W. Carleton Wood, “The Religion of Canaan: From the Earliest Times to the Hebrew Conquest,” *Journal of Biblical Literature* 35/3–4 \(1916\): 221; Paul Haupt, “Babylonian Elements in the Levitic Ritual,” *Journal of Biblical Literature*, 19/1 \(1900\): 56; [http://www.jstor.org/stable/3259072](http://www.jstor.org/stable/3259072) .
+[^47]: W. Carleton Wood, “The Religion of Canaan: From the Earliest Times to the Hebrew Conquest,” *Journal of Biblical Literature* 35/3–4 \(1916\): 221; Paul Haupt, “Babylonian Elements in the Levitic Ritual,” *Journal of Biblical Literature*, 19/1 \(1900\): 56; [http://www.jstor.org/stable/3259072](http://www.jstor.org/stable/3259072) .
 
-48. Allen Howard Godbey, “The Hebrew Mašal,” *American Journal of Semitic Languages and Literatures* 39/2 \(January 1923\): 99; [http://www.jstor.org/stable/528484](http://www.jstor.org/stable/528484) .
+[^48]: Allen Howard Godbey, “The Hebrew Mašal,” *American Journal of Semitic Languages and Literatures* 39/2 \(January 1923\): 99; [http://www.jstor.org/stable/528484](http://www.jstor.org/stable/528484) .
 
-49. A. Popov, “Consecration Ritual for a Blacksmith Novice among the Yakuts,” *Journal of American Folklore* 46/181 \(July–September 1933\): 262; [http://www.jstor.org/stable/535717](http://www.jstor.org/stable/535717) .
+[^49]: A. Popov, “Consecration Ritual for a Blacksmith Novice among the Yakuts,” *Journal of American Folklore* 46/181 \(July–September 1933\): 262; [http://www.jstor.org/stable/535717](http://www.jstor.org/stable/535717) .
 
-50. Thomas O. Beidelman, “Swazi Royal Ritual,” *Africa: Journal of the International African Institute* 36/4 \(October 1966\): 377; [http://www.jstor.org/stable/1158048](http://www.jstor.org/stable/1158048).
+[^50]: Thomas O. Beidelman, “Swazi Royal Ritual,” *Africa: Journal of the International African Institute* 36/4 \(October 1966\): 377; [http://www.jstor.org/stable/1158048](http://www.jstor.org/stable/1158048).
 
-51. Susan Drucker Brown, “Horse, Dog, and Donkey: The Making of a Mamprusi King,” *Man*, n.s., 27/1 \(March 1992\): 71–90; [http://www.jstor.org/stable/2803595](http://www.jstor.org/stable/2803595) .
+[^51]: Susan Drucker Brown, “Horse, Dog, and Donkey: The Making of a Mamprusi King,” *Man*, n.s., 27/1 \(March 1992\): 71–90; [http://www.jstor.org/stable/2803595](http://www.jstor.org/stable/2803595) .
 
-52. Norman H. Smith, “Sacrifices in the Old Testament,” *Vetus Testamentum*, vol. 7, fasc. 3 \(July 1957\): 310; [http://www.jstor.org/stable/1516202](http://www.jstor.org/stable/1516202) .
+[^52]: Norman H. Smith, “Sacrifices in the Old Testament,” *Vetus Testamentum*, vol. 7, fasc. 3 \(July 1957\): 310; [http://www.jstor.org/stable/1516202](http://www.jstor.org/stable/1516202) .
 
-53. Hanns Bächtold-Stäubli, *Handwörterbuch des deutschen Aberglaubens; herausgegeben von Hanns Bächtold-Stäubli unter Mitwirkung von Eduard Hoffmann–Krayer, mit einem Vorwort von Christoph Daxelmüller* \(1933; reprint, Berlin: W. de Gruyter, 1987\).
+[^53]: Hanns Bächtold-Stäubli, *Handwörterbuch des deutschen Aberglaubens; herausgegeben von Hanns Bächtold-Stäubli unter Mitwirkung von Eduard Hoffmann–Krayer, mit einem Vorwort von Christoph Daxelmüller* \(1933; reprint, Berlin: W. de Gruyter, 1987\).
 
-54. James C. Frazer, *The Golden Bough*, abridged ed. \(London: Macmillan, 1922\), p. 11.
+[^54]: James C. Frazer, *The Golden Bough*, abridged ed. \(London: Macmillan, 1922\), p. 11.
 
-55. James C. Frazer, *The Scapegoat* \(London: Macmillan, 1913\), p. 1.
+[^55]: James C. Frazer, *The Scapegoat* \(London: Macmillan, 1913\), p. 1.
 
-56. Frazer, *The Scapegoat*, p. 1.
+[^56]: Frazer, *The Scapegoat*, p. 1.
 
-57. According to the *Sādhanāmālā* \(No. 172. P. 350\), the following are the eight *aṣṭasiddhi*s: *khadgasiddhi, aṅjanasiddhi* \(collyrium applied to eyes, which enables a person to see buried treasure\), *pādalepasiddhi* \(ointment applied to the soles of the feet, enabling a person to move anywhere undiscovered\), *antardhānasiddhi* \(becoming invisible before the very eyes of those watching one\), *rasarasāyanasiddhi* \(the power of transmitting baser metals into gold or finding an elixir for immortality\), *khecarasiddhi* \(being able to fly up in the sky\), *bhūcarasiddhi* \(going swiftly anywhere on the earth\), and *pātālasiddhi* \(diving underneath the earth\). Quoted in Pandurang Vaman Kane, *History of Dharmaśāstra*, vol. 5/2 \(Poona: Bhandarkar Research Institute, 1958\), p. 1115.
+[^57]: According to the *Sādhanāmālā* \(No. 172. P. 350\), the following are the eight *aṣṭasiddhi*s: *khadgasiddhi, aṅjanasiddhi* \(collyrium applied to eyes, which enables a person to see buried treasure\), *pādalepasiddhi* \(ointment applied to the soles of the feet, enabling a person to move anywhere undiscovered\), *antardhānasiddhi* \(becoming invisible before the very eyes of those watching one\), *rasarasāyanasiddhi* \(the power of transmitting baser metals into gold or finding an elixir for immortality\), *khecarasiddhi* \(being able to fly up in the sky\), *bhūcarasiddhi* \(going swiftly anywhere on the earth\), and *pātālasiddhi* \(diving underneath the earth\). Quoted in Pandurang Vaman Kane, *History of Dharmaśāstra*, vol. 5/2 \(Poona: Bhandarkar Research Institute, 1958\), p. 1115.
 
-58. See Jan Gonda, *Vedic Ritual: The Non-Solemn Rites* \(Leiden-Koln: E. J. Brill, 1980\), p. 434.
+[^58]: See Jan Gonda, *Vedic Ritual: The Non-Solemn Rites* \(Leiden-Koln: E. J. Brill, 1980\), p. 434.
 
-59. *Yonyāśvatthadalābhayā*, in which the shape should be of the *yoni* equal to the leaf of *aśvatthapatra* \(*ficus religiosa*, fig tree, known as the “*bodhi* tree”\).
+[^59]: *Yonyāśvatthadalābhayā*, in which the shape should be of the *yoni* equal to the leaf of *aśvatthapatra* \(*ficus religiosa*, fig tree, known as the “*bodhi* tree”\).
 
-60. Hugh Urban, “The Power of the Impure: Transgression, Violence and Secrecy in Bengali Śākta Tantra and Modern Western Magic,” *Numen* 50/3 \(2003\): 287; [http://www.jstor.org/stable/3270489](http://www.jstor.org/stable/3270489) .
+[^60]: Hugh Urban, “The Power of the Impure: Transgression, Violence and Secrecy in Bengali Śākta Tantra and Modern Western Magic,” *Numen* 50/3 \(2003\): 287; [http://www.jstor.org/stable/3270489](http://www.jstor.org/stable/3270489) .
 
-61. Wade T. Wheelock, “The Mantra in Vedic and Tantric Ritual,” in Harvey P. Alper, ed., *Mantra* \(Albany: State University of New York Press, 1989\), p. 112.
+[^61]: Wade T. Wheelock, “The Mantra in Vedic and Tantric Ritual,” in Harvey P. Alper, ed., *Mantra* \(Albany: State University of New York Press, 1989\), p. 112.
 
-62. Wheelock, “The Mantra in Vedic and Tantric Ritual,” p. 117.
+[^62]: Wheelock, “The Mantra in Vedic and Tantric Ritual,” p. 117.
 
-63. Wheelock, “The Mantra in Vedic and Tantric Ritual,” p. 117.
+[^63]: Wheelock, “The Mantra in Vedic and Tantric Ritual,” p. 117.
 
-64. The word *tantra* is literally defined as “extension” and “warp on a loom.” It is also used in the sense of liberation: *tan*-, “to stretch, expound,” and *trā*-, “to save.”
+[^64]: The word *tantra* is literally defined as “extension” and “warp on a loom.” It is also used in the sense of liberation: *tan*-, “to stretch, expound,” and *trā*-, “to save.”
 
-65. Teun Goudriaan, “Introduction, History and Philosophy,” in Sanjukta Gupta, Dirk Jan Hoens, and Teun Goudriaan, eds., *Hindu Tantrism* \(Leiden: E. J. Brill, 1979\), p. 6.
+[^65]: Teun Goudriaan, “Introduction, History and Philosophy,” in Sanjukta Gupta, Dirk Jan Hoens, and Teun Goudriaan, eds., *Hindu Tantrism* \(Leiden: E. J. Brill, 1979\), p. 6.
 
-66. Andre Padoux, “Tantrism: An Overview,” in Mircea Eliade, ed., *The Encyclopedia of Religion* \(New York: Macmillan, 1986\), vol. 14, p. 273; quoted in Coburn, *Encountering the Goddess*, p. 123.
+[^66]: Andre Padoux, “Tantrism: An Overview,” in Mircea Eliade, ed., *The Encyclopedia of Religion* \(New York: Macmillan, 1986\), vol. 14, p. 273; quoted in Coburn, *Encountering the Goddess*, p. 123.
 
-67. Padoux, “Tantrism: An Overview,” pp. 274–275.
+[^67]: Padoux, “Tantrism: An Overview,” pp. 274–275.
 
-68. Goudriaan, “Introduction, History and Philosophy,” p. 7.
+[^68]: Goudriaan, “Introduction, History and Philosophy,” p. 7.
 
-69. Goudriaan, “Introduction, History and Philosophy,” p. 6.
+[^69]: Goudriaan, “Introduction, History and Philosophy,” p. 6.
 
-70. Coburn, *Encountering the Goddess*, p. 125.
+[^70]: Coburn, *Encountering the Goddess*, p. 125.
 
-71. Goudriaan, “Introduction, History and Philosophy,” p. 6.
+[^71]: Goudriaan, “Introduction, History and Philosophy,” p. 6.
 
-72. The selection of the chief priest was done very carefully, and the process included matching the king’s horoscope with that of the priest. Since the priest performed the rituals on behalf of the king, it was very important for the priest to become the proper conduit of divine power for the king and his successful rule.
+[^72]: The selection of the chief priest was done very carefully, and the process included matching the king’s horoscope with that of the priest. Since the priest performed the rituals on behalf of the king, it was very important for the priest to become the proper conduit of divine power for the king and his successful rule.
 
-73. Ajit Mookerjee and Madhu Khanna, *The Tantric Way: Art, Science, and Ritual* \(London: Thames and Hudson, 1977\), p. 136.
+[^73]: Ajit Mookerjee and Madhu Khanna, *The Tantric Way: Art, Science, and Ritual* \(London: Thames and Hudson, 1977\), p. 136.
 
-74. Mookerjee and Khanna, *The Tantric Way*, pp. 140–141. “Phat” is a mystical syllable often used in tantric mantra recitation.
+[^74]: Mookerjee and Khanna, *The Tantric Way*, pp. 140–141. “Phat” is a mystical syllable often used in tantric mantra recitation.
 
-75. Mookerjee and Khanna, *The Tantric Way*, p. 141.
+[^75]: Mookerjee and Khanna, *The Tantric Way*, p. 141.
 
-76. Teun Goudriaan and Sanjukta Gupta, *Hindu Tantric and Śākta Literature* \(Wiesbaden: Otto Harrassowitz, 1981\), p. 1.
+[^76]: Teun Goudriaan and Sanjukta Gupta, *Hindu Tantric and Śākta Literature* \(Wiesbaden: Otto Harrassowitz, 1981\), p. 1.
 
-77. The anthropologist Maurice Bloch has developed a ritual theory of “rebounding violence” and discusses the ritual in tripartite structure of submission, identification, and conquest. However, he takes all forms of rituals as strategies for leadership and disregards their religious and spiritual implications. See Maurice Bloch, *Prey into Hunter: The Politics of Religious Experience* \(Cambridge: Cambridge University Press, 1992\).
+[^77]: The anthropologist Maurice Bloch has developed a ritual theory of “rebounding violence” and discusses the ritual in tripartite structure of submission, identification, and conquest. However, he takes all forms of rituals as strategies for leadership and disregards their religious and spiritual implications. See Maurice Bloch, *Prey into Hunter: The Politics of Religious Experience* \(Cambridge: Cambridge University Press, 1992\).
 
-78. The goddess Kālī is said to have originated from the forehead of Ambikā \(87.4–5\) when she was terribly angry. The goddess Kālī \(the masculine form is Kāla, meaning “time”\) is often associated with sinister things from early Hindu texts such as the *Śāṅkhāyana Āraṇyaka* \(ŚA 11.3.4\), the *Mahābhārata* \(*Sauptika Parvan,* 10.8.64‒69\), the *Harivaṃśa* \(47.24\), and the *Kumārasaṃbhava* \(7.39\). The goddess Ambika, within whom all the goddesses ultimately return to \(90.4\) in the *Devī Māhātmya*, may be traced back to her association with Rudra in the *Yajurveda* \(*Taittirīya Saṃhitā* 1.8.6\). Similarly, Kālī is associated with Śiva from early on, as she is regarded as an incarnation of Satī after her incineration during the sacrifice of Dakṣa. Along the same lines, Durgā, who becomes the predominant goddess in the Hindu traditions, is associated with Śiva. Early references to Durgā point to the esoteric cult of human sacrifices; see Thomas B. Coburn, *Devī-Mahātmya: The Crystallization of the Goddess* \(Delhi: Motilal Banarsidass, 1984\), p. 121.
+[^78]: The goddess Kālī is said to have originated from the forehead of Ambikā \(87.4–5\) when she was terribly angry. The goddess Kālī \(the masculine form is Kāla, meaning “time”\) is often associated with sinister things from early Hindu texts such as the *Śāṅkhāyana Āraṇyaka* \(ŚA 11.3.4\), the *Mahābhārata* \(*Sauptika Parvan,* 10.8.64‒69\), the *Harivaṃśa* \(47.24\), and the *Kumārasaṃbhava* \(7.39\). The goddess Ambika, within whom all the goddesses ultimately return to \(90.4\) in the *Devī Māhātmya*, may be traced back to her association with Rudra in the *Yajurveda* \(*Taittirīya Saṃhitā* 1.8.6\). Similarly, Kālī is associated with Śiva from early on, as she is regarded as an incarnation of Satī after her incineration during the sacrifice of Dakṣa. Along the same lines, Durgā, who becomes the predominant goddess in the Hindu traditions, is associated with Śiva. Early references to Durgā point to the esoteric cult of human sacrifices; see Thomas B. Coburn, *Devī-Mahātmya: The Crystallization of the Goddess* \(Delhi: Motilal Banarsidass, 1984\), p. 121.
 
-79. Subedī lists some important types of *homa* on different occasions: with clarified butter and *caru* \(chiefly, milk, butter, and barley\) in the installation of Agni; with mustard seeds for the naming ceremony; with vegetation in the coronation ritual; with gold while entering the house \(*gr̥hārambha*\); and with liver before going into battle \(p. 19\).
+[^79]: Subedī lists some important types of *homa* on different occasions: with clarified butter and *caru* \(chiefly, milk, butter, and barley\) in the installation of Agni; with mustard seeds for the naming ceremony; with vegetation in the coronation ritual; with gold while entering the house \(*gr̥hārambha*\); and with liver before going into battle \(p. 19\).
 
-80. Yuko Yokochi, “The Warrior Goddess in the *Devīmāhātmya*,” in Masakau Tanaka and Musashi Tachikawa, eds., *Living with Śakti: Gender, Sexuality, and Religion in South Asia* \(Osaka: National Museum of Ethnology, 1999\), p. 88.
+[^80]: Yuko Yokochi, “The Warrior Goddess in the *Devīmāhātmya*,” in Masakau Tanaka and Musashi Tachikawa, eds., *Living with Śakti: Gender, Sexuality, and Religion in South Asia* \(Osaka: National Museum of Ethnology, 1999\), p. 88.
 
-81. Muriel M. Underhill, *The Hindu Religious Year* \(London: Association Press/Oxford University Press, 1921\), p. 56.
+[^81]: Muriel M. Underhill, *The Hindu Religious Year* \(London: Association Press/Oxford University Press, 1921\), p. 56.
 
 
 

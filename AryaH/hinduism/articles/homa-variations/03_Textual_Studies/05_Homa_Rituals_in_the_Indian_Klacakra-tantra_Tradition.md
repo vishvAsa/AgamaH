@@ -207,15 +207,15 @@ Whether external or internal, a *homa* ritual is seen as a coherent activity tha
 
 ## NOTES
 
-1. In the commentary on the fourth subchapter of the “Chapter on Initiation” and in the final “Chapter on Gnosis.”
+[^1]: In the commentary on the fourth subchapter of the “Chapter on Initiation” and in the final “Chapter on Gnosis.”
 
-2. *Acacia Catechu*, known for having hard wood.
+[^2]: *Acacia Catechu*, known for having hard wood.
 
-3. For the contexts of *homa* rituals performed for protection from *mātṛka*s, see Vajravallabh Dwivedi and S. S. Bahulkar, eds., *Vimalaprabhāṭīkā of Kalkin Śrīpuṇḍarīka on Śrīlaghukālacakratantrarāja by Śrīmañjuśrīyaśas*, no. 2 \(Sarnath, Varanasi: Central Institute of Higher Tibetan Studies, 1994\), chapter 2, verses 148, 152, 159, and chapter 4, verses 162–163.
+[^3]: For the contexts of *homa* rituals performed for protection from *mātṛka*s, see Vajravallabh Dwivedi and S. S. Bahulkar, eds., *Vimalaprabhāṭīkā of Kalkin Śrīpuṇḍarīka on Śrīlaghukālacakratantrarāja by Śrīmañjuśrīyaśas*, no. 2 \(Sarnath, Varanasi: Central Institute of Higher Tibetan Studies, 1994\), chapter 2, verses 148, 152, 159, and chapter 4, verses 162–163.
 
-4. See Sadhong Rinpoche and Vrajvallabh Dwivedi, eds., *Vasantatilakā of Caryāvratī Śrīkṛṣṇācārya with Commentary Rahasyadīpikā by Vanaratna* \(Sarnath, Varanasi: 1990\), central verses 23–24, together with Vanaratna’s commentary, p. 67.
+[^4]: See Sadhong Rinpoche and Vrajvallabh Dwivedi, eds., *Vasantatilakā of Caryāvratī Śrīkṛṣṇācārya with Commentary Rahasyadīpikā by Vanaratna* \(Sarnath, Varanasi: 1990\), central verses 23–24, together with Vanaratna’s commentary, p. 67.
 
-5. Sadhong and Dwivedi, eds., *Vasantatilakā of Caryāvratī Śrīkṛṣṇācārya*, verses 20b–21a, pp. 66–67:
+[^5]: Sadhong and Dwivedi, eds., *Vasantatilakā of Caryāvratī Śrīkṛṣṇācārya*, verses 20b–21a, pp. 66–67:
 
 
 abhyantarais tu śukrādyair bāhyai rūpādibhis tathā // \(20b\)
@@ -225,7 +225,7 @@ havibhiḥ kriyate homaḥ prajñāgnau tu mahojjvale / \(21a\)
 
 
 
-6. Dwivedi and Bahulkar, eds., *Vimalaprabhāṭīkā of Kalkin Śrīpuṇḍarīka*, chapter 3, verse 71, p. 70:
+[^6]: Dwivedi and Bahulkar, eds., *Vimalaprabhāṭīkā of Kalkin Śrīpuṇḍarīka*, chapter 3, verse 71, p. 70:
 
 
 hutaṃ bhunakti yaḥ sarvaṃ skandhadhātusamidhādikam /
@@ -239,79 +239,79 @@ pratyekadigvibhāgena navaṃ sārvakārmikam //
 
 
 
-7. Dwivedi and Bahulkar, eds., *Vimalaprabhāṭīkā of Kalkin Śrīpuṇḍarīka*, chapter 2, verses 36 and 41.
+[^7]: Dwivedi and Bahulkar, eds., *Vimalaprabhāṭīkā of Kalkin Śrīpuṇḍarīka*, chapter 2, verses 36 and 41.
 
-8. Dwivedi and Bahulkar, eds., *Vimalaprabhāṭīkā of Kalkin Śrīpuṇḍarīka*, chapter 5, verse 127, p. 76.
+[^8]: Dwivedi and Bahulkar, eds., *Vimalaprabhāṭīkā of Kalkin Śrīpuṇḍarīka*, chapter 5, verse 127, p. 76.
 
-9. “Divine fragrance,” clove.
+[^9]: “Divine fragrance,” clove.
 
-10. According to Dwivedi and Bahulkar, eds., *Vimalaprabhāṭīkā of Kalkin Śrīpuṇḍarīka*, chapter 1, pp. 10–11, the term “all-effective rite” \(*sarvakarman*\) refers to the six rites belonging to the categories of pacification, etc., and subjugation, etc., but not to any of the fierce rites, such as killing and the like.
+[^10]: According to Dwivedi and Bahulkar, eds., *Vimalaprabhāṭīkā of Kalkin Śrīpuṇḍarīka*, chapter 1, pp. 10–11, the term “all-effective rite” \(*sarvakarman*\) refers to the six rites belonging to the categories of pacification, etc., and subjugation, etc., but not to any of the fierce rites, such as killing and the like.
 
-11. Abhayākāragupta also mentions the *Vajrakrodhasamāpattiguhya-tantra*, which speaks of 110 different types of firepits used in different types of mundane rites. While the shapes, colors, and soil types of some firepits and their related rites correspond to those mentioned in the *Vimalaprabhā*, the others do not show correspondences. See Tadaeusz Skorupski, “*Jyotirmañjarī* of Abhayākāragupta,” in *The Buddhist Forum VI* \(Tring, UK: Institute of Buddhist Studies, 2001\), p. 185.
+[^11]: Abhayākāragupta also mentions the *Vajrakrodhasamāpattiguhya-tantra*, which speaks of 110 different types of firepits used in different types of mundane rites. While the shapes, colors, and soil types of some firepits and their related rites correspond to those mentioned in the *Vimalaprabhā*, the others do not show correspondences. See Tadaeusz Skorupski, “*Jyotirmañjarī* of Abhayākāragupta,” in *The Buddhist Forum VI* \(Tring, UK: Institute of Buddhist Studies, 2001\), p. 185.
 
-12. This measure is equal to twelve finger-breadths, being the distance between the extended thumb and the little finger.
+[^12]: This measure is equal to twelve finger-breadths, being the distance between the extended thumb and the little finger.
 
-13. Dwivedi and Bahulkar, eds., *Vimalaprabhāṭīkā of Kalkin Śrīpuṇḍarīka on Śrīlaghukālacakratantrarāja by Śrīmañjuśrīyaśas*, chapter 3, verses 71–72.
+[^13]: Dwivedi and Bahulkar, eds., *Vimalaprabhāṭīkā of Kalkin Śrīpuṇḍarīka on Śrīlaghukālacakratantrarāja by Śrīmañjuśrīyaśas*, chapter 3, verses 71–72.
 
-14. Dwivedi and Bahulkar, eds., *Vimalaprabhāṭīkā of Kalkin Śrīpuṇḍarīka on Śrīlaghukālacakratantrarāja by Śrīmañjuśrīyaśas*, chapter 3, verses 7–11.
+[^14]: Dwivedi and Bahulkar, eds., *Vimalaprabhāṭīkā of Kalkin Śrīpuṇḍarīka on Śrīlaghukālacakratantrarāja by Śrīmañjuśrīyaśas*, chapter 3, verses 7–11.
 
-15. In this tantric system, Rāhu, considered to be the deity responsible for eclipses of the sun and the moon, represents the consciousness in the body of the individual; Kālāgni, usually known as the fire that incinerates the world at the time of destruction of the cosmos, represents the sexual heat in the lower part of the human body, referred to as “the fire of gnosis.”
+[^15]: In this tantric system, Rāhu, considered to be the deity responsible for eclipses of the sun and the moon, represents the consciousness in the body of the individual; Kālāgni, usually known as the fire that incinerates the world at the time of destruction of the cosmos, represents the sexual heat in the lower part of the human body, referred to as “the fire of gnosis.”
 
-16. Dwivedi and Bahulkar, eds., *Vimalaprabhāṭīkā of Kalkin Śrīpuṇḍarīka on Śrīlaghukālacakratantrarāja by Śrīmañjuśrīyaśas*, chapter 3, verse 73. According to the *Vimalaprabhā*, these features of firepits apply to all the yoga and *yoginī* tantras. Cf. D. L. Snellgrove, ed., *The Hevajra Tantra: A Critical Study* \(London: Oxford University Press, 1976\), vol. 1, part 2, chapter 1, verses 6–10, pp. 88–89, where the shapes and colors of the mentioned firepits correspond to those in the *Kālacakrantra*, whereas their sizes seem to differ.
+[^16]: Dwivedi and Bahulkar, eds., *Vimalaprabhāṭīkā of Kalkin Śrīpuṇḍarīka on Śrīlaghukālacakratantrarāja by Śrīmañjuśrīyaśas*, chapter 3, verse 73. According to the *Vimalaprabhā*, these features of firepits apply to all the yoga and *yoginī* tantras. Cf. D. L. Snellgrove, ed., *The Hevajra Tantra: A Critical Study* \(London: Oxford University Press, 1976\), vol. 1, part 2, chapter 1, verses 6–10, pp. 88–89, where the shapes and colors of the mentioned firepits correspond to those in the *Kālacakrantra*, whereas their sizes seem to differ.
 
-17. Dwivedi and Bahulkar, eds., *Vimalaprabhāṭīkā of Kalkin Śrīpuṇḍarīka on Śrīlaghukālacakratantrarāja by Śrīmañjuśrīyaśas*, chapter 3, verse 16, chapter 5, verse 141.
+[^17]: Dwivedi and Bahulkar, eds., *Vimalaprabhāṭīkā of Kalkin Śrīpuṇḍarīka on Śrīlaghukālacakratantrarāja by Śrīmañjuśrīyaśas*, chapter 3, verse 16, chapter 5, verse 141.
 
-18. Dwivedi and Bahulkar, eds., *Vimalaprabhāṭīkā of Kalkin Śrīpuṇḍarīka on Śrīlaghukālacakratantrarāja by Śrīmañjuśrīyaśas*, chapter 3, verse 18.
+[^18]: Dwivedi and Bahulkar, eds., *Vimalaprabhāṭīkā of Kalkin Śrīpuṇḍarīka on Śrīlaghukālacakratantrarāja by Śrīmañjuśrīyaśas*, chapter 3, verse 18.
 
-19. *Eleocarpus* seeds.
+[^19]: *Eleocarpus* seeds.
 
-20. Dwivedi and Bahulkar, eds., *Vimalaprabhāṭīkā of Kalkin Śrīpuṇḍarīka on Śrīlaghukālacakratantrarāja by Śrīmañjuśrīyaśas*, chapter 3, verse 16.
+[^20]: Dwivedi and Bahulkar, eds., *Vimalaprabhāṭīkā of Kalkin Śrīpuṇḍarīka on Śrīlaghukālacakratantrarāja by Śrīmañjuśrīyaśas*, chapter 3, verse 16.
 
-21. *Butea Frondosa,* an East Indian tree bearing a profusion of intense vermilion velvet-textured blooms, which yield a yellow dye.
+[^21]: *Butea Frondosa,* an East Indian tree bearing a profusion of intense vermilion velvet-textured blooms, which yield a yellow dye.
 
-22. *Datura Metel, Fastuosa*, thorn-apple tree.
+[^22]: *Datura Metel, Fastuosa*, thorn-apple tree.
 
-23. *Aegle Marmelos*, wood-apple tree.
+[^23]: *Aegle Marmelos*, wood-apple tree.
 
-24. *Bignonia Indica* or *Grislea tomentosa*, which have an astringent taste.
+[^24]: *Bignonia Indica* or *Grislea tomentosa*, which have an astringent taste.
 
-25. Several kinds of trees: silk-cotton tree \(*śalmāli*\), thorny and bitter-tasting.
+[^25]: Several kinds of trees: silk-cotton tree \(*śalmāli*\), thorny and bitter-tasting.
 
-26. *Datura Alba*, a white thorn-apple tree, often used as a poison. Dwivedi and Bahulkar, eds., *Vimalaprabhāṭīkā of Kalkin Śrīpuṇḍarīka on Śrīlaghukālacakratantrarāja by Śrīmañjuśrīyaśas*, chapter 3, verses 13–15.
+[^26]: *Datura Alba*, a white thorn-apple tree, often used as a poison. Dwivedi and Bahulkar, eds., *Vimalaprabhāṭīkā of Kalkin Śrīpuṇḍarīka on Śrīlaghukālacakratantrarāja by Śrīmañjuśrīyaśas*, chapter 3, verses 13–15.
 
-27. Cf. Snellgrove, *Hevajra Tantra*, vol. 1, part 2, chapter 1, verse 10, p. 89, which mentions sesame oil as offered for pacification, curds for prosperity, thorns for killing and engendering animosity, and a blue lotus for subjugation.
+[^27]: Cf. Snellgrove, *Hevajra Tantra*, vol. 1, part 2, chapter 1, verse 10, p. 89, which mentions sesame oil as offered for pacification, curds for prosperity, thorns for killing and engendering animosity, and a blue lotus for subjugation.
 
-28. Dwivedi and Bahulkar, eds., *Vimalaprabhāṭīkā of Kalkin Śrīpuṇḍarīka*, chapter 3, verse 17.
+[^28]: Dwivedi and Bahulkar, eds., *Vimalaprabhāṭīkā of Kalkin Śrīpuṇḍarīka*, chapter 3, verse 17.
 
-29. Dwivedi and Bahulkar, eds., *Vimalaprabhāṭīkā of Kalkin Śrīpuṇḍarīka*, chapter 3, verse 13.
+[^29]: Dwivedi and Bahulkar, eds., *Vimalaprabhāṭīkā of Kalkin Śrīpuṇḍarīka*, chapter 3, verse 13.
 
-30. Dwivedi and Bahulkar, eds., *Vimalaprabhāṭīkā of Kalkin Śrīpuṇḍarīka*, chapter 3, verse 79.
+[^30]: Dwivedi and Bahulkar, eds., *Vimalaprabhāṭīkā of Kalkin Śrīpuṇḍarīka*, chapter 3, verse 79.
 
-31. Dwivedi and Bahulkar, eds., *Vimalaprabhāṭīkā of Kalkin Śrīpuṇḍarīka*, chapter 3, verse 79.
+[^31]: Dwivedi and Bahulkar, eds., *Vimalaprabhāṭīkā of Kalkin Śrīpuṇḍarīka*, chapter 3, verse 79.
 
-32. Dwivedi and Bahulkar, eds., *Vimalaprabhāṭīkā of Kalkin Śrīpuṇḍarīka*, chapter 3, verse 35.
+[^32]: Dwivedi and Bahulkar, eds., *Vimalaprabhāṭīkā of Kalkin Śrīpuṇḍarīka*, chapter 3, verse 35.
 
-33. Dwivedi and Bahulkar, eds., *Vimalaprabhāṭīkā of Kalkin Śrīpuṇḍarīka*, chapter 3, verses 69–70.
+[^33]: Dwivedi and Bahulkar, eds., *Vimalaprabhāṭīkā of Kalkin Śrīpuṇḍarīka*, chapter 3, verses 69–70.
 
-34. Dwivedi and Bahulkar, eds., *Vimalaprabhāṭīkā of Kalkin Śrīpuṇḍarīka,* vol. 2, p. 74.
+[^34]: Dwivedi and Bahulkar, eds., *Vimalaprabhāṭīkā of Kalkin Śrīpuṇḍarīka,* vol. 2, p. 74.
 
-35. Dwivedi and Bahulkar, eds., *Vimalaprabhāṭīkā of Kalkin Śrīpuṇḍarīka,* vol. 2, p. 74: *oṃ pravara-satkāraṃ mahārāśmīn pratıccha svāhā.*
+[^35]: Dwivedi and Bahulkar, eds., *Vimalaprabhāṭīkā of Kalkin Śrīpuṇḍarīka,* vol. 2, p. 74: *oṃ pravara-satkāraṃ mahārāśmīn pratıccha svāhā.*
 
-36. The Tibetan reads *gang gzar gyis sreg blugs dbul bar bya shing* \(Skt. *āhutiṃ pātryārpayet*\).
+[^36]: The Tibetan reads *gang gzar gyis sreg blugs dbul bar bya shing* \(Skt. *āhutiṃ pātryārpayet*\).
 
-37. Dwivedi and Bahulkar, eds., *Vimalaprabhāṭīkā of Kalkin Śrīpuṇḍarīka*, verse 76, chapter 3, page 76.
+[^37]: Dwivedi and Bahulkar, eds., *Vimalaprabhāṭīkā of Kalkin Śrīpuṇḍarīka*, verse 76, chapter 3, page 76.
 
-38. Dwivedi and Bahulkar, eds., *Vimalaprabhāṭīkā of Kalkin Śrīpuṇḍarīka*, chapter 3, verses 74–75.
+[^38]: Dwivedi and Bahulkar, eds., *Vimalaprabhāṭīkā of Kalkin Śrīpuṇḍarīka*, chapter 3, verses 74–75.
 
-39. *Vaṣaṭ indrāya* is an exclamation made by a sacrificial priest \(*hotṛ*\) at the end of the sacrificial verse, on making an oblation to the deity.
+[^39]: *Vaṣaṭ indrāya* is an exclamation made by a sacrificial priest \(*hotṛ*\) at the end of the sacrificial verse, on making an oblation to the deity.
 
-40. These are the first two of the three *vyāhṛti*s \(the third being *svaḥ*\), mystic syllables representing the earth, repeated by every *brāhmaṇa* at the beginning of his morning, noon, and evening prayers \(*sandhyā*\).
+[^40]: These are the first two of the three *vyāhṛti*s \(the third being *svaḥ*\), mystic syllables representing the earth, repeated by every *brāhmaṇa* at the beginning of his morning, noon, and evening prayers \(*sandhyā*\).
 
-41. Dwivedi and Bahulkar, eds., *Vimalaprabhāṭīkā of Kalkin Śrīpuṇḍarīka*, chapter 3, verse 76.
+[^41]: Dwivedi and Bahulkar, eds., *Vimalaprabhāṭīkā of Kalkin Śrīpuṇḍarīka*, chapter 3, verse 76.
 
-42. See Dwivedi and Bahulkar, eds., *Vimalaprabhāṭīkā of Kalkin Śrīpuṇḍarīka*, chapter 2, verse 36, and chapter 3, p. 75.
+[^42]: See Dwivedi and Bahulkar, eds., *Vimalaprabhāṭīkā of Kalkin Śrīpuṇḍarīka*, chapter 2, verse 36, and chapter 3, p. 75.
 
-43. Dwivedi and Bahulkar, eds., *Vimalaprabhāṭīkā of Kalkin Śrīpuṇḍarīka*, chapter 3, p. 74, cites the *Ṛg Veda* 10.16.9:
+[^43]: Dwivedi and Bahulkar, eds., *Vimalaprabhāṭīkā of Kalkin Śrīpuṇḍarīka*, chapter 3, p. 74, cites the *Ṛg Veda* 10.16.9:
 
 
 kravyādam agniṃ prahiṇomi dūraṃ yamarājño gacchatu ripravāhaḥ/|
@@ -321,15 +321,15 @@ ihaivāyam itaro jātavedā devebhyo havyam vahatu prajānan //
 
 
 
-44. Saturn is the son of the sun, and represented as black in color or dressed in a dark-colored garment.
+[^44]: Saturn is the son of the sun, and represented as black in color or dressed in a dark-colored garment.
 
-45. Dwivedi and Bahulkar, eds., *Vimalaprabhāṭīkā of Kalkin Śrīpuṇḍarīka*, chapter 3, verses 74–75.
+[^45]: Dwivedi and Bahulkar, eds., *Vimalaprabhāṭīkā of Kalkin Śrīpuṇḍarīka*, chapter 3, verses 74–75.
 
-46. Tib. *hoḥ.*
+[^46]: Tib. *hoḥ.*
 
-47. The five types of flesh: human, dog, horse, cow, and elephant.
+[^47]: The five types of flesh: human, dog, horse, cow, and elephant.
 
-48. Dwivedi and Bahulkar, eds., *Vimalaprabhāṭīkā of Kalkin Śrīpuṇḍarīka*, chapter 3, verse 77.
+[^48]: Dwivedi and Bahulkar, eds., *Vimalaprabhāṭīkā of Kalkin Śrīpuṇḍarīka*, chapter 3, verse 77.
 
 
 
