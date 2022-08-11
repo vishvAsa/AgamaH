@@ -138,7 +138,7 @@ An investigation of ‘Holy War’ as a religious idea
 
 in the light of communal unrest in India . . . . . . . . . . . . . . 55 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . 55 Holy war as a religious idea . . . . . . . . . . . . . . . . . . 56 
 
-Five conditions of ‘holy war’ . . . . . . . . . . . . . . . . 59 The Hindu religion and the social reality of war . . . . . . . . 60 The advent of Islam . . . . . . . . . . . . . . . . . . . . 62 The segregation of the Hindu and Muslim communities . . . . . 64 The idea of the Rāma rājya . . . . . . . . . . . . . . . . 64 The Kingdom of Avadh . . . . . . . . . . . . . . . . . . 66 The emerging conflict around the Babri Masjid in Ayodhyā . 68 Ayodhyā: a Hindu Jerusalem . . . . . . . . . . . . . . . . . 71 The fight for the Rāmajanmabh¯umi/Babri Masjid . . . . . 73 Epilogue . . . . . . . . . . . . . . . . . . . . . . . . . . . 77 5 The Ramtek Inscriptions I . . . . . . . . . . . . . . . . . . . 79 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . 79 The graffiti . . . . . . . . . . . . . . . . . . . . . . . . . . 81 The two short Kevala–Narasim. ha Temple inscriptions . . . . . 83 Kevala–Narasim. ha Temple Ramtek Inscription No. 1 . . . . 83 Kevala–Narasim. ha Temple Ramtek Inscription No. 2 . . . . 86 The Ramtek Stone Inscription of the time of Rāmacandra . . . 88 Synopsis of the contents . . . . . . . . . . . . . . . . . . 89 Editorial principles . . . . . . . . . . . . . . . . . . . . 94 Edition . . . . . . . . . . . . . . . . . . . . . . . . . . 95 Translation . . . . . . . . . . . . . . . . . . . . . . . 105 
+Five conditions of ‘holy war’ . . . . . . . . . . . . . . . . 59 The Hindu religion and the social reality of war . . . . . . . . 60 The advent of Islam . . . . . . . . . . . . . . . . . . . . 62 The segregation of the Hindu and Muslim communities . . . . . 64 The idea of the Rāma rājya . . . . . . . . . . . . . . . . 64 The Kingdom of Avadh . . . . . . . . . . . . . . . . . . 66 The emerging conflict around the Babri Masjid in Ayodhyā . 68 Ayodhyā: a Hindu Jerusalem . . . . . . . . . . . . . . . . . 71 The fight for the Rāmajanmabhūmi/Babri Masjid . . . . . 73 Epilogue . . . . . . . . . . . . . . . . . . . . . . . . . . . 77 5 The Ramtek Inscriptions I . . . . . . . . . . . . . . . . . . . 79 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . 79 The graffiti . . . . . . . . . . . . . . . . . . . . . . . . . . 81 The two short Kevala–Narasim. ha Temple inscriptions . . . . . 83 Kevala–Narasim. ha Temple Ramtek Inscription No. 1 . . . . 83 Kevala–Narasim. ha Temple Ramtek Inscription No. 2 . . . . 86 The Ramtek Stone Inscription of the time of Rāmacandra . . . 88 Synopsis of the contents . . . . . . . . . . . . . . . . . . 89 Editorial principles . . . . . . . . . . . . . . . . . . . . 94 Edition . . . . . . . . . . . . . . . . . . . . . . . . . . 95 Translation . . . . . . . . . . . . . . . . . . . . . . . 105 
 
 6 The Ramtek Inscriptions II 
 
@@ -290,7 +290,7 @@ vv. 8–12 . . . . . . . . . . . . . . . . . . . . . . . . . 379
 
 19 The So-called ‘Jaunpur Stone Inscription 
 
-of ¯Iśvaravarman’ . . . . . . . . . . . . . . . . . . . . . . . . 381 Preamble . . . . . . . . . . . . . . . . . . . . . . . . . . 381 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . 381 The Jaunpur Stone Inscription . . . . . . . . . . . . . . . . 383 
+of Īśvaravarman’ . . . . . . . . . . . . . . . . . . . . . . . . 381 Preamble . . . . . . . . . . . . . . . . . . . . . . . . . . 381 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . 381 The Jaunpur Stone Inscription . . . . . . . . . . . . . . . . 383 
 
 Text . . . . . . . . . . . . . . . . . . . . . . . . . . . 384 Translation and annotation . . . . . . . . . . . . . . . . 386 Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . 388 
 
@@ -316,9 +316,9 @@ Translation . . . . . . . . . . . . . . . . . . . . . . . 398
 
 Interpretation . . . . . . . . . . . . . . . . . . . . . . 399 
 
-Man. ḍaleśvara and the Skandapurāṇa . . . . . . . . . . . . . 400 21 Monuments to the Dead in Ancient North India . . . . . . 405 Preamble . . . . . . . . . . . . . . . . . . . . . . . . . . 405 The funerary monument in Sanskrit literature . . . . . . . . . 405 The aid. ¯uka of the Vis.ṇudharmottarapurāṇa . . . . . . . . 406 
+Man. ḍaleśvara and the Skandapurāṇa . . . . . . . . . . . . . 400 21 Monuments to the Dead in Ancient North India . . . . . . 405 Preamble . . . . . . . . . . . . . . . . . . . . . . . . . . 405 The funerary monument in Sanskrit literature . . . . . . . . . 405 The aid. ūka of the Vis.ṇudharmottarapurāṇa . . . . . . . . 406 
 
-The ed. ¯uka . . . . . . . . . . . . . . . . . . . . . . . . 407 
+The ed. ūka . . . . . . . . . . . . . . . . . . . . . . . . 407 
 
 The archaeology of the funerary monument . . . . . . . . . . 411 Memorials . . . . . . . . . . . . . . . . . . . . . . . . 413 
 
@@ -326,7 +326,7 @@ Pratimāgr.has . . . . . . . . . . . . . . . . . . . . . . 415
 
 Memorial Stones . . . . . . . . . . . . . . . . . . . . . 417 
 
-Aid. ¯ukas . . . . . . . . . . . . . . . . . . . . . . . . . 419 
+Aid. ūkas . . . . . . . . . . . . . . . . . . . . . . . . . 419 
 
 Ahichhatra . . . . . . . . . . . . . . . . . . . . . . 419 
 
@@ -338,13 +338,13 @@ Sui Vihar . . . . . . . . . . . . . . . . . . . . . . 426
 
 The archaeology of the śmaśāna . . . . . . . . . . . . . . . 429 The Kumhāra T. ekd.ī in Ujjain . . . . . . . . . . . . . . 430 
 
-The ed. ¯uka at Mansar . . . . . . . . . . . . . . . . . . 432 
+The ed. ūka at Mansar . . . . . . . . . . . . . . . . . . 432 
 
 A funerary monument to Prabhāvatī Guptā? . . . . . 438 
 
 Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . 439 Appendix . . . . . . . . . . . . . . . . . . . . . . . . . . 441 
 
-Aid. ¯ukar¯upanirmāṇa 
+Aid. ūkarūpanirmāṇa 
 
 Vis.ṇudharmottara 3.84.1–15 (emended) . . . . . . . . . . 441 
 
@@ -370,7 +370,7 @@ The Agastyasam. hitā . . . . . . . . . . . . . . . . . . . 465 The Tradition of
 
 The saving mantra in the Skandapurāṇa . . . . . . . . . 470 Avimukta . . . . . . . . . . . . . . . . . . . . . . . . 471 
 
-Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . 473 24 The Hindu Religion and War . . . . . . . . . . . . . . . . . 475 Preamble . . . . . . . . . . . . . . . . . . . . . . . . . . 475 Aśoka and ancient warfare in India . . . . . . . . . . . . . . 475 The Arthaśāstra . . . . . . . . . . . . . . . . . . . . . 476 The principle of ahim. sā and the rules of war . . . . . . . . . 477 Ahim. sā . . . . . . . . . . . . . . . . . . . . . . . . . 477 The Bhagavadgītā . . . . . . . . . . . . . . . . . . . . 477 The rules of war . . . . . . . . . . . . . . . . . . . . . 479 The reports of Megasthenes and Ibn Bat.t.¯ut.a . . . . . . . 479 The idea of a ‘just war’ . . . . . . . . . . . . . . . . . 481 
+Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . 473 24 The Hindu Religion and War . . . . . . . . . . . . . . . . . 475 Preamble . . . . . . . . . . . . . . . . . . . . . . . . . . 475 Aśoka and ancient warfare in India . . . . . . . . . . . . . . 475 The Arthaśāstra . . . . . . . . . . . . . . . . . . . . . 476 The principle of ahim. sā and the rules of war . . . . . . . . . 477 Ahim. sā . . . . . . . . . . . . . . . . . . . . . . . . . 477 The Bhagavadgītā . . . . . . . . . . . . . . . . . . . . 477 The rules of war . . . . . . . . . . . . . . . . . . . . . 479 The reports of Megasthenes and Ibn Bat.t.ūt.a . . . . . . . 479 The idea of a ‘just war’ . . . . . . . . . . . . . . . . . 481 
 
 
 
@@ -402,7 +402,7 @@ Images of Siva in his quadruple form . . . . . . . . . . . 490 ´
 
 Epigraphic sources attesting the worship of Siva . . . . . 493 ´ 
 
-Early Sanskrit sources of liṅga worship . . . . . . . . . . . . 496 The Pāśupatas¯utra and its commentary . . . . . . . . . 496 
+Early Sanskrit sources of liṅga worship . . . . . . . . . . . . 496 The Pāśupatasūtra and its commentary . . . . . . . . . 496 
 
 The Mahābhārata . . . . . . . . . . . . . . . . . . . . 496 
 
@@ -420,7 +420,7 @@ The sitting position of teacher and pupil in the Vedic
 
 Upanayana ritual . . . . . . . . . . . . . . . . . . . . . . 506 The Satapathabrāhman ´ . a . . . . . . . . . . . . . . . . . 506 
 
-The Gr.hyas¯utras . . . . . . . . . . . . . . . . . . . . . 508 
+The Gr.hyasūtras . . . . . . . . . . . . . . . . . . . . . 508 
 
 The sitting position of the preceptor and his audience . . . 511 
 
@@ -436,7 +436,7 @@ initiation ritual . . . . . . . . . . . . . . . . . . . . . . . 512 Initiation i
 
 xiv Contents 
 
-The Daks.in. ām¯urti . . . . . . . . . . . . . . . . . . . . . . 515 The definition of god’s figure of grace . . . . . . . . . . . 518 The Daks.in. ām¯urti and iconography . . . . . . . . . . . . . . 519 The development of a cult concept into an iconic image . . 521 A Daks.in. ām¯urti on a crossbar found in Nagarī . . . . . . 522 Daks.a’s sacrifice and his instruction in the 
+The Daks.in. āmūrti . . . . . . . . . . . . . . . . . . . . . . 515 The definition of god’s figure of grace . . . . . . . . . . . 518 The Daks.in. āmūrti and iconography . . . . . . . . . . . . . . 519 The development of a cult concept into an iconic image . . 521 A Daks.in. āmūrti on a crossbar found in Nagarī . . . . . . 522 Daks.a’s sacrifice and his instruction in the 
 
 Pāśupata vrata . . . . . . . . . . . . . . . . . . . . 524 
 
