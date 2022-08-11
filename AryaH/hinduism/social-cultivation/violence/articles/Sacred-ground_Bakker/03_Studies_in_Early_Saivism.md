@@ -13,7 +13,7 @@ title = "03 Studies in Early Saivism"
 
 
 
-Sources for Reconstructing Ancient Forms of Siva Worship ´ ∗ 
+## Sources for Reconstructing Ancient Forms of Siva Worship ´ 
 
 Siva Caturmukha ´ 
 
@@ -751,7 +751,7 @@ Text as given in Shah’s edition; śloka numbering mine. * It might be argued t
 
 
 
-At the Right Side of the Teacher∗ 
+## At the Right Side of the Teacher
 
 Imagination, Imagery, and Image in Vedic and Saiva Initiation ´ 
 
@@ -1559,9 +1559,7 @@ It thus appears that the central theme of both sides of the crossbar is the acqu
 
 
 
-Thanesar, the Pāśupata Order and the 
-
-Skandapurāṇa∗ 
+## Thanesar, the Pāśupata Order and the Skandapurāṇa
 
 Studies in the Skandapurāṇa IX 
 
@@ -2033,7 +2031,7 @@ ayaṁgrāmaḥśarirakoṭṭamaryādo(papanna)ś cāṭabhaṭānām apraveśy
 
 
 
-The Gospel of Kauṇḍinya∗ 
+## The Gospel of Kauṇḍinya
 
 The Descent of God in Gujarat and the Practice of Imitating God 
 
@@ -2661,7 +2659,7 @@ Map of northwestern India: spread of the Pāśupata movement
 
 
 
-The Quest for the Pāśupata Weapon∗ 
+## The Quest for the Pāśupata Weapon
 
 The Gateway of the Mahādeva Temple at 
 

@@ -2347,10 +2347,8 @@ Hence the manifestation of the Lord, this (image/manifestation) here (i.e. Kumā
 
 
 
-
-The So-called 
-
-‘Jaunpur Stone Inscription of Īśvaravarman’∗ 
+## Jaunpur Stone Inscription
+The So-called ‘Jaunpur Stone Inscription of Īśvaravarman’∗ 
 
 Preamble 
 
@@ -2728,7 +2726,7 @@ By placing the two Maukhari inscriptions side by side, we have won a more secure
 
 
 
-The Temple of Maṇḍaleśvarasvāmin∗ 
+## The Temple of Maṇḍaleśvarasvāmin
 
 The Muṇḍeśvarī Inscription of the Time of Udayasena 
 
@@ -3160,7 +3158,7 @@ or maṭhas in centres of pilgrimage that were on the rise, such as Vārāṇas�
 
 
 
-Monuments to the Dead in Ancient North India∗ 
+## Monuments to the Dead in Ancient North India
 
 Preamble 
 
@@ -4902,7 +4900,7 @@ As such it is one more ingenuous product of brahmanical ritualistic specu lation
 
 
 
-Rāma Devotion in a Saiva Holy Place ´ ∗ 
+## Rāma Devotion in a Saiva Holy Place ´ 
 
 The Case of Vārāṇasī 
 
@@ -5326,7 +5324,7 @@ dehu kāma-ripu rāma-carana-rati, tulasidāsa kahaṁkr̥pānidhāna k 4 k
 
 
 
-The Hindu Religion and War∗ 
+## The Hindu Religion and War
 
 Preamble 
 
