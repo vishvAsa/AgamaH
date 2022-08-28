@@ -20,3 +20,22 @@ $## Ritual and reincarnation route
 ### Ascent to brAhmaNa-hood
 - kApAlika-s, supposedly founded by a vaishya and his shUdra student, attempted significant subversion of the varNAshrama-dharma - as attested by rAmAnuja. \[[MT](https://manasataramgini.wordpress.com/2005/03/26/dvijas-and-non-dvijas-in-the-shaiva-cults/)\]
 
+## युगक्षय एको वर्णः
+Nāgeśabhaṭṭa in his Vrātyatāprāyaścittanirṇaya quotes Matsya Purāṇa to say that in Kaliyuga there shall be only one varṇa, like there was only one varṇa in Satyayuga.
+
+> अन्त्या मध्या भविष्यन्ति  
+> मध्याश्चाऽन्त्या न संशयः ।  
+> ब्राह्मणाः क्षत्रिया वैश्या  
+> न शिष्यन्ति जनाधिप ॥  
+> एकवर्णस् तदा लोको  
+> भविष्यति युगक्षये । 
+
+इत्युक्तेः ।  
+**युगक्षये** कलाव् अन्त्याः शूद्राः मध्याः क्षत्रियाः वैश्याः  
+शूद्रास् तत्सदृशाः,  
+स्वधर्मं सर्वथा त्यक्त्वा तिष्ठन्तीत्यर्थः । 
+
+तत्र क्षत्रिय-वैश्य-नाशो मात्स्य-वैष्णवयोः स्पष्टम् एवोक्तः सर्वथोच्छेद-रूपः ।  
+ब्राह्मण-नाशस् तु स्व-धर्म-हान्येति बोध्यम् ।  
+विप्राणाम् अपि शूद्राचारत्वाद् एकवर्ण इत्य् उक्तम् ।  
+**यथा सत्ययुगे** सर्वेषां धर्म-निष्ठत्वाद् एकवर्णत्वं मात्स्यादिषूक्तम् । 
