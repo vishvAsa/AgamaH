@@ -3,6 +3,8 @@ title = "०२ CONTENTS"
 
 +++
 
+[To be proofread]
+
 ## INTRODUCTION 
 
 Pages. 

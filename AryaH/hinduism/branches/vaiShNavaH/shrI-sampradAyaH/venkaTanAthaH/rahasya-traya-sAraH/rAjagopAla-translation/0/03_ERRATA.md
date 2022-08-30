@@ -2,6 +2,7 @@
 title = "०३ ERRATA"
 
 +++
+[To be proofread]
 
 The reader is requested to make these corrections before reading the book.
 

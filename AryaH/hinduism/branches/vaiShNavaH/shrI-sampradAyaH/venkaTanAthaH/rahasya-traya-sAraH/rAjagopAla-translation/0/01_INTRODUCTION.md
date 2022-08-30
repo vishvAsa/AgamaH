@@ -2,6 +2,7 @@
 title = "०१ INTRODUCTION"
 
 +++
+[To be proofread]
 
 ## Life and Writings of Sri Vedāntadestika 
 
