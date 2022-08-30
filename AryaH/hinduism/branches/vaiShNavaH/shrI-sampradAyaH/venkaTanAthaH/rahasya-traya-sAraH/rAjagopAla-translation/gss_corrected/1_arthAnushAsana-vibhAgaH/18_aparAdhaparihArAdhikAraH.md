@@ -97,12 +97,21 @@ SANSKRIT _ŚLOKA_S :
 
 All sins are destroyed, in four equal parts, by repentance, by abstention, by the endeavour to perform atonement and by the completion of the process of atonement. To those who feel remorse and repentance, whether the _prapatti_ is performed in a previous kalpa or in a later kalpa, there is no difference in the _prapatti_ to be performed although (there is a difference in the nature of sins committed). Similarly whether the sins be serious or venial, the performance of a single _prapatti_ done at a time will completely destroy at once (all sins).
 
-TAMIL VERSE:
+<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
 उळदान वल्विनैक्कुळ्ळम् वॆरुवि युलगळन्द  
 वळर्दामरैयिणै वन्सरणाग वरित्तवर् ताम्  
 कळैदानॆन वॆऴुङ् गन्मन् दुऱप्पर् तुऱन्दिडिलुम्  
 इळैदा निलै सॆग वॆङ्गळ्बिरानरुट्टेनॆऴुमे. (25 )
+</details>
+
+<details><summary>तमिऴ् - मूलम्</summary>
+
+उळदान वल्विनैक्कुळ्ळम् वॆरुवि युलगळन्द  
+वळर्दामरैयिणै वन्सरणाग वरित्तवर् ताम्  
+कळैदानॆन वॆऴुङ् गन्मन् दुऱप्पर् तुऱन्दिडिलुम्  
+इळैदा निलै सॆग वॆङ्गळ्बिरानरुट्टेनॆऴुमे. (25 )
+</details>
 
 Those who dread, at heart, the formidable sins that bear fruit at present and seek refuge at the two lotus-like feet of the Lord who measured the worlds, will be freed from all _karma_ which flourishes like weeds. In order to prevent the occurrence of future offences, the honey-like grace of our Lord prevails over the want of discrimination (aviveka) which gives rise to them.
 

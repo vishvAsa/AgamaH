@@ -44,12 +44,21 @@ _PRAPATTI_ IS OPEN TO ALL:
 
 If such qualifications exist, _prapatti_ is certainly open to all as an _upāya_, since there are no restrictions to it such as caste.
 
-TAMIL VERSE:
+<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
 अन्दणरन्दियरॆल्लैयिनिण्ड्रवनैत्तुलगम्  
 नॊन्दवरे मुदलाग नुडङ्गियनन्नियराय्  
 वन्दडैयुम् वगै वन्दगवेन्दि वरुन्दिय नम्  
 अन्दमिलादियै यन्बरऱिन्दऱिवित्तनरे. (17)
+</details>
+
+<details><summary>तमिऴ् - मूलम्</summary>
+
+अन्दणरन्दियरॆल्लैयिनिण्ड्रवनैत्तुलगम्  
+नॊन्दवरे मुदलाग नुडङ्गियनन्नियराय्  
+वन्दडैयुम् वगै वन्दगवेन्दि वरुन्दिय नम्  
+अन्दमिलादियै यन्बरऱिन्दऱिवित्तनरे. (17)
+</details>
 
 The devotees of the Lord ( _ācārya_ s) have themselves understood and have made us (also ) understand the eternal Lord who is the origin of all things and who is anxious to save us, being full of the might of mercy, so that all persons from the Brahmin to the Caṇḍāla and especially those who feel most the sufferings of _samsāra_ may, in their helplessness and without seeking any other saviour or any other fruit, approach Him and seek refuge under Him.
 

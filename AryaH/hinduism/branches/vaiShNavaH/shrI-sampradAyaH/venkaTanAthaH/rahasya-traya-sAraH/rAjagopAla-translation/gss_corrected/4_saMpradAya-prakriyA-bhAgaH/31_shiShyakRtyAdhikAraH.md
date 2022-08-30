@@ -66,12 +66,21 @@ SANSKRIT _ŚLOKA_ :
 
 The Vedas declare that a man attains _mokṣa_ by having an_ācārya_ and the same is declared in the _Smṛti_s also._ācārya_s knew that, in this world and so also, in the world beyond, the feet of the ācārya are the refuge (for the śiṣya).
 
-TAMIL VERSE:
+<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
 एट्रि मनत्तॆऴिन् ञानविळक्कै यिरुळनैत्तुम्  
 माट्रिनवर्क्कॊरु कैम्माऱु मायनुङ् गाणगिल्लान्  
 पोट्रियुगप्पदुम् पुन्दियिऱ्‌कॊळ्वदुम् पॊङ्गुबुगऴ्च्  
 चाट्रि वळर्प्पदुञ् जट्रल्लवो मुन्नम् पॆट्रदऱ्‌के. (48)
+</details>
+
+<details><summary>तमिऴ् - मूलम्</summary>
+
+एट्रि मनत्तॆऴिन् ञानविळक्कै यिरुळनैत्तुम्  
+माट्रिनवर्क्कॊरु कैम्माऱु मायनुङ् गाणगिल्लान्  
+पोट्रियुगप्पदुम् पुन्दियिऱ्‌कॊळ्वदुम् पॊङ्गुबुगऴ्च्  
+चाट्रि वळर्प्पदुञ् जट्रल्लवो मुन्नम् पॆट्रदऱ्‌के. (48)
+</details>
 
 Even (the omniscient and omnipotent) Mayan cannot requite the ācārya who dispelled all the darkness (in the mind) by lighting the bright lamp of wisdom therein. (Therefore) for what was received before (from the ācārya), it is indeed very little (that is done by the _śiṣya_) in recounting his praise with delight, in constant meditation of him, and in extending his growing renown.
 

@@ -26,7 +26,7 @@ SANSKRIT _ŚLOKA_:
 
 (2) Many are the paths prescribed (in the _śruti_s) (Karma _yoga_, _Jñāna_ _yoga_ and _Bhakti_ _yoga_), they are hard to understand and impossible of adoption owing to the restrictions and observances enjoined for them; the fruit to be attained by pursuing them is at too great a distance and (above all) they are unsuitable for simple folk (destitute of intelligence and ability) to us who feel anxious on these accounts, (He who is) the easy highway, the charioteer and the guide of all men, has, by His grace, enjoined certain victuals (the _carama_ _śloka_) for the journey in order to lead us to His own feet without any hindrances.
 
-TAMIL VERSE:
+<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
 ऒण्डॊडियाळ् तिरुमगळुन्दानुमागि यॊरुनिनैवा  
 लीण्ड्र वुयिरॆल्लामुय्य  
@@ -34,6 +34,17 @@ TAMIL VERSE:
 निण्ड्र तण्डुळवमलर्मार्बन् ऱाने सॊन्नतनित्तरुम न्दानॆमक्काय्त् तन्नै  
 यॆण्ड्रुङ् गण्डु कळित्तडि सूड विलक्काय्  
 निण्ड्र कण्बुदैयल् विळैयाट्टैक् कऴिक्किण्ड्राने. ॥ 41 ॥
+</details>
+
+<details><summary>तमिऴ् - मूलम्</summary>
+
+ऒण्डॊडियाळ् तिरुमगळुन्दानुमागि यॊरुनिनैवा  
+लीण्ड्र वुयिरॆल्लामुय्य  
+वण्डुवरै नगर् वाऴ वसुदेवऱ्‌काय् मन्न वर्क्कुत्तेर्प्पागनागि  
+निण्ड्र तण्डुळवमलर्मार्बन् ऱाने सॊन्नतनित्तरुम न्दानॆमक्काय्त् तन्नै  
+यॆण्ड्रुङ् गण्डु कळित्तडि सूड विलक्काय्  
+निण्ड्र कण्बुदैयल् विळैयाट्टैक् कऴिक्किण्ड्राने. ॥ 41 ॥
+</details>
 
 In order to afford salvation to all the beings created with one mind by Himself and _Lakṣmī_ of shining bracelets, He became the son of _Vāsudeva_ so that the beautiful city of Dwaraka might prosper. He was then pleased to be the charioteer of the princes (the Pandavas) and He has become for us the unique _dharma_ (_Siddhopāya_ ) which He, with Tulasi flowers adorning His chest, has Himself declared to us and puts a stop to the game of blind-man's buff which stood in the way of our seeing, enjoying and bearing His feet (in _Vaikuṇṭha_) on our head.
 
@@ -336,12 +347,21 @@ The interpretation (which is given by some) that what is asked to be given up is
 
 "The giving "up of _upāya_s" stated in such passages as the following :-One should give up the _upāya_s and also the apāyas (those activities that are forbidden )" should also be interpreted in the same way.
 
-(TAMIL VERSE EMBODYING THESE IDEAS :)
+(<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
 मूण्डालु मरियदनिन् मुयलवेण्डा मुन्नमदिलासैदनै विडुगै तिण्मै  
 वेण्डादु सरणनॆऱि वेऱोर्गूट्टु वेण्डि लयनत्तिरम्बोल् वॆळ्गि निऱ्‌कुम्  
 नीण्डागुनिऱैमदियोर् नॆऱियिऱ्‌कूडा निण्ड्रनिमै तुणैयाग वॆण्ड्रन् पादम्  
 पूण्डा लुन्बिऴैगळॆल्लाम् पॊऱुप्पेनॆण्ड्र पुण्णियनार् पुगऴनैत्तुम् पुगऴुवोमे. || 42 ||
+</details>
+
+<details><summary>तमिऴ् - मूलम्</summary>
+
+मूण्डालु मरियदनिन् मुयलवेण्डा मुन्नमदिलासैदनै विडुगै तिण्मै  
+वेण्डादु सरणनॆऱि वेऱोर्गूट्टु वेण्डि लयनत्तिरम्बोल् वॆळ्गि निऱ्‌कुम्  
+नीण्डागुनिऱैमदियोर् नॆऱियिऱ्‌कूडा निण्ड्रनिमै तुणैयाग वॆण्ड्रन् पादम्  
+पूण्डा लुन्बिऴैगळॆल्लाम् पॊऱुप्पेनॆण्ड्र पुण्णियनार् पुगऴनैत्तुम् पुगऴुवोमे. || 42 ||
+</details>
 
 "Do not endeavour to do what is beyond your power though you have begun the attempt; at the outset, it is the part of wisdom to give up the desire to do what lies beyond your ability; the path of _prapatti_ does not require any aids ; if you desire other aids for it, it will lose its potency like the _Brahma_ missile ; you are not among those who have the full knowledge required to follow the path of _bhakti_  or _upāsana_, which takes a long time to bear fruit; hence if you seek my feet as your refuge reflecting on your being destitute of other _upāya_s, I will pardon all your sins": Let us extol the great and good qualities of the holy _Śrī_ Kṛṣṇa who spoke these words.
 
@@ -585,7 +605,7 @@ If this is admitted, the knowledge of the relationship between the _jīva_ and _
 
 
 
-TAMIL VERSE:
+<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
 सादनमु नऱ्‌पयनु नाने यावन्  
 सादगनु मॆन्वसमा यॆन्नैप् पट्रुम्  
@@ -594,6 +614,18 @@ TAMIL VERSE:
 वेदनैसेर् वेऱङ्गमिदनिल् वेण्डा वेऱॆल्ला निऱ्‌कुनिलै नाने निऱ्‌पन्  
 तूदनुमा नादनुमा मॆन्नैप् पट्रिच्  
 चोगन्दीरॆन वुरैत्तान् सूऴ्गिण्ड्राने. // 43 //
+</details>
+
+<details><summary>तमिऴ् - मूलम्</summary>
+
+सादनमु नऱ्‌पयनु नाने यावन्  
+सादगनु मॆन्वसमा यॆन्नैप् पट्रुम्  
+सादनमुञ् जरणनॆऱि यण्ड्रुमक्कुच्  
+चादनङ्गळिन्निलैक्कोरिडैयिनिल्ला  
+वेदनैसेर् वेऱङ्गमिदनिल् वेण्डा वेऱॆल्ला निऱ्‌कुनिलै नाने निऱ्‌पन्  
+तूदनुमा नादनुमा मॆन्नैप् पट्रिच्  
+चोगन्दीरॆन वुरैत्तान् सूऴ्गिण्ड्राने. // 43 //
+</details>
 
 "I am the means as well as the end to be attained. The aspirant (to._mukti_) should become subject to me and seek my protection. The _upāya_ called _śaraṇāgati_ is not the direct means for the attainment. Sadhanas or means like _bhakti_  _yoga_ and _karma_  _yoga_ are no aids to _prapatti_; other troublesome _aṅga_s are not required for _prapatti_. I will myself stand in the place of all such means (as are prescribed for attaining the desired fruits). I am the messenger and the master. Seek me as your refuge and be free from all anxiety". So says the Lord and surrounds me on all sides).
 
@@ -1028,12 +1060,21 @@ This path (_prapatti_) has been disclosed (to us) by_ācārya_s who resorted to 
 
 
 
-TAMIL VERSE:
+<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
 कुऱिप्पुडन् मेवुन् दरुमङ्गळिण्ड्रि यक्कोवलनार्  
 वॆऱित्तुळवक्कऴल् मॆय्यरणॆण्ड्रु विरैन्दडैन्दु  
 पिरित्त विनैत्तिरळ् पिण्ड्रुडरावगैयप्पॆरियोर्  
 मऱिप्पुडै मन्नरुळ् वासगत्तान् मरुळट्रनमे. ( 45 )
+</details>
+
+<details><summary>तमिऴ् - मूलम्</summary>
+
+कुऱिप्पुडन् मेवुन् दरुमङ्गळिण्ड्रि यक्कोवलनार्  
+वॆऱित्तुळवक्कऴल् मॆय्यरणॆण्ड्रु विरैन्दडैन्दु  
+पिरित्त विनैत्तिरळ् पिण्ड्रुडरावगैयप्पॆरियोर्  
+मऱिप्पुडै मन्नरुळ् वासगत्तान् मरुळट्रनमे. ( 45 )
+</details>
 
 Giving up those _dharma_s which have to be performed with extreme care, we were convinced that the true refuge for us is the feet of that Gopala which are fragrant with tulasi and we resorted to them at once. By the gracious and fascinating words of that Supreme Person, we have become free from ignorance so that the _karma_  which has been separated from us can never follow us.
 

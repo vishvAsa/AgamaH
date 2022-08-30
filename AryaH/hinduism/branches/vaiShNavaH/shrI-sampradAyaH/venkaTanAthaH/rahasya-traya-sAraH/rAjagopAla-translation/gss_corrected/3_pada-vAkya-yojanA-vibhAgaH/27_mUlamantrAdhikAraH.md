@@ -591,7 +591,7 @@ As stated in the _śloka_ : “Whatever a man ought to know is all contained in 
 
 
 
-TAMIL VERSE:
+<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
 ऎट्टुमामूर्त्ति यॆण् कण्णनॆण्डिक्  
 कॆट्टिऱैयॆण्बिरगिरुदि  
@@ -601,6 +601,19 @@ TAMIL VERSE:
 यॆट्टुयोगाङ्गमॆण्सॆल्वम्  
 ऎट्टुमागुण मॆट्टॆट्टॆणुङ्गलै  
 यॆट्टिरद मेलनवु मॆट्टिनवे. ( 38)
+</details>
+
+<details><summary>तमिऴ् - मूलम्</summary>
+
+ऎट्टुमामूर्त्ति यॆण् कण्णनॆण्डिक्  
+कॆट्टिऱैयॆण्बिरगिरुदि  
+ऎट्टु मा वरैगळीण्ड्र वॆण्गुणत्तो  
+नॆट्टॆणु मॆण्गुणमदियोर्क्  
+कॆट्टुमामल रॆण्सित्ति यॆण्बत्ति  
+यॆट्टुयोगाङ्गमॆण्सॆल्वम्  
+ऎट्टुमागुण मॆट्टॆट्टॆणुङ्गलै  
+यॆट्टिरद मेलनवु मॆट्टिनवे. ( 38)
+</details>
 
 Those wise men with eight qualities who meditate on the _mantra_ of eight letters which treats of _Bhagavān_ who is possessed of eight qualities and who created the eight-bodied (Rudra), the eight-eyed (_Brahma_), the eight quarters and their eight guardians, the eight _prakṛti_s, and the eight great mountains-these wise men have, within their (easy) reach, the eight great flowers, the eight siddhis or super-natural powers, the eight kinds of _bhakti_  or devotion, the eight _aṅga_s or accessories of _yoga_, the eight kinds of wealth, the eight great qualities, the eight times eight arts or kalās and the rasa or emotional state or sentiment which is beyond the eight rasas, namely, the emotional state called sānti or serenity of spirit.
 
@@ -608,11 +621,15 @@ Those wise men with eight qualities who meditate on the _mantra_ of eight letter
 
 
 
-EXPLANATION OF TAMIL VERSE:
-
-
+EXPLANATION OF <details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
 To those great and wise men who meditate on the sacred _aṣṭākṣara_, which treats of the Supreme Ruler, who is the (ultimate) cause of all and who is opposed to everything of the nature of blemish and is, at the sametime, the abɔde of all auspicious qualities -(to these great men) whatever is desired by them among the spiritual virtues, the eight forms of wealth and the like is never beyond their reach. The 'eight-bodied' means Rudra who obtained the boon of having eight bodies, namely, the five elements (bhutas-earth, water, fire, air and ether or space), the moon and the sun and the man who performs a yajna or sacrifice; the eight-eyed refers to _Brahma_ who has eight eyes because of his four faces; the eight quarters; the eight guardians of the eight quarters such as lndra, the eight _prakṛti_s are the eight _tattva_s or reals like avyakta, mahat and ahañkāra, the eight great mountains means the eight chief mountain ranges[^97] ; 'who created these means the Supreme Being possessed of eight qualities who created all these; His eight qualities are being (1) without subjection to _karma_ , (2) without old age, or (3) death, or (1) grief, (5) or hunger or, (6) thirst, (7) the possession of eternal objects of enjoyment and (8) omnipotence or the ability to accomplish whatever He desires ; to those wise men possessed of wisdom with its eight _aṅga_s who meditate on the _mantra_' means to those enlightened men who are possessed of understanding with its eight _aṅga_s and who meditate on the sacred _aṣṭākṣara_ which is the chief _mantra_ among those that treat of _Bhagavān_.' The eight _aṅga_s of wisdom are " quickness of grasp, retention of what is learnt, remembrance, the ability to explain, inference, modification of what has been stated (to adapt it to new situations), reason, the knowledge of Truth - these are the eight qualities of understanding ". The eight great flowers are the following :-"Non-Violence (_ahimsā_) is the first flower, control of the senses is (another) flower: then comes the flower called compassion to all creatures, then the flower of forgiveness in special, then the flower of knowledge, the flower of tapas and so also the flower of contemplation (_dhyāna_) and the flower of truth these eight kinds of fiowers are most pleasing to _Viṣṇu_, The eight siddhis are inference, the knowledge of words, learning Vedanta, freedom from the three kinds of suffering; that in the body brought about by animals, and that due to the (anger of the ) gods, like storm and lightning. the possession of friends and charity. The eight forms of devotion are the following :- Love to God's devotees without an eye to their faults, delight in the worship offered to Him by others, an eagerness to listen to stories concerning _Bhagavān_, changes in the voice and the body and tears in the eyes while listening to them, efforts to worship _Bhagavān_, freedom from hypocrisy in one's relations towards God, constant meditation on God, and freedom from the expectation of rewards from God. The eight _aṅga_s of _yoga_ are yama, _niyama_ and the rest (_āsana_, _prāṇāyāma_, _pratyāhāra_, _dhyāna_, _dhāraṇa_ and _samādhi_); the eight forms of wealth are:- the power to contract one's body to a much smaller size, the power to make one's body assume larger dimensions, the power to make oneself light (of weigbt), the power to make oneself heavy, perfect control over oneself, control over others, the attainment of whatever is desired, and success by merely desiring it.
+</details>
+
+<details><summary>तमिऴ् - मूलम्</summary>
+
+To those great and wise men who meditate on the sacred _aṣṭākṣara_, which treats of the Supreme Ruler, who is the (ultimate) cause of all and who is opposed to everything of the nature of blemish and is, at the sametime, the abɔde of all auspicious qualities -(to these great men) whatever is desired by them among the spiritual virtues, the eight forms of wealth and the like is never beyond their reach. The 'eight-bodied' means Rudra who obtained the boon of having eight bodies, namely, the five elements (bhutas-earth, water, fire, air and ether or space), the moon and the sun and the man who performs a yajna or sacrifice; the eight-eyed refers to _Brahma_ who has eight eyes because of his four faces; the eight quarters; the eight guardians of the eight quarters such as lndra, the eight _prakṛti_s are the eight _tattva_s or reals like avyakta, mahat and ahañkāra, the eight great mountains means the eight chief mountain ranges[^97] ; 'who created these means the Supreme Being possessed of eight qualities who created all these; His eight qualities are being (1) without subjection to _karma_ , (2) without old age, or (3) death, or (1) grief, (5) or hunger or, (6) thirst, (7) the possession of eternal objects of enjoyment and (8) omnipotence or the ability to accomplish whatever He desires ; to those wise men possessed of wisdom with its eight _aṅga_s who meditate on the _mantra_' means to those enlightened men who are possessed of understanding with its eight _aṅga_s and who meditate on the sacred _aṣṭākṣara_ which is the chief _mantra_ among those that treat of _Bhagavān_.' The eight _aṅga_s of wisdom are " quickness of grasp, retention of what is learnt, remembrance, the ability to explain, inference, modification of what has been stated (to adapt it to new situations), reason, the knowledge of Truth - these are the eight qualities of understanding ". The eight great flowers are the following :-"Non-Violence (_ahimsā_) is the first flower, control of the senses is (another) flower: then comes the flower called compassion to all creatures, then the flower of forgiveness in special, then the flower of knowledge, the flower of tapas and so also the flower of contemplation (_dhyāna_) and the flower of truth these eight kinds of fiowers are most pleasing to _Viṣṇu_, The eight siddhis are inference, the knowledge of words, learning Vedanta, freedom from the three kinds of suffering; that in the body brought about by animals, and that due to the (anger of the ) gods, like storm and lightning. the possession of friends and charity. The eight forms of devotion are the following :- Love to God's devotees without an eye to their faults, delight in the worship offered to Him by others, an eagerness to listen to stories concerning _Bhagavān_, changes in the voice and the body and tears in the eyes while listening to them, efforts to worship _Bhagavān_, freedom from hypocrisy in one's relations towards God, constant meditation on God, and freedom from the expectation of rewards from God. The eight _aṅga_s of _yoga_ are yama, _niyama_ and the rest (_āsana_, _prāṇāyāma_, _pratyāhāra_, _dhyāna_, _dhāraṇa_ and _samādhi_); the eight forms of wealth are:- the power to contract one's body to a much smaller size, the power to make one's body assume larger dimensions, the power to make oneself light (of weigbt), the power to make oneself heavy, perfect control over oneself, control over others, the attainment of whatever is desired, and success by merely desiring it.
+</details>
 
 [^97]: They are Himavān, Vishada, Vindhya, Mālyavān, Pāriyātraka. Mandara. Malaya and Meru.
 
@@ -631,12 +648,21 @@ Thus (we have shown here what was taoght by (_acāryā_s) who were free from the
 
 
 
-TAMIL VERSE:---
+<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
 उयर्न्द नङ्गावलनल्लार्गुरिमै तुऱन्दुयिराय्  
 मयर्न्दमै तीर्न्दु मट्रोर् वऴियिण्ड्रि यडैक्कलमाय्  
 पयन्द वन्नारणन्बादङ्गळ् सेर्न्द पऴवडियार्  
 नयन्द कुट्रेवलॆल्ला नाडु नन् मनु वोदिनमे. ( 39 )
+</details>
+
+<details><summary>तमिऴ् - मूलम्</summary>
+
+उयर्न्द नङ्गावलनल्लार्गुरिमै तुऱन्दुयिराय्  
+मयर्न्दमै तीर्न्दु मट्रोर् वऴियिण्ड्रि यडैक्कलमाय्  
+पयन्द वन्नारणन्बादङ्गळ् सेर्न्द पऴवडियार्  
+नयन्द कुट्रेवलॆल्ला नाडु नन् मनु वोदिनमे. ( 39 )
+</details>
 
 
 

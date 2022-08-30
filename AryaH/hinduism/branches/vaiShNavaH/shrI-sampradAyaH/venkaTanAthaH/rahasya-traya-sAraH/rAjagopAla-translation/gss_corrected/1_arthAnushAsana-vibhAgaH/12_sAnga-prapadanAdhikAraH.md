@@ -94,12 +94,21 @@ Doing what is pleasing (to the Lord) and avoiding what is displeasing (in one's 
 
 Therefore wise are they who perform _prapatti_ in order to render faultless service during their life-time and to attain _mokṣa_  after casting off the body resulting from prārabdha _karma_,
 
-TAMIL VERSE:
+<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
 अऱवे परमॆण्ड्रडैक्कलम् वैत्तनरण्ड्रु नम्मैप्  
 पॆऱवे करुदिप् पॆरुन्दगवुट्र पिरानडिक्कीऴ्  
 उऱवेयिवनुयिर् काक्किण्ड्र वोरुयिरुण्मैयै नी  
 मऱवेलॆन नम्मऱैमुडिसूडिय मन्नवरे. (19)
+</details>
+
+<details><summary>तमिऴ् - मूलम्</summary>
+
+अऱवे परमॆण्ड्रडैक्कलम् वैत्तनरण्ड्रु नम्मैप्  
+पॆऱवे करुदिप् पॆरुन्दगवुट्र पिरानडिक्कीऴ्  
+उऱवेयिवनुयिर् काक्किण्ड्र वोरुयिरुण्मैयै नी  
+मऱवेलॆन नम्मऱैमुडिसूडिय मन्नवरे. (19)
+</details>
 
 Our princely _ācārya_ s, who wear the crown of proficiency in the Vedas, have placed us for protection under the feet of the Lord, who, from beginningless time, has resolved, in His great compassion, to save us; they have done so in order that there may be no further responsibility in ourselves (for our protection), by saying to us, "Do not forget the truth that the Lord, who is the soul of the world, will protect you who are related to Him as _śeṣa_ (existing solely for His purposes),"
 

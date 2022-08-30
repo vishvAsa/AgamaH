@@ -242,12 +242,21 @@ _Śrī_ _Rāmānuja_ has explained in such treatises as _Śrī_ _Bhāṣya_ how 
 
 Similarly answers to other misconceptions that might arise in regard to sūdhyopāya (_bhakti_ and _prapatti_) may be found in _Nikṣepa_ raksha. _Sādhyopāya_ as clarified in this chapter should be borne in mind in regard to the three mysteries (_mantra_s) in the appropriate place.
 
-TAMIL VERSE:
+<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
 वरिक्किण्ड्रनन् परन् यावरैयॆन्नु मऱैयदनिल्  
 विरिक्किण्ड्रदुङ्गुऱियॊण्ड्राल् विनैयरैयादलिनाम्  
 उरैक्किण्ड्र नन्नॆऱियोरुम्बडिगळिलोर्न्दुलगम्  
 तरिक्किण्ड्र तारगनार् तगवाऱ्‌ ऱरिक्किण्ड्रनमे. ( 35 )
+</details>
+
+<details><summary>तमिऴ् - मूलम्</summary>
+
+वरिक्किण्ड्रनन् परन् यावरैयॆन्नु मऱैयदनिल्  
+विरिक्किण्ड्रदुङ्गुऱियॊण्ड्राल् विनैयरैयादलिनाम्  
+उरैक्किण्ड्र नन्नॆऱियोरुम्बडिगळिलोर्न्दुलगम्  
+तरिक्किण्ड्र तारगनार् तगवाऱ्‌ ऱरिक्किण्ड्रनमे. ( 35 )
+</details>
 
 The _Śruti_ states at length that the Supreme Being chooses those who should win His grace; but this choice (of the _jīva_ bound by _karma_ for the bestowal of His grace) is based on some consideration. Therefore we obtain redemption by the mercy of the Lord who, as antaryāmī, supports the world and, as Saviour, helps us cross the sea of _samsāra_ and by understanding clearly the good paths for winning His grace (_bhakti_ and _prapatti_) as described in the śāstras.
 

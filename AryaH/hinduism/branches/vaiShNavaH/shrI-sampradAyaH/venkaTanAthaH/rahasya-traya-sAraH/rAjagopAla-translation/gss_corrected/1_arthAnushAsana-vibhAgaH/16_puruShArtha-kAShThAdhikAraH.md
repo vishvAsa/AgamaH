@@ -63,10 +63,17 @@ So also when each of the two Bhāgavatas is bent on promoting the glory (atisaya
 
 The relationship of being a servant (dása) to _Bhagavān_ and Bhāgavatas owing to an appreciation of their qualities or character adds to one's delight or enjoyment and promotes one's own exaltation. In this, _Iśvara_, by His omnipotence and His will which accompanies it, enables all Bhāgavatas to become _śeṣī_ s. Taking their desire also along with His own will, _Iśvara_ makes them _śeṣa_s to Bhāgavatas. Since both the Bhāgavatas stand in the relation of _śeṣī_ s to each other as having been fit to be directed by the Master to do His will, both of them attain their true and essential nature (_svarūpa_). They attain the ultimate limit of their _puruṣārtha_ or goal of life, since they attain the relationship of being _śeṣa_s, which they are eager to have and also the privilege of rendering service to the Bhāgavata which follows from it. Since _Iśvara_ delights in having directed them to become _śeṣa_s and s'eshīs to each other, _Iśvara_ attains the state of being an _Iśvara_ or ruler and of being an enjoyer. Since they realise clearly that this relationship of being _śeṣa_s and _śeṣī_s to each other contributes to the enjoyment (bhoga) of _Iśvara_, they attain the faultless and ultimate limit of _puruṣārtha_ By those who have done what should be done (prapannas), who understand this subtle truth and are convinced of it, the grace of devotees who are exclusively and supremely attached to the Lord will be desired as an end in itself - devotees who are free from the following stains : the desire for transgressing the Lord's commands, excess of doubt, connection with other deities, enjoyment depending on one's own effort and enjoyment for one's own self.
 
-TAMIL VERSE:
+<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
 वेदमऱिन्द पगवर् वियक्क विळङ्गिय सीर्  
 नादन् वगुत्त वगै पॆऱुनामवनल्लडियार्क्-
+</details>
+
+<details><summary>तमिऴ् - मूलम्</summary>
+
+वेदमऱिन्द पगवर् वियक्क विळङ्गिय सीर्  
+नादन् वगुत्त वगै पॆऱुनामवनल्लडियार्क्-
+</details>
 
 कादरमिक्क वडिमै यिसैन्दऴियामऱैनूल्  
 नीदि निऱुत्त निलैगुलैया वगै निण्ड्रनमे. (23 )

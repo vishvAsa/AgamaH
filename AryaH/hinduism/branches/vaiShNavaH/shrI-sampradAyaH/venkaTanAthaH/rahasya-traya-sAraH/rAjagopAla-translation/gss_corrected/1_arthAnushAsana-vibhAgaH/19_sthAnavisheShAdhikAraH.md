@@ -38,7 +38,7 @@ It is true that it is said: “ The places where a man in full control of his se
 
 Therefore the statement in the following _śloka_  :-- "The man " who performs _prapatti_ by uttering this _mantra_ at the very time when he attains this knowledge -- that man attains _mokṣa_  wherever he may die losing his consciousness whether it be in a holy place of pilgrimage or the house of one who eats dog's flesh" - this statement that there is no special place prescribed for death, should also be understood in the light of what has been said above, as pointing out that this will be no hindrance to the attainment of _mokṣa_ .
 
-TAMIL VERSES :
+<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
 आरादवरुळमुदम् पॊदिन्द कोयि  
 लम्बुयत्तो नयोत्तिमन्नर्क् कळित्तगोयिल्  
@@ -48,6 +48,19 @@ TAMIL VERSES :
 सॆऴुमऱैयिन् मुदलॆऴुत्तुच् चेर्न्दगोयिल्  
 तीराद विनैयनैत्तुन् दीर्क्कुङ्गोयिल्  
 तिरुवरङ्गमॆनत् तिगऴुङ्गोयिल् ताने.
+</details>
+
+<details><summary>तमिऴ् - मूलम्</summary>
+
+आरादवरुळमुदम् पॊदिन्द कोयि  
+लम्बुयत्तो नयोत्तिमन्नर्क् कळित्तगोयिल्  
+तोराद तनिवीरन् तॊऴुदगोयिल्  
+तुणैयान वीडणऱ्‌कुत् तुणैयाङ्गोयिल्  
+सेराद पयनॆल्लाञ् जेर्क्कुङ्गोयिल्  
+सॆऴुमऱैयिन् मुदलॆऴुत्तुच् चेर्न्दगोयिल्  
+तीराद विनैयनैत्तुन् दीर्क्कुङ्गोयिल्  
+तिरुवरङ्गमॆनत् तिगऴुङ्गोयिल् ताने.
+</details>
 
 (1) The temple or Vimana which is renowned as _Śrī_r_aṅga_n, the temple or vimāna which was granted to the rulers of Ayodhya by the lotus-born _Brahma_, the temple or vimana where the invincible and incomparable ŚrīRama worshipped, the temple or vimāna which is the refuge of Vibhishana, the ally of ŚrīRama, the temple or vimāna, which secures all sorts of benefits unattainable elsewhere, the temple or vimāna which has the shape of _praṇava_, the temple or vimāna which destroys all sins, however insurmountable they may be that temple of _Śrī_r_aṅga_m is indeed full of the nectar of grace which never satiates.
 

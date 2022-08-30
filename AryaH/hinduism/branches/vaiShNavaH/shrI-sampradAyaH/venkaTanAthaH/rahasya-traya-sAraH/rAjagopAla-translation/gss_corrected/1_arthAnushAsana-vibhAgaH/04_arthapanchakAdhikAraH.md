@@ -385,12 +385,21 @@ How can this chief hindrance which is of the nature of divine punishment resulti
 
 All these hindrances to _mokṣa_  are to be understood in whatever is contrary to what is ordained in the three mysteries (_mantra_s) (e. g. the feeling that the _jīva_ is independent and acts for his own purposes which is opposed to the truths shown in the aṣṭākṣara), in the egoism, or sense of 'my' or 'mine' in the genitive mama in namah (na + mama) and also in the words ‘all thy sins' in the _carama_ _śloka_ . These have to be thought of, so that one may feel the suffering which lies in walking on the hot sands of _samsāra_ and desire to hasten towards the path leading to bliss.
 
-TAMIL VERSE :
+<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
 पॊरुळॊण्ड्रॆन निण्ड्र पूमगळ् नादन् अवनडिसेर्न्दु  
 अरुळॊण्ड्रुम् अन्बनवन् कॊळुबायम् अमैन्द पयन्  
 मरुळॊण्ड्रिय विनै वल्विलङ्गॆण्ड्रु इवैयैन्दऱिवार्  
 इरुळॊण्ड्रिलावगै ऎन्मनन्देऱ इयम्बिनरे. // 11 //
+</details>
+
+<details><summary>तमिऴ् - मूलम्</summary>
+
+पॊरुळॊण्ड्रॆन निण्ड्र पूमगळ् नादन् अवनडिसेर्न्दु  
+अरुळॊण्ड्रुम् अन्बनवन् कॊळुबायम् अमैन्द पयन्  
+मरुळॊण्ड्रिय विनै वल्विलङ्गॆण्ड्रु इवैयैन्दऱिवार्  
+इरुळॊण्ड्रिलावगै ऎन्मनन्देऱ इयम्बिनरे. // 11 //
+</details>
 
 Those who know these five have declared them in order that I may not despair in mind and in order that the darkness of ignorance may not confound me- the five namely - the Lord of the lotus-born Lakṣmī , who stands as the one thing to be attained, the _jīva_ who loves the lord and craves for His grace by seeking His feet, the means (or _upāya_) to be adopted by the _jīva_ for the attainment, and the fruit resulting therefrom, as also the strong fetters of sin due to delusion or ignorance (which are hindrances).
 

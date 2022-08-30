@@ -37,12 +37,21 @@ The _prapanna_ who has attained _niṣṭhā_ in _puruṣārtha_ has neither ple
 
 Thus by observing these signs in himself, the man may realise that he is well established in the state of a true _prapanna_ in regard to his essential Nature (_svarūpa_), his _upāya_ and his supreme aim (_puruṣārtha_) as stated in the _śloka_ I am a self, not a body; I am the _śeṣa_ who exists only for Lord; I have no possessions of my own; I have sought His protection with the desire to render service to Him" and as understood also from Tirumantra and the like. To the _prapanna_ who has seen in himself these signs, there will be no causes of fear confronting him other than offence to those who know _Brahman_, which might occur (as a possibility) on account of his living in the midst of enemies (the body and the senses), nor sources of delight other than the service which suits his essential nature. This may be seen in the case of Sītā devi of whom it is said, "Sītā does not look at these Rākṣasis; she does not look at these trees full of flowers and fruits. Her heart is fixed on one alone and she sees only ŚrīRama". If by chance, these (other causes of fear and sources of delight) come before him, he will have neither fear nor delight.
 
-TAMIL VERSE:
+<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
 मुक्कियमन्दिरङ्गाट्टिय मूण्ड्रिनिलैयुडैयार्  
 तक्कवैयण्ड्रित् तगादवैयॊण्ड्रुन् दमक्किसैयार्  
 इक्करुमङ्गळॆमक्कुळवॆन्नुमिलक्कणत्ताल्  
 मिक्कवुणर्त्तियर् मेदिनिमेविय विण्णवरे. ( 21 )
+</details>
+
+<details><summary>तमिऴ् - मूलम्</summary>
+
+मुक्कियमन्दिरङ्गाट्टिय मूण्ड्रिनिलैयुडैयार्  
+तक्कवैयण्ड्रित् तगादवैयॊण्ड्रुन् दमक्किसैयार्  
+इक्करुमङ्गळॆमक्कुळवॆन्नुमिलक्कणत्ताल्  
+मिक्कवुणर्त्तियर् मेदिनिमेविय विण्णवरे. ( 21 )
+</details>
 
 Those who have become well-established in their knowledge of the three things shown in the Tirumantra (namely, _svarūpa_, _upāya_, and _puruṣārtha_) will never agree to do what is improper and will do only what is proper. They are really wise men who find, in themselves, these attitudes and actions and they may be called eternal sūris living on the earth.
 

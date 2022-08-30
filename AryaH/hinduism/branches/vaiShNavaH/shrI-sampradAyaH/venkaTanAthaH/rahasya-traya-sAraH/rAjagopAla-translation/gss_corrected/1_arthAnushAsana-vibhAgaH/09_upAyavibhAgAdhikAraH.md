@@ -75,12 +75,21 @@ That the two are different from each other is evident from the adhikarana or sec
 
 It may be seen that, as in _upāsanā_s there are differences in _mantra_s and the like (_aṅga_s), there are, in _Nyāsa_ _Vidyā_ also, differences stated in the different branches of the vedas (Shakhas) and in the different samhitas of the agamas. Just as obeisance (namaskāra) is divided into three forms, verbal, mental and bodily, so _prapatti_, too, is said to be of different kinds owing to the excess of one or other of these differences. It has been stated by some that, just as obeisance becomes complete when all the three, verbal, mental and bodily are combined, _prapatti_, too, becomes complete when verbal and bodily actions are combined with mental states or _jñāna_. This statement of theirs should be understood as meaning that mental _prapatti_ is full and complete and that verbal and bodily activities are, as it were, the overflow of the mental _prapatti_ (_jñāna_). (It should not be taken to mean that _prapatti_ is incomplete when verbal and bodily actions are absent). We have already stated that all these are productive of the desired result or fruit in accordance with the competency of those who adopt them,
 
-110 TAMIL VERSE:
+110 <details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
 निण्ड्रनिलैक्कुऱ निऱ्‌कुङ् गरुममुनेर्मदियाल्  
 नण्ड्रॆन नाडिय ञानमुनल्गुमुट्कण्णुडैयार्  
 ऒण्ड्रियबत्तियुमॊण्ड्रुमिलाविरैवार्क्करुळाल्  
 अण्ड्रु पयण्ड्ररुमाऱुमऱिन्दवरन्दणरे. (16)
+</details>
+
+<details><summary>तमिऴ् - मूलम्</summary>
+
+निण्ड्रनिलैक्कुऱ निऱ्‌कुङ् गरुममुनेर्मदियाल्  
+नण्ड्रॆन नाडिय ञानमुनल्गुमुट्कण्णुडैयार्  
+ऒण्ड्रियबत्तियुमॊण्ड्रुमिलाविरैवार्क्करुळाल्  
+अण्ड्रु पयण्ड्ररुमाऱुमऱिन्दवरन्दणरे. (16)
+</details>
 
 They are Brahmins who know the following :-- (1) Karma Yoga is suited to one's state (viz. _varṇa_, _āśrama_ and the like); (2) _Jñāna_ Yoga adopted with keen intelligence on account of its beneficial results: (3) _Bhakti_ Yoga adopted by those with an inner vision which is delightful and (4) _Prapatti_ which yields immediate fruit by the grace of God to those who are destitute of the qualifications (for the other three ) and who cannot endure delay in attaining _mokṣa_ .
 

@@ -80,12 +80,21 @@ It may be asked whether the description contained in the slokās and Tamil verse
 
 Thereafter (i.e. after repose by the side of the Supreme Being), the self or soul attains perfect knowledge being awakened by the Lord (who is wise) and who says that "the _Jīva_   gets knowledge, memory and forgetfulness only from Him. Lighted by that knowledge, it enters into the _Brahma_ Nadi. Thence  forward Time is one eternal day for the self.
 
-TAMIL VERSE:
+<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
 नन्निलमामदु नऱ्‌पगलामदु नन्निमित्तम्  
 ऎन्नलुमामदुयादानुमा मङ्गडियवर्क्कु  
 मिन्निलैमेनि विडुम्बयणत्तु विलक्किलदोर्  
 नन्निलैया नडु नाडिवऴिक्कु नडैबॆऱवे. (27)
+</details>
+
+<details><summary>तमिऴ् - मूलम्</summary>
+
+नन्निलमामदु नऱ्‌पगलामदु नन्निमित्तम्  
+ऎन्नलुमामदुयादानुमा मङ्गडियवर्क्कु  
+मिन्निलैमेनि विडुम्बयणत्तु विलक्किलदोर्  
+नन्निलैया नडु नाडिवऴिक्कु नडैबॆऱवे. (27)
+</details>
 
 To the _prapanna_ (who is a devotee of Śrī Raṅganātha) who departs from the body which is as transient as lightning and who is to journey from the central _Brahma_ nadi, along the beautiful and shining path (of arcirādi), which is free from all impediments, the place of his departure is itself an auspicious place, the day of his departure is itself an auspicious day, the omens and signs that are then seen are all auspicious, whatever they may be.
 

@@ -253,12 +253,21 @@ SANSKRIT _ŚLOKA_S :
 
 This determination of the potency (of _prapatti_) should be borne in mind as being connected with the quality of _Iśvara_ as the controller indicated in the three mysteries (_mantra_s).
 
-TAMIL VERSE:
+<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
 तगवाट्ररिक्किण्ड्र तन्नडियार्गळैत् तण्ड्रिऱत्तिल्  
 मिगवादरञ्जॆय्युमॆय्यरुळ्वित्तगन्मॆय्युरैयिन्  
 अगवायऱिन्दवरारण नीदिनॆऱिगुलैदल्  
 उगवारॆनवॆङ्गडेसिगरुण्मैयुरैत्तनरे. ( 36 )
+</details>
+
+<details><summary>तमिऴ् - मूलम्</summary>
+
+तगवाट्ररिक्किण्ड्र तन्नडियार्गळैत् तण्ड्रिऱत्तिल्  
+मिगवादरञ्जॆय्युमॆय्यरुळ्वित्तगन्मॆय्युरैयिन्  
+अगवायऱिन्दवरारण नीदिनॆऱिगुलैदल्  
+उगवारॆनवॆङ्गडेसिगरुण्मैयुरैत्तनरे. ( 36 )
+</details>
 
 Our _ācārya_s have declared that those who have understood the real import of the infallible words (in the _carama_ _śloka_ ) uttered by _Śrī_ Kṛṣṇa, whose attributes and actions are wonderful, who is full of compassion and who has greater regard than for Himself to His servants that endure their existence only by His grace (or who shows His great regard to His servants by giving them His own likeness) – our _ācārya_s hive declared that those who have understood the real import of _Śrī_ Kṛṣṇa's words will never approve the non-observance of the way of life ordained in the Veda or Vedanta.
 

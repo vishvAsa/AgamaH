@@ -92,12 +92,21 @@ About this code of conduct (of the _prapanna_) we will now state what is conside
 
 This code of conduct which should be followed after _prapatti_ and which is an end in itself should be considered in those parts of the three mysteries (_mantra_s ) which indicate the benefit or fruit that results.
 
-TAMIL VERSE:
+<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
 विण्णवर् वेण्डि विलक्किण्ड्रि मेवुमडिमैयॆल्लाम्  
 मण्णुलगत्तिन् मगिऴ्न्दडैगिण्ड्रनर् वण्डुवरैक्  
 कण्णनडैक्कलङ् गॊळ्ळक् कडन्गळ् कऴट्रिय नम्  
 पण्णमरुन्दमिऴ्वेदमऱिन्द पगवर्गळे. ( 22)
+</details>
+
+<details><summary>तमिऴ् - मूलम्</summary>
+
+विण्णवर् वेण्डि विलक्किण्ड्रि मेवुमडिमैयॆल्लाम्  
+मण्णुलगत्तिन् मगिऴ्न्दडैगिण्ड्रनर् वण्डुवरैक्  
+कण्णनडैक्कलङ् गॊळ्ळक् कडन्गळ् कऴट्रिय नम्  
+पण्णमरुन्दमिऴ्वेदमऱिन्द पगवर्गळे. ( 22)
+</details>
 
 Our holy men who know the songs of the Tamil Veda with their meaning and who have discharged all their debts (to the gods, the pitṛs etc.) by the performance of _prapatti_ accepted by Śrīkṛṣṇa of the beautiful Dwaraka, enjoy, with delight, even in this world, that service which the muktas and the suris perform without intermission and with eagerness in the world yonder.
 

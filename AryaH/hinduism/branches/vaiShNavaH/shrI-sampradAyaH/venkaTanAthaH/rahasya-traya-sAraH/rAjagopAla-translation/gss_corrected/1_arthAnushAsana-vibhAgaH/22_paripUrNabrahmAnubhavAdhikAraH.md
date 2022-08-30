@@ -94,12 +94,21 @@ THE MUKTA WILL NEVER BE IN _SAMSĀRA_ AGAIN :
 
 If it be so, it may be asked whether the _mukta_  who is not independent (of God) may not, for some reason or other, incur the possibility of a return to _samsāra_. The _jīva_'s dependence on Iswars has been stated in the _śloka_  :-“For enabling a man to get the good things of life, and for taking away from him the ills of life, there is no one other than _Puruṣottama_ who is competent ''. The answer to that question is, "There will be no such possibility, for has He not Himself declared :- "Those who perform _bhakti_ _yoga_ with great devotion and those who have performed _prapatti_ which is considered as a superior form of penance (tapas) will obtain sāyujya and will for ever render service to me. They will always be free from the ills of _samsāra_". Ever in the state of desire for _mukti_, the _mukta_ had an aversion to the enjoyment of non-sentient things (matter) and also to the mere enjoyment of his own self (kaivalya). This aversion is now well established in him; for as he sees all things having _Brahman_ as their inner self, there is no possibility of his enjoying his own self as separate (from everything else), and as he sees by constant perception (pratyaksha ) the imperfections of all other objects (than God), there is no possibility of his returning to _samsāra_ of his own free will. As his knowledge of the three _tattva_s, _cit_. _acit_ and _Iśvara_ and of what is good and what is evil, which he acquired before, has now attained expansion without any break or contraction, there is no possibility of his ever going back to _samsāra_ owing to a_jñāna_ or ignorance. The knowledge which formerly in _samsāra_ deepened into the form of love called _bhakti_ and which he acquired by his distinctive knowledge of the specific nature of _Bhagavān_ has, now, in the state of _mukti_, become ripened into the form of supreme love, because he has now a vision of all aspects of _Bhagavān_'s distinctive nature of which even the śāstra s are incapable. Therefore _Iśvara_'s great love for him as stated in the _śloka_ : "The jnanī is dear to me (How dear he is to me cannot be described even by me, Omniscient though I am)" - _Iśvara_'s love for himna is so overwhelming that its flow is irresistible and that its current reaches even those uplands which are connected with him only in distant relationship. Therefore it cannot be stated that, though he is free from _karma_, there is the possibility of his returning to _samsāra_ by the will of _Iśvara_ who is independent (and all-powerful). Since the _mukta_ is no longer subject to the injunctions of śāstra , there is no possibility of his violating the Lord's command in the state of _mukti_. He cannot do anything opposed to the will of _Iśvara_ as the Lord's pleasure is now his pleasure. Therefore the ultimate goal or attainment called _mokṣa_ , which is of the nature of perfect and full enjoyment of _Brahman_ and which extends into service, has now become eternal for him (i.e.) it will last as long as his soul lasts. Considering all this, the Sitra-kāra said: "There is no return (to _samsāra_) - no return, for the Scripture says so."
 
-TAMIL VERSE:
+<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
 एऱि ऎऴिऱ्‌पदमॆल्लावुयिर्क्कुमिदमुगक्कुम्  
 नाऱुदुऴाय्मुडि नादनै नण्णि यडिमैयिल् नम्  
 कूऱुगवर्न्दु कुरुक्कळ् कुऴाङ्गळ् कुरैगऴऱ्‌ कीऴ्  
 माऱुदलिण्ड्रि मगिऴ्न्दॆऴुम् पोगत्तु मन्नुवमे. (29)
+</details>
+
+<details><summary>तमिऴ् - मूलम्</summary>
+
+एऱि ऎऴिऱ्‌पदमॆल्लावुयिर्क्कुमिदमुगक्कुम्  
+नाऱुदुऴाय्मुडि नादनै नण्णि यडिमैयिल् नम्  
+कूऱुगवर्न्दु कुरुक्कळ् कुऴाङ्गळ् कुरैगऴऱ्‌ कीऴ्  
+माऱुदलिण्ड्रि मगिऴ्न्दॆऴुम् पोगत्तु मन्नुवमे. (29)
+</details>
 
 Having reached the dazzling region of Paramapada and approached the Lord crowned with fragrant tulasī, who is ever delighted in doing what is good to all beings, and having obtained our share in service (to them), we shall ever live under the sounding anklets of the assembly of our _ācārya_s and enjoy delights which will never change and which will spring (from within us) to our great joy.
 

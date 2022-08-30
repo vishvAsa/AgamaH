@@ -55,12 +55,21 @@ To the man who has adopted _bhakti_ or _upāsana_ as his _upāya_, the meditatio
 
 Of this meditation on the path to _mukti_, the state of Sītā is an example (of whom it is said):"It looked as if Sītā was driving in the chariot of her mind drawn by her desires which were like fleet horses, towards ŚrīRama, the greatest of kings, who was aware of his nature that always insisted on protecting those that sought his help".
 
-TAMIL VERSE:
+<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
 नडैबॆऱ वङ्गिप्पगलॊळि नाळुत्तरायणमाण्  
 डिडैवरुगाट्रिरवि यिरविन्बदि मिन्वरुणन्  
 कुडैयुडैवानवर्गोमान् पिरसाबदि यॆण्ड्रिवराल्  
 इडैयिडै पोगङ्गळॆय्दि यॆऴिऱ्‌पदमेऱुवरे. (28)
+</details>
+
+<details><summary>तमिऴ् - मूलम्</summary>
+
+नडैबॆऱ वङ्गिप्पगलॊळि नाळुत्तरायणमाण्  
+डिडैवरुगाट्रिरवि यिरविन्बदि मिन्वरुणन्  
+कुडैयुडैवानवर्गोमान् पिरसाबदि यॆण्ड्रिवराल्  
+इडैयिडै पोगङ्गळॆय्दि यॆऴिऱ्‌पदमेऱुवरे. (28)
+</details>
 
 Agni, Daytime, Śuklapakṣa, Uttarāyaṇa, the year, the intervening Vāyu, Sūrya, Chandra, Lightning, Varuṇa, the king of the devas, (Indra) with his umbrella (signifying rulership) and Prajāpati – by these the soul of the _mukta_ is entertained on the way with delights and thereafter it enters the abode of bliss.
 

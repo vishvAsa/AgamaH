@@ -127,7 +127,7 @@ Among these, _prakṛti_ or matter is, in its essential nature, possessed of thr
 
 Sometimes they are spoken of as more than twenty-four or less than twenty-four in accordance with the terms or basis of classification. The subdivisions of each of these classes of _tattva_s or reals, and the deities (abhimāni devatās ) presiding over or representing each of them should be understood by those who are qualified for their respective meditation. What we are primarily concerned with here is their being different from the atmā or self. These may all be understood as weapons and ornaments of the Supreme Being, in the following way
 
-TAMIL VERSE:
+<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
 पुरुडन् मणिवरमागप् पॊण्ड्रामूलप्  
 पिरगिरुदि मऱुवाग मान् ऱण्डागत्  
@@ -137,6 +137,19 @@ TAMIL VERSE:
 विरुबूदमालै वनमालैयाग  
 करुडनुरुवा मऱैयिन् पॊरुळाङ् गण्णन्  
 करिगिरिमेनिण्ड्रनैत्तुङ् गाक्किण्ड्राने. (12)
+</details>
+
+<details><summary>तमिऴ् - मूलम्</summary>
+
+पुरुडन् मणिवरमागप् पॊण्ड्रामूलप्  
+पिरगिरुदि मऱुवाग मान् ऱण्डागत्  
+तॆरुण्मरुळ् वाण्मऱैवाग वाङ्गारङ्गळ्  
+शार्ङ्गञ् जङ्गाग मनन् दिगिरियाग  
+इरुडीगङ्गळीरैन्दुञ् शरङ्गळाग  
+विरुबूदमालै वनमालैयाग  
+करुडनुरुवा मऱैयिन् पॊरुळाङ् गण्णन्  
+करिगिरिमेनिण्ड्रनैत्तुङ् गाक्किण्ड्राने. (12)
+</details>
 
 The self or soul is the invaluable gem, (koustubha); _prakṛti_ or matter is the mole on the Lord's body (_Śrī_vatsa); the _tattva_ or real called mahat is His club; knowledge and ignorance (_jñāna_ and a_jñāna_) are His sword and its sheath; the ahankāras are His bow and conch (tamasa ahankāra is the bow (sārnga ) and sātvika ahankāra the conch); the mind is His discus (chakra); the ten senses are arrows; the tanmātras and the bhūtas (the elements) form His vanamālā (vaijayanti) or garland of wild flowers; Garuḍa is the Veda and Śrī kṛṣṇa (Kannan) the object of description in the Veda, is endowed with these and protects all from the top of Hastigiri".
 
@@ -247,12 +260,21 @@ SANSKRIT _ŚLOKA_:
 
 A clear knowledge of what is useful, indifference to the three ends (_dharma_, artha, and kama) and being one in thought, word and deed - these constitute the elixir of happiness.
 
-TAMIL VERSE:
+<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
 तेऱवियम्बिनर् सित्तुमसित्तुमिऱैयुमॆन  
 वेऱुबडुम् वियण्ड्रत्तुवमूण्ड्रुम् विनैयुडम्बिल्  
 कूऱुबडुङ् गॊडुमोगमुन् दानिऱैयाङ्गुऱिप्पुम्  
 माऱ निनैन्दरुळान् मऱैनूल्दन्द वादियरे. (12)
+</details>
+
+<details><summary>तमिऴ् - मूलम्</summary>
+
+तेऱवियम्बिनर् सित्तुमसित्तुमिऱैयुमॆन  
+वेऱुबडुम् वियण्ड्रत्तुवमूण्ड्रुम् विनैयुडम्बिल्  
+कूऱुबडुङ् गॊडुमोगमुन् दानिऱैयाङ्गुऱिप्पुम्  
+माऱ निनैन्दरुळान् मऱैनूल्दन्द वादियरे. (12)
+</details>
 
 Our ancient _ācārya_s who gave as the essence of the Veda have, out of compassion (for us), taught us clearly all about the three wonderful and varied _tattva_s, _cit_, _acit_ and _Iśvara_ in order to remove,' from our minds, the cruel delusion in regard to the body arising from _karma_ and the notion that we are independent (of the Lord).
 

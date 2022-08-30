@@ -251,12 +251,21 @@ This truth regarding the Supreme Deity was taught at great length by the great s
 
 We have already stated all that should be said in this connection in our commentary on The Four _śloka_ s (of Yāmunācārya) with a refutation of the views of opponents and refer the reader to the same.
 
-TAMIL VERSE:
+<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
 वादियर्मन्नुन् दरुक्कच्चॆरुक्किन् मऱैगुलैयच्  
 चादुसनङ्गळडङ्ग नडुङ्गत् तनित्तनिये  
 आदियॆनावगै यारणदेसिगर् साट्रिनर् नम्  
 पोदमरुन् दिरुमादुडनिण्ड्र पुराणनैये. // 13 //
+</details>
+
+<details><summary>तमिऴ् - मूलम्</summary>
+
+वादियर्मन्नुन् दरुक्कच्चॆरुक्किन् मऱैगुलैयच्  
+चादुसनङ्गळडङ्ग नडुङ्गत् तनित्तनिये  
+आदियॆनावगै यारणदेसिगर् साट्रिनर् नम्  
+पोदमरुन् दिरुमादुडनिण्ड्र पुराणनैये. // 13 //
+</details>
 
 Our _ācārya_ s have proclaimed, in so uncertain terms, that our eternal Lord with His Consort seated on the lotus is the Supreme Deity, so that disputants, proud of their knowledge of reasoning and argumentation, may not, each according to his own will, declare that the ultimate cause is this or that (_Brahma_, Rudra or Indra) thus causing dread to the Vedas[^41] * and trepidation to all devotees.
 

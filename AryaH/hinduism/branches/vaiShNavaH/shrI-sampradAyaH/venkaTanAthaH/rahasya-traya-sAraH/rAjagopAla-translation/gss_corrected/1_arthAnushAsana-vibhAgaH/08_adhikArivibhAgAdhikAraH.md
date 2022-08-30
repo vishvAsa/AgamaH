@@ -58,12 +58,21 @@ THE BLISS IN MOKṣA  IS THE SAME FOR BOTH.
 
 Entire dependence on the Lord is uniformly the same for all. For it is stated in Viṣṇu  Tantram :-"Having understood his absolute dependence on the Supreme Person, he gets rid of the bondage due to past _karma_, attains peerless independence and enjoys bliss with him." It has been declared (by the _Bhāṣya_kāra in the chapter on the Goal (Chapter IV of the _Brahma_ _Sūtra_s) that this independence which is said to be acquired in the final stage of attainment (i.e.) _mokṣa_  is  fitness to render every kind of service to the Lord without being subject to past _karma_.
 
-TAMIL VERSE:
+<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
 वेण्डुम् पॆरुम्बयन् वीडॆण्ड्रऱिन्दु विदिवगैयाल्  
 नीण्डुङ्गुऱुगियुनिऱ्‌कु निलैगळुक्केऱ्‌कुमन्बर्  
 मूण्डॊण्ड्रिन् मूलविनैमाट्रुदलिन् मुगुन्दनडि  
 पूण्डण्ड्रि मट्रोर्बुगलॊण्ड्रिलैयॆन निण्ड्रनरे. // 15 //
+</details>
+
+<details><summary>तमिऴ् - मूलम्</summary>
+
+वेण्डुम् पॆरुम्बयन् वीडॆण्ड्रऱिन्दु विदिवगैयाल्  
+नीण्डुङ्गुऱुगियुनिऱ्‌कु निलैगळुक्केऱ्‌कुमन्बर्  
+मूण्डॊण्ड्रिन् मूलविनैमाट्रुदलिन् मुगुन्दनडि  
+पूण्डण्ड्रि मट्रोर्बुगलॊण्ड्रिलैयॆन निण्ड्रनरे. // 15 //
+</details>
 
 Those who desire to attain the bliss of _Bhagavān_ realise that the supreme aim of life is _mokṣa_  and that there are two _upāya_s or means attaining it, one prolonged and the other quick which depend on their luck. They adopt one of these two _upāya_s and find that, for getting rid of the hindrances caused by past _karma_, there is no other way than seeking the feet of Mukunda for refuge,
 

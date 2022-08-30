@@ -17,12 +17,21 @@ OF
 
 THE SUCCESSION OF ĀCĀRYAS
 
-TAMIL VERSE :
+<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
 सीरॊण्ड्रु तूप्पुल् तिरुवेङ्गडमुडैयान्  
 पारॊण्ड्रच्चॊन्न पऴमॊऴियुळ् - ओरॊण्ड्रु  
 तानेयमैयादो तारणियिल् वाऴ्वार्क्कु  
 वानेऱप्पोमळवुम् वाऴ्वु.
+</details>
+
+<details><summary>तमिऴ् - मूलम्</summary>
+
+सीरॊण्ड्रु तूप्पुल् तिरुवेङ्गडमुडैयान्  
+पारॊण्ड्रच्चॊन्न पऴमॊऴियुळ् - ओरॊण्ड्रु  
+तानेयमैयादो तारणियिल् वाऴ्वार्क्कु  
+वानेऱप्पोमळवुम् वाऴ्वु.
+</details>
 
 SANSKRIT _ŚLOKA_ :
 
@@ -33,7 +42,7 @@ SANSKRIT _ŚLOKA_ :
 
 [^1]: A_ śeṣa_ is one who exists solely for the purposes of another. That other is _śeṣī _.
 
-TAMIL VERSE :
+<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
 पॊय्गै मुनिबूदत्तार् पेयाऴ्वार् तण्  
 पॊरुनल्वरुङ्गुरुगेसन् विट्टुसित्तन्,  
@@ -42,12 +51,24 @@ TAMIL VERSE :
 वैयमॆल्लामऱै विळङ्ग वाळ् वेलेन्दु मङ्गैयर् कोनॆण्ड्रिवर्गळ् मगिऴ्न्दु पाडुम्,  
 सॆय्यदमिऴ् मालैगळ् नाम् तॆळिय वोदित्  
 तॆळियादमऱै निलङ्गडॆळिगिण्ड्रोमे. (1)
+</details>
+
+<details><summary>तमिऴ् - मूलम्</summary>
+
+पॊय्गै मुनिबूदत्तार् पेयाऴ्वार् तण्  
+पॊरुनल्वरुङ्गुरुगेसन् विट्टुसित्तन्,  
+तुय्य कुलसेगरन् नम्बाण नादन्  
+तॊण्डरडिप्पॊडि मऴिसै वन्दसोदि,  
+वैयमॆल्लामऱै विळङ्ग वाळ् वेलेन्दु मङ्गैयर् कोनॆण्ड्रिवर्गळ् मगिऴ्न्दु पाडुम्,  
+सॆय्यदमिऴ् मालैगळ् नाम् तॆळिय वोदित्  
+तॆळियादमऱै निलङ्गडॆळिगिण्ड्रोमे. (1)
+</details>
 
 Having carefully studied the beautiful hymns sung with delight in Tamil by seers, we have come to understand the real meaning of the regions of the Upaniṣads which are otherwise difficult to comprehend - seers known as Poygai Muni, Bhutamuni, Peyalvar, Kurugesan (Nammalvar) who was born on the banks of the cool Tamraparni, [^2] Viṣṇu chittan, the pure-minded Kulasekhara, our Pananathan, Thondaradippodi, the splendour that appeared in Mazhisai ( Tirumazhisai alvar) and the prince of M_aṅga_i armed with sword and spear for making bright the path of the Vedas throughout the world.
 
 [^2]: (1) The commentator says that Viṣṇuchittan stands for Viṣṇuchittan and also for his daughter Andal, the authoress of many hymns.
 
-TAMIL VERSE :
+<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
 इन्बत्तिलिऱैञ्जुदलिलिसैयुम् पेट्रि  
 लिगऴाद पल्लुऱविलिरागम् माट्रिल्,  
@@ -57,6 +78,19 @@ TAMIL VERSE :
 वरुमऱैगळ् तमिऴ् सॆय्दान् ताळे कॊण्डु,  
 तुन्बट्र मदुरगवि तोण्ड्रक्काट्टुन्  
 दॊल्वऴिये नल्वऴिगळ् तुणिवार्गट्के. (2)
+</details>
+
+<details><summary>तमिऴ् - मूलम्</summary>
+
+इन्बत्तिलिऱैञ्जुदलिलिसैयुम् पेट्रि  
+लिगऴाद पल्लुऱविलिरागम् माट्रिल्,  
+तन्बट्रिल् विनैविलक्किट्रगवोक्कत्तिन्  
+ऱत्तुवत्तै युणर्त्तुदलिट्रन्मैयाक्किल्,  
+अन्बर्क्के यवदरिक्कु मायनिऱ्‌क  
+वरुमऱैगळ् तमिऴ् सॆय्दान् ताळे कॊण्डु,  
+तुन्बट्र मदुरगवि तोण्ड्रक्काट्टुन्  
+दॊल्वऴिये नल्वऴिगळ् तुणिवार्गट्के. (2)
+</details>
 
 To those who venture to attain release from the bondage of _samsāra_, the ancient path indicated to us by the spotless Madhurakavi  by his own example is the only safe[^3]  path, for while there is Śrīkṛṣṇa, the great cowherd, who incarnated solely for the sake of his devotees to confer bliss on them, to be their refuge, to be their final goal, to stand in relation to them as mother, father, brother and so on, to change their desire for the pleasures of this world into a desire for Himself, to remove all their sins, to show them infinite compassion, to reveal the truth, and so also to bring about in them a likeness to Himself - while there is Śrīkṛṣṇa ever ready to do all this,[^4] he sought only the feet of the sage Satagopa (Nammālvār) who rendered in Tamil the truths contained in the Vedas which are otherwise hard to understand.
 
@@ -130,7 +164,7 @@ From [^f23] Kaṭha _śruti_[^9]  and [^f24] Jābala _śruti_[^10]  it is well-k
 
 [^10]: _Jābāla says in the_ _śruti _: "It is only the Vidya or wisdom learnt from an _ācārya_ that gives proficiency Chandogya Upaniṣad: IV-9-3
 
-TAMIL VERSE:
+<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
 ऎन्नुयिर् तन्दळित्तवरैच् चरणम्बुक्कि  
 यानडैवे अवर् कुरुक्कळ् निरै वणङ्गिप्  
@@ -140,6 +174,19 @@ TAMIL VERSE:
 नादमुनि सडगोबन् सेनै नादन्  
 इन्नमुदत्तिरुमगळॆण्ड्रिवरै मुन्निट्  
 टॆम्बॆरुमान् ऱिरुवडिगळडैगिण्ड्रेने. (3)
+</details>
+
+<details><summary>तमिऴ् - मूलम्</summary>
+
+ऎन्नुयिर् तन्दळित्तवरैच् चरणम्बुक्कि  
+यानडैवे अवर् कुरुक्कळ् निरै वणङ्गिप्  
+पिन्नरुळाऱ्‌ पॆरुम्बूदूर् वन्द वळ्ळल्  
+पॆरिय नम्बि याळवन्दार् मणक्काल् नम्बि  
+नन्नॆऱियै यवर्क्कुरैत्त वुय्यक्कॊण्डार्  
+नादमुनि सडगोबन् सेनै नादन्  
+इन्नमुदत्तिरुमगळॆण्ड्रिवरै मुन्निट्  
+टॆम्बॆरुमान् ऱिरुवडिगळडैगिण्ड्रेने. (3)
+</details>
 
 "Having sought the protection of my _guru_ who has graciously taught me that _Bhagavān_ is the Inner Self within me and having also bowed with devotion to the line of his _guru_s, I seek the refuge of the feet of the Lord, after bowing at the feet of that generous soul who appeared in Śrī Perumbudur owing to his compassion ( for his fellow-men), (his _guru_) Peria Nambi, Alavandar (the _guru_ of Peria Nambi, Manakkal Nambi, Uyyakkondar who taught the good path (of _prapatti_) to Manakkal Nambi, Nāthamuni (the _guru_ of Uyyakkondar), Satagopan (Nammalvar) (the _guru_ of Nāthamuni) and Senainathan (the _guru_ of Nammalvar) and then, of the gracious Lakṣmī , sweet to the Lord as ambrosia.
 
@@ -164,12 +211,21 @@ The blissful line of our _guru_s who are possessed of many auspicious qualities,
 
 [^11]: The disputations of these _ācārya_s are compared to the succession of neighings coming from the God Hayagrīva who is seated in their hearts. By these disputations they are said to have put down the pride of the exponents of rival systems.
 
-TAMIL VERSE:
+<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
 आरण नूल्वऴिच्चॆव्वै यऴित्तिडुमैदुगर्क्कोर्  
 वारणमायवर् वादक्कदलिगळ् माय्त्तबिरान्  
 एरणिगीर्त्ति यिरामानुसमुनियिन् नुरैसेर्  
 सीरणिसिन्दैयिनोम् सिन्दियोमिनित्तीविनैये. (4)
+</details>
+
+<details><summary>तमिऴ् - मूलम्</summary>
+
+आरण नूल्वऴिच्चॆव्वै यऴित्तिडुमैदुगर्क्कोर्  
+वारणमायवर् वादक्कदलिगळ् माय्त्तबिरान्  
+एरणिगीर्त्ति यिरामानुसमुनियिन् नुरैसेर्  
+सीरणिसिन्दैयिनोम् सिन्दियोमिनित्तीविनैये. (4)
+</details>
 
 We that cling to the noble qualities and sweet words of the benevolent sage, _Rāmānuja_, who adorns the world with his renown and who, like an elephant, knocking down plantain trees, refuted the arguments of those that, with the help of their unrestrained logic, wrought great havoc in the straight paths of the [^f26] _Brahma_ Sutrās[^12] - We (that cling to his words ) who are thereby blessed with spiritual fervour shall no longer (even) think of deeds that are evil.
 
@@ -177,21 +233,39 @@ We that cling to the noble qualities and sweet words of the benevolent sage, _R�
 
 [^12]: (Or the Upaniṣads)
 
-TAMIL VERSE:
+<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
 नीळवन्दिण्ड्रु विदिवगैयाल् निनैवॊण्ड्रिय नाम्  
 मीळ वन्दिन्नुम् विनैयुडम्बॊण्ड्रि विऴुन्दुऴला  
 ताळवन्दारॆनवॆण्ड्ररुडन्दु विळङ्गिय सीर्  
 आळवन्दारडियोम् पडियोमिनियल्वऴक्के. (5)
+</details>
+
+<details><summary>तमिऴ् - मूलम्</summary>
+
+नीळवन्दिण्ड्रु विदिवगैयाल् निनैवॊण्ड्रिय नाम्  
+मीळ वन्दिन्नुम् विनैयुडम्बॊण्ड्रि विऴुन्दुऴला  
+ताळवन्दारॆनवॆण्ड्ररुडन्दु विळङ्गिय सीर्  
+आळवन्दारडियोम् पडियोमिनियल्वऴक्के. (5)
+</details>
 
 We, who were caught up in the stream of _samsāra_ from time immemorial, and have, now, by a change of fortune, come to acquire a knowledge of our true spiritual nature, consider that Śrī Yāmun_ācārya_ (Alavandar) came into this world to protect us from being sunk again in the mire of _samsāra_ and we will ever be attached to the feet of the sage (Alavandar) who triumphed over his opponents and blessed us with his writings. Never more shall we read the works of heretics.
 
-TAMIL VERSE:
+<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
 काळम् वलम्बुरि यन्न नऱ्‌कादलडियवर्क्कुत्  
 ताळम् वऴङ्गित् तमिऴ्मऱै यिन्निसै तन्दवळ्ळल्  
 मूळुन्दवनॆऱिमूट्टिय नादमुनिगऴले  
 नाळुन्दॊऴुदॆऴुवो नमक्कार् निगर् ना निलत्ते. (6)
+</details>
+
+<details><summary>तमिऴ् - मूलम्</summary>
+
+काळम् वलम्बुरि यन्न नऱ्‌कादलडियवर्क्कुत्  
+ताळम् वऴङ्गित् तमिऴ्मऱै यिन्निसै तन्दवळ्ळल्  
+मूळुन्दवनॆऱिमूट्टिय नादमुनिगऴले  
+नाळुन्दॊऴुदॆऴुवो नमक्कार् निगर् ना निलत्ते. (6)
+</details>
 
 We shall come to new life again by bowing every day at the feet of the noble and generous Nāthamuni, who to his (two)[^13] loving disciples who were like a trumpet and a conch (to proclaim the truth and to cow down the exponents of rival systems) taught the art of music so that they might sing the sweet strains of the Tamil Veda which had been long forgotten in the world and who propagated in the world, for the pursuit of all, the path of tapas (_bhakti_ and _prapatti_). In all the four regions of the world there is no one equal to us (because of this devotion of ours to Nāthamuni).[^14]
 

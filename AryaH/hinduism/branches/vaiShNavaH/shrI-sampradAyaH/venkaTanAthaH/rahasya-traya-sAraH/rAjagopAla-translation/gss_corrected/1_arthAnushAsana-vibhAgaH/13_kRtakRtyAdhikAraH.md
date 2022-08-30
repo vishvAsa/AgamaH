@@ -32,10 +32,17 @@ _PRAPATTI_ :
 
 Since one of the qualifications for the performance of _prapatti_, is sorrow or grief before _prapatti_, if he had no grief before, he would not have the necessary qualification for performing _prapatti_. So by the principle "when there is no cause, there is no effect," his _upāya_ (_prapatti_) will not be effective. If, after the performance of _prapatti_, he grieves owing to want of faith in the words of the Saviour, it would follow by the principle "When the effect is absent, there must have been absence of all the required materials (or causes)" that his _upāya_ is incomplete (owing to want of full faith) and that the benefit or fruit will be delayed inasmuch as it will require the completion of the _upāya_. The man who was formerly full of grief and who is now free from sorrow in accordance with the words" Do not grieve" may be considered to have done what should be done (i.e.) _prapatti_ in the proper manner,
 
-TAMIL VERSE:
+<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
 मन्नवर् विण्णवर् वानोरिऱैयॊण्ड्रुम् वान्गरुत्तोर्  
 अन्नवर् वेळ्वियनैत्तुमुडित्तनरन्बुडैयार्क्-
+</details>
+
+<details><summary>तमिऴ् - मूलम्</summary>
+
+मन्नवर् विण्णवर् वानोरिऱैयॊण्ड्रुम् वान्गरुत्तोर्  
+अन्नवर् वेळ्वियनैत्तुमुडित्तनरन्बुडैयार्क्-
+</details>
 
 कॆन्नवरन्दरवॆण्ड्रु नम्मत्तिगिरित्तिरुमाल्  
 मुन्नम् वरुन्दि यडैक्कलङ्गॊण्ड नम्मुक्कियरे. (20)

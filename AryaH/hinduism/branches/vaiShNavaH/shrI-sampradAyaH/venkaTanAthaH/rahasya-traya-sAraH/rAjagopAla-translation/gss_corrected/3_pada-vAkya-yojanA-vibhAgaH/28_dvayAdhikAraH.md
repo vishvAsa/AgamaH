@@ -292,12 +292,21 @@ SANSKRIT _ŚLOKA_S :
 
 [^103]: There is a reference here to Sri Ramanuja's gadya.
 
-TAMIL VERSE:
+<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
 ओदुमिरण्डै यिसै न्दरुळालुदवुन्दिरुमाल्  
 पादमिरण्डुञ् जरणॆनप्पट्रि नम्बङ्गयत्ताळ्  
 नादनै नण्णि नलन्दिगऴ् नाट्टिलडिमैयॆल्लाम्  
 कोदिलुणर्त्तियुडन् कॊळ्ळुमाऱु कुऱित्तनमे. ( 40 )
+</details>
+
+<details><summary>तमिऴ् - मूलम्</summary>
+
+ओदुमिरण्डै यिसै न्दरुळालुदवुन्दिरुमाल्  
+पादमिरण्डुञ् जरणॆनप्पट्रि नम्बङ्गयत्ताळ्  
+नादनै नण्णि नलन्दिगऴ् नाट्टिलडिमैयॆल्लाम्  
+कोदिलुणर्त्तियुडन् कॊळ्ळुमाऱु कुऱित्तनमे. ( 40 )
+</details>
 
 We have thus explained how, by uttering, in combination, the two parts of _Dvaya_ which are read separately in the śruti, one can seek, as refuge or _upāya_, the two feet of the Lord of _Śrī_ who, out of compassion, is bent on helping us and who is prepared to pardon us; one can thus attain the Lord of the lotus.born _Lakṣmī_ and in the region of bliss attain faultless service to the Lord) along with the full and perfect enjoyment of the Lord.
 

@@ -57,12 +57,21 @@ When the same rite is prescribed both for avoiding a transgression and for obtai
 
 In rites (karmas or services) prescribed for the attainment of certain benefits, the benefit will not be obtained, when the service is not performed, but there is no transgression. Such is the opinion of competent scholars.
 
-TAMIL VERSE:
+<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
 निण्ड्रनमन्बुडैवानोर् निलैयिनिलमळन्दान्  
 नण्ड्रिदु तीयदिदॆण्ड्रु नडत्तिय नान्मऱैयाल्  
 इण्ड्रु नमक्किरवादलि लिम्मदि यिन्निलवे  
 अण्ड्रि यडिक्कडि यारिरुडीर्क्क वडियुळदे. (24 )
+</details>
+
+<details><summary>तमिऴ् - मूलम्</summary>
+
+निण्ड्रनमन्बुडैवानोर् निलैयिनिलमळन्दान्  
+नण्ड्रिदु तीयदिदॆण्ड्रु नडत्तिय नान्मऱैयाल्  
+इण्ड्रु नमक्किरवादलि लिम्मदि यिन्निलवे  
+अण्ड्रि यडिक्कडि यारिरुडीर्क्क वडियुळदे. (24 )
+</details>
 
 By following the four Vedas (and the _Smṛti_s and other śāstras) in which the Supreme Being who measured the three worlds with His feet has ordained what is right and what is wrong, we have attained the state of service similar to that of the eternal sūris who are full of the love (of God). To us who live in the dark night (of _samsāra_), there is no other light than that of this moon (viz. the _śāstra_s) to dispel the darkness that grows denser and denser at every step.
 

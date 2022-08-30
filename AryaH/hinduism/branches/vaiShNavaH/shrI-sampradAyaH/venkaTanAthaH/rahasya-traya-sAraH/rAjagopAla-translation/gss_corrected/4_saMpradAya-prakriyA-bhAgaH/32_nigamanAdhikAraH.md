@@ -40,7 +40,7 @@ It is so dazzlingly bright that even the gods and asuras cannot gaze at it," “
 
 Thus (both) in the state of endeavour (_upāya_) and in the state of attainment, the holy feet of Nārāyaṇa, the Lord of _Śrī_, are our support.
 
-TAMIL VERSE:
+<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
 उऱुसगडमुडैय वॊरु कालुट्रुणर्न्दन उडन्मरुदमॊडिय वॊरु पोदिट्रवऴ्न्दन उऱिदडवुमळवि लुरलूडुट्रु निण्ड्रन  
 उऱुनॆऱियोर् तरुमन्विडु तूदुक्कुगन्दन मऱनॆऱियर् मुऱियबिरदानत्तुवन्दन  
@@ -48,6 +48,17 @@ TAMIL VERSE:
 अऱमुडैय विसयनमर् तेरिट्रिगऴ्न्दन अडलुरगबड मडियवाडिक् कडिन्दन  
 अऱुसमय मऱिवरिय तानत्तमर्न्दन अणिगुरुगै नगर्मुनिवर् नावुक्कमैन्दन वॆऱियुडैय तुळवमलर् वीऱुक्कणिन्दन विऴुगरियोर् कुमरनॆन मेविच्चिऱन्दन विऱलसुरर् पडैयडैय वीयत्तुडर्न्दन  
 विडलरिय पॆरियबॆरुमाळ् मॆय्प्पदङ्गळे. (49)
+</details>
+
+<details><summary>तमिऴ् - मूलम्</summary>
+
+उऱुसगडमुडैय वॊरु कालुट्रुणर्न्दन उडन्मरुदमॊडिय वॊरु पोदिट्रवऴ्न्दन उऱिदडवुमळवि लुरलूडुट्रु निण्ड्रन  
+उऱुनॆऱियोर् तरुमन्विडु तूदुक्कुगन्दन मऱनॆऱियर् मुऱियबिरदानत्तुवन्दन  
+मलर्मगळ् कैवरुड मलर्बोदिऱ्‌चिवन्दन मऱुबिऱवियऱुमुनिवर् मालुक्किसैन्दन मनुमुऱैयिल् वरुवदोर् विमानत्तुऱैन्दन  
+अऱमुडैय विसयनमर् तेरिट्रिगऴ्न्दन अडलुरगबड मडियवाडिक् कडिन्दन  
+अऱुसमय मऱिवरिय तानत्तमर्न्दन अणिगुरुगै नगर्मुनिवर् नावुक्कमैन्दन वॆऱियुडैय तुळवमलर् वीऱुक्कणिन्दन विऴुगरियोर् कुमरनॆन मेविच्चिऱन्दन विऱलसुरर् पडैयडैय वीयत्तुडर्न्दन  
+विडलरिय पॆरियबॆरुमाळ् मॆय्प्पदङ्गळे. (49)
+</details>
 
 The feet of _Śrī_ Raṅganātha, ever true to their devotees can never be given up; they were once awake to the danger from a mighty wheel (the forın taken by an asura) and hy touching it they made it break into pieces): on another occasion, they crawled on all fours and caused the two Maruda trees which grew close to each other to fall down; on the occasion of His searching (for butter) in the pots h_aṅgī_ng from above, they stood indistinguishable from the mortar to which they were bound (by Yasoda), (On a later day), they gladly consented to go on the mission assigned to them by the virtuous _Dharma_putra; they came to Brindavan to bring about the destruction of the wicked asuras; while gently stroked by the hand of _Lakṣmī_, they became red like the petals of the lotus; they were favourable to the devotion shown by the great sages who wanted freedom from the bondage of births; they rested in a wonderful vimana (having a resemblance to praṇava), which was an object of worship to kings of the race of Manu; they shone in the chariot of the righteous Arjuna during the great war; they were inflamed with wrath when they danced on the cruel hoods of the serpent, Kaliya, and made them break down; they rested in a region (Paramapada) that could not be (even) imagined by the six systems of philosophical thought; they became the subjects of praise in the tongue of the Alvar (Nammalvar), who was the glory of the beautiful city of Kurugai; they had, for ornaments, the fragrant flowers of Tulasi; they showed their glory by graciously transforming the fallen piece of charcoal into a child (Parikshit); they chased the armies of the asuras to their destruction.
 
@@ -66,12 +77,21 @@ SANSKRIT _ŚLOKA_ :
 
 When its sprouts which were relished by quails and which are (said to be) the arrows of the god kama are vomited by such animals as feed on margosa leaves, the mango tree does not feel aggrieved.
 
-TAMIL VERSE:
+<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
 मुन्बॆट्र ञानमुमोगन्दुऱक्किलुमूण्ड्रुरैयिल्  
 तन्बट्र तन्मैयुन् दाऴ्न्दवर्क्कीयुन् दनित्तगवुम्  
 मन्बट्रि निण्ड्रवगै युरैक्किण्ड्र मऱैयवर्बाल्  
 सिन्बट्रियॆन्बयन् सीरऱिवोर्क्किवै सॆप्पिनमे. (50)
+</details>
+
+<details><summary>तमिऴ् - मूलम्</summary>
+
+मुन्बॆट्र ञानमुमोगन्दुऱक्किलुमूण्ड्रुरैयिल्  
+तन्बट्र तन्मैयुन् दाऴ्न्दवर्क्कीयुन् दनित्तगवुम्  
+मन्बट्रि निण्ड्रवगै युरैक्किण्ड्र मऱैयवर्बाल्  
+सिन्बट्रियॆन्बयन् सीरऱिवोर्क्किवै सॆप्पिनमे. (50)
+</details>
 
 Of what avail is anger towards those Vedic scholars who teach the knowledge which they have of the truths, and the way of casting off illusions and errors, as also the nature of the self (as the _śeṣa_ of the Lord), the unique compassion of the Lord shown to those who are destitute of _upāya_s, and the carefree state arising from holding on to the Lord as a refuge as taught in the three mysteries (_mantra_s)? We have spoken (thus far) to those who can appreciate excellence.
 
@@ -84,10 +104,17 @@ SANSKRIT _ŚLOKA_:
 
 Our youth has been spent in the enjoyment resulting from repetitions of the words of that prince of Sannyasins (_Śrī_ _Rāmānuja_). Our days have been lived in happiness by casting off the hell of depending on any others (than the Lord); the arrogance of those who are perverse has also been annihilated for the satisfaction of good men; and for the rest of our life, we shall be earnestly and constantly looking up to the realisation of the vow of compassion taken by that divine couple for the fulfilment of whose purposes alone we exist.
 
-TAMIL VERSE:--
+<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
 सॆप्पच्चॆविक्कमुदॆन्नत्तिगऴुञ्जॆऴुङ्गुणत्तुत् तप्पट्रवर्क्कुत् तामे युगन्दु तरुन्दगवाल्  
 ऒप्पट्र नान् मऱैयुळ्ळक्करुत्तिलुऱैत्तुरैत्त मुप्पत्तिरण्डिवै मुत्तमिऴ्सेर्न्दमॊऴित्तिरुवे. (51)
+</details>
+
+<details><summary>तमिऴ् - मूलम्</summary>
+
+सॆप्पच्चॆविक्कमुदॆन्नत्तिगऴुञ्जॆऴुङ्गुणत्तुत् तप्पट्रवर्क्कुत् तामे युगन्दु तरुन्दगवाल्  
+ऒप्पट्र नान् मऱैयुळ्ळक्करुत्तिलुऱैत्तुरैत्त मुप्पत्तिरण्डिवै मुत्तमिऴ्सेर्न्दमॊऴित्तिरुवे. (51)
+</details>
 
 These thirty-two Tamil verses, which, when recited, are like nectar to the ears (that hear them), which explain clearly, the truths that lie deep within the four Vedas the like of which cannot be seen elsewhere and which became possible only owing to the compassion of those_ācārya_s who delight, of their own accord, to impart instruction to śiṣyas, when they find in them integrity of character and freedom from faults like envy ---- these thirty-two verses form an ornament to this treatise by virtue of these three qualities viz., their beautiful diction, their wealth of ideas and their fitness for being sung.
 
@@ -97,13 +124,23 @@ SANSKRIT _ŚLOKA_:
 
 There will be found someone (or other) who has faith in religion, who is keen of intellect and (at the same time) free from envy, whose mind has become pure by following the righteous tradition of good men, whose aim is to attain the highest goal, who is not afraid of conventional judgments and who would look upon wealth and worldly success as if they were mere trash - He will certainly follow the virtuous path (which is described in this treatise) and which will never become obsolete.
 
-TAMIL VERSE:--
+<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
 मऱैयुरैक्कुम् पॊरुळॆल्ला मॆय्यॆण्ड्रोर्वार्  
 मन्निय कूर्मदियुडैयार् वण्गुणत्तिल्  
 कुऱैयुरैक्क निनैविल्लार् कुरुक्कडम्बाल्  
 कोदट्र मनम्बॆट्रार् कॊळ्वार् नम्मैच्  
 चिऱैवळर्क्कुञ् जिलमान्दर् सङ्गेदत्ताऱ्‌
+</details>
+
+<details><summary>तमिऴ् - मूलम्</summary>
+
+मऱैयुरैक्कुम् पॊरुळॆल्ला मॆय्यॆण्ड्रोर्वार्  
+मन्निय कूर्मदियुडैयार् वण्गुणत्तिल्  
+कुऱैयुरैक्क निनैविल्लार् कुरुक्कडम्बाल्  
+कोदट्र मनम्बॆट्रार् कॊळ्वार् नम्मैच्  
+चिऱैवळर्क्कुञ् जिलमान्दर् सङ्गेदत्ताऱ्‌
+</details>
 
 सिदैयाद तिण्मदियोर् तॆरिन्ददोवार्  
 पॊऱै निलत्तिल् मिगुम् पुनिदर् काट्टुमॆङ्गळ्  
@@ -111,38 +148,71 @@ TAMIL VERSE:--
 
 Those who have faith in the truths revealed in the Vedas, who have keepness of intellect, who would never think of speaking in depreciation of real merit, whose minds have become pure by the training which they have received from their _guru_s, who have lofty aims, who, being firm of mind, would never swerve from the right path owing to the fear of perverted judgements and who would never care for what is worthless -- these men will enter the righteous path which will never become obsolete and which has been indicated by our pure-minded _ācārya_s who had inore forbearance than even the Earth.
 
-TAMIL VERSE:
+<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
 इदुवऴि यिन्नमुदॆण्ड्रवरिन्बुलन् वेऱिडुवार्  
 इदुवऴिया मलवॆण्ड्रऱिवा रॆङ्गडेसिगरे  
 इदुवऴि यॆय्दुग वॆण्ड्रुगप्पा लॆन् पिऴै पॊऱुप्पार्  
 इदुवऴि यामऱैयोररुळाल् यामिसै न्दनमे. (53)
+</details>
+
+<details><summary>तमिऴ् - मूलम्</summary>
+
+इदुवऴि यिन्नमुदॆण्ड्रवरिन्बुलन् वेऱिडुवार्  
+इदुवऴिया मलवॆण्ड्रऱिवा रॆङ्गडेसिगरे  
+इदुवऴि यॆय्दुग वॆण्ड्रुगप्पा लॆन् पिऴै पॊऱुप्पार्  
+इदुवऴि यामऱैयोररुळाल् यामिसै न्दनमे. (53)
+</details>
 
 "Our _ācārya_s will say :-- "This is the right path" and will look upon (this treatise) as being delicious like nectar; they can show how the pleasures of the senses are mean and are different from the righteous way (that is described in this treatise). Owing to their desire that the path indicated here should prevail, they will overlook any mistakes of ours that may be found (in the book). We have, by the grace of our _ācārya_s, accepted this as the proper way.
 
-TAMIL VERSE:
+<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
 ऎट्टुमिरण्डु मऱियादवॆम्मै यिवैयऱिवित्  
 तॆट्टवॊण्णाद विडन्दरु मॆङ्गळम्मादवनार्  
 मुट्ट विनैत्तिरण्माळ मुयण्ड्रिडु मञ्जलॆण्ड्रार्  
 कट्टॆऴिल् वासगत्ताऱ्‌ कलङ्गा निलै पॆट्रनमे. (54)
+</details>
+
+<details><summary>तमिऴ् - मूलम्</summary>
+
+ऎट्टुमिरण्डु मऱियादवॆम्मै यिवैयऱिवित्  
+तॆट्टवॊण्णाद विडन्दरु मॆङ्गळम्मादवनार्  
+मुट्ट विनैत्तिरण्माळ मुयण्ड्रिडु मञ्जलॆण्ड्रार्  
+कट्टॆऴिल् वासगत्ताऱ्‌ कलङ्गा निलै पॆट्रनमे. (54)
+</details>
 
 I was so ignorant that I did not know even that eight and two make ten[^125] * ; Our Madhava who is eager to bestow on us Paramapada, which is most difficult of access, has taught me (through the ācāryas) the _mantra_ of eight syllables and the other two _mantra_s (_Dvaya_ and _Carama_ _śloka_). By His brilliant and noble speech saying: "I will see to the absolution of all your sids; Do not be afraid "-By these words I have attained the state of staunch faith,
 
 [^125]: it may mean also 'I did not know the _Dvaya_ (the two) nor did I know the _aṣṭākṣara_ (the eight )
 
-TAMIL VERSE:
+<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
 वानुळमर्न्दवरुक्कु वरुन्दवरुमिन्निलैगळ्  
 तानुळनायुगक्कुन्दर मिङ्गु नमक्कुळदे  
 कूनुळ नॆञ्जुगळाऱ्‌ कुट्रमॆण्णियिगऴ्न्दिडिनुम्  
 तेनुळबादमलर्त् तिरुमालुक्कुत् तित्तिक्कुमे. (55)
+</details>
+
+<details><summary>तमिऴ् - मूलम्</summary>
+
+वानुळमर्न्दवरुक्कु वरुन्दवरुमिन्निलैगळ्  
+तानुळनायुगक्कुन्दर मिङ्गु नमक्कुळदे  
+कूनुळ नॆञ्जुगळाऱ्‌ कुट्रमॆण्णियिगऴ्न्दिडिनुम्  
+तेनुळबादमलर्त् तिरुमालुक्कुत् तित्तिक्कुमे. (55)
+</details>
 
 These states of mind in regard to one's essential nature, the _upāya_s and the end to be attained (which are explained in this treatise) and which are understood only with effort by even those who are in Paramapada are indeed possible of attainment even here in this world of _samsāra_. This treatise, though decried by perverse minds bent (only) on finding faults, will be found sweet by the Supreme Ruler whose lotus-like feet overflow with honey.
 
-TAMIL VERSE:--
+<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
 वॆळ्ळैप्परिमुगर् तेसिगराय् विरगालडियो-
+</details>
+
+<details><summary>तमिऴ् - मूलम्</summary>
+
+वॆळ्ळैप्परिमुगर् तेसिगराय् विरगालडियो-
+</details>
 
 मुळ्ळत्तॆऴुदिय तोलैयिट्टनम् यामिदऱ्‌कॆन्  
 कॊळ्ळत् तुणियिनुङ् गोदॆन् ऱिगऴिनुङ् गूर्मदियीर्!

@@ -96,12 +96,21 @@ Sach being the case, _Iśvara_, who has already made up His mind to grant, to th
 
 It has been said :-"Whatever a man often does with the activities of his body, mind and speech - it makes a man its captive. Therefore one should (ever) perform what is good. So we should never deviate from the right path with the body, mind or speech.There is a saying that "The poison tree called _samsāra_ bears two (kinds of) fruits which are like nectar - one is _bhakti_  to _Bhagavān_ and the other association with those who are His bhaktas". Therefore we should feel it a blessing that we have obtained the unattainable privilege of association with those really great men who may appear small (in the eyes of the ignorant) and who have the great good fortune of having sought the protection of the Supreme Being, for this should be the great object of desire during our life. time here. We should rest assured "that evil" deeds can never be ours, as we have been accepted by the Lord (as His servants)", and "That the Lord who wields the chakra (the discus) protects us and that (therefore) no one can do anything harmful to us." We should therefore crown ourselves, even here, in anticipation of the empireship of perfect service to the Lord which will be ours in Heaven (Paramapada). This potency which has been determined so far should be remembered in connection with such places as indicate the fruit in the three mysteries (_mantra_s), as established by necessary consequence.
 
-TAMIL VERSE:
+<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
 उण्मैयुरैक्कु मऱैगळिलोङ्गिय वुत्तमनार्  
 वण्मैयळप्परिदादलिन् वन्दु कऴल्बणिवार्  
 तण्मै किडन्दिडत्तरमळवॆन्न वियप्पिलदाम्  
 उण्मैयुरैत्तनरोरन्दविर वुयर् न्दनरे. ( 37 )
+</details>
+
+<details><summary>तमिऴ् - मूलम्</summary>
+
+उण्मैयुरैक्कु मऱैगळिलोङ्गिय वुत्तमनार्  
+वण्मैयळप्परिदादलिन् वन्दु कऴल्बणिवार्  
+तण्मै किडन्दिडत्तरमळवॆन्न वियप्पिलदाम्  
+उण्मैयुरैत्तनरोरन्दविर वुयर् न्दनरे. ( 37 )
+</details>
 
 The Supreme Self whose greatness is described in the Vedas, which reveal the truth, is beyond all limitations and beyond all measure in regard to His glory. Therefore, about those who approach Him and seek His feet, though such things as low birth and certain weaknesses may be found in them, yet it cannot be said that their greatness is, in any way, limited. This truth has been taught to us by those who are highest among men and who are free from all partiality.
 

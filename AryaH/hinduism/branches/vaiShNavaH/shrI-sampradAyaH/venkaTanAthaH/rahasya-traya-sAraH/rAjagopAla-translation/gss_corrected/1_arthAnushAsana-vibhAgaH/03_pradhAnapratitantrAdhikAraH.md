@@ -90,12 +90,21 @@ In these mysteries _Iśvara_ is disclosed as the _śeṣī_ (i.e.) as one for wh
 
 The ordinary relationship of _Śeṣa_ and _śeṣin_ between the _jīva_ and _Bhagavān_ is disclosed in the first syllable of the _aṣṭākṣara_, viz, _aum_ where the a, the first member, is in the dative case ‘aya’, though the termination has dropped. It means for a or _Bhagavān_'. The specific form of being _śeṣa_s which applies only to _jīva_s (and not to non-sentient things ) and which is really being the servants of the Lord ( dāsas) and of His being the Swami or Master is revealed in the purport or implication. So also in the word 'Nārāyaṇāya' there is the general relationship of the seshin towards all things and the specific relationship of Swami or Master which obtains in the case of jivās. Here the goal of usefulness to the Lord, which is the result of the general attitude of the _śeṣa_, becomes the goal of service or _kaiṅkarya_ to the Lord, owing to the _jīva_ being His servant or dāsa. Thus by being the _śeṣin_, _Iśvara_ attains a unique glory and as a consequence of His being the Swami or Master, this glory consists in the enjoyment of service which is His _puruṣārtha_. _Iśvara_ is responsible for the protection of His servants and has also the power to do so, whereas the _jīva_ or _Cetana_ is not responsible for his own protection nor has he the ability to protect himself. This is due to _Iśvara_ being the unconditional (nirupadhika) _śeṣī_ and the unconditional Director and Ruler. Owing to their being the unconditional _śeṣa_s and their being subject unconditionally to His control, it becomes, indeed, the responsibility of the owner to protect what belongs to Him and of the strong to protect the weak. _Iśvara_, however, makes up his mind to protect the _jīva_ only after making him adopt some means or _upāya_ for winning His protection, (because the _jīva_ is subject, according to the śāstra  to the law of Karma).
 
-TAMIL VERSE:
+<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
 निलैदन्द तारगनाय् नियमिक्कुम् इऱैवनुमाय्  
 इलदॊण्ड्रॆनावगै यॆल्लान् दनदॆनुमॆन्दैयुमाय्त्  
 तुलैयॊण्ड्रिलैयॆन निण्ड्र तुऴाय् मुडियानुडम्बाय्  
 विलैयिण्ड्रि नामडियोमॆण्ड्रु वेदियर्मॆय्प्पॊरुळे. (10)
+</details>
+
+<details><summary>तमिऴ् - मूलम्</summary>
+
+निलैदन्द तारगनाय् नियमिक्कुम् इऱैवनुमाय्  
+इलदॊण्ड्रॆनावगै यॆल्लान् दनदॆनुमॆन्दैयुमाय्त्  
+तुलैयॊण्ड्रिलैयॆन निण्ड्र तुऴाय् मुडियानुडम्बाय्  
+विलैयिण्ड्रि नामडियोमॆण्ड्रु वेदियर्मॆय्प्पॊरुळे. (10)
+</details>
 
 The Lord gave us our existence and is our support (dhāraka) as well; He is also the unconditional Ruler that directs and controls us. There is nothing that does not exist for the fulfilment of his purposes; He is also our Master for whom all things exist; He stands alone with no one to compare with Him. It is the earnest conviction of those who understand the spirit of the Vedas that we are the bodies and the unconditional (or natural) servants of the Lord with the crown of Tulsi leaves (for the Antaryāmi Brāhmana of Brihadaranyaka upanishad states this explicitly.)
 

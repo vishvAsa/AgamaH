@@ -58,12 +58,21 @@ Even there, the three Mysteries (_mantra_s) which are, as it were, an epitome of
 
 [^f45]: Mahābhārata   : Santi Parva 176-66.
 
-TAMIL VERSE:
+<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
 अमैया इवै ऎन्नुमासैयिनाल् अऱुमूण्ड्रुलगिल्  
 सुमैयान कल्विगळ् सूऴवन्दालुम् तॊगैयिवैयॆण्ड्रु  
 इमैया इमैयवरेत्तिय ऎट्टिरण्डॆण्णिय नम्  
 समयासिरियर् सदिर्क्कुम् तनि निलै तन्दनरे. (9)
+</details>
+
+<details><summary>तमिऴ् - मूलम्</summary>
+
+अमैया इवै ऎन्नुमासैयिनाल् अऱुमूण्ड्रुलगिल्  
+सुमैयान कल्विगळ् सूऴवन्दालुम् तॊगैयिवैयॆण्ड्रु  
+इमैया इमैयवरेत्तिय ऎट्टिरण्डॆण्णिय नम्  
+समयासिरियर् सदिर्क्कुम् तनि निलै तन्दनरे. (9)
+</details>
 
 As if what has been already learnt is not enough, the eighteen subjects of study may confront us like burdens (on the intellect); but they add only to the number (and are of no use). Therefore the _ācārya_s of our system (Visiştādvaitam) have, with wise discrimination, given us what the _Nitya_-sūris whose wisdom never languishes (literally who never wink") speak of in exalted terms. namely, the 'eight' (aṣṭākṣara) and the two' (viz) the _Dvayam_ and the _carama_ _śloka_ ,
 

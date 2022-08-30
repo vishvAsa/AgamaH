@@ -202,12 +202,21 @@ In the investigation of the real meaning of the word _Siddhopāya_, the followin
 
 The Lord of _Śrī_, who is the embodiment of compassion and who secures, for them, all the benefits desired by men is called _Siddhopāya_, because He is already an existent _upāya_. The ways of securing His favour are such as _bhakti_ and _prapatti_ and these are called _Sādhyopāya_s, because they can be adopted and accomplished by those who desire the respective benefits. When the _Sādhyopāya_ flows with high mounting waves and increases the flood of compassion of the _śeṣī_ , who is the _Siddhopāya_, the latter breaks through the flood of lilā which is also His. By (that very flood of compassion) all hindrances to His service, such as even the former will of the Omnipotent, disappear like dams built of fine sand. Though the acts of propitiation (like _bhakti_ and _prapatti_ ) are prescribed in the _śāstra_s for securing the fruit, yet _Siddhopāya_ is considered as of prime importance, because the Lord alone is capable of granting _mokṣa_ , since _bhakti_ or _prapatti_ being non-sentient, cannot give the fruit directly and since _Bhagavān_ alone can act directly. To those who have adopted _prapatti_ as the primary and independent means, it is specially ordained that they should rest on the Omnipresent in order that they may know that their own endeavour perishes instantly after _prapatti_. Therefore with what aim, the surrender of responsibility has been made to _Siddhopāya_ - for that aim, the man should make no further endeavour and depend only on the _Siddhopāya_, In the definition of _prapatti_ in the _mantra_ for _prapatti_, in the injunction concerning it and in other passages and so also in Śrī Bhāṣya and the like and by tradition, _Brahman_ is declared as the _upāya_. Just as we admit that certain (holy) places and the like which exist already are called _dharma_ productive of spiritual excellence, so also it is said by those who understand the truth that Śrī Kṛṣṇa is the eternal _dharma_ (or _upāya_ ). This _Siddhopāya_ is to be thought of in the three mysteries or mantrās in such as the syllable a in _aum_ etc.
 
-TAMIL VERSE:
+<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
 मन्नुमनैत्तुऱवाय् मरुण्माट्ररुळाऴियुमाय्त्  
 तन्निनैवालनैत्तुन् दरित्तोङ्गुन्दनियिऱैयाय्  
 इन्नमुदत्तमुदालिरङ्गुन् दिरुनारणने  
 मन्नियवन्सरण्मट्रोर्बट्रिण्ड्रि वरिप्पवर्क्के. (34)
+</details>
+
+<details><summary>तमिऴ् - मूलम्</summary>
+
+मन्नुमनैत्तुऱवाय् मरुण्माट्ररुळाऴियुमाय्त्  
+तन्निनैवालनैत्तुन् दरित्तोङ्गुन्दनियिऱैयाय्  
+इन्नमुदत्तमुदालिरङ्गुन् दिरुनारणने  
+मन्नियवन्सरण्मट्रोर्बट्रिण्ड्रि वरिप्पवर्क्के. (34)
+</details>
 
 Nārāyaṇa , with His Spouse Lakṣmī , who is staunch in being every kind of relation (to us ), who is the sea of compassion that dispels ignorance (and delusion), who shines sustaining all (things and all beings ) with His mere will, being the Supreme Lord without a second and who takes compassion on us on account of ( Śrī), the nectar born of sweet nectar - Nārāyaṇa  with Śrī is the firm refuge of all who seek His protection having no other support.
 

@@ -68,12 +68,21 @@ In Sarasāgati _Gadya_, Śrī _Rāmānuja_ explains the implication contained in
 
 The word _upāya_ stands for "the means to secure an end" and this means may be either sentient or non-sentient. It has been said:-"Among the _aṅga_s to _prapatti_ are the faith that He will protect and the supplication or prayer for protection " " The Lord who controls everything, though He is omniscient and always compassionate expects a prayer for protection, since He has to look after the process of _samsāra_". Since the _upāya_ or means in this case is a sentient being (namely, the Lord), and the prayer for protection (or _goptṛtva_ varaṇam) which is applicable only to sentient beings is necessary here, the word saranam in _Dvaya_, which means _upāya_, implies also the prayer for protection. Since the word saranam cannot have two meanings when it is used only once, (we should understand that) in the _Dvaya_, the steadfast thought of the Lord being an _upāya_ which is peculiar to the adhikārī called _prapanna_ is brought out by the word saranam itself and that the prayer for protection which is common to all adhikārīs is understood by implication from the meaning.
 
-TAMIL VERSE:
+<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
 अऱिवित्तनरन्बरैयम्बऱैयुमुबायमिल्लात्  
 तुऱवित्तुनियिट्रुणैयाम् परनै वरिक्कुम् वगै  
 उऱवित्तनैयिण्ड्रियॊत्तारॆन निण्ड्र वुम्बरै नाम्  
 पिऱवित्तुयर् सॆगुवीरॆण्ड्रिरक्कुम् पिऴैयऱवे. (18 )
+</details>
+
+<details><summary>तमिऴ् - मूलम्</summary>
+
+अऱिवित्तनरन्बरैयम्बऱैयुमुबायमिल्लात्  
+तुऱवित्तुनियिट्रुणैयाम् परनै वरिक्कुम् वगै  
+उऱवित्तनैयिण्ड्रियॊत्तारॆन निण्ड्र वुम्बरै नाम्  
+पिऱवित्तुयर् सॆगुवीरॆण्ड्रिरक्कुम् पिऴैयऱवे. (18 )
+</details>
 
 Our kind _ācārya_ s have taught us the way of seeking, as an _upāya_, the Supreme Being who is (ever) ready to help us in our state of helplessness, when we are without such _upāya_s as _bhakti_ _yoga_ which give rise to doubts (concerning our ability to adopt them with success). They have taught it to us so well that we shall never commit the mistake of begging, for deliverance from the sorrows of _samsāra_, the (other) gods who are bound by _karma_ and are therefore like ourselves and who are not related in any way to us.
 

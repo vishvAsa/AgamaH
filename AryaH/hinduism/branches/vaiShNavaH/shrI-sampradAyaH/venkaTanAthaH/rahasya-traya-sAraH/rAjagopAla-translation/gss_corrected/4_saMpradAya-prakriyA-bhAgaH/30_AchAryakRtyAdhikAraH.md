@@ -45,23 +45,41 @@ SANSKRIT _ŚLOKA_:
 
 All these words of mine on the three secrets (_mantra_s) found in the earlier and later chapters) are in accordance with the spiritual tradition of Vedānta Udayana, otherwise called, Madappalli āchān, (the preceptor in charge of the kitchen), (who propagated the truths of Vedanta like Udayana commenting on Tarka_śāstra_). Kidambi Appullar made me learn these words like a parrot, just as he had learnt them from his own ācharya (his father). (Therefore ) these words are those that illumined his mind owing to the compassion of the Lord and that were guarded by him without forgetfulness and taught to me without any error.
 
-TAMIL VERSE:
+<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
 पाट्टुक्कुरिय पऴैयवर् मूवरैप् पण्डॊरुगाल्  
 माट्टुक्करुडरु मायन् मलिन्दु वरुन्दुदलाल्  
 नाट्टुक्किरुळ् सॆग नान्मऱैयन्दि नडैविळङ्ग  
 वीट्टुक्किडैगऴिक्के वॆळिगाट्टुमिम् मॆय्विळक्के. (46 )
+</details>
+
+<details><summary>तमिऴ् - मूलम्</summary>
+
+पाट्टुक्कुरिय पऴैयवर् मूवरैप् पण्डॊरुगाल्  
+माट्टुक्करुडरु मायन् मलिन्दु वरुन्दुदलाल्  
+नाट्टुक्किरुळ् सॆग नान्मऱैयन्दि नडैविळङ्ग  
+वीट्टुक्किडैगऴिक्के वॆळिगाट्टुमिम् मॆय्विळक्के. (46 )
+</details>
 
 Those lamps (of spiritual wisdom) which lighted the threshold of a certain house (in Tirukkovalur), when, of old, the cow.herd (_Śrī_ Kṛṣṇa) who vouchsafed His grace (even) to cattle, came of His own accord and squeezed Himself among those three ancient singers (the first three ālvārs)[^120] -Those lamps lighted there (i,e. their songs) dispelled the darkness of the land and revealed the path indicated in the Upaniṣads which form the concluding part of the four Vedas.
 
 [^120]: Peyalvar, Poygai Alvar, Bhutattalvar.
 
-TAMIL VERSE:
+<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
 मरुळट्र तेसिगर् वानुगप्पालिन्द वैयमॆल्लाम्  
 इरुळऱ्‌ ऱिऱैयवनिणैयडि पूण्डिड वॆण्णुदलाल्  
 तॆरुळुट्र सॆन्दॊऴिऱ्‌चॆल्वम् पॆरुगिच् चिऱन्दवर्बाल्  
 अरुळुट्र सिन्दैयिना लऴिया विळक्केट्रिनरे. ( 47 )
+</details>
+
+<details><summary>तमिऴ् - मूलम्</summary>
+
+मरुळट्र तेसिगर् वानुगप्पालिन्द वैयमॆल्लाम्  
+इरुळऱ्‌ ऱिऱैयवनिणैयडि पूण्डिड वॆण्णुदलाल्  
+तॆरुळुट्र सॆन्दॊऴिऱ्‌चॆल्वम् पॆरुगिच् चिऱन्दवर्बाल्  
+अरुळुट्र सिन्दैयिना लऴिया विळक्केट्रिनरे. ( 47 )
+</details>
 
 Our great _ācārya_s, who were absolutely free from ignorance and error, lighted this undying lamp out of compassionate grace, in the minds of worthy disciples who had grown rich in the true wealth of the performance of ordained rites in a manner which would accord with their knowledge. (They did so) because they desired that the whole world (of men) should become free from ignorance and adorn their heads with the Lord's feet owing to their longing for Paramapada,
 

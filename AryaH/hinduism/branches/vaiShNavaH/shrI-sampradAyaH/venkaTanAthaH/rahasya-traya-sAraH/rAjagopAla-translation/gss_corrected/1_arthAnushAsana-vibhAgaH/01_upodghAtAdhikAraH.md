@@ -27,12 +27,21 @@ I bow to those great men who have refuted the arguments of men[^16] that chop lo
 
 [^16]: logic choppers like Tārkikas.
 
-TAMIL VERSE:
+<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
 आळुमडैक्कलमॆन् ऱॆम्मैयम्बुयत्ताळ् कणवन्  
 ताळिणै सेर्न्दॆमक्कुमवैदन्द तगवुडैयार्  
 मूळुमिरुट्कळ् विळ मुयण्ड्रोदिय मूण्ड्रिनुळ्ळम्  
 नाळुमुगक्कविङ्गे नमक्कोर्विदि वाय्क्किण्ड्रदे ( 7 )
+</details>
+
+<details><summary>तमिऴ् - मूलम्</summary>
+
+आळुमडैक्कलमॆन् ऱॆम्मैयम्बुयत्ताळ् कणवन्  
+ताळिणै सेर्न्दॆमक्कुमवैदन्द तगवुडैयार्  
+मूळुमिरुट्कळ् विळ मुयण्ड्रोदिय मूण्ड्रिनुळ्ळम्  
+नाळुमुगक्कविङ्गे नमक्कोर्विदि वाय्क्किण्ड्रदे ( 7 )
+</details>
 
 Lucky indeed are we in having an opportunity, in this world and every day, of meditating on the three mysteries (_mantra_s) with great delight -- secrets which were taught to us with great earnestness for the removal of our dense ignorance by great souls endowed with compassion who sought the feet of the Spouse of the lotus-born Lakṣmī  as their sole refuge and gave me also those feet for our protection.
 
@@ -84,11 +93,19 @@ In the same way, some generous benefactors who are introduced to the _Jīva_   b
 
 All these things that should be known to every _mumukṣu_ are found concisely stated in ‘the three mysteries or secrets' (_mantra_s) which are, as it were, the quintessence of all passages treating of the _Jīva_   and _Iśvara_ and which contain the best part of all the main doctrines.
 
-TAMIL VERSE:
+<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
 तिरुवुडन् वन्द सॆऴुमणिबोट्रिरुमालिदयम्  
 मरुविडमॆन्न मलरडि सूडुम् वगैबॆऱु नाम्,  
 करुवुडन्वन्द कडुविनैयाट्रिल् विऴुन्दॊऴुगा-
+</details>
+
+<details><summary>तमिऴ् - मूलम्</summary>
+
+तिरुवुडन् वन्द सॆऴुमणिबोट्रिरुमालिदयम्  
+मरुविडमॆन्न मलरडि सूडुम् वगैबॆऱु नाम्,  
+करुवुडन्वन्द कडुविनैयाट्रिल् विऴुन्दॊऴुगा-
+</details>
 
 तरुवुडनैन्दऱिवा ररुळ्सॆय्य वमैन्दनरे. ( 8 )
 
