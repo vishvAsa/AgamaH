@@ -14,11 +14,7 @@ WHAT IS MEANT BY _SĀDHYOPĀYA_ OR
 
 THE _UPĀYA_ THAT HAS TO BE ADOPTED.page319
 
-
-
 SANSKRIT _ŚLOKA_:
-
-
 
 यथाधिकरणं प्रभुर्यजनदानहोमार्चना-
 
@@ -28,42 +24,27 @@ SANSKRIT _ŚLOKA_:
 
 It appears to us, from the _śruti_s, _smṛti_s and the words of _guru_s fortified by reason, that the Omnipotent Lord being propitiated by yajnas (sacrifices ), gifts made in charity, offerings made in the fire (homa ), adoration, surrender of responsibility (bhara_nyāsa_ ), constant meditation (_bhakti_ _yoga_) and the like in accordance with one's competence confers benefits on men. This is also what religious tradition prescribes,
 
-
-
 THE NEED FOR THE CLARIFICATION OF WHAT IS
 
 MEANT BY _SĀDHYOPĀYA_:
 
-
-
 A man may have a clear knowledge of _Siddhopāya_ (viz. _Bhagavān_) who is omniscient, omnipotent and supremely compassionate, who, along with His Spouse, is the _śeṣī_ of all and the Saviour of the whole world: he may even have become perfect in his averseness to _samsāra_ , by seeing that what is considered agreeable by unintelligent persons is really disagreeable as stated in the _śloka_: "Health' gives (only) potency to the senses; wealth (only) creates enemies; long life makes one suffer bereavement of relations, What is there in these things that can delight a man?", He may have acquired an eager longing for the attainment of the Supreme Being as stated in the _śloka_ :- "He who loves _Bhagavān_, the Supreme Being, has no love for anything else"; he may have the feeling of urgency in regard to _mokṣa_ as stated in the _śloka_ :- "By paying a heavy price in the form of virtuous deeds, this boat of a body has been bought. Before this boat is broken (or becomes leaky), hasten to cross the sea of sorrow'. In spite of all these, if he does not clearly understand (all) about the _Sādhyopāya_, prescribed in the injunction, “Seek refuge under me alone" and in the sentence which expresses the action, "I seek refuge" (in _Dvaya_), which is the means of extinguishing the punishment inflicted by _Bhagavān_ which binds a map to _samsāra_ and which resulted from beginningless and continued violation of His commands - if he does not understand it, there is no way of propitiating and winning the grace of the Supreme Ruler, who is the _Siddhopāya_. Therefore we will remove misconceptions that might arise concerning (1) competence therefor (2) the nature of _Sādhyopāya_ and (3) the accessories pertaining to it.
 
-
-
 COMPETENCE: _PRAPATTI_ IS OPEN TO ALL (CASTES):
-
-
 
 There are some who will ask: " This _prapatti_ is a _dharma_ prescribed in the Vedas. If so, how can it be said that every one (of all castes) is qualified to perform it?" The answer to this question is given on the authority of the Svetasvatara _Śruti_, which says that the Supreme Ruler is the Saviour of all. This truth is confirmed by expository passages like the following: “Take me to Raghava who is the Protector of all the worlds”, and in _śloka_s like:--"You should seek the protection of _Viṣṇu_ who is fit to be approached by every one, who is easy of approach, who can never go wrong and has no one to compare with Him and who removes the suffering of those who perform _prapatti_". It is confirmed also by passages in the Sātvatasamhita (2.9), which says that all the three castes beginning with the Kṣatriyas and ending with the Śūdras who have performed _prapatti_, are competent to adore the four vyūhas, without _mantra_s. So also is
 
 "The man born even into low castes who has performed _prapatti_ once to _Bhagavān_ -- that man is protected by _Bhagavān_ from the ills of _samsāra_ even though he is a patricide or a matricide."
 
-
-
 It is true that _upāsana_ or meditation (in accordance with the teaching of the Upaniṣads ) has been determined as fit (only) for the three higher castes in the section Apaśūdra; bat speaking the truth which is given as an injunction in the Vedas is enjoined for all castes; so also _prapatti_ is a _dharma_ common to all and may be performed either with Vedic _mantra_s or with _mantra_s found in the Tantras in accordance with the person's respective competence, without any violation of propriety. We have heard, in the s'astras, of even such beings as crows performing _prapatti_. The Saviour Himself has declared: "Women," Vaiśyas and Śūdras that are born of sinners - whoever they might be -they attain, O Partha, the highest state if they seek my protection". Here seeking of the Lord for protection by _bhakti_ or _prapatti_ is stated to be common to all. Even in the matter of _upāsana_ or meditation (according to the vidyās in the Upaniṣads) though the beginning can be made only by men in the three higher castes, the end of the course can be attained by men in the bodies of any caste. This is stated in _Viṣṇudharma_ in the following _śloka_ :-"Though _Dharmavyādha _and others belonged to low and gruesome castes, yet since, in their previous births, they had practised _bhakti_yoga, they continued it in their latest life and, having completed it therein, attained their goal like [^68] Sramani.”
 
 [^68]: (Śabari) or Śramaṇi was of the caste of hunters and attained _mukti_ by _bhakti_ to Bhāgavatas and _Bhagavān_.
-
 
 Thus _upāsana_ or _bhakti_ _yoga_ should be commenced only by the three higher castes. But there is no such restriction in the general statement about the competence for _prapatti_. Further in the special statement about the qualifications for _prapatti_, it is definitely declared that every one is fit to adopt _prapatti_. The special qualifications requisite for _prapatti_ have already been described by us.
 
 Therefore birth in the three higher castes or the absence of it is no compliance for _prapatti_, when unaccompanied by the inability to adopt other _upāya_s. The only qualification that is essential is _ākiñcanya_, inability to adopt other _upāya_s). This may be seen from the Tamil verse: "I was not born into any of the four castes to enable me to perform _dharma_", and from the _śloka_: "O Thou Saviour! I was born into a family renowned in the world for their fame, their purity, their practice of _yoga_, their knowledge of the truth concerning matter (_prakṛti_) with its three qualities and the _jīva_s and for their steadfast attachment to Thy lotus like feet, and yet with a mind inclined to sin, I am sunk in _samsāra_: and am going down." Therefore it is beyond doubt that competence for _prapatti_ is open to persons of all castes who have a knowledge of the Saviour and of _śaraṇāgati_ and possess also _ākiñcanya_ and the like.
 
-
-
 MISCONCEPTIONS ABOUT THE NATURE OR SVARUPA OF _PRAPATTI_:
-
-
 
 The statement of learned men that the _śaraṇāgati_ referred to in _Dvaya_ means only faith in the two feet of Nārāyaṇa being the only _upāya_ for the attainment of Nārāyaṇa with His Spouse----- this statement should be taken to mean only that faith in _śaraṇāgati_ in the mind of the person and faith as an accessory to _prapatti_ are very important. (It does not mean that faith alone is enough). So also the words of the author of _Śrī_ _Bhāṣya_ .--"_Prapatti_ is faith; it is prayer accompanied by a faith that _Bhagavān_ will grant whatever is desired on account of a single act of prayer" come these words of the _Bhāṣya_kara emphasise the importance of faith at the beginning and then declare in the words of Bharatamuni which define _prapatti_ that _prapatti_ is a prayer (for help) with faith (in the person whose help is sought). (It has been shown already that) surrender of self is the _aṅgī_ and that the others (like _kārpaṇya_) are _aṅga_s (i...) Accessories. "_Nyāsa_ bastol been declared as having five accessories or _aṅga_s." Therefore these words of the _Bhāṣya_. kara that _prapatti_ consists in prayer (for help) which might mean that the Lord expects only the prayer for help should be understood only as emphasising the importance of one of the _aṅga_s (namely, the seeking of the Lord's protection ), for it is said "The Lord expects the expression of the desire for protection". This is only one of the _aṅga_s (and not the _aṅgī_). (The _Bhāṣya_kara should not be taken as stating that the prayer alone will do). In the shorter _Gadya_ also (_Śrī_r_aṅga_gadya), _Śrī_ _Rāmānuja_ makes the prayer with faith preceding it and concludes with the words namostu te (i.e.) "I bow to Thee". Further he uses the word s'aranam which means seeking (the Lord) as _upāya_. From these two, it is evident that self-surrender is present. That the word _namas_ in namostute means surrender of self is well-known from such passages as the following:-- "I bow" to Bhagavao to whom, having surrendered his self which is what is meant by namaskāra, a man gets rid of his suffering and enjoys whatever he desires." In _Śrī_ _Vaikuṇṭha_ _Gadya_ the surrender of self preceded by prayer is explicit. Therefore (since _Śrī_ _Rāmānuja_ states in _Vaikuṇṭha_ - _Gadya_: "Praying for protection), the person should surrender his (or her) self to Bhagaven after bowing to Him,") it is clear that surrender of self is different from the prayer for protection and is the angī with the prayer as an _aṅga_. It has therefore to be concladed that in the words: "One should" surrender one's self by uttering this _mantra_", and "the surrender" of one's self and of what belongs to one's self", the _aṅgī_ which is surrender of self, is declared as a _vidhi_ or injunction.
 
@@ -83,10 +64,6 @@ SANSKRIT _ŚLOKA_S :
 आकिञ्चन्यभरन्यासोपायत्वप्रार्थनात्मनाम् । त्रयाणां सौहृदं सूक्ष्मं यः पश्यति स पश्यति ॥
 
 Here in the surrender of self for the sake of _mokṣa_, since there is to be made an offering (_havis_), owing to the injunction regarding the manner in which the offering should be made, there is an additional feature for the man who is destitute of other _upāya_s, namely, the surrender of the responsibility for the protection of the self. Therefore by sach authors as Rama Misra (Uyyakkondar) and others, when they want to speak of the surrender of responsibility (bhara_nyāsa_), a single aspect of it, namely, the abstention from his own activity on the part of the _prapanna_ has been used to indicate _prapatti_. As in the world of ordinary life, when the surrender of responsibility has not been made, abstention from one's own activity will not result thereafter merely from the request for protection. He who sees the subtle feature that is common to these three, namely, being destitute of all _upāya_s for protection, surrender of responsibility and the prayer for being the _upāya_ --- he alone sees. (That subtle feature which is common to all the three of them is refraining from all activity of one's own for one's protection. Since there is this common feature in all the three, the other two are sometimes used to denote _bharanyāsa_).
-
-
-
-
 
 Thus the surrender of one's responsibility for the protection of one's self is the main injunction that is made in all _śāstra_s treating of _prapatti_ and it has five accessories. (Such eminent authorities) as _Śrī_ _Viṣṇu_cbitta, Vadihamsambuvaha, and Varadacharya have succinctly stated (this truth).
 
@@ -177,8 +154,6 @@ THE OBJECTION THAT THE _JĪVA_ WHO IS ENTIRELY DEPENDENT ON THE LORD CANNOT AND 
 
 If these objectors hold that, on account of the knowledge of being the _śeṣa_ and of entire dependence on _Iśvara_, the _jīva_ should make no effort for his own protection, it would follow that the service (_kaiṅkarya_ ) rendered in accordance with the _śāstra_s for the attainment of the Lord's favour and so also _prapatti_ which is prescribed as possible, would he beyond his competence, because they are understood as being opposed to his essential nature. We have already stated that _prapatti_ is capable of being adopted as a means in as much as it has been prescribed in the words "saranam vraja" (seek refuge), as something that has to be performed over and above the mere knowledge of the relationship (between the _jīva_ and _Iśvara_ ) arising from the texts. Therefore there is no inappropriateness in the _jīva_, who exists only for the Lord and who is entirely subject to His control, adopting such means of his own for his protection as he is competent to adopt,
 
-
-
 THE OBJECTION THAT THE RITES OF VARŅA AND _ĀŚRAMA_ AND _BHAKTI_ YOGA ARE INCONSISTENT WITH EXCLUSIVE DEVOTION TO THE LORD.
 
 (g) However, it may be stated, since the _jīva_ has understood clearly that He exists solely for _Iśvara_ and for no other, it is opposed to his nature as a supreme and exclusive devotee of the Lord to practise the rites (_dharma_ ) ordained for his varṇa and _āśrama_, because they imply the mediatorship of other deities (like Agni, Surya and Varuna) and also to practise such things as _bhakti_ _yoga_ which have these rites as their _aṅga_ or accessory. It is only s'uddha yājis[Śuddha Yajis . Those whose adoration is solely to _Bhagavān_ without any intermediary like Agni, Varuna and the like.] who worship the Lord alone (without any reference to other deities) that deserve to be called men with supreme and exclusive devotion to the Lord (paramaikānti)". This objection can arise only from a lack of clear understanding of the conclusion arrived at in such treatises as _Śrī_ _Bhāṣya_. It may be asked how. The answer is that in such vidyās as Pratardana and Madhu _vidyā_, it is distinctly stated that the Supreme Being is to be worshipped or meditated upon by the aspirant for _mukti_ as having Indra and other deities as His body. The author of _Śrī_ _Bhāṣya_ has declared that in regard to the rites and duties of the _varṇa_ and _āśrama_ also, which are _aṅga_s or accessories to the vidyās, the object of worship or meditation is only the Supreme Self who has the respective deities as His body. Therefore what is opposed to exclusive devotion to the Lord is the worship of other deities as if they were independent, and also connection with other deities owing to a desire for certain specific fruits, when these deities have nothing to do with the rites and duties which are compulsory and recurrent (_nitya_ ) as well as those which are incidental and occasional (_naimittika_ ). There is no opposition to supreme and exclusive devotion to the Lord in performing one's ordained rites and duties without any attachment to or desire for any other fruit and with the thought that these deities are attributes of the Lord and that such words as Agni denote the Lord who has Agni and the like as His body or attributes. There is no opposition to exclusive devotion, likewise, in following the principle: "These words (Agni, Indra etc.) directly denote, by their etymological significance, the Supreme Self. It is not improper to think so. So says Jaimini", for these are rites and duties enjoined (in the _śāstra_s).
@@ -187,16 +162,11 @@ THE OBJECTION THAT THE RITES OF VARŅA AND _ĀŚRAMA_ AND _BHAKTI_ YOGA ARE INCO
 
 [^69]: The Vedas prescribe the rites called abhichara for causing the death of one's enemy. They do so in order that by seeing the effect, men may have faith in the _śāstra_.
 
-
 (1) The rites of bewitchment ( abhichāra) and the like are sources of evil, because they are performed for purposes or fruits that are evil. Since _bhakti_ or _upāsana_ is enjoined for attaining _mokṣa_, it cannot be a source of evil:
-
-
 
 (2) It would be inconsistent with the view of these critics to hold that _bhakti_ or _upāsana_ is enjoined only to produce an eager desire for the adoption of an easier means, viz., _prapatti_, by describing a more difficult means, viz, _bhakti_, for they hold that _bhakti_ is no means at all (to attain _mokṣa_). Besides, _bhakti_ does not yield its fruit in this life but only after it. So it cannot create faith or conviction in the other means prescribed, viz., _prapatti_. Men generally adopt, of their own accord, the easier means in preference to the more difficult means. The success of the easier means in producing the desired result will create faith or conviction in regard to the more difficult means and not vice versa. So the more difficult _upāya_ cannot cause faith in the efficacy of the easier means. It will, therefore, have to be argued in support of their view that, when certain fruits or good results which will arise from a main rite or angī are stated to arise from its _aṅga_ or accessory rite, it should be considered only as arthavada or mere praise having no literal truth according to a principle (or nyāya) of the Mimamsakas. Here _mokṣa_ is really the fruit of _prapatti_, which is the angī and this fruit is, in the view of these critics, for the sake of mere praise (which is not true), assigned to its _aṅga_ _bhakti_ also. So, _bhakti_ is, according to them, really not capable of yielding _mokṣa_. This argument, too, is no good as it would be inconsistent with the contention of these critics, for they would then have to admit that _bhakti_ is an _aṅga_ or accessory of _prapatti_ (which they deny).
 
 The means or _upāya_, that is favoured by _Iśvara_, who is the object of attainment, can be understood only from the _śāstra_ (and it is no use asserting that _bhakti_ is not favoured by Him). Reason is not competent to say that the means, viz., _bhakti_ is opposed to the end in view (_Bhagavān_). If we are to object to any one thing that is prescribed in the stāstras by reasoning which is against the _śāstra_, there would, by parity of reasoning, be no validity in any of the things or _dharma_s prescribed in the śāstras and, likewise, in the s'astras prescribing _prapatti_ as well.
-
-
 
 Further there is no authority for the statement that in the _śloka_ quoted above (from _Viṣṇu_ _dharma_ :66-72), the word pātaka (sin) refers to upāsanas and the like. Therefore since _bhakti_ and _prapatti_ are both enjoined for the aspirant to _mukti_, they are, either of them, to be adopted in accordance with the competence (of the individual concerned).
 
@@ -208,13 +178,9 @@ formance of karmayoga and those, again, who follow _jñāna_ _yoga_ aod _bhakti_
 
 To the man who is unable (owing to illness ) to perform such things as ablution by immersion," the medita:ion on  _Viṣṇu_, which is called mental ablation, is ordained; thereby he obtains not only the purity of those who perform the other kinds of ablution, but acquires freedom from sins and the pleasure of the immediate enjoyment of _Bhagavān_. In the same way, though _prapatti_ is ordained for those who are not competent to perform such things as _upāsana_s, it confers the fruits attainable from them; it secures them (the _upāya_, namely, _upāsana_ also); it redeems the man who is destitute of all other _upāya_s ( _akiñcana_ ); and further it secures the fruit (desired by him) at the time when he wants it. Therefore _prapatti_ has superior potency.
 
-
-
 DOES _PRAPATTI_ REQUIRE _AṅGA_S OR ACCESSORIES ?
 
 So far we have removed the misconceptions that may arise about the competence for the _upāya_ and its essential nature (_svarūpa_). Henceforward we will proceed to remove those misconceptions that might be entertained in regard to accessories of that _upāya_. (1) Is it necessary that this _upāya_ should be accompanied by such things as the determination to do what is agreeable (ānukūlya _saṅkalpa_ )? Will the Saviour who said, “If a * man seeks protection with the desire for the immediate attainment of an object (arta ) or with endurance of delay in the attainment (dripta), he should be protected by those who know the _śāstra_s, even though he might be an enemy," "I will, in no circumstances, abandon one who has come to me in the guise of a friend, even though there are faults in him. The great will appreciate this," and "Bring him here, O Sugrīva, whether he be Vibhishana or even Ravana himself. I promise protection to him" - ( will the Saviour who said these words) and who was gracious even to his enemies care for the faults of those who have sought refuge under him? The ancients describe Him as the Protector of the whole world without any consideration of merit. Therefore these accessories (such as anukulya _saṅkalpa_) are not requisites but attributes that are most likely to be met with in those who have performed _prapatti_." Such is the contention of some critics. In reply to this misconception, it may be said that the passages on which it is based may really have, for their purport, the idea that though such attributes as anukulya do not continue after the performance of _prapatti_, some expiation will occur and there will be no diminution in the fruit of _prapatti_, (They do not mean that qualifications like _ānukūlyasaṅkalpa_ are not required at the time of the performance of _prapatti_). If this explanation is not accepted, many authoritative passages which distinguish between the main rite (_aṅgī_) and its accessories (_aṅga_) such as "_Śaraṇāgati_ is of six kinds," "_Nyāsa_ has five _aṅga_s" and "Let him perform that _prapatti_ which has five accessories " - many such authoritative passages would offer opposition. We have already stated that (the absence of these accessories) would be against what is the subject of experience in the world in regard to the conventions regarding the surrender of objects that have to be protected and that these accessories are required only once and so on. Even the divine missile, _Brahmāstra_, requires its own accessories (_aṅga_s). Hence the _śloka_ that there is no other requisite for _prapatti_ anywhere and at any time" only states that it does not require any other _dharma_ or rite. (It does not mean that even) the _aṅga_s of _prapatti_ are not required). Otherwise even intense faith (mahavisvasa) which these critics commend as an _aṅga_ might be considered as an attribute which may be found (in a _prapanna_) and not as an _aṅga_.
-
-
 
 WHY SHOULD INTENSE FAITH BE CALLED AN
 
@@ -224,13 +190,9 @@ In this connection, some others may contend as follows:--- “When the believer 
 
 _Bhagavān_ Nārada  has declared in _Śrī_mad _aṣṭākṣara_ _Brahma_ _Vidyā_ that there are, in different men, varying degrees of faith in the _Mūlamantra_. (He says):- "In proportion to the degree of faith that a man has in _aṣṭākṣara_, will he attain the fruit thereof. It is impossible to measure its greatness." The Supreme Ruler of all will ultimately protect even those prapannas who are far from perfect and whose faith is not strong enough. If authority is asked for this statement, here it is :--"By the man who has once uttered the two syllables 'Harih' - by him steps have been taken for entering _mokṣa_". In accordance with this, Alavandar has conveyed the same idea in the _śloka_ :-- "Whoever' folds his hands in worship to Thee in any manner and at any time - his sins vanish at once. It generates all good things. It never fails to bear fruit," and so also, “A single" drop of the ocean of nectar called _bhakti_ towards the two lotuses of Thy feet will extinguish instantly the spreading wildfire called _samsāra_ and confer superior happiness". By uttering the three syllables "Govinda", Kshatrabandu, who stood surrounded by his past karmas swarming (like ants ), attained the highest state." As implied in these passages, _Iśvara_ will promote the perfection of the _upāya_ And protect the man. Has not this idea been conveyed by _Śrī_ Śāṇḍilya _Bhagavān_ to Devala in the following _śloka_ :- "Many of your previous births ended in vain. Consider how this life, too, may end in vain and perform _prapatti_? Froin the _śloka_ :-"The divine seers say that Thou art to be sought as the Saviour and that 'Thou protectest those who have sought Thy protection." -- (from this _śloka_) it should be understood that intense faith can be found (only) in the divine seers and not in ordinary men) and that, by the authority of what is said by the divine seers, those whose faith is not strong should strengthen it. Therefore since there are varying degrees of faith, what is stated in the _śāstra_ about intense faith being an _aṅga_ of _prapatti_ cannot be objected to.
 
-
-
 CAUSES OF THE DECAY OF FAITH AND THE
 
 REMEDY THEREFOR
-
-
 
 We will now show how some people suffer from diminution of faith and state how this tendency can be corrected. Some may ask: - "How could _bhakti_ and _prapatti_ lead to such opposite results as worldly prosperity and _mokṣa_  merely because of the difference in the mental attitude (of those who adopt them)? Have we ever seen the same seed yielding two different fruits owing to the diversity of intentions in the (mind of the) sower? The answer to this question is as follows:- "The _śāstra_ which is the (sole) authority in regard to matters pertaining to it in the same way as sense perception (pratyaksha) is in regard to what pertains to it -- the _śāstra_ can certainly declare it to be so and reason has no right to attempt to disprove it. In worldly life, if we give an object to a charitable and generous king as an article for sale, we shall obtain a liberal return; but if it is given (without any thought of such return) merely as an offering or tribute, we see it produce whatever is desired (by the person).
 
@@ -242,19 +204,13 @@ To those aspirants to _mukti_ who have adopted _prapatti_ as an independent and 
 
 The reason why the Alvars, Nāthamuni and the like obtained such things as direct vision (sākshatkāra) of _Bhagavān_, while others who adopted _prapatti_ had to go without it is (two fold)--the difference in the desire for the fruit expressed at the time of _prapatti_ and also the difference in the past good _karma_ which had begun to operate in this life.
 
-
-
 Though that part of the fruit formerly desired is certain owing to the performance of _prapatti_ on a single occasion, yet, if a person eagerly desires some other part of the fruit not desired before, a further _prapatti_ is also appropriate.
 
 Some critics may entertain doubts in regard to the effectiveness of _prapatti_ which is the means of attaining all benefits without exception, when it is found that some forms of _prapatti_ intended to secure t_aṅgī_ble benefits in this life itself fail to do so. These critics should be made to understand that if there is no effect, it is due to some defect in the activity (_karma_), in the doer (karta) or in the means or accessories ( sadhana ), just as in the case of other rites prescribed in the _śāstra_s. (For instance, the śāstra says, “He who desires rain should perform a yajna with kariri (bamboo sprouts )". If the rain does not follow the yajna, it must be due to some defect in the performance of the _karma_, in the doer, or in the sacrificer or in the accessories or sadhanas employed in the sacrifice). Defect in the performance (of _prapatti_) consists in the lack of intense faith, (mahavisvasa ), and the like, Defect in the doer consists in the absence of competency prescribed for _prapatti_. Defect in the sadhanas or accessories is the absence of such things as the teaching of the wise which is essential for the performance of _prapatti_ in accordance with the _śāstra_s. When _prapatti_ is done without any of these defects, we see even the attainment of visible and (t_aṅgī_ble) fruits that have been desired as the result.
 
 Yet others might contend as follows:-"Such sages as Vyāsa who are alike the expounders of all _śāstra_s including the _śāstra_ on _prapatti_ state:-- "After studying all the _śāstra_s and after frequent investigation of their meaning with the help of reason, this one truth alone becomes evident: Nārāyaṇa should always be meditated on," "Hari alone is fit to be meditated on always by people like you who are sāttvikas." " _Viṣṇu_ " is constantly to be meditated on. He should never be forgotten." When they have arrived at this conclusion, how could it be said that, by the performance of _prapatti_ on a single occasion, _mokṣa_ could be attained? The passage in the Gita which says :- " Those  who perform _prapatti_ to me alone, get over mayā which cannot be easily got over -- this passage and others like it refer to _prapatti_ which is an _aṅga_ or accessory to _bhakti_ (_upāsana_) or meditation, Similarly such texts as the _Carama_ _śloka_ should be considered as prescribing _prapatti_ with its accessories only as an _aṅga_ of _bhakti_". This contention of theirs is inappropriate. (For it has been said): " Those who are incapable of meditation (_upāsana_ or _bhakti_) and seek Thee as their _upāya_-even they cross over _samsāra_ and enter Thy abode, _Vaikuṇṭha_,” “Whatever object is desired, by whatsoever person and whatever cannot be obtained by other means, and that _mokṣa_ from which abode there is no return and which cannot be attained by _karma_ _yoga_, jñānayoga, or _bhakti_ _yoga_, all these fruits are obtained, O great sage, by those who respectively strive for them by the performance of _prapatti_. The Supreme Self is attained only thereby." As stated in these passages, if _prapatti_ adopted as a direct and independent _upāya_ is well established, the _prapanna_ acquires, as its reward, the capacity to meditate constantly on Nārāyaṇa as stated in _Śrī_ _Vaikuṇṭha_ _Gadya_. This is just like milk being a suitable drink for both the healthy man and the man who is in ill-health. Though meditation (_upāsana_ or _bhakti_) with its (Vedic) _aṅga_s is not within the competency of every one, yet it is not impossible for everyone to meditate on the Lord in such measure as is possible for one with his competency, as may be seen in the passage - "May 1, "as the result of Thy will, be endowed with the power of constantly meditating on Thee!" The author of _Śrī_ _Bhāṣya_, too, after teaching this _upāya_ (_prapatti_) in his smaller _Gadya_ (_Śrī_ R_aṅga_ _Gadya_) and in the longer _Gadya_ (_Śaraṇāgati_ _Gadya_) and referred to it briefly in the Vaikuṇṭhagadya, is pleased to teach this form of
 
-
-
 meditation so that the desire for the end in view may gain in strength without suffering any diminution. He does so in the passage which begins as follows: "In order to that one may continue to live the life of the spirit, one should meditate in this manner,"
-
-
 
 THE RITES _NITYA_ AND NAIMITTIKA ARE,
 
@@ -272,12 +228,9 @@ view (than pleasing _Bhagavān_, as may be done by those who have no knowledge o
 
 Perialwar has pointed out that there will be no approach to other deities (abhigamana) in the following verse - "Now to that I have the austerity (tapas) of rendering service to Thee, it would be a detraction from Thy glory, if I were hereafter to stand with bowed head in front of the house of any other. Kindly note", He has also pointed out that there will be no activity for securing other things (upādāna) in the verge :-- "I will not so beg of Thee food for eating or cloth for wear." That there will be no yajna or sacrifice to others is brought out in passages like these :- "She will never adore any deity other than _Bhagavān_ even in her thoughts”, “Who else merits our flowers and our adoration than our Lord ?" "(The worship of other deities than _Bhagavān_) is like washing a wooden doll when ones' mother is at hand to be served", and "O men" of the world who neglect _Bhagavān_ and worship _jīva_s as if they were deities! Are you washing a wooden doll with warm water when similar service can and should be rendered to the mothers that gave you birth? Are you without the grace of the Lord tbat you cannot render service to Him ?." In the discourse of the seven sages also, it has been declared thus :
 
-
-
 “He who has stolen the[^70] bulb of the lotus - let him worship other deities than _Viṣṇu_, who does good to Brahmins, who exercises control over the gods, who is worshipped by all those who live in the three worlds, who is the cause of the creation, the maintenance, and the destruction of the three worlds, who is under the control of no one else, who is the support of the world and who both creates and destroys the world, and who is the _guru_ of the world," and again, “He who has stolen the bulb of the lotus - he is one who never performs those _dharma_s which please the Lord, who never favours them, and who is of such a nature that he practises evil _dharma_s and evil rites." That the _prapanna_ will never utter the praise of others is declared in verses like the following:--Tiruvoymozhi 3-9 and also in: "The mouth will never sing the praise of any one other than the Lord.” So also that the _prapanna_ will never think of others is declared in the following passages :-"My thoughts are never with any deity other than the Lord. _Bhagavān_ who helps the gods is aware of this." and "I will never think that there are other deities that I want to attain and that will come to me."
 
 [^70]: During a famine, seven sages obtained the bulb of a lotus for food and went out for their bath. Indra stole it and hid it. When the sages returned and found it missing, each of them had to swear in these words to prove that he had not stolen it.
-
 
 (Our ancient seers) have declared that even those who are not competent to perform this five-fold scheme of adoration may not fail to render this service or _kaiṅkarya_, if they will perform such compulsory and occasional rites as they are competent for, if they sing the praise of the Lord and the like and if they render service to such persons as have the competency to perform that adoration and as have exclusive devotion to the Lord in accordance with their competence and in perfect dependence on them. And this may be seen in the following passages :-“The adoration of _Viṣṇu_ is
 
@@ -298,11 +251,7 @@ TAMIL VERSE:
 
 The _Śruti_ states at length that the Supreme Being chooses those who should win His grace; but this choice (of the _jīva_ bound by _karma_ for the bestowal of His grace) is based on some consideration. Therefore we obtain redemption by the mercy of the Lord who, as antaryāmī, supports the world and, as Saviour, helps us cross the sea of _samsāra_ and by understanding clearly the good paths for winning His grace (_bhakti_ and _prapatti_) as described in the śāstras.
 
-
-
 SANSKRIT _ŚLOKA_:
-
-
 
 तत्तद्धैतुकहेतुके कृतधियस्तर्केन्द्रजालक्रमे  
 बिभ्राणाः कथकप्रधानगणने निष्ठां कनिष्ठाश्रयाम् ।  
@@ -318,16 +267,6 @@ BHAGAVĀN ).
 श्रीमद्रहस्यत्रयसारे साध्योपायशोधनाधिकारः चतुर्विंशः ॥  
 श्रीमते निगमान्तमहादेशिकाय नमः ॥
 
-
-
-
-
-
-
 +१ अर्थानुशासन-विभागः  
 १ अर्थानुशासन-विभागः
-
-
-
-
 

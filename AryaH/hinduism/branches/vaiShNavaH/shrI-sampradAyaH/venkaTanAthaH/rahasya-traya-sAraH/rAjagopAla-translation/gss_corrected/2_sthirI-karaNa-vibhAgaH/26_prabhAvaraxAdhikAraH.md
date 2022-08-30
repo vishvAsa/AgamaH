@@ -3,40 +3,26 @@ title = "२६ प्रभावरक्षाधिकारः"
 
 +++
 
- ॥ श्रीः ॥  
+॥ श्रीः ॥  
 ॥ श्रीमते निगमान्तमहादेशिकाय नमः ॥  
 ॥ श्रीमद्रहस्यत्रयसारे प्रभावरक्षाधिकारः ॥
 
 (26) THE CHAPTER ON THE VINDICATION OF
 
-
-
 (THE) POTENCY (OF _PRAPATTI_ ).page389
 
-
-
 SANSKRIT _ŚLOKA_:
-
-
 
 शिलादेः स्त्रीत्वादिर्विपरिणतिरस्त्वद्भुतमिदं  
 ततोप्येतच्चित्रं यदुत दहनस्यैव हिमता ।  
 तृणस्यैवास्त्रत्वं रिपुषु निहतेरेव हितता  
 पदत्रेणैवेह त्रिभुवनपरित्राणमिति च ॥ ५७ ॥
 
-
-
 It is, of course, wonderful that stones and the like should become women and the like (Ahalya); (but) more wonderful is it that fire should become as cold as snow (as in the case of Hanuman) and that a blade of grass should become a missile (Kakasura); even more wonderful is the act of slaying when it becomes the means of redemption (as for Sisupala and others). So also it is most wonderful that the sandal (of _Śrī_ Rāma) should protect the three worlds.
-
-
 
 (Since the glory of _Bhagavān_ is so wonderful, there is nothing surprising in _prapatti_ to Him accomplishing wonderful things.)
 
-
-
 We have already spoken about the limits within which _prapatti_ has potency. We will hereafter remove the misconceptions of those who would minimise its potency,
-
-
 
 It has been said: "The man who has done good or evil deeds of a very serious nature will experience their fruits even here (in this life) within three days, three fortnights, three months or three years". In the same way, it has been said, "_Bhakti_ as an _upāya_\* destroys all sins other than those which have begun to yield their fruits (prarabdha,, whereas _prapatti_ (sadhya_bhakti_ ) is superior to _bhakti_  and destroys even those sins which have begun to operate (prarabdha)". Therefore _prapatti_ gets rid of even sins that have begun to bear their fruit (prarabdha) and yields the fruit of its own performance. As has been stated in regard to other vidyās (forms of meditation: _upāsana_), that the sins committed before and those committed after _upāsana_) will both be destroyed, _prapatti_, which is superior to them as a _vidyā_ destroys (even) the suffering due to _karma_  which has begun to operate so that it may not continue the next instant, the next day or the next life in accordance with the degree or intensity of the man's impatience. This is the real purport of the words, "Do not despair or grieve", mā suchah (in the _carama_ _śloka_).
 
@@ -45,8 +31,6 @@ THE PURPOSE OF _IŚVARA_ IN MAKING
 THE _PRAPANNA_ SUFFER:
 
 (In this connection) the following question may be asked by some who minimise the power of _prapatti_ :-- "If this is the real meaning, should not the sufferings which are seen in the actual life of a _prapanna_ as the result of prārabdha _karma_  and the performance of actions which would result in further suffering-should not these sufferings cease (at once)? If it is said that the Lord will grant the cessation of these (sufferings) only if He is prayed to, for it, by the sufferer, the question arises, "Why does not _Iśvara_, who is the well-wisher of all (living beings), grant, of His own accord, the cessation of these connected sufferings also, in the same way as _prapatti_ grants incidentally such things as the ability to purify those who are in one's society. We do not see _Iśvara_ doing this. Therefore what is said (in the _carama_ _śloka_) about all gricf disappearing should be taken as not literally true, but as (exaggerated) praise of the potency of _prapatti_".
-
-
 
 The answer to this question is as follows:- "_Iśvara_ is always inclined to bestow His grace. He is eager to confer _mokṣa_ on those who seek His protection even at (the time of) the beginning of uttering the sentence which states _prapatti_. But owing to the man's desire, the Lord agrees to keep him here (in this world), for some time longer. If he enjoys the inferior pleasures of life without any pain (or sorrow or suffering), his desire will never disappear. Nor will the assurance that the realisation of the Lord is truly enjoyable grow in him. Therefore as has been said in the following _śloka_s:
 
@@ -58,13 +42,11 @@ The sufferings are intended only to reveal, to some, their offences with their c
 
 [^77]: Azhvan on losing his eye-sight did not long for his eyes again, as they would make him look at the objects of sense-pleasures.
 
-
 Among these, some punishments are the fruit of certain good deeds in the past which have begun to operate (prārabdha). When the crow (Kakasura in the _Rāmāyaṇa_) fell (at _Śrī_ _Rāma_'s feet) praying for life, the Lord gave him his life; the fruit of his _prapatti_ was full and complete. Even the punishment inflicted on this wicked crow whereby he lost the sight of one eye was not really of the nature of a punishment. It was a special form of favour (because it would prevent him from doing evil again),
 
 Therefore just as we learn that the Lord's punishment, which is brought about by sins committed in an instant (but) which make the sinner wallow in Hell till the great dissolution (Bramā Pralaya), has great potency, so also we should learn that the special form of praņāma to _Śrī_ Kṛṣṇa which is called [^78] sukrita pranāma has great potency, for it has been said: "A single praņāma to _Śrī_ Kṛṣṇa enables a man who wanders about in the wild and trackless forest of _samsāra_ to reach the boundary called _mokṣa_" and also : “ Would it be right to say that a single sukrita pranāma  to _Śrī_ Kṛṣṇa is equal to ten horse sacrifices ? (No). The man who has performed ten horse sacrifices returns again to (_samsāra_), but the man who has performed 'praņāma to _Śrī_ Kṛṣṇa never returns". In accordance with the truths revealed in these _śloka_s, we should interpret the following texts without circumscribing the potency of _prapatti_, in so far as it does not conflict with the meaning of the _śāstra_ :.- "He who performs _prapatti_ only once and says, “I am Thine"-to him I grant freedom from fear of all beings. This is my vow", " If you are afraid of sin, O Bharata, desist from all action and remain with the thought that Nārāyaṇa is alone the object to be attained by all possible means ", and “Even if a man born of a low caste performs _prapatti_ to the Lord and that only once, the Lord protects him even if he has murdered his father and mother",
 
 [^78]: Sukṛta praṇāma consists in folding the two hands in añjali thrice and in performing aṣṭāṅ_ga_ namaskāram twelve times touching the ground with the brow, the nose, the eyes and the cheeks.
-
 
 "The Lord protects him even if he has murdered his father and his mother" - Only when this has not been committed after _prapatti_, will this _śloka_ not be opposed to the rule concering prayaschitta. If it be done after _prapatti_, we have already shown how redemption could be obtained. In this way also could be easily explained such passages as this :- "Good men protect those who have sought their protection and who pray to them saying, "I am yours", even though they have murdered their fathers".
 
@@ -72,18 +54,13 @@ THE POTENCY OF _PRAPATTI_.
 
 There may be some who are followers of our Viśiṣṭādvaita darśana, who are aspirants to _mukti_ and have sought the protection of _Bhagavān_ through any one of the following paths prescribed in the _śāstra_, viz., _karma_  _yoga_, _jñāna_ _yoga_, _bhakti_  _yoga_ or _prapatti_, but who are still in the earlier stages of _yoga_ like \*Yatamana sanjna, when they have just begun to control the senses. On finding in such men certain diseases like desire for money not completely cured, some to whom freedom from all desires is all important (even more than devotion to _Bhagavān_) would call them ignorant men unfit to be talked to. But this is improper as pointed out in the Bhagavat _Śāstra_ in the sections dealing with the professions followed by those who suffer from poverty. What has been said about those who follow the wrong path should not be applied to those who follow the right path but stumble in it (occasionally). About the former it has been said: "No gifts should be received from those who observe _dharma_ hypocritically for the sake of praise, from rationalists, from heretics and from those who are like cranes (ever bent on catching fish while appearing like one in contemplation): "They are to be considered heretics who consider _Bhagavān_ to be like others. They are unfit for the performance of all (_śāstra_ic) rites", and "Those who wear matted locks as an ornament and who have shaved their heads bat who eat without performing yajna to the gods and the like, who are without any purity and who omit the performance of tarpanas and sraddhas to their forefathers (pitṛs)-even by talking to such persons men go to Hell". (What has been said in these _śloka_s does not apply to those who have only slipped or stumbled while following the right path).
 
-
-
 NO OFFENCE SHOULD EVER BE COMMITTED
 
 AGAINST BHĀGAVATAS :
 
-
-
 Anong Bhāgavatas, it is true that degrees of regard have been prescribed for those who have not received the purification by fire[^79] (or who have not done the rites or _karma_  ordained for thern), who have not the.purification due to the wearing of the caste mark ( puṅḍra) (or who have given up their sūtra ), who have not had the purification due to nāma (or who have renounced their _guru_s, gods and the like), and those who have not been initiated into the sacred _mantra_s (or who have no association with good men). But even these will obtain redemption by some means or other (prāyaśćitta and the like) (provided they have not deviated from their exclusive devotion (to _Bhagavān_). The śāstras have, indeed, laid down the rule that offences should not be committed even against these (men). What has been said of the potency of _karma_  _yoga_ in the following _śloka_s applies even more to that of _bhakti_ and _prapatti_: “The endeavour that has been commenced in this _karma_ -_yoga_ never ends in vain; there is no offence if it is not completed; even a small fraction of this _dharma_ redeems a n:an from measureless _samsāra_”, and “The "man who has begun _yoga_ but has not completed it never perishes either here or in the higher world. (Is it not clear) that the man who has done a good thing will not meet with an evil end?" Further the Supreme Ruler Himself said to Arjuna and _Dharma_. putra respectively :--"Even "if a man is of impure ways, if he worships me without the desire for any other fruit, he is certainly a good man (sādhu). He is worthy of esteem, for his intentions are good", and "Even" if my devotees are inclined to sin, no sin will cling to them, in the same way as water does not stain the leaf of the lotus".
 
 [^79]: The marks of the conch and the discus (chakra) made with red-hot iron on the two upper arms.
-
 
 It has (also) been said in the discourse between Puṇḍarīka and Nārada :- He who has sought the protection of the Lord, O best of Brahmins, whether he be clad in a garment of bark, whether he wears matted locks (jatā), whether he holds a triad of sticks (like a sannyāsin), whether he has shaved his head clean or whether he bears the marks of other _āśrama_s or whether he has not any of them- (it does not matter)-  for these are not the causes that win _mokṣa_. Even those who have no pity, who have wicked minds and are always inclined to evil ways --- even they attain the highest state, provided they have sought the protection of Nārāyaṇa": "If the devotees of Viṣṇu commit sins, the sins will not taint them, because they will perform _prāyaścitta_ at once. They purify the whole world like the rising sun." "The man in whom, at the end of thousands of virtuous lives, arises the thought that he is the servant of _Vāsudeva_, who is the Supreme Self in all the worlds -- that man will go to the world of _Bhagavān_. There is no doubt of this. (Such being the case), is it necessary to speak of those who, with the seoses under control, have fixed their souls in _Bhagavān_". In these _śloka_s, it is stated that, even if devotees of _Bhagavān_ continue to sin, they will doubtless attain _mukti_ by performing prayaschitta and that (this being so) much more easily will sinless men attain _mukti_, further the great sage declared also this, among other truths, that those who have no devotion to _Bhagavān_ will never attain the desired goal even by superior deeds of virtue: "Those  who do not turn their faces to Nārāyaṇa will never reach the desired goal, even though they have performed a hundred horse-sacrifices and many hundreds of Vajapeya sacrifices".
 
@@ -103,11 +80,7 @@ From the _śloka_s and Tamil verses that follow, it should not be understood tha
 
 It is said in the Bhāgavatam :-"The Gopis attained _mukti_ by love (to _Śrī_ Kṛṣṇa); Kamsa out of fear (of _Śrī_ Kṛṣṇa), Sisupala and other kings by hatred (to _Śrī_ Kṛṣṇa), the Vrishnis owing to their relationship; you ( the Pandavas) out of friendship to him and we (Nārada  and others) by devotion". It states that, in some way or other (fear, hatred, love, friendship etc.), those who are associated with _Śrī_ Kṛṣṇa will obtain redemption, provided they have done good deeds in the past. The same idea is found also in the _śloka_ :- " Associations with _Bhagavān_, who is ever pure, whatever be the form it takes, will destroy sins". These two _śloka_s refer to individuals who had a special competency owing to good deeds done in past lives. This is well-known from the purāṇas which relate the earlier and the later incidents in their lives. (It should not be considered applicable to others.)
 
-
-
 RESIDENCE IN HOLY PLACES.
-
-
 
 The statement (in certain passages) that the parting from life in certain holy places of _Bhagavān_ will help the attainment of _mukti_ should be understood as applicable only to those who are not ill-disposed to _Bhagavān_, though, in their indifference, they may be like animals. If not understood in this manner, it would follow that even those who are bent on doing what is displeasing to the Lord would attain _mukti_ (which is absurd).
 
@@ -132,8 +105,6 @@ TAMIL VERSE:
 
 The Supreme Self whose greatness is described in the Vedas, which reveal the truth, is beyond all limitations and beyond all measure in regard to His glory. Therefore, about those who approach Him and seek His feet, though such things as low birth and certain weaknesses may be found in them, yet it cannot be said that their greatness is, in any way, limited. This truth has been taught to us by those who are highest among men and who are free from all partiality.
 
-
-
 SANSKRIT _ŚLOKA_.
 
 रागद्वेषमदादिकैरिह महारक्षोभिरक्षोभिते  
@@ -141,10 +112,6 @@ SANSKRIT _ŚLOKA_.
 यत्कक्षीकृतमत्यशेत विविधान् धर्मानधर्मद्रुह-
 
 स्तद्भूमार्णवलेशवर्णनमपि प्राचां न वाचां पदम् ॥ ५८ ॥
-
-
-
-
 
 When the eternal Saviour, who cannot, in the least, be affected by such great demons as desire, hatred, pride and the like is present (to save us), that tapas or _upāya_ called the surrender of the responsibility of our protection (_bharanyāsa_), which is accepted as transcending all other _dharma_s (_upāya_s) in putting down all a_dharma_s -- that tapas is so great that the description of even a fragment of the ocean of its potency is beyond the range of even the ancient Vedas.
 
@@ -154,7 +121,4 @@ When the eternal Saviour, who cannot, in the least, be affected by such great de
 स्थिरीकरणभागो द्वितीयः ॥ श्रीमते निगमान्तमहादेशिकाय नमः॥
 
 Here ends the second part entitled the Discussion and Clarification of Doubts and Disputed Points.
-
-
-
 
