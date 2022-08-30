@@ -15,7 +15,7 @@ THE MEANING OF COMPETENCY OR ADHIKARA:
 
 It is necessary that one should know the special qualifications and the like required in a person who intends to adopt nyasa vidya (prapatti) without any desire for the other upāyas in the quest for the goal that is desired. Competency (adhikara ) consists in 
 
-NOTE 1: Ability which is threefold - The ability to understand the meaning of sastras: the ability to perform what is ordained in them and the competence as laid down in the sastras according to caste, qualities and the like. 
+NOTE 1: Ability which is threefold - The ability to understand the meaning of śāstras: the ability to perform what is ordained in them and the competence as laid down in the śāstras according to caste, qualities and the like. 
 
 NOTE 2:- Bhakti Yoga: Bhakti Yoga is called the ashtanga yoga, because its eight angas are yama, niyama, etc. Praparti is called shadanga yoga, because its six angas are such as anukulya saṅkalpa, prathikulya var ianam, mahavisvasam, akinchanyam, etc., to be described later,112 CHAPTER 
 

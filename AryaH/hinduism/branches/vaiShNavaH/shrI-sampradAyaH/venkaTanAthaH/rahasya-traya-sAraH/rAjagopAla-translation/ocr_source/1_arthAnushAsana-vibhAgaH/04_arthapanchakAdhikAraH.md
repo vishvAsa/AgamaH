@@ -35,11 +35,11 @@ BRAHMAN, THE END TO BE ATTAINED:
 
 ITS SVARĪPA: 
 
-Among these, the essential nature of Brabman, which is the object of attainment, is revealed in the first letter a in om and in the word 'Narāyaṇa' in Tirumantra and in the words Nārāyana with the adjectives 'Srünün' occurring in Duayam and in the words 'me' and 'I' occurring in the Charama śloka. It is in this way that they should be considered. Wbile doing so, one should thiok of His essential nature (svarīpa) as infinite jrāna and infinite bliss ever inseparable from His consort, Lakṣmī, who, in every form and in all situations, participates in all His actions. For there are many authoritative passages in support of this prescribed contemplation - 
+Among these, the essential nature of Brabman, which is the object of attainment, is revealed in the first letter a in om and in the word 'Narāyaṇa' in Tirumantra and in the words Nārāyana with the adjectives 'Srünün' occurring in Duayam and in the words 'me' and 'I' occurring in the Charama śloka. It is in this way that they should be considered. Wbile doing so, one should thiok of His essential nature (svarūpa) as infinite jñāna and infinite bliss ever inseparable from His consort, Lakṣmī, who, in every form and in all situations, participates in all His actions. For there are many authoritative passages in support of this prescribed contemplation - 
 
 “The Lord of the Universe is over with Lakṣmī in Vai. kunta, the world beyond” (Here the reference is to the Supreme Lord (Para) in Vaikuṇṭha.) 
 
-“This 3Narāyaṇa is always with Sri -- Narāyaṇa whose abode is the ocean of milk. He has now come to the city of Madhura leaving His bed (Adisesha)" (The reference is here to the Vyüha) “Thou art the God Narāyaṇa, the spouse of Sri and hast the Chakra is Thy weapon and Thou art omnipresent". (The refe rence is to the Vibhava or avatāra.) 
+“This 3Narāyaṇa is always with Sri -- Narāyaṇa whose abode is the ocean of milk. He has now come to the city of Madhura leaving His bed (Adiśeṣa)" (The reference is here to the Vyüha) “Thou art the God Narāyaṇa, the spouse of Sri and hast the Chakra is Thy weapon and Thou art omnipresent". (The refe rence is to the Vibhava or avatāra.) 
 
 1. Harita Saṁhitā 2. Lingapurāṇa. 3. Harivamsa: 113-62 4. Rāmayana: Yuddhakanda 120-13, 
 
@@ -79,7 +79,7 @@ servant and thus find delight?" (This is also prayer for service ). "Thy "spouse
 
 "I will \*not be parted (from Thee) even for a moment”, says Sri and abides on Thy chest." 
 
-\* Thou "art all jnāna and bliss." 
+\* Thou "art all jñāna and bliss." 
 
 art the light that never goes out and art beyond all 
 
@@ -199,7 +199,7 @@ THE FIVE THINGS TO BE KNOWN
 
 From the pañcaratra Sastra (Bhagavat Sastra ), it is learnt that this form of the Lord is of five kinds (1) The Supreme (Para Vasudeva ), (2) Vyžiha (Vasudeva, Saṅkarshana, Ani. ruddba and Pradyumna), (3) Vibhava (avatārs like Rāma and Kr̥ṣṇa), (4) Hārda and (5) archa (images worshipped in temples). 
 
-Details concerning them may be learnt from the pañcaratra sastra and from tradition. Bhagavan should also be considered as having endless glories or possessions (Vibhiti). For there are passages like the following which describe His vibhutis 
+Details concerning them may be learnt from the pañcaratra śāstra and from tradition. Bhagavan should also be considered as having endless glories or possessions (Vibhiti). For there are passages like the following which describe His vibhutis 
 
 THE VIBHUTIS OF BHAGAVAN: LILÃ AND BHOGA: 
 
@@ -277,7 +277,7 @@ NOTE: This sumunarises Prapya (i.c.) the object of attainment, wiz. Brahman.42 C
 
 They have never been in saṁsāra and are engaged in eternal service to the Lord o.g. Adapta (i.e.) Adisesba, Garnda and Vish. vaksena. 
 
-The characteristic attributes common to all the three of them are being atomic (in size) (anu) and being of the nature of knowledge (jñāna), bliss (ānanda), purity (amalatvam) and the like. They are all seshas to Bhagavan and are entirely subject to His will. One should also understand what is distinctive and peculiar to one as a mumukṣu or seeker after salvation. This has been (already) mentioned in the Introductory Chapter and will be described later on also. 
+The characteristic attributes common to all the three of them are being atomic (in size) (aṇu) and being of the nature of knowledge (jñāna), bliss (ānanda), purity (amalatvam) and the like. They are all śeṣas to Bhagavan and are entirely subject to His will. One should also understand what is distinctive and peculiar to one as a mumukṣu or seeker after salvation. This has been (already) mentioned in the Introductory Chapter and will be described later on also. 
 
 The essential nature of the jiva who seeks attainment should be thought of, while considering the letter in in om and in namas or namo in Tirumantra, and in the part nāra of the word Nārāyana, wherever it occurrs in the Ashtakṣara and the Dvayam, in the first person singular form " I seek refuge" prapadye in Duayain, in the second person singular of the word " thyself" in "surrender thyself" (vraja) and in the word thec (tva) and in the sentence " despair not" in the charamaśloka. 
 

@@ -18,7 +18,7 @@ THE PRAPANNA SHOULD HAVE THE SASTRA
 
 FOR HIS GUIDE: 
 
-(It has been stated so far that) owing to his relationship as a s'esha, the prapanna has to render service to Bhagavan and to Bhagavatās. Now it may be asked whether this service arises from his desire and in accordance with the sāstras or from his mere desire without any reference at all to the sāstras. The answer is as follows; To the man who is in this world full of the darkness of ignorance, the sāstra is required as a lamp (to show the path that he should take). So the service that he is to render should be according to the s'āstra; in matters where the s'āstra gives an option or alternatives, he may follow his own discretion. "How ja this", it may be asked. When Sri Rāmanuja was about to leave this world, he observed his foremost disciples grieving exceedingly, He called them to his side and commanded them on pain of offence to Aḷavandār not to think of taking their own lives owing to their sorrow at his death. "They will (if they do so) have no connection with me”, he said. On hearing this, they were filled with sorrow and begged that they might be told what they should do thereafter. This was Sri Rāmanuja's reply: 
+(It has been stated so far that) owing to his relationship as a śeṣa, the prapanna has to render service to Bhagavan and to Bhagavatās. Now it may be asked whether this service arises from his desire and in accordance with the sāstras or from his mere desire without any reference at all to the sāstras. The answer is as follows; To the man who is in this world full of the darkness of ignorance, the sāstra is required as a lamp (to show the path that he should take). So the service that he is to render should be according to the s'āstra; in matters where the s'āstra gives an option or alternatives, he may follow his own discretion. "How ja this", it may be asked. When Sri Rāmanuja was about to leave this world, he observed his foremost disciples grieving exceedingly, He called them to his side and commanded them on pain of offence to Aḷavandār not to think of taking their own lives owing to their sorrow at his death. "They will (if they do so) have no connection with me”, he said. On hearing this, they were filled with sorrow and begged that they might be told what they should do thereafter. This was Sri Rāmanuja's reply: 
 
 17 
 
@@ -100,7 +100,7 @@ ORDINANCES OF SASTRAS
 
 TAMIL VERSE: 
 
-By following the four Vedas (and the Smr̥tis and other sastras) in which the Supreme Being who measured the three worlds with His feet has ordained what is right and what is wrong, we have attained the state of service similar to that of the eternal sūris who are full of the love (of God). To us who live in the dark night (of saṁsāra), there is no other light than that of this moon (viz. the sāstras) to dispel the darkness that grows denser and denser at every step. 
+By following the four Vedas (and the Smr̥tis and other śāstras) in which the Supreme Being who measured the three worlds with His feet has ordained what is right and what is wrong, we have attained the state of service similar to that of the eternal sūris who are full of the love (of God). To us who live in the dark night (of saṁsāra), there is no other light than that of this moon (viz. the sāstras) to dispel the darkness that grows denser and denser at every step. 
 
 SANSKRIT SLOKA: 
 

@@ -87,7 +87,7 @@ The third word in Tirumantra is Nārāyanāya, which is the dative or fourth cas
 
 The first word, Praṇava (aum), signifies that m, the jīva, exists only for a (aya) and the second word namo that the jīva depends on Bhagavān. His existence is for Bhagavān and His devotees, to the latter of whom the śeṣatva extends as its ultimate limit, and he depends absolutely on Bhagavān and His devotees In the light of this interpretation, the third word Nārāyanāya has, for its purport, the goal of the jīva, vis, kaiṅkarya or service to the Lord and His devotees. This service may be seen illustrated in an active form in that of Lakṣmaṇa and in a passive form in the sandals[^23]  of Śrī Rāma which were an incarnation of Lakṣmaṇa or Adiśeṣa and which left Rāma's feet to go along with His devotee, Bharata. (In these instances) the service is such as would be pleasing to the śeṣī (namely, Bhagavān).
 
-[^23]: Lakṣmaṇa is a partial incarnation of Adisesha and Adisesha serves the Lord as His sandals. His bed, and so on. Therefore the sandals of Rāma are, in a sense, the incarnation of Lakṣmaṇa.
+[^23]: Lakṣmaṇa is a partial incarnation of Adiśeṣa and Adiśeṣa serves the Lord as His sandals. His bed, and so on. Therefore the sandals of Rāma are, in a sense, the incarnation of Lakṣmaṇa.
 
 All this elucidation and illustration of the meaning of Tirumantra were vouchsafed by Śrī Appullar. The implicit and explicit meanings contained in Dvayam and the Carama śloka  should be understood on the same lines.
 

@@ -11,7 +11,7 @@ I adore the regular and spotless succession of Acharyas which is well-known to e
 
 SANSKRIT VERSE: 
 
-I bow to those great men who have refuted the arguments of men \*that chop logic and ask, “Why and wherefore ?", in connection with the truths of) the sastra which treats (in two parts) of karma and Brabman. They have thereby rendered clean the highroad that leads to the Lord of Hastigiri. 
+I bow to those great men who have refuted the arguments of men \*that chop logic and ask, “Why and wherefore ?", in connection with the truths of) the śāstra which treats (in two parts) of karma and Brabman. They have thereby rendered clean the highroad that leads to the Lord of Hastigiri. 
 
 TAMIL VERSE: 
 
@@ -31,11 +31,11 @@ with His glance at a turn in the tide of fortune, he attains to a knowledge of h
 
 THE HERITAGE OF THE JĪVĀTMĀ. 
 
-How the Jivātmā lost this heritage. The individual soul (Jivatma) has been declared in the diffe rent sāstras as being dear to the Lord of Lakṣmī even like the gem Kaustubha; be has been called the prince, the Lord's son, His disciple, His attendant, His dependant existing solely for Him \*(sesha ) and His servant. The Lord is his s'eshi for whose pur poses (alone) he esists by bis very nature. T'he Lord is the ruler of the eternal Suris, who are ever free from ignorance. He is possessed of unsurpassed auspicious qualities; He loves us as He does the lotus-born Lakṣmī. He is the Lord of men on earth and of the Suris in Heaven. As has been said “ The Lord of the Universe dwells in the Supreme Region of Vaikuṇṭha along with Lakṣmī," " +Thou art ever with Lakṣmī adorned with shiping bracelets". He dwells in the pure world of suddhasatva ( nitya vibhiti) along with His great queen and is seated on a couch, as described in such places as the Koushitaki Brāhmana, in a hall of splendour which is lit up with gems and stands on & thousand pillars, in the eternal and changeless city called by names like Ayodbya; for instance, it is said, "It is called Ayodhya and Aparajita and is beyond the world of svarga." The Lord is seated on the bed of the serpent called Sesha who is like an umbrella to the Lord when He moves about and like a throne whenever be is seated. He has been described "&g the Lord's abode, His bed, 
+How the Jivātmā lost this heritage. The individual soul (Jivatma) has been declared in the diffe rent sāstras as being dear to the Lord of Lakṣmī even like the gem Kaustubha; be has been called the prince, the Lord's son, His disciple, His attendant, His dependant existing solely for Him \*(śeṣa ) and His servant. The Lord is his s'eshi for whose pur poses (alone) he esists by bis very nature. T'he Lord is the ruler of the eternal Suris, who are ever free from ignorance. He is possessed of unsurpassed auspicious qualities; He loves us as He does the lotus-born Lakṣmī. He is the Lord of men on earth and of the Suris in Heaven. As has been said “ The Lord of the Universe dwells in the Supreme Region of Vaikuṇṭha along with Lakṣmī," " +Thou art ever with Lakṣmī adorned with shiping bracelets". He dwells in the pure world of suddhasatva ( nitya vibhiti) along with His great queen and is seated on a couch, as described in such places as the Koushitaki Brāhmana, in a hall of splendour which is lit up with gems and stands on & thousand pillars, in the eternal and changeless city called by names like Ayodbya; for instance, it is said, "It is called Ayodhya and Aparajita and is beyond the world of svarga." The Lord is seated on the bed of the serpent called Sesha who is like an umbrella to the Lord when He moves about and like a throne whenever be is seated. He has been described "&g the Lord's abode, His bed, 
 
 \*NOTE:- A Sūtra or aphorism in Purya Mimamsa says: “ That is called a 
 
-sesha which serves the purpose of another (and that other is called a sesht) (e. g.) In a sacrifice, the grains of rice are sesha to the sacrifice which is seshi because they serve the purpose of the sacri 
+śeṣa which serves the purpose of another (and that other is called a sesht) (e. g.) In a sacrifice, the grains of rice are śeṣa to the sacrifice which is seshi because they serve the purpose of the sacri 
 
 fice. Lainga Purāṇa 
 

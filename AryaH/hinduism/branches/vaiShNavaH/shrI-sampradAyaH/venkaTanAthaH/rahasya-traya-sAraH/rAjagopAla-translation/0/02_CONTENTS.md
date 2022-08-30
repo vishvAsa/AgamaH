@@ -27,7 +27,7 @@ The three Mantras . Their great value. The only Pramüra in regard to mokṣa ad
 
 ## CHAPTER III. The most important and distinctive doctrine that is unique to Visishtādvaita
 
-What is a s'arira and what is a Sarīrī? Adhāra and Niyanta - Īśvara's support by His svarupa and by His will (saṅkalpa). The consequences of this knowledge. The meaning of sesha-s'eshi bhāva - The presence of these ideas in the three mantras - Seshatva means dasatva in regard to Chetanas. 
+What is a s'arira and what is a Sarīrī? Adhāra and Niyanta - Īśvara's support by His svarupa and by His will (saṅkalpa). The consequences of this knowledge. The meaning of śeṣa-s'eshi bhāva - The presence of these ideas in the three mantras - Seshatva means dasatva in regard to Chetanas. 
 
 22 to 31 
 
@@ -86,7 +86,7 @@ Reflection on Bhagavan and His attributes; the com panionship of those who are s
 147 to 159 
 
 ## CHAPTER XVI. The farthest extent of our ultimate object in life
-Reasons for rendering service to Bhagavatas; God's appreciation of the service ren lered to Bhagavatas : Bhagavatas are s'eshas to one anoiber; the consequences arising from service to Bhagavatas. 
+Reasons for rendering service to Bhagavatas; God's appreciation of the service ren lered to Bhagavatas : Bhagavatas are śeṣas to one anoiber; the consequences arising from service to Bhagavatas. 
 
 160 to 167. 
 ## CHAPTER XVII. T'he Ordinances imposed by the Sāstras 
@@ -143,7 +143,7 @@ Recapitulation of the contents of the First Part; three caused by which the Lord
 
 by Sadhyopaya or the upāya that 
 
-has to be adopted The need for the clarification; competence for pra. patti open to all ( castes and both sexes ); misconceptions about the pature or svarūpa of prapatti (a) the knowledge that one is sesha to the Lord is not prapatti in itself (b) refraining from one's own activity is not prapatti ; the srāstra has to enjoin prapatti; bhakti pot inconsistent witb one's svarūpa; the objection that the Jiva being entirely dependent on the Lord cannot and should not adopt any upāya pot tepable; the objection that the rites of varna and āsrama and bhaktiyoga are inconsistent with exclusive devotion to Bhagavan antepable; the objection that bhakti and prapatti are not adopted by s'ishtas; does prapatti require angas or accessories? Why should intense faith be called an añga instead of mere faith ? causes of the decay of faith and the remedy therefor; the rites of nitya and naimittika are, on no account, to be given ap by the prapanna. 
+has to be adopted The need for the clarification; competence for pra. patti open to all ( castes and both sexes ); misconceptions about the pature or svarūpa of prapatti (a) the knowledge that one is śeṣa to the Lord is not prapatti in itself (b) refraining from one's own activity is not prapatti ; the srāstra has to enjoin prapatti; bhakti pot inconsistent witb one's svarūpa; the objection that the Jiva being entirely dependent on the Lord cannot and should not adopt any upāya pot tepable; the objection that the rites of varna and āsrama and bhaktiyoga are inconsistent with exclusive devotion to Bhagavan antepable; the objection that bhakti and prapatti are not adopted by s'ishtas; does prapatti require angas or accessories? Why should intense faith be called an añga instead of mere faith ? causes of the decay of faith and the remedy therefor; the rites of nitya and naimittika are, on no account, to be given ap by the prapanna. 
 
 264 to 298 
 
