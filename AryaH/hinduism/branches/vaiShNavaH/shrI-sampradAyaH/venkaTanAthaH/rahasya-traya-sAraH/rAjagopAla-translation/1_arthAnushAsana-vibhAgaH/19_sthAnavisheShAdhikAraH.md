@@ -89,7 +89,7 @@ Therefore the statement in the following śloka  :-- "The man " who performs pra
 मत्तुऱुमिगुत्त तयिर्मॊय्त्तवॆणॆय् वैत्तदुणुमत्तनिडमा  
 मत्तिगिरिबत्तर्विनै तॊत्तऱवऱुक्कुमणियत्तिगिरिये.
 
-(3) Hastigiri (Kancheepuram ) where dwells ŚrīRāma who, with his might and with his arrow discharged from his beautiful bow in the great battle-field, sh ook down the bunch of ten heads of the Rākṣasa who was powerful in the use of missiles and where dwells also Śrīkṛṣṇa, the great friend of man, who ate the rising batter kept by Yasoda, after churning the abundant curd into which the chura was pressed – this Hastigiri cuts off the sins of devotees leaving no trace of them behind. It does, of itself, the work of the Lord's chakra and lets the latter remain as a mere ornament to His hand :
+(3) Hastigiri (Kañcīpuram ) where dwells ŚrīRāma who, with his might and with his arrow discharged from his beautiful bow in the great battle-field, sh ook down the bunch of ten heads of the Rākṣasa who was powerful in the use of missiles and where dwells also Śrīkṛṣṇa, the great friend of man, who ate the rising batter kept by Yasoda, after churning the abundant curd into which the chura was pressed – this Hastigiri cuts off the sins of devotees leaving no trace of them behind. It does, of itself, the work of the Lord's chakra and lets the latter remain as a mere ornament to His hand :
 
 तेनार् कमलत् तिरुमगणादन् ऱिगऴ्न्दुऱैयुम्  
 वानाडुगन्दवर् वैयत्तिरुप्पिडम् वण्ड्ररुमक्  

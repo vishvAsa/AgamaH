@@ -6,17 +6,17 @@ title = "०२ सारनिष्कर्षाधिकारः"
 
 NOTE "The Three Mysterics" have been occasionally referred to in previous chapters. Sri Vedāntadesika presumes that everyone of his readers knows what they are. It is just possible that some of them are not in the know of these mysteries. So a brief account may be necessary of these mantras. 
 
-1. One of them is called Ashtakshara or Tirumantra. It consists of eight syllables in Sanskrit which are in the form of three words. The first word which consists of a single syllable is Om, which is made of three parts a, u and mor akara, ukara and makara. The second word is namo which, when there i s no sandhi, is namas. It means 'Obeisance' or adoration! The third word is Narayana which means " to Narayanaya". Narayanaya is the dative (the fourth case ) singular form of Narayana. The mantra, as a whole, means "Adoration to Narayana ! " or "I offer my adoration to Narayana." (This is the meaning appearing at first sight.) 
+1. One of them is called Ashtakṣara or Tirumantra. It consists of eight syllables in Sanskrit which are in the form of three words. The first word which consists of a single syllable is Om, which is made of three parts a, u and mor akara, ukara and makara. The second word is namo which, when there i s no sandhi, is namas. It means 'Obeisance' or adoration! The third word is Narayana which means " to Narayanaya". Narayanaya is the dative (the fourth case ) singular form of Narayana. The mantra, as a whole, means "Adoration to Narayana ! " or "I offer my adoration to Narayana." (This is the meaning appearing at first sight.) 
 
-2. Another mantra or mystery is the “last" sloka of Sri Kr̥ṣṇa's teach ing in Bhagavad Gita usually called the charama sloka. 
+2. Another mantra or mystery is the “last" śloka of Sri Kr̥ṣṇa's teach ing in Bhagavad Gita usually called the charama śloka. 
 
-It means: “Having given up rites or activities as means to secure moksha, surrender thyself to me alone". (This is the first half of the sloka.) 
+It means: “Having given up rites or activities as means to secure mokṣa, surrender thyself to me alone". (This is the first half of the śloka.) 
 
 (This is the second half 
 
-"I will free thee from all sins; despair not." of the sloka.) 
+"I will free thee from all sins; despair not." of the śloka.) 
 
-3. Yet another mystery or mantra is usually called Drayam. It consists of two parts; the first part means "I seek refuge at the feet of Narayana who is cver inseparable from Sri or Lakshmi". The second part means: "I offer my adoration to Narayana and Sri". 
+3. Yet another mystery or mantra is usually called Drayam. It consists of two parts; the first part means "I seek refuge at the feet of Narayana who is cver inseparable from Sri or Lakṣmī". The second part means: "I offer my adoration to Narayana and Sri". 
 
 These, then, are the "three mysteries or mantras" which are the best of what should be known and meditated upon. The fuller and more subtle meanings of these mantras are explained in latter chapters. )--Tr. 
 
@@ -32,13 +32,13 @@ of the enjoyment of one's own atma or self (purusha-bhoga) or (Kaivalya) are not
 
 THE GREAT VALUE OF THE THREE MANTRAS: 
 
-Among these three mysteries (mantras), Tirumantra or Ashtaksharu has' been stated to contain everything within itself and, if it is known, the meaning of everything becomes known; the charama sloka, which says (in its first half) “having given up all rites and activities as means of attaining moksha, surrender thyself to me", establishes that the adoption of the single means taught in it, vis, self-surrender (or s'aranagati) would secure the benefits of all other means prescribed elsewhere; the Dvayam, aus has been stated in Katu sruti and elsewhere, is capable of making & man perfect in the discharge of all his duties even if it is uttered only once. Therefore these three mysteries alone are of value to the seeker after salvation. It has been said, “One should ignore what is of no value, what is only of slight value, and, likewise, what is valuable and even what is more valaable. It is only what is most valuable that one should prefer in the sastra, like ambrosia in the Ocean, 
+Among these three mysteries (mantras), Tirumantra or Ashtakṣaru has' been stated to contain everything within itself and, if it is known, the meaning of everything becomes known; the charama śloka, which says (in its first half) “having given up all rites and activities as means of attaining mokṣa, surrender thyself to me", establishes that the adoption of the single means taught in it, vis, self-surrender (or s'aranagati) would secure the benefits of all other means prescribed elsewhere; the Dvayam, aus has been stated in Katu sruti and elsewhere, is capable of making & man perfect in the discharge of all his duties even if it is uttered only once. Therefore these three mysteries alone are of value to the seeker after salvation. It has been said, “One should ignore what is of no value, what is only of slight value, and, likewise, what is valuable and even what is more valaable. It is only what is most valuable that one should prefer in the sastra, like ambrosia in the Ocean, 
 
 THE ONLY PRAMANA IN REGARD TO) MOKSHA AND 
 
 THE MEANS OF ATTAINING IT IS SASTRA: 
 
-The ultimate goal or aim of life (purushārtha ) (namely, moksha) and the means of attainiog it are not capable of being understood from sense perception (pratyaksha) or (anumāna) inference. As stated in such passages as "It is from the 
+The ultimate goal or aim of life (purushārtha ) (namely, mokṣa) and the means of attainiog it are not capable of being understood from sense perception (pratyakṣa) or (anumāna) inference. As stated in such passages as "It is from the 
 
 1. Naradiya Kalpa 19. - ORAPTER 
 
@@ -58,12 +58,12 @@ WHAT 18 BEST
 
 THE THREE MYSTERIES ARE THE MOST IMPORTANT. 
 
-Even there, the three Mysteries (mantras) which are, as it were, an epitome of the truths that ought to be known and of the means of attaining salvation, which are the distinctive, unique and exclasive doctrines (of our Visishtadvita system) are invaluable and therefore to be most preferred. As stated in the siloka " From the many and great sāstras, the wise man should choose only that which is most valuable as the bee takes in the honey from the flowers," the jiva who thirsts for moksha should prefer as invaluable these three mysteries (mantrās.) 
+Even there, the three Mysteries (mantras) which are, as it were, an epitome of the truths that ought to be known and of the means of attaining salvation, which are the distinctive, unique and exclasive doctrines (of our Visishtadvita system) are invaluable and therefore to be most preferred. As stated in the siloka " From the many and great sāstras, the wise man should choose only that which is most valuable as the bee takes in the honey from the flowers," the jiva who thirsts for mokṣa should prefer as invaluable these three mysteries (mantrās.) 
 
 TAMIL VERSE: 
 
-As if what has been already learnt is not enough, the eighteen subjects of study may confront us like burdens (on the intellect); but they add only to the number (and are of no use). Therefore the Acharyas of our system (Visiştādvaitam) have, with wise discrimination, given us what the Nitya-sūris whose wisdom never langnishes (literally who never wink") speak of in exalted terms. nainely, the 'eight' (Ashtakshara) and the two' (viz) the Dva. yam and the charama sloka, SANSKRIT VERSE: 
+As if what has been already learnt is not enough, the eighteen subjects of study may confront us like burdens (on the intellect); but they add only to the number (and are of no use). Therefore the Acharyas of our system (Visiştādvaitam) have, with wise discrimination, given us what the Nitya-sūris whose wisdom never langnishes (literally who never wink") speak of in exalted terms. nainely, the 'eight' (Ashtakṣara) and the two' (viz) the Dva. yam and the charama śloka, SANSKRIT VERSE: 
 
-The basic mantra (moolanantra) called Ashtakshara shines conspicuously in the Upanishads (literally, the end of the various branches of the Veda). If there is any one endowed with discriminating wisdom who has understood from that inantra the truth about hia essential nature, and if he spends all his time in uttering the Dvayani which, even at a single atterance, can produce the fruition of the desire for the ultimate goal of life and if he has also absolute faith in the means of salvation taught with compassion in the charama sloka by Sri Kr̥ṣṇa who, for his sport or Ia, became the charioteer, and, who is the crest jewel, as it were, of the Vedas - if there is any such person (at all) in the world, he will be the leader of all our hosts. 
+The basic mantra (moolanantra) called Ashtakṣara shines conspicuously in the Upanishads (literally, the end of the various branches of the Veda). If there is any one endowed with discriminating wisdom who has understood from that inantra the truth about hia essential nature, and if he spends all his time in uttering the Dvayani which, even at a single atterance, can produce the fruition of the desire for the ultimate goal of life and if he has also absolute faith in the means of salvation taught with compassion in the charama śloka by Sri Kr̥ṣṇa who, for his sport or Ia, became the charioteer, and, who is the crest jewel, as it were, of the Vedas - if there is any such person (at all) in the world, he will be the leader of all our hosts. 
 
 - 6. Mahabharata : Santi Parva 176.66.3. 

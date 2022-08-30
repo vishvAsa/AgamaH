@@ -114,9 +114,9 @@ which say mukti
 
 mukta Footnote Tirumali
 
-Tirumalai bhakti on prapatti bhakti or prapatti charma sloka
+Tirumalai bhakti on prapatti bhakti or prapatti charma śloka
 
-charama sloka Bramā pralaya Brahmā pralaya furtune
+charama śloka Bramā pralaya Brahmā pralaya furtune
 
 fortune Last line praying for
 

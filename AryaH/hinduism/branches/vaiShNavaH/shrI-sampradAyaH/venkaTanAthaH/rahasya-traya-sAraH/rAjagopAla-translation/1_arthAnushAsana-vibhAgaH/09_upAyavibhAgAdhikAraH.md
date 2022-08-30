@@ -31,7 +31,7 @@ Bhagavān is declared in the Upaniṣads to be Himself the means (upāya) of att
 
 UPĀYA AND UPEYA:
 
-The means or upāya to be adopted by them (i.e.) the seekers after mukti) is a special kind of expansion of knowledge. The upeya or object of attainment which can be realised by this means is another special kind of expansion of knowledge. Of these, the special kind of expansion of knowledge which is the means requires the help of instruments of knowledge (karana ) and has been prescribed in the Śāstras. It has for its object Brahman who is always endowed with the five attributes like satyam, (satyam, jñānam, anantan,anandam, amalatvam ) which define His essential nature or substance ( svarūpa), along with the qualities Associated invariably with the respective vidyā or form of meditation. The object of attainment (upeya) which is a special kind of expansion of knowledge does not require any instruments of knowledge. It is the natural heritage of the jīvātmā and has for its object Brahman perfect with all qualities and glorious possessions (vibhūtis).
+The means or upāya to be adopted by them (i.e.) the seekers after mukti) is a special kind of expansion of knowledge. The upeya or object of attainment which can be realised by this means is another special kind of expansion of knowledge. Of these, the special kind of expansion of knowledge which is the means requires the help of instruments of knowledge (karaṇa ) and has been prescribed in the Śāstras. It has for its object Brahman who is always endowed with the five attributes like satyam, (satyam, jñānam, anantan,anandam, amalatvam ) which define His essential nature or substance ( svarūpa), along with the qualities Associated invariably with the respective vidyā or form of meditation. The object of attainment (upeya) which is a special kind of expansion of knowledge does not require any instruments of knowledge. It is the natural heritage of the jīvātmā and has for its object Brahman perfect with all qualities and glorious possessions (vibhūtis).
 
 ŚLOKA:
 
@@ -78,7 +78,7 @@ Thus prapatti and bhakti are said to be optional in relation to those who are qu
 
 BHAKTI IS DIFFERENT FROM PRAPATTI:
 
-That the two are different from each other is evident from the adhikarana or section. "The Brahma Vidyās are different as their *[^48] names and the like are different ". Brahma sūtras (III-3.56). That there is option (to choose any of them) is also evident from the section : " There is option (to adopt any of them ) because the result or (final) fruit is the same". Brahnia sītras (III - 3. 57).
+That the two are different from each other is evident from the adhikaraṇa or section. "The Brahma Vidyās are different as their *[^48] names and the like are different ". Brahma sūtras (III-3.56). That there is option (to choose any of them) is also evident from the section : " There is option (to adopt any of them ) because the result or (final) fruit is the same". Brahnia sītras (III - 3. 57).
 
 [^48]: Bhakti leads through yoga to para-bhakti which leads to para-Jñāna, which, in its turn, leads to parama-bhakti.
 

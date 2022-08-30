@@ -9,7 +9,7 @@ title = "०२ CONTENTS"
 
 Pages. 
 
-A brief account of the succession of Acharyas. The Acharya essential for moksha - Bhagavan the first Acharya 
+A brief account of the succession of Acharyas. The Acharya essential for mokṣa - Bhagavan the first Acharya 
 
 • The succession of Acharyas in Sri Vaishnavism - Bhakti to Acharya essential. 
 
@@ -23,16 +23,16 @@ The heritage of the Jivātmā apd bow be lost it. The parable of the prince brou
 
 ## CHAPTER II. The Determination of what is best : 
 
-The three Mantras . Their great value. The only Pramüra in regard to moksha add to the means of attaid. ing it is Sastra . The importance of the three Mantras. 18 to 21 
+The three Mantras . Their great value. The only Pramüra in regard to mokṣa add to the means of attaid. ing it is Sastra . The importance of the three Mantras. 18 to 21 
 
 ## CHAPTER III. The most important and distinctive doctrine that is unique to Visishtādvaita
 
-What is a s'arira and what is a Sarīrī? Adhāra and Niyanta - Iswara's support by His svarupa and by His will (saṅkalpa). The consequences of this knowledge. The meaning of sesha-s'eshi bhāva - The presence of these ideas in the three mantras - Seshatva means dasatva in regard to Chetanas. 
+What is a s'arira and what is a Sarīrī? Adhāra and Niyanta - Īśvara's support by His svarupa and by His will (saṅkalpa). The consequences of this knowledge. The meaning of sesha-s'eshi bhāva - The presence of these ideas in the three mantras - Seshatva means dasatva in regard to Chetanas. 
 
 22 to 31 
 
 ## CHAPTER IV. The five things that every seeker after salvation should know
-Some speak of five things and some of six but there is Do real difference between them. (1) The object of attaid. ment is Bhagavan who is ever associated with Sri. Bhagavan has innumerable auspicious qualities . He has a divine and auspicious form (vigraha); (2) The nature of the individual self; (3) The means of attainment; (4) The nature of moksha; (5) The bindrances to attainment and how to get rid of the hindrapces. 
+Some speak of five things and some of six but there is Do real difference between them. (1) The object of attaid. ment is Bhagavan who is ever associated with Sri. Bhagavan has innumerable auspicious qualities . He has a divine and auspicious form (vigraha); (2) The nature of the individual self; (3) The means of attainment; (4) The nature of mokṣa; (5) The bindrances to attainment and how to get rid of the hindrapces. 
 
 32 to 47
 ## CHAPTER V. The three 'Reals' or Tattvas: 
@@ -51,10 +51,10 @@ The study of the differences among the three Reals leads to an aversion from the
 
 ## CHAPTER VIII. The classification of qualified persons: 
 
-The Bhakta and the Prapanna, ukti nishta and Acharya nishta modes of prapatti; residence in holy places and the like only aids to the above; difference between Bhakta and Prapanna ; but the final fruit vit., moksha the same for both bhakta and prapanna. 94 to 102 
+The Bhakta and the Prapanna, ukti nishta and Acharya nishta modes of prapatti; residence in holy places and the like only aids to the above; difference between Bhakta and Prapanna ; but the final fruit vit., mokṣa the same for both bhakta and prapanna. 94 to 102 
 
 ## CHAPTER IX. The classification of the means or upāya for attainning mukti, Upaya and upcya
-Bhagavan is both upaya and upeya ; karma yoga, jnana yoga and bhakti yoga; bhakti and prapatti; the difference between them. 103 to 110 
+Bhagavan is both upāya and upeya ; karma yoga, jnana yoga and bhakti yoga; bhakti and prapatti; the difference between them. 103 to 110 
 
 ## CHAPTER X. The fitness for Prapatti : 
 
@@ -68,7 +68,7 @@ The angas or accessories of prapatti, ünukulya - Saṅkalpa and prātikulyavarj
 115 to 126 
 
 ## CHAPTER XII. The Performance of Prapatti with its angas
-The nature of the angi (prapatti); the manner of performing bharanyāsa ; Iswara the principal beneficiary, the true meaning of Alavandar's slokas (52 and 53) in connection with bharanyasa; the presence of the idea of bharasamarpanam in Duaya ; prapatti a momentary act; a brief statement of the nature of bharasamarpanam; Nadathur Ammal's summary of the meaning of prapatti; prapatti with its angas to be performed only once. 127 to 136 
+The nature of the angi (prapatti); the manner of performing bharanyāsa ; Īśvara the principal beneficiary, the true meaning of Alavandar's ślokas (52 and 53) in connection with bharanyasa; the presence of the idea of bharasamarpanam in Duaya ; prapatti a momentary act; a brief statement of the nature of bharasamarpanam; Nadathur Ammal's summary of the meaning of prapatti; prapatti with its angas to be performed only once. 127 to 136 
 
 XLIV Pages. 
 
@@ -135,7 +135,7 @@ Sloka summarising Part I- Appendix on the Visa. khastambha,
 ILVI PART II. 
 
 ## CHAPTER XXIII. The clarification of what is meant by the upāya that is already existent (Siddhopāya) 
-Recapitulation of the contents of the First Part; three caused by which the Lord's grace is won ; how infidelity arises and how it should be resisted. Doubts and tbeir clarification (1) Is the adoption of the upāya necessary at all? (2) Is there any iDjanction or vidhi enjoining its performance ? (3) The statement of some that prapatti is no upāya is only to stress the importance of siddhopāya ; (4) Is prapatti inconsistent with one's relationship to the Seshi? (5) Lakshmi is as wuch upāya as the Lord. This does not mean two upāyas. 
+Recapitulation of the contents of the First Part; three caused by which the Lord's grace is won ; how infidelity arises and how it should be resisted. Doubts and tbeir clarification (1) Is the adoption of the upāya necessary at all? (2) Is there any iDjanction or vidhi enjoining its performance ? (3) The statement of some that prapatti is no upāya is only to stress the importance of siddhopāya ; (4) Is prapatti inconsistent with one's relationship to the Seshi? (5) Lakṣmī is as wuch upāya as the Lord. This does not mean two upāyas. 
 
 231 to 266 
 
@@ -143,7 +143,7 @@ Recapitulation of the contents of the First Part; three caused by which the Lord
 
 by Sadhyopaya or the upāya that 
 
-has to be adopted The need for the clarification; competence for pra. patti open to all ( castes and both sexes ); misconceptions about the pature or svarūpa of prapatti (a) the knowledge that one is sesha to the Lord is not prapatti in itself (b) refraining from one's own activity is not prapatti ; the srāstra has to enjoin prapatti; bhakti pot inconsistent witb one's svarūpa; the objection that the Jiva being entirely dependent on the Lord cannot and should not adopt any upaya pot tepable; the objection that the rites of varna and āsrama and bhaktiyoga are inconsistent with exclusive devotion to Bhagavan antepable; the objection that bhakti and prapatti are not adopted by s'ishtas; does prapatti require angas or accessories? Why should intense faith be called an añga instead of mere faith ? causes of the decay of faith and the remedy therefor; the rites of nitya and naimittika are, on no account, to be given ap by the prapanna. 
+has to be adopted The need for the clarification; competence for pra. patti open to all ( castes and both sexes ); misconceptions about the pature or svarūpa of prapatti (a) the knowledge that one is sesha to the Lord is not prapatti in itself (b) refraining from one's own activity is not prapatti ; the srāstra has to enjoin prapatti; bhakti pot inconsistent witb one's svarūpa; the objection that the Jiva being entirely dependent on the Lord cannot and should not adopt any upāya pot tepable; the objection that the rites of varna and āsrama and bhaktiyoga are inconsistent with exclusive devotion to Bhagavan antepable; the objection that bhakti and prapatti are not adopted by s'ishtas; does prapatti require angas or accessories? Why should intense faith be called an añga instead of mere faith ? causes of the decay of faith and the remedy therefor; the rites of nitya and naimittika are, on no account, to be given ap by the prapanna. 
 
 264 to 298 
 
@@ -153,17 +153,17 @@ XLvii
 
 Pages. 
 
-## CHAPTER XXV. The limits within which the upayas, 
+## CHAPTER XXV. The limits within which the upāyas, 
 
 bhakti and prapatti have potency: 
 
-The greatness of the devotees of Bhagavan; does prapatti lead to the elevation of one's caste ? sattva of the body and sattva of the wind; ekāntins and paramai. kāntins; the rites of varṇa and asrama are obligatory; the real meaning of “baving given op all dharmas" in the charamasloka ; the real purport of the sloka "pravrit. tincha nivrittinchu"; the necessity for prāyas chitta in the cases of deliberate offences committed by the pra. panna. 
+The greatness of the devotees of Bhagavan; does prapatti lead to the elevation of one's caste ? sattva of the body and sattva of the wind; ekāntins and paramai. kāntins; the rites of varṇa and asrama are obligatory; the real meaning of “baving given op all dharmas" in the charamaśloka ; the real purport of the śloka "pravrit. tincha nivrittinchu"; the necessity for prāyas chitta in the cases of deliberate offences committed by the pra. panna. 
 
 299 to 329 
 
 (HAPTER XXVI. The vindication of the potency of 
 
-prapatti. Iswara's purpose in allowiug the prapanna to suffer; even punishment may be a matter of favour: the potency of prapatti; no offence should ever be committed against Bhagavatas; residence in holy places efficacious only to those that do not hate the Lord. 
+prapatti. Īśvara's purpose in allowiug the prapanna to suffer; even punishment may be a matter of favour: the potency of prapatti; no offence should ever be committed against Bhagavatas; residence in holy places efficacious only to those that do not hate the Lord. 
 
 330 to 344 
 
@@ -177,9 +177,9 @@ struction of the words and sentences.
 
 ## CHAPTER XXVII. The Moolamantra : 
 
-Purport of the three mantras and their relation to one another; the primary importance of Tirumantra ; it may be uttered by all with suitable modifications; meaning of pranava and its potency; meaning of a, of u end of min pranava; meaning of namas or namo in Tirumantra ; the three meanings of namas; sthma, sükshma and para ; 
+Purport of the three mantras and their relation to one another; the primary importance of Tirumantra ; it may be uttered by all with suitable modifications; meaning of pranava and its potency; meaning of a, of u end of min pranava; meaning of namas or namo in Tirumantra ; the three meanings of namas; sthma, sükṣma and para ; 
 
-xLviii Pages. the word Narayana in Tirumantra ; its meaning when split in two ways; the meaning of Nara and the meaning of ayana ; the purport of the fourth or dative case; the attri butes of Isward and qualities of the Jiva indicated therein; the ten ways of construing Tirumantra; the gist of the meanings of the Vyāpaka-mantras; the potency of Ash lākshara, 
+xLviii Pages. the word Narayana in Tirumantra ; its meaning when split in two ways; the meaning of Nara and the meaning of ayana ; the purport of the fourth or dative case; the attri butes of Isward and qualities of the Jiva indicated therein; the ten ways of construing Tirumantra; the gist of the meanings of the Vyāpaka-mantras; the potency of Ash lākṣara, 
 
 345 to 419 
 
@@ -189,9 +189,9 @@ Why is the mantra called Dvara? Saraṇāgatigadya a commentary on the Duaya; de
 
 420 to 404 
 
-## CHAPTER XXIX. The Charamasloka : 
+## CHAPTER XXIX. The Charamaśloka : 
 
-Introduction to charama-sloka ; meaning of sarva. dharmān; meaning of partityajya; refutation of the view that the giving up of rites or dharmas is enjoined and of the view that what is enjoined is the giving up of the notion that they are upāyas; the obligatoriness of the performance of the rites of varna and asrama'; how ākinchanya and Nairapekshya are to be understood in the charamasloka; summary of the meanings of parityajya considered; the meaning of mūm and of ekam; tbe refutation of the view that prapatti is no upāya ; mām includes Laksbmi, the attribute; the meaning of saranam; the meaning of vraja; the proper interpretation of Alavandar's silokas in this connec tion; the meaning of aham and of tva; the meaning of sarvapāpebhyo and of mokshayishyāmi; the manner of libe. ration from all sins; the meaning of mūs'uchah; the reasons for giving up grief or despair; the purport of charamasloka. 
+Introduction to charama-śloka ; meaning of sarva. dharmān; meaning of partityajya; refutation of the view that the giving up of rites or dharmas is enjoined and of the view that what is enjoined is the giving up of the notion that they are upāyas; the obligatoriness of the performance of the rites of varna and asrama'; how ākinchanya and Nairapekṣya are to be understood in the charamaśloka; summary of the meanings of parityajya considered; the meaning of mūm and of ekam; tbe refutation of the view that prapatti is no upāya ; mām includes Laksbmi, the attribute; the meaning of saranam; the meaning of vraja; the proper interpretation of Alavandar's silokas in this connec tion; the meaning of aham and of tva; the meaning of sarvapāpebhyo and of mokṣayishyāmi; the manner of libe. ration from all sins; the meaning of mūs'uchah; the reasons for giving up grief or despair; the purport of charamaśloka. 
 
 465 to 565 
 

@@ -40,7 +40,7 @@ Sri Vaishnavas, the unsuitable are those that are the enemies of Bhagavan; those
 
 SRI RAMANUJA'S ADVICE EXPLAINED: 
 
-Io connection with this code of conduct prescribed by Sri Rāmanuja for the prapanna, we have to remember that the pursuit of wealth and sense pleasures which are against dharma bave already been probibited altogether (for all including non prapannas) es in the following slokas:- "One should not\*, in any circumstances and even in critical times, accept any gifts, pot 
+Io connection with this code of conduct prescribed by Sri Rāmanuja for the prapanna, we have to remember that the pursuit of wealth and sense pleasures which are against dharma bave already been probibited altogether (for all including non prapannas) es in the following ślokas:- "One should not\*, in any circumstances and even in critical times, accept any gifts, pot 
 
 1. Sandilya Smriti: 3-18 
 
@@ -52,9 +52,9 @@ ORDINANCES OF SASTRAS
 
 even # cowrie, from an unchaste woman, a eunuch, an out.caste (patita) or an enemy." "They are dear to me. they who are born blind to the imperfections of others, who are eunuchs in regard to the wives of other men and who are dumb in the matter of censuring others." So the injunction contained in the Bhashyakāra's words (really) means that even in regard to the acquisition of wealth and sense-pleasures which are not opposed to dharma, the prapanna shoald not deviate from his proper state in regard to these three classes of persons, the suitable, the upsuitable and those who are neither of these two. That those who are suitable should not be treated with disregard is declared in Sandilya 
 
-with disregard; so also Bhagavan does not like those who do not treat bis bhaktas with due respect." That those who are unsuitable should not be associated with, is declared in the Mahabharata : “Those who hate Kesava, the Supreme Being, and cannot, meditate on Him - to them and to those who 388ociate with them with respect, there will be no benefit at all from bathing in the holy waters". So also it it said: "One should not Associate with fools, with those who are addicted to sin, with those who are crael by nature, and with those who criticise adversely the sāstras of Bhagavārı (pañcaratra). Association with them will pat an end to bhakti". That those who are neither the one nor the other should be treated like straw is well known from slokas like the following:- "Omen of the world, from this day onwards, you are what you are and we are what we are. You are in quest of wealth and sense pleasures; we are in quest of Narayana (80) there cannot be any companionship between you and us. We are the servants of the Lord; you are the slaves of the senses". The words that the prapanna should walk warily (lest he should fall into pitfalls) indicate that the (five) services ordained as essential by the Bhashyakara (in his words quoted above) stand in the same category as services like Sandhyāvandana which can be 
+with disregard; so also Bhagavan does not like those who do not treat bis bhaktas with due respect." That those who are unsuitable should not be associated with, is declared in the Mahabharata : “Those who hate Kesava, the Supreme Being, and cannot, meditate on Him - to them and to those who 388ociate with them with respect, there will be no benefit at all from bathing in the holy waters". So also it it said: "One should not Associate with fools, with those who are addicted to sin, with those who are crael by nature, and with those who criticise adversely the sāstras of Bhagavārı (pañcaratra). Association with them will pat an end to bhakti". That those who are neither the one nor the other should be treated like straw is well known from ślokas like the following:- "Omen of the world, from this day onwards, you are what you are and we are what we are. You are in quest of wealth and sense pleasures; we are in quest of Narayana (80) there cannot be any companionship between you and us. We are the servants of the Lord; you are the slaves of the senses". The words that the prapanna should walk warily (lest he should fall into pitfalls) indicate that the (five) services ordained as essential by the Bhashyakara (in his words quoted above) stand in the same category as services like Sandhyāvandana which can be 
 
-2. Vishnu Dharma: 76-22 3. Mahabharata: Santi parva : 336–36 
+2. Viṣṇu Dharma: 76-22 3. Mahabharata: Santi parva : 336–36 
 
 4. Sandilya Smriti : 1-120 
 
@@ -64,7 +64,7 @@ learnt only from the sāstras and that, for that reason, these five, too, should
 
 . 7. Gitartha Sangraha: 31 
 
-5. Gitartha Sangraba: 21 6. Vishnu Dharma : 6-31 
+5. Gitartha Sangraba: 21 6. Viṣṇu Dharma : 6-31 
 
 17 
 
@@ -72,13 +72,13 @@ ORDINANCES OF SASTRAS
 
 173 
 
-This ordinance imposed by the sāstras is well known from the following slokas in the chapter on prapatti : " In order that there may be no violation of dharma, for the protection of the family, for kezping ignorant men in the right path by setting them an example, for the preservation of the nuoral law as defined in the sāstras, for diy (Lakshmi's ) satisfaction and for the satis. faction of the Lord armed with Sarnga who is the God of all gods, the prapanna who is wise should aot even think of transgressing the ordinances of the Veda". The evil that would result from the transgression is described immediately afterwards as follows : “Even a king's favourite, who, because it serves no purpose of his own, destroys the bund of a river dug by the king's orders, which is of great use to the world, is beautiful in itself and causes abundance of crops, - even be will be impaled for having done so ); So also though he may be dear, tbe man who violates the ordinances of the Vedas is do favourite of mine inasmuch as he violates my commands.” If, having offended the Lord, the prapanna does pot seek pardon, it will produce, before he attains mukti, some evil or otber in accordance with his specific qualification. 
+This ordinance imposed by the sāstras is well known from the following ślokas in the chapter on prapatti : " In order that there may be no violation of dharma, for the protection of the family, for kezping ignorant men in the right path by setting them an example, for the preservation of the nuoral law as defined in the sāstras, for diy (Lakṣmī's ) satisfaction and for the satis. faction of the Lord armed with Sarnga who is the God of all gods, the prapanna who is wise should aot even think of transgressing the ordinances of the Veda". The evil that would result from the transgression is described immediately afterwards as follows : “Even a king's favourite, who, because it serves no purpose of his own, destroys the bund of a river dug by the king's orders, which is of great use to the world, is beautiful in itself and causes abundance of crops, - even be will be impaled for having done so ); So also though he may be dear, tbe man who violates the ordinances of the Vedas is do favourite of mine inasmuch as he violates my commands.” If, having offended the Lord, the prapanna does pot seek pardon, it will produce, before he attains mukti, some evil or otber in accordance with his specific qualification. 
 
-That apart, there is no greater bell (for the prapanna) than the displeasure caused to Bhagavān. This displeasure of Bhaga van will disappear if he obtains pardon. (As the Gita says) Iswara, by His very nature, is full of love to all. So till His displeasure disappears, it will give the prapanna excruciating pain. If the man has no such pain, bis devotion to the Master and his desire for rendering service after moksha have to be doubted. 
+That apart, there is no greater bell (for the prapanna) than the displeasure caused to Bhagavān. This displeasure of Bhaga van will disappear if he obtains pardon. (As the Gita says) Īśvara, by His very nature, is full of love to all. So till His displeasure disappears, it will give the prapanna excruciating pain. If the man has no such pain, bis devotion to the Master and his desire for rendering service after mokṣa have to be doubted. 
 
-Since this violation of the Lord's command is opposed to the Lord's pleasure which is our final goal as stated in the sloka : "When shall I, Thy servant, look upon Thee alone as my Master and 
+Since this violation of the Lord's command is opposed to the Lord's pleasure which is our final goal as stated in the śloka : "When shall I, Thy servant, look upon Thee alone as my Master and 
 
-8. The words of Lakshmi in Lakshmi tantram: 17 - 93, 94 9. Lakshmi tantram: 17 - 95, 96, 97 10. Alavandar Stotram: 46 
+8. The words of Lakṣmī in Lakṣmī tantram: 17 - 93, 94 9. Lakṣmī tantram: 17 - 95, 96, 97 10. Alavandar Stotram: 46 
 
 · 174 CHAPTER 
 
@@ -104,7 +104,7 @@ By following the four Vedas (and the Smritis and other sastras) in which the Sup
 
 SANSKRIT SLOKA: 
 
-The wise man learns what is in accordance with the will of the Ruler\* who is the originator of the Universe; from the Srutis ; from the Smritis ; and from the traditional practice of elders ; from the promptings of his own reason in the case of the man with a pure heart; from good resolutions not departing from dharma; and also the traditional practice of the family, of the fcharana and of the country. Sometimes he tries to understand the Lord's will from the commands of those who are competent to direct him and also from omens, sigas, dreams and the like. 
+The wise man learns what is in accordance with the will of the Ruler\* who is the originator of the Universe; from the Śrutis ; from the Smritis ; and from the traditional practice of elders ; from the promptings of his own reason in the case of the man with a pure heart; from good resolutions not departing from dharma; and also the traditional practice of the family, of the fcharana and of the country. Sometimes he tries to understand the Lord's will from the commands of those who are competent to direct him and also from omens, sigas, dreams and the like. 
 
 \* Niyamayitur adeh may mean also 'the Primeval Ruler' 
 
