@@ -21,10 +21,8 @@ SANSKRIT _ŚLOKA_:
 
 तारं पूर्वं तदनु हृदयं तच्च नारायणाये-
 
-त्याम्नायोक्तं पदमवयतां सार्धमाचार्यदत्तम् ।
-
-अङ्गीकुर्वन्नलसमनसामात्मरक्षाभरन्नः
-
+त्याम्नायोक्तं पदमवयतां सार्धमाचार्यदत्तम् ।  
+अङ्गीकुर्वन्नलसमनसामात्मरक्षाभरन्नः  
 क्षिप्रं देवः क्षिपतु निखिलान् किङ्करैश्वर्यविघ्नान् ॥ ५९ ॥
 
 
@@ -37,8 +35,7 @@ Of us who, with a knowledge of its meaning, are meditating on the _mantra_ taugh
 
 (2) THE SEER WHO REVEALED THE _MANTRA_:
 
-कल्याणमावहतु कार्तयुगं स्वधर्मं प्रख्यापयन् प्रणिहितेषु नरादिकेषु ।
-
+कल्याणमावहतु कार्तयुगं स्वधर्मं प्रख्यापयन् प्रणिहितेषु नरादिकेषु ।  
 आद्यं कमप्यधिगतो रथमष्टचक्रं बन्धुस्सतां बदरिकाश्रमतापसो नः ॥ ६०॥
 
 May that great seer dwelling in the hermitage of Badarika ( Nārāyaṇa ), the friend of (all ) good men, who occupies a certain chariot called _Mūlamantra_ with (its eight syllables as ) its eight wheels and who instructs his reverent pupils, Nara and others (Nārada  and the like) in the _dharma_ concerning himself which is characteristic of Krita Yuga - may that great seer confer (His) blessing on us !
@@ -47,8 +44,7 @@ May that great seer dwelling in the hermitage of Badarika ( Nārāyaṇa ), the 
 
 (3) THE _MANTRA_:
 
-यदन्तस्थमशेषेण वाङ्मयं वेदवैदिकं ।
-
+यदन्तस्थमशेषेण वाङ्मयं वेदवैदिकं ।  
 तस्मै व्यापकमुख्याय मन्त्राय महते नमः ॥ ६१ ॥
 
 Let us adore that great _mantra_, the most important of the  _vyāpaka_ _mantra_s[^80] , within which lies embedded the gist of all the revealed truths found in the _śruti_s and the _smṛti_s without any exception.
@@ -63,8 +59,7 @@ The three _mantra_s Namo Nārāyaṇaya, Namo Bhagavate Vāsudevāya, and Namo V
 
 (4) THE DISCIPLE WHO HAS BEEN INITIATED INTO THE MEANING OF THE _MANTRA_ BY THE GRACE OF THE _GURU_:
 
-इह मूलमन्त्रसंवृतमर्थमशेषेण कश्चिदनुभवति ।
-
+इह मूलमन्त्रसंवृतमर्थमशेषेण कश्चिदनुभवति ।  
 स्फटिकतलनिहितनिधिमिव देशिकदत्तेन चक्षुषा जन्तुः ॥ ६२ ॥
 
 Here a being who has been blessed by his _guru_ with vision sees all the meaning concealed within the _mūlamantra_, without any exception, as if it is a treasure placed underneath a plate made of crystal.[^81]
@@ -185,8 +180,7 @@ When this a denotes the Supreme Ruler, it is derived, according to the science o
 
 SANSKRIT _ŚLOKA_:
 
-त्राणे स्वामित्वमौचित्यं न्यासाद्यास्सहकारिणः ।
-
+त्राणे स्वामित्वमौचित्यं न्यासाद्यास्सहकारिणः ।  
 प्रधानहेतुस्स्वातन्त्र्यविशिष्टा करुणा विभोः ॥॥
 
 The fact of being the Master makes it appropriate that He should proteot; _prapatti_ and the like are (only) secondary helps.The primary reason (for protecting) is the Omnipresent Lord's mercy which is not dependent upon anything else.
@@ -367,12 +361,9 @@ The protectorship of all, indicated by the base (_prakṛti_) (viz) a in the fir
 
 SANSKRIT _ŚLOKA_S:~
 
-॥ श्रीमान् स्वतन्त्रस्स्वामी च सर्वत्रान्यानपेक्षया ।
-
-निरपेक्षस्वतन्त्रत्वं स्वाम्यञ्चाा न्यस्य न क्वचित् ॥
-
-तारस्य नमसश्चेमौ सारौ देशिकदर्शितौ ।
-
+॥ श्रीमान् स्वतन्त्रस्स्वामी च सर्वत्रान्यानपेक्षया ।  
+निरपेक्षस्वतन्त्रत्वं स्वाम्यञ्चाा न्यस्य न क्वचित् ॥  
+तारस्य नमसश्चेमौ सारौ देशिकदर्शितौ ।  
 अनन्यशरणत्वादेरधिकारस्य सिद्धये ॥
 
 The Lord of _Śrī_ is (alone) independent in all things and is (alune) the Master (of all) without being dependent on any one else. Independence without any dependence for help on others and mastership belong to no one else.
@@ -389,14 +380,10 @@ In ordinary life, being master over others and being inde pendent of others are 
 
 SANSKRIT _ŚLOKA_S :
 
-॥ स्वेच्छयैव परेशस्य तादधीन्यबलात्तु नः । भगवद्भक्तशेषत्वं स्वेच्छयापि क्वचिद्भवेत् ॥
-
-गुणाधिकेहि विषये गुणसारस्य वेदिनः । रामे रामानुजस्येव दास्यं गुणकृतं भवेत् ॥
-
-दास्यमैश्वर्ययोगेन ज्ञातीनाञ्च करोम्यहं ॥ अर्धभोक्ता च भोगानां वाग्दुरुक्तानि च क्षमे ॥
-
-इति स्वोक्तिनयादेव स्वभक्तविषये विभुः । आत्मात्मीयस्य सर्वस्य सङ्कल्पयति शेषताम् ॥
-
+॥ स्वेच्छयैव परेशस्य तादधीन्यबलात्तु नः । भगवद्भक्तशेषत्वं स्वेच्छयापि क्वचिद्भवेत् ॥  
+गुणाधिकेहि विषये गुणसारस्य वेदिनः । रामे रामानुजस्येव दास्यं गुणकृतं भवेत् ॥  
+दास्यमैश्वर्ययोगेन ज्ञातीनाञ्च करोम्यहं ॥ अर्धभोक्ता च भोगानां वाग्दुरुक्तानि च क्षमे ॥  
+इति स्वोक्तिनयादेव स्वभक्तविषये विभुः । आत्मात्मीयस्य सर्वस्य सङ्कल्पयति शेषताम् ॥  
 अन्योन्यशेषभावेऽपि परस्वातंत्र्यसंभवः । तत्तदाकारभेदेन युक्त इत्युपपादितम् ॥
 
 Being _śeṣa_ to His devotees results to the Supreme Ruler from His own desire; but to us, it is a consequence of our being dependent on Him. (Sometimes) even to us, it may come as a consequence of our own desire, for to one who appreciates the worth of (virtuous) qualities, a desire to serve may arise towards those who are great by their virtues. Thus service may be done owing to an appreciation of (noble) qualities, like the service of Lakṣmaṇa to _Śrī_ Rāma. The omnipotent Lord has Himself said. "I [_Śrī_ Kṛṣṇa's words] render service to those who are my kinsmen by virtue of my being independent. I give one half (of what I have) to my kinsfolk and enjoy the other half. I forgive also harsh words (employed) by them towards me ". Thus by virtue of these words of His, He has willed that we should be _śeṣa_s to Himself and to His devotees. It has already been shown (in the chapter on the extreme limit of the ultimate goal of life) that the service rendered as _śeṣa_s by the devotees to one another is due to the will of the omni-potent Lord and is appropriate in different ways (in exalting others and in being exalted by them).
@@ -469,12 +456,9 @@ SANSKRIT _ŚLOKA_S:--
 
 
 
-एवं शिक्षितनानार्थनमश्शब्दसमन्विताः । सर्वे करणतां यान्ति मन्त्रास्स्वात्मसमर्पणे ॥
-
-जीवसामान्यमुखतश्शृङ्गग्राहिकयापि वा । मकारौ तारनमसोस्स्वानुसन्धानदाविह ॥
-
-इह या स्वानुसन्धानप्रक्रियैकस्य दर्शिता । अन्येषामपि तत्साम्यान्नान्योन्यशरणा इमे ॥
-
+एवं शिक्षितनानार्थनमश्शब्दसमन्विताः । सर्वे करणतां यान्ति मन्त्रास्स्वात्मसमर्पणे ॥  
+जीवसामान्यमुखतश्शृङ्गग्राहिकयापि वा । मकारौ तारनमसोस्स्वानुसन्धानदाविह ॥  
+इह या स्वानुसन्धानप्रक्रियैकस्य दर्शिता । अन्येषामपि तत्साम्यान्नान्योन्यशरणा इमे ॥  
 अतस्स्वपर-रक्षायां पराधीनेषु जन्तुषु । निरपेक्षशरण्यत्वं नियतं कमलापतौ ॥
 
 All the _mantra_s that are combined with the word _namas_ with its various meanings as stated above become operative _mantra_s to be einployed while surrendering one's self. The ma in _praṇava_ and in the _namas_ lead to the consideration of one's self either by reference to the _Jīva_ as a genus (_Jāti_) including one, or by reference to 'I' directly which is like catching hold of the horns (i.e.) (by pointing to what is essential and all-important). Since the consideration that has been pointed out in regard to one, applies equally to others as well, there is no question of any one being the Saviour of any other. Therefore since all creatures are dependent (on another) in the matter of protecting themselves and protecting others, protectorship not dependent on others is vested only in the Lord of Kamala (_Lakṣmī_)
@@ -659,8 +643,7 @@ Service without the body: Perhaps this should be taken to mean anubhava or exper
 
 SANSKRIT _ŚLOKA_:
 
-इह सङ्ग्रहतश्श्रीमान् गोप्ता शेषी समाधिकदरिद्रः ।
-
+इह सङ्ग्रहतश्श्रीमान् गोप्ता शेषी समाधिकदरिद्रः ।  
 शरणं सर्वशरीरी प्राप्यस्सेव्यश्च साधुभिर्भाव्यः ॥
 
 (Thus) here in Tiru_mantra_, the Lord is to be reflected upon by good men in a concise form (in the letter a) as the consort of _Śrī_ (_Lakṣmī_) and as the Saviour:(in the dative or the fourth case whose affix has been dropped) as the _śeṣī_, and as destitute of equals and superiors : in the word _namas_ ) as the _upāya_ or means of attaining Him: (in the word Nārāyaṇa) as the in-dwelling Self of all, (and in the fourth case of that word) as the object of atlainment and as the Person to whom service is due.
@@ -683,8 +666,7 @@ him (to the Lord's mercy), that he is the servant of the Lord and (His consort) 
 
 SANSKRIT _ŚLOKA_:
 
-पदत्रयेऽत्र संक्षेपाद्भाव्यानन्यार्हशेषता ।
-
+पदत्रयेऽत्र संक्षेपाद्भाव्यानन्यार्हशेषता ।  
 अनन्योपायता स्वस्य तथानन्यपुमर्थता ॥
 
 In the three words of this (Tiru_mantra_), we should reflect, in brief, on our being entitled to be the _śeṣa_, of no one other than the Lord, that we have no other _upāya_ than the Lord, and that we have no other end to attain than the Lord.
@@ -701,8 +683,7 @@ So also weakness of faith in the Consort of _Śrī_ as a Protector, the search f
 
 SANSKRIT _ŚLOKA_:
 
-इह निजपक्षविरुद्धैरीदृशनिष्ठाविरोधिभिश्चान्यैः ।
-
+इह निजपक्षविरुद्धैरीदृशनिष्ठाविरोधिभिश्चान्यैः ।  
 द्विचतुष्कसारवेदी गङ्गाह्रद इव न गच्छति क्षोभम् ॥
 
 The person who knows the essence of Ashtūkshara will never be deluded by these and other ideas which are opposed to his system and his way of life. In no circumstances are the waters of the deep pool of the G_aṅga_ disturbed :
@@ -805,8 +786,7 @@ As stated in the following _śloka_ : I am the property (_śeṣa_) na mama of o
 
 SANSKRIT _ŚLOKA_S:---
 
-॥ अत्र स्वलाभापेक्षापि स्वामिलाभावसायिनी ।
-
+॥ अत्र स्वलाभापेक्षापि स्वामिलाभावसायिनी ।  
 स्वामिप्रयोजनापेक्षाप्यतस्स्वानन्दहेतुका ॥
 
 Here in the dative or fourth case ( in the word Nārāyaṇāya ), although the _jīva_ expects his owa gain (namely, the attainment of his _puruṣārtha_ ), yet it ends in the Master gaining pleasure or delight. (Therefore there is no violation of the proper function of the, _śeṣa_). (Likewise) desiring that the Master should gain conduces also to one's own bliss or _ānanda_.
@@ -863,8 +843,7 @@ The answer to this question may be expressed as follows :
 
 SANSKRIT _ŚLOKA_:
 
-स्वतस्स्वार्हं यथाभागं पुत्रः पितुरपेक्षते ।
-
+स्वतस्स्वार्हं यथाभागं पुत्रः पितुरपेक्षते ।  
 सापराधस्तथा दासः कैङ्कर्यं परमात्मनः ॥
 
 "The son begs of his father for his share of the property, though it is lawfully his. In the same way the servant (the _jīva_) who has offended (the Master) begs of the Supreme Being that he should be permitted to render service ". There is nothing inappropriate in the _jīva_ who has lost what he is entitled to, praying thus:-- “May I have what is my sharel Be Thou so gracious as to pardon my offence;"
@@ -973,20 +952,13 @@ As stated in the _śloka_ : “Whatever a man ought to know is all contained in 
 
 TAMIL VERSE:
 
-ऎट्टुमामूर्त्ति यॆण् कण्णनॆण्डिक्
-
-कॆट्टिऱैयॆण्बिरगिरुदि
-
-ऎट्टु मा वरैगळीण्ड्र वॆण्गुणत्तो
-
-नॆट्टॆणु मॆण्गुणमदियोर्क्
-
-कॆट्टुमामल रॆण्सित्ति यॆण्बत्ति
-
-यॆट्टुयोगाङ्गमॆण्सॆल्वम्
-
-ऎट्टुमागुण मॆट्टॆट्टॆणुङ्गलै
-
+ऎट्टुमामूर्त्ति यॆण् कण्णनॆण्डिक्  
+कॆट्टिऱैयॆण्बिरगिरुदि  
+ऎट्टु मा वरैगळीण्ड्र वॆण्गुणत्तो  
+नॆट्टॆणु मॆण्गुणमदियोर्क्  
+कॆट्टुमामल रॆण्सित्ति यॆण्बत्ति  
+यॆट्टुयोगाङ्गमॆण्सॆल्वम्  
+ऎट्टुमागुण मॆट्टॆट्टॆणुङ्गलै  
 यॆट्टिरद मेलनवु मॆट्टिनवे. ( 38)
 
 Those wise men with eight qualities who meditate on the _mantra_ of eight letters which treats of _Bhagavān_ who is possessed of eight qualities and who created the eight-bodied (Rudra), the eight-eyed (_Brahma_), the eight quarters and their eight guardians, the eight _prakṛti_s, and the eight great mountains-these wise men have, within their (easy) reach, the eight great flowers, the eight siddhis or super-natural powers, the eight kinds of _bhakti_  or devotion, the eight _aṅga_s or accessories of _yoga_, the eight kinds of wealth, the eight great qualities, the eight times eight arts or kalās and the rasa or emotional state or sentiment which is beyond the eight rasas, namely, the emotional state called sānti or serenity of spirit.
@@ -1021,12 +993,9 @@ Thus (we have shown here what was taoght by (_acāryā_s) who were free from the
 
 TAMIL VERSE:---
 
-उयर्न्द नङ्गावलनल्लार्गुरिमै तुऱन्दुयिराय्
-
-मयर्न्दमै तीर्न्दु मट्रोर् वऴियिण्ड्रि यडैक्कलमाय्
-
-पयन्द वन्नारणन्बादङ्गळ् सेर्न्द पऴवडियार्
-
+उयर्न्द नङ्गावलनल्लार्गुरिमै तुऱन्दुयिराय्  
+मयर्न्दमै तीर्न्दु मट्रोर् वऴियिण्ड्रि यडैक्कलमाय्  
+पयन्द वन्नारणन्बादङ्गळ् सेर्न्द पऴवडियार्  
 नयन्द कुट्रेवलॆल्ला नाडु नन् मनु वोदिनमे. ( 39 )
 
 
@@ -1039,8 +1008,7 @@ SANSKRIT _ŚLOKA_ :
 
 इत्थं सङ्घटितः पदैस्त्रिभिरसावेकद्विपञ्चाक्षरै
 
--रर्थैस्तत्त्वहितप्रयोजनमयैरध्यात्मसारैस्त्रिभिः ।
-
+-रर्थैस्तत्त्वहितप्रयोजनमयैरध्यात्मसारैस्त्रिभिः ।  
 आद्यस्त्र्यक्षरवेदसूतिरजहत्स्थूलादिवृत्तित्रय-
 
 स्त्रैगुण्यप्रशमं प्रयच्छति सतां त्रय्यन्तसारो मनुः ॥ ६३ ॥
@@ -1049,10 +1017,8 @@ This _mantra_ which is thus constituted of three words that are composed, respec
 
 origin of the Vedas, which has the word having the three meanings, sthūla (gross) _sūkṣma_, (subtle) and para the (suprerme) (namely, _namas_) and which has in it the word (Nārāyaṇa) that forms the essence of the Upaniṣads--this _mantra_ confers, on those who seek no other reward. freedom from _prakṛti_ with its three qualities (i.e. from _samsāra_.)
 
-इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु श्रीमद्रहस्यत्रयसारे
-
-मूलमन्त्राधिकारः सप्तविंशः ॥
-
+इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु श्रीमद्रहस्यत्रयसारे  
+मूलमन्त्राधिकारः सप्तविंशः ॥  
 श्रीमते निगमान्तमहादेशिकाय नमः ॥
 
 

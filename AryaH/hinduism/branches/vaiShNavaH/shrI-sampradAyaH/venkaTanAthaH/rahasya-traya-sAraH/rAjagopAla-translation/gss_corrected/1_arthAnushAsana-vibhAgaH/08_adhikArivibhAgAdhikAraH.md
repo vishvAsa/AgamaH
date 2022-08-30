@@ -9,10 +9,8 @@ title = "०८ अधिकारिविभागाधिकारः"
 
 
 
-॥ श्रीः ॥
-
-॥ श्रीमते निगमान्तमहादेशिकाय नमः ॥
-
+॥ श्रीः ॥  
+॥ श्रीमते निगमान्तमहादेशिकाय नमः ॥  
 ॥ श्रीमद्रहस्यत्रयसारे अधिकारिविभागाधिकारः ॥ ८ ॥
 
 
@@ -27,12 +25,9 @@ SANSKRIT _ŚLOKA_:
 
 
 
-मुमुक्षुत्वे तुल्ये सति च मधुविद्यादिषु यथा
-
-व्यवस्था संसिद्ध्यत्यधिकृतिविशेषेण विदुषाम् ।
-
-विकल्प्येत न्यासे स्थितिरितरविद्यासु च तथा
-
+मुमुक्षुत्वे तुल्ये सति च मधुविद्यादिषु यथा  
+व्यवस्था संसिद्ध्यत्यधिकृतिविशेषेण विदुषाम् ।  
+विकल्प्येत न्यासे स्थितिरितरविद्यासु च तथा  
 नियत्या वैयात्यं नियमयितुमेवं प्रभवति ॥ २० ॥
 
 
@@ -127,12 +122,9 @@ TAMIL VERSE:
 
 
 
-वेण्डुम् पॆरुम्बयन् वीडॆण्ड्रऱिन्दु विदिवगैयाल्
-
-नीण्डुङ्गुऱुगियुनिऱ्‌कु निलैगळुक्केऱ्‌कुमन्बर्
-
-मूण्डॊण्ड्रिन् मूलविनैमाट्रुदलिन् मुगुन्दनडि
-
+वेण्डुम् पॆरुम्बयन् वीडॆण्ड्रऱिन्दु विदिवगैयाल्  
+नीण्डुङ्गुऱुगियुनिऱ्‌कु निलैगळुक्केऱ्‌कुमन्बर्  
+मूण्डॊण्ड्रिन् मूलविनैमाट्रुदलिन् मुगुन्दनडि  
 पूण्डण्ड्रि मट्रोर्बुगलॊण्ड्रिलैयॆन निण्ड्रनरे. // 15 //
 
 
@@ -145,26 +137,19 @@ SANSKRIT _ŚLOKA_:
 
 
 
-प्रपन्नादन्येषां न दिशति मुकुन्दो निजपदं
-
-प्रपन्नश्च द्वेधा सुचरितपरीपाकभिदया ।
-
-विलम्बेन प्राप्तिर्भजनसुखमेकस्य विपुलं
-
+प्रपन्नादन्येषां न दिशति मुकुन्दो निजपदं  
+प्रपन्नश्च द्वेधा सुचरितपरीपाकभिदया ।  
+विलम्बेन प्राप्तिर्भजनसुखमेकस्य विपुलं  
 परस्याशु प्राप्तिः परिमितरसा जीवितदशा ॥ २१ ॥
 
 
 
 Mukunda does not vouchsafe His abode to any one other than the _prapanna_. The _prapanna_ is of two kinds, namely, he who adopts _prapatti_ as the sole and independent means and he who adopts _prapatti_ as the auxiliary means to _bhakti_ or _upāsana_ and this difference is due to difference in the fruition of their good deeds. He who adopts _prapatti_ as an auxiliary to _bhakti_ will attain _mokṣa_  after much delay caused by the need to expiate past _karma_ (in one or several bodies), but will have the happiness of devout worship in this world for a long time. He to whom _prapatti_ is the sole and independent means will attain _mokṣa_  quickly (i.e.) at the end of this life itself, but his happiness of serving the Lord in this world will be limited and of short duration.
 
-इति कवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य
-
-श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु
-
-श्रीमद्रहस्यत्रयसारे
-
-अधिकारिविभागाधिकारोऽष्टमः ॥
-
+इति कवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य  
+श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु  
+श्रीमद्रहस्यत्रयसारे  
+अधिकारिविभागाधिकारोऽष्टमः ॥  
 श्रीमते निगमान्तमहादेशिकाय नमः ॥
 
 

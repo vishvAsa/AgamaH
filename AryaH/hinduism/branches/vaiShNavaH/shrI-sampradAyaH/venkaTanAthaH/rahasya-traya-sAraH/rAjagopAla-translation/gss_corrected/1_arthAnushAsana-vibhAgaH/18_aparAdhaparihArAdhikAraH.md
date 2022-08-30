@@ -7,10 +7,8 @@ title = "१८ अपराधपरिहाराधिकारः"
 
 
 
-॥ श्रीः ॥
-
-॥ श्रीमते निगमान्तमहादेशिकाय नमः ॥
-
+॥ श्रीः ॥  
+॥ श्रीमते निगमान्तमहादेशिकाय नमः ॥  
 ॥ श्रीमद्रहस्यत्रयसारे अपराधपरिहाराधिकारः ॥ १८ ॥
 
 
@@ -29,10 +27,8 @@ SANSKRIT _ŚLOKA_ :
 
 स्वच्छस्वादुसदावदात सुभगां दैवादयं देहभृन्-
 
-मालिन्यप्रशमाय माधवदयामन्दाकिनीं विन्दति ।
-
-यद्यप्येवमसावसारविषयस्त्रोतःप्रसूतैः पुनः
-
+मालिन्यप्रशमाय माधवदयामन्दाकिनीं विन्दति ।  
+यद्यप्येवमसावसारविषयस्त्रोतःप्रसूतैः पुनः  
 पङ्कैरेव कळङ्कयन्निजतनुं प्राज्ञैर्न संश्लिष्यते ॥ ४० ॥
 
 This embodied being (the _Jīva_  ) obtains the grace of Madhava by the result of past _karma_ (luck), for the removal of his sins -- the grace of Madhava which, by its purity, delightfulness, holiness and efficacy is like the (holy) Mandakini whose waters are clear, sweet, always pure (white) and efficacious. (That is, he becomes a _prapanna_ ). If, in spite of this, he still makes his body unclean by wallowing in the mire of the stream of wretched sense pleasures, his company is avoided by the wise (but this would not stand in the way of his attainment of _mokṣa_ after death).
@@ -163,10 +159,8 @@ The word Brahmin occurring in these ślokas has a special significance, as has b
 
 SANSKRIT _ŚLOKA_S :
 
-अनुतापादुपरमात् प्रायश्चित्तोन्मुखत्वतः । तत्पूरणाच्छापराधास्सर्वे नश्यन्ति पादशः ॥ ४०-इ ॥
-
-पूर्वस्मिन्वा परस्मिन्वा कल्पे निर्विण्णचेतसाम् । निवर्त्यतारतम्येऽपि प्रपत्तिर्न विशिष्यते ॥ ४०-ई ॥
-
+अनुतापादुपरमात् प्रायश्चित्तोन्मुखत्वतः । तत्पूरणाच्छापराधास्सर्वे नश्यन्ति पादशः ॥ ४०-इ ॥  
+पूर्वस्मिन्वा परस्मिन्वा कल्पे निर्विण्णचेतसाम् । निवर्त्यतारतम्येऽपि प्रपत्तिर्न विशिष्यते ॥ ४०-ई ॥  
 एवमेव लघूनां वा गुरुणामपि वाऽऽगसां । सकृत् प्रपत्तिरेकैव सद्यः प्रशमकारणम् ॥ ४०-उ ॥
 
 All sins are destroyed, in four equal parts, by repentance, by abstention, by the endeavour to perform atonement and by the completion of the process of atonement. To those who feel remorse and repentance, whether the _prapatti_ is performed in a previous kalpa or in a later kalpa, there is no difference in the _prapatti_ to be performed although (there is a difference in the nature of sins committed). Similarly whether the sins be serious or venial, the performance of a single _prapatti_ done at a time will completely destroy at once (all sins).
@@ -175,12 +169,9 @@ All sins are destroyed, in four equal parts, by repentance, by abstention, by th
 
 TAMIL VERSE:
 
-उळदान वल्विनैक्कुळ्ळम् वॆरुवि युलगळन्द
-
-वळर्दामरैयिणै वन्सरणाग वरित्तवर् ताम्
-
-कळैदानॆन वॆऴुङ् गन्मन् दुऱप्पर् तुऱन्दिडिलुम्
-
+उळदान वल्विनैक्कुळ्ळम् वॆरुवि युलगळन्द  
+वळर्दामरैयिणै वन्सरणाग वरित्तवर् ताम्  
+कळैदानॆन वॆऴुङ् गन्मन् दुऱप्पर् तुऱन्दिडिलुम्  
 इळैदा निलै सॆग वॆङ्गळ्बिरानरुट्टेनॆऴुमे. (25 )
 
 Those who dread, at heart, the formidable sins that bear fruit at present and seek refuge at the two lotus-like feet of the Lord who measured the worlds, will be freed from all _karma_ which flourishes like weeds. In order to prevent the occurrence of future offences, the honey-like grace of our Lord prevails over the want of discrimination (aviveka) which gives rise to them.
@@ -189,24 +180,17 @@ Those who dread, at heart, the formidable sins that bear fruit at present and se
 
 SANSKRIT _ŚLOKA_.
 
-प्रारब्धेतरपूर्वपापमखिलं प्रामादिकञ्चोत्तरं
-
-न्यासेन क्षपयन्ननभ्युपगतप्रारब्धखण्डञ्च नः ।
-
-धीपूर्वोत्तरपाप्मनामजननाज्जातेऽपि तन्निष्कृतेः
-
+प्रारब्धेतरपूर्वपापमखिलं प्रामादिकञ्चोत्तरं  
+न्यासेन क्षपयन्ननभ्युपगतप्रारब्धखण्डञ्च नः ।  
+धीपूर्वोत्तरपाप्मनामजननाज्जातेऽपि तन्निष्कृतेः  
 कौटिल्ये सति शिक्षयाप्यनघयन् क्रोढीकरोति प्रभुः ॥ ४१ ॥
 
 The Lord pardons, on account of _prapatti_, all sins committed before _prapatti_ except (some among) those which have begun to bear fruit in this life and also those sins which are committed after _prapatti_ unintentionally. Likewise He pardons ( also) all prārabdha _karma_ except the portion of prārabdha whose consequences he has agreed to bear. In the case of the _prapanna_, it is not at all likely that sins will be committed subsequently with deliberation. Even if such (subsequent ) sins occur, they will be destroyed by atonement; if, on account of wickedness, no atonement is performed, the sins will be expiated by punishment and the Lord will (then) take the _prapanna_ to Himself.
 
-इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य
-
-श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु
-
-श्रीमद्रहस्यत्रयसारे
-
-अपराधपरिहाराधिकारः अष्टादशः ॥
-
+इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य  
+श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु  
+श्रीमद्रहस्यत्रयसारे  
+अपराधपरिहाराधिकारः अष्टादशः ॥  
 श्रीमते निगमान्तमहादेशिकाय नमः ॥
 
 

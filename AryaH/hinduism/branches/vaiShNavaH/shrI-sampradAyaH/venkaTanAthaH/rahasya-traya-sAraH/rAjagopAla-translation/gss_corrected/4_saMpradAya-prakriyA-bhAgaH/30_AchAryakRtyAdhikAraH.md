@@ -19,12 +19,9 @@ AN ĀCĀRYA. page625
 
 SANSKRIT _ŚLOKA_:--
 
-अधिजिगमिषुराद्यं धाम दिव्यं त्रिधाम्नः
-
-श्रुतविविधपरीक्षाशोधिते क्वापि पात्रे ।
-
-अनघगुणदशायामाहितस्नेहमार्यः
-
+अधिजिगमिषुराद्यं धाम दिव्यं त्रिधाम्नः  
+श्रुतविविधपरीक्षाशोधिते क्वापि पात्रे ।  
+अनघगुणदशायामाहितस्नेहमार्यः  
 प्रदिशति निरपायं संप्रदायप्रदीपम् ॥ ६९ ॥
 
 The noble_ācārya_, who longs to attain the primaeval and heavenly abode of _Viṣṇu_, lights up the imperishable lamp of spiritual tradition (sampradaya) in some deserving disciple who has been tested in various and well-known ways and found fit (to receive the light). (He lights up this lamp) with true affection (sneha) when the disciple is in a state of mind (daśā) free from unworthy qualities (guṇa) like a well-tested and weil-burnished vessel with oil (sneha) poured into it and with a wick (daśā) made of pure threads (guṇa)[^119] .
@@ -77,12 +74,9 @@ They would teach their śiṣyas such truths as the following:
 
 SANSKRIT _ŚLOKA_:
 
-प्रत्येयस्तु (प्रत्यग्वस्तु) विलक्षणः प्रकृतितस्त्रातापतिस्तत्पर
-
-स्तस्मिन्नात्मभरार्पणं हिततमं तच्छेषवृत्तिः फलम् ।
-
-इत्थं तत्त्वहिते पुमर्थ इति नस्त्रेधा विभक्तं धनं
-
+प्रत्येयस्तु (प्रत्यग्वस्तु) विलक्षणः प्रकृतितस्त्रातापतिस्तत्पर  
+स्तस्मिन्नात्मभरार्पणं हिततमं तच्छेषवृत्तिः फलम् ।  
+इत्थं तत्त्वहिते पुमर्थ इति नस्त्रेधा विभक्तं धनं  
 दायत्वेन दयाधनास्स्वयमदुर्दत्तात्मनां देशिकाः ॥
 
 "The soul or self is different from _prakṛti_ or matter ; greater than the self is the Saviour who is the Ruler (over all); the supreme good of man consists in the surrender of the responsibility of the self to Him; the end (attained thereby) is existence solely for the fulfilment of His purposes'. In these words our spiritual teachers whose sole wealth was their compassion gave us, of their own accord, as a heritage, the (spiritual) wealth divided into three classes (viz, tativa, _hita_, _puruṣārtha_), when we had surrendered ourselves to them.
@@ -95,12 +89,9 @@ All these words of mine on the three secrets (_mantra_s) found in the earlier an
 
 TAMIL VERSE:
 
-पाट्टुक्कुरिय पऴैयवर् मूवरैप् पण्डॊरुगाल्
-
-माट्टुक्करुडरु मायन् मलिन्दु वरुन्दुदलाल्
-
-नाट्टुक्किरुळ् सॆग नान्मऱैयन्दि नडैविळङ्ग
-
+पाट्टुक्कुरिय पऴैयवर् मूवरैप् पण्डॊरुगाल्  
+माट्टुक्करुडरु मायन् मलिन्दु वरुन्दुदलाल्  
+नाट्टुक्किरुळ् सॆग नान्मऱैयन्दि नडैविळङ्ग  
 वीट्टुक्किडैगऴिक्के वॆळिगाट्टुमिम् मॆय्विळक्के. (46 )
 
 Those lamps (of spiritual wisdom) which lighted the threshold of a certain house (in Tirukkovalur), when, of old, the cow.herd (_Śrī_ Kṛṣṇa) who vouchsafed His grace (even) to cattle, came of His own accord and squeezed Himself among those three ancient singers (the first three ālvārs)[^120] -Those lamps lighted there (i,e. their songs) dispelled the darkness of the land and revealed the path indicated in the Upaniṣads which form the concluding part of the four Vedas.
@@ -117,12 +108,9 @@ Peyalvar, Poygai Alvar, Bhutattalvar.
 
 TAMIL VERSE:
 
-मरुळट्र तेसिगर् वानुगप्पालिन्द वैयमॆल्लाम्
-
-इरुळऱ्‌ ऱिऱैयवनिणैयडि पूण्डिड वॆण्णुदलाल्
-
-तॆरुळुट्र सॆन्दॊऴिऱ्‌चॆल्वम् पॆरुगिच् चिऱन्दवर्बाल्
-
+मरुळट्र तेसिगर् वानुगप्पालिन्द वैयमॆल्लाम्  
+इरुळऱ्‌ ऱिऱैयवनिणैयडि पूण्डिड वॆण्णुदलाल्  
+तॆरुळुट्र सॆन्दॊऴिऱ्‌चॆल्वम् पॆरुगिच् चिऱन्दवर्बाल्  
 अरुळुट्र सिन्दैयिना लऴिया विळक्केट्रिनरे. ( 47 )
 
 
@@ -135,10 +123,8 @@ SANSKRIT _ŚLOKA_ :
 
 निरवधिदयादिव्योदन्वत्तरङ्गनिरङ्कुशै-
 
-र्नियमयति यश्शिष्यान् शिक्षाक्रमैर्गुणसंक्रमैः ।
-
-अचरमगुरोराज्ञापारंपरी परवानसौ
-
+र्नियमयति यश्शिष्यान् शिक्षाक्रमैर्गुणसंक्रमैः ।  
+अचरमगुरोराज्ञापारंपरी परवानसौ  
 न परमिह तांस्तल्लक्षेण स्वमप्यभिरक्षति ॥ ७० ॥
 
 
@@ -153,12 +139,9 @@ _Guṇasaṅkramah_ may mean also “which create a path for the entrance of the
 
 
 
-इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य
-
-श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु
-
-श्रीमद्रहस्यत्रयसारे आचार्यकृत्याधिकारस्त्रिंशः
-
+इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य  
+श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु  
+श्रीमद्रहस्यत्रयसारे आचार्यकृत्याधिकारस्त्रिंशः  
 श्रीमते निगमान्तमहादेशिकाय नमः ॥
 
 

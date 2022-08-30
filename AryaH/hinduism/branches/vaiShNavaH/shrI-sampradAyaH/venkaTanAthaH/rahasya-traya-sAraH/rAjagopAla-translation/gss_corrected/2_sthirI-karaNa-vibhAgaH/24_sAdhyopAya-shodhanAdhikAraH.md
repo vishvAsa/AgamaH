@@ -3,12 +3,9 @@ title = "२४ साध्योपाय-शोधनाधिकारः"
 
 +++
 
-२४ साध्योपाय-शोधनाधिकारः
-
-॥ श्रीः ॥
-
-॥ श्रीमते निगमान्तमहादेशिकाय नमः ॥
-
+२४ साध्योपाय-शोधनाधिकारः  
+॥ श्रीः ॥  
+॥ श्रीमते निगमान्तमहादेशिकाय नमः ॥  
 ॥ श्रीमद्रहस्यत्रयसारे साध्योपायशोधनाधिकारः ॥
 
 (24) THE CHAPTER ON THE CLARIFICATION OF
@@ -25,10 +22,8 @@ SANSKRIT _ŚLOKA_:
 
 यथाधिकरणं प्रभुर्यजनदानहोमार्चना-
 
-भरन्यसनभावनाप्रभृतिभिस्समाराधितः ।
-
-फलं दिशति देहिनामिति हि संप्रदायस्थितिः
-
+भरन्यसनभावनाप्रभृतिभिस्समाराधितः ।  
+फलं दिशति देहिनामिति हि संप्रदायस्थितिः  
 श्रुतिस्मृतिगुरूक्तिभिर्नयवतीभिराभाति नः ॥ ५३ ॥
 
 It appears to us, from the _śruti_s, _smṛti_s and the words of _guru_s fortified by reason, that the Omnipotent Lord being propitiated by yajnas (sacrifices ), gifts made in charity, offerings made in the fire (homa ), adoration, surrender of responsibility (bhara_nyāsa_ ), constant meditation (_bhakti_ _yoga_) and the like in accordance with one's competence confers benefits on men. This is also what religious tradition prescribes,
@@ -83,12 +78,9 @@ What is called _yāga_ is a special form of thought indicating that a particular
 
 SANSKRIT _ŚLOKA_S :
 
-*हविस्समर्पणादत्र प्रयोगविधिशक्तितः । आत्मरक्षाभरन्यासोऽकिञ्चनस्यातिरिच्यते ॥
-
-अतश्श्रीराममिश्राद्यैर्भरन्यासविवक्षया । स्वप्रवृत्तिनिवृत्त्यंशः प्रपत्तिरिति लक्षितः ॥
-
-अकृते तु भरन्यासे रक्षापेक्षणमात्रतः । पश्चात् स्वयत्नविरतिर्न प्रसिद्ध्यति लोकवत् ॥
-
+*हविस्समर्पणादत्र प्रयोगविधिशक्तितः । आत्मरक्षाभरन्यासोऽकिञ्चनस्यातिरिच्यते ॥  
+अतश्श्रीराममिश्राद्यैर्भरन्यासविवक्षया । स्वप्रवृत्तिनिवृत्त्यंशः प्रपत्तिरिति लक्षितः ॥  
+अकृते तु भरन्यासे रक्षापेक्षणमात्रतः । पश्चात् स्वयत्नविरतिर्न प्रसिद्ध्यति लोकवत् ॥  
 आकिञ्चन्यभरन्यासोपायत्वप्रार्थनात्मनाम् । त्रयाणां सौहृदं सूक्ष्मं यः पश्यति स पश्यति ॥
 
 Here in the surrender of self for the sake of _mokṣa_, since there is to be made an offering (_havis_), owing to the injunction regarding the manner in which the offering should be made, there is an additional feature for the man who is destitute of other _upāya_s, namely, the surrender of the responsibility for the protection of the self. Therefore by sach authors as Rama Misra (Uyyakkondar) and others, when they want to speak of the surrender of responsibility (bhara_nyāsa_), a single aspect of it, namely, the abstention from his own activity on the part of the _prapanna_ has been used to indicate _prapatti_. As in the world of ordinary life, when the surrender of responsibility has not been made, abstention from one's own activity will not result thereafter merely from the request for protection. He who sees the subtle feature that is common to these three, namely, being destitute of all _upāya_s for protection, surrender of responsibility and the prayer for being the _upāya_ --- he alone sees. (That subtle feature which is common to all the three of them is refraining from all activity of one's own for one's protection. Since there is this common feature in all the three, the other two are sometimes used to denote _bharanyāsa_).
@@ -107,12 +99,9 @@ LORD IS NOT IN ITSELF _PRAPATTI_:
 
 SANSKRIT _ŚLOKA_S:
 
-जितकौस्तुभचौर्यस्य सम्राजस्सर्वपाप्मनाम् ।
-
-शिष्टं ह्यात्मापहारस्य निष्कृतिस्स्वभरार्पणम् ॥
-
-परशेषत्वधीमात्रमधिकारिविशेषकम् ।
-
+जितकौस्तुभचौर्यस्य सम्राजस्सर्वपाप्मनाम् ।  
+शिष्टं ह्यात्मापहारस्य निष्कृतिस्स्वभरार्पणम् ॥  
+परशेषत्वधीमात्रमधिकारिविशेषकम् ।  
 पश्चादात्मापहारस्य निरोधाय च कल्पते ॥
 
 To the man who prides himself of having stolen from _Bhagavān_ the gem Kaustubha (which is the symbol of his soul) and who is the prince of all sinners (ie. the greatest of all sinners) the surrender of responsibility (_bharanyāsa_) (to the Lord) has been enjoined as an expiation. The thought that he is the _śeṣa_ of the Supreme Being, which qualifies the _prapanna_, serves also to prevent the theft of the soul (atmapahāra) in the future (1.6.) after _prapatti_.
@@ -123,8 +112,7 @@ When it is said that _mokṣa_ is attained by a knowledge of the truth, it shoul
 
 SANSKRIT _ŚLOKA_ :
 
-ज्ञानान्मोक्षोपदेशे हि तत्पूर्वोपासनादिना ।
-
+ज्ञानान्मोक्षोपदेशे हि तत्पूर्वोपासनादिना ।  
 उपासनादिरूपाद्वा ज्ञानान्मोक्षो विवक्षितः ॥
 
 The instruction which states:- "From knowledge arises _mokṣa_", should be understood in one of two ways:- _Bhakti_ preceded by _jñāna_ or knowledge leads to _mokṣa_ or from _jñāna_ or knowledge, which is of the nature of _bhakti_, results in _mokṣa_ (for _bhakti_ is itself a form of knowledge).
@@ -133,8 +121,7 @@ Similarly the knowledge of the relationship of being a _śeṣa_ to the Lord whi
 
 SANSKRIT _ŚLOKA_.
 
-वाक्यमात्रेण सिद्धत्वात्सिद्धोपाय इहोच्यते ।
-
+वाक्यमात्रेण सिद्धत्वात्सिद्धोपाय इहोच्यते ।  
 प्रपत्तिरिति वादोऽपि विधिनात्र विहन्यते ॥
 
 The contention that the particular kind of knowledge called _prapatti_ results merely from the sentences or passages of the _śāstra_, that it is, on that account, called _siddhopāya_ and that it is not an _upāya_ to be accomplished by a certain activity -- this contention also is refuted by the injunction or _vidhi_ (saranam vraja).
@@ -307,12 +294,9 @@ Similarly answers to other misconceptions that might arise in regard to sūdhyop
 
 TAMIL VERSE:
 
-वरिक्किण्ड्रनन् परन् यावरैयॆन्नु मऱैयदनिल्
-
-विरिक्किण्ड्रदुङ्गुऱियॊण्ड्राल् विनैयरैयादलिनाम्
-
-उरैक्किण्ड्र नन्नॆऱियोरुम्बडिगळिलोर्न्दुलगम्
-
+वरिक्किण्ड्रनन् परन् यावरैयॆन्नु मऱैयदनिल्  
+विरिक्किण्ड्रदुङ्गुऱियॊण्ड्राल् विनैयरैयादलिनाम्  
+उरैक्किण्ड्र नन्नॆऱियोरुम्बडिगळिलोर्न्दुलगम्  
 तरिक्किण्ड्र तारगनार् तगवाऱ्‌ ऱरिक्किण्ड्रनमे. ( 35 )
 
 The _Śruti_ states at length that the Supreme Being chooses those who should win His grace; but this choice (of the _jīva_ bound by _karma_ for the bestowal of His grace) is based on some consideration. Therefore we obtain redemption by the mercy of the Lord who, as antaryāmī, supports the world and, as Saviour, helps us cross the sea of _samsāra_ and by understanding clearly the good paths for winning His grace (_bhakti_ and _prapatti_) as described in the śāstras.
@@ -323,10 +307,8 @@ SANSKRIT _ŚLOKA_:
 
 
 
-तत्तद्धैतुकहेतुके कृतधियस्तर्केन्द्रजालक्रमे
-
-बिभ्राणाः कथकप्रधानगणने निष्ठां कनिष्ठाश्रयाम् ।
-
+तत्तद्धैतुकहेतुके कृतधियस्तर्केन्द्रजालक्रमे  
+बिभ्राणाः कथकप्रधानगणने निष्ठां कनिष्ठाश्रयाम् ।  
 अध्यात्मश्रुतिसंप्रदायकतकैरद्धा विशुद्धाशया-
 
 स्सिद्धोपायवशीक्रियामिति हि नस्साद्ध्यां समध्यापयन् ॥ ५४ ॥
@@ -335,10 +317,8 @@ Those (great men) who were well-versed in the dialectical methods of rationalist
 
 BHAGAVĀN ).
 
-इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु
-
-श्रीमद्रहस्यत्रयसारे साध्योपायशोधनाधिकारः चतुर्विंशः ॥
-
+इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु  
+श्रीमद्रहस्यत्रयसारे साध्योपायशोधनाधिकारः चतुर्विंशः ॥  
 श्रीमते निगमान्तमहादेशिकाय नमः ॥
 
 
@@ -347,14 +327,7 @@ BHAGAVĀN ).
 
 
 
-+१ अर्थानुशासन-विभागः
-
-
-
-
-
-
-
++१ अर्थानुशासन-विभागः  
 १ अर्थानुशासन-विभागः
 
 

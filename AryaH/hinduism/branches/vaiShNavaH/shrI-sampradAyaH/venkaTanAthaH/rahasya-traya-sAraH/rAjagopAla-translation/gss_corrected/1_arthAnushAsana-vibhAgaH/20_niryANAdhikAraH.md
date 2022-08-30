@@ -7,10 +7,8 @@ title = "२० निर्याणाधिकारः"
 
 
 
-॥ श्रीः ॥
-
-॥ श्रीमते निगमान्तमहादेशिकाय नमः ॥
-
+॥ श्रीः ॥  
+॥ श्रीमते निगमान्तमहादेशिकाय नमः ॥  
 ॥ श्रीमद्रहस्यत्रयसारे निर्याणाधिकारः ॥ २० ॥
 
 
@@ -27,12 +25,9 @@ SANSKRIT _ŚLOKA_:
 
 
 
-मनसि करणग्रामं प्राणे मनः पुरुषे च तं
-
-झटिति घटयन् भूतेष्वेनं परे च तमात्मनि ।
-
-स्वविदविदुषोरित्थं साधारणे सरणेर्मुखे
-
+मनसि करणग्रामं प्राणे मनः पुरुषे च तं  
+झटिति घटयन् भूतेष्वेनं परे च तमात्मनि ।  
+स्वविदविदुषोरित्थं साधारणे सरणेर्मुखे  
 नयति परतो नाडीभेदैर्यथोचितमीश्वरः ॥ ४४ ॥
 
 The Lord merges the aggregate of the senses in the mind, the mind with the senses in the vital breath (prāna), the vital breath with these in the self or soul, the self in the subtle elements (Sakshina bhutas ) and the self with these elements in Himself (the Supreme Self) very soon. So far, the process of the soul's departure is common to both the person who has realised Him and the person who has not realised Him. Thereafter, the Lord leads the self through different veins ( nadi)[^56] which lead either to the (dark) path of smoke or to the shining path of light (archirādi) or elsewhere in accordance with the qualifications (of each individual).
@@ -163,12 +158,9 @@ Thereafter (i.e. after repose by the side of the Supreme Being), the self or sou
 
 TAMIL VERSE:
 
-नन्निलमामदु नऱ्‌पगलामदु नन्निमित्तम्
-
-ऎन्नलुमामदुयादानुमा मङ्गडियवर्क्कु
-
-मिन्निलैमेनि विडुम्बयणत्तु विलक्किलदोर्
-
+नन्निलमामदु नऱ्‌पगलामदु नन्निमित्तम्  
+ऎन्नलुमामदुयादानुमा मङ्गडियवर्क्कु  
+मिन्निलैमेनि विडुम्बयणत्तु विलक्किलदोर्  
 नन्निलैया नडु नाडिवऴिक्कु नडैबॆऱवे. (27)
 
 To the _prapanna_ (who is a devotee of Śrī Raṅganātha) who departs from the body which is as transient as lightning and who is to journey from the central _Brahma_ nadi, along the beautiful and shining path (of arcirādi), which is free from all impediments, the place of his departure is itself an auspicious place, the day of his departure is itself an auspicious day, the omens and signs that are then seen are all auspicious, whatever they may be.
@@ -177,24 +169,17 @@ To the _prapanna_ (who is a devotee of Śrī Raṅganātha) who departs from the
 
 SANSKRIT _ŚLOKA_:
 
-दहरकुहरे देवस्तिष्ठन्निषद्वरदीर्घिका
-
-निपतितनिजापत्यादित्सावतीर्णपितृक्रमात् ।
-
-धमनिमिह नस्तस्मिन् काले स एव शताधिकां
-
+दहरकुहरे देवस्तिष्ठन्निषद्वरदीर्घिका  
+निपतितनिजापत्यादित्सावतीर्णपितृक्रमात् ।  
+धमनिमिह नस्तस्मिन् काले स एव शताधिकां  
 अकृतकपुरप्रस्थानार्थं प्रवेशयति प्रभुः ॥ ४५ ॥
 
 Like a father who descended into a well full of slushy mire to take out his son that has fallen into it, the Lord, (in His līlā), abides in the cave of the heart (dahara) and at the time of our leaving the body, He helps us to enter the nadī which is beyond the hundredth, so that we may start on our journey to the city that was not built by any one.
 
-इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य
-
-श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु
-
-श्रीमद्रहस्यत्रयसारे
-
-निर्याणाधिकारः विंशः ॥
-
+इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य  
+श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु  
+श्रीमद्रहस्यत्रयसारे  
+निर्याणाधिकारः विंशः ॥  
 श्रीमते निगमान्तमहादेशिकाय नमः ॥
 
 

@@ -23,12 +23,9 @@ SANSKRIT _ŚLOKA_:
 
 
 
-अभीष्टे दुस्साधे स्वत इतरतो वा क्वचन तत्
-
-भरन्यासं याच्नान्वितमभिवदन्ति प्रपदनम् ।
-
-इतः पश्चादस्मद्यतन निरपेक्षेण भवता
-
+अभीष्टे दुस्साधे स्वत इतरतो वा क्वचन तत्  
+भरन्यासं याच्नान्वितमभिवदन्ति प्रपदनम् ।  
+इतः पश्चादस्मद्यतन निरपेक्षेण भवता  
 समर्थ्योऽसावर्थस्त्विति मतिविशेषं तदविदुः ॥ २८ ॥
 
 
@@ -87,8 +84,7 @@ If it is asked how, when the _Jīva_   who performs _prapatti_ as the _upāya_ f
 
 SANSKRIT _ŚLOKA_
 
-स्वनिर्भरत्वपर्यन्तरक्षकैकार्थ्यभावनम् ।
-
+स्वनिर्भरत्वपर्यन्तरक्षकैकार्थ्यभावनम् ।  
 त्यक्तरक्षाफलस्वाम्यं रक्ष्यस्यात्मसमर्पणम् ॥ २८-इ॥
 
 Therefore, ātmasamarpanam (the surrendering of the self to the Lord for protection) means here the realisation of the self as existing solely for the purpose of the Saviour and that to such an extent that the self feels no further responsibility, whatever, for its own protection and this should be accompanied by the knowledge that the fruits of such surrender are not one's own. The purport of the _śloka_  in Alavandar's Stotra (52)
@@ -194,12 +190,9 @@ Therefore wise are they who perform _prapatti_ in order to render faultless serv
 
 TAMIL VERSE:
 
-अऱवे परमॆण्ड्रडैक्कलम् वैत्तनरण्ड्रु नम्मैप्
-
-पॆऱवे करुदिप् पॆरुन्दगवुट्र पिरानडिक्कीऴ्
-
-उऱवेयिवनुयिर् काक्किण्ड्र वोरुयिरुण्मैयै नी
-
+अऱवे परमॆण्ड्रडैक्कलम् वैत्तनरण्ड्रु नम्मैप्  
+पॆऱवे करुदिप् पॆरुन्दगवुट्र पिरानडिक्कीऴ्  
+उऱवेयिवनुयिर् काक्किण्ड्र वोरुयिरुण्मैयै नी  
 मऱवेलॆन नम्मऱैमुडिसूडिय मन्नवरे. (19)
 
 Our princely _ācārya_ s, who wear the crown of proficiency in the Vedas, have placed us for protection under the feet of the Lord, who, from beginningless time, has resolved, in His great compassion, to save us; they have done so in order that there may be no further responsibility in ourselves (for our protection), by saying to us, "Do not forget the truth that the Lord, who is the soul of the world, will protect you who are related to Him as _śeṣa_ (existing solely for His purposes),"
@@ -210,26 +203,19 @@ SANSKRIT _ŚLOKA_:
 
 
 
-युग्यस्यन्दनसारथिक्रमवति त्रय्यन्तसन्दर्शिते
-
-तत्त्वानां त्रितये यथार्हविविधव्यापारसन्तानिनि ।
-
-हेतुत्वं त्रिषु कर्तृभाव उभयोस्स्वाधीनतैकत्र तत्
-
+युग्यस्यन्दनसारथिक्रमवति त्रय्यन्तसन्दर्शिते  
+तत्त्वानां त्रितये यथार्हविविधव्यापारसन्तानिनि ।  
+हेतुत्वं त्रिषु कर्तृभाव उभयोस्स्वाधीनतैकत्र तत्  
 स्वामिस्वीकृतयद्भरोऽयमलसस्तत्र स्वयं निर्भरः ॥ २९ ॥
 
 
 
 The horse, the chariot and the charioteer -- the end of the Vedas (the Upaniṣads) shows that the three _tattva_s, _cit_, _acit_, and _Iśvara_ are related to one another respectively like the three mentioned above and have always had varied activities in accordance with their respective nature. In connection with these activities, all the three are of the nature of being the material) causes; two, _cit_ and _Iśvara_, are of the nature of doers, and one (1.) _Iśvara_ is alone independent (of all others). Therefore the _jīva_, the responsibility for whose protection has been undertaken by _Iśvara_ who is the Master, is carefree and has no further responsibility of his own in the matter of his protection.
 
-इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य
-
-श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु
-
-श्रीमद्रहस्यत्रयसारे
-
-साङ्गप्रपदनाधिकारो द्वादशः ॥
-
+इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य  
+श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु  
+श्रीमद्रहस्यत्रयसारे  
+साङ्गप्रपदनाधिकारो द्वादशः ॥  
 श्रीमते निगमान्तमहादेशिकाय नमः ॥
 
 ___________

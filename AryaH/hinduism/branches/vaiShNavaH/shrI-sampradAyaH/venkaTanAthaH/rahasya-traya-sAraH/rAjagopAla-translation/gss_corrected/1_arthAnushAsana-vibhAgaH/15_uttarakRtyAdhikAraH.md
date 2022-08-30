@@ -7,10 +7,8 @@ title = "१५ उत्तरकृत्याधिकारः"
 
 205
 
-॥ श्रीः ॥
-
-॥ श्रीमते निगमान्तमहादेशिकाय नमः ॥
-
+॥ श्रीः ॥  
+॥ श्रीमते निगमान्तमहादेशिकाय नमः ॥  
 ॥ श्रीमद्रहस्यत्रयसारे उत्तरकृत्याधिकारः ॥ १५ ॥
 
 
@@ -23,12 +21,9 @@ SANSKRIT _ŚLOKA_:
 
 
 
-सन्तोषार्थं विमृशति मुहुस्सद्भिरद्ध्यात्मविद्यां
-
-नित्यं ब्रूते निशमयति च स्वादु सुव्याहृतानि ।
-
-अङ्गीकुर्वन्ननघललितां वृत्तिमादेहपातात्
-
+सन्तोषार्थं विमृशति मुहुस्सद्भिरद्ध्यात्मविद्यां  
+नित्यं ब्रूते निशमयति च स्वादु सुव्याहृतानि ।  
+अङ्गीकुर्वन्ननघललितां वृत्तिमादेहपातात्  
 दृष्टादृष्टस्वभरविगमे दत्तदृष्टिः प्रपन्नः ॥ ३४ ॥
 
 
@@ -157,12 +152,9 @@ This code of conduct which should be followed after _prapatti_ and which is an e
 
 TAMIL VERSE:
 
-विण्णवर् वेण्डि विलक्किण्ड्रि मेवुमडिमैयॆल्लाम्
-
-मण्णुलगत्तिन् मगिऴ्न्दडैगिण्ड्रनर् वण्डुवरैक्
-
-कण्णनडैक्कलङ् गॊळ्ळक् कडन्गळ् कऴट्रिय नम्
-
+विण्णवर् वेण्डि विलक्किण्ड्रि मेवुमडिमैयॆल्लाम्  
+मण्णुलगत्तिन् मगिऴ्न्दडैगिण्ड्रनर् वण्डुवरैक्  
+कण्णनडैक्कलङ् गॊळ्ळक् कडन्गळ् कऴट्रिय नम्  
 पण्णमरुन्दमिऴ्वेदमऱिन्द पगवर्गळे. ( 22)
 
 Our holy men who know the songs of the Tamil Veda with their meaning and who have discharged all their debts (to the gods, the pitṛs etc.) by the performance of _prapatti_ accepted by Śrīkṛṣṇa of the beautiful Dwaraka, enjoy, with delight, even in this world, that service which the muktas and the suris perform without intermission and with eagerness in the world yonder.
@@ -171,24 +163,17 @@ Our holy men who know the songs of the Tamil Veda with their meaning and who hav
 
 SANSKRIT _ŚLOKA_:
 
-प्रणयिनमिव प्राप्तं पश्चात्प्रिया स्वसमन्वितं
-
-महति मुहुरामृष्टे दृष्ट्वा मनौ मणिदर्पणे ।
-
-प्रपदनधनास्सन्तश्शुद्धैः प्रभुं परिभुञ्जते
-
+प्रणयिनमिव प्राप्तं पश्चात्प्रिया स्वसमन्वितं  
+महति मुहुरामृष्टे दृष्ट्वा मनौ मणिदर्पणे ।  
+प्रपदनधनास्सन्तश्शुद्धैः प्रभुं परिभुञ्जते  
 प्रसृमरमहामोदस्मेरप्रसूनसमैः क्रमैः ॥ ३५ ॥
 
 Like a beloved wife who, in a big jewelled mirror, well-polished, sees her loving husband by the side of her own image - her loving husband who has come behind her and stands beside her, and is at once transported into the ecstasy of love and enjoys his presence with the scattering of flowers that spread their fragrance all round - (like that beloved wife ) good men, whose wealth consists in their _prapatti_, see the Supreme lord in the great _mantra_ (Tiru _mantra_) which has frequently been meditated upon and enjoy Him with loving service similar to fragrant flowers.
 
-इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य
-
-श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु
-
-श्रीमद्रहस्यत्रयसारे
-
-उत्तरकृत्याधिकारः पञ्चदशः ॥
-
+इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य  
+श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु  
+श्रीमद्रहस्यत्रयसारे  
+उत्तरकृत्याधिकारः पञ्चदशः ॥  
 श्रीमते निगमान्तमहादेशिकाय नमः ॥
 
 

@@ -5,10 +5,8 @@ title = "२३ सिद्धोपायशोधनाधिकारः"
 
 
 
-  ॥ श्रीः ॥
-
-॥ श्रीमते निगमान्तमहादेशिकाय नमः ॥
-
+  ॥ श्रीः ॥  
+॥ श्रीमते निगमान्तमहादेशिकाय नमः ॥  
 ॥ श्रीमद्रहस्यत्रयसारे सिद्धोपायशोधनाधिकारः ॥
 
 
@@ -29,10 +27,8 @@ SANSKRIT _ŚLOKA_:
 
 युगपदखिलं प्रत्यक्षेण स्वतस्सततं विद-
 
-न्ननवधिदयादिव्योदन्वानशक्यविवर्जितः ।
-
-जलधिसुतया सार्धं देवो जगत्परिपालयन्
-
+न्ननवधिदयादिव्योदन्वानशक्यविवर्जितः ।  
+जलधिसुतया सार्धं देवो जगत्परिपालयन्  
 परमपुरुषस्सिद्धोपायः प्रतीष्टभरस्सताम् ॥ ५१ ॥
 
 The Supreme Person who knows all things, at the same time, by direct perception (pratyaksha) and without any aid or instrument (in the form of sense organs), who is the boundless and divine ocean of mercy, protects the world, with the daughter of the ocean (Lakṣmī ), being omnipotent. Having accepted the responsibility of saving those who follow the right path, He is the _upāya_ [^62] that is already existent.
@@ -317,12 +313,9 @@ SANSKRIT _ŚLOKA_S:
 
 
 
-भरस्वीकाररहितं रक्षासङ्कल्पवर्जितम् । गुणादिकमिहेष्टं हि शरण्यस्य विशेषणम् ॥
-
-ऐकरस्यजुषोश्शेषिदंपत्योस्सर्वकर्मसु । विशेषणविशेष्यत्वं श्रुतं कस्मान्न रोचते ॥
-
-प्रतर्दनादिविद्यासु वेद्येऽपि परमात्मनि ।अचेतनवदिच्छामश्चेतनञ्च विशेषणम् ॥
-
+भरस्वीकाररहितं रक्षासङ्कल्पवर्जितम् । गुणादिकमिहेष्टं हि शरण्यस्य विशेषणम् ॥  
+ऐकरस्यजुषोश्शेषिदंपत्योस्सर्वकर्मसु । विशेषणविशेष्यत्वं श्रुतं कस्मान्न रोचते ॥  
+प्रतर्दनादिविद्यासु वेद्येऽपि परमात्मनि ।अचेतनवदिच्छामश्चेतनञ्च विशेषणम् ॥  
 इत्थं प्रपत्तिविद्यायां तत्तन्मन्त्रानुसारतः । विभुः पत्न्या गुणाद्यैश्च विशिष्टो विषयोऽत्र नः ॥
 
 
@@ -383,12 +376,9 @@ TAMIL VERSE:
 
 
 
-मन्नुमनैत्तुऱवाय् मरुण्माट्ररुळाऴियुमाय्त्
-
-तन्निनैवालनैत्तुन् दरित्तोङ्गुन्दनियिऱैयाय्
-
-इन्नमुदत्तमुदालिरङ्गुन् दिरुनारणने
-
+मन्नुमनैत्तुऱवाय् मरुण्माट्ररुळाऴियुमाय्त्  
+तन्निनैवालनैत्तुन् दरित्तोङ्गुन्दनियिऱैयाय्  
+इन्नमुदत्तमुदालिरङ्गुन् दिरुनारणने  
 मन्नियवन्सरण्मट्रोर्बट्रिण्ड्रि वरिप्पवर्क्के. (34)
 
 Nārāyaṇa , with His Spouse Lakṣmī , who is staunch in being every kind of relation (to us ), who is the sea of compassion that dispels ignorance (and delusion), who shines sustaining all (things and all beings ) with His mere will, being the Supreme Lord without a second and who takes compassion on us on account of ( Śrī), the nectar born of sweet nectar - Nārāyaṇa  with Śrī is the firm refuge of all who seek His protection having no other support.
@@ -399,16 +389,12 @@ SANSKRIT _ŚLOKA_:
 
 विश्राम्यद्भिरुपर्यपर्यपि दिवानक्तं बहिर्दर्शनै-
 
-रस्मद्देशिकसंप्रदायरहितैरद्यापि नालक्षितः ।
-
-स्वप्राप्तेस्स्वयमेव साधनतया जोघुष्यमाणश्श्रुतौ
-
+रस्मद्देशिकसंप्रदायरहितैरद्यापि नालक्षितः ।  
+स्वप्राप्तेस्स्वयमेव साधनतया जोघुष्यमाणश्श्रुतौ  
 सत्त्वस्थेषु भजेत सन्निधिमसौ शान्तावधिश्शेवधिः ॥ ५२ ॥
 
 The treasure (of gold - viz. _Bhagavān_), which is not seen is within them, because they are guided by heretical systems which have not the benefit of the traditional knowledge of our spiritual teachers -(the treasure which they fail to perceive) even though resting on it night and day (as in _suṣupti_) -- the treasure which is proclaimed in the strutis to be itself the means or sādhana for its attainment - that boundless treasure will make its presence (felt) among those who are pure of mind.
 
-इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु
-
-श्रीमद्रहस्यत्रयसारे सिद्धोपायशोधनाधिकारः त्रयोविंशः ॥
-
+इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु  
+श्रीमद्रहस्यत्रयसारे सिद्धोपायशोधनाधिकारः त्रयोविंशः ॥  
 श्रीमते निगमान्तमहादेशिकाय नमः ॥

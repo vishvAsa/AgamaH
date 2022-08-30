@@ -7,10 +7,8 @@ title = "३१ शिष्यकृत्याधिकारः"
 
 
 
-॥ श्रीः ॥
-
-॥ श्रीमते निगमान्तमहादेशिकाय नमः ॥
-
+॥ श्रीः ॥  
+॥ श्रीमते निगमान्तमहादेशिकाय नमः ॥  
 ॥ श्रीमद्रहस्यत्रयसारे शिष्यकृत्याधिकारः ॥
 
 31. THE CHAPTER ON THE DUTIES OF A śiṣya. page633
@@ -25,12 +23,9 @@ SANSKRIT _ŚLOKA_ :
 
 
 
-अशिथिलगुरुभक्तिस्तत्प्रशंसादिशीलः
-
-प्रचुरबहुमतिस्तद्वस्तुवास्त्वादिकेऽपि ।
-
-गुणवति विनियोक्तुङ्गोपयन् संप्रदायं
-
+अशिथिलगुरुभक्तिस्तत्प्रशंसादिशीलः  
+प्रचुरबहुमतिस्तद्वस्तुवास्त्वादिकेऽपि ।  
+गुणवति विनियोक्तुङ्गोपयन् संप्रदायं  
 कृतविदनघवृत्तिः किन्न विन्देन्निधानम् ॥ ७१ ॥
 
 
@@ -115,8 +110,7 @@ If a man should fail to impart instruction to a worthy _śiṣya_ at the appropr
 
 SANSKRIT _ŚLOKA_:
 
-साक्षान्मुक्तेरुपायान् यो विद्याभेदानुपादिशत् ।
-
+साक्षान्मुक्तेरुपायान् यो विद्याभेदानुपादिशत् ।  
 कथ्यते मोक्षशास्त्रेषु स तु श्रेष्ठतमो गुरुः ॥
 
 He who imparted instruction in the vidyās or meditations that lead directly and by themselves to _mokṣa_ -- he is considered in the _Śāstra_s on _mokṣa_ as the greatest of _ācārya_s.
@@ -125,8 +119,7 @@ He who imparted instruction in the vidyās or meditations that lead directly and
 
 SANSKRIT _ŚLOKA_ :
 
-आचार्यवत्तया मोक्षमामनन्ति स्मरन्ति च ।
-
+आचार्यवत्तया मोक्षमामनन्ति स्मरन्ति च ।  
 इहामुत्र च तत्पादौ शरणं देशिका विदुः ॥ * ॥
 
 The Vedas declare that a man attains _mokṣa_ by having an_ācārya_ and the same is declared in the _Smṛti_s also._ācārya_s knew that, in this world and so also, in the world beyond, the feet of the ācārya are the refuge (for the śiṣya).
@@ -135,12 +128,9 @@ The Vedas declare that a man attains _mokṣa_ by having an_ācārya_ and the sa
 
 TAMIL VERSE:
 
-एट्रि मनत्तॆऴिन् ञानविळक्कै यिरुळनैत्तुम्
-
-माट्रिनवर्क्कॊरु कैम्माऱु मायनुङ् गाणगिल्लान्
-
-पोट्रियुगप्पदुम् पुन्दियिऱ्‌कॊळ्वदुम् पॊङ्गुबुगऴ्च्
-
+एट्रि मनत्तॆऴिन् ञानविळक्कै यिरुळनैत्तुम्  
+माट्रिनवर्क्कॊरु कैम्माऱु मायनुङ् गाणगिल्लान्  
+पोट्रियुगप्पदुम् पुन्दियिऱ्‌कॊळ्वदुम् पॊङ्गुबुगऴ्च्  
 चाट्रि वळर्प्पदुञ् जट्रल्लवो मुन्नम् पॆट्रदऱ्‌के. (48)
 
 Even (the omniscient and omnipotent) Mayan cannot requite the ācārya who dispelled all the darkness (in the mind) by lighting the bright lamp of wisdom therein. (Therefore) for what was received before (from the ācārya), it is indeed very little (that is done by the _śiṣya_) in recounting his praise with delight, in constant meditation of him, and in extending his growing renown.
@@ -149,22 +139,17 @@ Even (the omniscient and omnipotent) Mayan cannot requite the ācārya who dispe
 
 SANSKRIT _ŚLOKA_:
 
-अध्यासीनतुरङ्गवक्त्रविलसज्जिह्वाग्रसिंहासना
-
-दाचार्यादिह देवतां समधिकामन्यां न मन्यामहे ।
-
-यस्यासौ भजते कदाचिदजहद्भूमा स्वयं भूमिकां
-
+अध्यासीनतुरङ्गवक्त्रविलसज्जिह्वाग्रसिंहासना  
+दाचार्यादिह देवतां समधिकामन्यां न मन्यामहे ।  
+यस्यासौ भजते कदाचिदजहद्भूमा स्वयं भूमिकां  
 मग्नानां भविनां भवार्णवसमुत्ताराय नारायणः ॥ ७२ ॥
 
 
 
 The tip of the ācārya's tongue shines bright being the throne on which is seated (the god) Hayagrīva. So we do not consider any deity as being higher than the ācārya. Even Nārāyaṇa plays the part of the ācārya without ever giving up His supreme greatness, in order to save those who are suck in the sea of _samsāra_.
 
-इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु श्रीमद्रहस्यत्रयसारे
-
-शिष्यकृत्याधिकार एकत्रिंशः
-
+इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु श्रीमद्रहस्यत्रयसारे  
+शिष्यकृत्याधिकार एकत्रिंशः  
 श्रीमते निगमान्तमहादेशिकाय नमः ॥
 
 

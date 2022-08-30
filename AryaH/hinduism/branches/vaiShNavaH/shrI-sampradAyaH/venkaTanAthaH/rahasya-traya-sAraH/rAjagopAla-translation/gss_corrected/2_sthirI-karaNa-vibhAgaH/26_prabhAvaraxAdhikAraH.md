@@ -3,10 +3,8 @@ title = "२६ प्रभावरक्षाधिकारः"
 
 +++
 
- ॥ श्रीः ॥
-
-॥ श्रीमते निगमान्तमहादेशिकाय नमः ॥
-
+ ॥ श्रीः ॥  
+॥ श्रीमते निगमान्तमहादेशिकाय नमः ॥  
 ॥ श्रीमद्रहस्यत्रयसारे प्रभावरक्षाधिकारः ॥
 
 (26) THE CHAPTER ON THE VINDICATION OF
@@ -21,12 +19,9 @@ SANSKRIT _ŚLOKA_:
 
 
 
-शिलादेः स्त्रीत्वादिर्विपरिणतिरस्त्वद्भुतमिदं
-
-ततोप्येतच्चित्रं यदुत दहनस्यैव हिमता ।
-
-तृणस्यैवास्त्रत्वं रिपुषु निहतेरेव हितता
-
+शिलादेः स्त्रीत्वादिर्विपरिणतिरस्त्वद्भुतमिदं  
+ततोप्येतच्चित्रं यदुत दहनस्यैव हिमता ।  
+तृणस्यैवास्त्रत्वं रिपुषु निहतेरेव हितता  
 पदत्रेणैवेह त्रिभुवनपरित्राणमिति च ॥ ५७ ॥
 
 
@@ -133,12 +128,9 @@ It has been said :-"Whatever a man often does with the activities of his body, m
 
 TAMIL VERSE:
 
-उण्मैयुरैक्कु मऱैगळिलोङ्गिय वुत्तमनार्
-
-वण्मैयळप्परिदादलिन् वन्दु कऴल्बणिवार्
-
-तण्मै किडन्दिडत्तरमळवॆन्न वियप्पिलदाम्
-
+उण्मैयुरैक्कु मऱैगळिलोङ्गिय वुत्तमनार्  
+वण्मैयळप्परिदादलिन् वन्दु कऴल्बणिवार्  
+तण्मै किडन्दिडत्तरमळवॆन्न वियप्पिलदाम्  
 उण्मैयुरैत्तनरोरन्दविर वुयर् न्दनरे. ( 37 )
 
 The Supreme Self whose greatness is described in the Vedas, which reveal the truth, is beyond all limitations and beyond all measure in regard to His glory. Therefore, about those who approach Him and seek His feet, though such things as low birth and certain weaknesses may be found in them, yet it cannot be said that their greatness is, in any way, limited. This truth has been taught to us by those who are highest among men and who are free from all partiality.
@@ -147,10 +139,8 @@ The Supreme Self whose greatness is described in the Vedas, which reveal the tru
 
 SANSKRIT _ŚLOKA_.
 
-रागद्वेषमदादिकैरिह महारक्षोभिरक्षोभिते
-
-नित्ये रक्षितरि स्थिते निजभरन्यासाभिधानं तपः ।
-
+रागद्वेषमदादिकैरिह महारक्षोभिरक्षोभिते  
+नित्ये रक्षितरि स्थिते निजभरन्यासाभिधानं तपः ।  
 यत्कक्षीकृतमत्यशेत विविधान् धर्मानधर्मद्रुह-
 
 स्तद्भूमार्णवलेशवर्णनमपि प्राचां न वाचां पदम् ॥ ५८ ॥
@@ -161,12 +151,9 @@ SANSKRIT _ŚLOKA_.
 
 When the eternal Saviour, who cannot, in the least, be affected by such great demons as desire, hatred, pride and the like is present (to save us), that tapas or _upāya_ called the surrender of the responsibility of our protection (_bharanyāsa_), which is accepted as transcending all other _dharma_s (_upāya_s) in putting down all a_dharma_s -- that tapas is so great that the description of even a fragment of the ocean of its potency is beyond the range of even the ancient Vedas.
 
-इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु श्रीमद्रहस्यत्रयसारे
-
-प्रभावरक्षाधिकारः षड्विंशः ॥ श्रीमते निगमान्तमहादेशिकाय नमः॥
-
-इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु श्रीमद्रहस्यत्रयसारे
-
+इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु श्रीमद्रहस्यत्रयसारे  
+प्रभावरक्षाधिकारः षड्विंशः ॥ श्रीमते निगमान्तमहादेशिकाय नमः॥  
+इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु श्रीमद्रहस्यत्रयसारे  
 स्थिरीकरणभागो द्वितीयः ॥ श्रीमते निगमान्तमहादेशिकाय नमः॥
 
 Here ends the second part entitled the Discussion and Clarification of Doubts and Disputed Points.

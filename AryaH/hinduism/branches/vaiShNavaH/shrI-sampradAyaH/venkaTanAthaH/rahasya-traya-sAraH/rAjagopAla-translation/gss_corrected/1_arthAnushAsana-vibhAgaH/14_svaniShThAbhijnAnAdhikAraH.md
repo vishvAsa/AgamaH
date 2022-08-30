@@ -23,10 +23,8 @@ SANSKRIT _ŚLOKA_.
 
 स्वरूपोपायार्थेष्ववितथनिविष्टस्थिरमते-
 
-स्स्वनिष्ठाभिज्ञानं सुभगमपवर्गादुपनतात् ।
-
-प्रथिम्ना यस्यासौ (दौ) प्रभवति विनीतस्स्थगयितुं
-
+स्स्वनिष्ठाभिज्ञानं सुभगमपवर्गादुपनतात् ।  
+प्रथिम्ना यस्यासौ (दौ) प्रभवति विनीतस्स्थगयितुं  
 गभीरान् दुष्पूरान् गगनमहतश्छिद्रनिवहान् ॥ ३२ ॥
 
 To a man whose understanding is firmly and properly fixed on (a knowledge of) his essential nature, on the _upāya_ adopted by him, viz. _prapatti_ and on the ultimate aim of life (_puruṣārtha_), a recognition that he is steadily fixed in this state gives more delight (even) than his approaching _mokṣa_ . For by the might of this knowledge, he is able, with a disciplined mind, to close up the chasms lying before him (as obstacles) which are deep and hard to fill and which are as immense as the sky,
@@ -71,12 +69,9 @@ Thus by observing these signs in himself, the man may realise that he is well es
 
 TAMIL VERSE:
 
-मुक्कियमन्दिरङ्गाट्टिय मूण्ड्रिनिलैयुडैयार्
-
-तक्कवैयण्ड्रित् तगादवैयॊण्ड्रुन् दमक्किसैयार्
-
-इक्करुमङ्गळॆमक्कुळवॆन्नुमिलक्कणत्ताल्
-
+मुक्कियमन्दिरङ्गाट्टिय मूण्ड्रिनिलैयुडैयार्  
+तक्कवैयण्ड्रित् तगादवैयॊण्ड्रुन् दमक्किसैयार्  
+इक्करुमङ्गळॆमक्कुळवॆन्नुमिलक्कणत्ताल्  
 मिक्कवुणर्त्तियर् मेदिनिमेविय विण्णवरे. ( 21 )
 
 
@@ -89,12 +84,9 @@ SANSKRIT _ŚLOKA_:
 
 
 
-स्वापोद्बोधव्यतिकरनिभे भोगमोक्षान्तराले
-
-कालं कञ्चिज्जगति विधिना केनचित् स्थाप्यमानाः ।
-
-तत्त्वोपायप्रभृतिविषये स्वामिदत्तां स्वनिष्ठां
-
+स्वापोद्बोधव्यतिकरनिभे भोगमोक्षान्तराले  
+कालं कञ्चिज्जगति विधिना केनचित् स्थाप्यमानाः ।  
+तत्त्वोपायप्रभृतिविषये स्वामिदत्तां स्वनिष्ठां  
 शेषां कृत्वा शिरसि कृतिनश्शेषमायुर्नयन्ति ॥ ३३ ॥
 
 
@@ -103,12 +95,9 @@ In the interval between this life of worldly enjoyment and life after _mokṣa_ 
 
 
 
-इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य
-
-श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु
-
-श्रीमद्रहस्यत्रयसारे
-
+इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य  
+श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु  
+श्रीमद्रहस्यत्रयसारे  
 स्वनिष्ठाभिज्ञानाधिकारश्चतुर्दशः ॥
 
 

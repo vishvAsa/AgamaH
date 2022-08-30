@@ -17,12 +17,9 @@ SANSKRIT _ŚLOKA_:
 
 
 
-आदौ प्राप्यं परममनघं प्राप्तृरूपं च मादौ
-
-इष्टोपायं त्वयननमसोरीप्सितार्थं चतुर्थ्याम् ।
-
-तद्व्याघातं ममकृतिगिरि व्यञ्जयन्तं मनुं तं
-
+आदौ प्राप्यं परममनघं प्राप्तृरूपं च मादौ  
+इष्टोपायं त्वयननमसोरीप्सितार्थं चतुर्थ्याम् ।  
+तद्व्याघातं ममकृतिगिरि व्यञ्जयन्तं मनुं तं  
 तत्प्रायं च द्वयमपि विदन् संमतस्सर्ववेदी ॥ १२ ॥
 
 In the 'a' in Om and in the word 'Nārāyaṇa ' occurring in aṣṭākṣara, the supreme end of life (i.e.) _Bhagavān_, who is opposed to all that is objectionable or faulty, is indicated; in the m in om and in the part nāra occurring in Nārāyaṇāya, the essential nature (_svarūpa_) of the _jīva_ who is to attain this end is disclosed; the means of attainment already existing as established(siddha _upāya_) namely, _Bhagavān_, is indicated in the part ayana occurring in Nārāyaṇa and the means to be accomplished or adopted (sādhya _upāya_ ), which is self-surrender, is in _namas_; the fruit desired, viz., the enjoyment of _Brahman_ which includes also service to Him is disclosed in the dative or fourth case in Nārāyaṇāya; the hindrance to it, namely, the feeling of 'mine' is in the word mama occurring in namah (na mama ). He who understands the _Aṣṭākṣara_ _mantra_ that reveals all these five and [^24] _Dvayam_ too, which is to the same effect--he will be considered by all as one who knows everything.
@@ -683,12 +680,9 @@ TAMIL VERSE :
 
 
 
-पॊरुळॊण्ड्रॆन निण्ड्र पूमगळ् नादन् अवनडिसेर्न्दु
-
-अरुळॊण्ड्रुम् अन्बनवन् कॊळुबायम् अमैन्द पयन्
-
-मरुळॊण्ड्रिय विनै वल्विलङ्गॆण्ड्रु इवैयैन्दऱिवार्
-
+पॊरुळॊण्ड्रॆन निण्ड्र पूमगळ् नादन् अवनडिसेर्न्दु  
+अरुळॊण्ड्रुम् अन्बनवन् कॊळुबायम् अमैन्द पयन्  
+मरुळॊण्ड्रिय विनै वल्विलङ्गॆण्ड्रु इवैयैन्दऱिवार्  
 इरुळॊण्ड्रिलावगै ऎन्मनन्देऱ इयम्बिनरे. // 11 //
 
 
@@ -701,12 +695,9 @@ SANSKRIT _ŚLOKA_:
 
 
 
-प्राप्यं ब्रह्म समस्तशेषि परमं प्राप्ताऽहमस्योचितः
-
-प्राप्तिर्दाय-धन-क्रमादिह मम प्राप्ता स्वतस्सूरिवत् ।
-
-हन्तैनामतिवृत्तवान् अहमहंमत्या विमत्याश्रयः
-
+प्राप्यं ब्रह्म समस्तशेषि परमं प्राप्ताऽहमस्योचितः  
+प्राप्तिर्दाय-धन-क्रमादिह मम प्राप्ता स्वतस्सूरिवत् ।  
+हन्तैनामतिवृत्तवान् अहमहंमत्या विमत्याश्रयः  
 सेतुस्संप्रति शेषि-दंपति-भरन्यासस्तु मे शिष्यते ॥१३॥
 
 
@@ -715,8 +706,7 @@ That which is to be attained is the Supreme _Brahman_ who is the _śeṣī_ of a
 
 
 
-इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु श्रीमद्रहस्यत्रयसारे अर्थपञ्चकाधिकारश्चतुर्थः ॥
-
+इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु श्रीमद्रहस्यत्रयसारे अर्थपञ्चकाधिकारश्चतुर्थः ॥  
 श्रीमते निगमान्तमहादेशिकाय नमः ॥
 
 

@@ -19,10 +19,8 @@ SANSKRIT _ŚLOKA_:
 
 आकर्णितो वितनुते कृतकृत्यकक्ष्या-
 
-माम्रेडितो दिशति यश्च कृतार्थभावम् ।
-
-प्रत्यूषतां भजति संसृतिकालरात्रेः
-
+माम्रेडितो दिशति यश्च कृतार्थभावम् ।  
+प्रत्यूषतां भजति संसृतिकालरात्रेः  
 पद्मासहायशरणागतिमन्त्र एषः ॥ ६४ ॥
 
 This _mantra_ (_Dvaya_) which is used for performing s'aranagati to the Lord of Padma ( _Lakṣmī_) is of the nature of the dawn coming after the dark night of _samsāra_; for having caused it to be heard by _Bhagavān_, a man is in the position of one who has done his duty; having repeated it frequently, he is in the position of one who has attained his goal.
@@ -73,18 +71,12 @@ It may be asked: "Why should (he) dwell at such length without specifying the wo
 
 SANSKRIT _ŚLOKA_S
 
-परभक्त्यादिमूलत्वं कैङ्कर्यस्य यदुच्यते । गद्यादिषु तदप्याहुरपवर्गदशाश्रयम् ॥
-
-उत्तरोत्तरयोस्स्वामिसाक्षात्-करणभोगयोः । पूर्वपूर्वक्षणेष्टत्वात्तन्मूलत्वमुदीरितम् ॥
-
-शरीरपातकाले तु हार्दस्यानुग्रहस्स्वयं । परिपाकं प्रपन्नानां प्रयच्छति तथाविधम् ॥
-
-अङ्कोलतैलसिक्तानां बीजानामचिराद्यथा । विपाकः फलपर्यन्तस्तथात्रेति निदर्शितं ॥
-
-दुष्टेन्द्रियवशाच्चित्तं नृणां यत्कल्मषैर्वृतम् । तदन्तकाले संशुद्धिं याति नारायणालये ॥
-
-इति व्रतविशेषे यत् सात्वतादिषु शिष्यते । तद्वदत्रोपपद्येत गद्योक्तान्त्यदशागमः ॥
-
+परभक्त्यादिमूलत्वं कैङ्कर्यस्य यदुच्यते । गद्यादिषु तदप्याहुरपवर्गदशाश्रयम् ॥  
+उत्तरोत्तरयोस्स्वामिसाक्षात्-करणभोगयोः । पूर्वपूर्वक्षणेष्टत्वात्तन्मूलत्वमुदीरितम् ॥  
+शरीरपातकाले तु हार्दस्यानुग्रहस्स्वयं । परिपाकं प्रपन्नानां प्रयच्छति तथाविधम् ॥  
+अङ्कोलतैलसिक्तानां बीजानामचिराद्यथा । विपाकः फलपर्यन्तस्तथात्रेति निदर्शितं ॥  
+दुष्टेन्द्रियवशाच्चित्तं नृणां यत्कल्मषैर्वृतम् । तदन्तकाले संशुद्धिं याति नारायणालये ॥  
+इति व्रतविशेषे यत् सात्वतादिषु शिष्यते । तद्वदत्रोपपद्येत गद्योक्तान्त्यदशागमः ॥  
 अनुग्रह विशेषेण केनचित्परमात्मनः । कुरुकाधीशनाथाद्याः प्रागप्यन्वभवन् प्रभुम् ॥
 
 The ācāryas of old have declared that the statement in such writings as the _Gadya_ that superior _bhakti_ ( para-_bhakti_ ) and the like (li, e. parajñāna and parama bhaktı) have, for their result, _kaiṅkarya_ describes what occurs in the state of _mukti_. Since what follows later in order namely, the direct vision of the Lord (para-_jñāna_) and the eager desire for the uninterrupted enjoyment of _Bhagavān_ are preceded by the eager longing to do so, they are said to result from para-._bhakti_ .
@@ -277,20 +269,13 @@ In the word _caraṇau_ ('The two feet) the word 'alone' is implicit in the mean
 
 SANSKRIT _ŚLOKA_:
 
-चरणाविति निर्देशः पत्नीवैशिष्ट्यबाधकः ।
-
-इति मन्दैरिदं प्रोक्तं श्रीमच्छब्दविरोधतः ॥
-
-शब्दस्वरसतः प्राप्तं वैशिष्ट्यं प्रथमश्रुतम् ।
-
-विशेष्यचरणद्वित्वं न हि बाधितुमर्हति ॥
-
-चरणानिति वक्तव्यमिति यच्च प्रसञ्जितम् ।
-
-ग्रन्थज्ञैरपहास्यं तत् पतिप्राधान्यतोऽन्वयात् ॥
-
-न सम्राजि सपत्नीके सद्वितीयोक्तिसाहसम् ।
-
+चरणाविति निर्देशः पत्नीवैशिष्ट्यबाधकः ।  
+इति मन्दैरिदं प्रोक्तं श्रीमच्छब्दविरोधतः ॥  
+शब्दस्वरसतः प्राप्तं वैशिष्ट्यं प्रथमश्रुतम् ।  
+विशेष्यचरणद्वित्वं न हि बाधितुमर्हति ॥  
+चरणानिति वक्तव्यमिति यच्च प्रसञ्जितम् ।  
+ग्रन्थज्ञैरपहास्यं तत् पतिप्राधान्यतोऽन्वयात् ॥  
+न सम्राजि सपत्नीके सद्वितीयोक्तिसाहसम् ।  
 तथात्रेत्यपरामृश्य दर्शितं गुरुसाहसम् ॥
 
 "It has been said, by some who are stupid (manda), that the use of the word _caraṇau_ (the two feet - the dual of charana) is against the interpretation that _Bhagavān_ with _Śrī_ as His attri bute is intended (for in that case 'the four feet' should be the words). This is silly because this objection is refuted by the word _Śrī_mat which distinctly and explicitly states at the very beginning of the sentence " with His attribute _Śrī_". This indication of the attribute '_Śrī_' is first heard in the sentence and cannot therefore be annulled by the dual form, namely, the two feet' (which comes later in the sentence). The reasoning which says that the plural form "many or four-feet" should have been used in that case will appear ridiculous to those who are acquainted with literature, for the dual forn is used, because the husband is the principal factor and his spouse is necessarily associated with him. When an emperor has a spouse, no one would dare to say that he has some one else (as a second ruler). So also, here, a serious staternent has been recklessly made without due reflection,
@@ -441,12 +426,9 @@ Since the _jīva_ while performing saraņagati (with this _mantra_) is praying t
 
 SANSKRIT _ŚLOKA_ :
 
-अप्राप्तितःपरिहरन्स्वपरैस्स्वरक्षां
-
-तादर्त्थ्यधीपरिहृतस्वपरार्थभावः ।
-
-अन्योपभोगविरहादनघः प्रपन्नो
-
+अप्राप्तितःपरिहरन्स्वपरैस्स्वरक्षां  
+तादर्त्थ्यधीपरिहृतस्वपरार्थभावः ।  
+अन्योपभोगविरहादनघः प्रपन्नो  
 भुङ्क्ते स्वभोगमखिलं पतिभोगशेषम् ॥
 
 Giving up the idea of his salvation by himself or by others as impossible and giving up the idea of his existing either for himself or for others by the thought that lie exists (only) for the Lord and having become free from all sins by his aversion to all other objects of enjoyment than the Lord), the _prapanna_ enjoys all his bliss as something which is accessory to the Lord's enjoyment.
@@ -513,20 +495,13 @@ The sum and substance of _Dvaya_ is this:- "At the feet of Nārāyaṇa who is t
 
 SANSKRIT _ŚLOKA_S :
 
-वैराग्यविजितस्वान्तैः प्रपत्तिविजितेश्वरैः ।
-
-अनुक्रोशैकविजितैरित्युपादेशि देशिकैः ॥
-
-इदमष्टपदं व्यासे समासे षट्पदं विदुः ।
-
-वाक्यं पञ्चपदैर्यक्तमित्याख्यातप्रधानकम् ॥
-
-एकं द्वयं त्र्यवयवं सुखलभ्यतुर्यं
-
-व्यक्तार्थपञ्चकमुपात्तषडङ्गयोगम् ।
-
-सप्तार्णवीमहिमवद्विवृताष्टवर्णं
-
+वैराग्यविजितस्वान्तैः प्रपत्तिविजितेश्वरैः ।  
+अनुक्रोशैकविजितैरित्युपादेशि देशिकैः ॥  
+इदमष्टपदं व्यासे समासे षट्पदं विदुः ।  
+वाक्यं पञ्चपदैर्यक्तमित्याख्यातप्रधानकम् ॥  
+एकं द्वयं त्र्यवयवं सुखलभ्यतुर्यं  
+व्यक्तार्थपञ्चकमुपात्तषडङ्गयोगम् ।  
+सप्तार्णवीमहिमवद्विवृताष्टवर्णं  
 रङ्गे सतामिह रसं नवमं प्रसूते ॥ *
 
 1. This has been taught by_ācārya_s who had full control over their minds as a result of their indifference to worldly objects, who had won over the Lord by (their) _prapatti_ and who were overpowered solely by their compassion (to teach it to others).
@@ -547,12 +522,9 @@ There is a reference here to Sri Ramanuja's gadya.
 
 TAMIL VERSE:
 
-ओदुमिरण्डै यिसै न्दरुळालुदवुन्दिरुमाल्
-
-पादमिरण्डुञ् जरणॆनप्पट्रि नम्बङ्गयत्ताळ्
-
-नादनै नण्णि नलन्दिगऴ् नाट्टिलडिमैयॆल्लाम्
-
+ओदुमिरण्डै यिसै न्दरुळालुदवुन्दिरुमाल्  
+पादमिरण्डुञ् जरणॆनप्पट्रि नम्बङ्गयत्ताळ्  
+नादनै नण्णि नलन्दिगऴ् नाट्टिलडिमैयॆल्लाम्  
 कोदिलुणर्त्तियुडन् कॊळ्ळुमाऱु कुऱित्तनमे. ( 40 )
 
 We have thus explained how, by uttering, in combination, the two parts of _Dvaya_ which are read separately in the śruti, one can seek, as refuge or _upāya_, the two feet of the Lord of _Śrī_ who, out of compassion, is bent on helping us and who is prepared to pardon us; one can thus attain the Lord of the lotus.born _Lakṣmī_ and in the region of bliss attain faultless service to the Lord) along with the full and perfect enjoyment of the Lord.
@@ -561,24 +533,17 @@ We have thus explained how, by uttering, in combination, the two parts of _Dvaya
 
 SANSKRIT _ŚLOKA_:
 
-न वेदान्ताच्छास्त्रं न मधुमथनात्तत्त्वमधिकं
-
-न तद्भक्तात्तीर्थं न तदभिमतात्सात्विकपदम् ।
-
-न सत्वादारोग्यं न बुधभजनाद्बोधजनकं
-
+न वेदान्ताच्छास्त्रं न मधुमथनात्तत्त्वमधिकं  
+न तद्भक्तात्तीर्थं न तदभिमतात्सात्विकपदम् ।  
+न सत्वादारोग्यं न बुधभजनाद्बोधजनकं  
 न मुक्तेस्सौख्यं न द्वयवचनतः क्षेमकरणम् ॥ ६५ ॥
 
 There is no _śāstra_ superior to Vedanta; there is no higher Truth or Reality than the slayer of Madhu (Nārāyaṇa); there is nothing more holy of resort than His devotees; there is no better dwelling place than those places that are agreeable to them; there is no better means of preserving health than the quality of sattva (or eating sātvic food); there is no other way of acquiring wisdom than devotion to the wise; there is no bliss greater than _mokṣa_ ; similarly there is no better ineans of obtaining spiritual welfare (_mokṣa_) than the utterance of _Dvaya_.
 
-इति कवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य
-
-श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु
-
-श्रीमद्रहस्यत्रयसारे
-
-द्वयाधिकारः अष्टाविंशः ॥
-
+इति कवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य  
+श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु  
+श्रीमद्रहस्यत्रयसारे  
+द्वयाधिकारः अष्टाविंशः ॥  
 श्रीमते निगमान्तमहादेशिकाय नमः ॥
 
 
