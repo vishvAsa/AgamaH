@@ -35,13 +35,15 @@ THE SUCCESSION OF ĀCĀRYAS
 
 <details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
-गुरुभ्यस्तद् गुरुभ्यश्च नमोवाकमधीमहे ।  
-वृणीमहे च तत्राद्यौ दंपती जगतां पती ॥ १ ॥
+गुरुभ्यस् तद्-गुरुभ्यश् च  
+नमो-वाकम् अधीमहे ।  
+वृणीमहे च तत्राद्यौ  
+दं-पती जगतां पती ॥ १ ॥
 </details>
 
 <details><summary>संस्कृतम् - मूलम्</summary>
 
-गुरुभ्यस्तद् गुरुभ्यश्च नमोवाकमधीमहे ।  
+गुरुभ्यस्तद्गुरुभ्यश्च नमोवाकमधीमहे ।  
 वृणीमहे च तत्राद्यौ दंपती जगतां पती ॥ १ ॥
 </details>
 
@@ -51,13 +53,13 @@ THE SUCCESSION OF ĀCĀRYAS
 
 <details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
-पॊय्गै मुनिबूदत्तार् पेयाऴ्वार् तण्  
-पॊरुनल्वरुङ्गुरुगेसन् विट्टुसित्तन्,  
-तुय्य कुलसेगरन् नम्बाण नादन्  
-तॊण्डरडिप्पॊडि मऴिसै वन्दसोदि,  
-वैयमॆल्लामऱै विळङ्ग वाळ् वेलेन्दु मङ्गैयर् कोनॆण्ड्रिवर्गळ् मगिऴ्न्दु पाडुम्,  
-सॆय्यदमिऴ् मालैगळ् नाम् तॆळिय वोदित्  
-तॆळियादमऱै निलङ्गडॆळिगिण्ड्रोमे. (1)
+पॊय्गै-मुनि, बूदत्तार्, पेयाऴ्वार्, तण्-  
+पॊरुनल्+++(=ताम्रपर्णी)+++-वरुङ् गुरुगेसन्, विट्टु-सित्तन्,  
+तुय्य+++(=शुद्ध)+++ कुल-सेगरन्, नम् बाण-नादन्,  
+तॊण्डर्-अडि-प्पॊडि, मऴिसै-वन्द-सोदि+++(←ज्योति)+++,  
+वैयम्+++(=विश्वम्)+++ ऎल्ला मऱै+++(=वेद)+++ विळङ्ग+++(=प्रकाशक)+++ वाळ्+++(=खड्गं)+++ वेल् एन्दु मङ्गैयर् कोन्+++(=राजा)+++ ऎण्ड्र् इवर्गळ् - मगिऴ्न्दु+++(=उल्लासेन)+++ पाडुम्,  
+सॆय्य-दमिऴ्-मालैगळ् नाम् तॆळियव्+++(=स्पष्टं)+++ ओदित्,  
+तॆळियाद मऱै+++(=वेद)+++ निलङ्गडॆळिगिण्ड्रोमे+++(=??)+++. (1)
 </details>
 
 <details><summary>तमिऴ् - मूलम्</summary>
@@ -73,7 +75,7 @@ THE SUCCESSION OF ĀCĀRYAS
 
 Having carefully studied the beautiful hymns sung with delight in Tamil by seers, we have come to understand the real meaning of the regions of the Upaniṣads which are otherwise difficult to comprehend - seers known as Poygai Muni, Bhutamuni, Peyalvar, Kurugesan (Nammalvar) who was born on the banks of the cool Tamraparni, [^2] Viṣṇu chittan, the pure-minded Kulasekhara, our Pananathan, Thondaradippodi, the splendour that appeared in Mazhisai ( Tirumazhisai alvar) and the prince of Maṅgai armed with sword and spear for making bright the path of the Vedas throughout the world.
 
-[^2]: (1) The commentator says that Viṣṇuchittan stands for Viṣṇuchittan and also for his daughter Andal, the authoress of many hymns.
+[^2]: The commentator says that Viṣṇuchittan stands for Viṣṇuchittan and also for his daughter Andal, the authoress of many hymns.
 
 <details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
