@@ -1,6 +1,5 @@
 +++
 title = "+GSS corrected"
-unicode_script = "devanagari"
 
 +++
 

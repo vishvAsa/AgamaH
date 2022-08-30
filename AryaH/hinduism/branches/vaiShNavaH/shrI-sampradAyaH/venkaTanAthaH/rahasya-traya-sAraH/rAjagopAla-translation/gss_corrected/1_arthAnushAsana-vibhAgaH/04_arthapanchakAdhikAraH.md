@@ -21,9 +21,9 @@ title = "०४ अर्थपञ्चकाधिकारः"
 तत्प्रायं च द्वयमपि विदन् संमतस्सर्ववेदी ॥ १२ ॥
 </details>
 
-In the 'a' in Om and in the word 'Nārāyaṇa ' occurring in aṣṭākṣara, the supreme end of life (i.e.) _Bhagavān_, who is opposed to all that is objectionable or faulty, is indicated; in the m in om and in the part nāra occurring in Nārāyaṇāya, the essential nature (_svarūpa_) of the _jīva_ who is to attain this end is disclosed; the means of attainment already existing as established(siddha _upāya_) namely, _Bhagavān_, is indicated in the part ayana occurring in Nārāyaṇa and the means to be accomplished or adopted (sādhya _upāya_ ), which is self-surrender, is in _namas_; the fruit desired, viz., the enjoyment of _Brahman_ which includes also service to Him is disclosed in the dative or fourth case in Nārāyaṇāya; the hindrance to it, namely, the feeling of 'mine' is in the word mama occurring in namah (na mama ). He who understands the _Aṣṭākṣara_ _mantra_ that reveals all these five and [^24] _Dvayam_ too, which is to the same effect--he will be considered by all as one who knows everything.
+In the 'a' in Om and in the word 'Nārāyaṇa ' occurring in aṣṭākṣara, the supreme end of life (i.e.) Bhagavān, who is opposed to all that is objectionable or faulty, is indicated; in the m in om and in the part nāra occurring in Nārāyaṇāya, the essential nature (svarūpa) of the jīva who is to attain this end is disclosed; the means of attainment already existing as established(siddha upāya) namely, Bhagavān, is indicated in the part ayana occurring in Nārāyaṇa and the means to be accomplished or adopted (sādhya upāya ), which is self-surrender, is in namas; the fruit desired, viz., the enjoyment of Brahman which includes also service to Him is disclosed in the dative or fourth case in Nārāyaṇāya; the hindrance to it, namely, the feeling of 'mine' is in the word mama occurring in namah (na mama ). He who understands the Aṣṭākṣara mantra that reveals all these five and [^24] Dvayam too, which is to the same effect--he will be considered by all as one who knows everything.
 
-[^24]: _Dvayam_ may mean also the two (i.e.) _Dvayam_ and _Caramasloka._
+[^24]: Dvayam may mean also the two (i.e.) Dvayam and Caramasloka.
 
 THERE IS NO REAL DIFFERENCE BETWEEN THOSE
 
@@ -31,27 +31,27 @@ WHO SPEAK OF FIVE THINGS AND THOSE
 
 WHO SPEAK OF SIX.
 
-In the words Nārāyaṇa and in om, the relationship between _Iśvara_ and the _jīva_ is revealed as that between the soul and the body. Having taken this relationship as the foundation or basis of the Viśiṣṭādvaita system, some investigated the five truths that should be known to everyone who desires _mokṣa_ . Others took this relationship also as one of the things to be known and hence spoke of the six things to be known. If it be asked what the five things are that should be understood by the seeker after _mokṣa_  along with the relationship itself, the answer is as follows: "The nature[^f54] of "the end to be attained ” vis. _Brahman_, the nature of the individual self who is the seeker of the attainment, the means of attainment (_upāya_), the fruit resulting from it and so also the hindrances to the attainment of _Brahman_ - all the Vedas with their (elucidatory) itihāsās and purānās speak of these five,"
+In the words Nārāyaṇa and in om, the relationship between Iśvara and the jīva is revealed as that between the soul and the body. Having taken this relationship as the foundation or basis of the Viśiṣṭādvaita system, some investigated the five truths that should be known to everyone who desires mokṣa . Others took this relationship also as one of the things to be known and hence spoke of the six things to be known. If it be asked what the five things are that should be understood by the seeker after mokṣa  along with the relationship itself, the answer is as follows: "The nature[^f54] of "the end to be attained ” vis. Brahman, the nature of the individual self who is the seeker of the attainment, the means of attainment (upāya), the fruit resulting from it and so also the hindrances to the attainment of Brahman - all the Vedas with their (elucidatory) itihāsās and purānās speak of these five,"
 
 [^f54]: Harita samhita
 
-_BRAHMAN_, THE END TO BE ATTAINED:
+BRAHMAN, THE END TO BE ATTAINED:
 
 ITS SVARUPA:
 
-Among these, the essential nature of _Brahman_, which is the object of attainment, is revealed in the first letter a in om and in the word 'Nārāyaṇa ' in Tiru_mantra_ and in the words Nārāyaṇa with the adjectives '_Śrīman_' occurring in _Dvayam_ and in the words 'me' and 'I' occurring in the _Carama_ _śloka_ . It is in this way that they should be considered. While doing so, one should think of His essential nature (_svarūpa_) as infinite _jñāna_ and infinite bliss ever inseparable from His consort, Lakṣmī , who, in every form and in all situations, participates in all His actions. For there are many authoritative passages in support of this prescribed contemplation -
+Among these, the essential nature of Brahman, which is the object of attainment, is revealed in the first letter a in om and in the word 'Nārāyaṇa ' in Tirumantra and in the words Nārāyaṇa with the adjectives 'Śrīman' occurring in Dvayam and in the words 'me' and 'I' occurring in the Carama śloka . It is in this way that they should be considered. While doing so, one should think of His essential nature (svarūpa) as infinite jñāna and infinite bliss ever inseparable from His consort, Lakṣmī , who, in every form and in all situations, participates in all His actions. For there are many authoritative passages in support of this prescribed contemplation -
 
-“The Lord of the [^f55] Universe is ever with Lakṣmī  in Vaikuṇṭha, the world beyond” (Here the reference is to the Supreme Lord (_Para_) in Vaikuṇṭha.)
+“The Lord of the [^f55] Universe is ever with Lakṣmī  in Vaikuṇṭha, the world beyond” (Here the reference is to the Supreme Lord (Para) in Vaikuṇṭha.)
 
 [^f55]: Lingapurāṇa
 
-“This [^f56] Nārāyaṇa  is always with Śrī-- Nārāyaṇa  whose abode is the ocean of milk. He has now come to the city of Madhura leaving His bed (Adi_śeṣa_)" (The reference is here to the Vyūha) “Thou[^f57] art the God Nārāyaṇa , the spouse of Śrī and hast the Chakra is Thy weapon and Thou art omnipresent". (The reference is to the _Vibhava_ or _avatāra_.)
+“This [^f56] Nārāyaṇa  is always with Śrī-- Nārāyaṇa  whose abode is the ocean of milk. He has now come to the city of Madhura leaving His bed (Adiśeṣa)" (The reference is here to the Vyūha) “Thou[^f57] art the God Nārāyaṇa , the spouse of Śrī and hast the Chakra is Thy weapon and Thou art omnipresent". (The reference is to the Vibhava or avatāra.)
 
 [^f56]: Harivamsa: 113-62
 
 [^f57]: Rāmāyaṇa: Yuddhakāṇḍa 120-13,
 
-“ _Bhagavān_ has the [^f58] mole, ŚrīVatsa, on His chest and Śrī is with Him eternally." "Lakṣmī  is [^f59] ever inseparable from Viṣṇu ." "He (Lakṣmaṇa) [^f60] said as follows to Rāma in the presence of Sītā". (Here Śrī is indicated as purushakāra). "The renowned [^f61] Lakṣmaṇa spoke thus to Sītā and to Rāma who had the great vow (of protecting His suppliants)". (Here Śrī is indicated in the state of Her being the _upāya_). “This Sītā[^f62] is capable of protecting this host of Rākṣasis from (the anger of) Raghava." (Here and in the next passage, Śrī is indicated as the _upāya_) "I will be [^f63] your protector" ( Sītā's words to the Rākṣasis ). "You will [^f64] enjoy yourself on the slopes of the hills with Sītā and, whether you are asleep or awake, I will render service to you" (says Lakṣmaṇa): (Here is the prayer for the fruit, namely, _kaiṅkarya_ ). "He is [^f65] seated on the serpent Ananta ( _Śeṣa_), along with her (_Lakṣmī_)”; “When [^f66] shall I become their eternal
+“ Bhagavān has the [^f58] mole, ŚrīVatsa, on His chest and Śrī is with Him eternally." "Lakṣmī  is [^f59] ever inseparable from Viṣṇu ." "He (Lakṣmaṇa) [^f60] said as follows to Rāma in the presence of Sītā". (Here Śrī is indicated as purushakāra). "The renowned [^f61] Lakṣmaṇa spoke thus to Sītā and to Rāma who had the great vow (of protecting His suppliants)". (Here Śrī is indicated in the state of Her being the upāya). “This Sītā[^f62] is capable of protecting this host of Rākṣasis from (the anger of) Raghava." (Here and in the next passage, Śrī is indicated as the upāya) "I will be [^f63] your protector" ( Sītā's words to the Rākṣasis ). "You will [^f64] enjoy yourself on the slopes of the hills with Sītā and, whether you are asleep or awake, I will render service to you" (says Lakṣmaṇa): (Here is the prayer for the fruit, namely, kaiṅkarya ). "He is [^f65] seated on the serpent Ananta ( Śeṣa), along with her (Lakṣmī)”; “When [^f66] shall I become their eternal
 
 [^f58]: Rāmāyaṇa : Yuddha kāṇḍa 114-15
 
@@ -71,27 +71,27 @@ Among these, the essential nature of _Brahman_, which is the object of attainmen
 
 [^f66]: Alavandar Stotram 46
 
-servant and thus find delight?" (This is also prayer for service ). "Thy [^f67] spouse is _Puruṣottama_."
+servant and thus find delight?" (This is also prayer for service ). "Thy [^f67] spouse is Puruṣottama."
 
 [^f67]: Alavandar: Chatusshloki:
 
-"When the Lord, [^f68] who is along with _Śrī_, is pleased by the service rendered to Him by the eternal Sūris who delight in that service."
+"When the Lord, [^f68] who is along with Śrī, is pleased by the service rendered to Him by the eternal Sūris who delight in that service."
 
 [^f68]: Alavandar: Atmasiddhi
 
-"I worship [^f69] Viṣṇu  with the inseparable _Śrī_; He is the sea of purity and bliss"
+"I worship [^f69] Viṣṇu  with the inseparable Śrī; He is the sea of purity and bliss"
 
 [^f69]: Rāmānuja: Vedantasara
 
-"The [^f70] beloved of _Śrī_, who is infinite and whose form is the unique abode of all auspicious qualities "
+"The [^f70] beloved of Śrī, who is infinite and whose form is the unique abode of all auspicious qualities "
 
 [^f70]: Rāmānuja: Vedantdeepa
 
-."In [^f71] _Brahman_, the abode of Śrī(_Śrī_nivasa), may my mind be ever centred "
+."In [^f71] Brahman, the abode of Śrī(Śrīnivasa), may my mind be ever centred "
 
 [^f71]: Rāmānuja: Śrī Bhāṣyam
 
-"The Lord of [^f72] _Śrī_, whose essential nature is opposed to all that is objectionable and faulty and who is possessed of auspicious qualities and is (at the same time) infinite jmāna and infinite bliss."
+"The Lord of [^f72] Śrī, whose essential nature is opposed to all that is objectionable and faulty and who is possessed of auspicious qualities and is (at the same time) infinite jmāna and infinite bliss."
 
 [^f72]: Rāmānuja Gita Bhashyam
 
@@ -103,7 +103,7 @@ servant and thus find delight?" (This is also prayer for service ). "Thy [^f67] 
 
 [^f74]: Tiruvoymozhi: 4-9-10
 
-"Am I [^f75] still to remain in _samsāra_ without enjoying you in the company of Lakṣmī  ?"
+"Am I [^f75] still to remain in samsāra without enjoying you in the company of Lakṣmī  ?"
 
 [^f75]: Tieuvoymozhi 6-9-3
 
@@ -119,7 +119,7 @@ servant and thus find delight?" (This is also prayer for service ). "Thy [^f67] 
 
 [^f78]: Tiruvoymozhi: 6-10-10
 
-“ Thou [^f79] art all _jñāna_ and bliss."
+“ Thou [^f79] art all jñāna and bliss."
 
 [^f79]: Tiruvoymozhi: 1-1-2
 
@@ -131,7 +131,7 @@ limitations.”
 
 BHAGAVĀN POSSESSES ALL AUSPICIOUS QUALITIES :
 
-_Bhagavān_ is to be thought of as being opposed to all that is faulty or objectionable ; for it has been said, “That [^f81] Supreme Goal, which is called Viṣṇu , is free from all imperfections." and "He is [^f82] greater than the great; in the Lord of the great and the low, there are no such things as pain." He is to be considered also as possessing all those qualities which are necessary for one who is the object of attainment and who is, likewise, the means of attainment. Many are the passages that speak of _Bhagavān_'s qualities :
+Bhagavān is to be thought of as being opposed to all that is faulty or objectionable ; for it has been said, “That [^f81] Supreme Goal, which is called Viṣṇu , is free from all imperfections." and "He is [^f82] greater than the great; in the Lord of the great and the low, there are no such things as pain." He is to be considered also as possessing all those qualities which are necessary for one who is the object of attainment and who is, likewise, the means of attainment. Many are the passages that speak of Bhagavān's qualities :
 
 [^f81]: Viṣṇupurāṇa:  1-22-53
 
@@ -169,7 +169,7 @@ Hear [^f83] now of a man (Śrī Rāma) possessed of these qualities".
 
 [^f90]: Ibid: 33-12
 
-" He is [^f91] known to be earnest in the matter of _dharma_; He is affectionate to those that seek His protection."
+" He is [^f91] known to be earnest in the matter of dharma; He is affectionate to those that seek His protection."
 
 [^f91]: Rāmāyaṇa: Sundarakāṇḍa: 21-20
 
@@ -191,7 +191,7 @@ Is [^f95] there anyone that can comprehend the qualities of Viṣṇu , who is t
 
 [^f96]: Vamanapurāṇa 74-40
 
-" His [^f97] qualities cannot be enumerated even in tens of thou. sands of years by even all the gods assembled together. If there be any man of pure mind anywhere, gifted with the period of life appointed for _Brahma_ and if he be further endowed with a thousand mouths, he may be able, O best of gods, to enumerate one ten-thousandth fraction of Thy qualities or may not be able."
+" His [^f97] qualities cannot be enumerated even in tens of thou. sands of years by even all the gods assembled together. If there be any man of pure mind anywhere, gifted with the period of life appointed for Brahma and if he be further endowed with a thousand mouths, he may be able, O best of gods, to enumerate one ten-thousandth fraction of Thy qualities or may not be able."
 
 [^f97]: Mahābhārata: Karnaparva: 83-15
 
@@ -213,13 +213,13 @@ Is [^f95] there anyone that can comprehend the qualities of Viṣṇu , who is t
 
 BHAGAVĀN HAS A DIVINE AND AUSPICIOUS FORM:
 
-_Bhagavān_ should be thought of, also, as having a transcendent, super sensuous (aprākrita), divine and auspicious form, which is the resting place (āsraya ) of the universe, for there are many passages which refer to this form of His.
+Bhagavān should be thought of, also, as having a transcendent, super sensuous (aprākrita), divine and auspicious form, which is the resting place (āsraya ) of the universe, for there are many passages which refer to this form of His.
 
 "To Him [^f102] whose form ever remains the same -- "
 
 [^f102]: Viṣṇupurāṇa: 1-2 -1
 
-"He who [^f103] has faith in His form that is eternal and in His being the Supreme Deity - him _Bhagavān_ approaches soon, O Poushkara."
+"He who [^f103] has faith in His form that is eternal and in His being the Supreme Deity - him Bhagavān approaches soon, O Poushkara."
 
 [^f103]: Paushkara Samhita
 
@@ -235,7 +235,7 @@ _Bhagavān_ should be thought of, also, as having a transcendent, super sensuous
 
 [^f106]: Mahābhārata: Śāntiparva: 206-60
 
-“His form [^f107] is not constituted of _prakṛti_ or matter nor formed of flesh, lymph or bone."
+“His form [^f107] is not constituted of prakṛti or matter nor formed of flesh, lymph or bone."
 
 [^f107]: Varāhapurāṇa: 31-40
 
@@ -263,33 +263,33 @@ _Bhagavān_ should be thought of, also, as having a transcendent, super sensuous
 
 [^f113]: Viṣṇupurāṇam: 1-22-32
 
-From the _Pāñcarātra_ śāstra  (Bhagavat śāstra), it is learnt that this form of the Lord is of five kinds (1) The Supreme (_Para_ _Vāsudeva_ ), (2) _Vyūha_ (_Vāsudeva_, _Saṅkarṣaṇa_, Aniruddha and Pradyumna), (3) _Vibhava_ (avatārs like Rāma and Kṛṣṇa), (4) [^f114] Hārda[^25] and (5) _arcā_ (images worshipped in temples).
+From the Pāñcarātra śāstra  (Bhagavat śāstra), it is learnt that this form of the Lord is of five kinds (1) The Supreme (Para Vāsudeva ), (2) Vyūha (Vāsudeva, Saṅkarṣaṇa, Aniruddha and Pradyumna), (3) Vibhava (avatārs like Rāma and Kṛṣṇa), (4) [^f114] Hārda[^25] and (5) arcā (images worshipped in temples).
 
-[^f114]: Harda is an aprakrita form of the Lord present in the human heart, like the _arcā_ in temples.*
+[^f114]: Harda is an aprakrita form of the Lord present in the human heart, like the arcā in temples.*
 
-[^25]: Harda is an aprakrita form of the Lord present in the human heart, like the _arcā_ in temples
+[^25]: Harda is an aprakrita form of the Lord present in the human heart, like the arcā in temples
 
-Details concerning them may be learnt from the _Pāñcarātra_ śāstra  and from tradition. _Bhagavān_ should also be considered as having endless glories or possessions (_Vibhūti_). For there are passages like the following which describe His _vibhūti_s
+Details concerning them may be learnt from the Pāñcarātra śāstra  and from tradition. Bhagavān should also be considered as having endless glories or possessions (Vibhūti). For there are passages like the following which describe His vibhūtis
 
-THE _VIBHŪTI_S OF BHAGAVĀN: LILÃ AND BHOGA:
+THE VIBHŪTIS OF BHAGAVĀN: LILÃ AND BHOGA:
 
-"These [^f115] are the vibhūtis (glories) of Viṣṇu  (i. e.) _Brahma_, Manu and others, time and all beings. "
+"These [^f115] are the vibhūtis (glories) of Viṣṇu  (i. e.) Brahma, Manu and others, time and all beings. "
 
 [^f115]: Viṣṇupurāṇa:
 
-"He has, for [^f116] His abode, the region of eternal glory called Mahā _vibhūti_.
+"He has, for [^f116] His abode, the region of eternal glory called Mahā vibhūti.
 
 [^f116]: Viṣṇupurāṇa :5-1-50
 
-" There is [^f117] no end, O mighty warrior, to my divine glories" (vibhūtis). These ideas are concisely expressed in the _śloka_  :
+" There is [^f117] no end, O mighty warrior, to my divine glories" (vibhūtis). These ideas are concisely expressed in the śloka  :
 
 [^f117]: Bhagavadgītā: 10-40
 
-“The [^f118] anda of the Universe and whatever else is found within that anda are His _vibhūti_s."
+“The [^f118] anda of the Universe and whatever else is found within that anda are His vibhūtis."
 
 [^f118]: Alavandar Stotram: 17
 
-These vibhūtis (possessions or glories) of God are of two kinds, sentient and non-sentient, and these again are of two kinds, some existing for His _Līlā_ or sport and others for His enjoyment (bhoga). This division into things for play (_līlā_) and things for enjoyment (bhoga) is based on the difference in the rasa or delectation, though all  of them have agreeableness (or ānukulyam) in common. _Bhagavān_ should be considered as being engaged in the work of the Universe merely for His play or sport (_līlā_), for it has been said as follows:
+These vibhūtis (possessions or glories) of God are of two kinds, sentient and non-sentient, and these again are of two kinds, some existing for His Līlā or sport and others for His enjoyment (bhoga). This division into things for play (līlā) and things for enjoyment (bhoga) is based on the difference in the rasa or delectation, though all  of them have agreeableness (or ānukulyam) in common. Bhagavān should be considered as being engaged in the work of the Universe merely for His play or sport (līlā), for it has been said as follows:
 
 " From [^f119] whom is the origin etc. of this world"
 
@@ -313,7 +313,7 @@ These vibhūtis (possessions or glories) of God are of two kinds, sentient and n
 
 sport."
 
-“ All  [^f124] this is merely for play (on the part of _Brahman_) as in the world (kings play with balls).
+“ All  [^f124] this is merely for play (on the part of Brahman) as in the world (kings play with balls).
 
 [^f124]: Brahmasutras: 2-1-33
 
@@ -321,78 +321,78 @@ sport."
 
 [^f125]: This summarises Prapya (i.c.) the object of attainment, viz. Brahman*
 
-Thus _Brahman_, the object of attainment, is ever with Lakṣmī : He is infinite _jñāna_ and infinite bliss, and is opposed to all that is imperfect and objectionable. He is possessed of countless auspicious qualities like wisdom and power. He has a celestial and transcendent form of auspicious nature. He has two vibhūtis (_līlā_ and _nitya_ ) which are His body; He has, for His play or sport (_līlā_), the work of creating the world, of maintaining and controlling it and the like.
+Thus Brahman, the object of attainment, is ever with Lakṣmī : He is infinite jñāna and infinite bliss, and is opposed to all that is imperfect and objectionable. He is possessed of countless auspicious qualities like wisdom and power. He has a celestial and transcendent form of auspicious nature. He has two vibhūtis (līlā and nitya ) which are His body; He has, for His play or sport (līlā), the work of creating the world, of maintaining and controlling it and the like.
 
 [^26]: This summarises Prapya (i.c.) the object of attainment, viz. Brahman
 
 THE NATURE OF THE INDIVIDUAL SELF:
 
-Now for the individual self (Pratyak ātmā) which is to attain _Brahman_ :
+Now for the individual self (Pratyak ātmā) which is to attain Brahman :
 
-We should know that the individual self is in three categories : Baddha or those who are in the bondage of _samsāra_, Mukta, or those who have attained release from _samsāra_ and _Nitya_ or those who are eternally free from bondage. The seeker after salvation should also know the peculiar features which distinguish him as a seeker of the means of _mukti_, from other baddhas.
+We should know that the individual self is in three categories : Baddha or those who are in the bondage of samsāra, Mukta, or those who have attained release from samsāra and Nitya or those who are eternally free from bondage. The seeker after salvation should also know the peculiar features which distinguish him as a seeker of the means of mukti, from other baddhas.
 
-The baddhas (or the bound) are those caught up in the cycle of births and deaths owing to the stream of beginningless _karma_. They range from _Brahma_ to the blade of grass and are called kshetrajnāh. (_Brahma_, gods, men, beasts, trees, grass and so on ).
+The baddhas (or the bound) are those caught up in the cycle of births and deaths owing to the stream of beginningless karma. They range from Brahma to the blade of grass and are called kshetrajnāh. (Brahma, gods, men, beasts, trees, grass and so on ).
 
-The muktās (or released souls) are those who, by adopting the means (_upāya_ ) prescribed in the śāstras, have obtained the Lord's grace, permanently transcended the cycle of births and deaths, and have obtained unsurpassed bliss as a result of the unrestricted enjoyment of _Bhagavān_.
+The muktās (or released souls) are those who, by adopting the means (upāya ) prescribed in the śāstras, have obtained the Lord's grace, permanently transcended the cycle of births and deaths, and have obtained unsurpassed bliss as a result of the unrestricted enjoyment of Bhagavān.
 
-The nityās (the eternally free) are those whose knowledge has never undergone contraction and who are, in this respect, like _Iśvara_ Himself. "They [^27] are", it has been said, " of the same age as the Lord, eternal and free from all trace of imperfections," They have never been in _samsāra_ and are engaged in eternal service to the Lord e.g. Ananta (i.e.) Adi_śeṣa_, Garuḍa and Viṣvaksena.
+The nityās (the eternally free) are those whose knowledge has never undergone contraction and who are, in this respect, like Iśvara Himself. "They [^27] are", it has been said, " of the same age as the Lord, eternal and free from all trace of imperfections," They have never been in samsāra and are engaged in eternal service to the Lord e.g. Ananta (i.e.) Adiśeṣa, Garuḍa and Viṣvaksena.
 
 [^27]: has never undergone contraction
 
-The characteristic attributes common to all the three of them are being atomic (in size) (aṇ u) and being of the nature of knowledge (_jñāna_), bliss (ānanda), purity (amalatvam) and the like. They are all _śeṣa_s to _Bhagavān_ and are entirely subject to His will. One should also understand what is distinctive and peculiar to one as a _mumukṣu_ or seeker after salvation. This has been (already) mentioned in the Introductory Chapter and will be described later on also.
+The characteristic attributes common to all the three of them are being atomic (in size) (aṇ u) and being of the nature of knowledge (jñāna), bliss (ānanda), purity (amalatvam) and the like. They are all śeṣas to Bhagavān and are entirely subject to His will. One should also understand what is distinctive and peculiar to one as a mumukṣu or seeker after salvation. This has been (already) mentioned in the Introductory Chapter and will be described later on also.
 
-The essential nature of the _jīva_ who seeks attainment should be thought of, while considering the letter m in om and in _namas_ or _namo_ in Tiru_mantra_, and in the part nāra of the word Nārāyaṇa, wherever it occurs in the aṣṭākṣara and the _Dvayam_, in the first person singular form " I seek refuge" prapadye in _Dvayam_, in the second person singular of the word " thyself" in "surrender thyself" (vraja) and in the word thee (tva) and in the sentence " despair not" in the caramaśloka .
+The essential nature of the jīva who seeks attainment should be thought of, while considering the letter m in om and in namas or namo in Tirumantra, and in the part nāra of the word Nārāyaṇa, wherever it occurs in the aṣṭākṣara and the Dvayam, in the first person singular form " I seek refuge" prapadye in Dvayam, in the second person singular of the word " thyself" in "surrender thyself" (vraja) and in the word thee (tva) and in the sentence " despair not" in the caramaśloka .
 
 THE MEANS OF ATTAINMENT.
 
-We will describe at length the means of attainment (_upāya_) and its auxiliaries and also the nature of the fruit to be attained in their proper context later.
+We will describe at length the means of attainment (upāya) and its auxiliaries and also the nature of the fruit to be attained in their proper context later.
 
-Among these two, the _upāya_ or means of attainment is to be considered as indicated in Tiru_mantra_ in the word _namas_ or _namo_ and in the part ayana (resting place). in Nārāyanāya ; in _Dvayam_ in the first part and in the _Carama_ _śloka_ in the first half.
+Among these two, the upāya or means of attainment is to be considered as indicated in Tirumantra in the word namas or namo and in the part ayana (resting place). in Nārāyanāya ; in Dvayam in the first part and in the Carama śloka in the first half.
 
 THE FIVE THINGS TO BE KNOWN
 
 THE GOAL OF ATTAINMENT.
 
-The Nature of the fruit to be attained or enjoyed is mentioned in the dative or fourth case (i.e) in Nārāyaṇāya in the Tiru_mantra_, in the word namah in the _Dvaya_, and in the _carama_ _śloka_ in the words "I will free thee from all sins."
+The Nature of the fruit to be attained or enjoyed is mentioned in the dative or fourth case (i.e) in Nārāyaṇāya in the Tirumantra, in the word namah in the Dvaya, and in the carama śloka in the words "I will free thee from all sins."
 
 THE HINDRANCE TO ATTAINMENT,
 
-The hindrances to the attainment are the multitude of obstacles that stand in the way of our attaining _mokṣa_ , such as ignorance (_avidyā_), _karma_ and vāsana or impression left in the mind by _karma_ in previous births,
+The hindrances to the attainment are the multitude of obstacles that stand in the way of our attaining mokṣa , such as ignorance (avidyā), karma and vāsana or impression left in the mind by karma in previous births,
 
-The foremost of these hindrances is the punishment inflicted by _Bhagavān_ for disobedience of His orders continually from time immemorial. This chastisement causes association with _prakṛti_ or matter with its three qualities (sattva, rajas and tamas) and thereby contraction of knowledge. It brings about a connection between the soul on the one hand, and the body, the senses and the like which are specific modifications of matter (or _prakṛti_) on the other. Further it makes the _jīva_ subject to the sway of the body and the senses. To quote the words of the Alwar, “With the strong ropes of my sins, Thou hast bound me tightly with the body, covered the sores within the body (like flesh, fat and blood) with the skin and let me walk away from Thee." "With [^f127] the body given by Thee at the time of creation, I have been wandering about to the satisfaction of the body." This chastisement often consists in placing the _jīva_ in the body of animals which can have no knowledge of the _Śāstra_s and cannot act in accordance with them. Even in births like those of men, it confounds the mind with the views of infidels and heretics and, even in the case of those who escape this, causes, through the concealing agency of the peacock feather of primal matter (moola-_prakṛti_) and its modifications, the bodies and the senses, (1) ignorance
+The foremost of these hindrances is the punishment inflicted by Bhagavān for disobedience of His orders continually from time immemorial. This chastisement causes association with prakṛti or matter with its three qualities (sattva, rajas and tamas) and thereby contraction of knowledge. It brings about a connection between the soul on the one hand, and the body, the senses and the like which are specific modifications of matter (or prakṛti) on the other. Further it makes the jīva subject to the sway of the body and the senses. To quote the words of the Alwar, “With the strong ropes of my sins, Thou hast bound me tightly with the body, covered the sores within the body (like flesh, fat and blood) with the skin and let me walk away from Thee." "With [^f127] the body given by Thee at the time of creation, I have been wandering about to the satisfaction of the body." This chastisement often consists in placing the jīva in the body of animals which can have no knowledge of the Śāstras and cannot act in accordance with them. Even in births like those of men, it confounds the mind with the views of infidels and heretics and, even in the case of those who escape this, causes, through the concealing agency of the peacock feather of primal matter (moola-prakṛti) and its modifications, the bodies and the senses, (1) ignorance
 
 [^f127]: Tiruvoymozhi: 3-2-1
 
-of the truth and (2) erroneous knowledge and so also (3) subjection to sense-pleasures. As Śrī_Rāmānuja_ says, "This [^f128] (association with matter) causes obscuration of a knowledge of the essential nature of _Bhagavān_ and also false knowledge. Besides it makes the _jīva_ think that this association is delightful." As a consequence of this, it induces the _jīva_ to disobey His orders and do forbidden things for the sake of petty pleasures. To quote again the words of the Alwar: "Is it [^f129] right on Thy part to  confound my soul and excite my five senses by showing me, who am a sinner, all sorts of petty pleasures?" One act of disobedience leads to further acts of sin. Well has it been said, "Sin "committed again and again destroys wisdom and the man without wisdom begins further acts of a sinful nature." In consequence the Lord makes the _jīva_ wander again and again through the cycle of life in the womb, birth, old age, death, and hell, as stated by Himself, "I throw them always into asuric births" By means of the scriptures of those who are actuated by rajas and tamas, which show the way to secure petty pleasures, the _jīva_ is made to fall at the feet of petty deities who are themselves souls ( kshetrajna) fettered with similar chains. “Those who are actuated by rajas" it has been declared, “worship Yakshas and Rākṣasas ; and those who are actuated by tamas worship the spirits of the dead and elemental spirits ( Bhūtagana)". The _jīva_ is deluded into considering himself as greatly benefited by the mean and gruesome enjoyments afforded by these deities in the same way as worms find pleasure in dirt and filth.
+of the truth and (2) erroneous knowledge and so also (3) subjection to sense-pleasures. As ŚrīRāmānuja says, "This [^f128] (association with matter) causes obscuration of a knowledge of the essential nature of Bhagavān and also false knowledge. Besides it makes the jīva think that this association is delightful." As a consequence of this, it induces the jīva to disobey His orders and do forbidden things for the sake of petty pleasures. To quote again the words of the Alwar: "Is it [^f129] right on Thy part to  confound my soul and excite my five senses by showing me, who am a sinner, all sorts of petty pleasures?" One act of disobedience leads to further acts of sin. Well has it been said, "Sin "committed again and again destroys wisdom and the man without wisdom begins further acts of a sinful nature." In consequence the Lord makes the jīva wander again and again through the cycle of life in the womb, birth, old age, death, and hell, as stated by Himself, "I throw them always into asuric births" By means of the scriptures of those who are actuated by rajas and tamas, which show the way to secure petty pleasures, the jīva is made to fall at the feet of petty deities who are themselves souls ( kshetrajna) fettered with similar chains. “Those who are actuated by rajas" it has been declared, “worship Yakshas and Rākṣasas ; and those who are actuated by tamas worship the spirits of the dead and elemental spirits ( Bhūtagana)". The jīva is deluded into considering himself as greatly benefited by the mean and gruesome enjoyments afforded by these deities in the same way as worms find pleasure in dirt and filth.
 
 [^f128]: Sri Rāmānuja: Periya Gadyam
 
 [^f129]: Tiruvoymozhi: 6-9-9
 
-Even those who practise _yoga_ are made to practise it in connection with petty deities or in the meditations of such inanimate things as [^f130] nāma[^28] being _Brahman_ and are made to fall therefrom in the acquisition of minor results. Even those who are devoted to the soul or ātmā are made to meditate on their ātmā either in contact with matter or as separated from matter either as if it were _Brahman_ or as the atma in its own essential nature. As the result of these four kinds of meditation, the _jīva_ obtains petty enjoyments after which he falls back into _samsāra_. Even in the case of those who practise true meditation on _Brahman_, and who meditate primarily on their own selves as having _Brahman_ for their inner self or who think primarily of _Brahman_ who has for His body their own selves - even they may be detained by the state of kaivalya or the enjoyment of their own selves, by the attainment of the [^f131] eight kinds[^29] of siddhi, by the attainment of the status of the vasus, or by the entrance into the body of _Brahma_ and the like. Their (temporary) lapse from the highest aim or goal of life (namely, the enjoyment of the bliss of _Brahman_) is like that of a prince, whose coronation day has been already fixed, casting eyes on the servant maids who attended on hini while in prison. They are made to linger fondly over the body and the senses which are the result of past _karma_ and those that are related to the body (like relatives) and the enjoyments connected with them. In this way they become subject to other pleasures than the final goal. Thus there are many forms of hindrance in the way of the attainment of _Bhagavān_. When a well thirty-two steps wide has to be leaped over, it makes no difference whether the man falls at the very first step or at the thirty-second step. In the same way wherever or at whatever stage the hindrance occurs, the _jīva_ has not transcended _samsāra_.
+Even those who practise yoga are made to practise it in connection with petty deities or in the meditations of such inanimate things as [^f130] nāma[^28] being Brahman and are made to fall therefrom in the acquisition of minor results. Even those who are devoted to the soul or ātmā are made to meditate on their ātmā either in contact with matter or as separated from matter either as if it were Brahman or as the atma in its own essential nature. As the result of these four kinds of meditation, the jīva obtains petty enjoyments after which he falls back into samsāra. Even in the case of those who practise true meditation on Brahman, and who meditate primarily on their own selves as having Brahman for their inner self or who think primarily of Brahman who has for His body their own selves - even they may be detained by the state of kaivalya or the enjoyment of their own selves, by the attainment of the [^f131] eight kinds[^29] of siddhi, by the attainment of the status of the vasus, or by the entrance into the body of Brahma and the like. Their (temporary) lapse from the highest aim or goal of life (namely, the enjoyment of the bliss of Brahman) is like that of a prince, whose coronation day has been already fixed, casting eyes on the servant maids who attended on hini while in prison. They are made to linger fondly over the body and the senses which are the result of past karma and those that are related to the body (like relatives) and the enjoyments connected with them. In this way they become subject to other pleasures than the final goal. Thus there are many forms of hindrance in the way of the attainment of Bhagavān. When a well thirty-two steps wide has to be leaped over, it makes no difference whether the man falls at the very first step or at the thirty-second step. In the same way wherever or at whatever stage the hindrance occurs, the jīva has not transcended samsāra.
 
-[^f130]:  In the Chandogya upanishad VII chapter, it is stated as follows:- He who worships nama or names like rig veda, sama veda, _Itihāsa_ and purāṇa as if they were Brahman will realise only very limited fruits such as can be reached with these names".*
+[^f130]:  In the Chandogya upanishad VII chapter, it is stated as follows:- He who worships nama or names like rig veda, sama veda, Itihāsa and purāṇa as if they were Brahman will realise only very limited fruits such as can be reached with these names".*
 
 [^f131]: The eight kinds of siddhi: Aṇimā (contraction of one's body to the size of an atom, mahima (assuming a huge form) Laghimā (making one's body light) Garimā (making the body heavy), vaśitvam (mastery over self), aiśvaryam (lordship) prāpti the power of obtaining whatever one wants and prākāmyam (perfect freedom of the will.)*
 
-[^28]: <sup>] </sup> In the Chandogya upanishad VII chapter, it is stated as follows:- He who worships nama or names like rig veda, sama veda, _Itihāsa_ and purāṇa as if they were Brahman will realise only very limited fruits such
+[^28]: <sup>] </sup> In the Chandogya upanishad VII chapter, it is stated as follows:- He who worships nama or names like rig veda, sama veda, Itihāsa and purāṇa as if they were Brahman will realise only very limited fruits such
 as can be reached with these names".
 
 [^29]: The eight kinds of siddhi: Aṇimā (contraction of one's body to the size of an atom, mahima (assuming a huge form) Laghimā (making one's body light) Garimā (making the body heavy), vaśitvam (mastery over self), aiśvaryam (lordship) prāpti the power of obtaining whatever one wants and prākāmyam (perfect freedom of the will.)
 
-It is true the Gītā says that for those who practise karmayoga, the effort will never perish or be in vain. What has been built up will, of course, remain built up, as it were, of stone, But we cannot say when the fruit will be attained, whether at the end of a kalpa or of a manvantara or of a yuga. Even sages like Vasiṣṭa, who ever acted in such a manner as to please God, had to wait long. Those who acted against the will of God like Vritra and Kshatrabandhu attained _mokṣa_  without any such delay. So it is difficult to say which individuals have done meritorious deeds that would lead to _mokṣa_  without delay. Similarly it is difficult to state who have done bad deeds leading to divine chastisement causing delay.
+It is true the Gītā says that for those who practise karmayoga, the effort will never perish or be in vain. What has been built up will, of course, remain built up, as it were, of stone, But we cannot say when the fruit will be attained, whether at the end of a kalpa or of a manvantara or of a yuga. Even sages like Vasiṣṭa, who ever acted in such a manner as to please God, had to wait long. Those who acted against the will of God like Vritra and Kshatrabandhu attained mokṣa  without any such delay. So it is difficult to say which individuals have done meritorious deeds that would lead to mokṣa  without delay. Similarly it is difficult to state who have done bad deeds leading to divine chastisement causing delay.
 
 SARAŅĀGATI THE ONLY MEANS OF GETTING RID OF
 
 THESE HINDRANCES:
 
-How can this chief hindrance which is of the nature of divine punishment resulting from disobedience of the Lord's commands and which is the root cause of this chain of suffering-how can this be removed? The author of Śrī Bhāṣya (Śrī Rāmānuja) has declared that the only remedy for this hindrance is to obtain the favour of the Lord and that this can be done only by _Śaraṇāgati_ or self-surrender to the [^f132] Lord. This declaration is made by him, while commenting on the order in which the senses, the mind and the like have to be controlled as stated in Kaṭha upanishad[^f133] .
+How can this chief hindrance which is of the nature of divine punishment resulting from disobedience of the Lord's commands and which is the root cause of this chain of suffering-how can this be removed? The author of Śrī Bhāṣya (Śrī Rāmānuja) has declared that the only remedy for this hindrance is to obtain the favour of the Lord and that this can be done only by Śaraṇāgati or self-surrender to the [^f132] Lord. This declaration is made by him, while commenting on the order in which the senses, the mind and the like have to be controlled as stated in Kaṭha upanishad[^f133] .
 
 [^f132]: Bhagavadgītā: 2-40
 
 [^f133]: Śrī Bhāṣya: 1-4-1
 
-All these hindrances to _mokṣa_  are to be understood in whatever is contrary to what is ordained in the three mysteries (_mantra_s) (e. g. the feeling that the _jīva_ is independent and acts for his own purposes which is opposed to the truths shown in the aṣṭākṣara), in the egoism, or sense of 'my' or 'mine' in the genitive mama in namah (na + mama) and also in the words ‘all thy sins' in the _carama_ _śloka_ . These have to be thought of, so that one may feel the suffering which lies in walking on the hot sands of _samsāra_ and desire to hasten towards the path leading to bliss.
+All these hindrances to mokṣa  are to be understood in whatever is contrary to what is ordained in the three mysteries (mantras) (e. g. the feeling that the jīva is independent and acts for his own purposes which is opposed to the truths shown in the aṣṭākṣara), in the egoism, or sense of 'my' or 'mine' in the genitive mama in namah (na + mama) and also in the words ‘all thy sins' in the carama śloka . These have to be thought of, so that one may feel the suffering which lies in walking on the hot sands of samsāra and desire to hasten towards the path leading to bliss.
 
 <details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
@@ -410,7 +410,7 @@ All these hindrances to _mokṣa_  are to be understood in whatever is contrary 
 इरुळॊण्ड्रिलावगै ऎन्मनन्देऱ इयम्बिनरे. // 11 //
 </details>
 
-Those who know these five have declared them in order that I may not despair in mind and in order that the darkness of ignorance may not confound me- the five namely - the Lord of the lotus-born Lakṣmī , who stands as the one thing to be attained, the _jīva_ who loves the lord and craves for His grace by seeking His feet, the means (or _upāya_) to be adopted by the _jīva_ for the attainment, and the fruit resulting therefrom, as also the strong fetters of sin due to delusion or ignorance (which are hindrances).
+Those who know these five have declared them in order that I may not despair in mind and in order that the darkness of ignorance may not confound me- the five namely - the Lord of the lotus-born Lakṣmī , who stands as the one thing to be attained, the jīva who loves the lord and craves for His grace by seeking His feet, the means (or upāya) to be adopted by the jīva for the attainment, and the fruit resulting therefrom, as also the strong fetters of sin due to delusion or ignorance (which are hindrances).
 
 <details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
@@ -428,7 +428,7 @@ Those who know these five have declared them in order that I may not despair in 
 सेतुस्संप्रति शेषि-दंपति-भरन्यासस्तु मे शिष्यते ॥१३॥
 </details>
 
-That which is to be attained is the Supreme _Brahman_ who is the _śeṣī_ of all; I am also a fit person to attain Him; the attain. ment should come to me as inheritance due naturally to me as to the Sūris; alas, by ny egoism and the ignorance arising from it, I have lost it, but I have been taught that, by surrendering myself to the divine couple who are my _śeṣī_s, I can now attain it.
+That which is to be attained is the Supreme Brahman who is the śeṣī of all; I am also a fit person to attain Him; the attain. ment should come to me as inheritance due naturally to me as to the Sūris; alas, by ny egoism and the ignorance arising from it, I have lost it, but I have been taught that, by surrendering myself to the divine couple who are my śeṣīs, I can now attain it.
 
 इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु श्रीमद्रहस्यत्रयसारे अर्थपञ्चकाधिकारश्चतुर्थः ॥  
 श्रीमते निगमान्तमहादेशिकाय नमः ॥

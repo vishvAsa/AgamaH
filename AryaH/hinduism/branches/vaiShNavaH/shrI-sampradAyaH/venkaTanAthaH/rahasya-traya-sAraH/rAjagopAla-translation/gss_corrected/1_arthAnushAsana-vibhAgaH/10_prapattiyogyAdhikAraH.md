@@ -7,7 +7,7 @@ title = "१० प्रपत्तियोग्याधिकारः"
 ॥ श्रीमते निगमान्तमहादेशिकाय नमः ॥  
 ॥ श्रीमद्रहस्यत्रयसारे प्रपत्तियोग्याधिकारः ॥ १० ॥
 
-(10) THE CHAPTER ON FITNESS FOR _PRAPATTI_. page170
+(10) THE CHAPTER ON FITNESS FOR PRAPATTI. page170
 
 <details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
@@ -25,33 +25,33 @@ title = "१० प्रपत्तियोग्याधिकारः"
 सत्यादिष्विव नैगमेष्वधिकृतिस्सर्वास्पदे सत्पथे ॥ २४ ॥
 </details>
 
-Fitness (for _Bhakti_ or _Prapatti_) consists in a combination of desire (for the fruits of a course of action and of ability which is threefold[^50] . This fitness of man is differentiated as consisting in conditions prescribed for the _yoga_ of eight _aṅga_s or auxiliaries (_bhakti_ _yoga_) and for the _yoga_ of six _aṅga_s or auxiliaries (_prapatti_). That _Bhagavān_ is the refuge or Saviour of all has been declared in the _śruti_  and confirmed in the _smṛti_s। In adopting this righteous path viz., _prapatti_, there is competence for all as in the matter of speaking the truth and such other injunctions as are ordained in the Vedas (for all men , without any difference of caste or _āśrama_).
+Fitness (for Bhakti or Prapatti) consists in a combination of desire (for the fruits of a course of action and of ability which is threefold[^50] . This fitness of man is differentiated as consisting in conditions prescribed for the yoga of eight aṅgas or auxiliaries (bhakti yoga) and for the yoga of six aṅgas or auxiliaries (prapatti). That Bhagavān is the refuge or Saviour of all has been declared in the śruti  and confirmed in the smṛtis। In adopting this righteous path viz., prapatti, there is competence for all as in the matter of speaking the truth and such other injunctions as are ordained in the Vedas (for all men , without any difference of caste or āśrama).
 
 [^50]: 1: Ability which is threefold - The ability to understand the meaning of śāstra s: the ability to perform what is ordained in them and the competence as laid down in the śāstra s according to caste, qualities and the like.
 
-(Those who are not of the three higher castes are prohibited from the performance of certain rites and duties ordained in the _śruti_ s, but this prohibition does not apply to such injunctions as "speak the truth ", and " look upon your mother as divine" etc. which are also ordained in the Vedas. So also _prapatti_, though prescribed in the Vedas, is open to all castes ).
+(Those who are not of the three higher castes are prohibited from the performance of certain rites and duties ordained in the śruti s, but this prohibition does not apply to such injunctions as "speak the truth ", and " look upon your mother as divine" etc. which are also ordained in the Vedas. So also prapatti, though prescribed in the Vedas, is open to all castes ).
 
-010 2:- _Bhakti_ Yoga: _Bhakti_ Yoga is called the aṣṭāṅga _yoga_, because its eight _aṅga_s are yama, _niyama_, etc. _Prapatti_ is called ṣaḍaṅga _yoga_, because its six _aṅga_s are such as anukulya _saṅkalpa_, prathikulya varjanam, mahāviśvāsam, _ākiñcanya_m, etc., to be described later,
+010 2:- Bhakti Yoga: Bhakti Yoga is called the aṣṭāṅga yoga, because its eight aṅgas are yama, niyama, etc. Prapatti is called ṣaḍaṅga yoga, because its six aṅgas are such as anukulya saṅkalpa, prathikulya varjanam, mahāviśvāsam, ākiñcanyam, etc., to be described later,
 
 THE MEANING OF COMPETENCY OR ADHIKĀRA:
 
-It is necessary that one should know the special qualifications and the like required in a person who intends to adopt _nyāsa_ _vidyā_ (_prapatti_) without any desire for the other _upāya_s in the quest for the goal that is desired. Competency (_adhikāra_ ) consists in
+It is necessary that one should know the special qualifications and the like required in a person who intends to adopt nyāsa vidyā (prapatti) without any desire for the other upāyas in the quest for the goal that is desired. Competency (adhikāra ) consists in
 
-the attribute of desiring the end on the part of the person who adopts an _upāya_ for the sake of a certain desired result and also ability to adopt it. Ability means the capacity to understand the meaning of the _śāstra_s and the capacity to perform what is ordained therein and, likewise, fitness or competency in accordance with what is prescribed in the _śāstra_s, such as, caste, quality and the like (āchāra - samskāra). This competency exists already (before the adoption of the _upāya_). To the man who has this competency, what is stated to be the object to be obtained by the means, is the desired result or fruit. _Upāya_ is the means prescribed or ordained for securing that fruit or result. The person who has become desirous of _mukti_ (_mumukṣu_) and who adopts the special _upāya_ for _mokṣa_  called direct and independent _prapatti_ should have, in common with the upāsaka ( who has adopted _bhakti_), a knowledge obtained from the _Śāstra_s of such things as the relationship (between _Jīvātmā_ and Paramatma as that between the body and the soul) and he should have in addition, the special qualifications of _ākiñcanya_ and _ananyagatitva_ ; _ākiñcanya_ means the absence (in a person) of the ability for other _upāya_s. Ananyagatitvam means an aversion to all other interests (than _mokṣa_) and a turning away from all other refuge than _Bhagavān_. The latter is implicit in the former, namely, aversion to all other interests. This may be seen from such passages as the following :-"Wise men never worship _Brahma_, Rudra and others who are called gods, for the boons that they could grant are limited."
+the attribute of desiring the end on the part of the person who adopts an upāya for the sake of a certain desired result and also ability to adopt it. Ability means the capacity to understand the meaning of the śāstras and the capacity to perform what is ordained therein and, likewise, fitness or competency in accordance with what is prescribed in the śāstras, such as, caste, quality and the like (āchāra - samskāra). This competency exists already (before the adoption of the upāya). To the man who has this competency, what is stated to be the object to be obtained by the means, is the desired result or fruit. Upāya is the means prescribed or ordained for securing that fruit or result. The person who has become desirous of mukti (mumukṣu) and who adopts the special upāya for mokṣa  called direct and independent prapatti should have, in common with the upāsaka ( who has adopted bhakti), a knowledge obtained from the Śāstras of such things as the relationship (between Jīvātmā and Paramatma as that between the body and the soul) and he should have in addition, the special qualifications of ākiñcanya and ananyagatitva ; ākiñcanya means the absence (in a person) of the ability for other upāyas. Ananyagatitvam means an aversion to all other interests (than mokṣa) and a turning away from all other refuge than Bhagavān. The latter is implicit in the former, namely, aversion to all other interests. This may be seen from such passages as the following :-"Wise men never worship Brahma, Rudra and others who are called gods, for the boons that they could grant are limited."
 
-If, without an eager and impatient desire for immediate _mokṣa_, a person who wants such things as the continuance of the body (or the continuance of the worship of _arcāvatāra_) adopts _prapatti_ for the sake of _mokṣa_ , his _mukti_ will be delayed in proportion to these other interests,
+If, without an eager and impatient desire for immediate mokṣa, a person who wants such things as the continuance of the body (or the continuance of the worship of arcāvatāra) adopts prapatti for the sake of mokṣa , his mukti will be delayed in proportion to these other interests,
 
 ĀKINCHANYA AND ANANYAGATITVA:
 
-_Ākiñcanya_ and _ananyagatitva_ are conditioned by the ignorance of and inability to adopt other _upāya_s on the part of the person adopting this means, as also his inability to endure delay in attaining _mukti_. His turning away from other saviours than _Bhagavān_ is conditioned by his conviction of the absolute dependence on _Bhagavān_ alone, which is common to himself and to others (including other deities than the Lord), as is stated in the _śloka_ : “ Just as, O 'Bharata, tips of grass are entirely subject to (the force of) the wind, even so are all beings subject to the sway of the Lord ", and it is conditioned also by his aversion to other interests than _mukti_,
+Ākiñcanya and ananyagatitva are conditioned by the ignorance of and inability to adopt other upāyas on the part of the person adopting this means, as also his inability to endure delay in attaining mukti. His turning away from other saviours than Bhagavān is conditioned by his conviction of the absolute dependence on Bhagavān alone, which is common to himself and to others (including other deities than the Lord), as is stated in the śloka : “ Just as, O 'Bharata, tips of grass are entirely subject to (the force of) the wind, even so are all beings subject to the sway of the Lord ", and it is conditioned also by his aversion to other interests than mukti,
 
-THE _PRAMĀṆA_S IN SUPPORT :
+THE PRAMĀṆAS IN SUPPORT :
 
-The nature of the specific competency for _prapatti_ is evident from the following authoritative passages and from spiritual tradition : "Having been abandoned by his own father (Indra), the gods and the great sages, he, (i.e.) Kakasura, wandered about the three worlds and finally took refuge under Rāma alone", "I am the abode of all transgressions; I have no means or _upāya_ to save myself and I have nothing else to attain besides Thee"; "I seek" the refuge of Thy feet, O _Śaraṇya_ (Saviour): I have no other _upāya_ and nothing else to attain than Thee": "*Finding that there is no _upāya_ for leaping over _samsāra_ even in all the endless future, etc." : "I, who am aware that there is no _upāya_ for me in all the thousands of crores of kalpas other than performing _prapatti_ at Thy two lotus-like feet", and, “I who have no other refuge and no other saviour etc."
+The nature of the specific competency for prapatti is evident from the following authoritative passages and from spiritual tradition : "Having been abandoned by his own father (Indra), the gods and the great sages, he, (i.e.) Kakasura, wandered about the three worlds and finally took refuge under Rāma alone", "I am the abode of all transgressions; I have no means or upāya to save myself and I have nothing else to attain besides Thee"; "I seek" the refuge of Thy feet, O Śaraṇya (Saviour): I have no other upāya and nothing else to attain than Thee": "*Finding that there is no upāya for leaping over samsāra even in all the endless future, etc." : "I, who am aware that there is no upāya for me in all the thousands of crores of kalpas other than performing prapatti at Thy two lotus-like feet", and, “I who have no other refuge and no other saviour etc."
 
-_PRAPATTI_ IS OPEN TO ALL:
+PRAPATTI IS OPEN TO ALL:
 
-If such qualifications exist, _prapatti_ is certainly open to all as an _upāya_, since there are no restrictions to it such as caste.
+If such qualifications exist, prapatti is certainly open to all as an upāya, since there are no restrictions to it such as caste.
 
 <details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
@@ -69,7 +69,7 @@ If such qualifications exist, _prapatti_ is certainly open to all as an _upāya_
 अन्दमिलादियै यन्बरऱिन्दऱिवित्तनरे. (17)
 </details>
 
-The devotees of the Lord ( _ācārya_ s) have themselves understood and have made us (also ) understand the eternal Lord who is the origin of all things and who is anxious to save us, being full of the might of mercy, so that all persons from the Brahmin to the Caṇḍāla and especially those who feel most the sufferings of _samsāra_ may, in their helplessness and without seeking any other saviour or any other fruit, approach Him and seek refuge under Him.
+The devotees of the Lord ( ācārya s) have themselves understood and have made us (also ) understand the eternal Lord who is the origin of all things and who is anxious to save us, being full of the might of mercy, so that all persons from the Brahmin to the Caṇḍāla and especially those who feel most the sufferings of samsāra may, in their helplessness and without seeking any other saviour or any other fruit, approach Him and seek refuge under Him.
 
 <details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
@@ -87,7 +87,7 @@ The devotees of the Lord ( _ācārya_ s) have themselves understood and have mad
 सन्तः श्रीशं स्वतन्त्रप्रपदनविधिना मुक्तये निर्विशङ्काः ॥ २५ ॥
 </details>
 
-(1) Inability to adopt such _upāya_s as _Bhakti_ _yoga_, (2) ignorance of the required knowledge; (3) prohibition by the _śāstra_s of the adoption of such means and (4) inability to endure any delay in attaining _mukti_ :- these four, occurring either singly[^51] * or in combinations of two, three or four, by virtue of adṛṣṭa (resulting from meritorious deeds performed in the past) are qualifications of varied kinds for the performance of direct and independent _prapatti_ to the Lord of Lakṣmī  and good men resort to it with these qualifications and free from all doubt for the attainment of _mukti_.
+(1) Inability to adopt such upāyas as Bhakti yoga, (2) ignorance of the required knowledge; (3) prohibition by the śāstras of the adoption of such means and (4) inability to endure any delay in attaining mukti :- these four, occurring either singly[^51] * or in combinations of two, three or four, by virtue of adṛṣṭa (resulting from meritorious deeds performed in the past) are qualifications of varied kinds for the performance of direct and independent prapatti to the Lord of Lakṣmī  and good men resort to it with these qualifications and free from all doubt for the attainment of mukti.
 
 [^51]: Those who have only one of these four are of four classes, those who have any two of them are of six, those who have any three are of four and those who have all the four form one.
 
