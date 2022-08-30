@@ -7,12 +7,21 @@ title = "०३ प्रधानप्रतितन्त्राधिक�
 
 3. THE CHAPTER ON THE MOST IMPORTANT AND DISTINCTIVE DOCTRINE THAT IS UNIQUE TO VIŚIṢṬĀDVAITA. page81
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 आधेयत्व-प्रभृति-नियमैरादिकर्तुश्शरीरं  
 सत्ता-स्थेम-प्रयतन-फलेष्वेतदायत्तमेतत् ।  
 विश्वंपश्यन्नितिभगवतिव्यापकादर्शदृष्टे  
 गंभीराणामकृतकगिरां गाहते चित्तवृत्तिम् ॥ १० ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+आधेयत्व-प्रभृति-नियमैरादिकर्तुश्शरीरं  
+सत्ता-स्थेम-प्रयतन-फलेष्वेतदायत्तमेतत् ।  
+विश्वंपश्यन्नितिभगवतिव्यापकादर्शदृष्टे  
+गंभीराणामकृतकगिरां गाहते चित्तवृत्तिम् ॥ १० ॥
+</details>
 
 When _Bhagavān_ is seen in the mirror of the 'vyāpaka[^21]  _mantra_s, which disclose His all-pervasiveness, one will see that the universe (which we perceive with our senses) is absolutely dependent on Him for its existence and continuance and likewise for its activity and the fruit or result arising from it; since the universe is supported and controlled by Him and is also solely for the fulfilment of His purposes, one will understand that it is the body of the Primaeval Creator. By realizing this relationship of the universe being the body of the Creator, one is enabled to reach the heart of the śrutis, which were not composed by any one and which have the deepest significance.
 
@@ -108,12 +117,21 @@ The ordinary relationship of _Śeṣa_ and _śeṣin_ between the _jīva_ and _B
 
 The Lord gave us our existence and is our support (dhāraka) as well; He is also the unconditional Ruler that directs and controls us. There is nothing that does not exist for the fulfilment of his purposes; He is also our Master for whom all things exist; He stands alone with no one to compare with Him. It is the earnest conviction of those who understand the spirit of the Vedas that we are the bodies and the unconditional (or natural) servants of the Lord with the crown of Tulsi leaves (for the Antaryāmi Brāhmana of Brihadaranyaka upanishad states this explicitly.)
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 यद्येतं यतिसार्वभौमकथितं विद्यादविद्यातमः-  
 प्रत्यूषं प्रतितन्त्रमन्तिमयुगे कश्चिद्विपश्चित्तमः ।  
 तत्रैकत्र झटित्युपैति विलयं तत्तन्मतस्थापना-  
 हेवाक-प्रथमान-हैतुक-कथा-कल्लोल-कोलाहलः ॥ ११ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+यद्येतं यतिसार्वभौमकथितं विद्यादविद्यातमः-  
+प्रत्यूषं प्रतितन्त्रमन्तिमयुगे कश्चिद्विपश्चित्तमः ।  
+तत्रैकत्र झटित्युपैति विलयं तत्तन्मतस्थापना-  
+हेवाक-प्रथमान-हैतुक-कथा-कल्लोल-कोलाहलः ॥ ११ ॥
+</details>
 
 If, in the Kali yuga, there is any one supremely wise who can understand this unique and distinctive doctrine of the relationship between _Iśvara_ and the world being that between the soul and the body, which was taught by that sovereign sannyāsin (Śrī _Rāmānuja_) and which is like the dawn that dispels the darkness of ignorance , then in that place where he is, the tumultuous waves of logical disputation arising from the eagerness to establish the truths of other systems will subside at once.
 

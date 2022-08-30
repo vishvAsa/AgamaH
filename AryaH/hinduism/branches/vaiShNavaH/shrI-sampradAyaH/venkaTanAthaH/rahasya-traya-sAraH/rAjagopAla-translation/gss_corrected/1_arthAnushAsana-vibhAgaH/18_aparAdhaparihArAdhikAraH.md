@@ -11,12 +11,21 @@ title = "१८ अपराधपरिहाराधिकारः"
 
 FOR OFFENCES. page235
 
-SANSKRIT _ŚLOKA_ :
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 स्वच्छस्वादुसदावदात सुभगां दैवादयं देहभृन्-  
 मालिन्यप्रशमाय माधवदयामन्दाकिनीं विन्दति ।  
 यद्यप्येवमसावसारविषयस्त्रोतःप्रसूतैः पुनः  
 पङ्कैरेव कळङ्कयन्निजतनुं प्राज्ञैर्न संश्लिष्यते ॥ ४० ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+स्वच्छस्वादुसदावदात सुभगां दैवादयं देहभृन्-  
+मालिन्यप्रशमाय माधवदयामन्दाकिनीं विन्दति ।  
+यद्यप्येवमसावसारविषयस्त्रोतःप्रसूतैः पुनः  
+पङ्कैरेव कळङ्कयन्निजतनुं प्राज्ञैर्न संश्लिष्यते ॥ ४० ॥
+</details>
 
 This embodied being (the _Jīva_  ) obtains the grace of Madhava by the result of past _karma_ (luck), for the removal of his sins -- the grace of Madhava which, by its purity, delightfulness, holiness and efficacy is like the (holy) Mandakini whose waters are clear, sweet, always pure (white) and efficacious. (That is, he becomes a _prapanna_ ). If, in spite of this, he still makes his body unclean by wallowing in the mire of the stream of wretched sense pleasures, his company is avoided by the wise (but this would not stand in the way of his attainment of _mokṣa_ after death).
 
@@ -52,9 +61,15 @@ statement, "I will release you from all sins", since it is qualified by a passag
 
 It is evident from the authority of the following _śloka_  that those who are exclusively devoted to _Bhagavān_ (whether they be bhaktas or prapannas ) will not fall under the sway of Yama : "Whatever may be the family into which they are born, wherever they may live, those who love _Bhagavān_ will never go to the world of Yama." There is general agreement also that the same sin will meet with either heavy or light punishment as its consequence, according to the differences of caste, character and the like. This is also consistent with what obtains in the world in cases like the offences committed by princes.
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 “न प्राग्वद्बुद्धिपूर्वाघे न चात्यन्तमनुग्रहः । लघुर्दण्डः प्रपन्नस्य राजपुत्रापराधवत् ॥ ४०-अ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+“न प्राग्वद्बुद्धिपूर्वाघे न चात्यन्तमनुग्रहः । लघुर्दण्डः प्रपन्नस्य राजपुत्रापराधवत् ॥ ४०-अ ॥
+</details>
 
 In cases of deliberate offence, the punishment is not as severe as before (_prapatti_) nor is there a high degree of grace. To the _prapanna_ the punishment is light as in the case of the sons of kings.
 
@@ -66,9 +81,15 @@ From such episodes as that of Sandili in which even Garuḍa who has been descri
 
 So, in order that one may not lose the grace of God and thereby incur the need for further _prapatti_ or light punishment, a way must be found to root out the possibility of future offences. In general, the root cause of all offences is want of discrimination (aviveka). Of this want of discrimination, the most important is that which causes the delusion that the self is identical with matter (the body ) which is non-sentient and ever subject to modification and has such other qualities and, likewise, the delusion that the individual self has the attributes and qualities which are peculiar to _Iśvara_, such as existing in itself, independence, and not existing for any one but itself. The sharp-edged saw that cuts off this want of discrimination is a clear knowledge of the nature of one's self which is neither redundant nor inadequate.
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 अविवेकप्रभुत्वादेर्निदानस्य निवर्तनात् । अर्थकामापचाराणामयत्नोन्मूलनं भवेत् ॥ ४०-आ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+अविवेकप्रभुत्वादेर्निदानस्य निवर्तनात् । अर्थकामापचाराणामयत्नोन्मूलनं भवेत् ॥ ४०-आ ॥
+</details>
 
 When the cause, namely, the delusion that the self is the body and that the self is independent (of the Lord) and other such delusions disappear, the offences which arise from the desire for wealth and for sense pleasures are (completely) rooted out without any special effort.
 
@@ -88,11 +109,19 @@ Whether a man has offended Bhāgavatas (in this life) or whether some Bhāgavata
 
 The word Brahmin occurring in these ślokas has a special significance, as has been said in the _śloka_ : "He who knows, aright, the truth concerning _Bhagavān_, who is called Viṣṇu  that measured the world ( with His feet) and is also called _Vāsudeva_ he becomes a Brahmin". Even if it is used in its general sense, since the offence to the Brahmin is condemned, much more worthy of condemnation would be the offence to a Bhāgavata or devotee of _Bhagavān_.
 
-SANSKRIT _ŚLOKA_S :
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 अनुतापादुपरमात् प्रायश्चित्तोन्मुखत्वतः । तत्पूरणाच्छापराधास्सर्वे नश्यन्ति पादशः ॥ ४०-इ ॥  
 पूर्वस्मिन्वा परस्मिन्वा कल्पे निर्विण्णचेतसाम् । निवर्त्यतारतम्येऽपि प्रपत्तिर्न विशिष्यते ॥ ४०-ई ॥  
 एवमेव लघूनां वा गुरुणामपि वाऽऽगसां । सकृत् प्रपत्तिरेकैव सद्यः प्रशमकारणम् ॥ ४०-उ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+अनुतापादुपरमात् प्रायश्चित्तोन्मुखत्वतः । तत्पूरणाच्छापराधास्सर्वे नश्यन्ति पादशः ॥ ४०-इ ॥  
+पूर्वस्मिन्वा परस्मिन्वा कल्पे निर्विण्णचेतसाम् । निवर्त्यतारतम्येऽपि प्रपत्तिर्न विशिष्यते ॥ ४०-ई ॥  
+एवमेव लघूनां वा गुरुणामपि वाऽऽगसां । सकृत् प्रपत्तिरेकैव सद्यः प्रशमकारणम् ॥ ४०-उ ॥
+</details>
 
 All sins are destroyed, in four equal parts, by repentance, by abstention, by the endeavour to perform atonement and by the completion of the process of atonement. To those who feel remorse and repentance, whether the _prapatti_ is performed in a previous kalpa or in a later kalpa, there is no difference in the _prapatti_ to be performed although (there is a difference in the nature of sins committed). Similarly whether the sins be serious or venial, the performance of a single _prapatti_ done at a time will completely destroy at once (all sins).
 
@@ -114,12 +143,21 @@ All sins are destroyed, in four equal parts, by repentance, by abstention, by th
 
 Those who dread, at heart, the formidable sins that bear fruit at present and seek refuge at the two lotus-like feet of the Lord who measured the worlds, will be freed from all _karma_ which flourishes like weeds. In order to prevent the occurrence of future offences, the honey-like grace of our Lord prevails over the want of discrimination (aviveka) which gives rise to them.
 
-SANSKRIT _ŚLOKA_.
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 प्रारब्धेतरपूर्वपापमखिलं प्रामादिकञ्चोत्तरं  
 न्यासेन क्षपयन्ननभ्युपगतप्रारब्धखण्डञ्च नः ।  
 धीपूर्वोत्तरपाप्मनामजननाज्जातेऽपि तन्निष्कृतेः  
 कौटिल्ये सति शिक्षयाप्यनघयन् क्रोढीकरोति प्रभुः ॥ ४१ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+प्रारब्धेतरपूर्वपापमखिलं प्रामादिकञ्चोत्तरं  
+न्यासेन क्षपयन्ननभ्युपगतप्रारब्धखण्डञ्च नः ।  
+धीपूर्वोत्तरपाप्मनामजननाज्जातेऽपि तन्निष्कृतेः  
+कौटिल्ये सति शिक्षयाप्यनघयन् क्रोढीकरोति प्रभुः ॥ ४१ ॥
+</details>
 
 The Lord pardons, on account of _prapatti_, all sins committed before _prapatti_ except (some among) those which have begun to bear fruit in this life and also those sins which are committed after _prapatti_ unintentionally. Likewise He pardons ( also) all prārabdha _karma_ except the portion of prārabdha whose consequences he has agreed to bear. In the case of the _prapanna_, it is not at all likely that sins will be committed subsequently with deliberation. Even if such (subsequent ) sins occur, they will be destroyed by atonement; if, on account of wickedness, no atonement is performed, the sins will be expiated by punishment and the Lord will (then) take the _prapanna_ to Himself.
 

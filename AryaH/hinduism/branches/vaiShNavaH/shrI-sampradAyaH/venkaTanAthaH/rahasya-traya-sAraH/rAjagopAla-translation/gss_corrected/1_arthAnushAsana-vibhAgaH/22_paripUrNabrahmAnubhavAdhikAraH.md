@@ -12,12 +12,21 @@ title = "२२ परिपूर्णब्रह्मानुभवाध�
 
 ENJOYMENT OF THE BLISS OF _BRAHMAN_. page274
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 वितमसि पदे लक्ष्मीकान्तं विचित्रविभूतिकं  
 सचिवगमितस्संपद्याविर्भवत्सहजाकृतिः ।  
 स्फुटतदपृथक्सिद्धिस्सिद्ध्यद्गुणाष्टकतत्फलो  
 भजति परमं साम्यं भोगे निवृत्तिकथोज्झितम् ॥ ४८ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+वितमसि पदे लक्ष्मीकान्तं विचित्रविभूतिकं  
+सचिवगमितस्संपद्याविर्भवत्सहजाकृतिः ।  
+स्फुटतदपृथक्सिद्धिस्सिद्ध्यद्गुणाष्टकतत्फलो  
+भजति परमं साम्यं भोगे निवृत्तिकथोज्झितम् ॥ ४८ ॥
+</details>
 
 Led by his guides (archis and others) to the Lord of Lakṣmī  who is possessed of varied glories in the region beyond tamas (i e.) _prakṛti_ and having attained Him, the _mukta_ has his essential nature in full manifestation and realises his inseparable connection with the Lord and as a consequence, acquires the *eight attributes (of freedom from sin and the like. See page _____) and without any question of his returning again (to _samsāra_ ), he attains, in regard to enjoyment, perfect resemblance to the Lord.
 
@@ -57,10 +66,17 @@ Some _jīva_s attain, ia such worlds as those of Viṣṇu , the privilege of li
 
 In this connection, it may be asked why, in one of the passages of the Veda, the two words, sayujya and sārshtitha are employed (in the same sentence ), when they mean the same thing, namely, communion in the enjoyment (would it not be redundant to use two words when one would be enough?). The answer is (that there is a difference in meaning between the two words ), and it is as follows:
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 सायुज्यमुभयोरत्र भोक्तव्यस्याविशिष्टता ।  
 सार्ष्टिता तत्र भोगस्य तारतम्यविहीनता ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+सायुज्यमुभयोरत्र भोक्तव्यस्याविशिष्टता ।  
+सार्ष्टिता तत्र भोगस्य तारतम्यविहीनता ॥
+</details>
 
 Sayujyam between the two (_Brahman_ and the _mukta_) means that there is no difference so far as the objects of enjoyment are concerned : sārshtita (between the two) means that there is no difference in the degree or intensity of their enjoyment. (Two men may have before them the same object of enjoyment and yet one of them may enjoy it more intensely than the other).
 
@@ -112,21 +128,39 @@ If it be so, it may be asked whether the _mukta_  who is not independent (of God
 
 Having reached the dazzling region of Paramapada and approached the Lord crowned with fragrant tulasī, who is ever delighted in doing what is good to all beings, and having obtained our share in service (to them), we shall ever live under the sounding anklets of the assembly of our _ācārya_s and enjoy delights which will never change and which will spring (from within us) to our great joy.
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 अविश्रान्तश्रद्धाशतकलहकल्लोलकलुषा  
 ममाविर्भूयासुर्मनसि मुनिसिद्धादिसुलभाः ।  
 मधुक्षीर न्याय स्वगुणविभवासञ्जनकन-  
 न्महानन्दब्रह्मानुभवपरीवाहा बहुविधाः ॥ ४९ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+अविश्रान्तश्रद्धाशतकलहकल्लोलकलुषा  
+ममाविर्भूयासुर्मनसि मुनिसिद्धादिसुलभाः ।  
+मधुक्षीर न्याय स्वगुणविभवासञ्जनकन-  
+न्महानन्दब्रह्मानुभवपरीवाहा बहुविधाः ॥ ४९ ॥
+</details>
 
 May varied forms of service which are the overflow of the blissful enjoyment of _Brahma_ arising from the greatness of His qualities and glorious possessions which are blended together like honey and milk - may these forms of service in which there is a conflict of hundreds of unwearied desires (to render service ) and which are easy of attainment for such as seers and sūris - may these manifest themselves in my mind!
 
-SANSKRIT _ŚLOKA_: (Summary of Part I)
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 सन्दृष्टस्सारवाग्वित् स्वपर निशितधीस्सङगजिन्नैकसंस्थ  
 स्स्पष्टोपायोऽतिखिन्नस्सपरिकरभरन्यासनिष्पन्नकृत्यः ।  
 स्वावस्थार्हं सपर्याविधिमिह नियतं व्यागसं क्वापि बिभ्र  
 न्निर्मुक्तस्थूलसूक्ष्मप्रकृतिरनुभवत्यच्युतं नित्यमेकः ॥ ५० ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+सन्दृष्टस्सारवाग्वित् स्वपर निशितधीस्सङगजिन्नैकसंस्थ  
+स्स्पष्टोपायोऽतिखिन्नस्सपरिकरभरन्यासनिष्पन्नकृत्यः ।  
+स्वावस्थार्हं सपर्याविधिमिह नियतं व्यागसं क्वापि बिभ्र  
+न्निर्मुक्तस्थूलसूक्ष्मप्रकृतिरनुभवत्यच्युतं नित्यमेकः ॥ ५० ॥
+</details>
 
 [^61] Having received the gracious look of the Lord (and of the _Ācārya_) and understood what is most essential and most important in the śāstras (vis, the three _mantra_s or rahasyas), having obtained a clear and accurate knowledge of his own self and of the Supreme Being and conquered his attachment to other interests in life, having acquired a knowledge of what is appropriate for the different kinds of adhikārīs, and realised the nature of the two _upāya_s (_bhakti_ and _prapatti_), having become troubled (in mind) (at his inability to adopt other _upāya_s) and performed _bharanyāsa_ with all its _aṅga_s and thus done what he ought to do, performing here in this world the adoration of the Lord (and His devotees ) without faults and in accordance with his state or _niṣṭhā_ and in the manner prescribed in the _śāstra_s and having (thereafter) cast off (both ) the gross (sthūla) and subtle prakṛti (body), some one there may be who enjoys _Bhagavān_ eternally.
 

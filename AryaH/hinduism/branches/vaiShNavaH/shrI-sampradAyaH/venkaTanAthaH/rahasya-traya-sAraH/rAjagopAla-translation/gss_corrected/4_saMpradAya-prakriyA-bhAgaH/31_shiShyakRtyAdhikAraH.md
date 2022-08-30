@@ -9,12 +9,21 @@ title = "३१ शिष्यकृत्याधिकारः"
 
 31. THE CHAPTER ON THE DUTIES OF A śiṣya. page633
 
-SANSKRIT _ŚLOKA_ :
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 अशिथिलगुरुभक्तिस्तत्प्रशंसादिशीलः  
 प्रचुरबहुमतिस्तद्वस्तुवास्त्वादिकेऽपि ।  
 गुणवति विनियोक्तुङ्गोपयन् संप्रदायं  
 कृतविदनघवृत्तिः किन्न विन्देन्निधानम् ॥ ७१ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+अशिथिलगुरुभक्तिस्तत्प्रशंसादिशीलः  
+प्रचुरबहुमतिस्तद्वस्तुवास्त्वादिकेऽपि ।  
+गुणवति विनियोक्तुङ्गोपयन् संप्रदायं  
+कृतविदनघवृत्तिः किन्न विन्देन्निधानम् ॥ ७१ ॥
+</details>
 
 The _śiṣya_ or disciple should be staunch in his devotion to the _guru_; he should be intent on doing such things as extending the renown (of his _guru_) (and rendering service to him); he should have the greatest regard for such things as his _guru_'s property and his house, he should guard the spiritual tradition in order to hand it on to another who is worthy; the _śiṣya_ who is grateful and is perfect in his performance (of the ordained rites) is he not sure to attain the treasure (viz.) _Bhagavān_ ?
 
@@ -52,17 +61,31 @@ By the omission to reveal (the former) and the omission to guard (the latter) re
 
 If a man should fail to impart instruction to a worthy _śiṣya_ at the appropriate time, he would be called a miser and incur also the sin of violating the Lord's command contained in the _śloka_ : “One should cast off one's body after imparting one's knowledge of the self to a worthy śiṣya. A man should not die without iniparting to a worthy śiṣya that knowledge which is the cause of the world's being (or which is the cause of the world's knowledge)". Therefore when the king's torch-bearer is commanded by the king to go on a certain mission, he would hand over the torch in his hand to some one who is found fit for it and then start (on his mission). When a man imparts instruction in a similar manner to a pupil who is apt for it, he should first reveal (the greatness of) his _guru_ and then teach the truths taught to him. Even when, owing to some (favourable) circumstances, he has received divine vision and divine auditions and learnt truths with their help, he should express the truth in the following words: - "I learnt this owing to the grace of my great_ācārya_. I am not stating what I learnt by my own cleverness" This is what (Sañjaya), for example, says : "By the graces of Vyasa did I hear, directly, this great Yoga_śāstra_, which _Śrī_ Kṛṣṇa, who has wisdom and other attributes taught in person". If he should say so, the truths that he teaches would be held in high esteem. He would (also) then be esteemed as a grateful _śiṣya_ by sātvikas. As one who spoke the truth, he would be regarded by the Upaniṣads and by the Person revealed in the Upaniṣads as an authority having the same validity as they themselves are. His_ācārya_ too, would feel gratified to find that, in this grateful and diligent śiṣya, his labours have borne fruit.
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 साक्षान्मुक्तेरुपायान् यो विद्याभेदानुपादिशत् ।  
 कथ्यते मोक्षशास्त्रेषु स तु श्रेष्ठतमो गुरुः ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+साक्षान्मुक्तेरुपायान् यो विद्याभेदानुपादिशत् ।  
+कथ्यते मोक्षशास्त्रेषु स तु श्रेष्ठतमो गुरुः ॥
+</details>
 
 He who imparted instruction in the vidyās or meditations that lead directly and by themselves to _mokṣa_ -- he is considered in the _Śāstra_s on _mokṣa_ as the greatest of _ācārya_s.
 
-SANSKRIT _ŚLOKA_ :
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 आचार्यवत्तया मोक्षमामनन्ति स्मरन्ति च ।  
 इहामुत्र च तत्पादौ शरणं देशिका विदुः ॥ * ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+आचार्यवत्तया मोक्षमामनन्ति स्मरन्ति च ।  
+इहामुत्र च तत्पादौ शरणं देशिका विदुः ॥ * ॥
+</details>
 
 The Vedas declare that a man attains _mokṣa_ by having an_ācārya_ and the same is declared in the _Smṛti_s also._ācārya_s knew that, in this world and so also, in the world beyond, the feet of the ācārya are the refuge (for the śiṣya).
 
@@ -84,12 +107,21 @@ The Vedas declare that a man attains _mokṣa_ by having an_ācārya_ and the sa
 
 Even (the omniscient and omnipotent) Mayan cannot requite the ācārya who dispelled all the darkness (in the mind) by lighting the bright lamp of wisdom therein. (Therefore) for what was received before (from the ācārya), it is indeed very little (that is done by the _śiṣya_) in recounting his praise with delight, in constant meditation of him, and in extending his growing renown.
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 अध्यासीनतुरङ्गवक्त्रविलसज्जिह्वाग्रसिंहासना  
 दाचार्यादिह देवतां समधिकामन्यां न मन्यामहे ।  
 यस्यासौ भजते कदाचिदजहद्भूमा स्वयं भूमिकां  
 मग्नानां भविनां भवार्णवसमुत्ताराय नारायणः ॥ ७२ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+अध्यासीनतुरङ्गवक्त्रविलसज्जिह्वाग्रसिंहासना  
+दाचार्यादिह देवतां समधिकामन्यां न मन्यामहे ।  
+यस्यासौ भजते कदाचिदजहद्भूमा स्वयं भूमिकां  
+मग्नानां भविनां भवार्णवसमुत्ताराय नारायणः ॥ ७२ ॥
+</details>
 
 The tip of the ācārya's tongue shines bright being the throne on which is seated (the god) Hayagrīva. So we do not consider any deity as being higher than the ācārya. Even Nārāyaṇa plays the part of the ācārya without ever giving up His supreme greatness, in order to save those who are suck in the sea of _samsāra_.
 

@@ -5,12 +5,21 @@ title = "१६ पुरुषार्थ-काष्ठाधिकारः
 
 (16) THE CHAPTER ON THE FARTHEST EXTENT OF OUR ULTIMATE OBJECT IN LIFE. page219
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 स्वतन्त्रस्वामित्वात् स्वबहुमतिपात्रेषु नियतं  
 श्रियः कान्तो देवस्स खलु विनियुङ्क्ते चिदचितौ ।  
 यथा लोकाम्नायं यतिपतिमुखैराहितधियां  
 ततो नः कैङ्कर्यं तदभिमतपर्यन्तमभवत् ॥ ३६ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+स्वतन्त्रस्वामित्वात् स्वबहुमतिपात्रेषु नियतं  
+श्रियः कान्तो देवस्स खलु विनियुङ्क्ते चिदचितौ ।  
+यथा लोकाम्नायं यतिपतिमुखैराहितधियां  
+ततो नः कैङ्कर्यं तदभिमतपर्यन्तमभवत् ॥ ३६ ॥
+</details>
 
 In the world of everyday life (a king sometimes uses his dependents and ornaments to serve the purposes of those who are dear to him like his sons, wives etc.) and in the Vedas, it is declared that all the gods make their offerings to the devotee. Even so, the Lord of Lakṣmī  uses sentient beings and non-sentient things to serve for ever the purposes of those who have won His regard, because He is independent and is their Master. So, for us whose minds have been disciplined by the teaching of such as the prince of sannayasins (viz. Śrī _Rāmānuja_), the service of the Lord extends as far as the service of those who are dear to Him (Bhāgavatas).
 
@@ -38,10 +47,17 @@ In this matter, if we examine the path of the _pramāṇa_s, _Iśvara_, who has 
 
 In addition to its causing pleasure to the _śeṣī_, the relationship of the _jīva_ to _Iśvara_ as His _śeṣa_ is also mediately through the Bhāgavata. Therefore his service to the Lord may also be mediate through the Bhāgavata. This may be explained as follows:
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 नित्यं श्रिया समेतस्य भक्तैरात्मवतस्सदा ।  
 सह सद्वारकञ्च स्याच्छेषित्वं परमात्मनः ॥ ३६-अ  ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+नित्यं श्रिया समेतस्य भक्तैरात्मवतस्सदा ।  
+सह सद्वारकञ्च स्याच्छेषित्वं परमात्मनः ॥ ३६-अ  ॥
+</details>
 
 To the Supreme Being who is always with Lakṣmī  and who looks upon His devotees as His very self, the attribute of being a seshī may be both by being a seshi along with Lakṣmī  and by being a _śeṣī_  mediately through the devotees". (That is, those who look upon themselves as _śeṣa_s to His devotees are, mediately through these devotees, _śeṣa_s to the Lord Himself). A king who is independent and who takes a pleasure in acting as he pleases places the ornaments and garlands worn by himself round the necks of his servants and of his elephants and horses. (Tiruppapalvar says):-- "The Lord who is spotless and who has made me the servant of His servants". (So does Nārada  say): "I, Nārada , have come here with an eager longing to see you. To men like me, O Brahmin, those who are bhaktas of the Lord are masters" and again (Tirum_aṅga_i Alvar says ); - "I will not remain in the company of those who think there is any other deity deserving of adoration than Thee; also what I have accepted with delight is the duty of serving Thy devotees". According to these passages, since the _jīva_ is absolutely subject to the will of the Lord and since the service of the _śeṣa_ is due also to those who are favourites of the Lord, our being a _śeṣa_ to the Lord extends even to the Bhāgavatas and should last as long as the self lasts. Our being _śeṣa_s to Bhāgavatas arises from their being devotees to the Lord and pertains to our essential nature. It arises also from their qualities and knowledge, which cause a desire in us to serve them. (As Lakṣmaṇa says) "I am his younger brother (by birth); I have become his servant by his qualities". (That this relationship of being a _śeṣa_ is due both to our essential nature and to (our admiration for) their wisdom and character) is also indicated (respectively in the two phrases(1) "bhaktas of the lord and to "men like me" (in the speech of Nārada  quoted above). Perialvar, the (great) commentator of Kalpa _sūtra_s stated (in this connection):- "These who are the servants of Bhāgavatas and who utter the names of _Bhagavān_ are entitled even to sell us". This is the purport of the middle world in Tiru_mantra_, namely, _namo_: na mama (not for me). If we reflect on this purport, our being _śeṣa_ to the Lord is both mediate (through the Bhāgavatas) and immediate (direct to Him). Accordingly, the service that should be rendered by the _śeṣa_ is also (both ) mediate and direct. Therefore it is the farthest limit of the service of the _prapanna_ to perform, as much as it lies in his power, service to the Bhāgavata, since it is part of the duty of one who is _śeṣa_ to _Bhagavān_. So this outermost region of service to Bhāgavatas should be kept properly cultivated so that it may not become fallow land full of weeds.
 
@@ -80,12 +96,21 @@ The relationship of being a servant (dása) to _Bhagavān_ and Bhāgavatas owing
 
 We that accept the code of conduct prescribed by the Lord, whose auspicious qualities fill, with astonishment, Bhāgavatas who have understood the meaning of the Vedas - We conduct ourselves in such a way that we do not deviate from the righteous path ordained in the eternal Vedas in rendering service to His good devotees with extreme reverence to them.
 
-SANSKRIT _ŚLOKA_ :
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 नाथे नस्तृणमन्यदन्यदपि वा तन्नाभिनालीकिनी  
 नालीकस्पृहणीयसौरभमुचा वाचा न याचामहे ।  
 शुद्धानान्तु लभेमहि स्थिरधियां शुद्धान्तसिद्धान्तिनां  
 मुक्तैश्वर्यदिनप्रभातसमयासत्तिं प्रसक्तिं मुहुः ॥ ३७ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+नाथे नस्तृणमन्यदन्यदपि वा तन्नाभिनालीकिनी  
+नालीकस्पृहणीयसौरभमुचा वाचा न याचामहे ।  
+शुद्धानान्तु लभेमहि स्थिरधियां शुद्धान्तसिद्धान्तिनां  
+मुक्तैश्वर्यदिनप्रभातसमयासत्तिं प्रसक्तिं मुहुः ॥ ३७ ॥
+</details>
 
 With our words which emit a fragrance that would be eagerly desired by the lotus which arose in the pond of the Lord's navel, we do not beg of the Lord the pleasures of this world and of _svarga_ which are like straw nor kaivalya nor even _mokṣa_ . We only pray that we should have the grace of the pure and firm-minded Bhāgavatas, who are like the chaste wives in the royal harem, for their grace is like the dawn which beralds the day of the splendour of _mokṣa_ ,
 

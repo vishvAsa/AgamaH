@@ -9,12 +9,21 @@ title = "१७ शास्त्रीय-नियमनाधिकारः
 
 IMPOSED BY THE ŚĀSTRAS. page227
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 मुकुन्दे निक्षिप्य स्वभरमनघो मुक्तवदसौ  
 स्वतन्त्राज्ञासिद्धां स्वयमविदितस्वामिहृदयः ।  
 परित्यागे सद्यस्स्वपरविविधानर्थजनना-  
 दलङ्घ्यामामोक्षादनुसरति शास्त्रीयसरणिम् ॥ ३८ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+मुकुन्दे निक्षिप्य स्वभरमनघो मुक्तवदसौ  
+स्वतन्त्राज्ञासिद्धां स्वयमविदितस्वामिहृदयः ।  
+परित्यागे सद्यस्स्वपरविविधानर्थजनना-  
+दलङ्घ्यामामोक्षादनुसरति शास्त्रीयसरणिम् ॥ ३८ ॥
+</details>
 
 Having laid, on Mukunda, the responsibility for his protection and become free from sin like those released from _samsāra_, the _prapanna_ walks along the path laid down in the _śāstra_s until his release from bondage, since (unlike the _mukta_) he cannot read the mind of the lord directly and since the path has been ordained for us by the command of the Omnipotent Lord and since, by straying from that path, he will immediately bring, on himself and on others, ills of various kinds.
 
@@ -40,13 +49,23 @@ That apart, there is no greater hell (for the _prapanna_) than the displeasure c
 
 Since this violation of the Lord's command is opposed to the Lord's pleasure which is our final goal as stated in the _śloka_  : "When shall I, Thy servant, look upon Thee alone as my Master and give Thee delight by rendering service ?" the observance of the ordinances of the _śāstra_s has to be understood in those places in the three mysteries (_mantra_s) where the removal of obstacles is referred to. In the case of those who have not completed their adoption of _prapatti_ the _upāya_, the observance of these ordinances will remove the hindrances or obstacles to the completion of _prapatti_ and win for them the grace of the Lord. In the case of those whose adoption of the _upāya_ is complete, it will win the favour of the Lord by removing the causes that might bring about His displeasure (in future).
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 आज्ञानुज्ञाविभागेन द्विधा शास्त्रीयपद्धतिः । ग्रहानुदयायाद्या परा तत्तत्फलाप्तये ॥  
 अनुज्ञया प्रवृत्तेऽपि क्रमकोपादिसंभवे । आज्ञातिक्रमदोषस्स्यान्नियमोऽतो दुरत्ययः ॥  
 प्रत्यवायपरीहारे फलान्तरसमन्विते । तत्र संवलितं प्राहुरधिकारं विचक्षणाः ॥  
 नित्यकाम्यस्वरूपैक्ये विनियोगपृथक्त्वतः । फलार्थं क्रियमाणेऽपि नित्यं भवति तन्त्रतः ॥  
 अनुज्ञामात्रसिद्धेषु कैङ्कर्येषु विचक्षणैः । अकृतौ तत्फलालाभो न तु दोष इतीरितम् ॥३८-अ-उ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+आज्ञानुज्ञाविभागेन द्विधा शास्त्रीयपद्धतिः । ग्रहानुदयायाद्या परा तत्तत्फलाप्तये ॥  
+अनुज्ञया प्रवृत्तेऽपि क्रमकोपादिसंभवे । आज्ञातिक्रमदोषस्स्यान्नियमोऽतो दुरत्ययः ॥  
+प्रत्यवायपरीहारे फलान्तरसमन्विते । तत्र संवलितं प्राहुरधिकारं विचक्षणाः ॥  
+नित्यकाम्यस्वरूपैक्ये विनियोगपृथक्त्वतः । फलार्थं क्रियमाणेऽपि नित्यं भवति तन्त्रतः ॥  
+अनुज्ञामात्रसिद्धेषु कैङ्कर्येषु विचक्षणैः । अकृतौ तत्फलालाभो न तु दोष इतीरितम् ॥३८-अ-उ ॥
+</details>
 
 The paths indicated in the _śāstra_s deal with acts or rites of two kinds: obligatory and permissive. The former have to be done for avoiding the Lord's punishment and the latter for obtaining the respective benefits.
 
@@ -74,12 +93,21 @@ In rites (karmas or services) prescribed for the attainment of certain benefits,
 
 By following the four Vedas (and the _Smṛti_s and other śāstras) in which the Supreme Being who measured the three worlds with His feet has ordained what is right and what is wrong, we have attained the state of service similar to that of the eternal sūris who are full of the love (of God). To us who live in the dark night (of _samsāra_), there is no other light than that of this moon (viz. the _śāstra_s) to dispel the darkness that grows denser and denser at every step.
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 श्रुतिस्मृत्याचारैस्स्वमतिगतिभिश्शुद्धमनसां  
 सुसङ्कल्पैर्धर्म्यैः कुलचरणदेशादिसमयैः ।  
 नियोगैर्योग्यानां नियमयितुरादेरभिमतं  
 निमित्तस्वप्नाद्यैरपि निपुणमन्विच्छति बुधः ॥ ३९ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+श्रुतिस्मृत्याचारैस्स्वमतिगतिभिश्शुद्धमनसां  
+सुसङ्कल्पैर्धर्म्यैः कुलचरणदेशादिसमयैः ।  
+नियोगैर्योग्यानां नियमयितुरादेरभिमतं  
+निमित्तस्वप्नाद्यैरपि निपुणमन्विच्छति बुधः ॥ ३९ ॥
+</details>
 
 The wise man learns what is in accordance with the will of the Ruler who is the originator of the Universe [may mean also 'the Primaeval Ruler'] ; from the śrutis ; from the _Smṛti_s ; and from the traditional practice of elders ; from the promptings of his own reason in the case of the man with a pure heart; from good resolutions not departing from _dharma_; and also the traditional practice of the family, of the charana
 

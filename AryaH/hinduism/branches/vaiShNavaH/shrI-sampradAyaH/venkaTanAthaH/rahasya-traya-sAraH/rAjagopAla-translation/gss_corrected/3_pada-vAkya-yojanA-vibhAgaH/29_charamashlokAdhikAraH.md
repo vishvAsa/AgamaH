@@ -9,7 +9,7 @@ title = "२९ चरमश्लोकाधिकारः"
 
 THE CHAPTER ON THE _CARAMA_ _ŚLOKA_.  page524
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 य उपनिषदामन्ते यस्मादनन्तदयांबुधेः  
 त्रुटितजनताशोकश्श्लोकस्स्वयं समजायत ।  
@@ -19,6 +19,19 @@ SANSKRIT _ŚLOKA_:
 बालानर्हैबहुभिरयनैश्शोचतान्नस्सुपन्थाः ।  
 निष्प्रत्यूहं निजपदमसौ नेतुकामस्स्वभूम्ना  
 सत्पाथेयं किमपि विदधे सारथिस्सर्वनेता ॥ ६७ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+य उपनिषदामन्ते यस्मादनन्तदयांबुधेः  
+त्रुटितजनताशोकश्श्लोकस्स्वयं समजायत ।  
+तमिह विधिना कृष्णं धर्मं प्रपद्य सनातनं  
+शमितदुरिताश्शंकातङ्कत्यजस्सुखमास्महे ॥ ६६ ॥  
+दुर्विज्ञानैर्नियमगहनैर्दूरविश्रान्तिदेशैः  
+बालानर्हैबहुभिरयनैश्शोचतान्नस्सुपन्थाः ।  
+निष्प्रत्यूहं निजपदमसौ नेतुकामस्स्वभूम्ना  
+सत्पाथेयं किमपि विदधे सारथिस्सर्वनेता ॥ ६७ ॥
+</details>
 
 (1) _Śrī_ Kṛṣṇa, who stands close to the Upaniṣads and from whom, as from the boundless ocean of mercy, came of its own accord, the _śloka_ (_Carama_ _śloka_) which puts an end to the sorrows of all men, - by seeking Him as our refuge in[^104] accordance with the injunction (contained in that _śloka_), and as the eternal _dharma_ (_Siddhopāya_), we feel happy with our sins extinguished and free from (all) doubts and fears.
 
@@ -116,7 +129,7 @@ Therefore the proper interpretation of the _vidhi_ (if it be taken as _vidhi_) e
 
 Even in this view that _parityajya_ indicates a _vidhi_ or injunction to give up, the person competent for _prapatti_ is one who is incapable of other _upāya_s, or one who, though capable of other _upāya_s, is too impatient to endure the delay in attaining the fruit (which the other _upāya_s might entail). If we take this view, it will not be against any of the _pramāṇa_s (viz. those which enjoin the rites of the varṇas and _āśrama_s, and those which enjoin _bhakti_  _yoga_ and the like). Former _ācārya_s did not discuss the point whether or not the giving up of all _dharma_s in their essential forn is an _aṅga_ of _prapatti_. Their discussions were confined only to the question of which words in the _carama_ _śloka_ respectively indicated the qualification necessary for _prapatti_ viz. that of being destitute of other _upāya_s and which words the idea that _prapatti_ did not require (any _aṅga_ or accessory).
 
-SANSKRIT _ŚLOKA_S :
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 अधिकारं पुरस्कृत्योपायस्य निरपेक्षताम् ।  
 एकशब्देन वक्तीति केचिद्वाक्यविदो विदुः ॥  
@@ -126,6 +139,19 @@ SANSKRIT _ŚLOKA_S :
 प्राचां विवादस्संवृत्तो भाष्यकारैरवारितः ॥  
 अज्ज्ञातपूर्ववृत्तान्तैर्यत्तत्रारोपितं परैः ।  
 तत्तु श्रीविष्णुचित्ताद्यैर्निर्मूलमिति दर्शितम् ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+अधिकारं पुरस्कृत्योपायस्य निरपेक्षताम् ।  
+एकशब्देन वक्तीति केचिद्वाक्यविदो विदुः ॥  
+नैरपेक्ष्यं पुरस्कृत्य विहितस्य लघीयसः ।  
+उपायस्याधिकारन्तु शोकद्योत्यं विदुः परे ॥  
+इत्थमर्थाविशेषेपि योजनाभेदमात्रतः ।  
+प्राचां विवादस्संवृत्तो भाष्यकारैरवारितः ॥  
+अज्ज्ञातपूर्ववृत्तान्तैर्यत्तत्रारोपितं परैः ।  
+तत्तु श्रीविष्णुचित्ताद्यैर्निर्मूलमिति दर्शितम् ॥
+</details>
 
 Soine_ācārya_s, who were conversant with the requirements of a sentence, thought that the _carama_ _śloka_ speaks first (in _parityajya_) of the person competent for _prapatti_ (as one who is unable to adopt other _upāya_s) and then declares by the word ‘ekam’ we alone) that _prapatti_ as an _upāya_ does not require anything else as _aṅga_ or accessory. Others said that the _carama_ _śloka_ speaks first of _prapatti_ not requiring anything else as _aṅga_ and then declares who the competent person is for the easier _upāya_ in the word vraja) by the suggestion contained in the word śoka or grief (in mā śuchaH) (for the grief should be the grief due to the man's inability to adopt other _upāya_s). (There was no discussion among these earlier āchāryas of the point whether _prapatti_ enjoined the giving up of all _dharma_s (even such as those ordained for the varṇas and the āśramas). Thus the discussion was confined only to the way in which the words (in the _śloka_) should be construed, though there was no difference in the meaning as a whole, and the author of _Śrī_ _Bhāṣya_ did not stop the discussion. What was (wrongly) imagined as having been the subject of discussion by other people who did not know what had formerly taken place -- that was shown to be without any foundation by such teachers as Vishṇuchitta.
 
@@ -141,12 +167,21 @@ Therefore _prapatti_ may be adopted by (1) those who do not know of other _upāy
 
 Vyasa and others who held administrative offices (under the Lord) could brook delay and were also capable of the other _upāya_ (i.e.) _upāsana_. Therefore it is that they adopted _upāsana_ and not because they were wanting in knowledge or in faith. (Those who hold administrative offices must serve their full period before thinking of attainment.)
 
-SANSKRIT _ŚLOKA_S :
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 अशक्तस्यातिकृच्छ्रेषु दुराशादार्ढ्यशालिनः ।  
 कस्यचिद्बुद्धिदौर्बल्यं लघुत्यागस्य कारणम् ॥  
 तत्र प्रपत्त्यनर्हाणामन्यदित्यपि युज्यते ।  
 व्यासादिषु तु नैवैषा नीतिस्संशयघातिषु ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+अशक्तस्यातिकृच्छ्रेषु दुराशादार्ढ्यशालिनः ।  
+कस्यचिद्बुद्धिदौर्बल्यं लघुत्यागस्य कारणम् ॥  
+तत्र प्रपत्त्यनर्हाणामन्यदित्यपि युज्यते ।  
+व्यासादिषु तु नैवैषा नीतिस्संशयघातिषु ॥
+</details>
 
 (If it be asked, "Why is it said ( in some places) that a man adopts _upāsana_ owing to weakness of intelligence?" the answer is as follows):-" When a man is incapable of an _upāya_ which is extremely difficult of adoption and yet adopts it because of an obstinate desire, the ignoring of the easy _upāya_ should be considered as being due to weakness of intellect.” Or it is proper also to explain their adoption of the difficult _upāya_ as due to their unfitness for _prapatti_ (owing to their lack of faith in it and the like.) This is not the explanation in the case of Vyasa and others (adopting _upāsana_), for they remove all the doubts of others (and cannot be considered as wanting in knowledge or faith).
 
@@ -158,7 +193,7 @@ But it may be asked by some:-“Even if it is admitted that the giving up of the
 
 It may be argued that, in regard to accessory activity, there need not be fullness or perfection of performance and that some short-comings might be allowed therein ; but this argument is not sound. Has it not been stated:-"A rite or observance performed for the attainment of a certain fruit will yield the desired fruit, only when all the accessory rites or _aṅga_s are duly performed?" (_Pūrva Mīmāmsā_).
 
-SANSKRIT _ŚLOKA_S :
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 अतस्स्वरूपत्यागोक्तौ कैङ्कर्यस्यापचारता ।  
 उपायत्वमतित्यागे तत्स्वरूपाङ्गता भवेत् ॥  
@@ -168,6 +203,19 @@ SANSKRIT _ŚLOKA_S :
 तत्क्षणेऽभिमतं पूर्वे संप्रापुरिति शुश्रुम ॥  
 प्रसक्ताङ्गत्वबाधे तु ब्रह्मास्त्रसमतेजसः ।  
 उपायस्य प्रभावश्च कैङ्कर्यादि च सुस्थिरम् ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+अतस्स्वरूपत्यागोक्तौ कैङ्कर्यस्यापचारता ।  
+उपायत्वमतित्यागे तत्स्वरूपाङ्गता भवेत् ॥  
+सात्विकत्यागयुक्तानां धर्माणामेतदङ्गता ।  
+नूनं विस्मृतकाकादिवृत्तान्तैरुपवर्णिता ॥  
+सकृत्प्रपदनेनैव धर्मान्तरदवीयसा ।  
+तत्क्षणेऽभिमतं पूर्वे संप्रापुरिति शुश्रुम ॥  
+प्रसक्ताङ्गत्वबाधे तु ब्रह्मास्त्रसमतेजसः ।  
+उपायस्य प्रभावश्च कैङ्कर्यादि च सुस्थिरम् ॥
+</details>
 
 Thus if it is stated that the _dharma_s themselves in their essential forn should be given up, even the rendering of service would become an offence. If it is said that what is to be given up is only the thought that they are _upāya_s, then the _dharma_s in their essential form would become an _aṅga_ (of _prapatti_).
 
@@ -189,10 +237,17 @@ CONCLUSION: page543
 
 Therefore, as neither the performance of these _dharma_s nor their giving up is an _aṅga_ to _prapatti_; to be without the desire to do what is beyond one's ability is a mark of competency (for _prapatti_). The performance of those duties or rites which are _nitya_ and _naimittika_ and which are within the range of one's ability takes rank as mere service consisting in the observance of a command,
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 सङ्कल्पमात्रमेवाङ्गं श्रुतमाचरणं पुनः ।  
 अनङ्गमाज्ञया प्राप्तं न सङ्कल्पनिबन्धनम् ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+सङ्कल्पमात्रमेवाङ्गं श्रुतमाचरणं पुनः ।  
+अनङ्गमाज्ञया प्राप्तं न सङ्कल्पनिबन्धनम् ॥
+</details>
 
 It is only the thought or the will to do what is pleasing to the Lord that is stated (in the _Śāstra_s) as an _aṅga_ of _prapatti_, The action arising out of that will or thought is not an _aṅga_. The rites of the varṇa and āśrama are the proper thing to do in virtue of their being the Lord's command and not because it is the consequence of the will or the thought to do what is pleasing to Him,
 
@@ -216,7 +271,7 @@ It is true that, as for those in the _āśrama_ of the Sannyasin, to whom certai
 
 Such injunctions as the following :-"Therefore the _mantra_ called _aṣṭākṣara_ should be repeated at the time of the sandhya, by pure-minded devotees of mine always in order to purify their selves", and "uttering the _Dvaya_ always in this manner with its meaning at heart" in the _Gadya_ - these instructions should be carried out without any conflict with the performance of the rites _nitya_ and _naimittika_) which are compulsory of performance and at such times as are left over after their performance, Nārada and others have also stated:-“The japa (namely, the repetition of _Aṣṭākṣara_) should be performed at such times as do not conflict with the performance of rites ordained in the _śruti_s and the _smṛti_s." V_aṅgī_puram Nambi, too, has said: -" Having spent your time in performing the homa in rites like Agnihotra etc" Even in his last days, the author of _Śrī_ _Bhāṣya_ stood up with great difficulty and offered the anjali of water at the time of sandhyā. Therefore giving up the rites of the varṇas and the _āśrama_s on the pretext that they are dependent on the upadhi of the body is opposed to such things as the traditional observances of the ancients. If this pretext were sound, since even such special forms of service (in temples) as the weaving of garlands and the lighting of lamps cannot be performed without the upādhi (or conditioning factor) of the body, the senses and the like-even these would have to be given up (by the man who has realised his essential nature (_svarūpa_). If the perforınance of such services is desired, the external purity (āchāra) and the purificatory rites (samskāras) which qualify (a person) for such service, cannot be given up.
 
-SANSKRIT _ŚLOKA_S:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 आहारग्रहमन्त्रार्थजात्यादि नियमैर्युतः ।  
 कुर्याल्लक्ष्मीशकैङ्कर्यं शक्त्यानन्यप्रयोजनः ॥  
@@ -240,6 +295,33 @@ SANSKRIT _ŚLOKA_S:
 तानि कृत्याहतानीव विनश्यन्ति समन्ततः ॥  
 एवमादिषु पूजोक्तिर्यथौचित्यान्नियम्यते ।  
 भक्तम्लेच्छादिपूजोक्तिरेवमेव नियम्यताम् ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+आहारग्रहमन्त्रार्थजात्यादि नियमैर्युतः ।  
+कुर्याल्लक्ष्मीशकैङ्कर्यं शक्त्यानन्यप्रयोजनः ॥  
+मङ्गळ्यसूत्रवस्त्रादीन् संरक्षति यथा वधूः ।  
+तथा प्रपन्नश्शास्त्रीयपतिकैङ्कर्यपद्धतिम् ॥  
+यद्वन्मङ्गळ्यसूत्रादेस्त्यागे संरक्षणेऽपि वा ।  
+रक्षेन्निरोधैर्भोगैर्वा पतिस्तद्वदिहापि नः ॥  
+अवज्ञार्थमनर्थाय भक्तजन्मादिचिन्तनम् ।  
+शास्त्रव्यवस्थामात्रार्थं न तु तद्दुष्यति क्वचित् ॥  
+अत एव हि शास्त्रेषु तत्तज्जात्यैव दर्शिताः ।  
+धर्मव्याधतुलाधारशबरीविदुरादयः ॥  
+स्वजात्यनुगुणैवैषां वृत्तिरप्यैतिहासिकी ।  
+विशेषविधिसिद्धन्तु तद्बलात्तत्र युज्यते ॥  
+देशकालाधिकार्यादिविशेषेषु व्यवस्थिताः ।  
+न धर्माः प्राप्तिमर्हन्ति देशकालान्तरादिषु ॥  
+केचित्तत्तदुपाख्यानतात्पर्यग्रहणाक्षमाः ।  
+कलिकोलाहलक्रीडां वर्धयन्ति रमापतेः ॥  
+मातृभिः पितृभिश्चैताः पतिभिर्देवरैस्तथा ।  
+पूज्या भूषयितव्याश्च बहुकल्याणमीप्सुभिः ॥  
+जामयो यानि गेहानि शपन्त्य प्रतिपूजिताः ।  
+तानि कृत्याहतानीव विनश्यन्ति समन्ततः ॥  
+एवमादिषु पूजोक्तिर्यथौचित्यान्नियम्यते ।  
+भक्तम्लेच्छादिपूजोक्तिरेवमेव नियम्यताम् ॥
+</details>
 
 Observing the restrictions concerning food, residence[^108] (if the reading is ‘gṛha’) or receiving from the good _ācārya_ the _mantra_s prescribed for the person, money[^109] , caste and the like, one should render service to the Lord of _Lakṣmī_ in accordance with one's ability and with no other aim or purpose.
 
@@ -263,7 +345,7 @@ Some (people) who cannot understand the purport of certain episodes (in the Itih
 
 These reservations and restrictions are established also by the practice of successive generations of men accepted on all hands as wise and virtuous. Therefore the performance of the Lord's service along with the observance of the regulations enjoined for the respective castes and _āśrama_s is not opposed to the state of supreme and exclusive devotion to the Lord (_paramaikāntitva_).
 
-SANSKRIT _ŚLOKA_S :
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 साक्षाल्लक्ष्मीपतावेव कृतं कैङ्कर्यमञ्जसा ।  
 सारकल्कविभागेन द्विधा सद्भिरुदीर्यते ॥  
@@ -271,6 +353,17 @@ SANSKRIT _ŚLOKA_S :
 गुर्वादिरक्षणार्थं वा तत्सारं संप्रचक्षते ॥  
 डंभार्थं परपीडार्थं तन्निरोधार्थमेव वा ।  
 प्रयोजनान्तरार्थं वा कैङ्कर्यं कल्क इष्यते ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+साक्षाल्लक्ष्मीपतावेव कृतं कैङ्कर्यमञ्जसा ।  
+सारकल्कविभागेन द्विधा सद्भिरुदीर्यते ॥  
+कृतकृत्यस्य कैङ्कर्यं यदनन्यप्रयोजनम् ।  
+गुर्वादिरक्षणार्थं वा तत्सारं संप्रचक्षते ॥  
+डंभार्थं परपीडार्थं तन्निरोधार्थमेव वा ।  
+प्रयोजनान्तरार्थं वा कैङ्कर्यं कल्क इष्यते ॥
+</details>
 
 Even the service rendered directly to the Lord of _Lakṣmī_ is surely divided by good men into two classes : valuable and worthless.
 
@@ -284,10 +377,17 @@ reaches the feet of the God of gods. The rites performed by wise men who have su
 
 The rites, _nitya_ and _naimittika_, which are performed in this way as commandments of the Lord (_ājñā_) and those valuable services which are rendered by a man for the pleasure of the Lord as those approved by Him (_anujñā_) - these have no connection with _prapatti_ and this is declared by the injunction contained in the word _parityajya_ (having given up) (in the _carama_ _śloka_ ).
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 अतश्शक्यानि सर्वाणि न प्रपत्त्यर्थमाचरेत् ।  
 अशक्येषु च सामर्थ्यं न तदर्थं समार्जयेत् ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+अतश्शक्यानि सर्वाणि न प्रपत्त्यर्थमाचरेत् ।  
+अशक्येषु च सामर्थ्यं न तदर्थं समार्जयेत् ॥
+</details>
 
 1. Therefore one should not perform, for the sake of _prapatti_, those things of which one is capable, nor should one acquire, for the sake of _prapatti_, the ability or skill needed to accomplish what one is incapable of.
 
@@ -295,7 +395,7 @@ According to this interpretation ( of the word _parityajya_ in the _Carama_ _śl
 
 There are some other ways of interpreting the word (_parityajya_) without treating the injunction regarding 'giving up' as having no authority :
 
-SANSKRIT _ŚLOKA_S :
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 आत्माशक्यवृथायास निवारणमिहापि वा ।  
 लज्जापुरस्सरत्यागवादोऽप्यत्र नियम्यताम् ॥  
@@ -303,6 +403,17 @@ SANSKRIT _ŚLOKA_S :
 आशालेशानुवृत्तिर्वा त्यागोक्त्या विनिवार्यते ॥  
 अविशिष्टफलत्वेन विकल्पो यश्च सूत्रितः ।  
 तन्मुखेनापि वाऽत्रेष्टं ब्रह्मास्त्रन्यायसूचनम् ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+आत्माशक्यवृथायास निवारणमिहापि वा ।  
+लज्जापुरस्सरत्यागवादोऽप्यत्र नियम्यताम् ॥  
+स्वदुष्करेषु धर्मेषु कुशकाशावलंबतः ।  
+आशालेशानुवृत्तिर्वा त्यागोक्त्या विनिवार्यते ॥  
+अविशिष्टफलत्वेन विकल्पो यश्च सूत्रितः ।  
+तन्मुखेनापि वाऽत्रेष्टं ब्रह्मास्त्रन्यायसूचनम् ॥
+</details>
 
 2. What is asked to be given up may be stated to be the prevention of the vain effort to perform what one is not capable of or the giving up of such vain effort along with the shame or remorse due to one's inability (to do it in full).
 
@@ -318,7 +429,7 @@ SANSKRIT _ŚLOKA_S :
 
 3. If a man were to adopt one of the _upāya_s (other than _prapatti_) which are left open to the option (of the aspirant to _mukti_), it says to him that, by the principle of the _Brahma_ missile, it would conflict with the effectiveness of _prapatti_.
 
-SANSKRIT _ŚLOKA_S :
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 अतोऽशक्ताधिकारत्वमाकिञ्चन्यपुरस्क्रिया ।  
 अनङ्गभावो धर्माणामशक्यारंभवारणम् ॥  
@@ -326,6 +437,17 @@ SANSKRIT _ŚLOKA_S :
 सर्वधर्मपरित्यागशब्दार्थास्साधुसम्मताः ॥  
 देवतान्तरधर्मादित्यागोक्तिरविरोधिनी ।  
 उपासकेऽपि तुल्यत्वादिह सा न विशेषिका ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+अतोऽशक्ताधिकारत्वमाकिञ्चन्यपुरस्क्रिया ।  
+अनङ्गभावो धर्माणामशक्यारंभवारणम् ॥  
+तत्प्रत्याशाप्रशमनं ब्रह्मास्त्रन्यायसूचनम् ।  
+सर्वधर्मपरित्यागशब्दार्थास्साधुसम्मताः ॥  
+देवतान्तरधर्मादित्यागोक्तिरविरोधिनी ।  
+उपासकेऽपि तुल्यत्वादिह सा न विशेषिका ॥
+</details>
 
 Therefore the meanings of the words _sarva dharmān parityajya_ (giving up all _dharma_s) which are approved of by the wise are as follows:
 
@@ -371,23 +493,41 @@ IN THE _CARAMA_ _ŚLOKA_:-- page559
 
 As stated in the context in the Gita, which describes the secret of _avatāra_ or incarnation and that in which _Śrī_ Kṛṣṇa” declares Himself as (_Puruṣottama_), the primary aim of the words _mām_ (me) and _aham_ (I) (in the _carama_ s'loka) is to disclose (_Bhagavān_'s) easy accessibility and His absolute independence (and omnipotence) respectively.
 
-SANSKRIT _ŚLOKA_S:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 अवतारस्य सत्यत्वमजहत्स्वस्वभावता ।  
 शुद्धसत्वमयत्वञ्च स्वेच्छामात्रनिदानता ॥  
 धर्मग्लानौ समुदयस्साधुसंरक्षणार्थता ।  
 इति जन्मरहस्यं यो वेत्ति नास्य पुनर्भवः ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+अवतारस्य सत्यत्वमजहत्स्वस्वभावता ।  
+शुद्धसत्वमयत्वञ्च स्वेच्छामात्रनिदानता ॥  
+धर्मग्लानौ समुदयस्साधुसंरक्षणार्थता ।  
+इति जन्मरहस्यं यो वेत्ति नास्य पुनर्भवः ॥
+</details>
 
 He who knows the secret of incarnation to consist in its being real, in the incarnation continuing in its real nature (as _Bhagavān_) though incarnating in lower forms, in its being constituted of the (transcendental, substance called Śuddhasattvam in its being caused only by _Bhagavān_'s own will or desire (and not by _karma_ ); in its occurrence at a time when there is decline of _dharma_ and in its being occasioned for the purpose of protecting the good -- (he who knows all this) will never be born again.
 
 This knowledge of the secret of incarnation is required for the _bhakta_, who has _prapatti_ as an _aṅga_, to complete and perfect his _upāya_. To the man who has adopted _prapatti_ as the direct and independent means, it reveals the easy accessibility of the omnipotent and independent Lord. The accessibility and omnipotence which are declared in these two contexts are complementary to each other,
 
-SANSKRIT _ŚLOKA_S :
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 स्वतन्त्रस्यापि नैव स्यादाश्रयो दुर्लभस्य तु ।  
 अस्वतन्त्रात्फलन्नस्यात्सुलभादाश्रितादपि ॥  
 अस्वतन्त्रेन कैङ्कर्यं सिद्ध्येत्स्वैरप्रसङ्गतः ।  
 दुर्लभे साध्यमप्येतन्न हृद्यं लोकनीतितः ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+स्वतन्त्रस्यापि नैव स्यादाश्रयो दुर्लभस्य तु ।  
+अस्वतन्त्रात्फलन्नस्यात्सुलभादाश्रितादपि ॥  
+अस्वतन्त्रेन कैङ्कर्यं सिद्ध्येत्स्वैरप्रसङ्गतः ।  
+दुर्लभे साध्यमप्येतन्न हृद्यं लोकनीतितः ॥
+</details>
 
 Even if a person is independent and omnipotent, if he is not accessible, no one will seek him (for protection). Even if a person is sought (for protection) on account of his easy accessibility, he cannot award the desired fruit if he is dependent on others.
 
@@ -435,10 +575,17 @@ If _parityajya_ is interpreted to mean that there is nothing else required for _
 
 If it be asked why the word _eka_ should be used as an adjective of the Saviour, when (properly speaking), it should qualify _prapatti_ (so that it might mean that _prapatti_ alone is necessary without any ancillary _dharma_s), the answer is as follows: The words, _mām ekam_ (me alone) are employed to show that, in the case of the man destitute of other _upāya_s, these ancillary _dharma_s other than _prapatti_ are in no way connected with the Saviour as the means of propitiating Him. (6) It is also stated by some (commentators) that, as in the first half of the _śloka_ we find the words _sarva dharmān_ (all _dharma_s) and in the second half the word _sarva pāpebhyo_ (from all sins), the word _eka_ stands here as the counterpart or counterpoise to the world all. If this be admitted, then the gist of the _carama_ _śloka_ would be:
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 सुदुष्करेण शोचेद्यो येनयेनेष्टहेतुना ।  
 स स तस्याहमेवेति चरमश्लोकसंग्रहः ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+सुदुष्करेण शोचेद्यो येनयेनेष्टहेतुना ।  
+स स तस्याहमेवेति चरमश्लोकसंग्रहः ॥
+</details>
 
 If a man is in despair because of his inability to adopt such means or _upāya_s as will yield the respective fruits desired by him, then, I myself (single as I am) will stand for him as the respective means or _upāya_ to enable him to secure that fruit."
 
@@ -462,7 +609,7 @@ THE WORD EKA  page575
 
 
 
-SANSKRIT _ŚLOKA_S :
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 प्राप्यस्यैव प्रापकत्वं स्वप्राधान्यनिवारणम् ।  
 प्रपत्तेर्व्याजमात्रत्वमन्योपायैरनन्वयः ॥  
@@ -486,6 +633,33 @@ SANSKRIT _ŚLOKA_S :
 इष्टा च शेषिणी द्वंद्वे शेषवृत्तिर्यथोचिता ॥  
 अतोऽनन्यपरानेकश्रुतिस्मृत्यनुसारतः ।  
 पत्नीविशिष्ट एवैकः प्रपत्तव्य इहोदितः ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+प्राप्यस्यैव प्रापकत्वं स्वप्राधान्यनिवारणम् ।  
+प्रपत्तेर्व्याजमात्रत्वमन्योपायैरनन्वयः ॥  
+तदङ्गैरप्यसंबन्धस्सर्वसाध्येष्वभिन्नता ।  
+इत्थमर्थाष्षडाचार्यैरेकशब्दस्य दर्शिताः ॥  
+केचित्त्विहैकशब्दार्थं शरण्यैक्यं प्रचक्षते ।  
+विशिनष्टि तथापि श्रीर्गुणविग्रहवत् प्रभुम् ॥  
+ईश्वरी सर्वभूतानामियं भगवतः प्रिया ।  
+संश्रितत्राणदीक्षायां सहधर्मचरी स्मृता ॥  
+एकं जगदुपादानमित्युक्तेऽपि प्रमाणतः ।  
+यथापेक्षितवैशिष्ट्यं तथात्रापि भविष्यति ॥  
+एकोपास्तिविधानेऽपि गुणादीनां यथान्वयः ।  
+तथैकशरणव्रज्याविधानेऽप्यनुमन्यताम् ॥  
+यथा गुणादिवैशिष्टे सिद्धोपायैक्यमक्षतम् ।  
+एवं पत्नीविशिष्टत्वेऽप्यभीष्टं शास्त्रचक्षुषाम् ॥  
+प्रभाप्रभावतोर्यद्वदेकोक्तावितरान्वयः ।  
+एवमन्यतरोक्तौ स्यात्सहवृत्त्यभिधानतः ॥  
+स्मरन्ति चैनां मुनयस्संसारार्णवतारिणीम् ।  
+ऊचतुस्स्वयमप्येतस्सात्वतादिषु तावुभौ ॥  
+उपायोपेयदशयोर्द्वयेऽपि श्रीस्समन्विता ।  
+इष्टा च शेषिणी द्वंद्वे शेषवृत्तिर्यथोचिता ॥  
+अतोऽनन्यपरानेकश्रुतिस्मृत्यनुसारतः ।  
+पत्नीविशिष्ट एवैकः प्रपत्तव्य इहोदितः ॥
+</details>
 
 
 
@@ -560,12 +734,21 @@ Since the _dharma_ called _śaraṇāgati_ can rightly be enjoined for performan
 
 
 
-SANSKRIT _ŚLOKA_S:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 अन्यविश्वाससिद्ध्यर्थं भक्त्युपायविधिं वदन् ।  
 सर्वशास्त्रेष्वविश्वासमाधत्ते मुखभेदतः ॥  
 मद्योपहतपात्रस्थतीर्थदृष्टान्तवर्णनम् ।  
 अहङ्कारान्वये तु स्यात् प्रपत्तावपि भक्तिवत् ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+अन्यविश्वाससिद्ध्यर्थं भक्त्युपायविधिं वदन् ।  
+सर्वशास्त्रेष्वविश्वासमाधत्ते मुखभेदतः ॥  
+मद्योपहतपात्रस्थतीर्थदृष्टान्तवर्णनम् ।  
+अहङ्कारान्वये तु स्यात् प्रपत्तावपि भक्तिवत् ॥
+</details>
 
 He who states that the texts which declare _bhakti_  to be an _upāya_ are only for the purpose of creating faith in _prapatti_ is undermining faith in every _śāstra_ without directly appearing to do so.
 
@@ -585,10 +768,17 @@ In the upanishads, it is stated that the aspirant to _mukti_ should be like a ch
 
 
 
-SANSKRIT _ŚLOKA_ :
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 उपभुक्तौषधन्यायादुत्तरापथ्यमर्दनम् ।  
 अनन्यपरनिर्बाधश्रुतिस्मृतिशतैर्हतम् ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+उपभुक्तौषधन्यायादुत्तरापथ्यमर्दनम् ।  
+अनन्यपरनिर्बाधश्रुतिस्मृतिशतैर्हतम् ॥
+</details>
 
 The contention that like a potent medicine which is taken now acting like a cure for unwholesome things that may be done in the future, _prapatti_ will destroy any sins that might be committed after its performance - this contention is disproved by hundreds of texts in the _śruti_s and the stritis which are directly applicable to the _prapanna_ and are not sublated by other texts.
 
@@ -697,10 +887,17 @@ It is not possible to argue, with any certainty, that the varied sufferings whic
 
 
 
-SANSKRIT _ŚLOKA_ :
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 विवेकिनां प्रपन्नानां धीपूर्वाघस्यनुद्यमः ।  
 मध्यानामनुतापादिश्शिक्षा कठिनचेतसाम् ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+विवेकिनां प्रपन्नानां धीपूर्वाघस्यनुद्यमः ।  
+मध्यानामनुतापादिश्शिक्षा कठिनचेतसाम् ॥
+</details>
 
 Wise men who have performed _prapatti_ would never think of committing offences deliberately, men of a mediocre intelligence repent (for such offences.) Hard - hearted men meet with punishment for them.
 
@@ -710,10 +907,17 @@ Therefore in order that there may be no punishment of any kind, one should guard
 
 
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 प्रीतिमेव समुद्दिश्य स्वतंत्राज्ञानुपालने ।  
 निग्रहानुदयोप्यस्य नान्तरीयक एव वा ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+प्रीतिमेव समुद्दिश्य स्वतंत्राज्ञानुपालने ।  
+निग्रहानुदयोप्यस्य नान्तरीयक एव वा ॥
+</details>
 
 When one performs the commands of the omnipotent Lord (_nitya_ and _naimittika_ _karma_ ) solely for the purpose of pleasing Him, no punishment will ensue, though he may not have thought (of avoiding any such punishment).
 
@@ -723,12 +927,21 @@ If a _prapanna_ should try, as much as it lies in his power, to avoid offences, 
 
 
 
-SANSKRIT _ŚLOKA_S :
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्मवित्पापवर्गाणाम् अनन्तानां महीयसाम् ।  
 तद्वेषिसंक्रमं जानन् त्रस्येत्तदपराधतः ॥  
 सापराधेषु संसर्गेप्यपराधान् वहत्यसौ ।  
 वोढुमीश्वरकृत्यानि तद्विरोधादभीप्सति ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+ब्रह्मवित्पापवर्गाणाम् अनन्तानां महीयसाम् ।  
+तद्वेषिसंक्रमं जानन् त्रस्येत्तदपराधतः ॥  
+सापराधेषु संसर्गेप्यपराधान् वहत्यसौ ।  
+वोढुमीश्वरकृत्यानि तद्विरोधादभीप्सति ॥
+</details>
 
 The countless and serious sins committed by the man who meditates on _Brahman_ (_Brahmavit_) will be transferred to the man who hates him. Realising this, one should dread committing any offence against a _Brahmavit_.
 
@@ -891,12 +1104,21 @@ There are some commentators) who hold that "Do not grieve" enjoins something to 
 
 
 
-SANSKRIT _ŚLOKA_S :--
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 बन्धुनाशादयः पूर्वं बहवश्शोकहेतवः ।  
 तत्तत्समुचितैस्सम्यगुपदेशैरपोदिताः ॥  
 सुदुष्करत्वाद्धर्माणामपारत्वाद्विरोधिनाम् ।  
 सिद्धः फलविळंबाच्च शोकोऽद्य विनिवार्यते ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+बन्धुनाशादयः पूर्वं बहवश्शोकहेतवः ।  
+तत्तत्समुचितैस्सम्यगुपदेशैरपोदिताः ॥  
+सुदुष्करत्वाद्धर्माणामपारत्वाद्विरोधिनाम् ।  
+सिद्धः फलविळंबाच्च शोकोऽद्य विनिवार्यते ॥
+</details>
 
 Many causes of sorrow (in the case of Arjuna) like those concerning the destruction of relatives have already been removed by appropriate and excellent teaching. Now the sorrow or despair caused by the thought that the _dharma_ or rites enjoined (for _mukti_) are too difficult to perform, that the hindrances to _mukti_ are insuperable and that the end in view can be attained only after protracted delay - it is this sorrow that is now dispelled.
 
@@ -941,12 +1163,21 @@ The words "Do not grieve" are, themselves, an indication of the cancellation of 
 
 
 
-SANSKRIT _ŚLOKA_S:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 प्रायश्चित्तविशेषेषु सर्वस्वारादिकेषु च ।  
 नात्महिंसनदोषोऽस्ति तथार्तशरणागतौ ॥  
 दृप्तस्य तु यथाशास्त्रं चिरं जीवितुमिच्छतः ।  
 प्राणरक्षणशास्त्रार्थलङ्घनं त्वपराधनम् ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+प्रायश्चित्तविशेषेषु सर्वस्वारादिकेषु च ।  
+नात्महिंसनदोषोऽस्ति तथार्तशरणागतौ ॥  
+दृप्तस्य तु यथाशास्त्रं चिरं जीवितुमिच्छतः ।  
+प्राणरक्षणशास्त्रार्थलङ्घनं त्वपराधनम् ॥
+</details>
 
 In some forms of expiation for sins (prayaschitta) and like. wise, in certain kinds of offering (made in the fire) like _sarvasvāra karma_ , it is not considered a sin if the man gives up life (by casting the body down a precipice or in the fire), So also there is no impropriety in praying for instant death in the _śaraṇāgati_ of the _prapanna_ who cannot bear to continue in _samsāra_ even for a moment (ārta). On the other hand, the _prapanna_ who desires to live a long life (dripta) commits an offence, if he violates the rule in the _śāstra_s which enjoins the protection of one's own life.
 
@@ -1051,10 +1282,17 @@ _CARAMA_ _ŚLOKA_:--  page622
 
 
 
-SANSKRIT _ŚLOKA_ :
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 एकं सर्वप्रदं धर्मं श्रिया जुष्टं समाश्रितैः ।  
 अपेतशोकैराचार्यैरयं पन्थाः प्रदर्शितः ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+एकं सर्वप्रदं धर्मं श्रिया जुष्टं समाश्रितैः ।  
+अपेतशोकैराचार्यैरयं पन्थाः प्रदर्शितः ॥
+</details>
 
 This path (_prapatti_) has been disclosed (to us) by_ācārya_s who resorted to that unique _dharma_ (_Siddhopāya_) which can grant all (desired objects) and which is ever accompanied by _Śrī_ and who (by so doing) became free from (all) grief.
 
@@ -1080,12 +1318,21 @@ Giving up those _dharma_s which have to be performed with extreme care, we were 
 
 
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 व्यासाम्नायपयोधिकौस्तुभनिभं हृद्यं हरेरुत्तमं श्लोकं  
 केचन लोकवेदपदवी विश्वासितार्थं विदुः ।  
 येषामुक्तिषु मुक्तिसौधविशिखा सोपानपङ्क्तिष्वमी  
 वैशंपायनशौनकप्रभृतयः श्रेष्ठाश्शिरःकम्पिनः ॥ ६८ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+व्यासाम्नायपयोधिकौस्तुभनिभं हृद्यं हरेरुत्तमं श्लोकं  
+केचन लोकवेदपदवी विश्वासितार्थं विदुः ।  
+येषामुक्तिषु मुक्तिसौधविशिखा सोपानपङ्क्तिष्वमी  
+वैशंपायनशौनकप्रभृतयः श्रेष्ठाश्शिरःकम्पिनः ॥ ६८ ॥
+</details>
 
 There are some (acharyas) who have understood the noble and charming _śloka_ uttered by Hari which is like the gem koustubha taken out of the ocean of Vyasa's Veda (_Mahābhārata_). Its meaning finds confirmation in the ways of the world (or the _smṛti_s) and in the paths of the Vedas. On hearing the words of these (ācharyas) which are like steps in the staircase that leads to the mansion of _mukti_, great souls like Vaiśampāyana and Śounaka nod their heads (in approval and admiration).
 

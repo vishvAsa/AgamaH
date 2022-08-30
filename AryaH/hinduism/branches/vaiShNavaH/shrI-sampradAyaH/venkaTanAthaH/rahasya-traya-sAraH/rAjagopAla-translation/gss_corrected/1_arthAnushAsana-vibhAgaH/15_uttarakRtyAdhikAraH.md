@@ -11,12 +11,21 @@ title = "१५ उत्तरकृत्याधिकारः"
 
 THE CHAPTER ON THE MANNER IN WHICH ONE SHOULD CONDUCT ONESELF AFTER _PRAPATTI_. page206
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 सन्तोषार्थं विमृशति मुहुस्सद्भिरद्ध्यात्मविद्यां  
 नित्यं ब्रूते निशमयति च स्वादु सुव्याहृतानि ।  
 अङ्गीकुर्वन्ननघललितां वृत्तिमादेहपातात्  
 दृष्टादृष्टस्वभरविगमे दत्तदृष्टिः प्रपन्नः ॥ ३४ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+सन्तोषार्थं विमृशति मुहुस्सद्भिरद्ध्यात्मविद्यां  
+नित्यं ब्रूते निशमयति च स्वादु सुव्याहृतानि ।  
+अङ्गीकुर्वन्ननघललितां वृत्तिमादेहपातात्  
+दृष्टादृष्टस्वभरविगमे दत्तदृष्टिः प्रपन्नः ॥ ३४ ॥
+</details>
 
 The _prapanna_, with his eyes fixed on the absence of his own responsibility (bhara) in regard to both what is seen in this life and what is to come hereafter, follows, until the fall of his body, a course of action which is faultless and agreeable ( observing the code of conduct prescribed for his _varṇa_ and his _āśrama_) and for the sake of delight (in the enjoyment of the auspicious qualities of _Bhagavān_ ) frequently studies Vedānta  with good men, teaches the sweet and noble utterances (of such as Alvars ), always and also listens to them.
 
@@ -110,12 +119,21 @@ This code of conduct which should be followed after _prapatti_ and which is an e
 
 Our holy men who know the songs of the Tamil Veda with their meaning and who have discharged all their debts (to the gods, the pitṛs etc.) by the performance of _prapatti_ accepted by Śrīkṛṣṇa of the beautiful Dwaraka, enjoy, with delight, even in this world, that service which the muktas and the suris perform without intermission and with eagerness in the world yonder.
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 प्रणयिनमिव प्राप्तं पश्चात्प्रिया स्वसमन्वितं  
 महति मुहुरामृष्टे दृष्ट्वा मनौ मणिदर्पणे ।  
 प्रपदनधनास्सन्तश्शुद्धैः प्रभुं परिभुञ्जते  
 प्रसृमरमहामोदस्मेरप्रसूनसमैः क्रमैः ॥ ३५ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+प्रणयिनमिव प्राप्तं पश्चात्प्रिया स्वसमन्वितं  
+महति मुहुरामृष्टे दृष्ट्वा मनौ मणिदर्पणे ।  
+प्रपदनधनास्सन्तश्शुद्धैः प्रभुं परिभुञ्जते  
+प्रसृमरमहामोदस्मेरप्रसूनसमैः क्रमैः ॥ ३५ ॥
+</details>
 
 Like a beloved wife who, in a big jewelled mirror, well-polished, sees her loving husband by the side of her own image - her loving husband who has come behind her and stands beside her, and is at once transported into the ecstasy of love and enjoys his presence with the scattering of flowers that spread their fragrance all round - (like that beloved wife ) good men, whose wealth consists in their _prapatti_, see the Supreme lord in the great _mantra_ (Tiru _mantra_) which has frequently been meditated upon and enjoy Him with loving service similar to fragrant flowers.
 

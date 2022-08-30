@@ -7,12 +7,21 @@ title = "१९ स्थानविशेषाधिकारः"
 
 FOR THE RESIDENCE OF THE _PRAPANNA_. page249
 
-SANSKRIT _ŚLOKA_ :
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 यत्रैकाग्र्यं भवति भगवत्पादसेवार्चनादेः  
 यत्रैकान्त्यव्यवसितधियो यस्य कस्यापि लाभः ।  
 वासस्थानं तदिह कृतिनां भाति वैकुण्ठकल्पं  
 प्रायो देशा मुनिभिरुदिताः प्रायिकौचित्यवन्तः ॥ ४२ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+यत्रैकाग्र्यं भवति भगवत्पादसेवार्चनादेः  
+यत्रैकान्त्यव्यवसितधियो यस्य कस्यापि लाभः ।  
+वासस्थानं तदिह कृतिनां भाति वैकुण्ठकल्पं  
+प्रायो देशा मुनिभिरुदिताः प्रायिकौचित्यवन्तः ॥ ४२ ॥
+</details>
 
 The place where it is possible to concentrate all one's attention on such things as service at the feet of _Bhagavān_ and His adoration, or the place where one can find some one or other whose wind is exclusively and staunchly fixed on _Bhagavān_ - that is the place of abode for prapannās as it is almost equal to Vaikuṇṭha. Many places that have been prescribed (for abode ) by the sages generally have this fitness (in these two respects).
 
@@ -89,12 +98,21 @@ Therefore the statement in the following _śloka_  :-- "The man " who performs _
 
 (4) That place on the earth where dwell (the devotees of the Lord), who long for the world above (Paramapada) which is the famous residence of Nārāyaṇa , the Lord of Lakṣmī , born of the lotus full of honey (pollen) - that place is as sacred as the Himalaya surrounded by forests, the G_aṅga_, the Cauvery, the sea, the holy cities (like Ayodhya, Mathura, Kasi and Kanchi) and ŚrīVaikanta all in one.
 
-SANSKRIT VERSE:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 सा काशीति न चाकशीति भुवि सायोद्ध्येति नाद्ध्यास्यते  
 सावन्तीति न कल्मषादवति सा काञ्चीति नोदञ्चति ।  
 धत्ते सा मधुरेति नोत्तमधुरां नान्यापि मान्या पुरी  
 या वैकुण्ठकथासुधारसभुजां रोचेत नो चेतसे ॥ ४३ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+सा काशीति न चाकशीति भुवि सायोद्ध्येति नाद्ध्यास्यते  
+सावन्तीति न कल्मषादवति सा काञ्चीति नोदञ्चति ।  
+धत्ते सा मधुरेति नोत्तमधुरां नान्यापि मान्या पुरी  
+या वैकुण्ठकथासुधारसभुजां रोचेत नो चेतसे ॥ ४३ ॥
+</details>
 
 The place which is not to the liking of the minds of those who taste the nectar of the stories of _Bhagavān_ (Vaikuṇṭha  ) - that place does not shine in the world, merely because it is called Kasi, (Kasi: that which shines); it does not become a (suitable) place of residence merely because it is called Ayodhya; it does not save us from our sins merely because it is called Avanti (Ave to protect); Kanchi is not excellent because of its name; nor is Madhura considered a seat of excellence merely because it is called Madhura. So also other cities do not become worthy merely because of their names, (if they are not to the liking of those who delight in the ambrosia of stories concerning _Bhagavān_ (Vaikuṇṭha   ).
 

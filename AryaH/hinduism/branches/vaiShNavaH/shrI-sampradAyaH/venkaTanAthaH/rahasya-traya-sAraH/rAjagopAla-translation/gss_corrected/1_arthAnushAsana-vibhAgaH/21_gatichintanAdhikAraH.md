@@ -11,12 +11,21 @@ title = "२१ गतिचिन्तनाधिकारः"
 
 PATH OR ROUTE.page267
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 ज्वलनदिवसज्योत्स्नापक्षोत्नरायणवत्सरान्  
 पवनतपनप्रालेयांशून् क्रमादचिरद्युतिम् ।  
 जलधरपतिं देवाधीशं प्रजापतिमागत-  
 स्तरति विरजां दूरे वाचस्ततः परमद्भुतम् ॥ ४६ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+ज्वलनदिवसज्योत्स्नापक्षोत्नरायणवत्सरान्  
+पवनतपनप्रालेयांशून् क्रमादचिरद्युतिम् ।  
+जलधरपतिं देवाधीशं प्रजापतिमागत-  
+स्तरति विरजां दूरे वाचस्ततः परमद्भुतम् ॥ ४६ ॥
+</details>
 
 Fire (archis), day.time, the bright half of the month sukla paksha), Uttarāyaṇa and the year, thence Vayu, Surya, Chandra and then Lightning, Varuna, Indra, Prajāpati or _Brahma_ -- having traversed this path in the order given above, the self crosses the river Viraja; then follows the wonder that defies (all description in words.)
 
@@ -72,12 +81,21 @@ Of this meditation on the path to _mukti_, the state of Sītā is an example (of
 
 Agni, Daytime, Śuklapakṣa, Uttarāyaṇa, the year, the intervening Vāyu, Sūrya, Chandra, Lightning, Varuṇa, the king of the devas, (Indra) with his umbrella (signifying rulership) and Prajāpati – by these the soul of the _mukta_ is entertained on the way with delights and thereafter it enters the abode of bliss.
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 पितृपथघटीयन्त्रारोहावरोहपरिभ्रमैः  
 निरयपदवीयातायातक्रमैश्च निरन्तरैः ।  
 अधिगतपरिश्रान्तीनाज्ञाधरैरतिवाह्य नः  
 सुखयति निजच्छायादायी स्वयं हरिचन्दनः ॥ ४७ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+पितृपथघटीयन्त्रारोहावरोहपरिभ्रमैः  
+निरयपदवीयातायातक्रमैश्च निरन्तरैः ।  
+अधिगतपरिश्रान्तीनाज्ञाधरैरतिवाह्य नः  
+सुखयति निजच्छायादायी स्वयं हरिचन्दनः ॥ ४७ ॥
+</details>
 
 We become exhausted by frequent ascentt (to _svarga_) and descent back to the earth along the path of the Pitṛs (the path of smoke) like the water-pot going up and down the well by the rotation of the water-wheel. (We become exhausted likewise) by incessant journey, to and fro, along the route to hell. (So) Hari makes the various deities (on the shining path of archis) entertain us who are so exhausted and at length confers bliss on us by keeping us, as it were, under His shade which is (like the shade of a sandal tree).
 

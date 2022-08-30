@@ -9,12 +9,21 @@ title = "१० प्रपत्तियोग्याधिकारः"
 
 (10) THE CHAPTER ON FITNESS FOR _PRAPATTI_. page170
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 अर्थित्वेन समर्थता त्रिकतनुस्संपिण्डिताधिक्रिया  
 सा चाष्टाङ्गषडङ्गयोगनियतावस्था व्यवस्थापिता ।  
 श्रौती सर्वशरण्यता भगवतः स्मृत्याऽपि सत्यापिता  
 सत्यादिष्विव नैगमेष्वधिकृतिस्सर्वास्पदे सत्पथे ॥ २४ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+अर्थित्वेन समर्थता त्रिकतनुस्संपिण्डिताधिक्रिया  
+सा चाष्टाङ्गषडङ्गयोगनियतावस्था व्यवस्थापिता ।  
+श्रौती सर्वशरण्यता भगवतः स्मृत्याऽपि सत्यापिता  
+सत्यादिष्विव नैगमेष्वधिकृतिस्सर्वास्पदे सत्पथे ॥ २४ ॥
+</details>
 
 Fitness (for _Bhakti_ or _Prapatti_) consists in a combination of desire (for the fruits of a course of action and of ability which is threefold[^50] . This fitness of man is differentiated as consisting in conditions prescribed for the _yoga_ of eight _aṅga_s or auxiliaries (_bhakti_ _yoga_) and for the _yoga_ of six _aṅga_s or auxiliaries (_prapatti_). That _Bhagavān_ is the refuge or Saviour of all has been declared in the _śruti_  and confirmed in the _smṛti_s। In adopting this righteous path viz., _prapatti_, there is competence for all as in the matter of speaking the truth and such other injunctions as are ordained in the Vedas (for all men , without any difference of caste or _āśrama_).
 
@@ -62,12 +71,21 @@ If such qualifications exist, _prapatti_ is certainly open to all as an _upāya_
 
 The devotees of the Lord ( _ācārya_ s) have themselves understood and have made us (also ) understand the eternal Lord who is the origin of all things and who is anxious to save us, being full of the might of mercy, so that all persons from the Brahmin to the Caṇḍāla and especially those who feel most the sufferings of _samsāra_ may, in their helplessness and without seeking any other saviour or any other fruit, approach Him and seek refuge under Him.
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 भक्त्यादौ शक्त्यभावः प्रमितिरहितता शास्त्रतः पर्यदासः  
 कालक्षेपाक्षमत्वं त्विति नियतिवशादापतद्भिश्चतुर्भिः ।  
 एकद्वित्र्यादियोगव्यतिभिदुरनिजाधिक्रियास्संश्रयन्ते  
 सन्तः श्रीशं स्वतन्त्रप्रपदनविधिना मुक्तये निर्विशङ्काः ॥ २५ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+भक्त्यादौ शक्त्यभावः प्रमितिरहितता शास्त्रतः पर्यदासः  
+कालक्षेपाक्षमत्वं त्विति नियतिवशादापतद्भिश्चतुर्भिः ।  
+एकद्वित्र्यादियोगव्यतिभिदुरनिजाधिक्रियास्संश्रयन्ते  
+सन्तः श्रीशं स्वतन्त्रप्रपदनविधिना मुक्तये निर्विशङ्काः ॥ २५ ॥
+</details>
 
 (1) Inability to adopt such _upāya_s as _Bhakti_ _yoga_, (2) ignorance of the required knowledge; (3) prohibition by the _śāstra_s of the adoption of such means and (4) inability to endure any delay in attaining _mukti_ :- these four, occurring either singly[^51] * or in combinations of two, three or four, by virtue of adṛṣṭa (resulting from meritorious deeds performed in the past) are qualifications of varied kinds for the performance of direct and independent _prapatti_ to the Lord of Lakṣmī  and good men resort to it with these qualifications and free from all doubt for the attainment of _mukti_.
 

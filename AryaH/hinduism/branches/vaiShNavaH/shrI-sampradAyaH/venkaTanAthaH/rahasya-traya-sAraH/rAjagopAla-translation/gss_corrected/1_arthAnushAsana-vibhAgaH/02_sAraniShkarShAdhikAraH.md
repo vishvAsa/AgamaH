@@ -19,12 +19,21 @@ It means: “Having given up rites or activities as means to secure _mokṣa_ , 
 
 These, then, are the "three mysteries or _mantra_s" which are the best of what should be known and meditated upon. The fuller and more subtle meanings of these _mantra_s are explained in later chapters. )--Tr.
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 श्रुति–पथ–विपरीतं क्ष्वेळ–कल्पं, श्रुतौ च  
 प्रकृति–पुरुष–भोग–प्रापकांशो न पथ्यः ।  
 तदिह विबुधगुप्तं मृत्युभीता विचिन्व-  
 न्त्युपनिषदमृताब्धेरुत्तमं सारमार्याः ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+श्रुति–पथ–विपरीतं क्ष्वेळ–कल्पं, श्रुतौ च  
+प्रकृति–पुरुष–भोग–प्रापकांशो न पथ्यः ।  
+तदिह विबुधगुप्तं मृत्युभीता विचिन्व-  
+न्त्युपनिषदमृताब्धेरुत्तमं सारमार्याः ॥
+</details>
 
 What is opposed to the way of the Vedas is like poison; even in the Srutīs or Vedas, those parts which treat of the means of attaining the enjoyment of material goods (_Prakṛti_ bhoga) and of the enjoyment of one's own atma or self (purusha-bhoga) or (Kaivalya) are not salutary. Therefore the wise who are afraid of the cycle of births and deaths ( _samsāra_) seek the best essence extracted out of the ocean of nectar called the Upaniṣads which has been guarded with great care by sages (i.e.) previous _ācārya_s for our benefit
 
@@ -75,12 +84,21 @@ Even there, the three Mysteries (_mantra_s) which are, as it were, an epitome of
 
 As if what has been already learnt is not enough, the eighteen subjects of study may confront us like burdens (on the intellect); but they add only to the number (and are of no use). Therefore the _ācārya_s of our system (Visiştādvaitam) have, with wise discrimination, given us what the _Nitya_-sūris whose wisdom never languishes (literally who never wink") speak of in exalted terms. namely, the 'eight' (aṣṭākṣara) and the two' (viz) the _Dvayam_ and the _carama_ _śloka_ ,
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 शाखानामुपरि स्थितेन मनुना मूलेन लब्धात्मकः  
 सत्ताहेतु सकृज्जपेन सकलं कालं द्वयेन क्षिपन् ।  
 वेदोत्तंस विहार सारथि दया गुंभेन विस्रंभितः  
 सारज्ञो यदि कश्चिदस्ति भुवने नाथस्स यूथस्य नः ॥ ९ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+शाखानामुपरि स्थितेन मनुना मूलेन लब्धात्मकः  
+सत्ताहेतु सकृज्जपेन सकलं कालं द्वयेन क्षिपन् ।  
+वेदोत्तंस विहार सारथि दया गुंभेन विस्रंभितः  
+सारज्ञो यदि कश्चिदस्ति भुवने नाथस्स यूथस्य नः ॥ ९ ॥
+</details>
 
 The basic _mantra_ (mūlamantra) called aṣṭākṣara shines conspicuously in the Upaniṣads (literally, the end of the various branches of the Veda). If there is any one endowed with discriminating wisdom who has understood from that _mantra_ the truth about his essential nature, and if he spends all his time in uttering the _Dvayam_ which, even at a single utterance, can produce the fruition of the desire for the ultimate goal of life and if he has also absolute faith in the means of salvation taught with compassion in the _carama_ _śloka_  by Śrīkṛṣṇa who, for his sport or liIa, became the charioteer, and, who is the crest jewel, as it were, of the Vedas - if there is any such person (at all) in the world, he will be the leader of all our hosts.
 

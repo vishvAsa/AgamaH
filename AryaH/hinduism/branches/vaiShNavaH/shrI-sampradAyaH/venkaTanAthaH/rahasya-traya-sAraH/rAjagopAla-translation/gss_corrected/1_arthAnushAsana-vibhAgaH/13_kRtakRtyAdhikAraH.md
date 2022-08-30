@@ -5,12 +5,21 @@ title = "१३ कृतकृत्याधिकारः"
 
 (13) THE CHAPTER ON THE MAN WHO HAS DONE WHAT OUGHT TO BE DONE (I.E.) _PRAPATTI_. page195
 
-SANSKRIT _ŚLOKA_.
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 समर्थे सर्वज्ञे सहजसुहृदि स्वीकृतभरे  
 यदर्थं कर्तव्यं न पुनरिह यत्किञ्चिदपि नः ।  
 नियच्छन्तस्तस्मिन्निरुपधिमहानन्दजलधौ  
 कृतार्थीकुर्मः स्वं कृपणमपि कैङ्कर्यधनिनः ॥ ३० ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+समर्थे सर्वज्ञे सहजसुहृदि स्वीकृतभरे  
+यदर्थं कर्तव्यं न पुनरिह यत्किञ्चिदपि नः ।  
+नियच्छन्तस्तस्मिन्निरुपधिमहानन्दजलधौ  
+कृतार्थीकुर्मः स्वं कृपणमपि कैङ्कर्यधनिनः ॥ ३० ॥
+</details>
 
 When _Bhagavān_, who is omnipotent, who knows all things and who is, by His nature, full of love for us, has accepted the responsibility (of protecting us ), there is nothing more remaining to be done by us here for it; let us therefore fix our souls in that bundle of supreme bliss and feel the satisfaction (of having attained our object) by becoming rich in rendering service to Him, poor though we may have been before.
 
@@ -49,12 +58,21 @@ Since one of the qualifications for the performance of _prapatti_, is sorrow or 
 
 Our spiritual leaders whom the Lord of Śrī that dwells on Hastigiri has taken into His protection after endeavouring for a long time to find out what boon He should confer on those who loved Him. They are like kings and gods (to us), for they have, ever in their minds, the abode of the Lord of the eternal suris and they are like Paramahamsas, because they have completed all rites that have to be performed, (or like swans in their purity or in their capacity to separate the essential from the non-essential).
 
-140 SANSKRIT _ŚLOKA_:
+140 <details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 भगवति हरौ पारं गन्तुं भरन्यसनं कृतं  
 परिमितसुखप्राप्त्यै कृत्यं प्रहीणमकृत्यवत् ।  
 भवति च वपुर्वृत्तिः पूर्वं कृतैर्नियतक्रमा  
 परमिह विभोराज्ञासेतुर्बुधैरनुपाल्यते ॥ ३१ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+भगवति हरौ पारं गन्तुं भरन्यसनं कृतं  
+परिमितसुखप्राप्त्यै कृत्यं प्रहीणमकृत्यवत् ।  
+भवति च वपुर्वृत्तिः पूर्वं कृतैर्नियतक्रमा  
+परमिह विभोराज्ञासेतुर्बुधैरनुपाल्यते ॥ ३१ ॥
+</details>
 
 Bharanyāsa (or the surrender of the responsibility of protection) has been made (at the feet of) _Bhagavān_ (Hari) for reaching beyond _samsāra_. So also actions that can produce only limited pleasures have been given up just like forbidden actions. The sustenance of the body will continue in accordance with past _karma_ (which has begun to operate). So nothing needs to be done for it. Thereafter (i.e) after _prapatti_ the bounds[^54] * imposed by the Lord's command are scrupulously observed by wise men, (merely because it is the Lord's command.)
 

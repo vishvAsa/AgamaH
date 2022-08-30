@@ -33,10 +33,17 @@ THE SUCCESSION OF ĀCĀRYAS
 वानेऱप्पोमळवुम् वाऴ्वु.
 </details>
 
-SANSKRIT _ŚLOKA_ :
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 गुरुभ्यस्तद् गुरुभ्यश्च नमोवाकमधीमहे ।  
 वृणीमहे च तत्राद्यौ दंपती जगतां पती ॥ १ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+गुरुभ्यस्तद् गुरुभ्यश्च नमोवाकमधीमहे ।  
+वृणीमहे च तत्राद्यौ दंपती जगतां पती ॥ १ ॥
+</details>
 
 (With due devotion) we repeat the expression of adoration to our _guru_s and likewise to their _guru_s; and among these (latter), we pray for the grace of the  Primaeval Couple (Nārāyaṇa  and Lakṣmī ), the twin _śeṣī_s[^1] of all the worlds (so that they may be both the end to be attained by us and the means of attaining it).
 
@@ -190,21 +197,39 @@ From [^f23] Kaṭha _śruti_[^9]  and [^f24] Jābala _śruti_[^10]  it is well-k
 
 "Having sought the protection of my _guru_ who has graciously taught me that _Bhagavān_ is the Inner Self within me and having also bowed with devotion to the line of his _guru_s, I seek the refuge of the feet of the Lord, after bowing at the feet of that generous soul who appeared in Śrī Perumbudur owing to his compassion ( for his fellow-men), (his _guru_) Peria Nambi, Alavandar (the _guru_ of Peria Nambi, Manakkal Nambi, Uyyakkondar who taught the good path (of _prapatti_) to Manakkal Nambi, Nāthamuni (the _guru_ of Uyyakkondar), Satagopan (Nammalvar) (the _guru_ of Nāthamuni) and Senainathan (the _guru_ of Nammalvar) and then, of the gracious Lakṣmī , sweet to the Lord as ambrosia.
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 एते मह्यमपोढमन्मथशरोन्माथाय नाथादय  
 स्त्रय्यन्तप्रतिनन्दनीयविविधोदन्ताः स्वदन्तामिह ।  
 श्रद्धातव्यशरण्यदंपतिदया दिव्यापगाव्यापकाः  
 स्पर्धाविप्लव विप्रलम्भपदवी वैदेशिका देशिकाः ॥२॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+एते मह्यमपोढमन्मथशरोन्माथाय नाथादय  
+स्त्रय्यन्तप्रतिनन्दनीयविविधोदन्ताः स्वदन्तामिह ।  
+श्रद्धातव्यशरण्यदंपतिदया दिव्यापगाव्यापकाः  
+स्पर्धाविप्लव विप्रलम्भपदवी वैदेशिका देशिकाः ॥२॥
+</details>
 
 May these great spiritual teachers, Nāthamuni and others, fill my heart here and now with delight, so that I may not be subject to the impact of the arrows of Manmatha (i. e. to the pleasures of the senses )--teachers who bring us blissful truths of varied kinds from Vedānta , who convey to us (like Bhagīratha) the celestial river of the compassion of the divine couple to be sought in full faith and who are foreign to the paths of envy, error and deception!
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 हृद्या हृत्पद्मसिंहासनरसिकहयग्रीवहेषोर्मिघोष-  
 क्षिप्तप्रत्यर्थिदृप्तिर्जयति बहुगुणा पङ्क्तिरस्मद्गुरूणाम् ।  
 दिक्सौधाबद्धजैत्रध्वजपटपवनस्फातिनिर्धूततत्त  
 त्सिद्धान्तस्तोमतूलस्तबकविगमनव्यक्तसद्वर्तनीका ॥ ३ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+हृद्या हृत्पद्मसिंहासनरसिकहयग्रीवहेषोर्मिघोष-  
+क्षिप्तप्रत्यर्थिदृप्तिर्जयति बहुगुणा पङ्क्तिरस्मद्गुरूणाम् ।  
+दिक्सौधाबद्धजैत्रध्वजपटपवनस्फातिनिर्धूततत्त  
+त्सिद्धान्तस्तोमतूलस्तबकविगमनव्यक्तसद्वर्तनीका ॥ ३ ॥
+</details>
 
 The blissful line of our _guru_s who are possessed of many auspicious qualities, who have brought down the arrogance of rival controversialists by the successive neighs issuing from Hayagrīva[^11] who delights in sitting on the throne of their hearts, and whose triumphant banner fixed at the top of the mansion of the four quarters has, by the flourish of its cloth waving in the breeze, dispelled the doctrines of their respective systems like tufts of cotton and thereby rendered the good path clear to all this blissful line of our _guru_s shines supreme.
 

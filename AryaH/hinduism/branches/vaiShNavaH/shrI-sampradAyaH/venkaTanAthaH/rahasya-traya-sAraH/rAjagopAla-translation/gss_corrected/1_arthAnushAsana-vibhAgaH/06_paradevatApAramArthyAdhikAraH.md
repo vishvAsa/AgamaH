@@ -10,12 +10,21 @@ title = "०६ परदेवतापारमार्थ्याधिक�
 
 6. THE CHAPTER ON THE TRUTH CONCERNING THE SUPREME DEITY. page131
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 आत्मैक्यं देवतैक्यं त्रिकसमधिगतातुल्यतैक्यं त्रयाणा  
 मन्यत्रैश्वर्यमित्याद्यनिपुणफणितीराद्रियन्ते न सन्तः ।  
 त्रय्यन्तैरेककण्ठैस्तदनुगुणमनुव्यासमुख्योक्तिभिश्च  
 श्रीमान्नारायणो नः पतिरखिलतनुर्मुक्तिदो मुक्तभोग्यः ॥ १६ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+आत्मैक्यं देवतैक्यं त्रिकसमधिगतातुल्यतैक्यं त्रयाणा  
+मन्यत्रैश्वर्यमित्याद्यनिपुणफणितीराद्रियन्ते न सन्तः ।  
+त्रय्यन्तैरेककण्ठैस्तदनुगुणमनुव्यासमुख्योक्तिभिश्च  
+श्रीमान्नारायणो नः पतिरखिलतनुर्मुक्तिदो मुक्तभोग्यः ॥ १६ ॥
+</details>
 
 Those who are not proficient in the śāstra s say that there is only a single self, that all deities (like Indra, Agni and so on) are only one, that the three deities (_Brahma_, Viṣṇu  and Siva), when properly understood, are alike and of equal rank, that these three deities are only one deity (in three forms) and that the Supreme Deity is other than these three and hold other such (erroneous) views, but those who havediscrimination entertain no regard for these (divergent views). The Upaniṣads, with one voice, and so also Manu, Vyāsa and others, following the Upaniṣads, proclaim that _Śrīman_ Nārāyaṇa  is our Lord who has all (things and beings) for His body, that He (alone) can give _mukti_ and that He is the object of blissful enjoyment for those who have attained _mokṣa_ ,
 
@@ -271,10 +280,17 @@ Our _ācārya_ s have proclaimed, in so uncertain terms, that our eternal Lord w
 
 [^41]: The Veda is afraid of the man who has only a little knowledge of it. (Bibheti alpa śruteh vedah)
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 जनपदभुवनादिस्थानजैत्रासनस्थेषु अनुगतनिजवार्तं नश्वरेष्वीश्वरेषु ।  
 परिचितनिगमान्तः पश्यति श्रीसहायं जगति गतिमविद्यादन्तुरे जन्तुरेकः ॥१७॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+जनपदभुवनादिस्थानजैत्रासनस्थेषु अनुगतनिजवार्तं नश्वरेष्वीश्वरेषु ।  
+परिचितनिगमान्तः पश्यति श्रीसहायं जगति गतिमविद्यादन्तुरे जन्तुरेकः ॥१७॥
+</details>
 
 In this world which is enveloped in _avidyā_ or _karma_, there may be found, here and there, a single individual who has closely studied Vedānta  and who can realise that Nārāyaṇa with His consort Śrī is the only refuge, when rulers sitting on victorious thrones as sovereigns of countries, of the whole world, and of _Brahman_da itself perish utterly along with the story of their lives.
 

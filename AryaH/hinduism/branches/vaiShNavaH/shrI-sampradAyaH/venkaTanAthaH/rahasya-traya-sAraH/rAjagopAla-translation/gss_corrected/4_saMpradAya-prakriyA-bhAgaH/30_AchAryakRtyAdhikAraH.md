@@ -7,12 +7,21 @@ title = "३० आचार्यकृत्याधिकारः"
 
 AN ĀCĀRYA. page625
 
-SANSKRIT _ŚLOKA_:--
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 अधिजिगमिषुराद्यं धाम दिव्यं त्रिधाम्नः  
 श्रुतविविधपरीक्षाशोधिते क्वापि पात्रे ।  
 अनघगुणदशायामाहितस्नेहमार्यः  
 प्रदिशति निरपायं संप्रदायप्रदीपम् ॥ ६९ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+अधिजिगमिषुराद्यं धाम दिव्यं त्रिधाम्नः  
+श्रुतविविधपरीक्षाशोधिते क्वापि पात्रे ।  
+अनघगुणदशायामाहितस्नेहमार्यः  
+प्रदिशति निरपायं संप्रदायप्रदीपम् ॥ ६९ ॥
+</details>
 
 The noble_ācārya_, who longs to attain the primaeval and heavenly abode of _Viṣṇu_, lights up the imperishable lamp of spiritual tradition (sampradaya) in some deserving disciple who has been tested in various and well-known ways and found fit (to receive the light). (He lights up this lamp) with true affection (sneha) when the disciple is in a state of mind (daśā) free from unworthy qualities (guṇa) like a well-tested and weil-burnished vessel with oil (sneha) poured into it and with a wick (daśā) made of pure threads (guṇa)[^119] .
 
@@ -34,12 +43,21 @@ They would teach their śiṣyas such truths as the following:
 
 (1) Tattva. “There is a self or ātmā which is eternal and different from the body and the senses. Besides these two viz., the sentient beings and non-sentient things, there is a Supreme Self who dwells within all of them as their ruler and who is the _śeṣī_ (for whom they exist). Other than this Supreme Self there is no one, either oneself or others, that can protect the self". (2) Hita : They will also teach the means (_hita_) by which the end can be trained, in the following words to be uttered by the śiṣya "From beginningless time, I have been in _samsāra_ subject to the cycle of births and deaths. In order that I may not have such sufferings as dwelling within the embryo, I pray that Thou shouldst grant me Thy holy feet and save me." (With these words) and with the utterance of _Dvaya_ , preceded by obeisance to the succession of _guru_s, taught graciously by the _ācārya_s, the _ _, should be taught to seek the feet of Nārāyaṇa and _Śrī_ and surrender his self and whatever is his, as also the burdens or responsibilities connected with them, when the good acarya has thus introduced the _śiṣya_ to the Lord, the _śiṣya_ should be made to feel assured that the Lord would never, thereafter, forsake him so that he may live the rest of his life here in the spirit of good will to every one and free from all offence and his later life may become the prelude _to_ _mokṣa_. Thus he would teach the śiṣya what he should do after the surrender of responsibility (bhara_nyāsa_) in as brief á manner as would suit the aptitude of the śiṣya.
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 प्रत्येयस्तु (प्रत्यग्वस्तु) विलक्षणः प्रकृतितस्त्रातापतिस्तत्पर  
 स्तस्मिन्नात्मभरार्पणं हिततमं तच्छेषवृत्तिः फलम् ।  
 इत्थं तत्त्वहिते पुमर्थ इति नस्त्रेधा विभक्तं धनं  
 दायत्वेन दयाधनास्स्वयमदुर्दत्तात्मनां देशिकाः ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+प्रत्येयस्तु (प्रत्यग्वस्तु) विलक्षणः प्रकृतितस्त्रातापतिस्तत्पर  
+स्तस्मिन्नात्मभरार्पणं हिततमं तच्छेषवृत्तिः फलम् ।  
+इत्थं तत्त्वहिते पुमर्थ इति नस्त्रेधा विभक्तं धनं  
+दायत्वेन दयाधनास्स्वयमदुर्दत्तात्मनां देशिकाः ॥
+</details>
 
 "The soul or self is different from _prakṛti_ or matter ; greater than the self is the Saviour who is the Ruler (over all); the supreme good of man consists in the surrender of the responsibility of the self to Him; the end (attained thereby) is existence solely for the fulfilment of His purposes'. In these words our spiritual teachers whose sole wealth was their compassion gave us, of their own accord, as a heritage, the (spiritual) wealth divided into three classes (viz, tativa, _hita_, _puruṣārtha_), when we had surrendered ourselves to them.
 
@@ -83,12 +101,21 @@ Those lamps (of spiritual wisdom) which lighted the threshold of a certain house
 
 Our great _ācārya_s, who were absolutely free from ignorance and error, lighted this undying lamp out of compassionate grace, in the minds of worthy disciples who had grown rich in the true wealth of the performance of ordained rites in a manner which would accord with their knowledge. (They did so) because they desired that the whole world (of men) should become free from ignorance and adorn their heads with the Lord's feet owing to their longing for Paramapada,
 
-SANSKRIT _ŚLOKA_ :
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 निरवधिदयादिव्योदन्वत्तरङ्गनिरङ्कुशै-  
 र्नियमयति यश्शिष्यान् शिक्षाक्रमैर्गुणसंक्रमैः ।  
 अचरमगुरोराज्ञापारंपरी परवानसौ  
 न परमिह तांस्तल्लक्षेण स्वमप्यभिरक्षति ॥ ७० ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+निरवधिदयादिव्योदन्वत्तरङ्गनिरङ्कुशै-  
+र्नियमयति यश्शिष्यान् शिक्षाक्रमैर्गुणसंक्रमैः ।  
+अचरमगुरोराज्ञापारंपरी परवानसौ  
+न परमिह तांस्तल्लक्षेण स्वमप्यभिरक्षति ॥ ७० ॥
+</details>
 
 The _ācārya_ who obeys the successive commands of (the Lord who is) the first  _ācārya_ regulates (the minds and actions of) his śiṣyas by methods of instruction which create[^121] in them noble qualities similar to those in himself and which are like irresistible waves of the celestial sea of his boundless compassion. By doing so, he saves not only the disciple but himself also under the guise of saving him.
 

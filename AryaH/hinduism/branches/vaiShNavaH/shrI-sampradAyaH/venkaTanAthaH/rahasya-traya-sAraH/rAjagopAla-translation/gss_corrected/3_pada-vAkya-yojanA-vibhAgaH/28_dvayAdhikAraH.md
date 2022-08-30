@@ -5,12 +5,21 @@ title = "२८ द्वयाधिकारः"
 
 (28) THE CHAPTER ON THE DVAYA page479
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 आकर्णितो वितनुते कृतकृत्यकक्ष्या-  
 माम्रेडितो दिशति यश्च कृतार्थभावम् ।  
 प्रत्यूषतां भजति संसृतिकालरात्रेः  
 पद्मासहायशरणागतिमन्त्र एषः ॥ ६४ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+आकर्णितो वितनुते कृतकृत्यकक्ष्या-  
+माम्रेडितो दिशति यश्च कृतार्थभावम् ।  
+प्रत्यूषतां भजति संसृतिकालरात्रेः  
+पद्मासहायशरणागतिमन्त्र एषः ॥ ६४ ॥
+</details>
 
 This _mantra_ (_Dvaya_) which is used for performing s'aranagati to the Lord of Padma ( _Lakṣmī_) is of the nature of the dawn coming after the dark night of _samsāra_; for having caused it to be heard by _Bhagavān_, a man is in the position of one who has done his duty; having repeated it frequently, he is in the position of one who has attained his goal.
 
@@ -36,7 +45,7 @@ The s'aranāgati _Gadya_ is a commentary on _Dvaya_ :
 
 It may be asked: "Why should (he) dwell at such length without specifying the word Draya either in the beginning or at the end, but only here?" The answer is as follows:- Here in regard to the _upāya_ and the _upeya_ or what is to be attained thereby, the most important is Nārāyaṇa with _Śrī_ (_Lakṣmī_). Therefore the word Nārāyaṇa with its attribute _Śrī_ which occurs in two places rip _Dvaya_) has been already commented upon. So in order to show that along with the _Sādhyopāya_ (namely _prapatti_)) which is indicated by this _mantra_, the principal _upāya_ and the principal object of attainment have been commented upon, the word _Dvaya_ is here inserted (i.e.) to mean that the _Dvaya_ has been, for the most part, explained. Then in the _śloka_s which begin with 'pitaran mataram" and in certaio sentences taken form Jitante, and Bhagavadgītā and other passages which express the same idea, _Śrī_ _Rāmānuja_ shows that the resulting meaning of the _Dvaya_ is the adoption of the _upāya_ (_prapatti_) without any other object and with no other _upāya_ in one's view or power, and the form of prayer for pardon with the thought of the Saviour's nature preceding it. Thereafter following the order indicated by the meaning (and not by the actual order of words in the sentence), _Śrī_ _Rāmānuja_ explains the prayer in the word _namas_ for the removal of (all) hindrances. After this, he explains the supreme aim of life which is indicated by the suffix of the dative (or fourth case) in the words which end in the fourth case (Narāyānāya), which includes such aims as superior _bhakti_  (_parābhakti_ ) that precede the attainment of the supreme aim (the attainment of _Bhagavān_ and His _kaiṅkarya_). Then he points out how _Bhagavān_ is so full of compassion (as shown also in the second half of the _Caramaśloka_,) as to vouchsafe success both in regard to this life and in regard to what is to follow thereafter. (This he does) by the words stated to have been spoken by _Bhagavān_. Therefore all that is stated by (_Rāmānuja_) in the (_Śaraṇāgati_) _Gadya_ is intended to be conveyed by the _Dvaya_. This is indicated also by the words in the _Gadya_) which mean “uttering the _Dvaya_ in this manner with an understanding of its meaning etc".
 
-SANSKRIT _ŚLOKA_S
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 परभक्त्यादिमूलत्वं कैङ्कर्यस्य यदुच्यते । गद्यादिषु तदप्याहुरपवर्गदशाश्रयम् ॥  
 उत्तरोत्तरयोस्स्वामिसाक्षात्-करणभोगयोः । पूर्वपूर्वक्षणेष्टत्वात्तन्मूलत्वमुदीरितम् ॥  
@@ -45,6 +54,18 @@ SANSKRIT _ŚLOKA_S
 दुष्टेन्द्रियवशाच्चित्तं नृणां यत्कल्मषैर्वृतम् । तदन्तकाले संशुद्धिं याति नारायणालये ॥  
 इति व्रतविशेषे यत् सात्वतादिषु शिष्यते । तद्वदत्रोपपद्येत गद्योक्तान्त्यदशागमः ॥  
 अनुग्रह विशेषेण केनचित्परमात्मनः । कुरुकाधीशनाथाद्याः प्रागप्यन्वभवन् प्रभुम् ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+परभक्त्यादिमूलत्वं कैङ्कर्यस्य यदुच्यते । गद्यादिषु तदप्याहुरपवर्गदशाश्रयम् ॥  
+उत्तरोत्तरयोस्स्वामिसाक्षात्-करणभोगयोः । पूर्वपूर्वक्षणेष्टत्वात्तन्मूलत्वमुदीरितम् ॥  
+शरीरपातकाले तु हार्दस्यानुग्रहस्स्वयं । परिपाकं प्रपन्नानां प्रयच्छति तथाविधम् ॥  
+अङ्कोलतैलसिक्तानां बीजानामचिराद्यथा । विपाकः फलपर्यन्तस्तथात्रेति निदर्शितं ॥  
+दुष्टेन्द्रियवशाच्चित्तं नृणां यत्कल्मषैर्वृतम् । तदन्तकाले संशुद्धिं याति नारायणालये ॥  
+इति व्रतविशेषे यत् सात्वतादिषु शिष्यते । तद्वदत्रोपपद्येत गद्योक्तान्त्यदशागमः ॥  
+अनुग्रह विशेषेण केनचित्परमात्मनः । कुरुकाधीशनाथाद्याः प्रागप्यन्वभवन् प्रभुम् ॥
+</details>
 
 The ācāryas of old have declared that the statement in such writings as the _Gadya_ that superior _bhakti_ ( para-_bhakti_ ) and the like (li, e. parajñāna and parama bhaktı) have, for their result, _kaiṅkarya_ describes what occurs in the state of _mukti_. Since what follows later in order namely, the direct vision of the Lord (para-_jñāna_) and the eager desire for the uninterrupted enjoyment of _Bhagavān_ are preceded by the eager longing to do so, they are said to result from para-._bhakti_ .
 
@@ -72,9 +93,15 @@ When we take the etymological meaning to be that she is to be reverenced by all,
 
 (6) In the etymological interpretation, "She makes the world ripe by her qualities” (śṛṇātii), the root (_Śrī_) would mean that, by her attributes like compassion, she enables those who have sought her protection to become ripe enough to have the qualities necessary for rendering service to the Lord. This idea is brought out in the passage: "Having Thy grace and the grace of Thy Consort who abides in the lotus, I will sweep the floor of Thy temple". Bearing in mind all these excellences (of _Lakṣmī_) stated in all these interpretations, Alavandar wrote: " Thy name too is _Śrī_. How can we have the fitness to praise Thee?" Bhattar, too, had in mind her being unconditionally gracious and said :- " _Bhagavān_" is ever gracious because of His association with Thee. Thy graciousness is not due to any cause or condition. It exists of its own accord, for art Thou not _Śrī_ ?" Among these meanings those that are appropriate to _Bhagavān_'s being the _upāya_  should be borne in mind in regard to the first part (of _Dvaya_), while those that are appropriate to _Bhagavān_'s being the object of attainment should be borne in mind in regard to the second part (of _Dvaya_ ).
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 ॥ स्वाम्युपाय उपेयश्च स्वरूपादिसमर्पणे । प्रथितः प्रतिसंबन्धी श्रीमान्निगमचक्षुषाम् ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+॥ स्वाम्युपाय उपेयश्च स्वरूपादिसमर्पणे । प्रथितः प्रतिसंबन्धी श्रीमान्निगमचक्षुषाम् ॥
+</details>
 
 In the surrender of such as one's essential Nature (and the burden of protection etc.), the Master is well known, to those who see with the eye of the śrutis, as the _upāya_ or means and as one to whom the surrender is made. He is also the _upeya_ (the object of attainment).
 
@@ -128,9 +155,15 @@ The divinely auspicious form of the Supreme Ruler is pure and auspicious (subha 
 
 The pure and essential form of the _jīva_ (free from bondage ) cannot come back to _samsāra_, since it is without the qualities necessary for doing so; but by its nature, it has in it in the potentiality of being associated with such qualities. Therefore it has not the purity and auspiciousness which are opposed to anything that is of the nature of a blemish, nor can it be a fit object of medi tation. When a released soul (_mukta_) assumes a form, it can become an object of meditation as also eternal sūris (_nitya_s) who have form, but neither of them has the purity and auspiciousness which can release the baddhas from _samsāra_. Therefore it is only the divinely auspicious form (of the Lord) which has purity and auspiciousness and the fitness of being an object of meditation, which are both necessary to the aspirant to _mukti_.
 
-SANSKRIT _ŚLOKA_ :
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 ॥ परावरसुखग्राह्यं प्रेमबोधप्रसावकम् । स्वरूपात् स्वामिनो रूपमुपादेयतमं विदुः ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+॥ परावरसुखग्राह्यं प्रेमबोधप्रसावकम् । स्वरूपात् स्वामिनो रूपमुपादेयतमं विदुः ॥
+</details>
 
 It is known that the ( divinely auspicious) form of the Master is of more importance (to the aspirant to _mukti_) than His essential nature _svarūpa_, because it is capable of being grasped easily both by the high (like _Brahma_) and by the low (like ordinary men ) and because it can produce (in those that contemplate it) _bhakti_  and južne.
 
@@ -138,9 +171,15 @@ In the sentence prescribing _śaraṇāgati_, namely, " Seek refuge under me alo
 
 a form appeared as the place of refuge. From the _śāstra_s, it is well known that this dividely auspicious form in the five states _Para_, Vyūha, _Vibhava_, Antaryāmī or Hārda and _Arcā_ is pure and auspicious and suitable for meditation.
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 ॥ चित्तालंबनसौकर्यकृपोत्तंभनतादिभिः । उपायत्वमिह स्वामिपादयोरनुसंहितम् ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+॥ चित्तालंबनसौकर्यकृपोत्तंभनतादिभिः । उपायत्वमिह स्वामिपादयोरनुसंहितम् ॥
+</details>
 
 Here (in the _Dvaya_ ) the feet of the Lord should be meditated on as the _upāya_, because they ure easier of being grasped by the mind for meditation and have such virtues as raising compassion (in Him ).
 
@@ -148,7 +187,7 @@ The servant resorts to the feet (of the Lord) because of their being extreinely 
 
 In the word _caraṇau_ ('The two feet) the word 'alone' is implicit in the meaning (i.e. the two feet alone) as in “seek refuge under Him alone by all possible means," "Satagopan who resorted to His feet alone as the _upāya_ and as the object of attainment" and "The feet of our Lord who lies on the serpent (śeṣa) ---His feet are alone our _upāya_".
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 चरणाविति निर्देशः पत्नीवैशिष्ट्यबाधकः ।  
 इति मन्दैरिदं प्रोक्तं श्रीमच्छब्दविरोधतः ॥  
@@ -158,6 +197,19 @@ SANSKRIT _ŚLOKA_:
 ग्रन्थज्ञैरपहास्यं तत् पतिप्राधान्यतोऽन्वयात् ॥  
 न सम्राजि सपत्नीके सद्वितीयोक्तिसाहसम् ।  
 तथात्रेत्यपरामृश्य दर्शितं गुरुसाहसम् ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+चरणाविति निर्देशः पत्नीवैशिष्ट्यबाधकः ।  
+इति मन्दैरिदं प्रोक्तं श्रीमच्छब्दविरोधतः ॥  
+शब्दस्वरसतः प्राप्तं वैशिष्ट्यं प्रथमश्रुतम् ।  
+विशेष्यचरणद्वित्वं न हि बाधितुमर्हति ॥  
+चरणानिति वक्तव्यमिति यच्च प्रसञ्जितम् ।  
+ग्रन्थज्ञैरपहास्यं तत् पतिप्राधान्यतोऽन्वयात् ॥  
+न सम्राजि सपत्नीके सद्वितीयोक्तिसाहसम् ।  
+तथात्रेत्यपरामृश्य दर्शितं गुरुसाहसम् ॥
+</details>
 
 "It has been said, by some who are stupid (manda), that the use of the word _caraṇau_ (the two feet - the dual of charana) is against the interpretation that _Bhagavān_ with _Śrī_ as His attri bute is intended (for in that case 'the four feet' should be the words). This is silly because this objection is refuted by the word _Śrī_mat which distinctly and explicitly states at the very beginning of the sentence " with His attribute _Śrī_". This indication of the attribute '_Śrī_' is first heard in the sentence and cannot therefore be annulled by the dual form, namely, the two feet' (which comes later in the sentence). The reasoning which says that the plural form "many or four-feet" should have been used in that case will appear ridiculous to those who are acquainted with literature, for the dual forn is used, because the husband is the principal factor and his spouse is necessarily associated with him. When an emperor has a spouse, no one would dare to say that he has some one else (as a second ruler). So also, here, a serious staternent has been recklessly made without due reflection,
 
@@ -173,9 +225,15 @@ THE MEANING OF THE WORD ŚARAṆAM
 
 "Here  in _Dvayam_, the word s'aranam which has the meanings _upāya_, abode and protector denotes only upăya". Since in the above _śloka_, _upāya_ has been pointed out as the special meaning here, it denotes _upāya_. .
 
-SANSKRIT _ŚLOKA_
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 भरन्यासबलादेव स्वयत्नविनिवृत्तये । अत्रोपायान्तरस्थाने रक्षको विनिवेशितः ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+भरन्यासबलादेव स्वयत्नविनिवृत्तये । अत्रोपायान्तरस्थाने रक्षको विनिवेशितः ॥
+</details>
 
 By the very nature of bhara_nyāsa_ (the surrender of the burden or responsibility of protection ), the Protector or Saviour is here (in _Dvaya_ ) placed in the position of other _upāya_s, in order that the _prapanna_ may refrain from any effort on his own part.
 
@@ -231,12 +289,21 @@ Though the word _Śrī_mate by itself denotes _Bhagavān_ and His Spouse who are
 
 Since the _jīva_ while performing saraņagati (with this _mantra_) is praying to the Savionr for what he desires, a word like bhaveyam (may I be) has to be supplied: Śrimate Nārāyaṇāya bhaveyam (May I be for Nārāyaṇa !) Thus, at first, the attainment of the desired end (service to the Lord) is prayed for as being the more important; thereafter, by the word _namas_, the removal of all hindrances (to salvation and to service) is prayed for.
 
-SANSKRIT _ŚLOKA_ :
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 अप्राप्तितःपरिहरन्स्वपरैस्स्वरक्षां  
 तादर्त्थ्यधीपरिहृतस्वपरार्थभावः ।  
 अन्योपभोगविरहादनघः प्रपन्नो  
 भुङ्क्ते स्वभोगमखिलं पतिभोगशेषम् ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+अप्राप्तितःपरिहरन्स्वपरैस्स्वरक्षां  
+तादर्त्थ्यधीपरिहृतस्वपरार्थभावः ।  
+अन्योपभोगविरहादनघः प्रपन्नो  
+भुङ्क्ते स्वभोगमखिलं पतिभोगशेषम् ॥
+</details>
 
 Giving up the idea of his salvation by himself or by others as impossible and giving up the idea of his existing either for himself or for others by the thought that lie exists (only) for the Lord and having become free from all sins by his aversion to all other objects of enjoyment than the Lord), the _prapanna_ enjoys all his bliss as something which is accessory to the Lord's enjoyment.
 
@@ -270,7 +337,7 @@ Although here (in _Dvaya_), the first part, the words ending with the dative (or
 
 The sum and substance of _Dvaya_ is this:- "At the feet of Nārāyaṇa who is the Lord of all, who is, in everyway and supremely blissful (or enjoyable) and who is inseparable from _Lakṣmī_ and in order that I may obtain the removal of all that is opposed to all kinds of service in all places, at all times and in all states or circumstances and to receive (the privilege of) full and perfect service to T'hem, I, who am destitute of _upāya_s, surrender the responsibility of the protection of myself with the accompaniment of the five _aṅga_s or accessories at the feet of Nārāyaṇa, so that I may not have anything to do for such things as the responsibility for protecting myself.
 
-SANSKRIT _ŚLOKA_S :
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 वैराग्यविजितस्वान्तैः प्रपत्तिविजितेश्वरैः ।  
 अनुक्रोशैकविजितैरित्युपादेशि देशिकैः ॥  
@@ -280,6 +347,19 @@ SANSKRIT _ŚLOKA_S :
 व्यक्तार्थपञ्चकमुपात्तषडङ्गयोगम् ।  
 सप्तार्णवीमहिमवद्विवृताष्टवर्णं  
 रङ्गे सतामिह रसं नवमं प्रसूते ॥ *
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+वैराग्यविजितस्वान्तैः प्रपत्तिविजितेश्वरैः ।  
+अनुक्रोशैकविजितैरित्युपादेशि देशिकैः ॥  
+इदमष्टपदं व्यासे समासे षट्पदं विदुः ।  
+वाक्यं पञ्चपदैर्यक्तमित्याख्यातप्रधानकम् ॥  
+एकं द्वयं त्र्यवयवं सुखलभ्यतुर्यं  
+व्यक्तार्थपञ्चकमुपात्तषडङ्गयोगम् ।  
+सप्तार्णवीमहिमवद्विवृताष्टवर्णं  
+रङ्गे सतामिह रसं नवमं प्रसूते ॥ *
+</details>
 
 1. This has been taught by_ācārya_s who had full control over their minds as a result of their indifference to worldly objects, who had won over the Lord by (their) _prapatti_ and who were overpowered solely by their compassion (to teach it to others).
 
@@ -309,12 +389,21 @@ SANSKRIT _ŚLOKA_S :
 
 We have thus explained how, by uttering, in combination, the two parts of _Dvaya_ which are read separately in the śruti, one can seek, as refuge or _upāya_, the two feet of the Lord of _Śrī_ who, out of compassion, is bent on helping us and who is prepared to pardon us; one can thus attain the Lord of the lotus.born _Lakṣmī_ and in the region of bliss attain faultless service to the Lord) along with the full and perfect enjoyment of the Lord.
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 न वेदान्ताच्छास्त्रं न मधुमथनात्तत्त्वमधिकं  
 न तद्भक्तात्तीर्थं न तदभिमतात्सात्विकपदम् ।  
 न सत्वादारोग्यं न बुधभजनाद्बोधजनकं  
 न मुक्तेस्सौख्यं न द्वयवचनतः क्षेमकरणम् ॥ ६५ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+न वेदान्ताच्छास्त्रं न मधुमथनात्तत्त्वमधिकं  
+न तद्भक्तात्तीर्थं न तदभिमतात्सात्विकपदम् ।  
+न सत्वादारोग्यं न बुधभजनाद्बोधजनकं  
+न मुक्तेस्सौख्यं न द्वयवचनतः क्षेमकरणम् ॥ ६५ ॥
+</details>
 
 There is no _śāstra_ superior to Vedanta; there is no higher Truth or Reality than the slayer of Madhu (Nārāyaṇa); there is nothing more holy of resort than His devotees; there is no better dwelling place than those places that are agreeable to them; there is no better means of preserving health than the quality of sattva (or eating sātvic food); there is no other way of acquiring wisdom than devotion to the wise; there is no bliss greater than _mokṣa_ ; similarly there is no better ineans of obtaining spiritual welfare (_mokṣa_) than the utterance of _Dvaya_.
 

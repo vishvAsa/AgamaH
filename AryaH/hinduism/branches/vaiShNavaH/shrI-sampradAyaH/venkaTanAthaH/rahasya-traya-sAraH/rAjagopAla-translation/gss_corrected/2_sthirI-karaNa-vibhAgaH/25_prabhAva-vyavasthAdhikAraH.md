@@ -12,12 +12,21 @@ title = "२५ प्रभाव-व्यवस्थाधिकारः"
 
 _PRAPATTI_ HAVE POTENCY:page358
 
-SANSKRIT _ŚLOKA_
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 स्वरूपं यद्यादृग्गुणविभवलीलादि च विभो  
 स्तदाज्ञासेतुश्च श्रुतिभिरवसेयं तदखिलम् ।  
 तथा तद्भक्तानां तदुपसदनादेश्च महिमा  
 यथाधीतं सद्भिर्यतिपतिमुखैरद्ध्यवसितः ॥ ५५ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+स्वरूपं यद्यादृग्गुणविभवलीलादि च विभो  
+स्तदाज्ञासेतुश्च श्रुतिभिरवसेयं तदखिलम् ।  
+तथा तद्भक्तानां तदुपसदनादेश्च महिमा  
+यथाधीतं सद्भिर्यतिपतिमुखैरद्ध्यवसितः ॥ ५५ ॥
+</details>
 
 The essential nature (_svarūpa_) of the Omnipresent Lord (vibhu), what and of what description are His qualities, His vibhavas (avatārs), His sportful activities and the like and the limits set by His command -- all these can be determined from the śrutis. So also the greatness of His devotees and the potency of the ways in which we should worship Him (_bhakti_) and the like (_prapatti_) have been determined by great men like _Śrī_ _Rāmānuja_ in accordance with what is stated (in the _sūtra_s).
 
@@ -37,9 +46,15 @@ It is said: “Those Sūdras" who have devotion' (_bhakti_ ) to _Bhagavān_ are 
 
 If this were not accepted (as the right interpretation), all rules and regulations (regarding caste) would be set at naught on the strength of the censure and praise (which) alone are intended to be conveyed) in such passages as the following :- "Auspicious qualities which carry esteem do not arise from caste. The gods consider as a Brahmin even a caṇḍāla who conducts himself in accordance with his caste," "Sannyasins and those who perform tapas (austerities) become caṇḍālas when they lapse from the code of conduct prescribed for them", and "Because" a man's hair has turned grey, he is not esteemed as old. He who has _jñāna_, even if he be a child, is esteemed by the gods as an old man". This is the right explanation of all such passages :
 
-SANSKRIT _ŚLOKA_ :
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
-प्रतिपत्तिविशेषार्थमन्यत्रान्यत्वकीर्तनम् । विशेषविधिसाकांक्षास्तत्र तत्तत् प्रवृत्तयः’’ ॥
+प्रतिपत्तिविशेषार्थमन्यत्रान्यत्वकीर्तनम् । विशेषविधिसाकांक्षास्तत्र तत्तत् प्रवृत्तयः ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+प्रतिपत्तिविशेषार्थमन्यत्रान्यत्वकीर्तनम् । विशेषविधिसाकांक्षास्तत्र तत्तत् प्रवृत्तयः ॥
+</details>
 
 When a member of one caste is praised as being of another Caste, it is to state that he should be esteemed as such at heart. But social conduct is regulated by special rules governing it.
 
@@ -57,10 +72,17 @@ Tuladhara and Dharmavyadha (who were of lower castes) only did this much: they t
 
 "_Bhakti_ or devotion is of eight kinds. If this _bhakti_ is found in a mleccha, he should be considered as a devout and knowing Brahmin. To him giving is proper and from him taking is proper. He should be treated with the same reverence as I myself". This _śloka_ has been commented upon (by Peria Achan Pillai) As meaning not that girls might be given in marriage to him and the like, but that he may be given the gift of knowledge and such like. "Treatment with reverence" (poojyah) is a general term. Therefore it means that if a man has devotion to _Bhagavān_, he should be treated with as much respect as the sõstras permit. Its purport is merely this much, that if a man treats such a devotee in the same way as he would treat others of the same caste, he would go to hell. The great sage summarised this in the _śloka_ “He who treats a devotee of _Bhagavān_, be he a Śūdra, a huntsman, or even a man who eats dog's flesh, as he would treat other men of these castes - he would go to hell." Therefore the potency of devotion to _Bhagavān_ should be so estimated as not to infringe the regulations of caste.
 
-SANSKRIT _ŚLOKA_.
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 अतो जातेर्निकृष्टायास्सर्वस्या वा विनाशतः । साजात्यं विष्णुभक्तानामिति मन्दमिदं वचः ॥  
 वैष्णवत्वेन मान्यत्वं समानं मुनि सम्मतम् । जात्यादिध्वंसतस्साम्यं मुक्तिकाले भविष्यति ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+अतो जातेर्निकृष्टायास्सर्वस्या वा विनाशतः । साजात्यं विष्णुभक्तानामिति मन्दमिदं वचः ॥  
+वैष्णवत्वेन मान्यत्वं समानं मुनि सम्मतम् । जात्यादिध्वंसतस्साम्यं मुक्तिकाले भविष्यति ॥
+</details>
 
 Therefore the contention that all devotees of _Viṣṇu_ are of the same caste either because of the lower caste perishing or of all castes perishing--this contention is foolish. Reverence for the sake of devotion to _Bhagavān_ is common, according to the sages, to all. Equality by the destruction of castes and the like will occur (only) at the time of _mukti_.
 
@@ -82,7 +104,7 @@ The great sages who can estimate this degree of purity have described, at consid
 
 [^71]: This means cent per cent purity.
 
-It is said in the " Vihagendra Samhita" as follows: "The man who is always thinking of Nārāyaṇa - whatever be the calling (vritti) he $ ($ another reading is cheshta (i.e.) movement (instead of vritti)) follows for his living, that is adoration; whatever he says (jalpah) is japam; whatever he sees is meditation or _dhyāna_; the water that has received contact with his feet is incomparably holy water; whatever is left after he has eaten will purify; his mere words are a sacred _mantra_: whatever he touches becomes pure." These _śloka_s, it is true, are authoritative, but "whatever be the calling, that is adoration" does not refer to any calling that is condemned in the _śāstra_s. It means that even if the man is obliged, owing to the unfavourable conditions brought about by place, time and the like, to follow a calling which is not ordained for him, it will be a proper means of obtaining the materials required for the adoration of the Lord, for it has been said: "In **times of adversity, a man may follow a calling slightly lower than that prescribed for him." The passage which says : - "Even the sin committed for my sake will be counted as _dharma_" has also the same purport. If this (interpretation) were not accepted, it would extend even to those callings that are prohibited. Even if the reading (in the _śloka_ cited above) be cheshta ( movement) and not vritti (calling), just like the acts intended for keeping the body alive and those that are enjoined by the _śāstra_, which are (therefore ) accepted, the word cheshta (movements) would refer to such things as the closing and the opening of the eyes which are natural and which are reckoned in the secret _śāstra_ (i.e.) Bhagavat _Śāstra_ as among [^72] the offerings to the Lord. This will not extend to those movements that are forbidden (in the _śāstra_s). Only those which are not forbidden and which are consistent with one's nature and reason and with _śāstra_ are ordained as fit to be offered. This applies also to the _śloka_ in the Gita which elaborates this idea, namely, “ Whatever you do for the protection of the body, whatever you eat, whatever offerings you make in the fire and whatever tapas you perform, do it, O son of Kunti, as if it were an offering to be placed before me." If, in such cases, any offence is committed against the _śāstra_s, one should perform, on the occasion, expiatory rites which are of the nature of service obligatory for the occasion (_naimittika_), in accordance with what is competent for one. "Whatever he says (jalpah) is japa" does not refer to vain chattering such as is forbidden in the _śloka_ : “Harsh speech, exaggeration of merits, tale- bearing, inappropriate talk-- these are the four sins of speech." It refers to the series of speeches and counter-speeches that are held by the man with his disciples, preceptors, fellow students, scholars and those who are in pursuit of spiritual excellence in order to teach what is not known, to confirm what is already known or to remove doubts. Or the word jalpah in that _śloka_ might mean the succession of speeches that are made in debate to refute infidels and heretics, for, though it is stated as a general rule, "One should not debate merely for the sake of a quarrel without the desire to know the truth", yet the _dharma_ - śāstras declare: "One should** condemn, according to one's ability, those who speak ill of _Bhagavān_ or of one's_ācārya_". "Whatever he sees is meditation or dhyāna" does not refer to such things as witnessing forbidden dances. It describes how when this man proceeds to render service (_kaiṅkarya_), whatever object meets his eye appears to him as having _Brahman_ as its inner self, for it has been said, 'I am Hari: all this is Janārdana; the causal substances like mahat and the effects which are producd therefrom are not different from Him. The man who thinks in this manner -- he will never fall a victim to the diseases of pleasure and pain which arise in _samsāra_", So also it is said, “Whatever appears ( before his eyes) is the Supreme Self". The sentence “ T'he water that has received contact with his feet is incomparably holy water" only assigns a superior merit when it is due. When the water from the feet is considered as holy, if there is exclusive devotion to Nārāyaṇa in the person, it is said to be holier than other sacred waters. It does not refer to such things as impure water which may, by chance, come into contact with his feet. The statement "Whatever is left after he has eaten purifies” refers only to certain specific remnants (of food) (ucchishta) which are prescribed as purificatory in contexts like a repeated Upanayana. Owing to the excellence of this quality, (the remnant of the food) is said to have superior purifying power. The words, certainly, do not mean that when disciples, sons and the like are devoted to Nārāyaṇa, whatever is left as remnant after they have eaten is purificatory for _ācārya_s and parents. It is said in the Sanatkumāra Samhita that the man who has eaten the food that has been offered to other deities or what is left as a remnant after those who are other than _guru_s have eaten should, for purification, live on milk alone for a month (payovrata), should always utter ashtākshara and eat also _Brahma_kurcha - panchagavya. This passage prescribes the code of conduct for one who follows the _dharma_ of _Bhagavān_ and has been taken for illustration by Alavandar in his Agama Prāmānya. Therefore the verse - "If the *remnant of the food that has been already eaten by the devotees of the Lord is given to me, it will immediately make me pure"--- is only applicable to _guru_s. Even if it is of general application, it means only this much - "If those who are devotees of the Lord should give me what is left over after their meal, it would purify me, even though they have been obliged, by force of unfavourable circumstances like place and time, to follow occupations lower than those ordained for them and to make others also follow them." In this (Tamil) passage, if the word _śeṣa_ should mean only what is left in the vessels in which the food was cooked as in the question and answer (after a srāddha) - "what is to be done with the food left over ?," and "let it be eaten in the company of friends" - if it should mean only this, there is nothing wrong. The word ucchishta, too, has been employed in the _śruti_s to mean what is left in the cooking vessel after (people) have dined. Madu and others have determined to this effect :- "One should give up wealth and pleasure (artha and kama) when they are against _dharma_. Even _dharma_ which is likely to bring suffering or which is likely to rouse disgust among people in the world should be given up".
+It is said in the " Vihagendra Samhita" as follows: "The man who is always thinking of Nārāyaṇa - whatever be the calling (vritti) he $ ($ another reading is cheshta (i.e.) movement (instead of vritti)) follows for his living, that is adoration; whatever he says (jalpah) is japam; whatever he sees is meditation or _dhyāna_; the water that has received contact with his feet is incomparably holy water; whatever is left after he has eaten will purify; his mere words are a sacred _mantra_: whatever he touches becomes pure." These _śloka_s, it is true, are authoritative, but "whatever be the calling, that is adoration" does not refer to any calling that is condemned in the _śāstra_s. It means that even if the man is obliged, owing to the unfavourable conditions brought about by place, time and the like, to follow a calling which is not ordained for him, it will be a proper means of obtaining the materials required for the adoration of the Lord, for it has been said: "In times of adversity, a man may follow a calling slightly lower than that prescribed for him." The passage which says : - "Even the sin committed for my sake will be counted as _dharma_" has also the same purport. If this (interpretation) were not accepted, it would extend even to those callings that are prohibited. Even if the reading (in the _śloka_ cited above) be cheshta ( movement) and not vritti (calling), just like the acts intended for keeping the body alive and those that are enjoined by the _śāstra_, which are (therefore ) accepted, the word cheshta (movements) would refer to such things as the closing and the opening of the eyes which are natural and which are reckoned in the secret _śāstra_ (i.e.) Bhagavat _Śāstra_ as among [^72] the offerings to the Lord. This will not extend to those movements that are forbidden (in the _śāstra_s). Only those which are not forbidden and which are consistent with one's nature and reason and with _śāstra_ are ordained as fit to be offered. This applies also to the _śloka_ in the Gita which elaborates this idea, namely, “ Whatever you do for the protection of the body, whatever you eat, whatever offerings you make in the fire and whatever tapas you perform, do it, O son of Kunti, as if it were an offering to be placed before me." If, in such cases, any offence is committed against the _śāstra_s, one should perform, on the occasion, expiatory rites which are of the nature of service obligatory for the occasion (_naimittika_), in accordance with what is competent for one. "Whatever he says (jalpah) is japa" does not refer to vain chattering such as is forbidden in the _śloka_ : “Harsh speech, exaggeration of merits, tale- bearing, inappropriate talk-- these are the four sins of speech." It refers to the series of speeches and counter-speeches that are held by the man with his disciples, preceptors, fellow students, scholars and those who are in pursuit of spiritual excellence in order to teach what is not known, to confirm what is already known or to remove doubts. Or the word jalpah in that _śloka_ might mean the succession of speeches that are made in debate to refute infidels and heretics, for, though it is stated as a general rule, "One should not debate merely for the sake of a quarrel without the desire to know the truth", yet the _dharma_ - śāstras declare: "One should condemn, according to one's ability, those who speak ill of _Bhagavān_ or of one's_ācārya_". "Whatever he sees is meditation or dhyāna" does not refer to such things as witnessing forbidden dances. It describes how when this man proceeds to render service (_kaiṅkarya_), whatever object meets his eye appears to him as having _Brahman_ as its inner self, for it has been said, 'I am Hari: all this is Janārdana; the causal substances like mahat and the effects which are producd therefrom are not different from Him. The man who thinks in this manner -- he will never fall a victim to the diseases of pleasure and pain which arise in _samsāra_", So also it is said, “Whatever appears ( before his eyes) is the Supreme Self". The sentence “ T'he water that has received contact with his feet is incomparably holy water" only assigns a superior merit when it is due. When the water from the feet is considered as holy, if there is exclusive devotion to Nārāyaṇa in the person, it is said to be holier than other sacred waters. It does not refer to such things as impure water which may, by chance, come into contact with his feet. The statement "Whatever is left after he has eaten purifies” refers only to certain specific remnants (of food) (ucchishta) which are prescribed as purificatory in contexts like a repeated Upanayana. Owing to the excellence of this quality, (the remnant of the food) is said to have superior purifying power. The words, certainly, do not mean that when disciples, sons and the like are devoted to Nārāyaṇa, whatever is left as remnant after they have eaten is purificatory for _ācārya_s and parents. It is said in the Sanatkumāra Samhita that the man who has eaten the food that has been offered to other deities or what is left as a remnant after those who are other than _guru_s have eaten should, for purification, live on milk alone for a month (payovrata), should always utter ashtākshara and eat also _Brahma_kurcha - panchagavya. This passage prescribes the code of conduct for one who follows the _dharma_ of _Bhagavān_ and has been taken for illustration by Alavandar in his Agama Prāmānya. Therefore the verse - "If the *remnant of the food that has been already eaten by the devotees of the Lord is given to me, it will immediately make me pure"--- is only applicable to _guru_s. Even if it is of general application, it means only this much - "If those who are devotees of the Lord should give me what is left over after their meal, it would purify me, even though they have been obliged, by force of unfavourable circumstances like place and time, to follow occupations lower than those ordained for them and to make others also follow them." In this (Tamil) passage, if the word _śeṣa_ should mean only what is left in the vessels in which the food was cooked as in the question and answer (after a srāddha) - "what is to be done with the food left over ?," and "let it be eaten in the company of friends" - if it should mean only this, there is nothing wrong. The word ucchishta, too, has been employed in the _śruti_s to mean what is left in the cooking vessel after (people) have dined. Madu and others have determined to this effect :- "One should give up wealth and pleasure (artha and kama) when they are against _dharma_. Even _dharma_ which is likely to bring suffering or which is likely to rouse disgust among people in the world should be given up".
 
 [^72]: The _śloka_ which says: "Whatever I do by the nature of _prakṛti_ and with my body, my speech, my senses, my intelligence or my soul, I offer all that to the Supreme Nārāyaṇa."
 
@@ -112,9 +134,15 @@ If the word _parityajya_ (having given up) merely states what has, on account of
 
 [^73]: To the man or adhikārī who grieves at his inability to adopt the _dharma_s or _aṅga_s enjoined for _bhakti_ _yoga_, the _Carama_ _Śloka_ says, “Perform _prapatti_ to me and you need not adopt any other _dharma_".
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 प्रकृतोपासन न्यायात्तदङ्गानामुपस्थितौ । अन्येषाञ्चैतदङ्गत्व त्यागोऽत्र प्रतिपाद्यते ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+प्रकृतोपासन न्यायात्तदङ्गानामुपस्थितौ । अन्येषाञ्चैतदङ्गत्व त्यागोऽत्र प्रतिपाद्यते ॥
+</details>
 
 If _prapatti_ stands in the place of _bhakti_ or _upāsana_ as one of the _Brahma_ Vidyās, then the question arises whether the _aṅga_s of _bhakti_ might be considered as the _aṅga_s of _prapatti_ as well. But, in _prapatti_, they are not required as _aṅga_s. This is indicated by the words _mām_ and ekam.
 
@@ -124,11 +152,19 @@ Our acharyās like (Appallar) have argued thus:
 
 Since _nitya_ and naimittika _karma_ are enjoined on a man (irrespective of all fruit or gain that might arise from it) simply by virtue of his being a servant of the Lord, they should not be given up, lest he should be violating the command of the Master, (although they may not be required as _aṅga_s for _prapatti_).
 
-SANSKRIT _ŚLOKA_S:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 आज्ञाविरोधिभिस्स्वार्ह प्रायश्चित्तपराङ्मुखैः । स्वाधिकारोचितस्सर्वैः प्रत्यवायो दुरत्ययः ॥  
 आज्ञानुपालने तत्तत्प्रत्यवायनिवारणम् । स्वामिसन्तोषतः प्रीतिरिति लाभद्वयं स्थिरम् ॥  
 अनिच्छातो निवर्तेत स्वर्गाद्यं कर्मणां फलम् । अमर्यादस्य दुर्वारः प्रत्यवायोऽन्यहेतुकः ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+आज्ञाविरोधिभिस्स्वार्ह प्रायश्चित्तपराङ्मुखैः । स्वाधिकारोचितस्सर्वैः प्रत्यवायो दुरत्ययः ॥  
+आज्ञानुपालने तत्तत्प्रत्यवायनिवारणम् । स्वामिसन्तोषतः प्रीतिरिति लाभद्वयं स्थिरम् ॥  
+अनिच्छातो निवर्तेत स्वर्गाद्यं कर्मणां फलम् । अमर्यादस्य दुर्वारः प्रत्यवायोऽन्यहेतुकः ॥
+</details>
 
 Those who have violated the commands (of the Lord) and have not performed the expiatory ceremonies ( _prāyaścitta_ ) enjoined for these violations according to their competence - they must suffer the consequences of the violation. By acting in accor. dance with the commands, one avoids the evil consequences (due to violation) and enjoys (also) the pleasure arising from the delight of the Lord. Thus two gains are certain.
 
@@ -136,11 +172,19 @@ Such things as _svarga_ that are declared to be the fruit of certain (good) karm
 
 When _prapatti_ was treated (by the _Bhāṣya_kāra) as an _aṅga_ of _bhakti_ _yoga_, it was only to illustrate how it wins _bhakti_ _yoga_ as a fruit, since it is capable of securing all fruits. In this context, we should bear in mind that, on the lines of the _Bhāṣya_kara's second interpretation (of the _carama_ _śloka_ ), _prapatti_ stands in the place of all _upāya_s including _bhakti_ _yoga_, which are difficult of performance. In accordance with his first interpretation, (that every _dharma_ should be done with the thought that it is performed not by oneself but by the Lord and for His own ends - sāttvika parityāga) and not out of any desire for one's own gain, the meaning should be considered as enjoining the performance of _prapatti_ with that thought and the service rendered by the _prapanna_ as an end in itself.
 
-SANSKRIT _ŚLOKA_S:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 सुदुष्करेण शोचेद्यो येन येनेष्टहेतुना । स स तस्याहमेवेति चरमश्लोकसंग्रहः ॥  
 भावाभावौ न धर्माणां प्रपत्तेरङ्गमिष्यते । स्वतन्त्रशिष्ट्या शक्येहा शेषाभावोधिकारगः ॥  
 क्रत्वनङ्गतया ये तु तदानीमननुष्ठिताः । स्वकाले स्वविधेरेव कार्यास्ते तद्वदत्र नः ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+सुदुष्करेण शोचेद्यो येन येनेष्टहेतुना । स स तस्याहमेवेति चरमश्लोकसंग्रहः ॥  
+भावाभावौ न धर्माणां प्रपत्तेरङ्गमिष्यते । स्वतन्त्रशिष्ट्या शक्येहा शेषाभावोधिकारगः ॥  
+क्रत्वनङ्गतया ये तु तदानीमननुष्ठिताः । स्वकाले स्वविधेरेव कार्यास्ते तद्वदत्र नः ॥
+</details>
 
 "When a man falls into despair or grief because he is not able to adopt certain _upāya_s which are prescribed as productive of the desired results - to that man I stand as those _upāya_s. This is the gist of the _carama_ _śloka_."
 
@@ -162,9 +206,15 @@ If the interpretation (given by these men) were the real meaning (of the teachin
 
 Even if it be held that more _ahimsā_ which is not accompanied by _niyama_ (the observance of rules and restraints ) is also meant by the word dharia, we submit the following:
 
-SANSKRIT _ŚLOKA_S:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 अधर्म परिहारेऽपि धर्मत्वेन विवक्षिते । स्यात्स्वतन्त्रविधेरेव नित्यं तस्य परिग्रहः ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+अधर्म परिहारेऽपि धर्मत्वेन विवक्षिते । स्यात्स्वतन्त्रविधेरेव नित्यं तस्य परिग्रहः ॥
+</details>
 
 “If the word _dharma_ includes in its import also the giving up of a_dharma_, the giving up of a_dharma_ will have to be done always, as it is an independent _vidhi_ or injunction (which has nothing to do with _prapatti_),
 
@@ -182,9 +232,15 @@ In the case of the aspirant for _mukti_, it may mean also those activities and a
 
 [^76]: It may also mean "we will never do what is evil".
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 ‘प्रायश्चित्तान्तराशक्तः कालक्षेपाक्षमोऽपि वा । पुनः प्रपद्यते नाथमभिन्दन् लोकसंग्रहम् ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+‘प्रायश्चित्तान्तराशक्तः कालक्षेपाक्षमोऽपि वा । पुनः प्रपद्यते नाथमभिन्दन् लोकसंग्रहम् ॥
+</details>
 
 "He who is incapable of other forms of expiation or who is impatient of delay performs _prapatti_, once again, to the Lord, without transgressing the rule of lokasangraha".
 
@@ -204,12 +260,21 @@ Therefore in order to avoid (1) these sufferings and (2) the interruption to the
 
 We have already explained that it is not possible to perform _prapatti_ in anticipation for offences that might be committed deliberately in future and that there is nothing improper in performing a later _prapatti_ in order to obtain a fruit or object which was not prayed for in the previous _prapatti_ (in the chapter on Expiation for Offences ). Thus it may be understood that there is nothing improper in observing the code of conduct followed by the good and arising from the commands of the Lord, (viz., _nitya_ and _naimittika_ ).
 
-SANSKRIT _ŚLOKA_S :
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 *प्रपन्नस्य निषिद्धैरप्यलेपमुपपादयन् । यथाभिमतसद्वृत्तनिष्ठेभ्यः किमसूयति ॥  
 आज्ञातिलङ्घने यस्य रक्षकत्वं न भज्यते । आज्ञानुपालने तस्य कथन्तदुपरुद्ध्यते ॥  
 न चाचारं विना किञ्चित्कैङ्कर्यमुपपद्यते । न हि शौचमकृत्वैव समाराधनमर्हति ॥  
 आचारप्रभवो धर्मो धर्मस्य प्रभुरच्युतः ।
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+*प्रपन्नस्य निषिद्धैरप्यलेपमुपपादयन् । यथाभिमतसद्वृत्तनिष्ठेभ्यः किमसूयति ॥  
+आज्ञातिलङ्घने यस्य रक्षकत्वं न भज्यते । आज्ञानुपालने तस्य कथन्तदुपरुद्ध्यते ॥  
+न चाचारं विना किञ्चित्कैङ्कर्यमुपपद्यते । न हि शौचमकृत्वैव समाराधनमर्हति ॥  
+आचारप्रभवो धर्मो धर्मस्य प्रभुरच्युतः ।
+</details>
 
 He who maintains the view that the _prapanna_ will not be tainted even when he does forbidden things, - why does he view. with anger those who, in accordance with the Lord's commands, observe the code of conduct ordained as proper ?
 
@@ -241,9 +306,15 @@ observed _dharma_ (i.e.) karmayoga etc" and when it is said, "I have given up th
 
 Therefore even to a _prapanna_, action in obedience to the commands of the Lord and in accordance with the respective caste is an obligation that should be carried out until the bodies characterised by such things as Brahmin-ness are cast off.
 
-SANSKRIT _ŚLOKA_S :
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 आहारग्रहमन्त्रार्थजात्यादिनियमैर्युतः । कुर्याल्लक्ष्मीशकैङ्कर्यं शक्त्यानन्यप्रयोजनः ॥ आचारात्मगुणोपायपुरुषार्थविशेषतः । अधिकारिणि वैशिष्ट्यं प्रकृष्येतोत्तरोत्तरम् ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+आहारग्रहमन्त्रार्थजात्यादिनियमैर्युतः । कुर्याल्लक्ष्मीशकैङ्कर्यं शक्त्यानन्यप्रयोजनः ॥ आचारात्मगुणोपायपुरुषार्थविशेषतः । अधिकारिणि वैशिष्ट्यं प्रकृष्येतोत्तरोत्तरम् ॥
+</details>
 
 "The service to the Lord of _Śrī_ (_Lakṣmī_) should be performed according to one's ability and for its own sake, with the observance of all the restraints and regulations (_nyāsa_) prescribed (in the _śāstra_s), in regard to the food to be eaten. the obtaining of knowledge (or the receiving of gifts ), the traditional _mantra_ to be employed in the performance of rites and so also in regard to the acquisition of wealth and in regard to the respective caste and such like.
 
@@ -271,12 +342,21 @@ This determination of the potency (of _prapatti_) should be borne in mind as bei
 
 Our _ācārya_s have declared that those who have understood the real import of the infallible words (in the _carama_ _śloka_ ) uttered by _Śrī_ Kṛṣṇa, whose attributes and actions are wonderful, who is full of compassion and who has greater regard than for Himself to His servants that endure their existence only by His grace (or who shows His great regard to His servants by giving them His own likeness) – our _ācārya_s hive declared that those who have understood the real import of _Śrī_ Kṛṣṇa's words will never approve the non-observance of the way of life ordained in the Veda or Vedanta.
 
-SANSKRIT _ŚLOKA_ :
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 चातुर्वर्ण्यचतुर्विधाश्रममुखे भेदे यथावस्थिते  
 वृत्तन्तन्नियतं गुणानुगुणया वृत्त्या विशिष्टं श्रिताः ।  
 त्यागोपप्लवनित्यदूरशरणव्रज्याविधौ कोविदा  
 श्चिन्तामभ्युपगन्तुमन्तिमयुगेऽप्येकान्तिनस्सन्ति नः ॥ ५६ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+चातुर्वर्ण्यचतुर्विधाश्रममुखे भेदे यथावस्थिते  
+वृत्तन्तन्नियतं गुणानुगुणया वृत्त्या विशिष्टं श्रिताः ।  
+त्यागोपप्लवनित्यदूरशरणव्रज्याविधौ कोविदा  
+श्चिन्तामभ्युपगन्तुमन्तिमयुगेऽप्येकान्तिनस्सन्ति नः ॥ ५६ ॥
+</details>
 
 Since the differences arising from such things as the four castes and the four _āśrama_s have been ordained (in the _śāstra_s), those who follow the line of conduct prescribed therein, whose conduct is also consistent with such attributes as devotion to the Lord
 

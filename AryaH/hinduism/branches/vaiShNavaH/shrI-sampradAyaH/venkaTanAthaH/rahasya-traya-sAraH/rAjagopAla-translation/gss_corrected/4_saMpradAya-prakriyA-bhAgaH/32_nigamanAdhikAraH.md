@@ -9,12 +9,21 @@ title = "३२ निगमनाधिकारः"
 
 32. THE CONCLUDING CHAPTER. page640
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 करबदरितविश्वः कश्चिदाचार्यदृष्ट्या  
 मुषितनिखिलमोहो मूलमन्त्रादिभोगः ।  
 सगुणविषयसिद्धौ संप्रदायं प्रयच्छन्  
 सुचरितसिलहारी सूरिबृन्दाभिनन्द्यः ॥ ७३ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+करबदरितविश्वः कश्चिदाचार्यदृष्ट्या  
+मुषितनिखिलमोहो मूलमन्त्रादिभोगः ।  
+सगुणविषयसिद्धौ संप्रदायं प्रयच्छन्  
+सुचरितसिलहारी सूरिबृन्दाभिनन्द्यः ॥ ७३ ॥
+</details>
 
 There may be found someone who, by the grace of his _ācārya_, has seen (the truths concerning) the Universe (as distinctly) as if they were a jubube berry (Badari fruit) in the hand, whose illusions have been dispelled and who enjoys (the meanings contained in) such mysteries (_mantra_s) as the mūlamantra. When a worthy _śiṣya_ having the necessary virtues has been found, he instructs him in the spiritual tradition and gleans, for his own observances, all that is good in the conduct and observances of great men and becomes worthy (himself) of the appreciation of the hosts of the eternal sūris.
 
@@ -62,18 +71,31 @@ Thus (both) in the state of endeavour (_upāya_) and in the state of attainment,
 
 The feet of _Śrī_ Raṅganātha, ever true to their devotees can never be given up; they were once awake to the danger from a mighty wheel (the forın taken by an asura) and hy touching it they made it break into pieces): on another occasion, they crawled on all fours and caused the two Maruda trees which grew close to each other to fall down; on the occasion of His searching (for butter) in the pots h_aṅgī_ng from above, they stood indistinguishable from the mortar to which they were bound (by Yasoda), (On a later day), they gladly consented to go on the mission assigned to them by the virtuous _Dharma_putra; they came to Brindavan to bring about the destruction of the wicked asuras; while gently stroked by the hand of _Lakṣmī_, they became red like the petals of the lotus; they were favourable to the devotion shown by the great sages who wanted freedom from the bondage of births; they rested in a wonderful vimana (having a resemblance to praṇava), which was an object of worship to kings of the race of Manu; they shone in the chariot of the righteous Arjuna during the great war; they were inflamed with wrath when they danced on the cruel hoods of the serpent, Kaliya, and made them break down; they rested in a region (Paramapada) that could not be (even) imagined by the six systems of philosophical thought; they became the subjects of praise in the tongue of the Alvar (Nammalvar), who was the glory of the beautiful city of Kurugai; they had, for ornaments, the fragrant flowers of Tulasi; they showed their glory by graciously transforming the fallen piece of charcoal into a child (Parikshit); they chased the armies of the asuras to their destruction.
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 इति यतिराजमहानसपरिमळपरीवाहवासितां पिबत ।  
 विबुधपरिषन्निषेव्यां वेदान्तोदयनसंप्रदायसुधाम् ॥ ७४ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+इति यतिराजमहानसपरिमळपरीवाहवासितां पिबत ।  
+विबुधपरिषन्निषेव्यां वेदान्तोदयनसंप्रदायसुधाम् ॥ ७४ ॥
+</details>
 
 Imbibe the nectar of spiritual tradition which has come down from the Udayana of Vedanta (Kidambi Achan)[^124] which is fragrant with the odours streaming forth from the kitchen of the prince of sannyasins (_Śrī_ _Rāmānuja_) and fit to be enjoyed by the assembly of learned men (also gods).
 
 [^124]: Kidambi Achan, the disciple of _Śrī_ _Rāmānuja_, was in charge of the kitchen during his _ācārya_'s life-time
 
-SANSKRIT _ŚLOKA_ :
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 कलकण्ठगणास्वाद्ये कामस्यास्त्रे निजाङ्कुरे । निंबवृत्तिभिरुद्गीर्णे न चूतः परितप्यते ॥ ७५ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+कलकण्ठगणास्वाद्ये कामस्यास्त्रे निजाङ्कुरे । निंबवृत्तिभिरुद्गीर्णे न चूतः परितप्यते ॥ ७५ ॥
+</details>
 
 When its sprouts which were relished by quails and which are (said to be) the arrows of the god kama are vomited by such animals as feed on margosa leaves, the mango tree does not feel aggrieved.
 
@@ -95,12 +117,21 @@ When its sprouts which were relished by quails and which are (said to be) the ar
 
 Of what avail is anger towards those Vedic scholars who teach the knowledge which they have of the truths, and the way of casting off illusions and errors, as also the nature of the self (as the _śeṣa_ of the Lord), the unique compassion of the Lord shown to those who are destitute of _upāya_s, and the carefree state arising from holding on to the Lord as a refuge as taught in the three mysteries (_mantra_s)? We have spoken (thus far) to those who can appreciate excellence.
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 निर्विष्टं यतिसार्वभौमवचसामावृत्तिभिर्यौवनं  
 निर्धूतेतरपारतन्त्र्य निरया नीतास्सुखं वासराः ।  
 अङ्गीकृत्य सतां प्रसत्तिमसताङ्गर्वोऽपि निर्वापितः  
 शेषायुष्यपि शेषिदंपतिदयादीक्षामुदीक्षामहे ॥ ७६ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+निर्विष्टं यतिसार्वभौमवचसामावृत्तिभिर्यौवनं  
+निर्धूतेतरपारतन्त्र्य निरया नीतास्सुखं वासराः ।  
+अङ्गीकृत्य सतां प्रसत्तिमसताङ्गर्वोऽपि निर्वापितः  
+शेषायुष्यपि शेषिदंपतिदयादीक्षामुदीक्षामहे ॥ ७६ ॥
+</details>
 
 Our youth has been spent in the enjoyment resulting from repetitions of the words of that prince of Sannyasins (_Śrī_ _Rāmānuja_). Our days have been lived in happiness by casting off the hell of depending on any others (than the Lord); the arrogance of those who are perverse has also been annihilated for the satisfaction of good men; and for the rest of our life, we shall be earnestly and constantly looking up to the realisation of the vow of compassion taken by that divine couple for the fulfilment of whose purposes alone we exist.
 
@@ -118,9 +149,15 @@ Our youth has been spent in the enjoyment resulting from repetitions of the word
 
 These thirty-two Tamil verses, which, when recited, are like nectar to the ears (that hear them), which explain clearly, the truths that lie deep within the four Vedas the like of which cannot be seen elsewhere and which became possible only owing to the compassion of those_ācārya_s who delight, of their own accord, to impart instruction to śiṣyas, when they find in them integrity of character and freedom from faults like envy ---- these thirty-two verses form an ornament to this treatise by virtue of these three qualities viz., their beautiful diction, their wealth of ideas and their fitness for being sung.
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 आस्तिक्यवान्निशितबुद्धिरनभ्यसूयुस्सत्संप्रदायपरिशुद्धमनास्सदर्थी । सङ्केतभीतिरहितस्सतृणेष्वसक्तस्सद्वर्तनीमनुविधास्यति शाश्वतीन्नः ॥ ७७ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+आस्तिक्यवान्निशितबुद्धिरनभ्यसूयुस्सत्संप्रदायपरिशुद्धमनास्सदर्थी । सङ्केतभीतिरहितस्सतृणेष्वसक्तस्सद्वर्तनीमनुविधास्यति शाश्वतीन्नः ॥ ७७ ॥
+</details>
 
 There will be found someone (or other) who has faith in religion, who is keen of intellect and (at the same time) free from envy, whose mind has become pure by following the righteous tradition of good men, whose aim is to attain the highest goal, who is not afraid of conventional judgments and who would look upon wealth and worldly success as if they were mere trash - He will certainly follow the virtuous path (which is described in this treatise) and which will never become obsolete.
 
@@ -221,9 +258,15 @@ These states of mind in regard to one's essential nature, the _upāya_s and the 
 
 The Lord whose face resembles that of a white horse (Hayagrīva) assumed the form of my_ācārya_ and, by that device, wrote these truths in my mind and I have (only) transcribed them on these leaves. The part played by me is none other than this. Whether this treatise is accepted as worthy or rejected as unworthy, my clear mind, ( men of critical minds, will feel neither elated nor depressed in the least.
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 रहस्यत्रयसारोऽयं वेङ्कटेशविपश्चिता । शरण्यदंपतिविदां सम्मतस्समगृह्यत ॥ ७८ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+रहस्यत्रयसारोऽयं वेङ्कटेशविपश्चिता । शरण्यदंपतिविदां सम्मतस्समगृह्यत ॥ ७८ ॥
+</details>
 
 This treatise, “The Gist of the Three _Mantra_s or Mysteries" was composed in brief by the wise Venkatesa endowed with manifold vision, to the satisfaction of those who look upon _Śrī_ Nārāyaṇa and His consort as the only Saviours,
 

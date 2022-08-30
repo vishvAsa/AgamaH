@@ -15,12 +15,21 @@ THAT IS ALREADY EXISTENT.
 
 (_SIDDHOPĀYA_) page290
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 युगपदखिलं प्रत्यक्षेण स्वतस्सततं विद-  
 न्ननवधिदयादिव्योदन्वानशक्यविवर्जितः ।  
 जलधिसुतया सार्धं देवो जगत्परिपालयन्  
 परमपुरुषस्सिद्धोपायः प्रतीष्टभरस्सताम् ॥ ५१ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+युगपदखिलं प्रत्यक्षेण स्वतस्सततं विद-  
+न्ननवधिदयादिव्योदन्वानशक्यविवर्जितः ।  
+जलधिसुतया सार्धं देवो जगत्परिपालयन्  
+परमपुरुषस्सिद्धोपायः प्रतीष्टभरस्सताम् ॥ ५१ ॥
+</details>
 
 The Supreme Person who knows all things, at the same time, by direct perception (pratyaksha) and without any aid or instrument (in the form of sense organs), who is the boundless and divine ocean of mercy, protects the world, with the daughter of the ocean (Lakṣmī ), being omnipotent. Having accepted the responsibility of saving those who follow the right path, He is the _upāya_ [^62] that is already existent.
 
@@ -132,9 +141,15 @@ From the _śloka_  : "Those that have nathas (lords or protectors) in the world 
 
 We shall now explain the real purport of the words of trust- worthy authors where the apparent meaning would seem to be that, while _Iśvara_ is the Protector or Saviour of all, we are not required to put forth any endeavour for our protection. Their real meaning is this.
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 यदर्थन्तु कृतो न्यासस्तदर्थं न पुनः क्रिया । पूर्वमप्यपराधीनप्रवृत्तावस्य नान्वयः ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+यदर्थन्तु कृतो न्यासस्तदर्थं न पुनः क्रिया । पूर्वमप्यपराधीनप्रवृत्तावस्य नान्वयः ॥
+</details>
 
 When self-surrender has been performed for the sake of a certain object, there should be no repetition of that performance for the same object, (The need for the adoption of the _upāya_ or endeavour in the form of _prapatti_ at first is not denied ). Even before _prapatti_, the _jīva_ could not act independently of the Lord.
 
@@ -166,12 +181,21 @@ The usefulness of this attribute Srī in _Śrī_mat, both in the part dealing wi
 
 Alavandar, too, has stated:- "The whole world depends upon the glance of _Śrī_, for its support." and again "Without the grace of Lakṣmī , the beloved spouse of the lotus-eyed Lord, we cannot have those glorious experiences which one might desire in this life (_samsāra_), nor the experience of our disembodied self, nor the enjoyment of _Bhagavān_ in _mokṣa_ ". The author of _Śrī Bhāṣya_, in his Vaikuṇṭha   _Gadya_, says that she commands Adi_śeṣa_, Viṣvaksena and other attendants to render such service to _Bhagavān_ as is suited to the time and the circumstance, and that the service to _Bhagavān_, which is the supreme goal, should be rendered in accordance with her commands. Koorathalvan too, sings his praise of Lakṣmī  in ślokas beginning with these words: "The "bounds of Thy greatness. O, Goddess, are not known to _Bhagavān_ nor even to Thyself". These words are an elaboration of what is contained in the _śloka_  :- "May Lakṣmī   confer happiness (on us) --- Lakṣmī , looking at whose face, and with Her will as His aid, the Lord creates, destroys and sustains all the worlds, and grants also such things as _svarga_, naraka (hell) and _mokṣa_ . Since the two are engaged in the same work and experience the same kind of delight, the Lord cannot feel happy if he performs the _līlā_ of the work of the world without her participation in it," Bhattar, also, has commented on the word Udaara (generous ) used in the _śruti_  (viz., Śrī Sūktam) as an adjective for Śrī in this manner:-"How generous Thou art! O, Mother, to the man who merely raises his hands folded in worship to Thee, Thou grantest wealth, the enjoyment of his disembodied self and even _paramapada_ and yet Thou feelest ashamed that Thou hast not done anything adequate for him." Peria Jeer, too, has brought out all these ideas in his commentary on Śrī Sukta. Thus, from what we find in the _śruti_ , _Smṛti_ and tradition, (the reader) gifted with insight can understand that the attribute expressed in the word _Śrī_mat in _Dvaya_ has its uses, just like such things as forms (_vigraha_), in accordance with its own nature.
 
-SANSKRIT _ŚLOKA_S:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 भरस्वीकाररहितं रक्षासङ्कल्पवर्जितम् । गुणादिकमिहेष्टं हि शरण्यस्य विशेषणम् ॥  
 ऐकरस्यजुषोश्शेषिदंपत्योस्सर्वकर्मसु । विशेषणविशेष्यत्वं श्रुतं कस्मान्न रोचते ॥  
 प्रतर्दनादिविद्यासु वेद्येऽपि परमात्मनि ।अचेतनवदिच्छामश्चेतनञ्च विशेषणम् ॥  
 इत्थं प्रपत्तिविद्यायां तत्तन्मन्त्रानुसारतः । विभुः पत्न्या गुणाद्यैश्च विशिष्टो विषयोऽत्र नः ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+भरस्वीकाररहितं रक्षासङ्कल्पवर्जितम् । गुणादिकमिहेष्टं हि शरण्यस्य विशेषणम् ॥  
+ऐकरस्यजुषोश्शेषिदंपत्योस्सर्वकर्मसु । विशेषणविशेष्यत्वं श्रुतं कस्मान्न रोचते ॥  
+प्रतर्दनादिविद्यासु वेद्येऽपि परमात्मनि ।अचेतनवदिच्छामश्चेतनञ्च विशेषणम् ॥  
+इत्थं प्रपत्तिविद्यायां तत्तन्मन्त्रानुसारतः । विभुः पत्न्या गुणाद्यैश्च विशिष्टो विषयोऽत्र नः ॥
+</details>
 
 You (critics who do not consider Lakṣmī  as an inseparable) attribute or vi_śeṣa_ṇa of Nārāyaṇa  in the first part of _Dvaya_) maintain that such things as the qualities of the Saviour (compas. siop etc) are attributes and not mere Upalakṣaṇa, even though they cannot undertake the responsibility (bhara) of protection and cannot have the will to protect (being only qualities and therefore non-sentient). Why do you object to the idea of Lakṣmī  being the attribute (vi_śeṣa_ṇa) and Nārāyaṇa  being the substantive
 
@@ -219,12 +243,21 @@ The Lord of _Śrī_, who is the embodiment of compassion and who secures, for th
 
 Nārāyaṇa , with His Spouse Lakṣmī , who is staunch in being every kind of relation (to us ), who is the sea of compassion that dispels ignorance (and delusion), who shines sustaining all (things and all beings ) with His mere will, being the Supreme Lord without a second and who takes compassion on us on account of ( Śrī), the nectar born of sweet nectar - Nārāyaṇa  with Śrī is the firm refuge of all who seek His protection having no other support.
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 विश्राम्यद्भिरुपर्यपर्यपि दिवानक्तं बहिर्दर्शनै-  
 रस्मद्देशिकसंप्रदायरहितैरद्यापि नालक्षितः ।  
 स्वप्राप्तेस्स्वयमेव साधनतया जोघुष्यमाणश्श्रुतौ  
 सत्त्वस्थेषु भजेत सन्निधिमसौ शान्तावधिश्शेवधिः ॥ ५२ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+विश्राम्यद्भिरुपर्यपर्यपि दिवानक्तं बहिर्दर्शनै-  
+रस्मद्देशिकसंप्रदायरहितैरद्यापि नालक्षितः ।  
+स्वप्राप्तेस्स्वयमेव साधनतया जोघुष्यमाणश्श्रुतौ  
+सत्त्वस्थेषु भजेत सन्निधिमसौ शान्तावधिश्शेवधिः ॥ ५२ ॥
+</details>
 
 The treasure (of gold - viz. _Bhagavān_), which is not seen is within them, because they are guided by heretical systems which have not the benefit of the traditional knowledge of our spiritual teachers -(the treasure which they fail to perceive) even though resting on it night and day (as in _suṣupti_) -- the treasure which is proclaimed in the strutis to be itself the means or sādhana for its attainment - that boundless treasure will make its presence (felt) among those who are pure of mind.
 

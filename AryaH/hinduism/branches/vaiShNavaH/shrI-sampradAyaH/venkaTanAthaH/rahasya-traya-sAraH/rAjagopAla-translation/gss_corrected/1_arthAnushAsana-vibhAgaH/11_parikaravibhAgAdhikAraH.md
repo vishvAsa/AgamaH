@@ -9,12 +9,21 @@ title = "११ परिकरविभागाधिकारः"
 
 (11) THE CHAPTER ON THE CLASSIFICATION OF ACCESSORIES OR _AÑGA_S: page174
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 इयानित्थंभूतस्सकृदयमवश्यंभवनवान्  
 दयादिव्याम्भोधौ जगदखिलमन्तर्यमयति ।  
 भवध्वंसोद्युक्ते भगवति भरन्यासवपुषः  
 प्रपत्तेरादिष्टः परिकरविशेषः श्रुति मुखैः ॥ २६ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+इयानित्थंभूतस्सकृदयमवश्यंभवनवान्  
+दयादिव्याम्भोधौ जगदखिलमन्तर्यमयति ।  
+भवध्वंसोद्युक्ते भगवति भरन्यासवपुषः  
+प्रपत्तेरादिष्टः परिकरविशेषः श्रुति मुखैः ॥ २६ ॥
+</details>
 
 _Prapatti_ to Bhagavān which is of the nature of _bharanyāsa_ (the surrender to the Lord of the responsibility of one's protection) is ordained in such _śāstra_s as the Vedas as having certain distinctive accessories or _aṅga_s, which are of a certain specific nature and of a certain specific extent and it is to be necessarily performed and only once to _Bhagavān_, who is the celestial ocean of mercy who controls the whole universe from within it and who is already bent on the destruction of _samsāra_.
 
@@ -86,12 +95,21 @@ The word _upāya_ stands for "the means to secure an end" and this means may be 
 
 Our kind _ācārya_ s have taught us the way of seeking, as an _upāya_, the Supreme Being who is (ever) ready to help us in our state of helplessness, when we are without such _upāya_s as _bhakti_ _yoga_ which give rise to doubts (concerning our ability to adopt them with success). They have taught it to us so well that we shall never commit the mistake of begging, for deliverance from the sorrows of _samsāra_, the (other) gods who are bound by _karma_ and are therefore like ourselves and who are not related in any way to us.
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 प्रख्यातः पञ्चषाङ्गस्सकृदिति भगवच्छासनैरेष योग-  
 स्तत्र द्वाभ्यामपायाद्विरतिरनितरोपायतैकेन बोद्ध्या ।  
 एकेन स्वान्तदार्ढ्यं निजभरविषयेऽन्येन तत्साध्यतेच्छा  
 तत्त्वज्ञानप्रयुक्ता त्विह सपरिकरे तादधीन्यादिबुद्धिः ॥ २७ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+प्रख्यातः पञ्चषाङ्गस्सकृदिति भगवच्छासनैरेष योग-  
+स्तत्र द्वाभ्यामपायाद्विरतिरनितरोपायतैकेन बोद्ध्या ।  
+एकेन स्वान्तदार्ढ्यं निजभरविषयेऽन्येन तत्साध्यतेच्छा  
+तत्त्वज्ञानप्रयुक्ता त्विह सपरिकरे तादधीन्यादिबुद्धिः ॥ २७ ॥
+</details>
 
 In the Scriptures (vouchsafed to us ) by _Bhagavān_ himself (e. in the Pancharātra Āgamas), this _yoga_ called _prapatti_ is proclaimed as having five or six _aṅga_s and as requiring to be performed only once. In this _yoga_, abstention from transgressions results from two of the _aṅga_s, namely, ânukulya _saṅkalpa_ and prātikulya varjana. It may be understood (also ) that from one _aṅga_, namely, karpanya, one feels that there is no other _upāya_. From supreme faith, another _aṅga_ arises: firmness of mind. By another _aṅga_, namely, _goptṛtva_ _varaṇam_, is generated the Lord's will to save. In this _yoga_, namely, _prapatti_, and also in its _aṅga_s, the thought that all these are dependent upon the Lord should arise from a knowledge of the truth (_tattva_) (that the _jīva_ is _śeṣa_ to the Lord and that all he does is really done by the Lord and that for His own purposes. sāttvika parityāga). This last thought is common to _prapatti_ and all other _upāya_s for securing _mokṣa_ , (When _śaraṇāgati_ is performed for the sake of worldly goods, this last thought, sāttvika parityāga is absent.)
 

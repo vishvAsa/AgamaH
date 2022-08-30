@@ -10,12 +10,21 @@ title = "०५ तत्त्वत्रयचिन्तनाधिका�
 
 (5) THE CHAPTER ON THE THREE 'REALS'  (OR TATVAS) page107
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 प्रकृत्यात्मभ्रान्तिर्गलति चिदचिल्लक्षणधिया  
 तथा जीवेशैक्यप्रभृतिकलहस्तद्विभजनात् ।  
 अतो भोक्ता भोग्यं तदुभयनियन्तेति निगमै  
 र्विभक्तं नस्तत्वत्रयमुपदिशन्त्यक्षतधियः ॥ १४ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+प्रकृत्यात्मभ्रान्तिर्गलति चिदचिल्लक्षणधिया  
+तथा जीवेशैक्यप्रभृतिकलहस्तद्विभजनात् ।  
+अतो भोक्ता भोग्यं तदुभयनियन्तेति निगमै  
+र्विभक्तं नस्तत्वत्रयमुपदिशन्त्यक्षतधियः ॥ १४ ॥
+</details>
 
 The delusion that the soul is nothing but the body and the senses (_prakṛti_) disappears when one has a knowledge of the distinctive features of sentient beings and non-sentient things. So also the disputes on such questions as the unity of the _jīva_ and God will no longer continue, when the characteristic features of each of them are marked out. Our _ācārya_ s, whose wisdom never failed, teach us about the existence of three realities (_Tattva_s) classified in the s'āstrās as the experiencing subjects (bhoktā), the objects of experience and enjoyment (bhogyam) and He who rules over both of them (_Iśvara_).
 
@@ -112,10 +121,17 @@ It has been said in the following _śloka_  :
 
 [^35]: A pot is not luminous, because it becomes visible or is seen only when lighted up by the flame of a lamp. The flame of a lamp is luminous, because it does not require anything else to become visible.
 
-SANSKRIT _ŚLOKA_,
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 ‘‘धियः स्वयंप्रकाशत्वं मुक्तौ स्वाभाविकं यथा ।  
 बद्धे कदाचित्संरुद्धं तथाऽत्राऽपि नियम्यते ॥’’१४-अ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+‘‘धियः स्वयंप्रकाशत्वं मुक्तौ स्वाभाविकं यथा ।  
+बद्धे कदाचित्संरुद्धं तथाऽत्राऽपि नियम्यते ॥’’१४-अ॥
+</details>
 
 The luminosity of (attributive) knowledge is natural to it (svabhavika), after release from _samsāra_, but is obstructed some times during bondage. So also in this case, (there may be obstruction during _samsāra_ and luminousness after release)".
 
@@ -253,10 +269,17 @@ What is said in the following _śloka_ , is of course true: "A knowledge[^40] of
 
 [^40]: ‘‘शास्त्रज्ञानं बहुक्लेशं बुद्धेश्चलनकारणम् । उपदेशाद्धरिं बुद्ध्वा विरमेत्सर्वकर्मसु ॥
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 उपयुक्तेषु वैशद्यं त्रिवर्गनिरपेक्षता ।  
 करणत्रयसारूप्यमिति सौख्यरसायनम् ॥  १४-आ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+उपयुक्तेषु वैशद्यं त्रिवर्गनिरपेक्षता ।  
+करणत्रयसारूप्यमिति सौख्यरसायनम् ॥  १४-आ॥
+</details>
 
 A clear knowledge of what is useful, indifference to the three ends (_dharma_, artha, and kama) and being one in thought, word and deed - these constitute the elixir of happiness.
 
@@ -278,12 +301,21 @@ A clear knowledge of what is useful, indifference to the three ends (_dharma_, a
 
 Our ancient _ācārya_s who gave as the essence of the Veda have, out of compassion (for us), taught us clearly all about the three wonderful and varied _tattva_s, _cit_, _acit_ and _Iśvara_ in order to remove,' from our minds, the cruel delusion in regard to the body arising from _karma_ and the notion that we are independent (of the Lord).
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 आवापोद्वापतस्स्युः कतिकति कविधीचित्रवत्ततदर्थेषु  
 आनन्त्यादस्तिनास्त्योरनवधिकुहनायुक्तिकान्ताः कृतान्ताः ।  
 तत्त्वालोकस्तु लोप्तुं प्रभवति सहसा निस्समस्तान् समस्तान्  
 पुंस्त्वे तत्त्वेन दृष्टे पुनरपि न खलु प्राणिता (स्थाणुतादिः) स्थाणुताधीः ॥ १५ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+आवापोद्वापतस्स्युः कतिकति कविधीचित्रवत्ततदर्थेषु  
+आनन्त्यादस्तिनास्त्योरनवधिकुहनायुक्तिकान्ताः कृतान्ताः ।  
+तत्त्वालोकस्तु लोप्तुं प्रभवति सहसा निस्समस्तान् समस्तान्  
+पुंस्त्वे तत्त्वेन दृष्टे पुनरपि न खलु प्राणिता (स्थाणुतादिः) स्थाणुताधीः ॥ १५ ॥
+</details>
 
 By the addition of a point here and the omission of a point there, there are countless systems of thought, each appearing beautiful with fallacious arguments owing to the endless differences due to 'is' and 'is not'. These are indeed as numerous as the poems composed by the imagination of poets (some omitting an incident and others inventing an incident and so forth). Notwithstanding this, the unparalleled vision of the truth (about the _tattva_s) will make them all vanish at once into thin air. When the man is seen in reality, the delusion that he is an animal or a log of wood, sthāņu vanishes at once. So also when, with the help of the _pramāṇa_s, _Puruṣottama_ is ascertained as the Supreme Deity, the delusion that Rudra (_Sthāṇu_) or any other is the Supreme Deity is at once dispelled.
 

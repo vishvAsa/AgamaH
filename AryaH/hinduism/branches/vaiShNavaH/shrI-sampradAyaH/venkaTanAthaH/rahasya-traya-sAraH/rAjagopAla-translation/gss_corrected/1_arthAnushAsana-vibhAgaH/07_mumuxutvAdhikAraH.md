@@ -5,12 +5,21 @@ title = "०७ मुमुक्षुत्वाधिकारः"
 
 (7) THE CHAPTER ON THE ASPIRATION FOR MUKTI. page147
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 कालावर्तान् प्रकृतिविकृतीः कामभोगेषु दोषान्  
 ज्वालागर्तप्रतिमदुरितोदर्कदुःखानुभूतिम् ।  
 याथातत्थ्यं स्वपरनियतं यच्च दिव्यं पदन्तत्  
 काराकल्पं वपुरपि विदन् कस्तितिक्षेत बन्धम् ॥१८॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+कालावर्तान् प्रकृतिविकृतीः कामभोगेषु दोषान्  
+ज्वालागर्तप्रतिमदुरितोदर्कदुःखानुभूतिम् ।  
+याथातत्थ्यं स्वपरनियतं यच्च दिव्यं पदन्तत्  
+काराकल्पं वपुरपि विदन् कस्तितिक्षेत बन्धम् ॥१८॥
+</details>
 
 Who, indeed, is there that will bear the bondage of _samsāra_ -- who that has understood the revolutions of time, the nature of matter (_prakṛti_) and its evolutes or modifications which cause contraction of knowledge, the evils attendant on the enjoyment of the pleasures of this world and of _svarga_, the experience of sufferings resulting from sin which resemble a pit of fire, the true relationship that exists necessarily between himself and the Supreme Being, the region of divine bliss and also the nature of the body which is like a prison-house ?
 
@@ -62,12 +71,21 @@ With a knowledge of the meaning of u in _aum_, which means 'only', we should roo
 
 The wise man longs for _mokṣa_ , which is the supreme goal or aim of life, having conquered the senses by the grace of those _ācārya_ s who have taught him of the eternal bliss of holding the feet of _Bhagavān_, who stands ever ready to redeem him, of the sea of _samsāra_ whose essential nature is to perish and of that which is good and that which is evil.
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 विषमधुबहिष्कुर्वन्धीरो बहिर्विषयात्मकं  
 परिमितरसस्वात्मप्राप्तिप्रयासपराङ्मुखः ।  
 निरवधिमहानन्दब्रह्मानुभूतिकुतूहली  
 जगति भविता दैवात्कश्चिज्जिहासितसंसृतिः ॥ १९ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+विषमधुबहिष्कुर्वन्धीरो बहिर्विषयात्मकं  
+परिमितरसस्वात्मप्राप्तिप्रयासपराङ्मुखः ।  
+निरवधिमहानन्दब्रह्मानुभूतिकुतूहली  
+जगति भविता दैवात्कश्चिज्जिहासितसंसृतिः ॥ १९ ॥
+</details>
 
 There may be born somewhere in this world someone who, being lucky and wise and desirous of obtaining release from _samsāra_, gives up the pleasures of external objects which are like honey mixed with poison and who, being averse, also, to the limited delight of realising or experiencing his self (atmānubhava), longs for the enjoyment of the infinite bliss of _Brahman_.
 

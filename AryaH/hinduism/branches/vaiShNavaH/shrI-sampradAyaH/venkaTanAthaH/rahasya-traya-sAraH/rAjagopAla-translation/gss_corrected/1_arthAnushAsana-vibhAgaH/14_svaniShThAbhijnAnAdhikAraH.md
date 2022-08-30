@@ -7,12 +7,21 @@ title = "१४ स्वनिष्ठाभिज्ञानाधिका�
 
 (14) THE CHAPTER ON THE MARKS OR SIGNS BY WHICH ONE CAN RECOGNISE THAT ONE IS IN THE PROPER STATE OR NIṢṬHĀ.page200
 
-SANSKRIT _ŚLOKA_.
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 स्वरूपोपायार्थेष्ववितथनिविष्टस्थिरमते-  
 स्स्वनिष्ठाभिज्ञानं सुभगमपवर्गादुपनतात् ।  
 प्रथिम्ना यस्यासौ (दौ) प्रभवति विनीतस्स्थगयितुं  
 गभीरान् दुष्पूरान् गगनमहतश्छिद्रनिवहान् ॥ ३२ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+स्वरूपोपायार्थेष्ववितथनिविष्टस्थिरमते-  
+स्स्वनिष्ठाभिज्ञानं सुभगमपवर्गादुपनतात् ।  
+प्रथिम्ना यस्यासौ (दौ) प्रभवति विनीतस्स्थगयितुं  
+गभीरान् दुष्पूरान् गगनमहतश्छिद्रनिवहान् ॥ ३२ ॥
+</details>
 
 To a man whose understanding is firmly and properly fixed on (a knowledge of) his essential nature, on the _upāya_ adopted by him, viz. _prapatti_ and on the ultimate aim of life (_puruṣārtha_), a recognition that he is steadily fixed in this state gives more delight (even) than his approaching _mokṣa_ . For by the might of this knowledge, he is able, with a disciplined mind, to close up the chasms lying before him (as obstacles) which are deep and hard to fill and which are as immense as the sky,
 
@@ -54,12 +63,21 @@ Thus by observing these signs in himself, the man may realise that he is well es
 
 Those who have become well-established in their knowledge of the three things shown in the Tirumantra (namely, _svarūpa_, _upāya_, and _puruṣārtha_) will never agree to do what is improper and will do only what is proper. They are really wise men who find, in themselves, these attitudes and actions and they may be called eternal sūris living on the earth.
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 स्वापोद्बोधव्यतिकरनिभे भोगमोक्षान्तराले  
 कालं कञ्चिज्जगति विधिना केनचित् स्थाप्यमानाः ।  
 तत्त्वोपायप्रभृतिविषये स्वामिदत्तां स्वनिष्ठां  
 शेषां कृत्वा शिरसि कृतिनश्शेषमायुर्नयन्ति ॥ ३३ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+स्वापोद्बोधव्यतिकरनिभे भोगमोक्षान्तराले  
+कालं कञ्चिज्जगति विधिना केनचित् स्थाप्यमानाः ।  
+तत्त्वोपायप्रभृतिविषये स्वामिदत्तां स्वनिष्ठां  
+शेषां कृत्वा शिरसि कृतिनश्शेषमायुर्नयन्ति ॥ ३३ ॥
+</details>
 
 In the interval between this life of worldly enjoyment and life after _mokṣa_  - ( an interval) which may be compared to a mingling of the state of sleep and the waking state ---some destiny has placed prapannas for a time and they pass the rest of their lives wearing, on their heads, the garland of their nishtă in regard to _tattva_, _upāya_, and _puruṣārtha_, which has been vouchsafed to them by the Lord.
 

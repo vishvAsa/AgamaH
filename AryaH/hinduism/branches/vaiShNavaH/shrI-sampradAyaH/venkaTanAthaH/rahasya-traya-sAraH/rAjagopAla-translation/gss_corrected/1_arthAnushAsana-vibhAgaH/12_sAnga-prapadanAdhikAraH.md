@@ -7,12 +7,21 @@ title = "१२ साङ्ग-प्रपदनाधिकारः"
 
 (12) THE CHAPTER ON THE PERFORMANCE OF _PRAPATTI_ WITH IT’S A_ṄGA_S. page186
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 अभीष्टे दुस्साधे स्वत इतरतो वा क्वचन तत्  
 भरन्यासं याच्नान्वितमभिवदन्ति प्रपदनम् ।  
 इतः पश्चादस्मद्यतन निरपेक्षेण भवता  
 समर्थ्योऽसावर्थस्त्विति मतिविशेषं तदविदुः ॥ २८ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+अभीष्टे दुस्साधे स्वत इतरतो वा क्वचन तत्  
+भरन्यासं याच्नान्वितमभिवदन्ति प्रपदनम् ।  
+इतः पश्चादस्मद्यतन निरपेक्षेण भवता  
+समर्थ्योऽसावर्थस्त्विति मतिविशेषं तदविदुः ॥ २८ ॥
+</details>
 
 When a desired object is incapable of attainment by oneself and by other _upāya_s, _prapatti_ is the placing of the responsibility or burden of securing it in somebody who is capable of doing so with a request or supplication. It is declared to be the specific thought such as (the following): "This object should be accomplished (for me) by you without my making any effort of my own hereafter."
 
@@ -28,9 +37,15 @@ SHOULD BE PERFORMED:
 
 The manner in which this form of mental realisation contained in the injunction "One should surrender one's self to me" should be effected is as follows:- The person should realise this within himself: viz., "I am absolutely dependent (upon the Lord); I am His _śeṣa_ and exist only for Him. My _śeṣa_tva does not belong to anybody else and has no dependence on anybody else. Therefore _Iśvara_ who is the _śeṣī_  and who is independent should protect me for the fulfilment of His own purposes. As is said in the _śloka_  : "Even myself or ātmā does not belong to me; (if a man should consider what does not belong to him as his, he could consider the whole earth as his )'; my soul does not belong to me, it does not belong to anyone else (than _Bhagavān_), I do not belong to myself, nor can I say that any thing belongs to me unconditionally. As stated in the _śloka_  -" The embodied being who is like a lump of clay and is entirely dependent on the Lord) is not able to protect himself; how can he protect others ?', I am incapable of protecting myself and those who are said to be mine, independently (of the Lord) or for the sake of myself as the main person interested in it." Just as the wise Uparicharvasu always felt that his soul, his kingdom, his wealth, his wife, and his vehicles were all for _Bhagavān_, we should also say, "I and what is mine are His. The responsibility of protecting these is also that of the Lord who is the universal Protector" for it is said : " the surrender of the responsibility for one's self and of what is one's is called atmanikshepa." " There is no one other than _Bhagavān_ who is capable of affording protection ". The fruit of this protection should also be considered primarily His, for it has been said, "Ātmanikshep consists (also) in giving up all relationship to the fruit resulting from His protection and surrendering it (viz the fruit) to Keśava "who is the chief beneficiary".
 
-SANSKRIT _ŚLOKA_ :
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 मुमुक्षुमात्रसामान्यं स्वरूपादिसमर्पणं । अकिञ्चने भरन्यासस्त्वधिकोऽङ्गितया स्थितः ॥ २८-अ॥ अत्र रक्षाभरन्यासस्समस्सर्वफलार्थिनाम् । स्वरूपफलनिक्षेपस्त्वधिको मोक्षकाङ्क्षिणाम् ॥ २८-आ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+मुमुक्षुमात्रसामान्यं स्वरूपादिसमर्पणं । अकिञ्चने भरन्यासस्त्वधिकोऽङ्गितया स्थितः ॥ २८-अ॥ अत्र रक्षाभरन्यासस्समस्सर्वफलार्थिनाम् । स्वरूपफलनिक्षेपस्त्वधिको मोक्षकाङ्क्षिणाम् ॥ २८-आ॥
+</details>
 
 To all seekers of _mokṣa_  (whether bhaktas or prapannas), the surrender of one's _svarūpa_ or self and the rest (i.e) the fruit in common. To one who has no other _upāya_ ((i.e.) prapannā) and is therefore akinchand, the surrender of the responsibility of protection (bharanyása ) is an additional _aṅgī_. To all prapannas, whatever may be the object desired by them, the surrender of the responsibility is cominon. To those prapannas who are desirous of (only) _mokṣa_ , the surrender of one's self or _svarūpa_ and also of the fruit arising therefrom is an additional (requirement).
 
@@ -38,10 +53,17 @@ _IŚVARA_ IS THE PRINCIPAL BENEFICIARY :
 
 If it is asked how, when the _Jīva_   who performs _prapatti_ as the _upāya_ for the sake of some gain or fruit is the person interested in the fruit, _Iśvara_ becomes the chief beneficiary, the answer is as follows:-_Iśvara_ becomes the chief beneficiary, because, just like the modifications of _acit_ or matter, the benefits (purushārthas) granted by Him to _cit_ (_jīva_) are pleasing to Him. Being the _śeṣī_  of all, He is the chief beneficiary. To a man of cultivated tastes, who is not in need of anything, the delight in melting dolls made of metals and shaping them into ornaments and wearing them in admiration of their beauty is not different (in kind) from the delight enjoyed by him in keeping a sentient being like a parrot in a cage and feeding it with milk and seeing it fly according to His pleasure.
 
-SANSKRIT _ŚLOKA_
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 स्वनिर्भरत्वपर्यन्तरक्षकैकार्थ्यभावनम् ।  
 त्यक्तरक्षाफलस्वाम्यं रक्ष्यस्यात्मसमर्पणम् ॥ २८-इ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+स्वनिर्भरत्वपर्यन्तरक्षकैकार्थ्यभावनम् ।  
+त्यक्तरक्षाफलस्वाम्यं रक्ष्यस्यात्मसमर्पणम् ॥ २८-इ॥
+</details>
 
 Therefore, ātmasamarpanam (the surrendering of the self to the Lord for protection) means here the realisation of the self as existing solely for the purpose of the Saviour and that to such an extent that the self feels no further responsibility, whatever, for its own protection and this should be accompanied by the knowledge that the fruits of such surrender are not one's own. The purport of the _śloka_  in Alavandar's Stotra (52)
 
@@ -86,9 +108,15 @@ The following is a summary of the performance of _prapatti_ with its _aṅga_s a
 
 "I have been wandering in _samsāra_ by doing, from beginning less time, what is displeasing to Thee. From this day onwards, I will do what is pleasing (to Thee). I will not do what will displease (Thee). I have no capital with which to attain Thee, I have made up my mind to seek only Thee as the _upāya_. Be Thou my _upāya_! Hereafter, either in the removal of what is evil or in the attainment of what is good, I have no further responsibility from now onwards". In this the determination to do what is pleasing and abstinence from what is displeasing have to be stated only once as accessories or _aṅga_s to the _upāya_. His acting later in accordance with this determination to do what is pleasing etc. will be the result or fruit of the _upāya_ and will last as long as his self lasts. If, in accordance with the words of Śrī Ammal, we take the avoidance of what is displeasing as meaning only the determination to avoid what is displeasing, it is evident that it has to be made only once (i.c at the time of _prapatti_). It is true that it has been said :-"I have dissociated myself from sins which cast one into _samsāra_." (But it may be explained in this way :-) The avoidance of what is displeasing may meen either having no connection (at all) with it (i.e.) giving it up or the determination to avoid it. In either case, this is, at the first instant, an _aṅga_ and the actual avoidance is the result or fruit of _prapatti_ which follows afterwards. This holds good also in regard to visvāsa or faith.
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 प्रवृत्तिरनुकूलेषु निवृत्तिश्चान्यतः फलम् । प्रारब्धसुकृताच्च स्यात् सङ्कल्पे च प्रपत्तितः ॥ २८-अ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+प्रवृत्तिरनुकूलेषु निवृत्तिश्चान्यतः फलम् । प्रारब्धसुकृताच्च स्यात् सङ्कल्पे च प्रपत्तितः ॥ २८-अ ॥
+</details>
 
 Doing what is pleasing (to the Lord) and avoiding what is displeasing (in one's life after _prapatti_) are the result of meritorious deeds done in the past, and also the determination made at the time of performing _prapatti_.
 
@@ -112,12 +140,21 @@ Therefore wise are they who perform _prapatti_ in order to render faultless serv
 
 Our princely _ācārya_ s, who wear the crown of proficiency in the Vedas, have placed us for protection under the feet of the Lord, who, from beginningless time, has resolved, in His great compassion, to save us; they have done so in order that there may be no further responsibility in ourselves (for our protection), by saying to us, "Do not forget the truth that the Lord, who is the soul of the world, will protect you who are related to Him as _śeṣa_ (existing solely for His purposes),"
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 युग्यस्यन्दनसारथिक्रमवति त्रय्यन्तसन्दर्शिते  
 तत्त्वानां त्रितये यथार्हविविधव्यापारसन्तानिनि ।  
 हेतुत्वं त्रिषु कर्तृभाव उभयोस्स्वाधीनतैकत्र तत्  
 स्वामिस्वीकृतयद्भरोऽयमलसस्तत्र स्वयं निर्भरः ॥ २९ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+युग्यस्यन्दनसारथिक्रमवति त्रय्यन्तसन्दर्शिते  
+तत्त्वानां त्रितये यथार्हविविधव्यापारसन्तानिनि ।  
+हेतुत्वं त्रिषु कर्तृभाव उभयोस्स्वाधीनतैकत्र तत्  
+स्वामिस्वीकृतयद्भरोऽयमलसस्तत्र स्वयं निर्भरः ॥ २९ ॥
+</details>
 
 The horse, the chariot and the charioteer -- the end of the Vedas (the Upaniṣads) shows that the three _tattva_s, _cit_, _acit_, and _Iśvara_ are related to one another respectively like the three mentioned above and have always had varied activities in accordance with their respective nature. In connection with these activities, all the three are of the nature of being the material) causes; two, _cit_ and _Iśvara_, are of the nature of doers, and one (1.) _Iśvara_ is alone independent (of all others). Therefore the _jīva_, the responsibility for whose protection has been undertaken by _Iśvara_ who is the Master, is carefree and has no further responsibility of his own in the matter of his protection.
 

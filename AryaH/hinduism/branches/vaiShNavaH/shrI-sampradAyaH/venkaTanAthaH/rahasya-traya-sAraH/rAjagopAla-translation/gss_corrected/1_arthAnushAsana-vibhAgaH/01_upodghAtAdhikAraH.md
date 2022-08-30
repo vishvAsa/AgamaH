@@ -9,17 +9,31 @@ title = "०१ उपोद्घाताधिकारः"
 
 (1) INTRODUCTORY CHAPTER. page70
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 आभगवत्तः प्रथितामनघामाचार्यसन्ततिं वन्दे ।  
 मनसि मम यत्प्रसादाद्वसति रहस्यत्रयस्य सारोऽयम् ॥ ४ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+आभगवत्तः प्रथितामनघामाचार्यसन्ततिं वन्दे ।  
+मनसि मम यत्प्रसादाद्वसति रहस्यत्रयस्य सारोऽयम् ॥ ४ ॥
+</details>
 
 I adore the regular and spotless succession of _ācārya_s which is well-known to extend upwards even to _Bhagavān_, It is by virtue of their grace that the essence of the meaning of the three secret _mantra_s (mysteries) abides in my mind.
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 कर्मब्रह्मात्मके शास्त्रे कौतस्कुतनिवर्तकान् ।  
 वन्दे हस्तिगिरीशस्य वीथीशोधककिङ्करान् ॥ ५ ॥[^15]
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+कर्मब्रह्मात्मके शास्त्रे कौतस्कुतनिवर्तकान् ।  
+वन्दे हस्तिगिरीशस्य वीथीशोधककिङ्करान् ॥ ५ ॥[^15]
+</details>
 
 [^15]: It is said by some that this _śloka_ pays homage to the author’s uncle Appullar who established the importance of _bhakti_ and _prapatti_ by refuting the arguments of opponents in his writings. There are others who hold that there is a reference to Desikar’s teacher under whom he studied _Tiruvoymozhi_ and who is known to have swept the streets clean during the procession of Sri Varadarāja at Kāncīpuram.
 
@@ -45,12 +59,21 @@ I bow to those great men who have refuted the arguments of men[^16] that chop lo
 
 Lucky indeed are we in having an opportunity, in this world and every day, of meditating on the three mysteries (_mantra_s) with great delight -- secrets which were taught to us with great earnestness for the removal of our dense ignorance by great souls endowed with compassion who sought the feet of the Spouse of the lotus-born Lakṣmī  as their sole refuge and gave me also those feet for our protection.
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 मणिवर इव शौरेर्नित्यहृद्योऽपि जीवः  
 कलुषमतिरविन्दन् किङ्करत्वाधिराज्यम् ।  
 विधिपरिणतिभेदाद्वीक्षितस्तेन काले  
 गुरुपरिषदुपज्ञं प्राप्य गोपायति स्वम् ॥ ६ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+मणिवर इव शौरेर्नित्यहृद्योऽपि जीवः  
+कलुषमतिरविन्दन् किङ्करत्वाधिराज्यम् ।  
+विधिपरिणतिभेदाद्वीक्षितस्तेन काले  
+गुरुपरिषदुपज्ञं प्राप्य गोपायति स्वम् ॥ ६ ॥
+</details>
 
 Though the _jīva_ is ever dear to the Lord (_Śaurī_) like the gem Kaustubha, he fails to obtain the paramount supremacy of service (to the Lord) owing to his ignorance; but being favoured with His glance at a turn in the tide of fortune, he attains to a knowledge of his real nature ( as one entirely dependent on God and existing only for Him ). This becomes possible by virtue of the teaching imparted to him by his _guru_s and thus he succeeds in saving himself.
 
@@ -113,12 +136,21 @@ We that deserve a place near the heart of Viṣṇu  even like the gem Kaustubha
 
 [^18]: Kaustubha: This gem is stated in certain treatises to stand allegorically for the _Jīva_  .
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 कर्माविद्यादिचक्रे प्रतिपुरुषमिहानादिचित्रप्रवाहे  
 तत्तत्काले विपक्तिर्भवति हि विविधा सर्वसिद्धान्तसिद्धा ।  
 तल्लब्धस्वावकाशप्रथमगुरुकृपागृह्यमाणः कदाचि  
 न्मुक्तैश्वर्यान्तसंपन्निधिरपि भविता कश्चिदित्थं विपश्चित् ॥ ७ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+कर्माविद्यादिचक्रे प्रतिपुरुषमिहानादिचित्रप्रवाहे  
+तत्तत्काले विपक्तिर्भवति हि विविधा सर्वसिद्धान्तसिद्धा ।  
+तल्लब्धस्वावकाशप्रथमगुरुकृपागृह्यमाणः कदाचि  
+न्मुक्तैश्वर्यान्तसंपन्निधिरपि भविता कश्चिदित्थं विपश्चित् ॥ ७ ॥
+</details>
 
 In the cycle of _karma_, a_vidyā_ and others[^19] which succeed one another, as in the revolution of a wheel, in the varied streams of _Samsāra_ peculiar to each individual and beginning from time immemorial, all systems of religious thought declare that, when the proper time comes, there is varied fruition resulting from past _karma_. At the time of this fruition, the Lord, who is the first _ācārya_ , finds his opportunity, catches the _Jīva_   and bestows His grace on him. Sach _Jīva_s are indeed rare and they become the repositories of all forms of wealth (like discrimination and freedom from desires) extending up to the sovereignty enjoyed by the freed souls in _mokṣa_  (viz, the enjoyment of _Bhagavān_ and service to Him).
 

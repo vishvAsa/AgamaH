@@ -7,12 +7,21 @@ title = "२७ मूलमन्त्राधिकारः"
 
 (AṢṬĀKṢARA) page404
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 तारं पूर्वं तदनु हृदयं तच्च नारायणाये-  
 त्याम्नायोक्तं पदमवयतां सार्धमाचार्यदत्तम् ।  
 अङ्गीकुर्वन्नलसमनसामात्मरक्षाभरन्नः  
 क्षिप्रं देवः क्षिपतु निखिलान् किङ्करैश्वर्यविघ्नान् ॥ ५९ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+तारं पूर्वं तदनु हृदयं तच्च नारायणाये-  
+त्याम्नायोक्तं पदमवयतां सार्धमाचार्यदत्तम् ।  
+अङ्गीकुर्वन्नलसमनसामात्मरक्षाभरन्नः  
+क्षिप्रं देवः क्षिपतु निखिलान् किङ्करैश्वर्यविघ्नान् ॥ ५९ ॥
+</details>
 
 (1) THE GOD OF THE _MANTRA_:
 
@@ -99,10 +108,17 @@ Therefore a denotes _Bhagavān_. He is denoted by that letter. This relationship
 
 When this a denotes the Supreme Ruler, it is derived, according to the science of grammar, from the verbal root ava which means to protect, to please etc., (the termination va is dropped) and the word that results refers to one who is a protector and so on (one who pleases). Though this root has many meanings, its best-known meaning is to protect; further it is this meaning which is required here (in connection with the _mantra_ '_aum_'); besides there is no authoritative etymological explanation that it should be considered as having many meanings; so the first meaning given (in grammar), namely, to protect is the direct and primary meaning of the word and the other meanings, when required, should be considered as suggested (lukshaņā) by the primary meaning. This is the appropriate way of explaining and the ācāryas have commented on it only in this way as meaning the Protector or Saviour. As the meaning 'protector' is not restricted by any limiting adjunct, the protectorship extends to all. The manner of protection varies with the objects of protection as shown by the pramāņas (sources of knowledge). Since the protection is not stated to be based on any reason or condition, it might appear to be unconditioned (nirupādhika) but _Iśvara_, who is omnipotent and independent, expects some _vyāja_ or action prescribed by His will to be performed by the _jīva_, which would serve as a justification for conferring _mokṣa_ and the like on those who are in _samsāra_. Towards the _nitya_s ( the eternal süris) and those who have already attained _mukti_, the protection is full and complete by way of maintaining what is already present and this is the result of _Bhagavān_'s natural and unconditioned mercy. But this natural mercy (karunya) is restrained in the case of those in _samsāra_ by the condition (upādhi) of the need for punishment which has arisen by beginningless offence when actions which are displeasing to Him have occurred. _Prapatti_ and other _vyāja_s have been prescribed in the _Śāstra_s only for removing this condition which acts as a restraining force (on the Lord's (mercy).
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 त्राणे स्वामित्वमौचित्यं न्यासाद्यास्सहकारिणः ।  
 प्रधानहेतुस्स्वातन्त्र्यविशिष्टा करुणा विभोः ॥॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+त्राणे स्वामित्वमौचित्यं न्यासाद्यास्सहकारिणः ।  
+प्रधानहेतुस्स्वातन्त्र्यविशिष्टा करुणा विभोः ॥॥
+</details>
 
 The fact of being the Master makes it appropriate that He should proteot; _prapatti_ and the like are (only) secondary helps.The primary reason (for protecting) is the Omnipresent Lord's mercy which is not dependent upon anything else.
 
@@ -114,9 +130,15 @@ Here the first letter a is in the dative or fourth case singular, the (usual) da
 
 When the Lord who is the Supreme Ruler says, “You are my _śeṣa_" and pursues him, the _jīva_, owing to his egoism, tries to wriggle out saying, “ I exist only for myself." Therefore the thought that we are _śeṣa_s to the Supreme Ruler will give (spiritual) existence to the _jīva_, who is otherwise, as it were, (spiritually) non-existent. To indicate the importance of this thought that we are _śeṣa_s), the relationship to the _śeṣī_ (for a) is declared even before the mention of the _śeṣa_ (namely m the _jīva_).
 
-SANSKRIT _ŚLOKA_;
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 ॥ निश्चिते परशेषत्वे शेषं संपरिपूर्यते । अनिश्चिते पुनस्तस्मिन्नन्यत्सर्वमसत्समम् ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+॥ निश्चिते परशेषत्वे शेषं संपरिपूर्यते । अनिश्चिते पुनस्तस्मिन्नन्यत्सर्वमसत्समम् ॥
+</details>
 
 When the relationship of our being _śeṣa_s to the Supreme Being is well established in the mind, the other requisities (for spiritual life) such as self-control and serenity (sama and dama) follow easily as being necessary to it. When that thought is not established in the mind, all the rest serve no purpose and are, as it were, non-existent.
 
@@ -194,12 +216,21 @@ It is also possible to understaod (adhyāhara), the word svatantrya (independenc
 
 The protectorship of all, indicated by the base (_prakṛti_) (viz) a in the first letter of _praṇava_, ensues, in the case of those who adopt an _upāya_, only by stimulating them to the adoption of any one of the _upāya_s. Though the _jīva_ adopts the _upāya_, since his activity is dependent on the Lord and since the one who affords protection by granting the fruit (of the _upāya_) is the Supreme Ruler who is gracious, it is only His protectorship of all indicated in the base of the first letter (of _praṇava_) that is confirmed by this _namas_. Similarly _Iśvara_'s being the unconditional _śeṣī_ of all which is stated by the dative case (fourth case) of the first letter a in the _praṇava_ (where the case ending has been dropped) -- this is confirmed by the interpretation suggested before, which denies unconditioned seshitvam to the _jīva_. As declared in the _Brahma_ _Sūtra_ (2-3-40), “The doership of the _jīva_ is due to the Supreme Being as stated in the _Śruti_ ", the independence that the _jīva_ seems to possess is granted to him in the execution of His own purposes by the Supreme Being who is the unconditioned _śeṣī_ of all. The _jīva_'s being seshi to other things is also due to its being given to him by the unconditioned seshi for the fulfilment of His own purposes. To sum up
 
-SANSKRIT _ŚLOKA_S:~
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 ॥ श्रीमान् स्वतन्त्रस्स्वामी च सर्वत्रान्यानपेक्षया ।  
 निरपेक्षस्वतन्त्रत्वं स्वाम्यञ्चाा न्यस्य न क्वचित् ॥  
 तारस्य नमसश्चेमौ सारौ देशिकदर्शितौ ।  
 अनन्यशरणत्वादेरधिकारस्य सिद्धये ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+॥ श्रीमान् स्वतन्त्रस्स्वामी च सर्वत्रान्यानपेक्षया ।  
+निरपेक्षस्वतन्त्रत्वं स्वाम्यञ्चाा न्यस्य न क्वचित् ॥  
+तारस्य नमसश्चेमौ सारौ देशिकदर्शितौ ।  
+अनन्यशरणत्वादेरधिकारस्य सिद्धये ॥
+</details>
 
 The Lord of _Śrī_ is (alone) independent in all things and is (alune) the Master (of all) without being dependent on any one else. Independence without any dependence for help on others and mastership belong to no one else.
 
@@ -207,13 +238,23 @@ This gist of the _praṇava_ and of the _namas_ has been taught to us by (our) �
 
 In ordinary life, being master over others and being inde pendent of others are considered desirable, and being a servant and being dependent on others are considered undesirable. This is merely due to past _karma_  as a conditioning factor (upādhi). But here (in spiritual life), being a servant (of the Lord) and being dependent (on the Lord) are agreeable to those who have a know ledge of the truth, for they are appropriate and natural to our _svarūpa_ (essential nature), as stated in such passages as the following: "We are all, by  nature, His servants". Thus it becomes evident that the _jīva_ exists solely for another (_Iśvara_) and is entirely dependent on Him. So the _jīva_ may rightly be employed to do what is pleasing to the _śeṣī_, who alone is independent (and omnipotent). Therefore it follows that the _jīva_ should be _śeṣa_ (and render service) to His devotees, as stated.( in the Tamil verse) ;-" The Lord who is absolutely pure, has made me the servant of His servants". If the Lord who is the _śeṣī_, and who is independent (and all powerful) is pleased to make us _śeṣa_s to His good devotees, it cannot be called improper or inappropriate; nor can it be avoided (or resisted). Since He is _śeṣī_, He has a right to employ us in whatever He desires, and since He is all powerful, He can enforce it. This idea may also be seen in the (Tamil) verse :- "I will never" associate with those who think that there is any deity other than Thee. But gladly do I accept (the privilege of) being servant to Thy devotees."
 
-SANSKRIT _ŚLOKA_S :
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 ॥ स्वेच्छयैव परेशस्य तादधीन्यबलात्तु नः । भगवद्भक्तशेषत्वं स्वेच्छयापि क्वचिद्भवेत् ॥  
 गुणाधिकेहि विषये गुणसारस्य वेदिनः । रामे रामानुजस्येव दास्यं गुणकृतं भवेत् ॥  
 दास्यमैश्वर्ययोगेन ज्ञातीनाञ्च करोम्यहं ॥ अर्धभोक्ता च भोगानां वाग्दुरुक्तानि च क्षमे ॥  
 इति स्वोक्तिनयादेव स्वभक्तविषये विभुः । आत्मात्मीयस्य सर्वस्य सङ्कल्पयति शेषताम् ॥  
 अन्योन्यशेषभावेऽपि परस्वातंत्र्यसंभवः । तत्तदाकारभेदेन युक्त इत्युपपादितम् ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+॥ स्वेच्छयैव परेशस्य तादधीन्यबलात्तु नः । भगवद्भक्तशेषत्वं स्वेच्छयापि क्वचिद्भवेत् ॥  
+गुणाधिकेहि विषये गुणसारस्य वेदिनः । रामे रामानुजस्येव दास्यं गुणकृतं भवेत् ॥  
+दास्यमैश्वर्ययोगेन ज्ञातीनाञ्च करोम्यहं ॥ अर्धभोक्ता च भोगानां वाग्दुरुक्तानि च क्षमे ॥  
+इति स्वोक्तिनयादेव स्वभक्तविषये विभुः । आत्मात्मीयस्य सर्वस्य सङ्कल्पयति शेषताम् ॥  
+अन्योन्यशेषभावेऽपि परस्वातंत्र्यसंभवः । तत्तदाकारभेदेन युक्त इत्युपपादितम् ॥
+</details>
 
 Being _śeṣa_ to His devotees results to the Supreme Ruler from His own desire; but to us, it is a consequence of our being dependent on Him. (Sometimes) even to us, it may come as a consequence of our own desire, for to one who appreciates the worth of (virtuous) qualities, a desire to serve may arise towards those who are great by their virtues. Thus service may be done owing to an appreciation of (noble) qualities, like the service of Lakṣmaṇa to _Śrī_ Rāma. The omnipotent Lord has Himself said. "I [_Śrī_ Kṛṣṇa's words] render service to those who are my kinsmen by virtue of my being independent. I give one half (of what I have) to my kinsfolk and enjoy the other half. I forgive also harsh words (employed) by them towards me ". Thus by virtue of these words of His, He has willed that we should be _śeṣa_s to Himself and to His devotees. It has already been shown (in the chapter on the extreme limit of the ultimate goal of life) that the service rendered as _śeṣa_s by the devotees to one another is due to the will of the omni-potent Lord and is appropriate in different ways (in exalting others and in being exalted by them).
 
@@ -247,12 +288,21 @@ III. THE SUPREME MEANING: (parārtha):
 
 In the _śloka_s cited above, the gross meaning (sthūlārtha) is that which appears obvious from etymological derivation according to grammar. The subtle meaning (sūkshmārtha) is that which appears from interpretation based on the similarity of syllables on the strength of Nirukta. The supreme meaning (parārtha) is that which is explained in the secret _śāstra_s (i.e.) _śāstra_s which comment on the meaning of the secret _mantra_s with the help of the conventions regarding the meaning of letters. (In the _śloka_s cited above), in the first (sthulartha) interpretation, the behaviour which is inherent by nature to the _śeṣa_ (namely, namana) and the structure or constitution of _Sādhyopāya_ with its _aṅga_s, are explained. Then, in the second, they clarify the _svarūpa_ of the _jīva_, as this is essential to the aspirant to _mukti_ who adopts the _upāya_, namely, that he has no unconditional independence. Then in the third (i.e.) para, the _śloka_s indicate the nature of _Siddhopāya_ (_Bhagavān_), who can be won by the adoption of the particular _Sādhyopāya_ and who is also the object to be attained. It may also be understood as stating that surrender (of self) is more important' than all other _upāya_s. All these are to be understood in their proper places where the ten different interpretations are given later on.
 
-SANSKRIT _ŚLOKA_S:--
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 एवं शिक्षितनानार्थनमश्शब्दसमन्विताः । सर्वे करणतां यान्ति मन्त्रास्स्वात्मसमर्पणे ॥  
 जीवसामान्यमुखतश्शृङ्गग्राहिकयापि वा । मकारौ तारनमसोस्स्वानुसन्धानदाविह ॥  
 इह या स्वानुसन्धानप्रक्रियैकस्य दर्शिता । अन्येषामपि तत्साम्यान्नान्योन्यशरणा इमे ॥  
 अतस्स्वपर-रक्षायां पराधीनेषु जन्तुषु । निरपेक्षशरण्यत्वं नियतं कमलापतौ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+एवं शिक्षितनानार्थनमश्शब्दसमन्विताः । सर्वे करणतां यान्ति मन्त्रास्स्वात्मसमर्पणे ॥  
+जीवसामान्यमुखतश्शृङ्गग्राहिकयापि वा । मकारौ तारनमसोस्स्वानुसन्धानदाविह ॥  
+इह या स्वानुसन्धानप्रक्रियैकस्य दर्शिता । अन्येषामपि तत्साम्यान्नान्योन्यशरणा इमे ॥  
+अतस्स्वपर-रक्षायां पराधीनेषु जन्तुषु । निरपेक्षशरण्यत्वं नियतं कमलापतौ ॥
+</details>
 
 All the _mantra_s that are combined with the word _namas_ with its various meanings as stated above become operative _mantra_s to be einployed while surrendering one's self. The ma in _praṇava_ and in the _namas_ lead to the consideration of one's self either by reference to the _Jīva_ as a genus (_Jāti_) including one, or by reference to 'I' directly which is like catching hold of the horns (i.e.) (by pointing to what is essential and all-important). Since the consideration that has been pointed out in regard to one, applies equally to others as well, there is no question of any one being the Saviour of any other. Therefore since all creatures are dependent (on another) in the matter of protecting themselves and protecting others, protectorship not dependent on others is vested only in the Lord of Kamala (_Lakṣmī_)
 
@@ -278,9 +328,15 @@ The potency of this name is well-known from the following passages: "Those who a
 
 The compound word Nārāyaṇa may be split up into its two component parts thus: Nārāh ayanam yasya (He to whom Nārās are the resting place ) and Nārāņām ayanam (the resting place of Nārās). The word Nārās is here determinate in meaning and denotes only the nārās (sentient beings and non-sentient things) and does not refer also to the Lord who is their inter self. Therefore the two words are not in grammatical apposition. Nammalvar distinctly showed the meanings of these two ways of combining the two parts of the word (samāsa) in the following two passages by using the word at the end and at the beginning respectively. "He who has, as His _śeṣa_s," countless _jīva_s with knowledge and bliss as their attributes and with self-luminousness as their nature and also His own noble qualities--that Nārāyaṇa," and " Nārāyaṇa" is the Lord of all the seven worlds". In this are implicit (_Bhagavān_'s) possessing the two kinds of attributes, namely, freedom from defects and possession of all auspicious and noble qualities and, likewise, His possession of the two vibhūtis (glories), namely _Līlā_ _Vibhūti_ (this (material) Universe) with all the sentient and nonsentient beings in it) and _Nitya_ _Vibhūti_, (the transcendental region of eternal glory with all that it contains). It should be borne in mind that this nārās includes the queen, the ornaments, the weapons, the attendants, the furniture and the like, the door-keepers, the retinue and such others.
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 ॥ कारणत्वमबाध्यत्वमुपायत्वमुपेयता । इति शारीरकस्थाप्यमिह चापि व्यवस्थितम् ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+॥ कारणत्वमबाध्यत्वमुपायत्वमुपेयता । इति शारीरकस्थाप्यमिह चापि व्यवस्थितम् ॥
+</details>
 
 In the word Nārāyaṇa, are contained all the attributes (of _Brahman_) which are established in the four chapters) of the Sarīraka _Śāstra_:(_Brahma_ sūtras), namely, His being the cause of the Universe, the irrefutability of the proposition that He is the cause, His being the _upāya_ for the attainment of _mukti_ and His being the object of attainment (in _mukti_). All this has been explained by Bhattar in His _Nitya_ in the words beginning with "Knowledge, bliss, purity and the like.”
 
@@ -350,10 +406,17 @@ When we reflect in accordance with the _pramāṇa_s, on the essential nature of
 
 [^93]: Service without the body: Perhaps this should be taken to mean anubhava or experience.]
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 इह सङ्ग्रहतश्श्रीमान् गोप्ता शेषी समाधिकदरिद्रः ।  
 शरणं सर्वशरीरी प्राप्यस्सेव्यश्च साधुभिर्भाव्यः ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+इह सङ्ग्रहतश्श्रीमान् गोप्ता शेषी समाधिकदरिद्रः ।  
+शरणं सर्वशरीरी प्राप्यस्सेव्यश्च साधुभिर्भाव्यः ॥
+</details>
 
 (Thus) here in Tiru_mantra_, the Lord is to be reflected upon by good men in a concise form (in the letter a) as the consort of _Śrī_ (_Lakṣmī_) and as the Saviour:(in the dative or the fourth case whose affix has been dropped) as the _śeṣī_, and as destitute of equals and superiors : in the word _namas_ ) as the _upāya_ or means of attaining Him: (in the word Nārāyaṇa) as the in-dwelling Self of all, (and in the fourth case of that word) as the object of atlainment and as the Person to whom service is due.
 
@@ -365,10 +428,17 @@ him (to the Lord's mercy), that he is the servant of the Lord and (His consort) 
 
 (lilā rasa) of _Iśvara_, that he is entitled to be the instrument for the Lord's enjoyment (bhoga) (in _Nityavibhūti_), that his passage to his goal depends on _Iśvara_, that the attainment of that goal depends on _Iśvara_, that he should seek neither worldly prosperity nor kaivalya, that he should eagerly long for the attainment of _Bhagavān_, that he should become free from all _avidyā_, that the self would manifest itself in its essential nature, that the self is capable of visualising everything (in the state of _mukti_), that his sole enjoyment should consist in the experience of _Bhagavān_ in every form, that he is capable of having unsurpassed bliss, that his being an enjoyer is (only) for the enjoyment ot of _Bhagavān_, that the self (in its realised state) can take any form and the like at will, that its will is irresistible, that the self will have perfect resemblance to the Lord except in regard to those uncommon qualities or attributes that define His essential nature, that the sell's delight is in rendering every kind of service to _Bhagavān_ and that the self will never return to _samsāra_ (after attaining _mukti_). (67).
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 पदत्रयेऽत्र संक्षेपाद्भाव्यानन्यार्हशेषता ।  
 अनन्योपायता स्वस्य तथानन्यपुमर्थता ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+पदत्रयेऽत्र संक्षेपाद्भाव्यानन्यार्हशेषता ।  
+अनन्योपायता स्वस्य तथानन्यपुमर्थता ॥
+</details>
 
 In the three words of this (Tiru_mantra_), we should reflect, in brief, on our being entitled to be the _śeṣa_, of no one other than the Lord, that we have no other _upāya_ than the Lord, and that we have no other end to attain than the Lord.
 
@@ -376,10 +446,17 @@ Thus the Tiru_mantra_ has ( as stated in Nāradiyakalpam) everything that a man 
 
 So also weakness of faith in the Consort of _Śrī_ as a Protector, the search for other Redeemers, the protest  [See page (89 of the book ).] against being dependent on God, the delusion of being the unconditional _śeṣa_ to others, reverence to other deities, association with those who are their devotees, and, likewise, the delight in serving those who are unfit for service, such delusions as that the body and the soul are the same, such delusions as that the self is independent of _Bhagavān_, the earning (of money or other things) for one's own use, offence to the devotees of _Bhagavān_, forgetfulness of the fact that one is helpless and destitute of _upāya_s, a longing for the continuance of life in _samsāra_, the fear that the soul will suffer annihilation, the taste for doing what is improper, the classification of men into friends and foes, the seeking of other kinsmen (than _Bhagavān_ ), the desire for other ends (than the attainment of _Bhagavān_), averseness to the supreme goal of life and other such hindrances to one's firm stand in one's essential nature, in the real _upāya_ and in the end in view - all these ( delusions) will never approach them.
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 इह निजपक्षविरुद्धैरीदृशनिष्ठाविरोधिभिश्चान्यैः ।  
 द्विचतुष्कसारवेदी गङ्गाह्रद इव न गच्छति क्षोभम् ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+इह निजपक्षविरुद्धैरीदृशनिष्ठाविरोधिभिश्चान्यैः ।  
+द्विचतुष्कसारवेदी गङ्गाह्रद इव न गच्छति क्षोभम् ॥
+</details>
 
 The person who knows the essence of Ashtūkshara will never be deluded by these and other ideas which are opposed to his system and his way of life. In no circumstances are the waters of the deep pool of the G_aṅga_ disturbed :
 
@@ -429,10 +506,17 @@ As stated in the following _śloka_ : I am the property (_śeṣa_) na mama of o
 
 “Existing for His sake' is eternal; so there is no need to pray for it; this relationship of existing for His sake (as His _śeṣa_) is already expressed by the praṇava. Therefore prayer is inside here for service (to _Bhagavān_), which is the overflow of the full and perfect enjoyment of _Bhagavān_ and which contains within itself all other ends of life as in the common saying: "In the ocean is a small puddle (i.e.) the larger contains the smaller within it)".
 
-SANSKRIT _ŚLOKA_S:---
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 ॥ अत्र स्वलाभापेक्षापि स्वामिलाभावसायिनी ।  
 स्वामिप्रयोजनापेक्षाप्यतस्स्वानन्दहेतुका ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+॥ अत्र स्वलाभापेक्षापि स्वामिलाभावसायिनी ।  
+स्वामिप्रयोजनापेक्षाप्यतस्स्वानन्दहेतुका ॥
+</details>
 
 Here in the dative or fourth case ( in the word Nārāyaṇāya ), although the _jīva_ expects his owa gain (namely, the attainment of his _puruṣārtha_ ), yet it ends in the Master gaining pleasure or delight. (Therefore there is no violation of the proper function of the, _śeṣa_). (Likewise) desiring that the Master should gain conduces also to one's own bliss or _ānanda_.
 
@@ -482,10 +566,17 @@ The answer to this question may be expressed as follows :
 
 
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 स्वतस्स्वार्हं यथाभागं पुत्रः पितुरपेक्षते ।  
 सापराधस्तथा दासः कैङ्कर्यं परमात्मनः ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+स्वतस्स्वार्हं यथाभागं पुत्रः पितुरपेक्षते ।  
+सापराधस्तथा दासः कैङ्कर्यं परमात्मनः ॥
+</details>
 
 "The son begs of his father for his share of the property, though it is lawfully his. In the same way the servant (the _jīva_) who has offended (the Master) begs of the Supreme Being that he should be permitted to render service ". There is nothing inappropriate in the _jīva_ who has lost what he is entitled to, praying thus:-- “May I have what is my sharel Be Thou so gracious as to pardon my offence;"
 
@@ -526,9 +617,15 @@ Since the prayer for the _puruṣārtha_ is not a mere desire but the soliciting
 
 
 
-SANSKRIT _ŚLOKA_
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 केचित्तु चरमश्लोके द्वये चोक्तक्रमादिह । भरन्यासपरं तारं शेषं फलपरं विदुः ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+केचित्तु चरमश्लोके द्वये चोक्तक्रमादिह । भरन्यासपरं तारं शेषं फलपरं विदुः ॥
+</details>
 
 Some_ācārya_s considered that, as in the order in which these are expressed in _Dvaya_ and in the _carama_ _śloka_, here, in Tiru_mantra_ also, the praṇava (tāram) expresses _bharanyāsa_ or the surrender of the responsibility of protection and that the other two words _namas_ and Nárāyaṇāya express the attainment of the end in view.
 
@@ -566,9 +663,15 @@ When some of these meanings are considered as the main interpretations, the othe
 
 
 
-SANSKRIT _ŚLOKA_S :
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 ॥ तदेवं पदवाक्यार्थैस्तत्त्वविद्गुरुदर्शितैः । तत्तत्कुदृष्टिकथितं निरस्तं योजनान्तरम् ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+॥ तदेवं पदवाक्यार्थैस्तत्त्वविद्गुरुदर्शितैः । तत्तत्कुदृष्टिकथितं निरस्तं योजनान्तरम् ॥
+</details>
 
 Therefore by the interpretations of the words and the sentences thus taught (to us) by the ācāryas, who have realised the truth, other interpretations stated by those who are outside the pale of Vedic religion and by heretics (within that fold) have been rejected.
 
@@ -639,9 +742,15 @@ The eight great qualities are those which manifest themselves after _mukti_ or t
 
 
 
-SANSKRIT _ŚLOKA_ :
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 अविद्यापूतनोन्मुक्तैरनवज्ञातसत्पथैः । असदास्वादसव्रीडैरादिष्टमिति दर्शितम् ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+अविद्यापूतनोन्मुक्तैरनवज्ञातसत्पथैः । असदास्वादसव्रीडैरादिष्टमिति दर्शितम् ॥
+</details>
 
 Thus (we have shown here what was taoght by (_acāryā_s) who were free from the demon of ignorance (_avidyā_), who never ignored the path of the righteous and who shrank in shame fronı the enjoyment of petty pleasures.
 
@@ -669,9 +778,15 @@ We have been initiated into the excellent _mantra_, which enables us to give up 
 
 
 
-SANSKRIT _ŚLOKA_ :
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 इत्थं सङ्घटितः पदैस्त्रिभिरसावेकद्विपञ्चाक्षरै
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+इत्थं सङ्घटितः पदैस्त्रिभिरसावेकद्विपञ्चाक्षरै
+</details>
 
 -रर्थैस्तत्त्वहितप्रयोजनमयैरध्यात्मसारैस्त्रिभिः ।  
 आद्यस्त्र्यक्षरवेदसूतिरजहत्स्थूलादिवृत्तित्रय-  

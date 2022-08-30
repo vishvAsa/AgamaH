@@ -11,12 +11,21 @@ title = "२६ प्रभावरक्षाधिकारः"
 
 (THE) POTENCY (OF _PRAPATTI_ ).page389
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 शिलादेः स्त्रीत्वादिर्विपरिणतिरस्त्वद्भुतमिदं  
 ततोप्येतच्चित्रं यदुत दहनस्यैव हिमता ।  
 तृणस्यैवास्त्रत्वं रिपुषु निहतेरेव हितता  
 पदत्रेणैवेह त्रिभुवनपरित्राणमिति च ॥ ५७ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+शिलादेः स्त्रीत्वादिर्विपरिणतिरस्त्वद्भुतमिदं  
+ततोप्येतच्चित्रं यदुत दहनस्यैव हिमता ।  
+तृणस्यैवास्त्रत्वं रिपुषु निहतेरेव हितता  
+पदत्रेणैवेह त्रिभुवनपरित्राणमिति च ॥ ५७ ॥
+</details>
 
 It is, of course, wonderful that stones and the like should become women and the like (Ahalya); (but) more wonderful is it that fire should become as cold as snow (as in the case of Hanuman) and that a blade of grass should become a missile (Kakasura); even more wonderful is the act of slaying when it becomes the means of redemption (as for Sisupala and others). So also it is most wonderful that the sandal (of _Śrī_ Rāma) should protect the three worlds.
 
@@ -114,12 +123,21 @@ It has been said :-"Whatever a man often does with the activities of his body, m
 
 The Supreme Self whose greatness is described in the Vedas, which reveal the truth, is beyond all limitations and beyond all measure in regard to His glory. Therefore, about those who approach Him and seek His feet, though such things as low birth and certain weaknesses may be found in them, yet it cannot be said that their greatness is, in any way, limited. This truth has been taught to us by those who are highest among men and who are free from all partiality.
 
-SANSKRIT _ŚLOKA_.
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 रागद्वेषमदादिकैरिह महारक्षोभिरक्षोभिते  
 नित्ये रक्षितरि स्थिते निजभरन्यासाभिधानं तपः ।  
 यत्कक्षीकृतमत्यशेत विविधान् धर्मानधर्मद्रुह-  
 स्तद्भूमार्णवलेशवर्णनमपि प्राचां न वाचां पदम् ॥ ५८ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+रागद्वेषमदादिकैरिह महारक्षोभिरक्षोभिते  
+नित्ये रक्षितरि स्थिते निजभरन्यासाभिधानं तपः ।  
+यत्कक्षीकृतमत्यशेत विविधान् धर्मानधर्मद्रुह-  
+स्तद्भूमार्णवलेशवर्णनमपि प्राचां न वाचां पदम् ॥ ५८ ॥
+</details>
 
 When the eternal Saviour, who cannot, in the least, be affected by such great demons as desire, hatred, pride and the like is present (to save us), that tapas or _upāya_ called the surrender of the responsibility of our protection (_bharanyāsa_), which is accepted as transcending all other _dharma_s (_upāya_s) in putting down all a_dharma_s -- that tapas is so great that the description of even a fragment of the ocean of its potency is beyond the range of even the ancient Vedas.
 

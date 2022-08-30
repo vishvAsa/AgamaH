@@ -9,12 +9,21 @@ title = "०९ उपायविभागाधिकारः"
 
 (9) THE CHAPTER ON THE CLASSIFICATION OF THE MEANS OR _UPĀYA_ FOR ATTAINING (MUKTI). page162
 
-SANSKRIT _ŚLOKA_.
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 उपायः स्वप्राप्तेरुपनिषदधीतस्स भगवान्  
 प्रसत्त्यै तस्योक्ते प्रपदननिदिध्यासनगती ।  
 तदारोहः पुंसस्सुकृतपरिपाकेन महता  
 निदानं तत्राऽपि स्वयमखिलनिर्माण निपुणः ॥ २२ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+उपायः स्वप्राप्तेरुपनिषदधीतस्स भगवान्  
+प्रसत्त्यै तस्योक्ते प्रपदननिदिध्यासनगती ।  
+तदारोहः पुंसस्सुकृतपरिपाकेन महता  
+निदानं तत्राऽपि स्वयमखिलनिर्माण निपुणः ॥ २२ ॥
+</details>
 
 _Bhagavān_ is declared in the Upaniṣads to be Himself the means (_upāya_) of attaining Him. The ways of _bhakti_ and _prapatti_ are indicated for winning His grace. The adoption of these [^46] *ways is the result of the great ripening of meritorious deeds (done in the past ) and, even for this, _Bhagavān_, who has the ability to create everything, is Himself the cause.
 
@@ -93,12 +102,21 @@ It may be seen that, as in _upāsanā_s there are differences in _mantra_s and t
 
 They are Brahmins who know the following :-- (1) Karma Yoga is suited to one's state (viz. _varṇa_, _āśrama_ and the like); (2) _Jñāna_ Yoga adopted with keen intelligence on account of its beneficial results: (3) _Bhakti_ Yoga adopted by those with an inner vision which is delightful and (4) _Prapatti_ which yields immediate fruit by the grace of God to those who are destitute of the qualifications (for the other three ) and who cannot endure delay in attaining _mokṣa_ .
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 कर्मज्ञानमुपासनञ्च शरणव्रज्येति चावस्थितान्  
 सन्मार्गानपवर्गसाधनविधौ सद्वारकाद्वारकान् ।  
 एकद्व्याकृतियोगसंभृतपृथग्भावानुभावानिमान्  
 सम्यक्प्रेक्ष्य शरण्यसारथिगिरामन्ते रमन्ते बुधाः ॥ २३ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+कर्मज्ञानमुपासनञ्च शरणव्रज्येति चावस्थितान्  
+सन्मार्गानपवर्गसाधनविधौ सद्वारकाद्वारकान् ।  
+एकद्व्याकृतियोगसंभृतपृथग्भावानुभावानिमान्  
+सम्यक्प्रेक्ष्य शरण्यसारथिगिरामन्ते रमन्ते बुधाः ॥ २३ ॥
+</details>
 
 Karma, _Jñāna_, _Upāsana_ (_bhakti_ ) and likewise _śaraṇāgati_ are the good ways prescribed in the Vedas for securing _mokṣa_[^49] ; of these some are indirect and auxiliary means (namely, _karma_ and _jñāna_ ) while the others, _bhakti_ and _śaraṇāgati_ are direct and independent _upāya_s for _mukti_. Of these, some (i.e. _karma_ and _jñāna_), have only one form (that of being in. direct and auxiliary means ); _bhakti_ has only one form (that of being the direct and independent means for _mukti_, while _śaraṇāgati_ or _prapatti_ has two forms, that of being an indirect and auxiliary means as leading to _bhakti_ and also that of being the direct and independent means or _upāya_ for obtaining _mukti_. The wise (who know the s'ăstras), having understood well the difference among these _upāya_s due to their having this single or twofold nature, delight in the last words (caramaśloka  ) of the charioteer who is the Saviour of all, (i.e.) they prefer śaraṇāgati),
 

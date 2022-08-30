@@ -9,12 +9,21 @@ title = "०८ अधिकारिविभागाधिकारः"
 
 (8) THE CHAPTER ON THE CLASSIFICATION OF QUALIFIED PERSONS.page153
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 मुमुक्षुत्वे तुल्ये सति च मधुविद्यादिषु यथा  
 व्यवस्था संसिद्ध्यत्यधिकृतिविशेषेण विदुषाम् ।  
 विकल्प्येत न्यासे स्थितिरितरविद्यासु च तथा  
 नियत्या वैयात्यं नियमयितुमेवं प्रभवति ॥ २० ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+मुमुक्षुत्वे तुल्ये सति च मधुविद्यादिषु यथा  
+व्यवस्था संसिद्ध्यत्यधिकृतिविशेषेण विदुषाम् ।  
+विकल्प्येत न्यासे स्थितिरितरविद्यासु च तथा  
+नियत्या वैयात्यं नियमयितुमेवं प्रभवति ॥ २० ॥
+</details>
 
 Even though the desire for _mokṣa_  is the same, a distinction arises among those who practise the vidyās or forms of meditation prescribed in the śrutis, as a result of their respective qualifications[^42] or competence in regard to such vidyās as Madhuvidyā, Sad_vidyā_ and so on. In the same way, a distinction arises between the adoption of _prapatti_ and other vidyās (which are of the nature of _bhakti_ or devout meditation), as a result of an unseen power or destiny depending on past _karma_ which brooks no questioning.
 
@@ -76,12 +85,21 @@ Entire dependence on the Lord is uniformly the same for all. For it is stated in
 
 Those who desire to attain the bliss of _Bhagavān_ realise that the supreme aim of life is _mokṣa_  and that there are two _upāya_s or means attaining it, one prolonged and the other quick which depend on their luck. They adopt one of these two _upāya_s and find that, for getting rid of the hindrances caused by past _karma_, there is no other way than seeking the feet of Mukunda for refuge,
 
-SANSKRIT _ŚLOKA_:
+<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 प्रपन्नादन्येषां न दिशति मुकुन्दो निजपदं  
 प्रपन्नश्च द्वेधा सुचरितपरीपाकभिदया ।  
 विलम्बेन प्राप्तिर्भजनसुखमेकस्य विपुलं  
 परस्याशु प्राप्तिः परिमितरसा जीवितदशा ॥ २१ ॥
+</details>
+
+<details><summary>संस्कृतम् - मूलम्</summary>
+
+प्रपन्नादन्येषां न दिशति मुकुन्दो निजपदं  
+प्रपन्नश्च द्वेधा सुचरितपरीपाकभिदया ।  
+विलम्बेन प्राप्तिर्भजनसुखमेकस्य विपुलं  
+परस्याशु प्राप्तिः परिमितरसा जीवितदशा ॥ २१ ॥
+</details>
 
 Mukunda does not vouchsafe His abode to any one other than the _prapanna_. The _prapanna_ is of two kinds, namely, he who adopts _prapatti_ as the sole and independent means and he who adopts _prapatti_ as the auxiliary means to _bhakti_ or _upāsana_ and this difference is due to difference in the fruition of their good deeds. He who adopts _prapatti_ as an auxiliary to _bhakti_ will attain _mokṣa_  after much delay caused by the need to expiate past _karma_ (in one or several bodies), but will have the happiness of devout worship in this world for a long time. He to whom _prapatti_ is the sole and independent means will attain _mokṣa_  quickly (i.e.) at the end of this life itself, but his happiness of serving the Lord in this world will be limited and of short duration.
 
