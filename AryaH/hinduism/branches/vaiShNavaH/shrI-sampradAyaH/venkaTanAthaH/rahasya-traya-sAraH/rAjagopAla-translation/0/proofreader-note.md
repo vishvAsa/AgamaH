@@ -1,5 +1,5 @@
 +++
-title = "+GSS corrected"
+title = "+Proofreader note"
 
 +++
 
