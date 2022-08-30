@@ -1,6 +1,7 @@
 +++
 title = "GSS corrected"
 unicode_script = "devanagari"
+
 +++
 
 Limitations of proof reading done:
@@ -85,6 +86,10 @@ SANSKRIT _ŚLOKA_ :
 
 (With due devotion) we repeat the expression of adoration to our _guru_s and likewise to their _guru_s; and among these (latter), we pray for the grace of the  Primaeval Couple (Nārāyaṇa  and Lakṣmī ), the twin _śeṣī_s[^1] of all the worlds (so that they may be both the end to be attained by us and the means of attaining it).
 
+[^1]:
+A_ śeṣa_ is one who exists solely for the purposes of another. That other is _śeṣī _.
+
+
 
 
 TAMIL VERSE :
@@ -110,6 +115,10 @@ TAMIL VERSE :
 
 
 Having carefully studied the beautiful hymns sung with delight in Tamil by seers, we have come to understand the real meaning of the regions of the Upaniṣads which are otherwise difficult to comprehend - seers known as Poygai Muni, Bhutamuni, Peyalvar, Kurugesan (Nammalvar) who was born on the banks of the cool Tamraparni, [^2] Viṣṇu chittan, the pure-minded Kulasekhara, our Pananathan, Thondaradippodi, the splendour that appeared in Mazhisai ( Tirumazhisai alvar) and the prince of M_aṅga_i armed with sword and spear for making bright the path of the Vedas throughout the world.
+
+[^2]:
+(1) The commentator says that Viṣṇuchittan stands for Viṣṇuchittan and also for his daughter Andal, the authoress of many hymns.
+
 
 
 
@@ -139,6 +148,14 @@ TAMIL VERSE :
 
 To those who venture to attain release from the bondage of _samsāra_, the ancient path indicated to us by the spotless Madhurakavi  by his own example is the only safe[^3]  path, for while there is Śrīkṛṣṇa, the great cowherd, who incarnated solely for the sake of his devotees to confer bliss on them, to be their refuge, to be their final goal, to stand in relation to them as mother, father, brother and so on, to change their desire for the pleasures of this world into a desire for Himself, to remove all their sins, to show them infinite compassion, to reveal the truth, and so also to bring about in them a likeness to Himself - while there is Śrīkṛṣṇa ever ready to do all this,[^4] he sought only the feet of the sage Satagopa (Nammālvār) who rendered in Tamil the truths contained in the Vedas which are otherwise hard to understand.
 
+[^3]:
+safe path: This means_ Bhakti_ and_ Prapatt_i which lead to _mokṣa _. _Acārya bhakt_i is called _bhakti_ and _prapatti_ as it leads to them.
+
+
+[^4]:
+Madhurakavi in his decade of Tamil verses, says that, to him, Nammalvar is the only God and that through him, he expects to derive all the benefits that men expect to have from God Himself. The path indicated by him is that of devotion to the _ācārya_ for attaining _mukti_ as well as other things.
+
+
 
 
 THE ĀCĀRYA  ESSENTIAL FOR MOKṢA :
@@ -146,6 +163,18 @@ THE ĀCĀRYA  ESSENTIAL FOR MOKṢA :
 
 
 It is said in the _Smṛti_s: "Kṣatrabandhu[^5] , who was the worst of sinners, and Puṇḍarīka[^6] , the virtuous - both of them obtained _mokṣa_  or release from bondage by virtue of their having _ācārya_s." It is thus declared that in the case of every one, the only means of securing _mokṣa_  is to have an _ācārya_. To the man desirous of _mokṣa_ , the line of _ācārya_s is stated in the _śruti_[^7] to extend upward even to the Supreme _Bhagavān_ for purposes of meditation.
+
+[^5]:
+Kṣatrabandhu led the life of a highwayman in a forest. He was a source of terror to the sages who lived in that forest. Once when the sage Nārada  happened to pass by him, he rushed at him with his stick. Nārada  took pity on him and asked him to find out from his wife and children whether they would share the sin he was committing, as it was done for their sake. They refused and Kṣatrabandhu realised his folly and begged to be instructed by Nārada  in the truths of religion.
+
+
+[^6]:
+Puṇḍarīka was a virtuous Brahmin, who, though he followed the righteous path and went on a pilgrimage to holy places, did not get a vision of God. It was only after being initiated into the _Ashtakshara_ by Nārada  that he realised God.
+
+
+[^7]:
+The _śruti _ referred to here means - “This line of the _ācārya_s extends up to Bhagavān thus: This is his _ācārya_; his _ācārya_ is so and so and so on up to the Lord".
+
 
 
 
@@ -155,9 +184,52 @@ BHAGAVĀN THE FIRST ĀCĀRYA:
 
 The Supreme Lord is the foremost of all _ācārya_s, as may be seen from the following passages - "Him[^f8] [^f9] (Śrīkṛṣṇa) who is possessed of all excellences, who is the _ācārya_[^8] , father and _guru_", "Nārāyaṇa [^f10] who is the _guru_ of all the world is also my _guru_", "Thou[^f11] art my kinsman, and Thou art my _guru_", and "Thou art[^f12] the _guru_ of all the worlds and likewise their goal". It is He that, at the beginning, vouchsafed the Vedas to _Brahma_ and when they were stolen, brought them back to him and through him spread their knowledge in the world. It is He that blessed _Brahma_'s sons, Sanatkumāra and others, to understand[^f13] all truths by themselves and to follow the path of renunciation. Through them He revealed the means of attaining sålvation. It is _Bhagavān_ who, later by the agency of such great seers as Nārada , Parāśara, Śuka  and Soubaka, maintained intact the tradition of the Upaniṣads. It has been said "Know[^f14] that Vyāsa who is otherwise called Kṛṣṇa Dvaipayana is the Lord Nārāyaṇa  Himself. Who else is there in the world, O Maitreya, that could compose the Mahābhārata ?" It has also been said, “Devoutly[^f15] uttering the name of that great sage (Vyāsa), Bhīṣma said with folded hands ". Into such great men as Vyāsa referred to above the Lord entered and through them published to the world great works like Mahābhārata and Sārīraka Mīmāmsā (_Brahma_ _Sūtra_s). Further in such incarnations as Hamsa, Matsya, Hayagrīva, Nara, Nārāyaṇa , and the Gīt_ācārya_ (Śrīkṛṣṇa), He himself stood out and revealed spiritual truths and also the means of attaining _mokṣa_  (_tattva_ and _hita_). He had His invaluable teaching confirmed also through the words of such men of wisdom as Bhīṣma. It has been said[^f16] Nārāyaṇa  Himself dictated the whole of  the Pāncharātra", When this _Śāstra_ which was originally taught by Him became lost, once again at the end of the Dvāpara Yuga and the beginning of the Kali Yuga, He[^f17] revealed it again through _Saṅkarṣaṇa_ in accordance with the ordinances of the Sātvatas so that all castes, Brahmins, Kṣatriyas, Vaiśyas, and Śūdras, might, after initiation by the _ācārya_ with the prescribed marks (Śaṅkha and Cakra, worship and render service to the lord in the performance of their daily duties with their minds set on the Eternal. As is said in the following verse, “In the yuga of Kali[^f18] , the Lord Acyuta enters into the respective persons of men already born and carries out His designs", Nārāyaṇa  assumed a new series of ten incarnations in the forms of Parankusa (Nammalvar), Parakala (Tirum_aṅga_i) and others. In these ten avatars, just as clouds take in the water of the ocean and then pour it down in the form of rain so essential to the life of every one, the Lord gathered together those parts of the Vedas which are most significant and revealed them briefly in a language (Tamil) which is accessible to everyone.
 
+[^f9]:Mahābhārata; Sabha Parva : 41-21.
+
+
+[^f10]: Viṣṇu  Purāṇa 5:1-14.
+
+
+[^f11]:Mahābhārata : Gandhari's words.
+
+
+[^f12]:  Alavandar's Stotram: 60
+
+
+[^f13]:Mahābhārata: Santi Parva :349-71
+
+
+[^f14]:  Viṣṇu  Purāṇa : 3:4--5.
+
+
+[^f15]:Mahābhārata: Adi Parva: 114-40
+
+
+[^f16]:Mahābhārata: Santi Parva: 359-68
+
+
+[^f17]:Mahābhārata : Bhishma Parva 66-39-40
+
+
+[^f18]:.Viṣṇu dharma :108--50
+
+
+[^8]:
+Ā_cārya_ here means one who teaches Brahma Vidyā and _guru_ one who teaches the Vedas. This verse was spoken by Sahadeva to those assembled at the Rajasuya sacrifice,
+
+
 
 
 When this path of spiritual life was threatened with obstruction by heretics, open and covert, He incarnated again in the land of Agastya in the forms of many teachers of the true doctrine. Has it not been said, “The god,[^f19] Nārāyaṇa , Himself, assumes a mortal form out of compassion and lifts up the world submerged (in the darkness of ignorance) with the śāstras as His hand ", and so also, "Our[^f20] Lord dressed in his yellow raiment came as the _guru_ out of compassion to impart the teaching of the Veda". In reference to this, the Maharshi, Śuka , says, “In the[^f21] yuga of Kali, devotees .of Nārāyaṇa  endowed with spiritual greatness, will be born here and there in large numbers in the land of the Dravidas, where flow the rivers, the Tamraparni, the Vaigai, the Palar, the holy Cauveri and the Mahānadī which runs westwards."
+
+[^f19]: Jayakhya Samhita..
+
+
+[^f20]: Perialwar: Tirumozhi 5.--2-8.
+
+
+[^f21]: Bhāgavatam XI, 5-38,39
+
 
 
 
@@ -179,9 +251,27 @@ _BHAKTI_ TO  ĀCĀRYA ESSENTIAL:
 
 It has been said, "The wise[^f22] man should bring his _guru_ to the light (of renown) and should guard the sacred _mantra_ with great care; from the omission to bring his _guru_ to light and by revealing the _mantra_, he declines in wealth (of knowledge) and in age (spiritual standing)." His bringing the _guru_ to light and his omission to do so, it needs no saying, are due to the excess or deficiency of his devotion to his _guru_.
 
+[^f22]: _Śeṣa_samhita: 14-50
+
+
+
+
+
+
 
 
 From [^f23] Kaṭha _śruti_[^9]  and [^f24] Jābala _śruti_[^10]  it is well-known that all desired knowledge arises from supreme devotion to the _guru_ resembling that to _Bhagavān_. This is learnt also from the incident of Sañjaya seeing all things as if they occurred before him, as the result of his supreme devotion to his _guru_ Vyāsa. From the episodes of Raikwa (and others) it is evident that the _guru_ who does not reveal spiritual truths immediately even to those śiṣyas who are of excellent character will not be adversely affected in his spiritual life. If, on the other hand, the _guru_ reveals these spiritual truths to any and every disciple in the belief that the _śiṣya_ who has sought him must be good, he will be adversely affected; for, in such cases, it is said that the sins of the disciple become also the sins of the _guru_ This may be seen from the story of _Brahma_. Without careful enquiry (into his fitness) he revealed truths to Indra. As a consequence _Brahma_ forgot his divine knowledge and had to be taught again by _Bhagavān_ through the agency of Nārada , _Brahma_'s very disciple. In the _śloka_ referred to above, the meaning that, by not bringing the _guru_ to light and by improper bringing of the _mantra_ to light, the man suffers decline respectively in wealth and in age is primarily intended owing to appropriateness and the support of Jabala and Kaṭha _śruti_ s. There is nothing wrong in interpreting the _śloka_ as meaning also "He who omits to bring his _guru_ to light and brings the _mantra_ to light will suffer decline both in wealth (the wealth of spiritual knowledge ) and in age (spiritual standing)." It follows from this that a man should bring his _guru_ to light by way of the overflow of his supreme devotion to him under all conditions and that the sacred _mantra_ should not, for the sake of any material advantage, be revealed to the fickle-minded who do not possess all the qualities prescribed for a disciple. If the _mantra_ is revealed to undeserving persons, its great value which is like that of a casket made of rubies containing a precious jewel will suffer and the _guru_'s spiritual greatness will also be adversely affected. The word _guru_ refers, by implication, to the earlier _guru_s also in the line of ascent extending up to _Bhagavān_. Or it may mean _guru_s in general. Similarly the word _mantra_ refers also to the meanings of the _mantra_ and other secret doctrines connected with it. As a rule or _vidhi_, it has been laid down that, whenever a man meditates on these secret meanings or mysteries, he should also meditate on the lineal succession of _guru_s. It has also been said: “As an [^f25] expiation for having conversed with those that are forbidden as unfit (for conversation), we should meditate on the virtuous." By the words " the virtuous ", this _śloka_ refers primarily to the. _ācārya_s.
+
+[^f25]: Gautama Dharma Sutra: 9.18
+
+
+[^9]:
+_Kaṭha_ _śruti _: This wisdom concerning the soul cannot be obtained by the mere exercise of reason. Only when it is imparted by another (the _guru_), does it lead to the knowledge which is the means of attaining _mokṣa .Kaṭha Upaniṣad_ 1.II.9
+
+
+[^10]:
+_Jābāla says in the_ _śruti _: "It is only the Vidya or wisdom learnt from an _ācārya_ that gives proficiency Chandogya Upaniṣad: IV-9-3
+
 
 
 
@@ -241,6 +331,10 @@ SANSKRIT _ŚLOKA_:
 
 The blissful line of our _guru_s who are possessed of many auspicious qualities, who have brought down the arrogance of rival controversialists by the successive neighs issuing from Hayagrīva[^11] who delights in sitting on the throne of their hearts, and whose triumphant banner fixed at the top of the mansion of the four quarters has, by the flourish of its cloth waving in the breeze, dispelled the doctrines of their respective systems like tufts of cotton and thereby rendered the good path clear to all this blissful line of our _guru_s shines supreme.
 
+[^11]:
+The disputations of these _ācārya_s are compared to the succession of neighings coming from the God Hayagrīva who is seated in their hearts. By these disputations they are said to have put down the pride of the exponents of rival systems.
+
+
 
 
 TAMIL VERSE:
@@ -260,6 +354,19 @@ TAMIL VERSE:
 
 
 We that cling to the noble qualities and sweet words of the benevolent sage, _Rāmānuja_, who adorns the world with his renown and who, like an elephant, knocking down plantain trees, refuted the arguments of those that, with the help of their unrestrained logic, wrought great havoc in the straight paths of the [^f26] _Brahma_ Sutrās[^12] - We (that cling to his words ) who are thereby blessed with spiritual fervour shall no longer (even) think of deeds that are evil.
+
+[^f26]: (or the Upaniṣads )
+
+
+
+
+
+
+
+
+[^12]:
+(Or the Upaniṣads)
+
 
 
 
@@ -298,6 +405,14 @@ TAMIL VERSE:
 
 
 We shall come to new life again by bowing every day at the feet of the noble and generous Nāthamuni, who to his (two)[^13] loving disciples who were like a trumpet and a conch (to proclaim the truth and to cow down the exponents of rival systems) taught the art of music so that they might sing the sweet strains of the Tamil Veda which had been long forgotten in the world and who propagated in the world, for the pursuit of all, the path of tapas (_bhakti_ and _prapatti_). In all the four regions of the world there is no one equal to us (because of this devotion of ours to Nāthamuni).[^14]
+
+[^13]:
+Two disciples : Kilagathalvan and Melagathalvan
+
+
+
+[^14]:
+There are some who maintain that this chapter on the succession of _guru_s is not part of _Śrī_mad Rahasyatrayasāra and that the latter begins only with the "Introductory Chapter", which follows.
 
 
 
@@ -371,10 +486,18 @@ SANSKRIT _ŚLOKA_:
 वन्दे हस्तिगिरीशस्य वीथीशोधककिङ्करान् ॥ ५ ॥[^15]
 
 
+[^15]:
+It is said by some that this _śloka_ pays homage to the author’s uncle Appullar who established the importance of _bhakti_ and _prapatti_ by refuting the arguments of opponents in his writings. There are others who hold that there is a reference to Desikar’s teacher under whom he studied _Tiruvoymozhi_ and who is known to have swept the streets clean during the procession of Sri Varadarāja at Kāncīpuram.
+
+
 
 
 
 I bow to those great men who have refuted the arguments of men[^16] that chop logic and ask, “Why and wherefore ?", in connection with (the truths of) the _Śāstra_ which treats (in two parts) of _karma_ and _Brahman_. They have thereby rendered clean the highroad that leads to the Lord of Hastigiri.
+
+[^16]:
+logic choppers like Tārkikas.
+
 
 
 
@@ -426,6 +549,26 @@ How the _Jīvātmā_ lost this heritage.
 
 The individual soul (_Jīvātmā_) has been declared in the different _śāstra_s as being dear to the Lord of Lakṣmī  even like the gem Kaustubha; he has been called the prince, the Lord's son, His disciple, His attendant, His dependant existing solely for Him [^f29] (_śeṣa_ )[^17] and His servant. The Lord is his _śeṣī_ for whose purposes (alone) he exists by his very nature. The Lord is the ruler of the eternal Sūris, who are ever free from ignorance. He is possessed of unsurpassed auspicious qualities; He loves us as He does the lotus-born Lakṣmī . He is the Lord of men on earth and of the Sūris in Heaven. As has been said “[^f30] The Lord of the Universe dwells in the Supreme Region of Vaikuṇṭha   along with Lakṣmī ," " [^f31] Thou art ever with Lakṣmī  adorned with shining bracelets". He dwells in the pure world of śuddhasattva ( _nitya_ _vibhūti_) along with His great queen and is seated on a couch, as described in such places as the Koushitaki Brāhmana, in a hall of splendour which is lit up with gems and stands on a thousand pillars, in the eternal and changeless city called by names like Ayodhya; for instance, it is said, "It[^f32] is called Ayodhya and Aparajita and is beyond the world of _svarga_." The Lord is seated on the bed of the serpent called _śeṣa_ who is like an umbrella to the Lord when He moves about and like a throne whenever he is seated. He has been described "as the Lord's abode, His bed, and His seat." _Śeṣa_, the serpent, is ever bent on serving the Lord in all places, at all times, and in all situations and enjoys rendering service of all kinds in varied embodied forms. As he is thus fulfilling the purposes of the Lord and has no other aims in life, he is, indeed, a real and unconditional _Śeṣa_ and the name _Śeṣa_ fits him in every way. The Lord shines on the bed of _Śeṣa_ as the Supreme and ever-youthful Sovereign of Heaven. It is His gracious desire that all souls should enjoy His blissful state and attain their goal. The _Jīva_   is thus entitled, by his. essential nature, to the service of His Master as his birthright in as high a degree as the eternal Sūris themselves who have the endless bliss of serving Him. But sunk in the sleep of beginningless Maya, he has fallen into the wilderness of matter (_prakṛti_), has had repeated births in quick succession, has lost the primary aim of existence, has found no comfort or consolation, has lost the splendour of big real nature owing to evil desires and passions and is without a true knowledge concerning _tattva_ (that which should be known for salvation and _hita_ (the means of attaining it). Well has it been said, "[^f33] Trudging along the many thousand pathways of _samsāra_ consisting of cycles of births and deaths, he has become deluded and exhausted and is covered with the dust of tendencies left by impressions in the mind."
 
+[^f29]:  A Sutra or aphorism in Purva Mimamsa says: “ That is called a _śeṣa_ which serves the purpose of another (and that other is called a _śeṣī_ ) (e. g.) In a sacrifice, the grains of rice are _śeṣa_ to the sacrifice which is _śeṣī_  because they serve the purpose of the sacrifice.*
+
+
+[^f30]: Linga Purāṇa
+
+
+[^f31]: Tiruvoymozhi : 4, 9, 10
+
+
+[^f32]: Srigunaratnakosa: 23
+
+
+[^f33]: Viṣṇu  Purāṇa: 6-7.10
+
+
+[^17]:
+A Sutra or aphorism in Purva Mimamsa says: “ That is called a _śeṣa_ which serves the purpose of another (and that other is called a _śeṣī_ ) (e. g.) In a sacrifice, the grains of rice are _śeṣa_
+to the sacrifice which is _śeṣī_  because they serve the purpose of the sacrifice.
+
+
 
 
 The parable of the prince brought up by huntsmen.
@@ -447,6 +590,22 @@ The applicability of the parable to the _Jīva_.
 
 
 In the same way, some generous benefactors who are introduced to the _Jīva_   by parents and the like help him realise that [^f34] “the soul is neither God nor man nor beast nor tree, and that these differences of body and shape are due to _karma_." They enable him to understand that the soul is different from the body and adopt the proper means to make him pursue the goal or aim suited to his essential nature and to follow the path that would lead to it. They create in him qualities and modes of conduct found in men endowed with the splendour of wisdom and not in men who are so absorbed in their bodies as to forget their soul and they bring him to a position in which he is capable of distinguishing between what should be rejected and what is worthy of adoption, Now in the parable, on seeing for themselves the prince's innate fitness, the transformation wrought in him by some worthy men and his intelligence, some teachers being directed by the Supreme Master who is all compassion and being themselves highly compassionate appear before him and reveal his true parentage to him as also what is highly desirable to one in his station and the means of attaining it. It has been said, "God's love, good deeds done by chance, the gracious glance of God, freedom from hate, willingness to learn and the conversation of good men - these are six causes that lead to the acquisition of an _ācārya_." Those good men in the parable would strive in every possible way to bring about a longing for re-union in the mind of the prince and the king. So also with the _Jīva_  . His _guru_s reveal to the _Jīva_ the intimate relation existing between him and Nārāyaṇa , the Lord of Lakṣmī , who rules with His sceptre the earth surrounded by the [^f35] turbulent ocean and the world of Vaikuṇṭha   without even the least exception. Do not the _śāstra_s say, "The soul is neither God nor men, neither beast nor tree. Its essential nature is knowledge and bliss and it is entirely dependent on the Supreme Being and exists solely for His purposes (_Śeṣa_)" and again, "The souls are indeed the servants by nature of the Supreme[^f36] Being ?" These _guru_s try earnestly to help the _Jīva_   attain the Lord and feel that his attainment of the glory of _mokṣa_  would give them as much delight as the sovereignty of Vaikuṇṭha   (_Nitya_ _vibhūti_) and of the whole earth (līlā vibhūti). They have as much love to him as the cow to its calf on the day of its birth when, out of loving kindness, it gives it milk. So with the help of words, neither excessive nor defective, they desire to remove his ignorance, his doubts, and his erroneous notions. As stated in the _śloka_ . "He[^f37]  who teaches the truth concerning _cit_ (sentient being) _acit_ (non-sentient matter) and _Iśvara_ and their essential character etc.", they (the _guru_s ) teach him the true nature of the Lord who is the ruler of sentient and non-sentient things that are ruled by Him, of their respective character and of their mutual relations to one another, of enjoyment or experience in _samsāra_ (including _svarga_) and of release from that bondage and of the respective means for attaining them (one to be rejected and the other to be adopted), of the routes by which the soul travels to its destined abodes and of the obstacles, expressed and unexpressed, that stand in the way of salvation; for these are matters that should be known to every one desirous of release.
+
+[^f34]: Viṣṇupurāṇa   : 2-13-98
+
+
+[^f35]: Nachiar Tirumozhi : 11 - 3
+
+
+[^f36]: _Mantra_rajapadastotram
+
+
+[^f37]: Alavandar: Stotram
+
+
+
+
+
 
 
 
@@ -472,6 +631,10 @@ TAMIL VERSE:
 
 We that deserve a place near the heart of Viṣṇu  even like the gem Kaustubha[^18] which rose from the sea along with Lakṣmī  at the time of the great churning, we that are competent to wear, on the crown of our head, the flower-like feet of God, were in peril of being swept away by the current of the stream of _karma_ which caught us up even while in our mother's womb, when, fortunately for us, certain great souls proficient in the knowledge of the five things that ought to be understood and likewise of the subtle doctrine that the relation of the _Jīva_tma to the Lord is that of the body to the soul, came to us out of compassion to save us from being lost (in that stream).
 
+[^18]:
+Kaustubha: This gem is stated in certain treatises to stand allegorically for the _Jīva_  .
+
+
 
 
 
@@ -493,6 +656,11 @@ SANSKRIT _ŚLOKA_:
 
 
 In the cycle of _karma_, a_vidyā_ and others[^19] which succeed one another, as in the revolution of a wheel, in the varied streams of _Samsāra_ peculiar to each individual and beginning from time immemorial, all systems of religious thought declare that, when the proper time comes, there is varied fruition resulting from past _karma_. At the time of this fruition, the Lord, who is the first _ācārya_ , finds his opportunity, catches the _Jīva_   and bestows His grace on him. Sach _Jīva_s are indeed rare and they become the repositories of all forms of wealth (like discrimination and freedom from desires) extending up to the sovereignty enjoyed by the freed souls in _mokṣa_  (viz, the enjoyment of _Bhagavān_ and service to Him).
+
+[^19]:
+The word ‘others’ refers to_ vāsana_s or impressions left in the mind in previous births, _ruci_
+or tastes and aptitudes and _prakṛti sambandha_ or association with matter.
+
 
 
 
@@ -571,6 +739,9 @@ THE GREAT VALUE OF THE THREE _MANTRA_S:
 
 Among these three mysteries (_mantra_s), Tiru_mantra_ or aṣṭākṣara has[^f39] been stated to contain everything within itself and, if it is known, the meaning of everything becomes known; the _carama_ _śloka_ , which says (in its first half) “having given up all rites and activities as means of attaining _mokṣa_ , surrender thyself to me", establishes that the adoption of the single means taught in it, viz, self-surrender (or s'aranagati) would secure the benefits of all other means prescribed elsewhere; the _Dvayam_, as has been stated in Kaṭha _śruti_  and elsewhere, is capable of making a man perfect in the discharge of all his duties even if it is uttered only once. Therefore these three mysteries alone are of value to the seeker after salvation. It has been said, “One should ignore what is of no value, what is only of slight value, and, likewise, what is valuable and even what is more valuable. It is only what is most valuable that one should prefer in the śāstra , like ambrosia in the Ocean,
 
+[^f39]: Nāradīya Kalpa 1-9.
+
+
 
 
 THE ONLY PRAMĀṆA IN REGARD TO MOKṢA  AND
@@ -580,6 +751,23 @@ THE MEANS OF ATTAINING IT IS ŚĀSTRA:
 
 
 The ultimate goal or aim of life (_puruṣārtha_ ) (namely, _mokṣa_ ) and the means of attaining it are not capable of being understood from sense perception (pratyaksha) or (anumāna) inference. As stated in such passages as "It is from the [^f40] śāstra  that I know _Janārdana_ ", "Therefore[^f41] in determining what [^20] ought to be done and what ought not be done, the only authority that  should guide you is śāstra " and "He who is well [^f43] versed in the Agamas or Vedas will attain _Brahman_", the only _pramāṇa_ that exists for our guidance is sabda or what is revealed in the śāstra s. In this context it has been said, “What are[^f44] to be known are many and endless; the time (at our disposal) is short; the hindrances are many; therefore prefer only what is valuable, like the swan that separates the milk from the water with which it is mixed." The word 'valuable' really means ' most valuable', because it refers to what is always and unconditionally valuable. The śāstras of those who are outside the pale of the Vedas (like Buddhists ) and likewise of heretics (like Advaitins) are not valuable at all and are therefore to be ignored. In the first part of the Veda, the portion which treats of rites leading to the attainment of worldly goods is only of very slight value and hence not to be resorted to. That part which treats of the attainment of the good things of _svarga_ after death, though it may appear valuable to somé as leading to fruits higher than worldly goods is of no use, as, in the final estimate, they are based on sorrow and have other objectionable features. That part, too, which treats of the realisation of one's own soul and the means thereof, though a little more valuable, is not of value to those who desire the enjoyment of the Supreme Self. To the man of discerning wisdom, the part of the Veda which treats of the Supreme _Brahman_, the attainment of _Brahman_ and the means thereof is the most valuable, and is therefore to be preferred.
+
+[^f40]: Mahābhārata   : Udyoga Parva: 68-5.
+
+
+[^f41]: Bhagavadgītā: 16–24
+
+
+[^f43]: Mahābhārata  : Santi Parva: 276-2
+
+
+[^f44]:  Uttara Gita: 3-10
+
+
+[^20]:
+( Alternative meaning): "what should be attained and what should be rejected ( see Tatparya
+Chandrika: Gita; XVI: 24)
+
 
 
 
@@ -592,6 +780,9 @@ THE THREE MYSTERIES ARE THE MOST IMPORTANT.
 
 
 Even there, the three Mysteries (_mantra_s) which are, as it were, an epitome of the truths that ought to be known and of the means of attaining salvation, which are the distinctive, unique and exclusive doctrines (of our viśiṣṭādvaita  system) are invaluable and therefore to be most preferred. As stated in the _śloka_  [^f45] " From the many and great _śāstra_s, the wise man should choose only that which is most valuable as the bee takes in the honey from the flowers," the _jīva_ who thirsts for _mokṣa_  should prefer as invaluable these three mysteries (mantrās.)
+
+[^f45]: Mahābhārata   : Santi Parva 176-66.
+
 
 
 
@@ -670,6 +861,10 @@ SANSKRIT _ŚLOKA_:
 
 When _Bhagavān_ is seen in the mirror of the 'vyāpaka[^21]  _mantra_s, which disclose His all-pervasiveness, one will see that the universe (which we perceive with our senses) is absolutely dependent on Him for its existence and continuance and likewise for its activity and the fruit or result arising from it; since the universe is supported and controlled by Him and is also solely for the fulfilment of His purposes, one will understand that it is the body of the Primaeval Creator. By realizing this relationship of the universe being the body of the Creator, one is enabled to reach the heart of the śrutis, which were not composed by any one and which have the deepest significance.
 
+[^21]:
+Vyāpaka  _mantra_s: These are (1) Aṣṭākṣara (2) Ṣaḍakṣara, the _mantra_ with six letters (Namo Viṣṇave with _Praṇava_ at the beginning) and (3) Dvadaśākṣara, the _Mantra_ with twelve letters (Namo Bhagavate Vāsudevāya with _praṇava_ at the beginning)
+
+
 
 
 WHAT IS MEANT BY PRATITANTRA? THE MEANING
@@ -692,6 +887,13 @@ WHAT IS A SARĪRA AND WHAT IS A SARIRI :
 
 _Iśvara_ is called the inner self or soul (Sariri), because as long as they exist, He is, in regard to sentient and non-sentient substances (dravya), their support (_ādhāra_), their controller or ruler (_niyantā_) and their Lord or Master (_śeṣī_ ) for whose purposes they exist. Sentient beings and non-sentient things form His body, since, with regard to Him, they stand as substances supported by Him, controlled by Him, and existing solely for the fulfilment of His purposes, throughout their existence. _Iśvara_ is called the Supporter and the Controller or Ruler of all sentient beings and non-sentient things, because from His swarupa or essential nature and His _saṅkalpa_ or will, they derive their existence, continuance and activities as [^f46] befitting[^22] each of these two (_svarūpa_ and _saṅkalpa_). It may be asked how this could be. Just as _Iśvara_ is the abode, _āśraya_ or _ādhāra_ (support) of the attributes which define His essential nature (_svarūpa_ viz. Satyam, Jñānan, Anantam and the like) and of the other qualities possessed by Him with His essential nature so defined (qualities like compassion and accessibility), He is also the inseparable and direct support, (āsraya or ādhāra) of all substances (sentient and non-sentient) other than Himself. He is also the support, through these substances ((i.e.) indirectly), of the qualities that pertain to them. There are some who hold that _Iśvara_ is the support, through the _jīva_s, of the bodies supported by the _jīva_s. Some _ācārya_s say (on the other hand) that both directly by His essential Nature and indirectly through the _jīva_s, He is the support of these bodies.
 
+[^f46]: As befitting each of these two - By His _svarūpa_, He is the cause of their existence and continuance; this is because of being their support; by His Sankalpa or will also, He is the cause of their existence, continuance and activities; this is because of being their controller.*
+
+
+[^22]:
+As befitting each of these two - By His _svarūpa_, He is the cause of their existence and continuance; this is because of being their support; by His Sankalpa or will also, He is the cause of their existence, continuance and activities; this is because of being their controller.
+
+
 
 
 
@@ -706,9 +908,15 @@ BY HIS WILL.
 
 In relation to _Iśvara_, all (substances ), sentient and non. sentient, are attributes that are inseparable from Him (Aprithaksiddha vi_śeṣa_ṇas). Therefore their existence and the like depend entirely on the existence of their support (i. e.) Isvara. The existence of all things is also dependent on His will. Those of them that have only a temporary existence take their origin from a temporary will or _saṅkalpa_ of His and those of them that are eternal (like Vaikuṇṭha   and the sūris ) exist for ever by His eternal will. This distinction has been stated by one who is worthy of respect for his learning in the (following) _śloka_  :-"The [^f47] existence of all things is only by Thy will. Of these some are eternally dear to Thee and are hence eternal and even these eternal beings or things are entirely dependent on Thee for their essential nature."
 
+[^f47]: Vaikuṇṭha  sthavam: 36
+
+
 
 
 Since the continuance of a thing is merely the continuity of its existence, everything, (i. e.) existence and continuance, is dependent on His will. There are heavy substances that are stated in the śāstras to be supported by _Iśvara_'s will. For instance, the following _śloka_  says: "The Heavens,[^f48] the sky with the moon, the sun and the stars, the different quarters, the earth, the great ocean - all these are supported by the might of the Supreme Being, _Vāsudeva_.” It is stated here that, in regard to keeping these heavy things in their respective places without their falling away from them, the existence, continuance and activity of these things depend on _Iśvara_'s will. The word 'supported' (in the _śloka_ ) means “is dependent on His will'. If it be asked how, when every substance is supported by His will, the essential nature (_svarūpa_) of _Iśvara_ can have anything to do with them, the answer is that the will of the Supreme Being ordains that these objects should be supported by His essential Nature (_svarūpa_). That all tbings are dependent on _Iśvara_'s essential nature and also on _Iśvara_'s will. In the world (of daily life) also, we find that the body is supported by the essential nature (_svarūpa_) of the soul or self and also by the will of the self. Since the body exists from the time of the entry of the soul into it and perishes or disintegrates when the soul leaves it, it is known to be supported by the _svarūpa_ or essential nature of the soul. In the state of dreamless sleep (_suṣupti_) and the like, when the will of the self is dormant, the body continues to exist without any deterioration; so its existence then is clearly dependent on the _svarūpa_ of the self and not its will (or _saṅkalpa_). In the waking state, when the body is kept from falling, it is sustained by the will or _saṅkalpa_ of the soul. When the existence of the body is dependent only on the _svarūpa_ of the self or its essential nature, it is said to be supported (adheyatva) by the latter; and when the existence depends on the will or _saṅkalpa_ it is said to be controlled and directed by the latter (niyāmyatva).
+
+[^f48]: Mahābhārata  : Anusasanika parva 254-136.
+
 
 
 
@@ -717,6 +925,9 @@ WHAT IS THE MEANING OF ŚEṢA-ŚEṢI  BHĀVA?
 
 
 _Iśvara_ is said to be the _śeṣin_ of all things, because they exist solely for the fulfilment of His purposes. They are His _śeṣa_s, The following _śloka_  explains how _Iśvara_ is the _śeṣin_ of all:  The [^f49] Utterance of the Upaniṣads is to the effect that the Lord takes in both sentient and non-sentient things for the fulfilment of His own purposes, by being the cause of their existence, their continuance and their control. In regard to (one of the two (i.e.) the sentient being), Thou art both the end to be attained (upēya) and the means of attaining it (_upāya_). This is Thy essential nature and not an adventitious quality of Thine. Therefore, O Thou that hast Thy repose in _Śrī_r_aṅga_m, I seek refuge in Thee without any selfish interest.”
+
+[^f49]: Srirangarajastavam: (Uttara Satakam) 87
+
 
 
 
@@ -754,6 +965,9 @@ The _carama_ _śloka_  declares that _Bhagavān_ is Himself the already existing
 
 The (two) meanings of the first word OM (_aum_) are illustrated in Arjuna's chariot and in the (famous) _śloka_  of the Rāmāyana which says:- [^f50] Rāma went first. Sītā walked in the middle, and Lakṣmaṇa, bow in hand, walked behind, following them. The word OM is constituted of three parts a, u, and m; a, which is seen first, means _Bhagavān_, the Protector or Saviour, who is seen first in Arjuna's chariot, and m means the _jīva_, Arjuna, the object of protection who is seen afterwards; a means, only; it may also
 
+[^f50]: Rāmāyaṇa: Aranyakāṇḍa
+
+
 
 
 
@@ -766,9 +980,16 @@ mean Lakṣmī . When u refers to Śrī or Lakṣmī , the two _śeṣī_ s, _Bh
 
 The third word in Tiru_mantra_ is Nārāyanāya, which is the dative or fourth case of Nārāyaṇa . (The word Narayan, has two meanings: (1) the resting place or refuge of naras or living beings and (2) He who has naras (living beings) as His abode or resting place. This means that the _jīva_ depends for his very existence on Nārāyaṇa  and that Nārāyaṇa's glory (vibhūti) cannot manifest itself without the _jīva_. It has therefore been well said: "I do [^f51] not exist without thee, O Nārāyaṇa, nor dost Thou without me". Nārāyaṇāya, which means for Nārāyaṇa ' should be construed along with some such word as _syām_ or_ bhaveyam_ and the meaning would then be, “ May I exist for Nārāyaṇa "! These meanings of the word Nārāyaṇa  may be seen illustrated in all created beings of Kosala (who could not bear their existence without ŚrīRana and who departed this world along with Him, and in ŚrīRāma, too, who departed with them.
 
+[^f51]: Nanmukhan Tiruvandadi: 7
+
+
 
 
 The first word, _Praṇava_ (_aum_), signifies that m, the _jīva_, exists only for a (aya) and the second word _namo_ that the _jīva_ depends on _Bhagavān_. His existence is for _Bhagavān_ and His devotees, to the latter of whom the _śeṣa_tva extends as its ultimate limit, and he depends absolutely on _Bhagavān_ and His devotees In the light of this interpretation, the third word Nārāyanāya has, for its purport, the goal of the _jīva_, vis, _kaiṅkarya_ or service to the Lord and His devotees. This service may be seen illustrated in an active form in that of Lakṣmaṇa and in a passive form in the sandals[^23]  of Śrī Rāma which were an incarnation of Lakṣmaṇa or Adi_śeṣa_ and which left Rāma's feet to go along with His devotee, Bharata. (In these instances) the service is such as would be pleasing to the _śeṣī_ (namely, _Bhagavān_).
+
+[^23]:
+Lakṣmaṇa is a partial incarnation of Adisesha and Adisesha serves the Lord as His sandals. His bed, and so on. Therefore the sandals of Rama are, in a sense, the incarnation of Lakṣmaṇa.
+
 
 
 
@@ -867,6 +1088,10 @@ SANSKRIT _ŚLOKA_:
 
 In the 'a' in Om and in the word 'Nārāyaṇa ' occurring in aṣṭākṣara, the supreme end of life (i.e.) _Bhagavān_, who is opposed to all that is objectionable or faulty, is indicated; in the m in om and in the part nāra occurring in Nārāyaṇāya, the essential nature (_svarūpa_) of the _jīva_ who is to attain this end is disclosed; the means of attainment already existing as established(siddha _upāya_) namely, _Bhagavān_, is indicated in the part ayana occurring in Nārāyaṇa and the means to be accomplished or adopted (sādhya _upāya_ ), which is self-surrender, is in _namas_; the fruit desired, viz., the enjoyment of _Brahman_ which includes also service to Him is disclosed in the dative or fourth case in Nārāyaṇāya; the hindrance to it, namely, the feeling of 'mine' is in the word mama occurring in namah (na mama ). He who understands the _Aṣṭākṣara_ _mantra_ that reveals all these five and [^24] _Dvayam_ too, which is to the same effect--he will be considered by all as one who knows everything.
 
+[^24]:
+_Dvayam_ may mean also the two (i.e.) _Dvayam_ and _Caramasloka._
+
+
 
 
 THERE IS NO REAL DIFFERENCE BETWEEN THOSE
@@ -878,6 +1103,9 @@ WHO SPEAK OF SIX.
 
 
 In the words Nārāyaṇa and in om, the relationship between _Iśvara_ and the _jīva_ is revealed as that between the soul and the body. Having taken this relationship as the foundation or basis of the Viśiṣṭādvaita system, some investigated the five truths that should be known to everyone who desires _mokṣa_ . Others took this relationship also as one of the things to be known and hence spoke of the six things to be known. If it be asked what the five things are that should be understood by the seeker after _mokṣa_  along with the relationship itself, the answer is as follows: "The nature[^f54] of "the end to be attained ” vis. _Brahman_, the nature of the individual self who is the seeker of the attainment, the means of attainment (_upāya_), the fruit resulting from it and so also the hindrances to the attainment of _Brahman_ - all the Vedas with their (elucidatory) itihāsās and purānās speak of these five,"
+
+[^f54]: Harita samhita
+
 
 
 
@@ -895,65 +1123,143 @@ Among these, the essential nature of _Brahman_, which is the object of attainmen
 
 “The Lord of the [^f55] Universe is ever with Lakṣmī  in Vaikuṇṭha, the world beyond” (Here the reference is to the Supreme Lord (_Para_) in Vaikuṇṭha.)
 
+[^f55]: Lingapurāṇa
+
+
 
 
 “This [^f56] Nārāyaṇa  is always with Śrī-- Nārāyaṇa  whose abode is the ocean of milk. He has now come to the city of Madhura leaving His bed (Adi_śeṣa_)" (The reference is here to the Vyūha) “Thou[^f57] art the God Nārāyaṇa , the spouse of Śrī and hast the Chakra is Thy weapon and Thou art omnipresent". (The reference is to the _Vibhava_ or _avatāra_.)
+
+[^f56]: Harivamsa: 113-62
+
+
+[^f57]: Rāmāyaṇa: Yuddhakāṇḍa 120-13,
+
 
 
 
 “ _Bhagavān_ has the [^f58] mole, ŚrīVatsa, on His chest and Śrī is with Him eternally." "Lakṣmī  is [^f59] ever inseparable from Viṣṇu ." "He (Lakṣmaṇa) [^f60] said as follows to Rāma in the presence of Sītā". (Here Śrī is indicated as purushakāra). "The renowned [^f61] Lakṣmaṇa spoke thus to Sītā and to Rāma who had the great vow (of protecting His suppliants)". (Here Śrī is indicated in the state of Her being the _upāya_). “This Sītā[^f62] is capable of protecting this host of Rākṣasis from (the anger of) Raghava." (Here and in the next passage, Śrī is indicated as the _upāya_) "I will be [^f63] your protector" ( Sītā's words to the Rākṣasis ). "You will [^f64] enjoy yourself on the slopes of the hills with Sītā and, whether you are asleep or awake, I will render service to you" (says Lakṣmaṇa): (Here is the prayer for the fruit, namely, _kaiṅkarya_ ). "He is [^f65] seated on the serpent Ananta ( _Śeṣa_), along with her (_Lakṣmī_)”; “When [^f66] shall I become their eternal
 
+[^f58]: Rāmāyaṇa : Yuddha kāṇḍa 114-15
+
+
+[^f59]: Viṣṇu  purāṇa 1-18-17
+
+
+[^f60]: Rāmāyaṇa: Aranyakāṇḍa 15-6
+
+
+[^f61]:Rāmāyaṇa: Ayodhyakāṇḍa 31-2
+
+
+[^f62]: Rāmāyaṇa: Sundarakāṇḍa 58-87
+
+
+[^f63]: Rāmāyaṇa: Sundarakāṇḍa 58-90
+
+
+[^f64]: Rāmāyaṇa: Ayodhyakāṇḍa 31-27
+
+
+[^f65]: Alavandar: stotram
+
+
+[^f66]: Alavandar Stotram 46
+
+
 servant and thus find delight?" (This is also prayer for service ). "Thy [^f67] spouse is _Puruṣottama_."
+
+[^f67]: Alavandar: Chatusshloki:
+
 
 
 
 "When the Lord, [^f68] who is along with _Śrī_, is pleased by the service rendered to Him by the eternal Sūris who delight in that service."
 
+[^f68]: Alavandar: Atmasiddhi
+
+
 
 
 "I worship [^f69] Viṣṇu  with the inseparable _Śrī_; He is the sea of purity and bliss"
+
+[^f69]: Rāmānuja: Vedantasara
+
 
 
 
 "The [^f70] beloved of _Śrī_, who is infinite and whose form is the unique abode of all auspicious qualities "
 
+[^f70]: Rāmānuja: Vedantdeepa
+
+
 ."In [^f71] _Brahman_, the abode of Śrī(_Śrī_nivasa), may my mind be ever centred "
+
+[^f71]: Rāmānuja: Śrī Bhāṣyam
+
 
 
 
 "The Lord of [^f72] _Śrī_, whose essential nature is opposed to all that is objectionable and faulty and who is possessed of auspicious qualities and is (at the same time) infinite jmāna and infinite bliss."
 
+[^f72]: Rāmānuja Gita Bhashyam
+
+
 
 
 "Thou[^f73] , the protector of the cowherds from the torrent of rain caused by Indra, and the Goddess Lakṣmī ."
+
+[^f73]: Mudal Tiruvandadi: 86
+
 
 
 
 " Thou art [^f74] ever with Lakṣmī  adorned with shining brace
 
+[^f74]: Tiruvoymozhi: 4-9-10
+
+
 
 
 "Am I [^f75] still to remain in _samsāra_ without enjoying you in the company of Lakṣmī  ?"
+
+[^f75]: Tieuvoymozhi 6-9-3
+
 
 
 
 " Thy [^f76] grace and the grace of the lotus-bora Goddess - with these I will sweep the floor of Thy temple."
 
+[^f76]: Tiruvoymozhi: 9-2-1
+
+
 
 
 “ Thou [^f77] and thy lotus-born Spouse should be pleased to accept the service of the three worlds."
+
+[^f77]: Tiruvoymozhi: 9-2-3
+
 
 
 
 "I will [^f78] not be parted (from Thee) even for a moment”, says Śrī and abides on Thy chest."
 
+[^f78]: Tiruvoymozhi: 6-10-10
+
+
 
 
 “ Thou [^f79] art all _jñāna_ and bliss."
 
+[^f79]: Tiruvoymozhi: 1-1-2
+
+
 
 
 “ Thou [^f80] art the light that never goes out and art beyond all
+
+[^f80]: Peria Tirumozhi: 3-8-1
+
 
 
 
@@ -967,75 +1273,138 @@ BHAGAVĀN POSSESSES ALL AUSPICIOUS QUALITIES :
 
 _Bhagavān_ is to be thought of as being opposed to all that is faulty or objectionable ; for it has been said, “That [^f81] Supreme Goal, which is called Viṣṇu , is free from all imperfections." and "He is [^f82] greater than the great; in the Lord of the great and the low, there are no such things as pain." He is to be considered also as possessing all those qualities which are necessary for one who is the object of attainment and who is, likewise, the means of attainment. Many are the passages that speak of _Bhagavān_'s qualities :
 
+[^f81]: Viṣṇupurāṇa:  1-22-53
+
+
+[^f82]: Viṣṇupurāṇa 6-5-85
+
+
 Hear [^f83] now of a man (Śrī Rāma) possessed of these qualities".
+
+[^f83]: Rāmāyaṇa Balakāṇḍa 1-7
+
 
 
 
 “Him who [^f84] is possessed of these qualities."
 
+[^f84]: Rāmāyaṇa Ayodhyakāṇḍa: 2-47
+
+
 
 
 “ Him who is [^f85] the eldest (son) and who is possessed of all Noble qualities."
+
+[^f85]: Rāmāyaṇa: Balakāṇḍa: 1-20
+
 
 
 
 "Him who is [^f86] thus possessed of noble qualities"
 
+[^f86]: Rāmāyaṇa: Ayodhyakāṇḍa: 11-31
+
+
 
 
 " Rāma [^f87] shone with (all these) qualities."
+
+[^f87]: Rāmāyaṇa: Ayodhyakāṇḍa: 2-47
+
 
 
 
 “Him who [^f88] was possessed of such qualities and of irresistible valour."
 
+[^f88]: Rāmāyaṇa: Ayodhyakāṇḍa: 1-34
+
+
 
 
 " There are [^f89] many noble qualities, O King, in your son."
+
+[^f89]: Rāmāyaṇa: Ayodhyakāṇḍa: 2-26
+
 
 
 
 " [^f90] Benevolence, compassion, learning, integrity of character. control of the senses, control of the mind- these six qualities adorn Rāma, the best of men."
 
+[^f90]: Ibid: 33-12
+
+
 
 
 " He is [^f91] known to be earnest in the matter of _dharma_; He is affectionate to those that seek His protection."
+
+[^f91]: Rāmāyaṇa: Sundarakāṇḍa: 21-20
+
 
 
 
 "Thou art [^f92] capable of affording protection and art also the refuge of all. This is declared by the divine sages."
 
+[^f92]: Rāmāyaṇa: Yuddhakāṇḍa: 121-18
+
+
 
 
 “ Thou art [^f93] the tree in which the good find their resting place; and Thou art the supreme refuge of all those who are in distress.”
+
+[^f93]: Rāmāyaṇa: Kishkindha kāṇḍa 15-19
+
 
 
 
 " He is [^f94] the store-house of such qualities as splendour, strength, lordship, great wisdom, supreme valour and might."
 
+[^f94]: Viṣṇupurāṇa: 6-5-85
+
+
 
 
 Is [^f95] there anyone that can comprehend the qualities of Viṣṇu , who is the inner self of all beings?" "My [^f96] boy, just as the gems in the ocean are countless, the qualities of the Lord armed with Chakra are innumerable ; "
+
+[^f95]: Brahmapurāṇa
+
+
+[^f96]: Vamanapurāṇa 74-40
+
 
 
 
 " His [^f97] qualities cannot be enumerated even in tens of thou. sands of years by even all the gods assembled together. If there be any man of pure mind anywhere, gifted with the period of life appointed for _Brahma_ and if he be further endowed with a thousand mouths, he may be able, O best of gods, to enumerate one ten-thousandth fraction of Thy qualities or may not be able."
 
+[^f97]: Mahābhārata: Karnaparva: 83-15
+
+
 
 
 “Though Thy [^f98] qualities are infinite, yet six of them are foremost among them; even as the universe is borne within thy body, the other qualities too, are contained within them."
+
+[^f98]:  ? ?
+
 
 
 
 " It is [^f99] owing to the deficiency of arrows that the man who wishes to cover the sky desists and not owing to any deficiency in the space of the sky. (So also ) we fall back from the praise of Govinda, owing to our deficiency of intelligence and not owing to any deficiency in His qualities."
 
+[^f99]: ? ?
+
+
 
 
 “Thon hast [^f100] qualities which, being remembered, afflict me during Thy separation - me the great sinner."
 
+[^f100]: Tiruvoymozhi: 8-1-8
+
+
 
 
 "He has [^f101] noble qualities like bliss, which are limitless in extent."
+
+[^f101]: Tiruvoymozhi 1-1-1
+
 
 
 
@@ -1049,53 +1418,96 @@ _Bhagavān_ should be thought of, also, as having a transcendent, super sensuous
 
 "To Him [^f102] whose form ever remains the same -- "
 
+[^f102]: Viṣṇupurāṇa: 1-2 -1
+
+
 
 
 "He who [^f103] has faith in His form that is eternal and in His being the Supreme Deity - him _Bhagavān_ approaches soon, O Poushkara."
+
+[^f103]: Paushkara Samhita
+
 
 
 
 “Hari has [^f104] another form entirely different from all forms seen in the universe, in which all these saktīs abide."
 
+[^f104]: Viṣṇupurāṇa: 6-7-70
+
+
 
 
 "He [^f105] assumes by His will a form that is immense and that is pleasing."
+
+[^f105]: Viṣṇupurāṇa: 6-5-84
+
 
 
 
 “The body [^f106] of the Supreme Being is not constituted of the (five) elements."
 
+[^f106]: Mahābhārata: Śāntiparva: 206-60
+
+
 
 
 “His form [^f107] is not constituted of _prakṛti_ or matter nor formed of flesh, lymph or bone."
+
+[^f107]: Varāhapurāṇa: 31-40
+
 
 
 
 " This form [^f108] has four arms, is supremely excellent, and is in Vaikuṇṭha  ."
 
+[^f108]: Mahābhārata: mausalaparva: 5-34
+
+
 
 
 "He has a [^f109] form resplendent like gold and capable of being seen by the mind as in a dream."
+
+[^f109]: Manu Smriti: 12-122
+
 
 
 
 "In Thy [^f110] form, O Lord, I see the gods."
 
+[^f110]: Bhagavadgītā: 11-13
+
+
 
 
 "He has [^f111] a body on which rest weapons and ornaments."
+
+[^f111]: Ibid: 11-15
+
 
 
 
 "All this [^f112] universe is in His form as weapons and ornaments."
 
+[^f112]: Rāmāyaṇa; Yuddhakāṇḍa: 114-25
+
+
 
 
 “The [^f113] Supreme Being Armed with the conch, the chakra and the club is in the region beyond the universe of matter (tamas)"
 
+[^f113]: Viṣṇupurāṇam: 1-22-32
+
+
 
 
 From the _Pāñcarātra_ śāstra  (Bhagavat śāstra), it is learnt that this form of the Lord is of five kinds (1) The Supreme (_Para_ _Vāsudeva_ ), (2) _Vyūha_ (_Vāsudeva_, _Saṅkarṣaṇa_, Aniruddha and Pradyumna), (3) _Vibhava_ (avatārs like Rāma and Kṛṣṇa), (4) [^f114] Hārda[^25] and (5) _arcā_ (images worshipped in temples).
+
+[^f114]: Harda is an aprakrita form of the Lord present in the human heart, like the _arcā_ in temples.*
+
+
+[^25]:
+Harda is an aprakrita form of the Lord present in the human heart, like the _arcā_ in temples
+
 
 
 
@@ -1109,17 +1521,29 @@ THE _VIBHŪTI_S OF BHAGAVĀN: LILÃ AND BHOGA:
 
 "These [^f115] are the vibhūtis (glories) of Viṣṇu  (i. e.) _Brahma_, Manu and others, time and all beings. "
 
+[^f115]: Viṣṇupurāṇa:
+
+
 
 
 "He has, for [^f116] His abode, the region of eternal glory called Mahā _vibhūti_.
+
+[^f116]: Viṣṇupurāṇa :5-1-50
+
 
 
 
 " There is [^f117] no end, O mighty warrior, to my divine glories" (vibhūtis). These ideas are concisely expressed in the _śloka_  :
 
+[^f117]: Bhagavadgītā: 10-40
+
+
 
 
 “The [^f118] anda of the Universe and whatever else is found within that anda are His _vibhūti_s."
+
+[^f118]: Alavandar Stotram: 17
+
 
 
 
@@ -1129,21 +1553,36 @@ These vibhūtis (possessions or glories) of God are of two kinds, sentient and n
 
 " From [^f119] whom is the origin etc. of this world"
 
+[^f119]: Brahmasutras: 1-1-2
+
+
 
 
 “All [^f120] this is Hari's play (or sport)."
+
+[^f120]: Mahābhārata: Śāntiparva: 206-58
+
 
 
 
 “ Of [^f121] Him who plays like a child"
 
+[^f121]: Viṣṇupurāṇa: 1-2-18
+
+
 
 
 “[^f122] Playing like a boy with his toys"
 
+[^f122]: Mahābhārata: Sabhaparva: 40-78
+
+
 
 
 "Thou [^f123] playest with Thy creatures, as if they were balls for
+
+[^f123]: Viṣṇudharma
+
 
 
 
@@ -1153,11 +1592,21 @@ sport."
 
 “ All  [^f124] this is merely for play (on the part of _Brahman_) as in the world (kings play with balls).
 
+[^f124]: Brahmasutras: 2-1-33
+
+
 
 
 [^f125] SUMMARY.[^26]
 
+[^f125]: This summarises Prapya (i.c.) the object of attainment, viz. Brahman*
+
+
 Thus _Brahman_, the object of attainment, is ever with Lakṣmī : He is infinite _jñāna_ and infinite bliss, and is opposed to all that is imperfect and objectionable. He is possessed of countless auspicious qualities like wisdom and power. He has a celestial and transcendent form of auspicious nature. He has two vibhūtis (_līlā_ and _nitya_ ) which are His body; He has, for His play or sport (_līlā_), the work of creating the world, of maintaining and controlling it and the like.
+
+[^26]:
+This summarises Prapya (i.c.) the object of attainment, viz. Brahman
+
 
 
 
@@ -1182,6 +1631,10 @@ The muktās (or released souls) are those who, by adopting the means (_upāya_ )
 
 
 The nityās (the eternally free) are those whose knowledge has never undergone contraction and who are, in this respect, like _Iśvara_ Himself. "They [^27] are", it has been said, " of the same age as the Lord, eternal and free from all trace of imperfections," They have never been in _samsāra_ and are engaged in eternal service to the Lord e.g. Ananta (i.e.) Adi_śeṣa_, Garuḍa and Viṣvaksena.
+
+[^27]:
+has never undergone contraction
+
 
 
 
@@ -1231,11 +1684,35 @@ The hindrances to the attainment are the multitude of obstacles that stand in th
 
 The foremost of these hindrances is the punishment inflicted by _Bhagavān_ for disobedience of His orders continually from time immemorial. This chastisement causes association with _prakṛti_ or matter with its three qualities (sattva, rajas and tamas) and thereby contraction of knowledge. It brings about a connection between the soul on the one hand, and the body, the senses and the like which are specific modifications of matter (or _prakṛti_) on the other. Further it makes the _jīva_ subject to the sway of the body and the senses. To quote the words of the Alwar, “With the strong ropes of my sins, Thou hast bound me tightly with the body, covered the sores within the body (like flesh, fat and blood) with the skin and let me walk away from Thee." "With [^f127] the body given by Thee at the time of creation, I have been wandering about to the satisfaction of the body." This chastisement often consists in placing the _jīva_ in the body of animals which can have no knowledge of the _Śāstra_s and cannot act in accordance with them. Even in births like those of men, it confounds the mind with the views of infidels and heretics and, even in the case of those who escape this, causes, through the concealing agency of the peacock feather of primal matter (moola-_prakṛti_) and its modifications, the bodies and the senses, (1) ignorance
 
+[^f127]: Tiruvoymozhi: 3-2-1
+
+
 of the truth and (2) erroneous knowledge and so also (3) subjection to sense-pleasures. As Śrī_Rāmānuja_ says, "This [^f128] (association with matter) causes obscuration of a knowledge of the essential nature of _Bhagavān_ and also false knowledge. Besides it makes the _jīva_ think that this association is delightful." As a consequence of this, it induces the _jīva_ to disobey His orders and do forbidden things for the sake of petty pleasures. To quote again the words of the Alwar: "Is it [^f129] right on Thy part to  confound my soul and excite my five senses by showing me, who am a sinner, all sorts of petty pleasures?" One act of disobedience leads to further acts of sin. Well has it been said, "Sin "committed again and again destroys wisdom and the man without wisdom begins further acts of a sinful nature." In consequence the Lord makes the _jīva_ wander again and again through the cycle of life in the womb, birth, old age, death, and hell, as stated by Himself, "I throw them always into asuric births" By means of the scriptures of those who are actuated by rajas and tamas, which show the way to secure petty pleasures, the _jīva_ is made to fall at the feet of petty deities who are themselves souls ( kshetrajna) fettered with similar chains. “Those who are actuated by rajas" it has been declared, “worship Yakshas and Rākṣasas ; and those who are actuated by tamas worship the spirits of the dead and elemental spirits ( Bhūtagana)". The _jīva_ is deluded into considering himself as greatly benefited by the mean and gruesome enjoyments afforded by these deities in the same way as worms find pleasure in dirt and filth.
+
+[^f128]: Sri Rāmānuja: Periya Gadyam
+
+
+[^f129]: Tiruvoymozhi: 6-9-9
+
 
 
 
 Even those who practise _yoga_ are made to practise it in connection with petty deities or in the meditations of such inanimate things as [^f130] nāma[^28] being _Brahman_ and are made to fall therefrom in the acquisition of minor results. Even those who are devoted to the soul or ātmā are made to meditate on their ātmā either in contact with matter or as separated from matter either as if it were _Brahman_ or as the atma in its own essential nature. As the result of these four kinds of meditation, the _jīva_ obtains petty enjoyments after which he falls back into _samsāra_. Even in the case of those who practise true meditation on _Brahman_, and who meditate primarily on their own selves as having _Brahman_ for their inner self or who think primarily of _Brahman_ who has for His body their own selves - even they may be detained by the state of kaivalya or the enjoyment of their own selves, by the attainment of the [^f131] eight kinds[^29] of siddhi, by the attainment of the status of the vasus, or by the entrance into the body of _Brahma_ and the like. Their (temporary) lapse from the highest aim or goal of life (namely, the enjoyment of the bliss of _Brahman_) is like that of a prince, whose coronation day has been already fixed, casting eyes on the servant maids who attended on hini while in prison. They are made to linger fondly over the body and the senses which are the result of past _karma_ and those that are related to the body (like relatives) and the enjoyments connected with them. In this way they become subject to other pleasures than the final goal. Thus there are many forms of hindrance in the way of the attainment of _Bhagavān_. When a well thirty-two steps wide has to be leaped over, it makes no difference whether the man falls at the very first step or at the thirty-second step. In the same way wherever or at whatever stage the hindrance occurs, the _jīva_ has not transcended _samsāra_.
+
+[^f130]:  In the Chandogya upanishad VII chapter, it is stated as follows:- He who worships nama or names like rig veda, sama veda, _Itihāsa_ and purāṇa as if they were Brahman will realise only very limited fruits such as can be reached with these names".*
+
+
+[^f131]: The eight kinds of siddhi: Aṇimā (contraction of one's body to the size of an atom, mahima (assuming a huge form) Laghimā (making one's body light) Garimā (making the body heavy), vaśitvam (mastery over self), aiśvaryam (lordship) prāpti the power of obtaining whatever one wants and prākāmyam (perfect freedom of the will.)*
+
+
+[^28]:
+<sup>] </sup> In the Chandogya upanishad VII chapter, it is stated as follows:- He who worships nama or names like rig veda, sama veda, _Itihāsa_ and purāṇa as if they were Brahman will realise only very limited fruits such
+as can be reached with these names".
+
+
+[^29]:
+The eight kinds of siddhi: Aṇimā (contraction of one's body to the size of an atom, mahima (assuming a huge form) Laghimā (making one's body light) Garimā (making the body heavy), vaśitvam (mastery over self), aiśvaryam (lordship) prāpti the power of obtaining whatever one wants and prākāmyam (perfect freedom of the will.)
+
 
 It is true the Gītā says that for those who practise karmayoga, the effort will never perish or be in vain. What has been built up will, of course, remain built up, as it were, of stone, But we cannot say when the fruit will be attained, whether at the end of a kalpa or of a manvantara or of a yuga. Even sages like Vasiṣṭa, who ever acted in such a manner as to please God, had to wait long. Those who acted against the will of God like Vritra and Kshatrabandhu attained _mokṣa_  without any such delay. So it is difficult to say which individuals have done meritorious deeds that would lead to _mokṣa_  without delay. Similarly it is difficult to state who have done bad deeds leading to divine chastisement causing delay.
 
@@ -1250,6 +1727,12 @@ THESE HINDRANCES:
 
 
 How can this chief hindrance which is of the nature of divine punishment resulting from disobedience of the Lord's commands and which is the root cause of this chain of suffering-how can this be removed? The author of Śrī Bhāṣya (Śrī Rāmānuja) has declared that the only remedy for this hindrance is to obtain the favour of the Lord and that this can be done only by _Śaraṇāgati_ or self-surrender to the [^f132] Lord. This declaration is made by him, while commenting on the order in which the senses, the mind and the like have to be controlled as stated in Kaṭha upanishad[^f133] .
+
+[^f132]: Bhagavadgītā: 2-40
+
+
+[^f133]: Śrī Bhāṣya: 1-4-1
+
 
 
 
@@ -1356,6 +1839,21 @@ It may be asked why the ācāryas should state that the three tatvās or 'reals'
 
 The sāstrās, therefore, divide Reality into three classes ; the experiencing subject, the object of experience or enjoyment, and the Ruler who controls and directs them. Among them, non-sentient things which are the objects of experience are of three kinds (1) _Prakṛti_ or matter which has the three qualities of sattvam, rajas and tamas (2) Kala or time and (3) Śuddha Satvam, the substance of which the transcendental region beyond matter called Vaikuṇṭha   is made. The nature of (1) _Prakṛti_ has been thus described :-"It is [^f134] non-sentient (achetana). It exists (always) for others and it is eternal, but subject always to change or modification. It has three qualities sattvam, rajas and tamas and is the field of action (_karma_) for the _jīva_". The nature of (2) Kala or time is described thus :- " _Bhagavān_ [^f135] Kala (i.e.) Time, which is the body of _Bhagavān_, has no beginning nor end." "It takes [^f136] the forms of such divisions as kalaa and muhoortha which are respectively 1-3/8 minutes and 1/30th part of a day (and is the cause of the modifications of matter). But it causes no change or modification in the transcendental world (Aprākritaloka) beyond matter". The nature of the transcendental world beyond matter is such that it is made of s'uddha sattvam. The world [^f137] made of it is of the nature of _jñāna_ and bliss. God controls time there ; time is not the [^f138] cause of any change or modification in the world of Śuddha-sattvam (as it is in the world of matter). Thus the nature of _Prakṛti_, Kāla and Śuddha sattva which belong to three classes of non-sentient things (achetana), has been described.
 
+[^f134]: Parama Samhita: 2
+
+
+[^f135]: Viṣṇupurāṇa: 1-2-26
+
+
+[^f136]: Viṣṇupurāṇa: 4-1-84
+
+
+[^f137]: _Pāñcarātra_
+
+
+[^f138]: Mahābhārata: Śāntiparva 196-9
+
+
 
 
 NOW FOR THE EXPERIENCING SUBJECT OR _JĪVA_:
@@ -1364,9 +1862,28 @@ NOW FOR THE EXPERIENCING SUBJECT OR _JĪVA_:
 
 "The jivātma is [^f139] neither a god nor a man"; "He is  [^f140] neither a god nor a man”. (That is: These distinctions are based only on the respective bodies, whereas the soul within has no such distinctions.) The _jīva_ is of three kinds :- Baddha or the soul in bondage is called in the Gita " Kshara" (because he is in contact with matter which is subject to change) All beings[^f141] (from _Brahma_ to the blade of grass) are 'Ksharas' or Baddhas. The _mukta_ or the soul which has obtained release from contact with matter is no longer subject to change and is called akshara or Kootastha (because it is imputable). The third class of _jīva_s are the Sūris[^f142] who are described as seeing eternally the transcendental world beyond matter. The third class of "Real' is _Iśvara_ who has been thus described :- He is all ;[^f143] He knows all; He sees all; He possesses all strength, all knowledge, all power, all wealth : He is without fatigue, without lassitude, without fear, without anger, without desire and other such (blemishes). Thus has the nature of _Iśvara_ been taught,
 
+[^f139]: Viṣṇupurāṇa: 2-13-98
+
+
+[^f140]: ? ?
+
+
+[^f141]: Bhagavadgītā: 15-16
+
+
+[^f142]: Viṣṇupurāṇa: 1-6-39
+
+
+[^f143]: Viṣṇupurāṇa: 5-1-47
+
+
 
 
 Thus the three realities consist of the Ruler and the Ruled (the latter including _prakṛti_ and the sentient beings) and our _ācārya_ s (Śrī Yāmunācārya and Śrī Rāmānuj_ācārya_) have stated this concisely in the words "(_Iśvara_)[^30] on whom depend the essential nature (_svarūpa_), the continuance (sthiti) and the activity (_pravṛtti_) of the three kinds of sentient beings and of non-sentient things with all their differences". The three kinds of sentient beings are those that are in bondage (_baddha_), those that have obtained release (_mukta_) and those that are eternally free (_nitya_). The three kinds of non-sentient things are _Prakṛti_ with its three qualities (sattvam, rajas and tamas). Time, and Śuddhasattvam. The essential nature (_svarūpa_) means the substance or thing which is defined by attributes peculiar and unique to it. Continuance (sthiti, means continuance of the thing or object in time. This is eternal for eternal things. In the case of non-eternal things, this continuance is subject to expansion and contraction in accordance with the will of _Iśvara_. Activity or _pravṛtti_ includes action and abstention from action. All these three : the essential nature (_svarūpa_), the continuance in time (sthithi) and the activity (_pravṛtti_) are seen (by perception and other pramaņas) to be different in the case of each thing or object,
+
+[^30]:
+Alavandar: Atmasiddhi and Rāmānuja’s Vaikuṇṭha gadyam.
+
 
 
 
@@ -1379,6 +1896,14 @@ THE NATURE OF THE _JĪVA_.
 
 
 Therefore the essential nature (_svarūpa_) of the _jīva_ may be described as _jñāna_ (knowledge), bliss (ānanda), (amala) being pure, and being atomic (anu) in terms of its defining attributes (i. e.) being of the nature of knowledge, being of the nature of bliss, being pure and being atomic. This reality, viz. the _jīva_ is always _śeṣa_ to _Iśvara_ (i.e.) it exists only for _Iśvara_ and it is unconditional _śeṣa_ only to Him. Thus its existing (always) for the Lord is affirmed (ayogavyavaccheda) and also its existing for no other than the Lord (anya yogavyavaccheda). This quality of being _śeṣa_ to the Lord, which is disclosed in the first word of Tiru_mantra_, namely om (_aum_), is of the nature of a  relationship ( sambandha) and requires, therefore, a thing having that relationship and cannot be understood without it. So this _śeṣatva_ may be called an additional quality of a thing, namely, the _jīva_, which has already been defined by its defining attributes. Here the definition of the _jīva_ is that it is a thing which is sentient while being also atomic. Similarly the _jīva_ may also be defined as a thing which is sentient while being also, by its nature, _śeṣa_. So this quality of being _śeṣa_ may also be called an attribute which defines the thing, viz, the _jīva_. Similarly _Iśvara_ may be defined as having sentience along with omnipresence (vibhu). He may also be defined as one that is absolutely independent of everything else, while being the unconditional seshin (i.e.) one for whom all other things exist (unconditionally). The class of atmas which includes _jīva_s and _Iśvara_ may be defined as those that are sentient and pratyak (i.e.) which are subjective and have inwardness. To be sentient is to be the possessor of knowledge. To be subjective or inward (or pratyak) is to possess luminosity to oneself. The atmā or soul is self-luminous and shines as I' without the help of the attributive knowledge [^f145] (_dharmabhūta _ _jñāna_)[^31] . Since sentience and inwardness (pratyaktva) are common to both _jīva_s and _Iśvara_, the _jīva_ has to be defined as having, in addition, dependance by its very nature (on _Iśvara_). In the aṣṭākṣara, in the dative of the first syllable (āya) a in _aum_ (om), the _jīva_'s existence for the fulfilment of _Iśvara_'s purposes is stated without any condition; therefore the _jīva_ is unconditionally and absolutely dependent upon the Lord of Śrī (Lakṣmī ), who is the universal Saviour. This statement of the absolute relationship between the _jīva_ and _Iśvara_ throughout the existence (of the former ) is called ayogavyavaccheda or denial of the non-existence of the relationship. The second syllable u in _aum_ (om) in _aṣṭākṣara_ means 'only' and brings out the idea that the _jīva_ exists for the purposes of only _Iśvara_ and denies his dependence or existence for the sake of any others. This denial is called anya-yogavyavaccheda or denial of (the _jīva_'s ) relationship with others. We will show later that this _śeṣa_tva extends from the Lord to His devotees as well. The activity of sentient beings consists in their being the doers and the enjoyers subject to _Iśvara_'s will and purpose. Since this activity and this capacity for enjoyment are given to them by Him, they are for His purposes and not their own.
+
+[^f145]: The soul is of the nature of jñāna or knowledge (i.c.) its _svarūpa_ is knowledge. At the same time the soul has knowledge as an attribute and this jñāna or knowledge is called Dharma bhuta jñāna or attributive knowledge.*
+
+
+[^31]:
+The soul is of the nature of jñāna or knowledge (i.c.) its _svarūpa_ is knowledge. At the same time the soul has knowledge as an attribute and this jñāna or knowledge is called Dharma bhūta
+jñāna or attributive knowledge.
+
 
 
 
@@ -1408,13 +1933,31 @@ _NITYA_S:
 
 The specific and distinctive feature of the _nitya_s (the eternally free) is that the manifestation of their essential nature (_svarūpa_) is without any beginning and also their absolute dependence (on the Lord): The specific feature of their continued existence in time is that their enjoyment of the [^f146] _śeṣī_[^32]  is beginningless. Since this is common to all _nitya_s, there is no mutual difference between their respective states of continuous existence in time. The difference in their activities consists in the continu ous performance of specific kinds of service to the Lord from beginningless time which, though different, yet form a continuous stream of service. It has been said that such _nitya_s as Ananta (_Śeṣa_ ) and Garuḍa hold certain specific offices and perform specific kinds of service in due relation to them. If so, it may be asked, how it would be possible to reconcile this with the statement (made by Śrī _Rāmānuja_ in the _Gadya_) that _nitya_s (the eternally free) and muktas (who have attained _mokṣa_ ) have all access to all kinds of service. The answer is that they are not barred from any form of service which is pleasing to them and is in accordance with the will of the Lord and that no one of them ever desires to render the forms of service which have been specially marked off for others. Besides, the service rendered by any one of them is as pleasing to the Lord as that done by others; therefore the service rendered by any one of them gives the same pleasure of service to all of them. There is no difference in the delight which results from the service as its fruit. Hence there is nothing unreasonable in stating that all of them have access to every form of service.
 
+[^f146]: “ Instead of _śeṣī_  the author's use of the word seshitatva is to include Śrī or Lakṣmī  also as _śeṣī_ ". Chetlur commentary.  *
+
+
+[^32]:
+“ Instead of _śeṣī_  the author's use of the word seshitatva is to include Śrī or Lakṣmī  also as _śeṣī_ ". Chetlur commentary.
+
+
 
 
 _DHARMABHŪTA _JÑĀNA[^33]
 
 (Attributive knowledge).
 
+[^33]:
+According to Viśiṣṭādvaitins, the self or atma is,in its essential nature or _svarūpa_, knowledge. It also possesses jñāna or knowledge as its dharma or attribute." This knowledge is called dharma bhuta jñāna or attributive knowledge. (See foot-note before the previous foot-note)
+
+
 To all these ātmās or souls, in the same way as their essential nature (_svarūpa_) is that of a substance, their attributive knowledge (_dharma_bhūtājñāna) is also a substance. Its essential nature has not been separately referred to in the [^f148] passage[^34] because of its having been included as an attribute to the soul.
+
+[^f148]: the passage which refers to the three kinds of achetana in Alavandar’s Atmasiddhi and Rāmānuja’s Vaikuṇṭhagadyam .)*
+
+
+[^34]:
+the passage which refers to the three kinds of achetana in Alavandar’s Ātmasiddhi and Rāmānuja’s Vaikuṇṭhagadyam.
+
 
 This attributive knowledge is luminous by itself to the soul which possesses it, while revealing objects. That is, when the attributive knowledge reveals, for example, a pot to the soul which possesses that attributive knowledge, it reveals its own existence as well). To _Iśvara_ and the _nitya_s (the eternally free), this attributive knowledge is eternally all-pervasive. For others in the state of _samsāra_ or bondage, it is subject to varying degrees of contraction and expansion owing to _karma_. In the state of _mukti_, it is all pervasive for all released souls, owing to perfect expansion and remains so throughout. The functions (_pravṛtti_) of attributive knowledge are as follows :- It discloses objects (external or internal); while willing or making an effort, it directs the body (and the senses etc.); in the state of bondage, it undergoes contraction and expansion; it undergoes experiences (bhoga) which reveal objects as agreeable or disagreeable. Experience or Bhoga is the process of feeling a thing as agreeable or disagreeable. All objects, which are among the glories of _Iśvara_, are, by their very nature, Agreeable and are enjoyed as being Agreeable by _Iśvara_, the _nitya_s and the souls that have attained _mokṣa_ . To those in _samsāra_, however, these objects appear at different times, and in different places and in relation to different _jīva_s as slightly agreeable, or disagreeable, or indifferent, but these variations do not belong to them by nature. Their slight agreeableness, disagreeableness, or being neither of the two is the fruit of the past actions of the _jīva_s awarded to them by _Iśvara_, whose will is irresistible. The _jīva_s that are in bondage are subject to the experience of the fruits of their _karma_, both by nature and by auxiliary causes. By nature they are subject to it, because they are sentient beings entirely under the control of another (_Iśvara_). The auxiliary causes are their having committed offences against the Lord. In the case of muktas and _nitya_s, although, by their nature as being subject to the control of _Iśvara_, the experience of the fruit of action might be possible, yet since they never perform any action displeasing to Him, there are no auxiliary causes for such experiences. _Iśvara_, by His essential nature, is not subject to such experience or enjoyment of the fruits of action, since He stands as the Ruler over all and with no one else to command Him. Nor are there any auxiliary causes in His case, as there is no one whose commands He may be said to have disobeyed.
 
@@ -1435,6 +1978,13 @@ It has been said in the following _śloka_  :
 
 
 “We [^f149] bow to Hari and proceed to expound the s'astra called Nyāya-_Tattva_ :- to Hari who sees, directly by perception and of His own accord, all things simultaneously." It may be asked how, to _Iśvara_ who sees all things with His attributive knowledge, Śuddha-sattvam could be[^35] luminous by itself, when it is illuminated by the attributive knowledge of _Iśvara_. The answer is as follows - _Iśvara_'s attributive knowledge apprehends all things including His own divine _svarūpa_ and yet do we not hold that His divine form is luminous by itself? So also it is possible that Śuddhasattvam is self-luminous, though it is apprehended also by the attributive knowledge of _Iśvara_. This is true also of _nitya_s. When lighting up an object (like a pot), attributive knowledge, it has already been said, is luminous by itself only to its sub-strate, namely, the self or soul. In the same way Śuddha-sattvam may be luminous by itself to those that have attained release in their new state. There is nothing inconceivable in this. The luminosity of attributive knowledge is obstructed at the time when it is not light ing up external objects (like pots ), by past _karma_ of certain kinds. So also the luminosity of Śuddhasattva may meet with obstruction in the state of bondage and may not, therefore, be apprehended by those in _samsāra_.
+
+[^f149]: Nyāya-tatvam: Mangala sloka
+
+
+[^35]:
+A pot is not luminous, because it becomes visible or is seen only when lighted up by the flame of a lamp. The flame of a lamp is luminous, because it does not require anything else to become visible.
+
 
 
 
@@ -1509,8 +2059,20 @@ ESSENTIAL NATURE, ACTIVITY ETC. OF _PRAKṚTI_:
 Śuddhasattvam[^f151]
 
 
+[^f151]: Pāñcarātram
+
+
 
 "Satvam or Śuddhasattvam illumines its own existence; it is different from the quality called sattvam" "The creator[^f152] is beyond tamas;' "It is different from[^f153] _prakṛti_ and is revered by the gods". These and other passages declare the existence of a region (of s'uddha sattvam) beyond tamas. Therefore the passages which say[^f154] "It (_Prakṛti_) is eternal and has no limits and is beyond all measure. It is endless and incapable of being measured” should be understood as stating that moola _prakṛti_ or matter is endless or infinite except for the region covered by the _nitya_ vibhūti (the region of eternal glory).
+
+[^f152]: Rāmāyaṇa: Yuddhakāṇḍa: 114-15
+
+
+[^f153]: Jitanta Stotram: 2-21
+
+
+[^f154]: Viṣṇupurāṇa: 2-7-25,26
+
 
 
 
@@ -1544,11 +2106,53 @@ _IŚVARA_ :
 
 The essential nature (_svarūpa_ ) of _Iśvara_ on whom depends the existence of all things is truth (satyam), knowledge (_jñāna_),infiniteness ( ananta ), bliss (_ānanda_ ) and purity (amalatvam ) because of attributes like being truth, being knowledge, being infinite, being blissful and being pure. These attributes define His _svarūpa_ or essential nature. This truth is brought out by the Alwars in the following passages: "Thou [^f155] art light that never becomes extinct and is not capable of being measured" (where His essential nature as Truth and knowledge is revealed as also His infiniteness ) " Thou that [^f156] art perfect knowledge and bliss" and “Thou [^f157] that envelopest all and art a Light greater than all other lights, being both knowledge and bliss" "He is the [^f158] Pure". In these and other ways the Alwars meditated on Him. His other qualities, along with His divine and auspicious form and such other things, are attributes of His essential nature ( _svarūpa_) already defined by those attributes. Among these qualities knowledge, strength, lordship, valour, energy, splendour-these six are associated with His nature as the Supreme Being. Goodness, spontaneous love, and the like are qualities that make him easily accessible to all. These qualities are, at all times, connected with His essential nature (_svarūpa_ ). The statement that some of these qualities are associated with the Supreme Person (_Para_), some with _vyūha_ and so forth is only to show what qualities the Lord of all reveals to those who are devoted to any of these manifestations of His. (It does not mean that the other qualities are absent in any of these forms). Just as in the respective _vidyā_s of the Upaniṣads, we are to meditate on certain specified attributes of _Brahman_, so also certain specified attributes are to be meditated upon in connection with particular forms of the Lord as revealed in Pūncharātra or the Scripture of the Lord. In the _Para_ or Supreme _Vāsudeva_, all the six [^f159] qualities[^36] beginning with knowledge are to be thought of. The _śāstra_s sometimes say that the vyuhas (or emanations ) are four  and in some places that they are three. where it is said that there are four vyūhas and that _Vāsudeva_ is one of them, since there is no difference in the qualities to be meditated on between the Supreme _Vāsudeva_ and the _Vyūha_ _Vāsudeva_, it is tantamount to saying that there are three vyuhas. Those who hold that the vyūhas are three state their view briefly in the following _śloka_  :- "O Lord, Thy original form shone with these six attributes; then came three forms of Thine which had, each of them, a couple of these attributes." Their respective qualities and activities are epitomised in the following _śloka_  :-- "O, Sovereign of [^f160] _Śrī_r_aṅga_! As the Supreme _Vāsudeva_ (_Para_) endowed with all the six qualities, you are the object of blissful enjoyment for those that have attained _mokṣa_ ; as _Saṅkarṣaṇa_ being endowed with strength and knowledge, you destroy the Universe and also promulgate the _śāstra_s; as Pradyumna being endowed with lordship and virility, you create the Universe and make _Dharma_ prevail; as Aniruddha being endowed with splendour and the power to overcome others, you protect the world and teach the Truth. In this way you divide yourself."
 
+[^f155]: Peria Tirumozhi: 3-8-1
+
+
+[^f156]: Tiruvoymozhi: 1-1-2
+
+
+[^f157]: Tiruvoymozhi: 10-10-10
+
+
+[^f158]: Amalan Adi Peran: (Tiruppanalvar) 1
+
+
+[^f159]: Six Qualities or Gunas: 1. _jñāna_ ( Knowledge) . 2. Aiswarya Lord ship; unimpeded activity; activity based on independence 3. _Śakti_ (ability) potency to become the material cause of the world; also the power of bringing about what appears impossible of being brought about; 4. bala strength; absence of fatigue; sustaining power; 5. virya virility; changelessness in spite of being the material cause of the world; 6. tejas splendour, might, the power to overcome others.*
+
+
+[^f160]: Rangarajastavam: Uttara shatakam: 40
+
+
+[^36]:
+Six Qualities or Gunas: 1. _Jñāna _( Knowledge) . 2. Aiśvarya Lord ship; unimpeded activity; activity based on independence 3. _Śakti_ (ability) potency to become the material cause of the world; also the power of bringing about what appears impossible of being brought about; 4. bala strength; absence of fatigue; sustaining power; 5. Vīrya virility; changelessness in spite of being the material cause of the world; 6.tejas splendour, might, the power to overcome others.
+
+
 
 
 The differences arising from planes like the waking state have been thus summarised :-"O Lord, [^37] of [^f162] those that meditate on Thee, some are like those in the waking state, some like those that dream in sleep, others like those that sleep without dreams, and others still are like those that have fallen into a swoon. (In the first group, the senses function, in the second the senses do not function, only the wind is active; in the third group even the wind does not function; they only breathe; in the fourth group even the breath is suspended). In the same way, O Lord, Thou art in four forms and dividest Thyself into four forms and art meditated upon with attributes and weapons suited to each."
 
+[^f162]: Rangarajastavam: Uttarashatakam: 39
+
+
+[^37]:
+This sloka cannot be understood without the account given in the Appendix.
+
+
 The twelve forms that begin with Keśava are other forms derived from the vyūhas. (_Bhagavān_ also manifests Himself as vibhavas.) These vibhavas are thirty odd forms like Padmanabha. Among them Avatars like Matsya and Kurma are specified in relation to some specific purpose. In these vibhavas or avatārs, _Iśvara_ conceals those attributes of His which He wants to conceal and reveals those attributes which He wants to reveal to suit the special mission which He has undertaken in them. Among them, there are varied manifestations which are countless. So has it been said, "The [^f163] forms of Kṛṣṇa are innumerable", Other forms similarly derived from the vibhavas can also be seen in the _śāstra_s. Sometimes the Lord enters into some _jīva_s with His own specific form and into others with His energy (_śakti_) and accomplishes wonderful things. These belong to another class of vibhavas. The forms of the Supreme _Vāsudeva_ (_Para_), the Vyuhas and the Vibhavas assume the [^f164] forms[^38] of the images and enter into the shapes of images (installed in temples), for the sake of devotees as desired by them. This is arcāvatara: The Lord is (also) present in a subtle form in the hearts of all _jīva_s. This form is called Antaryāmi _Avatāra_, as meditation on this form has been prescribed as the means which enables those who wish to enter into the meditation of the Antaryāmin or the divine all-pervading _svarūpa_ of the Lord. It has been said of this meditation: "Those [^f165] who have attained success in Asht_aṅga_ _yoga_ and who are desirous of worshipping the one who dwells in the heart are fit to meditate on the one (i.e.) the form in which He dwells in the hearts of all." Therefore this One (Hārda) is spoken as Antaryāmi.
+
+[^f163]: _Pāñcarātra_
+
+
+[^f164]: Sātvatasamhita: 6-22 This is stated in the following passage: "He assumes a form similar to that of the image, enters into it, and remains there”.*
+
+
+[^f165]: Sātvatasamhita: 2-7-8
+
+
+[^38]:
+Sātvatasamhita: 6-22 This is stated in the following passage: "He assumes a form similar to that of the image, enters into it, and remains there”.
+
 
 
 
@@ -1558,9 +2162,15 @@ All these forms of incarnation are constituted of the substance called s'uddhasa
 
 "Bahuni me [^f166] vyatītāni etc." Many are the births that I have gone through, just like you.”
 
+[^f166]: Bhagavadgītā: IV 5
+
+
 
 
 This meditation on the vibhavas (or avatārs) creates supreme faith or confidence (mahāvisvāsa) in the mind of the seeker after salvation who seeks _prapatti_ as an independent means or _upāya_, by affording him a knowledge of the great qualities of the Lord who is sought as the refuge and this at the moment when he adopts _prapatti_ as the means. So also the worship of Archāvatāra (the image) will lead easily to _mokṣa_. _Bhagavān_ Śaunaka has said :-[^f167] " Having shaped a beautiful image of Viṣṇu  with a lovely face and lovely eyes, out of gold, silver and the like in a manner that would be pleasing, one should adore it, bow to it, sacrifice to it and meditate on it. By doing so, one would enter into that form which is none other than _Brahman_ and will have all one's sins dispelled." The Alwars, too, very largely dwelt on this secret doctrine about the Lord's avatārs and the distinctive excellence of the avatars in the form of _arcā_ or consecrated images and considered the Supreme Self (in Vaikuṇṭha  ) as their original cause.
+
+[^f167]: Viṣṇudharma: 103-16
+
 
 
 
@@ -1574,13 +2184,26 @@ Lakṣmī
 
 _Iśvara_ is with His consort in all situations as stated in passages like : "Lakṣmī , the [^f168] mother of the world, is eternal and inseparable from Viṣṇu ." This may also be clearly understood from the writings of Parāśara and Parankusa (Nammalwar), who, for the help which they have rendered, have been spoken of by Alavandar with great regard in these terms: "I bow to the generous sage, Parāśara, who composed that gem of a purāņa (_Viṣṇu_purāna), wherein he discloses, as they are in reality, the truths concerning _cit_, _acit_ apd _Iśvara_, their distinctive nature, swarga, _mokṣa_  and the means of attaining them" and "I bow my head at the two feet of Nammalwar fragrant with vakula flowers, for they are, to all those who are connected with me, mother, father, wives, 8008 and all forms of wealth and lordship."
 
+[^f168]: Viṣṇupurāṇa: 1-22-53
+
+
 
 
 In this context, we have to understand a difference in their activities or division of labour, as it were ; for the Lord is concerned with the punishment (of the evildoer) and Lakṣmī  with pleading to Him for mercy on behalf of the sinner; the Mimāmsakas have declared that the object which is stated by analogy to have attributes similar to those of another object actually described must be different by that very circumstance[^39] from that other object. So in this case, as it has been stated by analogy or atides'a "Just[^f170] as Viṣṇu  is everywhere, so also is Lakṣmī , O, best of Brahmins", there should be a difference between _Bhagavān_ and Lakṣmī . This difference should be understood as referring (here) only to the difference in their functions or activities. This is the conclusion arrived at in the following _śloka_  in _Śrī_gunaratnakosa; "Youth and other attributes are common to both of you; however the Lord has manly qualities, like independence, conquest of foes, firmness and the like; you have such feminine qualities as existing solely for the husband, compassion and forgiveness. Thus you two have taken diverse qualities." "It is impossible to understand the real nature of God", says Nammalvar in (1-3-6). So in a matter like this, vain assertion or insistence is not proper,
 
+[^f170]: Viṣṇupurāṇa: 1-8-17
+
+
+[^39]:
+Without requiring any other authority to prove it. The different activities shared by Lakṣmī  and Her Lord are determined by their own will and not by difference in the nature of the two.
+
+
 
 
 As has been said: "Some make [^f171] weak cases appear strong." Although it is possible to prove whatever we please with the help of our proficiency in logical disputation, we submit to the Authority of the _śāstra_s. Therefore we should understand clearly the truth concerning the Real or _Tattva_ that rules and the reals or _tattva_s that are ruled, only in accordance with the _pramāṇa_s. We need not try to know all things but should try to know what is exceedingly useful. In matters which are only of limited use, we need not be so curious to obtain knowledge. The pilot tries to know just as much about the (vast) ocean as  would enable him to steer the ship along the right path. Similarly we have to understand, necessarily, as much as has been said here. In order to obtain unshakable conviction (about these truths), more elaborate treatises may be studied.
+
+[^f171]: Mahābhārata: Sabhaparva 39-5
+
 
 
 
@@ -1597,6 +2220,10 @@ Here we have classified the _Tattva_s into three. So also some consider _Iśvara
 
 
 What is said in the following _śloka_ , is of course true: "A knowledge[^40] of the śāstras can be obtained only with the greatest difficulty. Further it may unsettle the mind. Therefore having obtained a knowledge of Hari from the teaching of the _guru_, a man should cease from all such activities." This does not mean that one should make no attempt to learn the _śāstra_s. It only means that one should learn what is most important as quickly as possible and proceed at once to adopt the means learnt therefrom for attaining _mokṣa_ , without spending too much time over elaborate treatises, which might cause delay in the adoption of the means. The man who has enough to eat without tilling the soil would never think of tilling it. So also without wasting time over what is unimportant, we should, as soon as possible, adopt the means prescribed for _mokṣa_ ,
+
+[^40]:
+‘‘शास्त्रज्ञानं बहुक्लेशं बुद्धेश्चलनकारणम् । उपदेशाद्धरिं बुद्ध्वा विरमेत्सर्वकर्मसु ॥
+
 
 
 
@@ -1731,7 +2358,64 @@ CREATED BEINGS:
 
 Those who are considered as the chief among these gods, namely, _Brahma_, Rudra, Indra and others are created beings subject to the law of _karma_, as can be proved by pramāņas. It has been said, "When [^f173] 'all individual beings and even the aggregate _jīva_ (Samashti) have gone into dissolution and when mahat has become merged into _prakṛti_ (from which it evolved), there is one remaining as the soul of the universe and He is the Lord Nārāyaṇa ." Again it is said, “The [^f174] god Nārāyaṇa  is at the beginning; from Him arises _Brahma_", "[^f175] Nārāyaṇa  is the Supreme Deity; From Him was born _Brahma_, the four-faced, and from _Brahma_ arose Rudra, O goddess ", and further, it is stated, "Then you, "[^f176] the irresistible, assumed the form of _Viṣṇu_ from that eternal existence (viz. Nārāyaṇa ) for the protection of all beings." From this it is clear that, by his own will, He incarnated as the middle one (i.e. Viṣṇu ) of the Trinity. He who is expressed by the names, _Viṣṇu_ and Nārāyaṇa , iş stated to have been the ultimate cause of the world in His previous and original state. It is also said elsewhere, " There is no "[^f177] being in the world that is eternal, either among those that move or among those that do not move, except that one Primaeval Purusha called _Vāsudeva_." This declares that He alone is eternal. Therefore, other views such as the following: "The gods of the trinity (_Brahma_, Viṣṇu , and Siva), are of equal greatness"; "The three gods of the Trinity are only one", "_Iśvara_ is above and beyond the Trinity" "Either _Brahma_ or Rudra among the Trinity is the Supreme Lord "-these views stating equality, identity, the existence of an entity superior to all the three of the Trinity and the supremacy of a different member of the Trinity, are against the pramāņas. That _Brahma_, Rudra, and the like are created beings subject to _karma_ may be seen in the following passages :-" The [^f178] purusha or person created by Him (Nārāyaṇa ) is called _Brahma_ in the world". "Having [^f179] caused the dissolution of the worlds before, you lay on the waters of the great ocean and created me at first by your Māya (will)", " _Brahma_'s name [^f180] is Ka and I, Isa rule over all embodied beings. We two were born from your limbs. Therefore you are called Keśava (Ka and Isa)". Further _Brahma_ says, "I was [^f181] born from His graciousness for some reason and you, from His wrath, for some other reason, in one of the earlier creations." The very words of these rival gods, which are, so to say, a deed of release written with their own hands, declare this truth. That _Brahma_ and Rudra are subject to _karma_ and attained their high status, because of having worshipped the Lord of all with special rites, may be seen from the following passages : -- "All the [^f182] gods sacrifice to _Vāsudeva_ and all the gods bow to _Vāsudeva_." "_Brahma_, [^f183] Rudra and Indra, together with all other gods and the great rishis worship the divine Nārāyaṇa  or Hari, the greatest of Gods ", " Meditating [^f184] constantly on the
 
+[^f173]:Mahābhārata: Śāntiparva 210-24
+
+
+[^f174]: Varāha Purāṇam: 25-6
+
+
+[^f175]: Varāha Purāṇam: 90-3
+
+
+[^f176]: Rāmāyaṇa: Uttarakāṇḍa (Brahma’s words) 101-26
+
+
+[^f177]: Mahābhārata: Śāntiparva 347-32
+
+
+[^f178]: Manusmriti: 1-11
+
+
+[^f179]: Rāmāyaṇa: Uttarakāṇḍa: 104-4
+
+
+[^f180]: Harivamsa: (Siva’s words) 131-48
+
+
+[^f181]: Mahābhārata Śāntiparva 352-62
+
+
+[^f182]: ?
+
+
+[^f183]: Mahābhārata: Śāntiparva 350-30
+
+
+[^f184]: Mahābhārata Śāntiparva 210-33
+
+
 Lord, _Brahma_, Isana (Rudra) and others have not yet attained to a realisation of His nature. It is He whose protection I seek." And _Brahma_ says :- " Having [^f185] created me in the divine lotus in your navel shining like the sun, you have assigned to me all the duties of creation (of Prajāpati) and with this burden imposed on me, I worship you, the Lord of the Universe." And in another place, we find the following :- "_Brahma_, [^f186] born of the lotus, having worshipped _Viṣṇu_ for thousands of crores of yugas, obtained again the position of the creator of the three worlds. This is what we have heard." So also it is said :-" [^f187] Mahadeva (Rudra), who is called Viswarupa, sacrificed all things in a great yajna called Sarvamedha and then sacrificed himself also mentally", "Mahadeva sacrificed himself in the Sarvamedha and became the god of gods. The [^f188] resplendent Rudra, clad in the skin of the elephant, reaches all the worlds with his knowledge and shines with his fame". "Since in this [^f189] great sacrifice, he gave me my share of the offering, he has been authorised by me, in the Vedas and the _Sūtra_s, as fit to receive his share of the offerings." These gods, _Brahma_, Rudra and others are dependent upon the Maya of _Bhagavān_ ((i.e.) _Prakṛti_) and are subject to the influence of the gunas (sattvam, rajas and tamas). Their knowledge is also subject to contraction and expansion. All this may be understood from the incidents of the loss of the Vedas and others and also from the following _śloka_  :-"All the [^f190] gods beginning with _Brahma_, all men, and all animals are enveloped by the dense darkness of delusion arising from the whirlwind of Viṣṇu 's Maya (_Prakṛti_)," "The wise say that [^f191] these (positions) are the rewards of those who follow the good path of Satva, namely, _Brahma_ and the other creators, and the deities presiding over _karma_, mahat and avyaktam"
+
+[^f185]: Rāmāyaṇa Uttarakāṇḍa 104-7-8
+
+
+[^f186]: Mahābhārata: Kundadharopakhyana
+
+
+[^f187]: Mahābhārata Śāntiparva: 8-37
+
+
+[^f188]:Mahābhārata Śāntiparva: 20-12
+
+
+[^f189]: Mahābhārata Śāntiparva: 349-61
+
+
+[^f190]: Viṣṇupurāṇa 5-30-17
+
+
+[^f191]: Manusmriti: 12-50
+
 
 
 
@@ -1744,6 +2428,24 @@ OF BHAGAVĀN.
 
 
 That these (_Brahma_ and Rudra) render service to the Lord, who is their inner self, with the help of the knowledge given to them by Him may be seen from the following _śloka_  : "These two[^f192] , who are the greatest among the gods, are considered to have been born (respectively) out of His (_Bhagavān_'s) graciousness and wrath; and they perform the duties of creation and destruction in accordance with the lines laid down by Him." They are not pure and are not objects for spiritual meditation (subhasraya), for it has been said: "_Bhagavān_ [^f193] Hiranyagarbha (_Brahma_), Vasava (Indra) and Prajāpati ... ... ... all these gods and others are impure, their births being due to past _karma_" and again, "From _Brahma_[^f194] to the blade of grass, all beings that have their existence in the world have had their births as the result of _karma_ and are subject to the cycle of births and deaths ( _samsāra_)" and further, “The [^f195] man who has no attachment (to the things of this world) should know that every being including _Brahma_ is impure as being tainted by the ripening of _karma_ -- to Him, _Vāsudeva_ alone is the Supreme Goal or refuge." These statements have been made by Parāśara, Śaunaka, Śuka  and others. _Brahma_, Rudra and others have to seek _Bhagavān_'s protection and _Bhagavān_ has to seek nobody else's protection. This is clear from His own words :"The gods[^f196] are under the protection of Rudra, O King, and Rudra is under the protection of _Brahma_. _Brahma_ is under my protection and I do not seek the protection of any one. There is no one that I need for my protection, for I am the refuge of all." These gods are among the great possessions (_vibhūti_) of _Bhagavān_, who is the Lord of both lilā_vibhūti_ and _nitya_-vibhūti,) --- for it is said, “_Brahma_[^f197] Daksha and others, Kala, Rudra and the destroyer of Kala - all these are among the _vibhūti_s of _Bhagavān_," where _Brahma_ and Rudra are spoken of as being on the same footing as Daksha and others.
+
+[^f192]:  Mahābhārata: Śāntiparva: 350-19
+
+
+[^f193]: Viṣṇupurāṇa: 6-7-56,77
+
+
+[^f194]: Viṣṇudharmam: 104-23
+
+
+[^f195]: Bhāgavatam: 11-19-18
+
+
+[^f196]: Mahābhārata: Asvamedhikaparva: 118-37,38
+
+
+[^f197]: Viṣṇupurāṇa: 1-22-33
+
 
 
 
@@ -1761,6 +2463,9 @@ These gods (_Brahma_, Rudra etc.) are, like others, the modes or prakāras of th
 
 That these are His bodies and that He is their inner self or goal is evident from these words of _Brahma_ to Rudra :- "He is [^f198] the inner self of you, of me and of all those who are called embodied beings. He sees all but cannot be apprehended by any one, anywhere." These are _śeṣa_s who exist solely for the fulfilment of His purposes and He is their _śeṣī_. This truth was expressed by the all-knowing Rudra himself in _Mantra_rājapadastotra, where he says, "All beings are, by their nature, the servants of the Supreme Self. Therefore I am also Thy servant and, with this knowledge, I bow to Thee."
 
+[^f198]: Mahābhārata: Śāntiparva 361-4
+
+
 
 
 BHAGAVĀN HAS NEITHER EQUALS NOR SUPERIORS :
@@ -1768,6 +2473,30 @@ BHAGAVĀN HAS NEITHER EQUALS NOR SUPERIORS :
 
 
 Thus Nārāyaṇa  is destitute, in every way, of equals and superiors. This may be seen from the following _śloka_ s :- "O best [^f199] of men, there is no one superior to (Nārāyaṇa)   the god of the lotus-like eyes;" "There was[^f200] no one superior to Him in the past nor will there be any one superior to Him in the future : “There is no[^f201] god superior to Viṣṇu , O best of kings; " "There is nothing[^f202] more auspicious than _Vāsudeva_, there is nothing more purifying than _Vāsudeva_. There is no greater divinity than _Vāsudeva_. No one who adores _Vāsudeva_ ever perishes." "In all [^f203] the three worlds, there was no one like Him ever born and there will be no one like Him born in the future." " There[^f204] is no divinity higher than Keśava." "He is the [^f205] King of all kings, Viṣṇu , the great _Brahman_. We know Him to be _Iśvara_. He is the Father, the Creator." Those who are lucky, even while in their mother's womb and have received, while in the state of being born, the glance of Madhusūdana will become desirous of _mokṣa_ ; for His glance dispels rajas and tamas. Those who are looked at by _Brahma_ and Rudra just before birth will become subject to the influence of rajas and tamas. This difference is brought out in the following passages - "He who[^f206] is looked at by Madhusūdana just as he is being born should be considered to be a pure soul (sātvika) and he will ever think of the goal of _mokṣa_ . Jf, on the other hand, a person is looked at immediately at birth by _Brahma_ or Rudra, his mind will be overcome by rajas and tamas."
+
+[^f199]: Mahābhārata: Bhishmaparva 67-2
+
+
+[^f200]: Mahābhārata: Bhishmaparva 67-17
+
+
+[^f201]: ?
+
+
+[^f202]: ?
+
+
+[^f203]: ?
+
+
+[^f204]: Nāradīyapurāṇa: 18-33
+
+
+[^f205]: Mahābhārata: Asvamedhikaparva: 43-13
+
+
+[^f206]: Mahābhārata: Śāntiparva: 358-73--77
+
 
 
 
@@ -1781,9 +2510,33 @@ ONLY BHAGAVĀN.
 
 That these gods are not to be worshipped by those who desire _mokṣa_  (and that Nārāyaṇa , the Lord of all, who is the cause of these gods, is alone the deity to be worshipped by all those who desire _mokṣa_ , including these gods) may be seen from the following _śloka_ s :- "To those[^f207] who are sunk in the sea of _samsāra_ and whose minds are overpowered by the objects of sense pleasures, there is no other refuge than the ship of Viṣṇu ," "Those who [^f208] have a discriminating intelligence never worship _Brahma_, or Rudra or any of the other gods, for the fruit of their worship is very limited,” “Hari alone[^f209] is fit to be meditated upon, O Brabmins, by you who are noted for your sattvam. He is always to be adored and I am the means for enabling you to remember Hari.” If, in some places, these gods are spoken of as assisting in the attainment of _mokṣa_ , it should be understood to mean that they, like _ācārya_ s, assist by imparting knowledge and in such other ways. This is also the purport of the following passage ; " The man[^f210] who is a devotee of the god of the sun (Surya) will, after seven more births, become a devotee of Rudra by the Sun's grace. He who is a devotee of Sankara will, after seven more births, become a devotee of Viṣṇu  by the grace of Sankara." And again :--- "He who is a devotee of _Vāsudeva_ will, after those seven births, become one with _Vāsudeva_ by His grace." In this context it has to be stated that devotion to Surya and others leads gradually to devotion to _Bhagavān_, only in the case of those who are not subject to mental delusions about the Supreme Self and the Self's that are below it - such delusions as holding that they are all one or that the lower self is the Supreme Self or that all these divinities are of equal power, and provided they are not filled with the hatred natural to the asuric or demoniac Nature. This is evident from the _śloka_  : "Those who[^f211] hold Parushottama as being similar to the other deities are to be considered heretics unfit for any kind of _karma_ or rite." People who have such delusions in their knowledge (and worship) will meet with defeat due to the punishment inflicted by _Bhagavān_, although they have devotion to other deities. From the following _śloka_  : "O mighty Rudra[^f212] , get _Śāstra_s of deluding import composed and by prompting men to slight effort, show the fruit of these actions as soon as possible"-from this _śloka_ , we may infer that, if there is success in achieving t_aṅgī_ble fruits by following these false śāstra s, it is only for making men fall into delusion and thence into hell.
 
+[^f207]: Viṣṇudharmam: 1-59
+
+
+[^f208]: Mahābhārata: Śāntiparva: 350-36
+
+
+[^f209]: Harivamsa: 132-8.14
+
+
+[^f210]: ?
+
+
+[^f211]: ?
+
+
+[^f212]: Varāha purāṇa: 70-36
+
+
 
 
 If _Bhagavān_, whose will is irresistible, decides that some one deserves His punishment, then that person will find no other god capable of protecting him. It is said in the Rāmāyana " If a man has [^f213] deserved death at the hands of Rama, neither the four-faced _Brahma_, who was born of no mortal, nor the three-eyed Rudra who destroyed Tripura, nor the great Indra, who is the leader of the gods, will be able to shield him in battle." If, on the other hand, a man seeks refuge under _Bhagavān_, even if all the gods and intimate friends of His, like Sugrīva, the great king, propose to injure him, _Iśvara_ will protect him by overcoming wicked men like Ravana who should be overcome, and helping, by persuasion, such good people as the leaders of the monkeys who bad spoken against Vibhishana, as they deserve that course. For has he not said :-"To him who[^f214] has sought my protection even once and begged of me saying, "I am thine" -- to him I afford protection from all beings. This is my vow" and is He not one who ever keeps his word and sees that His vows do not fail ?
+
+[^f213]: Sundarakāṇḍa: 51-45
+
+
+[^f214]: Rāmāyaṇa:Yuddhakāṇḍa: 18-33
+
 
 
 
@@ -1795,19 +2548,91 @@ DEPENDENT ON THE GRACE OF BHAGAVĀN.
 
 If men seek the favour of other gods, they will soon obtain minor rewards which are like poison mixed with honey, for it is said, “Those [^f215] who desire the fruits of _karma_ or rites perform sacrifices to the gods and obtain the rewards of their actions in the world of men very soon." And again :- " From them[^f216] they obtain the objects of their desire as ordained by myself". The Lord said to the gods :-- "This _Brahma_[^f217] is your father and mother and grandfather, and will, under instructions from me, grant boons to all beings, and Rudra, his younger brother, who had his origin in my forehead, will, under instructions from _Brahma_, grant boons to all beings" As stated in these passages, these are dependent upon _Bhagavān_. It is said :-- "The rewards[^f218] (obtained from these deities) are of a very limited nature; " " In kalpas[^f219] or ages when sattva is predominant, Hari's glory becomes great and, only in them, those who have successfully practised _yoga_ in accordance with the _śāstra_s will attain the supreme goal." Therefore, from these other deities, _mokṣa_  cannot be attained even after a length of time. From the Lord of all, on the other hand, a man obtains unsurpassed wealth and the like, even as [^f220] _Brahma_ attained his high position after worshipping Viṣṇu  for crores of thousands of yugas; and afterwards, like the man who bathes in the G_aṅga_ for physical refreshment and thereby obtains purification also from all his sins, he gets incidentally freedom from sins; his rajas and tamas decline and his sattvam becomes dominant and, in course of time, he will attain _mokṣa_  like Janaka, Ambarisha, Kekaya and others. But there is delay in such cases as may be seen in the following passages : "At the [^f221] end of many virtuous lives, the man attains spiritual wisdom and seeks my protection” and again, " Those [^f222] who have attained success in crores of births will at length become well established here." "Those who[^f223] have, in many thousands of lives, become purified of their sins by penance, meditation and _yoga_ (samadhi) will acquire devotion to Kṛṣṇa," When the desire for _mokṣa_  has become ardent and when the man practises  _upāya_ which is within his power, there will be no delay in the attainment of _mokṣa_ , for He has declared:[^f224] "To those who have fixed their minds on me - to them I become the redeemer and save them quickly out of the sea of _samsāra_". To him who adopts _prapatti_ as the independent means, there is neither delay nor absence of delay, except in accordance with his own desire These distinctions will be accepted by all who have regard for the _pramāṇa_s and they have their effect by the will of _Iśvara_ which cannot be questioned, for has it not been said, " The [^f225] lordship of _Iśvara_ is absolutely independent and brooks no questioning ?" To those who do not clearly understand these principles in this way, the worship of other deities is prescribed in such passages as the following: "They may [^f226] be worshipped by men other than those who have discriminating intelligence,"
 
+[^f215]: Bhagavadgītā: 4-12
+
+
+[^f216]: Bhagavadgītā: 7-22
+
+
+[^f217]: Mahābhārata: Śāntiparva:349-76/77
+
+
+[^f218]: Mahābhārata: Śāntiparva: 350-36
+
+
+[^f219]: Matsyapurāṇa: 290-16
+
+
+[^f220]: Mahābhārata: Kundadhara upākhyānam
+
+
+[^f221]: Bhagavadgītā: 7-19
+
+
+[^f222]: Poushkarasamhita:
+
+
+[^f223]: Pāñcarātram:
+
+
+[^f224]: Bhagavadgītā: 12-7
+
+
+[^f225]:Vaikuṇṭhastavam: 55
+
+
+[^f226]: ?
+
+
 
 
 Those who worship these other deities without knowing that they are the bodies of _Bhagavān_ are like a follower of Charvaka (a materialist who believes that there is nothing other than the body called the soul) who anoints the body of the king, his master, without knowing that his master has a soul. It is true that the soul of the king is pleased with the service done to his body. In the same way, as a matter of fact, the devotion to these other deities is really the worship of _Bhagavān_, as they are only His bodies. Notwithstanding this, the fruit of this devotion to the lower deities would be only partial and incomplete. (We may remember in this connection the _śloka_  in the Gita) which says:- " Those [^f227] who sacrifice with faith and earnestness to other deities -- they, too, sacrifice only to me, but not in the manner and according to the rules prescribed for it." Since the rite is performed in an irregular manner without the observance of all the rules, the fruit will be partial and incomplete, If, on the other hand, a man, knowing that these other gods are only the bodies of _Bhagavān_, offers worship to them owing to a special desire for obtaining quickly the smaller goods of life, the fruit will be fully and completely realised in perfect measure.
+
+[^f227]: Bhagavadgītā: 9-23
+
 
 
 
 The Gita thus speaks of those who approach _Bhagavān_ for minor fruits :-" The man[^f228] who has lost his wealth but seeks to recover it, the man who wants to enjoy his own soul, and the man who wants to acquire prosperity” All these will have their reward in even greater measure." Of those who adore _Bhagavān_ without any such desire for minor fruits and only for the sake of _mokṣa_ , it is said, "Hari[^f229] , who confers _mokṣa_ , gives to His worshippers who meditate on Him, health of body, wealth, and enjoyment, in addition to what they desire viz., _mokṣa_ ". These are, so to say, adventitious or incidental rewards (ānush_aṅgī_ka ) not sought by them. Śrī Kulasekhara Perumal, to whom such adventitious prosperity was vouchsafed, says in this connection:-"The man[^f230] who desires only Thee and does not seek great prosperity -  prosperity comes and seeks him." Isandan also has stated this in his stotra thus "Those enjoyments which were formerly desired but could not be obtained come to us, of their own accord, without any effort or exertion on our part, like rivers flowing into the ocean, (although we do not desire them now)." (It may be asked why all those who desire only _mokṣa_  are not blessed with the good things of this life ). (The answer is):- This is due to the special form of meditation or _vidyā_ practised by the devotee and the special desires of his earlier life. (Some vidyās secure worldly prosperity in addition to _mokṣa_  after death, while others secure only _mokṣa_ .)
 
+[^f228]: Bhagavadgītā: 7-16
+
+
+[^f229]:  Viṣṇudharmam:74-43
+
+
+[^f230]: Perumal Thirumoli: 5-9
+
+
 
 
 The Alwars, too, have spoken of these differences between the Lord of all on one side and _Brahma_, Rudra and the other gods on the other side, in passages such as the following: “The gods[^f231] are only the food eaten by _Bhagavān_ and vomited afterwards, (eaten during pralaya and vomited after creation); are there any (gods) who are not of the nature of this vomit?" "Nārāyaṇa[^f232] created the god with four faces, and the god with four faces created Sankara." "O Thou[^f233] that art the original bulb of the lotus of the navel, from which arose _Brahma_, Siva, Indra and the others who worship you with reverence.” “ Arjuna[^f234] saw on Siva's head, the flowers of the garland that he had placed at the feet of the holy _Bhagavān_ which had measured the whole world, and understood clearly that Śrīkṛṣṇa was the Supreme Deity wearing garland of green tulasi." "Indra[^f235] who rules over the gods, _Brahma_ the god with four faces, and the great Siva with his matted locks of hair - (all these) meditate with earnestness and
 
+[^f231]: Periya Tirumozhi: 11-6-2
+
+
+[^f232]: Nanmugan Tiruvandadi: 1
+
+
+[^f233]: Tiruvoymozhi: 10-10-3
+
+
+[^f234]: Tiruvoymozhi: 2-8-6
+
+
+[^f235]: Tiruvoymozhi: 364
+
+
 sincerity on His lotus-like feet and go about praising Him." "He alone[^f236] is the Lord of Siva who is spoken of in high terms, of _Brahma_ and of all others." "O Lord[^f237] whose glory cannot be adequately understood even by him who rides on the unique bull and by _Brahma_," And again, "[^f238] Neither the god who has the ball for his banner, viz. Siva nor _Brahma_, nor Indra nor any other knows the remedy for the disease called ''birth" (i.e.) _samsāra_."
+
+[^f236]: Tiruvoymozhi 4-10-4
+
+
+[^f237]: Perialwar Tirumoli: 4-10-4
+
+
+[^f238]: Perialwar Tirumoli: 5-3-6
+
 
 
 
@@ -1817,9 +2642,39 @@ This truth about _Bhagavān_ being the Supreme Deity should be considered as pre
 
 For men other than those who have this conviction about the Supreme Deity, it is not possible to be in the state of having _Bhagavān_ alone exclusively as their protector, a state such as is described in the following and other words of the Alwars: "[^f239] There is no refuge other than Kṛṣṇa". "Whether you[^f240]  weed out my suffering or whether you do not weed it out, I have no other means of getting it removed." "I know[^f241] of no other staff of support for my soul". (We may see also) the ten stanzas beginning with: “If you do not [^f242] withhold the suffering due to my _karma_", The Alwar[^f243] who learnt all spiritual truths directly from the Lord of all discerned the truth about the Supreme Deity in Tiru_mantra_, gave up all devotion to other deities and became well established in exclusive devotion to _Bhagavān_, which extends to His devotees and also in rendering exclusive service to the Lord and His devotees. He gives expression to this in the following verse. "I cannot [^f244] live in agreement with those who hold that there is any other deity (than the Lord); I have also obtained the privilege of rendering service to Thy devotees." In the verse beginning with "The earth, water, fire, air, ether--having created these," the Alwar places (before himself) the three gods concerned in this controversy and, after a consideration of _pramāṇa_s, ignores two of them and decides on the remaining deity who is Supreme Light[^f245] "as His god having a complexion resembling that of a cloud." Perialwar also declares in the following verse that the deity who is of this form and complexion is the Supreme Reality (_Tattva_) described in all the Vedas ; "If "you [^f246] meditate on the god who is of the colour of the ocean by uttering the origin of all Veda, namely, the syllable _aum_ with three mātras (metrical units) etc. etc."
 
+[^f239]: Tiruvoymozhi: 3-2-1
+
+
+[^f240]: Tiruvoymozni 5-8-8
+
+
+[^f241]: Tiruvoymozhi: 10-10-3
+
+
+[^f242]: Perumal Tirumozhi: 5-1
+
+
+[^f243]: Tirumangai Alwar
+
+
+[^f244]: Peria Tirumozhi: 8-10-3
+
+
+[^f245]: Tirunedunthandakam: 2
+
+
+[^f246]: Perialwar Tirumozhi: 4-5-4
+
+
 
 
 Having in mind the passage in Taittiriya which describes the Supreme Deity as being the Lord of Lakṣmī , the Alwar understands that this description excludes other gods and exclaims:-"I have [^f247] seen Lakṣmī  and the form of the Lord shining like gold on which she rests." Beginning with this verse he concludes with the statement that " for wise men it is only _Bhagavān_ who ever acts in conjunction with Lakṣmī  that is both refuge and goal." This he declares in the following verse :- "Our refuge[^f248] is the goddess residing in the beautiful lotus covered with honey, who has long eyes and shines with a splendour which throws into the shade the lightning seated in the black cloud and who fascinates (with her beauty) the God armed with the discus and wearing the garland of tulasi on his broad chest." The conclusion has been arrived at that this couple (_Bhagavān_ and _Śrī_) are our goal of attainment and our refuge.
+
+[^f247]: Third Tiruvandadi: 1
+
+
+[^f248]: Third Tiruvandadi: 100
+
 
 
 
@@ -1832,6 +2687,21 @@ This truth regarding the Supreme Deity was taught at great length by the great s
 
 
 “Io all beings,[^f249] gods, men and animals, all that is masculine is _Bhagavān_, Hari, and all that is feminine is _Lakṣmī_, O Maitreya, and there is no one other than they," This sage, Parāśara, obtained the knowledge concerning the Supreme Deity by the grace of Pulastya and Vasiṣṭa who gave him this boon :-"You will[^f250] understand the truth about the Supreme Deity." "What Was[^f251] said to you by Pulastya will certainly become true." Our great _ācārya_ , ŚrīYamunamuni, also speaks of Parāśara with the greatest regard in 'I bow to Parāśara[^f252] the best of sages." And Nammalwar, who received the gift of knowledge free from all delusion and _bhakti_ from _Bhagavān_ and who occupies the highest place in the line of those who have performed _prapatti_, has stated the same truth (namely, that Lakṣmī  should also be considered along with _Bhagavān_ as our refuge and our goal): "You have[^f253] enabled me to have a vision of Thyself and Thy consort (Lakṣmī ) with the shining bracelets, standing together."
+
+[^f249]: Viṣṇupurāṇa: 1-8-35
+
+
+[^f250]: Viṣṇupurāṇa: 1-1-26
+
+
+[^f251]: Ibid 1-1-28
+
+
+[^f252]: Alavandar stotram: 4
+
+
+[^f253]: Tiruvoymozhi: 4-9-10
+
 
 
 
@@ -1850,6 +2720,10 @@ TAMIL VERSE:
 पोदमरुन् दिरुमादुडनिण्ड्र पुराणनैये. // 13 //
 
 Our _ācārya_ s have proclaimed, in so uncertain terms, that our eternal Lord with His Consort seated on the lotus is the Supreme Deity, so that disputants, proud of their knowledge of reasoning and argumentation, may not, each according to his own will, declare that the ultimate cause is this or that (_Brahma_, Rudra or Indra) thus causing dread to the Vedas[^41] * and trepidation to all devotees.
+
+[^41]:
+The Veda is afraid of the man who has only a little knowledge of it. (Bibheti alpa śruteh vedah)
+
 
 
 
@@ -2049,6 +2923,10 @@ SANSKRIT _ŚLOKA_:
 
 Even though the desire for _mokṣa_  is the same, a distinction arises among those who practise the vidyās or forms of meditation prescribed in the śrutis, as a result of their respective qualifications[^42] or competence in regard to such vidyās as Madhuvidyā, Sad_vidyā_ and so on. In the same way, a distinction arises between the adoption of _prapatti_ and other vidyās (which are of the nature of _bhakti_ or devout meditation), as a result of an unseen power or destiny depending on past _karma_ which brooks no questioning.
 
+[^42]:
+Some aspirants for _mokṣa_  are qualified for madhu _vidyā_ and others for sad_vidyā_ as a result of their respective competence or special forms of aspiration. So also some are qualified for _prapatti_, while others are for _bhakti_.
+
+
 
 
 
@@ -2058,6 +2936,10 @@ TWO KINDS OF ADHIKARĪS:
 
 
 Among those who thus resort to the practice of the _dharma_s of renunciation as a means for the attainment of the supreme goal of life (namely _mokṣa_ ), there are two classes of qualified persons : those who adopt _prapatti_ as the sole and direct means and those to whom _prapatti_ is auxiliary to the chief means, viz., _bhakti_. Both these are prapannas, one adopting _prapatti_ as an independent means and the other adopting it as _aṅga_ to _bhakti_. Both of them are also called bhaktas, because _bhakti_ is the phala[^43] or fruit for one and sādhana or means for the other,
+
+[^43]:
+phala _bhakti_ means _bhakti_ which arises as the fruit of _prapatti_, whereas sadhana _bhakti_ is _bhakti_ which leads to _mokṣa_ .
+
 
 
 
@@ -2087,6 +2969,10 @@ Of the two, the one who depends solely on the _ācārya_  is included in the _ā
 
 Mudali Andan said: "When a lion leaps from one hill to another, the little creatures (like bugs and lice) on his body are also taken over from that hill to the other. So also when the author of Śrī Bhāṣya performed _prapatti_ (the surrender of his responsibility or bhara), we "too have been saved (by that act)[^44] owing to our intimate connection with him." We, too, have expressed this idea in _Nyāsa_ Tilaka as follows:- " The blind man walks on being led by one who is not blind; the lame man is taken (across the stream) by the boatman, being placed within the boat; the children of the king's servants enjoy the pleasures (of the palace), although they do not know the king. So also my _ācārya_ , who is compassionate, is capable of making me attain Thee, O Lord of _Śrī_r_aṅga_m". It comes to this that the Lord of all will not be gracious enough to grant us the supreme goal of existence, unless _prapatti_ is performed in some manner or other and by some one or other.
 
+[^44]:
+This is interpreted in two different ways by the southern school of Viśiṣṭādvaitins and the northern school. The former hold that since Śrī _Rāmānuja_ has already performed _prapatti_, even his followers of a later day who acknowledge him as their _ācārya_  will benefit by it and they need not perform _prapatti_; the latter hold, on the other hand, that only those who were his śiṣyas then would benefit by it
+
+
 
 
 .
@@ -2106,6 +2992,10 @@ IN SECURING THE GOAL: Among these, he who has adopted _prapatti_ as the means to
 of this body so that he may enjoy such things as the rendering of service with this body to the images of the Lord (_arcā_) to which he has an attachment. So his _mokṣa_  has to await only the death of this body and will consist in the rendering, in Vaikuṇṭha  , of perfect and full service which has begun even here in the performance of service limited by the conditions of place, time and the nature of bodily life (_svarūpa_ ). The state of the _prapanna_ who is prepared to continue in this world till the dissolution of the body is referred to in passages like the following: "What is there" wrong in us who go about here having already won the grace of being permitted to serve Thee " "Leaving this bliss of uttering Thy names, I do not want even the bliss of going to Paramapada and ruling over it." "Can I indeed give up the hare and go in pursuit of the crow !" (That is--- it would be foolish to give up hare's flesh which is excellent as food and go after crow's flesh. So also the service of the image here in temples is superior even to the bliss of serving the Lord in Paramapada). “My deep love to Thee, "O King, is always staunch. So also my devotion to Thee, O valiant Sire, is always firnı. Nowhere else can my mind turn". (In these words Hanuman expresses his love and devotion to ŚrīRāma and states that this love and devotion are greater towards Rama than even to the Lord of Paramapada).
 
 Since the Supreme Ruler is the giver of all things, and since _prapatti_ at His feet is capable of yielding all kinds of fruit, it becomes the means of securing whatever fruit is desired respectively by these two (_bhakta_ and _prapanna_ [^45] ). The _Śāstra_s say, "Ask any boon that you want, when I am in the range of one's vision, all (good) things will follow." "O Thou that hast created all the worlds! Is there anything that is difficult to obtain, when Thou art pleased ? "   " When He is graciously disposed, is there anything here that cannot be obtained ? "   " What is there in this world or in the world above, O Dalbhya, that cannot be accomplished by those men whose minds are directed towards Viṣṇu  ?" "The fruit is from Him. It stands to reason ". (_Brahma_ _Sūtra_s 3 - 2 - 37). _Bhakti_ or _upāsana_ is the means of securing the four kinds of objects that may be desired in accordance with one's aim as stated in the Bhagavad Gitā (7 - 16). "Four types of men who have performed meritorious deeds worship me. He who has lost his wealth and is anxious to recover it, he who wants to have a vision of his own self (ātmā) and to enjoy it (ātmānubhava ), he who wants to acquire wealth anew, and he who is a Jnāni, who desires to be for ever with the Lord and practises _bhakti_ for attaining Him." Similarly have not the great rishis declared that _prapatti_ is also the means of attaining the four kinds of objects or aims as is stated in the _śloka_  : "Only so long as one does not perform _prapatti_ to Thee that canst destroy all sins, will there be the anxiety to recover lost wealth, only so long will there be the desire to acquire new wealth, only so long will there be the absence of the enjoyment of one's self as something different from the body; only so long will there be the sorrow of _samsāra_". From the words " that destroyest all sins” and the repetition of "only so long" repeated in every case with great consideration, it is made clear that the fruit which is desired by the man will all become his, in accordance with his desire and at the very time when he desires to have it. It is in consideration of this superior efficacy of _prapatti_ that it is stated (in Lakṣmī  Tantra 17 - 62) as follows:-" Those who practise _Jñāna_ Yoga and _Bhakti_ Yoga with a pure mind and those who perform _karma_ which would discipline the soul in renunciation are not worth even one ten-millionth part of the man who has performed _prapatti_. The difference in the kinds of service done here (in this life) by the _prapanna_ is due to the difference in the desire of the _prapanna_ and that difference in the desire is due to the difference in the meritorious deeds of the past which have begun to operate in this life (Prārabdha _karma_ ). There will be no difference at all in the bliss that will be attained after casting off the last body.
+
+[^45]:
+The sentence means that the direct' _prapanna_ gets _mokṣa_  which he desires and the _prapanna_ who performs _prapatti_ for the sake of _bhakti_ gets _bhakti_ which he desires, for _prapatti_ can secure whatever is desired.]
+
 
 
 
@@ -2196,6 +3086,10 @@ SANSKRIT _ŚLOKA_.
 
 _Bhagavān_ is declared in the Upaniṣads to be Himself the means (_upāya_) of attaining Him. The ways of _bhakti_ and _prapatti_ are indicated for winning His grace. The adoption of these [^46] *ways is the result of the great ripening of meritorious deeds (done in the past ) and, even for this, _Bhagavān_, who has the ability to create everything, is Himself the cause.
 
+[^46]:
+These ways: The commentary Sārāsvādinī says that the Sanskrit   word Gati does not mean here ways or _upāya_s but forms of knowledge.
+
+
 
 
 
@@ -2219,6 +3113,10 @@ _ŚLOKA_:
 
 
 The principle of tatkratu[^47] states only that  the qualities (and forms) meditated upon would not be excluded in the attainment; it does not exclude other qualities (and forms ). Service to the Lord is also the object of attainment (_upeya_ ) as it is the overflow of the experience (of _Bhagavān_ ) which is attained.
+
+[^47]:
+The principle of tatkratu or tatkratu nyaya is to the effect that in whatever form or manner and with whatever qualities one meditates on God - in that very form and with those very qualities will one attain Him. Though service to the Lord is not specifically prescribed in a _vidyā_, it will be attained after _mukti_.
+
 
 
 
@@ -2300,6 +3198,10 @@ _BHAKTI_ IS DIFFERENT FROM _PRAPATTI_:
 
 That the two are different from each other is evident from the adhikarana or section. "The _Brahma_ _Vidyā_s are different as their *[^48] names and the like are different ". _Brahma_ sūtras (III-3.56). That there is option (to choose any of them) is also evident from the section : " There is option (to adopt any of them ) because the result or (final) fruit is the same". Brahnia sītras (III - 3. 57).
 
+[^48]:
+_Bhakti_ leads through _yoga_ to para-_bhakti_ which leads to para-_Jñāna_, which, in its turn, leads to parama-_bhakti_.
+
+
 
 
 It may be seen that, as in _upāsanā_s there are differences in _mantra_s and the like (_aṅga_s), there are, in _Nyāsa_ _Vidyā_ also, differences stated in the different branches of the vedas (Shakhas) and in the different samhitas of the agamas. Just as obeisance (namaskāra) is divided into three forms, verbal, mental and bodily, so _prapatti_, too, is said to be of different kinds owing to the excess of one or other of these differences. It has been stated by some that, just as obeisance becomes complete when all the three, verbal, mental and bodily are combined, _prapatti_, too, becomes complete when verbal and bodily actions are combined with mental states or _jñāna_. This statement of theirs should be understood as meaning that mental _prapatti_ is full and complete and that verbal and bodily activities are, as it were, the overflow of the mental _prapatti_ (_jñāna_). (It should not be taken to mean that _prapatti_ is incomplete when verbal and bodily actions are absent). We have already stated that all these are productive of the desired result or fruit in accordance with the competency of those who adopt them,
@@ -2343,6 +3245,10 @@ SANSKRIT _ŚLOKA_:
 
 
 Karma, _Jñāna_, _Upāsana_ (_bhakti_ ) and likewise _śaraṇāgati_ are the good ways prescribed in the Vedas for securing _mokṣa_[^49] ; of these some are indirect and auxiliary means (namely, _karma_ and _jñāna_ ) while the others, _bhakti_ and _śaraṇāgati_ are direct and independent _upāya_s for _mukti_. Of these, some (i.e. _karma_ and _jñāna_), have only one form (that of being in. direct and auxiliary means ); _bhakti_ has only one form (that of being the direct and independent means for _mukti_, while _śaraṇāgati_ or _prapatti_ has two forms, that of being an indirect and auxiliary means as leading to _bhakti_ and also that of being the direct and independent means or _upāya_ for obtaining _mukti_. The wise (who know the s'ăstras), having understood well the difference among these _upāya_s due to their having this single or twofold nature, delight in the last words (caramaśloka  ) of the charioteer who is the Saviour of all, (i.e.) they prefer śaraṇāgati),
+
+[^49]:
+Commentators of _Brahma_ _sūtra_s like Sudarśana Bhatta point out that this difference in names applies especially to _nyāsa_, since it is a different word from 'contemplate', ‘meditate', and 'adore' which are used in connection with the other _vidyā_s and which mean thc same thing, whereas _nyāsa_ has a different meaning (altogether).
+
 
 
 
@@ -2392,6 +3298,10 @@ SANSKRIT _ŚLOKA_:
 
 
 Fitness (for _Bhakti_ or _Prapatti_) consists in a combination of desire (for the fruits of a course of action and of ability which is threefold[^50] . This fitness of man is differentiated as consisting in conditions prescribed for the _yoga_ of eight _aṅga_s or auxiliaries (_bhakti_ _yoga_) and for the _yoga_ of six _aṅga_s or auxiliaries (_prapatti_). That _Bhagavān_ is the refuge or Saviour of all has been declared in the _śruti_  and confirmed in the _smṛti_s। In adopting this righteous path viz., _prapatti_, there is competence for all as in the matter of speaking the truth and such other injunctions as are ordained in the Vedas (for all men , without any difference of caste or _āśrama_).
+
+[^50]:
+1: Ability which is threefold - The ability to understand the meaning of śāstra s: the ability to perform what is ordained in them and the competence as laid down in the śāstra s according to caste, qualities and the like.
+
 
 
 
@@ -2473,6 +3383,10 @@ SANSKRIT _ŚLOKA_:
 
 (1) Inability to adopt such _upāya_s as _Bhakti_ _yoga_, (2) ignorance of the required knowledge; (3) prohibition by the _śāstra_s of the adoption of such means and (4) inability to endure any delay in attaining _mukti_ :- these four, occurring either singly[^51] * or in combinations of two, three or four, by virtue of adṛṣṭa (resulting from meritorious deeds performed in the past) are qualifications of varied kinds for the performance of direct and independent _prapatti_ to the Lord of Lakṣmī  and good men resort to it with these qualifications and free from all doubt for the attainment of _mukti_.
 
+[^51]:
+Those who have only one of these four are of four classes, those who have any two of them are of six, those who have any three are of four and those who have all the four form one.
+
+
 
 
 इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य
@@ -2533,6 +3447,10 @@ The accessories or _aṅga_s of this _vidyā_ (nyāsavidyā or _prapatti_) are t
 
 
 It has (sometimes) been said that _śaraṇāgati_ is of six kinds : intention to do whatever is pleasing ( to the Lord) (ānukūlyasaṅkalpa), the avoidance of whatever is displeasing to Him (prātikūlyavarjanam), the faith that He will afford protection (mahāviśvāsa), begging His protection (goptṛtvavaraṇa), the surrender of the self (ātmanikṣepa) and the feeling of helplessness (_kārpaṇya_). It is stated to be six-fold in this and other passages by the inclusion of the aṅgī, namely _prapatti_ or self surrender among its _aṅga_s or accessories as in the word aṣṭā_ṅga_[^52] _yoga_.
+
+[^52]:
+Aṣṭā_ṅga_ Yoga is really dhyānayoga. It is said to consist of yama, _niyama_, _āsana_, prāṇāyāma, pratyāhāra, dhyāna, dhāraṇa and samādhi, Samādhi which is the _aṅgī_ is included among its _aṅga_s or accessories  .
+
 
 
 
@@ -2775,6 +3693,11 @@ which says "Whatever I may be in the body, the senses and the like, and whatever
 
 If a man has (somehow) come into possession of a cloth bag with the king's seal on it, he would return the bag (to the king), even though he does not know for certain the nature and character of the gem contained within it, in the hope that the king would take it back. So also even those who have not the intelligence to know, with perfect clearness, the nature, character and state of the soul as distinguished from the body may surrender their self or soul with the little knowledge that they possess. If they do so, even for that much, _Bhagavān_ will be prepared to remit the punishment for the theft consisting in making away with one's self (i. e. claiming it as one's own) from beginningless time. This idea contained in the _śāstra_s is what (Alavandar) has in mind. In the next *_śloka_  (53)[^53] it might appear as if he revoked the surrender (made before); but its meaning is only this : Even when a person is bent on surrendering his self without a knowledge of such things as the nature of his self, if he surrenders it with the notion that it is his own, like the presentation to a king of something belonging to oneself, it would not completely put an end to the crime of having stolen one's self. It does not mean that Alavandar considered his self surrender made in _śloka_  52 in accordance with the injunctions contained in the _śāstra_s, as having been made in ignorance.
 
+[^53]:
+“मम नाथ यदस्ति योऽस्म्यहं सकलं तद्धि तवैव माधव । नियतस्वमिति प्रबुद्धधीरथवा किन्नु समर्पयामि ते॥ आळवन्दार् स्तोत्रम्-५३
+However O lord, what can I surrender to Thee, O Madhava, when I know that I and whatever belongs to me are always thine. As I have nothing of my own, I have nothing to surrender, I am only giving Thee what belongs to Thee",
+
+
 
 
 So from these two _śloka_ s, it is clear that the essence of the _śāstra_s which primarily prescribe _bharasamarpaṇam_ as in the words of Alavandar (60) "The responsibility of protecting me is also Thine", consists in saying "na mama “It is not mine" and getting rid of the feeling of one's connection (with everything), though one may not have a true and discriminatory knowledge about such things as the essential nature of the self.
@@ -2999,6 +3922,10 @@ Our spiritual leaders whom the Lord of Śrī that dwells on Hastigiri has taken 
 
 
 Bharanyāsa (or the surrender of the responsibility of protection) has been made (at the feet of) _Bhagavān_ (Hari) for reaching beyond _samsāra_. So also actions that can produce only limited pleasures have been given up just like forbidden actions. The sustenance of the body will continue in accordance with past _karma_ (which has begun to operate). So nothing needs to be done for it. Thereafter (i.e) after _prapatti_ the bounds[^54] * imposed by the Lord's command are scrupulously observed by wise men, (merely because it is the Lord's command.)
+
+[^54]:
+This means that the _nitya_ and _naimittika_ karmas which are ordained by the Lord in the śāstra s have still to be performed after _prapatti_, as, otherwise, there would be transgression of His command.
+
 
 
 
@@ -3380,6 +4307,10 @@ TO BHĀGAVATĀS :
 
 
 If it is asked here how it can be stated that the service of _Bhagavān_ extends up to the service of His devotees (the Bhāgavatas), the answer is as follows:- It has been said in the Vedartha Sangraha: "He is the _śeṣa_ whose _svarūpa_ or essential nature is such as is chosen on account of the desire to promote the glory of another and that another is the _śeṣī_." So in regard to the Supreme Ruler of all, the _Jīva_   who is the _śeṣa_ is bound to promote His glory. That glory will depend on the nature of the _śeṣa_, whether it be sentient or non-sentient. It may be asked, "What is the glory that the _jīva_ is capable of conferring on the Supreme Being? With his body and the like, he can confer only such glory as non-sentient things do. So this service is common to him and _acit_. The special glory that he can be the cause of promoting must be by means of his intelligence or chaitanya.[^55] When the _jīva_ acts against the spirit of the _śāstra_s, _Iśvara_, who is the Ruler and the Dispenser of punishment, enjoys only the delight or delectation of _līlā_ and thus attains atisaya glory. It has been said: " _Bhagavān_, 'who has all beings as His body, rejoices when a _jīva_ does what is good and does not rejoice when the action is evil." When a man acts in accordance with the stāstras, he gives thereby delight to the Lord and thus does not let his generosity and other qualities run to waste, but promotes the glory of the Lord so that He extols him as in the words :-"All these are, indeed, generous". In the same way as the muktas (released souls) and the _nitya_s (the sūris ) promote the glory of the Lord by direct perception of the Lord's will and by acting in such a way as to give Him bhoga or enjoyment, the prapannas, too, can give rise to a special kind of bhoga or enjoyment to the Lord and thus promote His glory as stated in the following _śloka_ :-"When shall I*always be Thy servant, look upon Thee as my Master and in this way give Thee delight?". The _prapanna_ learns the Lord's will from the _śāstra_s (though not directly ) and renders service to the Lord.
+
+[^55]:
+In the sentences that follow, the author points out the different ways in which different kinds of people (including those who violate his commands ) promote His glory as His _śeṣa_s.
+
 
 
 
@@ -4093,6 +5024,10 @@ SANSKRIT _ŚLOKA_:
 
 The Lord merges the aggregate of the senses in the mind, the mind with the senses in the vital breath (prāna), the vital breath with these in the self or soul, the self in the subtle elements (Sakshina bhutas ) and the self with these elements in Himself (the Supreme Self) very soon. So far, the process of the soul's departure is common to both the person who has realised Him and the person who has not realised Him. Thereafter, the Lord leads the self through different veins ( nadi)[^56] which lead either to the (dark) path of smoke or to the shining path of light (archirādi) or elsewhere in accordance with the qualifications (of each individual).
 
+[^56]:
+The soul of the man who has realised _Brahman_ is said to be led through a vein issuing out of the head into the shining path of archis along which it passes into immortality in Vaikuṇṭha  . The soul of the man who has not realised _Brahman_ is led through other veins into the dark path called dhuma or smoke. He will be born again in _samsāra_.
+
+
 
 
 
@@ -4116,6 +5051,10 @@ Among prapannas, there may be (some ) who, on account of certain specific evil d
 In the case of those who performed _prapatti_ without indicating any definite time (for the attainment of _mokṣa_ ), it is said as follows: "The man who has performed _prapatti_ to me and who has not abstained from sins committed frequently, attains me late after wearing out all his sins."
 
 (3) "Since the _prapanna_ is bent on attaining _mokṣa_, he is not likely to have any long-standing desire for other benefits. Like those who have both _Brahma_ bhāvana and Karma bhavana, (_Brahma_, Rudra and the like), they might entertain a desire for other benefits along with the desire for _mokṣa_ ; if so, _Iśvara_, who is their well-wisher, will not grant them those (so called) benefits ( as they are not for his good); for it is said :-"Even when the _bhakta_ prays for it, _Iśvara_ does not permit him to do what is not good to himself. Does not the mother prevent her child that longs to fall into the fire ?" It is said also :-- " He whom I want to bless -- his wealth I take away from him. His relations will then desert him. He will become miserable. If, in his misery, he still clings to me, I confer on him such blessings as are unattainable even for the devas." The same idea is found in the story of Kundadhāra[^57] . Sometimes _Iśvara_ creates in the _prapanna_ a distaste for these other things by making him realise that they are trivial, transient and mingled with pain. Sometimes, as in the case of Soubhari and Kuchela, he gives them the benefits desired by them, but makes them feel an aversion to them afterwards.
+
+[^57]:
+Kundadhara : A certain man who was devoutly attached to Kundadhara begged him for wealth. Kundadhara, instead of granting wealth, saw to it that his follower should become attached to _dharma_.
+
 
 
 
@@ -4174,6 +5113,10 @@ The Lord sees to it that the self of the _prapanna_ does not go out through any 
 
 
 When Kooratth alvan (ŚrīVatsankamisra) was in his last moments, his tongue was parched with the fatigue (of the moment) and (unable to speak or utter any words) he caught hold of Śrī _Rāmānuja_'s feet. At that time Śrī _Rāmānuja_ whispered the _Dvaya_ _Mantra_ in his ear[^58] . The other disciples, who were there, said to themselves with mental depression :- "How can we hope to get this blessing ( _Dvaya_ being whispered in the ear by Śrī_Rāmānuja_)? What shall we do?" Śrī _Rāmānuja_ understood their fears and said, "Do you not know the true character of Alvan? When he is in this condition (unable to say anything owing to the parched throat), what I did was only like placing a little camphor and a piece of sugar-candy (in his mouth, to make it wet). I did not whisper the _Dvaya_ in order to make the _upāya_ complete with its accessories". The disciples were relieved on hearing this.
+
+[^58]:
+The idea is that the _prapanna_ will attain _mokṣa_ even if he is unconscious and unable to utter the _Dvaya_ or other _mantra_s.
+
 
 
 
@@ -4299,6 +5242,10 @@ Thus the Lord who lives in the heart and who is full of love (for the _Jīva_  )
 As has been said in the following verses :- "The self' passes through a beautiful opening in the centre of the sphere of the sun." "The "self makes an opening in the sphere of the sun, whose rays fill his chariot". "He goes through the middle of the sphere of the fiery sun", "The Lord helps him to climb up by a ladder to Vaikuṇṭha   through the sphere of the sun whose hot rays dispel the darkness and then removes the ladder," - (as described in these verses), the Lord sets the self on the path called devayına and leads him Himself with the following to guide him, namely, archis or fire, day, the bright half of the month, Uttarayana and the year, Vayu, Surya and Chandra and Lightning: with Lightning who is called also amanava and his companions, Varuna, Indra and Prajāpati, the self is helped on its way. As the Alvar
 
 says :- " With these guides[^59] who are immortal, he reaches Vaikuṇṭha   and casts off this beautiful prison house of _samsāra_."
+
+[^59]:
+Fire, Day, Śuklapakṣa Uttarāyaṇa and the year arc, of course, inanimate; but the deities presiding over them (abhimani devatas) are the guides here referred to.)
+
 
 
 
@@ -4469,6 +5416,10 @@ OVERFLOWS INTO _KAIÑKARYA_ OR SERVICE.
 
 “The place from which the man who has meditated on _Brahman_ never returns- that place is attained by him (the _prapanna_)"; again, “Those great souls who have attained the highest reach me and are never afterwards born in _samsāra_, which is the abode of suffering and is ever-ch_aṅgī_ng. All the worlds including that of _Brahma_ are places, O Arjuna, from which souls return to _samsāra_. But the soul that has attained me, is, O Son of Kunti, never born again.", and further "When the man who has become dissociated from all contact with _prakṛti_ has seen _Brahman_ who is the 26th real, he will never be born again, because he has attained all that has to be attained.", and also "The heavenly bodies like the moon and the sun (the presiding deities that govern them) are born again in _samsāra_ (after reaching their high positions). But those who meditate on _Bhagavān_ with the _mantra_[^60] * of twelve syllables never come back to _samsāra_.
 
+[^60]:
+Namo Bhagavate Vasudevaya: with Om (or _aum_) preceding it.
+
+
 (The same idea is evident also) in: "If a man utters the words Namo Nārāyaṇa with hands folded over the head (i.e. performs _prapatti_) and then goes (by the shining path), he will not be allowed to return to the world of _samsāra_, even if he furnishes security for his return to _Vaikuṇṭha_ " and in other passages like this.(end of page 218)
 
 Even if they come to _Līlā_-_vibhūti_ (this world of ours) by their own will and pleasure which are of the form of service to the Lord, there will be no diminution of their enjoyment of _Brahman_ and in this sense there will be no return to _samsāra_.
@@ -4593,6 +5544,10 @@ SANSKRIT _ŚLOKA_: (Summary of Part I)
 
 [^61] Having received the gracious look of the Lord (and of the _Ācārya_) and understood what is most essential and most important in the śāstras (vis, the three _mantra_s or rahasyas), having obtained a clear and accurate knowledge of his own self and of the Supreme Being and conquered his attachment to other interests in life, having acquired a knowledge of what is appropriate for the different kinds of adhikārīs, and realised the nature of the two _upāya_s (_bhakti_ and _prapatti_), having become troubled (in mind) (at his inability to adopt other _upāya_s) and performed _bharanyāsa_ with all its _aṅga_s and thus done what he ought to do, performing here in this world the adoration of the Lord (and His devotees ) without faults and in accordance with his state or _niṣṭhā_ and in the manner prescribed in the _śāstra_s and having (thereafter) cast off (both ) the gross (sthūla) and subtle prakṛti (body), some one there may be who enjoys _Bhagavān_ eternally.
 
+[^61]:
+This _śloka_  refers concisely to the gist of each of the twenty two chapters in the first part of the treatise.
+
+
 
 
 
@@ -4678,6 +5633,10 @@ SANSKRIT _ŚLOKA_:
 
 The Supreme Person who knows all things, at the same time, by direct perception (pratyaksha) and without any aid or instrument (in the form of sense organs), who is the boundless and divine ocean of mercy, protects the world, with the daughter of the ocean (Lakṣmī ), being omnipotent. Having accepted the responsibility of saving those who follow the right path, He is the _upāya_ [^62] that is already existent.
 
+[^62]:
+By _Siddhopāya_, the author means _Bhagavān_ who is the _upāya_ already existent for those who perform _prapatti_. By _Sādhyopāya_ he means such _upāya_s or means as _bhakti_ and _prapatti_ which socure the Lord's favour so that He may act as the _Siddhopāya_.
+
+
 
 
 
@@ -4703,6 +5662,10 @@ GRACE IS WON:
 
 
 There are three main causes for the removal of the will of the Lord imposed on men as a punishment for past sins, owing to which the _jīva_s who are subject to the sway of past _karma_ have no clear knowledge concerning the _upāya_ that is already existent (namely _Bhagavān_), the _upāya_ by which His favour is secured (_Sādhyopāya_) and also the potency of these _upāya_s. They are as follows:- One is the speech that comes from the lips of Lakṣmī : If one asks, “May this _Śaraṇāgati_ by mine!" Her reply is "Let it be yours; everything will be obtained by it alone." Next is the grace of the good_ācārya_ and the third is the observance of the tradition of the righteous. The means (_vyāja_) by which the grace of the good _ācārya_  can be secured and the benefits arising therefrom may be understood from the episodes of [^63] Parāśara, Maitreya, Sañjaya, Aśvalāyana and others.
+
+[^63]:
+By the advice of Vasiṣṭa, Parāśara put a stop to the performance of a satra (sacrifice) which was aimed at the destruction of Rākṣasas. Pleased with this, Vasiṣṭa and Pulastya blessed him for his forbearance with a knowledge of the _śāstra_s and with the gifts necessary for the composition of a purāṇa. Maitreya studied the Vedas, the _dharma_ śāstra s and the Ved_aṅga_s from his _guru_ and, by his grace, obtained a knowledge of Vedānta  by which he realised how the origin, maintenance and destruction of the world occur and how there is nothing other than Viṣṇu .
+
 
 
 
@@ -4751,6 +5714,10 @@ Conversation with rationalists makes men foolish in spite of their seeing, 'as t
 
 
 Even men with supreme faith that have sought the protection of the Supreme Ruler who is the Saviour of those that have no one to protect them - even they[^64] , we know. become deluded by association with others; though they are not cast away, they have afterwards to be corrected by good _ācārya_s.
+
+[^64]:
+Embar became subject to misconceptions owing to his association with Yādavaprakāśa and had to be corrected by Peria Tirumalai Nambi.
+
 
 
 
@@ -4811,6 +5778,10 @@ TO PERFORM _PRAPATTI_ AS AN _UPĀYA_:
 
 
 (2) The injunction to perform _prapatti_ is contained in the words, "Seek refuge under me alone". Some say that it is not an injunction to perform _prapatti_ and that this _prapatti_ should be considered as an attribute of the person specified. We answer as follows :-- This attribute cannot be held as that of the person so concerned or qualified, as it does not satisfy the definition of an adjectival attribute[^65] . This statement is therefore contrary to pramâna or authority. If this were not so, while _Iśvara_ is the _upāya_ for _bhakti_, the _śāstra_s which prescribe certain forms of meditation and the like might also be considered as speaking of the attributes of the person concerned and not actions to be performed.
+
+[^65]:
+He who desires _svarga_ should perform the Jyotiṣṭoma sacrifice". Here, who desires _svarga_ is an attribute or adjective of the person and the injunction is that he should perform the sacrifice. In Mam Ekam Saranam Vraja, the _prapatti_ has to be performed after hearing the _vidhi_ or in junction; it did not exist before, like the desire for _svarga_ in the example cited. Therefore, it is not an attribute; besides vraja is a verb that prescribes an action.
+
 
 
 
@@ -4904,6 +5875,10 @@ Hereafter we shall proceed briefly to remove certain misconceptions which arise 
 
 There are some who hold that, in the former part of the _Dvaya_, the word _Śrīmat_ is an Upalakṣaṇa[^66] ( an accidental sign by which the thing is distinguished and not a permanent attribute (or vi_śeṣa_ṇa)), whereas in the latter part, the same word means a permanent attribute of Nārāyaṇa . (If this were true, it would follow that the words 'I seek as my refuge' _śaraṇam prapadye_ would apply only to Nārāyaṇa  and not to Śrī or Lakṣmī  who, in that part, according to them, is not meant to be taken as an inseparable attribute but as only an accidental mark to distinguish Nārāyaṇa , Since in the latter part, Srīmat is, according to them, an inseparable attribute (vi_śeṣa_na), it would follow that the dative and the namah would apply to the attribute and the substantive, viz. Srī and _Bhagavān_. (It would then mean that Lakṣmī  is not to be sought as the _upāya_ but that adoration and service are due to her as well as to her spouse, Nārāyaṇa  ).
 
+[^66]:
+In "That is Devadatta's field where the crane was sitting before", the crane is an Upalakṣaṇa or accidental feature to identify the field with. It is not a permanent attribute or vi_śeṣa_ṇa of the field.
+
+
 
 
 In this (wrong) view, when the same word _Śrīmat_ is found in both the parts (of _Dvaya_) and when there is no objection to interpreting it in the same way, in both the places, the adoption of an interpretation which is at variance with the well-known view of the ancient _ācārya_s and with the tradition connected with Nammalvar, the chief of all prapannas and which would give two different interpretations to the same word in the same sentence has no justification. For in the following _śloka_  it is said :- "O Lakṣmī , with a face delightful like the moon! When (we) try to study Thee as distinct from _Bhagavān_, (we feel) that His _svarūpa_ or essential nature and His being the Ruler over all are the consequence of the greatness, which is His, by His being ever with Thee. Thou art, therefore, the part (or attribute) by which _Bhagavān_ is understood as being of such and such a character. Since Thou and _Bhagavān_ are thus (inseparably) united, the Veda does not speak of Thee separately".
@@ -4923,6 +5898,10 @@ They might argue that these qualities, forms and activities are inseparable attr
 
 
 The usefulness of this attribute Srī in _Śrī_mat, both in the part dealing with _upāya_ and in that which treats of the object to be attained by that _upāya_ has been described by Nammalvar in the following verses :- " Lakṣmī  who abides in the ever-fragrant lotus will destroy the _karma_ of _jīva_s (i.e.) those karmas which act as hindrances to _Bhagavān_ becoming the _upāya_" and "I will sweep Thy temple with the help of Thy grace and that of Lakṣmī  who abides in the lotus." (So also ) Bhagavān Vālmīki declared in The Rāmāyaṇa, the earliest of all kavyas, which is the very essence of the doctrine of _śaraņāgati_"This Sītā is capable of protecting us from the great danger (confronting us), O, Rākṣasis" and "She ''is capable of saving the host of Rākṣasis from (the anger of Raghava)". Such authors as Hiranyagarbha and Kasyapa declared: “We should“ meditate on Lakṣmī , who can grant us all the benefits that we desire, who can take us safe out of the sea of _samsāra_, who becomes easily gracious and who can make us happy." Śrī_Bhagavān_ Śaunaka has given this precept. "The man" that prays for the attainment of _Bhagavān_, who is the purport of all words, should perform _prapatti_ to Lakṣmī  also." The great sage Parāśara who received the knowledge concerning the truth about the Supreme Deity from boons granted to him by Vasiṣṭa and Pulastya has stated "Thou art, O Goddess, the knowledge concerning the soul, the giver of _mokṣa_ , the object of attainment[^67] ." Even if, in this _śloka_ , the conferring of _mokṣa_  be looked upon as an adjective qualifying the knowledge of the soul, it has to be considered as her glory or vibhūti on account of the appositional use (sāmānādhikaraṇya ). The Lord of Śrī has himself proclaimed in connection with the meditation on _Bhagavān_ as the Lord of Śrī in Śrī Sātvata Samhita -"Those who meditate on _Bhagavān_ seek the protection of Lakṣmī  and with that they easily cross the sea of _samsāra_ which is constituted of these three qualities". Apart from the śāstras treating specially of _Śrī_, these _śāstra_s which do not pertain to any special sect or cult are of great authority.
+
+[^67]:
+The _śloka_  says: Thou art the knowledge concerning the self or atma _vidyā_: Lakṣmī  is in apposition with atma _vidyā_. The meaning is that atma _vidyā_ is one of her _vibhūti_s or glorious possessions. Since atma _vidyā_ can confer _mokṣa_ , it follows that Lakṣmī  can confer _mokṣa_ .
+
 
 
 
@@ -5088,6 +6067,10 @@ There are some who will ask: " This _prapatti_ is a _dharma_ prescribed in the V
 
 It is true that _upāsana_ or meditation (in accordance with the teaching of the Upaniṣads ) has been determined as fit (only) for the three higher castes in the section Apaśūdra; bat speaking the truth which is given as an injunction in the Vedas is enjoined for all castes; so also _prapatti_ is a _dharma_ common to all and may be performed either with Vedic _mantra_s or with _mantra_s found in the Tantras in accordance with the person's respective competence, without any violation of propriety. We have heard, in the s'astras, of even such beings as crows performing _prapatti_. The Saviour Himself has declared: "Women," Vaiśyas and Śūdras that are born of sinners - whoever they might be -they attain, O Partha, the highest state if they seek my protection". Here seeking of the Lord for protection by _bhakti_ or _prapatti_ is stated to be common to all. Even in the matter of _upāsana_ or meditation (according to the vidyās in the Upaniṣads) though the beginning can be made only by men in the three higher castes, the end of the course can be attained by men in the bodies of any caste. This is stated in _Viṣṇudharma_ in the following _śloka_ :-"Though _Dharmavyādha _and others belonged to low and gruesome castes, yet since, in their previous births, they had practised _bhakti_yoga, they continued it in their latest life and, having completed it therein, attained their goal like [^68] Sramani.”
 
+[^68]:
+(Śabari) or Śramaṇi was of the caste of hunters and attained _mukti_ by _bhakti_ to Bhāgavatas and _Bhagavān_.
+
+
 Thus _upāsana_ or _bhakti_ _yoga_ should be commenced only by the three higher castes. But there is no such restriction in the general statement about the competence for _prapatti_. Further in the special statement about the qualifications for _prapatti_, it is definitely declared that every one is fit to adopt _prapatti_. The special qualifications requisite for _prapatti_ have already been described by us.
 
 Therefore birth in the three higher castes or the absence of it is no compliance for _prapatti_, when unaccompanied by the inability to adopt other _upāya_s. The only qualification that is essential is _ākiñcanya_, inability to adopt other _upāya_s). This may be seen from the Tamil verse: "I was not born into any of the four castes to enable me to perform _dharma_", and from the _śloka_: "O Thou Saviour! I was born into a family renowned in the world for their fame, their purity, their practice of _yoga_, their knowledge of the truth concerning matter (_prakṛti_) with its three qualities and the _jīva_s and for their steadfast attachment to Thy lotus like feet, and yet with a mind inclined to sin, I am sunk in _samsāra_: and am going down." Therefore it is beyond doubt that competence for _prapatti_ is open to persons of all castes who have a knowledge of the Saviour and of _śaraṇāgati_ and possess also _ākiñcanya_ and the like.
@@ -5226,6 +6209,10 @@ THE OBJECTION THAT THE RITES OF VARŅA AND _ĀŚRAMA_ AND _BHAKTI_ YOGA ARE INCO
 
 (h) "But", it may be argued again, "the _śāstra_s have enjoined also rites for such things as bewitchment ( abhichāra)[^69] to produce conviction. In the same manner, the forms of meditation (or _upāsana_ ) have been enjoined only in order to produce conviction or faith in the efficacy of what is prescribed (by the _śāstra_s) viz., _prapatti_. It does not mean that they are to be performed. To the aspirant for _mukti_, the end or object of attainment and the means of attaining it are both one and the same. Therefore the means favourable for the attainment of that end is only _Iśvara_, It is on account of this that the god presiding over _dharma_ condemned upāsanas as opposed to the end in view, while saying to his son :-"O, "Bharata, If you are afraid of sins, do not begin any activity and remain with the thought that Nārāyaṇa is the only end to be attained with all your heart." This argument too, is not tenable for the following reasons:
 
+[^69]:
+The Vedas prescribe the rites called abhichara for causing the death of one's enemy. They do so in order that by seeing the effect, men may have faith in the _śāstra_.
+
+
 (1) The rites of bewitchment ( abhichāra) and the like are sources of evil, because they are performed for purposes or fruits that are evil. Since _bhakti_ or _upāsana_ is enjoined for attaining _mokṣa_, it cannot be a source of evil:
 
 
@@ -5313,6 +6300,10 @@ Perialwar has pointed out that there will be no approach to other deities (abhig
 
 
 “He who has stolen the[^70] bulb of the lotus - let him worship other deities than _Viṣṇu_, who does good to Brahmins, who exercises control over the gods, who is worshipped by all those who live in the three worlds, who is the cause of the creation, the maintenance, and the destruction of the three worlds, who is under the control of no one else, who is the support of the world and who both creates and destroys the world, and who is the _guru_ of the world," and again, “He who has stolen the bulb of the lotus - he is one who never performs those _dharma_s which please the Lord, who never favours them, and who is of such a nature that he practises evil _dharma_s and evil rites." That the _prapanna_ will never utter the praise of others is declared in verses like the following:--Tiruvoymozhi 3-9 and also in: "The mouth will never sing the praise of any one other than the Lord.” So also that the _prapanna_ will never think of others is declared in the following passages :-"My thoughts are never with any deity other than the Lord. _Bhagavān_ who helps the gods is aware of this." and "I will never think that there are other deities that I want to attain and that will come to me."
+
+[^70]:
+During a famine, seven sages obtained the bulb of a lotus for food and went out for their bath. Indra stole it and hid it. When the sages returned and found it missing, each of them had to swear in these words to prove that he had not stolen it.
+
 
 (Our ancient seers) have declared that even those who are not competent to perform this five-fold scheme of adoration may not fail to render this service or _kaiṅkarya_, if they will perform such compulsory and occasional rites as they are competent for, if they sing the praise of the Lord and the like and if they render service to such persons as have the competency to perform that adoration and as have exclusive devotion to the Lord in accordance with their competence and in perfect dependence on them. And this may be seen in the following passages :-“The adoration of _Viṣṇu_ is
 
@@ -5480,7 +6471,15 @@ Among them the man with _jñāna_ is called Paramaikantin or man with supreme an
 
 The great sages who can estimate this degree of purity have described, at considerable length, the greatness of these men with supreme and exclusive devotion to _Bhagavān_, in such treatises as the Mahābhārata.
 
+[^71]:
+This means cent per cent purity.
+
+
 It is said in the " Vihagendra Samhita" as follows: "The man who is always thinking of Nārāyaṇa - whatever be the calling (vritti) he $ ($ another reading is cheshta (i.e.) movement (instead of vritti)) follows for his living, that is adoration; whatever he says (jalpah) is japam; whatever he sees is meditation or _dhyāna_; the water that has received contact with his feet is incomparably holy water; whatever is left after he has eaten will purify; his mere words are a sacred _mantra_: whatever he touches becomes pure." These _śloka_s, it is true, are authoritative, but "whatever be the calling, that is adoration" does not refer to any calling that is condemned in the _śāstra_s. It means that even if the man is obliged, owing to the unfavourable conditions brought about by place, time and the like, to follow a calling which is not ordained for him, it will be a proper means of obtaining the materials required for the adoration of the Lord, for it has been said: "In **times of adversity, a man may follow a calling slightly lower than that prescribed for him." The passage which says : - "Even the sin committed for my sake will be counted as _dharma_" has also the same purport. If this (interpretation) were not accepted, it would extend even to those callings that are prohibited. Even if the reading (in the _śloka_ cited above) be cheshta ( movement) and not vritti (calling), just like the acts intended for keeping the body alive and those that are enjoined by the _śāstra_, which are (therefore ) accepted, the word cheshta (movements) would refer to such things as the closing and the opening of the eyes which are natural and which are reckoned in the secret _śāstra_ (i.e.) Bhagavat _Śāstra_ as among [^72] the offerings to the Lord. This will not extend to those movements that are forbidden (in the _śāstra_s). Only those which are not forbidden and which are consistent with one's nature and reason and with _śāstra_ are ordained as fit to be offered. This applies also to the _śloka_ in the Gita which elaborates this idea, namely, “ Whatever you do for the protection of the body, whatever you eat, whatever offerings you make in the fire and whatever tapas you perform, do it, O son of Kunti, as if it were an offering to be placed before me." If, in such cases, any offence is committed against the _śāstra_s, one should perform, on the occasion, expiatory rites which are of the nature of service obligatory for the occasion (_naimittika_), in accordance with what is competent for one. "Whatever he says (jalpah) is japa" does not refer to vain chattering such as is forbidden in the _śloka_ : “Harsh speech, exaggeration of merits, tale- bearing, inappropriate talk-- these are the four sins of speech." It refers to the series of speeches and counter-speeches that are held by the man with his disciples, preceptors, fellow students, scholars and those who are in pursuit of spiritual excellence in order to teach what is not known, to confirm what is already known or to remove doubts. Or the word jalpah in that _śloka_ might mean the succession of speeches that are made in debate to refute infidels and heretics, for, though it is stated as a general rule, "One should not debate merely for the sake of a quarrel without the desire to know the truth", yet the _dharma_ - śāstras declare: "One should** condemn, according to one's ability, those who speak ill of _Bhagavān_ or of one's_ācārya_". "Whatever he sees is meditation or dhyāna" does not refer to such things as witnessing forbidden dances. It describes how when this man proceeds to render service (_kaiṅkarya_), whatever object meets his eye appears to him as having _Brahman_ as its inner self, for it has been said, 'I am Hari: all this is Janārdana; the causal substances like mahat and the effects which are producd therefrom are not different from Him. The man who thinks in this manner -- he will never fall a victim to the diseases of pleasure and pain which arise in _samsāra_", So also it is said, “Whatever appears ( before his eyes) is the Supreme Self". The sentence “ T'he water that has received contact with his feet is incomparably holy water" only assigns a superior merit when it is due. When the water from the feet is considered as holy, if there is exclusive devotion to Nārāyaṇa in the person, it is said to be holier than other sacred waters. It does not refer to such things as impure water which may, by chance, come into contact with his feet. The statement "Whatever is left after he has eaten purifies” refers only to certain specific remnants (of food) (ucchishta) which are prescribed as purificatory in contexts like a repeated Upanayana. Owing to the excellence of this quality, (the remnant of the food) is said to have superior purifying power. The words, certainly, do not mean that when disciples, sons and the like are devoted to Nārāyaṇa, whatever is left as remnant after they have eaten is purificatory for _ācārya_s and parents. It is said in the Sanatkumāra Samhita that the man who has eaten the food that has been offered to other deities or what is left as a remnant after those who are other than _guru_s have eaten should, for purification, live on milk alone for a month (payovrata), should always utter ashtākshara and eat also _Brahma_kurcha - panchagavya. This passage prescribes the code of conduct for one who follows the _dharma_ of _Bhagavān_ and has been taken for illustration by Alavandar in his Agama Prāmānya. Therefore the verse - "If the *remnant of the food that has been already eaten by the devotees of the Lord is given to me, it will immediately make me pure"--- is only applicable to _guru_s. Even if it is of general application, it means only this much - "If those who are devotees of the Lord should give me what is left over after their meal, it would purify me, even though they have been obliged, by force of unfavourable circumstances like place and time, to follow occupations lower than those ordained for them and to make others also follow them." In this (Tamil) passage, if the word _śeṣa_ should mean only what is left in the vessels in which the food was cooked as in the question and answer (after a srāddha) - "what is to be done with the food left over ?," and "let it be eaten in the company of friends" - if it should mean only this, there is nothing wrong. The word ucchishta, too, has been employed in the _śruti_s to mean what is left in the cooking vessel after (people) have dined. Madu and others have determined to this effect :- "One should give up wealth and pleasure (artha and kama) when they are against _dharma_. Even _dharma_ which is likely to bring suffering or which is likely to rouse disgust among people in the world should be given up".
+
+[^72]:
+The _śloka_ which says: "Whatever I do by the nature of _prakṛti_ and with my body, my speech, my senses, my intelligence or my soul, I offer all that to the Supreme Nārāyaṇa."
+
 
 " His very speech should be considered as a sacred _mantra_ ". This means that even the words in the vernacular language employed by him as necessary for spiritual elevation should be cherished like Tiru_mantra_ and reflected upon. It does not mean that his talk on worldly affairs is fit to be uttered as japa. The saying : "His words in jest should be cherished as the texts in the _śruti_s" should also be interpreted in this sense. “All that he touches becomes pure'; This should be interpreted as follows:- When a man is ill (and cannot himself bathe ), another is allowed to touch him and bathe for his sake; when the ācārya initiates the _śiṣya_ into the sacred _mantra_s, he touches the _śiṣya_ with his hand; this touch is called "touch with the hand of _Viṣṇu_". When an idol is newly installed, it is touched with the hand by great devotees of the Lord. In certain other circumstances, too, the touch with the hand is prescribed as purificatory. The passage means, therefore, that his touch of all things is even more purificatory in such contexts as are ordained in the _śāstra_s.
 
@@ -5519,6 +6518,10 @@ IN THE _CARAMA_ _ŚLOKA_:
 While commenting on the words (in the Carama _Śloka_ ) “Having given up all _dharma_s", the author of _Śrī_ _Bhāṣya_ interpreted them at first to mean that the giving up of _dharma_s means the giving up of the thought that, in his action, the man himself is the doer seeking a certain gain for himself by that means. This is renunciation of action due to _sattvam_ (and not the giving up of the _dharma_ itself  viz., _nitya_ and _naimittika_). This form of thought should be borne in mind by the man who has adopted _prapatti_ as a direct and independent _upāya_, at the time of the performance of _prapatti_ and also in his further actions (after _prapatti_), which are ends in themselves and have no relation of any kind to an _upāya_. In the second interpretation given of those words (by the author of of the _Bhāṣya_), they mean that when the man of poor ability who cannot brook any delay in the attainment of _mukti_ falls into grief or despair at the thought of all the _dharma_s or rites prescribed in the _śāstra_s and his inability to perform them, the Lord, in order to dispel his despair, ordained another means which is easy of perforinance and has to be adopted only once and said: "You need not go about seeking other _upāya_s" The _prapanna_ should note that in order that one may be competent for _prapatti_, the absence of adoption of any other _upāya_ before its performance is a requisite which has been present of its own accord by the grace of God. In regard to actions after the performance of _prapatti_, this giving up of the adoption of other _upāya_s is insisted on in the _śāstra_ itself and this shows how _prapatti_ does not require any aid (after it is once done).
 
 If the word _parityajya_ (having given up) merely states what has, on account of inability, already occurred (and not what is enjoined), the meaning (of the first part of the _carama_ _śloka_) would be that this having given up is a qualification for _prapatti_. If, on the other hand, the words (having given up) state what is ordained or enjoined to be done, then the meaning would be that _prapatti_ does not require anything else to be performed. Thus, if _parityajya_ (having given up) merely states what has already taken place or what has already occurred, the words _mām_ ekam will have to be thought of as meaning that nothing else (than _Bhagavān_) is required for the attainment of the desired end. If, on the other hand*[^73] _parityajya_ means that _prapatti_ requires nothing else for yielding its fruit, the words, mã suchah (do not grieve), show, by the force of logic or meaning, that the grief or despair which is a mark of being destitute of other means is what is required for competency for praputti (_adhikāra_;)
+
+[^73]:
+To the man or adhikārī who grieves at his inability to adopt the _dharma_s or _aṅga_s enjoined for _bhakti_ _yoga_, the _Carama_ _Śloka_ says, “Perform _prapatti_ to me and you need not adopt any other _dharma_".
+
 
 SANSKRIT _ŚLOKA_:
 
@@ -5572,11 +6575,19 @@ Rites like dars'a and purnamāsa have not been prescribed as requisites for yajn
 
 The teaching "Give up _dharma_ and a_dharma_" relates to the giving up of those _dharma_s which are said to be productive of certain gains (kāmya) and of those karmas which are forbidden." So also "give up satyam and also anritam" means "Do not desire satyam the enjoyment or experience of your self as an end in itself; also do not desire the enjoyment of[^74] ] anrita the pleasures of the world, wealth and the like ". It may also mean: "Give up speaking even that truth (satyam) which will cause pain to
 
+[^74]:
+One interpretation of the word _satya_ is the changeless eternal _ātmā_ or self; _anṛta_ refers to non-sentient things which contribute to the pleasures of wealth.
+
+
 others." In order to reveal the excellence of his teaching, it is repeated again :-" Having given up both satyam and anritam", it is said further, "Give up the thought which enables you to give up satyam and anritam, namely, the thought that you are the doer", in order to enable us to realise that even our doership is dependent on another (the Lord ). Thus there is no authority here for violating the commands of the Lord.
 
 
 
 Now let us consider what was taught to Uddhava :- In spite of what has been said so far, some quote the words addressed to Uddhava.--"Give up, Uddhava, all injunctions (vidhis) (like sandhyā, which are prescribed as a means to an end); give up all prohibitions such as “don't injure others"; give up the _dharma_s to be actively performed and also the _dharma_s which prescribe the avoidance of or abstention from certain acts and also the requisites (_aṅga_s) which you have heard so far and which you will learn hereafter as being necessary for both of them (Give up all these) and seek refuge in Me alone by all means, for I am the Inner Self of all beings. By doing so, you will attain _mokṣa_, where there is freedom from all fear". They quote these words and argue as follows "Since, here we are enjoined[^75] to give up the abstention from certain actions, and since in the _carama_ _śloka_, it is not proper to restrict or limit the meaning of sarva (all) in sarva karmāni, it follows that we should give up even the abstention (from evil acts )." This would mean that we should perform forbidden things as much as lies in our power. Since the doing of these forbidden things is something that, according to them, is enjoined, these people argue in their delusion that even if the _prapanna_ does forbidden things deliberately after _prapatti_, there would be no stain left. This is extremely ridiculous, for the (notorious) charvakas (alepakas) say that even if a man sins, it leaves no stain behind, whereas the argument stated above goes further and is tantamount to saying that (the _prapanna_ ) should necessarily commit sin: This is "like the fish swallowing greedily the bait made of iron covered with something which is delicious to eat, without any thought of the consequence. It is in reflecting on such (perversities) that the great sage became sad: "Whatever ** the good man shirks from, that the wicked man is delighted with. How painful is the perversity of this world !"
+
+[^75]:
+'Giving up abstention from forbidden things' would mean doing forbidden things.
+
 
 If the interpretation (given by these men) were the real meaning (of the teaching to Uddhava), it would follow that all the forbidden things done by a man throughout his life would be the requisites (_aṅga_s) of _prapatti_. The injunction that _prapatti_ with its _aṅga_s should be done only once would then have no meaning. It is not possible to do all the forbidden things at the moment of performing _prapatti_. Nor have we seen any one performing _prapatti_, doing as much of the forbidden as lies in his power. According to this contention of theirs, even sins cannot be called sins (since they are enjoined), in the same way as injury ( to animals) in the Agnishomiya sacrifice is not called a sin ( because it is enjoined). All this would be in conflict with their own commentary on the words "I will release thee from all sins", including the sins that might be committed deliberately after _prapatti_. It would imply that we should commit the three kinds of offences of the wind, speech and body ) as much as lies in our power. It is also opposed to the code of conduct followed by previous _ācārya_s, to the tradition of our ancients, to their own actual conduct and, further, to the observances of present day aspirants to _mukti_. Those who contend in this manner should, when they are attacked by a _prapanna_ owing to the desire for wealth or for pleasure, have to say; “Is this not, indeed, the _dharma_ expected of a _prapanna_ ?", and feel delighted. This would be opposed to countless _pramāṇa_s and is also not the real purport of the words in question. Some_ācārya_s would explain this contention that abstention from forbidden things is also included in the words sarva _dharma_n (as something to be given up) is due to ignorance of the meaning of the word _dharma_. It is in this way: Among abstentions only that which is done in accordance with prescribed rules as a means to secure a particular object is called _dharma_. Mere non-violence (_ahimsā_) is only the absence of sin and is not _dharma_ in the primary sense of the word ( for ao rules or restraints are observed). Therefore to give up non-violence undertaken for the sake of an object and in accordance with rules and restraints (_niyama_) means to give up the object aimed at and the rules and restraints in practising it. Beyond this, there is no au. thority for giving up the abstention from forbidden things that is prescribed in the _nivṛtti_ _śāstra_s (i.e.) _śāstra_s for securing _mukti_,
 
@@ -5601,6 +6612,10 @@ When it is thus clear that these should not be given up as they are injunctions 
 
 
 In the case of the aspirant for _mukti_, it may mean also those activities and abstentions which are enjoined as means for securing certain other ends (than _mokṣa_) in those _śāstra_s that enjoin them, 88 in the passage: "Give up those _dharma_s that are the means of securing _dharma_, artha and kāma," As against this, if it were held that _nitya_ and _naimittika_ karmas and the like are themselves (_svarūpa_tyāga) to be given up, it would be opposed to everything that has been pointed out before. Those who are intelligent and who are sāttvikas will appreciate this conclusion and approve of it. (The Alvars) have stated this in such passages as the following: "We will never do what ought not to be done. We [^76] will never go (to any _ācārya_), and study heretical _śāstra_s", and "Vouchsafe Thy grace so that I may not do wicked deeds". If we consider the import of the verse "O Lord of the world! Consider my offences as virtuous acts", it also means the prayer that the offences should be pardoned. Therefore if the _prapanna_ happens to commit an offence, he is bound to obtain pardon as declared in the passage :- " Whether "offences are committed deliberately or in ignorance, the only expiation that is required is to say " Pardon me ".
+
+[^76]:
+It may also mean "we will never do what is evil".
+
 
 SANSKRIT _ŚLOKA_:
 
@@ -5801,9 +6816,17 @@ When the king asked whether a disease could be (helpful), Bhattar replied that e
 
 The sufferings are intended only to reveal, to some, their offences with their consequences and then conceal them in order to create utter disgust, disgust like that of Perialvar who says:--- "My mind cannot bear the thought of living in _samsāra_, which is like living in a house in the roof of which there is a serpent," so that thereby they, too, might long for the release from _samsāra_ which _Iśvara_ has made up His mind to confer on them. In such contexts, the aspect of the experience of sorrow or pain is the fruit of evil deeds (in the past). The correction that ensures and that generates (the desire for) performing _prāyaścitta_ is the fruit of the _upāya_, viz. _prapatti_.
 
+[^77]:
+Azhvan on losing his eye-sight did not long for his eyes again, as they would make him look at the objects of sense-pleasures.
+
+
 Among these, some punishments are the fruit of certain good deeds in the past which have begun to operate (prārabdha). When the crow (Kakasura in the _Rāmāyaṇa_) fell (at _Śrī_ _Rāma_'s feet) praying for life, the Lord gave him his life; the fruit of his _prapatti_ was full and complete. Even the punishment inflicted on this wicked crow whereby he lost the sight of one eye was not really of the nature of a punishment. It was a special form of favour (because it would prevent him from doing evil again),
 
 Therefore just as we learn that the Lord's punishment, which is brought about by sins committed in an instant (but) which make the sinner wallow in Hell till the great dissolution (Bramā Pralaya), has great potency, so also we should learn that the special form of praņāma to _Śrī_ Kṛṣṇa which is called [^78] sukrita pranāma has great potency, for it has been said: "A single praņāma to _Śrī_ Kṛṣṇa enables a man who wanders about in the wild and trackless forest of _samsāra_ to reach the boundary called _mokṣa_" and also : “ Would it be right to say that a single sukrita pranāma  to _Śrī_ Kṛṣṇa is equal to ten horse sacrifices ? (No). The man who has performed ten horse sacrifices returns again to (_samsāra_), but the man who has performed 'praņāma to _Śrī_ Kṛṣṇa never returns". In accordance with the truths revealed in these _śloka_s, we should interpret the following texts without circumscribing the potency of _prapatti_, in so far as it does not conflict with the meaning of the _śāstra_ :.- "He who performs _prapatti_ only once and says, “I am Thine"-to him I grant freedom from fear of all beings. This is my vow", " If you are afraid of sin, O Bharata, desist from all action and remain with the thought that Nārāyaṇa is alone the object to be attained by all possible means ", and “Even if a man born of a low caste performs _prapatti_ to the Lord and that only once, the Lord protects him even if he has murdered his father and mother",
+
+[^78]:
+Sukṛta praṇāma consists in folding the two hands in añjali thrice and in performing aṣṭāṅ_ga_ namaskāram twelve times touching the ground with the brow, the nose, the eyes and the cheeks.
+
 
 "The Lord protects him even if he has murdered his father and his mother" - Only when this has not been committed after _prapatti_, will this _śloka_ not be opposed to the rule concering prayaschitta. If it be done after _prapatti_, we have already shown how redemption could be obtained. In this way also could be easily explained such passages as this :- "Good men protect those who have sought their protection and who pray to them saying, "I am yours", even though they have murdered their fathers".
 
@@ -5820,6 +6843,10 @@ AGAINST BHĀGAVATAS :
 
 
 Anong Bhāgavatas, it is true that degrees of regard have been prescribed for those who have not received the purification by fire[^79] (or who have not done the rites or _karma_  ordained for thern), who have not the.purification due to the wearing of the caste mark ( puṅḍra) (or who have given up their sūtra ), who have not had the purification due to nāma (or who have renounced their _guru_s, gods and the like), and those who have not been initiated into the sacred _mantra_s (or who have no association with good men). But even these will obtain redemption by some means or other (prāyaśćitta and the like) (provided they have not deviated from their exclusive devotion (to _Bhagavān_). The śāstras have, indeed, laid down the rule that offences should not be committed even against these (men). What has been said of the potency of _karma_  _yoga_ in the following _śloka_s applies even more to that of _bhakti_ and _prapatti_: “The endeavour that has been commenced in this _karma_ -_yoga_ never ends in vain; there is no offence if it is not completed; even a small fraction of this _dharma_ redeems a n:an from measureless _samsāra_”, and “The "man who has begun _yoga_ but has not completed it never perishes either here or in the higher world. (Is it not clear) that the man who has done a good thing will not meet with an evil end?" Further the Supreme Ruler Himself said to Arjuna and _Dharma_. putra respectively :--"Even "if a man is of impure ways, if he worships me without the desire for any other fruit, he is certainly a good man (sādhu). He is worthy of esteem, for his intentions are good", and "Even" if my devotees are inclined to sin, no sin will cling to them, in the same way as water does not stain the leaf of the lotus".
+
+[^79]:
+The marks of the conch and the discus (chakra) made with red-hot iron on the two upper arms.
+
 
 It has (also) been said in the discourse between Puṇḍarīka and Nārada :- He who has sought the protection of the Lord, O best of Brahmins, whether he be clad in a garment of bark, whether he wears matted locks (jatā), whether he holds a triad of sticks (like a sannyāsin), whether he has shaved his head clean or whether he bears the marks of other _āśrama_s or whether he has not any of them- (it does not matter)-  for these are not the causes that win _mokṣa_. Even those who have no pity, who have wicked minds and are always inclined to evil ways --- even they attain the highest state, provided they have sought the protection of Nārāyaṇa": "If the devotees of Viṣṇu commit sins, the sins will not taint them, because they will perform _prāyaścitta_ at once. They purify the whole world like the rising sun." "The man in whom, at the end of thousands of virtuous lives, arises the thought that he is the servant of _Vāsudeva_, who is the Supreme Self in all the worlds -- that man will go to the world of _Bhagavān_. There is no doubt of this. (Such being the case), is it necessary to speak of those who, with the seoses under control, have fixed their souls in _Bhagavān_". In these _śloka_s, it is stated that, even if devotees of _Bhagavān_ continue to sin, they will doubtless attain _mukti_ by performing prayaschitta and that (this being so) much more easily will sinless men attain _mukti_, further the great sage declared also this, among other truths, that those who have no devotion to _Bhagavān_ will never attain the desired goal even by superior deeds of virtue: "Those  who do not turn their faces to Nārāyaṇa will never reach the desired goal, even though they have performed a hundred horse-sacrifices and many hundreds of Vajapeya sacrifices".
 
@@ -5982,6 +7009,10 @@ May that great seer dwelling in the hermitage of Badarika ( Nārāyaṇa ), the 
 
 Let us adore that great _mantra_, the most important of the  _vyāpaka_ _mantra_s[^80] , within which lies embedded the gist of all the revealed truths found in the _śruti_s and the _smṛti_s without any exception.
 
+[^80]:
+The three _mantra_s Namo Nārāyaṇaya, Namo Bhagavate Vāsudevāya, and Namo Viṣṇave, with the _Praṇava_ (AUM) preceding each are called _vyāpaka_ _mantra_s for they have the words, Nārāyaṇa, _Vāsudeva_ and _Viṣṇu_, which by their etymology, convey the meaning 'Omnipresent' or 'all pervading' (_vyāpaka_).
+
+
 
 
 
@@ -5993,6 +7024,10 @@ Let us adore that great _mantra_, the most important of the  _vyāpaka_ _mantra_
 स्फटिकतलनिहितनिधिमिव देशिकदत्तेन चक्षुषा जन्तुः ॥ ६२ ॥
 
 Here a being who has been blessed by his _guru_ with vision sees all the meaning concealed within the _mūlamantra_, without any exception, as if it is a treasure placed underneath a plate made of crystal.[^81]
+
+
+[^81]:
+Commentators say that there is here an implied reference also to the author himself who obtained all his knowledge concerning the mūla _mantra_ from his _ācārya_, _Śrī_ Appullar.
 
 
 
@@ -6026,6 +7061,10 @@ Among these three _mantra_s), in regard to Tiru_mantra_, the seer, (rishi), the 
 
 It has been said :-"Of "all _mantra_s, the _mantra_s treating of _Bhagavān_ are the highest. Of the countless _mantra_s treating of _Bhagavān_, the three vyāpaka _mantra_s are the highest, so also the eternal _mūlamantra_ is the highest of all _mantra_s ; of all secrets, this is the supreme secret; of all things that purify, this is the most purificatory". So it is the highest among the three vyāpaka _mantra_s; it is the essence of all the Vedas; it is capable of removing all evil influences; it is the means of obtaining all the objects desired by men; it helps in the adoption of all _upāya_s; it can be uttered by all castes, either in its Vedic form (with _aum_) or in its tantric form (without the _aum_), in accordance with their respective competence; it reveals, in no uncertain terms, all the reals (_tattva_s), both those that are pervaded by _Bhagavān_ and that which pervades all (viz the Supreme Self); it does not require the help or aid of any other _mantra_ and is common to all the forms of _Bhagavān_ (like _Śrī_ Rāma, _Śrī_ Kṛṣṇa and so on)[^82] . Owing to these reasons, all _ācārya_s delight in it. The Alvars, too, sing its praise with delight in the following passages -- " Having learnt Thy holy _mantra_ with eight syllables", "Those who have been initiated by the _ācārya_ into the _mantra_ with eight syllables and utter it with the proper _niṣṭhā_ are capable of ruling over _Vaikuṇṭha_", " Those who constantly delight in the _mantra_ with eight syllables and utter it become capable of ruling over _Vaikuṇṭha_", "You were devotees that sang the name of the Lord saying "Namo Nārāyanāya" so that country and town might understand" and "By uttering the holy name Namo Nārāyaṇāya in the proper way (i.e.) without seeking any material gain" etc, etc. The seers (rishis) too, have declared as follows:- "Many were the great seers like Sanaka who attained the abode of _Viṣṇu_ by uttering the _Aṣṭākṣara_", "Just' as among the deities there is no one superior to Nārāyaṇa, there is, among the _mantra_s, no _mantra_ superior to the _Aṣṭākṣara_"; "Raising my hand and swearing that it is true, I declare this to you! O my children and my disciples, listen. There is no _mantra_ superior to the _mantra_ of eight syllables. Adore _Bhagavān_ with it always. Show your devotion to Him with it, and worship Him with it. Those who show their devotion to Him by looking upon this _mantra_ as supreme will never perish (i. e. will not be in _Samsāra_.)" and "Sitting, or lying down, or standing anywhere, we have adopted only the _mantra_, Namo Nārāyanāya as our _upāya_."
 
+[^82]:
+They may all be worshipped with the utterance of the mūla_mantra_, whereas other _mantra_s are to be used only in connection with particular forms.
+
+
 
 
 The Supreme Ruler had this _mantra_ taught to Puṇḍarīka by Nārada ; he received it as his supreme good; and as stated in the _śloka_ ; " Puṇḍarīka "whose mind was ever bent on _dharma_ understood that, of all things to be attained, Nārāyaṇa was the highest and attained _mukti_ by uttering the _mantra_ with eight syllables : Namo Nārāyaṇāya". He practised this _mantra_ and
@@ -6048,6 +7087,10 @@ When this _mantra_ is taken without the _praṇava_ (at the beginning) and the d
 
 To Brahmins and the like (Kṣatriyas), the _mantra_ consists of eight syllables including the _praṇava_ just as it occurs in the Veda. It has been stated: "Karma[^83] is said, in the ocean of nectar called _Pāñcarātra_, to be of three kinds: to Brahmins _karma_  is Vaidic (i.e.) to be performed with Vedic _mantra_s; to Kshatrias, _karma_  is both Vaidic and tantric; to Vaiśyas and Śūdras _karma_  is tantric; or _karma_  may be tantric to all. Aṣṭākṣara, (the _mantra_ with eight syllables), _Dvādaśākṣara_ (the _mantra_ with twelve syllables _Namo Bhagavate Vāsudevāya_ with the _praṇava_ at the beginning) and the _Ṣaḍakṣara_ (the _mantra_ with six syllables, _Namo Viṣṇave_ with the _praṇava_ at the beginning) - these are the principal _mantra_s of _Viṣṇu_ whose splendour is beyond all measure. These _mantra_s with the _praṇava_ ( at the beginning) are Vaidika _mantra_s; without the _praṇava_ they are Tântric _mantra_s. To women and Śūdras the utterance of the _Mūlamantra_ should be without the dative suffix (of the word Nārāyaṇa). So also there is, for them, no svara, no _praṇava_ nor _aṅga_nyāsa or other rules. To them the utterance of the mere _mantra_ (without _praṇava_ ) is enjoined." In accordance with this, it has been stated further: "The syllable a in the latter part of the word Nārāyaṇa (i.e.) ayana denotes _Viṣṇu_. If the nasal sound of the vowel m (anuswāra) at the end of the word ayanam be added to it, it becomes am and this 'a with the m becomes the germ (_bīja_) of mūlamantra. By this addition, the _mantra_ comes to consist of eight letters.
 
+[^83]:
+When the worship of _Viṣṇu_ is performed with only Vedic _mantra_s, it is Vaidic _karma_ ; when it is performed only with the _mantra_s found in _Pāñcarātra_, it is tantric and when it is performed with both, the _karma_  is said to be both Vaidic and tantric.
+
+
 
 
 Even without the _praṇava_, these adhikārīs (women and Śūdras) obtain the same fruit or goal and this may be seen from the following _śloka_ - "Of what use are many _mantra_s for the purpose of the fruit desired? Of what use are many vratas (ascetic observances )? The _mantra_, Namo Nārāyanāya, confers all the boons that may be desired". The a in am which has been prescribed as a substitute for praṇava (_aum_) should be considered as having, in brief, all the meaning contained in _praṇava_, because the syllable a being the first letter is stated (in the _śāstra_) to denote everything in a concise form. The meaning of the syllable u in the praňava, namely, 'only' is inferred from the meaning. The ideas of knowership and the like contained in the third letter of _praṇava_, namely m should be understood as being present in the base of the second syllable of _namas_ (or _namo_), namely m.
@@ -6063,6 +7106,10 @@ When the _praṇava_ is used as an independent _mantra_ by itself, it may be pro
 
 
 _Praṇava_ or the Veda consistiog of three letters, existed at the beginning, and the three Vedas, Rik, Yajus, and Sāman were within it (in a, u and m respectively). It should be kept as a secret. It is a Veda with three letters and is different from the other Vedas. He who knows the _praṇava_ is a Vedavit (one who knows the Veda or the three Vedas)." The greatness and glory of _praṇava_ are well known from such passages as the above. In the nyāsa_vidyā_, the _praṇava_ is an independent _mantra_ and refers to the surrender of the self, for it has been said: “The _havis_ or offering called the self should be taken with the _mantra_ beginning [^84] vasuranya and offered in the eternal fire called Acyuta with the _mantra_ called _praṇava_". For the same reason some construe it even here as denoting surrender. Others construe that the _praṇava_ should be considered in the Tiru_mantra_ only as helping to realise one's being _śeṣa_ (to the Lord), since primarily it gives knowledge of the essential nature (_svarūpa_) of the _jīva_ being _śeṣa_, If so, it contributes a qualification or element of competence for the _upāya_ (viz. praying for protection).
+
+[^84]:
+The _mantra_ vasuranya in the Taittirīya Upaniṣad.
+
 
 
 
@@ -6104,6 +7151,10 @@ The fact of being the Master makes it appropriate that He should proteot; _prapa
 
 As stated in the _śloka_ : "In all siddhāntas and in Vedanta, it is declared that the Lord protects with His consort _Lakṣmī_, ever by His side, for she is the very embodiment of mercy", the Lord who has determined to grant redemption to all is ever ready (to do so) with His consort. The relationship with His spouse for the purpose of protection, which is evident from the pramāņas is derived (not explicitly from the words but) by inference from the purpose (of protection) which is evident from the _pramāṇa_s. Whenever _Bhagavān_ is referred to, _Lakṣmī_ should also be considered as referred to, for it results from the principle:- "If two things are enjoined as necessary, wherever one of them is mentioned, the other should also be considered as indicated” (Sanniyogasiṣṭanyāya). Thus the ācāryas, too, have said, “Since Thou(_Lakṣmī_) art ever inseparably connected with Thy Lord, even the Veda does not mention Thee separately." In all vidyās or forms of meditation (prescribed in the Upaniṣads) all qualities and attributes of _Brahman_ which define His Nature are to be meditated upon (even though only one or two of them are actually mentioned in the particular _Vidyā_). Similarly this attribute, Namely, _Lakṣmī_, who is the most important of all attributes should also be borne in mind. It is this attribute (_Lakṣmī_) which rules out other deities, (for they are not related to _Lakṣmī_ in that way) and defines _Bhagavān_'s essential nature which is not dependent upon anything else, as having an excellence which surpasses everything else, His essential nature, form and glories, which do not arise from any other source, acquire even greater splendour from the essential nature, form and glories of _Lakṣmī_, who is His attribute, and shine thereby. This may be seen in the simile; "like radiance which cannot be separated from the sun." And this has been declared by the great sages who understood the nature and person of the Supreme Deity. So also in the word Nārāyaṇa in Tiru_mantra_, Nārāyaṇa's relationship to His consort should be borne in mind. This relationship to the spouse is distinctly and explicitly stated in the _Dvaya_ (_Śrī_mat - with _Śrī_). In _Śrī_ _Rāmānuja_'s elaboration of the _Dvaya_ in his _Gadya_[^85] , it is true that, among the nārās in the words beginning with _Bhagavān_ Nārāyaṇa (Nārānām + ayanam) _Lakṣmī_ is included among the nāras by commentators. (From this it might be argued that she is also a _jīva_ like other nāras). But this inclusion is only to indicate Her dependence on Her Lord and Nāras means etymologically only “those who are related to Nara" without the specification of the form of relationship. So from that, it should not be inferred that _Lakṣmī_ is also a _jīva_.
 
+[^85]:
+_Śaraṇāgati_ _Gadya_.
+
+
 
 
 Here the first letter a is in the dative or fourth case singular, the (usual) dative singular suffix has been dropped. The reasons for holding that the a is in the dative singular (when no case - suffix is seen ) are as follows: (1) In the place which enjoins the surrender of the self to the Supreme Self (i.e.) the Taittirīya Upaniṣad, the _praṇava_ is prescribed as the _mantra_ (for doing so); (so it should mean 'to the Supreme Self (dative)', (2) the _mantra_ should reveal the nature of the action to be performed, (3) the self to be surrendered is seen in the third letter (m) (in _aum_) and the Supreme Brahman for whom it is surrendered is seen in the base (_prakṛti_, viz. a) of the first letter; (4) the person to whom the surrender is made and the object which is surrendered should not be in the same case. Therefore the a (which is the first letter) should be considered to be in the case (i.e.) (dative) suited to the word indicating the person to whom the surrender is made. The view of perverse interpreters (Advaitins) that a and the m (in _aum_ are in the same case (nominative or first case ) and indicate the identity in the essential nature of the _jīva_ and the Supreme Self is opposed to many _pramāṇa_s (like pratyaksha and sabda); besides it would not fit in with the natural and obvious meaning of the word _namo_ (_namas_) and the dative of the word Nārāyaṇa (i.e.) Nārāyaṇāya which are uttered along with the _praṇava_, This is obvious also from the text twhich distinguishes _praṇava_ as the bow, the self as the arrow, _Brahman_ as the target and the act of surrender as the hitting of the target (the arrow and the target cannot be identical). In the _praṇava_ in Tiru_mantra_, when the intention is the surrender of responsibility (_bharasamarpaṇam_), the dative or fourth case should be considered to have the same meaning as the dative in the _praṇava_ considered as an independent _mantra_ (i.e.) the person to whom the surrender is made. When the _praṇava_ is interpreted as indicating the essential nature (_svarūpa_) of the self which consists in existing solely for the Supreme Self (i.e.) in being _śeṣa_, the dative signifies 'having another's interests alone as one's interests'. Therefore it reveals the relationship of _śeṣa_ and _śeṣī_ which exists between the _jīva_ and the Paramātmā. We should then bear in mind that we are unconditional _śeṣa_s (nirupādhika _śeṣa_) to the Supreme Self, who is the unconditional seshi (nirupādhika seshi).
@@ -6124,7 +7175,15 @@ When the relationship of our being _śeṣa_s to the Supreme Being is well estab
 
 When _Iśvara_ is the _śeṣī_ of all, He is always (to be thought of as) with His Consort, for it has been said, “The two kinds of glory (_nityavibhūti_ and _līlā_ - _vibhūti_) are _śeṣa_ to me and to her, O _Brahma_ and this is declared in the Vedanta and in my _śāstra_s (Pancharātra āgamas)." So also it is said "Being seshi is single and it rests with two (_Bhagavān_ and _Lakṣmī_).” In the Agnisho miya sacrifice, the deity (to whom the _havis_ or offering is made) is not Agni alone not Soma alone; the deity of the sacrifice (which is single) is Agni and Soma. So also in this offering of the self, the deity to whom the offering is intended is both (_Bhagavān_ and _Lakṣmī_). In order to reveal this, it was said “Being _śeṣī_ is single and it rests with two". When we consider the [^86] text[^87]
 
+[^86]:
+Kaṭha text: By the letter a is denoted _Viṣṇu_, the ruler of all the worlds, and _Lakṣmī_ who is supported by _Viṣṇu_ is denoted by the letter u; the m indicates that the _jīva_ is their servant. This is the definition of _praṇava_.
+
+
 in the Kaṭha _śruti_, it becomes clear from the words themselves that the self is _śeṣa_ to both. To be _śeṣa_ is to serve the purposes of another without the primary desire to gain something for oneself.
+
+[^87]:
+vide page _______
+
 
 
 
@@ -6159,6 +7218,10 @@ The third letter m (in _aum_) denotes, primarily, the _jīva_ but means also by 
 From these it is evident that the jivātma is different (both) from the twenty-four reals which have the defects of inertness and non-sentience and from the twenty-sixth Real, (namely, _Iśvara_) who is the (ultimate) cause of everything, the Saviour of all and the seshi of all and who is indicated by the first letter (in _aum_),
 
 In the Tiru_mantra_, the words, and Nāra (in Nārāyaṇa), refer only to the attributes, namely, the _jīva_ (and matter) as determinate words ( Niṣkarṣaka words)[^88] and do not refer to the Supreme Self within the _jīva_ (and matter).
+
+[^88]:
+According to Viśiṣṭādvaita doctrine, many words are indeterminate in meaning; for example go or cow may mean the body of the cow, or the soul of the cow or the Supreme Self within the cow as its Antaryāmi; some words are determinate in meaning, for instance 'cowness' ( gotvam ) which refers only to the jāti (genus) 'cow' of the cow. The m (in _aum_) refers to the _jīva_ and not to the Supreme Self).
+
 
 If we examine the grammatical form of this letter (m), it is found to have been derived from the root mana meaning 'to know' and other such roots (mas - meaning 'measure ') and it denotes the jīvātmā who is atomic and who is of the essential nature (_svarūpa_) of _jñāna_ and (at the same time) possessed of the attribute, _jñāna_. This is in accordance with the _Brahma_ _Sūtra_ (2-3-19), which says " The jīvātmā is a knower (i.e.) he possesses the attribute 'knowledge' (and is not merely _jñāna_ or knowledge as the Advaitins contend) and this is from the śruti itself".
 
@@ -6210,7 +7273,15 @@ If it is asked “What is it that is not mine (na mama)?", the answer is found s
 
 "I do not belong to myself". In the chapter on [^89] anush_aṅga_(The Context) it is evident that the meaning indicated by the context (anush_aṅga_) is more appropriate than the meaning arrived at by the insertion of a new word (adhyāhara).- Here na mama _aham_ "I am not mine" specifies that I am not mine. As the middle letter (in _praṇava_ ) namely only, has already stated that I exist only for _Iśvara_, which negates _śeṣa_tva to others, this specification in _namas_ indicates that in others oneself is also included. By the principle illustrated in  go-balīvarda[^90]
 
+[^89]:
+Namas. Advaitins might say that the ma is in the ablative or fifth case meaning "than I" (There is nothing other than I) and if we consider that the word kinchit is understood and insert it, ‘na ma' may mean "There is nothing else other than l". Here the word kinchit has to be understood (adhyāhara) which is not so appropriate, as anuṣ_aṅga_
+
+
 (The specification is to show the negation of oneself in special as not having been included in the ‘others' stated in the middle letter).
+
+[^90]:
+Though the Sanskrit word Go[गो] would include "bull" yet the phrase go and bull is often used to emphasise bull and draw special attention to it.
+
 
 
 
@@ -6316,6 +7387,10 @@ I. STHULĀRTHA :
 
 "I will tell you its accessories or _aṅga_s in their perfection : Listen. "The _prapatti_ that I perform to _Bhagavān_, the Supreme Being, is itself my eternal fruit. I desire no other fruit." To have this (thought) is the best of accessories (_aṅga_s). The desire for (other) fruit or gain is opposed to this _aṅga_. _Ākiñcanya_ or being destitute is the condition of being without the knowledge or the ability to perform _bhakti_ . This state of destitution is due to false notions (vāsanas) that have been persisting in the mind from beginningless time and to the man's being by nature without independence. It is due also to the mind being covered by the impurities of desire and hatred (rāga and dvesha). The external manifestation of this teeling of helplessness is called kārparyam and it is the second _aṅga_. The thought that one is independent and could act of one's own accord is opposed to this. The third _aṅga_ is the thought that, though _Bhagavān_ is the Supreme Being, He is merciful to all creatures and is ever bent on showing His grace to them. This is called mahavis'vāsa or intense faith and the thought that _Bhagavān_ will reward or pupish according to one's _karma_  and will (therefore) be indifferent towards one-this thought is opposed to intense faith. The fourth _aṅga_ is the thought that _Bhagavān_ is all-powerful and can protect us and the prayer (resulting from it) for protection. This would arise if we give up the thought that _Bhagavān_, though merciful, is wanting in the ability to protect us. The obstacle to this _aṅga_ is the thought that He would be indifferent to us as He is without the quality of goodness. The fifth _aṅga_ is called the avoidance of what is disagreeable (to _Bhagavān_). It consists in avoiding actions which would be against the will of the Master, The obstacle to this is doiog what is for bidden in the śāstras. The sixth _aṅga_ is the determination to do good to all creatures in as much as all creatures-both those that move and those that do not move--are His body. Doing what is harmful to them is opposed to this. Thus have I explained to you namana (or s'aranāgati) which consists of the _aṅga_s and the upāngas[^91] which mean avoiding what is opposed to them. This is the gross (_sthūla_) meaniog of the word _namas_.
 
+[^91]:
+_Aṅga_s are accessorics, up_aṅga_s are those that are accessories to _aṅga_s: here the avoidance of what is opposed to the respective _aṅga_s.
+
+
 
 
 II. THE SUBTLE MEANING - SUKSHMĀRTHA:
@@ -6385,6 +7460,10 @@ This word, Nārāyaṇa, which is of great help in showing clearly the two _tatt
 
 
 In the Nārāyaṇānuvāka which aims at determining the person of the Supreme Deity, who is the object of meditation in all vidyās, the word Nārāyaṇa is repeated many times, thus showing great regard, for the purpose of declaring that _Brahma_, Siva and others, who might, on first thought, be considered as the Supreme Deity, on the strength of the presence of their names in. the _vidyā_s are only the vibhūtis (or glorious possessions) of Nārāyaṇa just like the universe (which attests His glory). This it does by stating them in *grammatical co-ordination or apposition with Nārāyaṇa (sāmānādhikaraṇyam)[^92] .
+
+[^92]:
+Grammatical co-ordination: The following sentences in the Nārāyaṇānuvaka are referred to here: “ This universe is all the deity Nārāyaṇa: He is the inner self of the universe: Nārāyaṇa is the Supreme Jyotis (Light): The Supreme Being is Nārāyaṇa: Nārāyaṇa is the Supreme _Brahman_: Nārāyaṇa is the Supreme Tattva (Reality)....... He is _Brahma_: He is Siva: He is Indra : He is Akshara and He is the Supreme Independent Sovereign Ruler".
+
 
 
 
@@ -6527,6 +7606,10 @@ UPON WITH REFERENCE TO TIRU_MANTRA_:
 
 
 When we reflect in accordance with the _pramāṇa_s, on the essential nature of the Supreme Being, who is the deity indicated by this (_mantra_) in all the forms which are explicitly stated and which are also implicit in this _mantra_, we should reflect on the following qualities of His in principal and on other excellent traits connected with them:- such qualities as His being the protector : His protectorship being the result of His very nature: His protectorship extending to all, the many ways of His protection, correspondiog to the nature of the thing to be protected, His being the protector at all times, His being the protector in all places, His protection being of all kinds, His protection being directed by His own interest, the omniscience so essential for a protector, His omnipotence, the protection being irrevocable by any except His own will, the irresistibility by others of His protection, His supreme mercy, His expecting an occasion for protection, His requiring from the _jīva_ just a pretext or _vyāja_ for extending His protection, His accessibility to all those who have sought His help. His nature being such as may ever be relied on (for succour), His having as His attribute (_Lakṣmī_) who will recommend the pardon of those who have committed offences (17), His being the _śeṣī_, His beiug the Seshī under all conditions and at all times and to all, His freedom from being _śeṣa_ to any one else, His being the _śeṣī_ to those who admire His attributes and qualities, His being the _śeṣī_ in association with His consort, His being without equals or superiors, His being worthy of the surrenderiog of the self as an offering (_havis_), His being different from non-sentient matter, from souls in bondage, from souls in _mukti_ and from the eternal sūris (_nitya_s), His being the cause of others being _śeṣī_s in relation to certain things (28), His being an independent doer, His being capable of inspiring _jīva_s with such qualities as knowing, His being the inspirer of all activities, His not being inspired by any one else, His permitting of what is being done, His being the witness of all karmas or rites done, His co-operation (in _karma_ s), His inducing those who have sought succour to do what is pleasing (to Him), His inducing them to do what is beneficial (to themselves), His being the unconditional object of worship, His readiness to be at the disposal of others (when they have done the right thing), His being the _Siddhopāya_ ever ready to redeem (the jita), His being the cause of the _jīva_ adopting the sādhyopaya (_bhakti_  or _prapatti_), His commands being expressed in the _śruti_s aod _smṛti_s, His being the ruler who punishes (the evil doer), His equal treatinent of all, His being sympathetic to those who seek His help, His being the cause of _avidyā_ and the like, His being incapable of a_vidyā_ and the like (_karma_ ), His readiness to dispel a_vidyā_ (ignorance) of those who have sought His protection (48), His being free from any change in His essential nature, His being free from any change in His character or qualities, His readiness to lead all (the _jīva_s) to the attainment of Himself, the creation maintenance and destrnction of the world being His līlā or sportive activity (52), His being the principal subject of all Vedanta (Upaniṣads), His being the material cause of everything, His being the instrumental cause of everything, the irresistibility of His will, His having all (beings and things) as His body, His being denoted by all words, His adoration being performed by deans of all _karma_ s, His being the grantor of the fruits of all _karma_ s, His being the kinsman to the _jīva_ in every form, His universal pervasiveness, His unsurpassed subtleness, His being the support of everything. His being His own support, His being of the nature of satya, His being of the nature of _jñāna_, His infiniteness, His being of the nature of bliss, His being pure (and spotless) His possession of countless and unnamed attributes in His essential nature which has been defined by certain specific attributes like satyam, _jñāna_m, ānantam, anandam, amalatvam, His having an eternal, divine and auspicious form, His having states like _Para_ (the supreme) _Vyūha_ and others, His incarnations being satya, (facts of history), His possession of His own svabhāva or nature even in the state of incarnation, His incarnations being free from the touch of _prakṛti_ or matter, His incarnations not being the result of _karma_ , His incarnations having no fixed or appointed time of occurrence, His incarnations being the overflow of multi. tudes of qualities which are to serve the purposes of those who seek succour (from Him), His being pure and fit for contemplation in all states, His having _Lakṣmī_ as His companion in all states, His possession of divine ornaments, weapons, queen, abode, attendants, furniture, door-keepers, retinue, and the like (81), tha power which He has of causing the separation of the gross body from the self, His being the resting place of the _jīva_s for repose, His dispensation of special favours to all _jīva_s at that time, His lighting up of the opening of the _Brahma_ Nadi for the entrance of the self, His enabling the self to enter it, His being the cause of the emergence of the self out of the opening of the _Brahma_ nādi, the appointment by Him of Archis and other escort for the self, His leading the self through the gateway of the sun, His being the Cause of the self emerging out of the sphere (anda) of the material universe, His leading the self to the bank of the river Viraja, His being the cause of the separation of the subtle body from the self, His granting, to the self, of a transcendental (non-material) body, His being the cause of the self being welcomed and honoured by the divine Apsarases, His causing the self to enter the Brahmic fragrance and the like, His being the cause of the self being welcomed and honoured by the eternal süris and the released souls (muktas), the regard shown by Him up to the time when the self rises to the couch, His being the cause of the self enjoying perfect blies, His being the principal goal of attainment, His being responsible for all kinds of service rendered with the body, without the body[^93] and with more bodies than one, His possession of all objects of desire, His enjoyment of unsurpassed bliss, His being an object of upsurpassed enjoyment, His being an object of enjoyment in all forms, His being favourable, by His very nature, at all times, His bestowal to the self of bliss perfectly similar to His own, His inability to endure separation from thuse who seek succour from Him, and his being the cause of the self never returning to samsára. (108).
+
+[^93]:
+Service without the body: Perhaps this should be taken to mean anubhava or experience.]
+
 
 
 
@@ -6688,9 +7771,17 @@ Here in the dative or fourth case ( in the word Nārāyaṇāya ), although the 
 
 " Whether it is said, "I beg for service which would please Thee" or " Thou shouldst find delight in having my service" - in either case, both are gainers". (This is the idea). It has been said:-" Food is of two kinds, that which has three qualities and that which has six qualities: That which has three qualities[^94] is for those bound by _karma_ ; the other is for others". Here the food with six qualities is the enjoyment of the (six) qualities of _Bhagavān_ and also the different kinds of service which result from them and which are most enjoyable.
 
+[^94]:
+That which has three qualities : material objects of enjoyment having sattvam, rajas and tamas.
+
+
 
 
 (In the _Brahma_ Sūtras) it is said that since the _śruti_s indicate that there would be perfect resemblance or equality (bhoga mātra sāmya) only in regard to enjoyment between _Brahman_ and the _mukta_, the perfect equality is only in enjoyment and in _jñāna_ or knowledge. Therefore there is nothing (in the _śruti_s or the sūtras) opposed to the _mukta_ being a _śeṣa_ (to _Bhagavān_) which pertains to his essential nature (_svarūpa_) and, as a result thereof, rendering service (_kaiṅkarya_) to Him. It has been explained in _Śrī_ _Bhāṣya_ and elsewhere that when, in the state of aspiring to _mukti_ and in the state of _mukti_, the _jīva_ meditates on his being _Brahman_, what is meant is that this contemplation is only in virtue of the self or _jīva_ being the body of _Bhagavān_. Therefore this notion of "I am _Brahman_" is indeed the result of the body (here the self or _jīva_) being dependent on the inner self (_Bhagavān_ ) and existing only for the fulfilment of His purposes. (Therefore there is no impropriety in the self being _śeṣa_ to _Bhagavān_ even in the state of _mukti_ ). The service that is rendered in the state of release or _mukti_ comes from the very nature of the self: it is free from the pairs of opposites[^95] , constant and un-intermittent, and produces unlimited delight. In the state of aspiration to _mukti_ (_mumukṣu_) the service that is rendered for its own sake is due to the circumstance or upadhi of some good _karma_  done in the past; it has to endure the pairs of opposites (dvandva ) such as heat and cold and pleasare and pain; it is interrupted by sleep and other such (hindrances) and the delight arising therefrom is limited.
+
+[^95]:
+pairs of opposites like pleasure and pain, heat and cold etc.
+
 
 
 
@@ -6741,6 +7832,10 @@ From the passages quoted above, it would appear also that just  when the hindran
 
 
 But it may be asked: "In a [^96] system of thought which holds that the non-existence (of a thing) means the presence of some other thing, the removal of hindrances should, by itself, be the attainment of what is desired. Hence will not the separate prayer for it be redundant? Besides has not the author of _Śrī_ _Bhāṣya_ declared: “The disappearance of _avidyā_ (literally, ignorance; _karma_  ) is itself _mokṣa_"?
+
+[^96]:
+Vísishtadvaitins hold that the non-existence (of a thing) is simply the existence of some other thing and not a category apart. For example, when we say, "There is no pot on the floor', the non-existence of the pot is merely the existence of the floor. Tarkikas hold, on the other hand, that non-existence or the absence of a thing (abhava) should be considered as a separate category.
+
 
 
 
@@ -6861,6 +7956,10 @@ EXPLANATION OF TAMIL VERSE:
 
 
 To those great and wise men who meditate on the sacred _aṣṭākṣara_, which treats of the Supreme Ruler, who is the (ultimate) cause of all and who is opposed to everything of the nature of blemish and is, at the sametime, the abɔde of all auspicious qualities -(to these great men) whatever is desired by them among the spiritual virtues, the eight forms of wealth and the like is never beyond their reach. The 'eight-bodied' means Rudra who obtained the boon of having eight bodies, namely, the five elements (bhutas-earth, water, fire, air and ether or space), the moon and the sun and the man who performs a yajna or sacrifice; the eight-eyed refers to _Brahma_ who has eight eyes because of his four faces; the eight quarters; the eight guardians of the eight quarters such as lndra, the eight _prakṛti_s are the eight _tattva_s or reals like avyakta, mahat and ahañkāra, the eight great mountains means the eight chief mountain ranges[^97] ; 'who created these means the Supreme Being possessed of eight qualities who created all these; His eight qualities are being (1) without subjection to _karma_ , (2) without old age, or (3) death, or (1) grief, (5) or hunger or, (6) thirst, (7) the possession of eternal objects of enjoyment and (8) omnipotence or the ability to accomplish whatever He desires ; to those wise men possessed of wisdom with its eight _aṅga_s who meditate on the _mantra_' means to those enlightened men who are possessed of understanding with its eight _aṅga_s and who meditate on the sacred _aṣṭākṣara_ which is the chief _mantra_ among those that treat of _Bhagavān_.' The eight _aṅga_s of wisdom are " quickness of grasp, retention of what is learnt, remembrance, the ability to explain, inference, modification of what has been stated (to adapt it to new situations), reason, the knowledge of Truth - these are the eight qualities of understanding ". The eight great flowers are the following :-"Non-Violence (_ahimsā_) is the first flower, control of the senses is (another) flower: then comes the flower called compassion to all creatures, then the flower of forgiveness in special, then the flower of knowledge, the flower of tapas and so also the flower of contemplation (_dhyāna_) and the flower of truth these eight kinds of fiowers are most pleasing to _Viṣṇu_, The eight siddhis are inference, the knowledge of words, learning Vedanta, freedom from the three kinds of suffering; that in the body brought about by animals, and that due to the (anger of the ) gods, like storm and lightning. the possession of friends and charity. The eight forms of devotion are the following :- Love to God's devotees without an eye to their faults, delight in the worship offered to Him by others, an eagerness to listen to stories concerning _Bhagavān_, changes in the voice and the body and tears in the eyes while listening to them, efforts to worship _Bhagavān_, freedom from hypocrisy in one's relations towards God, constant meditation on God, and freedom from the expectation of rewards from God. The eight _aṅga_s of _yoga_ are yama, _niyama_ and the rest (_āsana_, _prāṇāyāma_, _pratyāhāra_, _dhyāna_, _dhāraṇa_ and _samādhi_); the eight forms of wealth are:- the power to contract one's body to a much smaller size, the power to make one's body assume larger dimensions, the power to make oneself light (of weigbt), the power to make oneself heavy, perfect control over oneself, control over others, the attainment of whatever is desired, and success by merely desiring it.
+
+[^97]:
+They are Himavān, Vishada, Vindhya, Mālyavān, Pāriyātraka. Mandara. Malaya and Meru.
+
 
 
 
@@ -7095,6 +8194,10 @@ The second objection is as follows:-“If _Śrī_ is separable from Nārāyaṇa
 
 These (two) objections are unsound for the following reasons - The existence of the suffix does not, by itself, determine whether there is inseparable connection or no. For example: By the principle enunciated in _Brahma_ _Sūtra_s 2 – 3-.29, " The _jīva_ is called _jñāna_ because the attribute _jñāna_ or knowledge is an essential and distinctive quality of the _jīva_, in the same way as _Brahman_ is called _Ānanda_ (bliss), because _Ānanda_ is an essential and distinctive quality of _Brahman_." Here there is inseparable connection between the _jīva_ and _jñāna_ and the two are put in apposition with each other, whereas usage such as the _jīva_ is one having _jñāna_ (Jñānavān) is also frequently found. That is, though there is inseparable connection between the _jīva_ and _jñāna_, the suffix _matup_ is attached to _jñāna_, as in dandi, where the connection is separable. It is clear from this that the existence or non-existence of the suffix _matup_ does not, of itself, afford evidence about the separability or inseparability of connection[^98] .
 
+[^98]:
+_Śrīman_, jñānavān, daṇḍi have also the suffix _matup_ though in different variations).
+
+
 
 
 
@@ -7128,6 +8231,10 @@ Though the word 'Nārāyaṇa' used here (in _Dvaya_) has, for its purport, all 
 
 
 Of these vātsālya or affection is the tenderness which accepts a man for protection ignoring his offences, as in the _śloka_ : "I will never ignore one who comes to me like a friend, even if there be faults in him. This will not be censured by the good ". It is (a quality) needed for not avoiding Him on account of one's offences. Swamitva or the attribute of being the master is the special kind of association existing between _Bhagavān_ and the _jīva_, which is disclosed in the _praṇava_ and the like. This is necessary to inspire confidence that He will protect (us) for His owo glory. Sausīlya, or good nature, is shown in His intimate companionship with such people of low birth as huntsmen, monkeys and cow-herds in spite of His superiority to all beings. This (quality) is necessary for inspiring confidence which would not make one despair saying : " Where is He who is the Master of all and who is armed with the discus and where am I"? but which would encourage one to expect Him to render even such service as driving the chariot and conveying a message. Soulabhya or easy accessibility consists in 'His being within the range of the eyes of all men' even though He is beyond the reach of even such great yogis as Sanaka and Sanandana. This (qualiiy) is necessary in order that we may not give up the longing for Him owing to a notion that He is too difficult of approach. Omniscience consists in His seeing all things, as stated in such _śloka_s as the following: "There is nothing in any of the three worlds that is not known to Thee", and "I bow to _Bhagavān_ who, by His very nature, sees all things at the same time". This is necessary for the thought that there is nothing unknown to Him among the good things to be given to those who have sought His protection and among the hindrances to be removed from them. Omnipotence consists in the ability to accomplish what cannot be accomplished (by others). This is necessary to give us the assurance that, though we are now in _samsāra_ (or bondage of births and deaths ), He can make us enter the assembly of the eternal suuis, Satyasankalpatva means that His will or purpose can never be thwarted even by Himself. This is necessary for the confidence that we shonld have that the words: “I will release you from all sins", will never prove futile. Supreme compassion is the desire to remove the suffering of others without any thought of one's own interests. This is necessary for the knowledge that He will pardon on some pretext (_vyāja_) even those who have committed innumerable offences, as in the _śloka_s : "I will never give up the man who seeks me in the manner of a friend, even though he has faults", and "Fetch him, O Sugrīva, best of monkeys, whether he be Vibhishana or even Ravana himself. I promise security to him". Gratitude consists in looking upon even trivial acts of kindness with the greatest regard, as if they were supreme deeds of helpfulness and never forgetting them. (lnstances of this) may be seen in such _śloka_s as the following: "Since _Śrī_ Rāma is large-hearted, he does not remember even hundreds of offences committed by others against him. He delights (on the other hand) on even a single act of help :', and "That cry for help uttered aloud by Draupadi even from a distance calling me "Govinda!”-that cry is never away from my mind like a debt that has increased with the interest accumulated on it". This quality makes one say to oneself: “If He sees anything of worth done by me within the limits of my ability, He will never forsake ine". Firmness is the quality of persistence in protecting suppliants. This is necessary to inspire the faith that He will never forsake us, even though others who are very intimate with Him try to dissuade Him, as (when _Śrī_ Rāma said):-"I will never give up the man who comes to me in the manner of a friend". Paripurnatvam (perfection or fullness) consists in (His) having all objects that are desired or desirable. This is necessary to make us endeavour to serve Him in the way that is within our limited power, with the knowledge that is what we offer to him (upahara), He will consider only the fervour of emotion or feeling and not measure its worth or value. This may be seen in the following words (of the Lord): "Though what is offered to me by my devotees is atornic, it appears very great to me owing to their love. What is offered to me by those wanting in devotion, however great it might be, never gives me delight". " Whatever is given to me with love, be it only such trivial things as a leaf, a flower, a fruit or even (mere) water, I eat it, because it is given with devotion by one who is devout”. Supreme generosity is the liberality in making gifts which makes a person feel that he has not done enough, even when he has given all that he possesses without any thought of the slightness of the endeavour on the part of the person benefited, the greatness of the benefit conferred or the unworthiness of the beneficiary. This is a quality which induces men like Dadhibhāṇḍa[^99] and others to ask with importunity for the great benefits of spiritual life even for those who are connected with them, Thus such qualities in the Redeemer as are useful for seeking His protection and the manner in which they are useful should be borne in mind.
+
+[^99]:
+Dadhibhāṇḍa begged _Śrī_ Kṛṣṇa for spiritual benefits not only for himself but for those related to him
+
 
 In the state of practising the vidyās or forms of meditation (prescribed in the śrutis), only certain qualities (of _Brahman_) pertaining to that _vidyā_ are ineditated upon. Still in the state of enjoyment of the fruit of the meditation, the object of enjoyment is _Brahman_ with all his qualities. In the case of the word occurring in the second part of _Dvaya_, though all qualities may be present, since the aim is to attain Nārāyaṇa with such qualities as are essential for our service to Him whicb arise from His essential nature and from His qualities, the most inportant qualities to be understood are His being the _śeṣī_ and His being capable of affording (perfect) bliss.
 
@@ -7214,6 +8321,10 @@ It may be asked:--“When the omnipotent Lord becomes the _upāya_, where is the
 
 
 If, in spite of all this, it is held merely (on the ground of the (dual) _caraṇau_ (the two feet) that the association with _Śrī_ is mere Upalakṣaṇa[^100] and does not signify that _Śrī_ is also _upāya_, then the same thing would have to be said about His association with such things as qualities (and form). If it is held that since the word (_caraṇau_) is employed along with the word Nārāyaṇa stating that they are the _upāya_, the one who has the qualities and the form which are necessary for being the _upāya_ is the _upāya_, the same thing can be said also (of _Śrī_) here. Such being the case, if it is held that in case _Śrī_ is considered an attribute, it would be against (the Lord's) omnipotence, there would be the same irreconcilability with that onnipotence, in expectiog _Śrī_ to be the mediator (interceding on behalf of the _jīva_),
+
+[^100]:
+Upalakṣaṇa: a mere mark, token or sign to indicate Nārāyaṇa who is recognised by that mark. An Upalakṣaṇa is not an essential feature of the object in question,
+
 
 
 
@@ -7373,6 +8484,10 @@ Here, after the word _namas_, the verb has to be supplied so that it becomes na 
 
 Though this word _namas_ prays for the removal of all such hindrances as _avidyā_ (ignorance), _karma_ , the impressions and inclinations which have resulted therefrom (vāsanas), the ruchi or tastes and the association with _prakṛti_ or matter, yet it is considered (by some āchāryas) that, in accordance with the _śruti_[^101] which gives the etymological interpretation of this word (_namas_), the purport or ain here (in the second part of _Dvaya_) is the removal, in the state of attaining full and perfect service in _mukti_, of the weeds of one's being the doer by one's own will and of one's being the doer for one's own purposes and, likewise, of one's being the enjoyer by one's own will and of being the enjoyer solely for oneself. This weed or wrong notion is likely to arise because, in regard to the enjoyment of the fruit elsewhere (in _svarga_), the thought is present that the fruit was won by one by one's own actions and is enjoyed by one for oneself. From this it would follow that the man performing _prapatti_ understands that, in regard to the service in the state of _mukti_, there are no such wrong notions as one's being the doer and the enjoyer by one's owo will and for the sake of oneself-notions which are present in the state of enjoyment of other fruits (like those in _svarga_). Having understood this, the man performing prapatli makes his prayer in conformity with this knowledge.
 
+[^101]:
+The Sruti says: Whatever actions may appear mine are the Lord's, not mine, They do not belong to me; they are the Lord's; I exist for the Lord and not for myself na mama ( not mine; not for me)
+
+
 
 
 Arulalapperumal emperumanar commented on the word _namas_ occurring here by the following _śloka_ :--- " The wise say that _namas_ means the state of being carefree without expecting any help (of being without any responsibility in regard to oneself) _nairapekṣya_m which results from the _jīva_'s surrendering all his burdens to the Supreme Being." The _nairapekṣya_m referred to in that _śloka_ is being carefree or having no expectation or requirements without the sense of responsibility in regard to one's salvation. From this freedom from responsibility, we should realise that either bharasamarpaņam is suggested here, (since there cannot be the state of being carefree without it) or that the surrender of the bhara to the extent of one's being carefree is intended. If we take the latter part of _Dvaya_ to be " Aham Śrīmate Narāyaņāya" . (I am for _Śrīman_ Nārāyaṇa ) and consider it to be the offering of the self along with the bhara or burden of protection, and that thereafter na mama declares one's having no connection with oneself, as, when an offering is made (to the gods), it is said “This is for Indra and not for me", if we take it in this forn, it will be extremely appropriate for this interpretation of the whole of _Dvaya_ being a statement of bharasamarpana. In this interpretation the first part of _Dvaya_ is about the file _aṅga_s or accessories, while the second part states the _aṅgī_, which is _prapatti_. When the offering or surrender is made saying: "I am for Nārāyaṇa' as in the s'loka "I who realise that I am Thy _śeṣa_ surrender myself here and now at Thy two lotus feet". --- (when this surrender is made), it would imply that the responsibility of one's protection and the fruit arising from one's protection are Nārāyaṇa's as stated in the following passages : "When the question arises to whom the surrender of the self is made for the sake of salvation or protection, the answer is given "To _Viṣṇu_", and "I am Thy  responsibility (bhara) (in regard to protection)". This _namas_ discloses the severance of all connection between a man and his self and what belongs to him and also between himself and his protection and the fruit resulting from it.
@@ -7439,7 +8554,15 @@ SANSKRIT _ŚLOKA_S :
 
 2. This (_mantra_) is understood as consisting of eight words (if _Śrīman_ Nārāyaṇa _caraṇau_ should be taken as three separate words ;) of six words (if that componnd word is taken as a single word); and as a single sentence with five words where the predicate is important[^102] .
 
+[^102]:
+With five words: (1) Prapadye; (2) śaraṇam: (3) Srīman Nārāyaṇa caraṇau (4) Śrīmate Nārāyaṇāya; (5) namah according to Sārāsvādinī.
+
+
 3. This uniqne _mantra_ (or this _mantra_ consisting of a single sentence) called _Dvaya_ has three members (sentences); it can help secure the fourth end of life (namely - _mokṣa_); it gives a clear idea of the five things that ought to be known; it explains the _upāya_ with six _aṅga_s (_prapatti_); its potency or greatness is similar to that of the seven oceans; it explains the meaning of ashtakshara, the _mantra_ with eight letters, and it produces here (in this world?) in _Śrī_r_aṅga_, in the minds of wise men[^103] (Like _Śrī_ _Rāmānuja_ the ninth rasa, namely, (Śānta or spiritual serenity).
+
+[^103]:
+There is a reference here to Sri Ramanuja's gadya.
+
 
 
 
@@ -7528,6 +8651,10 @@ SANSKRIT _ŚLOKA_:
 
 (1) _Śrī_ Kṛṣṇa, who stands close to the Upaniṣads and from whom, as from the boundless ocean of mercy, came of its own accord, the _śloka_ (_Carama_ _śloka_) which puts an end to the sorrows of all men, - by seeking Him as our refuge in[^104] accordance with the injunction (contained in that _śloka_), and as the eternal _dharma_ (_Siddhopāya_), we feel happy with our sins extinguished and free from (all) doubts and fears.
 
+[^104]:
+or by good luck (vidhinā).
+
+
 
 
 
@@ -7597,6 +8724,10 @@ The preposition pari (before tyaj) is to show the extreme aversion arising from 
 
 
 The object of this anuvāda[^105] (statement of what has already occurred) namely sarva dharmān _parityajya_ (which is not a _vidhi_ or injunction) is to indicate the person who is specially competent to adopt _prapatti_, The preposition _pari_ in _parityajya_ is to indicate the person who is most competent or has full competence. In the sentence:- "Having reached this world which is perishable and without pleasure, you should resort to me with devotion," having reached does not state a _vidhi_ or injunction meaning - "Reach this world". It only means 'Being in this world' or 'since you are in this world'. So also, here, the words _sarvadharmān parityajya_ do not mean give up all _dharma_s'. It should be taken to mean: "You that have given up all _dharma_s". Since this usage of having done a thing' (past participle) is met with in other senses also, it is not right to say that 'having given up all _dharma_s' or giving up all dharnas is one of the accessories enjoined for _prapatti_.
+
+[^105]:
+What is meant is not that the person should give up but that as he is unable to adopt other _dharma_s, he should seek the Lord as an _upāya_.
+
 
 
 
@@ -7792,6 +8923,10 @@ Thus if it is stated that the _dharma_s themselves in their essential forn shoul
 
 It is only those who have forgotten the episodes[^106] of Kakasura and the like that world maintain, as _aṅga_s of _prapatti_, these _dharma_s without the thought that they are _upāya_s and that the person is himself the doer of the action and its beneficiary (for the doership and the benetit are God's).
 
+[^106]:
+Kākāsura performed _prapatti_ (to _Śrī_ Rāma) without any of the rites due to _varṇa_ or _āśrama_.
+
+
 We have (also ) heard that, by a single performance alone of _prapatti_ far removed from any other _dharma_, the ancients obtained at once what they desired.
 
 If it is maintained that the _aṅga_s of _bhakti_ _yoga_ which might be presumed as necessary also for _prapatti_ are declared to be not necessary for _prapatti_ and as being no _aṅga_s to it, the potency of the _upāya_ (_prapatti_), which is equal in might to the _Brahma_ missile, becomes well established and the rendering of service and the like will also become appropriate.
@@ -7837,6 +8972,10 @@ Those who have not studied Vedanta might ask (in this connection:- Both these ad
 As stated in the following _śloka_s: "In all yajnas, it is I that am worshipped and it is also I myself that rewards (those who perforın them) with the fruits thereof," "It is Thou alone that assumest the forms of the Pitrs and the gods and receivest the offerings (_havis_) (made to the gods) and the offerings (kavya) made to the Manes in sraddhas" and "Those who propitiate the Pitṛs, the gods, the Brahmins and Agni--they propitiate only _Viṣṇu_ who is the inner self of all things"-as stated in these _śloka_s, it is only the Supreme Being, who is the inner self of all, that is the object of adoration to the wise man. Therefore to the man who performs _kaiṅkarya_ or service according to the _Śāstra_s with this knowledge, there is no association with other _upāya_s; there is no association for him with other objects or purposes in acquiring the necessary substances for worship and in eating the food offered (to these gods). Similarly there is no association for him with other deities whom, obeying the injunctions (contained in the s'astras, he worships the Supreme Being having, for His attributes, sentient beings and non-sentient things. It has been said, “ He who worships as the Supreme Being any deity other thun Nārāyaṇa who dwells in his heart, who controls him and is his Lord and Master--he is a sinner," " He who considers Nārāyaṇa as being (only) equal to other deities ---- he will stay in hell as long as the sun and the moon last”, and “One should not go near the places where Buddha, Rudra and the like are worshipped and so also near the cremation ground, near a corpse, near a forest and near the capital city of a kingdom." As stated (in these _śloka_s), it would be a sin for a paramaikantin if other deities are looked upon by him as the Supreme Being, if they are considered equal (to Nārāyaṇa) and if he goes to places where other deities are worshipped, when these deities have nothing to do with his _nitya_ and _naimittika_ rites and observances. Since these deities stand in the position of bodies to the Supreme Being who is the inner self of all and who is the object of adoration in these sites and observances (_nitya_ and _naimittika_), there is no thought in the mind of the man (with supreme and exclusive devotion to the Lord) of these deities being the Supreme Self, of their being equal to _Bhagavān_, of their being independent of the Lord, of their being objects of adoration or of their being the dispensers of the fruits of actions. Therefore in the same way as by Prana, Vaisvanara, and the three worlds which are the attributes of the Supreme Being in the _Vidyā_s or meditations called Vaisvanara _vidyā_ and the like. he is not affected, so also his exclusive devotion to the Lord is not (in the least) affected by such attributes as Agni (which are associated with these rites and observances, _nitya_ and _naimittika_).
 
 While proceeding to state the adoration of _Bhagavān_ to be performed by the _prapanna_ in the day and the night, V_aṅgī_puram Nambi has described the _dharma_s of the castes and the _āśrama_s with their respective _mantra_s (in the following passages) :-" (The _prapanna_) should spend his time by performing duly all the rites ordained for the time of the sandhyā, after sipping the water (achamana) with the prescribed _mantra_s; after this he should perform the homa to the sacrificial fires during the Agnihotra rites with the prescribed _mantra_s and with samit (fuel), ghee and other such substances. He should do every _karma_  at the time prescribed for them in the _śāstra_s". Then he says: "He should "perform, without being lazy, all the rites from the bath to _Brahma_ yajna prescribed in the Vedas for his āśrama as fit to be done at noon", He continues : "Then he should perform the prescribed yajna to the gods and to the pitṛs (Manes), after which he should eat the food offered to _Bhagavān_ (which act is called _anuyāga_)". Bhattar and Koorathalvan, too, in their respective _nitya_s, have stated as follows:-- " With the vertical mark (_ūrdhvapuṇḍra_) on his forehead, (he) should perform the rites ordained in the _śruti_s, and _smṛti_s as far as it lies in his power, with the thought that they form the adoration of the Supreme Being and then offer oblations of water (tarpaṇam)". Peria Jeer (Nanjeer) begins by performing obeisance with the words: "I seek the feet of Parāśara Bhattārya". By this he reminds us of the special tradition concerning the homage to be paid to _guru_s and the like. After this, he says “I will now describe the manner in which service should be rendered to the lotus feet of _Bhagavān_ every day by men with exclusive devotion to him (_ekāntins_)”. He then says " (The Ekāntin) should sprinkle water on himself by uttering the _mantra_ beginning with Āpohi and then sip water (āchamana) with the utterance of the _mantra_s which denote _Bhagavān_; after this he should offer arghya to the Supreme Being who is in the sphere of the sun and then perform japa, meditating on _Bhagavān_ with the _mantra_ of Gāyatri. After the japa, he should offer praise to _Puruṣottama_. Oblations of water (tarpana) should then be made to the gods, the rishis and the pitṛs (Manes, who have Narayaṇa as their inner self." We see also that, in all families which follow the tradition of the author of _Śrī_ _Bhāṣya_, until the present day, weddings and upanayanas (initiation with the sacred thread) have been performed in accordance with their respective (Gṛhya) sūtras, (Āpastamba and the like) with the respective _mantra_s denoting the respective deities. It is also well-known to all that the great _ācārya_s like Peria Nambi performed yajnas (sacrifices) and the like in accordance with their respective sūtras. Therefore in the case of those who follow the teaching of the author of _Śrī_ _Bhāṣya_, his disciples and their disciples, it is not proper to perforin any rites (like those of weddings) with the _mantra_s in certain samhitās following the doctrines of the Āgamas (Pāñcharātra)[^107] which are prescribed specially (to those who follow them).
+
+[^107]:
+Sātvatam : Padmam: Jayākhyam, etc. these are the āgama samhitās.
+
 
 
 
@@ -7902,6 +9041,14 @@ SANSKRIT _ŚLOKA_S:
 
 Observing the restrictions concerning food, residence[^108] (if the reading is ‘gṛha’) or receiving from the good _ācārya_ the _mantra_s prescribed for the person, money[^109] , caste and the like, one should render service to the Lord of _Lakṣmī_ in accordance with one's ability and with no other aim or purpose.
 
+[^108]:
+One should live near Bhagavatas:
+
+
+[^109]:
+Money should not be received as a gift from the unworthy,
+
+
 
 
 Just in the same way as a chaste wife looks after her auspicious thread, clothes and the like with the greatest care, the pra panna should preserve the path and manner prescribed in the _Śāstra_s for the service of the Lord.
@@ -7921,6 +9068,11 @@ That is the reason why, in the _Śāstra_s, _Dharma_vyadha Tuladhara, Sabari, Vi
 
 
 Their conduct, too, as described in the Itihasas, was only in accordance with their castes; if there was any exceptional[^110] circumstances (in their lives against the rules of their caste), it was due to the exceptional instructions or regulations. The _dharma_s or rites prescribed for a certain place, a certain period of time, a certain adhikārī and the like should not be adopted at a different place and a different time or by another adhikārī.
+
+[^110]:
+Vidura was cremated according to Brahma Medha rites because an aerial voice ordered it.
+
+
 
 
 
@@ -8168,6 +9320,10 @@ By the word _mām_ (me) which denotes the Saviour whose nature is indicated in s
 
 Since _Śrī_ _Rāmānuja_ has also written in his _Gadya_ "At [^111] the time of the death of the body, you will, by my grace alone, become wise and have a vision of me etc.," the primary importance of (the Lord's) compassion is indicated. Facing (Arjuna) with this primary quality so essential for protection and other attributes which are ancillary to it, _Śrī_ Kṛṣṇa referred to Himself as _mām_ (me).
 
+[^111]:
+Bhagavan's words to Sri Ramanuja
+
+
 
 
 THE MEANING OF EKAM IN THE _CARAMA_ _ŚLOKA_: page564
@@ -8186,6 +9342,14 @@ Taking into consideration the fact that _Sādhyopāya_ is a inere pretext or ges
 
 award _mokṣa_ to him. (4) If _prapatti_ were to consist in mere acceptance, it would then stand on the same footing as _upāsana_. There would be no difference between the _bhakta_ and the _prapanna_. (5) If _prapatti_ were to consist merely in being different from non-sentient things, it would be present even when the man acts against the will of God. This, certainly, could not be the cause of being saved or protected. (6) If _prapatti_ were to consist in the mere activity of the sentient being, not only upāsanas but other activities of the sentient being (like eating, breathing, etc.,) would lie the cause of salvation. There would then be no difference between _prapatti_ and all these activities. If it be said that _prapatti_ is what happens to a man of its own accord, there would then be no need for instructions (upadeśa') concerning it. (7) If it be said that _prapatti_ means serenity of mind without the purpose of obtaining any fruit, then it would vary with different individuals in accordance with their respective tastes. (8) If _prapatti_ were a mere attribute of the adhikāri (and not something to be done), the word vraja would be improper, for it lays down something to be done and there is no reference to any fruit or the desire for it (and the like). So it would not be proper to call _prapatti_ an attribute of the adhikārī[^112] . If it were possible to condemn (the performance of) _prapatti_ in these ways, although it is enjoined as something to be performed, it would be equally possible to condemn also upāsanas and the like in the same manner In that case, the attempt to distinguish _prapatti_ from upāsanas and the like (which was the reason for the argument) would fail. If it be said that though this _Siddhopāya_ (_Iśvara_ ) has accepted the responsibility of protecting one and is bent op granting the (desired) fruit, yet the man should consider that this acceptance is unnecessary, _prapatti_ would then be a case of meditating on what is not true (drishti _vidhi_)[^113] (and it would not lead to _mokṣa_ ).
 
+[^112]:
+“He who desires svarga should perform Jyotiṣṭoma". In this sentence, the adhikārī is seen to be one who desires a certain fruit, namely Svarga.
+
+
+[^113]:
+Drishti vidhi eg. "Imagine the mind to be Brahman and meditate on it". This kind of meditation would not lead to moksha.
+
+
 If it means the thought that the acceptance by _Iśvara_, too, is unnecessary, it would be opposed to the idea contained in the words of the Lord _śaraṇam vraja_ (seek me as the Saviour).
 
 
@@ -8203,6 +9367,10 @@ As stated (in the _Śaraṇāgati_ _Gadya_ " Thou that utterest the _Dvaya_ in s
 
 
 (It is true that) (in the _Rāmāyaṇa_) it is stated :- " Then Rāma," the slayer of his enemies, spread kuśa grass on the beach, had his arm shining like the body of a serpent for his pillow, folded his hands in añjali and lay down facing the east and expecting the arrival of the god of the ocean" and, likewise, in the story of _Brahma_datta in the episode of Saptavyādha, “The king was in great danger and sought with devotion Nārāyaṇa, the chief of the gods, the Saviour and the Ruler over all, as his _upāya_ with concentration of mind and fasting for six nights. The renowned king saw in his contemplation (_dhyāna_) the Lord Nārāyaṇa" But these ancillary rites that are described in the Rāmāyaṇa and Harivamśa) are not necessary for _prapatti_. In these two places, what is of importance is the ritual of sitting with the intention of starving onto death and therefore the ancillary actions described there are proper. The same explanation holds good in the case of namaskāra well performed. (There is no _prapatti_ in all these cases). But in _prapatti_, no other requisites are needed except such as the will to do what is pleasing to the Lord - such as are stated in the chapters on _Prapatti_. We do not find any ancillary rites except such requisites, at the time, as the will to do what is pleasing. in the following instances of those who performed _prapatti_ with only their being destitute of all _upāya_s for their sole wealth. (a) Draupadi, (b) Damayanti, (c) Rākṣasis, (d) Vibhishana, (e) Kshatrabandbu, (f) Muchukunda, (g) Gajendra, (h) the pāṇḍavas, (i) the gods, (j) Sumukha. (k) Triśanku, (1) Śunaśśepha, (m) Kirāta, (n) kāka, (o) Kapota[^114] and the like. We find that, by the instantaneous performance of mere _prapatti_ without any other requisites, the desired fruit was obtained) by each of these that sought protection in the same manner, even in _prapatti_ performed for the sake of _mokṣa_, there is nothing to prevent the attainment of the fruit at the desired time. This is the purport also of the words _mā s'uchah_ (Do not grieve).
+
+[^114]:
+(a) to Krishna at the time of the removal of her sari: (b) to the gods at the time of the Swayamvara: (c) Trijata to Sita: d) to Rama: e) to Bhagavan after Narada's advice (f) when the Lord appeared before him; (g) to Bhagavan; h) to Bhagavan (i to Bhagavan; (j) to Upendra in dread of garuda; (k) to Visvamitra; (1) to Visvamitra; (m) to the pigeon; (n) to Rama; (o) to Sibi
+
 
 
 
@@ -8324,6 +9492,10 @@ _CARAMA_-_ŚLOKA_: page576
 
 The meanings that have (already) been given to the word _ś'araṇam_ occurring in _Dvayam_ (on p. ) should be borne in mind in regard to the word _śaraṇam_ employed here in the _carama_-_śloka_. This prayer for refuge or _upāya_ (saranam though taught to Arjuna, should be considered applicable to all and this is evident from the[^115] Svetāsvatara Upaniṣad and from _Śrī_ _Rāmānuja_'s words in the (_Śaraṇāgati_) _Gadya_: "O Thou that art the Saviour of all beings in the world ignoring the differences that may exist among those that seek Thee". Similarly in such passages as the following :- “Those Brahmins who know the first part of the Veda and those people who understand the meaning of its latter part declare that the Supreme Being, _Śrī_ Kṛṣṇa, is the ever-existing _dharma_ or _upāya_ ", " The great and eminent Rishis say that Thou art the refuge and the Saviour of those that have sought Thy protection". "He is the "Yoga (_upāya_) and the one who leads those who know _bhakti_  _yoga_ to their goal". and "_Bhagavān_ whom the wise call the eternal means (_upāya_) and the goal of attainment" -- (in such passages ) also, since there is no limitation of meaning, it has to be understood that the Saviour is for all. The only requisite for seeking Him as the Saviour or Refuge is that the person should be destitute of any other refuge or protector.
 
+[^115]:
+VI chapter, 18: Desirous of mukti I seek refuge of HIM who created Brahma before and taught him the Vedas.
+
+
 
 
 THE MEANING OF THE WORD VRAJA: page577
@@ -8332,6 +9504,10 @@ THE MEANING OF THE WORD VRAJA: page577
 
 The word vraja also, like the word prapadye (in _Dvaya_ ) enjoins self-surrender with all its auxiliaries. In the word (prapadye in _Dvaya_), the first person is used, because it is the thought or meditation in the mind of the man who performs _prapatti_. Here (in the _caramaśloka_) it is in the second person, since the injunction is addressed to the man (Arjuna) who stands opposite to the Lord (i.e.) _Śrī_ Kṛṣṇa saying: "I am Thy disciple and (it is only fitting that) Thou shouldst order me to do what is right". Auxiliaries like the will to do what is pleasing to the Lord are also indicated here and may be found suggested in [^116] suitable words as in _Dvaya_, There is a ( well-known) principle which states: “When an action is enjoined in the _śāstra_, a single performance of it satisfies the requirements of the _Śāstra_". The _upāsana_ however, is an exception to this general rule because it requires frequent repetition. But _prapatti_ is no such exception (and hence a single performance will quite do ). This statement is confirmed also by such words as the following: -"To the man who performs _prapatti_ only once and says "I exist for Thee " - to that man I grant freedom from fear from all beings. This is my vow". To the man who performs _bharanyāsa_ (the surrender of responsibility) to the generous and omnipotent (Lord), there is no reason for delay in the attainment except his own desire. Therefore in the case of this _nyāsa_ _vidyā_, the peculiarity is that it arrests even the consequences of past _karma_ which have already begun to operate (prarabdha _karma_ ).
 
+[^116]:
+The will to do what is pleasing and to avoid what is displeasing in ‘mām’; being destitute of all means in ‘parityajya’ and intense faith, and the prayer for protection in ‘śaraṇam vraja’.
+
+
 
 
 In this connection some (commentators) ask "An action may be enjoined for performance only by a man who has freedom of will and action, How can an action be enjoined (in the word vraja) for performance by one who has been taught as being absolutely dependent (on the Lord) in the Vedanta and other _śāstra_s treating of the self and in such as the mool _mantra_? This (question) is the result of an inadequate understanding of what is meant by complete dependence on another the Lord). As determined in vedanta (_śāstra_s), “He (i.e.)the _jīva_ is the doer; otherwise the _śāstra_s which enjoin _dharma_s would have no purpose or meaning", and " The doership (of the _jīva_) is dependent on the Supreme Self, for the _śruti_ says so". Since the _jīva_ is an agent or doer subject to the will of _Bhagavān_, there is nothing to prevent an injunction asking him to do something.
@@ -8339,6 +9515,10 @@ In this connection some (commentators) ask "An action may be enjoined for perfor
 
 
 Just as non-sentient things (_acit_) like ether and fire bear the attributes respectively of sound and heat created by _Iśvara_, the _jīva_'s absolute dependence on _Iśvara_ consists in bearing this burden of free will (and responsibility) (granted to him by _Iśvara_). If it be maintained that he has no responsibility at all as a doer or agent, it would be like the heresies (siddhanta) which attribute doership (respectively) to _prakṛti_ and a_vidyā_ (Sankhya and Advaita). If (on the other hand) it be maintained that the _jīva_'s doership is dependent only on himself (and on nobody else), then since it would resemble the heresy which does not admit the existence of one who is in supreme control of all selves, it would be a form of atheism.  If it is held that the doership which comes from the will of the Lord is merely the state of being the knower, there would be no such thing as a desire for the ends of life (_puruṣārtha_) and the endeavour to attain them. It it be held that apart from the knowledge and the particular form of knowledge called desire, there is no such thing as effort (or mental activity), it would be impossible to adopt any means for securing objects that are t_aṅgī_ble or int_aṅgī_ble and for rendering service for its own sake . Therefore it has to be admitted that the self has these three (attributes):--knowledge, desire, and effort (knowing, feeling and willing). Among these (three), desire and effort are only different modifications or states of knowledge and this may be understood from the principle of logical economy [^117] adopted by _Śrī_ _Rāmānuja_ in his Vedārthasangraha.
+
+[^117]:
+Logical Economy:  Instead of saying that the fragrance of a flower is known to be or is experienced as agreeable and that this knowledge or experience gives rise to pleasure (or sukha ), we may, as well. say that the agreeable is itself pleasure and is therefore a form or state of knowledge.
+
 
 
 
@@ -8397,6 +9577,10 @@ SANSKRIT _ŚLOKA_ :
 The contention that like a potent medicine which is taken now acting like a cure for unwholesome things that may be done in the future, _prapatti_ will destroy any sins that might be committed after its performance - this contention is disproved by hundreds of texts in the _śruti_s and the stritis which are directly applicable to the _prapanna_ and are not sublated by other texts.
 
 In such _śloka_s as the following, Manu and others, too, prescribed the conditions under which transgressions may be permitted: " When there is a real fear that want of food might cause death, if a man eats food obtained from wherever it was possible, he will not be tainted by the sin thereof, in the same way as mire does not stain ether (ākās'a)" "At a time" when there is a fear that want of food might cause death, the man that eats the food obtained by him, whatever the source might be, will not be stained by the sin thereof, in the same way as water does not wet the leaf of the lotus." That this rule applies equally to the man who knows or meditates on _Brahman_ is seen stated in the _Sūtra_ which says, "At a time when death is feared ( owing to starvation ), the man (the man who meditates on _Brahman_) may eat any food, whatsoever, for the _śāstra_s say so ” and this is taught there with the help of an illustration[^118] . Therefore the view that the self is not a doer and that it is entirely dependent (on _Iśvara_) and hence will not be stained by any sins committed after _prapatti_ though they are deliberate and that no further _prapatti_ need be performed (for their expiation) - this view is opposed to our siddhanta (_Śrī_ _Rāmānuja_'s doctrine ).
+
+[^118]:
+ILLUSTRATION. Ushasti was a seer and when owing to starvation, he feared he might die, he ate the cooked grain given to him by a man of a low caste. But when this fear did not exist, he refused what was offered to him afterwards viz. water.
+
 
 In this context some ( commentators) explain the meaning of vraja otherwise ((i.e. that it does not enjoin any action) and state that to the aspirant to _mukti_, there is no _upāya_ to be adopted except the knowledge of relationship that is learnt from the sāstrās to exist between the _jīva_ and _Iśvara_. They find support for this view in the following _śloka_s without comprehending their real purport. The _śloka_s are:- "The self is the property of Bhagavan. He who considers his self as belonging to himself, is a thief of the self. Is there any form of sin that is not committed by him?" " Bhagavan controls all beings in the universe from within the sphere of the sun and He is the ruler over all. He is within your heart and if you have no quarrel with him, you need not go (on a pilgrimage) to the G_aṅga_ or to Kurukṣetra" and "Remember always that the Lord is the master, that the self or atma is His servant and that this relationship exists always by your very nature." This argument is opposed to the natural and self evident injunction for _bhakti_ , _prapatti_ and the like. Since listening to Vedanta and reflecting on it arise from mere desire, there is no need also to enjoin the knowledge (of relationship) which arises from the s'astras. ( There is no need for the _Śāstra_ to enjoin something which a man will do of his own accord). As is well known, it has been established (in _Śrī_ _Bhāṣya_) that if knowledge which need not be enjoined is called the means of attaining _mukti_, it would be opposed to the injunction ordaining certain things for performance and there would be other objections too; (the injunction made in the _śāstra_s would serve no purpose at all).
 
@@ -8644,6 +9828,9 @@ The objection (stated so far) is unsound for the following reasons:- " If all si
 
 with human beings, they may be said to be relatively immortal, for they live much longer. Or it may be explained as stating that _kaivalya_ will lead, in course of time, to _mukti_. In the same way should be explained the use of the word _mukti_ when it is intended to mean merely the attainment of the same abode or loka as that of [^f3] the vibhavas or vyuhas and also samipya and sārūpya.
 
+[^f3]: Note (2)
+
+
 
 
 It has been declared that real _mukti_ is different from the others in the (following) _śloka_:-"Some live  in the worlds of _Viṣṇu_. This is sālokyam (living in the same loka or world as _Viṣṇu_). Some reach near Him. This is sāmipyam (attaining a place near _Viṣṇu_). Some others attain a form resembling that of _Viṣṇu_. This is sārupyam (having a form resembling His). Others still attain sayujyam and it is this which goes by the name _mokṣa_". The sayujyam referred to here is going to Paramapada and enjoying the same bliss as that of _Bhagavān_ (and this alone is real and true _mukti_). That the experience of the mere disembodied self is not eternal and that it is not real _mokṣa_ are evident from these _śloka_s :- "There are four kinds of people who are mine and who are called my devotees. Among them, those who are exclusively attached to me (ekantins) are the best, for they worship no other deities. To these men who perform their duties and rites without any attachment or desire for their fruit. I am alone the goal. The other three virtuous kinds of bhaktas or devotees are said to be desirous of certain ends. All these (three) are liable to fall (from their high state) but the jnani (who is an _ekāntin_ attains _mokṣa_ " (Again it is said) : " Having  listened to this story, the man who has lost his wealth will become free from the sorrow due to it; the man (jijnasu) who wants to enjoy his disembodied self will attain _bhakti_  or devotion (to the Lord), the _bhakta_ or devotee will attain _mokṣa_". This amounts to stating that the jijnasuh spoken of in the Gita, who is desirous of experiencing his self, will, in course of time, become a jnani. It has been said :- “When the attachment to the pleasures of life ceases, the self, which is different from the body and which is happy, will become manifest. Without being caught (in this state) viz, kaivalya, if you want to realise that your essential nature consists in being _śeṣa_ to _Bhagavān_ and in being eternal, get hold of _Bhagavān_ and then give up the pleasures of worldly objects." In this (Tamil verse) the enjoyment of _Bhagavān_ is said to be eternal and the experience of the disembodied self, which is distinguished fronı it, is indirectly stated to be not eternal. (It is true that) the experience of the measureless self is described as imperishable or without changes like diminution or increase; - like the statement of the fruit of the rite called _cāturmāsya_ being imperishable; it only means that it will last for a very long time (i.e.) many and many a kalpa (and not that it is eternal). This locality where the self enjoys itself is thus described :-- " The place called the _amṛtam_ of yogis is the place to which those who want to enjoy their own self go." That this locality is not Paramapada is also evident from another siloka in the very same context: "Those who are yogins and who, being ekāntins, are constantly meditating on _Brahman_, reach that supreme abode which the eternal suris are gazing at. (It is clear from this, that the _ekāntin_ who is desirous of attaining _Bhagavān_ is here stated to go to a place other than that (to which the man who is desirous of enjoying his self would go) and that it is a place gazed at by the suris,
@@ -8656,6 +9843,9 @@ In such treatises as _Śrī_ _Bhāṣya_ (and Gitā_Bhāṣya_ ) it has been sta
 
 Therefore to those that meditate on their self according to the _Pañcāgni vidyā_, there is an intermediate result or experience consisting in the enjoyment of the mere self. However, according to the principle explained in the madhu _vidyā_, they will ultimately attain _Brahman_. If, however, the meditation is on the self either as associated with _prakṛti_ or matter or as disembodied or dissociated from matter, whether the self is meditated on in its essential nature (_svarūpa_) or as if it were _Brahman_, -- in all these four cases, as when name (nāma) and the like are meditated on as if they were (_Brahman_), there is neither the passage along the arcirādi route for the attainment of _Brahman_. This is declared in the following :-- Bādarāyana is of opinion that the Ativāhikās (escorts) lead those who do not meditate on pratikas (i.e.) parts or aspects (of _Brahman_). In either of the other alternatives, there is conflict (with the _śruti_s) and also with the principle of tat-kratu. In another context to prove that the being meditated on in that _vidyā_ is (not the _jīva_ (but) the Supreme Being or _Brahman_, the Sūtrakāra gives this as his reason for saying so: "Since the person who meditates according to this _vidyā_ is said to pass along the archirādi route.” This is done in the sūtra “since  mention[^f4] *  is made of the route meditated on by those who have listened to the Upaniṣads” (i.e.) to those who meditate on _Brahman_.
 
+[^f4]: Note (3)
+
+
 
 
 Therefore to those who do not attain _Brahman_, there should not have been the cancellation of all sins spoken of in the _carama_ _śloka_. To those whose sins have been pardoned or cancelled, there is no limitation in regard to the enjoyment of _Brahman_, Thus since in this _śloka_, the annulment of all sins is declared, (we have to understand that) even that particular _karma_  which resulted in the experience of the mere self and which stood as a hindrance to the fall and perfect enjoyment of _Brahman_ is annulled or cancelled. From this it would follow that what is stated in the previous _śloka_ namely, " 'Thou wilt attain myself” is declared in this _śloka_ also _mām eva eṣyasi_. "Thou wilt attain myself" means "the full and perfect enjoyment of _Brahman_'. In order that this perfect enjoyment may happen, the archirādi route has to be traversed and a particular region or locality has also to be reached.
@@ -8667,6 +9857,9 @@ It is clear from the _śāstra_s which speak of such things as this route that, 
 
 
 Before starting on the archirādi route, when a man understands the essential nature (_svarūpa_) of _Brahman_ with the help of the _śāstra_s and so also when he has a vision of _Brahman_ with the help of _yoga_ and when he reaches such worlds as those of *[^f5] _Vibhava_, the vision or realisation which he gets results from some specific good deeds and is dependent on the instruments of knowledge. Therefore this vision will be partial or limited and liable to interruption. But the vision that results in the state of _mukti_ is full and perfect, because there are no factors that limit or diminish the experience nor is it liable to any further interruption or break, As an Overflow (parivāha) of this enjoyment arises the perfect service or _kaiṅkarya_ in which the _śeṣī_ (the Lord) finds delight and this idea is expressed in the _śloka_: "Though you live for a hundred years, I will always be your servant. Therefore give me orders saying . " Do this in this beautiful place." Here all the successive stages of realisation (or fruit) which are stated (by _Śrī_ _Rāmānuja_ , in the (_Śaraṇāgati_) _Gadya_ in the sentence with the word pāramarthika are also implicitly suggested in accordance with the _pramāṇa_s.
+
+[^f5]: 1.
+
 
 
 
@@ -8713,6 +9906,9 @@ In this Bhagavadgītā, the _Gītācārya_, at first, imparts a knowledge of the
 
 
 In the first half of this _śloka_, since (the Lord) says to the man who is destitute of all other _upāya_s, "Take refuge under me alone," the man who is incapable (of making any endeavour) surrenders the responsibility of his protection) into the hands of One who has the ability. Further the independent and omnipotent _śeṣī_, who is compassionate, accepts the responsibility. Therefore (in the first half of the _śloka_), the _prapanna_ becomes free from all responsibility in regard to his own protection. And since the _śeṣī_, who is omnipotent and is ever truthful towards those who have sought His protection, has accepted the responsibility and is so gracious as to say .-"I will release you from all sins", there is absolutely no likelihood of any evils like hell ensuing in the future. Freedom from fear results from this _śloka_, as also freedom from all doubt, , because these are the glorious and true words of _Śrī_ *[^f6] Raṅganātha Himself, who is ever truthful.
+
+[^f6]::2.
+
 
 
 
@@ -8775,6 +9971,9 @@ Such statements as are made in the _śloka_s -- " The man who has performed _pra
 
 
 The freedom from grief that is stated here (in the _carama_ _śloka_) has no limiting factors. Therefore the causes of all forms of grief are stated here to be annulled for the man who has a knowledge of this _upāya_ and adopts it. By the teaching given here, mere knowledge (of the _upāya_) may exist without its adoption, but it would be of no use at all as stated in the _śloka_. "The song does not regulate (the actions of) the man though he may sing it very often. Creatures behave in accordance with their past impressions (vāsana) like the bird [^f7] *Kulinga', which, though it utters the words _mā sāhasam kuru_, (Do not behave rashly), continues to behave rashly". So in this _śloka_, it is implied that annulment of grief would be the fruit of a combination of both knowledge and action.
+
+[^f7]:.
+
 
 
 
@@ -8918,6 +10117,10 @@ SANSKRIT _ŚLOKA_:--
 
 The noble_ācārya_, who longs to attain the primaeval and heavenly abode of _Viṣṇu_, lights up the imperishable lamp of spiritual tradition (sampradaya) in some deserving disciple who has been tested in various and well-known ways and found fit (to receive the light). (He lights up this lamp) with true affection (sneha) when the disciple is in a state of mind (daśā) free from unworthy qualities (guṇa) like a well-tested and weil-burnished vessel with oil (sneha) poured into it and with a wick (daśā) made of pure threads (guṇa)[^119] .
 
+[^119]:
+The words guṇa. sneha and daśā have each two meanings respectively. 1. good qualities and thread 2. affection and oil; 3. state and wick.
+
+
 
 
 TO WHOM SHOULD) THE ĀCĀRYA IMPART
@@ -8990,6 +10193,10 @@ TAMIL VERSE:
 
 Those lamps (of spiritual wisdom) which lighted the threshold of a certain house (in Tirukkovalur), when, of old, the cow.herd (_Śrī_ Kṛṣṇa) who vouchsafed His grace (even) to cattle, came of His own accord and squeezed Himself among those three ancient singers (the first three ālvārs)[^120] -Those lamps lighted there (i,e. their songs) dispelled the darkness of the land and revealed the path indicated in the Upaniṣads which form the concluding part of the four Vedas.
 
+[^120]:
+Peyalvar, Poygai Alvar, Bhutattalvar.
+
+
 
 
 
@@ -9025,6 +10232,10 @@ SANSKRIT _ŚLOKA_ :
 
 
 The _ācārya_ who obeys the successive commands of (the Lord who is) the first  _ācārya_ regulates (the minds and actions of) his śiṣyas by methods of instruction which create[^121] in them noble qualities similar to those in himself and which are like irresistible waves of the celestial sea of his boundless compassion. By doing so, he saves not only the disciple but himself also under the guise of saving him.
+
+[^121]:
+_Guṇasaṅkramah_ may mean also “which create a path for the entrance of their noble qualities into their disciples"
+
 
 
 
@@ -9124,6 +10335,10 @@ THE IMPARTING OF INSTRUCTION SHOULD BE PRECEDED BY MEDITATION OF THE SUCCESSION 
 When the śiṣya hands over the great wealth of the truths contained in the gist of the three mysteries (_mantra_s) thus acquired by him(from his_ācārya_) to one who, as pointed out in an earlier chapter, has been found fit for it, he should impart instruction first on the succession of_ācārya_s and reveal also his gratitude (to them) and the sacredness of those truths. As an example are quoted the words of the _Brahma_rishi _Śrī_ Parāśara to _Bhagavān_ Maitreya:-- " _Brahma_, born of the lotus, the grandfather of all, first gave instruction to great sages like Daksha at their request, In that same way was the instruction imparted by them to King Purukutsa on the banks of the Narbada. He handed it over to Sarasvata and by Sarasvata was it imparted to me". When the
 
 man who imparts instruction in the mysteries of the science of the soul is without a tradition and teaches (merely) on the strength of his own reading of the books or of what he overheard from (a hiding place) behind a wall, he will, like one who wears stolen jewels. be ever in dread of those that see him. Moreover it may even become sinful, for it has been said :- "The _mantra_ which is learnt by mere chance by one in hiding, under some pretext or from books -- that _mantra_ will be of no avail; on the other hand, it may even cause evil". Even when a man has learnt from a _guru_ and then teaches, if he should learn and teach against the regulations enjoined for it, he would create disgust in the minds of onlookers like one who wears jewels made from the money given to him along with Kala[^122] *
+
+[^122]:
+Kala : When a man is dangerously ill and longs for recovery. he has the figure of a man (Kalapurusha) made with gingelly seeds, decks it with jewels and gives it to a poor man along with money. To receive such a gift is looked upon as a disgusting thing.
+
 
 
 
@@ -9272,6 +10487,10 @@ It has been said: "The _dharma_ followed by the good is too subtle, O monkey, to
 
 traverse it alone ?" and “The path leading to the house of Yama where there is no water for quenching the thirst, no staff for support, no shade to sit under, no house or lodge to rest in and which produces prolonged suffering." To one who follows the track of great men, there would be no such painful paths. They need not be tossed about to and fro like cotton cleaned of its seeds, combed, and carded before being spun and go up and come down, like the bucket in a picotah[‍?] , along the path of smoke (_dhūmādi_ route)[^123] described in the Pañcāgni _vidyā_ in the sixth chapter of Chāndogya upaniṣad,
 
+[^123]:
+Going up to _svarga_ and coming down to this world of _samsāra_ after the fruits of good deeds have been enjoyed there and repeating this process.
+
+
 
 
 It has been said :-- "O. Lord,' Thou playest, as with balls, with creatures bound by the strings of _karma_  and going up and coming down". To the man who follows the ways of great men, the state when he is thus a toy for the sport of _Bhagavān_ will soon pass away. He will then go along a path which is superior to the paths followed by others to attain high ends (like _svarga_), because it will lead to an end or goal greater than all others and will never result in a return to _samsāra_. It has been said:- "I know' that the path which will be trodden by the man who has exclusive devotion to _Bhagavān_ is far superior to others" and likewise, “He, ( the _jīva_ ) starts from the body by an excellent path, which is so cool as to remove the sufferings of _samsāra_." and further, "to those "who have practised _yoga_, (all) sufferings will cease and they will then journey by the _Deva yāna_ route," This excellent path will terminate in the region (Paramapada) described in the following _śloka_s -- " It is a 'splendid region on reaching which the self will become (itself), (i. e.) free from a_vidyā_ and consequently from suffering," " The abode of the Supreme Being, _Viṣṇu_, shines far more than the sun or the fire.
@@ -9331,6 +10550,10 @@ SANSKRIT _ŚLOKA_:
 
 
 Imbibe the nectar of spiritual tradition which has come down from the Udayana of Vedanta (Kidambi Achan)[^124] which is fragrant with the odours streaming forth from the kitchen of the prince of sannyasins (_Śrī_ _Rāmānuja_) and fit to be enjoyed by the assembly of learned men (also gods).
+
+[^124]:
+Kidambi Achan, the disciple of _Śrī_ _Rāmānuja_, was in charge of the kitchen during his _ācārya_'s life-time
+
 
 
 
@@ -9450,6 +10673,11 @@ TAMIL VERSE:
 
 I was so ignorant that I did not know even that eight and two make ten[^125] * ; Our Madhava who is eager to bestow on us Paramapada, which is most difficult of access, has taught me (through the ācāryas) the _mantra_ of eight syllables and the other two _mantra_s (_Dvaya_ and _Carama_ _śloka_). By His brilliant and noble speech saying: "I will see to the absolution of all your sids; Do not be afraid "-By these words I have attained the state of staunch faith,
 
+[^125]:
+it may mean also 'I did not know the _Dvaya_ (the two) nor did I know the _aṣṭākṣara_ (the eight )
+
+
+
 
 
 TAMIL VERSE:
@@ -9549,900 +10777,3 @@ Here ends the fourth part called " The path of Spiritual Tradition."
 
 
 
-
-
-[^f3]: Note (2)
-
-[^f4]: Note (3)
-
-[^f5]: 1.
-
-[^f6]::2.
-
-[^f7]:.
-
-[^f9]:Mahābhārata; Sabha Parva : 41-21.
-
-[^f10]: Viṣṇu  Purāṇa 5:1-14.
-
-[^f11]:Mahābhārata : Gandhari's words.
-
-[^f12]:  Alavandar's Stotram: 60
-
-[^f13]:Mahābhārata: Santi Parva :349-71
-
-[^f14]:  Viṣṇu  Purāṇa : 3:4--5.
-
-[^f15]:Mahābhārata: Adi Parva: 114-40
-
-[^f16]:Mahābhārata: Santi Parva: 359-68
-
-[^f17]:Mahābhārata : Bhishma Parva 66-39-40
-
-[^f18]:.Viṣṇu dharma :108--50
-
-[^f19]: Jayakhya Samhita..
-
-[^f20]: Perialwar: Tirumozhi 5.--2-8.
-
-[^f21]: Bhāgavatam XI, 5-38,39
-
-[^f22]: _Śeṣa_samhita: 14-50
-
-
-
-
-
-[^f25]: Gautama Dharma Sutra: 9.18
-
-[^f26]: (or the Upaniṣads )
-
-
-
-
-
-
-
-[^f29]:  A Sutra or aphorism in Purva Mimamsa says: “ That is called a _śeṣa_ which serves the purpose of another (and that other is called a _śeṣī_ ) (e. g.) In a sacrifice, the grains of rice are _śeṣa_ to the sacrifice which is _śeṣī_  because they serve the purpose of the sacrifice.*
-
-[^f30]: Linga Purāṇa
-
-[^f31]: Tiruvoymozhi : 4, 9, 10
-
-[^f32]: Srigunaratnakosa: 23
-
-[^f33]: Viṣṇu  Purāṇa: 6-7.10
-
-[^f34]: Viṣṇupurāṇa   : 2-13-98
-
-[^f35]: Nachiar Tirumozhi : 11 - 3
-
-[^f36]: _Mantra_rajapadastotram
-
-[^f37]: Alavandar: Stotram
-
-
-
-
-
-[^f38]: The word ‘others’ refers to_ vasana_s or impressions left in the mind in previous births, _ruchi_ or tastes and aptitudes and_ prakriti sambandha_ or association with matter.*
-
-[^f39]: Nāradīya Kalpa 1-9.
-
-[^f40]: Mahābhārata   : Udyoga Parva: 68-5.
-
-[^f41]: Bhagavadgītā: 16–24
-
-[^f42]: ( Alternative meaning): "what should be attained and what should be
-
-rejected ( see Tatparya Chandrika: Gita; XVI: 24)*
-
-[^f43]: Mahābhārata  : Santi Parva: 276-2
-
-[^f44]:  Uttara Gita: 3-10
-
-[^f45]: Mahābhārata   : Santi Parva 176-66.
-
-[^f46]: As befitting each of these two - By His _svarūpa_, He is the cause of their existence and continuance; this is because of being their support; by His Sankalpa or will also, He is the cause of their existence, continuance and activities; this is because of being their controller.*
-
-[^f47]: Vaikuṇṭha  sthavam: 36
-
-[^f48]: Mahābhārata  : Anusasanika parva 254-136.
-
-[^f49]: Srirangarajastavam: (Uttara Satakam) 87
-
-[^f50]: Rāmāyaṇa: Aranyakāṇḍa
-
-[^f51]: Nanmukhan Tiruvandadi: 7
-
-[^f52]: Lakṣmaṇa is a partial incarnation of Adisesha and Adisesha serves the Lord as His sandals. His bed, and so on. Therefore the sandals of Rama are, in a sense, the incarnation of Lakṣmaṇa.*
-
-[^f53]: _Dvayam_ may mean also the two (i.e.) _Dvayam_ and _Caramasloka_.*
-
-[^f54]: Harita samhita
-
-[^f55]: Lingapurāṇa
-
-[^f56]: Harivamsa: 113-62
-
-[^f57]: Rāmāyaṇa: Yuddhakāṇḍa 120-13,
-
-[^f58]: Rāmāyaṇa : Yuddha kāṇḍa 114-15
-
-[^f59]: Viṣṇu  purāṇa 1-18-17
-
-[^f60]: Rāmāyaṇa: Aranyakāṇḍa 15-6
-
-[^f61]:Rāmāyaṇa: Ayodhyakāṇḍa 31-2
-
-[^f62]: Rāmāyaṇa: Sundarakāṇḍa 58-87
-
-[^f63]: Rāmāyaṇa: Sundarakāṇḍa 58-90
-
-[^f64]: Rāmāyaṇa: Ayodhyakāṇḍa 31-27
-
-[^f65]: Alavandar: stotram
-
-[^f66]: Alavandar Stotram 46
-
-[^f67]: Alavandar: Chatusshloki:
-
-[^f68]: Alavandar: Atmasiddhi
-
-[^f69]: Rāmānuja: Vedantasara
-
-[^f70]: Rāmānuja: Vedantdeepa
-
-[^f71]: Rāmānuja: Śrī Bhāṣyam
-
-[^f72]: Rāmānuja Gita Bhashyam
-
-[^f73]: Mudal Tiruvandadi: 86
-
-[^f74]: Tiruvoymozhi: 4-9-10
-
-[^f75]: Tieuvoymozhi 6-9-3
-
-[^f76]: Tiruvoymozhi: 9-2-1
-
-[^f77]: Tiruvoymozhi: 9-2-3
-
-[^f78]: Tiruvoymozhi: 6-10-10
-
-[^f79]: Tiruvoymozhi: 1-1-2
-
-[^f80]: Peria Tirumozhi: 3-8-1
-
-[^f81]: Viṣṇupurāṇa:  1-22-53
-
-[^f82]: Viṣṇupurāṇa 6-5-85
-
-[^f83]: Rāmāyaṇa Balakāṇḍa 1-7
-
-[^f84]: Rāmāyaṇa Ayodhyakāṇḍa: 2-47
-
-[^f85]: Rāmāyaṇa: Balakāṇḍa: 1-20
-
-[^f86]: Rāmāyaṇa: Ayodhyakāṇḍa: 11-31
-
-[^f87]: Rāmāyaṇa: Ayodhyakāṇḍa: 2-47
-
-[^f88]: Rāmāyaṇa: Ayodhyakāṇḍa: 1-34
-
-[^f89]: Rāmāyaṇa: Ayodhyakāṇḍa: 2-26
-
-[^f90]: Ibid: 33-12
-
-[^f91]: Rāmāyaṇa: Sundarakāṇḍa: 21-20
-
-[^f92]: Rāmāyaṇa: Yuddhakāṇḍa: 121-18
-
-[^f93]: Rāmāyaṇa: Kishkindha kāṇḍa 15-19
-
-[^f94]: Viṣṇupurāṇa: 6-5-85
-
-[^f95]: Brahmapurāṇa
-
-[^f96]: Vamanapurāṇa 74-40
-
-[^f97]: Mahābhārata: Karnaparva: 83-15
-
-[^f98]:  ? ?
-
-[^f99]: ? ?
-
-[^f100]: Tiruvoymozhi: 8-1-8
-
-[^f101]: Tiruvoymozhi 1-1-1
-
-[^f102]: Viṣṇupurāṇa: 1-2 -1
-
-[^f103]: Paushkara Samhita
-
-[^f104]: Viṣṇupurāṇa: 6-7-70
-
-[^f105]: Viṣṇupurāṇa: 6-5-84
-
-[^f106]: Mahābhārata: Śāntiparva: 206-60
-
-[^f107]: Varāhapurāṇa: 31-40
-
-[^f108]: Mahābhārata: mausalaparva: 5-34
-
-[^f109]: Manu Smriti: 12-122
-
-[^f110]: Bhagavadgītā: 11-13
-
-[^f111]: Ibid: 11-15
-
-[^f112]: Rāmāyaṇa; Yuddhakāṇḍa: 114-25
-
-[^f113]: Viṣṇupurāṇam: 1-22-32
-
-[^f114]: Harda is an aprakrita form of the Lord present in the human heart, like the _arcā_ in temples.*
-
-[^f115]: Viṣṇupurāṇa:
-
-[^f116]: Viṣṇupurāṇa :5-1-50
-
-[^f117]: Bhagavadgītā: 10-40
-
-[^f118]: Alavandar Stotram: 17
-
-[^f119]: Brahmasutras: 1-1-2
-
-[^f120]: Mahābhārata: Śāntiparva: 206-58
-
-[^f121]: Viṣṇupurāṇa: 1-2-18
-
-[^f122]: Mahābhārata: Sabhaparva: 40-78
-
-[^f123]: Viṣṇudharma
-
-[^f124]: Brahmasutras: 2-1-33
-
-[^f125]: This summarises Prapya (i.c.) the object of attainment, viz. Brahman*
-
-[^f126]: Sri-gunaratnakosha: 27
-
-[^f127]: Tiruvoymozhi: 3-2-1
-
-[^f128]: Sri Rāmānuja: Periya Gadyam
-
-[^f129]: Tiruvoymozhi: 6-9-9
-
-[^f130]:  In the Chandogya upanishad VII chapter, it is stated as follows:- He who worships nama or names like rig veda, sama veda, _Itihāsa_ and purāṇa as if they were Brahman will realise only very limited fruits such as can be reached with these names".*
-
-[^f131]: The eight kinds of siddhi: Aṇimā (contraction of one's body to the size of an atom, mahima (assuming a huge form) Laghimā (making one's body light) Garimā (making the body heavy), vaśitvam (mastery over self), aiśvaryam (lordship) prāpti the power of obtaining whatever one wants and prākāmyam (perfect freedom of the will.)*
-
-[^f132]: Bhagavadgītā: 2-40
-
-[^f133]: Śrī Bhāṣya: 1-4-1
-
-[^f134]: Parama Samhita: 2
-
-[^f135]: Viṣṇupurāṇa: 1-2-26
-
-[^f136]: Viṣṇupurāṇa: 4-1-84
-
-[^f137]: _Pāñcarātra_
-
-[^f138]: Mahābhārata: Śāntiparva 196-9
-
-[^f139]: Viṣṇupurāṇa: 2-13-98
-
-[^f140]: ? ?
-
-[^f141]: Bhagavadgītā: 15-16
-
-[^f142]: Viṣṇupurāṇa: 1-6-39
-
-[^f143]: Viṣṇupurāṇa: 5-1-47
-
-[^f144]: Alavandar: Atmasiddhi and Rāmānuja’s Vaikuṇṭha gadyam.*
-
-[^f145]: The soul is of the nature of jñāna or knowledge (i.c.) its _svarūpa_ is knowledge. At the same time the soul has knowledge as an attribute and this jñāna or knowledge is called Dharma bhuta jñāna or attributive knowledge.*
-
-[^f146]: “ Instead of _śeṣī_  the author's use of the word seshitatva is to include Śrī or Lakṣmī  also as _śeṣī_ ". Chetlur commentary.  *
-
-[^f147]: According to Viśiṣṭādvaitins, the self or atma is, in its essential nature or _svarūpa_, knowledge. It also possesses jñāna or knowledge as its dharma or attribute." This knowledge is called dharma bhuta jñāna or attributive knowledge. (See foot-note before the previous note)*
-
-[^f148]: the passage which refers to the three kinds of achetana in Alavandar’s Atmasiddhi and Rāmānuja’s Vaikuṇṭhagadyam .)*
-
-[^f149]: Nyāya-tatvam: Mangala sloka
-
-[^f150]:  A pot is not luminous, because it becomes visible or is seen only when lighted up by the flame of a lamp. The flame of a lamp is luminous, because it does not require anything else to become visible.*
-
-[^f151]: Pāñcarātram
-
-[^f152]: Rāmāyaṇa: Yuddhakāṇḍa: 114-15
-
-[^f153]: Jitanta Stotram: 2-21
-
-[^f154]: Viṣṇupurāṇa: 2-7-25,26
-
-[^f155]: Peria Tirumozhi: 3-8-1
-
-[^f156]: Tiruvoymozhi: 1-1-2
-
-[^f157]: Tiruvoymozhi: 10-10-10
-
-[^f158]: Amalan Adi Peran: (Tiruppanalvar) 1
-
-[^f159]: Six Qualities or Gunas: 1. _jñāna_ ( Knowledge) . 2. Aiswarya Lord ship; unimpeded activity; activity based on independence 3. _Śakti_ (ability) potency to become the material cause of the world; also the power of bringing about what appears impossible of being brought about; 4. bala strength; absence of fatigue; sustaining power; 5. virya virility; changelessness in spite of being the material cause of the world; 6. tejas splendour, might, the power to overcome others.*
-
-[^f160]: Rangarajastavam: Uttara shatakam: 40
-
-[^f161]: This sloka cannot be understood without the account given in the Appendix.*
-
-[^f162]: Rangarajastavam: Uttarashatakam: 39
-
-[^f163]: _Pāñcarātra_
-
-[^f164]: Sātvatasamhita: 6-22 This is stated in the following passage: "He assumes a form similar to that of the image, enters into it, and remains there”.*
-
-[^f165]: Sātvatasamhita: 2-7-8
-
-[^f166]: Bhagavadgītā: IV 5
-
-[^f167]: Viṣṇudharma: 103-16
-
-[^f168]: Viṣṇupurāṇa: 1-22-53
-
-[^f169]: Without requiring any other authority to prove it. The different activities shared by Lakṣmī  and Her Lord are determined by their own will and not by difference in the nature of the two.*
-
-[^f170]: Viṣṇupurāṇa: 1-8-17
-
-[^f171]: Mahābhārata: Sabhaparva 39-5
-
-[^f172]: ‘‘शास्त्रज्ञानं बहुक्लेशं बुद्धेश्चलनकारणम् । उपदेशाद्धरिं बुद्ध्वा विरमेत्सर्वकर्मसु ॥*
-
-[^f173]:Mahābhārata: Śāntiparva 210-24
-
-[^f174]: Varāha Purāṇam: 25-6
-
-[^f175]: Varāha Purāṇam: 90-3
-
-[^f176]: Rāmāyaṇa: Uttarakāṇḍa (Brahma’s words) 101-26
-
-[^f177]: Mahābhārata: Śāntiparva 347-32
-
-[^f178]: Manusmriti: 1-11
-
-[^f179]: Rāmāyaṇa: Uttarakāṇḍa: 104-4
-
-[^f180]: Harivamsa: (Siva’s words) 131-48
-
-[^f181]: Mahābhārata Śāntiparva 352-62
-
-[^f182]: ?
-
-[^f183]: Mahābhārata: Śāntiparva 350-30
-
-[^f184]: Mahābhārata Śāntiparva 210-33
-
-[^f185]: Rāmāyaṇa Uttarakāṇḍa 104-7-8
-
-[^f186]: Mahābhārata: Kundadharopakhyana
-
-[^f187]: Mahābhārata Śāntiparva: 8-37
-
-[^f188]:Mahābhārata Śāntiparva: 20-12
-
-[^f189]: Mahābhārata Śāntiparva: 349-61
-
-[^f190]: Viṣṇupurāṇa 5-30-17
-
-[^f191]: Manusmriti: 12-50
-
-[^f192]:  Mahābhārata: Śāntiparva: 350-19
-
-[^f193]: Viṣṇupurāṇa: 6-7-56,77
-
-[^f194]: Viṣṇudharmam: 104-23
-
-[^f195]: Bhāgavatam: 11-19-18
-
-[^f196]: Mahābhārata: Asvamedhikaparva: 118-37,38
-
-[^f197]: Viṣṇupurāṇa: 1-22-33
-
-[^f198]: Mahābhārata: Śāntiparva 361-4
-
-[^f199]: Mahābhārata: Bhishmaparva 67-2
-
-[^f200]: Mahābhārata: Bhishmaparva 67-17
-
-[^f201]: ?
-
-[^f202]: ?
-
-[^f203]: ?
-
-[^f204]: Nāradīyapurāṇa: 18-33
-
-[^f205]: Mahābhārata: Asvamedhikaparva: 43-13
-
-[^f206]: Mahābhārata: Śāntiparva: 358-73--77
-
-[^f207]: Viṣṇudharmam: 1-59
-
-[^f208]: Mahābhārata: Śāntiparva: 350-36
-
-[^f209]: Harivamsa: 132-8.14
-
-[^f210]: ?
-
-[^f211]: ?
-
-[^f212]: Varāha purāṇa: 70-36
-
-[^f213]: Sundarakāṇḍa: 51-45
-
-[^f214]: Rāmāyaṇa:Yuddhakāṇḍa: 18-33
-
-[^f215]: Bhagavadgītā: 4-12
-
-[^f216]: Bhagavadgītā: 7-22
-
-[^f217]: Mahābhārata: Śāntiparva:349-76/77
-
-[^f218]: Mahābhārata: Śāntiparva: 350-36
-
-[^f219]: Matsyapurāṇa: 290-16
-
-[^f220]: Mahābhārata: Kundadhara upākhyānam
-
-[^f221]: Bhagavadgītā: 7-19
-
-[^f222]: Poushkarasamhita:
-
-[^f223]: Pāñcarātram:
-
-[^f224]: Bhagavadgītā: 12-7
-
-[^f225]:Vaikuṇṭhastavam: 55
-
-[^f226]: ?
-
-[^f227]: Bhagavadgītā: 9-23
-
-[^f228]: Bhagavadgītā: 7-16
-
-[^f229]:  Viṣṇudharmam:74-43
-
-[^f230]: Perumal Thirumoli: 5-9
-
-[^f231]: Periya Tirumozhi: 11-6-2
-
-[^f232]: Nanmugan Tiruvandadi: 1
-
-[^f233]: Tiruvoymozhi: 10-10-3
-
-[^f234]: Tiruvoymozhi: 2-8-6
-
-[^f235]: Tiruvoymozhi: 364
-
-[^f236]: Tiruvoymozhi 4-10-4
-
-[^f237]: Perialwar Tirumoli: 4-10-4
-
-[^f238]: Perialwar Tirumoli: 5-3-6
-
-[^f239]: Tiruvoymozhi: 3-2-1
-
-[^f240]: Tiruvoymozni 5-8-8
-
-[^f241]: Tiruvoymozhi: 10-10-3
-
-[^f242]: Perumal Tirumozhi: 5-1
-
-[^f243]: Tirumangai Alwar
-
-[^f244]: Peria Tirumozhi: 8-10-3
-
-[^f245]: Tirunedunthandakam: 2
-
-[^f246]: Perialwar Tirumozhi: 4-5-4
-
-[^f247]: Third Tiruvandadi: 1
-
-[^f248]: Third Tiruvandadi: 100
-
-[^f249]: Viṣṇupurāṇa: 1-8-35
-
-[^f250]: Viṣṇupurāṇa: 1-1-26
-
-[^f251]: Ibid 1-1-28
-
-[^f252]: Alavandar stotram: 4
-
-[^f253]: Tiruvoymozhi: 4-9-10
-
-
-
-
-<!-- Footnotes themselves at the bottom. -->
-### Notes
-
-[^1]:
-A_ śeṣa_ is one who exists solely for the purposes of another. That other is _śeṣī _.
-
-[^2]:
-(1) The commentator says that Viṣṇuchittan stands for Viṣṇuchittan and also for his daughter Andal, the authoress of many hymns.
-
-[^3]:
-safe path: This means_ Bhakti_ and_ Prapatt_i which lead to _mokṣa _. _Acārya bhakt_i is called _bhakti_ and _prapatti_ as it leads to them.
-
-[^4]:
-Madhurakavi in his decade of Tamil verses, says that, to him, Nammalvar is the only God and that through him, he expects to derive all the benefits that men expect to have from God Himself. The path indicated by him is that of devotion to the _ācārya_ for attaining _mukti_ as well as other things.
-
-[^5]:
-Kṣatrabandhu led the life of a highwayman in a forest. He was a source of terror to the sages who lived in that forest. Once when the sage Nārada  happened to pass by him, he rushed at him with his stick. Nārada  took pity on him and asked him to find out from his wife and children whether they would share the sin he was committing, as it was done for their sake. They refused and Kṣatrabandhu realised his folly and begged to be instructed by Nārada  in the truths of religion.
-
-[^6]:
-Puṇḍarīka was a virtuous Brahmin, who, though he followed the righteous path and went on a pilgrimage to holy places, did not get a vision of God. It was only after being initiated into the _Ashtakshara_ by Nārada  that he realised God.
-
-[^7]:
-The _śruti _ referred to here means - “This line of the _ācārya_s extends up to Bhagavān thus: This is his _ācārya_; his _ācārya_ is so and so and so on up to the Lord".
-
-[^8]:
-Ā_cārya_ here means one who teaches Brahma Vidyā and _guru_ one who teaches the Vedas. This verse was spoken by Sahadeva to those assembled at the Rajasuya sacrifice,
-
-[^9]:
-_Kaṭha_ _śruti _: This wisdom concerning the soul cannot be obtained by the mere exercise of reason. Only when it is imparted by another (the _guru_), does it lead to the knowledge which is the means of attaining _mokṣa .Kaṭha Upaniṣad_ 1.II.9
-
-[^10]:
-_Jābāla says in the_ _śruti _: "It is only the Vidya or wisdom learnt from an _ācārya_ that gives proficiency Chandogya Upaniṣad: IV-9-3
-
-[^11]:
-The disputations of these _ācārya_s are compared to the succession of neighings coming from the God Hayagrīva who is seated in their hearts. By these disputations they are said to have put down the pride of the exponents of rival systems.
-
-[^12]:
-(Or the Upaniṣads)
-
-[^13]:
-Two disciples : Kilagathalvan and Melagathalvan
-
-[^14]:
-There are some who maintain that this chapter on the succession of _guru_s is not part of _Śrī_mad Rahasyatrayasāra and that the latter begins only with the "Introductory Chapter", which follows.
-
-[^15]:
-It is said by some that this _śloka_ pays homage to the author’s uncle Appullar who established the importance of _bhakti_ and _prapatti_ by refuting the arguments of opponents in his writings. There are others who hold that there is a reference to Desikar’s teacher under whom he studied _Tiruvoymozhi_ and who is known to have swept the streets clean during the procession of Sri Varadarāja at Kāncīpuram.
-
-[^16]:
-logic choppers like Tārkikas.
-
-[^17]:
-A Sutra or aphorism in Purva Mimamsa says: “ That is called a _śeṣa_ which serves the purpose of another (and that other is called a _śeṣī_ ) (e. g.) In a sacrifice, the grains of rice are _śeṣa_
-to the sacrifice which is _śeṣī_  because they serve the purpose of the sacrifice.
-
-[^18]:
-Kaustubha: This gem is stated in certain treatises to stand allegorically for the _Jīva_  .
-
-[^19]:
-The word ‘others’ refers to_ vāsana_s or impressions left in the mind in previous births, _ruci_
-or tastes and aptitudes and _prakṛti sambandha_ or association with matter.
-
-[^20]:
-( Alternative meaning): "what should be attained and what should be rejected ( see Tatparya
-Chandrika: Gita; XVI: 24)
-
-[^21]:
-Vyāpaka  _mantra_s: These are (1) Aṣṭākṣara (2) Ṣaḍakṣara, the _mantra_ with six letters (Namo Viṣṇave with _Praṇava_ at the beginning) and (3) Dvadaśākṣara, the _Mantra_ with twelve letters (Namo Bhagavate Vāsudevāya with _praṇava_ at the beginning)
-
-[^22]:
-As befitting each of these two - By His _svarūpa_, He is the cause of their existence and continuance; this is because of being their support; by His Sankalpa or will also, He is the cause of their existence, continuance and activities; this is because of being their controller.
-
-[^23]:
-Lakṣmaṇa is a partial incarnation of Adisesha and Adisesha serves the Lord as His sandals. His bed, and so on. Therefore the sandals of Rama are, in a sense, the incarnation of Lakṣmaṇa.
-
-[^24]:
-_Dvayam_ may mean also the two (i.e.) _Dvayam_ and _Caramasloka._
-
-[^25]:
-Harda is an aprakrita form of the Lord present in the human heart, like the _arcā_ in temples
-
-[^26]:
-This summarises Prapya (i.c.) the object of attainment, viz. Brahman
-
-[^27]:
-has never undergone contraction
-
-[^28]:
-<sup>] </sup> In the Chandogya upanishad VII chapter, it is stated as follows:- He who worships nama or names like rig veda, sama veda, _Itihāsa_ and purāṇa as if they were Brahman will realise only very limited fruits such
-as can be reached with these names".
-
-[^29]:
-The eight kinds of siddhi: Aṇimā (contraction of one's body to the size of an atom, mahima (assuming a huge form) Laghimā (making one's body light) Garimā (making the body heavy), vaśitvam (mastery over self), aiśvaryam (lordship) prāpti the power of obtaining whatever one wants and prākāmyam (perfect freedom of the will.)
-
-[^30]:
-Alavandar: Atmasiddhi and Rāmānuja’s Vaikuṇṭha gadyam.
-
-[^31]:
-The soul is of the nature of jñāna or knowledge (i.c.) its _svarūpa_ is knowledge. At the same time the soul has knowledge as an attribute and this jñāna or knowledge is called Dharma bhūta
-jñāna or attributive knowledge.
-
-[^32]:
-“ Instead of _śeṣī_  the author's use of the word seshitatva is to include Śrī or Lakṣmī  also as _śeṣī_ ". Chetlur commentary.
-
-[^33]:
-According to Viśiṣṭādvaitins, the self or atma is,in its essential nature or _svarūpa_, knowledge. It also possesses jñāna or knowledge as its dharma or attribute." This knowledge is called dharma bhuta jñāna or attributive knowledge. (See foot-note before the previous foot-note)
-
-[^34]:
-the passage which refers to the three kinds of achetana in Alavandar’s Ātmasiddhi and Rāmānuja’s Vaikuṇṭhagadyam.
-
-[^35]:
-A pot is not luminous, because it becomes visible or is seen only when lighted up by the flame of a lamp. The flame of a lamp is luminous, because it does not require anything else to become visible.
-
-[^36]:
-Six Qualities or Gunas: 1. _Jñāna _( Knowledge) . 2. Aiśvarya Lord ship; unimpeded activity; activity based on independence 3. _Śakti_ (ability) potency to become the material cause of the world; also the power of bringing about what appears impossible of being brought about; 4. bala strength; absence of fatigue; sustaining power; 5. Vīrya virility; changelessness in spite of being the material cause of the world; 6.tejas splendour, might, the power to overcome others.
-
-[^37]:
-This sloka cannot be understood without the account given in the Appendix.
-
-[^38]:
-Sātvatasamhita: 6-22 This is stated in the following passage: "He assumes a form similar to that of the image, enters into it, and remains there”.
-
-[^39]:
-Without requiring any other authority to prove it. The different activities shared by Lakṣmī  and Her Lord are determined by their own will and not by difference in the nature of the two.
-
-[^40]:
-‘‘शास्त्रज्ञानं बहुक्लेशं बुद्धेश्चलनकारणम् । उपदेशाद्धरिं बुद्ध्वा विरमेत्सर्वकर्मसु ॥
-
-[^41]:
-The Veda is afraid of the man who has only a little knowledge of it. (Bibheti alpa śruteh vedah)
-
-[^42]:
-Some aspirants for _mokṣa_  are qualified for madhu _vidyā_ and others for sad_vidyā_ as a result of their respective competence or special forms of aspiration. So also some are qualified for _prapatti_, while others are for _bhakti_.
-
-[^43]:
-phala _bhakti_ means _bhakti_ which arises as the fruit of _prapatti_, whereas sadhana _bhakti_ is _bhakti_ which leads to _mokṣa_ .
-
-[^44]:
-This is interpreted in two different ways by the southern school of Viśiṣṭādvaitins and the northern school. The former hold that since Śrī _Rāmānuja_ has already performed _prapatti_, even his followers of a later day who acknowledge him as their _ācārya_  will benefit by it and they need not perform _prapatti_; the latter hold, on the other hand, that only those who were his śiṣyas then would benefit by it
-
-[^45]:
-The sentence means that the direct' _prapanna_ gets _mokṣa_  which he desires and the _prapanna_ who performs _prapatti_ for the sake of _bhakti_ gets _bhakti_ which he desires, for _prapatti_ can secure whatever is desired.]
-
-[^46]:
-These ways: The commentary Sārāsvādinī says that the Sanskrit   word Gati does not mean here ways or _upāya_s but forms of knowledge.
-
-[^47]:
-The principle of tatkratu or tatkratu nyaya is to the effect that in whatever form or manner and with whatever qualities one meditates on God - in that very form and with those very qualities will one attain Him. Though service to the Lord is not specifically prescribed in a _vidyā_, it will be attained after _mukti_.
-
-[^48]:
-_Bhakti_ leads through _yoga_ to para-_bhakti_ which leads to para-_Jñāna_, which, in its turn, leads to parama-_bhakti_.
-
-[^49]:
-Commentators of _Brahma_ _sūtra_s like Sudarśana Bhatta point out that this difference in names applies especially to _nyāsa_, since it is a different word from 'contemplate', ‘meditate', and 'adore' which are used in connection with the other _vidyā_s and which mean thc same thing, whereas _nyāsa_ has a different meaning (altogether).
-
-[^50]:
-1: Ability which is threefold - The ability to understand the meaning of śāstra s: the ability to perform what is ordained in them and the competence as laid down in the śāstra s according to caste, qualities and the like.
-
-[^51]:
-Those who have only one of these four are of four classes, those who have any two of them are of six, those who have any three are of four and those who have all the four form one.
-
-[^52]:
-Aṣṭā_ṅga_ Yoga is really dhyānayoga. It is said to consist of yama, _niyama_, _āsana_, prāṇāyāma, pratyāhāra, dhyāna, dhāraṇa and samādhi, Samādhi which is the _aṅgī_ is included among its _aṅga_s or accessories  .
-
-[^53]:
-“मम नाथ यदस्ति योऽस्म्यहं सकलं तद्धि तवैव माधव । नियतस्वमिति प्रबुद्धधीरथवा किन्नु समर्पयामि ते॥ आळवन्दार् स्तोत्रम्-५३
-However O lord, what can I surrender to Thee, O Madhava, when I know that I and whatever belongs to me are always thine. As I have nothing of my own, I have nothing to surrender, I am only giving Thee what belongs to Thee",
-
-[^54]:
-This means that the _nitya_ and _naimittika_ karmas which are ordained by the Lord in the śāstra s have still to be performed after _prapatti_, as, otherwise, there would be transgression of His command.
-
-[^55]:
-In the sentences that follow, the author points out the different ways in which different kinds of people (including those who violate his commands ) promote His glory as His _śeṣa_s.
-
-[^56]:
-The soul of the man who has realised _Brahman_ is said to be led through a vein issuing out of the head into the shining path of archis along which it passes into immortality in Vaikuṇṭha  . The soul of the man who has not realised _Brahman_ is led through other veins into the dark path called dhuma or smoke. He will be born again in _samsāra_.
-
-[^57]:
-Kundadhara : A certain man who was devoutly attached to Kundadhara begged him for wealth. Kundadhara, instead of granting wealth, saw to it that his follower should become attached to _dharma_.
-
-[^58]:
-The idea is that the _prapanna_ will attain _mokṣa_ even if he is unconscious and unable to utter the _Dvaya_ or other _mantra_s.
-
-[^59]:
-Fire, Day, Śuklapakṣa Uttarāyaṇa and the year arc, of course, inanimate; but the deities presiding over them (abhimani devatas) are the guides here referred to.)
-
-[^60]:
-Namo Bhagavate Vasudevaya: with Om (or _aum_) preceding it.
-
-[^61]:
-This _śloka_  refers concisely to the gist of each of the twenty two chapters in the first part of the treatise.
-
-[^62]:
-By _Siddhopāya_, the author means _Bhagavān_ who is the _upāya_ already existent for those who perform _prapatti_. By _Sādhyopāya_ he means such _upāya_s or means as _bhakti_ and _prapatti_ which socure the Lord's favour so that He may act as the _Siddhopāya_.
-
-[^63]:
-By the advice of Vasiṣṭa, Parāśara put a stop to the performance of a satra (sacrifice) which was aimed at the destruction of Rākṣasas. Pleased with this, Vasiṣṭa and Pulastya blessed him for his forbearance with a knowledge of the _śāstra_s and with the gifts necessary for the composition of a purāṇa. Maitreya studied the Vedas, the _dharma_ śāstra s and the Ved_aṅga_s from his _guru_ and, by his grace, obtained a knowledge of Vedānta  by which he realised how the origin, maintenance and destruction of the world occur and how there is nothing other than Viṣṇu .
-
-[^64]:
-Embar became subject to misconceptions owing to his association with Yādavaprakāśa and had to be corrected by Peria Tirumalai Nambi.
-
-[^65]:
-He who desires _svarga_ should perform the Jyotiṣṭoma sacrifice". Here, who desires _svarga_ is an attribute or adjective of the person and the injunction is that he should perform the sacrifice. In Mam Ekam Saranam Vraja, the _prapatti_ has to be performed after hearing the _vidhi_ or in junction; it did not exist before, like the desire for _svarga_ in the example cited. Therefore, it is not an attribute; besides vraja is a verb that prescribes an action.
-
-[^66]:
-In "That is Devadatta's field where the crane was sitting before", the crane is an Upalakṣaṇa or accidental feature to identify the field with. It is not a permanent attribute or vi_śeṣa_ṇa of the field.
-
-[^67]:
-The _śloka_  says: Thou art the knowledge concerning the self or atma _vidyā_: Lakṣmī  is in apposition with atma _vidyā_. The meaning is that atma _vidyā_ is one of her _vibhūti_s or glorious possessions. Since atma _vidyā_ can confer _mokṣa_ , it follows that Lakṣmī  can confer _mokṣa_ .
-
-[^68]:
-(Śabari) or Śramaṇi was of the caste of hunters and attained _mukti_ by _bhakti_ to Bhāgavatas and _Bhagavān_.
-
-[^69]:
-The Vedas prescribe the rites called abhichara for causing the death of one's enemy. They do so in order that by seeing the effect, men may have faith in the _śāstra_.
-
-[^70]:
-During a famine, seven sages obtained the bulb of a lotus for food and went out for their bath. Indra stole it and hid it. When the sages returned and found it missing, each of them had to swear in these words to prove that he had not stolen it.
-
-[^71]:
-This means cent per cent purity.
-
-[^72]:
-The _śloka_ which says: "Whatever I do by the nature of _prakṛti_ and with my body, my speech, my senses, my intelligence or my soul, I offer all that to the Supreme Nārāyaṇa."
-
-[^73]:
-To the man or adhikārī who grieves at his inability to adopt the _dharma_s or _aṅga_s enjoined for _bhakti_ _yoga_, the _Carama_ _Śloka_ says, “Perform _prapatti_ to me and you need not adopt any other _dharma_".
-
-[^74]:
-One interpretation of the word _satya_ is the changeless eternal _ātmā_ or self; _anṛta_ refers to non-sentient things which contribute to the pleasures of wealth.
-
-[^75]:
-'Giving up abstention from forbidden things' would mean doing forbidden things.
-
-[^76]:
-It may also mean "we will never do what is evil".
-
-[^77]:
-Azhvan on losing his eye-sight did not long for his eyes again, as they would make him look at the objects of sense-pleasures.
-
-[^78]:
-Sukṛta praṇāma consists in folding the two hands in añjali thrice and in performing aṣṭāṅ_ga_ namaskāram twelve times touching the ground with the brow, the nose, the eyes and the cheeks.
-
-[^79]:
-The marks of the conch and the discus (chakra) made with red-hot iron on the two upper arms.
-
-[^80]:
-The three _mantra_s Namo Nārāyaṇaya, Namo Bhagavate Vāsudevāya, and Namo Viṣṇave, with the _Praṇava_ (AUM) preceding each are called _vyāpaka_ _mantra_s for they have the words, Nārāyaṇa, _Vāsudeva_ and _Viṣṇu_, which by their etymology, convey the meaning 'Omnipresent' or 'all pervading' (_vyāpaka_).
-
-[^81]:
-Commentators say that there is here an implied reference also to the author himself who obtained all his knowledge concerning the mūla _mantra_ from his _ācārya_, _Śrī_ Appullar.
-
-[^82]:
-They may all be worshipped with the utterance of the mūla_mantra_, whereas other _mantra_s are to be used only in connection with particular forms.
-
-[^83]:
-When the worship of _Viṣṇu_ is performed with only Vedic _mantra_s, it is Vaidic _karma_ ; when it is performed only with the _mantra_s found in _Pāñcarātra_, it is tantric and when it is performed with both, the _karma_  is said to be both Vaidic and tantric.
-
-[^84]:
-The _mantra_ vasuranya in the Taittirīya Upaniṣad.
-
-[^85]:
-_Śaraṇāgati_ _Gadya_.
-
-[^86]:
-Kaṭha text: By the letter a is denoted _Viṣṇu_, the ruler of all the worlds, and _Lakṣmī_ who is supported by _Viṣṇu_ is denoted by the letter u; the m indicates that the _jīva_ is their servant. This is the definition of _praṇava_.
-
-[^87]:
-vide page _______
-
-[^88]:
-According to Viśiṣṭādvaita doctrine, many words are indeterminate in meaning; for example go or cow may mean the body of the cow, or the soul of the cow or the Supreme Self within the cow as its Antaryāmi; some words are determinate in meaning, for instance 'cowness' ( gotvam ) which refers only to the jāti (genus) 'cow' of the cow. The m (in _aum_) refers to the _jīva_ and not to the Supreme Self).
-
-[^89]:
-Namas. Advaitins might say that the ma is in the ablative or fifth case meaning "than I" (There is nothing other than I) and if we consider that the word kinchit is understood and insert it, ‘na ma' may mean "There is nothing else other than l". Here the word kinchit has to be understood (adhyāhara) which is not so appropriate, as anuṣ_aṅga_
-
-[^90]:
-Though the Sanskrit word Go[गो] would include "bull" yet the phrase go and bull is often used to emphasise bull and draw special attention to it.
-
-[^91]:
-_Aṅga_s are accessorics, up_aṅga_s are those that are accessories to _aṅga_s: here the avoidance of what is opposed to the respective _aṅga_s.
-
-[^92]:
-Grammatical co-ordination: The following sentences in the Nārāyaṇānuvaka are referred to here: “ This universe is all the deity Nārāyaṇa: He is the inner self of the universe: Nārāyaṇa is the Supreme Jyotis (Light): The Supreme Being is Nārāyaṇa: Nārāyaṇa is the Supreme _Brahman_: Nārāyaṇa is the Supreme Tattva (Reality)....... He is _Brahma_: He is Siva: He is Indra : He is Akshara and He is the Supreme Independent Sovereign Ruler".
-
-[^93]:
-Service without the body: Perhaps this should be taken to mean anubhava or experience.]
-
-[^94]:
-That which has three qualities : material objects of enjoyment having sattvam, rajas and tamas.
-
-[^95]:
-pairs of opposites like pleasure and pain, heat and cold etc.
-
-[^96]:
-Vísishtadvaitins hold that the non-existence (of a thing) is simply the existence of some other thing and not a category apart. For example, when we say, "There is no pot on the floor', the non-existence of the pot is merely the existence of the floor. Tarkikas hold, on the other hand, that non-existence or the absence of a thing (abhava) should be considered as a separate category.
-
-[^97]:
-They are Himavān, Vishada, Vindhya, Mālyavān, Pāriyātraka. Mandara. Malaya and Meru.
-
-[^98]:
-_Śrīman_, jñānavān, daṇḍi have also the suffix _matup_ though in different variations).
-
-[^99]:
-Dadhibhāṇḍa begged _Śrī_ Kṛṣṇa for spiritual benefits not only for himself but for those related to him
-
-[^100]:
-Upalakṣaṇa: a mere mark, token or sign to indicate Nārāyaṇa who is recognised by that mark. An Upalakṣaṇa is not an essential feature of the object in question,
-
-[^101]:
-The Sruti says: Whatever actions may appear mine are the Lord's, not mine, They do not belong to me; they are the Lord's; I exist for the Lord and not for myself na mama ( not mine; not for me)
-
-[^102]:
-With five words: (1) Prapadye; (2) śaraṇam: (3) Srīman Nārāyaṇa caraṇau (4) Śrīmate Nārāyaṇāya; (5) namah according to Sārāsvādinī.
-
-[^103]:
-There is a reference here to Sri Ramanuja's gadya.
-
-[^104]:
-or by good luck (vidhinā).
-
-[^105]:
-What is meant is not that the person should give up but that as he is unable to adopt other _dharma_s, he should seek the Lord as an _upāya_.
-
-[^106]:
-Kākāsura performed _prapatti_ (to _Śrī_ Rāma) without any of the rites due to _varṇa_ or _āśrama_.
-
-[^107]:
-Sātvatam : Padmam: Jayākhyam, etc. these are the āgama samhitās.
-
-[^108]:
-One should live near Bhagavatas:
-
-[^109]:
-Money should not be received as a gift from the unworthy,
-
-[^110]:
-Vidura was cremated according to Brahma Medha rites because an aerial voice ordered it.
-
-
-[^111]:
-Bhagavan's words to Sri Ramanuja
-
-[^112]:
-“He who desires svarga should perform Jyotiṣṭoma". In this sentence, the adhikārī is seen to be one who desires a certain fruit, namely Svarga.
-
-[^113]:
-Drishti vidhi eg. "Imagine the mind to be Brahman and meditate on it". This kind of meditation would not lead to moksha.
-
-[^114]:
-(a) to Krishna at the time of the removal of her sari: (b) to the gods at the time of the Swayamvara: (c) Trijata to Sita: d) to Rama: e) to Bhagavan after Narada's advice (f) when the Lord appeared before him; (g) to Bhagavan; h) to Bhagavan (i to Bhagavan; (j) to Upendra in dread of garuda; (k) to Visvamitra; (1) to Visvamitra; (m) to the pigeon; (n) to Rama; (o) to Sibi
-
-[^115]:
-VI chapter, 18: Desirous of mukti I seek refuge of HIM who created Brahma before and taught him the Vedas.
-
-[^116]:
-The will to do what is pleasing and to avoid what is displeasing in ‘mām’; being destitute of all means in ‘parityajya’ and intense faith, and the prayer for protection in ‘śaraṇam vraja’.
-
-[^117]:
-Logical Economy:  Instead of saying that the fragrance of a flower is known to be or is experienced as agreeable and that this knowledge or experience gives rise to pleasure (or sukha ), we may, as well. say that the agreeable is itself pleasure and is therefore a form or state of knowledge.
-
-[^118]:
-ILLUSTRATION. Ushasti was a seer and when owing to starvation, he feared he might die, he ate the cooked grain given to him by a man of a low caste. But when this fear did not exist, he refused what was offered to him afterwards viz. water.
-
-[^119]:
-The words guṇa. sneha and daśā have each two meanings respectively. 1. good qualities and thread 2. affection and oil; 3. state and wick.
-
-[^120]:
-Peyalvar, Poygai Alvar, Bhutattalvar.
-
-[^121]:
-_Guṇasaṅkramah_ may mean also “which create a path for the entrance of their noble qualities into their disciples"
-
-[^122]:
-Kala : When a man is dangerously ill and longs for recovery. he has the figure of a man (Kalapurusha) made with gingelly seeds, decks it with jewels and gives it to a poor man along with money. To receive such a gift is looked upon as a disgusting thing.
-
-[^123]:
-Going up to _svarga_ and coming down to this world of _samsāra_ after the fruits of good deeds have been enjoyed there and repeating this process.
-
-[^124]:
-Kidambi Achan, the disciple of _Śrī_ _Rāmānuja_, was in charge of the kitchen during his _ācārya_'s life-time
-
-[^125]:
-it may mean also 'I did not know the _Dvaya_ (the two) nor did I know the _aṣṭākṣara_ (the eight )
