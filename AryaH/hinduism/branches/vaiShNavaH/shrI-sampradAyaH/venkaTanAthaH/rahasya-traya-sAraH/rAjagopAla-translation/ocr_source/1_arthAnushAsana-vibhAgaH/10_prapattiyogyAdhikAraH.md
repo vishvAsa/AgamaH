@@ -35,7 +35,7 @@ FITNESS FOR PRAPATTI
 
 THE PRAMANAS IN SUPPORT : The nature of the specific competency for prapatti is evident from the following authoritative passages and from spiritual tradi tion : "Having been abandoned by his own father (Indra), the gods and the great sages, be, (i.e.) Kakasura, wandered about the three worlds and finally took refuge under Rāma alone", "I am the abode of all trapegressions; I have no means or upāya to save myself and I have pothing else to attain besides Thee"; "I seek" the refuge of Thy feet, O Saranya (Saviour): I have po other upāya and nothing else to attain than I'bee": "\*Finding that there is no npüya for leaping over samsara even in all the endless future, etc." : "I'who am aware that there is no upāya for me in all the thousands of crores of kalpas other than performing prapatti at Tby two lotus-like feet", and, “I who have no other refuge and no other saviour etc." 
 
-PRAPATTI IS OPEN TO ALL: If such qualifications exist, prapatti is certainly open to all as an upāya, since there are no restrictions to it such 88 caste. 2. Mahābhārata: Udyoga Parva: 30-29 6. Sriranga Gadyam 3. Rāmayana: Sundarakanda: 38-33 7. Vaikuṇṭha Gadyam 4. Ahirbudhnya Samhita: 37-30 
+PRAPATTI IS OPEN TO ALL: If such qualifications exist, prapatti is certainly open to all as an upāya, since there are no restrictions to it such 88 caste. 2. Mahābhārata: Udyoga Parva: 30-29 6. Sriraṅga Gadyam 3. Rāmayana: Sundarakanda: 38-33 7. Vaikuṇṭha Gadyam 4. Ahirbudhnya Saṁhitā: 37-30 
 
 8. Tiruvoymozhi: 6-10-10 5. Aḷavandār: Stotram: 22 
 

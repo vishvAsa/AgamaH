@@ -19,11 +19,11 @@ It has (sometimes) been said that saranagati is 'of six kinds : intention to do 
 
 NOTE:-(Ashtanga Yoga is really dhyanayoga. It is said to consist of yama, niyama, asana, pranayama, pratyahara, dhyana, dharana and samadhi, Samadhi which is the angi is included among its angas or accessories ). 
 
-1. Ahirbudhoya Samhita: 37-18 
+1. Ahirbudhoya Saṁhitā: 37-18 
 
 116 OBAPTER 
 
-That one of these is angī and that the others are angas are evident from the following śloka and (this does not require any argument) : \* Nyāsa or 'self-surrender which has the word nikṣepa for a synonym has five angas and is called also sannyāsa, tyāga and saranāgati.” In the Ahirbudhnya Samhita, it is stated as follows:--- "The prapatti2A that I perform to the Lord is itself eternal fruition to me: I desire no other fruit than this. This absence of the desire for any other fruit (than prapatti) is itself considered as the chief anga. The desire for the fruit is opposed to this." This other anga (described in the Ahi. Samhita), Eqmely, the absence of any desire for alterior results or fruit is essential in the surrender of the self for the sake of mokṣa, (and not in every form of prapatti). The giving up of all attachment to the fruit or consequence and also of the thought of one's doer. ship is common to all forms of renunciation such as karma yoga, This thought or reflection should therefore be entertained by the person desirous of mokṣa, at the time of bis surrender of His self to the Lord with all the angas. 
+That one of these is angī and that the others are angas are evident from the following śloka and (this does not require any argument) : \* Nyāsa or 'self-surrender which has the word nikṣepa for a synonym has five angas and is called also sannyāsa, tyāga and saranāgati.” In the Ahirbudhnya Saṁhitā, it is stated as follows:--- "The prapatti2A that I perform to the Lord is itself eternal fruition to me: I desire no other fruit than this. This absence of the desire for any other fruit (than prapatti) is itself considered as the chief anga. The desire for the fruit is opposed to this." This other anga (described in the Ahi. Saṁhitā), Eqmely, the absence of any desire for alterior results or fruit is essential in the surrender of the self for the sake of mokṣa, (and not in every form of prapatti). The giving up of all attachment to the fruit or consequence and also of the thought of one's doer. ship is common to all forms of renunciation such as karma yoga, This thought or reflection should therefore be entertained by the person desirous of mokṣa, at the time of bis surrender of His self to the Lord with all the angas. 
 
 1 & 2. ANUKÜLYA SANKALPA AND 
 
@@ -31,7 +31,7 @@ PRĀTIKULYA VARJANAM:
 
 Among these angas, the essential condition for the will to do what is pleasing (to the Lord) (ānukülya saṅkalpa) and the avoidance of what would be displeasing to Him, (prātikulya. varjanam) is the knowledge that the person existe solely for the Lord of Laksbwi for whom all things and all beings exist and should therefore do whatever would please Him by performance and by abstention from performance. From this it follows: that "by the determination to do whatever is pleasing and the other (the avoidance of whatever is displeasing) one would avoid transgressiog the command of the Lord. 
 
-2. Lakṣmī Tantra : 17-74 2A. Ahirbudhaya Samhita: 52-14 3. Lakṣmī Tantra : 17-76 
+2. Lakṣmī Tantra : 17-74 2A. Ahirbudhaya Saṁhitā: 52-14 3. Lakṣmī Tantra : 17-76 
 
 ANGAS OF PRAPATTI 
 
@@ -129,7 +129,7 @@ His mere will which is accompanied with generosity and which does not require an
 
 17. Aḷavandār Stotram : 47 
 
-18. Padma Samhita: Charyapadam: 12-83 
+18. Padma Saṁhitā: Charyapadam: 12-83 
 
 124 CHAPTER 
 
@@ -139,9 +139,9 @@ In this connection Appullar stated that the man who, like the gopis, has little 
 
 In Sarasāgati Gadya, Sri Rāmanuja explains the implica tion contained in the first person singular (prapadye) as meaning "I tbat bave no other refuge". In Duaya the words Saranan prapadye express supreme faith in the Lord's protection. There fore the supplication (or prayer for protection ) is implicit in the words which express supreme faith in the upāya (though not actually stated in so many words ). It has been said " I am the abodetof transgressions; I am without any other neaps of pro. tecting myself, I have nothing else to attain than Thee." "Be pleased 19A to be my upāya. This thought of prayer is called saranāgati. Let it be performed to the Lord.” Further " this word s'aranam 198 is employed to mean any one of the followiog : upāya, house and protector; here it means only upāya." The 
 
-19B. Abirbudhnya Samhita: 37-29 
+19B. Abirbudhnya Saṁhitā: 37-29 
 
-19. Abirbudhnya Samhita: 37–30 19A. Ahirbudhnya Samhita : 37-31 
+19. Abirbudhnya Saṁhitā: 37–30 19A. Ahirbudhnya Saṁhitā : 37-31 
 
 11 
 

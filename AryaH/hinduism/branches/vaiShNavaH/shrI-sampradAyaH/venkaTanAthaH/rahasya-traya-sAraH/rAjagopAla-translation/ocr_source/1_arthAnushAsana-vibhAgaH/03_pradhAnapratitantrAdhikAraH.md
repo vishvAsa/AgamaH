@@ -56,13 +56,13 @@ the time of the entry of the soul into it and perishes or disintegrates when the
 
 WHAT IS THE MEANING OF SESHA-SESHI BHAVA? 
 
-Īśvara is said to be the s'eshin of all things, because they exist solely for the fulfilment of His purposes. They are His s'eshas, The following śloka explains how Īśvara is is the seshin of all: \* The Sutterance of the Upaniṣads is to the effect that the Lord takes in both sentient and non-sentient things for the fulfilment of His own purposes, by being the cause of their existence, their continuance and their control. In regard to one of the two (i.e.) the sentient being), Thou art both the end to be attained (upēya) and the means of attaining it (upāya). This is Thy essential nature and not an adventitious quality of Shine. Therefore, O Thou that hast Thy repose in Srirangam, I seek refuge in Thee without any selfish interest." 
+Īśvara is said to be the s'eshin of all things, because they exist solely for the fulfilment of His purposes. They are His s'eshas, The following śloka explains how Īśvara is is the seshin of all: \* The Sutterance of the Upaniṣads is to the effect that the Lord takes in both sentient and non-sentient things for the fulfilment of His own purposes, by being the cause of their existence, their continuance and their control. In regard to one of the two (i.e.) the sentient being), Thou art both the end to be attained (upēya) and the means of attaining it (upāya). This is Thy essential nature and not an adventitious quality of Shine. Therefore, O Thou that hast Thy repose in Sriraṅgam, I seek refuge in Thee without any selfish interest." 
 
 THE IMPORTANCE OF THIS KNOWLEDGE. 
 
 Sentient beings and non-sentient things exist not for their own sake but for the fulfilment of God's purposes. Their nature is ever to exist for somebody else (i.e.) the Lord. In using them for His own purposes, His glory is manifested. This is being 
 
-3. Srirangarajastavam: 
+3. Sriraṅgarajastavam: 
 
 (Uttara śatakam) 87. 
 

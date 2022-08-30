@@ -219,9 +219,9 @@ Bhagavān should be thought of, also, as having a transcendent, super sensuous (
 
 [^f102]: Viṣṇupurāṇa: 1-2 -1
 
-"He who [^f103] has faith in His form that is eternal and in His being the Supreme Deity - him Bhagavān approaches soon, O Poushkara."
+"He who [^f103] has faith in His form that is eternal and in His being the Supreme Deity - him Bhagavān approaches soon, O Pauṣkara."
 
-[^f103]: Paushkara Samhita
+[^f103]: Paushkara Saṁhitā
 
 “Hari has [^f104] another form entirely different from all forms seen in the universe, in which all these saktīs abide."
 

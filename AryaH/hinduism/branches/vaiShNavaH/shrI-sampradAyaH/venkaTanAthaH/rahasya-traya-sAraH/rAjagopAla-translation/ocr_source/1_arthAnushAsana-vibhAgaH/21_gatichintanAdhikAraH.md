@@ -103,7 +103,7 @@ TO THE PRAPANNA
 
 To the man who has adopted bhakti or upāsana as big upāya, the meditation on the path to mukti has been prescribed as an anga to be performed daily. But to the man who has adopted 
 
-16. Jayat Samhita: 
+16. Jayat Saṁhitā: 
 
 17. Sri Bhashya: 2-2-41 
 

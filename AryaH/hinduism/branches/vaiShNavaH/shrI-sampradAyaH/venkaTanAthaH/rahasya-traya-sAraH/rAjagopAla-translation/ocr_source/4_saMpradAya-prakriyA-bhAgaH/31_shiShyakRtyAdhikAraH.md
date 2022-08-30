@@ -33,7 +33,7 @@ It is said: "The sishya shunld surrender his body, his property and his life-bre
 
 When it is stated in the Vedāntas that the sishya should behave towards the guru as towards Bhagavan (Himself) and should have as devoted an aflection to the gurie as to the Lord, when it it said, “Tue sishya should never ruisbehave cither with the mind or with the speech or with the borly and should behave towards him as if he is not different or separate from hituself" and further, “The s'ishrau should adore the vichiirya as he does Bhagavan "--when writers like Sandilya and Apastauiba say so, they do not prescure the offer of a fee or recompense. They give the advice merely in order that the s'ishig'a who has the sāsira for his eyes Day 1)et become blind of vision with eyes wide open, and in order that he, poor from his birth onward, may not lose this (blisstul) expezivrice which resembles the (blissful) experience of Bhagavan. That all this is no fe or recompense (to the gurie) has been declarrd by Sandilya Bhagavan in the following sloku : “Even the gods cannot make a recompense for the gift of the knowledge of God. The s'ishya should (therefore) give whatever lies in his power to the richuryu who has given biin (this) instruc tion." When it is said " whatever lies in his power", it rueans 
 
-2. Vihageswara Samhita: 
+2. Vihageswara Saṁhitā: 
 
 5. Sandilya Smr̥ti: 1.118. 3. 77 
 
@@ -89,7 +89,7 @@ It is said also, "Maitreya prostrated (pranipatya) before Parāśara and made sa
 
 335 - 5. 18. Viṣṇupurāṇa: 1.1-1. 
 
-20. Sesha Samhita : 14 - 50. 
+20. Sesha Saṁhitā : 14 - 50. 
 
 31 
 
@@ -101,7 +101,7 @@ Tf a man should fail to impart instruction to a worthy sishya at the appropriate
 
 PS 
 
-22. Poushkara. 
+22. Pauṣkara. 
 
 21. Sesha dharma. 23. Bhagavad Gita : 18 - 75, 
 

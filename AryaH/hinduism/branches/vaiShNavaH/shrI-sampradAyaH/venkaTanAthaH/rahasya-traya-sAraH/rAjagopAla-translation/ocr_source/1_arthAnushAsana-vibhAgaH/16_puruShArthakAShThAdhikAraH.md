@@ -79,7 +79,7 @@ To the Supreme Being who is always with Lakṣmī and who looks upon His devotee
 
 remain in the company of those who think there is any other deity deserving of adoration thao Thee; also what I have accepted with delight is the duty of serving Thy devotees". According to these passages, since the jiva is absolutely subject to the will of the Lord and since the service of the s'esha is due also to those who are favourites of the Lord, our being a s'esha to the Lord extends even to the Bhagavatas and should last as long as the self lasts. Our being s'eshas to Bhagavatas arises from their being devotees to the Lord and pertains to our essential Datare. It arises also from their qualities and knowledge, which cause & desire in us to serve them. (As Lakṣinada says) "I "am his younger brother (by birth); I have become his servant by his qualities". (That this relationship of being & s'esha is due both to our essential nature and to (our admiration for) their wisdom and character) is also indicated (respectively in the two phrases(1) "bhaktas of the lord and to "men like me" (in the speech of Narada quoted above). Perialvar, the (great) commentator of Kalpa siitras stated (in this connec tion):- "These who are 15 the servants of Bhagavatas and who utter the names of Bhagavan are entitled even to sell us". This is the purport of the middle world in Tirumantra, namely, namo: na mama (not for me). If we reflect on this purport, our beiog sesha to the Lord is both mediate (through the Bhagavatas) and immediate (direct to Him). Accordingly, the service that should be rendered by the sesha is also (both ) mediate and direct. Therefore it is the farthest limit of the service of the prapanna to perform, as much as it lies in his power, service to the Bhāgavata, since it is part of the duty of one who is s'esha to Bhagavān. So this outermost region of service to Bhagavatas should be kept properly cultivated so that it may not become fallow land full of weeds. 
 
-. As stated in the following ślokas in Poushkara samhita, "It is 16 not wrong for a wedded wife to honour her husband and to honour his servants, whether in his presence or in his absence." 
+. As stated in the following ślokas in Pauṣkara samhita, "It is 16 not wrong for a wedded wife to honour her husband and to honour his servants, whether in his presence or in his absence." 
 
 10 
 
@@ -87,7 +87,7 @@ remain in the company of those who think there is any other deity deserving of a
 
 4-12 
 
-15. Perialvar Tirumozhi: 4- 16. Poushkara Samhita · 
+15. Perialvar Tirumozhi: 4- 16. Pauṣkara Saṁhitā · 
 
 SERVICE TO BHAGAVATAS 
 
@@ -105,7 +105,7 @@ Dives not Koorattalvan s2y) :-"When shall I join the eternal siiris who are alwa
 
 If so, it may be asked, "If both are Bhagavatas, would it not be inconsistent that they should be both s'esha and s'eshī to each other?" The answer is as follows:- There is nothing inconsistent in this, as it is possible for the same person to render help to another and also to receive help from him. (In the performance of a sacrifice), the sacrificer who performs it for the sake of some gain or benefit (phala) is the s'eshi but when he is considered as the doer of the sacrifice, he is s'esha in relation to the sacrifice. 
 
-17. Poushkara Samhita : 
+17. Pauṣkara Saṁhitā : 
 
 18. Vaikuṇṭha gadya : 77 
 

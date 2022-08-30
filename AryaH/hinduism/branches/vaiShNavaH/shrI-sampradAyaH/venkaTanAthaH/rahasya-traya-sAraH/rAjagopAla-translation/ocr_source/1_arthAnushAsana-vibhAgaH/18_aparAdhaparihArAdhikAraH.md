@@ -105,7 +105,7 @@ committed and the man feels romarse, the atonement or the prāvaschitta is to me
 
 From such episodes as that of Sandili in which even Garuḍa who has been described in Aḷavandār's Stotranz' as Bhagavan's servant, friend, vebicle, seat and device on the banner, committed an offence against the righteous Sandili and had to undergo the evil consequences of it until he obtained pardon from her -- from such episodes, it is evident that even for those who are in immediate contact with Bhagavan, even slight offences against the righteous are productive of evil consequences. (It may be asked whether 
 
-12. Vigaheswara Samhita 
+12. Vigaheswara Saṁhitā 
 
 13. Aḷavandār: Sastra; 4 
 
@@ -131,11 +131,11 @@ done to the wives of a king -vide his commentary on the Satra : "The 24fruits of
 
 (Sri Ranapaja's commentary is as follows: Though the fruit of upisana or bhakti is mukti, still the time of its attainment is uncertain, because of the presence or absence of obstacles. It may be asked whether there could be any such obstacle in the case of one whose karma or upisana which gets him mukti is far stronger than all other karmas. The answer is:- Even in his case there may be obstacles of the nature of offences done in the past to those who meditate on Brahman). 
 
-Such being the case, although there may be resemblance between oneself and such persons as Parāśara, Vyasa, Suka, Sounaka, Nathamani and others, who were distinguished by their caste, character, conduct and the like in such matters as devotion to Bhagavan and the attaioment of the supreme goal of life, they should not be treated with disregard. There are differences due to the will of Bhagavan as seen in the condition of each object among things which are the property of Bhagavan such as cows and cowherds, tulasī and chanpaka, cowdung and musk. Such points of excellence and inferiority, which are likely to cause envy, should not make one think of treating superior persons with disregard, 28 stated in Rahasyamınāya in the section treating of the origin of envy. It is true that particular actions and abstention from such actions have been prescribed in the case of Bhagavatās as due to conditions of caste and the like as stated in the Brahnia Sutra (2-3. 47) " That there is permission and probi bition (in respect of castes ) is due to their relationship with their bodies as in such things as fire" (Fire from the house of & Vedic scholar is fit for use, that from the crewation ground is anfit for use. So also, though the soul is pare, a man becomes fit or unfit for certain specific matters owing to bis soul's contact with the 
+Such being the case, although there may be resemblance between oneself and such persons as Parāśara, Vyasa, Suka, Sounaka, Nathamani and others, who were distinguished by their caste, character, conduct and the like in such matters as devotion to Bhagavan and the attaioment of the supreme goal of life, they should not be treated with disregard. There are differences due to the will of Bhagavan as seen in the condition of each object among things which are the property of Bhagavan such as cows and cowherds, tulasī and chanpaka, cowdung and musk. Such points of excellence and inferiority, which are likely to cause envy, should not make one think of treating superior persons with disregard, 28 stated in Rahasyamınāya in the section treating of the origin of envy. It is true that particular actions and abstention from such actions have been prescribed in the case of Bhagavatās as due to conditions of caste and the like as stated in the Brahnia Sūtra (2-3. 47) " That there is permission and probi bition (in respect of castes ) is due to their relationship with their bodies as in such things as fire" (Fire from the house of & Vedic scholar is fit for use, that from the crewation ground is anfit for use. So also, though the soul is pare, a man becomes fit or unfit for certain specific matters owing to bis soul's contact with the 
 
 .. 
 
-14. Brahma Sutra: 3-4-51 
+14. Brahma Sūtra: 3-4-51 
 
 186 CHAPTER 
 

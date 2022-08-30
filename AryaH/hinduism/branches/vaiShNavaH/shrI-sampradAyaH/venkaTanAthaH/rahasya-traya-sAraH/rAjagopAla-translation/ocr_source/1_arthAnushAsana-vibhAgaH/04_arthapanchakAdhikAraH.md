@@ -41,7 +41,7 @@ Among these, the essential nature of Brabman, which is the object of attainment,
 
 “This 3Narāyaṇa is always with Sri -- Narāyaṇa whose abode is the ocean of milk. He has now come to the city of Madhura leaving His bed (Adisesha)" (The reference is here to the Vyüha) “Thou art the God Narāyaṇa, the spouse of Sri and hast the Chakra is Thy weapon and Thou art omnipresent". (The refe rence is to the Vibhava or avatāra.) 
 
-1. Harita Samhita 2. Lingapurāṇa. 3. Harivamsa: 113-62 4. Rāmayana: Yuddhakanda 120-13, 
+1. Harita Saṁhitā 2. Lingapurāṇa. 3. Harivamsa: 113-62 4. Rāmayana: Yuddhakanda 120-13, 
 
 34 CHAPTER 
 
@@ -167,7 +167,7 @@ Bhagavan should be thought of, also, es having a trans cendent, super sensuous (
 
 "To Him whose form ever remains the same -- " 
 
-"He who has faith in His form that is eternal and in His being the Supreme Deity - him Bhagavan approaches soon, O Poushkara." 
+"He who has faith in His form that is eternal and in His being the Supreme Deity - him Bhagavan approaches soon, O Pauṣkara." 
 
 “Hari has another form entirely different from all forms seen in the universe, in which all these saktīs abide." 
 
@@ -179,7 +179,7 @@ His form \*\*is not constituted of prakriti or matter por formed of flesh, lymph
 
 " This form shus four arms, is supremely excellent, and is in Vaikuṇṭha." 
 
-46. Tiruvoymozhi: 8-1-8 47. Tiruvoymozhi: 1.1.1 48. Viṣṇupurāṇa : 1.2-1 49. Poushakara Samhita 50. Viṣṇupurāṇa: 6- 7- 70. 
+46. Tiruvoymozhi: 8-1-8 47. Tiruvoymozhi: 1.1.1 48. Viṣṇupurāṇa : 1.2-1 49. Poushakara Saṁhitā 50. Viṣṇupurāṇa: 6- 7- 70. 
 
 31. Vishaupurāṇa : .6-5-84 52. Mahābhārata : Santiparva: 206 - 60 53. Varahapurāṇa: 31 - 40 54. Mahābhārata: Mousalaparva: 5-34 
 
@@ -247,7 +247,7 @@ sport."
 
 \* All o this is merely for play (on the part of Brahman) as in the world (kings play with balls). 
 
-62. Viṣṇupurāṇa: 5-1-50 63. Bhagavad Gita: 10-40 64. Aḷavandār Stotram: 17 65. Brahma Sutras: 1-1-2. 66. Mahābhārata: Santiparva: 206-58 
+62. Viṣṇupurāṇa: 5-1-50 63. Bhagavad Gita: 10-40 64. Aḷavandār Stotram: 17 65. Brahma Sūtras: 1-1-2. 66. Mahābhārata: Santiparva: 206-58 
 
 67. Vishoupurāṇa: 1-2-18 68. Mahābhārata: Sabhaparva: 
 

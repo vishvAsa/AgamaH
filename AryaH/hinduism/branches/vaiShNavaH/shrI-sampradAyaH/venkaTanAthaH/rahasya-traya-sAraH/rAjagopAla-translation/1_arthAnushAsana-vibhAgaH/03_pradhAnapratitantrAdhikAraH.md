@@ -57,7 +57,7 @@ WHAT IS THE MEANING OF ŚEṢA-ŚEṢI  BHĀVA?
 
 Iśvara is said to be the śeṣin of all things, because they exist solely for the fulfilment of His purposes. They are His śeṣas, The following śloka  explains how Iśvara is the śeṣin of all:  The [^f49] Utterance of the Upaniṣads is to the effect that the Lord takes in both sentient and non-sentient things for the fulfilment of His own purposes, by being the cause of their existence, their continuance and their control. In regard to (one of the two (i.e.) the sentient being), Thou art both the end to be attained (upēya) and the means of attaining it (upāya). This is Thy essential nature and not an adventitious quality of Thine. Therefore, O Thou that hast Thy repose in Śrīraṅgam, I seek refuge in Thee without any selfish interest.”
 
-[^f49]: Srirangarajastavam: (Uttara śatakam) 87
+[^f49]: Sriraṅgarajastavam: (Uttara śatakam) 87
 
 THE IMPORTANCE OF THIS KNOWLEDGE.
 

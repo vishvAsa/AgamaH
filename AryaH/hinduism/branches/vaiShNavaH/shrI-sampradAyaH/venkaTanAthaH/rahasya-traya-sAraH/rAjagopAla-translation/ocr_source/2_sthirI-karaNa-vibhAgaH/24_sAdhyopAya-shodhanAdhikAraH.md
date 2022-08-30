@@ -64,7 +64,7 @@ SVARUPA OF PRAPATTI:
 
 10A Lakṣmī Tantram: 17-74. 10. Aḷavandār: Stotram: 01.264 " CHAPTÁR 
 
-that the Lord expects only the prayer for help should be understood only as empbasising the importance of one of the angas (namely, the seeking of the Lord's protection ), for it is said "The 108 Lord expects the expression of the desire for protection". This is only one of the angas (and not the angi). (The Bhashyakara should not be taken as stating that the prayer alone will do). In the shorter gadya also (Srirangagadya), Sri Rāmanuja makes the prayer with faith preceding it and concludes with the words namostu te (v.e.) "I bow to Thee". Further be uses the word s'aranam which means seeking (the Lord) as upāya. From these two, it is evident that self-surrender is present. That the word namas in namostute means surrender of self is well-known from such passages as the following:-- "I bow" to Bhagavao to whom, having surrendered his self which is what is meant by namaskāra, & man gets rid of his suffering and enjoys whatever he desires." In Sri Vaikuṇṭha Gadya the surrender of self preceded by prayer is explicit. Therefore (since Sri Rāmanuja states in Vaikuṇṭha - gadya: "Praying for protection), the person should surrender his (or her) self to Bhagaven after bowing to Him,") it is clear that surrender of self is different from the prayer for protection and is the angī with the prayer as an anga. It has therefore to be concladed that in the words: "One should" surren. der one's self by attering this mantra", and "the surrender" of one's self and of what belongs to one's self", the angi which is garrender of self, is declared as a vidhi or injunction. 
+that the Lord expects only the prayer for help should be understood only as empbasising the importance of one of the angas (namely, the seeking of the Lord's protection ), for it is said "The 108 Lord expects the expression of the desire for protection". This is only one of the angas (and not the angi). (The Bhashyakara should not be taken as stating that the prayer alone will do). In the shorter gadya also (Sriraṅgagadya), Sri Rāmanuja makes the prayer with faith preceding it and concludes with the words namostu te (v.e.) "I bow to Thee". Further be uses the word s'aranam which means seeking (the Lord) as upāya. From these two, it is evident that self-surrender is present. That the word namas in namostute means surrender of self is well-known from such passages as the following:-- "I bow" to Bhagavao to whom, having surrendered his self which is what is meant by namaskāra, & man gets rid of his suffering and enjoys whatever he desires." In Sri Vaikuṇṭha Gadya the surrender of self preceded by prayer is explicit. Therefore (since Sri Rāmanuja states in Vaikuṇṭha - gadya: "Praying for protection), the person should surrender his (or her) self to Bhagaven after bowing to Him,") it is clear that surrender of self is different from the prayer for protection and is the angī with the prayer as an anga. It has therefore to be concladed that in the words: "One should" surren. der one's self by attering this mantra", and "the surrender" of one's self and of what belongs to one's self", the angi which is garrender of self, is declared as a vidhi or injunction. 
 
 If this were not accepted (as true), it would lead to constru ing the sentence "Saranāgati is of 1A six kinds" in its apparent meaning and thinking that the five accessories or angas of prapatti Bre, every one of them, a form of prapatti or angī, in the same Way as we conclude that there are seven different kinds of ablution (snāna) from the sentence :- "Ablution 188 is said to be of seven kinds". 
 
@@ -72,7 +72,7 @@ If this were not accepted (as true), it would lead to constru ing the sentence "
 
 13A Ahirbudhaya Şambita: 37–-28 12. Satvata Tantram: 
 
-13a Bodhayanagrihya Sutra : 2-7. 
+13a Bodhayanagrihya Sūtra : 2-7. 
 
 NNNN 
 
@@ -84,7 +84,7 @@ PRAYER ALONE IS NOT PRAPATTI
 
 (only) angas, 
 
-Even if we judge by the principle that, (when there is a diffe. rence in the statements ), that statement which is made in a larger number of contexts should be accepted as true, it would be evident, from a study of the chapters on Prapatti in Sātvika Tantra, Lakṣmī Tantra, Ahirbudhriya Samhita, and the like, that Nik shepa or self-surrender is the angi. Even in the śloka :-"Thou 18€ Halone, shouldst be my upāya. It is this idea of prayer that is called saranagati", it is indicated by suggestion in the word upāya coming along with the word 'alone' that what ia referred to is bharanyāsa or surrender of responsibility which is the main theme in that context. Even in ordinary life, an accessory is often spoken of as if it were the main thing in order to emphasise some one aspect or other. The word ülambha, which means 'killing' is employed to mean also 'yāga or sacrifice in a wider sense; so also in "seek refuge" in the Charama śloka and the like, the verbs signify the sacrifice of the self or ātma yiiga, which is usually ex pressed by such words as vyāsa, nikṣepa and tyāga (surrender), This is in keeping with Vedic usage. 
+Even if we judge by the principle that, (when there is a diffe. rence in the statements ), that statement which is made in a larger number of contexts should be accepted as true, it would be evident, from a study of the chapters on Prapatti in Sātvika Tantra, Lakṣmī Tantra, Ahirbudhriya Saṁhitā, and the like, that Nik shepa or self-surrender is the angi. Even in the śloka :-"Thou 18€ Halone, shouldst be my upāya. It is this idea of prayer that is called saranagati", it is indicated by suggestion in the word upāya coming along with the word 'alone' that what ia referred to is bharanyāsa or surrender of responsibility which is the main theme in that context. Even in ordinary life, an accessory is often spoken of as if it were the main thing in order to emphasise some one aspect or other. The word ülambha, which means 'killing' is employed to mean also 'yāga or sacrifice in a wider sense; so also in "seek refuge" in the Charama śloka and the like, the verbs signify the sacrifice of the self or ātma yiiga, which is usually ex pressed by such words as vyāsa, nikṣepa and tyāga (surrender), This is in keeping with Vedic usage. 
 
 What is called Vāga is a special form of thought indicating that a particular offering (havis) is made to a particular deity. Ātrayāga or the sacrifice (or surrender of self) is (likewise) a special form of thought indicating this : « My soul, which is the most delicious of offerings (havis ), is for Sriman Narāyaṇa. We 
 
@@ -92,7 +92,7 @@ HW
 
 "13C. Lakṣmī Tantra 23-11-7 :13D. do. 17-74 
 
-13B. Ahirbudhnya Samhita 37-31 
+13B. Ahirbudhnya Saṁhitā 37-31 
 
 286 CHAPTER 
 
@@ -218,11 +218,11 @@ TIAL NATURE IS WRONG:
 
 24 BHAKTI NOT INCONSISTENT WITH SVARUPA 875 
 
-(b) It cannot be stated that the self or soul is, in its essential nature (svarupa), incapable, as the Sankhya saya, of being a doer, and is therefore incapablo, by its very nature, of performing upasanas. For the self is a doer in bhakti (or upa. sanas) and the like is in the performance of prapatti, and in rendering service (to Bhagavan and to Bhagavatas). As stated in the Brahma Sutras: "The 'Self is a doer (capable of endea vour or effort); otherwise the sāstras which enjoin doing certain things and refraining from certain other things would have no purpose or aim", and again, “This "doership of the self is dependent on Brahman" As stated in these passages, the self is a doer capable of endeavour, though his being a doer is dependent on Bhagavan. If it is maintained that the self is absolutely in capable of action, it would follow that, since purposetul action is the sign or mark, of the existence of a thing, the self is void or non-existent. If it is held that the self merely exists and is without jnāna (or knowledge), without the desire to act, and without the endeavour or effort needed for action, it would follow that it is incapable also of enjoyment (boktritvam). This would mean that samsāra is illusory and that there is no need for any upāya for the attaioment of mokṣa. The śloka "Lakṣmī" comes of her own accord to a man who makes no endeavour. Another man does not obtain even food, bard though he worke. This is also due to past karma" - this śloka should not be inter preted as stating that the upāyas prescribed in the sāstras are all of no use. It only emphasises that certain benefits come to a man as a result of certain actions performed in previous (births). 
+(b) It cannot be stated that the self or soul is, in its essential nature (svarupa), incapable, as the Sankhya saya, of being a doer, and is therefore incapablo, by its very nature, of performing upasanas. For the self is a doer in bhakti (or upa. sanas) and the like is in the performance of prapatti, and in rendering service (to Bhagavan and to Bhagavatas). As stated in the Brahma Sūtras: "The 'Self is a doer (capable of endea vour or effort); otherwise the sāstras which enjoin doing certain things and refraining from certain other things would have no purpose or aim", and again, “This "doership of the self is dependent on Brahman" As stated in these passages, the self is a doer capable of endeavour, though his being a doer is dependent on Bhagavan. If it is maintained that the self is absolutely in capable of action, it would follow that, since purposetul action is the sign or mark, of the existence of a thing, the self is void or non-existent. If it is held that the self merely exists and is without jnāna (or knowledge), without the desire to act, and without the endeavour or effort needed for action, it would follow that it is incapable also of enjoyment (boktritvam). This would mean that samsāra is illusory and that there is no need for any upāya for the attaioment of mokṣa. The śloka "Lakṣmī" comes of her own accord to a man who makes no endeavour. Another man does not obtain even food, bard though he worke. This is also due to past karma" - this śloka should not be inter preted as stating that the upāyas prescribed in the sāstras are all of no use. It only emphasises that certain benefits come to a man as a result of certain actions performed in previous (births). 
 
 (c) Nor can it be maintained that upasanas ara, accor. ding to sāstras, against the essential nature of the jiva, because they would bring evil consequences. For, unlike actions performed out of the desire for worldly gains (kāmya) and actions prohibited 
 
-19. Brahma Sutras: 2-3-33 20. Brahma Sutras: 2-3-40 
+19. Brahma Sūtras: 2-3-33 20. Brahma Sūtras: 2-3-40 
 
 21. Mahābhārata: Santi Parva; 
 
@@ -274,7 +274,7 @@ Suddha Yalis . Those whose adoration is solely to Bhagavan without any intermedi
 
 \*\* NOTE:- The Vedas prescribe the rites called abhichara for causing the death of one's enemy. They do so in order that by seeing the effect, men may have faith in the sastra. 
 
-22. Brahma Sutras: 1-2-29 23. Viṣṇu dharma : 66-72 
+22. Brahma Sūtras: 1-2-29 23. Viṣṇu dharma : 66-72 
 
 24 
 
@@ -304,7 +304,7 @@ advantage, O, king; in Kali, a man gets rid of his past karma by the mere mentio
 
 27. Viṣṇu Dharma: 109-57 
 
-29. Lakṣmītantram: 28-17 28. Poushkara Samhita: 
+29. Lakṣmītantram: 28-17 28. Pauṣkara Saṁhitā: 
 
 29A, Tiruvoymozhi: 5-7-5 28A, Aḷavandār: Stotram: 22284 CHAPTER 
 
@@ -312,7 +312,7 @@ fice, one who has 298 done what be ought to do' and 'one who29C has perforined a
 
 ----- - ------ 29B. Satvata Tantra: 
 
-30. Bhagavad Gita: 6-47 29C. Ahirbudhnya Samhita: 37 31. Ahirbudhnya Samhita: 37-36 29D. Bhagavad Gita: 6-46 
+30. Bhagavad Gita: 6-47 29C. Ahirbudhnya Saṁhitā: 37 31. Ahirbudhnya Saṁhitā: 37-36 29D. Bhagavad Gita: 6-46 
 
 32. Lakṣmī Tantra: 17-62 
 
@@ -342,7 +342,7 @@ So far we have removed the misconceptions that may arise about the competence fo
 
 oven Ravana bimaself. I promise protection to him" - ( will the Saviour who said these words) and who was gracious even to his enemies care for the faults of those who have sought refuge under him? The ancients describe Him as the Protector of the whole world without any consideration of merit. Therefore these acces. sories (such as ūnukiilya saṅkalpa) are not requisites but attri butes that are most likely to be met with in those who have performed prapatti." Such is the contention of some critics. In reply to this misconception, it may be said that the passages on which it is based may really have, for their purport, the idea that though such attributes as ūnukiilya do not continue after the performance of prapatti, some expiation will occur and there will be no diminution in the fruit of prapatti, (They do not mean that qualifications like ānukilyasaṅkalpa are not required at the time of the performance of prapatti). If this explanation is not accepted, many authoritative passages which distinguish bet ween the main rite (angi) and its accessories (anga) such as "Saraṇāgati is of six kinds," "Nyāsa has five angas" and "Let him perform that prapatti which has five accessories " - many such authoritative passages would offer opposition. We have already stated that (the absence of these accessories) would be against what is the subject of experience in the world in regard to the conventions regarding the surrender of objects that have to be protected and that these accessories are required only once and so on. Even the divine missile, Brahmastra, requires its own acces sories (angas). Hence the śloka that there is no other requisite \*\* for prapatti anywhere and at any time" only states that it does not require aoy other dhurma cor rite. (It does not mean that reved) the angus of prapatti are not reqnired). Otherwise even intense faith (mahüvisvāsa) which these critics commend as an anga wight be considered as an attribute which may be found (in a prapanna) and not as an anga. 
 
-36. Sanatkumara Samhita. 
+36. Sanatkumara Saṁhitā. 
 
 24 
 
@@ -412,11 +412,11 @@ IS A SINGLE PRAPATTI ENOUGH?
 
 291 
 
-tantly to be ineditated on. He should never be forgotten." When they have arrived at this conclusion, how could it be said that, by the performance of prapatti on a single occasion, mokṣa could be attained? The passage in the Gita which saya :- " Those 46A who perform prapatti to me alone, get over mīyā which cannot be easily got over -- this passage and others like it refer to prapatti which is an anga or accessory to bhakti (upāsana) or meditation, Similarly such texts as the Charama śloka should be considered as prescribing prapatti with its accessories only as an anga of bhakti". This contention of theirs is inappropriate. (For it has been said): " Those who are incapable of meditation (upāsana or bhakti) and seek Thee as their upüya-even they cross over samsāra and enter Thy abode, Vaikuṇṭha,” “Whatever object is desired, by whatsoever person and whatever cannot be obtaised by other means, and that mokṣa from which abode there is no return and which cannot be attained by karma yoga, jiūnayoga, or bhakti yoga, all these fruits are obtained, O great sage, by those who respectively strive for them by the performance of prapatti. The Supreme Self is attained only thereby." As stated in these passa ges, if prapatti adopted as a direct and independent upāya is well established, the prapanna acquires, as its reward, the capacity to meditate constantly on Narāyaṇa as stated in Sri Vaikuṇṭha gadya. This is just like milk being a suitable drink for both the healthy man and the man who is in ill-health. Though meditation (upāsana or bhakti) with its (Vedic) angas is not within the competency of every one, yet it is not impossible for everyone to meditate on the Lord in such measure as is possible for one with his competency, as may be seen in the passage - "May 1, "as the result of Thy will, be endowed with the power of constantly medita ting un Thee!" The author of Sri Bhashya, too, after teaching this upāya (prapatti) in his smaller gadya (Sri Raṅga gadya) and in the longer gadya (Saraņāgati gadya) and referred to it briefly in the Vaikuṇṭhagadya, is pleased to teach this form of 
+tantly to be ineditated on. He should never be forgotten." When they have arrived at this conclusion, how could it be said that, by the performance of prapatti on a single occasion, mokṣa could be attained? The passage in the Gita which saya :- " Those 46A who perform prapatti to me alone, get over mīyā which cannot be easily got over -- this passage and others like it refer to prapatti which is an anga or accessory to bhakti (upāsana) or meditation, Similarly such texts as the Charama śloka should be considered as prescribing prapatti with its accessories only as an anga of bhakti". This contention of theirs is inappropriate. (For it has been said): " Those who are incapable of meditation (upāsana or bhakti) and seek Thee as their upüya-even they cross over samsāra and enter Thy abode, Vaikuṇṭha,” “Whatever object is desired, by whatsoever person and whatever cannot be obtaised by other means, and that mokṣa from which abode there is no return and which cannot be attained by karma yoga, jiūnayoga, or bhakti yoga, all these fruits are obtained, O great sage, by those who respectively strive for them by the performance of prapatti. The Supreme Self is attained only thereby." As stated in these passa ges, if prapatti adopted as a direct and independent upāya is well established, the prapanna acquires, as its reward, the capacity to meditate constantly on Narāyaṇa as stated in Sri Vaikuṇṭha gadya. This is just like milk being a suitable drink for both the healthy man and the man who is in ill-health. Though meditation (upāsana or bhakti) with its (Vedic) angas is not within the competency of every one, yet it is not impossible for everyone to meditate on the Lord in such measure as is possible for one with his competency, as may be seen in the passage - "May 1, "as the result of Thy will, be endowed with the power of constantly medita ting un Thee!" The author of Sri Bhashya, too, after teaching this upāya (prapatti) in his smaller gadya (Sri Raṅga gadya) and in the longer gadya (Saraṇāgati gadya) and referred to it briefly in the Vaikuṇṭhagadya, is pleased to teach this form of 
 
 46A. Bhagavad Gita: 7-14 47. Brahma purāṇa: 
 
-48. Ahirbudhaya Samhita: 37-25 
+48. Ahirbudhaya Saṁhitā: 37-25 
 
 49. Tirucchanda Viruttam: 101 
 
@@ -448,7 +448,7 @@ NITYA AND NAIMITTIKA RITES.
 
 293 
 
-(upādāna); next performing the adoration (@radhana), afterwards uttering the sacred mantras (japa); lastly meditating on the Supreme Lord (dhyāna); thas in the aforesaid five parts of the day, I will spend my days adoriag Him with the good incense and flowers gathered by me with my own effort." Having heard, from the author of Sri Bhashya, this five-fold division of the day and what should be done in each, Vangipuram Nambi briefly summarised it in his Nitya in the words quoted above. This may be seen also in the treatise on daily life written by Periajeer and others. Any differences that might appear in these descriptions are easily ex. plained as due to differences found in different Samhitas. 
+(upādāna); next performing the adoration (@radhana), afterwards uttering the sacred mantras (japa); lastly meditating on the Supreme Lord (dhyāna); thas in the aforesaid five parts of the day, I will spend my days adoriag Him with the good incense and flowers gathered by me with my own effort." Having heard, from the author of Sri Bhashya, this five-fold division of the day and what should be done in each, Vangipuram Nambi briefly summarised it in his Nitya in the words quoted above. This may be seen also in the treatise on daily life written by Periajeer and others. Any differences that might appear in these descriptions are easily ex. plained as due to differences found in different Saṁhitās. 
 
 Hence the prapanna should spend his time in accordance with such sāstraic scheme of life as has been taught by his ācārya in rendering service to Bhagavan with no other purpose than to please Him. (In this context the following passages may be borne in mind):- "I do not desire to go to the divine world leaving Thee; oor do I desire to enjoy immortality so also without Thee, I have no desire for the glory which comes of ruling the world". “ You will benjoy yourself with Sita on the slopes of the moun tains. I will render all service to you whether you are awake or asleep". "I mays be born to any one in whatever family; (wher ever I may be born), may I have the eager longiog to enjoy the pleasure of rendering service to Thee! I will never do anything on behalf of any other deity with my body, mind, speech or head". "The only object that I have in view is that the Lord should take me into His service for His owd pleasure." 
 

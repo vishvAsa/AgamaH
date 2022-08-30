@@ -57,7 +57,7 @@ Further the prapanna should not remain complacently ignorant of what should be k
 
 29. Kalidasa: Malavikagnimitra. 27. Perialvar Tirumozhi: 5-2-8 
 
-30. Satvata Samhita. 
+30. Satvata Saṁhitā. 
 
 15 
 
@@ -69,7 +69,7 @@ of the Lord all those who fall within the range of his eyes will be purified of 
 
 Even if, as it occurred to such as Nammalyar and Natha munigal, he is blessed with the special grace of the Saviour so as to enjoy the rise of such benefits as the vision (of the Lord), he sbould feel sure (that it is not due to aay merit of his own) as said in, "I do not\* know wbat is good and what is bad”, and "Even if I know what is good and what is evil, I cannot obtain what is good and avoid what is evil" He should see to it that his be. ing destitute of all upāyas (Akinchanya) which is due to his svarüpa, his maintenance (sthithi) and his activities (pravritti) being entirely dependent (on the Lord) does not suffer any change or loss. He should remember his atter helplessness (kārpanya ) as described in the śloka “I Ham the abode of all transgressions, I have no means of protecting myself and I have nothing else to attain than Thee", and in such verses as "I have not been observing the code of the disciplined life, nor bave I keen intel ligence", "What \*can I do? "May my \* misery be put an end to by Thee ! If thou dost not do so, there is no one else to protect 
 
-31. Bhagavad Gita: 2-46 32. Perialvar Thirumozhi: 5-1-3 33. Peria Tiruvandadi: 3 34. Ahirbudhaya Samhita: 3-30 
+31. Bhagavad Gita: 2-46 32. Perialvar Thirumozhi: 5-1-3 33. Peria Tiruvandadi: 3 34. Ahirbudhaya Saṁhitā: 3-30 
 
 35. Tiruvaimozhi : 5-7 36. Tiruvoimozhi : 5-8-3 37. Tiruvoimozhi : Sms8162 OR APTEK 
 
@@ -93,9 +93,9 @@ with the words of the Saviour who appears in front to save him - the words which
 
 In accordance with this principle, the prapania 'should not lament for what is past and without running away at the thought of bis past unfitness, he should make himself fit for the future by reflecting on the present fitness which has resulted from the infi. nite greatness of the Saviour which brooks no questioning, like those who construct a dam for the water that will come up in the future; he should not stray from the path of performing the commands and permissions of the Lord which are in keeping with his present state as & prapanna. As described (by the Alvar), the genges which have become tired with expectations of enjoy. 
 
-48. Bodhayana Sutra: 14-10 
+48. Bodhayana Sūtra: 14-10 
 
-51. Vankipuram Nambi: Karika: 31 49. Satvata Samhita: 16–23-24 
+51. Vankipuram Nambi: Karika: 31 49. Satvata Saṁhitā: 16–23-24 
 
 52. Tiruvoimozhi: 1-3-8 50. Vaikuṇṭha Stava: 61 
 
@@ -109,11 +109,11 @@ When people are waiting for the boat in order (to cross the stream) to go to a p
 
 SERVICE TO ARCHĀ: 
 
-While rendering this service, the prapanna should do such acts of service as are in keeping with the respective relationships between him and the Lord and with the Lord's supreme majesty and easy accesssibility; he should do these acts towards the images (archa) into which the Lord has incarnated for the sake of some devotees with exclusive devotion to Him; for it has been said : "He who "believea in the eternal forin and supreme majesty of the Lord -him, O Poushkara, the Lord approaches," "In the same way as the water of the ocean taken up by the clouds and let fall 
+While rendering this service, the prapanna should do such acts of service as are in keeping with the respective relationships between him and the Lord and with the Lord's supreme majesty and easy accesssibility; he should do these acts towards the images (archa) into which the Lord has incarnated for the sake of some devotees with exclusive devotion to Him; for it has been said : "He who "believea in the eternal forin and supreme majesty of the Lord -him, O Pauṣkara, the Lord approaches," "In the same way as the water of the ocean taken up by the clouds and let fall 
 
-54. Poushkara Samhita : 
+54. Pauṣkara Saṁhitā : 
 
-55. Poushkara Samhita : 
+55. Pauṣkara Saṁhitā : 
 
 CONDUCT AFTER PRAPATTI 
 
@@ -123,11 +123,11 @@ CONDUCT AFTER PRAPATTI
 
 The prapanna should meditate on the Lord's placing Himself at the disposal of those who seek His protection in a manner which cannot be understood by the mind or described in words, for it has been said, "Whoever wants to see me and in whatever form - to him I reveal myself in that very form." The same thing is stated also (in the Tamil verse) "He assumes the form desired by His devotees.” He should also meditate on the allaring beauty of the Lord of which (the Alvar) says "The eyesel that have seen the Lord will refuse to see other things." Having 
 
-56. Vishvaksena Samhita : 
+56. Vishvaksena Saṁhitā : 
 
 59. Bhagavad Gita: 4-11 57. Sandilya Smr̥ti: 2-89 
 
-60. Mudal Tiruvandadi: 44 58. Poushkarasamhita 
+60. Mudal Tiruvandadi: 44 58. Pauṣkarasamhita 
 
 61. Amalanadipiraa: 10 
 

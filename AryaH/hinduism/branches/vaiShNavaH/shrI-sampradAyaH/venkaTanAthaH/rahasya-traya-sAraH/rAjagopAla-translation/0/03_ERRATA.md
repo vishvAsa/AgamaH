@@ -24,7 +24,7 @@ Saranāgati Saraṇāgati deepika
 
 panchūs at X 13
 
-Visistadvaita
+Viśiṣṭādvaita
 
 Viśiṣṭādvaita XIX 5
 
@@ -58,7 +58,7 @@ TEXT:
 
 and hita latter Shine actively tamas). Time
 
-Visistadvaitinms are others like the that felt
+Viśiṣṭādvaitinms are others like the that felt
 
 and hita ( later Thine Activity tamis), Time Viśiṣṭādvaitins are, like others, the the yearning felt
 

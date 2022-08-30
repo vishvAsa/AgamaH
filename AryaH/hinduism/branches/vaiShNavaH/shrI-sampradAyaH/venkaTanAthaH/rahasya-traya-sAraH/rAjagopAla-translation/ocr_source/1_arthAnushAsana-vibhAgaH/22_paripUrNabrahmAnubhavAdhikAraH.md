@@ -26,7 +26,7 @@ The Lord's svarūpa is delightful as may be seen from the following passages. "H
 
 216 CHAPTER 
 
-enjoyable in this way: If the king is the queen's joy, then all objects and instruments of his enjoyment as well as the places where he finds delight are alike objects of joy to her. Similarly the mukta finds joy in all that pertains to the Lord. That the Supreme Ruler who has all forms, attributes and the like is an object of enjoyment is evident from the srutis and the Smr̥tis. This idea has been expressed in the section on Bhima in the Brahma Sutras. The svarüpa of Bhagavan is called Parama. pada, because it is the ultimate and supreme object of attainment being of unsurpassed agreeableness. Since the perfect enjoyment of the svarūpa of Bhagavan happens only after reaching & most delightful region far superior to all others, that region is also called Paramapada. The essential nature or svarüpa of the Jira, which is the recipient of this joy in the attainment of Bhagavan which is also among the glorious possessions (Vibhūtis) of the Lord and which has, for its attribates, jnana and ānanda, is also (sometimes ) called Paramapada. Along with the others, these three bave, in common, only the feature of being the object of attainment. 
+enjoyable in this way: If the king is the queen's joy, then all objects and instruments of his enjoyment as well as the places where he finds delight are alike objects of joy to her. Similarly the mukta finds joy in all that pertains to the Lord. That the Supreme Ruler who has all forms, attributes and the like is an object of enjoyment is evident from the srutis and the Smr̥tis. This idea has been expressed in the section on Bhima in the Brahma Sūtras. The svarüpa of Bhagavan is called Parama. pada, because it is the ultimate and supreme object of attainment being of unsurpassed agreeableness. Since the perfect enjoyment of the svarūpa of Bhagavan happens only after reaching & most delightful region far superior to all others, that region is also called Paramapada. The essential nature or svarüpa of the Jira, which is the recipient of this joy in the attainment of Bhagavan which is also among the glorious possessions (Vibhūtis) of the Lord and which has, for its attribates, jnana and ānanda, is also (sometimes ) called Paramapada. Along with the others, these three bave, in common, only the feature of being the object of attainment. 
 
 It has been said above that such things as Bhagavan's svarūpa, attributes and forms, the region of eternal glory (nitya vibhūti) which is constituted of pure sattvam and his own suurüpa are objects of delight to the mukta. It may be asked, “This may be trae. But by sense perception (pratyakṣa) and other sources of knowledge, the objects in this world of lilā vibhuti are found to be disagreeable and are declared by the śāstras also to be things to be given up, How then could they viz. the objects in lila vibhūti be objects of delight to the mukta ?" The answer is as follows:-- \*\* There is nothing inconceivable in this. What appears disagree. able to the man suffering from (excess of) bile is felt as agreeable when the bile has decreased. Again when the prince is in the prison house it is disagreeable. But when the emperor is pleased to set him free and to place him by his own side to enjoy like pleasures, the prison bouse may appear agreeable as a syinbol of 
 
@@ -132,7 +132,7 @@ If it be so, it may be asked whetber the mukte who is not in. dependent (of God)
 
 19. Mahābhārata: Santi Parva: (361-14-15) 
 
-20. Jayakhya Samhita: 4 
+20. Jayakhya Saṁhitā: 4 
 
 22 
 
@@ -144,7 +144,7 @@ possibility of & return to samsāra. The jiva's dependence on Iswars has been st
 
 23. Bhagavad Gita: 7-17 
 
-21. Parama Samhita: 22. Parama Samhita : 
+21. Parama Saṁhitā: 22. Parama Saṁhitā : 
 
 226 OB APTER 
 
@@ -160,7 +160,7 @@ May varied forms of service which are the overflow of the blissful enjoyment of 
 
 SANSKRIT SLOKA: (Sammary of Part I) 
 
-Having received\* the gracious look of the Lord and of the Achārya) and understood what is most essential and most 23. Brahma Sutras: 4-4-22 
+Having received\* the gracious look of the Lord and of the Achārya) and understood what is most essential and most 23. Brahma Sūtras: 4-4-22 
 
 22 
 
