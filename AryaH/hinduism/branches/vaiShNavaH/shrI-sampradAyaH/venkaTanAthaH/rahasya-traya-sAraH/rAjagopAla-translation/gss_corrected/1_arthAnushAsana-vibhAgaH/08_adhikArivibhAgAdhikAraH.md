@@ -1,0 +1,173 @@
++++
+title = "०८ अधिकारिविभागाधिकारः"
+
++++
+
+
+
+
+
+
+
+॥ श्रीः ॥
+
+॥ श्रीमते निगमान्तमहादेशिकाय नमः ॥
+
+॥ श्रीमद्रहस्यत्रयसारे अधिकारिविभागाधिकारः ॥ ८ ॥
+
+
+
+(8) THE CHAPTER ON THE CLASSIFICATION OF QUALIFIED PERSONS.page153
+
+
+
+
+
+SANSKRIT _ŚLOKA_:
+
+
+
+मुमुक्षुत्वे तुल्ये सति च मधुविद्यादिषु यथा
+
+व्यवस्था संसिद्ध्यत्यधिकृतिविशेषेण विदुषाम् ।
+
+विकल्प्येत न्यासे स्थितिरितरविद्यासु च तथा
+
+नियत्या वैयात्यं नियमयितुमेवं प्रभवति ॥ २० ॥
+
+
+
+Even though the desire for _mokṣa_  is the same, a distinction arises among those who practise the vidyās or forms of meditation prescribed in the śrutis, as a result of their respective qualifications[^42] or competence in regard to such vidyās as Madhuvidyā, Sad_vidyā_ and so on. In the same way, a distinction arises between the adoption of _prapatti_ and other vidyās (which are of the nature of _bhakti_ or devout meditation), as a result of an unseen power or destiny depending on past _karma_ which brooks no questioning.
+
+[^42]:
+Some aspirants for _mokṣa_  are qualified for madhu _vidyā_ and others for sad_vidyā_ as a result of their respective competence or special forms of aspiration. So also some are qualified for _prapatti_, while others are for _bhakti_.
+
+
+
+
+
+
+TWO KINDS OF ADHIKARĪS:
+
+
+
+Among those who thus resort to the practice of the _dharma_s of renunciation as a means for the attainment of the supreme goal of life (namely _mokṣa_ ), there are two classes of qualified persons : those who adopt _prapatti_ as the sole and direct means and those to whom _prapatti_ is auxiliary to the chief means, viz., _bhakti_. Both these are prapannas, one adopting _prapatti_ as an independent means and the other adopting it as _aṅga_ to _bhakti_. Both of them are also called bhaktas, because _bhakti_ is the phala[^43] or fruit for one and sādhana or means for the other,
+
+[^43]:
+phala _bhakti_ means _bhakti_ which arises as the fruit of _prapatti_, whereas sadhana _bhakti_ is _bhakti_ which leads to _mokṣa_ .
+
+
+
+
+
+
+Just as, according to the passage, " Ablation is prescribed in seven forms", (1) the utterance of a _mantra_ ; (2) the mental process; (3) celestial ablution ; (4) ablution by air and so on, are held as different and equally effective kinds of ablution in regard to those who are qualified for those respective forms, the forms known as Ukti_niṣṭhā_ (by one's utterance) and _ācārya_ _niṣṭhā_ :(that done by the _ācārya_  on one's behalf) and varieties of _prapatti_.
+
+
+
+UKTINIṢṬHĀ:
+
+
+
+Of these, that done by one's utterance (ukti_niṣṭhā_) is as follows: Those who have no clear knowledge of auxiliaries (_aṅga_), such as the determination to do what is agreeable (to the Lord), but who possess the qualification of knowing that, without, the Lord, they have no other means (a kinchanya) and who have. also the faith (viswāsa) that He will grant salvation if prayed to - they pronounce, before the Saviour, the sentence taught to them by their _ācārya_ s, which will be considered by the Lord as equivalent to perfect _prapatti_; they say: "May my salvation be Thy burden or responsibility !?" They are like the ignorant children of feudatory princes who seek the protection of the emperor by repeating the words taught to them by their nurses. If a little boy who does not understand the meaning of words and sentences says, once, " Madam, give me food as alms", it meets: with immediate and favourable response in the houses of good men who are well.to do. In the same way, it has been said, The Lord, whose wealth never suffers any diminution, however much He may give, will also grant whatever is prayed for". Since He is supremely rich and generous, even this utterance or _ukti_ will never be fruitless. In the case of those who are ignorant and who depend entirely on this utterance, the compassion of the Lord, who is the refuge of all, cannot ignore even this mere utterance (as it cannot digest it); for it has been said, “Whatever may be the manner or form, you have uttered the _Dvaya_ _Mantra_. Therefore your redemption is my responsibility." This truth has been stated by those who are well versed (in the śāstra s) in such _śloka_ s as the following: "Though I am a sinner, it will not become Thee, who art the Lord of all, to neglect me when I utter the words stating that I seek Thy refuge." "This speech of mine expressing the thought that I seek refuge under Thee is not uttered with all my mind and with all my heart. I can be saved only if even this mere utterance will secure Thy compassion." "I long to see Thee by merely uttering the words of _prapatti_ - Thee who canst not be attained by _bhakti_." The state of one who performs _prapatti_ by utterance (_ukti_), and that of one who depends solely on the _ācārya_  have both been described in the same _śloka_  as follows:- "I have been made Thy responsibility by my _ācārya_ s who follow the way of _dharma_. I have also (myself) uttered the word seeking refuge. Taking this into consideration, O, Lord of _Śrī_r_aṅga_m, make me Thy burden or responsibility" The word api (also) in the _śloka_  indicates that any one of the two will suffice.
+
+
+
+
+
+ĀCĀRYANISHȚHĀ ;
+
+
+
+Of the two, the one who depends solely on the _ācārya_  is included in the _ācārya_ 's own _prapatti_ as part of it, for it has been laid down in Śāṇḍilya _Smṛti_ and other treatises as follows: “He should also state thus: “This is my son, my servant, my disciple (who is to be saved)". It has been said: “There may be doubts concerning (the redemption of) those that serve Acyuta, but there is absolutely no doubt about the (redemption) of those who delight in the service of His devotees". So, in the case of those who depend solely on the _ācārya_ , there is no doubt at all concerning the fruition of _prapatti_, by the principle of "How much more, then" (kaimutika nyāya).
+
+
+
+Mudali Andan said: "When a lion leaps from one hill to another, the little creatures (like bugs and lice) on his body are also taken over from that hill to the other. So also when the author of Śrī Bhāṣya performed _prapatti_ (the surrender of his responsibility or bhara), we "too have been saved (by that act)[^44] owing to our intimate connection with him." We, too, have expressed this idea in _Nyāsa_ Tilaka as follows:- " The blind man walks on being led by one who is not blind; the lame man is taken (across the stream) by the boatman, being placed within the boat; the children of the king's servants enjoy the pleasures (of the palace), although they do not know the king. So also my _ācārya_ , who is compassionate, is capable of making me attain Thee, O Lord of _Śrī_r_aṅga_m". It comes to this that the Lord of all will not be gracious enough to grant us the supreme goal of existence, unless _prapatti_ is performed in some manner or other and by some one or other.
+
+[^44]:
+This is interpreted in two different ways by the southern school of Viśiṣṭādvaitins and the northern school. The former hold that since Śrī _Rāmānuja_ has already performed _prapatti_, even his followers of a later day who acknowledge him as their _ācārya_  will benefit by it and they need not perform _prapatti_; the latter hold, on the other hand, that only those who were his śiṣyas then would benefit by it
+
+
+
+
+.
+
+
+
+The favour of Bhāgavatas, residence in holy places and the like are not direct and independent means for attaining _mokṣa_ . (It is true that we find such passages as the following in the śāstra s):-"Whether it be a beast or a man or a bird - those who are held by Bhāgavatas as their own will go to the supreme abode of Viṣṇu  for that very reason". “We, who live in your territories, should be protected by you, for you are our king, O ruler of men, whether you are in the town or in the forests''. "All the beings in Ayodhya which contained (many) good regions - whether they were beings that moved or beings that could not move - he enabled them (all) to acquire nobility of nature". The nobility was that of feeling delight in the company of ŚrīRāma and grief in separation from him. "The strength that lies in living in places where Thou hast temples is the strength that enables a man to attain _mokṣa_ ". (From these passages, it might appear, at first sight, that the favour of Bhāgavatas or God's devotees and the fact of living in places belonging to the Lord would lead of themselves to the supreme goal.) But even here there is always some connection with either _prapatti_ by one's owa utterance or _prapatti_ through the _ācārya_  or _bhakti_ or _prapatti_ which existed before or _bhakti_ or _prapatti_ which followed. It may be asked how this could be. (The answer is as follows:-) They will lead to _bhakti_ or _prapatti_. In the case of one who has already adopted _bhakti_ or _upāsanā_, they will promote the further development of the _upāya_ or means. In the case of one who has performed _prapatti_ as an independent means, they will promote the eagerness for service while in this world. It is in this way they render help.
+
+
+
+DIFFERENCE BETWEEN _BHAKTI_ AND _PRAPATTI_
+
+
+
+IN SECURING THE GOAL: Among these, he who has adopted _prapatti_ as the means to _bhakti_ is capable, like Vyāsa and others, of other means or _upāya_s than _prapatti_ and is therefore not absolutely helpless (_akiñcana_ ). Since he can bear delay (in attaining _mokṣa_ ), he is not averse to other interests (in life). He will attain _mokṣa_  only at the expiry of the _karma_ which has already begun to yield fruit (prārabdha), when he will have the intense thought of the last moment before death. Since the primary _upāya_ or means (_aṅgī_) which he has chosen is upăsana or _bhakti_, he attains the fruit thereof, namely, _mokṣa_ , when it is performed fully and in accordance with the rules and injunctions prescribed for it. On the other hand, _prapatti_ adopted as the primary or direct means (_aṅgī_) is open to all adhikārīs, is capable of averting all hindrances (to _mokṣa_), can further the attainment of all that is desired, is easy of performance, has to be performed only once, can bring about the fulfilment (of what is aimed at ) quickly and will not countenance any opposition or obstacle. Like the missile, _Brahmāstra_, it will not tolerate the adoption of any other means or _upāya_ for attaining the fruit. The man who has resorted to _prapatti_ as the direct and independent means will have no hindrances at all in the way of his attaining the perfect enjoyment (of the bliss of _Bhagavān_). Therefore from the moment of the performance of _prapatti_, there is nothing in the way of his attaining _mokṣa_  but his own desire to live till the death
+
+of this body so that he may enjoy such things as the rendering of service with this body to the images of the Lord (_arcā_) to which he has an attachment. So his _mokṣa_  has to await only the death of this body and will consist in the rendering, in Vaikuṇṭha  , of perfect and full service which has begun even here in the performance of service limited by the conditions of place, time and the nature of bodily life (_svarūpa_ ). The state of the _prapanna_ who is prepared to continue in this world till the dissolution of the body is referred to in passages like the following: "What is there" wrong in us who go about here having already won the grace of being permitted to serve Thee " "Leaving this bliss of uttering Thy names, I do not want even the bliss of going to Paramapada and ruling over it." "Can I indeed give up the hare and go in pursuit of the crow !" (That is--- it would be foolish to give up hare's flesh which is excellent as food and go after crow's flesh. So also the service of the image here in temples is superior even to the bliss of serving the Lord in Paramapada). “My deep love to Thee, "O King, is always staunch. So also my devotion to Thee, O valiant Sire, is always firnı. Nowhere else can my mind turn". (In these words Hanuman expresses his love and devotion to ŚrīRāma and states that this love and devotion are greater towards Rama than even to the Lord of Paramapada).
+
+Since the Supreme Ruler is the giver of all things, and since _prapatti_ at His feet is capable of yielding all kinds of fruit, it becomes the means of securing whatever fruit is desired respectively by these two (_bhakta_ and _prapanna_ [^45] ). The _Śāstra_s say, "Ask any boon that you want, when I am in the range of one's vision, all (good) things will follow." "O Thou that hast created all the worlds! Is there anything that is difficult to obtain, when Thou art pleased ? "   " When He is graciously disposed, is there anything here that cannot be obtained ? "   " What is there in this world or in the world above, O Dalbhya, that cannot be accomplished by those men whose minds are directed towards Viṣṇu  ?" "The fruit is from Him. It stands to reason ". (_Brahma_ _Sūtra_s 3 - 2 - 37). _Bhakti_ or _upāsana_ is the means of securing the four kinds of objects that may be desired in accordance with one's aim as stated in the Bhagavad Gitā (7 - 16). "Four types of men who have performed meritorious deeds worship me. He who has lost his wealth and is anxious to recover it, he who wants to have a vision of his own self (ātmā) and to enjoy it (ātmānubhava ), he who wants to acquire wealth anew, and he who is a Jnāni, who desires to be for ever with the Lord and practises _bhakti_ for attaining Him." Similarly have not the great rishis declared that _prapatti_ is also the means of attaining the four kinds of objects or aims as is stated in the _śloka_  : "Only so long as one does not perform _prapatti_ to Thee that canst destroy all sins, will there be the anxiety to recover lost wealth, only so long will there be the desire to acquire new wealth, only so long will there be the absence of the enjoyment of one's self as something different from the body; only so long will there be the sorrow of _samsāra_". From the words " that destroyest all sins” and the repetition of "only so long" repeated in every case with great consideration, it is made clear that the fruit which is desired by the man will all become his, in accordance with his desire and at the very time when he desires to have it. It is in consideration of this superior efficacy of _prapatti_ that it is stated (in Lakṣmī  Tantra 17 - 62) as follows:-" Those who practise _Jñāna_ Yoga and _Bhakti_ Yoga with a pure mind and those who perform _karma_ which would discipline the soul in renunciation are not worth even one ten-millionth part of the man who has performed _prapatti_. The difference in the kinds of service done here (in this life) by the _prapanna_ is due to the difference in the desire of the _prapanna_ and that difference in the desire is due to the difference in the meritorious deeds of the past which have begun to operate in this life (Prārabdha _karma_ ). There will be no difference at all in the bliss that will be attained after casting off the last body.
+
+[^45]:
+The sentence means that the direct' _prapanna_ gets _mokṣa_  which he desires and the _prapanna_ who performs _prapatti_ for the sake of _bhakti_ gets _bhakti_ which he desires, for _prapatti_ can secure whatever is desired.]
+
+
+
+
+THE BLISS IN MOKṣA  IS THE SAME FOR BOTH.
+
+
+
+Entire dependence on the Lord is uniformly the same for all. For it is stated in Viṣṇu  Tantram :-"Having understood his absolute dependence on the Supreme Person, he gets rid of the bondage due to past _karma_, attains peerless independence and enjoys bliss with him." It has been declared (by the _Bhāṣya_kāra in the chapter on the Goal (Chapter IV of the _Brahma_ _Sūtra_s) that this independence which is said to be acquired in the final stage of attainment (i.e.) _mokṣa_  is  fitness to render every kind of service to the Lord without being subject to past _karma_.
+
+
+
+TAMIL VERSE:
+
+
+
+वेण्डुम् पॆरुम्बयन् वीडॆण्ड्रऱिन्दु विदिवगैयाल्
+
+नीण्डुङ्गुऱुगियुनिऱ्‌कु निलैगळुक्केऱ्‌कुमन्बर्
+
+मूण्डॊण्ड्रिन् मूलविनैमाट्रुदलिन् मुगुन्दनडि
+
+पूण्डण्ड्रि मट्रोर्बुगलॊण्ड्रिलैयॆन निण्ड्रनरे. // 15 //
+
+
+
+Those who desire to attain the bliss of _Bhagavān_ realise that the supreme aim of life is _mokṣa_  and that there are two _upāya_s or means attaining it, one prolonged and the other quick which depend on their luck. They adopt one of these two _upāya_s and find that, for getting rid of the hindrances caused by past _karma_, there is no other way than seeking the feet of Mukunda for refuge,
+
+
+
+SANSKRIT _ŚLOKA_:
+
+
+
+प्रपन्नादन्येषां न दिशति मुकुन्दो निजपदं
+
+प्रपन्नश्च द्वेधा सुचरितपरीपाकभिदया ।
+
+विलम्बेन प्राप्तिर्भजनसुखमेकस्य विपुलं
+
+परस्याशु प्राप्तिः परिमितरसा जीवितदशा ॥ २१ ॥
+
+
+
+Mukunda does not vouchsafe His abode to any one other than the _prapanna_. The _prapanna_ is of two kinds, namely, he who adopts _prapatti_ as the sole and independent means and he who adopts _prapatti_ as the auxiliary means to _bhakti_ or _upāsana_ and this difference is due to difference in the fruition of their good deeds. He who adopts _prapatti_ as an auxiliary to _bhakti_ will attain _mokṣa_  after much delay caused by the need to expiate past _karma_ (in one or several bodies), but will have the happiness of devout worship in this world for a long time. He to whom _prapatti_ is the sole and independent means will attain _mokṣa_  quickly (i.e.) at the end of this life itself, but his happiness of serving the Lord in this world will be limited and of short duration.
+
+इति कवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य
+
+श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु
+
+श्रीमद्रहस्यत्रयसारे
+
+अधिकारिविभागाधिकारोऽष्टमः ॥
+
+श्रीमते निगमान्तमहादेशिकाय नमः ॥
+
+
+
+
+
