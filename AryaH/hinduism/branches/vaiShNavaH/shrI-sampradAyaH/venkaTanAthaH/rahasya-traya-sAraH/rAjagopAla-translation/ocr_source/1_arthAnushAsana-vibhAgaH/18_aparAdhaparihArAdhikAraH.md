@@ -33,7 +33,7 @@ OF YAMA EVEN IF HE OFFENDS:
 
 When, owiog to hard-heartedness due to past karma operating now (prārabdha), the prapanna does not obtain pardon by atonement, he will not go to the world of Yama (but receive panishment in this very life). For it has been said :- "Seeing' 
 
-1. Lakṣmī Tantram : 17-91, 92 2. The verses of Vangipuram Nambi: 3. The words of Sita to Ravana: Rāmayana: Sundarakanda: 21, 20-21 4. Vamana Purana: 94-31. 
+1. Lakṣmī Tantram : 17-91, 92 2. The verses of Vangipuram Nambi: 3. The words of Sita to Ravana: Rāmayana: Sundarakanda: 21, 20-21 4. Vamana Purāṇa: 94-31. 
 
 178 CHAPTER 
 
@@ -41,7 +41,7 @@ When, owiog to hard-heartedness due to past karma operating now (prārabdha), th
 
 his attendants with the noose (of death ) in their hands, Yama whispers in their ears :--"Do not approach those who have per formed prapatti at (the feet of) Madhusudana. I have swey only over others and not over the devotees of Viṣṇu". And Again : - "O Thou with lotus-like eyes, O Vasudeva, O Visbau, O Thoa that bearest the earth, O Thou that art armed with the coach and the discus, be Thou my refuge" - those that atter these words - leave them at a distance for they are not sinners", and further, "Those that perform® prapatti to Viṣṇu, the God who is armed with sārnga, never go to the world of Yama, for naraka is not their dwelling place." As stuted above in such treatises as Viṣṇupurāna and Vamanapurāna and the passages in the strutis on which they are based, they do not go to the land of Yama, but they are punished with the blindness of an eye, or the lameness of a leg, or some such thing and thus relieved of their burden (of sin). (They will be punished in this life itself here) on the analogy of one (who is dear) being punished with the prick of a thorn iostend of being stabbed with a spear. The Supreme Lord, being possessed of forgiveness, kiodness, com passion and over-flowing love, relents in His anger and protects the prapanna after a light punishment in this very life for his offence. An emperor, who is to be duly served, punishes his attendants (like those who carry the umbrellas ), the servants of the barem like the hunchbacks and the dwarfs and so also the princes, in proportion to their offences and (algo) to such things as their closeness to Him. (He punishes them) for having committed offences, in spite of his affection to them due to their relationship and His goodness. (He padishes them) so that they may obtain pardon for their offences and know that, in future, they may not offend (in the same manner). The punishments are such as the following: averting his face from them, whipping, getting them driven out, keeping them outside the gates and suspension for a short time. Similarly Īśvara punishes the prapanna, as Sri Rāma 
 
-5. Yama's words: Viṣṇupurana: 3-7-33 6. Vamanapurana: 94-47 
+5. Yama's words: Viṣṇupurāṇa: 3-7-33 6. Vamanapurāṇa: 94-47 
 
 18 
 
@@ -93,7 +93,7 @@ It may (now) be asked :-"What if the original or first prapatti is made on one's
 
 \* NOTE: Ushasti ate a morsel of cooked gram given by a mahout but refused to drink the water which was afterwards offered by him. He justified his action by saying that he ate the gram to avoid death by starvation, but ref used the water because there was then no fear of death. 
 
-11. Viṣṇu Purana: 2-6-40 
+11. Viṣṇu Purāṇa: 2-6-40 
 
 18 
 
@@ -103,11 +103,11 @@ ATONEMENT FOR OFFENCES
 
 committed and the man feels romarse, the atonement or the prāvaschitta is to meditate on Bhagavan. Therefore the rule that, unless the occusion has arisen, there can be no application of a remedy (to cover a future possibility) holds good and stands adcon. tradicted in the case of offences committed deliberately after prapatti. Since the prayaschitta or atonement is prescribed only for & sin that has already been committed, if & man dreads the possiblity of future sins committed deliberately, he should perform atonement in the form of a prapatti for the sins of the past life which have now begun to operate and which are the cause of these (possible) future sins. For has it not been said, "Bhakti ' adopted as an upāya can destroy all sing except those sins of the past that have begun to operate in tbis life. On the other hand, prapatti (or sūdhya bhakti). is superior to bhakti and can destroy even those sins of the past that have begun to produce their conse quences in this life?" It has also been said :- "The 18 sins com. mitted in previous births afflict a man (in the present life) 28 diseases. They can be got rid of by medicines, charitable gifts, japa, offerings to the fire (homa) and adoration of Bhagavan". (It is indeed stated here) that, even by japa and hona, the sins of the past which have begun to bear fruit in the present life can be destroyed. (Such being the case, there is no reason to doubt that prapatti can destory such sids). Therefore if a man perforing prapatti in dread of the possibilities of future sips which might be caused by the sins of the past, these can be got rid of and no such future sin will be deliberately committed. 
 
-From such episodes as that of Sandili in which even Garuḍa who has been described in Alavandar's Stotranz' as Bhagavan's servant, friend, vebicle, seat and device on the banner, committed an offence against the righteous Sandili and had to undergo the evil consequences of it until he obtained pardon from her -- from such episodes, it is evident that even for those who are in immediate contact with Bhagavan, even slight offences against the righteous are productive of evil consequences. (It may be asked whether 
+From such episodes as that of Sandili in which even Garuḍa who has been described in Aḷavandār's Stotranz' as Bhagavan's servant, friend, vebicle, seat and device on the banner, committed an offence against the righteous Sandili and had to undergo the evil consequences of it until he obtained pardon from her -- from such episodes, it is evident that even for those who are in immediate contact with Bhagavan, even slight offences against the righteous are productive of evil consequences. (It may be asked whether 
 
 12. Vigaheswara Samhita 
 
-13. Alavandar: Sastra; 4 
+13. Aḷavandār: Sastra; 4 
 
 184 CHAPTER 
 
@@ -119,7 +119,7 @@ SANSKRIT SLOKA:
 
 When the cause, nanely, the delusion that the self is the body and that the self is independent (of the Lord) and other such delusions disappear, the offences which arise from the desire for wealth and for sense pleasures are (completely) rooted out without any special effort. 
 
-The prime cause of all these, namely, the possibility of future offences and the delusions which cause them is sin committed in past births which has now begun to yield its consequences. There fore it will be aloned, for by the performance of prapatti at the beginning so as to cover that sin also or the performance of a further prapatti for the purpose. Of these sids which have to be atoped for, the Bhashyakāra (Sri Rāmapuja) has pointed out that offences done to Bhagavatas stand in the front rank like those 
+The prime cause of all these, namely, the possibility of future offences and the delusions which cause them is sin committed in past births which has now begun to yield its consequences. There fore it will be aloned, for by the performance of prapatti at the beginning so as to cover that sin also or the performance of a further prapatti for the purpose. Of these sids which have to be atoped for, the Bhashyakāra (Sri Rāmanuja) has pointed out that offences done to Bhagavatas stand in the front rank like those 
 
 18 
 
@@ -131,7 +131,7 @@ done to the wives of a king -vide his commentary on the Satra : "The 24fruits of
 
 (Sri Ranapaja's commentary is as follows: Though the fruit of upisana or bhakti is mukti, still the time of its attainment is uncertain, because of the presence or absence of obstacles. It may be asked whether there could be any such obstacle in the case of one whose karma or upisana which gets him mukti is far stronger than all other karmas. The answer is:- Even in his case there may be obstacles of the nature of offences done in the past to those who meditate on Brahman). 
 
-Such being the case, although there may be resemblance between oneself and such persons as Parasara, Vyasa, Suka, Sounaka, Nathamani and others, who were distinguished by their caste, character, conduct and the like in such matters as devotion to Bhagavan and the attaioment of the supreme goal of life, they should not be treated with disregard. There are differences due to the will of Bhagavan as seen in the condition of each object among things which are the property of Bhagavan such as cows and cowherds, tulasī and chanpaka, cowdung and musk. Such points of excellence and inferiority, which are likely to cause envy, should not make one think of treating superior persons with disregard, 28 stated in Rahasyamınāya in the section treating of the origin of envy. It is true that particular actions and abstention from such actions have been prescribed in the case of Bhagavatās as due to conditions of caste and the like as stated in the Brahnia Sutra (2-3. 47) " That there is permission and probi bition (in respect of castes ) is due to their relationship with their bodies as in such things as fire" (Fire from the house of & Vedic scholar is fit for use, that from the crewation ground is anfit for use. So also, though the soul is pare, a man becomes fit or unfit for certain specific matters owing to bis soul's contact with the 
+Such being the case, although there may be resemblance between oneself and such persons as Parāśara, Vyasa, Suka, Sounaka, Nathamani and others, who were distinguished by their caste, character, conduct and the like in such matters as devotion to Bhagavan and the attaioment of the supreme goal of life, they should not be treated with disregard. There are differences due to the will of Bhagavan as seen in the condition of each object among things which are the property of Bhagavan such as cows and cowherds, tulasī and chanpaka, cowdung and musk. Such points of excellence and inferiority, which are likely to cause envy, should not make one think of treating superior persons with disregard, 28 stated in Rahasyamınāya in the section treating of the origin of envy. It is true that particular actions and abstention from such actions have been prescribed in the case of Bhagavatās as due to conditions of caste and the like as stated in the Brahnia Sutra (2-3. 47) " That there is permission and probi bition (in respect of castes ) is due to their relationship with their bodies as in such things as fire" (Fire from the house of & Vedic scholar is fit for use, that from the crewation ground is anfit for use. So also, though the soul is pare, a man becomes fit or unfit for certain specific matters owing to bis soul's contact with the 
 
 .. 
 
@@ -145,7 +145,7 @@ body). In spite of these ordinances, we should also consider such passages as th
 
 15. Bhagavad Gita: 9-30 16. Itihasa samucchaya: 31-55 17. Itihasa samucchaya: 27-26 18. Itibasa samucchaya: 27-27 
 
-19. Tiruvoymozhi: 3-7 20: Tiruvoymozhi: 8-10 21. Mahabharata: Santiparva: 79-21 
+19. Tiruvoymozhi: 3-7 20: Tiruvoymozhi: 8-10 21. Mahābhārata: Santiparva: 79-21 
 
 18 
 
@@ -157,7 +157,7 @@ exemplified in the following: " Since\* you have offended, I see no other atonem
 
 rred has word (whoms and we 
 
-Even if one who knows the tattva has deliberately entered on & course of conduct unfavourable (to the Lord), the Supreme Ruler will pardon him, if he performs prapatti subsequently. This may be seen from the following episode :- When Brahma saw Rudra in Badarikasrama aiming bis arrow at Bhagavan who bad incarnated as the son of Dharma, be explained matters to Rudra and stopped him from the fight. "Rudra \*s then apologised to Narayana who was his Lord to win His favour. He also per formed prapatti to Hari, the Creator of the World, The Supreme Ruler, the giver of boods, became gracious, controlled His anger, became pleased and associated there with Rudra". 
+Even if one who knows the tattva has deliberately entered on & course of conduct unfavourable (to the Lord), the Supreme Ruler will pardon him, if he performs prapatti subsequently. This may be seen from the following episode :- When Brahma saw Rudra in Badarikasrama aiming bis arrow at Bhagavan who bad incarnated as the son of Dharma, be explained matters to Rudra and stopped him from the fight. "Rudra \*s then apologised to Narāyaṇa who was his Lord to win His favour. He also per formed prapatti to Hari, the Creator of the World, The Supreme Ruler, the giver of boods, became gracious, controlled His anger, became pleased and associated there with Rudra". 
 
 Whether a man has offended Bhagavatas (in this life) or whether some Bhagavatas bate him owing to his wicked deeds in past lives though he has committed no offence in this life, he should obtain the pardon of Bhagavan by obtaining the pardon of such Bhagavatas by some means or other : This is evident in the 
 
@@ -169,13 +169,13 @@ Ibid :: 36-11 24.
 
 Ibid 
 
-: 36-28 25. Mahabharata : Santi Parva : 352-64 
+: 36-28 25. Mahābhārata : Santi Parva : 352-64 
 
 188 CHAPTER 
 
-passage which describes the characteristics of a Sri Vaishnava : "He is a devotee of Vishou who, on bearing harsh words uttered by a Bhagavata, prostrates before him and begs his pardon." If a man does not do so, he will pass beyond the reach of the grace of the Lord and will lose also what is essential to his nature as a Viṣṇubhakta, namely, his being a sesha to Bhagavatas and, like wise, his qualities of self-restraint and patience; for it has been said :-“Those who are Brahmins (Bhagavatas absorbed in the contemplations of Brahman) they are myself. There is no doubt about this O, King; when they are adored, I am adored; when they are pleased, I am also pleased. He who hates them bates me also." "Though the Brahmina strikes him, curses him and utters cruel words to him, he who does not bow to him as I did (to Bhrigu) - be is a singer. He will be consumed by the wild fire of the Brahmin's anger. He deserves to be killed and punished. He is not mine." To lose these (bis being a s'esha to Bhagavatas and his self-restraint and patience) is itself, in his case, being killed and punished. Topdaradippodi Alwar\*, who realised and enjoyed his relationship of being & s'esha to Bhagavatas, which be considere ed as his distinctive feature, has described how miserable it is to be outside the pale of the Lord's grace as follows:- "My Lord has not said: “ This is a lado deserving of my affection". How wicked are my sins!" 
+passage which describes the characteristics of a Sri Vaiṣṇava : "He is a devotee of Vishou who, on bearing harsh words uttered by a Bhagavata, prostrates before him and begs his pardon." If a man does not do so, he will pass beyond the reach of the grace of the Lord and will lose also what is essential to his nature as a Viṣṇubhakta, namely, his being a sesha to Bhagavatas and, like wise, his qualities of self-restraint and patience; for it has been said :-“Those who are Brahmins (Bhagavatas absorbed in the contemplations of Brahman) they are myself. There is no doubt about this O, King; when they are adored, I am adored; when they are pleased, I am also pleased. He who hates them bates me also." "Though the Brahmina strikes him, curses him and utters cruel words to him, he who does not bow to him as I did (to Bhrigu) - be is a singer. He will be consumed by the wild fire of the Brahmin's anger. He deserves to be killed and punished. He is not mine." To lose these (bis being a s'esha to Bhagavatas and his self-restraint and patience) is itself, in his case, being killed and punished. Topdaradippodi Alwar\*, who realised and enjoyed his relationship of being & s'esha to Bhagavatas, which be considere ed as his distinctive feature, has described how miserable it is to be outside the pale of the Lord's grace as follows:- "My Lord has not said: “ This is a lado deserving of my affection". How wicked are my sins!" 
 
-The word Brahmin occurriog in these ślokas has a special significance, as has been said in the śloka: "He whoso knows, aright, the truth concerning Bliagavan, who is called Viṣṇu that measured the world ( with His feet) and is also called Vasudeva he becomes a Brabmin". Even if it is used in its general sense, since the offence to the Brahmin is condemned, much more worthy of condemnation would be the offence to a Bhagavata or devotee of Bhagavan. 26. Lainga purana 
+The word Brahmin occurriog in these ślokas has a special significance, as has been said in the śloka: "He whoso knows, aright, the truth concerning Bliagavan, who is called Viṣṇu that measured the world ( with His feet) and is also called Vasudeva he becomes a Brabmin". Even if it is used in its general sense, since the offence to the Brahmin is condemned, much more worthy of condemnation would be the offence to a Bhagavata or devotee of Bhagavan. 26. Lainga purāṇa 
 
 28. Itibasa Samucchaya: 30-100 27. Vishpu dharma: 52-20 29. Tirumalai: 37 
 

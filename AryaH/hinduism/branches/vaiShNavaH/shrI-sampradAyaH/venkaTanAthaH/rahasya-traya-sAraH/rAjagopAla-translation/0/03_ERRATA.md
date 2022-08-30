@@ -130,7 +130,7 @@ tattvas or reals in line 20. 19
 
 srabdha
 
-sabda Footnoto pharse
+śabda Footnoto pharse
 
 phrase 10
 

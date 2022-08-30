@@ -11,7 +11,7 @@ AFTER SALVATION.
 
 SANSKRIT SLOKA: 
 
-In the '&' in Om and in the word 'Narayana' occurring in Ashtakṣara, the supreme end of life (i.e.) Bhagavan, who is opposed to all that is objectionable or faulty, is indicated; in the in in om and in the part nāra occurring in Nārāyaṇāya, the essential natare (svarūpa) of the jiva who is to attain this end is dis 
+In the '&' in Om and in the word 'Narāyaṇa' occurring in Ashtakṣara, the supreme end of life (i.e.) Bhagavan, who is opposed to all that is objectionable or faulty, is indicated; in the in in om and in the part nāra occurring in Nārāyaṇāya, the essential natare (svarūpa) of the jiva who is to attain this end is dis 
 
 (siddha upāya) namely, Bhagavan, is indicated in the part ayance occurring in Nārāyana and the means to be accomplished or adopted (sādhya upāya ), which is self-surrender, is in namas; the fruit desired, viz., the enjoyment of Brabman which includes also service to Him is disclosed in the dative or fourth case in Nārāyaṇāya; the bindrance to it, namely, the feeling of 'mine' is in the word mama occurring in sramah (na mama ). He who understands the Ashtākṣara mantra that reveals all these five and \*Dvayam too, which is to the same effect--he will be consi dered by all as one who knows everything. 
 
@@ -35,13 +35,13 @@ BRAHMAN, THE END TO BE ATTAINED:
 
 ITS SVARĪPA: 
 
-Among these, the essential nature of Brabman, which is the object of attainment, is revealed in the first letter a in om and in the word 'Narayana' in Tirumantra and in the words Nārāyana with the adjectives 'Srünün' occurring in Duayam and in the words 'me' and 'I' occurring in the Charama śloka. It is in this way that they should be considered. Wbile doing so, one should thiok of His essential nature (svarīpa) as infinite jrāna and infinite bliss ever inseparable from His consort, Lakṣmī, who, in every form and in all situations, participates in all His actions. For there are many authoritative passages in support of this prescribed contemplation - 
+Among these, the essential nature of Brabman, which is the object of attainment, is revealed in the first letter a in om and in the word 'Narāyaṇa' in Tirumantra and in the words Nārāyana with the adjectives 'Srünün' occurring in Duayam and in the words 'me' and 'I' occurring in the Charama śloka. It is in this way that they should be considered. Wbile doing so, one should thiok of His essential nature (svarīpa) as infinite jrāna and infinite bliss ever inseparable from His consort, Lakṣmī, who, in every form and in all situations, participates in all His actions. For there are many authoritative passages in support of this prescribed contemplation - 
 
-“The Lord of the Universe is over with Lakṣmī in Vai. kunta, the world beyond” (Here the reference is to the Supreme Lord (Para) in Vaikunta.) 
+“The Lord of the Universe is over with Lakṣmī in Vai. kunta, the world beyond” (Here the reference is to the Supreme Lord (Para) in Vaikuṇṭha.) 
 
-“This 3Narayana is always with Sri -- Narayana whose abode is the ocean of milk. He has now come to the city of Madhura leaving His bed (Adisesha)" (The reference is here to the Vyüha) “Thou art the God Narayana, the spouse of Sri and hast the Chakra is Thy weapon and Thou art omnipresent". (The refe rence is to the Vibhava or avatāra.) 
+“This 3Narāyaṇa is always with Sri -- Narāyaṇa whose abode is the ocean of milk. He has now come to the city of Madhura leaving His bed (Adisesha)" (The reference is here to the Vyüha) “Thou art the God Narāyaṇa, the spouse of Sri and hast the Chakra is Thy weapon and Thou art omnipresent". (The refe rence is to the Vibhava or avatāra.) 
 
-1. Harita Samhita 2. Lingapurana. 3. Harivamsa: 113-62 4. Rāmayana: Yuddhakanda 120-13, 
+1. Harita Samhita 2. Lingapurāṇa. 3. Harivamsa: 113-62 4. Rāmayana: Yuddhakanda 120-13, 
 
 34 CHAPTER 
 
@@ -55,9 +55,9 @@ servant and thus find delight?" (This is also prayer for service ). "Thy "spouse
 
 "The #beloved of Sri, who is infinite and whose form is the unique abode of all auspicious qualities " 
 
-5. Rāmayana : Yuddha kanda 114-15 6. Viṣṇu purana 1-18-17 7. Rāmayana : Aranyakanda 15-6 8. Rāmayana : Ayodhyakanda 31-2 9. Rāmayana : Sundarakanda 58–87 10. Rāmayana : Sundarakanda 58–90 11. Rāmayana : Ayodhyakanda 31-27 
+5. Rāmayana : Yuddha kanda 114-15 6. Viṣṇu purāṇa 1-18-17 7. Rāmayana : Aranyakanda 15-6 8. Rāmayana : Ayodhyakanda 31-2 9. Rāmayana : Sundarakanda 58–87 10. Rāmayana : Sundarakanda 58–90 11. Rāmayana : Ayodhyakanda 31-27 
 
-12. Alavandar: Stotram 12A. Alavandar: Stotram 46 13. Alavandar: Chatussloki: 1 14. Alavandar Atmasiddhi 15. Rāmanuja : Vedāntasara 16. Rāmanuja: Vedāntadeepa 
+12. Aḷavandār: Stotram 12A. Aḷavandār: Stotram 46 13. Aḷavandār: Chatussloki: 1 14. Aḷavandār Atmasiddhi 15. Rāmanuja : Vedāntasara 16. Rāmanuja: Vedāntadeepa 
 
 · THE FIVE THINGS TO BE KNOWN 
 
@@ -97,7 +97,7 @@ Bhagavan is to be thought of as being opposed to all that is faulty or objection
 
 26. Peria Tirumozhi: 3-gwa 21. Tiruvoymozhi : 6-9-3 
 
-27. Visbnupurana: 1-22-33 22. Tiruvoymozhi: 92-1 
+27. Visbnupurāṇa: 1-22-33 22. Tiruvoymozhi: 92-1 
 
 SRIMAD RAHASYATRAYANARA 
 
@@ -125,7 +125,7 @@ all these qualities."
 
 " He is known to be earnest in the matter of dharmu; He is affectionate to those that seek His protection." 
 
-28. Viṣṇupurana : 6-5-85 
+28. Viṣṇupurāṇa : 6-5-85 
 
 33. Rāmayana: Ayodhyakanda: 2-47 29. Rāmayana : Balakanda : 1-7 34. Rāmayana: Ayodhyakanda: 1--34 30. Rāmayana : Ayodhyakanda: 2-47 35. Rāmayana: Ayodhyakandu: 2-26 31. Rāmayana : Balakanda 1-20 36. Ibid. 33-12 02. Rāmayana: Ayodhyakanda: 11-31 37. Rāmayana: Sundarakanda: 21-20 
 
@@ -147,11 +147,11 @@ THE FIVE THINGS TO BE KNOWN
 
 " It is \* owing to the deficiency of arrows that the man who wishes to cover the sky desists and not owing to any deficiency in the space of the sky. (So also ) we fall back from the praise of Govinda, owing to our deficiency of intelligence and aot owing to any deficiency in His qualities." 
 
-38 Rāmayana: Yuddhakanda: 41. Brahmapurana 
+38 Rāmayana: Yuddhakanda: 41. Brahmapurāṇa 
 
-121-18 4 2. Vamanapurana: 74-40 39. Rāmayana: Kishkindakanda: 43. Mahabharata : Kamna Parva: 83-15 
+121-18 4 2. Vamanapurāṇa: 74-40 39. Rāmayana: Kishkindakanda: 43. Mahābhārata : Kamna Parva: 83-15 
 
-15-19 40. Viṣṇupurana: 6-5-85 45. 
+15-19 40. Viṣṇupurāṇa: 6-5-85 45. 
 
 44. 
 
@@ -177,11 +177,11 @@ Bhagavan should be thought of, also, es having a trans cendent, super sensuous (
 
 His form \*\*is not constituted of prakriti or matter por formed of flesh, lymph or bone." 
 
-" This form shus four arms, is supremely excellent, and is in Vaikunta." 
+" This form shus four arms, is supremely excellent, and is in Vaikuṇṭha." 
 
-46. Tiruvoymozhi: 8-1-8 47. Tiruvoymozhi: 1.1.1 48. Viṣṇupurana : 1.2-1 49. Poushakara Samhita 50. Viṣṇupurana: 6- 7- 70. 
+46. Tiruvoymozhi: 8-1-8 47. Tiruvoymozhi: 1.1.1 48. Viṣṇupurāṇa : 1.2-1 49. Poushakara Samhita 50. Viṣṇupurāṇa: 6- 7- 70. 
 
-31. Vishaupurana : .6-5-84 52. Mahabharata : Santiparva: 206 - 60 53. Varahapurana: 31 - 40 54. Mahabharata: Mousalaparva: 5-34 
+31. Vishaupurāṇa : .6-5-84 52. Mahābhārata : Santiparva: 206 - 60 53. Varahapurāṇa: 31 - 40 54. Mahābhārata: Mousalaparva: 5-34 
 
 THE FIVE THINGS TO BE KNOWN 
 
@@ -205,9 +205,9 @@ THE VIBHUTIS OF BHAGAVAN: LILÃ AND BHOGA:
 
 "These are the vibhūtis (glories) of Viṣṇu (i. e.) Brabma, Manu and others, time and all beings. " 
 
-55. Manu; Smriti: 12-122 59. Ibid: 1-22-66 56. Bhagavad Gita: 11-13 60. Rāmayana: Yuddha Kanda 114-25. 57. Ibid: 11-15 
+55. Manu; Smr̥ti: 12-122 59. Ibid: 1-22-66 56. Bhagavad Gita: 11-13 60. Rāmayana: Yuddha Kanda 114-25. 57. Ibid: 11-15 
 
-61. Viṣṇupurana: 1-22-32 58. Viṣṇupurana: 1-22-76 
+61. Viṣṇupurāṇa: 1-22-32 58. Viṣṇupurāṇa: 1-22-76 
 
 NOTE:- Harda is an aprakrita form of the Lord present in the human heart, like the archa in temples. 
 
@@ -247,9 +247,9 @@ sport."
 
 \* All o this is merely for play (on the part of Brahman) as in the world (kings play with balls). 
 
-62. Viṣṇupurana: 5-1-50 63. Bhagavad Gita: 10-40 64. Alavandar Stotram: 17 65. Brahma Sutras: 1-1-2. 66. Mahabharata: Santiparva: 206-58 
+62. Viṣṇupurāṇa: 5-1-50 63. Bhagavad Gita: 10-40 64. Aḷavandār Stotram: 17 65. Brahma Sutras: 1-1-2. 66. Mahābhārata: Santiparva: 206-58 
 
-67. Vishoupurana: 1-2-18 68. Mahabharata: Sabhaparva: 
+67. Vishoupurāṇa: 1-2-18 68. Mahābhārata: Sabhaparva: 
 
 40-78 69. Vishaudharma 70. Brahma sutras: 2-1-33 
 
@@ -311,7 +311,7 @@ of the truth and (2) erraneous knowledge and so also (3) sub. jection to sepse-p
 
 Even those who practise yoga are made to practise it in con. Dection with petty deities or in the meditations of such inanimate 
 
-75. Sri Rāmanuja : Peria Gadyam. 77. Mahabharata: Udyoga parva 35- 73. 76. Tiruvoymozhi. 69.9. 78. Bhagavad gita. 16-19. 
+75. Sri Rāmanuja : Peria Gadyam. 77. Mahābhārata: Udyoga parva 35- 73. 76. Tiruvoymozhi. 69.9. 78. Bhagavad gita. 16-19. 
 
 19. Bhagavad Gita : 174. 
 
@@ -321,7 +321,7 @@ THE FIVE THINGS TO BE KNOWN
 
 things as \*nāma being Brahman and are made to fall therefrom in the acquisition of minor results. Even those who are devoted to the soul or ātmā are made to meditate on their ātmā either in contact with matter or as separated from matter either as if it were Brahman or as the atma in its own essential datore. As the regolt of these four kinds of meditation, the jiva obtains petty enjoyments after which he falls back into samsāra. Even in the case of those who practise trae meditation on Brabman, and who meditate prima. rily on their own selves as having Brahman for their inner self or who think primarily of Brabman who has for His body their own selves - even they may be detained by the state of kaivalya or the enjoyment of their own selves, by the attainment of the It eight kiods of siddhi, by the attainment of the status of the vasus, or by the entrance into the body of Brahma and the like. Their (temporary) lapse from the highest aim or goal of life (namely, the enjoyment of the bliss of Brahman) is like that of & prince, whose coronation day has been already fixed, casting eyes on the servant maids who attended on hini while in prison. They are made to linger fondly over the body and the senses which are tbe result of past karma and those that are related to the body (like relatives) and the enjoyments connected with them. In this way they become subject to other pleasures than the final goal. Thus there are many forms of hindrance in the way of the attainment of Bhagavan. When a well thirty-two steps wide has to be leaped over, it makes no difference whether the man falls at the very first step or at the thirty-second step. In the same way wherever or at whatever stage the bindrance occurs, the jiva has not transcended samsūra, 
 
-\* NOTE:- In the Chandogya upanishad VII chapter, it is stated as follows:- \*He who worships nama or names like rig veda, sama veda, Itihasa and purana as if they were Brabman will realise only very limited fruits such as can be reached with these namos". 
+\* NOTE:- In the Chandogya Upaniṣad VII chapter, it is stated as follows:- \*He who worships nama or names like rig veda, sama veda, Itihasa and purāṇa as if they were Brabman will realise only very limited fruits such as can be reached with these namos". 
 
 \*\* NOTE: The eight kinds of siddhi: Anima (contraction of one's body to the size of an atom, mahima (assuming a huge form) Laghima (makiog one's body light) Garima (making the body heavy), vasitvam (mastery over self), aisvar yam (lordship) prapti the power of obtaining whatever one wants and prakamyam (perfect froedom of the will.) 
 
@@ -333,7 +333,7 @@ SARAŅĀGATI THE ONLY MEANS OF GETTING RID OF
 
 THESE HINDRANCES: 
 
-How can this chief hindrance which is of the nature of divine panishment resulting from disobedience of the Lord's commands and which is the root cause of this chain of suffering-how can this be removed? The author of Sri Bhashya (Sri Rāmanaja) has declared that the only remedy for this bindrance is to obtain the favour of the Lord and that this can be done only by Saraṇāgati or self-surrender to the &Lord. This declaration is made by him, while commenting on the order in which the senses, the mind and the like have to be controlled as stated in Kata upanishad. 
+How can this chief hindrance which is of the nature of divine panishment resulting from disobedience of the Lord's commands and which is the root cause of this chain of suffering-how can this be removed? The author of Sri Bhashya (Sri Rāmanaja) has declared that the only remedy for this bindrance is to obtain the favour of the Lord and that this can be done only by Saraṇāgati or self-surrender to the &Lord. This declaration is made by him, while commenting on the order in which the senses, the mind and the like have to be controlled as stated in Kata Upaniṣad. 
 
 All these bindrances to mokṣa are to be understood in whatever is contrary to what is ordained in the three mysteries (mantras) (e. g. the feeling that the jiva is independent and acts for bis own purposes which is opposed to the truths shown in the Ashtakṣara), in the egoism, or sense of 'my' or 'mine' in the genitive mama in nanah (na + mama) and also in the words all thy sing' in the charama śloka. These have to be thought of, 80 that ope inay feel the suffering which lies in walking on the bot 
 

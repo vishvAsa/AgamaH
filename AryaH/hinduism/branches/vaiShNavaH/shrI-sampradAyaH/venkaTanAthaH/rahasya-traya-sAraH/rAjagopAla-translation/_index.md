@@ -3,7 +3,7 @@ title = "+rAjagopAla translation"
 
 +++
 
-Translated into English with Introduction and Notes by M. R. Rajagopala Ayyangar, M. A. (Formerly of the Madras Educational Service)  
+Translated into English with Introduction and Notes by M. R. Rajagopala Ayyaṅgār, M. A. (Formerly of the Madras Educational Service)  
 Published by: Agnihothram Rāmanuja Thathachariar,  
 Kumbakonam.
 

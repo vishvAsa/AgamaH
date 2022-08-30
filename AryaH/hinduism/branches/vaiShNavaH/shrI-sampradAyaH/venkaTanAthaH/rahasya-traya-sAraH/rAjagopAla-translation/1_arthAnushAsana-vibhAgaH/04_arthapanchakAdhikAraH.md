@@ -67,17 +67,17 @@ Among these, the essential nature of Brahman, which is the object of attainment,
 
 [^f64]: Rāmāyaṇa: Ayodhyakāṇḍa 31-27
 
-[^f65]: Alavandar: stotram
+[^f65]: Aḷavandār: stotram
 
-[^f66]: Alavandar Stotram 46
+[^f66]: Aḷavandār Stotram 46
 
 servant and thus find delight?" (This is also prayer for service ). "Thy [^f67] spouse is Puruṣottama."
 
-[^f67]: Alavandar: Chatusshloki:
+[^f67]: Aḷavandār: Chatusshloki:
 
 "When the Lord, [^f68] who is along with Śrī, is pleased by the service rendered to Him by the eternal Sūris who delight in that service."
 
-[^f68]: Alavandar: Atmasiddhi
+[^f68]: Aḷavandār: Atmasiddhi
 
 "I worship [^f69] Viṣṇu  with the inseparable Śrī; He is the sea of purity and bliss"
 
@@ -245,7 +245,7 @@ Bhagavān should be thought of, also, as having a transcendent, super sensuous (
 
 "He has a [^f109] form resplendent like gold and capable of being seen by the mind as in a dream."
 
-[^f109]: Manu Smriti: 12-122
+[^f109]: Manu Smr̥ti: 12-122
 
 "In Thy [^f110] form, O Lord, I see the gods."
 
@@ -287,7 +287,7 @@ THE VIBHŪTIS OF BHAGAVĀN: LILÃ AND BHOGA:
 
 “The [^f118] anda of the Universe and whatever else is found within that anda are His vibhūtis."
 
-[^f118]: Alavandar Stotram: 17
+[^f118]: Aḷavandār Stotram: 17
 
 These vibhūtis (possessions or glories) of God are of two kinds, sentient and non-sentient, and these again are of two kinds, some existing for His Līlā or sport and others for His enjoyment (bhoga). This division into things for play (līlā) and things for enjoyment (bhoga) is based on the difference in the rasa or delectation, though all  of them have agreeableness (or ānukulyam) in common. Bhagavān should be considered as being engaged in the work of the Universe merely for His play or sport (līlā), for it has been said as follows:
 
@@ -371,11 +371,11 @@ of the truth and (2) erroneous knowledge and so also (3) subjection to sense-ple
 
 Even those who practise yoga are made to practise it in connection with petty deities or in the meditations of such inanimate things as [^f130] nāma[^28] being Brahman and are made to fall therefrom in the acquisition of minor results. Even those who are devoted to the soul or ātmā are made to meditate on their ātmā either in contact with matter or as separated from matter either as if it were Brahman or as the atma in its own essential nature. As the result of these four kinds of meditation, the jīva obtains petty enjoyments after which he falls back into samsāra. Even in the case of those who practise true meditation on Brahman, and who meditate primarily on their own selves as having Brahman for their inner self or who think primarily of Brahman who has for His body their own selves - even they may be detained by the state of kaivalya or the enjoyment of their own selves, by the attainment of the [^f131] eight kinds[^29] of siddhi, by the attainment of the status of the vasus, or by the entrance into the body of Brahma and the like. Their (temporary) lapse from the highest aim or goal of life (namely, the enjoyment of the bliss of Brahman) is like that of a prince, whose coronation day has been already fixed, casting eyes on the servant maids who attended on hini while in prison. They are made to linger fondly over the body and the senses which are the result of past karma and those that are related to the body (like relatives) and the enjoyments connected with them. In this way they become subject to other pleasures than the final goal. Thus there are many forms of hindrance in the way of the attainment of Bhagavān. When a well thirty-two steps wide has to be leaped over, it makes no difference whether the man falls at the very first step or at the thirty-second step. In the same way wherever or at whatever stage the hindrance occurs, the jīva has not transcended samsāra.
 
-[^f130]:  In the Chandogya upanishad VII chapter, it is stated as follows:- He who worships nama or names like rig veda, sama veda, Itihāsa and purāṇa as if they were Brahman will realise only very limited fruits such as can be reached with these names".*
+[^f130]:  In the Chandogya Upaniṣad VII chapter, it is stated as follows:- He who worships nama or names like rig veda, sama veda, Itihāsa and purāṇa as if they were Brahman will realise only very limited fruits such as can be reached with these names".*
 
 [^f131]: The eight kinds of siddhi: Aṇimā (contraction of one's body to the size of an atom, mahima (assuming a huge form) Laghimā (making one's body light) Garimā (making the body heavy), vaśitvam (mastery over self), aiśvaryam (lordship) prāpti the power of obtaining whatever one wants and prākāmyam (perfect freedom of the will.)*
 
-[^28]: <sup>] </sup> In the Chandogya upanishad VII chapter, it is stated as follows:- He who worships nama or names like rig veda, sama veda, Itihāsa and purāṇa as if they were Brahman will realise only very limited fruits such
+[^28]: <sup>] </sup> In the Chandogya Upaniṣad VII chapter, it is stated as follows:- He who worships nama or names like rig veda, sama veda, Itihāsa and purāṇa as if they were Brahman will realise only very limited fruits such
 as can be reached with these names".
 
 [^29]: The eight kinds of siddhi: Aṇimā (contraction of one's body to the size of an atom, mahima (assuming a huge form) Laghimā (making one's body light) Garimā (making the body heavy), vaśitvam (mastery over self), aiśvaryam (lordship) prāpti the power of obtaining whatever one wants and prākāmyam (perfect freedom of the will.)
@@ -386,7 +386,7 @@ SARAŅĀGATI THE ONLY MEANS OF GETTING RID OF
 
 THESE HINDRANCES:
 
-How can this chief hindrance which is of the nature of divine punishment resulting from disobedience of the Lord's commands and which is the root cause of this chain of suffering-how can this be removed? The author of Śrī Bhāṣya (Śrī Rāmānuja) has declared that the only remedy for this hindrance is to obtain the favour of the Lord and that this can be done only by Śaraṇāgati or self-surrender to the [^f132] Lord. This declaration is made by him, while commenting on the order in which the senses, the mind and the like have to be controlled as stated in Kaṭha upanishad[^f133] .
+How can this chief hindrance which is of the nature of divine punishment resulting from disobedience of the Lord's commands and which is the root cause of this chain of suffering-how can this be removed? The author of Śrī Bhāṣya (Śrī Rāmānuja) has declared that the only remedy for this hindrance is to obtain the favour of the Lord and that this can be done only by Śaraṇāgati or self-surrender to the [^f132] Lord. This declaration is made by him, while commenting on the order in which the senses, the mind and the like have to be controlled as stated in Kaṭha Upaniṣad[^f133] .
 
 [^f132]: Bhagavadgītā: 2-40
 

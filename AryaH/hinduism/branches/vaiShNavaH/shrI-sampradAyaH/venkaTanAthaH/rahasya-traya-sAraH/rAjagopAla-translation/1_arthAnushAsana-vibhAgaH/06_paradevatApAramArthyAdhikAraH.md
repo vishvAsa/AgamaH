@@ -54,7 +54,7 @@ Those who are considered as the chief among these gods, namely, Brahma, Rudra, I
 
 [^f177]: Mahābhārata: Śāntiparva 347-32
 
-[^f178]: Manusmriti: 1-11
+[^f178]: ManuSmr̥ti: 1-11
 
 [^f179]: Rāmāyaṇa: Uttarakāṇḍa: 104-4
 
@@ -82,7 +82,7 @@ Lord, Brahma, Isana (Rudra) and others have not yet attained to a realisation of
 
 [^f190]: Viṣṇupurāṇa 5-30-17
 
-[^f191]: Manusmriti: 12-50
+[^f191]: ManuSmr̥ti: 12-50
 
 THE OTHER GODS ARE THE SERVANTS
 
@@ -254,7 +254,7 @@ This truth regarding the Supreme Deity was taught at great length by the great s
 
 [^f251]: Ibid 1-1-28
 
-[^f252]: Alavandar stotram: 4
+[^f252]: Aḷavandār stotram: 4
 
 [^f253]: Tiruvoymozhi: 4-9-10
 

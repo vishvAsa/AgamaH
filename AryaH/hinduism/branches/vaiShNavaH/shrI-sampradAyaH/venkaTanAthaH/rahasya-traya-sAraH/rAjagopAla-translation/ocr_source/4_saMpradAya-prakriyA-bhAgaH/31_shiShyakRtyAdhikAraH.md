@@ -35,11 +35,11 @@ When it is stated in the Vedāntas that the sishya should behave towards the gur
 
 2. Vihageswara Samhita: 
 
-5. Sandilya smriti: 1.118. 3. 77 
+5. Sandilya Smr̥ti: 1.118. 3. 77 
 
-6. Apastamba dharma: 1 -2-6-18. 4. Sandilya smriti. 
+6. Apastamba dharma: 1 -2-6-18. 4. Sandilya Smr̥ti. 
 
-7. Sandilya smriti: 1 - 117. 
+7. Sandilya Smr̥ti: 1 - 117. 
 
 576 CHAPTER 
 
@@ -51,9 +51,9 @@ The sishya, who is thus without any means of recompensing (his guru), should con
 
 Learning approached the Brahmio and said, "]" am your wealtb; guard me with care; do not give me away to those who bave no liking (for me). If you guard me in this manner I shall become very powerful". As desired in those words, learning should not be betrayed into the bands of those who already clasp hate and the like in their hands. 
 
-8. Mahabharata : Santiparva; 35-42: 10. ?? 9. Itihasa Samucchaya: 14-43 
+8. Mahābhārata : Santiparva; 35-42: 10. ?? 9. Itihasa Samucchaya: 14-43 
 
-11. Manusmriti: 2-114 
+11. ManuSmr̥ti: 2-114 
 
 31 
 
@@ -69,11 +69,11 @@ THE IMPARTING OF INSTRUCTION SIIOULI) BE PRECEDED BY MEDITATION OF THE SUCCESSIO
 
 OF GURUS: 
 
-When the s'ishja hands over the great wealth of the truths contained in the gist of the three mysteries (mantras) thus acquired lig binn (from his cichuirga) to one who, as pointed ont in an earlier chapter, has been found fit for it, he should impart instruction first on the succession of ichiryas and reveal also his gratitude (to them) and the sacredness of those truths. As an example are quoted the words of the Brahmarishi Sri Parasara to Bhagavan Maitreya:-- " Brahma, born of the lotus, the grand father of all, first gave instruction to great sages like Daksbu at their request, In that same way was the instruction imparted by them to King Purukutsa on the banks of the Narbada. He banded it over to Sarasvata and by Sarasvata was it imparted to me". When the 
+When the s'ishja hands over the great wealth of the truths contained in the gist of the three mysteries (mantras) thus acquired lig binn (from his cichuirga) to one who, as pointed ont in an earlier chapter, has been found fit for it, he should impart instruction first on the succession of ichiryas and reveal also his gratitude (to them) and the sacredness of those truths. As an example are quoted the words of the Brahmarishi Sri Parāśara to Bhagavan Maitreya:-- " Brahma, born of the lotus, the grand father of all, first gave instruction to great sages like Daksbu at their request, In that same way was the instruction imparted by them to King Purukutsa on the banks of the Narbada. He banded it over to Sarasvata and by Sarasvata was it imparted to me". When the 
 
 -----· ·---- ---- --- (NOTE\* SRI RAMA) 12. Vishvaksena Sambita 
 
-14. Tiruvoymozhi: 2-7-8 13. Rāmayana: Blakanda: 19-2 15. Viṣṇupurana. 1-2-8-9. 
+14. Tiruvoymozhi: 2-7-8 13. Rāmayana: Blakanda: 19-2 15. Viṣṇupurāṇa. 1-2-8-9. 
 
 -- 
 
@@ -83,11 +83,11 @@ When the s'ishja hands over the great wealth of the truths contained in the gist
 
 man who imparts instruction in the mysteries of the science of the soul is without a tradition and teaches (merely) on the strength of his own reading of the books or of what he over-heard from (a hiding place) bebind a wall, he will, like one who wears stolen jewels. be ever in dread of those that see him. Moreover it inay even become sinful, for it has been said :- "The mantra' which is learnt by mere chance by one in hiding, under some pretext or from books -- that mantra will be of no avail; on the other hand, it may even cause evil". Even when & man has learnt from a guru and then teaches, if he sbould learn and teach against the regulations enjoined for it, he would create disgust in the minds of onlookers like one who wears jewels made from the inoney given to him along with "Kala '\* (These regulations) may be seen in the following ślokas " Bow to the guru," ask for explanations, render service to him and then learn the essential nature of the self". 
 
-It is said also, "Maitreya prostrated (pranipatya) before Parasara and made salutations to hiin (abhivadya)". As stated in the s-loka :-"He who impartsla instruction in violation of the regu lations and he who learns violating the regulations — of these two, one will die or will come to bate the other" as stated here, it may even have evil consequences. Even when the nian has learnt according to the regulations and then teaches, if he should not render dne praise to his guru, his sishya may suspect that the truths revealed by him may have no basis (or authority) like para Hitic plants growing (on the branches of trees) and treat them with Jisregard. This omission of giving due praise to one's guru before (ne's sishya is included a one among the thirty-two kinds of offences. It has been stated: “ T'he wise nad should reveal (the greatness of) his guru and guard the mantra with great care. 
+It is said also, "Maitreya prostrated (pranipatya) before Parāśara and made salutations to hiin (abhivadya)". As stated in the s-loka :-"He who impartsla instruction in violation of the regu lations and he who learns violating the regulations — of these two, one will die or will come to bate the other" as stated here, it may even have evil consequences. Even when the nian has learnt according to the regulations and then teaches, if he should not render dne praise to his guru, his sishya may suspect that the truths revealed by him may have no basis (or authority) like para Hitic plants growing (on the branches of trees) and treat them with Jisregard. This omission of giving due praise to one's guru before (ne's sishya is included a one among the thirty-two kinds of offences. It has been stated: “ T'he wise nad should reveal (the greatness of) his guru and guard the mantra with great care. 
 
-(NOTE \* Kala : When a man is dangerously ill and longs for recovery. he has the figure of a man (K’alapurasha) made with gingely seeds, decks it with jewels and gives it to a poor man along with money. To receive such a gift is looked upon as a disgusting thing.) 16. Padmasamhita : Charyapada: 23 - 49. 19. Mahabharata : Santi parva: 17. Bhagavad Gita: 4 - 24. 
+(NOTE \* Kala : When a man is dangerously ill and longs for recovery. he has the figure of a man (K’alapurasha) made with gingely seeds, decks it with jewels and gives it to a poor man along with money. To receive such a gift is looked upon as a disgusting thing.) 16. Padmasamhita : Charyapada: 23 - 49. 19. Mahābhārata : Santi parva: 17. Bhagavad Gita: 4 - 24. 
 
-335 - 5. 18. Viṣṇupurana: 1.1-1. 
+335 - 5. 18. Viṣṇupurāṇa: 1.1-1. 
 
 20. Sesha Samhita : 14 - 50. 
 
@@ -109,7 +109,7 @@ PS
 
 VILNIUL 
 
-other attributes taught in person". If he should say so, the truths that he teaches would be held in high esteem. He would (also) then be esteemed as & grateful sishya by sātvikas. As one who spoke the trath, he would be regarded by the Upanishads and by the Person revealed in the Upanishads as an authority having the same validity as they themselves are. His ācārya too, would feel gratified to find that, in this grateful and diligent s'ishya, his labours have borne fruit. 
+other attributes taught in person". If he should say so, the truths that he teaches would be held in high esteem. He would (also) then be esteemed as & grateful sishya by sātvikas. As one who spoke the trath, he would be regarded by the Upaniṣads and by the Person revealed in the Upaniṣads as an authority having the same validity as they themselves are. His ācārya too, would feel gratified to find that, in this grateful and diligent s'ishya, his labours have borne fruit. 
 
 SANSKRIT SLOKA: 
 
@@ -125,4 +125,4 @@ Even (the omniscient and omnipotent) Mayan cannot requite the ācārya who dispe
 
 SANSKRIT SLOKA: 
 
-The tip of the achirya's tongne shines hright being the throne on which is seated (the god) Hayagrīva. So we do not consider any deity as being higher than the ācārya. Even Narayana plays the part of the itchürya without ever giving up His supreme greatness, in order to save those who are sugk in the sea of samsāra. 
+The tip of the achirya's tongne shines hright being the throne on which is seated (the god) Hayagrīva. So we do not consider any deity as being higher than the ācārya. Even Narāyaṇa plays the part of the itchürya without ever giving up His supreme greatness, in order to save those who are sugk in the sea of samsāra. 

@@ -115,7 +115,7 @@ The ordinary relationship of Śeṣa and śeṣin between the jīva and Bhagavā
 विलैयिण्ड्रि नामडियोमॆण्ड्रु वेदियर्मॆय्प्पॊरुळे. (10)
 </details>
 
-The Lord gave us our existence and is our support (dhāraka) as well; He is also the unconditional Ruler that directs and controls us. There is nothing that does not exist for the fulfilment of his purposes; He is also our Master for whom all things exist; He stands alone with no one to compare with Him. It is the earnest conviction of those who understand the spirit of the Vedas that we are the bodies and the unconditional (or natural) servants of the Lord with the crown of Tulsi leaves (for the Antaryāmi Brāhmana of Brihadaranyaka upanishad states this explicitly.)
+The Lord gave us our existence and is our support (dhāraka) as well; He is also the unconditional Ruler that directs and controls us. There is nothing that does not exist for the fulfilment of his purposes; He is also our Master for whom all things exist; He stands alone with no one to compare with Him. It is the earnest conviction of those who understand the spirit of the Vedas that we are the bodies and the unconditional (or natural) servants of the Lord with the crown of Tulsi leaves (for the Antaryāmi Brāhmana of Brihadaranyaka Upaniṣad states this explicitly.)
 
 <details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 

@@ -18,11 +18,11 @@ I. Signs or marks regarding nishta in Svartpa
 
 How can a man kaow that he has firm faith or mishta (in regard to the knowledge of svariipa?) The answer is as follows: (1) when he is treated with such things as contumely by others, he would be free from sorrow or depression owing to the knowledge that these faults pertainiog to the body and the like (ugliness, low birth etc) have no connection (at all) with his essential nature, (2) It has been said:-"When one man' reviles another, the sin of the reviled person passes on to the reviler". So towards these fools that are to receive his sin by their derisive talk, he (the prapanna) should feel over-whelming campassion as stated in such ślokas as the following - "If other created beings harbour enmity and show hatred, the wise man pities them saying, "How wrapped up they are in great delusion!" and "One should very much pity the fool who does evil to himself by violating the süstras and straying from the right path and who is, therefore, like firewood destined for the flames of hell.” (8) The prapanna 
 
-1. Mahabharata: Aswamedhika 
+1. Mahābhārata: Aswamedhika 
 
 parva: 110-64. 
 
-2. Viṣṇu purana: 1-17-82. 3. Ayurveda ?142 CHAPTER 
+2. Viṣṇu purāṇa: 1-17-82. 3. Ayurveda ?142 CHAPTER 
 
 would feel grateful to these revilers as being benefactors who remind him, by their censure, of faults which have been described in Alaya dar's \*śloka and in such verses as those of Tirumangai Alvar as fit to be reflected on in connection with oneself. (4) The prapanna (who has the nishta in svarvpa) would understand that all souls are dependent on Bhagavan owing to their essential nature, that all jivas (kṣetrajnas) are under the sway of past karma and that these revilers of his (therefore) revile him by the prompting of lewara, who is independent and is the seshi of all and who enjoys the līlā which follows from past karma in the relations between him and his revilers. He would therefore feel no aversion to them: (5) He would rejoice that his past sins which have begun to operate in this life are now being worked out in part. If he has these marks or characteristics as clarified in the explanation of the meaning of the first word (pranava) and the middle word na mama (namo) in the Moolamantra, the prapanna may consider that he has realised his difference from acit or matter, that he possesses knowledge which will enable him to act beneficially towards all beings, that he feels his being destitute of upāyas of any kind, that he knows his existing solely for the fulfil ment of the purposes of Bhagavan and is entirely dependent on him and should therefore do what is pleasing to the Lord, who, by His very nature, is impartial, who rewards (or punishes), each according to his karma, and who is the independent s'eshi for whom all else exist and that he understands that bis good can arige only from the will of another (ie) the Lord, as has been pointed out in the s'loka; “Where am I'who am so full of evil thoughts? Where is the possibility of my seeking what is good to me? 
 
@@ -58,7 +58,7 @@ It has been said: "Of the three, your birth, continuance and perishing, why shou
 
 9. ? 10. Mababharata: Santiparva: 339-15 
 
-11. ? 12. Mahabharata: Santiparva: 359-56 
+11. ? 12. Mahābhārata: Santiparva: 359-56 
 
 SIGNS FOR RECOGNISING NISHTA 
 
@@ -66,13 +66,13 @@ SIGNS FOR RECOGNISING NISHTA
 
 and fulfil them”, and so also, “The "wise man should not be apxious about his food. He should think oply of his dharma. Man's food comes to him along with his birtb." Liko-wise it has been stated in Ajagaropakhyāna :-"I do "pot avoid enjoymente which come to me of themselves and which are also in keeping with (my) dharma nor do I seek any enjoyment which can be had only with painful effort." 
 
-The prapanna who has attained nishta in purushārtha has neither pleasure nor pain, when he meets with or fails to get objects asually desired other than mokṣa, as taught in the follow ing ślokas :-"When one of these two, pleasure and pain, arrives, one should not feel delighted on seeing pleasure nor feel sorrow when one sees pain", and "The man who meditates on the feet of the Lord is not elated at the possession of wealth, nor does he feel dispirited when what he possesses is lost." He has, on the other hand, a great longing for service to the Lord which is suited to bis essential nature and which is the supreme aim of his life. This urgent longing for the object to be gained will make him cry out as in Alavandar's Stotram und in Sri Rāmanuja's gadya, "When, when sball I see, face to face, Bhagavan Narayana? When shall I press his two lotus-like feet on my head?" When such conduct and feeling are seen in the prapanna, it may be inferred that his mind is firmly fixed in regard to the supreme and infinite goal of existence which is indicated, as (an infinitesimal part of) the sea is by the finger, in the dative Nārāyarāya in Tirumantra, in the dative Nārāyaḥāya and in the word namas in Dvaya and in the sentence "I shall release thee from all sing" in Charama śloka, 
+The prapanna who has attained nishta in purushārtha has neither pleasure nor pain, when he meets with or fails to get objects asually desired other than mokṣa, as taught in the follow ing ślokas :-"When one of these two, pleasure and pain, arrives, one should not feel delighted on seeing pleasure nor feel sorrow when one sees pain", and "The man who meditates on the feet of the Lord is not elated at the possession of wealth, nor does he feel dispirited when what he possesses is lost." He has, on the other hand, a great longing for service to the Lord which is suited to bis essential nature and which is the supreme aim of his life. This urgent longing for the object to be gained will make him cry out as in Aḷavandār's Stotram und in Sri Rāmanuja's gadya, "When, when sball I see, face to face, Bhagavan Narāyaṇa? When shall I press his two lotus-like feet on my head?" When such conduct and feeling are seen in the prapanna, it may be inferred that his mind is firmly fixed in regard to the supreme and infinite goal of existence which is indicated, as (an infinitesimal part of) the sea is by the finger, in the dative Nārāyarāya in Tirumantra, in the dative Nārāyaḥāya and in the word namas in Dvaya and in the sentence "I shall release thee from all sing" in Charama śloka, 
 
 Thus by observing these signs in himself, the man may realise that he is well established in the state of a true prapanna in regard to his essential Dature (svarupa), bis upūya and his supreme aim (purushārtha) as stated in the slokeI am a self, not & body; I am the s'esha who exists only for Lord; I have 
 
-13. Mahabharata: Santiparva: 301-35 14. Mahabharata: Santiparva: 177-24 
+13. Mahābhārata: Santiparva: 301-35 14. Mahābhārata: Santiparva: 177-24 
 
-15. Mahabharata: Santiparva: 175-5 16. The second Tiruvandadi: 45 
+15. Mahābhārata: Santiparva: 175-5 16. The second Tiruvandadi: 45 
 
 146 
 

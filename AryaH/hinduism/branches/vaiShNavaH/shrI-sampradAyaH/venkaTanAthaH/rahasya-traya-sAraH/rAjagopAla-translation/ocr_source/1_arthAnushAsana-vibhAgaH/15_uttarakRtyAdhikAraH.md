@@ -79,7 +79,7 @@ Owing to the knowledge of his own unfitness from time imme. morial and the loss 
 
 38. Tiruvoimozhi : 6-10-10 39. Tiruvoimozhi: 10-10-3 40. Tiruppavai: 28 41. Tirumalai : 25 42. Tiruchandavituttam: 90 
 
-43. Peria Tirumozhi : 5-8-1 44. Peria Tirumozhi: 1-909 45. Peruntal Tirumozhi: 5-1 46. Alavandar Stotramy: 22 47. Tiruviruttam: 1 
+43. Peria Tirumozhi : 5-8-1 44. Peria Tirumozhi: 1-909 45. Peruntal Tirumozhi: 5-1 46. Aḷavandār Stotramy: 22 47. Tiruviruttam: 1 
 
 15 
 
@@ -97,7 +97,7 @@ In accordance with this principle, the prapania 'should not lament for what is p
 
 51. Vankipuram Nambi: Karika: 31 49. Satvata Samhita: 16–23-24 
 
-52. Tiruvoimozhi: 1-3-8 50. Vaikunta Stava: 61 
+52. Tiruvoimozhi: 1-3-8 50. Vaikuṇṭha Stava: 61 
 
 $3. Tiruyoimozhi: 3-8 (1-10) 
 
@@ -125,7 +125,7 @@ The prapanna should meditate on the Lord's placing Himself at the disposal of th
 
 56. Vishvaksena Samhita : 
 
-59. Bhagavad Gita: 4-11 57. Sandilya Smriti: 2-89 
+59. Bhagavad Gita: 4-11 57. Sandilya Smr̥ti: 2-89 
 
 60. Mudal Tiruvandadi: 44 58. Poushkarasamhita 
 
@@ -137,7 +137,7 @@ done so, the prapanna should render service suited to the respect. ive relations
 
 Like Bharatalvan who conducted himself like & servant of a king before (Sri Rāma's ) sandals and of wbom it is said, "While the sandals6 were ruling, Bharata placed, before them first, whatever business had to be transacted and whatever valnable tributes were brought and then accomplished whatever had to be done in the manner in which it should be done", — like him the prapanna should render service as to a king, with materials earned righteously. He should look upon this service as & wedded wife would look upon the careful custody of her sacred wedding - thread and the like. He should have the conviction that he has attained this ultimate aim of life, which begins from service to Bhagavan and extends up to the service to His devotees, by his relationship with his good Acharya : for it has been said: "Kshatrabandhu, the great sidner, and Pundarika the virtuous, both attained mokṣa by having Acharyas" So also has it been said (in Tamil) :- "Our ācharyastale like bees which place as at the (flower-like holy feet 
 
-62. Sandilya Smriti: 4-37-38 63. Sandilya Smriti: 4-31 64. 
+62. Sandilya Smr̥ti: 4-37-38 63. Sandilya Smr̥ti: 4-31 64. 
 
 65. Rāmayana: Ayodhyakanda 115--27 66. Tiruviruttam: 54 
 
@@ -147,7 +147,7 @@ CONDUCT AFTER PRAPATTI
 
 157 
 
-of the Lord, who is our Master and who renders help to the eternal sūris" and "If \*\* Viṣṇuchittar ( Perialvar) who was born in the city of Villipattur and who was perfect in the qualities of the spirit, by some means in his power, make the Lord appear before us, we can see" (That is to say - without the grace of Vishoucitta, the āchürya, they cannot do anything themselves). The prapanna should feel grateful at the thought of the expansion of knowledge which the achiiryas have wrought in him and of such things as the service (of the Tord and His devotees) whicb have resulted from it. He should behave towards thein as towards the servants (of the palace) who light the lamps and keep them barning on the night before the coronation of the prince (as a token of their rejoicing). He should feel grateful also to the Lord at the thought of His innate compassion which is the common and primary cause of all these and which, in the state of mukti, removes the dreaded possi bility of a break in the enjoyment of Bhagavan wbose independent will cannot be questioned. For it has been said:-- "The Lord \*\* makes us climb up to Vaikunta through the centre of the sphere of the sun whose rays dispel darkness and He removes the ladder that helped to climb, so that there may be no coming back", and again, "If one goes to Vaikunta after performing prapatti by utteriog the words 'Namo mürana', He will not let one come back to the world of samsāra, even if one should furnish security for going back to Vaikunta". (Nammalvar) says: "The firm "feet of Nare. yana whose praise is upsarpassed" (the feet being firm, those who have caught hold of them can never slip down); and again "Bhagavan" is our Father who takes away from His devotees their future births, leads them to Vaikunta, helps the manifestation of their svarūpa or essential nature and sees to their ever remaining under His feet even like the lines on the soles (of His feet)", and further, "The Lord" looks after (our) welfare by taking as to His feet and by preventing our fall therefrom". The prapanna 
+of the Lord, who is our Master and who renders help to the eternal sūris" and "If \*\* Viṣṇuchittar ( Perialvar) who was born in the city of Villipattur and who was perfect in the qualities of the spirit, by some means in his power, make the Lord appear before us, we can see" (That is to say - without the grace of Vishoucitta, the āchürya, they cannot do anything themselves). The prapanna should feel grateful at the thought of the expansion of knowledge which the achiiryas have wrought in him and of such things as the service (of the Tord and His devotees) whicb have resulted from it. He should behave towards thein as towards the servants (of the palace) who light the lamps and keep them barning on the night before the coronation of the prince (as a token of their rejoicing). He should feel grateful also to the Lord at the thought of His innate compassion which is the common and primary cause of all these and which, in the state of mukti, removes the dreaded possi bility of a break in the enjoyment of Bhagavan wbose independent will cannot be questioned. For it has been said:-- "The Lord \*\* makes us climb up to Vaikuṇṭha through the centre of the sphere of the sun whose rays dispel darkness and He removes the ladder that helped to climb, so that there may be no coming back", and again, "If one goes to Vaikuṇṭha after performing prapatti by utteriog the words 'Namo mürana', He will not let one come back to the world of samsāra, even if one should furnish security for going back to Vaikuṇṭha". (Nammalvar) says: "The firm "feet of Nare. yana whose praise is upsarpassed" (the feet being firm, those who have caught hold of them can never slip down); and again "Bhagavan" is our Father who takes away from His devotees their future births, leads them to Vaikuṇṭha, helps the manifestation of their svarūpa or essential nature and sees to their ever remaining under His feet even like the lines on the soles (of His feet)", and further, "The Lord" looks after (our) welfare by taking as to His feet and by preventing our fall therefrom". The prapanna 
 
 67. Nachiar Tirumozhi: 10-10 68. Perialvar Tirumozhi: 4-5-2 69. Perialyar Tirumozhi: 4-5-2 
 

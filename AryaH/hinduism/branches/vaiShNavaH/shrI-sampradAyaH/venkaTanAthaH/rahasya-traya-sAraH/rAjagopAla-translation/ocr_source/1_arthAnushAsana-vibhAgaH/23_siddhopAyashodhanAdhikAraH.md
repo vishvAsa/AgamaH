@@ -29,11 +29,11 @@ THREE CAUSES BY WHICH THE LORD'S
 
 GRACE IS WON: 
 
-There are three main causes for the removal of the will of the Lord imposed on men as a panishment for past sins, owing to which the jīvas who are subject to the sway of past karma have no clear knowledge concerning the upāya that is already existent (namely Bhagavad), the upāya by which His favoar is secured (Sadhyopāya) and also the potency of these upāyas. They are as follows:- One is the speech that comes from the lips of Lakṣmī: If one asks, \*\*May this Saraṇāgati by mine!" Her reply is \*\*"Let it be yours; everything will be obtained by it alone." Next is the grace of the good ūcharya and the third is the obser vance of the tradition of the righteous. The queans (vyāja) by which the grace of the good ācārya can be secared and the benefits arisiog therefrom may be understood from the episodes of Parasara, Maitreya, Sanjaya, Asvalayapa and others. 
+There are three main causes for the removal of the will of the Lord imposed on men as a panishment for past sins, owing to which the jīvas who are subject to the sway of past karma have no clear knowledge concerning the upāya that is already existent (namely Bhagavad), the upāya by which His favoar is secured (Sadhyopāya) and also the potency of these upāyas. They are as follows:- One is the speech that comes from the lips of Lakṣmī: If one asks, \*\*May this Saraṇāgati by mine!" Her reply is \*\*"Let it be yours; everything will be obtained by it alone." Next is the grace of the good ūcharya and the third is the obser vance of the tradition of the righteous. The queans (vyāja) by which the grace of the good ācārya can be secared and the benefits arisiog therefrom may be understood from the episodes of Parāśara, Maitreya, Sanjaya, Asvalayapa and others. 
 
-NOTE By the advice of Vasishta, Parasara put a stop to the perform ance of a satra (sacrifice) which was aimed at the destruction of Rakṣasas. Pleased with this, Vasishta and Pulastya blessed him for his forbearance with a kpowledge of the sasiras and with the gifts necessary for the composition of a purana. 
+NOTE By the advice of Vasishta, Parāśara put a stop to the perform ance of a satra (sacrifice) which was aimed at the destruction of Rakṣasas. Pleased with this, Vasishta and Pulastya blessed him for his forbearance with a kpowledge of the sasiras and with the gifts necessary for the composition of a purāṇa. 
 
-Maitreya studied the Vedas, the dharma sastras and the Vedangas from his guru and, by his grace, obtained a knowledge of Vedānta by which bo realised how the origin, maintenance and destruction of the world occur and how there is nothing other than Viṣṇu. \*Sri Rāmapuja: Sarapagati gadya 
+Maitreya studied the Vedas, the dharma sastras and the Vedangas from his guru and, by his grace, obtained a knowledge of Vedānta by which bo realised how the origin, maintenance and destruction of the world occur and how there is nothing other than Viṣṇu. \*Sri Rāmanuja: Sarapagati gadya 
 
 23 
 
@@ -49,13 +49,13 @@ Full of the quality of sattva, and entering his career of disciple. ship in the 
 
 FORMS OF INFIDELITY: 
 
-It has been said, "He who understands dharma prescribed in the Vedas and the smritis with the help of arguments not opposed (to the spirit of) the Vedas and stāstras - be alone knows dharma, and not others." Those who have not understood dharma by the proper exercise of reason will become rationalistio 
+It has been said, "He who understands dharma prescribed in the Vedas and the Smr̥tis with the help of arguments not opposed (to the spirit of) the Vedas and stāstras - be alone knows dharma, and not others." Those who have not understood dharma by the proper exercise of reason will become rationalistio 
 
-1. Mahabharata : Aranya Parva; 
+1. Mahābhārata : Aranya Parva; 
 
 192-56 
 
-2. Maou Smriti : 12-106284 CHAPTER 
+2. Maou Smr̥ti : 12-106284 CHAPTER 
 
 (and sceptical) and will misinterpret the true meaning with specious arguments inconsistent with the Vedas; it has been stated that "by the followers of Kanada (Vaiseshika logicians), the followers of Sakya (Buddhista ) aod the heretics, the dharma ordained in the Vedas has disappeared." 
 
@@ -69,9 +69,9 @@ Any one of these forms of denial might occur in the case of a weak-minded man wh
 
 the person to whom it was given later, and then the person is robbed of what was given to him. Therefore, of the many causes of delusion, association with rationalists (and sceptics) is most to be avoided. This has been declared in passages like the following: 
 
-3. Atri Smriti 
+3. Atri Smr̥ti 
 
-4. Sandilya Smriti 
+4. Sandilya Smr̥ti 
 
 23 
 
@@ -83,11 +83,11 @@ AVOID ASSOCIATION WITH THE WICKED
 
 Conversation with rationalists makes men foolish in spite of their seeiog, 'as their 10 knowledge is lost by specious reasoning.' (this association with rationalists ) removes men from every one of the four classes which Īśvara calls His own, in the śloka : “My "people" are of four classes and they are all known to be my bhaktas." It would take them away from the group of men whom Sri Ranganatha calls "lads who are worthy of His love." It wonld throw them into the midst of those who are outside the range of Bhagavan's love as declared in: " There are 2A wicked 
 
-5. Maou Smriti: 4-30 6. Yagnavalkya Smriti 1-130 
+5. Maou Smr̥ti: 4-30 6. Yajñavalkya Smr̥ti 1-130 
 
 10. Bhagavad Gita: 7-18 11. Mababharata: Santi Parva: 350-34 12. Tirumalai: 37 12A. Bhagavad Gita VII - 15 
 
-Mahabharata: Aranya Parva 
+Mahābhārata: Aranya Parva 
 
 286 CHAPTER 
 
@@ -99,7 +99,7 @@ Have not the great sages declared :- "If there is were only one sāstra, it woul
 
 It is true that it has been stated: "In those "A who have bhakti to Purushottama, there is no apger, no hatred, no covetous. Dess nor impure minds", but this is applicable only to those individuals who are perfect in the possession of spiritual qualities. In the case of those who have yet to ascend to that high spiritual level, it is well-known that their minds may become deluded. Thus it has been said "We bear that the gods (devas), in dread of the diminution of samsāra among those who are devoted to Govinda, become their enemies, (i.e. try to hinder devo tion)" and again, "To "truthfulness in speech, there are a hundred hindrances; to tapas or the performance of austerities, the bind. rances are & thousand; and bhakti to Govinda meets with ten 
 
-\*NOTE:- Embar became subject to misconceptions owing to his associ ation with Yadavaprakasa and had to be corrected by Peria Tirumalai Nambl 13. Itihasa Samucchyam: 33-105 15. Viṣṇu dharma : 2-25 14. Mahabharata - Santi Parva: 359-71 16. Vishau dharma : 74-94 14A Mababharata: Anusasanika 
+\*NOTE:- Embar became subject to misconceptions owing to his associ ation with Yadavaprakasa and had to be corrected by Peria Tirumalai Nambl 13. Itihasa Samucchyam: 33-105 15. Viṣṇu dharma : 2-25 14. Mahābhārata - Santi Parva: 359-71 16. Vishau dharma : 74-94 14A Mababharata: Anusasanika 
 
 parva : 254-135 
 
@@ -147,11 +147,11 @@ In regard to incarnations, it has been said, "In" the distresses of men, Sri Rā
 
 240 OB APTER 
 
-It means only this: that this distress ie only in order to give delight to those who are worthy of His grace. In the case of wicked men with the nature of Asuras, the distress assumed by the avatār is to make the evil-doer become deluded into thinking that he is not Īśvara's incarnation. The great snges have declared the truth of what has been said so far in the following vlakas: "It \*is Bhagavan alone that rules over time and death over those that move and those that do not move. I am stating the truth to you; the Lord of all the worlds, though possessed of omnipotence and omniscience, begins to act (during incarnations ), as if He were only a weak tiller of the soil. In this way, by His association with wonderful powers, He deludes the world, bat those who seek refuge ander Him are never deluded", and "Sri Kr̥ṣṇa, who had large eyes, removed the burden off the earth, deluded the whole world and has now gone back to His own abode," and again "He imitates \*A the actions of those who bave the bodies of men, but the fila of the Lord of the world is dependent only on His will". Therefore in the stories of the avatārs or incarnations, the distress is only of the nature of play.acting and that, too, has compassion as its cause. It is of the nature of Tilā or sport to the Omnipotent. Have we not seen hunchbacks and dwarfs often taken into protec tion by kings wbo do not expect any return from them? It is a matter of ma or play to them and, at the same time, the conse quence of compassion. That is why it is said, "The Upanishads \*\* state that the Lord of Sri creates, maintains, controls and does such other things in regard to sentient and non-sentient things, only for His own sake. It is therefore, 0, Lord of Sriranga, Thy nature to be the means of salvation (upāya ) for the jiva and also the object of attaioment. Therefore I seek Thee as my upāya without any thought of my own interests." 
+It means only this: that this distress ie only in order to give delight to those who are worthy of His grace. In the case of wicked men with the nature of Asuras, the distress assumed by the avatār is to make the evil-doer become deluded into thinking that he is not Īśvara's incarnation. The great snges have declared the truth of what has been said so far in the following vlakas: "It \*is Bhagavan alone that rules over time and death over those that move and those that do not move. I am stating the truth to you; the Lord of all the worlds, though possessed of omnipotence and omniscience, begins to act (during incarnations ), as if He were only a weak tiller of the soil. In this way, by His association with wonderful powers, He deludes the world, bat those who seek refuge ander Him are never deluded", and "Sri Kr̥ṣṇa, who had large eyes, removed the burden off the earth, deluded the whole world and has now gone back to His own abode," and again "He imitates \*A the actions of those who bave the bodies of men, but the fila of the Lord of the world is dependent only on His will". Therefore in the stories of the avatārs or incarnations, the distress is only of the nature of play.acting and that, too, has compassion as its cause. It is of the nature of Tilā or sport to the Omnipotent. Have we not seen hunchbacks and dwarfs often taken into protec tion by kings wbo do not expect any return from them? It is a matter of ma or play to them and, at the same time, the conse quence of compassion. That is why it is said, "The Upaniṣads \*\* state that the Lord of Sri creates, maintains, controls and does such other things in regard to sentient and non-sentient things, only for His own sake. It is therefore, 0, Lord of Sriranga, Thy nature to be the means of salvation (upāya ) for the jiva and also the object of attaioment. Therefore I seek Thee as my upāya without any thought of my own interests." 
 
-Since Bhagavan is the seat of the activity for the good of others, He is the Saviour of those who seek refuge under Him and 22. Mahabharata: Udyoga Parva: 23. Viṣṇupurana: V 22-18 
+Since Bhagavan is the seat of the activity for the good of others, He is the Saviour of those who seek refuge under Him and 22. Mahābhārata: Udyoga Parva: 23. Viṣṇupurāṇa: V 22-18 
 
-67 (13-15) 24. Rapgarajastavam: Uttara. 23. Mahabharata: Mousala Parva: 9-34 
+67 (13-15) 24. Rapgarajastavam: Uttara. 23. Mahābhārata: Mousala Parva: 9-34 
 
 gatakam: 87 
 
@@ -173,7 +173,7 @@ TO PERFORM PRAPATTI AS AN UPAYA:
 
 (2) The injunction to perform prapatti is contained in the words, "Seek refuge under me \*alone". Some say that it is not an injunction to perform prapatti and that this prapatti should be considered as an attribute of the person specified. We answer 88 follows 3. This attribute cannot be held as that of the person 80 concerned or qualified, as it does not satisfy the definition of an 
 
-25. Mahabharata: Aradya parva:... 
+25. Mahābhārata: Aradya parva:... 
 
 71-123 
 
@@ -195,7 +195,7 @@ THE ROLE OF SIDDHOPAYA AND SADHYOPAYA
 
 : \* NOTE: "He who desires svarga should perform the Jyotishtoma sac rifice". Here, who desires svarga is an attribute or adjective of the person and the injunction is that he should perform the sacrifice. In Mam Ekant Saranam Vraja, the praparii has to be performed after hearing the vidhi or in junction; it did not exist before, like the desire for svarga in the example cited. Therefore, it is not an attribute; besides vraja is a verb that prescribes an action. 
 
-28. Vaikuntastava: 36 
+28. Vaikuṇṭhastava: 36 
 
 21.244 
 
@@ -211,7 +211,7 @@ Likewise the following s'lokas:-" The embodied being is like a larop of clay sub
 
 So far we bave dispelled certain misconceptions that may arise from a consideration of Īśvara's omnipotence and the compassion which is natural to Him. We will now proceed to clear doubts 29. Viṣṇudharma: 
 
-31. Mahabharata : Santi parva 12-36 30. Mahabharata: Santi parva 32. Mahabharata : Sabha parva 40-78 
+31. Mahābhārata : Santi parva 12-36 30. Mahābhārata: Santi parva 32. Mahābhārata : Sabha parva 40-78 
 
 294-19 
 
@@ -253,7 +253,7 @@ SANSKRIT SLOKA:
 
 When self-surrender has been performed for the sake of & certain object, there should be no repetition of that performance for the same object, (The need for the adoption of the upāya or endeavour in the form of prapatti at first is not denied ). Even before prapatti, the jiva could not act independently of the Lord. 
 
-34. Mahabharata ; Aranya Parva : 121-2. 
+34. Mahābhārata ; Aranya Parva : 121-2. 
 
 248 CHAPTER 
 
@@ -275,7 +275,7 @@ THE LORD HIMSELF:
 
 Hereafter we shall proceed briefly to remove certain misconcep tions which arise from the relationship of spouse that is expressed in the word Srimat (having Lakṣmī) as existing between Sri and the Supreme Ruler who has consecrated Himself for the sacrifice or yajna of saving all. As stated in the following siloka, "It is said in all religious systems and in the Vedānta that Bhagavan acts as the Saviour only in the company of Lakṣmī, who is the very embodiment of compassion". (The phrase, 'religious systems' here refers to the four pañcaratra systems). 
 
-There are some who hold that, in the former part of the Dvaya, the word Srimat is an upalakṣana\* ( an accidental sign by which the thing is distinguished and not a permanent attribute (or viseshana), whereas in the latter part, the same word means & permanent attribute of Narayana. (If this were true, it would follow that the words 'I seek as my refuge' saranam prapadye would apply only to Narayana and not to Sri or Lakṣmī who, in that part, according to them, is not meant to be taken as an inseparable attribute but as only an accidental mark to distinguish Narayana, Since in the latter part, Srīniat is, according to them, an inseparable attribute (vīs'eshana), it would follow that the dative and the namah would apply to the attribute and the substan tive, vix, Srī and Bhagavan. (It would then mean that Lakṣmī is not to be sought as the upāya but that adoration and service are due to her as well as to her spouse, Narayana ). 
+There are some who hold that, in the former part of the Dvaya, the word Srimat is an upalakṣana\* ( an accidental sign by which the thing is distinguished and not a permanent attribute (or viseshana), whereas in the latter part, the same word means & permanent attribute of Narāyaṇa. (If this were true, it would follow that the words 'I seek as my refuge' saranam prapadye would apply only to Narāyaṇa and not to Sri or Lakṣmī who, in that part, according to them, is not meant to be taken as an inseparable attribute but as only an accidental mark to distinguish Narāyaṇa, Since in the latter part, Srīniat is, according to them, an inseparable attribute (vīs'eshana), it would follow that the dative and the namah would apply to the attribute and the substan tive, vix, Srī and Bhagavan. (It would then mean that Lakṣmī is not to be sought as the upāya but that adoration and service are due to her as well as to her spouse, Narāyaṇa ). 
 
 In this (wrong) view, when the same word Srimat is found in both the parts (of Dvaya) and when there is no objection to interpreting it in the same way, in both the places, the adoption of an interpretation which is at variance with the well-known view 
 
@@ -289,7 +289,7 @@ CHAPTER
 
 of the ancient ācāryas and with the tradition connected with Nammalvar, the chief of all prapannas and which would give two different interpretations to the same word in the same sentence has no justification. For in the following śloka it is said :- "O Lakṣmī, with a face delightful like the moon! When (we) try to study Thea as distinct from Bhagavan, (we feel) that Hia svarūpa or essential nature and His being the Ruler over all are the consequence of the greatness, which is His, by His bejag ever with Thee. Thou art, therefore, the part (or attribute) by which Bhagavan is understood as being of such and such a character. Since Thou sad Bhagavan are thus (inseparably) united, the Veda does not speak of Thee separately". 
 
-It may be asked whether, if we take Srimat as an inseparable attribate of Narayana in the first part of the Dvaya also, it would not follow that there are two upāyas viz., Narayana and Lakṣmī, and whether this would not be at variance with the texts which say that there is no other upāya than Bhagavad. We counter this objection by asking whether, if we take Lakṣmī as the inseparable attribute, as you hold, in the second part of Dvaya, it would not follow that there are two objects of attainment, namely, Bhagavan and Lakṣmī and whether this would not be at variance with the texts which say “There is no other interest or object of attainment than Bhagavan". 
+It may be asked whether, if we take Srimat as an inseparable attribate of Narāyaṇa in the first part of the Dvaya also, it would not follow that there are two upāyas viz., Narāyaṇa and Lakṣmī, and whether this would not be at variance with the texts which say that there is no other upāya than Bhagavad. We counter this objection by asking whether, if we take Lakṣmī as the inseparable attribute, as you hold, in the second part of Dvaya, it would not follow that there are two objects of attainment, namely, Bhagavan and Lakṣmī and whether this would not be at variance with the texts which say “There is no other interest or object of attainment than Bhagavan". 
 
 If it is now asked: "In that case what is the objection to taking the word Srimat as only an accidentally associated mark (upalakṣana) by which Bhagavan is distinguished in both the parts of the Dvaya, the answer is as follows:--Certain qualities, certain forms ( vigrahas) and certain activities are necessary for Īśvara being the upāya. Likewise certain other qualities, certain other forms and certain activities are ever associated with Īśvara as the object of attainment. These necessary ( things ), also, would be at variance with Īśvara being the only upāya and the only object of attainment respectively. So they, too, would have to be 
 
@@ -309,21 +309,21 @@ The usefulness of this attribute Srī in Srimat, both in the part dealing with u
 
 37. Tiruvoymozhi : 4-5 - 11 38. Tinivoymozhi : 9-2-1 39. Rāmayana: Sundarakanda: 27-44 
 
-40. Rāmayana: Sundarakanda: 58-91 41. Kasyapa smriti 
+40. Rāmayana: Sundarakanda: 58-91 41. Kasyapa Smr̥ti 
 
 252 OHAPTER 
 
-can make us happy." Sri Bhagavan Sonnaka has given this pre. cept. "The man" that prays for the attainment of Bhagavan, who is the purport of all words, should perform prapatti to Lakṣmī also." The great sage Parasara wbo received the know ledge concerning the truth about the Supreme Deity from boons granted to him by Vasishta and Pulastya has stated "Thou art, O Goddesses, \*the knowledge concerning the soul, the giver of mokṣa, the object of attainment." Even if, in this śloka, the conferring of mokṣa be looked upon as an adjective qualifying the knowledge of the soul, it has to be considered as her glory or vibhūti on account of the appositional use (sāmānādhi karanya ). The Lord of Sri has himself proclaimed in connection with the meditation on Bhagavan as the Lord of Sri in Sri Satvata Sam hita -"Those \*8A who meditate on Bhagavad seek the protection of Lakṣmī and with that they easily cross the sea of samsāra which is constituted of these three qualities". Apart from the s'āstras treating specially of Sri, thege sõstras which do not pertain to any special sect or cult are of great authority. 
+can make us happy." Sri Bhagavan Sonnaka has given this pre. cept. "The man" that prays for the attainment of Bhagavan, who is the purport of all words, should perform prapatti to Lakṣmī also." The great sage Parāśara wbo received the know ledge concerning the truth about the Supreme Deity from boons granted to him by Vasishta and Pulastya has stated "Thou art, O Goddesses, \*the knowledge concerning the soul, the giver of mokṣa, the object of attainment." Even if, in this śloka, the conferring of mokṣa be looked upon as an adjective qualifying the knowledge of the soul, it has to be considered as her glory or vibhūti on account of the appositional use (sāmānādhi karanya ). The Lord of Sri has himself proclaimed in connection with the meditation on Bhagavan as the Lord of Sri in Sri Satvata Sam hita -"Those \*8A who meditate on Bhagavad seek the protection of Lakṣmī and with that they easily cross the sea of samsāra which is constituted of these three qualities". Apart from the s'āstras treating specially of Sri, thege śāstras which do not pertain to any special sect or cult are of great authority. 
 
-Alavandar, too, has stated:- "The whole world depends apon the glance of Sri, for its support." and again "Without \*\* the grace of Lakṣmī, the beloved spouse of the lotus-eyed Lord, we cannot have those glorious experiences which one might desire in this life (sansāra), nor the experience of our disembodied self, nor the enjoyment of Bhagavan in mokṣa". The author of Sri Bhashya, in his Vaikunta Gadya, says that she commande Adisesha, Vishvaksena and other attendants to render such service to Bhagavan as is -guited to the time and the circumstance, and that the service to Bhagavan, which is the supreme goal, should be rendered in accordance with her commands. Koorathalvan, 
+Aḷavandār, too, has stated:- "The whole world depends apon the glance of Sri, for its support." and again "Without \*\* the grace of Lakṣmī, the beloved spouse of the lotus-eyed Lord, we cannot have those glorious experiences which one might desire in this life (sansāra), nor the experience of our disembodied self, nor the enjoyment of Bhagavan in mokṣa". The author of Sri Bhashya, in his Vaikuṇṭha Gadya, says that she commande Adisesha, Vishvaksena and other attendants to render such service to Bhagavan as is -guited to the time and the circumstance, and that the service to Bhagavan, which is the supreme goal, should be rendered in accordance with her commands. Koorathalvan, 
 
 Tiheshini is in a bag glorious confer mokara Stotram 
 
 \* NOTE: The śloka says: Thou art the knowledge concerning the self or atma vidya: Lakṣmī is in apposition with arma vidya. The meaning is that atma vidya is one of her vibhutis or glorious possessions. Since arma vidya cao confer mokṣa, it follows that Lakṣmī can confer mokṣa. 42. Soudaka Samhita 
 
-44. Alavandar Stotram : 37 43. Viṣṇu purana : 1-9--20 
+44. Aḷavandār Stotram : 37 43. Viṣṇu purāṇa : 1-9--20 
 
-45. Alavandar. Chatussloki: 3 43A Sri Satvatam 12-84 
+45. Aḷavandār. Chatussloki: 3 43A Sri Satvatam 12-84 
 
 46. Vaikupta gadya : 
 
@@ -331,11 +331,11 @@ SIDDHOPAYA INCLUDES LAKSHMI
 
 253 
 
-too, sings his praise of Lakṣmī in ślokas beginning with these words: "The "bounds of Thy greatness. O, Goddess, are not known to Bhagavan nor even to Thyself". These words are an elaboration of what is contained in the śloka :- "May Lakṣmī \* confer happiness (on us) --- Lakṣmī, looking at whose face, and with Her will as His aid, the Lord creates, destroys and sustains all the worlds, and grants also such things as svargā, naraka (hell) and mokṣa. Since the two are engaged in the same work and experience the same kind of delight, the Lord cannot feel happy if he performs the tita of the work of the world without her participation in it," Bhattar, also, has commented on the word Udara (generous ) used in the Śruti (viz., Sri Stiktam) as ap adjective for Sri in this manner:-"How generous Thou art! O, Mother, to the man who merely raises his hands folded in worship to Thee, Thou grantest wealth, the enjoyment of his disembodied self and even parmapada and yet Thou feelest ashamed that Thou hast not done anything adequate for him." Peria Jeer, too, has brought out all these ideas in his commentary 00 Sri Saikta. Thus, from what we find in the Śruti, Smriti and tradition, (the reader) gifted with insight can under stand that the attribute expressed in the word Srimat in Duaya has its uses, just like such things as forms (vigraha), in accordance with its own nature. 
+too, sings his praise of Lakṣmī in ślokas beginning with these words: "The "bounds of Thy greatness. O, Goddess, are not known to Bhagavan nor even to Thyself". These words are an elaboration of what is contained in the śloka :- "May Lakṣmī \* confer happiness (on us) --- Lakṣmī, looking at whose face, and with Her will as His aid, the Lord creates, destroys and sustains all the worlds, and grants also such things as svargā, naraka (hell) and mokṣa. Since the two are engaged in the same work and experience the same kind of delight, the Lord cannot feel happy if he performs the tita of the work of the world without her participation in it," Bhattar, also, has commented on the word Udara (generous ) used in the Śruti (viz., Sri Stiktam) as ap adjective for Sri in this manner:-"How generous Thou art! O, Mother, to the man who merely raises his hands folded in worship to Thee, Thou grantest wealth, the enjoyment of his disembodied self and even parmapada and yet Thou feelest ashamed that Thou hast not done anything adequate for him." Peria Jeer, too, has brought out all these ideas in his commentary 00 Sri Saikta. Thus, from what we find in the Śruti, Smr̥ti and tradition, (the reader) gifted with insight can under stand that the attribute expressed in the word Srimat in Duaya has its uses, just like such things as forms (vigraha), in accordance with its own nature. 
 
 SANSKRIT SLOKAS: 
 
-You (critics who do not consider Lakṣmī as an inseparable) attribute or viseshana of Narayana in the first part of Dvaya) maintain that such things as the qualities of the Saviour (compas. siop etc) are attributes and not mere upalakṣana, even though they cannot undertake the responsibility (bhara) of protection and cannot have the will to protect (being only qualities and therefore non-sentient). Why do you object to the idea of Lakṣmī being the attribute (viseshana) and Narayana being the substantive 
+You (critics who do not consider Lakṣmī as an inseparable) attribute or viseshana of Narāyaṇa in the first part of Dvaya) maintain that such things as the qualities of the Saviour (compas. siop etc) are attributes and not mere upalakṣana, even though they cannot undertake the responsibility (bhara) of protection and cannot have the will to protect (being only qualities and therefore non-sentient). Why do you object to the idea of Lakṣmī being the attribute (viseshana) and Narāyaṇa being the substantive 
 
 49. Sri Gunaratnakosam : 58 
 
@@ -345,7 +345,7 @@ You (critics who do not consider Lakṣmī as an inseparable) attribute or vises
 
 We have already stated that what is understood from the pramāṇas should not be set aside by mere logic or reason. There fore, just as we accept the Lord with His Spouse, as the object of attainment in accordance with the wish of the Saviour, there is no objection to the Lord with His Spouse being the upāya as well. 
 
-Just as Bhagavan with particular qualities (like omnipotence and compassion) and particular forms (vigraha) indicated, res pectively, by the words Nārāyana and charanau, (the two feet) which are attributes of Narayana forms a single upāya, so also Bhagavan with Lakṣmī, who appears in the word Srimat as an attribute in the eternal relationship of being His Spouse, may with. out any impropriety, be considered as a single upāya. If it is said that we should give up all the attributes of the upāya in order to make the upāya single, the dharma of being an upāya (i.e. upa. yatua) will have to be given up also. 
+Just as Bhagavan with particular qualities (like omnipotence and compassion) and particular forms (vigraha) indicated, res pectively, by the words Nārāyana and charanau, (the two feet) which are attributes of Narāyaṇa forms a single upāya, so also Bhagavan with Lakṣmī, who appears in the word Srimat as an attribute in the eternal relationship of being His Spouse, may with. out any impropriety, be considered as a single upāya. If it is said that we should give up all the attributes of the upāya in order to make the upāya single, the dharma of being an upāya (i.e. upa. yatua) will have to be given up also. 
 
 It should not be thought that the substantive (here Bhagavan), when it gains some excellence from the attribnte (here Lakṣmī), should be considered as previously wanting in some excellence. Well has it been said in the śloka :- “Thou art, O 6 Lakṣmī, the property of Bhagavad by Tbine own will; hence, though His supreme excellence is due to Thee, His greatness is not dependent on any one else. A gem becomes valuable on account of its radiance. It does not thereby become in itself worthless; its 
 
@@ -363,7 +363,7 @@ By the authority of texts in the Śruti (such as "He is the Lord of the Universe
 
 51. Rāmayana: Sundara Kanda: 21-15 54A Tiruvoimozbi: 10-10-2 52. Lakṣmī Kalyanam. 
 
-54B Srigujaratnakosa : 9 53. Rāmayana Aranya Kanda : 37-18 54c Peria Tirumozbi 7-7-1 54. Alavandar Stotram : 38 
+54B Srigujaratnakosa : 9 53. Rāmayana Aranya Kanda : 37-18 54c Peria Tirumozbi 7-7-1 54. Aḷavandār Stotram : 38 
 
 55. Sattvatam. 
 
@@ -393,9 +393,9 @@ H
 
 . 
 
-59. Mababharata Karna Parva 72-54. 60. Itihasa Samucchaya 33-108. 61. Visbau purana 1-8-35. 
+59. Mababharata Karna Parva 72-54. 60. Itihasa Samucchaya 33-108. 61. Visbau purāṇa 1-8-35. 
 
-62. Visbaupurana 1-8-17. 63. Rāmayana: Sundara Kanda 
+62. Visbaupurāṇa 1-8-17. 63. Rāmayana: Sundara Kanda 
 
 15-52 
 
@@ -415,7 +415,7 @@ since Bhagavan alone can act directly. To those wbo have adop ted prapetti &s th
 
 TAMIL VERSE: 
 
-Narayana, with His Spouse Lakṣmī, who is staunch in being every kind of relation (to us ), who is the sea of compassion that dispela ignorance (and delusion), who shines sustaining all (things and all beings ) with His mere will, being the Supreme Lord with out a second and who takes compassion on us on account of ( $ri), the nectar born of sweet nectar - Narayana with Sri is the firm refuge of all who seek His protection having no other support. 
+Narāyaṇa, with His Spouse Lakṣmī, who is staunch in being every kind of relation (to us ), who is the sea of compassion that dispela ignorance (and delusion), who shines sustaining all (things and all beings ) with His mere will, being the Supreme Lord with out a second and who takes compassion on us on account of ( $ri), the nectar born of sweet nectar - Narāyaṇa with Sri is the firm refuge of all who seek His protection having no other support. 
 
 SANSKRIT SLOKA: 
 

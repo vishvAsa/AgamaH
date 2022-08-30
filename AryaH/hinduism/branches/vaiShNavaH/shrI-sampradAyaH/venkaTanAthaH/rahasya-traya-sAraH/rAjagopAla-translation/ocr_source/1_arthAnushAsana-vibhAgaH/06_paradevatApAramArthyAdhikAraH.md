@@ -12,7 +12,7 @@ THE SUPREME DEITY.
 
 SANSKRIT SLOKA: 
 
-Those who are not proficient in the Sastras say that there is only a single self, that all deities (like Indra, Agni and so on) are only one, that the three deities (Brahma, Viṣṇu and Siva), when properly understood, are alike and of equal rank, that these three deities are only one deity (in three forms) and that the Supreme Deity is other than these three and hold other such (erroneous) views, but those who bave discrimination entertain no regard for these (divergent views). The Upanishads, with one voice, and so also Mana, Vyasa and others, following the Upanishads, proclaim that Sriman Narayana is our Lord who has all (things and beings) for His body, that He (alone) can give mukti and that He is the object of blissful enjoyment for those who have attained mokṣa, 
+Those who are not proficient in the Sastras say that there is only a single self, that all deities (like Indra, Agni and so on) are only one, that the three deities (Brahma, Viṣṇu and Siva), when properly understood, are alike and of equal rank, that these three deities are only one deity (in three forms) and that the Supreme Deity is other than these three and hold other such (erroneous) views, but those who bave discrimination entertain no regard for these (divergent views). The Upaniṣads, with one voice, and so also Mana, Vyasa and others, following the Upaniṣads, proclaim that Sriman Narāyaṇa is our Lord who has all (things and beings) for His body, that He (alone) can give mukti and that He is the object of blissful enjoyment for those who have attained mokṣa, 
 
 WHY SHOULD WE DETERMINE WHO THE 
 
@@ -32,17 +32,17 @@ BRAHMĀ, RUDRA AND OTHERS ARE
 
 CREATED BEINGS: 
 
-Those who are considered as the chief among these gods, namely, Brahma, Rudra, Indra and others are created beings subject to the law of karma, as can be proved by pramāņas. It has been said, "When 'all individual beings and even the aggregate jiva (Samashti) have gone into dissolution and when mahat has become merged into prakriti (from which it evolved), there is one remaining as the soul of the universe and He is the Lord Narayana." Again it is said, “The god Narayana is at the beginning; from Him arises Brahma", "Narayana is the Supreme Deity; From Him was born Brahma, the four-faced, and from Brabma arose Rudra, 0 goddess ", and further, it is stated, "Then you, "the irresistible, assumed the form of Visbou from that eternal existence (viz. Narayana) for the protection of all beings." From this it is clear that, by his own will, He incarnated as the middle one (i.e. Viṣṇu) of the Trinity. He who is expressed by the names, Visbau and Narayana, iş stated to have been the ultimate cause of the world in His previous and original state. It is 
+Those who are considered as the chief among these gods, namely, Brahma, Rudra, Indra and others are created beings subject to the law of karma, as can be proved by pramāņas. It has been said, "When 'all individual beings and even the aggregate jiva (Samashti) have gone into dissolution and when mahat has become merged into prakriti (from which it evolved), there is one remaining as the soul of the universe and He is the Lord Narāyaṇa." Again it is said, “The god Narāyaṇa is at the beginning; from Him arises Brahma", "Narāyaṇa is the Supreme Deity; From Him was born Brahma, the four-faced, and from Brabma arose Rudra, 0 goddess ", and further, it is stated, "Then you, "the irresistible, assumed the form of Visbou from that eternal existence (viz. Narāyaṇa) for the protection of all beings." From this it is clear that, by his own will, He incarnated as the middle one (i.e. Viṣṇu) of the Trinity. He who is expressed by the names, Visbau and Narāyaṇa, iş stated to have been the ultimate cause of the world in His previous and original state. It is 
 
-1. Mababharata: Santi parva 210-24. 2. Varaha Puranam: 25-6. 3. Varaha Puranam: 90–3. 4. Rāmayana : Uttara Kanda (Brahma's words ) "101-26. 
+1. Mababharata: Santi parva 210-24. 2. Varaha Purāṇam: 25-6. 3. Varaha Purāṇam: 90–3. 4. Rāmayana : Uttara Kanda (Brahma's words ) "101-26. 
 
 74 CHAPTER 
 
-also said elsewhere, " There is no "being in the world that is eternal, either among those that move or among those that do not move, except that one Primaeval Puruṣa called Vasudeva." This declares that He alone is eternal. Therefore, other views such as the following: "The gods of the trinity (Brahma, Viṣṇu, and Siva), are of equal greatness"; "The three gods of the Trinity are only one", "Īśvara is above and beyond the Trinity" "Either Brabma or Rudra among the Trinity is the Sapreme Lord "-these views stating equality, identity, the exis. tence of an entity superior to all the three of the Trinity and the supremacy of a different member of the Trinity, are against the pramāņas. That Brahma, Radra, and the like are created beings subject to karma may be seen in the following passages :-" Theo purusha or person created by Him (Narayana) is called Brahma in the world". "Having 'caused the dissolution of the worlds before, you lay on the waters of the great ocean and created me at first by your Māya (will).", " Brahma's name is Ka and I, Isa role over all embodied beings. We two were born from your limbs. Therefore you are called Kesava (Ka and Isa)" Further Brahma says, "I was born from His graciousness for some reason and you, from His wrath, for some other reason, in one of the earlier creations." The very words of these rival gods, which are, so to say, a deed of release written with their own hands, declare this truth. That Brahma and Radrs are subject to karma and attained their high status, because of having worshipped the Lord of all with special rites, may be seen from the following pags ages : -- "All the gods sacrifice to Vasudeva and all the gods bow to Vasudeva." "Brahma, "Rudra and Indra, together with all other gods and the great rishis worship the divine Narayana or Hari, the greatest of Gods ", " Meditating constantly on the 
+also said elsewhere, " There is no "being in the world that is eternal, either among those that move or among those that do not move, except that one Primaeval Puruṣa called Vasudeva." This declares that He alone is eternal. Therefore, other views such as the following: "The gods of the trinity (Brahma, Viṣṇu, and Siva), are of equal greatness"; "The three gods of the Trinity are only one", "Īśvara is above and beyond the Trinity" "Either Brabma or Rudra among the Trinity is the Sapreme Lord "-these views stating equality, identity, the exis. tence of an entity superior to all the three of the Trinity and the supremacy of a different member of the Trinity, are against the pramāņas. That Brahma, Radra, and the like are created beings subject to karma may be seen in the following passages :-" Theo purusha or person created by Him (Narāyaṇa) is called Brahma in the world". "Having 'caused the dissolution of the worlds before, you lay on the waters of the great ocean and created me at first by your Māya (will).", " Brahma's name is Ka and I, Isa role over all embodied beings. We two were born from your limbs. Therefore you are called Keśava (Ka and Isa)" Further Brahma says, "I was born from His graciousness for some reason and you, from His wrath, for some other reason, in one of the earlier creations." The very words of these rival gods, which are, so to say, a deed of release written with their own hands, declare this truth. That Brahma and Radrs are subject to karma and attained their high status, because of having worshipped the Lord of all with special rites, may be seen from the following pags ages : -- "All the gods sacrifice to Vasudeva and all the gods bow to Vasudeva." "Brahma, "Rudra and Indra, together with all other gods and the great rishis worship the divine Narāyaṇa or Hari, the greatest of Gods ", " Meditating constantly on the 
 
-5. Mababharata: Santiparva 347-32 6. Manusmriti 1-11 7. Rāmayana: Uttarakanda 1044 8. Harivamsa (Siva's words) 131-48 
+5. Mababharata: Santiparva 347-32 6. ManuSmr̥ti 1-11 7. Rāmayana: Uttarakanda 1044 8. Harivamsa (Siva's words) 131-48 
 
-9. Mahabharata Santiparva 352-62 10. ? 11. Mahabharata Santiparva 350-30 12. Mahabharata Santiparva 210-33 
+9. Mahābhārata Santiparva 352-62 10. ? 11. Mahābhārata Santiparva 350-30 12. Mahābhārata Santiparva 210-33 
 
 ON THE SUPREME DEITY 
 
@@ -50,21 +50,21 @@ Lord, Brahma, Isana (Rudra) and others have not yet attained to # realisation of
 
 13. Rāmayana: Uttarakanda 104-7-8 14. Mababharata: Kundadharo 
 
-'pakhyana 15. Mahabharata: Santiparva: 837 
+'pakhyana 15. Mahābhārata: Santiparva: 837 
 
-16. Mahabharata: Santiparva: 20-12 17. Mahabharatha: Santiparva: 319-61 17A. Viṣṇupurada: 5-30-17 18. Manu Smritit 12-50 CHAPTER 
+16. Mahābhārata: Santiparva: 20-12 17. Mahabharatha: Santiparva: 319-61 17A. Viṣṇupurada: 5-30-17 18. Manu Smr̥tit 12-50 CHAPTER 
 
 THE OTHER GODS ARE THE SERVANTS 
 
 OF BHAGAVĀN. 
 
-That these (Brahma and Rudra) render service to the Lord, who is their inner self, with the help of the knowledge given to them by Him may be seen from the following śloka : "These two ", who are the greatest among the gods, are considered to have been born (respectively) out of His (Bhagavan's) graciousness and wrath; and they perform the duties of creation and destruc tion in accordance with the lines laid down by Him." They are not pure and are not objects for spiritual meditation (subhasraya), for it has been said: "Bhagavan \*\*Hiranyagarbha (Brahma), Vasava (Indra) and Prajapati ... ... ... all these gods and others are impure, their births being due to past karma" and again, "From Brahma'l to the blade of grass, all beings that have their existence in the world have had their births as the result of karma and are subject to the cycle of births and deaths ( samsāra)" and further, “The man who has no attacbment (to the things of this world) should koow that every being including Brahma is impure as being tainted by the ripening of karma -- to Him, Vasudeva alone is the Supreme Goal or refuge." These statements have been made by Parasara, Sounaka, Suka and others. Brabma, Rudra and others have to seek Bhagavan's protection and Bhaga van has to seek no body else's protection. This is clear from His own words :"The godses are under the protection of Rudra, O King, and Rudra is under the protection of Brahma. Brahma is under my protection and I do not seek the protection of any one. There is no one that I need for my protection, for I am the refuge of all." These gods are among the great possessions (vibhuti) of Bhagavan, who is the Lord of both tilāvibhuti and nitya-vibhūti,) --- for it is said, “Brabma" Dakṣa and others, Kala, 
+That these (Brahma and Rudra) render service to the Lord, who is their inner self, with the help of the knowledge given to them by Him may be seen from the following śloka : "These two ", who are the greatest among the gods, are considered to have been born (respectively) out of His (Bhagavan's) graciousness and wrath; and they perform the duties of creation and destruc tion in accordance with the lines laid down by Him." They are not pure and are not objects for spiritual meditation (subhasraya), for it has been said: "Bhagavan \*\*Hiranyagarbha (Brahma), Vasava (Indra) and Prajapati ... ... ... all these gods and others are impure, their births being due to past karma" and again, "From Brahma'l to the blade of grass, all beings that have their existence in the world have had their births as the result of karma and are subject to the cycle of births and deaths ( samsāra)" and further, “The man who has no attacbment (to the things of this world) should koow that every being including Brahma is impure as being tainted by the ripening of karma -- to Him, Vasudeva alone is the Supreme Goal or refuge." These statements have been made by Parāśara, Sounaka, Suka and others. Brabma, Rudra and others have to seek Bhagavan's protection and Bhaga van has to seek no body else's protection. This is clear from His own words :"The godses are under the protection of Rudra, O King, and Rudra is under the protection of Brahma. Brahma is under my protection and I do not seek the protection of any one. There is no one that I need for my protection, for I am the refuge of all." These gods are among the great possessions (vibhuti) of Bhagavan, who is the Lord of both tilāvibhuti and nitya-vibhūti,) --- for it is said, “Brabma" Dakṣa and others, Kala, 
 
-19. Mahabharata: Santiparva: 350-1923. Mahabharata: Aswamedhikaparva 20. Viṣṇupurana: 6-7-56, 77. 
+19. Mahābhārata: Santiparva: 350-1923. Mahābhārata: Aswamedhikaparva 20. Viṣṇupurāṇa: 6-7-56, 77. 
 
 118-37, 38 21. Vishoudharmam: 104-23 
 
-24. Viṣṇupurana: 1-22-33 22. Bhagavatam: 11-19-18. 
+24. Viṣṇupurāṇa: 1-22-33 22. Bhagavatam: 11-19-18. 
 
 ON THE SUPREME DEITY: 
 
@@ -74,21 +74,21 @@ THE OTHER GODS ARE THE PRAKĀRAS OR
 
 MODES OF BHAGAVAN. 
 
-These gods (Brahma, Rudra etc.) are others like the modes or prakāras of the Lord of all who has all things as Hja body. This is clear from the grammatical apposition or co-ordi. nation (sāmānādkikaranya) in which they are used, just like other substances, in connection with such words as Narayana. (For example it is said that Rudra is Narayana, Brahma is Narayana, the earth is Narayana and so on.) 
+These gods (Brahma, Rudra etc.) are others like the modes or prakāras of the Lord of all who has all things as Hja body. This is clear from the grammatical apposition or co-ordi. nation (sāmānādkikaranya) in which they are used, just like other substances, in connection with such words as Narāyaṇa. (For example it is said that Rudra is Narāyaṇa, Brahma is Narāyaṇa, the earth is Narāyaṇa and so on.) 
 
 That these are His bodies and that He is their inner self or goal is evident from these words of Brahma to Rudra :- "He is\* the inner self of you, of me and of all those who are called embo died beings. He sees all but cannot be apprehended by any one, anywhere." These are s'eshas who exist solely for the fulfilment of His purposes and He is their s'eshi. This truth was expressed by the all-knowing Rudra himself in Mantrarājapadastotra, where he says, "Al beings are, by their nature, the servants of the Supreme Self. Therefore I am also Thy servant and, with this knowledge, I bow to Thee." 
 
 BHAGAVĀN HAS NEITHER EQUALS NOR SUPERIORS : 
 
-Thus Narayana is destitute, in every way, of equals and superiors. This may be seen from the following ślokas :- "O best\* of men, there is no one superior to (Narayana ) the god of the lotus-like eyes;" "There was no one superior to Him in the past nor will there be any one superior to Him in the future : “There is not god superior to Viṣṇu, O best of kings; " "There is sting 
+Thus Narāyaṇa is destitute, in every way, of equals and superiors. This may be seen from the following ślokas :- "O best\* of men, there is no one superior to (Narāyaṇa ) the god of the lotus-like eyes;" "There was no one superior to Him in the past nor will there be any one superior to Him in the future : “There is not god superior to Viṣṇu, O best of kings; " "There is sting 
 
 www. 
 
 ar 
 
-25. Mababharata: Santiparva : 361-4. 26. Mahabharata : Bhishma parva 67-2. 
+25. Mababharata: Santiparva : 361-4. 26. Mahābhārata : Bhishma parva 67-2. 
 
-27. Mahabharata : Bhishma parva 
+27. Mahābhārata : Bhishma parva 
 
 67-17. 28. ? 
 
@@ -100,15 +100,15 @@ THE ASPIRANT FOR MUKTI SHOULD WORSHIP
 
 ONLY BHAGAVĀN. 
 
-That these gods are not to be worshipped by those who desire mokṣa (and that Narayana, the Lord of all, who is the cause of these gods, is alone the deity to be worshipped by all those who desire mokṣa, including these gods) may be seen from the follow ing ślokas :- "To those who are sunk in the sea of samsāra and whose minds are overpowered by the objects of sense plea sures, there is no other refuge than the ship of Viṣṇu," "Those who have a disoriminating intelligence never worship Brahma, or Rudra or any of the other gods, for the fruit of their worship 
+That these gods are not to be worshipped by those who desire mokṣa (and that Narāyaṇa, the Lord of all, who is the cause of these gods, is alone the deity to be worshipped by all those who desire mokṣa, including these gods) may be seen from the follow ing ślokas :- "To those who are sunk in the sea of samsāra and whose minds are overpowered by the objects of sense plea sures, there is no other refuge than the ship of Viṣṇu," "Those who have a disoriminating intelligence never worship Brahma, or Rudra or any of the other gods, for the fruit of their worship 
 
-29. ? 30. 31. Naradiya Purana 18-33 32. Mahabharata: Aswamedhika 
+29. ? 30. 31. Naradiya Purāṇa 18-33 32. Mahābhārata: Aswamedhika 
 
 parva 43-13 
 
-33. Mahabharata: Santiparva 
+33. Mahābhārata: Santiparva 
 
-358-73-77 34. Viṣṇudharmam: 1-59 35. Mahabharata: Santiparva 350-36 
+358-73-77 34. Viṣṇudharmam: 1-59 35. Mahābhārata: Santiparva 350-36 
 
 ON THE SUPREME DEITY. 
 
@@ -124,7 +124,7 @@ If Bhagavan, whose will is irresistible, decides that some one deserves His puni
 
 7 37. 
 
-39. Varaha Purana: 70-36. 
+39. Varaha Purāṇa: 70-36. 
 
 80 CHAPTER 
 
@@ -148,11 +148,11 @@ AN
 
 a very limited nature; " " In kalpas or ages when satva is pre. dominant, Hari's glory becomes great and, only in them, those who have successfully practised yoga in accordance with the sāstras will attain the supreme goal." Therefore, from these other deities, mokṣa cannot be attained even after a length of time. From the Lord of all, on the other hand, a man obtains unsurpassed wealth and the like, even as Brahma attained his high position after wor® shipping Viṣṇu for crores of thousands of yugas; and afterwards, like the man who bathes in the Ganga for physical refreshment and thereby obtains purification also from all his sins, he gets inci dentally freedom from sins; his rajas apd tamas decline and his satuam becomes dominant and, in course of time, he will attain mokṣa like Janaka, Ambarisha, Kekaya and others. But there is delay in such cases as may be seen in the following passages : "At the 48A end of many virtuous lives, the man attains spiritual wisdom and seeks my proteotion” and again, " Those who have attained success in crores of births will at length become well established here." "Those who have, in many thousands of lives, become purified of their sins by penance, meditation and yoga (samadhi) will acquire devotion to Kr̥ṣṇa," When the desire for mokṣa has become ardent and when the man practiges 80 upāya which is within his power, there will be no delay in the attainment of mokṣa, for He has declared : "To those who have fixed their minds on me - to them I become the redeemer and save them quickly out of the sea of samsāra". To him who adopts prapatti as the independent means, there is neither delay nor absence of delay, except in accordance with his own desire These distinctions will be accepted by all who have regard for the pramānas and they have their effect by the will of Īśvara which cannot be questioned, for has it not been said, " The lordship of Īśvara is absolutely independent and brooks no questioning ?" To 
 
-47. Matsya Purana: 290-16 48. Mahabharata: Kundadhara 
+47. Matsya Purāṇa: 290-16 48. Mahābhārata: Kundadhara 
 
 Upakhyanam 48A Bhagavad Gita: 7-19 
 
-49. Poushkara Sambita 50. pañcaratram 51. Bhagavad Gita: 12-7 52. Vaikuntasthavam: 5582 OB APTER 
+49. Poushkara Sambita 50. pañcaratram 51. Bhagavad Gita: 12-7 52. Vaikuṇṭhasthavam: 5582 OB APTER 
 
 those who do not clearly vaderstand these principles in this way, the worship of other deities is prescribed in such passages as the following: "They may "be worshipped by men other than those who have discriminating intelligence," 
 
@@ -172,7 +172,7 @@ ON THE SUPREME DEITY
 
 addition to what they desire vis., mokṣa". These are, so to say, adventitious or incidental rewards (ānushangika ) aot sought by them. Sri Kulasekhara Perumsl, to whom such adventitious prosperity was vouchsafed, says in this connection:-"The 56A man who desires only Thee and does not seek great prosperity - pros perity comes and seeks him." Isandan also has stated this in his stotra thus "Those enjoyments which were formerly desired but could not be obtained come to us, of their own accord, without any effort or exertion on our part, like rivers flowing into the ocean, (although we do not desire them now)." (It may be asked why all those who desire only mokṣa are not blessed with the good things of this life ). (The answer is):- This is dae to the special form of meditation or vidyā practised by the devotee and the special desires of his earlier life. (Some. vidyās secure worldly prosperity in addition to mokṣa after death, while others secure only mokṣa.) 
 
-The Alwars, too, have spoken of these differences between the Lord of all on one side and Brahma, Rudra and the other gods on the other side, in passages such as the following: “The gods\* are only the food eaten by Bhagavan and vomited afterwards, (eaten during pralaya and vomited after creation); are there any (gods) who are not of the nature of this vomit?" "Narayana \*\*created the god with four faces, and the god with four faces cre ated Saṅkara." "O Thou" that art the original bulb of the lotus of the navel, from which arose Brahma, Siva, Indra and the others who worship you with reverence.” “ Arjuna "saw on Siva's head, the flowers of the garland that he had placed at the feet of the holy Bhagavan which had measured the whole world, and anderstood clearly that Sri Kr̥ṣṇa was the Supreme Deity Wearing garland of green tulasi." "Indra“ who rules over the gode, Brahma the god with four faces, and the great Siva with his matted locks of hair - (all these) meditate with earnestness and 
+The Alwars, too, have spoken of these differences between the Lord of all on one side and Brahma, Rudra and the other gods on the other side, in passages such as the following: “The gods\* are only the food eaten by Bhagavan and vomited afterwards, (eaten during pralaya and vomited after creation); are there any (gods) who are not of the nature of this vomit?" "Narāyaṇa \*\*created the god with four faces, and the god with four faces cre ated Saṅkara." "O Thou" that art the original bulb of the lotus of the navel, from which arose Brahma, Siva, Indra and the others who worship you with reverence.” “ Arjuna "saw on Siva's head, the flowers of the garland that he had placed at the feet of the holy Bhagavan which had measured the whole world, and anderstood clearly that Sri Kr̥ṣṇa was the Supreme Deity Wearing garland of green tulasi." "Indra“ who rules over the gode, Brahma the god with four faces, and the great Siva with his matted locks of hair - (all these) meditate with earnestness and 
 
 S6A. Perumal Tirumozhi: S9 $7. Peria Tirumozhi: 11-6-2 58. Nanmugaa Tiruvaodadi: 1 
 
@@ -180,7 +180,7 @@ S6A. Perumal Tirumozhi: S9 $7. Peria Tirumozhi: 11-6-2 58. Nanmugaa Tiruvaodadi:
 
 sincerity on His lotus-like feet and go about praising Him." "He alone" is the Lord of Siva who is spoken of in high terms, of Brahma and of all others." "O Lord whose glory cannot be adequately understood even by him who rides on the unique bull and by Brahma," And again, "Neither the god who has the ball for his banner, viz. Siva aor Brahma, nor Indra nor any other knows the remedy for the disease called " birth" (i.e.) samsāra." 
 
-This truth about Bhagavan being the Supreme Deity should be considered as present in the first letter a of aum in Tirumantra and in the word Nārāyana therein and in the word Narayana occurring in Duayam along with its attribute Sriman (along with Sri or Lakṣmī) and likewise in the words 'me' and 'I' occurring in the Charama Sloka. 
+This truth about Bhagavan being the Supreme Deity should be considered as present in the first letter a of aum in Tirumantra and in the word Nārāyana therein and in the word Narāyaṇa occurring in Duayam along with its attribute Sriman (along with Sri or Lakṣmī) and likewise in the words 'me' and 'I' occurring in the Charama Sloka. 
 
 For men other than those who have this conviction about the Supreme Deity, it is not possible to be in the state of having Bhagavan alone exclusively as their protector, a state such as is described in the following and other words of the Alwars: "There is 68 no refuge other than Krishda". "Whether you \* weed out my suffering or whether you do not weed it out, I have no other means of getting it removed." "I know of no other staff of support for my soul". (We may see also) the ten stanzas beginning with: “If you do not withbold the suffering due to my karma", The Alwar\* who learnt all spiritual truths directly from the Lord of all discerned the truth about the Supreme Deity in Tirumantra, gave up all devotion to other deities and became well established in exclusive devotion to Bhagavan, which extends to His devotees and also in rendering exclusive service to the Lord and His devotees. He gives expression to this in the following verse. "I cannot eo live in agreement with those who 
 
@@ -196,7 +196,7 @@ hold that there is any other deity (than the Lord); I have also obtained the pri
 
 Having in mind the passage in Taittiriya which describes the Supreme Deity as being the Lord of Lakṣmī, the Alwar under stands that this description excludes other gods and exclaims:-"I have seen Lakṣmī and the form of the Lord shining like gold on which she rests." Beginning with this verse he concludes with the statement that " for wise men it is only Bhagavan who ever acts in conjunction with Lakṣmī that is both refuge and goal." This be declares in the following verse :- "Our refaget is the goddess residing in the beautiful lotus covered with honey, who has long eyes and sbines with a splendour which throws into the shade the lightning seated in the black cloud and who fascinates (with her beauty) the God armed with the discus and wearing the garland of tulasi on his broad chest." The conclusion has been arrived at that this couple (Bhagavan and Sri) are our goal of attainment and our refuge. 
 
-This truth regarding the Supreme Deity was taught at great length by the great sage, Parasara, to his worthy disciple who was fit to receive the great spiritual secrets, in the following śloka - 
+This truth regarding the Supreme Deity was taught at great length by the great sage, Parāśara, to his worthy disciple who was fit to receive the great spiritual secrets, in the following śloka - 
 
 70. Tirunedunthandagam : 2 71. Periāḻvār Tirumozhi : 4- 
 
@@ -204,15 +204,15 @@ This truth regarding the Supreme Deity was taught at great length by the great s
 
 86 CHAPTER 
 
-“Io all beings, gods, men and animals, all that is masculine is Bhagavan, Hari, and all that is feminine is Laksbmi, O Maitreya, and there is no one other than they," Tbis sage, Parasara, obtained the knowledge concerning the Supreme Deity by the grace of Pulastya and Vasishta who gave him this boop :-"You will" understand the truth about the Supreme Deity." "What Was?" said to you by Pulastya will certainly become true." Our great Acharya, Sri Yamunamudi, also speaks of Parasara with the greatest regard in 'I bow to Parasara, the best of sages." And Nammāḻvār, who received the gift of knowledge free from all delusion and bhakti from Bhagavan and who occupies the highest place in the line of those who have performed prapatti, has stated the same truth (namely, that Lakṣmī should also be considered along with Bhagavad as our refuge and our goal): "You have 78 epabled me to have a vision of Thyself and Thy consort (Lakṣmī) with the sbining bracelets, standing together." 
+“Io all beings, gods, men and animals, all that is masculine is Bhagavan, Hari, and all that is feminine is Laksbmi, O Maitreya, and there is no one other than they," Tbis sage, Parāśara, obtained the knowledge concerning the Supreme Deity by the grace of Pulastya and Vasishta who gave him this boop :-"You will" understand the truth about the Supreme Deity." "What Was?" said to you by Pulastya will certainly become true." Our great Acharya, Sri Yamunamudi, also speaks of Parāśara with the greatest regard in 'I bow to Parāśara, the best of sages." And Nammāḻvār, who received the gift of knowledge free from all delusion and bhakti from Bhagavan and who occupies the highest place in the line of those who have performed prapatti, has stated the same truth (namely, that Lakṣmī should also be considered along with Bhagavad as our refuge and our goal): "You have 78 epabled me to have a vision of Thyself and Thy consort (Lakṣmī) with the sbining bracelets, standing together." 
 
 We bave already stated all that should be said in this connec tion in our commentary on The Four Slokas (of Yamunācārya) with a refutation of the views of opponents and refer the reader to the same. 
 
 TAMIL VERSE: 
 
-Our Acharyas have proclaiped, in so uncertain terms, that our eternal Lord with His Consort seated on the lotus is the Supreme Deity, so that disputants, proud of their knowledge of reasoning and argumentation, may not, each according to his own will, declare that the ultimate cause is this or that (Brahma, Rudra or Indra) thus causing dread to the Vedas\* and trepidation to all devotees. 74. Viṣṇu Purana: 1 - 8-35 
+Our Acharyas have proclaiped, in so uncertain terms, that our eternal Lord with His Consort seated on the lotus is the Supreme Deity, so that disputants, proud of their knowledge of reasoning and argumentation, may not, each according to his own will, declare that the ultimate cause is this or that (Brahma, Rudra or Indra) thus causing dread to the Vedas\* and trepidation to all devotees. 74. Viṣṇu Purāṇa: 1 - 8-35 
 
-77. Alavandar Stotram: 4 75. Viṣṇupurana: 1-1-26 
+77. Aḷavandār Stotram: 4 75. Viṣṇupurāṇa: 1-1-26 
 
 78. Tiruvoymozhi: 4-9. 10 76. Ibid: 1-1-28 
 

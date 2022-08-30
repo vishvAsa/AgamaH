@@ -68,12 +68,12 @@ The angas or accessories of prapatti, ünukulya - Saṅkalpa and prātikulyavarj
 115 to 126 
 
 ## CHAPTER XII. The Performance of Prapatti with its angas
-The nature of the angi (prapatti); the manner of performing bharanyāsa ; Īśvara the principal beneficiary, the true meaning of Alavandar's ślokas (52 and 53) in connection with bharanyasa; the presence of the idea of bharasamarpanam in Duaya ; prapatti a momentary act; a brief statement of the nature of bharasamarpanam; Nadathur Ammal's summary of the meaning of prapatti; prapatti with its angas to be performed only once. 127 to 136 
+The nature of the angi (prapatti); the manner of performing bharanyāsa ; Īśvara the principal beneficiary, the true meaning of Aḷavandār's ślokas (52 and 53) in connection with bharanyasa; the presence of the idea of bharasamarpanam in Duaya ; prapatti a momentary act; a brief statement of the nature of bharasamarpanam; Nadathur Ammal's summary of the meaning of prapatti; prapatti with its angas to be performed only once. 127 to 136 
 
 XLIV Pages. 
 
 ## CHAPTER XIII. The man who has done what ought to be done
-The prapanna as one who has done what he onght to do and has won his goal; illustration from Sri Rāmapuja's Saranăgatigadya ; the marks of the men wbo has done what be ougbt to do. 
+The prapanna as one who has done what he onght to do and has won his goal; illustration from Sri Rāmanuja's Saranăgatigadya ; the marks of the men wbo has done what be ougbt to do. 
 
 136 to 140 
 
@@ -179,7 +179,7 @@ struction of the words and sentences.
 
 Purport of the three mantras and their relation to one another; the primary importance of Tirumantra ; it may be uttered by all with suitable modifications; meaning of pranava and its potency; meaning of a, of u end of min pranava; meaning of namas or namo in Tirumantra ; the three meanings of namas; sthma, sükṣma and para ; 
 
-xLviii Pages. the word Narayana in Tirumantra ; its meaning when split in two ways; the meaning of Nara and the meaning of ayana ; the purport of the fourth or dative case; the attri butes of Isward and qualities of the Jiva indicated therein; the ten ways of construing Tirumantra; the gist of the meanings of the Vyāpaka-mantras; the potency of Ash lākṣara, 
+xLviii Pages. the word Narāyaṇa in Tirumantra ; its meaning when split in two ways; the meaning of Nara and the meaning of ayana ; the purport of the fourth or dative case; the attri butes of Isward and qualities of the Jiva indicated therein; the ten ways of construing Tirumantra; the gist of the meanings of the Vyāpaka-mantras; the potency of Ash lākṣara, 
 
 345 to 419 
 
@@ -191,7 +191,7 @@ Why is the mantra called Dvara? Saraṇāgatigadya a commentary on the Duaya; de
 
 ## CHAPTER XXIX. The Charamaśloka : 
 
-Introduction to charama-śloka ; meaning of sarva. dharmān; meaning of partityajya; refutation of the view that the giving up of rites or dharmas is enjoined and of the view that what is enjoined is the giving up of the notion that they are upāyas; the obligatoriness of the performance of the rites of varna and asrama'; how ākinchanya and Nairapekṣya are to be understood in the charamaśloka; summary of the meanings of parityajya considered; the meaning of mūm and of ekam; tbe refutation of the view that prapatti is no upāya ; mām includes Laksbmi, the attribute; the meaning of saranam; the meaning of vraja; the proper interpretation of Alavandar's silokas in this connec tion; the meaning of aham and of tva; the meaning of sarvapāpebhyo and of mokṣayishyāmi; the manner of libe. ration from all sins; the meaning of mūs'uchah; the reasons for giving up grief or despair; the purport of charamaśloka. 
+Introduction to charama-śloka ; meaning of sarva. dharmān; meaning of partityajya; refutation of the view that the giving up of rites or dharmas is enjoined and of the view that what is enjoined is the giving up of the notion that they are upāyas; the obligatoriness of the performance of the rites of varna and asrama'; how ākinchanya and Nairapekṣya are to be understood in the charamaśloka; summary of the meanings of parityajya considered; the meaning of mūm and of ekam; tbe refutation of the view that prapatti is no upāya ; mām includes Laksbmi, the attribute; the meaning of saranam; the meaning of vraja; the proper interpretation of Aḷavandār's silokas in this connec tion; the meaning of aham and of tva; the meaning of sarvapāpebhyo and of mokṣayishyāmi; the manner of libe. ration from all sins; the meaning of mūs'uchah; the reasons for giving up grief or despair; the purport of charamaśloka. 
 
 465 to 565 
 

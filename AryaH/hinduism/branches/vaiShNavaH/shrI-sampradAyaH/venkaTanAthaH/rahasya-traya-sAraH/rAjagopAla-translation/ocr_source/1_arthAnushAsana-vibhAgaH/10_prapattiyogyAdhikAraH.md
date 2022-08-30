@@ -7,7 +7,7 @@ title = "१० प्रपत्तियोग्याधिकारः"
 
 SANSKRIT SLOKA: 
 
-Fitness (for Bhakti or Prapatti) consists in a combination of desire (for the fruits of a course of action and of ability which is threefold. This fitness of man is differentiated as consisting in conditions prescribed for the yoga of eight angas or auxiliaries (bhakti yoga) and for the yoga of six angas or auxiliaries (pra. patti). That Bhagavan is the refuge or Saviour of all has been declared in the sruti and confirmed in the smritis In adopting this righteous path viz., prapatti, there is competence for all as in the matter of speaking the truth and such other injunctions as are ordained in the Vedas (for all men , without any difference of caste or ūsrama). 
+Fitness (for Bhakti or Prapatti) consists in a combination of desire (for the fruits of a course of action and of ability which is threefold. This fitness of man is differentiated as consisting in conditions prescribed for the yoga of eight angas or auxiliaries (bhakti yoga) and for the yoga of six angas or auxiliaries (pra. patti). That Bhagavan is the refuge or Saviour of all has been declared in the sruti and confirmed in the Smr̥tis In adopting this righteous path viz., prapatti, there is competence for all as in the matter of speaking the truth and such other injunctions as are ordained in the Vedas (for all men , without any difference of caste or ūsrama). 
 
 (Those who are not of the three higher castes are probibited from the performance of certain rites and duties ordained in the srutis, but this probibition does not apply to such injunctions 88 "speak the truth ", and " look upon your mother as divine" eto. which are also ordained in the Vedas. So also prapatti, though prescribed in the Vedas, is open to all castes ). 
 
@@ -23,7 +23,7 @@ the attribute of desiring the end on the part of the person who adopts an upāya
 
 If, without an eager and impatient desire for immediate miokṣa, & person who wants euch things as the continuance of the body (or the continuance of the worship of archūvatūru) adopts prapatti for the sake of mokṣa, his mukti will be delayed in proportion to these other interests, 
 
-1. Mahabharata: Santiparva: 350-36 
+1. Mahābhārata: Santiparva: 350-36 
 
 10 
 
@@ -35,9 +35,9 @@ FITNESS FOR PRAPATTI
 
 THE PRAMANAS IN SUPPORT : The nature of the specific competency for prapatti is evident from the following authoritative passages and from spiritual tradi tion : "Having been abandoned by his own father (Indra), the gods and the great sages, be, (i.e.) Kakasura, wandered about the three worlds and finally took refuge under Rāma alone", "I am the abode of all trapegressions; I have no means or upāya to save myself and I have pothing else to attain besides Thee"; "I seek" the refuge of Thy feet, O Saranya (Saviour): I have po other upāya and nothing else to attain than I'bee": "\*Finding that there is no npüya for leaping over samsara even in all the endless future, etc." : "I'who am aware that there is no upāya for me in all the thousands of crores of kalpas other than performing prapatti at Tby two lotus-like feet", and, “I who have no other refuge and no other saviour etc." 
 
-PRAPATTI IS OPEN TO ALL: If such qualifications exist, prapatti is certainly open to all as an upāya, since there are no restrictions to it such 88 caste. 2. Mahabharata: Udyoga Parva: 30-29 6. Sriranga Gadyam 3. Rāmayana: Sundarakanda: 38-33 7. Vaikunta Gadyam 4. Ahirbudhnya Samhita: 37-30 
+PRAPATTI IS OPEN TO ALL: If such qualifications exist, prapatti is certainly open to all as an upāya, since there are no restrictions to it such 88 caste. 2. Mahābhārata: Udyoga Parva: 30-29 6. Sriranga Gadyam 3. Rāmayana: Sundarakanda: 38-33 7. Vaikuṇṭha Gadyam 4. Ahirbudhnya Samhita: 37-30 
 
-8. Tiruvoymozhi: 6-10-10 5. Alavandar: Stotram: 22 
+8. Tiruvoymozhi: 6-10-10 5. Aḷavandār: Stotram: 22 
 
 114 TAMIL VERSB: 
 

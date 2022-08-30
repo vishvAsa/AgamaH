@@ -112,7 +112,7 @@ In the same way, some generous benefactors who are introduced to the Jīva   by 
 
 [^f36]: Mantrarajapadastotram
 
-[^f37]: Alavandar: Stotram
+[^f37]: Aḷavandār: Stotram
 
 All these things that should be known to every mumukṣu are found concisely stated in ‘the three mysteries or secrets' (mantras) which are, as it were, the quintessence of all passages treating of the Jīva   and Iśvara and which contain the best part of all the main doctrines.
 

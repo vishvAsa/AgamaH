@@ -31,7 +31,7 @@ EN
 
 . 
 
-jiva acts against the spirit of the sõstras, Īśvara, who is the Ruler and the Dispenser of punishment, enjoys only the delight or delectation of lila and thus attains atisaya glory. It has been said: " Bhagavan, 'who has all beings as His body, rejoices when a jiva does what is good and does not rejoice when the action is evil." When a man acts in accordance with the stāstras, he gives thereby delight to the Lord and thus does not let his generosity and other qualities run to waste, but promotes the glory of the Lord so that He extols binn as in the words :-"All those are", indeed, generous". In the same way as the muktas (released souls) and the nityas (the sūris ) promote the glory of the Lord by direct percep tion of the Lord's will and by acting in such a way as to give Him bhoga or enjoyment, the prapanias, too, can give rise to a special kind of bhoga or enjoyment to the Lord and thus promote His glory as stated in the following śloka:-"When shall I\*always be Thy servant, look upon Thee as my Master and in this way give Thee delight?". The prapanna learns the Lord's will from the sāstras (though not directly ) and renders service to the Lord. 
+jiva acts against the spirit of the śāstras, Īśvara, who is the Ruler and the Dispenser of punishment, enjoys only the delight or delectation of lila and thus attains atisaya glory. It has been said: " Bhagavan, 'who has all beings as His body, rejoices when a jiva does what is good and does not rejoice when the action is evil." When a man acts in accordance with the stāstras, he gives thereby delight to the Lord and thus does not let his generosity and other qualities run to waste, but promotes the glory of the Lord so that He extols binn as in the words :-"All those are", indeed, generous". In the same way as the muktas (released souls) and the nityas (the sūris ) promote the glory of the Lord by direct percep tion of the Lord's will and by acting in such a way as to give Him bhoga or enjoyment, the prapanias, too, can give rise to a special kind of bhoga or enjoyment to the Lord and thus promote His glory as stated in the following śloka:-"When shall I\*always be Thy servant, look upon Thee as my Master and in this way give Thee delight?". The prapanna learns the Lord's will from the sāstras (though not directly ) and renders service to the Lord. 
 
 THE LORD IS PLEASED AT THE SERVICE RENDERED 
 
@@ -39,21 +39,21 @@ TO HIS DEVOTEES :
 
 When a man gives rise to Īśvara's lila rasa by actions opposed to the sāstras, it will end in his ruin. If, in the state of bondage, he acts according to the Lord's will as revealed in the sāstras and, in the state of mokṣa, by direct peroeption of the Lord's will, he will not only promote the Lord's lilū rasa and bhoga but incidentally attain his own desired objects. When the Jiva acts on any occasion consciously, since his desired fruit, incidental though it be, has to come from the will of the lord, the latter has to be ascertained from the s'astras which disclose that the service rendered to His devotees is most delightful to him. 
 
-3. Alavandar Stotram : 46 
+3. Aḷavandār Stotram : 46 
 
-1. Mahabharata: Santiparva: 199-25 2. Bhagavad Gita: 7-18162 The following authoritative texts may be studied in this connection: "Of all forms of homage, the homage paid to Viṣṇu is the best, but superior even to this, is the excellent homage or adoration offered to Viṣṇu's devotees", "I have great affection to those who are devoted to my devotees. Therefore should one render devout service to them." "Devotion to me is of eight forms: (1) love to my devotees without any thought of their faults; (2) rejoicing at the adoration offered to nie by another; (3) delight in listening to stories concerning me; (4) a change in the voice, in the eyes and in the body, while listening to such stories; (5) trying to offer adoration to me; (6) freedom from hypocrisy in one's relations with me; (7) meditation of me at all times; (8) and not considering me as one from whom worldly benefits can be bad - if bhakti (which is of these eight forms) is found in a mleccha, he should be respected as the best of Brahmins endowed with jnana and bhakti; he is a real sannyāsi, he is a wiso man and he may be taught (the scriptures) and from him one may learn the truth. He is fit to be adored even like myself.", "They are 'my bhaktas or dovotees who do not show devotion to any other deity, who love those that are devoted to me and that have SODE ht me as their upāya", "I offer adoration also to those who offer adoration to that yajna varāha, who is of boundless splen. dour", "By \*see king the protection of those who seek the Lord as their refuge and by rendering service to him who is devoted to the devotee, that is in turn) devoted to the devotee of the Lord - by doing so, men are released from all their sins." 
+1. Mahābhārata: Santiparva: 199-25 2. Bhagavad Gita: 7-18162 The following authoritative texts may be studied in this connection: "Of all forms of homage, the homage paid to Viṣṇu is the best, but superior even to this, is the excellent homage or adoration offered to Viṣṇu's devotees", "I have great affection to those who are devoted to my devotees. Therefore should one render devout service to them." "Devotion to me is of eight forms: (1) love to my devotees without any thought of their faults; (2) rejoicing at the adoration offered to nie by another; (3) delight in listening to stories concerning me; (4) a change in the voice, in the eyes and in the body, while listening to such stories; (5) trying to offer adoration to me; (6) freedom from hypocrisy in one's relations with me; (7) meditation of me at all times; (8) and not considering me as one from whom worldly benefits can be bad - if bhakti (which is of these eight forms) is found in a mleccha, he should be respected as the best of Brahmins endowed with jnana and bhakti; he is a real sannyāsi, he is a wiso man and he may be taught (the scriptures) and from him one may learn the truth. He is fit to be adored even like myself.", "They are 'my bhaktas or dovotees who do not show devotion to any other deity, who love those that are devoted to me and that have SODE ht me as their upāya", "I offer adoration also to those who offer adoration to that yajna varāha, who is of boundless splen. dour", "By \*see king the protection of those who seek the Lord as their refuge and by rendering service to him who is devoted to the devotee, that is in turn) devoted to the devotee of the Lord - by doing so, men are released from all their sins." 
 
 When we study these passages, (it beomes clear) that, of all forms of service which a s'esha of the Lord may reader, that rendered to the Bhagavatas is the most important and is the most pleasing to the Lord, in the same way as the fondling of the prince is most pleasing to the king. 
 
 4. Padmottaram: 29-81 
 
-5. Mahabharata: Aswamedika 
+5. Mahābhārata: Aswamedika 
 
 Parva: 116-23 
 
-6. Garuḍa purana: 219-6-9 7. Mahabharata: Aswamedhika 
+6. Garuḍa purāṇa: 219-6-9 7. Mahābhārata: Aswamedhika 
 
-parva : 104-91 8. Garuḍa puranam : 
+parva : 104-91 8. Garuḍa purāṇam : 
 
 SERVICE TO BHAGAVATAS 
 
@@ -67,9 +67,9 @@ In addition to its causing plassure to the s'eshi, the relationship of the jiva 
 
 SANSKRIT SLOKA: 
 
-To the Supreme Being who is always with Lakṣmī and who looks upon His devotees as His very self, the attribute of being & seshī may be both by being a seski along with Lakṣmī and by being a seshi mediately through the devotees". (That is, those who look upon themselves as s'eshas to His devotees sro, mediately through these devotees, s'eshas to the Lord Himself). A king who is independent and who takes & pleasure in acting as he pleases places the ornaments and garlands worn by himself round the necks of his servants and of his elephants and horses. (Tiruppapalvar says):-- "The Lord who "is spotless and who has mnade ine the servant of His servants". (So does Narada say): "I, Narada, have come here with an eager longing to see you. To men like me, O Brahmin, those who are bkaktas of the Lord are masters" and again (Tirumangai Alvar says ); - "I will not 18 9. Mahabharata: Santi parva 
+To the Supreme Being who is always with Lakṣmī and who looks upon His devotees as His very self, the attribute of being & seshī may be both by being a seski along with Lakṣmī and by being a seshi mediately through the devotees". (That is, those who look upon themselves as s'eshas to His devotees sro, mediately through these devotees, s'eshas to the Lord Himself). A king who is independent and who takes & pleasure in acting as he pleases places the ornaments and garlands worn by himself round the necks of his servants and of his elephants and horses. (Tiruppapalvar says):-- "The Lord who "is spotless and who has mnade ine the servant of His servants". (So does Narada say): "I, Narada, have come here with an eager longing to see you. To men like me, O Brahmin, those who are bkaktas of the Lord are masters" and again (Tirumangai Alvar says ); - "I will not 18 9. Mahābhārata: Santi parva 
 
-11. Amlanadipiran: 1 Dakṣa Smriti: 
+11. Amlanadipiran: 1 Dakṣa Smr̥ti: 
 
 12. Padmotharam: 81 - 52 10. Bhagavad Gita: 7-18 
 
@@ -107,7 +107,7 @@ If so, it may be asked, "If both are Bhagavatas, would it not be inconsistent th
 
 17. Poushkara Samhita : 
 
-18. Vaikunta gadya : 77 
+18. Vaikuṇṭha gadya : 77 
 
 166 CHAPTER 
 

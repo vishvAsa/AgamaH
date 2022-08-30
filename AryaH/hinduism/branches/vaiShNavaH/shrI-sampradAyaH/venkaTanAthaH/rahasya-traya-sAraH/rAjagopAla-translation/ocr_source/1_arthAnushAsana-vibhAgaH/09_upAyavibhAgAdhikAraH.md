@@ -11,7 +11,7 @@ ATTAINING (MUKTI).
 
 SANSKRIT SLOKA. 
 
-Bhagavan is declared in the Upanishads to be Himself the weans (upāya) of attaining Him. The ways of bhakti and prapatti are indicated for winning His grace. The adoption of these \*ways is the result of the great ripening of meritorious deeds (done in the past ) and, even for this, Bhagavan, who has the ability to create everything, is Himself the cause. 
+Bhagavan is declared in the Upaniṣads to be Himself the weans (upāya) of attaining Him. The ways of bhakti and prapatti are indicated for winning His grace. The adoption of these \*ways is the result of the great ripening of meritorious deeds (done in the past ) and, even for this, Bhagavan, who has the ability to create everything, is Himself the cause. 
 
 NOTE:-\*These ways: The commentary Saraswadini says that the Sans krit word Gati does not mean here ways or upāyas but forms of knowledge. 
 
@@ -75,9 +75,9 @@ bhakti-yoga. They produce confidence in the attainment of mukti (by verifying wh
 
 Bhakti yoga which has thus been prescribed as the means of obtaining mokṣa has been called parabhakti. Love of the Lord which results from intimacy with sāttvikas (and the scriptures ) and which produces parabhakti is also called bhakti, because it generates an eager desire to know Īśvara with perfect clearness. It has been said: "Owing to smy devotion to the Lord and to my gurus, I have attained spiritual purity and come to know Janardana with the help of the süstras." (So parabhakti is born successively of a knowledge of the truth obtained from the sāstras which leads to karma yoga and the like). It (parabhakti) pro duces in its turn an eager desire and determination to see the Lord and makes the man cry out as follows- "O Lord, 'who art the abode of attributes like jnāna, be pleased to show Thy whole self 1" “Vouchsafe Thy grace so that I may see Thee": "May I see Thee some day!" By this keen desire alone, be wins the grace of Bhagavan who rewards him with a perfect visual perception 
 
-2. Mahabharata: Santi parva: 350 
+2. Mahābhārata: Santi parva: 350 
 
-(33 - 35 ) 3. Mahabharata: Udyogaparva: (8-5 
+(33 - 35 ) 3. Mahābhārata: Udyogaparva: (8-5 
 
 4. Bhagavad Gita: 11-4 5. Tiruvoymozhi: fm 1-1 6. Tiruvoymozhi: 694 
 
@@ -103,7 +103,7 @@ BHAKTI IS DIFFERENT FROM PRAPATTI:
 
 That the two are different from each other is evident from the adhikaraṇa or section. "The Brahma Vidyas are different as their \*names and the like are different ". Brahma sūtras (III-3.56). That there is option to choose any of them) is also evident from the section : " There is option (to adopt any of then ) because the result or (final) fruit is the same". Brahnia sītras (III - 3. 57). 
 
-It may be seen that, as in upāsanās there are differences in mantras and the like (angas), there are, in Nyasa Vidya also, differences stated in the different branches of the vedas (Stīkhas) and in the different samhitas of the agamas. Just as obeisance (namaskāra) is divided into three forms, verbal, mental and bodily, so prapatti, too, is said to be of different kinds owing to the excess of one or other of these differences. It has been stated by some that, just as obeisance becomes complete when all the three, verbal, mental and bodily are combined, prapatti, too, becomes complete when verbal and bodily actions are combined with mental states or jnana. This statement of theirs should be understood as meaning that mental prapatti is full and complete and that verbal and bodily activities are, as it were, the overflow of the mental prapatti (jnāna). (It should not be taken to mean that prapatti is incomplete when verbal and bodily actions are absent). We have already stated that all these are productive of the desired result or fruit in accordance with the competency of those who adopt them, 
+It may be seen that, as in upāsanās there are differences in mantras and the like (angas), there are, in Nyāsa Vidya also, differences stated in the different branches of the vedas (Stīkhas) and in the different samhitas of the agamas. Just as obeisance (namaskāra) is divided into three forms, verbal, mental and bodily, so prapatti, too, is said to be of different kinds owing to the excess of one or other of these differences. It has been stated by some that, just as obeisance becomes complete when all the three, verbal, mental and bodily are combined, prapatti, too, becomes complete when verbal and bodily actions are combined with mental states or jnana. This statement of theirs should be understood as meaning that mental prapatti is full and complete and that verbal and bodily activities are, as it were, the overflow of the mental prapatti (jnāna). (It should not be taken to mean that prapatti is incomplete when verbal and bodily actions are absent). We have already stated that all these are productive of the desired result or fruit in accordance with the competency of those who adopt them, 
 
 NOTE:--- \* Commentators of Brahma sutras like Sudarsana Bhatta point out that this difference in names applies specially to nyasa, since it is a different word from 'contemplate', \*meditate', and 'adore' which are used in connec. tion with the other vidyas and which mean thc samo thing, whereas nyasa has a different meaning (altogether). 
 
