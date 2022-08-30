@@ -23,8 +23,7 @@ SANSKRIT _ŚLOKA_:
 
 श्रुति–पथ–विपरीतं क्ष्वेळ–कल्पं, श्रुतौ च  
 प्रकृति–पुरुष–भोग–प्रापकांशो न पथ्यः ।  
-तदिह विबुधगुप्तं मृत्युभीता विचिन्व-
-
+तदिह विबुधगुप्तं मृत्युभीता विचिन्व-  
 न्त्युपनिषदमृताब्धेरुत्तमं सारमार्याः ॥
 
 What is opposed to the way of the Vedas is like poison; even in the Srutīs or Vedas, those parts which treat of the means of attaining the enjoyment of material goods (_Prakṛti_ bhoga) and of the enjoyment of one's own atma or self (purusha-bhoga) or (Kaivalya) are not salutary. Therefore the wise who are afraid of the cycle of births and deaths ( _samsāra_) seek the best essence extracted out of the ocean of nectar called the Upaniṣads which has been guarded with great care by sages (i.e.) previous _ācārya_s for our benefit

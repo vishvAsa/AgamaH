@@ -116,8 +116,7 @@ SANSKRIT _ŚLOKA_:
 
 अविश्रान्तश्रद्धाशतकलहकल्लोलकलुषा  
 ममाविर्भूयासुर्मनसि मुनिसिद्धादिसुलभाः ।  
-मधुक्षीर न्याय स्वगुणविभवासञ्जनकन-
-
+मधुक्षीर न्याय स्वगुणविभवासञ्जनकन-  
 न्महानन्दब्रह्मानुभवपरीवाहा बहुविधाः ॥ ४९ ॥
 
 May varied forms of service which are the overflow of the blissful enjoyment of _Brahma_ arising from the greatness of His qualities and glorious possessions which are blended together like honey and milk - may these forms of service in which there is a conflict of hundreds of unwearied desires (to render service ) and which are easy of attainment for such as seers and sūris - may these manifest themselves in my mind!

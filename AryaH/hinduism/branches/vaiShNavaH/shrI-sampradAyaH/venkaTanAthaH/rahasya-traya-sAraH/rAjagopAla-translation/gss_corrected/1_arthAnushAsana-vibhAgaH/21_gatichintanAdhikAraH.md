@@ -15,8 +15,7 @@ SANSKRIT _ŚLOKA_:
 
 ज्वलनदिवसज्योत्स्नापक्षोत्नरायणवत्सरान्  
 पवनतपनप्रालेयांशून् क्रमादचिरद्युतिम् ।  
-जलधरपतिं देवाधीशं प्रजापतिमागत-
-
+जलधरपतिं देवाधीशं प्रजापतिमागत-  
 स्तरति विरजां दूरे वाचस्ततः परमद्भुतम् ॥ ४६ ॥
 
 Fire (archis), day.time, the bright half of the month sukla paksha), Uttarāyaṇa and the year, thence Vayu, Surya, Chandra and then Lightning, Varuna, Indra, Prajāpati or _Brahma_ -- having traversed this path in the order given above, the self crosses the river Viraja; then follows the wonder that defies (all description in words.)

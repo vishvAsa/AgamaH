@@ -9,8 +9,7 @@ title = "२७ मूलमन्त्राधिकारः"
 
 SANSKRIT _ŚLOKA_:
 
-तारं पूर्वं तदनु हृदयं तच्च नारायणाये-
-
+तारं पूर्वं तदनु हृदयं तच्च नारायणाये-  
 त्याम्नायोक्तं पदमवयतां सार्धमाचार्यदत्तम् ।  
 अङ्गीकुर्वन्नलसमनसामात्मरक्षाभरन्नः  
 क्षिप्रं देवः क्षिपतु निखिलान् किङ्करैश्वर्यविघ्नान् ॥ ५९ ॥
@@ -675,8 +674,7 @@ SANSKRIT _ŚLOKA_ :
 इत्थं सङ्घटितः पदैस्त्रिभिरसावेकद्विपञ्चाक्षरै
 
 -रर्थैस्तत्त्वहितप्रयोजनमयैरध्यात्मसारैस्त्रिभिः ।  
-आद्यस्त्र्यक्षरवेदसूतिरजहत्स्थूलादिवृत्तित्रय-
-
+आद्यस्त्र्यक्षरवेदसूतिरजहत्स्थूलादिवृत्तित्रय-  
 स्त्रैगुण्यप्रशमं प्रयच्छति सतां त्रय्यन्तसारो मनुः ॥ ६३ ॥
 
 This _mantra_ which is thus constituted of three words that are composed, respectively, of one, two and five letters and which treats of the three things to be known, namely, _tattva_ (the truth), _hita_ (the _upāya_) and _puruṣārtha_ (the end to be attained) that are of the very essence of Vedanta-this _mantra_ which is the foremost of all _mantra_s, which has the _praṇava_ of three letters which is the

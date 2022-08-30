@@ -16,8 +16,7 @@ THE _UPĀYA_ THAT HAS TO BE ADOPTED.page319
 
 SANSKRIT _ŚLOKA_:
 
-यथाधिकरणं प्रभुर्यजनदानहोमार्चना-
-
+यथाधिकरणं प्रभुर्यजनदानहोमार्चना-  
 भरन्यसनभावनाप्रभृतिभिस्समाराधितः ।  
 फलं दिशति देहिनामिति हि संप्रदायस्थितिः  
 श्रुतिस्मृतिगुरूक्तिभिर्नयवतीभिराभाति नः ॥ ५३ ॥
@@ -264,8 +263,7 @@ SANSKRIT _ŚLOKA_:
 
 तत्तद्धैतुकहेतुके कृतधियस्तर्केन्द्रजालक्रमे  
 बिभ्राणाः कथकप्रधानगणने निष्ठां कनिष्ठाश्रयाम् ।  
-अध्यात्मश्रुतिसंप्रदायकतकैरद्धा विशुद्धाशया-
-
+अध्यात्मश्रुतिसंप्रदायकतकैरद्धा विशुद्धाशया-  
 स्सिद्धोपायवशीक्रियामिति हि नस्साद्ध्यां समध्यापयन् ॥ ५४ ॥
 
 Those (great men) who were well-versed in the dialectical methods of rationalists which resemble the art of conjuring, who stand first like the little finger while counting men renowned in argument and whose thoughts have been rendered clear by the soap-nut of the Upaniṣads and the tradition that has followed therefrom-- (those great men) have taught us, in the manner described in this chapter, that _Sādhyopāya_ (_bhakti_ and _prapatti_) are the means of securing the favour of _Siddhopāya_ (namely

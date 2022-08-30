@@ -13,8 +13,7 @@ SANSKRIT _ŚLOKA_:
 
 मुकुन्दे निक्षिप्य स्वभरमनघो मुक्तवदसौ  
 स्वतन्त्राज्ञासिद्धां स्वयमविदितस्वामिहृदयः ।  
-परित्यागे सद्यस्स्वपरविविधानर्थजनना-
-
+परित्यागे सद्यस्स्वपरविविधानर्थजनना-  
 दलङ्घ्यामामोक्षादनुसरति शास्त्रीयसरणिम् ॥ ३८ ॥
 
 Having laid, on Mukunda, the responsibility for his protection and become free from sin like those released from _samsāra_, the _prapanna_ walks along the path laid down in the _śāstra_s until his release from bondage, since (unlike the _mukta_) he cannot read the mind of the lord directly and since the path has been ordained for us by the command of the Omnipotent Lord and since, by straying from that path, he will immediately bring, on himself and on others, ills of various kinds.

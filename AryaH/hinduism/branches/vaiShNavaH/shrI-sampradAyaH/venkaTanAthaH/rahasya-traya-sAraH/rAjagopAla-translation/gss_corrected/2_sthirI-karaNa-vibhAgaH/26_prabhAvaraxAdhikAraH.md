@@ -118,8 +118,7 @@ SANSKRIT _ŚLOKA_.
 
 रागद्वेषमदादिकैरिह महारक्षोभिरक्षोभिते  
 नित्ये रक्षितरि स्थिते निजभरन्यासाभिधानं तपः ।  
-यत्कक्षीकृतमत्यशेत विविधान् धर्मानधर्मद्रुह-
-
+यत्कक्षीकृतमत्यशेत विविधान् धर्मानधर्मद्रुह-  
 स्तद्भूमार्णवलेशवर्णनमपि प्राचां न वाचां पदम् ॥ ५८ ॥
 
 When the eternal Saviour, who cannot, in the least, be affected by such great demons as desire, hatred, pride and the like is present (to save us), that tapas or _upāya_ called the surrender of the responsibility of our protection (_bharanyāsa_), which is accepted as transcending all other _dharma_s (_upāya_s) in putting down all a_dharma_s -- that tapas is so great that the description of even a fragment of the ocean of its potency is beyond the range of even the ancient Vedas.

@@ -110,11 +110,9 @@ The Lord gave us our existence and is our support (dhāraka) as well; He is also
 
 SANSKRIT _ŚLOKA_:
 
-यद्येतं यतिसार्वभौमकथितं विद्यादविद्यातमः-
-
+यद्येतं यतिसार्वभौमकथितं विद्यादविद्यातमः-  
 प्रत्यूषं प्रतितन्त्रमन्तिमयुगे कश्चिद्विपश्चित्तमः ।  
-तत्रैकत्र झटित्युपैति विलयं तत्तन्मतस्थापना-
-
+तत्रैकत्र झटित्युपैति विलयं तत्तन्मतस्थापना-  
 हेवाक-प्रथमान-हैतुक-कथा-कल्लोल-कोलाहलः ॥ ११ ॥
 
 If, in the Kali yuga, there is any one supremely wise who can understand this unique and distinctive doctrine of the relationship between _Iśvara_ and the world being that between the soul and the body, which was taught by that sovereign sannyāsin (Śrī _Rāmānuja_) and which is like the dawn that dispels the darkness of ignorance , then in that place where he is, the tumultuous waves of logical disputation arising from the eagerness to establish the truths of other systems will subside at once.
