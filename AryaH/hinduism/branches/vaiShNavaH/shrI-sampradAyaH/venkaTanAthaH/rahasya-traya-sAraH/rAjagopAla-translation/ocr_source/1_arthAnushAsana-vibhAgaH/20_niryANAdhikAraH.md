@@ -129,7 +129,7 @@ THE PATH OF THE JOURNEY AFTER DEPARTURE:
 
 The Lord sees to it that the self of the prapanna does not go out through any of these rādīs which lead those that are thieves of themselves, (i. e.) who do not realise that they belong to the lord) to svarga and naraka (hell) and are therefore like the routes along which thieves take their victims. He makes the prapanna's self enter the Brahma Nīdi, which is beyond the hundredth among those nādīs that go upwards and which leads to the shining path called archiradi, and helps it to start with the support of the rays of the sun. 
 
-When Kooratbalvan (Sri Vatsapkamisra) wes in his last momente, bis tongue was parched with the fatigue (of the moment) and (unable to speak or atter any words) he caught 19. Yagnyavalkya Smr̥ti: 4-166-169 
+When Kooratbalvan (Sri Vatsapkamiśra) wes in his last momente, bis tongue was parched with the fatigue (of the moment) and (unable to speak or atter any words) he caught 19. Yagnyavalkya Smr̥ti: 4-166-169 
 
 204 CHAPTER 
 
