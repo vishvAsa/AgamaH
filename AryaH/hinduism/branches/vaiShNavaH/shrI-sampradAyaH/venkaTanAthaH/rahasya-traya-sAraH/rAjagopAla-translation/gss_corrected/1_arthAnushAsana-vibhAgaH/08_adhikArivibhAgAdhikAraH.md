@@ -34,8 +34,7 @@ SANSKRIT _ŚLOKA_:
 
 Even though the desire for _mokṣa_  is the same, a distinction arises among those who practise the vidyās or forms of meditation prescribed in the śrutis, as a result of their respective qualifications[^42] or competence in regard to such vidyās as Madhuvidyā, Sad_vidyā_ and so on. In the same way, a distinction arises between the adoption of _prapatti_ and other vidyās (which are of the nature of _bhakti_ or devout meditation), as a result of an unseen power or destiny depending on past _karma_ which brooks no questioning.
 
-[^42]:
-Some aspirants for _mokṣa_  are qualified for madhu _vidyā_ and others for sad_vidyā_ as a result of their respective competence or special forms of aspiration. So also some are qualified for _prapatti_, while others are for _bhakti_.
+[^42]: Some aspirants for _mokṣa_  are qualified for madhu _vidyā_ and others for sad_vidyā_ as a result of their respective competence or special forms of aspiration. So also some are qualified for _prapatti_, while others are for _bhakti_.
 
 
 
@@ -48,8 +47,7 @@ TWO KINDS OF ADHIKARĪS:
 
 Among those who thus resort to the practice of the _dharma_s of renunciation as a means for the attainment of the supreme goal of life (namely _mokṣa_ ), there are two classes of qualified persons : those who adopt _prapatti_ as the sole and direct means and those to whom _prapatti_ is auxiliary to the chief means, viz., _bhakti_. Both these are prapannas, one adopting _prapatti_ as an independent means and the other adopting it as _aṅga_ to _bhakti_. Both of them are also called bhaktas, because _bhakti_ is the phala[^43] or fruit for one and sādhana or means for the other,
 
-[^43]:
-phala _bhakti_ means _bhakti_ which arises as the fruit of _prapatti_, whereas sadhana _bhakti_ is _bhakti_ which leads to _mokṣa_ .
+[^43]: phala _bhakti_ means _bhakti_ which arises as the fruit of _prapatti_, whereas sadhana _bhakti_ is _bhakti_ which leads to _mokṣa_ .
 
 
 
@@ -80,8 +78,7 @@ Of the two, the one who depends solely on the _ācārya_  is included in the _ā
 
 Mudali Andan said: "When a lion leaps from one hill to another, the little creatures (like bugs and lice) on his body are also taken over from that hill to the other. So also when the author of Śrī Bhāṣya performed _prapatti_ (the surrender of his responsibility or bhara), we "too have been saved (by that act)[^44] owing to our intimate connection with him." We, too, have expressed this idea in _Nyāsa_ Tilaka as follows:- " The blind man walks on being led by one who is not blind; the lame man is taken (across the stream) by the boatman, being placed within the boat; the children of the king's servants enjoy the pleasures (of the palace), although they do not know the king. So also my _ācārya_ , who is compassionate, is capable of making me attain Thee, O Lord of _Śrī_r_aṅga_m". It comes to this that the Lord of all will not be gracious enough to grant us the supreme goal of existence, unless _prapatti_ is performed in some manner or other and by some one or other.
 
-[^44]:
-This is interpreted in two different ways by the southern school of Viśiṣṭādvaitins and the northern school. The former hold that since Śrī _Rāmānuja_ has already performed _prapatti_, even his followers of a later day who acknowledge him as their _ācārya_  will benefit by it and they need not perform _prapatti_; the latter hold, on the other hand, that only those who were his śiṣyas then would benefit by it
+[^44]: This is interpreted in two different ways by the southern school of Viśiṣṭādvaitins and the northern school. The former hold that since Śrī _Rāmānuja_ has already performed _prapatti_, even his followers of a later day who acknowledge him as their _ācārya_  will benefit by it and they need not perform _prapatti_; the latter hold, on the other hand, that only those who were his śiṣyas then would benefit by it
 
 
 
@@ -104,8 +101,7 @@ of this body so that he may enjoy such things as the rendering of service with t
 
 Since the Supreme Ruler is the giver of all things, and since _prapatti_ at His feet is capable of yielding all kinds of fruit, it becomes the means of securing whatever fruit is desired respectively by these two (_bhakta_ and _prapanna_ [^45] ). The _Śāstra_s say, "Ask any boon that you want, when I am in the range of one's vision, all (good) things will follow." "O Thou that hast created all the worlds! Is there anything that is difficult to obtain, when Thou art pleased ? "   " When He is graciously disposed, is there anything here that cannot be obtained ? "   " What is there in this world or in the world above, O Dalbhya, that cannot be accomplished by those men whose minds are directed towards Viṣṇu  ?" "The fruit is from Him. It stands to reason ". (_Brahma_ _Sūtra_s 3 - 2 - 37). _Bhakti_ or _upāsana_ is the means of securing the four kinds of objects that may be desired in accordance with one's aim as stated in the Bhagavad Gitā (7 - 16). "Four types of men who have performed meritorious deeds worship me. He who has lost his wealth and is anxious to recover it, he who wants to have a vision of his own self (ātmā) and to enjoy it (ātmānubhava ), he who wants to acquire wealth anew, and he who is a Jnāni, who desires to be for ever with the Lord and practises _bhakti_ for attaining Him." Similarly have not the great rishis declared that _prapatti_ is also the means of attaining the four kinds of objects or aims as is stated in the _śloka_  : "Only so long as one does not perform _prapatti_ to Thee that canst destroy all sins, will there be the anxiety to recover lost wealth, only so long will there be the desire to acquire new wealth, only so long will there be the absence of the enjoyment of one's self as something different from the body; only so long will there be the sorrow of _samsāra_". From the words " that destroyest all sins” and the repetition of "only so long" repeated in every case with great consideration, it is made clear that the fruit which is desired by the man will all become his, in accordance with his desire and at the very time when he desires to have it. It is in consideration of this superior efficacy of _prapatti_ that it is stated (in Lakṣmī  Tantra 17 - 62) as follows:-" Those who practise _Jñāna_ Yoga and _Bhakti_ Yoga with a pure mind and those who perform _karma_ which would discipline the soul in renunciation are not worth even one ten-millionth part of the man who has performed _prapatti_. The difference in the kinds of service done here (in this life) by the _prapanna_ is due to the difference in the desire of the _prapanna_ and that difference in the desire is due to the difference in the meritorious deeds of the past which have begun to operate in this life (Prārabdha _karma_ ). There will be no difference at all in the bliss that will be attained after casting off the last body.
 
-[^45]:
-The sentence means that the direct' _prapanna_ gets _mokṣa_  which he desires and the _prapanna_ who performs _prapatti_ for the sake of _bhakti_ gets _bhakti_ which he desires, for _prapatti_ can secure whatever is desired.]
+[^45]: The sentence means that the direct' _prapanna_ gets _mokṣa_  which he desires and the _prapanna_ who performs _prapatti_ for the sake of _bhakti_ gets _bhakti_ which he desires, for _prapatti_ can secure whatever is desired.]
 
 
 

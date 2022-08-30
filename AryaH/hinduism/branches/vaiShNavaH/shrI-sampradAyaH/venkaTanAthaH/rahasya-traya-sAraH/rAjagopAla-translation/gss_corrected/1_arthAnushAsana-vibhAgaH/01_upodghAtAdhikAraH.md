@@ -40,8 +40,7 @@ SANSKRIT _ŚLOKA_:
 वन्दे हस्तिगिरीशस्य वीथीशोधककिङ्करान् ॥ ५ ॥[^15]
 
 
-[^15]:
-It is said by some that this _śloka_ pays homage to the author’s uncle Appullar who established the importance of _bhakti_ and _prapatti_ by refuting the arguments of opponents in his writings. There are others who hold that there is a reference to Desikar’s teacher under whom he studied _Tiruvoymozhi_ and who is known to have swept the streets clean during the procession of Sri Varadarāja at Kāncīpuram.
+[^15]: It is said by some that this _śloka_ pays homage to the author’s uncle Appullar who established the importance of _bhakti_ and _prapatti_ by refuting the arguments of opponents in his writings. There are others who hold that there is a reference to Desikar’s teacher under whom he studied _Tiruvoymozhi_ and who is known to have swept the streets clean during the procession of Sri Varadarāja at Kāncīpuram.
 
 
 
@@ -49,8 +48,7 @@ It is said by some that this _śloka_ pays homage to the author’s uncle Appull
 
 I bow to those great men who have refuted the arguments of men[^16] that chop logic and ask, “Why and wherefore ?", in connection with (the truths of) the _Śāstra_ which treats (in two parts) of _karma_ and _Brahman_. They have thereby rendered clean the highroad that leads to the Lord of Hastigiri.
 
-[^16]:
-logic choppers like Tārkikas.
+[^16]: logic choppers like Tārkikas.
 
 
 
@@ -112,8 +110,7 @@ The individual soul (_Jīvātmā_) has been declared in the different _śāstra_
 [^f33]: Viṣṇu  Purāṇa: 6-7.10
 
 
-[^17]:
-A Sutra or aphorism in Purva Mimamsa says: “ That is called a _śeṣa_ which serves the purpose of another (and that other is called a _śeṣī_ ) (e. g.) In a sacrifice, the grains of rice are _śeṣa_
+[^17]: A Sutra or aphorism in Purva Mimamsa says: “ That is called a _śeṣa_ which serves the purpose of another (and that other is called a _śeṣī_ ) (e. g.) In a sacrifice, the grains of rice are _śeṣa_
 to the sacrifice which is _śeṣī_  because they serve the purpose of the sacrifice.
 
 
@@ -177,8 +174,7 @@ TAMIL VERSE:
 
 We that deserve a place near the heart of Viṣṇu  even like the gem Kaustubha[^18] which rose from the sea along with Lakṣmī  at the time of the great churning, we that are competent to wear, on the crown of our head, the flower-like feet of God, were in peril of being swept away by the current of the stream of _karma_ which caught us up even while in our mother's womb, when, fortunately for us, certain great souls proficient in the knowledge of the five things that ought to be understood and likewise of the subtle doctrine that the relation of the _Jīva_tma to the Lord is that of the body to the soul, came to us out of compassion to save us from being lost (in that stream).
 
-[^18]:
-Kaustubha: This gem is stated in certain treatises to stand allegorically for the _Jīva_  .
+[^18]: Kaustubha: This gem is stated in certain treatises to stand allegorically for the _Jīva_  .
 
 
 
@@ -200,8 +196,7 @@ SANSKRIT _ŚLOKA_:
 
 In the cycle of _karma_, a_vidyā_ and others[^19] which succeed one another, as in the revolution of a wheel, in the varied streams of _Samsāra_ peculiar to each individual and beginning from time immemorial, all systems of religious thought declare that, when the proper time comes, there is varied fruition resulting from past _karma_. At the time of this fruition, the Lord, who is the first _ācārya_ , finds his opportunity, catches the _Jīva_   and bestows His grace on him. Sach _Jīva_s are indeed rare and they become the repositories of all forms of wealth (like discrimination and freedom from desires) extending up to the sovereignty enjoyed by the freed souls in _mokṣa_  (viz, the enjoyment of _Bhagavān_ and service to Him).
 
-[^19]:
-The word ‘others’ refers to_ vāsana_s or impressions left in the mind in previous births, _ruci_
+[^19]: The word ‘others’ refers to_ vāsana_s or impressions left in the mind in previous births, _ruci_
 or tastes and aptitudes and _prakṛti sambandha_ or association with matter.
 
 

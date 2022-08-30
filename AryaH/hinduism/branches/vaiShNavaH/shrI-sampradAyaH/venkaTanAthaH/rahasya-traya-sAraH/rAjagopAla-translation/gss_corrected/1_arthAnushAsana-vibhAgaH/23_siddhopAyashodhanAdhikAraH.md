@@ -33,8 +33,7 @@ SANSKRIT _ŚLOKA_:
 
 The Supreme Person who knows all things, at the same time, by direct perception (pratyaksha) and without any aid or instrument (in the form of sense organs), who is the boundless and divine ocean of mercy, protects the world, with the daughter of the ocean (Lakṣmī ), being omnipotent. Having accepted the responsibility of saving those who follow the right path, He is the _upāya_ [^62] that is already existent.
 
-[^62]:
-By _Siddhopāya_, the author means _Bhagavān_ who is the _upāya_ already existent for those who perform _prapatti_. By _Sādhyopāya_ he means such _upāya_s or means as _bhakti_ and _prapatti_ which socure the Lord's favour so that He may act as the _Siddhopāya_.
+[^62]: By _Siddhopāya_, the author means _Bhagavān_ who is the _upāya_ already existent for those who perform _prapatti_. By _Sādhyopāya_ he means such _upāya_s or means as _bhakti_ and _prapatti_ which socure the Lord's favour so that He may act as the _Siddhopāya_.
 
 
 
@@ -63,8 +62,7 @@ GRACE IS WON:
 
 There are three main causes for the removal of the will of the Lord imposed on men as a punishment for past sins, owing to which the _jīva_s who are subject to the sway of past _karma_ have no clear knowledge concerning the _upāya_ that is already existent (namely _Bhagavān_), the _upāya_ by which His favour is secured (_Sādhyopāya_) and also the potency of these _upāya_s. They are as follows:- One is the speech that comes from the lips of Lakṣmī : If one asks, “May this _Śaraṇāgati_ by mine!" Her reply is "Let it be yours; everything will be obtained by it alone." Next is the grace of the good_ācārya_ and the third is the observance of the tradition of the righteous. The means (_vyāja_) by which the grace of the good _ācārya_  can be secured and the benefits arising therefrom may be understood from the episodes of [^63] Parāśara, Maitreya, Sañjaya, Aśvalāyana and others.
 
-[^63]:
-By the advice of Vasiṣṭa, Parāśara put a stop to the performance of a satra (sacrifice) which was aimed at the destruction of Rākṣasas. Pleased with this, Vasiṣṭa and Pulastya blessed him for his forbearance with a knowledge of the _śāstra_s and with the gifts necessary for the composition of a purāṇa. Maitreya studied the Vedas, the _dharma_ śāstra s and the Ved_aṅga_s from his _guru_ and, by his grace, obtained a knowledge of Vedānta  by which he realised how the origin, maintenance and destruction of the world occur and how there is nothing other than Viṣṇu .
+[^63]: By the advice of Vasiṣṭa, Parāśara put a stop to the performance of a satra (sacrifice) which was aimed at the destruction of Rākṣasas. Pleased with this, Vasiṣṭa and Pulastya blessed him for his forbearance with a knowledge of the _śāstra_s and with the gifts necessary for the composition of a purāṇa. Maitreya studied the Vedas, the _dharma_ śāstra s and the Ved_aṅga_s from his _guru_ and, by his grace, obtained a knowledge of Vedānta  by which he realised how the origin, maintenance and destruction of the world occur and how there is nothing other than Viṣṇu .
 
 
 
@@ -115,8 +113,7 @@ Conversation with rationalists makes men foolish in spite of their seeing, 'as t
 
 Even men with supreme faith that have sought the protection of the Supreme Ruler who is the Saviour of those that have no one to protect them - even they[^64] , we know. become deluded by association with others; though they are not cast away, they have afterwards to be corrected by good _ācārya_s.
 
-[^64]:
-Embar became subject to misconceptions owing to his association with Yādavaprakāśa and had to be corrected by Peria Tirumalai Nambi.
+[^64]: Embar became subject to misconceptions owing to his association with Yādavaprakāśa and had to be corrected by Peria Tirumalai Nambi.
 
 
 
@@ -179,8 +176,7 @@ TO PERFORM _PRAPATTI_ AS AN _UPĀYA_:
 
 (2) The injunction to perform _prapatti_ is contained in the words, "Seek refuge under me alone". Some say that it is not an injunction to perform _prapatti_ and that this _prapatti_ should be considered as an attribute of the person specified. We answer as follows :-- This attribute cannot be held as that of the person so concerned or qualified, as it does not satisfy the definition of an adjectival attribute[^65] . This statement is therefore contrary to pramâna or authority. If this were not so, while _Iśvara_ is the _upāya_ for _bhakti_, the _śāstra_s which prescribe certain forms of meditation and the like might also be considered as speaking of the attributes of the person concerned and not actions to be performed.
 
-[^65]:
-He who desires _svarga_ should perform the Jyotiṣṭoma sacrifice". Here, who desires _svarga_ is an attribute or adjective of the person and the injunction is that he should perform the sacrifice. In Mam Ekam Saranam Vraja, the _prapatti_ has to be performed after hearing the _vidhi_ or in junction; it did not exist before, like the desire for _svarga_ in the example cited. Therefore, it is not an attribute; besides vraja is a verb that prescribes an action.
+[^65]: He who desires _svarga_ should perform the Jyotiṣṭoma sacrifice". Here, who desires _svarga_ is an attribute or adjective of the person and the injunction is that he should perform the sacrifice. In Mam Ekam Saranam Vraja, the _prapatti_ has to be performed after hearing the _vidhi_ or in junction; it did not exist before, like the desire for _svarga_ in the example cited. Therefore, it is not an attribute; besides vraja is a verb that prescribes an action.
 
 
 
@@ -275,8 +271,7 @@ Hereafter we shall proceed briefly to remove certain misconceptions which arise 
 
 There are some who hold that, in the former part of the _Dvaya_, the word _Śrīmat_ is an Upalakṣaṇa[^66] ( an accidental sign by which the thing is distinguished and not a permanent attribute (or vi_śeṣa_ṇa)), whereas in the latter part, the same word means a permanent attribute of Nārāyaṇa . (If this were true, it would follow that the words 'I seek as my refuge' _śaraṇam prapadye_ would apply only to Nārāyaṇa  and not to Śrī or Lakṣmī  who, in that part, according to them, is not meant to be taken as an inseparable attribute but as only an accidental mark to distinguish Nārāyaṇa , Since in the latter part, Srīmat is, according to them, an inseparable attribute (vi_śeṣa_na), it would follow that the dative and the namah would apply to the attribute and the substantive, viz. Srī and _Bhagavān_. (It would then mean that Lakṣmī  is not to be sought as the _upāya_ but that adoration and service are due to her as well as to her spouse, Nārāyaṇa  ).
 
-[^66]:
-In "That is Devadatta's field where the crane was sitting before", the crane is an Upalakṣaṇa or accidental feature to identify the field with. It is not a permanent attribute or vi_śeṣa_ṇa of the field.
+[^66]: In "That is Devadatta's field where the crane was sitting before", the crane is an Upalakṣaṇa or accidental feature to identify the field with. It is not a permanent attribute or vi_śeṣa_ṇa of the field.
 
 
 
@@ -299,8 +294,7 @@ They might argue that these qualities, forms and activities are inseparable attr
 
 The usefulness of this attribute Srī in _Śrī_mat, both in the part dealing with _upāya_ and in that which treats of the object to be attained by that _upāya_ has been described by Nammalvar in the following verses :- " Lakṣmī  who abides in the ever-fragrant lotus will destroy the _karma_ of _jīva_s (i.e.) those karmas which act as hindrances to _Bhagavān_ becoming the _upāya_" and "I will sweep Thy temple with the help of Thy grace and that of Lakṣmī  who abides in the lotus." (So also ) Bhagavān Vālmīki declared in The Rāmāyaṇa, the earliest of all kavyas, which is the very essence of the doctrine of _śaraņāgati_"This Sītā is capable of protecting us from the great danger (confronting us), O, Rākṣasis" and "She ''is capable of saving the host of Rākṣasis from (the anger of Raghava)". Such authors as Hiranyagarbha and Kasyapa declared: “We should“ meditate on Lakṣmī , who can grant us all the benefits that we desire, who can take us safe out of the sea of _samsāra_, who becomes easily gracious and who can make us happy." Śrī_Bhagavān_ Śaunaka has given this precept. "The man" that prays for the attainment of _Bhagavān_, who is the purport of all words, should perform _prapatti_ to Lakṣmī  also." The great sage Parāśara who received the knowledge concerning the truth about the Supreme Deity from boons granted to him by Vasiṣṭa and Pulastya has stated "Thou art, O Goddess, the knowledge concerning the soul, the giver of _mokṣa_ , the object of attainment[^67] ." Even if, in this _śloka_ , the conferring of _mokṣa_  be looked upon as an adjective qualifying the knowledge of the soul, it has to be considered as her glory or vibhūti on account of the appositional use (sāmānādhikaraṇya ). The Lord of Śrī has himself proclaimed in connection with the meditation on _Bhagavān_ as the Lord of Śrī in Śrī Sātvata Samhita -"Those who meditate on _Bhagavān_ seek the protection of Lakṣmī  and with that they easily cross the sea of _samsāra_ which is constituted of these three qualities". Apart from the śāstras treating specially of _Śrī_, these _śāstra_s which do not pertain to any special sect or cult are of great authority.
 
-[^67]:
-The _śloka_  says: Thou art the knowledge concerning the self or atma _vidyā_: Lakṣmī  is in apposition with atma _vidyā_. The meaning is that atma _vidyā_ is one of her _vibhūti_s or glorious possessions. Since atma _vidyā_ can confer _mokṣa_ , it follows that Lakṣmī  can confer _mokṣa_ .
+[^67]: The _śloka_  says: Thou art the knowledge concerning the self or atma _vidyā_: Lakṣmī  is in apposition with atma _vidyā_. The meaning is that atma _vidyā_ is one of her _vibhūti_s or glorious possessions. Since atma _vidyā_ can confer _mokṣa_ , it follows that Lakṣmī  can confer _mokṣa_ .
 
 
 

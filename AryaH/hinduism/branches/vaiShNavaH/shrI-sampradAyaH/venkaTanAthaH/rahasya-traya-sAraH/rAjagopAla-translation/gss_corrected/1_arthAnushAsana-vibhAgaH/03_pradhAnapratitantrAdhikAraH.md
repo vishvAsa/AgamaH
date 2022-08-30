@@ -34,8 +34,7 @@ SANSKRIT _ŚLOKA_:
 
 When _Bhagavān_ is seen in the mirror of the 'vyāpaka[^21]  _mantra_s, which disclose His all-pervasiveness, one will see that the universe (which we perceive with our senses) is absolutely dependent on Him for its existence and continuance and likewise for its activity and the fruit or result arising from it; since the universe is supported and controlled by Him and is also solely for the fulfilment of His purposes, one will understand that it is the body of the Primaeval Creator. By realizing this relationship of the universe being the body of the Creator, one is enabled to reach the heart of the śrutis, which were not composed by any one and which have the deepest significance.
 
-[^21]:
-Vyāpaka  _mantra_s: These are (1) Aṣṭākṣara (2) Ṣaḍakṣara, the _mantra_ with six letters (Namo Viṣṇave with _Praṇava_ at the beginning) and (3) Dvadaśākṣara, the _Mantra_ with twelve letters (Namo Bhagavate Vāsudevāya with _praṇava_ at the beginning)
+[^21]: Vyāpaka  _mantra_s: These are (1) Aṣṭākṣara (2) Ṣaḍakṣara, the _mantra_ with six letters (Namo Viṣṇave with _Praṇava_ at the beginning) and (3) Dvadaśākṣara, the _Mantra_ with twelve letters (Namo Bhagavate Vāsudevāya with _praṇava_ at the beginning)
 
 
 
@@ -63,8 +62,7 @@ _Iśvara_ is called the inner self or soul (Sariri), because as long as they exi
 [^f46]: As befitting each of these two - By His _svarūpa_, He is the cause of their existence and continuance; this is because of being their support; by His Sankalpa or will also, He is the cause of their existence, continuance and activities; this is because of being their controller.*
 
 
-[^22]:
-As befitting each of these two - By His _svarūpa_, He is the cause of their existence and continuance; this is because of being their support; by His Sankalpa or will also, He is the cause of their existence, continuance and activities; this is because of being their controller.
+[^22]: As befitting each of these two - By His _svarūpa_, He is the cause of their existence and continuance; this is because of being their support; by His Sankalpa or will also, He is the cause of their existence, continuance and activities; this is because of being their controller.
 
 
 
@@ -160,8 +158,7 @@ The third word in Tiru_mantra_ is Nārāyanāya, which is the dative or fourth c
 
 The first word, _Praṇava_ (_aum_), signifies that m, the _jīva_, exists only for a (aya) and the second word _namo_ that the _jīva_ depends on _Bhagavān_. His existence is for _Bhagavān_ and His devotees, to the latter of whom the _śeṣa_tva extends as its ultimate limit, and he depends absolutely on _Bhagavān_ and His devotees In the light of this interpretation, the third word Nārāyanāya has, for its purport, the goal of the _jīva_, vis, _kaiṅkarya_ or service to the Lord and His devotees. This service may be seen illustrated in an active form in that of Lakṣmaṇa and in a passive form in the sandals[^23]  of Śrī Rāma which were an incarnation of Lakṣmaṇa or Adi_śeṣa_ and which left Rāma's feet to go along with His devotee, Bharata. (In these instances) the service is such as would be pleasing to the _śeṣī_ (namely, _Bhagavān_).
 
-[^23]:
-Lakṣmaṇa is a partial incarnation of Adisesha and Adisesha serves the Lord as His sandals. His bed, and so on. Therefore the sandals of Rama are, in a sense, the incarnation of Lakṣmaṇa.
+[^23]: Lakṣmaṇa is a partial incarnation of Adisesha and Adisesha serves the Lord as His sandals. His bed, and so on. Therefore the sandals of Rama are, in a sense, the incarnation of Lakṣmaṇa.
 
 
 

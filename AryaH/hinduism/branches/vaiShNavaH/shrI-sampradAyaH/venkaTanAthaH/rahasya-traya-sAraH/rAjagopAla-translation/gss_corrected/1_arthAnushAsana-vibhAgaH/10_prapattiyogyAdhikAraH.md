@@ -30,8 +30,7 @@ SANSKRIT _ŚLOKA_:
 
 Fitness (for _Bhakti_ or _Prapatti_) consists in a combination of desire (for the fruits of a course of action and of ability which is threefold[^50] . This fitness of man is differentiated as consisting in conditions prescribed for the _yoga_ of eight _aṅga_s or auxiliaries (_bhakti_ _yoga_) and for the _yoga_ of six _aṅga_s or auxiliaries (_prapatti_). That _Bhagavān_ is the refuge or Saviour of all has been declared in the _śruti_  and confirmed in the _smṛti_s। In adopting this righteous path viz., _prapatti_, there is competence for all as in the matter of speaking the truth and such other injunctions as are ordained in the Vedas (for all men , without any difference of caste or _āśrama_).
 
-[^50]:
-1: Ability which is threefold - The ability to understand the meaning of śāstra s: the ability to perform what is ordained in them and the competence as laid down in the śāstra s according to caste, qualities and the like.
+[^50]: 1: Ability which is threefold - The ability to understand the meaning of śāstra s: the ability to perform what is ordained in them and the competence as laid down in the śāstra s according to caste, qualities and the like.
 
 
 
@@ -108,8 +107,7 @@ SANSKRIT _ŚLOKA_:
 
 (1) Inability to adopt such _upāya_s as _Bhakti_ _yoga_, (2) ignorance of the required knowledge; (3) prohibition by the _śāstra_s of the adoption of such means and (4) inability to endure any delay in attaining _mukti_ :- these four, occurring either singly[^51] * or in combinations of two, three or four, by virtue of adṛṣṭa (resulting from meritorious deeds performed in the past) are qualifications of varied kinds for the performance of direct and independent _prapatti_ to the Lord of Lakṣmī  and good men resort to it with these qualifications and free from all doubt for the attainment of _mukti_.
 
-[^51]:
-Those who have only one of these four are of four classes, those who have any two of them are of six, those who have any three are of four and those who have all the four form one.
+[^51]: Those who have only one of these four are of four classes, those who have any two of them are of six, those who have any three are of four and those who have all the four form one.
 
 
 

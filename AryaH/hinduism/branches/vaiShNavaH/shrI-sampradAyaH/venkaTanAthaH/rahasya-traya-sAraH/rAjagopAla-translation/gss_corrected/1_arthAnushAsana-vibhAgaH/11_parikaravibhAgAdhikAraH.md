@@ -40,8 +40,7 @@ The accessories or _aṅga_s of this _vidyā_ (nyāsavidyā or _prapatti_) are t
 
 It has (sometimes) been said that _śaraṇāgati_ is of six kinds : intention to do whatever is pleasing ( to the Lord) (ānukūlyasaṅkalpa), the avoidance of whatever is displeasing to Him (prātikūlyavarjanam), the faith that He will afford protection (mahāviśvāsa), begging His protection (goptṛtvavaraṇa), the surrender of the self (ātmanikṣepa) and the feeling of helplessness (_kārpaṇya_). It is stated to be six-fold in this and other passages by the inclusion of the aṅgī, namely _prapatti_ or self surrender among its _aṅga_s or accessories as in the word aṣṭā_ṅga_[^52] _yoga_.
 
-[^52]:
-Aṣṭā_ṅga_ Yoga is really dhyānayoga. It is said to consist of yama, _niyama_, _āsana_, prāṇāyāma, pratyāhāra, dhyāna, dhāraṇa and samādhi, Samādhi which is the _aṅgī_ is included among its _aṅga_s or accessories  .
+[^52]: Aṣṭā_ṅga_ Yoga is really dhyānayoga. It is said to consist of yama, _niyama_, _āsana_, prāṇāyāma, pratyāhāra, dhyāna, dhāraṇa and samādhi, Samādhi which is the _aṅgī_ is included among its _aṅga_s or accessories  .
 
 
 

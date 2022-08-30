@@ -89,8 +89,7 @@ NOW FOR THE EXPERIENCING SUBJECT OR _JĪVA_:
 
 Thus the three realities consist of the Ruler and the Ruled (the latter including _prakṛti_ and the sentient beings) and our _ācārya_ s (Śrī Yāmunācārya and Śrī Rāmānuj_ācārya_) have stated this concisely in the words "(_Iśvara_)[^30] on whom depend the essential nature (_svarūpa_), the continuance (sthiti) and the activity (_pravṛtti_) of the three kinds of sentient beings and of non-sentient things with all their differences". The three kinds of sentient beings are those that are in bondage (_baddha_), those that have obtained release (_mukta_) and those that are eternally free (_nitya_). The three kinds of non-sentient things are _Prakṛti_ with its three qualities (sattvam, rajas and tamas). Time, and Śuddhasattvam. The essential nature (_svarūpa_) means the substance or thing which is defined by attributes peculiar and unique to it. Continuance (sthiti, means continuance of the thing or object in time. This is eternal for eternal things. In the case of non-eternal things, this continuance is subject to expansion and contraction in accordance with the will of _Iśvara_. Activity or _pravṛtti_ includes action and abstention from action. All these three : the essential nature (_svarūpa_), the continuance in time (sthithi) and the activity (_pravṛtti_) are seen (by perception and other pramaņas) to be different in the case of each thing or object,
 
-[^30]:
-Alavandar: Atmasiddhi and Rāmānuja’s Vaikuṇṭha gadyam.
+[^30]: Alavandar: Atmasiddhi and Rāmānuja’s Vaikuṇṭha gadyam.
 
 
 
@@ -108,8 +107,7 @@ Therefore the essential nature (_svarūpa_) of the _jīva_ may be described as _
 [^f145]: The soul is of the nature of jñāna or knowledge (i.c.) its _svarūpa_ is knowledge. At the same time the soul has knowledge as an attribute and this jñāna or knowledge is called Dharma bhuta jñāna or attributive knowledge.*
 
 
-[^31]:
-The soul is of the nature of jñāna or knowledge (i.c.) its _svarūpa_ is knowledge. At the same time the soul has knowledge as an attribute and this jñāna or knowledge is called Dharma bhūta
+[^31]: The soul is of the nature of jñāna or knowledge (i.c.) its _svarūpa_ is knowledge. At the same time the soul has knowledge as an attribute and this jñāna or knowledge is called Dharma bhūta
 jñāna or attributive knowledge.
 
 
@@ -144,8 +142,7 @@ The specific and distinctive feature of the _nitya_s (the eternally free) is tha
 [^f146]: “ Instead of _śeṣī_  the author's use of the word seshitatva is to include Śrī or Lakṣmī  also as _śeṣī_ ". Chetlur commentary.  *
 
 
-[^32]:
-“ Instead of _śeṣī_  the author's use of the word seshitatva is to include Śrī or Lakṣmī  also as _śeṣī_ ". Chetlur commentary.
+[^32]: “ Instead of _śeṣī_  the author's use of the word seshitatva is to include Śrī or Lakṣmī  also as _śeṣī_ ". Chetlur commentary.
 
 
 
@@ -154,8 +151,7 @@ _DHARMABHŪTA _JÑĀNA[^33]
 
 (Attributive knowledge).
 
-[^33]:
-According to Viśiṣṭādvaitins, the self or atma is,in its essential nature or _svarūpa_, knowledge. It also possesses jñāna or knowledge as its dharma or attribute." This knowledge is called dharma bhuta jñāna or attributive knowledge. (See foot-note before the previous foot-note)
+[^33]: According to Viśiṣṭādvaitins, the self or atma is,in its essential nature or _svarūpa_, knowledge. It also possesses jñāna or knowledge as its dharma or attribute." This knowledge is called dharma bhuta jñāna or attributive knowledge. (See foot-note before the previous foot-note)
 
 
 To all these ātmās or souls, in the same way as their essential nature (_svarūpa_) is that of a substance, their attributive knowledge (_dharma_bhūtājñāna) is also a substance. Its essential nature has not been separately referred to in the [^f148] passage[^34] because of its having been included as an attribute to the soul.
@@ -163,8 +159,7 @@ To all these ātmās or souls, in the same way as their essential nature (_svar�
 [^f148]: the passage which refers to the three kinds of achetana in Alavandar’s Atmasiddhi and Rāmānuja’s Vaikuṇṭhagadyam .)*
 
 
-[^34]:
-the passage which refers to the three kinds of achetana in Alavandar’s Ātmasiddhi and Rāmānuja’s Vaikuṇṭhagadyam.
+[^34]: the passage which refers to the three kinds of achetana in Alavandar’s Ātmasiddhi and Rāmānuja’s Vaikuṇṭhagadyam.
 
 
 This attributive knowledge is luminous by itself to the soul which possesses it, while revealing objects. That is, when the attributive knowledge reveals, for example, a pot to the soul which possesses that attributive knowledge, it reveals its own existence as well). To _Iśvara_ and the _nitya_s (the eternally free), this attributive knowledge is eternally all-pervasive. For others in the state of _samsāra_ or bondage, it is subject to varying degrees of contraction and expansion owing to _karma_. In the state of _mukti_, it is all pervasive for all released souls, owing to perfect expansion and remains so throughout. The functions (_pravṛtti_) of attributive knowledge are as follows :- It discloses objects (external or internal); while willing or making an effort, it directs the body (and the senses etc.); in the state of bondage, it undergoes contraction and expansion; it undergoes experiences (bhoga) which reveal objects as agreeable or disagreeable. Experience or Bhoga is the process of feeling a thing as agreeable or disagreeable. All objects, which are among the glories of _Iśvara_, are, by their very nature, Agreeable and are enjoyed as being Agreeable by _Iśvara_, the _nitya_s and the souls that have attained _mokṣa_ . To those in _samsāra_, however, these objects appear at different times, and in different places and in relation to different _jīva_s as slightly agreeable, or disagreeable, or indifferent, but these variations do not belong to them by nature. Their slight agreeableness, disagreeableness, or being neither of the two is the fruit of the past actions of the _jīva_s awarded to them by _Iśvara_, whose will is irresistible. The _jīva_s that are in bondage are subject to the experience of the fruits of their _karma_, both by nature and by auxiliary causes. By nature they are subject to it, because they are sentient beings entirely under the control of another (_Iśvara_). The auxiliary causes are their having committed offences against the Lord. In the case of muktas and _nitya_s, although, by their nature as being subject to the control of _Iśvara_, the experience of the fruit of action might be possible, yet since they never perform any action displeasing to Him, there are no auxiliary causes for such experiences. _Iśvara_, by His essential nature, is not subject to such experience or enjoyment of the fruits of action, since He stands as the Ruler over all and with no one else to command Him. Nor are there any auxiliary causes in His case, as there is no one whose commands He may be said to have disobeyed.
@@ -190,8 +185,7 @@ It has been said in the following _śloka_  :
 [^f149]: Nyāya-tatvam: Mangala sloka
 
 
-[^35]:
-A pot is not luminous, because it becomes visible or is seen only when lighted up by the flame of a lamp. The flame of a lamp is luminous, because it does not require anything else to become visible.
+[^35]: A pot is not luminous, because it becomes visible or is seen only when lighted up by the flame of a lamp. The flame of a lamp is luminous, because it does not require anything else to become visible.
 
 
 
@@ -324,8 +318,7 @@ The essential nature (_svarūpa_ ) of _Iśvara_ on whom depends the existence of
 [^f160]: Rangarajastavam: Uttara shatakam: 40
 
 
-[^36]:
-Six Qualities or Gunas: 1. _Jñāna _( Knowledge) . 2. Aiśvarya Lord ship; unimpeded activity; activity based on independence 3. _Śakti_ (ability) potency to become the material cause of the world; also the power of bringing about what appears impossible of being brought about; 4. bala strength; absence of fatigue; sustaining power; 5. Vīrya virility; changelessness in spite of being the material cause of the world; 6.tejas splendour, might, the power to overcome others.
+[^36]: Six Qualities or Gunas: 1. _Jñāna _( Knowledge) . 2. Aiśvarya Lord ship; unimpeded activity; activity based on independence 3. _Śakti_ (ability) potency to become the material cause of the world; also the power of bringing about what appears impossible of being brought about; 4. bala strength; absence of fatigue; sustaining power; 5. Vīrya virility; changelessness in spite of being the material cause of the world; 6.tejas splendour, might, the power to overcome others.
 
 
 
@@ -335,8 +328,7 @@ The differences arising from planes like the waking state have been thus summari
 [^f162]: Rangarajastavam: Uttarashatakam: 39
 
 
-[^37]:
-This sloka cannot be understood without the account given in the Appendix.
+[^37]: This sloka cannot be understood without the account given in the Appendix.
 
 
 The twelve forms that begin with Keśava are other forms derived from the vyūhas. (_Bhagavān_ also manifests Himself as vibhavas.) These vibhavas are thirty odd forms like Padmanabha. Among them Avatars like Matsya and Kurma are specified in relation to some specific purpose. In these vibhavas or avatārs, _Iśvara_ conceals those attributes of His which He wants to conceal and reveals those attributes which He wants to reveal to suit the special mission which He has undertaken in them. Among them, there are varied manifestations which are countless. So has it been said, "The [^f163] forms of Kṛṣṇa are innumerable", Other forms similarly derived from the vibhavas can also be seen in the _śāstra_s. Sometimes the Lord enters into some _jīva_s with His own specific form and into others with His energy (_śakti_) and accomplishes wonderful things. These belong to another class of vibhavas. The forms of the Supreme _Vāsudeva_ (_Para_), the Vyuhas and the Vibhavas assume the [^f164] forms[^38] of the images and enter into the shapes of images (installed in temples), for the sake of devotees as desired by them. This is arcāvatara: The Lord is (also) present in a subtle form in the hearts of all _jīva_s. This form is called Antaryāmi _Avatāra_, as meditation on this form has been prescribed as the means which enables those who wish to enter into the meditation of the Antaryāmin or the divine all-pervading _svarūpa_ of the Lord. It has been said of this meditation: "Those [^f165] who have attained success in Asht_aṅga_ _yoga_ and who are desirous of worshipping the one who dwells in the heart are fit to meditate on the one (i.e.) the form in which He dwells in the hearts of all." Therefore this One (Hārda) is spoken as Antaryāmi.
@@ -350,8 +342,7 @@ The twelve forms that begin with Keśava are other forms derived from the vyūha
 [^f165]: Sātvatasamhita: 2-7-8
 
 
-[^38]:
-Sātvatasamhita: 6-22 This is stated in the following passage: "He assumes a form similar to that of the image, enters into it, and remains there”.
+[^38]: Sātvatasamhita: 6-22 This is stated in the following passage: "He assumes a form similar to that of the image, enters into it, and remains there”.
 
 
 
@@ -394,8 +385,7 @@ In this context, we have to understand a difference in their activities or divis
 [^f170]: Viṣṇupurāṇa: 1-8-17
 
 
-[^39]:
-Without requiring any other authority to prove it. The different activities shared by Lakṣmī  and Her Lord are determined by their own will and not by difference in the nature of the two.
+[^39]: Without requiring any other authority to prove it. The different activities shared by Lakṣmī  and Her Lord are determined by their own will and not by difference in the nature of the two.
 
 
 
@@ -421,8 +411,7 @@ Here we have classified the _Tattva_s into three. So also some consider _Iśvara
 
 What is said in the following _śloka_ , is of course true: "A knowledge[^40] of the śāstras can be obtained only with the greatest difficulty. Further it may unsettle the mind. Therefore having obtained a knowledge of Hari from the teaching of the _guru_, a man should cease from all such activities." This does not mean that one should make no attempt to learn the _śāstra_s. It only means that one should learn what is most important as quickly as possible and proceed at once to adopt the means learnt therefrom for attaining _mokṣa_ , without spending too much time over elaborate treatises, which might cause delay in the adoption of the means. The man who has enough to eat without tilling the soil would never think of tilling it. So also without wasting time over what is unimportant, we should, as soon as possible, adopt the means prescribed for _mokṣa_ ,
 
-[^40]:
-‘‘शास्त्रज्ञानं बहुक्लेशं बुद्धेश्चलनकारणम् । उपदेशाद्धरिं बुद्ध्वा विरमेत्सर्वकर्मसु ॥
+[^40]: ‘‘शास्त्रज्ञानं बहुक्लेशं बुद्धेश्चलनकारणम् । उपदेशाद्धरिं बुद्ध्वा विरमेत्सर्वकर्मसु ॥
 
 
 

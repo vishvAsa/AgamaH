@@ -32,8 +32,7 @@ SANSKRIT _ŚLOKA_:
 
 The Lord merges the aggregate of the senses in the mind, the mind with the senses in the vital breath (prāna), the vital breath with these in the self or soul, the self in the subtle elements (Sakshina bhutas ) and the self with these elements in Himself (the Supreme Self) very soon. So far, the process of the soul's departure is common to both the person who has realised Him and the person who has not realised Him. Thereafter, the Lord leads the self through different veins ( nadi)[^56] which lead either to the (dark) path of smoke or to the shining path of light (archirādi) or elsewhere in accordance with the qualifications (of each individual).
 
-[^56]:
-The soul of the man who has realised _Brahman_ is said to be led through a vein issuing out of the head into the shining path of archis along which it passes into immortality in Vaikuṇṭha  . The soul of the man who has not realised _Brahman_ is led through other veins into the dark path called dhuma or smoke. He will be born again in _samsāra_.
+[^56]: The soul of the man who has realised _Brahman_ is said to be led through a vein issuing out of the head into the shining path of archis along which it passes into immortality in Vaikuṇṭha  . The soul of the man who has not realised _Brahman_ is led through other veins into the dark path called dhuma or smoke. He will be born again in _samsāra_.
 
 
 
@@ -60,8 +59,7 @@ In the case of those who performed _prapatti_ without indicating any definite ti
 
 (3) "Since the _prapanna_ is bent on attaining _mokṣa_, he is not likely to have any long-standing desire for other benefits. Like those who have both _Brahma_ bhāvana and Karma bhavana, (_Brahma_, Rudra and the like), they might entertain a desire for other benefits along with the desire for _mokṣa_ ; if so, _Iśvara_, who is their well-wisher, will not grant them those (so called) benefits ( as they are not for his good); for it is said :-"Even when the _bhakta_ prays for it, _Iśvara_ does not permit him to do what is not good to himself. Does not the mother prevent her child that longs to fall into the fire ?" It is said also :-- " He whom I want to bless -- his wealth I take away from him. His relations will then desert him. He will become miserable. If, in his misery, he still clings to me, I confer on him such blessings as are unattainable even for the devas." The same idea is found in the story of Kundadhāra[^57] . Sometimes _Iśvara_ creates in the _prapanna_ a distaste for these other things by making him realise that they are trivial, transient and mingled with pain. Sometimes, as in the case of Soubhari and Kuchela, he gives them the benefits desired by them, but makes them feel an aversion to them afterwards.
 
-[^57]:
-Kundadhara : A certain man who was devoutly attached to Kundadhara begged him for wealth. Kundadhara, instead of granting wealth, saw to it that his follower should become attached to _dharma_.
+[^57]: Kundadhara : A certain man who was devoutly attached to Kundadhara begged him for wealth. Kundadhara, instead of granting wealth, saw to it that his follower should become attached to _dharma_.
 
 
 
@@ -122,8 +120,7 @@ The Lord sees to it that the self of the _prapanna_ does not go out through any 
 
 When Kooratth alvan (ŚrīVatsankamisra) was in his last moments, his tongue was parched with the fatigue (of the moment) and (unable to speak or utter any words) he caught hold of Śrī _Rāmānuja_'s feet. At that time Śrī _Rāmānuja_ whispered the _Dvaya_ _Mantra_ in his ear[^58] . The other disciples, who were there, said to themselves with mental depression :- "How can we hope to get this blessing ( _Dvaya_ being whispered in the ear by Śrī_Rāmānuja_)? What shall we do?" Śrī _Rāmānuja_ understood their fears and said, "Do you not know the true character of Alvan? When he is in this condition (unable to say anything owing to the parched throat), what I did was only like placing a little camphor and a piece of sugar-candy (in his mouth, to make it wet). I did not whisper the _Dvaya_ in order to make the _upāya_ complete with its accessories". The disciples were relieved on hearing this.
 
-[^58]:
-The idea is that the _prapanna_ will attain _mokṣa_ even if he is unconscious and unable to utter the _Dvaya_ or other _mantra_s.
+[^58]: The idea is that the _prapanna_ will attain _mokṣa_ even if he is unconscious and unable to utter the _Dvaya_ or other _mantra_s.
 
 
 

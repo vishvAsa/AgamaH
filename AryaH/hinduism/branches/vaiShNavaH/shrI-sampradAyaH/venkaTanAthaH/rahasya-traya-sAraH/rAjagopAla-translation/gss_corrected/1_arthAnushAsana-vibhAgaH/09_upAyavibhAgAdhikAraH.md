@@ -26,8 +26,7 @@ SANSKRIT _ŚLOKA_.
 
 _Bhagavān_ is declared in the Upaniṣads to be Himself the means (_upāya_) of attaining Him. The ways of _bhakti_ and _prapatti_ are indicated for winning His grace. The adoption of these [^46] *ways is the result of the great ripening of meritorious deeds (done in the past ) and, even for this, _Bhagavān_, who has the ability to create everything, is Himself the cause.
 
-[^46]:
-These ways: The commentary Sārāsvādinī says that the Sanskrit   word Gati does not mean here ways or _upāya_s but forms of knowledge.
+[^46]: These ways: The commentary Sārāsvādinī says that the Sanskrit   word Gati does not mean here ways or _upāya_s but forms of knowledge.
 
 
 
@@ -53,8 +52,7 @@ _ŚLOKA_:
 
 The principle of tatkratu[^47] states only that  the qualities (and forms) meditated upon would not be excluded in the attainment; it does not exclude other qualities (and forms ). Service to the Lord is also the object of attainment (_upeya_ ) as it is the overflow of the experience (of _Bhagavān_ ) which is attained.
 
-[^47]:
-The principle of tatkratu or tatkratu nyaya is to the effect that in whatever form or manner and with whatever qualities one meditates on God - in that very form and with those very qualities will one attain Him. Though service to the Lord is not specifically prescribed in a _vidyā_, it will be attained after _mukti_.
+[^47]: The principle of tatkratu or tatkratu nyaya is to the effect that in whatever form or manner and with whatever qualities one meditates on God - in that very form and with those very qualities will one attain Him. Though service to the Lord is not specifically prescribed in a _vidyā_, it will be attained after _mukti_.
 
 
 
@@ -137,8 +135,7 @@ _BHAKTI_ IS DIFFERENT FROM _PRAPATTI_:
 
 That the two are different from each other is evident from the adhikarana or section. "The _Brahma_ _Vidyā_s are different as their *[^48] names and the like are different ". _Brahma_ sūtras (III-3.56). That there is option (to choose any of them) is also evident from the section : " There is option (to adopt any of them ) because the result or (final) fruit is the same". Brahnia sītras (III - 3. 57).
 
-[^48]:
-_Bhakti_ leads through _yoga_ to para-_bhakti_ which leads to para-_Jñāna_, which, in its turn, leads to parama-_bhakti_.
+[^48]: _Bhakti_ leads through _yoga_ to para-_bhakti_ which leads to para-_Jñāna_, which, in its turn, leads to parama-_bhakti_.
 
 
 
@@ -179,8 +176,7 @@ SANSKRIT _ŚLOKA_:
 
 Karma, _Jñāna_, _Upāsana_ (_bhakti_ ) and likewise _śaraṇāgati_ are the good ways prescribed in the Vedas for securing _mokṣa_[^49] ; of these some are indirect and auxiliary means (namely, _karma_ and _jñāna_ ) while the others, _bhakti_ and _śaraṇāgati_ are direct and independent _upāya_s for _mukti_. Of these, some (i.e. _karma_ and _jñāna_), have only one form (that of being in. direct and auxiliary means ); _bhakti_ has only one form (that of being the direct and independent means for _mukti_, while _śaraṇāgati_ or _prapatti_ has two forms, that of being an indirect and auxiliary means as leading to _bhakti_ and also that of being the direct and independent means or _upāya_ for obtaining _mukti_. The wise (who know the s'ăstras), having understood well the difference among these _upāya_s due to their having this single or twofold nature, delight in the last words (caramaśloka  ) of the charioteer who is the Saviour of all, (i.e.) they prefer śaraṇāgati),
 
-[^49]:
-Commentators of _Brahma_ _sūtra_s like Sudarśana Bhatta point out that this difference in names applies especially to _nyāsa_, since it is a different word from 'contemplate', ‘meditate', and 'adore' which are used in connection with the other _vidyā_s and which mean thc same thing, whereas _nyāsa_ has a different meaning (altogether).
+[^49]: Commentators of _Brahma_ _sūtra_s like Sudarśana Bhatta point out that this difference in names applies especially to _nyāsa_, since it is a different word from 'contemplate', ‘meditate', and 'adore' which are used in connection with the other _vidyā_s and which mean thc same thing, whereas _nyāsa_ has a different meaning (altogether).
 
 
 

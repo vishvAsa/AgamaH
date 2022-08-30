@@ -55,8 +55,7 @@ SANSKRIT _ŚLOKA_ :
 
 (With due devotion) we repeat the expression of adoration to our _guru_s and likewise to their _guru_s; and among these (latter), we pray for the grace of the  Primaeval Couple (Nārāyaṇa  and Lakṣmī ), the twin _śeṣī_s[^1] of all the worlds (so that they may be both the end to be attained by us and the means of attaining it).
 
-[^1]:
-A_ śeṣa_ is one who exists solely for the purposes of another. That other is _śeṣī _.
+[^1]: A_ śeṣa_ is one who exists solely for the purposes of another. That other is _śeṣī _.
 
 
 
@@ -79,8 +78,7 @@ TAMIL VERSE :
 
 Having carefully studied the beautiful hymns sung with delight in Tamil by seers, we have come to understand the real meaning of the regions of the Upaniṣads which are otherwise difficult to comprehend - seers known as Poygai Muni, Bhutamuni, Peyalvar, Kurugesan (Nammalvar) who was born on the banks of the cool Tamraparni, [^2] Viṣṇu chittan, the pure-minded Kulasekhara, our Pananathan, Thondaradippodi, the splendour that appeared in Mazhisai ( Tirumazhisai alvar) and the prince of M_aṅga_i armed with sword and spear for making bright the path of the Vedas throughout the world.
 
-[^2]:
-(1) The commentator says that Viṣṇuchittan stands for Viṣṇuchittan and also for his daughter Andal, the authoress of many hymns.
+[^2]: (1) The commentator says that Viṣṇuchittan stands for Viṣṇuchittan and also for his daughter Andal, the authoress of many hymns.
 
 
 
@@ -104,12 +102,10 @@ TAMIL VERSE :
 
 To those who venture to attain release from the bondage of _samsāra_, the ancient path indicated to us by the spotless Madhurakavi  by his own example is the only safe[^3]  path, for while there is Śrīkṛṣṇa, the great cowherd, who incarnated solely for the sake of his devotees to confer bliss on them, to be their refuge, to be their final goal, to stand in relation to them as mother, father, brother and so on, to change their desire for the pleasures of this world into a desire for Himself, to remove all their sins, to show them infinite compassion, to reveal the truth, and so also to bring about in them a likeness to Himself - while there is Śrīkṛṣṇa ever ready to do all this,[^4] he sought only the feet of the sage Satagopa (Nammālvār) who rendered in Tamil the truths contained in the Vedas which are otherwise hard to understand.
 
-[^3]:
-safe path: This means_ Bhakti_ and_ Prapatt_i which lead to _mokṣa _. _Acārya bhakt_i is called _bhakti_ and _prapatti_ as it leads to them.
+[^3]: safe path: This means_ Bhakti_ and_ Prapatt_i which lead to _mokṣa _. _Acārya bhakt_i is called _bhakti_ and _prapatti_ as it leads to them.
 
 
-[^4]:
-Madhurakavi in his decade of Tamil verses, says that, to him, Nammalvar is the only God and that through him, he expects to derive all the benefits that men expect to have from God Himself. The path indicated by him is that of devotion to the _ācārya_ for attaining _mukti_ as well as other things.
+[^4]: Madhurakavi in his decade of Tamil verses, says that, to him, Nammalvar is the only God and that through him, he expects to derive all the benefits that men expect to have from God Himself. The path indicated by him is that of devotion to the _ācārya_ for attaining _mukti_ as well as other things.
 
 
 
@@ -120,16 +116,13 @@ THE ĀCĀRYA  ESSENTIAL FOR MOKṢA :
 
 It is said in the _Smṛti_s: "Kṣatrabandhu[^5] , who was the worst of sinners, and Puṇḍarīka[^6] , the virtuous - both of them obtained _mokṣa_  or release from bondage by virtue of their having _ācārya_s." It is thus declared that in the case of every one, the only means of securing _mokṣa_  is to have an _ācārya_. To the man desirous of _mokṣa_ , the line of _ācārya_s is stated in the _śruti_[^7] to extend upward even to the Supreme _Bhagavān_ for purposes of meditation.
 
-[^5]:
-Kṣatrabandhu led the life of a highwayman in a forest. He was a source of terror to the sages who lived in that forest. Once when the sage Nārada  happened to pass by him, he rushed at him with his stick. Nārada  took pity on him and asked him to find out from his wife and children whether they would share the sin he was committing, as it was done for their sake. They refused and Kṣatrabandhu realised his folly and begged to be instructed by Nārada  in the truths of religion.
+[^5]: Kṣatrabandhu led the life of a highwayman in a forest. He was a source of terror to the sages who lived in that forest. Once when the sage Nārada  happened to pass by him, he rushed at him with his stick. Nārada  took pity on him and asked him to find out from his wife and children whether they would share the sin he was committing, as it was done for their sake. They refused and Kṣatrabandhu realised his folly and begged to be instructed by Nārada  in the truths of religion.
 
 
-[^6]:
-Puṇḍarīka was a virtuous Brahmin, who, though he followed the righteous path and went on a pilgrimage to holy places, did not get a vision of God. It was only after being initiated into the _Ashtakshara_ by Nārada  that he realised God.
+[^6]: Puṇḍarīka was a virtuous Brahmin, who, though he followed the righteous path and went on a pilgrimage to holy places, did not get a vision of God. It was only after being initiated into the _Ashtakshara_ by Nārada  that he realised God.
 
 
-[^7]:
-The _śruti _ referred to here means - “This line of the _ācārya_s extends up to Bhagavān thus: This is his _ācārya_; his _ācārya_ is so and so and so on up to the Lord".
+[^7]: The _śruti _ referred to here means - “This line of the _ācārya_s extends up to Bhagavān thus: This is his _ācārya_; his _ācārya_ is so and so and so on up to the Lord".
 
 
 
@@ -170,8 +163,7 @@ The Supreme Lord is the foremost of all _ācārya_s, as may be seen from the fol
 [^f18]:.Viṣṇu dharma :108--50
 
 
-[^8]:
-Ā_cārya_ here means one who teaches Brahma Vidyā and _guru_ one who teaches the Vedas. This verse was spoken by Sahadeva to those assembled at the Rajasuya sacrifice,
+[^8]: Ā_cārya_ here means one who teaches Brahma Vidyā and _guru_ one who teaches the Vedas. This verse was spoken by Sahadeva to those assembled at the Rajasuya sacrifice,
 
 
 
@@ -221,12 +213,10 @@ From [^f23] Kaṭha _śruti_[^9]  and [^f24] Jābala _śruti_[^10]  it is well-k
 [^f25]: Gautama Dharma Sutra: 9.18
 
 
-[^9]:
-_Kaṭha_ _śruti _: This wisdom concerning the soul cannot be obtained by the mere exercise of reason. Only when it is imparted by another (the _guru_), does it lead to the knowledge which is the means of attaining _mokṣa .Kaṭha Upaniṣad_ 1.II.9
+[^9]: _Kaṭha_ _śruti _: This wisdom concerning the soul cannot be obtained by the mere exercise of reason. Only when it is imparted by another (the _guru_), does it lead to the knowledge which is the means of attaining _mokṣa .Kaṭha Upaniṣad_ 1.II.9
 
 
-[^10]:
-_Jābāla says in the_ _śruti _: "It is only the Vidya or wisdom learnt from an _ācārya_ that gives proficiency Chandogya Upaniṣad: IV-9-3
+[^10]: _Jābāla says in the_ _śruti _: "It is only the Vidya or wisdom learnt from an _ācārya_ that gives proficiency Chandogya Upaniṣad: IV-9-3
 
 
 
@@ -275,8 +265,7 @@ SANSKRIT _ŚLOKA_:
 
 The blissful line of our _guru_s who are possessed of many auspicious qualities, who have brought down the arrogance of rival controversialists by the successive neighs issuing from Hayagrīva[^11] who delights in sitting on the throne of their hearts, and whose triumphant banner fixed at the top of the mansion of the four quarters has, by the flourish of its cloth waving in the breeze, dispelled the doctrines of their respective systems like tufts of cotton and thereby rendered the good path clear to all this blissful line of our _guru_s shines supreme.
 
-[^11]:
-The disputations of these _ācārya_s are compared to the succession of neighings coming from the God Hayagrīva who is seated in their hearts. By these disputations they are said to have put down the pride of the exponents of rival systems.
+[^11]: The disputations of these _ācārya_s are compared to the succession of neighings coming from the God Hayagrīva who is seated in their hearts. By these disputations they are said to have put down the pride of the exponents of rival systems.
 
 
 
@@ -305,8 +294,7 @@ We that cling to the noble qualities and sweet words of the benevolent sage, _R�
 
 
 
-[^12]:
-(Or the Upaniṣads)
+[^12]: (Or the Upaniṣads)
 
 
 
@@ -341,13 +329,11 @@ TAMIL VERSE:
 
 We shall come to new life again by bowing every day at the feet of the noble and generous Nāthamuni, who to his (two)[^13] loving disciples who were like a trumpet and a conch (to proclaim the truth and to cow down the exponents of rival systems) taught the art of music so that they might sing the sweet strains of the Tamil Veda which had been long forgotten in the world and who propagated in the world, for the pursuit of all, the path of tapas (_bhakti_ and _prapatti_). In all the four regions of the world there is no one equal to us (because of this devotion of ours to Nāthamuni).[^14]
 
-[^13]:
-Two disciples : Kilagathalvan and Melagathalvan
+[^13]: Two disciples : Kilagathalvan and Melagathalvan
 
 
 
-[^14]:
-There are some who maintain that this chapter on the succession of _guru_s is not part of _Śrī_mad Rahasyatrayasāra and that the latter begins only with the "Introductory Chapter", which follows.
+[^14]: There are some who maintain that this chapter on the succession of _guru_s is not part of _Śrī_mad Rahasyatrayasāra and that the latter begins only with the "Introductory Chapter", which follows.
 
 
 

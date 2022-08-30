@@ -425,8 +425,7 @@ TAMIL VERSE:
 
 Our _ācārya_ s have proclaimed, in so uncertain terms, that our eternal Lord with His Consort seated on the lotus is the Supreme Deity, so that disputants, proud of their knowledge of reasoning and argumentation, may not, each according to his own will, declare that the ultimate cause is this or that (_Brahma_, Rudra or Indra) thus causing dread to the Vedas[^41] * and trepidation to all devotees.
 
-[^41]:
-The Veda is afraid of the man who has only a little knowledge of it. (Bibheti alpa śruteh vedah)
+[^41]: The Veda is afraid of the man who has only a little knowledge of it. (Bibheti alpa śruteh vedah)
 
 
 

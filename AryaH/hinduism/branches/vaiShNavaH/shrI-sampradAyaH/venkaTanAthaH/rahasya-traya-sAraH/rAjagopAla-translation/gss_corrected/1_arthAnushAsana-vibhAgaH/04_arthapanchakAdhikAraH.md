@@ -24,8 +24,7 @@ SANSKRIT _ŚLOKA_:
 
 In the 'a' in Om and in the word 'Nārāyaṇa ' occurring in aṣṭākṣara, the supreme end of life (i.e.) _Bhagavān_, who is opposed to all that is objectionable or faulty, is indicated; in the m in om and in the part nāra occurring in Nārāyaṇāya, the essential nature (_svarūpa_) of the _jīva_ who is to attain this end is disclosed; the means of attainment already existing as established(siddha _upāya_) namely, _Bhagavān_, is indicated in the part ayana occurring in Nārāyaṇa and the means to be accomplished or adopted (sādhya _upāya_ ), which is self-surrender, is in _namas_; the fruit desired, viz., the enjoyment of _Brahman_ which includes also service to Him is disclosed in the dative or fourth case in Nārāyaṇāya; the hindrance to it, namely, the feeling of 'mine' is in the word mama occurring in namah (na mama ). He who understands the _Aṣṭākṣara_ _mantra_ that reveals all these five and [^24] _Dvayam_ too, which is to the same effect--he will be considered by all as one who knows everything.
 
-[^24]:
-_Dvayam_ may mean also the two (i.e.) _Dvayam_ and _Caramasloka._
+[^24]: _Dvayam_ may mean also the two (i.e.) _Dvayam_ and _Caramasloka._
 
 
 
@@ -441,8 +440,7 @@ From the _Pāñcarātra_ śāstra  (Bhagavat śāstra), it is learnt that this f
 [^f114]: Harda is an aprakrita form of the Lord present in the human heart, like the _arcā_ in temples.*
 
 
-[^25]:
-Harda is an aprakrita form of the Lord present in the human heart, like the _arcā_ in temples
+[^25]: Harda is an aprakrita form of the Lord present in the human heart, like the _arcā_ in temples
 
 
 
@@ -540,8 +538,7 @@ sport."
 
 Thus _Brahman_, the object of attainment, is ever with Lakṣmī : He is infinite _jñāna_ and infinite bliss, and is opposed to all that is imperfect and objectionable. He is possessed of countless auspicious qualities like wisdom and power. He has a celestial and transcendent form of auspicious nature. He has two vibhūtis (_līlā_ and _nitya_ ) which are His body; He has, for His play or sport (_līlā_), the work of creating the world, of maintaining and controlling it and the like.
 
-[^26]:
-This summarises Prapya (i.c.) the object of attainment, viz. Brahman
+[^26]: This summarises Prapya (i.c.) the object of attainment, viz. Brahman
 
 
 
@@ -568,8 +565,7 @@ The muktās (or released souls) are those who, by adopting the means (_upāya_ )
 
 The nityās (the eternally free) are those whose knowledge has never undergone contraction and who are, in this respect, like _Iśvara_ Himself. "They [^27] are", it has been said, " of the same age as the Lord, eternal and free from all trace of imperfections," They have never been in _samsāra_ and are engaged in eternal service to the Lord e.g. Ananta (i.e.) Adi_śeṣa_, Garuḍa and Viṣvaksena.
 
-[^27]:
-has never undergone contraction
+[^27]: has never undergone contraction
 
 
 
@@ -641,13 +637,11 @@ Even those who practise _yoga_ are made to practise it in connection with petty 
 [^f131]: The eight kinds of siddhi: Aṇimā (contraction of one's body to the size of an atom, mahima (assuming a huge form) Laghimā (making one's body light) Garimā (making the body heavy), vaśitvam (mastery over self), aiśvaryam (lordship) prāpti the power of obtaining whatever one wants and prākāmyam (perfect freedom of the will.)*
 
 
-[^28]:
-<sup>] </sup> In the Chandogya upanishad VII chapter, it is stated as follows:- He who worships nama or names like rig veda, sama veda, _Itihāsa_ and purāṇa as if they were Brahman will realise only very limited fruits such
+[^28]: <sup>] </sup> In the Chandogya upanishad VII chapter, it is stated as follows:- He who worships nama or names like rig veda, sama veda, _Itihāsa_ and purāṇa as if they were Brahman will realise only very limited fruits such
 as can be reached with these names".
 
 
-[^29]:
-The eight kinds of siddhi: Aṇimā (contraction of one's body to the size of an atom, mahima (assuming a huge form) Laghimā (making one's body light) Garimā (making the body heavy), vaśitvam (mastery over self), aiśvaryam (lordship) prāpti the power of obtaining whatever one wants and prākāmyam (perfect freedom of the will.)
+[^29]: The eight kinds of siddhi: Aṇimā (contraction of one's body to the size of an atom, mahima (assuming a huge form) Laghimā (making one's body light) Garimā (making the body heavy), vaśitvam (mastery over self), aiśvaryam (lordship) prāpti the power of obtaining whatever one wants and prākāmyam (perfect freedom of the will.)
 
 
 It is true the Gītā says that for those who practise karmayoga, the effort will never perish or be in vain. What has been built up will, of course, remain built up, as it were, of stone, But we cannot say when the fruit will be attained, whether at the end of a kalpa or of a manvantara or of a yuga. Even sages like Vasiṣṭa, who ever acted in such a manner as to please God, had to wait long. Those who acted against the will of God like Vritra and Kshatrabandhu attained _mokṣa_  without any such delay. So it is difficult to say which individuals have done meritorious deeds that would lead to _mokṣa_  without delay. Similarly it is difficult to state who have done bad deeds leading to divine chastisement causing delay.

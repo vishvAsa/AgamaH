@@ -80,8 +80,7 @@ The ultimate goal or aim of life (_puruṣārtha_ ) (namely, _mokṣa_ ) and the
 [^f44]:  Uttara Gita: 3-10
 
 
-[^20]:
-( Alternative meaning): "what should be attained and what should be rejected ( see Tatparya
+[^20]: ( Alternative meaning): "what should be attained and what should be rejected ( see Tatparya
 Chandrika: Gita; XVI: 24)
 
 

@@ -65,8 +65,7 @@ OVERFLOWS INTO _KAIÑKARYA_ OR SERVICE.
 
 “The place from which the man who has meditated on _Brahman_ never returns- that place is attained by him (the _prapanna_)"; again, “Those great souls who have attained the highest reach me and are never afterwards born in _samsāra_, which is the abode of suffering and is ever-ch_aṅgī_ng. All the worlds including that of _Brahma_ are places, O Arjuna, from which souls return to _samsāra_. But the soul that has attained me, is, O Son of Kunti, never born again.", and further "When the man who has become dissociated from all contact with _prakṛti_ has seen _Brahman_ who is the 26th real, he will never be born again, because he has attained all that has to be attained.", and also "The heavenly bodies like the moon and the sun (the presiding deities that govern them) are born again in _samsāra_ (after reaching their high positions). But those who meditate on _Bhagavān_ with the _mantra_[^60] * of twelve syllables never come back to _samsāra_.
 
-[^60]:
-Namo Bhagavate Vasudevaya: with Om (or _aum_) preceding it.
+[^60]: Namo Bhagavate Vasudevaya: with Om (or _aum_) preceding it.
 
 
 (The same idea is evident also) in: "If a man utters the words Namo Nārāyaṇa with hands folded over the head (i.e. performs _prapatti_) and then goes (by the shining path), he will not be allowed to return to the world of _samsāra_, even if he furnishes security for his return to _Vaikuṇṭha_ " and in other passages like this.(end of page 218)
@@ -184,8 +183,7 @@ SANSKRIT _ŚLOKA_: (Summary of Part I)
 
 [^61] Having received the gracious look of the Lord (and of the _Ācārya_) and understood what is most essential and most important in the śāstras (vis, the three _mantra_s or rahasyas), having obtained a clear and accurate knowledge of his own self and of the Supreme Being and conquered his attachment to other interests in life, having acquired a knowledge of what is appropriate for the different kinds of adhikārīs, and realised the nature of the two _upāya_s (_bhakti_ and _prapatti_), having become troubled (in mind) (at his inability to adopt other _upāya_s) and performed _bharanyāsa_ with all its _aṅga_s and thus done what he ought to do, performing here in this world the adoration of the Lord (and His devotees ) without faults and in accordance with his state or _niṣṭhā_ and in the manner prescribed in the _śāstra_s and having (thereafter) cast off (both ) the gross (sthūla) and subtle prakṛti (body), some one there may be who enjoys _Bhagavān_ eternally.
 
-[^61]:
-This _śloka_  refers concisely to the gist of each of the twenty two chapters in the first part of the treatise.
+[^61]: This _śloka_  refers concisely to the gist of each of the twenty two chapters in the first part of the treatise.
 
 
 

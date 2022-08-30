@@ -85,8 +85,7 @@ Our spiritual leaders whom the Lord of Śrī that dwells on Hastigiri has taken 
 
 Bharanyāsa (or the surrender of the responsibility of protection) has been made (at the feet of) _Bhagavān_ (Hari) for reaching beyond _samsāra_. So also actions that can produce only limited pleasures have been given up just like forbidden actions. The sustenance of the body will continue in accordance with past _karma_ (which has begun to operate). So nothing needs to be done for it. Thereafter (i.e) after _prapatti_ the bounds[^54] * imposed by the Lord's command are scrupulously observed by wise men, (merely because it is the Lord's command.)
 
-[^54]:
-This means that the _nitya_ and _naimittika_ karmas which are ordained by the Lord in the śāstra s have still to be performed after _prapatti_, as, otherwise, there would be transgression of His command.
+[^54]: This means that the _nitya_ and _naimittika_ karmas which are ordained by the Lord in the śāstra s have still to be performed after _prapatti_, as, otherwise, there would be transgression of His command.
 
 
 

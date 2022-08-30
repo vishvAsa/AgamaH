@@ -97,8 +97,7 @@ which says "Whatever I may be in the body, the senses and the like, and whatever
 
 If a man has (somehow) come into possession of a cloth bag with the king's seal on it, he would return the bag (to the king), even though he does not know for certain the nature and character of the gem contained within it, in the hope that the king would take it back. So also even those who have not the intelligence to know, with perfect clearness, the nature, character and state of the soul as distinguished from the body may surrender their self or soul with the little knowledge that they possess. If they do so, even for that much, _Bhagavān_ will be prepared to remit the punishment for the theft consisting in making away with one's self (i. e. claiming it as one's own) from beginningless time. This idea contained in the _śāstra_s is what (Alavandar) has in mind. In the next *_śloka_  (53)[^53] it might appear as if he revoked the surrender (made before); but its meaning is only this : Even when a person is bent on surrendering his self without a knowledge of such things as the nature of his self, if he surrenders it with the notion that it is his own, like the presentation to a king of something belonging to oneself, it would not completely put an end to the crime of having stolen one's self. It does not mean that Alavandar considered his self surrender made in _śloka_  52 in accordance with the injunctions contained in the _śāstra_s, as having been made in ignorance.
 
-[^53]:
-“मम नाथ यदस्ति योऽस्म्यहं सकलं तद्धि तवैव माधव । नियतस्वमिति प्रबुद्धधीरथवा किन्नु समर्पयामि ते॥ आळवन्दार् स्तोत्रम्-५३
+[^53]: “मम नाथ यदस्ति योऽस्म्यहं सकलं तद्धि तवैव माधव । नियतस्वमिति प्रबुद्धधीरथवा किन्नु समर्पयामि ते॥ आळवन्दार् स्तोत्रम्-५३
 However O lord, what can I surrender to Thee, O Madhava, when I know that I and whatever belongs to me are always thine. As I have nothing of my own, I have nothing to surrender, I am only giving Thee what belongs to Thee",
 
 

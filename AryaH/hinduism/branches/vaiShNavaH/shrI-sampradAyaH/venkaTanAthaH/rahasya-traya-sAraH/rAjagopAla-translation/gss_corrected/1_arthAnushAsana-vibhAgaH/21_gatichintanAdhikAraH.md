@@ -51,8 +51,7 @@ As has been said in the following verses :- "The self' passes through a beautifu
 
 says :- " With these guides[^59] who are immortal, he reaches Vaikuṇṭha   and casts off this beautiful prison house of _samsāra_."
 
-[^59]:
-Fire, Day, Śuklapakṣa Uttarāyaṇa and the year arc, of course, inanimate; but the deities presiding over them (abhimani devatas) are the guides here referred to.)
+[^59]: Fire, Day, Śuklapakṣa Uttarāyaṇa and the year arc, of course, inanimate; but the deities presiding over them (abhimani devatas) are the guides here referred to.)
 
 
 

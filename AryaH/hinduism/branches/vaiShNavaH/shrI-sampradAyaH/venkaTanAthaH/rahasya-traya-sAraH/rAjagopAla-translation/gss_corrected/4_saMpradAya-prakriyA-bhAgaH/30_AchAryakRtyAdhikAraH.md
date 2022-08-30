@@ -26,8 +26,7 @@ SANSKRIT _ŚLOKA_:--
 
 The noble_ācārya_, who longs to attain the primaeval and heavenly abode of _Viṣṇu_, lights up the imperishable lamp of spiritual tradition (sampradaya) in some deserving disciple who has been tested in various and well-known ways and found fit (to receive the light). (He lights up this lamp) with true affection (sneha) when the disciple is in a state of mind (daśā) free from unworthy qualities (guṇa) like a well-tested and weil-burnished vessel with oil (sneha) poured into it and with a wick (daśā) made of pure threads (guṇa)[^119] .
 
-[^119]:
-The words guṇa. sneha and daśā have each two meanings respectively. 1. good qualities and thread 2. affection and oil; 3. state and wick.
+[^119]: The words guṇa. sneha and daśā have each two meanings respectively. 1. good qualities and thread 2. affection and oil; 3. state and wick.
 
 
 
@@ -96,8 +95,7 @@ TAMIL VERSE:
 
 Those lamps (of spiritual wisdom) which lighted the threshold of a certain house (in Tirukkovalur), when, of old, the cow.herd (_Śrī_ Kṛṣṇa) who vouchsafed His grace (even) to cattle, came of His own accord and squeezed Himself among those three ancient singers (the first three ālvārs)[^120] -Those lamps lighted there (i,e. their songs) dispelled the darkness of the land and revealed the path indicated in the Upaniṣads which form the concluding part of the four Vedas.
 
-[^120]:
-Peyalvar, Poygai Alvar, Bhutattalvar.
+[^120]: Peyalvar, Poygai Alvar, Bhutattalvar.
 
 
 
@@ -131,8 +129,7 @@ SANSKRIT _ŚLOKA_ :
 
 The _ācārya_ who obeys the successive commands of (the Lord who is) the first  _ācārya_ regulates (the minds and actions of) his śiṣyas by methods of instruction which create[^121] in them noble qualities similar to those in himself and which are like irresistible waves of the celestial sea of his boundless compassion. By doing so, he saves not only the disciple but himself also under the guise of saving him.
 
-[^121]:
-_Guṇasaṅkramah_ may mean also “which create a path for the entrance of their noble qualities into their disciples"
+[^121]: _Guṇasaṅkramah_ may mean also “which create a path for the entrance of their noble qualities into their disciples"
 
 
 

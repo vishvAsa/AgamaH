@@ -78,8 +78,7 @@ When the śiṣya hands over the great wealth of the truths contained in the gis
 
 man who imparts instruction in the mysteries of the science of the soul is without a tradition and teaches (merely) on the strength of his own reading of the books or of what he overheard from (a hiding place) behind a wall, he will, like one who wears stolen jewels. be ever in dread of those that see him. Moreover it may even become sinful, for it has been said :- "The _mantra_ which is learnt by mere chance by one in hiding, under some pretext or from books -- that _mantra_ will be of no avail; on the other hand, it may even cause evil". Even when a man has learnt from a _guru_ and then teaches, if he should learn and teach against the regulations enjoined for it, he would create disgust in the minds of onlookers like one who wears jewels made from the money given to him along with Kala[^122] *
 
-[^122]:
-Kala : When a man is dangerously ill and longs for recovery. he has the figure of a man (Kalapurusha) made with gingelly seeds, decks it with jewels and gives it to a poor man along with money. To receive such a gift is looked upon as a disgusting thing.
+[^122]: Kala : When a man is dangerously ill and longs for recovery. he has the figure of a man (Kalapurusha) made with gingelly seeds, decks it with jewels and gives it to a poor man along with money. To receive such a gift is looked upon as a disgusting thing.
 
 
 

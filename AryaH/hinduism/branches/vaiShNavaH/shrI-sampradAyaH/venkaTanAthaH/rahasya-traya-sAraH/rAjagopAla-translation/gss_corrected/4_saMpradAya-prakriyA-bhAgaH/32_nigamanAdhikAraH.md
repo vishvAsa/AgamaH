@@ -56,8 +56,7 @@ It has been said: "The _dharma_ followed by the good is too subtle, O monkey, to
 
 traverse it alone ?" and “The path leading to the house of Yama where there is no water for quenching the thirst, no staff for support, no shade to sit under, no house or lodge to rest in and which produces prolonged suffering." To one who follows the track of great men, there would be no such painful paths. They need not be tossed about to and fro like cotton cleaned of its seeds, combed, and carded before being spun and go up and come down, like the bucket in a picotah[‍?] , along the path of smoke (_dhūmādi_ route)[^123] described in the Pañcāgni _vidyā_ in the sixth chapter of Chāndogya upaniṣad,
 
-[^123]:
-Going up to _svarga_ and coming down to this world of _samsāra_ after the fruits of good deeds have been enjoyed there and repeating this process.
+[^123]: Going up to _svarga_ and coming down to this world of _samsāra_ after the fruits of good deeds have been enjoyed there and repeating this process.
 
 
 
@@ -114,8 +113,7 @@ SANSKRIT _ŚLOKA_:
 
 Imbibe the nectar of spiritual tradition which has come down from the Udayana of Vedanta (Kidambi Achan)[^124] which is fragrant with the odours streaming forth from the kitchen of the prince of sannyasins (_Śrī_ _Rāmānuja_) and fit to be enjoyed by the assembly of learned men (also gods).
 
-[^124]:
-Kidambi Achan, the disciple of _Śrī_ _Rāmānuja_, was in charge of the kitchen during his _ācārya_'s life-time
+[^124]: Kidambi Achan, the disciple of _Śrī_ _Rāmānuja_, was in charge of the kitchen during his _ācārya_'s life-time
 
 
 
@@ -217,8 +215,7 @@ TAMIL VERSE:
 
 I was so ignorant that I did not know even that eight and two make ten[^125] * ; Our Madhava who is eager to bestow on us Paramapada, which is most difficult of access, has taught me (through the ācāryas) the _mantra_ of eight syllables and the other two _mantra_s (_Dvaya_ and _Carama_ _śloka_). By His brilliant and noble speech saying: "I will see to the absolution of all your sids; Do not be afraid "-By these words I have attained the state of staunch faith,
 
-[^125]:
-it may mean also 'I did not know the _Dvaya_ (the two) nor did I know the _aṣṭākṣara_ (the eight )
+[^125]: it may mean also 'I did not know the _Dvaya_ (the two) nor did I know the _aṣṭākṣara_ (the eight )
 
 
 
