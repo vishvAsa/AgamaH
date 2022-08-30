@@ -257,7 +257,7 @@ THE FIVE THINGS TO BE KNOWN
 
 \* SUMMARY. 
 
-Thus Brahman, the object of attainment, is ever with Lakṣmī : He is infinite jnana and infinite bliss, and is opposed to all that is imperfect and objectionable. He is possessed of countless auspicious qualities like wisdom and power. He has a celestial and transcendent form of auspicious nature. He has two vibhūtis (rula and nitya ) which are His body; He has, for His play or sport (lila), the work of creating the world, of maintaining and controlling it and the like. 
+Thus Brahman, the object of attainment, is ever with Lakṣmī : He is infinite jñāna and infinite bliss, and is opposed to all that is imperfect and objectionable. He is possessed of countless auspicious qualities like wisdom and power. He has a celestial and transcendent form of auspicious nature. He has two vibhūtis (rula and nitya ) which are His body; He has, for His play or sport (lila), the work of creating the world, of maintaining and controlling it and the like. 
 
 THE NATURE OF THE INDIVIDUAL SELF: 
 
@@ -275,9 +275,9 @@ NOTE: This sumunarises Prapya (i.c.) the object of attainment, wiz. Brahman.42 C
 
 Īśvara Himself. "They " are.", it has been said, " of the same age as the Lord, eternal and free fronı all trace of imperfections," 
 
-They have never been in samsāra and are engaged in eternal service to the Lord o.g. Adapta (i.e.) Adisesba, Garnda and Vish. vaksena. 
+They have never been in saṁsāra and are engaged in eternal service to the Lord o.g. Adapta (i.e.) Adisesba, Garnda and Vish. vaksena. 
 
-The characteristic attributes common to all the three of them are being atomic (in size) (anu) and being of the nature of knowledge (jnana), bliss (ānanda), purity (amalatvam) and the like. They are all seshas to Bhagavan and are entirely subject to His will. One should also understand what is distinctive and peculiar to one as a mumukṣu or seeker after salvation. This has been (already) mentioned in the Introductory Chapter and will be described later on also. 
+The characteristic attributes common to all the three of them are being atomic (in size) (anu) and being of the nature of knowledge (jñāna), bliss (ānanda), purity (amalatvam) and the like. They are all seshas to Bhagavan and are entirely subject to His will. One should also understand what is distinctive and peculiar to one as a mumukṣu or seeker after salvation. This has been (already) mentioned in the Introductory Chapter and will be described later on also. 
 
 The essential nature of the jiva who seeks attainment should be thought of, while considering the letter in in om and in namas or namo in Tirumantra, and in the part nāra of the word Nārāyana, wherever it occurrs in the Ashtakṣara and the Dvayam, in the first person singular form " I seek refuge" prapadye in Duayain, in the second person singular of the word " thyself" in "surrender thyself" (vraja) and in the word thec (tva) and in the sentence " despair not" in the charamaśloka. 
 
@@ -319,7 +319,7 @@ THE FIVE THINGS TO BE KNOWN
 
 45 
 
-things as \*nāma being Brahman and are made to fall therefrom in the acquisition of minor results. Even those who are devoted to the soul or ātmā are made to meditate on their ātmā either in contact with matter or as separated from matter either as if it were Brahman or as the atma in its own essential datore. As the regolt of these four kinds of meditation, the jiva obtains petty enjoyments after which he falls back into samsāra. Even in the case of those who practise trae meditation on Brabman, and who meditate prima. rily on their own selves as having Brahman for their inner self or who think primarily of Brabman who has for His body their own selves - even they may be detained by the state of kaivalya or the enjoyment of their own selves, by the attainment of the It eight kiods of siddhi, by the attainment of the status of the vasus, or by the entrance into the body of Brahma and the like. Their (temporary) lapse from the highest aim or goal of life (namely, the enjoyment of the bliss of Brahman) is like that of & prince, whose coronation day has been already fixed, casting eyes on the servant maids who attended on hini while in prison. They are made to linger fondly over the body and the senses which are tbe result of past karma and those that are related to the body (like relatives) and the enjoyments connected with them. In this way they become subject to other pleasures than the final goal. Thus there are many forms of hindrance in the way of the attainment of Bhagavan. When a well thirty-two steps wide has to be leaped over, it makes no difference whether the man falls at the very first step or at the thirty-second step. In the same way wherever or at whatever stage the bindrance occurs, the jiva has not transcended samsūra, 
+things as \*nāma being Brahman and are made to fall therefrom in the acquisition of minor results. Even those who are devoted to the soul or ātmā are made to meditate on their ātmā either in contact with matter or as separated from matter either as if it were Brahman or as the atma in its own essential datore. As the regolt of these four kinds of meditation, the jiva obtains petty enjoyments after which he falls back into saṁsāra. Even in the case of those who practise trae meditation on Brabman, and who meditate prima. rily on their own selves as having Brahman for their inner self or who think primarily of Brabman who has for His body their own selves - even they may be detained by the state of kaivalya or the enjoyment of their own selves, by the attainment of the It eight kiods of siddhi, by the attainment of the status of the vasus, or by the entrance into the body of Brahma and the like. Their (temporary) lapse from the highest aim or goal of life (namely, the enjoyment of the bliss of Brahman) is like that of & prince, whose coronation day has been already fixed, casting eyes on the servant maids who attended on hini while in prison. They are made to linger fondly over the body and the senses which are tbe result of past karma and those that are related to the body (like relatives) and the enjoyments connected with them. In this way they become subject to other pleasures than the final goal. Thus there are many forms of hindrance in the way of the attainment of Bhagavan. When a well thirty-two steps wide has to be leaped over, it makes no difference whether the man falls at the very first step or at the thirty-second step. In the same way wherever or at whatever stage the bindrance occurs, the jiva has not transcended samsūra, 
 
 \* NOTE:- In the Chandogya Upaniṣad VII chapter, it is stated as follows:- \*He who worships nama or names like rig veda, sama veda, Itihasa and purāṇa as if they were Brabman will realise only very limited fruits such as can be reached with these namos". 
 
@@ -341,7 +341,7 @@ All these bindrances to mokṣa are to be understood in whatever is contrary to 
 
 THE FIVE THINGS TO BE KNOWN 
 
-sands of samsāra and desire to hasten towards the path leading to bliss. 
+sands of saṁsāra and desire to hasten towards the path leading to bliss. 
 
 TAMIL VERSE: 
 

@@ -41,7 +41,7 @@ PRAPATTI IS OPEN TO ALL: If such qualifications exist, prapatti is certainly ope
 
 114 TAMIL VERSB: 
 
-The devotees of the Lord ( Acharyas) have themselves under stood and bave made us (also ) understond the eternal Lord who is the origin of all things and who is anxious to save us, being fall of the might of mercy, so that all persons from the Brabmin to the Chandala and especially those who feel niost the sufferings of samsāra may, in their helplessness and without seeking any other saviour or any other fruit, approach Him and seek refuge under Him. 
+The devotees of the Lord ( Acharyas) have themselves under stood and bave made us (also ) understond the eternal Lord who is the origin of all things and who is anxious to save us, being fall of the might of mercy, so that all persons from the Brabmin to the Chandala and especially those who feel niost the sufferings of saṁsāra may, in their helplessness and without seeking any other saviour or any other fruit, approach Him and seek refuge under Him. 
 
 SANSKRIT SLOKA: 
 

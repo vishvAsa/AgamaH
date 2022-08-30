@@ -123,7 +123,7 @@ Even (the omniscient and omnipotent) Mayan cannot requite the ācārya who dispe
 मग्नानां भविनां भवार्णवसमुत्ताराय नारायणः ॥ ७२ ॥
 </details>
 
-The tip of the ācārya's tongue shines bright being the throne on which is seated (the god) Hayagrīva. So we do not consider any deity as being higher than the ācārya. Even Nārāyaṇa plays the part of the ācārya without ever giving up His supreme greatness, in order to save those who are suck in the sea of samsāra.
+The tip of the ācārya's tongue shines bright being the throne on which is seated (the god) Hayagrīva. So we do not consider any deity as being higher than the ācārya. Even Nārāyaṇa plays the part of the ācārya without ever giving up His supreme greatness, in order to save those who are suck in the sea of saṁsāra.
 
 इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु श्रीमद्रहस्यत्रयसारे  
 शिष्यकृत्याधिकार एकत्रिंशः  

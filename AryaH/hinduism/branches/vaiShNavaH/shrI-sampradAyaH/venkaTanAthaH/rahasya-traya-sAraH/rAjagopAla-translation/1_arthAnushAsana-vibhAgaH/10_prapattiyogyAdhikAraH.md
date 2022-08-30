@@ -47,7 +47,7 @@ If, without an eager and impatient desire for immediate mokṣa, a person who wa
 
 THE PRAMĀṆAS IN SUPPORT :
 
-The nature of the specific competency for prapatti is evident from the following authoritative passages and from spiritual tradition : "Having been abandoned by his own father (Indra), the gods and the great sages, he, (i.e.) Kakasura, wandered about the three worlds and finally took refuge under Rāma alone", "I am the abode of all transgressions; I have no means or upāya to save myself and I have nothing else to attain besides Thee"; "I seek" the refuge of Thy feet, O Śaraṇya (Saviour): I have no other upāya and nothing else to attain than Thee": "*Finding that there is no upāya for leaping over samsāra even in all the endless future, etc." : "I, who am aware that there is no upāya for me in all the thousands of crores of kalpas other than performing prapatti at Thy two lotus-like feet", and, “I who have no other refuge and no other saviour etc."
+The nature of the specific competency for prapatti is evident from the following authoritative passages and from spiritual tradition : "Having been abandoned by his own father (Indra), the gods and the great sages, he, (i.e.) Kakasura, wandered about the three worlds and finally took refuge under Rāma alone", "I am the abode of all transgressions; I have no means or upāya to save myself and I have nothing else to attain besides Thee"; "I seek" the refuge of Thy feet, O Śaraṇya (Saviour): I have no other upāya and nothing else to attain than Thee": "*Finding that there is no upāya for leaping over saṁsāra even in all the endless future, etc." : "I, who am aware that there is no upāya for me in all the thousands of crores of kalpas other than performing prapatti at Thy two lotus-like feet", and, “I who have no other refuge and no other saviour etc."
 
 PRAPATTI IS OPEN TO ALL:
 
@@ -69,7 +69,7 @@ If such qualifications exist, prapatti is certainly open to all as an upāya, si
 अन्दमिलादियै यन्बरऱिन्दऱिवित्तनरे. (17)
 </details>
 
-The devotees of the Lord ( ācārya s) have themselves understood and have made us (also ) understand the eternal Lord who is the origin of all things and who is anxious to save us, being full of the might of mercy, so that all persons from the Brahmin to the Caṇḍāla and especially those who feel most the sufferings of samsāra may, in their helplessness and without seeking any other saviour or any other fruit, approach Him and seek refuge under Him.
+The devotees of the Lord ( ācārya s) have themselves understood and have made us (also ) understand the eternal Lord who is the origin of all things and who is anxious to save us, being full of the might of mercy, so that all persons from the Brahmin to the Caṇḍāla and especially those who feel most the sufferings of saṁsāra may, in their helplessness and without seeking any other saviour or any other fruit, approach Him and seek refuge under Him.
 
 <details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 

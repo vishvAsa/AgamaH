@@ -37,7 +37,7 @@ Some speak of five things and some of six but there is Do real difference betwee
 32 to 47
 ## CHAPTER V. The three 'Reals' or Tattvas: 
 
-Classification of tattvas or reals' and its use - The Jiva or experiencing subject. The nature of the Jiva ( baddhas, muktas and nitras) . dharma bhūtajnana - the three kinds of pop-septient ibidge (stiddhasattvam; prakriti ; its essential pature and activity - Kala or Time ) Tswara :- His svarüpa and qualities. His rūpas or forms ; (11 Para; (2) Vyuhas; (3) Vibhavas; (4) Archā; and (5) Hārda - The nature of the Avatārs - Laksmi; Her status and role. Other classifications of the tattvas. 48 to 71 
+Classification of tattvas or reals' and its use - The Jiva or experiencing subject. The nature of the Jiva ( baddhas, muktas and nitras) . dharma bhūtajñāna - the three kinds of pop-septient ibidge (stiddhasattvam; prakriti ; its essential pature and activity - Kala or Time ) Tswara :- His svarüpa and qualities. His rūpas or forms ; (11 Para; (2) Vyuhas; (3) Vibhavas; (4) Archā; and (5) Hārda - The nature of the Avatārs - Laksmi; Her status and role. Other classifications of the tattvas. 48 to 71 
 
 ## CHAPTER VI. The truth concerning the Supreme Deity: 
 
@@ -54,7 +54,7 @@ The study of the differences among the three Reals leads to an aversion from the
 The Bhakta and the Prapanna, ukti nishta and Acharya nishta modes of prapatti; residence in holy places and the like only aids to the above; difference between Bhakta and Prapanna ; but the final fruit vit., mokṣa the same for both bhakta and prapanna. 94 to 102 
 
 ## CHAPTER IX. The classification of the means or upāya for attainning mukti, Upaya and upcya
-Bhagavan is both upāya and upeya ; karma yoga, jnana yoga and bhakti yoga; bhakti and prapatti; the difference between them. 103 to 110 
+Bhagavan is both upāya and upeya ; karma yoga, jñāna yoga and bhakti yoga; bhakti and prapatti; the difference between them. 103 to 110 
 
 ## CHAPTER X. The fitness for Prapatti : 
 
@@ -73,7 +73,7 @@ The nature of the angi (prapatti); the manner of performing bharanyāsa ; Īśva
 XLIV Pages. 
 
 ## CHAPTER XIII. The man who has done what ought to be done
-The prapanna as one who has done what he onght to do and has won his goal; illustration from Sri Rāmanuja's Saranăgatigadya ; the marks of the men wbo has done what be ougbt to do. 
+The prapanna as one who has done what he onght to do and has won his goal; illustration from Sri Rāmanuja's Saranăgatigadya ; the marks of the men who has done what be ougbt to do. 
 
 136 to 140 
 

@@ -99,7 +99,7 @@ Having carefully studied the beautiful hymns sung with delight in Tamil by seers
 दॊल्वऴिये नल्वऴिगळ् तुणिवार्गट्के. (2)
 </details>
 
-To those who venture to attain release from the bondage of samsāra, the ancient path indicated to us by the spotless Madhurakavi  by his own example is the only safe[^3]  path, for while there is Śrīkṛṣṇa, the great cowherd, who incarnated solely for the sake of his devotees to confer bliss on them, to be their refuge, to be their final goal, to stand in relation to them as mother, father, brother and so on, to change their desire for the pleasures of this world into a desire for Himself, to remove all their sins, to show them infinite compassion, to reveal the truth, and so also to bring about in them a likeness to Himself - while there is Śrīkṛṣṇa ever ready to do all this,[^4] he sought only the feet of the sage Satagopa (Nammālvār) who rendered in Tamil the truths contained in the Vedas which are otherwise hard to understand.
+To those who venture to attain release from the bondage of saṁsāra, the ancient path indicated to us by the spotless Madhurakavi  by his own example is the only safe[^3]  path, for while there is Śrīkṛṣṇa, the great cowherd, who incarnated solely for the sake of his devotees to confer bliss on them, to be their refuge, to be their final goal, to stand in relation to them as mother, father, brother and so on, to change their desire for the pleasures of this world into a desire for Himself, to remove all their sins, to show them infinite compassion, to reveal the truth, and so also to bring about in them a likeness to Himself - while there is Śrīkṛṣṇa ever ready to do all this,[^4] he sought only the feet of the sage Satagopa (Nammālvār) who rendered in Tamil the truths contained in the Vedas which are otherwise hard to understand.
 
 [^3]: safe path: This means Bhakti and Prapatti which lead to mokṣa . Acārya bhakti is called bhakti and prapatti as it leads to them.
 
@@ -270,7 +270,7 @@ We that cling to the noble qualities and sweet words of the benevolent sage, Rā
 आळवन्दारडियोम् पडियोमिनियल्वऴक्के. (5)
 </details>
 
-We, who were caught up in the stream of samsāra from time immemorial, and have, now, by a change of fortune, come to acquire a knowledge of our true spiritual nature, consider that Śrī Yāmunācārya (Aḷavandār) came into this world to protect us from being sunk again in the mire of samsāra and we will ever be attached to the feet of the sage (Aḷavandār) who triumphed over his opponents and blessed us with his writings. Never more shall we read the works of heretics.
+We, who were caught up in the stream of saṁsāra from time immemorial, and have, now, by a change of fortune, come to acquire a knowledge of our true spiritual nature, consider that Śrī Yāmunācārya (Aḷavandār) came into this world to protect us from being sunk again in the mire of saṁsāra and we will ever be attached to the feet of the sage (Aḷavandār) who triumphed over his opponents and blessed us with his writings. Never more shall we read the works of heretics.
 
 <details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 

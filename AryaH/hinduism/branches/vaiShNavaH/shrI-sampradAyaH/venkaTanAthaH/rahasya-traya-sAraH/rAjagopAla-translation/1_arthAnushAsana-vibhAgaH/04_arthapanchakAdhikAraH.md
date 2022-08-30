@@ -103,7 +103,7 @@ servant and thus find delight?" (This is also prayer for service ). "Thy [^f67] 
 
 [^f74]: Tiruvoymozhi: 4-9-10
 
-"Am I [^f75] still to remain in samsāra without enjoying you in the company of Lakṣmī  ?"
+"Am I [^f75] still to remain in saṁsāra without enjoying you in the company of Lakṣmī  ?"
 
 [^f75]: Tieuvoymozhi 6-9-3
 
@@ -329,13 +329,13 @@ THE NATURE OF THE INDIVIDUAL SELF:
 
 Now for the individual self (Pratyak ātmā) which is to attain Brahman :
 
-We should know that the individual self is in three categories : Baddha or those who are in the bondage of samsāra, Mukta, or those who have attained release from samsāra and Nitya or those who are eternally free from bondage. The seeker after salvation should also know the peculiar features which distinguish him as a seeker of the means of mukti, from other baddhas.
+We should know that the individual self is in three categories : Baddha or those who are in the bondage of saṁsāra, Mukta, or those who have attained release from saṁsāra and Nitya or those who are eternally free from bondage. The seeker after salvation should also know the peculiar features which distinguish him as a seeker of the means of mukti, from other baddhas.
 
 The baddhas (or the bound) are those caught up in the cycle of births and deaths owing to the stream of beginningless karma. They range from Brahma to the blade of grass and are called kṣetrajnāh. (Brahma, gods, men, beasts, trees, grass and so on ).
 
 The muktās (or released souls) are those who, by adopting the means (upāya ) prescribed in the śāstras, have obtained the Lord's grace, permanently transcended the cycle of births and deaths, and have obtained unsurpassed bliss as a result of the unrestricted enjoyment of Bhagavān.
 
-The nityās (the eternally free) are those whose knowledge has never undergone contraction and who are, in this respect, like Iśvara Himself. "They [^27] are", it has been said, " of the same age as the Lord, eternal and free from all trace of imperfections," They have never been in samsāra and are engaged in eternal service to the Lord e.g. Ananta (i.e.) Adiśeṣa, Garuḍa and Viṣvaksena.
+The nityās (the eternally free) are those whose knowledge has never undergone contraction and who are, in this respect, like Iśvara Himself. "They [^27] are", it has been said, " of the same age as the Lord, eternal and free from all trace of imperfections," They have never been in saṁsāra and are engaged in eternal service to the Lord e.g. Ananta (i.e.) Adiśeṣa, Garuḍa and Viṣvaksena.
 
 [^27]: has never undergone contraction
 
@@ -369,7 +369,7 @@ of the truth and (2) erroneous knowledge and so also (3) subjection to sense-ple
 
 [^f129]: Tiruvoymozhi: 6-9-9
 
-Even those who practise yoga are made to practise it in connection with petty deities or in the meditations of such inanimate things as [^f130] nāma[^28] being Brahman and are made to fall therefrom in the acquisition of minor results. Even those who are devoted to the soul or ātmā are made to meditate on their ātmā either in contact with matter or as separated from matter either as if it were Brahman or as the atma in its own essential nature. As the result of these four kinds of meditation, the jīva obtains petty enjoyments after which he falls back into samsāra. Even in the case of those who practise true meditation on Brahman, and who meditate primarily on their own selves as having Brahman for their inner self or who think primarily of Brahman who has for His body their own selves - even they may be detained by the state of kaivalya or the enjoyment of their own selves, by the attainment of the [^f131] eight kinds[^29] of siddhi, by the attainment of the status of the vasus, or by the entrance into the body of Brahma and the like. Their (temporary) lapse from the highest aim or goal of life (namely, the enjoyment of the bliss of Brahman) is like that of a prince, whose coronation day has been already fixed, casting eyes on the servant maids who attended on hini while in prison. They are made to linger fondly over the body and the senses which are the result of past karma and those that are related to the body (like relatives) and the enjoyments connected with them. In this way they become subject to other pleasures than the final goal. Thus there are many forms of hindrance in the way of the attainment of Bhagavān. When a well thirty-two steps wide has to be leaped over, it makes no difference whether the man falls at the very first step or at the thirty-second step. In the same way wherever or at whatever stage the hindrance occurs, the jīva has not transcended samsāra.
+Even those who practise yoga are made to practise it in connection with petty deities or in the meditations of such inanimate things as [^f130] nāma[^28] being Brahman and are made to fall therefrom in the acquisition of minor results. Even those who are devoted to the soul or ātmā are made to meditate on their ātmā either in contact with matter or as separated from matter either as if it were Brahman or as the atma in its own essential nature. As the result of these four kinds of meditation, the jīva obtains petty enjoyments after which he falls back into saṁsāra. Even in the case of those who practise true meditation on Brahman, and who meditate primarily on their own selves as having Brahman for their inner self or who think primarily of Brahman who has for His body their own selves - even they may be detained by the state of kaivalya or the enjoyment of their own selves, by the attainment of the [^f131] eight kinds[^29] of siddhi, by the attainment of the status of the vasus, or by the entrance into the body of Brahma and the like. Their (temporary) lapse from the highest aim or goal of life (namely, the enjoyment of the bliss of Brahman) is like that of a prince, whose coronation day has been already fixed, casting eyes on the servant maids who attended on hini while in prison. They are made to linger fondly over the body and the senses which are the result of past karma and those that are related to the body (like relatives) and the enjoyments connected with them. In this way they become subject to other pleasures than the final goal. Thus there are many forms of hindrance in the way of the attainment of Bhagavān. When a well thirty-two steps wide has to be leaped over, it makes no difference whether the man falls at the very first step or at the thirty-second step. In the same way wherever or at whatever stage the hindrance occurs, the jīva has not transcended saṁsāra.
 
 [^f130]:  In the Chandogya Upaniṣad VII chapter, it is stated as follows:- He who worships nama or names like rig veda, sama veda, Itihāsa and purāṇa as if they were Brahman will realise only very limited fruits such as can be reached with these names".*
 
@@ -392,7 +392,7 @@ How can this chief hindrance which is of the nature of divine punishment resulti
 
 [^f133]: Śrī Bhāṣya: 1-4-1
 
-All these hindrances to mokṣa  are to be understood in whatever is contrary to what is ordained in the three mysteries (mantras) (e. g. the feeling that the jīva is independent and acts for his own purposes which is opposed to the truths shown in the aṣṭākṣara), in the egoism, or sense of 'my' or 'mine' in the genitive mama in namah (na + mama) and also in the words ‘all thy sins' in the carama śloka . These have to be thought of, so that one may feel the suffering which lies in walking on the hot sands of samsāra and desire to hasten towards the path leading to bliss.
+All these hindrances to mokṣa  are to be understood in whatever is contrary to what is ordained in the three mysteries (mantras) (e. g. the feeling that the jīva is independent and acts for his own purposes which is opposed to the truths shown in the aṣṭākṣara), in the egoism, or sense of 'my' or 'mine' in the genitive mama in namah (na + mama) and also in the words ‘all thy sins' in the carama śloka . These have to be thought of, so that one may feel the suffering which lies in walking on the hot sands of saṁsāra and desire to hasten towards the path leading to bliss.
 
 <details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 

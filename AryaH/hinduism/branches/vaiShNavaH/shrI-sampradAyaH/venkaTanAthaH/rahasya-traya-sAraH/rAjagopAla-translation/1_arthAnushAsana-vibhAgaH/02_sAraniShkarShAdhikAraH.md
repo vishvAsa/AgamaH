@@ -41,7 +41,7 @@ These, then, are the "three mysteries or mantras" which are the best of what sho
 न्त्युपनिषदमृताब्धेरुत्तमं सारमार्याः ॥
 </details>
 
-What is opposed to the way of the Vedas is like poison; even in the Śrutis or Vedas, those parts which treat of the means of attaining the enjoyment of material goods (Prakṛti bhoga) and of the enjoyment of one's own atma or self (purusha-bhoga) or (Kaivalya) are not salutary. Therefore the wise who are afraid of the cycle of births and deaths ( samsāra) seek the best essence extracted out of the ocean of nectar called the Upaniṣads which has been guarded with great care by sages (i.e.) previous ācāryas for our benefit
+What is opposed to the way of the Vedas is like poison; even in the Śrutis or Vedas, those parts which treat of the means of attaining the enjoyment of material goods (Prakṛti bhoga) and of the enjoyment of one's own atma or self (purusha-bhoga) or (Kaivalya) are not salutary. Therefore the wise who are afraid of the cycle of births and deaths ( saṁsāra) seek the best essence extracted out of the ocean of nectar called the Upaniṣads which has been guarded with great care by sages (i.e.) previous ācāryas for our benefit
 
 THE GREAT VALUE OF THE THREE MANTRAS:
 

@@ -28,7 +28,7 @@ WHAT IS BEST
 
 19 
 
-of the enjoyment of one's own atma or self (purusha-bhoga) or (Kaivalya) are not salutary. Therefore the wise who are afraid of tbe cycle of births and deaths ( samsāra) seek the best essence extracted out of the ocean of nectar called the Upaniṣads which has been guarded with great care by sages (i.e.) previous ācāryas for our benefit 
+of the enjoyment of one's own atma or self (purusha-bhoga) or (Kaivalya) are not salutary. Therefore the wise who are afraid of tbe cycle of births and deaths ( saṁsāra) seek the best essence extracted out of the ocean of nectar called the Upaniṣads which has been guarded with great care by sages (i.e.) previous ācāryas for our benefit 
 
 THE GREAT VALUE OF THE THREE MANTRAS: 
 
