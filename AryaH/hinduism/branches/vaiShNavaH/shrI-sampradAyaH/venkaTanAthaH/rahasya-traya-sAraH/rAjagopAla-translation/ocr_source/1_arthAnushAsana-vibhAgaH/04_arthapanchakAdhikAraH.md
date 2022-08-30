@@ -175,7 +175,7 @@ Bhagavan should be thought of, also, es having a trans cendent, super sensuous (
 
 “The body of the Supreme Being is not constituted of the (five) elements." 
 
-His form \*\*is not constituted of prakriti or matter por formed of flesh, lymph or bone." 
+His form \*\*is not constituted of prakr̥ti or matter por formed of flesh, lymph or bone." 
 
 " This form shus four arms, is supremely excellent, and is in Vaikuṇṭha." 
 
@@ -301,7 +301,7 @@ THE HINDRANCE TO ATTAINMENT,
 
 The bindrances to the attainment are the multitude of obstacles that stand in the way of our attaining mokṣa, such as ignorance (avidyā), karma and vāsana or impression left in the mind by karma in previous births, 
 
-The foremost of these bindrances is the punishment ipflicted by Bhagavan for disobedience of His orders contionally from time immemorial. This chastisement causes association with prakriti or matter with its three qualities (satva, rajas and tamas) and thereby contraction of knowledge. It brings about a connec tion between the soul on the one hand, and the body, the senses and the like which are specific modifications of matter (or prakriti) on the other. Further it makes the jīva subject to the sway of the body and the senses. To quote the words of the Alwar, “With the 'strong ropes of my sins, Thou hast bound me tightly with the body, covered the sores within the body (like flesh, fat and blood) with the skin and let me walk away from Thee." "With the body given by Thee at the time of creation, I have been wandering about to the satisfaction of the body." This chastisement often consists in placing the jiva in the body of animals which can have no knowledge of the Sāstras and cannot act in accordance with them. Even in births like those of men, it copfounds the mind with the views of infidels and heretics and, even in the case of those who escape this, causes, through the concealing agency of the peacock feather of primal matter (moola-prakriti) and its modifications, the bodies and the senses, (1) ignorance 
+The foremost of these bindrances is the punishment ipflicted by Bhagavan for disobedience of His orders contionally from time immemorial. This chastisement causes association with prakr̥ti or matter with its three qualities (satva, rajas and tamas) and thereby contraction of knowledge. It brings about a connec tion between the soul on the one hand, and the body, the senses and the like which are specific modifications of matter (or prakr̥ti) on the other. Further it makes the jīva subject to the sway of the body and the senses. To quote the words of the Alwar, “With the 'strong ropes of my sins, Thou hast bound me tightly with the body, covered the sores within the body (like flesh, fat and blood) with the skin and let me walk away from Thee." "With the body given by Thee at the time of creation, I have been wandering about to the satisfaction of the body." This chastisement often consists in placing the jiva in the body of animals which can have no knowledge of the Sāstras and cannot act in accordance with them. Even in births like those of men, it copfounds the mind with the views of infidels and heretics and, even in the case of those who escape this, causes, through the concealing agency of the peacock feather of primal matter (moola-prakr̥ti) and its modifications, the bodies and the senses, (1) ignorance 
 
 72. Tiruvoymozhi. 5-1-5. 
 

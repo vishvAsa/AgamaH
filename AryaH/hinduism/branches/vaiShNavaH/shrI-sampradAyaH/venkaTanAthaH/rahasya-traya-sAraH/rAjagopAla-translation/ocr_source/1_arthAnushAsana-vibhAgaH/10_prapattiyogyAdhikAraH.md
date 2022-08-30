@@ -13,7 +13,7 @@ Fitness (for Bhakti or Prapatti) consists in a combination of desire (for the fr
 
 THE MEANING OF COMPETENCY OR ADHIKARA: 
 
-It is necessary that one should know the special qualifications and the like required in a person who intends to adopt nyasa vidya (prapatti) without any desire for the other upāyas in the quest for the goal that is desired. Competency (adhikara ) consists in 
+It is necessary that one should know the special qualifications and the like required in a person who intends to adopt nyasa vidyā (prapatti) without any desire for the other upāyas in the quest for the goal that is desired. Competency (adhikara ) consists in 
 
 NOTE 1: Ability which is threefold - The ability to understand the meaning of śāstras: the ability to perform what is ordained in them and the competence as laid down in the śāstras according to caste, qualities and the like. 
 

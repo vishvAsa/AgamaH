@@ -9,9 +9,9 @@ OF QUALIFIED PERSONS.
 
 SANSKRIT SLOKA: 
 
-Even though the desire for mokṣa is the same, a distinction arises among those who practise the vidyās or forms of meditation prescribed in the s'rutis, &s a result of their respective qualifications or competence in regard to such vidyās as Madhuvidyā, Sadvidya and so on. In the same way, & distinction arises between the adoption of prapatti and other vidyās (which are of the nature of bhakti or devout meditation), as a result of an unseen power or destiny depending on past karma which brooks no questioning. 
+Even though the desire for mokṣa is the same, a distinction arises among those who practise the vidyās or forms of meditation prescribed in the s'rutis, &s a result of their respective qualifications or competence in regard to such vidyās as Madhuvidyā, Sadvidyā and so on. In the same way, & distinction arises between the adoption of prapatti and other vidyās (which are of the nature of bhakti or devout meditation), as a result of an unseen power or destiny depending on past karma which brooks no questioning. 
 
-(NOTE:Some aspirants for mokṣa are qualified for madhu vidya and others for sadvidya as a result of their respective competence or special forms of aspiration. So also some are qualified for prapatti, while others are for bhakti.) 
+(NOTE:Some aspirants for mokṣa are qualified for madhu vidyā and others for sadvidyā as a result of their respective competence or special forms of aspiration. So also some are qualified for prapatti, while others are for bhakti.) 
 
 TWO KINDS OF ADHIKARIS: 
 

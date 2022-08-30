@@ -40,7 +40,7 @@ To all seekers of mokṣa (whether bhaktas or prapannas), the surrender of one's
 
 IS WARA IS THE PRINCIPAL BENEFICIARY : 
 
-If it is asked how, when the Jiva who performs prapatti as the upāya for the sake of some gain or fruit is the person interes. ted in the fruit, Īśvara becomes the chief beneficiary, the answer is as follows:-Īśvara becomes the chief beneficiary, because, just like the modifications of acit or matter, the benefits (purushār. thas) granted by Him to cit (jiva) are pleasing to Him. Being the seshi of all, He is the chief beneficiary. To a man of culti vated tastes, who is not in need of anything, the delight in melting dolls made of metals and shaping them into ornaments and wear. ing them in admiration of their beauty is not different (in kind) from the delight enjoyed by him in keeping & sentient being like a parrot in a cage and feeding it with milk and seeing it fly accord ing to His pleasure. 
+If it is asked how, when the Jīva who performs prapatti as the upāya for the sake of some gain or fruit is the person interes. ted in the fruit, Īśvara becomes the chief beneficiary, the answer is as follows:-Īśvara becomes the chief beneficiary, because, just like the modifications of acit or matter, the benefits (purushār. thas) granted by Him to cit (jiva) are pleasing to Him. Being the seshi of all, He is the chief beneficiary. To a man of culti vated tastes, who is not in need of anything, the delight in melting dolls made of metals and shaping them into ornaments and wear. ing them in admiration of their beauty is not different (in kind) from the delight enjoyed by him in keeping & sentient being like a parrot in a cage and feeding it with milk and seeing it fly accord ing to His pleasure. 
 
 SANSKRIT SLOKA 
 

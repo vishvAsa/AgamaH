@@ -15,7 +15,7 @@ REASONS FOR RENDERING SERVICE
 
 TO BHĀGAVATĀS : 
 
-If it is asked here how it can be stated that the service of Bhagavan extends up to the service of His devotees (the Bbaga vatas), the answer is as follows:- It has been said in the Vedartha Sangraha: "He is the śeṣa whose svarība or essential nature is such as is chosen on account of the desire to promote the glory of another and that another is the s'eslii." So in regard to the Supreme Ruler of all, the Jiva who is the śeṣa is bound to pro mote His glory. That glory will depend on the nature of the śeṣa, whether it be sentient or non-sentient. It may be asked, "What is the glory that the jiva is capable of conferring on the Supreme Being? With his body and the like, he can copfer only such glory as non-sentient things do. So this service is common to him and acit. The special glory that he can be the cause of promoting must be by ineans of his intelligence or chaitanya, \* When the 
+If it is asked here how it can be stated that the service of Bhagavan extends up to the service of His devotees (the Bbaga vatas), the answer is as follows:- It has been said in the Vedartha Sangraha: "He is the śeṣa whose svarība or essential nature is such as is chosen on account of the desire to promote the glory of another and that another is the s'eslii." So in regard to the Supreme Ruler of all, the Jīva who is the śeṣa is bound to pro mote His glory. That glory will depend on the nature of the śeṣa, whether it be sentient or non-sentient. It may be asked, "What is the glory that the jiva is capable of conferring on the Supreme Being? With his body and the like, he can copfer only such glory as non-sentient things do. So this service is common to him and acit. The special glory that he can be the cause of promoting must be by ineans of his intelligence or chaitanya, \* When the 
 
 NOTE:- In the sentences that follow the author points out the different ways in which different kinds of people (including those who violate his com mands ) promote His glory as His śeṣas. 
 
@@ -37,7 +37,7 @@ THE LORD IS PLEASED AT THE SERVICE RENDERED
 
 TO HIS DEVOTEES : 
 
-When a man gives rise to Īśvara's lila rasa by actions opposed to the sāstras, it will end in his ruin. If, in the state of bondage, he acts according to the Lord's will as revealed in the sāstras and, in the state of mokṣa, by direct peroeption of the Lord's will, he will not only promote the Lord's lilū rasa and bhoga but incidentally attain his own desired objects. When the Jiva acts on any occasion consciously, since his desired fruit, incidental though it be, has to come from the will of the lord, the latter has to be ascertained from the s'astras which disclose that the service rendered to His devotees is most delightful to him. 
+When a man gives rise to Īśvara's lila rasa by actions opposed to the sāstras, it will end in his ruin. If, in the state of bondage, he acts according to the Lord's will as revealed in the sāstras and, in the state of mokṣa, by direct peroeption of the Lord's will, he will not only promote the Lord's lilū rasa and bhoga but incidentally attain his own desired objects. When the Jīva acts on any occasion consciously, since his desired fruit, incidental though it be, has to come from the will of the lord, the latter has to be ascertained from the s'astras which disclose that the service rendered to His devotees is most delightful to him. 
 
 3. Aḷavandār Stotram : 46 
 

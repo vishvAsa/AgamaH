@@ -27,7 +27,7 @@ The principle of tatkratu states only that the qualities (and forms) meditated u
 
 it does not exclude other qualities (and forms ). Service to the Lord is also the object of attainment (upeya ) as it is the over-flow of the experience (of Bhagavan ) which is attained. 
 
-NOTE:--- The principle of tatkralu or tatkralu nyaya is to the effect that in whatever form or maoner and with whatever qualities ons meditates on God - in that very form and with those very qualities will one attaio Him. Though service to the Lord is not specifically prescribed in a vidya, it will be attained after mukti. 
+NOTE:--- The principle of tatkralu or tatkralu nyaya is to the effect that in whatever form or maoner and with whatever qualities ons meditates on God - in that very form and with those very qualities will one attaio Him. Though service to the Lord is not specifically prescribed in a vidyā, it will be attained after mukti. 
 
 BHAGAVÃN IS BOTH UPAYA AND UPEYA: 
 
@@ -105,7 +105,7 @@ That the two are different from each other is evident from the adhikaraṇa or s
 
 It may be seen that, as in upāsanās there are differences in mantras and the like (angas), there are, in Nyāsa Vidya also, differences stated in the different branches of the vedas (Stīkhas) and in the different samhitas of the agamas. Just as obeisance (namaskāra) is divided into three forms, verbal, mental and bodily, so prapatti, too, is said to be of different kinds owing to the excess of one or other of these differences. It has been stated by some that, just as obeisance becomes complete when all the three, verbal, mental and bodily are combined, prapatti, too, becomes complete when verbal and bodily actions are combined with mental states or jñāna. This statement of theirs should be understood as meaning that mental prapatti is full and complete and that verbal and bodily activities are, as it were, the overflow of the mental prapatti (jñāna). (It should not be taken to mean that prapatti is incomplete when verbal and bodily actions are absent). We have already stated that all these are productive of the desired result or fruit in accordance with the competency of those who adopt them, 
 
-NOTE:--- \* Commentators of Brahma sutras like Sudarsana Bhatta point out that this difference in names applies specially to nyasa, since it is a different word from 'contemplate', \*meditate', and 'adore' which are used in connec. tion with the other vidyas and which mean thc samo thing, whereas nyasa has a different meaning (altogether). 
+NOTE:--- \* Commentators of Brahma sutras like Sudarsana Bhatta point out that this difference in names applies specially to nyasa, since it is a different word from 'contemplate', \*meditate', and 'adore' which are used in connec. tion with the other vidyās and which mean thc samo thing, whereas nyasa has a different meaning (altogether). 
 
 110 TAMIL VERSE: 
 

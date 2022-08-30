@@ -23,7 +23,7 @@ We have already described below how the jiva ( Kshetrajna), who has been wanderi
 
 232 CHAPTER 
 
-prapanna or bhakta, he readers faultless service in accordance with that state and in accordance with the s'astras, for the remain. ing term of his life here. We have already described ), how, after the fall of the body, he reaches a region free from the touch of matter (prakriti) by journeying along the shining path begion. ing with archis and bow he attains there the supreme end, namely perfect service which is the overflow of the unlimited enjoyment of Bhagavan. 
+prapanna or bhakta, he readers faultless service in accordance with that state and in accordance with the s'astras, for the remain. ing term of his life here. We have already described ), how, after the fall of the body, he reaches a region free from the touch of matter (prakr̥ti) by journeying along the shining path begion. ing with archis and bow he attains there the supreme end, namely perfect service which is the overflow of the unlimited enjoyment of Bhagavan. 
 
 THREE CAUSES BY WHICH THE LORD'S 
 
@@ -163,7 +163,7 @@ since He places Himself in the place of other upāyas (like para bhakti) (in ord
 
 242 CHAPTER 
 
-immediately on those prapannas who are impatient of delay, and, in the case of those prapannas who are not impatient of delay and who have forgotten to beg for a life free from sin (after prapatti), in creating repentance for any offences committed by them owing to past karma which has begun to operate (prārabdha ) and inducing the person to perform the necessary prāyaschitta or expiation suited to his competency; in the case of those who are too hard-hearted to perform prāyas. chitta, in preventing their entrance into the world of Yama and loss of the benefit begged for by them by seeing that they are punished for these offences (committed after prapatti) in this life itself with sufferings (like blindness and lameness ) - in all these the Lord's compassion is the principal and common cause. 
+immediately on those prapannas who are impatient of delay, and, in the case of those prapannas who are not impatient of delay and who have forgotten to beg for a life free from sin (after prapatti), in creating repentance for any offences committed by them owing to past karma which has begun to operate (prārabdha ) and inducing the person to perform the necessary prāyascitta or expiation suited to his competency; in the case of those who are too hard-hearted to perform prāyas. citta, in preventing their entrance into the world of Yama and loss of the benefit begged for by them by seeing that they are punished for these offences (committed after prapatti) in this life itself with sufferings (like blindness and lameness ) - in all these the Lord's compassion is the principal and common cause. 
 
 Īśvara, who is endowed with compassion as described above, is called Siddhopaya or the upāya that is already existent; thus it is said:- “Those "Brahmins who know the first part of the Veda and those who know the latter part of it, which treats of the Sapreme Being - they state that Sri Krisbna is the eternal dharma (i.c.) the upāya that always exists." Bhakti and prapatti, which are adopted as the means for making Him gracious are called sādhyopāyas (ie) upāyas to be adopted for securing His grace. 
 
@@ -241,7 +241,7 @@ Those who maintain these propositions merely on the basis of reason cannot say t
 
 ary). 
 
-If it be held that what is required for protection is that, while being protected, there should be, in addition to the relationship, no attempt to prevent protection, we answer that, in that case, the Lord should grant mokṣa to all in such states 88 dreamless sleep (sushupti), (where there is the relationship and no attempt on the part of the jiva to prevent protection). If, on the other hand, it be maintained that there should be no attemapt to prevent protection in those mental states in which one is capable of doing so, we answer that we have seen protection of evea non-sentieot things which are jocapable of preventing it and of even such sentient beings as cattle and sops which attempt to prevent it. 
+If it be held that what is required for protection is that, while being protected, there should be, in addition to the relationship, no attempt to prevent protection, we answer that, in that case, the Lord should grant mokṣa to all in such states 88 dreamless sleep (suṣupti), (where there is the relationship and no attempt on the part of the jiva to prevent protection). If, on the other hand, it be maintained that there should be no attemapt to prevent protection in those mental states in which one is capable of doing so, we answer that we have seen protection of evea non-sentieot things which are jocapable of preventing it and of even such sentient beings as cattle and sops which attempt to prevent it. 
 
 23 UPAYA NECESSARY EVEN FOR THE SESHA 247 
 
@@ -319,7 +319,7 @@ Aḷavandār, too, has stated:- "The whole world depends apon the glance of Sri,
 
 Tiheshini is in a bag glorious confer mokara Stotram 
 
-\* NOTE: The śloka says: Thou art the knowledge concerning the self or atma vidya: Lakṣmī is in apposition with arma vidya. The meaning is that atma vidya is one of her vibhutis or glorious possessions. Since arma vidya cao confer mokṣa, it follows that Lakṣmī can confer mokṣa. 42. Soudaka Saṁhitā 
+\* NOTE: The śloka says: Thou art the knowledge concerning the self or atma vidyā: Lakṣmī is in apposition with arma vidyā. The meaning is that atma vidyā is one of her vibhutis or glorious possessions. Since arma vidyā cao confer mokṣa, it follows that Lakṣmī can confer mokṣa. 42. Soudaka Saṁhitā 
 
 44. Aḷavandār Stotram : 37 43. Viṣṇu purāṇa : 1-9--20 
 
@@ -421,4 +421,4 @@ SANSKRIT SLOKA:
 
 The treasure (of gold - vix. Bhagavan), which is not seen 
 
-is witbio them, because they are guided by heretical systems which have not the benefit of the traditional knowledge of our spiritual teachers -(the treasure which they fail to perceive) even though resting on it night and day (as in sushupti) -- the treasure which is proclaimed in the strutis to be itself the means or sādhana for its attainment - that boundless treasure will make its presence (felt) among those who are pure of mind. 
+is witbio them, because they are guided by heretical systems which have not the benefit of the traditional knowledge of our spiritual teachers -(the treasure which they fail to perceive) even though resting on it night and day (as in suṣupti) -- the treasure which is proclaimed in the strutis to be itself the means or sādhana for its attainment - that boundless treasure will make its presence (felt) among those who are pure of mind. 

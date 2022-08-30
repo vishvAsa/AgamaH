@@ -22,7 +22,7 @@ These, then, are the "three mysteries or mantras" which are the best of what sho
 
 SANSKRIT SLOKA: 
 
-What is opposed to the way of the Vedas is like poison; even in the Śrutis or Vedas, those parts which treat of the means of attaining the enjoyment of material goods (Prakriti bhoga) and 
+What is opposed to the way of the Vedas is like poison; even in the Śrutis or Vedas, those parts which treat of the means of attaining the enjoyment of material goods (Prakr̥ti bhoga) and 
 
 WHAT IS BEST 
 

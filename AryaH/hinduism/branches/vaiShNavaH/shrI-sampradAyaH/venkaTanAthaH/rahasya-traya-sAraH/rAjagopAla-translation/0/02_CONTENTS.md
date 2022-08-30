@@ -17,7 +17,7 @@ A brief account of the succession of Acharyas. The Acharya essential for mokṣa
 
 ## CHAPTER 1. Introductory - 
 
-The heritage of the Jivātmā apd bow be lost it. The parable of the prince brought up by huntsmen - The appli. cability of the parable to the Jiva - His rescue by the Guru. 
+The heritage of the Jivātmā apd bow be lost it. The parable of the prince brought up by huntsmen - The appli. cability of the parable to the Jīva - His rescue by the Guru. 
 
 11 to 17 
 
@@ -37,7 +37,7 @@ Some speak of five things and some of six but there is Do real difference betwee
 32 to 47
 ## CHAPTER V. The three 'Reals' or Tattvas: 
 
-Classification of tattvas or reals' and its use - The Jiva or experiencing subject. The nature of the Jiva ( baddhas, muktas and nitras) . dharma bhūtajñāna - the three kinds of pop-septient ibidge (stiddhasattvam; prakriti ; its essential pature and activity - Kala or Time ) Tswara :- His svarüpa and qualities. His rūpas or forms ; (11 Para; (2) Vyuhas; (3) Vibhavas; (4) Archā; and (5) Hārda - The nature of the Avatārs - Laksmi; Her status and role. Other classifications of the tattvas. 48 to 71 
+Classification of tattvas or reals' and its use - The Jīva or experiencing subject. The nature of the Jīva ( baddhas, muktas and nitras) . dharma bhūtajñāna - the three kinds of pop-septient ibidge (stiddhasattvam; prakr̥ti ; its essential pature and activity - Kala or Time ) Tswara :- His svarüpa and qualities. His rūpas or forms ; (11 Para; (2) Vyuhas; (3) Vibhavas; (4) Archā; and (5) Hārda - The nature of the Avatārs - Laksmi; Her status and role. Other classifications of the tattvas. 48 to 71 
 
 ## CHAPTER VI. The truth concerning the Supreme Deity: 
 
@@ -104,7 +104,7 @@ XLY
 Pages. 
 ## CHAPTER XVIIT. Atonement for offences : 
 
-The prapanna not likely to offend; If offences occur, prayas chitta necessary; the prapanna will never, in any case, go to the world of Yama; the view that even delibe. rate offences of the prapanna will not have adverse results untenable: the nature of the prapanna's prayaschitta ; illustrations; the heinousness of offences against Bhaga. vatas; necessity of securiog their pardon, 
+The prapanna not likely to offend; If offences occur, prayas citta necessary; the prapanna will never, in any case, go to the world of Yama; the view that even delibe. rate offences of the prapanna will not have adverse results untenable: the nature of the prapanna's prayascitta ; illustrations; the heinousness of offences against Bhaga. vatas; necessity of securiog their pardon, 
 
 176 to 189 
 
@@ -143,7 +143,7 @@ Recapitulation of the contents of the First Part; three caused by which the Lord
 
 by Sadhyopaya or the upāya that 
 
-has to be adopted The need for the clarification; competence for pra. patti open to all ( castes and both sexes ); misconceptions about the pature or svarūpa of prapatti (a) the knowledge that one is śeṣa to the Lord is not prapatti in itself (b) refraining from one's own activity is not prapatti ; the srāstra has to enjoin prapatti; bhakti pot inconsistent witb one's svarūpa; the objection that the Jiva being entirely dependent on the Lord cannot and should not adopt any upāya pot tepable; the objection that the rites of varna and āsrama and bhaktiyoga are inconsistent with exclusive devotion to Bhagavan antepable; the objection that bhakti and prapatti are not adopted by s'ishtas; does prapatti require angas or accessories? Why should intense faith be called an añga instead of mere faith ? causes of the decay of faith and the remedy therefor; the rites of nitya and naimittika are, on no account, to be given ap by the prapanna. 
+has to be adopted The need for the clarification; competence for pra. patti open to all ( castes and both sexes ); misconceptions about the pature or svarūpa of prapatti (a) the knowledge that one is śeṣa to the Lord is not prapatti in itself (b) refraining from one's own activity is not prapatti ; the srāstra has to enjoin prapatti; bhakti pot inconsistent witb one's svarūpa; the objection that the Jīva being entirely dependent on the Lord cannot and should not adopt any upāya pot tepable; the objection that the rites of varna and āsrama and bhaktiyoga are inconsistent with exclusive devotion to Bhagavan antepable; the objection that bhakti and prapatti are not adopted by s'ishtas; does prapatti require angas or accessories? Why should intense faith be called an añga instead of mere faith ? causes of the decay of faith and the remedy therefor; the rites of nitya and naimittika are, on no account, to be given ap by the prapanna. 
 
 264 to 298 
 
@@ -157,7 +157,7 @@ Pages.
 
 bhakti and prapatti have potency: 
 
-The greatness of the devotees of Bhagavan; does prapatti lead to the elevation of one's caste ? sattva of the body and sattva of the wind; ekāntins and paramai. kāntins; the rites of varṇa and asrama are obligatory; the real meaning of “baving given op all dharmas" in the charamaśloka ; the real purport of the śloka "pravrit. tincha nivrittinchu"; the necessity for prāyas chitta in the cases of deliberate offences committed by the pra. panna. 
+The greatness of the devotees of Bhagavan; does prapatti lead to the elevation of one's caste ? sattva of the body and sattva of the wind; ekāntins and paramai. kāntins; the rites of varṇa and asrama are obligatory; the real meaning of “baving given op all dharmas" in the charamaśloka ; the real purport of the śloka "pravrit. tincha nivrittinchu"; the necessity for prāyas citta in the cases of deliberate offences committed by the pra. panna. 
 
 299 to 329 
 
@@ -179,7 +179,7 @@ struction of the words and sentences.
 
 Purport of the three mantras and their relation to one another; the primary importance of Tirumantra ; it may be uttered by all with suitable modifications; meaning of pranava and its potency; meaning of a, of u end of min pranava; meaning of namas or namo in Tirumantra ; the three meanings of namas; sthma, sükṣma and para ; 
 
-xLviii Pages. the word Narāyaṇa in Tirumantra ; its meaning when split in two ways; the meaning of Nara and the meaning of ayana ; the purport of the fourth or dative case; the attri butes of Isward and qualities of the Jiva indicated therein; the ten ways of construing Tirumantra; the gist of the meanings of the Vyāpaka-mantras; the potency of Ash lākṣara, 
+xLviii Pages. the word Narāyaṇa in Tirumantra ; its meaning when split in two ways; the meaning of Nara and the meaning of ayana ; the purport of the fourth or dative case; the attri butes of Isward and qualities of the Jīva indicated therein; the ten ways of construing Tirumantra; the gist of the meanings of the Vyāpaka-mantras; the potency of Ash lākṣara, 
 
 345 to 419 
 
