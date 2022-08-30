@@ -1,5 +1,5 @@
 +++
-title = "०० PRÉFACE"
+title = "०० PREFACE"
 
 +++
 
