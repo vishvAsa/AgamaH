@@ -81,11 +81,11 @@ servant and thus find delight?" (This is also prayer for service ). "Thy [^f67] 
 
 "I worship [^f69] Viṣṇu  with the inseparable Śrī; He is the sea of purity and bliss"
 
-[^f69]: Rāmānuja: Vedantasara
+[^f69]: Rāmānuja: Vedāntasara
 
 "The [^f70] beloved of Śrī, who is infinite and whose form is the unique abode of all auspicious qualities "
 
-[^f70]: Rāmānuja: Vedantdeepa
+[^f70]: Rāmānuja: Vedāntdeepa
 
 ."In [^f71] Brahman, the abode of Śrī(Śrīnivasa), may my mind be ever centred "
 

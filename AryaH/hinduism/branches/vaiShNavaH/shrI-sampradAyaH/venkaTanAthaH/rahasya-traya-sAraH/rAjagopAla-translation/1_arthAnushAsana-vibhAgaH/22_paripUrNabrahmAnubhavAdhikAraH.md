@@ -92,7 +92,7 @@ The Maharshi (Vyāsa) has also expressed this idea at great length in the discou
 
 In the passage cited above, the mukta is called 'independent' (svatantra ), because he is free from the influence of past karma. The Bhāṣyakāra (Śrī Rāmānuja) has explained the meaning of the word Svarat (literally the independent king) as being not subject to karma'.
 
-Thus since in the śrutis, the smṛtis and the sūtras, resemblance between the mukta and Brahman (sāmyam) is explicitly stated, those places in the texts which seem to speak of identity (aikyam) between the mukta and Brahman in the state of release from bondage have to be explained in a manner that would not be inconsistent with the śruti s which declare difference between the jīva and Brahman. The word aikyam or (identity ) in such passages should be construed in the same manner as in the śloka  : "The aikyam between Rama and Sugrīva arose O, Lady, in this way.” (Here aikyam means friendship, identity not of self's but of interests).
+Thus since in the śrutis, the smṛtis and the sūtras, resemblance between the mukta and Brahman (sāmyam) is explicitly stated, those places in the texts which seem to speak of identity (aikyam) between the mukta and Brahman in the state of release from bondage have to be explained in a manner that would not be inconsistent with the śruti s which declare difference between the jīva and Brahman. The word aikyam or (identity ) in such passages should be construed in the same manner as in the śloka  : "The aikyam between Rāma and Sugrīva arose O, Lady, in this way.” (Here aikyam means friendship, identity not of self's but of interests).
 
 If it were not construed in this way, it would be in conflict with thousands of authoritative passages like the following:--
 

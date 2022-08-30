@@ -5,7 +5,9 @@ title = "०२ सारनिष्कर्षाधिकारः"
 
 (2) THE CHAPTER ON THE DETERMINATION OF WHAT IS BEST ? page77
 
-NOTE "The Three Mysteries" have been occasionally referred to in previous chapters. ŚrīVedānta desika presumes that everyone of his readers knows what they are. It is just possible that some of them are not in the know of these mysteries. So a brief account may be necessary of these mantras.
+<details open><summary>प्रस्तावः</summary>
+
+"The Three Mysteries" have been occasionally referred to in previous chapters. ŚrīVedānta desika presumes that everyone of his readers knows what they are. It is just possible that some of them are not in the know of these mysteries. So a brief account may be necessary of these mantras.
 
 1. One of them is called aṣṭākṣara or Tirumantra It consists of eight syllables in Sanskrit which are in the form of three words. The first word which consists of a single syllable is Om, which is made of three parts a, u and m or akara, ukara and makara. The second word is namo which, when there is no sandhi, is namas. It means 'Obeisance' or adoration! The third word is Nārāyaṇaaya which means " to Nārāyaṇa ". Nārāyaṇāya is the dative (the fourth case ) singular form of Nārāyaṇa . The mantra, as a whole, means "Adoration to Nārāyaṇa  ! '' or "I offer my adoration to Nārāyaṇa ." (This is the meaning appearing at first sight.)
 
@@ -17,7 +19,11 @@ It means: “Having given up rites or activities as means to secure mokṣa , su
 
 3. Yet another mystery or mantra is usually called Dvayam. It consists of two parts; the first part means "I seek refuge at the feet of Nārāyaṇa  who is ever inseparable from Śrī or Lakṣmī ". The second part means: "I offer my adoration to Nārāyaṇa  and Śrī".
 
-These, then, are the "three mysteries or mantras" which are the best of what should be known and meditated upon. The fuller and more subtle meanings of these mantras are explained in later chapters. )--Tr.
+These, then, are the "three mysteries or mantras" which are the best of what should be known and meditated upon. The fuller and more subtle meanings of these mantras are explained in later chapters.
+
+</details>
+
+
 
 <details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 

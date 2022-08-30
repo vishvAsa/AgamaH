@@ -37,9 +37,9 @@ WHAT IS A SARĪRA AND WHAT IS A SARIRI :
 
 Iśvara is called the inner self or soul (Sariri), because as long as they exist, He is, in regard to sentient and non-sentient substances (dravya), their support (ādhāra), their controller or ruler (niyantā) and their Lord or Master (śeṣī ) for whose purposes they exist. Sentient beings and non-sentient things form His body, since, with regard to Him, they stand as substances supported by Him, controlled by Him, and existing solely for the fulfilment of His purposes, throughout their existence. Iśvara is called the Supporter and the Controller or Ruler of all sentient beings and non-sentient things, because from His swarupa or essential nature and His saṅkalpa or will, they derive their existence, continuance and activities as [^f46] befitting[^22] each of these two (svarūpa and saṅkalpa). It may be asked how this could be. Just as Iśvara is the abode, āśraya or ādhāra (support) of the attributes which define His essential nature (svarūpa viz. Satyam, Jñānan, Anantam and the like) and of the other qualities possessed by Him with His essential nature so defined (qualities like compassion and accessibility), He is also the inseparable and direct support, (āsraya or ādhāra) of all substances (sentient and non-sentient) other than Himself. He is also the support, through these substances ((i.e.) indirectly), of the qualities that pertain to them. There are some who hold that Iśvara is the support, through the jīvas, of the bodies supported by the jīvas. Some ācāryas say (on the other hand) that both directly by His essential Nature and indirectly through the jīvas, He is the support of these bodies.
 
-[^f46]: As befitting each of these two - By His svarūpa, He is the cause of their existence and continuance; this is because of being their support; by His Sankalpa or will also, He is the cause of their existence, continuance and activities; this is because of being their controller.*
+[^f46]: As befitting each of these two - By His svarūpa, He is the cause of their existence and continuance; this is because of being their support; by His Saṅkalpa or will also, He is the cause of their existence, continuance and activities; this is because of being their controller.*
 
-[^22]: As befitting each of these two - By His svarūpa, He is the cause of their existence and continuance; this is because of being their support; by His Sankalpa or will also, He is the cause of their existence, continuance and activities; this is because of being their controller.
+[^22]: As befitting each of these two - By His svarūpa, He is the cause of their existence and continuance; this is because of being their support; by His Saṅkalpa or will also, He is the cause of their existence, continuance and activities; this is because of being their controller.
 
 IŚVARA'S SUPPORT BY HIS SVARŪPA AND
 
@@ -57,7 +57,7 @@ WHAT IS THE MEANING OF ŚEṢA-ŚEṢI  BHĀVA?
 
 Iśvara is said to be the śeṣin of all things, because they exist solely for the fulfilment of His purposes. They are His śeṣas, The following śloka  explains how Iśvara is the śeṣin of all:  The [^f49] Utterance of the Upaniṣads is to the effect that the Lord takes in both sentient and non-sentient things for the fulfilment of His own purposes, by being the cause of their existence, their continuance and their control. In regard to (one of the two (i.e.) the sentient being), Thou art both the end to be attained (upēya) and the means of attaining it (upāya). This is Thy essential nature and not an adventitious quality of Thine. Therefore, O Thou that hast Thy repose in Śrīraṅgam, I seek refuge in Thee without any selfish interest.”
 
-[^f49]: Srirangarajastavam: (Uttara Satakam) 87
+[^f49]: Srirangarajastavam: (Uttara śatakam) 87
 
 THE IMPORTANCE OF THIS KNOWLEDGE.
 
@@ -87,7 +87,7 @@ The third word in Tirumantra is Nārāyanāya, which is the dative or fourth cas
 
 The first word, Praṇava (aum), signifies that m, the jīva, exists only for a (aya) and the second word namo that the jīva depends on Bhagavān. His existence is for Bhagavān and His devotees, to the latter of whom the śeṣatva extends as its ultimate limit, and he depends absolutely on Bhagavān and His devotees In the light of this interpretation, the third word Nārāyanāya has, for its purport, the goal of the jīva, vis, kaiṅkarya or service to the Lord and His devotees. This service may be seen illustrated in an active form in that of Lakṣmaṇa and in a passive form in the sandals[^23]  of Śrī Rāma which were an incarnation of Lakṣmaṇa or Adiśeṣa and which left Rāma's feet to go along with His devotee, Bharata. (In these instances) the service is such as would be pleasing to the śeṣī (namely, Bhagavān).
 
-[^23]: Lakṣmaṇa is a partial incarnation of Adisesha and Adisesha serves the Lord as His sandals. His bed, and so on. Therefore the sandals of Rama are, in a sense, the incarnation of Lakṣmaṇa.
+[^23]: Lakṣmaṇa is a partial incarnation of Adisesha and Adisesha serves the Lord as His sandals. His bed, and so on. Therefore the sandals of Rāma are, in a sense, the incarnation of Lakṣmaṇa.
 
 All this elucidation and illustration of the meaning of Tirumantra were vouchsafed by Śrī Appullar. The implicit and explicit meanings contained in Dvayam and the Carama śloka  should be understood on the same lines.
 

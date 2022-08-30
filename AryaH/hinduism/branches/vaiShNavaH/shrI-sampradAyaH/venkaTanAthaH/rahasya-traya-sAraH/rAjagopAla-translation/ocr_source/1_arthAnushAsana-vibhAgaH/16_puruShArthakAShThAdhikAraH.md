@@ -7,7 +7,7 @@ title = "१६ पुरुषार्थ-काष्ठाधिकारः
 
 SANSKRIT SLOKA: 
 
-In the world of everyday life (a king sometimes uses his dependents and ornaments to serve the purposes of those who are dear to bim like bis sons, wives etc.) and in the Vedas, it is declared that all the gods make their offeriogs to the devotee. Even 80, the Lord of Lakshmi uses sentient beings and non-sentient things to serve for ever the purposes of those who have won His regard, because He is independent and is their Master. So, for us whose minds have been disciplined by the teaching of such as the prince of sannayasins (viz. Sri Ramanuja), the service of the Lord extends as far as the service of those wbo are dear to Him (Bhagavatas). 
+In the world of everyday life (a king sometimes uses his dependents and ornaments to serve the purposes of those who are dear to him like bis sons, wives etc.) and in the Vedas, it is declared that all the gods make their offeriogs to the devotee. Even 80, the Lord of Lakshmi uses sentient beings and non-sentient things to serve for ever the purposes of those who have won His regard, because He is independent and is their Master. So, for us whose minds have been disciplined by the teaching of such as the prince of sannayasins (viz. Sri Rāmanuja), the service of the Lord extends as far as the service of those wbo are dear to Him (Bhagavatas). 
 
 • 
 
@@ -61,7 +61,7 @@ SERVICE TO BHAGAVATAS
 
 W 
 
-In this matter, if we examine the path of the pramānas, Iswara, who has the Bhagavata es His body, is the object of worship as is declared in the sloka: "Those who worship the pitris, the gods, the Brahmins and Agni -- they worsbip only the Lord who is the inner self of all creatures". If, on the other hand, we consider the thought of the Prakari who says "He 18 dear to me also" and who is ever at the disposal of the man that is exclusively devoted to Him on account of His love for him, as bas been said in the sloka : "Among them the jnānī ig my very self" the Lord would be pleased at the service rendered to the Bhagavata, as if it were service rendered (directly) to His own inner self and not as that done to His body. 
+In this matter, if we examine the path of the pramānas, Iswara, who has the Bhagavata es His body, is the object of worship as is declared in the sloka: "Those who worship the pitris, the gods, the Brahmins and Agni -- they worsbip only the Lord who is the inner self of all creatures". If, on the other hand, we consider the thought of the Prakari who says "He 18 dear to me also" and who is ever at the disposal of the man that is exclusively devoted to Him on account of His love for him, as has been said in the sloka : "Among them the jnānī ig my very self" the Lord would be pleased at the service rendered to the Bhagavata, as if it were service rendered (directly) to His own inner self and not as that done to His body. 
 
 In addition to its causing plassure to the s'eshi, the relationship of the jiva to Iswara as His s'esha is also mediately through the Bhagavata. Therefore his service to the Lord may also be mediato through the Bhagavuta. This may be explained as follows: 
 
@@ -83,7 +83,7 @@ remain in the company of those who think there is any other deity deserving of a
 
 10 
 
-14. Ramayana: Kishkindhakanda : 
+14. Rāmayana: Kishkindhakanda : 
 
 4-12 
 
@@ -93,7 +93,7 @@ SERVICE TO BHAGAVATAS
 
 185 
 
-and "Anong? the Lord's retinue are two classes: those that are dear to bim and worthy of His trust and those who are not. To the former class belong the nityas, the muktas and the Bhagavatās. 
+and "Anong? the Lord's retinue are two classes: those that are dear to him and worthy of His trust and those who are not. To the former class belong the nityas, the muktas and the Bhagavatās. 
 
 To the latter class belong Brahma and the other gods who are subject to the sway of past karma. The seeker after raukti should not adore the latter;" the devotee who is exclusively attached to the Lord and whose dharma resembles that of a chaste wife would therefore do well to act according to the will of his Lord. Since the relationsbip of s'esha to Bhagavatas arises from no other cause than the knowledge of our being sesha only to the Lord and to no other, this service to Bhagavatas is not improper, (because it does not arise from other causes like the desire for wealth or power ). 
 

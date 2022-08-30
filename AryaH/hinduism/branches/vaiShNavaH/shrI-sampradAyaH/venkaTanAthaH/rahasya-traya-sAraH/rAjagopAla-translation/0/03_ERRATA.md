@@ -26,13 +26,13 @@ panchūs at X 13
 
 Visistadvaita
 
-Visishtadvaita XIX 5
+Viśiṣṭādvaita XIX 5
 
 imcomparable incomparable vibhuti
 
 vibhūti .do -
 
-. do . 25 bas exhibits
+. do . 25 has exhibits
 
 exhibits XX Lines 6 & 7
 
@@ -60,7 +60,7 @@ and hita latter Shine actively tamas). Time
 
 Visistadvaitinms are others like the that felt
 
-and hita ( later Thine Activity tamis), Time Visishtadvaitins are, like others, the the yearning felt
+and hita ( later Thine Activity tamis), Time Viśiṣṭādvaitins are, like others, the the yearning felt
 
 18
 

@@ -27,12 +27,12 @@ The three Mantras . Their great value. The only Pramüra in regard to moksha add
 
 ## CHAPTER III. The most important and distinctive doctrine that is unique to Visishtādvaita
 
-What is a s'arira and what is a Sarīrī? Adhāra and Niyanta - Iswara's support by His svarupa and by His will (sankalpa). The consequences of this knowledge. The meaning of sesha-s'eshi bhāva - The presence of these ideas in the three mantras - Seshatva means dasatva in regard to Chetanas. 
+What is a s'arira and what is a Sarīrī? Adhāra and Niyanta - Iswara's support by His svarupa and by His will (saṅkalpa). The consequences of this knowledge. The meaning of sesha-s'eshi bhāva - The presence of these ideas in the three mantras - Seshatva means dasatva in regard to Chetanas. 
 
 22 to 31 
 
 ## CHAPTER IV. The five things that every seeker after salvation should know
-Some speak of five things and some of six but there is Do real difference between them. (1) The object of attaid. ment is Bhagavan who is ever associated with Sri. Bhagavan bas innumerable auspicious qualities . He has a divine and auspicious form (vigraha); (2) The nature of the individual self; (3) The means of attainment; (4) The nature of moksha; (5) The bindrances to attainment and how to get rid of the hindrapces. 
+Some speak of five things and some of six but there is Do real difference between them. (1) The object of attaid. ment is Bhagavan who is ever associated with Sri. Bhagavan has innumerable auspicious qualities . He has a divine and auspicious form (vigraha); (2) The nature of the individual self; (3) The means of attainment; (4) The nature of moksha; (5) The bindrances to attainment and how to get rid of the hindrapces. 
 
 32 to 47
 ## CHAPTER V. The three 'Reals' or Tattvas: 
@@ -63,7 +63,7 @@ The meaning of competency or adhikāra; akinchanya and ananyagatitva; their need
 111 to 114 
 
 ## CHAPTER XI. The classification of accessories or angas
-The angas or accessories of prapatti, ünukulya - Sankalpa and prātikulyavarjana, kārpanyant, mahūvis. wāsa, goptritva varanjam; illustrations of the presence of these five angas in well-known acts of saranagati ; the presence of these angas and the angi in Dvaya , the five doubts concerning the efficacy of prapatti and their clarification. 
+The angas or accessories of prapatti, ünukulya - Saṅkalpa and prātikulyavarjana, kārpanyant, mahūvis. wāsa, goptritva varanjam; illustrations of the presence of these five angas in well-known acts of saranagati ; the presence of these angas and the angi in Dvaya , the five doubts concerning the efficacy of prapatti and their clarification. 
 
 115 to 126 
 
@@ -73,7 +73,7 @@ The nature of the angi (prapatti); the manner of performing bharanyāsa ; Iswara
 XLIV Pages. 
 
 ## CHAPTER XIII. The man who has done what ought to be done
-The prapanna as one who has done what he onght to do and has won his goal; illustration from Sri Ramapuja's Saranăgatigadya ; the marks of the men wbo bas done what be ougbt to do. 
+The prapanna as one who has done what he onght to do and has won his goal; illustration from Sri Rāmapuja's Saranăgatigadya ; the marks of the men wbo has done what be ougbt to do. 
 
 136 to 140 
 
@@ -93,7 +93,7 @@ Reasons for rendering service to Bhagavatas; God's appreciation of the service r
 
 Süstra the true guide of the prapanna in this life; Sri 
 
-the prapanna; Sri Ramanuja's advice explained; the pramānas in support of the binding authority of the Sastras; the place in the three mantras where the autbo. rity of the Süstras is indicated. 
+the prapanna; Sri Rāmanuja's advice explained; the pramānas in support of the binding authority of the Sastras; the place in the three mantras where the autbo. rity of the Süstras is indicated. 
 
 168 to 175 
 
@@ -143,7 +143,7 @@ Recapitulation of the contents of the First Part; three caused by which the Lord
 
 by Sadhyopaya or the upāya that 
 
-has to be adopted The need for the clarification; competence for pra. patti open to all ( castes and both sexes ); misconceptions about the pature or svarūpa of prapatti (a) the knowledge that one is sesha to the Lord is not prapatti in itself (b) refraining from one's own activity is not prapatti ; the srāstra bas to enjoin prapatti; bhakti pot inconsistent witb one's svarūpa; the objection that the Jiva being entirely dependent on the Lord cannot and should not adopt any upaya pot tepable; the objection that the rites of varna and āsrama and bhaktiyoga are inconsistent with exclusive devotion to Bhagavan antepable; the objection that bhakti and prapatti are not adopted by s'ishtas; does prapatti require angas or accessories? Why should intense faith be called an añga instead of mere faith ? causes of the decay of faith and the remedy therefor; the rites of nitya and naimittika are, on no account, to be given ap by the prapanna. 
+has to be adopted The need for the clarification; competence for pra. patti open to all ( castes and both sexes ); misconceptions about the pature or svarūpa of prapatti (a) the knowledge that one is sesha to the Lord is not prapatti in itself (b) refraining from one's own activity is not prapatti ; the srāstra has to enjoin prapatti; bhakti pot inconsistent witb one's svarūpa; the objection that the Jiva being entirely dependent on the Lord cannot and should not adopt any upaya pot tepable; the objection that the rites of varna and āsrama and bhaktiyoga are inconsistent with exclusive devotion to Bhagavan antepable; the objection that bhakti and prapatti are not adopted by s'ishtas; does prapatti require angas or accessories? Why should intense faith be called an añga instead of mere faith ? causes of the decay of faith and the remedy therefor; the rites of nitya and naimittika are, on no account, to be given ap by the prapanna. 
 
 264 to 298 
 
