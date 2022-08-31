@@ -1,5 +1,5 @@
 +++
-title = "+Proofreader note"
+title = "Proofreader note"
 
 +++
 
@@ -16,3 +16,4 @@ Limitations of proof reading done:
 येनकेनचनाज्ञेन सत्कैङ्कर्यमकारयत्।  
 विश्वासचोदितेनात्र यस्तमीडे कृपानिधिम् ॥३ ॥
 
+- इति ह्रीमान् गॊरूरु-श्रीनिवासमूर्तिः। 
