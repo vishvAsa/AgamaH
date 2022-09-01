@@ -9,7 +9,7 @@ Limitations of proof reading done:
 2. Not sure if Tamil stanzas are at their right places.
 3. No formatting except chapter headings which are “Heading 2”. Translator’s notes converted to foot-notes[ Except one long Note which does not deserve to be relegated as a footnote]. Foot notes of first few chapters, work on which was abandoned half-way appear dumped as End-notes.
 
-दान्ताचार्यवर्याणां विशिष्टाद्वैतदीपिका  
+वेदान्ताचार्यवर्याणां विशिष्टाद्वैतदीपिका  
 रहस्यत्रयसाराख्यकृतिर्विजयतेतराम् ॥१  
 तत्कृतेर्मुद्रितग्रन्थपत्तने सुमनोहरे ।  
 वर्णवीथीशोधकार्यं श्रीमन्नारायणो मुदा ॥२ ॥  
