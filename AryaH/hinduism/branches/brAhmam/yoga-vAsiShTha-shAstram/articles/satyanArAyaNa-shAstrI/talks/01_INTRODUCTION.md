@@ -10,64 +10,52 @@ Shastriji always used to tell his followers that, it was difficult for him to pu
 - Editor
 
 
-YŌGAVĀSIṢṬHA (योगवासिष्ठ) - IS AN EXTRAORDINARY text. It talks at high levels of spirituality. The very thought and study of the text puts me into a state of _samādhi_ (समाधि, bliss). How can I talk on the text and do justice to you. Normally, that is why I do not wish to talk on Yōgavāsiṣṭha. If one is having _pātrata_ (पात्रत, eligibility), then, this text will put hiim into that blissful state. If one has attained the right level of maturity and if the concepts are clear about his true Nature, here is a text, every word, every half śloka, puts him into that state of samādhi. That is why; the wise rightly call it a _manana-grantha_ (a reference book for repeated reflection). I thought I would write something, but I failed due to inability to concentrate on words. Ramakrishna refers to that State as an ocean of _amr̥ta_ (nectar), after dipping in it, you dissolve and you are gone. Where is the reporter? Even to report about that, you have to stand at the threshold – at the _sandhikāla_ (संधिकाल) - a bit of cognition, a bit of _tr̥pti_ (तृप्ति, satisfaction) and a feel of dissatisfaction, _a-tr̥pti_. Otherwise you cannot do anything at all. That is the beauty of the text. After the phase of _śravaṇa_ (श्रवण, listening to scriptures), where you intellectually know what you really are, go to Yōgavāsiṣṭha. You will be surprised to note that any sloka can push you to a state of non-doing. It is not superficial. Thoughts cannot shape themselves. How can you develop big arguments in support of your positions when you are in that non-doing state?
+YŌGAVĀSIṢṬHA (योगवासिष्ठ) - IS AN EXTRAORDINARY text. It talks at high levels of spirituality. The very thought and study of the text puts me into a state of _samādhi_ (समाधि, bliss). How can I talk on the text and do justice to you. Normally, that is why I do not wish to talk on Yōgavāsiṣṭha. If one is having _pātrata_ (पात्रत, eligibility), then, this text will put him into that blissful state. If one has attained the right level of maturity and if the concepts are clear about his true Nature, here is a text, every word, every half śloka, puts him into that state of samādhi. That is why; the wise rightly call it a _manana-grantha_ (a reference book for repeated reflection). I thought I would write something, but I failed due to inability to concentrate on words. Ramakrishna refers to that State as an ocean of _amr̥ta_ (nectar), after dipping in it, you dissolve and you are gone. Where is the reporter? Even to report about that, you have to stand at the threshold – at the _sandhikāla_ (संधिकाल) - a bit of cognition, a bit of _tr̥pti_ (तृप्ति, satisfaction) and a feel of dissatisfaction, _a-tr̥pti_. Otherwise you cannot do anything at all. That is the beauty of the text. After the phase of _śravaṇa_ (श्रवण, listening to scriptures), where you intellectually know what you really are, go to Yōgavāsiṣṭha. You will be surprised to note that any sloka can push you to a state of non-doing. It is not superficial. Thoughts cannot shape themselves. How can you develop big arguments in support of your positions when you are in that non-doing state?
 
 I will pick up some points from the text, without going in a methodical way, and try to place before you my feelings even though they are disjointed and broken. I would like to avoid as much as possible the story portion and the anecdotes. If we have to go in detail, it may take three to four years. We cannot afford to spend such a time, in this busy world. If we think of a concept of _vānaprastha_ (वानप्रस्थ, retirement) period, then such a thing is possible, since we can be in continuous _ātmaciṁtana_ (आत्मचिंतन, self introspection) phase without distractions. That is why much of Vedanta is one’s own study. There is nothing like spoon feeding. You can appreciate those states only when you touch them yourselves, in your experimentation. The prescription in Yōgavāsiṣṭha, is to ‘look inside”, that is all!
 
 There is a very good mantra in Kathopanishad:
 
-पराञ्चिखानि व्यतृणत्स्वयंभूस्तस्मात्पराङ्पश्यतिनान्तरात्मन्।
-
-कश्चित्धीरः प्रत्यगात्मानमैक्षत आवृत्तचक्षुः अमृतत्वमिच्छन्॥
-
-parāñci khāni vyatr̥ṇatsvayaṁbhūstasmāt
-
-parāṅpaśyati nāntarātman
-
-kaścit dhīraḥ pratyagātmānamaikṣata
-
-āvr̥ttacakṣuḥ amr̥tatvamicchan.
-
-
+> पराञ्चि खानि व्यतृणत् स्वयंभूस्  
+> तस्मात् पराङ् पश्यति नान्तरात्मन्।  
+> कश्चिद् धीरः प्रत्यगात्मानम् ऐक्षत  
+> आवृत्तचक्षुः अमृतत्वमिच्छन्॥ +++(५)+++
+>
+> parāñci khāni vyatr̥ṇatsvayaṁbhūstasmāt  
+parāṅpaśyati nāntarātman  
+kaścit dhīraḥ pratyagātmānamaikṣata  
+āvr̥ttacakṣuḥ amr̥tatvamicchan.  
 (Ka.Upa.2-4-1)
 
 
-We are structurally looking outside. Man is so constructed that all his sense organs go outward. He goes out to see, to talk, and to enjoy. Naturally, therefore, he does not look inside at all. Once in a way in a century, a hero is born. What does he do? Directs the tool of investigation viz, intellect inside. Why does he look inside?
+We are structurally looking outside. Man is so constructed that all his sense organs go outward. He goes out to see, to talk, and to enjoy. Naturally, therefore, he does not look inside at all. Once in a way in a century, a hero is born. What does he do? Directs the tool of investigation viz, intellect inside. Why does he look inside? amr̥tatvamicchan – Prompted by the desire for immortality. Just to get to that state where the fear of death vanishes, he looks inside. 
 
-amr̥tatvamicchan – Prompted by the desire for immortality. Just to get to that state where the fear of death vanishes, he looks inside. Vedanta in short gives us a method of investigation to turn inside. Once you adopt that, you discover everything. You do not have to wait for the teacher. Under the revised resetting, the inward journey starts and you discover many regions, hitherto unknown, but revealed in the texts of Upanishads. It is seen clearly in the Bhr̥guvalli (भृगुवल्लि), of Taittariya Upanishad where the Rishi directs the student to study on his own. He suggests to do _ātmaparīkṣa_ (आत्मपरीक्ष, examination of oneself), to resolve fundamental questions. The teacher’s dictum was:
+Vedanta in short gives us a method of investigation to turn inside. Once you adopt that, you discover everything. You do not have to wait for the teacher. Under the revised resetting, the inward journey starts and you discover many regions, hitherto unknown, but revealed in the texts of Upanishads. It is seen clearly in the Bhr̥guvalli (भृगुवल्लि), of Taittariya Upanishad where the Rishi directs the student to study on his own. He suggests to do _ātmaparīkṣā_ (आत्मपरीक्षा, examination of oneself), to resolve fundamental questions. The teacher’s dictum was:
 
-तपसा ब्रह्म विजिज्ञासस्व। तपोब्रह्मेति।
-
+> तपसा ब्रह्म विजिज्ञासस्व। तपोब्रह्मेति।  
 tapasā brahma vijijñāsasva. tapō brahmēti.
 
-He does not give any more hints. Why this hardness on the part of the teacher? The answer is, that was the way – spoon feeding does not help. You may get some hints from Shankara and from Yōgavāsiṣṭha but much of the study has to be one’s own. How is it possible? It is to be borne in mind that you have to put questions to yourselves. What are the forces playing inside? How are they related? Which is the pre-state, which is the post state and then come to conclusion. Once we start seeing or searching ourselves inside, everything reveals itself.
+He does not give any more hints. Why this hardness on the part of the teacher? The answer is, that was the way – spoon feeding does not help.+++(४)+++ You may get some hints from Shankara and from Yōgavāsiṣṭha but much of the study has to be one’s own. How is it possible? It is to be borne in mind that you have to put questions to yourselves. What are the forces playing inside? How are they related? Which is the pre-state, which is the post state and then come to conclusion. Once we start seeing or searching ourselves inside, everything reveals itself.
 
 Take the case of _prāṇa_ (प्राण, vital breath). What is it? When you sit for meditation, you can see a movement inside which is an activity. This is _anubhava mātra gamyam_ – अनुभवमात्रगम्यम् - can be seen only through experience.
 
-What is cognising? What is the process involved? It is possible when one manages to come to attention posture which is a prerequisite for cognition. It is not natural. Taking an example, let us say you meet a friend and he says that you did not wish him at all. The simple answer you give “I had been thinking elsewhere” That is to say, you have not focused or given attention to the friend. To cognise things, focusing or attention is a must. This is a necessary prerequisite to grasp a thing. It may be a picture or an idea or a concept etc. This is called point creation. This is a mechanism by which a point is created – _dēśasr̥ṣṭi _or _vastusr̥ṣṭi – देशसृष्टि _or वस्तुसृष्टि. A series of points created culminates in a picture. It may be a tree – a hundreds of point formation has given me a tree or a house or even a person. So every seeing is focusing in a particular way,”I” am a focusing person at that time of seeing. When we talk of _tripuṭi_ (त्रिपुटि, the triad) we consider three things - the knower, the knowing and the knowledge or the seer, seeing and the seen. The result of the process of knowing is the seen. The _citta_ (चित्त, the intellect), which is otherwise in the form of prāṇa or movement, comes to an attention position. So, Brahman is not unknown to you. Everybody is experiencing the state of Brahman every now and then without realizing it.
-
-कोह्येवान्यात् कः प्राण्यात् यदेष आकाश आनन्दो 
-
-न स्यात् एष हि एव आनन्दयति.
-
-kōhyēvānyāt kaḥ prāṇyāt yadēṣa ākāśa ānandō
-
-na syāt ēṣa hi ēva ānandayati.
+What is cognising? What is the process involved? It is possible when one manages to come to attention posture which is a prerequisite for cognition. It is not natural. Taking an example, let us say you meet a friend and he says that you did not wish him at all. The simple answer you give “I had been thinking elsewhere” That is to say, you have not focused or given attention to the friend. To cognise things, focusing or attention is a must. This is a necessary prerequisite to grasp a thing. It may be a picture or an idea or a concept etc. This is called point creation. This is a mechanism by which a point is created – _dēśasr̥ṣṭi _or _vastusr̥ṣṭi – देशसृष्टि _or वस्तुसृष्टि.+++(५)+++ A series of points created culminates in a picture. It may be a tree – a hundreds of point formation has given me a tree or a house or even a person. So every seeing is focusing in a particular way,”I” am a focusing person at that time of seeing. When we talk of _tripuṭi_ (त्रिपुटि, the triad) we consider three things - the knower, the knowing and the knowledge or the seer, seeing and the seen. The result of the process of knowing is the seen. The _citta_ (चित्त, the intellect), which is otherwise in the form of prāṇa or movement, comes to an attention position. 
 
 
+So, Brahman is not unknown to you. Everybody is experiencing the state of Brahman every now and then without realizing it.
+
+> को ह्य् एवान्यात् कः प्राण्यात् यद् एष आकाश आनन्दो न स्यात्? एष हि एव आनन्दयति।   
+> kōhyēvānyāt kaḥ prāṇyāt yadēṣa ākāśa ānandō na syāt ēṣa hi ēva ānandayati.  
 (Tai.Upa.2-7-3) 
 
-
-If one did not touch this emptiness (non focussing version of oneself) now and then, how would have one survived. wonders the scripture. That means, one is not continuously focussing. Otherwise he would have gone mad with all problems and rushed to a doctor for sedation. This continuous focussing could have been a curse. I was a victim of this searching, attentive, focussing mind which had put me into a lot of problems. I was trying to indulge in things which were not in my domain at all. Although I was a professor of chemistry, I tried to be a carpenter, an engineer and a builder. Do you praise me for that or do you condemn that?
+If one did not touch this emptiness (non focussing version of oneself) now and then, how would have one survived wonders the scripture. That means, one is not continuously focussing. Otherwise he would have gone mad with all problems and rushed to a doctor for sedation. This continuous focussing could have been a curse. I was a victim of this searching, attentive, focussing mind which had put me into a lot of problems. I was trying to indulge in things which were not in my domain at all. Although I was a professor of chemistry, I tried to be a carpenter, an engineer and a builder. Do you praise me for that or do you condemn that?
 
 So, the broken happiness whatever we enjoy and use it as relaxation has saved us from the evils of society whereas it is the normal tendency to extol this focusing power in us. But as per Vedanta, it is a curse. You are extremely blisstful at the _samādhi_ level or the _svarūpa_ (स्वरूप – one’s true nature). You are expansive in that state. A _Jñāni_ (ज्ञानि – realised person) says that he does not exist. The person is so diffused, light and thin. He is just happiness. One respiration - to and fro motion - can take place in ten or fifteen minutes. Two cases of such Samādhi situation, we find in Yōgavāsiṣṭha. One is of Prahlada and the other is of Shikidwaja. So today every research is possible because you are compelled to come to focusing mood and explore the laws of the discipline you belong to. It may be engineering or medicine or physics or domestic science. This becomes a load on you if stretched too much.
 
 I was explaining the way of understanding _tripuṭi_. _Tripuṭi_ is focusing. One of the definitions of Brahman or Self as per Upanishads is _Cit_ or as per Yōgavāsiṣṭha is संवित् - _saṁvit:_
 
-
-
 * Self, therefore, is also just the mere knowing power. Prior to knowing, whatever we are is the Svarūpa. Jñāna is the mere knowing state.
-* By degenerative process, the knowing becomes the known. That is, _Jñāna_ which is mere knowing becomes _jñēya_ – ज्ञेय, the known.
+* By degenerative process, the knowing becomes the known. That is, _Jñāna_ which is mere knowing becomes _jñēya_ – ज्ञेय, the known +++(mistranslation??)+++.
 * This is also termed as _cit_ (चित्) and _cētya_ (चेत्य) –  _saṁvit_   __(संवित्)__ and  _saṁvedya_   __(संवेद्य)__ as in Yōgavāsiṣṭha. _Cit_, which is just the knowing, has become _Cētya_, the known by the degenerative process of focussing into creation. This is how we cognize the world. After position of this focussing is _vastu_ (वस्तु – a thing, an object, a thought, etc.)
 * The in-between process or stage of _Cit_ and _Cētya_ is beautifully recognized by Yōgavāsiṣṭha as _cētyōnmukhata_ – चेत्योन्मुखत or vēdyōnmukhata / _vēdanōnmukhata_ - वेद्योन्मुखत / वेदनोन्मुखत – is knowing which is, in the process of becoming known. That is Knowing is in the process of cognition or crystallisation of thought. The result is, you have pictures and sounds and the movements of different intensities. We call it by _nāma, rūpa, karma_ – नाम, रूप, कर्म - name, form, activity.
 
