@@ -7,16 +7,23 @@ title = "१८ अपराधपरिहाराधिकारः"
 ॥ श्रीमते निगमान्तमहादेशिकाय नमः ॥  
 ॥ श्रीमद्रहस्यत्रयसारे अपराधपरिहाराधिकारः ॥ १८ ॥
 
-(18) THE CHAPTER ON THE ATONEMENT
+<details><summary>English</summary>
 
-FOR OFFENCES. page235
+(18) THE CHAPTER ON THE ATONEMENT FOR OFFENCES. page235
+</details>
+
 
 <details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
-स्वच्छस्वादुसदावदात सुभगां दैवादयं देहभृन्-  
-मालिन्यप्रशमाय माधवदयामन्दाकिनीं विन्दति ।  
-यद्यप्येवमसावसारविषयस्त्रोतःप्रसूतैः पुनः  
-पङ्कैरेव कळङ्कयन्निजतनुं प्राज्ञैर्न संश्लिष्यते ॥ ४० ॥
+स्वच्छ-स्वादु-सदावदात-सुभगां दैवाद् अयं देहभृन्   
+मालिन्य-प्रशमाय माधव-दया-मन्दाकिनीं विन्दति ।  
+यद्य् अप्य् एवम् असाव् अ-सार-विषय-स्रोतः-प्रसूतैः पुनः  
+पङ्कैर् एव कलङ्कयन् निज-तनुं प्राज्ञैर् न संश्लिष्यते ॥ ४० ॥
+</details>
+
+<details><summary>English</summary>
+
+This embodied being (the Jīva  ) obtains the grace of Madhava by the result of past karma (luck), for the removal of his sins -- the grace of Madhava which, by its purity, delightfulness, holiness and efficacy is like the (holy) Mandakini whose waters are clear, sweet, always pure (white) and efficacious. (That is, he becomes a prapanna ). If, in spite of this, he still makes his body unclean by wallowing in the mire of the stream of wretched sense pleasures, his company is avoided by the wise (but this would not stand in the way of his attainment of mokṣa after death).
 </details>
 
 <details><summary>संस्कृतम् - मूलम्</summary>
@@ -24,23 +31,188 @@ FOR OFFENCES. page235
 स्वच्छस्वादुसदावदात सुभगां दैवादयं देहभृन्-  
 मालिन्यप्रशमाय माधवदयामन्दाकिनीं विन्दति ।  
 यद्यप्येवमसावसारविषयस्त्रोतःप्रसूतैः पुनः  
-पङ्कैरेव कळङ्कयन्निजतनुं प्राज्ञैर्न संश्लिष्यते ॥ ४० ॥
+पङ्कैरेव कलङ्कयन्निजतनुं प्राज्ञैर्न संश्लिष्यते ॥ ४० ॥
 </details>
 
-This embodied being (the Jīva  ) obtains the grace of Madhava by the result of past karma (luck), for the removal of his sins -- the grace of Madhava which, by its purity, delightfulness, holiness and efficacy is like the (holy) Mandakini whose waters are clear, sweet, always pure (white) and efficacious. (That is, he becomes a prapanna ). If, in spite of this, he still makes his body unclean by wallowing in the mire of the stream of wretched sense pleasures, his company is avoided by the wise (but this would not stand in the way of his attainment of mokṣa after death).
 
-THE PRAPANNA IS NOT LIKELY TO OFFEND;
 
-IF HE OFFENDS, HE SHOULD PERFORM
+THE PRAPANNA IS NOT LIKELY TO OFFEND;  
+IF HE OFFENDS, HE SHOULD PERFORM PRĀYASCHITTA.
 
-PRĀYASCHITTA.
 
-Since the prapanna has, by nature, the sole character of a śeṣa to Bhagavān and since he delights only in rendering service to Him in accordance with the ordinances of the śāstras, it is not at all likely that, in other situations than those that are dangerous, he will offend against the Lord, as it would be opposed to his adopted state of being the exclusive servant of the Lord. If as a result of past karma which has begun to operate (prārabdha) and under adverse conditions of place, time and circumstance, slight offences (against the Lord) take place through inattention in the waking state or (without his knowledge) in dreamless sleep (suṣupti) and other such states, these offences will disappear without causing any stain. If, at the time of prapatti, he did not beg, with dread of them, for the removal of such sins as lead to further sins, since he is still in close association with prakṛti like one who lives under the same roof with a serpent, it is just possible , owing to his deficiency in spiritual qualities, certain lapses
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-which are inconsistent with his state as a prapanna might, as in the case of weak-hearted Rishis, even occur with his knowledge. If sach lapses do occur, the Lord of Lakṣmī , who, by His very nature, is his well-wisher, stands ever ready to save him. Therefore these lapses in his actions will only be momentary like lightning; he will quickly reflect on these lapses from his state as a prapanna, feel ashamed at them, repent of them, and perform the proper atonement (prāyaścitta) that is suited to his competence. The following ślokas explain the point-"If there is offence, the atonement that is to be done is only the performance of prapatti again. If, after performing prapatti for the sake of mokṣa , a man should perform karma yoga and the like with the thought that these are upāyas (to mokṣa), it would also constitute an offence. In order that this offence might disappear, prapatti alone should be performed again". "Whether a man commits an offence knowing that it is an offence or does it without knowing it to be one, the only atonement (prāyaścitta) that has to be performed is to beg in these words :-"Pardon the offence". So also Sītā says: “It is well known that ŚrīRāma knows what Dharma is and is fond of those who seek refuge under him. Seek his friendship if you desire to live. Propitiate ŚrīRāma who loves those that surrender themselves to him and, with a pure heart, see that I am returned to him."
+इप्पडि भगवच्-छेषतैक-स्वभावन् आगैयाले,  
+शास्त्र-नियत-तत्-कैङ्कर्यैक-रसन् आन इव्व्-अधिकारिक्कुप्-पिन्ब्  
+अनापत्तिल् बुद्धि-पूर्वकम् आनव् अपराधम् वरुगै-पट्रिन  
+कैङ्कर्यैक-निष्ठैक्कु विरुद्धम् आगैयाले  
+प्रायेण **संभावितम् अण्ड्रु**.
+</details>
+
+<details><summary>English</summary>
+
+Since the prapanna has, by nature, the sole character of a śeṣa to Bhagavān  
+and since he delights only in rendering service to Him in accordance with the ordinances of the śāstras,  
+it is not at all likely that, in other situations than those that are dangerous, he will offend against the Lord,  
+as it would be opposed to his adopted state of being the exclusive servant of the Lord. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि भगवच्छेषतैकस्वभावनागैयाले शास्त्रनियत तत्कैङ्कर्यैकरसनान इव्वधिकारिक्कुप् पिन्बनापत्तिल् बुद्धिपूर्वकमान वपराधम् वरुगै पट्रिन कैङ्कर्यैकनिष्ठैक्कु विरुद्धमागैयाले प्रायेण संभावितमण्ड्रु.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रारब्ध-कर्म-विशेष-वशत्ताले  
+देश-कालावस्था-वैगुण्य-हेतुकम् आगवुम्  
+प्रामादिकम् आगवुम्  
+सुषुप्त्य्-आद्य्-अवस्थै-कळिलुम् वरुम्  
+अपराध-लेशङ्गळ् उळ्ळवै अ-श्लेष-विषयम् आय्क्  
+कऴिन्दु-बोम्. 
+</details>
+
+<details><summary>English</summary>
+
+If as a result of past karma which has begun to operate (prārabdha)  
+and under adverse conditions of place, time and circumstance, slight offences (against the Lord) take place through inattention in the waking state or (without his knowledge) in dreamless sleep (suṣupti) and other such states,  
+these offences will disappear without causing any stain.
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रारब्धकर्मविशेषवशत्ताले देशकालावस्थावैगुण्यहेतुकमागवुम् प्रामादिकमागवुम् सुषुप्त्याद्यवस्थैकळिलुम् वरुम् अपराधलेशङ्गळुळ्ळवै अश्लेष विषयमाय्क् कऴिन्दुबोम्. 
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+बुद्धि-पूर्वक-पापारंभक-पापङ्गळुक्क् अञ्जिय्,  
+अवैयुङ् गऴिय-वेण्डुम् ऎण्ड्रु प्रपत्ति पण्णादे,  
+पाम्ब्-ओड् ऒरु कूरैयिले+++(=roof)+++ पयिण्ड्राऱ्+++(=जीवन्)+++ ‌पोले,  
+प्रकृतिय्-ओडे कूडव् इरुक्किऱव् इवनुक्कु,  
+आत्म-गुण-पूर्तिय् इल्लामैयाले  
+मन्द-धैर्यर् आन ऋषिकळुक्कुप् पोले  
+बुद्धि-पूर्वकम् आगवुम्  
+सिल स्व-निष्ठा-विपरीतङ्गळ्  
+वन्दालुम् 
+</details>
+<details><summary>English</summary>
+
+If, at the time of prapatti, he did not beg, with dread of them, for the removal of such sins as lead to further sins,  
+since he is still in close association with prakṛti  
+like one who lives under the same roof with a serpent,  
+it is just possible , owing to his deficiency in spiritual qualities,  
+certain lapses which are inconsistent with his state as a prapanna might, as in the case of weak-hearted Rishis, even occur with his knowledge.
+
+If sach lapses do occur,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+बुद्धिपूर्वकपापारंभकपापङ्गळुक्कञ्जि यवैयुङ्गऴियवेण्डुमॆण्ड्रु प्रपत्ति पण्णादे पाम्बोडॊरु कूरैयिले पयिण्ड्राऱ्‌पोले प्रकृतियोडे कूडविरुक्किऱविवनुक्कु आत्मगुणपूर्तियिल्लामैयाले मन्दधैर्यरान ऋषि कळुक्कुप् पोले बुद्धिपूर्वकमागवुम् सिल स्वनिष्ठाविपरीतङ्गळ् वन्दालुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+निसर्ग-सुहृत्त् आन श्रियः-पति रक्षणोन्मुखन् आय् निऱ्‌कैयालेय्  
+इव् विपरीतानुष्ठानङ्गळ् मिन्न्-ऒळि+++(=कान्ति)+++-मात्रम् आय्  
+निलै निऱ्‌कुम् अवैय् अण्ड्रिक्के अक्-कालत्तिल् पिऱन्द स्व-निष्ठा-वैपरीत्यम् आगिऱ-विऴवैक्कडुग अनुसन्धित्तु  
+यथोचितम् आग लज्जानुतापङ्गळ् पिऱन्दु  
+</details>
+
+<details><summary>English</summary>
+
+the Lord of Lakṣmī , who, by His very nature, is his well-wisher,  
+stands ever ready to save him.  
+Therefore these lapses in his actions will only be momentary like lightning;  
+he will quickly reflect on these lapses from his state as a prapanna, feel ashamed at them, repent of them, 
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+निसर्गसुहृत्तान श्रियःपति रक्षणोन्मुखनाय् निऱ्‌कैयाले  
+यिव्विपरीतानुष्ठानङ्गळ् मिन्नॊळिमात्रमाय् निलै निऱ्‌कुमवैयण्ड्रिक्के अक्कालत्तिल् पिऱन्द स्वनिष्ठावैपरीत्यमागिऱविऴवैक्कडुग अनुसन्धित्तु यथोचितमाग लज्जानुतापङ्गळ् पिऱन्दु 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘अपायसंप्लवे सद्यः  
+> प्रायश्चित्तं समाचरेत् ।  
+> प्रायश्चित्तिर् इयं सात्र  
+> यत् पुनश् शरणं व्रजेत् +++(प्रपत्त्या)+++ ॥  
+> +++(कर्मयोगाद्य्-)+++उपायानाम् उपायत्व-  
+> स्वीकारे ऽप्य् एतद् एव हि +++(प्रपत्तिकर्म प्रायश्चित्तम्)+++’’ 
+> (लक्ष्मीतन्त्रम् 17-91.) 
+
+
+> ‘‘अज्ञानाद् अथवा ज्ञानाद्  
+> अपराधेषु सत्स्वपि ।  
+> प्रायश्चित्तं "क्षमस्वे"ति  
+> प्रार्थनैकैव केवलम्’’  
+> (वङ्गीपुरत्तु-नम्बिकारिकै) 
+> 
+> ‘‘विदितस् स हि धर्मज्ञः  
+> शरणागत-वत्सलः ।  
+> तेन मैत्री भवतु ते  
+> यदि जीवितुम् इच्छसि ।  
+> प्रसादयस्व त्वञ् चैनं  
+> शरणागत-वत्सलम् ।  
+> माञ्चास्मै प्रयतो भूत्वा  
+> +++(मां)+++ निर्यातयितुम् अर्हसि’’  
+> +++(इति सीता)+++    
+> (रामायणम् सुन्दरकाण्डम् 21-20 ) 
+> 
+> इत्यादि-कळिऱ्‌-चॊल्लुगिऱबडिये  
+> यथाधिकारम् प्रायश्चित्तावलम्बनम् उण्डाम्.
+
+</details>
+
+<details><summary>English</summary>
+
+and perform the proper atonement (prāyaścitta) that is suited to his competence. The following ślokas explain the point-
+
+> "If there is offence,  
+> the atonement that is to be done is only the performance of prapatti again.  
+> If, after performing prapatti for the sake of mokṣa ,  
+> a man should perform karma yoga and the like with the thought that these are upāyas (to mokṣa),  
+> it would also constitute an offence.  
+> In order that this offence might disappear,  
+> prapatti alone should be performed again". 
+
+
+> "Whether a man commits an offence knowing that it is an offence or does it without knowing it to be one,  
+> the only atonement (prāyaścitta) that has to be performed is to beg in these words :- "Pardon the offence". 
+
+
+> So also Sītā says:  
+> “It is well known that ŚrīRāma knows what Dharma is  
+> and is fond of those who seek refuge under him.  
+> Seek his friendship if you desire to live.  
+> Propitiate ŚrīRāma who loves those that surrender themselves to him and, with a pure heart,  
+> see that I am returned to him."
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+‘‘अपायसंप्लवे सद्यः प्रायश्चित्तं समाचरेत् । प्रायश्चित्तिरियं सात्र यत्पुनश्शरणं व्रजेत् ॥ उपायानामुपायत्वस्वीकारेऽप्येतदेव हि’’(लक्ष्मीतन्त्रम् 17-91.) ‘‘अज्ञानादथवा ज्ञानादपराधेषु सत्स्वपि । प्रायश्चित्तं क्षमस्वेति प्रार्थनैकैव केवलम्’’(वङ्गीपुरत्तु नम्बिकारिकै) ‘‘विदितस्स हि धर्मज्ञः शरणागतवत्सलः । तेन मैत्री
+
+भवतु ते यदि जीवितुमिच्छसि । प्रसादयस्व त्वञ्चैनं शरणागतवत्सलम् । माञ्चास्मै प्रयतो भूत्वा निर्यातयितुमर्हसि’’(रामायणम् सुन्दरकाण्डम् 21-20) इत्यादिकळिऱ्‌चॊल्लुगिऱबडिये यथाधिकारम् प्रायश्चित्तावलम्बन मुण्डाम्.
+
+</details>
+
+
 
 THE PRAPANNA WILL NEVER GO TO THE WORLD
-
 OF YAMA EVEN IF HE OFFENDS:
 
 When, owing to hard-heartedness due to past karma operating now (prārabdha), the prapanna does not obtain pardon by atonement, he will not go to the world of Yama (but receive punishment in this very life). For it has been said :- "Seeing his attendants with the noose (of death ) in their hands, Yama whispers in their ears :-- "Do not approach those who have performed prapatti at (the feet of) Madhusūdana. I have sway only over others and not over the devotees of Viṣṇu ". And Again : - "O Thou with lotus-like eyes, O Vāsudeva, O Viṣṇu, O Thou that bearest the earth, O Thou that art armed with the conch and the discus, be Thou my refuge" - those that utter these words - leave them at a distance for they are not sinners", and further, "Those that perform prapatti to Viṣṇu, the God who is armed with sārnga, never go to the world of Yama, for naraka is not their dwelling place." As stated above in such treatises as Viṣṇu purāna and Vamanapurāna and the passages in the strutis on which they are based, they do not go to the land of Yama, but they are punished with the blindness of an eye, or the lameness of a leg, or some such thing and thus relieved of their burden (of sin). (They will be punished in this life itself here) on the analogy of one (who is dear) being punished with the prick of a thorn instead of being stabbed with a spear. The Supreme Lord, being possessed of forgiveness, kindness, compassion and over-flowing love, relents in His anger and protects the prapanna after a light punishment in this very life for his offence. An emperor, who is to be duly served, punishes his attendants (like those who carry the umbrellas ), the servants of the harem like the hunchbacks and the dwarfs and so also the princes, in proportion to their offences and (also) to such things as their closeness to Him. (He punishes them) for having committed offences, in spite of his affection to them due to their relationship and His goodness. (He punishes them) so that they may obtain pardon for their offences and know that, in future, they may not offend (in the same manner). The punishments are such as the following: averting his face from them, whipping, getting them driven out, keeping them outside the gates and suspension for a short time. Similarly Iśvara punishes the prapanna, as ŚrīRāma did in the case of Kakasura by making him lose an eye and thus protects him.
