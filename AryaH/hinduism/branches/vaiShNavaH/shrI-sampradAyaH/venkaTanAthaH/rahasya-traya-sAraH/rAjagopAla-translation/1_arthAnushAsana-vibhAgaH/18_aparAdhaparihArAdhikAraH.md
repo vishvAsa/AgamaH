@@ -120,8 +120,9 @@ If sach lapses do occur,
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निसर्ग-सुहृत्त् आन श्रियः-पति रक्षणोन्मुखन् आय् निऱ्‌कैयालेय्  
-इव् विपरीतानुष्ठानङ्गळ् मिन्न्-ऒळि+++(=कान्ति)+++-मात्रम् आय्  
-निलै निऱ्‌कुम् अवैय् अण्ड्रिक्के अक्-कालत्तिल् पिऱन्द स्व-निष्ठा-वैपरीत्यम् आगिऱ-विऴवैक्कडुग अनुसन्धित्तु  
+इव् विपरीतानुष्ठानङ्गळ् मिन्न्-ऒळि+++(=कान्ति)+++-मात्रम् आय् निलै निऱ्‌कुम्  
+अवैय् अण्ड्रिक्के अक्-कालत्तिल् पिऱन्द  
+स्व-निष्ठा-वैपरीत्यम् आगिऱ-विऴवैक्कडुग अनुसन्धित्तु  
 यथोचितम् आग लज्जानुतापङ्गळ् पिऱन्दु  
 </details>
 
@@ -170,9 +171,9 @@ he will quickly reflect on these lapses from his state as a prapanna, feel asham
 > +++(इति सीता)+++    
 > (रामायणम् सुन्दरकाण्डम् 21-20 ) 
 > 
-> इत्यादि-कळिऱ्‌-चॊल्लुगिऱबडिये  
-> यथाधिकारम् प्रायश्चित्तावलम्बनम् उण्डाम्.
 
+इत्यादि-गळिऱ् चॊल्लुगिऱ् अबडिये+++(→अप्पडिये)+++  
+यथाधिकारम् प्रायश्चित्तावलम्बनम् उण्डाम्.
 </details>
 
 <details><summary>English</summary>
@@ -215,7 +216,26 @@ and perform the proper atonement (prāyaścitta) that is suited to his competenc
 THE PRAPANNA WILL NEVER GO TO THE WORLD
 OF YAMA EVEN IF HE OFFENDS:
 
-When, owing to hard-heartedness due to past karma operating now (prārabdha), the prapanna does not obtain pardon by atonement, he will not go to the world of Yama (but receive punishment in this very life). For it has been said :- "Seeing his attendants with the noose (of death ) in their hands, Yama whispers in their ears :-- "Do not approach those who have performed prapatti at (the feet of) Madhusūdana. I have sway only over others and not over the devotees of Viṣṇu ". And Again : - "O Thou with lotus-like eyes, O Vāsudeva, O Viṣṇu, O Thou that bearest the earth, O Thou that art armed with the conch and the discus, be Thou my refuge" - those that utter these words - leave them at a distance for they are not sinners", and further, "Those that perform prapatti to Viṣṇu, the God who is armed with sārnga, never go to the world of Yama, for naraka is not their dwelling place." As stated above in such treatises as Viṣṇu purāna and Vamanapurāna and the passages in the strutis on which they are based, they do not go to the land of Yama, but they are punished with the blindness of an eye, or the lameness of a leg, or some such thing and thus relieved of their burden (of sin). (They will be punished in this life itself here) on the analogy of one (who is dear) being punished with the prick of a thorn instead of being stabbed with a spear. The Supreme Lord, being possessed of forgiveness, kindness, compassion and over-flowing love, relents in His anger and protects the prapanna after a light punishment in this very life for his offence. An emperor, who is to be duly served, punishes his attendants (like those who carry the umbrellas ), the servants of the harem like the hunchbacks and the dwarfs and so also the princes, in proportion to their offences and (also) to such things as their closeness to Him. (He punishes them) for having committed offences, in spite of his affection to them due to their relationship and His goodness. (He punishes them) so that they may obtain pardon for their offences and know that, in future, they may not offend (in the same manner). The punishments are such as the following: averting his face from them, whipping, getting them driven out, keeping them outside the gates and suspension for a short time. Similarly Iśvara punishes the prapanna, as ŚrīRāma did in the case of Kakasura by making him lose an eye and thus protects him.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रारब्ध-कर्म-विशेष-वशत्ताले कठिन-प्रकृतियाय्  
+क्षमैकॊळ्ळु-गैयुङ् गैदप्-पिन पोदु  
+
+</details>
+
+<details><summary>Keith</summary>
+
+When, owing to hard-heartedness due to past karma operating now (prārabdha), the prapanna does not obtain pardon by atonement, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रारब्धकर्मविशेषवशत्ताले कठिनप्रकृतियाय् क्षमैकॊळ्ळुगैयुङ् गैदप्पिन पोदु
+</details>
+
+
+he will not go to the world of Yama (but receive punishment in this very life). For it has been said :- "Seeing his attendants with the noose (of death ) in their hands, Yama whispers in their ears :-- "Do not approach those who have performed prapatti at (the feet of) Madhusūdana. I have sway only over others and not over the devotees of Viṣṇu ". And Again : - "O Thou with lotus-like eyes, O Vāsudeva, O Viṣṇu, O Thou that bearest the earth, O Thou that art armed with the conch and the discus, be Thou my refuge" - those that utter these words - leave them at a distance for they are not sinners", and further, "Those that perform prapatti to Viṣṇu, the God who is armed with sārnga, never go to the world of Yama, for naraka is not their dwelling place." As stated above in such treatises as Viṣṇu purāna and Vamanapurāna and the passages in the strutis on which they are based, they do not go to the land of Yama, but they are punished with the blindness of an eye, or the lameness of a leg, or some such thing and thus relieved of their burden (of sin). (They will be punished in this life itself here) on the analogy of one (who is dear) being punished with the prick of a thorn instead of being stabbed with a spear. The Supreme Lord, being possessed of forgiveness, kindness, compassion and over-flowing love, relents in His anger and protects the prapanna after a light punishment in this very life for his offence. An emperor, who is to be duly served, punishes his attendants (like those who carry the umbrellas ), the servants of the harem like the hunchbacks and the dwarfs and so also the princes, in proportion to their offences and (also) to such things as their closeness to Him. (He punishes them) for having committed offences, in spite of his affection to them due to their relationship and His goodness. (He punishes them) so that they may obtain pardon for their offences and know that, in future, they may not offend (in the same manner). The punishments are such as the following: averting his face from them, whipping, getting them driven out, keeping them outside the gates and suspension for a short time. Similarly Iśvara punishes the prapanna, as ŚrīRāma did in the case of Kakasura by making him lose an eye and thus protects him.
 
 Directing those that are gentle to obtain pardon (by atonement) and punishing those that are tough by nature for the sake of correction are of the nature of the Lord's forgiveness, which is a consequence of their prapatti that preceded it. One should therefore feel grateful to the Lord for this correction. To emphasise this point, some said that the Lord would pardon even those sins that are committed deliberately. (They did not mean to say that deliberate offences would be pardoned without any punishment).
 
