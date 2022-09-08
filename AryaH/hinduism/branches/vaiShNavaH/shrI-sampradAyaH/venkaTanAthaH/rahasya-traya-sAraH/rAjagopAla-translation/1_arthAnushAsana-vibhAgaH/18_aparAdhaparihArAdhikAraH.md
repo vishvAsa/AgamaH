@@ -358,14 +358,21 @@ and further, "Those that perform prapatti to Viṣṇu, the God who is armed wit
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऎण्ड्रु वैष्णव-वामनादि-पुराणङ्गळिन् पासुरङ्गळुक्कु मूल-मान श्रुतियिऱ्‌ चॊल्लुगिऱ् अबडिये  
-यम-विषय-गमनम् इण्ड्रिक्के+++(=इल्लादे)+++ वेलिट्टुप् पाय+++(=हार)+++ वेण्डुम्
+यम-विषय-गमनम् इण्ड्रिक्के+++(=इल्लादे)+++ वेल् इट्टुप् पाय+++(→हाय्)+++ वेण्डुमदु  
+मुळ्ळिट्टुप् पाय्न्दु,  
+कऴियुम् ऎन्गिऱ+++(=ऎम्बुव)+++ कणक्किले  
++++(अन्धता-स्थानत्तिल्)+++ काणन्,  
++++(द्वि-पाद-हति-स्थानत्तिल्)+++ खञ्जन् ऎण्ड्रु  
+मुदल् आगवोदुगिऱविङ्गुट्रैयुप-क्लेश-मुखत्ताले  
+सिगैय् अऱुक्कुम् विरगुगळै  
+मुन्निट्टु सर्वेश्वरन् क्षमा-प्रेम-दया-वात्सल्यङ्गळाले तणिन्द प्रतापत्तैयुडैयनाय् मिगवुम्
 </details>
 
 <details><summary>English</summary>
 
 he will not go to the world of Yama (but receive punishment in this very life).  
 
-As stated above in such treatises as Viṣṇu purāna and Vamanapurāna and the passages in the strutis on which they are based, they do not go to the land of Yama, 
+As stated above in such treatises as Viṣṇu purāna and Vamanapurāna and the passages in the strutis on which they are based, they do not go to the land of Yama, but they are punished with the blindness of an eye, or the lameness of a leg, or some such thing and thus relieved of their burden (of sin). (They will be punished in this life itself here) on the analogy of one (who is dear) being punished with the prick of a thorn instead of being stabbed with a spear.
 </details>
 
 
@@ -376,7 +383,7 @@ As stated above in such treatises as Viṣṇu purāna and Vamanapurāna and the
 </details>
 
 
-but they are punished with the blindness of an eye, or the lameness of a leg, or some such thing and thus relieved of their burden (of sin). (They will be punished in this life itself here) on the analogy of one (who is dear) being punished with the prick of a thorn instead of being stabbed with a spear. The Supreme Lord, being possessed of forgiveness, kindness, compassion and over-flowing love, relents in His anger and protects the prapanna after a light punishment in this very life for his offence. An emperor, who is to be duly served, punishes his attendants (like those who carry the umbrellas ), the servants of the harem like the hunchbacks and the dwarfs and so also the princes, in proportion to their offences and (also) to such things as their closeness to Him. (He punishes them) for having committed offences, in spite of his affection to them due to their relationship and His goodness. (He punishes them) so that they may obtain pardon for their offences and know that, in future, they may not offend (in the same manner). The punishments are such as the following: averting his face from them, whipping, getting them driven out, keeping them outside the gates and suspension for a short time. Similarly Iśvara punishes the prapanna, as ŚrīRāma did in the case of Kakasura by making him lose an eye and thus protects him.
+The Supreme Lord, being possessed of forgiveness, kindness, compassion and over-flowing love, relents in His anger and protects the prapanna after a light punishment in this very life for his offence. An emperor, who is to be duly served, punishes his attendants (like those who carry the umbrellas ), the servants of the harem like the hunchbacks and the dwarfs and so also the princes, in proportion to their offences and (also) to such things as their closeness to Him. (He punishes them) for having committed offences, in spite of his affection to them due to their relationship and His goodness. (He punishes them) so that they may obtain pardon for their offences and know that, in future, they may not offend (in the same manner). The punishments are such as the following: averting his face from them, whipping, getting them driven out, keeping them outside the gates and suspension for a short time. Similarly Iśvara punishes the prapanna, as ŚrīRāma did in the case of Kakasura by making him lose an eye and thus protects him.
 
 Directing those that are gentle to obtain pardon (by atonement) and punishing those that are tough by nature for the sake of correction are of the nature of the Lord's forgiveness, which is a consequence of their prapatti that preceded it. One should therefore feel grateful to the Lord for this correction. To emphasise this point, some said that the Lord would pardon even those sins that are committed deliberately. (They did not mean to say that deliberate offences would be pardoned without any punishment).
 
