@@ -13,6 +13,7 @@ title = "१८ अपराधपरिहाराधिकारः"
 </details>
 
 
+__________
 <details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 स्वच्छ-स्वादु-सदावदात-सुभगां दैवाद् अयं देहभृन्   
@@ -40,6 +41,7 @@ THE PRAPANNA IS NOT LIKELY TO OFFEND;
 IF HE OFFENDS, HE SHOULD PERFORM PRĀYASCHITTA.
 
 
+__________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्पडि भगवच्-छेषतैक-स्वभावन् आगैयाले,  
@@ -48,6 +50,13 @@ IF HE OFFENDS, HE SHOULD PERFORM PRĀYASCHITTA.
 कैङ्कर्यैक-निष्ठैक्कु विरुद्धम् आगैयाले  
 प्रायेण **संभावितम् अण्ड्रु**.
 </details>
+
+<details><summary>संस्कृतम्</summary>
+
+एवं  भगवच्छेषतैकस्वभावस्य  शास्त्रनियततत्कैङ्कर्यैकरसिकस्य  अधिकारिणः  अनापदि  बुद्धिपूर्वकापराधः  स्वीकृतकैङ्कर्यैकनिष्ठाविरुद्धत्वात्  प्रायशो  **न  सम्भवति**  ।
+</details>
+
+
 
 <details><summary>English</summary>
 
@@ -64,6 +73,8 @@ as it would be opposed to his adopted state of being the exclusive servant of th
 </details>
 
 
+
+__________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रारब्ध-कर्म-विशेष-वशत्ताले  
@@ -73,6 +84,17 @@ as it would be opposed to his adopted state of being the exclusive servant of th
 अपराध-लेशङ्गळ् उळ्ळवै अ-श्लेष-विषयम् आय्क्  
 कऴिन्दु-बोम्. 
 </details>
+
+<details><summary>संस्कृतम्</summary>
+
+प्रारब्ध-कर्म-विशेष-वशात्  
+देश-कालावस्थादि-वशात्  
+प्रमादवशात्   
+सुषुप्त्याद्य्-अवस्था-वशाच्च  
+सम्भवन्न् अपि  अ-श्लेष-विषयतया  विनश्यति  ॥
+</details>
+
+
 
 <details><summary>English</summary>
 
@@ -87,18 +109,31 @@ these offences will disappear without causing any stain.
 
 </details>
 
+__________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बुद्धि-पूर्वक-पापारंभक-पापङ्गळुक्क् अञ्जिय्,  
-अवैयुङ् गऴिय-वेण्डुम् ऎण्ड्रु प्रपत्ति पण्णादे,  
+**अवैयुङ् गऴिय-वेण्डुम्** ऎण्ड्रु **प्रपत्ति पण्णादे**,  
 पाम्ब्-ओड् ऒरु कूरैयिले+++(=roof)+++ पयिण्ड्राऱ्+++(=जीवन्)+++ ‌पोले,  
 प्रकृतिय्-ओडे कूडव् इरुक्किऱव् इवनुक्कु,  
 आत्म-गुण-पूर्तिय् इल्लामैयाले  
 मन्द-धैर्यर् आन ऋषिकळुक्कुप् पोले  
 बुद्धि-पूर्वकम् आगवुम्  
-सिल स्व-निष्ठा-विपरीतङ्गळ्  
-वन्दालुम् 
+सिल **स्व-निष्ठा-विपरीतङ्गळ् वन्दालुम्** 
 </details>
+
+<details><summary>संस्कृतम्</summary>
+
+अथ  मोक्षार्थ-प्रपत्त्य्-अनुष्ठान-वेलायां  
+बुद्धि-पूर्वक-पापारभक-पापानाम् अपि  **निवृत्तिम् अनन्तर्-भावयतां**  
+सर्पेणेव  शरीरेण  सह  निवसताम्  
+आत्म-गुण-पूर्ति-विरहात्  
+मन्दधैर्याणाम् इव  ऋषीणां  
+बुद्धि-पूर्वके ऽपि  क्वचिद् **विपरीतानुष्ठाने  सति**  
+</details>
+
+
+
 <details><summary>English</summary>
 
 If, at the time of prapatti, he did not beg, with dread of them, for the removal of such sins as lead to further sins,  
@@ -117,13 +152,17 @@ If sach lapses do occur,
 </details>
 
 
+__________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निसर्ग-सुहृत्त् आन श्रियः-पति रक्षणोन्मुखन् आय् निऱ्‌कैयालेय्  
-इव् विपरीतानुष्ठानङ्गळ् मिन्न्-ऒळि+++(=कान्ति)+++-मात्रम् आय् निलै निऱ्‌कुम्  
-अवैय् अण्ड्रिक्के अक्-कालत्तिल् पिऱन्द  
-स्व-निष्ठा-वैपरीत्यम् आगिऱ-विऴवैक्-कडुग+++(=??)+++ अनुसन्धित्तु  
-यथोचितम् आग लज्जानुतापङ्गळ् पिऱन्दु  
+इव् विपरीतानुष्ठानङ्गळ् मिन्न्-ऒळि+++(=कान्ति)+++-मात्रम् आय् निलै निऱ्‌कुम्.  
+</details>
+
+<details><summary>संस्कृतम्</summary>
+
+निसर्ग-सुहृद् रक्षणोन्मुखः  श्रियःपतिः  
+लज्जानुतापादिभिः  यथाधिकारं  प्रायश्चित्तम् आसादयति  ॥
 </details>
 
 <details><summary>English</summary>
@@ -131,18 +170,36 @@ If sach lapses do occur,
 the Lord of Lakṣmī , who, by His very nature, is his well-wisher,  
 stands ever ready to save him.  
 Therefore these lapses in his actions will only be momentary like lightning;  
-he will quickly reflect on these lapses from his state as a prapanna, feel ashamed at them, repent of them, 
 </details>
-
-
 
 <details><summary>मूलम्</summary>
 
 निसर्गसुहृत्तान श्रियःपति रक्षणोन्मुखनाय् निऱ्‌कैयाले  
-यिव्विपरीतानुष्ठानङ्गळ् मिन्नॊळिमात्रमाय् निलै निऱ्‌कुमवैयण्ड्रिक्के अक्कालत्तिल् पिऱन्द स्वनिष्ठावैपरीत्यमागिऱविऴवैक्कडुग अनुसन्धित्तु यथोचितमाग लज्जानुतापङ्गळ् पिऱन्दु 
+यिव्विपरीतानुष्ठानङ्गळ् मिन्नॊळिमात्रमाय् निलै निऱ्‌कुम् 
+</details>
+
+__________
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अवैय् अण्ड्रिक्के अक्-कालत्तिल् पिऱन्द  
+स्व-निष्ठा-वैपरीत्यम् आगिऱ-विऴवैक्+++(=प्रभाव)+++ कडुग+++(=शीघ्रम्)+++ अनुसन्धित्तु  
+यथोचितम् आग लज्जानुतापङ्गळ् पिऱन्दु  
+</details>
+
+<details><summary>English</summary>
+
+he will quickly reflect on these lapses from his state as a prapanna, feel ashamed at them, repent of them, 
 </details>
 
 
+<details><summary>मूलम्</summary>
+
+अवैयण्ड्रिक्के अक्कालत्तिल् पिऱन्द स्वनिष्ठावैपरीत्यमागिऱविऴवैक्कडुग अनुसन्धित्तु यथोचितमाग लज्जानुतापङ्गळ् पिऱन्दु 
+</details>
+
+
+
+__________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘‘अपायसंप्लवे सद्यः  
@@ -216,16 +273,23 @@ and perform the proper atonement (prāyaścitta) that is suited to his competenc
 THE PRAPANNA WILL NEVER GO TO THE WORLD
 OF YAMA EVEN IF HE OFFENDS:
 
+__________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रारब्ध-कर्म-विशेष-वशत्ताले कठिन-प्रकृतियाय्  
-क्षमैकॊळ्ळु-गैयुङ् गैदप्-पिन पोदु  
-
+प्रारब्ध-कर्म-विशेष-वशत्ताले कठिन-प्रकृतिय् आय्  
+क्षमै-कॊळ्ळुगैयुङ् गैदप्-पिन पोदु
 </details>
 
-<details><summary>Keith</summary>
+<details><summary>संस्कृतम्</summary>
 
-When, owing to hard-heartedness due to past karma operating now (prārabdha), the prapanna does not obtain pardon by atonement, 
+एवं  प्रारब्धकर्मविशेषवशात्  कठिनप्रकृतीनां  यथाधिकारं  प्रायश्चित्तमकृतवतां  
+</details>
+
+
+
+<details><summary>English</summary>
+
+When, owing to hard-heartedness due to past karma operating now (prārabdha), the prapanna does not+++(??)+++ obtain pardon by atonement, 
 </details>
 
 
@@ -234,8 +298,85 @@ When, owing to hard-heartedness due to past karma operating now (prārabdha), th
 प्रारब्धकर्मविशेषवशत्ताले कठिनप्रकृतियाय् क्षमैकॊळ्ळुगैयुङ् गैदप्पिन पोदु
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-he will not go to the world of Yama (but receive punishment in this very life). For it has been said :- "Seeing his attendants with the noose (of death ) in their hands, Yama whispers in their ears :-- "Do not approach those who have performed prapatti at (the feet of) Madhusūdana. I have sway only over others and not over the devotees of Viṣṇu ". And Again : - "O Thou with lotus-like eyes, O Vāsudeva, O Viṣṇu, O Thou that bearest the earth, O Thou that art armed with the conch and the discus, be Thou my refuge" - those that utter these words - leave them at a distance for they are not sinners", and further, "Those that perform prapatti to Viṣṇu, the God who is armed with sārnga, never go to the world of Yama, for naraka is not their dwelling place." As stated above in such treatises as Viṣṇu purāna and Vamanapurāna and the passages in the strutis on which they are based, they do not go to the land of Yama, but they are punished with the blindness of an eye, or the lameness of a leg, or some such thing and thus relieved of their burden (of sin). (They will be punished in this life itself here) on the analogy of one (who is dear) being punished with the prick of a thorn instead of being stabbed with a spear. The Supreme Lord, being possessed of forgiveness, kindness, compassion and over-flowing love, relents in His anger and protects the prapanna after a light punishment in this very life for his offence. An emperor, who is to be duly served, punishes his attendants (like those who carry the umbrellas ), the servants of the harem like the hunchbacks and the dwarfs and so also the princes, in proportion to their offences and (also) to such things as their closeness to Him. (He punishes them) for having committed offences, in spite of his affection to them due to their relationship and His goodness. (He punishes them) so that they may obtain pardon for their offences and know that, in future, they may not offend (in the same manner). The punishments are such as the following: averting his face from them, whipping, getting them driven out, keeping them outside the gates and suspension for a short time. Similarly Iśvara punishes the prapanna, as ŚrīRāma did in the case of Kakasura by making him lose an eye and thus protects him.
+> स्व-पुरुषम् अभिवीक्ष्य पाश-हस्तं  
+> वदति यमः किल तस्य कर्ण-मूले ।  
+> "परिहर मधु-सूदन-प्रपन्नान्,  
+> प्र-भुर् अहम् अन्य-नृणां न वैष्णवानाम्"  
+> (विष्णुपुराणम् 3-7-14)
+</details>
+
+<details><summary>English</summary>
+
+For it has been said :- "Seeing his attendants with the noose (of death ) in their hands, Yama whispers in their ears :-- "Do not approach those who have performed prapatti at (the feet of) Madhusūdana. I have sway only over others and not over the devotees of Viṣṇu ". 
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘स्वपुरुषमभिवीक्ष्य पाशहस्तं वदति यमः किल तस्य कर्णमूले । परिहर मधुसूदनप्रपन्नान् प्रभुरहमन्यनृणां न वैष्णवानाम्’’(विष्णुपुराणम् 3-7-14)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> "कमल-नयन वासुदेव विष्णो  
+धरणि-धराच्युत शङ्ख-चक्र-पाणे ।  
+भव-शरणम्" इतीरयन्ति ये वै  
+> त्यज भट दूरतरेण तान् अपापान्’’ 
+> (विष्णुपुराणम् 3-7-33)
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘कमलनयन वासुदेव विष्णो धरणिधराच्युत शङ्खचक्रपाणे । भवशरणमितीरयन्ति ये वै त्यज भट दूरतरेण तानपापान्’’(विष्णुपुराणम् 3-7-33)
+</details>
+
+<details><summary>English</summary>
+
+And Again : - "O Thou with lotus-like eyes, O Vāsudeva, O Viṣṇu, O Thou that bearest the earth, O Thou that art armed with the conch and the discus, be Thou my refuge" - those that utter these words - leave them at a distance for they are not sinners"
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> देवं शार्ङ्ग-धरं विष्णुं  
+> ये प्रपन्नाः परायणम् ।  
+> न तेषां यम-सालोक्यं  
+> न च ते नरकौकसः  
+> (वामनपुराणम् 94-43.)
+</details>
+
+<details><summary>English</summary>
+
+and further, "Those that perform prapatti to Viṣṇu, the God who is armed with sārnga, never go to the world of Yama, for naraka is not their dwelling place." 
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘देवं शार्ङ्गधरं विष्णुं ये प्रपन्नाः परायणम् । न तेषां यमसालोक्यं न च ते नरकौकसः’’(वामनपुराणम् 94-43.)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎण्ड्रु वैष्णव-वामनादि-पुराणङ्गळिन् पासुरङ्गळुक्कु मूल-मान श्रुतियिऱ्‌ चॊल्लुगिऱ् अबडिये  
+यम-विषय-गमनम् इण्ड्रिक्के+++(=इल्लादे)+++ वेलिट्टुप् पाय+++(=हार)+++ वेण्डुम्
+</details>
+
+<details><summary>English</summary>
+
+he will not go to the world of Yama (but receive punishment in this very life).  
+
+As stated above in such treatises as Viṣṇu purāna and Vamanapurāna and the passages in the strutis on which they are based, they do not go to the land of Yama, 
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+ऎण्ड्रु वैष्णववामनादिपुराणङ्गळिन् पासुरङ्गळुक्कु मूलमान श्रुतियिऱ्‌चॊल्लुगिऱबडिये यमविषयगमनमिण्ड्रिक्के वेलिट्टुप्पाय वेण्डुम्
+</details>
+
+
+but they are punished with the blindness of an eye, or the lameness of a leg, or some such thing and thus relieved of their burden (of sin). (They will be punished in this life itself here) on the analogy of one (who is dear) being punished with the prick of a thorn instead of being stabbed with a spear. The Supreme Lord, being possessed of forgiveness, kindness, compassion and over-flowing love, relents in His anger and protects the prapanna after a light punishment in this very life for his offence. An emperor, who is to be duly served, punishes his attendants (like those who carry the umbrellas ), the servants of the harem like the hunchbacks and the dwarfs and so also the princes, in proportion to their offences and (also) to such things as their closeness to Him. (He punishes them) for having committed offences, in spite of his affection to them due to their relationship and His goodness. (He punishes them) so that they may obtain pardon for their offences and know that, in future, they may not offend (in the same manner). The punishments are such as the following: averting his face from them, whipping, getting them driven out, keeping them outside the gates and suspension for a short time. Similarly Iśvara punishes the prapanna, as ŚrīRāma did in the case of Kakasura by making him lose an eye and thus protects him.
 
 Directing those that are gentle to obtain pardon (by atonement) and punishing those that are tough by nature for the sake of correction are of the nature of the Lord's forgiveness, which is a consequence of their prapatti that preceded it. One should therefore feel grateful to the Lord for this correction. To emphasise this point, some said that the Lord would pardon even those sins that are committed deliberately. (They did not mean to say that deliberate offences would be pardoned without any punishment).
 
@@ -253,6 +394,7 @@ statement, "I will release you from all sins", since it is qualified by a passag
 
 It is evident from the authority of the following śloka  that those who are exclusively devoted to Bhagavān (whether they be bhaktas or prapannas ) will not fall under the sway of Yama : "Whatever may be the family into which they are born, wherever they may live, those who love Bhagavān will never go to the world of Yama." There is general agreement also that the same sin will meet with either heavy or light punishment as its consequence, according to the differences of caste, character and the like. This is also consistent with what obtains in the world in cases like the offences committed by princes.
 
+__________
 <details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 “न प्राग्वद्बुद्धिपूर्वाघे न चात्यन्तमनुग्रहः । लघुर्दण्डः प्रपन्नस्य राजपुत्रापराधवत् ॥ ४०-अ ॥
@@ -273,6 +415,7 @@ From such episodes as that of Sandili in which even Garuḍa who has been descri
 
 So, in order that one may not lose the grace of God and thereby incur the need for further prapatti or light punishment, a way must be found to root out the possibility of future offences. In general, the root cause of all offences is want of discrimination (aviveka). Of this want of discrimination, the most important is that which causes the delusion that the self is identical with matter (the body ) which is non-sentient and ever subject to modification and has such other qualities and, likewise, the delusion that the individual self has the attributes and qualities which are peculiar to Iśvara, such as existing in itself, independence, and not existing for any one but itself. The sharp-edged saw that cuts off this want of discrimination is a clear knowledge of the nature of one's self which is neither redundant nor inadequate.
 
+__________
 <details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 अविवेकप्रभुत्वादेर्निदानस्य निवर्तनात् । अर्थकामापचाराणामयत्नोन्मूलनं भवेत् ॥ ४०-आ ॥
@@ -301,6 +444,7 @@ Whether a man has offended Bhāgavatas (in this life) or whether some Bhāgavata
 
 The word Brahmin occurring in these ślokas has a special significance, as has been said in the śloka : "He who knows, aright, the truth concerning Bhagavān, who is called Viṣṇu  that measured the world ( with His feet) and is also called Vāsudeva he becomes a Brahmin". Even if it is used in its general sense, since the offence to the Brahmin is condemned, much more worthy of condemnation would be the offence to a Bhāgavata or devotee of Bhagavān.
 
+__________
 <details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 अनुतापादुपरमात् प्रायश्चित्तोन्मुखत्वतः । तत्पूरणाच्छापराधास्सर्वे नश्यन्ति पादशः ॥ ४०-इ ॥  
@@ -317,6 +461,7 @@ The word Brahmin occurring in these ślokas has a special significance, as has b
 
 All sins are destroyed, in four equal parts, by repentance, by abstention, by the endeavour to perform atonement and by the completion of the process of atonement. To those who feel remorse and repentance, whether the prapatti is performed in a previous kalpa or in a later kalpa, there is no difference in the prapatti to be performed although (there is a difference in the nature of sins committed). Similarly whether the sins be serious or venial, the performance of a single prapatti done at a time will completely destroy at once (all sins).
 
+__________
 <details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
 
 उळदान वल्विनैक्कुळ्ळम् वॆरुवि युलगळन्द  
@@ -335,6 +480,7 @@ All sins are destroyed, in four equal parts, by repentance, by abstention, by th
 
 Those who dread, at heart, the formidable sins that bear fruit at present and seek refuge at the two lotus-like feet of the Lord who measured the worlds, will be freed from all karma which flourishes like weeds. In order to prevent the occurrence of future offences, the honey-like grace of our Lord prevails over the want of discrimination (aviveka) which gives rise to them.
 
+__________
 <details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
 
 प्रारब्धेतरपूर्वपापमखिलं प्रामादिकञ्चोत्तरं  
