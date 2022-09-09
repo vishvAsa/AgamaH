@@ -363,9 +363,7 @@ and further, "Those that perform prapatti to Viṣṇu, the God who is armed wit
 कऴियुम् ऎन्गिऱ+++(=ऎम्बुव)+++ कणक्किले  
 +++(अन्धता-स्थानत्तिल्)+++ काणन्,  
 +++(द्वि-पाद-हति-स्थानत्तिल्)+++ खञ्जन् ऎण्ड्रु  
-मुदल् आगवोदुगिऱविङ्गुट्रैयुप-क्लेश-मुखत्ताले  
-सिगैय् अऱुक्कुम् विरगुगळै  
-मुन्निट्टु सर्वेश्वरन् क्षमा-प्रेम-दया-वात्सल्यङ्गळाले तणिन्द प्रतापत्तैयुडैयनाय् मिगवुम्
+मुदल् आगवोदुगिऱविङ्गुट्रैयुप+++(??)+++-क्लेश-मुखत्ताले  
 </details>
 
 <details><summary>English</summary>
@@ -379,8 +377,33 @@ As stated above in such treatises as Viṣṇu purāna and Vamanapurāna and the
 
 <details><summary>मूलम्</summary>
 
-ऎण्ड्रु वैष्णववामनादिपुराणङ्गळिन् पासुरङ्गळुक्कु मूलमान श्रुतियिऱ्‌चॊल्लुगिऱबडिये यमविषयगमनमिण्ड्रिक्के वेलिट्टुप्पाय वेण्डुम्
+ऎण्ड्रु वैष्णववामनादिपुराणङ्गळिन् पासुरङ्गळुक्कु मूलमान श्रुतियिऱ्‌चॊल्लुगिऱबडिये यमविषयगमनमिण्ड्रिक्के वेलिट्टुप्पाय वेण्डुमदु मुळ्ळिट्टुप्पाय्न्दु कऴियुमॆन्गिऱ कणक्किले काणन् खञ्जन् ऎण्ड्रु मुदलागवोदुगिऱ विङ्गुट्रैयुपक्लेशमुखत्ताले
 </details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सिगैय् अऱुक्कुम् विरगुगळै+++(=कौशलान्)+++ मुन्न् इट्टु  
+सर्वेश्वरन् क्षमा-प्रेम-दया-वात्सल्यङ्गळाले  
+तणिन्द प्रतापत्तैय्  
+उडैयनाय् मिगवुम्+++(=अधिकं)+++ दण्डिक्क-वेण्डुम् अपराधत्तुक्कु  
+
+सेव्यन् आन सार्वभौमन्  
+अडैय्-आळक्-कारर्, अन्तः-पुर-परिजन, कूनर्+++(=कुब्जाः)+++, कुऱळर्+++(=वामनाः)+++, कुमारर्गळ् विषयत्तिल्  
+अपराधङ्गळुक्क् ईडागवुम्,  
+अन्तर्-अङ्गत्वादि-तार-तम्यत्तुक्क् ईडागवुम्,  
+संबन्धानृशंस्यादिकळाले प्रीति नडक्कच् चॆय्देय्  
+
+अवर्गळ् तप्पिनदुक्कु क्षमै-गॊळ्ळुगैक्क् आगवुम्,  
+मेलैक्कुम् शिक्षैय् आगैक्क् आगवुम्  
+मुगङ् गॊडादेयिरुत्तल्,  
+</details>
+
+<details><summary>मूलम्</summary>
+
+सिगैयऱुक्कुम् विरगुगळै मुन्निट्टु सर्वेश्वरन् क्षमाप्रेमदयावात्सल्यङ्गळाले तणिन्द प्रतापत्तैयुडैयनाय् मिगवुम् दण्डिक्कवेण्डुमपराधत्तुक्कु सेव्यनान सार्वभौमन्
+</details>
+
 
 
 The Supreme Lord, being possessed of forgiveness, kindness, compassion and over-flowing love, relents in His anger and protects the prapanna after a light punishment in this very life for his offence. An emperor, who is to be duly served, punishes his attendants (like those who carry the umbrellas ), the servants of the harem like the hunchbacks and the dwarfs and so also the princes, in proportion to their offences and (also) to such things as their closeness to Him. (He punishes them) for having committed offences, in spite of his affection to them due to their relationship and His goodness. (He punishes them) so that they may obtain pardon for their offences and know that, in future, they may not offend (in the same manner). The punishments are such as the following: averting his face from them, whipping, getting them driven out, keeping them outside the gates and suspension for a short time. Similarly Iśvara punishes the prapanna, as ŚrīRāma did in the case of Kakasura by making him lose an eye and thus protects him.
