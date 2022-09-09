@@ -363,8 +363,8 @@ and further, "Those that perform prapatti to Viṣṇu, the God who is armed wit
 कऴियुम् ऎन्गिऱ+++(=ऎम्बुव)+++ कणक्किले  
 +++(अन्धता-स्थानत्तिल्)+++ काणन्,  
 +++(द्वि-पाद-हति-स्थानत्तिल्)+++ खञ्जन् ऎण्ड्रु  
-मुदल् आगवोदुगिऱविङ्गुट्रैयुप+++(??)+++-क्लेश-मुखत्ताले  
-</details>
+मुदल्-आगव्-ओदुगिऱ+++(=पठित)+++-विङ्गुट्रैय्+++(=पुष्कल)+++-उप-क्लेश-मुखत्ताले  
+</details> 
 
 <details><summary>English</summary>
 
@@ -385,30 +385,118 @@ As stated above in such treatises as Viṣṇu purāna and Vamanapurāna and the
 
 सिगैय् अऱुक्कुम् विरगुगळै+++(=कौशलान्)+++ मुन्न् इट्टु  
 सर्वेश्वरन् क्षमा-प्रेम-दया-वात्सल्यङ्गळाले  
-तणिन्द प्रतापत्तैय्  
-उडैयनाय् मिगवुम्+++(=अधिकं)+++ दण्डिक्क-वेण्डुम् अपराधत्तुक्कु  
+तणिन्द+++(=रुद्ध)+++ प्रतापत्तैय् उडैयनाय्  
+मिगवुम्+++(=अधिकं)+++ दण्डिक्क-वेण्डुम् अपराधत्तुक्कु  
+
+</details>
+
+<details><summary>English</summary>
+
+The Supreme Lord, being possessed of forgiveness, kindness, compassion and over-flowing love, relents in His anger (and protects the prapanna after a light punishment in this very life for his offence.) 
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+सिगैयऱुक्कुम् विरगुगळै मुन्निट्टु सर्वेश्वरन् क्षमाप्रेमदयावात्सल्यङ्गळाले तणिन्द प्रतापत्तैयुडैयनाय् मिगवुम् दण्डिक्कवेण्डुमपराधत्तुक्कु
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सेव्यन् आन सार्वभौमन्  
 अडैय्-आळक्-कारर्, अन्तः-पुर-परिजन, कूनर्+++(=कुब्जाः)+++, कुऱळर्+++(=वामनाः)+++, कुमारर्गळ् विषयत्तिल्  
 अपराधङ्गळुक्क् ईडागवुम्,  
-अन्तर्-अङ्गत्वादि-तार-तम्यत्तुक्क् ईडागवुम्,  
-संबन्धानृशंस्यादिकळाले प्रीति नडक्कच् चॆय्देय्  
+अन्तर्-अङ्गत्वादि-तार-तम्यत्तुक्क् ईड् आगवुम्,  
+संबन्धानृशंस्यादिगळाले प्रीति नडक्कच् चॆय्देय्  
+</details>
+
+<details><summary>English</summary>
+
+An emperor, who is to be duly served, punishes his attendants (like those who carry the umbrellas ), the servants of the harem like the hunchbacks and the dwarfs and so also the princes, in proportion to their offences and (also) to such things as their closeness to Him. 
+
+(He punishes them) for having committed offences, in spite of his affection to them due to their relationship and His goodness.  
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+सेव्यनान सार्वभौमन्, अडैयाळक्कारर् अन्तः पुरपरिजन कूनर् कुऱळर् कुमारर्गळ् विषयत्तिलपराधङ्गळुक्कीडागवुम्, अन्तरङ्गत्वादितारतम्यत्तुक्कीडागवुम्, संबन्धानृशंस्यादिगळाले प्रीति नडक्कच् चॆय्देय्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 
 अवर्गळ् तप्पिनदुक्कु क्षमै-गॊळ्ळुगैक्क् आगवुम्,  
-मेलैक्कुम् शिक्षैय् आगैक्क् आगवुम्  
-मुगङ् गॊडादेयिरुत्तल्,  
++++(इन्-)+++मेलैक्कुम् शिक्षैय् आगैक्क् आगवुम्,  
+</details>
+
+<details><summary>English</summary>
+
+(He punishes them) so that they may obtain pardon for their offences and know that, in future, they may not offend (in the same manner).
 </details>
 
 <details><summary>मूलम्</summary>
 
-सिगैयऱुक्कुम् विरगुगळै मुन्निट्टु सर्वेश्वरन् क्षमाप्रेमदयावात्सल्यङ्गळाले तणिन्द प्रतापत्तैयुडैयनाय् मिगवुम् दण्डिक्कवेण्डुमपराधत्तुक्कु सेव्यनान सार्वभौमन्
+अवर्गळ् तप्पिनदुक्कु क्षमैकॊळ्ळुगैक्कागवुम्, मेलैक्कुम् शिक्षैयागैक्कागवुम्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मुगङ् गॊडादेय् इरुत्तल्,  
+सम्मट्टिय्+++(=चर्म्मयष्टि)+++ इट्ट् अडित्तल्, तळ्ळु-वित्तल्, वासलिले तगै+++(=स्थगितं)+++-वित्तल्, सिऱिदु+++(←चिरु←किरु)+++ नाळ् सेवैयै विलक्कि+++(=रुद्ध्वा)+++ विडुदल् सॆय्युमाप्पोले
+
+मुगङ्गॊडादेयिरुत्तल्, सम्मट्टियिट्टडित्तल्, तळ्ळुवित्तल्, वासलिले तगैवित्तल्, सिऱिदु नाळ् सेवैयै विलक्किविडुदल् सॆय्युमाप्पोले 
+
+काक-न्यायत्तालेय् ऒरु कण्णऴिवालेय् इव्व् आश्रितरै रक्षित्तु विडुम्.
+</details>
+
+<details><summary>English</summary>
+
+The punishments are such as the following:  
+averting his face from them, whipping, getting them driven out, keeping them outside the gates and suspension for a short time.  
+
+Similarly (Iśvara) punishes the prapanna, as ŚrīRāma did in the case of Kakasura by making him lose an eye and thus protects him.
+</details>
+
+<details><summary>मूलम्</summary>
+
+मुगङ्गॊडादेयिरुत्तल्, सम्मट्टियिट्टडित्तल्, तळ्ळुवित्तल्, वासलिले तगैवित्तल्, सिऱिदु नाळ् सेवैयै विलक्किविडुदल् सॆय्युमाप्पोले काकन्यायत्ताले यॊरु कण्णऴिवाले यिव्वाश्रितरै रक्षित्तुविडुम्.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्पडि मृदु-प्रकृतिगळै क्षमैगॊळ्ळप्-पण्णु-वित्तल्  
+कठिन-प्रकृतिगळुक्कु शिक्षारूपमान दण्ड-विशेषम् पण्णुदल्  
+सॆय्गिऱ-विडमुम्+++(←विडु)+++ पूर्व-प्रपत्ति-फलम् आन क्षमैयिन् प्रकारभेदम् ऎण्ड्रु
+
+शिक्षकन्-आन-शेषि-पक्कलिले कृतज्ञतै-नडक्कैक्काग  
+बुद्धि-पूर्वोत्तराघत्तैयुम् क्षमिक्कुम्  
+ऎण्ड्रु सिलर् सॊन्नार्गळ्.
+</details>
+
+<details><summary>English</summary>
+
+Directing those that are gentle to obtain pardon (by atonement)  
+and punishing those that are tough by nature for the sake of correction are of the nature of the Lord's forgiveness,  
+which is a consequence of their prapatti that preceded it.  
+One should therefore feel grateful to the Lord for this correction.  
+To emphasise this point, some said that the Lord would pardon even those sins that are committed deliberately. (They did not mean to say that deliberate offences would be pardoned without any punishment).
 </details>
 
 
 
-The Supreme Lord, being possessed of forgiveness, kindness, compassion and over-flowing love, relents in His anger and protects the prapanna after a light punishment in this very life for his offence. An emperor, who is to be duly served, punishes his attendants (like those who carry the umbrellas ), the servants of the harem like the hunchbacks and the dwarfs and so also the princes, in proportion to their offences and (also) to such things as their closeness to Him. (He punishes them) for having committed offences, in spite of his affection to them due to their relationship and His goodness. (He punishes them) so that they may obtain pardon for their offences and know that, in future, they may not offend (in the same manner). The punishments are such as the following: averting his face from them, whipping, getting them driven out, keeping them outside the gates and suspension for a short time. Similarly Iśvara punishes the prapanna, as ŚrīRāma did in the case of Kakasura by making him lose an eye and thus protects him.
+<details><summary>मूलम्</summary>
 
-Directing those that are gentle to obtain pardon (by atonement) and punishing those that are tough by nature for the sake of correction are of the nature of the Lord's forgiveness, which is a consequence of their prapatti that preceded it. One should therefore feel grateful to the Lord for this correction. To emphasise this point, some said that the Lord would pardon even those sins that are committed deliberately. (They did not mean to say that deliberate offences would be pardoned without any punishment).
+इप्पडि मृदु-प्रकृतिगळै क्षमैगॊळ्ळप्-पण्णु-वित्तल्  
+कठिन-प्रकृतिगळुक्कु शिक्षारूपमान दण्डविशेषम् पण्णुदल् सॆय्गिऱविडमुम् पूर्वप्रपत्तिफलमान क्षमैयिन् प्रकारभेदमॆण्ड्रु शिक्षकनान शेषि पक्कलिले कृतज्ञतै नडक्कैक्काग बुद्धिपूर्वोत्तराघत्तैयुम् क्षमिक्कुमॆण्ड्रु सिलर् सॊन्नार्गळ्.
+
+</details>
+
 
 PRAPATTI WILL NEVER BE IN VAIN :
 
