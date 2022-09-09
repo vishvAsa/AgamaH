@@ -580,9 +580,34 @@ If they desire to have mokṣa at the end of this life and cannot brook delay an
 ## बुद्धिपूर्वकापराध-प्रभावः
 DISCUSSION OF THE VIEW THAT EVEN DELIBERATE OFFENCES COMMITTED BY A PRAPANNA WILL NOT AFFECT HIM ADVERSELY.
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘भवेयं शरणं हि वः’’(रामायणम् सु.का. 58-90) ऎण्ड्र पिन्बुम् उण्डान राक्षसिगळुडैय बुद्धि-पूर्वापचारङ्गळ्  
+
+> ‘‘मर्षयामीह दुर्बला’’(रामायणम् यु.का. 116-40)  
+‘‘पापानां वा शुभानां वा  
+वधार्हाणां प्लवङ्गम’’(रामायणम् यु.का. 116-44) 
+
+ऎन्गिऱ् अपडिये पिराट्टिक्कु+++(→श्रीकु)+++ क्षमा-विषयमाय्-इट्र् इल्लैयोव् ऎन्निल्; 
+</details>
+
+<details><summary>English</summary>
+
 It may be asked 
 
 > “Even after Sītā Devi promised protection to the Rākṣasis by saying "I will protect you," when these Rākṣasis offended her again deliberately, were their sins not forgiven when Sītā? Devi said, " I forgive their offences as I cannot bear their sufferings" and "Whether they deserve punishment for their sins or whether they have not committed any sins (deserving of punishment), you should pardon them because of your generous Nature -- There is no one that is above fault"? 
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+‘‘भवेयं शरणं हि वः’’(रामायणम् सु.का. 58-90) ऎण्ड्रबिन्बुमुण्डान राक्षसिगळुडैय बुद्धिपूर्वापचारङ्गळ् ‘‘मर्षयामीह दुर्बला’’(रामायणम् यु.का. 116-40) ‘‘पापानां वा शुभानां वा वधार्हाणां प्लवङ्गम’’(रामायणम् यु.का. 116-44) ऎन्गिऱपडिये पिराट्टिक्कु क्षमाविषयमायिट्रिल्लैयोवॆन्निल्;
+</details>
+
+
+
+
 
 The answer is as follows:- Even here, the Rākṣasis were afraid that Hanuman was about to punish them severely and were afterwards saved from it. So there was, as in the raising of the sword (to strike a person), a slight punishment (fear) and (then ) forgiveness. Therefore, when it is sometimes stated that even sins committed deliberately by a prapanna, would not cling to him, the statement has no authority in support of it. It is also sometimes stated that the prapanna need not atone for his sins even when he has committed them deliberately, and that, even if he has not atoned for them, there will be no punishment by way of teaching him a lesson. It is sometimes maintained also that when such offences have been committed, there will be no delay in the attainment of the supreme goal even for those who are impatient of delay and that there will be no intermission or diminution in the services which have come to a man as the result of meritorious karma in the past bearing fruit in this life. These propositions maintained by some (should not be taken as literally true); they are made just to glorify the attributes and qualities of the Saviour and the power of prapatti. Otherwise there would be no meaning in the continued tradition of the observance, by previous prapannas, of the code of conduct prescribed for the prapanna, in the śāstras which prescribe methods of atonement for sins in the case of prapannas, and in the texts which say that there will be delay in the attainment of mokṣa  for those who did not perform prapatti indicating the time when they wanted to have it and are also impatient of delay while sinning deliberately. Though it is said as a general
 
