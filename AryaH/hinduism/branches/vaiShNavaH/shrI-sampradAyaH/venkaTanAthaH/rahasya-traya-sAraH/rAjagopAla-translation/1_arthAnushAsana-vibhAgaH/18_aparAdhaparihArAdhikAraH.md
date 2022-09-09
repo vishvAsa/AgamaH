@@ -500,9 +500,63 @@ To emphasise this point, some said that the Lord would pardon even those sins th
 
 PRAPATTI WILL NEVER BE IN VAIN :
 
-It should not be thought that, because sins committed deliberately after prapatti and not atoned for would be followed by their consequences like that part of prārabdha karma which is of the nature of sin, the prapatti performed before would not yield
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-mokṣa. When asafoetida is applied to the root of a tree for making it wither, the tree is sure to wither sooner or later, according to the nature of the soil and other conditions; (but there is no doubt that it will wither; it will do so, perhaps after a little more time). So also in the case of these prapannas who have committed sins deliberately, there will be difference only with regard to the delay in the complete release from saṁsāra. If they desire to have mokṣa at the end of this life and cannot brook delay and if the period of their life-time is not previously fixed, there will be delay in mokṣa  by the life-time being extended. To those whose period of life-time is already fixed, prapatti will certainly bear fruit within that time.
+प्रारब्ध-कर्मत्तिल् पापांशम्-बोले  
+बुद्धिपूर्वोत्तराघम् प्रायश्-चित्तम् पण्णाद-बोदु  
+स-फलम् आनालुम्  
+पण्णिन प्रपत्ति मोक्षङ् गॊडाद् ऒऴियुमोव् ऎण्ड्रु  
+शङ्किक्कवॊण्णादु;
+</details>
+
+<details><summary>English</summary>
+
+It should not be thought that, because sins committed deliberately after prapatti and not atoned for would be followed by their consequences, like that part of prārabdha karma which is of the nature of sin, the prapatti performed before would not yield mokṣa. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रारब्धकर्मत्तिल् पापांशम्बोले बुद्धिपूर्वोत्तराघम् प्रायश्चित्तम् पण्णादबोदु सफलमानालुम् पण्णिन प्रपत्ति मोक्षङ्गॊडादॊऴियुमोवॆण्ड्रु शङ्किक्कवॊण्णादु;
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पॆरुङ्गायम्+++(=asafoetida)+++ वैत्त+++(=स्थापित)+++ मरङ्गळुक्कु  
+स्थलादि-विशेषङ्गळाले  
+वाट्टत्तुक्कु+++(=शोष्टुं)+++ काल-तारतम्यम् उळ्ळ-मात्रम्
+</details>
+
+<details><summary>English</summary>
+
+When asafoetida is applied to the root of a tree for making it wither, the tree is sure to wither sooner or later, according to the nature of the soil and other conditions; (but there is no doubt that it will wither; it will do so, perhaps after a little more time). 
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+पॆरुङ्गायम् वैत्त मरङ्गळुक्कु स्थलादिविशेषङ्गळाले वाट्टत्तुक्कु कालतारतम्यमुळ्ळमात्रम्;
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गुम् इवर्गळ् संसारत्तिन् उडैय निश्-शेष-निवृत्ति-पिऱक्कैक्कु+++(=राशीकरणाय)+++ विळंबाविळंब-वैषम्यमेय् उळ्ळदु.
+</details>
+
+<details><summary>English</summary>
+
+So also in the case of these prapannas who have committed sins deliberately, there will be difference only with regard to the delay in the complete release from saṁsāra.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इङ्गुमिवर्गळ् संसारत्तिनुडैय निश्शेषनिवृत्ति पिऱक्कैक्कु विळंबाविळंबवैषम्यमेयुळ्ळदु.
+</details>
+
+
+If they desire to have mokṣa at the end of this life and cannot brook delay and if the period of their life-time is not previously fixed, there will be delay in mokṣa  by the life-time being extended. To those whose period of life-time is already fixed, prapatti will certainly bear fruit within that time.
 
 DISCUSSION OF THE VIEW THAT EVEN DELIBERATE OFFENCES COMMITTED BY A PRAPANNA WILL NOT AFFECT HIM ADVERSELY.
 
