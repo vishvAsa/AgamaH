@@ -629,10 +629,62 @@ So there was, as in the raising of the sword (to strike a person), a slight puni
 अव् विडत्तिलुमवर्गळुक्कु तिरुवडि नलियप्पुगुगिऱारॆन्गिऱ भयम् विळैन्दु नलिवुक्कु विलक्कुण्डानप्पडियाले वाळालेयोङ्गि विडुमाप् पोले दण्डलेशमुम् क्षमैयुम् सिद्धम्.
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् प्रपन्ननुक्कु बुद्धि-पूर्वोत्तराघम् लेपियात् ऎण्ड्रु विशेषित्तुच् चॊल्लुवद् ऒरु प्रमाणम् अण्ड्रिक्केय् इरुक्क
+</details>
+
+<details><summary>English</summary>
+
+Therefore, when it is sometimes stated that even sins committed deliberately by a prapanna, would not cling to him, the statement has no authority in support of it. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् प्रपन्ननुक्कु बुद्धिपूर्वोत्तराघम् लेपियातॆण्ड्रु विशेषित्तुच् चॊल्लुवदॊरु प्रमाणमण्ड्रिक्केय् इरुक्क
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवनुक्कुप् +++(प्रपत्ति-)+++पिन्बु बुद्धि-पूर्वापराधम् पिऱन्दालुम् क्षमै कॊळ्ळ वेण्डाव् ऎण्ड्रुम्,  
+क्षमै कॊळ्ळा-विट्टालुम् शिक्षा-रूप-दण्डविशेषम् इल्लैय् ऎण्ड्रुम्,  
+</details>
+
+<details><summary>English</summary>
+
+It is also sometimes stated that the prapanna need not atone for his sins even when he has committed them deliberately, and that, even if he has not atoned for them, there will be no punishment by way of teaching him a lesson. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इवनुक्कुप् पिन्बु बुद्धिपूर्वापराधम् पिऱन्दालुम् क्षमै कॊळ्ळ वेण्डावॆण्ड्रुम्, क्षमै कॊळ्ळाविट्टालुम् शिक्षारूपदण्डविशेष मिल्लैयॆण्ड्रुम्, विळंबाक्षमरुक्कुम् परमफलत्तुक्कु विळंबम् वारादॆण्ड्रुम्,
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विळंबाक्षमरुक्कुम् परम-फलत्तुक्कु विळंबम् वाराद् ऎण्ड्रुम्,  
+प्रारब्ध-सुकृत-विशेषादिगळाले वरुम् इङ्गुट्र कैङ्कर्यत्तुक्कु विच्छेद-सङ्कोचङ्गळ् वाराद् ऎण्ड्रुञ् चोल्लुगिऱ पक्षङ्गळ् शरण्यनुडैय गुणङ्गळैयुम् शरणागतियिनुडैय प्रभावत्तैयुञ् चॊल्लुगैक्कागव् अत्तनै.
+</details>
+
+<details><summary>Keith</summary>
+
+It is sometimes maintained also that when such offences have been committed, there will be no delay in the attainment of the supreme goal even for those who are impatient of delay and that there will be no intermission or diminution in the services which have come to a man as the result of meritorious karma in the past bearing fruit in this life. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+विळंबाक्षमरुक्कुम् परमफलत्तुक्कु विळंबम् वारादॆण्ड्रुम्,  
+प्रारब्धसुकृतविशेषादिगळाले वरुमिङ्गुट्र कैङ्कर्यत्तुक्कु विच्छेदसङ्कोचङ्गळ् वारादॆण्ड्रुञ्चॊल्लुगिऱ पक्षङ्गळ् शरण्यनुडैय गुणङ्गळैयुम् शरणागतियिनुडैय प्रभावत्तैयुञ् चॊल्लुगैक्कागवत्तनै.
+</details>
 
 
 
-Therefore, when it is sometimes stated that even sins committed deliberately by a prapanna, would not cling to him, the statement has no authority in support of it. It is also sometimes stated that the prapanna need not atone for his sins even when he has committed them deliberately, and that, even if he has not atoned for them, there will be no punishment by way of teaching him a lesson. It is sometimes maintained also that when such offences have been committed, there will be no delay in the attainment of the supreme goal even for those who are impatient of delay and that there will be no intermission or diminution in the services which have come to a man as the result of meritorious karma in the past bearing fruit in this life. These propositions maintained by some (should not be taken as literally true); they are made just to glorify the attributes and qualities of the Saviour and the power of prapatti. Otherwise there would be no meaning in the continued tradition of the observance, by previous prapannas, of the code of conduct prescribed for the prapanna, in the śāstras which prescribe methods of atonement for sins in the case of prapannas, and in the texts which say that there will be delay in the attainment of mokṣa  for those who did not perform prapatti indicating the time when they wanted to have it and are also impatient of delay while sinning deliberately. Though it is said as a general
+
+
+These propositions maintained by some (should not be taken as literally true); they are made just to glorify the attributes and qualities of the Saviour and the power of prapatti. Otherwise there would be no meaning in the continued tradition of the observance, by previous prapannas, of the code of conduct prescribed for the prapanna, in the śāstras which prescribe methods of atonement for sins in the case of prapannas, and in the texts which say that there will be delay in the attainment of mokṣa  for those who did not perform prapatti indicating the time when they wanted to have it and are also impatient of delay while sinning deliberately. Though it is said as a general
 
 statement, "I will release you from all sins", since it is qualified by a passage standing as a special case: "This atonement consists in the performance of prapatti once again", it is evident that the atonement for sins committed deliberately after prapatti is the performance of another prapatti. It cannot be argued that this passage prescribiog another prapatti is only for those who did not perform prapatti to cover also those subsequent sins that might be committed deliberately. This argument would carry weight, only if there were an explicit statement that prapatti might be performed to cover also future sins of a deliberate nature. (There is none such). If a man knows that the original prapatti may be made in such a way as to cover also future sins of a deliberate nature, there will be no one who will care to give up this easier method and thus the text prescribing a further prapatti will find none to adopt it. A general statement cannot contradict a statement made for a special or specific case (for the general statement covers only all cases except those specified in the special statement). If we hold that a general statement can sublate or contradict a special statement for specific cases, it would follow that, even in the case of one who adopts the upāya or bhakti or upāsana, subsequent sins committed deliberately would cause no stain.
 
