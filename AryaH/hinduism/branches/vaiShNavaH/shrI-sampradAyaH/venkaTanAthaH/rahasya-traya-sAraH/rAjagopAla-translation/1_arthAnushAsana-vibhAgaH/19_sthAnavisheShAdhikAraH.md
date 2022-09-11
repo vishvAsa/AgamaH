@@ -73,7 +73,7 @@ Therefore the statement in the following śloka  :-- "The man " who performs pra
 
 (1) The temple or Vimana which is renowned as Śrīraṅgan, the temple or vimāna which was granted to the rulers of Ayodhya by the lotus-born Brahma, the temple or vimana where the invincible and incomparable ŚrīRāma worshipped, the temple or vimāna which is the refuge of Vibhishana, the ally of ŚrīRāma, the temple or vimāna, which secures all sorts of benefits unattainable elsewhere, the temple or vimāna which has the shape of praṇava, the temple or vimāna which destroys all sins, however insurmountable they may be that temple of Śrīraṅgam is indeed full of the nectar of grace which never satiates.
 
-कण्णनडियिणै यॆमक्कुक् काट्टुम् वॆऱ्‌पुक्  
+कण्णनडियिणैय् ऎमक्कुक् काट्टुम् वॆऱ्‌पुक्  
 कडुविनैयरिरुविनैयुङ् गडियुम् वॆऱ्‌पुत्  
 तिण्णमिदु वीडॆन्नत् तिगऴुम् वॆऱ्‌पुत्  
 तॆळिन्द पॆरुन्दीर्त्तङ्गळ् सॆऱिन्द वॆऱ्‌पुप्  

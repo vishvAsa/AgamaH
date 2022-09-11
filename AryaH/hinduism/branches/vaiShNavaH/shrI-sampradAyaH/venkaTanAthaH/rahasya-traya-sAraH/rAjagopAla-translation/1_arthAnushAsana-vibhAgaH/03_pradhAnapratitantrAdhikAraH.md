@@ -102,17 +102,17 @@ The ordinary relationship of Śeṣa and śeṣin between the jīva and Bhagavā
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 निलैदन्द तारगनाय् नियमिक्कुम् इऱैवनुमाय्  
-इलदॊण्ड्रॆनावगै यॆल्लान् दनदॆनुमॆन्दैयुमाय्त्  
+इलदॊण्ड्रॆनावगैय् ऎल्लान् दनदॆनुमॆन्दैयुमाय्त्  
 तुलैयॊण्ड्रिलैयॆन निण्ड्र तुऴाय् मुडियानुडम्बाय्  
-विलैयिण्ड्रि नामडियोमॆण्ड्रु वेदियर्मॆय्प्पॊरुळे. (10)
+विलैयिण्ड्रि नामडियोम् ऎण्ड्रु वेदियर्मॆय्प्पॊरुळे. (10)
 </details>
 
 <details><summary>मूलम् (त॰प॰)</summary>
 
 निलैदन्द तारगनाय् नियमिक्कुम् इऱैवनुमाय्  
-इलदॊण्ड्रॆनावगै यॆल्लान् दनदॆनुमॆन्दैयुमाय्त्  
+इलदॊण्ड्रॆनावगैय् ऎल्लान् दनदॆनुमॆन्दैयुमाय्त्  
 तुलैयॊण्ड्रिलैयॆन निण्ड्र तुऴाय् मुडियानुडम्बाय्  
-विलैयिण्ड्रि नामडियोमॆण्ड्रु वेदियर्मॆय्प्पॊरुळे. (10)
+विलैयिण्ड्रि नामडियोम् ऎण्ड्रु वेदियर्मॆय्प्पॊरुळे. (10)
 </details>
 
 The Lord gave us our existence and is our support (dhāraka) as well; He is also the unconditional Ruler that directs and controls us. There is nothing that does not exist for the fulfilment of his purposes; He is also our Master for whom all things exist; He stands alone with no one to compare with Him. It is the earnest conviction of those who understand the spirit of the Vedas that we are the bodies and the unconditional (or natural) servants of the Lord with the crown of Tulsi leaves (for the Antaryāmi Brāhmana of Brihadaranyaka Upaniṣad states this explicitly.)

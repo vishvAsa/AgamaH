@@ -145,7 +145,7 @@ If sach lapses do occur,
 
 <details><summary>मूलम्</summary>
 
-बुद्धिपूर्वकपापारंभकपापङ्गळुक्कञ्जि यवैयुङ्गऴियवेण्डुमॆण्ड्रु प्रपत्ति पण्णादे पाम्बोडॊरु कूरैयिले पयिण्ड्राऱ्‌पोले प्रकृतियोडे कूडविरुक्किऱविवनुक्कु आत्मगुणपूर्तियिल्लामैयाले मन्दधैर्यरान ऋषि कळुक्कुप् पोले बुद्धिपूर्वकमागवुम् सिल स्वनिष्ठाविपरीतङ्गळ् वन्दालुम् 
+बुद्धिपूर्वकपापारंभकपापङ्गळुक्कञ्जि यवैयुङ्गऴियवेण्डुम् ऎण्ड्रु प्रपत्ति पण्णादे पाम्बोडॊरु कूरैयिले पयिण्ड्राऱ्‌पोले प्रकृतियोडे कूडविरुक्किऱविवनुक्कु आत्मगुणपूर्तियिल्लामैयाले मन्दधैर्यरान ऋषि कळुक्कुप् पोले बुद्धिपूर्वकमागवुम् सिल स्वनिष्ठाविपरीतङ्गळ् वन्दालुम् 
 </details>
 
 
@@ -512,7 +512,7 @@ To emphasise this point, some said that the Lord would pardon even those sins th
 <details><summary>मूलम्</summary>
 
 इप्पडि मृदु-प्रकृतिगळै क्षमैगॊळ्ळप्-पण्णु-वित्तल्  
-कठिन-प्रकृतिगळुक्कु शिक्षारूपमान दण्डविशेषम् पण्णुदल् सॆय्गिऱविडमुम् पूर्वप्रपत्तिफलमान क्षमैयिन् प्रकारभेदमॆण्ड्रु शिक्षकनान शेषि पक्कलिले कृतज्ञतै नडक्कैक्काग बुद्धिपूर्वोत्तराघत्तैयुम् क्षमिक्कुमॆण्ड्रु सिलर् सॊन्नार्गळ्.
+कठिन-प्रकृतिगळुक्कु शिक्षारूपमान दण्डविशेषम् पण्णुदल् सॆय्गिऱविडमुम् पूर्वप्रपत्तिफलमान क्षमैयिन् प्रकारभेदम् ऎण्ड्रु शिक्षकनान शेषि पक्कलिले कृतज्ञतै नडक्कैक्काग बुद्धिपूर्वोत्तराघत्तैयुम् क्षमिक्कुम् ऎण्ड्रु सिलर् सॊन्नार्गळ्.
 
 </details>
 
@@ -766,7 +766,7 @@ Though it is said as a general statement, "I will release you from all sins", si
 बुद्धि-पूर्वोत्तराघत्तुक्कुम् परिहारम् आगप् प्रपत्ति पण्णादार् विषयत्तिले नियमित्तालोव् ऎन्नव् ऒण्णादु+++(=ऒप्पादु)+++
 </details>
 
-<details><summary>Keith</summary>
+<details><summary>राजगोपालः (En)</summary>
 
 It cannot be argued that this passage prescribing another prapatti is only for those who did not perform prapatti to cover also those subsequent sins that might be committed deliberately. 
 </details>
@@ -777,10 +777,113 @@ It cannot be argued that this passage prescribing another prapatti is only for t
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-This argument would carry weight, only if there were an explicit statement that prapatti might be performed to cover also future sins of a deliberate nature. (There is none such). If a man knows that the original prapatti may be made in such a way as to cover also future sins of a deliberate nature, there will be no one who will care to give up this easier method and thus the text prescribing a further prapatti will find none to adopt it. A general statement cannot contradict a statement made for a special or specific case (for the general statement covers only all cases except those specified in the special statement). If we hold that a general statement can sublate or contradict a special statement for specific cases, it would follow that, even in the case of one who adopts the upāya or bhakti or upāsana, subsequent sins committed deliberately would cause no stain.
+"बुद्धिपूर्वोत्तराघत्तैयुम् पट्र प्रपत्ति पण्णलाम्"  
+ऎण्ड्रु विशेषित्तु कण्ठोक्ति पण्णुवद् ऒरु वचनम् उण्डागिलिऱेय्  
+इप्पडि नियमिक्कल् आवदु. 
+</details>
 
-It is evident from the authority of the following śloka  that those who are exclusively devoted to Bhagavān (whether they be bhaktas or prapannas ) will not fall under the sway of Yama : "Whatever may be the family into which they are born, wherever they may live, those who love Bhagavān will never go to the world of Yama." There is general agreement also that the same sin will meet with either heavy or light punishment as its consequence, according to the differences of caste, character and the like. This is also consistent with what obtains in the world in cases like the offences committed by princes.
+<details><summary>राजगोपालः (En)</summary>
+
+This argument would carry weight, only if there were an explicit statement that prapatti might be performed to cover also future sins of a deliberate nature. (There is none such). 
+</details>
+
+<details><summary>मूलम्</summary>
+
+बुद्धिपूर्वोत्तराघत्तैयुम् पट्र प्रपत्ति पण्णलाम् ऎण्ड्रु विशेषित्तु कण्ठोक्ति पण्णुवदॊरु वचनमुण्डागिलिऱेय् इप्पडि नियमिक्कलावदु. 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"इप् प्रपत्ति बुद्धि-पूर्वोत्तराघत्तुक्कुम् परिहारम्" ऎण्ड्र् अऱिन्दाल्  
+इच् चॆट्टै+++(=पक्षं)+++ विडुवारैय् उङ्ग्+++(=समीपे)+++ इडैयामैयाले  
+पुनःप्रपत्तिवचनम् निर्विषयमाम्+++(=??)+++.
+</details>
+
+<details><summary>राजगोपालः (En)</summary>
+
+If a man knows that the original prapatti may be made in such a way as to cover also future sins of a deliberate nature, there will be no one who will care to give up this easier method and thus the text prescribing a further prapatti will find none to adopt it. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्प्रपत्ति बुद्धिपूर्वोत्तराघत्तुक्कुम् परिहारमॆण्ड्रऱिन्दाल् इच्चॆट्टै विडुवारैयुङ्गिडैयामैयाले पुनःप्रपत्तिवचनम् निर्विषयमाम्.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सामान्य-वचनत्त् अळवैप् पट्रि  
+विशेष-वचनत्तै बाधिक्क वॊण्णादु. 
+</details>
+
+<details><summary>राजगोपालः (En)</summary>
+
+A general statement cannot contradict a statement made for a special or specific case (for the general statement covers only all cases except those specified in the special statement). 
+</details>
+
+<details><summary>मूलम्</summary>
+
+सामान्यवचनत्तळवैप्पट्रि विशेषवचनत्तै बाधिक्क वॊण्णादु. 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्पडि विशेष-वचनत्तै बाधिक्किल्, +++(प्रपन्नन् अल्लादे)+++  
+उपासन-निष्ठनुक्कुम् बुद्धि-पूर्वोत्तराघत्तुक्कुम् दोषम् इल्लैयाम्. +++(कारणं वक्ष्यते।)+++  
+</details>
+
+<details><summary>राजगोपालः (En)</summary>
+
+If we hold that a general statement can sublate or contradict a special statement for specific cases,  
+it would follow that, even in the case of one who adopts the upāya or bhakti or upāsana, subsequent sins committed deliberately would cause no stain.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि विशेषवचनत्तै बाधिक्किलुपासननिष्ठनुक्कुम् बुद्धिपूर्वोत्तराघत्तुक्कुम् दोषमिल्लैयाम्.  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+बुद्धि-पूर्वोत्तराघत्तिलुम् परमैकान्तिगळ् आनव् +++(प्रपन्नार्, उपासकार् ऎण्ड्रु)+++ इवर्गळ् इरुवर्क्कुम्+++(=इर्वरिगू)+++ यम-वश्यातादिगळ् इल्लैय् ऎन्नुम् इडम्
+</details>
+
+<details><summary>राजगोपालः (En)</summary>
+
+It is evident from the authority of the following śloka  that those who are exclusively devoted to Bhagavān (whether they be bhaktas or prapannas ) will not fall under the sway of Yama : 
+</details>
+
+<details><summary>मूलम्</summary>
+
+बुद्धिपूर्वोत्तराघत्तिलुम् परमैकान्तिगळान विवर्गळिरुवर्क्कुम् यमवश्यातादिगळिल्लैय् ऎन्नुमिडम्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘यस्मिन् कस्मिन् कुले जाता  
+यत्रकुत्र निवासिनः ।  
+> वासुदेव-रता नित्यं  
+> यमलोकं न यान्ति ते’’
+
+इत्यादिवचनबलत्ताले सिद्धम्.
+</details>
+
+<details><summary>राजगोपालः (En)</summary>
+
+"Whatever may be the family into which they are born, wherever they may live, those who love Bhagavān will never go to the world of Yama." 
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘यस्मिन्कस्मिन्कुले जाता यत्रकुत्र निवासिनः । वासुदेवरता नित्यं यमलोकं न यान्ति ते’’ इत्यादिवचनबलत्ताले सिद्धम्.
+</details>
+
+
+There is general agreement also that the same sin will meet with either heavy or light punishment as its consequence, according to the differences of caste, character and the like. This is also consistent with what obtains in the world in cases like the offences committed by princes.
 
 __________
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
@@ -797,7 +900,11 @@ In cases of deliberate offence, the punishment is not as severe as before (prapa
 
 Therefore to avoid even this light punishment which would follow as the consequence, a further prapatti ia ordained. In the case of those who are looked upon as learned and righteous, and who are also capable of atonement, atonement in public, in accordance with their ability, is proper when the offences have been committed in public. This is for the sake of setting an example to the rest of the world. If it were not done, it would be a transgression of (the Lord's) command stated before. The violation of the command is injurious in two ways. When the waiting woman [woman attendant] is suspended from service, she loses what she obtains (from the service ) such as scents and has to experience also dread (of punishment).
 
-It may (now) be asked :-"What if the original or first prapatti is made on one's own initiative (without the sanction of the sāstrās ) so as to cover also deliberate sins of the future ?" This is (easily ) answered by a counter-check :-"What if bhakti or upāsana is performed so as to cover also future acts of deliberate offence? What if prapatti as an aṅga is performed so as to cover such acts ?" If it is stated that in these two cases (of counter-check) also, it may be held that future sins will not cling, it will be heresy opposed to what is stated in Śrī Bhāṣya and elsewhere. It is also opposed to the code of conduct observed by such (holy men ) as Ushasti [Ushasti ate a morsel of cooked gram given by a mahout but refused to drink the water which was afterwards offered by him. He justified his action by saying that he ate the gram to avoid death by starvation, but refused the water because there was then no fear of death.] who were steadfast in the contemplation of Brahman (Brahmanishta). There is no special ordinance to contradict the general statement that when a sin is committed and the man feels remorse, the atonement or the prāyaścitta is to meditate on Bhagavān. Therefore the rule that, unless the occasion has arisen, there can be no application of a remedy (to cover a future possibility) holds good and stands uncontradicted in the case of offences committed deliberately after prapatti. Since the prayascitta or atonement is prescribed only for a sin that has already been committed, if a man dreads the possibility of future sins committed deliberately, he should perform atonement in the form of a prapatti for the sins of the past life which have now begun to operate and which are the cause of these (possible) future sins. For has it not been said, "Bhakti adopted as an upāya can destroy all sins except those sins of the past that have begun to operate in this life. On the other hand, prapatti (or sadhya bhakti). is superior to bhakti and can destroy even those sins of the past that have begun to produce their consequences in this life?" It has also been said :- "The sins committed in previous births afflict a man (in the present life) as diseases. They can be got rid of by medicines, charitable gifts, japa, offerings to the fire (homa) and adoration of Bhagavān". (It is indeed stated here) that, even by japa and homa, the sins of the past which have begun to bear fruit in the present life can be destroyed. (Such being the case, there is no reason to doubt that prapatti can destroy such sins). Therefore if a man performs prapatti in dread of the possibilities of future sins which might be caused by the sins of the past, these can be got rid of and no such future sin will be deliberately committed.
+It may (now) be asked :-"What if the original or first prapatti is made on one's own initiative (without the sanction of the sāstrās ) so as to cover also deliberate sins of the future ?" This is (easily ) answered by a counter-check :-"What if bhakti or upāsana is performed so as to cover also future acts of deliberate offence? What if prapatti as an aṅga is performed so as to cover such acts ?" If it is stated that in these two cases (of counter-check) also, it may be held that future sins will not cling, it will be heresy opposed to what is stated in Śrī Bhāṣya and elsewhere. It is also opposed to the code of conduct observed by such (holy men ) as Ushasti [^U] who were steadfast in the contemplation of Brahman (Brahmanishta). 
+
+[^U]: Ushasti ate a morsel of cooked gram given by a mahout but refused to drink the water which was afterwards offered by him. He justified his action by saying that he ate the gram to avoid death by starvation, but refused the water because there was then no fear of death.
+
+There is no special ordinance to contradict the general statement that when a sin is committed and the man feels remorse, the atonement or the prāyaścitta is to meditate on Bhagavān. Therefore the rule that, unless the occasion has arisen, there can be no application of a remedy (to cover a future possibility) holds good and stands uncontradicted in the case of offences committed deliberately after prapatti. Since the prayascitta or atonement is prescribed only for a sin that has already been committed, if a man dreads the possibility of future sins committed deliberately, he should perform atonement in the form of a prapatti for the sins of the past life which have now begun to operate and which are the cause of these (possible) future sins. For has it not been said, "Bhakti adopted as an upāya can destroy all sins except those sins of the past that have begun to operate in this life. On the other hand, prapatti (or sadhya bhakti). is superior to bhakti and can destroy even those sins of the past that have begun to produce their consequences in this life?" It has also been said :- "The sins committed in previous births afflict a man (in the present life) as diseases. They can be got rid of by medicines, charitable gifts, japa, offerings to the fire (homa) and adoration of Bhagavān". (It is indeed stated here) that, even by japa and homa, the sins of the past which have begun to bear fruit in the present life can be destroyed. (Such being the case, there is no reason to doubt that prapatti can destroy such sins). Therefore if a man performs prapatti in dread of the possibilities of future sins which might be caused by the sins of the past, these can be got rid of and no such future sin will be deliberately committed.
 
 From such episodes as that of Sandili in which even Garuḍa who has been described in Aḷavandār's Stotra as Bhagavān's servant, friend, vehicle, seat and device on the banner, committed an offence against the righteous Sandili and had to undergo the evil consequences of it until he obtained pardon from her -- from such episodes, it is evident that even for those who are in immediate contact with Bhagavān, even slight offences against the righteous are productive of evil consequences. (It may be asked whether nitya sūris like Garuḍa could commit offences at all). The answer is that, if the eternal sūris incarnate like Bhagavān, they have to act the part of those who are subject to the sway of karma and perform atonement for offences in order to promote the good of the world (by setting a proper example).
 
