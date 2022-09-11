@@ -7,7 +7,7 @@ title = "१८ अपराधपरिहाराधिकारः"
 ॥ श्रीमते निगमान्तमहादेशिकाय नमः ॥  
 ॥ श्रीमद्रहस्यत्रयसारे अपराधपरिहाराधिकारः ॥ १८ ॥
 
-<details><summary>English</summary>
+<details><summary>राजगोपालः (En)</summary>
 
 (18) THE CHAPTER ON THE ATONEMENT FOR OFFENCES. page235
 </details>
@@ -22,7 +22,7 @@ __________
 पङ्कैर् एव कलङ्कयन् निज-तनुं प्राज्ञैर् न संश्लिष्यते ॥ ४० ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>राजगोपालः (En)</summary>
 
 This embodied being (the Jīva  ) obtains the grace of Madhava by the result of past karma (luck), for the removal of his sins -- the grace of Madhava which, by its purity, delightfulness, holiness and efficacy is like the (holy) Mandakini whose waters are clear, sweet, always pure (white) and efficacious. (That is, he becomes a prapanna ). If, in spite of this, he still makes his body unclean by wallowing in the mire of the stream of wretched sense pleasures, his company is avoided by the wise (but this would not stand in the way of his attainment of mokṣa after death).
 </details>
@@ -52,14 +52,14 @@ __________
 प्रायेण **संभावितम् अण्ड्रु**.
 </details>
 
-<details><summary>संस्कृतम्</summary>
+<details><summary>लक्ष्मीपुर-श्रीनिवासः (सं)</summary>
 
 एवं  भगवच्छेषतैकस्वभावस्य  शास्त्रनियततत्कैङ्कर्यैकरसिकस्य  अधिकारिणः  अनापदि  बुद्धिपूर्वकापराधः  स्वीकृतकैङ्कर्यैकनिष्ठाविरुद्धत्वात्  प्रायशो  **न  सम्भवति**  ।
 </details>
 
 
 
-<details><summary>English</summary>
+<details><summary>राजगोपालः (En)</summary>
 
 Since the prapanna has, by nature, the sole character of a śeṣa to Bhagavān  
 and since he delights only in rendering service to Him in accordance with the ordinances of the śāstras,  
@@ -86,7 +86,7 @@ __________
 कऴिन्दु-बोम्. 
 </details>
 
-<details><summary>संस्कृतम्</summary>
+<details><summary>लक्ष्मीपुर-श्रीनिवासः (सं)</summary>
 
 प्रारब्ध-कर्म-विशेष-वशात्  
 देश-कालावस्थादि-वशात्  
@@ -97,7 +97,7 @@ __________
 
 
 
-<details><summary>English</summary>
+<details><summary>राजगोपालः (En)</summary>
 
 If as a result of past karma which has begun to operate (prārabdha)  
 and under adverse conditions of place, time and circumstance, slight offences (against the Lord) take place through inattention in the waking state or (without his knowledge) in dreamless sleep (suṣupti) and other such states,  
@@ -123,7 +123,7 @@ __________
 सिल **स्व-निष्ठा-विपरीतङ्गळ् वन्दालुम्** 
 </details>
 
-<details><summary>संस्कृतम्</summary>
+<details><summary>लक्ष्मीपुर-श्रीनिवासः (सं)</summary>
 
 अथ  मोक्षार्थ-प्रपत्त्य्-अनुष्ठान-वेलायां  
 बुद्धि-पूर्वक-पापारभक-पापानाम् अपि  **निवृत्तिम् अनन्तर्-भावयतां**  
@@ -135,7 +135,7 @@ __________
 
 
 
-<details><summary>English</summary>
+<details><summary>राजगोपालः (En)</summary>
 
 If, at the time of prapatti, he did not beg, with dread of them, for the removal of such sins as lead to further sins,  
 since he is still in close association with prakṛti  
@@ -160,13 +160,13 @@ __________
 इव् विपरीतानुष्ठानङ्गळ् मिन्न्-ऒळि+++(=कान्ति)+++-मात्रम् आय् निलै निऱ्‌कुम्.  
 </details>
 
-<details><summary>संस्कृतम्</summary>
+<details><summary>लक्ष्मीपुर-श्रीनिवासः (सं)</summary>
 
 निसर्ग-सुहृद् रक्षणोन्मुखः  श्रियःपतिः  
 लज्जानुतापादिभिः  यथाधिकारं  प्रायश्चित्तम् आसादयति  ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>राजगोपालः (En)</summary>
 
 the Lord of Lakṣmī , who, by His very nature, is his well-wisher,  
 stands ever ready to save him.  
@@ -187,7 +187,7 @@ __________
 यथोचितम् आग लज्जानुतापङ्गळ् पिऱन्दु  
 </details>
 
-<details><summary>English</summary>
+<details><summary>राजगोपालः (En)</summary>
 
 he will quickly reflect on these lapses from his state as a prapanna, feel ashamed at them, repent of them, 
 </details>
@@ -234,7 +234,7 @@ __________
 यथाधिकारम् प्रायश्चित्तावलम्बनम् उण्डाम्.
 </details>
 
-<details><summary>English</summary>
+<details><summary>राजगोपालः (En)</summary>
 
 and perform the proper atonement (prāyaścitta) that is suited to his competence. The following ślokas explain the point-
 
@@ -281,14 +281,14 @@ __________
 क्षमै-कॊळ्ळुगैयुङ् गैदप्-पिन पोदु
 </details>
 
-<details><summary>संस्कृतम्</summary>
+<details><summary>लक्ष्मीपुर-श्रीनिवासः (सं)</summary>
 
 एवं  प्रारब्धकर्मविशेषवशात्  कठिनप्रकृतीनां  यथाधिकारं  प्रायश्चित्तमकृतवतां  
 </details>
 
 
 
-<details><summary>English</summary>
+<details><summary>राजगोपालः (En)</summary>
 
 When, owing to hard-heartedness due to past karma operating now (prārabdha), the prapanna does not+++(??)+++ obtain pardon by atonement, 
 </details>
@@ -309,7 +309,7 @@ __________
 > (विष्णुपुराणम् 3-7-14)
 </details>
 
-<details><summary>English</summary>
+<details><summary>राजगोपालः (En)</summary>
 
 For it has been said :- "Seeing his attendants with the noose (of death ) in their hands, Yama whispers in their ears :-- "Do not approach those who have performed prapatti at (the feet of) Madhusūdana. I have sway only over others and not over the devotees of Viṣṇu ". 
 </details>
@@ -334,7 +334,7 @@ __________
 ‘‘कमलनयन वासुदेव विष्णो धरणिधराच्युत शङ्खचक्रपाणे । भवशरणमितीरयन्ति ये वै त्यज भट दूरतरेण तानपापान्’’(विष्णुपुराणम् 3-7-33)
 </details>
 
-<details><summary>English</summary>
+<details><summary>राजगोपालः (En)</summary>
 
 And Again : - "O Thou with lotus-like eyes, O Vāsudeva, O Viṣṇu, O Thou that bearest the earth, O Thou that art armed with the conch and the discus, be Thou my refuge" - those that utter these words - leave them at a distance for they are not sinners"
 </details>
@@ -349,7 +349,7 @@ __________
 > (वामनपुराणम् 94-43.)
 </details>
 
-<details><summary>English</summary>
+<details><summary>राजगोपालः (En)</summary>
 
 and further, "Those that perform prapatti to Viṣṇu, the God who is armed with sārnga, never go to the world of Yama, for naraka is not their dwelling place." 
 </details>
@@ -371,7 +371,7 @@ __________
 मुदल्-आगव्-ओदुगिऱ+++(=पठित)+++-विङ्गुट्रैय्+++(=पुष्कल)+++-उप-क्लेश-मुखत्ताले  
 </details> 
 
-<details><summary>English</summary>
+<details><summary>राजगोपालः (En)</summary>
 
 he will not go to the world of Yama (but receive punishment in this very life).  
 
@@ -396,7 +396,7 @@ __________
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>राजगोपालः (En)</summary>
 
 The Supreme Lord, being possessed of forgiveness, kindness, compassion and over-flowing love, relents in His anger (and protects the prapanna after a light punishment in this very life for his offence.) 
 </details>
@@ -419,7 +419,7 @@ __________
 संबन्धानृशंस्यादिगळाले प्रीति नडक्कच् चॆय्देय्  
 </details>
 
-<details><summary>English</summary>
+<details><summary>राजगोपालः (En)</summary>
 
 An emperor, who is to be duly served, punishes his attendants (like those who carry the umbrellas ), the servants of the harem like the hunchbacks and the dwarfs and so also the princes, in proportion to their offences and (also) to such things as their closeness to Him. 
 
@@ -442,7 +442,7 @@ __________
 +++(इन्-)+++मेलैक्कुम् शिक्षैय् आगैक्क् आगवुम्,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>राजगोपालः (En)</summary>
 
 (He punishes them) so that they may obtain pardon for their offences and know that, in future, they may not offend (in the same manner).
 </details>
@@ -464,7 +464,7 @@ __________
 काक-न्यायत्तालेय् ऒरु कण्णऴिवालेय् इव्व् आश्रितरै रक्षित्तु विडुम्.
 </details>
 
-<details><summary>English</summary>
+<details><summary>राजगोपालः (En)</summary>
 
 The punishments are such as the following:  
 averting his face from them, whipping, getting them driven out, keeping them outside the gates and suspension for a short time.  
@@ -489,7 +489,7 @@ __________
 ऎण्ड्रु सिलर् सॊन्नार्गळ्.
 </details>
 
-<details><summary>English</summary>
+<details><summary>राजगोपालः (En)</summary>
 
 Directing those that are gentle to obtain pardon (by atonement)  
 and punishing those that are tough by nature for the sake of correction are of the nature of the Lord's forgiveness,  
@@ -520,7 +520,7 @@ __________
 शङ्किक्कवॊण्णादु;
 </details>
 
-<details><summary>English</summary>
+<details><summary>राजगोपालः (En)</summary>
 
 It should not be thought that, because sins committed deliberately after prapatti and not atoned for would be followed by their consequences, like that part of prārabdha karma which is of the nature of sin, the prapatti performed before would not yield mokṣa. 
 </details>
@@ -539,7 +539,7 @@ __________
 वाट्टत्तुक्कु+++(=शोष्टुं)+++ काल-तारतम्यम् उळ्ळ-मात्रम्
 </details>
 
-<details><summary>English</summary>
+<details><summary>राजगोपालः (En)</summary>
 
 When asafoetida is applied to the root of a tree for making it wither, the tree is sure to wither sooner or later, according to the nature of the soil and other conditions; (but there is no doubt that it will wither; it will do so, perhaps after a little more time). 
 </details>
@@ -558,7 +558,7 @@ __________
 इङ्गुम् इवर्गळ् संसारत्तिन् उडैय निश्-शेष-निवृत्ति-पिऱक्कैक्कु+++(=राशीकरणाय)+++ विळंबाविळंब-वैषम्यमेय् उळ्ळदु.
 </details>
 
-<details><summary>English</summary>
+<details><summary>राजगोपालः (En)</summary>
 
 So also in the case of these prapannas who have committed sins deliberately, there will be difference only with regard to the delay in the complete release from saṁsāra.
 </details>
@@ -577,7 +577,7 @@ __________
 नियतायुस्सुक्कळुक्कु उळ्ळव् आयुस्सुक्क् उळ्ळे +++(मोक्षम्)+++ फलित्तु-विडुम्.
 </details>
 
-<details><summary>English</summary>
+<details><summary>राजगोपालः (En)</summary>
 
 If they desire to have mokṣa at the end of this life and cannot brook delay and if the period of their life-time is not previously fixed, there will be delay in mokṣa  by the life-time being extended. To those whose period of life-time is already fixed, prapatti will certainly bear fruit within that time.
 </details>
@@ -605,7 +605,7 @@ __________
 ऎन्गिऱ् अपडिये पिराट्टिक्कु+++(→श्रीकु)+++ क्षमा-विषयमाय्-इट्र् इल्लैयोव् ऎन्निल्; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>राजगोपालः (En)</summary>
 
 It may be asked 
 
@@ -631,7 +631,7 @@ __________
 दण्ड-लेशमुम् क्षमैयुम् सिद्धम्.
 </details>
 
-<details><summary>English</summary>
+<details><summary>राजगोपालः (En)</summary>
 
 The answer is as follows:- Even here, the Rākṣasis were afraid that Hanuman was about to punish them severely and were afterwards saved from it.  
 
@@ -650,7 +650,7 @@ __________
 आगैयाल् प्रपन्ननुक्कु बुद्धि-पूर्वोत्तराघम् लेपियात् ऎण्ड्रु विशेषित्तुच् चॊल्लुवद् ऒरु प्रमाणम् अण्ड्रिक्केय् इरुक्क
 </details>
 
-<details><summary>English</summary>
+<details><summary>राजगोपालः (En)</summary>
 
 Therefore, when it is sometimes stated that even sins committed deliberately by a prapanna, would not cling to him, the statement has no authority in support of it. 
 </details>
@@ -668,7 +668,7 @@ __________
 क्षमै कॊळ्ळा-विट्टालुम् शिक्षा-रूप-दण्डविशेषम् इल्लैय् ऎण्ड्रुम्,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>राजगोपालः (En)</summary>
 
 It is also sometimes stated that the prapanna need not atone for his sins even when he has committed them deliberately, and that, even if he has not atoned for them, there will be no punishment by way of teaching him a lesson. 
 </details>
@@ -686,7 +686,7 @@ __________
 प्रारब्ध-सुकृत-विशेषादिगळाले वरुम् इङ्गुट्र कैङ्कर्यत्तुक्कु विच्छेद-सङ्कोचङ्गळ् वाराद् ऎण्ड्रुञ् चोल्लुगिऱ पक्षङ्गळ् शरण्यनुडैय गुणङ्गळैयुम् शरणागतियिनुडैय प्रभावत्तैयुञ् चॊल्लुगैक्कागव् अत्तनै.
 </details>
 
-<details><summary>English</summary>
+<details><summary>राजगोपालः (En)</summary>
 
 It is sometimes maintained also that when such offences have been committed, there will be no delay in the attainment of the supreme goal even for those who are impatient of delay and that there will be no intermission or diminution in the services which have come to a man as the result of meritorious karma in the past bearing fruit in this life. 
 </details>
