@@ -814,8 +814,8 @@ If a man knows that the original prapatti may be made in such a way as to cover 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सामान्य-वचनत्त् अळवैप् पट्रि  
-विशेष-वचनत्तै बाधिक्क वॊण्णादु. 
++++("अहं त्वाम् मोक्षैष्यामि"ति)+++ सामान्य-वचनत्त् अळवैप् पट्रि  
++++(पुनःप्रपत्ति-चोदक-)+++विशेष-वचनत्तै बाधिक्क वॊण्णादु. 
 </details>
 
 <details><summary>राजगोपालः (En)</summary>
@@ -883,7 +883,7 @@ It is evident from the authority of the following śloka  that those who are exc
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
- ऒरु पापन्-दाने जाति-गुणाद्य्-अधिकार-भेदत्ताले गुरु-लघु-फल-भेदवत्ताय् इरुक्कुम् ऎन्नुम् इडम् सर्व-संप्रतिपन्नम्.
+ऒरु पापन्-दाने जाति-गुणाद्य्-अधिकार-भेदत्ताले गुरु-लघु-फल-भेदवत्ताय् इरुक्कुम् ऎन्नुम् इडम् सर्व-संप्रतिपन्नम्.
 </details>
 
 <details><summary>राजगोपालः (En)</summary>
@@ -938,7 +938,7 @@ In cases of deliberate offence, the punishment is not as severe as before (prapa
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आगैयाल् अधिकारानुरूपम् आग  
-लघु-फलमुम् वारामैक्क् आग  
+लघु-फलमुम् वारामैक्क्+++(→वरामैक्क्??)+++ आग  
 पुनःप्रपदनम् विधिक्कप् पडुगिऱदु. 
 </details>
 
@@ -973,7 +973,7 @@ In the case of those who are looked upon as learned and righteous, and who are a
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अदु तविरुगैयुम्+++(=वारणम्)+++ मुन् सॊन्न आज्ञातिलङ्घनम् आम्. 
+अदु तविरुगैयुम्+++(=वारणम्)+++ मुन्+++(→पूर्वं)+++ सॊन्न आज्ञातिलङ्घनम् आम्. 
 </details>
 
 <details><summary>राजगोपालः (En)</summary>
@@ -989,8 +989,17 @@ If it were not done, it would be a transgression of (the Lord's) command stated 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सैरन्ध्रिकैक्कु सेवै तप्पिन-पोदु तादात्विकमान परिमळादिगळैयुमिऴन्दु भयानुभवमुमुण्डामाप्पोले आज्ञातिलङ्घनमिरण्डुप्पडियनर्थम्. 
+सैरन्ध्रिकैक्कु+++(=अन्तःपुर-सेविकैक्कु)+++ सेवै तप्पिन-पोदु  
+तादात्विकम् आन परिमळादिगळैयुम् इऴन्दु  
+भयानुभवमुम् उण्डामाप् पोले  
+आज्ञाति-लङ्घनम् इरण्डुप् पडिय् अनर्थम्. 
 </details>
+
+<details><summary>Keith</summary>
+
+The violation of the command is injurious in two ways. When the waiting woman [woman attendant] is suspended from service, she loses what she obtains (from the service ) such as scents and has to experience also dread (of punishment).
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -998,7 +1007,6 @@ If it were not done, it would be a transgression of (the Lord's) command stated 
 </details>
 
 
-The violation of the command is injurious in two ways. When the waiting woman [woman attendant] is suspended from service, she loses what she obtains (from the service ) such as scents and has to experience also dread (of punishment).
 
 It may (now) be asked :-"What if the original or first prapatti is made on one's own initiative (without the sanction of the sāstrās ) so as to cover also deliberate sins of the future ?" This is (easily ) answered by a counter-check :-"What if bhakti or upāsana is performed so as to cover also future acts of deliberate offence? What if prapatti as an aṅga is performed so as to cover such acts ?" If it is stated that in these two cases (of counter-check) also, it may be held that future sins will not cling, it will be heresy opposed to what is stated in Śrī Bhāṣya and elsewhere. It is also opposed to the code of conduct observed by such (holy men ) as Ushasti [^U] who were steadfast in the contemplation of Brahman (Brahmanishta). 
 
