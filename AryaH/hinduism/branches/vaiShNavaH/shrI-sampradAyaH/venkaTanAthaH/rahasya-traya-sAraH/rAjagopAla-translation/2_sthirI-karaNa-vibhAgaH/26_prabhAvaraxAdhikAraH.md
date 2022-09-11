@@ -11,7 +11,7 @@ title = "२६ प्रभावरक्षाधिकारः"
 
 (THE) POTENCY (OF PRAPATTI ).page389
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 शिलादेः स्त्रीत्वादिर्विपरिणतिरस्त्वद्भुतमिदं  
 ततोप्येतच्चित्रं यदुत दहनस्यैव हिमता ।  
@@ -19,7 +19,7 @@ title = "२६ प्रभावरक्षाधिकारः"
 पदत्रेणैवेह त्रिभुवनपरित्राणमिति च ॥ ५७ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 शिलादेः स्त्रीत्वादिर्विपरिणतिरस्त्वद्भुतमिदं  
 ततोप्येतच्चित्रं यदुत दहनस्यैव हिमता ।  
@@ -105,7 +105,7 @@ Sach being the case, Iśvara, who has already made up His mind to grant, to thes
 
 It has been said :-"Whatever a man often does with the activities of his body, mind and speech - it makes a man its captive. Therefore one should (ever) perform what is good. So we should never deviate from the right path with the body, mind or speech.There is a saying that "The poison tree called saṁsāra bears two (kinds of) fruits which are like nectar - one is bhakti  to Bhagavān and the other association with those who are His bhaktas". Therefore we should feel it a blessing that we have obtained the unattainable privilege of association with those really great men who may appear small (in the eyes of the ignorant) and who have the great good fortune of having sought the protection of the Supreme Being, for this should be the great object of desire during our life. time here. We should rest assured "that evil" deeds can never be ours, as we have been accepted by the Lord (as His servants)", and "That the Lord who wields the chakra (the discus) protects us and that (therefore) no one can do anything harmful to us." We should therefore crown ourselves, even here, in anticipation of the empireship of perfect service to the Lord which will be ours in Heaven (Paramapada). This potency which has been determined so far should be remembered in connection with such places as indicate the fruit in the three mysteries (mantras), as established by necessary consequence.
 
-<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 उण्मैयुरैक्कु मऱैगळिलोङ्गिय वुत्तमनार्  
 वण्मैयळप्परिदादलिन् वन्दु कऴल्बणिवार्  
@@ -113,7 +113,7 @@ It has been said :-"Whatever a man often does with the activities of his body, m
 उण्मैयुरैत्तनरोरन्दविर वुयर् न्दनरे. ( 37 )
 </details>
 
-<details><summary>तमिऴ् - मूलम्</summary>
+<details><summary>मूलम् (त॰प॰)</summary>
 
 उण्मैयुरैक्कु मऱैगळिलोङ्गिय वुत्तमनार्  
 वण्मैयळप्परिदादलिन् वन्दु कऴल्बणिवार्  
@@ -123,7 +123,7 @@ It has been said :-"Whatever a man often does with the activities of his body, m
 
 The Supreme Self whose greatness is described in the Vedas, which reveal the truth, is beyond all limitations and beyond all measure in regard to His glory. Therefore, about those who approach Him and seek His feet, though such things as low birth and certain weaknesses may be found in them, yet it cannot be said that their greatness is, in any way, limited. This truth has been taught to us by those who are highest among men and who are free from all partiality.
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 रागद्वेषमदादिकैरिह महारक्षोभिरक्षोभिते  
 नित्ये रक्षितरि स्थिते निजभरन्यासाभिधानं तपः ।  
@@ -131,7 +131,7 @@ The Supreme Self whose greatness is described in the Vedas, which reveal the tru
 स्तद्भूमार्णवलेशवर्णनमपि प्राचां न वाचां पदम् ॥ ५८ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 रागद्वेषमदादिकैरिह महारक्षोभिरक्षोभिते  
 नित्ये रक्षितरि स्थिते निजभरन्यासाभिधानं तपः ।  

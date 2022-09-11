@@ -12,7 +12,7 @@ title = "२५ प्रभाव-व्यवस्थाधिकारः"
 
 PRAPATTI HAVE POTENCY:page358
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 स्वरूपं यद्यादृग्गुणविभवलीलादि च विभो  
 स्तदाज्ञासेतुश्च श्रुतिभिरवसेयं तदखिलम् ।  
@@ -20,7 +20,7 @@ PRAPATTI HAVE POTENCY:page358
 यथाधीतं सद्भिर्यतिपतिमुखैरद्ध्यवसितः ॥ ५५ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 स्वरूपं यद्यादृग्गुणविभवलीलादि च विभो  
 स्तदाज्ञासेतुश्च श्रुतिभिरवसेयं तदखिलम् ।  
@@ -46,12 +46,12 @@ It is said: “Those Sūdras" who have devotion' (bhakti ) to Bhagavān are not 
 
 If this were not accepted (as the right interpretation), all rules and regulations (regarding caste) would be set at naught on the strength of the censure and praise (which) alone are intended to be conveyed) in such passages as the following :- "Auspicious qualities which carry esteem do not arise from caste. The gods consider as a Brahmin even a caṇḍāla who conducts himself in accordance with his caste," "Sannyasins and those who perform tapas (austerities) become caṇḍālas when they lapse from the code of conduct prescribed for them", and "Because" a man's hair has turned grey, he is not esteemed as old. He who has jñāna, even if he be a child, is esteemed by the gods as an old man". This is the right explanation of all such passages :
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 प्रतिपत्तिविशेषार्थमन्यत्रान्यत्वकीर्तनम् । विशेषविधिसाकांक्षास्तत्र तत्तत् प्रवृत्तयः ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 प्रतिपत्तिविशेषार्थमन्यत्रान्यत्वकीर्तनम् । विशेषविधिसाकांक्षास्तत्र तत्तत् प्रवृत्तयः ॥
 </details>
@@ -72,13 +72,13 @@ Tuladhara and Dharmavyadha (who were of lower castes) only did this much: they t
 
 "Bhakti or devotion is of eight kinds. If this bhakti is found in a mleccha, he should be considered as a devout and knowing Brahmin. To him giving is proper and from him taking is proper. He should be treated with the same reverence as I myself". This śloka has been commented upon (by Peria Achan Pillai) As meaning not that girls might be given in marriage to him and the like, but that he may be given the gift of knowledge and such like. "Treatment with reverence" (poojyah) is a general term. Therefore it means that if a man has devotion to Bhagavān, he should be treated with as much respect as the śāstras permit. Its purport is merely this much, that if a man treats such a devotee in the same way as he would treat others of the same caste, he would go to hell. The great sage summarised this in the śloka “He who treats a devotee of Bhagavān, be he a Śūdra, a huntsman, or even a man who eats dog's flesh, as he would treat other men of these castes - he would go to hell." Therefore the potency of devotion to Bhagavān should be so estimated as not to infringe the regulations of caste.
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 अतो जातेर्निकृष्टायास्सर्वस्या वा विनाशतः । साजात्यं विष्णुभक्तानामिति मन्दमिदं वचः ॥  
 वैष्णवत्वेन मान्यत्वं समानं मुनि सम्मतम् । जात्यादिध्वंसतस्साम्यं मुक्तिकाले भविष्यति ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 अतो जातेर्निकृष्टायास्सर्वस्या वा विनाशतः । साजात्यं विष्णुभक्तानामिति मन्दमिदं वचः ॥  
 वैष्णवत्वेन मान्यत्वं समानं मुनि सम्मतम् । जात्यादिध्वंसतस्साम्यं मुक्तिकाले भविष्यति ॥
@@ -134,12 +134,12 @@ If the word parityajya (having given up) merely states what has, on account of i
 
 [^73]: To the man or adhikārī who grieves at his inability to adopt the dharmas or aṅgas enjoined for bhakti yoga, the Carama Śloka says, “Perform prapatti to me and you need not adopt any other dharma".
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 प्रकृतोपासन न्यायात्तदङ्गानामुपस्थितौ । अन्येषाञ्चैतदङ्गत्व त्यागोऽत्र प्रतिपाद्यते ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 प्रकृतोपासन न्यायात्तदङ्गानामुपस्थितौ । अन्येषाञ्चैतदङ्गत्व त्यागोऽत्र प्रतिपाद्यते ॥
 </details>
@@ -152,14 +152,14 @@ Our acharyās like (Appallar) have argued thus:
 
 Since nitya and naimittika karma are enjoined on a man (irrespective of all fruit or gain that might arise from it) simply by virtue of his being a servant of the Lord, they should not be given up, lest he should be violating the command of the Master, (although they may not be required as aṅgas for prapatti).
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 आज्ञाविरोधिभिस्स्वार्ह प्रायश्चित्तपराङ्मुखैः । स्वाधिकारोचितस्सर्वैः प्रत्यवायो दुरत्ययः ॥  
 आज्ञानुपालने तत्तत्प्रत्यवायनिवारणम् । स्वामिसन्तोषतः प्रीतिरिति लाभद्वयं स्थिरम् ॥  
 अनिच्छातो निवर्तेत स्वर्गाद्यं कर्मणां फलम् । अमर्यादस्य दुर्वारः प्रत्यवायोऽन्यहेतुकः ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 आज्ञाविरोधिभिस्स्वार्ह प्रायश्चित्तपराङ्मुखैः । स्वाधिकारोचितस्सर्वैः प्रत्यवायो दुरत्ययः ॥  
 आज्ञानुपालने तत्तत्प्रत्यवायनिवारणम् । स्वामिसन्तोषतः प्रीतिरिति लाभद्वयं स्थिरम् ॥  
@@ -172,14 +172,14 @@ Such things as svarga that are declared to be the fruit of certain (good) karmas
 
 When prapatti was treated (by the Bhāṣyakāra) as an aṅga of bhakti yoga, it was only to illustrate how it wins bhakti yoga as a fruit, since it is capable of securing all fruits. In this context, we should bear in mind that, on the lines of the Bhāṣyakara's second interpretation (of the carama śloka ), prapatti stands in the place of all upāyas including bhakti yoga, which are difficult of performance. In accordance with his first interpretation, (that every dharma should be done with the thought that it is performed not by oneself but by the Lord and for His own ends - sāttvika parityāga) and not out of any desire for one's own gain, the meaning should be considered as enjoining the performance of prapatti with that thought and the service rendered by the prapanna as an end in itself.
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 सुदुष्करेण शोचेद्यो येन येनेष्टहेतुना । स स तस्याहमेवेति चरमश्लोकसंग्रहः ॥  
 भावाभावौ न धर्माणां प्रपत्तेरङ्गमिष्यते । स्वतन्त्रशिष्ट्या शक्येहा शेषाभावोधिकारगः ॥  
 क्रत्वनङ्गतया ये तु तदानीमननुष्ठिताः । स्वकाले स्वविधेरेव कार्यास्ते तद्वदत्र नः ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 सुदुष्करेण शोचेद्यो येन येनेष्टहेतुना । स स तस्याहमेवेति चरमश्लोकसंग्रहः ॥  
 भावाभावौ न धर्माणां प्रपत्तेरङ्गमिष्यते । स्वतन्त्रशिष्ट्या शक्येहा शेषाभावोधिकारगः ॥  
@@ -206,12 +206,12 @@ If the interpretation (given by these men) were the real meaning (of the teachin
 
 Even if it be held that more ahimsā which is not accompanied by niyama (the observance of rules and restraints ) is also meant by the word dharia, we submit the following:
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 अधर्म परिहारेऽपि धर्मत्वेन विवक्षिते । स्यात्स्वतन्त्रविधेरेव नित्यं तस्य परिग्रहः ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 अधर्म परिहारेऽपि धर्मत्वेन विवक्षिते । स्यात्स्वतन्त्रविधेरेव नित्यं तस्य परिग्रहः ॥
 </details>
@@ -232,12 +232,12 @@ In the case of the aspirant for mukti, it may mean also those activities and abs
 
 [^76]: It may also mean "we will never do what is evil".
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 ‘प्रायश्चित्तान्तराशक्तः कालक्षेपाक्षमोऽपि वा । पुनः प्रपद्यते नाथमभिन्दन् लोकसंग्रहम् ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 ‘प्रायश्चित्तान्तराशक्तः कालक्षेपाक्षमोऽपि वा । पुनः प्रपद्यते नाथमभिन्दन् लोकसंग्रहम् ॥
 </details>
@@ -260,7 +260,7 @@ Therefore in order to avoid (1) these sufferings and (2) the interruption to the
 
 We have already explained that it is not possible to perform prapatti in anticipation for offences that might be committed deliberately in future and that there is nothing improper in performing a later prapatti in order to obtain a fruit or object which was not prayed for in the previous prapatti (in the chapter on Expiation for Offences ). Thus it may be understood that there is nothing improper in observing the code of conduct followed by the good and arising from the commands of the Lord, (viz., nitya and naimittika ).
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 *प्रपन्नस्य निषिद्धैरप्यलेपमुपपादयन् । यथाभिमतसद्वृत्तनिष्ठेभ्यः किमसूयति ॥  
 आज्ञातिलङ्घने यस्य रक्षकत्वं न भज्यते । आज्ञानुपालने तस्य कथन्तदुपरुद्ध्यते ॥  
@@ -268,7 +268,7 @@ We have already explained that it is not possible to perform prapatti in anticip
 आचारप्रभवो धर्मो धर्मस्य प्रभुरच्युतः ।
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 *प्रपन्नस्य निषिद्धैरप्यलेपमुपपादयन् । यथाभिमतसद्वृत्तनिष्ठेभ्यः किमसूयति ॥  
 आज्ञातिलङ्घने यस्य रक्षकत्वं न भज्यते । आज्ञानुपालने तस्य कथन्तदुपरुद्ध्यते ॥  
@@ -306,12 +306,12 @@ observed dharma (i.e.) karmayoga etc" and when it is said, "I have given up the 
 
 Therefore even to a prapanna, action in obedience to the commands of the Lord and in accordance with the respective caste is an obligation that should be carried out until the bodies characterised by such things as Brahmin-ness are cast off.
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 आहारग्रहमन्त्रार्थजात्यादिनियमैर्युतः । कुर्याल्लक्ष्मीशकैङ्कर्यं शक्त्यानन्यप्रयोजनः ॥ आचारात्मगुणोपायपुरुषार्थविशेषतः । अधिकारिणि वैशिष्ट्यं प्रकृष्येतोत्तरोत्तरम् ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 आहारग्रहमन्त्रार्थजात्यादिनियमैर्युतः । कुर्याल्लक्ष्मीशकैङ्कर्यं शक्त्यानन्यप्रयोजनः ॥ आचारात्मगुणोपायपुरुषार्थविशेषतः । अधिकारिणि वैशिष्ट्यं प्रकृष्येतोत्तरोत्तरम् ॥
 </details>
@@ -324,7 +324,7 @@ Therefore even to a prapanna, action in obedience to the commands of the Lord an
 
 This determination of the potency (of prapatti) should be borne in mind as being connected with the quality of Iśvara as the controller indicated in the three mysteries (mantras).
 
-<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 तगवाट्ररिक्किण्ड्र तन्नडियार्गळैत् तण्ड्रिऱत्तिल्  
 मिगवादरञ्जॆय्युमॆय्यरुळ्वित्तगन्मॆय्युरैयिन्  
@@ -332,7 +332,7 @@ This determination of the potency (of prapatti) should be borne in mind as being
 उगवारॆनवॆङ्गडेसिगरुण्मैयुरैत्तनरे. ( 36 )
 </details>
 
-<details><summary>तमिऴ् - मूलम्</summary>
+<details><summary>मूलम् (त॰प॰)</summary>
 
 तगवाट्ररिक्किण्ड्र तन्नडियार्गळैत् तण्ड्रिऱत्तिल्  
 मिगवादरञ्जॆय्युमॆय्यरुळ्वित्तगन्मॆय्युरैयिन्  
@@ -342,7 +342,7 @@ This determination of the potency (of prapatti) should be borne in mind as being
 
 Our ācāryas have declared that those who have understood the real import of the infallible words (in the carama śloka ) uttered by Śrī Kṛṣṇa, whose attributes and actions are wonderful, who is full of compassion and who has greater regard than for Himself to His servants that endure their existence only by His grace (or who shows His great regard to His servants by giving them His own likeness) – our ācāryas hive declared that those who have understood the real import of Śrī Kṛṣṇa's words will never approve the non-observance of the way of life ordained in the Veda or Vedānta.
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 चातुर्वर्ण्यचतुर्विधाश्रममुखे भेदे यथावस्थिते  
 वृत्तन्तन्नियतं गुणानुगुणया वृत्त्या विशिष्टं श्रिताः ।  
@@ -350,7 +350,7 @@ Our ācāryas have declared that those who have understood the real import of th
 श्चिन्तामभ्युपगन्तुमन्तिमयुगेऽप्येकान्तिनस्सन्ति नः ॥ ५६ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 चातुर्वर्ण्यचतुर्विधाश्रममुखे भेदे यथावस्थिते  
 वृत्तन्तन्नियतं गुणानुगुणया वृत्त्या विशिष्टं श्रिताः ।  

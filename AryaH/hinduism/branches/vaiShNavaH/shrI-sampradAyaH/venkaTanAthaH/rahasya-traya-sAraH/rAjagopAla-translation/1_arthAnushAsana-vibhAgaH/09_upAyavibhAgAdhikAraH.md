@@ -9,7 +9,7 @@ title = "०९ उपायविभागाधिकारः"
 
 (9) THE CHAPTER ON THE CLASSIFICATION OF THE MEANS OR UPĀYA FOR ATTAINING (MUKTI). page162
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 उपायः स्वप्राप्तेरुपनिषदधीतस्स भगवान्  
 प्रसत्त्यै तस्योक्ते प्रपदननिदिध्यासनगती ।  
@@ -17,7 +17,7 @@ title = "०९ उपायविभागाधिकारः"
 निदानं तत्राऽपि स्वयमखिलनिर्माण निपुणः ॥ २२ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 उपायः स्वप्राप्तेरुपनिषदधीतस्स भगवान्  
 प्रसत्त्यै तस्योक्ते प्रपदननिदिध्यासनगती ।  
@@ -84,7 +84,7 @@ That the two are different from each other is evident from the adhikaraṇa or s
 
 It may be seen that, as in upāsanās there are differences in mantras and the like (aṅgas), there are, in Nyāsa Vidyā also, differences stated in the different branches of the vedas (Shakhas) and in the different samhitas of the agamas. Just as obeisance (namaskāra) is divided into three forms, verbal, mental and bodily, so prapatti, too, is said to be of different kinds owing to the excess of one or other of these differences. It has been stated by some that, just as obeisance becomes complete when all the three, verbal, mental and bodily are combined, prapatti, too, becomes complete when verbal and bodily actions are combined with mental states or jñāna. This statement of theirs should be understood as meaning that mental prapatti is full and complete and that verbal and bodily activities are, as it were, the overflow of the mental prapatti (jñāna). (It should not be taken to mean that prapatti is incomplete when verbal and bodily actions are absent). We have already stated that all these are productive of the desired result or fruit in accordance with the competency of those who adopt them,
 
-110 <details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
+110 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 निण्ड्रनिलैक्कुऱ निऱ्‌कुङ् गरुममुनेर्मदियाल्  
 नण्ड्रॆन नाडिय ञानमुनल्गुमुट्कण्णुडैयार्  
@@ -92,7 +92,7 @@ It may be seen that, as in upāsanās there are differences in mantras and the l
 अण्ड्रु पयण्ड्ररुमाऱुमऱिन्दवरन्दणरे. (16)
 </details>
 
-<details><summary>तमिऴ् - मूलम्</summary>
+<details><summary>मूलम् (त॰प॰)</summary>
 
 निण्ड्रनिलैक्कुऱ निऱ्‌कुङ् गरुममुनेर्मदियाल्  
 नण्ड्रॆन नाडिय ञानमुनल्गुमुट्कण्णुडैयार्  
@@ -102,7 +102,7 @@ It may be seen that, as in upāsanās there are differences in mantras and the l
 
 They are Brahmins who know the following :-- (1) Karma Yoga is suited to one's state (viz. varṇa, āśrama and the like); (2) Jñāna Yoga adopted with keen intelligence on account of its beneficial results: (3) Bhakti Yoga adopted by those with an inner vision which is delightful and (4) Prapatti which yields immediate fruit by the grace of God to those who are destitute of the qualifications (for the other three ) and who cannot endure delay in attaining mokṣa .
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 कर्मज्ञानमुपासनञ्च शरणव्रज्येति चावस्थितान्  
 सन्मार्गानपवर्गसाधनविधौ सद्वारकाद्वारकान् ।  
@@ -110,7 +110,7 @@ They are Brahmins who know the following :-- (1) Karma Yoga is suited to one's s
 सम्यक्प्रेक्ष्य शरण्यसारथिगिरामन्ते रमन्ते बुधाः ॥ २३ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 कर्मज्ञानमुपासनञ्च शरणव्रज्येति चावस्थितान्  
 सन्मार्गानपवर्गसाधनविधौ सद्वारकाद्वारकान् ।  

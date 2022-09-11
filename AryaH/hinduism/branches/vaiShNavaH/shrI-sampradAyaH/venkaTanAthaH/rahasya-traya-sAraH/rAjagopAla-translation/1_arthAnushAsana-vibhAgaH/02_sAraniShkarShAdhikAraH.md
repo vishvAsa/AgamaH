@@ -25,7 +25,7 @@ These, then, are the "three mysteries or mantras" which are the best of what sho
 
 
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 श्रुति–पथ–विपरीतं क्ष्वेळ–कल्पं, श्रुतौ च  
 प्रकृति–पुरुष–भोग–प्रापकांशो न पथ्यः ।  
@@ -33,7 +33,7 @@ These, then, are the "three mysteries or mantras" which are the best of what sho
 न्त्युपनिषदमृताब्धेरुत्तमं सारमार्याः ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 श्रुति–पथ–विपरीतं क्ष्वेळ–कल्पं, श्रुतौ च  
 प्रकृति–पुरुष–भोग–प्रापकांशो न पथ्यः ।  
@@ -72,7 +72,7 @@ Even there, the three Mysteries (mantras) which are, as it were, an epitome of t
 
 [^f45]: Mahābhārata   : Santi Parva 176-66.
 
-<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 अमैया इवै ऎन्नुमासैयिनाल् अऱुमूण्ड्रुलगिल्  
 सुमैयान कल्विगळ् सूऴवन्दालुम् तॊगैयिवैयॆण्ड्रु  
@@ -80,7 +80,7 @@ Even there, the three Mysteries (mantras) which are, as it were, an epitome of t
 समयासिरियर् सदिर्क्कुम् तनि निलै तन्दनरे. (9)
 </details>
 
-<details><summary>तमिऴ् - मूलम्</summary>
+<details><summary>मूलम् (त॰प॰)</summary>
 
 अमैया इवै ऎन्नुमासैयिनाल् अऱुमूण्ड्रुलगिल्  
 सुमैयान कल्विगळ् सूऴवन्दालुम् तॊगैयिवैयॆण्ड्रु  
@@ -90,7 +90,7 @@ Even there, the three Mysteries (mantras) which are, as it were, an epitome of t
 
 As if what has been already learnt is not enough, the eighteen subjects of study may confront us like burdens (on the intellect); but they add only to the number (and are of no use). Therefore the ācāryas of our system (Visiştādvaitam) have, with wise discrimination, given us what the Nitya-sūris whose wisdom never languishes (literally who never wink") speak of in exalted terms. namely, the 'eight' (aṣṭākṣara) and the two' (viz) the Dvayam and the carama śloka ,
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 शाखानामुपरि स्थितेन मनुना मूलेन लब्धात्मकः  
 सत्ताहेतु सकृज्जपेन सकलं कालं द्वयेन क्षिपन् ।  
@@ -98,7 +98,7 @@ As if what has been already learnt is not enough, the eighteen subjects of study
 सारज्ञो यदि कश्चिदस्ति भुवने नाथस्स यूथस्य नः ॥ ९ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 शाखानामुपरि स्थितेन मनुना मूलेन लब्धात्मकः  
 सत्ताहेतु सकृज्जपेन सकलं कालं द्वयेन क्षिपन् ।  

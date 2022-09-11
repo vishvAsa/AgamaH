@@ -14,7 +14,7 @@ WHAT IS MEANT BY SĀDHYOPĀYA OR
 
 THE UPĀYA THAT HAS TO BE ADOPTED.page319
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 यथाधिकरणं प्रभुर्यजनदानहोमार्चना-  
 भरन्यसनभावनाप्रभृतिभिस्समाराधितः ।  
@@ -22,7 +22,7 @@ THE UPĀYA THAT HAS TO BE ADOPTED.page319
 श्रुतिस्मृतिगुरूक्तिभिर्नयवतीभिराभाति नः ॥ ५३ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 यथाधिकरणं प्रभुर्यजनदानहोमार्चना-  
 भरन्यसनभावनाप्रभृतिभिस्समाराधितः ।  
@@ -64,7 +64,7 @@ Even if we judge by the principle that, (when there is a difference in the state
 
 What is called yāga is a special form of thought indicating that a particular offering (havis) is made to a particular deity. Ātmayāga or the sacrifice (or surrender of self) is (likewise) a special form of thought indicating this : « My soul, which is the most delicious of offerings (havis ), is for Śrīman Nārāyaṇa. We have already stated (on page ) that in this surrender of self, the nature of the action to be performed which is common to all .who desire benefits of whatever kind is the surrender of the responsibility for protection.
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 *हविस्समर्पणादत्र प्रयोगविधिशक्तितः । आत्मरक्षाभरन्यासोऽकिञ्चनस्यातिरिच्यते ॥  
 अतश्श्रीराममिश्राद्यैर्भरन्यासविवक्षया । स्वप्रवृत्तिनिवृत्त्यंशः प्रपत्तिरिति लक्षितः ॥  
@@ -72,7 +72,7 @@ What is called yāga is a special form of thought indicating that a particular o
 आकिञ्चन्यभरन्यासोपायत्वप्रार्थनात्मनाम् । त्रयाणां सौहृदं सूक्ष्मं यः पश्यति स पश्यति ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 *हविस्समर्पणादत्र प्रयोगविधिशक्तितः । आत्मरक्षाभरन्यासोऽकिञ्चनस्यातिरिच्यते ॥  
 अतश्श्रीराममिश्राद्यैर्भरन्यासविवक्षया । स्वप्रवृत्तिनिवृत्त्यंशः प्रपत्तिरिति लक्षितः ॥  
@@ -90,7 +90,7 @@ LORD IS NOT IN ITSELF PRAPATTI:
 
 3. There are some who say: "When a man has understood the truth regarding the tattvas from the śāstras, has he not realised his relationship as śeṣa to Bhagavān ? Further, in the śloka, "If you desire to attain the highest state and to adopt the upāya for it, remember that Hari is (your) master and that you are His servant and that this relationship exists for ever by the very nature (of things)” (in this śloka) -- is not the meaning as follows:- "If you desire the highest goal of life and the means of attaining it, you should understand clearly that you are the servant and that Iśvara is the master and that this relationship exists by nature"? They ask, "When this is so, is there an action (besides the thought of the relationship) enjoined called ātmasamarpanam?". This question does not deserve any consideration, just like the dictum (of the Advaitins) that, by the mere knowledge of the text of the *śruti [Texts like "That Thou art" and "I am Brahma"] . mokṣa can be attained.
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 जितकौस्तुभचौर्यस्य सम्राजस्सर्वपाप्मनाम् ।  
 शिष्टं ह्यात्मापहारस्य निष्कृतिस्स्वभरार्पणम् ॥  
@@ -98,7 +98,7 @@ LORD IS NOT IN ITSELF PRAPATTI:
 पश्चादात्मापहारस्य निरोधाय च कल्पते ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 जितकौस्तुभचौर्यस्य सम्राजस्सर्वपाप्मनाम् ।  
 शिष्टं ह्यात्मापहारस्य निष्कृतिस्स्वभरार्पणम् ॥  
@@ -112,13 +112,13 @@ The man first understands from the săstras that his self which is a Real (Tattv
 
 When it is said that mokṣa is attained by a knowledge of the truth, it should be understood as meaning that it is only by way of leading to the adoption of an upāya. This is evident from the authority of the injunction (vidhi) contained in such passages as "Worship** me" and "seek 18cefage under me".
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 ज्ञानान्मोक्षोपदेशे हि तत्पूर्वोपासनादिना ।  
 उपासनादिरूपाद्वा ज्ञानान्मोक्षो विवक्षितः ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 ज्ञानान्मोक्षोपदेशे हि तत्पूर्वोपासनादिना ।  
 उपासनादिरूपाद्वा ज्ञानान्मोक्षो विवक्षितः ॥
@@ -128,13 +128,13 @@ The instruction which states:- "From knowledge arises mokṣa", should be unders
 
 Similarly the knowledge of the relationship of being a śeṣa to the Lord which arises from a study of the śāstra is common to all forms of activity for mokṣa, by refraining from the worldly life, like bharanyāsa and upāsana or bhakti, Since the activity of the śeṣa, namely, service, is the extreme limit of the goal of attainment, it is certainly not possible to adopt any of the upāyas enjoined for mokṣa, without understanding the relationship of śeṣa to the Lord. Even if a man adopts the dharmas enjoined for the attainment of mokṣa without knowing this relationship of being a śeṣa, these dharmas or upāyas themselves will (in course of time) produce that knowledge of the relationship and will become the cause of mokṣa by making the adoption of the upāya perfect and complete. So the atmasamarpanam that is enjoined for performance is not the mere knowledge of the relationship of being a śeṣa; if it is asked what, then, it is, the answer is that it is the surrender of the responsibility for one's protection accompanied by such things as the knowledge of the relationship of being a śeṣa.
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 वाक्यमात्रेण सिद्धत्वात्सिद्धोपाय इहोच्यते ।  
 प्रपत्तिरिति वादोऽपि विधिनात्र विहन्यते ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 वाक्यमात्रेण सिद्धत्वात्सिद्धोपाय इहोच्यते ।  
 प्रपत्तिरिति वादोऽपि विधिनात्र विहन्यते ॥
@@ -282,7 +282,7 @@ So also it is said in the Mahābhārata :-"Therefore a Śūdra should not utter 
 
 Similarly answers to other misconceptions that might arise in regard to sūdhyopāya (bhakti and prapatti) may be found in Nikṣepa rakṣa. Sādhyopāya as clarified in this chapter should be borne in mind in regard to the three mysteries (mantras) in the appropriate place.
 
-<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 वरिक्किण्ड्रनन् परन् यावरैयॆन्नु मऱैयदनिल्  
 विरिक्किण्ड्रदुङ्गुऱियॊण्ड्राल् विनैयरैयादलिनाम्  
@@ -290,7 +290,7 @@ Similarly answers to other misconceptions that might arise in regard to sūdhyop
 तरिक्किण्ड्र तारगनार् तगवाऱ्‌ ऱरिक्किण्ड्रनमे. ( 35 )
 </details>
 
-<details><summary>तमिऴ् - मूलम्</summary>
+<details><summary>मूलम् (त॰प॰)</summary>
 
 वरिक्किण्ड्रनन् परन् यावरैयॆन्नु मऱैयदनिल्  
 विरिक्किण्ड्रदुङ्गुऱियॊण्ड्राल् विनैयरैयादलिनाम्  
@@ -300,7 +300,7 @@ Similarly answers to other misconceptions that might arise in regard to sūdhyop
 
 The Śruti states at length that the Supreme Being chooses those who should win His grace; but this choice (of the jīva bound by karma for the bestowal of His grace) is based on some consideration. Therefore we obtain redemption by the mercy of the Lord who, as antaryāmī, supports the world and, as Saviour, helps us cross the sea of saṁsāra and by understanding clearly the good paths for winning His grace (bhakti and prapatti) as described in the śāstras.
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 तत्तद्धैतुकहेतुके कृतधियस्तर्केन्द्रजालक्रमे  
 बिभ्राणाः कथकप्रधानगणने निष्ठां कनिष्ठाश्रयाम् ।  
@@ -308,7 +308,7 @@ The Śruti states at length that the Supreme Being chooses those who should win 
 स्सिद्धोपायवशीक्रियामिति हि नस्साद्ध्यां समध्यापयन् ॥ ५४ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 तत्तद्धैतुकहेतुके कृतधियस्तर्केन्द्रजालक्रमे  
 बिभ्राणाः कथकप्रधानगणने निष्ठां कनिष्ठाश्रयाम् ।  

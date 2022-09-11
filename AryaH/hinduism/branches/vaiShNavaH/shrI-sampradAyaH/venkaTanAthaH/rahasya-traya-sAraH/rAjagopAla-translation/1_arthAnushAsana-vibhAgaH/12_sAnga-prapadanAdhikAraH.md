@@ -7,7 +7,7 @@ title = "१२ साङ्ग-प्रपदनाधिकारः"
 
 (12) THE CHAPTER ON THE PERFORMANCE OF PRAPATTI WITH IT’S AṄGAS. page186
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 अभीष्टे दुस्साधे स्वत इतरतो वा क्वचन तत्  
 भरन्यासं याच्नान्वितमभिवदन्ति प्रपदनम् ।  
@@ -15,7 +15,7 @@ title = "१२ साङ्ग-प्रपदनाधिकारः"
 समर्थ्योऽसावर्थस्त्विति मतिविशेषं तदविदुः ॥ २८ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 अभीष्टे दुस्साधे स्वत इतरतो वा क्वचन तत्  
 भरन्यासं याच्नान्वितमभिवदन्ति प्रपदनम् ।  
@@ -37,12 +37,12 @@ SHOULD BE PERFORMED:
 
 The manner in which this form of mental realisation contained in the injunction "One should surrender one's self to me" should be effected is as follows:- The person should realise this within himself: viz., "I am absolutely dependent (upon the Lord); I am His śeṣa and exist only for Him. My śeṣatva does not belong to anybody else and has no dependence on anybody else. Therefore Iśvara who is the śeṣī  and who is independent should protect me for the fulfilment of His own purposes. As is said in the śloka  : "Even myself or ātmā does not belong to me; (if a man should consider what does not belong to him as his, he could consider the whole earth as his )'; my soul does not belong to me, it does not belong to anyone else (than Bhagavān), I do not belong to myself, nor can I say that any thing belongs to me unconditionally. As stated in the śloka  -" The embodied being who is like a lump of clay and is entirely dependent on the Lord) is not able to protect himself; how can he protect others ?', I am incapable of protecting myself and those who are said to be mine, independently (of the Lord) or for the sake of myself as the main person interested in it." Just as the wise Uparicharvasu always felt that his soul, his kingdom, his wealth, his wife, and his vehicles were all for Bhagavān, we should also say, "I and what is mine are His. The responsibility of protecting these is also that of the Lord who is the universal Protector" for it is said : " the surrender of the responsibility for one's self and of what is one's is called atmanikṣepa." " There is no one other than Bhagavān who is capable of affording protection ". The fruit of this protection should also be considered primarily His, for it has been said, "Ātmanikṣep consists (also) in giving up all relationship to the fruit resulting from His protection and surrendering it (viz the fruit) to Keśava "who is the chief beneficiary".
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 मुमुक्षुमात्रसामान्यं स्वरूपादिसमर्पणं । अकिञ्चने भरन्यासस्त्वधिकोऽङ्गितया स्थितः ॥ २८-अ॥ अत्र रक्षाभरन्यासस्समस्सर्वफलार्थिनाम् । स्वरूपफलनिक्षेपस्त्वधिको मोक्षकाङ्क्षिणाम् ॥ २८-आ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 मुमुक्षुमात्रसामान्यं स्वरूपादिसमर्पणं । अकिञ्चने भरन्यासस्त्वधिकोऽङ्गितया स्थितः ॥ २८-अ॥ अत्र रक्षाभरन्यासस्समस्सर्वफलार्थिनाम् । स्वरूपफलनिक्षेपस्त्वधिको मोक्षकाङ्क्षिणाम् ॥ २८-आ॥
 </details>
@@ -53,13 +53,13 @@ IŚVARA IS THE PRINCIPAL BENEFICIARY :
 
 If it is asked how, when the Jīva   who performs prapatti as the upāya for the sake of some gain or fruit is the person interested in the fruit, Iśvara becomes the chief beneficiary, the answer is as follows:-Iśvara becomes the chief beneficiary, because, just like the modifications of acit or matter, the benefits (purushārthas) granted by Him to cit (jīva) are pleasing to Him. Being the śeṣī  of all, He is the chief beneficiary. To a man of cultivated tastes, who is not in need of anything, the delight in melting dolls made of metals and shaping them into ornaments and wearing them in admiration of their beauty is not different (in kind) from the delight enjoyed by him in keeping a sentient being like a parrot in a cage and feeding it with milk and seeing it fly according to His pleasure.
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 स्वनिर्भरत्वपर्यन्तरक्षकैकार्थ्यभावनम् ।  
 त्यक्तरक्षाफलस्वाम्यं रक्ष्यस्यात्मसमर्पणम् ॥ २८-इ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 स्वनिर्भरत्वपर्यन्तरक्षकैकार्थ्यभावनम् ।  
 त्यक्तरक्षाफलस्वाम्यं रक्ष्यस्यात्मसमर्पणम् ॥ २८-इ॥
@@ -108,12 +108,12 @@ The following is a summary of the performance of prapatti with its aṅgas as gi
 
 "I have been wandering in saṁsāra by doing, from beginning less time, what is displeasing to Thee. From this day onwards, I will do what is pleasing (to Thee). I will not do what will displease (Thee). I have no capital with which to attain Thee, I have made up my mind to seek only Thee as the upāya. Be Thou my upāya! Hereafter, either in the removal of what is evil or in the attainment of what is good, I have no further responsibility from now onwards". In this the determination to do what is pleasing and abstinence from what is displeasing have to be stated only once as accessories or aṅgas to the upāya. His acting later in accordance with this determination to do what is pleasing etc. will be the result or fruit of the upāya and will last as long as his self lasts. If, in accordance with the words of Śrī Ammal, we take the avoidance of what is displeasing as meaning only the determination to avoid what is displeasing, it is evident that it has to be made only once (i.c at the time of prapatti). It is true that it has been said :-"I have dissociated myself from sins which cast one into saṁsāra." (But it may be explained in this way :-) The avoidance of what is displeasing may meen either having no connection (at all) with it (i.e.) giving it up or the determination to avoid it. In either case, this is, at the first instant, an aṅga and the actual avoidance is the result or fruit of prapatti which follows afterwards. This holds good also in regard to visvāsa or faith.
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 प्रवृत्तिरनुकूलेषु निवृत्तिश्चान्यतः फलम् । प्रारब्धसुकृताच्च स्यात् सङ्कल्पे च प्रपत्तितः ॥ २८-अ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 प्रवृत्तिरनुकूलेषु निवृत्तिश्चान्यतः फलम् । प्रारब्धसुकृताच्च स्यात् सङ्कल्पे च प्रपत्तितः ॥ २८-अ ॥
 </details>
@@ -122,7 +122,7 @@ Doing what is pleasing (to the Lord) and avoiding what is displeasing (in one's 
 
 Therefore wise are they who perform prapatti in order to render faultless service during their life-time and to attain mokṣa  after casting off the body resulting from prārabdha karma,
 
-<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 अऱवे परमॆण्ड्रडैक्कलम् वैत्तनरण्ड्रु नम्मैप्  
 पॆऱवे करुदिप् पॆरुन्दगवुट्र पिरानडिक्कीऴ्  
@@ -130,7 +130,7 @@ Therefore wise are they who perform prapatti in order to render faultless servic
 मऱवेलॆन नम्मऱैमुडिसूडिय मन्नवरे. (19)
 </details>
 
-<details><summary>तमिऴ् - मूलम्</summary>
+<details><summary>मूलम् (त॰प॰)</summary>
 
 अऱवे परमॆण्ड्रडैक्कलम् वैत्तनरण्ड्रु नम्मैप्  
 पॆऱवे करुदिप् पॆरुन्दगवुट्र पिरानडिक्कीऴ्  
@@ -140,7 +140,7 @@ Therefore wise are they who perform prapatti in order to render faultless servic
 
 Our princely ācārya s, who wear the crown of proficiency in the Vedas, have placed us for protection under the feet of the Lord, who, from beginningless time, has resolved, in His great compassion, to save us; they have done so in order that there may be no further responsibility in ourselves (for our protection), by saying to us, "Do not forget the truth that the Lord, who is the soul of the world, will protect you who are related to Him as śeṣa (existing solely for His purposes),"
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 युग्यस्यन्दनसारथिक्रमवति त्रय्यन्तसन्दर्शिते  
 तत्त्वानां त्रितये यथार्हविविधव्यापारसन्तानिनि ।  
@@ -148,7 +148,7 @@ Our princely ācārya s, who wear the crown of proficiency in the Vedas, have pl
 स्वामिस्वीकृतयद्भरोऽयमलसस्तत्र स्वयं निर्भरः ॥ २९ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 युग्यस्यन्दनसारथिक्रमवति त्रय्यन्तसन्दर्शिते  
 तत्त्वानां त्रितये यथार्हविविधव्यापारसन्तानिनि ।  

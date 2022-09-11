@@ -7,7 +7,7 @@ title = "२७ मूलमन्त्राधिकारः"
 
 (AṢṬĀKṢARA) page404
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 तारं पूर्वं तदनु हृदयं तच्च नारायणाये-  
 त्याम्नायोक्तं पदमवयतां सार्धमाचार्यदत्तम् ।  
@@ -15,7 +15,7 @@ title = "२७ मूलमन्त्राधिकारः"
 क्षिप्रं देवः क्षिपतु निखिलान् किङ्करैश्वर्यविघ्नान् ॥ ५९ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 तारं पूर्वं तदनु हृदयं तच्च नारायणाये-  
 त्याम्नायोक्तं पदमवयतां सार्धमाचार्यदत्तम् ।  
@@ -108,13 +108,13 @@ Therefore a denotes Bhagavān. He is denoted by that letter. This relationship b
 
 When this a denotes the Supreme Ruler, it is derived, according to the science of grammar, from the verbal root ava which means to protect, to please etc., (the termination va is dropped) and the word that results refers to one who is a protector and so on (one who pleases). Though this root has many meanings, its best-known meaning is to protect; further it is this meaning which is required here (in connection with the mantra 'aum'); besides there is no authoritative etymological explanation that it should be considered as having many meanings; so the first meaning given (in grammar), namely, to protect is the direct and primary meaning of the word and the other meanings, when required, should be considered as suggested (lukṣaṇā) by the primary meaning. This is the appropriate way of explaining and the ācāryas have commented on it only in this way as meaning the Protector or Saviour. As the meaning 'protector' is not restricted by any limiting adjunct, the protectorship extends to all. The manner of protection varies with the objects of protection as shown by the pramāṇas (sources of knowledge). Since the protection is not stated to be based on any reason or condition, it might appear to be unconditioned (nirupādhika) but Iśvara, who is omnipotent and independent, expects some vyāja or action prescribed by His will to be performed by the jīva, which would serve as a justification for conferring mokṣa and the like on those who are in saṁsāra. Towards the nityas ( the eternal süris) and those who have already attained mukti, the protection is full and complete by way of maintaining what is already present and this is the result of Bhagavān's natural and unconditioned mercy. But this natural mercy (karunya) is restrained in the case of those in saṁsāra by the condition (upādhi) of the need for punishment which has arisen by beginningless offence when actions which are displeasing to Him have occurred. Prapatti and other vyājas have been prescribed in the Śāstras only for removing this condition which acts as a restraining force (on the Lord's (mercy).
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 त्राणे स्वामित्वमौचित्यं न्यासाद्यास्सहकारिणः ।  
 प्रधानहेतुस्स्वातन्त्र्यविशिष्टा करुणा विभोः ॥॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 त्राणे स्वामित्वमौचित्यं न्यासाद्यास्सहकारिणः ।  
 प्रधानहेतुस्स्वातन्त्र्यविशिष्टा करुणा विभोः ॥॥
@@ -130,12 +130,12 @@ Here the first letter a is in the dative or fourth case singular, the (usual) da
 
 When the Lord who is the Supreme Ruler says, “You are my śeṣa" and pursues him, the jīva, owing to his egoism, tries to wriggle out saying, “ I exist only for myself." Therefore the thought that we are śeṣas to the Supreme Ruler will give (spiritual) existence to the jīva, who is otherwise, as it were, (spiritually) non-existent. To indicate the importance of this thought that we are śeṣas), the relationship to the śeṣī (for a) is declared even before the mention of the śeṣa (namely m the jīva).
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 ॥ निश्चिते परशेषत्वे शेषं संपरिपूर्यते । अनिश्चिते पुनस्तस्मिन्नन्यत्सर्वमसत्समम् ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 ॥ निश्चिते परशेषत्वे शेषं संपरिपूर्यते । अनिश्चिते पुनस्तस्मिन्नन्यत्सर्वमसत्समम् ॥
 </details>
@@ -216,7 +216,7 @@ It is also possible to understaod (adhyāhara), the word svatantrya (independenc
 
 The protectorship of all, indicated by the base (prakṛti) (viz) a in the first letter of praṇava, ensues, in the case of those who adopt an upāya, only by stimulating them to the adoption of any one of the upāyas. Though the jīva adopts the upāya, since his activity is dependent on the Lord and since the one who affords protection by granting the fruit (of the upāya) is the Supreme Ruler who is gracious, it is only His protectorship of all indicated in the base of the first letter (of praṇava) that is confirmed by this namas. Similarly Iśvara's being the unconditional śeṣī of all which is stated by the dative case (fourth case) of the first letter a in the praṇava (where the case ending has been dropped) -- this is confirmed by the interpretation suggested before, which denies unconditioned seshitvam to the jīva. As declared in the Brahma Sūtra (2-3-40), “The doership of the jīva is due to the Supreme Being as stated in the Śruti ", the independence that the jīva seems to possess is granted to him in the execution of His own purposes by the Supreme Being who is the unconditioned śeṣī of all. The jīva's being seshi to other things is also due to its being given to him by the unconditioned seshi for the fulfilment of His own purposes. To sum up
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 ॥ श्रीमान् स्वतन्त्रस्स्वामी च सर्वत्रान्यानपेक्षया ।  
 निरपेक्षस्वतन्त्रत्वं स्वाम्यञ्चाा न्यस्य न क्वचित् ॥  
@@ -224,7 +224,7 @@ The protectorship of all, indicated by the base (prakṛti) (viz) a in the first
 अनन्यशरणत्वादेरधिकारस्य सिद्धये ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 ॥ श्रीमान् स्वतन्त्रस्स्वामी च सर्वत्रान्यानपेक्षया ।  
 निरपेक्षस्वतन्त्रत्वं स्वाम्यञ्चाा न्यस्य न क्वचित् ॥  
@@ -238,7 +238,7 @@ This gist of the praṇava and of the namas has been taught to us by (our) üch�
 
 In ordinary life, being master over others and being inde pendent of others are considered desirable, and being a servant and being dependent on others are considered undesirable. This is merely due to past karma  as a conditioning factor (upādhi). But here (in spiritual life), being a servant (of the Lord) and being dependent (on the Lord) are agreeable to those who have a know ledge of the truth, for they are appropriate and natural to our svarūpa (essential nature), as stated in such passages as the following: "We are all, by  nature, His servants". Thus it becomes evident that the jīva exists solely for another (Iśvara) and is entirely dependent on Him. So the jīva may rightly be employed to do what is pleasing to the śeṣī, who alone is independent (and omnipotent). Therefore it follows that the jīva should be śeṣa (and render service) to His devotees, as stated.( in the Tamil verse) ;-" The Lord who is absolutely pure, has made me the servant of His servants". If the Lord who is the śeṣī, and who is independent (and all powerful) is pleased to make us śeṣas to His good devotees, it cannot be called improper or inappropriate; nor can it be avoided (or resisted). Since He is śeṣī, He has a right to employ us in whatever He desires, and since He is all powerful, He can enforce it. This idea may also be seen in the (Tamil) verse :- "I will never" associate with those who think that there is any deity other than Thee. But gladly do I accept (the privilege of) being servant to Thy devotees."
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 ॥ स्वेच्छयैव परेशस्य तादधीन्यबलात्तु नः । भगवद्भक्तशेषत्वं स्वेच्छयापि क्वचिद्भवेत् ॥  
 गुणाधिकेहि विषये गुणसारस्य वेदिनः । रामे रामानुजस्येव दास्यं गुणकृतं भवेत् ॥  
@@ -247,7 +247,7 @@ In ordinary life, being master over others and being inde pendent of others are 
 अन्योन्यशेषभावेऽपि परस्वातंत्र्यसंभवः । तत्तदाकारभेदेन युक्त इत्युपपादितम् ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 ॥ स्वेच्छयैव परेशस्य तादधीन्यबलात्तु नः । भगवद्भक्तशेषत्वं स्वेच्छयापि क्वचिद्भवेत् ॥  
 गुणाधिकेहि विषये गुणसारस्य वेदिनः । रामे रामानुजस्येव दास्यं गुणकृतं भवेत् ॥  
@@ -288,7 +288,7 @@ III. THE SUPREME MEANING: (parārtha):
 
 In the ślokas cited above, the gross meaning (sthūlārtha) is that which appears obvious from etymological derivation according to grammar. The subtle meaning (sūkṣmārtha) is that which appears from interpretation based on the similarity of syllables on the strength of Nirukta. The supreme meaning (parārtha) is that which is explained in the secret śāstras (i.e.) śāstras which comment on the meaning of the secret mantras with the help of the conventions regarding the meaning of letters. (In the ślokas cited above), in the first (sthulartha) interpretation, the behaviour which is inherent by nature to the śeṣa (namely, namana) and the structure or constitution of Sādhyopāya with its aṅgas, are explained. Then, in the second, they clarify the svarūpa of the jīva, as this is essential to the aspirant to mukti who adopts the upāya, namely, that he has no unconditional independence. Then in the third (i.e.) para, the ślokas indicate the nature of Siddhopāya (Bhagavān), who can be won by the adoption of the particular Sādhyopāya and who is also the object to be attained. It may also be understood as stating that surrender (of self) is more important' than all other upāyas. All these are to be understood in their proper places where the ten different interpretations are given later on.
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 एवं शिक्षितनानार्थनमश्शब्दसमन्विताः । सर्वे करणतां यान्ति मन्त्रास्स्वात्मसमर्पणे ॥  
 जीवसामान्यमुखतश्शृङ्गग्राहिकयापि वा । मकारौ तारनमसोस्स्वानुसन्धानदाविह ॥  
@@ -296,7 +296,7 @@ In the ślokas cited above, the gross meaning (sthūlārtha) is that which appea
 अतस्स्वपर-रक्षायां पराधीनेषु जन्तुषु । निरपेक्षशरण्यत्वं नियतं कमलापतौ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 एवं शिक्षितनानार्थनमश्शब्दसमन्विताः । सर्वे करणतां यान्ति मन्त्रास्स्वात्मसमर्पणे ॥  
 जीवसामान्यमुखतश्शृङ्गग्राहिकयापि वा । मकारौ तारनमसोस्स्वानुसन्धानदाविह ॥  
@@ -328,12 +328,12 @@ The potency of this name is well-known from the following passages: "Those who a
 
 The compound word Nārāyaṇa may be split up into its two component parts thus: Nārāh ayanam yasya (He to whom Nārās are the resting place ) and Nārāṇām ayanam (the resting place of Nārās). The word Nārās is here determinate in meaning and denotes only the nārās (sentient beings and non-sentient things) and does not refer also to the Lord who is their inter self. Therefore the two words are not in grammatical apposition. Nammalvar distinctly showed the meanings of these two ways of combining the two parts of the word (samāsa) in the following two passages by using the word at the end and at the beginning respectively. "He who has, as His śeṣas," countless jīvas with knowledge and bliss as their attributes and with self-luminousness as their nature and also His own noble qualities--that Nārāyaṇa," and " Nārāyaṇa" is the Lord of all the seven worlds". In this are implicit (Bhagavān's) possessing the two kinds of attributes, namely, freedom from defects and possession of all auspicious and noble qualities and, likewise, His possession of the two vibhūtis (glories), namely Līlā Vibhūti (this (material) Universe) with all the sentient and nonsentient beings in it) and Nitya Vibhūti, (the transcendental region of eternal glory with all that it contains). It should be borne in mind that this nārās includes the queen, the ornaments, the weapons, the attendants, the furniture and the like, the door-keepers, the retinue and such others.
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 ॥ कारणत्वमबाध्यत्वमुपायत्वमुपेयता । इति शारीरकस्थाप्यमिह चापि व्यवस्थितम् ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 ॥ कारणत्वमबाध्यत्वमुपायत्वमुपेयता । इति शारीरकस्थाप्यमिह चापि व्यवस्थितम् ॥
 </details>
@@ -406,13 +406,13 @@ When we reflect in accordance with the pramāṇas, on the essential nature of t
 
 [^93]: Service without the body: Perhaps this should be taken to mean anubhava or experience.]
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 इह सङ्ग्रहतश्श्रीमान् गोप्ता शेषी समाधिकदरिद्रः ।  
 शरणं सर्वशरीरी प्राप्यस्सेव्यश्च साधुभिर्भाव्यः ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 इह सङ्ग्रहतश्श्रीमान् गोप्ता शेषी समाधिकदरिद्रः ।  
 शरणं सर्वशरीरी प्राप्यस्सेव्यश्च साधुभिर्भाव्यः ॥
@@ -428,13 +428,13 @@ him (to the Lord's mercy), that he is the servant of the Lord and (His consort) 
 
 (lilā rasa) of Iśvara, that he is entitled to be the instrument for the Lord's enjoyment (bhoga) (in Nityavibhūti), that his passage to his goal depends on Iśvara, that the attainment of that goal depends on Iśvara, that he should seek neither worldly prosperity nor kaivalya, that he should eagerly long for the attainment of Bhagavān, that he should become free from all avidyā, that the self would manifest itself in its essential nature, that the self is capable of visualising everything (in the state of mukti), that his sole enjoyment should consist in the experience of Bhagavān in every form, that he is capable of having unsurpassed bliss, that his being an enjoyer is (only) for the enjoyment ot of Bhagavān, that the self (in its realised state) can take any form and the like at will, that its will is irresistible, that the self will have perfect resemblance to the Lord except in regard to those uncommon qualities or attributes that define His essential nature, that the sell's delight is in rendering every kind of service to Bhagavān and that the self will never return to saṁsāra (after attaining mukti). (67).
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 पदत्रयेऽत्र संक्षेपाद्भाव्यानन्यार्हशेषता ।  
 अनन्योपायता स्वस्य तथानन्यपुमर्थता ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 पदत्रयेऽत्र संक्षेपाद्भाव्यानन्यार्हशेषता ।  
 अनन्योपायता स्वस्य तथानन्यपुमर्थता ॥
@@ -446,13 +446,13 @@ Thus the Tirumantra has ( as stated in Nāradiyakalpam) everything that a man ou
 
 So also weakness of faith in the Consort of Śrī as a Protector, the search for other Redeemers, the protest  [See page (89 of the book ).] against being dependent on God, the delusion of being the unconditional śeṣa to others, reverence to other deities, association with those who are their devotees, and, likewise, the delight in serving those who are unfit for service, such delusions as that the body and the soul are the same, such delusions as that the self is independent of Bhagavān, the earning (of money or other things) for one's own use, offence to the devotees of Bhagavān, forgetfulness of the fact that one is helpless and destitute of upāyas, a longing for the continuance of life in saṁsāra, the fear that the soul will suffer annihilation, the taste for doing what is improper, the classification of men into friends and foes, the seeking of other kinsmen (than Bhagavān ), the desire for other ends (than the attainment of Bhagavān), averseness to the supreme goal of life and other such hindrances to one's firm stand in one's essential nature, in the real upāya and in the end in view - all these ( delusions) will never approach them.
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 इह निजपक्षविरुद्धैरीदृशनिष्ठाविरोधिभिश्चान्यैः ।  
 द्विचतुष्कसारवेदी गङ्गाह्रद इव न गच्छति क्षोभम् ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 इह निजपक्षविरुद्धैरीदृशनिष्ठाविरोधिभिश्चान्यैः ।  
 द्विचतुष्कसारवेदी गङ्गाह्रद इव न गच्छति क्षोभम् ॥
@@ -506,13 +506,13 @@ As stated in the following śloka : I am the property (śeṣa) na mama of only 
 
 “Existing for His sake' is eternal; so there is no need to pray for it; this relationship of existing for His sake (as His śeṣa) is already expressed by the praṇava. Therefore prayer is inside here for service (to Bhagavān), which is the overflow of the full and perfect enjoyment of Bhagavān and which contains within itself all other ends of life as in the common saying: "In the ocean is a small puddle (i.e.) the larger contains the smaller within it)".
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 ॥ अत्र स्वलाभापेक्षापि स्वामिलाभावसायिनी ।  
 स्वामिप्रयोजनापेक्षाप्यतस्स्वानन्दहेतुका ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 ॥ अत्र स्वलाभापेक्षापि स्वामिलाभावसायिनी ।  
 स्वामिप्रयोजनापेक्षाप्यतस्स्वानन्दहेतुका ॥
@@ -566,13 +566,13 @@ The answer to this question may be expressed as follows :
 
 
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 स्वतस्स्वार्हं यथाभागं पुत्रः पितुरपेक्षते ।  
 सापराधस्तथा दासः कैङ्कर्यं परमात्मनः ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 स्वतस्स्वार्हं यथाभागं पुत्रः पितुरपेक्षते ।  
 सापराधस्तथा दासः कैङ्कर्यं परमात्मनः ॥
@@ -617,12 +617,12 @@ Since the prayer for the puruṣārtha is not a mere desire but the soliciting o
 
 
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 केचित्तु चरमश्लोके द्वये चोक्तक्रमादिह । भरन्यासपरं तारं शेषं फलपरं विदुः ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 केचित्तु चरमश्लोके द्वये चोक्तक्रमादिह । भरन्यासपरं तारं शेषं फलपरं विदुः ॥
 </details>
@@ -663,12 +663,12 @@ When some of these meanings are considered as the main interpretations, the othe
 
 
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 ॥ तदेवं पदवाक्यार्थैस्तत्त्वविद्गुरुदर्शितैः । तत्तत्कुदृष्टिकथितं निरस्तं योजनान्तरम् ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 ॥ तदेवं पदवाक्यार्थैस्तत्त्वविद्गुरुदर्शितैः । तत्तत्कुदृष्टिकथितं निरस्तं योजनान्तरम् ॥
 </details>
@@ -693,7 +693,7 @@ As stated in the śloka : “Whatever a man ought to know is all contained in a�
 
 
 
-<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 ऎट्टुमामूर्त्ति यॆण् कण्णनॆण्डिक्  
 कॆट्टिऱैयॆण्बिरगिरुदि  
@@ -705,7 +705,7 @@ As stated in the śloka : “Whatever a man ought to know is all contained in a�
 यॆट्टिरद मेलनवु मॆट्टिनवे. ( 38)
 </details>
 
-<details><summary>तमिऴ् - मूलम्</summary>
+<details><summary>मूलम् (त॰प॰)</summary>
 
 ऎट्टुमामूर्त्ति यॆण् कण्णनॆण्डिक्  
 कॆट्टिऱैयॆण्बिरगिरुदि  
@@ -723,12 +723,12 @@ Those wise men with eight qualities who meditate on the mantra of eight letters 
 
 
 
-EXPLANATION OF <details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
+EXPLANATION OF <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 To those great and wise men who meditate on the sacred aṣṭākṣara, which treats of the Supreme Ruler, who is the (ultimate) cause of all and who is opposed to everything of the nature of blemish and is, at the sametime, the abɔde of all auspicious qualities -(to these great men) whatever is desired by them among the spiritual virtues, the eight forms of wealth and the like is never beyond their reach. The 'eight-bodied' means Rudra who obtained the boon of having eight bodies, namely, the five elements (bhutas-earth, water, fire, air and ether or space), the moon and the sun and the man who performs a yajna or sacrifice; the eight-eyed refers to Brahma who has eight eyes because of his four faces; the eight quarters; the eight guardians of the eight quarters such as lndra, the eight prakṛtis are the eight tattvas or reals like avyakta, mahat and ahañkāra, the eight great mountains means the eight chief mountain ranges[^97] ; 'who created these means the Supreme Being possessed of eight qualities who created all these; His eight qualities are being (1) without subjection to karma , (2) without old age, or (3) death, or (1) grief, (5) or hunger or, (6) thirst, (7) the possession of eternal objects of enjoyment and (8) omnipotence or the ability to accomplish whatever He desires ; to those wise men possessed of wisdom with its eight aṅgas who meditate on the mantra' means to those enlightened men who are possessed of understanding with its eight aṅgas and who meditate on the sacred aṣṭākṣara which is the chief mantra among those that treat of Bhagavān.' The eight aṅgas of wisdom are " quickness of grasp, retention of what is learnt, remembrance, the ability to explain, inference, modification of what has been stated (to adapt it to new situations), reason, the knowledge of Truth - these are the eight qualities of understanding ". The eight great flowers are the following :-"Non-Violence (ahimsā) is the first flower, control of the senses is (another) flower: then comes the flower called compassion to all creatures, then the flower of forgiveness in special, then the flower of knowledge, the flower of tapas and so also the flower of contemplation (dhyāna) and the flower of truth these eight kinds of fiowers are most pleasing to Viṣṇu, The eight siddhis are inference, the knowledge of words, learning Vedānta, freedom from the three kinds of suffering; that in the body brought about by animals, and that due to the (anger of the ) gods, like storm and lightning. the possession of friends and charity. The eight forms of devotion are the following :- Love to God's devotees without an eye to their faults, delight in the worship offered to Him by others, an eagerness to listen to stories concerning Bhagavān, changes in the voice and the body and tears in the eyes while listening to them, efforts to worship Bhagavān, freedom from hypocrisy in one's relations towards God, constant meditation on God, and freedom from the expectation of rewards from God. The eight aṅgas of yoga are yama, niyama and the rest (āsana, prāṇāyāma, pratyāhāra, dhyāna, dhāraṇa and samādhi); the eight forms of wealth are:- the power to contract one's body to a much smaller size, the power to make one's body assume larger dimensions, the power to make oneself light (of weigbt), the power to make oneself heavy, perfect control over oneself, control over others, the attainment of whatever is desired, and success by merely desiring it.
 </details>
 
-<details><summary>तमिऴ् - मूलम्</summary>
+<details><summary>मूलम् (त॰प॰)</summary>
 
 To those great and wise men who meditate on the sacred aṣṭākṣara, which treats of the Supreme Ruler, who is the (ultimate) cause of all and who is opposed to everything of the nature of blemish and is, at the sametime, the abɔde of all auspicious qualities -(to these great men) whatever is desired by them among the spiritual virtues, the eight forms of wealth and the like is never beyond their reach. The 'eight-bodied' means Rudra who obtained the boon of having eight bodies, namely, the five elements (bhutas-earth, water, fire, air and ether or space), the moon and the sun and the man who performs a yajna or sacrifice; the eight-eyed refers to Brahma who has eight eyes because of his four faces; the eight quarters; the eight guardians of the eight quarters such as lndra, the eight prakṛtis are the eight tattvas or reals like avyakta, mahat and ahañkāra, the eight great mountains means the eight chief mountain ranges[^97] ; 'who created these means the Supreme Being possessed of eight qualities who created all these; His eight qualities are being (1) without subjection to karma , (2) without old age, or (3) death, or (1) grief, (5) or hunger or, (6) thirst, (7) the possession of eternal objects of enjoyment and (8) omnipotence or the ability to accomplish whatever He desires ; to those wise men possessed of wisdom with its eight aṅgas who meditate on the mantra' means to those enlightened men who are possessed of understanding with its eight aṅgas and who meditate on the sacred aṣṭākṣara which is the chief mantra among those that treat of Bhagavān.' The eight aṅgas of wisdom are " quickness of grasp, retention of what is learnt, remembrance, the ability to explain, inference, modification of what has been stated (to adapt it to new situations), reason, the knowledge of Truth - these are the eight qualities of understanding ". The eight great flowers are the following :-"Non-Violence (ahimsā) is the first flower, control of the senses is (another) flower: then comes the flower called compassion to all creatures, then the flower of forgiveness in special, then the flower of knowledge, the flower of tapas and so also the flower of contemplation (dhyāna) and the flower of truth these eight kinds of fiowers are most pleasing to Viṣṇu, The eight siddhis are inference, the knowledge of words, learning Vedānta, freedom from the three kinds of suffering; that in the body brought about by animals, and that due to the (anger of the ) gods, like storm and lightning. the possession of friends and charity. The eight forms of devotion are the following :- Love to God's devotees without an eye to their faults, delight in the worship offered to Him by others, an eagerness to listen to stories concerning Bhagavān, changes in the voice and the body and tears in the eyes while listening to them, efforts to worship Bhagavān, freedom from hypocrisy in one's relations towards God, constant meditation on God, and freedom from the expectation of rewards from God. The eight aṅgas of yoga are yama, niyama and the rest (āsana, prāṇāyāma, pratyāhāra, dhyāna, dhāraṇa and samādhi); the eight forms of wealth are:- the power to contract one's body to a much smaller size, the power to make one's body assume larger dimensions, the power to make oneself light (of weigbt), the power to make oneself heavy, perfect control over oneself, control over others, the attainment of whatever is desired, and success by merely desiring it.
 </details>
@@ -742,12 +742,12 @@ The eight great qualities are those which manifest themselves after mukti or tho
 
 
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 अविद्यापूतनोन्मुक्तैरनवज्ञातसत्पथैः । असदास्वादसव्रीडैरादिष्टमिति दर्शितम् ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 अविद्यापूतनोन्मुक्तैरनवज्ञातसत्पथैः । असदास्वादसव्रीडैरादिष्टमिति दर्शितम् ॥
 </details>
@@ -756,7 +756,7 @@ Thus (we have shown here what was taoght by (acāryās) who were free from the d
 
 
 
-<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 उयर्न्द नङ्गावलनल्लार्गुरिमै तुऱन्दुयिराय्  
 मयर्न्दमै तीर्न्दु मट्रोर् वऴियिण्ड्रि यडैक्कलमाय्  
@@ -764,7 +764,7 @@ Thus (we have shown here what was taoght by (acāryās) who were free from the d
 नयन्द कुट्रेवलॆल्ला नाडु नन् मनु वोदिनमे. ( 39 )
 </details>
 
-<details><summary>तमिऴ् - मूलम्</summary>
+<details><summary>मूलम् (त॰प॰)</summary>
 
 उयर्न्द नङ्गावलनल्लार्गुरिमै तुऱन्दुयिराय्  
 मयर्न्दमै तीर्न्दु मट्रोर् वऴियिण्ड्रि यडैक्कलमाय्  
@@ -778,12 +778,12 @@ We have been initiated into the excellent mantra, which enables us to give up al
 
 
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 इत्थं सङ्घटितः पदैस्त्रिभिरसावेकद्विपञ्चाक्षरै
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 इत्थं सङ्घटितः पदैस्त्रिभिरसावेकद्विपञ्चाक्षरै
 </details>

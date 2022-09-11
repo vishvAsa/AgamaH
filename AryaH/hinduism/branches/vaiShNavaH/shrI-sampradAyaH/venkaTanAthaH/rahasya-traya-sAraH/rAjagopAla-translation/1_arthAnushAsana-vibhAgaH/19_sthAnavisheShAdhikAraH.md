@@ -7,7 +7,7 @@ title = "१९ स्थानविशेषाधिकारः"
 
 FOR THE RESIDENCE OF THE PRAPANNA. page249
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 यत्रैकाग्र्यं भवति भगवत्पादसेवार्चनादेः  
 यत्रैकान्त्यव्यवसितधियो यस्य कस्यापि लाभः ।  
@@ -15,7 +15,7 @@ FOR THE RESIDENCE OF THE PRAPANNA. page249
 प्रायो देशा मुनिभिरुदिताः प्रायिकौचित्यवन्तः ॥ ४२ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 यत्रैकाग्र्यं भवति भगवत्पादसेवार्चनादेः  
 यत्रैकान्त्यव्यवसितधियो यस्य कस्यापि लाभः ।  
@@ -47,7 +47,7 @@ It is true that it is said: “ The places where a man in full control of his se
 
 Therefore the statement in the following śloka  :-- "The man " who performs prapatti by uttering this mantra at the very time when he attains this knowledge -- that man attains mokṣa  wherever he may die losing his consciousness whether it be in a holy place of pilgrimage or the house of one who eats dog's flesh" - this statement that there is no special place prescribed for death, should also be understood in the light of what has been said above, as pointing out that this will be no hindrance to the attainment of mokṣa .
 
-<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 आरादवरुळमुदम् पॊदिन्द कोयि  
 लम्बुयत्तो नयोत्तिमन्नर्क् कळित्तगोयिल्  
@@ -59,7 +59,7 @@ Therefore the statement in the following śloka  :-- "The man " who performs pra
 तिरुवरङ्गमॆनत् तिगऴुङ्गोयिल् ताने.
 </details>
 
-<details><summary>तमिऴ् - मूलम्</summary>
+<details><summary>मूलम् (त॰प॰)</summary>
 
 आरादवरुळमुदम् पॊदिन्द कोयि  
 लम्बुयत्तो नयोत्तिमन्नर्क् कळित्तगोयिल्  
@@ -98,7 +98,7 @@ Therefore the statement in the following śloka  :-- "The man " who performs pra
 
 (4) That place on the earth where dwell (the devotees of the Lord), who long for the world above (Paramapada) which is the famous residence of Nārāyaṇa , the Lord of Lakṣmī , born of the lotus full of honey (pollen) - that place is as sacred as the Himalaya surrounded by forests, the Gaṅga, the Cauvery, the sea, the holy cities (like Ayodhya, Mathura, Kasi and Kanchi) and ŚrīVaikanta all in one.
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 सा काशीति न चाकशीति भुवि सायोद्ध्येति नाद्ध्यास्यते  
 सावन्तीति न कल्मषादवति सा काञ्चीति नोदञ्चति ।  
@@ -106,7 +106,7 @@ Therefore the statement in the following śloka  :-- "The man " who performs pra
 या वैकुण्ठकथासुधारसभुजां रोचेत नो चेतसे ॥ ४३ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 सा काशीति न चाकशीति भुवि सायोद्ध्येति नाद्ध्यास्यते  
 सावन्तीति न कल्मषादवति सा काञ्चीति नोदञ्चति ।  

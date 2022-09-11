@@ -11,7 +11,7 @@ title = "१५ उत्तरकृत्याधिकारः"
 
 THE CHAPTER ON THE MANNER IN WHICH ONE SHOULD CONDUCT ONESELF AFTER PRAPATTI. page206
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 सन्तोषार्थं विमृशति मुहुस्सद्भिरद्ध्यात्मविद्यां  
 नित्यं ब्रूते निशमयति च स्वादु सुव्याहृतानि ।  
@@ -19,7 +19,7 @@ THE CHAPTER ON THE MANNER IN WHICH ONE SHOULD CONDUCT ONESELF AFTER PRAPATTI. pa
 दृष्टादृष्टस्वभरविगमे दत्तदृष्टिः प्रपन्नः ॥ ३४ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 सन्तोषार्थं विमृशति मुहुस्सद्भिरद्ध्यात्मविद्यां  
 नित्यं ब्रूते निशमयति च स्वादु सुव्याहृतानि ।  
@@ -101,7 +101,7 @@ About this code of conduct (of the prapanna) we will now state what is considere
 
 This code of conduct which should be followed after prapatti and which is an end in itself should be considered in those parts of the three mysteries (mantras ) which indicate the benefit or fruit that results.
 
-<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 विण्णवर् वेण्डि विलक्किण्ड्रि मेवुमडिमैयॆल्लाम्  
 मण्णुलगत्तिन् मगिऴ्न्दडैगिण्ड्रनर् वण्डुवरैक्  
@@ -109,7 +109,7 @@ This code of conduct which should be followed after prapatti and which is an end
 पण्णमरुन्दमिऴ्वेदमऱिन्द पगवर्गळे. ( 22)
 </details>
 
-<details><summary>तमिऴ् - मूलम्</summary>
+<details><summary>मूलम् (त॰प॰)</summary>
 
 विण्णवर् वेण्डि विलक्किण्ड्रि मेवुमडिमैयॆल्लाम्  
 मण्णुलगत्तिन् मगिऴ्न्दडैगिण्ड्रनर् वण्डुवरैक्  
@@ -119,7 +119,7 @@ This code of conduct which should be followed after prapatti and which is an end
 
 Our holy men who know the songs of the Tamil Veda with their meaning and who have discharged all their debts (to the gods, the pitṛs etc.) by the performance of prapatti accepted by Śrīkṛṣṇa of the beautiful Dwaraka, enjoy, with delight, even in this world, that service which the muktas and the suris perform without intermission and with eagerness in the world yonder.
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 प्रणयिनमिव प्राप्तं पश्चात्प्रिया स्वसमन्वितं  
 महति मुहुरामृष्टे दृष्ट्वा मनौ मणिदर्पणे ।  
@@ -127,7 +127,7 @@ Our holy men who know the songs of the Tamil Veda with their meaning and who hav
 प्रसृमरमहामोदस्मेरप्रसूनसमैः क्रमैः ॥ ३५ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 प्रणयिनमिव प्राप्तं पश्चात्प्रिया स्वसमन्वितं  
 महति मुहुरामृष्टे दृष्ट्वा मनौ मणिदर्पणे ।  

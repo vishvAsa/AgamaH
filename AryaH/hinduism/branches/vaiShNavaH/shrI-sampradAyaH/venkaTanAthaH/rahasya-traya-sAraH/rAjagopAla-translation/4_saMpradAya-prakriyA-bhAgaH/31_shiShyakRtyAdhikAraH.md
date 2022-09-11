@@ -9,7 +9,7 @@ title = "३१ शिष्यकृत्याधिकारः"
 
 31. THE CHAPTER ON THE DUTIES OF A śiṣya. page633
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 अशिथिलगुरुभक्तिस्तत्प्रशंसादिशीलः  
 प्रचुरबहुमतिस्तद्वस्तुवास्त्वादिकेऽपि ।  
@@ -17,7 +17,7 @@ title = "३१ शिष्यकृत्याधिकारः"
 कृतविदनघवृत्तिः किन्न विन्देन्निधानम् ॥ ७१ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 अशिथिलगुरुभक्तिस्तत्प्रशंसादिशीलः  
 प्रचुरबहुमतिस्तद्वस्तुवास्त्वादिकेऽपि ।  
@@ -61,13 +61,13 @@ By the omission to reveal (the former) and the omission to guard (the latter) re
 
 If a man should fail to impart instruction to a worthy śiṣya at the appropriate time, he would be called a miser and incur also the sin of violating the Lord's command contained in the śloka : “One should cast off one's body after imparting one's knowledge of the self to a worthy śiṣya. A man should not die without iniparting to a worthy śiṣya that knowledge which is the cause of the world's being (or which is the cause of the world's knowledge)". Therefore when the king's torch-bearer is commanded by the king to go on a certain mission, he would hand over the torch in his hand to some one who is found fit for it and then start (on his mission). When a man imparts instruction in a similar manner to a pupil who is apt for it, he should first reveal (the greatness of) his guru and then teach the truths taught to him. Even when, owing to some (favourable) circumstances, he has received divine vision and divine auditions and learnt truths with their help, he should express the truth in the following words: - "I learnt this owing to the grace of my greatācārya. I am not stating what I learnt by my own cleverness" This is what (Sañjaya), for example, says : "By the graces of Vyasa did I hear, directly, this great Yogaśāstra, which Śrī Kṛṣṇa, who has wisdom and other attributes taught in person". If he should say so, the truths that he teaches would be held in high esteem. He would (also) then be esteemed as a grateful śiṣya by sātvikas. As one who spoke the truth, he would be regarded by the Upaniṣads and by the Person revealed in the Upaniṣads as an authority having the same validity as they themselves are. Hisācārya too, would feel gratified to find that, in this grateful and diligent śiṣya, his labours have borne fruit.
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 साक्षान्मुक्तेरुपायान् यो विद्याभेदानुपादिशत् ।  
 कथ्यते मोक्षशास्त्रेषु स तु श्रेष्ठतमो गुरुः ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 साक्षान्मुक्तेरुपायान् यो विद्याभेदानुपादिशत् ।  
 कथ्यते मोक्षशास्त्रेषु स तु श्रेष्ठतमो गुरुः ॥
@@ -75,13 +75,13 @@ If a man should fail to impart instruction to a worthy śiṣya at the appropria
 
 He who imparted instruction in the vidyās or meditations that lead directly and by themselves to mokṣa -- he is considered in the Śāstras on mokṣa as the greatest of ācāryas.
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 आचार्यवत्तया मोक्षमामनन्ति स्मरन्ति च ।  
 इहामुत्र च तत्पादौ शरणं देशिका विदुः ॥ * ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 आचार्यवत्तया मोक्षमामनन्ति स्मरन्ति च ।  
 इहामुत्र च तत्पादौ शरणं देशिका विदुः ॥ * ॥
@@ -89,7 +89,7 @@ He who imparted instruction in the vidyās or meditations that lead directly and
 
 The Vedas declare that a man attains mokṣa by having anācārya and the same is declared in the Smṛtis also.ācāryas knew that, in this world and so also, in the world beyond, the feet of the ācārya are the refuge (for the śiṣya).
 
-<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 एट्रि मनत्तॆऴिन् ञानविळक्कै यिरुळनैत्तुम्  
 माट्रिनवर्क्कॊरु कैम्माऱु मायनुङ् गाणगिल्लान्  
@@ -97,7 +97,7 @@ The Vedas declare that a man attains mokṣa by having anācārya and the same i
 चाट्रि वळर्प्पदुञ् जट्रल्लवो मुन्नम् पॆट्रदऱ्‌के. (48)
 </details>
 
-<details><summary>तमिऴ् - मूलम्</summary>
+<details><summary>मूलम् (त॰प॰)</summary>
 
 एट्रि मनत्तॆऴिन् ञानविळक्कै यिरुळनैत्तुम्  
 माट्रिनवर्क्कॊरु कैम्माऱु मायनुङ् गाणगिल्लान्  
@@ -107,7 +107,7 @@ The Vedas declare that a man attains mokṣa by having anācārya and the same i
 
 Even (the omniscient and omnipotent) Mayan cannot requite the ācārya who dispelled all the darkness (in the mind) by lighting the bright lamp of wisdom therein. (Therefore) for what was received before (from the ācārya), it is indeed very little (that is done by the śiṣya) in recounting his praise with delight, in constant meditation of him, and in extending his growing renown.
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 अध्यासीनतुरङ्गवक्त्रविलसज्जिह्वाग्रसिंहासना  
 दाचार्यादिह देवतां समधिकामन्यां न मन्यामहे ।  
@@ -115,7 +115,7 @@ Even (the omniscient and omnipotent) Mayan cannot requite the ācārya who dispe
 मग्नानां भविनां भवार्णवसमुत्ताराय नारायणः ॥ ७२ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 अध्यासीनतुरङ्गवक्त्रविलसज्जिह्वाग्रसिंहासना  
 दाचार्यादिह देवतां समधिकामन्यां न मन्यामहे ।  

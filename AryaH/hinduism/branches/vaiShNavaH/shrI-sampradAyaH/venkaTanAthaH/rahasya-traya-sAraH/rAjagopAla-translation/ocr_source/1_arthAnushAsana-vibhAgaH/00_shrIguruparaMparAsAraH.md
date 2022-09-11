@@ -17,7 +17,7 @@ OF
 
 THE SUCCESSION OF ĀCĀRYAS
 
-<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 सीरॊण्ड्रु तूप्पुल् तिरुवेङ्गडमुडैयान्  
 पारॊण्ड्रच्चॊन्न पऴमॊऴियुळ् - ओरॊण्ड्रु  
@@ -25,7 +25,7 @@ THE SUCCESSION OF ĀCĀRYAS
 वानेऱप्पोमळवुम् वाऴ्वु.
 </details>
 
-<details><summary>तमिऴ् - मूलम्</summary>
+<details><summary>मूलम् (त॰प॰)</summary>
 
 सीरॊण्ड्रु तूप्पुल् तिरुवेङ्गडमुडैयान्  
 पारॊण्ड्रच्चॊन्न पऴमॊऴियुळ् - ओरॊण्ड्रु  
@@ -33,13 +33,13 @@ THE SUCCESSION OF ĀCĀRYAS
 वानेऱप्पोमळवुम् वाऴ्वु.
 </details>
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 गुरुभ्यस्तद् गुरुभ्यश्च नमोवाकमधीमहे ।  
 वृणीमहे च तत्राद्यौ दंपती जगतां पती ॥ १ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 गुरुभ्यस्तद् गुरुभ्यश्च नमोवाकमधीमहे ।  
 वृणीमहे च तत्राद्यौ दंपती जगतां पती ॥ १ ॥
@@ -49,7 +49,7 @@ THE SUCCESSION OF ĀCĀRYAS
 
 [^1]: A śeṣa is one who exists solely for the purposes of another. That other is śeṣī .
 
-<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 पॊय्गै मुनिबूदत्तार् पेयाऴ्वार् तण्  
 पॊरुनल्वरुङ्गुरुगेसन् विट्टुसित्तन्,  
@@ -60,7 +60,7 @@ THE SUCCESSION OF ĀCĀRYAS
 तॆळियादमऱै निलङ्गडॆळिगिण्ड्रोमे. (1)
 </details>
 
-<details><summary>तमिऴ् - मूलम्</summary>
+<details><summary>मूलम् (त॰प॰)</summary>
 
 पॊय्गै मुनिबूदत्तार् पेयाऴ्वार् तण्  
 पॊरुनल्वरुङ्गुरुगेसन् विट्टुसित्तन्,  
@@ -75,7 +75,7 @@ Having carefully studied the beautiful hymns sung with delight in Tamil by seers
 
 [^2]: (1) The commentator says that Viṣṇucittan stands for Viṣṇucittan and also for his daughter Andal, the authoress of many hymns.
 
-<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 इन्बत्तिलिऱैञ्जुदलिलिसैयुम् पेट्रि  
 लिगऴाद पल्लुऱविलिरागम् माट्रिल्,  
@@ -87,7 +87,7 @@ Having carefully studied the beautiful hymns sung with delight in Tamil by seers
 दॊल्वऴिये नल्वऴिगळ् तुणिवार्गट्के. (2)
 </details>
 
-<details><summary>तमिऴ् - मूलम्</summary>
+<details><summary>मूलम् (त॰प॰)</summary>
 
 इन्बत्तिलिऱैञ्जुदलिलिसैयुम् पेट्रि  
 लिगऴाद पल्लुऱविलिरागम् माट्रिल्,  
@@ -168,7 +168,7 @@ From [^f23] Kaṭha śruti[^9]  and [^f24] Jābala śruti[^10]  it is well-known
 
 [^10]: Jābāla says in the śruti : "It is only the Vidya or wisdom learnt from an ācārya that gives proficiency Chandogya Upaniṣad: IV-9-3
 
-<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 ऎन्नुयिर् तन्दळित्तवरैच् चरणम्बुक्कि  
 यानडैवे अवर् कुरुक्कळ् निरै वणङ्गिप्  
@@ -180,7 +180,7 @@ From [^f23] Kaṭha śruti[^9]  and [^f24] Jābala śruti[^10]  it is well-known
 टॆम्बॆरुमान् ऱिरुवडिगळडैगिण्ड्रेने. (3)
 </details>
 
-<details><summary>तमिऴ् - मूलम्</summary>
+<details><summary>मूलम् (त॰प॰)</summary>
 
 ऎन्नुयिर् तन्दळित्तवरैच् चरणम्बुक्कि  
 यानडैवे अवर् कुरुक्कळ् निरै वणङ्गिप्  
@@ -194,7 +194,7 @@ From [^f23] Kaṭha śruti[^9]  and [^f24] Jābala śruti[^10]  it is well-known
 
 "Having sought the protection of my guru who has graciously taught me that Bhagavān is the Inner Self within me and having also bowed with devotion to the line of his gurus, I seek the refuge of the feet of the Lord, after bowing at the feet of that generous soul who appeared in Śrī Perumbudur owing to his compassion ( for his fellow-men), (his guru) Peria Nambi, Aḷavandār (the guru of Peria Nambi, Manakkal Nambi, Uyyakkondar who taught the good path (of prapatti) to Manakkal Nambi, Nāthamuni (the guru of Uyyakkondar), Satagopan (Nammalvar) (the guru of Nāthamuni) and Senainathan (the guru of Nammalvar) and then, of the gracious Lakṣmī , sweet to the Lord as ambrosia.
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 एते मह्यमपोढमन्मथशरोन्माथाय नाथादय  
 स्त्रय्यन्तप्रतिनन्दनीयविविधोदन्ताः स्वदन्तामिह ।  
@@ -202,7 +202,7 @@ From [^f23] Kaṭha śruti[^9]  and [^f24] Jābala śruti[^10]  it is well-known
 स्पर्धाविप्लव विप्रलम्भपदवी वैदेशिका देशिकाः ॥२॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 एते मह्यमपोढमन्मथशरोन्माथाय नाथादय  
 स्त्रय्यन्तप्रतिनन्दनीयविविधोदन्ताः स्वदन्तामिह ।  
@@ -212,7 +212,7 @@ From [^f23] Kaṭha śruti[^9]  and [^f24] Jābala śruti[^10]  it is well-known
 
 May these great spiritual teachers, Nāthamuni and others, fill my heart here and now with delight, so that I may not be subject to the impact of the arrows of Manmatha (i. e. to the pleasures of the senses )--teachers who bring us blissful truths of varied kinds from Vedānta , who convey to us (like Bhagīratha) the celestial river of the compassion of the divine couple to be sought in full faith and who are foreign to the paths of envy, error and deception!
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 हृद्या हृत्पद्मसिंहासनरसिकहयग्रीवहेषोर्मिघोष-  
 क्षिप्तप्रत्यर्थिदृप्तिर्जयति बहुगुणा पङ्क्तिरस्मद्गुरूणाम् ।  
@@ -220,7 +220,7 @@ May these great spiritual teachers, Nāthamuni and others, fill my heart here an
 त्सिद्धान्तस्तोमतूलस्तबकविगमनव्यक्तसद्वर्तनीका ॥ ३ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 हृद्या हृत्पद्मसिंहासनरसिकहयग्रीवहेषोर्मिघोष-  
 क्षिप्तप्रत्यर्थिदृप्तिर्जयति बहुगुणा पङ्क्तिरस्मद्गुरूणाम् ।  
@@ -232,7 +232,7 @@ The blissful line of our gurus who are possessed of many auspicious qualities, w
 
 [^11]: The disputations of these ācāryas are compared to the succession of neighings coming from the God Hayagrīva who is seated in their hearts. By these disputations they are said to have put down the pride of the exponents of rival systems.
 
-<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 आरण नूल्वऴिच्चॆव्वै यऴित्तिडुमैदुगर्क्कोर्  
 वारणमायवर् वादक्कदलिगळ् माय्त्तबिरान्  
@@ -240,7 +240,7 @@ The blissful line of our gurus who are possessed of many auspicious qualities, w
 सीरणिसिन्दैयिनोम् सिन्दियोमिनित्तीविनैये. (4)
 </details>
 
-<details><summary>तमिऴ् - मूलम्</summary>
+<details><summary>मूलम् (त॰प॰)</summary>
 
 आरण नूल्वऴिच्चॆव्वै यऴित्तिडुमैदुगर्क्कोर्  
 वारणमायवर् वादक्कदलिगळ् माय्त्तबिरान्  
@@ -254,7 +254,7 @@ We that cling to the noble qualities and sweet words of the benevolent sage, Rā
 
 [^12]: (Or the Upaniṣads)
 
-<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 नीळवन्दिण्ड्रु विदिवगैयाल् निनैवॊण्ड्रिय नाम्  
 मीळ वन्दिन्नुम् विनैयुडम्बॊण्ड्रि विऴुन्दुऴला  
@@ -262,7 +262,7 @@ We that cling to the noble qualities and sweet words of the benevolent sage, Rā
 आळवन्दारडियोम् पडियोमिनियल्वऴक्के. (5)
 </details>
 
-<details><summary>तमिऴ् - मूलम्</summary>
+<details><summary>मूलम् (त॰प॰)</summary>
 
 नीळवन्दिण्ड्रु विदिवगैयाल् निनैवॊण्ड्रिय नाम्  
 मीळ वन्दिन्नुम् विनैयुडम्बॊण्ड्रि विऴुन्दुऴला  
@@ -272,7 +272,7 @@ We that cling to the noble qualities and sweet words of the benevolent sage, Rā
 
 We, who were caught up in the stream of saṁsāra from time immemorial, and have, now, by a change of fortune, come to acquire a knowledge of our true spiritual nature, consider that Śrī Yāmunācārya (Aḷavandār) came into this world to protect us from being sunk again in the mire of saṁsāra and we will ever be attached to the feet of the sage (Aḷavandār) who triumphed over his opponents and blessed us with his writings. Never more shall we read the works of heretics.
 
-<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 काळम् वलम्बुरि यन्न नऱ्‌कादलडियवर्क्कुत्  
 ताळम् वऴङ्गित् तमिऴ्मऱै यिन्निसै तन्दवळ्ळल्  
@@ -280,7 +280,7 @@ We, who were caught up in the stream of saṁsāra from time immemorial, and hav
 नाळुन्दॊऴुदॆऴुवो नमक्कार् निगर् ना निलत्ते. (6)
 </details>
 
-<details><summary>तमिऴ् - मूलम्</summary>
+<details><summary>मूलम् (त॰प॰)</summary>
 
 काळम् वलम्बुरि यन्न नऱ्‌कादलडियवर्क्कुत्  
 ताळम् वऴङ्गित् तमिऴ्मऱै यिन्निसै तन्दवळ्ळल्  

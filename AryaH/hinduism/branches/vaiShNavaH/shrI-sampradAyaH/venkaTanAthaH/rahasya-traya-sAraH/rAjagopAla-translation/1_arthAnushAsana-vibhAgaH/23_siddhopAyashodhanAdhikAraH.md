@@ -15,7 +15,7 @@ THAT IS ALREADY EXISTENT.
 
 (SIDDHOPĀYA) page290
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 युगपदखिलं प्रत्यक्षेण स्वतस्सततं विद-  
 न्ननवधिदयादिव्योदन्वानशक्यविवर्जितः ।  
@@ -23,7 +23,7 @@ THAT IS ALREADY EXISTENT.
 परमपुरुषस्सिद्धोपायः प्रतीष्टभरस्सताम् ॥ ५१ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 युगपदखिलं प्रत्यक्षेण स्वतस्सततं विद-  
 न्ननवधिदयादिव्योदन्वानशक्यविवर्जितः ।  
@@ -141,12 +141,12 @@ From the śloka  : "Those that have nathas (lords or protectors) in the world do
 
 We shall now explain the real purport of the words of trust- worthy authors where the apparent meaning would seem to be that, while Iśvara is the Protector or Saviour of all, we are not required to put forth any endeavour for our protection. Their real meaning is this.
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 यदर्थन्तु कृतो न्यासस्तदर्थं न पुनः क्रिया । पूर्वमप्यपराधीनप्रवृत्तावस्य नान्वयः ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 यदर्थन्तु कृतो न्यासस्तदर्थं न पुनः क्रिया । पूर्वमप्यपराधीनप्रवृत्तावस्य नान्वयः ॥
 </details>
@@ -181,7 +181,7 @@ The usefulness of this attribute Srī in Śrīmat, both in the part dealing with
 
 Aḷavandār, too, has stated:- "The whole world depends upon the glance of Śrī, for its support." and again "Without the grace of Lakṣmī , the beloved spouse of the lotus-eyed Lord, we cannot have those glorious experiences which one might desire in this life (saṁsāra), nor the experience of our disembodied self, nor the enjoyment of Bhagavān in mokṣa ". The author of Śrī Bhāṣya, in his Vaikuṇṭha   Gadya, says that she commands Adiśeṣa, Viṣvaksena and other attendants to render such service to Bhagavān as is suited to the time and the circumstance, and that the service to Bhagavān, which is the supreme goal, should be rendered in accordance with her commands. Koorathalvan too, sings his praise of Lakṣmī  in ślokas beginning with these words: "The "bounds of Thy greatness. O, Goddess, are not known to Bhagavān nor even to Thyself". These words are an elaboration of what is contained in the śloka  :- "May Lakṣmī   confer happiness (on us) --- Lakṣmī , looking at whose face, and with Her will as His aid, the Lord creates, destroys and sustains all the worlds, and grants also such things as svarga, naraka (hell) and mokṣa . Since the two are engaged in the same work and experience the same kind of delight, the Lord cannot feel happy if he performs the līlā of the work of the world without her participation in it," Bhattar, also, has commented on the word Udaara (generous ) used in the śruti  (viz., Śrī Sūktam) as an adjective for Śrī in this manner:-"How generous Thou art! O, Mother, to the man who merely raises his hands folded in worship to Thee, Thou grantest wealth, the enjoyment of his disembodied self and even paramapada and yet Thou feelest ashamed that Thou hast not done anything adequate for him." Peria Jeer, too, has brought out all these ideas in his commentary on Śrī Sukta. Thus, from what we find in the śruti , Smṛti and tradition, (the reader) gifted with insight can understand that the attribute expressed in the word Śrīmat in Dvaya has its uses, just like such things as forms (vigraha), in accordance with its own nature.
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 भरस्वीकाररहितं रक्षासङ्कल्पवर्जितम् । गुणादिकमिहेष्टं हि शरण्यस्य विशेषणम् ॥  
 ऐकरस्यजुषोश्शेषिदंपत्योस्सर्वकर्मसु । विशेषणविशेष्यत्वं श्रुतं कस्मान्न रोचते ॥  
@@ -189,7 +189,7 @@ Aḷavandār, too, has stated:- "The whole world depends upon the glance of Śr�
 इत्थं प्रपत्तिविद्यायां तत्तन्मन्त्रानुसारतः । विभुः पत्न्या गुणाद्यैश्च विशिष्टो विषयोऽत्र नः ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 भरस्वीकाररहितं रक्षासङ्कल्पवर्जितम् । गुणादिकमिहेष्टं हि शरण्यस्य विशेषणम् ॥  
 ऐकरस्यजुषोश्शेषिदंपत्योस्सर्वकर्मसु । विशेषणविशेष्यत्वं श्रुतं कस्मान्न रोचते ॥  
@@ -225,7 +225,7 @@ In the investigation of the real meaning of the word Siddhopāya, the following 
 
 The Lord of Śrī, who is the embodiment of compassion and who secures, for them, all the benefits desired by men is called Siddhopāya, because He is already an existent upāya. The ways of securing His favour are such as bhakti and prapatti and these are called Sādhyopāyas, because they can be adopted and accomplished by those who desire the respective benefits. When the Sādhyopāya flows with high mounting waves and increases the flood of compassion of the śeṣī , who is the Siddhopāya, the latter breaks through the flood of lilā which is also His. By (that very flood of compassion) all hindrances to His service, such as even the former will of the Omnipotent, disappear like dams built of fine sand. Though the acts of propitiation (like bhakti and prapatti ) are prescribed in the śāstras for securing the fruit, yet Siddhopāya is considered as of prime importance, because the Lord alone is capable of granting mokṣa , since bhakti or prapatti being non-sentient, cannot give the fruit directly and since Bhagavān alone can act directly. To those who have adopted prapatti as the primary and independent means, it is specially ordained that they should rest on the Omnipresent in order that they may know that their own endeavour perishes instantly after prapatti. Therefore with what aim, the surrender of responsibility has been made to Siddhopāya - for that aim, the man should make no further endeavour and depend only on the Siddhopāya, In the definition of prapatti in the mantra for prapatti, in the injunction concerning it and in other passages and so also in Śrī Bhāṣya and the like and by tradition, Brahman is declared as the upāya. Just as we admit that certain (holy) places and the like which exist already are called dharma productive of spiritual excellence, so also it is said by those who understand the truth that Śrī Kṛṣṇa is the eternal dharma (or upāya ). This Siddhopāya is to be thought of in the three mysteries or mantrās in such as the syllable a in aum etc.
 
-<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 मन्नुमनैत्तुऱवाय् मरुण्माट्ररुळाऴियुमाय्त्  
 तन्निनैवालनैत्तुन् दरित्तोङ्गुन्दनियिऱैयाय्  
@@ -233,7 +233,7 @@ The Lord of Śrī, who is the embodiment of compassion and who secures, for them
 मन्नियवन्सरण्मट्रोर्बट्रिण्ड्रि वरिप्पवर्क्के. (34)
 </details>
 
-<details><summary>तमिऴ् - मूलम्</summary>
+<details><summary>मूलम् (त॰प॰)</summary>
 
 मन्नुमनैत्तुऱवाय् मरुण्माट्ररुळाऴियुमाय्त्  
 तन्निनैवालनैत्तुन् दरित्तोङ्गुन्दनियिऱैयाय्  
@@ -243,7 +243,7 @@ The Lord of Śrī, who is the embodiment of compassion and who secures, for them
 
 Nārāyaṇa , with His Spouse Lakṣmī , who is staunch in being every kind of relation (to us ), who is the sea of compassion that dispels ignorance (and delusion), who shines sustaining all (things and all beings ) with His mere will, being the Supreme Lord without a second and who takes compassion on us on account of ( Śrī), the nectar born of sweet nectar - Nārāyaṇa  with Śrī is the firm refuge of all who seek His protection having no other support.
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 विश्राम्यद्भिरुपर्यपर्यपि दिवानक्तं बहिर्दर्शनै-  
 रस्मद्देशिकसंप्रदायरहितैरद्यापि नालक्षितः ।  
@@ -251,7 +251,7 @@ Nārāyaṇa , with His Spouse Lakṣmī , who is staunch in being every kind of
 सत्त्वस्थेषु भजेत सन्निधिमसौ शान्तावधिश्शेवधिः ॥ ५२ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 विश्राम्यद्भिरुपर्यपर्यपि दिवानक्तं बहिर्दर्शनै-  
 रस्मद्देशिकसंप्रदायरहितैरद्यापि नालक्षितः ।  

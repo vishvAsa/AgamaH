@@ -12,7 +12,7 @@ title = "२२ परिपूर्णब्रह्मानुभवाध�
 
 ENJOYMENT OF THE BLISS OF BRAHMAN. page274
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 वितमसि पदे लक्ष्मीकान्तं विचित्रविभूतिकं  
 सचिवगमितस्संपद्याविर्भवत्सहजाकृतिः ।  
@@ -20,7 +20,7 @@ ENJOYMENT OF THE BLISS OF BRAHMAN. page274
 भजति परमं साम्यं भोगे निवृत्तिकथोज्झितम् ॥ ४८ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 वितमसि पदे लक्ष्मीकान्तं विचित्रविभूतिकं  
 सचिवगमितस्संपद्याविर्भवत्सहजाकृतिः ।  
@@ -66,13 +66,13 @@ Some jīvas attain, ia such worlds as those of Viṣṇu , the privilege of livi
 
 In this connection, it may be asked why, in one of the passages of the Veda, the two words, sayujya and sārshtitha are employed (in the same sentence ), when they mean the same thing, namely, communion in the enjoyment (would it not be redundant to use two words when one would be enough?). The answer is (that there is a difference in meaning between the two words ), and it is as follows:
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 सायुज्यमुभयोरत्र भोक्तव्यस्याविशिष्टता ।  
 सार्ष्टिता तत्र भोगस्य तारतम्यविहीनता ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 सायुज्यमुभयोरत्र भोक्तव्यस्याविशिष्टता ।  
 सार्ष्टिता तत्र भोगस्य तारतम्यविहीनता ॥
@@ -110,7 +110,7 @@ THE MUKTA WILL NEVER BE IN SAMSĀRA AGAIN :
 
 If it be so, it may be asked whether the mukta  who is not independent (of God) may not, for some reason or other, incur the possibility of a return to saṁsāra. The jīva's dependence on Iswars has been stated in the śloka  :-“For enabling a man to get the good things of life, and for taking away from him the ills of life, there is no one other than Puruṣottama who is competent ''. The answer to that question is, "There will be no such possibility, for has He not Himself declared :- "Those who perform bhakti yoga with great devotion and those who have performed prapatti which is considered as a superior form of penance (tapas) will obtain sāyujya and will for ever render service to me. They will always be free from the ills of saṁsāra". Ever in the state of desire for mukti, the mukta had an aversion to the enjoyment of non-sentient things (matter) and also to the mere enjoyment of his own self (kaivalya). This aversion is now well established in him; for as he sees all things having Brahman as their inner self, there is no possibility of his enjoying his own self as separate (from everything else), and as he sees by constant perception (pratyakṣa ) the imperfections of all other objects (than God), there is no possibility of his returning to saṁsāra of his own free will. As his knowledge of the three tattvas, cit. acit and Iśvara and of what is good and what is evil, which he acquired before, has now attained expansion without any break or contraction, there is no possibility of his ever going back to saṁsāra owing to ajñāna or ignorance. The knowledge which formerly in saṁsāra deepened into the form of love called bhakti and which he acquired by his distinctive knowledge of the specific nature of Bhagavān has, now, in the state of mukti, become ripened into the form of supreme love, because he has now a vision of all aspects of Bhagavān's distinctive nature of which even the śāstra s are incapable. Therefore Iśvara's great love for him as stated in the śloka : "The jnanī is dear to me (How dear he is to me cannot be described even by me, Omniscient though I am)" - Iśvara's love for himna is so overwhelming that its flow is irresistible and that its current reaches even those uplands which are connected with him only in distant relationship. Therefore it cannot be stated that, though he is free from karma, there is the possibility of his returning to saṁsāra by the will of Iśvara who is independent (and all-powerful). Since the mukta is no longer subject to the injunctions of śāstra , there is no possibility of his violating the Lord's command in the state of mukti. He cannot do anything opposed to the will of Iśvara as the Lord's pleasure is now his pleasure. Therefore the ultimate goal or attainment called mokṣa , which is of the nature of perfect and full enjoyment of Brahman and which extends into service, has now become eternal for him (i.e.) it will last as long as his soul lasts. Considering all this, the Sitra-kāra said: "There is no return (to saṁsāra) - no return, for the Scripture says so."
 
-<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 एऱि ऎऴिऱ्‌पदमॆल्लावुयिर्क्कुमिदमुगक्कुम्  
 नाऱुदुऴाय्मुडि नादनै नण्णि यडिमैयिल् नम्  
@@ -118,7 +118,7 @@ If it be so, it may be asked whether the mukta  who is not independent (of God) 
 माऱुदलिण्ड्रि मगिऴ्न्दॆऴुम् पोगत्तु मन्नुवमे. (29)
 </details>
 
-<details><summary>तमिऴ् - मूलम्</summary>
+<details><summary>मूलम् (त॰प॰)</summary>
 
 एऱि ऎऴिऱ्‌पदमॆल्लावुयिर्क्कुमिदमुगक्कुम्  
 नाऱुदुऴाय्मुडि नादनै नण्णि यडिमैयिल् नम्  
@@ -128,7 +128,7 @@ If it be so, it may be asked whether the mukta  who is not independent (of God) 
 
 Having reached the dazzling region of Paramapada and approached the Lord crowned with fragrant tulasī, who is ever delighted in doing what is good to all beings, and having obtained our share in service (to them), we shall ever live under the sounding anklets of the assembly of our ācāryas and enjoy delights which will never change and which will spring (from within us) to our great joy.
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 अविश्रान्तश्रद्धाशतकलहकल्लोलकलुषा  
 ममाविर्भूयासुर्मनसि मुनिसिद्धादिसुलभाः ।  
@@ -136,7 +136,7 @@ Having reached the dazzling region of Paramapada and approached the Lord crowned
 न्महानन्दब्रह्मानुभवपरीवाहा बहुविधाः ॥ ४९ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 अविश्रान्तश्रद्धाशतकलहकल्लोलकलुषा  
 ममाविर्भूयासुर्मनसि मुनिसिद्धादिसुलभाः ।  
@@ -146,7 +146,7 @@ Having reached the dazzling region of Paramapada and approached the Lord crowned
 
 May varied forms of service which are the overflow of the blissful enjoyment of Brahma arising from the greatness of His qualities and glorious possessions which are blended together like honey and milk - may these forms of service in which there is a conflict of hundreds of unwearied desires (to render service ) and which are easy of attainment for such as seers and sūris - may these manifest themselves in my mind!
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 सन्दृष्टस्सारवाग्वित् स्वपर निशितधीस्सङगजिन्नैकसंस्थ  
 स्स्पष्टोपायोऽतिखिन्नस्सपरिकरभरन्यासनिष्पन्नकृत्यः ।  
@@ -154,7 +154,7 @@ May varied forms of service which are the overflow of the blissful enjoyment of 
 न्निर्मुक्तस्थूलसूक्ष्मप्रकृतिरनुभवत्यच्युतं नित्यमेकः ॥ ५० ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 सन्दृष्टस्सारवाग्वित् स्वपर निशितधीस्सङगजिन्नैकसंस्थ  
 स्स्पष्टोपायोऽतिखिन्नस्सपरिकरभरन्यासनिष्पन्नकृत्यः ।  

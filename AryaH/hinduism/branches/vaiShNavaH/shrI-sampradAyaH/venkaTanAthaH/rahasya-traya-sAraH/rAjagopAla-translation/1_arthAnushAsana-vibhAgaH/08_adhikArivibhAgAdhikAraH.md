@@ -9,7 +9,7 @@ title = "०८ अधिकारिविभागाधिकारः"
 
 (8) THE CHAPTER ON THE CLASSIFICATION OF QUALIFIED PERSONS.page153
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 मुमुक्षुत्वे तुल्ये सति च मधुविद्यादिषु यथा  
 व्यवस्था संसिद्ध्यत्यधिकृतिविशेषेण विदुषाम् ।  
@@ -17,7 +17,7 @@ title = "०८ अधिकारिविभागाधिकारः"
 नियत्या वैयात्यं नियमयितुमेवं प्रभवति ॥ २० ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 मुमुक्षुत्वे तुल्ये सति च मधुविद्यादिषु यथा  
 व्यवस्था संसिद्ध्यत्यधिकृतिविशेषेण विदुषाम् ।  
@@ -67,7 +67,7 @@ THE BLISS IN MOKṣA  IS THE SAME FOR BOTH.
 
 Entire dependence on the Lord is uniformly the same for all. For it is stated in Viṣṇu  Tantram :-"Having understood his absolute dependence on the Supreme Person, he gets rid of the bondage due to past karma, attains peerless independence and enjoys bliss with him." It has been declared (by the Bhāṣyakāra in the chapter on the Goal (Chapter IV of the Brahma Sūtras) that this independence which is said to be acquired in the final stage of attainment (i.e.) mokṣa  is  fitness to render every kind of service to the Lord without being subject to past karma.
 
-<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 वेण्डुम् पॆरुम्बयन् वीडॆण्ड्रऱिन्दु विदिवगैयाल्  
 नीण्डुङ्गुऱुगियुनिऱ्‌कु निलैगळुक्केऱ्‌कुमन्बर्  
@@ -75,7 +75,7 @@ Entire dependence on the Lord is uniformly the same for all. For it is stated in
 पूण्डण्ड्रि मट्रोर्बुगलॊण्ड्रिलैयॆन निण्ड्रनरे. // 15 //
 </details>
 
-<details><summary>तमिऴ् - मूलम्</summary>
+<details><summary>मूलम् (त॰प॰)</summary>
 
 वेण्डुम् पॆरुम्बयन् वीडॆण्ड्रऱिन्दु विदिवगैयाल्  
 नीण्डुङ्गुऱुगियुनिऱ्‌कु निलैगळुक्केऱ्‌कुमन्बर्  
@@ -85,7 +85,7 @@ Entire dependence on the Lord is uniformly the same for all. For it is stated in
 
 Those who desire to attain the bliss of Bhagavān realise that the supreme aim of life is mokṣa  and that there are two upāyas or means attaining it, one prolonged and the other quick which depend on their luck. They adopt one of these two upāyas and find that, for getting rid of the hindrances caused by past karma, there is no other way than seeking the feet of Mukunda for refuge,
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 प्रपन्नादन्येषां न दिशति मुकुन्दो निजपदं  
 प्रपन्नश्च द्वेधा सुचरितपरीपाकभिदया ।  
@@ -93,7 +93,7 @@ Those who desire to attain the bliss of Bhagavān realise that the supreme aim o
 परस्याशु प्राप्तिः परिमितरसा जीवितदशा ॥ २१ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 प्रपन्नादन्येषां न दिशति मुकुन्दो निजपदं  
 प्रपन्नश्च द्वेधा सुचरितपरीपाकभिदया ।  

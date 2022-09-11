@@ -14,7 +14,7 @@ title = "१८ अपराधपरिहाराधिकारः"
 
 
 __________
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 स्वच्छ-स्वादु-सदावदात-सुभगां दैवाद् अयं देहभृन्   
 मालिन्य-प्रशमाय माधव-दया-मन्दाकिनीं विन्दति ।  
@@ -27,7 +27,7 @@ __________
 This embodied being (the Jīva  ) obtains the grace of Madhava by the result of past karma (luck), for the removal of his sins -- the grace of Madhava which, by its purity, delightfulness, holiness and efficacy is like the (holy) Mandakini whose waters are clear, sweet, always pure (white) and efficacious. (That is, he becomes a prapanna ). If, in spite of this, he still makes his body unclean by wallowing in the mire of the stream of wretched sense pleasures, his company is avoided by the wise (but this would not stand in the way of his attainment of mokṣa after death).
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 स्वच्छस्वादुसदावदात सुभगां दैवादयं देहभृन्-  
 मालिन्यप्रशमाय माधवदयामन्दाकिनीं विन्दति ।  
@@ -722,12 +722,12 @@ statement, "I will release you from all sins", since it is qualified by a passag
 It is evident from the authority of the following śloka  that those who are exclusively devoted to Bhagavān (whether they be bhaktas or prapannas ) will not fall under the sway of Yama : "Whatever may be the family into which they are born, wherever they may live, those who love Bhagavān will never go to the world of Yama." There is general agreement also that the same sin will meet with either heavy or light punishment as its consequence, according to the differences of caste, character and the like. This is also consistent with what obtains in the world in cases like the offences committed by princes.
 
 __________
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 “न प्राग्वद्बुद्धिपूर्वाघे न चात्यन्तमनुग्रहः । लघुर्दण्डः प्रपन्नस्य राजपुत्रापराधवत् ॥ ४०-अ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 “न प्राग्वद्बुद्धिपूर्वाघे न चात्यन्तमनुग्रहः । लघुर्दण्डः प्रपन्नस्य राजपुत्रापराधवत् ॥ ४०-अ ॥
 </details>
@@ -743,12 +743,12 @@ From such episodes as that of Sandili in which even Garuḍa who has been descri
 So, in order that one may not lose the grace of God and thereby incur the need for further prapatti or light punishment, a way must be found to root out the possibility of future offences. In general, the root cause of all offences is want of discrimination (aviveka). Of this want of discrimination, the most important is that which causes the delusion that the self is identical with matter (the body ) which is non-sentient and ever subject to modification and has such other qualities and, likewise, the delusion that the individual self has the attributes and qualities which are peculiar to Iśvara, such as existing in itself, independence, and not existing for any one but itself. The sharp-edged saw that cuts off this want of discrimination is a clear knowledge of the nature of one's self which is neither redundant nor inadequate.
 
 __________
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 अविवेकप्रभुत्वादेर्निदानस्य निवर्तनात् । अर्थकामापचाराणामयत्नोन्मूलनं भवेत् ॥ ४०-आ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 अविवेकप्रभुत्वादेर्निदानस्य निवर्तनात् । अर्थकामापचाराणामयत्नोन्मूलनं भवेत् ॥ ४०-आ ॥
 </details>
@@ -772,14 +772,14 @@ Whether a man has offended Bhāgavatas (in this life) or whether some Bhāgavata
 The word Brahmin occurring in these ślokas has a special significance, as has been said in the śloka : "He who knows, aright, the truth concerning Bhagavān, who is called Viṣṇu  that measured the world ( with His feet) and is also called Vāsudeva he becomes a Brahmin". Even if it is used in its general sense, since the offence to the Brahmin is condemned, much more worthy of condemnation would be the offence to a Bhāgavata or devotee of Bhagavān.
 
 __________
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 अनुतापादुपरमात् प्रायश्चित्तोन्मुखत्वतः । तत्पूरणाच्छापराधास्सर्वे नश्यन्ति पादशः ॥ ४०-इ ॥  
 पूर्वस्मिन्वा परस्मिन्वा कल्पे निर्विण्णचेतसाम् । निवर्त्यतारतम्येऽपि प्रपत्तिर्न विशिष्यते ॥ ४०-ई ॥  
 एवमेव लघूनां वा गुरुणामपि वाऽऽगसां । सकृत् प्रपत्तिरेकैव सद्यः प्रशमकारणम् ॥ ४०-उ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 अनुतापादुपरमात् प्रायश्चित्तोन्मुखत्वतः । तत्पूरणाच्छापराधास्सर्वे नश्यन्ति पादशः ॥ ४०-इ ॥  
 पूर्वस्मिन्वा परस्मिन्वा कल्पे निर्विण्णचेतसाम् । निवर्त्यतारतम्येऽपि प्रपत्तिर्न विशिष्यते ॥ ४०-ई ॥  
@@ -789,7 +789,7 @@ __________
 All sins are destroyed, in four equal parts, by repentance, by abstention, by the endeavour to perform atonement and by the completion of the process of atonement. To those who feel remorse and repentance, whether the prapatti is performed in a previous kalpa or in a later kalpa, there is no difference in the prapatti to be performed although (there is a difference in the nature of sins committed). Similarly whether the sins be serious or venial, the performance of a single prapatti done at a time will completely destroy at once (all sins).
 
 __________
-<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 उळदान वल्विनैक्कुळ्ळम् वॆरुवि युलगळन्द  
 वळर्दामरैयिणै वन्सरणाग वरित्तवर् ताम्  
@@ -797,7 +797,7 @@ __________
 इळैदा निलै सॆग वॆङ्गळ्बिरानरुट्टेनॆऴुमे. (25 )
 </details>
 
-<details><summary>तमिऴ् - मूलम्</summary>
+<details><summary>मूलम् (त॰प॰)</summary>
 
 उळदान वल्विनैक्कुळ्ळम् वॆरुवि युलगळन्द  
 वळर्दामरैयिणै वन्सरणाग वरित्तवर् ताम्  
@@ -808,7 +808,7 @@ __________
 Those who dread, at heart, the formidable sins that bear fruit at present and seek refuge at the two lotus-like feet of the Lord who measured the worlds, will be freed from all karma which flourishes like weeds. In order to prevent the occurrence of future offences, the honey-like grace of our Lord prevails over the want of discrimination (aviveka) which gives rise to them.
 
 __________
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 प्रारब्धेतरपूर्वपापमखिलं प्रामादिकञ्चोत्तरं  
 न्यासेन क्षपयन्ननभ्युपगतप्रारब्धखण्डञ्च नः ।  
@@ -816,7 +816,7 @@ __________
 कौटिल्ये सति शिक्षयाप्यनघयन् क्रोढीकरोति प्रभुः ॥ ४१ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 प्रारब्धेतरपूर्वपापमखिलं प्रामादिकञ्चोत्तरं  
 न्यासेन क्षपयन्ननभ्युपगतप्रारब्धखण्डञ्च नः ।  

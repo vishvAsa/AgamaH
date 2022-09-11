@@ -5,7 +5,7 @@ title = "१३ कृतकृत्याधिकारः"
 
 (13) THE CHAPTER ON THE MAN WHO HAS DONE WHAT OUGHT TO BE DONE (I.E.) PRAPATTI. page195
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 समर्थे सर्वज्ञे सहजसुहृदि स्वीकृतभरे  
 यदर्थं कर्तव्यं न पुनरिह यत्किञ्चिदपि नः ।  
@@ -13,7 +13,7 @@ title = "१३ कृतकृत्याधिकारः"
 कृतार्थीकुर्मः स्वं कृपणमपि कैङ्कर्यधनिनः ॥ ३० ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 समर्थे सर्वज्ञे सहजसुहृदि स्वीकृतभरे  
 यदर्थं कर्तव्यं न पुनरिह यत्किञ्चिदपि नः ।  
@@ -41,13 +41,13 @@ PRAPATTI :
 
 Since one of the qualifications for the performance of prapatti, is sorrow or grief before prapatti, if he had no grief before, he would not have the necessary qualification for performing prapatti. So by the principle "when there is no cause, there is no effect," his upāya (prapatti) will not be effective. If, after the performance of prapatti, he grieves owing to want of faith in the words of the Saviour, it would follow by the principle "When the effect is absent, there must have been absence of all the required materials (or causes)" that his upāya is incomplete (owing to want of full faith) and that the benefit or fruit will be delayed inasmuch as it will require the completion of the upāya. The man who was formerly full of grief and who is now free from sorrow in accordance with the words" Do not grieve" may be considered to have done what should be done (i.e.) prapatti in the proper manner,
 
-<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 मन्नवर् विण्णवर् वानोरिऱैयॊण्ड्रुम् वान्गरुत्तोर्  
 अन्नवर् वेळ्वियनैत्तुमुडित्तनरन्बुडैयार्क्-
 </details>
 
-<details><summary>तमिऴ् - मूलम्</summary>
+<details><summary>मूलम् (त॰प॰)</summary>
 
 मन्नवर् विण्णवर् वानोरिऱैयॊण्ड्रुम् वान्गरुत्तोर्  
 अन्नवर् वेळ्वियनैत्तुमुडित्तनरन्बुडैयार्क्-
@@ -58,7 +58,7 @@ Since one of the qualifications for the performance of prapatti, is sorrow or gr
 
 Our spiritual leaders whom the Lord of Śrī that dwells on Hastigiri has taken into His protection after endeavouring for a long time to find out what boon He should confer on those who loved Him. They are like kings and gods (to us), for they have, ever in their minds, the abode of the Lord of the eternal suris and they are like Paramahamsas, because they have completed all rites that have to be performed, (or like swans in their purity or in their capacity to separate the essential from the non-essential).
 
-140 <details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+140 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 भगवति हरौ पारं गन्तुं भरन्यसनं कृतं  
 परिमितसुखप्राप्त्यै कृत्यं प्रहीणमकृत्यवत् ।  
@@ -66,7 +66,7 @@ Our spiritual leaders whom the Lord of Śrī that dwells on Hastigiri has taken 
 परमिह विभोराज्ञासेतुर्बुधैरनुपाल्यते ॥ ३१ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 भगवति हरौ पारं गन्तुं भरन्यसनं कृतं  
 परिमितसुखप्राप्त्यै कृत्यं प्रहीणमकृत्यवत् ।  

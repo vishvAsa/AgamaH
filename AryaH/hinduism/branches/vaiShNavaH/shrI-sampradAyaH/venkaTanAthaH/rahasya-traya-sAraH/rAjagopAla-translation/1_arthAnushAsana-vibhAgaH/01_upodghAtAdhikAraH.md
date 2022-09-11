@@ -9,13 +9,13 @@ title = "०१ उपोद्घाताधिकारः"
 
 (1) INTRODUCTORY CHAPTER. page70
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 आभगवत्तः प्रथितामनघामाचार्यसन्ततिं वन्दे ।  
 मनसि मम यत्प्रसादाद्वसति रहस्यत्रयस्य सारोऽयम् ॥ ४ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 आभगवत्तः प्रथितामनघामाचार्यसन्ततिं वन्दे ।  
 मनसि मम यत्प्रसादाद्वसति रहस्यत्रयस्य सारोऽयम् ॥ ४ ॥
@@ -23,13 +23,13 @@ title = "०१ उपोद्घाताधिकारः"
 
 I adore the regular and spotless succession of ācāryas which is well-known to extend upwards even to Bhagavān, It is by virtue of their grace that the essence of the meaning of the three secret mantras (mysteries) abides in my mind.
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 कर्मब्रह्मात्मके शास्त्रे कौतस्कुतनिवर्तकान् ।  
 वन्दे हस्तिगिरीशस्य वीथीशोधककिङ्करान् ॥ ५ ॥[^15]
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 कर्मब्रह्मात्मके शास्त्रे कौतस्कुतनिवर्तकान् ।  
 वन्दे हस्तिगिरीशस्य वीथीशोधककिङ्करान् ॥ ५ ॥[^15]
@@ -41,7 +41,7 @@ I bow to those great men who have refuted the arguments of men[^16] that chop lo
 
 [^16]: logic choppers like Tārkikas.
 
-<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 आळुमडैक्कलमॆन् ऱॆम्मैयम्बुयत्ताळ् कणवन्  
 ताळिणै सेर्न्दॆमक्कुमवैदन्द तगवुडैयार्  
@@ -49,7 +49,7 @@ I bow to those great men who have refuted the arguments of men[^16] that chop lo
 नाळुमुगक्कविङ्गे नमक्कोर्विदि वाय्क्किण्ड्रदे ( 7 )
 </details>
 
-<details><summary>तमिऴ् - मूलम्</summary>
+<details><summary>मूलम् (त॰प॰)</summary>
 
 आळुमडैक्कलमॆन् ऱॆम्मैयम्बुयत्ताळ् कणवन्  
 ताळिणै सेर्न्दॆमक्कुमवैदन्द तगवुडैयार्  
@@ -59,7 +59,7 @@ I bow to those great men who have refuted the arguments of men[^16] that chop lo
 
 Lucky indeed are we in having an opportunity, in this world and every day, of meditating on the three mysteries (mantras) with great delight -- secrets which were taught to us with great earnestness for the removal of our dense ignorance by great souls endowed with compassion who sought the feet of the Spouse of the lotus-born Lakṣmī  as their sole refuge and gave me also those feet for our protection.
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 मणिवर इव शौरेर्नित्यहृद्योऽपि जीवः  
 कलुषमतिरविन्दन् किङ्करत्वाधिराज्यम् ।  
@@ -67,7 +67,7 @@ Lucky indeed are we in having an opportunity, in this world and every day, of me
 गुरुपरिषदुपज्ञं प्राप्य गोपायति स्वम् ॥ ६ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 मणिवर इव शौरेर्नित्यहृद्योऽपि जीवः  
 कलुषमतिरविन्दन् किङ्करत्वाधिराज्यम् ।  
@@ -116,14 +116,14 @@ In the same way, some generous benefactors who are introduced to the Jīva   by 
 
 All these things that should be known to every mumukṣu are found concisely stated in ‘the three mysteries or secrets' (mantras) which are, as it were, the quintessence of all passages treating of the Jīva   and Iśvara and which contain the best part of all the main doctrines.
 
-<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 तिरुवुडन् वन्द सॆऴुमणिबोट्रिरुमालिदयम्  
 मरुविडमॆन्न मलरडि सूडुम् वगैबॆऱु नाम्,  
 करुवुडन्वन्द कडुविनैयाट्रिल् विऴुन्दॊऴुगा-
 </details>
 
-<details><summary>तमिऴ् - मूलम्</summary>
+<details><summary>मूलम् (त॰प॰)</summary>
 
 तिरुवुडन् वन्द सॆऴुमणिबोट्रिरुमालिदयम्  
 मरुविडमॆन्न मलरडि सूडुम् वगैबॆऱु नाम्,  
@@ -136,7 +136,7 @@ We that deserve a place near the heart of Viṣṇu  even like the gem Kaustubha
 
 [^18]: Kaustubha: This gem is stated in certain treatises to stand allegorically for the Jīva  .
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 कर्माविद्यादिचक्रे प्रतिपुरुषमिहानादिचित्रप्रवाहे  
 तत्तत्काले विपक्तिर्भवति हि विविधा सर्वसिद्धान्तसिद्धा ।  
@@ -144,7 +144,7 @@ We that deserve a place near the heart of Viṣṇu  even like the gem Kaustubha
 न्मुक्तैश्वर्यान्तसंपन्निधिरपि भविता कश्चिदित्थं विपश्चित् ॥ ७ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 कर्माविद्यादिचक्रे प्रतिपुरुषमिहानादिचित्रप्रवाहे  
 तत्तत्काले विपक्तिर्भवति हि विविधा सर्वसिद्धान्तसिद्धा ।  

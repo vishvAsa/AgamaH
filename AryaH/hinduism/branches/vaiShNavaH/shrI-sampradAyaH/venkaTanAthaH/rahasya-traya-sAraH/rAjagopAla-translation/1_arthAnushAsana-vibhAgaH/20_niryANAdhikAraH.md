@@ -11,7 +11,7 @@ title = "२० निर्याणाधिकारः"
 
 SELF (FROM THE BODY) page255
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 मनसि करणग्रामं प्राणे मनः पुरुषे च तं  
 झटिति घटयन् भूतेष्वेनं परे च तमात्मनि ।  
@@ -19,7 +19,7 @@ SELF (FROM THE BODY) page255
 नयति परतो नाडीभेदैर्यथोचितमीश्वरः ॥ ४४ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 मनसि करणग्रामं प्राणे मनः पुरुषे च तं  
 झटिति घटयन् भूतेष्वेनं परे च तमात्मनि ।  
@@ -89,7 +89,7 @@ It may be asked whether the description contained in the slokās and Tamil verse
 
 Thereafter (i.e. after repose by the side of the Supreme Being), the self or soul attains perfect knowledge being awakened by the Lord (who is wise) and who says that "the Jīva   gets knowledge, memory and forgetfulness only from Him. Lighted by that knowledge, it enters into the Brahma Nadi. Thence  forward Time is one eternal day for the self.
 
-<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 नन्निलमामदु नऱ्‌पगलामदु नन्निमित्तम्  
 ऎन्नलुमामदुयादानुमा मङ्गडियवर्क्कु  
@@ -97,7 +97,7 @@ Thereafter (i.e. after repose by the side of the Supreme Being), the self or sou
 नन्निलैया नडु नाडिवऴिक्कु नडैबॆऱवे. (27)
 </details>
 
-<details><summary>तमिऴ् - मूलम्</summary>
+<details><summary>मूलम् (त॰प॰)</summary>
 
 नन्निलमामदु नऱ्‌पगलामदु नन्निमित्तम्  
 ऎन्नलुमामदुयादानुमा मङ्गडियवर्क्कु  
@@ -107,7 +107,7 @@ Thereafter (i.e. after repose by the side of the Supreme Being), the self or sou
 
 To the prapanna (who is a devotee of Śrī Raṅganātha) who departs from the body which is as transient as lightning and who is to journey from the central Brahma nadi, along the beautiful and shining path (of arcirādi), which is free from all impediments, the place of his departure is itself an auspicious place, the day of his departure is itself an auspicious day, the omens and signs that are then seen are all auspicious, whatever they may be.
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 दहरकुहरे देवस्तिष्ठन्निषद्वरदीर्घिका  
 निपतितनिजापत्यादित्सावतीर्णपितृक्रमात् ।  
@@ -115,7 +115,7 @@ To the prapanna (who is a devotee of Śrī Raṅganātha) who departs from the b
 अकृतकपुरप्रस्थानार्थं प्रवेशयति प्रभुः ॥ ४५ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 दहरकुहरे देवस्तिष्ठन्निषद्वरदीर्घिका  
 निपतितनिजापत्यादित्सावतीर्णपितृक्रमात् ।  

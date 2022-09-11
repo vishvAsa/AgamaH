@@ -5,7 +5,7 @@ title = "१६ पुरुषार्थ-काष्ठाधिकारः
 
 (16) THE CHAPTER ON THE FARTHEST EXTENT OF OUR ULTIMATE OBJECT IN LIFE. page219
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 स्वतन्त्रस्वामित्वात् स्वबहुमतिपात्रेषु नियतं  
 श्रियः कान्तो देवस्स खलु विनियुङ्क्ते चिदचितौ ।  
@@ -13,7 +13,7 @@ title = "१६ पुरुषार्थ-काष्ठाधिकारः
 ततो नः कैङ्कर्यं तदभिमतपर्यन्तमभवत् ॥ ३६ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 स्वतन्त्रस्वामित्वात् स्वबहुमतिपात्रेषु नियतं  
 श्रियः कान्तो देवस्स खलु विनियुङ्क्ते चिदचितौ ।  
@@ -47,13 +47,13 @@ In this matter, if we examine the path of the pramāṇas, Iśvara, who has the 
 
 In addition to its causing pleasure to the śeṣī, the relationship of the jīva to Iśvara as His śeṣa is also mediately through the Bhāgavata. Therefore his service to the Lord may also be mediate through the Bhāgavata. This may be explained as follows:
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 नित्यं श्रिया समेतस्य भक्तैरात्मवतस्सदा ।  
 सह सद्वारकञ्च स्याच्छेषित्वं परमात्मनः ॥ ३६-अ  ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 नित्यं श्रिया समेतस्य भक्तैरात्मवतस्सदा ।  
 सह सद्वारकञ्च स्याच्छेषित्वं परमात्मनः ॥ ३६-अ  ॥
@@ -79,13 +79,13 @@ So also when each of the two Bhāgavatas is bent on promoting the glory (atisaya
 
 The relationship of being a servant (dása) to Bhagavān and Bhāgavatas owing to an appreciation of their qualities or character adds to one's delight or enjoyment and promotes one's own exaltation. In this, Iśvara, by His omnipotence and His will which accompanies it, enables all Bhāgavatas to become śeṣī s. Taking their desire also along with His own will, Iśvara makes them śeṣas to Bhāgavatas. Since both the Bhāgavatas stand in the relation of śeṣī s to each other as having been fit to be directed by the Master to do His will, both of them attain their true and essential nature (svarūpa). They attain the ultimate limit of their puruṣārtha or goal of life, since they attain the relationship of being śeṣas, which they are eager to have and also the privilege of rendering service to the Bhāgavata which follows from it. Since Iśvara delights in having directed them to become śeṣas and s'eshīs to each other, Iśvara attains the state of being an Iśvara or ruler and of being an enjoyer. Since they realise clearly that this relationship of being śeṣas and śeṣīs to each other contributes to the enjoyment (bhoga) of Iśvara, they attain the faultless and ultimate limit of puruṣārtha By those who have done what should be done (prapannas), who understand this subtle truth and are convinced of it, the grace of devotees who are exclusively and supremely attached to the Lord will be desired as an end in itself - devotees who are free from the following stains : the desire for transgressing the Lord's commands, excess of doubt, connection with other deities, enjoyment depending on one's own effort and enjoyment for one's own self.
 
-<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 वेदमऱिन्द पगवर् वियक्क विळङ्गिय सीर्  
 नादन् वगुत्त वगै पॆऱुनामवनल्लडियार्क्-
 </details>
 
-<details><summary>तमिऴ् - मूलम्</summary>
+<details><summary>मूलम् (त॰प॰)</summary>
 
 वेदमऱिन्द पगवर् वियक्क विळङ्गिय सीर्  
 नादन् वगुत्त वगै पॆऱुनामवनल्लडियार्क्-
@@ -96,7 +96,7 @@ The relationship of being a servant (dása) to Bhagavān and Bhāgavatas owing t
 
 We that accept the code of conduct prescribed by the Lord, whose auspicious qualities fill, with astonishment, Bhāgavatas who have understood the meaning of the Vedas - We conduct ourselves in such a way that we do not deviate from the righteous path ordained in the eternal Vedas in rendering service to His good devotees with extreme reverence to them.
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 नाथे नस्तृणमन्यदन्यदपि वा तन्नाभिनालीकिनी  
 नालीकस्पृहणीयसौरभमुचा वाचा न याचामहे ।  
@@ -104,7 +104,7 @@ We that accept the code of conduct prescribed by the Lord, whose auspicious qual
 मुक्तैश्वर्यदिनप्रभातसमयासत्तिं प्रसक्तिं मुहुः ॥ ३७ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 नाथे नस्तृणमन्यदन्यदपि वा तन्नाभिनालीकिनी  
 नालीकस्पृहणीयसौरभमुचा वाचा न याचामहे ।  

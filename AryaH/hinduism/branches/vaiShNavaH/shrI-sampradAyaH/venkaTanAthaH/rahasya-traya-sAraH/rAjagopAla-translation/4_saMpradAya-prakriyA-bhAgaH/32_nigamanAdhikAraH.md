@@ -9,7 +9,7 @@ title = "३२ निगमनाधिकारः"
 
 32. THE CONCLUDING CHAPTER. page640
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 करबदरितविश्वः कश्चिदाचार्यदृष्ट्या  
 मुषितनिखिलमोहो मूलमन्त्रादिभोगः ।  
@@ -17,7 +17,7 @@ title = "३२ निगमनाधिकारः"
 सुचरितसिलहारी सूरिबृन्दाभिनन्द्यः ॥ ७३ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 करबदरितविश्वः कश्चिदाचार्यदृष्ट्या  
 मुषितनिखिलमोहो मूलमन्त्रादिभोगः ।  
@@ -49,7 +49,7 @@ It is so dazzlingly bright that even the gods and asuras cannot gaze at it," “
 
 Thus (both) in the state of endeavour (upāya) and in the state of attainment, the holy feet of Nārāyaṇa, the Lord of Śrī, are our support.
 
-<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 उऱुसगडमुडैय वॊरु कालुट्रुणर्न्दन उडन्मरुदमॊडिय वॊरु पोदिट्रवऴ्न्दन उऱिदडवुमळवि लुरलूडुट्रु निण्ड्रन  
 उऱुनॆऱियोर् तरुमन्विडु तूदुक्कुगन्दन मऱनॆऱियर् मुऱियबिरदानत्तुवन्दन  
@@ -59,7 +59,7 @@ Thus (both) in the state of endeavour (upāya) and in the state of attainment, t
 विडलरिय पॆरियबॆरुमाळ् मॆय्प्पदङ्गळे. (49)
 </details>
 
-<details><summary>तमिऴ् - मूलम्</summary>
+<details><summary>मूलम् (त॰प॰)</summary>
 
 उऱुसगडमुडैय वॊरु कालुट्रुणर्न्दन उडन्मरुदमॊडिय वॊरु पोदिट्रवऴ्न्दन उऱिदडवुमळवि लुरलूडुट्रु निण्ड्रन  
 उऱुनॆऱियोर् तरुमन्विडु तूदुक्कुगन्दन मऱनॆऱियर् मुऱियबिरदानत्तुवन्दन  
@@ -71,13 +71,13 @@ Thus (both) in the state of endeavour (upāya) and in the state of attainment, t
 
 The feet of Śrī Raṅganātha, ever true to their devotees can never be given up; they were once awake to the danger from a mighty wheel (the forın taken by an asura) and hy touching it they made it break into pieces): on another occasion, they crawled on all fours and caused the two Maruda trees which grew close to each other to fall down; on the occasion of His searching (for butter) in the pots haṅgīng from above, they stood indistinguishable from the mortar to which they were bound (by Yasoda), (On a later day), they gladly consented to go on the mission assigned to them by the virtuous Dharmaputra; they came to Brindavan to bring about the destruction of the wicked asuras; while gently stroked by the hand of Lakṣmī, they became red like the petals of the lotus; they were favourable to the devotion shown by the great sages who wanted freedom from the bondage of births; they rested in a wonderful vimana (having a resemblance to praṇava), which was an object of worship to kings of the race of Manu; they shone in the chariot of the righteous Arjuna during the great war; they were inflamed with wrath when they danced on the cruel hoods of the serpent, Kaliya, and made them break down; they rested in a region (Paramapada) that could not be (even) imagined by the six systems of philosophical thought; they became the subjects of praise in the tongue of the Alvar (Nammalvar), who was the glory of the beautiful city of Kurugai; they had, for ornaments, the fragrant flowers of Tulasi; they showed their glory by graciously transforming the fallen piece of charcoal into a child (Parikṣit); they chased the armies of the asuras to their destruction.
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 इति यतिराजमहानसपरिमळपरीवाहवासितां पिबत ।  
 विबुधपरिषन्निषेव्यां वेदान्तोदयनसंप्रदायसुधाम् ॥ ७४ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 इति यतिराजमहानसपरिमळपरीवाहवासितां पिबत ।  
 विबुधपरिषन्निषेव्यां वेदान्तोदयनसंप्रदायसुधाम् ॥ ७४ ॥
@@ -87,19 +87,19 @@ Imbibe the nectar of spiritual tradition which has come down from the Udayana of
 
 [^124]: Kidambi Achan, the disciple of Śrī Rāmānuja, was in charge of the kitchen during his ācārya's life-time
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 कलकण्ठगणास्वाद्ये कामस्यास्त्रे निजाङ्कुरे । निंबवृत्तिभिरुद्गीर्णे न चूतः परितप्यते ॥ ७५ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 कलकण्ठगणास्वाद्ये कामस्यास्त्रे निजाङ्कुरे । निंबवृत्तिभिरुद्गीर्णे न चूतः परितप्यते ॥ ७५ ॥
 </details>
 
 When its sprouts which were relished by quails and which are (said to be) the arrows of the god kama are vomited by such animals as feed on margosa leaves, the mango tree does not feel aggrieved.
 
-<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 मुन्बॆट्र ञानमुमोगन्दुऱक्किलुमूण्ड्रुरैयिल्  
 तन्बट्र तन्मैयुन् दाऴ्न्दवर्क्कीयुन् दनित्तगवुम्  
@@ -107,7 +107,7 @@ When its sprouts which were relished by quails and which are (said to be) the ar
 सिन्बट्रियॆन्बयन् सीरऱिवोर्क्किवै सॆप्पिनमे. (50)
 </details>
 
-<details><summary>तमिऴ् - मूलम्</summary>
+<details><summary>मूलम् (त॰प॰)</summary>
 
 मुन्बॆट्र ञानमुमोगन्दुऱक्किलुमूण्ड्रुरैयिल्  
 तन्बट्र तन्मैयुन् दाऴ्न्दवर्क्कीयुन् दनित्तगवुम्  
@@ -117,7 +117,7 @@ When its sprouts which were relished by quails and which are (said to be) the ar
 
 Of what avail is anger towards those Vedic scholars who teach the knowledge which they have of the truths, and the way of casting off illusions and errors, as also the nature of the self (as the śeṣa of the Lord), the unique compassion of the Lord shown to those who are destitute of upāyas, and the carefree state arising from holding on to the Lord as a refuge as taught in the three mysteries (mantras)? We have spoken (thus far) to those who can appreciate excellence.
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 निर्विष्टं यतिसार्वभौमवचसामावृत्तिभिर्यौवनं  
 निर्धूतेतरपारतन्त्र्य निरया नीतास्सुखं वासराः ।  
@@ -125,7 +125,7 @@ Of what avail is anger towards those Vedic scholars who teach the knowledge whic
 शेषायुष्यपि शेषिदंपतिदयादीक्षामुदीक्षामहे ॥ ७६ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 निर्विष्टं यतिसार्वभौमवचसामावृत्तिभिर्यौवनं  
 निर्धूतेतरपारतन्त्र्य निरया नीतास्सुखं वासराः ।  
@@ -135,13 +135,13 @@ Of what avail is anger towards those Vedic scholars who teach the knowledge whic
 
 Our youth has been spent in the enjoyment resulting from repetitions of the words of that prince of Sannyasins (Śrī Rāmānuja). Our days have been lived in happiness by casting off the hell of depending on any others (than the Lord); the arrogance of those who are perverse has also been annihilated for the satisfaction of good men; and for the rest of our life, we shall be earnestly and constantly looking up to the realisation of the vow of compassion taken by that divine couple for the fulfilment of whose purposes alone we exist.
 
-<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 सॆप्पच्चॆविक्कमुदॆन्नत्तिगऴुञ्जॆऴुङ्गुणत्तुत् तप्पट्रवर्क्कुत् तामे युगन्दु तरुन्दगवाल्  
 ऒप्पट्र नान् मऱैयुळ्ळक्करुत्तिलुऱैत्तुरैत्त मुप्पत्तिरण्डिवै मुत्तमिऴ्सेर्न्दमॊऴित्तिरुवे. (51)
 </details>
 
-<details><summary>तमिऴ् - मूलम्</summary>
+<details><summary>मूलम् (त॰प॰)</summary>
 
 सॆप्पच्चॆविक्कमुदॆन्नत्तिगऴुञ्जॆऴुङ्गुणत्तुत् तप्पट्रवर्क्कुत् तामे युगन्दु तरुन्दगवाल्  
 ऒप्पट्र नान् मऱैयुळ्ळक्करुत्तिलुऱैत्तुरैत्त मुप्पत्तिरण्डिवै मुत्तमिऴ्सेर्न्दमॊऴित्तिरुवे. (51)
@@ -149,19 +149,19 @@ Our youth has been spent in the enjoyment resulting from repetitions of the word
 
 These thirty-two Tamil verses, which, when recited, are like nectar to the ears (that hear them), which explain clearly, the truths that lie deep within the four Vedas the like of which cannot be seen elsewhere and which became possible only owing to the compassion of thoseācāryas who delight, of their own accord, to impart instruction to śiṣyas, when they find in them integrity of character and freedom from faults like envy ---- these thirty-two verses form an ornament to this treatise by virtue of these three qualities viz., their beautiful diction, their wealth of ideas and their fitness for being sung.
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 आस्तिक्यवान्निशितबुद्धिरनभ्यसूयुस्सत्संप्रदायपरिशुद्धमनास्सदर्थी । सङ्केतभीतिरहितस्सतृणेष्वसक्तस्सद्वर्तनीमनुविधास्यति शाश्वतीन्नः ॥ ७७ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 आस्तिक्यवान्निशितबुद्धिरनभ्यसूयुस्सत्संप्रदायपरिशुद्धमनास्सदर्थी । सङ्केतभीतिरहितस्सतृणेष्वसक्तस्सद्वर्तनीमनुविधास्यति शाश्वतीन्नः ॥ ७७ ॥
 </details>
 
 There will be found someone (or other) who has faith in religion, who is keen of intellect and (at the same time) free from envy, whose mind has become pure by following the righteous tradition of good men, whose aim is to attain the highest goal, who is not afraid of conventional judgments and who would look upon wealth and worldly success as if they were mere trash - He will certainly follow the virtuous path (which is described in this treatise) and which will never become obsolete.
 
-<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 मऱैयुरैक्कुम् पॊरुळॆल्ला मॆय्यॆण्ड्रोर्वार्  
 मन्निय कूर्मदियुडैयार् वण्गुणत्तिल्  
@@ -170,7 +170,7 @@ There will be found someone (or other) who has faith in religion, who is keen of
 चिऱैवळर्क्कुञ् जिलमान्दर् सङ्गेदत्ताऱ्‌
 </details>
 
-<details><summary>तमिऴ् - मूलम्</summary>
+<details><summary>मूलम् (त॰प॰)</summary>
 
 मऱैयुरैक्कुम् पॊरुळॆल्ला मॆय्यॆण्ड्रोर्वार्  
 मन्निय कूर्मदियुडैयार् वण्गुणत्तिल्  
@@ -185,7 +185,7 @@ There will be found someone (or other) who has faith in religion, who is keen of
 
 Those who have faith in the truths revealed in the Vedas, who have keepness of intellect, who would never think of speaking in depreciation of real merit, whose minds have become pure by the training which they have received from their gurus, who have lofty aims, who, being firm of mind, would never swerve from the right path owing to the fear of perverted judgements and who would never care for what is worthless -- these men will enter the righteous path which will never become obsolete and which has been indicated by our pure-minded ācāryas who had inore forbearance than even the Earth.
 
-<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 इदुवऴि यिन्नमुदॆण्ड्रवरिन्बुलन् वेऱिडुवार्  
 इदुवऴिया मलवॆण्ड्रऱिवा रॆङ्गडेसिगरे  
@@ -193,7 +193,7 @@ Those who have faith in the truths revealed in the Vedas, who have keepness of i
 इदुवऴि यामऱैयोररुळाल् यामिसै न्दनमे. (53)
 </details>
 
-<details><summary>तमिऴ् - मूलम्</summary>
+<details><summary>मूलम् (त॰प॰)</summary>
 
 इदुवऴि यिन्नमुदॆण्ड्रवरिन्बुलन् वेऱिडुवार्  
 इदुवऴिया मलवॆण्ड्रऱिवा रॆङ्गडेसिगरे  
@@ -203,7 +203,7 @@ Those who have faith in the truths revealed in the Vedas, who have keepness of i
 
 "Our ācāryas will say :-- "This is the right path" and will look upon (this treatise) as being delicious like nectar; they can show how the pleasures of the senses are mean and are different from the righteous way (that is described in this treatise). Owing to their desire that the path indicated here should prevail, they will overlook any mistakes of ours that may be found (in the book). We have, by the grace of our ācāryas, accepted this as the proper way.
 
-<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 ऎट्टुमिरण्डु मऱियादवॆम्मै यिवैयऱिवित्  
 तॆट्टवॊण्णाद विडन्दरु मॆङ्गळम्मादवनार्  
@@ -211,7 +211,7 @@ Those who have faith in the truths revealed in the Vedas, who have keepness of i
 कट्टॆऴिल् वासगत्ताऱ्‌ कलङ्गा निलै पॆट्रनमे. (54)
 </details>
 
-<details><summary>तमिऴ् - मूलम्</summary>
+<details><summary>मूलम् (त॰प॰)</summary>
 
 ऎट्टुमिरण्डु मऱियादवॆम्मै यिवैयऱिवित्  
 तॆट्टवॊण्णाद विडन्दरु मॆङ्गळम्मादवनार्  
@@ -223,7 +223,7 @@ I was so ignorant that I did not know even that eight and two make ten[^125] * ;
 
 [^125]: it may mean also 'I did not know the Dvaya (the two) nor did I know the aṣṭākṣara (the eight )
 
-<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 वानुळमर्न्दवरुक्कु वरुन्दवरुमिन्निलैगळ्  
 तानुळनायुगक्कुन्दर मिङ्गु नमक्कुळदे  
@@ -231,7 +231,7 @@ I was so ignorant that I did not know even that eight and two make ten[^125] * ;
 तेनुळबादमलर्त् तिरुमालुक्कुत् तित्तिक्कुमे. (55)
 </details>
 
-<details><summary>तमिऴ् - मूलम्</summary>
+<details><summary>मूलम् (त॰प॰)</summary>
 
 वानुळमर्न्दवरुक्कु वरुन्दवरुमिन्निलैगळ्  
 तानुळनायुगक्कुन्दर मिङ्गु नमक्कुळदे  
@@ -241,12 +241,12 @@ I was so ignorant that I did not know even that eight and two make ten[^125] * ;
 
 These states of mind in regard to one's essential nature, the upāyas and the end to be attained (which are explained in this treatise) and which are understood only with effort by even those who are in Paramapada are indeed possible of attainment even here in this world of saṁsāra. This treatise, though decried by perverse minds bent (only) on finding faults, will be found sweet by the Supreme Ruler whose lotus-like feet overflow with honey.
 
-<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 वॆळ्ळैप्परिमुगर् तेसिगराय् विरगालडियो-
 </details>
 
-<details><summary>तमिऴ् - मूलम्</summary>
+<details><summary>मूलम् (त॰प॰)</summary>
 
 वॆळ्ळैप्परिमुगर् तेसिगराय् विरगालडियो-
 </details>
@@ -258,12 +258,12 @@ These states of mind in regard to one's essential nature, the upāyas and the en
 
 The Lord whose face resembles that of a white horse (Hayagrīva) assumed the form of myācārya and, by that device, wrote these truths in my mind and I have (only) transcribed them on these leaves. The part played by me is none other than this. Whether this treatise is accepted as worthy or rejected as unworthy, my clear mind, ( men of critical minds, will feel neither elated nor depressed in the least.
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 रहस्यत्रयसारोऽयं वेङ्कटेशविपश्चिता । शरण्यदंपतिविदां सम्मतस्समगृह्यत ॥ ७८ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 रहस्यत्रयसारोऽयं वेङ्कटेशविपश्चिता । शरण्यदंपतिविदां सम्मतस्समगृह्यत ॥ ७८ ॥
 </details>

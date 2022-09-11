@@ -9,7 +9,7 @@ title = "२९ चरमश्लोकाधिकारः"
 
 THE CHAPTER ON THE CARAMA ŚLOKA.  page524
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 य उपनिषदामन्ते यस्मादनन्तदयांबुधेः  
 त्रुटितजनताशोकश्श्लोकस्स्वयं समजायत ।  
@@ -21,7 +21,7 @@ THE CHAPTER ON THE CARAMA ŚLOKA.  page524
 सत्पाथेयं किमपि विदधे सारथिस्सर्वनेता ॥ ६७ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 य उपनिषदामन्ते यस्मादनन्तदयांबुधेः  
 त्रुटितजनताशोकश्श्लोकस्स्वयं समजायत ।  
@@ -39,7 +39,7 @@ THE CHAPTER ON THE CARAMA ŚLOKA.  page524
 
 (2) Many are the paths prescribed (in the śrutis) (Karma yoga, Jñāna yoga and Bhakti yoga), they are hard to understand and impossible of adoption owing to the restrictions and observances enjoined for them; the fruit to be attained by pursuing them is at too great a distance and (above all) they are unsuitable for simple folk (destitute of intelligence and ability) to us who feel anxious on these accounts, (He who is) the easy highway, the charioteer and the guide of all men, has, by His grace, enjoined certain victuals (the carama śloka) for the journey in order to lead us to His own feet without any hindrances.
 
-<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 ऒण्डॊडियाळ् तिरुमगळुन्दानुमागि यॊरुनिनैवा  
 लीण्ड्र वुयिरॆल्लामुय्य  
@@ -49,7 +49,7 @@ THE CHAPTER ON THE CARAMA ŚLOKA.  page524
 निण्ड्र कण्बुदैयल् विळैयाट्टैक् कऴिक्किण्ड्राने. ॥ 41 ॥
 </details>
 
-<details><summary>तमिऴ् - मूलम्</summary>
+<details><summary>मूलम् (त॰प॰)</summary>
 
 ऒण्डॊडियाळ् तिरुमगळुन्दानुमागि यॊरुनिनैवा  
 लीण्ड्र वुयिरॆल्लामुय्य  
@@ -129,7 +129,7 @@ Therefore the proper interpretation of the vidhi (if it be taken as vidhi) enjoi
 
 Even in this view that parityajya indicates a vidhi or injunction to give up, the person competent for prapatti is one who is incapable of other upāyas, or one who, though capable of other upāyas, is too impatient to endure the delay in attaining the fruit (which the other upāyas might entail). If we take this view, it will not be against any of the pramāṇas (viz. those which enjoin the rites of the varṇas and āśramas, and those which enjoin bhakti  yoga and the like). Former ācāryas did not discuss the point whether or not the giving up of all dharmas in their essential forn is an aṅga of prapatti. Their discussions were confined only to the question of which words in the carama śloka respectively indicated the qualification necessary for prapatti viz. that of being destitute of other upāyas and which words the idea that prapatti did not require (any aṅga or accessory).
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 अधिकारं पुरस्कृत्योपायस्य निरपेक्षताम् ।  
 एकशब्देन वक्तीति केचिद्वाक्यविदो विदुः ॥  
@@ -141,7 +141,7 @@ Even in this view that parityajya indicates a vidhi or injunction to give up, th
 तत्तु श्रीविष्णुचित्ताद्यैर्निर्मूलमिति दर्शितम् ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 अधिकारं पुरस्कृत्योपायस्य निरपेक्षताम् ।  
 एकशब्देन वक्तीति केचिद्वाक्यविदो विदुः ॥  
@@ -167,7 +167,7 @@ Therefore prapatti may be adopted by (1) those who do not know of other upāyas 
 
 Vyasa and others who held administrative offices (under the Lord) could brook delay and were also capable of the other upāya (i.e.) upāsana. Therefore it is that they adopted upāsana and not because they were wanting in knowledge or in faith. (Those who hold administrative offices must serve their full period before thinking of attainment.)
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 अशक्तस्यातिकृच्छ्रेषु दुराशादार्ढ्यशालिनः ।  
 कस्यचिद्बुद्धिदौर्बल्यं लघुत्यागस्य कारणम् ॥  
@@ -175,7 +175,7 @@ Vyasa and others who held administrative offices (under the Lord) could brook de
 व्यासादिषु तु नैवैषा नीतिस्संशयघातिषु ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 अशक्तस्यातिकृच्छ्रेषु दुराशादार्ढ्यशालिनः ।  
 कस्यचिद्बुद्धिदौर्बल्यं लघुत्यागस्य कारणम् ॥  
@@ -193,7 +193,7 @@ But it may be asked by some:-“Even if it is admitted that the giving up of the
 
 It may be argued that, in regard to accessory activity, there need not be fullness or perfection of performance and that some short-comings might be allowed therein ; but this argument is not sound. Has it not been stated:-"A rite or observance performed for the attainment of a certain fruit will yield the desired fruit, only when all the accessory rites or aṅgas are duly performed?" (Pūrva Mīmāmsā).
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 अतस्स्वरूपत्यागोक्तौ कैङ्कर्यस्यापचारता ।  
 उपायत्वमतित्यागे तत्स्वरूपाङ्गता भवेत् ॥  
@@ -205,7 +205,7 @@ It may be argued that, in regard to accessory activity, there need not be fullne
 उपायस्य प्रभावश्च कैङ्कर्यादि च सुस्थिरम् ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 अतस्स्वरूपत्यागोक्तौ कैङ्कर्यस्यापचारता ।  
 उपायत्वमतित्यागे तत्स्वरूपाङ्गता भवेत् ॥  
@@ -237,13 +237,13 @@ CONCLUSION: page543
 
 Therefore, as neither the performance of these dharmas nor their giving up is an aṅga to prapatti; to be without the desire to do what is beyond one's ability is a mark of competency (for prapatti). The performance of those duties or rites which are nitya and naimittika and which are within the range of one's ability takes rank as mere service consisting in the observance of a command,
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 सङ्कल्पमात्रमेवाङ्गं श्रुतमाचरणं पुनः ।  
 अनङ्गमाज्ञया प्राप्तं न सङ्कल्पनिबन्धनम् ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 सङ्कल्पमात्रमेवाङ्गं श्रुतमाचरणं पुनः ।  
 अनङ्गमाज्ञया प्राप्तं न सङ्कल्पनिबन्धनम् ॥
@@ -271,7 +271,7 @@ It is true that, as for those in the āśrama of the Sannyasin, to whom certain 
 
 Such injunctions as the following :-"Therefore the mantra called aṣṭākṣara should be repeated at the time of the sandhya, by pure-minded devotees of mine always in order to purify their selves", and "uttering the Dvaya always in this manner with its meaning at heart" in the Gadya - these instructions should be carried out without any conflict with the performance of the rites nitya and naimittika) which are compulsory of performance and at such times as are left over after their performance, Nārada and others have also stated:-“The japa (namely, the repetition of Aṣṭākṣara) should be performed at such times as do not conflict with the performance of rites ordained in the śrutis and the smṛtis." Vaṅgīpuram Nambi, too, has said: -" Having spent your time in performing the homa in rites like Agnihotra etc" Even in his last days, the author of Śrī Bhāṣya stood up with great difficulty and offered the anjali of water at the time of sandhyā. Therefore giving up the rites of the varṇas and the āśramas on the pretext that they are dependent on the upadhi of the body is opposed to such things as the traditional observances of the ancients. If this pretext were sound, since even such special forms of service (in temples) as the weaving of garlands and the lighting of lamps cannot be performed without the upādhi (or conditioning factor) of the body, the senses and the like-even these would have to be given up (by the man who has realised his essential nature (svarūpa). If the perforınance of such services is desired, the external purity (āchāra) and the purificatory rites (samskāras) which qualify (a person) for such service, cannot be given up.
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 आहारग्रहमन्त्रार्थजात्यादि नियमैर्युतः ।  
 कुर्याल्लक्ष्मीशकैङ्कर्यं शक्त्यानन्यप्रयोजनः ॥  
@@ -297,7 +297,7 @@ Such injunctions as the following :-"Therefore the mantra called aṣṭākṣar
 भक्तम्लेच्छादिपूजोक्तिरेवमेव नियम्यताम् ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 आहारग्रहमन्त्रार्थजात्यादि नियमैर्युतः ।  
 कुर्याल्लक्ष्मीशकैङ्कर्यं शक्त्यानन्यप्रयोजनः ॥  
@@ -345,7 +345,7 @@ Some (people) who cannot understand the purport of certain episodes (in the Itih
 
 These reservations and restrictions are established also by the practice of successive generations of men accepted on all hands as wise and virtuous. Therefore the performance of the Lord's service along with the observance of the regulations enjoined for the respective castes and āśramas is not opposed to the state of supreme and exclusive devotion to the Lord (paramaikāntitva).
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 साक्षाल्लक्ष्मीपतावेव कृतं कैङ्कर्यमञ्जसा ।  
 सारकल्कविभागेन द्विधा सद्भिरुदीर्यते ॥  
@@ -355,7 +355,7 @@ These reservations and restrictions are established also by the practice of succ
 प्रयोजनान्तरार्थं वा कैङ्कर्यं कल्क इष्यते ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 साक्षाल्लक्ष्मीपतावेव कृतं कैङ्कर्यमञ्जसा ।  
 सारकल्कविभागेन द्विधा सद्भिरुदीर्यते ॥  
@@ -377,13 +377,13 @@ reaches the feet of the God of gods. The rites performed by wise men who have su
 
 The rites, nitya and naimittika, which are performed in this way as commandments of the Lord (ājñā) and those valuable services which are rendered by a man for the pleasure of the Lord as those approved by Him (anujñā) - these have no connection with prapatti and this is declared by the injunction contained in the word parityajya (having given up) (in the carama śloka ).
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 अतश्शक्यानि सर्वाणि न प्रपत्त्यर्थमाचरेत् ।  
 अशक्येषु च सामर्थ्यं न तदर्थं समार्जयेत् ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 अतश्शक्यानि सर्वाणि न प्रपत्त्यर्थमाचरेत् ।  
 अशक्येषु च सामर्थ्यं न तदर्थं समार्जयेत् ॥
@@ -395,7 +395,7 @@ According to this interpretation ( of the word parityajya in the Carama śloka )
 
 There are some other ways of interpreting the word (parityajya) without treating the injunction regarding 'giving up' as having no authority :
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 आत्माशक्यवृथायास निवारणमिहापि वा ।  
 लज्जापुरस्सरत्यागवादोऽप्यत्र नियम्यताम् ॥  
@@ -405,7 +405,7 @@ There are some other ways of interpreting the word (parityajya) without treating
 तन्मुखेनापि वाऽत्रेष्टं ब्रह्मास्त्रन्यायसूचनम् ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 आत्माशक्यवृथायास निवारणमिहापि वा ।  
 लज्जापुरस्सरत्यागवादोऽप्यत्र नियम्यताम् ॥  
@@ -429,7 +429,7 @@ There are some other ways of interpreting the word (parityajya) without treating
 
 3. If a man were to adopt one of the upāyas (other than prapatti) which are left open to the option (of the aspirant to mukti), it says to him that, by the principle of the Brahma missile, it would conflict with the effectiveness of prapatti.
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 अतोऽशक्ताधिकारत्वमाकिञ्चन्यपुरस्क्रिया ।  
 अनङ्गभावो धर्माणामशक्यारंभवारणम् ॥  
@@ -439,7 +439,7 @@ There are some other ways of interpreting the word (parityajya) without treating
 उपासकेऽपि तुल्यत्वादिह सा न विशेषिका ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 अतोऽशक्ताधिकारत्वमाकिञ्चन्यपुरस्क्रिया ।  
 अनङ्गभावो धर्माणामशक्यारंभवारणम् ॥  
@@ -469,7 +469,7 @@ The interpretation (which is given by some) that what is asked to be given up is
 
 "The giving "up of upāyas" stated in such passages as the following :-One should give up the upāyas and also the apāyas (those activities that are forbidden )" should also be interpreted in the same way.
 
-(<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
+(<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 मूण्डालु मरियदनिन् मुयलवेण्डा मुन्नमदिलासैदनै विडुगै तिण्मै  
 वेण्डादु सरणनॆऱि वेऱोर्गूट्टु वेण्डि लयनत्तिरम्बोल् वॆळ्गि निऱ्‌कुम्  
@@ -477,7 +477,7 @@ The interpretation (which is given by some) that what is asked to be given up is
 पूण्डा लुन्बिऴैगळॆल्लाम् पॊऱुप्पेनॆण्ड्र पुण्णियनार् पुगऴनैत्तुम् पुगऴुवोमे. || 42 ||
 </details>
 
-<details><summary>तमिऴ् - मूलम्</summary>
+<details><summary>मूलम् (त॰प॰)</summary>
 
 मूण्डालु मरियदनिन् मुयलवेण्डा मुन्नमदिलासैदनै विडुगै तिण्मै  
 वेण्डादु सरणनॆऱि वेऱोर्गूट्टु वेण्डि लयनत्तिरम्बोल् वॆळ्गि निऱ्‌कुम्  
@@ -493,7 +493,7 @@ IN THE CARAMA ŚLOKA:-- page559
 
 As stated in the context in the Gita, which describes the secret of avatāra or incarnation and that in which Śrī Kṛṣṇa” declares Himself as (Puruṣottama), the primary aim of the words mām (me) and aham (I) (in the carama s'loka) is to disclose (Bhagavān's) easy accessibility and His absolute independence (and omnipotence) respectively.
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 अवतारस्य सत्यत्वमजहत्स्वस्वभावता ।  
 शुद्धसत्वमयत्वञ्च स्वेच्छामात्रनिदानता ॥  
@@ -501,7 +501,7 @@ As stated in the context in the Gita, which describes the secret of avatāra or 
 इति जन्मरहस्यं यो वेत्ति नास्य पुनर्भवः ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 अवतारस्य सत्यत्वमजहत्स्वस्वभावता ।  
 शुद्धसत्वमयत्वञ्च स्वेच्छामात्रनिदानता ॥  
@@ -513,7 +513,7 @@ He who knows the secret of incarnation to consist in its being real, in the inca
 
 This knowledge of the secret of incarnation is required for the bhakta, who has prapatti as an aṅga, to complete and perfect his upāya. To the man who has adopted prapatti as the direct and independent means, it reveals the easy accessibility of the omnipotent and independent Lord. The accessibility and omnipotence which are declared in these two contexts are complementary to each other,
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 स्वतन्त्रस्यापि नैव स्यादाश्रयो दुर्लभस्य तु ।  
 अस्वतन्त्रात्फलन्नस्यात्सुलभादाश्रितादपि ॥  
@@ -521,7 +521,7 @@ This knowledge of the secret of incarnation is required for the bhakta, who has 
 दुर्लभे साध्यमप्येतन्न हृद्यं लोकनीतितः ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 स्वतन्त्रस्यापि नैव स्यादाश्रयो दुर्लभस्य तु ।  
 अस्वतन्त्रात्फलन्नस्यात्सुलभादाश्रितादपि ॥  
@@ -575,13 +575,13 @@ If parityajya is interpreted to mean that there is nothing else required for pra
 
 If it be asked why the word eka should be used as an adjective of the Saviour, when (properly speaking), it should qualify prapatti (so that it might mean that prapatti alone is necessary without any ancillary dharmas), the answer is as follows: The words, mām ekam (me alone) are employed to show that, in the case of the man destitute of other upāyas, these ancillary dharmas other than prapatti are in no way connected with the Saviour as the means of propitiating Him. (6) It is also stated by some (commentators) that, as in the first half of the śloka we find the words sarva dharmān (all dharmas) and in the second half the word sarva pāpebhyo (from all sins), the word eka stands here as the counterpart or counterpoise to the world all. If this be admitted, then the gist of the carama śloka would be:
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 सुदुष्करेण शोचेद्यो येनयेनेष्टहेतुना ।  
 स स तस्याहमेवेति चरमश्लोकसंग्रहः ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 सुदुष्करेण शोचेद्यो येनयेनेष्टहेतुना ।  
 स स तस्याहमेवेति चरमश्लोकसंग्रहः ॥
@@ -609,7 +609,7 @@ THE WORD EKA  page575
 
 
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 प्राप्यस्यैव प्रापकत्वं स्वप्राधान्यनिवारणम् ।  
 प्रपत्तेर्व्याजमात्रत्वमन्योपायैरनन्वयः ॥  
@@ -635,7 +635,7 @@ THE WORD EKA  page575
 पत्नीविशिष्ट एवैकः प्रपत्तव्य इहोदितः ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 प्राप्यस्यैव प्रापकत्वं स्वप्राधान्यनिवारणम् ।  
 प्रपत्तेर्व्याजमात्रत्वमन्योपायैरनन्वयः ॥  
@@ -734,7 +734,7 @@ Since the dharma called śaraṇāgati can rightly be enjoined for performance, 
 
 
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 अन्यविश्वाससिद्ध्यर्थं भक्त्युपायविधिं वदन् ।  
 सर्वशास्त्रेष्वविश्वासमाधत्ते मुखभेदतः ॥  
@@ -742,7 +742,7 @@ Since the dharma called śaraṇāgati can rightly be enjoined for performance, 
 अहङ्कारान्वये तु स्यात् प्रपत्तावपि भक्तिवत् ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 अन्यविश्वाससिद्ध्यर्थं भक्त्युपायविधिं वदन् ।  
 सर्वशास्त्रेष्वविश्वासमाधत्ते मुखभेदतः ॥  
@@ -768,13 +768,13 @@ In the Upaniṣads, it is stated that the aspirant to mukti should be like a chi
 
 
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 उपभुक्तौषधन्यायादुत्तरापथ्यमर्दनम् ।  
 अनन्यपरनिर्बाधश्रुतिस्मृतिशतैर्हतम् ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 उपभुक्तौषधन्यायादुत्तरापथ्यमर्दनम् ।  
 अनन्यपरनिर्बाधश्रुतिस्मृतिशतैर्हतम् ॥
@@ -795,7 +795,7 @@ If this is admitted, the knowledge of the relationship between the jīva and Iś
 
 
 
-<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 सादनमु नऱ्‌पयनु नाने यावन्  
 सादगनु मॆन्वसमा यॆन्नैप् पट्रुम्  
@@ -806,7 +806,7 @@ If this is admitted, the knowledge of the relationship between the jīva and Iś
 चोगन्दीरॆन वुरैत्तान् सूऴ्गिण्ड्राने. // 43 //
 </details>
 
-<details><summary>तमिऴ् - मूलम्</summary>
+<details><summary>मूलम् (त॰प॰)</summary>
 
 सादनमु नऱ्‌पयनु नाने यावन्  
 सादगनु मॆन्वसमा यॆन्नैप् पट्रुम्  
@@ -887,13 +887,13 @@ It is not possible to argue, with any certainty, that the varied sufferings whic
 
 
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 विवेकिनां प्रपन्नानां धीपूर्वाघस्यनुद्यमः ।  
 मध्यानामनुतापादिश्शिक्षा कठिनचेतसाम् ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 विवेकिनां प्रपन्नानां धीपूर्वाघस्यनुद्यमः ।  
 मध्यानामनुतापादिश्शिक्षा कठिनचेतसाम् ॥
@@ -907,13 +907,13 @@ Therefore in order that there may be no punishment of any kind, one should guard
 
 
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 प्रीतिमेव समुद्दिश्य स्वतंत्राज्ञानुपालने ।  
 निग्रहानुदयोप्यस्य नान्तरीयक एव वा ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 प्रीतिमेव समुद्दिश्य स्वतंत्राज्ञानुपालने ।  
 निग्रहानुदयोप्यस्य नान्तरीयक एव वा ॥
@@ -927,7 +927,7 @@ If a prapanna should try, as much as it lies in his power, to avoid offences, he
 
 
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 ब्रह्मवित्पापवर्गाणाम् अनन्तानां महीयसाम् ।  
 तद्वेषिसंक्रमं जानन् त्रस्येत्तदपराधतः ॥  
@@ -935,7 +935,7 @@ If a prapanna should try, as much as it lies in his power, to avoid offences, he
 वोढुमीश्वरकृत्यानि तद्विरोधादभीप्सति ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 ब्रह्मवित्पापवर्गाणाम् अनन्तानां महीयसाम् ।  
 तद्वेषिसंक्रमं जानन् त्रस्येत्तदपराधतः ॥  
@@ -1104,7 +1104,7 @@ There are some commentators) who hold that "Do not grieve" enjoins something to 
 
 
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 बन्धुनाशादयः पूर्वं बहवश्शोकहेतवः ।  
 तत्तत्समुचितैस्सम्यगुपदेशैरपोदिताः ॥  
@@ -1112,7 +1112,7 @@ There are some commentators) who hold that "Do not grieve" enjoins something to 
 सिद्धः फलविळंबाच्च शोकोऽद्य विनिवार्यते ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 बन्धुनाशादयः पूर्वं बहवश्शोकहेतवः ।  
 तत्तत्समुचितैस्सम्यगुपदेशैरपोदिताः ॥  
@@ -1163,7 +1163,7 @@ The words "Do not grieve" are, themselves, an indication of the cancellation of 
 
 
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 प्रायश्चित्तविशेषेषु सर्वस्वारादिकेषु च ।  
 नात्महिंसनदोषोऽस्ति तथार्तशरणागतौ ॥  
@@ -1171,7 +1171,7 @@ The words "Do not grieve" are, themselves, an indication of the cancellation of 
 प्राणरक्षणशास्त्रार्थलङ्घनं त्वपराधनम् ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 प्रायश्चित्तविशेषेषु सर्वस्वारादिकेषु च ।  
 नात्महिंसनदोषोऽस्ति तथार्तशरणागतौ ॥  
@@ -1282,13 +1282,13 @@ CARAMA ŚLOKA:--  page622
 
 
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 एकं सर्वप्रदं धर्मं श्रिया जुष्टं समाश्रितैः ।  
 अपेतशोकैराचार्यैरयं पन्थाः प्रदर्शितः ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 एकं सर्वप्रदं धर्मं श्रिया जुष्टं समाश्रितैः ।  
 अपेतशोकैराचार्यैरयं पन्थाः प्रदर्शितः ॥
@@ -1298,7 +1298,7 @@ This path (prapatti) has been disclosed (to us) byācāryas who resorted to that
 
 
 
-<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 कुऱिप्पुडन् मेवुन् दरुमङ्गळिण्ड्रि यक्कोवलनार्  
 वॆऱित्तुळवक्कऴल् मॆय्यरणॆण्ड्रु विरैन्दडैन्दु  
@@ -1306,7 +1306,7 @@ This path (prapatti) has been disclosed (to us) byācāryas who resorted to that
 मऱिप्पुडै मन्नरुळ् वासगत्तान् मरुळट्रनमे. ( 45 )
 </details>
 
-<details><summary>तमिऴ् - मूलम्</summary>
+<details><summary>मूलम् (त॰प॰)</summary>
 
 कुऱिप्पुडन् मेवुन् दरुमङ्गळिण्ड्रि यक्कोवलनार्  
 वॆऱित्तुळवक्कऴल् मॆय्यरणॆण्ड्रु विरैन्दडैन्दु  
@@ -1318,7 +1318,7 @@ Giving up those dharmas which have to be performed with extreme care, we were co
 
 
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 व्यासाम्नायपयोधिकौस्तुभनिभं हृद्यं हरेरुत्तमं श्लोकं  
 केचन लोकवेदपदवी विश्वासितार्थं विदुः ।  
@@ -1326,7 +1326,7 @@ Giving up those dharmas which have to be performed with extreme care, we were co
 वैशंपायनशौनकप्रभृतयः श्रेष्ठाश्शिरःकम्पिनः ॥ ६८ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 व्यासाम्नायपयोधिकौस्तुभनिभं हृद्यं हरेरुत्तमं श्लोकं  
 केचन लोकवेदपदवी विश्वासितार्थं विदुः ।  

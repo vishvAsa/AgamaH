@@ -7,7 +7,7 @@ title = "०३ प्रधानप्रतितन्त्राधिक�
 
 3. THE CHAPTER ON THE MOST IMPORTANT AND DISTINCTIVE DOCTRINE THAT IS UNIQUE TO VIŚIṢṬĀDVAITA. page81
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 आधेयत्व-प्रभृति-नियमैरादिकर्तुश्शरीरं  
 सत्ता-स्थेम-प्रयतन-फलेष्वेतदायत्तमेतत् ।  
@@ -15,7 +15,7 @@ title = "०३ प्रधानप्रतितन्त्राधिक�
 गंभीराणामकृतकगिरां गाहते चित्तवृत्तिम् ॥ १० ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 आधेयत्व-प्रभृति-नियमैरादिकर्तुश्शरीरं  
 सत्ता-स्थेम-प्रयतन-फलेष्वेतदायत्तमेतत् ।  
@@ -99,7 +99,7 @@ In these mysteries Iśvara is disclosed as the śeṣī (i.e.) as one for whom e
 
 The ordinary relationship of Śeṣa and śeṣin between the jīva and Bhagavān is disclosed in the first syllable of the aṣṭākṣara, viz, aum where the a, the first member, is in the dative case ‘aya’, though the termination has dropped. It means for a or Bhagavān'. The specific form of being śeṣas which applies only to jīvas (and not to non-sentient things ) and which is really being the servants of the Lord ( dāsas) and of His being the Swami or Master is revealed in the purport or implication. So also in the word 'Nārāyaṇāya' there is the general relationship of the seshin towards all things and the specific relationship of Swami or Master which obtains in the case of jivās. Here the goal of usefulness to the Lord, which is the result of the general attitude of the śeṣa, becomes the goal of service or kaiṅkarya to the Lord, owing to the jīva being His servant or dāsa. Thus by being the śeṣin, Iśvara attains a unique glory and as a consequence of His being the Swami or Master, this glory consists in the enjoyment of service which is His puruṣārtha. Iśvara is responsible for the protection of His servants and has also the power to do so, whereas the jīva or Cetana is not responsible for his own protection nor has he the ability to protect himself. This is due to Iśvara being the unconditional (nirupadhika) śeṣī and the unconditional Director and Ruler. Owing to their being the unconditional śeṣas and their being subject unconditionally to His control, it becomes, indeed, the responsibility of the owner to protect what belongs to Him and of the strong to protect the weak. Iśvara, however, makes up his mind to protect the jīva only after making him adopt some means or upāya for winning His protection, (because the jīva is subject, according to the śāstra  to the law of Karma).
 
-<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 निलैदन्द तारगनाय् नियमिक्कुम् इऱैवनुमाय्  
 इलदॊण्ड्रॆनावगै यॆल्लान् दनदॆनुमॆन्दैयुमाय्त्  
@@ -107,7 +107,7 @@ The ordinary relationship of Śeṣa and śeṣin between the jīva and Bhagavā
 विलैयिण्ड्रि नामडियोमॆण्ड्रु वेदियर्मॆय्प्पॊरुळे. (10)
 </details>
 
-<details><summary>तमिऴ् - मूलम्</summary>
+<details><summary>मूलम् (त॰प॰)</summary>
 
 निलैदन्द तारगनाय् नियमिक्कुम् इऱैवनुमाय्  
 इलदॊण्ड्रॆनावगै यॆल्लान् दनदॆनुमॆन्दैयुमाय्त्  
@@ -117,7 +117,7 @@ The ordinary relationship of Śeṣa and śeṣin between the jīva and Bhagavā
 
 The Lord gave us our existence and is our support (dhāraka) as well; He is also the unconditional Ruler that directs and controls us. There is nothing that does not exist for the fulfilment of his purposes; He is also our Master for whom all things exist; He stands alone with no one to compare with Him. It is the earnest conviction of those who understand the spirit of the Vedas that we are the bodies and the unconditional (or natural) servants of the Lord with the crown of Tulsi leaves (for the Antaryāmi Brāhmana of Brihadaranyaka Upaniṣad states this explicitly.)
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 यद्येतं यतिसार्वभौमकथितं विद्यादविद्यातमः-  
 प्रत्यूषं प्रतितन्त्रमन्तिमयुगे कश्चिद्विपश्चित्तमः ।  
@@ -125,7 +125,7 @@ The Lord gave us our existence and is our support (dhāraka) as well; He is also
 हेवाक-प्रथमान-हैतुक-कथा-कल्लोल-कोलाहलः ॥ ११ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 यद्येतं यतिसार्वभौमकथितं विद्यादविद्यातमः-  
 प्रत्यूषं प्रतितन्त्रमन्तिमयुगे कश्चिद्विपश्चित्तमः ।  

@@ -5,7 +5,7 @@ title = "०४ अर्थपञ्चकाधिकारः"
 
 4. THE CHAPTER ON THE FIVE THINGS THAT SHOULD BE KNOWN TO EVERY SEEKER AFTER SALVATION. page 91
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 आदौ प्राप्यं परममनघं प्राप्तृरूपं च मादौ  
 इष्टोपायं त्वयननमसोरीप्सितार्थं चतुर्थ्याम् ।  
@@ -13,7 +13,7 @@ title = "०४ अर्थपञ्चकाधिकारः"
 तत्प्रायं च द्वयमपि विदन् संमतस्सर्ववेदी ॥ १२ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 आदौ प्राप्यं परममनघं प्राप्तृरूपं च मादौ  
 इष्टोपायं त्वयननमसोरीप्सितार्थं चतुर्थ्याम् ।  
@@ -394,7 +394,7 @@ How can this chief hindrance which is of the nature of divine punishment resulti
 
 All these hindrances to mokṣa  are to be understood in whatever is contrary to what is ordained in the three mysteries (mantras) (e. g. the feeling that the jīva is independent and acts for his own purposes which is opposed to the truths shown in the aṣṭākṣara), in the egoism, or sense of 'my' or 'mine' in the genitive mama in namah (na + mama) and also in the words ‘all thy sins' in the carama śloka . These have to be thought of, so that one may feel the suffering which lies in walking on the hot sands of saṁsāra and desire to hasten towards the path leading to bliss.
 
-<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 पॊरुळॊण्ड्रॆन निण्ड्र पूमगळ् नादन् अवनडिसेर्न्दु  
 अरुळॊण्ड्रुम् अन्बनवन् कॊळुबायम् अमैन्द पयन्  
@@ -402,7 +402,7 @@ All these hindrances to mokṣa  are to be understood in whatever is contrary to
 इरुळॊण्ड्रिलावगै ऎन्मनन्देऱ इयम्बिनरे. // 11 //
 </details>
 
-<details><summary>तमिऴ् - मूलम्</summary>
+<details><summary>मूलम् (त॰प॰)</summary>
 
 पॊरुळॊण्ड्रॆन निण्ड्र पूमगळ् नादन् अवनडिसेर्न्दु  
 अरुळॊण्ड्रुम् अन्बनवन् कॊळुबायम् अमैन्द पयन्  
@@ -412,7 +412,7 @@ All these hindrances to mokṣa  are to be understood in whatever is contrary to
 
 Those who know these five have declared them in order that I may not despair in mind and in order that the darkness of ignorance may not confound me- the five namely - the Lord of the lotus-born Lakṣmī , who stands as the one thing to be attained, the jīva who loves the lord and craves for His grace by seeking His feet, the means (or upāya) to be adopted by the jīva for the attainment, and the fruit resulting therefrom, as also the strong fetters of sin due to delusion or ignorance (which are hindrances).
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 प्राप्यं ब्रह्म समस्तशेषि परमं प्राप्ताऽहमस्योचितः  
 प्राप्तिर्दाय-धन-क्रमादिह मम प्राप्ता स्वतस्सूरिवत् ।  
@@ -420,7 +420,7 @@ Those who know these five have declared them in order that I may not despair in 
 सेतुस्संप्रति शेषि-दंपति-भरन्यासस्तु मे शिष्यते ॥१३॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 प्राप्यं ब्रह्म समस्तशेषि परमं प्राप्ताऽहमस्योचितः  
 प्राप्तिर्दाय-धन-क्रमादिह मम प्राप्ता स्वतस्सूरिवत् ।  

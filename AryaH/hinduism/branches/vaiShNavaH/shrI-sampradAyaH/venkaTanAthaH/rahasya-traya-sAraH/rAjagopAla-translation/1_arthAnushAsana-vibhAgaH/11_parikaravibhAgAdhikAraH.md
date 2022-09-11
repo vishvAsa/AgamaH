@@ -9,7 +9,7 @@ title = "११ परिकरविभागाधिकारः"
 
 (11) THE CHAPTER ON THE CLASSIFICATION OF ACCESSORIES OR AÑGAS: page174
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 इयानित्थंभूतस्सकृदयमवश्यंभवनवान्  
 दयादिव्याम्भोधौ जगदखिलमन्तर्यमयति ।  
@@ -17,7 +17,7 @@ title = "११ परिकरविभागाधिकारः"
 प्रपत्तेरादिष्टः परिकरविशेषः श्रुति मुखैः ॥ २६ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 इयानित्थंभूतस्सकृदयमवश्यंभवनवान्  
 दयादिव्याम्भोधौ जगदखिलमन्तर्यमयति ।  
@@ -77,7 +77,7 @@ In Sarasāgati Gadya, Śrī Rāmānuja explains the implication contained in the
 
 The word upāya stands for "the means to secure an end" and this means may be either sentient or non-sentient. It has been said:-"Among the aṅgas to prapatti are the faith that He will protect and the supplication or prayer for protection " " The Lord who controls everything, though He is omniscient and always compassionate expects a prayer for protection, since He has to look after the process of saṁsāra". Since the upāya or means in this case is a sentient being (namely, the Lord), and the prayer for protection (or goptṛtva varaṇam) which is applicable only to sentient beings is necessary here, the word saranam in Dvaya, which means upāya, implies also the prayer for protection. Since the word saranam cannot have two meanings when it is used only once, (we should understand that) in the Dvaya, the steadfast thought of the Lord being an upāya which is peculiar to the adhikārī called prapanna is brought out by the word saranam itself and that the prayer for protection which is common to all adhikārīs is understood by implication from the meaning.
 
-<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 अऱिवित्तनरन्बरैयम्बऱैयुमुबायमिल्लात्  
 तुऱवित्तुनियिट्रुणैयाम् परनै वरिक्कुम् वगै  
@@ -85,7 +85,7 @@ The word upāya stands for "the means to secure an end" and this means may be ei
 पिऱवित्तुयर् सॆगुवीरॆण्ड्रिरक्कुम् पिऴैयऱवे. (18 )
 </details>
 
-<details><summary>तमिऴ् - मूलम्</summary>
+<details><summary>मूलम् (त॰प॰)</summary>
 
 अऱिवित्तनरन्बरैयम्बऱैयुमुबायमिल्लात्  
 तुऱवित्तुनियिट्रुणैयाम् परनै वरिक्कुम् वगै  
@@ -95,7 +95,7 @@ The word upāya stands for "the means to secure an end" and this means may be ei
 
 Our kind ācārya s have taught us the way of seeking, as an upāya, the Supreme Being who is (ever) ready to help us in our state of helplessness, when we are without such upāyas as bhakti yoga which give rise to doubts (concerning our ability to adopt them with success). They have taught it to us so well that we shall never commit the mistake of begging, for deliverance from the sorrows of saṁsāra, the (other) gods who are bound by karma and are therefore like ourselves and who are not related in any way to us.
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 प्रख्यातः पञ्चषाङ्गस्सकृदिति भगवच्छासनैरेष योग-  
 स्तत्र द्वाभ्यामपायाद्विरतिरनितरोपायतैकेन बोद्ध्या ।  
@@ -103,7 +103,7 @@ Our kind ācārya s have taught us the way of seeking, as an upāya, the Supreme
 तत्त्वज्ञानप्रयुक्ता त्विह सपरिकरे तादधीन्यादिबुद्धिः ॥ २७ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 प्रख्यातः पञ्चषाङ्गस्सकृदिति भगवच्छासनैरेष योग-  
 स्तत्र द्वाभ्यामपायाद्विरतिरनितरोपायतैकेन बोद्ध्या ।  

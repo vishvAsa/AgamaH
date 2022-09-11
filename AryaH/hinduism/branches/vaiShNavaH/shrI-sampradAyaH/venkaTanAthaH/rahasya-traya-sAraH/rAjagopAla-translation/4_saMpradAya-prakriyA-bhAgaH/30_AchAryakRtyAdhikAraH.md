@@ -7,7 +7,7 @@ title = "३० आचार्यकृत्याधिकारः"
 
 AN ĀCĀRYA. page625
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 अधिजिगमिषुराद्यं धाम दिव्यं त्रिधाम्नः  
 श्रुतविविधपरीक्षाशोधिते क्वापि पात्रे ।  
@@ -15,7 +15,7 @@ AN ĀCĀRYA. page625
 प्रदिशति निरपायं संप्रदायप्रदीपम् ॥ ६९ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 अधिजिगमिषुराद्यं धाम दिव्यं त्रिधाम्नः  
 श्रुतविविधपरीक्षाशोधिते क्वापि पात्रे ।  
@@ -43,7 +43,7 @@ They would teach their śiṣyas such truths as the following:
 
 (1) Tattva. “There is a self or ātmā which is eternal and different from the body and the senses. Besides these two viz., the sentient beings and non-sentient things, there is a Supreme Self who dwells within all of them as their ruler and who is the śeṣī (for whom they exist). Other than this Supreme Self there is no one, either oneself or others, that can protect the self". (2) Hita : They will also teach the means (hita) by which the end can be trained, in the following words to be uttered by the śiṣya "From beginningless time, I have been in saṁsāra subject to the cycle of births and deaths. In order that I may not have such sufferings as dwelling within the embryo, I pray that Thou shouldst grant me Thy holy feet and save me." (With these words) and with the utterance of Dvaya , preceded by obeisance to the succession of gurus, taught graciously by the ācāryas, the  , should be taught to seek the feet of Nārāyaṇa and Śrī and surrender his self and whatever is his, as also the burdens or responsibilities connected with them, when the good acarya has thus introduced the śiṣya to the Lord, the śiṣya should be made to feel assured that the Lord would never, thereafter, forsake him so that he may live the rest of his life here in the spirit of good will to every one and free from all offence and his later life may become the prelude to mokṣa. Thus he would teach the śiṣya what he should do after the surrender of responsibility (bharanyāsa) in as brief á manner as would suit the aptitude of the śiṣya.
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 प्रत्येयस्तु (प्रत्यग्वस्तु) विलक्षणः प्रकृतितस्त्रातापतिस्तत्पर  
 स्तस्मिन्नात्मभरार्पणं हिततमं तच्छेषवृत्तिः फलम् ।  
@@ -51,7 +51,7 @@ They would teach their śiṣyas such truths as the following:
 दायत्वेन दयाधनास्स्वयमदुर्दत्तात्मनां देशिकाः ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 प्रत्येयस्तु (प्रत्यग्वस्तु) विलक्षणः प्रकृतितस्त्रातापतिस्तत्पर  
 स्तस्मिन्नात्मभरार्पणं हिततमं तच्छेषवृत्तिः फलम् ।  
@@ -63,7 +63,7 @@ They would teach their śiṣyas such truths as the following:
 
 All these words of mine on the three secrets (mantras) found in the earlier and later chapters) are in accordance with the spiritual tradition of Vedānta Udayana, otherwise called, Madappalli āchān, (the preceptor in charge of the kitchen), (who propagated the truths of Vedānta like Udayana commenting on Tarkaśāstra). Kidambi Appullar made me learn these words like a parrot, just as he had learnt them from his own ācharya (his father). (Therefore ) these words are those that illumined his mind owing to the compassion of the Lord and that were guarded by him without forgetfulness and taught to me without any error.
 
-<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 पाट्टुक्कुरिय पऴैयवर् मूवरैप् पण्डॊरुगाल्  
 माट्टुक्करुडरु मायन् मलिन्दु वरुन्दुदलाल्  
@@ -71,7 +71,7 @@ All these words of mine on the three secrets (mantras) found in the earlier and 
 वीट्टुक्किडैगऴिक्के वॆळिगाट्टुमिम् मॆय्विळक्के. (46 )
 </details>
 
-<details><summary>तमिऴ् - मूलम्</summary>
+<details><summary>मूलम् (त॰प॰)</summary>
 
 पाट्टुक्कुरिय पऴैयवर् मूवरैप् पण्डॊरुगाल्  
 माट्टुक्करुडरु मायन् मलिन्दु वरुन्दुदलाल्  
@@ -83,7 +83,7 @@ Those lamps (of spiritual wisdom) which lighted the threshold of a certain house
 
 [^120]: Peyalvar, Poygai Alvar, Bhutattalvar.
 
-<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 मरुळट्र तेसिगर् वानुगप्पालिन्द वैयमॆल्लाम्  
 इरुळऱ्‌ ऱिऱैयवनिणैयडि पूण्डिड वॆण्णुदलाल्  
@@ -91,7 +91,7 @@ Those lamps (of spiritual wisdom) which lighted the threshold of a certain house
 अरुळुट्र सिन्दैयिना लऴिया विळक्केट्रिनरे. ( 47 )
 </details>
 
-<details><summary>तमिऴ् - मूलम्</summary>
+<details><summary>मूलम् (त॰प॰)</summary>
 
 मरुळट्र तेसिगर् वानुगप्पालिन्द वैयमॆल्लाम्  
 इरुळऱ्‌ ऱिऱैयवनिणैयडि पूण्डिड वॆण्णुदलाल्  
@@ -101,7 +101,7 @@ Those lamps (of spiritual wisdom) which lighted the threshold of a certain house
 
 Our great ācāryas, who were absolutely free from ignorance and error, lighted this undying lamp out of compassionate grace, in the minds of worthy disciples who had grown rich in the true wealth of the performance of ordained rites in a manner which would accord with their knowledge. (They did so) because they desired that the whole world (of men) should become free from ignorance and adorn their heads with the Lord's feet owing to their longing for Paramapada,
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 निरवधिदयादिव्योदन्वत्तरङ्गनिरङ्कुशै-  
 र्नियमयति यश्शिष्यान् शिक्षाक्रमैर्गुणसंक्रमैः ।  
@@ -109,7 +109,7 @@ Our great ācāryas, who were absolutely free from ignorance and error, lighted 
 न परमिह तांस्तल्लक्षेण स्वमप्यभिरक्षति ॥ ७० ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 निरवधिदयादिव्योदन्वत्तरङ्गनिरङ्कुशै-  
 र्नियमयति यश्शिष्यान् शिक्षाक्रमैर्गुणसंक्रमैः ।  

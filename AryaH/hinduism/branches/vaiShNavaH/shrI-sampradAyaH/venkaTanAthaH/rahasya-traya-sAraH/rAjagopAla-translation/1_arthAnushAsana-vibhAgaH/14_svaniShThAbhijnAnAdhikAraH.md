@@ -7,7 +7,7 @@ title = "१४ स्वनिष्ठाभिज्ञानाधिका�
 
 (14) THE CHAPTER ON THE MARKS OR SIGNS BY WHICH ONE CAN RECOGNISE THAT ONE IS IN THE PROPER STATE OR NIṢṬHĀ.page200
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 स्वरूपोपायार्थेष्ववितथनिविष्टस्थिरमते-  
 स्स्वनिष्ठाभिज्ञानं सुभगमपवर्गादुपनतात् ।  
@@ -15,7 +15,7 @@ title = "१४ स्वनिष्ठाभिज्ञानाधिका�
 गभीरान् दुष्पूरान् गगनमहतश्छिद्रनिवहान् ॥ ३२ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 स्वरूपोपायार्थेष्ववितथनिविष्टस्थिरमते-  
 स्स्वनिष्ठाभिज्ञानं सुभगमपवर्गादुपनतात् ।  
@@ -45,7 +45,7 @@ The prapanna who has attained niṣṭhā in puruṣārtha has neither pleasure 
 
 Thus by observing these signs in himself, the man may realise that he is well established in the state of a true prapanna in regard to his essential Nature (svarūpa), his upāya and his supreme aim (puruṣārtha) as stated in the śloka I am a self, not a body; I am the śeṣa who exists only for Lord; I have no possessions of my own; I have sought His protection with the desire to render service to Him" and as understood also from Tirumantra and the like. To the prapanna who has seen in himself these signs, there will be no causes of fear confronting him other than offence to those who know Brahman, which might occur (as a possibility) on account of his living in the midst of enemies (the body and the senses), nor sources of delight other than the service which suits his essential nature. This may be seen in the case of Sītā devi of whom it is said, "Sītā does not look at these Rākṣasis; she does not look at these trees full of flowers and fruits. Her heart is fixed on one alone and she sees only ŚrīRāma". If by chance, these (other causes of fear and sources of delight) come before him, he will have neither fear nor delight.
 
-<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 मुक्कियमन्दिरङ्गाट्टिय मूण्ड्रिनिलैयुडैयार्  
 तक्कवैयण्ड्रित् तगादवैयॊण्ड्रुन् दमक्किसैयार्  
@@ -53,7 +53,7 @@ Thus by observing these signs in himself, the man may realise that he is well es
 मिक्कवुणर्त्तियर् मेदिनिमेविय विण्णवरे. ( 21 )
 </details>
 
-<details><summary>तमिऴ् - मूलम्</summary>
+<details><summary>मूलम् (त॰प॰)</summary>
 
 मुक्कियमन्दिरङ्गाट्टिय मूण्ड्रिनिलैयुडैयार्  
 तक्कवैयण्ड्रित् तगादवैयॊण्ड्रुन् दमक्किसैयार्  
@@ -63,7 +63,7 @@ Thus by observing these signs in himself, the man may realise that he is well es
 
 Those who have become well-established in their knowledge of the three things shown in the Tirumantra (namely, svarūpa, upāya, and puruṣārtha) will never agree to do what is improper and will do only what is proper. They are really wise men who find, in themselves, these attitudes and actions and they may be called eternal sūris living on the earth.
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 स्वापोद्बोधव्यतिकरनिभे भोगमोक्षान्तराले  
 कालं कञ्चिज्जगति विधिना केनचित् स्थाप्यमानाः ।  
@@ -71,7 +71,7 @@ Those who have become well-established in their knowledge of the three things sh
 शेषां कृत्वा शिरसि कृतिनश्शेषमायुर्नयन्ति ॥ ३३ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 स्वापोद्बोधव्यतिकरनिभे भोगमोक्षान्तराले  
 कालं कञ्चिज्जगति विधिना केनचित् स्थाप्यमानाः ।  

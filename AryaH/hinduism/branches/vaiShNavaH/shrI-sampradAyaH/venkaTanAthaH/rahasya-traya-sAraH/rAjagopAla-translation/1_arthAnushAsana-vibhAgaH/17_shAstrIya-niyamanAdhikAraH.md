@@ -9,7 +9,7 @@ title = "१७ शास्त्रीय-नियमनाधिकारः
 
 IMPOSED BY THE ŚĀSTRAS. page227
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 मुकुन्दे निक्षिप्य स्वभरमनघो मुक्तवदसौ  
 स्वतन्त्राज्ञासिद्धां स्वयमविदितस्वामिहृदयः ।  
@@ -17,7 +17,7 @@ IMPOSED BY THE ŚĀSTRAS. page227
 दलङ्घ्यामामोक्षादनुसरति शास्त्रीयसरणिम् ॥ ३८ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 मुकुन्दे निक्षिप्य स्वभरमनघो मुक्तवदसौ  
 स्वतन्त्राज्ञासिद्धां स्वयमविदितस्वामिहृदयः ।  
@@ -49,7 +49,7 @@ That apart, there is no greater hell (for the prapanna) than the displeasure cau
 
 Since this violation of the Lord's command is opposed to the Lord's pleasure which is our final goal as stated in the śloka  : "When shall I, Thy servant, look upon Thee alone as my Master and give Thee delight by rendering service ?" the observance of the ordinances of the śāstras has to be understood in those places in the three mysteries (mantras) where the removal of obstacles is referred to. In the case of those who have not completed their adoption of prapatti the upāya, the observance of these ordinances will remove the hindrances or obstacles to the completion of prapatti and win for them the grace of the Lord. In the case of those whose adoption of the upāya is complete, it will win the favour of the Lord by removing the causes that might bring about His displeasure (in future).
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 आज्ञानुज्ञाविभागेन द्विधा शास्त्रीयपद्धतिः । ग्रहानुदयायाद्या परा तत्तत्फलाप्तये ॥  
 अनुज्ञया प्रवृत्तेऽपि क्रमकोपादिसंभवे । आज्ञातिक्रमदोषस्स्यान्नियमोऽतो दुरत्ययः ॥  
@@ -58,7 +58,7 @@ Since this violation of the Lord's command is opposed to the Lord's pleasure whi
 अनुज्ञामात्रसिद्धेषु कैङ्कर्येषु विचक्षणैः । अकृतौ तत्फलालाभो न तु दोष इतीरितम् ॥३८-अ-उ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 आज्ञानुज्ञाविभागेन द्विधा शास्त्रीयपद्धतिः । ग्रहानुदयायाद्या परा तत्तत्फलाप्तये ॥  
 अनुज्ञया प्रवृत्तेऽपि क्रमकोपादिसंभवे । आज्ञातिक्रमदोषस्स्यान्नियमोऽतो दुरत्ययः ॥  
@@ -75,7 +75,7 @@ When the same rite is prescribed both for avoiding a transgression and for obtai
 
 In rites (karmas or services) prescribed for the attainment of certain benefits, the benefit will not be obtained, when the service is not performed, but there is no transgression. Such is the opinion of competent scholars.
 
-<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 निण्ड्रनमन्बुडैवानोर् निलैयिनिलमळन्दान्  
 नण्ड्रिदु तीयदिदॆण्ड्रु नडत्तिय नान्मऱैयाल्  
@@ -83,7 +83,7 @@ In rites (karmas or services) prescribed for the attainment of certain benefits,
 अण्ड्रि यडिक्कडि यारिरुडीर्क्क वडियुळदे. (24 )
 </details>
 
-<details><summary>तमिऴ् - मूलम्</summary>
+<details><summary>मूलम् (त॰प॰)</summary>
 
 निण्ड्रनमन्बुडैवानोर् निलैयिनिलमळन्दान्  
 नण्ड्रिदु तीयदिदॆण्ड्रु नडत्तिय नान्मऱैयाल्  
@@ -93,7 +93,7 @@ In rites (karmas or services) prescribed for the attainment of certain benefits,
 
 By following the four Vedas (and the Smṛtis and other śāstras) in which the Supreme Being who measured the three worlds with His feet has ordained what is right and what is wrong, we have attained the state of service similar to that of the eternal sūris who are full of the love (of God). To us who live in the dark night (of saṁsāra), there is no other light than that of this moon (viz. the śāstras) to dispel the darkness that grows denser and denser at every step.
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 श्रुतिस्मृत्याचारैस्स्वमतिगतिभिश्शुद्धमनसां  
 सुसङ्कल्पैर्धर्म्यैः कुलचरणदेशादिसमयैः ।  
@@ -101,7 +101,7 @@ By following the four Vedas (and the Smṛtis and other śāstras) in which the 
 निमित्तस्वप्नाद्यैरपि निपुणमन्विच्छति बुधः ॥ ३९ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 श्रुतिस्मृत्याचारैस्स्वमतिगतिभिश्शुद्धमनसां  
 सुसङ्कल्पैर्धर्म्यैः कुलचरणदेशादिसमयैः ।  

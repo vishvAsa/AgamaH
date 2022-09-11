@@ -9,7 +9,7 @@ title = "१० प्रपत्तियोग्याधिकारः"
 
 (10) THE CHAPTER ON FITNESS FOR PRAPATTI. page170
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 अर्थित्वेन समर्थता त्रिकतनुस्संपिण्डिताधिक्रिया  
 सा चाष्टाङ्गषडङ्गयोगनियतावस्था व्यवस्थापिता ।  
@@ -17,7 +17,7 @@ title = "१० प्रपत्तियोग्याधिकारः"
 सत्यादिष्विव नैगमेष्वधिकृतिस्सर्वास्पदे सत्पथे ॥ २४ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 अर्थित्वेन समर्थता त्रिकतनुस्संपिण्डिताधिक्रिया  
 सा चाष्टाङ्गषडङ्गयोगनियतावस्था व्यवस्थापिता ।  
@@ -53,7 +53,7 @@ PRAPATTI IS OPEN TO ALL:
 
 If such qualifications exist, prapatti is certainly open to all as an upāya, since there are no restrictions to it such as caste.
 
-<details open><summary>तमिऴ् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 अन्दणरन्दियरॆल्लैयिनिण्ड्रवनैत्तुलगम्  
 नॊन्दवरे मुदलाग नुडङ्गियनन्नियराय्  
@@ -61,7 +61,7 @@ If such qualifications exist, prapatti is certainly open to all as an upāya, si
 अन्दमिलादियै यन्बरऱिन्दऱिवित्तनरे. (17)
 </details>
 
-<details><summary>तमिऴ् - मूलम्</summary>
+<details><summary>मूलम् (त॰प॰)</summary>
 
 अन्दणरन्दियरॆल्लैयिनिण्ड्रवनैत्तुलगम्  
 नॊन्दवरे मुदलाग नुडङ्गियनन्नियराय्  
@@ -71,7 +71,7 @@ If such qualifications exist, prapatti is certainly open to all as an upāya, si
 
 The devotees of the Lord ( ācārya s) have themselves understood and have made us (also ) understand the eternal Lord who is the origin of all things and who is anxious to save us, being full of the might of mercy, so that all persons from the Brahmin to the Caṇḍāla and especially those who feel most the sufferings of saṁsāra may, in their helplessness and without seeking any other saviour or any other fruit, approach Him and seek refuge under Him.
 
-<details open><summary>संस्कृतम् - विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 भक्त्यादौ शक्त्यभावः प्रमितिरहितता शास्त्रतः पर्यदासः  
 कालक्षेपाक्षमत्वं त्विति नियतिवशादापतद्भिश्चतुर्भिः ।  
@@ -79,7 +79,7 @@ The devotees of the Lord ( ācārya s) have themselves understood and have made 
 सन्तः श्रीशं स्वतन्त्रप्रपदनविधिना मुक्तये निर्विशङ्काः ॥ २५ ॥
 </details>
 
-<details><summary>संस्कृतम् - मूलम्</summary>
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 भक्त्यादौ शक्त्यभावः प्रमितिरहितता शास्त्रतः पर्यदासः  
 कालक्षेपाक्षमत्वं त्विति नियतिवशादापतद्भिश्चतुर्भिः ।  
