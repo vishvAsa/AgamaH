@@ -763,7 +763,12 @@ Though it is said as a general statement, "I will release you from all sins", si
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बुद्धि-पूर्वोत्तराघत्तुक्कुम् परिहारम् आगप् प्रपत्ति पण्णादार् विषयत्तिले नियमित्तालोव् ऎन्नवॊण्णादु
+बुद्धि-पूर्वोत्तराघत्तुक्कुम् परिहारम् आगप् प्रपत्ति पण्णादार् विषयत्तिले नियमित्तालोव् ऎन्नव् ऒण्णादु+++(=ऒप्पादु)+++
+</details>
+
+<details><summary>Keith</summary>
+
+It cannot be argued that this passage prescribing another prapatti is only for those who did not perform prapatti to cover also those subsequent sins that might be committed deliberately. 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -773,7 +778,7 @@ Though it is said as a general statement, "I will release you from all sins", si
 
 
 
-It cannot be argued that this passage prescribing another prapatti is only for those who did not perform prapatti to cover also those subsequent sins that might be committed deliberately. This argument would carry weight, only if there were an explicit statement that prapatti might be performed to cover also future sins of a deliberate nature. (There is none such). If a man knows that the original prapatti may be made in such a way as to cover also future sins of a deliberate nature, there will be no one who will care to give up this easier method and thus the text prescribing a further prapatti will find none to adopt it. A general statement cannot contradict a statement made for a special or specific case (for the general statement covers only all cases except those specified in the special statement). If we hold that a general statement can sublate or contradict a special statement for specific cases, it would follow that, even in the case of one who adopts the upāya or bhakti or upāsana, subsequent sins committed deliberately would cause no stain.
+This argument would carry weight, only if there were an explicit statement that prapatti might be performed to cover also future sins of a deliberate nature. (There is none such). If a man knows that the original prapatti may be made in such a way as to cover also future sins of a deliberate nature, there will be no one who will care to give up this easier method and thus the text prescribing a further prapatti will find none to adopt it. A general statement cannot contradict a statement made for a special or specific case (for the general statement covers only all cases except those specified in the special statement). If we hold that a general statement can sublate or contradict a special statement for specific cases, it would follow that, even in the case of one who adopts the upāya or bhakti or upāsana, subsequent sins committed deliberately would cause no stain.
 
 It is evident from the authority of the following śloka  that those who are exclusively devoted to Bhagavān (whether they be bhaktas or prapannas ) will not fall under the sway of Yama : "Whatever may be the family into which they are born, wherever they may live, those who love Bhagavān will never go to the world of Yama." There is general agreement also that the same sin will meet with either heavy or light punishment as its consequence, according to the differences of caste, character and the like. This is also consistent with what obtains in the world in cases like the offences committed by princes.
 
