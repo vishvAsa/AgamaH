@@ -67,7 +67,7 @@ If it is asked how, when the Jīva   who performs prapatti as the upāya for the
 
 Therefore, ātmasamarpanam (the surrendering of the self to the Lord for protection) means here the realisation of the self as existing solely for the purpose of the Saviour and that to such an extent that the self feels no further responsibility, whatever, for its own protection and this should be accompanied by the knowledge that the fruits of such surrender are not one's own. The purport of the śloka  in Aḷavandār's Stotra (52)
 
-‘‘वपुरादिषु योऽपि कोऽपि वा गुणतोऽसानि यथा तथाविधः । तदयं तव पादपद्मयोरहमद्यैव मया समर्पितः’’(आळवन्दार् स्तोत्रम् 52.)
+“वपुरादिषु योऽपि कोऽपि वा गुणतोऽसानि यथा तथाविधः । तदयं तव पादपद्मयोरहमद्यैव मया समर्पितः”(आळवन्दार् स्तोत्रम् 52.)
 
 which says "Whatever I may be in the body, the senses and the like, and whatever may be the qualities of my Nature, I who know that I am Thy śeṣa hereby surrender myself at this very moment at thy two lotus-like feet" -- the purport of this śloka  is as follows:
 

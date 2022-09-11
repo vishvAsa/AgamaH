@@ -123,14 +123,14 @@ It has been said in the following śloka  :
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-‘‘धियः स्वयंप्रकाशत्वं मुक्तौ स्वाभाविकं यथा ।  
-बद्धे कदाचित्संरुद्धं तथाऽत्राऽपि नियम्यते ॥’’१४-अ॥
+“धियः स्वयंप्रकाशत्वं मुक्तौ स्वाभाविकं यथा ।  
+बद्धे कदाचित्संरुद्धं तथाऽत्राऽपि नियम्यते ॥”१४-अ॥
 </details>
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
-‘‘धियः स्वयंप्रकाशत्वं मुक्तौ स्वाभाविकं यथा ।  
-बद्धे कदाचित्संरुद्धं तथाऽत्राऽपि नियम्यते ॥’’१४-अ॥
+“धियः स्वयंप्रकाशत्वं मुक्तौ स्वाभाविकं यथा ।  
+बद्धे कदाचित्संरुद्धं तथाऽत्राऽपि नियम्यते ॥”१४-अ॥
 </details>
 
 The luminosity of (attributive) knowledge is natural to it (svabhavika), after release from saṁsāra, but is obstructed some times during bondage. So also in this case, (there may be obstruction during saṁsāra and luminousness after release)".
@@ -267,7 +267,7 @@ Here we have classified the Tattvas into three. So also some consider Iśvara 48
 
 What is said in the following śloka , is of course true: "A knowledge[^40] of the śāstras can be obtained only with the greatest difficulty. Further it may unsettle the mind. Therefore having obtained a knowledge of Hari from the teaching of the guru, a man should cease from all such activities." This does not mean that one should make no attempt to learn the śāstras. It only means that one should learn what is most important as quickly as possible and proceed at once to adopt the means learnt therefrom for attaining mokṣa , without spending too much time over elaborate treatises, which might cause delay in the adoption of the means. The man who has enough to eat without tilling the soil would never think of tilling it. So also without wasting time over what is unimportant, we should, as soon as possible, adopt the means prescribed for mokṣa ,
 
-[^40]: ‘‘शास्त्रज्ञानं बहुक्लेशं बुद्धेश्चलनकारणम् । उपदेशाद्धरिं बुद्ध्वा विरमेत्सर्वकर्मसु ॥
+[^40]: “शास्त्रज्ञानं बहुक्लेशं बुद्धेश्चलनकारणम् । उपदेशाद्धरिं बुद्ध्वा विरमेत्सर्वकर्मसु ॥
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
