@@ -798,7 +798,7 @@ This argument would carry weight, only if there were an explicit statement that 
 
 "इप् प्रपत्ति बुद्धि-पूर्वोत्तराघत्तुक्कुम् परिहारम्" ऎण्ड्र् अऱिन्दाल्  
 इच् चॆट्टै+++(=पक्षं)+++ विडुवारैय् उङ्ग्+++(=समीपे)+++ इडैयामैयाले  
-पुनःप्रपत्तिवचनम् निर्विषयमाम्+++(=??)+++.
+पुनःप्रपत्तिवचनम् निर्विषयम् आम्.
 </details>
 
 <details><summary>राजगोपालः (En)</summary>
@@ -832,7 +832,7 @@ A general statement cannot contradict a statement made for a special or specific
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्पडि विशेष-वचनत्तै बाधिक्किल्, +++(प्रपन्नन् अल्लादे)+++  
-उपासन-निष्ठनुक्कुम् बुद्धि-पूर्वोत्तराघत्तुक्कुम् दोषम् इल्लैयाम्. +++(कारणं वक्ष्यते।)+++  
+उपासन-निष्ठनुक्कुम् बुद्धि-पूर्वोत्तराघत्तुक्कुम् दोषम् इल्लैय् आम्. +++(कारणं वक्ष्यते।)+++  
 </details>
 
 <details><summary>राजगोपालः (En)</summary>
@@ -840,7 +840,6 @@ A general statement cannot contradict a statement made for a special or specific
 If we hold that a general statement can sublate or contradict a special statement for specific cases,  
 it would follow that, even in the case of one who adopts the upāya or bhakti or upāsana, subsequent sins committed deliberately would cause no stain.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -882,13 +881,53 @@ It is evident from the authority of the following śloka  that those who are exc
 “यस्मिन्कस्मिन्कुले जाता यत्रकुत्र निवासिनः । वासुदेवरता नित्यं यमलोकं न यान्ति ते” इत्यादिवचनबलत्ताले सिद्धम्.
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-There is general agreement also that the same sin will meet with either heavy or light punishment as its consequence, according to the differences of caste, character and the like. This is also consistent with what obtains in the world in cases like the offences committed by princes.
+ ऒरु पापन्-दाने जाति-गुणाद्य्-अधिकार-भेदत्ताले गुरु-लघु-फल-भेदवत्ताय् इरुक्कुम् ऎन्नुम् इडम् सर्व-संप्रतिपन्नम्.
+</details>
+
+<details><summary>राजगोपालः (En)</summary>
+
+There is general agreement also that the same sin will meet with either heavy or light punishment as its consequence, according to the differences of caste, character and the like. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ ऒरु पाबन्दाने जातिगुणाद्यधिकारभेदत्ताले गुरुलघुफलभेदवत्तायिरुक्कुमॆन्नुमिडम् सर्वसंप्रतिपन्नम्.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् अर्थम् राज-पुत्रापराधादिगळिऱ् पोले लोक-मर्यादैयालुम् उपपन्नम्. 
+</details>
+
+<details><summary>राजगोपालः (En)</summary>
+
+This is also consistent with what obtains in the world in cases like the offences committed by princes.
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+इव्वर्थम् राजपुत्रापराधादिगळिऱ्‌पोले लोकमर्यादैयालुमुपपन्नम्. 
+</details>
+
 
 __________
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-“न प्राग्वद्बुद्धिपूर्वाघे न चात्यन्तमनुग्रहः । लघुर्दण्डः प्रपन्नस्य राजपुत्रापराधवत् ॥ ४०-अ ॥
+“न प्राग्-वद् बुद्धि-पूर्वाघे  
+न चात्यन्तम् अनुग्रहः ।  
+लघुर् दण्डः प्रपन्नस्य  
+राज-पुत्रापराधवत् ॥ ४०-अ ॥
+</details>
+
+<details><summary>राजगोपालः (En)</summary>
+
+In cases of deliberate offence, the punishment is not as severe as before (prapatti) nor is there a high degree of grace. To the prapanna the punishment is light as in the case of the sons of kings.
 </details>
 
 <details><summary>मूलम् (सं॰प॰)</summary>
@@ -896,9 +935,44 @@ __________
 “न प्राग्वद्बुद्धिपूर्वाघे न चात्यन्तमनुग्रहः । लघुर्दण्डः प्रपन्नस्य राजपुत्रापराधवत् ॥ ४०-अ ॥
 </details>
 
-In cases of deliberate offence, the punishment is not as severe as before (prapatti) nor is there a high degree of grace. To the prapanna the punishment is light as in the case of the sons of kings.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-Therefore to avoid even this light punishment which would follow as the consequence, a further prapatti ia ordained. In the case of those who are looked upon as learned and righteous, and who are also capable of atonement, atonement in public, in accordance with their ability, is proper when the offences have been committed in public. This is for the sake of setting an example to the rest of the world. If it were not done, it would be a transgression of (the Lord's) command stated before. The violation of the command is injurious in two ways. When the waiting woman [woman attendant] is suspended from service, she loses what she obtains (from the service ) such as scents and has to experience also dread (of punishment).
+आगैयाल् अधिकारानुरूपम् आग  
+लघु-फलमुम् वारामैक्क् आग  
+पुनःप्रपदनम् विधिक्कप् पडुगिऱदु. 
+</details>
+
+<details><summary>राजगोपालः (En)</summary>
+
+Therefore to avoid even this light punishment which would follow as the consequence, a further prapatti is ordained. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+आगैयालधिकारानुरूपमाग लघुफलमुम् वारामैक्काग पुनःप्रपदनम् विधिक्कप् पडुगिऱदु. 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शिष्टतया व्यपदेश्यर् आन समर्थरुक्कु  
+लोक-संग्रहत्तुक्क्-आगवुम्  
+प्रसिद्ध-+++(अपराधाख्य-)+++निमित्तङ्गळिल्  
+यथा-शक्ति प्रसिद्ध-प्रायश्चित्तम् उचितम्. 
+</details>
+
+<details><summary>राजगोपालः (En)</summary>
+
+In the case of those who are looked upon as learned and righteous, and who are also capable of atonement, atonement in public, in accordance with their ability, is proper when the offences have been committed in public. This is for the sake of setting an example to the rest of the world. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+शिष्टतया व्यपदेश्यरान समर्थरुक्कु लोकसंग्रहत्तुक्कागवुम् प्रसिद्ध निमित्तङ्गळिल् यथाशक्ति प्रसिद्धप्रायश्चित्तमुचितम्. 
+</details>
+
+
+If it were not done, it would be a transgression of (the Lord's) command stated before. The violation of the command is injurious in two ways. When the waiting woman [woman attendant] is suspended from service, she loses what she obtains (from the service ) such as scents and has to experience also dread (of punishment).
 
 It may (now) be asked :-"What if the original or first prapatti is made on one's own initiative (without the sanction of the sāstrās ) so as to cover also deliberate sins of the future ?" This is (easily ) answered by a counter-check :-"What if bhakti or upāsana is performed so as to cover also future acts of deliberate offence? What if prapatti as an aṅga is performed so as to cover such acts ?" If it is stated that in these two cases (of counter-check) also, it may be held that future sins will not cling, it will be heresy opposed to what is stated in Śrī Bhāṣya and elsewhere. It is also opposed to the code of conduct observed by such (holy men ) as Ushasti [^U] who were steadfast in the contemplation of Brahman (Brahmanishta). 
 
