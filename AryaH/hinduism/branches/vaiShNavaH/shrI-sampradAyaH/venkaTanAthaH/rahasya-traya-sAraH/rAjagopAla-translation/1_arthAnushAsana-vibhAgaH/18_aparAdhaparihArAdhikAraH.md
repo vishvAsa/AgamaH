@@ -299,6 +299,7 @@ When, owing to hard-heartedness due to past karma operating now (prārabdha), th
 प्रारब्धकर्मविशेषवशत्ताले कठिनप्रकृतियाय् क्षमैकॊळ्ळुगैयुङ् गैदप्पिन पोदु
 </details>
 
+__________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > स्व-पुरुषम् अभिवीक्ष्य पाश-हस्तं  
@@ -318,6 +319,7 @@ For it has been said :- "Seeing his attendants with the noose (of death ) in the
 ‘‘स्वपुरुषमभिवीक्ष्य पाशहस्तं वदति यमः किल तस्य कर्णमूले । परिहर मधुसूदनप्रपन्नान् प्रभुरहमन्यनृणां न वैष्णवानाम्’’(विष्णुपुराणम् 3-7-14)
 </details>
 
+__________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > "कमल-नयन वासुदेव विष्णो  
@@ -337,6 +339,7 @@ For it has been said :- "Seeing his attendants with the noose (of death ) in the
 And Again : - "O Thou with lotus-like eyes, O Vāsudeva, O Viṣṇu, O Thou that bearest the earth, O Thou that art armed with the conch and the discus, be Thou my refuge" - those that utter these words - leave them at a distance for they are not sinners"
 </details>
 
+__________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > देवं शार्ङ्ग-धरं विष्णुं  
@@ -356,6 +359,7 @@ and further, "Those that perform prapatti to Viṣṇu, the God who is armed wit
 ‘‘देवं शार्ङ्गधरं विष्णुं ये प्रपन्नाः परायणम् । न तेषां यमसालोक्यं न च ते नरकौकसः’’(वामनपुराणम् 94-43.)
 </details>
 
+__________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऎण्ड्रु वैष्णव-वामनादि-पुराणङ्गळिन् पासुरङ्गळुक्कु मूल-मान श्रुतियिऱ्‌ चॊल्लुगिऱ् अप्पडिये  
@@ -382,6 +386,7 @@ As stated above in such treatises as Viṣṇu purāna and Vamanapurāna and the
 </details>
 
 
+__________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सिगैय् अऱुक्कुम् विरगुगळै+++(=कौशलान्)+++ मुन्न् इट्टु  
@@ -404,6 +409,7 @@ The Supreme Lord, being possessed of forgiveness, kindness, compassion and over-
 </details>
 
 
+__________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सेव्यन् आन सार्वभौमन्  
@@ -428,6 +434,7 @@ An emperor, who is to be duly served, punishes his attendants (like those who ca
 </details>
 
 
+__________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 
@@ -446,6 +453,7 @@ An emperor, who is to be duly served, punishes his attendants (like those who ca
 </details>
 
 
+__________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुगङ् गॊडादेय् इरुत्तल्,  
@@ -469,6 +477,7 @@ Similarly (Iśvara) punishes the prapanna, as ŚrīRāma did in the case of Kaka
 मुगङ्गॊडादेयिरुत्तल्, सम्मट्टियिट्टडित्तल्, तळ्ळुवित्तल्, वासलिले तगैवित्तल्, सिऱिदु नाळ् सेवैयै विलक्किविडुदल् सॆय्युमाप्पोले काकन्यायत्ताले यॊरु कण्णऴिवाले यिव्वाश्रितरै रक्षित्तुविडुम्.
 </details>
 
+__________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्पडि मृदु-प्रकृतिगळै क्षमैगॊळ्ळप्-पण्णु-वित्तल्  
@@ -501,6 +510,7 @@ To emphasise this point, some said that the Lord would pardon even those sins th
 ## प्रपत्ति-साफल्यं मोक्षे
 PRAPATTI WILL NEVER BE IN VAIN :
 
+__________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रारब्ध-कर्मत्तिल् पापांशम्-बोले  
@@ -521,6 +531,7 @@ It should not be thought that, because sins committed deliberately after prapatt
 </details>
 
 
+__________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पॆरुङ्गायम्+++(=asafoetida)+++ वैत्त+++(=स्थापित)+++ मरङ्गळुक्कु  
@@ -541,6 +552,7 @@ When asafoetida is applied to the root of a tree for making it wither, the tree 
 </details>
 
 
+__________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इङ्गुम् इवर्गळ् संसारत्तिन् उडैय निश्-शेष-निवृत्ति-पिऱक्कैक्कु+++(=राशीकरणाय)+++ विळंबाविळंब-वैषम्यमेय् उळ्ळदु.
@@ -556,6 +568,7 @@ So also in the case of these prapannas who have committed sins deliberately, the
 इङ्गुमिवर्गळ् संसारत्तिनुडैय निश्शेषनिवृत्ति पिऱक्कैक्कु विळंबाविळंबवैषम्यमेयुळ्ळदु.
 </details>
 
+__________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इद्-देहानन्तरम् मोक्षम् पॆऱ+++(←पॆरु)+++-वेणुम् ऎण्ड्र पेक्षित्तालुम्  
@@ -580,6 +593,7 @@ If they desire to have mokṣa at the end of this life and cannot brook delay an
 ## बुद्धिपूर्वकापराध-प्रभावः
 DISCUSSION OF THE VIEW THAT EVEN DELIBERATE OFFENCES COMMITTED BY A PRAPANNA WILL NOT AFFECT HIM ADVERSELY.
 
+__________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ‘‘भवेयं शरणं हि वः’’(रामायणम् सु.का. 58-90) ऎण्ड्र पिन्बुम् उण्डान राक्षसिगळुडैय बुद्धि-पूर्वापचारङ्गळ्  
@@ -606,6 +620,7 @@ It may be asked
 </details>
 
 
+__________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अव् विडत्तिलुम्  
@@ -629,6 +644,7 @@ So there was, as in the raising of the sword (to strike a person), a slight puni
 अव् विडत्तिलुमवर्गळुक्कु तिरुवडि नलियप्पुगुगिऱारॆन्गिऱ भयम् विळैन्दु नलिवुक्कु विलक्कुण्डानप्पडियाले वाळालेयोङ्गि विडुमाप् पोले दण्डलेशमुम् क्षमैयुम् सिद्धम्.
 </details>
 
+__________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आगैयाल् प्रपन्ननुक्कु बुद्धि-पूर्वोत्तराघम् लेपियात् ऎण्ड्रु विशेषित्तुच् चॊल्लुवद् ऒरु प्रमाणम् अण्ड्रिक्केय् इरुक्क
@@ -645,6 +661,7 @@ Therefore, when it is sometimes stated that even sins committed deliberately by 
 </details>
 
 
+__________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इवनुक्कुप् +++(प्रपत्ति-)+++पिन्बु बुद्धि-पूर्वापराधम् पिऱन्दालुम् क्षमै कॊळ्ळ वेण्डाव् ऎण्ड्रुम्,  
@@ -662,6 +679,7 @@ It is also sometimes stated that the prapanna need not atone for his sins even w
 </details>
 
 
+__________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विळंबाक्षमरुक्कुम् परम-फलत्तुक्कु विळंबम् वाराद् ऎण्ड्रुम्,  
@@ -681,6 +699,19 @@ It is sometimes maintained also that when such offences have been committed, the
 </details>
 
 
+__________
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्पडिय् अल्लादबोदु  
+प्रपन्नरान पूर्वर्गळुडैय अनुष्ठान-परम्परैक्कुम्  
+प्रपन्नरैप् पट्रवे+++(=पडुव)+++ प्रायश्चित्तम् विधिक्किऱ शास्त्रत्तुक्कुम्  
+मोक्षम् पॆऱुगैक्कुक् कालङ् गुऱित्तु प्रपत्तिपण्णादे यनुवृत्तबुद्धिपूर्वापराधरुमाय् विळंबाक्षमरुमायिरुप्पार्क्कु विळंबञ्चॊल्लुगिऱ प्रमाणङ्गळुक्कुञ्जेरादु. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि यल्लादबोदु प्रपन्नरान पूर्वर्गळुडैय अनुष्ठानपरम्परैक्कुम् प्रपन्नरैप् पट्रवे प्रायश्चित्तम् विधिक्किऱ शास्त्रत्तुक्कुम् मोक्षम्बॆऱुगैक्कुक् कालङ् गुऱित्तु प्रपत्तिपण्णादे यनुवृत्तबुद्धिपूर्वापराधरुमाय् विळंबाक्षमरुमायिरुप्पार्क्कु विळंबञ्चॊल्लुगिऱ प्रमाणङ्गळुक्कुञ्जेरादु. 
+</details>
 
 
 
