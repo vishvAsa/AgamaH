@@ -52,13 +52,6 @@ __________
 प्रायेण **संभावितम् अण्ड्रु**.
 </details>
 
-<details><summary>लक्ष्मीपुर-श्रीनिवासः (सं)</summary>
-
-एवं  भगवच्छेषतैकस्वभावस्य  शास्त्रनियततत्कैङ्कर्यैकरसिकस्य  अधिकारिणः  अनापदि  बुद्धिपूर्वकापराधः  स्वीकृतकैङ्कर्यैकनिष्ठाविरुद्धत्वात्  प्रायशो  **न  सम्भवति**  ।
-</details>
-
-
-
 <details><summary>राजगोपालः (En)</summary>
 
 Since the prapanna has, by nature, the sole character of a śeṣa to Bhagavān  
@@ -67,6 +60,10 @@ it is not at all likely that, in other situations than those that are dangerous,
 as it would be opposed to his adopted state of being the exclusive servant of the Lord. 
 </details>
 
+<details><summary>लक्ष्मीपुर-श्रीनिवासः (सं)</summary>
+
+एवं  भगवच्छेषतैकस्वभावस्य  शास्त्रनियततत्कैङ्कर्यैकरसिकस्य  अधिकारिणः  अनापदि  बुद्धिपूर्वकापराधः  स्वीकृतकैङ्कर्यैकनिष्ठाविरुद्धत्वात्  प्रायशो  **न  सम्भवति**  ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -86,6 +83,14 @@ __________
 कऴिन्दु-बोम्. 
 </details>
 
+
+<details><summary>राजगोपालः (En)</summary>
+
+If as a result of past karma which has begun to operate (prārabdha)  
+and under adverse conditions of place, time and circumstance, slight offences (against the Lord) take place through inattention in the waking state or (without his knowledge) in dreamless sleep (suṣupti) and other such states,  
+these offences will disappear without causing any stain.
+</details>
+
 <details><summary>लक्ष्मीपुर-श्रीनिवासः (सं)</summary>
 
 प्रारब्ध-कर्म-विशेष-वशात्  
@@ -95,14 +100,6 @@ __________
 सम्भवन्न् अपि  अ-श्लेष-विषयतया  विनश्यति  ॥
 </details>
 
-
-
-<details><summary>राजगोपालः (En)</summary>
-
-If as a result of past karma which has begun to operate (prārabdha)  
-and under adverse conditions of place, time and circumstance, slight offences (against the Lord) take place through inattention in the waking state or (without his knowledge) in dreamless sleep (suṣupti) and other such states,  
-these offences will disappear without causing any stain.
-</details>
 
 <details><summary>मूलम्</summary>
 
@@ -123,18 +120,6 @@ __________
 सिल **स्व-निष्ठा-विपरीतङ्गळ् वन्दालुम्** 
 </details>
 
-<details><summary>लक्ष्मीपुर-श्रीनिवासः (सं)</summary>
-
-अथ  मोक्षार्थ-प्रपत्त्य्-अनुष्ठान-वेलायां  
-बुद्धि-पूर्वक-पापारभक-पापानाम् अपि  **निवृत्तिम् अनन्तर्-भावयतां**  
-सर्पेणेव  शरीरेण  सह  निवसताम्  
-आत्म-गुण-पूर्ति-विरहात्  
-मन्दधैर्याणाम् इव  ऋषीणां  
-बुद्धि-पूर्वके ऽपि  क्वचिद् **विपरीतानुष्ठाने  सति**  
-</details>
-
-
-
 <details><summary>राजगोपालः (En)</summary>
 
 If, at the time of prapatti, he did not beg, with dread of them, for the removal of such sins as lead to further sins,  
@@ -145,6 +130,17 @@ certain lapses which are inconsistent with his state as a prapanna might, as in 
 
 If sach lapses do occur,
 </details>
+
+<details><summary>लक्ष्मीपुर-श्रीनिवासः (सं)</summary>
+
+अथ  मोक्षार्थ-प्रपत्त्य्-अनुष्ठान-वेलायां  
+बुद्धि-पूर्वक-पापारभक-पापानाम् अपि  **निवृत्तिम् अनन्तर्-भावयतां**  
+सर्पेणेव  शरीरेण  सह  निवसताम्  
+आत्म-गुण-पूर्ति-विरहात्  
+मन्दधैर्याणाम् इव  ऋषीणां  
+बुद्धि-पूर्वके ऽपि  क्वचिद् **विपरीतानुष्ठाने  सति**
+</details>
+
 
 
 <details><summary>मूलम्</summary>
@@ -160,17 +156,17 @@ __________
 इव् विपरीतानुष्ठानङ्गळ् मिन्न्-ऒळि+++(=कान्ति)+++-मात्रम् आय् निलै निऱ्‌कुम्.  
 </details>
 
-<details><summary>लक्ष्मीपुर-श्रीनिवासः (सं)</summary>
-
-निसर्ग-सुहृद् रक्षणोन्मुखः  श्रियःपतिः  
-लज्जानुतापादिभिः  यथाधिकारं  प्रायश्चित्तम् आसादयति  ॥
-</details>
-
 <details><summary>राजगोपालः (En)</summary>
 
 the Lord of Lakṣmī , who, by His very nature, is his well-wisher,  
 stands ever ready to save him.  
 Therefore these lapses in his actions will only be momentary like lightning;  
+</details>
+
+<details><summary>लक्ष्मीपुर-श्रीनिवासः (सं)</summary>
+
+निसर्ग-सुहृद् रक्षणोन्मुखः  श्रियःपतिः  
+लज्जानुतापादिभिः  यथाधिकारं  प्रायश्चित्तम् आसादयति  ॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -281,18 +277,16 @@ __________
 क्षमै-कॊळ्ळुगैयुङ् गैदप्-पिन पोदु
 </details>
 
-<details><summary>लक्ष्मीपुर-श्रीनिवासः (सं)</summary>
-
-एवं  प्रारब्धकर्मविशेषवशात्  कठिनप्रकृतीनां  यथाधिकारं  प्रायश्चित्तमकृतवतां  
-</details>
-
-
 
 <details><summary>राजगोपालः (En)</summary>
 
 When, owing to hard-heartedness due to past karma operating now (prārabdha), the prapanna does not+++(??)+++ obtain pardon by atonement, 
 </details>
 
+<details><summary>लक्ष्मीपुर-श्रीनिवासः (सं)</summary>
+
+एवं  प्रारब्ध-कर्म-विशेष-वशात्  कठिन-प्रकृतीनां  यथाधिकारं  प्रायश्चित्तम् अकृतवतां
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -369,13 +363,18 @@ __________
 +++(अन्धता-स्थानत्तिल्)+++ काणन्,  
 +++(द्वि-पाद-हति-स्थानत्तिल्)+++ खञ्जन् ऎण्ड्रु  
 मुदल्-आगव्-ओदुगिऱ+++(=पठित)+++-विङ्गुट्रैय्+++(=पुष्कल)+++-उप-क्लेश-मुखत्ताले  
-</details> 
+</details>
 
 <details><summary>राजगोपालः (En)</summary>
 
 he will not go to the world of Yama (but receive punishment in this very life).  
 
 As stated above in such treatises as Viṣṇu purāna and Vamanapurāna and the passages in the strutis on which they are based, they do not go to the land of Yama, but they are punished with the blindness of an eye, or the lameness of a leg, or some such thing and thus relieved of their burden (of sin). (They will be punished in this life itself here) on the analogy of one (who is dear) being punished with the prick of a thorn instead of being stabbed with a spear.
+</details>
+
+<details><summary>लक्ष्मीपुर-श्रीनिवासः (सं)</summary>
+
+काणत्व-खञ्जत्वादि-लक्षणोपक्लेश-रूप-पापनिवर्तकोपायान्  पुरस्कृत्य  
 </details>
 
 
@@ -391,7 +390,7 @@ __________
 
 सिगैय् अऱुक्कुम् विरगुगळै+++(=कौशलान्)+++ मुन्न् इट्टु  
 सर्वेश्वरन् क्षमा-प्रेम-दया-वात्सल्यङ्गळाले  
-तणिन्द+++(=रुद्ध)+++ प्रतापत्तैय् उडैयनाय्  
+तणिन्द+++(=रुद्ध)+++-प्रतापत्तैय् उडैयनाय्  
 मिगवुम्+++(=अधिकं)+++ दण्डिक्क-वेण्डुम् अपराधत्तुक्कु  
 
 </details>
@@ -406,6 +405,11 @@ The Supreme Lord, being possessed of forgiveness, kindness, compassion and over-
 <details><summary>मूलम्</summary>
 
 सिगैयऱुक्कुम् विरगुगळै मुन्निट्टु सर्वेश्वरन् क्षमाप्रेमदयावात्सल्यङ्गळाले तणिन्द प्रतापत्तैयुडैयनाय् मिगवुम् दण्डिक्कवेण्डुमपराधत्तुक्कु
+</details>
+
+<details><summary>लक्ष्मीपुर-श्रीनिवासः (सं)</summary>
+
+क्षमाप्रेमदयावात्सल्यादिना  मन्दीभूतप्रतापः  
 </details>
 
 
@@ -496,6 +500,11 @@ and punishing those that are tough by nature for the sake of correction are of t
 which is a consequence of their prapatti that preceded it.  
 One should therefore feel grateful to the Lord for this correction.  
 To emphasise this point, some said that the Lord would pardon even those sins that are committed deliberately. (They did not mean to say that deliberate offences would be pardoned without any punishment).
+</details>
+
+<details><summary>लक्ष्मीपुर-श्रीनिवासः (सं)</summary>
+
+भगवान्  लघुना  दण्डेन  संरक्षति  ।  एवं-करणम् अपि  पूर्व-प्रपत्ति-फली-भूत-क्षमा-प्रकार-भेद  इति  भगवति  कृतज्ञताम् एव  परिपोषयेत्  ॥
 </details>
 
 
@@ -682,13 +691,18 @@ It is also sometimes stated that the prapanna need not atone for his sins even w
 __________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विळंबाक्षमरुक्कुम् परम-फलत्तुक्कु विळंबम् वाराद् ऎण्ड्रुम्,  
-प्रारब्ध-सुकृत-विशेषादिगळाले वरुम् इङ्गुट्र कैङ्कर्यत्तुक्कु विच्छेद-सङ्कोचङ्गळ् वाराद् ऎण्ड्रुञ् चोल्लुगिऱ पक्षङ्गळ् शरण्यनुडैय गुणङ्गळैयुम् शरणागतियिनुडैय प्रभावत्तैयुञ् चॊल्लुगैक्कागव् अत्तनै.
+"विळंबाक्षमरुक्कुम् परम-फलत्तुक्कु विळंबम् वाराद्" ऎण्ड्रुम्,  
+"प्रारब्ध-सुकृत-विशेषादिगळाले वरुम् इङ्गुट्र कैङ्कर्यत्तुक्कु विच्छेद-सङ्कोचङ्गळ् वाराद्" ऎण्ड्रुञ्  
+चोल्लुगिऱ पक्षङ्गळ्  
+शरण्यनुडैय गुणङ्गळैयुम्,  
+शरणागतियिनुडैय प्रभावत्तैयुञ्  
+चॊल्लुगैक्कागव् अत्तनै.
 </details>
 
 <details><summary>राजगोपालः (En)</summary>
 
-It is sometimes maintained also that when such offences have been committed, there will be no delay in the attainment of the supreme goal even for those who are impatient of delay and that there will be no intermission or diminution in the services which have come to a man as the result of meritorious karma in the past bearing fruit in this life. 
+It is sometimes maintained also that when such offences have been committed, there will be no delay in the attainment of the supreme goal even for those who are impatient of delay and that there will be no intermission or diminution in the services which have come to a man as the result of meritorious karma in the past bearing fruit in this life.  
+These propositions maintained by some (should not be taken as literally true); they are made just to glorify the attributes and qualities of the Saviour and the power of prapatti.
 </details>
 
 
@@ -702,22 +716,34 @@ It is sometimes maintained also that when such offences have been committed, the
 __________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इप्पडिय् अल्लादबोदु  
+इप्पडिय् अल्लाद पोदु  
+
 प्रपन्नरान पूर्वर्गळुडैय अनुष्ठान-परम्परैक्कुम्  
 प्रपन्नरैप् पट्रवे+++(=पडुव)+++ प्रायश्चित्तम् विधिक्किऱ शास्त्रत्तुक्कुम्  
-मोक्षम् पॆऱुगैक्कुक् कालङ् गुऱित्तु प्रपत्तिपण्णादे यनुवृत्तबुद्धिपूर्वापराधरुमाय् विळंबाक्षमरुमायिरुप्पार्क्कु विळंबञ्चॊल्लुगिऱ प्रमाणङ्गळुक्कुञ्जेरादु. 
+
+मोक्षम्-पॆऱुगैक्कुक्+++(=जातेः)+++ कालङ् कुऱित्तु प्रपत्ति-पण्णादेय्  
+अनुवृत्त-बुद्धि-पूर्वापराधरुम् आय्  
+विळंबाक्षमरुम् आय्  
+इरुप्पार्क्कु 
+
+विळंबञ् चॊल्लुगिऱ प्रमाणङ्गळुक्कुञ् चेरादु. 
 </details>
+
+<details><summary>राजगोपालः (En)</summary>
+
+Otherwise there would be no meaning in the continued tradition of the observance, by previous prapannas, of the code of conduct prescribed for the prapanna, in the śāstras which prescribe methods of atonement for sins in the case of prapannas, and in the texts which say that there will be delay in the attainment of mokṣa  for those who did not perform prapatti indicating the time when they wanted to have it and are also impatient of delay while sinning deliberately. 
+</details>
+
+
 
 <details><summary>मूलम्</summary>
 
-इप्पडि यल्लादबोदु प्रपन्नरान पूर्वर्गळुडैय अनुष्ठानपरम्परैक्कुम् प्रपन्नरैप् पट्रवे प्रायश्चित्तम् विधिक्किऱ शास्त्रत्तुक्कुम् मोक्षम्बॆऱुगैक्कुक् कालङ् गुऱित्तु प्रपत्तिपण्णादे यनुवृत्तबुद्धिपूर्वापराधरुमाय् विळंबाक्षमरुमायिरुप्पार्क्कु विळंबञ्चॊल्लुगिऱ प्रमाणङ्गळुक्कुञ्जेरादु. 
+इप्पडिय् अल्लाद पोदु प्रपन्नरान पूर्वर्गळुडैय अनुष्ठानपरम्परैक्कुम् प्रपन्नरैप् पट्रवे प्रायश्चित्तम् विधिक्किऱ शास्त्रत्तुक्कुम् मोक्षम्बॆऱुगैक्कुक् कालङ् कुऱित्तु प्रपत्तिपण्णादे यनुवृत्तबुद्धिपूर्वापराधरुमाय् विळंबाक्षमरुमायिरुप्पार्क्कु विळंबञ्चॊल्लुगिऱ प्रमाणङ्गळुक्कुञ्जेरादु. 
 </details>
 
 
 
-These propositions maintained by some (should not be taken as literally true); they are made just to glorify the attributes and qualities of the Saviour and the power of prapatti. Otherwise there would be no meaning in the continued tradition of the observance, by previous prapannas, of the code of conduct prescribed for the prapanna, in the śāstras which prescribe methods of atonement for sins in the case of prapannas, and in the texts which say that there will be delay in the attainment of mokṣa  for those who did not perform prapatti indicating the time when they wanted to have it and are also impatient of delay while sinning deliberately. Though it is said as a general
-
-statement, "I will release you from all sins", since it is qualified by a passage standing as a special case: "This atonement consists in the performance of prapatti once again", it is evident that the atonement for sins committed deliberately after prapatti is the performance of another prapatti. It cannot be argued that this passage prescribiog another prapatti is only for those who did not perform prapatti to cover also those subsequent sins that might be committed deliberately. This argument would carry weight, only if there were an explicit statement that prapatti might be performed to cover also future sins of a deliberate nature. (There is none such). If a man knows that the original prapatti may be made in such a way as to cover also future sins of a deliberate nature, there will be no one who will care to give up this easier method and thus the text prescribing a further prapatti will find none to adopt it. A general statement cannot contradict a statement made for a special or specific case (for the general statement covers only all cases except those specified in the special statement). If we hold that a general statement can sublate or contradict a special statement for specific cases, it would follow that, even in the case of one who adopts the upāya or bhakti or upāsana, subsequent sins committed deliberately would cause no stain.
+Though it is said as a general statement, "I will release you from all sins", since it is qualified by a passage standing as a special case: "This atonement consists in the performance of prapatti once again", it is evident that the atonement for sins committed deliberately after prapatti is the performance of another prapatti. It cannot be argued that this passage prescribiog another prapatti is only for those who did not perform prapatti to cover also those subsequent sins that might be committed deliberately. This argument would carry weight, only if there were an explicit statement that prapatti might be performed to cover also future sins of a deliberate nature. (There is none such). If a man knows that the original prapatti may be made in such a way as to cover also future sins of a deliberate nature, there will be no one who will care to give up this easier method and thus the text prescribing a further prapatti will find none to adopt it. A general statement cannot contradict a statement made for a special or specific case (for the general statement covers only all cases except those specified in the special statement). If we hold that a general statement can sublate or contradict a special statement for specific cases, it would follow that, even in the case of one who adopts the upāya or bhakti or upāsana, subsequent sins committed deliberately would cause no stain.
 
 It is evident from the authority of the following śloka  that those who are exclusively devoted to Bhagavān (whether they be bhaktas or prapannas ) will not fall under the sway of Yama : "Whatever may be the family into which they are born, wherever they may live, those who love Bhagavān will never go to the world of Yama." There is general agreement also that the same sin will meet with either heavy or light punishment as its consequence, according to the differences of caste, character and the like. This is also consistent with what obtains in the world in cases like the offences committed by princes.
 
