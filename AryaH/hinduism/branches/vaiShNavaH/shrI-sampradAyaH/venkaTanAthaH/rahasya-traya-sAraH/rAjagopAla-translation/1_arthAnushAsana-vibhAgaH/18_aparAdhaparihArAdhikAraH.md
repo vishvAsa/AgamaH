@@ -741,9 +741,39 @@ Otherwise there would be no meaning in the continued tradition of the observance
 इप्पडिय् अल्लाद पोदु प्रपन्नरान पूर्वर्गळुडैय अनुष्ठानपरम्परैक्कुम् प्रपन्नरैप् पट्रवे प्रायश्चित्तम् विधिक्किऱ शास्त्रत्तुक्कुम् मोक्षम्बॆऱुगैक्कुक् कालङ् कुऱित्तु प्रपत्तिपण्णादे यनुवृत्तबुद्धिपूर्वापराधरुमाय् विळंबाक्षमरुमायिरुप्पार्क्कु विळंबञ्चॊल्लुगिऱ प्रमाणङ्गळुक्कुञ्जेरादु. 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘सर्वपापेभ्यो मोक्षयिष्यामि’’ ऎण्ड्रु सामान्येन सॊल्लच् चॆय्देयुम्  
+‘‘प्रायश्चित्तिर् इयं सात्र, यत् पुनश् शरणं व्रजेत्’’  
+ऎण्ड्रु विशेषिक्कैयाले  
+बुद्धिपूर्वोत्तराघत्तुक्कु प्रपत्त्य्-अनन्तरम् प्रायश्चित्तम् आग प्राप्तम् आयिट्रु+++(=भूत्वा)+++,  
+पुनश् शरणागतियै विधिक्किऱ वचनत्तै अडियिले …
+</details>
+
+<details><summary>राजगोपालः (En)</summary>
+
+Though it is said as a general statement, "I will release you from all sins", since it is qualified by a passage standing as a special case: "This atonement consists in the performance of prapatti once again", it is evident that the atonement for sins committed deliberately after prapatti is the performance of another prapatti.
+</details>
 
 
-Though it is said as a general statement, "I will release you from all sins", since it is qualified by a passage standing as a special case: "This atonement consists in the performance of prapatti once again", it is evident that the atonement for sins committed deliberately after prapatti is the performance of another prapatti. It cannot be argued that this passage prescribiog another prapatti is only for those who did not perform prapatti to cover also those subsequent sins that might be committed deliberately. This argument would carry weight, only if there were an explicit statement that prapatti might be performed to cover also future sins of a deliberate nature. (There is none such). If a man knows that the original prapatti may be made in such a way as to cover also future sins of a deliberate nature, there will be no one who will care to give up this easier method and thus the text prescribing a further prapatti will find none to adopt it. A general statement cannot contradict a statement made for a special or specific case (for the general statement covers only all cases except those specified in the special statement). If we hold that a general statement can sublate or contradict a special statement for specific cases, it would follow that, even in the case of one who adopts the upāya or bhakti or upāsana, subsequent sins committed deliberately would cause no stain.
+<details><summary>मूलम्</summary>
+
+‘‘सर्वपापेभ्यो मोक्षयिष्यामि’’ ऎण्ड्रु सामान्येन सॊल्लच्चॆय्देयुम् ‘‘प्रायश्चित्तिरियं सात्र यत्पुनश्शरणंव्रजेत्’’ ऎण्ड्रु विशेषिक्कैयाले बुद्धिपूर्वोत्तराघत्तुक्कु प्रपत्त्यनन्तरम् प्रायश्चित्तमाग प्राप्तमायिट्रु, पुनश्शरणागतियै विधिक्किऱ वचनत्तै अडियिले
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+बुद्धि-पूर्वोत्तराघत्तुक्कुम् परिहारम् आगप् प्रपत्ति पण्णादार् विषयत्तिले नियमित्तालोव् ऎन्नवॊण्णादु
+</details>
+
+<details><summary>मूलम्</summary>
+
+बुद्धिपूर्वोत्तराघत्तुक्कुम् परिहारमागप् प्रपत्ति पण्णादार् विषयत्तिले नियमित्तालोव् ऎन्नवॊण्णादु
+</details>
+
+
+
+It cannot be argued that this passage prescribing another prapatti is only for those who did not perform prapatti to cover also those subsequent sins that might be committed deliberately. This argument would carry weight, only if there were an explicit statement that prapatti might be performed to cover also future sins of a deliberate nature. (There is none such). If a man knows that the original prapatti may be made in such a way as to cover also future sins of a deliberate nature, there will be no one who will care to give up this easier method and thus the text prescribing a further prapatti will find none to adopt it. A general statement cannot contradict a statement made for a special or specific case (for the general statement covers only all cases except those specified in the special statement). If we hold that a general statement can sublate or contradict a special statement for specific cases, it would follow that, even in the case of one who adopts the upāya or bhakti or upāsana, subsequent sins committed deliberately would cause no stain.
 
 It is evident from the authority of the following śloka  that those who are exclusively devoted to Bhagavān (whether they be bhaktas or prapannas ) will not fall under the sway of Yama : "Whatever may be the family into which they are born, wherever they may live, those who love Bhagavān will never go to the world of Yama." There is general agreement also that the same sin will meet with either heavy or light punishment as its consequence, according to the differences of caste, character and the like. This is also consistent with what obtains in the world in cases like the offences committed by princes.
 
