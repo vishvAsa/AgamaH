@@ -523,7 +523,7 @@ __________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रारब्ध-कर्मत्तिल् पापांशम्-बोले  
-बुद्धिपूर्वोत्तराघम् प्रायश्-चित्तम् पण्णाद-बोदु  
+बुद्धिपूर्वोत्तराघम् प्रायश्-चित्तम् पण्णाद--पोदु  
 स-फलम् आनालुम्  
 पण्णिन प्रपत्ति मोक्षङ् गॊडाद् ऒऴियुमोव् ऎण्ड्रु  
 शङ्किक्कवॊण्णादु;
@@ -536,7 +536,7 @@ It should not be thought that, because sins committed deliberately after prapatt
 
 <details><summary>मूलम्</summary>
 
-प्रारब्धकर्मत्तिल् पापांशम्पोले बुद्धिपूर्वोत्तराघम् प्रायश्चित्तम् पण्णादबोदु सफलमानालुम् पण्णिन प्रपत्ति मोक्षङ्गॊडादॊऴियुमोवॆण्ड्रु शङ्किक्कवॊण्णादु;
+प्रारब्धकर्मत्तिल् पापांशम्पोले बुद्धिपूर्वोत्तराघम् प्रायश्चित्तम् पण्णाद-पोदु सफलमानालुम् पण्णिन प्रपत्ति मोक्षङ्गॊडादॊऴियुमोवॆण्ड्रु शङ्किक्कवॊण्णादु;
 </details>
 
 
@@ -971,8 +971,34 @@ In the case of those who are looked upon as learned and righteous, and who are a
 शिष्टतया व्यपदेश्यरान समर्थरुक्कु लोकसंग्रहत्तुक्कागवुम् प्रसिद्ध निमित्तङ्गळिल् यथाशक्ति प्रसिद्धप्रायश्चित्तमुचितम्. 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-If it were not done, it would be a transgression of (the Lord's) command stated before. The violation of the command is injurious in two ways. When the waiting woman [woman attendant] is suspended from service, she loses what she obtains (from the service ) such as scents and has to experience also dread (of punishment).
+अदु तविरुगैयुम्+++(=वारणम्)+++ मुन् सॊन्न आज्ञातिलङ्घनम् आम्. 
+</details>
+
+<details><summary>राजगोपालः (En)</summary>
+
+If it were not done, it would be a transgression of (the Lord's) command stated before. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अदु तविरुगैयुम् मुन् सॊन्न आज्ञातिलङ्घनमाम्. 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सैरन्ध्रिकैक्कु सेवै तप्पिन-पोदु तादात्विकमान परिमळादिगळैयुमिऴन्दु भयानुभवमुमुण्डामाप्पोले आज्ञातिलङ्घनमिरण्डुप्पडियनर्थम्. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+सैरन्ध्रिकैक्कु सेवै तप्पिन-पोदु तादात्विकमान परिमळादिगळैयुमिऴन्दु भयानुभवमुमुण्डामाप्पोले आज्ञातिलङ्घनमिरण्डुप्पडियनर्थम्. 
+</details>
+
+
+The violation of the command is injurious in two ways. When the waiting woman [woman attendant] is suspended from service, she loses what she obtains (from the service ) such as scents and has to experience also dread (of punishment).
 
 It may (now) be asked :-"What if the original or first prapatti is made on one's own initiative (without the sanction of the sāstrās ) so as to cover also deliberate sins of the future ?" This is (easily ) answered by a counter-check :-"What if bhakti or upāsana is performed so as to cover also future acts of deliberate offence? What if prapatti as an aṅga is performed so as to cover such acts ?" If it is stated that in these two cases (of counter-check) also, it may be held that future sins will not cling, it will be heresy opposed to what is stated in Śrī Bhāṣya and elsewhere. It is also opposed to the code of conduct observed by such (holy men ) as Ushasti [^U] who were steadfast in the contemplation of Brahman (Brahmanishta). 
 
