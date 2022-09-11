@@ -686,7 +686,7 @@ __________
 प्रारब्ध-सुकृत-विशेषादिगळाले वरुम् इङ्गुट्र कैङ्कर्यत्तुक्कु विच्छेद-सङ्कोचङ्गळ् वाराद् ऎण्ड्रुञ् चोल्लुगिऱ पक्षङ्गळ् शरण्यनुडैय गुणङ्गळैयुम् शरणागतियिनुडैय प्रभावत्तैयुञ् चॊल्लुगैक्कागव् अत्तनै.
 </details>
 
-<details><summary>Keith</summary>
+<details><summary>English</summary>
 
 It is sometimes maintained also that when such offences have been committed, there will be no delay in the attainment of the supreme goal even for those who are impatient of delay and that there will be no intermission or diminution in the services which have come to a man as the result of meritorious karma in the past bearing fruit in this life. 
 </details>
