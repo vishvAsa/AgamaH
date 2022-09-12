@@ -40,6 +40,11 @@ The praise of शूद्रजाति composed by कामदेव (कौ
 > Ref: Akkalapundi Grant of Singaya-Nayaka, Saka-Samvat 1290, by K. Rama Sastri, Epigraphia Indica Vol. 13. Translation by K. Rama Sastri. 
 
 ## Social scale 
+> विद्याकर्मवयोबन्धुवित्तैर्मान्या यथाक्रमम्।  
+एतैः प्रभूतैः शूद्रोऽपि वार्धके मानमर्हति॥ याज्ञवल्क्यस्मृति १.११६
+>
+> This verse shows that the possession of knowledge and wealth were open to anyone who could possess them through their ability.
+
 ### Incompariability: Medhātithi
 "Brāhmaṇa is not superior to Cāṇḍāla" - Medhātithi (on Manusmṛti 10.112) Why? He says that it is only between two things of the same category, that one is said to be superior to the other.
 
