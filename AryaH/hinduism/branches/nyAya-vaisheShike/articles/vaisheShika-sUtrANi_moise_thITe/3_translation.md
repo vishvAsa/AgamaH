@@ -1,9 +1,9 @@
 +++
-title = "3 Vaiśeṣikasūtra"
+title = "3 Translation"
 
 +++
 
-Transliteration and translation
+Vaiśeṣikasūtra Transliteration and translation
 
 ![Image 4](images/000000.jpg)
 
@@ -21,7 +21,7 @@ Transliteration and translation
 
 **of Candrānanda**
 
-52 * Vaiśeṣikasūtra *
+{{52}}
 
 **// **ॐ** //**
 
@@ -29,7 +29,9 @@ Transliteration and translation
 
 **Kaṇādapraṇītaṃ**
 
-**Vaiśeṣikasūtraṃ**1
+**Vaiśeṣikasūtraṃ**
+
+## 01
 
 **1.1. **
 
@@ -105,7 +107,7 @@ qualities, following the questions raised \[by him\], consequently to such a pup
 
 5 ‘iha’ translated sometimes with ‘it says’ or ‘he says,’ whereby ‘he’ refers to either Candrānanda, the author of the commentary, or Kaṇāda the author of Sūtrapāṭha \(Vaiśeṣikasūtra\). 
 
-54 * Vaiśeṣikasūtra *
+{{54}}
 
 ***1.1.2. yato ’bhyudaya niḥśreyasasiddhiḥ sa dharmaḥ***
 
@@ -173,7 +175,7 @@ and so forth; having stated dharma’s own nature and definition,11 \[now\] we s
 
 6; De Part Ani 1.2–3. 
 
-56 * Vaiśeṣikasūtra *
+{{56}}
 
 ***1.1.4. pṛthivī āpas tejo vāyur ākāśaṃ kālo ***
 
@@ -239,7 +241,7 @@ these 17 qualities \[beginning with\] ‘form-colour’ and so forth, have been 
 
 19 dharma, as the infinitesimal ‘quality’ of the substance \(soul\) should be analysed in relation to and distinct from Dharma as discussed in VSc 1.1.1. 
 
-58 * Vaiśeṣikasūtra *
+{{58}}
 
 ***1.1.6. utkṣepaṇam avakṣepaṇam ākuñcanaṃ ***
 
@@ -297,7 +299,7 @@ and so forth; and, as a result of the discernment23concerning substances, their 
 
 24 ‘commonness’ is expressed in sūtra 1.1.7 as ‘aviśeṣa’ \(‘indistinct’\). 
 
-60 * Vaiśeṣikasūtra *
+{{60}}
 
 ***1.1.7. sad anityaṃ dravyavat kāryaṃ kāraṇaṃ ***
 
@@ -375,7 +377,7 @@ are indistinguishable is when they have a particular universality, and \[each of
 
 35 ‘similarity’ and ‘dissimilarity’ imply each other not only from an ontological point of view, but also from an epistemological point of view; in fact, ontology pre-exists and is the ground onto which the epistemology develops, and it is this stress that distinguishes Vaiśeṣika \(ontology\) from the Nyāya \(epistemology\) system. 
 
-62 * Vaiśeṣikasūtra *
+{{62}}
 
 ***1.1.8. dravyāṇi dravyāntaram ārabhante***
 
@@ -461,7 +463,7 @@ motion does not engender another \[motion\], we notice the cessation of the \[su
 
 46 motion has distinct reality, and the fact that it cannot produce another motion shows that what glue and amalgamate entities are the qualities: conjunction \(saṃyoga\) and disjunction \(vibhāga\) which are attached to substances \(e.g. soul\); this gloss draws attention to the ambivalent nature of substances and qualities. 
 
-64 * Vaiśeṣikasūtra *
+{{64}}
 
 ***1.1.11. kāryāvirodhi dravyaṃ kāraṇāvirodhi ca***
 
@@ -533,7 +535,7 @@ existential becoming.52
 
 \(virodha\) shows the Vaiśeṣikas’ urge to systematise the ontological ‘difference’ that characterises the whole of reality. 
 
-66 * Vaiśeṣikasūtra *
+{{66}}
 
 ***1.1.13. kārya virodhi karma***
 
@@ -617,7 +619,7 @@ motions.63
 
 63 discussion of this gloss demonstrates the classification of the substances in a tripartite taxonomy: \(1\) concrete substances \(the mahābhūtas\); \(2\) abstract substances \(‘vacuum,’ ‘time,’ ‘space,’ ‘soul’\); and \(3\) atomic substances \(mind and mahābhūtas in their atomic state\). 
 
-68 * Vaiśeṣikasūtra *
+{{68}}
 
 ***1.1.15. dravyāśrayī aguṇavān saṃyogavibhāgeṣvakāraṇam ***
 
@@ -711,7 +713,7 @@ becomes the cause of the qualities and motions in the substances which are partl
 
 68 ‘mind’ becomes the cause of qualities and motions in the substances that are partless. It is an important statement for understanding the theory of transmigration in Vaiśeṣika, as explained in VSc 5.2.14 and VSc 5.2.19; passages that explain how manas \(with the quality ‘effort’\) is instrumental in the formation of a new body; yet, elsewhere manas shares with soul several specific qualities such as saṃskāra, which is presumably responsible for the transformation of the ‘soul’ from its all-pervasive ‘partless state’ \(possessed by generic qualities only\) down to its ‘embodied state’ \(possessed by specific qualities too\). 
 
-70 * Vaiśeṣikasūtra *
+{{70}}
 
 ***1.1.18. tathā guṇaḥ***
 
@@ -797,7 +799,7 @@ motion is the cause for ‘weight,’ ‘fluidity,’ impulse, \[and\] stroke \[
 
 74 although ‘conjunction’ and ‘motion’ – as we have seen in 1.1.16 – are dependent, they do not overlap, and must not be confused with each other; one happens, the other does not. 
 
-72 * Vaiśeṣikasūtra *
+{{72}}
 
 ***1.1.22. dravyāṇāṃ dravyaṃ kāryaṃ sāmānyam***
 
@@ -879,7 +881,7 @@ cause and effect, thus \[other qualities\] ‘taste’ and so forth are \[explai
 
 80 there are substances that do not have intrinsic activity \(VSc 5.2.23\); if substances had intrinsic activity, they would be dissolvable as a result, but motions cannot have other motions inherent in them because they are units, and successive in motion, not simultaneous. 
 
-74 * Vaiśeṣikasūtra *
+{{74}}
 
 ***1.1.27. gurutvaprayatnasaṃyogānām utkṣepaṇam***
 
@@ -947,7 +949,7 @@ variegated84 \[in nature\].
 
 84 ‘nānā’ should not be translated by ‘numerous’ for this would imply number; it should, perhaps, be translated with ‘pluralised,’ ‘variegated,’ because several items can exist as identical, whereas ‘nānā’ refers to difference or uniqueness of identity. 
 
-76 * Vaiśeṣikasūtra *
+{{76}}
 
 **1.2**
 
@@ -1031,7 +1033,7 @@ sive cognition.’89
 
 90 in this context, ‘bhāva’ can translate with both ‘reality’ and ‘existentiality’ \(a state, or a condition, respectively\). 
 
-78 * Vaiśeṣikasūtra *
+{{78}}
 
 ***1.2.5. dravyatvaṃ guṇatvaṃ karmatvaṃ ***
 
@@ -1113,7 +1115,7 @@ since ‘reality’ is separate from substance, and so forth, therefore ‘reali
 
 98 this staunch realistic system builds upon the view that reality exists beyond the visible substances, qualities, and motions. 
 
-80 * Vaiśeṣikasūtra *
+{{80}}
 
 ***1.2.9. eka dravyavattvān na dravyaṃ***
 
@@ -1183,7 +1185,7 @@ such as substance is not ‘reality’ because \[this ‘reality’\] abides col
 
 102 the fact that a substance \(air, lustre, water, earth\) has a reducible essence \(atoms\), as well as no continuous essence does not preclude its ontological status of substance; both abstract and concrete substances are to be considered substances; only their definition differs. 
 
-82 * Vaiśeṣikasūtra *
+{{82}}
 
 ***1.2.13. sāmānyaviśeṣābhāvena ca***
 
@@ -1253,7 +1255,7 @@ if motionness were a substance or quality, then there would be substantiality or
 
 106 ‘karmatva’ may be translated in this context as ‘capacity of activity’ but in order to avoid a confusion with kārya, which elsewhere has been translated with ‘activity,’ we shall now render ‘karmatva’ with ‘motionness.’
 
-84 * Vaiśeṣikasūtra *
+{{84}}
 
 ***1.2.18. sal liṅgāviśeṣād viśeṣaliṅgābhāvāc caiko bhāva iti***
 
@@ -1267,6 +1269,7 @@ abhinnā sattā /
 
 **// prathamo’dhyāya //**
 
+## 02
 **2.1**
 
 **/ dvitīyasyādhyāyasya pratham āhnikam /**
@@ -1329,7 +1332,7 @@ sweet and so forth, ‘smell’ \[is\] fragrant, and repellent, while ‘touch�
 
 \(sāmānyaguṇas\). 
 
-86 * Vaiśeṣikasūtra *
+{{86}}
 
 ***2.1.2. rūparasasparśavatya āpo dravāḥ snigdhāś ca***
 
@@ -1429,7 +1432,7 @@ these \[qualities\] ‘form-colour,’ ‘taste,’ ‘smell,’ \[and\] ‘touc
 
 119 in other words, ‘fluidity’ is common to earth and water. 
 
-88 * Vaiśeṣikasūtra *
+{{88}}
 
 ***2.1.7. trapu sīsa loha rajata suvarṇānāṃ taijasānām ***
 
@@ -1515,7 +1518,7 @@ cannot be known directly, but qualities can; on individuation, see Aristotle Met
 
 125 Candrānanda wishes to distinguish the touch of wind from the touch of earth; each touch has its ‘particularity’ – its specific dharmaviśeṣa. 
 
-90 * Vaiśeṣikasūtra *
+{{90}}
 
 ***2.1.11. adravyavattvād dravyam***
 
@@ -1603,7 +1606,7 @@ when for instance \[in the sentence\] ‘this is a bull,’ \[what you have impl
 
 129 ‘perception’ refers to the 4-fold contact between ‘soul,’ ‘mind,’ senses, and objects. 
 
-92 * Vaiśeṣikasūtra *
+{{92}}
 
 ***2.1.16. sāmānyato dṛṣṭāc cā viśeṣaḥ***
 
@@ -1665,7 +1668,7 @@ naming \(maheśvarasyābhidhyānamātrāt\); as it is known, abhidhyāna is one 
 
 133 as in some modern languages, e.g. French and German, the plural number is used to express a polite form of address. 
 
-94 * Vaiśeṣikasūtra *
+{{94}}
 
 ***2.1.19. pratyakṣapūrvakatvāt saṃjñākarmaṇaḥ***
 
@@ -1749,7 +1752,7 @@ one and the same with ‘arrangement of language,’ one is usually the work of 
 
 138 the difference between ‘weight’ and ‘vacuum’ is that while ‘weight’ is a non-inherent cause of motion, ‘vacuum’ is a permanent substance and is without substratum. 
 
-96 * Vaiśeṣikasūtra *
+{{96}}
 
 ***2.1.23. saṃyogād abhāvaḥ karmaṇaḥ***
 
@@ -1841,7 +1844,7 @@ is not a quality of mind; and due to the perceptibility through ear it \[sound\]
 
 we see any effect being produced’ will be referred again by Candrānanda in the introduction to the āhnika VSc 2.2. 
 
-98 * Vaiśeṣikasūtra *
+{{98}}
 
 ***2.1.26. liṅgam ākāśasya***
 
@@ -1929,7 +1932,7 @@ flower alone, therefore \[to say that\] ‘smell is produced \[by another\] smel
 
 146 the specific smell of a flower on cloth proves that cloth has no smell, for smell belongs only to the flower, not to the cloth. 
 
-100 * Vaiśeṣikasūtra *
+{{100}}
 
 ***2.2.2. etenāpsūṣṇatā vyākhyātā***
 
@@ -1999,7 +2002,7 @@ because \[coolness\] has entered in the particles of ‘lustre,’ because of \[
 
 150 ‘lustre’ \(tejas\) as a substance is a broader concept, therefore, it should not be confused with ‘fire’ \(agni\). 
 
-102 * Vaiśeṣikasūtra *
+{{102}}
 
 ***2.2.6. aparasmin paraṃ yugapad ayugapac ***
 
@@ -2067,7 +2070,7 @@ has essence-substantiality and continuity.156
 
 156 time is compared with the atoms of air, perhaps because it moves sequentially, and fragmentary in all directions, but is not exactly like the air, because it lacks constituent parts as air does. 
 
-104 * Vaiśeṣikasūtra *
+{{104}}
 
 ***2.2.8. tattvaṃ bhāvena***
 
@@ -2149,7 +2152,7 @@ therefore activity itself is time; \[response\] this is not so, because the mark
 
 as an absolute substance is different from its divisions or units, which can be said to be small ‘periods’ or ‘entities.’
 
-106 * Vaiśeṣikasūtra *
+{{106}}
 
 ***2.2.11. kāraṇe kālākhyā***
 
@@ -2239,7 +2242,7 @@ speech usages of ‘east,’ ‘south,’ and so forth as applied to ‘space,�
 
 169 ‘particular’ is the proof that ‘diversity’ does not refer to the ontological status of the substance as one; here diversity must refer to the states that one substance can undergo; the state makes a stable entity diverse and plural, not rather its static oneness. 
 
-108 * Vaiśeṣikasūtra *
+{{108}}
 
 ***2.2.16. ādityasamyogād bhūtapūrvād ***
 
@@ -2329,7 +2332,7 @@ is 2-fold: external173 and internal; 174 the external \[doubt\] is 2-fold: perce
 
 174 ‘internal doubt’ described in VSc 2.2.23 arises from vidyā and avidyā. 
 
-110 * Vaiśeṣikasūtra *
+{{110}}
 
 ***2.2.20. dṛṣṭam adṛṣṭam***
 
@@ -2423,7 +2426,7 @@ situation in which this very prediction does not come true; and \(3\) a situatio
 
 178 ‘artha’ may be translated as both ‘subject-matter’ \(object-matter, or object-matter\) as well as ‘meaning.’
 
-112 * Vaiśeṣikasūtra *
+{{112}}
 
 ***2.2.25. tasmin dravyaṃ karma guṇa iti saṃśayaḥ***
 
@@ -2501,7 +2504,7 @@ even though \[sound\] is a quality, it is similar with motions \[in that it has\
 
 181 ‘śabda’ might be subject to destruction and creation, because, like any other entity subjacent to motion, it becomes prone to change. 
 
-114 * Vaiśeṣikasūtra *
+{{114}}
 
 ***2.2.30. sato liṅgābhāvāt***
 
@@ -2583,7 +2586,7 @@ impermanent;187 why it is an effect-product? \[to which\] \[Kaṇāda\] says –
 
 187 ‘sound’ functions differently from grass because of being impermanent; a man can use the same ‘sound’ that has been used by another person, so sound is newly produced. 
 
-116 * Vaiśeṣikasūtra *
+{{116}}
 
 ***2.2.36. saṃyogād vibhāgāc chabdāc ca śabdaniṣpatteḥ***
 
@@ -2659,7 +2662,7 @@ the ‘sound’ is produced and is destroyed, ‘this word is mentioned twice’
 
 ‘space,’ ‘vacuum,’ and ‘soul’ are ‘one’ even though we can see a certain diversity in them, this diversity should be seen only in metaphorical, not ontological terms. 
 
-118 * Vaiśeṣikasūtra *
+{{118}}
 
 ***2.2.40. prathamāśabdāt***
 
@@ -2688,7 +2691,7 @@ bhāvād bahavopy amī hetavaḥ saṃśayaitāḥ / tasmād anityaḥ /
 prathamāśabdaḥ saṃpratipatti bhāvaś ceti sa dṛśyadete draṣṭavyā /
 
 **// iti dvitīyo’dhyāyaḥ //**
-
+## 04
 **3.1. **
 
 **/ tṛtiyasyādhyayasya adyam āhnikam /**
@@ -2749,7 +2752,7 @@ because ‘sound’ and so forth are established as having the nature of quality
 
 199 See VSc 2.2.40. 
 
-120 * Vaiśeṣikasūtra *
+{{120}}
 
 ***3.1.2. indriyārthaprasiddhir indriyārthebhyorthāntaratve ***
 
@@ -2823,7 +2826,7 @@ this present sūtra is given in order to conclude that, because elements lack co
 
 202 ‘that’ \(tat\) refers to the argument expressed under 3.1.2. 
 
-122 * Vaiśeṣikasūtra *
+{{122}}
 
 ***3.1.7. anya eva hetur ity anapadeśaḥ***
 
@@ -2905,7 +2908,7 @@ that which is established like ‘conjunction’ and so forth is not separated f
 
 ‘soul’ is the substratum of perception. 
 
-124 * Vaiśeṣikasūtra *
+{{124}}
 
 ***3.1.10. aprasiddho’napadeśaḥ***
 
@@ -2989,7 +2992,7 @@ the existence of a mountain or the statement ‘this is a horse’\), a doubtful
 
 213 when there is an ‘accumulation,’ the reality of things in logic is proved as implied in the proposition through ‘concomitance’ \(vyāpti\); in ontology, that reality is implied through ‘inherence’ of things, which means that ‘immanent reality’ \(hidden\) is as valid as ‘visible reality’ \(as shown by the visible marks, liṅga\). 
 
-126 * Vaiśeṣikasūtra *
+{{126}}
 
 ***3.1.13. ātmendriya mano’rtha sannikarṣād ***
 
@@ -3067,7 +3070,7 @@ she analyses the nature of the ‘soul,’ the theory of karma and rebirth, or t
 
 219 pot also exists because it depends on the will of men to make and use it for beneficial and non-beneficial purposes. 
 
-128 * Vaiśeṣikasūtra *
+{{128}}
 
 ***3.2.1. ātmendriyārtha sannikarṣe jñānasyābhāvo ***
 
@@ -3137,7 +3140,7 @@ there is production of cognitions as far as the many activities are produced and
 
 224 atoms are eternal too, even though they have no substance, because they are integrated into a substance; the comparison of mind with atoms is due to Vaiśeṣika’s peculiar view on the ‘atomic size’ of mind. 
 
-130 * Vaiśeṣikasūtra *
+{{130}}
 
 ***3.2.4. prāṇāpānanimeṣonmeṣa jīvana ***
 
@@ -3237,7 +3240,7 @@ is different according to different stages of life; Devadatta’s conceptualisat
 
 230 the simile ‘eyebrow of a dancer’ is telling indeed, not only to students of Indian drama \(who may recognise the mudrā and other facial expression rules typical to the Kathak dance\) but also to students of Indian philosophy, particularly Sāṃkhya, where the dancer and the spectator are the canonical simile to express the difference between prakṛti and puruṣa. 
 
-132 * Vaiśeṣikasūtra *
+{{132}}
 
 ***3.2.5. dravyatvanityatve vāyunā vyākhyāte***
 
@@ -3315,7 +3318,7 @@ because the word-‘ahaṃ’ – which refers to the substance ‘soul’ as so
 
 232 when one sees only the generality, the mind fails to see particularity; for a discussion about the difference between the ‘perception of the universal’ and the ‘perception of the particularity,’ see VSc 1.2.3–5. 
 
-134 * Vaiśeṣikasūtra *
+{{134}}
 
 ***3.2.10. yadi ca dṛṣṭapratyakṣohaṃ ***
 
@@ -3401,7 +3404,7 @@ because ‘ahaṃ’ can be used in apposition238 to the word ‘Devadatta,’ t
 
 238 ‘apposition’ is a grammatical construction in which 2 elements, normally noun phrases, are placed side by side, with one element serving to identify the other in a different way; the 2 elements are said to be in apposition. 
 
-136 * Vaiśeṣikasūtra *
+{{136}}
 
 ***3.2.13. aham iti pratyagātmani bhāvāt ***
 
@@ -3501,7 +3504,7 @@ absence of these \[pleasures and so forth\] in connection with another person, d
 
 240 the gloss elucidates the flimsy character of the specific qualities \(pleasure, pain\) that come and go, and which are alternatively present and absent in each single ātman; this shows that oneness of soul should be understood in terms of units, and plurality, as the next sūtra 3.2.16 clarifies. 
 
-138 * Vaiśeṣikasūtra *
+{{138}}
 
 ***3.2.17. śāstrasāmarthyāc ceti***
 
@@ -3514,7 +3517,7 @@ buddhisukhaduḥkhecchādveṣa prayatnādṛṣṭasaṃskārā vaiśeṣikā�
 anye tu saṃkhyā parimāṇā pṛthaktvā saṃyogā vibhāgāḥ /
 
 **// tṛtiyo’dhyayāḥ //**
-
+## 04
 **4.1. **
 
 **/ caturthasyādyāyasyadhyam āhnikam /**
@@ -3575,7 +3578,7 @@ even though atoms and so forth, are not comprehended by sense-organs, neverthele
 
 245 bodies \(śarīra\) and the elements \(mahābhūta\) \(all of which are composed of atoms\) are products only figuratively, these are the proof for the aggregation of atoms; creation and destruction are in fact in Vaiśeṣika, the composition and decomposition of the infinite and unique particularities that at one stage formed a whole. 
 
-140 * Vaiśeṣikasūtra *
+{{140}}
 
 ***4.1.3. kāraṇabhāvād hi kāryabhāvaḥ***
 
@@ -3663,7 +3666,7 @@ qualities as to form a ‘lower generality’ \(sāmānyaviśeṣa\); even thoug
 
 ‘an entity’ which must have ‘generic essence’ as well as ‘particular essence’; although atoms have ‘particular essence’ they do not have ‘generic essence,’ therefore taking them separately from the mahābhūtas, atoms are not complete dravya because they lack the second fundamental characteristic of substance, namely ‘generic essence.’
 
-142 * Vaiśeṣikasūtra *
+{{142}}
 
 ***4.1.8. rūpasaṃskārābhāvād vāyāv anupalabdhiḥ***
 
@@ -3757,7 +3760,7 @@ the smallest is known, then the grandest becomes capable of being known as well,
 
 256 ‘violation of the rule’ is the one mentioned above. 
 
-144 * Vaiśeṣikasūtra *
+{{144}}
 
 ***4.1.13. arūpiṣvacākṣuṣatvāt***
 
@@ -3857,7 +3860,7 @@ which have been mentioned, \[Kaṇāda\] says –
 
 265 ‘non-perceptible’ elements are ‘wind’ and ‘vacuum.’
 
-146 * Vaiśeṣikasūtra *
+{{146}}
 
 ***4.2.2. guṇāntarāprādurbhāvāc ca tryātmakam api na***
 
@@ -3955,7 +3958,7 @@ and prerequisite for ultimate knowledge and absolute liberation; in this gloss, 
 
 269 ‘kārya,’ the effect which presumably is alluded to here, takes effect as a result of a specific dharma \(according to karma theory\), which the dharma can be either auspicious or non-auspicious. 
 
-148 * Vaiśeṣikasūtra *
+{{148}}
 
 ***4.2.8. saṃjñādimattvāt***
 
@@ -3974,7 +3977,7 @@ santyayonijāḥ śarīraviśeṣāḥ / evaṃ jalādiśarīram ayonijam eva /
 pārthivaṃ tu yonijam ayonijaṃ ca /
 
 **// caturtho’dhyāyaḥ / samāpto dravyādhikāraḥ //**
-
+## 05
 **5.1. **
 
 **/ pañcamasyādyāyasya prathamam āhnikam /**
@@ -4051,7 +4054,7 @@ such as ‘numbers’ have extension only, 273 so also the connection between ha
 
 274 The pūrvadhikṛta type of argument is meant to prove the argument for the existence of the souls, as derived from the doer of the effort. 
 
-150 * Vaiśeṣikasūtra *
+{{150}}
 
 ***5.1.3. abhighaṭaje musalakarmaṇi vyatirekād ***
 
@@ -4149,7 +4152,7 @@ tionally\] experienced \[by soul\].280
 
 280 the commentator draws a distinction between voluntary motions and involuntary motions; he draws attention to the fact that, when it is said that ātman moves, this refers to the ‘embodied self,’ not to the substance ‘soul’ which, as gloss 5.2.23 clarifies, is devoid of motion. 
 
-152 * Vaiśeṣikasūtra *
+{{152}}
 
 ***5.1.7. saṃyogābhāve gurutvāt patanam***
 
@@ -4233,7 +4236,7 @@ enced by the embryo.287
 
 287 this gloss refers to the condition of bondage, which the womb of the mother and the word itself both represent; in both these two conditions the law that affects the beings is the inauspicious dharma \(adṛṣṭa\); reality and liberation would be to escape from the bondage condition of the womb which is the world itself. 
 
-154 * Vaiśeṣikasūtra *
+{{154}}
 
 ***5.1.12. tathā dagdhasya visphoṭanam***
 
@@ -4333,7 +4336,7 @@ sense-object relation – for instance, the absence of conscious perception of t
 
 294 motion is not continuous but fragmented in successive fractions. 
 
-156 * Vaiśeṣikasūtra *
+{{156}}
 
 ***5.1.17. nodanādādyamiṣoḥ karma karmakāritāc ca ***
 
@@ -4421,7 +4424,7 @@ combined and manifold, is the cause of motions due to pushing that is impelling,
 
 296 Kaṇāda recognises 2 different forces: saṃskāra and gurutva \(gravitation\); see earlier gloss 5.1.17, where there is a difference between ‘impulse’ \(nodana\) and ‘latent impetus’ \(saṃskāra\) too; hence, there could be 3 motions: \(1\) first-motion-impetus; \(2\) ‘latent impetus’ \(which happens after the first-motion\); and \(3\) gravitation due to weight. 
 
-158 * Vaiśeṣikasūtra *
+{{158}}
 
 ***5.2.2. tad viśeṣeṇādṛṣṭakāritām***
 
@@ -4499,7 +4502,7 @@ happens because of ‘fluidity.’301
 
 301 ‘water’ being an eternal substance can subsist in itself, and the unity of its parts is maintained by either the atomic law to which Vaiśeṣika ascribes, or by ‘ṛta’ \(a ‘specific dharma’ that characterises all cosmic components, either concrete or abstract\); thus, it not certain whether water is upheld because of a \[transcendental\] upholder, yet, Vaiśeṣika distinguishes between the physical motions and metaphysical motions. 
 
-160 * Vaiśeṣikasūtra *
+{{160}}
 
 ***5.2.7. nodanāt pīḍanāt saṃyuktasaṃyogāc ca***
 
@@ -4571,7 +4574,7 @@ Vedic sentence is the mark of the ‘lustre’ \[subsisting\] in the heavenly wa
 
 306 ‘heavenly waters’ \(āpas\), but Āpaḥ is in Vedic astrology a feminine deity, and a per-sonification of Water, who presides over the Pūrvāṣāḍhās ‘asterism’ \(nakṣatra\); the deity has therefore a motherly function because only mothers can contain water like an embryo; waters according to this cosmogonic myth, cover and contain the golden embryo that is symbolised by lustre. 
 
-162 * Vaiśeṣikasūtra *
+{{162}}
 
 ***5.2.12. apāṃ saṃyogād vibhāgāc ca stanayitnuḥ***
 
@@ -4659,7 +4662,7 @@ as well as the mutual motion of atoms, and the first motion of ‘mind,’ all t
 
 ‘depend on adṛṣṭa’; in other words, without adṛṣṭa, these do not happen. 
 
-164 * Vaiśeṣikasūtra *
+{{164}}
 
 ***5.2.15. hastakarmaṇā manasaḥ karma vyākhyātaṃ***
 
@@ -4741,7 +4744,7 @@ here, the word ‘ātman’ refers to ‘air’; such as there is motion-in-hand
 
 between ‘ātman,’ ‘air,’ and ‘effort’ \[and that\] is the motion of prāṇāyāma. 
 
-166 * Vaiśeṣikasūtra *
+{{166}}
 
 ***5.2.19. apasarpaṇam upasarpaṇam aśita pīta saṃyogaḥ ***
 
@@ -4821,7 +4824,7 @@ darkness is neither a substance, nor a quality, nor \[even\] motion because of t
 
 312 this contact is called ‘sambandho’śitapītasaṁyoga’ and takes place throughout the stages of embryonic formation. 
 
-168 * Vaiśeṣikasūtra *
+{{168}}
 
 ***5.2.22. tejaso dravyāntareṇāvaraṇāc ca***
 
@@ -4903,7 +4906,7 @@ concerning qualities which are stated to be causes, they are non-inherent, becau
 
 ‘nature’ which has a ‘principle of movement,’ Aristotle \(Physics 192b20\). 
 
-170 * Vaiśeṣikasūtra *
+{{170}}
 
 ***5.2.27. guṇair dig vyākhyātā***
 
@@ -4920,7 +4923,7 @@ yenaiva kāraṇena pratyayabhedahetutvena dig vyākhyātā tenaiva
 vyākhyātaḥ /
 
 **// pañcamo’dhyāyaḥ / samāptaḥ karmādhikāraḥ //**
-
+## 05
 **6.1. **
 
 **/ ṣaṣṭasyādhyāyasyādyam āhnikam /**
@@ -4975,7 +4978,7 @@ after having explained the motions, \[now\] qualities will be explained; concern
 
 322 Jambūvijayaji does not provide a reference to this sentence, but we take it to refer to the Vedas or Brāhmaṇas. 
 
-172 * Vaiśeṣikasūtra *
+{{172}}
 
 ***6.1.2. na cāsmad buddhibhyo liṅgamṛṣeḥ***
 
@@ -5051,7 +5054,7 @@ for instance, the act of receiving is only in the case of a \[Brahmin\] who has 
 
 325 in other words, the act of receiving is \[or should be\] preceded by Intellect. 
 
-174 * Vaiśeṣikasūtra *
+{{174}}
 
 ***6.1.6. tayoḥ kramo yathānitaretarāṅgabhūtānām***
 
@@ -5125,7 +5128,7 @@ you should know that anyone who commits violence against another person is impur
 
 327 here the rule is addressed to pure Brahmins; blessing and true speeches have no effectiveness if the internal and deep purity of the Brahmin is not confirmed; in Indian philosophy, there is not always dissociation between speaker and the spoken, between object and meaning, between śabda Brahman and śabda of people; there is often a holistic and immanent yet dualistic and transcendental mode in understanding truth. 
 
-176 * Vaiśeṣikasūtra *
+{{176}}
 
 ***6.1.11. samabhivyāhārato doṣaḥ***
 
@@ -5209,7 +5212,7 @@ thereby, the act of accepting money from another at the time of calamity has bee
 
 329 a full-moon day that falls in the month Vaiśākhī in the Hindu calendar which corresponds to April–May. 
 
-178 * Vaiśeṣikasūtra *
+{{178}}
 
 ***6.1.16. tathā viruddhānāṃ tyāgaḥ***
 
@@ -5293,7 +5296,7 @@ concerning the visible acts from the smṛti and śruti texts we understand that
 
 332 Pundit Devadatta Patil of Rivona sees ‘dṛṣṭānāṃ’ as injunctions explicitly mentioned in the śruti and smṛti texts \(personal communication\). 
 
-180 * Vaiśeṣikasūtra *
+{{180}}
 
 ***6.2.2. abhiṣecanopavāsa brahmacarya gurukulavāsa ***
 
@@ -5397,7 +5400,7 @@ defect?
 
 345 if there are defects, then the act leads to the absence of dharma, and when there are no defects in the act, then it leads to dharma. 
 
-182 * Vaiśeṣikasūtra *
+{{182}}
 
 ***6.2.4. bhāvadoṣa upadhā***
 
@@ -5481,7 +5484,7 @@ one who is un-restraint and devoid of specific ‘effort,’ even if it uses pur
 
 347 sūtra wishes to extend the discussion about things that are impure by comparison with pure things and acts. 
 
-184 * Vaiśeṣikasūtra *
+{{184}}
 
 ***6.2.10. vidyate cānarthāntaratvād yamasya***
 
@@ -5555,7 +5558,7 @@ someone’s passion is produced from causes not previously seen and there the
 
 ‘unseen force’ causes \[the ‘subtle self’\] to be born again; moreover, 
 
-186 * Vaiśeṣikasūtra *
+{{186}}
 
 ***6.2.16. jātiviśeṣāc ca rāgaviśeṣaḥ***
 
@@ -5651,9 +5654,10 @@ the \[word\] ‘ātman’ refers to ‘mind,’354 \[and\] liberation is that \[
 
 357 the importance of such negations derives from being discussed in relation to mokṣa; the ‘motion in mind’ is a particularly vital factor here; as it is known, buddhi, which is a vaiśeṣikaguṇa, will not be a constitutive part of the state of mokṣa; it will eventually vanish, leaving the ātman completely blank, which is due to the dissolution of adṛṣṭa, which seems to have manoeuvred them until then. 
 
-188 * Vaiśeṣikasūtra *
+## 07
+{{188}}
 
-**7.1. **
+**7.1.**
 
 **/ saptamasyādhyāyasya prathamam āhnikam /**
 
@@ -5737,7 +5741,7 @@ is because of the association with fire, 359 \[and because\] the inherent produc
 
 360 ‘inherence’ \(samavāya\) opposed to saṃyoga is supposed to explain a form of ‘occurrence’ \(vṛtti\), a ‘dependent occurrence’ of holes in their parts or of attributes in their substratum. 
 
-190 * Vaiśeṣikasūtra *
+{{190}}
 
 ***7.1.6. guṇāntaraprādurbhāvāt***
 
@@ -5827,7 +5831,7 @@ qualities such as ‘colour’ and so forth are produced in ‘earth’ which is
 
 368 alternative translation: when the substratum is destroyed, the qualities are destroyed too; when the permanent substances exist, the permanent qualities exist too. 
 
-192 * Vaiśeṣikasūtra *
+{{192}}
 
 ***7.1.11. apsu tejasi vāyau ca kāraṇaguṇapūrvāḥ ***
 
@@ -5911,7 +5915,7 @@ of qualities, some ‘specific,’ others ‘generic’ \(e.g. soul\); when, how
 
 \(samavāya\) takes place between substances and qualities. 
 
-194 * Vaiśeṣikasūtra *
+{{194}}
 
 ***7.1.15. aṇormahataś copalabdhyanupalabdhī ***
 
@@ -6001,7 +6005,7 @@ saha vyāpti viraheṇa prasanṅgasya praśithilamūlatvāt; viśeṣeṣu satt
 
 ‘particular’ and ‘universal,’ between ultimately small \(antyaviśeṣa\) and the universal \(sāmānya\). 
 
-196 * Vaiśeṣikasūtra *
+{{196}}
 
 ***7.1.17. tad viparītam aṇu***
 
@@ -6071,7 +6075,7 @@ India, Sri Lanka, Thailand, and Malesia as a naturalised species, and it is a tr
 
 388 in other words, oneness of time is to be taken ‘metaphorically.’
 
-198 * Vaiśeṣikasūtra *
+{{198}}
 
 ***7.1.21. aṇutvamahattvayor aṇutvamahattvābhāvaḥ ***
 
@@ -6151,7 +6155,7 @@ existence of oneness in the multiplicity of causes,395 in the same way, the qual
 
 395 ‘absence of the inherence of oneness in the multiplicity of causes’ indicates that inherence is a different concept from the connection between ‘units’ out of which ‘multiplicity’ is made; it may well be the case that ‘oneness’ is not one and the same concept as ‘unit.’
 
-200 * Vaiśeṣikasūtra *
+{{200}}
 
 ***7.1.25. tad anitye’nityam***
 
@@ -6237,7 +6241,7 @@ since ‘soul’ resembles ‘vacuum’ \[in dimension\], it should be seen as e
 
 403 that ‘soul’ is omnipresent is only a conjecture from VS 7.1.28–29. 
 
-202 * Vaiśeṣikasūtra *
+{{202}}
 
 ***7.1.30. tad abhāvād aṇu manaḥ***
 
@@ -6311,7 +6315,7 @@ as well as ‘mind.’
 
 408 Vaiśeṣika is a ‘philosophy of difference and particularity,’ so number plays a major role in demonstrating the differential nature of reality and its constituents. 
 
-204 * Vaiśeṣikasūtra *
+{{204}}
 
 ***7.2.1. rūparasagandhasparśavyatirekād ***
 
@@ -6395,7 +6399,7 @@ reality, and permanence, whereby particularity being a universal as the universa
 
 415 this sūtra should be read as a continuation of 7.2.2. 
 
-206 * Vaiśeṣikasūtra *
+{{206}}
 
 ***7.2.4. ekatva pṛthaktvayor ekatva pṛthaktvābhāvoṇutva ***
 
@@ -6475,7 +6479,7 @@ owing the absence of oneness only, there will be difference \[in substances\]; b
 
 421 ‘there will be only difference’ \(between oneness of substances and oneness of qualities\). 
 
-208 * Vaiśeṣikasūtra *
+{{208}}
 
 ***7.2.8. kāryakāraṇaikatvapṛthaktvabhāvabhā***
 
@@ -6565,7 +6569,7 @@ interchangeably.
 
 426 VSc 7.2.11 contains 3 types of ‘disjunction’: when a thing goes away; when both things separate; and when there is a ‘disjunction’ there is another ‘disjunction.’
 
-210 * Vaiśeṣikasūtra *
+{{210}}
 
 ***7.2.12. saṃyogavibhāgayoḥ saṃyogavibhāga abhāva ***
 
@@ -6641,7 +6645,7 @@ sound is not eternally joined with meaning, because it is \[only\] a quality of
 
 433 quality has no relation of combination with the substance; it can only inhere; ‘qualitiness’ \(guṇatva\) – which is used in the sūtra – is the state of having a quality, not only of being a quality. 
 
-212 * Vaiśeṣikasūtra *
+{{212}}
 
 ***7.2.16. guṇe ca bhāṣyate***
 
@@ -6723,7 +6727,7 @@ stick and horn which are in ‘conjunction’ or inherent with both the possesso
 
 440 this is an objection contrary to Vaiśeṣika’s theory of language that does not see an intimate relation between ‘meaning’ and ‘sound.’
 
-214 * Vaiśeṣikasūtra *
+{{214}}
 
 ***7.2.21. dṛṣṭatvād hetuḥ pratyayaḥ***
 
@@ -6793,7 +6797,7 @@ and word, \[but rather is caused\] by convention444
 
 444 The nature of word and meaning is thus not eternal as Mīmāṃsā maintains, but a convention settled by rules \(e.g. by grammarians such as Pāṇini\); in this respect, language, truth, and knowledge itself are ‘compositional’; the convention of words, as āhnika 6.2. made clear, is through the act of naming, by ṛṣis or God. 
 
-216 * Vaiśeṣikasūtra *
+{{216}}
 
 ***7.2.25. ekadikkālābhyāṃ sannikṛṣṭaviprakṛṣṭābhyāṃ ***
 
@@ -6883,7 +6887,7 @@ mentality of the Vaiśeṣika system, then it is precisely this kind of reasonin
 
 448 ‘karmaguṇa’ has been translated here not as a compound as it elsewhere in this commentary, but rather as 2 different nouns. 
 
-218 * Vaiśeṣikasūtra *
+{{218}}
 
 ***7.2.29. iheti yataḥ kāryakāraṇayoḥ sa samavāyaḥ***
 
@@ -6955,9 +6959,9 @@ defines all 3 categories; see also VS 1.1.14 and other essential sūtra on reali
 
 454 ‘hic et nunc’ type of experience may be a form of intuition that ultimately leads to the knowledge of ‘tattva,’ which in certain contexts has been translated with ‘essence.’
 
-220 * Vaiśeṣikasūtra *
+{{220}}
 
-**8. **
+## 08
 
 **/ aṣṭamo’dhyāyaḥ /**
 
@@ -7023,7 +7027,7 @@ by\] distant contact between these, that is \[by\] discernment,459 because, –
 
 459 vijñāna is a higher form of knowledge, perhaps that which relies on vaidharmya, see also parijñāna in VSc 1.1.6. 
 
-222 * Vaiśeṣikasūtra *
+{{222}}
 
 ***8.4. guṇakarmasva sannikṛṣṭeṣu jñānaniṣpatter ***
 
@@ -7095,7 +7099,7 @@ substance, quality, motion \[are known\] because of the power of the sense-perce
 
 464 ‘universal’ is created when the substance is created, meaning that it exists prior to the origination of the differentiated state of substance. 
 
-224 * Vaiśeṣikasūtra *
+{{224}}
 
 ***8.7. dravye dravyaguṇakarmāpekṣam***
 
@@ -7169,7 +7173,7 @@ because the universal white is inherent in the ‘quality white’ and from the 
 
 469 on the connection between sāmānya and guṇa, see the chapter on guṇa in Halbfass 1992: 113–37. 
 
-226 * Vaiśeṣikasūtra *
+{{226}}
 
 ***8.10. dravyeṣv anitaretara kāraṇāḥ kāraṇāyaugapadyāt***
 
@@ -7233,7 +7237,7 @@ the adjectival specifier \[Kaṇāda says\] –
 
 471 as in many instances, aṇutva, mahattva, permanence and impermanence, proximity and remoteness, these dual concepts mutually imply each other in Vaiśeṣika logic and epistemology, whereby one point of reference implies another; the system is a dualistic epistemology in a pluralistic ontology. 
 
-228 * Vaiśeṣikasūtra *
+{{228}}
 
 ***8.13. dṛṣṭeṣu bhāvādadṛṣṭeṣvabhāvāt***
 
@@ -7309,7 +7313,7 @@ ments;476 thus, \[he\] says –
 
 476 the gloss seems to discuss the levels of supervenience of the evolution of the cosmos, first substances \(essences\), second mahābhūtas \(elements\), and then the senses that correspond to each of the elements \(e.g. one particular sense is for ‘earth,’ another sense is for ‘water,’ and so forth\); the next sūtra, by using the ablative \(pañcamī vibhakti\), explains how these senses are ‘attached’ or ‘fixed’ to each element. 
 
-230 * Vaiśeṣikasūtra *
+{{230}}
 
 ***8.16. bhūyastvād gandhavattvāc ca pṛthivī gandhajñāne***
 
@@ -7393,9 +7397,9 @@ does not originate in the ear-organ \[but in ‘vacuum’\]; 482 thus, perceptio
 
 of senses, finds its utility here, namely by detecting the substance that is the ‘root-cause’ of any sense-perceptive manifestation. 
 
-232 * Vaiśeṣikasūtra *
+{{232}}
 
-**9. **
+## 09
 
 **/ navamo’dhyāyaḥ /**
 
@@ -7477,7 +7481,7 @@ that which does not exist\), then asatkāryavāda may be another form of asatkā
 
 ‘complete absence’ of something; does ‘unreal’ mean something completely ‘non-existent’ or it is just something ‘dormant’ or ‘un-manifested’? Chāndogya Upaniṣad 6.2. seems to be ambiguous about the nature of ‘sat’ and ‘asat’; should we read it in terms of absence versus the presence of a thing, actuality versus potentiality, or rather manifestation versus un-manifested thing? 
 
-234 * Vaiśeṣikasūtra *
+{{234}}
 
 ***9.4. sac cāsat***
 
@@ -7553,7 +7557,7 @@ knowledge concerning ‘asat’ is after seeing the dissolution of the thing tha
 
 496 ‘perception of difference’ is possible because things are unique each time they are produced and each time they are destroyed. 
 
-236 * Vaiśeṣikasūtra *
+{{236}}
 
 ***9.7. tathābhāve bhāvapratyakṣatvāc ca***
 
@@ -7635,7 +7639,7 @@ there is ‘no pot at this ‘time’ \[and\] ‘space,’ this \[sentence\] is 
 
 ‘space’ and so forth in regard to pot and so forth, and the absence of the produced pot’s own nature is not denied. 
 
-238 * Vaiśeṣikasūtra *
+{{238}}
 
 ***9.11. nāsty anyaś candramā iti sāmānyac ***
 
@@ -7725,7 +7729,7 @@ having withdrawn the senses from objects, and the ‘mind’ from them \[senses\
 
 502 explanation: the introductory line of this sūtra and gloss explains that there exists a special form of knowledge achieved by yogis; the use of the genitive dual in the introductory line \(pratyakṣānumānayoḥ\) might mean that, like Praśastapāda, Candrānanda acknowledges a 2-fold character of yogipratyakṣa; there is also an epistemological argument at stake here, namely whether ‘soul’ is its own perceiver, or whether is perceived by someone else, say ‘mind’ \(manas\). 
 
-240 * Vaiśeṣikasūtra *
+{{240}}
 
 ***9.14. tathā dravyāntareṣu***
 
@@ -7797,7 +7801,7 @@ due to the co-existence with the connected \[object\].508
 
 508 ‘saṃyuktasamavāya’ plays an important role within the Vaiśeṣika theory of perception; it is what may be called ‘inferential induction’ whereby the epistemology of the system lies in both perception and inference, among which the former is principal and crucial. 
 
-242 * Vaiśeṣikasūtra *
+{{242}}
 
 ***9.17. ātmasamavāyād ātmaguṇeṣu***
 
@@ -7891,7 +7895,7 @@ less, since yoga entails mental motion, it must have only an intellectual role t
 
 516 the theory of language in Vaiśeṣika is that sound-word \(śabda\) is not eternal, therefore the meaning, like knowledge itself, is a ‘composite entity or process’; that is to say, language is merely conventional, established by God or seers who possess the power to name, define, and memorise things and their essences, see, for instance, VSc 6.1.13. 
 
-244 * Vaiśeṣikasūtra *
+{{244}}
 
 ***9.20. hetur apadeśo liṅgaṃ nimittaṃ pramāṇaṃ ***
 
@@ -7963,7 +7967,7 @@ the visualisation of the rising of smoke follows from the perception of fire due
 
 519 saṃskāra \(latent impetus\) in VSc 9.22–4 deals with memory from sleep, whereas from VSc 9.25 onwards with memory in the awakened state. 
 
-246 * Vaiśeṣikasūtra *
+{{246}}
 
 ***9.23. tathā svapnaḥ svapnāntikaṃ ca***
 
@@ -8041,7 +8045,7 @@ whatever knowledge is not defective, that is called pratyakṣa \[perception\] a
 
 523 ‘viśiṣṭādharma’ may well be an allusion to ‘antyaviśeṣa’ \(VS 1.2.6\) which is the ‘cognitive factor’ for the identification of causes of illness; the mention of doṣas such as ‘vāta’ and so forth, shows that the Vaiśeṣika system plays a role in the Ayurvedic aetiology, in its medical practice, for the medic, like the yogi, is the observer who must introspect the ultimate particularity of any disorder, be it of either a physical or mental order; since antyaviśeṣa is a factor that differentiates the non-composite eternal substances, here the illness lies in the corrupted ‘soul,’ not the fundamental elements wind, fire, water, and earth. 
 
-248 * Vaiśeṣikasūtra *
+{{248}}
 
 ***9.28. ārṣaṃ siddhadarśanaṃ ca dharmebhyaḥ***
 
@@ -8068,7 +8072,7 @@ pratyakṣānumānābhyāṃ na bhidyate ārṣaṃ bhidyata iti varṇayanti
 saṃyogāc cotpadyate /
 
 **// iti navamo’dhyāyaḥ //**
-
+## 10
 **10.1. **
 
 **/ daśamo’dhyāyaḥ /**
@@ -8109,7 +8113,7 @@ thus, since the earlier discussion concerning ‘cognition’526 is not complete
 
 would be impossible, but this is something which the commentator rejects. 
 
-250 * Vaiśeṣikasūtra *
+{{250}}
 
 ***10.1. ātma samavāyaḥ sukhaduḥkhayoḥ ***
 
@@ -8197,7 +8201,7 @@ another doubt is when after having understood the particularity through another 
 
 531 the reality of ‘universals’ is possible only after the knowledge of ‘particularity’ has been grasped; the knowledge goes from simple to complex; without particularity the knowledge of the universal becomes the knowledge of generic things, \(epistemic generalisation\) which often leads to confusion and doubt; particularity and universality are opposite but equivalent terms for they imply each other; concerning universals in Aristotle see De Int 7.17a38–41; Met 7.13. 
 
-252 * Vaiśeṣikasūtra *
+{{252}}
 
 ***10.4. tayor niṣpattiḥ pratyakṣa laiṅgikābhyāṃ ***
 
@@ -8271,7 +8275,7 @@ such as after an uninterrupted collection \[of causes\] as it must happen, 534 a
 
 moments, whereby they necessarily presuppose each other. 
 
-254 * Vaiśeṣikasūtra *
+{{254}}
 
 ***10.7. tathā bhavat īti sāpekṣebhyonapekṣebhyaś ca***
 
@@ -8353,7 +8357,7 @@ because of the word ‘ca,’ \[we say that\] ‘conjunction’ \[both\] exists 
 
 538 the non-inherence of the effect in the cause, according to asatkāryavāda, means that the effect cannot ‘pre-exist’ in the cause; effect exists only if there is a cause; alternative translation: ‘when it \[conjunction\] exists \[and when it does not exist\] \[cognition is possible\] because of the non-inherent effect \[in cause\],’ the alternate existence of ‘conjunction’ to exist and not to exist, is indicated by the conjunction ‘ca,’ see Thakur 2003: 119. 
 
-256 * Vaiśeṣikasūtra *
+{{256}}
 
 ***10.10. ekārtha samavāyiṣu kāraṇāntareṣu ***
 
@@ -8437,7 +8441,7 @@ to identify, inductively, the cause, which is the substance itself which is the 
 
 544 ‘cognition’ is a ‘composite process’; in this case it is the mutual composition between cause and effect which is always intertwined; cognition should not be understood as the faculty of one organ, such as mind, as in Western philosophy. 
 
-258 * Vaiśeṣikasūtra *
+{{258}}
 
 ***10.14. kāraṇasamavāyāt karmaṇi***
 
@@ -8501,7 +8505,7 @@ cognition of ‘conjunction’ as a cause concerns substance \[cloth\] due to th
 
 551 since the previous sūtras discuss the various causes, the subject of the sūtra I take to be the ‘cause.’
 
-260 * Vaiśeṣikasūtra *
+{{260}}
 
 ***10.17. tathā kāraṇākāraṇa samavāyāc ca***
 
@@ -8585,7 +8589,7 @@ performance of acts which are seen in the śruti and smṛti \[texts\] when thei
 
 554 this sūtra is identical with VS 6.2.1. 
 
-262 * Vaiśeṣikasūtra *
+{{262}}
 
 ***10.21. tad vacanādāmnāya prāmāṇyam iti***
 

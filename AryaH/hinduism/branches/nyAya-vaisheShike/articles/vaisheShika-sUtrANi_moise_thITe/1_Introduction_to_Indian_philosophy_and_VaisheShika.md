@@ -17,15 +17,15 @@ One may see in the latter a maturation of inquiry from the fundamental questions
 
 The second stage of Greek Pre-Socratic thought, one that resembles the Vedic and Upaniṣadic philosophy, raises questions about substantial ‘change’, apparent ‘transformation’ of the world, and what are the laws and principles behind these. These were explained by postulating the laws of combination and separation of ultimately imperishable substances. This stage includes atomic theories \(Leucippus\) and explanations about the cyclical and disintegrating nature of the world, primordial elements, which are qualitatively different from each other, limited in number, and infinitely divisible \(Empedocles\), questions about one universal cause such as a primordial ‘mind’ \(νοῦς\)\(Anaxagoras\), and questions about the essence of the world spoken of in terms of either ‘Being’ \(Parmenides\) or ‘numbers’ \(Pythagoras\).3 The rationale of this preliminary survey on the Pre-Socratic Greek philosophy is important because of their conspicuous resemblance with the problems raised by the early Vedic and Upaniṣadic seers. The point made 
 
-1 Filliozat 1970: 7. 
+[^1]: Filliozat 1970: 7. 
 
-2 Zeller 1895: 35. 
+[^2]: Zeller 1895: 35. 
 
-3  A good introduction to Greek philosophy is R. P. Appleton, The Elements of Greek Philosophy, 1922 \(for A levels and baccalaureate readers\); and for a richer presentation, see Edward Zeller. 
+[^3]:  A good introduction to Greek philosophy is R. P. Appleton, The Elements of Greek Philosophy, 1922 \(for A levels and baccalaureate readers\); and for a richer presentation, see Edward Zeller. 
 
 Outlines of the History of Greek Philosophy, 1895 \(for graduate scholars\). 
 
-* Introduction to Indian philosophy and Vaiśeṣika * 3
+{{3}}
 
 here is that the first philosophical questions in philosophy lie in the zone of ontology \(nature of things\) and its broader domain, metaphysics \(relation of things\). 
 
@@ -33,13 +33,13 @@ Now, regarding the difference between ontology and metaphysics, one conceptual a
 
 If metaphysics is – within the context of modern analytic philosophy – a domain that presents, by rational means, a general ‘picture of the world,’7 this should not be confused with a mere encyclopaedic account of the elements of such a picture, for metaphysics must include the domains of knowledge and language too. In Indian philosophy, taxonomy and enumeration is important, for as Vyomaśiva, 
 
-4 The difference between ‘Being’ \(ontological domain\) and ‘beings’ \(ontic domain\) has been revived more recently by Heidegger in Being and Time. \(1962 English trans\). 
+[^4]: The difference between ‘Being’ \(ontological domain\) and ‘beings’ \(ontic domain\) has been revived more recently by Heidegger in Being and Time. \(1962 English trans\). 
 
-5  Quinton 1973: 237. 
+[^5]:  Quinton 1973: 237. 
 
-6  Halbfass 1992: 48–9. The order is, of course, a simplification; as far as Vaiśeṣika is concerned, its ontological categories are related both vertically, into a system of supervenience, as well as horizontally, for the category of particularity \(viśeṣa\) is a horizontal derivation of the quality of distinctness; as I shall argue later, the Vaiśeṣika ‘picture of the world’ is a realistic immanent pluralism. The synchronic arrangement is most telling when we analyse the nature of abstract substances, time, space, vacuum, and soul, which are said to be all-infinite and all-pervasive, which implies the assumption that these can co-exist as the same time and space. 
+[^6]:  Halbfass 1992: 48–9. The order is, of course, a simplification; as far as Vaiśeṣika is concerned, its ontological categories are related both vertically, into a system of supervenience, as well as horizontally, for the category of particularity \(viśeṣa\) is a horizontal derivation of the quality of distinctness; as I shall argue later, the Vaiśeṣika ‘picture of the world’ is a realistic immanent pluralism. The synchronic arrangement is most telling when we analyse the nature of abstract substances, time, space, vacuum, and soul, which are said to be all-infinite and all-pervasive, which implies the assumption that these can co-exist as the same time and space. 
 
-7  Quinton 1973: 235. 
+[^7]:  Quinton 1973: 235. 
 
 
 
@@ -51,21 +51,21 @@ most basic category \(point 1\), particularly when it is regarded as a genus-uni
 
 known by ‘lower universals’ \(point 3\), while the derived, or the dependent ontic level discussed previously stands in Vaiśeṣika philosophy for the ‘ultimate particularity’ \(antyaviśeṣa\) \(point 2\); its existence is infinite due to its inter-dependent nature within the universal. Point 3 of Vaiśeṣika metaphysics, this edition argues, could forcefully complement the controversial and dualistic matter-form \(later on essence-versus-existence\) tension and debate that pervaded the history of Scholastic philosophy from the post-Aristotelian age down to Duns Scotus and 
 
-8 Vyomaśiva’s Vyomavatī \(vol. 1, p. 21\), and Udayana’s Kiraṇāvalī \(GOS, p. 148\) talk about an ambitious intention of Kaṇāda, the founder of the system, to ‘enumerating everything in the world that has the character of being,’ via Halbfass, 1992, p. 69. 
+[^8]: Vyomaśiva’s Vyomavatī \(vol. 1, p. 21\), and Udayana’s Kiraṇāvalī \(GOS, p. 148\) talk about an ambitious intention of Kaṇāda, the founder of the system, to ‘enumerating everything in the world that has the character of being,’ via Halbfass, 1992, p. 69. 
 
-9  Anthony Quinton, The Nature of Things 1992, I shall refer to this work throughout. 
+[^9]:  Anthony Quinton, The Nature of Things 1992, I shall refer to this work throughout. 
 
-10  Quinton 1973: 242. In Indian philosophy, we see the tripartite grades of metaphysics in Candramatī, who distinguishes between highest universality \(sattā\) and a specific universality \(sāmānyaviśeṣa\), both of which are part of the category of universal \(sāmānya\); if we analyse these 2 universals alongside particularity, as both Candrānanda and Praśastapāda do, then we obtain 3 levels of reality. The tripartite classification fits well with analytic philosophy, and Indian thought as well. 
+[^10]:  Quinton 1973: 242. In Indian philosophy, we see the tripartite grades of metaphysics in Candramatī, who distinguishes between highest universality \(sattā\) and a specific universality \(sāmānyaviśeṣa\), both of which are part of the category of universal \(sāmānya\); if we analyse these 2 universals alongside particularity, as both Candrānanda and Praśastapāda do, then we obtain 3 levels of reality. The tripartite classification fits well with analytic philosophy, and Indian thought as well. 
 
-11 Each Indian philosophical system \(darśana\) must be approached through the list of its ‘categories’ 
+[^11]: Each Indian philosophical system \(darśana\) must be approached through the list of its ‘categories’ 
 
 \(padārtha\), for a list of these, see the Grimes dictionary 1996: 235–8. It is recommended, however, with great caution, for this dictionary, though a starting point, contains entry definitions that do not discuss divergent contradictory padārthas, which occur among commentators inside 1 school. 
 
 One should be aware of the difference between the categories preserved in the founding sūtra texts, and the inflated list, which the subsequent commentators added. For example, if we look at Vaiśeṣikasūtra in its independent form, it seems to have had originally only 3 basic categories: substance \(dravya\), quality \(guṇa\), and action \(karma\), yet the commentarial tradition begins to discuss 6 categories, appending to these another 3: universal \(sāmānya\), particularity \(viśeṣa\) and inherence \(samavāya\). It worth mentioning that the ‘addition’ of 3 categories does nothing but characterise and elucidate the nature of the 3 fundamental categories, in particular, the substance category, and its relation to qualities, and more generally, cosmic ‘karmic’ motion. 
 
-12 Substance is a notoriously fuzzy translation for dravya, for a discussion of this, see the fifth chapter of Wilhelm Halbfass, On Being and What There Is, 1992. 
+[^12]: Substance is a notoriously fuzzy translation for dravya, for a discussion of this, see the fifth chapter of Wilhelm Halbfass, On Being and What There Is, 1992. 
 
-* Introduction to Indian philosophy and Vaiśeṣika * 5
+{{5}}
 
 Neo-Scholasticism.13 By contrast, metaphysics, as considered by Vaiśeṣika, has 3 descriptive levels: \(1\) a vast universality \(sāmānya\); \(2\) a specific universality \(sāmānyaviśeṣa\); and \(3\) an ultimate particularity \(antyaviśeṣa\). These are all characterised by ‘existence’ \(sattā\), which has an ontological universal status as well. This tripartite metaphysical model would be challenged further by later 
 
@@ -77,17 +77,17 @@ Ontological categories \(padārtha\) undergo a considerable change under Praśas
 
 ‘nameability’ \(abhidheyatva\), and correspond to the 3 major areas of philosophical inquiry: ontology, epistemology, and language, respectively.18 The change Praśastapāda brought into the system is a subordination of ontology to epistemology, a fact that singles him out within the overall canonical tradition. Though Vaiśeṣika is usually regarded as an ontological system \(Halbfass 1992\), the textual evidence we have illustrates that we are dealing with something more than just an ontic enumeration. It puts forward a complex system of descriptive metaphysics, which combines elements of physics \(natural philosophy\), and draws different distinctions. Such distinctions are for instance between ritual actions and moral intentions, between perception, and inference, and intuition; relational distinctions between inherence and conjunction; between names, definitions, and abstract objects; between substance and essence; between quality and substratum; between laws and motions; between mind and mental states; between values and 
 
-13  See Francis A. Cunningham, Essence and Existence in Thomism. A Mental Versus the Real Distinction, 1988. 
+[^13]:  See Francis A. Cunningham, Essence and Existence in Thomism. A Mental Versus the Real Distinction, 1988. 
 
-14  Śivāditya SP p. 9 \(he classifies universal in ‘near universal,’ ‘remote universal,’ both ‘near and remote universal’\); we come across this tripartite gradation of metaphysics in Candramatī, who distinguishes between highest universality \(sattā\) and a specific universality \(sāmānyaviśeṣa\), both of which are part of the category of universal \(sāmānya\). If we analyse these 2 universals alongside particularity, as both Candrānanda and Praśastapāda do, then we obtain 3 levels of reality, which is accepted by both analytic philosophy and Indian thought. 
+[^14]:  Śivāditya SP p. 9 \(he classifies universal in ‘near universal,’ ‘remote universal,’ both ‘near and remote universal’\); we come across this tripartite gradation of metaphysics in Candramatī, who distinguishes between highest universality \(sattā\) and a specific universality \(sāmānyaviśeṣa\), both of which are part of the category of universal \(sāmānya\). If we analyse these 2 universals alongside particularity, as both Candrānanda and Praśastapāda do, then we obtain 3 levels of reality, which is accepted by both analytic philosophy and Indian thought. 
 
-15  Candramatī DP 1.1. mentions 10 categories, but interestingly enough, he enumerates, alongside universality and particularity, a 9th category called commonness; it is worth asking what the difference and relationship are between commonness and universality; could it be that commonness is that lower universal that links particularity with universality as in the case of Candrānanda? 
+[^15]:  Candramatī DP 1.1. mentions 10 categories, but interestingly enough, he enumerates, alongside universality and particularity, a 9th category called commonness; it is worth asking what the difference and relationship are between commonness and universality; could it be that commonness is that lower universal that links particularity with universality as in the case of Candrānanda? 
 
-16  Jayanta Bhaṭṭa’s Āgamaḍambara \(a satirical play critical to various traditions in Kashmir\) mentions a certain Dharmaśiva as a teacher of the philosophies of Kaṇabhakṣa and Akṣapāda Gautama, via Thakur 2003: 383. 
+[^16]:  Jayanta Bhaṭṭa’s Āgamaḍambara \(a satirical play critical to various traditions in Kashmir\) mentions a certain Dharmaśiva as a teacher of the philosophies of Kaṇabhakṣa and Akṣapāda Gautama, via Thakur 2003: 383. 
 
-17  See the article Johannes Bronkhorst, God’s Arrival in the Vaiśeṣika System, 1996. 
+[^17]:  See the article Johannes Bronkhorst, God’s Arrival in the Vaiśeṣika System, 1996. 
 
-18  For the relation with the 3 major domain of philosophical inquiry, see Shashiprabha Kumar, Classical Vaiśeṣika in Indian Philosophy: On Knowing and What Is to Be Known, 2013. 
+[^18]:  For the relation with the 3 major domain of philosophical inquiry, see Shashiprabha Kumar, Classical Vaiśeṣika in Indian Philosophy: On Knowing and What Is to Be Known, 2013. 
 
 
 
@@ -101,17 +101,17 @@ ological goals, and value-related implications. 21 Moreover, the project of comp
 
 One simple way to understand Indian philosophy is by looking into the research questions that a Vaiśeṣika student addresses in the opening dialogue of gloss VSc 1.1.1, on the one hand, and to the fundamental ontic categories of gloss VSc 1.1.4–6 on the other hand. The opening discussion between a teacher and a student is characteristic of the conversational mode of transmission of classical and early medieval Indian philosophy, a mode of teaching that was widespread in both Classical Greece \(see Plato’s Dialogues\) as well as in the Upaniṣads \(see Dialogue between Uddālaka Āruṇi and Śvetaketu\). At origin, the aphoristic style of Indian philosophy is either Śramaṇic or Buddhist. The second section of the Pāli canon known as Sutta Piṭaka comprises a vast number of ‘threads’ of thought \(‘sutta’ in Pāli, ‘sūtra’ in Sanskrit\) recognised to be the sayings of the Buddha himself. Sūtras, however, should not be confused with either ‘mantras’ \(in the Vedas\), or with ‘ślokas’ \(poetical verses that follow a precise meter used in the 
 
-19  I have shown recently that enumeration and knowledge in Vaiśeṣika, quite unsurprisingly, have, like other Indian philosophical systems, a soteriological goal. See Ionut Moise, Salvation in Indian Philosophy, 2019. 
+[^19]:  I have shown recently that enumeration and knowledge in Vaiśeṣika, quite unsurprisingly, have, like other Indian philosophical systems, a soteriological goal. See Ionut Moise, Salvation in Indian Philosophy, 2019. 
 
-20  Strawson 1959: 10. 
+[^20]:  Strawson 1959: 10. 
 
-21 I have contextualised the metaphysics of Vaiśeṣika in relation to modern analytic philosophy. 
+[^21]: I have contextualised the metaphysics of Vaiśeṣika in relation to modern analytic philosophy. 
 
 Contrary to post-colonial theory, comparative philosophy argues that philosophical conversation should not make any judgements of superiority, or inferiority, nor the conversion and domination of thought over and above the reality of being, to which philosophy is committed. 
 
-22 Strawson 1959: 10. 
+[^22]: Strawson 1959: 10. 
 
-* Introduction to Indian philosophy and Vaiśeṣika * 7
+{{7}}
 
 epic literature\). The preservation of the sūtras is problematic, not least because they – unlike mantras and ślokas – lack in rhyme and beauty, which otherwise render them easier to memorise and transmit. These sūtras became the ‘founding 
 
@@ -125,15 +125,15 @@ Europe down to Nietzsche.
 
 Indian philosophy developed in a scholastic manner and current readers who study it are usually equipped with skills similar to those that European Classicists and Medievalists possess.26 Indian scholasticism presents many problems related to authorship, doctrinal change, and time of composition. Indeed, these are highly contentious issues in the history of Indian thought and have much to do with the way in which orthodox Hindus usually view their Vedic and philosophical thought: as an authorless, changeless, and timeless revelation handed down to sages from a remote past. Although conceptual or philosophical change does happen in the history of Indian thought, its progression is very slow indeed. Unlike Sanskrit scientific works \(astrology and mathematics\), the colophons of Sanskrit philosophical manuscripts hardly mention any date, and very little is known about 
 
-23  It is debatable whether all the sūtra texts listed here can be considered founding texts. 
+[^23]:  It is debatable whether all the sūtra texts listed here can be considered founding texts. 
 
-24  Sāṃkhyasūtra is not the earliest text of Sāṃkhya philosophy; see Iśvarakṛṣṇa’s Sāṃkhyakārikā. 
+[^24]:  Sāṃkhyasūtra is not the earliest text of Sāṃkhya philosophy; see Iśvarakṛṣṇa’s Sāṃkhyakārikā. 
 
 On an approximate date of the sūtra texts composition, see Hermann Jacobi, On the Dates of the Hindu Philosophical Sūtras, 1911. 
 
-25  Heraclitus \(c. 475–535 BC\) seems to have handed down his thought in ‘pregnant, picturesque sentences which were often oracular and laconic to the point of obscurity,’ a fact that gained him the surname of ‘The Obscure,’ Zeller 1895: 66. 
+[^25]:  Heraclitus \(c. 475–535 BC\) seems to have handed down his thought in ‘pregnant, picturesque sentences which were often oracular and laconic to the point of obscurity,’ a fact that gained him the surname of ‘The Obscure,’ Zeller 1895: 66. 
 
-26 Yet, more recently, Indian philosophy has been approached in a more creative manner \(logics and epistemology\), for instance, the school of Bimal Krishna Matilal and his pupil Jonardon Ganeri; an even bolder and creative approach combining ancient and modern perspectives on ancient and modern philosophy is found in Richard Sorabji, Gandhi and the Stoics: Modern Experiments on Ancient Values, 2012. 
+[^26]: Yet, more recently, Indian philosophy has been approached in a more creative manner \(logics and epistemology\), for instance, the school of Bimal Krishna Matilal and his pupil Jonardon Ganeri; an even bolder and creative approach combining ancient and modern perspectives on ancient and modern philosophy is found in Richard Sorabji, Gandhi and the Stoics: Modern Experiments on Ancient Values, 2012. 
 
 
 
@@ -147,13 +147,13 @@ The history of Indian philosophy developed around ‘3 tensions,’ which may be
 
 \(darśana\) into their own unified theologies. The result is a binary amalgamation \(e.g. Vaiśeṣika with Nyāya; Sāṃkhya with Yoga; Pūrva-Mīmāṃsā with Vedānta\), or the creation of further conceptual tensions between ‘immanent’ and ‘transcendent’ \(in Śaivism\). New theological doctrines such as the nature of knowledge or god would create further religious tensions, splits, and dissensions within the great Vedānta philosophy. There is also a more recent \(modern\) tension in Hindu philosophy, one that concerns modern Indian culture and society and produced new interpretations of Hinduism. This is a tension that only flourished recently \(19th–21st centuries\), chiefly as a response to the Western colonial challenge. Its interpretations revisit perennial philosophical themes concerning ‘freedom’ \(individual and collective\) \(Aurobindo\) as well as social and religious Indian ‘inclusiv-ism’ and ‘pluralism’ \(Ambedkar, Gandhi\). These new contributions are not in the 
 
-27  Kaṇāda is the founder of Vaiśeṣika, Kāpila the founder of Sāṃkhya, Jaimini of Pūrva Mīmāṃsā, Akṣapāda Gautama of Nyāya, Bādarāyaṇa of Brahmasūtra \(Vedānta\), and Patañjali of Yoga. This is by no means a complete list. 
+[^27]:  Kaṇāda is the founder of Vaiśeṣika, Kāpila the founder of Sāṃkhya, Jaimini of Pūrva Mīmāṃsā, Akṣapāda Gautama of Nyāya, Bādarāyaṇa of Brahmasūtra \(Vedānta\), and Patañjali of Yoga. This is by no means a complete list. 
 
-28  See Maurice Winternitz, A History of Indian Literature, 1927, for a start; as for philosophy, see Karl Potter, Encyclopaedia of Indian Philosophies, 25 vol. \(ongoing\). 
+[^28]:  See Maurice Winternitz, A History of Indian Literature, 1927, for a start; as for philosophy, see Karl Potter, Encyclopaedia of Indian Philosophies, 25 vol. \(ongoing\). 
 
-29  A view aptly expressed by Nirmala R. Kulkarni at a conference on ‘Critics and Criticism in Indian thought,’ February 2020, at the Sanskrit Department, University of Pune. 
+[^29]:  A view aptly expressed by Nirmala R. Kulkarni at a conference on ‘Critics and Criticism in Indian thought,’ February 2020, at the Sanskrit Department, University of Pune. 
 
-* Introduction to Indian philosophy and Vaiśeṣika * 9
+{{9}}
 
 least negligible, for their general outlook is comparative and synthetic, drawing 
 
@@ -169,13 +169,13 @@ Dvaita Vedānta. Within Brahmanical thought, that is to say, its scholastic orth
 
 Other philosophical schools may not fit into the category of the ‘orthodox picture’ \(āstika darśana\) of the world. As in the course of classical Greek philosophy, in classical Indian thought, revisionist Śramaṇic movements continue to grow in the post-Upaniṣadic era. Greek heterodox movements that threaten the religious or political establishment \(see Socrates Trials, Plato’s political fiasco in Syracuse, Aristotle’s flight from Athens\) have parallels in the Indian śastric movements, whose founding authors initiate new interpretations of the world \(in sūtra texts\) and supply solutions for liberation that conflict with the old Vedic descriptions \(saṃsāra, loka\). These movements would generate, in turn, lasting scholastic traditions. The Classical world abounds in ‘heterodox’ creativity. In the Greek world, such new philosophies are categorised in various currents: the Pythagorean thought, Sophistic 
 
-30  For a view on Indian philosophical literature, Potter’s Encyclopaedia is a good starting point, as it offers translation excerpts from the whole spectrum of Indian philosophy. 
+[^30]:  For a view on Indian philosophical literature, Potter’s Encyclopaedia is a good starting point, as it offers translation excerpts from the whole spectrum of Indian philosophy. 
 
-31  Sometimes confused with śastra \(‘science’\), darśana stands for a ‘worldview’ or ‘philosophical school,’ while śastra stands for a ‘discipline’ that encompasses authors from different traditions. 
+[^31]:  Sometimes confused with śastra \(‘science’\), darśana stands for a ‘worldview’ or ‘philosophical school,’ while śastra stands for a ‘discipline’ that encompasses authors from different traditions. 
 
-32 The tradition has several variations: Bhāskara \(Aupādhika Bhedābheda\) \(8th and 9th century AD\), Yādava and Nimbārka \(Svābhāvika Bhedābheda\) \(13th century AD\), and Caitanya \(Acintya Bhedābheda\) \(1486–1534\). 
+[^32]: The tradition has several variations: Bhāskara \(Aupādhika Bhedābheda\) \(8th and 9th century AD\), Yādava and Nimbārka \(Svābhāvika Bhedābheda\) \(13th century AD\), and Caitanya \(Acintya Bhedābheda\) \(1486–1534\). 
 
-10 * Introduction to Indian philosophy and Vaiśeṣika* movement, 33 Cynic and Cyrenaic thought, Stoicism, Epicurism, Pyrrhonism, and the Peripatetic school, while in the Subcontinent, Cārvāka Scepticism,34 Ājīvika 
+[^10]: {{33}} Cynic and Cyrenaic thought, Stoicism, Epicurism, Pyrrhonism, and the Peripatetic school, while in the Subcontinent, Cārvāka Scepticism,34 Ājīvika 
 
 Fatalism,35 Yogācāra-Mentalism, and Mādhyamika dialecticism are comparable examples. What all these may share in common is a natural craving for advancing new forms of descriptive metaphysics, substantiated in original and singular philosophical views \(darśanas\). The study of their tenets poses doxographical problems due to their marginalisation in relation to more established schools of thought privi-leged by the political, religious, and socio-cultural establishment. The ‘picture of the world’ of such movements varies; it inclines either towards idealistic and mentalistic elucidations or towards nihilistic and moralistic interpretations. Although these schools use analogous terminology, their semantics and hermeneutics differ considerably. Despite that, one prevalent aspect developed in their thought is to engage robustly with the elusive question of ‘being,’ either by refuting, marginalising, or simply redefining it entirely. They were all in one way or another critical of the then extant picture of metaphysics, hence they engaged themselves with ontology, which offered not only definitions but also existential solutions. The term 
 
@@ -185,17 +185,17 @@ It has been customary to limit the number of classical Indian philosophical syst
 
 \(Ṣaḍdarśanasamuccaya\)36 and is a view taken for granted in the 19th century by Max Müller in a book with a similar title.37 The 6 systems discussed are the first teaching of Buddha, Nyāya, Sāṃkhya, Jaina, Vaiśeṣika, Mīmāṃsā, and a separate one called Cārvāka \(Lokāyata\). That Lokāyata \(a materialistic system that denies the reality of substance-essence\) has not been listed among the 6 systems shows the bias of such doxographers but also indicates the necessary qualification that a darśana must meet, namely a knowledge that goes from an upper to a deeper physical description of the concrete materiality of the world. Haribhadrasūri’s canon, however, faces a challenge from a Lokāyata polemical work composed by a sceptical thinker known as Jayarāśi Bhaṭṭa \(8th century AD\). His work, as the title ‘Lion of Destruction of Philosophical Theories’ \(Tattvopaplavasiṃha\) suggests, is one that deploys a major refutation of the validity of some of the doctrines 
 
-33  Socrates belongs to the Sophistic movement, but he was not a sophist himself, and the accusation cost him his life \(Plato’s Apology 19a–20c\). 
+[^33]:  Socrates belongs to the Sophistic movement, but he was not a sophist himself, and the accusation cost him his life \(Plato’s Apology 19a–20c\). 
 
-34  Names associated with Cārvāka as gleaned from Buddhist and Upaniṣadic sources are Pūraṇa Kas-sapa, Pakudha Kaccāyana, and Ajita Kesakambalī. 
+[^34]:  Names associated with Cārvāka as gleaned from Buddhist and Upaniṣadic sources are Pūraṇa Kas-sapa, Pakudha Kaccāyana, and Ajita Kesakambalī. 
 
-35  For Ājīvika, Makkhali Gosāla is one such name. See more in A. L. Basham, History and Doctrines of the Ājīvikas, 1951. 
+[^35]:  For Ājīvika, Makkhali Gosāla is one such name. See more in A. L. Basham, History and Doctrines of the Ājīvikas, 1951. 
 
-36  About the number of 6 systems, see also Sarvamatasaṅgraha, written possibly by Rāghavānanda, and Mādhava Sarasvatī’s Sarvadarśanakaumudī \(c. 1500 AD\). For a discussion of the number of Indian systems, see Prem Pahlajrai, Doxographies – Why six darśanas? Which six? 2004 \(available online\). 
+[^36]:  About the number of 6 systems, see also Sarvamatasaṅgraha, written possibly by Rāghavānanda, and Mādhava Sarasvatī’s Sarvadarśanakaumudī \(c. 1500 AD\). For a discussion of the number of Indian systems, see Prem Pahlajrai, Doxographies – Why six darśanas? Which six? 2004 \(available online\). 
 
-37  Max Müller. The Six Systems of Indian Philosophy, 1899. 
+[^37]:  Max Müller. The Six Systems of Indian Philosophy, 1899. 
 
-* Introduction to Indian philosophy and Vaiśeṣika * 11
+{{11}}
 
 \(soul, sound, non-existence\) or categories \(perception, inference, comparison\) that orthodox and non-orthodox systems propound. Yet, by the 14th century, Mādhava of Śringerī38 would expand the list of philosophies to 16 in his ‘Compendium of 
 
@@ -205,15 +205,15 @@ What is then the place of Vaiśeṣika in Indian philosophy? For the sake of sim
 
 Advaita\).40 Śaivism – with its enormous rise and varied traditions \(Nakulīśa-Pāśupata, Śaiva System, Pratyabhijñā, Raseśvara System\)41 – represents, broadly speaking, an attempt to accomplishing an harmonious synthesis between transcendent and immanent explanations of reality, a fact that brought many of the classical darśanas under its spell and devotional allegiance. With several exceptions, the vast majority of these classical and early medieval systems deal with the soteriological 
 
-38 Though contemporary, Mādhava-Vidyāraṇya \(c. 1296?–1386?\) should not be confused with Madhva of Dvaita Vedānta \(1238–1317\), the former is a monist Vedāntin, whereas the latter a dualist. 
+[^38]: Though contemporary, Mādhava-Vidyāraṇya \(c. 1296?–1386?\) should not be confused with Madhva of Dvaita Vedānta \(1238–1317\), the former is a monist Vedāntin, whereas the latter a dualist. 
 
-39  Each of the following systems is discussed in a separate chapter in the following order: Cārvāka, Bauddha System, Jaina, Rāmānuja System, Pūrṇa-prajña, Nakulīśa-Pāśupata, Śaiva System, Pratyabhijñā, Raseśvara System, Vaiśeṣika, Nyāya, Jaiminīya System, Pāṇinīya System, Sāṃkhya, Patañjali or Yoga System, and Vedānta of Śaṅkara. Other classifications of classical Indian philosophies can be found in doxographical works: 32 systems in Dvātriṃśikā of Siddhasena Divākara \(5th–7th centuries AD\), 12 systems in Sarvasiddhāntasaṃgraha \(authorship debated\), and 10 systems in Sarvamatasaṃgraha \(authorship unknown\); Thakur 2003: 427–35. 
+[^39]:  Each of the following systems is discussed in a separate chapter in the following order: Cārvāka, Bauddha System, Jaina, Rāmānuja System, Pūrṇa-prajña, Nakulīśa-Pāśupata, Śaiva System, Pratyabhijñā, Raseśvara System, Vaiśeṣika, Nyāya, Jaiminīya System, Pāṇinīya System, Sāṃkhya, Patañjali or Yoga System, and Vedānta of Śaṅkara. Other classifications of classical Indian philosophies can be found in doxographical works: 32 systems in Dvātriṃśikā of Siddhasena Divākara \(5th–7th centuries AD\), 12 systems in Sarvasiddhāntasaṃgraha \(authorship debated\), and 10 systems in Sarvamatasaṃgraha \(authorship unknown\); Thakur 2003: 427–35. 
 
-40  For a table of conceptual variations of Indian philosophies, see Potter’s Presuppositions of India’s Philosophes, 1963. 
+[^40]:  For a table of conceptual variations of Indian philosophies, see Potter’s Presuppositions of India’s Philosophes, 1963. 
 
-41  For a classification of Śaiva traditions see Sanderson, History through Textual Criticism in the study of Śaivism, the Pañcarātra and the Buddhist Yoginītantras, 2001. Although the work is focused on method, it nevertheless contains a wealth of information about important Śaiva authors. 
+[^41]:  For a classification of Śaiva traditions see Sanderson, History through Textual Criticism in the study of Śaivism, the Pañcarātra and the Buddhist Yoginītantras, 2001. Although the work is focused on method, it nevertheless contains a wealth of information about important Śaiva authors. 
 
-12 * Introduction to Indian philosophy and Vaiśeṣika* questions that have finality in an ontological irreversible state; in fact, the ontology somehow moves from a differentiated condition of becoming to a static state of being. In short, Indian philosophies begin, change, and challenge the scope of ontology. While the history of Western thought had shifted from the essentialist and naturalist ontology of the Pre-Socratics to the phenomenology and existentialism of the 20th century, in Indian philosophy, however, there has been a different type of development, a tendency towards a continual sharpening of the Upaniṣadic view on the nature of the world and the ultimate reality. Quite often, as the Śaivist tradition typifies, its description is the synthesis and interplay between an immanent and transcendent nature of being and ontology. 
+questions that have finality in an ontological irreversible state; in fact, the ontology somehow moves from a differentiated condition of becoming to a static state of being. In short, Indian philosophies begin, change, and challenge the scope of ontology. While the history of Western thought had shifted from the essentialist and naturalist ontology of the Pre-Socratics to the phenomenology and existentialism of the 20th century, in Indian philosophy, however, there has been a different type of development, a tendency towards a continual sharpening of the Upaniṣadic view on the nature of the world and the ultimate reality. Quite often, as the Śaivist tradition typifies, its description is the synthesis and interplay between an immanent and transcendent nature of being and ontology. 
 
 **1.1 Vaiśeṣika**
 
@@ -223,11 +223,11 @@ What is the originality of Vaiśeṣika within the broader picture of classical 
 
 ‘nameability’ \(abhidheyatva\)43 of the world’s constituents \(categories\) go hand in hand with their own ‘knowability’ \(jñeyatva\), all 3 representing core domains of knowledge: ontology, epistemology, and language. Can any word exist without a reference to object? Is there any hierarchy among the 3 major philosophical domains: ontology, language, and knowledge? If Aristotle knew Vaiśeṣika, his view would probably be that this Indian ontological system is of a more fundamental value, and, in a way, a most necessary one. As he put it in his Categories \(7b15\), the ‘knowable’ must be prior to the ‘knowledge’ itself, and as a rule, it is unlikely that a ‘knowable thing’ and the ‘process of knowledge’ are simultaneous, for otherwise, when ‘knowledge’ disappears that would lead to the destruction of the ‘knowable thing’ itself as well; but this is not so. 44 The point Aristotle makes 
 
-42 Thakur 2003: xxv \(preface to HSPCIC\). 
+[^42]: Thakur 2003: xxv \(preface to HSPCIC\). 
 
-43  Praśastapāda PD, 11: ṣaṇṇām api padārthānām astitvābhidheyatvajñeyatvāni; Halbfass 1992: 75–6, 154. 
+[^43]:  Praśastapāda PD, 11: ṣaṇṇām api padārthānām astitvābhidheyatvajñeyatvāni; Halbfass 1992: 75–6, 154. 
 
-44  Arist Cat 7b15: τὸ γὰρ ἐπιστητὸν τῆς ἐπιστήμης πρότερον ἂν δόξειεν εἶναι· ὡς γὰρ ἐπὶ τὸ πολὺ 
+[^44]:  Arist Cat 7b15: τὸ γὰρ ἐπιστητὸν τῆς ἐπιστήμης πρότερον ἂν δόξειεν εἶναι· ὡς γὰρ ἐπὶ τὸ πολὺ 
 
 προϋπαρχόντων τῶν πραγμάτων τὰς ἐπιστήμας λαμβάνομεν· ἐπ᾿ ὀλίγων γὰρ ἢ ἐπ᾿ οὐδενὸς ἴδοι 
 
@@ -241,7 +241,7 @@ What is the originality of Vaiśeṣika within the broader picture of classical 
 
 οὐδέπω, αὐτὸ δὲ τὸ ἐπιστητὸν ἔστιν. 
 
-* Introduction to Indian philosophy and Vaiśeṣika * 13
+{{13}}
 
 is that the knowable thing endures even after knowledge is no longer there, and that an object is prior to language, whence the priority and paramount importance of the ‘knowable thing’ that Aristotle defines in 10 forms of predication.45 The 
 
@@ -251,19 +251,19 @@ It is a system focused on entities \(nouns\) rather than actions \(verbs\). The 
 
 \(bhāvapradhānam ākhyātām\) \(Durga com. Nirukta 1.1.9\). By that, Yāska places a heavy stress on the importance of action and verb, which he sees as a ‘continuous series of momentary becoming of bhava,’ whereas noun represents the ‘stagnation or solidification of the verb.’50 The universe of Vaiśeṣika stands in sharp contrast to Yāska’s view and his early re-interpretations. Vaiśeṣika is a substantialist philosophy at heart, a fact demonstrated by its Sūtrapāṭha, which lists 3 basic categories: substances \(dravya\), qualities \(guṇa\), and motions \(karma\), of which the first category represents the rock-bottom foundation on which other categories 
 
-45 The 10 categories are in fact ‘modes of predication’ that point to the reality of things beyond language. It is an attempt to provide a theory of individuation about the existence of a substance. The categories are enunciated by Aristotle in Cat 4.1.b.25: \(1\) substance; \(2\) quantity; \(3\) qualification; \(4\) relation; \(5\) location; \(6\) time; \(7\) position; \(8\) possession; \(9\) acting; and \(10\) being-affected \(Τῶν κατὰ μηδεμίαν συμπλοκὴν λεγομένων ἕκαστον ἤτοι \(1\) **οὐσίαν** σημαίνει ἢ \(2\) **ποσὸν** ἢ \(3\) **ποιὸν** ἢ \(4\) **πρός τι** ἢ \(5\) **ποὺ** ἢ \(6\) **ποτὲ** ἢ \(7\) **κεῖσθαι** ἢ \(8\) **ἔχειν** ἢ \(9\) **ποιεῖν** ἢ \(10\) **πάσχειν**\). 
+[^45]: The 10 categories are in fact ‘modes of predication’ that point to the reality of things beyond language. It is an attempt to provide a theory of individuation about the existence of a substance. The categories are enunciated by Aristotle in Cat 4.1.b.25: \(1\) substance; \(2\) quantity; \(3\) qualification; \(4\) relation; \(5\) location; \(6\) time; \(7\) position; \(8\) possession; \(9\) acting; and \(10\) being-affected \(Τῶν κατὰ μηδεμίαν συμπλοκὴν λεγομένων ἕκαστον ἤτοι \(1\) **οὐσίαν** σημαίνει ἢ \(2\) **ποσὸν** ἢ \(3\) **ποιὸν** ἢ \(4\) **πρός τι** ἢ \(5\) **ποὺ** ἢ \(6\) **ποτὲ** ἢ \(7\) **κεῖσθαι** ἢ \(8\) **ἔχειν** ἢ \(9\) **ποιεῖν** ἢ \(10\) **πάσχειν**\). 
 
-46 The standard numbers of Vaiśeṣika categories are: \(1\) substance \(9 in total\); \(2\) quality \(17 initially\); \(3\) motion \(5\); \(4\) universal \(2\); \(5\) particular \(2\); and \(6\) inherence \(between substance and quality\). Later Vaiśeṣika work Śivāditya’s Saptapadārthī adds ‘abhāva’ as the seventh padārtha \(SP 3\). 
+[^46]: The standard numbers of Vaiśeṣika categories are: \(1\) substance \(9 in total\); \(2\) quality \(17 initially\); \(3\) motion \(5\); \(4\) universal \(2\); \(5\) particular \(2\); and \(6\) inherence \(between substance and quality\). Later Vaiśeṣika work Śivāditya’s Saptapadārthī adds ‘abhāva’ as the seventh padārtha \(SP 3\). 
 
-47  One such example is the derivation of the category of ‘distinctness’ \(viśeṣa\) from the older category of quality of ‘separateness’ \(pṛthaktva\). 
+[^47]:  One such example is the derivation of the category of ‘distinctness’ \(viśeṣa\) from the older category of quality of ‘separateness’ \(pṛthaktva\). 
 
-48 The essential characteristics of the soul – known as generic qualities sāmānyaguṇa – are number, dimension, separateness, conjunction, and disjunction \(VSc 3.2.17\). 
+[^48]: The essential characteristics of the soul – known as generic qualities sāmānyaguṇa – are number, dimension, separateness, conjunction, and disjunction \(VSc 3.2.17\). 
 
-49 The specific qualities of the soul are cognition, pleasure, pain, volition, aversion, effort, merit, demerit, and latent impetus \(VSc 3.2.17\). They constitute the psychological apparatus, a sort of subtle body – equivalent to what Praśastapāda calls ‘ativāhikaśarīra’ \(PD 359\) – that undergoes transmigration. 
+[^49]: The specific qualities of the soul are cognition, pleasure, pain, volition, aversion, effort, merit, demerit, and latent impetus \(VSc 3.2.17\). They constitute the psychological apparatus, a sort of subtle body – equivalent to what Praśastapāda calls ‘ativāhikaśarīra’ \(PD 359\) – that undergoes transmigration. 
 
-50  Singh 1987: 191. 
+[^50]:  Singh 1987: 191. 
 
-14 * Introduction to Indian philosophy and Vaiśeṣika* \(quality, action, universality, particularity, and inherence\) reside. Among these, the substance-category is the most important of all. 
+\(quality, action, universality, particularity, and inherence\) reside. Among these, the substance-category is the most important of all. 
 
 Substance is one of the most controversial topics in philosophy and demands much elucidation not only in the Western thought but also in Indian philosophy as well. Problems of translation abound for at least 2 reasons. First, because our modern vocabulary is of the second order: terms like ‘essence’ \(via Cicero\) and 
 
@@ -273,13 +273,13 @@ As mentioned, one of the chief characteristics of Vaiśeṣika philosophy is the
 
 1\) Aristotle distinguishes a 2-fold nature of substance: on the one hand, a ‘primary substance’ that is its individual nature \(e.g. one individual man\), and on the other hand, a ‘secondary substance,’ which is its specific genera \(e.g. man\) \(Cat 2a11\). He goes as far as to say that the individuality of a substance \(the primary substance\) is ‘more of a substance than genera’ \(Cat 2 b7\), a view that agrees with Vaiśeṣika’s view, according to which, an ultimate particularity defines the essence or nature of a ‘substance’ \(dravya\). A comparable classification is how Vaiśeṣika system differentiates between ‘permanent’ \(nitya\) and ‘impermanent’ \(anitya\) substances; given the character of substances as being wholes and compositional, as well as simple and universal, the usual translation of nitya by ‘eternal’ is unsatisfactory. The classification of the system in relation 
 
-51  Chapter 1 ‘The Question of Being’ in Halbfass 1922: 1–20. 
+[^51]:  Chapter 1 ‘The Question of Being’ in Halbfass 1922: 1–20. 
 
-52  See previous reference to Cunningham, 1988. 
+[^52]:  See previous reference to Cunningham, 1988. 
 
-53  Halbfass 1992: 12, f. 43. 
+[^53]:  Halbfass 1992: 12, f. 43. 
 
-* Introduction to Indian philosophy and Vaiśeṣika * 15
+{{15}}
 
 to its 9 substances,54 is not according to their intrinsic state, but rather to their condition. What ‘nitya’ presumably means is the state of being 
 
@@ -293,19 +293,19 @@ possible to acquire embodiment and transmigration.55
 
 2\) A second important complementarity between Aristotle’s Categories and Vaiśeṣikasūtra’s is the valorisation of the individual ahead of the universal. Although Aristotle did not put differentiae \(διαφοραί\) into the list of his categories \(as Vaiśeṣika, and later on Dvaita Vedānta does\), he consistently maintains that a substance is primarily an individual, and not a genera \(Cat 2b20\), although he seems to contradict himself later in Cat 15a4–7, where he states that genera are always before species.56 Aristotle aims to safeguard the reality of individual nouns and subjects, for all knowledge and predication seems to point to these. As he puts it, ‘the primary substances stand to everything else…and all the rest are predicated of these’ \(Cat 2b29\). 57 Aristotle provides an epistemic or scientific method that runs from the individual to the universal and not vice-versa. Genera do not have value if they are not grounded on individuality first, which explains why he is in favour of the reality of the nouns and subjects ahead of the reality of verbs, actions, and processes. The stress Vaiśeṣika places here reminds of one of Śākaṭāyana and 
 
-54 VS: 1.1.4. pṛthivī āpas tejo vāyur ākāśaṃ kālo dig ātmā mana iti dravyāṇi \(earth, water, lustre, air, vacuum, time, space, soul, mind – these are the substances\). 
+[^54]: VS: 1.1.4. pṛthivī āpas tejo vāyur ākāśaṃ kālo dig ātmā mana iti dravyāṇi \(earth, water, lustre, air, vacuum, time, space, soul, mind – these are the substances\). 
 
-55 Transmigration of humans happens according to Candrānanda in relation to everything that has 
+[^55]: Transmigration of humans happens according to Candrānanda in relation to everything that has 
 
 ‘body’ \(śarīra\) \(VSc 4.2\), in which sense the term of ‘transmigration’ \(saṃsāra\) is used \(VSc 5.2.19\). 
 
-56  Cat 15a4–7: τὰ δὲ γένη τῶν εἰδῶν ἀεὶ πρότερα· οὐ γὰρ ἀντιστρέφει κατὰ τὴν τοῦ εἶναι ἀκολούθ
+[^56]:  Cat 15a4–7: τὰ δὲ γένη τῶν εἰδῶν ἀεὶ πρότερα· οὐ γὰρ ἀντιστρέφει κατὰ τὴν τοῦ εἶναι ἀκολούθ
 
 ησιν· οἷον ἐνύδρου μὲν ὄντος ἔστι ζῷον, ζῴου δὲ ὄντος οὐκ ἀνάγκη ἔνυδρον εἶναι. The example Aristotle gives here is that of the fish; if there is a fish, then we can indicate by that there is an animal, but we cannot say that if there is an animal, we can necessarily indicate a fish. 
 
-57 This is a shortened translation of a passage from J.L. Ackrill ed. Aristotle Categories, 2002: 8, with reference to Cat 2b29. 
+[^57]: This is a shortened translation of a passage from J.L. Ackrill ed. Aristotle Categories, 2002: 8, with reference to Cat 2b29. 
 
-16 * Introduction to Indian philosophy and Vaiśeṣika* Yāska’s linguistic speculations, which shifted the lexicographic and semantic Vedic focus from nouns to verbs. The affinity of Vaiśeṣika with Aristotle lies primarily in the area of ontology and the theory of perception.58 Aristotle believes that if the primary substances did not exist initially, it would be then impossible for any of the other things to exist \(Cat 2a34; 2b7\). Aristotle like Vaiśeṣika, begins the inquiry of substances as the fundamental ingredients of the world; he employs a realistic method akin to that of a botanist,59 who collects the ingredients of the world, names and defines them so as to present a differentiated picture of reality \(made of substance\) in its both intrinsic and extrinsic totality. 
+Yāska’s linguistic speculations, which shifted the lexicographic and semantic Vedic focus from nouns to verbs. The affinity of Vaiśeṣika with Aristotle lies primarily in the area of ontology and the theory of perception.58 Aristotle believes that if the primary substances did not exist initially, it would be then impossible for any of the other things to exist \(Cat 2a34; 2b7\). Aristotle like Vaiśeṣika, begins the inquiry of substances as the fundamental ingredients of the world; he employs a realistic method akin to that of a botanist,59 who collects the ingredients of the world, names and defines them so as to present a differentiated picture of reality \(made of substance\) in its both intrinsic and extrinsic totality. 
 
 3\) The view of generality is one other important aspect in which Vaiśeṣika completes the missing dots within the dualistic cosmological framework of both Plato’s theory of forms and Aristotelian predication between ‘primary substances’ \(what ‘is’ in something\) versus secondary substance \(what is said ‘of’ something\). When Aristotle talks about combination and combined things \(Cat 1a16\), he points not to the universal interweaving of all things of the world – but, relatively faithful to the dualistic Platonic tradition – speaks about the combination between noun and verb, object and predication. 60 
 
@@ -315,17 +315,17 @@ Philoponus – one Aristotelian commentator of Late Antiquity – endorses this 
 
 Quite to the contrary, however, Vaiśeṣika differentiates between an ‘ultimate individuality’ \(antyaviśeṣa\) inherently bound in the ‘universal’ \(sāmānya\) and the medium of a real ontological linking knot called ‘lower or specific universality’ \(sāmānyaviśeṣa\), which may stand for the category of ‘species.’ 
 
-58 The theory of perception in Vaiśeṣika is the combination of a ‘contact’ \(sannikarṣa\) of 4 main ontic entities: self, mind, senses, and objects. The combination is thus between not only noun and verb but implies other entities and qualities such as buddhi, a quality that is common to both mind and soul. 
+[^58]: The theory of perception in Vaiśeṣika is the combination of a ‘contact’ \(sannikarṣa\) of 4 main ontic entities: self, mind, senses, and objects. The combination is thus between not only noun and verb but implies other entities and qualities such as buddhi, a quality that is common to both mind and soul. 
 
-59  Botany, an alleged profession of both Aristotle and Kaṇāda \(the legendary founder of Vaiśeṣika\). 
+[^59]:  Botany, an alleged profession of both Aristotle and Kaṇāda \(the legendary founder of Vaiśeṣika\). 
 
-60  See Notes by Ackrill 2002: 73; see further Aristotle, De Int. 16a9–18; 17a17–20; Plato’s Sophist 262. 
+[^60]:  See Notes by Ackrill 2002: 73; see further Aristotle, De Int. 16a9–18; 17a17–20; Plato’s Sophist 262. 
 
-61  Philoponus, On Aristotle Categories 66. 11–12 \(trans. Sirkel, R., Tweedale, M., Harris, J. ed. 
+[^61]:  Philoponus, On Aristotle Categories 66. 11–12 \(trans. Sirkel, R., Tweedale, M., Harris, J. ed. 
 
 2015\). See Mateiescu 2018: 5, where the author traces the concept of differentiae in the context of the debate between ‘substantial quality’ and ‘part of substance’ in early Byzantine philosophy. 
 
-62  Cat 2b29. εἰ γὰρ κατὰ μηδενὸς τῶν τινῶν ἀνθρώπων, οὐδὲ κατὰ ἀνθρώπου ὅλως· – πάλιν τὸ 
+[^62]:  Cat 2b29. εἰ γὰρ κατὰ μηδενὸς τῶν τινῶν ἀνθρώπων, οὐδὲ κατὰ ἀνθρώπου ὅλως· – πάλιν τὸ 
 
 χρῶμα ἐν σώματι, οὐκοῦν καὶ ἐν τινὶ σώματι· εἰ γὰρ μὴ ἐν τινὶ τῶν καθ᾿ ἕκαστα, οὐδὲ ἐν σώματι 
 
@@ -333,7 +333,7 @@ Quite to the contrary, however, Vaiśeṣika differentiates between an ‘ultima
 
 αὐταῖς ἐστίν. 
 
-* Introduction to Indian philosophy and Vaiśeṣika * 17
+{{17}}
 
 Reality – and the problem of ‘being’ – stands in Vaiśeṣika on 3 sub-levels of reality, which constitute a graded system of supervenience. 63 Substance can have 3 ontological conditions: general universal \(sāmānya\), specific universal \(sāmānyaviśeṣa\), and ultimate particularity \(antyaviśeṣa\), all of which possess an ontological reality. Halbfass claims that Vaiśeṣika exemplifies a horizontal form of descriptive metaphysics – perhaps an observation adduced in comparison with what Analytic philosophy calls to be a system of ‘supervenience.’ In fact, what we notice is a vertical system of conditions that substance stands on, and where the connection between the 3 levels of supervenience follows the laws of ‘entailment.’ Vaiśeṣika enacts this entailment better in its ‘ontological’ epistemology, namely, the theory of perception where the inferential induction is that by which an observer \(a yogi\) can grasp the particularity in universality, both simultaneously, and successively. 64 ‘Time’ and 
 
@@ -341,17 +341,17 @@ Reality – and the problem of ‘being’ – stands in Vaiśeṣika on 3 sub-l
 
 are entities that can be intuited in both their successive conditions of particularity and plurality \(unit\), as well as in their universal, all-pervasive, infinitely extensive, infinite plurality \(oneness\). The substance soul, for example, has a differentiated and numerical-pluralised nature in both a ‘pre-existential’ state \(before birth embodiment\) and an ‘existential’ condition \(after the body’s disintegration\), and that is indicated by the difference that exists between the 2 sets of qualities it possesses: generic qualities \(pre-existential\) and specific qualities \(existential\), the latter being evanescent. When the soul is embodied, it acquires specific qualities, a kind of subtle body \(which is the vehicle of karmic bondage and transmigration\) – one condition that grants soul a concrete ‘plurality’. When, however, soul possesses only generic qualities in its pre-existent state, then soul is essentially ‘differentiated.’ The shift of ātman from its essential state and to ātman of its existential condition, does not change the nature of its plurality, but rather impregnates it with a specific concrete form. Plurality and identity of a substance that perdures through change and time do not disappear, but rather re-asserts. Individuation means to identify the addition of a new singularity added to the essential characteristic of substance. The generic qualities of ‘number’ \(saṃkhyā\) and ‘separateness’ \(pṛthaktva\) that characterise soul in its pre-existential ontological state should not be confused with the condition of the plurality of the souls that are both diverse and plural as Sūtrapāṭha 3.2.16 states. 65 The difference between 
 
-63  If we add sattā, which is the highest form of generality, then Vaiśeṣika could point out a 4-level reality, sattā being the beyond-differentiation level of a substance, or perhaps the totality of the reality; it defines any real ontic being. 
+[^63]:  If we add sattā, which is the highest form of generality, then Vaiśeṣika could point out a 4-level reality, sattā being the beyond-differentiation level of a substance, or perhaps the totality of the reality; it defines any real ontic being. 
 
-64  See VSc 9.27, ārṣajñāna is a form of ‘intuition’ \(prātibhā\) that comprehends things beyond temporal and spatial conditions. 
+[^64]:  See VSc 9.27, ārṣajñāna is a form of ‘intuition’ \(prātibhā\) that comprehends things beyond temporal and spatial conditions. 
 
-65 VS: 3.2.16 nānā vyavasthātaḥ/VSc: anyasya sukhādiyoge’nyasya tad abhāvād anayā vyavasthayā 
+[^65]: VS: 3.2.16 nānā vyavasthātaḥ/VSc: anyasya sukhādiyoge’nyasya tad abhāvād anayā vyavasthayā 
 
 nānā ātmānaḥ \(trans. VS 3.2.16: because \[soul\] is plural, \[therefore\] is diverse/VSc: because one 
 
 \[individual\] is connected with pleasure, and so on, another \[individual\] is not connected \[with pleasure\], indicates that souls are diverse and plural\). 
 
-18 * Introduction to Indian philosophy and Vaiśeṣika* the 2 states and conditions is like that between ontology and existentiality, whence philosophical-religious existentialism \(mokṣa\) as well as metaphysics \(ontology\) derive, diverge, and depend. The concept of ‘soteriontology’ 
+the 2 states and conditions is like that between ontology and existentiality, whence philosophical-religious existentialism \(mokṣa\) as well as metaphysics \(ontology\) derive, diverge, and depend. The concept of ‘soteriontology’ 
 
 coined by Halbfass is indicative in this respect.66
 
@@ -359,17 +359,17 @@ coined by Halbfass is indicative in this respect.66
 
 ‘species’ and ‘genus’ of a substance seem to be the same. If he did so, he should have been able to differentiate it, or at least mention it in relation to the puzzling question regarding the status of individual instances of colour in a universal colour \(e.g. redness\).70 However, he did not. In so doing, he could have averted the problem of universals, deemed by Nominalists as a 
 
-66  Halbfass 1992: 234. 
+[^66]:  Halbfass 1992: 234. 
 
-67  Halbfass has pointed out that antyaviśeṣa is neither a number nor a ‘principium individuationis’; but what is it? A ‘reference’ that identifies the nature of a substance as ultimately distinct? Or is it a real entity that exists in the nature of the substance itself? Such questions and possible new answers may come from Dvaita Vedānta philosophy where viśeṣa has been defined not as an independent entity \(for that would have compromised the dualism of this school\), and neither as a relation nor even as a new quality, Sharma 1962: 50. 
+[^67]:  Halbfass has pointed out that antyaviśeṣa is neither a number nor a ‘principium individuationis’; but what is it? A ‘reference’ that identifies the nature of a substance as ultimately distinct? Or is it a real entity that exists in the nature of the substance itself? Such questions and possible new answers may come from Dvaita Vedānta philosophy where viśeṣa has been defined not as an independent entity \(for that would have compromised the dualism of this school\), and neither as a relation nor even as a new quality, Sharma 1962: 50. 
 
-68  Regis \(1976: 157\), for instance, argues that there is no principle of individuation in Aristotle, who talked about the matte in a very elliptical or implicit manner; for Regis, an entity is an individual par excellence and it is not necessary to put forward a principle of individuation, nor to see one given by Aristotle. 
+[^68]:  Regis \(1976: 157\), for instance, argues that there is no principle of individuation in Aristotle, who talked about the matte in a very elliptical or implicit manner; for Regis, an entity is an individual par excellence and it is not necessary to put forward a principle of individuation, nor to see one given by Aristotle. 
 
-69  Ackrill \(2002: 77\) suggests that Aristotle’s last sentence of Cat 1b15 \(animal should be predicated of the individual man also for the individual man is both a man and an animal\) should be emended because The Philosopher refers only to ‘differentiae divisivae’ \(and not to differentiae constitutivae as well\). Yet, I believe that Aristotle has a slip of the tongue intuition, for he distinguishes between 3 ontological levels, but he did not elaborate further, for he did not wish to contradict the dualistic theory of predication. 
+[^69]:  Ackrill \(2002: 77\) suggests that Aristotle’s last sentence of Cat 1b15 \(animal should be predicated of the individual man also for the individual man is both a man and an animal\) should be emended because The Philosopher refers only to ‘differentiae divisivae’ \(and not to differentiae constitutivae as well\). Yet, I believe that Aristotle has a slip of the tongue intuition, for he distinguishes between 3 ontological levels, but he did not elaborate further, for he did not wish to contradict the dualistic theory of predication. 
 
-70  See Notes in Ackrill 2002\). Duns Scotus made one step to clarification when he argues on the perceptivity of accidentals: we do not comprehend the individuating difference ‘per se,’ but rather the accidental features that define the essences of objects, which we perceive, see Duns Scotus Lectura 142–3, Early Oxford Lecture on Individuation ed. Wolter, Allan B., 2005. 
+[^70]:  See Notes in Ackrill 2002\). Duns Scotus made one step to clarification when he argues on the perceptivity of accidentals: we do not comprehend the individuating difference ‘per se,’ but rather the accidental features that define the essences of objects, which we perceive, see Duns Scotus Lectura 142–3, Early Oxford Lecture on Individuation ed. Wolter, Allan B., 2005. 
 
-* Introduction to Indian philosophy and Vaiśeṣika * 19
+{{19}}
 
 fallacy. However, Aristotle wishes only to clarify and avert the confusion between synonyms, homonyms, and paronyms, but more importantly, aims 
 
@@ -379,15 +379,15 @@ Vaiśeṣika solves the problem of individuation in several ways: \(1\) by propo
 
 first a species and second a genera. Yoga is an intellectual practice – though not directly a soteriological one – for it comprises a yogic perception \(yogipratyakṣa\) that grasps the reality of dharmaviśeṣa, and through it, an ‘ultimate particularity’ \(antyaviśeṣa\). What constitutes liberation \(mokṣa, niḥśreyasa\) in Vaiśeṣika is not the achievement of these cognitive stages of ultimate substances and their essences, but rather their transcending and renunciation. Knowledge and cognition are only fleeing accidental qualities ultimately discarded. Pleasure, bliss, and knowledge are no longer part of the ontological liberated state; the only beauty that remains is the beauty of the infinite difference and the plurality of the 9 fundamental substances. 74
 
-71  Synonyms may correspond to particularities, homonyms may correspond to genus, whereas paronyms may correspond to species; the problems unsolved by Aristotle’s theory of predication are mostly related to the dubious nature of paronyms. 
+[^71]:  Synonyms may correspond to particularities, homonyms may correspond to genus, whereas paronyms may correspond to species; the problems unsolved by Aristotle’s theory of predication are mostly related to the dubious nature of paronyms. 
 
-72 The first Sophistic movement cost Socrates’ his own life, for among the accusations, there was the allegation of being a Sophist \(Plato’s Apology 18a–20c\). 
+[^72]: The first Sophistic movement cost Socrates’ his own life, for among the accusations, there was the allegation of being a Sophist \(Plato’s Apology 18a–20c\). 
 
-73  About the real yet non-existential character of ‘ultimate particularity,’ see Bhaṭṭa Vādīndra VSv \(long version\) 1985: 70, who speaks of an inter-dependent reality of the antyaviśeṣa, which do not have their own nature, but they stand on the nature of the substratum which is the universal; their reality is inferred and connected with the general nature of generality. The theoretical reality of antyaviśeṣa derives from several concepts: ‘inclusion’ \(aṅgikāra\), ‘concomitance’ \(vyāptihānyā\), and with another ‘real thing’ through a relation of ‘dependency’ \(prāsaṅga\), all these concepts demonstrate the grip, which by the 13th century AD, logic had on Vaiśeṣika, until its total assimilation by Nyāya. This is what in modern philosophy of physics is considered ‘structural realism’ where bottom-rock reality is relational. See Brigitte Falkenburg, Particle Metaphysics. A Critical Account of Subatomic Reality, 2007. 
+[^73]:  About the real yet non-existential character of ‘ultimate particularity,’ see Bhaṭṭa Vādīndra VSv \(long version\) 1985: 70, who speaks of an inter-dependent reality of the antyaviśeṣa, which do not have their own nature, but they stand on the nature of the substratum which is the universal; their reality is inferred and connected with the general nature of generality. The theoretical reality of antyaviśeṣa derives from several concepts: ‘inclusion’ \(aṅgikāra\), ‘concomitance’ \(vyāptihānyā\), and with another ‘real thing’ through a relation of ‘dependency’ \(prāsaṅga\), all these concepts demonstrate the grip, which by the 13th century AD, logic had on Vaiśeṣika, until its total assimilation by Nyāya. This is what in modern philosophy of physics is considered ‘structural realism’ where bottom-rock reality is relational. See Brigitte Falkenburg, Particle Metaphysics. A Critical Account of Subatomic Reality, 2007. 
 
-74 What is substance for Vaiśeṣika? It is a question to which arguably the system’s answer is that, as its nature or ultimate essence indicates, substance is differential and relational. This, however, should not be seen in an essentialism characterised by simplicity, but quite the opposite, a complexity that is indeterminately expanded horizontally, without mingling and confusion. 
+[^74]: What is substance for Vaiśeṣika? It is a question to which arguably the system’s answer is that, as its nature or ultimate essence indicates, substance is differential and relational. This, however, should not be seen in an essentialism characterised by simplicity, but quite the opposite, a complexity that is indeterminately expanded horizontally, without mingling and confusion. 
 
-20 * Introduction to Indian philosophy and Vaiśeṣika* **The Commentary: Candrānanda’s Vṛtti**
+**The Commentary: Candrānanda’s Vṛtti**
 
 There is a large consensus among scholars that Candrānanda’s Vṛtti \(VSc for gloss; VS for Sūtrapāṭha\) is the oldest extant Vaiśeṣika commentary, and, as Isaacson states, the Sūtrapāṭha \(VS\) it contains is ‘quite probably the earliest one now available.’75 Though an older Sūtrapāṭha could still be reconstructed from an 
 
@@ -403,29 +403,29 @@ This second introductory section is addressed principally to scholars of Indolog
 
 3. During my epic tour and fieldwork to South India \(2015-2016\), I had the fortune to access several manuscript collections, with the aim to complement the work of my predecessors: Kaviraj, Thakur, and Isaacson’s philological criticism on both VSc and Sūtrapāṭha. To those students not yet familiarised with Sanskrit, this section also offers a thematic synopsis of the commentary itself. A comparable synopsis had already been given by Thakur \(2003\) but is rather an eclectic summary, for it presents the topics of Sūtrapāṭha and the system itself based on glosses extracted from other Vaiśeṣika commentaries, and sadly overlooks key portions of Candrānanda’s commentaries on topics that are important, such as mokṣa \(e.g. VSc 10.21\). The synopsis I offer here focuses on Candrānanda’s 
 
-75  Isaacson, PhD, 1995, p. 140. 
+[^75]:  Isaacson, PhD, 1995, p. 140. 
 
-76 This project that Wezler propounds aims to trace an even earlier Sūtrapāṭha than that offered by VSc. 
+[^76]: This project that Wezler propounds aims to trace an even earlier Sūtrapāṭha than that offered by VSc. 
 
-* Introduction to Indian philosophy and Vaiśeṣika * 21
+{{21}}
 
 interpretation exclusively. As for Sūtrapāṭha, which will be briefly discussed in the second part of this chapter, I have brought into the discussion parallel passages that confirm that Candrānanda’s version of Vaiśeṣika aphorisms is as old as the 2nd century AD. 
 
 Candrānanda’s’ commentary – whose *editio princeps* has been published at Baroda in 1961 by the eminent Jaina savant monk Muni Jambūvijayaji – is the oldest Vaiśeṣika commentary available at present,77 and its publication represents a landmark in Vaiśeṣika studies. Its importance has already been highlighted numerous times by both Indian scholars \(e.g. Thakur, Jambūvijayaji\) and Western ones \(e.g. Wezler, Isaacson, and Halbfass\).78 Though republished in 1982, the edition of 1961 should be used first as it does not contain the misprints of the second edition \(1982\). 79 The 1961 edition provides a more reliable basic mūla-text, so much so that since its publication, it replaced scholars’ reliance on a later and vastly popular Vaiśeṣika commentary: Śaṅkaramiśra’s Upaskāra \(VSs\). The latter is an inflated version of the Sūtrapāṭha as well as a late \(Navya-Nyāya\) interpretation on Sūtrapāṭha. 80 Yet, the reception of Candrānanda’s commentary among Vaiśeṣika students is still poor, partly because a fully annotated translation has not yet been available in English. 81 To my own surprise, there are still scholars in today’s India who either are not familiar with the Candrānanda commentary or are simply not aware of the early composition of it, a fact partly due to the assumption that the ‘earliest text’ is not of much relevance to a living tradition such as Brahmanism. This only proves how familiar and close to heart the old philosophical reflection is to modern Indian scholarship. 
 
-77 The edition of Baroda Oriental Institute, 1961 \(Gaekwad’s Oriental Series no 136\) is the printed edition I only use. 
+[^77]: The edition of Baroda Oriental Institute, 1961 \(Gaekwad’s Oriental Series no 136\) is the printed edition I only use. 
 
-78  I refer primarily to Isaacson’s ground-breaking textual critical work, his PhD thesis, ‘Materials for the study of Vaiśeṣika system,’ 1995, while Ferenc Ruzsa has provided a transliteration for the whole Vṛtti with multiple notes providing MSS variations \(his webpage is on [academia .e du](http://dx.doi.org/academia.edu)\). 
+[^78]:  I refer primarily to Isaacson’s ground-breaking textual critical work, his PhD thesis, ‘Materials for the study of Vaiśeṣika system,’ 1995, while Ferenc Ruzsa has provided a transliteration for the whole Vṛtti with multiple notes providing MSS variations \(his webpage is on [academia .e du](http://dx.doi.org/academia.edu)\). 
 
-79  I have had this edition in my own hand, at Wai, but here I rely on Isaacson’s expertise, 1995, p. 355. 
+[^79]:  I have had this edition in my own hand, at Wai, but here I rely on Isaacson’s expertise, 1995, p. 355. 
 
-80  I am grateful to Alexis Sanderson who – during my DPhil transfer examination – drew attention to this important matter; at the time, October 2013, I had little training in textual criticism and Sanskrit philosophy. This aspect is indeed important, for even today there are still scholars who keep on referring to Upaskāra as the main primary sources for Vaiśeṣika \(e.g. Gajendragadkar, 1988\). 
+[^80]:  I am grateful to Alexis Sanderson who – during my DPhil transfer examination – drew attention to this important matter; at the time, October 2013, I had little training in textual criticism and Sanskrit philosophy. This aspect is indeed important, for even today there are still scholars who keep on referring to Upaskāra as the main primary sources for Vaiśeṣika \(e.g. Gajendragadkar, 1988\). 
 
 We thus recommend that – for a genuine study of the system – Candrānanda and Bhaṭṭa Vādīndra commentaries on Vaiśeṣikasūtra must be consulted and referred first. 
 
-81  One interesting exception is the Italian translation of Arena, 1982 \(VSa\); but he only translates the sūtras; while for Candrānanda’s commentary, he provides his own summary and commentary. 
+[^81]:  One interesting exception is the Italian translation of Arena, 1982 \(VSa\); but he only translates the sūtras; while for Candrānanda’s commentary, he provides his own summary and commentary. 
 
-22 * Introduction to Indian philosophy and Vaiśeṣika* **1.2 MSS on VSc82**
+**1.2 MSS on VSc82**
 
 When Jambūvijayaji published the edition of 1961, he used only 2 MSS. 83 He probably did not know that each of those 2 MSS had a further copy – preserved in Pune \(the MSS library of Bhandarkar Institute\) and another MS that has a copy preserved at Ujjain. Thus, there are 5 extant MSS on VSc, classified into 2 groups: those of a Jaina Devanagari Script and those of Śāradā script. Here, I only wish to list the MSS that have been used and already described by Jambūvijayaji \(J , Ś 
 
@@ -447,17 +447,17 @@ achievement, an example of scholarship of a rare order.’85
 
 The point of this introduction is to trigger students’ interest in putting together a critical edition of Vaiśeṣikasūtra. It is only then can we state with certainty about the system’s own tenets on various doctrines and concepts and the place of these into the broader picture of world philosophy. One example of a widely misunder-stood doctrine – due mostly to the poor preservation of Sūtrapāṭha – is the nature of soteriology, which, for example, Frauwallner negated because the system is a pure 
 
-82 The Jain savant Muni Jambūvijayaji took an interest in Vaiśeṣika while he was working on Nayacakra of Mallavādin. He saw in the text he was revising that there were many Vaiśeṣika sūtras, which could not be found in the then extant Sūtrapāṭha of Śaṅkaramiśra \(15th century AD\). 
+[^82]: The Jain savant Muni Jambūvijayaji took an interest in Vaiśeṣika while he was working on Nayacakra of Mallavādin. He saw in the text he was revising that there were many Vaiśeṣika sūtras, which could not be found in the then extant Sūtrapāṭha of Śaṅkaramiśra \(15th century AD\). 
 
 Intrigued by the sūtras present in the Nayacakra, Jambūvijayaji decided to trace their origin. From Jaisalmer, he received an MS from the collection of Muni Puṇyavijayajī, which proved of great value due to the many different sūtras it contained. Jambūvijayaji thus became the scholar responsible for the editio princeps of the oldest Vaiśeṣika commentary, and his edition was improved by Isaacson and Ruzsa collated and compared 3 additional MSS of various scripts, as follows: MS no 1831h \(Śārāda script\) from Baroda Oriental Institute, which in the footnotes of 1961 Baroda edition is designated with the siglum ‘O.’ A similar MS at Baroda Oriental Institute bears the number 403 and is from about 1875–6. It is also in Śārāda script and has 33 folia \(size 26.5 \+ 17 cm\). A final MS of the Scindia Oriental Institute, Ujjain, no. 4635, contains first the Tarkasaṁgraha text and the commentary \(Tarkadīpikā\), followed by the Sūtrapāṭha beginning on folio 22r15 and ending on folio 35r.106. 
 
-83 Thakur Introduction to VSc 1961. 
+[^83]: Thakur Introduction to VSc 1961. 
 
-84  Puṇyavijayajī edited VSc in 1982, but as Isaacson warned, the text ‘has been reset’ due to ‘a sprinkling of new misprints added,’ p. 144, f14. Isaacson \(PhD\) provides only a portion of a proposed Devanāgarī critical edition \(without translation\) of VSc \(1.1 to 2.1 including\). His represents a good beginning of what the whole of the edition might look like, while the Hungarian Indologist Ferenc Ruzsa carried on the same task for the whole of VSc \(in roman transliteration\). Since my work is not textual critical or philological, nor am I fully equipped to compete with their technical competence, I shall henceforth refer to their philological reading of the MSS. 
+[^84]:  Puṇyavijayajī edited VSc in 1982, but as Isaacson warned, the text ‘has been reset’ due to ‘a sprinkling of new misprints added,’ p. 144, f14. Isaacson \(PhD\) provides only a portion of a proposed Devanāgarī critical edition \(without translation\) of VSc \(1.1 to 2.1 including\). His represents a good beginning of what the whole of the edition might look like, while the Hungarian Indologist Ferenc Ruzsa carried on the same task for the whole of VSc \(in roman transliteration\). Since my work is not textual critical or philological, nor am I fully equipped to compete with their technical competence, I shall henceforth refer to their philological reading of the MSS. 
 
-85  Isaacson, 1995, p. 140. 
+[^85]:  Isaacson, 1995, p. 140. 
 
-* Introduction to Indian philosophy and Vaiśeṣika * 23
+{{23}}
 
 within 
 
@@ -515,7 +515,7 @@ No alternative
 
 Single Śāradā script
 
-33 folios Size: 26.5
+[^33]: folios Size: 26.5
 
 Pune \(BORI\)
 
@@ -601,7 +601,7 @@ J 2
 
 VS Jaina Devanāgarī script
 
-20 folios Size: 18.5
+[^20]: folios Size: 18.5
 
 Pune \(BORI\)
 
@@ -655,7 +655,7 @@ J 1 ‘PS’
 
 Js VS Jaina Devanāgarī 
 
-34 folios Size: 23.0 Ahmedabad \(L.D. Institute\)
+[^34]: folios Size: 23.0 Ahmedabad \(L.D. Institute\)
 
 Most probably 
 
@@ -679,7 +679,7 @@ Jambūvijayaji informs that the MS was donated to Baroda Institute by its owner,
 
 4
 
-24 * Introduction to Indian philosophy and Vaiśeṣika* philosophy of nature incompatible with any religious and theological concerns. 86 
+philosophy of nature incompatible with any religious and theological concerns. 86 
 
 Liberation in Vaiśeṣika is gnostic, centred primarily on an essentialist ontological knowledge of all 6 categories \(padārtha\), including the substance soul \(ātman\). 
 
@@ -695,11 +695,11 @@ What glues the 3 domains is dharma, which is the domain of knowability \(jñeyat
 
 although knowledge plays an important part, the system is not in the least ‘gnostic,’ \(in the Hellenistic sense\) for although ‘knowledge’ \(buddhi/jñāna\) represents a means by which liberation is achieved, nevertheless, at a certain point, because it is only a fleeing specific quality \(vaiśeṣikaguṇa\), it would be fully castoff from the nature of the soul. Both knowledge and dharma are not ontologically part of the soteriological state, but only the means by which an embodied self would achieve its free and pure nature. Nature is the state of potential infinite plurality of 
 
-86  See discussion on this interpretation in Ionut Moise, Salvation in Indian Philosophy. Perfection and Simplicity for Vaiśeṣika, 2019. 
+[^86]:  See discussion on this interpretation in Ionut Moise, Salvation in Indian Philosophy. Perfection and Simplicity for Vaiśeṣika, 2019. 
 
-87 Thakur, Introduction to VSc 1961, p. 3. 
+[^87]: Thakur, Introduction to VSc 1961, p. 3. 
 
-88  In Candrānanda’s commentary, dharma is employed in a whole variety of ways ranging from ritualistic connotations \(VSc 6.2.1–2\) to the most subtle psychological underpinning, such as to be that ‘fine quality born of yoga’ practice \(yogajadharma VSc 9.13\). These different usages show the richness and problems of systematising the definition of the term. Among the different meanings received in Vaiśeṣika, a few can be mentioned. \(1\) Dharma \(in opposition to adharma\), a quality among the 24 \(VSc 1.1.5; 7\). \(2\) ‘Teaching instrument’ \(instrumental case\) leading to niḥśreyasa \(VS 1.1.2; VSc 1.1.6; VSc 6.2.11\). \(3\) ‘Teaching instrument’ leading to abhyudaya \(VS 
+[^88]:  In Candrānanda’s commentary, dharma is employed in a whole variety of ways ranging from ritualistic connotations \(VSc 6.2.1–2\) to the most subtle psychological underpinning, such as to be that ‘fine quality born of yoga’ practice \(yogajadharma VSc 9.13\). These different usages show the richness and problems of systematising the definition of the term. Among the different meanings received in Vaiśeṣika, a few can be mentioned. \(1\) Dharma \(in opposition to adharma\), a quality among the 24 \(VSc 1.1.5; 7\). \(2\) ‘Teaching instrument’ \(instrumental case\) leading to niḥśreyasa \(VS 1.1.2; VSc 1.1.6; VSc 6.2.11\). \(3\) ‘Teaching instrument’ leading to abhyudaya \(VS 
 
 1.1.2; VSc 10.20\). \(4\) Ethical, āśramic and ritualistic implication \(VSc 6.1.4–6; VS 6.1.15, VSc 6.2.17–18\). \(5\) Type of ‘yogic dharma’ \(yogajadharma\) \(VSc 9. 13\). \(6\) ‘Collection’ \(sañcita\) of dharmas/adharma associated with the ‘doctrine of karma’ \(VSc 5.1.15; VSc 6.2.18; VSc 9.28\). \(7\) 
 
@@ -707,7 +707,7 @@ although knowledge plays an important part, the system is not in the least ‘gn
 
 ‘small,’ ‘hidden,’ and ‘remote’ \(VSc 9.28\). \(11\) ‘Defining characteristic’ \(VSc 2.1.7–8; VSc 3.1.7; VS 4.2.5; VSc 9.8\). \(12\) ‘Mental category’ sometimes related to transmigration \(saṃskāra\) or involved in connecting soul with mind \(VSc 9.24–25; 9.28\). For more, see Moise 2019: 85–93. 
 
-* Introduction to Indian philosophy and Vaiśeṣika * 25
+{{25}}
 
 the cosmos, whose beauty lies in complete difference and distinction, unaffected and undissolved. 
 
@@ -719,9 +719,9 @@ Since the Baroda edition is a Sanskrit  edition, to those students not yet famil
 
 77–224\);89a new Sanskrit comparative appendix \(navam pariśiṣṭa\) \(pp. 225–6\); a section on MSS variations in Sanskrit \(vṛddhipattraka\) \(pp. 227–34\); an errata \(śuddhipattraka\) in English and Sanskrit \(pp. 235–7\); and a handwritten photocopy of the Tibetan sources discussed under Appendix 1 \(pp. 153–219\). A swift survey over the whole of VSc content can be made with the summary given by Jambūvijayaji \(pp. 11–14\). Table 1.2 shows the main concepts classified by chapter and daily lessons. 
 
-89 The seventh section in this appendix \(pp. 153–219\) contains an English presentation of the Tibetan sources adduced in support of the reconstruction of the VS. I have not had the chance to dwell on this aspect here. 
+[^89]: The seventh section in this appendix \(pp. 153–219\) contains an English presentation of the Tibetan sources adduced in support of the reconstruction of the VS. I have not had the chance to dwell on this aspect here. 
 
-26 * Introduction to Indian philosophy and Vaiśeṣika* ṛti\)
+ṛti\)
 
 *VSc 10*
 
@@ -805,7 +805,7 @@ and categories
 
 differentiation bet. substances
 
-* Introduction to Indian philosophy and Vaiśeṣika * 27
+{{27}}
 
 ***VSc 1.1 \(29 sūtras\)***
 
@@ -851,7 +851,7 @@ between ‘sense-objects’ \(indriyārtha\) \(1\) and the ‘sense-organs’ \(
 
 The soul, not the senses, is the ‘grasper’ \(grahītṛ\) of the objects \(VSc 2, 3\). Like in VSc 2.2, here too, we have some objections to the view expressed \(3; 7\) and it is for this very purpose that Candrānanda offers a list of 10 logical relations \(out 
 
-* Introduction to Indian philosophy and Vaiśeṣika * 29
+{{29}}
 
 of which 8 are inferential probans\) that Vaiśeṣika’s epistemology is based on, and which serve the purpose to prove the existence of soul \(8–9\). 90 There is also a 
 
@@ -877,13 +877,13 @@ and so on \(9\). The lesson continues with a series of epistemological arguments
 
 The analysis of substances goes into more minute detail. In judging the ‘permanent’ \(nitya\) nature of substances, VSc discusses the existence of atoms that are eternal, and their knowledge is equally important. Candrānanda deals with a 2-fold epistemology enunciated in the opening line, namely ‘comprehensibility’ \(upalabdhi\) and ‘non-comprehensibility’ \(anupalabdhi\),91 as referred to the 
 
-90  Among which, the third proban \(ekārthasamavāyi\) is 2-fold \(kārya kāryāntara; kāraṇa kāraṇāntara\), while the virodha proban is 4-fold. See the section on epistemology \(fifth chapter of this thesis\). 
+[^90]:  Among which, the third proban \(ekārthasamavāyi\) is 2-fold \(kārya kāryāntara; kāraṇa kāraṇāntara\), while the virodha proban is 4-fold. See the section on epistemology \(fifth chapter of this thesis\). 
 
-91  Ganesh Thite \(personal communication\) translates upalabdhi with ‘obtainment,’ and anupalabdhi with ‘non-obtainment’; other options can be ‘perception,’ ‘non-perception,’ ‘recognition,’ and 
+[^91]:  Ganesh Thite \(personal communication\) translates upalabdhi with ‘obtainment,’ and anupalabdhi with ‘non-obtainment’; other options can be ‘perception,’ ‘non-perception,’ ‘recognition,’ and 
 
 ‘non-recognition,’ respectively. 
 
-30 * Introduction to Indian philosophy and Vaiśeṣika* existence of atoms \(1–5\), their triadic composition \(6–8\), and qualities \(9–14\). 
+existence of atoms \(1–5\), their triadic composition \(6–8\), and qualities \(9–14\). 
 
 After a brief definition of ‘permanence’ \(nitya\) \(1\), a whole section on cognitive comprehension \(upalabdhi\) follows \(2–6\). This is the first epistemological part of this lesson, in which the knowledge of effects \(kārya\) that are impermanent \(2–3\) contrasts with the impermanent character of causes \(4\). Default knowledge or ignorance \(avidyā\) is the ‘impossibility’ \(abhāva\) of conceptualisation atoms beyond senses. But in the second part \(7–14\), 92 both Sūtrapāṭha and Vṛtti deal with the non-comprehension \(anupalabdhi\) of ‘atoms’ \(paramāṇu\) \(7\), or qualities like ‘number’ \(saṃkhyā\), ‘dimension’ \(parimāṇa\), ‘separateness’ \(pṛthaktva\), 
 
@@ -903,15 +903,15 @@ From the knowledge of atomic substances \(in VSc 4.1\), this lesson takes the re
 
 ‘sensorial body of the moon’ and ‘aqueous body’ \(9\). 
 
-92 With the exception when upalabdhi is proved through ‘inherence’ \(samavāya\). 
+[^92]: With the exception when upalabdhi is proved through ‘inherence’ \(samavāya\). 
 
-93  ‘Remoteness’ \(trans. Kumar, 2013, p. 27\); ‘priority’ \(trans. Halbfass, 1992, p. 208\). 
+[^93]:  ‘Remoteness’ \(trans. Kumar, 2013, p. 27\); ‘priority’ \(trans. Halbfass, 1992, p. 208\). 
 
-94  ‘Proximity’ \(trans. Kumar, 2013, p. 27\); ‘posteriority’ \(Halbfass, 1992, p. 208\). 
+[^94]:  ‘Proximity’ \(trans. Kumar, 2013, p. 27\); ‘posteriority’ \(Halbfass, 1992, p. 208\). 
 
-95 This refers to the type of birth of bodies: for example, bodies not born out of the womb, VSc 4.2.7: aṅgārebhyo jāto’ṅgirā ity evamādisamākhyābhāvād manyāmahe santyayonijāni. 
+[^95]: This refers to the type of birth of bodies: for example, bodies not born out of the womb, VSc 4.2.7: aṅgārebhyo jāto’ṅgirā ity evamādisamākhyābhāvād manyāmahe santyayonijāni. 
 
-* Introduction to Indian philosophy and Vaiśeṣika * 31
+{{31}}
 
 ***VSc 5.1 \(18 sūtras\)***
 
@@ -937,7 +937,7 @@ It contains the soteriological doctrine of Vaiśeṣika, an event that takes pla
 
 ‘mind-motion’ on which yoga focuses on \(15–17\), ‘body-motion’ \(kāyakarmaṇa\) \(18\), motions triggered by adṛṣṭa within various effected actions \(kārya\) like ‘eating,’ ‘drinking,’ ‘going away,’ or ‘going near’ \(19\), and realisation of liberation \(mokṣa\) \(20\). After the list of motions \(physical and metaphysical\), the meaning of ‘darkness’ \(tamas\) \(21–22\), as well as the doctrine of the motionless nature of all-pervasive substances like ‘space’ \(diś\), ‘time’ \(kāla\), ‘ether’ \(ākāśa\), and soul \(23–28\) are given too. The fifth chapter is of particular importance for understanding the soteriology of the self, karma theory, and transmigration \(saṃsāra\). Being defined in a chapter on karma, liberation is to be read as being brought about at the moment when the soul is separated from all cosmological ‘relations’ \(saṃyoga\), which triggers motion \(‘theory of karma’\). 
 
-96  Ātman being all-pervasive cannot have motion, cannot move. Here I am referring to volition \(prayatna\), which engages the embodied self with the external world. 
+[^96]:  Ātman being all-pervasive cannot have motion, cannot move. Here I am referring to volition \(prayatna\), which engages the embodied self with the external world. 
 
 3
 
@@ -957,15 +957,15 @@ Further ethical explanations are prescribed with regard to ‘violence’ \(hi�
 
 The second lesson is a continuation of the discussion on dharma enunciated in VSc 6.1, and deals with specific types of merit, mainly stipulated in the śruti and smṛti texts, all of which are conducive to elevation. These are of 3 kinds: \(1\) performances \(prayoga\) clearly expressed in the Vedas \(dṛṣṭa\); \(2\) acts where the purpose is mentioned \(dṛṣṭaprayojanāna\) in those texts; and \(3\) acts where the purpose is not mentioned in the sacred texts \(dṛṣṭābhāva\) \(1\). Candrānanda discusses 12 forms of ritualistic acts that lead to merit: sprinkling water \(abhiṣecana\), 
 
-97  Candrānanda agrees with Praśastapāda, by recognising dharma as a quality of the self: karmāṇi vyākhyāya guṇā vyākhyāyante/tatra dharma ādau vyākhyāyate/śāstrādau tasy’oddiṣṭatvāt \(‘having explained the motions, now qualities will be described; here dharma will be explained first, as this is intended by the śāstra’\). The orthodoxy of Vaiśeṣika is here proved by its allegiance to the Vedas, whose injunctions are a ‘means’ \(sādhana\) of soteriological knowledge \(tasya vaidiko vidhiḥ sādhanaṁ; vedasya satyatā kuta iti cet yataḥ… see VSc 6.1.1\) 
+[^97]:  Candrānanda agrees with Praśastapāda, by recognising dharma as a quality of the self: karmāṇi vyākhyāya guṇā vyākhyāyante/tatra dharma ādau vyākhyāyate/śāstrādau tasy’oddiṣṭatvāt \(‘having explained the motions, now qualities will be described; here dharma will be explained first, as this is intended by the śāstra’\). The orthodoxy of Vaiśeṣika is here proved by its allegiance to the Vedas, whose injunctions are a ‘means’ \(sādhana\) of soteriological knowledge \(tasya vaidiko vidhiḥ sādhanaṁ; vedasya satyatā kuta iti cet yataḥ… see VSc 6.1.1\) 
 
-98  For the list of vaiśeṣikaguṇas, see VSc 3.2.17: tasya guṇāḥ buddhi sukhaduḥkh’ecchādveṣa prayatnādṛṣṭa saṁskārā vaiśeṣikāḥ. Like Praśastapāda, Candrānanda also recognises in adṛṣṭa, 2 
+[^98]:  For the list of vaiśeṣikaguṇas, see VSc 3.2.17: tasya guṇāḥ buddhi sukhaduḥkh’ecchādveṣa prayatnādṛṣṭa saṁskārā vaiśeṣikāḥ. Like Praśastapāda, Candrānanda also recognises in adṛṣṭa, 2 
 
 vaiśeṣikaguṇas: dharma and adharma VSc 1.1.5. 
 
-99  A literal translation might be ‘bringing together’ or ‘companionship,’ which could include feeding and speaking with the Brahmins. 
+[^99]:  A literal translation might be ‘bringing together’ or ‘companionship,’ which could include feeding and speaking with the Brahmins. 
 
-* Introduction to Indian philosophy and Vaiśeṣika * 33
+{{33}}
 
 ablutions \(snāna\), fasting \(upavāsa\), celibacy \(brahmacarya\), apprenticeship with a guru \(gurukulavāsa\), forest-dwelling \(vānaprastha\), sacrifice \(yajña\), offerings \(dāna\), aspersion \(prokṣaṇa\), direction restriction \(diṅ-niyama\), lunar station restriction \(nakṣatra-niyama\), mantra restriction \(mantra-niyama\), and time restriction \(kāla-niyama\) \(2\). These injunctions correspond and differ according to the 4 ‘stages of life’ \(āśrama\); they are also classified 2-fold: when performed 
 
@@ -989,9 +989,9 @@ Another section of this lesson deals with the nature of qualities like ‘colour
 
 ‘taste,’ ‘smell,’ and ‘touch’ in the substance-mahābhūta ‘earth.’ Touch \(sparśa\) is not permanent because its ‘substratum’ \(āśraya\) is not permanent either \(4\). 
 
-100  Candrānanda quotes sūtra 1.1.15 as one which elucidates the relationship between dravya and karma. If the ordering of the Sūtras was correctly made by the Baroda 1961 edition, Candrānanda must refer here, in fact, to 1.1.16 \(karmalakṣaṇa\) not 1.1.15 \(guṇalakṣaṇa\). 
+[^100]:  Candrānanda quotes sūtra 1.1.15 as one which elucidates the relationship between dravya and karma. If the ordering of the Sūtras was correctly made by the Baroda 1961 edition, Candrānanda must refer here, in fact, to 1.1.16 \(karmalakṣaṇa\) not 1.1.15 \(guṇalakṣaṇa\). 
 
-34 * Introduction to Indian philosophy and Vaiśeṣika* The impermanence of ‘earth’ \(pṛthivī\) refers to the composite state of earth \(compounded by atoms – paramāṇu\) and the state of an earthly product such as pot \(ghaṭa\) that is prone to ‘destruction’ \(vināśa\). In the second part, however \(6–18\), the question of permanence and impermanence of qualities shifts towards that of atoms \(paramāṇu\). The nature of qualities like colour, taste, and touch is discussed in relation to substances like ‘water,’ ‘fire,’ and ‘air’ \(7–8\); when discussing the elements ‘water,’ ‘fire,’ and ‘wind,’ Candrānanda looks at the state of their atomic composition \(8–10\).101 Thakur \(2003\), classifies 9–13 as dealing with the 
+The impermanence of ‘earth’ \(pṛthivī\) refers to the composite state of earth \(compounded by atoms – paramāṇu\) and the state of an earthly product such as pot \(ghaṭa\) that is prone to ‘destruction’ \(vināśa\). In the second part, however \(6–18\), the question of permanence and impermanence of qualities shifts towards that of atoms \(paramāṇu\). The nature of qualities like colour, taste, and touch is discussed in relation to substances like ‘water,’ ‘fire,’ and ‘air’ \(7–8\); when discussing the elements ‘water,’ ‘fire,’ and ‘wind,’ Candrānanda looks at the state of their atomic composition \(8–10\).101 Thakur \(2003\), classifies 9–13 as dealing with the 
 
 ‘origination of the first five qualities.’ Qualities are born of heating, hence they are not co-eternal with substances because substances pre-exist qualities \(12\).102 
 
@@ -1007,15 +1007,15 @@ In this lesson, 4 sections can be distinguished: the first part is focused on th
 
 \(12\). The second part \(15–24\) is epistemological. Though sound-word is not listed among the 17 qualities \(VS 1.1.5\), according to Vaiśeṣika’s theory of language, sound-word is disconnected from meaning \(artha\) \(19\). This section presents and rejects some opposing views, and supplies Vaiśeṣika’s theory of semantics, according to which, meaning is established by mutual conventional agreement \(sāmayika\) \(24\). Other qualities discussed are ‘proximity’ \(paratva\) and ‘remoteness’ \(aparatva\) \(21–24\), which have both a temporal and spatial connotation \(25–27\). The third part \(29–31\) shifts back to a discussion of another category: 
 
-101  On atoms: VSc 7.1.6–10; 15–18; 26. 
+[^101]:  On atoms: VSc 7.1.6–10; 15–18; 26. 
 
-102 This doctrine is important because ātman in its liberated state is divested from its own vaiśeṣikaguṇas. 
+[^102]: This doctrine is important because ātman in its liberated state is divested from its own vaiśeṣikaguṇas. 
 
-103  Atom is eternal because is circular \(parimaṇḍalya\) \(VSc 7.1.26\)
+[^103]:  Atom is eternal because is circular \(parimaṇḍalya\) \(VSc 7.1.26\)
 
-104 This could raise the question of whether for the Vaiśeṣikas, vidyā is the science of everything that so daringly both Vyomaśiva’s Vyomavati \(p. 47\) and Kir GOS \(p. 148\) put forward. 
+[^104]: This could raise the question of whether for the Vaiśeṣikas, vidyā is the science of everything that so daringly both Vyomaśiva’s Vyomavati \(p. 47\) and Kir GOS \(p. 148\) put forward. 
 
-* Introduction to Indian philosophy and Vaiśeṣika * 35
+{{35}}
 
 inherence \(samavāya\) \(29\), a category with which Candrānanda explains how qualities are inherent in substances \(e.g. cloth inherent in threads\). The lesson ends by discussing the ontological concepts of ‘existence’ \(bhāva\) \(30\) and ‘suchness’ \(tattva\) \(31\). 
 
@@ -1033,13 +1033,13 @@ and ‘specificity.’ The knowledge of the 3 basic categories depends \(āpek�
 
 ‘should be first’ \(8\). Inherence is defined as the co-existentiality between cause and effect, and in relation to a ‘specifier’ \(viśeṣaṇa\) and a ‘specified’ \(viśeṣya\) thing \(9\). There is no cause-effect relationship between substances as well as between the first categories \(10–11\). In the same context, mind is described as atomic \(aṇutva\), therefore, the chain of perceptual thought would be a line of 
 
-105  A presentation of the eighth chapter, see Nozawa’s article, 1993a. 
+[^105]:  A presentation of the eighth chapter, see Nozawa’s article, 1993a. 
 
-106  On 4-fold contact that produces perceptual knowledge, see also VSc 3.1.13. 
+[^106]:  On 4-fold contact that produces perceptual knowledge, see also VSc 3.1.13. 
 
-107  Nozawa, 1993a, p. 1155. 
+[^107]:  Nozawa, 1993a, p. 1155. 
 
-36 * Introduction to Indian philosophy and Vaiśeṣika* minute details being produced ‘in sequence’ \(jñānānāṃ krameṇāpi\). The example given is the phrase ‘gauḥ śuklā gacchatī,’ where cow is a substance \(or noun\), 
+minute details being produced ‘in sequence’ \(jñānānāṃ krameṇāpi\). The example given is the phrase ‘gauḥ śuklā gacchatī,’ where cow is a substance \(or noun\), 
 
 ‘śuklā’ is a quality \(adjective\), and ‘gacchatī’ is a motion \(verb\); although they are produced in sequence, Candrānanda says that there is no cause-effect relationship between them \(11\). Other examples are given in order to explain the various relations between ‘near things’ \(sannikṛṣṭa\) and ‘distant things’ \(viprakṛṣṭa\) \(12\), or between ‘seen things’ \(loc. dṛṣṭeṣu\) and ‘unseen things’ \(loc. adṛṣṭeṣu\) \(13\). 
 
@@ -1055,9 +1055,9 @@ The theory of asatkāryavāda comes into the first sūtra and its gloss. A real 
 
 \(anapadeśa\), ‘mark’ \(liṅga\), and ‘efficient cause’ \(nimitta\) are considered synonymous \(20–1\). The production of ‘recollection’ \(smṛti\) is caused by a latent impression \(saṃskāra\), and a particular relation between mind and soul \(22\). Similar factors produce surface dreams \(svapna\) and ‘sub-conscious’ ones \(svapnāntika\) 
 
-108  For a translation of VSc 9.1–12, see Halbfass, 1992, pp. 242–6. 
+[^108]:  For a translation of VSc 9.1–12, see Halbfass, 1992, pp. 242–6. 
 
-* Introduction to Indian philosophy and Vaiśeṣika * 37
+{{37}}
 
 \(22–3\) as well. It seems that a ‘specific dharma’ plays a role in dream functions \(24\). Ignorance \(avidyā\) and impure knowledge \(duṣṭa jñāna\) can arise because of certain ‘impurities’ \(doṣa\) in the embodied soul, and because of a ‘dormant impetus’ \(saṃskāra\) \(25–6\). The opposite of it is the ‘pure knowledge’ \(aduṣṭa vidyā\) \(27\), on which Candrānanda does not say more; he only says that it is of 2 types: perception \(pratyakṣa\) and inference \(anumāna\). He nevertheless discusses 2 unusual forms of knowledge – ārṣa and siddhadarśana – both produced from a ‘particular dharma’ \(28\). 
 
@@ -1075,11 +1075,11 @@ I present an alternative thematic classification that should be of better use.
 
 About the author of VSc, we know very little.111 From the internal evidence, like that given by the colophon, we know that the name of the author is Candrānanda, 
 
-109 Though Candrānanda does not mention aniṣṭa in its gloss, we may assume that aniṣṭa refers to duḥkha. 
+[^109]: Though Candrānanda does not mention aniṣṭa in its gloss, we may assume that aniṣṭa refers to duḥkha. 
 
-110  The simile used by Candrānanda is the ‘threads’ \(tantu\) that symbolise their interdependence from each other in a piece of cloth; the simile is also used to express the relations of precedence and successiveness. 
+[^110]:  The simile used by Candrānanda is the ‘threads’ \(tantu\) that symbolise their interdependence from each other in a piece of cloth; the simile is also used to express the relations of precedence and successiveness. 
 
-111 I have little to add on Candrānanda as the author; yet, differently from Isaacson’s conjectures \(PhD 
+[^111]: I have little to add on Candrānanda as the author; yet, differently from Isaacson’s conjectures \(PhD 
 
 3
 
@@ -1145,32 +1145,32 @@ The New Catalogus Catalogorum gives information of a certain Candrānanda
 
 ‘writer on medicine and medical lexicography,’ ‘son of Ravinandana, and grandson of Mahānandana,’ whom, according to the genealogy of Dhallaṇa, was originally from Kaśmīr. 117 Regarding the location of his activity, Isaacson states that the indications we have \(Śārāda script MS, and Abhinavagupta’s 1995\), here I only aim to discuss the colophon and the probable location of VSc composition. 
 
-112 Grimes, dict., p. 102. It also represents ‘that subtle structure within the body that oozes the nectar of immortality.’ 
+[^112]: Grimes, dict., p. 102. It also represents ‘that subtle structure within the body that oozes the nectar of immortality.’ 
 
-113 jagato: all; jāgato Jac \(according to Ruzsa reading of MSS\). 
+[^113]: jagato: all; jāgato Jac \(according to Ruzsa reading of MSS\). 
 
-114  The older MS \(siglum ‘P’ or ‘J’\), however, reads ‘vidyāsarvayāḥ’ for which I have opted here; Baroda MS \(siglum ‘O’ or ‘Ś’\) reads ‘vidyāyāḥ sarvathā.’ VSc 1961 provides ‘vidyāśarvaryāḥ,’ 
+[^114]:  The older MS \(siglum ‘P’ or ‘J’\), however, reads ‘vidyāsarvayāḥ’ for which I have opted here; Baroda MS \(siglum ‘O’ or ‘Ś’\) reads ‘vidyāyāḥ sarvathā.’ VSc 1961 provides ‘vidyāśarvaryāḥ,’ 
 
 which might complicate the reading; but Ruzsa, who used the 1982 ed., makes a conjecture with 
 
 ‘vidyāsavayāḥ’ \(metre, requires āryā\). 
 
-115 etāṁ: J; kaścit Ś \(according to Ruzsa reading of MSS\). 
+[^115]: etāṁ: J; kaścit Ś \(according to Ruzsa reading of MSS\). 
 
-116 etāṁ: J; kaścit Ś \(according to Ruzsa reading of MSS\). 
+[^116]: etāṁ: J; kaścit Ś \(according to Ruzsa reading of MSS\). 
 
-117 NCC, 1971, vol. 6, pp. 355–6. 
+[^117]: NCC, 1971, vol. 6, pp. 355–6. 
 
-* Introduction to Indian philosophy and Vaiśeṣika * 39
+{{39}}
 
 reference to Candrānanda\)118 point clearly to Kaśmīr, though as he says, his remarks are ‘not conclusive.’119 Although I have no objection to the location and the date of Candrānanda put forward by Isaacson, yet, I do have a few reservations regarding Isaacson’s ‘impression’ of Candrānanda’s commentary as being ‘deeply influenced by Praśastapāda,’ not least because his assertions are grounded on secondary literature \(e.g. Nozawa readings\), rather than a direct comparative reading with PD. 120 Indeed, a certain doctrinal relationship with Praśastapāda has often been too much emphasised by scholars, such as Nozawa, who in his translation of the first 2 chapters provides extensive comparative footnotes with PD, and with later Nyāya-Vaiśeṣika works through the lenses of which Candrānanda is read. The case I make, however, is that though Candrānanda might have been contemporary with Praśastapāda, he does present an older and more traditional and canonical view on Vaiśeṣika doctrine, for the following reasons. \(1\) The number of specific qualities in VSc is smaller \(9\) than in PD \(16\). \(2\) The role of god is not so greatly emphasised in the cosmogony and eschatology of Vaiśeṣika. Candrānanda, for instance, ascribes adṛṣṭa as the cause and role for the formation of the world, and the gloss VSc 5.2.14 does not mention about god as operating adṛṣṭa, though it is true, both VSc 1.1.3 and VSc 10.21 acknowledge Bhagavān Īśvara as the creator of cosmos. \(3\) The religious affiliation of Candrānanda is Brahmanical, not explicitly Śaivist, whereas Praśastapāda is Śaivist; this may confirm the existence of various schools in Vaiśeṣika in the second half of the first millennium. \(4\) Candrānanda provides an older version of Sūtrapāṭha, and an older interpretation of the system than Praśastapāda. The hypothesis that we can launch is that, even if Candrānanda may not have been earlier than Praśastapāda, it is beyond doubt that his brevity and more conservative exegesis is older, hence more reliable than Praśastapāda’s innovative approach. As for the date of VSc, Aklujkar has dated VSc has having been composed between the 7th and 10th centuries AD. The ‘terminus post quem’ for Candrānanda is 600 AD, on the grounds of a reference he makes \(in VSc 3.2.4\) to Uddyotakara’s Vārttika. The 
 
 ‘terminus ante quem’ is the 10th century AD. Aklujkar says that Helārāja quotes from VSc, 121 whereas Isaacson identifies another reference to Vaiśeṣika in the Abhinavagupta’s commentary on Īshvarapratyabhijñāvimarshinī of Utpaladeva \(10th century AD\). The importance of Candrānanda’s commentary, however, resides not in the composition time, but rather in the conservative interpretation on the Sūtrapāṭha and the integrity of its version and the commentary it preserves. 
 
-118 Isaacson 1995, p. 141, \(via Shah, 1957, 7\) refers to Īśvarapratyabhijñāvimarshinī of Utpaladeva with commentary by Abhinavagupta. 
+[^118]: Isaacson 1995, p. 141, \(via Shah, 1957, 7\) refers to Īśvarapratyabhijñāvimarshinī of Utpaladeva with commentary by Abhinavagupta. 
 
-119 Isaacson, 1995, p. 141. 
+[^119]: Isaacson, 1995, p. 141. 
 
-120  Isaacson, 1995, f. 7 on p. 141, who relies here on the readings of Werba, Chemparathy, and Frauwallner, rather than on his own comparative readings. 
+[^120]:  Isaacson, 1995, f. 7 on p. 141, who relies here on the readings of Werba, Chemparathy, and Frauwallner, rather than on his own comparative readings. 
 
-121 Aklujkar, 1970, p. 340. Vergiani, 2016, p. 547. 
+[^121]: Aklujkar, 1970, p. 340. Vergiani, 2016, p. 547. 

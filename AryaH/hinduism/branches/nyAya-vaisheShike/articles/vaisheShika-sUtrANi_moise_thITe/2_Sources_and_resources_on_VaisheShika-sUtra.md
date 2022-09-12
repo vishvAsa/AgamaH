@@ -63,7 +63,7 @@ most probably belonged to the Vedānta tradition, because many MSS I looked at, 
 
 11 Isaacson, 1995, PhD, p. 202. 
 
-42 * Sources and Resources on Vaiśeṣikasūtra *
+
 
 Vaiśeṣika, and then Nyāyavatara, a Jaina treatise on logic\). 12 T is a palm-leaf manuscript, and represents an independent recension and is located in the Kerala University Manuscripts Library, Trivandrum \(no 22615\). Like ‘A,’ ‘T’ also con-
 
@@ -139,7 +139,7 @@ therefore, they should look up for Vaiśeṣika MSS at different sections in the
 
 18  Isaacson, 1995, p. 202. 
 
-44 * Sources and Resources on Vaiśeṣikasūtra *
+
 
 different reasons either to combat its tenets or to profitably make use of its doctrine, as Jaina scholars did. 
 
@@ -189,7 +189,7 @@ from Sūtrapāṭha. Furthermore, in relation to this, VS 5.2.18–20 are sūtra
 
 25  Houben, 1994, p. 718, informs us that Mallvadin, c. 550 AD, quotes a sutra, VS 9.12, which is traceable only in the Sūtrapāṭha of Candrānanda, therefore its Sūtrapāṭha must be the oldest we have. 
 
-46 * Sources and Resources on Vaiśeṣikasūtra *
+
 
 Sūtrapāṭha at least from the same time. 26 In philological studies, the external evidence discussed by Adachi and Houben represent solid proof for dating MSS. 
 
@@ -267,7 +267,7 @@ made by my predecessors \(Ruzsa, Isaacson, etc.\), while for Sūtrapāṭha, I s
 
 \(1982\), which proved very useful for the variations offered between the sūtras of Candrānanda, Vādīndra, Sena Court, and Śaṅkaramiśra. 
 
-48 * Sources and Resources on Vaiśeṣikasūtra *
+
 
 substantially the current understanding we have on the Vaiśeṣika system or its 
 
