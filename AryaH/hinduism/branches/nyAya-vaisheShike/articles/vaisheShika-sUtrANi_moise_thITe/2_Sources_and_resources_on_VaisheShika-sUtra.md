@@ -19,17 +19,17 @@ Starting from the ‘Vaiśeṣikasūtra entry,’ we must make all effort in col
 
 In 2013, the University of Madras finally published volume 32 of NCC, which reached the letter ‘v’ and has provided the entry for ‘Vaiśeṣikasūtra.’ So we can finally identify various locations where Vaiśeṣika MSS on the mūla text could be found and photographed, some of which had already been visited and explored 
 
-1 Thakur, 2003, p. 131. 
+[^1]: Thakur, 2003, p. 131. 
 
-2 Ruzsa offers a different emendation than Thakur \(sambaddha: Ś1, Ś3; saṁbandha JS, J, Ś2; cet: all; cat JS\). Here I offer Thakur, 2013 version, p. 131. 
+[^2]: Ruzsa offers a different emendation than Thakur \(sambaddha: Ś1, Ś3; saṁbandha JS, J, Ś2; cet: all; cat JS\). Here I offer Thakur, 2013 version, p. 131. 
 
-3  Isaacson, 1995, p. 256. 
+[^3]:  Isaacson, 1995, p. 256. 
 
 *Sources and resources on *
 
 *Vaiśeṣikasūtra *
 
-* Sources and resources on Vaiśeṣikasūtra * 41
+{{41}}
 
 by certain scholars \(at Trivandrum, Pune, Jodhpur, Darbangha\). 4 Beginning from the textual-philological evidence provided by Isaacson \(PhD\), here I should mention briefly the MSS on Sūtrapāṭha, which I have been able to look at, as well as additional ones that I had the chance to photograph during my Erasmus research field-work to India \(2015–2016\). To my knowledge, 3 scholars before myself had 
 
@@ -45,23 +45,23 @@ Anantalal Thakur is by far the scholar who looked most extensively over the Vai�
 
 Harunaga Isaacson, in his PhD thesis, brings further contributions by consulting 2 additional MSS containing Sūtrapāṭha alone, and provides a ‘diplomatic edition’ for each one of these, as well as a ‘tentative reconstruction of the presumed hyparchtype of both, followed by an attempt at evaluation.’11 This MSS is \(1\) the Ahmedabad MS \(henceforth ‘A’\) and \(2\) a second MS from Trivandrum \(henceforth ‘T’\). A is a ‘Sammelhandschrift’ \(a collated MS consisting of several heterogeneous MSS, in this case, the Nyāyasūtra first, second Sūtrapāṭha of 
 
-4  For the ‘Vaiśeṣikasūtra’ entry, see NCC vol. XXXII, p. 65–68. I say ‘could’ because some MSS are almost impossible to obtain, even though they are mentioned in NCC. Two MSS \(140 and 183\), for instance, are mentioned in the entry; these are supposed to be in the Sanskrit Pāṭhaśālā of Rajapur \(South Maharashtra\). When I visited the site, the young pundits had no knowledge of any \(handwritten\) list of the MSS, which obviously they should have possessed. All MSS \(presumably not yet classified\) were preserved in about 20 big bags on the roof of the main building. The pāṭhaśālā 
+[^4]:  For the ‘Vaiśeṣikasūtra’ entry, see NCC vol. XXXII, p. 65–68. I say ‘could’ because some MSS are almost impossible to obtain, even though they are mentioned in NCC. Two MSS \(140 and 183\), for instance, are mentioned in the entry; these are supposed to be in the Sanskrit Pāṭhaśālā of Rajapur \(South Maharashtra\). When I visited the site, the young pundits had no knowledge of any \(handwritten\) list of the MSS, which obviously they should have possessed. All MSS \(presumably not yet classified\) were preserved in about 20 big bags on the roof of the main building. The pāṭhaśālā 
 
 most probably belonged to the Vedānta tradition, because many MSS I looked at, randomly, belonged to that tradition and were not very old \(paper, 18th and 19th century, approximately\). 
 
-5  I should add Ferenc Ruzsa, though he looked at improving the VSc Baroda edition, and only took into consideration the MSS related to VSc, not to VS. 
+[^5]:  I should add Ferenc Ruzsa, though he looked at improving the VSc Baroda edition, and only took into consideration the MSS related to VSc, not to VS. 
 
-6  Kaviraj, 1929, pp. 71–6. I have not consulted this article. Here I rely on Isaacson description, 1995, p. 200. 
+[^6]:  Kaviraj, 1929, pp. 71–6. I have not consulted this article. Here I rely on Isaacson description, 1995, p. 200. 
 
-7  MSS in private collections are very hard to consult. From my own experience \(in Udupi and Shra-vanabelagola\), I was not permitted any access to MSS, nor even basic preliminary information about these. 
+[^7]:  MSS in private collections are very hard to consult. From my own experience \(in Udupi and Shra-vanabelagola\), I was not permitted any access to MSS, nor even basic preliminary information about these. 
 
-8  Already quoted: by Thakur, 1963a. 
+[^8]:  Already quoted: by Thakur, 1963a. 
 
-9 Thakur, 1963a, p. 187. 
+[^9]: Thakur, 1963a, p. 187. 
 
-10  Isaacson points out that 3, not 2, MSS have been used for the 2 editions mentioned \(Darbhanga 1957 and Baroda 1961\), because the Baroda edition of 1961 is based on 2 MSS, see Isaacson, 1995, PhD, p. 201. 
+[^10]:  Isaacson points out that 3, not 2, MSS have been used for the 2 editions mentioned \(Darbhanga 1957 and Baroda 1961\), because the Baroda edition of 1961 is based on 2 MSS, see Isaacson, 1995, PhD, p. 201. 
 
-11 Isaacson, 1995, PhD, p. 202. 
+[^11]: Isaacson, 1995, PhD, p. 202. 
 
 
 
@@ -91,7 +91,7 @@ used newspaper \(Marathi\) on which another serial number is given. The sūtras 
 
 1
 
-9 size, Devanagari script, 4 folios with approximately 13–15 lines per page, and 51 letters per line; it is complete, in good readable condition, and the year provided by Wai MSS catalogue vol. II \(p. 777\) is 1813. W \(paper\) handwriting is 2
+[^9]: size, Devanagari script, 4 folios with approximately 13–15 lines per page, and 51 letters per line; it is complete, in good readable condition, and the year provided by Wai MSS catalogue vol. II \(p. 777\) is 1813. W \(paper\) handwriting is 2
 
 slightly bigger, in Devanagari script, 30.5 × 10.7 size, 4 folios, 12 lines per page, 45 letters per line, it is complete, good condition, not dated, but judging by the size and writing style it could be the same age or perhaps slightly earlier, end of the 18th century. Among the 3 Wai MSS, this looks the most ‘archaic.’ W like 3
 
@@ -99,13 +99,13 @@ the other 2, bears the title ‘Vaiśeṣikasūtrani’ on the newspaper cover \
 
 The catalogue lists another MS \(no 6111, with 119 folios\), which presents the Vaiśeṣikasūtras with Upaskāra commentary, but since my goal was to trace back only the ‘independent transmission’ of VS, I have not taken a photocopy. 
 
-12 For description, Isaacson, 1995, PhD, p. 205. 
+[^12]: For description, Isaacson, 1995, PhD, p. 205. 
 
-13  For an MS description of what Isaacson describes as ‘T,’ see PhD, 1995, p. 258; or MSS Catalogue: Trav. Uni. Sup. 1988, Vol. 5 Bhaskaran, pp. 103–5 \(a catalogue he could not consult\). 
+[^13]:  For an MS description of what Isaacson describes as ‘T,’ see PhD, 1995, p. 258; or MSS Catalogue: Trav. Uni. Sup. 1988, Vol. 5 Bhaskaran, pp. 103–5 \(a catalogue he could not consult\). 
 
-14  See further description in MSS Catalogue \(Wai D. II\) pp. 776–7. 
+[^14]:  See further description in MSS Catalogue \(Wai D. II\) pp. 776–7. 
 
-* Sources and resources on Vaiśeṣikasūtra * 43
+{{43}}
 
 Oriental Research Institute Mysore. From a large collection of Nyāya-Vaiśeṣika MSS, I have selected only MS no E 37153 \(alternative no: C 4416/1\). 15 
 
@@ -131,13 +131,13 @@ This list represents only the beginning of an exhaustive task to inventorying al
 
 therefore, they should look up for Vaiśeṣika MSS at different sections in the catalogues; other traditions could have well preserved the Vaiśeṣika sources for 
 
-15  MSS Catalogue \(Mysore N.D. vol. X\), pp. 608–9. 
+[^15]:  MSS Catalogue \(Mysore N.D. vol. X\), pp. 608–9. 
 
-16  MSS Catalogue \(Ed. Meena Vaishampayan, 2012\) p. 140. 
+[^16]:  MSS Catalogue \(Ed. Meena Vaishampayan, 2012\) p. 140. 
 
-17  MSS Catalogue \(part 2, ed. V. Vidyavicaspati\), 2015, p. 771. 
+[^17]:  MSS Catalogue \(part 2, ed. V. Vidyavicaspati\), 2015, p. 771. 
 
-18  Isaacson, 1995, p. 202. 
+[^18]:  Isaacson, 1995, p. 202. 
 
 
 
@@ -157,11 +157,11 @@ description in Section 2.2 of this introduction\), which will eventually spare t
 
 The list of MSS that has been given here represents only a point of departure. The Vaiśeṣikasūtra entry also includes ‘printed’ editions of Sūtrapāṭha \(Ptd.\) transmitted or included as it were in various ‘un-orthodox’ commentaries \(Sanskrit, Hindi\) of classical and post-colonial commentators, 20 most of which do not necessarily bother to preserve the ‘original’ Sūtrapāṭha, but rather supply, like Praśastapāda, their own personal interpretation of the system and its original Sūtrapāṭha tenets. 
 
-19  For an expanded list of such catalogues, see volume 28 of NCC. This is, of course, incomplete, and represents only a starting point, as many other catalogues have been published since or simply have not been consulted by the Madras editors. Researchers should consult many other private and handwritten catalogues that are not open for viewing or consultation \(e.g. Srimaccarukirti Pandi-tacarya Jaina Bhandara Mutt, Śravaṇabeḷagoḷa; when I visited the site in August 2016, as a young decorate researcher, no permission had been granted for me to visit the MSS library\). 
+[^19]:  For an expanded list of such catalogues, see volume 28 of NCC. This is, of course, incomplete, and represents only a starting point, as many other catalogues have been published since or simply have not been consulted by the Madras editors. Researchers should consult many other private and handwritten catalogues that are not open for viewing or consultation \(e.g. Srimaccarukirti Pandi-tacarya Jaina Bhandara Mutt, Śravaṇabeḷagoḷa; when I visited the site in August 2016, as a young decorate researcher, no permission had been granted for me to visit the MSS library\). 
 
-20  Among classical and medieval commentators, the NCC entry mentions Praśastapāda, 
+[^20]:  Among classical and medieval commentators, the NCC entry mentions Praśastapāda, 
 
-* Sources and resources on Vaiśeṣikasūtra * 45
+{{45}}
 
 Such published commentaries are identifiable under various titles, 21 which are 
 
@@ -177,17 +177,17 @@ vyākhyāsyāma iti\). 25 On the doctrine of the dimension of the soul, which ch
 
 from Sūtrapāṭha. Furthermore, in relation to this, VS 5.2.18–20 are sūtras that prove that both liberation \(mokṣa\) and transmigration \(saṃsāra\) are old concepts in the Vaiśeṣika system and that the sūtras in question had existed in the 
 
-21 The following titles: Bhāṣya \(or Padārthadharmasaṃgraha\) by Praśastapāda, Bhāṣyaratna, Bhāṣya by Candrakānta Tarkālaṅkāra, Sugamā by Paṇḍita Tātācarya, Vivaraṇa by Ḍhuṇḍhirāja Śāstrin, Parīkṣara by Pañcānana Tarkaratna Bhaṭṭācārya, Guṇabhāṣya, Kiraṇāvalī by Udayanācārya, Prakāśa by Vardhamāna, Padārthatattvanirṇaya \(or Sūkti\) by Jagadīśa Tarkālaṅkāra, Phakkikā 
+[^21]: The following titles: Bhāṣya \(or Padārthadharmasaṃgraha\) by Praśastapāda, Bhāṣyaratna, Bhāṣya by Candrakānta Tarkālaṅkāra, Sugamā by Paṇḍita Tātācarya, Vivaraṇa by Ḍhuṇḍhirāja Śāstrin, Parīkṣara by Pañcānana Tarkaratna Bhaṭṭācārya, Guṇabhāṣya, Kiraṇāvalī by Udayanācārya, Prakāśa by Vardhamāna, Padārthatattvanirṇaya \(or Sūkti\) by Jagadīśa Tarkālaṅkāra, Phakkikā 
 
 \(or Vivṛti\) by Mathurānātha, Rasasāra by Mahādeva, Dīdhiti \(or Vivṛti\) by Ragunātha Śiromaṇi Bhaṭṭācārya, Vivṛti \(or Vivaraṇa\) by Rucidatta, Nyāyakandalī by Śrīdhara, Guṇasāramañjarī by Mādhvadeva, Pradīpikā by Lakṣmaṇācārya, Vaiśeṣikasūtropasakāra by Śaṅkaramiśra, Tarkasāgara \(or Kaṇādasūtranibandha\) by Bhaṭṭa Vādīndra. 
 
-22 For a classification of the 3 Vaiśeṣika traditions, see chapter 1 in Moise, 2020. 
+[^22]: For a classification of the 3 Vaiśeṣika traditions, see chapter 1 in Moise, 2020. 
 
-23 Wezler, 1982, pp. 663–74. 
+[^23]: Wezler, 1982, pp. 663–74. 
 
-24  Nozawa seems to be an exception within Franco-Japanese school; according to him the doctrine of an all-pervasive character of the soul is a late addition in Vaiśeṣika; he goes as far as to say that the whole of the seventh chapter of VS is a later addition, Nozawa, 1981, pp. 464–5. 
+[^24]:  Nozawa seems to be an exception within Franco-Japanese school; according to him the doctrine of an all-pervasive character of the soul is a late addition in Vaiśeṣika; he goes as far as to say that the whole of the seventh chapter of VS is a later addition, Nozawa, 1981, pp. 464–5. 
 
-25  Houben, 1994, p. 718, informs us that Mallvadin, c. 550 AD, quotes a sutra, VS 9.12, which is traceable only in the Sūtrapāṭha of Candrānanda, therefore its Sūtrapāṭha must be the oldest we have. 
+[^25]:  Houben, 1994, p. 718, informs us that Mallvadin, c. 550 AD, quotes a sutra, VS 9.12, which is traceable only in the Sūtrapāṭha of Candrānanda, therefore its Sūtrapāṭha must be the oldest we have. 
 
 
 
@@ -207,25 +207,25 @@ Isaacson comes up with findings that are ‘interesting exceptions.’32 As far 
 
 but only philosophical and comparative conceptual observations. The philological discussion of this chapter only wished to follow the desideratum of Wezler 
 
-26  Adachi, 1994, p. 659. 
+[^26]:  Adachi, 1994, p. 659. 
 
-27  Jacobi, 1911, p. 29, dates NS and BS composition between 200 and 450 AD. 
+[^27]:  Jacobi, 1911, p. 29, dates NS and BS composition between 200 and 450 AD. 
 
-28 Working on this translation, I came to the same conclusion as Isaacson does, 1995, p. 156: ‘the text is on the whole far less problematic than Bhaṭṭa Vādīndra’s commentary, dealt with in the previous part: the language is simpler, the thought is less convoluted and the textual transmission somewhat less defective.’ 
+[^28]: Working on this translation, I came to the same conclusion as Isaacson does, 1995, p. 156: ‘the text is on the whole far less problematic than Bhaṭṭa Vādīndra’s commentary, dealt with in the previous part: the language is simpler, the thought is less convoluted and the textual transmission somewhat less defective.’ 
 
-29 Thakur, Introd. VSc, 1961, p. 1. 
+[^29]: Thakur, Introd. VSc, 1961, p. 1. 
 
-30  For a reading of VSc commentaries, see Ruzsa’s critical ed., who looked over all 5 MSS available. 
+[^30]:  For a reading of VSc commentaries, see Ruzsa’s critical ed., who looked over all 5 MSS available. 
 
 See the table, under the MSS on VSc section. 
 
-31 Thakur, 1963, and Wezler‘s article on yoga, 1982. 
+[^31]: Thakur, 1963, and Wezler‘s article on yoga, 1982. 
 
-32  Isaacson, 1995, part III of this PhD, pp. 200–300. 
+[^32]:  Isaacson, 1995, part III of this PhD, pp. 200–300. 
 
-33  Although I have undergone a similar inquiry, by consulting 5 new MSS \(plus 1\), which I found and photographed at Wai, Mysore, Madras, and Bombay, yet none of them can provide a substantially different reading of the Sūtrapāṭha, particularly regarding those sūtras related to soteriology. 
+[^33]:  Although I have undergone a similar inquiry, by consulting 5 new MSS \(plus 1\), which I found and photographed at Wai, Mysore, Madras, and Bombay, yet none of them can provide a substantially different reading of the Sūtrapāṭha, particularly regarding those sūtras related to soteriology. 
 
-* Sources and resources on Vaiśeṣikasūtra * 47
+{{47}}
 
 and Isaacson, who urged the need to unearth and reconstruct a full picture of a possible ‘independent transmission’ of the Sūtrapāṭha.34 Despite difficult textual readings, as for instance VSc 5.2.14, fortunately, the 1961 Baroda edition is a good one. In the words of Isaacson:
 
@@ -257,13 +257,13 @@ AD. It belonged to the eminent Jain scholar Muni Shri Puṇyavijayajī. All my c
 
 made by my predecessors \(Ruzsa, Isaacson, etc.\), while for Sūtrapāṭha, I shall bring into the discussion reading variations of my own newly photographed MSS, described earlier. Whatever the variations might be, it is unlikely they can change 
 
-34 Wezler, 1982, p. 643. Isaacson, 1995, p. 300 ‘the search for Sūtrapāṭha Manuscripts remains, in my view, among the most urgent priorities.’ 
+[^34]: Wezler, 1982, p. 643. Isaacson, 1995, p. 300 ‘the search for Sūtrapāṭha Manuscripts remains, in my view, among the most urgent priorities.’ 
 
-35  Isaacson, 1995, PhD, p. 148. 
+[^35]:  Isaacson, 1995, PhD, p. 148. 
 
-36 Thakur, 1963, p. 188 \(reproduced in Thakur, 2003\). 
+[^36]: Thakur, 1963, p. 188 \(reproduced in Thakur, 2003\). 
 
-37  I could not find Honda’s valuable study ‘A reading in the Vaiśeṣikasūtras’ \(1990\) mentioned by Isaacson; instead, I have been able to trace Nozawa’s ‘Comparative Table of the Vaiśeṣikasūtras’ 
+[^37]:  I could not find Honda’s valuable study ‘A reading in the Vaiśeṣikasūtras’ \(1990\) mentioned by Isaacson; instead, I have been able to trace Nozawa’s ‘Comparative Table of the Vaiśeṣikasūtras’ 
 
 \(1982\), which proved very useful for the variations offered between the sūtras of Candrānanda, Vādīndra, Sena Court, and Śaṅkaramiśra. 
 
