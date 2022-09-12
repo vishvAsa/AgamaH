@@ -1,5 +1,4 @@
 +++
-title = "+"
-unicode_script = "devanagari"
+title = "+M & T translation"
 
 +++
