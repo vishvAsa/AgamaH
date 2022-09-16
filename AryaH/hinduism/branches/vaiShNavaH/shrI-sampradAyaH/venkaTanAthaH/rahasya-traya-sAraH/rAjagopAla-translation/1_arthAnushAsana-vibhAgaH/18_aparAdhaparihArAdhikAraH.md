@@ -1023,11 +1023,81 @@ It may (now) be asked :-"What if the original or first prapatti is made on one's
 </details>
 
 
-This is (easily ) answered by a counter-check :-"What if bhakti or upāsana is performed so as to cover also future acts of deliberate offence? What if prapatti as an aṅga is performed so as to cover such acts ?" If it is stated that in these two cases (of counter-check) also, it may be held that future sins will not cling, it will be heresy opposed to what is stated in Śrī Bhāṣya and elsewhere. It is also opposed to the code of conduct observed by such (holy men ) as Ushasti [^U] who were steadfast in the contemplation of Brahman (Brahmanishta). 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु उपासनत्तैयुम्  
+बुद्धि-पूर्वोत्तराघत्तुक्कुम् परिहारम्-आगप् पण्णिनालो  
+अङ्ग-प्रपत्तियुम् अदुक्कुच् चेरप् पण्णिनालोव्  
+ऎन्गिऱ प्रतिबन्धियाले निरस्तम्.
+</details>
+
+<details><summary>राजगोपालः (En)</summary>
+
+This is (easily ) answered by a counter-check :-"What if bhakti or upāsana is performed so as to cover also future acts of deliberate offence? What if prapatti as an aṅga is performed so as to cover such acts ?" 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदु उपासनत्तैयुम् बुद्धिपूर्वोत्तराघत्तुक्कुम् परिहारमागप् पण्णिनालो अङ्गप्रपत्तियुमदुक्कुच् चेरप्पण्णिनालोव् ऎन्गिऱ प्रतिबन्धियाले निरस्तम्.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इरुवरुक्कुम्+++(=इर्वरिगू)+++ इप्पडियाग् इडुव् ऎन्गै  
+भाष्यादि-विरुद्धम् आगैयाले अपसिद्धान्तम्. 
+</details>
+
+<details><summary>राजगोपालः (En)</summary>
+
+If it is stated that in these two cases (of counter-check) also, it may be held that future sins will not cling, it will be heresy opposed to what is stated in Śrī Bhāṣya and elsewhere. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इरुवरुक्कुम् इप्पडियागिडुवॆन्गै भाष्यादिविरुद्धमागैयाले अपसिद्धान्तम्. 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उषस्ति-प्रभृतिगळान ब्रह्म-निष्ठर्गळ् उडैय अनुष्ठानत्तुक्कुम् विरुद्धम्.
+</details>
+
+<details><summary>राजगोपालः (En)</summary>
+
+It is also opposed to the code of conduct observed by such (holy men ) as Ushasti [^U] who were steadfast in the contemplation of Brahman (Brahmanishta). 
 
 [^U]: Ushasti ate a morsel of cooked gram given by a mahout but refused to drink the water which was afterwards offered by him. He justified his action by saying that he ate the gram to avoid death by starvation, but refused the water because there was then no fear of death.
+</details>
 
-There is no special ordinance to contradict the general statement that when a sin is committed and the man feels remorse, the atonement or the prāyaścitta is to meditate on Bhagavān. Therefore the rule that, unless the occasion has arisen, there can be no application of a remedy (to cover a future possibility) holds good and stands uncontradicted in the case of offences committed deliberately after prapatti. Since the prayascitta or atonement is prescribed only for a sin that has already been committed, if a man dreads the possibility of future sins committed deliberately, he should perform atonement in the form of a prapatti for the sins of the past life which have now begun to operate and which are the cause of these (possible) future sins. For has it not been said, "Bhakti adopted as an upāya can destroy all sins except those sins of the past that have begun to operate in this life. On the other hand, prapatti (or sadhya bhakti). is superior to bhakti and can destroy even those sins of the past that have begun to produce their consequences in this life?" It has also been said :- "The sins committed in previous births afflict a man (in the present life) as diseases. They can be got rid of by medicines, charitable gifts, japa, offerings to the fire (homa) and adoration of Bhagavān". (It is indeed stated here) that, even by japa and homa, the sins of the past which have begun to bear fruit in the present life can be destroyed. (Such being the case, there is no reason to doubt that prapatti can destroy such sins). Therefore if a man performs prapatti in dread of the possibilities of future sins which might be caused by the sins of the past, these can be got rid of and no such future sin will be deliberately committed.
+
+<details><summary>मूलम्</summary>
+
+उषस्ति-प्रभृतिगळान ब्रह्मनिष्ठर्गळुडैय अनुष्ठानत्तुक्कुम् विरुद्धम्.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाले विशेष-वचनम् इल्लामैयाले  
+“कृते पापेऽनुतापो वै”(विष्णुपुराणम् 2-6-40.) इत्यादिगळ् कणक्किले  
+"निमित्तम् उदित्तालल्लदु+++(=??)+++ नैमित्तिकम् प्राप्तम्" अण्ड्र् ऎन्गिऱ न्यायम्  
+बुद्धिपूर्वोत्तराघत्तिल् बाधितम् आगादु.
+</details>
+
+<details><summary>राजगोपालः (En)</summary>
+
+There is no special ordinance to contradict the general statement that when a sin is committed and the man feels remorse, the atonement or the prāyaścitta is to meditate on Bhagavān. Therefore the rule that, unless the occasion has arisen, there can be no application of a remedy (to cover a future possibility) holds good and stands uncontradicted in the case of offences committed deliberately after prapatti.
+</details>
+
+<details><summary>मूलम्</summary>
+
+आगैयाले विशेषवचनमिल्लामैयाले “कृते पापेऽनुतापो वै”(विष्णुपुराणम् 2-6-40.) इत्यादिगळ् कणक्किले निमित्तमुदित्तालल्लदु नैमित्तिकम् प्राप्तमण्ड्रॆन्गिऱ न्यायम् बुद्धिपूर्वोत्तराघत्तिल् बाधितमागादु.
+</details>
+
+
+Since the prayascitta or atonement is prescribed only for a sin that has already been committed, if a man dreads the possibility of future sins committed deliberately, he should perform atonement in the form of a prapatti for the sins of the past life which have now begun to operate and which are the cause of these (possible) future sins. For has it not been said, "Bhakti adopted as an upāya can destroy all sins except those sins of the past that have begun to operate in this life. On the other hand, prapatti (or sadhya bhakti). is superior to bhakti and can destroy even those sins of the past that have begun to produce their consequences in this life?" It has also been said :- "The sins committed in previous births afflict a man (in the present life) as diseases. They can be got rid of by medicines, charitable gifts, japa, offerings to the fire (homa) and adoration of Bhagavān". (It is indeed stated here) that, even by japa and homa, the sins of the past which have begun to bear fruit in the present life can be destroyed. (Such being the case, there is no reason to doubt that prapatti can destroy such sins). Therefore if a man performs prapatti in dread of the possibilities of future sins which might be caused by the sins of the past, these can be got rid of and no such future sin will be deliberately committed.
 
 From such episodes as that of Sandili in which even Garuḍa who has been described in Aḷavandār's Stotra as Bhagavān's servant, friend, vehicle, seat and device on the banner, committed an offence against the righteous Sandili and had to undergo the evil consequences of it until he obtained pardon from her -- from such episodes, it is evident that even for those who are in immediate contact with Bhagavān, even slight offences against the righteous are productive of evil consequences. (It may be asked whether nitya sūris like Garuḍa could commit offences at all). The answer is that, if the eternal sūris incarnate like Bhagavān, they have to act the part of those who are subject to the sway of karma and perform atonement for offences in order to promote the good of the world (by setting a proper example).
 
