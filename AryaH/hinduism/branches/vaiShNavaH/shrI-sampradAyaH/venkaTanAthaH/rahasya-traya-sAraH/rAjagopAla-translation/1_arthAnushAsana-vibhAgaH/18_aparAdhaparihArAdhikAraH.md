@@ -1096,12 +1096,143 @@ There is no special ordinance to contradict the general statement that when a si
 आगैयाले विशेषवचनमिल्लामैयाले “कृते पापेऽनुतापो वै”(विष्णुपुराणम् 2-6-40.) इत्यादिगळ् कणक्किले निमित्तमुदित्तालल्लदु नैमित्तिकम् प्राप्तमण्ड्रॆन्गिऱ न्यायम् बुद्धिपूर्वोत्तराघत्तिल् बाधितमागादु.
 </details>
 
- 
-Since the prayascitta or atonement is prescribed only for a sin that has already been committed, if a man dreads the possibility of future sins committed deliberately, he should perform atonement in the form of a prapatti for the sins of the past life which have now begun to operate and which are the cause of these (possible) future sins. For has it not been said, "Bhakti adopted as an upāya can destroy all sins except those sins of the past that have begun to operate in this life. On the other hand, prapatti (or sadhya bhakti). is superior to bhakti and can destroy even those sins of the past that have begun to produce their consequences in this life?" It has also been said :- "The sins committed in previous births afflict a man (in the present life) as diseases. They can be got rid of by medicines, charitable gifts, japa, offerings to the fire (homa) and adoration of Bhagavān". (It is indeed stated here) that, even by japa and homa, the sins of the past which have begun to bear fruit in the present life can be destroyed. (Such being the case, there is no reason to doubt that prapatti can destroy such sins). Therefore if a man performs prapatti in dread of the possibilities of future sins which might be caused by the sins of the past, these can be got rid of and no such future sin will be deliberately committed.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-From such episodes as that of Sandili in which even Garuḍa who has been described in Aḷavandār's Stotra as Bhagavān's servant, friend, vehicle, seat and device on the banner, committed an offence against the righteous Sandili and had to undergo the evil consequences of it until he obtained pardon from her -- from such episodes, it is evident that even for those who are in immediate contact with Bhagavān, even slight offences against the righteous are productive of evil consequences. (It may be asked whether nitya sūris like Garuḍa could commit offences at all). The answer is that, if the eternal sūris incarnate like Bhagavān, they have to act the part of those who are subject to the sway of karma and perform atonement for offences in order to promote the good of the world (by setting a proper example).
+आन-बिन्बु आगामि-बुद्धि-पूर्व-पापत्तुक्क् अञ्जिनान् आगिल्  
+अदुक्कुक् कारणम् आन प्रारब्ध-पापत्तुक्कु प्रपदन-रूप-प्रायश्चित्तम् पण्णप् प्राप्तम्.
+</details>
 
-So, in order that one may not lose the grace of God and thereby incur the need for further prapatti or light punishment, a way must be found to root out the possibility of future offences. In general, the root cause of all offences is want of discrimination (aviveka). Of this want of discrimination, the most important is that which causes the delusion that the self is identical with matter (the body ) which is non-sentient and ever subject to modification and has such other qualities and, likewise, the delusion that the individual self has the attributes and qualities which are peculiar to Iśvara, such as existing in itself, independence, and not existing for any one but itself. The sharp-edged saw that cuts off this want of discrimination is a clear knowledge of the nature of one's self which is neither redundant nor inadequate.
+<details><summary>राजगोपालः (En)</summary>
+
+Since the prayascitta or atonement is prescribed only for a sin that has already been committed, if a man dreads the possibility of future sins committed deliberately, he should perform atonement in the form of a prapatti for the sins of the past life which have now begun to operate and which are the cause of these (possible) future sins. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+आनबिन्बु आगामिबुद्धिपूर्वपापत्तुक्कञ्जिनानागिल् अदुक्कुक् कारणमान प्रारब्धपापत्तुक्कु प्रपदनरूपप्रायश्चित्तम् पण्णप् प्राप्तम्.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “साध्य-भक्तिस् तु सा हन्त्री  
+प्रारब्धस्यापि भूयसी”
+
+() ऎण्ड्रार्गळ् इऱे,   
+</details>
+
+<details><summary>राजगोपालः (En)</summary>
+
+For has it not been said, 
+
+"Bhakti adopted as an upāya can destroy all sins except those sins of the past that have begun to operate in this life.
+
+On the other hand, prapatti (or sadhya bhakti) is superior to bhakti and can destroy even those sins of the past that have begun to produce their consequences in this life?"
+</details>
+
+<details><summary>मूलम्</summary>
+
+“साध्यभक्तिस्तु सा हन्त्री प्रारब्धस्यापि भूयसी”() ऎण्ड्रार्गळिऱे,  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “जन्मान्तर-कृतं पापं  
+> व्याधिरूपेण बाधते ।  
+> तच्-छान्तिर् औषधैर् दानैर्  
+> जप-होमार्चनादिभिः”() 
+
+इत्यादिगळिल् दान-जपादिगळिलुमगप्पडप्+++(→आगप् पडप्प्?)+++ प्रारब्ध-पाप-नाशञ् चॊल्लप्पट्टद् इऱे…
+</details>
+
+<details><summary>राजगोपालः (En)</summary>
+
+It has also been said :- "The sins committed in previous births afflict a man (in the present life) as diseases. They can be got rid of by medicines, charitable gifts, japa, offerings to the fire (homa) and adoration of Bhagavān". (It is indeed stated here) that, even by japa and homa, the sins of the past which have begun to bear fruit in the present life can be destroyed. (Such being the case, there is no reason to doubt that prapatti can destroy such sins). 
+</details>
+
+<details><summary>मूलम्</summary>
+
+“जन्मान्तरकृतं पापं व्याधिरूपेण बाधते । तच्छान्तिरौषधैर्दानैर्जपहोमार्चनादिभि”() रित्यादिगळिल् दानजपादिगळिलुमगप्पडप् प्रारब्धपापनाशञ् चॊल्लप्पट्टदिऱे.
+</details>
+
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् पापारंभक-पापत्तुक्क् अञ्जि  
+प्रपत्ति पण्णिनान् आगिल्  
+अप्पोदु बुद्धि-पूर्वक-पापमुम् उदियादु. 
+</details>
+
+<details><summary>राजगोपालः (En)</summary>
+
+Therefore if a man performs prapatti in dread of the possibilities of future sins which might be caused by the sins of the past, these can be got rid of and no such future sin will be deliberately committed.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् पापारंभकपापत्तुक्क् अञ्जि प्रपत्ति पण्णिनानागिल् अप्पोदु बुद्धिपूर्वकपापमुमुदियादु. 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(गरुड-विषयत्तिले)+++ “दासस्सखा वाहनम् आसनं ध्वज” (आळवन्दार् स्तोत्तिरम् 41.) इत्यादिगळ् इऱ्‌पडिये  
+अत्यन्त-भगवद्-अन्तरङ्गर्क्कुम्  
+सात्विकापराध-लेशमुम् प्रत्यवायकरम् ऎन्नुम् इडम्  
++++(गरुडापकृत-)+++शाण्डिली-वृत्तान्तादिगळिले प्रसिद्धम्. 
+</details>
+
+<details><summary>राजगोपालः (En)</summary>
+
+From such episodes as that of Sandili in which even Garuḍa who has been described in Aḷavandār's Stotra as Bhagavān's servant, friend, vehicle, seat and device on the banner, committed an offence against the righteous Sandili and had to undergo the evil consequences of it until he obtained pardon from her -- from such episodes, it is evident that even for those who are in immediate contact with Bhagavān, even slight offences against the righteous are productive of evil consequences. 
+</details>
+
+
+
+
+<details><summary>मूलम्</summary>
+
+“दासस्सखा वाहनमासनं ध्वज”(आळवन्दार् स्तोत्तिरम् 41.) इत्यादिगळिऱ्‌पडिये अत्यन्तभगवदन्तरङ्गर्क्कुम् सात्विकापराधलेशमुम् प्रत्यवायकरमॆन्नुमिडम् शाण्डिलीवृत्तान्तादिगळिले प्रसिद्धम्. 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वेश्वरनैप् पोले सूरिगळुम् अवतरित्ताल्  
+कर्म-वश्यत्वाभिनयम् पण्णि लोक-हित-प्रवर्तनार्थम् आग  
+अपचार-परिहारादिगळै नडत्तिप् पोरुवर्गळ्. 
+</details>
+
+<details><summary>राजगोपालः (En)</summary>
+
+(It may be asked whether nitya sūris like Garuḍa could commit offences at all). The answer is that, if the eternal sūris incarnate like Bhagavān, they have to act the part of those who are subject to the sway of karma and perform atonement for offences in order to promote the good of the world (by setting a proper example).
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वेश्वरनैप्पोले सूरिगळुमवतरित्ताल् कर्मवश्यत्वाभिनयम् पण्णि लोकहितप्रवर्तनार्थमाग अपचारपरिहारादिगळै नडत्तिप्पोरुवर्गळ्. 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् भगवत्-प्रीतिय्-इऴवामैक्क्+++(=इळियाद)+++ आगवुम्,  
+अदुक्क् आग पुनः-प्रपत्तिय् आदल्, लघु-दण्डम् आदल्  प्रसङ्गियामैक्क् आगवुम्  
+मेल्-वरुम् अपराधङ्गळ् वेर्+++(=बेर्)+++ अऱुक्कुम् विरगु+++(=उपायम्)+++ पार्क्क-वेणुम्.
+</details>
+
+<details><summary>राजगोपालः (En)</summary>
+
+So, in order that one may not lose the grace of God and thereby incur the need for further prapatti or light punishment, a way must be found to root out the possibility of future offences. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् भगवत्प्रीतियिऴवामैक्कागवुम्, अदुक्काग पुनःप्रपत्तियादल् लघुदण्डमादल् प्रसङ्गियामैक्कागवुम् मेल्वरुमपराधङ्गळ् वेरऱुक्कुम् विरगु पार्क्कवेणुम्.
+</details>
+
+
+In general, the root cause of all offences is want of discrimination (aviveka). Of this want of discrimination, the most important is that which causes the delusion that the self is identical with matter (the body ) which is non-sentient and ever subject to modification and has such other qualities and, likewise, the delusion that the individual self has the attributes and qualities which are peculiar to Iśvara, such as existing in itself, independence, and not existing for any one but itself. The sharp-edged saw that cuts off this want of discrimination is a clear knowledge of the nature of one's self which is neither redundant nor inadequate.
 
 __________
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
