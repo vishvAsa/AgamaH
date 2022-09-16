@@ -938,7 +938,7 @@ In cases of deliberate offence, the punishment is not as severe as before (prapa
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आगैयाल् अधिकारानुरूपम् आग  
-लघु-फलमुम् वारामैक्क्+++(→वरामैक्क्??)+++ आग  
+लघु-फलमुम् वारामैक्क्+++(=वरामैक्क्)+++ आग  
 पुनःप्रपदनम् विधिक्कप् पडुगिऱदु. 
 </details>
 
@@ -1007,8 +1007,23 @@ The violation of the command is injurious in two ways. When the waiting woman [w
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-It may (now) be asked :-"What if the original or first prapatti is made on one's own initiative (without the sanction of the sāstrās ) so as to cover also deliberate sins of the future ?" This is (easily ) answered by a counter-check :-"What if bhakti or upāsana is performed so as to cover also future acts of deliberate offence? What if prapatti as an aṅga is performed so as to cover such acts ?" If it is stated that in these two cases (of counter-check) also, it may be held that future sins will not cling, it will be heresy opposed to what is stated in Śrī Bhāṣya and elsewhere. It is also opposed to the code of conduct observed by such (holy men ) as Ushasti [^U] who were steadfast in the contemplation of Brahman (Brahmanishta). 
+स्वेच्छा-मात्रत्ताले बुद्धि-पूर्वोत्तराघत्तैयुम् पट्र वडियिले+++(→अडि??)+++ प्रपदनम् पण्णिनालोव् ऎन्निल्; 
+</details>
+
+<details><summary>English</summary>
+
+It may (now) be asked :-"What if the original or first prapatti is made on one's own initiative (without the sanction of the śāstrās ) so as to cover also deliberate sins of the future ?" 
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्वेच्छामात्रत्ताले बुद्धिपूर्वोत्तराघत्तैयुम् पट्र वडियिले प्रपदनम् पण्णिनालोव् ऎन्निल्; 
+</details>
+
+
+This is (easily ) answered by a counter-check :-"What if bhakti or upāsana is performed so as to cover also future acts of deliberate offence? What if prapatti as an aṅga is performed so as to cover such acts ?" If it is stated that in these two cases (of counter-check) also, it may be held that future sins will not cling, it will be heresy opposed to what is stated in Śrī Bhāṣya and elsewhere. It is also opposed to the code of conduct observed by such (holy men ) as Ushasti [^U] who were steadfast in the contemplation of Brahman (Brahmanishta). 
 
 [^U]: Ushasti ate a morsel of cooked gram given by a mahout but refused to drink the water which was afterwards offered by him. He justified his action by saying that he ate the gram to avoid death by starvation, but refused the water because there was then no fear of death.
 

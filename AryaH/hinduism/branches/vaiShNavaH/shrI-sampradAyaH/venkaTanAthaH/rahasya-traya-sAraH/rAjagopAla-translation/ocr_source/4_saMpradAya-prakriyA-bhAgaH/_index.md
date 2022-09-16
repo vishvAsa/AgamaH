@@ -1,8 +1,0 @@
-+++
-title = "+४ संप्रदाय-प्रक्रिया-भागः"
-short_title = "४ सम्प्रदायप्रक्रियाभागः"
-
-+++
-४ संप्रदाय-प्रक्रिया-भागः
-
-PART IV THE PATH OF SPIRITUAL TRADITION 
