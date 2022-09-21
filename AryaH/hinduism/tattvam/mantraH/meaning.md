@@ -13,6 +13,7 @@ title: Meaning
 - kautsa opinion is denounced by authorities such as yAska, shaunaka and shikShA texts.
   - Such opinion is condemned in quotes in shikSha texts which denounce pATha without "understanding" with the aid of vedAnga-s (शीघ्रपाठी…).
 
+
 ## Importance of meaning
 भावार्थः सम्प्रदायार्थः  
 निगमार्थश्च कौलिकः।  
