@@ -15,12 +15,11 @@ title: Meaning
 
 
 ## Importance of meaning
-भावार्थः सम्प्रदायार्थः  
-निगमार्थश्च कौलिकः।  
-तथा सर्वरहस्यार्थो  
-महातत्त्वार्थ एव च॥
-
-- योगिनीहृदये
+> भावार्थः सम्प्रदायार्थः  
+> निगमार्थश्च कौलिकः।  
+> तथा सर्वरहस्यार्थो  
+> महातत्त्वार्थ एव च॥  
+> - योगिनीहृदये
 
 - While a mantra can contain meanings beyond what is revealed by mere grammar and vocabulary, that lower level of meaning is important in itself, and as an aid to access deeper meanings.
 
