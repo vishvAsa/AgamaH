@@ -1272,22 +1272,18 @@ and, likewise, the delusion that the individual self has the attributes and qual
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इव्व् अविवेगत्तैय् अऱुक्कैक्कुत् तॆळि+++(=तीक्ष्ण)+++-वाळ्+++(=खड्ग)+++ आय् इरुप्पदु एट्रच्  
+इव्व् अविवेकत्तैय् अऱुक्कैक्कुत् तॆळि+++(=तीक्ष्ण)+++-वाळ्+++(=खड्ग)+++ आय् इरुप्पदु एट्रच्  
 चुरुक्कमऱत् तन्न् अळविल्+++(=माने)+++ उण्ड् आन तॆळिवु.
 </details>
 
 <details><summary>राजगोपालः (En)</summary>
 
 The sharp-edged saw that cuts off this want of discrimination is a clear knowledge of the nature of one's self which is neither redundant nor inadequate.
-
 </details>
-
-
 
 <details><summary>मूलम्</summary>
 
 इव्व् अविवेगत्तैय् अऱुक्कैक्कुत् तॆळिवाळायिरुप्पदु एट्रच् चुरुक्कमऱत् तन्नळविलुण्डान तॆळिवु.
-
 </details>
 
 
