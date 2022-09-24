@@ -1009,7 +1009,7 @@ The violation of the command is injurious in two ways. When the waiting woman [w
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वेच्छा-मात्रत्ताले बुद्धि-पूर्वोत्तराघत्तैयुम् पट्र वडियिले+++(→अडि??)+++ प्रपदनम् पण्णिनालोव् ऎन्निल्; 
+स्वेच्छा-मात्रत्ताले बुद्धि-पूर्वोत्तराघत्तैय् उम् पट्र वडियिले+++(→अडि??)+++ प्रपदनम् पण्णिनालोव् ऎन्निल्; 
 </details>
 
 <details><summary>English</summary>
@@ -1025,7 +1025,7 @@ It may (now) be asked :-"What if the original or first prapatti is made on one's
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इदु उपासनत्तैयुम्  
+इदु उपासनत्तैय् उम्  
 बुद्धि-पूर्वोत्तराघत्तुक्कुम् परिहारम्-आगप् पण्णिनालो  
 अङ्ग-प्रपत्तियुम् अदुक्कुच् चेरप् पण्णिनालोव्  
 ऎन्गिऱ प्रतिबन्धियाले निरस्तम्.
@@ -1139,9 +1139,10 @@ On the other hand, prapatti (or sadhya bhakti) is superior to bhakti and can des
 > “जन्मान्तर-कृतं पापं  
 > व्याधिरूपेण बाधते ।  
 > तच्-छान्तिर् औषधैर् दानैर्  
-> जप-होमार्चनादिभिः”() 
+> जप-होमार्चनादिभिः”  
+> () 
 
-इत्यादिगळिल् दान-जपादिगळिलुमगप्पडप्+++(→आगप् पडप्प्?)+++ प्रारब्ध-पाप-नाशञ् चॊल्लप्पट्टद् इऱे…
+इत्यादिगळिल् दान-जपादिगळिल् उम् अगप्+++(=अन्तः)+++-पडप्-प्रारब्ध-पाप-नाशञ् चॊल्लप् पट्टद् इऱे…
 </details>
 
 <details><summary>राजगोपालः (En)</summary>
@@ -1199,7 +1200,7 @@ From such episodes as that of Sandili in which even Garuḍa who has been descri
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्वेश्वरनैप् पोले सूरिगळुम् अवतरित्ताल्  
+सर्वेश्वरनैप् पोले +++(नित्य-)+++सूरिगळुम् अवतरित्ताल्  
 कर्म-वश्यत्वाभिनयम् पण्णि लोक-हित-प्रवर्तनार्थम् आग  
 अपचार-परिहारादिगळै नडत्तिप् पोरुवर्गळ्. 
 </details>
@@ -1216,7 +1217,8 @@ From such episodes as that of Sandili in which even Garuḍa who has been descri
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आगैयाल् भगवत्-प्रीतिय्-इऴवामैक्क्+++(=इळियाद)+++ आगवुम्,  
+आगैयाल्,  
+भगवत्-प्रीतिय्-इऴवामैक्क्+++(=इळियाद)+++ आगवुम्,  
 अदुक्क् आग पुनः-प्रपत्तिय् आदल्, लघु-दण्डम् आदल्  प्रसङ्गियामैक्क् आगवुम्  
 मेल्-वरुम् अपराधङ्गळ् वेर्+++(=बेर्)+++ अऱुक्कुम् विरगु+++(=उपायम्)+++ पार्क्क-वेणुम्.
 </details>
@@ -1231,8 +1233,64 @@ So, in order that one may not lose the grace of God and thereby incur the need f
 आगैयाल् भगवत्प्रीतियिऴवामैक्कागवुम्, अदुक्काग पुनःप्रपत्तियादल् लघुदण्डमादल् प्रसङ्गियामैक्कागवुम् मेल्वरुमपराधङ्गळ् वेरऱुक्कुम् विरगु पार्क्कवेणुम्.
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-In general, the root cause of all offences is want of discrimination (aviveka). Of this want of discrimination, the most important is that which causes the delusion that the self is identical with matter (the body ) which is non-sentient and ever subject to modification and has such other qualities and, likewise, the delusion that the individual self has the attributes and qualities which are peculiar to Iśvara, such as existing in itself, independence, and not existing for any one but itself. The sharp-edged saw that cuts off this want of discrimination is a clear knowledge of the nature of one's self which is neither redundant nor inadequate.
+अपराधङ्गळ् ऎल्लाव् अट्रुक्कुम् अडि अविवेकम्. 
+</details>
+
+<details><summary>English</summary>
+
+In general, the root cause of all offences is want of discrimination (aviveka). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अपराधङ्गळॆल्लावट्रुक्कुमडि अविवेकम्. 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अदिल् प्रधानम् आन अविवेकम् -  
+अचित्-स्वभावम् आन जडत्व-विकारादिगळैच् चुमक्कैयुम्,  
+ईश्वर-स्वभावम् आन स्व-निष्ठत्व--स्वातन्त्र्य+अनन्यार्थत्वादिगळैच् चुमक्कैयुम्.  
+</details>
+
+<details><summary>राजगोपालः (En)</summary>
+
+Of this want of discrimination, the most important is 
+
+that which causes the delusion that the self is identical with matter (the body ) which is non-sentient and ever subject to modification and has such other qualities 
+
+and, likewise, the delusion that the individual self has the attributes and qualities which are peculiar to Iśvara, such as existing in itself, independence, and not existing for any one but itself. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अदिल् प्रधानमान अविवेकम् अचित्स्वभावमान जडत्वविकारादिगळैच् चुमक्कैयुम्, ईश्वरस्वभावमान स्वनिष्ठत्वस्वातन्त्र्यानन्यार्थत्वादिगळैच् चुमक्कैयुम्.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् अविवेगत्तैय् अऱुक्कैक्कुत् तॆळि+++(=तीक्ष्ण)+++-वाळ्+++(=खड्ग)+++ आय् इरुप्पदु एट्रच्  
+चुरुक्कमऱत् तन्न् अळविल्+++(=माने)+++ उण्ड् आन तॆळिवु.
+</details>
+
+<details><summary>राजगोपालः (En)</summary>
+
+The sharp-edged saw that cuts off this want of discrimination is a clear knowledge of the nature of one's self which is neither redundant nor inadequate.
+
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+इव्व् अविवेगत्तैय् अऱुक्कैक्कुत् तॆळिवाळायिरुप्पदु एट्रच् चुरुक्कमऱत् तन्नळविलुण्डान तॆळिवु.
+
+</details>
+
+
 
 __________
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
