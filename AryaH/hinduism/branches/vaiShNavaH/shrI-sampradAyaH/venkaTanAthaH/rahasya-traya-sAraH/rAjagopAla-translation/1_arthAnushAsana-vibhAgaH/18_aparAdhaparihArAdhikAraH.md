@@ -1291,7 +1291,15 @@ The sharp-edged saw that cuts off this want of discrimination is a clear knowled
 __________
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-अविवेकप्रभुत्वादेर्निदानस्य निवर्तनात् । अर्थकामापचाराणामयत्नोन्मूलनं भवेत् ॥ ४०-आ ॥
+अ-विवेक-प्रभुत्वादेर्  
+निदानस्य निवर्तनात् ।  
+अर्थ-कामापचाराणाम्  
+अयत्नोन्मूलनं भवेत् ॥ ४०-आ ॥
+</details>
+
+<details><summary>राजगोपालः (En)</summary>
+
+When the cause, namely, the delusion that the self is the body and that the self is independent (of the Lord) and other such delusions disappear, the offences which arise from the desire for wealth and for sense pleasures are (completely) rooted out without any special effort.
 </details>
 
 <details><summary>मूलम् (सं॰प॰)</summary>
@@ -1299,7 +1307,6 @@ __________
 अविवेकप्रभुत्वादेर्निदानस्य निवर्तनात् । अर्थकामापचाराणामयत्नोन्मूलनं भवेत् ॥ ४०-आ ॥
 </details>
 
-When the cause, namely, the delusion that the self is the body and that the self is independent (of the Lord) and other such delusions disappear, the offences which arise from the desire for wealth and for sense pleasures are (completely) rooted out without any special effort.
 
 The prime cause of all these, namely, the possibility of future offences and the delusions which cause them is sin committed in past births which has now begun to yield its consequences. Therefore it will be atoned for by the performance of prapatti at the beginning so as to cover that sin also or the performance of a further prapatti for the purpose. Of these sins which have to be atoned for, the Bhāṣyakāra (Śrī Rāmānuja) has pointed out that offences done to Bhāgavatas stand in the front rank like those done to the wives of a king -vide his commentary on the Sūtra : "The fruits of mukti too, cannot be said to be attained at any fixed time; for they can be attained only if there are no obstacles".
 
