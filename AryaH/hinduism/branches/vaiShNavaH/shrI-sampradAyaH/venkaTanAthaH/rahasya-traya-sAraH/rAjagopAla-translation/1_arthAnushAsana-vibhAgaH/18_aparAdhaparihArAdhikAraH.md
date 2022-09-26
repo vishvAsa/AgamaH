@@ -1307,16 +1307,221 @@ When the cause, namely, the delusion that the self is the body and that the self
 अविवेकप्रभुत्वादेर्निदानस्य निवर्तनात् । अर्थकामापचाराणामयत्नोन्मूलनं भवेत् ॥ ४०-आ ॥
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-The prime cause of all these, namely, the possibility of future offences and the delusions which cause them is sin committed in past births which has now begun to yield its consequences. Therefore it will be atoned for by the performance of prapatti at the beginning so as to cover that sin also or the performance of a further prapatti for the purpose. Of these sins which have to be atoned for, the Bhāṣyakāra (Śrī Rāmānuja) has pointed out that offences done to Bhāgavatas stand in the front rank like those done to the wives of a king -vide his commentary on the Sūtra : "The fruits of mukti too, cannot be said to be attained at any fixed time; for they can be attained only if there are no obstacles".
+इवैय् ऎल्लात्तुक्कुम् अडि  
+फल-प्रदानोन्मुखम् आयिरुप्पद् ऒरु पूर्वाघम् आगैयाल् ए,  
+अदिन् उडैय निवृत्तिक्कुम् आग वडियिले  
+प्रपत्ति-पण्णुदल्,  
+इदुक्क् ऎण्ड्रु पिन्ब् ऒरु प्रपत्ति पण्णुदल्,  
+सॆय्दार्क्क् इवैय् ऎल्लाम् परिहृतङ्गळ् आम्.
+</details>
 
-(Śrī Rāmānuja's commentary is as follows: Though the fruit of upāsana or bhakti is mukti, still the time of its attainment is uncertain, because of the presence or absence of obstacles. It may be asked whether there could be any such obstacle in the case of one whose karma or upāsanā which gets him mukti is far stronger than all other karmas. The answer is:- Even in his case there may be obstacles of the nature of offences done in the past to those who meditate on Brahman).
+<details><summary>राजगोपालः (En)</summary>
 
-Such being the case, although there may be resemblance between oneself and such persons as Parāśara, Vyāsa, Śuka , Śaunaka, Nathamuni and others, who were distinguished by their caste, character, conduct and the like in such matters as devotion to Bhagavān and the attainment of the supreme goal of life, they should not be treated with disregard. There are differences due to the will of Bhagavān as seen in the condition of each object among things which are the property of Bhagavān such as cows and cowherds, tulasī and champaka, cow dung and musk. Such points of excellence and inferiority, which are likely to cause envy, should not make one think of treating superior persons with disregard, As stated in Rahasyāmnāya in the section treating of the origin of envy. It is true that particular actions and abstention from such actions have been prescribed in the case of Bhagavatās as due to conditions of caste and the like as stated in the Brahma Sūtra (2-3. 47) " That there is permission and prohibition (in respect of castes ) is due to their relationship with their bodies as in such things as fire" (Fire from the house of a Vedic scholar is fit for use, that from the cremation ground is unfit for use. So also, though the soul is pure, a man becomes fit or unfit for certain specific matters owing to his soul's contact with the
+The prime cause of all these, namely,  
+the possibility of future offences  
+and the delusions which cause them  
+is sin committed in past births which has now begun to yield its consequences.   
+Therefore it will be atoned for by the performance of prapatti at the beginning so as to cover that sin also  
+or the performance of a further prapatti for the purpose.
+</details>
 
-body). In spite of these ordinances, we should also consider such passages as the following :
+<details><summary>मूलम्</summary>
 
-"Even a man of bad conduct should be considered a good man if he worships me without expecting any other benefit. He should be treated with respect." "The caṇḍāla" who has devotion to Bhagavān - to think even by more chance, of this chanḍāla, to talk to him and to treat him with respect - these purify the man who does so, O, Brahmin " " Whether the devotee of Bhagavān be a südra, a huntsman, or a man who eats dog's flesh, the man who looks upon him as identical with other men of those respective castes will go to hell." "Therefore one should do what one can to please the devotees of Bhagavān. By this, Bhagavān becomes favourably disposed to bless one. There is no doubt about this." So also has it been said (by the Alwar) that those who are the devoted servants of the Lord are his masters in all his future births and that the moment he made up his mind to render service to the Lord's devotees, his past karma was destroyed and that he would never think of giving up this service. In the same way it is our duty not to fail in reverence towards the Lord's servants. Even if there is only this mental reverence, it would amount to the śeṣa's service to the Lord who is perfect and self-sufficient. The thought that " This man is of the Lord” is itself capable of doing good. If there is any deviation from this path, one should tremble in fear as if one has entered into the jaws of Death, as it has been said: Whatever is crooked (in conduct) leads to death ( saṁsāra): whatever is straight leads to the attainment of Brahman". (When there has been such deviation from right conduct) one should at once beg pardon of these devoted servants of the Lord as exemplified in the following: " Since  you have offended, I see no other atonement for you than to be Lakṣmaṇa's pardon, with folded hands", and again "If I have offended you in any way, either on account of overconfidence or love, this fault of your servant should be pardoned by you: There is no one who is above committing an offence", and further, "The harsh words that I uttered to you after hearing the speech of Rāma who is overwhelmed with grief - these words should be forgiven by you". We should reflect on the manner in which Sugrīva, the great king, and Lakṣmaṇa apologise to each other in these śloka s and we should get reconciled to the devotees of the Lord (whom we have offended), as if the split that occurred has been glued up without any trace of its being seen.
+इवैय् ऎल्लात्तुक्कुम् अडि फलप्रदानोन्मुखमायिरुप्पदॊरु पूर्वाघमागैयाले अदिनुडैय निवृत्तिक्कुमाग वडियिले प्रपत्तिपण्णुदल् इदुक्कॆण्ड्रु पिन्बॊरु प्रपत्तिपण्णुदल्, सॆय्दार्क्किवैयॆल्लाम् परिहृतङ्गळाम्.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्पडि इवनुक्कु परिहरणीयङ्गळ् आन वट्रिल्+++(=??)+++  
+राज-दारापराधम् पोले भागवतापचारम् प्रधानम् ऎन्नुम् इडत्तै  
+“एवं मुक्ति-फलानियमस् तद्-अवस्थावधृतेस् तद्-अवस्थावधृतेः”(ब्रह्मसूत्रम्3-4-51)  
+ऎन्गिऱ सूत्रत्तिल् भाष्यकारर् अरुळिच् चॆय्दार्. 
+</details>
+
+<details><summary>राजगोपालः (En)</summary>
+
+Of these sins which have to be atoned for, the Bhāṣyakāra (Śrī Rāmānuja) has pointed out that offences done to Bhāgavatas stand in the front rank like those done to the wives of a king -vide his commentary on the Sūtra :  
+
+> "The fruits of mukti too, cannot be said to be attained at any fixed time;  
+> for they can be attained only if there are no obstacles". 
+
+(Śrī Rāmānuja's commentary is as follows: 
+
+> Though the fruit of upāsana or bhakti is mukti, still the time of its attainment is uncertain, because of the presence or absence of obstacles.
+>   
+> It may be asked whether there could be any such obstacle in the case of one whose karma or upāsanā which gets him mukti is far stronger than all other karmas.  
+>
+> The answer is:- Even in his case there may be obstacles of the nature of offences done in the past to those who meditate on Brahman.
+
+)
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि इवनुक्कु परिहरणीयङ्गळानवट्रिल् राजदारापराधम् पोले भागवतापचारम् प्रधानमॆन्नुमिडत्तै “एवं मुक्तिफलानियमस्तदवस्थावधृतेस्तदवस्थावधृतेः”(ब्रह्मसूत्रम्3-4-51) ऎन्गिऱ सूत्रत्तिल् भाष्यकारररुळिच्चॆय्दार्.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आन पिन्बु  
+जाति-गुण-वृत्तादिगळाल् ए उत्कृष्टर् आन पराशर-व्यास-शुक-शौनक--नाथ-मुनि--प्रभृतिगळुक्कुम्,  
+तनक्कुम्,  
+भागवतत्वादिगळुम्, परम-पुरुषार्थ-लाभमुम् तुल्यम् आय् इरुन्दालुम्, 
+
+भगवत्-परिग्रहम् आन गो-गोप-जातिगळ् उडैयवुम्,  
+तुळसी-चंपकादिगळ् उडैयवुम्,  
+गोमय-मृग-मदादिगळ् उडैयवुम् वैषम्यम्पोले 
+
+भगवत्-सङ्कल्प-विशेष-प्रयुक्तम् आन तत्-तद्-उपाधि-स्वभावत्ताल् ए  
+सिद्धङ्गळ् आन उत्कर्षापकर्षङ्गळै  
+असूया-प्रादुर्भाव-प्रकरणत्तिल् आम्नातम् आन् अप्पडिये  
+तिरस्करिक्क निनैयाद् ऒऴियवुम्+++(=उळियुवुदु)+++
+</details>
+
+<details><summary>राजगोपालः (En)</summary>
+
+Such being the case, although there may be resemblance between oneself and such persons as Parāśara, Vyāsa, Śuka , Śaunaka, Nathamuni and others, who were distinguished by their caste, character, conduct and the like in such matters as devotion to Bhagavān and the attainment of the supreme goal of life, they should not be treated with disregard.
+
+There are differences due to the will of Bhagavān as seen in the condition of each object among things which are the property of Bhagavān such as cows and cowherds, tulasī and champaka, cow dung and musk. 
+
+Such points of excellence and inferiority, which are likely to cause envy, should not make one think of treating superior persons with disregard, As stated in Rahasyāmnāya in the section treating of the origin of envy.
+</details>
+
+<details><summary>मूलम्</summary>
+
+आन पिन्बु जातिगुणवृत्तादिगळाले उत्कृष्टरान पराशरव्यासशुकशौनकनाथमुनिप्रभृतिगळुक्कुम् तनक्कुम् भागवतत्वादिगळुम् परमपुरुषार्थलाभमुम् तुल्यमायिरुन्दालुम् भगवत्परिग्रहमान गोगोपजातिगळुडैयवुम् तुळसीचंपकादिगळुडैयवुम् गोमयमृगमदादिगळुडैयवुम् वैषम्यम्पोले भगवत्सङ्कल्पविशेषप्रयुक्तमान तत्तदुपाधिस्वभावत्ताले सिद्धङ्गळान उत्कर्षापकर्षङ्गळै असूयाप्रादुर्भावप्रकरणत्तिला म्नातमानप्पडिये तिरस्करिक्क निनैयादॊऴियवुम्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+जात्याद्य्-उपाधिगळाले भागवतर् तिऱत्तिल्+++(=स्तरे)+++  
+“अनुज्ञा-परिहारौ देह-संबन्धाज् ज्योतिर्+++(→अग्नि)+++-आदिवत्”(ब्रह्मसूत्रम्2-3-47)  
+ऎन्गिऱ न्यायत्ताले  
+प्रवृत्ति-निवृत्ति-विशेषङ्गळुक्कु यथा-शास्त्रं नियमम् उण्डानालुम्
+</details>
+
+<details><summary>राजगोपालः (En)</summary>
+
+It is true that particular actions and abstention from such actions have been prescribed in the case of Bhagavatās as due to conditions of caste and the like  
+as stated in the Brahma Sūtra (2-3. 47) 
+
+> " That there is permission and prohibition (in respect of castes ) is due to their relationship with their bodies as in such things as fire"  [^fire]
+
+[^fire]: Fire from the house of a Vedic scholar is fit for use, that from the cremation ground is unfit for use. So also, though the soul is pure, a man becomes fit or unfit for certain specific matters owing to his soul's contact with the body. 
+
+In spite of these ordinances, we should also consider such passages as the following :
+</details>
+
+<details><summary>मूलम्</summary>
+
+जात्याद्युपाधिगळाले भागवतर् तिऱत्तिल् “अनुज्ञापरिहारौ देहसंबन्धाज्ज्योतिरादिवत्”(ब्रह्मसूत्रम्2-3-47) ऎन्गिऱ न्यायत्ताले प्रवृत्तिनिवृत्तिविशेषङ्गळुक्कु यथाशास्त्रं नियममुण्डानालुम्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“साधुरेव स मन्तव्यः”(गीता 9-30) ऎण्ड्रुम्,  
+
+</details>
+
+<details><summary>राजगोपालः (En)</summary>
+
+"Even a man of bad conduct should be considered a good man if he worships me without expecting any other benefit. He should be treated with respect." 
+</details>
+
+<details><summary>मूलम्</summary>
+
+“साधुरेव स मन्तव्यः”(गीता 9-30) ऎण्ड्रुम्,  
+
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“स्मृतस् संभाषितोऽपि वा”(इतिहाससमुच्चयम् 31-55) ऎण्ड्रुम्,  
+</details>
+
+<details><summary>राजगोपालः (En)</summary>
+
+"The caṇḍāla who has devotion to Bhagavān - to think even by mere chance, of this chanḍāla, to talk to him and to treat him with respect - these purify the man who does so, O, Brahmin " 
+</details>
+
+<details><summary>मूलम्</summary>
+
+“स्मृतस्संभाषितोऽपि वा”(इतिहाससमुच्चयम् 31-55) ऎण्ड्रुम्,  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“यश्शूद्रं भगवद्-भक्तं  
+निषादं श्वपचं तथा ।  
+वीक्षते जाति-सामान्यात्  
+स याति नरकन्नरः”  
+
+(इतिहाससमुच्चयम् 27-26.) ऎण्ड्रुम्,  
+</details>
+
+<details><summary>English</summary>
+
+"Whether the devotee of Bhagavān be a südra, a huntsman, or a man who eats dog's flesh, the man who looks upon him as identical with other men of those respective castes will go to hell." 
+</details>
+
+<details><summary>मूलम्</summary>
+
+“यश्शूद्रं भगवद्भक्तं निषादं श्वपचं तथा । वीक्षते जातिसामान्यात्स याति नरकन्नरः”(इतिहाससमुच्चयम् 27-26.) ऎण्ड्रुम्,  
+
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“तस्माद्विष्णु-प्रसादाय  
+वैष्णवान् परितोषयेत् ।  
+प्रसाद-सुमुखो विष्णुस्  
+तेनैव स्यान्न संशयः”  
+(इतिहाससमुच्चयम् 27-27.) ऎण्ड्रुम्,
+</details>
+
+<details><summary>English</summary>
+
+"Therefore one should do what one can to please the devotees of Bhagavān. By this, Bhagavān becomes favourably disposed to bless one. There is no doubt about this." 
+</details>
+
+<details><summary>मूलम्</summary>
+
+“तस्माद्विष्णुप्रसादाय वैष्णवान् परितोषयेत् । प्रसादसुमुखो विष्णुस्तेनैव स्यान्न संशयः”(इतिहाससमुच्चयम् 27-27.) ऎण्ड्रुम्,
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पयिलुञ् जुडर् ऒळि,  
+नॆडुमाऱ्+++(=विष्णोः)+++ कडिमैगळिलुम्+++(=अल्पेष्व् अपि)+++ विशेषित्त् अप्पडिये प्रतिपत्तियिल् कुऱैय् अट्र् इरुक्कवुम्,  
+इप् प्रपत्ति-मात्रत्तालुम्  
+“तस्येदम् इति धी-हेतुर् अप्य् उपकारी”()  
+ऎन्गिऱ् अप्पडिये परिपूर्ण-विषयत्तिल्  
+शेषत्वाचित-किञ्चित्-कारम् आन कैङ्कर्यम् सिद्धम् ऎण्ड्र् इरुक्कवुम्. 
+</details>
+
+<details><summary>राजगोपालः (En)</summary>
+
+So also has it been said (by the Alwar) that those who are the devoted servants of the Lord are his masters in all his future births and that the moment he made up his mind to render service to the Lord's devotees, his past karma was destroyed and that he would never think of giving up this service. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+पयिलुञ्जुडरॊळि, नॆडुमाऱ्‌ कडिमैगळिलुम् विशेषित्तप्पडिये प्रतिपत्तियिल् कुऱैयट्रिरुक्कवुम्, इप्प्रपत्तिमात्रत्तालुम् “तस्येदमिति धीहेतुरप्युपकारी”() ऎन्गिऱप्पडिये परिपूर्णविषयत्तिल् शेषत्वाचितकिञ्चित्कारमान कैङ्कर्यम् सिद्धमॆण्ड्रिरुक्कवुम्. 
+</details>
+
+
+In the same way it is our duty not to fail in reverence towards the Lord's servants. Even if there is only this mental reverence, it would amount to the śeṣa's service to the Lord who is perfect and self-sufficient. The thought that " This man is of the Lord” is itself capable of doing good. If there is any deviation from this path, one should tremble in fear as if one has entered into the jaws of Death, as it has been said: Whatever is crooked (in conduct) leads to death ( saṁsāra): whatever is straight leads to the attainment of Brahman". (When there has been such deviation from right conduct) one should at once beg pardon of these devoted servants of the Lord as exemplified in the following: " Since  you have offended, I see no other atonement for you than to be Lakṣmaṇa's pardon, with folded hands", and again "If I have offended you in any way, either on account of overconfidence or love, this fault of your servant should be pardoned by you: There is no one who is above committing an offence", and further, "The harsh words that I uttered to you after hearing the speech of Rāma who is overwhelmed with grief - these words should be forgiven by you". We should reflect on the manner in which Sugrīva, the great king, and Lakṣmaṇa apologise to each other in these śloka s and we should get reconciled to the devotees of the Lord (whom we have offended), as if the split that occurred has been glued up without any trace of its being seen.
 
 Even if one who knows the tattva has deliberately entered on a course of conduct unfavourable (to the Lord), the Supreme Ruler will pardon him, if he performs prapatti subsequently. This may be seen from the following episode :- When Brahma saw Rudra in Badarikāśrama aiming his arrow at Bhagavān who had incarnated as the son of Dharma, he explained matters to Rudra and stopped him from the fight. Rudra  then apologised to Nārāyaṇa  who was his Lord to win His favour. He also performed prapatti to Hari, the Creator of the World, The Supreme Ruler, the giver of boons, became gracious, controlled His anger, became pleased and associated there with Rudra".
 
