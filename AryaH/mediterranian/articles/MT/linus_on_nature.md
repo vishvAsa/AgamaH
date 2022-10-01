@@ -19,3 +19,10 @@ will change and vanish from the sight of all.
 
 
 Philosophical verses of the ancient yavana "RShi" Linus (translation M West)
+
+One is reminded of gR^itsamada's incantation:
+
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/022/02_adha_tviShImA_N.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/02/022/02_adha_tviShImA_N.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
