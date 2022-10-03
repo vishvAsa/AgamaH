@@ -1,6 +1,5 @@
 +++
 title = "Response to nILA"
-unicode_script = "devanagari"
 +++
 
 FWIW, I respectfully disagree with nILA doDamma on several points. (Though I could not get in a word sidewise yesterday, it would be remiss not to clarify.)
@@ -15,4 +14,10 @@ Needless to say, divine minded shUdras, vaishya-s etc. should be honored. Indeed
 
 All these matters should be considered carefully with a cool mind, considering shAstra-s, consulting AchArya-s and - equally importantly - observing the world. One should not make up one's mind about it in the grip of some emotion. Our natural instinct (though very useful) by itself is not always correct, and we have evolved intellect with good cause. 
 
-Another important factor is to accept natural diversity in personalities. Though some personalities may - at first - appear repugnant to others and vice versa, their continued expression indicates some positive survival benefit. Only important thing is for it to be aligned with dharma. For example, if one is built to be a butcher, it is good to be a butcher for dharma. Ditto with both circuspect and plain speech (which I share with nILA doDamma). One should be happy with the gifts of the Gods.
+> Each person has individual beliefs, own thoughts,  ideas, ideals,  way of understanding and adjustung and to some extent compromise with the present day situations and trends. Needless to say there are few who have ldeals and ideas and conservative thoughts like yours. Nothing wrong as long as they are not forced on others. No hard feeligs whatsoever. 😇
+
+Agree with that. A couple of qualifications:
+
+- Though modern conservatives are currently fewer, we are more determined, strongly connected and fertile. Demographically speaking, we are the future of (what will be left of) hindus.
+- I am strong believer in family level autonomy. As such learned elders should judiciously use both persuasion and force to inculcate sadAchAra, as ordained by the Gods and sages.
+- Of course, it makes no sense to "force" beliefs and practices upon people one does not "control". (pseudo-)"liberals" are guilty of that. They tend to be unable to accept even personality diversity and force "equality" and "normalcy". In contrast, conservatives accept diversity of nature + outcomes and would say - "if the Gods built you to be a plain speaker, circumspect person, psychopathic killer whatever, good - don't fight it - just channel it towards dharma." 
