@@ -1158,7 +1158,7 @@ It has also been said :- "The sins committed in previous births afflict a man (i
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary >विश्वास-प्रस्तुतिः</summary>
 
 आगैयाल् पापारंभक-पापत्तुक्क् अञ्जि  
 प्रपत्ति पण्णिनान् आगिल्  
