@@ -84,15 +84,26 @@ unicode_script: devanagari
 
 ## उत्तराङ्गाणि
 
-- मित्रावरुण+उपस्थानम्
+### मित्रोपस्थानम् प्रातः
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/4/1/aMshAH/mitrasya_charShaNIdhRtaH.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/3/4/aMshAH/mitro_janAn.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
+TODO: pra sa mitro
+
+### वरुणोपस्थानं सायम्
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/19_imaM_me.md"  newLevelForH1="2" includeTitle="false"> </div>
+
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/11_tattvA_yAmi.md"  newLevelForH1="2" includeTitle="false"> </div>
+
+### मध्याह्ने 
+
+<div class="js_include" url="/devaH/AryaH/hindukaH/classes/AdityAH/Rk/A_satyena_rajasA.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
-- अभिवादनम्
+
+### अभिवादनम्
 
 ### सूर्यदर्शनम्
 - माध्याह्निके प्रशस्यते मुद्रया। 
