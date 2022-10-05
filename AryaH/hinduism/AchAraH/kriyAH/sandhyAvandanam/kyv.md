@@ -90,7 +90,9 @@ unicode_script: devanagari
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/3/4/aMshAH/mitro_janAn.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
-TODO: pra sa mitro
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/059/02_pra_sa.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+
 
 ### वरुणोपस्थानं सायम्
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/19_imaM_me.md"  newLevelForH1="2" includeTitle="false"> </div>
