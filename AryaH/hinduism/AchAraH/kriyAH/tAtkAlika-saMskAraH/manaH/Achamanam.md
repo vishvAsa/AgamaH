@@ -29,27 +29,29 @@ unicode_script: devanagari
 
 ### स्मार्तः वैष्णवेषु
 
-(अङ्गुष्ट-कपोल-स्पर्शं।) ॐ केशवाय नमः। ॐ नारायणाय नमः।  
-(अनामिका-अक्षि-स्पर्शं।) ॐ माधवाय नमः। ॐ गोविन्दाय नमः।  
-(तर्जनी-नासिक-स्पर्शं।) ॐ विष्णवे नमः। ॐ मधुसूदनाय नमः।  
-(कनिष्टिका-कर्ण-स्पर्शं।) ॐ त्रिविक्रमाय नमः। ॐ वामनाय नमः।  
-(मध्यमा-भुज-स्पर्शं।) ॐ श्रीधराय नमः। ॐ हृषीकेशाय नमः।  
-(चतुरङ्गुल्यैः नभ-शिर-स्पर्शं।) ॐ पद्म-नाभाय नमः। ॐ दामोदराय नमः।
+(अङ्गुष्ट-कपोल-स्पर्शः।) ॐ केशवाय नमः। ॐ नारायणाय नमः।  
+(अनामिका-अक्षि-स्पर्शः।) ॐ माधवाय नमः। ॐ गोविन्दाय नमः।  
+(तर्जनी-नासिक-स्पर्शः।) ॐ विष्णवे नमः। ॐ मधुसूदनाय नमः।  
+(कनिष्टिका-कर्ण-स्पर्शः।) ॐ त्रिविक्रमाय नमः। ॐ वामनाय नमः।  
+(मध्यमा-भुज-स्पर्शः।) ॐ श्रीधराय नमः। ॐ हृषीकेशाय नमः।  
+(नाभि-स्पर्शः।) ॐ पद्म-नाभाय नमः।  
+(उरः-स्पर्शः।) ॐ दामोदराय नमः।
+(मूर्ध-स्पर्शः।) ॐ श्रियै नमः। 
 
 ### सौरम्
 
-- oM aM keshava dhAtR^ibhyAm namaH (forehead)
-- oM AM nArAyaNAryamobhyAm namaH (stomach)
-- oM iM mAdhava mitrAbhyAm namaH (heart)
-- oM IM govinda varuNAbhyAm namaH (neck)
-- oM uM viShNvaMshubhyAm namaH  (right ribs)
-- oM UM madhusUdana bhagAbhyAM namaH  (shoulders)
-- oM eM trivikrama vivasvadbhyAM namaH (throat)
-- oM aim vAmanendrAbyAM namaH (left ribs)
-- oM oM shrIdhara pUShAbhyAM namaH (back of neck)
-- oM auM hR^iShikesha parjanyAbhyAM namaH (back)
-- oM aM padmanAbha tvaShTR^ibhyAM namaH (shoulders)
-- oM aH dAmodara viShNubhyAM namaH
+- ॐ अं केशव-धातृभ्यां नमः (forehead)
+- ॐ आं नारायणार्यमभ्यां नमः  (stomach)
+- ॐ इं माधव-मित्राभ्यां नमः (heart)
+- ॐ ईं गोविन्द-वरुणाभ्यां नमः (neck)
+- ॐ उं विष्ण्व्-अंशुमद्भ्यां नमः  (right ribs)
+- ॐ ऊं मधुसूदन-भगाभ्यां नमः  (shoulders)
+- ॐ एं त्रिविक्रम-विवस्वद्भ्यां नमः (throat)
+- ॐ ऐं वामनेन्द्राब्यां नमः (left ribs)
+- ॐ ॐ श्रीधर-पूषाभ्यां नमः (back of neck)
+- ॐ औं हृषिकेश-पर्जन्याभ्यां नमः (back)
+- ॐ अं पद्मनाभ-त्वष्टृभ्यां नमः (shoulders)
+-  ॐ अः दामोदर-विष्णुभ्यां नमः
 
 ## श्रौत-विधिः
 
