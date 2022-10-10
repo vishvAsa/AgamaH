@@ -4,7 +4,7 @@ title: +Communal Support
 
 ## Introduction
 
-Hinduism (not talking about specific views/ darshana-s like advaita, dvaita, gaudiya vaishnavism etc..) shows a [huge diversity of views](https://www.youtube.com/watch?v=tMfKW1Nu-Ag) and [lack of dogma](https://www.youtube.com/watch?v=U5_inOOhfvk&index=6&list=PL6DF39CE9DE9554AD)a (beliefs without which the edifice would collapse). This cultural background is worthy of preservation for various reasons [considered here](../../../hinduism/benefits/).
+Hinduism (not talking about specific views/ darshana-s like advaita, dvaita, gaudiya vaishnavism etc..) shows a [huge diversity of views](https://www.youtube.com/watch?v=tMfKW1Nu-Ag) and [lack of dogma](https://www.youtube.com/watch?v=U5_inOOhfvk&index=6&list=PL6DF39CE9DE9554AD)a (beliefs without which the edifice would collapse). This cultural background is worthy of preservation for various reasons considered in the [benefits page](/AgamAH/AryaH/hinduism/branches/mishram/hindu-id/benefits/).
 
 General uses:
 - Communal support an reinforcement can help greatly in preserving superior memes in society. See the explanations [here](../../../../../communal-support/distinctness/).
