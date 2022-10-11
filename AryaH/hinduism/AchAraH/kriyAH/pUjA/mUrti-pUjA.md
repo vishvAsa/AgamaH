@@ -30,6 +30,9 @@ bodhAyana sheSha sUtra 2.16-18, rudra-pratiShTha: kalpa gives the rite for the i
 - "atharva-veda parishiShTa, skanda yAga: mentions a very similar installation of a kumAra icon in a platform with leaf and mirror decorations. The shAnti kalpa of the atharva-veda: mentions making images of the nava-graha-s their installation and detailed procedures of worship."
 - "Key features of the majority of these installation rituals include: 1) The rites do not use prANa-pratiShTha mantras typical of the Agamic procedures 2) They might use an “eye-opening” rite using a golden needle with vedic mantra-s. 3) They do not use any classical tantric mantra-s of the Agama-s for the worship of the deity, instead using vedic and some new specific mantra-s specified by these gR^ihya texts. 4) They always involve a vedic-styled homa with oblations made to the deity being installed." ([MT](https://manasataramgini.wordpress.com/2008/02/23/early-temples-and-iconic-worship/))
 
+## Aniconic form temples
+- AvuDaiyAr shiva kovil near pudukoTTai in TN - no idol in garbha-gRha!
+
 ## Rise of Agamas and purANa-s
 " Thus, we see a link between the gR^ihya image worship and the origins of the larger image worship in temples. However, in most streams except the vaikhAnasa-s, this shift to the large temples was closely linked to the rise of a new class of texts and rituals in place of the vedic ones – the Agamic texts. Thus, one might state with confidence the origin of the classical Agama-s as well as extant paurANic narratives are closely linked to the emergence of the large temples. It is not without reason that town-planning, civil constructions and the arts occupy the interest of early Agamas like devyAmata and purANa-s like viShNudharmottara." ([MT](https://manasataramgini.wordpress.com/2008/02/23/early-temples-and-iconic-worship/))
 
