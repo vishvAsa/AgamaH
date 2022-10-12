@@ -1,5 +1,5 @@
 +++
-title = "मञ्जुश्रीः २०२०"
+title = "मञ्जुश्रीः न्याये २०२०"
 +++
 
 Source: [TW](https://www.youtube.com/watch?v=orZwip_bjYA)
@@ -164,7 +164,29 @@ Stock Example:
 - And? The hill is such a smokey place.
 - So? Therefore, it has fire.
 
-## anumAna of ātman
+## darshana
+### jagat
+- Navya-Nyāya lists 7 categories' of object: substance (dravya), quality (guņa), motion or action (karma), universal (sāmānya), particularity or differentiator (višeşa), inherence (samavāya), and absence (abhāva).
+
+- Dravya (Substratum)(9 types) / Substance: (i) that which possesses the universal substance-hood (dravyatva), (ii) that which possesses qualities
+- Guna (Quality) (24 types): (i) that which possesses universals, and isn't a substance or motion; (ii) that which possesses the universal quality-hood
+- Karma (Action) (5 types) Motion: (i) that which causes conjunctions (between substances); (ii) that which possesses the universal motion-hood
+- Samanya/ jAti (Universals) (2 types): that which is eternal, unitary, and inherent in many things. Eg. chairness.
+- Differentium, visheSha (Particular) (Infinite): that which exists in eternal substances and functions as their differentiator 
+- Samavaya (Inherence) (1 type) that thing which is eternal and a relation 
+- Abhava (Absence) (4 types): [No general definition given)
+
+### Atman
+
+According to Nyāya, Self is:
+
+- A type of dravya -> therefore it is eternal, uncreated 
+- Infinite in number. (I can't know your experiences directly.) 
+- All-pervasive in nature, tied to individual body-mind through karma 
+- By nature, not conscious 
+- in the liberated state, Self sheds all awareness
+
+#### anumAna of ātman
 Gautama's inferential sutra to prove existence of ātman:
 
 > इच्छा-द्वेष-प्रयत्न-सुख-दुःख-ज्ञानानि आत्मनः लिङ्गम् इति
@@ -210,7 +232,17 @@ Manas, an inner sense organ, cannot itself be a substratum for the emotions. The
 
 Also, there has to be a single knower who sees via various "windows". Also, a single knower should be the basis of both karma and karma-phala.
 
-## IshvarAnumAna
+### īśvara
+According to Nyāya, īśvara is a "special type of Self". paramAtman
+
+- => dravya - eternal, uncreated
+- Eternally conscious
+- Possesses perfect, eternal, universal knowledge 
+- Can desire and will, but does not undergo pain/pleasure 
+- Instrumental cause of the Universe
+
+
+#### IshvarAnumAna
 - Inferential subject (pakşa)
   - अदृष्टाद्वारकोपादान-गोचर-जन्य-कृत्य-जन्यानि समवेतानि जन्यानि 
   - Things produced, inherent (samaveta) [in something else], [but which are] not produced through an effort (krti) which is [itself] produced [, an effort] which has as its scope the material causes of the things produced], [and which things) are not [produced] by means of invisible merit (adrsta)...
@@ -227,4 +259,17 @@ Also, there has to be a single knower who sees via various "windows". Also, a si
 - Inferential mark (hetu)
   - समवेतत्वे सति प्राग्-अभाव-प्रतियोगित्वात्
   - ...because, it being the case that they are inherent [in something else], [the things produced] are the counter-positive of a prior absence.
-  
+
+### mithya-jñāna
+According to Nyāya, mithya-jñāna is of two types -
+
+
+1) wrong understanding about the nature of the external world
+2) wrong understanding about the Self
+
+The two-fold mithya-jñāna is the cause of samsāra.
+
+### moksha
+- Right knowledge about the world and the Self is obtained through contemplation.
+- This will lead to the dissolution of the (identification) bond between the Self and the body-mind-complex.
+- A liberated Self is without pain/pleasure/consciousness.
