@@ -14,8 +14,17 @@ unicode_script: devanagari
 ## आपस्तम्बीय-विधौ
 [अन्यत्रोक्तम्।](/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhati-visheShaH/vaishvadevam) 
 
+## आश्वलायन-सूत्रे
+- ऋग्विधाने [ऽत्र](https://archive.org/stream/ahnika/RigVedaAhnikaChandrika#page/n93/mode/2up)।
+
 ### मनुः
-- सायम् स्त्रिया \- [अत्र](https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc199900.html)।
+- मनुः
+  - सायम् स्त्रिया \- [अत्र](https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc199900.html) । सायं त्वन्नस्य सिद्धस्य पत्न्यमन्त्रं बलिं हरेत् ।
+    वैश्वदेवं हि नामैतत् सायं प्रातर्विधीयते ॥
+
+## निवेदनशेषेण
+- भिन्नसम्प्रदायेषु, यो देवः परमो मतः, तस्मा आदाव् अन्नं निवेद्य, तच्छेषम् प्रसादं वैश्वदेव प्रयुञ्जन्ते।
+- शुक्लयजुर्वेदिनः शैवा अपि वैश्वदेवे विष्णुनिवेदितशेषं प्रसादम् प्रयुञ्जत इति श्रूयते। ("The smarta as well as shaiva brahmanas in Ujjain as well as odisha follow this procedure from what i enquired. Former are madhyandina while latter are kanva"  इति रविलोचनः। ) तद् देवप्रियम् भवतीति [१.१५४.५](/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/154/05_tadasya_priyamabhi.md) इति दर्शयन्ति।
 
 
 ## गरुडपुराणोक्त-होममन्त्राः
@@ -42,11 +51,3 @@ unicode_script: devanagari
 ## सङ्क्षेपेण पञ्चमहायज्ञाः
 - स्नानविधावेव देव-ऋषि-पितृ-तर्पणानि
 - मानुषयज्ञ-भूतयज्ञ-धन-दानम्
-
-## आश्वलायन-सूत्रे
-- ऋग्विधाने [ऽत्र](https://archive.org/stream/ahnika/RigVedaAhnikaChandrika#page/n93/mode/2up)।
-
-### स्मृत्यन्तरम्
-- मनुः
-  - सायम् स्त्रिया \- [अत्र](https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc199900.html) । सायं त्वन्नस्य सिद्धस्य पत्न्यमन्त्रं बलिं हरेत् ।
-    वैश्वदेवं हि नामैतत् सायं प्रातर्विधीयते ॥
