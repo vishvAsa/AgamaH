@@ -23,6 +23,8 @@ The principle works of Vaiseșika are:
 
 2 other commentaries precede  Upaskāra.
 
+Adapted into navya-nyAya.
+
 ## Goal
 > yad iha bhāvarūpam, tat sarvar mayā upasamkhyātavyam  
 (I shall enumerate everything in this world that has a character of being)  
@@ -249,3 +251,31 @@ Eg. bhUtatva (pRthvi Ap tejas vAyu AkAsha) and mUrtatva (pRthvi Ap tejas vAyu)
 (5) Rūpahāni - a property like differentia-hood (visheShatva) cannot be a genuine universal 
 
 (6) Asambandha - a property like inherence-hood (sAmAnyatva) cannot be a universal, since it does not inhere in its loci.
+
+## Visesa 
+The Vaiseșika accept into their ontology a category called 'basic differentia' (visesa).
+
+- This unique category resides in the nitya-dravya, functions as their differentiators.
+
+## Samavāya
+The different categories of Vaiśesika are tied together through an inseparable relation called as "samavāya".
+
+
+There are five instances of samavāya:
+
+- (1) Inseparable relation between guna & dravya
+- (2) Inseparable relation between karma & dravya
+- (3) Inseparable relation between universal & particular
+- (4) Inseparable relation between avayavin & its avayavas
+- (5) Inseparable relation between višeşa & nitya-dravya
+
+Blue pen samavāyas:
+
+- Blue pen - part 1 of pen, part 2 of pen
+- part 2 of pen - blue-color in it
+- blue color in part 2 - blueness
+- blue color in part 2 - colorness
+- Blue pen - blue-color in it
+- Blue pen - penness
+
+Blue pen saMyogas (contact, a guNa) - between parts of the pen.
