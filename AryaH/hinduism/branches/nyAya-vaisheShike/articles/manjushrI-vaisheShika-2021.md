@@ -64,6 +64,7 @@ The Vaišeşika-s describe the structure of the world in terms of dharma-dharmin
     - saMyoga = contact is a guNa.
 - (3) Instrumental Cause (nimitta kārana)
 
+
 ## Dravya
 Dravya is often wrongly translated as "substance". Definition of substance:
 
@@ -189,3 +190,62 @@ Vaiśeşika-s accept 24 guna-s. They are as follows:
 
 (effect) COLOR (OF CLOTH) inhers in - CLOTH (cause) which inhers in THREADS, which in inhered by COLOR (OF THREADS), the cause.
 
+## Motion (karma)
+- Motion is of five types, four volitional (throwing upwards, throwing downwards, contraction, expansion) and the fifth comprising all non-volitional motion (including falling, rotating, flowing, etc.)
+
+### Causes
+- Weight (gurutva) is the non-inherent cause of the initial falling motion of a body.
+- Fluidity (dravatya) is the non-inherent cause of initial) flowing. 
+- 'Impetus' is the non-inherent cause of the second and subsequent falling motions of a body. Caused by the prior motion.
+- Elasticity is that which restores something to its original state after it has been distorted.
+- adṛṣṭa - magnetism, upward movement of flame...
+
+### Examples
+- Example: Fruit falling from a tree 
+  - (1) At time t0, fruit is stationary at place, so. 
+  - (2) At t1, weight of the fruit causes stalk to break, and the fruit moves to s1.
+  - (3) At t2, fruit moves from s1 to s2 because of 'impetus' produced by the initial motion.
+  - (4) Subsequent motions are produced by 'impetus' until it is restored to 'rest' by 'elasticity'
+- Example: A javelin thrown obliquely upwards 
+  - (1) At t1, javelin moves to place s1 due to initial external force. 
+  - (2) The upward force counteracts the javelin's weight and causes its upwards motion. When this impetus is exhausted by contact with the air, the javelin's weight imparts a downwards impetus and the javelin falls.
+
+## Universals (सामान्य)
+- A real universal is an entity that is one (unitary, indivisible), eternal (timeless, indestructible), and present in many by a single unitary relation called 'inherence' . (samavāya)
+  - Even if there are no chairs in the world, chariness exists. Like Platonic ideal realm.
+- Substratum - dravya, guNa or karma
+- In Vaišeşika, a blue-pot will be explained like this:
+  - "An instance of blue (a particular blue-occurrence) is located or resident in another particular (a pot substance) while the blue-universal resides in the blue-instance (the quality-particular) and the pot-universal resides in the particular pot."
+- Only natural classifications are classification are treated as real universals (jāti/sämānya).
+- The properties which do not correspond to "natural" categories are treated as imposed properties (upādhi). Eg. fatherhood of a man.
+
+The real universals are connected with their particular instances that 'manifest' them. This connection is said to be a single, unitary relation, a real relation called 'inherence' (samavāya).
+
+### 6 Jātibādhaka-s 
+6 Jātibādhaka-s are as follow:
+
+
+(1) Vyatireka-bheda ('non-plurality') - a genuine universal must be plurally instantiated; 
+
+- Eg. AkAshatva is not a jAti
+
+(2) Tulyatva ('equipollence') - two co-extensive properties cannot both be genuine universals;
+
+- If P and Q are distinct properties, then (equipollence, tulyatva): [P] = [Q] → either P or Q (or both) is not a universal, The contraposed form is: P and Q are universals → [P] != [Q].
+- Eg. ghaTatva, kalashatva
+
+(3) Samkara ('cross-connection') - two genuine universals must not partially overlap;
+
+If P and Q are distinct properties, then,
+[P] partially overlaps [Q] → either P or Q (or both) is not a universal.
+
+The contraposed form is:
+P and Q are universals → [P] ⊂ [Q] or [P] ⊂ [Q] or [P] ∩ [Q] = 0.
+
+Eg. bhUtatva (pRthvi Ap tejas vAyu AkAsha) and mUrtatva (pRthvi Ap tejas vAyu)
+
+(4) Anavasthā - 'regress' - a property like universality cannot itself be a universal; 
+
+(5) Rūpahāni - a property like differentia-hood (visheShatva) cannot be a genuine universal 
+
+(6) Asambandha - a property like inherence-hood (sAmAnyatva) cannot be a universal, since it does not inhere in its loci.
