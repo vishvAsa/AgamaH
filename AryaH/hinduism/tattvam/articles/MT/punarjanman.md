@@ -13,6 +13,17 @@ But the we cannot reduce the core H religious framework to items of belief.
 
 I would say that certain aspects of philosophy & "world theory" are less important in the definition of a H. More important is the& central is the worship of a *multiplicity of deities* with correct rituals & mantra-s; if uninitiated with stava-s and stotra-s. This latter part shouldn't be understood as being contrary to what the author says.
 
+Source: [TW](https://unrollthread.com/t/1059287326319362048/)
+
+Malla has posted a poll concerning reincarnation. Like many H he commits to the position that the falsification of reincarnation is seriously damaging to the H dharma. This is not an uncommon position. I go against the grain and posit that H should define the foundations of their dharma to not include reincarnation as a necessary element. 
+
+I also hold that the falsification of reincarnation would not affect the essential scaffold of the dharma. Religions as products of the human mind have beliefs and it is enough to hold reincarnation as just a belief. Religions which privilege beliefs as their central elements like the Abrahamism have a deep weaknesses. Hence, it is best to limit the degree to which beliefs are included in the core of the religious system. One might try to argue that metempyschosis+++(=reincarnation)+++ is not a belief but an expression of experience. However, if you think of it closely it is not at the same level as the rest of experiential core of the religion i.e. the deva-s. Hence, I would posit that it should remain just a belief which you may choose to have or not based on your mindset. 
+
+I do understand how it deeply rankled all three Abrahamists in the past but that does not make it a sureshot weapon against their assault. I also realize this would deeply anger many of you all. Keep that anger to yourself. I am not interested in hearing about. 
+
+Finally, I am also note that the belief in reincarnation is quite deep among Indo-Europeans. There is evidence for it among the Hindus, Iranians and Greeks and probably existed among Lithuanians suggests early origins. Keeping this in mind one may see its status in the early canon of these traditions where available. That itself tells you something about whether it should be at all made a centerpiece of the religious system.
+
+
 ## Japan
 I heard a talk by a Japanese investigator who remarked that though Japan is the 8th least religious country in the world several people report cases of claimed reincarnation broadly similar to cases that have been reported in India, Lanka, Thailand & Burma. He also mentioned that even in the 1800s such a case had been reported & bore close parallels to cases found in the Indosphere. He seemed have gathered some interesting data on such cases & remarked that he had e.g.s of kids who claimed such memory were not significantly enriched in bauddha-s.
 

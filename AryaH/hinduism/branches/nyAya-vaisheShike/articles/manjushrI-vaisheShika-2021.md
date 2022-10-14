@@ -30,6 +30,9 @@ The principle works of Vaiseșika are:
   
 For the Vaišeşika, the world can be reduced to six fundamental categories/padārtha-s -- dravya, guņa, karma, sāmānya, višesa, and samavāya
 
+padArtha characteristics - existance (astiva), language (abhidheyatva) and cognidtion (jneyatva).
+
+## dharma-dharmin view
 The Vaišeşika-s describe the structure of the world in terms of dharma-dharmin (property and property-possessor). Examples
 
 - Fire on a Mountain: Fire = Dharma (property); Mountain = Dharmin (property possessor) 
@@ -37,6 +40,29 @@ The Vaišeşika-s describe the structure of the world in terms of dharma-dharmin
 - 3 - Blue Pen: Blue Colour = Dharma (property); Pen = Dharmin (property possessor) 
 - 4 - Rolling Red Ball: Red Colour + Motion (rolling) = Dharma(property); Ball = Dharmin (property possessor) 
 - 5 - Consider the sentence, śabdaḥ anityah (Sound is impermanent) This maybe re-written as śabde anityatvam (There is impermanence in sound). Or sabdah anityatvavan (Sound is a possessor of impermanence) - Vaišeșika option
+
+
+## Theory of Causation
+(asatkārya-vāda, आरम्भवाद):
+
+1) kārya does not pre-exist in kārana.
+2) kārya and käraņa are essentially different entities.  Pot is not just an aggregate of its parts - it has an additional unique identity.
+3) kārya and karana are inseparably tied together by the relation of inherence(samavāya)
+
+- In Vaiśesika, every composite object is called kärya (effect). 
+- It has three käraņa-s (causes): samavāyī kāraṇa, asamavāyī kārana and nimitta kārana
+- (1) Inherent Cause (samavāyi kārana) 
+  - An entity X is said to be the 'inherent' cause of an effect Y, if Y, as soon as it is produced, inheres in X, i.e. if the relation known as inherence (samavāya) obtains between X and Y. 
+  - Eg: The cloth (Y) that is woven out of some threads (X) inheres in those threads as soon as it is produced, and those threads are also the causes of this particular piece of cloth. Therefore, the constituent threads of a cloth are the 'inherent' causes of that cloth. 
+  - CLOTH (effect) - relation of inherence (samavāya) - threads (inherent cause)
+- (2) Non-inherent Cause (a-samaväyi käraņa)
+  - The non-inherent cause of an effect co-exists with the effect in the same locus through the relation known as 'inherence'. 
+  - Let the entity A (threads) be the inherent cause of the entity B (cloth). Now, the entity C (contact) will be regarded as the 'non-inherent' cause of B (cloth) if it is the case that 
+    - (i) C is the cause of B; and 
+    - (ii) at the same time an entity in which both B and C inhere (threads)
+  - (effect) CLOTH - inherence - THREADS; also, CONTACT (cause) - inherence - THREADS.
+    - saMyoga = contact is a guNa.
+- (3) Instrumental Cause (nimitta kārana)
 
 ## Dravya
 Dravya is often wrongly translated as "substance". Definition of substance:
@@ -69,4 +95,97 @@ combination (of atoms).
 
 Why posit the theory of atoms?  
 
-> Ananta-karanair ārabdha-golaka-rūpā prthivi tathā ghātādi kāryam apityekākāratā-prasangah.
+> Ananta-karanair ārabdha-golaka-rūpā prthivī tathā ghātādi-kāryam apīty ekākāratā-prasangah.
+>
+> Both pot and mountain would be "euqal", being made up of infinite parts.
+
+### Creation theory
+At the beginning of a new creation cycle, the atoms are first set-into motion by the divine will of iśvara (for the sake of jIva-s). This results in the combining of two atoms to create a new product known as a dyad (dvyaņuka). Thereafter, three dyads combine to form a triad (tryanuka) (this is the smallest visible form of matter); subsequently, four triads join to form a tetrad (caturanuka), and the creation of gross bodies takes place in geometric progression.
+
+prashastapAda: After creation of fire, hiraNyagarbha. In hiraNyagarbha, Ishvara creates brahma and assigns creation duty. 
+
+### Inference of dravya-s
+Start off with some quality / guNa. Find a substratum for it.
+
+### AkAsha
+Not space here! Äkāśa is a technical term in Vaišeşika-its only function is to facilitate the propagation of sound (a type of "field"). It is eternal, infinite and all pervading. 
+
+#### Wave
+Propagation of sound is in the form of "waves" - sabda-santāna/vicīsantāna. 
+
+(Everytime-) The first sound of the sabda-santāna is produced by an external energy but the following ones are produced by the propagation of that energy.
+
+### Dik
+Dik maybe translated as "space" that possesses two properties - distance and direction. It is eternal, infinite and all-pervading.
+
+### Kāla
+Kāla (time) is the infinite, eternal, static background against which events happen, and from which events derive their chronological order. A type of field that connects various other particles with the sun. Time of an event is then defined by the state of solar motion "connected" with that event.
+
+### Atman
+#### Inference
+to postulate ātman
+
+Let 
+
+Cx = x is a cognition ;  
+
+Qx = x is a quality ;  
+Sx = x belongs to a substance;  
+
+Ex = x belongs to earth;  
+Wx = x belongs to water;  
+Fx = x belongs to fire ;  
+Ax = x belongs to air ;  
+Kx = x belongs to akasa;  
+IX = x belongs to space ;  
+Tx = x belongs to time;  
+Mx = x belongs to inner sense ;  
+Nx = x belongs to an additional ninth substance called the self
+
+Then,  
+
+(x)(Cx ⊂ Qx) and (x)(Qx ⊂ Sx)
+
+Cognition does not belong to any other substance - so belongs to Atman.
+
+#### Properties
+By itself Atman is unconscious. In contact with mind, it experiences cognition.
+
+According to Vaišeșika, Self is:
+
+- A type of dravya -> therefore it is eternal, uncreated
+- Infinite in number, all-pervasive in nature, tied to individual body-mind through karma 
+- By nature, not conscious - in the liberated state, Self sheds all awareness
+
+#### Ishvara
+Ishvara is a paramAtman - eternally conscious, eternal knowledge. No pain or pleasure.
+
+According to Vaišeşika, īśvara is a "special type of Self"
+
+- => dravya  
+- eternal, uncreated
+- Eternally conscious  
+- Possesses perfect, eternal, universal knowledge 
+- Can desire and will, but does not undergo pain/pleasure
+- Instrumental cause of the Universe
+
+
+### manas
+According to Vaiśesika, manas is an instrument of attention; it is atomic in size, eternal, and facilitates cognition to arise in ātman. It is directed by the Atman to get data from (external or internal) sense organs - so, an intermediary organ. It is like a ball thrown by a boy sitting in a room. Atomic size ensures that the self is not overwhelmed.
+
+Attention is different from awareness. Attention (sending of mind to fetch data) is prior to awareness. Debated by bauddhas.
+
+## guNa
+- Guņa is wrongly translated as "qualities". It is a technical term - it is an "unrepeatable" entity which has a dravya for its substratum. So black color in object A is different from black color in object B.
+
+
+Vaiśeşika-s accept 24 guna-s. They are as follows:  
+(1) Colour (2) Taste (3) Smell (4) Touch (5) Number (6) Contact (7) Disjunction (8) Farness (9) Nearness (10) Dimension (11) Separateness (12) Cognition (13) Pleasure (14) Frustration (15) Desire (16) Hatred (17) Effort (18) Weight (19) Fluidity (20) Viscosity (21) Dispositional tendency (22) Dharma (23) Adharma (24) Sound
+
+### Color
+- Rūpa, or colour, is what enables perception (by eyes). 
+- The atoms of water can possess only one colour, abhāsvara-sukla-rupa; the atoms of fire can possess only one colour, bhāsvara-sukla-rupa; the atoms of prthvi may have many different colours, white (sukla), blue/black (nīla), yellow (pita), red (rakta), green (harita), tawny (kapisa) and variegated (citra). 
+- Colour of a composite object is the resultant of the colour of its parts.
+
+(effect) COLOR (OF CLOTH) inhers in - CLOTH (cause) which inhers in THREADS, which in inhered by COLOR (OF THREADS), the cause.
+
