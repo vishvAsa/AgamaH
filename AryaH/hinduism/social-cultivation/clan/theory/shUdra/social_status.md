@@ -24,6 +24,11 @@ Concept seems to be that "सच्छूद्रs" (sectarian definitions may 
 >
 > "The caṇḍāla who has devotion to Bhagavān - to think even by mere chance, of this chanḍāla, to talk to him and to treat him with respect - these purify the man who does so, O, Brahmin "
 
+
+> तथैव मुण्डकोपनिषदि श्रूयते । 'अपि वा यश्चाण्डालः शिव इति वाचं वदेत् तेन सह संवदेत् तेन सह संवसेत् तेन सह भुञ्जीत' इति । अत्र हि शिवशब्दस्य ब्रह्मबोधकस्य समुच्चारणमात्रेणात्यन्ताविशुद्धस्य पातकिनः परमविशुद्धिप्राप्तिरवगम्यत इति ।  
+>  Śrīkaṇṭhaśivācārya's commentary on Brahmasūtra 4.1.16  
+> Appayya also quotes.
+
 ## Social scale 
 > विद्याकर्मवयोबन्धुवित्तैर्मान्या यथाक्रमम्।  
 एतैः प्रभूतैः शूद्रोऽपि वार्धके मानमर्हति॥ याज्ञवल्क्यस्मृति १.११६
