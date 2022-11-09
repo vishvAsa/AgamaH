@@ -28,3 +28,8 @@ Finally, I am also note that the belief in reincarnation is quite deep among Ind
 I heard a talk by a Japanese investigator who remarked that though Japan is the 8th least religious country in the world several people report cases of claimed reincarnation broadly similar to cases that have been reported in India, Lanka, Thailand & Burma. He also mentioned that even in the 1800s such a case had been reported & bore close parallels to cases found in the Indosphere. He seemed have gathered some interesting data on such cases & remarked that he had e.g.s of kids who claimed such memory were not significantly enriched in bauddha-s.
 
 The 1800s Japanese metempsychosis claim offers an independent parallel to those investigated by modern sleuths like Stevenson, Pasricha etc. It does raise the question as why these cases have cross-cultural similarity. 
+
+## Grandfather's rebirth
+The larger H attitudes towards this are varied. One stream of thought, also apparently favored by the shAkya muni, is that some individuals have connections over many janman-s. Hence, it is indeed conceivable that you might reconnect with your grandfather. Other H thinkers favor release by mokSha as superior path or due puNya-s a superior janman. 
+
+On the other hand the work of Antonia Mills among the first Americans of Canada suggests that the grandfather might come back as say your or your sibling's child. I think some West African tribes too believe that happens often. In one white American case again the grandfather returned as grandson. Of course, all these are in the realm of beliefs, which in turn might affect the perceived outcome. That said, I all for empirical investigation & cataloging all manner of spooky phenomena.
