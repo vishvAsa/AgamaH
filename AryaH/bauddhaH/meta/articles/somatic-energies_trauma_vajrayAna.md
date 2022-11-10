@@ -275,68 +275,90 @@ The author declares no conflict of interest. The funding sponsors had no role in
 
 ## Footnotes
 
-[^1]
+[^1]:
+
     For a more extensive description of the project’s methodology and for an overview of the results, see Lindahl et al. (2017). In particular, on the appropriateness of qualitative methodology, see Methods: Qualitative approach and research paradigm. For more information on subject recruiting see Methods: Participants, and Methods: Sampling strategy. As a qualitative methodology, purposive sampling precludes the ability to assess the frequency of meditation-related challenges beyond the study sample. On the topic of assessing non-rerpresentative samples, see Discussion: Limitations.
 
-[^2]
+[^2]:
+
     The practitioner interview protocol can be found as the supporting information S1 appendix associated with Lindahl et al. (2017). The expert interview protocol can be found in the supporting information S2 appendix associated with the same publication.
 
-[^3]
+[^3]:
+
     For more information on this instrument, see Methods: Additional instruments and quantitative measures in Lindahl et al. (2017).
 
-[^4]
+[^4]:
+
     A more detailed discussion of the qualitative content analysis can be found in Methods: Data analysis in Lindahl et al. (2017). A summary of these codebooks can be found in Results: Phenomenology: Domains and categories, and Results: Influencing factors: Domains and categories. The complete codebooks are available as the supporting information S4 and S5 appendices associated with the same publication.
 
-[^5]
+[^5]:
+
     I will refrain from attempting to make a case for fitting these practitioners into a particular “typology” of American Buddhists, the pros and cons of which have been well addressed by Hickey (2010). It is worth mentioning, however, that this sample’s demographics precludes making broader claims about “American Buddhism” and that the findings reported in this paper may or may not extend to other demographics, communities, or traditions.
 
-[^6]
+[^6]:
+
     The total number here exceeds 12 due to many practitioners practicing in multiple lineages.
 
-[^7]
+[^7]:
+
     For a complete list of categories and for a description of the phenomenology see Lindahl et al. (2017). The supporting information, Appendix S4, provides a detailed description of each of the 59 phenomenology categories.
 
-[^8]
+[^8]:
+
     While in the context of Tantric Buddhism, especially the subtle body practices of the completion stage, rlung is more commonly and perhaps better translated as “energy” or “energies”, in the context of Tibetan medicine, where bodily functions are described in terms of various elemental processes, rlung is often translated as “wind”. This ambiguity is in part due to one Tibetan word being used to translate both the Sanskrit term prāna and the term vāyu. For comparisons between Tantric and medical conceptions of the subtle body and the interplay between these two systems see Gerke (2013) and Gyatso (2015).
 
-[^9]
+[^9]:
+
     Generation stage practices typically involve visualization of Tantric deities and mandalas. They are considered preparatory for completion stage practices and are distinguished from the latter insofar as completion stage practices have the purpose of controlling the energies of the practitioner’s subtle body. On these two main aspects of Vajrayāna Buddhism. On these two main aspects of Vajrayāna Buddhism, see Cozort (1986) and Kongtrul (2002).
 
-[^10]
+[^10]:
+
     The “four modes of birth” (skye gnas bzhi) that are purified through generation stage practice are “miraculous birth,” “heat-moisture birth,” “egg birth,” and “womb birth.
 
-[^11]
+[^11]:
+
     For the inclusion criteria and exclusion criteria of these and other categories from the Varieties of Contemplative Experience phenomenology and influencing factors codebooks, see the Supplementary Information appendices S4 and S5 associated with Lindahl et al. (2017).
 
-[^12]
+[^12]:
+
     Specifically, “As a child: physical/sexual/emotional abuse or neglect; loss, injury or death of a family member or caregiver. Any age: Experienced or witnessed life-threatening injury/illness, rape, violence, death, warfare.”
 
-[^13]
+[^13]:
+
     All practitioner narratives quoted below were reported as either resulting from or interacting with one or more Vajrayāna practices. Transcript excerpts have been lightly edited for the sake of brevity and clarity, and key Tibetan terminology has been rendered according to the Wylie system of transliteration.
 
-[^14]
+[^14]:
+
     All names have been changed to protect the identities of those who participated in the study.
 
-[^15]
+[^15]:
+
     She describes these as types of qigong and yoga, though they seem to be serving a similar purpose for her as ’phrul ’khor practices, which other practitioners reported engaging in conjunction with subtle body yogas such as gtum mo for similar reasons.
 
-[^16]
+[^16]:
+
     The dialectic between Buddhist and medical views of the body has a longstanding history in Tibet and elsewhere in Buddhist Asia, see Gyatso (2015).
 
-[^17]
+[^17]:
+
     For instance, Meg reports the following exchange with her teacher about changes in her menstrual cycle during a three-year retreat: “I stopped having my menstrual period for a year and a half, and that was also really confusing because I’ve had really painful menstrual cramps my entire life, and when I entered retreat I made this really powerful prayer that I did not want my menstrual cycle to interfere with my practice. […] So I made really powerful aspiration prayers for my period not to interfere with my practice, and then I lost my period for a year and a half. And I asked Rinpoche, I said, ‘Is this the blessing of the yidam, or is this part of my health problem?’ And he said, which is very surprising to me, ‘It’s not clear.’ He didn’t know. He can see most things, so it was very surprising to me that he couldn’t tell.”
 
-[^18]
+[^18]:
+
     Given the open-ended and semi-structured nature of the interviews, this does not mean that we can conclude that such practitioners did not have re-experiencing in the context of their practice, as they were not asked directly one way or the other.
 
-[^19]
+[^19]:
+
     The four types of obscurations are: karmic obscurations (las kyi sgrib pa), obscurations of afflictive emotions (nyon mongs kyi sgrib pa), conceptual obscurations (shes bya’i sgrib pa), and obscurations of habitual tendencies (bag chags kyi sgrib pa).
 
-[^20]
+[^20]:
+
     Similar visualization instructions can also be found in Rinpoche (1998) and Kongtrul (1977).
 
-[^21]
+[^21]:
+
     Specifically, he proposes undertaking practices such as Vajrasattva visualization with a change in “intention” and “attitude” from “purification” to “healing,” which primarily entails removing the evaluative judgments traditionally part of “the power of release.” An explanation for why he thinks a shift in intention is sufficient to make Tantric preliminaries helpful rather than harmful is not provided.
 
-[^22]
+[^22]:
+
     In support of this view, neuroscientific models of trauma Brewin et al. (2010) contend that recurrent intrusive memories (flashbacks) are created and maintained by an overemphasis on somatic and sensate rather than contextual and conceptual processing, such that the lack of linguistic, temporal, and contextual frameworks impairs the ability to integrate the experience into a meaningful narrative.
