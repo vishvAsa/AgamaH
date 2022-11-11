@@ -67,8 +67,7 @@ The position in the Oriya-speaking Ganjam was similar: the twice-born accounting
 It is only in the Telugu-speaking districts that the twice born formed the major proportion of the school going students. Here, the proportion of Brahmin boys varied from 24% in Cuddapah to 46% in Vizagapatam; ..."
 
 #### guru-shishya paramparA
-
-This has both pro-s and con-s, as illustrated in [IMG](http://i.imgur.com/JwjR9Eb.png) from [VA_IN](http://www.astro.com/astrology/in_vedic2_e.htm).
+- See guru-pages.
 
 #### British deeds
 

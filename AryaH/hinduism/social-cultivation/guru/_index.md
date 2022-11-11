@@ -1,4 +1,3 @@
 +++
-title = "+guru"
-unicode_script = "devanagari"
+title = "+Guru"
 +++

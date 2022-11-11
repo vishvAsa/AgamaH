@@ -6,13 +6,15 @@ title: Guru गुरुः
 ## Intro
 
 - An experienced and accomplished guide greatly aids own's own practice and learning.
-- The relationship between guru and a shiShya
-    - The attitude of the guru
-        - Guru ideally joyously fulfilling his dharma obligation (arising out of debt to his teachers and sages).
-        - The ideal of imparting learning ideally towers over that of ego gratification.
-            - Eg. dialog in upanayana: कस्य ब्रह्मचार्यसि? प्राणस्य ब्रह्मचार्यसि/ इन्द्रस्य ब्रह्मचार्यस्यग्निराचार्यस्तवाहमाचार्यस्तवासौ अमुकशर्मन्।
-    - Attitude of the shiShya
-        - Ardently receives knowledge while abiding by reasonable yet strict rules; is essentially treated as a son of the household under the care of the guru.
+
+
+### Relationship
+- The attitude of the guru
+  - Guru ideally joyously fulfilling his dharma obligation (arising out of debt to his teachers and sages).
+  - The ideal of imparting learning ideally towers over that of ego gratification.
+    - Eg. dialog in upanayana: कस्य ब्रह्मचार्यसि? प्राणस्य ब्रह्मचार्यसि/ इन्द्रस्य ब्रह्मचार्यस्यग्निराचार्यस्तवाहमाचार्यस्तवासौ अमुकशर्मन्।
+- Attitude of the shiShya
+  - Ardently receives knowledge while abiding by reasonable yet strict rules; is essentially treated as a son of the household under the care of the guru.
 
 ## Disagreements between guru and shiShya
 
@@ -34,7 +36,8 @@ title: Guru गुरुः
 
 ## Forced Conformism
 - Of late, disagreements among various traditionalist lineages has been replaced by conformism and forced unoriginality.  
-    - "What makes the situation very difficult is the fact that in a traditional teaching in the guru-disciple relationship an objective discussion of facts is not admitted. Studying the authoritative texts does not mean that they be read, discussed, and their meaning discovered with a simple, unprejudiced mind. Instead, the guru teaches his disciples a particular ideology and shows them how this ideology can be “proven” referring to those authoritative texts, which are considered as a divine revelation. In this process, considerable violence is often done to the texts, and it happens that their meaning is turned into the exact opposite. If a student discovers that the teaching of the guru is in contradiction to the Vedas he is expected to believe that this contradiction is only due to his own limited understanding of things." - D Koch
+
+> "What makes the situation very difficult is the fact that in a traditional teaching in the guru-disciple relationship an objective discussion of facts is not admitted. Studying the authoritative texts does not mean that they be read, discussed, and their meaning discovered with a simple, unprejudiced mind. Instead, the guru teaches his disciples a particular ideology and shows them how this ideology can be “proven” referring to those authoritative texts, which are considered as a divine revelation. In this process, considerable violence is often done to the texts, and it happens that their meaning is turned into the exact opposite. If a student discovers that the teaching of the guru is in contradiction to the Vedas he is expected to believe that this contradiction is only due to his own limited understanding of things." - D Koch
 
 ## Personality and magnetism
 
