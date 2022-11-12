@@ -1209,7 +1209,7 @@ Such statements as are made in the ślokas -- " The man who has performed prapat
 
 The freedom from grief that is stated here (in the carama śloka) has no limiting factors. Therefore the causes of all forms of grief are stated here to be annulled for the man who has a knowledge of this upāya and adopts it. By the teaching given here, mere knowledge (of the upāya) may exist without its adoption, but it would be of no use at all as stated in the śloka. "The song does not regulate (the actions of) the man though he may sing it very often. Creatures behave in accordance with their past impressions (vāsana) like the bird [^f7] *Kulinga', which, though it utters the words mā sāhasam kuru, (Do not behave rashly), continues to behave rashly". So in this śloka, it is implied that annulment of grief would be the fruit of a combination of both knowledge and action.
 
-[^f7]:.
+[^f7]:
 
 
 
