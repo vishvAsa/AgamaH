@@ -5,6 +5,8 @@ title = "दक्षिणकलार्य-समयाचार-पत्र
 
 श्रीदेवराजैः कृता समयाचार-पत्रिका / सङ्केतपत्रिका  
 
+मूलम् [अत्र](https://archive.org/details/Vaishvadeva/daxiNakalArya-samayAchara-patrika/) । 
+
 <u>(नैतद् उत्तरकलार्यैर् अङ्गीक्रियते॥ संस्कृतभागः परिष्कृततरः, न द्राविडः। शोधनानि सूच्यन्ताम्।)</u>
 
 <details><summary>English</summary>
