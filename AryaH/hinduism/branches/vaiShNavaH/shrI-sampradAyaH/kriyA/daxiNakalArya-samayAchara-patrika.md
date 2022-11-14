@@ -5,7 +5,7 @@ title = "दक्षिणकलार्य-समयाचार-पत्र
 
 श्रीदेवराजैः कृता समयाचार-पत्रिका / सङ्केतपत्रिका  
 
-<u>(नैतद् उत्तरकलार्यैर् अङ्गीक्रियते॥)</u>
+<u>(नैतद् उत्तरकलार्यैर् अङ्गीक्रियते॥ संस्कृतभागः परिष्कृततरः, न द्राविडः। शोधनानि सूच्यन्ताम्।)</u>
 
 <details><summary>English</summary>
 
@@ -19,10 +19,14 @@ The author of this text is claimed to one of the eight main sishyas of Manavala 
 
 முகவுரை 
 யாசார பத்ரிகா என்றும் ஸங்கேத பத்ரிகா என்றும் பெயர் கொண்ட இச் சிறிய நூல், ப்ராசீனமான ஸ்ரீவைஷ்ணவர்கள் கைக்கொள்ளும் அனுஷ்டானங்களை விவரிக்கிறது. இந்தப்பதிப்புக்கள் ஆதாரமான மூன்று சுவடிகள் வருமாறு : 
-(1) மைசூர் ஓரியண்டல் லைப்ரரியில் உள்ள ஓலைச்சுவடி, நெ 55. (2) மைசூர் பரகால மடத்தில் உள்ள ஓலைச்சுவடி. 
-(3) சோளங்கிபுரம் தொட்டயாசார்யர் வம்சத்தவர்களிடம் முள்ள ஓலைச்சுவடியைப் பார்த்து எழுதிய தெலுங்கு லிபி கை யெழுத்துப் பிரதி. 
-' இவற்றுள் முதல் இரண்டும் முழுமை பெறாமலும், இயற்றியவர் பற்றிய விவரம் இல்லாமலும் உள்ளன. மூன்றாவது சுவடியில் எறும்பியப்பா என்கிற தேவராஜர் இயற்றியதாகக் குறிப்பு உள்ளது மேலும் எறும்பியப்பா இயற்றிய அம்ருத பலவல்லி சதகம் என்னும் ஸ்தோத்ரத்துடன் கூட எழுதப்பட்டுள்ளது. இதே சுவடியில் இடம் பெற்றுள்ள வேறு சில சுலோகங்களிலிருந்து, எறும்பியப்பா என்பவர் மாமுனிகளின் அஷ்ட திக்கஜங்களில் ஒருவரான சரண்யாசார்யரின் குமாரர் என்ற குறிப்பும் கிடைக்கிறது. 
-- 
+
+1) மைசூர் ஓரியண்டல் லைப்ரரியில் உள்ள ஓலைச்சுவடி, நெ 55. 
+2) மைசூர் பரகால மடத்தில் உள்ள ஓலைச்சுவடி.
+3) சோளங்கிபுரம் தொட்டயாசார்யர் வம்சத்தவர்களிடம் முள்ள 
+   ஓலைச்சுவடியைப் பார்த்து எழுதிய தெலுங்கு லிபி கை யெழுத்துப் பிரதி. 
+
+இவற்றுள் முதல் இரண்டும் முழுமை பெறாமலும், இயற்றியவர் பற்றிய விவரம் இல்லாமலும் உள்ளன. மூன்றாவது சுவடியில் எறும்பியப்பா என்கிற தேவராஜர் இயற்றியதாகக் குறிப்பு உள்ளது மேலும் எறும்பியப்பா இயற்றிய அம்ருத பலவல்லி சதகம் என்னும் ஸ்தோத்ரத்துடன் கூட எழுதப்பட்டுள்ளது. இதே சுவடியில் இடம் பெற்றுள்ள வேறு சில சுலோகங்களிலிருந்து, எறும்பியப்பா என்பவர் மாமுனிகளின் அஷ்ட திக்கஜங்களில் ஒருவரான சரண்யாசார்யரின் குமாரர் என்ற குறிப்பும் கிடைக்கிறது. 
+
 சென்னையிலிருக்கும் ப. ராஜகோபாலாசார்ய ஸ்வாமி திருமாளிகை யில் ஒரு கையெழுத்துப் பிரதி தெலுங்கு லிபியிலுள்ளது - உள்ள தில் கடைசியில் சில சுலோகங்கள் உள்ளன. அவை வருமாறு: 
 
 पञ्च-संस्कार-हीनत्वात्  
@@ -43,7 +47,7 @@ The author of this text is claimed to one of the eight main sishyas of Manavala 
 
 
 இதனால் இந்த ஸ்வாமியின் திருவுள்ளப்படி ஸ்ரீவைகான ஸாகமம் களை விட ஸ்ரீபாஞ்சராத்ராகமங்களைக் கொண்டு ஆலயங்களிலும் திருமாளிகைகளிலும் திருவாராதனம், ப்ரதிஷ்டை முதலியன செய்வது உத்தமம் என்று ஏற்படுகிறது. இதற்கு 7 காரணங்களை இதில் தெரிவித்துள்ளார். (1) ஸ்ரீவைகானஸத்தில் பஞ்சஸம்ஸ்காரம் கிடையாது; இது ஒரு குறை. (2) பிள்ளைலோகாசார்யர் முதலானோர் இதை ஆதரிக்கவில்லை. (3) ஸங்கேதமாய் சில உண்டு அவர்களில் (4) ஹோமத்திற்கு ஸ்ரீவைகானஸத்தில் முதன்மை உண்டு , (5) ஸ்ரீவைகானஸாகமப்படி ஆராதிப்பவர்கள் கிடைப்பது அரிது (6) வேதமந்த்ரங்களை முக்கியமாய் கைக்கொண்டுள்ளார்கள் (7) மூல மந்த்ரமான திருவஷ்டாக்ஷரத்தை அவர்கள் கையாள்வதில்லை. ஆகவே அதைவிட ஸ்ரீபாஞ்சராத்ரம் சிறந்தது என்று இந்த ஸ்வாமி திருவுள்ளம்.
-இந்த மூன்று சுவடிகளிலும் கிடைத்த ச்லோகங்கள் எல்லாம் இப் பதிப்பில் வெளியாகின்றன. எந்தெந்த வரிகள் எந்தெந்த சுவடி களில் விடுபட்டுள்ளன என்ற விவரமும் கீழ்க் குறிப்பாகத் தரப்படு கிறது. மைசூர் ஓலையில் எகான TESTTT என்கிற 57 வது ச்லோகம் இல்லை. ஆனால் த்ருடி (செல்லு அரித்த அடையாளம் ) உள்ளது. fagaIFEHy (23) என்ற சுலோகம் ஏதோ பிழையா யிருகிக்றது. ஏனெனில் அமாவாஸ்யையில் தர்பணம் செய்வது சிஷ்டாசாரமே. விஷூ முதலானவற்றிலும் உண்டு. ஆகவே இந்த சுலோகத்தில் பிழை உள்ள தாய் தோன்றுகிறது. மேலும் ஓலை களைப் பார்க்க வேண்டும். மிகப் பழைய ஓலையை அச்சிட வாய்ப்பு ஏற்பட்டது. இக்காலத்தில் வடமொழியறிந்தவர்கள் -- அருகி வருவதால் எல்லோரும் இதன் கருத்தை அறிய தமிழில் மொழி பெயர்ப்பு செய்துள்ளேன். பிழை ஏதேனுமிருப்பின் க்ஷமித் தருளவும். இதை அனுஸரித்து ஸத்ஸம்ப்ரதாயத்தில் நெறியுடன் இருந்து உஜ்ஜீவிக்க வேண்டுமாய் ப்ரார்த்திக்கிறேன்.
+இந்த மூன்று சுவடிகளிலும் கிடைத்த ச்லோகங்கள் எல்லாம் இப் பதிப்பில் வெளியாகின்றன. எந்தெந்த வரிகள் எந்தெந்த சுவடி களில் விடுபட்டுள்ளன என்ற விவரமும் கீழ்க் குறிப்பாகத் தரப்படு கிறது. மைசூர் ஓலையில் எகான अस्मिंश्च सम्प्रदाये என்கிற 57 வது ச்லோகம் இல்லை. ஆனால் த்ருடி (செல்லு அரித்த அடையாளம் ) உள்ளது. विषुवायनदर्शेषु (23) என்ற சுலோகம் ஏதோ பிழையா யிருகிக்றது. ஏனெனில் அமாவாஸ்யையில் தர்பணம் செய்வது சிஷ்டாசாரமே. விஷூ முதலானவற்றிலும் உண்டு. ஆகவே இந்த சுலோகத்தில் பிழை உள்ள தாய் தோன்றுகிறது. மேலும் ஓலை களைப் பார்க்க வேண்டும். மிகப் பழைய ஓலையை அச்சிட வாய்ப்பு ஏற்பட்டது. இக்காலத்தில் வடமொழியறிந்தவர்கள் -- அருகி வருவதால் எல்லோரும் இதன் கருத்தை அறிய தமிழில் மொழி பெயர்ப்பு செய்துள்ளேன். பிழை ஏதேனுமிருப்பின் க்ஷமித் தருளவும். இதை அனுஸரித்து ஸத்ஸம்ப்ரதாயத்தில் நெறியுடன் இருந்து உஜ்ஜீவிக்க வேண்டுமாய் ப்ரார்த்திக்கிறேன்.
 அடியேன் ராமானுஜதாஸன் போந்தவாக்கம் ராஜ கோபாலாசாரியன்
 </details>
 
@@ -51,15 +55,16 @@ The author of this text is claimed to one of the eight main sishyas of Manavala 
 <details><summary>Intro (En)</summary>
 
 INTRODUCTION 
-We are glad now to bring out in print, a short work entitled “Sanketa Patrika"" that enlists a collection of anti-sastraic self-imposi. tions of our sub-sect of Sri Vaishnavas. The present edition is based on the following three -pamphlets : 
 
-1) A palm - leaf manuscript available at Low, Mysore Oriental Library. No. 3." 
+We are glad now to bring out in print, a short work entitled “Sanketa Patrika"" that enlists a collection of anti-sastraic self-impositions of our sub-sect of Sri Vaishnavas. The present edition is based on the following three -pamphlets : 
+
+1) A palm - leaf manuscript available at Low, Mysore Oriental Library. No. 3.
 2) A palm - leaf manuscript at Sri Parakala Mutt, Mysore. ;
 3) A manuscript written in Telugu characters originating from the En family of Sri Doddayacharya at chola simhapuram (Cholan'gipuram). 
 
-Of these three, the first two are incomplete and do not contain any reference to the author. The third one reveals tbat its author is one Sri Devaraja (alias Erumbi Appa), son of one Sri Saranyacharya, one of the eight Dig-gajas of Sri Manavala Mamuni. In fact, this manuscript includes another work of the same anthor, entitled Amrta Phalavalli Sata kam: 
+Of these three, the first two are incomplete and do not contain any reference to the author. The third one reveals that its author is one Sri Devaraja (alias Erumbi Appa), son of one Sri Saranyacharya, one of the eight Dig-gajas of Sri Manavala Mamuni. In fact, this manuscript includes another work of the same anthor, entitled Amrta-Phalavalli-Satakam: 
 
-The present text includes all the verses in. these three originals, together with the foot. notes explaining which lines are omitted in which of these originals 
+The present text includes all the verses in these three originals, together with the foot-notes explaining which lines are omitted in which of these originals 
 
 -Pondavakkam Rajagopalacharyar 
 </details>
@@ -659,7 +664,10 @@ _आचार्य-हदये_ तथा ॥ ३८ ॥
 यः पठेत् स पुमान् लोके  
 सर्वान् कामान अवाप्नुयात् ॥ ६ ॥ 
 
+<details><summary>द्राविडी</summary>
+
 எறும்பி அப்பா என்று பிரஸித்தரான தேவராஜன் என்பவரால் தொகுத்துக் கூறப்பட்ட இந்த ஸமயாசார பத்திரிகையை எவர் படிக்கிறார்களோ அவர்கள் எல்லா பலன்களையும் அடைவார்கள். 
+</details>
 
 इत्थं देवराजापरनामधेयेन एरुम्बि-अप्पाख्येन कृता समयाचारपत्रिका सम्पूर्णा 
  
