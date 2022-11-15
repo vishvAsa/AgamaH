@@ -19,6 +19,9 @@ unicode_script = "devanagari"
 > -ravilochanaH
 </details>
 
+### आचार्यदीक्षा
+समाश्रयणदातॄणां विशिष्टदीक्षा भवति। तया व्यक्तिर् वा कुलम् अपि वा ऽऽचार्यपदम् आरोप्यत इति केचित्। 
+
 ## भाष्यकृतः
 - From the 74 simhasanadhipathis, he selected four namely, Nadathur Azhwan, Kidambi Acchaan (प्रणतार्तिहरः), Thirukkurugaip piran Pillan (tAtAchArya's son) and Mudali Andan, gave them the Sri Bhashya kosha and instructed them to do Sri Bhashya pravachanam thereby making them Sri bhashya simhasanadhipathis.
 
@@ -27,4 +30,9 @@ unicode_script = "devanagari"
 
 Andavans - Srinivasa Ramanuja Maha Desikan …→ PeriAndavan(25-2-1801 to 1884-feb) →  Srinivasa Raghavachariar (chinnAndavan-Karthigai Magham) lived from 1828 to 1894 → KadanthEthi Andavan Sadhavadhani Varadha Vedanthachar (Avani-Moolam) -(1829 to 1909)
 
+## दक्षिणकलार्याः
+Pillai Lokacharya → Manavala Mamuni →   Vanamamalai Jeeyar, Paravasthu Bhattar Piran Jeeyar, Tiruvengada Jeeyar, Koil Kandhaadai Annan, Prathivadhi Bhayankaram Annan (वेदान्तदेशिकात्मजस्यापि श्रीभाष्यशिष्यः), Erumbi Appaa, Appillai, and Appillan
 
+
+### श्रीरङ्ग-ग्रहणम्
+- रामानुज एव विषभिक्षां लेभे श्रीरङ्गे। तन्मृत्योः परं तच्छिष्याश् चिताः 

@@ -12,7 +12,7 @@ title = "दक्षिणकलार्य-समयाचार-पत्र
 <details><summary>परिचयः</summary>
 
 - The author of this text is claimed to one of the eight main sishyas of Manavala mamuni, erumbiyappa.
-- The text is considered authoritative in certain inflential AchArya-s / institutions. (Going by trusted communication with people associated with tirumalai pedda-jIyar maTha and yatirAja-maTha.)
+- The text is considered authoritative in certain inflential traditions. (Going by trusted communication with people associated with tirumalai pedda-jIyar maTha and yatirAja-maTha.)
 - Some doubt the attribution to Erumbiappa. He said to be quite pro-varNAshrama dharma in one of his other works. There is supposedly a text called Sampradaya Chandrika attributed to Erumbiappa that criticises the practice of Varnashrama Dharma by Prapannas.
 </details>
 
