@@ -17,7 +17,7 @@ title = "दक्षिणकलार्य-समयाचार-पत्र
   - "अस्याः पत्रिकाया अवलोकनेन प्रायः अस्माकम् आचार्यपादैः इयं पूर्णप्रमाणत्वेन नाङ्गीकृतेति मन्ये । नाम, देवराजाचार्यैः प्रणीतेत्येव न स्वीकृता भवति प्रायः । यद्यप्यङ्गीकृता तर्हि धर्मसूक्ष्मविषयाणां जागरूकतया ग्रहणम् आवश्यकम् । इतः पूर्वमस्या विषये न श्रुतवानहमपि । " इति यतिराजमठशिष्यः कश्चन। 
   - Dhanurdasa Ramanuja Jeeyar Swamy in a lecture on June 12 2022 speculated that followers of Yadavaprakasa wrote this book and attributed it to Erumbiappa. 
     - Yadavaprakasa lived at ramanujas time. His followers were not alive even at desikas time. Erumbiyappa lived after MM. So, this theory is not credible.
-    - Yet, the jIyar's effort at denying its legitimacy in public is notable. He is atypical - insists on karma and anuShThAnams.
+    - Yet, the jIyar's effort at denying its legitimacy in public is notable. He is atypical of tenkalais - insists on karma and anuShThAnams.
   - He said to be quite pro-varNAshrama dharma in one of his other works. There is supposedly a text called Sampradaya Chandrika attributed to Erumbiappa that criticises the practice of Varnashrama Dharma by Prapannas.
 </details>
 
