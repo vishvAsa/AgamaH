@@ -9,9 +9,19 @@ unicode_script = "devanagari"
 काञ्चीपूर्ण इति वैष्यसिद्धो देवराजसेवको ऽप्य् उपाकरोद् रामानुजम्।
 
 ### उत्तराधिकारी
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
 - Most probable (Vadakalai) view - pillan was named successor.
 - Per another T tradition parasara bhattar was made leader after ramanuja.
-- As per one T tradition (Guru-parampara), Ramanuja's cousin Embar succeeded him as the leader of Shrivaishnavas, followed by Parasara Bhattar. (Some say embar predeceased ramanuja. While some hold him to be 4 yrs younger and that he attained vaikuntha 4 yrs after.. that both lived 120 yrs).
+- As per one T tradition (Guru-parampara), Ramanuja's cousin Embar succeeded him as the leader of Shrivaishnavas, followed by Parasara Bhattar.
+
+Vijay read an article which made the following points:
+
+- Embar was 8 years younger than Ramanujar making him 113 at the time of Ramanuja's death. According to the  Tirumudi Adaivu of Appillai, Embar lived only until the age of 105 making it impossible for him to succeed Ramanuja.
+- Bhattar lived for 28 years (according to Idu, see below) and would have died 47 years before Ramanuja died, and 39 years before Embar died.
+- Idu 36000 on Tiruvaymozhi 32.10 says that immediately after explaining this verse to his sons, Kurattazhvan taught the Ashtaksharam to both on grounds that life is short and death is unpredictable. Shortly after, Parasara Bhattar died at age 28.
+- It appears unlikely that when both Ramanuja and Kurattazhvan were alive, Parasara Bhattar could have had Embar as acharya.
+</details>
 
 
 
@@ -75,3 +85,7 @@ Acharya-hrdayam was composed by lokAchArya's younger brother.
 > This work was the start of an open revolt against vaidikas among vaishnavas. Eg. "You guys follow Rishi gotras . We belong to azhvaar gotra .."  
 > इति रविलोचनः। 
 
+## समकालीनाः समाश्रयणदातारः
+> A previous pontiff (श्रीमुश्नम् आण्डवन् इति प्रसिद्धः श्रीमद् रङ्गरमानुज महादेशिकन्) of Andavan Ashramam has recommended that svayamacharya families try their best to continue the samasrayana practice within the family even if it may be suboptimal for as long as possible and only come to Him for prapatti. 
+> 
+> - vijayaH
