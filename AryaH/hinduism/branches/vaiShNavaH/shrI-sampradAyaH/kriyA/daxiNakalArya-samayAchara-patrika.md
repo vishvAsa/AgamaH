@@ -7,12 +7,12 @@ title = "दक्षिणकलार्य-समयाचार-पत्र
 
 मूलम् [अत्र](https://archive.org/details/Vaishvadeva/daxiNakalArya-samayAchara-patrika/) । 
 
-<u>(नैतद् उत्तरकलार्यैर् अङ्गीक्रियते॥ संस्कृतभागः परिष्कृततरः, न द्राविडः। शोधनानि सूच्यन्ताम्।)</u>
+<u>(नैतद् उत्तरकलार्यैर् अङ्गीक्रियते, न च कैश्चिद् दक्षिणकलार्यैः॥ संस्कृतभागः परिष्कृततरः, न द्राविडः। शोधनानि सूच्यन्ताम्।)</u>
 
 <details><summary>परिचयः</summary>
 
 - The author of this text is claimed to one of the eight main sishyas of Manavala mamuni, Erumbiyappa.
-- The text is considered authoritative in certain inflential traditions. (Going by trusted communication with people associated with tirumalai pedda-jIyar maTha.)
+- The text is considered authoritative in certain traditions. (Going by trusted communication with people associated with tirumalai pedda-jIyar maTha.)
 - Some doubt the attribution to Erumbiappa.
   - "अस्याः पत्रिकाया अवलोकनेन प्रायः अस्माकम् आचार्यपादैः इयं पूर्णप्रमाणत्वेन नाङ्गीकृतेति मन्ये । नाम, देवराजाचार्यैः प्रणीतेत्येव न स्वीकृता भवति प्रायः । यद्यप्यङ्गीकृता तर्हि धर्मसूक्ष्मविषयाणां जागरूकतया ग्रहणम् आवश्यकम् । इतः पूर्वमस्या विषये न श्रुतवानहमपि । " इति यतिराजमठशिष्यः कश्चन। 
   - Dhanurdasa Ramanuja Jeeyar Swamy in a lecture on June 12 2022 speculated that followers of Yadavaprakasa wrote this book and attributed it to Erumbiappa. 
