@@ -8,6 +8,15 @@ unicode_script = "devanagari"
 
 काञ्चीपूर्ण इति वैष्यसिद्धो देवराजसेवको ऽप्य् उपाकरोद् रामानुजम्।
 
+### उत्तराधिकारी
+- Most probable (Vadakalai) view - pillan was named successor.
+- Per another T tradition parasara bhattar was made leader after ramanuja.
+- As per one T tradition (Guru-parampara), Ramanuja's cousin Embar succeeded him as the leader of Shrivaishnavas, followed by Parasara Bhattar. (Some say embar predeceased ramanuja. While some hold him to be 4 yrs younger and that he attained vaikuntha 4 yrs after.. that both lived 120 yrs).
+
+
+
+
+
 ## समाश्रयणदातारः
 - He nominated 74 simhasanadhipathis and ordained them to do pancha samskaram to sishyas at their places.
 
@@ -15,7 +24,7 @@ unicode_script = "devanagari"
 
 > That rule regarding the 5 gotras belonging to kanva shakha of sukla yajur Veda is mentioned in jayakhya. And it is abt adhikara to touch moola vigraha in temple. Ramanuja, tatarya etc don't claim such rights in temples governed by jayakhya (eg. kAnchi varadarAja).
 >
-> There r other samhitas where any brahmana who has underwent pancaratra diksha is allowed certain rights.. and iirc sattvata allows any brahmana with diksha to become acharya. So madhva and Sri vaishnava acharyas use this rule.
+> There are other samhitas where any brahmana who has underwent pancaratra diksha is allowed certain rights.. and iirc sattvata allows any brahmana with diksha to become acharya. So madhva and Sri vaishnava acharyas use this rule.
 >
 > -ravilochanaH
 </details>
@@ -26,20 +35,43 @@ unicode_script = "devanagari"
 ## भाष्य-प्रचारकाः
 - From the 74 simhasanadhipathis, he selected four, gave them the Sri Bhashya kosha and instructed them to do Sri Bhashya pravachanam thereby making them Sri bhashya simhasanadhipathis.
 
+- Thirukkurugaip piran Pillan (tAtAchArya's son, R's maternal cousin).
+  - Ubhaya Vedanta simhasanadhipati. The oldest (and perhaps only contemporary) text on ramanuja calls pillaan alone as UVS.
+  - Essentially nominated successor by rAmAnuja as per ravilochana. 
+  - R asked him (presumably stronger in tamiL) to compose bhagavad-viShayam on divyaprabandha. No such commentary existed before piLLan.
 - naDAtUr ALvan
-- Kidambi Acchaan (प्रणतार्तिहरः, Ubhaya for SB and Rahasyam),
-- Thirukkurugaip piran Pillan (tAtAchArya's son,  Ubhaya for SB and Bhagavad Vishayam)
-  - R asked him (presumably stronger in tamiL) to compose bhagavad-viShayam on divyaprabandha. 
+- Kidambi Acchaan (प्रणतार्तिहरः). He was specially taught the rahasyas as per vijay.
 - Mudali Andan.
 
 ## वेदान्तदेशिक-शाखा
-**रामानुजः** → आत्रेयः प्रणतार्तिहरः … → आत्रेय-रामानुजः आपुल्लार् → वेदान्तदेशिको **वेङ्कटनाथः** → तत्पुत्रः कुमारवरदः, परकालयतिः → नडातूरु-वात्स्य-घटिकाशतकः … → अहोबिलाचार्यः → पञ्चमत-भञ्जन-ताताचार्यः … → आत्रेय-गोपालार्यः मुनि-त्रय-सम्प्रदाय-प्रवर्तकः → Thirukkudanthai Desika → Srinivasa Ramanuja Maha Desikan (Andavan Ashrama), Annarya, Vangipuram Vedhantha Ramanuja Maha desikan (Aandikadu Swamy in Srirangam)
+- **रामानुजः** → आत्रेयः प्रणतार्तिहरः → … → आत्रेय-रामानुजः आपुल्लार् किडाम्बिकुलः → वेदान्तदेशिको **वेङ्कटनाथः** → तत्पुत्रः कुमारवरदः, परकालयतिः → नडातूरु-वात्स्य-घटिकाशतकः … → अहोबिलाचार्यः → पञ्चमत-भञ्जन-ताताचार्यः … → आत्रेय-गोपालार्यः मुनि-त्रय-सम्प्रदाय-प्रवर्तकः → Thirukkudanthai Desika → Srinivasa Ramanuja Maha Desikan (Andavan Ashrama), Annarya, Vangipuram Vedhantha Ramanuja Maha desikan (Aandikadu Swamy in Srirangam)
+
+- Sribhashya Guru Parampara upto VD goes R->Pillaan->Engalazhvan -> Nadadur Ammal (great-grandson of Nadadur Alvan - another Sribhashya simhasanadhipati) -> Kidambi Appullar -> VD
 
 Andavans - Srinivasa Ramanuja Maha Desikan …→ PeriAndavan(25-2-1801 to 1884-feb) →  Srinivasa Raghavachariar (chinnAndavan-Karthigai Magham) lived from 1828 to 1894 → KadanthEthi Andavan Sadhavadhani Varadha Vedanthachar (Avani-Moolam) -(1829 to 1909)
 
 ## दक्षिणकलार्याः
+
 रामानुजः → श्रीरङ्गे ऽवशिष्टाः …→ Pillai Lokacharya → Manavala Mamuni →   VanamamAlai jIyar, paravastu-bhaTTa Piran jIyar, tiruvenkaTa jIyar, kovil kandaaDai aNNan, prathivadi-bhayankara aNNan (वेदान्तदेशिकात्मजस्यापि श्रीभाष्यशिष्यः), Erumbi Appa, Appillai, and Appillan
 
+<details><summary>श्रीरङ्ग-ग्रहणम्</summary>
 
-### श्रीरङ्ग-ग्रहणम्
-- रामानुज एव विषभिक्षां लेभे श्रीरङ्गे। तन्मृत्योः परं तच्छिष्याश् चिताः 
+- रामानुज एव विषभिक्षां लेभे श्रीरङ्गे। 
+- Of the 4 bhAShya-simhAsanAdipati-s, three left srirangam soon after.
+- MudaliyaNDAn seems to have lived there but his descendants were removed from shrIrangam temple management as we see. His descendant, one thozhappar (not the vaidika sarvabhauma) has been shown as a jealous guy in the tenkalai hagiography.
+
+> (Pillan's disciple) Engalazhvan did not have any children. But engalaazhvaan vamsham is there in srirangam. Srirangam guys usurped this and parashara bhatta tirumaligais.
+> 
+> It has happened so recently as well. Annan tirumaligai did not have anyone in main lineage by the late 1800s or early 1900s. Srirangam sishyas selected some other male member from extended family branch/ sagotra, installed them as adopted son of previous acharya. He was not adopted by the acharya himself. But made his son by sishyas after the vaikuntha prapti of the earlier one.
+> 
+> - रविलोचनः
+</details>
+
+
+
+### कृतिषु व्यावृत्तिः
+Acharya-hrdayam was composed by lokAchArya's younger brother. 
+
+> This work was the start of an open revolt against vaidikas among vaishnavas. Eg. "You guys follow Rishi gotras . We belong to azhvaar gotra .."  
+> इति रविलोचनः। 
+
