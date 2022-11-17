@@ -30,15 +30,6 @@ Vijay read an article which made the following points:
 ## समाश्रयणदातारः
 - He nominated 74 simhasanadhipathis and ordained them to do pancha samskaram to sishyas at their places.
 
-<details><summary>पाञ्चरात्र-क्रियाधिकारः</summary>
-
-> That rule regarding the 5 gotras belonging to kanva shakha of sukla yajur Veda is mentioned in jayakhya. And it is abt adhikara to touch moola vigraha in temple. Ramanuja, tatarya etc don't claim such rights in temples governed by jayakhya (eg. kAnchi varadarAja).
->
-> There are other samhitas where any brahmana who has underwent pancaratra diksha is allowed certain rights.. and iirc sattvata allows any brahmana with diksha to become acharya. So madhva and Sri vaishnava acharyas use this rule.
->
-> -ravilochanaH
-</details>
-
 ### आचार्यदीक्षा
 समाश्रयणदातॄणां विशिष्टदीक्षा भवति। तया व्यक्तिर् वा कुलम् अपि वा ऽऽचार्यपदम् आरोप्यत इति केचित्। 
 
@@ -84,8 +75,3 @@ Acharya-hrdayam was composed by lokAchArya's younger brother.
 
 > This work was the start of an open revolt against vaidikas among vaishnavas. Eg. "You guys follow Rishi gotras . We belong to azhvaar gotra .."  
 > इति रविलोचनः। 
-
-## समकालीनाः समाश्रयणदातारः
-> A previous pontiff (श्रीमुश्नम् आण्डवन् इति प्रसिद्धः श्रीमद् रङ्गरमानुज महादेशिकन्) of Andavan Ashramam has recommended that svayamacharya families try their best to continue the samasrayana practice within the family even if it may be suboptimal for as long as possible and only come to Him for prapatti. 
-> 
-> - vijayaH
