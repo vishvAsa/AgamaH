@@ -23,6 +23,10 @@ The white clay that we purchase from the shops or from temples nearby comes majo
 >
 > - Hema
 
+> turmeric powder in chunnam (lime) which will give good red color and dry it out completely.
+> 
+> - shailaja
+
 > our home made one is deep red and good fragrance with pachai karpooram. ... In fact to get maroon red they add a flower called thaazham poo. If you look into the YouTube video I shared, that Matushri adds a Ennai Vengaram to get the maroon colour.
 > 
 > इति हरीशादयः
