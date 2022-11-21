@@ -20,12 +20,33 @@ title = "मन्त्राः"
 - "नारञ्च मोक्षणं पुण्यम्, अयनं ज्ञानमीप्सितम् । तयोर्ज्ञानं भवेद् यस्मात् सोऽयं नारायणः स्मृतः"। अस्मिन् पक्षे नारा꣡यण इति।
 </details>
 
+<details><summary>मूलम् (द्रष्टुं नोद्यम्)</summary>
+
+- नारायणाथर्वशीर्षोपनिषत्
+
+> Narayana atharvashira is  also called narayana upanishad and associated with Krishna YV. It has an exalted place in vaikhanasa paddhatis and there r reasons to believe that it is a vaikhanasa text which has become very popular later.   
+> 
+> Interestingly, it is the Vedic text which still survives in Bali. No other upanishad survives there.. nor any samhita
+> 
+> - ravilochanaH
+</details>
+
+
+
 
 ## द्वयमन्त्रः
 श्रीमन्नारायणचर॒णौ श॑र॒णम् प्रप॑द्ये। श्रीम॑ते नाराय॒णाय॒ नमः॑॥
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>स्वरे विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 - शर॒णम् इति॑ 
   - काठकस्वराङ्कनेनोज्ज्वलः - अ॑त्र युच्प्रत्ययः॑ स्यात्। "ण्यासश्रन्थो युच्" इ॑ति।
+</details>
+
+<details><summary>स्रोतः (द्रष्टुं नोद्यम्)</summary>
+
+> Source claimed - Kathavalli. But the katha brahmana is not found in full.
+> 
+> Interestingly there is a later upanishad called dvayopanishad. (Later based on absence in a list in muktikopaniShat.) But it does not give the mantra. It only mentions abt the mantra and it's characteristics. 
+> 
 </details>
