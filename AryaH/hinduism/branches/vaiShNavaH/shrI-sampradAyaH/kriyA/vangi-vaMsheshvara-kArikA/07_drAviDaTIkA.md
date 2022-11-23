@@ -3,6 +3,7 @@ title = "०७ द्राविडटीका"
 
 +++
 मूलम् [अत्र](https://archive.org/details/Vaishvadeva/vangi-vaMsheshvara-kArikA) ।
+अपरिष्कृता। 
 
 3 
 ஸ்ரீ: ஸமர்ப்பணம் 
