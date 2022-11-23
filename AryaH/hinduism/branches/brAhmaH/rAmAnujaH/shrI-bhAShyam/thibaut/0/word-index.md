@@ -1,5 +1,4 @@
 +++
-full_title = ""
 title = "Word Index"
 
 +++
