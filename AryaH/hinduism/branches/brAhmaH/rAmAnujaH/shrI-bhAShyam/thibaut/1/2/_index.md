@@ -1,11 +1,13 @@
 +++
 full_title = ""
-title = "01 None"
+title = "+2"
 
 +++
 
 
 
+
+# SECOND PĀDA.
 
 THE contents of the first Pāda may be summed up as follows:--It has been shown that a person who has read the text of the Veda; who further, through the study of the Karma-Mīmāṁsa, has acquired a full knowledge of the nature of (sacrificial and similar) works, and has recognised that the fruits of such works are limited and non-permanent; in whom there has arisen the desire for the highest aim of man, i.e. Release, which, as he has come to know in the course of reading the Vedānta portions of scripture, is effected by meditation on the nature of Brahman--such meditation having an infinite and permanent result; who has convinced himself that words are capable of conveying information about accomplished things (not only about things to be done), and has arrived at the conclusion that the Vedānta-texts are an authoritative means of knowledge with regard to the highest Brahman;--that such a person, we say, should begin the study of the Śārīraka-Mīmāṁsā which indicates the method how Brahman is to be known through the Vedānta-texts.
 

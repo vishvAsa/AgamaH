@@ -4,6 +4,7 @@ title = "Word Index"
 
 +++
 
+# INDEX OF SANSKRIT WORDS
 
 aṁśa, part, 88, 191, 559, 619 sq.
 
