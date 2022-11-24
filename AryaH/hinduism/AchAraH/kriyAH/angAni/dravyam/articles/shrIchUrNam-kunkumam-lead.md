@@ -2,7 +2,7 @@
 title = "shrIchUrNam-kunkumam-lead"
 +++
 
-Source: VB (a familiar friend), 2016. Location: Santa Clara CA and India.
+Source: Vijay B (a familiar friend), 2016. Location: Santa Clara CA and India.
 
 My son had lead poison from yellow-srichUrNam that was store bought (sent from India). 
 
