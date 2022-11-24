@@ -8,21 +8,25 @@ title = "शास्त्र-विरोध-समयाचार-पत्�
 
 मूलम् [अत्र](https://archive.org/details/Vaishvadeva/daxiNakalArya-samayAchara-patrika/) । 
 
-<u>(नैतद् उत्तरकलार्यैर् अङ्गीक्रियते, न च कैश्चिद् दक्षिणकलार्यैः॥ संस्कृतभागः परिष्कृततरः, न द्राविडः। शोधनानि सूच्यन्ताम्।)</u>
+<u>(नैतद् उत्तरकलार्यैर् अङ्गीक्रियते, न च बहुभिर् दक्षिणकलार्यैः॥ संस्कृतभागः परिष्कृततरः, न द्राविडः। शोधनानि सूच्यन्ताम्।)</u>
 
-<details><summary>परिचयः</summary>
+<details><summary>Misattribution</summary>
 
 - The author of this text is claimed to one of the eight main sishyas of Manavala mamuni, Erumbiyappa.
-- The text is considered authoritative in certain traditions. (Going by trusted communication with people associated with tirumalai pedda-jIyar maTha.)
 
-Some doubt the attribution to Erumbiappa.
+Causes for doubt on attribution to Erumbiappa.
 
+- Vilakshana Mokshadhikari Nirnaya by Erumbiappa clearly conflicts with the recommendation here against sAvitrI japa.
 - "अस्याः पत्रिकाया अवलोकनेन प्रायः अस्माकम् आचार्यपादैः इयं पूर्णप्रमाणत्वेन नाङ्गीकृतेति मन्ये । नाम, देवराजाचार्यैः प्रणीतेत्येव न स्वीकृता भवति प्रायः । यद्यप्यङ्गीकृता तर्हि धर्मसूक्ष्मविषयाणां जागरूकतया ग्रहणम् आवश्यकम् । इतः पूर्वमस्या विषये न श्रुतवानहमपि । " इति यतिराजमठशिष्यः कश्चन। 
 - "When a Sri vsishnava asked Sri Puthur swamy (Puthur Sudharsanar Sri. U. Ve. Krishnaswami Iyengar) about this gutter piece in Sri Vaishnava Sudharsanam கேள்வி-பதில் during 90s, he exposed the hidden agenda of some fanatics & vehemently condemned this booklet & planting of this fictitious manuscript in oriental libraries. Just a comparison of writing style of swamy Sri Erumbiappa in Vilakshans mokshadhikari nirnayam & it's contents with the above said fake narrative will tell a lot about the inner crookedness of the masterminds of some ill-conceived motives"
 - Dhanurdasa Ramanuja Jeeyar Swamy in a lecture on June 12 2022 speculated that followers of Yadavaprakasa wrote this book and attributed it to Erumbiappa. 
   - Yadavaprakasa lived at ramanujas time. His followers were not alive even at desikas time. Erumbiyappa lived after MM. So, this theory is not credible.
   - Yet, the jIyar's effort at denying its legitimacy in public is notable. He is atypical of tenkalais - insists on karma and anuShThAnams.
-- He said to be quite pro-varNAshrama dharma in one of his other works. There is supposedly a text called Sampradaya Chandrika attributed to Erumbiappa that criticises the practice of Varnashrama Dharma by Prapannas.
+- He said to be quite pro-varNAshrama dharma in one of his other works.
+
+Other claimed misattributions:
+
+There is supposedly a text called Sampradaya Chandrika attributed to Erumbiappa that criticises the practice of Varnashrama Dharma by Prapannas.
 </details>
 
 
