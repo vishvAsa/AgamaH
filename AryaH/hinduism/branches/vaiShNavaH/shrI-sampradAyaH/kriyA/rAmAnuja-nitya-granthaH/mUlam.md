@@ -1,13 +1,50 @@
 +++
-title = "रामानुज-नित्य-ग्रन्थः"
+title = "mūlam"
 
 +++
+<details><summary>English</summary>
+
+I. The Purpose of the Nityam: The Daily Practice of the Person Who Has Already Taken Refuge 
+</details>
+
+
 अथ परमैकान्तिनो भगवदाराधनप्रयोगं वक्ष्ये ।
 
-भगवत्कैङ्कर्यैकरतिः॥ 
+<details><summary>English</summary>
 
-## स्नानम्
-परमैकान्ती भूत्वा, 
+I will now set forth (the performance of) the adoration of the Lord by the person single-mindedly focused on the Highest[^7]. 
+
+[^7]: 
+
+    paramaikānti: “the person single-mindedly focused on the Highest” or perhaps, “the highest single minded person.” 
+
+    Krishna Ayyangar Swami offers this definition of the paramaikānti: 
+
+    > who does what is to be done (satkṛtya) purely from enjoyment, is the one solely focused on the highest and considered the best among the great devotees 
+    >
+    >> yas tu bhogatayā viṣṇoḥ  
+    >> satkṛtyaṃ kurute sadā  
+    >> sa eva paramaikāntī  
+    >> mahābhāgavatottamaḥ) 
+    
+    (2010: 15). 
+
+    He also offers two lower categories: 
+
+    - the Vaiṣṇavas (devotees of Viṣṇu who do what is to be done [nitya] and occasional [naimittika] as their means to pleasing the Lord) and 
+    - Vaiṣṇavottamas (the highest devotees of Viṣṇu who single-mindedly obey the commands of the Lord and do what is required).
+</details>
+
+
+<details><summary>English</summary>
+
+Part One: Routine Preparations, Recollection of the Act of Taking Refuge, and Interior Preparations 
+</details>
+
+
+भगवत्कैङ्कर्यैकरतिः, परमैकान्ती भूत्वा
+
+## स्नानम् 
 
 > "भगवानेव स्वशेषभूतेन मया  
 > स्वकीयैश् च देहेन्द्रियान्तःकरणैः, स्वकीयैर् एव कल्याणतमैर् औपचारिक-सांस्पर्शिकाभ्य्-अवहारिकैः भोगैः,  
@@ -84,9 +121,9 @@ title = "रामानुज-नित्य-ग्रन्थः"
 तां शोषणादिभिः विशोध्य,  
 
 ### शरणागतिः
-गुरुपरम्परया परम-गुरुं भगवन्तम् उपगम्य,  
+गुरु-परम्परया परम-गुरुं भगवन्तम् उपगम्य,  
 तम् एव प्राप्यत्वेन, प्रापकत्वेन, अनिष्ट-निवारकत्वेन  
-यथावस्थित-स्वरूप-रूप-गुण-विभूति-लीलोपकरण-विस्तारम् अनुसन्धाय,  
+यथाऽवस्थित-स्वरूप-रूप-गुण-विभूति-लीलोपकरण-विस्तारम् अनुसन्धाय,  
 तम् एव शरणम् उपगच्छेत् अखिल-हेयेत्यादिना ॥
 
 एवं शरणम् उपगम्य, तत्-प्रसादोपबृंहित-मनोवृत्तिः,  
