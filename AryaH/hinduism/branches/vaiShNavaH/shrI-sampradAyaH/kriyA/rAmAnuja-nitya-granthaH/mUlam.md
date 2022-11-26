@@ -8,7 +8,16 @@ I. The Purpose of the Nityam: The Daily Practice of the Person Who Has Already T
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथ परमैकान्तिनो भगवद्-आराधन-प्रयोगं वक्ष्ये ।
+</details>
+
+<details><summary>मूलम्</summary>
+
 अथ परमैकान्तिनो भगवदाराधनप्रयोगं वक्ष्ये ।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -42,51 +51,242 @@ Part One: Routine Preparations, Recollection of the Act of Taking Refuge, and In
 </details>
 
 
-भगवत्कैङ्कर्यैकरतिः, परमैकान्ती भूत्वा
+भगवत्कैङ्कर्यैकरतिः,
 
 ## स्नानम् 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+परमैकान्ती भूत्वा
+</details>
+
+<details><summary>मूलम्</summary>
+
+परमैकान्ती भूत्वा
+</details>
+
+
+<details><summary>English</summary>
+
+After he has become a person whose sole pleasure lies in service of the Lord and who is single-mindedly focused on the Highest, 
+</details>
+
 
 > "भगवानेव स्वशेषभूतेन मया  
-> स्वकीयैश् च देहेन्द्रियान्तःकरणैः, स्वकीयैर् एव कल्याणतमैर् औपचारिक-सांस्पर्शिकाभ्य्-अवहारिकैः भोगैः,  
+> स्वकीयैश् च देहेन्द्रियान्तःकरणैः,  
+> स्वकीयैर् एव कल्याणतमैर् औपचारिक-सांस्पर्शिकाभ्य्-अवहारिकैः भोगैः,  
 > अखिल-परिजन-परिच्छदान्वितं स्वात्मानं **प्रीतं कारयितुम्**  
 > **उपक्रमते**" 
 
-इत्य् अनुसन्धाय, तीर्थे गत्वा,  
+इत्य् अनुसन्धाय, 
+
+<details><summary>English</summary>
+
+then he meditates, 
+
+> “The Lord alone now begins,  
+> by means of me who belongs entirely to Him,9  
+> to please His own self along with His whole retinue and insignia,  
+> by means of His own most auspicious enjoyments  
+> that are honorific, tangible, and pertaining to food, etc.”
+</details>
+
+<details><summary>English</summary>
+
+- **aupacārika**, honors such as guest-water (ārghya), etc.;
+- **sāṃsparśika**, items that appeal to the senses, dhūpa, etc.; and 
+- **ābhyavahārika**, food. 
+
+Rastelli: 
+
+> “The Lakṣmītantra, which differentiates four categories of bhogas, defines sāmsparśika as follows: 
+> 
+>> ‘Objects of enjoyment, which are gentle, pleasing, and soft to the touch, such as water used for washing the feet, arghya, and the throne, (all these) that satisfy the Unborn with touch are sāṃsparśikas’.” 
+> 
+> Rastelli adds, 
+> 
+>> “Auspicious objects of enjoyment that continually satisfy (God) with (their) taste such as prāpaṇa (i.e., various food articles…), water for the (ritual) sipping, etc., are ābhyavahārikas” (2005: 123n28). 
+> 
+> Esnoul: 
+> 
+> > “des honneurs, des onctions et de la nourriture” (1972: 57). 
+> 
+> The same terminology recurs in Rāmānuja’s Gītābhāṣya, for example, at 9.34 where Rāmānuja explains, 
+> 
+>>  “‘Sacrificing’ is the behavior of the one who is completely accessory [to the Lord]. For sacrifice has the form of the presentation of all enjoyments, such as the honorific, tangible, and that which pertains to food
+>  
+>> (yajanaṃ nāma paripūrṇa-śeṣa-vṛttiḥ. aupacārika-sāṃsparśika-abhyavahārikādi-sakala-bhoga-pradānarūpo hi yāgaḥ).” 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तीर्थे गत्वा,  
 शुचौ देशे, पादौ प्रक्षाल्य,  
-आचम्य,  
+आचम्य,
+</details>
+
+<details><summary>मूलम्</summary>
+
+तीर्थे गत्वा,  
+शुचौ देशे, पादौ प्रक्षाल्य,  
+आचम्य,
+</details>
+
+<details><summary>English</summary>
+
+Then he goes to a holy stream, washes his feet at a clean spot and sips water. 
+</details>
+
 
 ### मृद्व्यवस्था
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तीरं संशोध्य,  
 शुचौ देशे मूलमन्त्रेण मृदम् आदाय,  
 द्विधा कृत्वा,  
 शोधित-तीरे निधाय,  
+</details>
 
-एकेन +अधिकभागेन देहम् अलप्रक्षालनं कृत्वा,  
+<details><summary>मूलम्</summary>
+
+तीरं संशोध्य,  
+शुचौ देशे मूलमन्त्रेण मृदम् आदाय,  
+द्विधा कृत्वा,  
+शोधित-तीरे निधाय,
+</details>
+
+<details><summary>English</summary>
+
+He purifies the bank. He places some mud on a clean spot with the root mantra,[^10] after dividing it in two and placing it on the purified bank. 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एकेन +अधिकभागेन देह-मल-प्रक्षालनं कृत्वा,  
 निमज्य, 
+</details>
 
-आचम्य, प्राणायामत्रयम् आसीनो भगवन्तं ध्यायन् कृत्वा,  
+<details><summary>मूलम्</summary>
+
+एकेन +अधिकभागेन देह-मल-प्रक्षालनं कृत्वा,  
+निमज्य, 
+</details>
+
+<details><summary>English</summary>
+
+With one additional [or: larger] portion, he washes away the impurities of his body. He bathes 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आचम्य,  
+प्राणायामत्रयम् आसीनो भगवन्तं ध्यायन् कृत्वा,  
 अन्यं मृद्-भागम् आदाय,  
-वामपाणि-तले त्रिधा कृत्वा,  
+वाम-पाणि-तले त्रिधा कृत्वा,  
 पृथक् पृथक् संप्रोक्ष्य,  
 अभिमन्त्र्य, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+आचम्य,  
+प्राणायामत्रयम् आसीनो भगवन्तं ध्यायन् कृत्वा,  
+अन्यं मृद्-भागम् आदाय,  
+वाम-पाणि-तले त्रिधा कृत्वा,  
+पृथक् पृथक् संप्रोक्ष्य,  
+अभिमन्त्र्य, 
+</details>
+
+<details><summary>English</summary>
+
+and sips water.  
+He sits and makes his meditation on the Lord for the length of three breath-controls.  
+Then he takes the other portion of mud and divides it into three parts in his left hand.  
+He sprinkles and blesses each with a mantra.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एकेन दिग्बन्धनम् अस्त्रमन्त्रेण कुर्यात्,  
 अन्येन तीर्थस्य पीठम्,  
 इतरेण गात्रलेपनम् ॥
+</details>
+
+<details><summary>मूलम्</summary>
+
+एकेन दिग्बन्धनम् अस्त्रमन्त्रेण कुर्यात्,  
+अन्येन तीर्थस्य पीठम्,  
+इतरेण गात्रलेपनम् ॥
+</details>
+
+<details><summary>English</summary>
+
+With the first, let him bind the directions with the protection mantra[^11];  
+with the second, let him smear his body;  
+with the third, let him make his seat at the holy stream.
+</details>
+
 
 ### तीर्थपूजा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ततः पाणी प्रक्षाल्य,  
-उदकाञ्जलिम् आदाय,  
-तीर्थस्य अर्घ्यार्थम् उत्क्षिप्य,  
+उदकाञ्जलिम् आदाय तीर्थस्य,  
+अर्घ्यार्थम् उत्क्षिप्य,  
 भगवद्-वाम-पादांगुष्ठ-विनिस्सृत-गङ्गाजलं  
 तीर्थे सङ्कल्पितपीठे आवाह्य,  
+(अर्घ्यं दत्त्वा)  
+मूलमन्त्रेण अभिमन्त्र्य,
+</details>
+
+<details><summary>मूलम्</summary>
+
+ततः पाणी प्रक्षाल्य,  
+उदकाञ्जलिम् आदाय तीर्थस्य,  
+अर्घ्यार्थम् उत्क्षिप्य,  
+भगवद्-वाम-पादांगुष्ठ-विनिस्सृत-गङ्गाजलं  
+तीर्थे सङ्कल्पितपीठे आवाह्य,  
+(अर्घ्यं दत्त्वा)  
+मूलमन्त्रेण अभिमन्त्र्य,
+</details>
+
+<details><summary>English</summary>
+
+After washing his hands,  
+he takes a handful of water  
+and scatters guest-water taken from a holy stream.  
+He invokes onto the prepared seat some Gaṇgā-water sprung from the Lord’s left big toe.  
+After giving guest-water and blessing it with the root mantra,
+</details>
+
 
 ### मूर्धासेकः
-मूलमन्त्रेण अभिमन्त्र्य,  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 उदकाञ्जलिम् आदाय,  
 सप्तकृत्वः अभिमन्त्र्य,  
 स्वमूर्ध्नि सिञ्चेत् ।  
 एवं त्रिः, पञ्चकृत्वः, सप्तकृत्वो वा ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+उदकाञ्जलिम् आदाय,  
+सप्तकृत्वः अभिमन्त्र्य,  
+स्वमूर्ध्नि सिञ्चेत् ।  
+एवं त्रिः, पञ्चकृत्वः, सप्तकृत्वो वा ।
+</details>
+
+<details><summary>English</summary>
+
+he takes a handful of water, sprinkles it on his head. He recites the mantra seven times; or, he may do this three or five or seven times. 
+</details>
+
 
 ### आत्मसम्प्रोक्षणम्
 दक्षिणेन पाणिना जलम् आदाय, अभिमन्त्र्य, पीत्वा,  
