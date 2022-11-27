@@ -12,15 +12,15 @@ Francis X. Clooney
 
 Rāmānuja (1017–1137) was a philosopher and theologian; a saint and mystic, a lover of God; a proponent of the harmony of Tamil and Sanskrit traditions; and a premier leader of the South Indian Hindu Śrīvaiṣṇava community and a reformer of its ritual practices. Nine works are attributed to him: 
 
-- 1) Vedārthasaṃgraha, on the right interpretation of the Upaniṣads and the right use of them in the theological and spiritual practice of the devotee; 
-- 2) the Gītābhāṣya, commentary on the Bhagavad Gītā; 
-- 3) the Śrībhāṣya, commentary on the Brahmasūtras; 
-- 4–5) the Vedāntadīpā and the Vedāntasāra (summaries of Rāmānuja’s reading the Brahmasūtras); 
+- 1) Vedārtha-saṃgraha, on the right interpretation of the Upaniṣads and the right use of them in the theological and spiritual practice of the devotee; 
+- 2) the Gītā-bhāṣya, commentary on the Bhagavad Gītā; 
+- 3) the Śrī-bhāṣya, commentary on the Brahmasūtras; 
+- 4–5) the Vedānta-dīpā and the Vedāntasāra (summaries of Rāmānuja’s reading the Brahmasūtras); 
 - (6–8) three long prose prayers of surrender to Nārāyaṇa with the Goddess Śrī—
-  - surrender to God within oneself: Śaraṇāgatigadya, 
-  - surrender at the temple: Śrīraṅgagadya, and 
-  - surrender eschatologically, in heaven: Śrīvaikuṇṭhagadya; and 
-- 9) the Nitya grantham or Nityam. 
+  - surrender to God within oneself: Śaraṇāgati-gadya, 
+  - surrender at the temple: Śrīraṅga-gadya, and 
+  - surrender eschatologically, in heaven: Śrīvaikuṇṭha-gadya; and 
+- 9) the Nitya-grantham or Nityam. 
 
 Anne-Marie Esnoul published a French translation of the Nityam in 1972. This, the last, least studied of Rāmānuja’s works, is the text translated here into English. This is, I believe, the first full English translation. 
 
@@ -140,7 +140,7 @@ atha paramaikāntino7 bhagavad-ārādhana(prayoga)ṁ vakṣye (1)
 
 
 
-II. Routine Preparations 
+
 bhagavatkaiṁkaryaikaratiḥ paramaikāntī bhūtvā 
 
 
@@ -157,42 +157,30 @@ tataḥ pāṇī prakṣālya udakāñjalim ādāya tīrthasya arghyam utkṣipy
 
 (6) dakṣiṇena pāṇinā jalam ādāya abhimantrya pītvā ācamya svātmānaṁ (sam)prokṣya pariṣicya tīrthe nimagno bhagavat-pāda-āravinda vinyasta-śirasko yāvacchakti mūlamantraṁ japitvā, 
 
-Then he takes water in his right hand, blesses it with the mantra, and drinks it, sipping. Then he sprinkles himself (scattering it around). He plunges into the holy stream, and while there, with his head placed at the lotus feet of the Lord, he recites the root mantra as many times as he can. 
-9 śvaśeṣabhūta: literally, “his remnant” or, in the sense operative in the Mīmāṃsāsūtras, “belonging entirely to him”; see Mīmāṃsāsūtras 3.3.1–7. 
-10 The mūla-mantra (in Tamil the “holy mantra” [tiru-mantra]), oṃ namo nārāyaṇāya, “Oṁ, obeisance to Nārāyaṇa.” 
-11 The astra-mantra: oṃ vīryāyāstrāya phaṭ, “Oṁ phaṭ, [obeisance to] the mighty weapon” (Esnoul 1972: 59n4; my translation). The binding of the directions may be marked by the showing of the appropriate mudrā. 
+uttīrya śukla-vastra-dharo dhr̥tottarīyaś (ca) ācamya, ūrdhvapuṇḍrāṁs tat-tan mantreṇa dhārayitvā, bhagavantam anusmr̥tya, tattanmantreṇa bhagavat paryanta-abhidhāyinā mūlamantreṇa ca jalaṁ pitvā, ācamya, prokṣya, pariṣicya, udakāñjaliṁ bhagavatpādayor nikṣipya, prāṇān āyamya, bhagavantaṁ dhyātvā, aṣṭottaraśataṁ mūlamantram āvartya, parikramya, namaskr̥tya, ādhāra-śakti-ādi-pr̥thivyantaṁ tarpayitvā, śrīvaikuṇṭha-ādi pāriṣadāntaṁ tarpayitvā, devān r̥ṣīn pitr̥̄n bhagavadātmakān dhyātvā saṁtarpya, vastraṁ śucau deśe sampīḍya, ācamya, āvāhitatīrthaṁ mūlamantreṇa ātmani samāhr̥tya, yāgabhūmiṁ gacchet. (7) 
+
+suprakṣālitapāṇipādaḥ svācāntaḥ śucau deśe ’timanohare niśśabde bhuvaṁ saṁgr̥hya, tāṁ śoṣaṇādibhir viśodhya, guruparamparayā paramaguruṁ bhagavantam upa-gamya,14 tam eva prāpyatvena prāpakatvena aniṣṭa nivārakatvena iṣṭaprāpakatvena ca yathā-avasthita-svarūpa-rūpa-guṇa vibhūti-līlā-upakaraṇa-vistāram anusaṁdhāya, 15
+
+
 123
-352 Francis X. Clooney uttīrya śukla-vastra-dharo dhr̥tottarīyaś (ca) ācamya, ūrdhvapuṇd˙rāṁs tat-tan mantreṇa dhārayitvā, bhagavantam anusmr̥tya, tattanmantreṇa bhagavat paryanta-abhidhāyinā mūlamantreṇa ca jalaṁ pitvā, ācamya, prokṣya, pariṣicya, udakāñjaliṁ bhagavatpādayor nikṣipya, prāṇān āyamya, bhagavantaṁ dhyātvā, aṣṭottaraśataṁ mūlamantram āvartya, parikramya, namaskr̥tya, ādhāra-śakti-ādi-pr̥thivyantaṁ tarpayitvā, śrīvaikuṇṭha-ādi pāriṣadāntaṁ tarpayitvā, devān r̥ṣ¯n pit ı  r n bhagavadātmakān dhyātvā saṁtarpya, vastraṁ śucau deśe sampīd˙ya, ācamya, āvāhitatīrthaṁ mūlamantreṇa ātmani samāhr̥tya, yāgabhūmiṁ gacchet. (7) 
-Then he gets out and puts on a white lower garment and an upper garment. He sips water again and applies the vertical forehead marks with their respective mantras. He recollects the Lord by the specific mantras with respective names of the Lord in those forms, and with the root mantra he drinks water. He sips water, sprinkles the water on his head. After scattering the water, he pours a handful of water on the Lord’s feet. 
-He controls his breaths, meditates on the Lord, and recites the root mantra one hundred eight times. He turns himself around, offers obeisance, and makes offerings of water, beginning with the foundation power and ending with the earth.12 He propitiates with water, beginning (above) with the Śrīvaikuṇṭha Heaven and ending (here below) with the assembly. He meditates on and propitiates with water the gods, seers, and ancestors, all of whom have the Lord as their self. After wringing out his cloth on a clean spot, he sips water. With the root mantra, he draws into his own self the water already invoked from the holy stream. Then let him go to the place of sacrifice.13 
-III. Preparation of the Place of Worship 
-suprakṣālitapāṇipādaḥ svācāntaḥ śucau deśe ’timanohare niśśabde bhuvaṁ saṁgr̥hya, tāṁ śoṣaṇādibhir viśodhya, guruparamparayā paramaguruṁ bhagavantam upa-gamya,14 tam eva prāpyatvena prāpakatvena aniṣṭa nivārakatvena iṣṭaprāpakatvena ca yathā-avasthita-svarūpa-rūpa-guṇa vibhūti-līlā-upakaraṇa-vistāram anusaṁdhāya, 15His hands and feet have been washed well, and he has sipped water suitably. Next then, he chooses ground in a pure and most enchanting place free of noise. He 
-12 See the mantras for the consecration of the seat (āsana) below, oṃ ādhāraśaktyai namaḥ, etc., in Section VIII. 
-13 The place of sacrifice (yāgabhūmi) is not further defined by Rāmānuja. It can be wherever the paramaikānti wishes to worship. Esnoul: “This is the first process of interiorization of worship. The sacred ford previously invoked as exterior to the devotee is now integrated within him” (1972: 61n19; my translation). 
-14 Krishna Ayyangar Swami (2010: 24): Meditation on the dvaya-mantra unaccompanied by meditation on the guruparaṃparā is as bad as the worship of other gods. 
-15 Krishnaswami (2014: 45): “Having returned to one’s house after bath”; but there is no mention in the Nityam of the devotee’s home, nor indeed of any places but the riverbank and the “place of sacrifice.” 
-123
-Rāmānuja’s Nityagrantham (“Manual of Daily Worship”): A Translation 353 
-thoroughly purifies it by acts of drying,16 etc. Through the succession of gurus, he approaches the Lord, the supreme guru, and meditates on Him as the goal and the means to the goal, and as the remover of the undesirable and acquirer of the desirable. He meditates on the expanse of the Lord’s proper form, forms, qualities, powers, and instruments of sport, all these as specified. 
-IV. Recollection of Taking Refuge, with the Recitation of the Prayer of Refuge from the Śaraṇāgatigadyam17 
+
+
+
+17 
 tam eva śaraṇam upagacched akhila iti ādinā (8) 
-Then let him approach the Lord alone as refuge, with the words, “All that is to be avoided.…”18 
-V. Interior Preparation for Personal Worship (Pūjā) 
-evaṁ śaraṇam upagamya tatprasāda-upabr̥ṁhita-manovr̥ttiḥ tam eva bhagavantaṁ sarveśvareśvaram ātmanas svāmitvena anusaṁdhāya, atyartha priya-avirata-viśadatama-pratyakṣa-rūpa-anudhyānena dhyāyan āsīta. (9) After he has thus come near for refuge, with the movements of his mind enhanced by the Lord’s grace, he meditates on that Lord alone, the Lord of all lords, as the Lord of his own self. Let him sit meditating with a meditation like in form to perception, most clear, uninterrupted, and exceedingly pleasing. 
+
+
+evaṁ śaraṇam upagamya tatprasāda-upabr̥ṁhita-manovr̥ttiḥ tam eva bhagavantaṁ sarveśvareśvaram ātmanas svāmitvena anusaṁdhāya, atyartha priya-avirata-viśadatama-pratyakṣa-rūpa-anudhyānena dhyāyan āsīta. (9) 
+
+
 tatas tad-anubhava-janita-atimātra-prīti-kārita-paripūrṇa-kaiṁkarya-rūpa-pūjām ārabheta. (10) 
-Then let him undertake the worship19 that has the form of utterly complete service accomplished with immeasurable pleasure born of experiencing Him. 
-16 See Esnoul 1972: 61n22: “drying” (śoṣana) pertains to drying the vessel or removing water from the site; “burning” (dahana), to the presenting of a flame; and “moistening” (plavana), to wetting it anew. According to Chinna Jeeyar Swamiji, “drying” is a symbolic act shown by an appropriate mudrā. 17 My translation of the relevant section of the Śaraṇāgatigadyam appears as an Appendix at the end of this translation. 
-18 Rāmānuja indicates here a quotation from his Śaraṇāgatigadyam, beginning with the word akhila (akhila heya-pratyanīka-kalyāṇaikatāna-sva-itara-samasta-vastu-vilakṣaṇa-ananta-jñānānandaika-svarūpa…). This is no indication of the ending of the passage, but, given that the next passage begins with the words, “After he has thus come near for refuge (evaṃ śaraṇam upagamya),” it seems likely that Rāmānuja intends the full section announcing the devotee’s taking of refuge, up to the words “You are Nārāyaṇa with Śrī, You are the refuge of those without refuge—and I, who have no other refuge, surrender at Your lotus feet (śrīmannārāyaṇa aśaraṇya śaraṇya ananyaśaraṇaḥ tvatpādāravindayugaḷam śaraṇam aham prapadye).” See this entire passage at the end of this translation in the Appendix. 
-19 We find pūjām ārabheta (“undertake”) here and at the end of Section XIII, and we find yāgam ārabheta (“undertake”) at the end of Sections VI and IX. Pūjā and yāga might be taken as synonyms, as Sampath (1980: 150) suggests. But if we wish to distinguish the terms, we may assert that in this text, yāga refers to the action that contemplatively connects heaven and earth, while pūjā refers to those more intimate to service of the Lord here on earth. In this sense, pūjā is external and the work of yāga internal. 
-123
-354 Francis X. Clooney 
+
 “bhagavān eva sva-niyāmya-svarūpa-sthiti-pravr̥tti-svaśeṣatā-ekarasena anena ātmanā svakīyaiś ca dehendriyāntaḥkaraṇaiḥ svakīya-kalyāṇatama-dravya mayān aupacārika-saṁsparśika-abhyavahārika-ādi-samastabhogān atiprabhūtān atisamagrān atipriyatamān atyanta-bhakti-kr̥tān akhila-parijana paricchada-anvitāya svasmai svaprītaye svayam eva pratipādayitum upakramata” iti anusaṁdhāya,20 
-He meditates: “The Lord alone—by this self whose single delight lies in belonging entirely to Him, by its proper form, continuation, and activity controlled by Him, and by the body, senses, and mind—now begins to bring about all enjoyments, such as are honorific, tangible, and pertaining to food, etc., such as are made of His innate and most auspicious substances, such as are achieved with extreme devotion, and such as are utterly resplendent, utterly complete, and most pleasing. All these are for His own pleasure, for Himself along with all His retinue and insignia.” 
-VI. Preparation of the Worshiper’s Body by the Dissolution of the Old Body and the Creation of the New Body 
+
 svadehe pañca-upaniṣanmantrān saṁhārakrameṇa nyasya, prāṇāyāmenaikena dakṣiṇena pāṇinā nābhideśe mūlamantraṁ nyasya, 
 He places on his body the five Upaniṣad mantras21 according to the order of 
 dissolution. Then, with his right hand, he places the root mantra in the area of his navel for the length of a single breath-control.22 
-mantrodbhūta-caṇd˙avāyu-āpyāyita-nābhīdeśa-stha-vāyunā śarīram antarbahiś ca sarvatattvamayaṁ tattvakrameṇa viśoṣya, 
+mantrodbhūta-caṇḍavāyu-āpyāyita-nābhīdeśa-stha-vāyunā śarīram antarbahiś ca sarvatattvamayaṁ tattvakrameṇa viśoṣya, 
 According to the order of the elements, he thoroughly dries inside and outside his body that is made of all the elements. He does this by means of the wind that resides in the area of the navel, intensified because of the hot wind arising from the mantra. 
 punar api prāṇāyāmenaikena hr̥ddeśe mūlamantraṁ nyasya, mantrodbhūta cakrāgnijvāla-upabr̥ṁhita-jāṭharāgninā dagdhvā tattat-samaṣṭi-pralīna sarvatattva-sarvakilbiṣa-sarvājñāna-tadvāsano bhūtvā, Next, he places the root mantra in the area of his heart for the length of a single breath-control. In this way, he becomes a person in whom all the base elements, all faults, all ignorances, and their residues are dissolved into their respective aggregates, burned up by the stomach fire heated by the flame of the fire of the cakras arising due to the mantra. 
 20 Compare the meditation in Section XVIII. 
@@ -200,7 +188,7 @@ punar api prāṇāyāmenaikena hr̥ddeśe mūlamantraṁ nyasya, mantrodbhūta 
 22 Touching each of the mentioned body parts in turn, beginning here with the navel and continuing below with the heart, head, nose, heart (again), private parts, and feet. 
 123Rāmānuja’s Nityagrantham (“Manual of Daily Worship”): A Translation 355 
 bhagavaddakṣiṇapādāṇguṣṭhe mūlamantreṇa svātmānaṁ praveśayet.23 (11) Then, with the root mantra, let him make his own self enter beneath the big toe of the Lord’s right foot. 
-apareṇa prāṇāyāmena bhagavat-prasādena bhagavat-kiṁkaratva-yogyatām āpādya, tasmād ādāya, tad-vāmapāda-aṇguṣṭhād adhastān mūlamantreṇa ātmānaṁ vinyasya, deva-vāmapāda-aṇguṣṭha-nakha-ś¯ta ı ¯ṁśu-maṇd˙alanirgalad divyāmr̥ta-rasair ātmānam abhisiñcet 
+apareṇa prāṇāyāmena bhagavat-prasādena bhagavat-kiṁkaratva-yogyatām āpādya, tasmād ādāya, tad-vāmapāda-aṇguṣṭhād adhastān mūlamantreṇa ātmānaṁ vinyasya, deva-vāmapāda-aṇguṣṭha-nakha-ś¯ta ı ¯ṁśu-maṇḍalanirgalad divyāmr̥ta-rasair ātmānam abhisiñcet 
 By another breath-control, by the Lord’s grace, he achieves fitness for service of the Lord. On that basis, by the root mantra he sets his self under the Lord’s left big toe.24 Let him sprinkle his self with the essence of the divine amṛta flowing from the white moon-maṇḍala (half-moon) of the nail of the big toe of that left foot. 
 evaṁ abhiṣicya, bhagavatprasādena tadamr̥tamayaṁ sarvakaiṁkaryamanoharaṁ sarvakaiṁkaryayogyaṁ śarīraṁ labdhvā, Having thus sprinkled himself, by the Lord’s grace he gains a body made of that ambrosia. It is captivating in all service and fit for all service. 
 tasmin śarīre pañcopaniṣanmantrān, sr̥ṣṭikrameṇa vinyasyet. (12) Let him then set on that body the five Upaniṣad mantras according to the order of creation: oṁ ṣāṁ namaḥ parāya parameṣṭhyātmane namaḥ iti mūrdhni spr̥śet. (13) oṁ yāṁ namaḥ parāya puruṣātmane nama iti nāsāgre, (14) 
@@ -220,7 +208,7 @@ On his private parts,
 123
 356 Francis X. Clooney 
 evaṁ nyāsaṁ kurvaṁs tattacchaktimayam udbhūtadehaṁ dhyāyet. (18) Doing these placements in this way, let him meditate on the body made of those several powers, now manifested. 
-punar api prāṇāyāmenaikena bhagavadvāmapāda-aṇguṣṭha-vinissr̥ta-amr̥ta dhārayā ātmānam abhiṣicya kr̥talāñchano dhr̥tordhvapuṇd˙ro bhagavadyāgam ārabheta. (19) 
+punar api prāṇāyāmenaikena bhagavadvāmapāda-aṇguṣṭha-vinissr̥ta-amr̥ta dhārayā ātmānam abhiṣicya kr̥talāñchano dhr̥tordhvapuṇḍro bhagavadyāgam ārabheta. (19) 
 Then, for the length of one breath-control, he sprinkles his self with the flow of ambrosia streaming from the big toe of the left foot of the Lord. His marks thus complete, and wearing the upward forehead mark, let him now undertake the Lord’s sacrifice. 
 VII. Preparations for Personal Worship 
 “bhagavān eva sarvaṁ kārayati” iti pūrvavat dhyātvā, hr̥dyāgaṁ kr̥tvā, sambhārān sambhr̥tya ātmano vāmapārśve jalakumbhe toyam utpūrya, gandhapuṣpayutaṁ kr̥tvā, saptakr̥tvo ’bhimantrya, viśoṣya, dagdhvā, divyāmr̥tatoyam utpādya, astramantreṇa rakṣāṁ kr̥tvā, surabhimudrāṁ pradarśya, anyāni pūjādravyāṇi ātmano dakṣiṇapārśve nidhāya, ātmanaḥ puratas svāstīrṇe pīṭhe krameṇa agneyādikoṇeṣu arghya-pādya-ācamanīya snānīyapātrāṇi nidhāya, astramantreṇa prakṣālya, śoṣaṇādinā pātrāṇi viśodhya, saṁskr̥tatoyena tāni ca pūrayitvā, arghyapātre gandhapuṣpakuśāgrākṣa-tādīni nikṣipet. (20) 
@@ -342,17 +330,17 @@ He sets Ananta, king of snakes, resplendent with a thousand hoods, “Oṁ, obei
 Rāmānuja’s Nityagrantham (“Manual of Daily Worship”): A Translation 361 
 He sets the foot-seat in front, 
 “Oṁ, obeisance to Ananta,” 
-sarvāṇi ādhāraśaktyādīni pīṭhāntāni tattvāni pratyekaṁ gandhapuṣpadhūpadīpair abhyarcya, sarvaparivārāṇāṁ tattatsthāne padmāsanāni saṁkalpya, anantagarud˙aviṣvaksenānāṁ sapīṭhakaṁ padmaṁ vinyasya, sarvataḥ puṣpākṣatādīni vikīrya, yogapīṭhasya paścimottaradigbhāge 
+sarvāṇi ādhāraśaktyādīni pīṭhāntāni tattvāni pratyekaṁ gandhapuṣpadhūpadīpair abhyarcya, sarvaparivārāṇāṁ tattatsthāne padmāsanāni saṁkalpya, anantagaruḍaviṣvaksenānāṁ sapīṭhakaṁ padmaṁ vinyasya, sarvataḥ puṣpākṣatādīni vikīrya, yogapīṭhasya paścimottaradigbhāge 
 oṁ asmadgurubhyo namaḥ iti gurūn gandhapuṣpadhūpadīpais sampūjya, praṇamya anujñāpya bhagavatyāgam ārabheta. (30) 
-He reverences all the elements, beginning with the Foundation Power and ending with the Seats. He does this for each with scents, flowers, incense, and flame. He prepares the lotus-seats in their respective places, for the whole entourage, and sets the lotus with its seat for Ananta, Garud˙a, and Viṣvaksena.34 He strews flowers and unhusked rice everywhere, and on the northwest side of the yoga-seat he worships the gurus with scents, flowers, incense, and flame, saying, 
+He reverences all the elements, beginning with the Foundation Power and ending with the Seats. He does this for each with scents, flowers, incense, and flame. He prepares the lotus-seats in their respective places, for the whole entourage, and sets the lotus with its seat for Ananta, Garuḍa, and Viṣvaksena.34 He strews flowers and unhusked rice everywhere, and on the northwest side of the yoga-seat he worships the gurus with scents, flowers, incense, and flame, saying, 
 “Oṁ, obeisance to my gurus,” 
 He prostrates himself. With their permission, let him undertake the Lord’s sacrifice. 
 IX. Mental Representation of the Lord, and the Prayer that He be Present up to the End of the Worship 
-kalpite nāgabhoge samāsīnaṁ bhagavantaṁ nārāyaṇaṁ puṇd˙arīka dala-amalā-yatākṣaṁ kirīṭahāra-keyūra-kaṭaka-ādi-sarvabhūṣaṇair bhūṣitaṁ ākuñcitadakṣiṇapādaṁ prasāritavāmapādaṁ jānunyasta prasāritadakṣiṇabhujaṁ nāgabhoge vinyastavāmabhujam ūrdhvabhujadvayena śaṇkhacakradharaṁ sarveṣāṁ sr̥ṣṭi-sthiti-pralaya hetubhūtam añjanābhaṁ kaustubhena virājamānaṁ cakāsatam udagra prabuddha-sphurad-apūrva-ācintya-parama-sattva-pañca-śakti-maya vigrahaṁ pañcopaniṣadair dhyātvā, 
+kalpite nāgabhoge samāsīnaṁ bhagavantaṁ nārāyaṇaṁ puṇḍarīka dala-amalā-yatākṣaṁ kirīṭahāra-keyūra-kaṭaka-ādi-sarvabhūṣaṇair bhūṣitaṁ ākuñcitadakṣiṇapādaṁ prasāritavāmapādaṁ jānunyasta prasāritadakṣiṇabhujaṁ nāgabhoge vinyastavāmabhujam ūrdhvabhujadvayena śaṇkhacakradharaṁ sarveṣāṁ sr̥ṣṭi-sthiti-pralaya hetubhūtam añjanābhaṁ kaustubhena virājamānaṁ cakāsatam udagra prabuddha-sphurad-apūrva-ācintya-parama-sattva-pañca-śakti-maya vigrahaṁ pañcopaniṣadair dhyātvā, 
 He meditates on the Lord Nārāyaṇa who is seated on the coils of the visualized serpent; his eyes as elongated and pure as petals of the lotus; as adorned with all His adornments, the crowns, necklaces, armlets and bracelets, etc., His right leg bent, His left leg forward, His right arm forward and placed on His knee, His left arm placed on the coils of the serpent; as holding the conch and wheel with His two upper hands; as the cause for the creation, preservation, and destruction of all; dark in appearance and shines with the kaustubha gem; as the supreme pure being, unprecedented and inconceivable, shining, awake, tall, manifest, His body comprised of the five powers. He does all this with the five Upaniṣad mantras. 
-34 Senior attendants on Nārāyaṇa: the serpent Ananta, the eagle Garud˙a, and the commander Viṣvaksena. 123
+34 Senior attendants on Nārāyaṇa: the serpent Ananta, the eagle Garuḍa, and the commander Viṣvaksena. 123
 362 Francis X. Clooney 
-ārādhanābhimukho bhava iti mūlamantreṇa prārthya, mūlamantreṇa daṇd˙avat praṇamya, utthāya, svāgataṁ nivedya, yāvad ārādhanasamāpti sānnidhyayācanaṁ kuryāt. (31) 
+ārādhanābhimukho bhava iti mūlamantreṇa prārthya, mūlamantreṇa daṇḍavat praṇamya, utthāya, svāgataṁ nivedya, yāvad ārādhanasamāpti sānnidhyayācanaṁ kuryāt. (31) 
 After praying, with the root mantra 
 “Look favorably on my worship,” 
 with the root mantra he falls prostrate like a stick. After rising and offering welcome, let him ask Him to be present up to the completion of the worship. 
@@ -383,16 +371,16 @@ There too he invokes Nīlā,
 “Oṁ nīṃ, obeisance to Nīlā.”36 
 Up above, he makes an obeisance to the divine person named “Crown” who places the Lord’s crown on His head, who is four-mouthed and four-armed, with his hands joined in salutation, and who is above the Lord on His western side, “Oṁ, obeisance to Crown, ruler of diadems.” 
 evam eva 
-oṁ kirīṭamālyāya āpīd˙akātmane nama iti āpīd˙akaṁ tatraiva purastāt praṇamya, 
-oṁ dakṣiṇakuṇd˙alāya makarātmane nama iti dakṣiṇakuṇd˙alaṁ dakṣiṇataḥ praṇamya, oṁ vāmakuṇd˙alāya makarātmane nama iti vāmakuṇd˙alaṁ vāmataḥ praṇamya, oṁ vaijayantyai vanamālāyai nama iti vaijayantīṁ purataḥ praṇamya, oṁ śrīmattulasyai nama iti tulasīṁ devīṁ purataḥ praṇamya, 
+oṁ kirīṭamālyāya āpīḍakātmane nama iti āpīḍakaṁ tatraiva purastāt praṇamya, 
+oṁ dakṣiṇakuṇḍalāya makarātmane nama iti dakṣiṇakuṇḍalaṁ dakṣiṇataḥ praṇamya, oṁ vāmakuṇḍalāya makarātmane nama iti vāmakuṇḍalaṁ vāmataḥ praṇamya, oṁ vaijayantyai vanamālāyai nama iti vaijayantīṁ purataḥ praṇamya, oṁ śrīmattulasyai nama iti tulasīṁ devīṁ purataḥ praṇamya, 
 oṁ śrīvatsāya śrīnivāsāya nama iti śrīvatsaṁ purataḥ praṇamya, oṁ hārāya sarvābharaṇādhipataye nama iti hāraṁ purataḥ praṇamya, oṁ śrīkaustubhāya sarvaratnādhipataye nama iti kaustubhaṁ purataḥpraṇamya, oṁ kāñcīguṇojjvalāya divya-pītāmbarāya nama iti pītāmbaraṁ purataḥ praṇamya, oṁ sarvebhyo bhagavadbhūṣaṇebhyo nama iti sarvabhūṣaṇāni sarvataḥ praṇamya, oṁ sudarśanāya hetirājāya nama iti sudarśanātmānaṁ raktavarṇaṁ raktane traṁ (dvi) caturbhujaṁ kr̥tāñjalipuṭaṁ bhagavantam ālokayantaṁ taddarśana-ānanda-br̥ṁhitamukhaṁ mūrdhni bhagavaccakraṁ dhārayan taṁ dakṣiṇataḥ praṇamya, 
 36 Esnoul observes regarding this and the following sections: “The officiant first evokes the three spouses of the deity [Śrī, Bhū, and Nīlā]; he continues with reference to a series of common objects now personified. The kirīṭa is an incarnation of the divine crown; the text attributes to it four faces, such as are ordinarily a characteristic of Brahmā. The kirīṭamālya is a garland for the head, made of flowers threaded together. The earrings are in the form of a makara, a kind of crocodile. The vaijayantī is the garland (vanamālā) that hangs lower, often containing tulasī flowers (basilic) dedicated to Viṣṇu. The śrīvatsa is a curl of hair on the chest of Viṣṇu—and of Kr̥ṣṇa—in a cruciform design. The sudarśana, the discus, is a magical weapon of Viṣṇu which many texts proclaim to be formidable. The nanda is taken particularly as the sword of Kr̥ṣṇa, while the pañcajanya is the conch which myth takes to be the demon Pāñcajana who lives in the depths of the ocean in the form of a shell which Kr̥ṣṇa seized. The kaumodakī is the mace which Agni gave to Kr̥ṣṇa before his battle with Indra. The śārṅga, whose name is derived from sṛṅga (horn), is usually presented as the bow of Kr̥ṣṇa. We thus notice that these elements in the Kr̥ṣṇa-related legend predominate in this reprise of things— ornaments or arms—belonging to Viṣṇu” (1972: 69n56; my translation). 
 123
 364 Francis X. Clooney 
 In the same way, he offers obeisance to ā pīdaka, in front,37 
-“Oṁ, obeisance to the one who is the self of ā pīdaka, adorned with a crown.” He offers obeisance to Dakṣiṇakuṇd˙ala on the right, 
-“Oṁ, obeisance to Dakṣiṇakuṇd˙ala, the self of the sea monster.” He offers obeisance to Vāmakuṇd˙ala on the left, 
-“Oṁ, obeisance to Vāmakuṇd˙ala, the self of the sea monster.” He offers obeisance in front of Vaijayantī, 
+“Oṁ, obeisance to the one who is the self of ā pīdaka, adorned with a crown.” He offers obeisance to Dakṣiṇakuṇḍala on the right, 
+“Oṁ, obeisance to Dakṣiṇakuṇḍala, the self of the sea monster.” He offers obeisance to Vāmakuṇḍala on the left, 
+“Oṁ, obeisance to Vāmakuṇḍala, the self of the sea monster.” He offers obeisance in front of Vaijayantī, 
 “Oṁ, obeisance to Vaijayantī, the forest garland.” 
 He offers obeisance in front of the divine Tulasī, 
 “Oṁ, obeisance to Śrī Tulasī.” 
@@ -409,7 +397,7 @@ He offers obeisance before all the adornments on all sides,
 He offers obeisance on the right side before Sudarśana, who is red in color, with red eyes, four (two) arms, whose hands are joined in salutation, who looks upon the Lord, who holds the wheel of the Lord on his head, his face bright with the bliss of seeing Him, 
 “Oṁ, obeisance to Sudarśana, the Lord of weapons.” 
 tatraiva 
-oṁ nandakāya khad˙gādhipataye nama iti nandakātmānaṁ śirasi bhagavatkhad˙gaṁ dhārayantaṁ tatraiva praṇamya, 
+oṁ nandakāya khaḍgādhipataye nama iti nandakātmānaṁ śirasi bhagavatkhaḍgaṁ dhārayantaṁ tatraiva praṇamya, 
 oṁ padmāya nama iti padmātmānaṁ śirasi padmaṁ dhārayantaṁ praṇamya, oṁ pāñcajanyāya śaṇkhādhipataye nama iti śaṇkhātmānaṁ śvetavarṇaṁ raktanetraṁ dvibhujaṁ kr̥tāñjalipuṭaṁ śirasi bhagavacchaṇkhaṁ dhārayantaṁ vāmataḥ praṇamya, tatraiva 
 oṁ kaumodakyai gadādhipataye nama iti gadāṁ devīṁ praṇamya, tatraiva 
 oṁ śārṇgāya cāpādhipataye nama iti śārṇgātmānaṁ praṇamya, oṁ sarvebhyo bhagavaddivyāyudhebhyo nama iti sarvāṇi 
@@ -429,7 +417,7 @@ There, too, he offers obeisance to the one who is the self of the bow, “Oṁ, 
 He offers obeisance on all sides to all the weapons of the Lord, “Oṁ, obeisance to all divine weapons of the Lord.” 
 He offers obeisance on all sides to those massaging the divine lotus feet, “Oṁ, obeisance to all massaging the lotus feet of the Lord.” 
 oṁ anantāya nāgarājāya iti 
-pr̥ṣṭhato ’nantaṁ nāgarājaṁ bhagavantaṁ caturbhujaṁ hala-musala dharaṁ kr̥tāñjalipuṭaṁ phaṇāmaṇi-sahasra-maṇd˙itottamāṇgaṁ bhagavantam ālokayantaṁ bhagavat 38darśanānandabr̥ṁhitasarvagātraṁ dhyātvā praṇamya, Next he meditates in the back, on the king of snakes Ananta who is four-armed, who carries the plow and pestle, whose hands are joined in salutation, whose utmost limb is adorned with a thousand gems on his hood, who looks on the Lord, and whose every limb swells with the bliss of the touch of the Lord. He then offers obeisance, “Oṁ, (obeisance) to Ananta, the king of snakes.” 
+pr̥ṣṭhato ’nantaṁ nāgarājaṁ bhagavantaṁ caturbhujaṁ hala-musala dharaṁ kr̥tāñjalipuṭaṁ phaṇāmaṇi-sahasra-maṇḍitottamāṇgaṁ bhagavantam ālokayantaṁ bhagavat 38darśanānandabr̥ṁhitasarvagātraṁ dhyātvā praṇamya, Next he meditates in the back, on the king of snakes Ananta who is four-armed, who carries the plow and pestle, whose hands are joined in salutation, whose utmost limb is adorned with a thousand gems on his hood, who looks on the Lord, and whose every limb swells with the bliss of the touch of the Lord. He then offers obeisance, “Oṁ, (obeisance) to Ananta, the king of snakes.” 
 oṁ sarvebhyo bhagavatparijanebhyo nama iti anukta-anantaparijanān samantataḥ praṇamya, 
 oṁ bhagavatpādukābhyāṁ nama iti bhagavatpāduke purataḥ praṇamya, oṁ sarvebhyo bhagavatparicchadebhyo nama iti sarvaparicchadān samantataḥ praṇamya, 
 oṁ vainateyāya nama iti agrato bhagavato bhagavantaṁ vainateyaṁ āsīnaṁ dvibhujaṁ kr̥tāñjalipuṭaṁ dhyātvā praṇamya, 
@@ -457,8 +445,8 @@ Next he offers obeisance to the retinue of Viṣvaksena,
 “Oṁ haṃ, obeisance to Harivaktra,” 
 “Oṁ kaṃ, obeisance to Kālaprakr̥tisamjña,” 
 “Oṁ, obeisance to all the retinue of lord Viṣvaksena.” 
-oṁ caṇd˙āya dvārapālāya namaḥ, 
-oṁ pra-caṇd˙āya dvārapālāya namaḥ iti pūrva-dvārapārśvayoḥ praṇamya, oṁ bhadrāya dvārapālāya namaḥ, 
+oṁ caṇḍāya dvārapālāya namaḥ, 
+oṁ pra-caṇḍāya dvārapālāya namaḥ iti pūrva-dvārapārśvayoḥ praṇamya, oṁ bhadrāya dvārapālāya namaḥ, 
 oṁ su-bhadrāya dvārapālāya namaḥ iti dakṣiṇa-dvārapārśvayoḥ praṇamya, oṁ jayāya dvārapālāya namaḥ, 
 oṁ vi-jayāya dvārapālāya namaḥ iti paścima-dvārapārśvayoḥ praṇamya, oṁ dhātre dvārapālāya namaḥ, 
 oṁ vidhātre dvārapālāya namaḥ iti uttara-dvārapārśvayoḥ praṇamet. (34) He offers obeisance to the two guardians at the eastern door, 
@@ -477,7 +465,7 @@ oṁ sarvebhyo bhagavaddvārapālebhyo nama iti sarvadvāreṣu
 sarvadvārapālān praṇamya, 
 oṁ kumudāya gaṇādhipataye savāhanaparivārapraharaṇāya nama iti pūrvasyāṁ diśi pārṣadeśvaraṁ kumudaṁ praṇamya, 
 oṁ kumudākṣāya gaṇādhipataye savahānaparivārapraharaṇāya nama iti āgneyyāṁ kumudākṣaṁ praṇamya, 
-oṁ puṇd˙arīkāya gaṇādhipataye savāhana-parivārapraharaṇāya nama iti dakṣiṇasyāṁ puṇd˙arīkaṁ praṇamya, 
+oṁ puṇḍarīkāya gaṇādhipataye savāhana-parivārapraharaṇāya nama iti dakṣiṇasyāṁ puṇḍarīkaṁ praṇamya, 
 oṁ vāmanāya gaṇādhipataye savāhanaparivārapraharaṇāya nama iti nairr̥tyāṁ vāmanaṁ praṇamya, 
 oṁ śaṇkukarṇāya gaṇādhipataye savāhana-parivāra-praharaṇāya nama iti paścima-syāṁ śaṇkukarṇaṁ praṇamya, 
 oṁ sarpanetrāya gaṇādhipataye savāhana-parivāra-praharaṇāya nama iti vāyavyāṁ sarpanetraṁ praṇamya, 
@@ -489,8 +477,8 @@ Next he does obeisance to all door-guardians at all the doors,
 Then he does obeisance to Kumuda, the courtier to the east, 
 “Oṁ, obeisance to Kumuda, ruler of the host, with vehicle, followers, gifts.” He does obeisance to Kumudākṣa to the southeast, 
 “Oṁ, obeisance to Kumudākṣa, ruler of the host, with vehicle, followers, gifts.” 
-He does obeisance to Puṇd˙arīka to the south, 
-“Oṁ, obeisance to Puṇd˙arīka, ruler of the host, with vehicle, followers, gifts.” He does obeisance to Vāmana to the southwest, 
+He does obeisance to Puṇḍarīka to the south, 
+“Oṁ, obeisance to Puṇḍarīka, ruler of the host, with vehicle, followers, gifts.” He does obeisance to Vāmana to the southwest, 
 “Oṁ, obeisance to Vāmana, ruler of the host, with vehicle, followers, gifts.” He does obeisance to Śaṇkukarṇa to the west, 
 “Oṁ, obeisance to Śaṇkukarṇa, ruler of the host, with vehicle, followers, gifts.” 
 39 Esnoul: “The devotee has imagined the divine pavilion, and now, as if entering it, encounters the guardians in the four directions” (2005: 71n60; my translation), two in each direction. 40 The conch, discus, and club are the weapons held by Nārāyaṇa; the ājñā-mūdra is the “command posture” of the hand. 
@@ -503,7 +491,7 @@ He does obeisance to Sarpanetra to the northwest,
 Let him then offer obeisance to them all on all sides, 
 “Oṁ, obeisance to all the courtiers of the Lord.”41 
 XII. Another Option Regarding Place 
-anyatra āvāhya pūjāyām āvāhanasthānāni parama-vyoma-kṣ¯ra ı ¯rṇava ādityamaṇd˙ala-hr̥dayāni mathurādvārakāgokulāyodhyādīni divyāvatārasthānāni cānyāni paurāṇikāni śrīraṇgādīni ca 
+anyatra āvāhya pūjāyām āvāhanasthānāni parama-vyoma-kṣ¯ra ı ¯rṇava ādityamaṇḍala-hr̥dayāni mathurādvārakāgokulāyodhyādīni divyāvatārasthānāni cānyāni paurāṇikāni śrīraṇgādīni ca 
 yathāruci.42 (37) 
 Or, he may invoke other sites for worship—the highest place; the ether, the milk ocean, the realm of the sun, and the heart; Mathurā, Dvārakā, Gokula, ā yodhyā, etc., and the sites of other divine descents; places mentioned in the Purāṇas, and Śrīraṇgam or others,43 as desired. 
 Part Three: Intimate Worship of the Lord 
@@ -527,7 +515,7 @@ tato gandha-puṣpa-dhūpa-dīpa-ācamana-mukhavāsa tāmbūlādinivedanaṁ kr�
 370 Francis X. Clooney 
 tataḥ snānārtham āsanam ānīya gandhādibhir abhyarcya bhagavantaṁ praṇamya anujñāpya, pāduke pradāya, tatropaviṣṭe mālyabhūṣaṇavastrāṇi apanīya, viṣvaksenāya datvā, snānaśāṭikāṁ pradāya, 
 He brings forward a seat for the bath. He worships with scent, etc., and offers obeisance to the Lord. He asks permission. He offers sandals, and when He is seated there, he removes the garlands, adornments and cloths. He gives them to Viṣvaksena and offers the bathing costume. 
-arghya-pādya-ācamanīya-pādapīṭha-pradāna-danta-kāṣṭha-jihvānirlehana gaṇd˙ūṣa-mukhaprakṣālana-ācamana-ādarśapradarśana-hastaprakṣālana mukhavāsa-tāmbūla-tailābhyaṇga-udvartana-āmalaka-toya-kaṇkata-plota deha-śodhana-śāṭikā-pradāna-haridrālepana-prakṣālana-vastra-uttarīya yajñopavītapradāna-pādyācamana-pavitrapradāna-gandha-puṣpa-dhūpa dīpa-ācamana-nr̥ttagītavādyādi-sarvamaṇgala-saṁyukta-abhiṣeka-nīrājana ācamana-dehaśodhana-plotavastra-uttarīya-yajñopavīta-ācamana-kūrca prasāraṇa-sahasradhāra-abhiṣeka-nīrājana-ācamana-deha-śodhana-plota vastra-uttarīya-yajñopavīta-ācamanāni dadyāt. (43) 
+arghya-pādya-ācamanīya-pādapīṭha-pradāna-danta-kāṣṭha-jihvānirlehana gaṇḍūṣa-mukhaprakṣālana-ācamana-ādarśapradarśana-hastaprakṣālana mukhavāsa-tāmbūla-tailābhyaṇga-udvartana-āmalaka-toya-kaṇkata-plota deha-śodhana-śāṭikā-pradāna-haridrālepana-prakṣālana-vastra-uttarīya yajñopavītapradāna-pādyācamana-pavitrapradāna-gandha-puṣpa-dhūpa dīpa-ācamana-nr̥ttagītavādyādi-sarvamaṇgala-saṁyukta-abhiṣeka-nīrājana ācamana-dehaśodhana-plotavastra-uttarīya-yajñopavīta-ācamana-kūrca prasāraṇa-sahasradhāra-abhiṣeka-nīrājana-ācamana-deha-śodhana-plota vastra-uttarīya-yajñopavīta-ācamanāni dadyāt. (43) 
 Then let him give all of the following: guest-water, foot-washing-water, water for sipping, the offering of the footstool, toothbrush, tongue-scraper, the washing of the mouth with a handful of water, water for sipping, the showing of a mirror, water for washing hands, mouth-freshener, betel, massage with sesame oil, extra gooseberry water, comb, the giving of the cloth and saffron for cleaning the body, the applying of turmeric, washing, the giving of lower garment, upper garment and sacrificial thread, purification by foot-washing-water and water for sipping, scent, flowers, incense, flame, water for sipping, dance, song, instrumental music, etc.,44 the anointing linked with all that is auspicious, worship with flame, the sipping of water, the cloth for purifying the body, the lower garment, the upper garment and sacrificial thread, water for sipping, the strewing of a handful of grass, the sprinkling by a thousand streams, worship with flame, the water for sipping, the cloth for purifying of the body, the lower garment, the upper garment and sacrificial thread, and water for sipping. 
 tato ’laṁkāra-āsanam abhyarcya praṇamya anujñāpya, pāduke pradāya, Then he venerates the seat for adornment and offers obeisance. He asks permission and presents the sandals. 
 tatropaviṣṭe pūrvavat snānīyavarjam arghyapādyācamanīyaśuddhodakāni mantreṇa kalpayitvā bhagavate gandha-puṣpa-pāda-saṁmardana-vastra uttarīya-bhūṣaṇa-upavīta-arghya-pādya-ācamanīyāni datvā, sarva parivārāṇāṁ snānavastrādibhūṣaṇāntaṁ datvā, gandhādīn devānantaraṁ sarvaparivārāṇāṁ pratyekaṁ pradāya, 
@@ -540,9 +528,9 @@ Let him give the incense, flame, and water for sipping.
 athavā, sarvaparivārāṇāṁ gandhādīn eva dadyāt. (45) 
 Or, let him give just the scent, etc., to the whole retinue. 
 XV. Preparations for the Lord’s Meal 
-gandha-puṣpa-pradāna-alaṁkāra-añjana-ūrdhvapuṇd˙ra-ādarśa-dhūpa dīpa-ācamana-dhvaja-chatra-cāmara-vāhana-śaṇkha-cihna-kāhala bheri-ādi-sakala-nr̥tta-gīta-vādyādibhir abhyarcya 
+gandha-puṣpa-pradāna-alaṁkāra-añjana-ūrdhvapuṇḍra-ādarśa-dhūpa dīpa-ācamana-dhvaja-chatra-cāmara-vāhana-śaṇkha-cihna-kāhala bheri-ādi-sakala-nr̥tta-gīta-vādyādibhir abhyarcya 
 He offers veneration bythe giving of scent and flowers, adornments, collyrium,the forehead mark, mirror, incense, flame, water for sipping, flag, umbrella, fan, vehicle, conch, mark, musical instruments and drums, etc., all the dance, song, instrumental music, etc. 
-mūlamantreṇa puṣpaṁ pradāya, pratyakṣaraṁ puṣpaṁ pradāya dvādaśa akṣareṇa viṣṇu-ṣad˙-akṣareṇa viṣṇugāyatryā pañcopaniṣadaiḥ puruṣasūkta r̥gbhir puṣpaṁ pradāya anyaiś ca bhagavanmantraiś śaktaś cet puṣpaṁ pradāya, devī-ādi-divyapāriṣadāntaṁ tattanmantreṇa puṣpaṁ datvā, praṇamya 
+mūlamantreṇa puṣpaṁ pradāya, pratyakṣaraṁ puṣpaṁ pradāya dvādaśa akṣareṇa viṣṇu-ṣaḍ-akṣareṇa viṣṇugāyatryā pañcopaniṣadaiḥ puruṣasūkta r̥gbhir puṣpaṁ pradāya anyaiś ca bhagavanmantraiś śaktaś cet puṣpaṁ pradāya, devī-ādi-divyapāriṣadāntaṁ tattanmantreṇa puṣpaṁ datvā, praṇamya 
 He presents a flower with the root mantra, giving a flower for each syllable. If he is able, he presents the flower with the twelve-syllable mantra, with Viṣṇu’s six syllable mantra, with the Viṣṇu Gāyatrī-mantra,45 with the five Upaniṣad mantras, with verses of the Puruṣa Sūkta,46 and with other mantras of the Lord. Using the mantra of each, he gives flowers beginning with the Goddess and ending with the divine assembly and offers obeisance. 
 pratidiśaṁ pradakṣiṇapraṇāmapūrvakaṁ bhagavate puṣpāñjaliṁ datvā purataḥ praṇamya, śrutisukhaiḥstotraiḥstutvā, sva-ātmānaṁ nityakiṁkaratayā nivedya, 
 In each direction, he gives a salutation to the Lord with a handful of flowers, preceded by the offering of obeisance and by turning about. He offers obeisance 
@@ -557,12 +545,12 @@ After meditating in just this way, he recites the root mantra as many times as h
 tatropaviṣṭe pādyācamanīya-arhaṇāni datvā, 
 He gives water for foot-washing, for sipping, and for honoring, before him seated there. 
 XVI. The Lord’s Meal 
-gud˙aṁ mākṣikaṁ sarpir dadhi kṣ¯ram ı ˙ ceti pātre nikṣipya śoṣaṇādibhir viśodhya, arghyajalena samprokṣya, madhuparkam avanataśirā harṣotphullanayano hr̥ṣṭamanā bhūtvā pradāya ācamanīyaṁ dadyāt. (46) 
+guḍaṁ mākṣikaṁ sarpir dadhi kṣ¯ram ı ˙ ceti pātre nikṣipya śoṣaṇādibhir viśodhya, arghyajalena samprokṣya, madhuparkam avanataśirā harṣotphullanayano hr̥ṣṭamanā bhūtvā pradāya ācamanīyaṁ dadyāt. (46) 
 Then, after placing on the plate cane sugar, honey, melted butter, curd, and milk, he thoroughly purifies them by acts of drying, etc., and sprinkles with the guest-water. Then, with his head bowed, his eyes wide with delight, his mind delighted, he gives the honey and milk mixture. Then let him give water for sipping. 
 yat kiṁcid dravyaṁ bhagavate dīyate tat sarvaṁ śoṣaṇādibhir viśodhya arghyajalena samprokṣya dadyāt. (47) 
 Regarding whatever is to be given to the Lord, let him give it after thoroughly purifying it all by acts of drying, etc., and after sprinkling it with the guest-water.48 
 tataś ca gāṁ svarṇaratnādikaṁ ca yathāśakti dadyāt. (48) 
-And then let him give, insofar as he is able, a cow, and also gold, jewels, etc. tatas susaṁskr̥tānnam ājyād˙hyaṁ dadhi-kṣ¯ra-madhu ı ¯ni ca 
+And then let him give, insofar as he is able, a cow, and also gold, jewels, etc. tatas susaṁskr̥tānnam ājyāḍhyaṁ dadhi-kṣ¯ra-madhu ı ¯ni ca 
 phalamūlavyañjanāni modakāṁś ca anyāni ca loke priyatamāni ātmanaś ca iṣṭāni śāstra-aviruddhāni sambhr̥tya śoṣaṇādibhir viśodhya 
 47 Krishna Ayyangar Swami (2010: 47): The Divyaprabandham (“the corpus of the hymns of the ā l¯vārs”), and particularly ā ṇṭāl˙’s Tiruppāvai, are referred to here, as used in both temple and at home. See also the similar reference in note 49. 
 48 Krishna Ayyangar Swami (2010: 48–49): The meal too must be thought of as a sacrifice; eating food that is not offered to the Lord is a sin. 
@@ -573,7 +561,7 @@ atiprabhūtam atisamagram atipriyatamam atyantabhaktikr̥tam idaṁ svīkuru iti
 Then, head bowed, very reverential and modest, he offers an obeisance, and then makes an offering, saying, “Please accept this as very abundant, entirely complete, most pleasing, done with extreme devotion.” 
 XVII. Ensuring Lord’s Satisfaction 
 tataś ca anupānatarpaṇe pradāya hastaprakṣālana-ācamana hastasammārjana-candana-mukhavāsa-tāmbūlādīni datvā praṇamya punar mantrāsanaṁ kūrcena mārjayitvā, abhyarcya anujñāpya, pāduke pradāya tatropaviṣṭe mālyādikam apohya viṣvaksenāya datvā, pādyācamanīya-gandha-puṣpa-dhūpa-dīpa-ācamana-apūpa-phalādīni datvā, (ācamana)mukhavāsa-tāmbūla-nr̥tta-gīta-vādyādibhir 
-abhyarcya, pradakṣiṇ¯kr ı ˙tya daṇd˙avat praṇamya, 
+abhyarcya, pradakṣiṇ¯kr ı ˙tya daṇḍavat praṇamya, 
 He presents a final drink and refreshment and gives water for hand-washing and for sipping. He wipes the hands and gives scent, mouth-wash, betel, etc. After offering obeisance, he again wipes the mantra-seat with a handful of grass. He offers veneration, asks permission, and then places the sandals before (the Lord) seated there. He removes the garlands, etc., and gives them to Viṣvaksena. He gives water for foot-washing, for sipping, scent, flowers, incense, flame, rinsing, cake, fruits, etc. After venerating him with (water for sipping), mouth-wash, betel, dance, song, instrumental music, etc., he does a circumambulation and offers an obeisance (falling prostrate) like a stick. 
 paryaṇkāsanam abhyarcya anujñāpya pāduke pradāya, tatropaviṣṭe pādyācamane datvā mālyabhūṣaṇavastrāṇi apanīya viṣvaksenāya datvā sukhaśayanocitaṁ sukhasparśaṁ ca vāsas taducitāni bhūṣaṇāni upavītaṁ ca pradāya ācamanīyaṁ datvā gandha-puṣpa-dhūpa-dīpa-ācamana mukhavāsatāmbūlādibhir abhyarcya śrutisukhaiḥ stotrair abhiṣṭūya,49 
 Then he honors the couch, and, having requested permission, he presents sandals to Him who is seated there. He gives water for foot-washing and sipping, and then takes away the garlands, adornments, and cloths. He gives these to Viṣvaksena and 
@@ -608,7 +596,7 @@ sva-abhimata-anurūpa-ekarūpa-acintya-divyādbhuta-nitya-niravadya niratiśaya-
 Your divine form is a single form appropriate and pleasing to Yourself, a treasury of unimaginable, divine, wonderful, permanent, flawless, unsurpassed qualities—begin ning with splendor, beauty, fragrance, tenderness, handsome demeanor, and youth! 
 sva-bhāvika-anavadhika-atiśaya-jñāna-bala-aiśvarya-vīrya-śakti-tejaḥ- sauś¯lya-va ı ¯tsalya-mārdava-ārjava-sauhārda-sāmya-kāruṇya-mādhurya gāmbhīrya-audārya-cāturya-sthairya-dhairya-śaurya-parākrama satyakāma-satyasaṁkalpa-kr̥titva-kr̥tajñatādi-asaṇkhyeyakalyāṇa guṇagaṇaugha-mahārṇava! 
 You are a great ocean of the host of innumerable auspicious qualities, all by nature Yours, flawless and superabundant—beginning with intelligence, strength, lordship, valor, power, radiance, easy accessibility, tenderness, gentleness, straightforward ness, goodheartedness, sameness, compassion, sweetness, profoundness, generosity, adroitness, firmness, fortitude, heroic valor, boldness, all desires fulfilled, all intentions realized, the capability to carry out all resolves, helpfulness and gratitude! 
-sva-ucita-vividha-vicitra-ananta-āścarya-nitya-niravadya-niratiśaya sugandha-niratiśaya-sukhasparśa-niratiśaya-aujjvalya-kirīṭa-makuṭa cūd˙āvataṁsa-makara-kuṇd˙ala-graiveyaka-hāra-keyūra-kaṭaka-śrīvatsa kaustubha-muktādāma-udarabandhana-pītāmbara-kāñcī-guṇa nūpurādi-aparimita-divyabhūṣaṇa! 
+sva-ucita-vividha-vicitra-ananta-āścarya-nitya-niravadya-niratiśaya sugandha-niratiśaya-sukhasparśa-niratiśaya-aujjvalya-kirīṭa-makuṭa cūḍāvataṁsa-makara-kuṇḍala-graiveyaka-hāra-keyūra-kaṭaka-śrīvatsa kaustubha-muktādāma-udarabandhana-pītāmbara-kāñcī-guṇa nūpurādi-aparimita-divyabhūṣaṇa! 
 Yours are innumerable divine ornaments, appropriate to Your own self, of various kinds and types, and endless, wonderful, eternal, flawless and unsurpassed, unsurpassed in fragrance, unsurpassed in softness of touch, unsurpassed in dazzling brilliance— beginning with an imperial crown, a crest jewel, ear-rings shaped like the shark, a 
 53 This is my translation, though I have benefited from consulting the translation of Ramanujam (2002). For the Sanskrit, I have followed Ramanujam and also consulted Krishnaswami Ayyangar (1976). The following prayer is counted as number 5 in most editions of the Gadyam. 
 54 Throughout, I use exclamation points to mark vocatives. 
@@ -620,8 +608,8 @@ Yours are abundant divine weapons, innumerable, eternal, flawless and unsurpasse
 sva-abhimata-nitya-niravadya-anurūpa-svarūpa-rūpa-guṇa-vibhava aiśvarya-ś¯la-a ı ¯di-anavadhika-atiśaya-asaṇkhyeya-kalyāṇa-guṇa-gaṇa śrīvallabha! Beloved consort of Śrī, who as a host of innumerable auspicious qualities, flawless and superabundant, pleasing to Herself, eternal, flawless and appropriate—beginning with proper form, forms, qualities, powers, sovereign rule, and generosity! 
 evambhūta-bhūmi-nīlā-nāyaka! 
 You are the consort of Bhūmī and Nīlā who are like Śrī! 
-svaccandānuvarti-svarūpa-sthiti-pravr̥tti-bheda-aśeṣaśeṣatā-ekarati-rūpa nitya-niravadya-niratiśaya-jñāna-kriyā-aiśvaryādi-ananta-kalyāṇa-guṇa gaṇa-śeṣa-śeṣāśana-garud˙a-pramukha-nānāvidha-ananta-parijana paricārikā-paricarita-caraṇayugal˙a! 
-Your feet are eternally waited upon by varied and unlimited male and female attendants—first of all Śeṣa, Viṣvaksena, and Garud˙a—whose differences in proper form, continuation, and activity are in accord with Your will, who are of such a nature as find their sole pleasure in being unconditionally dependent, who have a host of endless auspicious qualities—beginning with eternal, flawless and unsur passed knowledge, activity, and lordship! 
+svaccandānuvarti-svarūpa-sthiti-pravr̥tti-bheda-aśeṣaśeṣatā-ekarati-rūpa nitya-niravadya-niratiśaya-jñāna-kriyā-aiśvaryādi-ananta-kalyāṇa-guṇa gaṇa-śeṣa-śeṣāśana-garuḍa-pramukha-nānāvidha-ananta-parijana paricārikā-paricarita-caraṇayugal˙a! 
+Your feet are eternally waited upon by varied and unlimited male and female attendants—first of all Śeṣa, Viṣvaksena, and Garuḍa—whose differences in proper form, continuation, and activity are in accord with Your will, who are of such a nature as find their sole pleasure in being unconditionally dependent, who have a host of endless auspicious qualities—beginning with eternal, flawless and unsur passed knowledge, activity, and lordship! 
 paramayogi-vāṇmanasā aparicchedhya-svarūpa-svabhāva! 
 Your proper form and proper nature are beyond the limits of the words and minds of the highest yogis! 
 svābhimata-vividha-vicitra-ananta-bhogya-bhogopakaraṇa-bhogasthāna-samr̥d dha-ananta-āścarya-ananta-mahāvibhava-ananta-parimāṇa-nitya-niravadya niratiśaya-vaikuṇṭhanātha! You are the Lord of Vaikuṇṭha, eternal, flawless and unsurpassed, of endless measure, of endless great glory, endless in amazement, with objects of enjoyment and instruments of enjoyment endless in kind and variety, all pleasing to You. 
@@ -641,7 +629,7 @@ Carman, John Braisted. 1974. The Theology of Rāmānuja: An Essay in Interreligi
 Clooney, Francis X. 2018 [2017–2018]. “Rāmānuja’s Nityam: A Neglected Key to His Theology.” Brahmavidyā (The Adyar Library Bulletin) 81–82 (Special Issue: Śrī Rāmānuja’s Sahasrābdi): 231– 64. 
 Clooney, Francis X. Forthcoming. “Meditation in Practice in Theory: Rāmānuja’s Prescriptions on Meditation in the Nityam in Light of His Commentarial Works.” In Godabarisha Mishra, ed., a volume of essays marking the one thousandth birth anniversary of Rāmānuja. In preparation. 
 Dutta, Ranjeeta. 2014. From Hagiographies to Biographies: Rāmānuja in Tradition and History. New Delhi: Oxford University Press. 
-Esnoul, Anne-Marie. 1972. “Le Nityagrantha de Rāmānuja.” Journal Asiatique 260, 1–2: 39–78. Garud˙a Vāhana Paṇd˙ita. 1978. Divyasūricaritam, with the Hindi rendering by Paṇd˙ita Mādhavācārya (eds. T. A. Sampath Kumaracharya and K. K. A. Venkatatachari). Bombay: Ananthacharya Research Institute. 
+Esnoul, Anne-Marie. 1972. “Le Nityagrantha de Rāmānuja.” Journal Asiatique 260, 1–2: 39–78. Garuḍa Vāhana Paṇḍita. 1978. Divyasūricaritam, with the Hindi rendering by Paṇḍita Mādhavācārya (eds. T. A. Sampath Kumaracharya and K. K. A. Venkatatachari). Bombay: Ananthacharya Research Institute. 
 Krishna Ayyangar Swami, N. S. See Rāmānuja 2010. 
 Krishnaswami, K. R. See Rāmānuja 2014. 
 Krishnaswami Ayyangar, S. See Rāmānuja 1976. 
