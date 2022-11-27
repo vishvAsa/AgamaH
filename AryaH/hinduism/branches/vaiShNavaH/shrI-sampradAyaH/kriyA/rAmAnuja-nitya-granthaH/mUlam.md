@@ -13,12 +13,6 @@ I. The Purpose of the Nityam: The Daily Practice of the Person Who Has Already T
 अथ परमैकान्तिनो भगवद्-आराधन-प्रयोगं वक्ष्ये ।
 </details>
 
-<details><summary>मूलम्</summary>
-
-अथ परमैकान्तिनो भगवदाराधनप्रयोगं वक्ष्ये ।
-</details>
-
-
 <details><summary>English</summary>
 
 I will now set forth (the performance of) the adoration of the Lord by the person single-mindedly focused on the Highest[^7]. 
@@ -44,10 +38,14 @@ I will now set forth (the performance of) the adoration of the Lord by the perso
     - Vaiṣṇavottamas (the highest devotees of Viṣṇu who single-mindedly obey the commands of the Lord and do what is required).
 </details>
 
-
 <details><summary>English - Notes</summary>
 
 Part One: Routine Preparations, Recollection of the Act of Taking Refuge, and Interior Preparations 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अथ परमैकान्तिनो भगवदाराधनप्रयोगं वक्ष्ये ।
 </details>
 
 <details><summary>English</summary>
@@ -63,30 +61,18 @@ II. Routine Preparations
 परमैकान्ती भूत्वा
 </details>
 
+<details><summary>English</summary>
+
+After he has become a person whose sole pleasure lies in service of the Lord and who is single-mindedly focused on the Highest, 
+</details>
+
 <details><summary>मूलम्</summary>
 
 परमैकान्ती भूत्वा
 </details>
 
 
-<details><summary>English</summary>
-
-After he has become a person whose sole pleasure lies in service of the Lord and who is single-mindedly focused on the Highest, 
-</details>
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-> "भगवानेव स्वशेषभूतेन मया  
-> स्वकीयैश् च देहेन्द्रियान्तःकरणैः,  
-> स्वकीयैर् एव कल्याणतमैर् औपचारिक-सांस्पर्शिकाभ्यवहारिकैः भोगैः,  
-> अखिल-परिजन-परिच्छदान्वितं स्वात्मानं **प्रीतं कारयितुम्**  
-> **उपक्रमते**" 
-
-इत्य् अनुसन्धाय, 
-</details>
-
-<details><summary>मूलम्</summary>
 
 > "भगवानेव स्वशेषभूतेन मया  
 > स्वकीयैश् च देहेन्द्रियान्तःकरणैः,  
@@ -140,15 +126,19 @@ Rastelli:
 </details>
 
 
+<details><summary>मूलम्</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+> "भगवानेव स्वशेषभूतेन मया  
+> स्वकीयैश् च देहेन्द्रियान्तःकरणैः,  
+> स्वकीयैर् एव कल्याणतमैर् औपचारिक-सांस्पर्शिकाभ्यवहारिकैः भोगैः,  
+> अखिल-परिजन-परिच्छदान्वितं स्वात्मानं प्रीतं कारयितुम्  
+> उपक्रमते"
 
-तीर्थे गत्वा,  
-शुचौ देशे, पादौ प्रक्षाल्य,  
-आचम्य,
+इत्य् अनुसन्धाय,
 </details>
 
-<details><summary>मूलम्</summary>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तीर्थे गत्वा,  
 शुचौ देशे, पादौ प्रक्षाल्य,  
@@ -158,6 +148,13 @@ Rastelli:
 <details><summary>English</summary>
 
 Then he goes to a holy stream, washes his feet at a clean spot and sips water. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+तीर्थे गत्वा,  
+शुचौ देशे, पादौ प्रक्षाल्य,  
+आचम्य,
 </details>
 
 
@@ -170,6 +167,13 @@ Then he goes to a holy stream, washes his feet at a clean spot and sips water.
 शोधित-तीरे निधाय,  
 </details>
 
+<details><summary>English</summary>
+
+He purifies the bank. He places some mud on a clean spot with the root mantra,[^10] after dividing it in two and placing it on the purified bank. 
+
+[^10]: The mūla-mantra (in Tamil the “holy mantra” [tiru-mantra]), oṃ namo nārāyaṇāya, “Oṁ, obeisance to Nārāyaṇa.”
+</details>
+
 <details><summary>मूलम्</summary>
 
 तीरं संशोध्य,  
@@ -178,21 +182,9 @@ Then he goes to a holy stream, washes his feet at a clean spot and sips water.
 शोधित-तीरे निधाय,
 </details>
 
-<details><summary>English</summary>
-
-He purifies the bank. He places some mud on a clean spot with the root mantra,[^10] after dividing it in two and placing it on the purified bank. 
-
-[^10]: The mūla-mantra (in Tamil the “holy mantra” [tiru-mantra]), oṃ namo nārāyaṇāya, “Oṁ, obeisance to Nārāyaṇa.”
-</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-एकेन +अधिकभागेन देह-मल-प्रक्षालनं कृत्वा,  
-निमज्य, 
-</details>
-
-<details><summary>मूलम्</summary>
 
 एकेन +अधिकभागेन देह-मल-प्रक्षालनं कृत्वा,  
 निमज्य, 
@@ -203,19 +195,15 @@ He purifies the bank. He places some mud on a clean spot with the root mantra,[^
 With one additional [or: larger] portion, he washes away the impurities of his body. He bathes 
 </details>
 
+<details><summary>मूलम्</summary>
+
+एकेन +अधिकभागेन देह-मल-प्रक्षालनं कृत्वा,  
+निमज्य, 
+</details>
+
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-आचम्य,  
-प्राणायामत्रयम् आसीनो भगवन्तं ध्यायन् कृत्वा,  
-अन्यं मृद्-भागम् आदाय,  
-वाम-पाणि-तले त्रिधा कृत्वा,  
-पृथक् पृथक् संप्रोक्ष्य,  
-अभिमन्त्र्य, 
-</details>
-
-<details><summary>मूलम्</summary>
 
 आचम्य,  
 प्राणायामत्रयम् आसीनो भगवन्तं ध्यायन् कृत्वा,  
@@ -233,15 +221,17 @@ Then he takes the other portion of mud and divides it into three parts in his le
 He sprinkles and blesses each with a mantra.
 </details>
 
+<details><summary>मूलम्</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-एकेन दिग्बन्धनम् अस्त्रमन्त्रेण कुर्यात्,  
-अन्येन तीर्थस्य पीठम्,  
-इतरेण गात्रलेपनम् ॥
+आचम्य,  
+प्राणायामत्रयम् आसीनो भगवन्तं ध्यायन् कृत्वा,  
+अन्यं मृद्-भागम् आदाय,  
+वाम-पाणि-तले त्रिधा कृत्वा,  
+पृथक् पृथक् संप्रोक्ष्य,  
+अभिमन्त्र्य,
 </details>
 
-<details><summary>मूलम्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एकेन दिग्बन्धनम् अस्त्रमन्त्रेण कुर्यात्,  
 अन्येन तीर्थस्य पीठम्,  
@@ -257,20 +247,16 @@ with the third, let him make his seat at the holy stream.
 [^11]: The astra-mantra: oṃ vīryāyāstrāya phaṭ, “Oṁ phaṭ, [obeisance to] the mighty weapon” (Esnoul 1972: 59n4; my translation). The binding of the directions may be marked by the showing of the appropriate mudrā.
 </details>
 
+<details><summary>मूलम्</summary>
+
+एकेन दिग्बन्धनम् अस्त्रमन्त्रेण कुर्यात्,  
+अन्येन तीर्थस्य पीठम्,  
+इतरेण गात्रलेपनम् ॥
+</details>
+
 
 ### तीर्थपूजा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-ततः पाणी प्रक्षाल्य,  
-उदकाञ्जलिम् आदाय तीर्थस्य,  
-अर्घ्यार्थम् उत्क्षिप्य,  
-भगवद्-वाम-पादांगुष्ठ-विनिस्सृत-गङ्गाजलं  
-तीर्थे सङ्कल्पितपीठे आवाह्य,  
-(अर्घ्यं दत्त्वा)  
-मूलमन्त्रेण अभिमन्त्र्य,
-</details>
-
-<details><summary>मूलम्</summary>
 
 ततः पाणी प्रक्षाल्य,  
 उदकाञ्जलिम् आदाय तीर्थस्य,  
@@ -290,17 +276,20 @@ He invokes onto the prepared seat some Gaṇgā-water sprung from the Lord’s l
 After giving guest-water and blessing it with the root mantra,
 </details>
 
+<details><summary>मूलम्</summary>
+
+ततः पाणी प्रक्षाल्य,  
+उदकाञ्जलिम् आदाय तीर्थस्य,  
+अर्घ्यार्थम् उत्क्षिप्य,  
+भगवद्-वाम-पादांगुष्ठ-विनिस्सृत-गङ्गाजलं  
+तीर्थे सङ्कल्पितपीठे आवाह्य,  
+(अर्घ्यं दत्त्वा)  
+मूलमन्त्रेण अभिमन्त्र्य,
+</details>
+
 
 ### मूर्धासेकः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-उदकाञ्जलिम् आदाय,  
-सप्तकृत्वः अभिमन्त्र्य,  
-स्वमूर्ध्नि सिञ्चेत् ।  
-एवं त्रिः, पञ्चकृत्वः, सप्तकृत्वो वा ।
-</details>
-
-<details><summary>मूलम्</summary>
 
 उदकाञ्जलिम् आदाय,  
 सप्तकृत्वः अभिमन्त्र्य,  
@@ -313,16 +302,17 @@ After giving guest-water and blessing it with the root mantra,
 he takes a handful of water, sprinkles it on his head. He recites the mantra seven times; or, he may do this three or five or seven times. 
 </details>
 
+<details><summary>मूलम्</summary>
+
+उदकाञ्जलिम् आदाय,  
+सप्तकृत्वः अभिमन्त्र्य,  
+स्वमूर्ध्नि सिञ्चेत् ।  
+एवं त्रिः, पञ्चकृत्वः, सप्तकृत्वो वा ।
+</details>
+
 
 ### आत्मसम्प्रोक्षणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-दक्षिणेन पाणिना जलम् आदाय, अभिमन्त्र्य, पीत्वा,  
-आचम्य,  
-स्वात्मानं संप्रोक्ष्य,  
-</details>
-
-<details><summary>मूलम्</summary>
 
 दक्षिणेन पाणिना जलम् आदाय, अभिमन्त्र्य, पीत्वा,  
 आचम्य,  
@@ -335,14 +325,16 @@ Then he takes water in his right hand, blesses it with the mantra, and drinks it
 Then he sprinkles himself (scattering it around). 
 </details>
 
+<details><summary>मूलम्</summary>
+
+दक्षिणेन पाणिना जलम् आदाय, अभिमन्त्र्य, पीत्वा,  
+आचम्य,  
+स्वात्मानं संप्रोक्ष्य,
+</details>
+
 
 ### निमज्जनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-तीर्थे निमग्नः - भगवत् पादारविन्द-विन्यस्त-शिरस्कः यावच्-छक्ति मूलमन्त्रं जपित्वा उत्तीर्य,  
-</details>
-
-<details><summary>मूलम्</summary>
 
 तीर्थे निमग्नः - भगवत् पादारविन्द-विन्यस्त-शिरस्कः यावच्-छक्ति मूलमन्त्रं जपित्वा उत्तीर्य,  
 </details>
@@ -352,16 +344,14 @@ Then he sprinkles himself (scattering it around).
 He plunges into the holy stream, and while there, with his head placed at the lotus feet of the Lord, he recites the root mantra as many times as he can. 
 </details>
 
+<details><summary>मूलम्</summary>
+
+तीर्थे निमग्नः - भगवत् पादारविन्द-विन्यस्त-शिरस्कः यावच्-छक्ति मूलमन्त्रं जपित्वा उत्तीर्य,  
+</details>
+
 
 ## वेषः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-शुक्ल-वस्त्र-धरः धृतोत्तरीयश् च,  
-आचम्य,  
-ऊर्ध्व-पुण्ड्रान् तत्-तन्-मन्त्रेण धारयित्वा,  
-</details>
-
-<details><summary>मूलम्</summary>
 
 शुक्ल-वस्त्र-धरः धृतोत्तरीयश् च,  
 आचम्य,  
@@ -374,13 +364,15 @@ Then he gets out and puts on a white lower garment and an upper garment.
 He sips water again and applies the vertical forehead marks with their respective mantras.  
 </details>
 
+<details><summary>मूलम्</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-भगवन्तम् अनुस्मृत्य तत्-तन्-मन्त्रेण भगवत्-पर्यन्ताभिधायिना+++(=??)+++,  
+शुक्ल-वस्त्र-धरः धृतोत्तरीयश् च,  
+आचम्य,  
+ऊर्ध्व-पुण्ड्रान् तत्-तन्-मन्त्रेण धारयित्वा,
 </details>
 
-<details><summary>मूलम्</summary>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भगवन्तम् अनुस्मृत्य तत्-तन्-मन्त्रेण भगवत्-पर्यन्ताभिधायिना+++(=??)+++,  
 </details>
@@ -390,13 +382,12 @@ He sips water again and applies the vertical forehead marks with their respectiv
 He recollects the Lord by the specific mantras with respective names of the Lord in those forms, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>मूलम्</summary>
 
-मूलमन्त्रेण जलं पीत्वा, आचम्य, प्रोक्ष्य, परिषिच्य,  
-उदकाञ्जलिम् आदाय, भगवत्-पादारविन्दयोः निक्षिप्य,  
+भगवन्तम् अनुस्मृत्य तत्-तन्-मन्त्रेण भगवत्-पर्यन्ताभिधायिना+++(=??)+++,  
 </details>
 
-<details><summary>मूलम्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मूलमन्त्रेण जलं पीत्वा, आचम्य, प्रोक्ष्य, परिषिच्य,  
 उदकाञ्जलिम् आदाय, भगवत्-पादारविन्दयोः निक्षिप्य,  
@@ -411,14 +402,13 @@ After scattering the water,
 he pours a handful of water on the Lord’s feet. 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>मूलम्</summary>
 
-प्राणानायम्य, भगवन्तं ध्यात्वा,  
-अष्टोत्तरशतं मूलमन्त्रम् आवर्त्य,  
-परिक्रम्य, नमस्कृत्य,
+मूलमन्त्रेण जलं पीत्वा, आचम्य, प्रोक्ष्य, परिषिच्य,  
+उदकाञ्जलिम् आदाय, भगवत्-पादारविन्दयोः निक्षिप्य,
 </details>
 
-<details><summary>मूलम्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राणानायम्य, भगवन्तं ध्यात्वा,  
 अष्टोत्तरशतं मूलमन्त्रम् आवर्त्य,  
@@ -431,16 +421,17 @@ He controls his breaths, meditates on the Lord, and recites the root mantra one 
 He turns himself around, offers obeisance, 
 </details>
 
+<details><summary>मूलम्</summary>
+
+प्राणानायम्य, भगवन्तं ध्यात्वा,  
+अष्टोत्तरशतं मूलमन्त्रम् आवर्त्य,  
+परिक्रम्य, नमस्कृत्य,
+</details>
+
 
 
 ## तर्पणानि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-आधारशक्त्यादि पृथिव्यन्तं तर्पयित्वा,  
-श्रीवैकुण्ठादिपार्षदान्तं तर्पयित्वा,  
-</details>
-
-<details><summary>मूलम्</summary>
 
 आधारशक्त्यादि पृथिव्यन्तं तर्पयित्वा,  
 श्रीवैकुण्ठादिपार्षदान्तं तर्पयित्वा,  
@@ -454,31 +445,29 @@ He propitiates with water, beginning (above) with the Śrīvaikuṇṭha Heaven 
 [^12]: See the mantras for the consecration of the seat (āsana) below, oṃ ādhāraśaktyai namaḥ, etc., in Section VIII.
 </details>
 
+<details><summary>मूलम्</summary>
+
+आधारशक्त्यादि पृथिव्यन्तं तर्पयित्वा,  
+श्रीवैकुण्ठादिपार्षदान्तं तर्पयित्वा,
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवान् ऋषीन् पितॄन् भगवद्-आत्मकान् ध्यात्वा, सन्तर्प्य,
 </details>
-
-<details><summary>मूलम्</summary>
-
-देवान् ऋषीन् पितॄन् भगवद्-आत्मकान् ध्यात्वा, सन्तर्प्य,
-</details>
-  
 
 <details><summary>English</summary>
 
 He meditates on and propitiates with water the gods, seers, and ancestors, all of whom have the Lord as their self. 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>मूलम्</summary>
 
-शुचौ देशे वस्रं संपीड्य, आचम्य,  
-आवाहित-तीर्थम् आत्मनि मूलमन्त्रेण समाहृत्य,  
-याग-भूमिं गच्छेत् ॥
+देवान् ऋषीन् पितॄन् भगवद्-आत्मकान् ध्यात्वा, सन्तर्प्य,
 </details>
 
-<details><summary>मूलम्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शुचौ देशे वस्रं संपीड्य, आचम्य,  
 आवाहित-तीर्थम् आत्मनि मूलमन्त्रेण समाहृत्य,  
@@ -493,6 +482,13 @@ With the root mantra, he draws into his own self the water already invoked from 
 [^13]: The place of sacrifice (yāgabhūmi) is not further defined by Rāmānuja. It can be wherever the paramaikānti wishes to worship. Esnoul: “This is the first process of interiorization of worship. The sacred ford previously invoked as exterior to the devotee is now integrated within him” (1972: 61n19; my translation).
 </details>
 
+
+<details><summary>मूलम्</summary>
+
+शुचौ देशे वस्रं संपीड्य, आचम्य,  
+आवाहित-तीर्थम् आत्मनि मूलमन्त्रेण समाहृत्य,  
+याग-भूमिं गच्छेत् ॥
+</details>
 
 ## यागभूमौ
 ### भूशुद्धिः
@@ -509,13 +505,6 @@ III. Preparation of the Place of Worship
 तां शोषणादिभिः विशोध्य,  
 </details>
 
-<details><summary>मूलम्</summary>
-
-सुप्रक्षालित-पाणिपादः स्वाचान्तः  
-शुचौ देशे अतिमनोहरे निश्-शब्दे भुवं संगृह्य,  
-तां शोषणादिभिः+++(=शोषण-दहन-(जल-)प्लवनैः मुद्राभिः)+++ विशोध्य,  
-</details>
-
 <details><summary>English</summary>
 
 His hands and feet have been washed well, and he has sipped water suitably.  
@@ -523,6 +512,13 @@ Next then, he chooses ground in a pure and most enchanting place free of noise.
 He thoroughly purifies it by acts of drying,[^16] etc.
 
 [^16]: See Esnoul 1972: 61n22: “drying” (śoṣana) pertains to drying the vessel or removing water from the site; “burning” (dahana), to the presenting of a flame; and “moistening” (plavana), to wetting it anew. According to Chinna Jeeyar Swamiji, “drying” is a symbolic act shown by an appropriate mudrā. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+सुप्रक्षालित-पाणिपादः स्वाचान्तः  
+शुचौ देशे अतिमनोहरे निश्-शब्दे भुवं संगृह्य,  
+तां शोषणादिभिः+++(=शोषण-दहन-(जल-)प्लवनैः मुद्राभिः)+++ विशोध्य,  
 </details>
 
 
@@ -542,13 +538,6 @@ IV. Recollection of Taking Refuge, with the Recitation of the Prayer of Refuge f
 यथाऽवस्थित-स्वरूप-रूप-गुण-विभूति-लीलोपकरण-विस्तारम् अनुसन्धाय,  
 </details>
 
-<details><summary>मूलम्</summary>
-
-गुरु-परम्परया परम-गुरुं भगवन्तम् उपगम्य,  
-तम् एव प्राप्यत्वेन, प्रापकत्वेन, अनिष्ट-निवारकत्वेन  
-यथाऽवस्थित-स्वरूप-रूप-गुण-विभूति-लीलोपकरण-विस्तारम् अनुसन्धाय,  
-</details>
-
 <details><summary>English</summary>
 
 Through the succession of gurus [^14], he approaches the Lord, the supreme guru,  
@@ -560,14 +549,16 @@ He meditates on the expanse of the Lord’s proper form, forms, qualities, power
 [^15]: Krishnaswami (2014: 45): “Having returned to one’s house after bath”; but there is no mention in the Nityam of the devotee’s home, nor indeed of any places but the riverbank and the “place of sacrifice.”
 </details>
 
+<details><summary>मूलम्</summary>
+
+गुरु-परम्परया परम-गुरुं भगवन्तम् उपगम्य,  
+तम् एव प्राप्यत्वेन, प्रापकत्वेन, अनिष्ट-निवारकत्वेन  
+यथाऽवस्थित-स्वरूप-रूप-गुण-विभूति-लीलोपकरण-विस्तारम् अनुसन्धाय,
+</details>
+
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-तम् एव शरणम् उपगच्छेत् "अखिल-हेये"त्यादिना ॥
-</details>
-
-<details><summary>मूलम्</summary>
 
 तम् एव शरणम् उपगच्छेत् "अखिल-हेये"त्यादिना ॥
 </details>
@@ -583,6 +574,11 @@ Then let him approach the Lord alone as refuge, with the words, “All that is t
 See this entire passage at the end of this translation in the Appendix.
 </details>
 
+<details><summary>मूलम्</summary>
+
+तम् एव शरणम् उपगच्छेत् "अखिल-हेये"त्यादिना ॥
+</details>
+
 <details><summary>English - Notes</summary>
 
 V. Interior Preparation for Personal Worship (Pūjā) 
@@ -590,13 +586,6 @@ V. Interior Preparation for Personal Worship (Pūjā)
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-एवं शरणम् उपगम्य, तत्-प्रसादोपबृंहित-मनोवृत्तिः,  
-तम् एव भगवन्तं सर्वेश्वरेश्वरम् आत्मनः स्वामित्वेन +अनुसन्धाय,  
-अत्य्-अर्थ-प्रियाविरत-विशदतम-प्रत्यक्ष-रूपानुध्यानेन ध्यायन् आसीत ॥
-</details>
-
-<details><summary>मूलम्</summary>
 
 एवं शरणम् उपगम्य, तत्-प्रसादोपबृंहित-मनोवृत्तिः,  
 तम् एव भगवन्तं सर्वेश्वरेश्वरम् आत्मनः स्वामित्वेन +अनुसन्धाय,  
@@ -611,13 +600,15 @@ he meditates on that Lord alone, the Lord of all lords, as the Lord of his own s
 Let him sit meditating with a meditation like in form to perception, most clear, uninterrupted, and exceedingly pleasing. 
 </details>
 
+<details><summary>मूलम्</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-ततस् तद्-अनुभव-जनितातिमात्र-प्रीति--कारित--परिपूर्ण-कैङ्कर्य-रूप-पूजाम् आरभेत ॥
+एवं शरणम् उपगम्य, तत्-प्रसादोपबृंहित-मनोवृत्तिः,  
+तम् एव भगवन्तं सर्वेश्वरेश्वरम् आत्मनः स्वामित्वेन +अनुसन्धाय,  
+अत्य्-अर्थ-प्रियाविरत-विशदतम-प्रत्यक्ष-रूपानुध्यानेन ध्यायन् आसीत ॥
 </details>
 
-<details><summary>मूलम्</summary>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस् तद्-अनुभव-जनितातिमात्र-प्रीति--कारित--परिपूर्ण-कैङ्कर्य-रूप-पूजाम् आरभेत ॥
 </details>
@@ -631,28 +622,24 @@ Then let him undertake the worship[^19] that has the form of utterly complete se
 </details>
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>मूलम्</summary>
 
-> भगवान् एव  
-स्व-नियाम्य-स्वरूप--स्थिति-प्रवृत्ति-स्व-शेषतैकरसेन +अनेनात्मना  
-स्वकीयैश् च देहेन्द्रियान्तःकरणैः  
-स्वकीय-कल्याणतम-द्रव्यमयान्  
-औपचारिक-सासंपर्शिकाभ्यवहारिकादि समस्त-भोगान्  
-अतिप्रभूतान् अतिप्रियतमान् अतिसमग्रान् अत्यन्त-भक्ति-कृतान्  
-अखिल-परिजन-परिच्छदान्विताय  
-स्वस्मै स्वप्रीतये स्वयम् एव प्रतिपादयितुम् उपक्रमते
-
-इत्यनुसन्धाय,
+ततस् तदनुभवजनितातिमात्रप्रीतिकारितपरिपूर्णकैङ्कर्यरूपपूजाम् आरभेत ॥
 </details>
 
-<details><summary>मूलम्</summary>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > भगवान् एव  
 स्व-नियाम्य--स्वरूप-स्थिति-प्रवृत्ति--स्व-शेषतैकरसेन  
 +++(स्वनियाम्यैः स्वरूप-स्थिति-प्रवृत्तिभिः स्वशेषता, सैव +एकरसो यस्य सः)+++
 +अनेनात्मना  
 स्वकीयैश् च देहेन्द्रियान्तःकरणैः  
-स्वकीय-कल्याणतम-द्रव्यमयान् औपचारिक-सासंपर्शिकाभ्यवहारिकादि समस्तभोगान् अतिप्रभूतान् अतिप्रियतमान् अतिसमग्रान् अत्यन्तभक्तिकृतान् अखिलपरिजनपरिच्छदान्विताय स्वस्मै स्वप्रीतये स्वयमेव प्रतिपादयितुमुपक्रमते 
+स्वकीय-कल्याणतम-द्रव्यमयान्  
+औपचारिक-सासंपर्शिकाभ्यवहारिकादि समस्त-भोगान्  
+अतिप्रभूतान् अतिप्रियतमान् अतिसमग्रान् अत्यन्त-भक्ति-कृतान्  
+अखिल-परिजन-परिच्छदान्विताय  
+स्वस्मै स्वप्रीतये स्वयम् एव प्रतिपादयितुम् उपक्रमते
 
 इत्यनुसन्धाय,
 </details>
@@ -674,6 +661,16 @@ All these are for His own pleasure, for Himself along with all His retinue and i
 [^20]: Compare the meditation in Section XVIII.
 </details>
 
+<details><summary>मूलम्</summary>
+
+> भगवान् एव  
+स्व-नियाम्यस्वरूपस्थितिप्रवृत्तिस्वशेषतैकरसेनानेनात्मना  
+स्वकीयैश् च देहेन्द्रियान्तःकरणैः  
+स्वकीय-कल्याणतम-द्रव्यमयान् औपचारिक-सासंपर्शिकाभ्यवहारिकादि समस्तभोगान् अतिप्रभूतान् अतिप्रियतमान् अतिसमग्रान् अत्यन्तभक्तिकृतान् अखिलपरिजनपरिच्छदान्विताय स्वस्मै स्वप्रीतये स्वयमेव प्रतिपादयितुमुपक्रमते 
+
+इत्यनुसन्धाय,
+</details>
+
 ### देहशुद्धिः
 <details><summary>English - Notes</summary>
 
@@ -681,7 +678,66 @@ VI. Preparation of the Worshiper’s Body by the Dissolution of the Old Body and
 </details>
 
 
-स्वदेहे पञ्चोपनिषत् मन्त्रान् संहारक्रमेण न्यस्य, प्राणायामेनैकेन दक्षिणपाणिना नाभिदेशे मूलमन्त्रं न्यस्य, मन्त्रोद्भूत चण्डवाय्वाप्यायित नाभिदेशस्थ वायुना शरीरम् अन्तर्बहिश्च सर्वतत्त्वमयं तत्त्वक्रमेण विशोष्य, पुनः प्राणायामेनैकेन हृद्देशे मूलमन्त्रं न्यस्य, मन्त्रोद्भूत चक्राग्निज्वालोपबृह्मित जाठराग्निना दग्ध्वा, तत्तत् समष्टिप्रलीन सर्वतत्व सर्वकिल्बिष सर्वाज्ञानतद्वासनो भूत्वा भगवद्दक्षिणपादाङ्गुष्ठे मन्त्रेण स्वात्मानं प्रवेशयेत् ॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वदेहे पञ्चोपनिषन्-मन्त्रान् संहार-क्रमेण न्यस्य,
+</details>
+
+
+<details><summary>English</summary>
+
+He places on his body the five Upaniṣad mantras[^21] according to the order of dissolution.  
+
+[^21]: The five “Upaniṣadic mantras” appear below, oṃ ṣāṃ namaḥ parāya parameṣṭhyātmane namaḥ, etc. They appear in other texts, such as the Paramasaṃhitā 3.20. Ramabhadracharya (2009: 53) cites here the Parāśara-bhaṭṭārakīya-kriyā-dīpaḥ, pañcopaniṣadāṃ nyāsāt jāyate śaktimān naraḥ, “from the placing of the five Upaniṣadic mantras, is born a man with power.”
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्वदेहे पञ्चोपनिषन्-मन्त्रान् संहार-क्रमेण न्यस्य,
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्राणायामेनैकेन दक्षिणपाणिना नाभिदेशे मूलमन्त्रं न्यस्य,
+</details>
+
+<details><summary>English</summary>
+
+Then, with his right hand, he places the root mantra in the area of his navel for the length of a single breath-control.[^22] 
+
+[^22]: Touching each of the mentioned body parts in turn, beginning here with the navel and continuing below with the heart, head, nose, heart (again), private parts, and feet.
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्राणायामेनैकेन दक्षिणपाणिना नाभिदेशे मूलमन्त्रं न्यस्य,
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मन्त्रोद्भूत चण्ड-वाय्व्-आप्यायित-नाभि-देशस्थ--वायुना  
+शरीरम् अन्तर् बहिश् च सर्व-तत्त्व-मयं  
+तत्त्व-क्रमेण विशोष्य,  
+</details>
+
+<details><summary>English</summary>
+
+According to the order of the elements, he thoroughly dries inside and outside his body that is made of all the elements.  
+He does this by means of the wind that resides in the area of the navel, intensified because of the hot wind arising from the mantra.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मन्त्रोद्भूत चण्डवाय्वाप्यायित नाभिदेशस्थ वायुना  
+शरीरम् अन्तर्बहिश्च सर्वतत्त्वमयं तत्त्वक्रमेण विशोष्य,  
+</details>
+
+
+
+पुनः प्राणायामेनैकेन हृद्देशे मूलमन्त्रं न्यस्य, मन्त्रोद्भूत चक्राग्निज्वालोपबृंहित जाठराग्निना दग्ध्वा, तत्तत् समष्टिप्रलीन सर्वतत्व सर्वकिल्बिष सर्वाज्ञानतद्वासनो भूत्वा भगवद्दक्षिणपादाङ्गुष्ठे मन्त्रेण स्वात्मानं प्रवेशयेत् ॥
 
 अपरेण प्राणायामेन भगवत्प्रसादेन भगवत्किङ्करता-योग्यतामापाद्य, तस्मादादाय, तद्वामपादाङ्गुष्ठात् अधस्तात् मन्त्रेण आत्मानं विन्यस्य, देववामपादाङ्गुष्ठ नखशीतांशु मण्डलात् गलद्दिव्यामृतरसैरात्मानमभिषिञ्चेत् । एवम् आत्मानमभिषिच्य, भगवत्प्रासादेन तदमृतमयं सर्वं कैङ्कर्यैकमनोहरं सर्वकैङ्कर्यैकयोग्यं शरीरं लब्ध्वा, तस्मिन् शरीरे पञ्चोपनिषन्मन्त्रान् सृष्टिक्रमेण विन्यसेत् ॥
 
