@@ -659,7 +659,7 @@ Then let him undertake the worship[^19] that has the form of utterly complete se
 
 <details><summary>English</summary>
 
-He meditates: 
+He meditates[^20]: 
 
 > “The Lord alone—  
 by this self whose single delight lies in belonging entirely to Him,  
@@ -670,6 +670,8 @@ such as are made of His innate and most auspicious substances,
 such as are achieved with extreme devotion,  
 and such as are utterly resplendent, utterly complete, and most pleasing.  
 All these are for His own pleasure, for Himself along with all His retinue and insignia.” 
+
+[^20]: Compare the meditation in Section XVIII.
 </details>
 
 ### देहशुद्धिः

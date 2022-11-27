@@ -136,10 +136,7 @@ Part Three: Pūjā: Intimate Worship of the Lord
 
 ## Text
 
-atha paramaikāntino7 bhagavad-ārādhana(prayoga)ṁ vakṣye (1) 
-
-
-
+atha paramaikāntino7 bhagavad-ārādhana(prayoga)ṁ vakṣye (1)
 
 bhagavatkaiṁkaryaikaratiḥ paramaikāntī bhūtvā 
 
@@ -161,12 +158,6 @@ uttīrya śukla-vastra-dharo dhr̥tottarīyaś (ca) ācamya, ūrdhvapuṇḍrā�
 
 suprakṣālitapāṇipādaḥ svācāntaḥ śucau deśe ’timanohare niśśabde bhuvaṁ saṁgr̥hya, tāṁ śoṣaṇādibhir viśodhya, guruparamparayā paramaguruṁ bhagavantam upa-gamya,14 tam eva prāpyatvena prāpakatvena aniṣṭa nivārakatvena iṣṭaprāpakatvena ca yathā-avasthita-svarūpa-rūpa-guṇa vibhūti-līlā-upakaraṇa-vistāram anusaṁdhāya, 15
 
-
-123
-
-
-
-17 
 tam eva śaraṇam upagacched akhila iti ādinā (8) 
 
 
@@ -178,12 +169,13 @@ tatas tad-anubhava-janita-atimātra-prīti-kārita-paripūrṇa-kaiṁkarya-rūp
 “bhagavān eva sva-niyāmya-svarūpa-sthiti-pravr̥tti-svaśeṣatā-ekarasena anena ātmanā svakīyaiś ca dehendriyāntaḥkaraṇaiḥ svakīya-kalyāṇatama-dravya mayān aupacārika-saṁsparśika-abhyavahārika-ādi-samastabhogān atiprabhūtān atisamagrān atipriyatamān atyanta-bhakti-kr̥tān akhila-parijana paricchada-anvitāya svasmai svaprītaye svayam eva pratipādayitum upakramata” iti anusaṁdhāya,20 
 
 svadehe pañca-upaniṣanmantrān saṁhārakrameṇa nyasya, prāṇāyāmenaikena dakṣiṇena pāṇinā nābhideśe mūlamantraṁ nyasya, 
-He places on his body the five Upaniṣad mantras21 according to the order of 
-dissolution. Then, with his right hand, he places the root mantra in the area of his navel for the length of a single breath-control.22 
+
+He places on his body the five Upaniṣad mantras[^21] according to the order of dissolution.  
+Then, with his right hand, he places the root mantra in the area of his navel for the length of a single breath-control.22 
 mantrodbhūta-caṇḍavāyu-āpyāyita-nābhīdeśa-stha-vāyunā śarīram antarbahiś ca sarvatattvamayaṁ tattvakrameṇa viśoṣya, 
 According to the order of the elements, he thoroughly dries inside and outside his body that is made of all the elements. He does this by means of the wind that resides in the area of the navel, intensified because of the hot wind arising from the mantra. 
 punar api prāṇāyāmenaikena hr̥ddeśe mūlamantraṁ nyasya, mantrodbhūta cakrāgnijvāla-upabr̥ṁhita-jāṭharāgninā dagdhvā tattat-samaṣṭi-pralīna sarvatattva-sarvakilbiṣa-sarvājñāna-tadvāsano bhūtvā, Next, he places the root mantra in the area of his heart for the length of a single breath-control. In this way, he becomes a person in whom all the base elements, all faults, all ignorances, and their residues are dissolved into their respective aggregates, burned up by the stomach fire heated by the flame of the fire of the cakras arising due to the mantra. 
-20 Compare the meditation in Section XVIII. 
+ 
 21 The five “Upaniṣadic mantras” appear below, oṃ ṣāṃ namaḥ parāya parameṣṭhyātmane namaḥ, etc. They appear in other texts, such as the Paramasaṃhitā 3.20. Ramabhadracharya (2009: 53) cites here the Parāśarabhaṭṭārakīyakriyādīpaḥ, pañcopaniṣadāṃ nyāsāt jāyate śaktimān naraḥ, “from the placing of the five Upaniṣadic mantras, is born a man with power.” 
 22 Touching each of the mentioned body parts in turn, beginning here with the navel and continuing below with the heart, head, nose, heart (again), private parts, and feet. 
 123Rāmānuja’s Nityagrantham (“Manual of Daily Worship”): A Translation 355 
