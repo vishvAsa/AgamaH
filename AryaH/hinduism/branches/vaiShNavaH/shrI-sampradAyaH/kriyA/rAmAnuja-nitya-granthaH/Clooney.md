@@ -174,27 +174,21 @@ mantrodbhūta-caṇḍavāyu-āpyāyita-nābhīdeśa-stha-vāyunā śarīram ant
 
 punar api prāṇāyāmenaikena hr̥ddeśe mūlamantraṁ nyasya, mantrodbhūta cakrāgnijvālā-upabr̥ṁhita-jāṭharāgninā dagdhvā tattat-samaṣṭi-pralīna sarvatattva-sarvakilbiṣa-sarvājñāna-tadvāsano bhūtvā, 
 
-Next, he places the root mantra in the area of his heart for the length of a single breath-control. In this way, he becomes a person in whom all the base elements, all faults, all ignorances, and their residues are dissolved into their respective aggregates, burned up by the stomach fire heated by the flame of the fire of the cakras arising due to the mantra. 
+bhagavaddakṣiṇapādāṇguṣṭhe mūlamantreṇa svātmānaṁ praveśayet. (11)  
 
-123Rāmānuja’s Nityagrantham (“Manual of Daily Worship”): A Translation 355 
-bhagavaddakṣiṇapādāṇguṣṭhe mūlamantreṇa svātmānaṁ praveśayet.23 (11) Then, with the root mantra, let him make his own self enter beneath the big toe of the Lord’s right foot. 
 apareṇa prāṇāyāmena bhagavat-prasādena bhagavat-kiṁkaratva-yogyatām āpādya, tasmād ādāya, tad-vāmapāda-aṇguṣṭhād adhastān mūlamantreṇa ātmānaṁ vinyasya, deva-vāmapāda-aṇguṣṭha-nakha-ś¯ta ı ¯ṁśu-maṇḍalanirgalad divyāmr̥ta-rasair ātmānam abhisiñcet 
-By another breath-control, by the Lord’s grace, he achieves fitness for service of the Lord. On that basis, by the root mantra he sets his self under the Lord’s left big toe.24 Let him sprinkle his self with the essence of the divine amṛta flowing from the white moon-maṇḍala (half-moon) of the nail of the big toe of that left foot. 
-evaṁ abhiṣicya, bhagavatprasādena tadamr̥tamayaṁ sarvakaiṁkaryamanoharaṁ sarvakaiṁkaryayogyaṁ śarīraṁ labdhvā, Having thus sprinkled himself, by the Lord’s grace he gains a body made of that ambrosia. It is captivating in all service and fit for all service. 
-tasmin śarīre pañcopaniṣanmantrān, sr̥ṣṭikrameṇa vinyasyet. (12) Let him then set on that body the five Upaniṣad mantras according to the order of creation: oṁ ṣāṁ namaḥ parāya parameṣṭhyātmane namaḥ iti mūrdhni spr̥śet. (13) oṁ yāṁ namaḥ parāya puruṣātmane nama iti nāsāgre, (14) 
+
+evaṁ abhiṣicya, bhagavatprasādena tadamr̥tamayaṁ sarvakaiṁkaryamanoharaṁ sarvakaiṁkaryayogyaṁ śarīraṁ labdhvā, 
+
+
+tasmin śarīre pañcopaniṣanmantrān, sr̥ṣṭikrameṇa vinyasyet. (12) 
+
+oṁ ṣāṁ namaḥ parāya parameṣṭhyātmane namaḥ iti mūrdhni spr̥śet. (13) oṁ yāṁ namaḥ parāya puruṣātmane nama iti nāsāgre, (14) 
 oṁ rāṁ namaḥ parāya viśvātmane nama iti hr̥daye, (15) 
 oṁ vāṁ namaḥ parāya nivr̥ttyātmane nama iti guhye, (16) 
 oṁ lāṁ namaḥ parāya sarvātmane nama iti pādayoḥ,25 (17) 
-Let him place on his head, 
-“Oṁ ṣāṃ, obeisance, obeisance to the supreme superior self”; 
-On his nose, 
-“Oṁ yāṃ, obeisance, obeisance to the self of the supreme person”; On his heart, 
-“Oṁ rāṃ, obeisance, obeisance to the supreme self of all”; 
-On his private parts, 
-“Oṁ vāṃ, obeisance, obeisance for the supreme self of cessation”; On his feet, 
-“Oṁ lāṃ, obeisance, obeisance to the supreme self of everything.” 
-23 Krishna Ayyangar Swami (2010: 26) notes that by way of the saṃhārakrama and sṛṣṭikrama sequence, he discards his prākṛta body and takes on an aprākṛta body suited to the ensuing worship. 24 Rastelli (2005: 121) notes that the purification of the elements (bhūtaśuddhi), which according to the Ahirbudhnyasaṃhita consists of three parts, namely, the action of drying, the action of burning, and the action of recreating the body (see Ahirbudhnyasaṃhita 28.21c–26). Included in the last part is the placement of one’s ātman under the big toe of Viṣṇu’s right foot through which the suitability for being a servant of God (bhagavatkiṃkaratvayogyatā) is attained by His grace. 
-25 This is the sṛṣṭikrama of the five Upaniṣadic mantras: Mannargudi Swamigal reported to me in oral communication that they are Upaniṣadic in the sense that they are secret or sacred, rahasya. 
+
+
 123
 356 Francis X. Clooney 
 evaṁ nyāsaṁ kurvaṁs tattacchaktimayam udbhūtadehaṁ dhyāyet. (18) Doing these placements in this way, let him meditate on the body made of those several powers, now manifested. 

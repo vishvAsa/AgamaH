@@ -678,6 +678,7 @@ VI. Preparation of the Worshiper’s Body by the Dissolution of the Old Body and
 </details>
 
 
+#### संहारः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वदेहे पञ्चोपनिषन्-मन्त्रान् संहार-क्रमेण न्यस्य,
@@ -714,7 +715,7 @@ Then, with his right hand, he places the root mantra in the area of his navel fo
 प्राणायामेनैकेन दक्षिणपाणिना नाभिदेशे मूलमन्त्रं न्यस्य,
 </details>
 
-
+#### शोषणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मन्त्रोद्भूत चण्ड-वाय्व्-आप्यायित-नाभि-देशस्थ--वायुना  
@@ -735,23 +736,171 @@ He does this by means of the wind that resides in the area of the navel, intensi
 शरीरम् अन्तर्बहिश्च सर्वतत्त्वमयं तत्त्वक्रमेण विशोष्य,  
 </details>
 
+#### दाहः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पुनः प्राणायामेनैकेन हृद्-देशे मूल-मन्त्रं न्यस्य,  
+मन्त्रोद्भूत-चक्राग्नि-ज्वालोपबृंहित-जाठराग्निना दग्ध्वा,  
+तत्-तत्-समष्टि-प्रलीन--सर्व-तत्त्व---सर्व-किल्बिष--सर्वाज्ञान--+++(प्रलीन-)+++तद्+++(←किल्बिषाज्ञानादि)+++-वासनो भूत्वा 
+</details>
+
+<details><summary>English</summary>
+
+Next, he places the root mantra in the area of his heart for the length of a single breath-control.  
+In this way, he becomes a person in whom all the base elements, all faults, all ignorances, and their residues are dissolved into their respective aggregates, burned up by the stomach fire heated by the flame of the fire of the cakras arising due to the mantra. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+पुनः प्राणायामेनैकेन हृद्देशे मूलमन्त्रं न्यस्य,  
+मन्त्रोद्भूतचक्राग्निज्वालोपबृंहितजाठराग्निना दग्ध्वा,
+तत्तत् समष्टिप्रलीन सर्वतत्व सर्वकिल्बिष सर्वाज्ञानतद्वासनो भूत्वा 
+</details>
+
+#### अङ्गुष्ठप्राप्तिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भगवद्-दक्षिण-पादाङ्गुष्ठे +++(मूल-)+++मन्त्रेण स्वात्मानं प्रवेशयेत् ॥
+</details>
+
+<details><summary>English</summary>
+
+Then, with the root mantra, let him make his own self enter beneath the big toe of the Lord’s right foot.
+</details>
+
+<details><summary>मूलम्</summary>
+
+भगवद्दक्षिणपादाङ्गुष्ठे मन्त्रेण स्वात्मानं प्रवेशयेत् ॥
+</details>
 
 
-पुनः प्राणायामेनैकेन हृद्देशे मूलमन्त्रं न्यस्य, मन्त्रोद्भूत चक्राग्निज्वालोपबृंहित जाठराग्निना दग्ध्वा, तत्तत् समष्टिप्रलीन सर्वतत्व सर्वकिल्बिष सर्वाज्ञानतद्वासनो भूत्वा भगवद्दक्षिणपादाङ्गुष्ठे मन्त्रेण स्वात्मानं प्रवेशयेत् ॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपरेण प्राणायामेन भगवत्प्रसादेन भगवत्किङ्करता-योग्यतामापाद्य, तस्मादादाय, तद्वामपादाङ्गुष्ठात् अधस्तात् मन्त्रेण आत्मानं विन्यस्य, देववामपादाङ्गुष्ठ नखशीतांशु मण्डलात् गलद्दिव्यामृतरसैरात्मानमभिषिञ्चेत् । एवम् आत्मानमभिषिच्य, भगवत्प्रासादेन तदमृतमयं सर्वं कैङ्कर्यैकमनोहरं सर्वकैङ्कर्यैकयोग्यं शरीरं लब्ध्वा, तस्मिन् शरीरे पञ्चोपनिषन्मन्त्रान् सृष्टिक्रमेण विन्यसेत् ॥
+अपरेण प्राणायामेन, भगवत्-प्रसादेन,  
+भगवत्--किङ्-करता--योग्यताम् आपाद्य,
+</details>
 
-ओं षौं नमः पराय परमेष्ठ्यात्मने नमः, इति मूर्ध्नि स्पृशेत्,
+<details><summary>English</summary>
 
-ओं यां नमः पराय पुरुषात्मने नमः, इति नासिकाग्रे,
+By another breath-control, by the Lord’s grace, he achieves fitness for service of the Lord. 
+</details>
 
-ओं रां नमः पराय विश्वात्मने नमः, इति हृदये,
 
-ओं वां नमः पराय निवृत्त्यात्मने नमः, इति गुह्ये,
+<details><summary>मूलम्</summary>
 
+अपरेण प्राणायामेन भगवत्प्रसादेन भगवत्किङ्करतायोग्यतामापाद्य,
+</details>
+  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मादादाय तद्वामपादाङ्गुष्ठात् अधस्तात् मन्त्रेण आत्मानं विन्यस्य, 
+</details>
+
+<details><summary>English</summary>
+
+On that basis, by the root mantra he sets his self under the Lord’s left big toe.
+</details>
+
+<details><summary>English - Notes</summary>
+
+Krishna Ayyangar Swami (2010: 26) notes that by way of the saṃhārakrama and sṛṣṭikrama sequence, he discards his prākṛta body and takes on an aprākṛta body suited to the ensuing worship.
+
+Rastelli (2005: 121) notes that the purification of the elements (bhūtaśuddhi), which according to the Ahirbudhnyasaṃhita consists of three parts, namely, the action of drying, the action of burning, and the action of recreating the body (see Ahirbudhnyasaṃhita 28.21c–26). Included in the last part is the placement of one’s ātman under the big toe of Viṣṇu’s right foot through which the suitability for being a servant of God (bhagavatkiṃkaratvayogyatā) is attained by His grace.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्मादादाय तद्वामपादाङ्गुष्ठात् अधस्तात् मन्त्रेण आत्मानं विन्यस्य, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+देव-वाम-पादाङ्गुष्ठ-नख-शीतांशु-मण्डलाद्  
+गलद्-दिव्यामृत-रसैर् आत्मानम् अभिषिञ्चेत् ।
+</details>
+
+<details><summary>English</summary>
+
+Let him sprinkle his self with the essence of the divine amṛta flowing from the white moon-maṇḍala (half-moon) of the nail of the big toe of that left foot. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+देववामपादाङ्गुष्ठनखशीतांशुमण्डलात् गलद्दिव्यामृतरसैरात्मानमभिषिञ्चेत् ।
+</details>
+ 
+#### सृष्टिन्यासः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवम् आत्मानम् अभिषिच्य,  
+भगवत्-प्रासादेन तद्-अमृतमयं सर्वं  
+कैङ्कर्यैक-मनोहरं सर्व-कैङ्कर्यैक-योग्यं शरीरं लब्ध्वा,  
+तस्मिन् शरीरे पञ्चोपनिषन्मन्त्रान् सृष्टिक्रमेण विन्यसेत् ॥
+</details>
+
+<details><summary>English</summary>
+
+Having thus sprinkled himself, by the Lord’s grace he gains a body made of that ambrosia.  
+It is captivating in all service and fit for all service.  
+Let him then set on that body the five Upaniṣad mantras according to the order of creation:
+</details>
+
+<details><summary>मूलम्</summary>
+
+एवम् आत्मानमभिषिच्य, भगवत्प्रासादेन तदमृतमयं सर्वं कैङ्कर्यैकमनोहरं सर्वकैङ्कर्यैकयोग्यं शरीरं लब्ध्वा, तस्मिन् शरीरे पञ्चोपनिषन्मन्त्रान् सृष्टिक्रमेण विन्यसेत् ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ओं षौं+++(षाम् इति क्लूनिः)+++ नमः पराय परमेष्ठ्यात्मने नमः, इति मूर्ध्नि स्पृशेत्,  
+ओं यां नमः पराय पुरुषात्मने नमः, इति नासिकाग्रे,  
+ओं रां नमः पराय विश्वात्मने नमः, इति हृदये,  
+ओं वां नमः पराय निवृत्त्यात्मने नमः, इति गुह्ये,  
 ओँ लां नमः पराय सर्वात्मने नमः, इति पादयोः,
+</details>
 
-एवं न्यासं कुर्यात् । तत्तच्छक्तिमयमुद्भूतं देहं ध्यायेत् ।
+<details><summary>English</summary>
+
+Let him place on his head,  
+“Oṁ ṣāṃ, obeisance, obeisance to the supreme superior self”;  
+On his nose,  
+“Oṁ yāṃ, obeisance, obeisance to the self of the supreme person”;  
+On his heart,  
+“Oṁ rāṃ, obeisance, obeisance to the supreme self of all”;  
+On his private parts,  
+“Oṁ vāṃ, obeisance, obeisance for the supreme self of cessation”;  
+On his feet,  
+“Oṁ lāṃ, obeisance, obeisance to the supreme self of everything.” 
+</details>
+
+<details><summary>English - Notes</summary>
+
+This is the sṛṣṭikrama of the five Upaniṣadic mantras: Mannargudi Swamigal reported to me in oral communication that they are Upaniṣadic in the sense that they are secret or sacred, rahasya. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ओं षौं नमः पराय परमेष्ठ्यात्मने नमः, इति मूर्ध्नि स्पृशेत्,  
+ओं यां नमः पराय पुरुषात्मने नमः, इति नासिकाग्रे,  
+ओं रां नमः पराय विश्वात्मने नमः, इति हृदये,  
+ओं वां नमः पराय निवृत्त्यात्मने नमः, इति गुह्ये,  
+ओँ लां नमः पराय सर्वात्मने नमः, इति पादयोः,
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवं न्यासं कुर्यात् ।  
+तत्-तच्-छक्तिमयम् उद्भूतं देहं ध्यायेत् ।
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एवं न्यासं कुर्यात् ।  
+तत्तच्छक्तिमयमुद्भूतं देहं ध्यायेत् ।
+</details>
 
 पुनरपि प्राणायामेन एकेन देववामपादाङ्गुष्ठविनिस्सृतामृतधारया आत्मानमभिषिच्य, कृतलाञ्छनः धृतोर्ध्वपुण्ड्रः भगवद्यागमारभेत ॥
 
