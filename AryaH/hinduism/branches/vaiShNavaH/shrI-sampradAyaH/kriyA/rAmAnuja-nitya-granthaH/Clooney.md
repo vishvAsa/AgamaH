@@ -188,19 +188,20 @@ oṁ rāṁ namaḥ parāya viśvātmane nama iti hr̥daye, (15)
 oṁ vāṁ namaḥ parāya nivr̥ttyātmane nama iti guhye, (16) 
 oṁ lāṁ namaḥ parāya sarvātmane nama iti pādayoḥ,25 (17) 
 
+evaṁ nyāsaṁ kurvaṁs tattacchaktimayam udbhūtadehaṁ dhyāyet. (18) 
 
-123
-356 Francis X. Clooney 
-evaṁ nyāsaṁ kurvaṁs tattacchaktimayam udbhūtadehaṁ dhyāyet. (18) Doing these placements in this way, let him meditate on the body made of those several powers, now manifested. 
+
 punar api prāṇāyāmenaikena bhagavadvāmapāda-aṇguṣṭha-vinissr̥ta-amr̥ta dhārayā ātmānam abhiṣicya kr̥talāñchano dhr̥tordhvapuṇḍro bhagavadyāgam ārabheta. (19) 
-Then, for the length of one breath-control, he sprinkles his self with the flow of ambrosia streaming from the big toe of the left foot of the Lord. His marks thus complete, and wearing the upward forehead mark, let him now undertake the Lord’s sacrifice. 
-VII. Preparations for Personal Worship 
+
 “bhagavān eva sarvaṁ kārayati” iti pūrvavat dhyātvā, hr̥dyāgaṁ kr̥tvā, sambhārān sambhr̥tya ātmano vāmapārśve jalakumbhe toyam utpūrya, gandhapuṣpayutaṁ kr̥tvā, saptakr̥tvo ’bhimantrya, viśoṣya, dagdhvā, divyāmr̥tatoyam utpādya, astramantreṇa rakṣāṁ kr̥tvā, surabhimudrāṁ pradarśya, anyāni pūjādravyāṇi ātmano dakṣiṇapārśve nidhāya, ātmanaḥ puratas svāstīrṇe pīṭhe krameṇa agneyādikoṇeṣu arghya-pādya-ācamanīya snānīyapātrāṇi nidhāya, astramantreṇa prakṣālya, śoṣaṇādinā pātrāṇi viśodhya, saṁskr̥tatoyena tāni ca pūrayitvā, arghyapātre gandhapuṣpakuśāgrākṣa-tādīni nikṣipet. (20) 
-He meditates as before,26 “The Lord alone makes it all be done,” performing the sacrifice in his heart. 
+
+
 He collects his equipment27 and fills with water the water pot at his left side. He adds to this incense and flowers. After reciting mantras seven times, he dries thoroughly and burns and makes arise the divine ambrosia. He protects it with the protection mantra28 and presents the cow-mudrā.29 He places on his right side the other worship materials. On a well-spread seat in front of him, at the southeast corner, etc., he places the bowls of guest-water, foot-washing-water, water for sipping, and bathing-water. He washes them with the protection mantra, and then thoroughly purifies the bowls with acts of drying, etc. He fills them with the prepared water. Then let him place in the guest-water bowl the incense, flowers, pointed kuśa grass, unhusked rice, etc. 
+
 dūrvāṁ viṣṇuparṇ¯mı˙ śyāmākaṁ padmakaṁ pādyapātre (21) 
 elālavaṇgatakkolalāmajjakajātīpuṣpāṇi ācamanīye (22) dve haridre murā- śaileya-takkola-jaṭāmāṁsī-malayaja-gandha-campaka-puṣpāṇi snānīye siddhārthakādīni snānīye. (23) 
-26 Regarding this meditation, see Section II. 
+
+ 
 27 Now he uses various implements, material or mentally composed. 
 28 Krishnaswami (2014: 55): astra-mantra, like the one recited when shooting an arrow. 29 Krishnaswami (2014: 55): surabhi-mudrā, “Fingers from both hands forming the udder of a cow.” 
 123
@@ -643,3 +644,17 @@ Venkatakrishnan, M. A. See Rāmānuja 2017.
 Publisher's Note 
 Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations. 
 123
+
+
+<details><summary>On Clooney</summary>
+
+> Kalavai once mentioned that he met a Sikh couple converted to pretonmatta by Clooney. That Sikh couple was from Texas. They made the mistake of asking what Kalavai would do if Jesus comes again. Kalavai said he'd take a gun and shoot the preta on the head. And he won't be arrested in Texas as it is self-defence. Their answer was "Talk to Clooney. He'll answer your doubts.."
+> 
+> - Kasturi
+
+> Gurumurthy asked him if he will avoid converting Hindus now that he has understood the depth of Hindu philosophy. Clooney stated that bringing the light of preta to everyone is his duty and he will continue to do that.  
+> 
+> Imagine using purva mimamsa arguments with the addition of seshvara mimamsa to establish Logos aka Bible as eternal and also bring in God as giver of rewards.. essentially applying vishishtadvaita arguments of desika to shore up their own philosophy.
+> 
+> - Ravilochana
+</details>

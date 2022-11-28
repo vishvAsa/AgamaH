@@ -895,6 +895,11 @@ This is the sṛṣṭikrama of the five Upaniṣadic mantras: Mannargudi Swamig
 तत्-तच्-छक्तिमयम् उद्भूतं देहं ध्यायेत् ।
 </details>
 
+<details><summary>English</summary>
+
+Doing these placements in this way, let him meditate on the body made of those several powers, now manifested. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -902,9 +907,57 @@ This is the sṛṣṭikrama of the five Upaniṣadic mantras: Mannargudi Swamig
 तत्तच्छक्तिमयमुद्भूतं देहं ध्यायेत् ।
 </details>
 
-पुनरपि प्राणायामेन एकेन देववामपादाङ्गुष्ठविनिस्सृतामृतधारया आत्मानमभिषिच्य, कृतलाञ्छनः धृतोर्ध्वपुण्ड्रः भगवद्यागमारभेत ॥
 
-भगवानेव सर्वान् कारयतीति पूर्ववत् ध्यात्वा, हृद्यागं कृत्वा, संभारान् संभृत्य, आत्मनो वामपार्श्वे, जलभाजने तोयमुत्पूर्य, गन्धपुष्पयुतं कृत्वा, सप्तकृत्वः अभिमन्त्र्य, विशोष्य दग्ध्वा, दिव्यामृतमयं तोयमुत्पाद्य, अस्त्रमन्त्रेण रक्षां कृत्वा, सुरभिमुद्रां प्रदर्श्य, अन्यानि पूजा द्रव्याणि दक्षिण पार्श्वे निधाय, आत्मनः पुरस्तात् स्वास्तीर्णे पीठे क्रमेण आग्नेयादिषु कोणेषु अर्घ्य पाद्य आचमनीय स्नानीय पात्राणि निधाय, अस्त्रमन्त्रेण प्रक्षाल्य, शोषणादिना पात्राणि विशोध्य, संस्कृततोयेन तानि पूरयित्वा,   
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पुनरपि प्राणायामेनैकेन  
+देव-वाम-पादाङ्गुष्ठ-विनिस्सृतामृत-धारया ऽऽत्मानम् अभिषिच्य,  
+कृत-लाञ्छनो धृतोर्ध्वपुण्ड्रः  
+भगवद्-यागम् आरभेत ॥
+</details>
+
+<details><summary>English</summary>
+
+Then, for the length of one breath-control,  
+he sprinkles his self with the flow of ambrosia streaming from the big toe of the left foot of the Lord.  
+His marks thus complete, and wearing the upward forehead mark,  
+let him now undertake the Lord’s sacrifice. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पुनरपि प्राणायामेनैकेन देववामपादाङ्गुष्ठविनिस्सृतामृतधारया आत्मानमभिषिच्य,  
+कृतलाञ्छनः धृतोर्ध्वपुण्ड्रः भगवद्यागमारभेत ॥
+</details>
+
+<details><summary>English - Notes</summary>
+
+VII. Preparations for Personal Worship 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भगवान् एव सर्वान् कारयतीति पूर्ववत् ध्यात्वा,  
+हृद्-यागं कृत्वा, 
+</details>
+
+<details><summary>English</summary>
+
+He meditates as before,[^26] “The Lord alone makes it all be done,” performing the sacrifice in his heart.
+
+[^26]: Regarding this meditation, see Section II.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भगवानेव सर्वान् कारयतीति पूर्ववत् ध्यात्वा,  
+हृद्यागं कृत्वा, 
+</details>
+
+
+संभारान् संभृत्य, आत्मनो वामपार्श्वे, जलभाजने तोयमुत्पूर्य, गन्धपुष्पयुतं कृत्वा, सप्तकृत्वः अभिमन्त्र्य, विशोष्य दग्ध्वा, दिव्यामृतमयं तोयमुत्पाद्य, अस्त्रमन्त्रेण रक्षां कृत्वा, सुरभिमुद्रां प्रदर्श्य, अन्यानि पूजा द्रव्याणि दक्षिण पार्श्वे निधाय, आत्मनः पुरस्तात् स्वास्तीर्णे पीठे क्रमेण आग्नेयादिषु कोणेषु अर्घ्य पाद्य आचमनीय स्नानीय पात्राणि निधाय, अस्त्रमन्त्रेण प्रक्षाल्य, शोषणादिना पात्राणि विशोध्य, संस्कृततोयेन तानि पूरयित्वा,   
 अर्घ्यपात्रे -- सिद्धार्थक गन्ध पुष्प कुशाग्राक्षतादीनि निक्षिपेत्,
 
 पाद्यपात्रे -- दूर्वां विष्णुपर्णीं श्यामाकं पद्मकम्,
