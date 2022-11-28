@@ -1189,12 +1189,83 @@ He meditates on each in its place, moving upward, and offers obeisance, saying,
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 "ओं श्रीवैकुण्ठाय दिव्यलोकाय नमः 6" इति श्रीवैकुण्ठदिव्यलोकं प्रणम्य,  
 "ओं श्रीवैकुण्ठाय दिव्यजनपदाय नमः 7" इति दिव्यजनपदं प्रणम्य,  
 "ओं श्रीवैकुण्ठाय दिव्यनगराय नमः 8" इति दिव्यनगरं प्रणम्य,  
 "ओं श्रीवैकुण्ठाय दिव्यविमानाय नमः 9" इति दिव्यविमानं प्रणम्य,  
 "ओम् आनन्दमयाय दिव्यमण्टपरत्नाय नमः 10" इति मण्टपरत्नं प्रणम्य,  
 तस्मिन् - "अनन्ताय नागराजाय नमः 11" इति, आस्तरणं प्रणम्य,  
+</details>
+
+<details><summary>English</summary>
+
+He offers obeisance to the divine world,   
+“Oṁ, obeisance to Śrīvaikuṇṭha, the divine world,”  
+He offers obeisance to the home of the divine populace,  
+“Oṁ, obeisance to Śrīvaikuṇṭha, home of the divine populace,”  
+He offers obeisance to the divine city, Śrīvaikuṇṭha, 
+“Oṁ, obeisance to Śrīvaikuṇṭha, the divine city,” 
+He offers obeisance to the divine palace,  
+“Oṁ, obeisance to Śrīvaikuṇṭha, the divine palace,” 
+He offers obeisance to the jeweled pavilion,  
+“Oṁ, obeisance to the jeweled pavilion made of bliss,”
+And in that place he offers obeisance to the cushion of herbs, “Oṁ, obeisance to Ananta [, king of snakes].”
+</details>
+
+<details><summary>मूलम्</summary>
+
+"ओं श्रीवैकुण्ठाय दिव्यलोकाय नमः 6" इति श्रीवैकुण्ठदिव्यलोकं प्रणम्य,  
+"ओं श्रीवैकुण्ठाय दिव्यजनपदाय नमः 7" इति दिव्यजनपदं प्रणम्य,  
+"ओं श्रीवैकुण्ठाय दिव्यनगराय नमः 8" इति दिव्यनगरं प्रणम्य,  
+"ओं श्रीवैकुण्ठाय दिव्यविमानाय नमः 9" इति दिव्यविमानं प्रणम्य,  
+"ओम् आनन्दमयाय दिव्यमण्टपरत्नाय नमः 10" इति मण्टपरत्नं प्रणम्य,  
+तस्मिन् - "अनन्ताय नागराजाय नमः 11" इति, आस्तरणं प्रणम्य,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तदुपरि - "ओं धर्माय नमः 12" इति आग्नेय्यां पादं विन्यस्य,  
+"ओं ज्ञानाय नमः 13" इति नैर्ऋत्याम्,  
+"ओं वैराग्याय नमः 14" इति वायव्याम्,  
+"ओम् ऐश्वर्याय नमः 15" इति ऐशान्याम्,   
+"ओम् अधर्माय नमः 16" इति प्राच्यां पीठगात्रं विन्यस्य,  
+"ओम् अज्ञानाय नमः 17" इति दक्षिणस्यां,  
+"ओम् अवैराग्याय नमः 18" इति पश्चिमायां,  
+"ओम् अनैश्वर्याय नमः 19" इति उत्तरस्याम्,  
+एभिः परिच्छिन्न-तनुं पीठ-भूतं सद्-आत्मकम् अनन्तं विन्यसेत्,  
+पश्चात् सर्वकार्योन्मुखं विभुम् अनन्तम्  
+"ओम् अनन्ताय नमः 20" इति,   
+</details>
+
+<details><summary>English</summary>
+
+Still higher,  
+He sets the southeast (āgneya) quarter,  
+“Oṁ, obeisance to dharma.”  
+He sets the southwest (nairṛtya) quarter, 
+“Oṁ, obeisance to knowledge.”  
+He sets the northwest (vāyavya) quarter, 
+“Oṁ, obeisance to dispassion.”  
+He sets the northeast (aiśānya) quarter,  
+“Oṁ, obeisance to lordly power.”  
+
+He sets the seat in the east,
+“Oṁ, obeisance to non-dharma.”
+He sets it in the south,
+“Oṁ, obeisance to non-knowledge.”
+He sets it in the west,
+“Oṁ, obeisance to non-dispassion.”
+He sets it in the north,
+“Oṁ, obeisance to non-lordly power.”
+
+He sets there Ananta whose body is defined by the preceding and who has become a seat, made of being.  
+He sets it behind Ananta who anticipates all that must be done and is pervasive, “Oṁ, obeisance to Ananta,” 
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 तदुपरि - "ओं धर्माय नमः 12" इति आग्नेय्यां पादं विन्यस्य,  
 "ओं ज्ञानाय नमः 13" इति नैर्ऋत्याम्,  
@@ -1205,17 +1276,398 @@ He meditates on each in its place, moving upward, and offers obeisance, saying,
 "ओम् अवैराग्याय नमः 18" इति पश्चिमायां,  
 "ओम् अनैश्वर्याय नमः 19" इति उत्तरस्याम्,  
 एभिः परिच्छिन्नतनुं पीठभूतं सदात्मकम् अनन्तं विन्यसेत्,  
+पश्चात् सर्वकार्योन्मुखं विभुमनन्तम्  
+"ओम् अनन्ताय नमः 20" इति,
+</details>
 
-पश्चात् सर्वकार्योन्मुखं विभुमनन्तम् ओम् अनन्ताय नमः 20 इति,   
-तस्मिन्नुपरि - ओं पद्माय नमः 21 इति पद्मं विन्यस्य, पूर्वपत्रे ओं विमलायै चामरहस्तायै नमः 22 इति विमलां चामरहस्तां विन्यस्य, ततः आरभ्य प्रादक्षिण्येन ऐशानान्तं पत्रेषु - ओम् उत्कर्षिण्यै चामरहस्तायै नमः 23, ओं ज्ञानायै चामरहस्तायै नमः 24, ओं क्रियायै चामरहस्तायै नमः 25, ओं योगायै चामरहस्तायै नमः 26, ओं प्र(भ्व्यै)ह्व्यै चामरहस्तायै नमः 27, ओं सत्यायै चामरहस्तायै नमः 28, ओम् ईशानायै चामरहस्तायै नमः 29, इति अष्टशक्तयः, चामरहस्ता विन्यस्तव्याः, ओम् अनुग्रहायै चामरहस्तायै नमः 30, इति कर्णिकापूर्वपार्श्वे अनुग्रहां चामरहस्तां विन्यसेत्,   
-ओं जगत्प्रकृतये योगपीठाय नमः 31 इति योगपीठं सङ्कल्प्य, "ओं दिव्याय योगपीठपर्यङ्काय नमः 32" इति दिव्ययोगपीठपर्यङ्कं विन्यस्य, तस्मिन् अनन्तं नागराजं सहस्रफणाशोभितं, ओम् अनन्ताय नागराजाय नमः 33 इति न्यस्य, ओम् अनन्ताय नमः, इति पुरस्तात् पादपीठं विन्यस्य, सर्वाणि आधारशक्त्यादीनि पीठान्तानि तत्वानि प्रत्येकं गन्धपुष्पधूपदीपैः संपूज्य सर्वपरिवाराणां तत्तत्स्थानेषु पद्मासनानि संकल्प्य, अनन्तगरुडविष्वक्सेनानां सपीठकं पद्मं विन्यस्य, सर्वतः पुष्पाक्षतान् विकीर्य, योगपीठस्य पश्चिमोत्तरदिग्भागे ओम् अस्मद्गुरुभ्यो नमः इति गुरून् गन्धपुष्पधूपदीपैः अभ्यर्च्य, प्रणम्य अनुज्ञाप्य भगवद्यागमारभेत ।
 
-कल्पिते नागभोगे समासीनं भगवन्तं नारायणं पुणडरीकदलामलायतेक्षणं किरीट-मकुट-केयूर-हार-कटकादि सर्वभूषणैर्भूषितं आकुञ्चित-दक्षिणपादं प्रसारितवामपादं जानुन्यस्तप्रसारित-दक्षिणभुजं, नागभोगे विन्यस्तवामभुजं ऊर्ध्वभुजद्वयेन शङ्खचक्रधरं सर्वेषां सृष्टिस्थितिप्रलयहेतुभूतम्, अञ्जनाभं कौस्तुभेन विराजमानं चकासतं उदग्र-प्रबुद्ध-स्फुरदपूर्वाचिन्त्य-परमसत्त्व-पञ्चशक्तिमयविग्रहं पञ्चोपनिषदैः ध्यात्वा आराधनाभिमुखो भवेति मूलमन्त्रेण प्रार्थ्य, मूलमन्त्रेण दण्डवत् प्रणम्य, उत्थाय स्वागतं निवेद्य, यावाराधनसमाप्ति सान्निध्ययाचनं कुर्यात्,
 
-अन्यत्र स्वाभिमते देशे पूजा चेत् एवमावाहनम् - मन्त्रयोगः समाह्वानं करपुष्पोपदर्शनम् । बिम्बोपवेशनं चैव योगविग्रहचिन्तनम् ॥ प्रणामं च समुत्थानं स्वागतं पुष्पमेव च । सान्निध्ययाचनं चेति तत्राह्वानस्य सत्क्रियाः ॥ इति ।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततो भगवन्तं प्रणम्य दक्षिणतः ओं श्रीं श्रियै नमः इति श्रियमावाह्य, प्रणम्य, वामे "ओं भूं भूम्यै नमः" इति मन्त्रेण भुवमावाह्य, तत्रैव नीं नीलायै नमः इति नीलामावाह्य, "किरीटाय मकुटाधिपतये नमः" इति उपरि भगवतः पश्चिमपार्श्वे चतुर्भुजं चतुर्वक्त्रं कृताञ्जलिपुटं मूर्ध्नि भगवतः किरीटधरं किरीटाख्यदिव्यभूषणं प्रणम्य, एवमेव ओं किरीटमालायै आपीडात्मने नमः इति, आपीडकं तत्रैव पुरस्तात् प्रणम्य, ओं दक्षिणकुण्डलाय मकरात्मने नमः इति दक्षिणकुण्डलं दक्षिणतः प्रणम्य, ओं वामकुण्डलाय मकरात्मने नमः इति वामकुण्डलं, वामतः प्रणम्य, ओं वैम् वैजयन्त्यै वनमालायै नमः इति वैजयन्तीं पुरस्तात् प्रणम्य, ओं श्रीमत्तुलस्यै नमः इति तुलसीं देवीं पुरस्तात् प्रणम्य, ओं हाराय सर्वाभरणाधिपतये नमः इति हारं पुरतः प्रणम्य, ओं श्रीवत्साय श्रीनिवासाय नमः इति श्रीवत्सं पुरतः प्रणम्य, ओं श्री कौस्तुभाय सर्वरत्नाधिपतये नमः इति कौस्तुभं सर्वरत्नाधिपतिं पुरतः प्रणम्य, ओं काञ्चीगुणोज्जवलाय दिव्यपीताम्बराय नमः इति पीताम्बरं पुरतः प्रणम्य, सर्वेभ्यो दिव्यभूषणेभ्यो नमः इति सर्वभूषणानि पुरतः प्रणम्य,   
-औं श्री सुदर्शनाय हेतिराजाय नमः इति सुदर्शनात्मानं रक्तवर्णं रक्तनेत्रं द्विभुजं कृताञ्जलिपुटं भगवन्तमालोकयन्तम् तद्दर्शनानन्दोबृंहितमुखं भगवच्चक्रं मूर्धि धारयन्तं दक्षिणतः प्रणम्य, तत्रैव ओं नन्दकाय खड्गाधिपतये नमः इति नन्दकात्मानं शिरसि खड्गं धारयन्तं प्रणम्य, तत्रैव ओं पद्माय नमः इति पद्मात्मानं शिरसि पद्मं धारयन्तं प्रणम्य ओं पाञ्चजन्याय शङ्खाधिपतये नमः इति शङ्खात्मानं श्वेतवर्णं रक्तनेत्रं द्विभुजं कृताञ्जलिपुटं शिरसि शङ्खं धारयन्तं वामतः प्रणम्य, तत्रैव ओं कौमोदक्यै गदाधिपत्न्यै नमः इति गदां देवीं प्रणम्य, तत्रैव ओं शार्ङ्गाय चापाधिपतये नमः इति शार्ङ्गात्मानं प्रणम्य, ओं सर्वेभ्यो भगवद्दिव्यायुधेम्यो नमः इति, सर्वाणि भगवदायुधानि परितः प्रणम्य,   
+तस्मिन्नुपरि -  
+"ओं पद्माय नमः 21"  
+इति पद्मं विन्यस्य,  
+पूर्वपत्रे - "ओं विमलायै चामरहस्तायै नमः 22" इति विमलां चामरहस्तां विन्यस्य,  
+ततः आरभ्य प्रादक्षिण्येन ऐशानान्तं पत्रेषु -  
+"ओम् उत्कर्षिण्यै चामरहस्तायै नमः 23",  
+"ओं ज्ञानायै चामरहस्तायै नमः 24",  
+"ओं क्रियायै चामरहस्तायै नमः 25",  
+"ओं योगायै चामरहस्तायै नमः 26",  
+"ओं प्र(भ्व्यै)ह्व्यै चामरहस्तायै नमः 27",  
+"ओं सत्यायै चामरहस्तायै नमः 28",  
+"ओम् ईशानायै चामरहस्तायै नमः 29", इति ~~अष्टशक्तयश्~~ सप्त शक्तीश् चामरहस्ता ~~विन्यस्तव्याः~~ विन्यस्य,  
+"ओम् अनुग्रहायै चामरहस्तायै नमः 30", इति कर्णिकापूर्वपार्श्वे अनुग्रहां चामरहस्तां विन्यसेत्,   
+</details>
+
+<details><summary>English</summary>
+
+He sets the lotus above that[^32],  
+“Oṁ, obeisance to Padma,”  
+He sets Vimalā (with the fan in her hand) on its eastern petal, “Oṁ, obeisance to Vimalā.”  
+Having begun that way, turning about, he sets the seven powers[^33] with fans in their hands on the petals ending with the Sovereign:
+“Oṁ, obeisance to the Excellent with the fan in her hand,”
+“Oṁ, obeisance to Knowledge with the fan in her hand,”
+“Oṁ, obeisance to Action with the fan in her hand,”
+“Oṁ, obeisance to Unity with the fan in her hand,”
+“Oṁ, obeisance to Modesty with the fan in her hand,”
+“Oṁ, obeisance to Truth with the fan in her hand,”
+“Oṁ, obeisance to the Sovereign with the fan in her hand,”
+
+[^32]: Krishna Ayyangar Swami (2010: 32): Our Lord does service for the nityamuktas in the paramapada, with his aprākṛta divya vigraha, and so now here in our gṛhārcā, he graciously performed the tiru ārādhanam. Experiencing this in our minds, we do the ārādhana mentally, with all its details.
+
+[^33]: Krishna Ayyangar Swami (2010: 33) here mentions eight mantras, including the prior one for Vimalā. Esnoul (1972: 67n49) says that the order of worship follows the order of circumambulation, the direction of the sun, circling around the Lord. The pericarp (karṇikā) of the lotus, at the center, meshes with the first fold in the form of Ananta.
+
+
+He sets Favor with the fan in her hand in the eastern part of the lotus’s pericarp, “Oṁ, obeisance to Favor with the fan in her hand,”
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तस्मिन्नुपरि -  
+"ओं पद्माय नमः 21"  
+इति पद्मं विन्यस्य,  
+पूर्वपत्रे - "ओं विमलायै चामरहस्तायै नमः 22" इति विमलां चामरहस्तां विन्यस्य,  
+ततः आरभ्य प्रादक्षिण्येन ऐशानान्तं पत्रेषु -  
+"ओम् उत्कर्षिण्यै चामरहस्तायै नमः 23",  
+"ओं ज्ञानायै चामरहस्तायै नमः 24",  
+"ओं क्रियायै चामरहस्तायै नमः 25",  
+"ओं योगायै चामरहस्तायै नमः 26",  
+"ओं प्र(भ्व्यै)ह्व्यै चामरहस्तायै नमः 27",  
+"ओं सत्यायै चामरहस्तायै नमः 28",  
+"ओम् ईशानायै चामरहस्तायै नमः 29", इति अष्टशक्तयश् चामरहस्ता विन्यस्तव्याः,  
+"ओम् अनुग्रहायै चामरहस्तायै नमः 30", इति कर्णिकापूर्वपार्श्वे अनुग्रहां चामरहस्तां विन्यसेत्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"ओं जगत्प्रकृतये योगपीठाय नमः 31" इति योगपीठं सङ्कल्प्य,  
+"ओं दिव्याय योग[पीठ]पर्यङ्काय नमः 32" इति दिव्य-योग[पीठ]पर्यङ्कं विन्यस्य,  
+</details>
+
+<details><summary>English</summary>
+
+He sets the yoga-seat, 
+“Oṁ, obeisance to the yoga-seat, material source of the world,” He sets the divine yoga-seat, 
+“Oṁ, obeisance the divine yoga-couch-seat,” 
+</details>
+
+<details><summary>मूलम्</summary>
+
+"ओं जगत्प्रकृतये योगपीठाय नमः 31" इति योगपीठं सङ्कल्प्य,  
+"ओं दिव्याय योग[पीठ]पर्यङ्काय नमः 32" इति दिव्य-योग[पीठ]पर्यङ्कं विन्यस्य,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मिन्न् अनन्तं नागराजं सहस्रफणाशोभितं,  
+"ओम् अनन्ताय नागराजाय नमः 33" इति विन्यस्य,  
+"ओम् अनन्ताय नमः", इति पुरस्तात् पादपीठं विन्यस्य,  
+</details>
+
+<details><summary>English</summary>
+
+He sets Ananta, king of snakes, resplendent with a thousand hoods, “Oṁ, obeisance to Ananta, king of snakes,”  
+He sets the foot-seat in front,  
+“Oṁ, obeisance to Ananta,” 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तस्मिन्न् अनन्तं नागराजं सहस्रफणाशोभितं,  
+"ओम् अनन्ताय नागराजाय नमः 33" इति विन्यस्य,  
+"ओम् अनन्ताय नमः", इति पुरस्तात् पादपीठं विन्यस्य,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वाणि आधारशक्त्यादीनि पीठान्तानि तत्त्वानि  
+प्रत्येकं गन्धपुष्पधूपदीपैः संपूज्य  
+सर्वपरिवाराणां तत्तत्स्थानेषु पद्मासनानि संकल्प्य,  
+अनन्तगरुडविष्वक्सेनानां सपीठकं पद्मं विन्यस्य,  
+सर्वतः पुष्पाक्षतान् विकीर्य,  
+</details>
+
+<details><summary>English</summary>
+
+He reverences all the elements, beginning with the Foundation Power and ending with the Seats.  
+He does this for each with scents, flowers, incense, and flame. 
+
+He prepares the lotus-seats in their respective places, for the whole entourage,  
+and sets the lotus with its seat for Ananta, Garuḍa, and Viṣvaksena.[^34]  
+He strews flowers and unhusked rice everywhere, 
+
+[^34]: Senior attendants on Nārāyaṇa: the serpent Ananta, the eagle Garuḍa, and the commander Viṣvaksena.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सर्वाणि आधारशक्त्यादीनि पीठान्तानि तत्त्वानि  
+प्रत्येकं गन्धपुष्पधूपदीपैः संपूज्य,  
+
+सर्वपरिवाराणां तत्तत्स्थानेषु पद्मासनानि संकल्प्य,  
+अनन्तगरुडविष्वक्सेनानां सपीठकं पद्मं विन्यस्य,  
+सर्वतः पुष्पाक्षतान् विकीर्य,
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+योगपीठस्य पश्चिमोत्तरदिग्भागे  
+"ओम् अस्मद्गुरुभ्यो नमः" इति गुरून् गन्धपुष्पधूपदीपैः अभ्यर्च्य,  
+प्रणम्य, +अनुज्ञाप्य,  
+भगवद्यागमारभेत ।
+</details>
+
+<details><summary>English</summary>
+
+and on the northwest side of the yoga-seat he worships the gurus with scents, flowers, incense, and flame, saying, 
+“Oṁ, obeisance to my gurus,”   
+He prostrates himself. With their permission, let him undertake the Lord’s sacrifice. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+योगपीठस्य पश्चिमोत्तरदिग्भागे  
+"ओम् अस्मद्गुरुभ्यो नमः" इति गुरून् गन्धपुष्पधूपदीपैः अभ्यर्च्य,  
+प्रणम्य, +अनुज्ञाप्य,  
+भगवद्यागमारभेत ।
+
+</details>
+
+### देवकल्पनम्
+<details><summary>English - Notes</summary>
+
+IX. Mental Representation of the Lord, and the Prayer that He be Present up to the End of the Worship 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कल्पिते नागभोगे समासीनं  
+भगवन्तं नारायणं पुणडरीकदलामलायतेक्षणं  
+किरीट-मकुट-केयूर-हार-कटकादि-सर्वभूषणैर्भूषितं  
+</details>
+
+<details><summary>English</summary>
+
+He meditates on the Lord Nārāyaṇa who is seated on the coils of the visualized serpent;  
+his eyes as elongated and pure as petals of the lotus;  
+as adorned with all His adornments, the crowns, necklaces, armlets and bracelets, etc.,  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कल्पिते नागभोगे समासीनं  
+भगवन्तं नारायणं पुणडरीकदलामलायतेक्षणं  
+किरीट-मकुट-केयूर-हार-कटकादि-सर्वभूषणैर्भूषितं  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आकुञ्चित-दक्षिणपादं  
+प्रसारितवामपादं  
+
+जानुन्यस्तप्रसारित-दक्षिणभुजं,  
+नागभोगे विन्यस्तवामभुजं  
+ऊर्ध्वभुजद्वयेन शङ्खचक्रधरं  
+</details>
+
+<details><summary>English</summary>
+
+
+His right leg bent, His left leg forward,  
+His right arm forward and placed on His knee,  
+His left arm placed on the coils of the serpent;  
+as holding the conch and wheel with His two upper hands;  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आकुञ्चित-दक्षिणपादं  
+प्रसारितवामपादं  
+
+जानुन्यस्तप्रसारित-दक्षिणभुजं,  
+नागभोगे विन्यस्तवामभुजं  
+ऊर्ध्वभुजद्वयेन शङ्खचक्रधरं  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वेषां सृष्टिस्थितिप्रलयहेतुभूतम्,  
+अञ्जनाभं, कौस्तुभेन विराजमानं चकासतं  
+उदग्र-प्रबुद्ध-स्फुरदपूर्वाचिन्त्य-परमसत्त्व-पञ्चशक्तिमयविग्रहं  
+पञ्चोपनिषदैः ध्यात्वा  
+</details>
+
+<details><summary>English</summary>
+
+as the cause for the creation, preservation, and destruction of all;  
+dark in appearance and shines with the kaustubha gem;  
+as the supreme pure being, unprecedented and inconceivable, shining, awake, tall, manifest, His body comprised of the five powers. He does all this with the five Upaniṣad mantras. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सर्वेषां सृष्टिस्थितिप्रलयहेतुभूतम्,  
+अञ्जनाभं, कौस्तुभेन विराजमानं चकासतं  
+उदग्र-प्रबुद्ध-स्फुरदपूर्वाचिन्त्य-परमसत्त्व-पञ्चशक्तिमयविग्रहं  
+पञ्चोपनिषदैः ध्यात्वा  
+</details>
+
+
+### सान्निध्य-कल्पनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आराधनाभिमुखो भवेति मूलमन्त्रेण प्रार्थ्य,  
+मूलमन्त्रेण दण्डवत् प्रणम्य,  
+उत्थाय स्वागतं निवेद्य,  
+यावाराधनसमाप्ति सान्निध्ययाचनं कुर्यात्,
+</details>
+
+<details><summary>English</summary>
+
+After praying, with the root mantra  
+“Look favorably on my worship,”  
+with the root mantra he falls prostrate like a stick.  
+After rising and offering welcome,  
+let him ask Him to be present up to the completion of the worship.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आराधनाभिमुखो भवेति मूलमन्त्रेण प्रार्थ्य,  
+मूलमन्त्रेण दण्डवत् प्रणम्य,  
+उत्थाय स्वागतं निवेद्य,  
+यावाराधनसमाप्ति सान्निध्ययाचनं कुर्यात्,
+</details>
+
+<details><summary>English - Notes</summary>
+
+X. An Option Regarding Place 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्यत्र स्वाभिमते देशे पूजा चेत् एवमावाहनम् - 
+
+मन्त्रयोगः समाह्वानं करपुष्पोपदर्शनम् ।  
+बिम्बोपवेशनं चैव योग-विग्रह-चिन्तनम् ॥  
+प्रणामं च समुत्थानं स्वागतं पुष्पमेव च ।  
+सान्निध्ययाचनं चेति तत्राह्वानस्य सत्क्रियाः ॥ 
+
+इति ।
+</details>
+
+<details><summary>English</summary>
+
+If the worship is to be elsewhere, in one’s own preferred place[^35], similarly the invocation,  
+
+> the practice [employment] of mantras; the invocation;  
+the showing of the flower in the hand;  
+the entering (of the divine energy) into the image;  
+reflection on [visualization of] the yogic form;  
+obeisance and rising; the welcome and just the flower;  
+the prayer that He be present there.  
+Such is the right practice of invocation.
+
+[^35]: Mannargudi Swamigal reported to me in oral communication that the svābhimatadeśa may pertain to the kind of image one worships, for example, an orthodox mūrti or a śāligrāma.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अन्यत्र स्वाभिमते देशे पूजा चेत् एवमावाहनम् - 
+
+मन्त्रयोगः समाह्वानं करपुष्पोपदर्शनम् ।  
+बिम्बोपवेशनं चैव योगविग्रहचिन्तनम् ॥  
+प्रणामं च समुत्थानं स्वागतं पुष्पमेव च ।  
+सान्निध्ययाचनं चेति तत्राह्वानस्य सत्क्रियाः ॥ 
+
+इति ।
+
+</details>
+
+
+<details><summary>English - Notes</summary>
+
+XI. Second Invocation of the Lord and His Retinue: Contemplative Descent from the Celestial Realm to the Earthly Place of Worship 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ततो भगवन्तं प्रणम्य  
+दक्षिणतः "ओं श्रीं श्रियै नमः" इति श्रियमावाह्य, प्रणम्य,  
+वामे "ओं भूं भूम्यै नमः" इति मन्त्रेण भुवमावाह्य,  
+तत्रैव "नीं नीलायै नमः" इति नीलामावाह्य,  
+</details>
+
+<details><summary>English</summary>
+
+Then he makes an obeisance before the Lord on the right (sic).  
+Invoking Śrī, he makes an obeisance on the left (sic),  
+“Oṁ śrīṃ, obeisance to Śrī.” 
+He invokes Bhū right there too,  
+“Oṁ bhūṃ, obeisance to Bhū.”  
+There too he invokes Nīlā,  
+“Oṁ nīṃ, obeisance to Nīlā.”
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ततो भगवन्तं प्रणम्य  
+दक्षिणतः "ओं श्रीं श्रियै नमः" इति श्रियमावाह्य, प्रणम्य,  
+वामे "ओं भूं भूम्यै नमः" इति मन्त्रेण भुवमावाह्य,  
+तत्रैव "नीं नीलायै नमः" इति नीलामावाह्य,
+</details>
+
+<details><summary>English - Notes</summary>
+
+Esnoul observes regarding this and the following sections: 
+
+> “The officiant first evokes the three spouses of the deity [Śrī, Bhū, and Nīlā];  
+> he continues with reference to a series of common objects now personified.  
+> The kirīṭa is an incarnation of the divine crown;  
+> the text attributes to it four faces, such as are ordinarily a characteristic of Brahmā.  
+> The kirīṭamālya is a garland for the head, made of flowers threaded together.   
+> The earrings are in the form of a makara, a kind of crocodile.  
+> The vaijayantī is the garland (vanamālā) that hangs lower, often containing tulasī flowers (basilic) dedicated to Viṣṇu.  
+> The śrīvatsa is a curl of hair on the chest of Viṣṇu—and of Kr̥ṣṇa—in a cruciform design.  
+> The sudarśana, the discus, is a magical weapon of Viṣṇu which many texts proclaim to be formidable.  
+> The nanda is taken particularly as the sword of Kr̥ṣṇa,  
+> while the pañcajanya is the conch which myth takes to be the demon Pāñcajana who lives in the depths of the ocean in the form of a shell which Kr̥ṣṇa seized.  
+> The kaumodakī is the mace which Agni gave to Kr̥ṣṇa before his battle with Indra.  
+> The śārṅga, whose name is derived from sṛṅga (horn), is usually presented as the bow of Kr̥ṣṇa.  
+> We thus notice that these elements in the Kr̥ṣṇa-related legend predominate in this reprise of things— ornaments or arms—belonging to Viṣṇu”  
+> (1972: 69n56; my translation).
+</details>
+
+
+"किरीटाय मकुटाधिपतये नमः" इति उपरि भगवतः पश्चिमपार्श्वे  
+चतुर्भुजं चतुर्वक्त्रं कृताञ्जलिपुटं मूर्ध्नि भगवतः किरीटधरं किरीटाख्यदिव्यभूषणं प्रणम्य,  
+एवमेव "ओं किरीटमालायै आपीडात्मने नमः" इति +आपीडकं तत्रैव पुरस्तात् प्रणम्य,  
+"ओं दक्षिणकुण्डलाय मकरात्मने नमः" इति दक्षिणकुण्डलं दक्षिणतः प्रणम्य,  
+"ओं वामकुण्डलाय मकरात्मने नमः" इति वामकुण्डलं, वामतः प्रणम्य,  
+"ओं वैम् वैजयन्त्यै वनमालायै नमः" इति वैजयन्तीं पुरस्तात् प्रणम्य,  
+"ओं श्रीमत्तुलस्यै नमः" इति तुलसीं देवीं पुरस्तात् प्रणम्य,  
+"ओं हाराय सर्वाभरणाधिपतये नमः" इति हारं पुरतः प्रणम्य,  
+"ओं श्रीवत्साय श्रीनिवासाय नमः" इति श्रीवत्सं पुरतः प्रणम्य,  
+"ओं श्री-कौस्तुभाय सर्वरत्नाधिपतये नमः" इति कौस्तुभं सर्वरत्नाधिपतिं पुरतः प्रणम्य,  
+"ओं काञ्चीगुणोज्जवलाय दिव्यपीताम्बराय नमः" इति पीताम्बरं पुरतः प्रणम्य,  
+"सर्वेभ्यो दिव्यभूषणेभ्यो नमः" इति सर्वभूषणानि पुरतः प्रणम्य,  
+
+"ॐ श्री-सुदर्शनाय हेतिराजाय नमः" इति सुदर्शनात्मानं रक्तवर्णं रक्तनेत्रं द्विभुजं कृताञ्जलिपुटं भगवन्तमालोकयन्तम् तद्दर्शनानन्दोबृंहितमुखं भगवच्चक्रं मूर्धि धारयन्तं दक्षिणतः प्रणम्य, तत्रैव ओं नन्दकाय खड्गाधिपतये नमः इति नन्दकात्मानं शिरसि खड्गं धारयन्तं प्रणम्य, तत्रैव ओं पद्माय नमः इति पद्मात्मानं शिरसि पद्मं धारयन्तं प्रणम्य ओं पाञ्चजन्याय शङ्खाधिपतये नमः इति शङ्खात्मानं श्वेतवर्णं रक्तनेत्रं द्विभुजं कृताञ्जलिपुटं शिरसि शङ्खं धारयन्तं वामतः प्रणम्य, तत्रैव ओं कौमोदक्यै गदाधिपत्न्यै नमः इति गदां देवीं प्रणम्य, तत्रैव ओं शार्ङ्गाय चापाधिपतये नमः इति शार्ङ्गात्मानं प्रणम्य, ओं सर्वेभ्यो भगवद्दिव्यायुधेम्यो नमः इति, सर्वाणि भगवदायुधानि परितः प्रणम्य,   
 ओं सर्वाभ्यो भगवत्पादारविन्द संवाहिनीभ्यो नमः इति, दिव्यपादारविन्दसंवाहिनीः समन्ततः प्रणम्य, ओं सर्वेभ्यो भगवत्परिचारकेभ्यो नमः इति भगवत्परिचारकान् प्रणम्य, ओं सर्वाभ्यो भगवत्परिचारिकाभ्यो नमः इति भगवत्परिचारिकाः प्रणम्य,  
 ओं अनन्ताय नागराजाय नमः इति पृष्ठतः अनन्तं भगवन्तं चतुर्भुजं हलमुसलधरं कृताञ्जलिपुटं फणामणिसहस्रमण्डितोत्तमाङ्गं भगवद्दर्शनानन्दोपबृह्मितसर्वाङ्गं ध्यात्वा प्रणम्य, ओं सर्वेभ्यो भगवत्परिजनेभ्यो नमः इति,   
 अनुक्तासङ्ख्येयपरिजनान् समन्ततः प्रणम्य, ओं भगवत्पादुकाभ्यां नमः इति, पादुके पुरतः प्रणम्य, ओं सर्वेभ्यो भगवत्परिच्छदेभ्यो नमः इति, परिच्छदान् समन्ततः प्रणम्य,  

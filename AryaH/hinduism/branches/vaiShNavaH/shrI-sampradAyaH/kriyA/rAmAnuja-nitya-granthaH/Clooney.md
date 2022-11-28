@@ -222,53 +222,23 @@ oṁ [bhūṁ] bhūmyai namaḥ iti
 yathāsthānam upari upari dhyātvā praṇamya, 
 
 oṁ śrīvaikuṇṭhāya divyalokāya namaḥ iti divyalokaṁ praṇamya, oṁ śrīvaikuṇṭhāya divyajanapadāya namaḥ iti divyajanapadaṁ praṇamya, oṁ śrīvaikuṇṭhāya divyanagarāya namaḥ iti divyanagaraṁ praṇamya, oṁ śrīvaikuṇṭhāya divyavimānāya namaḥ iti divyavimānaṁ praṇamya, oṁ ānandamayāya divyamaṇṭaparatnāya namaḥ iti maṇṭapa-ratnaṁ praṇamya, tasmin anantāya [nāgarājāya] namaḥ iti āstaraṇam praṇamya, 
-He offers obeisance to the divine world, 
-“Oṁ, obeisance to Śrīvaikuṇṭha, the divine world,” 
-He offers obeisance to the home of the divine populace, 
-“Oṁ, obeisance to Śrīvaikuṇṭha, home of the divine populace,” He offers obeisance to the divine city, Śrīvaikuṇṭha, 
-“Oṁ, obeisance to Śrīvaikuṇṭha, the divine city,” 
-He offers obeisance to the divine palace, 
-“Oṁ, obeisance to Śrīvaikuṇṭha, the divine palace,” 
-He offers obeisance to the jeweled pavilion, 
-123
-Rāmānuja’s Nityagrantham (“Manual of Daily Worship”): A Translation 359 
-“Oṁ, obeisance to the jeweled pavilion made of bliss,” 
-And in that place he offers obeisance to the cushion of herbs, “Oṁ, obeisance to Ananta [, king of snakes].” 
+
 tasminn upari, 
 oṁ dharmāya namaḥ iti āgneyyāṁ pādaṁ vinyasya, 
 oṁ jñānāya namaḥ iti nairr̥tyām, 
 oṁ vairāgyāya namaḥ iti vāyavyām, 
 oṁ aiśvaryāya namaḥ iti aiśānyām, 
-Still higher, 
-He sets the southeast (āgneya) quarter, 
-“Oṁ, obeisance to dharma.” 
-He sets the southwest (nairṛtya) quarter, 
-“Oṁ, obeisance to knowledge.” 
-He sets the northwest (vāyavya) quarter, 
-“Oṁ, obeisance to dispassion.” 
-He sets the northeast (aiśānya) quarter, 
-“Oṁ, obeisance to lordly power.” 
+
 oṁ adharmāya namaḥ iti prācyāṁ gātraṁ vinyasya, 
 oṁ ajñānāya namaḥ iti dakṣiṇasyām, 
 oṁ avairāgyāya namaḥ iti pratīcyām, 
 oṁ anaiśvaryāya namaḥ iti uttarasyām, 
-He sets the seat in the east, 
-“Oṁ, obeisance to non-dharma.” 
-He sets it in the south, 
-“Oṁ, obeisance to non-knowledge.” 
-He sets it in the west, 
-“Oṁ, obeisance to non-dispassion.” 
-He sets it in the north, 
-“Oṁ, obeisance to non-lordly power.” 
-ebhiḥ paricchinna-tanuṁ pīṭhabhūtaṁ sadātmakam anantaṁ vinyasya, He sets there Ananta whose body is defined by the preceding and who has become a seat, made of being. 
+
+ebhiḥ paricchinna-tanuṁ pīṭhabhūtaṁ sadātmakam anantaṁ vinyasya,  
 paścāt sarvakāryonmukhaṁ vibhum anantam oṁ anantāya namaḥiti vinyasya, tasminn upari oṁ padmāya namaḥ iti padmaṁ vinyasya,32 
-tatpūrvapatre oṁ vimalāyai (cāmarahastāyai) namaḥ iti vimalāṁ cāmarahastāṁ vinyasya, He sets it behind Ananta who anticipates all that must be done and is pervasive, “Oṁ, obeisance to Ananta,” 
-32 Krishna Ayyangar Swami (2010: 32): Our Lord does service for the nityamuktas in the paramapada, with his aprākṛta divya vigraha, and so now here in our gṛhārcā, he graciously performed the tiru ārādhanam. Experiencing this in our minds, we do the ārādhana mentally, with all its details. 
-123
-360 Francis X. Clooney 
-He sets the lotus above that, 
-“Oṁ, obeisance to Padma,” 
-He sets Vimalā (with the fan in her hand) on its eastern petal, “Oṁ, obeisance to Vimalā.” 
+tatpūrvapatre oṁ vimalāyai (cāmarahastāyai) namaḥ iti vimalāṁ cāmarahastāṁ vinyasya, 
+
+
 tata ārabhya 
 prādakṣiṇyena īśānāntaṁ patreṣu 
 oṁ utkarṣiṇyai cāmarahastāyai namaḥ, 
@@ -278,71 +248,45 @@ oṁ prahvyai cāmarahastāyai namaḥ,
 oṁ satyāyai cāmarahastāyai namaḥ, 
 oṁ ¯sı´ānāyai cāmarahastāyai namaḥ iti 
 sapta śaktīś cāmarahastā vinyasya, 
-Having begun that way, turning about, he sets the seven powers33 with fans in their hands on the petals ending with the Sovereign: 
-“Oṁ, obeisance to the Excellent with the fan in her hand,” 
-“Oṁ, obeisance to Knowledge with the fan in her hand,” 
-“Oṁ, obeisance to Action with the fan in her hand,” 
-“Oṁ, obeisance to Unity with the fan in her hand,” 
-“Oṁ, obeisance to Modesty with the fan in her hand,” 
-“Oṁ, obeisance to Truth with the fan in her hand,” 
-“Oṁ, obeisance to the Sovereign with the fan in her hand,” 
-oṁ anugrahāyai cāmarahastāyai namaḥ iti karṇikāpūrvabhāge ’nugrahāṁ cāmarahastāṁ vinyasya, oṁ jagatprakr̥taye yogapīṭhāya namaḥ iti yogapīṭhaṁ vinyasya, oṁ divyāya yogaparyaṇkāya namaḥ iti divyayogaparyaṇkaṁ vinyasya, tasminn anantaṁ nāgarājaṁ sahasraphaṇāśobhitam oṁ anantāya nāgarājāya namaḥ iti vinyasya, 
+
+oṁ anugrahāyai cāmarahastāyai namaḥ iti karṇikāpūrvabhāge ’nugrahāṁ cāmarahastāṁ vinyasya,  
+
+oṁ jagatprakr̥taye yogapīṭhāya namaḥ iti yogapīṭhaṁ vinyasya, oṁ divyāya yogaparyaṇkāya namaḥ iti divyayogaparyaṇkaṁ vinyasya, tasminn anantaṁ nāgarājaṁ sahasraphaṇāśobhitam oṁ anantāya nāgarājāya namaḥ iti vinyasya, 
 oṁ anantāya namaḥ iti purataḥ pādapīṭhaṁ vinyasya, 
-He sets Favor with the fan in her hand in the eastern part of the lotus’s pericarp, “Oṁ, obeisance to Favor with the fan in her hand,” 
-He sets the yoga-seat, 
-“Oṁ, obeisance to the yoga-seat, material source of the world,” He sets the divine yoga-seat, 
-“Oṁ, obeisance the divine yoga-couch-seat,” 
-He sets Ananta, king of snakes, resplendent with a thousand hoods, “Oṁ, obeisance to Ananta, king of snakes,” 
-33 Krishna Ayyangar Swami (2010: 33) here mentions eight mantras, including the prior one for Vimalā. Esnoul (1972: 67n49) says that the order of worship follows the order of circumambulation, the direction of the sun, circling around the Lord. The pericarp (karṇikā) of the lotus, at the center, meshes with the first fold in the form of Ananta. 
-123
-Rāmānuja’s Nityagrantham (“Manual of Daily Worship”): A Translation 361 
-He sets the foot-seat in front, 
-“Oṁ, obeisance to Ananta,” 
+
 sarvāṇi ādhāraśaktyādīni pīṭhāntāni tattvāni pratyekaṁ gandhapuṣpadhūpadīpair abhyarcya, sarvaparivārāṇāṁ tattatsthāne padmāsanāni saṁkalpya, anantagaruḍaviṣvaksenānāṁ sapīṭhakaṁ padmaṁ vinyasya, sarvataḥ puṣpākṣatādīni vikīrya, yogapīṭhasya paścimottaradigbhāge 
 oṁ asmadgurubhyo namaḥ iti gurūn gandhapuṣpadhūpadīpais sampūjya, praṇamya anujñāpya bhagavatyāgam ārabheta. (30) 
-He reverences all the elements, beginning with the Foundation Power and ending with the Seats. He does this for each with scents, flowers, incense, and flame. He prepares the lotus-seats in their respective places, for the whole entourage, and sets the lotus with its seat for Ananta, Garuḍa, and Viṣvaksena.34 He strews flowers and unhusked rice everywhere, and on the northwest side of the yoga-seat he worships the gurus with scents, flowers, incense, and flame, saying, 
-“Oṁ, obeisance to my gurus,” 
-He prostrates himself. With their permission, let him undertake the Lord’s sacrifice. 
-IX. Mental Representation of the Lord, and the Prayer that He be Present up to the End of the Worship 
-kalpite nāgabhoge samāsīnaṁ bhagavantaṁ nārāyaṇaṁ puṇḍarīka dala-amalā-yatākṣaṁ kirīṭahāra-keyūra-kaṭaka-ādi-sarvabhūṣaṇair bhūṣitaṁ ākuñcitadakṣiṇapādaṁ prasāritavāmapādaṁ jānunyasta prasāritadakṣiṇabhujaṁ nāgabhoge vinyastavāmabhujam ūrdhvabhujadvayena śaṇkhacakradharaṁ sarveṣāṁ sr̥ṣṭi-sthiti-pralaya hetubhūtam añjanābhaṁ kaustubhena virājamānaṁ cakāsatam udagra prabuddha-sphurad-apūrva-ācintya-parama-sattva-pañca-śakti-maya vigrahaṁ pañcopaniṣadair dhyātvā, 
-He meditates on the Lord Nārāyaṇa who is seated on the coils of the visualized serpent; his eyes as elongated and pure as petals of the lotus; as adorned with all His adornments, the crowns, necklaces, armlets and bracelets, etc., His right leg bent, His left leg forward, His right arm forward and placed on His knee, His left arm placed on the coils of the serpent; as holding the conch and wheel with His two upper hands; as the cause for the creation, preservation, and destruction of all; dark in appearance and shines with the kaustubha gem; as the supreme pure being, unprecedented and inconceivable, shining, awake, tall, manifest, His body comprised of the five powers. He does all this with the five Upaniṣad mantras. 
-34 Senior attendants on Nārāyaṇa: the serpent Ananta, the eagle Garuḍa, and the commander Viṣvaksena. 123
-362 Francis X. Clooney 
+
+
+kalpite nāgabhoge samāsīnaṁ bhagavantaṁ nārāyaṇaṁ puṇḍarīka dala-amalā-yatākṣaṁ kirīṭahāra-keyūra-kaṭaka-ādi-sarvabhūṣaṇair bhūṣitaṁ ākuñcitadakṣiṇapādaṁ prasāritavāmapādaṁ jānunyasta prasāritadakṣiṇabhujaṁ nāgabhoge vinyastavāmabhujam ūrdhvabhujadvayena śaṇkhacakradharaṁ  
+sarveṣāṁ sr̥ṣṭi-sthiti-pralaya hetubhūtam  
+añjanābhaṁ kaustubhena virājamānaṁ cakāsatam udagra prabuddha-sphurad-apūrva-ācintya-parama-sattva-pañca-śakti-maya vigrahaṁ pañcopaniṣadair dhyātvā, 
+
+
 ārādhanābhimukho bhava iti mūlamantreṇa prārthya, mūlamantreṇa daṇḍavat praṇamya, utthāya, svāgataṁ nivedya, yāvad ārādhanasamāpti sānnidhyayācanaṁ kuryāt. (31) 
-After praying, with the root mantra 
-“Look favorably on my worship,” 
-with the root mantra he falls prostrate like a stick. After rising and offering welcome, let him ask Him to be present up to the completion of the worship. 
-X. An Option Regarding Place 
+
+
+
 anyatra svābhimatadeśe pūjā ced evam āvāhanam 
 mantrayogas samāhvānaṁ karapuṣpopadarśanam | 
 bimbopaveśanaṁ caiva yogavigrahacintanam || 
 praṇāmaś ca samutthānaṁ svāgataṁ puṣpam eva ca | 
 sānnidhyayācanaṁ ceti tatrāhvānasya satkriyāḥ ||35 (32) 
-If the worship is to be elsewhere, in one’s own preferred place, similarly the invocation, the practice [employment] of mantras; the invocation; the showing of the flower in the hand; the entering (of the divine energy) into the image; reflection on [visualization of] the yogic form; obeisance and rising; the welcome and just the flower; the prayer that He be present there. 
-Such is the right practice of invocation. 
-XI. Second Invocation of the Lord and His Retinue: Contemplative Descent from the Celestial Realm to the Earthly Place of Worship 
+
+ 
 tato bhagavantaṁ praṇamya dakṣiṇataḥ, 
 oṁ śrīṁ śriyai nama iti śriyam āvāhya praṇamya vāmataḥ oṁ bhūṁ bhūmyai nama iti bhuvam āvāhya 
 tatraiva, 
 oṁ nīṁ nīlāyai nama iti nīlām āvāhya, 
 oṁ kirīṭāya makuṭādhipataye nama iti 
 upari bhagavataḥ paścimapārśve caturbāhuṁ caturvaktraṁ kr̥tāñjalipuṭaṁ mūrdhni bhagavatkirīṭaṁ dhārayantaṁ kirīṭākhyadivyapuruṣaṁ praṇamya, 
-Then he makes an obeisance before the Lord on the right. 
-Invoking Śrī, he makes an obeisance on the left, 
-“Oṁ śrīṃ, obeisance to Śrī.” 
-He invokes Bhū right there too, 
-“Oṁ bhūṃ, obeisance to Bhū.” 
-35 Mannargudi Swamigal reported to me in oral communication that the svābhimatadeśa may pertain to the kind of image one worships, for example, an orthodox mūrti or a śāligrāma. 
-123
-Rāmānuja’s Nityagrantham (“Manual of Daily Worship”): A Translation 363 
-There too he invokes Nīlā, 
-“Oṁ nīṃ, obeisance to Nīlā.”36 
+
 Up above, he makes an obeisance to the divine person named “Crown” who places the Lord’s crown on His head, who is four-mouthed and four-armed, with his hands joined in salutation, and who is above the Lord on His western side, “Oṁ, obeisance to Crown, ruler of diadems.” 
 evam eva 
 oṁ kirīṭamālyāya āpīḍakātmane nama iti āpīḍakaṁ tatraiva purastāt praṇamya, 
 oṁ dakṣiṇakuṇḍalāya makarātmane nama iti dakṣiṇakuṇḍalaṁ dakṣiṇataḥ praṇamya, oṁ vāmakuṇḍalāya makarātmane nama iti vāmakuṇḍalaṁ vāmataḥ praṇamya, oṁ vaijayantyai vanamālāyai nama iti vaijayantīṁ purataḥ praṇamya, oṁ śrīmattulasyai nama iti tulasīṁ devīṁ purataḥ praṇamya, 
 oṁ śrīvatsāya śrīnivāsāya nama iti śrīvatsaṁ purataḥ praṇamya, oṁ hārāya sarvābharaṇādhipataye nama iti hāraṁ purataḥ praṇamya, oṁ śrīkaustubhāya sarvaratnādhipataye nama iti kaustubhaṁ purataḥpraṇamya, oṁ kāñcīguṇojjvalāya divya-pītāmbarāya nama iti pītāmbaraṁ purataḥ praṇamya, oṁ sarvebhyo bhagavadbhūṣaṇebhyo nama iti sarvabhūṣaṇāni sarvataḥ praṇamya, oṁ sudarśanāya hetirājāya nama iti sudarśanātmānaṁ raktavarṇaṁ raktane traṁ (dvi) caturbhujaṁ kr̥tāñjalipuṭaṁ bhagavantam ālokayantaṁ taddarśana-ānanda-br̥ṁhitamukhaṁ mūrdhni bhagavaccakraṁ dhārayan taṁ dakṣiṇataḥ praṇamya, 
-36 Esnoul observes regarding this and the following sections: “The officiant first evokes the three spouses of the deity [Śrī, Bhū, and Nīlā]; he continues with reference to a series of common objects now personified. The kirīṭa is an incarnation of the divine crown; the text attributes to it four faces, such as are ordinarily a characteristic of Brahmā. The kirīṭamālya is a garland for the head, made of flowers threaded together. The earrings are in the form of a makara, a kind of crocodile. The vaijayantī is the garland (vanamālā) that hangs lower, often containing tulasī flowers (basilic) dedicated to Viṣṇu. The śrīvatsa is a curl of hair on the chest of Viṣṇu—and of Kr̥ṣṇa—in a cruciform design. The sudarśana, the discus, is a magical weapon of Viṣṇu which many texts proclaim to be formidable. The nanda is taken particularly as the sword of Kr̥ṣṇa, while the pañcajanya is the conch which myth takes to be the demon Pāñcajana who lives in the depths of the ocean in the form of a shell which Kr̥ṣṇa seized. The kaumodakī is the mace which Agni gave to Kr̥ṣṇa before his battle with Indra. The śārṅga, whose name is derived from sṛṅga (horn), is usually presented as the bow of Kr̥ṣṇa. We thus notice that these elements in the Kr̥ṣṇa-related legend predominate in this reprise of things— ornaments or arms—belonging to Viṣṇu” (1972: 69n56; my translation). 
+
 123
 364 Francis X. Clooney 
 In the same way, he offers obeisance to ā pīdaka, in front,37 
