@@ -931,6 +931,7 @@ let him now undertake the Lord’s sacrifice.
 कृतलाञ्छनः धृतोर्ध्वपुण्ड्रः भगवद्यागमारभेत ॥
 </details>
 
+### हृद्यागः
 <details><summary>English - Notes</summary>
 
 VII. Preparations for Personal Worship 
@@ -956,32 +957,256 @@ He meditates as before,[^26] “The Lord alone makes it all be done,” performi
 हृद्यागं कृत्वा, 
 </details>
 
+### पात्रव्यवस्था
+#### जलभाजनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-संभारान् संभृत्य, आत्मनो वामपार्श्वे, जलभाजने तोयमुत्पूर्य, गन्धपुष्पयुतं कृत्वा, सप्तकृत्वः अभिमन्त्र्य, विशोष्य दग्ध्वा, दिव्यामृतमयं तोयमुत्पाद्य, अस्त्रमन्त्रेण रक्षां कृत्वा, सुरभिमुद्रां प्रदर्श्य, अन्यानि पूजा द्रव्याणि दक्षिण पार्श्वे निधाय, आत्मनः पुरस्तात् स्वास्तीर्णे पीठे क्रमेण आग्नेयादिषु कोणेषु अर्घ्य पाद्य आचमनीय स्नानीय पात्राणि निधाय, अस्त्रमन्त्रेण प्रक्षाल्य, शोषणादिना पात्राणि विशोध्य, संस्कृततोयेन तानि पूरयित्वा,   
-अर्घ्यपात्रे -- सिद्धार्थक गन्ध पुष्प कुशाग्राक्षतादीनि निक्षिपेत्,
+संभारान् संभृत्य,  
+आत्मनो **वामपार्श्वे जल-भाजने** तोयम् उत्पूर्य,  
+गन्धपुष्पयुतं कृत्वा,  
+सप्तकृत्वः अभिमन्त्र्य,  
+विशोष्य, दग्ध्वा,  
+दिव्यामृतमयं तोयम् उत्पाद्य,  
+अस्त्रमन्त्रेण रक्षां कृत्वा,  
+सुरभिमुद्रां प्रदर्श्य,  
+</details>
 
-पाद्यपात्रे -- दूर्वां विष्णुपर्णीं श्यामाकं पद्मकम्,
+<details><summary>English</summary>
 
-आचमनीये -- एला लवङ्ग तक्कोल लामज्जक जाती पुष्पाणि,
+He collects his equipment[^27] and  
+fills with water the water pot at his left side.  
+He adds to this incense and flowers.  
+After reciting mantras seven times,  
+he dries thoroughly and burns  
+and makes arise the divine ambrosia.  
+He protects it with the protection mantra[^28]  
+and presents the cow-mudrā.[^29] 
 
-स्नानीये -- द्वे हरिद्रे मुराशैलेय तक्कोल जटामांसी मलयज गन्ध चम्पक पुष्पाणि (निक्षिपेत्)
+[^27]: Now he uses various implements, material or mentally composed.
+[^28]: Krishnaswami (2014: 55): astra-mantra, like the one recited when shooting an arrow.
+[^29]: Krishnaswami (2014: 55): surabhi-mudrā, “Fingers from both hands forming the udder of a cow.”
+</details>
 
-अन्यस्मिन् पात्रे सर्वार्थ तोयं परिकल्प्य, ततः अर्घ्य पात्रं पाणिना स्पृष्ट्वा, मूलमन्त्रेण अभिमन्त्र्य, "ओं नमो भगवते अर्घ्यं परिकल्पयामि" इति अर्घ्यं परिकल्पयेत्,
 
-एवमेव पाद्यं परिकल्पयामीति पाद्यं,
+<details><summary>मूलम्</summary>
 
-आचमनीयं परिकल्पयामीति आचमनीयं,
+संभारान् संभृत्य,  
+आत्मनो वामपार्श्वे जलभाजने तोयम् उत्पूर्य,  
+गन्धपुष्पयुतं कृत्वा,  
+सप्तकृत्वः अभिमन्त्र्य,  
+विशोष्य, दग्ध्वा,  
+दिव्यामृतमयं तोयम् उत्पाद्य,  
+अस्त्रमन्त्रेण रक्षां कृत्वा,  
+सुरभिमुद्रां प्रदर्श्य,  
+</details>
 
-स्नानीयं परिकल्पयामीति स्नानीयं,
+#### अर्घ्य-पाद्य-आचमनीय-स्नानीय-पात्राणि
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+अन्यानि पूजा द्रव्याणि दक्षिण पार्श्वे निधाय,  
+आत्मनः पुरस्तात् स्वास्तीर्णे पीठे  
+क्रमेण आग्नेयादिषु कोणेषु अर्घ्य-पाद्य-आचमनीय-स्नानीय-पात्राणि निधाय,  
+अस्त्रमन्त्रेण प्रक्षाल्य,  
+शोषणादिना पात्राणि विशोध्य,  
+संस्कृत-तोयेन तानि पूरयित्वा,   
+</details>
+
+<details><summary>English</summary>
+
+He places on his right side the other worship materials. On a well-spread seat in front of him, at the southeast corner, etc., he places the bowls of guest-water, foot-washing-water, water for sipping, and bathing-water.  
+He washes them with the protection mantra,  
+and then thoroughly purifies the bowls with acts of drying, etc. 
+ 
+He fills them with the prepared water.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अन्यानि पूजा द्रव्याणि दक्षिण पार्श्वे निधाय,  
+आत्मनः पुरस्तात् स्वास्तीर्णे पीठे  
+क्रमेण आग्नेयादिषु कोणेषु अर्घ्य-पाद्य-आचमनीय-स्नानीय-पात्राणि निधाय,  
+अस्त्रमन्त्रेण प्रक्षाल्य,  
+शोषणादिना पात्राणि विशोध्य,  
+संस्कृततोयेन तानि पूरयित्वा,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अर्घ्यपात्रे -- सिद्धार्थक-गन्ध-पुष्प-कुशाग्राक्षतादीनि निक्षिपेत्,  
+पाद्यपात्रे -- दूर्वां विष्णुपर्णीं श्यामाकं पद्मकम्,  
+आचमनीये -- एला-लवङ्ग-तक्कोल-लामज्जक-जाती-पुष्पाणि,  
+स्नानीये -- द्वे हरिद्रे मुराशैलेय-तक्कोल-जटामांसी-मलयज-गन्ध-चम्पक-पुष्पाणि  
+(निक्षिपेत्)
+</details>
+
+<details><summary>English</summary>
+
+Then let him place in the guest-water bowl the incense, flowers, pointed kuśa grass, unhusked rice, etc.  
+Then he places dūrva grass, viṣṇu-parṇa leaves, millet, and lotus in the bowl for foot-washing;  
+he places grains of cardamom, clove, aromatic roots, and jasmine flowers in the bowl for sipping.  
+He places in the bowl for washing the white mustard, etc., including two pieces of turmeric, fragrant murā, lichen on stone, myrtle leaf, spikenard, sandal leaf, scent, camphor, and flowers.[^30] 
+
+[^30]: Krishnaswami (2014: 55): These items are required, subject to availability.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अर्घ्यपात्रे -- सिद्धार्थक-गन्ध-पुष्प-कुशाग्राक्षतादीनि निक्षिपेत्,  
+पाद्यपात्रे -- दूर्वां विष्णुपर्णीं श्यामाकं पद्मकम्,  
+आचमनीये -- एला-लवङ्ग-तक्कोल-लामज्जक-जाती-पुष्पाणि,  
+स्नानीये -- द्वे हरिद्रे मुराशैलेय-तक्कोल-जटामांसी-मलयज-गन्ध-चम्पक-पुष्पाणि  
+(निक्षिपेत्)
+</details>
+
+#### तोय-परिकल्पनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्यस्मिन् पात्रे सर्वार्थ-तोयं परिकल्प्य,  
+ततः अर्घ्य-पात्रं पाणिना स्पृष्ट्वा,  
+मूल-मन्त्रेण अभिमन्त्र्य,  
+</details>
+
+<details><summary>English</summary>
+
+In another bowl he prepares the all-purpose water.  
+He then touches the guest-water bowl with his hand  
+and blesses it with the root mantra. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अन्यस्मिन् पात्रे सर्वार्थ-तोयं परिकल्प्य,  
+ततः अर्घ्य-पात्रं पाणिना स्पृष्ट्वा,  
+मूलमन्त्रेण अभिमन्त्र्य,  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"ओं नमो भगवते अर्घ्यं परिकल्पयामि" इति अर्घ्यं परिकल्पयेत्,  
+एवमेव पाद्यं परिकल्पयामीति पाद्यं,  
+आचमनीयं परिकल्पयामीति आचमनीयं,  
+स्नानीयं परिकल्पयामीति स्नानीयं,  
 शुद्धोदकं परिकल्पयामीति शुद्धोदकम्,
+</details>
 
-ततः अर्घ्यजलात् जलं अन्येन पात्रेण आदाय, यागभूमिं सर्वाणि च यागद्रव्याणि आत्मानं च प्रत्येकं सम्प्रोक्ष्य, आसनं परिकल्पयेत्,
+<details><summary>English</summary>
 
-ओम् आधारशक्त्यै नमः 1, ओं मूलप्रकृत्यै नमः 2, ओम् अखिलजगदाधाराय कूर्मरूपिणे नारायणाय नमः 3, ओं भगवते अनन्ताय नागराजाय नमः 4, ओं भूं भूम्यै नमः 5, इति यथास्थानमुपर्युपरि ध्यात्वा प्रणम्य,   
-"ओं श्रीवैकुण्ठाय दिव्यलोकाय नमः 6" इति श्रीवैकुण्ठदिव्यलोकं प्रणम्य, "ओं श्रीवैकुण्ठाय दिव्यजनपदाय नमः 7" इति दिव्यजनपदं प्रणम्य, "ओं श्रीवैकुण्ठाय दिव्यनगराय नमः 8" इति दिव्यनगरं प्रणम्य, "ओं श्रीवैकुण्ठाय दिव्यविमानाय नमः 9" इति, दिव्यविमानं प्रणम्य, "ओम् आनन्दमयाय दिव्यमण्टपरत्नाय नमः 10" इति मण्टपरत्नं प्रणम्य, तस्मिन् अनन्ताय नागराजाय नमः 11 इति, आस्तरणं प्रणम्य,   
-तदुपरि ओं धर्माय नमः 12 इति आग्नेय्यां पादं विन्यस्य, ओं ज्ञानाय नमः 13 इति नैर्ऋत्याम्, ओं वैराग्याय नमः 14 इति वायव्याम्, ओम् ऐश्वर्याय नमः 15 इति ऐशान्याम्,   
-ओम् अधर्माय नमः 16 इति प्राच्यां पीठगात्रं विन्यस्य, ओम् अज्ञानाय नमः 17 इति दक्षिणस्यां, ओम् अवैराग्याय नमः 18 इति पश्चिमायां, ओम् अनैश्वर्याय नमः 19 इति उत्तरस्याम्, एभिः परिच्छिन्नतनुं पीठभूतं सदात्मकम् अनन्तं विन्यसेत्, पश्चात् सर्वकार्योन्मुखं विभुमनन्तम् ओम् अनन्ताय नमः 20 इति,   
+Saying “Oṁ, obeisance to the Lord, I prepare guest-water,” he prepares the guest water.  
+In the same way,  
+The water for the feet,  
+“I prepare water for the feet”;   
+The water for sipping,  
+“I prepare water for sipping”;  
+The water for bathing,  
+“I prepare water for bathing”;  
+The purified water,  
+“I prepare purified water.”  
+</details>
+
+<details><summary>मूलम्</summary>
+
+"ओं नमो भगवते अर्घ्यं परिकल्पयामि" इति अर्घ्यं परिकल्पयेत्,  
+एवमेव पाद्यं परिकल्पयामीति पाद्यं,  
+आचमनीयं परिकल्पयामीति आचमनीयं,  
+स्नानीयं परिकल्पयामीति स्नानीयं,  
+शुद्धोदकं परिकल्पयामीति शुद्धोदकम्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ततो ऽर्घ्यजलात् जलं अन्येन पात्रेण आदाय,  
+यागभूमिं सर्वाणि च यागद्रव्याणि आत्मानं च प्रत्येकं सम्प्रोक्ष्य,  
+</details>
+
+<details><summary>English</summary>
+
+ Then he takes some water from the guest-water bowl with another bowl, and he sprinkles the place of sacrifice, all the sacrificial implements, and himself one by one. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+ततो ऽर्घ्यजलात् जलं अन्येन पात्रेण आदाय,  
+यागभूमिं सर्वाणि च यागद्रव्याणि आत्मानं च प्रत्येकं सम्प्रोक्ष्य,  
+</details>
+
+### आसनम्
+<details><summary>English - Notes</summary>
+
+Part Two: Contemplative Ascent to the Lord’s Heaven, and Return  
+VIII. First Invocation of the Lord and His Retinue: Ascending From the Foundations[^31] 
+
+[^31]: Rastelli: “The throne described in the Nityagrantha reveals a cosmology that is different from that of the Saṁhitās. The base of the throne and thus of the world is also the ‘supporting power’ (ādhāra-śakti). However, above it are primary matter (prakṛti), a tortoise, the snake-king Ananta and the earth. On top of them the world of Vaikuṇṭha begins. It is described from larger to smaller units. The Vaikuṇṭha’s largest unit is divyaloka, the divine world. Then follow its divine populace (divyajana), a divine town (divyanagara), a divine palace (divyavimāna), and a ‘pavilion-jewel’ (maṇṭaparatna). God’s proper throne is in this pavilion, and consists of Ananta, the eight conditions of the buddhi, again Ananta, a lotus, nine śaktis, a yoga-pedestal (yogapīṭha), a bed (paryaṅka), Ananta, and a footstool. God is present here, together with His goddesses Śrī, Bhūmi, and Nīlā, and His other servants” (2005: 127).
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आसनं परिकल्पयेत्,
+</details>
+
+<details><summary>English</summary>
+
+Let him thus prepare the seat.
+</details>
+
+<details><summary>मूलम्</summary>
+
+आसनं परिकल्पयेत्,
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ओम् आधारशक्त्यै नमः 1,  
+ओं मूलप्रकृत्यै नमः 2,  
+ओम् अखिलजगदाधाराय कूर्मरूपिणे नारायणाय नमः 3,  
+ओं भगवते ऽनन्ताय नागराजाय नमः 4,  
+ओं [भूं] भूम्यै नमः 5,  
+इति यथास्थानमुपर्युपरि ध्यात्वा प्रणम्य,   
+</details>
+
+<details><summary>English</summary>
+
+He meditates on each in its place, moving upward, and offers obeisance, saying,  
+“Oṁ, obeisance to the root power,” 
+“Oṁ, obeisance to the fundamental nature,” 
+“Oṁ, obeisance to the foundation of the whole world, Nārāyaṇa in the form of a tortoise,” 
+“Oṁ, obeisance to lord Ananta, king of snakes,” 
+“Oṁ [bhūṃ], obeisance to the earth,” 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ओम् आधारशक्त्यै नमः 1,  
+ओं मूलप्रकृत्यै नमः 2,  
+ओम् अखिलजगदाधाराय कूर्मरूपिणे नारायणाय नमः 3,  
+ओं भगवते ऽनन्ताय नागराजाय नमः 4,  
+ओं [भूं] भूम्यै नमः 5,  
+इति यथास्थानमुपर्युपरि ध्यात्वा प्रणम्य,   
+</details>
+
+
+"ओं श्रीवैकुण्ठाय दिव्यलोकाय नमः 6" इति श्रीवैकुण्ठदिव्यलोकं प्रणम्य,  
+"ओं श्रीवैकुण्ठाय दिव्यजनपदाय नमः 7" इति दिव्यजनपदं प्रणम्य,  
+"ओं श्रीवैकुण्ठाय दिव्यनगराय नमः 8" इति दिव्यनगरं प्रणम्य,  
+"ओं श्रीवैकुण्ठाय दिव्यविमानाय नमः 9" इति दिव्यविमानं प्रणम्य,  
+"ओम् आनन्दमयाय दिव्यमण्टपरत्नाय नमः 10" इति मण्टपरत्नं प्रणम्य,  
+तस्मिन् - "अनन्ताय नागराजाय नमः 11" इति, आस्तरणं प्रणम्य,  
+
+तदुपरि - "ओं धर्माय नमः 12" इति आग्नेय्यां पादं विन्यस्य,  
+"ओं ज्ञानाय नमः 13" इति नैर्ऋत्याम्,  
+"ओं वैराग्याय नमः 14" इति वायव्याम्,  
+"ओम् ऐश्वर्याय नमः 15" इति ऐशान्याम्,   
+"ओम् अधर्माय नमः 16" इति प्राच्यां पीठगात्रं विन्यस्य,  
+"ओम् अज्ञानाय नमः 17" इति दक्षिणस्यां,  
+"ओम् अवैराग्याय नमः 18" इति पश्चिमायां,  
+"ओम् अनैश्वर्याय नमः 19" इति उत्तरस्याम्,  
+एभिः परिच्छिन्नतनुं पीठभूतं सदात्मकम् अनन्तं विन्यसेत्,  
+
+पश्चात् सर्वकार्योन्मुखं विभुमनन्तम् ओम् अनन्ताय नमः 20 इति,   
 तस्मिन्नुपरि - ओं पद्माय नमः 21 इति पद्मं विन्यस्य, पूर्वपत्रे ओं विमलायै चामरहस्तायै नमः 22 इति विमलां चामरहस्तां विन्यस्य, ततः आरभ्य प्रादक्षिण्येन ऐशानान्तं पत्रेषु - ओम् उत्कर्षिण्यै चामरहस्तायै नमः 23, ओं ज्ञानायै चामरहस्तायै नमः 24, ओं क्रियायै चामरहस्तायै नमः 25, ओं योगायै चामरहस्तायै नमः 26, ओं प्र(भ्व्यै)ह्व्यै चामरहस्तायै नमः 27, ओं सत्यायै चामरहस्तायै नमः 28, ओम् ईशानायै चामरहस्तायै नमः 29, इति अष्टशक्तयः, चामरहस्ता विन्यस्तव्याः, ओम् अनुग्रहायै चामरहस्तायै नमः 30, इति कर्णिकापूर्वपार्श्वे अनुग्रहां चामरहस्तां विन्यसेत्,   
 ओं जगत्प्रकृतये योगपीठाय नमः 31 इति योगपीठं सङ्कल्प्य, "ओं दिव्याय योगपीठपर्यङ्काय नमः 32" इति दिव्ययोगपीठपर्यङ्कं विन्यस्य, तस्मिन् अनन्तं नागराजं सहस्रफणाशोभितं, ओम् अनन्ताय नागराजाय नमः 33 इति न्यस्य, ओम् अनन्ताय नमः, इति पुरस्तात् पादपीठं विन्यस्य, सर्वाणि आधारशक्त्यादीनि पीठान्तानि तत्वानि प्रत्येकं गन्धपुष्पधूपदीपैः संपूज्य सर्वपरिवाराणां तत्तत्स्थानेषु पद्मासनानि संकल्प्य, अनन्तगरुडविष्वक्सेनानां सपीठकं पद्मं विन्यस्य, सर्वतः पुष्पाक्षतान् विकीर्य, योगपीठस्य पश्चिमोत्तरदिग्भागे ओम् अस्मद्गुरुभ्यो नमः इति गुरून् गन्धपुष्पधूपदीपैः अभ्यर्च्य, प्रणम्य अनुज्ञाप्य भगवद्यागमारभेत ।
 

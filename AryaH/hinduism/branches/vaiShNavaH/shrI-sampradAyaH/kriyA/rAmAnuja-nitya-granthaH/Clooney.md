@@ -196,47 +196,31 @@ punar api prāṇāyāmenaikena bhagavadvāmapāda-aṇguṣṭha-vinissr̥ta-am
 “bhagavān eva sarvaṁ kārayati” iti pūrvavat dhyātvā, hr̥dyāgaṁ kr̥tvā, sambhārān sambhr̥tya ātmano vāmapārśve jalakumbhe toyam utpūrya, gandhapuṣpayutaṁ kr̥tvā, saptakr̥tvo ’bhimantrya, viśoṣya, dagdhvā, divyāmr̥tatoyam utpādya, astramantreṇa rakṣāṁ kr̥tvā, surabhimudrāṁ pradarśya, anyāni pūjādravyāṇi ātmano dakṣiṇapārśve nidhāya, ātmanaḥ puratas svāstīrṇe pīṭhe krameṇa agneyādikoṇeṣu arghya-pādya-ācamanīya snānīyapātrāṇi nidhāya, astramantreṇa prakṣālya, śoṣaṇādinā pātrāṇi viśodhya, saṁskr̥tatoyena tāni ca pūrayitvā, arghyapātre gandhapuṣpakuśāgrākṣa-tādīni nikṣipet. (20) 
 
 
-He collects his equipment27 and fills with water the water pot at his left side. He adds to this incense and flowers. After reciting mantras seven times, he dries thoroughly and burns and makes arise the divine ambrosia. He protects it with the protection mantra28 and presents the cow-mudrā.29 He places on his right side the other worship materials. On a well-spread seat in front of him, at the southeast corner, etc., he places the bowls of guest-water, foot-washing-water, water for sipping, and bathing-water. He washes them with the protection mantra, and then thoroughly purifies the bowls with acts of drying, etc. He fills them with the prepared water. Then let him place in the guest-water bowl the incense, flowers, pointed kuśa grass, unhusked rice, etc. 
+
 
 dūrvāṁ viṣṇuparṇ¯mı˙ śyāmākaṁ padmakaṁ pādyapātre (21) 
 elālavaṇgatakkolalāmajjakajātīpuṣpāṇi ācamanīye (22) dve haridre murā- śaileya-takkola-jaṭāmāṁsī-malayaja-gandha-campaka-puṣpāṇi snānīye siddhārthakādīni snānīye. (23) 
 
- 
-27 Now he uses various implements, material or mentally composed. 
-28 Krishnaswami (2014: 55): astra-mantra, like the one recited when shooting an arrow. 29 Krishnaswami (2014: 55): surabhi-mudrā, “Fingers from both hands forming the udder of a cow.” 
-123
-Rāmānuja’s Nityagrantham (“Manual of Daily Worship”): A Translation 357 
-Then he places dūrva grass, viṣṇu-parṇa leaves, millet, and lotus in the bowl for foot-washing; he places grains of cardamom, clove, aromatic roots, and jasmine flowers in the bowl for sipping. He places in the bowl for washing the white mustard, etc., including two pieces of turmeric, fragrant murā, lichen on stone, myrtle leaf, spikenard, sandal leaf, scent, camphor, and flowers.30 
+
+
+
 anyasmin pātre sarvārthatoyaṁ saṁkalpya tato ’rghyapātraṁ pāṇinā spr̥ṣṭvā, mūlamantreṇa abhimantrya, 
 oṁ namo bhagavate ’rghyaṁ parikalpayāmi iti arghyaṁ parikalpayet. (24) evaṁ pādyaṁ parikalpayāmi iti pādyam, (25) 
 ācamanīyaṁ parikalpayāmi iti ācamanīyam, (26) 
 snānīyaṁ parikalpayāmi iti snānīyam, (27) 
 śuddhodakaṁ parikalpayāmi iti śuddhodakam, (28) 
-In another bowl he prepares the all-purpose water. He then touches the guest-water bowl with his hand and blesses it with the root mantra. 
-Saying “Oṁ, obeisance to the Lord, I prepare guest-water,” he prepares the guest water. In the same way, 
-The water for the feet, 
-“I prepare water for the feet”; 
-The water for sipping, 
-“I prepare water for sipping”; 
-The water for bathing, 
-“I prepare water for bathing”; 
-The purified water, 
-“I prepare purified water.” 
-tato ’rghyajalāt jalam anyena pātreṇa ādāya yāgabhūmiṁ sarvāṇi yāgadravyāṇi ātmanāṁ ca pratyekaṁ prokṣya āsanaṁ parikalpayet. (29) Then he takes some water from the guest-water bowl with another bowl, and he sprinkles the place of sacrifice, all the sacrificial implements, and himself one by one. Let him thus prepare the seat. 
-30 Krishnaswami (2014: 55): These items are required, subject to availability. 123
-358 Francis X. Clooney Part Two: Contemplative Ascent to the Lord’s Heaven, and Return 
-VIII. First Invocation of the Lord and His Retinue: Ascending From the Foundations 
-31oṁ ādhāraśaktyai namaḥ, 
-oṁ mūlaprakr̥tyai namaḥ, 
-oṁ akhilajagadādhārāya kūrmarūpiṇe nārāyaṇāya namaḥ, 
-oṁ bhagavate ’nantāya nāgarājāya namaḥ, 
-oṁ [bhūṁ] bhūmyai namaḥ iti 
+
+tato ’rghyajalāt jalam anyena pātreṇa ādāya yāgabhūmiṁ sarvāṇi yāgadravyāṇi ātmanāṁ ca pratyekaṁ prokṣya āsanaṁ parikalpayet. (29)
+
+ 
+
+oṁ ādhāraśaktyai namaḥ,  
+oṁ mūlaprakr̥tyai namaḥ,  
+oṁ akhilajagadādhārāya kūrmarūpiṇe nārāyaṇāya namaḥ,  
+oṁ bhagavate ’nantāya nāgarājāya namaḥ,  
+oṁ [bhūṁ] bhūmyai namaḥ iti  
 yathāsthānam upari upari dhyātvā praṇamya, 
-He meditates on each in its place, moving upward, and offers obeisance, saying, “Oṁ, obeisance to the root power,” 
-“Oṁ, obeisance to the fundamental nature,” 
-“Oṁ, obeisance to the foundation of the whole world, Nārāyaṇa in the form of a tortoise,” 
-“Oṁ, obeisance to lord Ananta, king of snakes,” 
-“Oṁ [bhūṃ], obeisance to the earth,” 
+
 oṁ śrīvaikuṇṭhāya divyalokāya namaḥ iti divyalokaṁ praṇamya, oṁ śrīvaikuṇṭhāya divyajanapadāya namaḥ iti divyajanapadaṁ praṇamya, oṁ śrīvaikuṇṭhāya divyanagarāya namaḥ iti divyanagaraṁ praṇamya, oṁ śrīvaikuṇṭhāya divyavimānāya namaḥ iti divyavimānaṁ praṇamya, oṁ ānandamayāya divyamaṇṭaparatnāya namaḥ iti maṇṭapa-ratnaṁ praṇamya, tasmin anantāya [nāgarājāya] namaḥ iti āstaraṇam praṇamya, 
 He offers obeisance to the divine world, 
 “Oṁ, obeisance to Śrīvaikuṇṭha, the divine world,” 
@@ -246,7 +230,6 @@ He offers obeisance to the home of the divine populace,
 He offers obeisance to the divine palace, 
 “Oṁ, obeisance to Śrīvaikuṇṭha, the divine palace,” 
 He offers obeisance to the jeweled pavilion, 
-31 Rastelli: “The throne described in the Nityagrantha reveals a cosmology that is different from that of the Saṁhitās. The base of the throne and thus of the world is also the ‘supporting power’ (ādhāraśakti). However, above it are primary matter (prakṛti), a tortoise, the snake-king Ananta and the earth. On top of them the world of Vaikuṇṭha begins. It is described from larger to smaller units. The Vaikuṇṭha’s largest unit is divyaloka, the divine world. Then follow its divine populace (divyajana), a divine town (divyanagara), a divine palace (divyavimāna), and a ‘pavilion-jewel’ (maṇṭaparatna). God’s proper throne is in this pavilion, and consists of Ananta, the eight conditions of the buddhi, again Ananta, a lotus, nine śaktis, a yoga-pedestal (yogapīṭha), a bed (paryaṅka), Ananta, and a footstool. God is present here, together with His goddesses Śrī, Bhūmi, and Nīlā, and His other servants” (2005: 127). 
 123
 Rāmānuja’s Nityagrantham (“Manual of Daily Worship”): A Translation 359 
 “Oṁ, obeisance to the jeweled pavilion made of bliss,” 
