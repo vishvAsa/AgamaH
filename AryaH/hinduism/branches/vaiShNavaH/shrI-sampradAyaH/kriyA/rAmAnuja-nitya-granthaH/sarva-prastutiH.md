@@ -1731,8 +1731,10 @@ He offers obeisance on the right side before Sudarśana,
 who is red in color, with red eyes, four (two) arms,  
 whose hands are joined in salutation,  
 who looks upon the Lord, who holds the wheel of the Lord on his head,  
-his face bright with the bliss of seeing Him, 
+his face bright with the bliss of seeing[^38] Him,
+“Oṁ, obeisance to Sudarśana, the Lord of weapons.”
 
+[^38]: sparśaṇa—touch rather than sight (darśana), in the Melkote edition (Ramabhadracharya 2009).
 </details>
 
 
@@ -1858,10 +1860,43 @@ Next he meditates in the back, on the king of snakes Ananta who is four-armed, w
 भगवद्दर्शनानन्दोपबृह्मितसर्वाङ्गं ध्यात्वा प्रणम्य, 
 </details>
 
-"ओं सर्वेभ्यो भगवत्परिजनेभ्यो नमः" इति +अनुक्तासङ्ख्येयपरिजनान् समन्ततः प्रणम्य,  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"ओं सर्वेभ्यो भगवत्-परिजनेभ्यो नमः" इति +अनुक्तासङ्ख्येय-परिजनान् समन्ततः प्रणम्य,
+</details>
+
+<details><summary>English</summary>
+
+He offers obeisance for the unnamed endless entourage altogether, “Oṁ, obeisance to all the entourage of the Lord.” 
+</details>
+
+<details><summary>मूलम्</summary>
+
+"ओं सर्वेभ्यो भगवत्-परिजनेभ्यो नमः" इति +अनुक्तासङ्ख्येय-परिजनान् समन्ततः प्रणम्य,
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "ओं भगवत्पादुकाभ्यां नमः" इति पादुके पुरतः प्रणम्य,  
 "ओं सर्वेभ्यो भगवत्परिच्छदेभ्यो नमः" इति, परिच्छदान् समन्ततः प्रणम्य,  
+</details>
+
+<details><summary>English</summary>
+
+He offers obeisance for the Lord’s sandals in front, 
+“Oṁ, obeisance to the sandals of the Lord.” 
+He offers obeisance for the insignia altogether, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+"ओं भगवत्पादुकाभ्यां नमः" इति पादुके पुरतः प्रणम्य,  
+"ओं सर्वेभ्यो भगवत्परिच्छदेभ्यो नमः" इति, परिच्छदान् समन्ततः प्रणम्य,  
+</details>
+
+
 ओं वैं वैनतैयाय नमः इति, अग्रतो भगवतः भगवन्तं वैनतेयं आसीनं द्विभुजं कृताञ्जलिपुटं ध्यात्वा प्रणम्य,  
 ओं श्रीमते विष्वक्सेनाय नमः इति भगवतः प्रागुत्तरे पार्श्वे दक्षिणाभिमुखं भगवन्तं विष्वक्सेनं आसीनं चतुर्भुजं शङ्खचक्रधरं नीलमेघनिभं ध्यात्वा, प्रणम्य, ओं गं गजाननाय नमः, ओं जं जयत्सेनाय नमः, ओं हं हरिवक्त्राय नमः, ओं कं कालप्रकृतिसंज्ञाय नमः, ओं सर्वेभ्यः विश्वक्सेनपरिजनेभ्यो नमः इति श्रीविष्वक्सेनपरिजनान् प्रणम्य,
 

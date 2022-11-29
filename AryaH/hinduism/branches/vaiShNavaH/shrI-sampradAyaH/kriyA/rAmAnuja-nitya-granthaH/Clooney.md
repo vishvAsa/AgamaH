@@ -288,7 +288,6 @@ oṁ śrīvatsāya śrīnivāsāya nama iti śrīvatsaṁ purataḥ praṇamya, 
 
 
 
-“Oṁ, obeisance to Sudarśana, the Lord of weapons.” 
 tatraiva 
 oṁ nandakāya khaḍgādhipataye nama iti nandakātmānaṁ śirasi bhagavatkhaḍgaṁ dhārayantaṁ tatraiva praṇamya, 
 oṁ padmāya nama iti padmātmānaṁ śirasi padmaṁ dhārayantaṁ praṇamya, oṁ pāñcajanyāya śaṇkhādhipataye nama iti śaṇkhātmānaṁ śvetavarṇaṁ raktanetraṁ dvibhujaṁ kr̥tāñjalipuṭaṁ śirasi bhagavacchaṇkhaṁ dhārayantaṁ vāmataḥ praṇamya, tatraiva 
@@ -306,15 +305,11 @@ pr̥ṣṭhato ’nantaṁ nāgarājaṁ bhagavantaṁ caturbhujaṁ hala-musala
 oṁ sarvebhyo bhagavatparijanebhyo nama iti anukta-anantaparijanān samantataḥ praṇamya, 
 oṁ bhagavatpādukābhyāṁ nama iti bhagavatpāduke purataḥ praṇamya, oṁ sarvebhyo bhagavatparicchadebhyo nama iti sarvaparicchadān samantataḥ praṇamya, 
 oṁ vainateyāya nama iti agrato bhagavato bhagavantaṁ vainateyaṁ āsīnaṁ dvibhujaṁ kr̥tāñjalipuṭaṁ dhyātvā praṇamya, 
-He offers obeisance for the unnamed endless entourage altogether, “Oṁ, obeisance to all the entourage of the Lord.” 
-He offers obeisance for the Lord’s sandals in front, 
-“Oṁ, obeisance to the sandals of the Lord.” 
-He offers obeisance for the insignia altogether, 
-38 sparśaṇa—touch rather than sight (darśana), in the Melkote edition (Ramabhadracharya 2009). 123
-366 Francis X. Clooney 
-“Oṁ, obeisance to all the insignia of the Lord.” 
-Having meditated on lord Vainateya in front of the Lord, seated, with two arms, hands joined in salutation, having offered obeisance, 
+
+“Oṁ, obeisance to all the insignia of the Lord.”  
+Having meditated on lord Vainateya in front of the Lord, seated, with two arms, hands joined in salutation, having offered obeisance,  
 “Oṁ, obeisance to Vainateya,” 
+
 oṁ namo bhagavate viṣvaksenāya iti bhagavataḥ prāg uttarapārśve dakṣiṇābhimukhaṁ bhagavantaṁ viṣvaksenam āsīnaṁ caturbhujaṁ śaṇkha-cakradharaṁ (kr̥tāñjalipuṭaṁ) nīlamegha-nibhaṁ dhyātvā praṇamya, 
 oṁ gaṁ gajānanāya namaḥ, 
 oṁ jaṁ jayatsenāya namaḥ, 
