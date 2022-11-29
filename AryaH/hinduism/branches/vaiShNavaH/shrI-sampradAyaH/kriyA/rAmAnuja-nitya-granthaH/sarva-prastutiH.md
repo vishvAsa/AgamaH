@@ -1654,6 +1654,8 @@ Esnoul observes regarding this and the following sections:
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 "किरीटाय मकुटाधिपतये नमः" इति उपरि भगवतः पश्चिमपार्श्वे  
 चतुर्भुजं चतुर्वक्त्रं कृताञ्जलिपुटं मूर्ध्नि भगवतः किरीटधरं किरीटाख्यदिव्यभूषणं प्रणम्य,  
 एवमेव "ओं किरीटमालायै आपीडात्मने नमः" इति +आपीडकं तत्रैव पुरस्तात् प्रणम्य,  
@@ -1666,11 +1668,200 @@ Esnoul observes regarding this and the following sections:
 "ओं श्री-कौस्तुभाय सर्वरत्नाधिपतये नमः" इति कौस्तुभं सर्वरत्नाधिपतिं पुरतः प्रणम्य,  
 "ओं काञ्चीगुणोज्जवलाय दिव्यपीताम्बराय नमः" इति पीताम्बरं पुरतः प्रणम्य,  
 "सर्वेभ्यो दिव्यभूषणेभ्यो नमः" इति सर्वभूषणानि पुरतः प्रणम्य,  
+</details>
 
-"ॐ श्री-सुदर्शनाय हेतिराजाय नमः" इति सुदर्शनात्मानं रक्तवर्णं रक्तनेत्रं द्विभुजं कृताञ्जलिपुटं भगवन्तमालोकयन्तम् तद्दर्शनानन्दोबृंहितमुखं भगवच्चक्रं मूर्धि धारयन्तं दक्षिणतः प्रणम्य, तत्रैव ओं नन्दकाय खड्गाधिपतये नमः इति नन्दकात्मानं शिरसि खड्गं धारयन्तं प्रणम्य, तत्रैव ओं पद्माय नमः इति पद्मात्मानं शिरसि पद्मं धारयन्तं प्रणम्य ओं पाञ्चजन्याय शङ्खाधिपतये नमः इति शङ्खात्मानं श्वेतवर्णं रक्तनेत्रं द्विभुजं कृताञ्जलिपुटं शिरसि शङ्खं धारयन्तं वामतः प्रणम्य, तत्रैव ओं कौमोदक्यै गदाधिपत्न्यै नमः इति गदां देवीं प्रणम्य, तत्रैव ओं शार्ङ्गाय चापाधिपतये नमः इति शार्ङ्गात्मानं प्रणम्य, ओं सर्वेभ्यो भगवद्दिव्यायुधेम्यो नमः इति, सर्वाणि भगवदायुधानि परितः प्रणम्य,   
-ओं सर्वाभ्यो भगवत्पादारविन्द संवाहिनीभ्यो नमः इति, दिव्यपादारविन्दसंवाहिनीः समन्ततः प्रणम्य, ओं सर्वेभ्यो भगवत्परिचारकेभ्यो नमः इति भगवत्परिचारकान् प्रणम्य, ओं सर्वाभ्यो भगवत्परिचारिकाभ्यो नमः इति भगवत्परिचारिकाः प्रणम्य,  
-ओं अनन्ताय नागराजाय नमः इति पृष्ठतः अनन्तं भगवन्तं चतुर्भुजं हलमुसलधरं कृताञ्जलिपुटं फणामणिसहस्रमण्डितोत्तमाङ्गं भगवद्दर्शनानन्दोपबृह्मितसर्वाङ्गं ध्यात्वा प्रणम्य, ओं सर्वेभ्यो भगवत्परिजनेभ्यो नमः इति,   
-अनुक्तासङ्ख्येयपरिजनान् समन्ततः प्रणम्य, ओं भगवत्पादुकाभ्यां नमः इति, पादुके पुरतः प्रणम्य, ओं सर्वेभ्यो भगवत्परिच्छदेभ्यो नमः इति, परिच्छदान् समन्ततः प्रणम्य,  
+<details><summary>English</summary>
+
+Up above, he makes an obeisance to the divine person named “Crown” who places the Lord’s crown on His head, who is four-mouthed and four-armed, with his hands joined in salutation, and who is above the Lord on His western side, “Oṁ, obeisance to Crown, ruler of diadems.” 
+
+In the same way, he offers obeisance to ā pīdaka, in front,[^37]  
+“Oṁ, obeisance to the one who is the self of ā pīdaka, adorned with a crown.”  
+He offers obeisance to Dakṣiṇakuṇḍala on the right,  
+“Oṁ, obeisance to Dakṣiṇakuṇḍala, the self of the sea monster+++(sic)+++.”  
+He offers obeisance to Vāmakuṇḍala on the left,  
+“Oṁ, obeisance to Vāmakuṇḍala, the self of the sea monster+++(sic)+++.” 
+
+He offers obeisance in front of Vaijayantī,  
+“Oṁ, obeisance to Vaijayantī, the forest garland.”  
+He offers obeisance in front of the divine Tulasī,  
+“Oṁ, obeisance to Śrī Tulasī.”  
+He offers obeisance in front of Śrīvatsa mark in front,  
+“Oṁ, obeisance to Śrīvatsa, where Śrī abides on His chest.”  
+He offers obeisance in front of Hāra,  
+“Oṁ, obeisance to Hāra, ruler of all ornaments.”  
+He offers obeisance in front of the Kaustubha gem,  
+“Oṁ, obeisance to Śrī Kaustubha, ruler of all gems.”  
+He offers obeisance in front of the yellow garment,  
+“Oṁ, obeisance to Kāñcīguṇojjvala+++(sic)+++, the yellow garment.”  
+He offers obeisance before all the adornments on all sides,  
+“Oṁ, obeisance to all the ornaments of the Lord.”
+
+[^37]: ā pīdaka and all the following are intermediate deities who serve Nārāyaṇa.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+"किरीटाय मकुटाधिपतये नमः" इति उपरि भगवतः पश्चिमपार्श्वे  
+चतुर्भुजं चतुर्वक्त्रं कृताञ्जलिपुटं मूर्ध्नि भगवतः किरीटधरं किरीटाख्यदिव्यभूषणं प्रणम्य,  
+एवमेव "ओं किरीटमालायै आपीडात्मने नमः" इति +आपीडकं तत्रैव पुरस्तात् प्रणम्य,  
+"ओं दक्षिणकुण्डलाय मकरात्मने नमः" इति दक्षिणकुण्डलं दक्षिणतः प्रणम्य,  
+"ओं वामकुण्डलाय मकरात्मने नमः" इति वामकुण्डलं, वामतः प्रणम्य,  
+"ओं वैम् वैजयन्त्यै वनमालायै नमः" इति वैजयन्तीं पुरस्तात् प्रणम्य,  
+"ओं श्रीमत्तुलस्यै नमः" इति तुलसीं देवीं पुरस्तात् प्रणम्य,  
+"ओं हाराय सर्वाभरणाधिपतये नमः" इति हारं पुरतः प्रणम्य,  
+"ओं श्रीवत्साय श्रीनिवासाय नमः" इति श्रीवत्सं पुरतः प्रणम्य,  
+"ओं श्री-कौस्तुभाय सर्वरत्नाधिपतये नमः" इति कौस्तुभं सर्वरत्नाधिपतिं पुरतः प्रणम्य,  
+"ओं काञ्चीगुणोज्जवलाय दिव्यपीताम्बराय नमः" इति पीताम्बरं पुरतः प्रणम्य,  
+"सर्वेभ्यो दिव्यभूषणेभ्यो नमः" इति सर्वभूषणानि पुरतः प्रणम्य,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"ॐ श्रीसुदर्शनाय हेतिराजाय नमः"  
+इति सुदर्शनात्मानं रक्तवर्णं रक्तनेत्रं द्विभुजं कृताञ्जलि-पुटं  
+भगवन्तम् आलोकयन्तम् तद्-दर्शनानन्दोपबृंहित-मुखं  
+भगवच्चक्रं मूर्ध्नि धारयन्तं  
+दक्षिणतः प्रणम्य, 
+</details>
+
+<details><summary>English</summary>
+
+He offers obeisance on the right side before Sudarśana,  
+who is red in color, with red eyes, four (two) arms,  
+whose hands are joined in salutation,  
+who looks upon the Lord, who holds the wheel of the Lord on his head,  
+his face bright with the bliss of seeing Him, 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+"ॐ श्रीसुदर्शनाय हेतिराजाय नमः" इति सुदर्शनात्मानं रक्तवर्णं रक्तनेत्रं द्विभुजं कृताञ्जलिपुटं भगवन्तमालोकयन्तम् तद्दर्शनानन्दोपबृंहितमुखं भगवच्चक्रं मूर्ध्नि धारयन्तं दक्षिणतः प्रणम्य,
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्रैव "ओं नन्दकाय खड्गाधिपतये नमः" इति नन्दकात्मानं शिरसि खड्गं धारयन्तं प्रणम्य,  
+तत्रैव ओं पद्माय नमः इति पद्मात्मानं शिरसि पद्मं धारयन्तं प्रणम्य  
+</details>
+
+<details><summary>English</summary>
+
+There, too, he offers obeisance to the one who is the self of Nandaka, carrying the Lord’s club+++(sic)+++ on its head,  
+“Oṁ, obeisance to Nandaka, ruler of the club,” 
+
+
+He offers obeisance to the one who is the self of Padma, carrying the lotus on his head,
+“Oṁ, obeisance to the Padma.”
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तत्रैव "ओं नन्दकाय खड्गाधिपतये नमः" इति नन्दकात्मानं शिरसि खड्गं धारयन्तं प्रणम्य,  
+तत्रैव ओं पद्माय नमः इति पद्मात्मानं शिरसि पद्मं धारयन्तं प्रणम्य  
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"ओं पाञ्चजन्याय शङ्खाधिपतये नमः" इति  
+शङ्खात्मानं श्वेतवर्णं रक्तनेत्रं द्विभुजं कृताञ्जलिपुटं शिरसि शङ्खं धारयन्तं वामतः प्रणम्य, 
+</details>
+
+<details><summary>English</summary>
+
+He offers obeisance on the left side to the one carrying the conch of the Lord on his head, the one who is the self of the conch, white in color, with red eyes, his two hands joined in salutation, 
+“Oṁ, obeisance to Pāñcajanya, ruler of the conch.” 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+"ओं पाञ्चजन्याय शङ्खाधिपतये नमः" इति  
+शङ्खात्मानं श्वेतवर्णं रक्तनेत्रं द्विभुजं कृताञ्जलिपुटं शिरसि शङ्खं धारयन्तं वामतः प्रणम्य, 
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्रैव "ओं कौमोदक्यै गदाधिपतये+++(~~पत्न्यै~~)+++ नमः" इति गदां देवीं प्रणम्य,  
+तत्रैव "ओं शार्ङ्गाय चापाधिपतये नमः" इति शार्ङ्गात्मानं प्रणम्य,  
+"ओं सर्वेभ्यो भगवद्दिव्यायुधेभ्यो नमः" इति, सर्वाणि भगवदायुधानि परितः प्रणम्य,   
+</details>
+
+<details><summary>English</summary>
+
+There, too, he offers obeisance there to the divine club,  
+“Oṁ, obeisance to Kaumodakī, the ruler of the club.”  
+There, too, he offers obeisance to the one who is the self of the bow, “Oṁ, obeisance to the ruler of the bow.”  
+He offers obeisance on all sides to all the weapons of the Lord, “Oṁ, obeisance to all divine weapons of the Lord.”  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तत्रैव "ओं कौमोदक्यै गदाधिपतये+++(~~पत्न्यै~~)+++ नमः" इति गदां देवीं प्रणम्य,  
+तत्रैव "ओं शार्ङ्गाय चापाधिपतये नमः" इति शार्ङ्गात्मानं प्रणम्य,  
+"ओं सर्वेभ्यो भगवद्दिव्यायुधेभ्यो नमः" इति, सर्वाणि भगवदायुधानि परितः प्रणम्य,   
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"ओं सर्वाभ्यो भगवत्पादारविन्द संवाहिनीभ्यो नमः" इति  दिव्यपादारविन्दसंवाहिनीः समन्ततः प्रणम्य,  
+</details>
+
+<details><summary>English</summary>
+
+He offers obeisance on all sides to those massaging the divine lotus feet, “Oṁ, obeisance to all massaging the lotus feet of the Lord.” 
+</details>
+
+<details><summary>मूलम्</summary>
+
+"ओं सर्वाभ्यो भगवत्पादारविन्द संवाहिनीभ्यो नमः" इति  दिव्यपादारविन्दसंवाहिनीः समन्ततः प्रणम्य,  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+("ओं सर्वेभ्यो भगवत्परिचारकेभ्यो नमः" इति भगवत्परिचारकान् प्रणम्य,  
+"ओं सर्वाभ्यो भगवत्परिचारिकाभ्यो नमः" इति भगवत्परिचारिकाः प्रणम्य,)  
+</details>
+
+<details><summary>मूलम्</summary>
+
+("ओं सर्वेभ्यो भगवत्परिचारकेभ्यो नमः" इति भगवत्परिचारकान् प्रणम्य,  
+"ओं सर्वाभ्यो भगवत्परिचारिकाभ्यो नमः" इति भगवत्परिचारिकाः प्रणम्य,)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"ओं अनन्ताय नागराजाय नमः" इति पृष्ठतः  
+अनन्तं भगवन्तं चतुर्भुजं हलमुसलधरं कृताञ्जलिपुटं फणामणिसहस्रमण्डितोत्तमाङ्गं  
+भगवद्दर्शनानन्दोपबृह्मितसर्वाङ्गं ध्यात्वा प्रणम्य, 
+</details>
+
+<details><summary>English</summary>
+
+Next he meditates in the back, on the king of snakes Ananta who is four-armed, who carries the plow and pestle, whose hands are joined in salutation, whose utmost limb is adorned with a thousand gems on his hood, who looks on the Lord, and whose every limb swells with the bliss of the touch of the Lord. He then offers obeisance, “Oṁ, (obeisance) to Ananta, the king of snakes.” 
+</details>
+
+<details><summary>मूलम्</summary>
+
+"ओं अनन्ताय नागराजाय नमः" इति पृष्ठतः  
+अनन्तं भगवन्तं चतुर्भुजं हलमुसलधरं कृताञ्जलिपुटं फणामणिसहस्रमण्डितोत्तमाङ्गं  
+भगवद्दर्शनानन्दोपबृह्मितसर्वाङ्गं ध्यात्वा प्रणम्य, 
+</details>
+
+"ओं सर्वेभ्यो भगवत्परिजनेभ्यो नमः" इति +अनुक्तासङ्ख्येयपरिजनान् समन्ततः प्रणम्य,  
+
+"ओं भगवत्पादुकाभ्यां नमः" इति पादुके पुरतः प्रणम्य,  
+"ओं सर्वेभ्यो भगवत्परिच्छदेभ्यो नमः" इति, परिच्छदान् समन्ततः प्रणम्य,  
 ओं वैं वैनतैयाय नमः इति, अग्रतो भगवतः भगवन्तं वैनतेयं आसीनं द्विभुजं कृताञ्जलिपुटं ध्यात्वा प्रणम्य,  
 ओं श्रीमते विष्वक्सेनाय नमः इति भगवतः प्रागुत्तरे पार्श्वे दक्षिणाभिमुखं भगवन्तं विष्वक्सेनं आसीनं चतुर्भुजं शङ्खचक्रधरं नीलमेघनिभं ध्यात्वा, प्रणम्य, ओं गं गजाननाय नमः, ओं जं जयत्सेनाय नमः, ओं हं हरिवक्त्राय नमः, ओं कं कालप्रकृतिसंज्ञाय नमः, ओं सर्वेभ्यः विश्वक्सेनपरिजनेभ्यो नमः इति श्रीविष्वक्सेनपरिजनान् प्रणम्य,
 

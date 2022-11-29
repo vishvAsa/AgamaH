@@ -281,32 +281,13 @@ oṁ nīṁ nīlāyai nama iti nīlām āvāhya,
 oṁ kirīṭāya makuṭādhipataye nama iti 
 upari bhagavataḥ paścimapārśve caturbāhuṁ caturvaktraṁ kr̥tāñjalipuṭaṁ mūrdhni bhagavatkirīṭaṁ dhārayantaṁ kirīṭākhyadivyapuruṣaṁ praṇamya, 
 
-Up above, he makes an obeisance to the divine person named “Crown” who places the Lord’s crown on His head, who is four-mouthed and four-armed, with his hands joined in salutation, and who is above the Lord on His western side, “Oṁ, obeisance to Crown, ruler of diadems.” 
-evam eva 
+evam eva  
 oṁ kirīṭamālyāya āpīḍakātmane nama iti āpīḍakaṁ tatraiva purastāt praṇamya, 
 oṁ dakṣiṇakuṇḍalāya makarātmane nama iti dakṣiṇakuṇḍalaṁ dakṣiṇataḥ praṇamya, oṁ vāmakuṇḍalāya makarātmane nama iti vāmakuṇḍalaṁ vāmataḥ praṇamya, oṁ vaijayantyai vanamālāyai nama iti vaijayantīṁ purataḥ praṇamya, oṁ śrīmattulasyai nama iti tulasīṁ devīṁ purataḥ praṇamya, 
 oṁ śrīvatsāya śrīnivāsāya nama iti śrīvatsaṁ purataḥ praṇamya, oṁ hārāya sarvābharaṇādhipataye nama iti hāraṁ purataḥ praṇamya, oṁ śrīkaustubhāya sarvaratnādhipataye nama iti kaustubhaṁ purataḥpraṇamya, oṁ kāñcīguṇojjvalāya divya-pītāmbarāya nama iti pītāmbaraṁ purataḥ praṇamya, oṁ sarvebhyo bhagavadbhūṣaṇebhyo nama iti sarvabhūṣaṇāni sarvataḥ praṇamya, oṁ sudarśanāya hetirājāya nama iti sudarśanātmānaṁ raktavarṇaṁ raktane traṁ (dvi) caturbhujaṁ kr̥tāñjalipuṭaṁ bhagavantam ālokayantaṁ taddarśana-ānanda-br̥ṁhitamukhaṁ mūrdhni bhagavaccakraṁ dhārayan taṁ dakṣiṇataḥ praṇamya, 
 
-123
-364 Francis X. Clooney 
-In the same way, he offers obeisance to ā pīdaka, in front,37 
-“Oṁ, obeisance to the one who is the self of ā pīdaka, adorned with a crown.” He offers obeisance to Dakṣiṇakuṇḍala on the right, 
-“Oṁ, obeisance to Dakṣiṇakuṇḍala, the self of the sea monster.” He offers obeisance to Vāmakuṇḍala on the left, 
-“Oṁ, obeisance to Vāmakuṇḍala, the self of the sea monster.” He offers obeisance in front of Vaijayantī, 
-“Oṁ, obeisance to Vaijayantī, the forest garland.” 
-He offers obeisance in front of the divine Tulasī, 
-“Oṁ, obeisance to Śrī Tulasī.” 
-He offers obeisance in front of Śrīvatsa mark in front, 
-“Oṁ, obeisance to Śrīvatsa, where Śrī abides on His chest.” 
-He offers obeisance in front of Hāra, 
-“Oṁ, obeisance to Hāra, ruler of all ornaments.” 
-He offers obeisance in front of the Kaustubha gem, 
-“Oṁ, obeisance to Śrī Kaustubha, ruler of all gems.” 
-He offers obeisance in front of the yellow garment, 
-“Oṁ, obeisance to Kāñcīguṇojjvalāya, the yellow garment.” 
-He offers obeisance before all the adornments on all sides, 
-“Oṁ, obeisance to all the ornaments of the Lord.” 
-He offers obeisance on the right side before Sudarśana, who is red in color, with red eyes, four (two) arms, whose hands are joined in salutation, who looks upon the Lord, who holds the wheel of the Lord on his head, his face bright with the bliss of seeing Him, 
+
+
 “Oṁ, obeisance to Sudarśana, the Lord of weapons.” 
 tatraiva 
 oṁ nandakāya khaḍgādhipataye nama iti nandakātmānaṁ śirasi bhagavatkhaḍgaṁ dhārayantaṁ tatraiva praṇamya, 
@@ -316,20 +297,12 @@ oṁ śārṇgāya cāpādhipataye nama iti śārṇgātmānaṁ praṇamya, o�
 bhagavadāyudhāni paritaḥ praṇamya, 
 oṁ sarvābhyo bhagavatpādāravindasaṁvāhinībhyo nama iti 
 divyapādāravindasaṁ-vāhinīs samantataḥ praṇamya, 
-37 ā pīdaka and all the following are intermediate deities who serve Nārāyaṇa. 123Rāmānuja’s Nityagrantham (“Manual of Daily Worship”): A Translation 365 
-There, too, he offers obeisance to the one who is the self of Nandaka, carrying the Lord’s club on its head, 
-“Oṁ, obeisance to Nandaka, ruler of the club,” 
-He offers obeisance to the one who is the self of Padma, carrying the lotus on his head, 
-“Oṁ, obeisance to the Padma.” 
-He offers obeisance on the left side to the one carrying the conch of the Lord on his head, the one who is the self of the conch, white in color, with red eyes, his two hands joined in salutation, 
-“Oṁ, obeisance to Pāñcajanya, ruler of the conch.” 
-There, too, he offers obeisance there to the divine club, 
-“Oṁ, obeisance to Kaumodakī, the ruler of the club.” 
-There, too, he offers obeisance to the one who is the self of the bow, “Oṁ, obeisance to the ruler of the bow.” 
-He offers obeisance on all sides to all the weapons of the Lord, “Oṁ, obeisance to all divine weapons of the Lord.” 
-He offers obeisance on all sides to those massaging the divine lotus feet, “Oṁ, obeisance to all massaging the lotus feet of the Lord.” 
+
+
+
 oṁ anantāya nāgarājāya iti 
-pr̥ṣṭhato ’nantaṁ nāgarājaṁ bhagavantaṁ caturbhujaṁ hala-musala dharaṁ kr̥tāñjalipuṭaṁ phaṇāmaṇi-sahasra-maṇḍitottamāṇgaṁ bhagavantam ālokayantaṁ bhagavat 38darśanānandabr̥ṁhitasarvagātraṁ dhyātvā praṇamya, Next he meditates in the back, on the king of snakes Ananta who is four-armed, who carries the plow and pestle, whose hands are joined in salutation, whose utmost limb is adorned with a thousand gems on his hood, who looks on the Lord, and whose every limb swells with the bliss of the touch of the Lord. He then offers obeisance, “Oṁ, (obeisance) to Ananta, the king of snakes.” 
+pr̥ṣṭhato ’nantaṁ nāgarājaṁ bhagavantaṁ caturbhujaṁ hala-musala dharaṁ kr̥tāñjalipuṭaṁ phaṇāmaṇi-sahasra-maṇḍitottamāṇgaṁ bhagavantam ālokayantaṁ bhagavat 38darśanānandabr̥ṁhitasarvagātraṁ dhyātvā praṇamya, 
+
 oṁ sarvebhyo bhagavatparijanebhyo nama iti anukta-anantaparijanān samantataḥ praṇamya, 
 oṁ bhagavatpādukābhyāṁ nama iti bhagavatpāduke purataḥ praṇamya, oṁ sarvebhyo bhagavatparicchadebhyo nama iti sarvaparicchadān samantataḥ praṇamya, 
 oṁ vainateyāya nama iti agrato bhagavato bhagavantaṁ vainateyaṁ āsīnaṁ dvibhujaṁ kr̥tāñjalipuṭaṁ dhyātvā praṇamya, 
