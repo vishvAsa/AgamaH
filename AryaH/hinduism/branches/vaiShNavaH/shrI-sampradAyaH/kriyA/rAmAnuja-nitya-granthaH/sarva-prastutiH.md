@@ -940,7 +940,7 @@ VII. Preparations for Personal Worship
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भगवान् एव सर्वान् कारयतीति पूर्ववत् ध्यात्वा,  
-हृद्-यागं कृत्वा, 
+हृद्-यागं+++(=??)+++ कृत्वा, 
 </details>
 
 <details><summary>English</summary>
@@ -1598,6 +1598,7 @@ Such is the right practice of invocation.
 </details>
 
 
+### देवीकल्पनम्
 <details><summary>English - Notes</summary>
 
 XI. Second Invocation of the Lord and His Retinue: Contemplative Descent from the Celestial Realm to the Earthly Place of Worship 
@@ -1653,7 +1654,7 @@ Esnoul observes regarding this and the following sections:
 > (1972: 69n56; my translation).
 </details>
 
-
+### आभरणकल्पनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "किरीटाय मकुटाधिपतये नमः" इति उपरि भगवतः पश्चिमपार्श्वे  
@@ -1716,6 +1717,7 @@ He offers obeisance before all the adornments on all sides,
 "सर्वेभ्यो दिव्यभूषणेभ्यो नमः" इति सर्वभूषणानि पुरतः प्रणम्य,
 </details>
 
+### आयुधकल्पनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "ॐ श्रीसुदर्शनाय हेतिराजाय नमः"  
@@ -1812,7 +1814,7 @@ He offers obeisance on all sides to all the weapons of the Lord, “Oṁ, obeisa
 "ओं सर्वेभ्यो भगवद्दिव्यायुधेभ्यो नमः" इति, सर्वाणि भगवदायुधानि परितः प्रणम्य,   
 </details>
 
-
+### परिजन-कल्पनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "ओं सर्वाभ्यो भगवत्पादारविन्द संवाहिनीभ्यो नमः" इति  दिव्यपादारविन्दसंवाहिनीः समन्ततः प्रणम्य,  
@@ -1886,7 +1888,8 @@ He offers obeisance for the unnamed endless entourage altogether, “Oṁ, obeis
 
 He offers obeisance for the Lord’s sandals in front, 
 “Oṁ, obeisance to the sandals of the Lord.” 
-He offers obeisance for the insignia altogether, 
+He offers obeisance for the insignia altogether,  
+“Oṁ, obeisance to all the insignia of the Lord.”
 </details>
 
 
@@ -1897,20 +1900,321 @@ He offers obeisance for the insignia altogether,
 </details>
 
 
-ओं वैं वैनतैयाय नमः इति, अग्रतो भगवतः भगवन्तं वैनतेयं आसीनं द्विभुजं कृताञ्जलिपुटं ध्यात्वा प्रणम्य,  
-ओं श्रीमते विष्वक्सेनाय नमः इति भगवतः प्रागुत्तरे पार्श्वे दक्षिणाभिमुखं भगवन्तं विष्वक्सेनं आसीनं चतुर्भुजं शङ्खचक्रधरं नीलमेघनिभं ध्यात्वा, प्रणम्य, ओं गं गजाननाय नमः, ओं जं जयत्सेनाय नमः, ओं हं हरिवक्त्राय नमः, ओं कं कालप्रकृतिसंज्ञाय नमः, ओं सर्वेभ्यः विश्वक्सेनपरिजनेभ्यो नमः इति श्रीविष्वक्सेनपरिजनान् प्रणम्य,
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ओं चण्डाय द्वारपालाय नमः, ओं प्रचण्डाय द्वारपालाय नमः इति पूर्वद्वारपार्श्वयोः प्रणम्य, ओं भद्राय द्वारपालाय नमः, ओं सुभद्राय द्वारपालाय नमः इति दक्षिणद्वारपार्श्वयोः प्रणम्य, ओं जयाय द्वारपालाय नमः, ओं विजयाय द्वारपालाय नमः इति पश्चिमद्वारपार्श्वयोः प्रणम्य, ओं धात्रे द्वारपालाय नमः, ओं विधात्रे द्वारपालाय नमः इति उत्तरद्वारपार्श्वयोः प्रणम्य,
+"ओं वैं वैनतैयाय नमः" इति, अग्रतो भगवतः भगवन्तं वैनतेयम् आसीनं द्विभुजं कृताञ्जलिपुटं ध्यात्वा प्रणम्य,  
+</details>
+
+<details><summary>English</summary>
+
+Having meditated on lord Vainateya in front of the Lord, seated, with two arms, hands joined in salutation, having offered obeisance,  
+“Oṁ, obeisance to Vainateya,” 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+"ओं वैं वैनतैयाय नमः" इति, अग्रतो भगवतः भगवन्तं वैनतेयम् आसीनं द्विभुजं कृताञ्जलिपुटं ध्यात्वा प्रणम्य,
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"ओं श्रीमते विष्वक्सेनाय नमः" इति भगवतः प्रागुत्तरे पार्श्वे दक्षिणाभिमुखं भगवन्तं विष्वक्सेनं आसीनं चतुर्भुजं शङ्खचक्रधरं नीलमेघनिभं ध्यात्वा, प्रणम्य,  
+</details>
+
+<details><summary>English</summary>
+
+Next he meditates on lord Viṣvaksena, before the Lord on the north side and facing south, seated, with four arms, holding the conch and discus, (hands joined in salutation), like a blue cloud, and offers obeisance to him,  
+“Oṁ, obeisance to lord Viṣvaksena”
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+"ओं श्रीमते विष्वक्सेनाय नमः" इति भगवतः प्रागुत्तरे पार्श्वे दक्षिणाभिमुखं भगवन्तं विष्वक्सेनं आसीनं चतुर्भुजं शङ्खचक्रधरं नीलमेघनिभं ध्यात्वा, प्रणम्य,  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"ओं गं गजाननाय नमः,  
+ओं जं जयत्सेनाय नमः,  
+ओं हं हरिवक्त्राय नमः,  
+ओं कं कालप्रकृतिसंज्ञाय नमः,  
+ओं सर्वेभ्यः विश्वक्सेनपरिजनेभ्यो नमः"  
+इति श्रीविष्वक्सेनपरिजनान् प्रणम्य,
+</details>
+
+<details><summary>English</summary>
+
+Next he offers obeisance to the retinue of Viṣvaksena,  
+“Oṁ gaṃ, obeisance to the Gajānana,”  
+“Oṁ jaṃ, obeisance to Jayatsena,”  
+“Oṁ haṃ, obeisance to Harivaktra,”  
+“Oṁ kaṃ, obeisance to Kālaprakr̥tisamjña,”  
+“Oṁ, obeisance to all the retinue of lord Viṣvaksena.” 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+"ओं गं गजाननाय नमः,  
+ओं जं जयत्सेनाय नमः,  
+ओं हं हरिवक्त्राय नमः,  
+ओं कं कालप्रकृतिसंज्ञाय नमः,  
+ओं सर्वेभ्यः विश्वक्सेनपरिजनेभ्यो नमः"  
+इति श्रीविष्वक्सेनपरिजनान् प्रणम्य,
+
+</details>
+
+<details><summary>English - Notes</summary>
+
+Esnoul: “The devotee has imagined the divine pavilion, and now, as if entering it, encounters the guardians in the four directions” (2005: 71n60; my translation), two in each direction. 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"ओं चण्डाय द्वारपालाय नमः,  
+ओं प्रचण्डाय द्वारपालाय नमः"  
+इति पूर्वद्वारपार्श्वयोः प्रणम्य, 
+
+"ओं भद्राय द्वारपालाय नमः,  
+ओं सुभद्राय द्वारपालाय नमः"  
+इति दक्षिणद्वारपार्श्वयोः प्रणम्य, 
+
+"ओं जयाय द्वारपालाय नमः,  
+ओं विजयाय द्वारपालाय नमः"  
+इति पश्चिमद्वारपार्श्वयोः प्रणम्य,  
+
+"ओं धात्रे द्वारपालाय नमः,  
+ओं विधात्रे द्वारपालाय नमः"  
+इति उत्तरद्वारपार्श्वयोः प्रणम्य,
+
+एते द्वारपालाः सर्वे शङ्खचक्रगदाधराः आज्ञामुद्राधराः ध्यातव्याः ।  
+
+"ओं सर्वेभ्यो भगवद्द्वारपालेभ्यो नमः" इति सर्वद्वारेषु सर्वद्वारपालान् प्रणम्य,
+</details>
+
+<details><summary>English</summary>
+
+He offers obeisance to the two guardians at the eastern door,  
+“Oṁ, obeisance to Violent, the door-guardian,” and  
+“Oṁ, obeisance to Very Violent, the door-guardian.” 
+
+He offers obeisance to the two guardians of the southern door,  
+“Oṁ, obeisance to Auspicious, the door-guardian,” and  
+“Oṁ, obeisance to Very Auspicious, the door-guardian.” 
+
+He offers obeisance to the two guardians of the western door,  
+“Oṁ, obeisance to Victory, the door-guardian,”  
+“Oṁ, obeisance to Great Victory, the door-guardian.”   
+
+He offers obeisance to the two guardians of the northern door,  
+“Oṁ, obeisance to Arranger, the door-guardian,”  
+“Oṁ, obeisance to Re-arranger, the door-guardian.”
+
+All these door-guardians are to be meditated on as bearing the conch, discus, and club, and as equipped with the ājñā-mudrā.[^40]
+
+Next he does obeisance to all door-guardians at all the doors,  
+“Oṁ, obeisance to all the door-guardians of the Lord.”
+
+[^40]: The conch, discus, and club are the weapons held by Nārāyaṇa; the ājñā-mūdra is the “command posture” of the hand.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+"ओं चण्डाय द्वारपालाय नमः,  
+ओं प्रचण्डाय द्वारपालाय नमः"  
+इति पूर्वद्वारपार्श्वयोः प्रणम्य, 
+
+"ओं भद्राय द्वारपालाय नमः,  
+ओं सुभद्राय द्वारपालाय नमः"  
+इति दक्षिणद्वारपार्श्वयोः प्रणम्य, 
+
+"ओं जयाय द्वारपालाय नमः,  
+ओं विजयाय द्वारपालाय नमः"  
+इति पश्चिमद्वारपार्श्वयोः प्रणम्य,  
+
+"ओं धात्रे द्वारपालाय नमः,  
+ओं विधात्रे द्वारपालाय नमः"  
+इति उत्तरद्वारपार्श्वयोः प्रणम्य,
 
 एते द्वारपालाः सर्वे शङ्खचक्रगदाधराः आज्ञामुद्राधराः ध्यातव्याः ।
 
 ओं सर्वेभ्यो भगवद्द्वारपालेभ्यो नमः इति सर्वद्वारेषु सर्वद्वारपालान् प्रणम्य,
+</details>
 
-ओं कुमुदाय गणाधिपतये सवाहनपरिवारप्रहरणाय नमः इति पूर्वस्यां दिशि पार्षदेश्वरं कुमुदं प्रणम्य, ओं कुमुदाक्षायेत्यादिना आग्नेय्यां कुमुदाक्षं, ओं पुण्डरीकायेत्यादिना दक्षिणस्यां पुण्डरीकं, ओं वामनायेत्यादिना निर्ऋत्यां वामनं, ओं शङ्कुकर्णायेत्यादिना, पश्चिमायां शङ्कुकर्णं, ओं सर्वनेत्रायेत्यादिना वायव्यां सर्वनेत्रं, ओं सुमुखायेत्यादिना उत्तरस्यां सुमुखं, ओं सुप्रतिष्ठितायेत्यादिना ऐशान्यां सुप्रतिष्ठितं प्रणम्य, ओं सर्वेभ्यो भगवत्पारिषदेभ्यो नमः इति, सर्वस्माद्बहिः प्रणम्य,
 
-अन्यत्र बाह्यपूजायां आवाहनस्थानानि परमव्योमक्षीरार्णवादित्यमण्डलहृदयानि मधुराद्वारकायोध्यादीनि दिव्यावतारस्थानानि च, अन्यानि पौराणिकानि श्रीरङ्गादिनि च, यथारुचि ।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवं भगवन्तं नारायणं देवीभूषणायुधपरिजनपरिच्छदैः द्वारपालपारिषदैः सेव्यमानं, स्वाधीनत्रिविधचेतनाचेतनस्वरूपस्थितिप्रवृत्तिभेदं, क्लेशकर्माद्यशेषदोषासंस्पृष्टं, स्वाभाविकानवधिकातिशयज्ञानबलैश्वर्यवीर्यशक्तितेजःप्रभृत्यसङ्ख्येयकल्याणगुणगणौघमहार्णवं ध्यात्वा प्रणम्य, मूलमन्त्रेण स्वात्मानं देवाय निवेद्य, प्रणम्यानुज्ञाप्य, भगवत्पूजामारभेत ।
+"ओं कुमुदाय गणाधिपतये सवाहनपरिवारप्रहरणाय नमः"  
+इति पूर्वस्यां दिशि पार्षदेश्वरं कुमुदं प्रणम्य,  
+"ओं कुमुदाक्षाये"त्यादिना आग्नेय्यां कुमुदाक्षं,  
+"ओं पुण्डरीकाये"त्यादिना दक्षिणस्यां पुण्डरीकं,  
+"ओं वामनाये"त्यादिना निर्ऋत्यां वामनं,  
+"ओं शङ्कुकर्णाये"त्यादिना पश्चिमायां शङ्कुकर्णं,  
+"ओं सर्व+++(र्प)+++नेत्राये"त्यादिना वायव्यां सर्वनेत्रं,  
+"ओं सुमुखाये"त्यादिना उत्तरस्यां सुमुखं,  
+"ओं सुप्रतिष्ठिताये"त्यादिना ऐशान्यां सुप्रतिष्ठितं प्रणम्य,  
+"ओं सर्वेभ्यो भगवत्पारिषदेभ्यो नमः" इति, सर्वस्माद् बहिः प्रणम्य,
+</details>
+
+<details><summary>English</summary>
+
+Then he does obeisance to Kumuda, the courtier to the east,  
+“Oṁ, obeisance to Kumuda, ruler of the host, with vehicle, followers, gifts.”  
+
+He does obeisance to Kumudākṣa to the southeast,  
+“Oṁ, obeisance to Kumudākṣa, ruler of the host, with vehicle, followers, gifts.”  
+
+He does obeisance to Puṇḍarīka to the south,  
+“Oṁ, obeisance to Puṇḍarīka, ruler of the host, with vehicle, followers, gifts.”  
+
+He does obeisance to Vāmana to the southwest,  
+“Oṁ, obeisance to Vāmana, ruler of the host, with vehicle, followers, gifts.”  
+
+He does obeisance to Śaṇkukarṇa to the west,  
+“Oṁ, obeisance to Śaṇkukarṇa, ruler of the host, with vehicle, followers, gifts.”  
+
+He does obeisance to Sarpanetra to the northwest,  
+“Oṁ, obeisance to Sarpanetra, ruler of the host, with vehicle, followers, gifts.”  
+
+He does obeisance to Sumukha to the north,  
+“Oṁ, obeisance to Sumukha, ruler of the host, with vehicle, followers, gifts.” 
+
+He does obeisance to Supraṣṭhita to the northeast,  
+“Oṁ, obeisance to Supraṣṭhita, ruler of the host, with vehicle, followers, gifts,”
+
+Let him then offer obeisance to them all on all sides,  
+“Oṁ, obeisance to all the courtiers of the Lord.”[^41]
+
+[^41]: Esnoul: “Now the devotee turns to a wider group of courtiers, beyond those intimately connected with the Lord. These too come in pairs” (2005: 71n61; my translation).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+"ओं कुमुदाय गणाधिपतये सवाहनपरिवारप्रहरणाय नमः"  
+इति पूर्वस्यां दिशि पार्षदेश्वरं कुमुदं प्रणम्य,  
+"ओं कुमुदाक्षाये"त्यादिना आग्नेय्यां कुमुदाक्षं,  
+"ओं पुण्डरीकाये"त्यादिना दक्षिणस्यां पुण्डरीकं,  
+"ओं वामनाये"त्यादिना निर्ऋत्यां वामनं,  
+"ओं शङ्कुकर्णाये"त्यादिना पश्चिमायां शङ्कुकर्णं,  
+"ओं सर्वनेत्राये"त्यादिना वायव्यां सर्वनेत्रं,  
+"ओं सुमुखाये"त्यादिना उत्तरस्यां सुमुखं,  
+"ओं सुप्रतिष्ठिताये"त्यादिना ऐशान्यां सुप्रतिष्ठितं प्रणम्य,  
+"ओं सर्वेभ्यो भगवत्पारिषदेभ्यो नमः" इति, सर्वस्माद् बहिः प्रणम्य,
+
+</details>
+
+<details><summary>English - Notes</summary>
+
+XII. Another Option Regarding Place 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्यत्र बाह्य-पूजायाम् आवाहन-स्थानानि  
+परम-व्योम--क्षीरार्णवादित्य-मण्डल-हृदयानि  
+मधुरा-द्वारकायोध्यादीनि दिव्यावतार-स्थानानि च,  
+अन्यानि पौराणिकानि श्रीरङ्गादिनि च, यथारुचि ।
+</details>
+
+<details><summary>English</summary>
+
+Or, he may invoke other sites for worship— 
+the highest place; the ether +++(sic)+++,  
+the milk ocean,  
+the realm of the sun, and the heart;  
+Mathurā, Dvārakā, Gokula, ayodhyā, etc., and the sites of other divine descents;  
+places mentioned in the Purāṇas,  
+and Śrīraṇgam or others,[^43] as desired[^42].
+
+[^42]:
+
+    This pertains to kinds of worship related to forms of the Lord:
+
+    - para (in the highest place)—the highest place;
+    - vyūha (in the ethereal, intermediate realm)—vyomakṣīrārṇavādityamaṇḍala-; 
+    - hārda (antaryāmin) (in the heart, the inner controller)—of the heart; 
+    - vibhava (the manifest, descended [āvatārika] form)— Mathurā, Dvārakā, Gokula, Ayodhyā, etc., and the sites of other divine descents; 
+    - mythic places and Śrīraṇgam, etc.; 
+    - arcā—the temple form at Śrīraṇgam, etc.
+
+[^43]: Or: Śrīraṇgam is mentioned simply as an example of the mythic (paurāṇika) places.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अन्यत्र बाह्यपूजायाम् आवाहनस्थानानि परमव्योमक्षीरार्णवादित्यमण्डलहृदयानि मधुराद्वारकायोध्यादीनि दिव्यावतारस्थानानि च, अन्यानि पौराणिकानि श्रीरङ्गादिनि च, यथारुचि ।
+
+</details>
+
+### आत्मनिवेदनम्
+<details><summary>English - Notes</summary>
+
+Part Three: Intimate Worship of the Lord 
+XIII. The Beginning of the Intimate Worship (Pūjā) of the Lord 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवं भगवन्तं नारायणं देवी-भूषणायुध-परिजन-परिच्छदैः द्वार-पाल--पारिषदैः सेव्यमानं,  
+स्वाधीन--त्रि-विध--चेतनाचेतन-स्वरूप--स्थिति-प्रवृत्ति-भेदं,  
+क्लेश-कर्माद्य्-अशेष-दोषासंस्पृष्टं,
+स्वाभाविकानवधिकातिशय-ज्ञान-बलैश्वर्य-वीर्य-शक्ति-तेजः-प्रभृत्य्-असङ्ख्येय-कल्याण-गुण-गणौघ-महार्णवं ध्यात्वा 
+</details>
+
+<details><summary>English</summary>
+
+He meditates, 
+
+> “The Lord Nārāyaṇa is served by the assembly, door-protectors, with insignia, relatives, ornaments and weapons, and goddesses.  
+> In Him is the differentiation of the stability, movement, and proper form of the threefold conscious and non-conscious beings that depend on Him.  
+> He is entirely untouched by faults, affliction, karma, etc.  
+> He is a great ocean, a flood of the host of innumerable auspicious qualities, beginning with knowledge, strength, lordly power, manliness, energy, brightness, etc., such as are innate, flawless, and abundant.”
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एवं भगवन्तं नारायणं देवीभूषणायुधपरिजनपरिच्छदैः द्वारपालपारिषदैः सेव्यमानं, स्वाधीनत्रिविधचेतनाचेतनस्वरूपस्थितिप्रवृत्तिभेदं, क्लेशकर्माद्यशेषदोषासंस्पृष्टं,
+स्वाभाविकानवधिकातिशयज्ञानबलैश्वर्यवीर्यशक्तितेजःप्रभृत्यसङ्ख्येयकल्याणगुणगणौघमहार्णवं ध्यात्वा 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रणम्य,  
+मूलमन्त्रेण स्वात्मानं देवाय निवेद्य,  
+प्रणम्यानुज्ञाप्य,  
+भगवत्-पूजाम् आरभेत ।
+</details>
+
+<details><summary>English</summary>
+
+Then he offers obeisance and offers his own self to the deity with the root mantra.  
+After offering obeisance and asking permission,  
+let him undertake the Lord’s worship.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रणम्य, मूलमन्त्रेण स्वात्मानं देवाय निवेद्य, प्रणम्यानुज्ञाप्य,  भगवत्पूजामारभेत ।
+</details>
+
+<details><summary>English - Notes</summary>
+
+XIV. The Lord’s Bath
+</details>
+
 
 पात्रेण (उद्धरिण्या) पूर्वस्थितादर्घ्यपात्रात् अर्घ्यजलमादाय, पाणिभ्यां घ्राणसममुद्धृत्य, भगवन्निदं प्रतिगृह्णीष्व इति चिन्तयन् भगवन्मुखे दर्शयित्वा भगवद्दक्षिणहस्ते किञ्चित्प्रदाय, अर्घ्यं पतद्ग्रहपात्रे प्रक्षिपेत् ।
 

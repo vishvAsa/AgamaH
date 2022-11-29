@@ -306,9 +306,6 @@ oṁ sarvebhyo bhagavatparijanebhyo nama iti anukta-anantaparijanān samantata�
 oṁ bhagavatpādukābhyāṁ nama iti bhagavatpāduke purataḥ praṇamya, oṁ sarvebhyo bhagavatparicchadebhyo nama iti sarvaparicchadān samantataḥ praṇamya, 
 oṁ vainateyāya nama iti agrato bhagavato bhagavantaṁ vainateyaṁ āsīnaṁ dvibhujaṁ kr̥tāñjalipuṭaṁ dhyātvā praṇamya, 
 
-“Oṁ, obeisance to all the insignia of the Lord.”  
-Having meditated on lord Vainateya in front of the Lord, seated, with two arms, hands joined in salutation, having offered obeisance,  
-“Oṁ, obeisance to Vainateya,” 
 
 oṁ namo bhagavate viṣvaksenāya iti bhagavataḥ prāg uttarapārśve dakṣiṇābhimukhaṁ bhagavantaṁ viṣvaksenam āsīnaṁ caturbhujaṁ śaṇkha-cakradharaṁ (kr̥tāñjalipuṭaṁ) nīlamegha-nibhaṁ dhyātvā praṇamya, 
 oṁ gaṁ gajānanāya namaḥ, 
@@ -317,33 +314,20 @@ oṁ haṁ harivaktrāya namaḥ,
 oṁ kaṁ kālaprakr̥tisaṁjñāya namaḥ, 
 oṁ sarvebhyo bhagavadviṣvaksenaparijanebhyo namaḥ iti 
 viṣvaksena-parijanān praṇamya, 
-Next he meditates on lord Viṣvaksena, before the Lord on the north side and facing south, seated, with four arms, holding the conch and discus, (hands joined in salutation), like a blue cloud, and offers obeisance to him, 
-“Oṁ, obeisance to lord Viṣvaksena” 
-Next he offers obeisance to the retinue of Viṣvaksena, 
-“Oṁ gaṃ, obeisance to the Gajānana,” 
-“Oṁ jaṃ, obeisance to Jayatsena,” 
-“Oṁ haṃ, obeisance to Harivaktra,” 
-“Oṁ kaṃ, obeisance to Kālaprakr̥tisamjña,” 
-“Oṁ, obeisance to all the retinue of lord Viṣvaksena.” 
+
 oṁ caṇḍāya dvārapālāya namaḥ, 
 oṁ pra-caṇḍāya dvārapālāya namaḥ iti pūrva-dvārapārśvayoḥ praṇamya, oṁ bhadrāya dvārapālāya namaḥ, 
 oṁ su-bhadrāya dvārapālāya namaḥ iti dakṣiṇa-dvārapārśvayoḥ praṇamya, oṁ jayāya dvārapālāya namaḥ, 
 oṁ vi-jayāya dvārapālāya namaḥ iti paścima-dvārapārśvayoḥ praṇamya, oṁ dhātre dvārapālāya namaḥ, 
-oṁ vidhātre dvārapālāya namaḥ iti uttara-dvārapārśvayoḥ praṇamet. (34) He offers obeisance to the two guardians at the eastern door, 
-“Oṁ, obeisance to Violent, the door-guardian,” and 
-“Oṁ, obeisance to Very Violent, the door-guardian.” 
-He offers obeisance to the two guardians of the southern door, “Oṁ, obeisance to Auspicious, the door-guardian,” and 
-“Oṁ, obeisance to Very Auspicious, the door-guardian.” 
-He offers obeisance to the two guardians of the western door, “Oṁ, obeisance to Victory, the door-guardian,” 
-“Oṁ, obeisance to Great Victory, the door-guardian.” 
-He offers obeisance to the two guardians of the northern door, “Oṁ, obeisance to Arranger, the door-guardian,” 
-123
-Rāmānuja’s Nityagrantham (“Manual of Daily Worship”): A Translation 367 
-“Oṁ, obeisance to Re-arranger, the door-guardian.”39 
-ete dvārapālās sarve śaṇkacakragadādharā ājñā-mudrā-āyutā dhyātavyāḥ. (35) All these door-guardians are to be meditated on as bearing the conch, discus, and club, and as equipped with the ājñā-mudrā.40 
-oṁ sarvebhyo bhagavaddvārapālebhyo nama iti sarvadvāreṣu 
-sarvadvārapālān praṇamya, 
-oṁ kumudāya gaṇādhipataye savāhanaparivārapraharaṇāya nama iti pūrvasyāṁ diśi pārṣadeśvaraṁ kumudaṁ praṇamya, 
+oṁ vidhātre dvārapālāya namaḥ iti uttara-dvārapārśvayoḥ praṇamet. (34) 
+
+
+ete dvārapālās sarve śaṇkacakragadādharā ājñā-mudrā-āyutā dhyātavyāḥ. (35) 
+
+oṁ sarvebhyo bhagavaddvārapālebhyo nama iti sarvadvāreṣu  
+sarvadvārapālān praṇamya,  
+
+oṁ kumudāya gaṇādhipataye savāhanaparivārapraharaṇāya nama iti pūrvasyāṁ diśi pārṣadeśvaraṁ kumudaṁ praṇamya,  
 oṁ kumudākṣāya gaṇādhipataye savahānaparivārapraharaṇāya nama iti āgneyyāṁ kumudākṣaṁ praṇamya, 
 oṁ puṇḍarīkāya gaṇādhipataye savāhana-parivārapraharaṇāya nama iti dakṣiṇasyāṁ puṇḍarīkaṁ praṇamya, 
 oṁ vāmanāya gaṇādhipataye savāhanaparivārapraharaṇāya nama iti nairr̥tyāṁ vāmanaṁ praṇamya, 
@@ -352,38 +336,19 @@ oṁ sarpanetrāya gaṇādhipataye savāhana-parivāra-praharaṇāya nama iti 
 oṁ sumukhāya gaṇādhipataye savāhana-parivāra-praharaṇāya nama iti udīcyāṁ sumukhaṁ praṇamya, 
 oṁ supratiṣṭhitāya gaṇādhipataye savāhana-parivāra-praharaṇāya nama iti aiśānyāṁ supratiṣṭhitaṁ praṇamya, 
 oṁ sarvebhyo bhagavatpāriṣadebhyo nama iti sarvasmād bahiḥpraṇamet. (36) 
-Next he does obeisance to all door-guardians at all the doors, 
-“Oṁ, obeisance to all the door-guardians of the Lord.” 
-Then he does obeisance to Kumuda, the courtier to the east, 
-“Oṁ, obeisance to Kumuda, ruler of the host, with vehicle, followers, gifts.” He does obeisance to Kumudākṣa to the southeast, 
-“Oṁ, obeisance to Kumudākṣa, ruler of the host, with vehicle, followers, gifts.” 
-He does obeisance to Puṇḍarīka to the south, 
-“Oṁ, obeisance to Puṇḍarīka, ruler of the host, with vehicle, followers, gifts.” He does obeisance to Vāmana to the southwest, 
-“Oṁ, obeisance to Vāmana, ruler of the host, with vehicle, followers, gifts.” He does obeisance to Śaṇkukarṇa to the west, 
-“Oṁ, obeisance to Śaṇkukarṇa, ruler of the host, with vehicle, followers, gifts.” 
-39 Esnoul: “The devotee has imagined the divine pavilion, and now, as if entering it, encounters the guardians in the four directions” (2005: 71n60; my translation), two in each direction. 40 The conch, discus, and club are the weapons held by Nārāyaṇa; the ājñā-mūdra is the “command posture” of the hand. 
-123
-368 Francis X. Clooney 
-He does obeisance to Sarpanetra to the northwest, 
-“Oṁ, obeisance to Sarpanetra, ruler of the host, with vehicle, followers, gifts.” He does obeisance to Sumukha to the north, 
-“Oṁ, obeisance to Sumukha, ruler of the host, with vehicle, followers, gifts.” He does obeisance to Supraṣṭhita to the northeast, 
-“Oṁ, obeisance to Supraṣṭhita, ruler of the host, with vehicle, followers, gifts,” 
-Let him then offer obeisance to them all on all sides, 
-“Oṁ, obeisance to all the courtiers of the Lord.”41 
-XII. Another Option Regarding Place 
-anyatra āvāhya pūjāyām āvāhanasthānāni parama-vyoma-kṣ¯ra ı ¯rṇava ādityamaṇḍala-hr̥dayāni mathurādvārakāgokulāyodhyādīni divyāvatārasthānāni cānyāni paurāṇikāni śrīraṇgādīni ca 
-yathāruci.42 (37) 
-Or, he may invoke other sites for worship—the highest place; the ether, the milk ocean, the realm of the sun, and the heart; Mathurā, Dvārakā, Gokula, ā yodhyā, etc., and the sites of other divine descents; places mentioned in the Purāṇas, and Śrīraṇgam or others,43 as desired. 
-Part Three: Intimate Worship of the Lord 
-XIII. The Beginning of the Intimate Worship (Pūjā) of the Lord evaṁ bhagavantaṁ nārāyaṇaṁ devī-bhūṣaṇa-āyudha-parijana paricchada-dvārapāla-pāriṣadais sevyamānaṁ svādhīna-trividha cetanācetana-svarūpa-sthiti-pravr̥tti-bhedaṁ kleśa-karma-ādi-aśeṣadoṣa asaṁspr̥ṣṭaṁ svābhāvika-anavadhika-atiśaya-jñāna-bala-aiśvarya vīrya-śakti-tejaḥ-prabhr̥ti-asaṁkhyeya-kalyāṇaguṇa-gaṇaughamahārṇavaṁ dhyātvā, He meditates, “The Lord Nārāyaṇa is served by the assembly, door-protectors, with insignia, relatives, ornaments and weapons, and goddesses. In Him is the differen tiation of the stability, movement, and proper form of the threefold conscious and non-conscious beings that depend on Him. He is entirely untouched by faults, 
-41 Esnoul: “Now the devotee turns to a wider group of courtiers, beyond those intimately connected with the Lord. These too come in pairs” (2005: 71n61; my translation). 
-42 This pertains to kinds of worship related to forms of the Lord: para (in the highest place)—the highest place; vyūha (in the ethereal, intermediate realm)—vyomakṣīrārṇavādityamaṇḍala-; hārda (antaryāmin) (in the heart, the inner controller)—of the heart; vibhava (the manifest, descended [āvatārika] form)— Mathurā, Dvārakā, Gokula, ā yodhyā, etc., and the sites of other divine descents; mythic places and Śrīraṇgam, etc.; arcā—the temple form at Śrīraṇgam, etc. 
-43 Or: Śrīraṇgam is mentioned simply as an example of the mythic (paurāṇika) places. 123
-Rāmānuja’s Nityagrantham (“Manual of Daily Worship”): A Translation 369 
-affliction, karma, etc. He is a great ocean, a flood of the host of innumerable auspicious qualities, beginning with knowledge, strength, lordly power, manliness, energy, brightness, etc., such as are innate, flawless, and abundant.” 
+
+
+
+anyatra āvāhya pūjāyām āvāhanasthānāni parama-vyoma-kṣīrarṇava-ādityamaṇḍala-hr̥dayāni mathurādvārakāgokulāyodhyādīni divyāvatārasthānāni cānyāni paurāṇikāni śrīraṇgādīni ca 
+yathāruci. (37) 
+
+
+evaṁ bhagavantaṁ nārāyaṇaṁ devī-bhūṣaṇa-āyudha-parijana paricchada-dvārapāla-pāriṣadais sevyamānaṁ svādhīna-trividha cetanācetana-svarūpa-sthiti-pravr̥tti-bhedaṁ kleśa-karma-ādi-aśeṣadoṣa asaṁspr̥ṣṭaṁ svābhāvika-anavadhika-atiśaya-jñāna-bala-aiśvarya vīrya-śakti-tejaḥ-prabhr̥ti-asaṁkhyeya-kalyāṇaguṇa-gaṇaughamahārṇavaṁ dhyātvā, 
+
+
 praṇamya, mūlamantreṇa svātmānaṁ devāya nivedya, praṇamya, anujñāpya, bhaga-vatpūjām ārabheta. (38) 
-Then he offers obeisance and offers his own self to the deity with the root mantra. After offering obeisance and asking permission, let him undertake the Lord’s worship. 
-XIV. The Lord’s Bath 
+
+ 
 pātreṇa pūrvasthāpita-arghya-pātrād arghyajalam ādāya pāṇibhyāṁ ghrāṇamukhasamam uddhr̥tya, “bhagavan idaṁ pratigr̥hṇ¯sı˙va” iti cintayan bhagavanmukhe darśayitvā bhagavaddakṣiṇahaste kiṁcit pradāya arghyaṁ pratigrahapātre prakṣipet. (39) 
 Then in a bowl he takes guest-water from the bowl of guest-water previously set there. With his two hands he holds it up before His mouth for smelling. Thinking, “Lord, accept this,” he shows it before the Lord’s mouth, he puts some in the Lord’s right hand. Let him then discard that guest-water into the bowl for remainders. 
 hastau prakṣālya pādayoḥ puṣpāṇi samarpya pādyapātrāt pādyajalam ādāya pādayoḥ kiṁcid datvā manasā pādau prakṣālayan pādyaṁ pratigrahapātre nikṣipet. (40) Then he washes His hands. He offers flowers at His feet. He takes water for the feet from the foot-washing-bowl and puts some of it on His feet and mentally washes them. Let him then discard that water for the feet into the bowl for remainders. 
