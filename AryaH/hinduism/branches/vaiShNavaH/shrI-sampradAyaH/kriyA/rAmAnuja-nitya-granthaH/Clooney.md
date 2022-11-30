@@ -363,40 +363,33 @@ tataḥ snānārtham āsanam ānīya gandhādibhir abhyarcya bhagavantaṁ pra�
 arghya-pādya-ācamanīya-pādapīṭha-pradāna-danta-kāṣṭha-jihvānirlehana gaṇḍūṣa-mukhaprakṣālana-ācamana-ādarśapradarśana-hastaprakṣālana mukhavāsa-tāmbūla-tailābhyaṇga-udvartana-āmalaka-toya-kaṇkata-plota deha-śodhana-śāṭikā-pradāna-haridrālepana-prakṣālana-vastra-uttarīya yajñopavītapradāna-pādyācamana-pavitrapradāna-gandha-puṣpa-dhūpa dīpa-ācamana-nr̥ttagītavādyādi-sarvamaṇgala-saṁyukta-abhiṣeka-nīrājana ācamana-dehaśodhana-plotavastra-uttarīya-yajñopavīta-ācamana-kūrca prasāraṇa-sahasradhāra-abhiṣeka-nīrājana-ācamana-deha-śodhana-plota vastra-uttarīya-yajñopavīta-ācamanāni dadyāt. (43) 
 
 
-tato ’laṁkāra-āsanam abhyarcya praṇamya anujñāpya, pāduke pradāya, Then he venerates the seat for adornment and offers obeisance. He asks permission and presents the sandals. 
-tatropaviṣṭe pūrvavat snānīyavarjam arghyapādyācamanīyaśuddhodakāni mantreṇa kalpayitvā bhagavate gandha-puṣpa-pāda-saṁmardana-vastra uttarīya-bhūṣaṇa-upavīta-arghya-pādya-ācamanīyāni datvā, sarva parivārāṇāṁ snānavastrādibhūṣaṇāntaṁ datvā, gandhādīn devānantaraṁ sarvaparivārāṇāṁ pratyekaṁ pradāya, 
-
-With the mantra, he arranges for the Lord seated there the guest-water, foot-washing-water, water for sipping, pure water, all as before excepting now too the bathing-water. He gives to the Lord scent, flowers, foot-massage, the lower garment, upper garment, adornments, sacrificial thread, guest-water, foot-washing-water, and sipping water. He gives to all the retinue everything from the bathing and cloths to the adornments, and then he presents the scent, etc., to each of the retinue, immediately after presenting these to the deity. 
+tato ’laṁkāra-āsanam abhyarcya praṇamya anujñāpya, pāduke pradāya,  
+tatropaviṣṭe pūrvavat snānīyavarjam arghyapādyācamanīyaśuddhodakāni mantreṇa kalpayitvā bhagavate gandha-puṣpa-pāda-saṁmardana-vastra uttarīya-bhūṣaṇa-upavīta-arghya-pādya-ācamanīyāni datvā, sarva parivārāṇāṁ snānavastrādibhūṣaṇāntaṁ datvā, gandhādīn devānantaraṁ sarvaparivārāṇāṁ pratyekaṁ pradāya,  
 dhūpadīpācamanīyāni dadyāt. (44) 
-Let him give the incense, flame, and water for sipping. 
+
 athavā, sarvaparivārāṇāṁ gandhādīn eva dadyāt. (45) 
-Or, let him give just the scent, etc., to the whole retinue. 
-XV. Preparations for the Lord’s Meal 
+
 gandha-puṣpa-pradāna-alaṁkāra-añjana-ūrdhvapuṇḍra-ādarśa-dhūpa dīpa-ācamana-dhvaja-chatra-cāmara-vāhana-śaṇkha-cihna-kāhala bheri-ādi-sakala-nr̥tta-gīta-vādyādibhir abhyarcya 
-He offers veneration bythe giving of scent and flowers, adornments, collyrium,the forehead mark, mirror, incense, flame, water for sipping, flag, umbrella, fan, vehicle, conch, mark, musical instruments and drums, etc., all the dance, song, instrumental music, etc. 
+
+
 mūlamantreṇa puṣpaṁ pradāya, pratyakṣaraṁ puṣpaṁ pradāya dvādaśa akṣareṇa viṣṇu-ṣaḍ-akṣareṇa viṣṇugāyatryā pañcopaniṣadaiḥ puruṣasūkta r̥gbhir puṣpaṁ pradāya anyaiś ca bhagavanmantraiś śaktaś cet puṣpaṁ pradāya, devī-ādi-divyapāriṣadāntaṁ tattanmantreṇa puṣpaṁ datvā, praṇamya 
-He presents a flower with the root mantra, giving a flower for each syllable. If he is able, he presents the flower with the twelve-syllable mantra, with Viṣṇu’s six syllable mantra, with the Viṣṇu Gāyatrī-mantra,45 with the five Upaniṣad mantras, with verses of the Puruṣa Sūkta,46 and with other mantras of the Lord. Using the mantra of each, he gives flowers beginning with the Goddess and ending with the divine assembly and offers obeisance. 
+
+
 pratidiśaṁ pradakṣiṇapraṇāmapūrvakaṁ bhagavate puṣpāñjaliṁ datvā purataḥ praṇamya, śrutisukhaiḥstotraiḥstutvā, sva-ātmānaṁ nityakiṁkaratayā nivedya, 
-In each direction, he gives a salutation to the Lord with a handful of flowers, preceded by the offering of obeisance and by turning about. He offers obeisance 
-45 Krishna Ayyangar Swami (2010: 47): The twelve-syllable mantra: oṃ namo bhagavate vāsudevāya (Oṁ, obeisance to Lord Vāsudeva), six-syllable mantra: oṃ viṣṇave namaḥ (Oṁ, obeisance to Viṣṇu), Viṣṇu Gāyatrī-mantra: oṃ nārāyaṇāya vidmahe vāsudevāya dhīmahi tan no viṣṇuḥ pracodayāt (Oṁ, we meditate on Nārāyaṇa, may I know Nārāyaṇa, may I meditate on Vāsudeva, may Viṣnu illumine us). 
-46 Ṛg Veda 10.90. 
-123
-372 Francis X. Clooney 
-before him and praises him with hymns of praise pleasing to hear.47 He presents his own self for the sake of perpetual service. 
+
 tathaiva dhyātvā, yathāśakti mūlamantraṁ japitvā, 
 sarvabhogaprapūraṇ¯mı˙ mātrāṁ datvā, mukhavāsa-tāmbūle pradāya, arghyaṁ datvā bhojyāsanam abhyarcya praṇamya anujñāpya pāduke pradāya, 
 After meditating in just this way, he recites the root mantra as many times as he is able and he gives whatever measure more completes all enjoyments. He presents mouth-freshener and betel, offers the guest-water, and venerates the seat of enjoyment. After offering obeisance, he asks permission and presents the sandals. 
 tatropaviṣṭe pādyācamanīya-arhaṇāni datvā, 
 He gives water for foot-washing, for sipping, and for honoring, before him seated there. 
 XVI. The Lord’s Meal 
-guḍaṁ mākṣikaṁ sarpir dadhi kṣ¯ram ı ˙ ceti pātre nikṣipya śoṣaṇādibhir viśodhya, arghyajalena samprokṣya, madhuparkam avanataśirā harṣotphullanayano hr̥ṣṭamanā bhūtvā pradāya ācamanīyaṁ dadyāt. (46) 
+guḍaṁ mākṣikaṁ sarpir dadhi kṣīraṁ ceti pātre nikṣipya śoṣaṇādibhir viśodhya, arghyajalena samprokṣya, madhuparkam avanataśirā harṣotphullanayano hr̥ṣṭamanā bhūtvā pradāya ācamanīyaṁ dadyāt. (46) 
 Then, after placing on the plate cane sugar, honey, melted butter, curd, and milk, he thoroughly purifies them by acts of drying, etc., and sprinkles with the guest-water. Then, with his head bowed, his eyes wide with delight, his mind delighted, he gives the honey and milk mixture. Then let him give water for sipping. 
 yat kiṁcid dravyaṁ bhagavate dīyate tat sarvaṁ śoṣaṇādibhir viśodhya arghyajalena samprokṣya dadyāt. (47) 
 Regarding whatever is to be given to the Lord, let him give it after thoroughly purifying it all by acts of drying, etc., and after sprinkling it with the guest-water.48 
 tataś ca gāṁ svarṇaratnādikaṁ ca yathāśakti dadyāt. (48) 
 And then let him give, insofar as he is able, a cow, and also gold, jewels, etc. tatas susaṁskr̥tānnam ājyāḍhyaṁ dadhi-kṣ¯ra-madhu ı ¯ni ca 
 phalamūlavyañjanāni modakāṁś ca anyāni ca loke priyatamāni ātmanaś ca iṣṭāni śāstra-aviruddhāni sambhr̥tya śoṣaṇādibhir viśodhya 
-47 Krishna Ayyangar Swami (2010: 47): The Divyaprabandham (“the corpus of the hymns of the ā l¯vārs”), and particularly ā ṇṭāl˙’s Tiruppāvai, are referred to here, as used in both temple and at home. See also the similar reference in note 49. 
 48 Krishna Ayyangar Swami (2010: 48–49): The meal too must be thought of as a sacrifice; eating food that is not offered to the Lord is a sin. 
 123
 Rāmānuja’s Nityagrantham (“Manual of Daily Worship”): A Translation 373 

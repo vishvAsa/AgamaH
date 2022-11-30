@@ -2449,11 +2449,178 @@ the lower garment, the upper garment and sacrificial thread, and water for sippi
 </details>
 
 
-ततः अलङ्कारासनमभ्यर्च्य प्रणम्य अनुज्ञाप्य, पादुके प्रदाय, तत्र उपविष्टे पूर्ववत् स्नानीयवर्जम् अर्घ्यपाद्याचमनीयशुद्धोदकानि मन्त्रेण कल्पयित्वा भगवते अर्घ्यपाद्याचमनीयानि दत्वा गन्धपुष्प पादसंमर्दन वस्त्रोत्तरीय भूषणोपवीताचमनीयानि दत्वा, सर्वपरिवाराणां, स्नानवस्त्रभूषणान्तं दत्वा, गन्धादीन् देवानन्तरं सर्वपरिवाराणां प्रदाय, धूपदीपाचमनान्तं दद्यात् ।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+ततो ऽलङ्कारासनम् अभ्यर्च्य  
+प्रणम्य, अनुज्ञाप्य,  
+पादुके प्रदाय,  
+तत्र उपविष्टे  
+पूर्ववत् स्नानीय-वर्जम् अर्घ्य-पाद्याचमनीय-शुद्धोदकानि मन्त्रेण कल्पयित्वा 
+</details>
+
+<details><summary>English</summary>
+
+Then he venerates the seat for adornment and offers obeisance.  
+He asks permission and presents the sandals.
+
+With the mantra, he arranges for the Lord seated there the guest-water, foot-washing-water, water for sipping, pure water, all as before excepting now too the bathing-water. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ततो ऽलङ्कारासनमभ्यर्च्य प्रणम्य अनुज्ञाप्य, पादुके प्रदाय, तत्र उपविष्टे पूर्ववत् स्नानीयवर्जम् अर्घ्यपाद्याचमनीयशुद्धोदकानि मन्त्रेण कल्पयित्वा 
+
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भगवते (अर्घ्यपाद्याचमनीयानि दत्वा)  
+गन्धपुष्प--पाद-संमर्दन--वस्त्रोत्तरीय-भूषणोपवीताचमनीयानि दत्वा,  
+
+सर्व-परिवाराणां स्नान-वस्त्र-भूषणान्तं दत्वा,  
+गन्धादीन् देवानन्तरं सर्वपरिवाराणां प्रदाय,  
+
+धूप-दीपाचमनान्तं दद्यात् ।  
 अथवा सर्वपरिवाराणां गन्धादीनेव दद्यात् ।
+</details>
 
-गन्धपुष्पप्रदान अलङ्कार ऊर्ध्वपुण्ड्र अञ्जन आदर्श धूपदीप आचमन ध्वज छत्र चामर वाहन शङ्ख चिह्न काहल भेर्यादि सकल नृत्त गीत वाद्यादिभिः अभ्यर्च्य, मूलमन्त्रेण पुष्पं प्रदाय प्रत्यक्षरं पुष्पं प्रदाय द्वादशाक्षरेण विष्णुषडक्षरेण विष्णुगायत्र्या पञ्चोपनिषदैः पुरुषसूक्त ऋग्भिः पुष्पं प्रदाय अन्यैश्च भगवन्मन्त्रैः शक्तश्चेत् पुष्पं प्रदाय देव्यादिपारिषदान्तं तत्तन्मन्त्रेण पुष्पं दत्वा प्रणम्य प्रतिदिशं प्रदक्षिणप्रणामपूर्वकं भगवते पुष्पाञ्जलिं दत्वा पुरतः प्रणम्य, श्रुतिसुखैः स्तोत्रैः स्तुत्वा स्वात्मानं नित्यकिङ्करतया निवेद्य तथैव ध्यात्वा, यथाशक्ति मूलमन्त्रं जपित्वा सर्वभोगपूरणीं मात्रां दत्वा, मुखवासताम्बूले प्रदाय अर्घ्यं दत्वा,
+<details><summary>English</summary>
+
+He gives to the Lord scent, flowers, foot-massage, the lower garment, upper garment, adornments, sacrificial thread, guest-water, foot-washing-water, and sipping water.  
+He gives to all the retinue everything from the bathing and cloths to the adornments, and then he presents the scent, etc., to each of the retinue, immediately after presenting these to the deity.
+
+Let him give the incense, flame, and water for sipping.
+
+Or, let him give just the scent, etc., to the whole retinue.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भगवते अर्घ्यपाद्याचमनीयानि दत्वा गन्धपुष्प पादसंमर्दन वस्त्रोत्तरीय भूषणोपवीताचमनीयानि दत्वा, सर्वपरिवाराणां, स्नानवस्त्रभूषणान्तं दत्वा, गन्धादीन् देवानन्तरं सर्वपरिवाराणां प्रदाय, धूपदीपाचमनान्तं दद्यात् ।  
+अथवा सर्वपरिवाराणां गन्धादीनेव दद्यात् ।
+</details>
+
+<details><summary>English - Notes</summary>
+
+XV. Preparations for the Lord’s Meal 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+गन्ध-पुष्प-प्रदान--अलङ्कार--ऊर्ध्व-पुण्ड्र--अञ्जन-  
+आदर्श-धूप-दीप-आचमन-  
+ध्वज-छत्र-चामर-वाहन-शङ्ख-चिह्न-  
+काहल+++(=महानगारि)+++-भेर्यादि-सकल-नृत्त-गीत-वाद्यादिभिः अभ्यर्च्य, 
+</details>
+
+<details><summary>English</summary>
+
+He offers veneration by the giving of  
+scent and flowers, adornments, collyrium, the forehead mark,  
+mirror, incense, flame, water for sipping,  
+flag, umbrella, fan, vehicle, conch,  
+mark, musical instruments and drums, etc., all the dance, song, instrumental music, etc. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+गन्ध-पुष्प-प्रदान--अलङ्कार--ऊर्ध्व-पुण्ड्र--अञ्जन-आदर्श-धूप-दीप-आचमन-ध्वज-छत्र-चामर-वाहन-शङ्ख-चिह्न-काहल-भेर्यादि-सकल-नृत्त-गीत-वाद्यादिभिः अभ्यर्च्य, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मूलमन्त्रेण पुष्पं प्रदाय  
+प्रत्यक्षरं पुष्पं प्रदाय  
+द्वादशाक्षरेण, विष्णुषडक्षरेण, विष्णुगायत्र्या, पञ्चोपनिषदैः, पुरुषसूक्त-ऋग्भिः पुष्पं प्रदाय  
+अन्यैश्च भगवन्मन्त्रैः शक्तश् चेत् पुष्पं प्रदाय  
+</details>
+
+<details><summary>English</summary>
+
+He presents a flower with the root mantra,  
+giving a flower for each syllable.  
+If he is able, he presents the flower with the twelve-syllable mantra,  
+with Viṣṇu’s six syllable mantra,  
+with the Viṣṇu Gāyatrī-mantra,[^45]  
+with the five Upaniṣad mantras,  
+with verses of the Puruṣa Sūkta,[^46]  
+and with other mantras of the Lord.
+
+[^45]:
+
+    Krishna Ayyangar Swami (2010: 47): The twelve-syllable mantra: oṃ namo bhagavate vāsudevāya (Oṁ, obeisance to Lord Vāsudeva),  
+    six-syllable mantra: oṃ viṣṇave namaḥ (Oṁ, obeisance to Viṣṇu),  
+    Viṣṇu Gāyatrī-mantra: oṃ nārāyaṇāya vidmahe vāsudevāya dhīmahi tan no viṣṇuḥ pracodayāt (Oṁ, we meditate on Nārāyaṇa, may I know Nārāyaṇa, may I meditate on Vāsudeva, may Viṣnu illumine us).
+
+[^46]: Ṛg Veda 10.90.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मूलमन्त्रेण पुष्पं प्रदाय  
+प्रत्यक्षरं पुष्पं प्रदाय  
+द्वादशाक्षरेण, विष्णुषडक्षरेण, विष्णुगायत्र्या, पञ्चोपनिषदैः, पुरुषसूक्त-ऋग्भिः पुष्पं प्रदाय  
+अन्यैश्च भगवन्मन्त्रैः शक्तश् चेत् पुष्पं प्रदाय  
+
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+देव्य्-आदि-पारिषदान्तं तत्-तन्-मन्त्रेण पुष्पं दत्वा  
+प्रणम्य  
+</details>
+
+<details><summary>English</summary>
+
+Using the mantra of each, he gives flowers beginning with the Goddess and ending with the divine assembly and offers obeisance.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+देव्यादिपारिषदान्तं तत्तन्मन्त्रेण पुष्पं दत्वा  
+प्रणम्य  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रति-दिशं प्रदक्षिण-प्रणाम-पूर्वकं भगवते पुष्पाञ्जलिं दत्वा  
+पुरतः प्रणम्य,  
+श्रुतिसुखैः स्तोत्रैः स्तुत्वा  
+स्वात्मानं नित्यकिङ्करतया निवेद्य तथैव ध्यात्वा, 
+</details>
+
+<details><summary>English</summary>
+
+In each direction, he gives a salutation to the Lord with a handful of flowers,  
+preceded+++(sic)+++ by the offering of obeisance and by turning about.  
+He offers obeisance before him and praises him with hymns of praise pleasing to hear.[^47]  
+He presents his own self for the sake of perpetual service. 
+
+[^47]: Krishna Ayyangar Swami (2010: 47): The Divyaprabandham (“the corpus of the hymns of the āḷvārs”), and particularly āṇṭāḷ’s Tiruppāvai, are referred to here, as used in both temple and at home. See also the similar reference in note [^49].
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रति-दिशं प्रदक्षिण-प्रणाम-पूर्वकं भगवते पुष्पाञ्जलिं दत्वा  
+पुरतः प्रणम्य,  
+श्रुतिसुखैः स्तोत्रैः स्तुत्वा  
+स्वात्मानं नित्यकिङ्करतया निवेद्य तथैव ध्यात्वा, 
+</details>
+
+
+यथाशक्ति मूलमन्त्रं जपित्वा सर्वभोगपूरणीं मात्रां दत्वा, मुखवासताम्बूले प्रदाय अर्घ्यं दत्वा,
 
 भोज्यासनम् अभ्यर्च्य प्रणम्य, अनुज्ञाप्य, पादुके प्रदाय, तत्रोपविष्टे पाद्याचमनीय अर्हणानि दत्वा, गुडं माक्षीकं सर्पिः दधि क्षीरं चेति पात्रे निक्षिप्य, विशोध्य, अर्घ्यजलेन संप्रोक्ष्य, मधुपर्कम् अवनतशिराः हर्षोत्फुल्लनयनः हृष्टमनाः भूत्वा प्रदाय आचमनं दद्यात्,
 
