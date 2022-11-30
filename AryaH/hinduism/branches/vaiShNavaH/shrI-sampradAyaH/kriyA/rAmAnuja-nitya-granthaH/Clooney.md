@@ -350,23 +350,22 @@ praṇamya, mūlamantreṇa svātmānaṁ devāya nivedya, praṇamya, anujñāp
 
  
 pātreṇa pūrvasthāpita-arghya-pātrād arghyajalam ādāya pāṇibhyāṁ ghrāṇamukhasamam uddhr̥tya, “bhagavan idaṁ pratigr̥hṇ¯sı˙va” iti cintayan bhagavanmukhe darśayitvā bhagavaddakṣiṇahaste kiṁcit pradāya arghyaṁ pratigrahapātre prakṣipet. (39) 
-Then in a bowl he takes guest-water from the bowl of guest-water previously set there. With his two hands he holds it up before His mouth for smelling. Thinking, “Lord, accept this,” he shows it before the Lord’s mouth, he puts some in the Lord’s right hand. Let him then discard that guest-water into the bowl for remainders. 
-hastau prakṣālya pādayoḥ puṣpāṇi samarpya pādyapātrāt pādyajalam ādāya pādayoḥ kiṁcid datvā manasā pādau prakṣālayan pādyaṁ pratigrahapātre nikṣipet. (40) Then he washes His hands. He offers flowers at His feet. He takes water for the feet from the foot-washing-bowl and puts some of it on His feet and mentally washes them. Let him then discard that water for the feet into the bowl for remainders. 
+
+hastau prakṣālya pādayoḥ puṣpāṇi samarpya pādyapātrāt pādyajalam ādāya pādayoḥ kiṁcid datvā manasā pādau prakṣālayan pādyaṁ pratigrahapātre nikṣipet. (40) 
+
 hastau prakṣālya vastreṇa pādau saṁmr̥jya gandhapuṣpāṇi datvā, ācamanīyapātrād ācamanīyam ādāya bhagavaddakṣiṇahaste kiṁcit pradāya bhagavadvadane ācamanīyaṁ samarpitam iti manasā 
 bhāvayan śeṣam ācamanīyaṁ pratigrahapātre prakṣipet. (41) 
-Then he washes His hands and he wipes His feet with a cloth. He offers scent and flowers. He takes water for sipping from the bowl of water for sipping and puts some in the Lord’s right hand. He contemplates mentally how the water for sipping is received into the Lord’s mouth. Let him then discard the remaining water for sipping into the bowl for remainders. 
-tato gandha-puṣpa-dhūpa-dīpa-ācamana-mukhavāsa tāmbūlādinivedanaṁ kr̥tvā, praṇamya ātmānam ātmīyaṁ ca sarvaṁ bhagavan nityakiṁkaratvāya svīkuru iti bhagavate nivedayet. (42) Then he makes offerings of scents, flowers, incense, flame, water for sipping, mouth-wash, betel nut, etc. He offers obeisance. Then let him making the offering to the Lord, “Lord, accept all this, my self and what is mine, as permanently in Your service.” 
-123
-370 Francis X. Clooney 
+
+tato gandha-puṣpa-dhūpa-dīpa-ācamana-mukhavāsa tāmbūlādinivedanaṁ kr̥tvā, praṇamya ātmānam ātmīyaṁ ca sarvaṁ bhagavan nityakiṁkaratvāya svīkuru iti bhagavate nivedayet. (42) 
+
 tataḥ snānārtham āsanam ānīya gandhādibhir abhyarcya bhagavantaṁ praṇamya anujñāpya, pāduke pradāya, tatropaviṣṭe mālyabhūṣaṇavastrāṇi apanīya, viṣvaksenāya datvā, snānaśāṭikāṁ pradāya, 
-He brings forward a seat for the bath. He worships with scent, etc., and offers obeisance to the Lord. He asks permission. He offers sandals, and when He is seated there, he removes the garlands, adornments and cloths. He gives them to Viṣvaksena and offers the bathing costume. 
+
 arghya-pādya-ācamanīya-pādapīṭha-pradāna-danta-kāṣṭha-jihvānirlehana gaṇḍūṣa-mukhaprakṣālana-ācamana-ādarśapradarśana-hastaprakṣālana mukhavāsa-tāmbūla-tailābhyaṇga-udvartana-āmalaka-toya-kaṇkata-plota deha-śodhana-śāṭikā-pradāna-haridrālepana-prakṣālana-vastra-uttarīya yajñopavītapradāna-pādyācamana-pavitrapradāna-gandha-puṣpa-dhūpa dīpa-ācamana-nr̥ttagītavādyādi-sarvamaṇgala-saṁyukta-abhiṣeka-nīrājana ācamana-dehaśodhana-plotavastra-uttarīya-yajñopavīta-ācamana-kūrca prasāraṇa-sahasradhāra-abhiṣeka-nīrājana-ācamana-deha-śodhana-plota vastra-uttarīya-yajñopavīta-ācamanāni dadyāt. (43) 
-Then let him give all of the following: guest-water, foot-washing-water, water for sipping, the offering of the footstool, toothbrush, tongue-scraper, the washing of the mouth with a handful of water, water for sipping, the showing of a mirror, water for washing hands, mouth-freshener, betel, massage with sesame oil, extra gooseberry water, comb, the giving of the cloth and saffron for cleaning the body, the applying of turmeric, washing, the giving of lower garment, upper garment and sacrificial thread, purification by foot-washing-water and water for sipping, scent, flowers, incense, flame, water for sipping, dance, song, instrumental music, etc.,44 the anointing linked with all that is auspicious, worship with flame, the sipping of water, the cloth for purifying the body, the lower garment, the upper garment and sacrificial thread, water for sipping, the strewing of a handful of grass, the sprinkling by a thousand streams, worship with flame, the water for sipping, the cloth for purifying of the body, the lower garment, the upper garment and sacrificial thread, and water for sipping. 
+
+
 tato ’laṁkāra-āsanam abhyarcya praṇamya anujñāpya, pāduke pradāya, Then he venerates the seat for adornment and offers obeisance. He asks permission and presents the sandals. 
 tatropaviṣṭe pūrvavat snānīyavarjam arghyapādyācamanīyaśuddhodakāni mantreṇa kalpayitvā bhagavate gandha-puṣpa-pāda-saṁmardana-vastra uttarīya-bhūṣaṇa-upavīta-arghya-pādya-ācamanīyāni datvā, sarva parivārāṇāṁ snānavastrādibhūṣaṇāntaṁ datvā, gandhādīn devānantaraṁ sarvaparivārāṇāṁ pratyekaṁ pradāya, 
-44 Mannargudi Swamigal reported to me in oral communication that the dances, songs, and recitations may be the fruit of ecstasy and not a matter of bringing in performers, etc. 
-123
-Rāmānuja’s Nityagrantham (“Manual of Daily Worship”): A Translation 371 
+
 With the mantra, he arranges for the Lord seated there the guest-water, foot-washing-water, water for sipping, pure water, all as before excepting now too the bathing-water. He gives to the Lord scent, flowers, foot-massage, the lower garment, upper garment, adornments, sacrificial thread, guest-water, foot-washing-water, and sipping water. He gives to all the retinue everything from the bathing and cloths to the adornments, and then he presents the scent, etc., to each of the retinue, immediately after presenting these to the deity. 
 dhūpadīpācamanīyāni dadyāt. (44) 
 Let him give the incense, flame, and water for sipping. 

@@ -1131,7 +1131,8 @@ The purified water,
 यागभूमिं सर्वाणि च यागद्रव्याणि आत्मानं च प्रत्येकं सम्प्रोक्ष्य,  
 </details>
 
-### आसनम्
+### देवमण्डलकल्पनम्
+#### आसनम्
 <details><summary>English - Notes</summary>
 
 Part Two: Contemplative Ascent to the Lord’s Heaven, and Return  
@@ -1438,7 +1439,7 @@ He prostrates himself. With their permission, let him undertake the Lord’s sac
 
 </details>
 
-### देवकल्पनम्
+#### देवकल्पनम्
 <details><summary>English - Notes</summary>
 
 IX. Mental Representation of the Lord, and the Prayer that He be Present up to the End of the Worship 
@@ -1523,7 +1524,7 @@ as the supreme pure being, unprecedented and inconceivable, shining, awake, tall
 </details>
 
 
-### सान्निध्य-कल्पनम्
+#### सान्निध्य-कल्पनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आराधनाभिमुखो भवेति मूलमन्त्रेण प्रार्थ्य,  
@@ -1598,7 +1599,7 @@ Such is the right practice of invocation.
 </details>
 
 
-### देवीकल्पनम्
+#### देवीकल्पनम्
 <details><summary>English - Notes</summary>
 
 XI. Second Invocation of the Lord and His Retinue: Contemplative Descent from the Celestial Realm to the Earthly Place of Worship 
@@ -1654,7 +1655,7 @@ Esnoul observes regarding this and the following sections:
 > (1972: 69n56; my translation).
 </details>
 
-### आभरणकल्पनम्
+#### आभरणकल्पनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "किरीटाय मकुटाधिपतये नमः" इति उपरि भगवतः पश्चिमपार्श्वे  
@@ -1717,7 +1718,7 @@ He offers obeisance before all the adornments on all sides,
 "सर्वेभ्यो दिव्यभूषणेभ्यो नमः" इति सर्वभूषणानि पुरतः प्रणम्य,
 </details>
 
-### आयुधकल्पनम्
+#### आयुधकल्पनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "ॐ श्रीसुदर्शनाय हेतिराजाय नमः"  
@@ -1814,7 +1815,7 @@ He offers obeisance on all sides to all the weapons of the Lord, “Oṁ, obeisa
 "ओं सर्वेभ्यो भगवद्दिव्यायुधेभ्यो नमः" इति, सर्वाणि भगवदायुधानि परितः प्रणम्य,   
 </details>
 
-### परिजन-कल्पनम्
+#### परिजन-कल्पनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "ओं सर्वाभ्यो भगवत्पादारविन्द संवाहिनीभ्यो नमः" इति  दिव्यपादारविन्दसंवाहिनीः समन्ततः प्रणम्य,  
@@ -2210,19 +2211,243 @@ let him undertake the Lord’s worship.
 प्रणम्य, मूलमन्त्रेण स्वात्मानं देवाय निवेद्य, प्रणम्यानुज्ञाप्य,  भगवत्पूजामारभेत ।
 </details>
 
+### अर्घ्यम्
 <details><summary>English - Notes</summary>
 
 XIV. The Lord’s Bath
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पात्रेण (उद्धरिण्या) पूर्वस्थितादर्घ्यपात्रात् अर्घ्यजलमादाय, पाणिभ्यां घ्राणसममुद्धृत्य, भगवन्निदं प्रतिगृह्णीष्व इति चिन्तयन् भगवन्मुखे दर्शयित्वा भगवद्दक्षिणहस्ते किञ्चित्प्रदाय, अर्घ्यं पतद्ग्रहपात्रे प्रक्षिपेत् ।
+पात्रेण (उद्धरिण्या) पूर्व-स्थिताद् अर्घ्य-पात्राद् अर्घ्य-जलम् आदाय,  
+पाणिभ्यां घ्राण-समम् उद्धृत्य,  
+"भगवन्न् इदं प्रतिगृह्णीष्व" +इति चिन्तयन्  
+भगवन्मुखे दर्शयित्वा  
+भगवद्-दक्षिण-हस्ते किञ्चित् प्रदाय,  
+अर्घ्यं पतद्-ग्रह-पात्रे प्रक्षिपेत् ।
+</details>
+
+<details><summary>English</summary>
+
+Then in a bowl he takes guest-water from the bowl of guest-water previously set there. With his two hands he holds it up before His mouth for smelling. Thinking, “Lord, accept this,” he shows it before the Lord’s mouth, he puts some in the Lord’s right hand. Let him then discard that guest-water into the bowl for remainders. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पात्रेण (उद्धरिण्या) पूर्वस्थितादर्घ्यपात्रात् अर्घ्यजलमादाय, पाणिभ्यां घ्राणसममुद्धृत्य, "भगवन्निदं प्रतिगृह्णीष्व" +इति चिन्तयन् भगवन्मुखे दर्शयित्वा भगवद्दक्षिणहस्ते किञ्चित्प्रदाय, अर्घ्यं पतद्ग्रहपात्रे प्रक्षिपेत् ।
+
+</details>
+
+### पाद्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+हस्तौ प्रक्षाल्य, पादयोः पुष्पाणि समर्प्य, पाद्यपात्रात् पाद्यजलमादाय, पादयोः किञ्चित् समर्प्य, मनसा पादौ प्रक्षालयन् पाद्यं पतद्ग्रहपात्रे प्रक्षिपेत् ।
+</details>
+
+<details><summary>English</summary>
+
+Then he washes His hands. He offers flowers at His feet.  
+He takes water for the feet from the foot-washing-bowl and puts some of it on His feet and mentally washes them.  
+Let him then discard that water for the feet into the bowl for remainders. 
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 हस्तौ प्रक्षाल्य, पादयोः पुष्पाणि समर्प्य, पाद्यपात्रात् पाद्यजलमादाय, पादयोः किञ्चित् समर्प्य, मनसा पादौ प्रक्षालयन् पाद्यं पतद्ग्रहपात्रे प्रक्षिपेत् ।
 
-हस्तौ प्रक्षाल्य, पादौ वस्त्रेण संमृज्य, गन्धपुष्पाणि दत्वा, आचमनीयपात्रात् आचमनीयमादाय भगवद्दक्षिणहस्ते किंचित् समर्प्य, भगवद्वदने आचमनीयं समर्पितमिति मनसा भावयन् शेषमाचमनीयं पतद्ग्रहपात्रे प्रक्षिपेत् । ततो गन्धपुष्पधूपदीपाचमनमुखवासताम्बूलादि निवेदनं कृत्वा प्रणम्य, आत्मानं आत्मीयं च सर्वं "भगवन्, नित्यकिङ्करतया स्वीकुरु" इति भगवते निवेदयेत् ।
+</details>
 
-ततः स्नानार्थं आसनमानीय, गन्धादिभिः अभ्यर्च्य, भगवन्तं प्रणम्य, अनुज्ञाप्य, पादुके प्रदाय, स्नानसनोपविष्टे माल्यभूषणवस्त्राणि अपनीय, विष्वक्सेनाय दत्वा, स्नानशाटिकां प्रदाय, अर्घ्यपाद्याचमनीय पादपीठप्रदान दन्तकाष्ठ जिह्वानिर्लेहन गण्डूष मुखप्रक्षालनाचमन आदर्शप्रदर्शन हस्तप्रक्षालन मुखवास ताम्बूल तैलाभ्यङ्ग उद्वर्तनामलकतोय कङ्कतप्लोत देहशोधनशाटिकाप्रदान हरिद्रालेप प्रक्षालन वस्त्रोत्तरीय यज्ञोपवीतप्रदान पाद्याचमन पवित्रप्रदान गन्धपुष्प धूपदीपाचमन नृत्तगीतवाद्यादि सर्वमङ्गल संयुक्ताभिषेक नीराजनाचमन देहशोधन प्लोतवस्त्र उत्तरीय यज्ञोपवीत आचमन कूर्चप्रसारण सहस्रधाराभिषेक नीराजनाचमन देहशोधन प्लोतवस्त्रोत्तरीय यज्ञोपवीताचमनानि दद्यात् ।
+### आचमनीयम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+हस्तौ प्रक्षाल्य,  
+पादौ वस्त्रेण संमृज्य,  
+गन्धपुष्पाणि दत्वा,  
+आचमनीयपात्रात् आचमनीयम् आदाय  
+भगवद्-दक्षिण-हस्ते किंचित् समर्प्य,  
+भगवद्-वदने आचमनीयं समर्पितम् इति मनसा भावयन्  
+शेषम् आचमनीयं पतद्-ग्रह-पात्रे प्रक्षिपेत् । 
+</details>
+
+<details><summary>English</summary>
+
+Then he washes His hands and  
+he wipes His feet with a cloth.  
+He offers scent and flowers.  
+He takes water for sipping from the bowl of water for sipping and  
+puts some in the Lord’s right hand.  
+He contemplates mentally how the water for sipping is received into the Lord’s mouth.  
+Let him then discard the remaining water for sipping into the bowl for remainders. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+हस्तौ प्रक्षाल्य, पादौ वस्त्रेण संमृज्य, गन्धपुष्पाणि दत्वा, आचमनीयपात्रात् आचमनीयमादाय भगवद्दक्षिणहस्ते किंचित् समर्प्य, भगवद्वदने आचमनीयं समर्पितमिति मनसा भावयन् शेषमाचमनीयं पतद्ग्रहपात्रे प्रक्षिपेत् । 
+
+</details>
+
+### अर्चनम्, आत्मनिवेदनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ततो गन्ध-पुष्प-धूप-दीपाचमन--मुख-वास--ताम्बूलादि-निवेदनं कृत्वा  
+प्रणम्य,  
+आत्मानं आत्मीयं च सर्वं  
+"भगवन्, नित्यकिङ्करतया स्वीकुरु"  
+इति भगवते निवेदयेत् ।
+</details>
+
+<details><summary>English</summary>
+
+Then he makes offerings of scents, flowers, incense, flame, water for sipping, mouth-wash, betel nut, etc. He offers obeisance.  
+Then let him making the offering to the Lord,  
+“Lord, accept all this, my self and what is mine, as permanently in Your service.” 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ततो गन्धपुष्पधूपदीपाचमनमुखवासताम्बूलादि निवेदनं कृत्वा प्रणम्य, आत्मानं आत्मीयं च सर्वं "भगवन्, नित्यकिङ्करतया स्वीकुरु" इति भगवते निवेदयेत् ।
+</details>
+
+### स्नानम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ततः स्नानार्थं आसनमानीय, गन्धादिभिः अभ्यर्च्य, भगवन्तं प्रणम्य, अनुज्ञाप्य, पादुके प्रदाय, स्नानासनोपविष्टे माल्यभूषणवस्त्राणि +अपनीय, विष्वक्सेनाय दत्वा, स्नानशाटिकां प्रदाय,  
+</details>
+
+<details><summary>English</summary>
+
+He brings forward a seat for the bath. He worships with scent, etc., and offers obeisance to the Lord. He asks permission. He offers sandals, and when He is seated there, he removes the garlands, adornments and cloths. He gives them to Viṣvaksena and offers the bathing costume. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+ततः स्नानार्थं आसनमानीय, गन्धादिभिः अभ्यर्च्य, भगवन्तं प्रणम्य, अनुज्ञाप्य, पादुके प्रदाय, स्नानासनोपविष्टे माल्यभूषणवस्त्राणि +अपनीय, विष्वक्सेनाय दत्वा, स्नानशाटिकां प्रदाय,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अर्घ्य-पाद्याचमनीय--पाद-पीठ-प्रदान--दन्त-काष्ठ--जिह्वा-निर्लेहन--गण्डूष--मुख-प्रक्षालनाचमन--आदर्श-प्रदर्शन--  
+</details>
+
+<details><summary>English</summary>
+
+(Then let him give all of the following:) guest-water, foot-washing-water, water for sipping, the offering of the footstool, toothbrush, tongue-scraper, the washing of the mouth with a handful of water, water for sipping, the showing of a mirror, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अर्घ्य-पाद्याचमनीय--पाद-पीठ-प्रदान--दन्त-काष्ठ--जिह्वा-निर्लेहन--गण्डूष--मुख-प्रक्षालनाचमन--आदर्श-प्रदर्शन--
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+हस्त-प्रक्षालन--मुख-वास--ताम्बूल-तैलाभ्यङ्ग--+उद्वर्तनामलकतोय--  
+</details>
+
+<details><summary>English</summary>
+
+water for washing hands, mouth-freshener, betel, massage with sesame oil, extra gooseberry water, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+हस्त-प्रक्षालन--मुख-वास--ताम्बूल-तैलाभ्यङ्ग--+उद्वर्तनामलकतोय--
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कङ्कत-प्लोत--देह-शोधन-शाटिका-प्रदान--  
+हरिद्रा-लेप--प्रक्षालन--  
+वस्त्रोत्तरीय--यज्ञोपवीत-प्रदान--पाद्याचमन--पवित्र-प्रदान--
+</details>
+
+<details><summary>English</summary>
+
+comb, the giving of the cloth and saffron for cleaning the body, the applying of turmeric, washing, the giving of lower garment, upper garment and sacrificial thread, purification by foot-washing-water and water for sipping, (..??)
+</details>
+
+<details><summary>मूलम्</summary>
+
+कङ्कत-प्लोत--देह-शोधन-शाटिका-प्रदान--हरिद्रा-लेप--प्रक्षालन--वस्त्रोत्तरीय--यज्ञोपवीत-प्रदान--पाद्याचमन--पवित्र-प्रदान--
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+गन्ध-पुष्प-धूप-दीपाचमन-  
+नृत्त-गीत-वाद्यादि--  
+</details>
+
+<details><summary>English</summary>
+
+scent, flowers, incense, flame, water for sipping,  
+dance, song, instrumental music, etc.,[^44]
+
+
+[^44]: Mannargudi Swamigal reported to me in oral communication that the dances, songs, and recitations may be the fruit of ecstasy and not a matter of bringing in performers, etc.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+गन्ध-पुष्प-धूप-दीपाचमन-  
+नृत्त-गीत-वाद्यादि--
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्व-मङ्गल-संयुक्ताभिषेक--  
+नीराजनाचमन--देह-शोधन--प्लोत-वस्त्र--  
++उत्तरीय-यज्ञोपवीत-  
+</details>
+
+<details><summary>English</summary>
+
+the anointing linked with all that is auspicious,  
+worship with flame, the sipping of water,  
+the cloth for purifying the body, the lower garment, the upper garment and sacrificial thread,  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सर्व-मङ्गल-संयुक्ताभिषेक--  
+नीराजनाचमन--देह-शोधन--प्लोत-वस्त्र--  
++उत्तरीय-यज्ञोपवीत-
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++आचमन--कूर्च-प्रसारण--  
+सहस्र-धाराभिषेक--  
+नीराजनाचमन--  
+देह-शोधन--प्लोत-वस्त्रोत्तरीय--यज्ञोपवीताचमनानि दद्यात् ।
+</details>
+
+<details><summary>English</summary>
+
+water for sipping, the strewing of a handful of grass,  
+the sprinkling by a thousand streams,  
+worship with flame, the water for sipping,  
+the cloth for purifying of the body,  
+the lower garment, the upper garment and sacrificial thread, and water for sipping. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
++आचमन--कूर्च-प्रसारण--  
+सहस्र-धाराभिषेक--  
+नीराजनाचमन--  
+देह-शोधन--प्लोत-वस्त्रोत्तरीय--यज्ञोपवीताचमनानि दद्यात् ।
+</details>
+
 
 ततः अलङ्कारासनमभ्यर्च्य प्रणम्य अनुज्ञाप्य, पादुके प्रदाय, तत्र उपविष्टे पूर्ववत् स्नानीयवर्जम् अर्घ्यपाद्याचमनीयशुद्धोदकानि मन्त्रेण कल्पयित्वा भगवते अर्घ्यपाद्याचमनीयानि दत्वा गन्धपुष्प पादसंमर्दन वस्त्रोत्तरीय भूषणोपवीताचमनीयानि दत्वा, सर्वपरिवाराणां, स्नानवस्त्रभूषणान्तं दत्वा, गन्धादीन् देवानन्तरं सर्वपरिवाराणां प्रदाय, धूपदीपाचमनान्तं दद्यात् ।
 
