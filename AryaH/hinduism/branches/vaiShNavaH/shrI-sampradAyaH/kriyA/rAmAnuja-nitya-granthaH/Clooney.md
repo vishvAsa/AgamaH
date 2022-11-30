@@ -397,10 +397,8 @@ arghyajalena samprokṣya astramantreṇa rakṣāṁ kr̥tvā surabhimudrāṁ 
 
 atiprabhūtam atisamagram atipriyatamam atyantabhaktikr̥tam idaṁ svīkuru iti praṇāmapūrvakam atyanta-sādhvasa-vinaya-avanato bhūtvā nivedayet. (50) 
 
-XVII. Ensuring Lord’s Satisfaction 
-tataś ca anupānatarpaṇe pradāya hastaprakṣālana-ācamana hastasammārjana-candana-mukhavāsa-tāmbūlādīni datvā praṇamya punar mantrāsanaṁ kūrcena mārjayitvā, abhyarcya anujñāpya, pāduke pradāya tatropaviṣṭe mālyādikam apohya viṣvaksenāya datvā, pādyācamanīya-gandha-puṣpa-dhūpa-dīpa-ācamana-apūpa-phalādīni datvā, (ācamana)mukhavāsa-tāmbūla-nr̥tta-gīta-vādyādibhir 
-abhyarcya, pradakṣiṇ¯kr ı ˙tya daṇḍavat praṇamya, 
-He presents a final drink and refreshment and gives water for hand-washing and for sipping. He wipes the hands and gives scent, mouth-wash, betel, etc. After offering obeisance, he again wipes the mantra-seat with a handful of grass. He offers veneration, asks permission, and then places the sandals before (the Lord) seated there. He removes the garlands, etc., and gives them to Viṣvaksena. He gives water for foot-washing, for sipping, scent, flowers, incense, flame, rinsing, cake, fruits, etc. After venerating him with (water for sipping), mouth-wash, betel, dance, song, instrumental music, etc., he does a circumambulation and offers an obeisance (falling prostrate) like a stick. 
+tataś ca anupānatarpaṇe pradāya hastaprakṣālana-ācamana hastasammārjana-candana-mukhavāsa-tāmbūlādīni datvā praṇamya punar mantrāsanaṁ kūrcena mārjayitvā, abhyarcya anujñāpya, pāduke pradāya tatropaviṣṭe mālyādikam apohya viṣvaksenāya datvā, pādyācamanīya-gandha-puṣpa-dhūpa-dīpa-ācamana-apūpa-phalādīni datvā, (ācamana)mukhavāsa-tāmbūla-nr̥tta-gīta-vādyādibhir abhyarcya, pradakṣiṇīkr̥tya daṇḍavat praṇamya, 
+
 paryaṇkāsanam abhyarcya anujñāpya pāduke pradāya, tatropaviṣṭe pādyācamane datvā mālyabhūṣaṇavastrāṇi apanīya viṣvaksenāya datvā sukhaśayanocitaṁ sukhasparśaṁ ca vāsas taducitāni bhūṣaṇāni upavītaṁ ca pradāya ācamanīyaṁ datvā gandha-puṣpa-dhūpa-dīpa-ācamana mukhavāsatāmbūlādibhir abhyarcya śrutisukhaiḥ stotrair abhiṣṭūya,49 
 Then he honors the couch, and, having requested permission, he presents sandals to Him who is seated there. He gives water for foot-washing and sipping, and then takes away the garlands, adornments, and cloths. He gives these to Viṣvaksena and 
 49 As in note 47, tradition suggests that Tamil verses are recited here. 
