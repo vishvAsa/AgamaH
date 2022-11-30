@@ -400,32 +400,28 @@ atiprabhūtam atisamagram atipriyatamam atyantabhaktikr̥tam idaṁ svīkuru iti
 tataś ca anupānatarpaṇe pradāya hastaprakṣālana-ācamana hastasammārjana-candana-mukhavāsa-tāmbūlādīni datvā praṇamya punar mantrāsanaṁ kūrcena mārjayitvā, abhyarcya anujñāpya, pāduke pradāya tatropaviṣṭe mālyādikam apohya viṣvaksenāya datvā, pādyācamanīya-gandha-puṣpa-dhūpa-dīpa-ācamana-apūpa-phalādīni datvā, (ācamana)mukhavāsa-tāmbūla-nr̥tta-gīta-vādyādibhir abhyarcya, pradakṣiṇīkr̥tya daṇḍavat praṇamya, 
 
 paryaṇkāsanam abhyarcya anujñāpya pāduke pradāya, tatropaviṣṭe pādyācamane datvā mālyabhūṣaṇavastrāṇi apanīya viṣvaksenāya datvā sukhaśayanocitaṁ sukhasparśaṁ ca vāsas taducitāni bhūṣaṇāni upavītaṁ ca pradāya ācamanīyaṁ datvā gandha-puṣpa-dhūpa-dīpa-ācamana mukhavāsatāmbūlādibhir abhyarcya śrutisukhaiḥ stotrair abhiṣṭūya,49 
-Then he honors the couch, and, having requested permission, he presents sandals to Him who is seated there. He gives water for foot-washing and sipping, and then takes away the garlands, adornments, and cloths. He gives these to Viṣvaksena and 
-49 As in note 47, tradition suggests that Tamil verses are recited here. 
-123
-374 Francis X. Clooney 
-provides an abode suitable for pleasant resting, pleasant to the touch, adornments suitable to him, and the sacrificial thread. He gives water for sipping and venerates with scent, flowers, incense, flame, water for sipping, mouth-washing, betel, etc. He praises Him with songs of praise pleasing to hear. 
-XVIII. Meditation on the Lord’s Exclusive Agency in the Worship 
+
+
 “bhagavān eva sva-niyāmya-svarūpa-sthiti-pravr̥tti-svaśeṣatā-ekarasena anena ātmanā svakīyaiś ca dehendriyāntaḥkaraṇaiḥ svakīya kalyāṇatama-dravyamayān aupacārika-sāṁsparśika-abhyavahārikādi samastabhogān atiprabhūtān atisamagrān atipriyatamān atyantabhaktikr̥tān akhilaparijanaparicchada-anvitāya svasmai 
 svaprītaye svayam eva pratipāditavān” iti anusaṁdhāya, 
-Then he meditates: “By this self whose single delight is in total dependence on Him, by its activity, steadiness, proper form controlled by Him, and by his own body, senses, and mind, the Lord alone has brought about all enjoyments, such as are honorific, tangible, and pertaining to food, etc., and such as are made of His own innate and most auspicious substances, such as are achieved with extreme devotion and are most pleasing, utterly complete, utterly resplendent. All these are for His own pleasure, for Himself along with all His retinue and insignia.”50 
-XIX. Offerings to the Teacher and the Community 
+
 bhagavantam anujñāpya bhagavan-nivedita-haviśśeṣād viṣvaksenāya kiṁcid uddhr̥tya nidhāya anyat sarvaṁ svācāryapramukhebhyo vaiṣṇavebhyo datvā, bhagavadyāgāvi-śiṣṭair jalādibhir dravyair viṣvaksenam abhyarcya, pūrvoddhr̥taṁ haviś ca datvā, 
-After asking the Lord’s permission, he offers to Viṣvaksena a bit of the oblation offered to the Lord, and then gives all the rest to Vaiṣṇavas beginning with his ācārya.51 He worships Viṣvaksena with materials, water, etc., not distinguished as part of the sacrifice to the Lord. He gives an oblation previously offered. 
-50 Compare the meditation in Section IV. 
-51 Mannargudi Swamigal reported to me in oral communication that this sharing of prasādam with the ācārya and other Śrīvaiṣṇavas may be done mentally rather than literally. 
 123Rāmānuja’s Nityagrantham (“Manual of Daily Worship”): A Translation 375 
 XX. A Final Taking of Refuge and the Conclusion of the Worship tadarcanaṁ parisamāpya, bhagavantam aṣṭāṇgena praṇāmena praṇamya śaraṇam upa-gacchet. (51) 
 manobuddhyabhimānena saha nyasya dharātale| kūrmavac caturaḥ pādān śiras tatraiva pañcamam52 || pradakṣiṇa-sametena tu evaṁrūpeṇa sarvadā| aṣṭāṇgena namaskr̥tya hi upaviśya agrataḥ vibhoḥ || iti ukto ’ṣṭāṇgapraṇāmaḥ. (52) 
-After finishing that worship, he offers obeisance to the Lord with an eight-limbed obeisance. Let him then take refuge. 
-With mind, understanding, and ego, he places on the ground like a tortoise his four limbs and his head as a fifth. Always with a rotation in that form, he pays reverence with his eight limbs. He pays respect with his eight limbs. He sits before the all-pervading one. Thus the eightfold obeisance is stated. 
+
 śaraṇāgatiprakāraś ca pūrvoktaḥ. (53) 
-The manner of taking refuge has been previously explained. 
-tato ’rghyajalaṁ pradāya bhagavantam anujñāpya pūjāṁ samāpayet. (54) Then, after offering guest-water, with the Lord’s permission, let him conclude the worship. 
-52 The verse up to this point is from Ahirbudhnyasaṃhitā 28.77–78. Both verses are found together in the Sātvatasaṃhitā 6.187c–189b. 
+
+tato ’rghyajalaṁ pradāya bhagavantam anujñāpya pūjāṁ samāpayet. (54)  
+
 123
 376 Francis X. Clooney 
-Appendix: The Prayer from the “Prose Prayer of Taking Refuge” (Śaraṇāgatigadyam)53 Indicated by Rāmānuja in Section IV of the Nityam 
+
+## Appendix
+The Prayer from the “Prose Prayer of Taking Refuge” (Śaraṇāgatigadyam)53 
+
+Indicated by Rāmānuja in Section IV of the Nityam 
+
 akhila-heya-pratyanīka-kalyāṇa-ekatāna-sva-itara-samastavastu vilakṣaṇa-ananta-jñānānanda-eka-svarūpa! 
 Your proper form is opposite to all that is to be avoided and focused solely on the auspicious, different from all beings other than Yourself, solely intelligence and bliss without limit!54 
 sva-abhimata-anurūpa-ekarūpa-acintya-divyādbhuta-nitya-niravadya niratiśaya-aujjvalya-saundarya-saugandhya-saukumārya-lāvaṇya yauvanādi-ananta-guṇanidhi-divyarūpa! 
@@ -449,8 +445,11 @@ Your feet are eternally waited upon by varied and unlimited male and female atte
 paramayogi-vāṇmanasā aparicchedhya-svarūpa-svabhāva! 
 Your proper form and proper nature are beyond the limits of the words and minds of the highest yogis! 
 svābhimata-vividha-vicitra-ananta-bhogya-bhogopakaraṇa-bhogasthāna-samr̥d dha-ananta-āścarya-ananta-mahāvibhava-ananta-parimāṇa-nitya-niravadya niratiśaya-vaikuṇṭhanātha! You are the Lord of Vaikuṇṭha, eternal, flawless and unsurpassed, of endless measure, of endless great glory, endless in amazement, with objects of enjoyment and instruments of enjoyment endless in kind and variety, all pleasing to You. 
+
 123
-378 Francis X. Clooney svasaṁkalpa-anuvidhāyi-svarūpa-sthiti-pravr̥tti-svaśeṣatā-eka-svabhāva prakr̥ti-puruṣa-kāla-ātmaka-vividha-vicitra-ananta-bhogya-bhoktr̥varga bhoga-uāpakaraṇa-bhogasthānarūpa-nikhila-jagad-udaya-vibhava-laya līla! 
+378 Francis X. Clooney 
+
+svasaṁkalpa-anuvidhāyi-svarūpa-sthiti-pravr̥tti-svaśeṣatā-eka-svabhāva prakr̥ti-puruṣa-kāla-ātmaka-vividha-vicitra-ananta-bhogya-bhoktr̥varga bhoga-uāpakaraṇa-bhogasthānarūpa-nikhila-jagad-udaya-vibhava-laya līla! 
 Your play consists in the arising, enduring, and dissolution of the whole world which in form is comprised of objects of enjoyment, kinds of enjoyers, instruments of enjoyment, and places of enjoyment, all endless in kind and variety, made of primal matter, person, and time, whose sole proper nature is to be dependent in proper form, continuation, and activity, in accord with Your intentions, 
 satyakāma! satyasaṁkalpa! parabrahmabhūta! puruṣottama! mahāvibhūte! śrīman! nārāyaṇa! śrīvaikuṇṭha-nātha! apāra-kāruṇya-sauś¯lya-va ı ¯tsalya audārya-aiśvarya-saundarya-mahodadhe! anālocitaviśeṣa aśeṣaloka-śaraṇya! praṇatārtihara! āśritavātsalya-ekajaladhe! anavaratavidita-nikhilabhūtajāta-yāthātmya! aśeṣacarācarabhūta-nikhila niyamana-nirata! aśeṣacidacidvastu-śeṣibhūta! nikhilajagadādhāra! akhilajagat-svāmin! asmat-svāmin! satyakāma! satyasaṁkalpa! sakala itara-vilakṣaṇa! arthikalpaka! āpatsakha! 
 You have all desires fulfilled! Your intentions are ever realized! The supreme Brahman! The highest Person! Possessed of great glory! With Śrī! Nārāyaṇa! Lord of Vaikuṇṭha! Great ocean of measureless compassion, good disposition, affection, generosity, lordship and beauty! The refuge of the whole world without remainder, with no consideration of distinctions! You dispel the distress of those offering obeisance to You! You are a unique ocean of tenderness for those taking refuge! You are the reality of all beings ever known to You! You are intent upon ordering all moving and unmoving beings without exception! You are the one to whom belong without remainder all conscious and non-conscious beings! The Lord of the whole world! Our Lord! You have all desires fulfilled! Your intentions are ever realized! Different from all other beings! The wishing tree for those in want! Friend of those in distress! 
@@ -459,44 +458,44 @@ You are with Śrī! Nārāyaṇa! Refuge of those without refuge! And I, who hav
 atra dvayam 
 Here the dvayam,55 
 55 That is, here one recites the dvaya-mantra, the quintessential mantra of surrender or taking refuge. 123
-Rāmānuja’s Nityagrantham (“Manual of Daily Worship”): A Translation 379 References 
-Ahirbudhnya Saṃhitā of the Pāncarātra Āgama. 1916. Edited by M. D. Rāmānujācārya. Volume 1. Madras: Adyar Library. 
-Carman, John Braisted. 1974. The Theology of Rāmānuja: An Essay in Interreligious Understanding. New Haven: Yale University Press. 
-Clooney, Francis X. 2018 [2017–2018]. “Rāmānuja’s Nityam: A Neglected Key to His Theology.” Brahmavidyā (The Adyar Library Bulletin) 81–82 (Special Issue: Śrī Rāmānuja’s Sahasrābdi): 231– 64. 
-Clooney, Francis X. Forthcoming. “Meditation in Practice in Theory: Rāmānuja’s Prescriptions on Meditation in the Nityam in Light of His Commentarial Works.” In Godabarisha Mishra, ed., a volume of essays marking the one thousandth birth anniversary of Rāmānuja. In preparation. 
-Dutta, Ranjeeta. 2014. From Hagiographies to Biographies: Rāmānuja in Tradition and History. New Delhi: Oxford University Press. 
-Esnoul, Anne-Marie. 1972. “Le Nityagrantha de Rāmānuja.” Journal Asiatique 260, 1–2: 39–78. Garuḍa Vāhana Paṇḍita. 1978. Divyasūricaritam, with the Hindi rendering by Paṇḍita Mādhavācārya (eds. T. A. Sampath Kumaracharya and K. K. A. Venkatatachari). Bombay: Ananthacharya Research Institute. 
-Krishna Ayyangar Swami, N. S. See Rāmānuja 2010. 
-Krishnaswami, K. R. See Rāmānuja 2014. 
-Krishnaswami Ayyangar, S. See Rāmānuja 1976. 
-Lester, Robert C. 1966. “Rāmānuja and Śrī-Vaiṣṇavism: The Concept of Prapatti or Śaranāgati.” History of Religions 5, 2: 266–82. 
-Lester, Robert C. 1976. Rāmānuja on the Yoga. Madras: The Adyar Library and Research Centre. Paramasaṁhitā (of the Pāñcharātra). 1940. Edited and Translated into English by S. Krishnaswami Aiyangar. Baroda: Oriental Institute. 
-Ramabhadracharya, N. S. See Rāmānuja 2009. 
-Rāmānuja. 1956. Nityagrantham. In P. B. Annangarachariar Swamy, ed., Śrībhagavadrāmānuja granthamālā, 181–88. Kancheepuram: Granthamala Office. 
-Rāmānuja. 1971 [1956]. The Nityam, as contained in the Śrīrāmānujagranthamālā (eds. P. B. Annangarachariar Sriman and Akkarakkani Sampathkumaracharya Swamy). Srirangam: Sriharinamamudralaya. 
-Rāmānuja. 1976. Gadyavyākyānaṅkaḷ, with the commentaries of Sudarśanācārya in Sanskrit and of Periyavāccān¯pil˙l˙ai in Manipravala (ed. K. Srinivasa Ayyangar Swami), and further explication by the editor. Tricchi: Srinivasam Press. 
-Rāmānuja. 1985 [1969]. The Gītābhāṣya of Rāmānuja (trans. M. R. Sampatkumaran). Bombay: Ananthacharya Indological Research Institute. 
-Rāmānuja. 2002. The Gadyatrayam, text in Sanskrit with the commentary of Periyavāccān¯pil˙l˙ai (trans. V. V. Ramanujam). Chennai: Sri Rangapriya Pathipakkam. 
-Rāmānuja. 2009. Nityagrantha of Bhagavad Rāmānujācārya, with Vivṛti by N. S. Ramabhadracharya. Academy of Sanskrit Research Series, 59. Melkote: Academy of Sanskrit Learning. Rāmānuja. 2010. The Nityam, with Tamil commentary by N. S. Krishna Ayyangar Swami. Included too is the Jīyarpaṭi Tiruvārātanakramam. Chennai: Sri Utaiyavar Kaimkarya Sabha. 
-Rāmānuja. 2014. Nityagrantham, rendered in English by K. R. Krishnaswami. Included too is Śrī Parāśara Bhaṭṭar’s Kriyādīpā. Bangalore: A&K Prakashana. 
-Rāmānuja. 2017. The Nityam, with Tamil translation by M. A. Venkatakrishnan. Included too is the Gadyatrayam. Chennai: Gitacaryan Publishing. 
-Ramanujam, V. V. See Rāmānuja 2002. 
-Rastelli, Marion. 2005. “Unaltered Ritual in Transformed Religion: The Pūjā According to the Ahirbudhnyasaṃhitā 28 and the Nityagrantha.” In Jo¨rg Gengnagel, Ute Hu¨sken, and Srilata Raman, eds., Words and Deeds: Hindu and Buddhist Rituals in South Asia, 115–52. Wiesbaden: Harrassowitz Verlag. 
-Sampath, R. N. 1980. “Daily Routine According to Rāmānuja.” In, Studies in Rāmānuja: Papers Presented at the First-All India Seminar on Śrī Rāmānuja and His Social Philosophy at Śrīperumbūdūr on 21st and 22nd July 1979, 143–50. Madras: Śrī Rāmānuja Vedānta Centre. 
-Sātvatasaṃhitā: Āṅgala-anuvāda-sahitā. 2005–2009. Academy of Sanskrit Research Series, 48, 71. Melkote: Samskrita Samshodhana Samsat. 
-123
-380 Francis X. Clooney 
-Tatachariar, Agnihotram Ramanuja. 1976. “Vaiṣṇava Tradition.” Bulletin of the Institute of Traditional 
-Cultures, Madras 20, 2: 43–62. 
-Vaṇgivaṁśeśvara. 1941. Nitya Grandha by Bhagavad Rāmānuja with Āhnikakārikā of Vaṅgivaṃśeśvara (ed. V. Ananthacharya). Madras: V. Perumal Chetty and Sons. 
-Varadachariar, V., ed. and trans. 1978. Yatirāja-Vaibhava of Āndrapūrṇa (Vaṭuka Nambi). Triplicane: M. C. Krishnan. 
-Vedāntadeśika. 1967 [1940]. Pāñcarātrarakṣā (eds. M. Duraiswami Aiyangar and T. Venugopalacharya), with an Introduction in English by G. Srinivasa Murti. Adyar Library Series, 36. Madras: The Adyar Library and Research Centre. 
-Venkatakrishnan, M. A. See Rāmānuja 2017. 
-Publisher's Note 
-Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations. 
-123
 
 
+## References 
+- Ahirbudhnya Saṃhitā of the Pāncarātra Āgama. 1916. Edited by M. D. Rāmānujācārya. Volume 1. Madras: Adyar Library. 
+- Carman, John Braisted. 1974. The Theology of Rāmānuja: An Essay in Interreligious Understanding. New Haven: Yale University Press. 
+- Clooney, Francis X. 2018 [2017–2018]. “Rāmānuja’s Nityam: A Neglected Key to His Theology.” Brahmavidyā (The Adyar Library Bulletin) 81–82 (Special Issue: Śrī Rāmānuja’s Sahasrābdi): 231– 64. 
+- Clooney, Francis X. Forthcoming. “Meditation in Practice in Theory: Rāmānuja’s Prescriptions on Meditation in the Nityam in Light of His Commentarial Works.” In Godabarisha Mishra, ed., a volume of essays marking the one thousandth birth anniversary of Rāmānuja. In preparation. 
+- Dutta, Ranjeeta. 2014. From Hagiographies to Biographies: Rāmānuja in Tradition and History. New Delhi: Oxford University Press. 
+- Esnoul, Anne-Marie. 1972. “Le Nityagrantha de Rāmānuja.” Journal Asiatique 260, 1–2: 39–78. Garuḍa Vāhana Paṇḍita. 1978. Divyasūricaritam, with the Hindi rendering by Paṇḍita Mādhavācārya (eds. T. A. Sampath Kumaracharya and K. K. A. Venkatatachari). Bombay: Ananthacharya Research Institute. 
+- Krishna Ayyangar Swami, N. S. See Rāmānuja 2010. 
+- Krishnaswami, K. R. See Rāmānuja 2014. 
+- Krishnaswami Ayyangar, S. See Rāmānuja 1976. 
+- Lester, Robert C. 1966. “Rāmānuja and Śrī-Vaiṣṇavism: The Concept of Prapatti or Śaranāgati.” History of Religions 5, 2: 266–82. 
+- Lester, Robert C. 1976. Rāmānuja on the Yoga. Madras: The Adyar Library and Research Centre. Paramasaṁhitā (of the Pāñcharātra). 1940. Edited and Translated into English by S. Krishnaswami Aiyangar. Baroda: Oriental Institute. 
+- Ramabhadracharya, N. S. See Rāmānuja 2009. 
+- Rāmānuja. 1956. Nityagrantham. In P. B. Annangarachariar Swamy, ed., Śrībhagavadrāmānuja granthamālā, 181–88. Kancheepuram: Granthamala Office. 
+- Rāmānuja. 1971 [1956]. The Nityam, as contained in the Śrīrāmānujagranthamālā (eds. P. B. Annangarachariar Sriman and Akkarakkani Sampathkumaracharya Swamy). Srirangam: Sriharinamamudralaya. 
+- Rāmānuja. 1976. Gadyavyākyānaṅkaḷ, with the commentaries of Sudarśanācārya in Sanskrit and of Periyavāccān¯pil˙l˙ai in Manipravala (ed. K. Srinivasa Ayyangar Swami), and further explication by the editor. Tricchi: Srinivasam Press. 
+- Rāmānuja. 1985 [1969]. The Gītābhāṣya of Rāmānuja (trans. M. R. Sampatkumaran). Bombay: Ananthacharya Indological Research Institute. 
+- Rāmānuja. 2002. The Gadyatrayam, text in Sanskrit with the commentary of Periyavāccān¯pil˙l˙ai (trans. V. V. Ramanujam). Chennai: Sri Rangapriya Pathipakkam. 
+- Rāmānuja. 2009. Nityagrantha of Bhagavad Rāmānujācārya, with Vivṛti by N. S. Ramabhadracharya. Academy of Sanskrit Research Series, 59. Melkote: Academy of Sanskrit Learning. Rāmānuja. 2010. The Nityam, with Tamil commentary by N. S. Krishna Ayyangar Swami. Included too is the Jīyarpaṭi Tiruvārātanakramam. Chennai: Sri Utaiyavar Kaimkarya Sabha. 
+- Rāmānuja. 2014. Nityagrantham, rendered in English by K. R. Krishnaswami. Included too is Śrī Parāśara Bhaṭṭar’s Kriyādīpā. Bangalore: A&K Prakashana. 
+- Rāmānuja. 2017. The Nityam, with Tamil translation by M. A. Venkatakrishnan. Included too is the Gadyatrayam. Chennai: Gitacaryan Publishing. 
+- Ramanujam, V. V. See Rāmānuja 2002. 
+- Rastelli, Marion. 2005. “Unaltered Ritual in Transformed Religion: The Pūjā According to the Ahirbudhnyasaṃhitā 28 and the Nityagrantha.” In Jo¨rg Gengnagel, Ute Hu¨sken, and Srilata Raman, eds., Words and Deeds: Hindu and Buddhist Rituals in South Asia, 115–52. Wiesbaden: Harrassowitz Verlag. 
+- Sampath, R. N. 1980. “Daily Routine According to Rāmānuja.” In, Studies in Rāmānuja: Papers Presented at the First-All India Seminar on Śrī Rāmānuja and His Social Philosophy at Śrīperumbūdūr on 21st and 22nd July 1979, 143–50. Madras: Śrī Rāmānuja Vedānta Centre. 
+- Sātvatasaṃhitā: Āṅgala-anuvāda-sahitā. 2005–2009. Academy of Sanskrit Research Series, 48, 71. Melkote: Samskrita Samshodhana Samsat.
+- Tatachariar, Agnihotram Ramanuja. 1976. “Vaiṣṇava Tradition.” Bulletin of the Institute of Traditional 
+- Cultures, Madras 20, 2: 43–62. 
+- Vaṇgivaṁśeśvara. 1941. Nitya Grandha by Bhagavad Rāmānuja with Āhnikakārikā of Vaṅgivaṃśeśvara (ed. V. Ananthacharya). Madras: V. Perumal Chetty and Sons. 
+- Varadachariar, V., ed. and trans. 1978. Yatirāja-Vaibhava of Āndrapūrṇa (Vaṭuka Nambi). Triplicane: M. C. Krishnan. 
+- Vedāntadeśika. 1967 [1940]. Pāñcarātrarakṣā (eds. M. Duraiswami Aiyangar and T. Venugopalacharya), with an Introduction in English by G. Srinivasa Murti. Adyar Library Series, 36. Madras: The Adyar Library and Research Centre. 
+- Venkatakrishnan, M. A. See Rāmānuja 2017. 
+
+
+123
+
+## Misc
 <details><summary>On Clooney</summary>
 
 > Kalavai once mentioned that he met a Sikh couple converted to pretonmatta by Clooney. That Sikh couple was from Texas. They made the mistake of asking what Kalavai would do if Jesus comes again. Kalavai said he'd take a gun and shoot the preta on the head. And he won't be arrested in Texas as it is self-defence. Their answer was "Talk to Clooney. He'll answer your doubts.."

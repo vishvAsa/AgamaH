@@ -2,7 +2,7 @@
 title = "मूलम्"
 
 +++
-<details><summary>English - Notes</summary>
+<details><summary>FX Clooney - Notes</summary>
 
 I. The Purpose of the Nityam: The Daily Practice of the Person Who Has Already Taken Refuge 
 </details>
@@ -13,7 +13,7 @@ I. The Purpose of the Nityam: The Daily Practice of the Person Who Has Already T
 अथ परमैकान्तिनो भगवद्-आराधन-प्रयोगं वक्ष्ये ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 I will now set forth (the performance of) the adoration of the Lord by the person single-mindedly focused on the Highest[^7]. 
 
@@ -38,7 +38,7 @@ I will now set forth (the performance of) the adoration of the Lord by the perso
     - Vaiṣṇavottamas (the highest devotees of Viṣṇu who single-mindedly obey the commands of the Lord and do what is required).
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>FX Clooney - Notes</summary>
 
 Part One: Routine Preparations, Recollection of the Act of Taking Refuge, and Interior Preparations 
 </details>
@@ -48,7 +48,7 @@ Part One: Routine Preparations, Recollection of the Act of Taking Refuge, and In
 अथ परमैकान्तिनो भगवदाराधनप्रयोगं वक्ष्ये ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 II. Routine Preparations 
 </details>
@@ -61,7 +61,7 @@ II. Routine Preparations
 परमैकान्ती भूत्वा
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 After he has become a person whose sole pleasure lies in service of the Lord and who is single-mindedly focused on the Highest, 
 </details>
@@ -84,7 +84,7 @@ After he has become a person whose sole pleasure lies in service of the Lord and
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 then he meditates, 
 
@@ -95,7 +95,7 @@ then he meditates,
 > that are honorific, tangible, and pertaining to food, etc.”
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>FX Clooney - Notes</summary>
 
 **śvaśeṣabhūta**: literally, “his remnant” or, in the sense operative in the Mīmāṃsāsūtras, “belonging entirely to him”; see Mīmāṃsāsūtras 3.3.1–7.
 
@@ -145,7 +145,7 @@ Rastelli:
 आचम्य,
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 Then he goes to a holy stream, washes his feet at a clean spot and sips water. 
 </details>
@@ -167,7 +167,7 @@ Then he goes to a holy stream, washes his feet at a clean spot and sips water.
 शोधित-तीरे निधाय,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 He purifies the bank. He places some mud on a clean spot with the root mantra,[^10] after dividing it in two and placing it on the purified bank. 
 
@@ -190,7 +190,7 @@ He purifies the bank. He places some mud on a clean spot with the root mantra,[^
 निमज्य, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 With one additional [or: larger] portion, he washes away the impurities of his body. He bathes 
 </details>
@@ -213,7 +213,7 @@ With one additional [or: larger] portion, he washes away the impurities of his b
 अभिमन्त्र्य, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 and sips water.  
 He sits and makes his meditation on the Lord for the length of three breath-controls.  
@@ -238,7 +238,7 @@ He sprinkles and blesses each with a mantra.
 इतरेण गात्रलेपनम् ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 With the first, let him bind the directions with the protection mantra[^11];  
 with the second, let him smear his body;  
@@ -267,7 +267,7 @@ with the third, let him make his seat at the holy stream.
 मूलमन्त्रेण अभिमन्त्र्य,
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 After washing his hands,  
 he takes a handful of water  
@@ -297,7 +297,7 @@ After giving guest-water and blessing it with the root mantra,
 एवं त्रिः, पञ्चकृत्वः, सप्तकृत्वो वा ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 he takes a handful of water, sprinkles it on his head. He recites the mantra seven times; or, he may do this three or five or seven times. 
 </details>
@@ -319,7 +319,7 @@ he takes a handful of water, sprinkles it on his head. He recites the mantra sev
 स्वात्मानं संप्रोक्ष्य,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 Then he takes water in his right hand, blesses it with the mantra, and drinks it, sipping.  
 Then he sprinkles himself (scattering it around). 
@@ -339,7 +339,7 @@ Then he sprinkles himself (scattering it around).
 तीर्थे निमग्नः - भगवत् पादारविन्द-विन्यस्त-शिरस्कः यावच्-छक्ति मूलमन्त्रं जपित्वा उत्तीर्य,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 He plunges into the holy stream, and while there, with his head placed at the lotus feet of the Lord, he recites the root mantra as many times as he can. 
 </details>
@@ -358,7 +358,7 @@ He plunges into the holy stream, and while there, with his head placed at the lo
 ऊर्ध्व-पुण्ड्रान् तत्-तन्-मन्त्रेण धारयित्वा,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 Then he gets out and puts on a white lower garment and an upper garment.  
 He sips water again and applies the vertical forehead marks with their respective mantras.  
@@ -377,7 +377,7 @@ He sips water again and applies the vertical forehead marks with their respectiv
 भगवन्तम् अनुस्मृत्य तत्-तन्-मन्त्रेण भगवत्-पर्यन्ताभिधायिना+++(=??)+++,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 He recollects the Lord by the specific mantras with respective names of the Lord in those forms, 
 </details>
@@ -393,7 +393,7 @@ He recollects the Lord by the specific mantras with respective names of the Lord
 उदकाञ्जलिम् आदाय, भगवत्-पादारविन्दयोः निक्षिप्य,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 and with the root mantra he drinks water.  
 He sips water,  
@@ -415,7 +415,7 @@ he pours a handful of water on the Lord’s feet.
 परिक्रम्य, नमस्कृत्य,
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 He controls his breaths, meditates on the Lord, and recites the root mantra one hundred eight times.  
 He turns himself around, offers obeisance, 
@@ -437,7 +437,7 @@ He turns himself around, offers obeisance,
 श्रीवैकुण्ठादिपार्षदान्तं तर्पयित्वा,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 and makes offerings of water, beginning with the foundation power and ending with the earth.[^12]  
 He propitiates with water, beginning (above) with the Śrīvaikuṇṭha Heaven and ending (here below) with the assembly. 
@@ -457,7 +457,7 @@ He propitiates with water, beginning (above) with the Śrīvaikuṇṭha Heaven 
 देवान् ऋषीन् पितॄन् भगवद्-आत्मकान् ध्यात्वा, सन्तर्प्य,
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 He meditates on and propitiates with water the gods, seers, and ancestors, all of whom have the Lord as their self. 
 </details>
@@ -474,7 +474,7 @@ He meditates on and propitiates with water the gods, seers, and ancestors, all o
 याग-भूमिं गच्छेत् ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 After wringing out his cloth on a clean spot, he sips water.  
 With the root mantra, he draws into his own self the water already invoked from the holy stream. Then let him go to the place of sacrifice.[^13] 
@@ -492,7 +492,7 @@ With the root mantra, he draws into his own self the water already invoked from 
 
 ## यागभूमौ
 ### भूशुद्धिः
-<details><summary>English - Notes</summary>
+<details><summary>FX Clooney - Notes</summary>
 
 III. Preparation of the Place of Worship
 </details>
@@ -505,7 +505,7 @@ III. Preparation of the Place of Worship
 तां शोषणादिभिः विशोध्य,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 His hands and feet have been washed well, and he has sipped water suitably.  
 Next then, he chooses ground in a pure and most enchanting place free of noise.  
@@ -523,7 +523,7 @@ He thoroughly purifies it by acts of drying,[^16] etc.
 
 
 ### शरणागतिः
-<details><summary>English - Notes</summary>
+<details><summary>FX Clooney - Notes</summary>
 
 IV. Recollection of Taking Refuge, with the Recitation of the Prayer of Refuge from the Śaraṇāgatigadyam [^17]
 
@@ -538,7 +538,7 @@ IV. Recollection of Taking Refuge, with the Recitation of the Prayer of Refuge f
 यथाऽवस्थित-स्वरूप-रूप-गुण-विभूति-लीलोपकरण-विस्तारम् अनुसन्धाय,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 Through the succession of gurus [^14], he approaches the Lord, the supreme guru,  
 and meditates on Him as the goal and the means to the goal, and as the remover of the undesirable and acquirer of the desirable.  
@@ -563,7 +563,7 @@ He meditates on the expanse of the Lord’s proper form, forms, qualities, power
 तम् एव शरणम् उपगच्छेत् "अखिल-हेये"त्यादिना ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 Then let him approach the Lord alone as refuge, with the words, “All that is to be avoided.…”[^18]
 
@@ -579,7 +579,7 @@ See this entire passage at the end of this translation in the Appendix.
 तम् एव शरणम् उपगच्छेत् "अखिल-हेये"त्यादिना ॥
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>FX Clooney - Notes</summary>
 
 V. Interior Preparation for Personal Worship (Pūjā) 
 </details>
@@ -592,7 +592,7 @@ V. Interior Preparation for Personal Worship (Pūjā)
 अत्य्-अर्थ-प्रियाविरत-विशदतम-प्रत्यक्ष-रूपानुध्यानेन ध्यायन् आसीत ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 After he has thus come near for refuge,  
 with the movements of his mind enhanced by the Lord’s grace,  
@@ -614,7 +614,7 @@ Let him sit meditating with a meditation like in form to perception, most clear,
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 Then let him undertake the worship[^19] that has the form of utterly complete service accomplished with immeasurable pleasure born of experiencing Him. 
 
@@ -644,7 +644,7 @@ Then let him undertake the worship[^19] that has the form of utterly complete se
 इत्यनुसन्धाय,
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 He meditates[^20]: 
 
@@ -672,7 +672,7 @@ All these are for His own pleasure, for Himself along with all His retinue and i
 </details>
 
 ### देहशुद्धिः
-<details><summary>English - Notes</summary>
+<details><summary>FX Clooney - Notes</summary>
 
 VI. Preparation of the Worshiper’s Body by the Dissolution of the Old Body and the Creation of the New Body 
 </details>
@@ -685,7 +685,7 @@ VI. Preparation of the Worshiper’s Body by the Dissolution of the Old Body and
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 He places on his body the five Upaniṣad mantras[^21] according to the order of dissolution.  
 
@@ -703,7 +703,7 @@ He places on his body the five Upaniṣad mantras[^21] according to the order of
 प्राणायामेनैकेन दक्षिणपाणिना नाभिदेशे मूलमन्त्रं न्यस्य,
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 Then, with his right hand, he places the root mantra in the area of his navel for the length of a single breath-control.[^22] 
 
@@ -723,7 +723,7 @@ Then, with his right hand, he places the root mantra in the area of his navel fo
 तत्त्व-क्रमेण विशोष्य,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 According to the order of the elements, he thoroughly dries inside and outside his body that is made of all the elements.  
 He does this by means of the wind that resides in the area of the navel, intensified because of the hot wind arising from the mantra.
@@ -744,7 +744,7 @@ He does this by means of the wind that resides in the area of the navel, intensi
 तत्-तत्-समष्टि-प्रलीन--सर्व-तत्त्व---सर्व-किल्बिष--सर्वाज्ञान--+++(प्रलीन-)+++तद्+++(←किल्बिषाज्ञानादि)+++-वासनो भूत्वा 
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 Next, he places the root mantra in the area of his heart for the length of a single breath-control.  
 In this way, he becomes a person in whom all the base elements, all faults, all ignorances, and their residues are dissolved into their respective aggregates, burned up by the stomach fire heated by the flame of the fire of the cakras arising due to the mantra. 
@@ -763,7 +763,7 @@ In this way, he becomes a person in whom all the base elements, all faults, all 
 भगवद्-दक्षिण-पादाङ्गुष्ठे +++(मूल-)+++मन्त्रेण स्वात्मानं प्रवेशयेत् ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 Then, with the root mantra, let him make his own self enter beneath the big toe of the Lord’s right foot.
 </details>
@@ -780,7 +780,7 @@ Then, with the root mantra, let him make his own self enter beneath the big toe 
 भगवत्--किङ्-करता--योग्यताम् आपाद्य,
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 By another breath-control, by the Lord’s grace, he achieves fitness for service of the Lord. 
 </details>
@@ -796,12 +796,12 @@ By another breath-control, by the Lord’s grace, he achieves fitness for servic
 तस्मादादाय तद्वामपादाङ्गुष्ठात् अधस्तात् मन्त्रेण आत्मानं विन्यस्य, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 On that basis, by the root mantra he sets his self under the Lord’s left big toe.
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>FX Clooney - Notes</summary>
 
 Krishna Ayyangar Swami (2010: 26) notes that by way of the saṃhārakrama and sṛṣṭikrama sequence, he discards his prākṛta body and takes on an aprākṛta body suited to the ensuing worship.
 
@@ -819,7 +819,7 @@ Rastelli (2005: 121) notes that the purification of the elements (bhūtaśuddhi)
 गलद्-दिव्यामृत-रसैर् आत्मानम् अभिषिञ्चेत् ।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 Let him sprinkle his self with the essence of the divine amṛta flowing from the white moon-maṇḍala (half-moon) of the nail of the big toe of that left foot. 
 </details>
@@ -838,7 +838,7 @@ Let him sprinkle his self with the essence of the divine amṛta flowing from th
 तस्मिन् शरीरे पञ्चोपनिषन्मन्त्रान् सृष्टिक्रमेण विन्यसेत् ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 Having thus sprinkled himself, by the Lord’s grace he gains a body made of that ambrosia.  
 It is captivating in all service and fit for all service.  
@@ -859,7 +859,7 @@ Let him then set on that body the five Upaniṣad mantras according to the order
 ओँ लां नमः पराय सर्वात्मने नमः, इति पादयोः,
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 Let him place on his head,  
 “Oṁ ṣāṃ, obeisance, obeisance to the supreme superior self”;  
@@ -873,7 +873,7 @@ On his feet,
 “Oṁ lāṃ, obeisance, obeisance to the supreme self of everything.” 
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>FX Clooney - Notes</summary>
 
 This is the sṛṣṭikrama of the five Upaniṣadic mantras: Mannargudi Swamigal reported to me in oral communication that they are Upaniṣadic in the sense that they are secret or sacred, rahasya. 
 </details>
@@ -895,7 +895,7 @@ This is the sṛṣṭikrama of the five Upaniṣadic mantras: Mannargudi Swamig
 तत्-तच्-छक्तिमयम् उद्भूतं देहं ध्यायेत् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 Doing these placements in this way, let him meditate on the body made of those several powers, now manifested. 
 </details>
@@ -916,7 +916,7 @@ Doing these placements in this way, let him meditate on the body made of those s
 भगवद्-यागम् आरभेत ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 Then, for the length of one breath-control,  
 he sprinkles his self with the flow of ambrosia streaming from the big toe of the left foot of the Lord.  
@@ -932,7 +932,7 @@ let him now undertake the Lord’s sacrifice.
 </details>
 
 ### हृद्यागः
-<details><summary>English - Notes</summary>
+<details><summary>FX Clooney - Notes</summary>
 
 VII. Preparations for Personal Worship 
 </details>
@@ -943,7 +943,7 @@ VII. Preparations for Personal Worship
 हृद्-यागं+++(=??)+++ कृत्वा, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 He meditates as before,[^26] “The Lord alone makes it all be done,” performing the sacrifice in his heart.
 
@@ -971,7 +971,7 @@ He meditates as before,[^26] “The Lord alone makes it all be done,” performi
 सुरभिमुद्रां प्रदर्श्य,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 He collects his equipment[^27] and  
 fills with water the water pot at his left side.  
@@ -1011,7 +1011,7 @@ and presents the cow-mudrā.[^29]
 संस्कृत-तोयेन तानि पूरयित्वा,   
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 He places on his right side the other worship materials. On a well-spread seat in front of him, at the southeast corner, etc., he places the bowls of guest-water, foot-washing-water, water for sipping, and bathing-water.  
 He washes them with the protection mantra,  
@@ -1040,7 +1040,7 @@ He fills them with the prepared water.
 (निक्षिपेत्)
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 Then let him place in the guest-water bowl the incense, flowers, pointed kuśa grass, unhusked rice, etc.  
 Then he places dūrva grass, viṣṇu-parṇa leaves, millet, and lotus in the bowl for foot-washing;  
@@ -1068,7 +1068,7 @@ He places in the bowl for washing the white mustard, etc., including two pieces 
 मूल-मन्त्रेण अभिमन्त्र्य,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 In another bowl he prepares the all-purpose water.  
 He then touches the guest-water bowl with his hand  
@@ -1091,7 +1091,7 @@ and blesses it with the root mantra.
 शुद्धोदकं परिकल्पयामीति शुद्धोदकम्,
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 Saying “Oṁ, obeisance to the Lord, I prepare guest-water,” he prepares the guest water.  
 In the same way,  
@@ -1120,7 +1120,7 @@ The purified water,
 यागभूमिं सर्वाणि च यागद्रव्याणि आत्मानं च प्रत्येकं सम्प्रोक्ष्य,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
  Then he takes some water from the guest-water bowl with another bowl, and he sprinkles the place of sacrifice, all the sacrificial implements, and himself one by one. 
 </details>
@@ -1133,7 +1133,7 @@ The purified water,
 
 ### देवमण्डलकल्पनम्
 #### आसनम्
-<details><summary>English - Notes</summary>
+<details><summary>FX Clooney - Notes</summary>
 
 Part Two: Contemplative Ascent to the Lord’s Heaven, and Return  
 VIII. First Invocation of the Lord and His Retinue: Ascending From the Foundations[^31] 
@@ -1147,7 +1147,7 @@ VIII. First Invocation of the Lord and His Retinue: Ascending From the Foundatio
 आसनं परिकल्पयेत्,
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 Let him thus prepare the seat.
 </details>
@@ -1168,7 +1168,7 @@ Let him thus prepare the seat.
 इति यथास्थानमुपर्युपरि ध्यात्वा प्रणम्य,   
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 He meditates on each in its place, moving upward, and offers obeisance, saying,  
 “Oṁ, obeisance to the root power,” 
@@ -1200,7 +1200,7 @@ He meditates on each in its place, moving upward, and offers obeisance, saying,
 तस्मिन् - "अनन्ताय नागराजाय नमः 11" इति, आस्तरणं प्रणम्य,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 He offers obeisance to the divine world,   
 “Oṁ, obeisance to Śrīvaikuṇṭha, the divine world,”  
@@ -1240,7 +1240,7 @@ And in that place he offers obeisance to the cushion of herbs, “Oṁ, obeisanc
 "ओम् अनन्ताय नमः 20" इति,   
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 Still higher,  
 He sets the southeast (āgneya) quarter,  
@@ -1300,7 +1300,7 @@ He sets it behind Ananta who anticipates all that must be done and is pervasive,
 "ओम् अनुग्रहायै चामरहस्तायै नमः 30", इति कर्णिकापूर्वपार्श्वे अनुग्रहां चामरहस्तां विन्यसेत्,   
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 He sets the lotus above that[^32],  
 “Oṁ, obeisance to Padma,”  
@@ -1346,7 +1346,7 @@ He sets Favor with the fan in her hand in the eastern part of the lotus’s peri
 "ओं दिव्याय योग[पीठ]पर्यङ्काय नमः 32" इति दिव्य-योग[पीठ]पर्यङ्कं विन्यस्य,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 He sets the yoga-seat, 
 “Oṁ, obeisance to the yoga-seat, material source of the world,” He sets the divine yoga-seat, 
@@ -1366,7 +1366,7 @@ He sets the yoga-seat,
 "ओम् अनन्ताय नमः", इति पुरस्तात् पादपीठं विन्यस्य,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 He sets Ananta, king of snakes, resplendent with a thousand hoods, “Oṁ, obeisance to Ananta, king of snakes,”  
 He sets the foot-seat in front,  
@@ -1390,7 +1390,7 @@ He sets the foot-seat in front,
 सर्वतः पुष्पाक्षतान् विकीर्य,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 He reverences all the elements, beginning with the Foundation Power and ending with the Seats.  
 He does this for each with scents, flowers, incense, and flame. 
@@ -1422,7 +1422,7 @@ He strews flowers and unhusked rice everywhere,
 भगवद्यागमारभेत ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 and on the northwest side of the yoga-seat he worships the gurus with scents, flowers, incense, and flame, saying, 
 “Oṁ, obeisance to my gurus,”   
@@ -1440,7 +1440,7 @@ He prostrates himself. With their permission, let him undertake the Lord’s sac
 </details>
 
 #### देवकल्पनम्
-<details><summary>English - Notes</summary>
+<details><summary>FX Clooney - Notes</summary>
 
 IX. Mental Representation of the Lord, and the Prayer that He be Present up to the End of the Worship 
 </details>
@@ -1453,7 +1453,7 @@ IX. Mental Representation of the Lord, and the Prayer that He be Present up to t
 किरीट-मकुट-केयूर-हार-कटकादि-सर्वभूषणैर्भूषितं  
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 He meditates on the Lord Nārāyaṇa who is seated on the coils of the visualized serpent;  
 his eyes as elongated and pure as petals of the lotus;  
@@ -1479,7 +1479,7 @@ as adorned with all His adornments, the crowns, necklaces, armlets and bracelets
 ऊर्ध्वभुजद्वयेन शङ्खचक्रधरं  
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 
 His right leg bent, His left leg forward,  
@@ -1507,7 +1507,7 @@ as holding the conch and wheel with His two upper hands;
 पञ्चोपनिषदैः ध्यात्वा  
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 as the cause for the creation, preservation, and destruction of all;  
 dark in appearance and shines with the kaustubha gem;  
@@ -1533,7 +1533,7 @@ as the supreme pure being, unprecedented and inconceivable, shining, awake, tall
 यावाराधनसमाप्ति सान्निध्ययाचनं कुर्यात्,
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 After praying, with the root mantra  
 “Look favorably on my worship,”  
@@ -1551,7 +1551,7 @@ let him ask Him to be present up to the completion of the worship.
 यावाराधनसमाप्ति सान्निध्ययाचनं कुर्यात्,
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>FX Clooney - Notes</summary>
 
 X. An Option Regarding Place 
 </details>
@@ -1569,7 +1569,7 @@ X. An Option Regarding Place
 इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 If the worship is to be elsewhere, in one’s own preferred place[^35], similarly the invocation,  
 
@@ -1600,7 +1600,7 @@ Such is the right practice of invocation.
 
 
 #### देवीकल्पनम्
-<details><summary>English - Notes</summary>
+<details><summary>FX Clooney - Notes</summary>
 
 XI. Second Invocation of the Lord and His Retinue: Contemplative Descent from the Celestial Realm to the Earthly Place of Worship 
 </details>
@@ -1614,7 +1614,7 @@ XI. Second Invocation of the Lord and His Retinue: Contemplative Descent from th
 तत्रैव "नीं नीलायै नमः" इति नीलामावाह्य,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 Then he makes an obeisance before the Lord on the right (sic).  
 Invoking Śrī, he makes an obeisance on the left (sic),  
@@ -1634,7 +1634,7 @@ There too he invokes Nīlā,
 तत्रैव "नीं नीलायै नमः" इति नीलामावाह्य,
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>FX Clooney - Notes</summary>
 
 Esnoul observes regarding this and the following sections: 
 
@@ -1672,7 +1672,7 @@ Esnoul observes regarding this and the following sections:
 "सर्वेभ्यो दिव्यभूषणेभ्यो नमः" इति सर्वभूषणानि पुरतः प्रणम्य,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 Up above, he makes an obeisance to the divine person named “Crown” who places the Lord’s crown on His head, who is four-mouthed and four-armed, with his hands joined in salutation, and who is above the Lord on His western side, “Oṁ, obeisance to Crown, ruler of diadems.” 
 
@@ -1728,7 +1728,7 @@ He offers obeisance before all the adornments on all sides,
 दक्षिणतः प्रणम्य, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 He offers obeisance on the right side before Sudarśana,  
 who is red in color, with red eyes, four (two) arms,  
@@ -1753,7 +1753,7 @@ his face bright with the bliss of seeing[^38] Him,
 तत्रैव ओं पद्माय नमः इति पद्मात्मानं शिरसि पद्मं धारयन्तं प्रणम्य  
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 There, too, he offers obeisance to the one who is the self of Nandaka, carrying the Lord’s club+++(sic)+++ on its head,  
 “Oṁ, obeisance to Nandaka, ruler of the club,” 
@@ -1778,7 +1778,7 @@ He offers obeisance to the one who is the self of Padma, carrying the lotus on h
 शङ्खात्मानं श्वेतवर्णं रक्तनेत्रं द्विभुजं कृताञ्जलिपुटं शिरसि शङ्खं धारयन्तं वामतः प्रणम्य, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 He offers obeisance on the left side to the one carrying the conch of the Lord on his head, the one who is the self of the conch, white in color, with red eyes, his two hands joined in salutation, 
 “Oṁ, obeisance to Pāñcajanya, ruler of the conch.” 
@@ -1799,7 +1799,7 @@ He offers obeisance on the left side to the one carrying the conch of the Lord o
 "ओं सर्वेभ्यो भगवद्दिव्यायुधेभ्यो नमः" इति, सर्वाणि भगवदायुधानि परितः प्रणम्य,   
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 There, too, he offers obeisance there to the divine club,  
 “Oṁ, obeisance to Kaumodakī, the ruler of the club.”  
@@ -1821,7 +1821,7 @@ He offers obeisance on all sides to all the weapons of the Lord, “Oṁ, obeisa
 "ओं सर्वाभ्यो भगवत्पादारविन्द संवाहिनीभ्यो नमः" इति  दिव्यपादारविन्दसंवाहिनीः समन्ततः प्रणम्य,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 He offers obeisance on all sides to those massaging the divine lotus feet, “Oṁ, obeisance to all massaging the lotus feet of the Lord.” 
 </details>
@@ -1851,7 +1851,7 @@ He offers obeisance on all sides to those massaging the divine lotus feet, “O�
 भगवद्दर्शनानन्दोपबृह्मितसर्वाङ्गं ध्यात्वा प्रणम्य, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 Next he meditates in the back, on the king of snakes Ananta who is four-armed, who carries the plow and pestle, whose hands are joined in salutation, whose utmost limb is adorned with a thousand gems on his hood, who looks on the Lord, and whose every limb swells with the bliss of the touch of the Lord. He then offers obeisance, “Oṁ, (obeisance) to Ananta, the king of snakes.” 
 </details>
@@ -1868,7 +1868,7 @@ Next he meditates in the back, on the king of snakes Ananta who is four-armed, w
 "ओं सर्वेभ्यो भगवत्-परिजनेभ्यो नमः" इति +अनुक्तासङ्ख्येय-परिजनान् समन्ततः प्रणम्य,
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 He offers obeisance for the unnamed endless entourage altogether, “Oṁ, obeisance to all the entourage of the Lord.” 
 </details>
@@ -1885,7 +1885,7 @@ He offers obeisance for the unnamed endless entourage altogether, “Oṁ, obeis
 "ओं सर्वेभ्यो भगवत्परिच्छदेभ्यो नमः" इति, परिच्छदान् समन्ततः प्रणम्य,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 He offers obeisance for the Lord’s sandals in front, 
 “Oṁ, obeisance to the sandals of the Lord.” 
@@ -1906,7 +1906,7 @@ He offers obeisance for the insignia altogether,
 "ओं वैं वैनतैयाय नमः" इति, अग्रतो भगवतः भगवन्तं वैनतेयम् आसीनं द्विभुजं कृताञ्जलिपुटं ध्यात्वा प्रणम्य,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 Having meditated on lord Vainateya in front of the Lord, seated, with two arms, hands joined in salutation, having offered obeisance,  
 “Oṁ, obeisance to Vainateya,” 
@@ -1925,7 +1925,7 @@ Having meditated on lord Vainateya in front of the Lord, seated, with two arms, 
 "ओं श्रीमते विष्वक्सेनाय नमः" इति भगवतः प्रागुत्तरे पार्श्वे दक्षिणाभिमुखं भगवन्तं विष्वक्सेनं आसीनं चतुर्भुजं शङ्खचक्रधरं नीलमेघनिभं ध्यात्वा, प्रणम्य,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 Next he meditates on lord Viṣvaksena, before the Lord on the north side and facing south, seated, with four arms, holding the conch and discus, (hands joined in salutation), like a blue cloud, and offers obeisance to him,  
 “Oṁ, obeisance to lord Viṣvaksena”
@@ -1948,7 +1948,7 @@ Next he meditates on lord Viṣvaksena, before the Lord on the north side and fa
 इति श्रीविष्वक्सेनपरिजनान् प्रणम्य,
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 Next he offers obeisance to the retinue of Viṣvaksena,  
 “Oṁ gaṃ, obeisance to the Gajānana,”  
@@ -1970,7 +1970,7 @@ Next he offers obeisance to the retinue of Viṣvaksena,
 
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>FX Clooney - Notes</summary>
 
 Esnoul: “The devotee has imagined the divine pavilion, and now, as if entering it, encounters the guardians in the four directions” (2005: 71n60; my translation), two in each direction. 
 </details>
@@ -1999,7 +1999,7 @@ Esnoul: “The devotee has imagined the divine pavilion, and now, as if entering
 "ओं सर्वेभ्यो भगवद्द्वारपालेभ्यो नमः" इति सर्वद्वारेषु सर्वद्वारपालान् प्रणम्य,
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 He offers obeisance to the two guardians at the eastern door,  
 “Oṁ, obeisance to Violent, the door-guardian,” and  
@@ -2064,7 +2064,7 @@ Next he does obeisance to all door-guardians at all the doors,
 "ओं सर्वेभ्यो भगवत्पारिषदेभ्यो नमः" इति, सर्वस्माद् बहिः प्रणम्य,
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 Then he does obeisance to Kumuda, the courtier to the east,  
 “Oṁ, obeisance to Kumuda, ruler of the host, with vehicle, followers, gifts.”  
@@ -2112,7 +2112,7 @@ Let him then offer obeisance to them all on all sides,
 
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>FX Clooney - Notes</summary>
 
 XII. Another Option Regarding Place 
 </details>
@@ -2125,7 +2125,7 @@ XII. Another Option Regarding Place
 अन्यानि पौराणिकानि श्रीरङ्गादिनि च, यथारुचि ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 Or, he may invoke other sites for worship— 
 the highest place; the ether +++(sic)+++,  
@@ -2157,7 +2157,7 @@ and Śrīraṇgam or others,[^43] as desired[^42].
 </details>
 
 ### आत्मनिवेदनम्
-<details><summary>English - Notes</summary>
+<details><summary>FX Clooney - Notes</summary>
 
 Part Three: Intimate Worship of the Lord 
 XIII. The Beginning of the Intimate Worship (Pūjā) of the Lord 
@@ -2172,7 +2172,7 @@ XIII. The Beginning of the Intimate Worship (Pūjā) of the Lord
 स्वाभाविकानवधिकातिशय-ज्ञान-बलैश्वर्य-वीर्य-शक्ति-तेजः-प्रभृत्य्-असङ्ख्येय-कल्याण-गुण-गणौघ-महार्णवं ध्यात्वा 
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 He meditates, 
 
@@ -2198,7 +2198,7 @@ He meditates,
 भगवत्-पूजाम् आरभेत ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 Then he offers obeisance and offers his own self to the deity with the root mantra.  
 After offering obeisance and asking permission,  
@@ -2212,7 +2212,7 @@ let him undertake the Lord’s worship.
 </details>
 
 ### अर्घ्यम्
-<details><summary>English - Notes</summary>
+<details><summary>FX Clooney - Notes</summary>
 
 XIV. The Lord’s Bath
 </details>
@@ -2227,7 +2227,7 @@ XIV. The Lord’s Bath
 अर्घ्यं पतद्-ग्रह-पात्रे प्रक्षिपेत् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 Then in a bowl he takes guest-water from the bowl of guest-water previously set there. With his two hands he holds it up before His mouth for smelling. Thinking, “Lord, accept this,” he shows it before the Lord’s mouth, he puts some in the Lord’s right hand. Let him then discard that guest-water into the bowl for remainders. 
 </details>
@@ -2245,7 +2245,7 @@ Then in a bowl he takes guest-water from the bowl of guest-water previously set 
 हस्तौ प्रक्षाल्य, पादयोः पुष्पाणि समर्प्य, पाद्यपात्रात् पाद्यजलमादाय, पादयोः किञ्चित् समर्प्य, मनसा पादौ प्रक्षालयन् पाद्यं पतद्ग्रहपात्रे प्रक्षिपेत् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 Then he washes His hands. He offers flowers at His feet.  
 He takes water for the feet from the foot-washing-bowl and puts some of it on His feet and mentally washes them.  
@@ -2271,7 +2271,7 @@ Let him then discard that water for the feet into the bowl for remainders.
 शेषम् आचमनीयं पतद्-ग्रह-पात्रे प्रक्षिपेत् । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 Then he washes His hands and  
 he wipes His feet with a cloth.  
@@ -2298,7 +2298,7 @@ Let him then discard the remaining water for sipping into the bowl for remainder
 इति भगवते निवेदयेत् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 Then he makes offerings of scents, flowers, incense, flame, water for sipping, mouth-wash, betel nut, etc. He offers obeisance.  
 Then let him making the offering to the Lord,  
@@ -2317,7 +2317,7 @@ Then let him making the offering to the Lord,
 ततः स्नानार्थं आसनमानीय, गन्धादिभिः अभ्यर्च्य, भगवन्तं प्रणम्य, अनुज्ञाप्य, पादुके प्रदाय, स्नानासनोपविष्टे माल्यभूषणवस्त्राणि +अपनीय, विष्वक्सेनाय दत्वा, स्नानशाटिकां प्रदाय,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 He brings forward a seat for the bath. He worships with scent, etc., and offers obeisance to the Lord. He asks permission. He offers sandals, and when He is seated there, he removes the garlands, adornments and cloths. He gives them to Viṣvaksena and offers the bathing costume. 
 </details>
@@ -2332,7 +2332,7 @@ He brings forward a seat for the bath. He worships with scent, etc., and offers 
 अर्घ्य-पाद्याचमनीय--पाद-पीठ-प्रदान--दन्त-काष्ठ--जिह्वा-निर्लेहन--गण्डूष--मुख-प्रक्षालनाचमन--आदर्श-प्रदर्शन--  
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 (Then let him give all of the following:) guest-water, foot-washing-water, water for sipping, the offering of the footstool, toothbrush, tongue-scraper, the washing of the mouth with a handful of water, water for sipping, the showing of a mirror, 
 </details>
@@ -2348,7 +2348,7 @@ He brings forward a seat for the bath. He worships with scent, etc., and offers 
 हस्त-प्रक्षालन--मुख-वास--ताम्बूल-तैलाभ्यङ्ग--+उद्वर्तनामलकतोय--  
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 water for washing hands, mouth-freshener, betel, massage with sesame oil, extra gooseberry water, 
 </details>
@@ -2365,7 +2365,7 @@ water for washing hands, mouth-freshener, betel, massage with sesame oil, extra 
 वस्त्रोत्तरीय--यज्ञोपवीत-प्रदान--पाद्याचमन--पवित्र-प्रदान--
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 comb, the giving of the cloth and saffron for cleaning the body, the applying of turmeric, washing, the giving of lower garment, upper garment and sacrificial thread, purification by foot-washing-water and water for sipping, (..??)
 </details>
@@ -2382,7 +2382,7 @@ comb, the giving of the cloth and saffron for cleaning the body, the applying of
 नृत्त-गीत-वाद्यादि--  
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 scent, flowers, incense, flame, water for sipping,  
 dance, song, instrumental music, etc.,[^44]
@@ -2406,7 +2406,7 @@ dance, song, instrumental music, etc.,[^44]
 +उत्तरीय-यज्ञोपवीत-  
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 the anointing linked with all that is auspicious,  
 worship with flame, the sipping of water,  
@@ -2430,7 +2430,7 @@ the cloth for purifying the body, the lower garment, the upper garment and sacri
 देह-शोधन--प्लोत-वस्त्रोत्तरीय--यज्ञोपवीताचमनानि दद्यात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 water for sipping, the strewing of a handful of grass,  
 the sprinkling by a thousand streams,  
@@ -2458,7 +2458,7 @@ the lower garment, the upper garment and sacrificial thread, and water for sippi
 पूर्ववत् स्नानीय-वर्जम् अर्घ्य-पाद्याचमनीय-शुद्धोदकानि मन्त्रेण कल्पयित्वा 
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 Then he venerates the seat for adornment and offers obeisance.  
 He asks permission and presents the sandals.
@@ -2486,7 +2486,7 @@ With the mantra, he arranges for the Lord seated there the guest-water, foot-was
 अथवा सर्वपरिवाराणां गन्धादीनेव दद्यात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 He gives to the Lord scent, flowers, foot-massage, the lower garment, upper garment, adornments, sacrificial thread, guest-water, foot-washing-water, and sipping water.  
 He gives to all the retinue everything from the bathing and cloths to the adornments, and then he presents the scent, etc., to each of the retinue, immediately after presenting these to the deity.
@@ -2503,7 +2503,7 @@ Or, let him give just the scent, etc., to the whole retinue.
 अथवा सर्वपरिवाराणां गन्धादीनेव दद्यात् ।
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>FX Clooney - Notes</summary>
 
 XV. Preparations for the Lord’s Meal 
 </details>
@@ -2517,7 +2517,7 @@ XV. Preparations for the Lord’s Meal
 काहल+++(=महानगारि)+++-भेर्यादि-सकल-नृत्त-गीत-वाद्यादिभिः अभ्यर्च्य, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 He offers veneration by the giving of  
 scent and flowers, adornments, collyrium, the forehead mark,  
@@ -2541,7 +2541,7 @@ mark, musical instruments and drums, etc., all the dance, song, instrumental mus
 अन्यैश्च भगवन्मन्त्रैः शक्तश् चेत् पुष्पं प्रदाय  
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 He presents a flower with the root mantra,  
 giving a flower for each syllable.  
@@ -2579,7 +2579,7 @@ and with other mantras of the Lord.
 प्रणम्य  
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 Using the mantra of each, he gives flowers beginning with the Goddess and ending with the divine assembly and offers obeisance.  
 </details>
@@ -2595,11 +2595,11 @@ Using the mantra of each, he gives flowers beginning with the Goddess and ending
 
 प्रति-दिशं प्रदक्षिण-प्रणाम-पूर्वकं भगवते पुष्पाञ्जलिं दत्वा  
 पुरतः प्रणम्य,  
-श्रुतिसुखैः स्तोत्रैः स्तुत्वा  
+श्रुति-सुखैः स्तोत्रैः स्तुत्वा  
 स्वात्मानं नित्यकिङ्करतया निवेद्य,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 In each direction, he gives a salutation to the Lord with a handful of flowers,  
 preceded +++(sic)+++ by the offering of obeisance and by turning about.  
@@ -2628,7 +2628,7 @@ He presents his own self for the sake of perpetual service.
 मुख-वास--ताम्बूले प्रदाय,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 After meditating in just this way,  
 he recites the root mantra as many times as he is able  
@@ -2645,7 +2645,7 @@ He presents mouth-freshener and betel,
 मुखवासताम्बूले प्रदाय,  
 </details>
 
-## भोजनम्
+### भोजनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अर्घ्यं दत्वा,  
@@ -2655,7 +2655,7 @@ He presents mouth-freshener and betel,
 तत्रोपविष्टे पाद्याचमनीय-अर्हणानि दत्वा,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 offers the guest-water,  
 and venerates the seat of enjoyment.  
@@ -2672,7 +2672,7 @@ He gives water for foot-washing, for sipping, and for honoring, before him seate
 तत्रोपविष्टे पाद्याचमनीय-अर्हणानि दत्वा,
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>FX Clooney - Notes</summary>
 
 XVI. The Lord’s Meal 
 </details>
@@ -2687,7 +2687,7 @@ XVI. The Lord’s Meal
 आचमनं दद्यात्,
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 Then, after placing on the plate cane sugar, honey, melted butter, curd, and milk, he thoroughly purifies them by acts of drying, etc., and sprinkles with the guest-water.  
 Then, with his head bowed, his eyes wide with delight, his mind delighted, he gives the honey and milk mixture. Then let him give water for sipping. 
@@ -2708,7 +2708,7 @@ Then, with his head bowed, his eyes wide with delight, his mind delighted, he gi
 ततश् च गां सुवर्ण-रत्नादिकं च यथाशक्ति दद्यात्,
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 Regarding whatever is to be given to the Lord, let him give it after thoroughly purifying it all by acts of drying, etc., and after sprinkling it with the guest-water.[^48] 
 
@@ -2742,7 +2742,7 @@ And then let him give, insofar as he is able, a cow, and also gold, jewels, etc.
 +अर्हणपूर्वकं हविः निवेदयेत् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 Then he arranges the very well-prepared food rich in ghī and curd, milk and honey,  
 and fruits, roots, and spices,  
@@ -2772,7 +2772,7 @@ Let him then offer the oblation preceded by signs of respect.
 "अति-प्रभूतम् अति-प्रियतमम् अतिसमग्रम् अत्यन्तभक्तिकृतम् इदं स्वीकुरु" इति प्रणाम-पूर्वकम् अत्यन्त-साध्वस-विनयावनतो भूत्वा निवेदयेत् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 Then, head bowed, very reverential and modest, he offers an obeisance, and then makes an offering, saying, “Please accept this as very abundant, entirely complete, most pleasing, done with extreme devotion.” 
 </details>
@@ -2783,8 +2783,8 @@ Then, head bowed, very reverential and modest, he offers an obeisance, and then 
 "अतिप्रभूतम् अतिप्रियतमम् अतिसमग्रम् अत्यन्तभक्तिकृतम् इदं स्वीकुरु" इति प्रणामपूर्वकम् अत्यन्तसाध्वसविनयावनतः भूत्वा निवेदयेत् ।
 </details>
 
-
-<details><summary>English - Notes</summary>
+### मन्त्रासनोपचारः
+<details><summary>FX Clooney - Notes</summary>
 
 XVII. Ensuring Lord’s Satisfaction 
 </details>
@@ -2798,11 +2798,10 @@ XVII. Ensuring Lord’s Satisfaction
 पादुके प्रदाय,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 He presents a final drink and refreshment and gives water for hand-washing and for sipping. He wipes the hands and gives scent, mouth-wash, betel, etc. After offering obeisance, he again wipes the mantra-seat with a handful of grass. He offers veneration, asks permission, and then places the sandals before (the Lord) seated there +++(sic)+++.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -2821,7 +2820,7 @@ He presents a final drink and refreshment and gives water for hand-washing and f
 प्रदक्षिणद्वयं कृत्वा दण्डवत् प्रणम्य,
 </details>
 
-<details><summary>English</summary>
+<details><summary>FX Clooney</summary>
 
 He removes the garlands, etc., and gives them to Viṣvaksena.  
 He gives water for foot-washing, for sipping, scent, flowers, incense, flame, rinsing, cake, fruits, etc.  
@@ -2836,15 +2835,257 @@ he does a circumambulation and offers an obeisance (falling prostrate) like a st
 पाद्याचमनीय-गन्ध-पुष्प-धूप-दीप+आचमनापूप-फलाचमनादीनि दत्वा,  
 मुख-वास--ताम्बूल--नृत्त-गीत-वाद्यादिभिः अभ्यर्च्य,  
 प्रदक्षिणद्वयं कृत्वा दण्डवत् प्रणम्य,
+</details>
+
+### शयनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पर्यङ्कासनम् अभ्यर्च्य  
++अनुज्ञाप्य,  
+पादुके प्रदाय,  
+तत्रोपविष्टे पाद्याचमने दत्वा,  
+माल्यभूषणवस्त्राणि +अपनीय,  
+विष्वक्सेनाय दत्वा,  
+</details>
+
+<details><summary>FX Clooney</summary>
+
+Then he honors the couch, and, having requested permission, he presents sandals to Him who is seated there. He gives water for foot-washing and sipping, and then takes away the garlands, adornments, and cloths. He gives these to Viṣvaksena and
 
 </details>
 
 
+<details><summary>मूलम्</summary>
 
-पर्यङ्कासनम् अभ्यर्च्य अनुज्ञाप्य, पादुके प्रदाय, तत्रोपविष्टे पाद्याचमने दत्वा, माल्यभूषणवस्त्राणि अपनीय, विष्वक्सेनाय दत्वा, सुखशयनोचितं सुखस्पर्शं वासः तदुचितानि भूषणानि उपवीतं च प्रदाय, आचमनीयं दत्वा, गन्धपुष्प धूपदीपाचमन मुखवासताम्बूलादिभिः अभ्यर्च्य, स्वनियाम्य स्वरूपस्थितिप्रवृत्तिस्वशेषतैकरसेन अनेन आत्मना कर्त्रा स्वकीयैश्च देहेन्द्रियान्तःकरणैः स्वकीयकल्याणतम द्रव्यमयान् औपचारिक सांस्पर्शिक आभ्यवहारिकादि समस्तभोगान् अतिप्रभूतान् अतिप्रियतमान् अतिसमग्रान् अत्यन्तभक्तिकृतान् अखिलपरिजनपरिच्छदान्विताय स्वस्मै स्वप्रीतये स्वयमेव प्रतिपादितवान् इति अनुसन्धाय भगवन्तमनुज्ञाप्य, भगवन्निवेदितात् हविषः विष्वक्सेनाय किञ्चित् उद्धृत्य निधाय अन्यत्सर्वं स्वचार्यप्रमुखेभ्यः वैष्णवेभ्यः प्रदाय भगवद्यागशिष्टैः जलादिभिः द्रव्यैः विष्वक्सेनम् अभ्यर्च्य, पूर्वोद्धृतं हविश्च दत्वा, तदर्चनं परिसमाप्य, भगवन्तम् अष्टाङ्गेन प्रणम्य, शरणमुपगच्छेत् ॥
+पर्यङ्कासनम् अभ्यर्च्य  
++अनुज्ञाप्य,  
+पादुके प्रदाय,  
+तत्रोपविष्टे पाद्याचमने दत्वा,  
+माल्यभूषणवस्त्राणि +अपनीय,  
+विष्वक्सेनाय दत्वा,
+</details>
 
-मनोबुध्यभिमानेन सह न्यस्य धरातले । कूर्मवत् चतुरः पादान् शिरस्तत्रैव पञ्चमम् ॥ प्रदक्षिणसमेतेन एवंरूपेण सर्वदा । अष्टाङ्गेन नमस्कृत्य ह्युपविश्याग्रतो विभोः ॥ उरसा शिरसा चैव वपुषा मनसा गिरा । पद्भ्यां कराभ्यां जानुभ्यां प्रणामोऽष्टाङ्ग उच्यते ॥ इत्युक्तः अष्टाङ्गप्रणामः ।
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सुखशयनोचितं सुखस्पर्शं वासः, तदुचितानि भूषणानि +उपवीतं च प्रदाय,  
+आचमनीयं दत्वा,  
+गन्ध-पुष्प-धूप-दीपाचमन--मुख-वास--ताम्बूलादिभिर् अभ्यर्च्य,  
+(श्रुति-सुखैः स्तोत्रैर् अभिष्टूय)
+</details>
+
+<details><summary>FX Clooney</summary>
+
+provides an abode suitable for pleasant resting,  pleasant to the touch,  
+adornments suitable to him, and the sacrificial thread.  
+He gives water for sipping  
+and venerates with scent, flowers, incense, flame, water for sipping, mouth-washing, betel, etc.  
+He praises Him with songs of praise pleasing to hear.
+
+[^49]: As in note [^47], tradition suggests that Tamil verses are recited here.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सुखशयनोचितं सुखस्पर्शं वासः, तदुचितानि भूषणानि +उपवीतं च प्रदाय,  
+आचमनीयं दत्वा,  
+गन्ध-पुष्प-धूप-दीपाचमन--मुख-वास--ताम्बूलादिभिर् अभ्यर्च्य,  
+(श्रुति-सुखैः स्तोत्रैर् अभिष्टूय)
+</details>
+
+<details><summary>FX Clooney - Notes</summary>
+
+XVIII. Meditation on the Lord’s Exclusive Agency in the Worship 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> स्वनियाम्य--स्वरूप-स्थिति-प्रवृत्ति--स्वशेषतैकरसेन +अनेन आत्मना कर्त्रा  
+स्वकीयैश्च देहेन्द्रियान्तःकरणैः  
+स्वकीय-कल्याणतम-द्रव्यमयान् औपचारिक-सांस्पर्शिक-आभ्यवहारिकादि-समस्त-भोगान्  
+अति-प्रभूतान् अति-प्रियतमान् अति-समग्रान् अत्यन्त-भक्ति-कृतान्  
+अखिल-परिजन-परिच्छदान्विताय स्वस्मै  
+स्व-प्रीतये स्वयम् एव प्रतिपादितवान् 
+
+इति +अनुसन्धाय  
+भगवन्तम् अनुज्ञाप्य, 
+</details>
+
+<details><summary>FX Clooney</summary>
+
+Then he meditates: 
+
+> “By this self whose single delight is in total dependence on Him,  
+> by its activity, steadiness, proper form controlled by Him,  
+> and by his own body, senses, and mind,  
+> the Lord alone has brought about all enjoyments, such as are honorific, tangible, and pertaining to food, etc.,  
+> and such as are made of His own innate and most auspicious substances,  
+> such as are achieved with extreme devotion and are most pleasing, utterly complete, utterly resplendent.  
+> All these are for His own pleasure, for Himself along with all His retinue and insignia.”[^50] 
+
+[^50]: Compare the meditation in Section IV.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> स्वनियाम्य--स्वरूप-स्थिति-प्रवृत्ति--स्वशेषतैकरसेन +अनेन आत्मना कर्त्रा  
+स्वकीयैश्च देहेन्द्रियान्तःकरणैः  
+स्वकीयकल्याणतम-द्रव्यमयान् औपचारिक-सांस्पर्शिक-आभ्यवहारिकादि-समस्तभोगान्  
+अतिप्रभूतान् अतिप्रियतमान् अतिसमग्रान् अत्यन्तभक्तिकृतान्  
+अखिलपरिजनपरिच्छदान्विताय स्वस्मै  
+स्वप्रीतये स्वयमेव प्रतिपादितवान् 
+
+इति +अनुसन्धाय  
+भगवन्तमनुज्ञाप्य,
+</details>
+
+
+<details><summary>FX Clooney - Notes</summary>
+
+XIX. Offerings to the Teacher and the Community 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भगवन्निवेदिताद् +हविषो विष्वक्सेनाय किञ्चिद् उद्धृत्य, निधाय,  
+अन्यत् सर्वं स्वाचार्य-प्रमुखेभ्यः वैष्णवेभ्यः प्रदाय  
+भगवद्-याग-शिष्टैर् जलादिभिर् द्रव्यैर् विष्वक्सेनम् अभ्यर्च्य,  
+पूर्वोद्धृतं हविश्च दत्वा,  
+तदर्चनं परिसमाप्य, 
+</details>
+
+<details><summary>FX Clooney</summary>
+
+After asking the Lord’s permission,  
+he offers to Viṣvaksena a bit of the oblation offered to the Lord,  
+and then gives all the rest to Vaiṣṇavas beginning with his ācārya.[^51] 
+
+He worships Viṣvaksena with materials, water, etc., not distinguished +++(sic)+++ as part of the sacrifice to the Lord. He gives an oblation previously offered. 
+
+[^51]: Mannargudi Swamigal reported to me in oral communication that this sharing of prasādam with the ācārya and other Śrīvaiṣṇavas may be done mentally rather than literally. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भगवन्निवेदिताद् +हविषो विष्वक्सेनाय किञ्चिद् उद्धृत्य, निधाय,  
+अन्यत् सर्वं स्वाचार्यप्रमुखेभ्यः वैष्णवेभ्यः प्रदाय  
+भगवद्यागशिष्टैः जलादिभिर् द्रव्यैर् विष्वक्सेनम् अभ्यर्च्य,  
+पूर्वोद्धृतं हविश्च दत्वा,  
+तदर्चनं परिसमाप्य, 
+</details>
+
+### शरणागतिः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भगवन्तम् अष्टाङ्गेन प्रणम्य,  
+शरणम् उपगच्छेत् ॥
+</details>
+
+<details><summary>FX Clooney</summary>
+
+After finishing that worship, he offers obeisance to the Lord with an eight-limbed obeisance. Let him then take refuge. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भगवन्तम् अष्टाङ्गेन प्रणम्य,  
+शरणम् उपगच्छेत् ॥
+
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> मनोबुध्यभिमानेन  
+सह न्यस्य धरातले ।  
+कूर्मवच् चतुरः पादान्  
+शिरस्तत्रैव पञ्चमम् ॥  
+प्रदक्षिणसमेतेन  
++एवंरूपेण सर्वदा ।  
+अष्टाङ्गेन नमस्कृत्य  
+ह्युपविश्याग्रतो विभोः ॥  
+उरसा शिरसा चैव  
+वपुषा मनसा गिरा ।  
+पद्भ्यां कराभ्यां जानुभ्यां  
+प्रणामोऽष्टाङ्ग उच्यते ॥ 
+
+इत्युक्तः अष्टाङ्गप्रणामः ।
+</details>
+
+<details><summary>FX Clooney</summary>
+
+With mind, understanding, and ego,  
+he places on the ground  
+like a tortoise -  
+his four limbs and his head as a fifth. 
+
+Always with a rotation in that form,  
+he pays reverence with his eight limbs.  
+He pays respect with his eight limbs.  
+He sits before the all-pervading one.  
+
+[^52]: The verse up to this point is from Ahirbudhnyasaṃhitā 28.77–78. Both verses are found together in the Sātvatasaṃhitā 6.187c–189b.
+
+Thus the eightfold obeisance is stated.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> मनोबुध्यभिमानेन  
+सह न्यस्य धरातले ।  
+कूर्मवच् चतुरः पादान्  
+शिरस्तत्रैव पञ्चमम् ॥  
+प्रदक्षिणसमेतेन  
++एवंरूपेण सर्वदा ।  
+अष्टाङ्गेन नमस्कृत्य  
+ह्युपविश्याग्रतो विभोः ॥  
+उरसा शिरसा चैव  
+वपुषा मनसा गिरा ।  
+पद्भ्यां कराभ्यां जानुभ्यां  
+प्रणामोऽष्टाङ्ग उच्यते ॥ 
+
+इत्युक्तः अष्टाङ्गप्रणामः ।
+
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शरणागतिप्रकारश्च पूर्वोक्तः ।
+</details>
 
-ततः अर्घ्यजलं प्रदाय भगवन्तम् अनुज्ञाप्य पूजां समापयेत् ॥
+<details><summary>FX Clooney</summary>
+
+The manner of taking refuge has been previously explained. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+शरणागतिप्रकारश्च पूर्वोक्तः ।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ततः अर्घ्यजलं प्रदाय  
+भगवन्तम् अनुज्ञाप्य पूजां समापयेत् ॥
+</details>
+
+<details><summary>FX Clooney</summary>
+
+Then, after offering guest-water, with the Lord’s permission, let him conclude the worship.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ततः अर्घ्यजलं प्रदाय  
+भगवन्तम् अनुज्ञाप्य पूजां समापयेत् ॥
+</details>
+
