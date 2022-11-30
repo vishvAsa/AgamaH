@@ -816,7 +816,7 @@ Rastelli (2005: 121) notes that the purification of the elements (bhūtaśuddhi)
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देव-वाम-पादाङ्गुष्ठ-नख-शीतांशु-मण्डलाद्  
-गलद्-दिव्यामृत-रसैर् आत्मानम् अभिषिञ्चेत् ।
+गलद्-दिव्यामृत-रसैर् आत्मानम् अभिषिञ्चेत् ।+++(5)+++
 </details>
 
 <details><summary>English</summary>
@@ -2448,7 +2448,7 @@ the lower garment, the upper garment and sacrificial thread, and water for sippi
 देह-शोधन--प्लोत-वस्त्रोत्तरीय--यज्ञोपवीताचमनानि दद्यात् ।
 </details>
 
-
+### अलङ्कारः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो ऽलङ्कारासनम् अभ्यर्च्य  
@@ -2596,13 +2596,13 @@ Using the mantra of each, he gives flowers beginning with the Goddess and ending
 प्रति-दिशं प्रदक्षिण-प्रणाम-पूर्वकं भगवते पुष्पाञ्जलिं दत्वा  
 पुरतः प्रणम्य,  
 श्रुतिसुखैः स्तोत्रैः स्तुत्वा  
-स्वात्मानं नित्यकिङ्करतया निवेद्य तथैव ध्यात्वा, 
+स्वात्मानं नित्यकिङ्करतया निवेद्य,  
 </details>
 
 <details><summary>English</summary>
 
 In each direction, he gives a salutation to the Lord with a handful of flowers,  
-preceded+++(sic)+++ by the offering of obeisance and by turning about.  
+preceded +++(sic)+++ by the offering of obeisance and by turning about.  
 He offers obeisance before him and praises him with hymns of praise pleasing to hear.[^47]  
 He presents his own self for the sake of perpetual service. 
 
@@ -2616,21 +2616,173 @@ He presents his own self for the sake of perpetual service.
 प्रति-दिशं प्रदक्षिण-प्रणाम-पूर्वकं भगवते पुष्पाञ्जलिं दत्वा  
 पुरतः प्रणम्य,  
 श्रुतिसुखैः स्तोत्रैः स्तुत्वा  
-स्वात्मानं नित्यकिङ्करतया निवेद्य तथैव ध्यात्वा, 
+स्वात्मानं नित्यकिङ्करतया निवेद्य
 </details>
 
 
-यथाशक्ति मूलमन्त्रं जपित्वा सर्वभोगपूरणीं मात्रां दत्वा, मुखवासताम्बूले प्रदाय अर्घ्यं दत्वा,
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भोज्यासनम् अभ्यर्च्य प्रणम्य, अनुज्ञाप्य, पादुके प्रदाय, तत्रोपविष्टे पाद्याचमनीय अर्हणानि दत्वा, गुडं माक्षीकं सर्पिः दधि क्षीरं चेति पात्रे निक्षिप्य, विशोध्य, अर्घ्यजलेन संप्रोक्ष्य, मधुपर्कम् अवनतशिराः हर्षोत्फुल्लनयनः हृष्टमनाः भूत्वा प्रदाय आचमनं दद्यात्,
+तथैव ध्यात्वा,  
+यथा-शक्ति मूल-मन्त्रं जपित्वा  
+सर्व-भोग-पूरणीं मात्रां दत्वा,  
+मुख-वास--ताम्बूले प्रदाय,  
+</details>
 
-यत् किञ्चित् द्रव्यं भगवद्देयं तत्सर्वं शोषणादिभिः विशोध्य अर्घ्यजलेन संप्रोक्ष्य दद्यात्,
+<details><summary>English</summary>
 
+After meditating in just this way,  
+he recites the root mantra as many times as he is able  
+and he gives whatever measure more completes all enjoyments.  
+He presents mouth-freshener and betel,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथैव ध्यात्वा,  
+यथाशक्ति मूलमन्त्रं जपित्वा  
+सर्वभोगपूरणीं मात्रां दत्वा,  
+मुखवासताम्बूले प्रदाय,  
+</details>
+
+## भोजनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अर्घ्यं दत्वा,  
+भोज्यासनम् अभ्यर्च्य  
+प्रणम्य, अनुज्ञाप्य,  
+पादुके प्रदाय,  
+तत्रोपविष्टे पाद्याचमनीय-अर्हणानि दत्वा,  
+</details>
+
+<details><summary>English</summary>
+
+offers the guest-water,  
+and venerates the seat of enjoyment.  
+After offering obeisance, he asks permission and presents the sandals.  
+He gives water for foot-washing, for sipping, and for honoring, before him seated there.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अर्घ्यं दत्वा,  
+भोज्यासनम् अभ्यर्च्य  
+प्रणम्य, अनुज्ञाप्य,  
+पादुके प्रदाय,  
+तत्रोपविष्टे पाद्याचमनीय-अर्हणानि दत्वा,
+</details>
+
+<details><summary>English - Notes</summary>
+
+XVI. The Lord’s Meal 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+गुडं माक्षीकं+++(=मधु)+++ सर्पिर् दधि क्षीरं चेति पात्रे निक्षिप्य,  
+विशोध्य,  
+अर्घ्यजलेन संप्रोक्ष्य,  
+मधुपर्कम् अवनतशिराः हर्षोत्फुल्लनयनः हृष्टमनाः भूत्वा +++(5)+++ प्रदाय  
+आचमनं दद्यात्,
+</details>
+
+<details><summary>English</summary>
+
+Then, after placing on the plate cane sugar, honey, melted butter, curd, and milk, he thoroughly purifies them by acts of drying, etc., and sprinkles with the guest-water.  
+Then, with his head bowed, his eyes wide with delight, his mind delighted, he gives the honey and milk mixture. Then let him give water for sipping. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+गुडं माक्षीकं सर्पिर् दधि क्षीरं चेति पात्रे निक्षिप्य,  विशोध्य, अर्घ्यजलेन संप्रोक्ष्य, मधुपर्कम् अवनतशिराः हर्षोत्फुल्लनयनः हृष्टमनाः भूत्वा प्रदाय आचमनं दद्यात्,
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यत् किञ्चिद् द्रव्यं भगवद्-देयं  
+तत् सर्वं शोषणादिभिर् विशोध्य  
+अर्घ्य-जलेन संप्रोक्ष्य  
+दद्यात्,  
+ततश् च गां सुवर्ण-रत्नादिकं च यथाशक्ति दद्यात्,
+</details>
+
+<details><summary>English</summary>
+
+Regarding whatever is to be given to the Lord, let him give it after thoroughly purifying it all by acts of drying, etc., and after sprinkling it with the guest-water.[^48] 
+
+And then let him give, insofar as he is able, a cow, and also gold, jewels, etc.
+
+[^48]: Krishna Ayyangar Swami (2010: 48–49): The meal too must be thought of as a sacrifice; eating food that is not offered to the Lord is a sin.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यत् किञ्चित् द्रव्यं भगवद्देयं तत्सर्वं शोषणादिभिर् विशोध्य  
+अर्घ्यजलेन संप्रोक्ष्य  
+दद्यात्,  
 ततश्च गां सुवर्णरत्नादिकं च यथाशक्ति दद्यात्,
+</details>
 
-ततः सुसंस्कृतान्नम् आज्याढ्यं दधिक्षीरमधूनि फलमूलव्यञ्जनानि मोदकांश्च अन्यानि लोके प्रियतमानि आत्मनश्च इष्टानि शास्त्राविरुद्धानि संभृत्य शोषणादि कृत्वा, अर्घ्यजलेन सम्प्रोक्ष्य, अस्त्रमन्त्रेण रक्षां कृत्वा, सुरभिमुद्रां प्रदर्श्य अर्हणपूर्वकं हविः निवेदयेत् ।
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ततः सुसंस्कृतान्नम् आज्याढ्यं  
+दधि-क्षीर-मधूनि  
+फल-मूल-व्यञ्जनानि  
+मोदकांश् च अन्यानि लोके प्रियतमानि +आत्मनश्च +इष्टानि शास्त्राविरुद्धानि संभृत्य  
+
+शोषणादि कृत्वा,  
+अर्घ्यजलेन सम्प्रोक्ष्य,  
+अस्त्रमन्त्रेण रक्षां कृत्वा,  
+सुरभिमुद्रां प्रदर्श्य  
++अर्हणपूर्वकं हविः निवेदयेत् ।
+</details>
+
+<details><summary>English</summary>
+
+Then he arranges the very well-prepared food rich in ghī and curd, milk and honey,  
+and fruits, roots, and spices,  
+as well as sweets, plus other things most pleasing in ordinary life, and things preferred by himself such as are not contrary to the instructive scriptures. 
+
+He thoroughly purifies them by acts of drying, etc., and  
+sprinkles them with the guest-water.  
+He secures protection with the protection mantra,  
+and he makes the cow-mudrā.  
+Let him then offer the oblation preceded by signs of respect.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ततः सुसंस्कृतान्नम् आज्याढ्यं दधिक्षीरमधूनि फलमूलव्यञ्जनानि मोदकांश्च अन्यानि लोके प्रियतमानि +आत्मनश्च +इष्टानि शास्त्राविरुद्धानि संभृत्य  
+शोषणादि कृत्वा,  
+अर्घ्यजलेन सम्प्रोक्ष्य,  
+अस्त्रमन्त्रेण रक्षां कृत्वा,  
+सुरभिमुद्रां प्रदर्श्य  
++अर्हणपूर्वकं हविः निवेदयेत् ।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"अति-प्रभूतम् अति-प्रियतमम् अतिसमग्रम् अत्यन्तभक्तिकृतम् इदं स्वीकुरु" इति प्रणाम-पूर्वकम् अत्यन्त-साध्वस-विनयावनतो भूत्वा निवेदयेत् ।
+</details>
+
+<details><summary>English</summary>
+
+Then, head bowed, very reverential and modest, he offers an obeisance, and then makes an offering, saying, “Please accept this as very abundant, entirely complete, most pleasing, done with extreme devotion.” 
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 "अतिप्रभूतम् अतिप्रियतमम् अतिसमग्रम् अत्यन्तभक्तिकृतम् इदं स्वीकुरु" इति प्रणामपूर्वकम् अत्यन्तसाध्वसविनयावनतः भूत्वा निवेदयेत् ।
+</details>
+
 
 ततश्च अनुपानतर्पणे प्रदाय, हस्तप्रक्षालन आचमन हस्तसंमार्जन चन्दन मुखवासताम्बूलादीनि दत्वा, प्रणम्य पुनः मन्त्रासनं कूर्चेन मार्जयित्वा अभ्यर्च्य अनुज्ञाप्य, पादुके प्रदाय, तत्रोपविष्टे गन्धमाल्यादिकम् अपोह्य, विष्वक्सेनाय दत्वा, पाद्याचमनीय गन्धपुष्प धूपदीप आचमनापूप फलाचमनादीनि दत्वा, मुखवासताम्बूल नृत्तगीतवाद्यादिभिः अभ्यर्च्य, प्रदक्षिणद्वयं कृत्वा दण्डवत् प्रणम्य,
 

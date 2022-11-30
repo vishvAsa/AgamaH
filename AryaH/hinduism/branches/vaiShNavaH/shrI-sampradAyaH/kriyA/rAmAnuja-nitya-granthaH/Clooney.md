@@ -379,23 +379,24 @@ pratidiśaṁ pradakṣiṇapraṇāmapūrvakaṁ bhagavate puṣpāñjaliṁ da
 
 tathaiva dhyātvā, yathāśakti mūlamantraṁ japitvā, 
 sarvabhogaprapūraṇ¯mı˙ mātrāṁ datvā, mukhavāsa-tāmbūle pradāya, arghyaṁ datvā bhojyāsanam abhyarcya praṇamya anujñāpya pāduke pradāya, 
-After meditating in just this way, he recites the root mantra as many times as he is able and he gives whatever measure more completes all enjoyments. He presents mouth-freshener and betel, offers the guest-water, and venerates the seat of enjoyment. After offering obeisance, he asks permission and presents the sandals. 
+
+
 tatropaviṣṭe pādyācamanīya-arhaṇāni datvā, 
-He gives water for foot-washing, for sipping, and for honoring, before him seated there. 
-XVI. The Lord’s Meal 
+
 guḍaṁ mākṣikaṁ sarpir dadhi kṣīraṁ ceti pātre nikṣipya śoṣaṇādibhir viśodhya, arghyajalena samprokṣya, madhuparkam avanataśirā harṣotphullanayano hr̥ṣṭamanā bhūtvā pradāya ācamanīyaṁ dadyāt. (46) 
-Then, after placing on the plate cane sugar, honey, melted butter, curd, and milk, he thoroughly purifies them by acts of drying, etc., and sprinkles with the guest-water. Then, with his head bowed, his eyes wide with delight, his mind delighted, he gives the honey and milk mixture. Then let him give water for sipping. 
+
+
 yat kiṁcid dravyaṁ bhagavate dīyate tat sarvaṁ śoṣaṇādibhir viśodhya arghyajalena samprokṣya dadyāt. (47) 
-Regarding whatever is to be given to the Lord, let him give it after thoroughly purifying it all by acts of drying, etc., and after sprinkling it with the guest-water.48 
+
 tataś ca gāṁ svarṇaratnādikaṁ ca yathāśakti dadyāt. (48) 
-And then let him give, insofar as he is able, a cow, and also gold, jewels, etc. tatas susaṁskr̥tānnam ājyāḍhyaṁ dadhi-kṣ¯ra-madhu ı ¯ni ca 
+
+tatas susaṁskr̥tānnam ājyāḍhyaṁ dadhi-kṣīra-madhuni ca 
 phalamūlavyañjanāni modakāṁś ca anyāni ca loke priyatamāni ātmanaś ca iṣṭāni śāstra-aviruddhāni sambhr̥tya śoṣaṇādibhir viśodhya 
-48 Krishna Ayyangar Swami (2010: 48–49): The meal too must be thought of as a sacrifice; eating food that is not offered to the Lord is a sin. 
-123
-Rāmānuja’s Nityagrantham (“Manual of Daily Worship”): A Translation 373 
-arghyajalena samprokṣya astramantreṇa rakṣāṁ kr̥tvā surabhimudrāṁ pradarśya arhaṇapūrvakaṁ havir nivedayet. (49) Then he arranges the very well-prepared food rich in ghī and curd, milk and honey, and fruits, roots, and spices, as well as sweets, plus other things most pleasing in ordinary life, and things preferred by himself such as are not contrary to the instructive scriptures. He thoroughly purifies them by acts of drying, etc., and sprinkles them with the guest-water. He secures protection with the protection mantra, and he makes the cow-mudrā. Let him then offer the oblation preceded by signs of respect. 
+
+arghyajalena samprokṣya astramantreṇa rakṣāṁ kr̥tvā surabhimudrāṁ pradarśya arhaṇapūrvakaṁ havir nivedayet. (49) 
+
 atiprabhūtam atisamagram atipriyatamam atyantabhaktikr̥tam idaṁ svīkuru iti praṇāmapūrvakam atyanta-sādhvasa-vinaya-avanato bhūtvā nivedayet. (50) 
-Then, head bowed, very reverential and modest, he offers an obeisance, and then makes an offering, saying, “Please accept this as very abundant, entirely complete, most pleasing, done with extreme devotion.” 
+
 XVII. Ensuring Lord’s Satisfaction 
 tataś ca anupānatarpaṇe pradāya hastaprakṣālana-ācamana hastasammārjana-candana-mukhavāsa-tāmbūlādīni datvā praṇamya punar mantrāsanaṁ kūrcena mārjayitvā, abhyarcya anujñāpya, pāduke pradāya tatropaviṣṭe mālyādikam apohya viṣvaksenāya datvā, pādyācamanīya-gandha-puṣpa-dhūpa-dīpa-ācamana-apūpa-phalādīni datvā, (ācamana)mukhavāsa-tāmbūla-nr̥tta-gīta-vādyādibhir 
 abhyarcya, pradakṣiṇ¯kr ı ˙tya daṇḍavat praṇamya, 
