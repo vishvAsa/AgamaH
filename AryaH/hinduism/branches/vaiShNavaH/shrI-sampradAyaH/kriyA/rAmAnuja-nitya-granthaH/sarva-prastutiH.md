@@ -1630,8 +1630,8 @@ XI. Second Invocation of the Lord and His Retinue: Contemplative Descent from th
 
 <details><summary>FX Clooney</summary>
 
-Then he makes an obeisance before the Lord on the right (sic).  
-Invoking Śrī, he makes an obeisance on the left (sic),  
+Then he makes an obeisance before the Lord on the right +++(sic)+++.  
+Invoking Śrī, he makes an obeisance on the left +++(sic)+++,  
 “Oṁ śrīṃ, obeisance to Śrī.” 
 He invokes Bhū right there too,  
 “Oṁ bhūṃ, obeisance to Bhū.”  
