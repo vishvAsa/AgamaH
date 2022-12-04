@@ -120,5 +120,5 @@ title: कैवल्योपनिषत्
 इत्यथर्ववेदीया कैवल्योपनिषत्समाप्ता ॥  
   
   
-Encoded and proofread by Sunder Hattangadi sunderh@hotmail.com  
+''
   

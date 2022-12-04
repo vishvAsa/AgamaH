@@ -187,5 +187,5 @@ title: परमहंसपरिव्राजकोपनिषत्
   
   
   
-Encoded and proofread by Sunder Hattangadi sunderh@hotmail.com  
+''
   

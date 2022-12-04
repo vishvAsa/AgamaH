@@ -92,5 +92,5 @@ title: कौलोपनिषत्
           ॥ इति कौलोपनिषत् ॥  
   
   
-Encoded and proofread by Mike Magee (ac70 at cityscape.co.uk)  
+''
   

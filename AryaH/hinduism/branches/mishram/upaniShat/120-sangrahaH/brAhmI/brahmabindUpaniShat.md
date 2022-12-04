@@ -1,20 +1,4 @@
 ---
-Author: Vedic Tradition
-Category: upanishhat, upanishad
-Description-comments: 11/108; Krishna-Yajurveda Sannyasa Upanishad
-File name: brahmabindu.itx
-Language: Sanskrit
-Latest update: September 27, 1999
-Location: doc_upanishhat
-Proofread by: S.
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/religion/hinduism
-Sublocation: upanishhat
-Text title: Brahmabindu Upanishad
-Transliterated by: S.
-engtitle: Brahmabindu Upanishad
-itxtitle: brahmabindUpaniShat
 title: ब्रह्मबिन्दूपनिषत्
 
 ---

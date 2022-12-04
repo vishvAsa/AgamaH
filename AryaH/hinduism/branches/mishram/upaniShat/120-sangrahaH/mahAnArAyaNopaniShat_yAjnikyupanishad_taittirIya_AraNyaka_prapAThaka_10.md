@@ -1106,5 +1106,5 @@ Neither Narayana U. nor Tripad-Mahanarayana U. correspond
 to this. U-B's bhashya makes no mention of this. It is not  
 mentioned in Muktika U. list of 108 U.  
   
-Encoded and proofread by Sunder Hattangadi sunderh at hotmail.com  
+''
   

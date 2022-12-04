@@ -1,21 +1,5 @@
 ---
-Author: Vedic tradition
-Category: upanishhat, upanishad
-Description-comments: 40 / 108; Krishna Yajurveda - Yoga Upanishad
-File name: brahmavidya.itx
-Indexextra: (Translation)
-Language: Sanskrit
-Latest update: Feb. 16, 2000
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/hinduism
-Sublocation: upanishhat
-Text title: Brahmavidya Upanishad
-Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
-engtitle: Brahmavidya Upanishad
-itxtitle: brahmavidyopaniShat
+
 title: ब्रह्मविद्योपनिषत्
 
 ---

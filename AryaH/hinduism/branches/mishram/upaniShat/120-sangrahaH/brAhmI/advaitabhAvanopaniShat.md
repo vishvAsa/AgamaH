@@ -35,6 +35,6 @@ title: अद्वैतभावनोपनिषत्
 इति सदाशिवप्रणीतं अद्वैतभावं समाप्तम् ।  
   
   
-Encoded Vineet Menon mvineetmenon at gmail.com  
+''
 Proofread by Vineet Menon, anonymous456an at gmail.com  
   

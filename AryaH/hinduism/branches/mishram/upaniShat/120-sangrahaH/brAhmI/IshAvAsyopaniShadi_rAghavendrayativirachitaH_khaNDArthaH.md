@@ -1,20 +1,4 @@
 ---
-Author: Sri Raghavendra Swami
-Category: upanishhat, svara, upanishad
-File name: Ishaa_bhaashhya_Raghavendra.itx
-Language: Sanskrit
-Latest update: April 26, 2001
-Location: doc_upanishhat
-Proofread by: Meera Tadipatri
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: A comm. on the IshAvAsya upanishhad.h
-Sublocation: upanishhat
-Text title: yAjnIyamantropaniShad.h khaNDArtha
-Texttype: svara
-Transliterated by: Shrisha Rao
-engtitle: Ishopanishad with Shri Raghavendra Swami commentary
-itxtitle: IshAvAsyopaniShadi (rAghavendrayativirachitaH khaNDArthaH)
 title: ईशावास्योपनिषदि (राघवेन्द्रयतिविरचितः खण्डार्थः)
 
 ---
@@ -322,8 +306,4 @@ lस्क़् अङ्गं देहं गुणभूतं जगद्
 इति श्रीराघवेन्द्रयतिविरचितः श्रीमदीशावास्योपनिषत्खण्डार्थः समाप्तः  
 ॥ भारतीरमणमुख्यप्राणान्तर्गत श्रीकृष्णार्पणमस्तु॥  
    
-  
-  
-''
-Proofread by Meera Tadipatri (mtadipatri at dvaita.net)  
   

@@ -1,21 +1,5 @@
 ---
-Author: Vedic Tradition
-Category: upanishhat, svara, upanishad
-File name: bribasic.itx
-Indexextra: (translation, 120 Upanishads)
-Language: Sanskrit
-Latest update: November 28, 2016, April 25, 2018
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi sunderh at hotmail.com
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/religion/hinduism
-Sublocation: upanishhat
-Text title: bRihadAraNyakopaniShat
-Texttype: svara
-Transliterated by: Sunder Hattangadi sunderh at hotmail.com
-engtitle: Brihadaranyaka Upanishad (basic without accent)
-itxtitle: bRihadAraNyakopaniShat (nissvaraH)
+
 title: बृइहदारण्यकोपनिषत् (निस्स्वरः)
 
 ---
@@ -3113,5 +3097,5 @@ C खिल काण्ड[उपासना काण्ड]
 इति वाजसनेयके बृहदारण्यकोपनिषत्समाप्ता ॥  
   
   
-Encoded and proofread by Sunder Hattangadi sunderh at hotmail.com  
+''
   

@@ -1472,5 +1472,5 @@ title: तेजोबिन्दूपनिषत्
 इति तेजोबिन्दूपनिषत्समाप्ता ॥  
   
   
-Encoded and proofread by Sunder Hattangadi sunderh at hotmail.com  
+''
   

@@ -83,5 +83,5 @@ title: परमहंसोपनिषत्
           इति श्रीपरमहंसोपनिषत्समाप्ता ॥  
   
   
-Encoded and proofread by Anshuman Pandey pandey at umich.edu  
+''
   

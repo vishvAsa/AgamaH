@@ -562,6 +562,6 @@ title: श्वेताश्वतरोपनिषत्
 ॐ शान्तिः शान्तिः शान्तिः ॥  
   
   
-Encoded and proofread by Sunder Hattangadi sunderh at hotmail.com  
+''
 Proofread by John Manetta  
   

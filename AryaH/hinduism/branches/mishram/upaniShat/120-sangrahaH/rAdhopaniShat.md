@@ -193,6 +193,6 @@ title: राधोपनिषत्
 इति राधोपनिषत् समाप्ता ॥  
   
   
-Encoded Jan Brzezinski  
+''
 Proofread by Sunder Hattangadi sunderh at hotmail.com  
   

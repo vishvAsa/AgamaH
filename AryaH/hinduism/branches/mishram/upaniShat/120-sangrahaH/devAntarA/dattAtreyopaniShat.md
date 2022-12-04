@@ -1,23 +1,4 @@
 ---
-Author: Vedic tradition
-Category: upanishhat, svara, upanishad, dattatreya
-Description-comments: 101 / 108; Atharva Veda - Vaishnava upanishad
-File name: dattatreya.itx
-Indexextra: (NONENONE)
-Language: Sanskrit
-Latest update: April,  19, 2000, August 11, 2013
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-SubDeity: dattatreya
-Subject: philosophy/hinduism
-Sublocation: upanishhat
-Text title: Dattatreya Upanishad
-Texttype: svara
-Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
-engtitle: Dattatreya Upanishad
-itxtitle: dattAtreyopaniShat
 title: दत्तात्रेयोपनिषत्
 
 ---
@@ -38,13 +19,13 @@ title: दत्तात्रेयोपनिषत्
 तारकं तन्नो ब्रूहि भगवन्नित्युक्तः सत्यानन्द सात्त्विकं मामकं  
 धामोपास्वेत्याह । सदा दत्तोऽहमस्मीति प्रत्येतत्संवदन्ति येन ते  
 संसारिणो भवन्ति नारायणेनैवं विवक्षितो ब्रह्मा विश्वरूपधरं  
-विष्णुं नारायणं दत्तात्रेअयं ध्यात्वा सद्वदति । दमिति हंसः ।  
+विष्णुं नारायणं दत्तात्रेयं ध्यात्वा सद्वदति । दमिति हंसः ।  
 दामिति दीर्घं तद्बीजं नाम बीजस्थम् । दामित्येकाक्षरं भवति ।  
 तदेतत्तारकं भवति । तदेवोपासितव्यं विज्ञेयं गर्भादितारणम् ।  
 गायत्री छन्दः । सदाशिव ऋषिः । दत्तात्रेयो देवता । वटबीजस्थमिव  
 दत्तबीजस्थं सर्वं जगत् । एतदैवाक्षरं व्याख्यातम् ।   
   
-            दत्तात्रेयषडक्षरमन्त्रः  
+## दत्तात्रेयषडक्षरमन्त्रः  
 व्याख्यास्ये षडक्षरम् । ओमिति प्रथमम् । श्रीमिति द्वितीयम् ।  
 ह्रीमिति तृतीयम् । क्लीमिति चतुर्थम् । ग्लौमिति पञ्चमम् ।  
 द्रामिति षट्कम् । षडक्षरोऽयं भवति । सर्वसम्पद्वृद्धिकरी भवति ।  
@@ -139,5 +120,5 @@ title: दत्तात्रेयोपनिषत्
   
   
   
-Encoded and proofread by Sunder Hattangadi sunderh at hotmail.com  
+''
   

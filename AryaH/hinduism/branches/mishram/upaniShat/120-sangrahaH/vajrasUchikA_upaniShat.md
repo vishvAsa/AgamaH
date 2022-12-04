@@ -153,7 +153,7 @@ should meditate on his Atma as sachchidAnanda, and the non-dual
 brahman . Yea, one should meditate on his Atma as the sachchidAnanda  
 brahman . Such is the upaniShad.  
           OM tat sat  
-Encoded any proofread by H.P. Raghunandan at hpraghu at genius.tisl.soft.net  
+''
 OR Shrisha Rao shrao at dvaita.org  
 Translation by Madras Giridhar giridhar at chemeng.Isc.ernet.in  
   

@@ -1,20 +1,4 @@
 ---
-Category: upanishhat, upanishad
-Description-comments: saMnyAsa upanishad
-File name: brahma_upan.itx
-Indexextra: (Scanned 1, English)
-Language: Sanskrit
-Latest update: 16 April 1996, August 19, 2018
-Location: doc_upanishhat
-Proofread by: Anshuman Pandey pandey at umich.edu
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/hinduism/religion
-Sublocation: upanishhat
-Text title: brahma upanishhat
-Transliterated by: Anshuman Pandey pandey at umich.edu
-engtitle: Brahma Upanishad
-itxtitle: brahmopaniShat
 title: ब्रह्मोपनिषत्
 
 ---

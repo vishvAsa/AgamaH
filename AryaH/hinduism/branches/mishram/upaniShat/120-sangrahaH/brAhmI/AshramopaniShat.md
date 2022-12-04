@@ -85,5 +85,5 @@ title: आश्रमोपनिषत्
 इत्याथर्वणीयाश्रमोपनिषत्समाप्ता  ॥  
   
   
-Encoded and proofread by Sunder Hattangadi sunderh at hotmail.com  
+''
   

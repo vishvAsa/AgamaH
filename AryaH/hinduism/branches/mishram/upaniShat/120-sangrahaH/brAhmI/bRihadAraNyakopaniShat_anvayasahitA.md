@@ -1,21 +1,5 @@
 ---
-Author: Vedic Tradition
-Category: upanishhat, svara, upanishad
-File name: brinew-proofed.itx
-Indexextra: (1translation)
-Language: Sanskrit
-Latest update: January 5, 2000
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi sunderh at hotmail.com
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/religion/hinduism
-Sublocation: upanishhat
-Text title: bRihadAraNyakopaniShat anvayasahita
-Texttype: svara
-Transliterated by: Sunder Hattangadi sunderh at hotmail.com
-engtitle: Brihadaranyaka Upanishad
-itxtitle: bRihadAraNyakopaniShat (anvayasahitA)
+
 title: बृइहदारण्यकोपनिषत् (अन्वयसहिता)
 
 ---

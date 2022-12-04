@@ -2475,7 +2475,7 @@ Read इति ... अनुवाकः for इति ... अध्यायः
 verses 337 till 351  
 Add इत्यष्टाचत्वारिंशोऽनुवाकः just after verse 366  
   
-Encoded and proofread by Wim en Esther wkl-evdk at knoware.nl  
+''
 Yajniki Upanishad ''
 sunderh@hotmail.com as Mahanarayana Upanishad.  
   

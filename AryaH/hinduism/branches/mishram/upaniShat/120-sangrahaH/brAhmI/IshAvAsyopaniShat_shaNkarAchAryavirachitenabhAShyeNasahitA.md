@@ -1,22 +1,5 @@
 ---
-Author: Sri Sankaracharya, also called Adi Sankara.
-Category: upanishhat, svara, shankarAchArya, upanishad
-File name: Ishaa_bhaashhya_Shankar.itx
-Indexextra: (Ishopanishad with commentary by Shankaracharya)
-Language: Sanskrit
-Latest update: May 17, 2001,  August 9, 2014
-Location: doc_upanishhat
-Proofread by: '"Meera Tadipatri" , Revised  by Sunder Hattangadi sunderh at hotmail.com
-  with Samata edition of complete  works, Pranipata Chaitanya  without permission.'
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: A commentary on the IshAvAsya upanishhad.h
-Sublocation: upanishhat
-Text title: yAjnIyamantropaniShad.h bhAShya-TIkA-TippaNI
-Texttype: svara
-Transliterated by: Shrisha Rao
-engtitle: Ishopanishad with Shankaracharya's commentary
-itxtitle: IshAvAsyopaniShat (shaNkarAchAryavirachitenabhAShyeNasahitA)
+
 title: ईशावास्योपनिषत् (शण्कराचार्यविरचितेनभाष्येणसहिता)
 
 ---
@@ -403,12 +386,4 @@ title: ईशावास्योपनिषत् (शण्कराचा�
   
 इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य  
 श्रीमच्छङ्करभगवतः कृतौ ईशावास्योपनिषद्भाष्यं सम्पूर्णम् ।  
-  
-  
-  
-  
-''
-Proofread by Meera Tadipatri (mtadipatri at dvaita.net)  
-Reproofread by Sunder Hattangadi sunderh at hotmail.com comparing with  
-Samata edition of Complete works, Pranipata Chaitanya  
   

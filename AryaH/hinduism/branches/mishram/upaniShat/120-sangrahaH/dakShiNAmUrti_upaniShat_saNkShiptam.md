@@ -79,5 +79,5 @@ directly seen, He is called DakShinamurthy by the Brahma-vadins.
 At the beginning of creation, Brahma the Lord, having worshiped Siva, attained  
 power to create and was delighted at heart . The devotee in this path, steady in  
 his effort, attains all objects of desire and becomes quite happy.  
-Encoded and proofread by  Ramakrishnan Balasubramanian rbalasub at ecn.purdue.edu  
+''
   

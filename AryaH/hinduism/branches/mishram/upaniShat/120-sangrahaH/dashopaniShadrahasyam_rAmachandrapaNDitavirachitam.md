@@ -237,5 +237,5 @@ From Upanishat Sri - Anthology of Articles on Upanishads, page 202
 ग्रन्थ में कवि ने प्रस्तुत किया है । विद्वानों के परिशीलन के  
 लिए मूल श्लोकों का पाठ इस लेख के साथ दिया है ।  
   
-Encoded and proofread by Pranab Mukherjee pranab9 at gmail.com  
+''
   

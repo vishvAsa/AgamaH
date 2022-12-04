@@ -413,7 +413,7 @@ title: याज्ञिक्युपनिषत् (महानारा�
   
   
   
-Encoded and proofread by Sunder Hattangadi sunderh@hotmail.com  
+''
 Also proofread by Wim en Esther wkl-evdk@knoware.nl  
 Wim has added commentary/vivaraNaM in a separate file.  
   
