@@ -183,7 +183,7 @@ evaṁ abhiṣicya, bhagavatprasādena tadamr̥tamayaṁ sarvakaiṁkaryamanohar
 
 tasmin śarīre pañcopaniṣanmantrān, sr̥ṣṭikrameṇa vinyasyet. (12) 
 
-oṁ ṣāṁ namaḥ parāya parameṣṭhyātmane namaḥ iti mūrdhni spr̥śet. (13) oṁ yāṁ namaḥ parāya puruṣātmane nama iti nāsāgre, (14) 
+oṁ ṣāṁ +++(ṣauṁ ity anyatra)+++ namaḥ parāya parameṣṭhyātmane namaḥ iti mūrdhni spr̥śet. (13) oṁ yāṁ namaḥ parāya puruṣātmane nama iti nāsāgre, (14) 
 oṁ rāṁ namaḥ parāya viśvātmane nama iti hr̥daye, (15) 
 oṁ vāṁ namaḥ parāya nivr̥ttyātmane nama iti guhye, (16) 
 oṁ lāṁ namaḥ parāya sarvātmane nama iti pādayoḥ,25 (17) 
