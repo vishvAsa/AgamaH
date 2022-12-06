@@ -123,20 +123,21 @@ Rastelli:
 > “The Lakṣmītantra, which differentiates four categories of bhogas, defines sāmsparśika as follows: 
 > 
 >> ‘Objects of enjoyment, which are gentle, pleasing, and soft to the touch, such as water used for washing the feet, arghya, and the throne, (all these) that satisfy the Unborn with touch are sāṃsparśikas’.” 
+
+
+Rastelli adds, 
+
 > 
-> Rastelli adds, 
-> 
->> “Auspicious objects of enjoyment that continually satisfy (God) with (their) taste such as prāpaṇa (i.e., various food articles…), water for the (ritual) sipping, etc., are ābhyavahārikas” (2005: 123n28). 
-> 
-> Esnoul: 
-> 
-> > “des honneurs, des onctions et de la nourriture” (1972: 57). 
-> 
-> The same terminology recurs in Rāmānuja’s Gītābhāṣya, for example, at 9.34 where Rāmānuja explains, 
-> 
->>  “‘Sacrificing’ is the behavior of the one who is completely accessory [to the Lord]. For sacrifice has the form of the presentation of all enjoyments, such as the honorific, tangible, and that which pertains to food
->  
->> (yajanaṃ nāma paripūrṇa-śeṣa-vṛttiḥ. aupacārika-sāṃsparśika-abhyavahārikādi-sakala-bhoga-pradānarūpo hi yāgaḥ).” 
+> “Auspicious objects of enjoyment that continually satisfy (God) with (their) taste such as prāpaṇa (i.e., various food articles…), water for the (ritual) sipping, etc., are ābhyavahārikas” (2005: 123n28). 
+
+Esnoul: 
+
+> “des honneurs, des onctions et de la nourriture” (1972: 57). 
+
+The same terminology recurs in Rāmānuja’s Gītābhāṣya, for example, at 9.34 where Rāmānuja explains, 
+
+>  “‘Sacrificing’ is the behavior of the one who is completely accessory [to the Lord]. For sacrifice has the form of the presentation of all enjoyments, such as the honorific, tangible, and that which pertains to food
+>  (yajanaṃ nāma paripūrṇa-śeṣa-vṛttiḥ. aupacārika-sāṃsparśika-abhyavahārikādi-sakala-bhoga-pradānarūpo hi yāgaḥ).” 
 </details>
 
 
