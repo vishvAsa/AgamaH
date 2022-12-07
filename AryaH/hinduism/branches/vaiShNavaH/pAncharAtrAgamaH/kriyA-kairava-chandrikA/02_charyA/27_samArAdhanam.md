@@ -1,5 +1,5 @@
 ---
-title: समाराधनम्
+title: २७ समाराधनम्
 unicode_script: devanagari
 ---
 
