@@ -85,5 +85,5 @@ title: स्कन्दोपनिषत्
 ॥ इति कृष्णयजुर्वेदीय स्कन्दोपनिषत्समाप्ता ॥  
   
   
-Encoded and proofread by Sunder Hattangadi sunderh@hotmail.com  
+''
   

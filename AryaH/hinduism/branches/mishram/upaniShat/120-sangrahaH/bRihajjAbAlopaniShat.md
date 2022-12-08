@@ -684,5 +684,5 @@ title: बृइहज्जाबालोपनिषत्
   
   
   
-Encoded and proofread by Sunder Hattangadi sunderh at hotmail.com  
+''
   

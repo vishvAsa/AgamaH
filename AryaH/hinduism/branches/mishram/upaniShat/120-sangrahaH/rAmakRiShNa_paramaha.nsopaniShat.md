@@ -73,5 +73,5 @@ title: रामकृइष्ण परमहंसोपनिषत्
   ॥ इति स्वामी हर्षानन्दकृत उपनिशत्समाप्ता ॥  
   
   
-Encoded and proofread by Sunder Hattangadi sunderh at hotmail.com  
+''
   

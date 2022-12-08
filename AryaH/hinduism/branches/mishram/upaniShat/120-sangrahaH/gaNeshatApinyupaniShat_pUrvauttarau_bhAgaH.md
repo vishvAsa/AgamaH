@@ -554,5 +554,5 @@ title: गणेशतापिन्युपनिषत् पूर्वौ
 इत्याथर्वणीया गणेशतापिन्युपनिषत्समाप्ता ॥  
   
   
-Encoded and proofread by Sunder Hattangadi sunderh at hotmail.com  
+''
   

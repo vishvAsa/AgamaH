@@ -164,5 +164,5 @@ title: देव्युपनिषत्
 ॥ इति श्रीदेव्युपनिषत्समाप्ता ॥  
   
   
-Encoded and proofread by Sunder Hattangadi sunderh@hotmail.com  
+''
   

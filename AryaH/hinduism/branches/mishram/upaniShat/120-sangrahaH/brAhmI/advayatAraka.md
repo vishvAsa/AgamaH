@@ -490,4 +490,4 @@ Commentary I.
 ॐ श्रीमद्विश्वाधिष्ठनपरमहंससद्गुरुरामचन्द्रार्पणमस्तु ॥  
 
 
-Encoded and proofread by Sorin Suciu aka SeSe at sorins at hotmail.com.  
+''

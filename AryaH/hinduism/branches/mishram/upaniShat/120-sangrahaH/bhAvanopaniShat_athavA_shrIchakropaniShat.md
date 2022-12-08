@@ -113,5 +113,5 @@ title: भावनोपनिषत् अथवा श्रीचक्र�
   
 There are 2-3 different versions of this upaniShat.  We have followed the  
 108-120 upaniShashads' collection.  
-Encoded and proofread by P. P. Narayanaswami  (swami at math.mun.ca), NA  
+''
   

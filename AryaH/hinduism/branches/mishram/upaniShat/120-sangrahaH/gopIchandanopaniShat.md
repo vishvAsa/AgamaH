@@ -143,5 +143,5 @@ title: गोपीचन्दनोपनिषत्
 इत्याथर्वणीया गोपीचन्दनोपनिषत्समाप्ता ॥  
   
   
-Encoded and proofread by Sunder Hattangadi sunderh at hotmail.com  
+''
   

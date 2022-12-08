@@ -652,5 +652,5 @@ title: कौषीतकिब्राह्मणोपनिषत्
   
   
   
-Encoded and proofread by Sunder Hattangadi sunderh at hotmail.com  
+''
   

@@ -120,6 +120,6 @@ title: सावित्र्युपनिषत्
   
   
   
-Encoded and proofread by Anshuman Pandey pandey at umich.edu  
+''
 Proofread by DPD  
   

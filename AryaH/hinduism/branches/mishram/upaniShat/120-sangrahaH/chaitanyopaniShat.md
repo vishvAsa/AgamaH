@@ -83,5 +83,5 @@ title: चैतन्योपनिषत्
   
 इति ।  
   
-Encoded and proofread by PSA Easwaran psaeaswaran at gmail.com  
+''
   

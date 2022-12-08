@@ -70,6 +70,6 @@ title: कलिसन्तरणोपनिषत्
 ॐ शान्तिः शान्तिः शान्तिः ।  
   
   
-Encoded and proofread by Anshuman Pandey  
+''
 Proofread by Vijay Pai  
   

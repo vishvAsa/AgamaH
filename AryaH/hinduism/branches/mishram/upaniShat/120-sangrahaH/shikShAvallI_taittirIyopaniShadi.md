@@ -100,5 +100,5 @@ I have used this to keep my speech short !!
 -- Sunder  
   
 Encoded, proofread, translated by Sunder Hattangadi sunderh at hotmail.com  
-Encoded on Jan 29, 1998  
+''
   
