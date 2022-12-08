@@ -38,9 +38,5 @@ These are the sign-analogs of mantra-s. So, similar notes apply.
 
 Abhinavagupta and Kshemaraja considered mudrā as a “way of accessing higher layers of the cosmos, meaning individual consciousness is absorbed into or possessed (āvesa) by mudrā…one’s own body becomes possessed by the mudrā and mantra, which can be read as becoming a channel for higher cosmic powers, which erode the sense of individuality and distinction.” \[Gavin Flood, 1993.\]. Abhinavagupta, further, says that all actions of an awakened one are in fact mudrā!
 
-## yantra-s
-
-In other traditions: a jewish yantra [here](http://i.imgur.com/fElQY78.png?1).
-
 ## मन्त्रविभागाः
 - [मीमांसाक्षेत्रे](/mImAMsA/bodhaH/veda-vAkyam/mantraH/) दृश्यताम् ।
