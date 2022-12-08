@@ -29,10 +29,10 @@ title: २६ दीक्षा
 पूर्ववत् अङ्कुरावापनं कृत्वा  
 
 ### मण्डलसृष्टिः
-<div class="js_include" url="../aMshaH/chakrAbja-maNDala-sRShTiH.md"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" url="../aMshaH/chakrAbja-maNDala-sRShTiH/"  newLevelForH1="3" includeTitle="false"> </div>  
 
 ### मण्डलाराधनम्
-<div class="js_include" url="../aMshaH/chakrAbja-maNDalArAdhanam.md"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" url="../aMshaH/chakrAbja-maNDalArAdhanam/"  newLevelForH1="3" includeTitle="false"> </div>  
 
 
 ### कलश-करके
