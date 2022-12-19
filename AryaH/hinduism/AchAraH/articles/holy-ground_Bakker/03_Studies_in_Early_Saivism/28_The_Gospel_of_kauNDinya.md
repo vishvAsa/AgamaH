@@ -9,7 +9,7 @@ Kuśika and the divine revelation
 
 When we speak of the gospel of Kauṇḍinya, we call forth an association with texts which describe the birth, life, and deeds of a saviour, texts which are meant to bring good news, an evangelium, into the world. This evocation is deliberate. As a tribute to Jan Bremmer’s life-long engagement, scholarly and otherwise, with gospels and kindred texts that have just failed to reach that status, I would like to show, that a text called ‘The Five Topics’, Pañcārtha, 
 
-which has the form of a commentary \( bhāṣya\) on the S¯utras of the Pāśupata
+which has the form of a commentary \( bhāṣya\) on the Sūtras of the Pāśupata
 
 school \(the Pāśupatasūtras \(PS\)\), resembles a gospel in many respects. Not
 

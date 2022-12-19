@@ -233,7 +233,7 @@ cette ville est appelée dans le Jambūdvīpaprajñapti \(I, p. 112\). La ville 
 
 logique de Viṇīyā ne peut être que l’Ayodhyā épique désignée sous un autre nom. Et vu que Sāketa était déjà connu dans le jainisme comme un des lieux sacrés, sanctifié par les séjours de Mahāvīra, 31 les jainas n’hésitèrent pas à con-
 
-fondre Viṇīyā, Ikkhāgabh¯umi, Aojjhā et Sāketa. Ce phénomène semble avoir eu lieu à la même période où les mythes de Rāma étaient incorporés dans la
+fondre Viṇīyā, Ikkhāgabhūmi, Aojjhā et Sāketa. Ce phénomène semble avoir eu lieu à la même période où les mythes de Rāma étaient incorporés dans la
 
 mythologie jaina, c’est-à-dire pendant les premiers siècles de l’ère chrétienne, ainsi qu’il est attesté pour la première fois dans le Paümacariya. 32
 

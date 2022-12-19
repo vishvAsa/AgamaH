@@ -35,11 +35,11 @@ The deceased king’s paraphernalia are given to the brahmins; the collected bon
 
 Hans Bakker
 
-in the form of a monument at \(the place of\) the funeral pyre made of a mass of bricks. 4 Finally the royal elephant is set loose and gradually the lamentations subside. The metaphor used by Bāṇa, ‘a stab of pain’ \( śokaśalya\)—the primary meaning of śalya  being ‘dart’—suggests that the monument had the form of a needle. 5 Such a monument seems to be known from the Sanskrit literature, viz. the Viṣṇudharmottarapurāṇa’s chapter on the so-called aiḍ¯uka. 
+in the form of a monument at \(the place of\) the funeral pyre made of a mass of bricks. 4 Finally the royal elephant is set loose and gradually the lamentations subside. The metaphor used by Bāṇa, ‘a stab of pain’ \( śokaśalya\)—the primary meaning of śalya  being ‘dart’—suggests that the monument had the form of a needle. 5 Such a monument seems to be known from the Sanskrit literature, viz. the Viṣṇudharmottarapurāṇa’s chapter on the so-called aiḍūka. 
 
 The aiḍūka of the Viṣṇudharmottarapurāṇa
 
-Viṣṇudharmottara 3.84.1–15 describes the aiḍ¯ukar¯upa  as followṣ6
+Viṣṇudharmottara 3.84.1–15 describes the aiḍūkarūpa  as followṣ6
 
 A structure is built of three \(receding\) square platforms \( bhadrapīṭha\), with steps on four sides. On the third platform a liṅgarūpa  is erected, but one not
 
@@ -55,15 +55,15 @@ On top of this is an āmalasāraka
 
 the liṅga \(i.e. on the square column?\) the four Lokapālas are situated, Virūḍha, 
 
-Dhr̥tarāṣṭra, Vir¯upākṣa, and Kubera, with lances \( ś¯ula\) in their hands, wearing armour and ornaments. 9 It is said that in this construction Virūḍha is
+Dhr̥tarāṣṭra, Virūpākṣa, and Kubera, with lances \( śūla\) in their hands, wearing armour and ornaments. 9 It is said that in this construction Virūḍha is
 
-Śakra, Dhr̥tarāṣṭra is Yama, Vir¯upākṣa is Varuṇa, and Kubera is Rājarāja. 
+Śakra, Dhr̥tarāṣṭra is Yama, Virūpākṣa is Varuṇa, and Kubera is Rājarāja. 
 
 This aiḍūka  is named ‘Prajāhita’; men who worship it obtain happiness and
 
 heaven after death. 
 
-Shah in her commentary emphasizes that this Aiḍ¯uka structure is not a particular deity but is designed to embody the whole universe. As to the names of the Lokapālas she remarks: ‘These are known to Buddhist mythology as the four Buddhist Yakṣas who do the work of the Lokapālaṣ’10 Shah assumes that 4 Harṣacarita \(HC\* 6 p. 300\): kalpitaśokaśalye sudhānicayacite citācaityacihne, which
+Shah in her commentary emphasizes that this Aiḍūka structure is not a particular deity but is designed to embody the whole universe. As to the names of the Lokapālas she remarks: ‘These are known to Buddhist mythology as the four Buddhist Yakṣas who do the work of the Lokapālaṣ’10 Shah assumes that 4 Harṣacarita \(HC\* 6 p. 300\): kalpitaśokaśalye sudhānicayacite citācaityacihne, which
 
 Śaṁkara glosses: citāyāṁcaityacihnas tadākāraṁcihnam, śmaśānadevagr̥ haṁvā |
 
@@ -107,7 +107,7 @@ and East, were represented, each one with two companions. Vogel, Indian Serpent-
 
 21 / Monuments to the Dead in Ancient North India 407
 
-the aiḍūka  of the VDhP is without ashes or bones and is therefore acceptable to be worshipped, whereas originally such monuments would have contained bones or relics. This plausible assumption as well as the naming of the four Buddhist Lokapālas strongly suggest that Buddhist examples lie at the root of the Purāṇa’s description of the aiḍ¯uka.11 We may add that the use of the word aiḍūka, instead of eḍūka, could also point to this, meaning ‘derived from/related to/of the nature of the eḍūka’, not the original \(Buddhist\) ‘ossuary’. 
+the aiḍūka  of the VDhP is without ashes or bones and is therefore acceptable to be worshipped, whereas originally such monuments would have contained bones or relics. This plausible assumption as well as the naming of the four Buddhist Lokapālas strongly suggest that Buddhist examples lie at the root of the Purāṇa’s description of the aiḍūka.11 We may add that the use of the word aiḍūka, instead of eḍūka, could also point to this, meaning ‘derived from/related to/of the nature of the eḍūka’, not the original \(Buddhist\) ‘ossuary’. 
 
 The
 
@@ -763,7 +763,7 @@ his wife Yaśodattā, who is called a novice nun \( śrāmaṇerī\). Patil and 
 
 \(category 3\), not yet carrying a picture; strictly speaking, they should be classified in our fourth category: funerary monuments without mortuary deposits. 
 
-On the other hand, although the term yaṣṭi  is used to refer to these steles, these monuments differ widely from the constructions composed of square and circular yaṣṭis  as described under the heading aiḍ¯uka  in the VDhP. 
+On the other hand, although the term yaṣṭi  is used to refer to these steles, these monuments differ widely from the constructions composed of square and circular yaṣṭis  as described under the heading aiḍūka  in the VDhP. 
 
 Aiḍūkas
 
@@ -801,7 +801,7 @@ Ahicchatra \(AC I\) during excavation \(1940–44\)
 
 The identification of this structure as an eḍūka  or aiḍūka, is open to doubṭ 
 
-Within the structure in AC I a few terracotta sculptured panels were found with depictions of Śaiva mythology, such as Gaṇas destroying Dakṣa’s sacrifice \(No. 298\), a ‘Bhairava’ figure \(No. 300\), and the so-called ‘Dakṣiṇām¯urti’ of Śiva \(No. 302b; below, Plate 149\), which are supposed to have decorated ‘a frieze running round its upper terrace’. 65 The aiḍūka  of the VDhP, on the
+Within the structure in AC I a few terracotta sculptured panels were found with depictions of Śaiva mythology, such as Gaṇas destroying Dakṣa’s sacrifice \(No. 298\), a ‘Bhairava’ figure \(No. 300\), and the so-called ‘Dakṣiṇāmūrti’ of Śiva \(No. 302b; below, Plate 149\), which are supposed to have decorated ‘a frieze running round its upper terrace’. 65 The aiḍūka  of the VDhP, on the
 
 64 V.s. Agrawala in Ancient India 4 \(1947–48\), 167. This identification has been taken over by several authors, among whom Shah in the ‘critical notes’ to her edition of the Third Khaṇḍa of the VDhP \(1994\), I p. 405. 
 
@@ -1497,7 +1497,7 @@ extremities by a moulded plinth and cyma, a basement with two tambours moulded 9
 
 21 / Monuments to the Dead in Ancient North India 437
 
-at the summit, and a cupola \( aṇḍa  or kumbha\) from the centre of which rises a short pole \( yaṣṭi\) supporting a single umbrella ‘disc’ in the form of a spheroidal vault, similar to the topmost element \( uṣṇīṣa\) of the st¯upa  itself. 92
+at the summit, and a cupola \( aṇḍa  or kumbha\) from the centre of which rises a short pole \( yaṣṭi\) supporting a single umbrella ‘disc’ in the form of a spheroidal vault, similar to the topmost element \( uṣṇīṣa\) of the stūpa  itself. 92
 
 De Marco argues laboriously that we are here concerned with a sort of Buddhist memorial, but his argument is not entirely convincing. It seems to me that the structure as such is non-denominational. Aside from a general resemblance with a stūpa, there are conspicuous resemblances with the aiḍūka  structure
 
@@ -1681,15 +1681,15 @@ evidence \[not available to this author\]—it was shown that the primary compon
 
 Appendix
 
-Aiḍ¯ukar¯upanirmāṇa
+Aiḍūkarūpanirmāṇa
 
 Viṣṇudharmottara 3.84.1–15 \(emended\)
 
 mārkaṇḍeya uvāca |
 
-aiḍ¯ukar¯upanirmāṇaṁśr̥ṇuṣva gadato mama |
+aiḍūkarūpanirmāṇaṁśr̥ṇuṣva gadato mama |
 
-aiḍ¯ukap¯ujanāt p¯ujā kr̥tāsya jagato bhavet k 1 k bhadrapīṭhaṁbudhah. kuryāt sopānaih. śobhanair yutam |
+aiḍūkapūjanāt pūjā kr̥tāsya jagato bhavet k 1 k bhadrapīṭhaṁbudhah. kuryāt sopānaih. śobhanair yutam |
 
 caturbhir yādavaśreṣṭha yathādiśam arindama k 2 k
 
@@ -1703,7 +1703,7 @@ na tu tatrāpi kartavyaṁliṅgaṁrekhāvirājitam k 4 k
 
 tasya madhye dhruvāṁyaṣṭiṁcaturasrāṁtu kārayet |
 
-tasyopariṣṭāt kartavyā bh¯umikās tu trayodaśa k 5 k tasyopariṣṭāt kartavyaṁtathaivāmalasārakam |
+tasyopariṣṭāt kartavyā bhūmikās tu trayodaśa k 5 k tasyopariṣṭāt kartavyaṁtathaivāmalasārakam |
 
 tasyopari punar yaṣṭih. kāryā rājan suvartulā k 6 k samārdhacandramadhyasthacandrakeṇa virājitā |
 
@@ -1715,17 +1715,17 @@ liṅgaṁmaheśvaro devo vr̥ttā yaṣṭih. pitāmahah. k 8 k
 
 caturasrā tu yā yaṣṭih. sā ca devo janārdanah. |
 
-guṇar¯upeṇa vij˜neyaṁbhadrapīṭhatrayaṁtathā k 9 k
+guṇarūpeṇa vij˜neyaṁbhadrapīṭhatrayaṁtathā k 9 k
 
 guṇādhānam iti proktaṁtrailokyaṁsacarācaram |
 
 adhastād bhuvanānāṁtu liṅgopari tathā nr̥pa k 10 k
 
-lokapālāś ca kartavyāh. ś¯ulahastāś caturdiśam |
+lokapālāś ca kartavyāh. śūlahastāś caturdiśam |
 
-virūḍho dhr̥tarāṣṭraś ca vir¯upākṣaś ca yādava k 11 k kuberaś ca mahātejāh. s¯uryaveśadharah. śubhah. |
+virūḍho dhr̥tarāṣṭraś ca virūpākṣaś ca yādava k 11 k kuberaś ca mahātejāh. sūryaveśadharah. śubhah. |
 
-sarve kavacinah. kāryāś śubhābharaṇabh¯uṣitāh. k 12 k virūḍhakaṁvijānīhi śakraṁdevagaṇeśvaram |
+sarve kavacinah. kāryāś śubhābharaṇabhūṣitāh. k 12 k virūḍhakaṁvijānīhi śakraṁdevagaṇeśvaram |
 
 dhr̥tarāṣṭraṁvijānīhi yamaṁbhuvananāyakam k 13 k
 
@@ -1733,9 +1733,9 @@ virūpākṣaṁvijānīhi varuṇaṁyādasāṁpatim |
 
 rājarājaṁvijānīhi kuberaṁdhanadaṁprabhum k 14 k
 
-aiḍ¯ukar¯upaṁkathitaṁmayaitat, prajāhitākhyaṁyaduvaṁśamukhya |
+aiḍūkarūpaṁkathitaṁmayaitat, prajāhitākhyaṁyaduvaṁśamukhya |
 
-aiḍ¯ukap¯ujāniratā labhante, sukhaṁmanuṣyā divi vāsam ante k 15 k
+aiḍūkapūjāniratā labhante, sukhaṁmanuṣyā divi vāsam ante k 15 k
 
 
 

@@ -19,9 +19,9 @@ On the other hand, there can be little doubt that Vedic imagination informed the
 
 found expression in the Sanskrit texts of early Hinduism. The confrontation of this textual evidence with the material images of the archaeologist is often perplexing, however̥ 
 
-An example of such a conundrum is the so-called Dakṣiṇām¯urti, mentioned in the Pāśupata texts, the Mahābhārata, and the later Śaiva literature of the
+An example of such a conundrum is the so-called Dakṣiṇāmūrti, mentioned in the Pāśupata texts, the Mahābhārata, and the later Śaiva literature of the
 
-Mantramārga. In this essay, we will examine the Vedic origins of the imagery of the Dakṣiṇām¯urti. This m¯urti  appears first and foremost to be an ideal image embedded in the ritual of initiatioṇ The Vedic upanayana  ceremony laid the structural foundations for the initiation rites of the later religious orders. The Dakṣiṇām¯urti appears to be a token of the theistic transformation of the Vedic imaginatioṇ It illustrates how literate Śaiva brahmins took the Hinduistic turṇ At first material images played, if at all, only a secondary role in this transformatioṇ However, in a religious world that was increasingly pervaded by material images of the divine, it was bound to happen that the visionary
+Mantramārga. In this essay, we will examine the Vedic origins of the imagery of the Dakṣiṇāmūrti. This mūrti  appears first and foremost to be an ideal image embedded in the ritual of initiatioṇ The Vedic upanayana  ceremony laid the structural foundations for the initiation rites of the later religious orders. The Dakṣiṇāmūrti appears to be a token of the theistic transformation of the Vedic imaginatioṇ It illustrates how literate Śaiva brahmins took the Hinduistic turṇ At first material images played, if at all, only a secondary role in this transformatioṇ However, in a religious world that was increasingly pervaded by material images of the divine, it was bound to happen that the visionary
 
 ∗ The first version of this article was published in Granoff, Phyllis & Koichi Shinohara \(edṣ\), Images in Asian Religions. Text and Contexts. UBCPress, Vancouver–Toronto, 2004. pp. 117–48. 
 
@@ -33,7 +33,7 @@ Mantramārga. In this essay, we will examine the Vedic origins of the imagery of
 
 Hans Bakker
 
-image became an archetype of visual representation, the Dakṣiṇām¯urti as an iconographic category. In this process, an essential characteristic of the vision of God as revealer was reinterpreted: His right side became interpreted as His southern face. The incongruity of this representation with the age-old religious idea of the south as being terrifying, inauspicious, 1 was to make a conundrum. 
+image became an archetype of visual representation, the Dakṣiṇāmūrti as an iconographic category. In this process, an essential characteristic of the vision of God as revealer was reinterpreted: His right side became interpreted as His southern face. The incongruity of this representation with the age-old religious idea of the south as being terrifying, inauspicious, 1 was to make a conundrum. 
 
 The sitting position of teacher and pupil in the Vedic Upanayana ritual
 
@@ -107,7 +107,7 @@ brūyād bulbáṁnv ā
 
 će samī
 
-́kṣamāṇāyāńubr¯uyāt  k 14 k
+́kṣamāṇāyāńubrūyāt  k 14 k
 
 Now some recite \(to the pupil\) while the latter is standing or sitting at the right side \(of the teacher\). One should not do so. One would be able to say to him in that case:
 
@@ -193,11 +193,11 @@ The Śatapathabrāhmaṇa does itself refer to earlier modalities of the ritual 
 
 with the year \(Gonda 1984\). 
 
-The Gr̥hyas¯utras
+The Gr̥hyasūtras
 
 The two traditions indicated briefly in the Śatapathabrāhmaṇa can be followed
 
-in the Gr̥hyas¯utra literature. As one would expect, the only Gr̥hyas¯utra that 8 Gonda 1980, 54 gives a confusing rendering of this position: On the other hand, the brahman \(priest\) is placed or sits south. . . . The same  position is prescribed to the boy who is to be initiated before a girdle is tied round his waist, which is to protect him against evil influences. 
+in the Gr̥hyasūtra literature. As one would expect, the only Gr̥hyasūtra that 8 Gonda 1980, 54 gives a confusing rendering of this position: On the other hand, the brahman \(priest\) is placed or sits south. . . . The same  position is prescribed to the boy who is to be initiated before a girdle is tied round his waist, which is to protect him against evil influences. 
 
 The boy is not said to sit in or face the south, but to sit at the right side of the teacher̥ 
 
@@ -231,7 +231,7 @@ after a shorter period as specified in the following paragraphs\).
 
 belongs, like the Śatapathabrāhmaṇa, to the White Yajurveda, the Pāraskara-
 
-gr̥hyas¯utra, follows the accepted tradition of the Brāhmaṇa, though it mentions the alternative. The place where the teaching takes place is specified: north of the sacrificial fire. 
+gr̥hyasūtra, follows the accepted tradition of the Brāhmaṇa, though it mentions the alternative. The place where the teaching takes place is specified: north of the sacrificial fire. 
 
 After \(the pupil\) has made a pradakṣiṇa  around the fire he takes his seaṭ The teacher, touched \(by the pupil\), pours oblations of ghee into the fire; when the remains have been eaten, he instructs him: ‘You are a brahmacārin, drink water, 
 
@@ -239,9 +239,9 @@ do your service, may you not sleep in the daytime, restrain your speech, put fue
 
 fire, while \(the pupil\) is sitting near him with his face turned west, looking \(at him\) and being looked aṭ Some: ‘to him while standing or sitting to his right side’. 12
 
-The Gr̥hyas¯utras of the r̥gveda, the āśvalāyana- and Śāṅkhāyanagr̥hyas¯utras, 
+The Gr̥hyasūtras of the r̥gveda, the āśvalāyana- and Śāṅkhāyanagr̥hyasūtras, 
 
-although different in details and sequence, seem basically to follow the accepted tradition of the White Yajurveda with regard to the place of teaching, to the north of the fire, and the vis-à-vis position of teacher and pupil. 13 The same goes for the Gobhilagr̥hyas¯utra of the Sāmaveda.14
+although different in details and sequence, seem basically to follow the accepted tradition of the White Yajurveda with regard to the place of teaching, to the north of the fire, and the vis-à-vis position of teacher and pupil. 13 The same goes for the Gobhilagr̥hyasūtra of the Sāmaveda.14
 
 12 PārGS 2.3.1–5:
 
@@ -399,9 +399,9 @@ Hans Bakker
 
 The other tradition, rejected in the Śatapathabrāhmaṇa, we find in some
 
-Gr̥hyas¯utras affiliated with the Black Yajurveda, though not in all.15 For an assessment of the upanayana  ritual according to this tradition, we turn to the elaborate description in the Bhāradvājagr̥hyas¯utra. Its procedure may be epit-
+Gr̥hyasūtras affiliated with the Black Yajurveda, though not in all.15 For an assessment of the upanayana  ritual according to this tradition, we turn to the elaborate description in the Bhāradvājagr̥hyasūtra. Its procedure may be epit-
 
-omized \(with cross-references to the Hiraṇyakeśigr̥hyas¯utra\). 
+omized \(with cross-references to the Hiraṇyakeśigr̥hyasūtra\). 
 
 The teacher prepares for the homa  sacrifice by consecrating the implements etc. \(BhGS 1.3\). He prepares west of the sacrificial fire a seat of grass \( kūrca\), 
 
@@ -497,7 +497,7 @@ Then the pupil makes a pradakṣiṇa  around the fire, takes his seat at the ri
 
 the teacher is seated is not again specified, but presumably he is still seated west of the fire facing east, that is the place where he performed the homa sacrifice, took the interview accompanied by the añjalis, and consigned the
 
-pupil to Prajāpati etc. This is corroborated by the Hiraṇyakeśigr̥hyas¯utra.19
+pupil to Prajāpati etc. This is corroborated by the Hiraṇyakeśigr̥hyasūtra.19
 
 The sitting position of the preceptor and his audience Veda study is of course not restricted to the brahmacāriṇ Outside the village, 
 
@@ -505,7 +505,7 @@ retreated into the wilderness \( araṇya\), brahmins devoted themselves to stud
 
 and, if they became known for their learnedness, attracted students. In this way we conceive of the origin of the different Upaniṣad teaching traditions and of other early Indian schools of philosophy \(above, p. 230\). The subject of study and teaching may have changed accordingly, but the setting is traditional and had a long life. We find such an idyllic setting, for instance, in the Śāṅkhāyana-
 
-gr̥hyas¯utra, where it describes ‘the rules for the forest-dweller regarding his \(Veda\) study’. 20
+gr̥hyasūtra, where it describes ‘the rules for the forest-dweller regarding his \(Veda\) study’. 20
 
 For this study \( svādhyāya\) the forest-dwellers should go to a pure spot in the northeast that is open at the eastern side. The site is circular or marked by a circle with an entrance to the east or the north. After some preliminary rites, they may take up their studies. 21
 
@@ -573,7 +573,7 @@ Hans Bakker
 
 teacher\), according to rank; if this is impossible \(i.e., if there is not enough space\) they may face all directions. They should wait for the rising of the suṇ And when they have seen it \(rise\) in all its splendour, they say: ‘Sir, recite’, while touching with their right and left hands the hallowed feet of the teacher—his right \(foot\) with their right, his left \(foot\) with their left hands. 22
 
-The Śāṅkhāyanagr̥hyas¯utra, which, as we have seen, agreed with the tradition of the White Yajurveda in opting for the face-to-face position of teacher and pupil north of the sacrificial fire in the upanayana  ritual \(see above ṇ 13 on p. 509\), reserved the alternative position, in which the student sits at the right side of the teacher facing north, for the traditional school of the hermitage. 
+The Śāṅkhāyanagr̥hyasūtra, which, as we have seen, agreed with the tradition of the White Yajurveda in opting for the face-to-face position of teacher and pupil north of the sacrificial fire in the upanayana  ritual \(see above ṇ 13 on p. 509\), reserved the alternative position, in which the student sits at the right side of the teacher facing north, for the traditional school of the hermitage. 
 
 It is to be expected that this time-honoured traditional setting of religious education may be met again in the Mahābhārata. The practice to stand with
 
@@ -587,7 +587,7 @@ called “Pāśupata”, by which god Maheśvara killed all the Daityas in battl
 
 However, I have not found in the Mahābhārata an exact parallel of the situation
 
-described in the Śāṅkhāyanagr̥hyas¯utra, in which the position of the audience is specified. 
+described in the Śāṅkhāyanagr̥hyasūtra, in which the position of the audience is specified. 
 
 The sitting position of guru and novice in early Śaiva initiation ritual
 
@@ -643,7 +643,7 @@ Initiation in the Pāśupata tradition
 
 The earliest text of a Śaiva order that we have is the Pāśupatasūtra with the
 
-commentary of Kauṇḍinya. The initiation in the order is briefly described by Kauṇḍinya when he explains the future tense used in the first S¯utra \( vyākhyāsyāmaḥ , ‘we shall expound’\). 
+commentary of Kauṇḍinya. The initiation in the order is briefly described by Kauṇḍinya when he explains the future tense used in the first Sūtra \( vyākhyāsyāmaḥ , ‘we shall expound’\). 
 
 ‘Shall’ \( syā\) refers to the time required, namely the time that is required \(before the exposition can begin\) by the ācārya, to consecrate a brahmin at
 
@@ -771,7 +771,7 @@ physical object of veneratioṇ This connotation underlies the T
 
 of the daily worship of the initiated Pāśupata, who, after his bath in ashes, 
 
-enters slowly the sanctum. Then he falls to his knees on a spot to the right of the image \( mūrtidakṣiṇe bh¯upradeśe\), makes an añjali  before his heart, and looks at
+enters slowly the sanctum. Then he falls to his knees on a spot to the right of the image \( mūrtidakṣiṇe bhūpradeśe\), makes an añjali  before his heart, and looks at
 
 Śiva in the image as if He were there in His very person, and which means that, 
 
@@ -833,19 +833,19 @@ an idea we also find in the following passage of the Southern Recension of the M
 
 The holy man who has reached Me \(i.e. Vāsudeva\) fixes himself upon My
 
-body \( mūrti\), or on Rudra’s Dakṣiṇ\(ā\)m¯urti, especially on the fourteenth \( tithi\). He, the great ascetic, while he is venerated by Siddhas, Brahmarṣis and celestial folk, and while his praises are sung by Gandharvas and choirs of Bhūtas, he of great splendour enters either Me or Śaṁkara. 31
+body \( mūrti\), or on Rudra’s Dakṣiṇ\(ā\)mūrti, especially on the fourteenth \( tithi\). He, the great ascetic, while he is venerated by Siddhas, Brahmarṣis and celestial folk, and while his praises are sung by Gandharvas and choirs of Bhūtas, he of great splendour enters either Me or Śaṁkara. 31
 
 We thus observe that the term mūrti  in the Pāśupata context on the one hand
 
-refers to the ‘image’ \(meaning bodily manifestation\) and, on the other hand, when used in the locative \(or when the locative is meant\), refers to ‘a particular spot near the image’, that is not to the image itself. Both meanings are, as we will argue, comprehended by the technical term dakṣiṇām¯urti, literally ‘south-ward/rightward image/body/figure’. 
+refers to the ‘image’ \(meaning bodily manifestation\) and, on the other hand, when used in the locative \(or when the locative is meant\), refers to ‘a particular spot near the image’, that is not to the image itself. Both meanings are, as we will argue, comprehended by the technical term dakṣiṇāmūrti, literally ‘south-ward/rightward image/body/figure’. 
 
 This term is explained by Kauṇḍinya
 
-when he comments on Pāśupatasūtra 1.9: mahādevasya dakṣiṇām¯urteh. |
+when he comments on Pāśupatasūtra 1.9: mahādevasya dakṣiṇāmūrteh. |
 
 ‘Of the God’ \(◦ devasya\) is a genitive. This is a syntactic feature that expresses the relationship of owner and property; it signifies possession/ grace \( parigraha\) only. 
 
-‘Southern’ \( dakṣiṇā◦\) in the S¯utra is in the sense of a specific point of the compass. 
+‘Southern’ \( dakṣiṇā◦\) in the Sūtra is in the sense of a specific point of the compass. 
 
 The sun divides the quarters and the quarters divide the mūrti. 
 
@@ -895,7 +895,7 @@ janti |
 
 26 / At the Right Side of the Teacher 517
 
-For the initiated Pāśupata like Kauṇḍinya the term dakṣiṇām¯urti  thus seems rather to refer to a situation or state than to a particular ‘image’, namely the state in which God appears to him who sits or stands at His right side and sees Him in front of him \(for instance in the temple image\). It is the situation in which Śiva reveals himself ‘towards him who is at His right side’ \( dakṣiṇā\),33
+For the initiated Pāśupata like Kauṇḍinya the term dakṣiṇāmūrti  thus seems rather to refer to a situation or state than to a particular ‘image’, namely the state in which God appears to him who sits or stands at His right side and sees Him in front of him \(for instance in the temple image\). It is the situation in which Śiva reveals himself ‘towards him who is at His right side’ \( dakṣiṇā\),33
 
 namely, by turning His auspicious, gracious side towards him who is facing north—the sitting position of the novice since Vedic times. 
 
@@ -903,7 +903,7 @@ The strength of this tradition obviously rests on the religious idea of the righ
 
 ‘unto them on his right hand’. It happens to the blessed ones in His proximity, that is in heaven on the Himavat, and as such to the initiated Pāśupata in his
 
-yoga  with God, who may be represented either by the image or by the guru. In sum, the Pāśupata Dakṣiṇām¯urti is a state in which God reveals one quarter of Himself, the form to which He grants access, i.e. yoga; it is Śiva’s figure of grace. 34
+yoga  with God, who may be represented either by the image or by the guru. In sum, the Pāśupata Dakṣiṇāmūrti is a state in which God reveals one quarter of Himself, the form to which He grants access, i.e. yoga; it is Śiva’s figure of grace. 34
 
 In spite of the use of the word mukha, used here in figurative sense, I think the Śvetāsvatara Upaniṣad 4.21 expresses this very idea:
 
@@ -1001,7 +1001,7 @@ image’ \( mūrti\) of Mahādeva, a designation that for the initiate is true o
 
 The definition of God’s figure of grace
 
-The concept of dakṣiṇām¯urti  thus comprises the manifested form \( r¯upa\) of God, the \(physical\) image or body \( mūrti\) in which it may be envisaged, and
+The concept of dakṣiṇāmūrti  thus comprises the manifested form \( rūpa\) of God, the \(physical\) image or body \( mūrti\) in which it may be envisaged, and
 
 the right side \( dakṣiṇe pārśve\), which indicates the Pāśupata’s position with respect to Mahādeva and his embodimenṭ As such the term is applicable to every situation in which the Pāśupata enters into contact with his object of
 
@@ -1009,7 +1009,7 @@ worship. And this appears to have been the intention of the author of the Pāśu
 
 . īkā seems to have done: upahārasūtra, above, p. 514\): ‘He should worship with
 
-offerings of laughter, singing, dancing, bellowing, obeisance, and muttering to the figure of grace \( dakṣiṇām¯urti\) of Mahādeva.’37 The same idea underlies the Ratnaṭīkā, where it says that the Pāśupata should consecrate the ashes with mantras in the temple ‘at Śiva’s Dakṣiṇām¯urti’,38 or the Skandapurāṇa when it advises that one should offer rice pudding with ghee at the ‘southern mūrti’
+offerings of laughter, singing, dancing, bellowing, obeisance, and muttering to the figure of grace \( dakṣiṇāmūrti\) of Mahādeva.’37 The same idea underlies the Ratnaṭīkā, where it says that the Pāśupata should consecrate the ashes with mantras in the temple ‘at Śiva’s Dakṣiṇāmūrti’,38 or the Skandapurāṇa when it advises that one should offer rice pudding with ghee at the ‘southern mūrti’
 
 during one year in order to become like Nandiṇ 39
 
@@ -1071,17 +1071,17 @@ a Karmadhāraya compound. However, when dissolved, the original use of the adver
 
 26 / At the Right Side of the Teacher 519
 
-represents Śiva \(as the ācārya  represents Agni in the upanayana\). In fact, it appears most likely that the concept of dakṣiṇām¯urti  originated from this ritual in which Śiva as supreme teacher reveals himself. To this primordial figure—a god who is facing towards the east, but who confers his blessings, that is his ‘right’ side, on his creatures, be they gods, Siddhas, or worshippers in Bhāratavarṣa—the pseudo-Śaṁkara pays homage:
+represents Śiva \(as the ācārya  represents Agni in the upanayana\). In fact, it appears most likely that the concept of dakṣiṇāmūrti  originated from this ritual in which Śiva as supreme teacher reveals himself. To this primordial figure—a god who is facing towards the east, but who confers his blessings, that is his ‘right’ side, on his creatures, be they gods, Siddhas, or worshippers in Bhāratavarṣa—the pseudo-Śaṁkara pays homage:
 
-tasmai śrīgurumūrtaye nama idaṁśrīdakṣiṇām¯urtaye  k
+tasmai śrīgurumūrtaye nama idaṁśrīdakṣiṇāmūrtaye  k
 
 This obeisance is to Him who has the form of the illustrious teacher, to the illustrious figure of grace. 40
 
 The Dakṣiṇāmūrti and iconography
 
-Having thus established the original meaning of Dakṣiṇām¯urti, we may proceed to its current iconographic denotatioṇ 
+Having thus established the original meaning of Dakṣiṇāmūrti, we may proceed to its current iconographic denotatioṇ 
 
-Among the earliest texts that describe the dakṣiṇām¯urti  in iconographic terms may be the two Upajāti verses that are quoted by Gopinatha Rao, which
+Among the earliest texts that describe the dakṣiṇāmūrti  in iconographic terms may be the two Upajāti verses that are quoted by Gopinatha Rao, which
 
 he ascribed to the Viṣṇudharmottarapurāṇa, but which are not found in the printed text of that name. 
 
@@ -1089,13 +1089,13 @@ His right \(lower\) hand shows the \( jñāna\) mudrā and in his \(right\) uppe
 
 he \(holds\) a white rosary; in his left \(lower hand\) he is holding a book comprising all the āgamas and more, and with his upper \(left hand\) he holds the cup with nectar̥ 
 
-He is seated on a white lotus, his colour is white, powerful, with white cloth and ointment, and crowned by the crescent, teaching knowledge to the sages: that is what they call his Dakṣiṇām¯urti. 41
+He is seated on a white lotus, his colour is white, powerful, with white cloth and ointment, and crowned by the crescent, teaching knowledge to the sages: that is what they call his Dakṣiṇāmūrti. 41
 
 On this and other, predominantly late South-Indian texts Rao based his description, which was repeated without any significant change by almost all later indological writing on this subjecṭ It may be significant to note, though, that in the above passage the southern orientation of the image is not mentioned. 
 
 To substantiate his view, however, Rao wrote:
 
-One account gives an explanation regarding the etymology of this name; it states that because Śiva was seated **facing **south when he taught the r̥ishis y¯oga  and jñāna  he came to be known as Dakshiṇām¯urti. This aspect of Śiva is always invoked by students of science and arts. 42
+One account gives an explanation regarding the etymology of this name; it states that because Śiva was seated **facing **south when he taught the r̥ishis y¯oga  and jñāna  he came to be known as Dakshiṇāmūrti. This aspect of Śiva is always invoked by students of science and arts. 42
 
 40 ṭM.P. Mahadevan \(1980\), The Hymns of Śa ˙
 
@@ -1121,7 +1121,7 @@ jñānaṁmunibhyaḥ pratipādayantaṁtaṁdakṣin
 
 Hans Bakker
 
-Unfortunately, however, we are not informed about this ‘account’, 43 but Rao, without any doubt, was following an Indian iconographic convention, which prescribes ‘that in all Hindu temples, both Śaiva and Vaishṇava, the niche on the south wall of the central shrine should have the figure of Dakshiṇām¯urti enshrined in it’. 44 Bruce Long, who devoted an article to the subject, relied heavily on Rao, but he put his finger on the problem, when he professed that he was puzzled, 
+Unfortunately, however, we are not informed about this ‘account’, 43 but Rao, without any doubt, was following an Indian iconographic convention, which prescribes ‘that in all Hindu temples, both Śaiva and Vaishṇava, the niche on the south wall of the central shrine should have the figure of Dakshiṇāmūrti enshrined in it’. 44 Bruce Long, who devoted an article to the subject, relied heavily on Rao, but he put his finger on the problem, when he professed that he was puzzled, 
 
 As to why the southern direction, which is believed almost everywhere in India to be sinister and inauspicious, should in this instance be evaluated as auspicious and benigṇ 
 
@@ -1131,9 +1131,9 @@ Although I shall not deny that considerations such as the above may have played 
 
 Part of the original meaning was retained—Śiva as the source of knowledge—
 
-part of it was reinterpreted, namely, the direction God faces when expounding His wisdom: His ‘right side’ became his ‘southern face’. The southern temple walls were consequently thought most suitable for showing images of Śiva in his role of teacher̥ 46 Thus the dakṣiṇām¯urti  entered the textbooks of Indian architecture, for instance the Mayamata, which divided Kauṇḍinya’s vision into two. 
+part of it was reinterpreted, namely, the direction God faces when expounding His wisdom: His ‘right side’ became his ‘southern face’. The southern temple walls were consequently thought most suitable for showing images of Śiva in his role of teacher̥ 46 Thus the dakṣiṇāmūrti  entered the textbooks of Indian architecture, for instance the Mayamata, which divided Kauṇḍinya’s vision into two. 
 
-A chacun des paliers des temples il faut disposer aux points cardinaux des \(images des\) dieux. Au rez-de-chaussée on place à l’Est les deux guardiens de la porte, Nandi et Kāla; au Sud c’est la Dakṣiṇām¯urti, à l’Ouest Acyuta ou Liṅgasambh¯uta et au Nord Pitāmaha. 47
+A chacun des paliers des temples il faut disposer aux points cardinaux des \(images des\) dieux. Au rez-de-chaussée on place à l’Est les deux guardiens de la porte, Nandi et Kāla; au Sud c’est la Dakṣiṇāmūrti, à l’Ouest Acyuta ou Liṅgasambhūta et au Nord Pitāmaha. 47
 
 43 I could not find this ‘account’ in the texts at issue presented in Rao’s Appendix B \(II.2, pp. 137–146\). 
 
@@ -1165,9 +1165,9 @@ gesture, or because he sits alongside a pupil, is identifiable as the supreme te
 
 The transition of 1 to 2 calls forth the ‘incongruity’. 
 
-This incongruity may be considered to have been solved when the image of the Dakṣiṇām¯urti began to evolve an autonomy of its own, next to and independent of that of Aghora/Bhairava. Given the fact that the central image in the garbhagr̥ha  is orientated towards the east, the image at the southern wall may be seen as an original ‘visualisation’ of the right side, expressing one aspect of the god enshrined, from whom it became spatially detached. Buddhist influences \(e.g. the deer at Śiva’s feet, the tree above his head\) are discernible in this process of iconographic compositioṇ 48
+This incongruity may be considered to have been solved when the image of the Dakṣiṇāmūrti began to evolve an autonomy of its own, next to and independent of that of Aghora/Bhairava. Given the fact that the central image in the garbhagr̥ha  is orientated towards the east, the image at the southern wall may be seen as an original ‘visualisation’ of the right side, expressing one aspect of the god enshrined, from whom it became spatially detached. Buddhist influences \(e.g. the deer at Śiva’s feet, the tree above his head\) are discernible in this process of iconographic compositioṇ 48
 
-The genesis of the iconic representation of the teaching Śiva thus ended with his ‘banishment’ outside the cultic sphere. The idea of the guru as the locus \( sthāna\) or support of the divinity was transferred onto the central cult object in the sanctum, the liṅga. Therewith the Dakṣiṇām¯urti on the southern outer temple wall lost its original ritual setting. It became part of the iconographic programme of the Śiva temple. 
+The genesis of the iconic representation of the teaching Śiva thus ended with his ‘banishment’ outside the cultic sphere. The idea of the guru as the locus \( sthāna\) or support of the divinity was transferred onto the central cult object in the sanctum, the liṅga. Therewith the Dakṣiṇāmūrti on the southern outer temple wall lost its original ritual setting. It became part of the iconographic programme of the Śiva temple. 
 
 The process of transformation from cult concept into an iconic image seems to have been completed \(in South India at least\) by the tenth century \(i.e. 
 
@@ -1255,9 +1255,9 @@ teaching Śiva is facing, if the image or̥ i: Dakṣin
 
 relief is no longer part of a spatial con-
 
-struction or has been reemployed. It may even be doubted, whether our moment 1 is an historic reality at all; possibly, the teaching Śiva, the Dakṣiṇām¯urti as an iconographic category, was from the beginning conceived of as facing the south. 
+struction or has been reemployed. It may even be doubted, whether our moment 1 is an historic reality at all; possibly, the teaching Śiva, the Dakṣiṇāmūrti as an iconographic category, was from the beginning conceived of as facing the south. 
 
-A Dakṣiṇām¯urti on a crossbar found in Nagarī
+A Dakṣiṇāmūrti on a crossbar found in Nagarī
 
 To conclude I wish to present an image that may alleviate our doubts somewhaṭ 
 
@@ -1405,13 +1405,13 @@ Long ago, O Dakṣa, the Pāśupata yoga  was created by me: that \( tat, scil. 
 
 In other words: Mahādeva instructs/initiates Dakṣa in the Pāśupata observance; this is the boon that will lead him eventually to the end of suffering \( duḥ khānta\), the Pāśupata yoga  or union with God. 
 
-In view of the material discussed in the present article, it is obvious to see in the first panel from the right on the lintel \(Plate 116; cf. Plate 156\) an example of a Dakṣiṇām¯urti. If we assume that the toraṇa  was facing east and that this is the obverse side of the lintel, Maheśvara, accompanied by his wife, 55 sits facing east, leaning towards the right, where his suppliant sits on his knees, facing north. 
+In view of the material discussed in the present article, it is obvious to see in the first panel from the right on the lintel \(Plate 116; cf. Plate 156\) an example of a Dakṣiṇāmūrti. If we assume that the toraṇa  was facing east and that this is the obverse side of the lintel, Maheśvara, accompanied by his wife, 55 sits facing east, leaning towards the right, where his suppliant sits on his knees, facing north. 
 
 This interpretation is corroborated by our later study of the crossbar̥ However, although the two panels to the left \(above, p. 524\) initially suggested that the suppliant in question might be King Dakṣa \(Bakker 2004c, 133\), there are good reasons to reconsider this interpretation and to see in the person who receives instruction, not Dakṣa, but Arjuna.56
 
 Plate 116
 
-Nagarī: a Dakṣiṇām¯urti
+Nagarī: a Dakṣiṇāmūrti
 
 \(cf. MBh 13.17.18\). Yoga in the Pāśupata system is defined by Kauṇḍinya ad  PS 1.1
 
@@ -1437,6 +1437,6 @@ It thus appears that the central theme of both sides of the crossbar is the acqu
 
 and the procurement of the Pāśupata weapoṇ The toraṇa  may have stood at
 
-the entrance of a Pāśupata temple. The depiction of the instruction scene, the Dakṣiṇām¯urti or Śiva’s figure of grace, would therefore be appropriate, if our analysis is correcṭ 
+the entrance of a Pāśupata temple. The depiction of the instruction scene, the Dakṣiṇāmūrti or Śiva’s figure of grace, would therefore be appropriate, if our analysis is correcṭ 
 
 

@@ -899,7 +899,7 @@ concludes that, whatever might have been meant by the expression, it had nothing
 
 Regarding the second criterium, A. M. Shastri, following Sankaranarayanan 1977, argued that the father of Tīvaradeva’s nephew’s wife Vāsaṭā, Prince
 
-\( nr̥pa\) S¯uryavarman, who is said to belong to a family of Varmans that had attained sovereignty over Magadhā, 57 has nothing to do with the homonymous
+\( nr̥pa\) Sūryavarman, who is said to belong to a family of Varmans that had attained sovereignty over Magadhā, 57 has nothing to do with the homonymous
 
 Maukhari prince, son of Īśānavarman, who is known from the Haraha Inscrip-
 

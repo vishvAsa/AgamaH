@@ -101,7 +101,7 @@ This distinguishes the Śibis of Nagarī from those of the Punjab. Bhandarkar \(
 
 of Nagarī and also the district around it’. 4
 
-Five inscriptions have been reportedly found in Nagarī and surroundings, one of them is the famous Ghoṣ¯uṇḍī Well Stone Inscription,5 recording the establishment of a stone enclosure around the Nārāyaṇa Vāṭikā, which was dedicated
+Five inscriptions have been reportedly found in Nagarī and surroundings, one of them is the famous Ghoṣūṇḍī Well Stone Inscription,5 recording the establishment of a stone enclosure around the Nārāyaṇa Vāṭikā, which was dedicated
 
 to the two gods Saṁkarṣaṇa and Vāsudeva. The site of this Vāṭikā has been
 
@@ -117,7 +117,7 @@ and Dāsa, and thus testifies to a Viṣṇu temple, established at or near the 
 
 time Western Mālava was under control of the feudatory Early Aulikara prince \( nr̥pati\) Viśvavarman, who was ruling from Daśapura \(Mandasor\), c. 100 km to the south of Nagarī. 8
 
-Some fragments belonging to the Gupta period were discovered by Bhandarkar in the area: two capitals of pillars with addorsed lions and bulls \(in the Kaṅkālī Mātā shrine in Nagarī village\). Other pillars and images were found c. 4 km southeast of Nagarī at the shrine of Sāḍ¯u Mātā.9
+Some fragments belonging to the Gupta period were discovered by Bhandarkar in the area: two capitals of pillars with addorsed lions and bulls \(in the Kaṅkālī Mātā shrine in Nagarī village\). Other pillars and images were found c. 4 km southeast of Nagarī at the shrine of Sāḍū Mātā.9
 
 One more inscribed stone relevant to our present discussion was found in Chittorgarh in 1959, ‘while clearing debris in the fort area’. This stone, containing two brief fragmentary, but related inscriptions, was published by Sircar 4 Bhandarkar 1920, 123 f. 
 
@@ -329,11 +329,11 @@ The full length of the architrave must have measured about 4 metres, but the sou
 
 The iconography of the eastern face of the architrave, seen by visitors when they entered the temple complex, has been discussed in Bakker 2004c, 131–
 
-34, in particular its panel at the northern end, which, it was argued \(above, p. 525\), contained a Dakṣiṇām¯urti. The latter interpretation still stands, but the person who is instructed in this mūrti  has to be reconsidered. 
+34, in particular its panel at the northern end, which, it was argued \(above, p. 525\), contained a Dakṣiṇāmūrti. The latter interpretation still stands, but the person who is instructed in this mūrti  has to be reconsidered. 
 
 At the time Bakker worked from a photograph kindly sent to him by Joanna Williams, which he re-published. 20 Williams \(1982, 141\) had observed that:
 
-‘The subjects of the reverse \[i.e. eastern face\] of this same crossbar remain to be identifieḍ’ In a letter to Bakker she added to this that she wondered ‘whether the scene at the left end of this face might not represent the destruction of Dakṣa’s sacrifice’.21 Bakker \(2004, 132 ff.\) accepted this suggestion and interpreted the Dakṣiṇām¯urti scene as representing the initiation of King Dakṣa in the Pāśupatavrata. 
+‘The subjects of the reverse \[i.e. eastern face\] of this same crossbar remain to be identifieḍ’ In a letter to Bakker she added to this that she wondered ‘whether the scene at the left end of this face might not represent the destruction of Dakṣa’s sacrifice’.21 Bakker \(2004, 132 ff.\) accepted this suggestion and interpreted the Dakṣiṇāmūrti scene as representing the initiation of King Dakṣa in the Pāśupatavrata. 
 
 The present revision of this interpretation has been prompted by a visit to the excavation site at Nagarī by Bakker and Bisschop and a study of the architrave in the field \(15 January 2016\). For it turned out that the panel at the southern end \(E 1\), although incomplete since it has broken off at one-third, 19 Bhandarkar 1920, 139 thinks that ‘enough has been recovered to show that each broader side was originally divided into nine panels \[including garland bearers\]’. Bhandarkar’s reconstruction in Plate XXIII shows that he conjectures that one complete panel plus garland bearer is missing at the southern end. In view of the turn of the torsion between the third and fourth panels \(E 3–4, W 3–4\), we think this is less likely. An argument against our assumption, as voiced by Véronique Degroot, is that the architrave panels show alternating indentation and protrusion: panels E 2/W 5, E 4/W 3 and \(northern-most\) E 6/W 1 are protruding and so, assuming symmetry, one might expect a southern-most panel to be protruding as well. Another argument, however, against a missing 7th panel, in addition to the change in torsion, seems to be that the breaking point in the southern-most panel \(E 1/W 6\) corresponds with the crack in the northern-most panel \(E 6/W 1\), the positions where the architrave supposedly rested on its two posts. The collapse of the toraṇa  thus seems to have taken place by a break in the middle and at the two junctures. Six panels on each side makes sense according to the iconographical analysis offered in this article. If a 7th, lost panel was originally part of the architrave, the iconography of panels E 1 and W 6 that we conjecture may have been divided, broadly speaking, over two panels. 
 
@@ -475,7 +475,7 @@ Gaṅgā found in Ahicchatra \(Plates 147, 148\). This pūrṇakalaśa  carried 
 
 raised palm of the hand symbolizes vitality and natural growth. And although the Devadāruvana myth is all about life, growth and natural reproduction, depictions of this myth in which Śiva carries a vase are not known to us. 28
 
-Another terracotta piece found in Ahicchatra may be considered in this connectioṇ It has been described by Agrawala and Banerjea as a panel depicting a Śiva Dakṣiṇām¯urti \(Plate 149\),29 an identification that is, however, untenable in our understanding of a Dakṣiṇām¯urti \(Bakker 2004c\). This panel shows 27 Photo courtesy National Museum New Delhi. [http://www.nationalmuseumindia.gov. ](http://www.nationalmuseumindia.gov.in/prodCollectionṣasp?pid=24&id=2&lk=dp2)
+Another terracotta piece found in Ahicchatra may be considered in this connectioṇ It has been described by Agrawala and Banerjea as a panel depicting a Śiva Dakṣiṇāmūrti \(Plate 149\),29 an identification that is, however, untenable in our understanding of a Dakṣiṇāmūrti \(Bakker 2004c\). This panel shows 27 Photo courtesy National Museum New Delhi. [http://www.nationalmuseumindia.gov. ](http://www.nationalmuseumindia.gov.in/prodCollectionṣasp?pid=24&id=2&lk=dp2)
 
 [in/prodCollectionṣasp?pid=24&id=2&lk=dp2 ](http://www.nationalmuseumindia.gov.in/prodCollectionṣasp?pid=24&id=2&lk=dp2)\(accessed 17-5-2016\). 
 
@@ -685,7 +685,7 @@ will enable Arjuna to reach his goal. This is the lesson that the seers on earth
 
 Plate 156
 
-Sixth panel from the left \(E 6\): a Dakṣiṇām¯urti This panel shows Śiva facing east, with Pārvatī to his lefṭ The necklace and
+Sixth panel from the left \(E 6\): a Dakṣiṇāmūrti This panel shows Śiva facing east, with Pārvatī to his lefṭ The necklace and
 
 headdress are the same as that of Yogeśvara in the fourth panel \(E 4\). And the twisted locks of hair falling from under a crown-like headgear with ornament 38 MBh 3.38.9–10:
 
@@ -727,7 +727,7 @@ identifies the figure to Śiva’s right \( dakṣiṇā\), towards whom he slig
 
 of figure stands behind him, bending the hero’s arms behind his back by his front hands, or so it seems; his right back hand sticks up holding something above his head, whereas the contour of his raised left back arm is only vaguely visible. We will discuss below who this four-armed helper of Śiva could be. 
 
-As we have argued earlier, this panel \(E 6\) shows a Dakṣiṇām¯urti in the original meaning of the term \(Bakker 2004c, 132 f.; above, p. 525\). The neophyte who is instructed or initiated in the Pāśupata doctrine is not Dakṣa, according
+As we have argued earlier, this panel \(E 6\) shows a Dakṣiṇāmūrti in the original meaning of the term \(Bakker 2004c, 132 f.; above, p. 525\). The neophyte who is instructed or initiated in the Pāśupata doctrine is not Dakṣa, according
 
 to our present understanding, but the princely figure depicted in the penultimate panel E 5, who is there about to be dispatched by his elder brother and a saintly advisor̥ 
 
@@ -1221,7 +1221,7 @@ Rajaona, column: the presentation of the Pāśupata Weapon
 
 We now conjecture that the four-armed figure in that panel E 6 \(Plate 156\) may be the Pāśupata Weapon personified, not waiting on the Pāṇḍava hero, 
 
-but conducing him to deference. The vigorous way in which this seems to be done could point to the forceful nature of the allegorical figure. The object that he seems to hold above his head may have been the skull, although the sculpture is too much worn to be certain about iṭ But if so, it would make this four-armed ‘chubby figure’ in the Dakṣiṇām¯urti panel a true āyudhapuruṣa. 
+but conducing him to deference. The vigorous way in which this seems to be done could point to the forceful nature of the allegorical figure. The object that he seems to hold above his head may have been the skull, although the sculpture is too much worn to be certain about iṭ But if so, it would make this four-armed ‘chubby figure’ in the Dakṣiṇāmūrti panel a true āyudhapuruṣa. 
 
 A similar allegorical figure must, if our theory is correct, have been depicted in the missing part of the final panel \(W 6\), this time, however, ‘waiting on the great hero’ \( upatasthe mahātmānaṁ\). 60
 

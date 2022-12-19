@@ -441,7 +441,7 @@ k 10 k 17
 
 ˘ ˘ ˘ ˘ ˘ ˘ sāṁvāraṇānāṁghaṭāsu, 
 
-vyāpteṣ¯utkhātakhaḍgadyutikhacitabhujeṣv andhrasenābhaṭeṣu |
+vyāpteṣūtkhātakhaḍgadyutikhacitabhujeṣv andhrasenābhaṭeṣu |
 
 **\[9\]**
 

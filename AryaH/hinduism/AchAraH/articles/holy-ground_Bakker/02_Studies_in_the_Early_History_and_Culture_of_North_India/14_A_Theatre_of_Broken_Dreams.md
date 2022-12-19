@@ -121,9 +121,9 @@ his edition pp. ix–xv\). I follow Dhruva and Warder in this matter̥
 
 Hans Bakker
 
-The historical assessment is complicated by two allusions made in Rāṣṭrak¯uṭa inscriptions dating from ad 871 and 933. The praśastis  of the kings Amoghavarṣa I and Govinda IV seek to elevate their protagonists by comparing their deeds with the miserable behaviour of the foremost of the Gupta dynasty. The two verses run as follows. 
+The historical assessment is complicated by two allusions made in Rāṣṭrakūṭa inscriptions dating from ad 871 and 933. The praśastis  of the kings Amoghavarṣa I and Govinda IV seek to elevate their protagonists by comparing their deeds with the miserable behaviour of the foremost of the Gupta dynasty. The two verses run as follows. 
 
-After killing his brother, he took \(his\) kingdom and \(his\) wife; even so the wretch had recorded surely, a thousand billion times, in the Kali Age: ‘A member of the Gupta family, he is the donor̥’ The man \(on the other hand\), who gave his kingdom away more than once, a trifling thing \(for him\)—not to mention \(other\) external objects—he blushed, when merely the report went that their donor was the exalted ornament of the Rāṣṭrak¯uṭa dynasty \(i.e. Amoghavarṣa\).5
+After killing his brother, he took \(his\) kingdom and \(his\) wife; even so the wretch had recorded surely, a thousand billion times, in the Kali Age: ‘A member of the Gupta family, he is the donor̥’ The man \(on the other hand\), who gave his kingdom away more than once, a trifling thing \(for him\)—not to mention \(other\) external objects—he blushed, when merely the report went that their donor was the exalted ornament of the Rāṣṭrakūṭa dynasty \(i.e. Amoghavarṣa\).5
 
 Though it was within his power, neither did he contrive outrageous cruelty against his elder brother, nor did he \(ever\) bring shame \(upon himself\) by despicable acts such as sleeping with the wife of his next of kin, nor did he betake himself out of fear to demoniac behaviour, irrespective of the holy and unholy alike—by liberality and unequalled acts of boldness that \(king Govinda\) became on earth a \(true\)
 
@@ -137,7 +137,7 @@ that its hero Candra in the last, lost act turned into such a villain all at onc
 
 As for Viśākhadatta, it would seem to have been very difficult to have concluded his play with such an action by his hero. He surely arranged the plot in such a way as to free Candra from guilṭ 7
 
-Though the praśastis  are of course specimina of blatant propaganda couched in poetry, it is equally difficult to imagine that the two Deccan kings actually invented such disgraceful acts altogether̥ In view of what was at stake at this crucial junction, viz. the preservation of the paternal heritage established at great costs, and in the light of similar events later in the Gupta history that we are going to discuss, it seems not wholy unlikely that the Rāṣṭrak¯uṭa kings
+Though the praśastis  are of course specimina of blatant propaganda couched in poetry, it is equally difficult to imagine that the two Deccan kings actually invented such disgraceful acts altogether̥ In view of what was at stake at this crucial junction, viz. the preservation of the paternal heritage established at great costs, and in the light of similar events later in the Gupta history that we are going to discuss, it seems not wholy unlikely that the Rāṣṭrakūṭa kings
 
 5 EI XVIII, 248 \(emended\):
 

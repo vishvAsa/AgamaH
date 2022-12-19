@@ -139,7 +139,7 @@ Joshi 1989. These publications were not available to me. Zehmke’s investigatio
 
 Hans Bakker
 
-\(hands\). Therefore he is celebrated as ‘the one with golden hands’. They put it aside for Bhaga; it gouged out his eyes. Therefore they say ‘Bhaga is blind’. They put it aside for Pūṣan; it knocked out his teeth. Therefore they say ‘P¯uṣan is without teeth, gruel is his share’. These gods said, ‘Indra is the most powerful, the strongest of the gods; put it aside for him’. They put it aside for him. He appeased it with \(his\) holy power \( brahman\). Therefore one says, ‘the brahman  is Indra’. 10
+\(hands\). Therefore he is celebrated as ‘the one with golden hands’. They put it aside for Bhaga; it gouged out his eyes. Therefore they say ‘Bhaga is blind’. They put it aside for Pūṣan; it knocked out his teeth. Therefore they say ‘Pūṣan is without teeth, gruel is his share’. These gods said, ‘Indra is the most powerful, the strongest of the gods; put it aside for him’. They put it aside for him. He appeased it with \(his\) holy power \( brahman\). Therefore one says, ‘the brahman  is Indra’. 10
 
 The same theme is found in the Śatapathabrāhmaṇa with some significant
 
@@ -153,7 +153,7 @@ sacrifice, because he had abused his daughter̥ 11 Rudra pierces him with the la
 
 Bhaga etc.:
 
-Bhaga looked at it; it burnt his eyes. And so indeed it happened. Therefore they say ‘Bhaga is blind’. They said, ‘it has not yet become appeased here, put it aside for Pūṣan’. They put it aside for P¯uṣaṇ P¯uṣan ate from it; it knocked out his teeth. And so indeed it happened. Therefore they say, ‘Pūṣan is without teeth’. 
+Bhaga looked at it; it burnt his eyes. And so indeed it happened. Therefore they say ‘Bhaga is blind’. They said, ‘it has not yet become appeased here, put it aside for Pūṣan’. They put it aside for Pūṣaṇ Pūṣan ate from it; it knocked out his teeth. And so indeed it happened. Therefore they say, ‘Pūṣan is without teeth’. 
 
 Therefore they prepare the rice pudding \( carú\) that they make for Pūṣan from
 
@@ -183,7 +183,7 @@ ojiṣṭho baliṣṭhas tasmā etat pariharateti | 1 | tat tasmai parijahruh. 
 
 12 ŚBr 1.6.2.6–7:
 
-tád bhágo ’vekṣā́ṁcakre táksyā́kṣiṇī nirdadāha táthén n¯unáṁtád āsa tásmād āhur
+tád bhágo ’vekṣā́ṁcakre táksyā́kṣiṇī nirdadāha táthén nūnáṁtád āsa tásmād āhur
 
 andhó bhága iti | 6 | té hocuḥ | n\`
 
@@ -669,7 +669,7 @@ SP 48–49 show the acquaintance of Brahmā \(and the authors of the ancient
 
 Skandapurāṇa\) with the symbolic meaning of the child as the embodiment of Śiva’s cosmic dimension, which meaning is now revealed to the Vedic gods. In addition to epithets such as kapardimat, ātman, aja  etc., we encounter seven
 
-of the eight names of the aṣṭam¯urti; only Bhava appears to be missing or may be considered to be replaced by another name such as Śaṁkara or De-
+of the eight names of the aṣṭamūrti; only Bhava appears to be missing or may be considered to be replaced by another name such as Śaṁkara or De-
 
 vadeva. This revelation of the child’s eightfold nature has become lost in the course of transmission as the omission of these two verses in BrP, LiP and MKh attests. The absence of the child’s qualification as pañcaśikha  in LiP 28d
 

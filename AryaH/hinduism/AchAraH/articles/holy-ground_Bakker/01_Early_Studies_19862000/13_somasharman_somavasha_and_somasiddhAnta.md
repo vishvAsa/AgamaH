@@ -413,7 +413,7 @@ adhunā kalikālam āsādya,
 
 śrīmal-lakulīśanātho ’vatīrya, 
 
-somaśa \[**17**\] rmâ-khyabrāhmaṇakule bh¯utvā, 
+somaśa \[**17**\] rmâ-khyabrāhmaṇakule bhūtvā, 
 
 mahāvrate \(te\)na∗∗∗ dīkṣito jagadindus, 
 
@@ -485,7 +485,7 @@ Interpretation
 
 The inscription is of paramount importance for more than one reasoṇ One of them is that, in addition to the lineage of preceptors, it gives doctrinal arguments to legitimize the claims of the recipient Bhīmasoma. These doctrinal arguments should be compared with what we know of Pāśupata theology. In
 
-order to follow the paraṁparā  of teachers back to Śiva himself, the text refers first to the latter’s eight forms that are designated ‘Vigraheśvaras’. As we have seen above, Vigraheśvara is, according to one tradition, 27 the name of the deity who stands at the apex of our cosmos, in the granthi, where it borders on the Pure Universe. There he is surrounded by eight Rudras, four of whom bear names that mark the Aṣṭam¯urti according to Kauṣītaki Brāhmaṇa 6.2–3. Just 25 Having reconsidered the issue, I have accepted the reading of the epigraph in my 2014
+order to follow the paraṁparā  of teachers back to Śiva himself, the text refers first to the latter’s eight forms that are designated ‘Vigraheśvaras’. As we have seen above, Vigraheśvara is, according to one tradition, 27 the name of the deity who stands at the apex of our cosmos, in the granthi, where it borders on the Pure Universe. There he is surrounded by eight Rudras, four of whom bear names that mark the Aṣṭamūrti according to Kauṣītaki Brāhmaṇa 6.2–3. Just 25 Having reconsidered the issue, I have accepted the reading of the epigraph in my 2014
 
 publication, against the emendation accepted in Bakker 2000 \(reproduced here\). This has led to a new interpretation in Bakker 2014, 144:
 

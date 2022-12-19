@@ -329,7 +329,7 @@ Mirashi, the second Trivikrama, who does not give any particulars about his desc
 
 wrote ‘apparently in a much later age’. 20
 
-If our identification of the poet Trivikrama of the inscription with the author of the Madālasācampū is correct, this ‘later age’ can now be determined as the middle of the thirteenth century; he may have been also the author of a verse quoted in Jalhaṇa’s S¯uktimuktāvalī \(p. 172, v. 13.\),21 which was composed in the court of the Yādavas in ad 1258. The possible hint at Trivikramabhaṭṭa in the first śloka  of the inscription makes it conceivable that the second Trivikrama was well aware of his illustrious predecessor whose style he sought to imitate. 
+If our identification of the poet Trivikrama of the inscription with the author of the Madālasācampū is correct, this ‘later age’ can now be determined as the middle of the thirteenth century; he may have been also the author of a verse quoted in Jalhaṇa’s Sūktimuktāvalī \(p. 172, v. 13.\),21 which was composed in the court of the Yādavas in ad 1258. The possible hint at Trivikramabhaṭṭa in the first śloka  of the inscription makes it conceivable that the second Trivikrama was well aware of his illustrious predecessor whose style he sought to imitate. 
 
 Finally, in the third verse the inscription testifies to the importance that was attached by that time to the worship of Rāma. Apart from the samudgaya-
 
@@ -1123,7 +1123,7 @@ k 14 k
 
 ˘ ˘ hgurjairendrah. k 15 k
 
-parāṅmukho yasya puro raṇe ’bh¯ut, ˘ ˘
+parāṅmukho yasya puro raṇe ’bhūt, ˘ ˘
 
 ˘ ˘
 
@@ -1885,7 +1885,7 @@ mano mr̥du ˘ ˘ ˘
 
 ˘ meśvara itīha kīrtyate k 45 k
 
-śrīrāmāya munīśvarah. kalaśabh¯ur madhyesabhaṁ\(bra\)hmaṇah., 
+śrīrāmāya munīśvarah. kalaśabhūr madhyesabhaṁ\(bra\)hmaṇah., 
 
 **26**
 
@@ -2275,7 +2275,7 @@ tām agnitīrthaprabhavāṁvibhūtiṁ, \[**33**\] ˘
 
 ˘ ˘ k 59 k
 
-haim\(ba\)tīrthe narah. snātvā p¯ujayitvām\(bi\)kāpatim |
+haim\(ba\)tīrthe narah. snātvā pūjayitvām\(bi\)kāpatim |
 
 am\(bi\)kānāthasadane yāti bhogaikabhūmitām k 60 k
 
@@ -2413,7 +2413,7 @@ oghair na labhyaṁna tapobhi \[**35**\] r ugraih. k 62 k
 
 tīhrthaṁi nr̥siṁhasya kathaṁhciid ādyaih., 
 
-puhṇyaih.i samāsādya viśuddham¯urteh. |
+puhṇyaih.i samāsādya viśuddhamūrteh. |
 
 narasya loka\(tri\)taye karasthaṁ, 
 
@@ -2437,7 +2437,7 @@ prodyahddui\(h.kho\)drekadāridryabhājām k 66 k
 
 **37**
 
-kiṁhaṁsatīrthasya tathāprabhāvah. prabh¯utapuṇyo\(jjva\)laketanasya |
+kiṁhaṁsatīrthasya tathāprabhāvah. prabhūtapuṇyo\(jjva\)laketanasya |
 
 vyāhkhyāiyate yajjalapānato ’pi haṁso hr̥distho vimalatvam eti k 67 k
 
@@ -2469,7 +2469,7 @@ girer apācyāṁdiśi vājimedhatīrthe samarthe ’khilatīrthasārthāt |
 
 naro nimajjyāṅganayā sametas tanūbhavān āśu labheta dhanyān k 71 k
 
-yā rarakṣa kalikālato balād dharmam ¯urmikarapaṅkajair nadī|
+yā rarakṣa kalikālato balād dharmam ūrmikarapaṅkajair nadī|
 
 sā tathāsya kalipeti viśrutā samnidhau kalimalaṁharaty alam k 72 k
 
@@ -2571,7 +2571,7 @@ tīrthottame prāpya samastasiddīh. |
 
 prāpnoti martyah. khalu muktir asya, 
 
-prasādatah. sāpi na d¯urasaṁsthā k 75 k
+prasādatah. sāpi na dūrasaṁsthā k 75 k
 
 hmoikṣakuṇḍam. samāsādya da\(kṣi\)ṇasyām. mahībhr̥tah. |
 
@@ -2601,7 +2601,7 @@ yasyā viśuddhena vilokanena vijitya nākaṁsamupaiti muktim k 81 k
 
 karpūravāpī sukr̥tapravāha-
 
-pūreṇa p¯urṇā kim u varṇanīyā |
+pūreṇa pūrṇā kim u varṇanīyā |
 
 devasya sītādayitasya pārśve, 
 
@@ -2713,7 +2713,7 @@ Hans Bakker
 
 hāsāhatah. prāpya padaṁmurāreh. |
 
-sa śambukah. ś¯udramunir mahīdhra-
+sa śambukah. śūdramunir mahīdhra-
 
 rāje ’tra dhūmrākṣa iti prasiddhah. k 86 k
 
@@ -2755,17 +2755,17 @@ mātaro ’ṣṭau mahāsiddhināmadheyopalakṣitāh. |
 
 atra tiṣṭhanti bhaktānām aṇimādyaṣṭakapradāh. k 93 k kalpānte kavalī \[**49**\] karoti sakalaṁtrailokyam alpetara-
 
-jvālājālakarālakālavadano ya\(h.\) kālikākelibh¯uh. |
+jvālājālakarālakālavadano ya\(h.\) kālikākelibhūh. |
 
 sindūrācalam īkṣaṇaṁkṣaṇam api kṣīnānyavāsaspr̥hah., 
 
 śrīrāmaspr̥hayā karoti bhagavān kiṁvā mahābhairavah. | 94 k
 
-pañcāsyaṁcandramauliṁdaśabhujam udayatkoṭibhān¯ugrabhāsaṁ, 
+pañcāsyaṁcandramauliṁdaśabhujam udayatkoṭibhānūgrabhāsaṁ, 
 
 tryakṣaṁvr̥kṣā ˘
 
-\[**50**\] hāisivaraśaradhanuh.ś¯ula\(kha\)ṭvāṅgahastam |
+\[**50**\] hāisivaraśaradhanuh.śūla\(kha\)ṭvāṅgahastam |
 
 hr̥tpadme bhaktalokābhayavaradakaraṁcintayan yaṁnarah. syāt, 
 
@@ -2843,17 +2843,17 @@ yannāmasmaraṇāt prayāti ni\(khi\)lah. pāpādrir uccaih. kṣayaṁ,
 
 yā viśvaikapativratādhvani gurur devī dayaikāpagā |
 
-yā śāpena nināya bhasmakaṇikābh¯uyaṁ\(ca\) laṅkāpatiṁ, 
+yā śāpena nināya bhasmakaṇikābhūyaṁ\(ca\) laṅkāpatiṁ, 
 
 kartā me dayi\(to\) h’syai \[**52**\] nāśam iti sāpy atrāsti rāmāntike k 97 k
 
-ihācalendre daśakaṇṭhaśatror vilokya m¯urtīh. khalu ˘ martyah. |
+ihācalendre daśakaṇṭhaśatror vilokya mūrtīh. khalu ˘ martyah. |
 
 paratra kāle na karoti bhītiṁ† kātāstamat † saṁhr̥tighoramūrteh. k 98 k
 
 bhaktyā mahatyā prabhum ādirāmaṁjagatsu\(khā\)rāmatanuṁnirīkṣya |
 
-narah. surendrādikaropanītap¯ujāgryapātratvam uhpaitii ni \[**53**\] tyam k 99 k śrīhbhoigarāmam abhirāmatanuṁnirīkṣya, 
+narah. surendrādikaropanītapūjāgryapātratvam uhpaitii ni \[**53**\] tyam k 99 k śrīhbhoigarāmam abhirāmatanuṁnirīkṣya, 
 
 kṣīṇā\(khi\)lāghasaraṇih. śaraṇe murāreh. |
 
@@ -2915,7 +2915,7 @@ tatkāhlāipacitikriyārthamilitāśeṣāmba
 
 , 
 
-dhattātyantasujātyaratnacayabhābhrājiṣṇ¯upādāmbujam k 106 k
+dhattātyantasujātyaratnacayabhābhrājiṣṇūpādāmbujam k 106 k
 
 **97a ** nikhilaḥ  M: niṣilaḥ  E
 
@@ -3029,7 +3029,7 @@ deva tvām giripādape\(khi\)labhujāmuṣṭiprahāro ˘ ,
 
 ˘ nikhilaṁtrailokyanāśakṣamaṁ, 
 
-dhāmnā hyeṣui sahasrap¯urṇarucima
+dhāmnā hyeṣui sahasrapūrṇarucima
 
 ˘
 
@@ -3059,7 +3059,7 @@ gavyūtipra ˘ ˘ ˘ ˘ ˘
 
 k 108 k
 
-deva tvāṁkaruṇā ˘ ˘ ˘ ˘ sāmantasind¯urajam., 
+deva tvāṁkaruṇā ˘ ˘ ˘ ˘ sāmantasindūrajam., 
 
 reṇuṁsaṁśayayantama ˘ ˘ ˘
 

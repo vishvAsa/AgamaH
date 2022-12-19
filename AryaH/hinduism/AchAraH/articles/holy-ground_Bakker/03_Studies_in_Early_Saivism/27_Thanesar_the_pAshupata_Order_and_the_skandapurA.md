@@ -67,7 +67,7 @@ incarnation took place\), 2\) Ujjayanī \(initiation of Kauśika\), 3\) Jambumā
 
 between Ujjayanī and Puṣkara \(initiation of Gārgya\), 4\) Mathurā \(initiation of Mitra\), 5\) Land of the Kurus, 6\) Kanyakubja \(initiation of the Kuru\). 4
 
-The major city in the ‘Land of the Kurus’ in the 5th and 6th centuries was Thanesar̥ In his Harṣacarita Bāṇa depicts Thanesar \(Sthāṇvīśvara\) under \(the legendary\) King Puṣyabh¯uti as a country completely devoted to Maheśvara.5
+The major city in the ‘Land of the Kurus’ in the 5th and 6th centuries was Thanesar̥ In his Harṣacarita Bāṇa depicts Thanesar \(Sthāṇvīśvara\) under \(the legendary\) King Puṣyabhūti as a country completely devoted to Maheśvara.5
 
 It is therefore not impossible, at least it is suggested by the Skandapurāṇa, that
 
@@ -235,15 +235,15 @@ to have renovated the temple of Paśupati:
 
 531
 
-Puṣyabh¯uti, a name spelled in some mss as Puṣpabh¯uti, the legendary founder of the dynasty of Thanesar to which King Harṣavardhana belongeḍ13
+Puṣyabhūti, a name spelled in some mss as Puṣpabhūti, the legendary founder of the dynasty of Thanesar to which King Harṣavardhana belongeḍ13
 
-Puṣyabh¯uti is depicted in the Harṣacarita 3 \(pp. 49–55\) as being deeply involved in a Śaiva ritual of black magic \(Vetālasādhana\) in the cremation
+Puṣyabhūti is depicted in the Harṣacarita 3 \(pp. 49–55\) as being deeply involved in a Śaiva ritual of black magic \(Vetālasādhana\) in the cremation
 
 ground \(Mahāśmaśāna\), under the guidance of a Mahāśaiva preceptor \( bhu-
 
-vanaguru\) hailing from the South \( dākṣiṇātya\), Bhairavācārya.14 In this ritual the deity \( vāstunāga\) of the land \( janapada\) Śrīkaṇṭha, in which Sthāṇvīśvara \(Puṣyabh¯uti’s capital\) is situated,15 the Nāga Śrīkaṇṭha is conjured up by the
+vanaguru\) hailing from the South \( dākṣiṇātya\), Bhairavācārya.14 In this ritual the deity \( vāstunāga\) of the land \( janapada\) Śrīkaṇṭha, in which Sthāṇvīśvara \(Puṣyabhūti’s capital\) is situated,15 the Nāga Śrīkaṇṭha is conjured up by the
 
-ācārya; 16 he is forced into submission by the king, who is about to kill him with the magic sword Aṭṭahāsa, a gift of Bhairavācārya. Then, when the king is prepared to let him go because of his brahminhood, a goddess dressed in white, evidently Lakṣmī \(Rājyaśrī\),17 emerges from the sword, annoints the king and grants Puṣyabh¯uti to become the founder of a mighty dynasty. This dynasty is therefore believed to have acquired its legitimicy and authority over the land of Kurukṣetra thanks to the magic of the Śaiva preceptor̥18
+ācārya; 16 he is forced into submission by the king, who is about to kill him with the magic sword Aṭṭahāsa, a gift of Bhairavācārya. Then, when the king is prepared to let him go because of his brahminhood, a goddess dressed in white, evidently Lakṣmī \(Rājyaśrī\),17 emerges from the sword, annoints the king and grants Puṣyabhūti to become the founder of a mighty dynasty. This dynasty is therefore believed to have acquired its legitimicy and authority over the land of Kurukṣetra thanks to the magic of the Śaiva preceptor̥18
 
 The fourth teacher in the Kuru \(Kauruṣa\) lineage, Rāśīkara, is known from the Ratnaṭīkā \(9th century?\).19 It would seem a plausible hypothesis to rājā śrīsupuṣpavarmā varṣa 56, tena nepālabhūmi dharmeṇa vr̥ dhikr̥ tam  k puna śrī-
 

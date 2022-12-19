@@ -185,7 +185,7 @@ These rules sound particularly humane and in some respects even seem to anticipa
 
 Even without a statistical investigation one senses that the avowed chivalry was renounced, more often than not, also in the Mahābhārata itself. 
 
-The reports of Megasthenes and Ibn Baṭṭ¯uṭa
+The reports of Megasthenes and Ibn Baṭṭūṭa
 
 However, unexpected though it may seem, this ‘civilized’, or one should rather say ‘ritualized’ form of warfare is confirmed by a foreign observer who lived in India in about the same period in which the Arthaśāstra was beginning
 
@@ -207,7 +207,7 @@ Hans Bakker
 
 \[. . . \] the second caste consists of the tillers of the soil, who form the most numerous class of the populatioṇ They are neither furnished with arms, nor have any military duties to perform, but they cultivate the soil and pay tribute to the kings and the independent cities. In times of civil war the soldiers are not allowed to molest the husbandmen or ravage their lands: hence, while the former are fighting and killing each other as they can, the latter may seen close at hand tranquilly pursuing their work,—perhaps ploughing, or gathering in their crops, pruning the trees, or reaping the harvesṭ 11
 
-The picture is too good to be true, since, for instance, the destruction of crops in the country of the enemy seems to have been common practice; but even if Indian historic reality was less idyllic than Megasthenes wanted us to believe, the essence of his observations seems to be that within the traditional Indian constellation war was primarily conceived as a gallant pastime of kings, a kind of sport that was directed towards eliminating rival kings and acquisition of glory, land and riches, not towards the destruction of neighbouring countries that were hated. An unexpected confirmation of this chivalrous ethos is found in the Travelogue of Ibn Baṭṭ¯uṭa, who stayed in India for 15 years \(c. ad 1335–1349\) and who tells us, when once he was in dire straits: I was afraid that they would all shoot at me at once if I fled from them, and I was wearing no armour so I threw myself to the ground and surrendered, as they do not kill those who do thaṭ 12
+The picture is too good to be true, since, for instance, the destruction of crops in the country of the enemy seems to have been common practice; but even if Indian historic reality was less idyllic than Megasthenes wanted us to believe, the essence of his observations seems to be that within the traditional Indian constellation war was primarily conceived as a gallant pastime of kings, a kind of sport that was directed towards eliminating rival kings and acquisition of glory, land and riches, not towards the destruction of neighbouring countries that were hated. An unexpected confirmation of this chivalrous ethos is found in the Travelogue of Ibn Baṭṭūṭa, who stayed in India for 15 years \(c. ad 1335–1349\) and who tells us, when once he was in dire straits: I was afraid that they would all shoot at me at once if I fled from them, and I was wearing no armour so I threw myself to the ground and surrendered, as they do not kill those who do thaṭ 12
 
 Hence war could be viewed as perfectly within the precincts of the dharma  and was generally not associated with evil \( pāpa\), though, admittedly, there were
 
@@ -275,7 +275,7 @@ Hinduism and Islam
 
 The conquest of northern India
 
-From the eleventh century onwards North India was regularly confronted, perhaps for the first time, with an enemy that did not adapt itself to Indian customs and did not ‘show the same devotion in festivals in honour of the deities of the country’. Instead that country was infested with marauding bands of Turuṣka warriors, after Sultan Mah.m¯ud of Ghazni had pointed the way in his raid on Somnath \(Gujarat\) in ad 1024–1025. The reports in the Kāmilu-t Tawārīkh by Ibn Asīr and the Tā - rīkh-i Alfī inform us that in the defence of the temple of Somanātha fifty thousand Hindus were killed. 20 One would have expected that in the face of such catastrophy Hindu kings would have joined hands and made common cause to defend their country and their holy places. However, ‘India’
+From the eleventh century onwards North India was regularly confronted, perhaps for the first time, with an enemy that did not adapt itself to Indian customs and did not ‘show the same devotion in festivals in honour of the deities of the country’. Instead that country was infested with marauding bands of Turuṣka warriors, after Sultan Mah.mūd of Ghazni had pointed the way in his raid on Somnath \(Gujarat\) in ad 1024–1025. The reports in the Kāmilu-t Tawārīkh by Ibn Asīr and the Tā - rīkh-i Alfī inform us that in the defence of the temple of Somanātha fifty thousand Hindus were killed. 20 One would have expected that in the face of such catastrophy Hindu kings would have joined hands and made common cause to defend their country and their holy places. However, ‘India’
 
 was not conceived as an entity to be defended and Hinduism was not organized in such a way that it could offer a framework for its own defence. Hindu kings kept fighting amongst themselves and when at the end of the 12th century the Cāhamānas, who had borne the brunt of the attacks of the Muslim armies, 17 Kālidāsa, Raghuvaṁśa 4.25–26:
 
@@ -319,7 +319,7 @@ Hence the question may be raised why the Gāhaḍavālas moved their actual
 
 seat of power towards the sacred Vārāṇasī rather than staying within the presti-
 
-gious imperial capital Kanauj. 24 This might have been caused by the fact that Kanauj lay in ruins after having been sacked twice by the Ghaznavite invaders \(ad 1018 by Sultan Mah.m¯ud, ad 1086–90 by Prince Mah.m¯ud, governor of the Panjab\). But it could have been rebuilt, just as Vārāṇasī itself had recovered
+gious imperial capital Kanauj. 24 This might have been caused by the fact that Kanauj lay in ruins after having been sacked twice by the Ghaznavite invaders \(ad 1018 by Sultan Mah.mūd, ad 1086–90 by Prince Mah.mūd, governor of the Panjab\). But it could have been rebuilt, just as Vārāṇasī itself had recovered
 
 from its first contact with Muslim forces. A more plausible explanation for the Gāhaḍavālas’ deviation from customary practice in choosing Vārāṇasī as their power base may be sought in the circumstance that the nature of the enemy had changed, an enemy which held completely different views on territorial warfare as well as on religioṇ That the Gāhaḍavālas were well aware of this from the
 

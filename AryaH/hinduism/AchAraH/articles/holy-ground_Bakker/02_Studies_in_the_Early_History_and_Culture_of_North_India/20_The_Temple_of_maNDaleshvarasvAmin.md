@@ -215,7 +215,7 @@ and ˘ : metrical quantity of illegible syllables
 
 \[ symbol\] sambatsa\(r\)e triṅśati ˘ kārttikadi\(va\)se dvāviṅśatime 2
 
-asmi\(n s\)ambatsaramāsa\(d\)i ˘ \(sa\)p¯urvvāyā**m**
+asmi\(n s\)ambatsaramāsa\(d\)i ˘ \(sa\)pūrvvāyā**m**
 
 śrīmahāsāmanta
 
@@ -505,7 +505,7 @@ been to supervise and administer the temple properties on the hill and that of t
 
 nikāya, ‘which was headed by the minister Bhadraviṣṇu, the governor of the fort, the officer in charge of the king’s betel-box, the custodian of the sacrificial fire, and the head of the royal guard’. 39
 
-Gomibhaṭa needed the permission of kulapati  Bhān¯udayin for his first donation, viz. accomodation or housing \( maṭha\) for the ascetics, since that was to be built on the premises of the Vinīteśvaramaṭha. The word kulapati  poses a problem. Literally it signifies ‘head of a community’. Because the community here is defined as that of a maṭha, a likely interpretation is that the kulapati  is 37 If we read with Neuss svadevanikāya  in l. 4, this membership would be expliciṭ 
+Gomibhaṭa needed the permission of kulapati  Bhānūdayin for his first donation, viz. accomodation or housing \( maṭha\) for the ascetics, since that was to be built on the premises of the Vinīteśvaramaṭha. The word kulapati  poses a problem. Literally it signifies ‘head of a community’. Because the community here is defined as that of a maṭha, a likely interpretation is that the kulapati  is 37 If we read with Neuss svadevanikāya  in l. 4, this membership would be expliciṭ 
 
 38 EI XIII No. 7, 109–21: Two Talesvara Copperplates by Y.r̥ Gupte \(1915–16\). These two copperplates have been found in Taleśvara in the Almore District, United Provinces \(modern Uttarakhand\). Though they appear to be forgeries, they are nevertheless documents pertaining to the period ‘between the middle of the 6th and second quarter of the 7th century’ \(Gupte op. ciṭ  113\), i.e. to the same period as to which the Muṇḍeśvarī
 

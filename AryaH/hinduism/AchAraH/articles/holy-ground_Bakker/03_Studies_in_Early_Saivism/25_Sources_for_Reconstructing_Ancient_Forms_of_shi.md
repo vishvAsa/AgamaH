@@ -405,7 +405,7 @@ The Pāśupatasūtra and its commentary
 
 First of all, the authoritative text of the Pāśupata sect itself, the Sūtras and
 
-their commentary, do not mention liṅga  worship with a single word. On the contrary, the commentator Kauṇḍinya describes a manifestation of Śiva \( m¯urti\) in iconic terms; his form \( rūpa\) is said to be characterized by the bull-banner etc.:
+their commentary, do not mention liṅga  worship with a single word. On the contrary, the commentator Kauṇḍinya describes a manifestation of Śiva \( mūrti\) in iconic terms; his form \( rūpa\) is said to be characterized by the bull-banner etc.:
 
 ‘Image’ \( mūrti\): Either this \( yad etad\) form \( rūpa\) that is perceived by him who is
 
@@ -801,11 +801,11 @@ samarcayitvā sa niśācaro jagau,
 
 prasārya hastān praṇanarta cāyatān  k 40 k
 
-10 Kauṇḍinya ad  Pāśupatas¯utra 1.9 \(Sastri’s ed. p. 15\) mūrtir nāma yad etad devasya dakṣiṇe pārśve sthitenodaṅmukhenopānte yad rūpam upalabhyate | vr̥ṣadhvajaś¯ulapāṇinandimahākālordhvaliṅgādilakṣaṇam | yad vā laukikāh. pratipadyante | mahādevasyāyatanam iti |
+10 Kauṇḍinya ad  Pāśupatasūtra 1.9 \(Sastri’s ed. p. 15\) mūrtir nāma yad etad devasya dakṣiṇe pārśve sthitenodaṅmukhenopānte yad rūpam upalabhyate | vr̥ṣadhvajaśūlapāṇinandimahākālordhvaliṅgādilakṣaṇam | yad vā laukikāh. pratipadyante | mahādevasyāyatanam iti |
 
 tatropastheyam |
 
-11 Gr̥hyapariśiṣṭas¯utras of Baudhāyana II.16 \(Harting 1922, 7 ll. 16 f.\) hiraṇyena tejasā cakṣur vimocayet tejo ’sīti |
+11 Gr̥hyapariśiṣṭasūtras of Baudhāyana II.16 \(Harting 1922, 7 ll. 16 f.\) hiraṇyena tejasā cakṣur vimocayet tejo ’sīti |
 
 liṅge cen nivartate cakṣuṣor abhāvād |
 
@@ -937,7 +937,7 @@ sadāśivākhyaṁvijñeyam ākāśaṁyadunandana  k 6 k
 
 diśo daśa bhujās tasya taddvayaṁ\*\* vadanaṁprati |
 
-mahādevakare jñeyāv akṣamālākamaṇḍal¯u  k 7 k
+mahādevakare jñeyāv akṣamālākamaṇḍalū  k 7 k
 
 Text as given in Shah’s edition; śloka  numbering mine. 
 

@@ -119,13 +119,13 @@ als. These rituals, to be performed whenever one begins the construction of and/
 
 They derive from prescripts in various
 
-texts pertaining to the Vedic tradition dealing with domestic sacrifices—the Gr̥hyas¯utras—and develop in later digests to ‘a very elaborate affair’, which we, like Kane, pass over here, not ‘for reasons of space’ though, but because human sacrifice is not touched upon in this contexṭ 
+texts pertaining to the Vedic tradition dealing with domestic sacrifices—the Gr̥hyasūtras—and develop in later digests to ‘a very elaborate affair’, which we, like Kane, pass over here, not ‘for reasons of space’ though, but because human sacrifice is not touched upon in this contexṭ 
 
 Installation of the house or Vāstupratiṣṭha
 
 The second type of sacrifice may be subsumed under the category of Vāstupratiṣṭhā \(‘Installation of the House’\), which is described by Kane \( op. ciṭ \) in Volume II, 833–36 \(conflated with Vāstuśānti  rites\). This type
 
-of ritual also reaches back to Vedic times and is canonized in the same Gr̥hyas¯utra literature. 
+of ritual also reaches back to Vedic times and is canonized in the same Gr̥hyasūtra literature. 
 
 A central role in these rituals is reserved for the ‘Lord of the Homestead’, Vāstoṣpati, already hymned in r̥gveda 7.54.1-3, a power who is represented by a firm posṭ Kane gives the following description of this House Sacrifice \(Vāstuyajña\). 
 
@@ -665,7 +665,7 @@ The left-half of the head is destroyed. Around the head was a pavement of stone 
 
 Human figure underneath temple in Kandhar
 
-This remarkable structure may be half a millennium later than the Manasarapuruṣa—dating from the Rāṣṭrak¯uṭa period—and lacks the latter’s sophistication, but it more clearly reflects the literary idea of the Vāstupuruṣa. A conspicous agreement between both figures is the direction of head and legs: northwest/southeasṭ 
+This remarkable structure may be half a millennium later than the Manasarapuruṣa—dating from the Rāṣṭrakūṭa period—and lacks the latter’s sophistication, but it more clearly reflects the literary idea of the Vāstupuruṣa. A conspicous agreement between both figures is the direction of head and legs: northwest/southeasṭ 
 
 Curdi
 

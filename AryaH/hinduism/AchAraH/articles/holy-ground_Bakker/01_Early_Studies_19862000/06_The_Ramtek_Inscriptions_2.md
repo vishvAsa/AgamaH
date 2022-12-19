@@ -1549,7 +1549,7 @@ present state of Kālidāsa studies it is, however, impossible to have any certa
 
 have used the word in the form āhita◦ rather than āhatalakṣaṇa. Indeed, Rāya-
 
-mukuṭa \(ad 1431/32\), in his commentary on AK 3.1.10, quotes the relevant pāda from the Raghuvaṁśa with the reading āhatalakṣaṇo ’bh¯ut \(AK2 9\). 
+mukuṭa \(ad 1431/32\), in his commentary on AK 3.1.10, quotes the relevant pāda from the Raghuvaṁśa with the reading āhatalakṣaṇo ’bhūt \(AK2 9\). 
 
 We have met with one other significant occurrence of the word. In line 4 of the Ghaṭotkaca Cave inscription of the Vākāṭaka minister Varāhadeva \(CII V
 

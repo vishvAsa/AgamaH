@@ -113,7 +113,7 @@ nomenon of *fanā- * with reference to the passage of Moses in the burning bush.
 
 as a snake sloughs off its skin: then I looked into my essence \(or self\) and lo\! 
 
-I was He\!’, or al-Husayn b. Manṣ¯ur al-H.allādj’s renowned heresy ‘ *ana ,l-h.ak.k. *’
+I was He\!’, or al-Husayn b. Manṣūr al-H.allādj’s renowned heresy ‘ *ana ,l-h.ak.k. *’
 
 \(‘I am the Truth \(or God\)’\), though by no means completely alien to Sufism, appears, nevertheless, to have been an exception rather than the rule; it should, probably, not be interpreted in terms of complete identity of god and human soul. 10 If, at all, a comparison with Indian mystic illumination is apposite, the Sufi experience should be compared with theistic schools within Hinduism rather than with monistic ones such as that of, e.g. Śaṁkara \(cf. Crollius 1978, 
 

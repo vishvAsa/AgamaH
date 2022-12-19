@@ -615,7 +615,7 @@ and who, in that inscription, was identified with the śūdra  Śambūka of the
 
 Rāmāyaṇa. A feature that these two have in common, Kālidāsa’s yakṣa  and
 
-the deity Dhūmrākṣa/Śamb¯uka, is that both were punished for a transgression of the law \( dharma\). However, what the poet knew very well, and what seems to have a special relevance in our age of virtual reality, was that ‘substitutes’
+the deity Dhūmrākṣa/Śambūka, is that both were punished for a transgression of the law \( dharma\). However, what the poet knew very well, and what seems to have a special relevance in our age of virtual reality, was that ‘substitutes’
 
 can never replace the real thing. This he expressed beautifully in a verse that the Yakṣa gave to the Cloud to convey to his beloved: Whenever I draw your picture on a rock in natural colours and wish to throw myself at your feet, you who are wounded by love, time and again my eyes become misted with a flood of tears: cruel fate prevents our meeting even there. 30
 

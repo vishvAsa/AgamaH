@@ -137,7 +137,7 @@ wishing to obtain release \( mumukṣavah. \). Continuously they repeat ‘śiva
 
 Śiva asks Brahmā, who tells him that a means \( upāya\) does exists. Brahmā
 
-initiates Śiva in the ṣaḍakṣara, the Mantrarāja, on the bank of the Gaṅgā in Vārāṇasī at Lolārka on a S¯uryaparvan day \(AgS 7.14–15\). After japa  and other devout practices for a long period, Rāma appears to Śiva and is ready to fulfil
+initiates Śiva in the ṣaḍakṣara, the Mantrarāja, on the bank of the Gaṅgā in Vārāṇasī at Lolārka on a Sūryaparvan day \(AgS 7.14–15\). After japa  and other devout practices for a long period, Rāma appears to Śiva and is ready to fulfil
 
 
 
