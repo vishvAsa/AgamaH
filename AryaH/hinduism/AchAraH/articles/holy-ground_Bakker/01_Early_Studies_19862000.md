@@ -6213,7 +6213,7 @@ with a pure mind, to him grants . . .
 
 
 
-
+## The Ramtek Inscriptions 2
 
 ### The Vākāṭaka Inscription in the Kevala–Narasiṁha Temple
 
