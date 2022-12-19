@@ -1,3 +1,6 @@
++++
+title = "Holy Ground"
++++
 
 
 Holy Ground – Where Art and Text Meet  
