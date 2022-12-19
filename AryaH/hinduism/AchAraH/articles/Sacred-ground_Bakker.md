@@ -1,7 +1,7 @@
 
 
 Holy Ground – Where Art and Text Meet  
-Hans ṭ Bakker  
+Hans T. Bakker  
 Gonda Indological Studies  
 
 PUBLISHED UNDER THE AUSPICES OF THE J. GONDA FOUNDATION  
@@ -10,8 +10,8 @@ ROYAL NETHERLANDS ACADEMY OF ARTS AND SCIENCES
 *Edited by*  
 Peter C. Bisschop \( *Leiden*\)  
 *Editorial Board*  
-Hans ṭ Bakker \( *London*\)  
-Dominic ḍṣ Goodall \( *Paris/Pondicherry*\)  
+Hans T. Bakker \( *London*\)  
+Dominic D.S. Goodall \( *Paris/Pondicherry*\)  
 Hans Harder \( *Heidelberg*\)  
 Stephanie Jamison \( *Los Angeles*\)  
 Ellen M. Raven \( *Leiden*\)  
@@ -25,21 +25,459 @@ Downloaded from Brill.com via free access
 
 This is an open access title distributed under the terms of the CC-BY-NC . License, which permits any non-commercial use, distribution, and reproduction in any medium, provided the original author\(s\) and source are crediteḍ 
 
-Research and production of this book have been made possible by financial support from: the European Research Council \(ERC Project no. \) J. Gonda Foundation, Royal Netherlands Academy of Arts and Sciences Typesetting and layout: H. ṭ Bakker̥ 
+Research and production of this book have been made possible by financial support from: the European Research Council \(ERC Project no. \) J. Gonda Foundation, Royal Netherlands Academy of Arts and Sciences Typesetting and layout: H. T. Bakker̥ 
 
 The Library of Congress Cataloging-in-Publication Data is available online at [http://catalog.loc.gov](http://catalog.loc.gov)
 
 
-Copyright  by Hans ṭ Bakker̥ Published by Koninklijke Brill NV, Leiden, The Netherlandṣ  
+Copyright  by Hans T. Bakker̥ Published by Koninklijke Brill NV, Leiden, The Netherlandṣ  
 Koninklijke Brill NV incorporates the imprints Brill, Brill Hes & De Graaf, Brill Nijhoff, Brill Rodopi, Brill Sense, Hotei Publishing, mentis Verlag, Verlag Ferdinand Schöningh and Wilhelm Fink Verlag. 
 
 ## 0
 
+### Document Outline
+
++ Holy Ground: Where Art and Text Meet: Studies in the Cultural History of India 
++ Copyright 
++ Table of Contents 
+#### Part I Early Studies 1986–2000  
+- 1 An Indian Image of Man: An Inquiry into a change of perspective in the Hindu world-view  
+    - Introduction 
+    - The Indian understanding of perfect man  
+      - The ‘Raw Material’ 
+      - The Sufis 
+      - The Yogis 
+      - The Sants 
+      - The Bhaktas 
+
+    - Epilogue 
+
+- 2 Die Indische Herausforderung: Hegels Beitrag zu einer europäischen kulturhistorischen Diskussion  
+    - Einleitung 
+    - Die Jahre 1820–1825  
+      - Neue Einsichten 
+
+    - Die Jahre 1826–1831  
+      - Die Rezeption der Bhagavadgītā 
+      - Von Humboldts Bhagavadgītā Vorträge und Hegels Kritik 
+
+    - Schlussbetrachtung  
+      - Schlussmoral 
+
+
+- 3 Ayodhyā: le nom et le lieu  
+    - Ayodhyā conçue : le nom 
+    - Ayodhyā retrouvée : le lieu  
+      - Illiers–Combray 
+
+
+- 4 Ayodhyā: A Hindu Jerusalem: An investigation of ‘Holy War’ as a religious idea in the light of communal unrest in India  
+    - Introduction 
+    - Holy war as a religious idea  
+      - Five conditions of ‘holy war’ 
+
+    - The Hindu religion and the social reality of war  
+      - The advent of Islam 
+
+    - The segregation of the Hindu and Muslim communities  
+      - The idea of the Rāma rājya 
+      - The Kingdom of Avadh 
+      - The emerging conflict around the Babri Masjid in Ayodhyā 
+
+    - Ayodhyā: a Hindu Jerusalem  
+      - The fight for the Rāmajanmabhūmi/Babri Masjid 
+
+    - Epilogue 
+
+- 5 The Ramtek Inscriptions I  
+    - Introduction 
+    - The graffiti 
+    - The two short Kevala–Narasiṃha Temple inscriptions  
+      - Kevala–Narasiṃha Temple Ramtek Inscription No. 1 
+      - Kevala–Narasiṃha Temple Ramtek Inscription No. 2 
+
+    - The Ramtek Stone Inscription of the time of Rāmacandra  
+      - Synopsis of the contents 
+      - Editorial principles 
+      - Edition 
+      - Translation 
+
+
+- 6 The Ramtek Inscriptions II: The Vākāṭaka inscription in the Kevala–Narasiṃha Temple \(Together with Harunaga Isaacson\)  
+    - Introduction  
+      - Palaeography 
+      - Note on the edition and translation 
+
+    - Text  
+      - Divergent readings of Jamkhedkar’s edition 
+      - Translation 
+      - Annotation 
+
+    - Analysis and interpretation  
+      - Vākāṭaka Gupta relations 
+
+
+- 7 Throne and Temple: Political power and religious prestige in Vidarbha  
+    - Introduction 
+    - The Vākāṭaka period  
+      - The Vākāṭaka inscriptions 
+      - Policy of the Vākāṭaka kings 
+
+    - The Yādava period 
+    - Ramtek Hill: Theatre of Plenipotentiaries 
+
+- 8 Little Kṛṣṇa’s Play with the Moon  
+    - The literary evidence  
+      - Baby Kṛṣṇa’s play with the moon 
+
+    - The archaeological evidence 
+    - Conclusion 
+
+- 9 Some Methodological Considerations with Respect to the Critical Edition of Puranic Literature  
+    - Introduction 
+    - The theory of ‘oral composition’  
+      - Composition-in-transmission 
+
+    - The critical edition of epic and puranic literature 
+    - The critical edition of the Ayodhyāmāhātmya 
+
+- 10 Pārvatī’s Svayaṃvara: Studies in the Skandapurāṇa I  
+    - Introduction 
+    - The wedding of Śiva and Parvatī  
+      - Śiva’s exclusion from the sacrifice 
+      - Śiva as the cosmic child 
+      - Pārvatī’s Svayaṃvara 
+
+    - The synoptic edition of the Svayaṃvara myth  
+      - Conclusion 
+
+    - Pārvatī’s Svayaṃvara: A Textual Reconstruction 
+
+- 11 Mokṣadharma 187 and 239–241 Reconsidered \(Together with Peter Bisschop\)  
+    - Preamble 
+    - Three themes  
+      - The five elements 
+      - The intellectual apparatus 
+      - Sattva and kṣetrajña  
+        - The ‘evolution theory’ 
+
+
+    - The Mokṣadharma: a plurality of views 
+    - Appendix: Some parallels of Mokṣadharma 187 and 239–241 
+
+- 12 Observations on the History and Culture of Dakṣiṇa Kosala \(5th to 7th centuries ad\)  
+    - Introduction 
+    - The Pāṇḍavas of Mekalā 
+    - The family descending from Amara in Kosala 
+    - The rulers of Śarabhapur 
+    - The Pāṇḍuvaṃśa of Śrīpura  
+      - The date of the Pāṇḍuvaṃśa dynasty of Śrīpura 
+      - Tīvaradeva 
+      - Mahāśivagupta Bālārjuna 
+
+    - Tālā  
+      - The Jiṭhānī Temple 
+
+
+- 13 Somaśarman, Somavaṃśa and Somasiddhānta A Pāśupata tradition in seventh-century Dakṣiṇa Kosala: Studies in the Skandapurāṇa III  
+    - Harāya Namaḥ 
+    - Śaiva cosmology 
+    - The Pāśupata movement 
+    - The epigraphical evidence from Malhar 
+    - Malhar \(Junvānī\) Copperplates of Mahāśivagupta, Year 57: ll. 8–23  
+      - Translation 
+      - Interpretation 
+
+    - Somaśarman and the Somasiddhānta 
+    - The evidence of the Skandapurāṇa 
+    - Somaśarman, Somavaṃśa and Somasiddhānta 
+
+
+#### + Part II: Studies in the Early History and Culture of North India  
+- 14 A Theatre of Broken Dreams: Vidiśā in the days of Gupta hegemony  
+    - Prologue 
+    - Act 1: Rāmagupta  
+      - The story of the Devīcandragupta 
+      - Candragupta’s matrimonial policy and the triangle of power 
+
+    - Act 2 Govindagupta  
+      - The testimony of Prabhākara 
+
+    - Act 3 Ghaṭotkacagupta  
+      - Kālidāsa’s Mālavikāgnimitra 
+      - The Vākāṭaka–Gupta conflict 
+      - Finale 
+
+    - Epilogue 
+
+- 15 Royal Patronage and Religious Tolerance: The formative period of Gupta–Vākāṭaka culture  
+    - Udayagiri  
+      - Royal patronage 
+
+    - Mandhal  
+      - Padmapura 
+      - Muṇḍasvāmin 
+
+    - Rāmagiri 
+    - Mansar 
+    - Conclusion 
+
+- 16 Rāma’s Hill: Transgression and atonement on a Hill in the South and the inadequacy of substitutes  
+    - Preamble 
+    - The Śaivala Mountain of the Rāmāyaṇa 
+    - The Rāmagiri  
+      - The epigraphical evidence 
+      - Viṣṇupada 
+      - Narasiṃha 
+
+    - The Pilgrim’s Satchel 
+    - Conclusion 
+
+- 17 A New Interpretation of Rāmagiri Evidence  
+    - 1 Trivikrama: Word and Statue  
+      - Preamble 
+      - Maṅgalavāda: Kevala Narasim. ha Temple \(KNT\) Inscription verse 1 
+      - The KNT Inscription verse 21 
+      - The discovery of the KNT Inscription 
+
+    - 2 The Gupta–Vākāṭaka Relationship  
+      - Preamble 
+      - The Praśasti. KNT Inscription verses 2–19 
+      - Conjectured narrative structure of the KNT Inscription 
+      - The Daughter named Muṇḍa 
+      - The Gupta–Vākāṭaka relationship 
+      - The narration of the KNT Inscription 
+
+    - 3 The Trivikrama Temple  
+      - Preamble 
+      - The Trivikrama Temple 
+      - The iconography of the Trivikrama image 
+      - The pious works of Atibhāvatī 
+      - Conclusion 
+
+
+- 18 A Note on Skandagupta’s Bhitarī Stone Pillar: Inscription, verses 8–12 Commemorating the dead  
+    - Ajay Mitra Shastri 
+    - Skandagupta’s Bhitarī Inscription vv. 8–12  
+      - Concluding remarks on the inscription and the site of Bhitarī 
+
+    - Appendix  
+      - Skandagupta’s Bhitarī Stone Pillar Inscription vv. 8–12 
+
+
+- 19 The So-called: ‘Jaunpur Stone Inscription of Īśvaravarman’  
+    - Preamble 
+    - Introduction 
+    - The Jaunpur Stone Inscription  
+      - Text 
+      - Translation and annotation 
+
+    - Conclusion 
+
+- 20 The Temple of Maṇḍaleśvarasvāmin: The Muṇḍeśvarī Inscription of the time of Udayasena reconsidered  
+    - Introduction  
+      - The temple on Muṇḍeśvarī Hill 
+      - The date of the Muṇḍeśvarī Inscription 
+
+    - The Muṇḍeśvarī Inscription, Year 30  
+      - Transliteration 
+      - Emended, orthographic edition 
+      - Translation 
+      - Interpretation 
+
+    - Maṇḍaleśvara and the Skandapurāṇa 
+
+- 21 Monuments to the Dead in Ancient North India  
+    - Preamble 
+    - The funerary monument in Sanskrit literature  
+      - The aiḍūka of the Viṣṇudharmottarapurāṇa 
+      - The eḍūka 
+
+    - The archaeology of the funerary monument  
+      - Memorials 
+      - Pratimāgṛhas 
+      - Memorial Stones 
+      - Aiḍūkas  
+        - Ahichhatra 
+        - Mansar 
+
+
+    - Funerary monuments with mortuary deposits  
+      - Sui Vihar 
+
+    - The archaeology of the śmaśanā  
+      - The Kumhāra Ṫekḍī in Ujjain 
+      - The eḍūka at Mansar  
+        - A funerary monument to Prabhāvatī Gupta?  
+
+
+    - Conclusion 
+    - Appendix  
+      - Aiḍūkarūpanirmāṇa Viṣṇudharmottara 3.84.1–15 \(emended\) 
+
+
+- 22 Puruṣamedha, Manasarapuruṣa, Vāstupuruṣa: The image of man in the sacrificial context  
+    - The image of man 
+    - Human sacrifice in India  
+      - Installation of the house or Vāstupratiṣṭha 
+
+    - Excursus upon the construction of the gnicayana altar  
+      - Preliminary conclusion 
+
+    - Archaeological evidence for the construction sacrifice  
+      - Kauśāmbī 
+      - Mansar 
+
+    - The Vāstupuruṣa  
+      - Kandhar 
+      - Curdi 
+
+    - Final remark 
+
+- 23 Rama Devotion in a Śaiva Holy Place: The case of Vārāṇasī  
+    - Introduction 
+    - Tulsīdās, Śiva, and the Name  
+      - The Agastyasaṃhitā 
+
+    - The Tradition of the saving mantra  
+      - The Kāśīkhaṇḍa 
+      - The Skandapurāṇa  
+        - Textual criticism 
+
+      - The saving mantra in the Skandapurāṇa 
+      - Avimukta 
+
+    - Conclusion 
+
+- 24 The Hindu Religion and War  
+    - Preamble 
+    - Aśoka and ancient warfare in India  
+      - The Arthaśāstra 
+
+    - The principle of ahiṃsā and the rules of war  
+      - Ahiṃsā 
+      - The Bhagavadgītā 
+      - The rules of war 
+      - The reports of Megasthenes and Ibn Baṭṭūṭa 
+      - The idea of a ‘just war’ 
+      - The battle and the sacrifice 
+
+    - Hinduism and Islam  
+      - The conquest of northern India 
+      - The case of Vārāṇasī 
+
+    - Epilogue 
+
+
+#### Part III: Studies in Early Saivism  
+- 25 Sources for Reconstructing Ancient Forms of Śiva Worship  
+    - Śiva Caturmukha  
+      - The myth of Tilottamā 
+      - Images of Śiva in his quadruple form 
+      - Epigraphic sources attesting the worship of Śiva 
+
+    - Early Sanskrit sources of liṅga worship  
+      - The Pāśupatasūtra and its commentary 
+      - The Mahābhārata 
+      - The Rāmāyaṇa 
+
+    - Concluding observations  
+      - The evidence of the Skandapurāṇa 
+      - Conclusions 
+
+    - Textual sources 
+
+- 26 At the Right Side of the Teacher: Imagination, imagery, and image in Vedic and Śaiva initiation  
+    - Introduction 
+    - The sitting position of teacher and pupil in the Vedic Upanayana ritual  
+      - The Śatapathabrāhmaṇa 
+      - The Gṛhyasūtras 
+      - The sitting position of the preceptor and his audience 
+
+    - The sitting position of guru and novice in arly Śaiva initiation ritual  
+      - Initiation in the Pāśupata tradition 
+
+    - The Dakṣiṇāmūrti  
+      - The definition of god’s figure of grace 
+
+    - The Dakṣiṇāmūrti and iconography  
+      - The development of a cult concept into an iconic image 
+      - A Dakṣiṇāmūrti on a crossbar found in Nagarī  
+        - Dakṣa’s sacrifice and his instruction in the Pāśupata vrata 
+
+
+
+- 27 Thanesar, the Pāśupata Order and the Skandapurāṇa: Studies in the Skandapurāṇa IX  
+    - The tradition of the four pupils of Lāguḍi  
+      - Lāguḍi 
+      - The Kuru lineage 
+      - Rāśi ascetics and ‘His own doctrine’ 
+
+    - The Skandapurāna and the Pāśupata movement  
+      - Vārāṇasī 
+      - The Māhātmya of Sthāneśvara 
+      - Bāṇa’s relationship with Dadhīca, the founder of Sthāneśvara 
+
+    - The Skandapurāṇa reaches Nepal  
+      - Matrimonial alliances and the spread of culture 
+
+
+- 28 The Gospel of Kauṇḍinya: The descent of God in Gujarat and the practice of imitating God  
+    - Kauṇḍinya’s Pañcārthabhāṣya  
+      - Kuśika and the divine revelation 
+      - The power of the word 
+
+    - The Pāśupata praxis  
+      - The imitatio dei 
+      - The seeking of dishonour 
+      - Fools through the ages 
+
+    - Kauṇḍinya’s eschatology 
+    - Modern forms of Hindu devotion 
+    - Epilogue 
+
+- 29 Origin and Spread of the Pāśupata Movement: About Heracles, Lakulīśa and symbols of masculinity  
+    - Lāguḍi  
+      - Early images of a club bearing ascetic or teacher 
+      - The laguḍa a or club 
+      - The origin of the Pāśupata movement 
+
+    - The four disciples  
+      - Spread and ramification of the Pāśupata movement 
+      - The route along which the Pāśupata religion moved north 
+
+    - The Origin of a pan-Indian religion 
+
+- 30 The Quest for the Pāśupata Weapon: The gateway of the Mahādeva Temple at Madhyamikā \(Nagarī\) \(Together with Peter Bisschop\)  
+    - Introduction 
+    - The History of the Nagarī site  
+      - Inscriptions and coins 
+      - Archaeology 
+
+    - The Toraṇa of the Mahādeva Temple  
+      - The eastern face \(E\) of the gateway architrave 
+      - The western face\(W\)of the gateway architrave 
+      - The Pāśupata weapon 
+
+    - Concluding observations 
+
+- 31 Composition and Spread of the Skandapurāṇa An artist’s impression 
+
+- References and Index  
+- List of figures 
+- List of plates 
+- Bibliography 
+- Index 
+
+
+
+*
+
+
+
 ### Table of Contents
 
-part i
-
-Early Studies
+#### part i Early Studies
 
 1986–2000
 
@@ -141,9 +579,7 @@ Ayodhyā: le nom et le lieu
 
 47
 
-Ayodhyā conçue : le nom
-
-. . . . . . . . . . . . . . . . . . . 
+Ayodhyā conçue : le noṁ. . . . . . . . . . . . . . . . . . 
 
 47
 
@@ -201,9 +637,7 @@ The Kingdom of Avadḥ . . . . . . . . . . . . . . . . . 66
 
 The emerging conflict around the Babri Masjid in Ayodhyā . 68
 
-Ayodhyā: a Hindu Jerusalem
-
-. . . . . . . . . . . . . . . . . 
+Ayodhyā: a Hindu Jerusaleṁ. . . . . . . . . . . . . . . . 
 
 71
 
@@ -465,17 +899,13 @@ The family descending from Amara in Kosala . . . . . . . . . 240
 
 The rulers of Śarabhapur . . . . . . . . . . . . . . . . . . . 243
 
-The Pāṇḍuvam
-
-. śa of Śrīpura
+The Pāṇḍuvaṁśa of Śrīpura
 
 . . . . . . . . . . . . . . . . . 
 
 248
 
-The date of the Pāṇḍuvam
-
-. śa dynasty of Śrīpura
+The date of the Pāṇḍuvaṁśa dynasty of Śrīpura
 
 . . . . . 
 
@@ -497,9 +927,7 @@ Tālā . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 256
 
 The Jiṭhānī Temple . . . . . . . . . . . . . . . . . . . 260
 
-13 Somaśarman, Somavam
-
-. śa and Somasiddhānta
+13 Somaśarman, Somavaṁśa and Somasiddhānta
 
 A Pāśupata tradition in seventh-century Dakṣiṇa Kosala
 
@@ -533,9 +961,7 @@ Somaśarman and the Somasiddhānta . . . . . . . . . . . . . 293
 
 The evidence of the Skandapurāṇa . . . . . . . . . . . . . . 294
 
-Somaśarman, Somavam
-
-. śa and Somasiddhānta . . . . . . . . . 296
+Somaśarman, Somavaṁśa and Somasiddhānta . . . . . . . . . 296
 
 
 
@@ -839,15 +1265,11 @@ Preamble
 
 The funerary monument in Sanskrit literature . . . . . . . . . 405
 
-The *aid*
-
-*. ¯*
+The *aiḍ¯*
 
 *uka * of the Viṣṇudharmottarapurāṇa . . . . . . . . 406
 
-The *ed*
-
-*. ¯*
+The *eḍ¯*
 
 *uka *. . . . . . . . . . . . . . . . . . . . . . . . 407
 
@@ -873,9 +1295,9 @@ Sui Vihar̥ . . . . . . . . . . . . . . . . . . . . .
 
 426
 
-The archaeology of the *´*
+The archaeology of the *́*
 
-*sma´*
+*smá*
 
 *sāna*
 
@@ -891,9 +1313,7 @@ The Kumhāra T
 
 430
 
-The *ed*
-
-*. ¯*
+The *eḍ¯*
 
 *uka * at Mansar̥ . . . . . . . . . . . . . . . . . 
 
@@ -1015,9 +1435,7 @@ Aśoka and ancient warfare in India . . . . . . . . . . . . . . 475
 
 The Arthaśāstra . . . . . . . . . . . . . . . . . . . . . 476
 
-The principle of *ahim*
-
-*. sā * and the rules of war̥ . . . . . . . . 
+The principle of *ahiṁsā * and the rules of war̥ . . . . . . . . 
 
 477
 
@@ -1051,9 +1469,7 @@ The battle and the sacrifice
 
 481
 
-Hinduism and Islam
-
-. . . . . . . . . . . . . . . . . . . . . 
+Hinduism and Islaṁ. . . . . . . . . . . . . . . . . . . . 
 
 482
 
@@ -1261,9 +1677,7 @@ Early images of a club bearing ascetic or teacher̥ . . . .
 
 554
 
-The *lagud*
-
-*. a * or club . . . . . . . . . . . . . . . . . . . . 555
+The *laguḍa * or club . . . . . . . . . . . . . . . . . . . . 555
 
 The origin of the Pāśupata movement
 
@@ -1427,13 +1841,13 @@ When my views have changed in such a way that rewriting would affect the origina
 
 The revision described above has a few important consequenceṣ All articles have been typeset anew. Preliminary Abstracts, Acknowledgements, and Keywords have been left ouṭ The separate bibliographies have been assembled in one list of references at the end of the book. The text of the studies has been newly divided according to headings and subheadings which appear in the Table of Contentṣ In order to serve the aim of welding a collection of studies into a real unity, I have added hundreds of cross-referenceṣ Illustrations have been inserted whenever I found them useful and the volume is concluded by an Index. 
 
-The book is divided into three parts: I Early Studies \(1986–2000\). II Studies in the Early History and Culture of North India. 
+The book is divided into three parts: 
 
-III
+I Early Studies \(1986–2000\). 
 
-Studies in Early
+II Studies in the Early History and Culture of North India. 
 
-Saivism. As most divisons, this arrangement is relatively arbitrary. It precludes a strict chronological order of the original publications and allows a thematic ordering only to some extenṭ This compromise between chronology and themes means to facilitate a ready access of the reader to the subject of his/her interest, whereas the sequence of studies opens the possibility to continue the development of a theme as it has evolved in my thinking. Where a thematic sequence was not possible it is hoped that cross-references may guide the reader further̥ Despite selection and revision, a certain amount of redundancy could not be avoideḍ 
+III Studies in Early Saivism. As most divisons, this arrangement is relatively arbitrary. It precludes a strict chronological order of the original publications and allows a thematic ordering only to some extenṭ This compromise between chronology and themes means to facilitate a ready access of the reader to the subject of his/her interest, whereas the sequence of studies opens the possibility to continue the development of a theme as it has evolved in my thinking. Where a thematic sequence was not possible it is hoped that cross-references may guide the reader further̥ Despite selection and revision, a certain amount of redundancy could not be avoideḍ 
 
 This volume has been composed as part of my work as curator at the British Museum \(2014–2019\) for the project: Beyond Boundaries: Religion, Region, Language and the State \(ERC Project no. 609823\). I am grateful for all the help I have received from my colleagues in this project and the museum staff. 
 
@@ -1453,11 +1867,9 @@ British Museum, 1 May 2019
 
 
 
+## Early Studies 1986–2000
 part i
 
-Early Studies
-
-1986–2000
 
 
 
@@ -1517,9 +1929,7 @@ renouncer and the householder differ in several important aspects, I agree with 
 
 5
 
-Dumont’s work, nor to focus on the caste system and its counterpart, ‘renunciation’ \( *sam*
-
-*. nyāsa*\), social institutions that, despite some modifications, seem to be giving way but slowly \(cf. Dumont 1966, 289 f.\). In view of the overall religious setting which encompasses Indian society, we intend to give an appraisal of the traditional Hindu understanding of individual man by focusing on some religious currents that made their appearance in northern India from the 12th century onwardṣ From it we may gain an impression of whether Indian thought approximates and appraises our ideal of ‘personhood’ or develops its own categorieṣ 5
+Dumont’s work, nor to focus on the caste system and its counterpart, ‘renunciation’ \( *saṁnyāsa*\), social institutions that, despite some modifications, seem to be giving way but slowly \(cf. Dumont 1966, 289 f.\). In view of the overall religious setting which encompasses Indian society, we intend to give an appraisal of the traditional Hindu understanding of individual man by focusing on some religious currents that made their appearance in northern India from the 12th century onwardṣ From it we may gain an impression of whether Indian thought approximates and appraises our ideal of ‘personhood’ or develops its own categorieṣ 5
 
 The Indian understanding of perfect man
 
@@ -1901,9 +2311,7 @@ Moreover, it could well be that many of the Sants themselves were in reality mor
 
 advaita  etc. creates lines of demarcation which, by using a different type of conceptual framework, reveal themselves as artificial’ \(Hardy 1983b, 149\). 
 
-The soil on which an emotional type of bhakti  directed either to Kr̥ṣṇa or to Rāma could grow was prepared before the Muslim conquesṭ The germs of devotion towards Rāma were still couched in an intellectual and ritualistic framework peculiar to the Pā˜
-
-ncarātra tradition, but remarkable concessions
+The soil on which an emotional type of bhakti  directed either to Kr̥ṣṇa or to Rāma could grow was prepared before the Muslim conquesṭ The germs of devotion towards Rāma were still couched in an intellectual and ritualistic framework peculiar to the Pāñcarātra tradition, but remarkable concessions
 
 to popular demand were already made. The Agastyasaṁhitā \(12th century\), 
 
@@ -2569,13 +2977,9 @@ Hans Bakker
 
 zugrundliegt, das dementsprechend nur von einem Extrem, der ‘Substanz ohne Subjektivität,’ ins andere, die Mannigfaltigkeit der natürlichen Wirklichkeit, übergehen kann, ein Übergang, den Hegel des öfteren als einen ‘haltungslosen Taumel’ bezeichneṭ 48
 
-Nun kann diese ‘ Übung’ außer in dem ‘Unterdrückungsyoga’ genausogut in der theistischen Form der Meditation angewandt werden, eine Meditation, worin Gott, unter anderem durch das Wiederholen des om
+Nun kann diese ‘ Übung’ außer in dem ‘Unterdrückungsyoga’ genausogut in der theistischen Form der Meditation angewandt werden, eine Meditation, worin Gott, unter anderem durch das Wiederholen des oṁ-Klangs, zum Be-
 
-. -Klangs, zum Be-
-
-wußtseinsinhalt gemacht wirḍ 49 Zweifellos hat diese Art der Meditation mehr Verwandtschaft mit dem von Kr̥ṣṇa gelehrten Weg in der Bhagavadgītā, wenn er sagt: ‘Richte deine Gedanken ausschließlich auf Mich, durchdringe Mich mit deinem Geisṭ’ Und hiermit stoßen wir an einen zweiten Punkt, an dem Hegel der Gītā nicht gerecht wird, da er aus Kr̥ṣṇas Aussprachen, in denen dieser Sich selbst mit der Silbe om
-
-. , mit den Vedas, oder mit allem, ‘was ist und nicht
+wußtseinsinhalt gemacht wirḍ 49 Zweifellos hat diese Art der Meditation mehr Verwandtschaft mit dem von Kr̥ṣṇa gelehrten Weg in der Bhagavadgītā, wenn er sagt: ‘Richte deine Gedanken ausschließlich auf Mich, durchdringe Mich mit deinem Geisṭ’ Und hiermit stoßen wir an einen zweiten Punkt, an dem Hegel der Gītā nicht gerecht wird, da er aus Kr̥ṣṇas Aussprachen, in denen dieser Sich selbst mit der Silbe oṁ, mit den Vedas, oder mit allem, ‘was ist und nicht
 
 ist,’ gleichstellt \(BhG 9.17, 19\), folgert, daß Kr̥ṣṇa eigentlich nichts anderes als eine Personifikation des brahman, ḍh. Brahmā darstellṭ Diese Äquivalenz
 
@@ -2793,9 +3197,7 @@ On trouve déjà le mot ayodhyā \(‘imprenable’\) dans l’Atharvaveda 10.2.
 
 et dans le Taittirīya āraṇyaka 1.27.2–3, comme épithète de la forteresse \( pur\) des dieux. Dans toute la partie narrative du Mahābhārata, qui constituait pro-
 
-bablement la partie la plus ancienne de l’Epopée, et dans les parties analogues de la littérature purânique \(désignée par Purāṇapa˜
-
-ncalakṣaṇa\), Ayodhyā figu-
+bablement la partie la plus ancienne de l’Epopée, et dans les parties analogues de la littérature purânique \(désignée par Purāṇapañcalakṣaṇa\), Ayodhyā figu-
 
 re comme la capitale ancienne de la dynastie des Ikṣvāku qui régnait dans le
 
@@ -2889,9 +3291,7 @@ que nom de ville ancienne uniquement dans la littérature épique déjà mention
 
 tant que nom de lieu ne figure point dans ces texteṣ Par contre, les anciens textes qui parlent de Sāketa, d’abord, ne mentionnent jamais Ayodhyā, et, de
 
-plus, ils sont nettement d’une autre nature. On peut à peine douter qu’il s’agit de cas historiques réels dans les canons des deux traditions hétérodoxes, ainsi que dans les textes sanskrits comme le commentaire de Pata˜
-
-njali sur Pāṇini,14
+plus, ils sont nettement d’une autre nature. On peut à peine douter qu’il s’agit de cas historiques réels dans les canons des deux traditions hétérodoxes, ainsi que dans les textes sanskrits comme le commentaire de Patañjali sur Pāṇini,14
 
 ou dans ceux un peu plus récents, comme le Yugapurāṇa, 15 la Mahāmāyūrī, 16
 
@@ -2925,9 +3325,7 @@ vi siècle avant J.-C., 23 qui s’appelait Sāketa, et d’une autre ville, fic
 
 13 Sthānasūtra \(Thānasuya\), 637 \(II, 435 v \). 
 
-14 Pata˜
-
-njali ad  Pāṇini, 1.3.25. 
+14 Patañjali ad  Pāṇini, 1.3.25. 
 
 15 Yugapurāṇa 1.94–95, 1.116–119. 
 
@@ -3005,9 +3403,7 @@ Il produisit non seulement un développement de cette littérature qu’on appel
 
 un corpus considérable de mythologie avait été reçu et élaboré à l’intérieur du jainisme. Une grande partie de ce corpus n’était pourtant pas issue des traditions spécifiquement jainistes, mais était déjà connue sous des formes brâhmaniqueṣ 29 Dans cette fusion, la mythologie du clan des Ikṣvāku fut liée à la notion des tīrthaṅkara  et des cakravartiṇ Ainsi dit-on que le premier tīrthaṅkara, r̥ ṣabha, était né à Ikkhāgabhūmi, 30 ou Viṇīyā \(Vinītā\), comme
 
-cette ville est appelée dans le Jambūdvīpapraj˜
-
-napti \(I, p. 112\). La ville mytho-
+cette ville est appelée dans le Jambūdvīpaprajñapti \(I, p. 112\). La ville mytho-
 
 logique de Viṇīyā ne peut être que l’Ayodhyā épique désignée sous un autre nom. Et vu que Sāketa était déjà connu dans le jainisme comme un des lieux sacrés, sanctifié par les séjours de Mahāvīra, 31 les jainas n’hésitèrent pas à con-
 
@@ -3033,11 +3429,7 @@ finale fut réalisée quand la cour royale des Gupta fut transportée temporaire
 
 \(415–467 apr̥ J.-C.\). 35 C’est peut-être à ceci que fait allusion Kālidāsa dans
 
-le Raghuvam
-
-. śa; 36 de plus, la théorie que nous venons d’avancer expliquerait pourquoi dans le Raghuvam
-
-. śa, pour la première fois, Sāketa et Ayodhyā sont
+le Raghuvaṁśa; 36 de plus, la théorie que nous venons d’avancer expliquerait pourquoi dans le Raghuvaṁśa, pour la première fois, Sāketa et Ayodhyā sont
 
 identifiées de façon catégorique. 37
 
@@ -3067,13 +3459,9 @@ siècle.
 
 I, 29. 
 
-36 Raghuvam
+36 Raghuvaṁśa 16.25–42; Kṣīrasvāmin’s Kṣīrataraṅgiṇī, 274 sq.; Frauwallner 1951, 30; Bakker 1982a, 103–126. 
 
-. śa 16.25–42; Kṣīrasvāmin’s Kṣīrataraṅgiṇī, 274 sq.; Frauwallner 1951, 30; Bakker 1982a, 103–126. 
-
-37 Raghuvam
-
-. śa, 5.31, 13.79, 14.13; cf. Brahmāṇd
+37 Raghuvaṁśa, 5.31, 13.79, 14.13; cf. Brahmāṇd
 
 . apurāṇa \(Bd
 
@@ -3151,7 +3539,7 @@ Plate 1
 
 La maison ò
 
-u Tante Le´onie achetait ses madeleines
+u Tante Léonie achetait ses madeleines
 
 Tante Léonie du roman \(hébergeant actuellement le Musée Marcel-Proust\), mais aussi, pour prendre un exemple, la maison où cette tante achetait ses madeleines, 46 ces ‘gâteaux courts et doduṣ . . qui semblent avoir été moulés dans la valve rainurée d’une coquille de Saint-Jacqueṣ’ 47
 
@@ -3373,9 +3761,7 @@ vow to take up the cross—which both promised the individual the fruits of mart
 
 I gave the Arunmukha ascetics to the hyenaṣ After breaking many promises, in heaven I crushed the Prahlādīyas, in the sky the Paulomas and on earth the
 
-Kālakha˜
-
-njaṣ Yet not one hair of mine \(having done this\) was destroyeḍ And no hair will be destroyed of him who knows me, by any deed; not because of theft, not because of infanticide, not because of matricide and not because of patricide. 
+Kālakhañjaṣ Yet not one hair of mine \(having done this\) was destroyeḍ And no hair will be destroyed of him who knows me, by any deed; not because of theft, not because of infanticide, not because of matricide and not because of patricide. 
 
 Even if he commits evil, the colour does not leave his face. 13
 
@@ -3421,7 +3807,7 @@ In the year 414 ah Mahmúd captured several forts and cities in Hind, and he als
 
 Every night that there was an eclipse the Hindus went on pilgrimage to the temple, and there congregated to the number of a hundred thousand personṣ \[. . . \] One thousand Brahmans attended every day to perform the worship of the idol, and to introduce the visitorṣ Three hundred persons were employed in shaving the heads and beards of the pilgrimṣ Three hundred and fifty persons sang and danced at the gate of the temple. Every one of these received a settled allowance daily. \[. . . \]
 
-He reached Somnát on a Thursday in the middle of Z´ı-l Ka - da, and there he beheld a strong fortress built upon the seashore, so that it was washed by the waveṣ \[. . . \]
+He reached Somnát on a Thursday in the middle of Źı-l Ka - da, and there he beheld a strong fortress built upon the seashore, so that it was washed by the waveṣ \[. . . \]
 
 Next morning, early, the Muhammadans renewed the battle, and made great havoc 15 For instance expressed in the Bhagavadgītā: ‘There is nothing transcending me, O
 
@@ -3443,7 +3829,7 @@ It is a well-authenticated fact that when Mahmúd was about to destroy the idol,
 
 Mahmúd replied: ‘I know this, but I desire that on the day of resurrection I should be summoned with the words, ‘Where is that Mahmúd who broke the greatest of the heathen idols?’ rather than by these: ‘Where is that Mahmúd who sold the greatest of the idols to the infidels for gold?’ 17
 
-A dreadful slaughter followed at the gate of the temple. Band after band of the defenders entered the temple to Somnát, and with their hands clasped round their necks, wept and passionately entreated him. Then again they issued forth to fight until they were slain, and but few were left alive. \[. . . \] This temple of Somnát was built upon fifty-six pillars of teak wood covered with leaḍ The idol itself was in a chamber̥ \[Mahmúd\] seized it, part of it he burnt, and part of it he carried away with him to Ghazn´ı, where he made it a step at the entrance of the Jámi --masjiḍ 
+A dreadful slaughter followed at the gate of the temple. Band after band of the defenders entered the temple to Somnát, and with their hands clasped round their necks, wept and passionately entreated him. Then again they issued forth to fight until they were slain, and but few were left alive. \[. . . \] This temple of Somnát was built upon fifty-six pillars of teak wood covered with leaḍ The idol itself was in a chamber̥ \[Mahmúd\] seized it, part of it he burnt, and part of it he carried away with him to Ghazńı, where he made it a step at the entrance of the Jámi --masjiḍ 
 
 The worth of what was found in the temple exceeded two millions of dinars, all of which was takeṇ The number of slain exceeded fifty thousanḍ 18
 
@@ -3455,15 +3841,15 @@ There are two parties among the Sanyāsīs \(i.e. Śaiva ascetics\): one is call
 
 and the other Pūrī. A quarrel arose among these two about the place of sitting. 
 
-The asceticism of most of these men arises from the world’s having turned its back on them, and not from their having become coldhearted to the worlḍ Consequently they are continually distressed and are overcome of lust and wrath, and 16 Ibn As´
+The asceticism of most of these men arises from the world’s having turned its back on them, and not from their having become coldhearted to the worlḍ Consequently they are continually distressed and are overcome of lust and wrath, and 16 Ibn Aś
 
-ır’s Kámilu-t Tawár´ıkh, Elliot and Dowson 1867–77 II, 468 f. 
+ır’s Kámilu-t Tawáŕıkh, Elliot and Dowson 1867–77 II, 468 f. 
 
-17 Mulla Ahmad Tattaw´
+17 Mulla Ahmad Tattaẃ
 
-ı’s Tár´ıkh-i Alf´ı, Elliot and Dowson 1867-77 II, 471 f. 
+ı’s Táŕıkh-i Alf́ı, Elliot and Dowson 1867-77 II, 471 f. 
 
-18 Kámilu-t Tawár´ıkh, Elliot and Dowson 1867-77 II, 470 f. 
+18 Kámilu-t Tawáŕıkh, Elliot and Dowson 1867-77 II, 470 f. 
 
 
 
@@ -3495,9 +3881,7 @@ The figure of Rāma has developed into the archetype of the just king in Indian 
 
 He is introduced in the Rāmāyaṇa 1.1.2–4 as followṣ 
 
-Who is there in this world today who is virtuous? Who is mighty \(heroic\), knows the dharma, is grateful \( kr̥taj˜
-
-na\), speaks the truth and firmly keeps his vows? Who is possessed of good conduct, and who is well-disposed towards all living beings? 
+Who is there in this world today who is virtuous? Who is mighty \(heroic\), knows the dharma, is grateful \( kr̥tajña\), speaks the truth and firmly keeps his vows? Who is possessed of good conduct, and who is well-disposed towards all living beings? 
 
 Who is wise, who is skilful, and who alone is beautiful to behold? Who is self-controlled and has conquered \(his\) wrath; who is wise and free from envy? For whom do \(even\) the gods feel fear when his fury is roused in battle? 
 
@@ -4035,9 +4419,7 @@ The other graffito is found on the left square pillar that stands in front of th
 
 sixth century. 9 Hence the inscription may date from the fifth–sixth century. It reads: bharatanātha, probably also the name of a devotee. 10
 
-5 Jamkhedkar 1987a, 340. Jamkhedkar published his edition and translation of this inscription in Kusumā˜
-
-njali I \(1987b\), 217–23. We have presented an edition and translation of this inscription in BSOAS LVI, Part 1 \(1993\), 46–74 \(see below, p. 115 ff.\). 
+5 Jamkhedkar 1987a, 340. Jamkhedkar published his edition and translation of this inscription in Kusumāñjali I \(1987b\), 217–23. We have presented an edition and translation of this inscription in BSOAS LVI, Part 1 \(1993\), 46–74 \(see below, p. 115 ff.\). 
 
 6 Cf. Williams 1983, 226. 
 
@@ -4093,9 +4475,7 @@ Kevala–Narasiṁha Temple Ramtek Inscription No. 1 \(Plate 8\)
 
 Text
 
-\[**1**\] trivikramapadodbhūtāvaṁdanīyāsarasvatī| sarvaj˜
-
-nasyā
+\[**1**\] trivikramapadodbhūtāvaṁdanīyāsarasvatī| sarvajñasyā
 
 \[**2**\] ˘ śirasārasālaṁkr̥tiśobhanā  k kāmadevasutaḥ 
 
@@ -4111,9 +4491,7 @@ Analysed text
 
 trivikramapadodbhūtā vandanīyā sarasvatī|
 
-sarvaj˜
-
-nasyā h pi i śirasā rasālaṁkr̥tiśobhanā  k
+sarvajñasyā h pi i śirasā rasālaṁkr̥tiśobhanā  k
 
 kāmadevasutaḥ  h śā i rṅgadevas tārkikaśekharaḥ |
 
@@ -4319,9 +4697,7 @@ la ˙
 
 nkhādhīśas sa rāma h ḥ  i kavirutavacasāṁstutya ekaḥ sa rāmas, 
 
-tattvaj˜
-
-nāno sa rāmo  h ni i jakulasaraso rājahaṁsaḥ sa rāmaḥ  k 38 k
+tattvajñāno sa rāmo  h ni i jakulasaraso rājahaṁsaḥ sa rāmaḥ  k 38 k
 
 
 
@@ -4455,7 +4831,7 @@ to have been a local official in charge of the work’. 26
 
 It seems likely that this Rāghava is the same as Raghu ‘the deputy and
 
-minister of the late Rá´ı Rám Deo’ who joined the rebellion of Rāmacandra’s
+minister of the late Rá́ı Rám Deo’ who joined the rebellion of Rāmacandra’s
 
 25 Cf. Bombay Gaz. I, 239, 522; Bhandarkar 1928, 186; Yazdani 1960 I, 529. 
 
@@ -4549,9 +4925,7 @@ Agastya–Rāma–other sages, etc., corresponds to the one presented in the SM
 
 Vv. 47–116 contain the actual Māhātmya of Sindūragiri as revealed by
 
-Agastya. After having proclaimed the merit that accrues to one who stays on this mountain, especially after keeping a fast and vigil on a Viṣṇu-day \(probably the 11th of each pakṣa\) \(vv. 47–51\), the text goes on to mention the four dvārapālas, or guardians of the kṣetra \(v. 52\). They are the same as described in the SM 2.1, viz. Ghaṇṭeśvara, Sudheśvara \(= Siddheśvara ?\), Kedāreśvara and ā˜
-
-njaneya \(i.e. Hanumat\). 
+Agastya. After having proclaimed the merit that accrues to one who stays on this mountain, especially after keeping a fast and vigil on a Viṣṇu-day \(probably the 11th of each pakṣa\) \(vv. 47–51\), the text goes on to mention the four dvārapālas, or guardians of the kṣetra \(v. 52\). They are the same as described in the SM 2.1, viz. Ghaṇṭeśvara, Sudheśvara \(= Siddheśvara ?\), Kedāreśvara and āñjaneya \(i.e. Hanumat\). 
 
 Next the inscription describes the ‘eight tīrthas’ \(cf. v. 64\) that, according to the SM 5.4, encircle the pond Ambatīrtha \(v. 60\) \(in SM known as Ambakuṇḍa and now called Ambālā Tālāb\). This pond lies at the eastern end of the horseshoe-shaped Rāmagiri hill and is nowadays surrounded by many
 
@@ -4563,17 +4937,13 @@ tioned in v. 55; cf. SM 5.4\), Śaṅkhatīrtha \(v. 56\), Agnitīrtha \(v. 58\)
 
 eighth, Kurukṣetratīrtha \(v. 64\). 
 
-Then a group of ‘five tīrthas’ is described \( tīrthapa˜
-
-ncaka, vv. 65–70\), of which
+Then a group of ‘five tīrthas’ is described \( tīrthapañcaka, vv. 65–70\), of which
 
 only three are known today and mentioned, not coherently, in the SM. The first three are Lakṣmītīrtha \(v. 66\), Haṁsatīrtha \(v. 67\), Cakratīrtha \(v. 68; 
 
 SM 7.25–29\). According to Mirashi \(1959, 101\) this latter could be the pond today called Cākorḍā lying one mile to the south of the hill.29 The fourth is Dhanustīrtha \(v. 69; SM 7.29–35\). Here one should offer a bow, preferably of gold \(cf. SM 7.31–32\). The fifth is Pitr̥tīrtha \(v. 70\), where one should bathe and offer a pitr̥tarpaṇa. This tīrtha  is described at length in SM 4.3–16, where it is said that its modern name is Rāmagayā \(cf. v. 80, in which this name is
 
-mentioned\). It could be modern Gāyakhurī near Khim
-
-. ḍsī Lake \(Mirashi 1959, 
+mentioned\). It could be modern Gāyakhurī near Khiṁḍsī Lake \(Mirashi 1959, 
 
 101\), or the Ambālā tank \(Hiralal 1908, 205\). 
 
@@ -4609,9 +4979,7 @@ on the other hand, as is assumed by Mirashi \(1959, 102\), this ‘Rāmatīrtha�
 
 is identical with the reservoir northeast of the hill, which according to the SM was formerly called ¯Iśāla and today Rām Sāgar or Rāmatirtha \(SM 15.40:
 
-īśālākhyaṁpurā nāmādhunā puṣkaram
-
-. śubham | rāmatīrtham idānīṁtu rāma
+īśālākhyaṁpurā nāmādhunā puṣkaraṁśubham | rāmatīrtham idānīṁtu rāma
 
 snānena te bhavet  k\), the fact would remain that a conspicuous tank on the Rāmagiri is not recorded in the inscriptioṇ The inscription does not make a reference to a bathing place of Sītā \(a Sītākuṇḍa or a Sītātīrtha\).30 The
 
@@ -4861,9 +5229,7 @@ M\(2\) : reading Mirashi 1959, 92–99
 
 ˘ yugmah. k 7 k
 
-tato ’bhūd yādavo vam
-
-. śah., ˘ ˘ ˘ ˘ ˘ ˘ ˘ |
+tato ’bhūd yādavo vaṁśah., ˘ ˘ ˘ ˘ ˘ ˘ ˘ |
 
 ˘ ˘ ˘ ˘ ˘ ˘ ˘ ˘ , ˘ ˘ ˘ ˘ ˘
 
@@ -4883,9 +5249,7 @@ tato ’bhūd yādavo vam
 
 Hans Bakker
 
-kiṁvarṇyate h’yam yaiduvam
-
-. śajah. ˘ , ˘ ˘
+kiṁvarṇyate h’yam yaiduvaṁśajah. ˘ , ˘ ˘
 
 ˘ ˘
 
@@ -5025,9 +5389,7 @@ k 13 k
 
 tvam andhrādhipa, 
 
-tvaṁre coḍavimu˜
-
-nca dahrpai ˘ ˘
+tvaṁre coḍavimuñca dahrpai ˘ ˘
 
 ˘
 
@@ -5657,13 +6019,9 @@ Hans Bakker
 
 ˘ tir, 
 
-\(dhī\)raṁkṣāntir api pradhānakulajam
+\(dhī\)raṁkṣāntir api pradhānakulajaṁśraddhā yathā sā\(ttvi\)kam |
 
-. śraddhā yathā sā\(ttvi\)kam |
-
-tadvad bhūṣayati sma yam
-
-. \(pri\)yatamā saubhāgyasaundharyabhū, 
+tadvad bhūṣayati sma yaṁ\(pri\)yatamā saubhāgyasaundharyabhū, 
 
 rājāyīti guṇāśrayā guṇagaṇādhāraṁdharā
 
@@ -5677,9 +6035,7 @@ k 34 k
 
 gurum ātmīyam ity eṣa, papraccha tadanu dvijam k 35 k
 
-jānāsi sarvaṁbhagavaṁs tatas tvām
-
-. , pr̥cchāmi paryutsukatām upetah. |
+jānāsi sarvaṁbhagavaṁs tatas tvāṁ, pr̥cchāmi paryutsukatām upetah. |
 
 agādhasaṁsārapayodhi
 
@@ -5747,9 +6103,7 @@ avatārā daśāpy asya, rāmas tehṣāmi˘ ˘ ˘ |
 
 yukto vasaty uttamayogicintyah. |
 
-mahīdharasyāsya tapaṁgires tam
-
-. , 
+mahīdharasyāsya tapaṁgires taṁ, 
 
 prabhāvam agryaṁkim udāharāmi k 40 k
 
@@ -5823,15 +6177,11 @@ tadraktapūrāruṇitas tato ’yam, ˘ ˘
 
 hguiṇakathām. saundaryasāraih. punas, 
 
-tadvad vaktum amum
-
-. \(br̥\)haspatisamo ’py anyo hi jānāti kah. k 43 k
+tadvad vaktum amuṁ\(br̥\)haspatisamo ’py anyo hi jānāti kah. k 43 k
 
 **25**
 
-papau samudraṁculukena yas tam
-
-. , munīhśai
+papau samudraṁculukena yas taṁ, munīhśai
 
 ˘ ˘
 
@@ -5883,9 +6233,7 @@ mano mr̥du ˘ ˘ ˘
 
 ˘ meśvara itīha kīrtyate k 45 k
 
-śrīrāmāya munīśvarah. kalaśabh¯ur madhyesabham
-
-. \(bra\)hmaṇah., 
+śrīrāmāya munīśvarah. kalaśabh¯ur madhyesabhaṁ\(bra\)hmaṇah., 
 
 **26**
 
@@ -6113,9 +6461,7 @@ tapaṁgirau jāgarahṇāṁi ˘
 
 ˘ marādhikābhaih. k 51 k
 
-ghaṇṭeśvaraṁcaiva sudheśvaraṁca kedāram īśaṁca tathā˜
-
-njaneyam |
+ghaṇṭeśvaraṁcaiva sudheśvaraṁca kedāram īśaṁca tathāñjaneyam |
 
 **29**
 
@@ -6245,13 +6591,9 @@ snātvā śrī \[**32**\]
 
 , 
 
-† latyanalām
+† latyanalāṁ† samayam abhayah. śaṅkhapāṇyantikasthah. k 57 k
 
-. † samayam abhayah. śaṅkhapāṇyantikasthah. k 57 k
-
-tām agnitīrthaprabhavāṁvibhūtim
-
-. , \[**33**\] ˘
+tām agnitīrthaprabhavāṁvibhūtiṁ, \[**33**\] ˘
 
 ˘
 
@@ -6301,9 +6643,7 @@ am\(bi\)kānāthasadane yāti bhogaikabhūmitām k 60 k
 
 **52a **conieci
 
-siddheśvaram
-
-. \(cf. SM 2.1\)
+siddheśvaraṁ\(cf. SM 2.1\)
 
 **53c ** majjanena  conj. M, bandha◦ M: vandha◦ E
 
@@ -6403,9 +6743,7 @@ Indravajra
 
 Hans Bakker
 
-adhigamya varuṇatīrtham
-
-. , \[**34**\] ˘˘˘˘
+adhigamya varuṇatīrthaṁ, \[**34**\] ˘˘˘˘
 
 ˘ ˘ ˘˘˘˘ ˘˘˘˘
 
@@ -6421,9 +6759,7 @@ varuṇādilokapālair, vanditacarahṇaṁi ˘˘˘˘ hhairiśaran
 
 . am k 61 k
 
-yat śuklatīrthe ’py abhiṣekabhājām
-
-. , 
+yat śuklatīrthe ’py abhiṣekabhājāṁ, 
 
 jāyeta pu\(ṇya\)ṁnarapuṁgavānām |
 
@@ -6435,9 +6771,7 @@ tīhrthaṁi nr̥siṁhasya kathaṁhciid ādyaih.,
 
 puhṇyaih.i samāsādya viśuddham¯urteh. |
 
-narasya loka\(tri\)taye karastham
-
-. , 
+narasya loka\(tri\)taye karasthaṁ, 
 
 kim īpsitaṁnāsti durāpam anyaih. k 63 k
 
@@ -6445,9 +6779,7 @@ aṣṭame ca kurukṣetranāmni tīrthavare narah. |
 
 nima\(jjya\) \(bra\)hmahatyādimr̥jāśuddho divaṁvra \[**36**\] jet k 64 k
 
-tīrthapa˜
-
-ncakam ihācalarāje yat trilokavidite vidihtāikhyam |
+tīrthapañcakam ihācalarāje yat trilokavidite vidihtāikhyam |
 
 tatprabhāvakathane na samartho devasārthagurur asti na so ’pi k 65 k
 
@@ -6465,15 +6797,11 @@ kiṁhaṁsatīrthasya tathāprabhāvah. prabh¯utapuṇyo\(jjva\)laketanasya |
 
 vyāhkhyāiyate yajjalapānato ’pi haṁso hr̥distho vimalatvam eti k 67 k
 
-śrīcakratīrthamahimānam amānam urvyām
-
-. , 
+śrīcakratīrthamahimānam amānam urvyāṁ, 
 
 gurvī pravaktum api kasya narasya śaktih. |
 
-yasya svayaṁbhagavatā hariṇā svacakram
-
-. , 
+yasya svayaṁbhagavatā hariṇā svacakraṁ, 
 
 rakṣārtham udyatam akalpi \[**38**\] sudarśanākhyam k 68 k snātvā dhanustīrthajale dhanuś ca pradāya hemādikr̥taṁsvaśaktyā |
 
@@ -6591,9 +6919,7 @@ kalipāsuranadyam\(bu\)saṅgād hgiaṅgārkajām\(bu\)noh. |
 
 saṅgaṁna gaṇayanty uccair manu\(ṣya\)munidevatāh. k 74 k
 
-nāścaryam asmin maṇikālakuṇḍam
-
-. , 
+nāścaryam asmin maṇikālakuṇḍaṁ, 
 
 tīrthottame prāpya samastasiddīh. |
 
@@ -6607,9 +6933,7 @@ hmoikṣakuṇḍam. samāsādya da\(kṣi\)ṇasyām. mahībhr̥tah. |
 
 durlabho ’pi bhaven mokṣah. sulabhah. prāṇināṁkṣaṇāt k 76 k
 
-śrīrāmatīrthaṁyad ihāsti tīrtham
-
-. , 
+śrīrāmatīrthaṁyad ihāsti tīrthaṁ, 
 
 sākṣātsadarthaprathitaprabhāvam |
 
@@ -6619,9 +6943,7 @@ phalapradātā daśakandharā \[**42**\] rih. k 77 k
 
 ekādaśīvāsaravāsabhājāṁtīrthe śubhārthe daśakaṇṭhaśatroh. |
 
-muktir varākī karapa˜
-
-njarasthā karoti sevāṁgr̥hasārikeva k 78 k
+muktir varākī karapañjarasthā karoti sevāṁgr̥hasārikeva k 78 k
 
 yat kārttike māsi naro nima\(jjya\) śrīrāmatīrthe daśakandharārim |
 
@@ -6753,19 +7075,13 @@ sa śambukah. ś¯udramunir mahīdhra-
 
 rāje ’tra dhūmrākṣa iti prasiddhah. k 86 k
 
-paśyanti muktīśvaranāmadheyam
-
-. śivam
-
-. śivā \[**46**\] nātham ihācalendre |
+paśyanti muktīśvaranāmadheyaṁśivaṁśivā \[**46**\] nātham ihācalendre |
 
 śivavratasthāh. śivavāsare ye śivatvam āyānti śivālaye te k 87 k gopījanānandasamudrapūrṇacandro vinidro\(jjva\)lapadmanetrah. |
 
 gopālamūrtir jagadekamūrtir vasaty asāv atra dharādharendre k 88 k
 
-atīva tejah.prasaraprataptam
-
-. , 
+atīva tejah.prasaraprataptaṁ, 
 
 jagat samagraṁkr̥payā rarakṣa |
 
@@ -6773,9 +7089,7 @@ yo ’yaṁcaturtho ’vataro ’cyutasya,
 
 śrī \[**47**\] mān nr̥siṁho ’pi vasaty amuṣmin k 89 k
 
-saptāmbhonidhipūradūrapihitāṁbibhrad dharāṁdam
-
-. ṣṭrayā, 
+saptāmbhonidhipūradūrapihitāṁbibhrad dharāṁdaṁṣṭrayā, 
 
 yo ’yaṁbhāti sarojinīdalanibho dantena yadvan \(n\)ayan |
 
@@ -6785,9 +7099,7 @@ kalpānte daśakandharārisadane so ’trādikolah. prabhuh. k 90 k
 
 ananyalabhyām atulāṁsaparyām, 
 
-nityam
-
-. \[**48**\] parityajya mahendradattām |
+nityaṁ\[**48**\] parityajya mahendradattām |
 
 śrīmān nr̥pa\(h.\) paṅktiratho ’pi putra-
 
@@ -6807,11 +7119,7 @@ sindūrācalam īkṣaṇaṁkṣaṇam api kṣīnānyavāsaspr̥hah.,
 
 śrīrāmaspr̥hayā karoti bhagavān kiṁvā mahābhairavah. | 94 k
 
-pa˜
-
-ncāsyaṁcandramauliṁdaśabhujam udayatkoṭibhān¯ugrabhāsam
-
-. , 
+pañcāsyaṁcandramauliṁdaśabhujam udayatkoṭibhān¯ugrabhāsaṁ, 
 
 tryakṣaṁvr̥kṣā ˘
 
@@ -6823,11 +7131,7 @@ trailokye siddhisaṁrāḍ vasati pavanajah. so ’tra rāmaikabhr̥tyah. k 95 
 
 śrīrāmāvatare hareh. sahacarah. śaṅkho ’py aśaṅkhātmakah. |
 
-āste so h’trai sa \[**51**\] mastabhaktajanatātattanmanovā˜
-
-nchitam
-
-. , 
+āste so h’trai sa \[**51**\] mastabhaktajanatātattanmanovāñchitaṁ, 
 
 saṁyacchan janakādhirājatanayānāthāntike lakṣmaṇah. k 96 k
 
@@ -6837,9 +7141,7 @@ saṁyacchan janakādhirājatanayānāthāntike lakṣmaṇah. k 96 k
 
 M: ◦ ojvala◦ E
 
-**90a **◦ apihitaṁM\(2\), dram
-
-. ṣṭryā  M\(2\)
+**90a **◦ apihitaṁM\(2\), draṁṣṭryā  M\(2\)
 
 **90b **conieci yadvan nayan: yad-
 
@@ -6901,25 +7203,17 @@ Upajāti
 
 103
 
-yannāmasmaraṇāt prayāti ni\(khi\)lah. pāpādrir uccaih. kṣayam
-
-. , 
+yannāmasmaraṇāt prayāti ni\(khi\)lah. pāpādrir uccaih. kṣayaṁ, 
 
 yā viśvaikapativratādhvani gurur devī dayaikāpagā |
 
-yā śāpena nināya bhasmakaṇikābh¯uyam
-
-. \(ca\) laṅkāpatim
-
-. , 
+yā śāpena nināya bhasmakaṇikābh¯uyaṁ\(ca\) laṅkāpatiṁ, 
 
 kartā me dayi\(to\) h’syai \[**52**\] nāśam iti sāpy atrāsti rāmāntike k 97 k
 
 ihācalendre daśakaṇṭhaśatror vilokya m¯urtīh. khalu ˘ martyah. |
 
-paratra kāle na karoti bhītim
-
-. † kātāstamat † saṁhr̥tighoramūrteh. k 98 k
+paratra kāle na karoti bhītiṁ† kātāstamat † saṁhr̥tighoramūrteh. k 98 k
 
 bhaktyā mahatyā prabhum ādirāmaṁjagatsu\(khā\)rāmatanuṁnirīkṣya |
 
@@ -6941,9 +7235,7 @@ prāpnoti yat tad iha kiṁnanu devarāhjoi,
 
 śrīśaṅkharāmaṁpraṇipatya martyah., padaṁsamabhyeti hi śaṅkhapāṇeh. |
 
-viśuddhabhāvena hr̥dā mahendramukhyādidevair abhivandyamānah. k 102 k jaganmahānandanidānam īśam
-
-. , 
+viśuddhabhāvena hr̥dā mahendramukhyādidevair abhivandyamānah. k 102 k jaganmahānandanidānam īśaṁ, 
 
 śrīmaithilīlakṣmaṇadevayuktam |
 
@@ -6955,9 +7247,7 @@ namaskari\(ṣye\) ’lpatarair vahcobhih.i k 103 k
 
 deva śrīraghunandana \(tri\)jagatām advaitavādaprabho, 
 
-bhāsvadvam
-
-. śamahāvibhūṣaṇamaṇe kāruṇyaratnākara |
+bhāsvadvaṁśamahāvibhūṣaṇamaṇe kāruṇyaratnākara |
 
 trailokyāridaśāsyakaṇṭhadaśakacchedollasatpāṇaye, 
 
@@ -7105,9 +7395,7 @@ deva tvām giripādape\(khi\)labhujāmuṣṭiprahāro ˘ ,
 
 ˘
 
-˘ nikhilaṁtrailokyanāśakṣamam
-
-. , 
+˘ nikhilaṁtrailokyanāśakṣamaṁ, 
 
 dhāmnā hyeṣui sahasrap¯urṇarucima
 
@@ -7141,15 +7429,11 @@ k 108 k
 
 deva tvāṁkaruṇā ˘ ˘ ˘ ˘ sāmantasind¯urajam., 
 
-reṇuṁsam
-
-. śayayantama ˘ ˘ ˘
+reṇuṁsaṁśayayantama ˘ ˘ ˘
 
 \[**59**\] kṣobhujāṁtejasām |
 
-kurvāṇe jagadiṣṭavr̥ṣṭim amr̥tāsārāṁbhavonmāthinīm
-
-. , 
+kurvāṇe jagadiṣṭavr̥ṣṭim amr̥tāsārāṁbhavonmāthinīṁ, 
 
 prārthitaṭaprabhākahrai ˘
 
@@ -7183,9 +7467,7 @@ r̥ṇikāsana ˘
 
 sindūrācalamaulikalpi ˘ ˘
 
-\[**60**\] pratiṣṭhaṁvibhum
-
-. , 
+\[**60**\] pratiṣṭhaṁvibhuṁ, 
 
 kumbhodbhūtamunīśvareṇa bhagavan vande mude nityaśah. k 110 k deva tvāṁpuruṣaṁpurātanam ajaṁtatta ˘
 
@@ -7303,9 +7585,7 @@ durlabhāṁlabhate kāṁkāṁna hi siddhiṁviśuddhadhīh. k 116 k
 
 ˘
 
-˘ varāṇi tāni, devām
-
-. śu
+˘ varāṇi tāni, devāṁśu
 
 ˘ ˘
 
@@ -7375,9 +7655,7 @@ conj. M: ya  E
 
 **112cd**
 
-◦ stham
-
-. . . . ya  om. M\(2\)
+◦ sthaṁ. . . ya  om. M\(2\)
 
 **114b **◦ ākhila◦ M: ◦ āṣila  E
 
@@ -7581,9 +7859,7 @@ Hiraṇyakaśipu\) with his sharp claws; reddened by the stream of his blood, th
 
 50 Those who fast on a day sacred to Viṣṇu and keep a vigil in front of Raghunandana on Tapaṁgiri . . . 
 
-52 Ghaṇṭeśvara, Sudheśvara \(Siddheśvara?\), Lord Kedāra as well as ā˜
-
-njaneya
+52 Ghaṇṭeśvara, Sudheśvara \(Siddheśvara?\), Lord Kedāra as well as āñjaneya
 
 \(i.e. Hanumat\), the Lord of the Gate \(Dvāreśvara\) . . . 
 
@@ -7809,7 +8085,7 @@ The Vākāṭaka Inscription in the
 
 Kevala–Narasiṁha Temple
 
-Hans ṭ Bakker & Harunaga Isaacson
+Hans T. Bakker & Harunaga Isaacson
 
 Introduction
 
@@ -7821,9 +8097,7 @@ of which was reported in IAR 1982–83, 137. The credit for first discussing, as
 
 41\), 2 Jamkhedkar attributed the inscription to Prabhāvatī Guptā \(Jamkhedkar
 
-1987a, 340\), an attribution for which he adduced arguments in a subsequent article that was published in M.ṣ Nagaraja Rao \(eḍ\), Kusumā˜
-
-njali, vol. I in
+1987a, 340\), an attribution for which he adduced arguments in a subsequent article that was published in M.ṣ Nagaraja Rao \(eḍ\), Kusumāñjali, vol. I in
 
 1987 \(Jamkhedkar 1987b, pp. 217–23\). In the latter publication the text of the inscription was edited and an interpretation of it was given \( op. ciṭ  220 f.\). 
 
@@ -7851,7 +8125,7 @@ evidence \(2\) \(below, pp. 357 ff.\). The present edition reproduces the first 
 
 114
 
-Hans ṭ Bakker & Harunaga Isaacson
+Hans T. Bakker & Harunaga Isaacson
 
 pertaining to it has unfortunately dropped ouṭ In the Appendix Shastri analyses the contents of the Ramtek inscription of the time of Prabhāvatī Guptā, 
 
@@ -7935,7 +8209,7 @@ pretation of Rāmagiri evidence \(2\); below, pp. 357 ff.
 
 116
 
-Hans ṭ Bakker & Harunaga Isaacson
+Hans T. Bakker & Harunaga Isaacson
 
 the upper and lower slab seem to indicate that some portion was broken off which is now irretrievably losṭ 
 
@@ -8011,7 +8285,7 @@ ak¯V¯
 
 118
 
-Hans ṭ Bakker & Harunaga Isaacson
+Hans T. Bakker & Harunaga Isaacson
 
 Palaeography
 
@@ -8093,7 +8367,7 @@ are written in box-headed characterṣ The present inscription is an exception t
 
 120
 
-Hans ṭ Bakker & Harunaga Isaacson
+Hans T. Bakker & Harunaga Isaacson
 
 daṇd
 
@@ -8109,9 +8383,7 @@ On the basis of the photograph published by Gokhale these observations can be co
 
 Occasionally other letters too seem to have been written with headmarks, e.g. 
 
-the sa  which in line 2 appears once with apparently a solid triangular headmark \(in sudarśanam
-
-. \) and once with a solid square or rectangular head-mark \(in ◦ satva◦\). This inscription therefore actually appears to mix forms without head-marks, with triangular head-marks and with square or rectangular headmarkṣ Though the shapes of the letters can be described \(with Gokhale 1967–
+the sa  which in line 2 appears once with apparently a solid triangular headmark \(in sudarśanaṁ\) and once with a solid square or rectangular head-mark \(in ◦ satva◦\). This inscription therefore actually appears to mix forms without head-marks, with triangular head-marks and with square or rectangular headmarkṣ Though the shapes of the letters can be described \(with Gokhale 1967–
 
 68, 2\) as southern, several, most noticeably the da \(curved instead of angular\) and the pa \(which has a bent left arm\), differ significantly from those found in our inscriptioṇ 
 
@@ -8157,7 +8429,7 @@ Those conjectures of which we felt relatively certain, that is, for which we cou
 
 122
 
-Hans ṭ Bakker & Harunaga Isaacson
+Hans T. Bakker & Harunaga Isaacson
 
 least a rough categorization of such suggestions is desirable. Other conjectures proposed in Bakker 1997, 2010c, 2012 are given in \[square brackets\] in the apparatuṣ Readings of which we were less certain \(not emendations as in RI\) have been placed in \(round brackets\) in the texṭ 
 
@@ -8419,9 +8691,7 @@ sa candragup\(t\)a\(h
 
 ˘
 
-nām adhi\(pa\)s suhtāṁtāim
-
-. , 
+nām adhi\(pa\)s suhtāṁtāiṁ, 
 
 śrī\(ru\)hdraisenāya \(g\)huiṇā ˘ ˘ ||9||
 
@@ -8457,9 +8727,7 @@ nām adhi\(pa\)s suhtāṁtāim
 
 **6**
 
-sudurvvahāṁrājyadhuraṁsamagrām
-
-. , 
+sudurvvahāṁrājyadhuraṁsamagrāṁ, 
 
 dhurandharasy\(e\)hvai supuṅgavasya |
 
@@ -8569,7 +8837,7 @@ gun
 
 124
 
-Hans ṭ Bakker & Harunaga Isaacson
+Hans T. Bakker & Harunaga Isaacson
 
 devendra\(dha\)n ˘ ˘ ˘ \(ya\)m, amā ˘
 
@@ -8599,9 +8867,7 @@ devendra\(dha\)n ˘ ˘ ˘ \(ya\)m, amā ˘
 
 **8**
 
-śuddhair vvacobhir vviduṣāṁmanhāi\(m
-
-. \)hsii, 
+śuddhair vvacobhir vviduṣāṁmanhāi\(ṁ\)hsii, 
 
 \(prī\)
 
@@ -8669,9 +8935,7 @@ tasmin kadācit kamanīyarūpe,
 
 ˘ ˘
 
-\(s sa\)mānām
-
-. , 
+\(s sa\)mānāṁ, 
 
 bhrātā balāt svaṁgr̥ham ā\(ni\)nāya ||17||
 
@@ -8733,11 +8997,7 @@ tatraiva yān yān manujendrapu\(t\)rī,
 
 ˘
 
-\(ṇa teṣām
-
-. \) ˘ ˘ bhāgam etam
-
-. ||19||
+\(ṇa teṣāṁ\) ˘ ˘ bhāgam etaṁ||19||
 
 ˘
 
@@ -8797,9 +9057,7 @@ puṇyam akṣayam uddiśya, mā ˘ ˘ ˘ haikhāirayahti ||21||
 
 **12**
 
-sudarśanaṁtaḍāgaṁca, deva\(˜
-
-n\) caiva sudarhśanaim |
+sudarśanaṁtaḍāgaṁca, deva\(ñ\) caiva sudarhśanaim |
 
 kadalīvāṭakagrāme, kārayithviāti vatī ||24||
 
@@ -8851,9 +9109,7 @@ kārayitvātibhāvatī
 
 **13**
 
-arddhaṁbrahmārppahṇaṁi puṇyam
-
-. , r̥ ˘ ˘ ˘ ṇa
+arddhaṁbrahmārppahṇaṁi puṇyaṁ, r̥ ˘ ˘ ˘ ṇa
 
 ˘ nī |
 
@@ -8877,9 +9133,7 @@ prāsādaṁdayihti\(ā\)hdhi ātur, vvicintya tam aśāśvatam |
 
 mātur eva samuddihśyai, hpuiṇyaugham aghavarjjitā ||30||
 
-śil\(ā\) ˘ \(śi\)lasaṅhkiāśam
-
-. , \(ci\)rā\(ya\) ˘ ˘ ˘ ˘ |
+śil\(ā\) ˘ \(śi\)lasaṅhkiāśaṁ, \(ci\)rā\(ya\) ˘ ˘ ˘ ˘ |
 
 ˘ ˘ ˘ ˘ ˘ ˘ ˘ ˘ , ˘ ˘ ˘ ˘ ˘
 
@@ -8895,15 +9149,11 @@ mātur eva samuddihśyai, hpuiṇyaugham aghavarjjitā ||30||
 
 **15**
 
-ālokasthāyinī\(˜
-
-n ce\)māṅ, kīrttim prakhyāpayiṣyatā |
+ālokasthāyinī\(ñ ce\)māṅ, kīrttim prakhyāpayiṣyatā |
 
 tayā hpariigr̥hīhteina, tadāj˜nānuvidhāhyiniā ||33||
 
-kāvyahṁmaihaj jay\(a\) ˘ \(dam
-
-. \), ˘ ˘ ˘ ˘ ˘ gena \(ca\) |
+kāvyahṁmaihaj jay\(a\) ˘ \(daṁ\), ˘ ˘ ˘ ˘ ˘ gena \(ca\) |
 
 ˘ ˘ ˘ ˘ ˘ ˘ ˘ ˘ , ˘ ˘ ˘ ˘ ˘
 
@@ -8987,11 +9237,7 @@ syllṣ
 
 7d J \[ cā\] muṇd
 
-. āṁnāmnī \( mnīm
-
-. \) tana\[ yām
-
-. \] . . . 
+. āṁnāmnī \( mnīṁ\) tana\[ yāṁ\] . . . 
 
 8a J
 
@@ -9041,21 +9287,15 @@ does not read syllṣ 1, 11
 
 17b J syll. 6 \[ ta\]
 
-17c J . . . \[ psamānām
+17c J . . . \[ psamānāṁ\]
 
-. \]
-
-17d J tām
-
-. : svam
+17d J tāṁ: svam
 
 . 
 
 19b J does not read syll. 4
 
-19d J . . . yam
-
-. . . . : ṇa teṣām
+19d J . . . yaṁ. . . : ṇa teṣām
 
 . 
 
@@ -9069,9 +9309,7 @@ athā
 
 21d J reads nothing
 
-22b J . . . jagadutta\[ ma? mi mam
-
-. ?\]
+22b J . . . jagadutta\[ ma? mi maṁ?\]
 
 . . . 
 
@@ -9117,17 +9355,11 @@ n
 
 prakhyāpayiṣyattā\( ntyā\)
 
-33c J tayā . . . gr̥ hī\[ tānam
+33c J tayā . . . gr̥ hī\[ tānaṁ\]
 
-. \]
+33d J tadājñānuti vā \[ citā?\]
 
-33d J tadāj˜
-
-nānuti vā \[ citā?\]
-
-34a J kāvya\[ ā?\] ˜
-
-n jaya . . . 
+34a J kāvya\[ ā?\] ñ jaya . . . 
 
 34b J reads nothing
 
@@ -9135,7 +9367,7 @@ n jaya . . .
 
 126
 
-Hans ṭ Bakker & Harunaga Isaacson
+Hans T. Bakker & Harunaga Isaacson
 
 Translation
 
@@ -9281,7 +9513,7 @@ Inscription of the same minister \(CII V no. 26\) has any benedictory syllables 
 
 128
 
-Hans ṭ Bakker & Harunaga Isaacson
+Hans T. Bakker & Harunaga Isaacson
 
 At the end of the first pāda we tentatively propose restoring sa-
 
@@ -9399,33 +9631,25 @@ iti vā pāṭhah. \(AK1 16\). The other commentaries available to us all read �
 
 130
 
-Hans ṭ Bakker & Harunaga Isaacson
+Hans T. Bakker & Harunaga Isaacson
 
-occurs in apparently the same sense in Raghuvam
-
-. śa 6.71, where it is noteworthy
+occurs in apparently the same sense in Raghuvaṁśa 6.71, where it is noteworthy
 
 that Mallinātha \(also a southern writer\) glosses it with prakhyātaguṇaḥ , and
 
 supports this by quoting Amara with the ◦ āhitalakṣaṇau  reading.31 In the
 
-present state of Kālidāsa studies it is, however, impossible to have any certainty about such textual details, and without a thorough study of the manuscript traditions of the Raghuvam
-
-. śa it would be rash to maintain that Kālidāsa must
+present state of Kālidāsa studies it is, however, impossible to have any certainty about such textual details, and without a thorough study of the manuscript traditions of the Raghuvaṁśa it would be rash to maintain that Kālidāsa must
 
 have used the word in the form āhita◦ rather than āhatalakṣaṇa. Indeed, Rāya-
 
-mukuṭa \(ad 1431/32\), in his commentary on AK 3.1.10, quotes the relevant pāda from the Raghuvam
-
-. śa with the reading āhatalakṣaṇo ’bh¯ut \(AK2 9\). 
+mukuṭa \(ad 1431/32\), in his commentary on AK 3.1.10, quotes the relevant pāda from the Raghuvaṁśa with the reading āhatalakṣaṇo ’bh¯ut \(AK2 9\). 
 
 We have met with one other significant occurrence of the worḍ In line 4 of the Ghaṭotkaca Cave inscription of the Vākāṭaka minister Varāhadeva \(CII V
 
 no. 26\) the word āhitalakṣaṇānāṁoccurs; as Mirashi however points out in a
 
-footnote, earlier editions of the inscription by Pandit Bhagvanlal Indraji and Bühler had read āhatalakṣaṇānām
-
-. . 32 The valuable point about the occurrence of the word in our inscription, however, is that there can here be no doubt at all that the form āhatalakṣaṇa  was used, for the akṣara ha  is beautifully preserved on an undamaged section of the stone. 33
+footnote, earlier editions of the inscription by Pandit Bhagvanlal Indraji and Bühler had read āhatalakṣaṇānāṁ. 32 The valuable point about the occurrence of the word in our inscription, however, is that there can here be no doubt at all that the form āhatalakṣaṇa  was used, for the akṣara ha  is beautifully preserved on an undamaged section of the stone. 33
 
 In 7ab we obviously have an absolute locative, and there can be little doubt that after jāteṣu  a substantive \(masc. pl. loc.\) meaning ‘son’, and another qualification of these sons must have followeḍ The restoration jāteṣu putreṣu
 
@@ -9443,9 +9667,7 @@ syllable is unfortunately illegible; it may have ended in ā \(which would sugge
 
 Cāmuṇḍā\), for what appears to be the right vertical of the ā  can still be seen, together with the horizontal stroke attaching it to the head-mark. That the vowel is o  instead is less likely, since the two arms of the o  are generally curved rather than angular̥ For further discussion of the name and identity of the girl see below, p. 137. 
 
-The few akṣaras  legible of verse 8 do not of course offer much material for interpretatioṇ We are inclined to think that the verse contains the word 31 Cf. Vallabhadeva’s gloss in his Raghupa˜
-
-ncikā: guṇasampadā vikhyātaḥ . 
+The few akṣaras  legible of verse 8 do not of course offer much material for interpretatioṇ We are inclined to think that the verse contains the word 31 Cf. Vallabhadeva’s gloss in his Raghupañcikā: guṇasampadā vikhyātaḥ . 
 
 32 The photograph published in CII V is unfortunately not of sufficiently good quality to confirm whether there really are, as Mirashi claims, traces of a curve above the ha, so that here too some doubt remains as to the correct reading. 
 
@@ -9523,7 +9745,7 @@ etc., is impossible in view of the fact that the last syllable is clearly nām  
 
 132
 
-Hans ṭ Bakker & Harunaga Isaacson
+Hans T. Bakker & Harunaga Isaacson
 
 \( pā\) what could be the sign for medial u  can be seeṇ 
 
@@ -9553,11 +9775,7 @@ verses are found in two Gupta inscriptions: the Junāgad
 
 of Skandagupta \(ad 457–58\), where we read: ājyapraṇāmair vibudhān atheṣṭvā dhanair dvijātīn api tarpayitvā | paurāṁs tathābhyarcya yathārhamānaiḥ 
 
-bhr̥tyām
-
-. ś ca pūjyān suhr̥daś ca dānaih.  k \(CII III \(1888\), 60 \(l. 19\)\), and the Gangdhar Stone Inscription of Viśvarvarman, which contains a verse reading yaj˜
-
-nais surān munigan
+bhr̥tyāṁś ca pūjyān suhr̥daś ca dānaih.  k \(CII III \(1888\), 60 \(l. 19\)\), and the Gangdhar Stone Inscription of Viśvarvarman, which contains a verse reading yajñais surān munigan
 
 . ān niyamair udāraiḥ 
 
@@ -9661,7 +9879,7 @@ forms of causatives at the ends of pādas b and d is not very likely.
 
 134
 
-Hans ṭ Bakker & Harunaga Isaacson
+Hans T. Bakker & Harunaga Isaacson
 
 possibilities, of which, e.g., athādarāt  seems appropriate. 
 
@@ -9721,19 +9939,13 @@ The verb of verse 27 has not been preserved, but the sense is probably that the 
 
 of all one would expect arddhaṁto be construed with a genitive \( puṇyasya\). 
 
-One would perhaps have also expected brahmārpitam
-
-. , but, though there seems
+One would perhaps have also expected brahmārpitaṁ, but, though there seems
 
 to be a mark of some kind above the ligature rpp, we regard this as damage to the stone and do not think it warranted to read medial i. brahmārppaṇam
 
 . 
 
-must therefore be taken as an apposition to \( arddham
-
-. \) puṇyam
-
-. . In pāda b
+must therefore be taken as an apposition to \( arddhaṁ\) puṇyaṁ. In pāda b
 
 there no doubt was a nom. fem. sg. qualifying or describing the princess who is the grammatical subject, which might have ended with, e.g. ◦ śālinī. 
 
@@ -9765,9 +9977,7 @@ This is in accordance with syllable 8 ◦ tur, which may be a genitive of a nome
 
 \(cf. Mārkpur̥ 81.53\) in which Viṣṇu’s cosmic sleep is described as the cause of sustenance and dissolution of the world: viśveśvarīṁjagaddhātrīṁsthitisaṁhārakārin
 
-.īm
-
-. | staumi
+.īṁ| staumi
 
 nidrāṁbhagavatīṁviṣṇor atulatejasaḥ  k
 
@@ -9775,7 +9985,7 @@ nidrāṁbhagavatīṁviṣṇor atulatejasaḥ  k
 
 136
 
-Hans ṭ Bakker & Harunaga Isaacson
+Hans T. Bakker & Harunaga Isaacson
 
 metrically correct conjecture would be dayitādhātur: ‘of/for her beloved beget-
 
@@ -9863,9 +10073,7 @@ in the legible part of the texṭ Comparison with other Vākāṭaka inscription
 
 makes clear that it does not fall into the category of official royal edicts or land-grants \( śāsana\), the structure and contents of which are very much standardized and completely different from the text under discussioṇ Rather, the inscription seems to report events that are related to some subordinate member of the royal family and as such is without parallel. The interpretation ventured below, in spite of all uncertainties, can claim no more than to be the most plausible hypothesis that the authors could think of. 
 
-Verse 9 tells us that Candragupta gave ‘that daughter’ \( sutāṁtām
-
-. \) to Rudra-
+Verse 9 tells us that Candragupta gave ‘that daughter’ \( sutāṁtāṁ\) to Rudra-
 
 sena and this agrees with the well-known historical fact that the Gupta emperor gave his daughter Prabhāvatī in marriage to the Vākāṭaka king Rudrasena II
 
@@ -9873,9 +10081,7 @@ in the eighth or ninth decade of the fourth century aḍ What tends to disturb t
 
 ‘daughter’ \( tanayā\) is mentioned, the name of whom seems to end in ◦muṇḍā, which could yield Cāmuṇḍā or Gomuṇḍā, names not known from any other Vākāṭaka or Gupta inscription \(v. 7\). Family or tribal names ending in Muṇḍa are known from some seals found in Basarh \(Vaiśālī\) and Patna \(Pāṭaliputra\),51
 
-50 Cf. e.g. CII V, 13 \(1. 28\) \( ācandrādityakālīya\). Of course such compounds, though rather rare, also occur in the classical works of Sanskrit literature; cf. e.g. Raghuvam
-
-. śa 1.5. 
+50 Cf. e.g. CII V, 13 \(1. 28\) \( ācandrādityakālīya\). Of course such compounds, though rather rare, also occur in the classical works of Sanskrit literature; cf. e.g. Raghuvaṁśa 1.5. 
 
 51 ṭ Bloch \(ASI Annual Report \(ASIAR\) 1903–04, 113, 116\) reports two seals dating from the Gupta period found in Basarh with the legend ‘Gomuṇd
 
@@ -9887,7 +10093,7 @@ lists ‘Muṇd
 
 138
 
-Hans ṭ Bakker & Harunaga Isaacson
+Hans T. Bakker & Harunaga Isaacson
 
 but Prabhāvatī Guptā in her own inscriptions claims descent from a Nāga lin-
 
@@ -9977,7 +10183,7 @@ padya.
 
 140
 
-Hans ṭ Bakker & Harunaga Isaacson
+Hans T. Bakker & Harunaga Isaacson
 
 burden of \(his\) kingdom, which was difficult to bear’ \(11ab\), may point towards the end of Candragupta’s reigṇ On the basis of the Tumain inscription we may say that Ghaṭotkaca ruled as viceroy in eastern Malwa at the time that Kumāragupta held the imperial office \(ad 435–36\).60 There might not therefore have been too great a difference in age between the children of Rudrasena and Prabhāvatī on the one hand, and their maternal uncle, Ghaṭotkaca, on the other̥ This observation may serve as a clue for the interpretation of one of the key verses of the inscription, verse 13. 
 
@@ -10079,7 +10285,7 @@ century or sixth century \(cf. Spink 1981, p. 123 ṇ 8\).
 
 142
 
-Hans ṭ Bakker & Harunaga Isaacson
+Hans T. Bakker & Harunaga Isaacson
 
 the eastern Vākāṭaka kingdom was overrun by the Nalas in the last decade of the fifth century, the victorious king Bhavadattavarman issued a charter from Nandivardhana—rather odd if that place had been deserted as capital for already over half a century. 67 Pravarapura, on the other hand, was never mentioned again after the death of Pravarasena II. It is therefore quite conceivable that Pravarasena merely had his capital Nandivardhana renamed for the sake of his own glory \(the first inscription issued from Pravarapura dates from his 16th regnal year, when Prabhāvatī was still alive and issuing char-
 
@@ -10089,9 +10295,7 @@ There is uncertainty and hence controversy regarding these kings of the Nala dyn
 
 The grant recorded in the charter of Mahārāja Bhavattavarman
 
-\(prakritism for Bhavadattavarman\) was made during a pilgrimage of him and his wife to Prayāga, but it was issued from Nandivardhana. The date of the charter \(7th of the dark half of Kārttika in the 11th regnal year\) seems to correspond with the time the king himself, being in Prayāga, instructed his officer Culla to write it down in private \( svamukhāj˜
-
-n\( a\) yābhilikhit\( ā\) rahasi niyukte\( n\) a cullena\). The charter was \(later\) engraved on a copperplate by a Mahārāja Arthapati Bhaṭṭāraka, who was ‘favoured
+\(prakritism for Bhavadattavarman\) was made during a pilgrimage of him and his wife to Prayāga, but it was issued from Nandivardhana. The date of the charter \(7th of the dark half of Kārttika in the 11th regnal year\) seems to correspond with the time the king himself, being in Prayāga, instructed his officer Culla to write it down in private \( svamukhājñ\( a\) yābhilikhit\( ā\) rahasi niyukte\( n\) a cullena\). The charter was \(later\) engraved on a copperplate by a Mahārāja Arthapati Bhaṭṭāraka, who was ‘favoured
 
 by the grace of his grandfather’s feet’ \( āryakapādaprasādānugr̥ hītena\), ‘for the sake
 
@@ -10137,9 +10341,7 @@ which the inscription is found, however explicit references to that incarnation 
 
 is yellow’\) in verse 25a somehow would refer to him. 69
 
-Another temple \( prāsādam
-
-. \), the deity of which being possibly described in verse 28 as ‘of infinite might, the cause of destruction and preservation of the world’, is mentioned in verse 30. If we are correct in restoring dayitādhātur \(see
+Another temple \( prāsādaṁ\), the deity of which being possibly described in verse 28 as ‘of infinite might, the cause of destruction and preservation of the world’, is mentioned in verse 30. If we are correct in restoring dayitādhātur \(see
 
 above, p. 135\), we are concerned with a temple of/for the beloved father of the princess \(i.e. Rudrasena\), of which the transitoriness is realizeḍ It has been argued in Bakker \(1992b, 12\) that the \(older\) Rudra–Narasiṁha Temple, which
 
@@ -10167,7 +10369,7 @@ Excavations at Mansar, c. 6 km northwest of Nagardhan/Nandivardhana, have shed n
 
 144
 
-Hans ṭ Bakker & Harunaga Isaacson
+Hans T. Bakker & Harunaga Isaacson
 
 Hence the appropriate designation of its image as Prabhāvatisvāmin \(21a\). The
 
@@ -10257,7 +10459,7 @@ akalpi sudarśanākhyam  k \(RI 484; above, p. 100\). The SM locates a Cakratīr
 
 146
 
-Hans ṭ Bakker & Harunaga Isaacson
+Hans T. Bakker & Harunaga Isaacson
 
 marriage had become a member of the Gupta family, showed great pride in her Gupta kinship as is evident from her elaborating on the glory of her in-laws \(vv. 2–4, 9–16\) rather than on that of the Vākāṭakas, just as in her mother’s
 
@@ -10291,13 +10493,9 @@ V, 81 \(ll. 29–30\)\).
 
 76 On the basis of the recently found inscription of Pr̥thivīṣeṇa II in Mandhal \(dating from his 10th regnal year\) Shastri 1987, 60 argues convincingly \(against earlier Kielhorn, Mirashi and Kolte\) that one should read: pūrvvādhigataguṇavadd\( ā\) yādāpahr̥ ta-
 
-va\[ m
+va\[ ṁ\] śaśriya\[ ḥ \] \(Shastri 1977-78, 171 \(l. 17\)\), which he analyses as pūrvam adhigatā
 
-. \] śaśriya\[ ḥ \] \(Shastri 1977-78, 171 \(l. 17\)\), which he analyses as pūrvam adhigatā
-
-guṇavatā dāyādena apahr̥ tā vam
-
-. śaśrīḥ yasya tasya. 
+guṇavatā dāyādena apahr̥ tā vaṁśaśrīḥ yasya tasya. 
 
 \[This\], if accepted would indicate that Narendrasena had at first succeeded to his family fortune, viz. throne, but was subsequently deprived of it by a dāyāda  or dāyādaṣ 
 
@@ -10333,15 +10531,11 @@ Narasiṁha Temple on the basis of archaeological and historical considerations 
 
 Narendrasena and Devasena/Hariṣeṇa were sapiṇḍa  relatives in the fifth/sixth remove. 
 
-Narendrasena might, however, have recovered parts of his kingdom, since the \(later\) Pr̥thivīṣeṇa inscriptions credit him in one and the same breath with the overlordship of Kosalā, Mekalā and Mālavā, though this, as Shastri 1987, 61 remarks, ‘looks somewhat boastful’. If true, it certainly would have brought him into conflict with the Guptas as well \(cf. HCI III, 184\). This claim is also at variance with Pr̥thivīṣeṇa’s own title: magnavam
-
-. śoddhartr̥ \(Shastri 1977–78, 172 \(l. 21\); Kolte 1971–72: \(l. 26\)\). Moreover, Narendrasena’s rival, king Hariṣeṇa, is credited by his minister Varāhadeva with the conquest of \(Dakṣiṇa\) Kosala, which is situated to the east of the traditional Nandivardhana territory \(CII V, 108 \(l. 14\); Spink 1981, 109\). 
+Narendrasena might, however, have recovered parts of his kingdom, since the \(later\) Pr̥thivīṣeṇa inscriptions credit him in one and the same breath with the overlordship of Kosalā, Mekalā and Mālavā, though this, as Shastri 1987, 61 remarks, ‘looks somewhat boastful’. If true, it certainly would have brought him into conflict with the Guptas as well \(cf. HCI III, 184\). This claim is also at variance with Pr̥thivīṣeṇa’s own title: magnavaṁśoddhartr̥ \(Shastri 1977–78, 172 \(l. 21\); Kolte 1971–72: \(l. 26\)\). Moreover, Narendrasena’s rival, king Hariṣeṇa, is credited by his minister Varāhadeva with the conquest of \(Dakṣiṇa\) Kosala, which is situated to the east of the traditional Nandivardhana territory \(CII V, 108 \(l. 14\); Spink 1981, 109\). 
 
 In short, the period after Pravarasena II appears to have been one of \(civil\) wars, in which, to judge by the archaeological remains, the Vatsagulma Branch was on top. 
 
-Pr̥thivīṣeṇa’s later claim to have rescued his family fortune for the second time \( dvi-magnavam
-
-. śoddhartr̥ , CII V, 81 \(l. 33\), in the unfinished Bālāghāt Plates, which must
+Pr̥thivīṣeṇa’s later claim to have rescued his family fortune for the second time \( dvi-magnavaṁśoddhartr̥ , CII V, 81 \(l. 33\), in the unfinished Bālāghāt Plates, which must
 
 date from after his 17th regnal year\) may refer to the incursion of the Nala king Bhavadattavarman \(see above, ṇ 67 on p. 142; cf. Shastri 1987, 61 f.\). 
 
@@ -10429,15 +10623,11 @@ The Vākāt
 
 . aka period
 
-Kālidāsa, who in all likelihood maintained close relations with the court of the Vākāṭakas,5 gives in his Raghuvam
-
-. śa the following epitome of the ideal
+Kālidāsa, who in all likelihood maintained close relations with the court of the Vākāṭakas,5 gives in his Raghuvaṁśa the following epitome of the ideal
 
 relationship between kingly and divine power:
 
-The \(king\) milks the cow \(that is the earth\) in order to make the \(required\) sacrifices; Maghavat \(i.e. Indra\) milks the heaven for the sake of a \(rich\) harvest; both together \(thus\) sustain the two worlds \(heaven and earth\) by means of their mutual exchange of richeṣ \(Raghuvam
-
-. śa 1.26\)
+The \(king\) milks the cow \(that is the earth\) in order to make the \(required\) sacrifices; Maghavat \(i.e. Indra\) milks the heaven for the sake of a \(rich\) harvest; both together \(thus\) sustain the two worlds \(heaven and earth\) by means of their mutual exchange of richeṣ \(Raghuvaṁśa 1.26\)
 
 Significant in this quotation is the absence of the brahmin, something, of course, unheard-of in brahmanical texts themselveṣ The concept underlying 3 Cf. Scharfe 1989, 97. 
 
@@ -10487,11 +10677,11 @@ Certains versets des dharmaśāstra attribuent au roi lui-même une origine divi
 
 textes védiques qui attribuent au roi une nature divine en raison de sa participation à des rites qui l’identifient à un dieu. Mais elle n’est guère reprise que pour auréoler le roi de prestige et justifier le respect dû à sa personne, plutôt qu’elle n’est présentée comme le motif essentiel de l’obéissance due à ses ordreṣ D’ailleurs, les mêmes dharmaśāstra
 
-exposent une autre version de la création divine de la royauté qui se re´duit \`
+exposent une autre version de la création divine de la royauté qui se réduit \`
 
 a des
 
-analogies entre les divers aspects de la fonction royale et les fontions essentielles de certaines divinite´ṣ \(italics mine\). 
+analogies entre les divers aspects de la fonction royale et les fontions essentielles de certaines divinitéṣ \(italics mine\). 
 
 Cf. also Scharfe 1989, 98: ‘This so-called divinity of kings must be seen against the background of Indian polytheism, where deva-s are many and where everything is, at least potentially, charged with a higher power̥’
 
@@ -10775,17 +10965,11 @@ by Bhandarkar 1928, pp. 238–47.
 
 24 Bhandarkar 1928, 245 \(= Rājapraśasti II\):
 
-vam
-
-. śo himām
-
-. śor jayati prasiddho yasmin sa rājā yadur āvirāsīt |
+vaṁśo himāṁśor jayati prasiddho yasmin sa rājā yadur āvirāsīt |
 
 babhūva yasminn asurāvatārabhārāpahārāya purā murāriḥ  k
 
-vam
-
-. \( śe\) tasmin kaṁsavidhvaṁsanasya kṣon
+vaṁ\( śe\) tasmin kaṁsavidhvaṁsanasya kṣon
 
 .īpālo bhillamaḥ prādurāsīt |
 
@@ -11005,9 +11189,7 @@ supreme form of Viṣṇu \(vv. 38–40\):
 
 Though there are ten avatars of His, Rāma is the \(foremost\) of them . . . . 
 
-How can I describe that unsurpassed, wonderful efficacy of this mountain Tapam
-
-. -
+How can I describe that unsurpassed, wonderful efficacy of this mountain Tapaṁ-
 
 giri \(i.e. Rāmagiri\), where he, \(the scion of the Raghu race\), who is the supreme object of meditation of the yogis, lives together with the Son of the Wind \(i.e. 
 
@@ -11119,9 +11301,7 @@ with the child Kr̥ṣṇa.1 ‘Whence’, Hardy asks, ‘did Periyālvār deriv
 
 ¯
 
-ration for his Bālacarita?’ This scholar points to the Harivam
-
-. śa \(HV 60.15\), in
+ration for his Bālacarita?’ This scholar points to the Harivaṁśa \(HV 60.15\), in
 
 which, just as in one of the ālvār’s songs \(III.5\), Kr̥ṣṇa is said to eat a ‘lake of
 
@@ -11227,9 +11407,7 @@ And Sūr’s Lord laughed and dipped his two hands
 
 again and again and agaiṇ 3
 
-If this topic originally hailed from the North, we could hope to find allusions to it in the early Sanskrit literature dealing with Kr̥ṣṇa’s childhood; the first text to investigate is indeed the Harivam
-
-. śa. However, neither here nor in the
+If this topic originally hailed from the North, we could hope to find allusions to it in the early Sanskrit literature dealing with Kr̥ṣṇa’s childhood; the first text to investigate is indeed the Harivaṁśa. However, neither here nor in the
 
 3 Bryant 1978, 170. 
 
@@ -11243,9 +11421,7 @@ jala-bāsana kara lai ju uṭhavati, yāhī maiṁtū tana dhari āvai |
 
 jalapuṭa āni dharani para rākhyau, gahi ānyau vaha caṁda dikhāvai |
 
-sūradāsa prabhu haṁsi musakyāne, bāra-bāra doū kara nāvaim
-
-. |
+sūradāsa prabhu haṁsi musakyāne, bāra-bāra doū kara nāvaiṁ|
 
 
 
@@ -11483,9 +11659,7 @@ Smith 1980 discusses, besides other things, the oral origin of the two Sanskrit 
 
 Hans Bakker
 
-his Purāṇapa˜
-
-ncalakṣaṇa’ \(PPL p. il\). Before going further into the matter of critically editing these texts, a few words need to be said on some characteristics of this type of literature viewed in the light of the results attained by investigators of oral literary traditions elsewhere. 
+his Purāṇapañcalakṣaṇa’ \(PPL p. il\). Before going further into the matter of critically editing these texts, a few words need to be said on some characteristics of this type of literature viewed in the light of the results attained by investigators of oral literary traditions elsewhere. 
 
 The theory of ‘oral composition’
 
@@ -11587,9 +11761,7 @@ i ff.
 
 17 Kirfel in PPL p. xlviii:
 
-Die eventuelle Annahme, dass jenseits der ältesten Textschicht unseres Pa˜
-
-ncalakṣaṇa
+Die eventuelle Annahme, dass jenseits der ältesten Textschicht unseres Pañcalakṣaṇa
 
 
 
@@ -11927,7 +12099,7 @@ The lord immobilized the arm of the infuriated Śakra that held the vajra; this 
 
 literature and a short survey of their evolution may help to clarify the texṭ 
 
-Discussing the function of the brahma´n  priest, the Kauṣītaki Brāhmaṇa
+Discussing the function of the brahmán  priest, the Kauṣītaki Brāhmaṇa
 
 teaches:
 
@@ -11951,31 +12123,27 @@ The same theme is found in the Śatapathabrāhmaṇa with some significant
 
 changeṣ Here ‘the god who rules the animals’ \( y\`
 
-o ’ya´ṁdeva´ḥ paśūnā
-
-´m īś.ṭe, 
+o ’yáṁdeváḥ paśūnā́m īś.ṭe, 
 
 ŚBr 1.6.2.3\), i.e. Rudra, is asked by the gods to pierce Prajāpati, who is the
 
-sacrifice, because he had abused his daughter̥ 11 Rudra pierces him with the lance \( śalya´\). When the lance is torn out again, the gods offer that portion of Prajāpati, i.e. of the sacrifice, that has come out with the lance—that is the fore-portion of the sacrifice \( prāśitra´\), intended for the brahma´n  priest—to
+sacrifice, because he had abused his daughter̥ 11 Rudra pierces him with the lance \( śalyá\). When the lance is torn out again, the gods offer that portion of Prajāpati, i.e. of the sacrifice, that has come out with the lance—that is the fore-portion of the sacrifice \( prāśitrá\), intended for the brahmán  priest—to
 
 Bhaga etc.:
 
 Bhaga looked at it; it burnt his eyeṣ And so indeed it happeneḍ Therefore they say ‘Bhaga is blind’. They said, ‘it has not yet become appeased here, put it aside for Pūṣan’. They put it aside for P¯uṣaṇ P¯uṣan ate from it; it knocked out his teeth. And so indeed it happeneḍ Therefore they say, ‘Pūṣan is without teeth’. 
 
-Therefore they prepare the rice pudding \( caru´\) that they make for Pūṣan from
+Therefore they prepare the rice pudding \( carú\) that they make for Pūṣan from
 
 ground rice, just as for a person without teeth. 12
 
 Br̥haspati next passes it on to Savitr̥ who appeases iṭ 
 
-What is the fore-portion \( prāśitra´\), that is originally thiṣ When he cuts off the fore-portion, he metes out exactly that part of the sacrifice that has been pierced, that belonges to Rudra. 13
+What is the fore-portion \( prāśitrá\), that is originally thiṣ When he cuts off the fore-portion, he metes out exactly that part of the sacrifice that has been pierced, that belonges to Rudra. 13
 
 10 Kauṣītaki Brāhmaṇa 6.8.8–6.9.4:
 
-atha yatra ha tad devā yaj˜
-
-nam atanvata | 8 | tad savitre prāśitraṁparijahruḥ | 9 | ta-
+atha yatra ha tad devā yajñam atanvata | 8 | tad savitre prāśitraṁparijahruḥ | 9 | ta-
 
 sya pān
 
@@ -11993,49 +12161,37 @@ ojiṣṭho baliṣṭhas tasmā etat pariharateti | 1 | tat tasmai parijahruh. 
 
 12 ŚBr 1.6.2.6–7:
 
-ta´d bha´go ’vekṣā´ṁcakre ta´ksyā
+tád bhágo ’vekṣā́ṁcakre táksyā́kṣiṇī nirdadāha táthén n¯unáṁtád āsa tásmād āhur
 
-´kṣiṇī nirdadāha táthén n¯unáṁta´d āsa ta´smād āhur
-
-andho´ bha´ga iti | 6 | te´ hocuḥ | n\`
+andhó bhága iti | 6 | té hocuḥ | n\`
 
 o nv \`
 
-evā
+evā́trāśamat pūṣṇá enat páriharatéti tát pūṣṇé
 
-´trāśamat pūṣṇá enat páriharatéti tát pūṣṇé
-
-paryā
-
-´jahrus ta´t pūṣā´ prā´śa tásya dató nirjaghāna táthén nūna´m
+paryā́jahrus tát pūṣā́ prā́śa tásya dató nirjaghāna táthén nūnám
 
 . 
 
-ta´d āsa ta´smād
+tád āsa tásmād
 
-āhur ada´ntakaḥ pūṣéti tásmād yáṁpūṣṇé caru´ṁkurva´nti pra´piṣṭānām evá kurvanti
+āhur adántakaḥ pūṣéti tásmād yáṁpūṣṇé carúṁkurvánti prápiṣṭānām evá kurvanti
 
-ya´thāda´ntakāyaiva´m | 7 |
+yáthādántakāyaivám | 7 |
 
 Cf. Taittirīya Saṁhitā 2.6.8; Gopathabrāhmaṇa 2.1.2. See Kramrisch 1961, 119 f. 
 
 13 ŚBr 1.7.4.8–9:
 
-ta´d eta´n nidā
+tád etán nidā
 
-ńena ya´t prāśitra´m | 8 | sa´ ya´t prāśitra´m avadya´ti | ya´d evā
-
-´trā
-
-´viddham
+ńena yát prāśitrám | 8 | sá yát prāśitrám avadyáti | yád evā́trā́viddham
 
 . 
 
-yaj˜
+yajñásya yád rudŕıyaṁtád ev\`
 
-na´sya ya´d rudr´ıyaṁta´d ev\`
-
-aita´n n´ırmimīte | 9 |
+aitán ńırmimīte | 9 |
 
 
 
@@ -12051,9 +12207,7 @@ is connected with Śiva’s exclusion from the sacrifice in general. 14 When the
 
 seizes his bow, and runs towards them. Cosmic phenomena come to a halṭ 
 
-Sacrifice \( yaj˜
-
-na\) is shot in the heart while fleeing to heaven in the form of an antelope \( mr̥ga\).15 The gods are baffleḍ 
+Sacrifice \( yajña\) is shot in the heart while fleeing to heaven in the form of an antelope \( mr̥ga\).15 The gods are baffleḍ 
 
 The infuriated Tryambaka cut off \( vyaśātayat\) the arms of Savitr̥, \(and knocked
 
@@ -12075,19 +12229,11 @@ So much for Śiva’s mutilation of the godṣ
 
 14 Cf. TaiSa 2.6.8.3:
 
-devā
+devā́ vái yajñā́d rudrám antárāyant sá yajñám avidhyat táṁdevā
 
-´ va´i yaj˜
+ábh́ı sámagachanta
 
-nā
-
-´d rudra´m anta´rāyant sa´ yaj˜
-
-na´m avidhyat ta´ṁdevā
-
-ábh´ı sa´magachanta
-
-ka´lpatāṁna ida´m ´ıti |
+kálpatāṁna idám ́ıti |
 
 Also ŚBr 1.6.1.1–8. 
 
@@ -12113,9 +12259,7 @@ Hans Bakker
 
 The origin of the other theme, viz. Śiva’s transformation into a little child, can also be traced back to the Kauṣītaki Brāhmaṇa, in which Prajāpati begets a \(grand\)son through his four sons and daughter Uṣas \(KauṣBr 6.1–3\). This infant \(?\), ‘of a thousand eyes, of a thousand feet, with a thousand fitted \(arrows on his bow\)’, 18 asks his \(grand\)father to bestow upon him eight nameṣ 19
 
-A new version of this myth is found in the Purāṇapa˜
-
-ncalakṣaṇa,20 which tells
+A new version of this myth is found in the Purāṇapañcalakṣaṇa,20 which tells
 
 that at the dawn of creation, in the first kalpa, Mahādeva Rudra engendered
 
@@ -12139,17 +12283,13 @@ When we return to the two verses in the Droṇaparvan, we may observe
 
 that it is probably this primordial, cosmic child that sits in Umā’s lap \(MBh
 
-7.173.59\); his five tufts of hair \( pa˜
-
-ncaśikha\) may symbolize his embodiment of
+7.173.59\); his five tufts of hair \( pañcaśikha\) may symbolize his embodiment of
 
 the five elements that build the material worlḍ 
 
 This being so, one may rightly ask what, if any, is the function of the appearance of the cosmic child in Pārvatī’s lap at this junction of Tripura’s de-
 
-18 KauṣBr 6.1.13–14: tata udatiṣṭhat sahasrākṣah. sahasrapāt | 13 | sahasreṇa pratihitābhiḥ | 14 | Udaya comments: sahasreṇa sahasrasaṁkhyābhir dhanuṣi pratihitābhih. sam
-
-. -
+18 KauṣBr 6.1.13–14: tata udatiṣṭhat sahasrākṣah. sahasrapāt | 13 | sahasreṇa pratihitābhiḥ | 14 | Udaya comments: sahasreṇa sahasrasaṁkhyābhir dhanuṣi pratihitābhih. saṁ-
 
 hitābhir iṣubhir upalakṣitah. |
 
@@ -12157,7 +12297,7 @@ hitābhir iṣubhir upalakṣitah. |
 
 6.2–3 \(cf. ŚBr 6.1.3.8–18\). Apparently, the 6th adhyāya  of the KauṣBr does not make
 
-a connection between this myth of the birth of Rudra \(6.1–3\) and the second section \(6.4–11\) dealing mainly with the function of the brahma´n  priest, in which context the
+a connection between this myth of the birth of Rudra \(6.1–3\) and the second section \(6.4–11\) dealing mainly with the function of the brahmán  priest, in which context the
 
 myth of the sacrifice of the gods and their injury by the prāśitra  is described \(see above, 
 
@@ -12167,13 +12307,11 @@ The underlying connection, however, becomes clear when the ŚBr version is taken
 
 is\) the first issue of the sacrifice, the ‘fore-portion’, or, in the words of the Brāhmaṇa, 
 
-‘\[the portion\] that belongs to Rudra’ \( rudr´ıya\) \(ŚBr 1.6.2.9\). The underlying identity seems to be that Rudra, son of Prajāpati’s seed, is the first issue \( prāśitra\) of Prajāpati’s
+‘\[the portion\] that belongs to Rudra’ \( rudŕıya\) \(ŚBr 1.6.2.9\). The underlying identity seems to be that Rudra, son of Prajāpati’s seed, is the first issue \( prāśitra\) of Prajāpati’s
 
 \(self-\)sacrifice. If we keep this identity in mind the relevance of the statement \(KauṣBr 6.10.7–8\) that introduces the concluding part of adhyāya  6 of the Kauṣītaki Brāhmaṇa
 
-becomes clear: ‘Prajāpati once emitted the sacrifice; he emitted seed by installing the sacrificial fire’ \( prajāpatir ha yaj˜
-
-naṁsasr̥ je | 7 | so ’gnyādheyenaiva reto ’sr̥jata | 8 |\). 
+becomes clear: ‘Prajāpati once emitted the sacrifice; he emitted seed by installing the sacrificial fire’ \( prajāpatir ha yajñaṁsasr̥ je | 7 | so ’gnyādheyenaiva reto ’sr̥jata | 8 |\). 
 
 20 PPL pp. 121–127, i.e. Vāyupurāṇa 27 and Brahmāṇd
 
@@ -12241,9 +12379,7 @@ bring him most honour if Parameśāna would be chosen in front of all the godṣ
 
 The latter, headed by Indra, assemble in the house of Himavaṭ Pārvatī enters the
 
-arena in a vimāna  and takes a garland of flowers to place at the feet of the man of her choice \(SP 13.28\). At that very moment, in order to test his bride to be \( devyā jij˜
-
-nāsayā\), Śiva assumes the form of a child in her lap \(SP 13.29\). Due to her yogic powers she recognizes the god to whom she had pledged her word and is pleased \(SP 13.30–31\). 
+arena in a vimāna  and takes a garland of flowers to place at the feet of the man of her choice \(SP 13.28\). At that very moment, in order to test his bride to be \( devyā jijñāsayā\), Śiva assumes the form of a child in her lap \(SP 13.29\). Due to her yogic powers she recognizes the god to whom she had pledged her word and is pleased \(SP 13.30–31\). 
 
 When the gods, however, see the maiden of the wedding contest with a child in her lap they, understandably enough, are bewildered, fly into passion and try to attack him \(SP 13.32\). Śiva repels the assault by immobilizing and mutilating the offenders \(SP 13.33–38\). Brahmā is the only god who sees through Śiva’s
 
@@ -12371,9 +12507,7 @@ When we turn our attention again to MBh 173 verse 59 we see in the apparatus tha
 
 Pārvatī’s svayaṁvara.’ The insertion of this hemistich may have been prompted by the harsh transition from the Tripura battle scene to Śiva’s transformation into a chilḍ Since this hemistich is only found in the Telugu and some of the Grantha mss, it may be secondary and not have formed part of the original MBh text, but, all the same, it could represent a reminiscence of the original context to which the myth told in the following verses might have belongeḍ 
 
-Another significant variant is found ad  59c. This reading, although the editors of the Critical Edition have relegated it to the apparatus, is supported by a substantial part of the northern and southern mss as well as by some of the mss at MBh 13.145.30c, and would correspond much better with the story as told in SP. According to this reading Śiva changes into a little child ‘to test Umā’ \( umāṁjij˜
-
-nāsamāno, subject Śiva\), corresponding to SP 29a \(BrP 36.28a\) 25 If one of the variant readings of the BrP text that are presented in Schreiner and Söhnen’s edition corresponds with SP, the other readings are ignoreḍ Occasionally, if these variant readings resemble the SP reading, they are also given in the apparatus with siglum Bpur\*. 
+Another significant variant is found ad  59c. This reading, although the editors of the Critical Edition have relegated it to the apparatus, is supported by a substantial part of the northern and southern mss as well as by some of the mss at MBh 13.145.30c, and would correspond much better with the story as told in SP. According to this reading Śiva changes into a little child ‘to test Umā’ \( umāṁjijñāsamāno, subject Śiva\), corresponding to SP 29a \(BrP 36.28a\) 25 If one of the variant readings of the BrP text that are presented in Schreiner and Söhnen’s edition corresponds with SP, the other readings are ignoreḍ Occasionally, if these variant readings resemble the SP reading, they are also given in the apparatus with siglum Bpur\*. 
 
 26 Occasionally the Ve ˙
 
@@ -12407,11 +12541,7 @@ dated NS 837 \(= ad 1717\), available on a microfilm of the Nepal–German Manus
 
 195
 
-devyā jij˜
-
-nāsayā \(‘in order to test the Goddess’\), which has a greater intrinsic probability than Umā openly acknowledging her ignorance: umā jij˜
-
-nāsamānā. 
+devyā jijñāsayā \(‘in order to test the Goddess’\), which has a greater intrinsic probability than Umā openly acknowledging her ignorance: umā jijñāsamānā. 
 
 The editors of the MBh may have been tempted into accepting this, probably corrupt version of 59c in the critical text on account of the fact that the MBh text as we have it does not explicitly state that Umā stands the test and rec-
 
@@ -12553,15 +12683,11 @@ Skandapurāṇa\) with the symbolic meaning of the child as the embodiment of Ś
 
 of the eight names of the aṣṭam¯urti; only Bhava appears to be missing or may be considered to be replaced by another name such as Śaṁkara or De-
 
-vadeva. This revelation of the child’s eightfold nature has become lost in the course of transmission as the omission of these two verses in BrP, LiP and MKh attestṣ The absence of the child’s qualification as pa˜
-
-ncaśikha  in LiP 28d
+vadeva. This revelation of the child’s eightfold nature has become lost in the course of transmission as the omission of these two verses in BrP, LiP and MKh attestṣ The absence of the child’s qualification as pañcaśikha  in LiP 28d
 
 and MKh 100d should probably be viewed in the same lighṭ At the instance of Brahmā the still petrified gods turn their minds towards Śarva \( praṇemur
 
-manasā śarvam
-
-. , 34 whereas a minor textual inconsequence in the MKh permits them to bow \( praṇatāḥ \) at that as well \(MKh 115ab\). The Māheśvarakhaṇd
+manasā śarvaṁ, 34 whereas a minor textual inconsequence in the MKh permits them to bow \( praṇatāḥ \) at that as well \(MKh 115ab\). The Māheśvarakhaṇd
 
 . a
 
@@ -12575,7 +12701,7 @@ The SP, BrP, LiP and MKh continue their story of Umā’s svayaṁvara. The
 
 MKh inserted 5 ślokas \(122cd–127ab\) in which the daityas  in their turn express their ignorance. By pronouncing the bīja
 
-´
+́
 
 huṁSiva drives them back to their
 
@@ -12677,9 +12803,7 @@ recension of SP that is not, or only partly represented in our ms material.
 
 The wording of the SP, in its turn, does not show direct dependency on the MBh, but nevertheless elucidates it considerably, since it preserved the context from which the verses in the MBh may have been borroweḍ We thus have stumbled upon a layer in the process of composition of the Mahābhārata that
 
-has been transmitted incompletely—and consequently incomprehensibly—in the ms tradition of the epic. One explanation of this phenomenon could be that in the course of this ms transmission, at an early stage, for one reason or another, a significant text passage had been lost and that only the Telugu and Grantha traditions preserved a vestige thereof. However, the hemistich devyāḥ svayaṁvare vr̥ttam
-
-. śr̥ṇuṣvānyad dhanaṁjaya \( ad  MBh 7.173.58\) makes
+has been transmitted incompletely—and consequently incomprehensibly—in the ms tradition of the epic. One explanation of this phenomenon could be that in the course of this ms transmission, at an early stage, for one reason or another, a significant text passage had been lost and that only the Telugu and Grantha traditions preserved a vestige thereof. However, the hemistich devyāḥ svayaṁvare vr̥ttaṁśr̥ṇuṣvānyad dhanaṁjaya \( ad  MBh 7.173.58\) makes
 
 the impression of being secondary, i.e. of being an explanatory interpolatioṇ 
 
@@ -48391,7 +48515,7 @@ MSNep
 
 Mokṣadharma 187 and 239–241 Reconsidered∗
 
-Hans ṭ Bakker & Peter C. Bisschop
+Hans T. Bakker & Peter C. Bisschop
 
 Preamble
 
@@ -48433,7 +48557,7 @@ BrP 237.43–238.14.
 
 224
 
-Hans ṭ Bakker & Peter C. Bisschop
+Hans T. Bakker & Peter C. Bisschop
 
 somehow had come to be included in this text-group. He recovered this tract by isolating and arranging those verses in which the term bhāva  has apparently
 
@@ -48459,9 +48583,7 @@ occurs in two altogether different situations: first in connection with such ‘
 
 \[. . . \] The most striking agreement of the epic with the Upaniṣad appears from the fact that the act of consciousness itself, when it has actualized the senses, evolves the objects \(epic: artha /KauṣU.: bhūtamātra\) of the latter̥ Or rather, at the very
 
-moment buddhi \(or praj˜
-
-nā\) actualizes the senses it evolves \(epic: vikurute /KauṣU.: abhivisr̥ jate\) the object that is apprehendeḍ 
+moment buddhi \(or prajñā\) actualizes the senses it evolves \(epic: vikurute /KauṣU.: abhivisr̥ jate\) the object that is apprehendeḍ 
 
 7 In addition to these three, there may be distinguished three more themes \(in both texts\): an introductory question concerning the self \( adhyātman\) which forms the beginning of
 
@@ -48515,19 +48637,15 @@ tanmātrās, in fact, are the sense-impressions: śabda, sparśa, rūpa, rasa  a
 
 13 The Appendix contains the text of some passages of the critical editioṇ It is meant to facilitate comparison: the left column contains a passage of MBh 12.187, the right column contains the parallel of MBh 12.239–241 and vice versa. A blank means there is no parallel for a passage. 
 
-14 That we are here concerned with a break is also evident from the parallel passage which omits 187.11ab, and instead of mahābhūtāni pa˜
+14 That we are here concerned with a break is also evident from the parallel passage which omits 187.11ab, and instead of mahābhūtāni pañcaiva \(MBh 187.10c\) reads indriyāṇi
 
-ncaiva \(MBh 187.10c\) reads indriyāṇi
-
-nare pa˜
-
-nca \(MBh 239.14a\). 
+nare pañca \(MBh 239.14a\). 
 
 
 
 226
 
-Hans ṭ Bakker & Peter C. Bisschop
+Hans T. Bakker & Peter C. Bisschop
 
 their origin out of the elements seems to be forgotteṇ Whereas up to this point we had a description of material nature, after it both texts seem to be dealing with ideal nature only. 
 
@@ -48557,13 +48675,9 @@ In the parallel passage of 240.4–5, however, it is not the instrumental case \
 
 15 MBh 12.239.15: caks
 
-. ur ālocanāyaiva sam
+. ur ālocanāyaiva saṁśayaṁkurute manaḥ | buddhir adhyavasānāya
 
-. śayaṁkurute manaḥ | buddhir adhyavasānāya
-
-sākṣī kṣetraj˜
-
-na ucyate  k
+sākṣī kṣetrajña ucyate  k
 
 16 Some manuscripts of 240.6 also read adr̥śyaḥ . No manuscript of 187.20 reads adr̥śyā. 
 
@@ -48597,9 +48711,7 @@ The intellect is the self of man; the intellect indeed is the essence of the sel
 
 26cd, p. 197\):
 
-ucyate: adhiṣṭhānād indriyapr̥thaktvam
-
-. śaktiviśeṣopalambhāt | yathā śarīrāsambha-
+ucyate: adhiṣṭhānād indriyapr̥thaktvaṁśaktiviśeṣopalambhāt | yathā śarīrāsambha-
 
 vino viṣayavyavasāyalakṣaṇasya śaktiviśeṣasyopalambhād arthāntaraṁbuddhir anu-
 
@@ -48607,9 +48719,7 @@ mīyata evam adhiṣṭhānāsambhavino viṣayagrahaṇalakṣaṇasya śaktivi
 
 The use of the term in these texts of the Mokṣadharma, however, is ambiguouṣ Thus in MBh 12.239.11cd the ‘complex of the senses’ \( indriyagrāma\) is described as ‘derived
 
-from the five elements’ \( pa˜
-
-ncabhautika\), thereby implying its material nature, whereas MBh 187.20 seems to conflate the adhiṣṭhānāni  and the indriyāṇi. 
+from the five elements’ \( pañcabhautika\), thereby implying its material nature, whereas MBh 187.20 seems to conflate the adhiṣṭhānāni  and the indriyāṇi. 
 
 18 Frauwallner 1992, 78. 
 
@@ -48623,7 +48733,7 @@ buddhir ātmā manuṣyasya buddhir evātmano ’tmikā | yadā vikurute bhāva�
 
 228
 
-Hans ṭ Bakker & Peter C. Bisschop
+Hans T. Bakker & Peter C. Bisschop
 
 The buddhi  is regarded as the essence of the self in this verse. In the preceding verse however the self is stated to be higher than the buddhi. Consequently the buddhi  seems to exist in two ways: 1\) as an absolute, non-intentional self, corresponding to the kṣetraj˜na; 2\) as an empirical, intentional activity, when it evolves through the manas  into the senseṣ In the latter case the buddhi exists as a bhāva, i.e. in a ‘state of modification’. It is obvious that this doctrine differs materially from the one found in MBh 187, where the buddhi  is treated as an hypostasis of empirical intellect, fundamentally distinct from the transcendental subject, kṣetraj˜na, as well as separated from the senseṣ21
 
@@ -48641,17 +48751,13 @@ although its essence is said to consist in them \( bhāvātmikā\). In both chap
 
 at issue has variant readings—some manuscripts of 187.23 read ativartate  instead of nātivartate, while some manuscripts of 240.8 read nātivartate  instead of ativartate—yet
 
-this variance may be significant and point to an original difference of doctrine rather than being due to mere textual corruptioṇ In 187.23 the buddhi  does not transcend the three bhāvās, because only the ‘invisible one’, viz. the kṣetraj˜
-
-na, transcends them. 
+this variance may be significant and point to an original difference of doctrine rather than being due to mere textual corruptioṇ In 187.23 the buddhi  does not transcend the three bhāvās, because only the ‘invisible one’, viz. the kṣetrajña, transcends them. 
 
 In 240.8 the buddhi  does transcend them, since it is equated to the absolute self and as such is the transcendental ‘invisible one’. 
 
 22 Frauwallner \(1992\) translates sattva  in this part of the texts with ‘die Güte’; Edgerton \(1965\) translates it with ‘essential \(material\) reality’. Van Buitenen \(1957b, 95\) distinguishes five meanings of the word sattva  in the context of proto-Sāṁkhya: ‘1. sattva  as
 
-the material counterpart of the kṣetraj˜
-
-na; 2. as the buddhi; 3. as a bhāva  of the buddhi; 
+the material counterpart of the kṣetrajña; 2. as the buddhi; 3. as a bhāva  of the buddhi; 
 
 4. as a state of well-being amounting to release; 5. as the first of the three gun
 
@@ -48659,9 +48765,7 @@ na; 2. as the buddhi; 3. as a bhāva  of the buddhi;
 
 Although van Buitenen takes sattva  here in the first meaning, he observes that there is no real difference between the first and the second meaning: ‘In these early forms of Sāṁkhya creation does not necessarily start from a higher principle than the buddhi, e.g., avyakta, pradhāna  or prakr̥ ti, but from the buddhi  itself; nor has the ahaṁkāra
 
-yet taken over the evolutionary functions of the buddhi. As the buddhisattva  is indeed creation and thus the ‘material’ counterpart of the unaffected kṣetraj˜
-
-na’ \(1957b, 96–97\). 
+yet taken over the evolutionary functions of the buddhi. As the buddhisattva  is indeed creation and thus the ‘material’ counterpart of the unaffected kṣetrajña’ \(1957b, 96–97\). 
 
 Cf. also Johnston 1937, 50–51. 
 
@@ -48673,9 +48777,7 @@ gun
 
 . āṣ The doctrine underlying MBh 240 therefore seems to be that kṣetraj˜na and sattva  are two aspects of one and the same principle, viz. the buddhi, which is defined as the Self of man \(MBh 240.3ab\). If our analysis of these chapters is correct, it may explain a statement in the Anugītā. 
 
-Some wise men who are well established in knowledge declare the identity of the kṣetraj˜
-
-na  and the sattva, this is not correcṭ 23
+Some wise men who are well established in knowledge declare the identity of the kṣetrajña  and the sattva, this is not correcṭ 23
 
 This verse may be taken to refer to those passages of 239–241 that teach the unity of the kṣetraj˜na  and the sattva  within the self. This unity appears as two aspects \(dialectical moments\) of the buddhi: on the one hand as the transcendental subject, styled ‘ kṣetraj˜na’, on the other hand as the phenomenality \(intentionality\) of consciousness, styled ‘ sattva’ \(‘being’\), that is intellect \( buddhi\) as activity, which comprises manas, the senses and their objectṣ 
 
@@ -48691,11 +48793,7 @@ Die Vorstellung der Urmaterie \( prakr̥ti\), die Lehre von den drei Eigenschaft
 
 . ās\) der Urmaterie und die Lehre von den 25 Wesenheiteṇ 25
 
-23 MBh 14.48.9: āhur eke ca vidvāṁso ye j˜
-
-nāne supratiṣṭhitāh. | kṣetraj˜
-
-nasattvayor aikyam
+23 MBh 14.48.9: āhur eke ca vidvāṁso ye jñāne supratiṣṭhitāh. | kṣetrajñasattvayor aikyam
 
 ity etan nopapadyate  k
 
@@ -48717,7 +48815,7 @@ yadā prārthayate kiṁcit tadā bhavati sā manaḥ  k 20 k
 
 230
 
-Hans ṭ Bakker & Peter C. Bisschop
+Hans T. Bakker & Peter C. Bisschop
 
 We find none of them in these textṣ What van Buitenen has styled a ‘horizontal evolution theory’ is different from what Frauwallner called an ‘evolution theory’. 
 
@@ -50831,7 +50929,7 @@ between the material and ideal world, all three dialogues may be said to belong 
 
 232
 
-Hans ṭ Bakker & Peter C. Bisschop
+Hans T. Bakker & Peter C. Bisschop
 
 Appendix
 
@@ -55045,7 +55143,7 @@ F
 
 234
 
-Hans ṭ Bakker & Peter C. Bisschop
+Hans T. Bakker & Peter C. Bisschop
 
 Mokṣadharma 187
 
@@ -55123,9 +55221,7 @@ be another possibility. The characters of the inscription, according to Sircar \
 
 3 A king named Harirāja, son of Niṣṭhurarāja, grandson of Bhāgraharāja \(?\), said to belong to the Śūra family, is known from a copperplate charter found in Vārāṇasī. The
 
-open nail-headed letters of this inscription point to Central India \(possibly Dakṣiṇa Kosala\), which led Michael Willis \(2014, 109\) to conclude that ‘this plate, although belonging to the fifth century, was found outside of its first geographical context’. King Harirāja and his Queen Anantamahādevī may have belonged to the same vam
-
-. śa  as
+open nail-headed letters of this inscription point to Central India \(possibly Dakṣiṇa Kosala\), which led Michael Willis \(2014, 109\) to conclude that ‘this plate, although belonging to the fifth century, was found outside of its first geographical context’. King Harirāja and his Queen Anantamahādevī may have belonged to the same vaṁśa  as
 
 Bhīmasena, though the latter’s inscription does not mention Harirāja and his ancestors
 
@@ -55199,9 +55295,7 @@ two verses in praise of King Nāgabala and one incomplete verse referring to his
 
 A descendant of the legendary Pāṇḍu, this king considers himself to belong to
 
-the Lunar Race \( somavam
-
-. śa\). The first two kings in the genealogy according to both inscriptions are styled rāja  and nr̥pati, the later kings mahārāja. Son of Jayabala, founder of the dynasty, is Vatsarāja, from whose marriage with
+the Lunar Race \( somavaṁśa\). The first two kings in the genealogy according to both inscriptions are styled rāja  and nr̥pati, the later kings mahārāja. Son of Jayabala, founder of the dynasty, is Vatsarāja, from whose marriage with
 
 Droṇabhaṭṭārakā mahārāja  Nāgabala is borṇ From the latter’s marriage with Indrabhaṭṭārakā is born mahārāja  Bharatabala, who is eulogized as a great warrior̥ 7 Bharatabala married a daughter of a family descending from Amara \( amarajakula\), a fact that is particularly emphasizeḍ This princess, designated as ‘Lokaprakāśā’, is said to hail from Kosalā. 8 The accentuation of her origin
 
@@ -55253,9 +55347,7 @@ ca grāmam
 
 . 
 
-samāj˜
-
-nāpayati | viditam astu vo ’smābhir ayam
+samājñāpayati | viditam astu vo ’smābhir ayam
 
 . 
 
@@ -55293,9 +55385,7 @@ tridaśapatinutacaran
 
 śrījaye-
 
-śvarabhaṭṭārakasyedam
-
-. śāsanaṁlikhyate śryudīrṇavairānumatyā  k
+śvarabhaṭṭārakasyedaṁśāsanaṁlikhyate śryudīrṇavairānumatyā  k
 
 
 
@@ -55467,9 +55557,7 @@ with a princess of the former family seems to have furnished the hill people of 
 
 20 Shastri 1987, 181; italics mine. 
 
-21 EI XXXIV, 49 ll. 9–10: rāj˜
-
-naḥ sumānyarājapuruṣāṇ 
+21 EI XXXIV, 49 ll. 9–10: rājñaḥ sumānyarājapuruṣāṇ 
 
 22 EI XXXIV, 50: iti pravardhamānavijayarājyasaṁvat 40 1 pauṣa-di 20 \[ 7 \]. 
 
@@ -55477,9 +55565,7 @@ naḥ sumānyarājapuruṣāṇ
 
 the family descending from Amara, according to Mirashi’s edition in CII V, 85 f. ll. 25–31: ekaiva \[i.e. Queen Lokaprakāśā\], 
 
-sphaṭikavimalaśubhraṁbibhratī śīlatoyam
-
-. , 
+sphaṭikavimalaśubhraṁbibhratī śīlatoyaṁ, 
 
 yamaniyamataṭāntaprāntaśuddhapravāham |
 
@@ -55487,9 +55573,7 @@ praśamaguṇagaṇormir yā janaṁpāvayantī,
 
 svayam iha suralokād āgatā jāhnavīva  k 9 k
 
-śrīmaccāndrām
-
-. śukīrter bharatabalanr̥pasyottamā rājapatnī, 
+śrīmaccāndrāṁśukīrter bharatabalanr̥pasyottamā rājapatnī, 
 
 jātā yā kosalāyām amarajakulajāṁkīrtim uccair dadhānā |
 
@@ -55497,9 +55581,7 @@ jātā yā kosalāyām amarajakulajāṁkīrtim uccair dadhānā |
 
 yātā pautraiḥ prapautrair nayavinayaratai rājasiṁhaiḥ pratiṣṭhām  k 10 k
 
-In 10b I read ◦ kulajām
-
-. : ◦ kulajā  Mirashi \(the anusvāra  is clearly visible in the Bamhanī
+In 10b I read ◦ kulajāṁ: ◦ kulajā  Mirashi \(the anusvāra  is clearly visible in the Bamhanī
 
 Plate\). In 10c I read with Mirashi ◦ prativihita-tamˆ
 
@@ -55705,17 +55787,13 @@ Jayarāja was, in all likelihood, succeeded by his nephew Sudevarāja, who
 
 soon inaugurated a second centre from where the kingdom was governed, a place named after the goddess who adorned the seals of the dynasty, Śrī \(Lakṣmī\), viz. Śrīpura \(modern Sirpur\) on the right bank of the Great River \(Mahānadī\). 
 
-The residence of the king remained in Śarabhapur, as is evident from the fact that the charters issued from there were direct orders of the king himself \( svamukhāj˜
-
-nayā\), 37 whereas the charters from Śrīpura were issued by his proxy \( dū-
+The residence of the king remained in Śarabhapur, as is evident from the fact that the charters issued from there were direct orders of the king himself \( svamukhājñayā\), 37 whereas the charters from Śrīpura were issued by his proxy \( dū-
 
 taka\), the illustrious great feudatory \( śrīmahāsāmanta\) Indrabalarāja, whose
 
 office is described as that of chief minister \( sarvādhikārādhikr̥ta\).38
 
-There can be little doubt that Indrabala is the same as the king of the Pāṇḍava lineage from whom the later King Tīvaradeva traced his descent \(see below\). 39 The ending of the name ◦ bala  as well as the fact that he belonged to a Pāṇḍava lineage are strong indications that Indrabala was somehow related to the Somavam
-
-. śa dynasty of Mekalā, whose last ruling king, Śūrabala, was
+There can be little doubt that Indrabala is the same as the king of the Pāṇḍava lineage from whom the later King Tīvaradeva traced his descent \(see below\). 39 The ending of the name ◦ bala  as well as the fact that he belonged to a Pāṇḍava lineage are strong indications that Indrabala was somehow related to the Somavaṁśa dynasty of Mekalā, whose last ruling king, Śūrabala, was
 
 born from a princess of Kosalā and who probably ruled as a feudatory of the
 
@@ -55727,9 +55805,7 @@ Sudevarāja’s successor, Pravararāja—probably his younger brother—may
 
 have had a rather short reigṇ Both of his charters date from his 3rd regnal year̥ 41 They were issued from Śrīpura, this time, however, without media-tion of Indrabala or another sāmanta. It appears not implausible that the
 
-death of Sudevarāja was followed by a power struggle between the old family of Śarabhapur and the feudatories of the newly founded Śrīpura. Within the family of the Pāṇḍuvam
-
-. śins of Mekalā this may also have led to a conflict of
+death of Sudevarāja was followed by a power struggle between the old family of Śarabhapur and the feudatories of the newly founded Śrīpura. Within the family of the Pāṇḍuvaṁśins of Mekalā this may also have led to a conflict of
 
 interests, in particular between Śūrabala, reigning in Mekalā, and Nannarāja, 
 
@@ -55759,9 +55835,7 @@ Hans Bakker
 
 The Pāṇd
 
-. uvam
-
-. śa of Śrīpura
+. uvaṁśa of Śrīpura
 
 As has been noted above, scholars nowadays generally agree that sāmanta
 
@@ -55773,11 +55847,7 @@ way related to the Pāṇḍavas of Mekalā, but members of this lineage are nev
 
 gupta. 42 This Udayana may be identical to the Pāṇḍava Udayana featuring
 
-in the Kāla˜
-
-njara inscription of the 8th or 9th century, in which he is said to have founded there a beautiful brick temple of Bhadreśvara. 43 If indeed these two Udayanas were the same, the Kāla˜
-
-njara inscription might indicate that the
+in the Kālañjara inscription of the 8th or 9th century, in which he is said to have founded there a beautiful brick temple of Bhadreśvara. 43 If indeed these two Udayanas were the same, the Kālañjara inscription might indicate that the
 
 original homeland of this branch may have been the region around Rewa, but this issue has been the subject of discussion in my later work. 44
 
@@ -55793,9 +55863,7 @@ gacchati bhūyasi kāle bhūmipatiḥ kṣapitasakalaripupakṣaḥ |
 
 pāṇd
 
-. avavam
-
-. śād guṇavān udayananāmā samutpannaḥ  k 16 k
+. avavaṁśād guṇavān udayananāmā samutpannaḥ  k 16 k
 
 . . . ◦ sya tanūjanmā  k 17 k
 
@@ -55815,9 +55883,7 @@ For a photo-zincograph based on a rubbing see ASI XVII, Plate XVIII A.
 
 43 ASI XXI, 40 Plate IX L; quoted in JRAS \(1905\), 621. This inscription has been reexamined by Peter Bisschop and Hans Bakker \(see Bakker 2014, 201\): udayana iti rājā yaḥ kule pāṇd
 
-. avānām
-
-. , 
+. avānāṁ, 
 
 sakalabhuvananāthasyāsya bhadreśvarasya |
 
@@ -55827,23 +55893,17 @@ gr̥ havaram atibhaktyā kāritaṁtena pūrvam  k
 
 44 I still think that both Udayana’s are the same figure, but I have given up the view that conceives of this king as a historical persoṇ He features in these pedigrees to forge a link with Pāṇd
 
-. u and the legendary Somavam
-
-. śa dynasty. I wrote the following in Bakker
+. u and the legendary Somavaṁśa dynasty. I wrote the following in Bakker
 
 2014, 203:
 
 This suggestion \[of an historic Udayana\] now seems to me naive. 
 
-The Kāla˜
-
-njara
+The Kālañjara
 
 inscription and the two Pāṇd
 
-. uvam
-
-. śin inscriptions from Kosala refer to one and the
+. uvaṁśin inscriptions from Kosala refer to one and the
 
 same legendary Pāṇd
 
@@ -55865,9 +55925,7 @@ the famous king of Vatsa, i.e. Udayana \(Shasti 1995 II, 74, 81 \(v. 2\).
 
 12 / History and Culture of Dakṣiṇa Kosala 249
 
-It is conceivable, nevertheless, that the territory over which King Indra\(bala\) and the Pāṇḍuvam
-
-. śins of Mekalā ruled may have included the region of the
+It is conceivable, nevertheless, that the territory over which King Indra\(bala\) and the Pāṇḍuvaṁśins of Mekalā ruled may have included the region of the
 
 present-day Shahdol Districṭ This rule is apparently attested by an inscription found in Malgā \(Shahdol District\) of a sāmanta  Indrarāja, dating from his first
 
@@ -55897,9 +55955,7 @@ Kauvatal Plates of Sudevarāja, Year 7. 46
 
 However, the Pāṇḍava family settling in Śrīpura soon proved to be a cuckoo in the nest, since either Indrabala himself, or his eldest son, Nannarāja I, 
 
-usurped the throne of Kosala. 47 That the Pāṇḍuvam
-
-. śa did not completely
+usurped the throne of Kosala. 47 That the Pāṇḍuvaṁśa did not completely
 
 45 Cf. Mirashi in Studies I, 240. 
 
@@ -56001,17 +56057,13 @@ also refers to a place called Indrapura, evidently named after Indrabala, and me
 
 12 / History and Culture of Dakṣiṇa Kosala 251
 
-temple builderṣ Many of the grants of this royal family concern the erection and maintenance of temples; Krishna Deva was right when he observed that ‘if the Pāṇḍuvam
-
-. śīs did not found Śrīpura, to them is mainly due its abundant archaeological wealth’. 52
+temple builderṣ Many of the grants of this royal family concern the erection and maintenance of temples; Krishna Deva was right when he observed that ‘if the Pāṇḍuvaṁśīs did not found Śrīpura, to them is mainly due its abundant archaeological wealth’. 52
 
 Nannarāja I was succeeded by his son Tīvaradeva, who acquired the sovereignty of the whole of Kosala. 53 Connected with Tīvaradeva is the conundrum of the absolute chronology of the history of ancient Kosala. Almost everything written about this king concerns his dating. 54
 
 The date of the Pāṇd
 
-. uvam
-
-. śa dynasty of śrīpura
+. uvaṁśa dynasty of śrīpura
 
 Two dating criteria are thought to be relevant: 1\) his capital \(obviously Śrīpura, but possibly also called ‘Trivaranagara’\) might have been alluded to in an inscription of Mādhavavarman, the Viṣṇukuṇḍin king; 2\) he might have been a contemporary of the \(Maukhari\) prince Sūryavarman, whose daughter Vāsaṭā
 
@@ -56121,21 +56173,15 @@ Tīvaradeva
 
 To judge by his inscriptions, Tīvaradeva was a great warrior̥ In his military campaigns he may have been supported by the alliance which had evidently been forged between the Maukharis and the rulers of Dakṣiṇa Kosala. 
 
-There was enough geographical proximity for the Maukharis and Somavam
-
-. śīs to
+There was enough geographical proximity for the Maukharis and Somavaṁśīs to
 
 come into contacṭ Śarvavarman \[reigning brother of Sūryavarman, H.ṭB.\] was
 
-overlord of Kalanjar region and probably held the Vindhyan fort Asigarh; 61 and the Somavam
-
-. śī kings of Mahākosala were associated with Mekala regioṇ It is
+overlord of Kalanjar region and probably held the Vindhyan fort Asigarh; 61 and the Somavaṁśī kings of Mahākosala were associated with Mekala regioṇ It is
 
 likely that \[the Maukhari king\] ¯
 
-Iśānavarman was helped by the Somavam
-
-. śī king in
+Iśānavarman was helped by the Somavaṁśī king in
 
 his campaign against the Viṣṇukuṇḍins of āndhra. 62 Tīvaradeva who was master
 
@@ -56281,9 +56327,7 @@ krośāc cikṣepa tajjaṁmalam iva danujaṁyaḥ sa vo ’vyān nr̥ siṁha�
 
 12 / History and Culture of Dakṣiṇa Kosala 255
 
-Mahāśivagupta, who, unlike his ancestors who were paramavaiṣṇavas, was a paramamāheśvara \(EI XXVII, 323 l. 5\), evidently pursued a policy of active patronage of various religious currents of his day, as is apparent from his grant to a Buddhist monastery in Taraḍam
-
-. śaka \(at the request of his maternal uncle
+Mahāśivagupta, who, unlike his ancestors who were paramavaiṣṇavas, was a paramamāheśvara \(EI XXVII, 323 l. 5\), evidently pursued a policy of active patronage of various religious currents of his day, as is apparent from his grant to a Buddhist monastery in Taraḍaṁśaka \(at the request of his maternal uncle
 
 Bhāskaravarman\), 72 and, indirectly, from the Buddhist monasteries a little south of Śrīpura. The inscription found in one of them records the donation by a monk called ānandaprabha of a ‘free-feeding establishment for the yatis or monks’ under the reign of Mahāśivagupta. 73
 
@@ -56357,9 +56401,7 @@ Apart from the fact that shifting the whole dynastic and art history with 200 ye
 
 Gupta hegenomy ended \(c. 500 ad\), it may be assumed that, after the Pāṇd
 
-. uvam
-
-. śa, a
+. uvaṁśa, a
 
 re-emerged Nala dynasty ruled over parts of Kosala including Rajim, where Vilāsatu ˙
 
@@ -56481,13 +56523,9 @@ Jiṭhānī maṁdir kī bhārī bharkam pratimāem
 
 . 
 
-Kuṣāṇakālīn pratīt hotā haim
+Kuṣāṇakālīn pratīt hotā haiṁ. 
 
-. . 
-
-Saṁbhavataḥ unke lakṣaṇmem
-
-. śilpakār ke sāmne Kuṣāṇa kālīn yakṣa-pratimāom
+Saṁbhavataḥ unke lakṣaṇmeṁśilpakār ke sāmne Kuṣāṇa kālīn yakṣa-pratimāom
 
 . 
 
@@ -56559,9 +56597,7 @@ Two fragmentary images merit particular attentioṇ One is a complex, broken ima
 
 preserved under his shoulder̥ The right arm is broken off at the elbow. The fracture above the bent elbow indicates that originally the right underarm also was directed upwardṣ This right underarm is preserved on a slab of stone that is placed to the left of the image \(Plate 41\). The right hand holds braided curls of hair, also seen at other images found in Tālā, which may have belonged to
 
-the female figure that rises above the hood-like halo of the main image. This hood consists of layers of petals, on the outer rim of which \(lotus\) buds are placed in a row. Altogether I count eleven buds, two preserved on the slab that contains the right underarm. The head of the female figure is missing. To her right, placed a little below her, stands a male figure, apparently making an a˜
-
-njali. 
+the female figure that rises above the hood-like halo of the main image. This hood consists of layers of petals, on the outer rim of which \(lotus\) buds are placed in a row. Altogether I count eleven buds, two preserved on the slab that contains the right underarm. The head of the female figure is missing. To her right, placed a little below her, stands a male figure, apparently making an añjali. 
 
 The head of the main deity is slightly slanted to the lefṭ His round face, with eyes half closed as he looks downwards, with rather flat nose and thick lips, seem to express forbearance. He wears a broad necklace \( graiveyaka\) adorned with pendantṣ The female figure rising above his head wears a simple necklace and bangles on her right wrisṭ 
 
@@ -56627,15 +56663,11 @@ four figureṣ 92
 
 88 Cf. Mahābhāṣya ad P 5.3.99. 
 
-89 MBh 1.60.22cd–23ab: agneḥ putraḥ kumāras tu śrīmā˜
-
-n śaravan
+89 MBh 1.60.22cd–23ab: agneḥ putraḥ kumāras tu śrīmāñ śaravan
 
 . ālayaḥ  k 22 k tasya śākho
 
-viśākhaś ca naigameśaś ca pr̥ṣṭhajah. | Van Buitenen translates pr̥ṣṭhajah.  with ‘as the last born’. Some mss read, however, pr̥ṣṭhatah.  and this is also the reading of MBh 9.43.37, where they are said to be simultaneous \( kṣaṇena\) manifestations \(see below, ṇ 92 on p. 264\). See also Purāṇapa˜
-
-ncalakṣaṇa \(PPL p. 212, v. 27\). 
+viśākhaś ca naigameśaś ca pr̥ṣṭhajah. | Van Buitenen translates pr̥ṣṭhajah.  with ‘as the last born’. Some mss read, however, pr̥ṣṭhatah.  and this is also the reading of MBh 9.43.37, where they are said to be simultaneous \( kṣaṇena\) manifestations \(see below, ṇ 92 on p. 264\). See also Purāṇapañcalakṣaṇa \(PPL p. 212, v. 27\). 
 
 90 Cf. EITA II.1, Plate no. 446. 
 
@@ -56941,9 +56973,7 @@ Naigameṣa image found in Mandhal \(Vidarbha\)
 
 
 
-Somaśarman, Somavam
-
-. śa and Somasiddhānta
+Somaśarman, Somavaṁśa and Somasiddhānta
 
 A Pāśupata tradition in seventh-century
 
@@ -57009,9 +57039,7 @@ of the Śaiva Siddhānta, though it seems to be quite close to this tradition \(
 
 
 
-13 / Somaśarman, Somavam
-
-. śa and Somasiddhānta
+13 / Somaśarman, Somavaṁśa and Somasiddhānta
 
 285
 
@@ -57039,9 +57067,7 @@ are, according to the Svacchanda, the worlds of the eight Rudras who are 4 SvT 1
 
 nga 1.8.86–89. 
 
-5 Niśvāsamukha 4.119–123 \(Kafle 2015, 190 f.\). This text is part of the Niśvāsatattvasam
-
-. -
+5 Niśvāsamukha 4.119–123 \(Kafle 2015, 190 f.\). This text is part of the Niśvāsatattvasaṁ-
 
 hitā \(NiTS\) corpuṣ A critical edition of the Mukha has been prepared by Nirajan Kafle and has been defended as part of his thesis in Leiden on 15 October 2015. I refer to this thesis, which eventually will appear in the Early Tantra Series published in Pondichéry. 
 
@@ -57091,9 +57117,7 @@ Hans Bakker
 
 incarnated in the eight Pramāṇa texts of the Pāśupata: Pa˜ncārtha etc.10
 
-Though none of these texts has come to light so far, we have a glimpse of the Pa˜
-
-ncārthapramāṇa, as this text is quoted by Kṣemarāja ad  Svacchanda
+Though none of these texts has come to light so far, we have a glimpse of the Pañcārthapramāṇa, as this text is quoted by Kṣemarāja ad  Svacchanda
 
 1.41–43. This fragment establishes that also the prime Pramāṇa of the Lākula
 
@@ -57125,17 +57149,13 @@ The differences between the various traditions that form the Pāśupata move-
 
 ment become more clear from the treatment \(in Svacchanda Paṭala 11\) of the ascending hierarchy of highest stations \( para\(ma\)ṁpadam\) that can be reached
 
-10 The eight Pramāṇa texts are: Pa˜
-
-ncārtha, Guhya, Rudrā ˙
+10 The eight Pramāṇa texts are: Pañcārtha, Guhya, Rudrā ˙
 
 nkuśa, Hr̥daya, Lakṣaṇa, Vyūha, 
 
 ākarṣa, ādarśa. Kṣemarāja ad  SvT 10.1134: ete rudrā etannāmakapāśupataśāstrāvatārakāḥ \(SvT II, 275\). 
 
-11 Pa˜
-
-ncārthapramāṇa:
+11 Pañcārthapramāṇa:
 
 proktā gopatipūrvā ye rudrās tu gahanāntagāḥ | te tu ghorāḥ 
 
@@ -57153,15 +57173,11 @@ hāreṇopatiṣṭhet |\).
 
 13 The names of these texts are given as \(SvT II, 275\): Purakalpa, Kanaka, Śālā, Niruttara, 
 
-Viśva, Prapa˜
-
-nca. They are no longer extanṭ 
+Viśva, Prapañca. They are no longer extanṭ 
 
 
 
-13 / Somaśarman, Somavam
-
-. śa and Somasiddhānta
+13 / Somaśarman, Somavaṁśa and Somasiddhānta
 
 287
 
@@ -57173,17 +57189,13 @@ Reality. 17
 
 Within the Lākula division the Svacchanda seems to distinguish between the Vaimalas and those who follow the eight Pramāṇas, more specifically the
 
-Pa˜
-
-ncārtha, according to Kṣemarāja; both reach the ¯Iśvara Reality, but the former’s highest station is the world of the Rudra Tejeśa, while of the latter it is that of Dhruveśa. 18 The Mathurā Pilaster Inscription of Candragupta II, 
+Pañcārtha, according to Kṣemarāja; both reach the ¯Iśvara Reality, but the former’s highest station is the world of the Rudra Tejeśa, while of the latter it is that of Dhruveśa. 18 The Mathurā Pilaster Inscription of Candragupta II, 
 
 Year 61 \(i.e. ad 380/81, or ad 388, according to Falk 2004, 173\) reports that a tradition of preceptors \( guru\) whose names end in vimala  and who may have hence belonged to the Vaimala division, were affiliated to a lineage of teachers \( ācārya\) that traced its origin back to Kuśika, supposedly the first disciple of Lakulīśa. The sacred memory of these gurus  was kept alive in a ‘preceptor’s shrine’ \( gurvāyatana\), where cult objects were installed bearing their names \(Upamiteśvara and Kapileśvara\), objects which were to be worshipped by the Māheśvaraṣ 19
 
 The Vaimalas may therefore have adhered to the Pāśupata
 
-school that followed the Pa˜
-
-ncārtha doctrine as laid down in the Pāśupatasūtra
+school that followed the Pañcārtha doctrine as laid down in the Pāśupatasūtra
 
 \(see below, p. 295\). Finally, the Svacchanda specifies a group within the Lākula
 
@@ -57215,9 +57227,7 @@ Cf. above, ṇ 15 on p. 287.
 
 18 SvT 11.72. Kṣemarāja \(II, 328\):
 
-ye ’pi vaimalākhyāḥ pāśupatabhedāḥ , tathā pa˜
-
-ncārthapramān
+ye ’pi vaimalākhyāḥ pāśupatabhedāḥ , tathā pañcārthapramān
 
 . āṣṭakoktopāsāparāh. pare, 
 
@@ -57247,23 +57257,17 @@ gaged in ritual \(worship\) activity, forsaking the more rigorous portion of the
 
 school has survived and little more information about the sect is known from the later Śaiva Siddhānta, which, in view of its ritualistic orientation, in a way may be conceived of as its successor \(see below, p. 296\). However, the alleged dependence of the Mausula text corpus on the Lākula Pramāṇas seems to allow
 
-the inference that this sect also ackowledged the hierarchy of Rudra worlds and as such deviated from the Pa˜
-
-ncārtha school. 
+the inference that this sect also ackowledged the hierarchy of Rudra worlds and as such deviated from the Pañcārtha school. 
 
 20 Kṣemarāja ad  Svacchanda 11.73–74ab:
 
 vaimalapramāṇaśāstraniṣṭho hi:
 
-dīkṣāj˜
-
-nānaviśuddhātmā dehāntaṁyāva caryayā |
+dīkṣājñānaviśuddhātmā dehāntaṁyāva caryayā |
 
 kapālavratam āsthāya svaṁsvaṁgacchati tat padam  k 11.73 k
 
-dīkṣāj˜
-
-nānaviśuddhātmeti padena proktakriyāpradhānavratamātraniṣṭhamausulakāru-
+dīkṣājñānaviśuddhātmeti padena proktakriyāpradhānavratamātraniṣṭhamausulakāru-
 
 kebhyo ’tra viśeṣo darśitah. | svaṁsvaṁproktatejeśadhruveśarūpam | yad uktaṁpu-
 
@@ -57307,9 +57311,7 @@ Iśvara.
 
 
 
-13 / Somaśarman, Somavam
-
-. śa and Somasiddhānta
+13 / Somaśarman, Somavaṁśa and Somasiddhānta
 
 289
 
@@ -57331,9 +57333,7 @@ Before discussing this inscription any further, I give the text of that portion 
 
 21 For the early chronology of Dakṣiṇa Kosala, the Pāṇd
 
-. uvam
-
-. śa dynasty of Śrīpura and
+. uvaṁśa dynasty of Śrīpura and
 
 the reign of Mahāśivagupta \(c. ad 590–650\) see Bakker 1994b; above, pp. 235 ff. 
 
@@ -57377,9 +57377,7 @@ on
 
 \[**11**\] saṁprati sanidhānah. sopanidhānah. sarvakarādānasametah. 
 
-sarvapīḍā \[**12**\] vivarjitas sadaśāparādhah. pratiṣiddhacāṭabhaṭapraveśah., asyām
-
-. \[**13**\] mā\(gha?\)∗∗-paurṇamāsyām, 
+sarvapīḍā \[**12**\] vivarjitas sadaśāparādhah. pratiṣiddhacāṭabhaṭapraveśah., asyāṁ\[**13**\] mā\(gha?\)∗∗-paurṇamāsyām, 
 
 atraivātmakāritaśrī-bāleśvarabhat
 
@@ -57389,9 +57387,7 @@ atraivātmakāritaśrī-bāleśvarabhat
 
 āropitebhyah.—
 
-śivasya mūrtīnām aṣṭau vigraheśvarāṇām
-
-. , 
+śivasya mūrtīnām aṣṭau vigraheśvarāṇāṁ, 
 
 ga \[**15**\] haneśasya mūrtayo rudrāh. ṣaṭṣaṣṭy anugrāhakā yuge yuge
 
@@ -57419,9 +57415,7 @@ sthāne guru∗∗∗∗∗ śrī-rudrasoma-pra \[**19**\] śiṣyaśrī-tejasom
 
 śrīmad-bhīmasoma-pādebhyah., 
 
-śiṣyapraśiṣyāṇām
-
-. \[**20**\] yāgadīkṣāvyākhyānavasatipravartanāya
+śiṣyapraśiṣyāṇāṁ\[**20**\] yāgadīkṣāvyākhyānavasatipravartanāya
 
 bhagnavidīrṇadevakula \[**21**\] saṁskr̥taye ca |
 
@@ -57459,9 +57453,7 @@ Majumdar 2007, 292; Bakker 2014, 143 f.
 
 
 
-13 / Somaśarman, Somavam
-
-. śa and Somasiddhānta
+13 / Somaśarman, Somavaṁśa and Somasiddhānta
 
 291
 
@@ -57541,19 +57533,13 @@ adhunā gūd
 
 . hān pa ˙
 
-nktiyugmagatā˜
-
-n śr̥ṇu |
+nktiyugmagatāñ śr̥ṇu |
 
 śvetādivaṣatkārāntān bhavān ṣaṭṣaṣṭimānagān  k 449 k 31 JRY 4.453–454ab \(edition A. Sanderson\):
 
-someśo lakulīśaś ca hy aṣṭāvim
+someśo lakulīśaś ca hy aṣṭāviṁśaty amī śivāḥ |
 
-. śaty amī śivāḥ |
-
-vyākhyānānugrahakarāḥ pramāṇaj˜
-
-nānabhedataḥ  k 4.453 k
+vyākhyānānugrahakarāḥ pramāṇajñānabhedataḥ  k 4.453 k
 
 prāsa ˙
 
@@ -57567,9 +57553,7 @@ by Lakulīśa; see e.g. Dviveda 1982 for a summary and comparison of these lists
 
 dvitīyā gurupa ˙
 
-nktir yā vareśādyaṣṭatrim
-
-. śikā  k 4.454 k
+nktir yā vareśādyaṣṭatriṁśikā  k 4.454 k
 
 sadyonugrahakartr̥ tve tasyā devy adhikāritā | \[. . . \]
 
@@ -57579,9 +57563,7 @@ bhairavāptapravaktāraḥ svādhaḥ sthānagatāṇuśaḥ  k 4.459 k
 
 
 
-13 / Somaśarman, Somavam
-
-. śa and Somasiddhānta
+13 / Somaśarman, Somavaṁśa and Somasiddhānta
 
 293
 
@@ -57711,9 +57693,7 @@ commitment to the Mahāvrata.
 
 
 
-13 / Somaśarman, Somavam
-
-. śa and Somasiddhānta
+13 / Somaśarman, Somavaṁśa and Somasiddhānta
 
 295
 
@@ -57753,15 +57733,11 @@ the Mausula divisioṇ
 
 bhagavān api deveśaḥ paramaiśvaryasaṁyutaḥ |
 
-atri vam
-
-. śaprasūtasya nāmnā vai  somaśarmaṇah. |
+atri vaṁśaprasūtasya nāmnā vai  somaśarmaṇah. |
 
 rūpaṁkr̥ tvā sitā ˙
 
-ngaṁtu jagāmātrigr̥ ham
-
-. śubham  k 124 k
+ngaṁtu jagāmātrigr̥ haṁśubham  k 124 k
 
 sa taṁbrahmavidaṁvipram ātreyaṁsakulaṁvibhuḥ |
 
@@ -57793,11 +57769,7 @@ svasiddhāntaṁdadau yogam uvācedaṁca  lāgud
 
 . iḥ k 129 k
 
-rahasyaṁparamaṁhīdaṁpa˜
-
-ncārtha iti saṁj˜
-
-nitam |
+rahasyaṁparamaṁhīdaṁpañcārtha iti saṁjñitam |
 
 viprān mocayituṁdatto yuṣmabhyaṁmartyabandhanāt |
 
@@ -57809,9 +57781,7 @@ anayā dīkṣayā viprān prāpayadhvaṁparaṁpadam  k 130 k
 
 Hans Bakker
 
-Somaśarman, Somavam
-
-. śa and Somasiddhānta
+Somaśarman, Somavaṁśa and Somasiddhānta
 
 When we return to the Junvānī inscription and combine its evidence with that
 
@@ -57823,9 +57793,7 @@ Somaśarman belonged to this milieu.
 
 In
 
-the Pā˜
-
-ncārthika-Pāśupata context he was mostly either ignored, or relegated to a previous yuga  by being promoted to an avatāra  of Śiva himself. Both
+the Pāñcārthika-Pāśupata context he was mostly either ignored, or relegated to a previous yuga  by being promoted to an avatāra  of Śiva himself. Both
 
 our sources, however, the inscription and the Skandapurāṇa, emphasize that, 
 
@@ -57833,9 +57801,7 @@ though they recognize Somaśarman as a patriarch, Somaśarman is not an incarnat
 
 Somaśarman himself was favoured with initiation by Lakulīśa, according to the inscription it was the other way round, 42 but, the inscription adds, the lineage of Bhīmasoma, received its ‘certificate of divinity’ through Mugalisa, who was initiated by the incarnated Śiva himself. 
 
-The combined evidence of both sources thus seems to suggest that there existed an early Śaiva tradition that, on the one hand, recognized the uniqueness of Lakulīśa’s incarnation, but that, on the other hand, distanced itself from the Pā˜
-
-ncārthika and Lākula divisionṣ In its initial stage this tradition, or one strand of it, may have been named after its putative preceptor: ‘Mausula’. In the course of time other groups may have been assimilated, and gradually a distinct theology and praxis may have been developed, which became known as the Somasiddhānta, thus preserving a reference to a distant saint who was hallowed as its founder, Somaśarmaṇ Part of this tradition, again, may eventually have merged with groups that produced the Bhairava texts such as the Jayadrathayāmala, that is to say, became indistinguishable from the Kāpālikaṣ 43
+The combined evidence of both sources thus seems to suggest that there existed an early Śaiva tradition that, on the one hand, recognized the uniqueness of Lakulīśa’s incarnation, but that, on the other hand, distanced itself from the Pāñcārthika and Lākula divisionṣ In its initial stage this tradition, or one strand of it, may have been named after its putative preceptor: ‘Mausula’. In the course of time other groups may have been assimilated, and gradually a distinct theology and praxis may have been developed, which became known as the Somasiddhānta, thus preserving a reference to a distant saint who was hallowed as its founder, Somaśarmaṇ Part of this tradition, again, may eventually have merged with groups that produced the Bhairava texts such as the Jayadrathayāmala, that is to say, became indistinguishable from the Kāpālikaṣ 43
 
 Others may have joined the Śaiva Siddhānta, of which a maṭhikā  was attached
 
@@ -57871,21 +57837,15 @@ Temple complex in Sirpur have been evaluated in Bosma 2018, 75–87.
 
 
 
-13 / Somaśarman, Somavam
-
-. śa and Somasiddhānta
+13 / Somaśarman, Somavaṁśa and Somasiddhānta
 
 297
 
-The Skandapurāṇa goes a step further in its mystification of the origins by affiliating Somaśarman to the lineage of Atri, the father of the Moon, that is to the Lunar Race, the Somavam
-
-. śa. 45 There are indications that this powerful
+The Skandapurāṇa goes a step further in its mystification of the origins by affiliating Somaśarman to the lineage of Atri, the father of the Moon, that is to the Lunar Race, the Somavaṁśa. 45 There are indications that this powerful
 
 symbolism was not lost on the rulers of Dakṣiṇa Kosala. It can hardly be coincidence that the Junvānī inscription is a charter issued by a king who
 
-proclaims to belong to the Somavam
-
-. śa. 46 After the theological and legendary
+proclaims to belong to the Somavaṁśa. 46 After the theological and legendary
 
 superstructure, the actual paraṁparā  of Bhīmasoma is said to begin with Soma, 
 
@@ -57893,9 +57853,7 @@ thus creating, possibly intentionally, a profound ambiguity: Soma who? Soma that
 
 who lived long after the times of Lakulīśa and Mugalisa, but who happened to start a tradition of ascetic teachers within the Pāśupata fold? 
 
-The intimate relationship of the royal Soma dynasty with this particular branch of Pāśupatas may thus have been endorsed by an ideology according to which both claimed descent from Soma—the dynastic one from Soma, the son of Atri, the sectarian one from the ‘Moon on Earth’ that appeared in the family of Somaśarman, that is in the House of the Mooṇ This House may therefore have been conceived by the mythmakers of the time as the joint cradle of two lineages: a worldly one culminating in Mahāśivagupta, the Somavam
-
-. śin king
+The intimate relationship of the royal Soma dynasty with this particular branch of Pāśupatas may thus have been endorsed by an ideology according to which both claimed descent from Soma—the dynastic one from Soma, the son of Atri, the sectarian one from the ‘Moon on Earth’ that appeared in the family of Somaśarman, that is in the House of the Mooṇ This House may therefore have been conceived by the mythmakers of the time as the joint cradle of two lineages: a worldly one culminating in Mahāśivagupta, the Somavaṁśin king
 
 of Kosala, and a religious one headed by Bhīmasoma, an ācārya  living in the
 
@@ -57929,9 +57887,7 @@ yena vyāptaṁjagat sarvaṁtrailokyaṁsacarācaram  k
 
 46 Malhar \(Junvānī\) Copperplates of Mahāśivagupta, Year 57, ll. 4–5:
 
-somavam
-
-. śa-
+somavaṁśa-
 
 saṁbhavaḥ paramamāheśvaro mātāpitr̥ pādānudhyātaḥ śrīmahāśivaguptarājadevaḥ . The
 
@@ -57941,14 +57897,9 @@ likelihood of such a connection was first suggested to me by Rahul Kumar Singh.
 
 
 
+## Studies in the Early History and Culture of North India
+
 part ii
-
-Studies
-
-in the Early History and Culture of
-
-North India
-
 
 
 
@@ -58113,9 +58064,7 @@ bandhustrīgamanādibhiḥ kucaritair āvarjitaṁnāyaśaḥ |
 
 nmukhaṁna ca bhiyā paiśācyam a ˙
 
-ngīkr̥tam
-
-. , 
+ngīkr̥taṁ, 
 
 tyāgenāsamasāhasaiś ca bhuvane yas sāhasā ˙
 
@@ -58215,9 +58164,7 @@ on p. 308\).
 
 14 CII V, 7 ll. 7–8, 36 ll. 8–9: \[. . . \] mahārājādhirājaśrīcandraguptas tasya duhitā dhāraṇasa-
 
-gotrā nāgakulasambhūtāyām
-
-. śrīmahādevyāṁkuberanāgāyām utpannobhayakulāla ˙
+gotrā nāgakulasambhūtāyāṁśrīmahādevyāṁkuberanāgāyām utpannobhayakulāla ˙
 
 nkāra-
 
@@ -58265,21 +58212,15 @@ guptapatnī mahārājaśrīgovindaguptamātā mahādevī śrīdhruvasvāminī.
 
 guptānvayavyomani candrakalpaḥ , śrīcandraguptaprathitābhidhānaḥ |
 
-āsīn nr̥ po lokavilocanānām
-
-. , navoditaś candra ivāpahartā  k 2 k
+āsīn nr̥ po lokavilocanānāṁ, navoditaś candra ivāpahartā  k 2 k
 
 bhuvaḥ patīnāṁbhuvi bhūpatitvam, ācchidya dhivikramasādhanena |
 
-nādyāpi mokṣaṁsamupaiti yena, svavam
-
-. śyapāśair avapāśitā bhūḥ  k 3 k
+nādyāpi mokṣaṁsamupaiti yena, svavaṁśyapāśair avapāśitā bhūḥ  k 3 k
 
 govindavatkhyātaguṇaprabhāvo, govindaguptorjitanāmadheyam |
 
-vasundhareśas tanayaṁprajaj˜
-
-ne, sa dityadityos tanayais sarūpam  k 4 k
+vasundhareśas tanayaṁprajajñe, sa dityadityos tanayais sarūpam  k 4 k
 
 yasmin nr̥ pair astamitapratāpaiś, śirobhir āli ˙
 
@@ -58337,9 +58278,7 @@ may have issued a special coin to commemorate his victory and to herald his
 
 the biruda ‘ śrīmahendra’ \(Raven 1994a II, 104 ff.\). 
 
-19 The last dated inscription of Candragupta is from the Gupta year 93 \(ad 413\) \(CII III \(1888\), 29–34: Sā˜
-
-nchi Stone Inscription\), the first of Kumāragupta from Gupta year 96
+19 The last dated inscription of Candragupta is from the Gupta year 93 \(ad 413\) \(CII III \(1888\), 29–34: Sāñchi Stone Inscription\), the first of Kumāragupta from Gupta year 96
 
 \(ad 416\) \(CII III \(1888\), 42–45: Bilsaḍ Stone Pillar Inscription\). 
 
@@ -58417,9 +58356,7 @@ About this Ghaṭotkaca the inscription says that,
 
 śrīcandraguptasya mahendrakalpaḥ , kumāraguptas tanayas samagrām |
 
-rarakṣa sādhvīm iva dharmapatnīm
-
-. , vīryāgrahastair upaguhya bhūmim  k 3 k
+rarakṣa sādhvīm iva dharmapatnīṁ, vīryāgrahastair upaguhya bhūmim  k 3 k
 
 ˘
 
@@ -58473,9 +58410,7 @@ sadaiva devas trisamudranāthas, sa candragup\(t\)a\(h
 
 ¸ paripū\)rṇṇa h v i \(r̥ \)ttaḥ |
 
-h dadau prajā i nām adhi\(pa\)s su h tāṁtā i m
-
-. , śrī\(ru\) h dra i senāya \(g\) h u i n
+h dadau prajā i nām adhi\(pa\)s su h tāṁtā i ṁ, śrī\(ru\) h dra i senāya \(g\) h u i n
 
 . ā h karāya i k 9 k
 
@@ -58483,9 +58418,7 @@ Cf. Bakker & Isaacson 1993, 53–55 \(above, p. 123\).
 
 24 Bakker 1997, 164:
 
-sudurvvahāṁrājyadhuraṁsamagrām
-
-. , dhurandharasy\(e\) h va i supu ˙
+sudurvvahāṁrājyadhuraṁsamagrāṁ, dhurandharasy\(e\) h va i supu ˙
 
 ngavasya |
 
@@ -58537,9 +58470,7 @@ is called Dhāriṇī, and her signet-ring bears the seal of a serpent \( nāga\
 
 The viceroy of Vidiśā, heir-to-the-throne of the empire founded by his
 
-śuddhair vvacobhir vviduṣāṁman h ā i \(m
-
-. \) h si i ,  h pr i ī h nāti nīlā i mburuhekṣaṇā\(nām\) |
+śuddhair vvacobhir vviduṣāṁman h ā i \(ṁ\) h si i ,  h pr i ī h nāti nīlā i mburuhekṣaṇā\(nām\) |
 
 ˘
 
@@ -58753,9 +58684,7 @@ of his brother-in-law, Ghaṭotkaca. Another ally of the Vidiśā party was in a
 
 for a decade and may have intensified after the death of Kumāragupta when
 
-Skandagupta’s fortunes reached rock bottom \( viplutāṁvam
-
-. śalakṣmīm\),32 but
+Skandagupta’s fortunes reached rock bottom \( viplutāṁvaṁśalakṣmīm\),32 but
 
 the end was a total defeat of Vidiśā. Skandagupta’s Junagad
 
@@ -58777,13 +58706,9 @@ stretched right hand\) with a symbol on the top left corner̥ The legend on this
 
 Another coin ascribed to Ghaṭotkaca was published by Ajit Ghosh in JNSI 22 \(1960\), 120 f. The attribution of this coin to Ghaṭotkaca is dubious; Ellen Raven reads skanda instead of ghaṭo  and ascribes this coin to Skandagupta \(personal communication\). 
 
-31 Mirashi 1982a, 70 f.; cf. Mirashi in JESI \(1980\), 86 ff. The interpretation of this verse is controversial. Fleet in CII III \(1888\), 53–54, ll. 10–11 reads: samuditaba h la i koṣān pu\( ṣya\) mitrām
+31 Mirashi 1982a, 70 f.; cf. Mirashi in JESI \(1980\), 86 ff. The interpretation of this verse is controversial. Fleet in CII III \(1888\), 53–54, ll. 10–11 reads: samuditaba h la i koṣān pu\( ṣya\) mitrāṁś ca  h j i itvā; he takes this as a reference to the tribe of the Puṣyamitraṣ 
 
-. ś ca  h j i itvā; he takes this as a reference to the tribe of the Puṣyamitraṣ 
-
-Fleet admitted in a note that the second syllable of the name was damageḍ Mirashi 1982a \(IRP I, 70\), following a proposal of Divekar, conjectures the reading: samuditaba h la i kośā h n yuddhy a i mitrām
-
-. ś ca  h j i itvā; that is, ‘after having vanquished in battle \( yudhi\) his enemies whose wealth and power had increased’, a reading accepted in the revised edition \(1981\) of CII III \(p. 315 v. 4\), but rejected by Agrawal 1989, 211. 
+Fleet admitted in a note that the second syllable of the name was damageḍ Mirashi 1982a \(IRP I, 70\), following a proposal of Divekar, conjectures the reading: samuditaba h la i kośā h n yuddhy a i mitrāṁś ca  h j i itvā; that is, ‘after having vanquished in battle \( yudhi\) his enemies whose wealth and power had increased’, a reading accepted in the revised edition \(1981\) of CII III \(p. 315 v. 4\), but rejected by Agrawal 1989, 211. 
 
 32 Bhitarī Stone Pillar Inscription of Skandagupta l. 13 \(CII III \(1888\), 54\). See below, ṇ 35 on p. 316. 
 
@@ -58825,23 +58750,17 @@ tasmin kadācit kamanīyarūpe, ˘
 
 ˘ ˘
 
-\( s\) \( sa\) mānām
-
-. , bhrātā balāt svaṁgr̥ ham ā\(ni\)nāya  k 17 k
+\( s\) \( sa\) mānāṁ, bhrātā balāt svaṁgr̥ ham ā\(ni\)nāya  k 17 k
 
 Cf. Bakker & Isaacson 1993, 53–56 \(above, p. 124\). 
 
 35 Bhitarī Stone Pillar Inscription of Skandagupta \(CII III \(1981\), 315 ll. 12–14\) v. 6: pitari divam upe h te i viplutāṁh va i ˙
 
-nśalakṣmīm
-
-. , 
+nśalakṣmīṁ, 
 
 bhujabalavijitārir yaḥ pratiṣṭhā h pya i bhūyaḥ |
 
-jitam iti paritoṣān  h m i ātaraṁsāsranetrām
-
-. , 
+jitam iti paritoṣān  h m i ātaraṁsāsranetrāṁ, 
 
 hataripur iva  h kr̥  i ṣṇo devakīm abhyu h peta i ḥ  k 6 k
 
@@ -58913,9 +58832,7 @@ connected through a system of hydrological engineering with a natural cleft in t
 
 1 CII III \(1888\), Udayagiri Cave Inscription of Candragupta II, p. 35: kr̥ tsnapr̥ thvījayā-
 
-rthena rāj˜
-
-naiveha sahāgataḥ | bhaktyā bhagavataś śambhor guhām etām akārayat  k
+rthena rājñaiveha sahāgataḥ | bhaktyā bhagavataś śambhor guhām etām akārayat  k
 
 2 This cave is referred to as Cave 8 in the archaeological literature \(Willis 2009, 39\). 
 
@@ -59009,9 +58926,7 @@ Thus we possess within a circle of five kilometers from the Udayagiri Caves and 
 
 The emended reading \(above, ṇ 9 on p. 305\) is based on a collation of the three inscriptions \(cf. Bakker 2006, 182 ṇ 9\). 
 
-13 Fleet in CII III \(1888\), 31, interpreting the Sā˜
-
-nchi Stone Inscription of Candragupta II, 
+13 Fleet in CII III \(1888\), 31, interpreting the Sāñchi Stone Inscription of Candragupta II, 
 
 Year 93. 
 
@@ -59253,9 +59168,7 @@ prasādopārjitaśrīsamudayasya \(CII V, 12 ll. 13–14\)—not merely because,
 
 36 Shastri & Gupta 1997, 155 ll. 1–2 \(emended\):
 
-siddham | dr̥ ṣṭam | bhagavato ekārṇavasalilavistāritanāgarāj˜
-
-no ’nan\( t\) asya tasya va-
+siddham | dr̥ ṣṭam | bhagavato ekārṇavasalilavistāritanāgarājño ’nan\( t\) asya tasya va-
 
 \( kr\) asphuṭaphaṭāj\( ā\) labhogaśāyi h no i yoganidrām upagatasya śaṅkhacakrāsidhāriṇ \( o\) devadevasya \( muṇd
 
@@ -59439,17 +59352,13 @@ nugrahāya vaijayake dharmasthāne \[. . . \] aragrāmakānāmagrāmaḥ vātsag
 
 sātvatacaran
 
-. ādhivāsadvayasya apūrvadattyā udakapūrvam atisr̥ṣṭah. | ucitām
-
-. ś cāsya
+. ādhivāsadvayasya apūrvadattyā udakapūrvam atisr̥ṣṭah. | ucitāṁś cāsya
 
 brāhman
 
 . ānāṁnānāgotracaran
 
-. ānāṁsvādhyāyaniratānāṁpūrvarāj˜
-
-nānumatān cātu-
+. ānāṁsvādhyāyaniratānāṁpūrvarājñānumatān cātu-
 
 rvedyāgrahāramaryādāparihārān vitarāmaḥ  k
 
@@ -59557,11 +59466,7 @@ is frequently used in inscriptions as a metaphor of a deity in a temple to whom 
 
 53 Bakker 1997, 138 f. 
 
-54 Jamkhedkar 1985b, 13. The loose pedestal is inscribed in nail-headed 4th/5th century script \(emended\): deyadharmo ’yam
-
-. śākyabhikṣo h r i bha\( ṭṭa\) saṅghasenasya, yad atra puṇyam
-
-. \( ta\) d bhavatu mātāpitroḥ \(Jamkhedkar 1985b, 15\). 
+54 Jamkhedkar 1985b, 13. The loose pedestal is inscribed in nail-headed 4th/5th century script \(emended\): deyadharmo ’yaṁśākyabhikṣo h r i bha\( ṭṭa\) saṅghasenasya, yad atra puṇyaṁ\( ta\) d bhavatu mātāpitroḥ \(Jamkhedkar 1985b, 15\). 
 
 55 CII V, 12 l. 16 \(Jāmb Plates of Pravarasena II, Year 2\). 
 
@@ -59817,9 +59722,7 @@ Thereupon Rāma accepted the invitation of the gods to visit the hermitage of Ag
 
 company of his wife Sītā and younger brother; Agastya had then pointed out
 
-their way to Pa˜
-
-ncavaṭī \(Rām. 3.12.13\). 
+their way to Pañcavaṭī \(Rām. 3.12.13\). 
 
 In earlier publications I have repeatedly tried to demonstrate the futility of the attempts by the Archaeological Survey of India to plot the epic geography of the Rāmāyaṇa on the historical map of South Asia. 9 The problem is comparable to tracing the itinerary of Ulysses in the Mediterranian basiṇ 
 
@@ -60079,7 +59982,7 @@ the center must also in Vedic be-
 
 lief have been immediately associ-
 
-ated with the cosmic pillar \( skambha´\), 
+ated with the cosmic pillar \( skambhá\), 
 
 must have ascended along the pillar
 
@@ -60461,7 +60364,7 @@ na
 
 ˘ |
 
-h**ba**i**\(l\)**h**i**i\(ma\)khasamayaidhitāṅga**\(´**
+h**ba**i**\(l\)**h**i**i\(ma\)khasamayaidhitāṅga**\(́**
 
 **so\)**h**bho**i, 
 
@@ -60573,9 +60476,7 @@ svāhāgnim
 
 pavamānam iti yadi
 
-pavamānāya dhriyerant svāhāgnim indumantam iti yady agnaya indumate dhriyerant svāhāgnim
-
-. **sv¯**
+pavamānāya dhriyerant svāhāgnim indumantam iti yady agnaya indumate dhriyerant svāhāgniṁ**sv¯**
 
 **ah¯**
 
@@ -60691,9 +60592,7 @@ At least at that time some repairs must have been executeḍ
 
 In ṇ 15 \( ibiḍ \) this author writes:
 
-When Raghuji set out on his expedition of Deogarh, he had camped at Rām
-
-. ṭek. On
+When Raghuji set out on his expedition of Deogarh, he had camped at Rāṁṭek. On
 
 seeing that the main temples are devoid of images, he made a vow that he would restore the images in their places if he was blessed with victory. 
 
@@ -61327,9 +61226,7 @@ ngadas
 
 \(armlets\) can still be seeṇ His left foot is planted on the ground, while the right foot, which was raised to measure the sky, is now broken at the knee. \(Mirashi 1963, lx\)
 
-The deity had eight arms, all sadly broken off, which makes it impossible to say anything directly about the attributes he must have carrieḍ He wears the double muktāyaj˜
-
-nopavīta, of which the six strings of pearls have been almost completely erased at the front side of the image, but are still clearly visible at the back. A significant feature of the Trivikrama image of the Rāmagiri is
+The deity had eight arms, all sadly broken off, which makes it impossible to say anything directly about the attributes he must have carrieḍ He wears the double muktāyajñopavīta, of which the six strings of pearls have been almost completely erased at the front side of the image, but are still clearly visible at the back. A significant feature of the Trivikrama image of the Rāmagiri is
 
 the ‘pleated’ śiraścakra  that encircles his head, the origin of which James Harle \(1987\) has traced to the fan-shaped tufts at the end of the band holding the crowṇ 
 
@@ -61587,13 +61484,9 @@ The first three syllables of pāda a of the next verse \(10\) are losṭ Fleet
 
 and Sircar conjectured kartavyā \(Bhandarkar prakāryā\), but an ingenious con-
 
-jecture was made by Chhabra 1963, 546: na yasya \(quoted with approval by Agrawal 1986, 63\). It gives significance to the double occurrence of the word pratimā  in the first hemistich—more meaningful, in my view, than the pedestrian ‘an image should be made’ of Fleet, Sircar, and Bhandarkar—to the effect that, although God Viṣṇu is admittedly transcendent, that is without form \( na yasya pratimā kācit\), a material image of Him in his manifestation of Śārṅgin can be made. I therefore take the genitive, ‘of that wielder of the bow’ \( tasya śārṅgiṇaḥ \) in 10b as depending on \( pratimām
+jecture was made by Chhabra 1963, 546: na yasya \(quoted with approval by Agrawal 1986, 63\). It gives significance to the double occurrence of the word pratimā  in the first hemistich—more meaningful, in my view, than the pedestrian ‘an image should be made’ of Fleet, Sircar, and Bhandarkar—to the effect that, although God Viṣṇu is admittedly transcendent, that is without form \( na yasya pratimā kācit\), a material image of Him in his manifestation of Śārṅgin can be made. I therefore take the genitive, ‘of that wielder of the bow’ \( tasya śārṅgiṇaḥ \) in 10b as depending on \( pratimāṁ\) and referring to
 
-. \) and referring to
-
-the deity; the form chosen, that of the archer, implements a comparison with Kumāragupta or Skandagupta \(cf. 8b, 8d\)—both certainly mighty bowmen to judge by their coinage. 7 The pratimām
-
-. . . . imām \(10bc\) of Viṣṇu-Śārṅgin is
+the deity; the form chosen, that of the archer, implements a comparison with Kumāragupta or Skandagupta \(cf. 8b, 8d\)—both certainly mighty bowmen to judge by their coinage. 7 The pratimāṁ. . . imām \(10bc\) of Viṣṇu-Śārṅgin is
 
 the deity installed, whose name, as proposed by Bhandarkar, may have been Kumārasvāmiṇ 8
 
@@ -61649,9 +61542,7 @@ The puzzle in v. 11 is to whom/which \(the masculine\) enam, as read by Fleet, S
 
 is already mentioned \( anvādeśa\), something that is now being installed at the site \( iha\). It can hardly be anything else but the deity \( devam\), supposedly mentioned in 10d, i.e. Kumārasvāmiṇ A good suggestion made by Dániel
 
-Balogh is to read \(feminine\) enām
-
-. , which naturally refers to the pratimā  of
+Balogh is to read \(feminine\) enāṁ, which naturally refers to the pratimā  of
 
 the preceding verse. Pādas 11cd add that a village or community \( grāma\) is
 
@@ -61691,21 +61582,15 @@ icant: it may correspond to mūrtir  in pāda a, but it stands after the caesura
 
 in the next pāda. This means that pāda 12b actually recapitulates the two
 
-things that are referred to by ubhayam  in 12c: 1\) this one here \(namely, the image\), and \( ca\) 2\) ‘who/that which is here sam
+things that are referred to by ubhayam  in 12c: 1\) this one here \(namely, the image\), and \( ca\) 2\) ‘who/that which is here saṁ. . . ’. This interpretation takes
 
-. . . . ’. This interpretation takes
-
-pāda 12a in apposition to iyam
-
-. . Fleet’s and Sircar’s reading saṁsthitaḥ  could
+pāda 12a in apposition to iyaṁ. Fleet’s and Sircar’s reading saṁsthitaḥ  could
 
 be understood as a periphrase of grāmaḥ : ‘the one who is living here, \(i.e. the
 
 community\)’, although it remains slightly unsatisfactory. Willis 2009, 148 f. 
 
-has reexamined the case in detail and reads sam
-
-. śritaḥ , which gives the better
+has reexamined the case in detail and reads saṁśritaḥ , which gives the better
 
 sense: that which has been ‘attached’ or ‘consigned’, viz. to the installed deity. 
 
@@ -61995,9 +61880,7 @@ bhīmāvartakarasya śatruṣu śarā
 
 ˘
 
-\(viracitam
-
-. \) prakhyāpito hdīptimāni, 
+\(viracitaṁ\) prakhyāpito hdīptimāni, 
 
 na \(dyo\)ti ˘ na ˘ lakṣyata iva śrotreṣu śārṅgadhvanih. k 8 k \(sva\)pituh. kīrtti ˘ ˘ ˘ , ˘ ˘ ˘ ˘ ˘ ˘ ˘ |
 
@@ -62013,9 +61896,7 @@ iha cain\(ā\)ṁpratiṣṭhāpya supratiṣṭhitaśāsanah. |
 
 grāmam enaṁsa vidadh\(e\) pituh. puṇyābhivr̥ddhaye k 11 k
 
-ato bhagavato mūrtir iyaṁyas cātra \(sam
-
-. śritah.\) |
+ato bhagavato mūrtir iyaṁyas cātra \(saṁśritah.\) |
 
 ubhayaṁnirdideśāsau pituh. puṇyāya puṇyadhīr k 12 k
 
@@ -62065,9 +61946,7 @@ yāvad ācandratārakam  conj. Fleet, Sircar
 
 Balogh : cainaṁFleet, Sircar, Bhandarkar
 
-12b sam
-
-. śritaḥ **\] **Willis : saṁsthitaḥ  Fleet, 
+12b saṁśritaḥ **\] **Willis : saṁsthitaḥ  Fleet, 
 
 Sircar, Agrawal
 
@@ -62327,9 +62206,7 @@ Iśvaravarman’
 
 karmaṇā, 
 
-yāj˜
-
-naṁdhhūimavitānameghanivahah. puṇyaṁvitene divi k 4 k 11
+yājñaṁdhhūimavitānameghanivahah. puṇyaṁvitene divi k 4 k 11
 
 **\[4\]**
 
@@ -62511,13 +62388,9 @@ dhārāmārgavinirgatāgnikaṇikā **\[7\]**
 
 ˘ dam k 9 k 16
 
-vindhyādreh. pratirandhram andhrapatinā śaṁkāpareṇāsitam
+vindhyādreh. pratirandhram andhrapatinā śaṁkāpareṇāsitaṁ, 
 
-. , 
-
-yāto raivatakācalam
-
-. **\[8\] **˘ ˘ ˘
+yāto raivatakācalaṁ**\[8\] **˘ ˘ ˘
 
 ˘
 
@@ -62625,9 +62498,7 @@ Hans Bakker
 
 , 
 
-˘ ˘ raprapātasalilaih. snātam
-
-. śilāgandhibhih. |
+˘ ˘ raprapātasalilaih. snātaṁśilāgandhibhih. |
 
 prāleyādribhuvaś ca śītapayasah. prakṣā- **\[10\] **hlitaṁi ˘
 
@@ -62699,9 +62570,7 @@ hHarivarmani who by innate martial power \( kṣatra\), fully accomplished, hwie
 
 21 The first two ma ˙
 
-ngala  verses of the Haraha Inscription run \(EI XIV, 115 vv. 1–2\): lokāviṣkr̥tisaṁkṣayasthitikr̥ tāṁyaḥ kāraṇaṁvedhasām
-
-. , 
+ngala  verses of the Haraha Inscription run \(EI XIV, 115 vv. 1–2\): lokāviṣkr̥tisaṁkṣayasthitikr̥ tāṁyaḥ kāraṇaṁvedhasāṁ, 
 
 dhvastadhvāntacayāḥ parāstarajaso dhyāyanti yaṁyoginaḥ |
 
@@ -62709,9 +62578,7 @@ yasyārdhasthitayoṣito ’pi hr̥daye nāsthāyi cetobhuvā, bhūtātmā tripu
 
 āśon
 
-. āṁphaṇinaḥ phaṇopalarucā saiṁhīṁvasānaṁtvacam
-
-. , 
+. āṁphaṇinaḥ phaṇopalarucā saiṁhīṁvasānaṁtvacaṁ, 
 
 śubhrāṁlocanajanmanā kapiśayad bhāsā kapālāvalīm |
 
@@ -62775,15 +62642,11 @@ Among them \(there arose\) at the beginning, for the well-being of the world, a 
 
 hutabhuji makham adhyāsa ˙
 
-ngini dhvāntalīlam
-
-. , 
+ngini dhvāntalīlaṁ, 
 
 viyati pavanajanmabhrāntivikṣepabhūyaḥ |
 
-mukharayati samantād utpatad dhūmajālam
-
-. , 
+mukharayati samantād utpatad dhūmajālaṁ, 
 
 śikhikulam urumeghāśa ˙
 
@@ -62833,9 +62696,7 @@ Conclusion
 
 From the collation of the Jaunpur fragment and the Haraha Inscription it becomes clear that both Maukhari inscriptions follow a similar traditioṇ This tradition assigned to Harivarman great military prowess, to ādityavarman piety, 
 
-26 For the verses 8 to 11 compare the Haraha Inscription verse 13: jitvāndhrādhipatiṁsahasragaṇitatredhākṣaradvāraṇam
-
-. , 
+26 For the verses 8 to 11 compare the Haraha Inscription verse 13: jitvāndhrādhipatiṁsahasragaṇitatredhākṣaradvāraṇaṁ, 
 
 vyāvalganniyutātisaṁkhyaturagān bha ˙
 
@@ -62861,9 +62722,7 @@ niśitamukham \(Medinīkoṣa\), so that the passage dhārāmārgavinirgatāgnik
 
 “the sparks issuing from the passage of the \[hero’s\] sword” and has nothing to do with the city of Dhārā.’ However, the use of the word mārga  in this interpretation remains
 
-problematic. For dhārā  in the sense of ‘rim of an \(iron\) wheel’ see Raghuvam
-
-. śa 13.15. 
+problematic. For dhārā  in the sense of ‘rim of an \(iron\) wheel’ see Raghuvaṁśa 13.15. 
 
 28 Sircar 1964, 128 conjectures that it was an unknown enemy, other than the Lord of Andhra, who fled to the Raivataka hill. The hill has not satisfactorily been identifieḍ 
 
@@ -62921,7 +62780,7 @@ The present octogonal temple has attracted the attention of scholars since the e
 
 43\):
 
-\[. . . \] Among the de´bris  the second half of an inscribed stone has been found, the first half of which had been sent to the Indian Museum Calcutta in 1891. 
+\[. . . \] Among the débris  the second half of an inscribed stone has been found, the first half of which had been sent to the Indian Museum Calcutta in 1891. 
 
 ∗ The first version of this article was published in Indo-Iranian Journal 56.3–4 \(2013\), 263–77. This double issue of IIJ contained the articles based on papers given at the symposium Epigraphical Evidence for the Formation and Rise of Early Śaivism, which was held at the University of Groningen, 4–5 June 2012. 
 
@@ -63147,9 +63006,7 @@ asmi\(n s\)ambatsaramāsa\(d\)i ˘ \(sa\)p¯urvvāyā**m**
 
 3
 
-mahāpratīhāramahārāj\(o\) ˘ yasenarājye kulapatibhā\(nudayim
-
-. \) 20
+mahāpratīhāramahārāj\(o\) ˘ yasenarājye kulapatibhā\(nudayiṁ\) 20
 
 4
 
@@ -63161,9 +63018,7 @@ daṇḍa ˘ yakagomibhaṭena prārtthayitvā
 
 mātāpittror ā\(tma\)naś ca pu\(ṇ\) / bhivr̥ddhaye vinīteśvaramaṭhasamā 6
 
-veśaṁma\(ṭham\) etat kāritakam
-
-. ˘ nārāyaṇadevakulasya \[ scroll\]
+veśaṁma\(ṭham\) etat kāritakaṁ˘ nārāyaṇadevakulasya \[ scroll\]
 
 7
 
@@ -63177,9 +63032,7 @@ veśaṁma\(ṭham\) etat kāritakam
 
 dīpatailapalasya co ˘ ˘ bandhah. kāritah. śrīmaṇḍaleśvara 10
 
-svāmipādānāṁvici ˘ ˘ \(rmmānta\)tantrasādhāraṇaṁpa˜
-
-ncāśatām
+svāmipādānāṁvici ˘ ˘ \(rmmānta\)tantrasādhāraṇaṁpañcāśatām
 
 . 
 
@@ -63203,9 +63056,7 @@ tāpovanikair vvā ya ˘ ˘ \(ni\)baddhasya vighāto na kāy /
 
 ˘ ˘ ke vase**t**
 
-e\(vam
-
-. \) ˘ ˘ ˘ dhāraṇayā madhya
+e\(vaṁ\) ˘ ˘ ˘ dhāraṇayā madhya
 
 16
 
@@ -63263,19 +63114,13 @@ have been inserted between h i marked by ∗. Line numbers are inserted in bold 
 
 \[**1**\] siddham 21
 
-saṁvatsare trim
-
-. śatihmei 22 kārttikadivase dvāvim
-
-. śatime, 
+saṁvatsare triṁśatihmei 22 kārttikadivase dvāviṁśatime, 
 
 \[**2**\] asmin 23 saṁvatsaramāsadivasapūrvāyām, 
 
 śrīmahāsāmanta\[**3**\]mahāpratīhāramahārājohdaiyasenarājye 24
 
-kulapatibhā\(nūdayim
-
-. \) 25 \[**4**\] \(sa\)devanikāyam, 
+kulapatibhā\(nūdayiṁ\) 25 \[**4**\] \(sa\)devanikāyam, 
 
 daṇḍahnāiyakagomibhaṭena prārthayitvā
 
@@ -63305,15 +63150,9 @@ kāritah. h∗ |i
 
 21 Expressed by spiral symbol. 
 
-22 Irregular for trim
+22 Irregular for triṁśattame, maybe under influence of the following dvāviṁśatime, which
 
-. śattame, maybe under influence of the following dvāvim
-
-. śatime, which
-
-is haplographic for dvāvim
-
-. śatitame \(Oberlies 2003, 127\). As argued above the year 30
+is haplographic for dvāviṁśatitame \(Oberlies 2003, 127\). As argued above the year 30
 
 is best explained, if we assume that it refers to regnal yearṣ The only dated Maukhari inscription \(the Haraha Inscription of ¯
 
@@ -63321,9 +63160,7 @@ Iśānavarman, EI XIV, 110–20\) is assigned to the
 
 Vikrama Era, 611 \(ad 554\). The dates on the Maukhari coins are problematic: difficult to read and difficult to assign to any known era \(see Burn 1906; EI XIV, 113; HCI III, 70\). I presume with Asher, Neuss, and Singh that the present ‘year 30’ refers to the thirtieth year of Udayasena’s governorship \( rājya\). 
 
-23 Maybe to be emended to asyām
-
-. . As it stands, I take this synonymous with atra  or iha. 
+23 Maybe to be emended to asyāṁ. As it stands, I take this synonymous with atra  or iha. 
 
 24 The reading ◦ rājodayasena◦ was first proposed by Banerji and taken over by all later editorṣ 
 
@@ -63341,17 +63178,13 @@ As has been remarked by Sanderson \(e-
 
 mail 15-2-2012\), the beginning with bhā  suggests a Pāśupata name, but no satisfactory
 
-interpretation has suggested itself. I conjecture bhānūdayim
-
-. , assuming that the curve
+interpretation has suggested itself. I conjecture bhānūdayiṁ, assuming that the curve
 
 to the left at the bottom \(note also the little vertical stroke above the akṣara\) indicate the long vowel ū; cf. nu  in line 18. The noun udayin  is declined here as a vowel stem in i \(Oberlies 2003, 94\). 
 
 26 Banerji reads maṭham etat kāritaka ˙
 
-m, but Majumdar noted that the inscription actually reads mayetat kāritakam
-
-. . We agree with Banerji, just as Neuss \(cf. Srinivasan 1991, 315\). 
+m, but Majumdar noted that the inscription actually reads mayetat kāritakaṁ. We agree with Banerji, just as Neuss \(cf. Srinivasan 1991, 315\). 
 
 The end of this sentence kāritakaṁremains noticeable \(cf. Fleet in CII III, 69, 113, 135; Oberlies 2003, 267 ṇ 3\). 
 
@@ -63373,11 +63206,7 @@ Hans Bakker
 
 . 
 
-pa˜
-
-ncāśatām
-
-. \[**11**\] dīnārāṇāṁgobahlisrajaibhaktādyupakaraṇāni30
+pañcāśatāṁ\[**11**\] dīnārāṇāṁgobahlisrajaibhaktādyupakaraṇāni30
 
 \[**12**\] devanikāyasya dathtānii h∗ ki 31
 
@@ -63389,15 +63218,11 @@ yahthopainibaddhasya 32 vighāto na kāryah.,
 
 \[**15**\] hnaraike 34 vaset, 
 
-evam
-
-. ˘ ˘ ˘ dhāraṇayā35 madhya \[**16**\] ˘ ˘ \(bh\)āka ˘ ˘ ˘ ˘ ˘ tam iti h∗ ki uktaṁca, 
+evaṁ˘ ˘ ˘ dhāraṇayā35 madhya \[**16**\] ˘ ˘ \(bh\)āka ˘ ˘ ˘ ˘ ˘ tam iti h∗ ki uktaṁca, 
 
 \[**17**\] hsvadattāṁparadattāṁvāi, yatnād rakṣa yudhiṣṭhira h∗ |i
 
-\[**18**\] hmahīṁmahīmatām
-
-. śreṣṭhai, dānāc chreyo ’nupālanam \( k\)36
+\[**18**\] hmahīṁmahīmatāṁśreṣṭhai, dānāc chreyo ’nupālanam \( k\)36
 
 Translation
 
@@ -63485,11 +63310,7 @@ Inscription belongṣ
 
 nkikakoṭādhikaraṇikāmātyabhadraviṣṇu-
 
-puraḥ sareṇa ca devanikāyena vij˜
-
-nāpitam
-
-. , which is rendered by Gupte as ‘preceded by royal doorkeepers, the attendants of the sacred fire, the kāra ˙
+puraḥ sareṇa ca devanikāyena vijñāpitaṁ, which is rendered by Gupte as ‘preceded by royal doorkeepers, the attendants of the sacred fire, the kāra ˙
 
 nkikas, the superintendent
 
@@ -63531,9 +63352,7 @@ and Nisunda and the nymph Tilottamā, also known from the Mahābhārata, 42
 
 which serves as an aetiological myth of the origin of the caturmukhaliṅga. 
 
-40 Cf. Vallabhadeva ad  Raghuvam
-
-. śa 1.94, who glosses kulapatinā  as āśramagurun
+40 Cf. Vallabhadeva ad  Raghuvaṁśa 1.94, who glosses kulapatinā  as āśramagurun
 
 . ā. Par-
 
@@ -63595,9 +63414,7 @@ are to be situated on the Muṇḍeśvarī Hill— the Maṇḍaleśvara being t
 
 43 Yokochi 2005, synopsis; SP 62.27–28:
 
-abravīc ca surān sarvāṁs tatredaṁvacanam
-
-. śivaḥ |
+abravīc ca surān sarvāṁs tatredaṁvacanaṁśivaḥ |
 
 yasmād iyaṁmāṁyūyaṁca maṇd
 
@@ -63605,9 +63422,7 @@ yasmād iyaṁmāṁyūyaṁca maṇd
 
 cakre sarve suraśreṣṭhāh. sthānaṁtasmād idaṁmama |
 
-bhaviṣyati girau vindhye maṇḍaleśvarasaṁj˜
-
-nitam |
+bhaviṣyati girau vindhye maṇḍaleśvarasaṁjñitam |
 
 sāṁnidhyaṁsarvadā hy asmin kariṣyāmi varapradam  k 28 k
 
@@ -63733,9 +63548,7 @@ The deceased king’s paraphernalia are given to the brahmins; the collected bon
 
 2 Cf. below, ṇ 84 on p. 431. 
 
-3 Harṣacarita \(HC\* 5 p. 288\): niravaśeṣatām
-
-. śatravo neyāḥ . 
+3 Harṣacarita \(HC\* 5 p. 288\): niravaśeṣatāṁśatravo neyāḥ . 
 
 405
 
@@ -63943,9 +63756,7 @@ Kane IV, 255 ṇ 580 draws our attention to a passage in the Brahmanical literat
 
 . ūka  are mentioneḍ It concerns a passage found in Aparārka’s commentary
 
-on the Yāj˜
-
-navalkyasmr̥ti \(vol. II, pp. 885 f.\) ascribed to the Brahmapurāṇa: It is stated that the charred bones of a cremated person should be collected in an urn and deposited at the root of a tree or cast in the Ganges, that the place of cremation should be purified with cowdung and water, that a puṣkaraka tree should be planted there or an ed
+on the Yājñavalkyasmr̥ti \(vol. II, pp. 885 f.\) ascribed to the Brahmapurāṇa: It is stated that the charred bones of a cremated person should be collected in an urn and deposited at the root of a tree or cast in the Ganges, that the place of cremation should be purified with cowdung and water, that a puṣkaraka tree should be planted there or an ed
 
 . ūka \(a structure\) should be built over iṭ 
 
@@ -63987,9 +63798,7 @@ sāsthibhittināma  k Mallinātha glosses:
 
 ed
 
-. ūkam
-
-. –kīkasam | antargatāsthikud
+. ūkaṁ–kīkasam | antargatāsthikud
 
 . yanāma |
 
@@ -64091,9 +63900,7 @@ observes the following:
 
 It has already been remarked that the Mahābhārata seems to contain no clear refer-
 
-ence to the rite of asthi-sa˜
-
-ncayana, which formed an essential element of antyeṣṭi  as described in several ritual textṣ This rite involved the collection of charred bones and ashes some days after the cremation and disposal of them in various ways—hanging in a bundle on the branch of a tree, or recremating in some special cases, or depositing at the foot of a tree, or, more generally, burying them in a hole dug in the ground and sometimes also building some kind of memorial mound \( śmaśāna\) over them. 
+ence to the rite of asthi-sañcayana, which formed an essential element of antyeṣṭi  as described in several ritual textṣ This rite involved the collection of charred bones and ashes some days after the cremation and disposal of them in various ways—hanging in a bundle on the branch of a tree, or recremating in some special cases, or depositing at the foot of a tree, or, more generally, burying them in a hole dug in the ground and sometimes also building some kind of memorial mound \( śmaśāna\) over them. 
 
 Apparently this practice gradually went out of vogue, and, already towards the close of the epic, the custom of depositing the bones in holy river had probably become more commoṇ 
 
@@ -64103,9 +63910,7 @@ For the South-Indian tradition of royal portraiture see also Lefèvre 2006, Part
 
 See also below, ṇ 27 on p. 411. 
 
-24 sādhumuktapuṣpalājāviṣkr̥tā balayah., dattacandanapa˜
-
-ncā ˙
+24 sādhumuktapuṣpalājāviṣkr̥tā balayah., dattacandanapañcā ˙
 
 ngulā bhittayaḥ , avasaktamā-
 
@@ -64143,9 +63948,7 @@ South-Indian funerary practices differed from the ‘Aryan’ North may also be 
 
 Aghoraśiva \(Goodall 2004, cx\), which text tells us that this sort of images may be installed at holy places or in a Śiva temple where they should be worshippeḍ According to Dīptāgama 52.59 images of bhaktas should follow the rules of the images of the king \(above, ṇ 23 on p. 410\). The Ajitāgama gives the following description 63.39–42:
 
-śivālaye viśeṣeṇa śivabhaktān kr̥tā˜
-
-njalīn  k 39 k savālacāmarakarāṁl li ˙
+śivālaye viśeṣeṇa śivabhaktān kr̥tāñjalīn  k 39 k savālacāmarakarāṁl li ˙
 
 ngahastān sa-
 
@@ -64171,9 +63974,7 @@ rūpin
 
 . āṁk 42 k nityaṁnaimittikaṁkāmyam utsavaṁca samācaret |
 
-The editor of the Ajitāgama, ṇr̥ Bhatt, quotes the Acintya- and refers to the Uttarakāmikāgama ad loc.  The underlying idea seems to be that these bhaktas have reached sārūpya  with Śiva and can therefore be depicted with four arms, though they keep the distinct \(iconographic\) characteristics of the devotee: two hands forming an a˜
-
-njali, as a
+The editor of the Ajitāgama, ṇr̥ Bhatt, quotes the Acintya- and refers to the Uttarakāmikāgama ad loc.  The underlying idea seems to be that these bhaktas have reached sārūpya  with Śiva and can therefore be depicted with four arms, though they keep the distinct \(iconographic\) characteristics of the devotee: two hands forming an añjali, as a
 
 true devotee should, two others holding li ˙
 
@@ -64267,9 +64068,7 @@ ter, Princess Atibhāvatī, widow of Ghaṭotkacagupta, records the good works s
 
 Then \(the princess\) commissioned the splendid ‘Master of Prabhāvatī’, \(the image
 
-of the\) Lord of the World, within the temple, for the sake of undecaying merit of 35 Above, p. 125; Bakker 1997, 167. Granoff 1992, 187 refers to a temple built after the cremation of the Jain minister Vastupāla on Mt Śatru˜
-
-njaya called ‘Svargārohanaprāsāda’. 
+of the\) Lord of the World, within the temple, for the sake of undecaying merit of 35 Above, p. 125; Bakker 1997, 167. Granoff 1992, 187 refers to a temple built after the cremation of the Jain minister Vastupāla on Mt Śatruñjaya called ‘Svargārohanaprāsāda’. 
 
 Granoff 1992 \( passim\) proves that the building of memorial temples was just as popular in Jainism as it was in Hinduism. 
 
@@ -64525,9 +64324,7 @@ The Śārdūlavikrīd
 
 śrīpu
 
-˘ ˘ lā˜
-
-nchanasya nr̥ pater yā hālidevīty abhūt, 
+˘ ˘ lāñchanasya nr̥ pater yā hālidevīty abhūt, 
 
 bhāryā saccaritena bhartr̥ ˘ ˘
 
@@ -64895,9 +64692,7 @@ svamiṇiṁupasika \[ ba\] lanaṁdi\[ -ku\] ṭiṁbini balajayamata ca imaṁ
 
 . 
 
-ṭhapa\[ i\] caṁanu parivaraṁdadarim
-
-. \( |\*\) . . . 
+ṭhapa\[ i\] caṁanu parivaraṁdadariṁ\( |\*\) . . . 
 
 Rendered in Sanskrit by Sircar as:
 
@@ -65177,9 +64972,7 @@ which reports that a li ˙
 
 nga  may be erected for Śivabhaktas \( op. ciṭ  63.44 f.\): samādhibhūmau li ˙
 
-ngaṁca manoj˜
-
-naṁca sulakṣaṇam  k 44 k
+ngaṁca manojñaṁca sulakṣaṇam  k 44 k
 
 pratiṣṭhāpya yathānyāyaṁnityapūjādikaṁcaret |
 
@@ -65187,9 +64980,7 @@ The Pāraśaivas and āntarālikas are excluded from this practice \( op. ciṭ 
 
 śaivānāṁpārapūrvān
 
-. ām āntarālikasaṁj˜
-
-ninām  k 45 k
+. ām āntarālikasaṁjñinām  k 45 k
 
 pūrvoktavidhinā teṣāṁpratiṣṭhādīn na kārayet |
 
@@ -65327,9 +65118,7 @@ Narasiṁha Temple; 4\) the situation of the site in between two Hindu state san
 
 \(Nāga\) lies encircling every building-site.’ Rāmacandra Kaulācāra’s Śilpaprakāśa 1.55–
 
-60 \(Boner & Śarmā 1966, 4 f. \(14 f.\). Cf. the Buddhist Kriyāsaṁgrahapa˜
-
-njikā, discussed
+60 \(Boner & Śarmā 1966, 4 f. \(14 f.\). Cf. the Buddhist Kriyāsaṁgrahapañjikā, discussed
 
 in Tanemura 2004, 24 ff.; Cohen 1998. 
 
@@ -65493,13 +65282,9 @@ hypothesiṣ However, a serpent underneath a structure is a common rather than a
 
 \[. . . \]
 
-mahārājādhirājaśrīcandraguptas tasya duhitā dhāraṇasagotrā nāgakulasam
+mahārājādhirājaśrīcandraguptas tasya duhitā dhāraṇasagotrā nāgakulasaṁ-
 
-. -
-
-bhūtāyām
-
-. śrīmahādevyāṁkuberanāgāyām utpannobhayakulāla ˙
+bhūtāyāṁśrīmahādevyāṁkuberanāgāyām utpannobhayakulāla ˙
 
 nkārabhūtātyantabha-
 
@@ -65585,9 +65370,7 @@ Viṣṇudharmottara 3.84.1–15 \(emended\)
 
 mārkaṇḍeya uvāca |
 
-aiḍ¯ukar¯upanirmāṇam
-
-. śr̥ṇuṣva gadato mama |
+aiḍ¯ukar¯upanirmāṇaṁśr̥ṇuṣva gadato mama |
 
 aiḍ¯ukap¯ujanāt p¯ujā kr̥tāsya jagato bhavet k 1 k bhadrapīṭhaṁbudhah. kuryāt sopānaih. śobhanair yutam |
 
@@ -65609,11 +65392,7 @@ tasyopari punar yaṣṭih. kāryā rājan suvartulā k 6 k samārdhacandramadhy
 
 bhūmikā yā mayā proktā tathaivāmalasārakam k 7 k
 
-bhuvanās te tvayā j˜
-
-neyāh. tathā rājam
-
-. ś caturdaśa |
+bhuvanās te tvayā jñeyāh. tathā rājaṁś caturdaśa |
 
 liṅgaṁmaheśvaro devo vr̥ttā yaṣṭih. pitāmahah. k 8 k
 
@@ -65637,9 +65416,7 @@ virūpākṣaṁvijānīhi varuṇaṁyādasāṁpatim |
 
 rājarājaṁvijānīhi kuberaṁdhanadaṁprabhum k 14 k
 
-aiḍ¯ukar¯upaṁkathitaṁmayaitat, prajāhitākhyaṁyaduvam
-
-. śamukhya |
+aiḍ¯ukar¯upaṁkathitaṁmayaitat, prajāhitākhyaṁyaduvaṁśamukhya |
 
 aiḍ¯ukap¯ujāniratā labhante, sukhaṁmanuṣyā divi vāsam ante k 15 k
 
@@ -65773,9 +65550,7 @@ The second type of sacrifice may be subsumed under the category of Vāstuprati�
 
 of ritual also reaches back to Vedic times and is canonized in the same Gr̥hyas¯utra literature. 
 
-A central role in these rituals is reserved for the ‘Lord of the Homestead’, Vāstoṣpati, already hymned in r̥gveda 7.54.1-3, a power who is represented by a firm posṭ Kane gives the following description of this House Sacrifice \(Vāstuyaj˜
-
-na\). 
+A central role in these rituals is reserved for the ‘Lord of the Homestead’, Vāstoṣpati, already hymned in r̥gveda 7.54.1-3, a power who is represented by a firm posṭ Kane gives the following description of this House Sacrifice \(Vāstuyajña\). 
 
 On an auspicious day and moment, the stone should be laid over jewels and all seeds; similarly the post is to be worshipped at the hands of four brāhmaṇas; the
 
@@ -65797,9 +65572,7 @@ Vāstoṣpati with the formula “drive away evil; make our wealth increase; pro
 
 the horse, ox, sheep and goat, and lastly into the earth with its rice and bar-ley, etc’. 11 This at first sight curious doctrine goes back to early brahmanical speculation regarding the life-sustaining substance \( medha\) embodied in the sacrificial victim and transmitted in the sacrificial acṭ The primordial cosmic Puruṣa \(r̥V X.90, see above\) is the fountain-head of the medha. By his being sacrificed in the cosmic Puruṣamedha the medha  of the Puruṣa passed on to the horse, empowering the horse-sacrifice \(Aśvamedha\) etc., a lineage that finally makes the seeds of the earth fit for sacrifice \( medhya\). 12 Speaking of this conception, the French scholar Charles Malamoud warns against misinterpre-tation, observing that, rather than with a historical development, we are here concerned with a peculiarity of brahmanical thought, in which each part of a structure is at the same time equivalent of and comprising the whole. 13
 
-All the same, it seems possible, if we take an orthodox brahmanical view, to see in the innocent vāstuyaj˜
-
-na, House Sacrifice, its link with a less gentle, more bloody prototype, which, however, as far as house and temple building is concerned, is not attested in the texts, unless perhaps wrapped up in highly symbolic language that can be decoded only by learned brahmins and well-trained indologistṣ Yet, to infer from this the unhistoric nature of such a bloody prototype may be a fallacy. 
+All the same, it seems possible, if we take an orthodox brahmanical view, to see in the innocent vāstuyajña, House Sacrifice, its link with a less gentle, more bloody prototype, which, however, as far as house and temple building is concerned, is not attested in the texts, unless perhaps wrapped up in highly symbolic language that can be decoded only by learned brahmins and well-trained indologistṣ Yet, to infer from this the unhistoric nature of such a bloody prototype may be a fallacy. 
 
 The Vedic text corpus knows of an ‘animation sacrifice’, to use Jordaan and Wessing’s terminology, not to install a house or other permanent building, but to build a make-shift sacrificial fire-altar in the Agnicayana ceremony. Archaeological evidence confirms the historic reality of this type of altars in ancient India. I refer to the three Agnicayana altars found in Jagatgram \(Dehra Dun District, UP\). 14
 
@@ -65851,9 +65624,7 @@ Homage to the serpents which are on the earth, the serpents in the atmosphere, i
 
 āŚS 16.22.3:
 
-brahma jaj˜
-
-nānam iti puṣkaraparṇa upariṣṭān nirbādhaṁrukmam upadhāya hiraṇya-
+brahma jajñānam iti puṣkaraparṇa upariṣṭān nirbādhaṁrukmam upadhāya hiraṇya-
 
 garbhaḥ sam avartatāgra iti tasmin hiraṇmayaṁpuruṣaṁprācīnam uttānaṁdakṣi-
 
@@ -65897,9 +65668,7 @@ Though they seem to differ with respect to where exactly the puruṣa  and the s
 
 āŚS 16.22.4:
 
-drapsaś caskandeti puruṣam abhimr̥śya namo astu sarpebhya iti tisr̥bhir abhimantrya kr̥ ṇuṣva pāja iti pa˜
-
-ncabhir uttaravedivat puruṣaṁvyāghārya srucāv upadadhātīty u-
+drapsaś caskandeti puruṣam abhimr̥śya namo astu sarpebhya iti tisr̥bhir abhimantrya kr̥ ṇuṣva pāja iti pañcabhir uttaravedivat puruṣaṁvyāghārya srucāv upadadhātīty u-
 
 ktam  k 4 k
 
@@ -65987,9 +65756,7 @@ II, 499\).
 
 Dann geht er mit sieben oder einundzwanzig Bohnen in der Hand, um einen Menschenkopf zu holen, der von einem Vaiśya oder Kṣatriya herrührt, welcher durch einen Pfeil \(im Kriege\) oder durch den Blitz getötet worden isṭ Nachdem er die Bohnen in der Nähe \(des Körpers\) hingeworfen hat, haut er den Menschenkopf ab mit der Formel: ,Der du hier bist, dem dir dieses Haupt angehört, durch dieses Haupt sollst du dort im Besitze eines Hauptes sein’ und legt dann an die Stelle des Kopfes einen siebenfach durchlöcherten Ameisenhaufen nieder̥ Er singt, während er rechts um das Haupt herumgeht, die drei an Yama gerichteten Verse. \[. . . \]
 
-27 KŚS 16.1.14: parivr̥ te puruṣasaṁj˜
-
-napanam. 
+27 KŚS 16.1.14: parivr̥ te puruṣasaṁjñapanam. 
 
 28 KŚS 16.1.32: anyāni vā hiraṇmayāni vā mr̥ nmayāni vānālabhyaitāṇ Cf. Dvaidha Sūtra
 
@@ -66043,9 +65810,7 @@ Hans Bakker
 
 The remains of the three Agnicayana altars, found in Jagatgram apparently do have the shape of a hawk, but whether they include human and animal bones remains as yet unknowṇ According to the two 3rd-century inscribed sacrificial bricks, which mention an otherwise unknown king Śīlavarman, lord of Yugaśaila, they were used for the performance of altogether four Aśvamedha sacrificeṣ 
 
-siddham om
-
-. |
+siddham oṁ|
 
 yugeśvarasyāśvamedhe
 
@@ -66275,9 +66040,7 @@ of medieval Hinduism. I mean the idea of the Vāstupuruṣa, the ‘Man of the
 
 Homestead’, first encountered in the Br̥hatsaṁhitā. 45
 
-The author Varāhamihira \(mid 6th century\) begins his chapter on ‘Architecture’ with the following two verses, after having said that the science of house-building \( vāstuj˜
-
-nāna\) came down from Brahmā. 
+The author Varāhamihira \(mid 6th century\) begins his chapter on ‘Architecture’ with the following two verses, after having said that the science of house-building \( vāstujñāna\) came down from Brahmā. 
 
 To be more precise, there was a being that by his body obstructed the earth and the sky; that being was forcibly seized by the immortals, who felled him, head-dowṇ And wherever a god held it, there that god became established; the Creator ordained that the House Man \( vāstunara\) was to consist of those immortalṣ 46
 
@@ -66487,9 +66250,7 @@ compassion instructs them in the power of the Name. I ask you, lord, which Rāma
 
 is this? Tell me and explain, O treasure-house of grace\! \(3\) \(RCM 1 C46.2–3, tr̥ Hill\)
 
-More pedestrian as we are, our answer differs from that of the prince of sages, Yāj˜
-
-navalkya; we will look for the origin of this doctrine to the beginnings of the Rāma bhakti  in northern India in the 11th and 12th centuries aḍ This new form of devotion that envisaged the hero of the Rāmāyaṇa as the highest form and
+More pedestrian as we are, our answer differs from that of the prince of sages, Yājñavalkya; we will look for the origin of this doctrine to the beginnings of the Rāma bhakti  in northern India in the 11th and 12th centuries aḍ This new form of devotion that envisaged the hero of the Rāmāyaṇa as the highest form and
 
 manifestation of Viṣṇu was from the start, it would seem, intrinsically linked to the cult of the divine Name. Tulsī reports the outcome of the development in which Name and God became equated: the Name of Rāma is the supreme
 
@@ -66585,9 +66346,7 @@ The Rāmottaratāpanīyopaniṣad § 4 21–25 borrows this passage from the Ag�
 
 28.22–23: śrīrāma rāma rāmeti ye vadanty api sarvadā  k 22 k teṣāṁbhuktiś ca muktiś
 
-ca bhaviṣyanti na sam
-
-. śayaḥ |
+ca bhaviṣyanti na saṁśayaḥ |
 
 4 Cf. the \(late\) Padmapurāṇa 243.39–40, which reads in a Stotra addressed to Rāma \(and
 
@@ -66641,7 +66400,7 @@ To the Kāśīkhaṇd
 
 hman/ mantra, ‘the saving formula’. KKh 1.7.79 reads in the eulogy that is a nirukti  of Maṇikarṇikā:
 
-´
+́
 
 Because Siva, thought-gem \( maṇi\) to \(all\) those who are floating on the ocean of existence, speaks here \(in Maṇikarṇikā\), all at once in the hour of death, that mumūrṣor maṇikarṇyāṁtu ardhodakanivāsinaḥ |
 
@@ -66673,9 +66432,7 @@ When one departs from life there, Viśveśvara himself recites the saving formul
 
 How successful the Vaiṣṇava pandits have been in their appropriation of a golden Śaiva formula, may become evident from Rāmānanda’s commentary
 
-ad locum, in which tārakaṁbrahma  is glossed as tārakaṁpraṇavam
-
-. ṣad
+ad locum, in which tārakaṁbrahma  is glossed as tārakaṁpraṇavaṁṣad
 
 . akṣara-
 
@@ -66687,9 +66444,7 @@ lation of G.V. Tagare in the Ancient Indian Tradition and Mythology Series:
 
 . a himself seems
 
-to have identified the Tāraka mantra with the syllable om
-
-. . 8
+to have identified the Tāraka mantra with the syllable oṁ. 8
 
 The Kāśīkhaṇd
 
@@ -66723,9 +66478,7 @@ tatrotkramaṇakāle tu sākṣād viśveśvarah. svayam |
 
 vyācaṣṭe tārakaṁbrahma yenāsau tanmayo bhavet  k 73 k
 
-8 The verse that precedes KKh 1.7.79 specifies what is meant by taṁtārakam
-
-. :
+8 The verse that precedes KKh 1.7.79 specifies what is meant by taṁtārakaṁ:
 
 na varṇyate kaiḥ kila kāśikeyaṁjantoḥ sthitasyātra yato ’ntakāle |
 
@@ -66771,9 +66524,7 @@ purāṇa. Our text, in the colophons of the three oldest manuscripts, does not 
 
 this replacement had advanced so far that our text was nearly obliterateḍ 
 
-We can be so certain about the early date of our text because the National Archives in Kathmandu possesses three nine-century manuscripts of this Purāṇa, one of which is dated in Am
-
-. śuvarman Saṁvat 234, i.e. ad 810. The
+We can be so certain about the early date of our text because the National Archives in Kathmandu possesses three nine-century manuscripts of this Purāṇa, one of which is dated in Aṁśuvarman Saṁvat 234, i.e. ad 810. The
 
 authenticity of this text is warranted by Lakṣmīdhara, the minister and pandit at the court of the Gāhaḍavāla king Govindacandra in the 12th century, who in his description of Benares quotes extensively from a ‘Skandapurāṇa’. All his
 
@@ -66847,9 +66598,7 @@ which may be an indication that the Upaniṣad text derived from a metrical exem
 
 14 Skandapurāṇa RA Recension 30.50 \(1–2\):
 
-japadhyānodyatānāṁca j˜
-
-nāneṣu bāhyacetasām |
+japadhyānodyatānāṁca jñāneṣu bāhyacetasām |
 
 tamomohahatānāṁca vārāṇasyāṁgatir n¯
 
@@ -67317,9 +67066,7 @@ The conquest of northern India
 
 From the eleventh century onwards North India was regularly confronted, perhaps for the first time, with an enemy that did not adapt itself to Indian customs and did not ‘show the same devotion in festivals in honour of the deities of the country’. Instead that country was infested with marauding bands of Turuṣka warriors, after Sultan Mah.m¯ud of Ghazni had pointed the way in his raid on Somnath \(Gujarat\) in ad 1024–1025. The reports in the Kāmilu-t Tawārīkh by Ibn Asīr and the Tā - rīkh-i Alfī inform us that in the defence of the temple of Somanātha fifty thousand Hindus were killeḍ 20 One would have expected that in the face of such catastrophy Hindu kings would have joined hands and made common cause to defend their country and their holy placeṣ However, ‘India’
 
-was not conceived as an entity to be defended and Hinduism was not organized in such a way that it could offer a framework for its own defence. Hindu kings kept fighting amongst themselves and when at the end of the 12th century the Cāhamānas, who had borne the brunt of the attacks of the Muslim armies, 17 Kālidāsa, Raghuvam
-
-. śa 4.25–26:
+was not conceived as an entity to be defended and Hinduism was not organized in such a way that it could offer a framework for its own defence. Hindu kings kept fighting amongst themselves and when at the end of the 12th century the Cāhamānas, who had borne the brunt of the attacks of the Muslim armies, 17 Kālidāsa, Raghuvaṁśa 4.25–26:
 
 The sacrificial fire, properly fed in the ceremony of the lustration of the cavalry \( vājinīrājanā\), destined him \(i.e. king Raghu\) for victory, when, by resembling a hand as it were, its flames made the auspicious right turn \( pradakṣiṇā\). Leaving the centre and frontiers \(of his realm\) well-protected and his rear safeguarded \(against inimical attacks\), he marched at the head of the six units of his army, joined by fortune, impelled by desire to conquer the earth. 
 
@@ -67479,10 +67226,9 @@ and the challenges posed to it by rival world-viewṣ The impact of a secularize
 
 
 
+## Studies in Early Saivism
+
 part iii
-
-Studies in Early Saivism
-
 
 
 
@@ -67503,11 +67249,7 @@ the north \(of him\) and the r̥ṣis  all around \(see below Textual Sources No
 
 \(TS 2\) v. 21\). Only Indra and Bhagavat Sthāṇu \(i.e. Maheśvara\) are able to
 
-preserve their composure, but the latter’s excessive desire to watch her \( draṣṭu-kāmasya cātyartham
-
-. \) leads to the coming forth of three more faces \( mukha\), one directed towards the south, which is possessed of curling lashes \( a˜
-
-ncita-
+preserve their composure, but the latter’s excessive desire to watch her \( draṣṭu-kāmasya cātyarthaṁ\) leads to the coming forth of three more faces \( mukha\), one directed towards the south, which is possessed of curling lashes \( añcita-
 
 pakṣmāntam\), one to the west and one to the north, the latter two not further qualified \(TS 2 vv. 22–24\). In this way Sthāṇu Mahādeva became four-faced
 
@@ -67877,9 +67619,7 @@ Mansar: Caturbhuja śiva
 
 Candragupta’s grandson, the Vākāṭaka king Pravarasena II \(Plate 113\). This
 
-king refers to the deity in inscriptions as ‘Pravareśvara’. 17 As I have argued elsewhere, there are reasons to assume that this beautiful, four-armed Śiva image discovered on a hillock called the Hiḍimbā ṭekḍī, 5 km due west of Ramtek Hill, in 1972, which to date embellishes the entrance hall of the National Museum in Delhi, represents this deity Pravareśvara. It may have been the main object 17 CII V, 19 l. 13: pravareśvara-ṣadvim
-
-. śakavāṭaka, and op. ciṭ  65 l. 1: pravareśvaradevakulasthāna. See also the sealing of Pravareśvara that came to light during the excavation of the Hid
+king refers to the deity in inscriptions as ‘Pravareśvara’. 17 As I have argued elsewhere, there are reasons to assume that this beautiful, four-armed Śiva image discovered on a hillock called the Hiḍimbā ṭekḍī, 5 km due west of Ramtek Hill, in 1972, which to date embellishes the entrance hall of the National Museum in Delhi, represents this deity Pravareśvara. It may have been the main object 17 CII V, 19 l. 13: pravareśvara-ṣadviṁśakavāṭaka, and op. ciṭ  65 l. 1: pravareśvaradevakulasthāna. See also the sealing of Pravareśvara that came to light during the excavation of the Hid
 
 . imbā T
 
@@ -68129,9 +67869,7 @@ indraḥ sthāṇuś ca bhagavān dhairyeṇa pratyavasthitau  k 22 k
 
 draṣṭukāmasya cātyarthaṁgatāyāḥ pārśvatas tadā |
 
-anyad a˜
-
-ncitapakṣmāntaṁdakṣiṇaṁniḥ sr̥taṁmukham  k 23 k
+anyad añcitapakṣmāntaṁdakṣiṇaṁniḥ sr̥taṁmukham  k 23 k
 
 pr̥ṣṭhatah. parivartantyāh. paścimaṁniḥ sr̥taṁmukham |
 
@@ -68153,9 +67891,7 @@ janmakarmatapoyogās tayos tava ca puṣkalāh. |
 
 tābhyāṁliṅge ’rcito devas tvayārcāyāṁyuge yuge  k 86 k
 
-sarvarūpaṁbhavaṁj˜
-
-nātvā liṅge yo ’rcayati prabhum |
+sarvarūpaṁbhavaṁjñātvā liṅge yo ’rcayati prabhum |
 
 ātmayogāś ca tasmin vai śāstrayogāś ca śāśvatāḥ  k 87 k
 
@@ -68165,9 +67901,7 @@ prārthayanti paraṁloke sthānam eva ca śāśvatam  k 88 k
 
 sa eṣa rudrabhaktaś ca keśavo rudrasaṁbhavaḥ |
 
-kr̥ṣṇa eva hi yaṣṭavyo yaj˜naiś caiṣa sanātanah.  k 89 k sarvabhūtabhavaṁj˜
-
-nātvā liṅge ’rcayati yaḥ prabhum |
+kr̥ṣṇa eva hi yaṣṭavyo yaj˜naiś caiṣa sanātanah.  k 89 k sarvabhūtabhavaṁjñātvā liṅge ’rcayati yaḥ prabhum |
 
 tasminn abhyadhikāṁprītiṁkaroti vr̥ṣabhadhvajaḥ  k 90 k
 
@@ -68203,11 +67937,9 @@ sa vāyur viṣamastheṣu prāṇāpānaśarīriṣu  k 93 k \*\*
 
 pūjayed vigrahaṁyas tu liṅgaṁvāpi samarcayet |
 
-liṅgaṁpūjayitā nityaṁmahatīm
+liṅgaṁpūjayitā nityaṁmahatīṁśriyam aśnute  k 94 k \*\*\*
 
-. śriyam aśnute  k 94 k \*\*\*
-
-\* The editors of the Anuśāsanaparvan, where the same verse is found \(MBh 13.146.10\), opted for another reading: prāṇotpattiḥ sthiti´
+\* The editors of the Anuśāsanaparvan, where the same verse is found \(MBh 13.146.10\), opted for another reading: prāṇotpattiḥ sthití
 
 ṣ 
 
@@ -68269,9 +68001,7 @@ devakāryārthasiddhyarthaṁpinākaṁme kare sthitam  k 7 k
 
 Hans Bakker
 
-indreṇa ca purā vajraṁkṣiptam
-
-. śrīkāṅkṣiṇā mama |
+indreṇa ca purā vajraṁkṣiptaṁśrīkāṅkṣiṇā mama |
 
 dagdhvā kan
 
@@ -68287,9 +68017,7 @@ mahayanty asya lokāś ca maheśvara iti smr̥tah.  k 15 k
 
 vigrahaṁpūjayed yo vai liṅgaṁvāpi mahātmanaḥ |
 
-liṅgaṁpūjayitā nityaṁmahatīm
-
-. śriyam aśnute  k 16 k
+liṅgaṁpūjayitā nityaṁmahatīṁśriyam aśnute  k 16 k
 
 r̥ṣayaś cāpi devāś ca gandharvāpsarasas tathā |
 
@@ -68301,9 +68029,7 @@ sukhaṁdadāti prītātmā bhaktānāṁbhaktavatsalaḥ  k 18 k
 
 9 Rāmāyaṇa 7.31.38–40
 
-rāvaṇaṁprā˜
-
-njaliṁyāntam anvayuḥ sapta rākṣasāh. |
+rāvaṇaṁprāñjaliṁyāntam anvayuḥ sapta rākṣasāh. |
 
 yatra yatra sa yāti sma rāvaṇo rākṣasādhipah. |
 
@@ -68313,9 +68039,7 @@ bālukāvedimadhye tu tal liṅgaṁsthāpya rāvaṇaḥ |
 
 arcayāmāsa gandhaiś ca puṣpaiś cāmr̥tagandhibhih.  k 39 k
 
-tataḥ satām ārtiharaṁharaṁparam
-
-. , 
+tataḥ satām ārtiharaṁharaṁparaṁ, 
 
 varapradaṁcandramayūkhabhūṣaṇam |
 
@@ -68339,9 +68063,7 @@ asyām
 
 . 
 
-pūrvvā\[ yām
-
-. \] \[ bha\] gava\[ tku\] śikād daśamena bhagavatparāśarāc
+pūrvvā\[ yāṁ\] \[ bha\] gava\[ tku\] śikād daśamena bhagavatparāśarāc
 
 caturthena \[ bhagavatka\*\] pi\[ la\] vimalaśiṣyaśiṣyeṇa bhagava\[ dupamita\*\] vimalaśiṣyeṇa
 
@@ -68379,9 +68101,7 @@ Readings corrected with the help of other similar inscriptionṣ Mirashi notes t
 
 atha liṅgaṁsamuttasthau teṣāṁmadhye divaukasām |
 
-susaṁhataṁsusam
-
-. śliṣṭaṁsamūhas tejasām iva  k 12 k
+susaṁhataṁsusaṁśliṣṭaṁsamūhas tejasām iva  k 12 k
 
 15 Skandapurāṇa 62.16–24 \(SP III, 261 f.\)
 
@@ -68407,9 +68127,7 @@ atyādityaṁtatas tejo mukhān niḥ sr̥tya dakṣin
 
 dr̥śyamānaṁsuraiḥ sarvair viveśa pramadottamām  k 20 k
 
-praṇeme sā tatas tasya paścimāṁmūrtim a˜
-
-njasā |
+praṇeme sā tatas tasya paścimāṁmūrtim añjasā |
 
 niścakrāma tatas tasyā mukhaṁtryakṣam anuttamam  k 21 k
 
@@ -68429,27 +68147,17 @@ viveśa pramadām āśu tām eva varavarṇinīm  k 24 k
 
 sadyojātaṁvāmadevam aghoraṁca mahābhuja |
 
-tathā tatpuruṣaṁj˜
-
-neyam īśānaṁpa˜
-
-ncamaṁmukham  k 1 k
+tathā tatpuruṣaṁjñeyam īśānaṁpañcamaṁmukham  k 1 k
 
 sadyojātaṁmahī proktā vāmadevaṁtathā jalam |
 
 tejas tv aghoraṁvikhyātaṁvāyus tatpuruṣaṁmatam |
 
-īśānaṁca tathākāśam ūrdhvasthaṁpa˜
-
-ncamaṁmukham  k 2 k
+īśānaṁca tathākāśam ūrdhvasthaṁpañcamaṁmukham  k 2 k
 
 vibhāgenātha vakṣyāmi śambhor vadanapa˜ncakam |
 
-mahādevamukhaṁj˜
-
-neyaṁpūrvam
-
-. śambhor mahātmanaḥ |
+mahādevamukhaṁjñeyaṁpūrvaṁśambhor mahātmanaḥ |
 
 netrāṇi trīṇi tasyāhuḥ somasūryahutāśanāḥ  k 3 k
 
@@ -68457,9 +68165,7 @@ dakṣiṇaṁtu mukhaṁraudraṁbhairavaṁtat prakīrtitam |
 
 paścimaṁyan mukhaṁtasya nandivaktraṁtad ucyate  k 4 k
 
-umāvaktraṁca vij˜
-
-neyaṁtasya devasya cottaram |
+umāvaktraṁca vijñeyaṁtasya devasya cottaram |
 
 
 
@@ -68467,11 +68173,7 @@ neyaṁtasya devasya cottaram |
 
 Hans Bakker
 
-sadāśivākhyaṁvij˜
-
-neyaṁpāvanaṁtasya pa˜
-
-ncamam |
+sadāśivākhyaṁvijñeyaṁpāvanaṁtasya pañcamam |
 
 trilocanāni sarvāṇi vāmadevaṁdvilocanam  k 5 k
 
@@ -68479,17 +68181,11 @@ mahādevamukhaṁbhūmis\* tejaḥ syād bhairavaṁmukham |
 
 nandivaktraṁtathā vāyur\* aumeyaṁcāpa ucyate |
 
-sadāśivākhyaṁvij˜
+sadāśivākhyaṁvijñeyam ākāśaṁyadunandana  k 6 k
 
-neyam ākāśaṁyadunandana  k 6 k
+diśo daśa bhujās tasya taddvayaṁ\*\* vadanaṁprati |
 
-diśo daśa bhujās tasya taddvayam
-
-. \*\* vadanaṁprati |
-
-mahādevakare j˜
-
-neyāv akṣamālākamaṇḍal¯u  k 7 k
+mahādevakare jñeyāv akṣamālākamaṇḍal¯u  k 7 k
 
 Text as given in Shah’s edition; śloka  numbering mine. 
 
@@ -68499,11 +68195,7 @@ bhūmis  and vāyur  have been interchangeḍ
 
 \*\* I follow the MSS A and B of Shah’s
 
-edition; this editor opted for the unintelligible vij˜
-
-neyam
-
-. . 
+edition; this editor opted for the unintelligible vijñeyaṁ. 
 
 
 
@@ -68605,15 +68297,15 @@ Consequently, the first of the two alternatives discussed in the Śatapathabrāh
 
 student is sitting at the right side \( dakṣiṇatas\) of the teacher, allows for two interpretations: \(1a\) teacher is facing east and student is facing north, or \(1b\)
 
-a´tha ha´ıke dakṣiṇatáh. \[ | \] tiṣṭhate vāśīnāya vāńvāhur ná táthā kuryād yó hainaṁta´tra
+átha háıke dakṣiṇatáh. \[ | \] tiṣṭhate vāśīnāya vāńvāhur ná táthā kuryād yó hainaṁtátra
 
-brūyād bulba´ṁnv ā
+brūyād bulbáṁnv ā
 
-áya´m ima´m a´jījanata bulbo bhaviṣyatī´tīśvaró ha táthaivá syāt ta´smāt pura´stād eva´ pratī
+áyám imám ájījanata bulbo bhaviṣyatī́tīśvaró ha táthaivá syāt tásmāt purástād evá pratī
 
 će samī
 
-´kṣamāṇāyāńubr¯uyāt  k 14 k
+́kṣamāṇāyāńubr¯uyāt  k 14 k
 
 Now some recite \(to the pupil\) while the latter is standing or sitting at the right side \(of the teacher\). One should not do so. One would be able to say to him in that case:
 
@@ -68639,9 +68331,7 @@ ajījanat tathā cāyam
 
 \[ b\] ulvaḥ parā ˙
 
-nmukho bhaviṣyatīti er I take prāṅmukham, like bulvaṁtiraścīnam
-
-. , as an adverb qualifying ajījanat: ‘ bulva, i.e. transversely, while facing forward/eastwards \( prā ˙
+nmukho bhaviṣyatīti er I take prāṅmukham, like bulvaṁtiraścīnaṁ, as an adverb qualifying ajījanat: ‘ bulva, i.e. transversely, while facing forward/eastwards \( prā ˙
 
 nmukham\), he has begotten \(the pupil\)’; this adverb, referring to the position of the teacher, serves to pronounce the contrast with the pupil, who will turn away \( parā ˙
 
@@ -68653,45 +68343,33 @@ nmukha\), which, again, suggests that teacher and pupil sit at right angleṣ
 
 4 This is the default positioṇ ‘In the domestic rites the sacrificer stands to the west of the fire facing the east’ \(Gonda 1980, 52\). Cf. Bodewitz 2000, 25, 49. 
 
-5 ŚBr 12.7.3.7: u´ttaro va´ı devaloko´, da´kṣiṇah. pitr̥loká\[ h. \]. 
+5 ŚBr 12.7.3.7: úttaro váı devalokó, dákṣiṇah. pitr̥loká\[ h. \]. 
 
-6 ŚBr 13.8.1.6: u´dīcī va´ı manuṣy¯àṇāṁd´ık. Cf. Gonda 1980, 53; Bodewitz 2000, 23. 
+6 ŚBr 13.8.1.6: údīcī váı manuṣy¯àṇāṁd́ık. Cf. Gonda 1980, 53; Bodewitz 2000, 23. 
 
 7 ŚBr 6.6.2.2-4:
 
-u´da ˙
+úda ˙
 
-n prā
+n prā́ṅ t́ıṣṭhan | údaṅ váı prā́ṅ t́ıṣṭhan prajā́patih. prájā asr̥jata  k 2 k yádve\(v\)ódaṅ prā́ṅ t́ıṣṭhan | eṣā́ hobháyeṣāṁdevamanuṣyā
 
-´ṅ t´ıṣṭhan | údaṅ va´ı prā´ṅ t´ıṣṭhan prajā´patih. prájā asr̥jata  k 2 k yádve\(v\)ódaṅ prā
+ń.āṁd́ıg yád údīcī prā
 
-´ṅ t´ıṣṭhan | eṣā´ hobháyeṣāṁdevamanuṣyā
-
-ń.āṁd´ıg ya´d u´dīcī prā
-
-ćī k 3 k ya´dvevo´da ˙
+ćī k 3 k yádvevóda ˙
 
 n
 
-prā
+prā́ṅ t́ıṣṭhan | etásyāṁha diś́ı svargásya lokásya dvā
 
-´ṅ t´ıṣṭhan | etásyāṁha diś´ı svarga´sya loka´sya dvā
+ŕaṁtásmād úda ˙
 
-ŕaṁta´smād u´da ˙
+n prā́ṅ t́ıṣṭhann
 
-n prā
+ā́hutīr juhoty úda ˙
 
-´ṅ t´ıṣṭhann
+n prā́ṅ t́ıṣṭhan dákṣiṇā nayati dvāràıva tát svargásya lokásya vittám. 
 
-ā
-
-´hutīr juhoty u´da ˙
-
-n prā
-
-´ṅ t´ıṣṭhan dákṣiṇā nayati dvāràıva tát svargásya lokásya vittám. 
-
-pra´pādayati  k 4 k
+prápādayati  k 4 k
 
 Cf. Gonda 1980, 53; Bodewitz 2000, 24. 
 
@@ -68725,27 +68403,19 @@ That this coincides with the south is secondary and as such does not play a symb
 
 9 According to the Gr̥hyasūtras the pupil receives, among other things, a girdle and a staff, to which the sacred thread may be addeḍ All three items are missing in the ŚBr accounṭ 
 
-It seems that bestowing the yaj˜
-
-nopavīta  upon the novice at this occasion is a relatively late addition \(see Gopal 1959, 296\). There is obviously a loss of symbolic significance in this second position of the pupil compared to the first alternative. Surveying the meaning of the western direction in Vedic ritual Gonda 1980, 55 observes: ‘It follows that facing eastwards whilst standing in the west \[as does the ācārya, H.ṭB.\] results
+It seems that bestowing the yajñopavīta  upon the novice at this occasion is a relatively late addition \(see Gopal 1959, 296\). There is obviously a loss of symbolic significance in this second position of the pupil compared to the first alternative. Surveying the meaning of the western direction in Vedic ritual Gonda 1980, 55 observes: ‘It follows that facing eastwards whilst standing in the west \[as does the ācārya, H.ṭB.\] results
 
 in a desired effect, so that in the west one can be prosperous; facing the west does not however produce resultṣ’
 
 10 Gonda 1977a, 624; Gonda 1980, 57–60. ‘In the case of male beings the right side was auspicious, most probably because it was the ‘male’ side. Atharvavedapariśiṣṭa 70 c 25, 5 a royal sacrificer seeing that the flame of a \(sacrificial\) fire points to the right will be victoriouṣ The side of strength and auspiciousness is also widely regarded as that of benignity, allegiance, benediction’ \( op. ciṭ  60\). 
 
-11 ŚBr 11.5.4.6: tā
+11 ŚBr 11.5.4.6: tā́ṁha smaitā́ṁpurā́saṁvatsaré ’nvāhuḥ saṁvatsarásaṁmitā váı gárbhāḥ 
 
-´ṁha smaitā
+prájāyante jātá evā
 
-´ṁpurā
+\`smiṁs tád vā
 
-śaṁvatsare´ ’nvāhuḥ saṁvatsara´saṁmitā va´ı ga´rbhāḥ 
-
-pra´jāyante jāta´ evā
-
-\`smiṁs ta´d vā
-
-ćaṁdadhma ´ıti |
+ćaṁdadhma ́ıti |
 
 Sāyaṇa ad loc.  takes this to mean
 
@@ -68779,11 +68449,9 @@ pradakṣiṇam agnim
 
 parītyopaviśati  k 1 k anvārabdha ājyāhutīr hutvā prāśanānte
 
-’thainaṁsam
+’thainaṁsaṁśāsti  k 2 k **brahmac¯**
 
-. śāsti  k 2 k **brahmac¯**
-
-**ary asy apo ’´**
+**ary asy apo ’́**
 
 **s¯**
 
@@ -68797,7 +68465,7 @@ parītyopaviśati  k 1 k anvārabdha ājyāhutīr hutvā prāśanānte
 
 vācaṁyaccha **samidham ¯**
 
-**adhehy apo ’´**
+**adhehy apo ’́**
 
 **s¯**
 
@@ -68847,9 +68515,7 @@ nmukha ācāryo ’vatiṣṭhate  k 2 k purastāt
 
 pratya ˙
 
-nmukha itaraḥ  k 3 k \). Then, while pouring the water of his a˜
-
-njali  into that of the
+nmukha itaraḥ  k 3 k \). Then, while pouring the water of his añjali  into that of the
 
 pupil, the teacher consigns the pupil to Savitr̥ and to Prajāpati. After this the pupil puts on fuel and touches the fire. Then, without mentioning another position, the text continues by saying that the pupil, while reciting mantras, ‘approaches \(the teacher\), bends his knee, touches \(the feet of the teacher\), and should say: “O lord, teach the Sāvitrī, O lord, recite”.’ \( āśvGS 1.21.4: \[. . . \] upasthāya jānv ācyopasaṁgr̥ hya brūyād
 
@@ -68903,9 +68569,7 @@ pradakṣiṇam
 
 . 
 
-mu˜
-
-njamekhalām
+muñjamekhalām
 
 . 
 
@@ -68941,25 +68605,13 @@ The teacher prepares for the homa  sacrifice by consecrating the implements etc.
 
 of which the grassblades are turned to the north. There the teacher takes his seat, his face turned to the east; the pupil \( kumāra\), who has put on the
 
-yaj˜
+yajñopavīta  and sipped water, takes his seat at the right side \(of his teacher\) \( dakṣiṇatas\).16
 
-nopavīta  and sipped water, takes his seat at the right side \(of his teacher\) \( dakṣiṇatas\).16
+The teacher performs the homa  sacrifice \(BhGS 1.4\). Then he gives the pupil a new cloth, a girdle of muñja grass \( mauñjī mekhalā\), and a skin of the black
 
-The teacher performs the homa  sacrifice \(BhGS 1.4\). Then he gives the pupil a new cloth, a girdle of mu˜
+antelope \( ajina\) \(BhGS 1.5–6\). Next \(BhGS 1.7\) \(the teacher\) strews to the west of the sacrificial fire darbha grasses, on which the two \(teacher and pupil\) take their stand, one facing east, the other wesṭ The one facing east takes the hand of the one facing west and vice versa. A servant fills the añjalis  of both
 
-nja grass \( mau˜
-
-njī mekhalā\), and a skin of the black
-
-antelope \( ajina\) \(BhGS 1.5–6\). Next \(BhGS 1.7\) \(the teacher\) strews to the west of the sacrificial fire darbha grasses, on which the two \(teacher and pupil\) take their stand, one facing east, the other wesṭ The one facing east takes the hand of the one facing west and vice versa. A servant fills the a˜
-
-njalis  of both
-
-with water̥ By his a˜
-
-njali \(the teacher\) transfers the water into the a˜
-
-njali \(of
+with water̥ By his añjali \(the teacher\) transfers the water into the añjali \(of
 
 the pupil\). 17
 
@@ -69013,9 +68665,7 @@ nmukho dakṣiṇatah. śiṣya udaṅmukho vā . . . \(GauDhS 1, in Dutt 1988\)
 
 . āgnim udagagraṁkūrcaṁnidhāya tasmin prā ˙
 
-nmukha upaviśati | yaj˜
-
-no-
+nmukha upaviśati | yajño-
 
 pavītaṁkr̥ tvāpa ācamya dakṣiṇatah. kumāra upaviśyānvārabhate  k 3 k 17 BhGS 1.7:
 
@@ -69031,15 +68681,9 @@ nmukhaḥ
 
 prā ˙
 
-nmukhasyety aparam | athainayoḥ praiṣakr̥ d a˜
+nmukhasyety aparam | athainayoḥ praiṣakr̥ d añjalī udakena pūrayati | athāsyāñja-
 
-njalī udakena pūrayati | athāsyā˜
-
-nja-
-
-linā˜
-
-njalāv udakam ānayati |
+lināñjalāv udakam ānayati |
 
 
 
@@ -69049,9 +68693,7 @@ The teacher consigns the pupil to several other deitieṣ The teacher asks him t
 
 Then the pupil makes a pradakṣiṇa  around the fire, takes his seat at the right side \( dakṣiṇatas\), scil. of the teacher, while he turns to the north, touches \(the feet of the teacher\), and asks: ‘O lord, recite the Sāvitrī’. 18 The place where
 
-the teacher is seated is not again specified, but presumably he is still seated west of the fire facing east, that is the place where he performed the homa sacrifice, took the interview accompanied by the a˜
-
-njalis, and consigned the
+the teacher is seated is not again specified, but presumably he is still seated west of the fire facing east, that is the place where he performed the homa sacrifice, took the interview accompanied by the añjalis, and consigned the
 
 pupil to Prajāpati etc. This is corroborated by the Hiraṇyakeśigr̥hyas¯utra.19
 
@@ -69077,9 +68719,7 @@ nmukhā dakṣiṇata ita-
 
 re yathāpradhānam | asaṁbhave sarvatomukhāḥ | pratīkṣerann udayam ādityasya |
 
-vij˜
-
-nāya cainaṁdīdhitimantam | adhīhi bho3 iti dakṣiṇair dakṣiṇaṁsavyaiḥ savyam
+vijñāya cainaṁdīdhitimantam | adhīhi bho3 iti dakṣiṇair dakṣiṇaṁsavyaiḥ savyam
 
 . 
 
@@ -69103,9 +68743,7 @@ aparen
 
 nmukha upaviśati | rāṣṭrabhr̥d
 
-asy ācāryāsandī mā tvad yoṣam  k iti  k 9 k ādityāyā˜
-
-njaliṁkr̥ tvācāryāyopasaṁgr̥ hya
+asy ācāryāsandī mā tvad yoṣam  k iti  k 9 k ādityāyāñjaliṁkr̥ tvācāryāyopasaṁgr̥ hya
 
 dakṣiṇatah. kumāra upaviśya | adhīhi bho | ity uktvāthāha | sāvitrīṁbho anubrūhi  k
 
@@ -69115,9 +68753,7 @@ iti  k 10 k
 
 nGS 6.1.1:
 
-athāto brahmāṇaṁbrahmarṣim
-
-. , brahmayonim indram \[. . . \] sarvān eva pūrvācāryān
+athāto brahmāṇaṁbrahmarṣiṁ, brahmayonim indram \[. . . \] sarvān eva pūrvācāryān
 
 namasya svādhyāyāraṇyakasya niyamān udāhariṣyāmah. |
 
@@ -69179,9 +68815,7 @@ hitārthaṁpāṇd
 
 pārtha pāśupataṁnāma paramāstraṁsanātanam |
 
-yena sarvān mr̥ dhe daityā˜
-
-n jaghne devo maheśvaraḥ  k 16 k
+yena sarvān mr̥ dhe daityāñ jaghne devo maheśvaraḥ  k 16 k
 
 Cf. MBh 12.333.14cd–16ab:
 
@@ -69241,9 +68875,7 @@ yāvad ayam ācāryo gr̥ hasthādibhyo ’bhyāgataṁpūrvam **atah**
 
 **. **-
 
-śabdāt parīkṣitaṁbrāhmaṇaṁvratopavāsādyam
-
-. \* mahādevasya dakṣiṇasyāṁmūrtau
+śabdāt parīkṣitaṁbrāhmaṇaṁvratopavāsādyaṁ\* mahādevasya dakṣiṇasyāṁmūrtau
 
 sadyojātādisaṁskr̥ tena bhasmanā saṁskaroti utpattili ˙
 
@@ -69253,11 +68885,7 @@ vaṇaṁca karoti tāvad eṣyah. kālah. kriyate |
 
 \* read: ◦ ād
 
-. hyam
-
-. , instead of ◦ ādyam
-
-. . 
+. hyaṁ, instead of ◦ ādyaṁ. 
 
 I consider the interpretation that takes the locative mūrtau  as depending on ◦ saṁskr̥ tena, 
 
@@ -69275,9 +68903,7 @@ summed up—the \(right\) materials, the \(right\) time, the ritual \(of consecr
 
 The word image \( mūrti\) in the Kārikā aims at \( abhipretaḥ \) the spot \( bhūpradeśaḥ \)
 
-a little to the right \( dakṣiṇa\) of that, which \[by Kauṇḍinya\], in \[his commentary on\] the ‘Sūtra on offering’ \[i.e. PS 1.8–9\], is described \( vyākhyātam
-
-. \) as the locus
+a little to the right \( dakṣiṇa\) of that, which \[by Kauṇḍinya\], in \[his commentary on\] the ‘Sūtra on offering’ \[i.e. PS 1.8–9\], is described \( vyākhyātaṁ\) as the locus
 
 \( sthāna\) of worship of Mahādeva that is characterized by the erect phallus etc.—a spot not separated from it by a wall \( kud
 
@@ -69301,13 +68927,9 @@ benign epiphany, in front of him, in profile. The two natures of the teacher, th
 
 . īkā on the word ‘ guru’. 
 
-‘Guru’ is the preceptor \( ācārya\); he has two forms, on account of the distinction supreme and not-supreme. With regard to these \(two forms\) not-supreme is he as 25 Gaṇakārikā 5cd: dravyaṁkālaḥ kriyā mūrtir guruś caiveha pa˜
+‘Guru’ is the preceptor \( ācārya\); he has two forms, on account of the distinction supreme and not-supreme. With regard to these \(two forms\) not-supreme is he as 25 Gaṇakārikā 5cd: dravyaṁkālaḥ kriyā mūrtir guruś caiveha pañcamaḥ . 
 
-ncamaḥ . 
-
-26 Bhāsarvaj˜
-
-na \(?\) ad  Gaṇakārikā 5c \(p. 9\):
+26 Bhāsarvajña \(?\) ad  Gaṇakārikā 5c \(p. 9\):
 
 **m¯**
 
@@ -69329,9 +68951,7 @@ dya◦.
 
 I cannot subscribe to the translation of Oberhammer \(1984, viii\), which makes mūrti-
 
-śabdena  the logical subject of vyākhyātam
-
-. \(‘Mit dem Wort mūrtiḥ , das im Verehrungs-
+śabdena  the logical subject of vyākhyātaṁ\(‘Mit dem Wort mūrtiḥ , das im Verehrungs-
 
 sūtram \[vorkommt\], wird der große Gott als \[sichtbares\] Object der Verehrung \( mahā-
 
@@ -69367,31 +68987,21 @@ physical object of veneratioṇ This connotation underlies the T
 
 of the daily worship of the initiated Pāśupata, who, after his bath in ashes, 
 
-enters slowly the sanctum. Then he falls to his knees on a spot to the right of the image \( mūrtidakṣiṇe bh¯upradeśe\), makes an a˜
-
-njali  before his heart, and looks at
+enters slowly the sanctum. Then he falls to his knees on a spot to the right of the image \( mūrtidakṣiṇe bh¯upradeśe\), makes an añjali  before his heart, and looks at
 
 Śiva in the image as if He were there in His very person, and which means that, 
 
 he, fully concentrated and with his head turned towards the north, practises japa with the aim of that \( viśeṣa\) detachment from the sensual world, after which japa he sinks into meditation on Śiva; only then \( eva\) he should burst into repeated boisterous laughter̥ 30
 
-28 Bhāsarvaj˜
+28 Bhāsarvajña \(?\) ad  Gaṇakārikā 5c \(p. 9\):
 
-na \(?\) ad  Gaṇakārikā 5c \(p. 9\):
-
-**gurur **ācāryaḥ sa dvividhaḥ parāparabhedāt | tatrāparaḥ pa˜
-
-ncārthaj˜
-
-nānamaryādānvī-
+**gurur **ācāryaḥ sa dvividhaḥ parāparabhedāt | tatrāparaḥ pañcārthajñānamaryādānvī-
 
 taḥ | . . . tasyādhiṣṭhātā bhagavān maheśvarah. paro guruh. |
 
 29 SvT \(Bombay eḍ\) 3.129–131ab:
 
-kr̥ takr̥ tyaḥ prahr̥ ṣṭātmā prahr̥ ṣṭanayanam
-
-. śiśum |
+kr̥ takr̥ tyaḥ prahr̥ ṣṭātmā prahr̥ ṣṭanayanaṁśiśum |
 
 utthāpya hastāt saṁgr̥ hya dakṣin
 
@@ -69407,9 +69017,7 @@ nmukham  k 130 k
 
 guruḥ pūrvānanaḥ sthitvā prokṣaṇādīni kārayet |
 
-Kṣemarāja ad  SvT \(Bombay eḍ\) 3.129d \(I, p. 212\): dakṣiṇāṁanukūlām
-
-. śivātmikām e-
+Kṣemarāja ad  SvT \(Bombay eḍ\) 3.129d \(I, p. 212\): dakṣiṇāṁanukūlāṁśivātmikām e-
 
 va, na tu pāśavīṁdehamayīm  k \(“‘ dakṣin
 
@@ -69421,15 +69029,11 @@ and SvT 4.468–9 \( ācāryābhis
 
 . eka\). Cf. Mr̥A Kr̥ 7.61–62, 8.198–202ab. 
 
-30 Bhāsarvaj˜
-
-na \(?\) ad  Gaṇakārikā 7 \(p. 18\):
+30 Bhāsarvajña \(?\) ad  Gaṇakārikā 7 \(p. 18\):
 
 . . . śanair garbhagr̥ haṁpraviśet | tad anu mūrtidakṣiṇe bhūpradeśe jānunī pātayitvā
 
-hr̥ di cā˜
-
-njaliṁbaddhvā mūrtisthaṁsākṣād iva śiva h ṁi paśyan . . . saṁyatātmano-
+hr̥ di cāñjaliṁbaddhvā mūrtisthaṁsākṣād iva śiva h ṁi paśyan . . . saṁyatātmano-
 
 ttarābhimukhena pratyāhāraviśeṣārthaṁjaptavyaṁjaptvā tu śivadhyānāsakta evāṭṭa-
 
@@ -69557,7 +69161,7 @@ I propose to read a daṇd
 
 is the oia instrumental in ā  preserved in some adverbṣ Wackernagel 1930, III § 41b ṣv. 
 
-da´kṣiṇa: ‘ dakṣiṇā´  zur rechten Seite.’ The phrase dakṣiṇāmūrtigrahan
+dákṣiṇa: ‘ dakṣiṇā́  zur rechten Seite.’ The phrase dakṣiṇāmūrtigrahan
 
 . āt  in his commen-
 
@@ -69583,31 +69187,17 @@ below, ṇ 39 on p. 518\).
 
 only one fourth of himself. r̥ V 10.90.3–4:
 
-etā
-
-´vān asya mahimā
-
-´ a´to jyā
-
-´yām
-
-. ś ca pū
+etā́vān asya mahimā́ áto jyā́yāṁś ca pū
 
 ŕuṣah. |
 
-pā
+pā́do ’sya v́ıśvā bhūtā
 
-´do ’sya v´ıśvā bhūtā
+ńi tripā́d asyāmŕ̥taṁdiv́ı  k 3 k
 
-ńi tripā
+tripā́d ūrdhvá úd ait púruṣah. pā́do ’syehā́bhavat púnaḥ |
 
-´d asyāmr̥´taṁdiv´ı  k 3 k
-
-tripā
-
-´d ūrdhva´ u´d ait pu´ruṣah. pā´do ’syehā´bhavat pu´naḥ |
-
-ta´to v´ıṣvàṅ vyakrāmat sāśanānaśané abh´ı  k 4 k This seems to be the purport of Kauṇd
+táto v́ıṣvàṅ vyakrāmat sāśanānaśané abh́ı  k 4 k This seems to be the purport of Kauṇd
 
 . inya’s remark \( ibiḍ  p. 15\): dakṣin
 
@@ -69685,9 +69275,7 @@ Cf. Kauṇd
 
 39 SP 27.31:
 
-dakṣiṇāyāṁtu yo mūrtau pāyasaṁsaghr̥ tam
-
-. śubhe |
+dakṣiṇāyāṁtu yo mūrtau pāyasaṁsaghr̥ taṁśubhe |
 
 nivedayed varṣam ekaṁsa ca nandisamo bhavet  k 31 k
 
@@ -69711,7 +69299,7 @@ sometimes inflected nominally \(above\), sometimes pronominally \(e.g. Kauṇd
 
 1.1, quoted in ṇ 24 on p. 513\)—which shows again that we should read dakṣiṇāmūrti  as
 
-a Karmadhāraya compounḍ However, when dissolved, the original use of the adverb dakṣiṇā´ \(= dakṣiṇena\) is ignoreḍ 
+a Karmadhāraya compounḍ However, when dissolved, the original use of the adverb dakṣiṇā́ \(= dakṣiṇena\) is ignoreḍ 
 
 
 
@@ -69719,9 +69307,7 @@ a Karmadhāraya compounḍ However, when dissolved, the original use of the adve
 
 represents Śiva \(as the ācārya  represents Agni in the upanayana\). In fact, it appears most likely that the concept of dakṣiṇām¯urti  originated from this ritual in which Śiva as supreme teacher reveals himself. To this primordial figure—a god who is facing towards the east, but who confers his blessings, that is his ‘right’ side, on his creatures, be they gods, Siddhas, or worshippers in Bhāratavarṣa—the pseudo-Śaṁkara pays homage:
 
-tasmai śrīgurumūrtaye nama idam
-
-. śrīdakṣiṇām¯urtaye  k
+tasmai śrīgurumūrtaye nama idaṁśrīdakṣiṇām¯urtaye  k
 
 This obeisance is to Him who has the form of the illustrious teacher, to the illustrious figure of grace. 40
 
@@ -69733,9 +69319,7 @@ Among the earliest texts that describe the dakṣiṇām¯urti  in iconographic 
 
 he ascribed to the Viṣṇudharmottarapurāṇa, but which are not found in the printed text of that name. 
 
-His right \(lower\) hand shows the \( j˜
-
-nāna\) mudrā and in his \(right\) upper \(hand\)
+His right \(lower\) hand shows the \( jñāna\) mudrā and in his \(right\) upper \(hand\)
 
 he \(holds\) a white rosary; in his left \(lower hand\) he is holding a book comprising all the āgamas and more, and with his upper \(left hand\) he holds the cup with nectar̥ 
 
@@ -69745,9 +69329,7 @@ On this and other, predominantly late South-Indian texts Rao based his descripti
 
 To substantiate his view, however, Rao wrote:
 
-One account gives an explanation regarding the etymology of this name; it states that because Śiva was seated **facing **south when he taught the r̥ishis y¯oga  and j˜
-
-nāna  he came to be known as Dakshiṇām¯urti. This aspect of Śiva is always invoked by students of science and artṣ 42
+One account gives an explanation regarding the etymology of this name; it states that because Śiva was seated **facing **south when he taught the r̥ishis y¯oga  and jñāna  he came to be known as Dakshiṇām¯urti. This aspect of Śiva is always invoked by students of science and artṣ 42
 
 40 ṭM.P. Mahadevan \(1980\), The Hymns of Śa ˙
 
@@ -69761,9 +69343,7 @@ vāme ca pustām akhilāgamādyāṁbibhrāṇam ūrdhvena sudhādharaṁca  k
 
 sitāmbujasthaṁsitavarṇam īśaṁsitāmbarālepanam indumaulim |
 
-j˜
-
-nānaṁmunibhyaḥ pratipādayantaṁtaṁdakṣin
+jñānaṁmunibhyaḥ pratipādayantaṁtaṁdakṣin
 
 . āmūrtim udāharanti  k
 
@@ -69829,9 +69409,7 @@ the early Col.a period\), but may have started much earlier̥ An early textual t
 
 It tells the myth
 
-of Tilottamā that we discussed above, pp. 498 f. When the nymph bows to Śiva’s southern appearance \( dakṣiṇāṁmūrtim
-
-. \), the face of the guru of the
+of Tilottamā that we discussed above, pp. 498 f. When the nymph bows to Śiva’s southern appearance \( dakṣiṇāṁmūrtiṁ\), the face of the guru of the
 
 gods \( mukhaṁsuraguros\) emerged, ‘possessed of the colour of a languid cloud laden with water, having a ferocious voice, with dreadful teeth shining \(in an open mouth\), and the corners of the eyes bloodshot and glittering’ \(SP 62.18–
 
@@ -69945,9 +69523,7 @@ The subjects of the \[obverse\] of this same crossbar remain to be identifieḍ 
 
 50 The end of the story may be supplied as it is told in the Mahābhārata \(see also below, 
 
-pp. 592 ff.\). Mahādeva reveals himself and Arjuna falls to his knees MBh 3.40.55–56: tato devaṁmahādevaṁgiriśam
-
-. śūlapāṇinam |
+pp. 592 ff.\). Mahādeva reveals himself and Arjuna falls to his knees MBh 3.40.55–56: tato devaṁmahādevaṁgiriśaṁśūlapāṇinam |
 
 dadarśa phalgunas tatra saha devyā mahādyutim  k 55 k
 
@@ -70031,9 +69607,7 @@ athainam abravīd vākyaṁtrailokyādhipatir bhavaḥ |
 
 dakṣa dakṣa na kartavyo manyur vighnam imaṁprati |
 
-ahaṁyaj˜
-
-naharas tubhyaṁdr̥ ṣṭam etat purātanam  k
+ahaṁyajñaharas tubhyaṁdr̥ ṣṭam etat purātanam  k
 
 bhūyaś ca te varaṁdadmi taṁtvaṁgr̥ hn
 
@@ -70047,13 +69621,9 @@ tapaḥ sutaptaṁvipulaṁduścaraṁdevadānavaiḥ  k
 
 apūrvaṁsarvatobhadraṁviśvatomukham avyayam |
 
-abdair daśāhasaṁyuktam
+abdair daśāhasaṁyuktaṁ\(?\) gūd
 
-. \(?\) gūd
-
-. ham aprāj˜
-
-naninditam  k
+. ham aprājñaninditam  k
 
 varn
 
@@ -70203,19 +69773,13 @@ S1 reads lāgud
 
 ‘And’ \(SPS 167.129d\) Lāgudi declares:
 
-rahasyaṁparamaṁhīdaṁpa˜
-
-ncārtha iti saṁj˜
-
-nitam |
+rahasyaṁparamaṁhīdaṁpañcārtha iti saṁjñitam |
 
 viprān mocayituṁdatto yuṣmabhyaṁmartyabandhanāt |
 
 anayā dīkṣayā viprān prāpayadhvaṁparaṁpadam  k 130 k
 
-SPS 167.130 thus defines the svasiddhānta  doctrine as ‘Pa˜
-
-ncārtha’ and explicitly declares
+SPS 167.130 thus defines the svasiddhānta  doctrine as ‘Pañcārtha’ and explicitly declares
 
 that these four pupils have the right to initiate, i.e. that they are established as the founders of four lineageṣ 
 
@@ -70351,9 +69915,7 @@ The Kuru lineage
 
 Puṣpaka in the Kuru \(Kauruṣa\) lineage evokes the name of the \(alleged\) founder of the Paśupatinātha Temple in Nepal, Supuṣpa.12 It may also remind one of 11 Shah 1984, 98, Pl. 88. 
 
-12 The foundation of this temple is credited to a \(legendary\) king of the Licchavi dynasty, named Supuṣpadeva in the \(corrupt\) Gopālarājavam
-
-. śāvalī \(ff. 19v–20r\):
+12 The foundation of this temple is credited to a \(legendary\) king of the Licchavi dynasty, named Supuṣpadeva in the \(corrupt\) Gopālarājavaṁśāvalī \(ff. 19v–20r\):
 
 rājā śrīsupuṣpadeva varṣa 76  k tena hi nepālabhūmiś cāturvarṇakr̥ tā  k śrīpaśupati-
 
@@ -70371,9 +69933,7 @@ bhumi ˘ ˘ saṁtha ˘ ˘ vyavahāra pravartate  k
 
 This Supuṣpa is also known from the genealogy of King Jayadeva, the same who recorded the name of his maternal grandfather, the Maukhari prince Bhogavarman \(see below, p. 538\): tasmāl licchavitaḥ pareṇa nr̥ patīn hitvā parān dvādaśa śrīmān puṣpaśarākr̥tih. 
 
-kṣitipatir jātah. supuṣpas tatah. | \(Verma & Singh 1994, 238\). According to Slusser 1982, 227 this king is ‘alternately known as Paśuprekha \(he who has seen Paśupati\)’. A later \(equally legendary\) Licchavi king, Supuṣpavarman, is said in the Gopālarājavam
-
-. śāvalī
+kṣitipatir jātah. supuṣpas tatah. | \(Verma & Singh 1994, 238\). According to Slusser 1982, 227 this king is ‘alternately known as Paśuprekha \(he who has seen Paśupati\)’. A later \(equally legendary\) Licchavi king, Supuṣpavarman, is said in the Gopālarājavaṁśāvalī
 
 to have renovated the temple of Paśupati:
 
@@ -70433,9 +69993,7 @@ paramabhaṭṭārakamahārājādhirājaśrīharṣah. \(Thaplyal 1985, 186\). T
 
 . avaho refers to Śrīkan
 
-. ṭha, as Siriäm
-
-. ṭha \(v. 484\). Vākpatirāja describes it as
+. ṭha, as Siriäṁṭha \(v. 484\). Vākpatirāja describes it as
 
 the site where Janamejaya’s serpent sacrifice took place \(vv. 472–484\). Verse 485 makes it clear that Kurukṣetra is meanṭ 
 
@@ -70469,13 +70027,9 @@ The first epigraphical attestation \(c. ad 600\) is that of an ascetic called Ud
 
 ruled from c. ad 590 to 650.21 This Udbhavarāśi Rudra, called ‘an ocean for the streams of his own doctrine’, might have reached Dakṣiṇa Kosala in the train of Bālārjuna’s mother Vāsaṭā, who was a Maukhari princess, daughter of
 
-Sūryavarman, and who had come from Kanyakubja to Śrīpura as the wife of the Pāṇḍuvam
+Sūryavarman, and who had come from Kanyakubja to Śrīpura as the wife of the Pāṇḍuvaṁśi prince Harṣagupta in the last quarter of the sixth century.22
 
-. śi prince Harṣagupta in the last quarter of the sixth century.22
-
-rāśīkarāntām
-
-. ś ca tīrthakarān anukrameṇa yathāvad bhaktyā namaskuryāt tad anu pra-
+rāśīkarāntāṁś ca tīrthakarān anukrameṇa yathāvad bhaktyā namaskuryāt tad anu pra-
 
 dakṣiṇam ekam iti |
 
@@ -70545,17 +70099,13 @@ Although, admittedly, ‘his own doctrine’ \( svasiddhānta\) would normally b
 
 taken to mean ‘the doctrine of/adhered to by Udbhavarāśi’, it may be signif-
 
-icant to note that SPS 167.129–30 refers to the Pa˜
-
-ncārtha doctrine imparted
+icant to note that SPS 167.129–30 refers to the Pañcārtha doctrine imparted
 
 by Lāguḍi to his disciples as ‘His own doctrine’: svasiddhānta \(above, ṇ 3 on p. 527\). Possibly the phrase ‘his own doctrine’ within this lineage was a shib-boleth, a denomination signifying ‘**H**is own doctrine’, thereby claiming that the doctrine was the only true one, revealed directly by Lord Lāguḍi himself. 
 
 The phrase ‘an ocean for the streams of his own doctrine’ makes sense, if the
 
-‘ocean’, i.e. the ascetic, is conceived a receptacle of the streams that make up the Pāśupata/Pa˜
-
-ncārtha traditioṇ We will come across another Pāśupata
+‘ocean’, i.e. the ascetic, is conceived a receptacle of the streams that make up the Pāśupata/Pañcārtha traditioṇ We will come across another Pāśupata
 
 ascetic who was devoted to ‘his own doctrine’ below, \(p. 539\). 
 
@@ -70643,7 +70193,7 @@ that he initiated several princes in Nepal. See SP II A, 72 ff., SP 29.28. The m
 
 SP 31.49\) of Śiva’s victory over all the gods in the Dakṣa myth. This cause is the boon asked by Dadhīca after his victory over the Vaiṣṇava Kṣupa: bhagavan yadi tuṣṭo ’si yadi deyo varaś ca me | icchāmi viṣṇunā sārdhaṁsarvān devāṁs tvayā jitān  k 31.101 k
 
-28 The fight \( vaira\) between Dadhīca and Kṣupa, who argue about the superiority of either the brahman  or the kṣatra  principle, resembles in many respects that between Vasiṣṭha and Vis´
+28 The fight \( vaira\) between Dadhīca and Kṣupa, who argue about the superiority of either the brahman  or the kṣatra  principle, resembles in many respects that between Vasiṣṭha and Viś
 
 vāmitra, whose āśramas  are also said to be in Sthāṇutīrtha \(MBh 9.41.4\). MBh
 
@@ -70691,9 +70241,7 @@ In MBh
 
 uated on the Sarasvatī in Samanta-
 
-pa˜
-
-ncaka \(= Kurukṣetra\). 
+pañcaka \(= Kurukṣetra\). 
 
 As has
 
@@ -70709,9 +70257,7 @@ of Skanda’s consecration in Samanta-
 
 Plate 119
 
-pa˜
-
-ncaka. 32
+pañcaka. 32
 
 Thanesar: the Sthāṇuvaṭa
 
@@ -70771,9 +70317,7 @@ dadhīcasyālayaḥ khyātaḥ sarvapāpaharaḥ paraḥ  k 10 k
 
 \[. . . \]
 
-dadhīcena yatas tatra kr̥ tam āyatanam
-
-. śubham |
+dadhīcena yatas tatra kr̥ tam āyatanaṁśubham |
 
 sthāneśvaram iti khyātaṁtena lokeṣu triṣv api  k 20 k
 
@@ -70789,11 +70333,7 @@ tāta, tvāṁprāpya cirāt khalu rājyaśriyā ghaṭitau tejomayau sakalajaga
 
 budhakarn
 
-. ānandakāriguṇagaṇau somasūryavam
-
-. śāv iva puṣyabhūtimukharavam
-
-. śau |
+. ānandakāriguṇagaṇau somasūryavaṁśāv iva puṣyabhūtimukharavaṁśau |
 
 
 
@@ -70875,9 +70415,7 @@ king ādityasena of Magadhā \(3rd quarter 7th cenṭ\), Vatsadevī, married the
 
 Licchavi king of Nepal, Śivadeva II, father of Jayadeva. This Jayadeva and his Indian mother recorded this fact in their Paśupati Temple Inscription, 
 
-\[Am
-
-. śuvarman\] Saṁvat 157 \(ad 732\). 39
+\[Aṁśuvarman\] Saṁvat 157 \(ad 732\). 39
 
 Vatsadevī was the daughter of a Maukhari prince, called Bhogavarman \(see Figure 14\). 40 The inscription, ipso facto, proves that the family of the Maukharis outlived the reign of Harṣa, in one way or the other̥ If our conjecture above is right and the composition of the SP was begun under the Maukharis of Kanauj, it is conceivable that the princess, or someone in her entourage, took this text to Nepal as part of the Maukhari heirloom. And her Magadhā
 
@@ -70905,9 +70443,7 @@ vyūd
 
 40 This Bhogavarman cannot be the same as the son of Śūrasena and nephew of the Mahā-
 
-sāmanta Am
-
-. śuvarman, who is mentioned in the Deopāṭana Inscription, Saṁvat 39 \(ad
+sāmanta Aṁśuvarman, who is mentioned in the Deopāṭana Inscription, Saṁvat 39 \(ad
 
 615\); Verma & Singh 1994, 140. 
 
@@ -70975,9 +70511,7 @@ kulakhaṇd
 
 \* Diwakar Acharya informed me that it is possible to read ◦ karan
 
-. āyāvam
-
-. śapāśupatācā-
+. āyāvaṁśapāśupatācā-
 
 ryebhyaḥ , ‘Pāśupata ācāryas  who are without family’. Cf. Bakker 2014, 132 f. 
 
@@ -70989,15 +70523,11 @@ The Gospel of Kauṇḍinya∗
 
 The Descent of God in Gujarat and the Practice of Imitating God Kauṇd
 
-. inya’s Pa˜
-
-ncārthabhāṣya
+. inya’s Pañcārthabhāṣya
 
 Kuśika and the divine revelation
 
-When we speak of the gospel of Kauṇḍinya, we call forth an association with texts which describe the birth, life, and deeds of a saviour, texts which are meant to bring good news, an evangelium, into the worlḍ This evocation is deliberate. As a tribute to Jan Bremmer’s life-long engagement, scholarly and otherwise, with gospels and kindred texts that have just failed to reach that status, I would like to show, that a text called ‘The Five Topics’, Pa˜
-
-ncārtha, 
+When we speak of the gospel of Kauṇḍinya, we call forth an association with texts which describe the birth, life, and deeds of a saviour, texts which are meant to bring good news, an evangelium, into the worlḍ This evocation is deliberate. As a tribute to Jan Bremmer’s life-long engagement, scholarly and otherwise, with gospels and kindred texts that have just failed to reach that status, I would like to show, that a text called ‘The Five Topics’, Pañcārtha, 
 
 which has the form of a commentary \( bhāṣya\) on the S¯utras of the Pāśupata
 
@@ -71155,9 +70685,7 @@ it says, that the initiate should offer, along with laughter, the sound hud
 
 . 
 
-\(PS 1.8\). Kauṇḍinya explains: ‘The word huḍum
-
-. : the auspicious noise which
+\(PS 1.8\). Kauṇḍinya explains: ‘The word huḍuṁ: the auspicious noise which
 
 resembles that of a bull and which originates from holding the tip of the tongue against the palate, that is what \(is meant\).’ 5
 
@@ -71411,9 +70939,7 @@ The Lord of all knowledge/ spells, the Master of all beings/ spirits; the Overlo
 
 me\! 16
 
-This is followed in the Calcutta manuscript by the syllable om
-
-. , 17 which should
+This is followed in the Calcutta manuscript by the syllable oṁ, 17 which should
 
 be seen in this context as a declaration of affirmation, amen, from the side of Goḍ Kauṇḍinya too, although he apparently omits this syllable om., seems to take this prayer in an eschatological way. The fact that God Himself instructs the devotee to entreat Him to be gracious holds a great promise: the end of suffering is at hand; it will be realized at the moment of death \(the last stage\) and will be for ever̥ Typical for Kauṇḍinya’s style, this vision of hope is prompted by a question:
 
@@ -71521,9 +71047,7 @@ Lāgud
 
 The study of the origins of organized Saivism received a completely new perspective with the publication of the Pāśupatasūtras \(PS\) and Kauṇḍinya’s com-
 
-mentary thereon, the Pa˜
-
-ncārthabhāṣya, by r̥ Ananthakrishna Sastri in 1940. 
+mentary thereon, the Pañcārthabhāṣya, by r̥ Ananthakrishna Sastri in 1940. 
 
 Research by Minoru Hara, Daniel Ingalls, Alexis Sanderson, Thomas Oberlies, Peter Bisschop, and Diwakar Acharya, to mention just the major players in this field, built on this new evidence and has paved the way for our present investigation, which draws heavily on their work. 1
 
@@ -71537,9 +71061,7 @@ of the well-known descent of Śiva in Kāyāvataraṇa \(called Kārohaṇa in S
 
 known today as Karvan in Gujarat\) with that given by Kauṇḍinya, is that the uniqueness of this mystical event is no longer maintaineḍ Reflecting the general Hindu and Buddhist conception of the time, viz. that a Buddha or a god incarnates on earth again and again in various forms and persons, the Skandapurāṇa makes Śiva’s descent in Gujarat a cyclic event: each world period
 
-∗ The first version of this article was published in Tikkanen, Betil & Albion M. Butters \(edṣ\), Pūrvāparapraj˜
-
-nābhinandanam. East and West, Past and Presenṭ Indological and Other Essays in Honour of Klaus Karttuneṇ The Finnish Oriental Society, Helsinki 2011. pp. 21–37. Studia Orientalia 110. 
+∗ The first version of this article was published in Tikkanen, Betil & Albion M. Butters \(edṣ\), Pūrvāparaprajñābhinandanam. East and West, Past and Presenṭ Indological and Other Essays in Honour of Klaus Karttuneṇ The Finnish Oriental Society, Helsinki 2011. pp. 21–37. Studia Orientalia 110. 
 
 1 Hara 2002; Ingalls 1962; Sanderson 2006; Oberlies 2000; Bisschop 2006, 2006a; Acharya 2005, 2007, 2013. 
 
@@ -71575,9 +71097,7 @@ Another development that apparently took place or gained prominence in the 5th t
 
 God is said in the Skandapurāṇa to have been born into the house of a certain
 
-Somaśarman, who is said to belong to the lineage of the r̥ṣi  Atri, father of Soma, the Mooṇ 3 This new tradition may have been invented to account for a lineage of Pāśupata teachers who traced their pedigree back to Somaśarman, a topic that I have discussed in my paper Somaśarman, Somavam
-
-. śa and So-
+Somaśarman, who is said to belong to the lineage of the r̥ṣi  Atri, father of Soma, the Mooṇ 3 This new tradition may have been invented to account for a lineage of Pāśupata teachers who traced their pedigree back to Somaśarman, a topic that I have discussed in my paper Somaśarman, Somavaṁśa and So-
 
 masiddhānta \(above, p. 283 ff.\). The Skandapurāṇa is, in all likelihood, the
 
@@ -71713,7 +71233,7 @@ details of Plates 122 & 123
 
 See also, for instance, 
 
-[http://grifterrec.rasmir̥com/indoscythian/indoscythian\_2.html ](http://grifterrec.rasmir̥com/indoscythian/indoscythian_2.html)\(accessed 19-11-15\): ‘Coin of Rajuvula \(circa 10 - 20 ad \(?\)\). Senior ISCH 153.6a, 15 x 14 mm, 3.29 gm. 
+[http://grifterrec.rasmir̥com/indoscythian/indoscythian\_2.html ](http://grifterrec.rasmir.com/indoscythian/indoscythian_2.html)\(accessed 19-11-15\): ‘Coin of Rajuvula \(circa 10 - 20 ad \(?\)\). Senior ISCH 153.6a, 15 x 14 mm, 3.29 gm. 
 
 Obverse: Lion right; corrupt Greek legend, Reverse: Crude Hercules standing lefṭ 
 
@@ -71765,9 +71285,7 @@ Daṇd
 
 . apāṇi on Mathurā pilaster,  ge 61
 
-14 The Mahābhārata knows the Pāśupata sect, its vow \( vrata\), doctrine \( j˜
-
-nāna\), and prac-
+14 The Mahābhārata knows the Pāśupata sect, its vow \( vrata\), doctrine \( jñāna\), and prac-
 
 tice \( yoga\); it also knows the Pāśupata weapon \( astra\), which Śiva gave to Arjuna; for this weapon see below, p. 567. Lāgud
 
@@ -71821,9 +71339,7 @@ bestow grace \( anugraha\) upon the world:
 
 ngula &c ← Austro-aṣ; but prob. same word as “stick”.’ Cf. Mayrhofer, KEWA ṣv. 
 
-19 The Atharvavedapariśiṣṭa 40, dealing with the Pāśupatavrata, contains the following interesting passage, specifying what should be given to the initiated brahmin: tato ’sya mau˜
-
-njiṁprayacchati  k
+19 The Atharvavedapariśiṣṭa 40, dealing with the Pāśupatavrata, contains the following interesting passage, specifying what should be given to the initiated brahmin: tato ’sya mauñjiṁprayacchati  k
 
 sāvitryā tu daṇd
 
@@ -71855,9 +71371,7 @@ The earliest attestation of a group of ascetics named Lākud
 
 . as seems to be a graffito on
 
-Mount Kāla˜
-
-njara \(Bakker 2014, 196\). 
+Mount Kālañjara \(Bakker 2014, 196\). 
 
 
 
@@ -72015,9 +71529,7 @@ The Skandapurāṇa describes the four disciples, after they had been initiated 
 
 Lāguḍi \(the divine incarnation\) bestowed on them ‘**H**is own doctrine’ \(Svasiddhānta\) and yoga, and spoke:
 
-This is the final mystical teaching known as Pa˜
-
-ncārtha. It has been proclaimed
+This is the final mystical teaching known as Pañcārtha. It has been proclaimed
 
 to you in order that you liberate the brahmins from the fetters of death. You should make the brahmins reach the highest station by initiating them \(in this teaching\). Your dwelling places shall be on sacred river banks, in holy sanctuaries, as well as in deserted houses and forests, excluded from society. 
 
@@ -72105,7 +71617,7 @@ The citadel of the old town of Madhyamikā
 
 568
 
-Hans ṭ Bakker & Peter C. Bisschop
+Hans T. Bakker & Peter C. Bisschop
 
 The remains of the Mahādeva Temple are found in the southern part of the
 
@@ -72155,9 +71667,7 @@ Many coins are reported to have come from Nagarī. Bhandarkar found in his excav
 
 The legend of these coins reads: majhimikāya śibijanapadasa. 2 Bhandarkar
 
-\( op. ciṭ  123 f.\), following an earlier suggestion by Kielhorn, identified this Majhimikā ‘with the Madhyamikā mentioned by Pata˜
-
-njali as having been invested
+\( op. ciṭ  123 f.\), following an earlier suggestion by Kielhorn, identified this Majhimikā ‘with the Madhyamikā mentioned by Patañjali as having been invested
 
 in his time by a Yavana king’, 3 and takes it to be the old name of Nagarī. He 1 For another, well-preserved example of such a gateway from the same period and area, compare the tall post found at Khilchipura, now at Mandasor Fort \(below, p. 573\). 
 
@@ -72165,15 +71675,13 @@ Joanna Williams \(1982, 142\) draws attention to the striking similarity; she co
 
 2 Bhandarkar 1920, 122; Allan 1936, cxxiii f. 
 
-3 Pata˜
-
-njali ad  P. 3.2.111: aruṇad yavano madhyamikām. 
+3 Patañjali ad  P. 3.2.111: aruṇad yavano madhyamikām. 
 
 
 
 570
 
-Hans ṭ Bakker & Peter C. Bisschop
+Hans T. Bakker & Peter C. Bisschop
 
 translates the legend as ‘Coin of the Śibi janapada  of the Madhyamikā country’. 
 
@@ -72273,7 +71781,7 @@ the fifth century.
 
 572
 
-Hans ṭ Bakker & Peter C. Bisschop
+Hans T. Bakker & Peter C. Bisschop
 
 The main site of Bhandarkar’s excavation was around the small Mahādeva
 
@@ -72325,7 +71833,7 @@ if it faced west \(Bakker 2004c\), and an image of Śiva in meditation \(Yogeśv
 
 574
 
-Hans ṭ Bakker & Peter C. Bisschop
+Hans T. Bakker & Peter C. Bisschop
 
 Plate 136
 
@@ -72409,7 +71917,7 @@ corporated as bhūmikhaṇd
 
 576
 
-Hans ṭ Bakker & Peter C. Bisschop
+Hans T. Bakker & Peter C. Bisschop
 
 The full length of the architrave must have measured about 4 metres, but the southern-most panel has broken off at one-third and the concluding sculpture of a garland bearer is missing at that end \(Plates 141–142; cf. Plate 115\). The whole architrave consisted, in our reconstruction, of two garland bearers on either end and six panels in betweeṇ The middle of the architrave must have been between the third and the fourth panel, which we deduce from the turn of the torsion in between the third and fourth panels in the garland at the bottom of the crossbar̥ The height of the architrave is 65 cm, its width 38 cm. The architrave is broken at two places: in the first panel at the northern end and in the middle, between the third and fourth panelṣ 19
 
@@ -72453,7 +71961,7 @@ The first panel of the eastern face of the architrave \(E 1\) 22 This Deur Templ
 
 578
 
-Hans ṭ Bakker & Peter C. Bisschop
+Hans T. Bakker & Peter C. Bisschop
 
 Plate 144
 
@@ -72483,9 +71991,7 @@ Bisschop 2006, 195 f. Cf. above, p. 548.
 
 with Jainism, it was a mark of mendicants in general and of Pāśupatas as well. Cf. 
 
-Pa˜
-
-ncārthabhāṣya ad  Pāśupatasūtra 1.6: tathā bhikṣos tridaṇḍamuṇḍakamaṇḍalukāṣāya-
+Pañcārthabhāṣya ad  Pāśupatasūtra 1.6: tathā bhikṣos tridaṇḍamuṇḍakamaṇḍalukāṣāya-
 
 vāsopajalapavitrasthalapavitrādi li ˙
 
@@ -72547,7 +72053,7 @@ devadāruvanāśrame  k
 
 580
 
-Hans ṭ Bakker & Peter C. Bisschop
+Hans T. Bakker & Peter C. Bisschop
 
 Plate 147
 
@@ -72575,9 +72081,7 @@ Another terracotta piece found in Ahicchatra may be considered in this connectio
 
 nka  pose holds a rosary in the back right
 
-hand and a vase with foliage in the left; the lower right hand \(broken\) seems to have been either in the j˜
-
-nāna  or vyākhyāna  pose, the front left hand resting on the thigh. 
+hand and a vase with foliage in the left; the lower right hand \(broken\) seems to have been either in the jñāna  or vyākhyāna  pose, the front left hand resting on the thigh. 
 
 
 
@@ -72621,7 +72125,7 @@ scene, in which the male in the background is the seer in a pose of resignation,
 
 582
 
-Hans ṭ Bakker & Peter C. Bisschop
+Hans T. Bakker & Peter C. Bisschop
 
 We will return to the unidentified object in Śiva’s raised right/left hand later, but first we should have a look at the remaining panels of the architrave. 
 
@@ -72649,9 +72153,7 @@ realized that the terrible calamity was all caused by Śaṁkara. After praising
 
 with various hymns, they propitiated Śaṁkara. 31
 
-31 SPS 167.77: brahmādayas tato devās te ca siddhā mumukṣavah. | j˜
-
-nātvā śaṁkarajam
+31 SPS 167.77: brahmādayas tato devās te ca siddhā mumukṣavah. | jñātvā śaṁkarajam
 
 . 
 
@@ -72691,7 +72193,7 @@ The reason that his Yogeśvara form and not the liṅga  is chosen to represent 
 
 584
 
-Hans ṭ Bakker & Peter C. Bisschop
+Hans T. Bakker & Peter C. Bisschop
 
 tell another story. Realization of one’s aim in this world and the acquisition of \(yogic\) power is achieved by following the path \( sādhana\) that he contemplates
 
@@ -72719,9 +72221,7 @@ In his left hand he carries something that looks like a quiver̥ If this is the 
 
 34 SPS 167.119–120:
 
-vartamāne kalau cāpi j˜
-
-nātvā duḥ khārditaṁjagat |
+vartamāne kalau cāpi jñātvā duḥ khārditaṁjagat |
 
 catvāraḥ puruṣān sr̥ ṣṭvā svasmān mukhacatuṣṭayāt |
 
@@ -72769,7 +72269,7 @@ He will initiate him into this secret knowledge \(Upaniṣad\) received from Vy�
 
 586
 
-Hans ṭ Bakker & Peter C. Bisschop
+Hans T. Bakker & Peter C. Bisschop
 
 thanks to which the whole world will become visible to him and through which he should seek the grace of the godṣ 38
 
@@ -72803,9 +72303,7 @@ dīkṣitam
 
 . 
 
-vidhinā tena yatavākkāyamānasam | anujaj˜
-
-ne tato vīram
+vidhinā tena yatavākkāyamānasam | anujajñe tato vīram
 
 . 
 
@@ -72857,7 +72355,7 @@ myth. This interpretation has been accepted by Bakker 2004c and still standṣ
 
 588
 
-Hans ṭ Bakker & Peter C. Bisschop
+Hans T. Bakker & Peter C. Bisschop
 
 It accords well with the fact that the poet Bhāravi probably wrote his fa-
 
@@ -72953,15 +72451,9 @@ kāmaye tridaśādhipa | bhrāt¯
 
 r̥ ṁs tān vipine
 
-tyaktvā vairam apratiyātya ca | akīrtiṁsarvalokeṣu gaccheyam
+tyaktvā vairam apratiyātya ca | akīrtiṁsarvalokeṣu gaccheyaṁśāśvatīḥ samāḥ  k 41 k
 
-. śāśvatīḥ samāḥ  k 41 k
-
-44 MBh 3.38.43: bhūteśaṁtryakṣam
-
-. śūladharam
-
-. śivam. 
+44 MBh 3.38.43: bhūteśaṁtryakṣaṁśūladharaṁśivam. 
 
 45 KA 12.35–36; Warder 1989–92 III, 206. 
 
@@ -72975,7 +72467,7 @@ tyaktvā vairam apratiyātya ca | akīrtiṁsarvalokeṣu gaccheyam
 
 590
 
-Hans ṭ Bakker & Peter C. Bisschop
+Hans T. Bakker & Peter C. Bisschop
 
 He says to him: You \(shall\) be immortal, exempt from old age and decay and invincible on the battle field; Viṣṇu will be your best friend, and you \(shall\) live with him performing divine taskṣ 
 
@@ -73045,7 +72537,7 @@ had taken oṇ Arjuna and the hunter argue about whose arrow pierced the boar̥
 
 592
 
-Hans ṭ Bakker & Peter C. Bisschop
+Hans T. Bakker & Peter C. Bisschop
 
 The Kirāta is about to pull out the arrow, which enrages Arjuna and a fight is inevitable \(Plate 163\). 50
 
@@ -73085,9 +72577,7 @@ scene.
 
 51 MBh 3.40.55–56, see above, ṇ 50 on p. 523. Bhāravi gives the following description: atha
 
-himaśucibhasmabhūṣitam
-
-. śirasi virājitam indulekhayā | svavapuḥ atimanoharaṁharam
+himaśucibhasmabhūṣitaṁśirasi virājitam indulekhayā | svavapuḥ atimanoharaṁharam
 
 . 
 
@@ -73197,7 +72687,7 @@ may go forth competent\! 52
 
 594
 
-Hans ṭ Bakker & Peter C. Bisschop
+Hans T. Bakker & Peter C. Bisschop
 
 The Pāśupata Weapon
 
@@ -73239,9 +72729,7 @@ tataḥ sa bhagava¯
 
 n devaḥ kapardī nīlalohitaḥ |
 
-āj˜
-
-nayā parameśasya jagrāha brahmaṇaḥ śiraḥ  k 1 k
+ājñayā parameśasya jagrāha brahmaṇaḥ śiraḥ  k 1 k
 
 tad gr̥ hītvā śiro dīptaṁrūpaṁvikr̥ tam āsthitaḥ |
 
@@ -73257,9 +72745,7 @@ MBh 3 App. 27, l. 1 the Pāśupata weapon is an arrow \( śara\); the brahmaśir
 
 thought to be the mantra  that makes this weapon so effective. SPBh 98.7–8ab seems to distinguish between the Pāśupata Weapon and the Brahmaśiras when it lists the four weapons that form the four tusks of Varāha:
 
-catvāry astrāṇi dam
-
-. ṣṭrāś ca kr̥ tāni sumahānti vai |
+catvāry astrāṇi daṁṣṭrāś ca kr̥ tāni sumahānti vai |
 
 astraṁpāśupataṁpūrvaṁdvitīyaṁcakram eva ca  k 7 k
 
@@ -73337,7 +72823,7 @@ taujasaḥ | mūrtimad viṣṭhitaṁpārśve dadr̥śur devadānavāḥ  k 22 
 
 596
 
-Hans ṭ Bakker & Peter C. Bisschop
+Hans T. Bakker & Peter C. Bisschop
 
 Plate 166
 
@@ -73347,9 +72833,7 @@ We now conjecture that the four-armed figure in that panel E 6 \(Plate 156\) may
 
 but conducing him to deference. The vigorous way in which this seems to be done could point to the forceful nature of the allegorical figure. The object that he seems to hold above his head may have been the skull, although the sculpture is too much worn to be certain about iṭ But if so, it would make this four-armed ‘chubby figure’ in the Dakṣiṇām¯urti panel a true āyudhapuruṣa. 
 
-A similar allegorical figure must, if our theory is correct, have been depicted in the missing part of the final panel \(W 6\), this time, however, ‘waiting on the great hero’ \( upatasthe mahātmānam
-
-. \). 60
+A similar allegorical figure must, if our theory is correct, have been depicted in the missing part of the final panel \(W 6\), this time, however, ‘waiting on the great hero’ \( upatasthe mahātmānaṁ\). 60
 
 The Pāśupata Weapon thus seems to be the true subject of the Nagarī architrave. It is represented as a begging bowl made of Brahmā’s fifth head
 
@@ -73393,7 +72877,7 @@ to Indra in Bhāravi’s Kirātārjunīya.
 
 598
 
-Hans ṭ Bakker & Peter C. Bisschop
+Hans T. Bakker & Peter C. Bisschop
 
 thus be considered to be its source is not likely ever to turn up. The narrative of the architrave is the text, and as such it shows instances of intertextuality, thanks to which we can try to understand its message. 
 
@@ -73839,9 +73323,7 @@ Hans Bakker
 
 The composition of the two classic Sanskrit epics was closed by the fourth century. Some of the new religious ideas concerning the god Śiva had still made it into the latest layers of the Mahābhārata. After the Rāmāyaṇa had been
 
-completed, mythology related to the tutelary deity of the Gupta Empire, Viṣṇu, and his popular manifestation of Kr̥ṣṇa in particular, had found expression in an Appendix to the great epic, the Harivam
-
-. śa, as well as in a new type of
+completed, mythology related to the tutelary deity of the Gupta Empire, Viṣṇu, and his popular manifestation of Kr̥ṣṇa in particular, had found expression in an Appendix to the great epic, the Harivaṁśa, as well as in a new type of
 
 Sanskrit text styled ‘Ancient Lore’, i.e. Purāṇa. 
 
@@ -74043,7 +73525,7 @@ are the only ones to blame.
 
 I began my lecture today with a quote from ānandavardhana’s Dhvanyāloka:
 
-‘In the boundless universe of literature the author alone is goḍ In it the world revolves as per his liking.’ 11 The scenario presented here is indeed to my liking, but as you have, no doubt, understood, it is just one possible scenario among otherṣ I hope that the reader can appreciate it for what it is and will not lose sight of its speculative nature. Nevertheless, it is the most plausible one that I can come up with after twenty years of study of the text and context of the Skandapurāṇa. It was a work of the longue dure´e, too long maybe for
+‘In the boundless universe of literature the author alone is goḍ In it the world revolves as per his liking.’ 11 The scenario presented here is indeed to my liking, but as you have, no doubt, understood, it is just one possible scenario among otherṣ I hope that the reader can appreciate it for what it is and will not lose sight of its speculative nature. Nevertheless, it is the most plausible one that I can come up with after twenty years of study of the text and context of the Skandapurāṇa. It was a work of the longue durée, too long maybe for
 
 modern adepts of bibliometrics, but not so for building a dedicated team of fellow studentṣ A day like this proves that I am right at least in that respecṭ 
 
@@ -74443,13 +73925,13 @@ Translation W.ḍ Rosṣ
 
 
 
-References and Index
+## References and Index
 
 
 
 
 
-List of figures
+### List of figures
 
 1
 
@@ -75107,9 +74589,7 @@ Wooden pillar Lauriya-Nandangarh, mound N
 
 Nāga \(front and back\) found at site T in Mansar̥ BM 1930,10.7.1. 
 
-Photo courtesy British Museum
-
-. . . . . . . . . . . . . . . . . . . . . . . . 
+Photo courtesy British Museuṁ. . . . . . . . . . . . . . . . . . . . . . . 
 
 433
 
@@ -75117,9 +74597,7 @@ Photo courtesy British Museum
 
 Mansar: Pottery found at site T in Mansar̥ BM 1930,10.7.2–25. 
 
-Photo courtesy British Museum
-
-. . . . . . . . . . . . . . . . . . . . . . . . 
+Photo courtesy British Museuṁ. . . . . . . . . . . . . . . . . . . . . . . 
 
 434
 
@@ -75681,9 +75159,7 @@ Agrawala, Prithvi K.
 
 1987
 
-Observations on the Mundeshvari Temple. in: Rao, Nagaraja \(eḍ\), Kusumā˜
-
-njali. New Interpretation of Indian Art & Culture. Sh.C. 
+Observations on the Mundeshvari Temple. in: Rao, Nagaraja \(eḍ\), Kusumāñjali. New Interpretation of Indian Art & Culture. Sh.C. 
 
 Sivaramamurti Commemoration Volume. Vol. I. Delhi. pp. 179–83. 
 
@@ -75843,9 +75319,7 @@ Theologica et Philosophia Indica. Oupnek’hat \(Id est, Secretum Tegendum\)
 
 Aparārka
 
-Yāj˜
-
-navalkyasmr̥tih. \[with the\] T
+Yājñavalkyasmr̥tih. \[with the\] T
 
 . īkā \[of\] Aparārka, \[ediṭ by\] Hari Nārāyaṇa
 
@@ -76153,9 +75627,7 @@ The Vākāṭakaṣ An Essay in Hindu Iconology. Groningeṇ Gonda Indological S
 
 \*2000
 
-Somaśarman, Somavam
-
-. á and Somasiddhānta. A Pāśupata tradition in
+Somaśarman, Somavaṁá and Somasiddhānta. A Pāśupata tradition in
 
 seventh-century Dakṣiṇa Kosala. Studies in the Skandapurāṇa III. in: Ryutaro Tsuchida and Albrecht Wezler \(edṣ\), Harānandalaharī. Volume in Honour of
 
@@ -76197,7 +75669,7 @@ the Crossroadṣ Groningeṇ pp. 71–85.
 
 Origin and Growth of the Purāṇic Text Corpus with Special Reference to the
 
-Skandapurāṇa. Papers of the 12th World Sanskrit Conference Vol. 3.2, edited by Hans ṭ Bakker̥ Delhi. 
+Skandapurāṇa. Papers of the 12th World Sanskrit Conference Vol. 3.2, edited by Hans T. Bakker̥ Delhi. 
 
 \*2004c
 
@@ -76341,9 +75813,7 @@ Origin and Spread of the Pāśupata Movemenṭ About Heracles, Lakulīśa and
 
 Symbols of Masculinity. in: Tikkanen, Bertil & Albion M. Butters \(edṣ\), 
 
-‘Pūrvāparapraj˜
-
-nābhinandanam’, East and West, Past and Present:
+‘Pūrvāparaprajñābhinandanam’, East and West, Past and Present:
 
 Indological and Other Essays in Honour of Klaus Karttuneṇ Helsinki. Studia Orientalia 110. pp. 21–37. \[29\]
 
@@ -76667,7 +76137,7 @@ Mallinātha and various readingṣ Eḍ Paṇd
 
 Pān
 
-´
+́
 
 . d
 
@@ -77297,9 +76767,7 @@ Dalal, Chimanlal ḍ
 
 1920
 
-Gaṇakārikā of ācārya Bhāsarvaj˜
-
-na. With four appendices including the
+Gaṇakārikā of ācārya Bhāsarvajña. With four appendices including the
 
 Kāravaṇa-Māhātmya. Ediṭ by Ch. ḍ Dalal. Baroda \(reprint 1966\). 
 
@@ -77485,9 +76953,7 @@ Dutt, Manmatha Natha \(eḍ\)
 
 1988
 
-The Dharma-Śāstra or the Hindus Law Codeṣ Texṭ Yāj˜
-
-navalkya, Hārīta, 
+The Dharma-Śāstra or the Hindus Law Codeṣ Texṭ Yājñavalkya, Hārīta, 
 
 Uśanas, A ˙
 
@@ -77963,9 +77429,7 @@ Gopal, Ram
 
 India of the Vedic Kalpasūtraṣ Delhi. 
 
-Gopālarājavam
-
-. śāvalī
+Gopālarājavaṁśāvalī
 
 A facsimile edition prepared by the Nepal Research Centre in collaboration with the National Archives, Kathmandu. With an introduction, a transcription, Nepali and English translations, a glossary and indices \[by\]
 
@@ -78229,15 +77693,11 @@ Viraha in relation to concrete space and time. in: Thiel-Horstmann, Monika \(e�
 
 References
 
-Harivam
-
-. śa
+Harivaṁśa
 
 \(HV\)
 
-The Harivam
-
-. śa being the Khila or supplement to the Mahābhārata. For the
+The Harivaṁśa being the Khila or supplement to the Mahābhārata. For the
 
 first time critically edited by P.L. Vaidya. Poona 1969–71. 2 volṣ 
 
@@ -78249,9 +77709,7 @@ The art and architecture of the Indian subcontinenṭ Harmondsworth. The Pelican
 
 1987
 
-The ‘pleated’ śiraścakra. in: Kusuma˜
-
-njali. C. Sivaramamurti Commemoration
+The ‘pleated’ śiraścakra. in: Kusumañjali. C. Sivaramamurti Commemoration
 
 Volume II, ediṭ by Nagaraja Rao, Delhi. pp. 234–37. 
 
@@ -78467,7 +77925,7 @@ Ueber die Bhagavad-Gita. Mit Bezug auf die Beurtheilung der Schlegelschen Ausgab
 
 1828
 
-Ueber die unter dem Namen Bhagavad-G´ıtá bekannte Episode des Mahá-Bhárata \(gelesen in der Akademie der Wissenschaften am 30. Juni 1825
+Ueber die unter dem Namen Bhagavad-Ǵıtá bekannte Episode des Mahá-Bhárata \(gelesen in der Akademie der Wissenschaften am 30. Juni 1825
 
 und 15. Juni 1826\). in: Abh. ḍ hisṭ-phil. Kl. der Köṇ Ak. ḍ Wisṣ zu Berlin aus dem Jahre 1825. Berlin 1828. pp. 1–44, 45–64. \(in: Wilhelm von Humboldts Gesammelte Schriften, hrsg. von der Köṇ Preusṣ Ak. ḍ Wisṣ 5. 
 
@@ -78599,9 +78057,7 @@ The Sūktimuktāvalī of Bhagadatta Jalhaṇa, ediṭ with an Introduction in
 
 Sanskrit by Embar Krishnamacharya. Baroda 1938. Gaekwad’s Oriental Series, No. LXXXII. 
 
-Jambūdvīpapraj˜
-
-napti
+Jambūdvīpaprajñapti
 
 The Jambuddīvapaṇṇattī with the \(Sanskrit\) gloss of Dharmasāgaragaṇivara, 
 
@@ -78633,9 +78089,7 @@ Vaiṣṇavism in the Vākāṭaka Timeṣ in: Parimoo, r̥ \(eḍ\), Vaiṣṇa
 
 A Newly Discovered Vākāṭaka Temple at Ramtek, Disṭ Nagpur̥ in: Nagaraja
 
-Rao \(eḍ\), Kusumā˜
-
-njali. C. Sivaramamurti Commemoration Volume. Delhi. 
+Rao \(eḍ\), Kusumāñjali. C. Sivaramamurti Commemoration Volume. Delhi. 
 
 pp. 217–23. 
 
@@ -78657,9 +78111,7 @@ Royal Temples of Gupta Period \(excavations at Bhitari\). Aryan Books, New Delhi
 
 Jayaswal, Vidula & Arvind Kumar Singh & Meera Sharma 2017
 
-The Sacred Landscape of Mundeshwari. The ‘Oldest Living’ Temple. Aryan Books/J˜
-
-nāna-Pravāha, New Delhi/Varanasi. New Discoveries in the History of Varanasi 5. 
+The Sacred Landscape of Mundeshwari. The ‘Oldest Living’ Temple. Aryan Books/Jñāna-Pravāha, New Delhi/Varanasi. New Discoveries in the History of Varanasi 5. 
 
 Jha, Shaktidhar
 
@@ -78825,15 +78277,9 @@ Kālidāsa’s Meghadūta. Ediṭ from the Manuscripts with the Commentary of Va
 
 E. Hultzsch. With a Foreword by Albrecht Wezler̥ New Delhi 1998. 
 
-The Raghuvam
+The Raghuvaṁśa of Kâlidâsa, with the commentary of Mallinâtha, ediṭ with various readings by Kâśˆınâtha Pânduranga Paraba. Third editioṇ Bombay, 1886. 
 
-. śa of Kâlidâsa, with the commentary of Mallinâtha, ediṭ with various readings by Kâśˆınâtha Pânduranga Paraba. Third editioṇ Bombay, 1886. 
-
-The Raghupa˜
-
-ncikā of Vallabhadeva, being the earliest commentary on the Raghuvam
-
-. śa of Kālidāsa. Vol. I. Critical Edition with Introduction and Notes by Dominic Goodall & Harunaga Isaacsoṇ Groningen 2003. Groningen Oriental Studies 17. 
+The Raghupañcikā of Vallabhadeva, being the earliest commentary on the Raghuvaṁśa of Kālidāsa. Vol. I. Critical Edition with Introduction and Notes by Dominic Goodall & Harunaga Isaacsoṇ Groningen 2003. Groningen Oriental Studies 17. 
 
 Kalidos, Raju
 
@@ -78871,9 +78317,7 @@ Kātyāyanaśrautasūtra
 
 The Śrautasūtra of Kātyāyana. With extracts from the commentaries of
 
-Karka and Yāj˜
-
-nikadeva ediṭ by Albrecht Weber̥ Reprint, Varanasi 1972. The Chowkhamba Sanskrit Series 104. 
+Karka and Yājñikadeva ediṭ by Albrecht Weber̥ Reprint, Varanasi 1972. The Chowkhamba Sanskrit Series 104. 
 
 Kaumudīmahotsava
 
@@ -78927,9 +78371,7 @@ Birwé. Wiesbaden 1976. Glasenapp Stiftung 11\].
 
 1927
 
-Das Purāṇa Pa˜
-
-ncalakṣaṇa. Versuch einer Textgeschichte. Leideṇ 
+Das Purāṇa Pañcalakṣaṇa. Versuch einer Textgeschichte. Leideṇ 
 
 1944
 
@@ -78959,9 +78401,7 @@ Nagpur̥ pp. 372–87.
 
 1971–72
 
-Dvitīya Pr̥thīṣeṇācā Māhurjharī Tāmrapaṭ in: Vidarbha Sam
-
-. śodhana
+Dvitīya Pr̥thīṣeṇācā Māhurjharī Tāmrapaṭ in: Vidarbha Saṁśodhana
 
 Maṇd
 
@@ -79201,13 +78641,11 @@ ngapurāṇa
 
 Śrī-Vyāsa-mahars
 
-´
+́
 
 .iproktaṁSrī-Li ˙
 
-ngamahāpurāṇam
-
-. , with the Sanskrit
+ngamahāpurāṇaṁ, with the Sanskrit
 
 commentary Śivatoṣiṇī by Gaṇeśa Nātu. \[Ediṭ by\] Gaṅgāviṣṇu \(son of Kr̥ṣṇadāsa\). Venkatesvara Press, Bombay V.ṣ 1981 \[= ad 1924\]. \[Reprinted, with a Ślokānukraman
 
@@ -79219,9 +78657,7 @@ commentary Śivatoṣiṇī by Gaṇeśa Nātu. \[Ediṭ by\] Gaṅgāviṣṇu 
 
 ng. Eḍ\) The Li ˙
 
-ngapurāṇa \[of\] Kr̥ṣṇa Dvaipāyana Vyāsa. \[Ediṭ by\] Pa˜
-
-ncānana
+ngapurāṇa \[of\] Kr̥ṣṇa Dvaipāyana Vyāsa. \[Ediṭ by\] Pañcānana
 
 Tarkaratna. Va ˙
 
@@ -79351,9 +78787,7 @@ References
 
 ng. Eḍ\) Skandapurāṇam, Māheśvarakhaṇd
 
-. am. \[Ediṭ by\] Śrīyukta Pa˜
-
-ncānana
+. am. \[Ediṭ by\] Śrīyukta Pañcānana
 
 Tarkaratna. \[With a Bengali translation by\] Śr¯i Tārākānta Devaśarma
 
@@ -79503,9 +78937,7 @@ Matsyapurāṇa
 
 ānandāśramasthapaṇd
 
-. itaiḥ sam
-
-. śodhitam. \[Poona\] 1981. Ananda Ashrama
+. itaiḥ saṁśodhitam. \[Poona\] 1981. Ananda Ashrama
 
 Sanskrit Series 54. \[Reprint of the eḍ of H. ṇ Apte ad 1907\]
 
@@ -79607,9 +79039,7 @@ Hoshiapur̥ pp. 1–9.
 
 Meghadūta m˜
 
-e Rāmagiri arthāt Rāmṭek. Nagpur̥ Vidarbha Sam
-
-. śodhana
+e Rāmagiri arthāt Rāmṭek. Nagpur̥ Vidarbha Saṁśodhana
 
 Maṇd
 
@@ -79905,9 +79335,7 @@ The G ri hya-Sûtraṣ Rules of Vedic Domestic Ceremonies translated by - -.
 
 Part I S â ˙
 
-nkhâyana-g ri hya-sûtra, Â s valâyana-g ri hya-sûtra, Pâraskara-g ri hya-sûtra, Khâdira-g ri hya-sûtra. Part II Gobhila, Hira n yake s in, Âpastamba. Âpastamba, Ya g˜
-
-n a-paribhâshâ-sûtras translated by F. Max
+nkhâyana-g ri hya-sûtra, Â s valâyana-g ri hya-sûtra, Pâraskara-g ri hya-sûtra, Khâdira-g ri hya-sûtra. Part II Gobhila, Hira n yake s in, Âpastamba. Âpastamba, Ya gñ a-paribhâshâ-sûtras translated by F. Max
 
 Müller̥ Oxforḍ The Sacred Books of the East XXIX, XXX. 
 
@@ -79975,17 +79403,13 @@ Pāṇini
 
 \(P\)
 
-The Vyākaraṇa-Mahābhāṣya of Pata˜
-
-njali, edited by F. Kielhorṇ 3rd edition, 
+The Vyākaraṇa-Mahābhāṣya of Patañjali, edited by F. Kielhorṇ 3rd edition, 
 
 revised and furnished with additional readings, references and select critical notes by K.V. Abhyankar̥ Poona 1962–72. 5 volṣ 
 
 [http://gretil.sub.uni-goettingeṇde/gretil/1\_sanskr/6\_sastra/1\_gram/](http://gretil.sub.uni-goettingeṇde/gretil/1_sanskr/6_sastra/1_gram/pmbhassu.htm)
 
-[pmbhassu.htm ](http://gretil.sub.uni-goettingeṇde/gretil/1_sanskr/6_sastra/1_gram/pmbhassu.htm): Pata˜
-
-njali: Vyākaraṇamahābhāṣya. Based on the edition by
+[pmbhassu.htm ](http://gretil.sub.uni-goettingeṇde/gretil/1_sanskr/6_sastra/1_gram/pmbhassu.htm): Patañjali: Vyākaraṇamahābhāṣya. Based on the edition by
 
 Franz Kielhorn \(Bombay 1880–1885\), revised by K.V. Abhyankar \(Poona 1972–1996\). Input by George Cardona \(accessed 29-6-2016\). 
 
@@ -80037,15 +79461,11 @@ Pāśupatasūtra
 
 \(PS\)
 
-The Pāśupatasūtra with the Pa˜
-
-ncārthabhāṣya of Kauṇḍinya. Ediṭ by r̥ 
+The Pāśupatasūtra with the Pañcārthabhāṣya of Kauṇḍinya. Ediṭ by r̥ 
 
 Ananthakrishna Sastri. Trivandrum 1940. TSS CXLIII. 
 
-Pata˜
-
-njali
+Patañjali
 
 See ṣv. Pāṇini. 
 
@@ -80119,9 +79539,7 @@ Ptolemaeus, Claudius
 
 Claudii Ptolemaei Geographia. Edidit C.F.A. Nobbe cum introductione a Aubrey Diller, Leipzig 1843–1845. 
 
-Purāṇa Pa˜
-
-ncalakṣaṇa
+Purāṇa Pañcalakṣaṇa
 
 \(PPL\)
 
@@ -80241,9 +79659,7 @@ Raykwar, G.L.
 
 1989
 
-Bilāspur jile kī Śaiv pratimāem
-
-. . in: Purātan VI \(1989\), 187–188. 
+Bilāspur jile kī Śaiv pratimāeṁ. in: Purātan VI \(1989\), 187–188. 
 
 Raykwar, G.L. & Rahul Kumar Singh
 
@@ -80447,9 +79863,7 @@ Collins & ṣ Lukes \(edṣ\), The Category of the Persoṇ Anthropology, Philos
 
 2001
 
-History through Textual Criticism in the Study of Śaivism, the Pa˜
-
-ncarātra
+History through Textual Criticism in the Study of Śaivism, the Pañcarātra
 
 and the Buddhist Yoginītantraṣ in: Grimal, François \(eḍ\), Les sources et le temps/Sources and Time. Pondichéry. pp. 1–47. 
 
@@ -80463,9 +79877,7 @@ Religion and the State: Śaiva Officiants in the Territory of the King’s Brahm
 
 2006
 
-The Lākulas: New Evidence of a System Intermediate between Pā˜
-
-ncārthika
+The Lākulas: New Evidence of a System Intermediate between Pāñcārthika
 
 Pāśupatism and āgamic Śaivism. in: The Indian Philosophical Annual 24
 
@@ -80685,9 +80097,7 @@ Schoonenberg, P.
 
 1978
 
-Gott als Person und Gott als das unpersönlich göttliche. Bhakti und J˜
-
-nāna. 
+Gott als Person und Gott als das unpersönlich göttliche. Bhakti und Jñāna. 
 
 in: Oberhammer, Gerhard \(eḍ\), Tranzendenzerfahrung. Vollzugshorizont des Heilṣ Wieṇ pp. 207–34. 
 
@@ -80809,9 +80219,7 @@ Proceedings of the Indian History Congress 31st Session 1969. Varanasi. pp.
 
 Māṇd
 
-. hal Utkhanana. in: Vidarbha Sam
-
-. śodhana Maṇd
+. hal Utkhanana. in: Vidarbha Saṁśodhana Maṇd
 
 . ala Vārṣika 1977–78, 
 
@@ -80855,11 +80263,7 @@ New Delhi. pp. 227–268.
 
 Inscriptions of the Śarabhapurīyas, Pāṇd
 
-. uvam
-
-. śins and Somavam
-
-. śinṣ Delhi. 2
+. uvaṁśins and Somavaṁśinṣ Delhi. 2
 
 volṣ 
 
@@ -80931,9 +80335,7 @@ Shrimali, Krishna Mohan
 
 1983
 
-History of Pa˜
-
-ncāla: to c. ad 550. New Delhi. 2 volṣ 
+History of Pañcāla: to c. ad 550. New Delhi. 2 volṣ 
 
 1987
 
@@ -81059,7 +80461,7 @@ Skandapurāṇa \(SP\)
 
 The Skandapurāṇa, Volume I. Adhyāyas 1–25. Critically Edited with
 
-Prolegomena and English Synopsis by r̥ Adriaensen, H.ṭ Bakker & H. 
+Prolegomena and English Synopsis by r̥ Adriaensen, H.T. Bakker & H. 
 
 Isaacsoṇ Groningen 1998. Supplement to Groningen Oriental Studieṣ 
 
@@ -81067,13 +80469,13 @@ Isaacsoṇ Groningen 1998. Supplement to Groningen Oriental Studieṣ
 
 The Skandapurāṇa, Volume II A. Adhyāyas 26–31.14: The Vārāṇasī Cycle. 
 
-Critical Edition with an Introduction, English Synopsis & Philological and Historical Commentary by Hans ṭ Bakker & Harunaga Isaacsoṇ Groningen 2004. Supplement to Groningen Oriental Studieṣ 
+Critical Edition with an Introduction, English Synopsis & Philological and Historical Commentary by Hans T. Bakker & Harunaga Isaacsoṇ Groningen 2004. Supplement to Groningen Oriental Studieṣ 
 
 \(SP II B\)
 
 The Skandapurāṇa, Volume II B. Adhyāyas 31 – 52: The Vāhana and Naraka
 
-Cycleṣ Critical Edition with an Introduction and Annotated English Synopsis by Hans ṭ Bakker, Peter C. Bisschop, Yuko Yokochi, in cooperation with Nina Mirnig and Judit Törzsök. Brill, Leiden/Boston 2014. Supplement to Groningen Oriental Studieṣ 
+Cycleṣ Critical Edition with an Introduction and Annotated English Synopsis by Hans T. Bakker, Peter C. Bisschop, Yuko Yokochi, in cooperation with Nina Mirnig and Judit Törzsök. Brill, Leiden/Boston 2014. Supplement to Groningen Oriental Studieṣ 
 
 \(SP III\)
 
@@ -81137,7 +80539,7 @@ Lament for a ‘living literature’. A philologist’s field report on what ail
 
 2017
 
-\[Review of\] ‘The World of the Skandapurāṇa’ by Hans ṭ Bakker̥ in: JRAS
+\[Review of\] ‘The World of the Skandapurāṇa’ by Hans T. Bakker̥ in: JRAS
 
 2017, 523–24. 
 
@@ -81375,9 +80777,7 @@ Tanemura, Ryugen
 
 2004
 
-Kuladatta’s Kriyāsaṁgrhapa˜
-
-njikā. A critical edition and annotated
+Kuladatta’s Kriyāsaṁgrhapañjikā. A critical edition and annotated
 
 translation of selected sectionṣ Groningeṇ Groningen Oriental Studies XIX. 
 
@@ -81473,9 +80873,7 @@ J.B. Modak and K.ṇ Sane. Poona 1882.
 
 Atha Trivikrama-Bhaṭṭa-viracita Madālasācampū. Nirmalā–Hindī vyākhyā
 
-sahita, sampādaka evaṁvyākhyākāra, Nira˜
-
-njana Miśra. Satyam Publishing
+sahita, sampādaka evaṁvyākhyākāra, Nirañjana Miśra. Satyam Publishing
 
 House, New Delhi 2005. 
 
@@ -81621,9 +81019,7 @@ Mahāmuniśrīmad-Vyāsa-pran
 
 ānandāśramasthapaṇd
 
-. itaiḥ sam
-
-. śodhitam. \[Poona\] 1983. Ananda Ashrama
+. itaiḥ saṁśodhitam. \[Poona\] 1983. Ananda Ashrama
 
 Sanskrit Series 49. \[Reprint of the edition by H. ṇ Apte ad 1905\]
 
@@ -82223,15 +81619,11 @@ amr̥ ta, 490, 506, 519, 580
 
 Arrianus, 479, 480
 
-Am
-
-. śuvarman \(Mahāsāmanta\), 538
+Aṁśuvarman \(Mahāsāmanta\), 538
 
 artha, 224, 227, 243
 
-Am
-
-. śuvarman Saṁvat, 469, 538
+Aṁśuvarman Saṁvat, 469, 538
 
 Arthapati Bhaṭṭāraka, 142
 
@@ -82297,9 +81689,7 @@ nguttara-Nikāya, 406
 
 584, 589, 592, 597, 599, 602, see also  war-
 
-ā˜
-
-njaneya \(Hanumat\), 91, 106
+āñjaneya \(Hanumat\), 91, 106
 
 rior ascetics
 
@@ -82375,9 +81765,7 @@ aṣṭamūrti, 190, 197, 291, 292
 
 aprakaṭa, 71
 
-asthi-sa˜
-
-ncayana, 410
+asthi-sañcayana, 410
 
 apratigha \(invincible\), 308, 309
 
@@ -82701,9 +82089,7 @@ Bhāsa, 50, 169, 410, 416, 417
 
 Besnagar, 302, 305, 320, 321, see also  Vidiśā
 
-Bhāsarvaj˜
-
-na, 514, 515
+Bhāsarvajña, 514, 515
 
 Bhabua, 391
 
@@ -83075,13 +82461,11 @@ see also ed
 
 . ūka
 
-five \( pa˜
-
-ncabrahman\), 492, 493, 513
+five \( pañcabrahman\), 492, 493, 513
 
 burial chamber, 438
 
-brahma´n  priest, 187, 188, 190, 508
+brahmán  priest, 187, 188, 190, 508
 
 Burkert, W., 57
 
@@ -84093,9 +83477,7 @@ Gopāla \(Kr̥ṣṇa\), 93, 109
 
 Gaolis, 154
 
-Gopālarājavam
-
-. śāvalī, 530
+Gopālarājavaṁśāvalī, 530
 
 garbhagr̥ ha, 83, 88, 261, 329, 515, 521, 522
 
@@ -84645,9 +84027,7 @@ hud
 
 512–516, 518, 527, 528, 543, 544, 560, 
 
-. um
-
-. , 545
+. uṁ, 545
 
 Hulin, Michel, 23, 29, 30
 
@@ -84655,9 +84035,7 @@ Hulin, Michel, 23, 29, 30
 
 Inscription of Ajan
 
-hum
-
-. ṭā Cave XVII, 127
+huṁṭā Cave XVII, 127
 
 . , 197
 
@@ -84809,15 +84187,11 @@ jīvanmukti, 12, 13
 
 Jabalpur, 146, 150
 
-j˜
-
-nāna, 286
+jñāna, 286
 
 Jacques, St, 53
 
-j˜
-
-nānamudrā, 519
+jñānamudrā, 519
 
 Jaeschke, Walter, 24, 41, 43
 
@@ -84869,9 +84243,7 @@ Jami Masjid \(Jaunpur\), 384
 
 Jvālāmukha, 387
 
-Jambūdvīpapraj˜
-
-napti, 51
+Jambūdvīpaprajñapti, 51
 
 Jyeṣṭhavīrā, 419
 
@@ -84955,9 +84327,7 @@ Kālāmukha, 12, 287
 
 Jayabala, 239
 
-Kāla˜
-
-njara \(mountain\), 248, 253, 559
+Kālañjara \(mountain\), 248, 253, 559
 
 Jayabhaṭṭāraka, 241, 256, 259
 
@@ -85297,9 +84667,7 @@ kṣetra, 467, 471
 
 kirāta \(hunter\), 522
 
-kṣetraj˜
-
-na, 225, 226, 228, 229
+kṣetrajña, 225, 226, 228, 229
 
 Kirāta, 591, 592
 
@@ -85603,9 +84971,7 @@ Lākud
 
 . as, 559
 
-Lunar Race / Dynasty \( somavam
-
-. śa\), 239, 
+Lunar Race / Dynasty \( somavaṁśa\), 239, 
 
 lakula \(club\), 529, 584
 
@@ -85907,9 +85273,7 @@ Māhātmya, 183, 184, 534, 604, 605
 
 559
 
-Mahāvam
-
-. śa, 428
+Mahāvaṁśa, 428
 
 Malhar Plates of Jayarāja, 245
 
@@ -86281,9 +85645,7 @@ muṇd
 
 Mīregāon Plates of Prabhāvatī Guptā, Year
 
-mu˜
-
-nja grass, 510
+muñja grass, 510
 
 20, 314, 332, 354
 
@@ -86435,9 +85797,7 @@ Mukhara, 384, 386, 387
 
 Nagarī \(Rajasthan\), 522, 523, 525, 562, 567, 
 
-muktāyaj˜
-
-nopavīta, 368
+muktāyajñopavīta, 368
 
 569–572, 575, 578, 579, 581, 583, 588–590, 
 
@@ -86739,9 +86099,7 @@ Paramānanda-Sāgara, 20
 
 paramavais
 
-om
-
-. ṇava, 255
+oṁṇava, 255
 
 . , 38, 127, 468, 515, 549
 
@@ -86845,15 +86203,11 @@ pal.l.i-paṭai, 413
 
 498, 505, 513, 515–517, 525–528, 530–534, 
 
-Pā˜
-
-ncarātra, 16
+Pāñcarātra, 16
 
 539, 543, 544, 546, 548–551, 553, 554, 557, 
 
-Pa˜
-
-ncārtha doctrine \(Pāśupata\), 286–288, 
+Pañcārtha doctrine \(Pāśupata\), 286–288, 
 
 561–563, 565, 578, 586, 587, 590, 593–595, 
 
@@ -86861,27 +86215,19 @@ ncārtha doctrine \(Pāśupata\), 286–288,
 
 598, 599, 602–605, 608
 
-Pa˜
-
-ncārthabhāṣya, 541, 553, 578
+Pañcārthabhāṣya, 541, 553, 578
 
 Pāśupata Saivism, 283, 284
 
-Pa˜
-
-ncārthapramāṇa, 286, 287, 541, 563
+Pañcārthapramāṇa, 286, 287, 541, 563
 
 Pāśupata weapon, 512, 523, 526, 593, 
 
-pa˜
-
-ncaśikha, 190, 197
+pañcaśikha, 190, 197
 
 594–599
 
-Pa˜
-
-ncavaṭī, 337
+Pañcavaṭī, 337
 
 Pāśupata yoga, 525, 527, 542, 558, 560, 563, 
 
@@ -86943,9 +86289,7 @@ Paśupati\(nātha\), 190, 413, 530, 537, 539,
 
 Pāṇd
 
-. uvam
-
-. śin\(s\), 532, see also  Pāṇd
+. uvaṁśin\(s\), 532, see also  Pāṇd
 
 . avas
 
@@ -86953,9 +86297,7 @@ Pāṇd
 
 Pāṇini, 49, 196, 407
 
-Paśupati Temple Inscription, \[Am
-
-. śuvarman\]
+Paśupati Temple Inscription, \[Aṁśuvarman\]
 
 pāṇipātrika, 321
 
@@ -86997,9 +86339,7 @@ post \(wooden\), 417, 427, 446, 458, 489
 
 Posthomerica, 176
 
-Pata˜
-
-njali, 49, 569
+Patañjali, 49, 569
 
 Prabhākara \( bhūmipati\), 307, 308
 
@@ -87107,9 +86447,7 @@ phallus, 489, 496, 497, 498, 514, 516, 545,
 
 nga
 
-praj˜
-
-na, 224
+prajña, 224
 
 Phillip II, 363
 
@@ -87405,9 +86743,7 @@ Purān
 
 rajas, 224, 228, 386
 
-. apa˜
-
-ncalakṣaṇa, 47, 176, 179, 190
+. apañcalakṣaṇa, 47, 176, 179, 190
 
 Purī, 63, 64, 108
 
@@ -87895,9 +87231,7 @@ sāmanta, 240, 247–249, 322
 
 sacrificer, 448, 449, 451, see also yajamāna
 
-Samantapa˜
-
-ncaka \(= Kuruks
+Samantapañcaka \(= Kuruks
 
 sacrificial, 342, 354, 387, passiṁetra\), 535
 
@@ -88085,9 +87419,7 @@ Sanchi, 321, 431
 
 Sarpasenakṣamaṇa, 321
 
-Sā˜
-
-nchi Stone Inscription of Candragupta II, 
+Sāñchi Stone Inscription of Candragupta II, 
 
 sārūpya, 411
 
@@ -88101,7 +87433,7 @@ Sanderson, Alexis, 250, 285, 292–294, 397,
 
 531, 553
 
-´
+́
 
 Śarvanātha, 328
 
@@ -88139,7 +87471,7 @@ nkha \(conch\), 94, 110, 342
 
 . i \(king\), 415
 
-´
+́
 
 Śatānīka, 248
 
@@ -88147,7 +87479,7 @@ Sa ˙
 
 nkha, 93, 94
 
-´
+́
 
 Śatānīka II, 248
 
@@ -88157,7 +87489,7 @@ nkhapāṇin \(Viṣṇu\), 110
 
 Śatapathabrāhman
 
-´
+́
 
 . a, 188, 190, 353, 354, 446, 
 
@@ -88205,9 +87537,7 @@ satputra, 146
 
 335, 358, 405–407, 410, 430, 452, 458, 460, 
 
-Śatru˜
-
-njaya \(mount\), 413
+Śatruñjaya \(mount\), 413
 
 481, 493, 496, 499, 505, 544, 604
 
@@ -88357,9 +87687,7 @@ senāpati, 264, 311, 312, 535, 606
 
 senses, see indriya
 
-Siriäm
-
-. ṭha, 531
+Siriäṁṭha, 531
 
 serpents / snakes, 7, 93, 94, 110, 262, 311, 
 
@@ -88903,7 +88231,7 @@ Sufism, 6–11, 14, 15
 
 Sui Vihar, 417, 426–429, 433–435, 439
 
-´
+́
 
 tad ekam, 443
 
@@ -88913,7 +88241,7 @@ Tagare, G.V., 468
 
 Sukanyā, 535, 536
 
-´
+́
 
 Taittirīyāran
 
@@ -88959,7 +88287,7 @@ tamas, 224, 228, 386
 
 Sunda, 400, 489
 
-´
+́
 
 Tamil, 167, 168, 170, 174, 408, 411, 413
 
@@ -88987,7 +88315,7 @@ tantric, 17, 284, 431, 463, 602
 
 Supuṣpavarman, 530
 
-´
+́
 
 Tapam
 
@@ -88995,7 +88323,7 @@ Sūra family, 236
 
 . giri \(Tapogiri\), 79, 90, 106, 164
 
-´
+́
 
 tapas, 91, 191, 336, 480, 497, 524, 525, 590
 
@@ -89009,9 +88337,7 @@ Tarad
 
 Suradevī, 144
 
-. am
-
-. śaka, 255
+. aṁśaka, 255
 
 Tarain, battle of, 483
 
@@ -89539,9 +88865,7 @@ Vāstuśānti \(appeasement sacrifice\), 445, 446
 
 Vindhyaśakti II, 325
 
-vāstuyaj˜
-
-na, 447
+vāstuyajña, 447
 
 Vindhyavāsinī, 605
 
@@ -89777,33 +89101,23 @@ yajamāna, 152, 451, 459
 
 Vrindavan / Vr̥ndāvana, 18–20, 52, 551
 
-yaj˜
-
-na, 132, 190, 500, 524
+yajña, 132, 190, 500, 524
 
 Vr̥ṣa \(bull\), 534
 
-Yaj˜
-
-na, 189, 534
+Yajña, 189, 534
 
 Vr̥ṣan, 534
 
-Yāj˜
-
-navalkya, 465
+Yājñavalkya, 465
 
 Vr̥ṣṇi, 329
 
-Yāj˜
-
-navalkyasmr̥ti, 408
+Yājñavalkyasmr̥ti, 408
 
 Vr̥tra \(Indra\), 387
 
-yaj˜
-
-nopavīta, 508, 510
+yajñopavīta, 508, 510
 
 Vyāghrarāja, 240, 241, 242
 
@@ -89975,447 +89289,6 @@ Zehmke, Britta, 187, 193
 
 Zwalf, W., 424
 
-
-
-
-
-# Document Outline
-
-+ Holy Ground: Where Art and Text Meet: Studies in the Cultural History of India 
-+ Copyright 
-+ Table of Contents 
-+ Part I Early Studies 1986–2000  
-	+ 1 An Indian Image of Man: An Inquiry into a change of perspective in the Hindu world-view  
-		+ Introduction 
-		+ The Indian understanding of perfect man  
-			+ The ‘Raw Material’ 
-			+ The Sufis 
-			+ The Yogis 
-			+ The Sants 
-			+ The Bhaktas 
-
-		+ Epilogue 
-
-	+ 2 Die Indische Herausforderung: Hegels Beitrag zu einer europäischen kulturhistorischen Diskussion  
-		+ Einleitung 
-		+ Die Jahre 1820–1825  
-			+ Neue Einsichten 
-
-		+ Die Jahre 1826–1831  
-			+ Die Rezeption der Bhagavadgītā 
-			+ Von Humboldts Bhagavadgītā Vorträge und Hegels Kritik 
-
-		+ Schlussbetrachtung  
-			+ Schlussmoral 
-
-
-	+ 3 Ayodhyā: le nom et le lieu  
-		+ Ayodhyā conçue : le nom 
-		+ Ayodhyā retrouvée : le lieu  
-			+ Illiers–Combray 
-
-
-	+ 4 Ayodhyā: A Hindu Jerusalem: An investigation of ‘Holy War’ as a religious idea in the light of communal unrest in India  
-		+ Introduction 
-		+ Holy war as a religious idea  
-			+ Five conditions of ‘holy war’ 
-
-		+ The Hindu religion and the social reality of war  
-			+ The advent of Islam 
-
-		+ The segregation of the Hindu and Muslim communities  
-			+ The idea of the Rāma rājya 
-			+ The Kingdom of Avadh 
-			+ The emerging conflict around the Babri Masjid in Ayodhyā 
-
-		+ Ayodhyā: a Hindu Jerusalem  
-			+ The fight for the Rāmajanmabhūmi/Babri Masjid 
-
-		+ Epilogue 
-
-	+ 5 The Ramtek Inscriptions I  
-		+ Introduction 
-		+ The graffiti 
-		+ The two short Kevala–Narasiṃha Temple inscriptions  
-			+ Kevala–Narasiṃha Temple Ramtek Inscription No. 1 
-			+ Kevala–Narasiṃha Temple Ramtek Inscription No. 2 
-
-		+ The Ramtek Stone Inscription of the time of Rāmacandra  
-			+ Synopsis of the contents 
-			+ Editorial principles 
-			+ Edition 
-			+ Translation 
-
-
-	+ 6 The Ramtek Inscriptions II: The Vākāṭaka inscription in the Kevala–Narasiṃha Temple \(Together with Harunaga Isaacson\)  
-		+ Introduction  
-			+ Palaeography 
-			+ Note on the edition and translation 
-
-		+ Text  
-			+ Divergent readings of Jamkhedkar’s edition 
-			+ Translation 
-			+ Annotation 
-
-		+ Analysis and interpretation  
-			+ Vākāṭaka Gupta relations 
-
-
-	+ 7 Throne and Temple: Political power and religious prestige in Vidarbha  
-		+ Introduction 
-		+ The Vākāṭaka period  
-			+ The Vākāṭaka inscriptions 
-			+ Policy of the Vākāṭaka kings 
-
-		+ The Yādava period 
-		+ Ramtek Hill: Theatre of Plenipotentiaries 
-
-	+ 8 Little Kṛṣṇa’s Play with the Moon  
-		+ The literary evidence  
-			+ Baby Kṛṣṇa’s play with the moon 
-
-		+ The archaeological evidence 
-		+ Conclusion 
-
-	+ 9 Some Methodological Considerations with Respect to the Critical Edition of Puranic Literature  
-		+ Introduction 
-		+ The theory of ‘oral composition’  
-			+ Composition-in-transmission 
-
-		+ The critical edition of epic and puranic literature 
-		+ The critical edition of the Ayodhyāmāhātmya 
-
-	+ 10 Pārvatī’s Svayaṃvara: Studies in the Skandapurāṇa I  
-		+ Introduction 
-		+ The wedding of Śiva and Parvatī  
-			+ Śiva’s exclusion from the sacrifice 
-			+ Śiva as the cosmic child 
-			+ Pārvatī’s Svayaṃvara 
-
-		+ The synoptic edition of the Svayaṃvara myth  
-			+ Conclusion 
-
-		+ Pārvatī’s Svayaṃvara: A Textual Reconstruction 
-
-	+ 11 Mokṣadharma 187 and 239–241 Reconsidered \(Together with Peter Bisschop\)  
-		+ Preamble 
-		+ Three themes  
-			+ The five elements 
-			+ The intellectual apparatus 
-			+ Sattva and kṣetrajña  
-				+ The ‘evolution theory’ 
-
-
-		+ The Mokṣadharma: a plurality of views 
-		+ Appendix: Some parallels of Mokṣadharma 187 and 239–241 
-
-	+ 12 Observations on the History and Culture of Dakṣiṇa Kosala \(5th to 7th centuries ad\)  
-		+ Introduction 
-		+ The Pāṇḍavas of Mekalā 
-		+ The family descending from Amara in Kosala 
-		+ The rulers of Śarabhapur 
-		+ The Pāṇḍuvaṃśa of Śrīpura  
-			+ The date of the Pāṇḍuvaṃśa dynasty of Śrīpura 
-			+ Tīvaradeva 
-			+ Mahāśivagupta Bālārjuna 
-
-		+ Tālā  
-			+ The Jiṭhānī Temple 
-
-
-	+ 13 Somaśarman, Somavaṃśa and Somasiddhānta A Pāśupata tradition in seventh-century Dakṣiṇa Kosala: Studies in the Skandapurāṇa III  
-		+ Harāya Namaḥ 
-		+ Śaiva cosmology 
-		+ The Pāśupata movement 
-		+ The epigraphical evidence from Malhar 
-		+ Malhar \(Junvānī\) Copperplates of Mahāśivagupta, Year 57: ll. 8–23  
-			+ Translation 
-			+ Interpretation 
-
-		+ Somaśarman and the Somasiddhānta 
-		+ The evidence of the Skandapurāṇa 
-		+ Somaśarman, Somavaṃśa and Somasiddhānta 
-
-
-+ Part II: Studies in the Early History and Culture of North India  
-	+ 14 A Theatre of Broken Dreams: Vidiśā in the days of Gupta hegemony  
-		+ Prologue 
-		+ Act 1: Rāmagupta  
-			+ The story of the Devīcandragupta 
-			+ Candragupta’s matrimonial policy and the triangle of power 
-
-		+ Act 2 Govindagupta  
-			+ The testimony of Prabhākara 
-
-		+ Act 3 Ghaṭotkacagupta  
-			+ Kālidāsa’s Mālavikāgnimitra 
-			+ The Vākāṭaka–Gupta conflict 
-			+ Finale 
-
-		+ Epilogue 
-
-	+ 15 Royal Patronage and Religious Tolerance: The formative period of Gupta–Vākāṭaka culture  
-		+ Udayagiri  
-			+ Royal patronage 
-
-		+ Mandhal  
-			+ Padmapura 
-			+ Muṇḍasvāmin 
-
-		+ Rāmagiri 
-		+ Mansar 
-		+ Conclusion 
-
-	+ 16 Rāma’s Hill: Transgression and atonement on a Hill in the South and the inadequacy of substitutes  
-		+ Preamble 
-		+ The Śaivala Mountain of the Rāmāyaṇa 
-		+ The Rāmagiri  
-			+ The epigraphical evidence 
-			+ Viṣṇupada 
-			+ Narasiṃha 
-
-		+ The Pilgrim’s Satchel 
-		+ Conclusion 
-
-	+ 17 A New Interpretation of Rāmagiri Evidence  
-		+ 1 Trivikrama: Word and Statue  
-			+ Preamble 
-			+ Maṅgalavāda: Kevala Narasim. ha Temple \(KNT\) Inscription verse 1 
-			+ The KNT Inscription verse 21 
-			+ The discovery of the KNT Inscription 
-
-		+ 2 The Gupta–Vākāṭaka Relationship  
-			+ Preamble 
-			+ The Praśasti. KNT Inscription verses 2–19 
-			+ Conjectured narrative structure of the KNT Inscription 
-			+ The Daughter named Muṇḍa 
-			+ The Gupta–Vākāṭaka relationship 
-			+ The narration of the KNT Inscription 
-
-		+ 3 The Trivikrama Temple  
-			+ Preamble 
-			+ The Trivikrama Temple 
-			+ The iconography of the Trivikrama image 
-			+ The pious works of Atibhāvatī 
-			+ Conclusion 
-
-
-	+ 18 A Note on Skandagupta’s Bhitarī Stone Pillar: Inscription, verses 8–12 Commemorating the dead  
-		+ Ajay Mitra Shastri 
-		+ Skandagupta’s Bhitarī Inscription vv. 8–12  
-			+ Concluding remarks on the inscription and the site of Bhitarī 
-
-		+ Appendix  
-			+ Skandagupta’s Bhitarī Stone Pillar Inscription vv. 8–12 
-
-
-	+ 19 The So-called: ‘Jaunpur Stone Inscription of Īśvaravarman’  
-		+ Preamble 
-		+ Introduction 
-		+ The Jaunpur Stone Inscription  
-			+ Text 
-			+ Translation and annotation 
-
-		+ Conclusion 
-
-	+ 20 The Temple of Maṇḍaleśvarasvāmin: The Muṇḍeśvarī Inscription of the time of Udayasena reconsidered  
-		+ Introduction  
-			+ The temple on Muṇḍeśvarī Hill 
-			+ The date of the Muṇḍeśvarī Inscription 
-
-		+ The Muṇḍeśvarī Inscription, Year 30  
-			+ Transliteration 
-			+ Emended, orthographic edition 
-			+ Translation 
-			+ Interpretation 
-
-		+ Maṇḍaleśvara and the Skandapurāṇa 
-
-	+ 21 Monuments to the Dead in Ancient North India  
-		+ Preamble 
-		+ The funerary monument in Sanskrit literature  
-			+ The aiḍūka of the Viṣṇudharmottarapurāṇa 
-			+ The eḍūka 
-
-		+ The archaeology of the funerary monument  
-			+ Memorials 
-			+ Pratimāgṛhas 
-			+ Memorial Stones 
-			+ Aiḍūkas  
-				+ Ahichhatra 
-				+ Mansar 
-
-
-		+ Funerary monuments with mortuary deposits  
-			+ Sui Vihar 
-
-		+ The archaeology of the śmaśanā  
-			+ The Kumhāra Ṫekḍī in Ujjain 
-			+ The eḍūka at Mansar  
-				+ A funerary monument to Prabhāvatī Gupta?  
-
-
-		+ Conclusion 
-		+ Appendix  
-			+ Aiḍūkarūpanirmāṇa Viṣṇudharmottara 3.84.1–15 \(emended\) 
-
-
-	+ 22 Puruṣamedha, Manasarapuruṣa, Vāstupuruṣa: The image of man in the sacrificial context  
-		+ The image of man 
-		+ Human sacrifice in India  
-			+ Installation of the house or Vāstupratiṣṭha 
-
-		+ Excursus upon the construction of the gnicayana altar  
-			+ Preliminary conclusion 
-
-		+ Archaeological evidence for the construction sacrifice  
-			+ Kauśāmbī 
-			+ Mansar 
-
-		+ The Vāstupuruṣa  
-			+ Kandhar 
-			+ Curdi 
-
-		+ Final remark 
-
-	+ 23 Rama Devotion in a Śaiva Holy Place: The case of Vārāṇasī  
-		+ Introduction 
-		+ Tulsīdās, Śiva, and the Name  
-			+ The Agastyasaṃhitā 
-
-		+ The Tradition of the saving mantra  
-			+ The Kāśīkhaṇḍa 
-			+ The Skandapurāṇa  
-				+ Textual criticism 
-
-			+ The saving mantra in the Skandapurāṇa 
-			+ Avimukta 
-
-		+ Conclusion 
-
-	+ 24 The Hindu Religion and War  
-		+ Preamble 
-		+ Aśoka and ancient warfare in India  
-			+ The Arthaśāstra 
-
-		+ The principle of ahiṃsā and the rules of war  
-			+ Ahiṃsā 
-			+ The Bhagavadgītā 
-			+ The rules of war 
-			+ The reports of Megasthenes and Ibn Baṭṭūṭa 
-			+ The idea of a ‘just war’ 
-			+ The battle and the sacrifice 
-
-		+ Hinduism and Islam  
-			+ The conquest of northern India 
-			+ The case of Vārāṇasī 
-
-		+ Epilogue 
-
-
-+ Part III: Studies in Early Saivism  
-	+ 25 Sources for Reconstructing Ancient Forms of Śiva Worship  
-		+ Śiva Caturmukha  
-			+ The myth of Tilottamā 
-			+ Images of Śiva in his quadruple form 
-			+ Epigraphic sources attesting the worship of Śiva 
-
-		+ Early Sanskrit sources of liṅga worship  
-			+ The Pāśupatasūtra and its commentary 
-			+ The Mahābhārata 
-			+ The Rāmāyaṇa 
-
-		+ Concluding observations  
-			+ The evidence of the Skandapurāṇa 
-			+ Conclusions 
-
-		+ Textual sources 
-
-	+ 26 At the Right Side of the Teacher: Imagination, imagery, and image in Vedic and Śaiva initiation  
-		+ Introduction 
-		+ The sitting position of teacher and pupil in the Vedic Upanayana ritual  
-			+ The Śatapathabrāhmaṇa 
-			+ The Gṛhyasūtras 
-			+ The sitting position of the preceptor and his audience 
-
-		+ The sitting position of guru and novice in arly Śaiva initiation ritual  
-			+ Initiation in the Pāśupata tradition 
-
-		+ The Dakṣiṇāmūrti  
-			+ The definition of god’s figure of grace 
-
-		+ The Dakṣiṇāmūrti and iconography  
-			+ The development of a cult concept into an iconic image 
-			+ A Dakṣiṇāmūrti on a crossbar found in Nagarī  
-				+ Dakṣa’s sacrifice and his instruction in the Pāśupata vrata 
-
-
-
-	+ 27 Thanesar, the Pāśupata Order and the Skandapurāṇa: Studies in the Skandapurāṇa IX  
-		+ The tradition of the four pupils of Lāguḍi  
-			+ Lāguḍi 
-			+ The Kuru lineage 
-			+ Rāśi ascetics and ‘His own doctrine’ 
-
-		+ The Skandapurāna and the Pāśupata movement  
-			+ Vārāṇasī 
-			+ The Māhātmya of Sthāneśvara 
-			+ Bāṇa’s relationship with Dadhīca, the founder of Sthāneśvara 
-
-		+ The Skandapurāṇa reaches Nepal  
-			+ Matrimonial alliances and the spread of culture 
-
-
-	+ 28 The Gospel of Kauṇḍinya: The descent of God in Gujarat and the practice of imitating God  
-		+ Kauṇḍinya’s Pañcārthabhāṣya  
-			+ Kuśika and the divine revelation 
-			+ The power of the word 
-
-		+ The Pāśupata praxis  
-			+ The imitatio dei 
-			+ The seeking of dishonour 
-			+ Fools through the ages 
-
-		+ Kauṇḍinya’s eschatology 
-		+ Modern forms of Hindu devotion 
-		+ Epilogue 
-
-	+ 29 Origin and Spread of the Pāśupata Movement: About Heracles, Lakulīśa and symbols of masculinity  
-		+ Lāguḍi  
-			+ Early images of a club bearing ascetic or teacher 
-			+ The laguḍa a or club 
-			+ The origin of the Pāśupata movement 
-
-		+ The four disciples  
-			+ Spread and ramification of the Pāśupata movement 
-			+ The route along which the Pāśupata religion moved north 
-
-		+ The Origin of a pan-Indian religion 
-
-	+ 30 The Quest for the Pāśupata Weapon: The gateway of the Mahādeva Temple at Madhyamikā \(Nagarī\) \(Together with Peter Bisschop\)  
-		+ Introduction 
-		+ The History of the Nagarī site  
-			+ Inscriptions and coins 
-			+ Archaeology 
-
-		+ The Toraṇa of the Mahādeva Temple  
-			+ The eastern face \(E\) of the gateway architrave 
-			+ The western face\(W\)of the gateway architrave 
-			+ The Pāśupata weapon 
-
-		+ Concluding observations 
-
-	+ 31 Composition and Spread of the Skandapurāṇa An artist’s impression 
-
-+ References and Index  
-	+ List of figures 
-	+ List of plates 
-	+ Bibliography 
-	+ Index 
-
-
-
-*
 
 
 
