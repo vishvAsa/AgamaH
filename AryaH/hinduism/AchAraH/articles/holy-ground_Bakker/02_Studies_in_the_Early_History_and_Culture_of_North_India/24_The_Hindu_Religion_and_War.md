@@ -265,9 +265,7 @@ daśamī, Dasarā\), in which the ‘Invincible Goddess’ \(Aparājitā\) was w
 
 and the king’s arms, his soldiers, horses and elephants were purified before they took to the field. 17 The festival preceding this lustration of arms, the Navarātra, is dedicated to Durgā, who became also the Hindu goddess of war̥ 18
 
-When Vākpatirāja \(first half of eighth century ad\) in his Gaüd
-
-. avaha \(vv. 285–
+When Vākpatirāja \(first half of eighth century ad\) in his Gaüḍavaha \(vv. 285–
 
 338\) describes the worship of Durgā by his hero, Yaśovarman of Kanauj, before
 

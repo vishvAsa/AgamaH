@@ -489,9 +489,7 @@ ubhayaṁnirdideśāsau pituh. puṇyāya puṇyadhīr k 12 k
 
 iti
 
-8 Śārdūlavikrīd
-
-. ita
+8 Śārdūlavikrīḍita
 
 9–12 Śloka \(11c na vipulā\)
 

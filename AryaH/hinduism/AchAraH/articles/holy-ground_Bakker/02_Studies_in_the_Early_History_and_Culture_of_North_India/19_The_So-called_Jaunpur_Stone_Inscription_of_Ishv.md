@@ -59,9 +59,7 @@ Figure 10
 
 The Maukharis of Kanauj
 
-4 That a line could contain slightly more syllables than 91 emerges from ‘scroll-work to fill up the line’ that follows the punctuation mark that concludes the Śārdūlavikrīd
-
-. ita
+4 That a line could contain slightly more syllables than 91 emerges from ‘scroll-work to fill up the line’ that follows the punctuation mark that concludes the Śārdūlavikrīḍita
 
 verse \(CII III \(1888\), 229 ṇ 7\). 
 
@@ -177,9 +175,7 @@ k 3 k 10
 
 8 ‘Stone built in as one of the lower voussoirs of the outer arch of the south gate of the Jâmi Masjid at Jaunpur̥’ \(CII III \(1888\), Plate xxxii\). 
 
-9 Metre: Śārdūlavikrīd
-
-. ita. 
+9 Metre: Śārdūlavikrīḍita. 
 
 10 Metre: Mālinī. 
 
@@ -469,35 +465,21 @@ vyāpteṣ¯utkhātakhaḍgadyutikhacitabhujeṣv andhrasenābhaṭeṣu |
 
 k 11 k 18
 
-11 Metre: Śārdūlavikrīd
+11 Metre: Śārdūlavikrīḍita. 
 
-. ita. 
-
-12 Metre: Śārdūlavikrīd
-
-. ita. 
+12 Metre: Śārdūlavikrīḍita. 
 
 13 Metre: Svāgatā. 
 
-14 Metre: Śārdūlavikrīd
+14 Metre: Śārdūlavikrīḍita. 
 
-. ita. 
+15 Metre: Śārdūlavikrīḍita. 
 
-15 Metre: Śārdūlavikrīd
+16 Metre: Śārdūlavikrīḍita. 
 
-. ita. 
+17 Metre: Śārdūlavikrīḍita. 
 
-16 Metre: Śārdūlavikrīd
-
-. ita. 
-
-17 Metre: Śārdūlavikrīd
-
-. ita. 
-
-18 Metre: Śārdūlavikrīd
-
-. ita. 
+18 Metre: Śārdūlavikrīḍita. 
 
 
 
@@ -579,13 +561,9 @@ Translation and annotation
 
 hHarivarmani who by innate martial power \( kṣatra\), fully accomplished, hwieldedi the bow of the Self-born \(?\) with his own two arms, . . . 
 
-19 Metre: Śārdūlavikrīd
+19 Metre: Śārdūlavikrīḍita. 
 
-. ita. 
-
-20 Metre: Śārdūlavikrīd
-
-. ita. 
+20 Metre: Śārdūlavikrīḍita. 
 
 21 The first two ma ˙
 
@@ -721,9 +699,7 @@ vyāvalganniyutātisaṁkhyaturagān bha ˙
 
 nktvā raṇe sūlikān |
 
-kr̥ tvā cāyatim\( o\) citasthalabhuvo gaud
-
-. ān samudrāśrayān, 
+kr̥ tvā cāyatim\( o\) citasthalabhuvo gauḍān samudrāśrayān, 
 
 adhyāsiṣṭa natakṣitīśacaraṇah. siṁhāsanaṁyo jitī k 13 k
 
@@ -731,11 +707,7 @@ adhyāsiṣṭa natakṣitīśacaraṇah. siṁhāsanaṁyo jitī k 13 k
 
 Iśānavarman\] is victorious, he who has ascended the lion throne, his feet bowed to by the rulers of the earth, after having vanquished the sovereign of Andhra of whom the elephants, counted by the thousands, were passing triple fluid \(scil., temple-must secretion, urine and faeces, due to excitement\), after having routed in battle the Sū-
 
-likas and their galloping arrays of innumerable horses, and after having made the Gaud
-
-. as, driven from their territory by \(his\) might, take refuge at the oceaṇ \(13\) 27 Sircar 1964, 130 is right when he notes that, ‘The word dhārā  commonly means khad
-
-. gāder
+likas and their galloping arrays of innumerable horses, and after having made the Gauḍas, driven from their territory by \(his\) might, take refuge at the oceaṇ \(13\) 27 Sircar 1964, 130 is right when he notes that, ‘The word dhārā  commonly means khaḍgāder
 
 niśitamukham \(Medinīkoṣa\), so that the passage dhārāmārgavinirgatāgnikaṇikā  means
 
@@ -747,9 +719,7 @@ problematic. For dhārā  in the sense of ‘rim of an \(iron\) wheel’ see Rag
 
 To go by its name it may have been a hill along the Revā \(= Narmadā\) River̥ A hill
 
-of this name is mentioned in the Junāgad
-
-. h Rock Inscription of Skandagupta. Fleet
+of this name is mentioned in the Junāgaḍh Rock Inscription of Skandagupta. Fleet
 
 identifies this Raivataka with the hill ‘opposite to Ûrjayat or Girnâr’ in Kathiawar, Gujarat \( CII III \(1888\), 64 ṇ 1\). 
 

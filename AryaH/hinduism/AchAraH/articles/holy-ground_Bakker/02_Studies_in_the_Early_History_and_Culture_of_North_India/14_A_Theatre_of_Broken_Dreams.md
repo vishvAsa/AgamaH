@@ -419,9 +419,7 @@ in Vidiśā. Again it must be noted that there might have been viceroys during h
 
 in favour and against this interpretation see also Raven 1994a I, 41–44. Though the Apratigha coins were issued after the death of Candragupta, his image on the coins served the imperial propaganda by proclaiming that the young prince was elected by his father \(and mother\) himself. When studying this type of coin in the collection of the British Museum \(Allan 1914, No. 257\), I noticed that the male figure to Kumāra’s right, 
 
-presumably his father King Candragupta, with a gesture of his right hand shows him the Garud
-
-. a standard; the female figure to the left, his mother, in a similar hand gesture shows a small, indistinct object between thumb and index-finger, which I think could be a signet-ring \(Plate 46\). Cf. Raven 2004–05. 83; below, ṇ 36 on p. 316. 
+presumably his father King Candragupta, with a gesture of his right hand shows him the Garuḍa standard; the female figure to the left, his mother, in a similar hand gesture shows a small, indistinct object between thumb and index-finger, which I think could be a signet-ring \(Plate 46\). Cf. Raven 2004–05. 83; below, ṇ 36 on p. 316. 
 
 
 
@@ -783,9 +781,7 @@ for a decade and may have intensified after the death of Kumāragupta when
 
 Skandagupta’s fortunes reached rock bottom \( viplutāṁvaṁśalakṣmīm\),32 but
 
-the end was a total defeat of Vidiśā. Skandagupta’s Junagad
-
-. h Rock Inscrip-
+the end was a total defeat of Vidiśā. Skandagupta’s Junagaḍh Rock Inscrip-
 
 tion contains a verse in which Skandagupta boasts about how ‘he was for ever triumphant, \(when\) he took the antidotal herb, namely the Garuḍa/imperial command, to fight against the Serpent Kings \(i.e. the Nāgas\) whose hoods
 
@@ -793,9 +789,7 @@ were uplifted in pride and arrogance’. 33 and the Kevala–Narasiṁha Temple
 
 Inscription reports the death of Ghaṭotkaca. 
 
-30 P.L. Gupta 1946, 316: ‘The Leningrad Museum \[possesses a coin\] with the king on the obverse \(nimbate, standing to left, holding bow in left hand and arrow in the right\), Garud
-
-. a standard is on the right of the king; beneath the left arm is inscribed Ghaṭo with a crescent above. It bears traces of marginal legend ending in \( gu\) pta\( ḥ \). On the
+30 P.L. Gupta 1946, 316: ‘The Leningrad Museum \[possesses a coin\] with the king on the obverse \(nimbate, standing to left, holding bow in left hand and arrow in the right\), Garuḍa standard is on the right of the king; beneath the left arm is inscribed Ghaṭo with a crescent above. It bears traces of marginal legend ending in \( gu\) pta\( ḥ \). On the
 
 reverse of the coin is the Goddess \(holding lotus in left hand and pāśa \(fillet\) in out-
 

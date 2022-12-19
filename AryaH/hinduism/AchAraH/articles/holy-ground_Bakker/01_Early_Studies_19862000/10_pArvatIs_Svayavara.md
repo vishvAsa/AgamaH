@@ -13,9 +13,7 @@ The oldest document on which this edition is based is a Nepalese palm-leaf manus
 
 . a
 
-\(further referred to as SP\) that does not yet consist of khaṇd
-
-. as. Of this text
+\(further referred to as SP\) that does not yet consist of khaṇḍas. Of this text
 
 three recensions are knowṇ The oldest recension is the one found in three \(incomplete\) Nepalese palm-leaf mss \(our sigla S , S , S , jointly S\).2 A later 1
 
@@ -23,11 +21,7 @@ three recensions are knowṇ The oldest recension is the one found in three \(in
 
 3
 
-recension is found in a ms that in its colophon calls itself the Revākhaṇḍa of the Skandapurāṇa \(our siglum R\), but that is entirely different from the printed Revākhaṇd
-
-. a. 3 The third and probably latest recension is found in mss that in their colophons style themselves as the Ambikākhaṇd
-
-. a of the Skandapurāṇa. 
+recension is found in a ms that in its colophon calls itself the Revākhaṇḍa of the Skandapurāṇa \(our siglum R\), but that is entirely different from the printed Revākhaṇḍa. 3 The third and probably latest recension is found in mss that in their colophons style themselves as the Ambikākhaṇḍa of the Skandapurāṇa. 
 
 Of these we have collected to date four manuscripts \(our sigla A , A , A and 1
 
@@ -79,9 +73,7 @@ in SP I.
 
 The myth of the wedding of Śiva and Pārvatī is well known to Indologists
 
-from many Sanskrit texts as well as from numerous works of arṭ 7 It is all the more suprising that the version of this myth that occurs in the printed texts of the Brahmapurāṇa \(abbreviated as BrP; in the critical apparatus siglum Bpur\), Liṅgapurāṇa \(abbreviated as LiP\) and the Māheśvarakhaṇd
-
-. a of the vulgate
+from many Sanskrit texts as well as from numerous works of arṭ 7 It is all the more suprising that the version of this myth that occurs in the printed texts of the Brahmapurāṇa \(abbreviated as BrP; in the critical apparatus siglum Bpur\), Liṅgapurāṇa \(abbreviated as LiP\) and the Māheśvarakhaṇḍa of the vulgate
 
 Skandapurāṇa \(abbreviated as MKh; in the critical apparatus siglum Mkh\), in which Pārvatī is allowed to choose her husband in a svayaṁvara, has attracted
 
@@ -343,9 +335,7 @@ is\) the first issue of the sacrifice, the ‘fore-portion’, or, in the words 
 
 becomes clear: ‘Prajāpati once emitted the sacrifice; he emitted seed by installing the sacrificial fire’ \( prajāpatir ha yajñaṁsasr̥ je | 7 | so ’gnyādheyenaiva reto ’sr̥jata | 8 |\). 
 
-20 PPL pp. 121–127, i.e. Vāyupurāṇa 27 and Brahmāṇd
-
-. apurāṇa 1.10. Cf. SP 4.1–21. 
+20 PPL pp. 121–127, i.e. Vāyupurāṇa 27 and Brahmāṇḍapurāṇa 1.10. Cf. SP 4.1–21. 
 
 
 
@@ -437,9 +427,7 @@ no choice but to recognize Śiva’s superiority and to accept that he is Pārva
 
 choice. In this way the Śaiva cosmic order proved to be superior to the ancient world represented by the Vedic gods. The latter were crippled and, to bring out the contrast—and this distinguishes the epic and puranic versions from those of the Brāhmaṇas—this was effected by the supreme lord in the form of a newly born child. 
 
-The Brahmapurāṇa, Liṅgapurāṇa and Māheśvarakhaṇd
-
-. a tell basically the
+The Brahmapurāṇa, Liṅgapurāṇa and Māheśvarakhaṇḍa tell basically the
 
 same myth as SP 13. In the Brahmapurāṇa the svayaṁvara  episode forms part
 
@@ -463,17 +451,11 @@ SP the ‘original’. The borrowed chapters in the Brahmapurāṇa, viz. 34.56 
 
 The situation is somewhat different in the case of the Liṅgapurāṇa and
 
-Māheśvarakhaṇd
-
-. a. These two texts show a greater distance to the SP, having numerous ommisions, additions and transpositions, whereas they are marred by textual corruptions, due to which the story has become more difficult to follow, especially in the Māheśvarakhaṇd
-
-. a. A comparison with the SP may
+Māheśvarakhaṇḍa. These two texts show a greater distance to the SP, having numerous ommisions, additions and transpositions, whereas they are marred by textual corruptions, due to which the story has become more difficult to follow, especially in the Māheśvarakhaṇḍa. A comparison with the SP may
 
 help to restore its meaning. It ensues from a collation that the Liṅgapurāṇa
 
-is closer to the SP and that the text of the Māheśvarakhaṇd
-
-. a goes back to an
+is closer to the SP and that the text of the Māheśvarakhaṇḍa goes back to an
 
 original that must have been related to the text as found in the Liṅgapurāṇa. 
 
@@ -495,9 +477,7 @@ While I was preparing this article for the press, it was brought to my notice th
 
 script in the Jammu & Kashmir Government Research Library \(Srinagar, Ms. No. 1346\), the title of which is written as ā. pu, taken to mean ādipurāṇa. On the cover of this
 
-fragment the title Mārtāṇd
-
-. amāhātmya has been written in another hand. The frag-
+fragment the title Mārtāṇḍamāhātmya has been written in another hand. The frag-
 
 ment itself is without colophoṇ The text has been edited by Yasuke Ikari & Takao Hayashi \(1994\), who also give a concordance with the corresponding passages in the Kr̥tyakalpataru and Kr̥tyaratnākara where the text is quoted as Brahmapurāṇa. The same fragment corresponds partly with the text of the Nīlamatapurāṇa. 
 
@@ -521,15 +501,11 @@ above, ṇ 5 on p. 185\), though it should be taken into account that for the pa
 
 . a
 
-and the Māheśvarakhaṇd
-
-. a of the Veṅkaṭeśvara \(and Vaṅgavāsī\) Press editions
+and the Māheśvarakhaṇḍa of the Veṅkaṭeśvara \(and Vaṅgavāsī\) Press editions
 
 has been adapted to the SP and this already yields a slight improvement of the story line. 26 Significant variant readings of the Vaṅgavāsī editions of the
 
-Liṅgapurāṇa and Māheśvarakhaṇd
-
-. a have been either accepted in the text or
+Liṅgapurāṇa and Māheśvarakhaṇḍa have been either accepted in the text or
 
 presented in the apparatus. 27
 
@@ -583,13 +559,9 @@ is the object of veneration in verse 63, directly after Brahmā’s discovery in
 
 verse 62. The conclusion seems inevitable that v. 59 as a whole is corrupt beyond reliable restoration and a wavy line under the entire verse in the edition would not have been superfluous. The \(later\) Liṅgapurāṇa and Māheśvara-
 
-khaṇd
+khaṇḍa have replaced the \(probably\) original feature of ‘Umā’s trial’ by the
 
-. a have replaced the \(probably\) original feature of ‘Umā’s trial’ by the
-
-traditional platitude that it is just Śiva’s game \( krīd
-
-. ārtham, LiP 1.102.28d, 
+traditional platitude that it is just Śiva’s game \( krīḍārtham, LiP 1.102.28d, 
 
 MKh 2.25.100d\). 
 
@@ -599,9 +571,7 @@ lack an obvious antecedent \(SP reads devyā\). The two pādas  MKh 101cd make
 
 the impression of an interpolation, the connection of which with the immediate context is difficult to determine. The relevance of the word jaya  is obscure and may point to another context, perhaps the exegetical tradition concerning the famous verse that opens the Mahābhārata and, for instance, the Māheśvara-
 
-khaṇd
-
-. a. 29
+khaṇḍa. 29
 
 In SP 34–38 \(BrP 36.33–36ab\), LiP 31–39 and MKh 104–110 \(missing in MBh\) the theme of the mutilation of the gods is worked out, adding to the immobilized Indra other victims such as Bhaga \(not in LiP\) and Pūṣan \(not
 
@@ -609,9 +579,7 @@ in BrP\), known as such already from the Brāhmaṇa literature. A very striking
 
 elaboration is presented in SP 36, which is without parallel in the Māheśvara-
 
-khaṇd
-
-. a and significantly different in Liṅgapurāṇa, whereas BrP \(36.36cd\) has
+khaṇḍa and significantly different in Liṅgapurāṇa, whereas BrP \(36.36cd\) has
 
 omitted the second remarkable hemistich \(SP 36cd\). The deluded Viṣṇu angrily shakes his head, whereupon Śiva makes his hair fall ouṭ I have not succeeded in finding any reference to Viṣṇu’s baldness in Sanskrit literature and we may have here an idiosyncrasy of the ancient Skandapurāṇa texṭ 30 That this ex-
 
@@ -631,9 +599,7 @@ Hans Bakker
 
 treme Saivism was hard to swallow for later redactors of the text may follow not only from the adaptation in the Liṅgapurāṇa, where Viṣṇu’s head is immo-
 
-bilized instead of made bald, and the omission of this verse or half of it in the Māheśvarakhaṇd
-
-. a and in the Brahmapurāṇa, but also from the interpolations
+bilized instead of made bald, and the omission of this verse or half of it in the Māheśvarakhaṇḍa and in the Brahmapurāṇa, but also from the interpolations
 
 in the R and A recensions of SP ad  39ab \(only in R\) and ad  50cd, 31 in which Viṣṇu’s role is mitigated when it is said, that Nārāyaṇa has known from the start that it was Śiva who fooled the gods. 32
 
@@ -647,11 +613,7 @@ The next passage, SP 46–47 \(BrP 36.44cd–45\) and LiP 48–49, has also been
 
 and LiP 48, in which Brahmā turns to the gods, has been omitted, as a re-
 
-sult of which the text has become unintelligible as it is no longer clear who are addressed. The corruption may have had its starting point, however, in the alternative sandhi mūd
-
-. hā stha  for mūd
-
-. hāḥ stha \(SP 13.47a\), which we find
+sult of which the text has become unintelligible as it is no longer clear who are addressed. The corruption may have had its starting point, however, in the alternative sandhi mūḍhā stha  for mūḍhāḥ stha \(SP 13.47a\), which we find
 
 in the SP manuscript S and the Veṅkat
 
@@ -659,13 +621,9 @@ in the SP manuscript S and the Veṅkat
 
 .eśvara edition of Liṅgapurāṇa. Al-
 
-though Kātyāyana ad  Pāṇini 8.3.36 allows the elision of the final s  before a sibilant followed by a voiceless occlusive and this practice is found regularly in manuscripts, 33 the loss of the hiatus between mūd
+though Kātyāyana ad  Pāṇini 8.3.36 allows the elision of the final s  before a sibilant followed by a voiceless occlusive and this practice is found regularly in manuscripts, 33 the loss of the hiatus between mūḍhā  and stha  in handwriting
 
-. hā  and stha  in handwriting
-
-\(reflected in the Veṅkaṭeśvara edition of the Liṅgapurāṇa\) may have caused that the verbal second plural indicative \(‘you are fools’\) was no longer understood, which gave rise to the nominal mūd
-
-. hās tu \(A , A \) and mūd
+\(reflected in the Veṅkaṭeśvara edition of the Liṅgapurāṇa\) may have caused that the verbal second plural indicative \(‘you are fools’\) was no longer understood, which gave rise to the nominal mūḍhās tu \(A , A \) and mūd
 
 1
 
@@ -717,9 +675,7 @@ vadeva. This revelation of the child’s eightfold nature has become lost in the
 
 and MKh 100d should probably be viewed in the same lighṭ At the instance of Brahmā the still petrified gods turn their minds towards Śarva \( praṇemur
 
-manasā śarvaṁ, 34 whereas a minor textual inconsequence in the MKh permits them to bow \( praṇatāḥ \) at that as well \(MKh 115ab\). The Māheśvarakhaṇd
-
-. a
+manasā śarvaṁ, 34 whereas a minor textual inconsequence in the MKh permits them to bow \( praṇatāḥ \) at that as well \(MKh 115ab\). The Māheśvarakhaṇḍa
 
 then inserts a stotra, in which the gods apologize for their behaviour \(MKh 115cd–121ab\), which does not occur in the other versions and therefore may be considered an accretioṇ 
 
@@ -739,9 +695,7 @@ own city where they forget about the svayaṁvara, a fate that, unfortunately,
 
 did not remain restricted to that city and its inhabitants. 
 
-In the following verses the great god drops his disguise and manifests himself in his supreme body \( vapus\), which can only be seen by the gods after having received a supreme eye. It is noteworthy that according to the Liṅgapurāṇa and Māheśvarakhaṇd
-
-. a versions also the Goddess \(Bhavānī\) needs such
+In the following verses the great god drops his disguise and manifests himself in his supreme body \( vapus\), which can only be seen by the gods after having received a supreme eye. It is noteworthy that according to the Liṅgapurāṇa and Māheśvarakhaṇḍa versions also the Goddess \(Bhavānī\) needs such
 
 an eye, 35 whereas in SP 13.54 \(BrP 36.50cd–51ab\)—consistent with SP 13.30
 
@@ -757,9 +711,7 @@ an eye, 35 whereas in SP 13.54 \(BrP 36.50cd–51ab\)—consistent with SP 13.30
 
 Hans Bakker
 
-khaṇd
-
-. a versions as well, when in these two texts ‘Brahmā and so forth’ are
+khaṇḍa versions as well, when in these two texts ‘Brahmā and so forth’ are
 
 said to bow before Śiva as well as before the Goddess. 36
 
@@ -777,29 +729,21 @@ devyā\). 37
 
 In a nutshell, the reformulation and elaboration of the final verses in LiP
 
-and Māheśvarakhaṇd
-
-. a is rather unfortunate and illustrates once more the value of the critically edited Skandapurāṇa \(SP\) for the understanding of these two
+and Māheśvarakhaṇḍa is rather unfortunate and illustrates once more the value of the critically edited Skandapurāṇa \(SP\) for the understanding of these two
 
 vulgate Purāṇa texts. 
 
 Conclusion
 
-Summarizing, we may say that the corruptions and elaborations in the second part of the text which is without counterpart in the MBh confirm the tentative conclusion reached above, viz. that the Māheśvarakhaṇd
-
-. a represents a later
+Summarizing, we may say that the corruptions and elaborations in the second part of the text which is without counterpart in the MBh confirm the tentative conclusion reached above, viz. that the Māheśvarakhaṇḍa represents a later
 
 version of the myth as told in LiP, whereas the wording of the latter deviates again from the text as preserved in the ancient Skandapurāṇa, without
 
 improving upon it, however, in any respecṭ On the contrary, the collation clearly shows that the corresponding text portions of the Liṅgapurāṇa and
 
-Māheśvarakhaṇd
+Māheśvarakhaṇḍa successively derived from an archetype that represented a corrupted version of SP. The Brahmapurāṇa version of the myth is an inde-
 
-. a successively derived from an archetype that represented a corrupted version of SP. The Brahmapurāṇa version of the myth is an inde-
-
-pendent copy of the SP text, which does not seem to have a direct connection with the archetype from which the Liṅgapurāṇa and Māheśvarakhaṇd
-
-. a derived. 
+pendent copy of the SP text, which does not seem to have a direct connection with the archetype from which the Liṅgapurāṇa and Māheśvarakhaṇḍa derived. 
 
 Corruptions and omissions show the dependency of the Brahmapurāṇa on SP
 
@@ -809,9 +753,7 @@ awkwardness\). LiP 61c has preserved the no doubt correct reading hr̥ ṣṭā 
 
 while MKh reads dr̥ ṣṭvā \(134c\), echoing the mistaken conception underlying LiP and MKh, viz. that the Goddess has only just now, after receipt of a supreme eye, seen her future spouse. 
 
-37 The commentary of Gaṇeśa Nātu is equally ambiguous on this point, although it seems most natural to me that he construes saha devyā  with the subjecṭ The daṇd
-
-. a  after
+37 The commentary of Gaṇeśa Nātu is equally ambiguous on this point, although it seems most natural to me that he construes saha devyā  with the subjecṭ The daṇḍa  after
 
 śirobhiḥ  is misplaced anyway. 
 
@@ -823,9 +765,7 @@ while MKh reads dr̥ ṣṭvā \(134c\), echoing the mistaken conception underly
 
 and not vice versa. The textual distortions that the Brahmapurāṇa has in
 
-common with the Liṅgapurāṇa and Māheśvarakhaṇd
-
-. a, notably in the passages
+common with the Liṅgapurāṇa and Māheśvarakhaṇḍa, notably in the passages
 
 SP 35–38 and SP 48–49, seem to point to a slightly altered version of the S
 

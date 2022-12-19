@@ -177,9 +177,7 @@ kommeṇ
 
 21 The comprehensive catalogue of ancient mss in the National Archives \(Nepal\) \(Br̥hatsūcīpatram\) vol. 8 ‘Purāṇa and Itihāsa’ lists ṣv. ‘Skandapurāṇa’ an incomplete palmleaf
 
-ms of 700 verses \(or should we read 7000?\) comprising 229 folios, which is not assigned to any particular Saṁhitā or Khaṇd
-
-. a. It is written in ‘Licchavī’ characters and may
+ms of 700 verses \(or should we read 7000?\) comprising 229 folios, which is not assigned to any particular Saṁhitā or Khaṇḍa. It is written in ‘Licchavī’ characters and may
 
 hence date from before ad 1000 \(information kindly provided by Prof. Dr̥ M. Witzel\). 
 
@@ -191,41 +189,25 @@ indexed in the same catalogue prove all the more that from an early date it had 
 
 9 / Some Methodological Considerations 181
 
-Garud
-
-. apurāṇa. 22 The texts, or so-called ‘final redactions’, which we are in the habit of referring to as the ‘so-and-so-purāṇa’ more often than not have
+Garuḍapurāṇa. 22 The texts, or so-called ‘final redactions’, which we are in the habit of referring to as the ‘so-and-so-purāṇa’ more often than not have
 
 come into existence only after they rolled off the Veṅkateśvara, Vaṅgavāsī, or
 
 other 19th and early 20th century presses of India. Even if mss of ‘complete’
 
-Purāṇas exist, these are often to be considered as conflated products. How should we proceed when we want to produce a critical edition of such elusive material? This question was posed by Bonazzoli in an article in 1983 and a brave solution was proposed in a sample-edition of the Garud
-
-. apurāṇa, handed
+Purāṇas exist, these are often to be considered as conflated products. How should we proceed when we want to produce a critical edition of such elusive material? This question was posed by Bonazzoli in an article in 1983 and a brave solution was proposed in a sample-edition of the Garuḍapurāṇa, handed
 
 out and discussed at the Sixth World Sanskrit Conference in Philadelphia October 1984. 23
 
-Alas, apart from problems of lay-out, which are considerable, I think the proposed procedure is unsatisfactory, since no text edited in this new way can lay any claim to authenticity. In fact it is a new creation which could be best designated as a vulgate, and of vulgate editions we have already enough. It is a ‘ collectio lectionum’ \( op. ciṭ  2\), which, in itself, is of course a useful thing, but it is of doubtful value for historical research. It takes as the standard text the readings ‘that have been accepted by the majority of the mss and editions \( op. ciṭ  4\) and presents the variant-readings in sub-lines, on the parallel page, and in a critical apparatus. The decision to abandon the concept of the ‘original’ text is to be welcomed, yet the replacement of a pedigree as the guiding principle by only a single rule, viz. that of the lectio plurium codicum potior, might lead to a phenomenon that the connoisseurs of football may know: the world-team composed of the best players of the globe looks respectable and trustworthy, yet it fails to do the trick, due to the incompatibility of its members. Besides, how can we determine what should still be included? Is there a minimum of mss required for a text-portion to be accepted or will every ms that in its colophon claims to belong to the Garud
-
-. purāṇa be taken into account? 
+Alas, apart from problems of lay-out, which are considerable, I think the proposed procedure is unsatisfactory, since no text edited in this new way can lay any claim to authenticity. In fact it is a new creation which could be best designated as a vulgate, and of vulgate editions we have already enough. It is a ‘ collectio lectionum’ \( op. ciṭ  2\), which, in itself, is of course a useful thing, but it is of doubtful value for historical research. It takes as the standard text the readings ‘that have been accepted by the majority of the mss and editions \( op. ciṭ  4\) and presents the variant-readings in sub-lines, on the parallel page, and in a critical apparatus. The decision to abandon the concept of the ‘original’ text is to be welcomed, yet the replacement of a pedigree as the guiding principle by only a single rule, viz. that of the lectio plurium codicum potior, might lead to a phenomenon that the connoisseurs of football may know: the world-team composed of the best players of the globe looks respectable and trustworthy, yet it fails to do the trick, due to the incompatibility of its members. Besides, how can we determine what should still be included? Is there a minimum of mss required for a text-portion to be accepted or will every ms that in its colophon claims to belong to the Garuḍpurāṇa be taken into account? 
 
 It is my conviction that as long as critical editions of puranic literature aim at presenting such artificial compilations as ‘complete Purāṇas’ the results will
 
-remain arbitrary. For reasons just mentioned, in the majority of cases reconstruction of an archetypal version is out of the question, 24 compilatory editions as now proposed by Bonazzoli seem inadequate to the demands of historical \(e.g. Ambikākhaṇd
-
-. a, Utkalakhaṇd
-
-. a, Kāśīkhaṇd
-
-. a, Kedārakhaṇd
-
-. a\), whereas evidently no
+remain arbitrary. For reasons just mentioned, in the majority of cases reconstruction of an archetypal version is out of the question, 24 compilatory editions as now proposed by Bonazzoli seem inadequate to the demands of historical \(e.g. Ambikākhaṇḍa, Utkalakhaṇḍa, Kāśīkhaṇḍa, Kedārakhaṇḍa\), whereas evidently no
 
 attempt was made to compile or transcribe a ‘complete’ Skandapurāṇa comprising all
 
-\(i.e. more than one\) parts \( khaṇd
-
-. as/ saṁhitās\) \(cf. Aufrecht, Catalogus Catalogorum
+\(i.e. more than one\) parts \( khaṇḍas/ saṁhitās\) \(cf. Aufrecht, Catalogus Catalogorum
 
 ṣv.\). 
 
@@ -265,13 +247,9 @@ To illustrate the proposal I may adduce my investigation into the history of the
 
 was the Ayodhyāmāhātmya \(AM\) as it occurs in the Vaiṣṇavakhaṇḍa of the Skandapurāṇa. 
 
-A collation of all available ms material that was somehow related to the AM, among which were texts bearing other titles such as Kośalakhaṇd
+A collation of all available ms material that was somehow related to the AM, among which were texts bearing other titles such as Kośalakhaṇḍa or Ayodhyā-
 
-. a or Ayodhyā-
-
-khaṇd
-
-. a, yielded three different text-groups as well as an epitome. 26 First there is the recension that is found in the printed Skandapurāṇa and that is secured
+khaṇḍa, yielded three different text-groups as well as an epitome. 26 First there is the recension that is found in the printed Skandapurāṇa and that is secured
 
 by Dharmanibandha testimony \(the ‘Vaiṣṇavakhaṇḍa recension’\). Then there is a second recension that extends the text-material and re-composes iṭ In the colophon of some of its mss it claims to belong to the Rudrayāmala, probably the most chimeric of all anonymous literature. 27 The third group contains longer and shorter versions, both having only very few ślokas  in common with
 
@@ -319,15 +297,11 @@ have had access to this pool and have given it definite form. 30
 
 If, as may well be assumed, the three other regional Māhātmyas contained in
 
-the Vaiṣṇavakhaṇḍa appear just as accurate and detailed descriptions of local circumstances as the AM proved to be, it seems impossible that the composer of the khaṇd
-
-. a  himself created the texts. He might, however, have done the same as the editor of the modern Tīrthāṅk, viz. solliciting local communities
+the Vaiṣṇavakhaṇḍa appear just as accurate and detailed descriptions of local circumstances as the AM proved to be, it seems impossible that the composer of the khaṇḍa  himself created the texts. He might, however, have done the same as the editor of the modern Tīrthāṅk, viz. solliciting local communities
 
 to provide him with the basic materials. 31 Presumably the local tradition did not breakdown after it had issued its first acknowledged Smr̥ti product, but continued to generate text-materials which finally resulted in a new composition at the time the Vaiṣṇavakhaṇḍa recension was felt to be antiquated. Thus the second recension came into being, too late to find recognition in the traditional Smr̥ti literature. It was hoped that the assignment to the Rudrayāmala would do. 
 
-The given scheme of text-evolution confirms the well-known fact that the contents of the components of puranic texts may be considerably older than the respective khaṇd
-
-. as  or Purāṇas in which they are included. These embry-
+The given scheme of text-evolution confirms the well-known fact that the contents of the components of puranic texts may be considerably older than the respective khaṇḍas  or Purāṇas in which they are included. These embry-
 
 onic components may have evolved and been transmitted in local or religious communities, in the form of a pool of text-materials that we have called ‘ -
 

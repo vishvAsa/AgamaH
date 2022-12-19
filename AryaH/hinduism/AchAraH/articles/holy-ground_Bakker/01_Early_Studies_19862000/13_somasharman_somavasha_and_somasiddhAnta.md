@@ -113,9 +113,7 @@ for a critical edition of the Niśvāsamukha.
 
 yottaratantra 5.28–29\) speaks of only eight deities \( īśvarāṣṭa\) in the Māyātattva that
 
-form a maṇd
-
-. ala  of the size of a thumb, the first one of them being Mahādeva. Mata ˙
+form a maṇḍala  of the size of a thumb, the first one of them being Mahādeva. Mata ˙
 
 nga
 
@@ -189,11 +187,7 @@ samākhyātā nānābhuvanavāsinaḥ  k \(SvT I, 16\).
 
 12 One wonders whether these ritual acts are subsumed under the six forms of worship specified in the Pāśupatasūtra \(PS\) 1.8: laughter, song, dance, bellowing, mak-
 
-ing obeisance, and muttering \(PS 1.8: hasitagītanr̥ ttad
-
-. uṁd
-
-. uṁkāranamaskārajapyopa-
+ing obeisance, and muttering \(PS 1.8: hasitagītanr̥ ttaḍuṁḍuṁkāranamaskārajapyopa-
 
 hāreṇopatiṣṭhet |\). 
 
@@ -357,9 +351,7 @@ I present here my edition of 2000, which gave a Sanskrit text that was slightly 
 
 Before discussing this inscription any further, I give the text of that portion of it that is relevant for the present study. This portion starts with the last word on the first plate \(second side\), line 8, and ends in line 23 on the second plate, second side. 
 
-21 For the early chronology of Dakṣiṇa Kosala, the Pāṇd
-
-. uvaṁśa dynasty of Śrīpura and
+21 For the early chronology of Dakṣiṇa Kosala, the Pāṇḍuvaṁśa dynasty of Śrīpura and
 
 the reign of Mahāśivagupta \(c. ad 590–650\) see Bakker 1994b; above, pp. 235 ff. 
 
@@ -393,9 +385,7 @@ vājasaneyaca \[**10**\] ran
 
 ∗
 
-. ād abhyarthya bhāṇd
-
-. āgāratulapadrakam
+. ād abhyarthya bhāṇḍāgāratulapadrakam
 
 on
 
@@ -453,11 +443,7 @@ udakapūrvakaṁtāmraśāsanena pratipādi \[**23**\] ta ity \[. . . \]
 
 ∗ Majumdar reads \(typo?\): bhāṇḍagāra◦. Shastri takes this as the name of two villages:
 
-‘Bhāṇd
-
-. āgāra may have been Bod
-
-. or in the same tahsil \(i.e. Mahāsamund tahsil of the Raipur
+‘Bhāṇḍāgāra may have been Boḍor in the same tahsil \(i.e. Mahāsamund tahsil of the Raipur
 
 District\), and T\(ū\)lapadraka may have been a suburb of this locality.’ Their names seem to indicate villages where cotton \( tūla\) was cultivated and stored. 
 
@@ -543,9 +529,7 @@ Rudras, which begins with Vareśvara and ends with Vaṣaṭkāra, is said to be
 
 28 See Bakker 1996, 9 ff., above, p. 197. Cf. the Śrīpūrvaśāstra \(5.28-29\), referred to by
 
-Kṣemarāja \(see above, ṇ 8 on p. 285\), which assigns eight deities \( īśvarāṣṭa\) to this reality, forming a maṇd
-
-. ala  of the size of a thumb and headed by Mahādeva, the first of
+Kṣemarāja \(see above, ṇ 8 on p. 285\), which assigns eight deities \( īśvarāṣṭa\) to this reality, forming a maṇḍala  of the size of a thumb and headed by Mahādeva, the first of
 
 the Aṣṭamūrti. 
 
@@ -553,11 +537,7 @@ the Aṣṭamūrti.
 
 30 JRY 4.449 \(edition A. Sanderson\):
 
-adhunā gūd
-
-. hanirgūd
-
-. hān pa ˙
+adhunā gūḍhanirgūḍhān pa ˙
 
 nktiyugmagatāñ śr̥ṇu |
 
@@ -683,9 +663,7 @@ The tradition recorded in the inscription seems also to have been known to the a
 
 35 Alexis Sanderson kindly provided me with the following informatioṇ The Indargarh Pāśupata stone inscription of ad 710–11 was engraved by a Mahāvratin with the name
 
-Cāmuṇd
-
-. asoma \(Journal of the Bihar Research Society 1955, 249–261\). A Mahāvratin
+Cāmuṇḍasoma \(Journal of the Bihar Research Society 1955, 249–261\). A Mahāvratin
 
 Somibhaṭṭāraka/ Sobadeva of the Kolanupākā inscription of ad 1050 is described as proficient in expounding the Somasiddhānta \(Select Epigraphs of Andhra Padesh No.4\). 
 
@@ -699,9 +677,7 @@ predecessors of this and other priests associated with the Tiruvorriyur Temple, 
 
 avratins’, were, according to the account of the Sthalapurāṇa, 
 
-‘brought from the banks of the Ganges’ \(EI XXVII, 300 ṇ 1\). See also Bakker 2014, 149 f. for ◦Soma priests belonging to the Muṇd
-
-. a–Śr̥ṅkhalika Pāśupatas serving at the
+‘brought from the banks of the Ganges’ \(EI XXVII, 300 ṇ 1\). See also Bakker 2014, 149 f. for ◦Soma priests belonging to the Muṇḍa–Śr̥ṅkhalika Pāśupatas serving at the
 
 Paśupatinātha Temple in Nepal. 
 
@@ -751,9 +727,7 @@ said to have been born in a good gotra  in the Country of the Kurus, whose name 
 
 the Mausula divisioṇ 
 
-38 Cf. Kauṇd
-
-. inya ad  Pāśupatasūtra 1.1 \(p. 3\); Hara 1967, 157 ṇ 1. 
+38 Cf. Kauṇḍinya ad  Pāśupatasūtra 1.1 \(p. 3\); Hara 1967, 157 ṇ 1. 
 
 39 SPS 167.124–127 \(edition Peter Bisschop 2006\):
 
@@ -779,9 +753,7 @@ sa tatra bhasmanātmānam avagun
 
 ulmukaṁvāmahastena gr̥ hītvā samupāviśat  k 127 k
 
-40 Cf. Kauṇd
-
-. inya ad  Pāśupatasūtra 1.1 \(p. 3 f.\). 
+40 Cf. Kauṇḍinya ad  Pāśupatasūtra 1.1 \(p. 3 f.\). 
 
 41 SPS 167.128–130:
 
@@ -791,9 +763,7 @@ jambūmārge dvitīyaṁca mathurāyāṁtato ’param  k 128 k
 
 kanyakubje tataś cānyam anugr̥ hya jagatpatiḥ |
 
-svasiddhāntaṁdadau yogam uvācedaṁca  lāgud
-
-. iḥ k 129 k
+svasiddhāntaṁdadau yogam uvācedaṁca  lāguḍiḥ k 129 k
 
 rahasyaṁparamaṁhīdaṁpañcārtha iti saṁjñitam |
 
@@ -853,9 +823,7 @@ the Śaiva ācāryas  ending in śiva  it becomes clear that the Śaiva Siddhān
 
 established in Dakṣiṇa Kosala, at least from the second half of the 6th century onwards. 
 
-The original headquarters may have been in Nandapura, a place not properly identified, but probably an administrative division within the Pāṇd
-
-. ava Kingdom. The charters of
+The original headquarters may have been in Nandapura, a place not properly identified, but probably an administrative division within the Pāṇḍava Kingdom. The charters of
 
 the Sirpur hoard and their significance for our understanding of the Bāleśvara-bhaṭṭāraka
 

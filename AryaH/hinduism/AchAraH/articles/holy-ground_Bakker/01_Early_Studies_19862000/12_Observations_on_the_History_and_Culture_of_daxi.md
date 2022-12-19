@@ -73,17 +73,13 @@ Figure 2
 
 Historical map of Mekalā and Dakṣiṇa Kosala
 
-The Pāṇd
-
-. avas of Mekalā
+The Pāṇḍavas of Mekalā
 
 This lineage of Pāṇḍavas is known from two inscriptions, both to be ascribed to the last recorded member of the dynasty, Śūrabala, alias Udīrṇavaira, dating
 
 from the 2nd and 8th years of his reigṇ 6
 
-6 Bamhanī Plates of Pāṇd
-
-. ava king Bharatabala: year 2 \(EI XXVII, 132–145; also in CII V, 82–88\). This charter, found in the village Bamhani in Shahdol District, is probably 
+6 Bamhanī Plates of Pāṇḍava king Bharatabala: year 2 \(EI XXVII, 132–145; also in CII V, 82–88\). This charter, found in the village Bamhani in Shahdol District, is probably 
 
 ![Image 20326](images/019145.png)
 
@@ -145,9 +141,7 @@ opinion, the Bamhanī Plates read the same \(cf. Mirashi in CII V, 85 f.\). The 
 
 1986 I, 6,7,9\), but it seems equally possible that the actual name of the area was Kosalā
 
-\(see EI XXXI, 221 ll. 8–9 kosalāmaṇd
-
-. ala; CII V, 81 l. 27 and VSMA 1971/72, 75 l. 22
+\(see EI XXXI, 221 ll. 8–9 kosalāmaṇḍala; CII V, 81 l. 27 and VSMA 1971/72, 75 l. 22
 
 kosalā–mekalā; however CII V, 108 l. 14 reads kosala-trikūṭa\). There is an old village
 
@@ -315,17 +309,11 @@ vyāghrarājaḥ , is stylistically very different from the inscriptions of the 
 
 17 EI XXXIV, 49: prasannapurād upavanavanarājirājitād amarapurakīrtivijayinaḥ prava-
 
-rakāminīnitambabimbābhighātabhinnāmbasā ca srotasvatyā nid
+rakāminīnitambabimbābhighātabhinnāmbasā ca srotasvatyā niḍilayā pavitrīkr̥ tād \[. . . \]
 
-. ilayā pavitrīkr̥ tād \[. . . \]
+18 Bajpai & Pandey 1977, 28 identify the Niḍilā river with ‘Līlāgar and the Pūrva-Rāṣṭra
 
-18 Bajpai & Pandey 1977, 28 identify the Nid
-
-. ilā river with ‘Līlāgar and the Pūrva-Rāṣṭra
-
-was the region across the left bank of this river’. I fail to see the specific connection between Nid
-
-. ilā \(Skṭ Niṭala/niṭāla, ‘forehead’ ?\) and Līlāgar̥ \(‘play-ditch’ ?\). Another possibility would be the site of Kosalā at the Kaṁjī Nadī \(Brown River\) 18 km eastwards
+was the region across the left bank of this river’. I fail to see the specific connection between Niḍilā \(Skṭ Niṭala/niṭāla, ‘forehead’ ?\) and Līlāgar̥ \(‘play-ditch’ ?\). Another possibility would be the site of Kosalā at the Kaṁjī Nadī \(Brown River\) 18 km eastwards
 
 \(below, ṇ 23 on p. 242\). ‘According to Sircar and Bhattacharya, it is not improbable that Prasannapura was situated in the neighbourhood of Śrīpura’ \(Shastri 1995 II, 67\). 
 
@@ -339,9 +327,7 @@ legend, which is difficult to identify, though it may be the head of an elephant
 
 It will be seen that Vyāghrarāja’s seal is totally unlike the seal of the Śarabhapurīya kings \[. . . \]. 
 
-Shastri \(JESI IX, 40\) sees a ‘bird \(probably garud
-
-. a\)’ instead of a lion, and a lotus flower
+Shastri \(JESI IX, 40\) sees a ‘bird \(probably garuḍa\)’ instead of a lion, and a lotus flower
 
 instead of an elephanṭ 
 
@@ -441,19 +427,13 @@ she has attained preeminence \(owing to\) her grandsons and great-grandsons, pri
 
 Cf. EI XXVII, 141; JESI III, 190 f. 
 
-24 Bajpai & Pandey 1977, 23 f. seem to argue in a quite confusing and incoherent way that Śarabhapur was the capital of the Pāṇd
-
-. ava dynasty of Mekalā, in spite of the fact that
+24 Bajpai & Pandey 1977, 23 f. seem to argue in a quite confusing and incoherent way that Śarabhapur was the capital of the Pāṇḍava dynasty of Mekalā, in spite of the fact that
 
 the name of that town does not feature in their inscriptions. 
 
 25 On Śarabhapur see above, ṇ 12 on p. 240. 
 
-26 Pīpard
-
-. ūlā Copper-Plate Inscription of King Narendra of Śarabhapur \(IHQ XIX \(1943\), 139–146\), dating from regnal year 3; Kurud Plates of Narendra, year 24 \(EI XXXI, 263–268\); Rawan Plates of Maharaja Narendra \(JESI VI \(1979\), 44 f.\). Sircar \(SI I, 488\) describes the chararacters of the Pīpard
-
-. ūlā Plates as ‘box-headed variety of the
+26 Pīparḍūlā Copper-Plate Inscription of King Narendra of Śarabhapur \(IHQ XIX \(1943\), 139–146\), dating from regnal year 3; Kurud Plates of Narendra, year 24 \(EI XXXI, 263–268\); Rawan Plates of Maharaja Narendra \(JESI VI \(1979\), 44 f.\). Sircar \(SI I, 488\) describes the chararacters of the Pīparḍūlā Plates as ‘box-headed variety of the
 
 Central Indian Alphabet of the 5th or 6th century A.D’. In IHQ XIX, 140 the same author remarked ‘Medial ī  is of the older type and is not represented by a dot in the circle \(which indicates medial i\) as the āra ˙
 
@@ -465,9 +445,7 @@ grant of Pravararāja.’
 
 27 V. P. Rode in JNSI X, 137–142:
 
-They are all single-die coins with the device and legend embossed on the obverse. The reverse is blank. They measure .78 to .87 inches in diameter and weigh from 19 to 20.2 grains each. They bear on the obverse, inside the circle of dots along the edge, Garud
-
-. a standing on a horizontal line with wings spread ouṭ To his proper right are the Crescent-Moon and a Chakra encircled by dots and to his proper left the Sun symbol and Śa ˙
+They are all single-die coins with the device and legend embossed on the obverse. The reverse is blank. They measure .78 to .87 inches in diameter and weigh from 19 to 20.2 grains each. They bear on the obverse, inside the circle of dots along the edge, Garuḍa standing on a horizontal line with wings spread ouṭ To his proper right are the Crescent-Moon and a Chakra encircled by dots and to his proper left the Sun symbol and Śa ˙
 
 nkha. Below the line is the legend “Śrī Mahendrāditya” in the box-
 
@@ -499,9 +477,7 @@ to imitate. 31 During the second half of the 5th century, when Mahendra and Nare
 
 have temporarily taken advantage, to judge by their claims of suzerainty over Kosala/Kosalā and Mekalā. 32 However, a disruption of the rule of Śarabhapur
 
-headed characters of the 5th–6th century A.d. Below the legend are a cluster of seven dots and a letter ‘ ru’ \(?\); in one case the letter looks like u  or d. \[. . . \] The legend on these coins is in box-headed characters which resemble those of the Pīpard
-
-. ūlā grant
+headed characters of the 5th–6th century A.d. Below the legend are a cluster of seven dots and a letter ‘ ru’ \(?\); in one case the letter looks like u  or d. \[. . . \] The legend on these coins is in box-headed characters which resemble those of the Pīparḍūlā grant
 
 of King Narendra of Śarabhapur family.’ \( op. ciṭ  137 f.\) Another hoard found in Bhandara contains one coin of Śrī-Mahendrāditya and eleven
 
@@ -547,9 +523,7 @@ Rajim or almost identical pillars found in Turturiya. 35
 
 34 EI XXXIII, 157 ll. 1–2:
 
-vikramopanatasāmantacūd
-
-. āmaṇiprabhāprasekāmbubhir dhautapādayugalo ripuvilāsi-
+vikramopanatasāmantacūḍāmaṇiprabhāprasekāmbubhir dhautapādayugalo ripuvilāsi-
 
 nīsīmantoddharaṇahetur vasuvasudhāgopradaḥ 
 
@@ -657,9 +631,7 @@ forgotten by the engraver\).
 
 Hans Bakker
 
-The Pāṇd
-
-. uvaṁśa of Śrīpura
+The Pāṇḍuvaṁśa of Śrīpura
 
 As has been noted above, scholars nowadays generally agree that sāmanta
 
@@ -685,9 +657,7 @@ Shastri 1995 II, 97\):
 
 gacchati bhūyasi kāle bhūmipatiḥ kṣapitasakalaripupakṣaḥ |
 
-pāṇd
-
-. avavaṁśād guṇavān udayananāmā samutpannaḥ  k 16 k
+pāṇḍavavaṁśād guṇavān udayananāmā samutpannaḥ  k 16 k
 
 . . . ◦ sya tanūjanmā  k 17 k
 
@@ -705,9 +675,7 @@ abhūd balabhidā tulyas tasmād indrabalo balī k 2 k
 
 For a photo-zincograph based on a rubbing see ASI XVII, Plate XVIII A. 
 
-43 ASI XXI, 40 Plate IX L; quoted in JRAS \(1905\), 621. This inscription has been reexamined by Peter Bisschop and Hans Bakker \(see Bakker 2014, 201\): udayana iti rājā yaḥ kule pāṇd
-
-. avānāṁ, 
+43 ASI XXI, 40 Plate IX L; quoted in JRAS \(1905\), 621. This inscription has been reexamined by Peter Bisschop and Hans Bakker \(see Bakker 2014, 201\): udayana iti rājā yaḥ kule pāṇḍavānāṁ, 
 
 sakalabhuvananāthasyāsya bhadreśvarasya |
 
@@ -715,9 +683,7 @@ pavanalulitacihnaṁramyakāntīṣṭakābhir,
 
 gr̥ havaram atibhaktyā kāritaṁtena pūrvam  k
 
-44 I still think that both Udayana’s are the same figure, but I have given up the view that conceives of this king as a historical persoṇ He features in these pedigrees to forge a link with Pāṇd
-
-. u and the legendary Somavaṁśa dynasty. I wrote the following in Bakker
+44 I still think that both Udayana’s are the same figure, but I have given up the view that conceives of this king as a historical persoṇ He features in these pedigrees to forge a link with Pāṇḍu and the legendary Somavaṁśa dynasty. I wrote the following in Bakker
 
 2014, 203:
 
@@ -725,23 +691,15 @@ This suggestion \[of an historic Udayana\] now seems to me naive.
 
 The Kālañjara
 
-inscription and the two Pāṇd
+inscription and the two Pāṇḍuvaṁśin inscriptions from Kosala refer to one and the
 
-. uvaṁśin inscriptions from Kosala refer to one and the
+same legendary Pāṇḍava king Udayana of Vatsa, son of Śatānīka, descendant of Bhara-
 
-same legendary Pāṇd
-
-. ava king Udayana of Vatsa, son of Śatānīka, descendant of Bhara-
-
-ta through Pāṇd
-
-. u, Arjuna, Abhimanyu, Parīkṣit, Janamejaya \[. . . \] and Śatānīka II. 
+ta through Pāṇḍu, Arjuna, Abhimanyu, Parīkṣit, Janamejaya \[. . . \] and Śatānīka II. 
 
 Telling in this respect is that in the inscriptions of Śūrabala, which give the pedigree of
 
-the Pāṇd
-
-. avas of Mekalā, the second king of the lineage Vatsarāja is only compared  to
+the Pāṇḍavas of Mekalā, the second king of the lineage Vatsarāja is only compared  to
 
 the famous king of Vatsa, i.e. Udayana \(Shasti 1995 II, 74, 81 \(v. 2\). 
 
@@ -843,11 +801,7 @@ ng Stone Inscription
 
 of Bhavadeva Raṇakesarin and Nannarāja \(JRAS \(1905\), 629 v. 40; Shastri 1995 II, 99\). 
 
-The redrafting of the dynastic Pāṇd
-
-. ava lineage, substituting Udayana for the Bala kings of Mekalā, gives the impression that the Pāṇd
-
-. ava family, after the coup d’état in Śrīpura, 
+The redrafting of the dynastic Pāṇḍava lineage, substituting Udayana for the Bala kings of Mekalā, gives the impression that the Pāṇḍava family, after the coup d’état in Śrīpura, 
 
 no longer wished to be reminded of its tribal roots in Mekalā. A similar redrafting of a
 
@@ -861,9 +815,7 @@ rāja I.
 
 49 JRAS \(1905\), 628 vv. 35–36; Shastri 1995 II, 98. 
 
-50 JRAS \(1905\), 627 v. 22 \(Shastri 1995 II, 97\): karagraham akr̥ tvāpi maṇd
-
-. alabhraman
+50 JRAS \(1905\), 627 v. 22 \(Shastri 1995 II, 97\): karagraham akr̥ tvāpi maṇḍalabhraman
 
 . ād
 
@@ -885,9 +837,7 @@ temple builders. Many of the grants of this royal family concern the erection an
 
 Nannarāja I was succeeded by his son Tīvaradeva, who acquired the sovereignty of the whole of Kosala. 53 Connected with Tīvaradeva is the conundrum of the absolute chronology of the history of ancient Kosala. Almost everything written about this king concerns his dating. 54
 
-The date of the Pāṇd
-
-. uvaṁśa dynasty of śrīpura
+The date of the Pāṇḍuvaṁśa dynasty of śrīpura
 
 Two dating criteria are thought to be relevant: 1\) his capital \(obviously Śrīpura, but possibly also called ‘Trivaranagara’\) might have been alluded to in an inscription of Mādhavavarman, the Viṣṇukuṇḍin king; 2\) he might have been a contemporary of the \(Maukhari\) prince Sūryavarman, whose daughter Vāsaṭā
 
@@ -1031,9 +981,7 @@ through the present districts of Satna, Shahdol, Bilaspur and Raipur̥ \[. . . \
 
 nga from very early timeṣ’
 
-64 EI XXXI, 221 l. 6: kosalotkalādimaṇd
-
-. alādhipatyaprāpta◦. 
+64 EI XXXI, 221 l. 6: kosalotkalādimaṇḍalādhipatyaprāpta◦. 
 
 65 EI XXXI, 221 ll. 7–8: ātmaja. 
 
@@ -1139,9 +1087,7 @@ tion of this temple see EITA II.1, 233–236. Cf. Krishna Deva 1960.
 
 labdho nirbhettum ebhir na ripur iti rasād dattacakṣur nakheṣu, 
 
-trāsāt tatkrod
-
-. arandhrodarakuharadarīm eva līnaṁvilokya |
+trāsāt tatkroḍarandhrodarakuharadarīm eva līnaṁvilokya |
 
 hāsollāsāvahelaṁtaditarakarajāgreṇa nirbhidya sadyaḥ , 
 
@@ -1157,9 +1103,7 @@ Bhāskaravarman\), 72 and, indirectly, from the Buddhist monasteries a little so
 
 Among the major constructions of this period, however, is the Gandheśvara Temple on the bank of the Mahānadī. According to Hiralal this temple was, 
 
-Repaired by the Bhonsalas who took all kinds of old material from the ruins of other temples and used it in making the mahāmaṇd
-
-. apa. We therefore find here a
+Repaired by the Bhonsalas who took all kinds of old material from the ruins of other temples and used it in making the mahāmaṇḍapa. We therefore find here a
 
 number of inscriptions, some of which do not really belong to this temple. \[. . . \]
 
@@ -1223,9 +1167,7 @@ And this would place this temple around 500 ad, according to the dynastic histor
 
 Apart from the fact that shifting the whole dynastic and art history with 200 years to fill this gap only results in another gap, beginning at the time that Vākāṭaka and
 
-Gupta hegenomy ended \(c. 500 ad\), it may be assumed that, after the Pāṇd
-
-. uvaṁśa, a
+Gupta hegenomy ended \(c. 500 ad\), it may be assumed that, after the Pāṇḍuvaṁśa, a
 
 re-emerged Nala dynasty ruled over parts of Kosala including Rajim, where Vilāsatu ˙
 

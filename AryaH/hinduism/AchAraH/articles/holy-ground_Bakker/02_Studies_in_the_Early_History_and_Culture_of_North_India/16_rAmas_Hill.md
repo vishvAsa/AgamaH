@@ -111,9 +111,7 @@ In the case of Agastya’s āśrama  Dey in his Geographical Dictionary \(ṣv.\
 
 The Rāmagiri
 
-We possess a testimony from the 13th century, not yet known to Dey, which records a local tradition that associates a particular site on Ramtek Hill with this episode of Śambūka’s penance. The Ramtek Stone Inscription of the Time 8 Rām. 3.10.80-84; Rām. 7.67.5 \(1127\*\). The region between the Vindhya and the Śaivala had become deserted after the fall of King Daṇd
-
-. a, youngest of the hundred sons of
+We possess a testimony from the 13th century, not yet known to Dey, which records a local tradition that associates a particular site on Ramtek Hill with this episode of Śambūka’s penance. The Ramtek Stone Inscription of the Time 8 Rām. 3.10.80-84; Rām. 7.67.5 \(1127\*\). The region between the Vindhya and the Śaivala had become deserted after the fall of King Daṇḍa, youngest of the hundred sons of
 
 Ikṣvāku, and had become known as Daṇḍakāraṇya \(Rām. 7.72.17–18; cf. Rām. 7.70.16–
 
@@ -121,9 +119,7 @@ Ikṣvāku, and had become known as Daṇḍakāraṇya \(Rām. 7.72.17–18; cf
 
 7.70.2–3\). The hermitage of Agastya is said to have been in the centre of this wilderness situated at a lake, and here Agastya’s meeting with the former king of Vidarbha, Śveta, took place \(Rām. 7.68.1–7\). The āśrama  of Agastya, the Rāmāyaṇa suggests, replaced
 
-the hermitage known as Janasthāna, which was earlier deserted at the end of Daṇd
-
-. a’s
+the hermitage known as Janasthāna, which was earlier deserted at the end of Daṇḍa’s
 
 reign \(Rām. 7.72.17–18\). 
 
@@ -173,9 +169,7 @@ The larger Sindūragirimāhātmya mentions Mahāśaivala as a name of the hill a
 
 Rāmṭ¯ek in addition to the two names noticed above, and explains it as being due to Śiva bringing the Śaivas to the hill. According to the colophon the Māhātmya has
 
-been taken from the Kaumārakhaṇd
-
-. a of the Padmapurāṇa; but the portion dealing
+been taken from the Kaumārakhaṇḍa of the Padmapurāṇa; but the portion dealing
 
 with Śambūka’s story seems to have been copied verbatim  from the Rāmāyaṇa of
 
@@ -201,9 +195,7 @@ tified the śūdra  who was beheaded by Rāma with a local deity Dhūmrākṣa.1
 
 We note also that this tradition had mitigated the most cynical part of the Rāmāyaṇa legend by allowing Śambuka/Śambūka at least to reach heaven, 
 
-the abode of Murāri, i.e. Viṣṇu.14 The same Yādava inscription testifies to Agastya’s association with the hill, though the exact relation remains obscure Vālmīki. We have not been able to trace the Kaumārakhaṇd
-
-. a in the printed edition
+the abode of Murāri, i.e. Viṣṇu.14 The same Yādava inscription testifies to Agastya’s association with the hill, though the exact relation remains obscure Vālmīki. We have not been able to trace the Kaumārakhaṇḍa in the printed edition
 
 of the Purāṇa. Yet, this description lends support to our inference that Śaivala was one of the old names of the hill at Rāmṭ¯ek. 
 

@@ -109,9 +109,7 @@ bar, das offenbar kurzgeschorene Haar liegt
 
 ohne Zeichnung glatt am Schädel—sofern
 
-nicht ein Kahlkopf \( muṇd
-
-. a\) gemeint isṭ Die
+nicht ein Kahlkopf \( muṇḍa\) gemeint isṭ Die
 
 schmucklose Darstellung läßt auf den aske-
 
@@ -155,9 +153,7 @@ tial ramification fails in the Mahābhārata description and in any other early
 
 text and it may hence be doubtful whether a fivefold scheme really informed the early sculptures. The image seems rather to express the idea of one central deity not counted as an aspect, a deity who is possessed of or shaped by four aspects, the ones specified in the Mahābhārata, of which the yogin  aspect in
 
-the present image is symbolized by the head of the saṁnyāsin/ muṇd
-
-. in, which
+the present image is symbolized by the head of the saṁnyāsin/ muṇḍin, which
 
 is facing east in case of a southwestern orientation of the main deity. 6
 
@@ -199,9 +195,7 @@ that they express Śiva’s yogin, ugra  and uṣṇīṣin  aspects. The northe
 
 sculpture in that it shows a shaven head
 
-and as such may be denoted as muṇd
-
-. iṇ 
+and as such may be denoted as muṇḍiṇ 
 
 This head replaces ‘the one that sports with
 
@@ -361,9 +355,7 @@ That iconic images of Śiva were installed as main objects of worship in temples
 
 126\), it may be illustrated also by an image commissioned by a Māheśvara for
 
-a Śaiva temple in the first half of the fifth century, viz. the image installed by 13 Kreisel 1986, Abb. 126a–b. For the figure carrying a stick \(Daṇd
-
-. apāṇi\) at the bottom
+a Śaiva temple in the first half of the fifth century, viz. the image installed by 13 Kreisel 1986, Abb. 126a–b. For the figure carrying a stick \(Daṇḍapāṇi\) at the bottom
 
 see below, p. 558 and Plate 126. 
 
@@ -387,9 +379,7 @@ Mansar: Caturbhuja śiva
 
 Candragupta’s grandson, the Vākāṭaka king Pravarasena II \(Plate 113\). This
 
-king refers to the deity in inscriptions as ‘Pravareśvara’. 17 As I have argued elsewhere, there are reasons to assume that this beautiful, four-armed Śiva image discovered on a hillock called the Hiḍimbā ṭekḍī, 5 km due west of Ramtek Hill, in 1972, which to date embellishes the entrance hall of the National Museum in Delhi, represents this deity Pravareśvara. It may have been the main object 17 CII V, 19 l. 13: pravareśvara-ṣadviṁśakavāṭaka, and op. ciṭ  65 l. 1: pravareśvaradevakulasthāna. See also the sealing of Pravareśvara that came to light during the excavation of the Hid
-
-. imbā T
+king refers to the deity in inscriptions as ‘Pravareśvara’. 17 As I have argued elsewhere, there are reasons to assume that this beautiful, four-armed Śiva image discovered on a hillock called the Hiḍimbā ṭekḍī, 5 km due west of Ramtek Hill, in 1972, which to date embellishes the entrance hall of the National Museum in Delhi, represents this deity Pravareśvara. It may have been the main object 17 CII V, 19 l. 13: pravareśvara-ṣadviṁśakavāṭaka, and op. ciṭ  65 l. 1: pravareśvaradevakulasthāna. See also the sealing of Pravareśvara that came to light during the excavation of the Hiḍimbā T
 
 . ekd
 
@@ -445,9 +435,7 @@ nga, écrit-il encore, n’appartient pas aux
 
 19 Excavations in Mansar after the writing of the present article have shown me wrong. 
 
-Although I still think that the Mansar Śiva image in the National Museum has been the main image of the temple complex unearthed at the Hid
-
-. imbā T
+Although I still think that the Mansar Śiva image in the National Museum has been the main image of the temple complex unearthed at the Hiḍimbā T
 
 . ekd
 
@@ -629,9 +617,7 @@ devāś caivottaren
 
 . āsan sarvatas tv r̥ṣayo ’bhavan  k 21 k
 
-kurvantyā tu tayā tatra maṇd
-
-. alaṁtatpradakṣiṇam |
+kurvantyā tu tayā tatra maṇḍalaṁtatpradakṣiṇam |
 
 indraḥ sthāṇuś ca bhagavān dhairyeṇa pratyavasthitau  k 22 k
 
@@ -851,9 +837,7 @@ gurūn
 
 25 / Sources for Reconstructing Ancient Forms of Śiva Worship 503
 
-13 Pāṇd
-
-. hurn
+13 Pāṇḍhurn
 
 . ā Plates of Pravarasena II \(CII V, 65 ll. 1 & 34–36\) dr̥ṣṭam | pravareśvaradevakulasthānāt | \[. . . \]
 

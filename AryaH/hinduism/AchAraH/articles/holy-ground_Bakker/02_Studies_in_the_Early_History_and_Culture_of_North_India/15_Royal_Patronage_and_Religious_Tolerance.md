@@ -61,15 +61,11 @@ ad 436\). ‘The inscription records the dedication of an image of Pārśvanāth
 
 4 Willis 2004, 55 ṇ 52. 
 
-5 For the inscription in Cave 6 see Udayagiri Cave Inscription of Candragupta II, Year 82, CII III \(1888\), 21–25. The name of the king, ‘Sod
-
-. hala’, is a conjecture of ḍC. Sircar
+5 For the inscription in Cave 6 see Udayagiri Cave Inscription of Candragupta II, Year 82, CII III \(1888\), 21–25. The name of the king, ‘Soḍhala’, is a conjecture of ḍC. Sircar
 
 \(SI I, 279 ṇ 5.\). No king of that name is known otherwise. It is uncertain whether
 
-‘Sod
-
-. hala’s’ inscription refers to the construction of the cave sanctuary 6 as a whole. The inscription is placed above the Mahiṣāsuramardinī and one of the Viṣṇu images on the outer wall. 
+‘Soḍhala’s’ inscription refers to the construction of the cave sanctuary 6 as a whole. The inscription is placed above the Mahiṣāsuramardinī and one of the Viṣṇu images on the outer wall. 
 
 6 Cf. Willis 2009, 142 f. 
 
@@ -193,9 +189,7 @@ age to a full homology in the centuries before the establishment of the Delhi Su
 
 Nāgas see above, p. 318 and Bakker 1997, 168. 
 
-22 The Pāṇd
-
-. hurn
+22 The Pāṇḍhurn
 
 . ā Plates of Pravarasena II mention an earlier land grant made by Rudrasena II’s father Pr̥thivīṣeṇa I \(CII V, 66 l. 19\). 
 
@@ -235,9 +229,7 @@ of Pravarasena II. The wording of the praśasti  resembles indeed the one
 
 found in Pravarasena II’s inscriptions, but it equally resembles the one of Rudrasena II’s charter̥ The box-headed palæography of the Mohallā Plate
 
-does also not significantly differ from the Mandhal Plates of Rudrasena, nor from Pravarasena’s plates for that matter̥ 28 However, Pravarasena’s charters 23 Māṇd
-
-. hal. Plates of Vākāṭaka Rudrasena II, Year 5, Shastri & Gupta 1997, 143; Shastri 1997, 85–88. 
+does also not significantly differ from the Mandhal Plates of Rudrasena, nor from Pravarasena’s plates for that matter̥ 28 However, Pravarasena’s charters 23 Māṇḍhal. Plates of Vākāṭaka Rudrasena II, Year 5, Shastri & Gupta 1997, 143; Shastri 1997, 85–88. 
 
 24 Rudrasena’s Mandhal Plates mention the pūrvamārga \(Shastri 1997, 86\), Pravarasena’s
 
@@ -263,9 +255,7 @@ To finish our review of possible authors of the Mohallā Plate, there
 
 is Pr̥thivīṣeṇa II, the only successor of Pravarasena II of whom we have inscriptions. 
 
-His charters were issued from, a\) the Rāmagiri \(Māṇd
-
-. hal. 
+His charters were issued from, a\) the Rāmagiri \(Māṇḍhal. 
 
 Plates of Pr̥thivīṣeṇa II, Year 2\), or b\) Pr̥thivīsamudra \(Māhurjharī Plates of Pr̥thivīṣeṇa II, Year 17\), which is unidentified, but may have been a new residence of Pr̥thivīṣeṇa II, or c\) the Beṇṇātaṭasthāna \(Māṇḍhal. Charter of Pr̥thivīṣeṇa II, Year 10\), but nowhere does this king names Padmapura.33 The Beṇṇātaṭasthāna, called a vaijayika dharmasthāna, was a place on the banks of the Wainganga, probably not far from Mandhal, and this Dharmasthāna
 
@@ -291,19 +281,13 @@ take the fact that only the ‘increase of merit of mother’ \( mātr̥ puṇyo
 
 . aṭtilādvādaśī, 
 
-a day particularly suitable for a sesame and piṇd
-
-. a  offering to the ancestors \(Kane V, 
+a day particularly suitable for a sesame and piṇḍa  offering to the ancestors \(Kane V, 
 
 434\). In the same 23rd year of his reign, Pravarasena II had invaded Gupta territory, as we know from the charter that was issued from the military camp at Tripurī, and it is unlikely that he had done so when his mother was still alive \(cf. Bakker 1997, 25\). 
 
 30 Shastri 1997, 6–9. 
 
-31 For the earliest Sanskrit copperplates, which belong to the second half of the 4th century, see Salomon 1998, 114. To the evidence mentioned there should be added the Copper Plate Hoard from Bagh: Ramesh & Tewari 1990. The oldest inscription in this hoard dates from year 47, presumably Gupta Era, i.e. ad 367. The oldest known copperplate grant is the Pātagaṇd
-
-. igūd
-
-. em Copper Plate of the Ikṣvāku king Ehavala Cāntamūla \(late
+31 For the earliest Sanskrit copperplates, which belong to the second half of the 4th century, see Salomon 1998, 114. To the evidence mentioned there should be added the Copper Plate Hoard from Bagh: Ramesh & Tewari 1990. The oldest inscription in this hoard dates from year 47, presumably Gupta Era, i.e. ad 367. The oldest known copperplate grant is the Pātagaṇḍigūḍem Copper Plate of the Ikṣvāku king Ehavala Cāntamūla \(late
 
 3rd century ad\), for which see Falk 1999–2000, 275 ff. Use and spread of copperplate charters under Gupta rule is discussed by Willis 2009, 81 f. The Vākāṭaka copperplate
 
@@ -327,9 +311,7 @@ Yet, there is
 
 archaeological and historical evidence that makes it plausible that this authority relates to a Viṣṇu temple in the Mandhal area, that is, arguably, in the vicinity of Padmapura, as we will see below. 
 
-Muṇd
-
-. asvāmin
+Muṇḍasvāmin
 
 In his Mandhal Plates Rudrasena II styled himself as someone ‘whose rule is based on the cakra, the emblem of the Bhagavat’, 35 i.e. Viṣṇu; in other words, just like his father-in-law Candragupta, Rudrasena professed to be a bhāgavata. 
 
@@ -361,15 +343,9 @@ prasādopārjitaśrīsamudayasya \(CII V, 12 ll. 13–14\)—not merely because,
 
 siddham | dr̥ ṣṭam | bhagavato ekārṇavasalilavistāritanāgarājño ’nan\( t\) asya tasya va-
 
-\( kr\) asphuṭaphaṭāj\( ā\) labhogaśāyi h no i yoganidrām upagatasya śaṅkhacakrāsidhāriṇ \( o\) devadevasya \( muṇd
+\( kr\) asphuṭaphaṭāj\( ā\) labhogaśāyi h no i yoganidrām upagatasya śaṅkhacakrāsidhāriṇ \( o\) devadevasya \( muṇḍa\) svāminas sandeśāt  k
 
-. a\) svāminas sandeśāt  k
-
-Cf. the Grant of Bhuluṇd
-
-. a, year 47 \(ad 367\), in which the feudatory of Samudragupta, Bhuluṇd
-
-. a pays respect to Viṣṇu \(Ramesh & Tewari 1990, 1; Willis 2009, 71\):
+Cf. the Grant of Bhuluṇḍa, year 47 \(ad 367\), in which the feudatory of Samudragupta, Bhuluṇḍa pays respect to Viṣṇu \(Ramesh & Tewari 1990, 1; Willis 2009, 71\):
 
 bhagavataḥ \[. . . \]
 
@@ -393,21 +369,13 @@ the published photograph of Plate 1, I can read ◦ svāminas◦, but the readin
 
 The word monda  gives apparently little
 
-sense. Dental and cerebral nd  are identical but for their top part, in which the square head-mark is replaced by two short curved strokes. Assuming that the reading moṇd
-
-. a  is correct, we could think of Prakrit influence by which ˇ
+sense. Dental and cerebral nd  are identical but for their top part, in which the square head-mark is replaced by two short curved strokes. Assuming that the reading moṇḍa  is correct, we could think of Prakrit influence by which ˇ
 
 o
 
 replaced u  before a double consonant without much change of pronuncatioṇ 37
 
-If moṇd
-
-. a  is not the correct reading—the upper and lower part of the akṣara  are illegible—one could think of reading mau  instead of mo, the difference between mo  and mau  being only that the right top stroke is making an upward curve rather than being a horizontal curve. Or, more likely perhaps mu, in which the straight stroke down forming the short syllable u  has become erased. I tentatively conjecture the reading muṇd
-
-. asvāminas◦, but mo\( au\) ṇd
-
-. asvāminas◦
+If moṇḍa  is not the correct reading—the upper and lower part of the akṣara  are illegible—one could think of reading mau  instead of mo, the difference between mo  and mau  being only that the right top stroke is making an upward curve rather than being a horizontal curve. Or, more likely perhaps mu, in which the straight stroke down forming the short syllable u  has become erased. I tentatively conjecture the reading muṇḍasvāminas◦, but mo\( au\) ṇḍasvāminas◦
 
 cannot be excluded either̥ 
 
@@ -415,9 +383,7 @@ The image described is that of the great Nārāyaṇa relief in Udayagiri. But
 
 who is this Monda- or Muṇḍasvāmin who gave the instruction \( saṁdeśa\)? Cer-
 
-tainly this refers to Viṣṇu–Nārāyaṇa, but it remains unclear whether it signifies a local deity \(i.e. image\) installed in a temple in Mandhal or Padmapura. The editors of the inscription do not come forward with a satisfactory explanation of this name. 38 I would like to suggest that the first part of the name muṇd
-
-. a
+tainly this refers to Viṣṇu–Nārāyaṇa, but it remains unclear whether it signifies a local deity \(i.e. image\) installed in a temple in Mandhal or Padmapura. The editors of the inscription do not come forward with a satisfactory explanation of this name. 38 I would like to suggest that the first part of the name muṇḍa
 
 refers to an eponymous person who envisaged and installed this manifestation of the Bhagavaṭ 
 
@@ -429,9 +395,7 @@ as long as her husband was still alive and may then have changed it into the dyn
 
 regentess of her minor sons in about ad 405.40 Muṇḍa- or Moṇḍasvāmin, and even Mauṇḍasvāmin may thus be taken to mean ‘Lord of Muṇḍā’, ‘Muṇḍā’s 37 Von Hinüber 2001, 121. 
 
-38 Shastri & Gupta 1997, 149 propose to connect it with a toponym by pointing to two present-day villages in the neighbourhood called Maudā and D
-
-. o ˙
+38 Shastri & Gupta 1997, 149 propose to connect it with a toponym by pointing to two present-day villages in the neighbourhood called Maudā and ḍo ˙
 
 ngar Maudā. It seems
 
@@ -441,25 +405,17 @@ more likely, however, that the toponyms preserve the ancient name of the temple 
 
 ¸ \( p\) ra-
 
-\( bh\)h eva i h yā i muṇd
+\( bh\)h eva i h yā i muṇḍanāmnī tana\( yā\). Bakker 1997, 164; cf. Bakker & Isaacson 1993, 53 \(above, p. 123\). 
 
-. anāmnī tana\( yā\). Bakker 1997, 164; cf. Bakker & Isaacson 1993, 53 \(above, p. 123\). 
-
-40 Bakker & Isaacson 1993, 53; Bakker 1997, 16. The KNT inscription may hint at the dynastic name, when it compares the girl Muṇd
-
-. ā with the light \( prabhā\) of the moon
+40 Bakker & Isaacson 1993, 53; Bakker 1997, 16. The KNT inscription may hint at the dynastic name, when it compares the girl Muṇḍā with the light \( prabhā\) of the moon
 
 \( candra\): Prabhāvatī is ‘the one who possesses the lustre’, scil. of Candra, her father̥ 
 
-Tedesco 1945 proposes to derive MI muṇd
-
-. a  from Skṭ vr̥ ddha. This is not taken over by
+Tedesco 1945 proposes to derive MI muṇḍa  from Skṭ vr̥ ddha. This is not taken over by
 
 Mayrhofer EWA ṣv., who gives as first meaning: ‘kahl’ \(‘– Unklar’\). 
 
-As an appellation of a princess, the name ‘ muṇd
-
-. ā’ \(‘the bald one’\) is odd. One may
+As an appellation of a princess, the name ‘ muṇḍā’ \(‘the bald one’\) is odd. One may
 
 
 
@@ -475,57 +431,31 @@ The aim of Rudrasena’s Mandhal inscription is not the installation of this dei
 
 Sātvata caraṇa \(branch/school\), which came from Vatsagulma, the capital of the Western Vākāṭakaṣ42 This is the earliest attestation of royal support of a Bhāgavata organisation named Sātvata, a religious sect known, for in-
 
-conjecture that the name refers to the tribal background of the princess, the Muṇd
+conjecture that the name refers to the tribal background of the princess, the Muṇḍas, 
 
-. as, 
+in which case these Muṇḍas must have been part of the Nāga confederation mentioned
 
-in which case these Muṇd
-
-. as must have been part of the Nāga confederation mentioned
-
-in Prabhāvatī’s inscriptions; the Muṇd
-
-. as are known, for instance, from MBh 3.48.21
+in Prabhāvatī’s inscriptions; the Muṇḍas are known, for instance, from MBh 3.48.21
 
 \(present at Yudhiṣṭhira’s consecration\), MBh 6.52.9b \(App.\), MBh 7.95.20 and VāP
 
-45.123. Cf. Muruṇd
+45.123. Cf. Muruṇḍa-devī/svāminī, mother of the Uccakalpa king Śarvanātha \(CII III
 
-. a-devī/svāminī, mother of the Uccakalpa king Śarvanātha \(CII III
+\(1888\), 127, 131\), a queen obviously named after the Muruṇḍa people from which she
 
-\(1888\), 127, 131\), a queen obviously named after the Muruṇd
+came; this people is mentioned among the ‘foreign countries’ in Samudragupta’s Allahabad Pillar Inscription \(CII III \(1888\), 8\). We possess no epigraphical corroboration of the existence of the Muṇḍas, however̥ 
 
-. a people from which she
-
-came; this people is mentioned among the ‘foreign countries’ in Samudragupta’s Allahabad Pillar Inscription \(CII III \(1888\), 8\). We possess no epigraphical corroboration of the existence of the Muṇd
-
-. as, however̥ 
-
-Another explanation for the name Muṇd
-
-. ā could be: the girl was bald \( muṇd
-
-. a\), i.e. 
+Another explanation for the name Muṇḍā could be: the girl was bald \( muṇḍa\), i.e. 
 
 suffered from alopecia. Her bald head may have resembled the lustre of the full mooṇ 
 
-Lüders 1961 classified the name Muṇd
+Lüders 1961 classified the name Muṇḍa \(Prakrit: Muḍa\), which is found as the name of
 
-. a \(Prakrit: Mud
-
-. a\), which is found as the name of
-
-a donor on a railing at Bharhut \(A 102 \(827\)\), in the category of ‘names derived from the appearance of the body’ \(CII II.2 \(1998\), pp. 53, 6\). That the name Muṇd
-
-. a could
+a donor on a railing at Bharhut \(A 102 \(827\)\), in the category of ‘names derived from the appearance of the body’ \(CII II.2 \(1998\), pp. 53, 6\). That the name Muṇḍa could
 
 be a brahmin name \(Prabhāvatī belonged to the Dhāraṇa gotra\) is proven by the Grant
 
-of Svāmidāsa, Year 67 in the copper-plate hoard from Bagh, which has preserved the name of a donee, Muṇd
-
-. a, a brahmin belonging to the Śāṇd
-
-. ilya gotra \(Ramesh & Tewari
+of Svāmidāsa, Year 67 in the copper-plate hoard from Bagh, which has preserved the name of a donee, Muṇḍa, a brahmin belonging to the Śāṇḍilya gotra \(Ramesh & Tewari
 
 1990, 65\). 
 
@@ -713,17 +643,13 @@ The personal seals—both, of Pravarasena and Prabhāvatī—found in MNS 2
 
 and that she, at an advanced age, remained a powerful figure behind the scenes, also in the new palace of her youngest son, which was her third and last residence since she had left the Gupta court of her youth—Padmapura, Nandivardhana, Pravarapura. 59 When the Gupta-Nāga princess, the queen mother
 
-of the Vākāṭakas, eventually died in her early seventies in c. ad 444, a funeral monument \( ed
-
-. ūka\) was erected, as I have argued elsewhere, at a location in between the Rāmagiri and Pravarapura, a monument that was appropriately guarded by a Nāga. 60
+of the Vākāṭakas, eventually died in her early seventies in c. ad 444, a funeral monument \( eḍūka\) was erected, as I have argued elsewhere, at a location in between the Rāmagiri and Pravarapura, a monument that was appropriately guarded by a Nāga. 60
 
 In the present context it may suffice to evaluate the recent discoveries at Mansar in as far as they throw light on the theme of this essay, royal patronage, religious tolerance, and the formation of Gupta-Vākāṭaka culture. 
 
 The magnificent state sanctuary \( devakulasthāna\) Pravareśvara, erected on
 
-the Hiḍimbā ṭekḍī near the village of Mansar \(MNS 3\), served as the place where the ceremony of issuing royal charters was performed, as attested by the Pāṇd
-
-. urn
+the Hiḍimbā ṭekḍī near the village of Mansar \(MNS 3\), served as the place where the ceremony of issuing royal charters was performed, as attested by the Pāṇḍurn
 
 . ā Plates of Pravarasena II, Year 29 \(ad 441\).61 A generous land-donation was granted to a group of Vājasaneya brahmins, and the same in-
 

@@ -365,9 +365,7 @@ the sway of the Yādava kings. This is clear from two brief inscriptions in the 
 
 Who were the agents of this transformation? We see this problem in the light of the process of Sanskritisation of tribal areas, the thrust for which came mainly from the Guptas. \[. . . \] Some of the names of donees of Vākāṭaka land grants also enable
 
-us to trace the process of Sanskritisation of the tribal areas, e.g., the donee of the Indore plates is Goṇd
-
-. ārya—the Gonds still constitute an important element of tribal population in the Vidarbha regioṇ 
+us to trace the process of Sanskritisation of the tribal areas, e.g., the donee of the Indore plates is Goṇḍārya—the Gonds still constitute an important element of tribal population in the Vidarbha regioṇ 
 
 20 Cf. Derrett’s main conclusion: ‘The king was not subordinated to brahmins in his actual performance of his duties: he manipulated them, and utilized them. After all, he was their principal patroṇ’ \(Derrett 1976, 607\). 
 
@@ -391,9 +389,7 @@ the great encyclopaedia of the dharma, the Caturvargacintāmaṇi, acclaims
 
 the standing of the Yādava dynasty in his Rājapraśasti that precedes the
 
-Vratakhaṇd
-
-. a 23 in the following words:
+Vratakhaṇḍa 23 in the following words:
 
 The Dynasty of the Moon is victorious, the renowned one, in which that King Yadu made his appearance and in which in former days Murāri \(i.e. Kr̥ṣṇa\) was
 
@@ -437,9 +433,7 @@ ngān yasyānekadvīpadīpaḥ pratāpaḥ  k
 
 viṣvaksenah. prabaddhoddhatabalinr̥patir vikramākrāntaviśvah., 
 
-śaśval lakṣmyopagūd
-
-. ho yadukulatilakaḥ proddhr̥ tottu ˙
+śaśval lakṣmyopagūḍho yadukulatilakaḥ proddhr̥ tottu ˙
 
 ngabhūbhr̥ t |
 
@@ -483,11 +477,7 @@ his enemies’, \[. . . \] ‘he, who himself a Grandsire among kings, surpasses
 
 plenty’, 
 
-—While the illustrious Hemādri \[. . . \], crest-jewel of the ministers, who has re-claimed the jungle \( nirjitajhād
-
-. imaṇd
-
-. ala\), who is completely dedicated to the superintendency of \(all\) records, \[. . . \] who is the head of the elephant-drivers—\(while\) this \(Hemādri\) is acquiting himself of the heavy task \(of administering\) the whole empire consigned to him by his \(i.e. the king’s\) grace \( prasāda\), 
+—While the illustrious Hemādri \[. . . \], crest-jewel of the ministers, who has re-claimed the jungle \( nirjitajhāḍimaṇḍala\), who is completely dedicated to the superintendency of \(all\) records, \[. . . \] who is the head of the elephant-drivers—\(while\) this \(Hemādri\) is acquiting himself of the heavy task \(of administering\) the whole empire consigned to him by his \(i.e. the king’s\) grace \( prasāda\), 
 
 There is this pearl in the line \( gotra\) of Gautama, the illustrious Jalhaṇa; after him there is Mūdhugi \[. . . \] who excels in virtues and who is a polemicist in the field of śruti  and śāstra; to him has been born a virtuous son, the illustrious Acyutanāyaka who is blessed by the illustrious Rāmacandra. \(16\) \[. . . \]
 
@@ -721,9 +711,7 @@ And this brings us back to the visual material of the Yādava age that is left
 
 on Ramtek Hill. It reflects the above-sketched cultural, i.e. social, religious, and political complex in its own way. In contrast to the Vākāṭaka sanctuaries, the
 
-temples of the Yādava period seek to rise above the earth in a tiered architecture that culminates in the śikhara  which represents the centre, or axis mundi of the cosmic maṇd
-
-. ala  that is reified in the temple compound. The image installed under the śikhara  is of a similar hierarchic rigidity, human and non-human at the same time, embodying the transcendent but reliable unwavering pivot, the fountainhead of sovereignty. 
+temples of the Yādava period seek to rise above the earth in a tiered architecture that culminates in the śikhara  which represents the centre, or axis mundi of the cosmic maṇḍala  that is reified in the temple compound. The image installed under the śikhara  is of a similar hierarchic rigidity, human and non-human at the same time, embodying the transcendent but reliable unwavering pivot, the fountainhead of sovereignty. 
 
 Plate 12
 

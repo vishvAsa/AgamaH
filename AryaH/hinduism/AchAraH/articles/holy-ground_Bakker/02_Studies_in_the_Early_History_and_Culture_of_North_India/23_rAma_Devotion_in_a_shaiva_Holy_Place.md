@@ -79,9 +79,7 @@ Indeed, it is an ancient tradition that bestows on Vārāṇasī the power to re
 
 those who die within its precincts, a power derived from Śiva’s grace. We shall examine the history of this doctrine, but for doing this we take our cue from the Rāmacaritamānasa. 
 
-In the prologue of the Bālakhaṇd
-
-. a Tulsī sings the praise of the holy Name
+In the prologue of the Bālakhaṇḍa Tulsī sings the praise of the holy Name
 
 consisting of two akṣaras: rā-ma. To highlight its effectiveness he attributes
 
@@ -253,13 +251,9 @@ The tradition of the Saving Mantra
 
 For the origin of the doctrine of salvation, which has contributed so much to the greatness of Vārāṇasī as a centre of pilgrimage, we have to examine the Śaiva sources concerned with this holy place. 
 
-The Kāśīkhaṇd
+The Kāśīkhaṇḍa
 
-. a
-
-To the Kāśīkhaṇd
-
-. a \(KKh\) this great mantra is known as the Tāraka bra-
+To the Kāśīkhaṇḍa \(KKh\) this great mantra is known as the Tāraka bra-
 
 hman/ mantra, ‘the saving formula’. KKh 1.7.79 reads in the eulogy that is a nirukti  of Maṇikarṇikā:
 
@@ -295,25 +289,17 @@ When one departs from life there, Viśveśvara himself recites the saving formul
 
 How successful the Vaiṣṇava pandits have been in their appropriation of a golden Śaiva formula, may become evident from Rāmānanda’s commentary
 
-ad locum, in which tārakaṁbrahma  is glossed as tārakaṁpraṇavaṁṣad
-
-. akṣara-
+ad locum, in which tārakaṁbrahma  is glossed as tārakaṁpraṇavaṁṣaḍakṣara-
 
 rāmamantrarājaṁvā \(similar ad  KKh 1.7.79\); this is again taken over, without mentioning of the source and with omission of the praṇava  option, in the trans-
 
 lation of G.V. Tagare in the Ancient Indian Tradition and Mythology Series:
 
-‘Rāma Mantra of six syllableṣ’ The composer of the Kāśīkhaṇd
-
-. a himself seems
+‘Rāma Mantra of six syllableṣ’ The composer of the Kāśīkhaṇḍa himself seems
 
 to have identified the Tāraka mantra with the syllable oṁ. 8
 
-The Kāśīkhaṇd
-
-. a is a text that is to be dated after the regime change of ad 1193. It reflects the recovery of the town and the resilience of the Hindu religious spirit in the 13th and 14th centuries, reconstructing the holy place on an unprecedented scale. The composer of the Kāśīkhaṇd
-
-. a made use of older
+The Kāśīkhaṇḍa is a text that is to be dated after the regime change of ad 1193. It reflects the recovery of the town and the resilience of the Hindu religious spirit in the 13th and 14th centuries, reconstructing the holy place on an unprecedented scale. The composer of the Kāśīkhaṇḍa made use of older
 
 sources, first of all Lakṣmīdhara’s Tīrthavivecanakāṇḍa \(TVK\), which quotes the Vārāṇasīmāhātmya of the Matsyapurāṇa \(MtP\) nearly in its entirety. The
 
@@ -367,9 +353,7 @@ of its kind.
 
 The Skandapurāṇa
 
-Let me briefly recall a few important facts about this texṭ We call it ‘the original Skandapurāṇa’, because the text appears to be about a half millennium older than the oldest khaṇd
-
-. as  of the printed Skandapurāṇa, with which it has
+Let me briefly recall a few important facts about this texṭ We call it ‘the original Skandapurāṇa’, because the text appears to be about a half millennium older than the oldest khaṇḍas  of the printed Skandapurāṇa, with which it has
 
 hardly anything in common apart from its name. 10 We think it is the first textual composition that carries the name ‘Skandapurāṇa’, which is what the
 
@@ -377,13 +361,9 @@ adjective ‘original’ is meant to indicate, nothing more and nothing less.
 
 From the 12th century onwards, this original Skandapurāṇa was gradually
 
-replaced by a series of texts that style themselves as khaṇd
+replaced by a series of texts that style themselves as khaṇḍas  of the Skanda-
 
-. as  of the Skanda-
-
-purāṇa. Our text, in the colophons of the three oldest manuscripts, does not refer to itself as a khaṇd
-
-. a, but simply as ‘the Skandapurāṇa’. In the 14th century
+purāṇa. Our text, in the colophons of the three oldest manuscripts, does not refer to itself as a khaṇḍa, but simply as ‘the Skandapurāṇa’. In the 14th century
 
 this replacement had advanced so far that our text was nearly obliterated. 
 
@@ -391,29 +371,19 @@ We can be so certain about the early date of our text because the National Archi
 
 authenticity of this text is warranted by Lakṣmīdhara, the minister and pandit at the court of the Gāhaḍavāla king Govindacandra in the 12th century, who in his description of Benares quotes extensively from a ‘Skandapurāṇa’. All his
 
-quotes turn out to be from our text, none from the Kāśīkhaṇd
+quotes turn out to be from our text, none from the Kāśīkhaṇḍa or any other
 
-. a or any other
+khaṇḍa  for that matter̥ 
 
-khaṇd
+When the text had reached the point of near-oblivion due to its replacement by later texts styled khaṇḍas, copyists in northeastern India preserved it, be it in the very margins of the Purāṇa text corpus, by renaming it the Ambikā-, or
 
-. a  for that matter̥ 
-
-When the text had reached the point of near-oblivion due to its replacement by later texts styled khaṇd
-
-. as, copyists in northeastern India preserved it, be it in the very margins of the Purāṇa text corpus, by renaming it the Ambikā-, or
-
-in one case, by mistake probably, Revākhaṇd
-
-. a of the Skandapurāṇa. Collation
+in one case, by mistake probably, Revākhaṇḍa of the Skandapurāṇa. Collation
 
 of these later manuscripts so named with the three manuscripts from Kathmandu has established that the text had evolved into a new recension that substantially differs from the ‘Nepalese’ texṭ We refer to this new recension as the RA recension to distinguish it from the S recension, which refers to the text as found in the Nepalese manuscripts. When we collate the quotations in Lakṣmīdhara’s Tīrthavivecanakāṇḍa with the Vārāṇasīmāhātmya of the original Skandapurāṇa, it becomes clear that an early form of this RA recension already existed in the 12th century and was used by the Nibandha author \(Bisschop 2002\). Further research into the history of this text has made it plausible that the new recension was created in one major redaction that took place somewhere in North India, most likely in the ninth century. 11
 
 The original text, we estimate, was composed either under the Maukhari kings or Harṣavardhana of Kanauj, in the second half of the sixth or first half of the seventh century. 12
 
-10 Cf. above, pp. 185 ff.; for borrowings from the SP by the āvantyakhaṇd
-
-. a, Yokochi 2004. 
+10 Cf. above, pp. 185 ff.; for borrowings from the SP by the āvantyakhaṇḍa, Yokochi 2004. 
 
 11 Bakker 2014, 138. 
 
@@ -445,9 +415,7 @@ Men who are dedicated to japa  and meditation as well as those who are slow-witt
 
 Here, in the hour of death, Maheśvara himself gives \(them\) the saving mantra \( tārakaṁbrahma\), thanks to which one becomes consubstantiated with Him. 14
 
-The second of these verses we have already encountered in a slightly modified form in the Māhātmya of Avimukta in the Kāśīkhaṇd
-
-. a \(KKh 1.25.73\). This
+The second of these verses we have already encountered in a slightly modified form in the Māhātmya of Avimukta in the Kāśīkhaṇḍa \(KKh 1.25.73\). This
 
 verse corresponds also closely with a prose passage in the Jābāla Upaniṣad
 
@@ -479,9 +447,7 @@ dadāti tārakaṁbrahma yenāsau tanmayo bhavet  k
 
 471
 
-It probably was a Śloka that people knew by heart and had a more or less independent, floating existence, and so found its way into the Upaniṣad on the one hand, and into the Kāśīkhaṇd
-
-. a on the other̥ The RA recension of the
+It probably was a Śloka that people knew by heart and had a more or less independent, floating existence, and so found its way into the Upaniṣad on the one hand, and into the Kāśīkhaṇḍa on the other̥ The RA recension of the
 
 Skandapurāṇa might be its first attestatioṇ 
 
@@ -585,9 +551,7 @@ strongly felt polluting nature of the dead themselves and the disposal of their 
 
 sanctified ground. 
 
-This cremation ground was there, as it was in every Indian city, and in one of the earliest Purāṇas, the Mārkaṇḍeyapurāṇa, it is depicted as the unholiest place on earth, the place where king Hariścandra passed his doleful days as a caṇd
-
-. āla. 20 If we assume that its location has not altered over the centuries, a location that is known in later sources as Maṇikarṇikā, it lay in the early days at the southern fringe of the then holy field, as it should do. 21 With the growth of the town, however, and the omnipresence of the dying along with the industry that surrounded them, this is beginning to change in the seventh and eighth centuries. An important factor in this process has been the spread of the belief that salvation would be available to all, if only the dying days were spent in the holy towṇ The doctrine of the saving mantra, administered there, and only there, all’ultimo momento, made Vārāṇasī stand out against
+This cremation ground was there, as it was in every Indian city, and in one of the earliest Purāṇas, the Mārkaṇḍeyapurāṇa, it is depicted as the unholiest place on earth, the place where king Hariścandra passed his doleful days as a caṇḍāla. 20 If we assume that its location has not altered over the centuries, a location that is known in later sources as Maṇikarṇikā, it lay in the early days at the southern fringe of the then holy field, as it should do. 21 With the growth of the town, however, and the omnipresence of the dying along with the industry that surrounded them, this is beginning to change in the seventh and eighth centuries. An important factor in this process has been the spread of the belief that salvation would be available to all, if only the dying days were spent in the holy towṇ The doctrine of the saving mantra, administered there, and only there, all’ultimo momento, made Vārāṇasī stand out against
 
 all other competing holy places that promised mokṣa; this doctrine has thus greatly contributed to the reputation of the city as the most holy place on earth. 
 

@@ -511,9 +511,7 @@ For this study \( svādhyāya\) the forest-dwellers should go to a pure spot in 
 
 The next section describes the teaching situatioṇ 
 
-atha praviśya maṇd
-
-. alam | prā ˙
+atha praviśya maṇḍalam | prā ˙
 
 nmukha ācārya upaviśyaty uda ˙
 
@@ -563,13 +561,9 @@ namasya svādhyāyāraṇyakasya niyamān udāhariṣyāmah. |
 
 nGS 6.2.3–10:
 
-prāgjyotiṣam aparājitāyāṁdiśi puṇyam upagamya deśam | . . . maṇd
+prāgjyotiṣam aparājitāyāṁdiśi puṇyam upagamya deśam | . . . maṇḍalaṁtu prāgdvā-
 
-. alaṁtu prāgdvā-
-
-ram udagdvāraṁvā . . . bahirmaṇd
-
-. alasthābhir ācamya | prādhīyīran kr̥ taśāntayaḥ |
+ram udagdvāraṁvā . . . bahirmaṇḍalasthābhir ācamya | prādhīyīran kr̥ taśāntayaḥ |
 
 
 
@@ -611,9 +605,7 @@ nmukhaḥ samavasthitaḥ  k 14 k
 
 idaṁvākyaṁmahātejā babhāṣe puṣkarekṣaṇah. |
 
-hitārthaṁpāṇd
-
-. uputrasya saindhavasya vadhe vr̥ taḥ  k 15 k
+hitārthaṁpāṇḍuputrasya saindhavasya vadhe vr̥ taḥ  k 15 k
 
 pārtha pāśupataṁnāma paramāstraṁsanātanam |
 
@@ -623,9 +615,7 @@ Cf. MBh 12.333.14cd–16ab:
 
 \[. . . \]
 
-saṁkalpayitvā trīn piṇd
-
-. ān svenaiva vidhinā prabhuḥ  k 14 k
+saṁkalpayitvā trīn piṇḍān svenaiva vidhinā prabhuḥ  k 14 k
 
 ātmagātroṣmasaṁbhūtaiḥ snehagarbhais tilair api |
 
@@ -665,9 +655,7 @@ The other Pāśupata text that has survived is the Gaṇakārikā. The Ratnaṭ�
 
 commenting on Gaṇakārikā 5, in which the elements of the initiation are
 
-24 Kauṇd
-
-. inya ad  PS 1.1 \(p. 8\):
+24 Kauṇḍinya ad  PS 1.1 \(p. 8\):
 
 **sy¯**
 
@@ -685,9 +673,7 @@ ngavyāvr̥ ttiṁkr̥ tvā mantraśrā-
 
 vaṇaṁca karoti tāvad eṣyah. kālah. kriyate |
 
-\* read: ◦ ād
-
-. hyaṁ, instead of ◦ ādyaṁ. 
+\* read: ◦ āḍhyaṁ, instead of ◦ ādyaṁ. 
 
 I consider the interpretation that takes the locative mūrtau  as depending on ◦ saṁskr̥ tena, 
 
@@ -707,9 +693,7 @@ The word image \( mūrti\) in the Kārikā aims at \( abhipretaḥ \) the spot \
 
 a little to the right \( dakṣiṇa\) of that, which \[by Kauṇḍinya\], in \[his commentary on\] the ‘Sūtra on offering’ \[i.e. PS 1.8–9\], is described \( vyākhyātaṁ\) as the locus
 
-\( sthāna\) of worship of Mahādeva that is characterized by the erect phallus etc.—a spot not separated from it by a wall \( kud
-
-. ya\) or the like. 26
+\( sthāna\) of worship of Mahādeva that is characterized by the erect phallus etc.—a spot not separated from it by a wall \( kuḍya\) or the like. 26
 
 ‘ Mūrti’ is here to be interpreted as a location, ‘at the mūrti’, referring to the site
 
@@ -745,9 +729,7 @@ vyā-
 
 khyātaṁtatsamīpadakṣiṇabhūpradeśaḥ kuṭyādyavyavahito\* ’trābhipretaḥ 
 
-As Harunaga Isaacson has suggested to me, we should read kud
-
-. yādya◦, instead of kuṭyā-
+As Harunaga Isaacson has suggested to me, we should read kuḍyādya◦, instead of kuṭyā-
 
 dya◦. 
 
@@ -809,9 +791,7 @@ utthāpya hastāt saṁgr̥ hya dakṣin
 
 . āṁmūrtim ānayet  k 129 k
 
-tatra maṇd
-
-. alakaṁkr̥ tvā puṣpeṇa praṇavāsanam |
+tatra maṇḍalakaṁkr̥ tvā puṣpeṇa praṇavāsanam |
 
 tasyopari śiśuṁnyasya ūrdhvakāyam uda ˙
 
@@ -899,9 +879,7 @@ Cf. ibid.  ll. 3067 f. dakṣiṇamūrti  here instead of dakṣiṇāmūrti  fo
 
 grateful to Phyllis Granoff who pointed these passages out to me. 
 
-32 Kauṇd
-
-. inya ad  PS 1.9 \(p. 15\):
+32 Kauṇḍinya ad  PS 1.9 \(p. 15\):
 
 **devasya **iti ṣaṣṭhī| svasvāmibhāvaḥ sambandhaḥ | parigrahārtham evādhikurute |
 
@@ -951,9 +929,7 @@ pratipadyante \[ | \]
 
 **a**yatanam iti tatropastheyam |
 
-I propose to read a daṇd
-
-. a  after pratipadyante. 
+I propose to read a daṇḍa  after pratipadyante. 
 
 33 The adverbial daks
 
@@ -967,9 +943,7 @@ dákṣiṇa: ‘ dakṣiṇā́  zur rechten Seite.’ The phrase dakṣiṇām
 
 . āt  in his commen-
 
-tary ad  PS 1.9 shows that Kauṇd
-
-. inya takes dakṣin
+tary ad  PS 1.9 shows that Kauṇḍinya takes dakṣin
 
 . āmūrteḥ  as a compound, altough he
 
@@ -999,9 +973,7 @@ pā́do ’sya v́ıśvā bhūtā
 
 tripā́d ūrdhvá úd ait púruṣah. pā́do ’syehā́bhavat púnaḥ |
 
-táto v́ıṣvàṅ vyakrāmat sāśanānaśané abh́ı  k 4 k This seems to be the purport of Kauṇd
-
-. inya’s remark \( ibid.  p. 15\): dakṣin
+táto v́ıṣvàṅ vyakrāmat sāśanānaśané abh́ı  k 4 k This seems to be the purport of Kauṇḍinya’s remark \( ibid.  p. 15\): dakṣin
 
 . āmūrtigrahan
 
@@ -1053,11 +1025,7 @@ In other words, Śiva’s presence in the Dakṣiṇāmūrti is an act of grace 
 
 37 PS 1.8–9:
 
-hasitagītanr̥ ttad
-
-. uṁd
-
-. uṁkāranamaskārajapyopahāreṇopatiṣṭhet mahādevasya
+hasitagītanr̥ ttaḍuṁḍuṁkāranamaskārajapyopahāreṇopatiṣṭhet mahādevasya
 
 dakṣiṇāmūrteḥ  k 8–9 k
 
@@ -1071,9 +1039,7 @@ testimonies. See Bisschop 2006a, 5.
 
 38 Ratnaṭīkā at Gaṇakārikā 7 \(p. 18\): . . . śivadakṣiṇamūrtau mantraiḥ saṁskr̥ tya . . . . 
 
-Cf. Kauṇd
-
-. inya ad  PS 1.1 \(above, p. 513\). 
+Cf. Kauṇḍinya ad  PS 1.1 \(above, p. 513\). 
 
 39 SP 27.31:
 
@@ -1095,9 +1061,7 @@ divaukasas tam abhyarcya bhavanti gaṇapādhipāḥ  k 15 k
 
 When the compound dakṣiṇāmūrti  is dissolved, dakṣiṇa  is taken as an adjective—
 
-sometimes inflected nominally \(above\), sometimes pronominally \(e.g. Kauṇd
-
-. inya ad  PS
+sometimes inflected nominally \(above\), sometimes pronominally \(e.g. Kauṇḍinya ad  PS
 
 1.1, quoted in ṇ 24 on p. 513\)—which shows again that we should read dakṣiṇāmūrti  as
 
@@ -1357,9 +1321,7 @@ Though the text omits it, we have to assume, after the above and in view of the 
 
 tatas tv adhyāpayāmāsa sarahasyanivartanam |
 
-tad astraṁpāṇd
-
-. avaśreṣṭhaṁmūrtimantam ivāntakam  k 18 k
+tad astraṁpāṇḍavaśreṣṭhaṁmūrtimantam ivāntakam  k 18 k
 
 51 Williams 1982, 141. 
 
@@ -1423,9 +1385,7 @@ tapaḥ sutaptaṁvipulaṁduścaraṁdevadānavaiḥ  k
 
 apūrvaṁsarvatobhadraṁviśvatomukham avyayam |
 
-abdair daśāhasaṁyuktaṁ\(?\) gūd
-
-. ham aprājñaninditam  k
+abdair daśāhasaṁyuktaṁ\(?\) gūḍham aprājñaninditam  k
 
 varn
 
@@ -1453,9 +1413,7 @@ Plate 116
 
 Nagarī: a Dakṣiṇām¯urti
 
-\(cf. MBh 13.17.18\). Yoga in the Pāśupata system is defined by Kauṇd
-
-. inya ad  PS 1.1
+\(cf. MBh 13.17.18\). Yoga in the Pāśupata system is defined by Kauṇḍinya ad  PS 1.1
 
 as ‘union with god’: ucyate yogam | atra ātmeśvarasaṁyogo yogaḥ |
 

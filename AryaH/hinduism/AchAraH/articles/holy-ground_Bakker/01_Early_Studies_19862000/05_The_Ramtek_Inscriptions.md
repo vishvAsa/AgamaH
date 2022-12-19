@@ -79,9 +79,7 @@ Rudra–Narasiṁha Temple, and is not far from the first, seems to be older sti
 
 It is similar to the first in construction as well as in having the huge Narasiṁha
 
-idol installed \(cf. below, Plates 56 and 57\). It is, however, less refined, lacking the two small windows and the ornamentation along the doorposts and on the outer walls. However, it has eight ‘firepits’ \(?\) \( kuṇd
-
-. as\) along its sides, above
+idol installed \(cf. below, Plates 56 and 57\). It is, however, less refined, lacking the two small windows and the ornamentation along the doorposts and on the outer walls. However, it has eight ‘firepits’ \(?\) \( kuṇḍas\) along its sides, above
 
 which are small pedestals constructed against the temple wall on which, originally, dikpāla  deities may have been installed. Two fragments of such images have been found and are at present stored in the Central Nagpur Museum. 
 
@@ -151,9 +149,7 @@ very similar inscription is found on the parallel pillar at the right side of th
 
 As it happens, photographs of both inscriptions have been published in Indian Archaeology 1982–83—A Review \(p. 167\), but this might have been more or less accidental, since the description of these two plates \(p. 137\) confuses them with the reported ‘Prabhāvatī Guptā inscription’ ‘on the southern wall
 
-of the maṇd
-
-. apa’. Nothing is said as to the contents of the two parallel inscriptions, and they certainly do not endorse the statement made in the IAR
+of the maṇḍapa’. Nothing is said as to the contents of the two parallel inscriptions, and they certainly do not endorse the statement made in the IAR
 
 that the temple ‘on the basis of these inscriptions could definitely be dated to the fifth to sixth century ad’.11 In fact, both inscriptions belong to the Yādava period as will be shown below. I shall refer to these two inscriptions as Kevala–Narasiṁha Temple Ramtek Inscription No. 1 & No. 2. 
 
@@ -249,9 +245,7 @@ The text is a mixture of verse \( śloka\) and prose \(i.e. of gadya  and padya\
 
 The verses appear to contain several double-entendres \( śleṣa\), whereas the last
 
-hemistich is to be read twice \(indicated by the figure 2 between daṇd
-
-. as\) in a
+hemistich is to be read twice \(indicated by the figure 2 between daṇḍas\) in a
 
 different way in order to make a complete śloka  verse. This is made explicit
 
@@ -353,9 +347,7 @@ Text
 
 . 
 
-\[**2**\] d
-
-. anāmādvijaḥ putrastasyababhūvakāsarapure
+\[**2**\] ḍanāmādvijaḥ putrastasyababhūvakāsarapure
 
 \[**3**\] śrīmānkaviḥ śrīdharaḥ | tatputraḥ sukr̥tītri
 
@@ -373,9 +365,7 @@ A similar double-entendre is found in the Ambā inscription, which records the e
 
 a Rāma–Nārāyaṇa Temple to commemorate the death of General Rāma, who is praised
 
-by his aunt \(Lakṣmī\) in the following ambiguous Sragdharā verse: p h r i aud
-
-. has tyāge sa rāmo nayavinayavidām agragaṇyas sa rāmo, 
+by his aunt \(Lakṣmī\) in the following ambiguous Sragdharā verse: p h r i auḍhas tyāge sa rāmo nayavinayavidām agragaṇyas sa rāmo, 
 
 sauryasvāmī sa rāmo harapadakamaladhyānadhīraḥ sa rāmaḥ |
 
@@ -399,9 +389,7 @@ tattvajñāno sa rāmo  h ni i jakulasaraso rājahaṁsaḥ sa rāmaḥ  k 38 k
 
 Analysed text
 
-āsīd vainyapure śriyām adhipatiś cāmuṇd
-
-. anāmā dvijaḥ , 
+āsīd vainyapure śriyām adhipatiś cāmuṇḍanāmā dvijaḥ , 
 
 putras tasya babhūva kāsarapure śrīmān kaviḥ śrīdharaḥ |
 
@@ -811,15 +799,11 @@ M\(1\) in footnotes. The numbers of the lines are given in bold face. Rejected r
 
 Conjectural readings by Mirashi and myself are, if considered plausible enough, given in the text between angular brackets h i, or else in the apparatus. 
 
-Accepted alterations \(emendations\) are indicated by round brackets \( \). It is not clear whether the daṇd
-
-. as  that appear in Mirashi’s text are his own or actually found in the inscriptioṇ 
+Accepted alterations \(emendations\) are indicated by round brackets \( \). It is not clear whether the daṇḍas  that appear in Mirashi’s text are his own or actually found in the inscriptioṇ 
 
 Occasionally they interfere with the
 
-metre, more often they are missing at the end of a verse or hemistich. The daṇd
-
-. as  given in the present edition indicate the metrical divisions and are my own without claim of authenticity. The same applies to the numbering of the verses. All emendations and conjectures by Mirashi that are metrically incorrect have been rejected and relegated to the apparatus, since, as will be proved, the author of the inscription was a skilful poet who knew his prosody. 
+metre, more often they are missing at the end of a verse or hemistich. The daṇḍas  given in the present edition indicate the metrical divisions and are my own without claim of authenticity. The same applies to the numbering of the verses. All emendations and conjectures by Mirashi that are metrically incorrect have been rejected and relegated to the apparatus, since, as will be proved, the author of the inscription was a skilful poet who knew his prosody. 
 
 Edition
 
@@ -1283,9 +1267,7 @@ k 21 k
 
 E
 
-**11a **conieci ◦ maṇd
-
-. ala◦:
+**11a **conieci ◦ maṇḍala◦:
 
 E M ma
 
@@ -1347,9 +1329,7 @@ saundaryasya  M\(2\)
 
 14
 
-Śārdūlavikrīd
-
-. ita
+Śārdūlavikrīḍita
 
 15 Vasantatilaka
 
@@ -1365,9 +1345,7 @@ saundaryasya  M\(2\)
 
 20 Pr̥thvī
 
-21 Śārdūlavikrīd
-
-. ita
+21 Śārdūlavikrīḍita
 
 
 
@@ -1601,23 +1579,13 @@ ke ke nr̥pā ja ˘ ˘ ˘ ˘ ˘ ˘ ,
 
 **22b ** ghaṇadeva◦ conj. M\(1\): siṁghaṇadeva◦ conj. M\(2\)
 
-**23b **◦ daṇd
-
-. aiḥ  M\(1\): ◦ daṇd
-
-. air
+**23b **◦ daṇḍaiḥ  M\(1\): ◦ daṇḍair
 
 M\(2\)
 
-**23c ** vikhaṇd
+**23c ** vikhaṇḍitā◦ M: viṣaṇḍitā◦ E
 
-. itā◦ M: viṣaṇḍitā◦ E
-
-**23d **◦ khaṇd
-
-. air  M: ṣaṇd
-
-. air  E
+**23d **◦ khaṇḍair  M: ṣaṇḍair  E
 
 **24c ** māsādya
 
@@ -1681,9 +1649,7 @@ M
 
 \(Upajāti\)
 
-31 Śārdūlavikrīd
-
-. ita
+31 Śārdūlavikrīḍita
 
 32 Indravajra \(Upajāti\)
 
@@ -1997,9 +1963,7 @@ E
 
 **46b ** prabhāva  conj. M
 
-34 Śārdūlavikrīd
-
-. ita
+34 Śārdūlavikrīḍita
 
 35 Śloka
 
@@ -2019,9 +1983,7 @@ E
 
 42 Upajāti
 
-43 Śārdūlavikrīd
-
-. ita
+43 Śārdūlavikrīḍita
 
 44 Upendravajra
 
@@ -2029,9 +1991,7 @@ E
 
 45 Rathoddhatā
 
-46 Śārdūlavikrīd
-
-. ita
+46 Śārdūlavikrīḍita
 
 
 
@@ -2389,9 +2349,7 @@ Indravajra \(Upajāti\)
 
 52 Indravajra
 
-53 Śārdūlavikrīd
-
-. ita
+53 Śārdūlavikrīḍita
 
 54 Śloka ? 
 
@@ -2741,9 +2699,7 @@ Indravajra
 
 82 Indravajra
 
-83 Śārdūlavikrīd
-
-. ita
+83 Śārdūlavikrīḍita
 
 84–85 Śloka
 
@@ -2855,9 +2811,7 @@ Upajāti
 
 90
 
-Śārdūlavikrīd
-
-. ita
+Śārdūlavikrīḍita
 
 91
 
@@ -2873,15 +2827,11 @@ Upajāti
 
 94
 
-Śārdūlavikrīd
-
-. ita
+Śārdūlavikrīḍita
 
 95 Sragdharā
 
-96 Śārdūlavikrīd
-
-. ita
+96 Śārdūlavikrīḍita
 
 
 
@@ -3035,9 +2985,7 @@ om. M\(2\)
 
 **106d ** dattā◦ M\(1\) \(uncertain\)
 
-97 Śārdūlavikrīd
-
-. ita
+97 Śārdūlavikrīḍita
 
 98 Upajāti \(Upendravraja?\)
 
@@ -3053,9 +3001,7 @@ Vasantatilaka
 
 103 Upajāti
 
-104–106 Śārdūlavikrīd
-
-. ita
+104–106 Śārdūlavikrīḍita
 
 
 
@@ -3353,17 +3299,13 @@ ragaṇitāni  M\(2\)
 
 **117b ** devaścara  M\(2\)
 
-107–111 Śārdūlavikrīd
-
-. ita
+107–111 Śārdūlavikrīḍita
 
 112 Śloka
 
 113 Śloka
 
-114 Śārdūlavikrīd
-
-. ita
+114 Śārdūlavikrīḍita
 
 115 Indravajra
 
@@ -3487,9 +3429,7 @@ māīdeva  M\(1\), māideva  M\(2\)
 
 118 Indravajra \(Upajāti\)
 
-l. 70 Vasantatilaka, Śārdūlavikrīd
-
-. ita
+l. 70 Vasantatilaka, Śārdūlavikrīḍita
 
 Translation
 

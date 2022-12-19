@@ -39,9 +39,7 @@ nkarācārya hoinaṇ in: r̥ tambharā
 
 2005
 
-The Role of Caṇd
-
-. a in the Early History of the Pāśupata Cult and the Image
+The Role of Caṇḍa in the Early History of the Pāśupata Cult and the Image
 
 on the Mathurā Pillar dated Gupta Year 61. in: IIJ 48 \(2005\), 207–222. 
 
@@ -197,9 +195,7 @@ Catalogue of the Coins of the Gupta Dynasties and of Śaśā ˙
 
 nka, King of
 
-Gaud
-
-. a. The British Museum, Londoṇ 
+Gauḍa. The British Museum, Londoṇ 
 
 1936
 
@@ -209,9 +205,7 @@ Allchin, F.r̥
 
 1957
 
-Sanskrit Ed
-
-. ūka – Pāli Eluka. in: Bulletin of the School of Oriental and
+Sanskrit Eḍūka – Pāli Eluka. in: Bulletin of the School of Oriental and
 
 African Studies XX \(1957\), 1–4. 
 
@@ -413,9 +407,7 @@ Bajpai, K.d.
 
 1977–78
 
-New Light on the Early Pāṇd
-
-. ava Dynasty of South Kosala. in: ABORI
+New Light on the Early Pāṇḍava Dynasty of South Kosala. in: ABORI
 
 LVIII–LIX \(1977–78\), ‘Diamond Jubilee Volume’, ediṭ by r̥ṇ Dandekar, 434–437. 
 
@@ -767,9 +759,7 @@ Nieuwe Oogst uit de Tuin der Geesteswetenschappen te Groningeṇ Barkhuis Publis
 
 \*2010f
 
-The Gospel of Kauṇd
-
-. inya: The Descent of God in Gujarat and the Practice of Imitating God. in: Dijkstra, Jitse, Justin Kroesen & Yme Kuiper \(edṣ\), Myths, Martyrs, and Modernity. Studies in the History of Religions in Honour 
+The Gospel of Kauṇḍinya: The Descent of God in Gujarat and the Practice of Imitating God. in: Dijkstra, Jitse, Justin Kroesen & Yme Kuiper \(edṣ\), Myths, Martyrs, and Modernity. Studies in the History of Religions in Honour 
 
 References
 
@@ -795,11 +785,7 @@ The Gupta–Vākāṭaka Relationship. A new interpretation of Rāmagiri evidenc
 
 \*2013a
 
-The Temple of Maṇd
-
-. aleśvarasvāmiṇ The Muṇd
-
-. eśvarī Inscription of the Time
+The Temple of Maṇḍaleśvarasvāmiṇ The Muṇḍeśvarī Inscription of the Time
 
 of Udayasena Reconsidered. in: Bosma, ṇ & Nina Mirnig \(edṣ\), IIJ 56.3–4
 
@@ -1103,17 +1089,13 @@ The Kirātārjunīya of Bhāravi with the commentary \(Ghan
 
 . ṭāpatha\) of
 
-Mallinātha and various readings. Ed. Paṇd
-
-. it Durgāprasād and Kāśīnāth
+Mallinātha and various readings. Ed. Paṇḍit Durgāprasād and Kāśīnāth
 
 Pān
 
 ́
 
-. d
-
-. urang Parab, revised by Wāsudev LaxmaṇSāstrī Pan
+. ḍurang Parab, revised by Wāsudev LaxmaṇSāstrī Pan
 
 . śīkar̥ Bombay
 
@@ -1193,9 +1175,7 @@ Bisschop, Peter
 
 2002
 
-On a quotation of the Skandapurāṇa in the Tīrthavivecanakāṇd
-
-. a of
+On a quotation of the Skandapurāṇa in the Tīrthavivecanakāṇḍa of
 
 Lakṣmīdhara’s Kr̥tyakalpataru. Studies in the Skandapurāṇa V. in: IIJ 45
 
@@ -1221,9 +1201,7 @@ Bloch, ṭ
 
 1902–03
 
-The Temple of Muṇd
-
-. eśvarī. in: ASI Annual Report 1902–03, 42 f. 
+The Temple of Muṇḍeśvarī. in: ASI Annual Report 1902–03, 42 f. 
 
 1906
 
@@ -1279,9 +1257,7 @@ in: Purāṇa XXV No. 2 \(1983\), 254–80.
 
 1984
 
-The Pretakalpa of the Garud
-
-. apurāṇa \(Adhyāya 5\). Critically edited by
+The Pretakalpa of the Garuḍapurāṇa \(Adhyāya 5\). Critically edited by
 
 Giorgio Bonazzoli. Varanasi. 
 
@@ -1347,17 +1323,11 @@ Bowra, C.M.
 
 Heroic Poetry. Londoṇ 
 
-Brahmāṇd
+Brahmāṇḍapurāṇa
 
-. apurāṇa
+\(BḍP\)
 
-\(Bd
-
-. P\)
-
-Śrī-Vyāsa-maharṣiproktaṁBrahmāṇd
-
-. apurāṇam. \(With Introduction in
+Śrī-Vyāsa-maharṣiproktaṁBrahmāṇḍapurāṇam. \(With Introduction in
 
 Sanskrit and English and an Alphabetical Index of Verses\). Ediṭ by J. L. 
 
@@ -1945,9 +1915,7 @@ Dviveda, Vraja Vallabha
 
 Purāṇavarṇitāḥ Pāśupatā yogācāryāḥ . in: Purāṇa XXIV.2 \(1982\), 
 
-Saṁskr̥ta-khaṇd
-
-. a pp. 1–21. 
+Saṁskr̥ta-khaṇḍa pp. 1–21. 
 
 Eaton, r̥M. 
 
@@ -2027,9 +1995,7 @@ Encyclopedia of Indian Temple Architecture
 
 \(EITA I\)
 
-South India. Lower Drāvid
-
-. ad¯
+South India. Lower Drāviḍad¯
 
 eśa 200 bc – ad 1324. Edited by Michael W. 
 
@@ -2097,11 +2063,7 @@ Falk, Harry
 
 1999–2000
 
-The Pātagaṇd
-
-. igūd
-
-. em copper-plate grant of the Ikṣvāku king Ehavala
+The Pātagaṇḍigūḍem copper-plate grant of the Ikṣvāku king Ehavala
 
 Cāntamūla. in: Silk Road Art and Archaeology 6 \(1999–2000\), 275–283. 
 
@@ -3375,9 +3337,7 @@ Nagpur̥ pp. 372–87.
 
 Dvitīya Pr̥thīṣeṇācā Māhurjharī Tāmrapaṭ in: Vidarbha Saṁśodhana
 
-Maṇd
-
-. ala Vārṣika 1971–72, 53–77. 
+Maṇḍala Vārṣika 1971–72, 53–77. 
 
 Korolkova, E.F. 
 
@@ -3737,15 +3697,11 @@ Mahāvastu
 
 Le Mahāvastu. Texte sanscrit publié pour la première fois et accompagné d’introduction et d’un commentaire par É. Senarṭ Paris 1882–1897. Reprint, Tokyo 1977. 3 vols. 
 
-Māheśvarakhaṇd
-
-. a
+Māheśvarakhaṇḍa
 
 \(MKh Ve ˙
 
-nk. Eḍ\) The Māheśvarakhaṇd
-
-. a of the Skandapurāṇa \(SkP\), Vol. 1. \[Ediṭ by\]
+nk. Eḍ\) The Māheśvarakhaṇḍa of the Skandapurāṇa \(SkP\), Vol. 1. \[Ediṭ by\]
 
 Kṣemarāja. Bombay 1910. 
 
@@ -3757,9 +3713,7 @@ References
 
 \(MKh Va ˙
 
-ng. Eḍ\) Skandapurāṇam, Māheśvarakhaṇd
-
-. am. \[Ediṭ by\] Śrīyukta Pañcānana
+ng. Eḍ\) Skandapurāṇam, Māheśvarakhaṇḍam. \[Ediṭ by\] Śrīyukta Pañcānana
 
 Tarkaratna. \[With a Bengali translation by\] ŚrĪ Tārākānta Devaśarma
 
@@ -3777,9 +3731,7 @@ Majumdar, ṇG.
 
 1920
 
-The Muṇd
-
-. eśvarī Inscription of the Time of Udayasena: The Year 30. in: Indian Antiquary XLIX \(1920\), 21–29. 
+The Muṇḍeśvarī Inscription of the Time of Udayasena: The Year 30. in: Indian Antiquary XLIX \(1920\), 21–29. 
 
 1935–37
 
@@ -3847,23 +3799,17 @@ Mann, Thomas
 
 Der Zauberberg. Fisher Verlag, Frankfurt 1952 \(reprint 1996\). 
 
-Mārkaṇd
-
-. eyapurāṇa
+Mārkaṇḍeyapurāṇa
 
 \(MkP\)
 
-The Mārkaṇd
-
-. eyamahāpurāṇam ediṭ \(with a Hindi translation\) by r̥ṇ 
+The Mārkaṇḍeyamahāpurāṇam ediṭ \(with a Hindi translation\) by r̥ṇ 
 
 Śarmā. Venkatesvara Steam Press, Bombay 1910. Reprinted with an Ślokānukraman
 
 .ī by ṇ s. Siṁha. Nag Publishers, Delhi 1983. 
 
-\(Mārkpur̥\) The Márcaṇd
-
-. eya Puráṇa in the original Sanscrit edited by K. M. Banerjea. 
+\(Mārkpur̥\) The Márcaṇḍeya Puráṇa in the original Sanscrit edited by K. M. Banerjea. 
 
 Calcutta 1855–62. Bibliotheca Indica 29. \[Reprinted by Biblio Verlag, Osnabrück 1988\]
 
@@ -3907,9 +3853,7 @@ Matsyapurāṇa
 
 .ītaṁMatsyapurāṇam, etad pustakam
 
-ānandāśramasthapaṇd
-
-. itaiḥ saṁśodhitam. \[Poona\] 1981. Ananda Ashrama
+ānandāśramasthapaṇḍitaiḥ saṁśodhitam. \[Poona\] 1981. Ananda Ashrama
 
 Sanskrit Series 54. \[Reprint of the ed. of H. ṇ Apte ad 1907\]
 
@@ -4013,9 +3957,7 @@ Meghadūta m˜
 
 e Rāmagiri arthāt Rāmṭek. Nagpur̥ Vidarbha Saṁśodhana
 
-Maṇd
-
-. ala, No. 12. 
+Maṇḍala, No. 12. 
 
 1960
 
@@ -4171,9 +4113,7 @@ Neuß, Jürgen
 
 2003
 
-The Temple of Muṇd
-
-. eśvarī: Reconsidering the Evidence. in: Berliner
+The Temple of Muṇḍeśvarī: Reconsidering the Evidence. in: Berliner
 
 Indologische Studien 15/16/17 \(2003\), 531–585. 
 
@@ -4233,9 +4173,7 @@ Indian Historical Quarterly 25 \(1949\): 31–37.
 
 1959
 
-The History of the Gāhad
-
-. avāla Dynasty. Calcutta. 
+The History of the Gāhaḍavāla Dynasty. Calcutta. 
 
 Norman, K.r̥ 
 
@@ -4585,9 +4523,7 @@ Rao, Lakshman K.V.
 
 1924
 
-The Telugu Academy Plates of Vishṇukuṇd
-
-. in = Mādhavavarman III. A.d. 
+The Telugu Academy Plates of Vishṇukuṇḍin = Mādhavavarman III. A.d. 
 
 594. in: Journal of the Department of Letters, University of Calcutta Vol. XI \(1924\), 31–62. 
 
@@ -4601,9 +4537,7 @@ Raven, Ellen M.
 
 1994a
 
-Gupta Gold Coins with a Garud
-
-. a-Banner̥ Samudragupta–Skandagupta. 
+Gupta Gold Coins with a Garuḍa-Banner̥ Samudragupta–Skandagupta. 
 
 Groningeṇ 2 vols. Gonda Indological Studies I. 
 
@@ -4911,9 +4845,7 @@ Sarkar, H.
 
 1982
 
-The Chāyā-stambhas from Nāgārjunakoṇd
-
-. a. in: Settar & Sontheimer 1982, 
+The Chāyā-stambhas from Nāgārjunakoṇḍa. in: Settar & Sontheimer 1982, 
 
 199–207. 
 
@@ -5117,9 +5049,7 @@ Sen, Nabaneeta
 
 Comparative Studies in Oral Epic Poetry and the Vālmīki Rāmāyaṇa: A
 
-report on the Bālākāṇd
-
-. a. in: JAOS 86 \(1966\), 397–409. 
+report on the Bālākāṇḍa. in: JAOS 86 \(1966\), 397–409. 
 
 Settar, s. & Gunther d. Sontheimer \(edṣ\)
 
@@ -5189,11 +5119,7 @@ Proceedings of the Indian History Congress 31st Session 1969. Varanasi. pp.
 
 1977–78
 
-Māṇd
-
-. hal Utkhanana. in: Vidarbha Saṁśodhana Maṇd
-
-. ala Vārṣika 1977–78, 
+Māṇḍhal Utkhanana. in: Vidarbha Saṁśodhana Maṇḍala Vārṣika 1977–78, 
 
 142–174. 
 
@@ -5233,9 +5159,7 @@ New Delhi. pp. 227–268.
 
 1995
 
-Inscriptions of the Śarabhapurīyas, Pāṇd
-
-. uvaṁśins and Somavaṁśins. Delhi. 2
+Inscriptions of the Śarabhapurīyas, Pāṇḍuvaṁśins and Somavaṁśins. Delhi. 2
 
 vols. 
 
@@ -5263,9 +5187,7 @@ Shastri, A. M. & Ch. Gupta
 
 1997
 
-Māṇd
-
-. hal. Plates of Vākāṭaka Rudrasena II, Year 5. in: Annals of the
+Māṇḍhal. Plates of Vākāṭaka Rudrasena II, Year 5. in: Annals of the
 
 Bhandarkar Research Institute LXXVIII \(1997\), 143–157. 
 
@@ -5419,9 +5341,7 @@ Siṁha. Nag Publishers, Delhi 1990\].
 
 \(KKh\)
 
-Skandapurāṇa \(SkP\), Vol. IV: The Kāśīkhaṇd
-
-. a. \[With the commentary
+Skandapurāṇa \(SkP\), Vol. IV: The Kāśīkhaṇḍa. \[With the commentary
 
 \(T
 
@@ -5467,9 +5387,7 @@ Andhaka Cycles. Critical Edition with an Introduction & English Synopsis by Pete
 
 \(SPBh \)
 
-Skandapurāṇasya Ambikākhaṇd
-
-. aḥ , saṁpādakaḥ Kr̥ṣṇaprasāda Bhaṭṭarāī. 
+Skandapurāṇasya Ambikākhaṇḍaḥ , saṁpādakaḥ Kr̥ṣṇaprasāda Bhaṭṭarāī. 
 
 Kathmandu 1988. Mahendraratnagranthamālā 2. 
 
@@ -5757,9 +5675,7 @@ Tedesco, P.
 
 1945
 
-Sanskrit muṇd
-
-. a – ’Shaven’. in: JAOS 65 \(1945\), 82–98. 
+Sanskrit muṇḍa – ’Shaven’. in: JAOS 65 \(1945\), 82–98. 
 
 Thapar, Romila
 
@@ -5853,9 +5769,7 @@ Trivikramabhaṭṭa
 
 Damayantīkathā or Nalacampū, with the Commentary Viṣamapadaprakāśa
 
-by Caṇd
-
-. apāla. Ediṭ by ṇB. Parvaṇikar, Durgāprasād and Śivadatta. 
+by Caṇḍapāla. Ediṭ by ṇB. Parvaṇikar, Durgāprasād and Śivadatta. 
 
 Nirnaya Sagar Press, Bombay 1885 \(2nd eḍ, 1903\). 
 
@@ -5989,9 +5903,7 @@ Mahāmuniśrīmad-Vyāsa-pran
 
 .ītaṁVāyupurāṇam, etat pustakam
 
-ānandāśramasthapaṇd
-
-. itaiḥ saṁśodhitam. \[Poona\] 1983. Ananda Ashrama
+ānandāśramasthapaṇḍitaiḥ saṁśodhitam. \[Poona\] 1983. Ananda Ashrama
 
 Sanskrit Series 49. \[Reprint of the edition by H. ṇ Apte ad 1905\]
 
@@ -6227,9 +6139,7 @@ Osaka. Senri Ethnological Studies No. 50. pp. 71–113.
 
 2004
 
-The Relation between the Skandapurāṇa and the āvantyakhaṇd
-
-. a. in: Bakker, 
+The Relation between the Skandapurāṇa and the āvantyakhaṇḍa. in: Bakker, 
 
 Hans ṭ \(eḍ\), Origin and Growth of the Puranic Text Corpus with Special Reference to the Skandapurāṇa. Delhi. Papers of the 12th World Sanskrit
 

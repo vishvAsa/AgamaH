@@ -263,9 +263,7 @@ Paunar: Dhenukāsuravadha
 
 Considerations of style would suggest that many of the findings preserved in the Ashram, including the panels, do not belong to the Vākāṭakas, but may date
 
-from a somewhat later period. Walter Spink ascribes them to ‘a period \(c. ad 500\) of Viṣṇukuṇḍin rule over Vidarbha’.16 The Viṣṇukuṇḍins, whose homeland was the Guntur District \(AP\) and the region to the north of the Śrīśaila Hills \(the present Mahbubnagar District AP\), became, when their kingdom began to 14 The story covers Kr̥ṣṇa disposing of an elephant, named Kuvalayāpīd
-
-. a, Kr̥ṣṇa and
+from a somewhat later period. Walter Spink ascribes them to ‘a period \(c. ad 500\) of Viṣṇukuṇḍin rule over Vidarbha’.16 The Viṣṇukuṇḍins, whose homeland was the Guntur District \(AP\) and the region to the north of the Śrīśaila Hills \(the present Mahbubnagar District AP\), became, when their kingdom began to 14 The story covers Kr̥ṣṇa disposing of an elephant, named Kuvalayāpīḍa, Kr̥ṣṇa and
 
 Balarāma entering the arena and killing the wrestlers Cān
 
@@ -295,15 +293,11 @@ Paunar: Little Kr̥ṣṇa’s play with the moon
 
 17 Huntington 1985, 180 observes:
 
-The sculptural style at Nāgārjunakoṇd
-
-. a, like that at Amarāvatī, is known from the
+The sculptural style at Nāgārjunakoṇḍa, like that at Amarāvatī, is known from the
 
 carved stone slabs that were part of the veneer of the major stūpas, as well as from
 
-free-standing images. By and large, the Nāgārjunakoṇd
-
-. a carvings are closely tied to
+free-standing images. By and large, the Nāgārjunakoṇḍa carvings are closely tied to
 
 the latest sculptures from Amarāvatī in style as well as range of subjects. If anything, the compositions of the reliefs are often more animated, the figures more lithe and slender, and the spatial arrangements more sophisticated. \(italics mine\) 
 
@@ -313,9 +307,7 @@ One of the panels \(Plate 15\) was interpreted by Mirashi \(1954, 4\) as ‘the 
 
 Yet another identification has been proposed by Chandrashekhar Gupta, who describes the panel as follows. 
 
-The main figure standing in the centre facing right \(head mutilated\) is shown carrying a child. Two persons are standing on his either \[sic\] side and a female attendant is seated in the Garud
-
-. akrama  posture, holding an oval object in her hands in the lower right corner̥ One of the male figures is an attendant holding the staff of an umbrella and the other is some elderly person in the varadamudrā. 
+The main figure standing in the centre facing right \(head mutilated\) is shown carrying a child. Two persons are standing on his either \[sic\] side and a female attendant is seated in the Garuḍakrama  posture, holding an oval object in her hands in the lower right corner̥ One of the male figures is an attendant holding the staff of an umbrella and the other is some elderly person in the varadamudrā. 
 
 The scene is described \[by Mirashi\] as Daśaratha receiving Rāma, brought to him
 

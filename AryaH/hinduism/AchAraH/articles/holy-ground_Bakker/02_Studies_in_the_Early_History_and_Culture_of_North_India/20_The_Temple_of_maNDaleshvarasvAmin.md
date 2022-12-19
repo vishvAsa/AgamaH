@@ -57,13 +57,9 @@ Daniell: drawing  ad 1790  7
 
 The two halves of the stone have been combined and were first edited and published by r̥d. Banerji in Epigraphia Indica IX \(1907–08\). 
 
-This Muṇd
+This Muṇḍeśvarī Inscription of the Time of Udayasena, Year 30 has gone through altogether five editions \(r̥d. Banerji 1907–08, ṇG. Majumdar 1920, P.K. Agrawala 1987, P.r̥ Srinivasan 1991, J. Neuss 2003\), but in spite of the work done by these excellent epigraphists, I think there is still room for improvemenṭ 8
 
-. eśvarī Inscription of the Time of Udayasena, Year 30 has gone through altogether five editions \(r̥d. Banerji 1907–08, ṇG. Majumdar 1920, P.K. Agrawala 1987, P.r̥ Srinivasan 1991, J. Neuss 2003\), but in spite of the work done by these excellent epigraphists, I think there is still room for improvemenṭ 8
-
-The temple on Muṇd
-
-. eśvarī Hill
+The temple on Muṇḍeśvarī Hill
 
 Before discussing the inscription in more detail, however, a few words should be said about the temple. Joanna Williams gives the following assessmenṭ 
 
@@ -81,9 +77,7 @@ Fragments at the site extend from the sixth century until the eighth or later̥ 
 
 ![Image 20509](images/016055.png)
 
-20 / The Temple of Maṇd
-
-. aleśvarasvāmin
+20 / The Temple of Maṇḍaleśvarasvāmin
 
 393
 
@@ -115,9 +109,7 @@ In 2018 Buckee
 
 presented a paper The Curious Case of the Octagonal Temple: A Revised History of the Temples of Mundeshvari Hill in the 24th Conference of the EASAA in Naples, 2–6
 
-July 2018. I refer to this as Buckee forthcoming. Again another extensive survey of the archaeological remains of the hill, in situ  and in museums, was made by Meera Sharma 2017. It is included in Jayaswal et al.  2017. This latest inventory is not incorporated in the present essay. Finally an extensive treatment of the historic evidence regarding Muṇd
-
-. eśvarī Hill is found in Bakker 2014, 221–39. 
+July 2018. I refer to this as Buckee forthcoming. Again another extensive survey of the archaeological remains of the hill, in situ  and in museums, was made by Meera Sharma 2017. It is included in Jayaswal et al.  2017. This latest inventory is not incorporated in the present essay. Finally an extensive treatment of the historic evidence regarding Muṇḍeśvarī Hill is found in Bakker 2014, 221–39. 
 
 
 
@@ -129,9 +121,7 @@ Hans Bakker
 
 temple to the first half of the seventh century. 13 However, Neuss rejects one piece of evidence used to endorse this theory, viz. the alleged contemporaneity of the temple and the inscriptioṇ 14
 
-The date of the Muṇd
-
-. eśvarī Inscription
+The date of the Muṇḍeśvarī Inscription
 
 Neuss’s main arguments run as follows. Firstly, there is no reason to assume that ‘the year 30’ refers to the Harṣa Era, as has been done by all scholars following Bloch \(see above\), apart from Majumdar, who takes it to refer to the Gupta Era. Nuess refers to Asher, who had argued ‘that in the ancient written documents of eastern India, time was almost invariably marked according to the regnal year of a current monarch’, 15 and, Neuss continues, ‘that there is thus no basis to connect the date of our inscription with any known era’. 16
 
@@ -151,9 +141,7 @@ Our disagreement is mainly the result of a different interpretation of the signs
 
 . 
 
-Neuss, following Majumdar, takes these as daṇd
-
-. as  that conclude a sentence. 
+Neuss, following Majumdar, takes these as daṇḍas  that conclude a sentence. 
 
 13 Neuss 2003, 543. The temple has a long history of reconstructions. Its architectural history has been investigated by Adam Hardy and Fiona Buckee. Buckee \( forthcoming\) concludes that the present octagonal shape of the temple may go back to a reconstruction, influenced by nearby Suri tombs, made in the 16th or 17th century. The present appearance of the temple is due to a ‘creative restauration’ made between 1913–1916. 
 
@@ -169,17 +157,13 @@ Neuss, following Majumdar, takes these as daṇd
 
 ![Image 20511](images/016018.jpg)
 
-20 / The Temple of Maṇd
-
-. aleśvarasvāmin
+20 / The Temple of Maṇḍaleśvarasvāmin
 
 395
 
 In my view this interpretation is untenable, because it would break up the sentence constructioṇ In line 6 the Sanskrit syntax requires that we do not read a pause after ◦ devakulasya, since this is the adject of upanibandhaḥ kāritaḥ 
 
-in line 9. If we would take this sign as a daṇd
-
-. a  in line 11, it would separate
+in line 9. If we would take this sign as a daṇḍa  in line 11, it would separate
 
 the subject from the predicate: . . . ◦ upakaran
 
@@ -187,9 +171,7 @@ the subject from the predicate: . . . ◦ upakaran
 
 reasons I follow the suggestion first made by Banerji to the effect that, ‘The sign at the end of this line has been added in order to fill up the vacant space.’ 18
 
-Similar scroll-work is, for instance, found at the end of line 3 \(after the double daṇd
-
-. a  that concludes v. 4\) of the so-called ‘Jaunpur Stone Inscription of
+Similar scroll-work is, for instance, found at the end of line 3 \(after the double daṇḍa  that concludes v. 4\) of the so-called ‘Jaunpur Stone Inscription of
 
 Īśānavarman’.19 In line 16 of our inscription the double scroll sign is used to fill up the line and, concomitantly, to mark a new paragraph, uktaṁca, so that
 
@@ -199,9 +181,7 @@ My edition is presented in two ways: first, a literal transliteration of what is
 
 Plate 82
 
-Muṇd
-
-. eśvarī Inscription, Year 30
+Muṇḍeśvarī Inscription, Year 30
 
 18 Banerji 1907–08 in EI IX, 220 ṇ 1. 
 
@@ -213,9 +193,7 @@ Muṇd
 
 Hans Bakker
 
-The Muṇd
-
-. eśvarī Inscription, Year 30
+The Muṇḍeśvarī Inscription, Year 30
 
 Transliteration
 
@@ -323,9 +301,7 @@ this may be just damage or there might have been one more akṣara  on this line
 
 
 
-20 / The Temple of Maṇd
-
-. aleśvarasvāmin
+20 / The Temple of Maṇḍaleśvarasvāmin
 
 397
 
@@ -341,11 +317,7 @@ and ˘ : metrical quantity of illegible syllables
 
 Where the inscription has a halanta  character, or where absence of saṁdhi indicates pausa, a
 
-comma has been inserted. Where the interpretation requires a daṇd
-
-. a  or double daṇd
-
-. a, these
+comma has been inserted. Where the interpretation requires a daṇḍa  or double daṇḍa, these
 
 have been inserted between h i marked by ∗. Line numbers are inserted in bold between \[ \]. 
 
@@ -509,9 +481,7 @@ Neuss. None of the editors has been able to restore this sentence.
 
 
 
-20 / The Temple of Maṇd
-
-. aleśvarasvāmin
+20 / The Temple of Maṇḍaleśvarasvāmin
 
 399
 
@@ -537,9 +507,7 @@ nikāya, ‘which was headed by the minister Bhadraviṣṇu, the governor of th
 
 Gomibhaṭa needed the permission of kulapati  Bhān¯udayin for his first donation, viz. accomodation or housing \( maṭha\) for the ascetics, since that was to be built on the premises of the Vinīteśvaramaṭha. The word kulapati  poses a problem. Literally it signifies ‘head of a community’. Because the community here is defined as that of a maṭha, a likely interpretation is that the kulapati  is 37 If we read with Neuss svadevanikāya  in l. 4, this membership would be expliciṭ 
 
-38 EI XIII No. 7, 109–21: Two Talesvara Copperplates by Y.r̥ Gupte \(1915–16\). These two copperplates have been found in Taleśvara in the Almore District, United Provinces \(modern Uttarakhand\). Though they appear to be forgeries, they are nevertheless documents pertaining to the period ‘between the middle of the 6th and second quarter of the 7th century’ \(Gupte op. ciṭ  113\), i.e. to the same period as to which the Muṇd
-
-. eśvarī
+38 EI XIII No. 7, 109–21: Two Talesvara Copperplates by Y.r̥ Gupte \(1915–16\). These two copperplates have been found in Taleśvara in the Almore District, United Provinces \(modern Uttarakhand\). Though they appear to be forgeries, they are nevertheless documents pertaining to the period ‘between the middle of the 6th and second quarter of the 7th century’ \(Gupte op. ciṭ  113\), i.e. to the same period as to which the Muṇḍeśvarī
 
 Inscription belongs. 
 
@@ -573,15 +541,11 @@ His third donation to the Temple Council, for which he also needed approval, was
 
 The inscription attests to the existence, in the second half of the 6th century, of a main Śaiva temple complex, called Maṇḍaleśvara. Connected to this temple was a storeroom, which could also supply the daily offerings for a minor Vaiṣṇava sanctuary dedicated to Nārāyaṇa. In addition, and possibly closely connected to the Maṇḍaleśvara complex, was a monastery of Śaiva ascetics, named Vinīteśvaramaṭha. Whether there was a temple or shrine of Vinīteśvara cannot be deduced from this inscription with certainty, but the existence at the time of such a temple is very likely indeed. The monastery or/and its temple was headed by Bhānūdayiṇ 
 
-Maṇd
-
-. aleśvara and the Skandapurāṇa
+Maṇḍaleśvara and the Skandapurāṇa
 
 This is as far as epigraphy \(and archaeology\) can bring us. It does not tell us why ascetics and pilgrims flocked to this hill in great numbers. Why the site was considered holy. In order to answer these questions we need texts, and such a text has become available. I refer to the original Skandapurāṇa. 
 
-In the context of the Kauśikī Cycle the Skandapurāṇa contains a Maṇd
-
-. a-
+In the context of the Kauśikī Cycle the Skandapurāṇa contains a Maṇḍa-
 
 leśvara Māhātmya. 41 This Māhātmya tells the story of the demons Sunda
 
@@ -595,9 +559,7 @@ which serves as an aetiological myth of the origin of the caturmukhaliṅga.
 
 allels for this usage are also found in Khmer inscriptions \(Cœdes 1937–66\) K 95, K 309, K 362. 
 
-41 The credit for the discovery of the relevance of this text for the Muṇd
-
-. eśvarī Hill goes to
+41 The credit for the discovery of the relevance of this text for the Muṇḍeśvarī Hill goes to
 
 Yuko Yokochi \(Yokochi 2005, 88 ṇ 28\). 
 
@@ -605,9 +567,7 @@ Yuko Yokochi \(Yokochi 2005, 88 ṇ 28\).
 
 
 
-20 / The Temple of Maṇd
-
-. aleśvarasvāmin
+20 / The Temple of Maṇḍaleśvarasvāmin
 
 401
 
@@ -619,15 +579,11 @@ the gods\), four faces emerge on the four sides of the liṅga, which gives her 
 
 62.8–26\). Then Śiva says that, 
 
-Because she \[Tilottamā\], as well as the gods, has circumambulated Him in a circle \( maṇd
-
-. ala\), this place on Mṭ Vindhya, which is sacred to Him, will be called Ma-ṇḍaleśvara, and He will always be present here. 43
+Because she \[Tilottamā\], as well as the gods, has circumambulated Him in a circle \( maṇḍala\), this place on Mṭ Vindhya, which is sacred to Him, will be called Ma-ṇḍaleśvara, and He will always be present here. 43
 
 The story continues, again in the words of Yokochi. 
 
-After sending Tilottamā to the demons, all the gods huddle together̥ They see Parameśvara in their midsṭ Because He appeared in the midst of the gods while they were huddling together \( piṇd
-
-. yamāna\), He was called Piṇḍāreśvara there. 44
+After sending Tilottamā to the demons, all the gods huddle together̥ They see Parameśvara in their midsṭ Because He appeared in the midst of the gods while they were huddling together \( piṇḍyamāna\), He was called Piṇḍāreśvara there. 44
 
 A holy place called Piṇḍāraka is known to the Mahābhārata \(MBh 13.26.54\), and other places with this name are known to several Purāṇas. 
 
@@ -635,9 +591,7 @@ The
 
 Piṇḍāreśvara at issue, however, must be located in the vicinity of Maṇḍaleśvara. 
 
-The word piṇd
-
-. āra  means mendicant and the aetiological myth told in the Skandapurāṇa probably refers to a local liṅga  that was worshipped by Śaiva ascetics. 
+The word piṇḍāra  means mendicant and the aetiological myth told in the Skandapurāṇa probably refers to a local liṅga  that was worshipped by Śaiva ascetics. 
 
 The place where our text locates these two liṅgas  is in the northern part of the Vindhyas, since Tilottamā is said to go to the south to find the two demons
 
@@ -645,17 +599,13 @@ in the foothills of the Vindhya \( vindhyapādeṣu\). Our investigation thus se
 
 corroborate Yokochi’s hypothesis, to the effect that both Skandapurāṇa liṅgas
 
-are to be situated on the Muṇḍeśvarī Hill— the Maṇḍaleśvara being the ancient caturmukhaliṅga  preserved on the site near the main, octagonal temple and named as such in the Muṇd
-
-. eśvarī Inscription, Year 30, and the Piṇḍāreśvara being one of the many of 5th to 7th century liṅgas  that are scattered all over the hill, possibly the 5th or 6th century ekamukhaliṅga  found at site A. 45
+are to be situated on the Muṇḍeśvarī Hill— the Maṇḍaleśvara being the ancient caturmukhaliṅga  preserved on the site near the main, octagonal temple and named as such in the Muṇḍeśvarī Inscription, Year 30, and the Piṇḍāreśvara being one of the many of 5th to 7th century liṅgas  that are scattered all over the hill, possibly the 5th or 6th century ekamukhaliṅga  found at site A. 45
 
 43 Yokochi 2005, synopsis; SP 62.27–28:
 
 abravīc ca surān sarvāṁs tatredaṁvacanaṁśivaḥ |
 
-yasmād iyaṁmāṁyūyaṁca maṇd
-
-. alena pradakṣiṇam  k 27 k
+yasmād iyaṁmāṁyūyaṁca maṇḍalena pradakṣiṇam  k 27 k
 
 cakre sarve suraśreṣṭhāh. sthānaṁtasmād idaṁmama |
 
@@ -667,21 +617,15 @@ sāṁnidhyaṁsarvadā hy asmin kariṣyāmi varapradam  k 28 k
 
 atha sampreṣayitvā tu devatās tāṁtilottamām |
 
-ātmānaṁpiṇd
-
-. ayāmāsur devās te sarva eva hi  k 36 k
+ātmānaṁpiṇḍayāmāsur devās te sarva eva hi  k 36 k
 
 kaḥ kaḥ katama āyāta ihādyeti surarṣabhāh. |
 
 tato madhye sthitaṁbhūyas te ’paśyan parameśvaram  k 37 k
 
-piṇd
+piṇḍyamāneṣu deveṣu yasmān madhye samāsthitah. |
 
-. yamāneṣu deveṣu yasmān madhye samāsthitah. |
-
-piṇd
-
-. āreśvara ityeva tatrāsāv abhavat tataḥ  k 38 k
+piṇḍāreśvara ityeva tatrāsāv abhavat tataḥ  k 38 k
 
 45 For this site A on the hill see Neuss 2003, 546, 558–60, Fig. 2; Bakker 2014, 231 ff. 
 
@@ -731,17 +675,13 @@ It came from ‘site A’. Photo courtesy of F. Buckee \(2008\).
 
 48 In inscriptions of the Tu ˙
 
-nga dynasty, ruling in the tenth century as feudatories of the Bauma-Kara kings of Orissa in the Yamagarta-maṇd
-
-. ala in the Dhenkanal District of
+nga dynasty, ruling in the tenth century as feudatories of the Bauma-Kara kings of Orissa in the Yamagarta-maṇḍala in the Dhenkanal District of
 
 Central Orissa, this dynasty of petty kings claims that its ancestor, named Vinīta, came originally from the Rohitāgiri. See Bakker 2010b. 
 
 
 
-20 / The Temple of Maṇd
-
-. aleśvarasvāmin
+20 / The Temple of Maṇḍaleśvarasvāmin
 
 403
 

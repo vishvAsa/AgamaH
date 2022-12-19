@@ -479,9 +479,7 @@ Photo courtesy Yuko Yokochi
 
 82
 
-Muṇd
-
-. eśvarī Inscription, Year 30. Estampage in Epigraphia Indica IX
+Muṇḍeśvarī Inscription, Year 30. Estampage in Epigraphia Indica IX
 
 . . . . . . 
 
@@ -489,13 +487,9 @@ Muṇd
 
 83
 
-Muṇd
+Muṇḍeśvarī: Old Caturmukhali ˙
 
-. eśvarī: Old Caturmukhali ˙
-
-nga in the compound of the Muṇd
-
-. eśvarī Temple
+nga in the compound of the Muṇḍeśvarī Temple
 
 . 
 
@@ -503,15 +497,11 @@ nga in the compound of the Muṇd
 
 84
 
-Muṇd
-
-. eśvarī: Ekamukhali ˙
+Muṇḍeśvarī: Ekamukhali ˙
 
 nga of site A, presently stored within the
 
-Muṇd
-
-. eśvarī Temple. Photo courtesy of F. Buckee \(2008\)
+Muṇḍeśvarī Temple. Photo courtesy of F. Buckee \(2008\)
 
 . . . . . . . . . . . . 
 
@@ -653,9 +643,7 @@ After Sharma 1960, Excavations at Kauśāmbī, Plate 33 B . . . . . . . . . . . 
 
 101 Kauśāmbī excavation: Iron Snake. After Sharma 1960, Excavations at Kauśāmbī, Plate 43 No. 38 . . . . . . . . . . . . . . . . . . . . . . . . . . . 454
 
-102 Mansar, MNS 3 \(Hid
-
-. imbā T
+102 Mansar, MNS 3 \(Hiḍimbā T
 
 . ekd
 
@@ -781,9 +769,7 @@ Details of Plates 122 & 123.
 
 557
 
-126 Daṇd
-
-. apāṇi on Mathurā pilaster, ge 61 \(Mathura Museum\). . . . . . . . . . . . 558
+126 Daṇḍapāṇi on Mathurā pilaster, ge 61 \(Mathura Museum\). . . . . . . . . . . . 558
 
 127 Ujjain: The Cremation Ground. After Garde 1940. 
 

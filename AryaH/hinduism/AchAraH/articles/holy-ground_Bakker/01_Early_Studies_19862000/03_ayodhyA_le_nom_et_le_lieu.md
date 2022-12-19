@@ -265,9 +265,7 @@ identifiées de façon catégorique. 37
 
 31 Vipākasūtra \(Vivāgasuya\) : 14 \(p. 23 r\); 6 \(p. 8 r\); 34 \(p. 95 v \). 
 
-32 Paümacariya, v. index, ṣv. : ‘Aojjhā’, ‘Kosalapurī’, ‘Pad
-
-. hamapurī’, ‘Vin
+32 Paümacariya, v. index, ṣv. : ‘Aojjhā’, ‘Kosalapurī’, ‘Paḍhamapurī’, ‘Vin
 
 .īyā’, ‘Sāeya’, 
 
@@ -287,11 +285,7 @@ I, 29.
 
 36 Raghuvaṁśa 16.25–42; Kṣīrasvāmin’s Kṣīrataraṅgiṇī, 274 sq.; Frauwallner 1951, 30; Bakker 1982a, 103–126. 
 
-37 Raghuvaṁśa, 5.31, 13.79, 14.13; cf. Brahmāṇd
-
-. apurāṇa \(Bd
-
-. P\) 3.54.5, 54. 
+37 Raghuvaṁśa, 5.31, 13.79, 14.13; cf. Brahmāṇḍapurāṇa \(BḍP\) 3.54.5, 54. 
 
 
 

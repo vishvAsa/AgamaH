@@ -229,9 +229,7 @@ pavamānāya dhriyerant svāhāgnim indumantam iti yady agnaya indumate dhriyera
 
 7 Miregāon Plates of Prabhāvatī Guptā, Year 20, Shastri & Kawadkar 2001, 141, 147. Cf. 
 
-the Pāṇd
-
-. urn
+the Pāṇḍurn
 
 . ā Plates of Pravarasena II, Year 29, above, p. 332. 
 
@@ -297,17 +295,13 @@ Hans Bakker
 
 both the upper and the lower slab indicate that some portion of the stone had earlier been broken off, a portion that was obviously not recovered during the restauration work and is to be considered as irretrievably losṭ 
 
-In other words, when the inscription originally was inserted into the southern wall of the maṇd
-
-. apa  of the Kevala–Narasiṁha Temple it was already incom-
+In other words, when the inscription originally was inserted into the southern wall of the maṇḍapa  of the Kevala–Narasiṁha Temple it was already incom-
 
 plete. 11 In an unknown state of the temple’s history, possibly the Bhonsle period \(18th century\), when the temple was being repaired or rebuilt, the remaining slabs of the stone inscription must have been brought to the Kevala–
 
 Narasiṁha Temple. 12 The inscribed slabs of black stone thus came from elsewhere, possibly along with other building blocks of red sandstone, and their source may have been a similar, though ruined temple in the neighbourhood that was used as a quarry. Such a ruin does still exist on the Rāmagiri, viz. 
 
-a 5th-century temple of which, apart from two maṇd
-
-. apa  walls, little remains
+a 5th-century temple of which, apart from two maṇḍapa  walls, little remains
 
 today. Only its image has miraculously survived the ages in situ, and, although it is heavily damaged, this statue conclusively proves that this ruin once was a Trivikrama Temple. 13
 
@@ -707,13 +701,9 @@ reconstructed narrative structure would allow the conclusion that the praśasti
 
 counted 19 verses only. 
 
-The Daughter named Muṇd
+The Daughter named Muṇḍā
 
-. ā
-
-A key assumption in the theory advanced above is the identity of the daughter named Muṇḍā and the dowager queen known from her own inscriptions as Prabhāvatī Guptā. This identity seems reinforced by independent evidence, viz. the Māṇd
-
-. hal Plates of Vākāṭaka Rudrasena II, Year 5, which open as
+A key assumption in the theory advanced above is the identity of the daughter named Muṇḍā and the dowager queen known from her own inscriptions as Prabhāvatī Guptā. This identity seems reinforced by independent evidence, viz. the Māṇḍhal Plates of Vākāṭaka Rudrasena II, Year 5, which open as
 
 follows:
 
@@ -761,15 +751,11 @@ Inscription to the best of our ability, it is time to be astonished at the story
 
 The narration of the KNT Inscription
 
-First of all it needs to be noted that, despite the fact that the inscription is found in Vākāṭaka territory and celebrates foundations within the complex 20 Bakker & Isaacson 1993, 53; Bakker 1997, 16. The KNT inscription may hint at the dynastic name, when it compares in verse 7 the girl Muṇd
-
-. ā with the light \( prabhā\) of
+First of all it needs to be noted that, despite the fact that the inscription is found in Vākāṭaka territory and celebrates foundations within the complex 20 Bakker & Isaacson 1993, 53; Bakker 1997, 16. The KNT inscription may hint at the dynastic name, when it compares in verse 7 the girl Muṇḍā with the light \( prabhā\) of
 
 the moon \( candra\): Prabhāvatī is ‘the one who possesses the lustre’, scil. of Candra, her father̥ For a discussion of this name \(meaning ‘the bald one’\) see above, ṇ 40 on p. 327. 
 
-Is it coincidence that Muṇd
-
-. ā’s younger brother is named the one who is ‘Bald-like-a-pot’
+Is it coincidence that Muṇḍā’s younger brother is named the one who is ‘Bald-like-a-pot’
 
 \(Ghaṭotkaca\)? 
 
@@ -877,9 +863,7 @@ As shown by the Google Earth satellite picture in Plate 63, both temples, the Ke
 
 Temple \(Plate 11\), which marks the entrance to the spur of the hill. 
 
-Of the Trivikrama Temple only parts of the vestibule \( maṇd
-
-. apa\) are still
+Of the Trivikrama Temple only parts of the vestibule \( maṇḍapa\) are still
 
 standing \(Plate 64\). The main temple idol has been miraculously preserved \(Plate 65\), although it is heavily damaged and seems to occupy still its original position, facing west like the Varāha and Narasiṁha images. 
 
@@ -953,9 +937,7 @@ The Trivikrama image is made of red sandstone and measures 178×119 cm.
 
 Mirashi was the first to give a description of this idol. 
 
-The god has a crown on his head, with a halo round his face. He wears the ku-ṇd
-
-. alas  on his ears and a pearl-necklace with a large pendant round his neck. His vaijayantī  garland is shown falling on both his legs. He wears an udarabandha. His lower garment, which is fastened at the waist with a girdle, hangs down in folds in fronṭ His arms are now broken on both the sides, but their jewelled a ˙
+The god has a crown on his head, with a halo round his face. He wears the ku-ṇḍalas  on his ears and a pearl-necklace with a large pendant round his neck. His vaijayantī  garland is shown falling on both his legs. He wears an udarabandha. His lower garment, which is fastened at the waist with a girdle, hangs down in folds in fronṭ His arms are now broken on both the sides, but their jewelled a ˙
 
 ngadas
 

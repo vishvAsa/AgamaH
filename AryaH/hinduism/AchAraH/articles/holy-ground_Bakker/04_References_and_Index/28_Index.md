@@ -57,9 +57,7 @@ A¨ı Khanum, 555–557
 
 513, 514, 519, 531, 533, 539, 584, 602, 608
 
-aid
-
-. ūka, 406, 407, 413, 419–422, 424, 437, 438, 
+aiḍūka, 406, 407, 413, 419–422, 424, 437, 438, 
 
 Acharya, Diwakar, 539, 553, 558, 559
 
@@ -219,9 +217,7 @@ amātya, 124, 132, 322
 
 Apsaras\(es\), 497, 581
 
-Ambakuṇd
-
-. a, 91
+Ambakuṇḍa, 91
 
 Aragrāma, 328
 
@@ -239,9 +235,7 @@ Ambikākhan
 
 ¯
 
-. d
-
-. a \(A recension SP\), 181, 185, 
+. ḍa \(A recension SP\), 181, 185, 
 
 Ara ˙
 
@@ -303,9 +297,7 @@ Aṁśuvarman Saṁvat, 469, 538
 
 Arthapati Bhaṭṭāraka, 142
 
-anad
-
-. udvrata, 545
+anaḍudvrata, 545
 
 Arthaśāstra, 55, 157, 452, 476, 479, 481
 
@@ -337,9 +329,7 @@ Anantaśayana, 319
 
 asceticism, 8, 39, 63, 336, 337, 490, 532, 546, 
 
-aṇd
-
-. a, 437
+aṇḍa, 437
 
 590, 599, 602
 
@@ -511,9 +501,7 @@ Bābūr, 65, 485
 
 āt
 
-Babur’s Mosque, see  Babri Masjid
-
-. ānāṭiyasutta, 407
+Babur’s Mosque, see  Babri Masjiḍānāṭiyasutta, 407
 
 atha, 542
 
@@ -603,9 +591,7 @@ Balogh, Dániel, 375, 376
 
 Austro-Asiatic, 559
 
-Bamhanī Plates of Pāṇd
-
-. ava King Bharata-
+Bamhanī Plates of Pāṇḍava King Bharata-
 
 , 548
 
@@ -627,9 +613,7 @@ Avantivarman, 303, 394, 397, 527, 601–605
 
 Banaras Hindu University, 377
 
-. d
-
-. a, 469
+. ḍa, 469
 
 avatāra \(of Vis
 
@@ -715,9 +699,7 @@ Ayodhyākhan
 
 begging bowl, 578, 580, 589, 594, 596, 597
 
-. d
-
-. a \(Rām.\), 182
+. ḍa \(Rām.\), 182
 
 Benares, 69, 74, 465, 467, 469, 473, 484, 534, 
 
@@ -911,9 +893,7 @@ bhaktiyoga, 36, 39
 
 Bhogavarman \(son of Śūrasena\), 538
 
-Bhāṇd
-
-. āgāra, 290, 291
+Bhāṇḍāgāra, 290, 291
 
 Bhojadeva, 532
 
@@ -935,9 +915,7 @@ bhukti, 18, 466
 
 Bhānugupta, 244
 
-Bhuluṇd
-
-. a, 326
+Bhuluṇḍa, 326
 
 Bhārabhūti, 554
 
@@ -1001,9 +979,7 @@ Bilaspur Museum, 261
 
 Br̥hadārya, 529
 
-Bilsad
-
-. Stone Pillar Inscription of Kumā-
+BilsaḍStone Pillar Inscription of Kumā-
 
 Br̥hadbrahmasaṁhitā, 52
 
@@ -1051,9 +1027,7 @@ Bogra District, 453
 
 British Rule, 68, 69, 445, 478
 
-Boṁgī Hud
-
-. kī, 329, 333
+Boṁgī Huḍkī, 329, 333
 
 brush, 578–580
 
@@ -1133,9 +1107,7 @@ burial mounds, 412, 413, 419, 425, 439, 451,
 
 506, 534, 549, 585, 589, 594
 
-see also ed
-
-. ūka
+see also eḍūka
 
 five \( pañcabrahman\), 492, 493, 513
 
@@ -1149,9 +1121,7 @@ Brahman, see brahman and  brahmin
 
 Brāhmaṇa\(s\), 187, 192, 193, 195, 446, 562
 
-Brahmāṇd
-
-. apurāṇa, 51
+Brahmāṇḍapurāṇa, 51
 
 brahmanical \(tradition, view, etc.\), 151, 152, 
 
@@ -1173,9 +1143,7 @@ caityagr̥ a, 186, 192, 193, 196–199, 223,
 
 408
 
-Cākord
-
-. ā, 91
+Cākorḍā, 91
 
 brahmasattra, 607
 
@@ -1227,21 +1195,15 @@ campū, 86
 
 Chittorgarh, 570–572, 598
 
-Cāmuṇd
-
-. a \( adhipati\), 87, 88
+Cāmuṇḍa \( adhipati\), 87, 88
 
 Chittorgarh District \(Rajasthan\), 567
 
-Cāmuṇd
-
-. ā, 130, 137
+Cāmuṇḍā, 130, 137
 
 Christ, 8, 9, 547
 
-Cāmuṇd
-
-. asoma, 294
+Cāmuṇḍasoma, 294
 
 Christian, 8, 9, 11, 60, 548, 550, 551
 
@@ -1255,15 +1217,11 @@ Can
 
 ˇ
 
-. d
-
-. a, 558
+. ḍa, 558
 
 Cishtī order / Čishtīs, 9, 10
 
-caṇd
-
-. āla, 473
+caṇḍāla, 473
 
 citācaitya \(funerary monument\), 421
 
@@ -1285,9 +1243,7 @@ Candragupta \(brother of Tīvaradeva\), 247,
 
 253
 
-lagud
-
-. a, lakula
+laguḍa, lakula
 
 Candragupta I, 139
 
@@ -1435,9 +1391,7 @@ chatarī, 405, 431
 
 Creuzer, Friedrich G., 24
 
-Chatracaṇd
-
-. eśvara, 531
+Chatracaṇḍeśvara, 531
 
 critical edition, 169, 175, 176, 178, 179, 
 
@@ -1563,29 +1517,21 @@ Dānavas, 593, 595
 
 devakulasthāna, 332, 424, 435, 495, 496
 
-daṇd
-
-. a, 558, 559
+daṇḍa, 558, 559
 
 devanāgarī, 33
 
-Daṇd
-
-. a \(king\), 337
+Daṇḍa \(king\), 337
 
 Devānā ˙
 
 mpriya Priyadarśin \(Aśoka\), 475, 476
 
-Daṇd
-
-. akāraṇya, 337
+Daṇḍakāraṇya, 337
 
 devanikāya \(Temple Council\), 398–400
 
-Daṇd
-
-. apāṇi, 558
+Daṇḍapāṇi, 558
 
 devaputra, 417
 
@@ -1755,9 +1701,7 @@ edicts \(Aśoka\), 476
 
 dhikr, 10, 11
 
-ed
-
-. ūka \(funeral monument\), 332, 407–410, 
+eḍūka \(funeral monument\), 332, 407–410, 
 
 dhoṭī, 585
 
@@ -1795,9 +1739,7 @@ Elliot, H.M., 484
 
 dhvajastambha, 568
 
-elūkā, 407, 408, see also ed
-
-. ūka
+elūkā, 407, 408, see also eḍūka
 
 Dhvanyāloka, 609
 
@@ -1819,11 +1761,7 @@ dīnāra, 398
 
 Eran, 244, 305
 
-Diṇd
-
-. imuṇd
-
-. a, 554
+Diṇḍimuṇḍa, 554
 
 Erdheim, Mario, 153, 162
 
@@ -1839,9 +1777,7 @@ Dīrghaśiva, 296
 
 Eucharist, 543
 
-disciples of Lāgud
-
-. i, see  four disciples
+disciples of Lāguḍi, see  four disciples
 
 , 548
 
@@ -1925,9 +1861,7 @@ Fort William, 31
 
 dualism, 30, see also dvaita
 
-four disciples of Lāgud
-
-. i, the, 559–564, 584
+four disciples of Lāguḍi, the, 559–564, 584
 
 Duboc, Eḍ, 25
 
@@ -1963,11 +1897,7 @@ Gautameśvara, 106
 
 Gautamīputra Sātakarṇi, 138
 
-440, see also elūkā, ed
-
-. ūka, aid
-
-. ūka
+440, see also elūkā, eḍūka, aiḍūka
 
 gavākṣa, 568
 
@@ -1995,9 +1925,7 @@ G¯
 
 esū-darāz, 10
 
-Gāhad
-
-. avāla\(s\), 467, 469, 483, 484
+Gāhaḍavāla\(s\), 467, 469, 483, 484
 
 Ghan
 
@@ -2039,9 +1967,7 @@ Gaṇapatināga / Gaṇapatīndra, 302
 
 Ghazni, 63
 
-Gaṇd
-
-. akī \(river\), 605
+Gaṇḍakī \(river\), 605
 
 Ghosh, Ajit, 315, 411, 421
 
@@ -2117,9 +2043,7 @@ Ga ˙
 
 ngādvāra, 524, 602
 
-Gomuṇd
-
-. ā, 137
+Gomuṇḍā, 137
 
 Ga ˙
 
@@ -2133,9 +2057,7 @@ Gonda, Jan, 508, 513
 
 132
 
-Goṇd
-
-. ārya, 158
+Goṇḍārya, 158
 
 Ganges, 48, 49, 79, 108, 294, 302, 306, 408, 
 
@@ -2171,35 +2093,23 @@ Garh-Dhanora, 347, 348
 
 Gopratāra, 50
 
-Garud
-
-. a, 315
+Garuḍa, 315
 
 Gorakhnāth, 12, 13
 
-Garud
-
-. a standard, 309, 315
+Garuḍa standard, 309, 315
 
 Gorakhnāthīs, 12, 431
 
-Garud
-
-. apurāṇa, 181
+Garuḍapurāṇa, 181
 
 Gorakhpur, 12
 
-Gaud
-
-. as, 388, 601, 605, 606
+Gauḍas, 388, 601, 605, 606
 
 Gosaladevī, 467
 
-Gaud
-
-. avaho / Gaüd
-
-. avaha, 482, 531
+Gauḍavaho / Gaüḍavaha, 482, 531
 
 gotra, 85, 86, 160, 295, 312, 328, 354, 414, 
 
@@ -2289,9 +2199,7 @@ Granoff, Phyllis, 425, 459, 505, 516
 
 Hanumat, 21, 90, 91, 93, 106, 109, 111, 144, 
 
-Grant of Bhuluṇd
-
-. a, Year 47, 326
+Grant of Bhuluṇḍa, Year 47, 326
 
 164, 339
 
@@ -2895,9 +2803,7 @@ Judaism, 57, 59
 
 Jain\(a\)s, 5, 320, 417, 477
 
-Junāgad
-
-. h Rock Inscription of Skandagupta, 
+Junāgaḍh Rock Inscription of Skandagupta, 
 
 Jainism, 51, 321, 413, 426, 437, 578
 
@@ -3071,13 +2977,9 @@ Kāśī, 108, 464, 465, 484, see also  Vārāṇasī
 
 Kāmadeva \(king\), 83–85, 165
 
-Kāśīkhaṇd
+Kāśīkhaṇḍa, 181, 467, 468, 469, 470, 471
 
-. a, 181, 467, 468, 469, 470, 471
-
-kamaṇd
-
-. alu, 558
+kamaṇḍalu, 558
 
 Kaśyapa gotra, 354
 
@@ -3103,9 +3005,7 @@ Kātyāyanaśrautasūtra, 450
 
 Kaṁsavadha, 171
 
-Kaumārakhaṇd
-
-. a \(Padmapurāṇa\), 338, 339
+Kaumārakhaṇḍa \(Padmapurāṇa\), 338, 339
 
 Kan
 
@@ -3115,9 +3015,7 @@ Kaumudīmahotsava, 603
 
 Kanakhala, 605
 
-Kauṇd
-
-. inya, 431, 496, 502, 513, 514, 516–518, 
+Kauṇḍinya, 431, 496, 502, 513, 514, 516–518, 
 
 Kanauj, 250, 381, 382, 394, 397, 421, 469, 
 
@@ -3201,9 +3099,7 @@ see also  Kārohaṇa
 
 Kapila \(author Sāṁkhyasūtras\), 29, 30
 
-Kedārakhaṇd
-
-. a, 181
+Kedārakhaṇḍa, 181
 
 Kapila \( ācārya\), 328
 
@@ -3213,9 +3109,7 @@ Kapilā \(river\), 144
 
 Keesargutta, 453
 
-Kapilāṇd
-
-. a, 529
+Kapilāṇḍa, 529
 
 Kelāpur, 144, 156, 371, see also  Kadalīvāṭaka
 
@@ -3287,9 +3181,7 @@ Khalistan, 72
 
 Kr̥ṣṇarāja, 561
 
-khaṇd
-
-. a, 181, 182, 184, 185, 469
+khaṇḍa, 181, 182, 184, 185, 469
 
 Kr̥ta Era, see  Vikrama Era
 
@@ -3403,9 +3295,7 @@ Kosalā \(village\), 239
 
 Kārttikeya
 
-Kośalakhaṇd
-
-. a, 182
+Kośalakhaṇḍa, 182
 
 Kumāra \(or Kan
 
@@ -3437,9 +3327,7 @@ Kumārasvāmin \(deity\), 333, 375–377, 414
 
 Kramrisch, Stella, 446
 
-Kumbhāṇd
-
-. as, 407
+Kumbhāṇḍas, 407
 
 Kreisel, Gerd, 491–494
 
@@ -3449,13 +3337,9 @@ Kumhāra T
 
 .ī, 430, 560
 
-krīd
+krīḍā \(play\), 541, 550
 
-. ā \(play\), 541, 550
-
-kuṇd
-
-. a, 81, 339, 341
+kuṇḍa, 81, 339, 341
 
 Krishna District, 252
 
@@ -3551,17 +3435,13 @@ twelve li ˙
 
 ngas, 533
 
-lagud
-
-. a \(club\), 529, 554, 555, 558, 559
+laguḍa \(club\), 529, 554, 555, 558, 559
 
 Li ˙
 
 ngapurāṇa, 186, 189, 192–199, 203 ff., 294, 
 
-Lāgud
-
-. i, 295, 494, 527–530, 533, 537, 
+Lāguḍi, 295, 494, 527–530, 533, 537, 
 
 559
 
@@ -3643,9 +3523,7 @@ Lakṣmītīrtha \(Ramtek\), 91, 107
 
 Lüders, H., 328, 415, 416
 
-Lākud
-
-. as, 559
+Lākuḍas, 559
 
 Lunar Race / Dynasty \( somavaṁśa\), 239, 
 
@@ -3653,9 +3531,7 @@ lakula \(club\), 529, 584
 
 247–250, 283, 297, 536
 
-Lakula/eśa, 286, 288, see also  Lāgud
-
-. i, 
+Lakula/eśa, 286, 288, see also  Lāguḍi, 
 
 Lākulin and  Lakulīśa\(nātha\)
 
@@ -3793,9 +3669,7 @@ Māheśvara\(s\), 287, 288, 321, 326, 329, 331,
 
 Northern Recension, 524
 
-Māheśvarakhaṇd
-
-. a \(vulgate Skandapurāṇa\), 
+Māheśvarakhaṇḍa \(vulgate Skandapurāṇa\), 
 
 Southern Recension, 516
 
@@ -4023,49 +3897,31 @@ Mārāṭha, 80, 90, 92
 
 Maria Anna of Bavaria, 363
 
-Maṇd
-
-. aka, 249
+Maṇḍaka, 249
 
 Maria of Spain, 363
 
-maṇd
+maṇḍala, 166, 460
 
-. ala, 166, 460
+Mārkaṇḍeyapurāṇa, 473
 
-Mārkaṇd
+Maṇḍaleśvara, 400, 401, 403
 
-. eyapurāṇa, 473
+Mārtāṇḍamāhātmya, 193
 
-Maṇd
-
-. aleśvara, 400, 401, 403
-
-Mārtāṇd
-
-. amāhātmya, 193
-
-Maṇd
-
-. aleśvara Māhātmya, 400
+Maṇḍaleśvara Māhātmya, 400
 
 Martin, Montgomery, 391
 
-Maṇd
-
-. aleśvarasvāmin, 398–400
+Maṇḍaleśvarasvāmin, 398–400
 
 martyrdom, 60, 61
 
-Maṇd
-
-. aleśvarasvāmin Temple, 400
+Maṇḍaleśvarasvāmin Temple, 400
 
 Marx, Karl, 26
 
-maṇd
-
-. apa, 83, 115, 329, 356, 365
+maṇḍapa, 83, 115, 329, 356, 365
 
 Māsod Plates of Pravarasena II, Year 19, 324
 
@@ -4131,9 +3987,7 @@ Mātr̥kās \(eight\), 93, 109
 
 mātr̥ s \(mothers\), 265, see also  Mātr̥kās and
 
-Māṇd
-
-. hal. Charter of Pr̥thivīṣeṇa II, Year 10, 
+Māṇḍhal. Charter of Pr̥thivīṣeṇa II, Year 10, 
 
 Mothers
 
@@ -4141,9 +3995,7 @@ Mothers
 
 Matsyapurāṇa, 468, 471, 473
 
-Māṇd
-
-. hal. Plates of Pr̥thivīṣeṇa II, Year 2, 
+Māṇḍhal. Plates of Pr̥thivīṣeṇa II, Year 2, 
 
 Mattavilāsaprahasana, 293
 
@@ -4151,9 +4003,7 @@ Mattavilāsaprahasana, 293
 
 matted hair, 66, 490, 581, 589, 594
 
-Māṇd
-
-. hal. Plates of Vākāṭaka Rudrasena II, 
+Māṇḍhal. Plates of Vākāṭaka Rudrasena II, 
 
 Matthew, 505
 
@@ -4171,9 +4021,7 @@ Maniārī \(river\), 256
 
 388, 389, 394, 397, 402, 469, 527, 530, 
 
-Maṇikālakuṇd
-
-. a, 92, 108
+Maṇikālakuṇḍa, 92, 108
 
 532–534, 536, 538, 553, 601, 602, 604, 
 
@@ -4227,9 +4075,7 @@ Megasthenes, 479, 480, 557
 
 see also  Mahāmantra, S
 
-. ad
-
-. akṣara, Sāvitrī, 
+. aḍakṣara, Sāvitrī, 
 
 Meghadūta, 92, 340, 341, 376
 
@@ -4253,21 +4099,15 @@ Index
 
 Mekalapadraka, 250
 
-Muṇd
-
-. a \(a brahmin\), 328
+Muṇḍa \(a brahmin\), 328
 
 memorial \(temple\), 378, 413, 439
 
-Muṇd
-
-. a \(king\), 406, 408
+Muṇḍa \(king\), 406, 408
 
 memorial stones, 413, 417, 418, 439, see also
 
-Muṇd
-
-. ā, 126, 130, 137, 138, 310, 327, 328, 
+Muṇḍā, 126, 130, 137, 138, 310, 327, 328, 
 
 chāyā◦
 
@@ -4275,33 +4115,23 @@ chāyā◦
 
 mercury \( rasa\), 12
 
-Muṇd
-
-. a-Śr̥ṅkhalika Pāśupatas, 294, 531, 532
+Muṇḍa-Śr̥ṅkhalika Pāśupatas, 294, 531, 532
 
 Middle Ages, 56, 166
 
-Muṇd
-
-. asvāmin, 326, 327, 329, 333, 361, 362
+Muṇḍasvāmin, 326, 327, 329, 333, 361, 362
 
 Mihiraka, 249
 
-Muṇd
-
-. eśvarī \(goddess\), 391
+Muṇḍeśvarī \(goddess\), 391
 
 Mihirakula, 598
 
-Muṇd
-
-. eśvarī Hill, 393, 401, 403
+Muṇḍeśvarī Hill, 393, 401, 403
 
 Minnat Mian, 75
 
-Muṇd
-
-. eśvarī Inscription of the Time of Udaya-
+Muṇḍeśvarī Inscription of the Time of Udaya-
 
 Mirashi, Vasudev Vishnu, 80, 86, 88–92, 94, 
 
@@ -4309,15 +4139,11 @@ sena, Year 30, 392, 394–396, 401
 
 95, 118, 130, 146, 157, 170, 173, 235, 236, 
 
-Muṇd
-
-. eśvarī Temple, 391, 392
+Muṇḍeśvarī Temple, 391, 392
 
 244, 315, 324, 325, 341, 368, 374, 375
 
-muṇd
-
-. in, 491, 492
+muṇḍin, 491, 492
 
 Mīregāon Plates of Prabhāvatī Guptā, Year
 
@@ -4333,9 +4159,7 @@ mūrti, 496, 505, 513, 514, 515, 516, 518
 
 Mitra dynasty, 562
 
-Muruṇd
-
-. a, 328
+Muruṇḍa, 328
 
 Mlecchas, 483, 604
 
@@ -4487,25 +4311,19 @@ Nāgarī script, 84
 
 Mukundara, 573
 
-Nāgārjunakoṇd
-
-. a, 172, 417
+Nāgārjunakoṇḍa, 172, 417
 
 mun
 
 Nāgasena, 302
 
-. d
-
-. a, 491
+. ḍa, 491
 
 Mun
 
 Nagpur \(Maharashtra\), 79, 90, 149, 150, 157, 
 
-. d
-
-. a\(s\), 328
+. ḍa\(s\), 328
 
 170, 324, 335, 337, 356, 373
 
@@ -4633,9 +4451,7 @@ Nibandha, 469
 
 Nāṇeghāṭ, 415, 416, 440
 
-Nid
-
-. ilā \(river\), 241
+Niḍilā \(river\), 241
 
 Nannarāja I \(son of Indrabala\), 240, 247–251
 
@@ -4907,17 +4723,11 @@ Pañcavaṭī, 337
 
 Pāśupata yoga, 525, 527, 542, 558, 560, 563, 
 
-Pāṇd
-
-. ava Kingdom, 296
+Pāṇḍava Kingdom, 296
 
 583, 584, 594, 606
 
-Pāṇd
-
-. avas \(sons of Pāṇd
-
-. u\), 585, 588, 595, 
+Pāṇḍavas \(sons of Pāṇḍu\), 585, 588, 595, 
 
 Pāśupatanāth, 431
 
@@ -4925,9 +4735,7 @@ Pāśupatanāth, 431
 
 Pāśupatāstra, see  Pāśupata weapon
 
-Pāṇd
-
-. avas of Kosala, 235, 238, 239, 247, 
+Pāṇḍavas of Kosala, 235, 238, 239, 247, 
 
 Pāśupatasūtra, 286, 287, 431, 496, 502, 513, 
 
@@ -4935,9 +4743,7 @@ Pāśupatasūtra, 286, 287, 431, 496, 502, 513,
 
 514, 516, 518, 529, 541, 543, 545, 549, 
 
-Pāṇd
-
-. avas of Mekalā, 235, 237–239, 243, 
+Pāṇḍavas of Mekalā, 235, 237–239, 243, 
 
 553, 558
 
@@ -4945,9 +4751,7 @@ Pāṇd
 
 Pāśupatavidhi, 559
 
-Pāṇd
-
-. hurn
+Pāṇḍhurn
 
 . ā Plates of Pravarasena II, Year 29, 
 
@@ -4957,17 +4761,11 @@ pāśupatavrata \(Pāśupata observance\), 514,
 
 524–526, 559, 576
 
-Pāṇd
-
-. u, 239, 248, 601
+Pāṇḍu, 239, 248, 601
 
 Paśupati\(nātha\), 190, 413, 530, 537, 539, 
 
-Pāṇd
-
-. uvaṁśin\(s\), 532, see also  Pāṇd
-
-. avas
+Pāṇḍuvaṁśin\(s\), 532, see also  Pāṇḍavas
 
 542, 544, 561, 563, 602, 608
 
@@ -4997,9 +4795,7 @@ Index
 
 689
 
-Pāṭagaṇḍigūd
-
-. em Copper Plate of Ehavala
+Pāṭagaṇḍigūḍem Copper Plate of Ehavala
 
 Poona Plates of Prabhāvatīguptā, 118, 119, 
 
@@ -5107,9 +4903,7 @@ Prahlāda Ghāṭ, 534
 
 Phalgudeva, 419
 
-Prajāhita \( aid
-
-. ūka\), 406
+Prajāhita \( aiḍūka\), 406
 
 phallic, 489, 493, 496, 555, 559
 
@@ -5155,29 +4949,21 @@ Pināka, 490
 
 Pranardanaprāṇa Kauśika \(Pāśupata teach-
 
-piṇd
-
-. a, 325, 405
+piṇḍa, 325, 405
 
 er\), 531
 
-piṇd
-
-. āra, 401
+piṇḍāra, 401
 
 praṇava, 468, see also om
 
 . 
 
-Piṇd
-
-. āraka, 401
+Piṇḍāraka, 401
 
 prasāda \(grace\), 18, 153, 154, 160, 161, 165, 
 
-Piṇd
-
-. āreśvara, 401
+Piṇḍāreśvara, 401
 
 498, 542, 583, see also  grace
 
@@ -5191,9 +4977,7 @@ ngala, 529
 
 prāsāda \(temple\), 143, 156, 413
 
-Pīpard
-
-. ūlā Copper-Plate Inscription of King
+Pīparḍūlā Copper-Plate Inscription of King
 
 Prasannamātra, 242, 244, 245, 260
 
@@ -5383,9 +5167,7 @@ Pun
 
 rājadharma, 322
 
-. d
-
-. ra, 606–608
+. ḍra, 606–608
 
 Punjab, see  Panjab
 
@@ -5403,9 +5185,7 @@ Rajaona, 595, 596
 
 473, 474, 604, 606–608, 610
 
-Rājapraśasti \(in CVC Vratakhaṇd
-
-. a\), 159
+Rājapraśasti \(in CVC Vratakhaṇḍa\), 159
 
 Purān
 
@@ -5625,15 +5405,11 @@ Revā, 174, 388, see also  Narmadā
 
 Rāmagupta, 302–307, 321
 
-Revākhaṇd
-
-. a \(R recension SP\), 185, 469
+Revākhaṇḍa \(R recension SP\), 185, 469
 
 Rāmajanmabhūmi, 65, 68, 71-73, 75-77, 337, 
 
-Revākhaṇd
-
-. a \(vulgate Skandapurāṇa, SkP\), 
+Revākhaṇḍa \(vulgate Skandapurāṇa, SkP\), 
 
 485
 
@@ -5931,9 +5707,7 @@ S
 
 . a, 193
 
-. ad
-
-. akṣara \(six-syllable\) mantra, 465–468
+. aḍakṣara \(six-syllable\) mantra, 465–468
 
 Sambhar, 562
 
@@ -5943,9 +5717,7 @@ Sadāśiva, 492, 493, 549, 550
 
 S
 
-. ad
-
-. darśanasamuccaya \(Haribhadra\), 529
+. aḍdarśanasamuccaya \(Haribhadra\), 529
 
 Śam
 
@@ -5953,9 +5725,7 @@ S
 
 . buka / Śaṁbūka, 93, 109, 336–339, 350
 
-. ad
-
-. darśanasamuccaya \(Rājaśekharasūri\), 
+. aḍdarśanasamuccaya \(Rājaśekharasūri\), 
 
 sam
 
@@ -5977,9 +5747,7 @@ sādhana, 17, 541, 584, 587, 595
 
 Śam
 
-Sād
-
-. kara \(Śiva\), 187, 191, 192, 197, 295, 466, 
+Sāḍkara \(Śiva\), 187, 191, 192, 197, 295, 466, 
 
 . ū Mātā, 570
 
@@ -6113,9 +5881,7 @@ Sanderson, Alexis, 250, 285, 292–294, 397,
 
 Śarvanātha, 328
 
-Sāṇd
-
-. ilya gotra, 85, 86, 328
+Sāṇḍilya gotra, 85, 86, 328
 
 Śārvarin-year, 84, 85, 165
 
@@ -6257,9 +6023,7 @@ Sapādalakṣa, 562
 
 saving mantra, see tāraka mantra
 
-sapiṇd
-
-. a, 140, 146, 147
+sapiṇḍa, 140, 146, 147
 
 Savitr̥, 187–189, 506, 507, 509
 
@@ -6419,9 +6183,7 @@ Sītā, 73, 94, 108, 110, 111, 337, 340, 466, 550
 
 Shastri, Ajay Mitra, 113–115, 118, 133, 134, 
 
-Sītākuṇd
-
-. a, 341
+Sītākuṇḍa, 341
 
 235, 236, 242, 244, 251, 252, 289, 290, 
 
@@ -6579,9 +6341,7 @@ A recension, 185, 196, 469, 532, see also
 
 śrāmaṇerī \(novice nun\), 419, 439
 
-Ambikākhaṇd
-
-. a
+Ambikākhaṇḍa
 
 Śrautasūtras, 450, 451
 
@@ -6589,9 +6349,7 @@ R recension, 185, 196, 469, see also  Revā-
 
 Śrāvastī, 49
 
-khaṇd
-
-. a
+khaṇḍa
 
 Śrī \(Lakṣmī\), 247, 263, 316
 
@@ -6677,9 +6435,7 @@ Srīśaila Hills, 171
 
 Śod
 
-Srīsaṁd
-
-. hala, 85
+Srīsaṁḍhala, 85
 
 . pradāya, 18
 
@@ -6695,9 +6451,7 @@ Sr̥ a, 406
 
 . ˙
 
-nkhalika, see  Muṇd
-
-. a-Śr̥ṅkhalika
+nkhalika, see  Muṇḍa-Śr̥ṅkhalika
 
 soma, 291, 293, 294, 297, 554
 
@@ -7167,9 +6921,7 @@ nkara, 51, 417, 426
 
 Tuṣāspha \(Yavana king\), 144
 
-Tīrthavivecanakāṇd
-
-. a, 468, 469, 533
+Tīrthavivecanakāṇḍa, 468, 469, 533
 
 tūṣṇī ˙
 
@@ -7385,9 +7137,7 @@ Utkala, 253
 
 Vālmīki, 339
 
-Utkalakhaṇd
-
-. a, 181
+Utkalakhaṇḍa, 181
 
 Vāmadeva, 492
 
@@ -7601,9 +7351,7 @@ virtù, 162
 
 Vāyurakṣita, 307, 308
 
-Virūd
-
-. ha, 406, 407
+Virūḍha, 406, 407
 
 Vedānta, 30
 
@@ -7809,9 +7557,7 @@ Vyāsa, 37, 187, 230, 585, 586
 
 Yama, 406, 407, 450, 592
 
-Yamagarta-maṇd
-
-. ala, 402
+Yamagarta-maṇḍala, 402
 
 Wackernagel, Jacob, 517
 

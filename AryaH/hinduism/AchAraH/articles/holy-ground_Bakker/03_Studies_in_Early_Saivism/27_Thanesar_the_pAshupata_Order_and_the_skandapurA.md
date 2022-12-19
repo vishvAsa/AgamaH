@@ -5,9 +5,7 @@ title = "27 Thanesar, the Pāśupata Order and the Skandapurāṇa"
 
 Studies in the Skandapurāṇa IX
 
-The tradition of the four pupils of Lāgud
-
-. i
+The tradition of the four pupils of Lāguḍi
 
 By the middle of the sixth century the city of Kanauj seems to have emerged as the capital of the rising dynasty of the Maukharis under its king Īśānavarmaṇ 1
 
@@ -49,9 +47,7 @@ brahmacārī caturthas tu kuruṣv eva sugotrajah.  k 123 k
 
 kanyakubje tataś cānyam anugr̥ hya jagatpatiḥ |
 
-svasiddhāntaṁdadau yogam uvācedaṁca lāgud
-
-. iḥ \*\*  k 129 k
+svasiddhāntaṁdadau yogam uvācedaṁca lāguḍiḥ \*\*  k 129 k
 
 \* The reading of SPS 167.123d is uncertaiṇ The syllables ku-ru  are relatively certain as they are attested in all manuscripts: both SPS mss \(S1and S2\) and all SPRA mss \(R before 527
 
@@ -85,9 +81,7 @@ Thanesar: Excavations at the Harṣa kā T
 
 correction\). The S mss read the corrupt ◦ ṣvava  instead of ◦ ṣveva, but the latter reading is supported by all A mss. The latter mss read sa gotrajaḥ  instead of sugotrajaḥ . \*\* In 129d
 
-S1 reads lāgud
-
-. iḥ : S2 lākulī. 
+S1 reads lāguḍiḥ : S2 lākulī. 
 
 ‘And’ \(SPS 167.129d\) Lāgudi declares:
 
@@ -103,9 +97,7 @@ that these four pupils have the right to initiate, i.e. that they are establishe
 
 4 Above, ṇ 3 on p. 527. For a discussion of this route see below, p. 563. 
 
-5 HC\* p. 164 gr̥ he gr̥ he bhagavān apūjyata khaṇd
-
-. aparaśuḥ |
+5 HC\* p. 164 gr̥ he gr̥ he bhagavān apūjyata khaṇḍaparaśuḥ |
 
 A seal reading ‘ śrīrudraḥ ’
 
@@ -119,43 +111,31 @@ in ‘first-second century characters’ was reportedly found in the Kushana lay
 
 Some information about this ‘Kuru lineage’ seems to have survived the ages. The \(Jaina\) tradition—preserved in Guṇaratna’s \(fourteenth century\) commentary on the S
 
-. ad
-
-. darśanasamuccaya of Haribhadra \(ninth century\) and
+. aḍdarśanasamuccaya of Haribhadra \(ninth century\) and
 
 Rājaśekharasūri’s S
 
-. ad
-
-. darśanasamuccaya \(fourteenth century\)—records the
+. aḍdarśanasamuccaya \(fourteenth century\)—records the
 
 first four names of the teachers in each of the four lineages that are said to derive from Lakulīśa. The fourth teacher, here named Kauruṣa, was succeeded by Manuṣyaka, Puṣpaka and Rāśīkara.6
 
-Lāgud
-
-. i
+Lāguḍi
 
 The idea of a guru with four pupils named Lāguḍi/Lākulin or Lakulīśa seems to
 
-be an example of ‘invention of tradition’. Kauṇḍinya does not know a teacher \(incarnation\) by the name of Lakulīśa, but speaks only about the Lord \( bhagavat\) descending in Kāyāvataraṇa \(= Kārohaṇa\), who initiated only one pupil, Kuśika, in the city of Ujjayanī. 7 Nor does the name Lakulīśa, or any of its variants, occur in the Mathurā Pilaster Inscription of Candragupta II, Year 61. 8 It may have been coined in the fifth century to refer to the \(divine\) teacher who carried a club \( lagud
-
-. a\), portrayed in several fifth-century images, and as such came to be attested in the Skandapurāṇa. 9
+be an example of ‘invention of tradition’. Kauṇḍinya does not know a teacher \(incarnation\) by the name of Lakulīśa, but speaks only about the Lord \( bhagavat\) descending in Kāyāvataraṇa \(= Kārohaṇa\), who initiated only one pupil, Kuśika, in the city of Ujjayanī. 7 Nor does the name Lakulīśa, or any of its variants, occur in the Mathurā Pilaster Inscription of Candragupta II, Year 61. 8 It may have been coined in the fifth century to refer to the \(divine\) teacher who carried a club \( laguḍa\), portrayed in several fifth-century images, and as such came to be attested in the Skandapurāṇa. 9
 
 The apparently oldest image of an ithyphallic Śaiva teacher with a lakula resting against his left shoulder is accompanied by only two pupils and may date from the 5th century \(Plate 118\). 10
 
 6 Guṇaratna ad  Haribhadra’s S
 
-. ad
-
-. darśanasamuccaya \(Dalal 1920, 29\):
+. aḍdarśanasamuccaya \(Dalal 1920, 29\):
 
 tasya cāṣṭādaśāvatārā amī| nakulīśo ’tha, 
 
 \[1.1\] kauśikaḥ , \[1.2\] gārgyaḥ , \[1.3\] maitryaḥ , \[1.4\] kauruṣaḥ , 
 
-\[2.1\] īśānaḥ , \[2.2\] pāragārgyaḥ , \[2.3\] kapilāṇd
-
-. aḥ , \[2.4\] manuṣyakaḥ , 
+\[2.1\] īśānaḥ , \[2.2\] pāragārgyaḥ , \[2.3\] kapilāṇḍaḥ , \[2.4\] manuṣyakaḥ , 
 
 \[3.1\] kuśikaḥ , \[3.2\] atriḥ , \[3.3\] pi ˙
 
@@ -167,21 +147,15 @@ vidyāguruś ca |
 
 Cf. Rājaśekharasūri’s S
 
-. ad
-
-. darśanasamuccaya, Dayal op. ciṭ  35. 
+. aḍdarśanasamuccaya, Dayal op. ciṭ  35. 
 
 For an elaborate discussion of this paraṁparā  see Bisschop 2006, 48 ff. The commentator
 
-of the Pāśupatasūtra, Kauṇd
-
-. inya ad  PS 4.10, apparently placed himself in the lineage of Kuśika and ¯
+of the Pāśupatasūtra, Kauṇḍinya ad  PS 4.10, apparently placed himself in the lineage of Kuśika and ¯
 
 Iśāna: kuśikeśānasambandhāṭ No doubt the lineage of Kuśika is the oldest Pāśupata tradition \(Indraji 1881–82, 322 f., 327; Sircar: SI I, 278\), a fact corroborated by the Skandapurāṇa itself \(see above, ṇ 3 on p. 527\). 
 
-7 Kauṇd
-
-. inya ad  PS 1.1 \(for translation see below, p. 542\): kāmitvād ajātatvāc ca manuṣyarūpī bhagavān brāhmaṇakāyam āsthāya kāyāvataraṇe
+7 Kauṇḍinya ad  PS 1.1 \(for translation see below, p. 542\): kāmitvād ajātatvāc ca manuṣyarūpī bhagavān brāhmaṇakāyam āsthāya kāyāvataraṇe
 
 avatīrṇa iti | tathā padbhyām ujjayanīm
 
@@ -273,23 +247,15 @@ vanaguru\) hailing from the South \( dākṣiṇātya\), Bhairavācārya.14 In t
 
 The fourth teacher in the Kuru \(Kauruṣa\) lineage, Rāśīkara, is known from the Ratnaṭīkā \(9th century?\).19 It would seem a plausible hypothesis to rājā śrīsupuṣpavarmā varṣa 56, tena nepālabhūmi dharmeṇa vr̥ dhikr̥ tam  k puna śrī-
 
-paśubhaṭārikasya devālaye atisundara ṇirmitam  k \( ibid.  f. 20v\) The first firm evidence of Pāśupata presence in Nepal comes from the reign of King Jiṣṇugupta \(ad 624–632 \). It is found in the Paśupatinātha Temple in a shrine called Chatracaṇd
-
-. eśvara, in which the pillar next to the image of Chatracaṇd
-
-. eśvara is engraved
+paśubhaṭārikasya devālaye atisundara ṇirmitam  k \( ibid.  f. 20v\) The first firm evidence of Pāśupata presence in Nepal comes from the reign of King Jiṣṇugupta \(ad 624–632 \). It is found in the Paśupatinātha Temple in a shrine called Chatracaṇḍeśvara, in which the pillar next to the image of Chatracaṇḍeśvara is engraved
 
 with an inscription, which records a donation by a \(Pāśupata\) teacher \( ācārya\) called
 
-Bhagavat Pranardanaprāṇa Kauśika \(Verma & Singh 1994, no. 119\). The donation was made to some ascetics of the muṇd
-
-. aśr̥ ˙
+Bhagavat Pranardanaprāṇa Kauśika \(Verma & Singh 1994, no. 119\). The donation was made to some ascetics of the muṇḍaśr̥ ˙
 
 nkhalikapāśupatācāryaparṣad \(the assembly of
 
-Pāśupata teachers belonging to the Muṇd
-
-. a–Śr̥ṅkhalikas\). See Bakker 2014, 149 f. The
+Pāśupata teachers belonging to the Muṇḍa–Śr̥ṅkhalikas\). See Bakker 2014, 149 f. The
 
 ācārya  Bhagavat Pranardana informs us in another inscription on the pedestal of the same image that he is varn
 
@@ -307,9 +273,7 @@ paramabhaṭṭārakamahārājādhirājaśrīharṣah. \(Thaplyal 1985, 186\). T
 
 14 Bāṇa gives a flowery description of this teacher \(HC\* 3, pp. 169–73\). See also Bakker 2014, 78. 
 
-15 The Gaüd
-
-. avaho refers to Śrīkan
+15 The Gaüḍavaho refers to Śrīkan
 
 . ṭha, as Siriäṁṭha \(v. 484\). Vākpatirāja describes it as
 
@@ -449,9 +413,7 @@ ascetics and ācāryas  in Vārāṇasī, who may well have been in charge of mo
 
 the sanctuaries described in the texṭ Being united in the kingdom of Kanauj by the time the SP was composed, 25 the Vārāṇasī Pāśupatas entertained probably
 
-manifold relations with their brethren in Kanyakubja. This sectarian affiliation may partly explain why, with the exception of Avimukteśvara, the tīrthas mentioned in the SP do not feature in other sources, before their inclusion in the Tīrthavivecanakāṇd
-
-. a of Lakṣmīdhara who, by quoting the Skandapurāṇa, 
+manifold relations with their brethren in Kanyakubja. This sectarian affiliation may partly explain why, with the exception of Avimukteśvara, the tīrthas mentioned in the SP do not feature in other sources, before their inclusion in the Tīrthavivecanakāṇḍa of Lakṣmīdhara who, by quoting the Skandapurāṇa, 
 
 23 Above, pp. 185 ff., p. 469. See also Bakker 2014, 137f. 
 
@@ -741,23 +703,15 @@ background was also not forgotten, as the interpolation shows.
 
 Figure 14
 
-Matrimonial alliances of the royal houses of North India in the 6th and 7th centuries 39 IA IX, 178 ff. Indraji & Bühler read 153 \( = ad 728\); Verma & Singh 1994, 238 f. \(see ibid.  pp. xlix f.\). Verse 13 \(Śārdūlavikrīd
+Matrimonial alliances of the royal houses of North India in the 6th and 7th centuries 39 IA IX, 178 ff. Indraji & Bühler read 153 \( = ad 728\); Verma & Singh 1994, 238 f. \(see ibid.  pp. xlix f.\). Verse 13 \(Śārdūlavikrīḍita\):
 
-. ita\):
-
-devī bāhubalād
-
-. hyamaukharikulaśrīvarmacūd
-
-. āmaṇi-
+devī bāhubalāḍhyamaukharikulaśrīvarmacūḍāmaṇi-
 
 khyātihrepitavairibhūpatigaṇaśrībhogavarmodbhavā |
 
 dauhitrī magadhādhipasya mahataḥ śryādityasenasya yā, 
 
-vyūd
-
-. hā śrīr iva tena \(i.e. Śivadeva\) sā kṣitibhujā śrīvatsadevy ādarāt  k 13 k
+vyūḍhā śrīr iva tena \(i.e. Śivadeva\) sā kṣitibhujā śrīvatsadevy ādarāt  k 13 k
 
 40 This Bhogavarman cannot be the same as the son of Śūrasena and nephew of the Mahā-
 
@@ -821,9 +775,7 @@ bhaṭṭārakam
 
 nimittīkr̥ tya taddeva-
 
-kulakhaṇd
-
-. asphuṭitasaṁskārakaran
+kulakhaṇḍasphuṭitasaṁskārakaran
 
 . āya vaśapāśupatācāryebhyaḥ \* pratipāditas |
 

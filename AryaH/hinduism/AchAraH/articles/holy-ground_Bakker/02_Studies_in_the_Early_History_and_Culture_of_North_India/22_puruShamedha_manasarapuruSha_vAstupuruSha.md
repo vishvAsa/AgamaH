@@ -437,9 +437,7 @@ Plate 99
 
 the śyenaciti in the foreground’
 
-in the excavation of a mound known as Med
-
-. h in the village of Gokul near Mahāsthān in
+in the excavation of a mound known as Meḍh in the village of Gokul near Mahāsthān in
 
 the District Bogra, West Bengal. In addition to this skeleton, a gold leaf with the figure of a bull has been found. The excavation is reported by ṇG. Majumdar in ASI Annual Report 1935–36, 67–69. 
 
@@ -515,9 +513,7 @@ exposed by the excavators A.K. Sharma and J.P. Joshi in excavations carried out 
 
 Plate 102
 
-MNS 3 \(Hid
-
-. imbā T
+MNS 3 \(Hiḍimbā T
 
 . ekd
 
@@ -621,9 +617,7 @@ The author Varāhamihira \(mid 6th century\) begins his chapter on ‘Architectu
 
 To be more precise, there was a being that by his body obstructed the earth and the sky; that being was forcibly seized by the immortals, who felled him, head-dowṇ And wherever a god held it, there that god became established; the Creator ordained that the House Man \( vāstunara\) was to consist of those immortals. 46
 
-This myth, which still strongly shows the mark of the Vedic concept of the Cosmic Man \(Puruṣa\), became the basis of an ideology that we find in nearly all Sanskrit texts dealing with the Hindu temple, be they sectarian religious scriptures \( āgamas\), or technical treatises concerned with architecture and the like, Śilpaśāstra. The central idea is that underneath the Hindu temple lies a diagram, a maṇd
-
-. ala, that embodies the cosmic Puruṣa and houses all divinities. 
+This myth, which still strongly shows the mark of the Vedic concept of the Cosmic Man \(Puruṣa\), became the basis of an ideology that we find in nearly all Sanskrit texts dealing with the Hindu temple, be they sectarian religious scriptures \( āgamas\), or technical treatises concerned with architecture and the like, Śilpaśāstra. The central idea is that underneath the Hindu temple lies a diagram, a maṇḍala, that embodies the cosmic Puruṣa and houses all divinities. 
 
 The temple, thus founded on a macrocosmic grid, is a junction of this world and the other, a fusion of micro- and macrocosm. Seen in this way the ideology of the temple continues that of the Agnicayana altar̥ 47
 
@@ -637,9 +631,7 @@ maṇḍala on the site made even and clean and performs a fire ritual to please
 
 Kandhar
 
-Occasionally a human-shaped figure in lieu of a maṇd
-
-. ala  may be found. Such
+Occasionally a human-shaped figure in lieu of a maṇḍala  may be found. Such
 
 a stone structure has been discovered, for instance, at Kandhar \(Disṭ Nanded, Maharashtra\) in excavations conducted by M.K. Dhavalikar and A.P. Jamkhedkar̥ 49
 

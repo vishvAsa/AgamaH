@@ -3,9 +3,7 @@ title = "28 The Gospel of Kauṇḍinya"
 
 +++
 
-The Descent of God in Gujarat and the Practice of Imitating God Kauṇd
-
-. inya’s Pañcārthabhāṣya
+The Descent of God in Gujarat and the Practice of Imitating God Kauṇḍinya’s Pañcārthabhāṣya
 
 Kuśika and the divine revelation
 
@@ -21,17 +19,13 @@ It is generally accepted that this Kuśika has been a historic person, who may h
 
 II, Year 61 \(i.e. ad 380/81, or ad 388, according to Falk 2004, 173\).2 Kauṇḍinya describes how and why this Kuśika came to be elected to receive and spread the divine word. He begins by defining the nature of God. 
 
-And accordingly, since His nature is play \( krīd
-
-. ā\) . . . \(it is certain that\) the activity
+And accordingly, since His nature is play \( krīḍā\) . . . \(it is certain that\) the activity
 
 of God is springing from play. And \(His\) activity, insomuch as this consists in proclaiming the doctrine, is for the sake of bestowing favour \( anugraha\). \(Kauṇḍinya ad  PS 1.1\)
 
 ∗ The first version of this article was published in Dijkstra, Jitse, Justin Kroesen, & Yme Kuiper \(edṣ\), Myths, Martyrs, and Modernity. Studies in the History of Religions in Honour of Jan ṇ Bremmer̥ Brill, Leiden – Boston 2010. pp. 517–529. Numen Book Series. Studies in the History of Religions 127. 
 
-1 Kauṇd
-
-. inya ad  PS 4.10: kuśikeśānasambandhāṭ Cf. above, ṇ 6 on p. 529 and Bisschop
+1 Kauṇḍinya ad  PS 4.10: kuśikeśānasambandhāṭ Cf. above, ṇ 6 on p. 529 and Bisschop
 
 2006, 49 f. 
 
@@ -91,9 +85,7 @@ reached?’ It is reached, Kauṇḍinya preaches, due to the grace \( prasāda\
 
 ![Image 20563](images/015080.png)
 
-28 / The Gospel of Kauṇd
-
-. inya
+28 / The Gospel of Kauṇḍinya
 
 543
 
@@ -151,9 +143,7 @@ But there is another side of Śiva, more ancient, going directly back to the Ved
 
 
 
-28 / The Gospel of Kauṇd
-
-. inya
+28 / The Gospel of Kauṇḍinya
 
 545
 
@@ -161,9 +151,7 @@ But there is another side of Śiva, more ancient, going directly back to the Ved
 
 \( paśu\)’. This is a god of nature and fertility, powerful and terrifying, who joined in with the indigenous phallus cult, which sophisticated brahminical thinking transformed eventually into the abstract liṅga. In this aspect, Śiva is associated with the bull, nay, he is the bull. This aspect of his character explains the, at first sight, puzzling injunction in the Pāśupatasūtras where
 
-it says, that the initiate should offer, along with laughter, the sound hud
-
-. um
+it says, that the initiate should offer, along with laughter, the sound huḍum
 
 . 
 
@@ -183,11 +171,7 @@ In existence after existence, not in too many existences, You should be merciful
 
 The seeking of dishonour
 
-Although the initiate ‘looses himself’, so to speak, in his mimetic worship, this is a temporary state. For the second stage of the ascetic’s career Kauṇḍinya prescribes a behaviour that deepens the effacement of the person by a process of self-mortification that goes further than most of the rivalling practices. I 5 Kauṇd
-
-. inya ad  PS 1.8. This practice may go back to a Vedic govrata  or anad
-
-. udvrata; see
+Although the initiate ‘looses himself’, so to speak, in his mimetic worship, this is a temporary state. For the second stage of the ascetic’s career Kauṇḍinya prescribes a behaviour that deepens the effacement of the person by a process of self-mortification that goes further than most of the rivalling practices. I 5 Kauṇḍinya ad  PS 1.8. This practice may go back to a Vedic govrata  or anaḍudvrata; see
 
 Acharya 2013. 
 
@@ -195,9 +179,7 @@ Acharya 2013.
 
 7 For the significance of ‘the right side’ in this context see Bakker 2004c; above, pp. 505 ff. 
 
-8 My translation follows Kauṇd
-
-. inya’s interpretation of PS 1.40–44:
+8 My translation follows Kauṇḍinya’s interpretation of PS 1.40–44:
 
 sadyojātaṁprapadyāmi sadyojātāya vai namaḥ |
 
@@ -283,9 +265,7 @@ as argued by Ingalls \(see below, p. 554\) is very unlikely. Cf. Acharya 2013. I
 
 ![Image 20574](images/009705.jpg)
 
-28 / The Gospel of Kauṇd
-
-. inya
+28 / The Gospel of Kauṇḍinya
 
 547
 
@@ -391,9 +371,7 @@ nga
 
 
 
-28 / The Gospel of Kauṇd
-
-. inya
+28 / The Gospel of Kauṇḍinya
 
 549
 
@@ -405,9 +383,7 @@ nga, together with their wives.
 
 Antinomian conduct has remained a feature of Śaiva ascetics until the present day. 
 
-Kauṇd
-
-. inya’s eschatology
+Kauṇḍinya’s eschatology
 
 Like the aspirant, we should leave this provocative, foolish phase in the discipline behind us and move on towards the final goal. The next step in the career of the practitioner is to retreat into solitude, which ends in his move to the cremation ground. By chosing this, for ordinary Hindus most pollutive and horrifying place, as his last residence on earth \(while still alive\), the accomplished Pāśupata saint proves his complete detachment from all earthly things. 
 
@@ -469,9 +445,7 @@ We may say that the idea of the imitation of god as a path to reach him has reta
 
 ourselves here to an early Śaiva movement, but instances of the imitatio dei practice within modern Vaisnavism are not hard to come by. 
 
-One could even maintain that the modern devotional schools of Viṣṇu worship are nothing but imitations of the divine play \( līlā/ krīd
-
-. ā\), be it the sports
+One could even maintain that the modern devotional schools of Viṣṇu worship are nothing but imitations of the divine play \( līlā/ krīḍā\), be it the sports
 
 of Rāma and Sītā in Ayodhyā, or those of Kr̥ṣṇa and Rādhā in Braj. In order
 
@@ -479,9 +453,7 @@ to enact the eternal līlā, devotees make pilgrimages to the places where the m
 
 
 
-28 / The Gospel of Kauṇd
-
-. inya
+28 / The Gospel of Kauṇḍinya
 
 551
 

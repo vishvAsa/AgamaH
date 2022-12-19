@@ -123,9 +123,7 @@ One more inscribed stone relevant to our present discussion was found in Chittor
 
 5 The Ghoṣūṇd
 
-.ī village lies c. 6 km NE of Nagarī, but the inscribed stone came originally from the so-called Hāthī-bād
-
-. ā at Nagarī. There exist apparently three copies of this inscription, one still in situ. EI 16, 25–27; EI 22, 198–205; Sircar in SI I, 90 f.: ‘2nd half of the 1st cenṭ BC’. 
+.ī village lies c. 6 km NE of Nagarī, but the inscribed stone came originally from the so-called Hāthī-bāḍā at Nagarī. There exist apparently three copies of this inscription, one still in situ. EI 16, 25–27; EI 22, 198–205; Sircar in SI I, 90 f.: ‘2nd half of the 1st cenṭ BC’. 
 
 6 Bhandarkar 1920, 129; Agrawala 1987. 
 
@@ -313,15 +311,11 @@ have been found at Bhūmarā and Sārnāth, are suggested at S¯
 
 ondani and earlier at
 
-Bilsad
-
-. , are still utilized on structures in Surāṣṭra in the seventh century, and contribute
+Bilsaḍ, are still utilized on structures in Surāṣṭra in the seventh century, and contribute
 
 conceptually to the formation of the Nāgara superstructure, where they become in-
 
-corporated as bhūmikhaṇd
-
-. as. 
+corporated as bhūmikhaṇḍas. 
 
 18 Bhandarkar op. ciṭ  125, Plate XIV\(b\) \(probably upside-down\). 
 
@@ -449,9 +443,7 @@ A problem remains: what is the object that Śiva holds first in his raised right
 
 25 SPS 167.75: īrṣayā munibhir li ˙
 
-ngaṁtasya devasya tan mahat | vimūd
-
-. haiḥ pātitaṁvyāsa
+ngaṁtasya devasya tan mahat | vimūḍhaiḥ pātitaṁvyāsa
 
 devadāruvanāśrame  k
 
@@ -643,9 +635,7 @@ yūyaṁyāta mahīṁsarve dvijā bhūtvā tapasvinaḥ |
 
 mām evaiṣyatha yogīśā nītvā viprān paraṁpadam  k 120 k
 
-35 Bakker 2004c, 124 f. \(above, p. 514\). Kauṇd
-
-. inya ad  PS 1.1. Dalal 1920, p. 9: Ratnaṭīkā
+35 Bakker 2004c, 124 f. \(above, p. 514\). Kauṇḍinya ad  PS 1.1. Dalal 1920, p. 9: Ratnaṭīkā
 
 ad  Gaṇakārikā 5c. 
 
@@ -799,9 +789,7 @@ In the Nagarī panel there appears in the viewer’s right top corner a third fi
 
 41 MBh 3.13.37–41 \(tr̥ van Buitenen\):
 
-After the Pāṇd
-
-. ava \(i.e. Arjuna\), who was the very self of Kr̥ṣṇa, had thus spoken to
+After the Pāṇḍava \(i.e. Arjuna\), who was the very self of Kr̥ṣṇa, had thus spoken to
 
 himself, he fell silent and Janārdana \(i.e. Kr̥ṣṇa\) said to the Pārtha \(i.e. Arjuna\). ‘You are mine and I am yours, and my people are yours. He who hates you hates me; who follows you follows me. You, invincible hero, are Nara and I am Hari Nārāyaṇa. Nara
 
@@ -905,9 +893,7 @@ to this context, nor has Indra a role to play any longer̥ It is not immediately
 
 48 MBh 3.39.23: caturthe tv atha saṁprāpte māsi pūrṇe tataḥ param | vāyubhakṣo mahā-
 
-bāhur abhavat pāṇd
-
-. unandanaḥ | ūrdhvabāhur nirālambaḥ pādā ˙
+bāhur abhavat pāṇḍunandanaḥ | ūrdhvabāhur nirālambaḥ pādā ˙
 
 nguṣṭhāgraviṣṭhitah.  k 23 k
 
@@ -1145,9 +1131,7 @@ n devaḥ kapardī nīlalohitaḥ |
 
 tad gr̥ hītvā śiro dīptaṁrūpaṁvikr̥ tam āsthitaḥ |
 
-yogakrīd
-
-. āṁsamāsthāya bhaikṣāya pracacāra ha  k 2 k
+yogakrīḍāṁsamāsthāya bhaikṣāya pracacāra ha  k 2 k
 
 56 MBh 3.41.7–8 \(above, ṇ 50 on p. 523\); cf. MBh 14.62.15, 133\* ll. 3–4. 
 
@@ -1161,9 +1145,7 @@ catvāry astrāṇi daṁṣṭrāś ca kr̥ tāni sumahānti vai |
 
 astraṁpāśupataṁpūrvaṁdvitīyaṁcakram eva ca  k 7 k
 
-brahmadaṇd
-
-. aṁtr̥ tīyaṁca caturthaṁbrahmaṇaḥ śiraḥ  k
+brahmadaṇḍaṁtr̥ tīyaṁca caturthaṁbrahmaṇaḥ śiraḥ  k
 
 
 
@@ -1211,17 +1193,13 @@ SPBh 84.3 compares the battle with the sacrifice.
 
 The
 
-‘heads’ are the ‘sacrificial cakes’ \( purod
-
-. āśāḥ śirāṁsi\), the divine weapons are the mantras
+‘heads’ are the ‘sacrificial cakes’ \( puroḍāśāḥ śirāṁsi\), the divine weapons are the mantras
 
 \( mantrāś cāstrāṇi divyāni\). 
 
 58 MBh 3.41.17–22 \(tr̥ van Buitenen\). 
 
-\[. . . \] athāstraṁjājvalad ghoraṁpāṇd
-
-. avasyāmi-
+\[. . . \] athāstraṁjājvalad ghoraṁpāṇḍavasyāmi-
 
 taujasaḥ | mūrtimad viṣṭhitaṁpārśve dadr̥śur devadānavāḥ  k 22 k
 

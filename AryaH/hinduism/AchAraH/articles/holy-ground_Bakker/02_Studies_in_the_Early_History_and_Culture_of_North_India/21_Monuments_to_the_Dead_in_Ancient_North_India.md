@@ -13,9 +13,7 @@ The funerary monument in Sanskrit literature
 
 We possess a moving literary description of what the death of a king—great in the eyes of his contemporaries—brought about, how it was experienced by the court, and which ritual and ceremonies were performed to cope with the calamity. Bāṇa in Harṣacarita 5 tells us that, even before the actual demise of Harṣa’s father, Prabhākaravardhana, the latter’s first wife, Queen Yaśovatī, was so overwhelmed by grief and the prospect of widowhood that she, against the express wish of her son, committed herself to the flames \(i.e. became a satī\), while her husband was still alive. 
 
-After the death of his mother Harṣa goes to his dying father and clasps his feet in dispair̥ The latter comforts him, recommends him to his royal duties, and utters his last words: ‘enemies should be exterminated’. 3 The body is brought to the bank of the Sarasvatī on a bier, a funeral pyre is built and the cremation ritual is performed at dusk. It is suggested that the remaining ladies of the king’s harem also commit satī. Harṣa keeps a vigil and next morning goes to the Sarasvatī to bathe, offers an oblation of water to his father, and goes home in distress \(p. 293\). A brahmin eats the first piṇd
-
-. as  offered to the
+After the death of his mother Harṣa goes to his dying father and clasps his feet in dispair̥ The latter comforts him, recommends him to his royal duties, and utters his last words: ‘enemies should be exterminated’. 3 The body is brought to the bank of the Sarasvatī on a bier, a funeral pyre is built and the cremation ritual is performed at dusk. It is suggested that the remaining ladies of the king’s harem also commit satī. Harṣa keeps a vigil and next morning goes to the Sarasvatī to bathe, offers an oblation of water to his father, and goes home in distress \(p. 293\). A brahmin eats the first piṇḍas  offered to the
 
 ghost \( preta\) and the period of impurity passes. 
 
@@ -39,9 +37,7 @@ Hans Bakker
 
 in the form of a monument at \(the place of\) the funeral pyre made of a mass of bricks. 4 Finally the royal elephant is set loose and gradually the lamentations subside. The metaphor used by Bāṇa, ‘a stab of pain’ \( śokaśalya\)—the primary meaning of śalya  being ‘dart’—suggests that the monument had the form of a needle. 5 Such a monument seems to be known from the Sanskrit literature, viz. the Viṣṇudharmottarapurāṇa’s chapter on the so-called aiḍ¯uka. 
 
-The aid
-
-. ūka of the Viṣṇudharmottarapurāṇa
+The aiḍūka of the Viṣṇudharmottarapurāṇa
 
 Viṣṇudharmottara 3.84.1–15 describes the aiḍ¯ukar¯upa  as followṣ6
 
@@ -63,9 +59,7 @@ Dhr̥tarāṣṭra, Vir¯upākṣa, and Kubera, with lances \( ś¯ula\) in thei
 
 Śakra, Dhr̥tarāṣṭra is Yama, Vir¯upākṣa is Varuṇa, and Kubera is Rājarāja. 
 
-This aid
-
-. ūka  is named ‘Prajāhita’; men who worship it obtain happiness and
+This aiḍūka  is named ‘Prajāhita’; men who worship it obtain happiness and
 
 heaven after death. 
 
@@ -77,9 +71,7 @@ Shah in her commentary emphasizes that this Aiḍ¯uka structure is not a partic
 
 nguttara-Nikāya III, 62, Sokasallaharaṇa, name of the discourse \( dhammapariyāya\)
 
-that takes away the grieve of bereavement, taught to king Muṇd
-
-. a. 
+that takes away the grieve of bereavement, taught to king Muṇḍa. 
 
 6 For the Sanskrit text of VDhP 3.84.1–15 see Appendix. 
 
@@ -107,11 +99,7 @@ singular, corresponding with Kubera.
 
 10 See Barhut Inscriptions \(CII II, pṭ ii\), p.73:
 
-As Kupira \( Kubera\) and Virud
-
-. aka \( Virūd
-
-. haka\) are the guardians of the Northern and
+As Kupira \( Kubera\) and Viruḍaka \( Virūḍhaka\) are the guardians of the Northern and
 
 Southern region respectively we can assume with certainty that on the lost corner pillars of both the quadrants Virūpakkha and Dhataraṭṭha, the guardians of the West
 
@@ -119,29 +107,15 @@ and East, were represented, each one with two companions. Vogel, Indian Serpent-
 
 21 / Monuments to the Dead in Ancient North India 407
 
-the aid
-
-. ūka  of the VDhP is without ashes or bones and is therefore acceptable to be worshipped, whereas originally such monuments would have contained bones or relics. This plausible assumption as well as the naming of the four Buddhist Lokapālas strongly suggest that Buddhist examples lie at the root of the Purāṇa’s description of the aiḍ¯uka.11 We may add that the use of the word aid
-
-. ūka, instead of ed
-
-. ūka, could also point to this, meaning ‘derived from/related to/of the nature of the ed
-
-. ūka’, not the original \(Buddhist\) ‘ossuary’. 
+the aiḍūka  of the VDhP is without ashes or bones and is therefore acceptable to be worshipped, whereas originally such monuments would have contained bones or relics. This plausible assumption as well as the naming of the four Buddhist Lokapālas strongly suggest that Buddhist examples lie at the root of the Purāṇa’s description of the aiḍ¯uka.11 We may add that the use of the word aiḍūka, instead of eḍūka, could also point to this, meaning ‘derived from/related to/of the nature of the eḍūka’, not the original \(Buddhist\) ‘ossuary’. 
 
 The
 
-view that sees in the aid
+view that sees in the aiḍūka  an appropriation by the author of the VDhP of a Buddhist architectural tradition finds support in the outcome of Gustav Roth’s investigation into the Symbolism of the Buddhist Stūpa. 12
 
-. ūka  an appropriation by the author of the VDhP of a Buddhist architectural tradition finds support in the outcome of Gustav Roth’s investigation into the Symbolism of the Buddhist Stūpa. 12
+The eḍūka
 
-The ed
-
-. ūka
-
-We have some more literary evidence regarding the ed
-
-. ūka. The Mahāvastu
+We have some more literary evidence regarding the eḍūka. The Mahāvastu
 
 refers to an anticipated funerary monument of Princess Sudarśanā, who tells
 
@@ -155,25 +129,15 @@ Lore, p. 212, is of the opinion that the names of the four world-guardians do no
 
 and in the āṭānāṭiyasutta \(D III, 197 ff.\) in accordance with their fixed distribution in the four directions. 
 
-In the Aid
+In the Aiḍūka construction it seems that Virūḍha represents the East \(= Śakra\) and
 
-. ūka construction it seems that Virūd
-
-. ha represents the East \(= Śakra\) and
-
-Dhr̥tarāṣṭra the South \(= Yama\). This would make a pradakṣiṇā: Virūd
-
-. ha East, 
+Dhr̥tarāṣṭra the South \(= Yama\). This would make a pradakṣiṇā: Virūḍha East, 
 
 Dhr̥tarāṣṭra South, Virūpākṣa West, Kubera North. This is a deviation from the standard Buddhist doctrine; cf. Banerjea 1956, 521 f.:
 
-In Buddhist mythology too we find a group of four divine beings associated with the four principal quarters, and the Sanskrit Buddhist texts give us a stereotyped list of four; they are Dhr̥tarāṣṭra, the Gandharva king \(east\), Virūd
+In Buddhist mythology too we find a group of four divine beings associated with the four principal quarters, and the Sanskrit Buddhist texts give us a stereotyped list of four; they are Dhr̥tarāṣṭra, the Gandharva king \(east\), Virūḍhaka, the king
 
-. haka, the king
-
-of the Kumbhāṇd
-
-. as \(south\), Virūpākṣa, the Nāga monarch \(west\) and Vaiśravaṇa, 
+of the Kumbhāṇḍas \(south\), Virūpākṣa, the Nāga monarch \(west\) and Vaiśravaṇa, 
 
 the Yakṣa king \(north\). They are the Catur-mahārājas of some Buddhist texts, and Pāṇini seems to have had them in his mind when he referred to their bhaktas in one of his sūtras \(P 4.3.99\): mahārājāṭṭha˜
 
@@ -203,19 +167,13 @@ monument of laymeṇ Emeneau, discussing the word in a review of Mayrhofer’s k
 
 ument containing the ashes or bones of a dead person’. \[. . . \] Considering the clear meaning in the Buddhist texts \(bones are specifically mentioned in one passage\) and the l  of the word there, one must at least consider again Kittel’s old suggestioṇ . . of connection with the Dr\[avidian\] words for ‘bone’. . . . 
 
-Shah quotes Helmer Smith who derives it from the Canarese root el.- ‘to stand up, to rise’. 15 This meaning of the word ed
+Shah quotes Helmer Smith who derives it from the Canarese root el.- ‘to stand up, to rise’. 15 This meaning of the word eḍūka  is confirmed by the Amarakośa, 
 
-. ūka  is confirmed by the Amarakośa, 
-
-in which it occurs in connection with ‘wall’: ‘An ed
-
-. ūka  is \(a wall\) wherein bones
+in which it occurs in connection with ‘wall’: ‘An eḍūka  is \(a wall\) wherein bones
 
 are placed, i.e. an ossuary.’ 16
 
-From the evidence surveyed above it seems to appear that the erection of funerary monuments was not strictly limited to the heterodox traditions. However, being from its inception connected with the remains of the dead, the ed
-
-. ūka
+From the evidence surveyed above it seems to appear that the erection of funerary monuments was not strictly limited to the heterodox traditions. However, being from its inception connected with the remains of the dead, the eḍūka
 
 ambe yadi me sapta kṣatriyā parasparam virudhitvā ghātayiṣyanti, tatah. bhasmāyitvā asthīni saṁharyitvā tato me elūkāṁkārāpayesi | tatra ca elūkādvāre karṇikāravr̥ kṣam
 
@@ -225,31 +183,21 @@ ropāpayasi | tato grīṣmāṇām atyayena prathame prāvr̥ṣamāse vartamā
 
 varṇena dhītā sudarśanā āsīti  k
 
-Cf. the thūpa \( stūpa\) erected for Queen Bhaddā by her husband, King Muṇd
-
-. a of
+Cf. the thūpa \( stūpa\) erected for Queen Bhaddā by her husband, King Muṇḍa of
 
 Pāṭaliputra, Aṅguttara-Nikāya III, 62 \(I thank Oskar von Hinüber for referring me to this passage\). 
 
-Kane IV, 255 ṇ 580 draws our attention to a passage in the Brahmanical literature where a tree and ed
+Kane IV, 255 ṇ 580 draws our attention to a passage in the Brahmanical literature where a tree and eḍūka  are mentioned. It concerns a passage found in Aparārka’s commentary
 
-. ūka  are mentioned. It concerns a passage found in Aparārka’s commentary
+on the Yājñavalkyasmr̥ti \(vol. II, pp. 885 f.\) ascribed to the Brahmapurāṇa: It is stated that the charred bones of a cremated person should be collected in an urn and deposited at the root of a tree or cast in the Ganges, that the place of cremation should be purified with cowdung and water, that a puṣkaraka tree should be planted there or an eḍūka \(a structure\) should be built over iṭ 
 
-on the Yājñavalkyasmr̥ti \(vol. II, pp. 885 f.\) ascribed to the Brahmapurāṇa: It is stated that the charred bones of a cremated person should be collected in an urn and deposited at the root of a tree or cast in the Ganges, that the place of cremation should be purified with cowdung and water, that a puṣkaraka tree should be planted there or an ed
-
-. ūka \(a structure\) should be built over iṭ 
-
-. . . bhūmer ācchādanārthaṁtu vr̥ kṣaḥ puṣkarako ’tha vā | ed
-
-. ūko vā prakartavyas tatra
+. . . bhūmer ācchādanārthaṁtu vr̥ kṣaḥ puṣkarako ’tha vā | eḍūko vā prakartavyas tatra
 
 sarvaiḥ svabandhubhiḥ  k
 
 14 Emeneau 1988 \(Selected Papers\), 184 f. See also Allchin 1957. 
 
-15 Shah VDhP p. 173. She further speculates about the etymology and concludes: ‘If this is correct, it would lead us to the conclusion that the Deśya word ed
-
-. ūka, which later
+15 Shah VDhP p. 173. She further speculates about the etymology and concludes: ‘If this is correct, it would lead us to the conclusion that the Deśya word eḍūka, which later
 
 on became sanskritised and accepted in sanskrit lexicons, originally must have meant a
 
@@ -261,11 +209,7 @@ structure containing bone relicṣ’ \(p. 172\). Allchin 1957, 3 refers to Tami
 
 Over and around it was placed a cairn of small stones, granite chips, etc. and around the cairn was frequently placed one or more circles of large boulderṣ’ \( op. ciṭ  3\); cf. Falk 2000, 73. 
 
-16 Amarakośa 2.2.4: bhittiḥ strī kud
-
-. yam ed
-
-. ūkaṁyadantarnyastakīkasam |
+16 Amarakośa 2.2.4: bhittiḥ strī kuḍyam eḍūkaṁyadantarnyastakīkasam |
 
 gr̥ haṁgehodavasite veśma sadma niketanam  k 4 k
 
@@ -275,21 +219,9 @@ ngayasūrin glosses: ilyate kṣipyate ’sthi antar iti eḍūkam | ‘ila svap
 
 sāsthibhittināma  k Mallinātha glosses:
 
-ed
+eḍūkaṁ–kīkasam | antargatāsthikuḍyanāma |
 
-. ūkaṁ–kīkasam | antargatāsthikud
-
-. yanāma |
-
-‘mettinakod
-
-. a’ | ed
-
-. ukam ity apy asti | ‘ed
-
-. ukam antargatāsthikud
-
-. yaṁsyāt’ iti ratnakośaḥ  k
+‘mettinakoḍa’ | eḍukam ity apy asti | ‘eḍukam antargatāsthikuḍyaṁsyāt’ iti ratnakośaḥ  k
 
 
 
@@ -299,13 +231,9 @@ was, for obvious reasons, not much in vogue in orthodox circles, as the followin
 
 of total disruption at the end of the Kali Age, but, as is often the case with such passages, its hidden agenda seems to be to attack contemporaneous practices. 17
 
-And this perverted world shall be upside down: at the dissolution of the yuga \(people\) will venerate charnel-houses \( ed
+And this perverted world shall be upside down: at the dissolution of the yuga \(people\) will venerate charnel-houses \( eḍūkas\) and abandon the gods, \(whereas\)
 
-. ūkas\) and abandon the gods, \(whereas\)
-
-śūdras will not serve the brahmins. When the yuga expires, the earth shall no longer be decorated by temples, but marked by charnel-houses \( ed
-
-. ūkas\): in the
+śūdras will not serve the brahmins. When the yuga expires, the earth shall no longer be decorated by temples, but marked by charnel-houses \( eḍūkas\): in the
 
 hermitages of the great seers, in the settlements of brahmins, in the dwellings of the gods, in hallowed places \( caitya\), and in the abodes of the Nāgas. That is the
 
@@ -327,9 +255,7 @@ umschlossen \( op. ciṭ §96\).. . . Jetzt, da das Terrain für die ‘Schichtu
 
 viparītaś ca loko ’yaṁbhaviṣyaty adharottaraḥ |
 
-ed
-
-. ūkān pūjayiṣyanti varjayiṣyanti devatāh. |
+eḍūkān pūjayiṣyanti varjayiṣyanti devatāh. |
 
 śūdrāḥ paricariṣyanti na dvijān yugasaṁkṣaye  k 64 k
 
@@ -337,9 +263,7 @@ ed
 
 . āvasatheṣu ca |
 
-devasthāneṣu caityeṣu nāgānām ālayeṣu ca  k 65 k ed
-
-. ūkacihnā pr̥ thivī na devagr̥ habhūṣitā |
+devasthāneṣu caityeṣu nāgānām ālayeṣu ca  k 65 k eḍūkacihnā pr̥ thivī na devagr̥ habhūṣitā |
 
 bhaviṣyati yuge kṣīṇe tad yugāntasya lakṣaṇam  k 66 k yadā raudrā dharmahīnā māṁsādāḥ pānapās tathā |
 
@@ -363,9 +287,7 @@ Despite the attention paid to these barrows \( citi\) in the Kalpaśāstra, we, 
 
 Giuseppe de Marco, find little hard evidence that this Vedic tradition was continued in historic times in classical North India. Disposal of the remains in holy water \( tīrtha\)—be it the ashes/bones, or the body as a whole \(as in the case of ascetics\)—seems to have replaced the older practices of inhumation and exposure. 21 This tallies with the virtual absence in the Mahābhārata of
 
-any reference to the erection of monuments to the dead, apart from the quoted passage regarding the alleged worship of ed
-
-. ūkas. 22
+any reference to the erection of monuments to the dead, apart from the quoted passage regarding the alleged worship of eḍūkas. 22
 
 The Sanskrit literature knows, however, yet another type of monument to commemorate the deceased; it is said to appertain in particular to the kṣatriya class. 23 The Pratimānāṭaka, traditionally ascribed to Bhāsa, describes how Bharata on his return to Ayodhyā pauses at a building, outside the city, tucked
 
@@ -525,15 +447,11 @@ Hero-stones, including satī-stones, which are found in particular in the Deccan
 
 4
 
-Structures that have some formal correspondences with the funerary monuments of the following category \(5\), but which do not contain the actual mortuary remains; these seem to have been described in the Viṣṇudharmottarapurāṇa under the name of aid
-
-. ūka. 
+Structures that have some formal correspondences with the funerary monuments of the following category \(5\), but which do not contain the actual mortuary remains; these seem to have been described in the Viṣṇudharmottarapurāṇa under the name of aiḍūka. 
 
 5
 
-Burial mounds or sepulchral monuments that actually contain the ashes and/or bones, or the bodies of the deceased, in Sanskrit literature referred to as ed
-
-. ūka. 
+Burial mounds or sepulchral monuments that actually contain the ashes and/or bones, or the bodies of the deceased, in Sanskrit literature referred to as eḍūka. 
 
 Memorials
 
@@ -797,9 +715,7 @@ as does Mirashi, but surmises that ‘he might have come over there as a pilgrim
 
 58 Another, somewhat later \(5th century?\), specimen of a memorial stone with portrait has been found in Sangsi \(Kolhapur District\). It depicts a funeral scene showing the figure of the queen and attendants. The inscription on it reports the erection of a stone funerary monument \( śailaṁcaityakam\) \(i.e. the slab of stone itself, referred to by idam\) by her loving husband, King Pu. . . , in order to protect/preserve \(her\) merits/virtues. 
 
-The Śārdūlavikrīd
-
-. ita verse runs \(EI 28 \(1949–50\), 132 f., emended\):
+The Śārdūlavikrīḍita verse runs \(EI 28 \(1949–50\), 132 f., emended\):
 
 śrīpu
 
@@ -849,19 +765,13 @@ his wife Yaśodattā, who is called a novice nun \( śrāmaṇerī\). Patil and 
 
 On the other hand, although the term yaṣṭi  is used to refer to these steles, these monuments differ widely from the constructions composed of square and circular yaṣṭis  as described under the heading aiḍ¯uka  in the VDhP. 
 
-Aid
-
-. ūkas
+Aiḍūkas
 
 Ahicchatra
 
-There exists a brick monument that has been thought to conform to and has been identified as an aid
+There exists a brick monument that has been thought to conform to and has been identified as an aiḍūka  in the sense of the VDhP. This is the ‘Śiva temple’
 
-. ūka  in the sense of the VDhP. This is the ‘Śiva temple’
-
-at Ahicchatra \(AC I\), which is, in the words of Agrawala \(Plate 85\): A massive brick structure unique of its kind in North India. On plan it is similar to the quadrangular Buddhist stūpas  raised in several tiers, diminishing upwards like a gigantic staircase. The structure answers closely to what the Viṣṇudharmottarapurāṇa describes as an ed
-
-. ūka \(sic\) built in three terraces \( bhadra-pīṭhas\), one above the other, with four stepped approaches and surmounted on the top by 60 EI XVI \(1921-22\), 19 ff. 
+at Ahicchatra \(AC I\), which is, in the words of Agrawala \(Plate 85\): A massive brick structure unique of its kind in North India. On plan it is similar to the quadrangular Buddhist stūpas  raised in several tiers, diminishing upwards like a gigantic staircase. The structure answers closely to what the Viṣṇudharmottarapurāṇa describes as an eḍūka \(sic\) built in three terraces \( bhadra-pīṭhas\), one above the other, with four stepped approaches and surmounted on the top by 60 EI XVI \(1921-22\), 19 ff. 
 
 61 Shastri 1998, 156 f. 
 
@@ -883,27 +793,17 @@ Reference may be made to the burial mounds, or ‘kurgan’, found in Pazyryk \(
 
 Hans Bakker
 
-a Śiva-liṅga. The monument, still having a colossal Śiva-liṅga on its top, must therefore be identified as an ed
-
-. ūka  dedicated to Śiva. 64
+a Śiva-liṅga. The monument, still having a colossal Śiva-liṅga on its top, must therefore be identified as an eḍūka  dedicated to Śiva. 64
 
 Plate 85
 
 Ahicchatra \(AC I\) during excavation \(1940–44\)
 
-The identification of this structure as an ed
+The identification of this structure as an eḍūka  or aiḍūka, is open to doubṭ 
 
-. ūka  or aid
+Within the structure in AC I a few terracotta sculptured panels were found with depictions of Śaiva mythology, such as Gaṇas destroying Dakṣa’s sacrifice \(No. 298\), a ‘Bhairava’ figure \(No. 300\), and the so-called ‘Dakṣiṇām¯urti’ of Śiva \(No. 302b; below, Plate 149\), which are supposed to have decorated ‘a frieze running round its upper terrace’. 65 The aiḍūka  of the VDhP, on the
 
-. ūka, is open to doubṭ 
-
-Within the structure in AC I a few terracotta sculptured panels were found with depictions of Śaiva mythology, such as Gaṇas destroying Dakṣa’s sacrifice \(No. 298\), a ‘Bhairava’ figure \(No. 300\), and the so-called ‘Dakṣiṇām¯urti’ of Śiva \(No. 302b; below, Plate 149\), which are supposed to have decorated ‘a frieze running round its upper terrace’. 65 The aid
-
-. ūka  of the VDhP, on the
-
-64 V.s. Agrawala in Ancient India 4 \(1947–48\), 167. This identification has been taken over by several authors, among whom Shah in the ‘critical notes’ to her edition of the Third Khaṇd
-
-. a of the VDhP \(1994\), I p. 405. 
+64 V.s. Agrawala in Ancient India 4 \(1947–48\), 167. This identification has been taken over by several authors, among whom Shah in the ‘critical notes’ to her edition of the Third Khaṇḍa of the VDhP \(1994\), I p. 405. 
 
 65 Agrawala 1947–48, 167. 
 
@@ -927,15 +827,11 @@ in Thanesar as a ‘mass of bricks’ \( sudhānicaya\) resembling the form of a
 
 or needle \( śalya\), was thinking of a monument similar to the one uncovered in Ahicchatra, 300 km to the southeast of Thanesar, 150 km north of Kanauj. 
 
-According to Bāṇa the ashes and bones \( kīkasa\) had been sent off for dispersal in holy places \( tīrthasthāna\), and this too would conform to the description of the aid
-
-. ūka  in the Viṣṇudharmottarapurāṇa, which does not mention nor refers to mortuary deposits. As far as one can tell—the description of this monument in the excavation report being very brief indeed—this would agree with the archaeological state of affairs in AC I, where no mortuary deposits have been reported. 67
+According to Bāṇa the ashes and bones \( kīkasa\) had been sent off for dispersal in holy places \( tīrthasthāna\), and this too would conform to the description of the aiḍūka  in the Viṣṇudharmottarapurāṇa, which does not mention nor refers to mortuary deposits. As far as one can tell—the description of this monument in the excavation report being very brief indeed—this would agree with the archaeological state of affairs in AC I, where no mortuary deposits have been reported. 67
 
 Mansar
 
-‘Unique’ as the structure may have appeared to the excavators at the time, I would like to draw attention to a recent excavation that has surprisingly much 66 Ghosh in EIA II, 7. Cf. Shrimali 1983 I, 149: ‘Even if it was an ed
-
-. ūka, the existing
+‘Unique’ as the structure may have appeared to the excavators at the time, I would like to draw attention to a recent excavation that has surprisingly much 66 Ghosh in EIA II, 7. Cf. Shrimali 1983 I, 149: ‘Even if it was an eḍūka, the existing
 
 structure could not be identified with that of the Viṣṇudharmottarapurāṇa. The nucleus of the structure appears to be pre-Gupta—even the sizes of the bricks used are those, which were popular in the period between c. 100 bc and c. ad 300.’
 
@@ -943,9 +839,7 @@ structure could not be identified with that of the Viṣṇudharmottarapurāṇa
 
 Neither the shaft at the heart of the monument, nor the foundations of AC I have been fully excavated so we cannot be entirely sure that no mortuary remains exisṭ 
 
-Nevertheless, without further evidence being brought to light, we cannot designate AC I at Ahichhatra an aid
-
-. ūka  with any confidence. 
+Nevertheless, without further evidence being brought to light, we cannot designate AC I at Ahichhatra an aiḍūka  with any confidence. 
 
 
 
@@ -963,9 +857,7 @@ As in Ahicchatra, the Mansar mound shows a series of terraces built of brick, co
 
 As in Ahicchatra, the various platforms are
 
-constructed over brick boxes filled with rubble, earth and stones, a construction device also know from stūpa  domes. The mistake the Mansar excavators have made is that they have confounded similarity with identity. Mansar, like Ahicchatra, is definitively a Śaiva sanctuary, identities corroborated at both sites by beautiful 5th-century Śaiva sculptures, of terracotta in Ahicchatra, of red sandstone in Mansar̥ Are we to classify the Mansar structure as an aid
-
-. ūka? 
+constructed over brick boxes filled with rubble, earth and stones, a construction device also know from stūpa  domes. The mistake the Mansar excavators have made is that they have confounded similarity with identity. Mansar, like Ahicchatra, is definitively a Śaiva sanctuary, identities corroborated at both sites by beautiful 5th-century Śaiva sculptures, of terracotta in Ahicchatra, of red sandstone in Mansar̥ Are we to classify the Mansar structure as an aiḍūka? 
 
 Plate 86
 
@@ -1009,21 +901,13 @@ Hans Bakker
 
 Despite the Puruṣa, the urns, the hole to fix a yaṣṭi \(here meaning ‘sacrificial post’ or yūpa\), the alleged bones, and the terraced, pyramidal structure, I would be very reluctant to speak of this temple complex, referred to in inscriptions and seals as ‘Pravareśvara’ \(above, p. 373, Plate 75\) and called a devakulasthāna, 
 
-in terms of an aid
+in terms of an aiḍūka, or eḍūka  for that matter̥ 
 
-. ūka, or ed
-
-. ūka  for that matter̥ 
-
-For the time being our conclusion should be that so-far there have not been discovered in the Hindu sphere structures that conform, more than superficially, to the description of the aid
-
-. ūka  in the Viṣṇudharmottarapurāṇa. 
+For the time being our conclusion should be that so-far there have not been discovered in the Hindu sphere structures that conform, more than superficially, to the description of the aiḍūka  in the Viṣṇudharmottarapurāṇa. 
 
 Funerary monuments with mortuary deposits
 
-It remains to discuss the funerary monuments in which actual mortuary deposits have been found, the ed
-
-. ūka, our fifth category. 
+It remains to discuss the funerary monuments in which actual mortuary deposits have been found, the eḍūka, our fifth category. 
 
 As has been briefly noted above, Giuseppe de Marco brings together in an interesting article eighteen Gandhāra reliefs in which we find depictions of
 
@@ -1287,15 +1171,9 @@ pratikan
 
 medhī tato ’nupūrveṇa dvitiyā tatas tr̥ tīyā medhī yāvad anupūrven
 
-. āṇd
+. āṇḍam | tathā-
 
-. am | tathā-
-
-vidhaṁca bhūpasyāṇd
-
-. aṁkr̥ taṁyatra sā yūpayaṣṭir abhyantare pratipāditā | paścāt tasyātinavāṇd
-
-. asyopari harmikā kr̥ tānupūrveṇa yaṣṭyāropaṇam
+vidhaṁca bhūpasyāṇḍaṁkr̥ taṁyatra sā yūpayaṣṭir abhyantare pratipāditā | paścāt tasyātinavāṇḍasyopari harmikā kr̥ tānupūrveṇa yaṣṭyāropaṇam
 
 . 
 
@@ -1309,9 +1187,7 @@ mahāmaṇiratnāni tāny āropitāni |
 
 The second yaṣṭi  is clearly the post on top of the dome \( aṇḍa\). The yūpayaṣṭi  is the
 
-pole within the aṇd
-
-. a. 
+pole within the aṇḍa. 
 
 78 Mitra 1971, 24 ṇ 12. Cf. Bloch 1906–07, 123, plate xl \(= Plate 90\). A difference between the shaft in Lauriya and Sui Vihar is that the one in the latter site is square and made of bricks, whereas the one in Lauriya is circular, apparently informed by the wooden column itself. 
 
@@ -1329,11 +1205,7 @@ per se. This must have been the cardinal phase of the constructioṇ The envelop
 
 It is evident that in the case of Sui Vihar we are concerned with a monument belonging to our fifth category: funerary monuments containing ashes of the deceased. Is anything similar to be found in the non-heterodox traditions? Or, we may ask, what had become of the Vedic option to build a citi, a pile of bricks over the bones and ashes? The citi  may have occasionally lived on in burial mounds as these are attested in the Gandhāra reliefs, but when
 
-the Mahābhārata \(above, ṇ 18 on p. 409\) describes the situation at the end of the Kali Age by saying that ed
-
-. ūkas  have replaced temples, this expresses the concern of the author that too many people are being converted to heterodox religions, 81 not the fear that ed
-
-. ūkas  would eventually be worshipped all-out
+the Mahābhārata \(above, ṇ 18 on p. 409\) describes the situation at the end of the Kali Age by saying that eḍūkas  have replaced temples, this expresses the concern of the author that too many people are being converted to heterodox religions, 81 not the fear that eḍūkas  would eventually be worshipped all-out
 
 by those who were supposed to belong to the Brahmanical traditioṇ The few Gandhāra reliefs aside, evidence of monuments containing mortuary deposits belonging unambiguously to the Hinduized tradition in the period under investigation is very rare indeed. 
 
@@ -1351,9 +1223,7 @@ The predominant mode of the disposal of the dead seems to be cremation and a lim
 
 Since Lassen it has been generally accepted that this description of the Kali-yuga refers to the spread of Buddhist practices and the popular desertion of Brahmanical temples. 
 
-This is not to say, however, that the composer of this passage was exclusively thinking of Buddhism. He might have lashed out at all pan-Indian practices frowned upon by the orthodox that involved the erection of monuments over mortuary remains. Ed
-
-. ūka  thus
+This is not to say, however, that the composer of this passage was exclusively thinking of Buddhism. He might have lashed out at all pan-Indian practices frowned upon by the orthodox that involved the erection of monuments over mortuary remains. Eḍūka  thus
 
 seems to be a wider term than, for instance, stūpa, and it clearly has here, if not in all
 
@@ -1415,9 +1285,7 @@ Although this accumulation of evidence may seem substantial, if we take stock of
 
 looked aboveground when it was still in use. The following find in Mansar may not solve this question definitively, but it has enough fascinating characteristics to warrant a separate treatment, which, in combination with the material collected by de Marco, may give us some idea as to what a funerary monument of a person of consequence may have beeṇ 
 
-83 Kauṇd
-
-. inya ad  Pāśupatasūtra \(PS\) 1.1 \(pp. 3 f.\). SP 167.126–128ab:
+83 Kauṇḍinya ad  Pāśupatasūtra \(PS\) 1.1 \(pp. 3 f.\). SP 167.126–128ab:
 
 anugr̥ hya tadā vyāsa sakulaṁdvijasattamam |
 
@@ -1477,9 +1345,7 @@ Bhatt ad  Ajitāgama 63.44 ff.
 
 Hans Bakker
 
-The ed
-
-. ūka at Mansar
+The eḍūka at Mansar
 
 I have dealt with the Vākāṭaka site of Mansar in several earlier publications. 
 
@@ -1631,17 +1497,11 @@ extremities by a moulded plinth and cyma, a basement with two tambours moulded 9
 
 21 / Monuments to the Dead in Ancient North India 437
 
-at the summit, and a cupola \( aṇd
+at the summit, and a cupola \( aṇḍa  or kumbha\) from the centre of which rises a short pole \( yaṣṭi\) supporting a single umbrella ‘disc’ in the form of a spheroidal vault, similar to the topmost element \( uṣṇīṣa\) of the st¯upa  itself. 92
 
-. a  or kumbha\) from the centre of which rises a short pole \( yaṣṭi\) supporting a single umbrella ‘disc’ in the form of a spheroidal vault, similar to the topmost element \( uṣṇīṣa\) of the st¯upa  itself. 92
+De Marco argues laboriously that we are here concerned with a sort of Buddhist memorial, but his argument is not entirely convincing. It seems to me that the structure as such is non-denominational. Aside from a general resemblance with a stūpa, there are conspicuous resemblances with the aiḍūka  structure
 
-De Marco argues laboriously that we are here concerned with a sort of Buddhist memorial, but his argument is not entirely convincing. It seems to me that the structure as such is non-denominational. Aside from a general resemblance with a stūpa, there are conspicuous resemblances with the aid
-
-. ūka  structure
-
-of the VDhP: three receding platforms \( bhadrapīṭhas\), admittedly the upper two circular \(the ‘tambours’\) and not square, on which stands an aṇd
-
-. a \(the
+of the VDhP: three receding platforms \( bhadrapīṭhas\), admittedly the upper two circular \(the ‘tambours’\) and not square, on which stands an aṇḍa \(the
 
 ‘cupola’\), which, in another context, could also be interpreted as a liṅga-like \( liṅgarūpa\) column; from this rises again a column or yaṣṭi  that is crowned by a spherical element, interpreted by de Marco as a \(single\) ‘umbrella’ \( chattri \). 
 
@@ -1649,9 +1509,7 @@ Note, not the triple umbrella usual for a Buddhist stūpa. 93
 
 Since Gustav Roth’s Symbolism of the Stūpa \(Roth 1980\), we may take it for
 
-certain that the author of the VDhP calqued his Hindu aid
-
-. ūka  on a Buddhist
+certain that the author of the VDhP calqued his Hindu aiḍūka  on a Buddhist
 
 example, but by doing this he elaborated on what must have been a monumental tradition that was common to all Indian religions, most pronounced within Buddhism, less in Jainism, and inconspicuous in the Hindu mainstream. 
 
@@ -1717,15 +1575,11 @@ dharmottarapurāṇa, under Buddhist in-
 
 fluence, has evolved into the phantas-
 
-tic aid
-
-. ūka. 
+tic aiḍūka. 
 
 Another variant of such a
 
-structure, a true ed
-
-. ūka, might have once
+structure, a true eḍūka, might have once
 
 Plate 95
 
@@ -1753,9 +1607,7 @@ I would like to be more cautious here. If the ashes were those of Prabhāvatī
 
 she would have had two monuments, a memorial temple on the Rāmagiri and
 
-the ed
-
-. ūka  at issue. The latter may have marked the spot where she was cremated, the former was the place where merit was transferred to her in the next world. The two similar Nāgas found at both sites seem to underpin this
+the eḍūka  at issue. The latter may have marked the spot where she was cremated, the former was the place where merit was transferred to her in the next world. The two similar Nāgas found at both sites seem to underpin this
 
 hypothesis. However, a serpent underneath a structure is a common rather than a specific feature, and, apart from that, there is little that points to any person in particular̥ It is therefore possible altogether that the burial shaft belonged to someone else, another king, another important person of the fifth century. The anonymity of this grave illustrates again what Malamoud sees 96 Bakker 2004a, 84. Poona Plates of Prabhāvatīguptā \(CII V, 7 ll. 7–8, 36 ll. 8–9\):
 
@@ -1803,27 +1655,13 @@ Indian folk religioṇ 99 The former development is earlier than the latter̥ Th
 
 Foreign influence may also account for another exceptional phenomenon in ancient and classical North India: the installation of human effigies within holy space, i.e. a temple. Although one indigenous example of a statue gallery has been found, this cave at Nāṇeghāṭ differs substantially, as we have argued, from what the Kuṣāṇa kings had made for themselves. The devakulas  at Māṭ and Surkh Kotal are sui generis. 
 
-Finally the aid
+Finally the aiḍūka  and eḍūka. The latter, if not a pejorative for a Buddhist stūpa, is nearly as elusive as the former̥ In both cases we should think of vertical, elongated or needle-like constructions, mostly of brick \(in which one could see an echo of the Vedic citi\), combined with one or more yaṣṭis, round or square pillars or poles, raised by way of a commemorative columṇ The general Hindu reluctance to connect it with actual remains of the dead rendered it futile: being neither temple nor relic sanctuary there were not enough incentives to construct, worship and maintain it; the Hindu funerary monument or aiḍūka
 
-. ūka  and ed
+never really came off the ground. The only specimen recognized as such by some scholars is the one preserved in Ahicchatra, where no mortuary deposits seem to have been found \(for this we reserve the word ‘ aiḍūka’\), but this identification
 
-. ūka. The latter, if not a pejorative for a Buddhist stūpa, is nearly as elusive as the former̥ In both cases we should think of vertical, elongated or needle-like constructions, mostly of brick \(in which one could see an echo of the Vedic citi\), combined with one or more yaṣṭis, round or square pillars or poles, raised by way of a commemorative columṇ The general Hindu reluctance to connect it with actual remains of the dead rendered it futile: being neither temple nor relic sanctuary there were not enough incentives to construct, worship and maintain it; the Hindu funerary monument or aid
+is spurious. The aiḍūka  of the Viṣṇudharmottarapurāṇa is a hybrid product of śāstric imagination, calqued on a Buddhist example. 
 
-. ūka
-
-never really came off the ground. The only specimen recognized as such by some scholars is the one preserved in Ahicchatra, where no mortuary deposits seem to have been found \(for this we reserve the word ‘ aid
-
-. ūka’\), but this identification
-
-is spurious. The aid
-
-. ūka  of the Viṣṇudharmottarapurāṇa is a hybrid product of śāstric imagination, calqued on a Buddhist example. 
-
-The remains of an ed
-
-. ūka  seem to have been preserved at site T in Mansar, where ashes have been found \(hence our reference to it as ‘ ed
-
-. ūka’\) and a sub-
+The remains of an eḍūka  seem to have been preserved at site T in Mansar, where ashes have been found \(hence our reference to it as ‘ eḍūka’\) and a sub-
 
 terranean brick shaft was excavated, but where there is no longer a column above the ground. With the help of some Gandhāra reliefs we have made an
 

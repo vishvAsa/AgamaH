@@ -5,9 +5,7 @@ title = "29 Origin and Spread of the Pāśupata Movement"
 
 About Heracles, Lakulīśa and Symbols of Masculinity
 
-Lāgud
-
-. i
+Lāguḍi
 
 The study of the origins of organized Saivism received a completely new perspective with the publication of the Pāśupatasūtras \(PS\) and Kauṇḍinya’s com-
 
@@ -67,9 +65,7 @@ masiddhānta \(above, p. 283 ff.\). The Skandapurāṇa is, in all likelihood, t
 
 first extant text that attests the name Lāguḍi \(variant: Lākulin\), meaning
 
-‘club bearer’ \( lagud
-
-. a/lakuṭa: ‘club’; see above, p. 529\). However, this relatively late first attestation of the name ‘club bearer’ does not preclude the possibility that the association of this incarnation with the attribute of the club is much older̥ For this we have some indications. 
+‘club bearer’ \( laguḍa/lakuṭa: ‘club’; see above, p. 529\). However, this relatively late first attestation of the name ‘club bearer’ does not preclude the possibility that the association of this incarnation with the attribute of the club is much older̥ For this we have some indications. 
 
 Early images of a club bearing ascetic or teacher
 
@@ -121,13 +117,9 @@ Mathurā: Club-bearing ascetic
 
 Mathurā: Lakulīśa
 
-career is an orthogenetic Indian development, the eponymous attribute of the saint, the lagud
+career is an orthogenetic Indian development, the eponymous attribute of the saint, the laguḍa  or club, remains as yet unexplained. Let us reconsider the earliest iconographic evidence. 
 
-. a  or club, remains as yet unexplained. Let us reconsider the earliest iconographic evidence. 
-
-The lagud
-
-. a or club
+The laguḍa or club
 
 The first unquestionable visual representation of the divine Śaiva teacher with the attribute of the club is a fifth-century image from Mathurā. This sculpture
 
@@ -225,47 +217,29 @@ commentary knows, either the club as an attribute, or the name Lāguḍi.14
 
 Ingalls’ hypothesis, therefore, which assumes that the Greek Heracles launched the Indian Lakulīśa, is just as unlikely as his assumption that the Hellenistic school of the Cynics influenced the development of the Pāśupata practice. 
 
-An orthogenetic root of the club-bearing deity seems therefore to be more obvious. The Amarakośa \(3.3.42\) mentions lagud
+An orthogenetic root of the club-bearing deity seems therefore to be more obvious. The Amarakośa \(3.3.42\) mentions laguḍa  as a synonym of daṇḍa. It
 
-. a  as a synonym of daṇd
+is but natural to conceive of the club as a variant of the traditional stick or staff \( daṇḍa\) of the brahmin ascetic. The earliest Pāśupata monument known
 
-. a. It
+to us, the Mathurā Pilaster of Candragupta II of the Gupta Year 61, i.e. ad 380 \(above, Plate 112\), 15 depicts a naked three-eyed figure with a daṇḍa  in his
 
-is but natural to conceive of the club as a variant of the traditional stick or staff \( daṇd
-
-. a\) of the brahmin ascetic. The earliest Pāśupata monument known
-
-to us, the Mathurā Pilaster of Candragupta II of the Gupta Year 61, i.e. ad 380 \(above, Plate 112\), 15 depicts a naked three-eyed figure with a daṇd
-
-. a  in his
-
-right, and what is possibly a kamaṇd
-
-. alu  in his left hand \(Plate 126\). 16
+right, and what is possibly a kamaṇḍalu  in his left hand \(Plate 126\). 16
 
 Plate 126
 
-Daṇd
-
-. apāṇi on Mathurā pilaster,  ge 61
+Daṇḍapāṇi on Mathurā pilaster,  ge 61
 
 14 The Mahābhārata knows the Pāśupata sect, its vow \( vrata\), doctrine \( jñāna\), and prac-
 
-tice \( yoga\); it also knows the Pāśupata weapon \( astra\), which Śiva gave to Arjuna; for this weapon see below, p. 567. Lāgud
-
-. i/Lakulīśa is unknown to the MBh and so is his
+tice \( yoga\); it also knows the Pāśupata weapon \( astra\), which Śiva gave to Arjuna; for this weapon see below, p. 567. Lāguḍi/Lakulīśa is unknown to the MBh and so is his
 
 club. 
 
 15 CII III \(1981\), 240. 
 
-16 The identity of this figure is disputed. That we are concerned with a divine figure follows from the third eye. Acharya 2005, 209 proposes to read the name of this deity as Caṇd
+16 The identity of this figure is disputed. That we are concerned with a divine figure follows from the third eye. Acharya 2005, 209 proposes to read the name of this deity as Caṇḍa. 
 
-. a. 
-
-My designation ‘Daṇd
-
-. apāṇi’ is descriptive, it is not the proper name of the deity. 
+My designation ‘Daṇḍapāṇi’ is descriptive, it is not the proper name of the deity. 
 
 
 
@@ -273,15 +247,11 @@ My designation ‘Daṇd
 
 559
 
-Admittedly, the origin of the word lagud
-
-. a/ lakuṭa—attested, for instance, in Manusmr̥ti \(8.315\) and Mahābhārata \(7.29.16\) in the sense of ‘cudgel’ or
+Admittedly, the origin of the word laguḍa/ lakuṭa—attested, for instance, in Manusmr̥ti \(8.315\) and Mahābhārata \(7.29.16\) in the sense of ‘cudgel’ or
 
 ‘club’—remains as yet unclear̥ 17 But even if we do not accept Przyluski’s etymology that links the word to the Austro–Asiatic lāṅgula, meaning ‘stick’
 
-or ‘penis’, 18 we may assume that phallic symbolism easily suggested itself to the Indian mind and came to be associated with this particular attribute. The phallic shape of the club in the earliest representations of the divine teacher, evident from the line pattern and its upright position \(Plate 125\), may have been prompted by the ithyphallic nature of this teacher and his prototype, Śiva. Thus, the club may have replaced the ascetic daṇd
-
-. a, by virtue of its more
+or ‘penis’, 18 we may assume that phallic symbolism easily suggested itself to the Indian mind and came to be associated with this particular attribute. The phallic shape of the club in the earliest representations of the divine teacher, evident from the line pattern and its upright position \(Plate 125\), may have been prompted by the ithyphallic nature of this teacher and his prototype, Śiva. Thus, the club may have replaced the ascetic daṇḍa, by virtue of its more
 
 outspoken phallic, i.e. Śaiva connotatioṇ 19 The name Lāguḍi, ‘club-bearer’, 
 
@@ -305,9 +275,7 @@ ngula &c ← Austro-aṣ; but prob. same word as “stick”.’ Cf. Mayrhofer, 
 
 19 The Atharvavedapariśiṣṭa 40, dealing with the Pāśupatavrata, contains the following interesting passage, specifying what should be given to the initiated brahmin: tato ’sya mauñjiṁprayacchati  k
 
-sāvitryā tu daṇd
-
-. aṁpālāśaṁbailvam āśvatthaṁvāsiṁlakuṭaṁkhaṭvā ˙
+sāvitryā tu daṇḍaṁpālāśaṁbailvam āśvatthaṁvāsiṁlakuṭaṁkhaṭvā ˙
 
 ngaṁparaśum
 
@@ -331,9 +299,7 @@ ngapurāṇa 1.24. However, as Bisschop
 
 part of that text \[i.e. the Vāyupurāṇa\] at the time of composition of the Skandapurāṇa’. 
 
-The earliest attestation of a group of ascetics named Lākud
-
-. as seems to be a graffito on
+The earliest attestation of a group of ascetics named Lākuḍas seems to be a graffito on
 
 Mount Kālañjara \(Bakker 2014, 196\). 
 
@@ -527,9 +493,7 @@ Tradition has it that there are eight holy places of Śiva \(Śaśimaulin\) in t
 
 Thus developed an elitist faith of ascetic virtuosi into a catholic religioṇ The anonymous saviour of Kauṇḍinya turned into just another manifestation of the divine, his worship into just another form of Śiva devotioṇ 
 
-33 Kauṇd
-
-. inya ad  PS 1.1. Sastri’s edition pp. 3 f. Above, p. 542. 
+33 Kauṇḍinya ad  PS 1.1. Sastri’s edition pp. 3 f. Above, p. 542. 
 
 34 Bisschop 2006, 15–17. Above, p. 537. 
 

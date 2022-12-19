@@ -113,9 +113,7 @@ Gupta–Vākāṭaka matrimonial relations  7
 
 We shall elaborate on this scheme below on the basis of the texṭ For the archaeological, religious and cultural context of the present inscription we may refer to several earlier publications. 8 Some of the references that were made in them to this inscription do not conform with the readings and interpretations now proposed; these preliminary observations should be considered superseded by the present editioṇ 
 
-The inscription is found in the southern wall of the maṇd
-
-. apa  of the Kevala–
+The inscription is found in the southern wall of the maṇḍapa  of the Kevala–
 
 Narasiṁha Temple, 9 and was discovered when the covering plaster was removed during restoration work of the Archaeological Survey, which unfortunately led to severe damage. It is not clear whether the inscription has always been fixed to this spot or was, at a certain time, inserted in the southern wall. 10 When found, it covered principally two slabs of stone, fixed beneath one another̥ The left and upper sides of both stones are somewhat crumbled off, and the lower slab has been broken vertically in the middle. The three pieces of stone have been fitted again with mortar by the restorers. Twelve lines are carved on the upper slab and three on the lower̥ The height of both slabs taken together is about 50 cm, and their breadth about 100 cm. The ragged right sides of both 7 Names within square brackets do not occur in the legible part of the inscriptioṇ For a further elaboration see Bakker 2012, The Gupta–Vākāṭaka Relationship. A new inter-
 
@@ -267,9 +265,7 @@ here transliterated as h \(l. 4\), and the upadhmānīya, transliterated h
 
 ¯
 
-5, both somewhat damaged\), as well as the halanta  forms, which consist of a small version of the letter written slightly below the line \( n  in l. 8, t  in l. 10, m  in ll. 12, 13 and 14\). The only punctuation mark visible, a double daṇd
-
-. a, is
+5, both somewhat damaged\), as well as the halanta  forms, which consist of a small version of the letter written slightly below the line \( n  in l. 8, t  in l. 10, m  in ll. 12, 13 and 14\). The only punctuation mark visible, a double daṇḍa, is
 
 found in l. 13, after verse 27 \(printed in bold-face in the text\). At a number of places, e.g. l. 8, after verse 15, it can be clearly seen that no punctuation mark was used but some extra space was given between the verses. 
 
@@ -291,9 +287,7 @@ are written in box-headed characters. The present inscription is an exception to
 
 Hans T. Bakker & Harunaga Isaacson
 
-daṇd
-
-. a . . . However, the letter c  seems to be an exception to this. The c  in line 3
+daṇḍa . . . However, the letter c  seems to be an exception to this. The c  in line 3
 
 has been incised with a head line. 
 
@@ -317,9 +311,7 @@ Of these two graffiti, the second need not occupy us long here; it may suffice t
 
 seen in the published photograph \(Plate 6\), the medial ī  is of the curved rather than the circular type, and the top of the śa  is rather broader and definitely
 
-flat, another characteristic which may suggest ‘northern’ influence. Finally the da  is round, resembling the d
-
-. a  rather than the da  of the inscription published here. 
+flat, another characteristic which may suggest ‘northern’ influence. Finally the da  is round, resembling the ḍa  rather than the da  of the inscription published here. 
 
 To conclude this note on palaeography, we believe that in this respect too this inscription proves itself to be unusual, showing a combination of characteristics which has not yet been found in any other Vākāṭaka inscriptioṇ The present
 
@@ -357,9 +349,7 @@ least a rough categorization of such suggestions is desirable. Other conjectures
 
 The readings of Jamkhedkar’s edition are given after the text, in so far as they differ from the text as adopted by us. When the two published versions \(Jamkhedkar 1987b and 1992\) differ, one reading is almost always an obvious misprint and has not been reported. In one doubtful case both readings are given with J2 denoting the later versioṇ So many of Jamkhedkar’s readings are metrically impossible that this has not been explicitly remarked in each case. 
 
-Orthographical ‘peculiarities’ such as the use of the homorganic nasal for the anusvāra, the doubling of consonants after r  have been left unaltered. The punctuation marks are, however, all ours, with the sole exception of the double daṇd
-
-. a  after verse 27. Commas have been used to indicate the ends of the odd pādas. 
+Orthographical ‘peculiarities’ such as the use of the homorganic nasal for the anusvāra, the doubling of consonants after r  have been left unaltered. The punctuation marks are, however, all ours, with the sole exception of the double daṇḍa  after verse 27. Commas have been used to indicate the ends of the odd pādas. 
 
 It should be noted that our use of brackets in the translation differs from the system employed in the editioṇ Explicatory additions are placed in \(parentheses\), restorations proposed in the notes to the edition are within hangular bracketsi, and lacunae in the text are indicated with the use of \[square brackets\]. Words or parts of words which are in parentheses or angular brackets in the text are not marked as such in the translatioṇ 
 
@@ -733,15 +723,11 @@ Bakker 1997, 164\]
 
 putreṣu guṇānviteṣu
 
-\[7d sā muṇd
-
-. a◦ conj. Bakker 1997, 164; 
+\[7d sā muṇḍa◦ conj. Bakker 1997, 164; 
 
 I now
 
-conjecture: yā muṇd
-
-. a◦\]
+conjecture: yā muṇḍa◦\]
 
 9c dadau˘ nām, \[ dadau prajānām  conj. Bakker 1997, 164\]
 
@@ -1157,9 +1143,7 @@ sylls.
 
 1–3, śrī\[ ca\] ndra . . . 
 
-7d J \[ cā\] muṇd
-
-. āṁnāmnī \( mnīṁ\) tana\[ yāṁ\] . . . 
+7d J \[ cā\] muṇḍāṁnāmnī \( mnīṁ\) tana\[ yāṁ\] . . . 
 
 8a J
 
@@ -1581,9 +1565,7 @@ gun
 
 In view of the fact that a simile is clearly intended, prabheva  at the end of the pāda seems equally certaiṇ 
 
-In 7d we find a personal name of a girl as the first member of a compound ending in ◦ nāmnī. The name no doubt ended in muṇd
-
-. ā, 34 though the first
+In 7d we find a personal name of a girl as the first member of a compound ending in ◦ nāmnī. The name no doubt ended in muṇḍā, 34 though the first
 
 syllable is unfortunately illegible; it may have ended in ā \(which would suggest
 
@@ -1691,9 +1673,7 @@ presumably dependant on an acc. pl. From the general tenor, one expects the verb
 
 It should be noted that very similar
 
-verses are found in two Gupta inscriptions: the Junāgad
-
-. h Rock Inscription
+verses are found in two Gupta inscriptions: the Junāgaḍh Rock Inscription
 
 of Skandagupta \(ad 457–58\), where we read: ājyapraṇāmair vibudhān atheṣṭvā dhanair dvijātīn api tarpayitvā | paurāṁs tathābhyarcya yathārhamānaiḥ 
 
@@ -2005,13 +1985,9 @@ in the eighth or ninth decade of the fourth century ad. What tends to disturb th
 
 50 Cf. e.g. CII V, 13 \(1. 28\) \( ācandrādityakālīya\). Of course such compounds, though rather rare, also occur in the classical works of Sanskrit literature; cf. e.g. Raghuvaṁśa 1.5. 
 
-51 ṭ Bloch \(ASI Annual Report \(ASIAR\) 1903–04, 113, 116\) reports two seals dating from the Gupta period found in Basarh with the legend ‘Gomuṇd
+51 ṭ Bloch \(ASI Annual Report \(ASIAR\) 1903–04, 113, 116\) reports two seals dating from the Gupta period found in Basarh with the legend ‘Gomuṇḍaka’. Thaplyal \(1972, 286\)
 
-. aka’. Thaplyal \(1972, 286\)
-
-lists ‘Muṇd
-
-. a’ among the name-endings ‘after races and tribes’, referring to seals found in Basarh \(ḍP. Spooner in ASIAR 1913–13, 131\) and Patna \(Journal of the Bihar and Orissa Research Society \(JBORS\) X, 192\). In an inscription dating from the reign of 
+lists ‘Muṇḍa’ among the name-endings ‘after races and tribes’, referring to seals found in Basarh \(ḍP. Spooner in ASIAR 1913–13, 131\) and Patna \(Journal of the Bihar and Orissa Research Society \(JBORS\) X, 192\). In an inscription dating from the reign of 
 
 138
 
@@ -2039,15 +2015,9 @@ furnished with an honorific title generally given to his father Samudragupta, vi
 
 four oceans’\). 56 A.M. Shastri argues that the title ‘Lord of the Three Oceans’
 
-is ‘pertinent only in South Indian context’ 57 and ‘indicative of the tremendous Mahārāja Svāmidāsa \(Kalacuri year 67 = ad 317\) a śāṇd
+is ‘pertinent only in South Indian context’ 57 and ‘indicative of the tremendous Mahārāja Svāmidāsa \(Kalacuri year 67 = ad 317\) a śāṇḍilyasagotramuṇḍabrāhmaṇa  is
 
-. ilyasagotramuṇd
-
-. abrāhmaṇa  is
-
-mentioned \(CII IV, 7 \(1. 3\)\). An inscription dating from the 5th regnal year of Rudrasena II is reported by Shastri \(1987, 46-8\) to have been recently found in Mandhal. According to Shastri it records the erection of a Viṣṇu temple dedicated to Mondasvāmiṇ One wonders whether there could be a connexion between ◦muṇd
-
-. a and ‘monda’. To be certain
+mentioned \(CII IV, 7 \(1. 3\)\). An inscription dating from the 5th regnal year of Rudrasena II is reported by Shastri \(1987, 46-8\) to have been recently found in Mandhal. According to Shastri it records the erection of a Viṣṇu temple dedicated to Mondasvāmiṇ One wonders whether there could be a connexion between ◦muṇḍa and ‘monda’. To be certain
 
 we have to wait for the publication of the texṭ A detailed treatment of this issue will be found in Bakker 2010d, 467–69 \(below, pp. 326 ff.\). 
 
@@ -2121,9 +2091,7 @@ and his Gupta wife Prabhāvatī. She might have been mentioned in verse 10, and 
 
 verse 24d could be her personal name. 61 Actually, bhāgineyī  may here stand
 
-for half-niece, since, more likely than not, Ghaṭotkaca and Prabhāvatī had been born of different mothers. Nevertheless this matrimony is at odds with the majority of the Smr̥ti texts which prohibit intermarriage of cognates in the second remove. The present case, however, corroborates Kane’s \(II, 467\) observation to the effect that ‘a very striking instance of the limits of sapiṇd
-
-. a
+for half-niece, since, more likely than not, Ghaṭotkaca and Prabhāvatī had been born of different mothers. Nevertheless this matrimony is at odds with the majority of the Smr̥ti texts which prohibit intermarriage of cognates in the second remove. The present case, however, corroborates Kane’s \(II, 467\) observation to the effect that ‘a very striking instance of the limits of sapiṇḍa
 
 relationship not being observed is the practice among certain sections of even brāhmaṇa marrying their own sister’s daughter’. After the alliance between the Guptas and the Vākāṭakas had first been sealed by the marrying-off of
 
@@ -2139,13 +2107,9 @@ wife of Kr̥ṣṇadāsa is said to have been named Aticandrā \(following Miras
 
 losṭ Such names appear to be most usually given to younger brothers \(or sisters\), e.g., Māyā – Atimāyā \(Mahāvastu I, 355\), Sudānta – Atidānta \(PPL p. 456, v. 38\), Datta
 
-– Atidatta \(PPL p. 455, v. 34\), Śulkagulma – Atigulma \(PPL p. 459, v. 562\), Gaṇd
+– Atidatta \(PPL p. 455, v. 34\), Śulkagulma – Atigulma \(PPL p. 459, v. 562\), Gaṇḍa –
 
-. a –
-
-Atigaṇd
-
-. a \(BrP 165.29\), Gambhīrā – Atigambhīrā \(BrP 147.11\), Balā – Atibalā \(Rām. 
+Atigaṇḍa \(BrP 165.29\), Gambhīrā – Atigambhīrā \(BrP 147.11\), Balā – Atibalā \(Rām. 
 
 3.12.12, Criṭ App.\). 
 
@@ -2185,9 +2149,7 @@ Cf. CII IV, 10, especially ṇ 2.
 
 Padmanagara \(through the Prakrit Pomanayara, or Paümanayara\) and not Pravara-nagara/Pravarapura. Cf. Skṭ padma-nāla, Hindi pau-nār̥’ One would expect, however, 
 
-Skṭ pravara◦ to yield pavar◦ or pabar◦. A not really satisfactorily identified town and district Padmapura occur in the Vākāṭaka inscriptions \(cf. Shastri 1987, 74, ṇ 8\); town: CII V, 78 \(Unfinished Durg Plate or ‘Mohallā Plate’\); district: in the Māṇd
-
-. al. Plates of
+Skṭ pravara◦ to yield pavar◦ or pabar◦. A not really satisfactorily identified town and district Padmapura occur in the Vākāṭaka inscriptions \(cf. Shastri 1987, 74, ṇ 8\); town: CII V, 78 \(Unfinished Durg Plate or ‘Mohallā Plate’\); district: in the Māṇḍal. Plates of
 
 Vākāṭaka Rudrasena II, Year 5 \(Shastri 1987, 48\) and the Māsod Plates of Pravarasena II, Year 19 \(Shrimali 1987, 66 \(l. 19\)\). For a discussion of the Mandhal and Mohallā
 
@@ -2225,11 +2187,7 @@ of the increase in merit and fame of his father and mother’ \( mātāpitroḥ 
 
 vardhana◦\). These copperplates were found in Rithapur along with those of Prabhāvatī
 
-Guptā. From the Pod
-
-. agad
-
-. h Inscription \(EI XXI, 155 f.\) we know that Bhavadatta’s son \[Skanda\]varman recovered the lost \( bhraṣṭā\) royal fortune of his family and repopulated the capital Puṣkarī. The father of Mahārāja Arthapati might therefore have been
+Guptā. From the Poḍagaḍh Inscription \(EI XXI, 155 f.\) we know that Bhavadatta’s son \[Skanda\]varman recovered the lost \( bhraṣṭā\) royal fortune of his family and repopulated the capital Puṣkarī. The father of Mahārāja Arthapati might therefore have been
 
 \[Skanda\]varman, who was dead at the time his son published the grant of his grandfather̥ The expression āryakapādaprasādānugr̥hītena  probably served to authorize this deed. That king Arthapati reigned after \[Skanda\]varman also seems to follow from the Kesaribeda Inscription \(EI XXVIII, 12\) dating from his 7th regnal year, which was issued from the capital Puṣkarī \(cf. Sircar in HCI III, 188 f.\). From this epigraphical evidence we may deduce that the Nala king Bhavadattavarman conquered Nandivardhana of the Vākāṭakas, but soon afterwards was defeated and his own capital destroyed. His son \[Skanda\]varman succeeded in restoring the power of the dynasty, at least in its traditional homeland. His successor, Arthapati, proclaimed his grandfather’s glory as conqueror of the eastern Vākāṭaka realm. If Sircar is right in dating the Rithapur Plates of Bhavadattavarman ‘on grounds of palaeography to the first half of the sixth century’, this would place Bhavadattavarman’s conquest of Nandivardhana at the end of the fifth century. Only two generations later, at the time that the Vākāṭaka power had collapsed
 
@@ -2301,9 +2259,7 @@ In addition to the erection of a temple and installation of an image of Viṣṇ
 
 little remains today, since it is situated in the basin \( nālā\) of the rivulet Sura, 
 
-which is flooded in the rainy seasoṇ 71 The Sura flows into the artificial Khindsi Lake or Rām Sāgar a little to the easṭ This artificial lake, which laps at the northern and eastern foot of the Ramtek Hill, may be the modern successor of the old Sudarśana reservoir \( tad
-
-. āga\) mentioned in verse 24 \(see below, ṇ 72 on p. 145\). The tradition to name storage reservoirs Sudarśana is summarized by Kolte \(1965, 377\):
+which is flooded in the rainy seasoṇ 71 The Sura flows into the artificial Khindsi Lake or Rām Sāgar a little to the easṭ This artificial lake, which laps at the northern and eastern foot of the Ramtek Hill, may be the modern successor of the old Sudarśana reservoir \( taḍāga\) mentioned in verse 24 \(see below, ṇ 72 on p. 145\). The tradition to name storage reservoirs Sudarśana is summarized by Kolte \(1965, 377\):
 
 It was the duty of the kings to construct lakes, dig wells, etc. In the Gunda inscription \(Śaka 103\) of the time of the Śaka Kṣatrapa Rudrasiṁha I, we come across a
 
@@ -2311,9 +2267,7 @@ mention of such a construction \( vāpī khānitā-bandhāpitā \(sic\) ca sarvv
 
 . 
 
-hitasukhārtham iti\) \(SI I, 182\). The lakes were generally named as Sudarśana, Priyadarśana, etc. One Puṣyagupta, a Rāṣṭriya of Candragupta Maurya, had constructed a lake at Junagarh \(i.e. Girinagara\) which he had named as Sudarśana \(SI I, 176; EI VIII, 42: idaṁtad
-
-. ākaṁsudarśanaṁgirinagarād\). \[. . . \] Many a time
+hitasukhārtham iti\) \(SI I, 182\). The lakes were generally named as Sudarśana, Priyadarśana, etc. One Puṣyagupta, a Rāṣṭriya of Candragupta Maurya, had constructed a lake at Junagarh \(i.e. Girinagara\) which he had named as Sudarśana \(SI I, 176; EI VIII, 42: idaṁtaḍākaṁsudarśanaṁgirinagarād\). \[. . . \] Many a time
 
 the Sudarśana Lake at Junagarh was washed away by flood and therefore had to be repaired again and agaiṇ Puṣyagupta had constructed it originally \(SI I, 171\). 
 
@@ -2429,9 +2383,7 @@ bāndhavau\), and if this were the intended meaning, it may as well refer to a f
 
 Narendrasena’s reign, in which Narendrasena was defeated and lost the kingdom or a major portion thereof. \(Shastri 1987, 60\)
 
-In the latter sense, dāyāda  is often used synonymously with sapiṇd
-
-. a \(Jolly 1896, 84\) and
+In the latter sense, dāyāda  is often used synonymously with sapiṇḍa \(Jolly 1896, 84\) and
 
 
 
