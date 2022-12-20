@@ -33,5 +33,3 @@ Research and production of this book have been made possible by financial suppor
 The Library of Congress Cataloging-in-Publication Data is available online at [http://catalog.loc.gov](http://catalog.loc.gov)
 
 
-Copyright  by Hans T. Bakker̥ Published by Koninklijke Brill NV, Leiden, The Netherlands.  
-Koninklijke Brill NV incorporates the imprints Brill, Brill Hes & De Graaf, Brill Nijhoff, Brill Rodopi, Brill Sense, Hotei Publishing, mentis Verlag, Verlag Ferdinand Schöningh and Wilhelm Fink Verlag. 
