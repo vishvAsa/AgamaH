@@ -314,9 +314,7 @@ Consciousness joins other building blocks of the universe like space, time, mass
 अत्राप्रतिशिद्धं यथापूर्वं गृहीतुम् उचितम्। शोधन-खण्डन-मण्डनानि प्रार्थयामहे।  
 
 ### भविष्ये ऽनुयोजनीयाः
-- मोक्षसाधनानि
 - पितृ-प्रज्ञा
-- जीव-चेतः-प्रभावाः.
 - sympathetic magic, देव-प्रश्नाः, Cleromancy।
-- जीव-व्याधयः
+- मोक्षसाधनानि
 
