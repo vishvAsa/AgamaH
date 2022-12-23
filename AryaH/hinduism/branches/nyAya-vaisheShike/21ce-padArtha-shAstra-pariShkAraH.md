@@ -117,7 +117,12 @@ unicode_script = "devanagari"
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-"Quantum state" वास्तिविकं वा मानस्थितिर् वेत्य् अत्र केचिद् आहुः - एवं परमाणुष्व् एकविधं **विभुत्वं** +++(असम-विभुतेति)+++ वर्तते। अन्ये न तथेति। केचिद् युगपद्ब्रह्माण्डबाहुल्यं+++(=multiverse)+++ प्रचक्षते।
+"Quantum state" वास्तिविकं वा मानस्थितिर् वेत्य् अत्र 
+
+- "realism/ localism" इति केचिद् - अज्ञातधर्मः (hidden variable) कश्चन वर्तते। एतत् तु quantum entanglement प्रयोगैर् निरस्तम्। 
+- केचिद् +++("orthodox position")+++ आहुः एवं परमाणुष्व् एकविधं **विभुत्वं** +++(असम-विभुतेति)+++ वर्तते। "Wave function is the complete description, no hidden variable."
+- केचिद् युगपद्ब्रह्माण्डबाहुल्यं+++(=multiverse)+++ प्रचक्षते।
+- अन्ये न तथेति।
 </details>
 
 
