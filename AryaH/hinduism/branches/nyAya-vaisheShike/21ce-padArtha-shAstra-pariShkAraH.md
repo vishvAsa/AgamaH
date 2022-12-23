@@ -115,20 +115,21 @@ unicode_script = "devanagari"
 अस्थिर-मानेषु - यत् किञ्चिल् लब्धम्, तत् क्षणिकम् एव - क्षणान्तरे ऽन्यद् एव स्यात्। तद् यथा - परमाणूनां स्थानं गतिञ् च निश्चप्रचं युगपद् वक्तुं न शक्यम्। +++(Heisenberg uncertainty principle, measurement disturbance.)+++  
 किञ् च परमाणूनाम् अस्तित्व-सम्भावनायाः +++(→Probability of presence)+++ महान् भेदो वर्तते स्थानेषु। +++(एतद्धि quantum superposition इत्य् उच्यते।)+++   
 
-परमाणूनां युगपद् द्वैरूप्यम् - मूर्त्तिश् च +अस्तित्व-सम्भावना-गणना+++(=f(Wave function))+++ चेति।  
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 "Quantum state" वास्तिविकं वा मानस्थितिर् वेत्य् अत्र 
 
-- "realism" इति केचिद् - अज्ञातधर्मः (hidden variable) कश्चन वर्तते। एतत् तु प्रकाशवेग-गरिष्ठत्वय् +++(=localism)+++ अङ्गीकृते सति, quantum entanglement प्रयोगैर् निरस्तम्। 
+- "realism" इति केचिद् - अज्ञातधर्मः (hidden variable) कश्चन वर्तते। एतत् तु प्रकाशवेग-गरिष्ठत्वय् +++(=localism)+++ अङ्गीकृते सति, quantum-entanglement-प्रयोगैर् निरस्तम्। 
 - केचिद् +++("orthodox position")+++ आहुः एवं परमाणुष्व् एकविधं **विभुत्वं** +++(असम-विभुतेति)+++ वर्तते। "Wave function is the complete description, no hidden variable."
 - केचिद् युगपद्ब्रह्माण्डबाहुल्यं+++(=multiverse)+++ प्रचक्षते।
 - अन्ये न तथेति।
 </details>
 
 
-कदाचित् परमाणुसङ्ग्रहे स्थितौ निश्चये सत्य् अपि तत्र वर्तमानेषु परमाणेष्व् अनिश्चितता +++(quantum entanglement इति)+++ स्यात् - भ्रातृभगिन्योर् वयोव्यत्यास इव। तेन एकस्य परमाणोर् मानम् परमाण्व्-अन्तरम् अवलम्बेत (quantom non-locality, "violation of localism/ realism", "passion at a distance" इति)।
+परमाणूनां युगपद् द्वैरूप्यम् - मूर्त्तिश् च +अस्तित्व-सम्भावना-गणना+++(=f(Wave function))+++ चेति।  
+
+कदाचित् परमाणुसङ्ग्रहे स्थितौ निश्चये सत्य् अपि तत्र वर्तमानेषु परमाणेष्व् अनिश्चितता +++(quantum entanglement इति)+++ स्यात् - भ्रातृभगिन्योर् वयोव्यत्यास इव। तेन एकस्य परमाणोर् मानम् परमाण्व्-अन्तरम् अवलम्बेत (quantom non-locality, "violation of localism + realism", "passion at a distance" इति)।
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
