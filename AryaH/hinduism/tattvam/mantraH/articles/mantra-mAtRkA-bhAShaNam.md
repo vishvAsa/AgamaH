@@ -40,8 +40,11 @@ anuttara-tattva → paramakaulāvasthā (never discussed publicly; abhinava give
 akula = shiva, kula = shakti.  
 mahāmāhēśvara - Realization in visargabhūmī, anuttara state - shiva and shakti are one. 
 
+
 ### स्वराः
 स्वराः - शिवः, तिथयो ऽपि।
+
+- The Vowels have liquid nature, wherever they go they change as per the consonant. Hence, they are called as Vīrya.
 
 - अ - अनुत्तरा। 
   
@@ -73,6 +76,9 @@ mahāmāhēśvara - Realization in visargabhūmī, anuttara state - shiva and sh
 
 ### व्यञ्जनानि
 व्यञ्जनानि - शक्तयः।
+
+Consonants are Yonī.
+
 
 - क - Prthvi
 - ख - Jala 
@@ -106,7 +112,7 @@ mahāmāhēśvara - Realization in visargabhūmī, anuttara state - shiva and sh
 
 - य - Raga 
 - र - Vidya
-- ल - Kälagarbita Kalā
+- ल - Kālagarbita Kalā
 - व - Māyā
   
 विन्यासः १ - 
@@ -134,24 +140,6 @@ mahāmāhēśvara - Realization in visargabhūmī, anuttara state - shiva and sh
 कर्णिकास्थ-स्वरेभ्यः परितः वृत्ताकारेण दलानाम् इव व्यञ्जनानां विन्यासः।  
 Main source of mantras.
 
-## mātr̥kā-raśmī
-- Śrividyarṇava Tantram Uttarärdha 20th Śvāsa
-- The Mantra, Yantra and Devata shall be known as per the Rasmi Krama of Mantras.
-- Each vowel and consonant has six rasmis of Jala, Vayu, Teja, Akāśa, Nabha and Manasa.
-- In Kādi Krama - The vowels and consonants have different rasmis as per different ämnaya.
-  - In Dakṣinämnaya has krama of four only Vayu, Teja, Jala and Prthvi.
-- In Kali Krama there is no Amnaya bheda.
-  - no mānasa raśmi. 
-- Write vowels and consonants of Mantras
-separately then write the number of Rasmis. Add the rasmis of six sections separately. The same is used to realize the Mantra, Yantra and Devată.
-
-
-The Calculation to Assess Mahavidyā Tattva of Mantra
-
-Each Kalā of Kalāpañcaka originated from the mouth of Īsāna has 320 rays. Mantra has 68 letters, multiply it with the 32 Manasa rays and divide the same by all Manasa rays (1600 Manasa rays of Brahmarandhra) the resultant of it would produce the Mantra and its Cchanda, the resultant of this calculation only is known as Mahavidyā. The one who is desirous of accomplishments must know them at minute to minute level!!!
-
-Śrīvidyaranya Yati further explains, “Multiply 32 with total number of letters of Mantra. Multiply each consonant and vowel of the Mantra with 32. Then divide them with Pūrṇa Mānasa rays (1600). If the resultant is above 26 then divide it with 26 again. The resultant of the same is known as the Cchanda of Mantra. If resultant is 576 then the Mantra is Mahavidyā if it is a bit less or a bit above then also it is Mahavidyā."
-
 
 #### श्रीयन्त्र-मातृका-चक्रम्
 From mātr̥kā-cakra-vivēka . svatantrānandanātha
@@ -166,6 +154,63 @@ māṭrā-s divided into 5 states- jāgr̥ta, svapna, suṣupti, turīya, turīy
 - Trikona - Ma
 - Bindu Kṣa
 
+### mātr̥kā-raśmī
+- Śrividyarṇava Tantram Uttarārdha 20th Śvāsa
+- The Mantra, Yantra and Devata shall be known as per the Rasmi Krama of Mantras.
+- Each vowel and consonant has six rasmis of Jala, Vayu, Teja, Akāśa, Nabha and Manasa.
+- In Kādi Krama - The vowels and consonants have different rasmis as per different āmnaya.
+  - In Dakṣināmnaya has krama of four only Vayu, Teja, Jala and Prthvi.
+- In Kali Krama there is no Amnaya bheda.
+  - no mānasa raśmi.
+- Write vowels and consonants of Mantras
+  separately then write the number of Rasmis. Add the rasmis of six sections separately. The same is used to realize the Mantra, Yantra and Devatā.
+
+
+The Calculation to Assess Mahavidyā Tattva of Mantra
+
+Each Kalā of Kalāpañcaka originated from the mouth of Īsāna has 320 rays. Mantra has 68 letters, multiply it with the 32 Manasa rays and divide the same by all Manasa rays (1600 Manasa rays of Brahmarandhra) the resultant of it would produce the Mantra and its Cchanda, the resultant of this calculation only is known as Mahavidyā. The one who is desirous of accomplishments must know them at minute to minute level!!!
+
+Śrīvidyaranya Yati further explains, “Multiply 32 with total number of letters of Mantra. Multiply each consonant and vowel of the Mantra with 32. Then divide them with Pūrṇa Mānasa rays (1600). If the resultant is above 26 then divide it with 26 again. The resultant of the same is known as the Cchanda of Mantra. If resultant is 576 then the Mantra is Mahavidyā if it is a bit less or a bit above then also it is Mahavidyā."
+
+
+### mālinī
+
+When the vowels and consonants come together the system agitates and the due sequence of Matrka breaks.
+
+न ऋ ऋ ऌ ॡ थ च ध ई ण उ ऊ ब क ख ग  
+घ ङ इ अ व भ य ड ढ ठ झ ञ ज र ट प छ ल  
+आ स अः ह ष क्ष म श अं त ए ऐ ओ औ द फ
+
+These rise due to union of Bīja and Yoni which causes the quivering of Visarga is determined as Mālinī Śakti-
+
+बीजयोनिसमापत्तिविसर्गोदयसुन्दरा ।  
+मालिनी हि परा शक्तिर्निर्णिता विश्वरूपिणी ॥ २३३ ॥
+
+They are Śakti of Rudra which possesses both Bhoga and Mokṣa:
+
+मालिनी मलिता रुद्रैर्धारिका सिद्धिमोक्षयोः ॥१३१॥  
+फलेषु पुष्पिता पूज्या संहार-ध्वनि-षट्पदी..   
+संहार-दानादि-शक्ति-युक्ता यतो रलौ ॥ १३२ ॥
+
+#### Utility
+If in case there is any disruption in Vidhi, there is any disruption in Mantra Virya or if in case any other type of nyasa is done which is out of our Tantra then while doing nyasa with it the mistake is corrected:
+
+तेन भ्रष्ट विधौ वीर्ये स्वरूपे वान्या परम् ॥१३४॥  
+मन्त्रा न्यस्ताः पुनर्न्यासात्पूर्यन्ते तत्फलप्रदाः ।
+
+As per Śrī Mālinīvijaoyttara Tantra if in case any specific Vidihi is missed out due to some reason then Mālini Nyasa covers that loss:
+
+उक्तं श्रीपूर्वतन्त्रे च विशेषविधिहीनिते ॥ १३५ ॥  
+न्यसेच्छक्तिशरीरार्थं भिन्नयोनिं तु मालिनीं ।  
+विशेषणमिदं हेतौ हेत्वर्थश्च निरूपितः ॥ १३६ ॥  
+यथेष्टफलसिद्ध्यै चेत्यत्रैवेदमभाषत ।
+
+The secondary Mantras also become full of virile like Siddha Mantras when Malini Nyasa is done:
+
+साजना अपि ये मन्त्रा गारुडाद्या न तो परम् ॥१३७॥  
+मालिन्या पूरिताः सिद्ध्यैः बलादेव तु मुक्तये।
+
+
 ## Mahātripura-Sundari
 - She is Sri Madhyacakranilaya.
 - As she keeps Kşa and Ma within her where Kṣa is Śiva the Tūrīya state and Jīva is Ma from whom the Svapna states are represented, she is Kṣamātmānginī. she only is Turyātīta Daśā.
@@ -175,6 +220,38 @@ māṭrā-s divided into 5 states- jāgr̥ta, svapna, suṣupti, turīya, turīy
 - Puspa Bāṇa: The Prapanca happens in Jagrata. Its main business is to fascinate.
 - Pāśa: As the Svapna stage is illusive by nature and Jiva perceives the Bhedabheda in this stage.
 - Ankusa: Jñānātamka Sadasiva. He is Turya. The way a giant animal elephant is controlled by Ankuśa same way Mahāpaśu Caitya is controlled by Sadasiva.
+
+
+## Varṇa-Cakra
+Śrī Varṇa Cakra (Pāñcarātra Āgama, sāttvata-saṁhitā Based)  
+
+- Varṇādhvā is Śabda Brahma.
+  - Śabda flowing as water stream of the form of various Varṇa is Varṇa Adhvā.
+
+- Sadhaka does Bhāvanā of each Murtis like Vāsudeva etc. in the form of Viśrāma, Udaya, Vyāpti and Vyakti.
+  - Viśrama Varṇa are at Parā stage, Udaya is Paśyantī, Vyāpti is Madhyma and Vyakti is Vaikhari.
+  - There are further divisions of Varṇa also which is based on Jagrata, Svapna, Susupti and Tūriya. 
+  
+There are two kinds of Varṇa Cakra.
+
+- First one is for Uddhāra of Para and Vyūha Mantra.
+- Second one is for Vibhava (Avatara Devatā) Mantras.
+
+- The way Śabdabrahma comes down from Para, Pasyanti, Madhyamā and Vaikharī same way Varṇacakra is divided into Amala, Santa, Śantodita and Udita.
+
+## mantraśāstra
+ahaṁ pratyavamarśaḥ . 
+
+Śrī Śrī Parātrimśikā  
+Śrī Mātṛkacakra Viveka  
+Śrī Kamadhenu Tantra
+Śrī Śrīvidyārṇava Tantra  
+Śrī Varivasya Rahasyam
+Śrī Kāmakalā Vilāsa  
+Śrī Varna Bija Prakasa  
+Śrī Sattvat Samhita  
+
+Mantra aur Mātṛkāuon Kā Rahasya (← Highly recommended)
 
 ## Transcript
 
