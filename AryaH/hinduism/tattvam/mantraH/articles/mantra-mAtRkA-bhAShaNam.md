@@ -134,6 +134,25 @@ mahāmāhēśvara - Realization in visargabhūmī, anuttara state - shiva and sh
 कर्णिकास्थ-स्वरेभ्यः परितः वृत्ताकारेण दलानाम् इव व्यञ्जनानां विन्यासः।  
 Main source of mantras.
 
+## mātr̥kā-raśmī
+- Śrividyarṇava Tantram Uttarärdha 20th Śvāsa
+- The Mantra, Yantra and Devata shall be known as per the Rasmi Krama of Mantras.
+- Each vowel and consonant has six rasmis of Jala, Vayu, Teja, Akāśa, Nabha and Manasa.
+- In Kādi Krama - The vowels and consonants have different rasmis as per different ämnaya.
+  - In Dakṣinämnaya has krama of four only Vayu, Teja, Jala and Prthvi.
+- In Kali Krama there is no Amnaya bheda.
+  - no mānasa raśmi. 
+- Write vowels and consonants of Mantras
+separately then write the number of Rasmis. Add the rasmis of six sections separately. The same is used to realize the Mantra, Yantra and Devată.
+
+
+The Calculation to Assess Mahavidyā Tattva of Mantra
+
+Each Kalā of Kalāpañcaka originated from the mouth of Īsāna has 320 rays. Mantra has 68 letters, multiply it with the 32 Manasa rays and divide the same by all Manasa rays (1600 Manasa rays of Brahmarandhra) the resultant of it would produce the Mantra and its Cchanda, the resultant of this calculation only is known as Mahavidyā. The one who is desirous of accomplishments must know them at minute to minute level!!!
+
+Śrīvidyaranya Yati further explains, “Multiply 32 with total number of letters of Mantra. Multiply each consonant and vowel of the Mantra with 32. Then divide them with Pūrṇa Mānasa rays (1600). If the resultant is above 26 then divide it with 26 again. The resultant of the same is known as the Cchanda of Mantra. If resultant is 576 then the Mantra is Mahavidyā if it is a bit less or a bit above then also it is Mahavidyā."
+
+
 #### श्रीयन्त्र-मातृका-चक्रम्
 From mātr̥kā-cakra-vivēka . svatantrānandanātha
 
