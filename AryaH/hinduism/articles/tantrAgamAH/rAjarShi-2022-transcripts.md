@@ -1569,3 +1569,1801 @@ are kind of paranormal centric, but that one will absolutely blow you away.
 1:22:08
 That's all I have to say about the next one. Don't have much to say about this one. Just make sure you follow TRS on Spotify.
 
+Source: [TW](https://www.youtube.com/watch?v=nFDSxMMsJYU)
+
+0:00
+I was there alone in the room um right in front of me there were two entities standing just imagine a human being but
+0:07
+without the physical body so some of them may have hunger some of them may have anger some of them may have lost various things Etc and for some reason
+0:14
+or the other they remain Trapped In This Plane they're not able to progress further what do they do with that hunger and lust Ah that's where the trouble
+0:21
+comes in okay so if uh if they're agitated then they they are going to
+0:27
+cause trouble to somebody other who may be around that same space and what's a
+0:33
+stupid way of inviting them to you oh there are so many ways a either you are one of those people who are like an
+0:40
+exorcist then enter into that but that is formal proper trained and entering
+0:45
+which is very different so somebody who's an exorcist knows how to protect himself what needs to be done Etc and
+0:51
+perhaps his Destiny is that he has to enter into that field for other people straight away do
+0:58
+Persona of the main date is know how to protect yourself in case there is an overlap and interaction sometimes that
+1:04
+happens that is the best an average human being can do this episode with rajashi nandi sir is the finale of our
+1:11
+Trilogy on Tantra and the occult if you haven't seen the first two episodes of course I do wish you go
+1:19
+check them out but even if you haven't this one in itself will create a very big impact in your psyche it will change
+1:27
+you kind of questions I've asked him the kind of answers that sir has given us
+1:33
+it's gonna stay with you for a very long time it's a very dark episode if you're watching this at night just be
+1:40
+a little careful um my intention with releasing this kind of content online is never to add more
+1:48
+Darkness to your life I do want to educate people about darker Concepts according to Tantra according
+1:55
+to ancient Indian culture but there's no intention of bringing any amount of Darkness into your mind just learn
+2:03
+gain and move closer towards the light move closer towards goodness
+2:08
+for more episodes like this make sure you follow TRS on Spotify every episode's available on Spotify 48 hours
+2:14
+before it's available anywhere else in the world but Spotify exclusive remember that even when it comes to dark
+2:20
+Concepts like these what's said in the world of Tantra is that the more you meditate the more
+2:25
+spiritualized you get the more you're able to protect yourself from darker energies whatever that means
+2:32
+I'm reeling information that I've read in autobiography of a yogi from dough base to light from rajashi so himself
+2:40
+meditation not only will protect your mind in the long term not only will it
+2:45
+keep you stable it will protect you in dark moments as well
+2:51
+make sure you begin your meditation Journey a meditation app level is now live the link is given down below
+2:57
+and now I will let you slip in to this Tantra and horror special with
+3:04
+rajashi nandi so
+3:11
+[Music]
+3:19
+thank you
+3:30
+I have a feeling this is going to be the heaviest episode let's see maybe the darkest because the kind of stuff I
+3:36
+wanted to speak about on this one we touched upon it in the last episode right uh but I think this is the episode
+3:43
+where we actually unpacked and feel free to also share experiences on this one because the kind of path you're on
+3:50
+um experiences meet you yes uh and we spoke about beings on the last episode
+3:55
+we spoke about the nature of the soul in the last episode yes but I think a great starting point for this one would be
+4:02
+the higher beings which might be considered harmful and we've had a lot of people who've come on the show uh
+4:09
+kind of just touch upon those topics I feel when you're authentic practitioner you have a much more intimate
+4:14
+understanding about these beings these topics you don't need to expand on this answer if you don't wish to
+4:20
+have you come in contact with such beings uh So eventually somewhere the
+4:26
+other your paths will uh sort of uh not Clash exactly but even if you it's
+4:33
+unavoidable as a part so I am saying that it is not that you will have to actually actively pursue them you pursue
+4:39
+the upasana the practice of the deity you're worshiping but eventually as you go higher chances are that once in a
+4:44
+while you will interact with these beings and these entities I remember one instance I was uh for practicing I was
+4:53
+doing some practice and then suddenly I remember uh peculiar kind of heaviness I started
+4:58
+feeling and there were thoughts which were completely strange which means parts of uh murder suicide things like
+5:05
+that out of the blue initially I just rejected it okay it didn't pay too much attention dreams
+5:11
+started coming which were very negative now this state continued for two three days what kind of dreams uh very violent
+5:18
+kind of dreams of uh you know death destruction this that uh more of a kind of nightmarish quality to the dreams
+5:26
+where you are portrayed in a you know you see yourself engaging in certain kinds of very
+5:31
+harsh activities uh two days it continued most of the time when I was I used to keep myself busy to get out of
+5:38
+it work and other things office work stuff like that Etc but after the second
+5:43
+third day I felt that these none of this is my thoughts one of the first things
+5:49
+is as you go deeper into yoga know that half of in not half ninety percent of the thoughts are not even your own it's
+5:54
+just passing through various sources or somewhere else your mind it passes through your mind and you attach yourself to it and you think it's you
+6:00
+are thinking it so first thought that struck me very clearly that this is not mine because I I don't think like this
+6:06
+okay I know myself I know what is the standard pattern of my thoughts even if it's negative how far it can go I know
+6:13
+that it can't go beyond this Etc so that uh third day it was so disturbing that
+6:19
+uh um I was not able to meditate I was not able to do anything and there was constant bombardment in the mind of very
+6:26
+strong thoughts of extreme negativity violence death uh
+6:31
+this kind of stuff so I remember I came back from office and at night
+6:37
+I started uh uh Mantra of matara good
+6:42
+and uh for two two and a half hours I did full month with little bit of Puja
+6:48
+adminster after that another and after that I read a small fire ritual to matara why specifically matara because I
+6:56
+was worshiping her at that time okay okay I was worshiping Mata at the time
+7:01
+and uh after a point of the practice after a
+7:07
+point of the sadhana it reached a very very detached very beautiful condition with her
+7:13
+blessing creeper we call it I've reached a very detached condition so I could
+7:19
+like I was there but I was kind of detached from myself and I could see things which otherwise I would not be
+7:24
+able to perceive and that's when I saw I was there alone in the room um right in front of me there were two
+7:30
+entities standing okay uh one was significantly negative looking and
+7:38
+very short night but very negative uh kind of let me just look at the
+7:43
+appearance and you'll feel a little cringe could you could you describe the appearance a little bit no it's it's it's like humanish uh but uh
+7:52
+the vibe was very very negative the eyes were very specific like I was sitting
+7:58
+here and I think just a few distance from here was standing this guy this entity this being it was uh the feeling
+8:05
+that you have that it has a human appearance but it is not human when it's difficult to describe it
+8:11
+properly but that's the typical feeling that you'll get and you could feel that it's like dripping with negativity and
+8:17
+then behind it there was another entity which was very calm and it felt even more dangerous but there's this cold
+8:24
+evil that you have this sense that you feel like Etc Richard I at the time I
+8:30
+had no idea and I what those entities are but what happened was because of the force of the Mantra that I was doing
+8:36
+these were the ones who were causing this whole rakas in my head and things were and also yeah I was having a lot of
+8:43
+conflicts to suddenly out of the blue just like that fights with people which and fights over things that is not my
+8:50
+normal propensity I know that I'm a fight over XYZ but this is not what I am I knew it very well so I think to truly
+8:57
+understand what sir is saying you have to actually listen to the previous episode because you spoke about astral
+9:03
+existence which means that within your body there are three bodies yes one's
+9:09
+the physical body once the Astro body once the causal body yes and these bodies exist on different planes which
+9:15
+are present all around us in our realm as well is that fair to say yes okay absolutely where we exist also exists
+9:21
+the astral plane that contains higher beings right uh and when you are meditating you were able to kind of
+9:28
+access that plane or rather you're able to remove your brain's filter in some ways uh no these entities can come to
+9:34
+you for various reasons there's no specific uh rule hard and fast rule as I said
+9:40
+sometimes you maybe you may be your practice may be going very deep that's when they will come to interfere that's
+9:46
+a very typical strategy they have why that's their nature that just the nature it's so we think of
+9:53
+it from we rationalize things from our point of view that we are like this so if you put your hand inside a Tiger's
+9:59
+mouth five times out of uh five times you do four times it'll bite you because it's Justice nature to do so so there
+10:05
+Dharma as I was saying some of these entities their specific Dharma is to cause disturbance and they feed on that
+10:12
+in people's in peoples in people's lives Etc uh there are some beings who will
+10:18
+come and interfere specifically to those who are into practices other normal beings normal person they will not
+10:23
+interfere with if you're doing a practice that is when they will come and try to disrupt your practice the whole aim is somehow break the Rhythm the
+10:29
+moment the rhythm is broken your energy is going to fall energy is fall means you will not reach where you are supposed to reach that's all and we have
+10:36
+evidences of this in the olders if you read the ramayana you see that Lord Rama
+10:41
+was brought by Rishi vishwamitra because they were asuras destroying the AG guess so he asks a very young Lord Rama and
+10:48
+lakshman other please come and protect the against the fire ritual elaborate Vedic ritual of the worship of the Gods
+10:54
+okay and they come and they fight with the asuras and the rakshasas and they remove them so there are specific
+10:59
+entities whose role specifically has been since time since historical times since
+11:05
+ancient times wherever there are upasana worship of devathas going on they will come to interfere and depending on your
+11:11
+caliber that will be matched by the caliber of the entity that is coming by the way it is don't for a very for a
+11:18
+person who is starting the journey do not expect that some you are not vishwamitra so no rakshasa or Surah is
+11:23
+going to come so easily to you they influence they obstruct when there is a large-scale in terms of person are
+11:30
+happening which can have a strong positive impact on a lot of people that they will obstruct and the other is
+11:35
+sometimes they influence people and they influence people only those people through whom they can cause large amount
+11:42
+of Destruction they're not interested in one single individual they are absolutely no interest in you me as an
+11:47
+average individual you can go about doing your life and I'm talking about asuras which are the highest of the negatives in our Dharma there's nothing
+11:53
+Beyond this whereas in negative scale if you look at it that way but they will only interfere and influence only those
+11:59
+beings those people those entities through whom they can cause lot of Destruction which is why I think history
+12:05
+written that Hitler was being influenced by nasula because through him so much
+12:11
+destruction could be caused um while there's many more questions I have so I want to actually address the
+12:17
+Skeptics here as well okay there's a lot of Skeptics when it comes to topics like this my viewpoint about Skeptics is that
+12:24
+there is a place for skepticism in the world actually progress in the world moves forward often because of
+12:29
+skepticism when we talk about scientific progress material progress but when it comes to Skeptics about things like this
+12:40
+uh the argument often is uh either where's the evidence or these are
+12:46
+stories that encapsulate and capture emotions and then used to manipulate people and uh also it's like just
+12:56
+as a concept is something that's present in Minds that treat only science as God
+13:03
+now science is important for the world and it's a very um integral part of the world it's full
+13:09
+of Integrity science a very honest approach to life but it has its own
+13:14
+limitations that's why we have scientists in the world to kind of constantly break those limitations and see what's beyond me
+13:20
+this is about all the stuff that's beyond and of course when you're talking about stuff that's beyond it can be used
+13:25
+negatively then you can just go crazy with it but what's your answer to the
+13:31
+Skeptics watching the podcast at this point so uh in general
+13:36
+I never tried to convince a skeptic because I had been a skeptic at one point of time so I believe that it's a
+13:42
+natural progression on their own so it is not something that can be proved via arguments so you no amount of argument
+13:48
+is good enough to convince a skeptic uh because the mind gets said that okay I don't want to believe it don't want to
+13:54
+believe it however there are people who are Skeptics and who may suddenly have an experience and I'm not even talking
+14:00
+about a Divine experience this negative experience is even more dangerous okay uh have an experience and then they
+14:06
+suddenly as I said an experience that is outside of a normal realm of existence the react how you react to it how the
+14:14
+mind reacts to it is very different I mean you may end up in a State of Shock and that doesn't matter how much skeptic
+14:19
+you might be you'll still end up in a State of Shock yeah or if you're fundamentally very strong-willed you
+14:25
+will survive it but your perspective will change my answer to Skeptics is let your experiences lead the way rather
+14:31
+than the words you see in books right because there is a whole world beyond the world of books and literature and
+14:37
+text as well uh the world of intuition the world of creativity imagination but
+14:43
+if you still need proof for yourself let your human eyes and senses find the
+14:48
+proof go out and experience the world go out and meet New Perspectives absolutely
+14:54
+true the best way to do you know somebody is a genuine skeptic but somebody who's a skeptic with a sort of
+15:00
+an agnostic Viewpoint which means that you are not firmed up your mind that yes or no I will base it on evidence that
+15:06
+kind of a person if he or she goes out spend months spend you know go out meet
+15:11
+people I'm sure there will be a lot of people who may be delusional frauds but even after 10 frauds you may meet
+15:17
+somebody who's actually genuine and you may come across an experience which you cannot explain through rational work
+15:22
+okay to rational understanding in fact something like that is how I got changed
+15:28
+into I I used to be in just the average guy in college with no interest in this no zero interest in engineering
+15:34
+engineering College you're interested in these things then I um I had an experience once I was I'd
+15:40
+gone to the Durga Puja panel and uh Bengali Durga Puja is like it's more
+15:45
+both the religious Festival as well as a cultural Festival so everybody goes there so I was there I remember
+15:51
+um and I was looking at the year of uh with and for suddenly for a few seconds just
+15:59
+like my mind entered into some kind of a Zone and normally if you go to Durga
+16:04
+Puja you'll see that all there is sound and noise and things like that everything stopped cut nothing no sound and I could see the deity almost there
+16:11
+standing right in front and for a second it was it was real than anything I've ever seen just real when you can't
+16:17
+describe it and um very organically I asked for two things that if there's a
+16:23
+truth to these matters I would like to know and another prayer came out which
+16:28
+is more private which I don't mention but this happened this whole thing must
+16:33
+have happened for maybe two seconds or three seconds not even that right after that the rational mind kicks in and
+16:38
+rational medicine or must be an illusion of the mind okay this is impossible all nonsense you're just believing making a
+16:44
+stuff up and you never tell anybody because I is rejected from the mind he this must not have happened I mean how
+16:51
+can this happen this is obviously you know some kind of a delusion or something but strangely seven days later
+16:57
+I am sitting with a friend of mine and there is the friend's uncle is a very powerful very Advanced
+17:04
+capacity it's one of the people I consider as my gurus so his he had called up this friend and he was just
+17:10
+speaking to him and he says asks him that um who's uh so in Hindi he says that
+17:15
+who's there in a room with you is there anybody there so he says yeah just a friend is there just pass the phone to
+17:22
+him so he gave me the phone and I don't even know what to speak of so I just say namaste blood out and Namaste and he'll
+17:27
+say namaste and then he says I'll come to Bangalore for some office work uh meet me once okay and after I hang up
+17:35
+the phone my friend is saying that people come from far and wide to meet him and all that and uh so in my mind
+17:41
+there's a mix of curiosity what is happening exactly okay I officially I was more of the agnostic skeptic nastic
+17:49
+and non-believer kind of things but there was this curiosity that why do people come to him I said why did he
+17:55
+call him go and see but I went to meet him after a few days he comes there and he's speaking to me and um suddenly
+18:01
+I realized that he's speaking to me things that there is no way on Earth He Can Know About Me step by step one after the other one
+18:08
+after the other what is going on I thought this is some trick is going on this is mind reading must be some
+18:13
+hypnotism mind reason something like that because my rational mind is trying to justify that experience how is it
+18:19
+possible and uh then he told me uh in coming months XYZ things are going to happen
+18:25
+with you so yes things like that I have a restriction on mentioning his name in
+18:31
+public so that I will never do is very clear on that but he was a very Advanced
+18:38
+of the bhagavadi you have to explain the word again is one who does sadhana one
+18:44
+who does practice of the deity okay okay so uh that is where I remember during
+18:49
+conversation with him uh he gave me a mantra and said do this Mantra just
+18:56
+chant this month I was curious because once I became uh once I analyzed in my own way I analyzed and saw that uh this
+19:03
+was not mind reading uh there is nothing for him to gain from me so if I were to hypnotize you and mind you I have to
+19:08
+gain something why would I do it either I have to gain your appreciation but why would I want your represent you're a nobody I'm just a policeman there's
+19:15
+nothing there neither do I have a lot of money he's not asking for my money I anyway I didn't have that much money anything so why what exactly is this
+19:22
+happening then like just a thought came that uh okay let us assume for the sake
+19:28
+of assumption that there is a possibility of something beyond what I can understand through rationality and whatever my limited understanding
+19:34
+rationality is then I asked him that how how do I how is this possible so he said
+19:39
+that that is where the processes you do um he gave me a
+19:45
+Mantra to chant and um for a year I chanted kept chanting
+19:51
+nothing happened then one day I called him and said that uh nothing is
+19:56
+happening something has to happen I mean why will I waste my time doing this and so many other things in life to do okay and uh
+20:02
+[Music] I wanted some experience at that time I
+20:07
+I used to I started off so first of all my entry was like from a non-traditional background into this field so I call
+20:14
+always say that I was more of a lateral entry into the path of the Dharma in the
+20:19
+path of you then he said okay you do an anusthanam you do you take a sankalpa as I was
+20:25
+explaining means you make a promise to the deity that I will do so much amount of sadhana in so many days with these
+20:31
+these XYZ rules that's all and then you follow those rules and do it but those rules were given by him uh somewhat
+20:38
+given by him okay okay and somebody but it's still a more relaxed it was not very complicated you can make this very
+20:43
+complicated also the more tougher rules you put the greater and you succeed higher is the result you will get okay
+20:50
+but it was more of a thing that was kind of relaxed only thing was the timing was to be fixed every day at this specific
+20:57
+time I had to sit at night and it used to take me close to one and a half hours of Japan
+21:04
+so I remember even during weekends when uh that time my friends would come and
+21:09
+say okay let's go to a pub and things like that I said ah just wait for some time I'll finish it and then we'll go okay so I had no expectation that
+21:15
+anything will happen but just mechanically doing it but I took it more as a challenge okay these are the rules
+21:20
+let's see I'll do the rules and I finished it in 40 days it was
+21:25
+supposed to be 41 days I remember then it was a Sunday at the end of it the next day morning I um it was a
+21:34
+basically I had not the faintest idea who was whatever I am from the background who has very
+21:41
+standard idea of gods there is a Shiva is there mahakali is there because Bengal Kali is most popular and there's
+21:47
+Krishna is there when all that I have no idea who is this so
+21:53
+after the 41st day I'm standing outside and I'm having coffee and having very
+21:58
+beautiful filter coffee and I'm uh suddenly I see there are cars coming one
+22:03
+two three four five six seven eight nine and all of them had the different cars but not even a group together it's like
+22:08
+separate cars individual cars coming and each of them had this poster of uh
+22:14
+and wherever is not that popular in South by the way it's popular not as
+22:19
+popular as it is in some areas or Not by the time the seventh rate car came in I was stuck that this is something is
+22:27
+going on this is not normal this is something different because I have been here all the while I've never seen so
+22:32
+many cars that two of the of a name that is not that popular I can understand if it is some of the other deities or in
+22:39
+Maharashtra if it's ganpati I can understand very popular forms but there it is not there and uh just tracked me
+22:45
+in my head but I again rejected it I will take it too seriously it could be a coincidence after all I don't know that
+22:51
+night I was in the room sleeping and 233 I woke up and uh uh right in front of me
+22:58
+I could see a presence of the deity of bhairav
+23:04
+yeah which is supposed to be a scary form of Shiva scary because your mind is not accustomed to taking it
+23:12
+okay and I got scared I got full scared I was like
+23:17
+and remember next day I called him up my Guru can you describe what it looked
+23:23
+like no full I will not go into description just that he was standing there okay and I couldn't sleep after that okay just standing and I
+23:32
+actually see there are more uh more
+23:39
+things involved because so around Shiva or around bhairava
+23:45
+there are always ganas who are Ghana means who are basically uh the family of the deity who are greatly connected to
+23:52
+the deity and from that realm okay specifically for Shiva they are called Shiva ganas or rudraganas or
+23:58
+bhairavaganas so if you do their upasana properly and suppose you have some past life link or something like that is
+24:03
+there it is often the case that before the prime Pradhan devatas the primary
+24:09
+deity you are worshiping comes one of these ganas will come just to see who is it calling they don't mean you any harm
+24:15
+but just to check if you can't take their energy how will you take the energy of the deity okay but this is a
+24:20
+very standard thing what do you mean take energy take means you are able to see what happened that whatever that
+24:26
+entity whatever that being was there it is not negative at all it was means there uh I got scared I got scared and I
+24:33
+called him next day I've called him uh on phone and said that xyzer he said it's okay don't worry too much about it
+24:38
+if you're feeling too scared go and stay with your any other friend's house one two days and then come back it will be fine I did that one two days later okay
+24:45
+and um for few days I stopped the practice because I could not process Q what
+24:53
+happened but then there is some urge within me that says that no don't stop let's do it again let's see where it
+24:59
+goes where where does this stop where does this go like this I kept continuing to practice
+25:05
+uh so this was one of my primary first
+25:10
+experiences now what happens is when a deity when one of these great gods
+25:17
+any of this suppose by some miracle or something where to come with the full
+25:23
+energy full Shakti full power even passes by near you unless you are ready
+25:28
+for it unless your mind and body has the power to take that you will be in a record State because this is a
+25:35
+tremendously different energy in fact uh if you read that autobiography Yogi which you were referring to I think I
+25:41
+remember one of the chapters is a very interesting line when he's explaining about kriyayo and I read it long back he
+25:47
+says that if your body so if you know it's like your your body is imagine your body is like a 40 watt bulb okay and if
+25:54
+you put instead of 40 watt if you put in 100 000 Watts about what is going to happen it will crack it doesn't have the
+26:00
+capacity to take it the whole process of upasana is that you attain to the fitness where you can take the
+26:06
+interaction with a devotee without either having any kind of a year but what happens during the interaction
+26:12
+there's a sort of energy exchange no no then that depends that's again these are
+26:18
+all very so if if suppose you reach
+26:23
+a very high state that there is a actually a deity interacts with you he or she will try to transform you okay
+26:30
+into something more spiritual something that will take you to a higher zones okay that is one of the primary things
+26:36
+of deities uh if they come and by the way because this will be heard by a lot
+26:43
+of people there are many instances where people see deities they feel they see they see something also and yet it
+26:49
+causes no transformation in them okay they remain exactly as it is so these
+26:55
+topics are more complicated than they appear in what we can verbally explain properly that's why the necessity of a
+27:01
+good Guru uh to take Give an example uh see in this case so what happened is
+27:07
+after that experience my practice became more intense okay that's
+27:13
+good fine that's a sort of a blessing from the deity there are people I know who see deities who claim to have seen
+27:19
+and I'm not doubting them at all but it has caused not the slightest change in them on the other hand if you go back
+27:26
+and read the biography of a saint luxury ramakrishna paramansa so he sees mahakali once okay once this is and it
+27:34
+changes him into a saint it becomes complete transformed completely so not all seeing is same
+27:43
+that's why these things uh we enter into zones which cannot be explained verbally
+27:48
+easily and that is why there is the necessity of somebody a guru who can hold your hand and can you know correct
+27:54
+you or guide you or what to take seriously what not to get too attached to things like that
+28:01
+um wow okay uh you know can something evil
+28:08
+something demonic pose as a positive deity absolutely and it happens uh one
+28:15
+two cases I knew of individuals uh
+28:20
+they can pose sometimes they will come with a lot of effulgence a lot of light a lot of power and lot of things but
+28:27
+there is one trick to it trick means I I say that it happens to people
+28:32
+who worship now on the surface of it if you ask that why are you worshiping
+28:39
+they'll say I want Moksha I want Liberation I want to because of my bhakti etc etc but deep down what is
+28:44
+your secret desire what is it that you want so I am worshiping that I become more powerful or I am worshiping I want
+28:50
+XYZ some uh things are there sometimes your greed and desire is much more than
+28:56
+what you are allowed by Nature so what these entities will come they will first come with a lot of effulgence lot of
+29:02
+Etc these things and then they will give you
+29:08
+to some degree what you want they will tell you oh you want this I'll make you the best in the this thing Etc there is
+29:14
+always from deep within there is it's like this this principle that happens in the spirituality no possession can
+29:20
+happen without an affirmation from within um and affirmation is not verbal verbal
+29:26
+speech is the worst of the all speeches it's the most useless of all speeches in the spiritual field
+29:31
+there are higher Realms of speech where you don't utter any word you can communicate but verbal speech is the one
+29:37
+where you can lie and you lie not to the world you lie to yourself that is the worst part hundreds of people do that
+29:42
+all the time I am doing the Puja for this purpose that purpose but your secret motivation is something else and
+29:47
+as is your motivation so will be your activity to judge a person observe the
+29:53
+actions not look at the words words don't mean a thing deities don't care about your words they see what is your
+29:58
+secret motivation so these entities often can come to people because of that
+30:03
+if there is some motivation for something else and there is agreed to uh succeed fast
+30:09
+motivation and speed so you don't want to wait you want the faster path normal for a day
+30:16
+tube person normal the gods we River as the great Gods Shiva Krishna they are
+30:22
+not going to come so fast to you if it is happening very fast then get yourself checked immediately
+30:27
+either you are a good that's where you have to go to a guru you cannot do it yourself how do you find a guru take
+30:34
+your time don't be in a hurry you meet people uh see if their words are you know sort of
+30:42
+gelling with it but not just words see the energy is dealing with you and the other thing is important to note is that
+30:47
+who what is the guru parampara which means what I mean specifically it is applied to since we were talking we
+30:54
+are talking a lot about Tantra sadhara so in Tantra it is very important that who is the gurus Guru who is the guru's
+31:01
+guru's guru three generations of accomplished gurus has to be there it cannot there is no Swami Guru I don't know who my guru's
+31:08
+Guru is one day morning he got up and became enlightened it doesn't work it may work in some cases but then all that
+31:14
+doesn't work because a guru is finally like imagine a huge Banyan Tree Guru is
+31:19
+one of the branches of a fruit in that tree but that is connected to that whole thing ecosystem is there that is what a
+31:25
+cooler is that is what a whole samprada is the date is whose his Guru has worshiped and his Guru has worshiped in
+31:31
+fact you have to do the worship of the gurus is very important you have to do tarpanam to the guru sarpana means
+31:38
+basically a process by which you tell them that let you be satisfied okay there's a
+31:45
+method of doing it we do it for pitrus also ancestors and all that who have expired in the Hindu ritual custom after
+31:52
+a year or so or specifically we do tarpanam to them we do tarpanam to rishis also and we do tarpanam to the
+31:59
+gurus to the three generations of gurus it is necessary to do them it is necessary to invoke Their Blessings when
+32:04
+you are doing a sadhana so that they can protect you they can guide you they can ensure that the right knowledge is passing through you you are never alone
+32:11
+you are just a part of this ecosystem even after having great Guru still you may not progress because there is
+32:18
+another factor which is time mahakal he is the Lord of time until he sets the tone this is the time for you to
+32:24
+progress you will not go but still you practice I remember once long back when I was initial days one very Advanced
+32:31
+upasaka and I was a bit confused about certain things he told me that what if I
+32:37
+tell you that you'll never make any progress in this lifetime would you continue the practice or did
+32:42
+you leave it so I was like it was a rhetorical question I didn't answer she says that it's a very simple thing if the person
+32:48
+says genuinely if you say that okay nothing is going to happen you're wasting your time it's useless this
+32:54
+lifetime is not going to happen anything for you so then he may think uh what is the use of doing I have so many other things I can do he was not even meant
+33:01
+for it in the first place the person who can continue with devotion even when there is no sight of
+33:08
+the result coming that is the person who has a chance eventually of succeeding and this and
+33:13
+nature is a very good filtering process it may be the time when all the Sacred Scriptures
+33:20
+which were originally passed down to the samprada guru to shisha are all open in the internet yet the number of people
+33:26
+who succeed is exactly fixed not one extra will succeed you can practice as much as you want
+33:32
+somewhere the other something will happen so Nature has this very good filtering mechanism very good I mean
+33:38
+there is no greater accountant than nature in the world yeah I feel it's like kind of a river
+33:44
+and a dam that you can keep trying even if you're not meant to do it and then mahakal will come and say okay
+33:52
+and then the river will flow with Force yes uh you'll probably progress really
+33:57
+fast in the next book and in fact one of the things that happens often is that initial stages I when I deal with other
+34:04
+upasakas younger and they're very promising and good people the initial stages when they start it's it goes like
+34:10
+this very fast very fast lot of experiences you enjoy it suddenly it will come this Plateau that is your test
+34:16
+how many people 70 people will fall off in this stage because you'll get bored and there are other more exciting things
+34:22
+in life and I am saying this in a non-judgmental way it's perfectly all right if you don't like it I have never
+34:28
+in my life post anybody into vasana in fact my first principle is if anybody
+34:34
+approaches me try to get him off get him off if this still sticks around and
+34:39
+there are the propensities that he's meant to do it and is meant to do it through me that is also there he may be
+34:45
+meant to do it but maybe he's supposed to get it from somebody else so I am not there to interfere in that process then
+34:51
+I may give him one small what I feel intuitively or something like that and tell him and then nature will take care
+34:56
+if he's serious if if everything is in set six months one year down the line the seed will start showing fruits then
+35:03
+you can decide that with whether more guidance is required and how to you know go about interact and how to hand hold
+35:11
+Etc necessary things but not as a guru because that's all there's a word called
+35:18
+Serendipity it means that situations come together you know again it's the same thing
+35:24
+that's effectively what you're saying that when situations come together progress will happen yes when it's meant
+35:31
+to happen things will happen yes but um there is a feedback loop in nature so if
+35:37
+you just wait that when situations will happen I will not do anything right now then the feedback loop is such that
+35:43
+suppose you were you were to start a spiritual journey 10 years from now nature can put it 10 lifetimes from now
+35:49
+because you're not making any effort now um gotcha all right the key is to maintain
+35:55
+your discipline yes okay uh I have to ask you about those higher beings no
+36:01
+because that was the theme of this episode and you just touched upon it you said
+36:08
+and asuras yeah I will let you break down each of those starting with both
+36:13
+so very simply speaking what we call bhuta is uh
+36:19
+discarnate entities entities who don't have a physical presence body like that and
+36:25
+they may be roaming around in this plane some of them were alive also okay so their Tendencies are very much human and
+36:32
+they have their own sets of uh just like that human beings are they they may like something just imagine a human being but
+36:39
+without the physical body so some of them may have hunger some of them may have anger some of them may have lost you know various things Etc and for some
+36:47
+reason or the other they remain Trapped In This Plane they're not able to progress further what do they do with that hunger and lust that's where the
+36:53
+trouble comes in okay so if uh if they are agitated then they they are going to
+37:00
+cause trouble to somebody other who may be around that same space so I told you
+37:05
+this astral and the physical are overlapping okay like where the physical plane is which is this plane around us
+37:11
+astral is at the exact same place you just can't see what's happening it's like a piece of paper right on top
+37:18
+you've kept exactly another piece of paper and you're looking from Top it looks like one piece of paper but there are two um
+37:24
+and but causal is not you causal is much higher okay all right okay causal is
+37:30
+like uh you have to lift yourself to the realm where all these things they'll all fall off they also don't know see there
+37:35
+is just a beautiful episode of uh Swami uh tulsidas ji comes to mind there's a
+37:41
+load story so he used to uh every day he was a devotee of Lord Rama and he used
+37:48
+to go in the morning ablutions and all and Puja part finish and then the water used to come and drop under a banyan
+37:54
+tree okay and 40 days 50 days has been dropping under the Banyan tree and suddenly one booth comes from down the tree he has been staying in that tree so
+38:00
+the bhut says that I am very pleased with you because you are dropping that water I am feeling happy because there is a method of tarpana that is to be
+38:07
+done but to satisfy the spirits basically it's done sometimes but he was not doing it with that idea he had no
+38:12
+idea that there was anything in the tree it's just dropping the water the spirit comes and says that what do you want I
+38:18
+want to give you say that but I was not doing to please you because I didn't even know you existed because it wouldn't doesn't matter you still ask
+38:24
+and he says that show me where is Lord Rama and he says that if I knew I wouldn't be stuck here
+38:30
+so then he says that but I will tell you how you can go to somebody who can teach
+38:35
+you where is Rama since there is a ramayana satsang that happens go there you will see that the person who comes
+38:42
+in last and who goes at the very end a kind of a you go and hold his arms he's
+38:50
+pleased with you he will teach you Lama and that was to come in that form to listen to the
+38:56
+ramayana okay wow so the point of this story is that these
+39:02
+Buddhas also do not have any idea about what is happening outside their knowledge is just as limited as human beings but they suffer from that anger
+39:09
+and they suffer from that sometimes and they project that into anybody who
+39:15
+comes in their environment or they may project it into and those are specifically those are pitrus pitrus
+39:21
+means ancestors who have uh who are dead they're dead but they're stuck in a
+39:27
+particular realm called pituloka which is also part of the astral plane that's true they asked this is all in the astral Dominion so when our ancestors
+39:34
+dive they've not progressed to Heaven they get stuck in the astral not heaven heaven is fine rebirth
+39:41
+if they are not able to take rebirth yes for some reason or the other okay so they very often will take out their
+39:48
+problems on their living descendants because they have the strongest genetic connection and they are not even doing it consciously perhaps they they get
+39:54
+angry that anger anger will be felt with whoever is the living descendant of that uh being and what does the living
+40:01
+descendant do to get rid of there are rituals for this okay there are specific places where you have to go and do you
+40:07
+cannot do these rituals at home okay the specific places where the right kind of Shakti or power is there for example in
+40:13
+nasik is one of those Shiva temples where um certain kinds of ancestral
+40:19
+problems can be solved I mean the panditjis there the priests they know this then the various other places one
+40:26
+of the biggest places Kashi you can go but you not you can go also these kind of things are there without giving the
+40:31
+name of the movie and the reason I'm not giving the name of this movie is because that was the whole plot of the film okay
+40:37
+um they actually begin the film with the main actor trying to talk to his wife and she's just pissed off with him she's
+40:44
+not listening Etc and over the course of the movie the main actor realizes he actually died and he's a ghost and he's
+40:50
+trying to interact but she's not picking up on his presence and he's taking it as why are you upset with me right is this
+40:56
+the reality of that plane that sometimes when your ghost you don't even know that you're a ghost and you're trying to
+41:01
+interact but no one's interacting with you uh I initial stages it might be there is a
+41:08
+sense of shock in fact one of the brother Disciples of Swami Vivekananda he had written a very beautiful book
+41:13
+called in Bengali I read it life beyond death or something like that in English translation so he mentions this
+41:19
+sometimes death can feel like you are like right now you're here suppose there's a devastating earthquake that
+41:25
+happens everything is flattened all the people you know are gone whole building is crumbled and you just next like you
+41:31
+are sitting here around said next moment you see that nothing is there so that kind of shock and Devastation that will
+41:37
+hit you sometimes death hits like this to some Souls and then it becomes very difficult for
+41:44
+them to recognize or uh or accept the fact that they are not in the physical plane so they will try and find out
+41:50
+people or try to communicate or something like that they're not ready to accept it what are we as living beings
+41:56
+in their eyes that depends on who you are speaking about that
+42:02
+you tell me so so if there is a normal uh isn't uh
+42:08
+is an entity that is stuck somewhere after some time the realization does come to them that they are not in the
+42:13
+physical plane Etc but if they're stuck and I'm talking about only those who are stuck those are progress that's well
+42:20
+enough so they are going to cause disturbance to you try and block things for you and things like that basically
+42:25
+they're trying to draw your attention attention to the fact that they still have unsatisfied desires uh it's like
+42:32
+assume that you suddenly tomorrow you don't have the physical body but you still feel hunger what are you going to
+42:37
+do it's a terrible state you are hungry but you don't have a body you can't eat
+42:43
+various things like this so the rituals entail that in in in you know Dharma we
+42:49
+until that uh we offer pindathana rice balls and other mantras specific food
+42:55
+items on this specific tithies of departed ancestors uh things like that we do is there in a lot of cultures is
+43:02
+there a lot of Asian cultures were offering food to that yes um when we speak about these horror movies
+43:09
+or hauntings cases of hauntings are we talking just about Buddha or it could be
+43:14
+it could be there are more dangerous than that it's called the preetha which is very angry type of spirit before we
+43:20
+head into that Preta section you mentioned a very uh cool story about tulsidas meeting hanumanji do you think
+43:28
+that that's where the Hanuman Chalisa was created no I think the Hanuman Chalisa came in later on but definitely tulsidas ji got full blessings of Lord
+43:36
+Hanuman or because of that blessings he was able to produce such a superlative ramcharitmanas it's the amazing text but
+43:44
+it was definitely the blessings of Lord Hanuman was there okay um why do you think the Hanuman Chalisa has
+43:50
+this antique host power Ah that's because of this answer will again deviate from the
+43:57
+central theme of your discussion that's what it's about yeah so certain deities are there in Dharma who have two
+44:05
+specific propensities their excellent as protected date is Hanuman Lord Hanuman is one of them bhairava is another
+44:11
+certain deities are there number one number two they respond faster
+44:17
+certain deities are closer to the Earth plane then they respond faster hanumanji is one who is an immortal who's never
+44:23
+given up his body so he's here in this plane so he will respond to your pure please faster than others specifically
+44:29
+on certain areas now if you ask hanumanji I want to become the richest man on Earth you may not get that
+44:35
+because his domain is strength Power Protection all these things instant you'll get that if you have devotion is
+44:41
+correct okay same for Lord bhairava also he's he also protects very fast
+44:46
+on the other hand if you have to call Lord Shiva the Shiva swarupa Mahadev he
+44:52
+is in his samadhi it will take you nine ten lifetimes of calling before he responds he will be aware that you are calling but he may not be bothered to
+44:59
+answer so easily wow that is precisely the power of Hanuman Chalisa it's a wonderful thing
+45:04
+there's so many sadhanas that can practices that can be done just with the Hanuman Chalisa really let's talk about
+45:10
+endless things let's talk about this because there is a lot of young Indians who are very into the Hanuman Chalisa
+45:16
+including myself including sanjit like superb thing superb means superb thing
+45:22
+in fact in uh in in I'm talking from the uh from the tantric perspective also so
+45:27
+Hanuman ji is considered uh Lord Hanuman is considered in the tantric perspective is also considered as one of the
+45:34
+protectors okay with the viras there are 52 Vedas okay Veer means there are powerful entities who protect an area
+45:40
+any area it can be and there are these viras are modeled around the primary devathas so there is Hanuman Veer
+45:48
+their worship is very popular there is nursing who is basically on Lord narasimha which is the Vishnu Etc so uh
+45:56
+you invoke Their Blessings uh
+46:01
+whether it's a disease related negative entity whether there is a spirit related negative entity whether something else
+46:07
+if you keep doing Hanuman Chalisa with faith properly and there are sadness means suppose
+46:13
+suppose you want to you know just for 40 days somebody decides that I want to do Hanuman Chalisa so you every day you sit
+46:21
+and do at least 51 54 times 100 times Hanuman Chalisa it will take you one two hours but if you're fluent will be very
+46:27
+fast you do this you maintain certain basic rules syllabus is one of them required for getting a higher experience
+46:33
+of Lord Hanuman because he was the Honda brahmachari okay and you uh offer some
+46:43
+Etc and after you finish your uh hanumanchal is a recital say 54 times
+46:48
+100 times calmly sit down and meditate on the name of Lord Rama do this for 40
+46:54
+days you will have a transforming experience what do you mean calmly meditate on Lord Rama do you just say
+46:59
+Rama Rama just that name power of the name is superlative he is
+47:05
+hanumanji remains in this plane because he promised that as long as there is a name of Rama here he will be here
+47:11
+okay and he is one of this best protected deities is the reason why he
+47:18
+is so popular in response so fast in my opinion as I said I have seen people who are more devotees of Lord Hanuman than
+47:25
+even of Lord Rama okay though Hanuman is considered as a bhakt of Rama
+47:31
+precisely because he remains in the physical plane he has chosen not to leave this plane and go and that is why
+47:38
+he is very fast If he if is pleased with a devotion if he's pleased with your call and you are in trouble some of the
+47:45
+blessings and the beauty of it is that they are Gods so they don't have to physically come to you from wherever he
+47:50
+maybe he can still get you protection just one blessing from you and he'll be protected it's like an armor armor
+47:57
+absolutely okay protection from prathasachas uh
+48:04
+yeah so I had a very deep seated fear of the dark when I was growing up and
+48:09
+that's a big reason I was drawn even more to the Hanuman Chalisa especially
+48:15
+when I would say that I would you know I have I mean obviously I've learned the Hanuman Chalisa over the course of my
+48:21
+life but I began by reading it out of a book and when it was that line I would that's the book to my head saying be
+48:26
+with me probably because I was always drawn to these topics uh throughout my life and they also say that when you
+48:33
+speak about these topics you're actually inviting those energies near you so what
+48:38
+we're doing here and maybe even the listeners listening they are kind of creating a sort of frequency that makes
+48:45
+them one step closer to negative entries my Outlook on this is one going with
+48:50
+faith in God uh and two uh when you have knowledge about
+48:55
+Darkness it brings you closer to the light that's what I believe yes and the other thing is that in my opinion
+49:02
+generally uh so it is one thing to be aware that there is a presence of this hierarchy of negative entities there
+49:08
+because after uh so as I was saying Prieta is one of the most difficult more
+49:13
+Angry type of things beyond that there are other pishachas and all that those are very dangerous very very dangerous
+49:18
+let's speak out Peters now so so pritas are basically very angry type of spirits
+49:24
+very angry they are completely they're like you know having a mad dog tied up are they formally human beings uh they
+49:32
+could have been formerly human beings yes but they are in a very negative state where the karmas have been so uh
+49:38
+Twisted that they are in a very negative State and off and on they may even be uh
+49:43
+entities who have indulged in various kinds of negative practices maybe criminals very good passed away or yeah
+49:49
+tantrix who use uh very violent kind of deaths very violent kind of deaths like what
+49:56
+would be a very violent kind of well suppose somebody uh has an accidental death at a very young age okay or
+50:01
+somebody commits suicide or something like that uh those type of uh very non-conventional violent and dangerous
+50:07
+deaths can often end into making that Soul into a prata and therefore there
+50:15
+are specific rituals done to calm down the pratham in the family it has to be done by the family in which family he or she was
+50:22
+born okay lived otherwise they are going to definitely cause trouble okay all sorts of trouble what kind of trouble
+50:28
+first of all they can bring diseases uh they can cause if you're trying to work
+50:34
+something they can cause obstruction and they can cause accidents also to family members one of the things you'll see sometimes
+50:41
+if it's a very negative entity negative kind of whatever you try to do they're going to cause an obstruction and things
+50:47
+will start turning negative you know whatever your effort is it will instead of producing the right result it's going
+50:53
+to produce a wrong result and you'll see that out of the blue things are happening even after your best effort
+50:58
+suddenly there's something it's like like uh you may even feel that perhaps it's not your destiny like weirdly uh
+51:05
+you know strange negative and occurrences happen at a very close frequency and even that is not a final
+51:12
+sign that it is you will have to still take advice from somebody who's capable in these things to to tell you even
+51:19
+judging of horoscopes can jyotisha can tell you if there is a problem from a prata and things like
+51:26
+that how do you know as an everyday human that you're coming in contact with one and moreover you know again when we
+51:32
+speak about these hauntings when you go to a house and some things are troubling you like they've shown this in Conjuring
+51:37
+and that whole Conjuring movie series as well but those praitas uh I haven't seen the movie so I can't
+51:45
+exactly comment but many of the air so from our perspective many of the negative entities that come in their
+51:50
+culture would fall in some of these categories of prithas or Max to Max they
+51:56
+may go up to categories of pisachas I feel okay okay because beyond that
+52:02
+the entities that come in they are very they're so they don't beyond the
+52:09
+um so the other thing the pishas are also very dangerous extremely dangerous it's like a mad Bull okay complete mad
+52:14
+Bull can the prathas cause physical harm as well yes absolutely so many things
+52:20
+they can cause diseases this that Etc accidents scratches on you very negative yes uh perhaps but this is
+52:29
+more see these this is not exactly like a science so science means everything is perfect
+52:35
+in the sinsky only a Preta can do this no it depends on how much power how much negative power it has in it okay but
+52:42
+there are entities higher than that we can do okay can these things enter your dreams yeah definitely that's the place that can
+52:49
+cause a lot of harm yeah that's why very higher order yogis sometimes don't sleep they are it's not
+52:56
+possible for ordinary people but there are people who may spend 12 years 20 years never sleeping okay
+53:02
+pass through a very haunted for lack of a better word place can things stick on
+53:08
+to you yes why would they choose you over other people it's not about you it's just that you're
+53:14
+passing through there so you're there at the wrong time at the wrong place but there is nothing wrong anywhere so that
+53:20
+means that you must have had some karmic link with that entity some lifetime that is why you are there at that particular
+53:26
+place at particular time uh to end up in that negative state with respect to that
+53:31
+entity and what's a stupid way of inviting them to you oh there are so many ways
+53:38
+there are some people who are very stupid so they think that they will do some kind of those uh you know those
+53:44
+plus other Spirit calling see answers are all to not even step into those zones you don't know what you are
+53:50
+calling and you will know it at a very late stage if at all something comes in and they come in very easily by the way it's not that difficult if you keep
+53:57
+practicing for few days will start happening not at all that difficult but my point is this do not enter into this
+54:04
+zone out of curiosity a either you are one of those people who
+54:09
+are like an exorcist then enter into that but that is formal proper trained
+54:15
+in entering which is very different it's just like you are entering into an army you don't you can't just say that tomorrow I want to go to the you know
+54:21
+Army and start fighting so they make you go through training process so somebody who's an exorcist knows how to protect himself what needs to be done Etc and
+54:29
+perhaps his Destiny is that he has to enter into that field for other people straight away do
+54:36
+Persona of the main date is know how to protect yourself in case there is an overlap interaction sometimes that
+54:41
+happens that is the best an average human being can do because the dark is also very powerful it doesn't end here
+54:48
+if you go if you keep going you will eventually face lot of problems and uh
+54:56
+not only you everybody connected to you so they have this thing by the way uh to
+55:02
+cause trouble to you one of the easiest things is uh to your family people who are close they connect your father
+55:08
+mother wife girlfriend of his friends Etc somebody else gets into trouble you'll obviously get affected you are a
+55:14
+family member you are living in society you are connected to so many dots here even why how many will you protect that
+55:20
+is the thing with these things so have a basic idea of protection and that idea of protection cannot come until you
+55:27
+first do basic you start to pass then only all these things problem with
+55:32
+people is that they want these things but they neglect the primary root of this spiritual tree which is the the
+55:38
+person of the date is in the way it is to be done okay uh also so uh
+55:46
+they are more dangerous than uh pritas they are most likely entities who never
+55:54
+incarnated many of them okay some of them did which is what is known traditionally as Brahma pisacha brahmap
+56:00
+is basically somebody who is highly knowledgeable in these spiritual matters Etc but somehow they either misuse that
+56:07
+knowledge or did not give it or became greedy or something like that holding holding of knowledge uh not giving it to
+56:15
+one who is fit for it so the text Shasta does not tell you that randomly give the
+56:21
+knowledge to everybody uh but somebody who's fit for it and not to and still not the knowledge is passed on and
+56:28
+nature then there's a holding of knowledge and the hoarding of this vidyas then such entities can such
+56:34
+people can become what is known as Brahma they began as human beings they began as human beings but they're very
+56:39
+Advanced human beings not ordinary human beings okay they're people who are top class super sakas in their life okay and
+56:46
+then there are other of these entities which are not human at all which were not they're very dangerous they are
+56:53
+by and large the average conception and the imagination of war is negative in
+56:59
+the world all falls in this category only they're like mad Bulls
+57:04
+they will just attack and attack and attack things like that then there are various types of in there also there are
+57:11
+various types of things there's something known as some people do version of that also uh
+57:16
+known as just like pishachas are there something else Pisha chili It's a female form of the Vishal
+57:21
+which is some people do passion of that so they will come and tell you in your various things that are happening
+57:27
+okay but catches that there they uh they can
+57:34
+so if you're doing a higher upasana you cannot do these things the moment you start chanting they will
+57:41
+not come near they don't like the vibration of those mantras whether the Shiva Vishnu Durga
+57:47
+Etc immediately they'll go I believe this is what we call Gins as well so uh
+57:52
+now I'm I don't know fully but I have some idea of what the jinns are a broad
+57:57
+term to use the wide range of things from Buddha to everything they call fall under the Gin category in my
+58:04
+understanding of uh what genes are and um they're there definitely there are
+58:09
+ways to counter them work is ways to counter just like the uh protection I am not talking about
+58:15
+anything else that you know fighting them you know not to go into that domain and pick up a fight that's stupid
+58:21
+but self-protection is very much possible and self protection both for these entities as well as from jinns and
+58:27
+other things very much Possible only thing is there's certain differences in the way it is to be done where are they
+58:34
+oh they are they are confined to domains they will not they will not be in a room like this
+58:42
+can roam around they are confined to specific areas that have extreme negative energy
+58:50
+uh extreme negative energy very dark settings very fill the settings very
+58:56
+often they will be surrounded with extreme kind of foul order
+59:01
+okay these are there various other things those are experts they'll tell you more things but these are some of
+59:06
+the primary things a recurring foul order which you cannot find a source from which means that you your house is
+59:12
+next to some drain or something some drainage leak is happening now that you know where it is coming from you can fix it but their presence often brings about
+59:19
+a complete foul smell in that area okay and they are extremely negative they're unreasonable irrational you cannot uh
+59:26
+those entities you cannot um talk to or judge what's their interest in human beings uh influence
+59:34
+getting things done in the world everybody likes attention it is their way of getting attention
+59:40
+possibly also because they're confined to that one place that is there but also it's like spreading your uh uh power
+59:49
+power or influence so if you have power how do you know that you have power unless you executed you don't know your
+59:54
+power so it is their nature to cause these kind of disturbances if you are unfortunate enough to be in the vicinity
+1:00:01
+or enter into that zone and remain unprotected so one thing that I picked up from this
+1:00:06
+whole peshaja conversation is that angle of influence um what does that truly mean for the modern
+1:00:16
+city human or the material life-oriented human and are they
+1:00:21
+human beings in the world today who are rich famous successful powerful as a result of them listening to these beings
+1:00:28
+uh I can't say yes or no because I don't have any direct experience of I hardly
+1:00:33
+know anybody who's that rich so the question does not arise for me but otherwise um
+1:00:40
+in theory it is you cannot discount it but then I don't have any direct evidence to say that you know the rich
+1:00:46
+and the famous somehow the other are engaged in any kind of practices that have made them that
+1:00:52
+on the other hand there is a wide amount of popularity of this the occult aspect
+1:00:58
+of Tantra where you can influence things uh by specifically two classes of people
+1:01:05
+one engaged in politics and the other in films
+1:01:11
+you wait you're talking as a general thing all over the world uh India I'm
+1:01:16
+not even outside of India I don't know I'm talking about India and that's because why
+1:01:22
+um some of the maximum so in in technically we call this as prayogas means an application of a power
+1:01:29
+there's nothing negative in it it can be for anything so you are somebody's sick somebody messages [Music]
+1:01:36
+something like that I do some Japan for him okay that just a simple to the deity
+1:01:42
+I worship that please cure that person against you that's an application of power but their technicalities involved more this is giving a simplistic
+1:01:48
+understanding but there are more details understanding so this thing happens across India across India and all
+1:01:54
+temples certain places it happens much more than others namakaya it happens a lot uh ujjain it happens mahakal Temple
+1:02:00
+a few other places it happens a lot uh because I keep going there for my upasana or my own practices I keep
+1:02:06
+traveling to various temples so I get to see them so uh these two broad classes of people get these kind of prayogas
+1:02:13
+done very often uh either not only for positive aspects which means that to
+1:02:18
+boost their career and things like that but also very often to remove enemies from the path or side track of various
+1:02:25
+things so they do the full full scale of it where does karma come into
+1:02:31
+play karma is always waiting it's but the thing is that human beings are like that we if the
+1:02:37
+greed is like that we want it right now karma can well we'll see when Karma comes we'll see like that so there is
+1:02:43
+this you know the beautiful uh question that yudhisthira was asked um by yaksha yaksa is a kind of higher
+1:02:50
+positive being yeah okay in the lake in Mahabharata various questions were there very famous then he asks that what is
+1:02:57
+the greatest Wonder in the world says that every day we are seeing people dying yet everybody believes I am not
+1:03:02
+going to die um well this is how you operate in the world okay so same with Karma I just let me
+1:03:09
+get this done first Karma will see later okay okay um I mean when you use these things for
+1:03:16
+your own material ambition there's no free lunches in life right what's the outcome you are paying some price yes
+1:03:23
+what is the price you're paying so the question is I'm taking say I'm assuming
+1:03:29
+your question for from positive point of view positive when you're using it for career progression key
+1:03:35
+um you know matara come to me and give me more money what are you paying in
+1:03:40
+return first of all at any given point when we are praying to the deity as I said in
+1:03:47
+the in the I think the previous episode I mentioned that all kinds of avichar or Blackmagic start from the human heart
+1:03:53
+okay the moment you have the desire that XYZ has to be done Etc and then uh then
+1:04:00
+you go and execute it in a more in a manner that has higher chances of success that's all the the process is
+1:04:06
+showing it is not making a moral judgment it is not even taking responsibility of the karmite is your karma okay you make a mistake and you
+1:04:13
+will do now uh karmic repercussion is always there for everything there's no doubt about it one is that you worship
+1:04:19
+the deity
+1:04:27
+and then you pray to her there is no no karmic
+1:04:33
+consequence of a prayer you can pray but remember one thing you
+1:04:39
+are the one who is praying the one who will grant the prayer has complete right to reject your prayer also if that is
+1:04:45
+there in your mind you are free no problem but the moment you want no I am not satisfied with the prayer I need an
+1:04:52
+exact execution of this result and there are methods of doing that also there's not uh our our Dharma is brilliant it is
+1:05:00
+given absolutely stunning methods D to Z depending on where you are so there will be a consequence of that
+1:05:07
+some payment somebody is very sick somebody is having a trouble uh somebody uh having a specific problem and to
+1:05:15
+remove that problem say another individual does prayoga of a of a very
+1:05:20
+powerful mahavidya one of the most powerful popular mahavidyas
+1:05:26
+results also come but some consequence this person will have to face whether he gets an injury he gets some issues at
+1:05:32
+the other because the balancing of nature will always happen the one way to get out of this which is very difficult is that you first attend
+1:05:39
+to a connection with one of the your ishta devatha and you do a prayoga not for smaller
+1:05:46
+material gains it's only when there's a permission from the deity deity says that you can do this
+1:05:52
+then you know that he or she is going to take care of the karma it's not your headache your your job at the highest stages of sadhana your job is to blindly
+1:06:00
+follow what the devatha is telling you but higher stages initial stages you don't have any contact you don't understand only what the rate is trying
+1:06:06
+to say but yes I have seen some people who are very good in helping others and
+1:06:11
+they're doing positive things by the way okay somebody is sick somebody's not getting a job somebody has a lot of loans things like that and they do
+1:06:17
+normal upasana of their deity and they try to help those people help also happens miraculously help happens but
+1:06:23
+there is always a karmic payback on their own lives always either they will fall sick or
+1:06:30
+something or the other um these things happen I mean this is the way it is there are no free lunches in
+1:06:36
+nature once you understand that then the intelligence is to know that can you
+1:06:42
+handle that Karma before even entering into that somebody's throwing a ball at you one of my gurus is to somebody's
+1:06:48
+throwing a ball at full space first you know that can you hand hold that ball it should not be the case that just to help
+1:06:55
+somebody you only end up in the you know Dire Straits in the worst conditions there's no intelligence in that yeah so
+1:07:01
+you understand who it is that you're trying to help what kind of karmas that person is and whether you can sustain the impact
+1:07:07
+of it okay okay mentioned in Mahabharata as well right
+1:07:13
+same thing same thing only thing is that they are very unlikely to come today directly back when they mentioned
+1:07:20
+bakasur who used to eat yes food as well as human beings it was in a physical form in a physical form and not some of
+1:07:27
+the surahs were not even physical also it may have been at a time when a very ancient time of the rishis see uh they
+1:07:34
+used to come in the physical form when the human beings were of that caliber today if an Asura were to Incarnate
+1:07:40
+there's nobody will be able to stand no human being has that capacity only yeah and I'm talking about not just you me
+1:07:45
+I'm talking about the people who are the best Saints even they can't handle their power they have such a raw power you can
+1:07:51
+imagine the story of the asuras when the Devi Mahatma if you read which is a text of MAA Durga and she's fighting
+1:07:57
+mahishasura the battle goes on for 100 years 100 years she is fighting is this an
+1:08:03
+astral battle consider it an astral battle that happened before uh humans of this era populated but uh had blessings
+1:08:11
+from God so he became very very powerful and uh and then the goddess had to Incarnate to destroy what do you mean
+1:08:18
+before humans of this era populated so what I mean to say is that
+1:08:24
+so the society as we know it today so it is possible that the time of the rishis
+1:08:29
+were very ancient I cannot say positively one way or the other but in the sense both in the physical features
+1:08:36
+as well as their spiritual physical emotional uh stamina and strength and
+1:08:43
+capacity was far more than ours okay also the population was far less I mean if you look at the population of the
+1:08:48
+world we are at one of the peak times there's been I think from mid 80s because of certain advancements
+1:08:53
+population graph has gone just like this okay population graph goes like this so
+1:08:58
+there are own consequences of that but we are talking of an era and specifically this mahishasura and all
+1:09:04
+that perhaps would have happened at a time when only a Selected Few rishis were there not even the average people
+1:09:11
+like this okay there's millions of years ago possibly I don't know I can't fix the timeline okay
+1:09:16
+but let's say that but the good part is that suppose you are a great upasaka you can experience that battle even today
+1:09:22
+of the great God oh yes the greatest person that but these that's why we say
+1:09:30
+that the activity of the gods are Leela Nila means it's a play even when they're
+1:09:36
+destroying the Asura they are creating an energy stamp so powerful that thousands of years six thousand seven
+1:09:41
+thousand years ago by remembering that story you are getting spiritually benefited
+1:09:47
+very science fiction oriented question but is it also a way of saying that very high levels of sadhna allow you to time
+1:09:52
+travel uh time travel in Watsons is there multiple senses no I I want to
+1:09:58
+understand what was in your mind when you say okay friends time travel x-axis Y axis z-axis
+1:10:04
+three dimensions time fourth dimension okay so uh time travel in the sense physically time travel yeah uh I don't
+1:10:12
+think I have no idea actually I don't think that's possible okay but uh knowing what happened at a very ancient
+1:10:18
+time accurate knowledge even if you were not physically present that is possible okay it's very much possible okay uh
+1:10:25
+in 2022 I don't think frankly I don't think that
+1:10:30
+there are any actresses here because I don't think that they have uh so they
+1:10:35
+will not incarnate in this plane their power is way too much and asuras are even more but they they don't incarnate
+1:10:41
+in this plane like that they're extremely powerful extremely one we
+1:10:46
+cannot even imagine they're like a god just like a devatha only in the negative sense
+1:10:52
+okay but they can influence people their influence is very much possible they can
+1:10:57
+influence the minds of people and do various things and from the plane they're setting in yeah yeah that they
+1:11:03
+can do in fact some people believe now I I can't either vouch for it one way or the other some people believe that one
+1:11:09
+of the things that Lord Krishna and Arjuna Arjuna was that caliber upasaka also it was not just a fighter it was a
+1:11:15
+great practitioner by the way so they ensured that the asuras do not get physically born
+1:11:21
+because they knew that the Kali yoga people don't have the power to take that so they ensured that the surahs don't
+1:11:28
+get physically born here other actresses don't come here physically but the influence cannot be stopped so there is
+1:11:34
+always a choice you have you want to follow that influence or not okay um there's a difference between the two but
+1:11:41
+yeah asuras are have a higher IQ let's put it this way you cannot argue with an Asura also it
+1:11:48
+will tell him one scripture will tell you 10 scriptures you will tell him one logic he is a master of logic he's a
+1:11:53
+master of the intellect he's a he's a being who has exceptional intelligence he's a being who has tremendous but
+1:12:01
+remember this thing they are not atheists they are not nastikas they they don't believe that there is gods they
+1:12:07
+fully know that there are gods but they want to do their stuff and Gnostic or what I tell a non-believer is
+1:12:14
+at the lowest rung of the person he's the one who denies reality which is fine I'm not even asking him to change what
+1:12:19
+his ideas but Asura is not one who is who does not believe in uh the Divine and does not believe in the presence of
+1:12:25
+the deities he is a terrific exceptional practitioner he has got that powers and
+1:12:31
+then he misuses it Powers he's fully aware of all the Realms he knows what his occult he knows everything he's equally confident and equally Adept in
+1:12:39
+the material rational world as he is in the spiritual realm how does he expect that he will like Escape Karma
+1:12:49
+uh I don't think they look at karma in the way we do first of all because the
+1:12:54
+other thing is that they live in Realms where time moves very slowly our realm time moves the fastest which means that
+1:13:01
+Maya or or the or the or on enveloping of the mind or attachment let's put it
+1:13:08
+this way you get attached to something it could be anything Etc so this happens very often in our plane but at the same time
+1:13:14
+progress can happen very well faster in this plane in few lifetimes you can progress you can go down also few left
+1:13:20
+hands but in those Realms time is very slow so there so in fact some of the asuriks some of the stories of the
+1:13:26
+asuras uh like coming back to mahizas was incarnated three times now by the
+1:13:33
+way there's an interesting thing about maisasura say that maisasura was an amsa was a part of Lord Shiva
+1:13:40
+see the player that's how our culture looks at these asuras they say that when the Great gods are involved
+1:13:46
+that is because at the immediate level there is a fight that is going on but the impact of that is still going to be
+1:13:53
+positive for the whole universe so Maisha Shiva says that how do I show to
+1:13:59
+the world the power of the Goddess so he incarnates gives the blessing a part of him not fully little bit of energy
+1:14:04
+projection and emanations from Shiva comes bonds and gets born in the family of an Asura he does tremendous tapasya
+1:14:11
+because without that power of Shiva he cannot do that kind of the person gets blessings that he cannot be killed by God he cannot be killed by human being
+1:14:17
+everything he forgets he mentions everything only thing he forgets is to add a woman okay so that one thing is
+1:14:23
+then used later on three times he gets killed not once three times in three kalpas three cycles of creation he gets
+1:14:29
+killed by the goddess Durga and in fact there's a beautiful section where myself
+1:14:35
+would actually before his in the second kalpa we call it the three culpas of death second kalpa when Durga manifests
+1:14:44
+and he he's an upasaka by the way he he's not he's not asuras are not
+1:14:49
+non-believers by the way they know the reality of these things they know fully so he knows in his meditation he sees
+1:14:55
+that he's going to die and he sees that who this great power is this goddesses okay and uh he goes into Rapture and
+1:15:02
+Bliss and he tells the Goddess that I don't want anything okay I am completely your
+1:15:08
+devotee okay I don't I know that this is meant to happen I don't even want anything I just want one blessing from
+1:15:13
+you that I should get offerings in the young girls so your guys are done for
+1:15:19
+the gods okay asuras you cannot give any offerings to them
+1:15:28
+has come by the way all these stories she says to him that I cannot do that
+1:15:34
+because if I do that it will completely turn the balance of the world Dharma will completely get rattled because the
+1:15:40
+yagya offerings can go only to the gods he said but I'll do something for you I'll give a blessing so that whenever
+1:15:47
+there is Durga upasana happening it has to be shown in that posture where her leg is on the Mahi sasura and she's
+1:15:54
+killing him and during the Durga Puja that actually happens in the mantras one Mantra is given to the Asura also he
+1:15:59
+says that by this act you will remain Immortal till the time there is Durga pasana that happens among humans and
+1:16:05
+then what she does she puts a veil on his mind so that he doesn't remember this conversation so that he can fight with his full force because if he has
+1:16:12
+this knowledge that he is who is he will not fight he is meant to die okay and then there is this whole battle
+1:16:18
+that happens and she kills him and that story till now is inspired and navratri
+1:16:23
+and everything that we do it's so beautiful so that when you go to the Karan jagati all this good bad Etc all
+1:16:29
+get balanced then there is no in our Dharma there is no one single Satan Divine kuchni nothing yeah wow you know
+1:16:38
+how uh young people say I'm trying to build Legacy in the world well even Asura say that yes
+1:16:44
+time immemorial and when we're celebrating yeah somebody remembering the Asura also
+1:16:50
+as a devotee of the and we our our second conception is that anybody who
+1:16:56
+dies in the hands of the great gods is liberated by the way
+1:17:01
+whoever in fact not just in in the case of this we see in the case of the Shiva purana when Shiva is destroying and
+1:17:09
+Shiva andaka is one of the asuras who has created very powerful etc etc and there's a lot of battle and beautiful
+1:17:14
+description in the Shiva purana how shiva's whole Army is going with Shiva okay the ganas and things like that Etc
+1:17:20
+at the last moment in the battle he pinsula and he lifts him up okay and Shiva at that time has become the energy
+1:17:26
+of bhairava the fierce form there and then in that condition the Surah is begging to him is saying that Lord I am
+1:17:32
+your devotee okay and that State uh then Shiva is kind he says that okay you will
+1:17:39
+become a devotee you will become one of my Gunners the people who are hanging out in around Shiva so that is a kind of
+1:17:46
+Liberation that is a kind of uh kind of mukti a freedom you know
+1:17:53
+um again do you think that there could be
+1:17:58
+possibly billionaires or world leaders who are being influenced by these I I can't say one way or the other I can't I
+1:18:05
+really can't say there is a possibility uh but one thing is there wealth has a corrupting influence
+1:18:12
+huge amounts of wealth average amount of wealth is fine but huge amounts of wealth extracts certain prices whether
+1:18:18
+it comes to health or something else or something like that wealth does have a suric influence on it and this is not my
+1:18:24
+word this is in those writings huge amounts of wealth not ordinary well the ordinary wealth is perfectly okay but
+1:18:30
+extreme amount of wealth when it comes there are always certain asurik influences that get tied with it what
+1:18:36
+are asurik influences uh Asura is trying to influence the environment for example if you have huge amount of wealth you
+1:18:42
+have to protect the wealth you have to end up doing certain things which are not normal or which you'd normally not
+1:18:47
+do and there will be places where you will do something that is adharma which is you know incorrect unrighteous
+1:18:54
+something negative things you'll have to do the moment you do one you're you are opening the Gateway so uh
+1:19:01
+there's a belief that huge amounts of wealth can also have certain amount of
+1:19:06
+acidic influence can it attract asuras whether it attracts the surahs or
+1:19:11
+whether they go and find yeah maybe uh
+1:19:16
+I don't know exactly but yeah a huge amount many obscene amount of wealth I'm not talking about ordinary wealth okay
+1:19:22
+the amount of wealth does involve negative practices and we we negative practices I'm not talking
+1:19:29
+sorry not talking about tantric practice and all that I'm saying that some of the other negative karma is there that gets
+1:19:35
+involved just to maintain that wealth as a protection in fact you'll see very interestingly that we worship
+1:19:42
+um mahalakshmi for wealth right mahalakshmi well so Lakshmi is not only wealth she
+1:19:47
+gives a sense of prosperity of well-being inside that happy space that you call about and use in today's language she's the one who controls it
+1:19:54
+so you may very well be a beggar in the road but if you have that happiness inside it is her blessing that gives you whereas there are beings who control
+1:20:01
+wealth specifically okay very specifically your controllers of wealth uh certain kind of reactions and all
+1:20:07
+that they guard those wealths very ferociously you will have the wealth and the condition that you will you cannot have
+1:20:13
+your peace of mind this is the deal with the devil thinking that this uh I don't know about that I'm
+1:20:19
+not I'm talking only from our perspective because I unless you study that properly I can't do a comparison
+1:20:24
+you mentioned that gandhar was and yes take birth in human form and then become excellent at something that they do yes
+1:20:31
+like maybe great music composers great musicians great artists yes yes great
+1:20:36
+what else uh depends great people of excellent knowledge in certain Fields
+1:20:42
+sometimes can be am I speaking to one statement
+1:20:52
+so but uh that's possible uh very often beings and
+1:20:58
+not just and all that being some higher Realms also can get born by the way okay even even in today's day oh yes even if
+1:21:06
+the karma is like that then for what purpose it could be various things uh sometimes
+1:21:12
+there may be something left unfinished to finish that off some karmic thing
+1:21:17
+there could be sometimes that some desire was there for something that needs to be fulfilled or sometimes it is
+1:21:24
+for as I say local which is that for the benefit of humanity uh somebody of of
+1:21:29
+the caliber of lahrimasha was the founder of Priya yoga it's an amazing caliber cinnamon we can't even imagine
+1:21:34
+why would a being like that I mean I am damn sure that he must have attained to his high States in past births only why
+1:21:41
+would he want to come down that is because this play can be created with Babaji and him so that this knowledge
+1:21:47
+comes to the people and even if five people are benefited that's good um do these beings know that they are
+1:21:54
+those beings when they are in their human form mostly don't they don't mostly don't
+1:22:01
+and what is the nature of reality no they will have to go through the process as I keep mentioning so moment
+1:22:09
+you're born nature is going to cause a filtering in your mind so you will not remember the past okay you will not remember the past and
+1:22:18
+just like any other person you'll have to be work through the whole process like anybody else but because of your
+1:22:24
+samskaras which is the tendencies that you have gathered through your past practices they will drive you into those
+1:22:30
+zones or these areas those practices once you start doing that nature will cooperate with you because you have done
+1:22:36
+these things in the past and there'll be an unraveling in fact a good eighty
+1:22:41
+percent of the spiritual path is just recovering what you might have done in past after that 20 new will start
+1:22:50
+portsmen possible I'm just guessing when I I it's not that I know everything about it but
+1:22:57
+this is the broad idea okay um one last question for you sir on this one
+1:23:03
+where does space come into all this the cosmos what's out there according to Tantra according to Hinduism what's
+1:23:10
+actually out there and I'm not specifically asking about aliens here uh generally I mean
+1:23:16
+if you actually just study the size of space obviously there's other life forms out there there's no way we can be the
+1:23:23
+only one that's arrogant to think that way etc etc but is there a role that space plays in Maya and Tantra in all
+1:23:30
+these things when we're talking about are there other planets which also have astral Realms that are home to these
+1:23:37
+beings I believe there are other planets that will have various kinds of beings who are spiritual in their way we may or
+1:23:43
+may not know about it and I think some of the references do come to us in our scriptures also there are multiple not
+1:23:49
+only multiple cycles of universes but there may be other beings it's not a about it uh space uh there's a famous
+1:23:57
+dictum that goes in yoga brahmandu or yeah whatever is there in the universe
+1:24:05
+is also there in the body now take it in the other since whatever is happening inside your body all these things that you say recognize that I have a physical
+1:24:12
+body the national body of a current Sharif that is reflected in space also
+1:24:17
+um fully reflected in space so this whole domain of the astral where all
+1:24:22
+this good bad etcetera going on okay and it's beautiful also by the way I still no need to take it as a negative sense
+1:24:28
+were some of the greatest pieces of art have come from the astral plane Inspirations from the astral print
+1:24:33
+beings who inspired people to create some of the greatest pieces of art legendary art art that is stand stood
+1:24:39
+the test of time for centuries after centuries those all come from the astral planes
+1:24:44
+so there is this domain there are mantras in The Vedas and the other places where they will tell you about
+1:24:50
+the there's the space then there's the antariksha and all that so this is a correlation to what is happening inside
+1:24:55
+you there's up to a domain is there in this space for example uh and I'm not putting so many kilometers and all that
+1:25:02
+reference where the astral plane exists where the thoughts ideas emotions
+1:25:07
+feelings good bad everything of human beings and all the animated entities are passing around okay you go beyond that
+1:25:14
+they silence Zoom everything is silent do the gods
+1:25:21
+exist yes the gods exist in fact in a very unconventional way
+1:25:28
+the one we worship as time what we call time the personification of
+1:25:34
+time the one who controls and holds time in his body is mahakal Shiva almost a form of Shiva and one who controls and
+1:25:42
+holds space is Vishnu these are the two entities so the more
+1:25:47
+you go it is like if you if you go into vaishnava theology you'll see that
+1:25:53
+there are Realms of vishnu's para Vishnu para Brahman who's greater greater greater greater greater greater Realms
+1:25:58
+from there he projects his Divine incarnations every cycle when there is a
+1:26:03
+balance that is lost in this plane okay so once you go to those realms is do the
+1:26:09
+great Gods play their role absolutely they're still there there's no doubt about it in that space and specifically
+1:26:15
+uh the concept of space I feel is very strongly linked to the personification
+1:26:22
+of the of the of the of the deity of whom we worship very strongly is Lord Vishnu
+1:26:28
+this is my conception I'm not arguing about it yes or no somebody doesn't
+1:26:34
+believe it that's perfectly fine I'm not even imposing it uh the other thing is that this has a link to the upasana now
+1:26:40
+space may be whatever it is most people if they go into space they'll go crazy there's no sound nothing
+1:26:45
+you have to live with yourself that's the most dangerous thing in the world so you you have to be you are alone
+1:26:53
+but not lonely that's the difference if you force somebody into being alone two days later they'll be lonely lonely
+1:27:00
+means you are craving for company somewhere the other is there no problem that's for that's fine that's normal that's human
+1:27:06
+but once you are you go into that zones you will know that there is also the possibility where you are swast you are
+1:27:15
+you are satisfied in yourself you don't need the single you don't have to see the face of a person and you will not go
+1:27:21
+crazy about it you will remain that same yeah perhaps you'll not speak you'll have to speak so much and then you will
+1:27:27
+have to but it would be a very Blissful existence it's a different matter altogether but it it's possible I'm not saying
+1:27:33
+everybody will do it and everybody should even try many people I know will go completely nuts if they are put into an isolation kind of thing but sometimes
+1:27:41
+it helps in upasana Sri aurobindo when he was put into jail in um
+1:27:47
+solitary confinement only the text he had was the bhagavad-gita and day in and day out history did not this face of a
+1:27:53
+person uh he could see nobody the month he stayed in there and during that state
+1:27:58
+he had tremendous experiences of Krishna and to the extent that that is like a transformative state that happened for
+1:28:04
+months he was he had no human contact solitary confinement in that era in British jail
+1:28:10
+is like strictest thing possible okay no human contact nothing absolutely no
+1:28:16
+human face day after day after day only one text he keep kept reading the Gita over and over and over and over until he
+1:28:22
+had a complete transformation and he had an experience of Krishna where he saw a state of advaitham Oneness with Krishna
+1:28:29
+he saw that everything has become Krishna even the Jailer has Krishna even the judge was sitting as Krishna even the even the jail the rods of his energy
+1:28:36
+Krishna okay and then he comes out a completely trans he's a saint comes out from there so uh space
+1:28:43
+has a link to this is the outer space there's another
+1:28:48
+space inside okay yeah that space uh it's very difficult to explain that but
+1:28:54
+if somebody enters into that space there is that is where the Divine the deity will
+1:29:01
+stay invoking the pranas okay inside the human body the most Divine part is only
+1:29:08
+two one is deep inside the heart deep inside mind you not the surface the surface heart has all sorts of emotions
+1:29:14
+desires likings disliking dislikings it's the emotional body it's useless behind that deep inside somewhere in the
+1:29:21
+yogic process somebody goes very deep uh you will attain Enter space
+1:29:26
+very different that's like a space where the gods can play that's pure enough to hold the deities but devatha will not
+1:29:33
+come into a place that is not pure it will not even touch that space and the other is domain this is where we
+1:29:40
+have in yoga called the Vishnu granthi you open that's not it's a guardian not of
+1:29:45
+it gets pierced by Shakti Kundalini call it or whatever
+1:29:50
+else you want to call it a Consciousness it's Pierce and then you experience something Divine Indescribable Bliss
+1:29:59
+gives you Bliss in the long run I'm not saying everybody who's doing is attaining to it then
+1:30:05
+there is rudra is here something [Music] um and not opens up and you enter a space
+1:30:13
+you go beyond time he's the controller of time maybe access to higher dimensions
+1:30:20
+it's not even higher Dimensions it's yeah higher but this is the highest Dimension this is the domain where even
+1:30:26
+the world is all this we talked about this they also don't have permission to enter those puzzles and if somebody has
+1:30:33
+activated either of these two either this is more difficult by the way to to open the rudraganthi and
+1:30:40
+experience that to open the Vishnu granthi and experience that space inside that individual
+1:30:46
+ever protected he can stand in the middle of 100 asuras they will not even dare touch him
+1:30:51
+because that protection is very different I have a thousand more questions in my head and I've got a strong intuition to
+1:30:58
+stop maybe it's just for saving content for later maybe it's because in this piece only
+1:31:04
+this much is meant to come out um I know all my questions and I can't see them you know so I don't know what we've
+1:31:12
+done today sir Trilogy has come to an end uh I don't know how do you feel about this
+1:31:18
+it was wonderful it was wonderful this is what is satsang speaking of the Divine
+1:31:24
+it makes you feel elevated that is what the Saints used to say satsanga go to
+1:31:30
+Good Company listen to good things it will Elevate you yeah
+1:31:35
+um and it's happening on kalber of jnd yeah this is a very auspicious day very very
+1:31:41
+auspicious day and may the blessings of Lord wherever we with everybody who listens to this podcast yeah uh thank
+1:31:48
+you so and looking forward to speaking to you again feeling a lot of calm Namaste thank you
+1:31:55
+that was three-part special on Tantra and the Occult and now you're as blown away as I
+1:32:02
+was on the day that we recorded this one imagine having these three conversations
+1:32:08
+on the same day my head was spinning at night it was just too much heaviness to take in too
+1:32:15
+much information to take in and it's been more than a month and a half since we've recorded these episodes I'm
+1:32:22
+still absolutely Blown Away by sir's knowledge by his perspectives I kind of feel that this was one of the most
+1:32:28
+important episodes in the entire TRS Journey I'm just so glad I get to share it with you guys having these raw open
+1:32:34
+conversations learning so much sharing all the learning with y'all um
+1:32:40
+sanjit who was sitting here we talk about this day a lot this day where rajashi sir came and taught us all this
+1:32:46
+stuff podcasts value in your life is only as good as your retention skills so try retaining the knowledge that you're
+1:32:53
+picking up from the ranveer show make sure you follow the rendition on Spotify every episode's available on
+1:32:59
+Spotify 48 hours before it's available anywhere else in the world and remember if you're not feeling all
+1:33:05
+right as the world of Tantra tells us light always has the power to overcome
+1:33:11
+Darkness begin your own meditation Journey spiritualize yourself we've built out an app level for the
+1:33:18
+last two years because my intention was to put out the learnings and the benefits that I gained from meditation
+1:33:25
+I wanted to put it out to the audience that I am growing with the link is given down below make sure you check it out
+1:33:31
+it's available on the App Store on the Play Store I've recorded lots of meditations myself
+1:33:37
+and for me uh this is possibly my life's most important project till date
+1:33:42
+so enjoy level thank you for listening to this trilogy lots more coming up with rajashi than
+1:33:48
+diesel [Music]

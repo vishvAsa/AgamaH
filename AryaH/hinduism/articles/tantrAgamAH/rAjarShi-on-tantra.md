@@ -82,10 +82,13 @@ tantra - upAsanA-technique, aimed at communion with the deity. Very little darsh
 - Populated by beings - Some benevolent, some malevolent. Some indifferent to you.
   - gandharva-s - very knowledgeable, singers
   - kinnara-s - dancers
-  - bhUta-s, pishAcha-s, rAxasa-s
+  - bhUta-s
+  - pishAcha-s - confined to spaces, with foul odor, very negative energy.
+  - rAxasa-s
   - asura-s. Great capacity for tapasya, very intelligent.
 - So, there are certain zones you would be careful of entering.
   - E.g. Burari case - malevolent entity in the form of an ancestor caused family suicide.
+- Before a deva, one of his gaNa-s make come to check someone out.
 
 ### kuNDalinI
 - a divine energy that is there to a degree in every individual who is born.
@@ -118,4 +121,4 @@ tantra - upAsanA-technique, aimed at communion with the deity. Very little darsh
 
 ## Teachers
 - Siddha-puruSha-s are almost like deva-s. If you are up to 60-65 (out of 100) only, You will already become pretty well known and famous. But beyond 60, beyond 70, beyond 80, those who go, they normally do not, they keep themselves very wrapped.
-
+- uttara-sAdhakas can be helpful as well.
