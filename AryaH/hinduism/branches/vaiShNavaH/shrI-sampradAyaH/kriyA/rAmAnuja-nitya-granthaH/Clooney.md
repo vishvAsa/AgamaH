@@ -423,41 +423,37 @@ The Prayer from the “Prose Prayer of Taking Refuge” (Śaraṇāgatigadyam)53
 Indicated by Rāmānuja in Section IV of the Nityam 
 
 akhila-heya-pratyanīka-kalyāṇa-ekatāna-sva-itara-samastavastu vilakṣaṇa-ananta-jñānānanda-eka-svarūpa! 
-Your proper form is opposite to all that is to be avoided and focused solely on the auspicious, different from all beings other than Yourself, solely intelligence and bliss without limit!54 
+
 sva-abhimata-anurūpa-ekarūpa-acintya-divyādbhuta-nitya-niravadya niratiśaya-aujjvalya-saundarya-saugandhya-saukumārya-lāvaṇya yauvanādi-ananta-guṇanidhi-divyarūpa! 
-Your divine form is a single form appropriate and pleasing to Yourself, a treasury of unimaginable, divine, wonderful, permanent, flawless, unsurpassed qualities—begin ning with splendor, beauty, fragrance, tenderness, handsome demeanor, and youth! 
+
 sva-bhāvika-anavadhika-atiśaya-jñāna-bala-aiśvarya-vīrya-śakti-tejaḥ- sauś¯lya-va ı ¯tsalya-mārdava-ārjava-sauhārda-sāmya-kāruṇya-mādhurya gāmbhīrya-audārya-cāturya-sthairya-dhairya-śaurya-parākrama satyakāma-satyasaṁkalpa-kr̥titva-kr̥tajñatādi-asaṇkhyeyakalyāṇa guṇagaṇaugha-mahārṇava! 
-You are a great ocean of the host of innumerable auspicious qualities, all by nature Yours, flawless and superabundant—beginning with intelligence, strength, lordship, valor, power, radiance, easy accessibility, tenderness, gentleness, straightforward ness, goodheartedness, sameness, compassion, sweetness, profoundness, generosity, adroitness, firmness, fortitude, heroic valor, boldness, all desires fulfilled, all intentions realized, the capability to carry out all resolves, helpfulness and gratitude! 
+
 sva-ucita-vividha-vicitra-ananta-āścarya-nitya-niravadya-niratiśaya sugandha-niratiśaya-sukhasparśa-niratiśaya-aujjvalya-kirīṭa-makuṭa cūḍāvataṁsa-makara-kuṇḍala-graiveyaka-hāra-keyūra-kaṭaka-śrīvatsa kaustubha-muktādāma-udarabandhana-pītāmbara-kāñcī-guṇa nūpurādi-aparimita-divyabhūṣaṇa! 
-Yours are innumerable divine ornaments, appropriate to Your own self, of various kinds and types, and endless, wonderful, eternal, flawless and unsurpassed, unsurpassed in fragrance, unsurpassed in softness of touch, unsurpassed in dazzling brilliance— beginning with an imperial crown, a crest jewel, ear-rings shaped like the shark, a 
-53 This is my translation, though I have benefited from consulting the translation of Ramanujam (2002). For the Sanskrit, I have followed Ramanujam and also consulted Krishnaswami Ayyangar (1976). The following prayer is counted as number 5 in most editions of the Gadyam. 
-54 Throughout, I use exclamation points to mark vocatives. 
-123
-Rāmānuja’s Nityagrantham (“Manual of Daily Worship”): A Translation 377 
-necklace, pearl garlands, armlets, bracelets, the śrīvatsa mark, the kaustubha gem, a waistband made of a string of pearls, a raiment of yellow silk, girdle and anklets, 
+
 sva-anurūpa-acintya-śakti-śaṇkha-cakra-gadā-asi-śārṇgādi-asaṇkhyeya nitya-niravadya-niratiśaya-kalyāṇa-divyāyudha! 
-Yours are abundant divine weapons, innumerable, eternal, flawless and unsurpassed in auspiciousness, suited to Yourself, and of unimaginable potency—beginning with the conch, discus, club, sword, and bow! 
-sva-abhimata-nitya-niravadya-anurūpa-svarūpa-rūpa-guṇa-vibhava aiśvarya-ś¯la-a ı ¯di-anavadhika-atiśaya-asaṇkhyeya-kalyāṇa-guṇa-gaṇa śrīvallabha! Beloved consort of Śrī, who as a host of innumerable auspicious qualities, flawless and superabundant, pleasing to Herself, eternal, flawless and appropriate—beginning with proper form, forms, qualities, powers, sovereign rule, and generosity! 
+
+sva-abhimata-nitya-niravadya-anurūpa-svarūpa-rūpa-guṇa-vibhava aiśvarya-ś¯la-a ı ¯di-anavadhika-atiśaya-asaṇkhyeya-kalyāṇa-guṇa-gaṇa śrīvallabha! 
+
+
 evambhūta-bhūmi-nīlā-nāyaka! 
-You are the consort of Bhūmī and Nīlā who are like Śrī! 
+ 
 svaccandānuvarti-svarūpa-sthiti-pravr̥tti-bheda-aśeṣaśeṣatā-ekarati-rūpa nitya-niravadya-niratiśaya-jñāna-kriyā-aiśvaryādi-ananta-kalyāṇa-guṇa gaṇa-śeṣa-śeṣāśana-garuḍa-pramukha-nānāvidha-ananta-parijana paricārikā-paricarita-caraṇayugal˙a! 
-Your feet are eternally waited upon by varied and unlimited male and female attendants—first of all Śeṣa, Viṣvaksena, and Garuḍa—whose differences in proper form, continuation, and activity are in accord with Your will, who are of such a nature as find their sole pleasure in being unconditionally dependent, who have a host of endless auspicious qualities—beginning with eternal, flawless and unsur passed knowledge, activity, and lordship! 
+
 paramayogi-vāṇmanasā aparicchedhya-svarūpa-svabhāva! 
-Your proper form and proper nature are beyond the limits of the words and minds of the highest yogis! 
-svābhimata-vividha-vicitra-ananta-bhogya-bhogopakaraṇa-bhogasthāna-samr̥d dha-ananta-āścarya-ananta-mahāvibhava-ananta-parimāṇa-nitya-niravadya niratiśaya-vaikuṇṭhanātha! You are the Lord of Vaikuṇṭha, eternal, flawless and unsurpassed, of endless measure, of endless great glory, endless in amazement, with objects of enjoyment and instruments of enjoyment endless in kind and variety, all pleasing to You. 
+
+svābhimata-vividha-vicitra-ananta-bhogya-bhogopakaraṇa-bhogasthāna-samr̥d dha-ananta-āścarya-ananta-mahāvibhava-ananta-parimāṇa-nitya-niravadya niratiśaya-vaikuṇṭhanātha!  
 
 123
 378 Francis X. Clooney 
 
 svasaṁkalpa-anuvidhāyi-svarūpa-sthiti-pravr̥tti-svaśeṣatā-eka-svabhāva prakr̥ti-puruṣa-kāla-ātmaka-vividha-vicitra-ananta-bhogya-bhoktr̥varga bhoga-uāpakaraṇa-bhogasthānarūpa-nikhila-jagad-udaya-vibhava-laya līla! 
-Your play consists in the arising, enduring, and dissolution of the whole world which in form is comprised of objects of enjoyment, kinds of enjoyers, instruments of enjoyment, and places of enjoyment, all endless in kind and variety, made of primal matter, person, and time, whose sole proper nature is to be dependent in proper form, continuation, and activity, in accord with Your intentions, 
-satyakāma! satyasaṁkalpa! parabrahmabhūta! puruṣottama! mahāvibhūte! śrīman! nārāyaṇa! śrīvaikuṇṭha-nātha! apāra-kāruṇya-sauś¯lya-va ı ¯tsalya audārya-aiśvarya-saundarya-mahodadhe! anālocitaviśeṣa aśeṣaloka-śaraṇya! praṇatārtihara! āśritavātsalya-ekajaladhe! anavaratavidita-nikhilabhūtajāta-yāthātmya! aśeṣacarācarabhūta-nikhila niyamana-nirata! aśeṣacidacidvastu-śeṣibhūta! nikhilajagadādhāra! akhilajagat-svāmin! asmat-svāmin! satyakāma! satyasaṁkalpa! sakala itara-vilakṣaṇa! arthikalpaka! āpatsakha! 
-You have all desires fulfilled! Your intentions are ever realized! The supreme Brahman! The highest Person! Possessed of great glory! With Śrī! Nārāyaṇa! Lord of Vaikuṇṭha! Great ocean of measureless compassion, good disposition, affection, generosity, lordship and beauty! The refuge of the whole world without remainder, with no consideration of distinctions! You dispel the distress of those offering obeisance to You! You are a unique ocean of tenderness for those taking refuge! You are the reality of all beings ever known to You! You are intent upon ordering all moving and unmoving beings without exception! You are the one to whom belong without remainder all conscious and non-conscious beings! The Lord of the whole world! Our Lord! You have all desires fulfilled! Your intentions are ever realized! Different from all other beings! The wishing tree for those in want! Friend of those in distress! 
+
+satyakāma! satyasaṁkalpa! parabrahmabhūta! puruṣottama! mahāvibhūte! śrīman! nārāyaṇa! śrīvaikuṇṭha-nātha! apāra-kāruṇya-sauśīlya-vātsalya audārya-aiśvarya-saundarya-mahodadhe! anālocitaviśeṣa aśeṣaloka-śaraṇya! praṇatārtihara! āśritavātsalya-ekajaladhe! anavaratavidita-nikhilabhūtajāta-yāthātmya! aśeṣacarācarabhūta-nikhila niyamana-nirata! aśeṣacidacidvastu-śeṣibhūta! nikhilajagadādhāra! akhilajagat-svāmin! asmat-svāmin! satyakāma! satyasaṁkalpa! sakala itara-vilakṣaṇa! arthikalpaka! āpatsakha! 
+
+
 śrīman! nārāyaṇa! aśaraṇya-śaraṇya! ananyaśaraṇaḥ tvatpādāravindayugal˙am śaraṇam aham prapadye 
-You are with Śrī! Nārāyaṇa! Refuge of those without refuge! And I, who have no other refuge, surrender at Your lotus feet. (5) 
+
 atra dvayam 
-Here the dvayam,55 
-55 That is, here one recites the dvaya-mantra, the quintessential mantra of surrender or taking refuge. 123
 
 
 ## References 
