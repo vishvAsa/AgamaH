@@ -1,7 +1,10 @@
 +++
-title = "+रङ्गरामानुजः"
+title = "+कोऴियाल-रङ्गरामानुजः"
 +++
 
+Sri Kozhiyalam Swamy (Sri Rangaramanuja Maha Desikan, abhinava-rAmAnuja), who lived from 1882 to 1961. Sri Kozhiyalam Swamy was a famous ascetic because of his erudition and very rigorous daily routine. He has authored many independent and thought provoking works in Sanskrit and in Tamil.
+
+Prominent disciples were Sri Ananthasayanam Iyengar and Vaikuntavasi U.Ve Vidwan Uttamur Viraghavacharya Swamy (← abhinava-deshika).
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
