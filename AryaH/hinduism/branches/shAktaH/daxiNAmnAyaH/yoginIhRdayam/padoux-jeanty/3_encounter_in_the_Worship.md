@@ -1611,7 +1611,7 @@ must be worshipped.
 
 Tripurāśrīmeans “prosperity of the three cities,” that is, of the three worlds *—* of the universe, in other words. The purifi cation of the mantras, it is explained, results from the prolongation of their utterance \( *uccāra* \) *—*
 
-in the case of *O Ṃ * , *HRīṂ , * etc. *—* from the fi nal *Ṃ * to the transmental \( *unmanā* \) plane, where the utterance disappears in the utter silence of the Absolute. If the adept is able to ascend to such a supreme level, he acquires the supernatural power to subjugate all beings \( *ī śitva* \). 
+in the case of *O Ṃ * , *HRĪṂ , * etc. *—* from the fi nal *Ṃ * to the transmental \( *unmanā* \) plane, where the utterance disappears in the utter silence of the Absolute. If the adept is able to ascend to such a supreme level, he acquires the supernatural power to subjugate all beings \( *ī śitva* \). 
 
 Worship in the sixth \(ten-angled\) *cakra* , Sarvarakṣākara, is as follows: O Goddess\! the phonemes *KA* , etc., as they expand, are manifested by the *kuṇḍalinī* facing upward and \[then\] downward //147// when she externalizes herself by the will of Kula. They are manifested by the supreme interior Yogin 
 
@@ -2133,7 +2133,7 @@ to the heart
 This conception of the *kuṇḍalinī* as in three sections that have respectively the nature of fi re, sun, and moon is found in several Tantric Śaiva texts. Its point seems to be to give a cosmic dimension to the ascent of the *kuṇḍalinī* . 
 
 148
-Now the adept is to imagine that in the *mūlādhāra* lies the fi rst part, or *kūṭa* , of the *ṣ rīvidyā* , *HA SA KA LA HRīṂ * . Then, in the heart *cakra* , is the second *kūṭa* , *HA SA KA HA LA HRīṂ * ; and in the *bhrūmadhyā* is the third *kūṭā* , *SA KA LA HRīṂ * . The enunciation of these three *HRīṂ * , like that of all *bījas* ending with *Ṃ * \( *bindu* \), is deemed \(as said in *śl. * 170\) to be prolonged by a subtle phonic vibration, the *nāda* , which goes through eight ever subtler phonic stages, the so-called *kalāṣ* , named *ardhacandra* , *rodhinī* , *nāda* , *nādānta* , *śakti* , *vyāpinī* , *samanā* , and *umanā* , with the last, 
+Now the adept is to imagine that in the *mūlādhāra* lies the fi rst part, or *kūṭa* , of the *ṣ rīvidyā* , *HA SA KA LA HRĪṂ * . Then, in the heart *cakra* , is the second *kūṭa* , *HA SA KA HA LA HRĪṂ * ; and in the *bhrūmadhyā* is the third *kūṭā* , *SA KA LA HRĪṂ * . The enunciation of these three *HRĪṂ * , like that of all *bījas* ending with *Ṃ * \( *bindu* \), is deemed \(as said in *śl. * 170\) to be prolonged by a subtle phonic vibration, the *nāda* , which goes through eight ever subtler phonic stages, the so-called *kalāṣ* , named *ardhacandra* , *rodhinī* , *nāda* , *nādānta* , *śakti* , *vyāpinī* , *samanā* , and *umanā* , with the last, 
 
 “transmental,” *kalā* , which fi nally dissolves in the silence of the Absolute. 
 
@@ -2141,7 +2141,7 @@ This being so, the *japa* consists, for the offi
 
 ciant, of the mental enun-
 
-ciation \( *uccāra* \) of the three *kūṭas* of the *śrividyā* , enunciating fi rst their letters, from *SA* or *HA* to the *bindu* , *Ṃ * , then prolonging the *uccāra* of *Ṃ * by the eight *kalās* , from *ardhacandra* to *samanā* , this subtle vibration ascending for the fi rst *kūṭa* from *mūlādhāra* to the heart, for the second *kūṭ* a from the heart to the *bhrūmadhya, * and for the third *kūṭa* from *bhrūmadhya* to the *dvādaśānta* , where it reaches its ultimate form, *unmanā* , the “transmental.” This it does, however, together with the *unmanās* of the two fi rst *HRīṂ * , with which it intermingles \(this is why it is called “modifi ed” in *ṣ l* . 173b\). There the phonic vibration unites with and disappears in the Absolute. The *kalās* are said by the YH to number twelve, because one is to add to the eight subtle ones, *ardhacandra* to *unmanā* , the four elements that constitute *HRīṂ * : *H Rī* \+ *bindu* . 
+ciation \( *uccāra* \) of the three *kūṭas* of the *śrividyā* , enunciating fi rst their letters, from *SA* or *HA* to the *bindu* , *Ṃ * , then prolonging the *uccāra* of *Ṃ * by the eight *kalās* , from *ardhacandra* to *samanā* , this subtle vibration ascending for the fi rst *kūṭa* from *mūlādhāra* to the heart, for the second *kūṭ* a from the heart to the *bhrūmadhya, * and for the third *kūṭa* from *bhrūmadhya* to the *dvādaśānta* , where it reaches its ultimate form, *unmanā* , the “transmental.” This it does, however, together with the *unmanās* of the two fi rst *HRĪṂ * , with which it intermingles \(this is why it is called “modifi ed” in *ṣ l* . 173b\). There the phonic vibration unites with and disappears in the Absolute. The *kalās* are said by the YH to number twelve, because one is to add to the eight subtle ones, *ardhacandra* to *unmanā* , the four elements that constitute *HRĪṂ * : *H Rī* \+ *bindu* . 
 
 This *japa* is thus not a recitation but a purely mental mantric utterance \( *mantroccāra* \), conceived by the adept as carrying upward the three parts of the *śrīvidyā* , through the *cakras* of his yogic body united with the constitutive parts of the *śrīcakra* , with the *kuṇḍalinī* and with his mind, to the highest level of sound vibration, where it merges in Mahātripurasundarī, supreme Consciousness. It is a complex, both visual and phonic-mental, process. It is a mental process, we note, that also has a cosmic dimension, since, as it unfolds from distinct syllables to *unmanā* , it includes, with the three 
 
@@ -2185,7 +2185,7 @@ Dividing into groups of three \[the *kalās* of the *uccāra* \] from *agni* to 
 
 Although called “threefold” \( *śūṇyatrayam* \), there are six emptinesses. 
 
-They are linked to the ascending enunciation \( *uccāra* \) of *HRīṂ —* its letters, then its *kalās—* the *śūṇyas* being imagined as nodal points placed on the level of a *kalā* between two others, beginning with the *R* of *HRīṂ *
+They are linked to the ascending enunciation \( *uccāra* \) of *HRĪṂ —* its letters, then its *kalās—* the *śūṇyas* being imagined as nodal points placed on the level of a *kalā* between two others, beginning with the *R* of *HRĪṂ *
 
 \(called *agni* , since *RA* is the *bīja* of fi re\) and ending on the level of *unmanā* , which is in the *dvādaśānta* , as shown in table 3.1 above. 
 
@@ -2208,7 +2208,7 @@ faculties.
 
 The two categories of faculties are the fi ve organs or faculties of apperception \( *jñānendriya* or *buddhīndriya* \), sight, hearing, smell, taste, and touch, and the fi ve senses of action \( *karmendriya* \) corresponding to the functions of speaking, holding, walking, excreting, and copulating. These two categories correspond to two groups of *tattvas* in the classifi cation of the Sāṁkhya, categories that are active in the waking state. A meditative realization, an inner experience of the plane of consciousness corresponding to these sense experiences or activities is probably what the adept is supposed to have in this part of the *japa* . 
 
-The meditative realization of the great wakefulness is to take place “in the fi re” \( *vahnau* \), which is to say, the Dī explains, “in the letter *RA* present on the tip of the third *bīja* ,” 51 that is, in the  *R* of the *HRīṂ * of the third *kūṭa* of the *śrīvidyā—* something we may fi nd diffi
+The meditative realization of the great wakefulness is to take place “in the fi re” \( *vahnau* \), which is to say, the Dī explains, “in the letter *RA* present on the tip of the third *bīja* ,” 51 that is, in the  *R* of the *HRĪṂ * of the third *kūṭa* of the *śrīvidyā—* something we may fi nd diffi
 
 cult to visualize but which is 
 
@@ -2234,7 +2234,7 @@ the senses of action and linked to the internal organs. The internal organ, the 
 
 151
 
-ego \( *ahaṁkāra* \), and the intellect \( *buddhi* \). These are “revealed by *māyā* in the region of the heart,” which is, says the Dī , by the letter  *Ī * 53 of *HRīṂ * to be felt and meditated as present in the region of the heart, which is the 
+ego \( *ahaṁkāra* \), and the intellect \( *buddhi* \). These are “revealed by *māyā* in the region of the heart,” which is, says the Dī , by the letter  *Ī * 53 of *HRĪṂ * to be felt and meditated as present in the region of the heart, which is the 
 
 “region of dream” \( *svapnasya sthānam* \). 
 
@@ -2250,7 +2250,7 @@ ego \( *ahaṁkāra* \), and the intellect \( *buddhi* \). These are “revealed
 
 *Suṣupti* is the state of deep sleep, where no dream appears. All mental activities stop there, because the movements of the internal organ, the *anta ḥ karaṇa* , of which one was conscious in the previous, dream state, have now disappeared. In this state, one is intensely conscious \( *parāmṛśyate* \) only of one’s self \( *svātma* \) and of happiness \( *sukha* \), says the Dī. 
 
-As for the *japa* to be done here, it would consist of meditating on the syllables of the central *kūṭa* of the *śrīvidyā* , the *śaktibīja* , taking them in reverse order, *LA KA SA* , these phonemes being meditated, visualized as being “on the *bindu* placed on the *hṛllekhā* \(on the *Ṃ * of the *HRīṂ * , that is\) which is in the *bhrūmadhyacakra* ” *—* the *HRīṂ * would thus be imagined as placed there, between the eyebrows. This part of the *japa* , like the others, is a yogic practice based on the structure of the mental image of the yogic body. 
+As for the *japa* to be done here, it would consist of meditating on the syllables of the central *kūṭa* of the *śrīvidyā* , the *śaktibīja* , taking them in reverse order, *LA KA SA* , these phonemes being meditated, visualized as being “on the *bindu* placed on the *hṛllekhā* \(on the *Ṃ * of the *HRĪṂ * , that is\) which is in the *bhrūmadhyacakra* ” *—* the *HRĪṂ * would thus be imagined as placed there, between the eyebrows. This part of the *japa* , like the others, is a yogic practice based on the structure of the mental image of the yogic body. 
 
 \[The meditation\] of *turya* is the grouping together there of the half-circle, etc. //179// Being the cause of the manifestation of consciousness, \[this state\] is knowledge of the nature of the *nāda. * 
 
@@ -2317,9 +2317,9 @@ What is called *nā ḍīviṣuva* is produced by the phoneme when the twelve *g
 
 *dvādaśagranthibhedena varṇād nāḍyantare priye* / 
 
-The phoneme \( *varṇa* \), says the Dī , is the *kāmakalā akṣara—* the letter *Ī —* present on the apex of the three *kūṭas* , the letter *Ī * , that is, of the three *HRīṂ * of the *śrīvidyā* . This phoneme is to pierce the twelve *granthis* , the 
+The phoneme \( *varṇa* \), says the Dī , is the *kāmakalā akṣara—* the letter *Ī —* present on the apex of the three *kūṭas* , the letter *Ī * , that is, of the three *HRĪṂ * of the *śrīvidyā* . This phoneme is to pierce the twelve *granthis* , the 
 
-“knots,” namely the six *cakras* , from *mūlādhāra* to *brahmarandhra* and six intermediary knots, tiered along the *suṣumnā nā ḍī* . This ascending movement is associated with the equally ascending subtle phonic vibration, the *nāda* , of the three *HRīṂ * , as we have seen in the fi rst *japa. * ; It is, in fact, practically the same mental yogic practice, with the same spiritual eff ect. 
+“knots,” namely the six *cakras* , from *mūlādhāra* to *brahmarandhra* and six intermediary knots, tiered along the *suṣumnā nā ḍī* . This ascending movement is associated with the equally ascending subtle phonic vibration, the *nāda* , of the three *HRĪṂ * , as we have seen in the fi rst *japa. * ; It is, in fact, practically the same mental yogic practice, with the same spiritual eff ect. 
 
 Conjunction with the *nāda* , the *praśānta* \[ *viṣuva* \] falls within the range of the appeased senses. //184// One is to meditate the fi re, 
 
@@ -2336,7 +2336,7 @@ Conjunction with the *nāda* , the *praśānta* \[ *viṣuva* \] falls within th
 
 ciant who thus feels appeased as he evokes mentally 
 
-this ascent of the phonic *kalās* of *HRīṂ * along the way of the *kuṇḍalinī. * 
+this ascent of the phonic *kalās* of *HRĪṂ * along the way of the *kuṇḍalinī. * 
 
 The *viṣuva* named *śakti* is above her. \[It consists of \] applying one’s thought to the *nāda* . Still above this is the *kālaviṣuva* , which extends up to *unmanā* , O Maheśvarī\! //186// The perception of the *nāda* 
 
@@ -2350,7 +2350,7 @@ The *viṣuva* named *śakti* is above her. \[It consists of \] applying one’s
 
 The *śaktiviṣuva* is “above *śakti* ” because it is to be meditated as extending up to the *samanā kalā. * The *kālaviṣuva* , the *viṣuva* of time, is still above it, since the adept is to consider its meditation as reaching the supreme level of *unmanā* , which transcends time. 
 
-The Dī explains that *muni* means seven, and *candra* means one. If one adds eight and ten, the length of the *uccāra* of the *vidyā* from the *HA* of *HRīṂ * to *unmanā* would be ten thousand eight hundred seventeen *tuṭis* , a *tuṭi* being an extremely small division of time; it is described in a text quoted by the Dī as a hundredth part of the twinkling of the eye. 
+The Dī explains that *muni* means seven, and *candra* means one. If one adds eight and ten, the length of the *uccāra* of the *vidyā* from the *HA* of *HRĪṂ * to *unmanā* would be ten thousand eight hundred seventeen *tuṭis* , a *tuṭi* being an extremely small division of time; it is described in a text quoted by the Dī as a hundredth part of the twinkling of the eye. 
 
 The equalization which is the cause of the manifestation of consciousness is called *tattva* \[ *viṣuva* \]. //187// 
 

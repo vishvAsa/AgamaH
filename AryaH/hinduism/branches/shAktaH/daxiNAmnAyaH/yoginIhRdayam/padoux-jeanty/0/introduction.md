@@ -313,12 +313,17 @@ The YH, however, is not a philosophical treatise aiming at expounding particular
 ## Cakrasaṁketa
 Chapter 1: * Cakrasaṁketa \(86 ślokas \) * *
 
+### On śrīcakra
 The YH does not say here how to draw the *śrīcakra* \(nor does Amṛtānanda in the Dī \). It describes how it appears as an outward manifestation of the power of the Goddess, who is deemed to have agreed with her consort, Śiva, to be present with him in the *śrīcakra* , hence the title of the chapter, *Cakrasaṁketa* . What is described is a cosmic process bringing about the existence of the *cakra* that embodies this process and mediates it to the *sādhaka* who is to visualize mentally its aspect and its dynamism through an intense identifying form of meditation called *bhāvanā* . [^27] 
 
 [^27]: *Bhāvanā* is a very important practice in the universe of Tantra. The term is derived from the causative form of the Sanskrit verbal root *BHU* , to cause to exist \( *bhāvyate* \). It designates a practice consisting of evoking mentally the image of a deity with the same precision as a concrete image or creating, by calling it intensely to mind, any image, vision, or thought, thus identifying the meditating person with the subject or theme being meditated. It differs from *dhyāna* in its intensity and identifying power and in the fact that it creates its object, which is not necessarily the case in *dhyāna*. +++(भेदोऽयं कृत्रिमो भाति।)+++ Its role is fundamental in Tantric mental practices, spiritual life, and ritual. As is well known, in Tantrism, *dhyāna* designates meditation but also, and more important, the mental visualization of a deity as described in stanzas of ritual manuals called *dhyānaślokas*. 
 
+### Unfolding of śrīcakra
+After presenting the dialogue, in the Absolute, between the Goddess and Bhairava, which makes up the text of the YH, the chapter first describes the cosmic unfolding of the *śrīcakra* from the central *bindu* to the outer square \( *śl* . 10–21\). 
 
-After presenting the dialogue, in the Absolute, between the Goddess and Bhairava, which makes up the text of the YH, the chapter first describes the cosmic unfolding of the *śrīcakra* from the central *bindu* to the outer square \( *śl* . 10–21\). Then the adept, following a reverse movement, since he is a human being, is to visualize and perceive within himself the three main constituent parts of the *cakra* , going from the outer square to the center. Now, once the meditation of the *sādhaka* has reached the central *bindu* , he is to evoke and follow mentally the ascending levels of phonic energy \(the *kalās* , “parts”\), from *ardhacandra* to *unmanā* , of the utterance \( *uccāra* \) [^28] of the *bīja HRīṂ* , the basic mantra of the Goddess. 
+
+### Oral domain
+Then the adept, following a reverse movement, since he is a human being, is to visualize and perceive within himself the three main constituent parts of the *cakra* , going from the outer square to the center. Now, once the meditation of the *sādhaka* has reached the central *bindu* , he is to evoke and follow mentally the ascending levels of phonic energy \(the *kalās* , “parts”\), from *ardhacandra* to *unmanā* , of the utterance \( *uccāra* \) [^28] of the *bīja HRĪṂ* , the basic mantra of the Goddess. 
 
 [^28]: *Uccāra* is an utterance of a mantra that is both an enunciation and an upward thrust of the phonic subtle sound, the *nāda* , of the mantra in the body of the mantrin. This ascending phonic movement is often associated with the ascent of *kuṇḍalinī* along the *suṣumnā* ; it is more a yogic practice than a verbal enunciation. This is, notably, the case of the *japa* of the *śrīvidyā* described in the third chapter \( *śl*. 169–188\) of the YH.
 
@@ -326,6 +331,7 @@ The mental process goes thus from the spatial, visual domain of the diagram to t
 
 [^29]: On the levels of *vāc* , see chapter 2, *śl. * 63, and n. 25 ad loc.
 
+### mudrā
 He is to conceive the *śrīcakra* as being the universe produced by the will \( *icchā* \) of the deity, a will that is eventually to become action \( *kriyā* \) and which is then *mudrā* “because it rejoices \[ *mud* \] the universe and makes it flow \[ *rā* \].” [^30] 
 
 [^30]: See the commentary and notes to *śl*. 1.57.
@@ -334,38 +340,52 @@ Stanzas 57–71 then describe ten *mudrās* that are both ritual hand gestures a
 
 Other meditations on the *śrīcakra* are then prescribed, all meant to help the adept to realize the metaphysical import of the diagram as the form the Goddess takes on in her cosmic creative \(and destructive\) play; added to the preceding ones, this *bhāvanā* will lead him to liberation. 
 
+## Mantrasaṁketa
 * Chapter 2: * Mantrasaṁketa \(85 ślokas \) 
 
-Although this chapter is entirely based on the phonetic pattern of the *śrīvidyā* \(in which the Goddess and Śiva have agreed to meet; this is the 
+### Clusters
+Although this chapter is entirely based on the phonetic pattern of the *śrīvidyā* \(in which the Goddess and Śiva have agreed to meet; this is the *saṁketa* of the chapter’s name\), its syllabic composition—its [[15]] “extraction,” *uddhāra* , [^31] as it is usually called—is not given. 
 
-*saṁketa* 
+[^31]: The *uddhāra* of a mantra is the ritual procedure by which one “extracts”\( *ud-DHRī*\) its constituent syllables from the ensemble of the Sanskrit [[166]] alphabet, this being displayed, according to particular rules, on a consecrated surface or placed in a particular order in a diagram called *prastāra* \(“display”\) or *gahvara* \(“cavern” or “hiding place”\). This permits revealing the composition of the mantra only to initiates who know how to “extract” the syllables thus hidden. The *uddhāra* can also consist of listing the syllables of a mantra, giving them conventional, theoretically secret names, or by alluding esoterically to them.
 
-of the chapter’s name\), its syllabic composition—its 
+In this, the YH differs from its parent text, the NṣA, which does give it. It appears, however, that the *śrīvidyā* is considered to be made up of fifteen syllables grouped in three clusters, as follows: 
 
-* Introduction *
+- *HA SA KA LA HRĪṂ* 
+- *HA SA HA KA LA HRĪṂ* 
+- *SA KA LA HRĪṂ * . 
 
-15
+This is, as we have said, the *śrīvidyā * in the so-called *hādi* form, because it begins with *HA* . There is also another form, called *kādi* \(because the fi rst cluster begins with *KA* \): *KA E I LA HRĪṂ * . These two forms are used in two Tripurā traditions called, respectively, *hādi-mata* and *kādi-mata* , which seem to have existed from comparatively ancient times since they are mentioned by such authors as Śivānanda \(13th c.\). [^32] 
 
-“extraction,” *uddhāra* , 31 as it is usually called—is not given. In this, the YH diff ers from its parent text, the NṣA, which does give it. It appears, however, that the *śrīvidyā* is considered to be made up of fi fteen syllables grouped in three clusters, as follows: *HA SA KA LA HRīṂ • HA* *SA HA KA LA HRīṂ • SA KA LA HRīṂ * . This is, as we have said, the *śrīvidyā * in the so-called *hādi* form, because it begins with *HA* . There is also another form, called *kādi* \(because the fi rst cluster begins with *KA* \): *KA E I LA HRīṂ * . These two forms are used in two Tripurā traditions called, respectively, *hādimata* and *kādimata* , which seem to have existed from comparatively ancient times since they are mentioned by such authors as Śivānanda \(13th c.\). 32 The three clusters of the *śrīvidyā* 
+[^32]: There are, in fact, various other forms, made of three clusters but of varying length, quoted notably in Purṇānanda’s *Śrītattvacintāmaṇi*.
 
-are called *kūṭa* , which means “summit” or “group”; they are also called *bīja* or *piṇḍa* . 
+The three clusters of the *śrīvidyā* are called *kūṭa* , which means “summit” or “group”; they are also called *bīja* or *piṇḍa* . 
 
-The *mantrasaṁketa* ’s purpose is to give six diff erent “meanings” \( *artha* \) by means of allegorical symbolical interpretations of its syllables—that is, to expound six diff erent ways to understand, perceive, and experiment by *bhāvanā* its inner nature and hidden meaning, a practice that will lead the *sādhaka* toward liberation. These interpretations are abstruse and often far-fetched, and we have not always understood them in spite of help received from Professor V. V. Dvivedi of Varanasi. 
+### Meanings
+The *mantrasaṁketa*’s purpose is to give six different “meanings” \( *artha* \) by means of allegorical symbolical interpretations of its syllables—that is, to expound six different ways to understand, perceive, and experiment by *bhāvanā* its inner nature and hidden meaning, a practice that will lead the *sādhaka* toward liberation. These interpretations are abstruse and often far-fetched, and we have not always understood them in spite of help received from Professor V. V. Dvivedi of Varanasi. 
 
+### Mantras
 The chapter begins by enumerating the *vidyās* \(i.e., mantras\) of the nine *cakreśvarīs* , the regent deities of the nine parts of the *śrīcakra* , which the adept must place by *nyāsa* on nine parts of his yogic body and worship there as present in the nine constitutive *cakras* of the *śrīcakra. * 
 
-Then is expounded the fi rst *artha* , the *bhāvārtha* \( *śl. * 16–25\). It is based on symbolical values given to the syllables of the *vidyā* , the three parts of which are described as resulting from the union of Śiva and Śakti, from whose interactive union \( *saṁghaṭṭa* \) 33 the “flow,” the creative play of the mantra, is deemed to issue. This very flow expressed by the phonetic constituents of the *śrīvidyā* , manifests, sustains, animates, and ultimately reabsorbs the cosmos, a process the adept must experience spiritually through a *bhāvanā* in which the three parts of the mantra are experienced as fused with his *kuṇḍalinī* . The power of the *vidyā* also takes on here the form of the *kāmakalā * \( *śl* . 21–25\), a diagram whose symbolism, based on the sexual union of Śiva and Śakti, is both visual and phonic. 34 
+### bhāvārtha
+Then is expounded the first *artha* , the *bhāvārtha* \( *śl. * 16–25\). It is based on symbolical values given to the syllables of the *vidyā* , the three parts of which are described as resulting from the union of Śiva and Śakti, from whose interactive union \( *saṁghaṭṭa* \) [^33] the “flow,” the creative play of the mantra, is deemed to issue. 
 
-The *saṁpradāya artha* , the “traditional meaning” \( *śl* . 26–48\) shows how the cosmic process is pervaded by the *śrīvidyā* , that is, by the united Śiva and Śakti. To this eff ect, the YH explains how the constitutive elements of 
+[^33]: On this important term, see YH 1.67 and its commentary.
 
-16
-the universe— *tattvas, guṇas* , *prāṇas* , and so forth, even the gods—come to be manifested. All of this is grasped and experienced by *bhāvanā* . 
+This very flow expressed by the phonetic constituents of the *śrīvidyā* , manifests, sustains, animates, and ultimately reabsorbs the cosmos, a process the adept must experience spiritually through a *bhāvanā* in which the three parts of the mantra are experienced as fused with his *kuṇḍalinī* . The power of the *vidyā* also takes on here the form of the *kāmakalā * \( *śl* . 21–25\), a diagram whose symbolism, based on the sexual union of Śiva and Śakti, is both visual and phonic. [^34] 
 
-The *nigarbha artha* 
 
-, the “inner meaning,” very briefl y considered,\( *śl* . 48–51\), is the essential oneness of Śiva, the guru, and the self of the *sādhaka* , who is to realize it by *bhāvanā* , thanks also to his devotion and to the power of the guru’s gaze \( *nirīkṣaṇa* \). 35 
+[^34]: The basic work on the *kāmakalā* is Puṇyānanda’s *Kāmakalāvilāsa* , which was edited and translated by Arthur Avalon in 1922 \(reprint Madras: Ganesh & Co., 1953\). A careful and interesting study of this diagram is found in chapter 4 of David G. White’s *Kiss of the Yoginī: “Tantric Sex” in Its South Asian Contexts* \(Chicago: University of Chicago Press, 2003\).
 
-The *kaulikārtha* , the Kula meaning of the *vidyā* \( *śl* . 51–68\), is meant to bring about a realization by the adept of the essential oneness of the *cakra* , the godhead, the *vidyā* , the guru, and his own self. The *śrīcakra* is shown as being born from the phonemes of the *vidyā* ; as being the cosmic, essential body \( *vapus* \) of the Goddess; and as having the *vidyā* as its essential nature. The Goddess is described as present in the cosmos as fi ve diff erent groups of divine aspects or entities, Yoginīs and so on. The adept is to realize and experience by *bhāvanā * that all of this is present in the *cakra* and in the *vidyā* and in his own body and that of the guru. To realize this is to gain liberation. 
+### saṁpradāya artha
+The *saṁpradāya artha* , the “traditional meaning” \( *śl* . 26–48\) shows how the cosmic process is pervaded by the *śrīvidyā* , that is, by the united Śiva and Śakti. To this effect, the YH explains how the constitutive elements of [[16]] the universe— *tattvas, guṇas* , *prāṇas* , and so forth, even the gods—come to be manifested. All of this is grasped and experienced by *bhāvanā* . 
+
+### nigarbha artha
+The *nigarbha artha*, the “inner meaning,” very briefly considered,\( *śl* . 48–51\), is the essential oneness of Śiva, the guru, and the self of the *sādhaka* , who is to realize it by *bhāvanā* , thanks also to his devotion and to the power of the guru’s gaze \( *nirīkṣaṇa* \). [^35] 
+
+[^35]: *Nirīkṣaṇa* , also called *dṛṣṭipāta* \(“the casting of a glance”\), as a means to influence, harm, or else help spiritually, plays an important role in Indian religious or magic practice. The compassionate glance of the guru helps his disciple.
+
+### kaulikārtha
+The *kaulikārtha* , the Kula meaning of the *vidyā* \( *śl* . 51–68\), is meant to bring about a realization by the adept of the essential oneness of the *cakra* , the godhead, the *vidyā* , the guru, and his own self. The *śrīcakra* is shown as being born from the phonemes of the *vidyā* ; as being the cosmic, essential body \( *vapus* \) of the Goddess; and as having the *vidyā* as its essential nature. The Goddess is described as present in the cosmos as five different groups of divine aspects or entities, Yoginīs and so on. The adept is to realize and experience by *bhāvanā* that all of this is present in the *cakra* and in the *vidyā* and in his own body and that of the guru. To realize this is to gain liberation. 
 
 The *sarvarahasya* , the “most secret of all” *arthas* \( *śl* . 69–72\), is secret because it is a most direct way to fusion with the godhead. It is a *kuṇḍalinī* 
 
@@ -509,11 +529,11 @@ Finally comes the *japa* , the recitation of the *śrīvidyā* , the *mūlamantr
 
 The *japa* prescribed here is, however, not really a recitation. It is a complex spiritual and yogic exercise associating the enunciation \( *uccāra* \) of the *vidyā* with visualizations and with the ascent of *kuṇḍalinī* . The *uccāra* is, in fact, an upward movement of the phonic resonance of the *śrīvidyā* along the *suṣumnā* , going from the *mūlādhāra* up to the *dvādaśānta* , 40 inseparable from the ascent of the *kuṇḍalinī* . It is therefore a practice of Tantric mantrayoga where the *śrīvidyā * is used as a means to facilitate the fusion of the adept with the cosmic divine power of the Goddess. 
 
-The *japa* is made up of four meditative-yogic practices: *Japa* of the three parts of the *śrīvidyā* \( *śl. * 169–173\). This consists in visualizing the three parts and the nine constituent *cakras* of the *śrīcakra* as tiered along the *suṣumnā* , then to perceive the *kalās* of the subtle vibration of the *bīja HRīṂ * , which ends these three parts \( *kūṭa* \) of the mantra as ascending from the *mūlādhāra* to the heart, then from the heart to the *ājñācakra* and thence up to the *dvādaśānta* , where the threefold phonic vibration reaches the plane of *unmanā* , the “transmental,” and dissolves into the silence of the Absolute, with which the adept also fuses. Table 3.1 in chapter 3 
+The *japa* is made up of four meditative-yogic practices: *Japa* of the three parts of the *śrīvidyā* \( *śl. * 169–173\). This consists in visualizing the three parts and the nine constituent *cakras* of the *śrīcakra* as tiered along the *suṣumnā* , then to perceive the *kalās* of the subtle vibration of the *bīja HRĪṂ * , which ends these three parts \( *kūṭa* \) of the mantra as ascending from the *mūlādhāra* to the heart, then from the heart to the *ājñācakra* and thence up to the *dvādaśānta* , where the threefold phonic vibration reaches the plane of *unmanā* , the “transmental,” and dissolves into the silence of the Absolute, with which the adept also fuses. Table 3.1 in chapter 3 
 
 shows the pattern of this *japa* . 
 
-*Japa* of the sixfold void, *śūnyaṣaṭkam* \( *śl. * 174–175\). This practice involves only the *uccāra* of the three *HRīṂ * and their *kalās* , the *uccāra* being organized along six “voids,” or points of the yogic body. It does not seem to include visualizations. Like the fi rst one, it leads to a fusion with the Absolute “in the central void of the divine undivided Consciousness,” says the Dī. 
+*Japa* of the sixfold void, *śūnyaṣaṭkam* \( *śl. * 174–175\). This practice involves only the *uccāra* of the three *HRĪṂ * and their *kalās* , the *uccāra* being organized along six “voids,” or points of the yogic body. It does not seem to include visualizations. Like the fi rst one, it leads to a fusion with the Absolute “in the central void of the divine undivided Consciousness,” says the Dī. 
 
 *Japa* of the fi ve states of consciousness, the *avasthās: jāgrat* , waking; *svapna* , dream; *suṣupti* , dreamless sleep; *turya* , the “fourth” state; and *turyātīta* , “above the fourth” \( *śl. * 176–180\). It is also an *uccāra* of the *śrīvidyā* with which the adept experiences these states, from the ordinary waking state up to the highest, “above the fourth,” which is identical with the absolute divine Consciousness. 
 

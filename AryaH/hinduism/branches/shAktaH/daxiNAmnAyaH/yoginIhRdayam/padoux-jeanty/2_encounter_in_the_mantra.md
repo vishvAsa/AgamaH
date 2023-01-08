@@ -173,9 +173,9 @@ cult to understand fully, even with the help of Amṛtānanda’s \(or Bhāskara
 
 16–25\) and the “traditional” \( *saṁpradāya* \) meaning \( *śl* . 26–48a\). The other ones are more briefl y expounded. 
 
-Although the explanations given are entirely based on the syllabic pattern of the *śrīvidyā* , neither the YH nor Amṛtānanda’s Dīpikā gives its syllabic composition, its “extraction” \( *udhāra* \) 4 . It is clear, however, that for the YH, the *vidyā* is—as we noted in the introduction—in the so-called *hādi* form, namely its fi fteen syllables, shared out into three groups called *kūṭa* \(or sometimes *bīja* \): *HA SA KA LA HRīṂ • HA SA HA KA LA HRīṂ *
+Although the explanations given are entirely based on the syllabic pattern of the *śrīvidyā* , neither the YH nor Amṛtānanda’s Dīpikā gives its syllabic composition, its “extraction” \( *udhāra* \) 4 . It is clear, however, that for the YH, the *vidyā* is—as we noted in the introduction—in the so-called *hādi* form, namely its fi fteen syllables, shared out into three groups called *kūṭa* \(or sometimes *bīja* \): *HA SA KA LA HRĪṂ • HA SA HA KA LA HRĪṂ *
 
-*• SA KA LA HRīṂ . * 
+*• SA KA LA HRĪṂ . * 
 
 
 
@@ -206,7 +206,7 @@ As we will see in the following pages, the interpretation that the YH gives in s
 
 The above stanzas 17 and 18 describe the whole *śrīvidyā* \(considered the highest and best mantra and thus called the king of mantras, *mantrarāja* \) as resulting from the conjunction \( *samāyoga* \) of Śiva and Śakti and also from that of the pairs of male and female deities surrounding them. In this respect, too, the *śrīvidyā * is, like the *śrīcakra* , the place and the embodiment, and the result, of the “meeting” \( *saṁketa* \) of Śiva and Śakti. 
 
-Amṛtānanda interprets the term *Yoginī* as referring to the three goddesses Bhāratī, Pṛthivī, and Rudraṇī and to the three basic powers of Śiva, namely will, cognition, and activity \( *icchā* , *jñāna* , *kriyā* \); these entities, being feminine, correspond to the aspect of consciousness \( *vimarśāṁśa* \) of the Goddess. The Vīras, associated with the Yoginīs, are Brahmā, Viṣṇu, and Rudra, who, being male, are aspects of the light of consciousness \( *prakāśāṁśa* \) aspect of the supreme godhead, who is considered to be in its fullness *prakāśāvimarśamaya* , both pure conscious light and supreme active consciousness. The Vīrendras, we are told by Amṛtānanda, transcend the cosmos, their nature being pure energy, and whereas the Yoginīs and the Vīras are considered to be present in the three *kūṭas* , the three groups of syllables of the *śrīvidyā* , the Vīrendras are associated with the three *HRīṂ * \(here called *kāmakalā* \) which end the three *kūṭas. * 
+Amṛtānanda interprets the term *Yoginī* as referring to the three goddesses Bhāratī, Pṛthivī, and Rudraṇī and to the three basic powers of Śiva, namely will, cognition, and activity \( *icchā* , *jñāna* , *kriyā* \); these entities, being feminine, correspond to the aspect of consciousness \( *vimarśāṁśa* \) of the Goddess. The Vīras, associated with the Yoginīs, are Brahmā, Viṣṇu, and Rudra, who, being male, are aspects of the light of consciousness \( *prakāśāṁśa* \) aspect of the supreme godhead, who is considered to be in its fullness *prakāśāvimarśamaya* , both pure conscious light and supreme active consciousness. The Vīrendras, we are told by Amṛtānanda, transcend the cosmos, their nature being pure energy, and whereas the Yoginīs and the Vīras are considered to be present in the three *kūṭas* , the three groups of syllables of the *śrīvidyā* , the Vīrendras are associated with the three *HRĪṂ * \(here called *kāmakalā* \) which end the three *kūṭas. * 
 
 We thus have to understand the *śrīvidyā* as pervaded by Śiva and Śakti together with their retinue of male and female ancillary deities. Being thus engendered and permeated by the united Śiva and Śakti and by their threefold 
 
@@ -610,7 +610,7 @@ If she is parceled up into vowels and consonants, she is divided into thirty-sev
 
 *tattvātītasvabhāvā ca vidyaiṣā bhāvyate sadā* 
 
-If we divide the *vidyā* into vowels and consonants, we have eleven letters in the fi rst *kūṭa* , thirteen in the second, and nine in the third; thirty-three phonemes to which are to be added the three *bindus* which crown the three *HRīṂ * ; thirty-seven in all. 14 Divided in this way, the *vidyā* can be considered as made up symbolically of the thirty-six *tattvas* and thus to have the same nature as these cosmic divisions of the universe. The *śrīvidyā* 
+If we divide the *vidyā* into vowels and consonants, we have eleven letters in the fi rst *kūṭa* , thirteen in the second, and nine in the third; thirty-three phonemes to which are to be added the three *bindus* which crown the three *HRĪṂ * ; thirty-seven in all. 14 Divided in this way, the *vidyā* can be considered as made up symbolically of the thirty-six *tattvas* and thus to have the same nature as these cosmic divisions of the universe. The *śrīvidyā* 
 
 is the Goddess in her cosmic activity, carried out by the *tattvas* , which she dominates, transcends, being in this sense a thirty-seventh *tattva* . Her essential nature, says Amṛtānanda, is that of Śiva, and it is as such that she is to be meditated \( *bhāvyate* \). 15 
 
@@ -671,7 +671,7 @@ One must meditate intensely, O Goddess\! on the apparition of the
 
 *utpannaṁ bhāvayed devi sthūlasūkṣmavibhedata ḥ * //39// 
 
-The Mahāmāyās are the letters *Ī * of the three *HRīṂ * of the *śrīvidyā* , the *bindus* being the three *Ṃ * s. 
+The Mahāmāyās are the letters *Ī * of the three *HRĪṂ * of the *śrīvidyā* , the *bindus* being the three *Ṃ * s. 
 
 The three \[ *guṇas* \] of \[the *tattva* of \] form \[ *rūpa* \] are to be meditated on in the same manner using the three *RA. * Their essential part has the form of fi re. \[They are\] indeed engendered by this *bīja* . //40// 
 
@@ -726,7 +726,7 @@ Just as the ten *śrīkaṇṭhas* are that which expresses the nonmanifested, O
 
 77
 
-The ten *śrīkaṇṭhas* are the ten letters *A* of the twelve syllables that form the *śrīvidyā* \(which are twelve if one excludes the three *HRīṂ * \). The nonmanifest \( *avyakta* \) which these the letters express is, says the Dī , the vital principle, the *jīva, * of the human individual bound by the senses linked to the inert, insentient \( *jaḍa* \), not illuminated by divine Consciousness. The other one, linked to the two other *A* , is the *puruṣa* , the supreme soul, Śiva, who is, in fact, unique but becomes multiple by his infi nite appearances and by being present in the vital breath of all living beings. 
+The ten *śrīkaṇṭhas* are the ten letters *A* of the twelve syllables that form the *śrīvidyā* \(which are twelve if one excludes the three *HRĪṂ * \). The nonmanifest \( *avyakta* \) which these the letters express is, says the Dī , the vital principle, the *jīva, * of the human individual bound by the senses linked to the inert, insentient \( *jaḍa* \), not illuminated by divine Consciousness. The other one, linked to the two other *A* , is the *puruṣa* , the supreme soul, Śiva, who is, in fact, unique but becomes multiple by his infi nite appearances and by being present in the vital breath of all living beings. 
 
 
 
@@ -746,7 +746,7 @@ forms, are invoked by the three *bindus* . The totally unlimited forms, those of
 
 The Dī , referring for that to the *Svacchandasaṁgraha* , expatiates on the role of the deities enumerated in this stanza. Rudra, it says, presides over the *tattva* of fi re, in which are the fi ve *tattvas* from *puruṣa* to *māyā* , the *tattvas śuddhavidyā* , *sadāśiva, * and *ī śvara* depending from the *tattva* air. Being linked to *tattvas* , these three deities are limited in time and scope. They are invoked by the three *bindus* which “crown” 
 
-the *M* of the three *HRīṂ * of the *śrīvidyā* . The three unlimited divine forms, Śānti, Śakti, and Śambhu \(Śiva\), are denoted \(have for *vācaka* \) three *nādas. * Śānti is thus the not-manifest subtle sound \( *avyaktadhvani* \) produced in the *brahmarandhra cakra* , where all the highest energies are deemed to be appeased; one thus shifts here from syllables of the mantra to the body of the adept. Śakti is the highest aspect of *śaktitattva* , Śambhu being the *śivatattva. * 
+the *M* of the three *HRĪṂ * of the *śrīvidyā* . The three unlimited divine forms, Śānti, Śakti, and Śambhu \(Śiva\), are denoted \(have for *vācaka* \) three *nādas. * Śānti is thus the not-manifest subtle sound \( *avyaktadhvani* \) produced in the *brahmarandhra cakra* , where all the highest energies are deemed to be appeased; one thus shifts here from syllables of the mantra to the body of the adept. Śakti is the highest aspect of *śaktitattva* , Śambhu being the *śivatattva. * 
 
 The YH concludes the section on the *bhāvārtha* as follows: As the threads of a net are gathered in its initial thread, in the same way the mantras are all found together in the *vidyā* . //47// 
 
@@ -870,7 +870,7 @@ In these stanzas, the YH goes on describing the mutually interwo-ven condition a
 
 diff erent letters of the *vidyā* . The four-sided fi gure is the external square enclosure of the *cakra* made of three lines—hence the plural \( *caturasrāṇi* \) form used. The “energy phonemes” are the letters *SA* of the three *kūṭas* , this being justifi ed by a quotation from a Tantra: “Śiva is *HA* , Śakti is *SA. * ” 
 
-As for the two lotuses, the outer one with sixteen petals is *soma* , a usual designation of the moon, the number sixteen being a lunar number. 19 The letters numbering nine are the three letters *H* , *R* , *Ī * of each of the three *HRīṂ * \(here called *hṛllekhā* , “the letter *HRīṂ * ”\), the *bindu* joined to them being the *Ṃ * of *HRīṂ . * 
+As for the two lotuses, the outer one with sixteen petals is *soma* , a usual designation of the moon, the number sixteen being a lunar number. 19 The letters numbering nine are the three letters *H* , *R* , *Ī * of each of the three *HRĪṂ * \(here called *hṛllekhā* , “the letter *HRĪṂ * ”\), the *bindu* joined to them being the *Ṃ * of *HRĪṂ . * 
 
 We have seen the *navayoni cakra* in chapter 1. The *cakra* that is in contact with the triple circle is the *cakra* of twelve triangles inside which are the two other *cakras* of, respectively, fourteen and ten triangles, all three being deemed to issue from the three *bījas* of space, that is, the three *HA* . 
 
@@ -986,9 +986,9 @@ When in the three *kūtas* \[in the form\] of *bīja* , *bindu* , and *dhvani* ,
 
 *anyair dvādaśabhir varṇair eṣā nakṣatrarūpiṇī * //65// 
 
-Since there are three elements, *bīja* , *bindu* , and *dhvani* , in each of the three *kūṭas* , the total is nine, which is the number of the *grahas* . *Bīja* , the commentary explains, is the *HRī* of the three *kūṭas* , *bindu* being the *Ṃ * and *nāda* the subtle phonic vibration that ends the *HRīṂ . * 
+Since there are three elements, *bīja* , *bindu* , and *dhvani* , in each of the three *kūṭas* , the total is nine, which is the number of the *grahas* . *Bīja* , the commentary explains, is the *HRī* of the three *kūṭas* , *bindu* being the *Ṃ * and *nāda* the subtle phonic vibration that ends the *HRĪṂ . * 
 
-As for the *nakṣatras* , which number twenty-seven, this number is obtained by counting fi rst the fi fteen phonemes of the *śrīvidyā* \(fi fteen being also the number of the lunar days, the *tithis* \), 26 then its twelve phonemes without the three *HRīṂ . * “Thus,” concludes the Dī , “the *vidyā * in the form of constellations being formed by fi fteen and twelve phonemes, we get twenty-seven in all.” 
+As for the *nakṣatras* , which number twenty-seven, this number is obtained by counting fi rst the fi fteen phonemes of the *śrīvidyā* \(fi fteen being also the number of the lunar days, the *tithis* \), 26 then its twelve phonemes without the three *HRĪṂ . * “Thus,” concludes the Dī , “the *vidyā * in the form of constellations being formed by fi fteen and twelve phonemes, we get twenty-seven in all.” 
 
 * *
 
@@ -1006,13 +1006,13 @@ Its zodiacal state \[arises\] when one removes those that are at the end. //66//
 
 *yoginitvaṁ ca vidyāyā rāśitvaṁ cāntyavarjitai ḥ * //66// 
 
-The syllables of energy are the three *HRīṂ * ; what precedes them are the three letters *LA* , the total of six being reached if one counts the *HRīṂ * 
+The syllables of energy are the three *HRĪṂ * ; what precedes them are the three letters *LA* , the total of six being reached if one counts the *HRĪṂ * 
 
 as one syllable only. The aspect of energy of the Goddess is that of the six Yoginīs, Ḍ ākinī, and so on, that we have already seen. 
 
 For the twelve signs of the zodiac, one counts the syllables of the *vidyā* 
 
-without the three *HRīṂ * . 
+without the three *HRĪṂ * . 
 
 Maheśvarī\[when\] in the form of the *cakra* \[has\] in the same way a cosmic aspect. //67a// 
 
@@ -1158,7 +1158,7 @@ It is seen in the ocean of the high knowledge. There, no doubt \[survives\], O P
 
 Amṛtānanda explains the term *vidyāpītha* , saying that the Śrīvidyā is herself the *pīṭha* , since she is the place where Śiva and śakti rest together. 
 
-This seat is made up of the three constitutive parts \(the *kūṭas* or *bījas* \) of the *śrīvidyā* , whose meaning or spiritual import is to be experimentally realized by following the phonic process that extends from the fi rst syllable of each *kūṭa* to the ultimate phonic vibration of the *HRīṂ * that ends each of them: the phonic plane of *unmanā* , the “transmental.” 30 
+This seat is made up of the three constitutive parts \(the *kūṭas* or *bījas* \) of the *śrīvidyā* , whose meaning or spiritual import is to be experimentally realized by following the phonic process that extends from the fi rst syllable of each *kūṭa* to the ultimate phonic vibration of the *HRĪṂ * that ends each of them: the phonic plane of *unmanā* , the “transmental.” 30 
 
 As for the divine powers \( *divyasiddhi* \), they are defi ned as consisting of the total knowledge and understanding of the supreme reality, not as the possession of supernatural powers, which is the usual meaning of the term *siddhi* —a meaning that is, however, given to it in stanzas 203–204 of the last chapter: Amṛtānanda, as we know, interprets the YH according to the Śaiva nondualist tradition, insisting on its metaphysical and spiritual aspects, not the magical ones. 
 
