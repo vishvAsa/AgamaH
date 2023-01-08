@@ -3,7 +3,7 @@ title = "Preface"
 
 +++
 
-This book originates in a French translation of the *Yoginī hṛdaya* from Sanskrit by André Padoux, published in 1994 in Paris by the Collège de France. It was printed by Editions de Boccard as an annotated translation with transliterated Sanskrit of the three chapters of the *Yoginīhr̥daya* and of its commentary by Amṛ tānanda, meant for an academic readership. 
+This book originates in a French translation of the *Yoginī hṛdaya* from Sanskrit by André Padoux, published in 1994 in Paris by the Collège de France. It was printed by Editions de Boccard as an annotated translation with transliterated Sanskrit of the three chapters of the *Yoginīhr̥daya* and of its commentary by Amṛtānanda, meant for an academic readership. 
 
 Pursuant to his interest in the ŚrīVidyā tradition, this book was read by Roger-Orphé Jeanty, living in the United States. Assuming that the *Yoginīhr̥daya* would be of considerable interest to a larger English-speaking readership, he proceeded in 2003 to translate its three chapters into English, working with his colleague Sarah Caldwell, using Padoux’s French translation and a Sanskrit *devanāgari* edition. This was published informally in English with the original Sanskrit both in the Indian *devanāgari* script and in transliteration. It was designed for use by readers interested in or practicing within contemporary Śrī Vidyā communities. 
 

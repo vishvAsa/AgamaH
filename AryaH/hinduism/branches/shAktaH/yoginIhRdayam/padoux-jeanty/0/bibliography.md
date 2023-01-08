@@ -17,7 +17,7 @@ Abhinavagupta
 
 * Kāmakalāvilāsa by Punyānanda with the Commentary of Natanānandanātha * , translated with commentary by Arthur Avalon in *Tantrik Texts. * Madras : Ganesh & Co ., 1958 . 
 
-Kṣemarāja. * Pratyabhijñāhrdayam * , Saṁskṛ ta text, English translation and notes by Jaideva Singh . Delhi : Motilal Banarsidass , 1963 . 
+Kṣemarāja. * Pratyabhijñāhrdayam * , Saṁskṛta text, English translation and notes by Jaideva Singh . Delhi : Motilal Banarsidass , 1963 . 
 
 * LakshmīTantra: A Pāñcarātra Text *
 

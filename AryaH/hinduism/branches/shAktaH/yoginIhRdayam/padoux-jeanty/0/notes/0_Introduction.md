@@ -3,40 +3,12 @@ title = "0 Introduction"
 
 +++
 
- 
 
-
-
-
-
-
-[^4]: For the reader who might be surprised by the shift in Sanskrit terms from *i* to *ai* \( *Śiva* to *Śaiva* , *Tripura* to *Traipura* \), let us explain that in Sanskrit, the adjecti-val form of a verbal or nominal root is made by adding an *a* , hence *tri * \+ *a = trai*. 
-
-[^5]: Though very often called “Mother,” the Hindu goddess in her various forms and names, is not a “mother-goddess.” She has no children \(or, at any rate, does not give birth to them normally\). Tripurasundarī has Bhairava as a consort but is not married to him. 
-
-
-
-[^6]: There are *ardhanārī* , half-female, half-male images of this divine pair. 
-
-[^7]: On this group of deities, see David Kinsley, Tantric Visions of the Divine: The Ten Mahāvidyās \(Berkeley: University of California Press, 1997\). 
-
-[^8]: This observance consisted for the practitioner in wandering while carrying a skull-topped staff and an alms bowl fashioned of a human cranium. 
-
-
-
-[^9]: The best description of the *āmnāya* system and, more generally, of the Śaiva traditions is that of Alexis Sanderson, “Śaivism and the Tantric Traditions,” in Stewart Sutherland et al., eds, *The World’s Religions* \(London: Routledge, 1981\), pp. 606–704. 
-
-[^10]: On the *pīṭ has* , see note 22 of chapter 1 below. 
 
 164
 
 
 
-[^11]: This tradition has been studied by Douglas R. Brooks, notably in Auspicious Wisdom: The Texts and Traditions of Śrīvidyā, Śākta Tantrism in South India \(Albany: SUNY Press, 1992\). 
-
-[^12]: There is Brooks’s study quoted above and also his *The Secret of the Three Cities. *
-
-*An Introduction to Hindu Śākta Tantrism* \(Chicago: University of Chicago Press, 1990\). Though informative, these two books do not cover the vast area of texts of the Tripurā tradition of the *dakṣiṇāmnāya. * 
 
 [^13]: Edited and translated by Arthur Avalon in the *Tantrik Texts* , fi rst published in 1922 \(reprint Madras: Ganesh & Co., 1953\). 
 
@@ -62,7 +34,7 @@ of Śivānanda or the
 
 900–950\), then by his disciple Utpaladeva, whose work was commented on and expanded by Abhinavagupta. It is one of the most remarkable Indian philosophical systems. Its main contention is that liberation is gained by the recognition \( *pratyabhijñā* \) of the identity of the human self \( *ātman* \) and the supreme Lord, Śiva. The “transpersonal” self thus realized contains the totality of subjective and objective phenomena in a nondualistic synthesis where all distinctions disappear in the fullness of the Absolute. A concise and clear presentation of the Pratyabhijñā was made by Kṣemarāja in the *Pratyabhijñāhrdaya*. It is translated into English by Jaideva Singh, Pratyabhijñāhr̥dayam, Sanskrit text with English translation and notes \(Delhi: Motilal Banarsidass, 1963\). 
 
-[^17]: It has not been translated into English. Bhāskararāya wrote a short and useful treatise on the *śrīvidyā* , the *Varivasyārahasya*. It was edited with an English translation in the Adyar Library Series, no. 28 \(1948\). I translated Amṛ tānanda’s *Dīpikā* together with the YH in *Le coeur de la Yoginī:* Yoginīhr̥daya *avec le com-mentaire* Dīpikā *d’Amṛ tānanda* \(Paris: Collège de France, 1994\) 18. A typical, though extreme, case of this is Pāṇini’s Sanskrit grammar, the *Aṣṭ ādhyāy* , which is entirely cryptic. Its fi rst sutra is: *vṛ ddhirādaic*. .. 
+[^17]: It has not been translated into English. Bhāskararāya wrote a short and useful treatise on the *śrīvidyā* , the *Varivasyārahasya*. It was edited with an English translation in the Adyar Library Series, no. 28 \(1948\). I translated Amṛtānanda’s *Dīpikā* together with the YH in *Le coeur de la Yoginī:* Yoginīhr̥daya *avec le com-mentaire* Dīpikā *d’Amṛtānanda* \(Paris: Collège de France, 1994\) 18. A typical, though extreme, case of this is Pāṇini’s Sanskrit grammar, the *Aṣṭ ādhyāy* , which is entirely cryptic. Its fi rst sutra is: *vṛddhirādaic*. .. 
 
 [^19]: On these two forms, see below. 
 
@@ -76,15 +48,15 @@ tradition or the Krama, with Kālī. The Śaiva nondualist Kashmirian system of 
 
 feminine powers were \(to quote an American anthropologist\) “male constructions of femaleness.” 
 
-[^21]: The *mātṛ kās* 
+[^21]: The *mātṛkās* 
 
 are either seven, the 
 
-*saptamātṛ kā* 
+*saptamātṛkā* 
 
 , or eight \( 
 
-*aṣṭ amātṛ kā* or 
+*aṣṭ amātṛkā* or 
 
 *matāṣṭ aka* \). The number eight is important in Tantric texts. Eight times eight is the \(theoretical\) number of Bhairava Tantras. Sixty-four is also four times sixteen, which is an important lunar number, the number of fullness. Sixteen is also the number of the Nityās, the fi rst of which is Tripurasundarī\(see YH 
 

@@ -137,7 +137,7 @@ Sanskrit terms whose meanings are customarily well known \( *Brahman* , *liṅga
 
 *līlā*: the divine cosmic “play.” 
 
-*mātṛ mātṛkā*: mother; name used for the eight Mothers, Brāhmī, etc.; also used for the phonemes of the alphabet, seen as aspects of *vāc* when they are placed on the body by *nyāsa* , for instance. 
+*mātṛmātṛkā*: mother; name used for the eight Mothers, Brāhmī, etc.; also used for the phonemes of the alphabet, seen as aspects of *vāc* when they are placed on the body by *nyāsa* , for instance. 
 
 *mūlādhāra*** \( ** *cakra*** \): ** “the root support”; the bodily *cakra* on the level of the perineum where the *kuṇḍalinī* lies coiled 
 
