@@ -218,32 +218,25 @@ The Śrīvidyā or Tripurā tradition constitutes one of the “transmissions”
 
 It is Tantric in its conception of the supreme deity as inseparably male and female, Bhairava and Tripurasundarī, the latter being, theologically, the supreme goddess but metaphysically subordinated to Bhairava, who is Śiva. The Goddess is also Śakti, the divine universal power that creates and animates the cosmos in all its aspects, human, material, mundane, or supramundane, her power spreading out as a hierarchy of feminine deities or energies radiating concentrically from her; this characteristically Tantric “mandalic” aspect of the pantheon is found in the whole of South Asia. It is illustrated here by the *śrīcakra* with the deities who abide in it. 
 
+#### Kuṇḍalinī
 Also Tantric is the notion of the *kuṇḍalinī* , the divine cosmic power present in the human body. The Tantric adept lives with the image of this both human and divine power present in the image of his body, this structure of centers \( *cakras* , etc.\) or nodal points \( *granthis* \) connected by subtle tubes or channels, the *nāḍis* , where the life breath, the *prāṇa* \( *prāṇas* , rather, for they are numerous\) circulates along with the mantras. 
 
-This structure, imagined, visualized, even sometimes “felt” as present \(“intraposed”\) within his physical body by the yogin, is usually called 
+This structure, imagined, visualized, even sometimes “felt” as present \(“intraposed”\) within his physical body by the yogin, is usually called “subtle body” in English. We do not use this expression because it is a [[10]] misnomer. In *all* Sanskrit texts, the term *sūkṣmaśarīra* \(or *sūkṣmadeha* \), which means “subtle body,” designates not this structure but the transmigrating element in the human being, which is made up of different *tattvas* and therefore has no shape, no visible aspect. It cannot be visualized as is the inner structure of *cakras* and *nāḍis* . We call it yogic body or imaginal yogic body, not subtle body+++(5)+++. 
 
-“subtle body” in English. We do not use this expression because it is a 
+The presence and the meditative and ritual use of this purely mental \(but existentially perceived\) image of the body is fundamentally Tantric, even though it is used by most non-Tantric practitioners of yoga. 
 
-10
-misnomer. In *all* Sanskrit texts, the term *sūkṣmaśarīra* \(or *sūkṣmadeha* \), which means “subtle body,” designates not this structure but the transmigrating element in the human being, which is made up of diff erent *tattvas* and therefore has no shape, no visible aspect. It cannot be visualized as is the inner structure of *cakras* and *nāḍis* . We call it yogic body or imaginal yogic body, not subtle body. 
-
-The presence and the meditative and ritual use of this purely mental \(but existentially perceived\) image of the body is fundamentally Tantric, even though it is used by most non-Tantric practitioners of yoga. Also Tantric, of course, is the worship beginning with an inner \( *āntara* \), entirely mental *pūjā* , followed by the outer \( *bāhya* \) worship organized following the traditional Tantric pattern, which includes not only visualisations \( *dhyāna* \) but also yogic phases during which the offi
-
-ciating adept is to awaken his 
-
-*kuṇḍalinī* . The *pūjā * ends with a *japa* of the *śrīvidyā* , which is, in fact, a practice of *kuṇḍalinī* yoga. The off erings made during the worship, being Tantric, include meat and alcohol. But there are no sexual rites. 
+#### pūjā
+Also Tantric, of course, is the worship beginning with an inner \( *āntara* \), entirely mental *pūjā* , followed by the outer \( *bāhya* \) worship organized following the traditional Tantric pattern, which includes not only visualisations \( *dhyāna* \) but also yogic phases during which the officiating adept is to awaken his *kuṇḍalinī* . The *pūjā * ends with a *japa* of the *śrīvidyā* , which is, in fact, a practice of *kuṇḍalinī* yoga. The offerings made during the worship, being Tantric, include meat and alcohol. But there are no sexual rites. 
 
 We will comment further on these Tantric aspects, and mention other ones, as they occur in the three chapters of the YH. Here we underline only a few particular points. 
 
-* Yoginī *
+#### Yoginī
 
-The Yoginīof the title is the goddess Tripurasundarī. Amṛtānanda, in his Dī , explains that she is so called because she manifests the coming together \( *yoga* \) of all the constitutive elements of the universe. She bears this name, he says, because she is eternally in union, *yoga* , with Śiva. 
+The Yoginī of the title is the goddess Tripurasundarī. Amṛtānanda, in his Dī , explains that she is so called because she manifests the coming together \( *yoga* \) of all the constitutive elements of the universe. She bears this name, he says, because she is eternally in union, *yoga* , with Śiva. 
 
 These explanations are of some value insofar as they underscore the at once transcendent and immanent nature of the Goddess Śakti and her indissoluble union with Śiva. 
 
-The name Yoginīis also interesting as a reminder of the links between the Tripurā tradition, as an *āmnāya* of the Kula, with the ancient \(but still surviving\) Yoginīcults. This tradition having as its main deity a goddess who is the supreme power, Śakti, surrounded by a retinue of feminine secondary deities/powers— *ṣ aktis, * which are also Yoginīs—could be called Śākta. But the so-called Śākta systems developed in a Śaiva context and are in eff ect Śaiva. Metaphysically, Tripurasundar 
-
-ī is subordinated to 
+The name Yoginī is also interesting as a reminder of the links between the Tripurā tradition, as an *āmnāya* of the Kula, with the ancient \(but still surviving\) Yoginīcults. This tradition having as its main deity a goddess who is the supreme power, Śakti, surrounded by a retinue of feminine secondary deities/powers— *ṣ aktis, * which are also Yoginīs—could be called Śākta. But the so-called Śākta systems developed in a Śaiva context and are in eff ect Śaiva. Metaphysically, Tripurasundarī is subordinated to 
 
 Paramaśiva, the supreme level of the godhead. The YH is expounded by Bhairava, the fearsome form of Śiva, in answer to a question of the Goddess. 
 
@@ -255,7 +248,7 @@ True, he does so because she orders him \(“I am ordered by You,” *tvayāham 
 
 *ājñaptaḥ* \), but this order is a form of his own will \( *madicchārūpayā* , 3.202\). 
 
-As the Dī explains, the universe is the “play” \( *līlā* , *kṛḍ* \) of Śakti, but Śiva is her master. Theologically, in the devotion and worship of her devotees, the Goddess is supreme; but if Śiva andṣakti are inseparable, Śiva, the masculine aspect of the total supreme godhead, is higher:ṣakti is Śiva’s energy. Tripurā’s tradition is therefore Śaiva. 20 
+As the Dī explains, the universe is the “play” \( *līlā* , *kṛḍ* \) of Śakti, but Śiva is her master. Theologically, in the devotion and worship of her devotees, the Goddess is supreme; but if Śiva andṣakti are inseparable, Śiva, the masculine aspect of the total supreme godhead, is higher:ṣakti is Śiva’s energy. Tripurā’s tradition is therefore Śaiva. [^20] 
 
 Surrounded by the Yoginīs abiding in the *śrīcakra* —in the cosmos, that is—Tripurasundarī is the fi rst of them, infusing them with her power and presiding over their activity. They emanate from her in a hierarchical order, embodying and spreading her power on all planes of the cosmos and fulfi lling the functions allotted to them. As Bhairava says in YH 3.194: “You alone it is, Enchantress of the worlds, who are playing under the guise of these \[deities\].” They are aspects \( *rūpa* \) she takes on in her cosmic play. 
 

@@ -943,7 +943,7 @@ lated, in the *vidyā* , with the *tattvas* , enumerated here going from the fi 
 
 these twenty-seven \[elements\] make up her constitutive parts that the Goddess appears as the constellations, an aspect she takes on of her own free will.” 
 
-\[Her\] nature of Yoginīis now expounded. Because of the Ḍ ākinis, etc., mistresses of the body elements, the skin, etc., she is associated with the eight Yoginīs presiding over the eight groups of phonemes. Assuming the condition of the Yoginīs, she shines forth, having the world as her form. //60a–61// 
+\[Her\] nature of Yoginī is now expounded. Because of the Ḍ ākinis, etc., mistresses of the body elements, the skin, etc., she is associated with the eight Yoginīs presiding over the eight groups of phonemes. Assuming the condition of the Yoginīs, she shines forth, having the world as her form. //60a–61// 
 
 *yoginītvam athocyate* / 
 

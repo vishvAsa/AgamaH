@@ -1211,13 +1211,13 @@ Now comes the description of the *śrīcakra pūjā* proper, *ślokas* 109–168
 
 This *pūjā* consists of the worship of Tripurasundarī and her retinue of ancillary deities: of the several deities abiding in the *śrīcakra* , from those in the outer square section to the Goddess in the central triangle. The worship is followed by the *japa* of the *śrīvidyā * and a fi nal off ering in the fi re, a *homa* . 
 
-A sacrifi ce 36 to Gaṇeśa and to Dūtarī, to the Master of the Field, and to Dūtīis to be performed, O Goddess\! as also, on the external door, to the goddesses headed by Svastikā. //109// 
+A sacrifi ce 36 to Gaṇeśa and to Dūtarī, to the Master of the Field, and to Dūtī is to be performed, O Goddess\! as also, on the external door, to the goddesses headed by Svastikā. //109// 
 
 *gaṇeśaṁ dūtarīṁ caiva kṣetreśaṁ dūtikāṁ tathā* / 
 
 *bāhyadvāre yajed devi devīśca svastikādikā ḥ * //109// 
 
-The Dī explains that the ritual worship of the fi rst group of deities is to be performed “on the frame of the door” of the outer square section of the *śrīcakra* . The Master of the Field, Kṣetreśa or Ksetrapāla, is the god Baṭuka, an aspect of Bhairava; Dutīis his consort. The goddesses headed by Svastikā, worshipped on the external part of the door, number fi ve; they are “singing goddesses” \( *gāyikā* \), deemed to delight Tripurasundarī with their songs. 
+The Dī explains that the ritual worship of the fi rst group of deities is to be performed “on the frame of the door” of the outer square section of the *śrīcakra* . The Master of the Field, Kṣetreśa or Ksetrapāla, is the god Baṭuka, an aspect of Bhairava; Dutī is his consort. The goddesses headed by Svastikā, worshipped on the external part of the door, number fi ve; they are “singing goddesses” \( *gāyikā* \), deemed to delight Tripurasundarī with their songs. 
 
 Then the line of masters, which abides, threefold, in the inner triangle is also \[to be worshipped\]. 
 
@@ -1466,7 +1466,7 @@ The quality she possesses is beauty. //133// She rests on the planes of *piṇ�
 
 *mahimāsiddhirūpā ca pūjyā sarvopacarākai ḥ * / 
 
-To say that Parameśvarīis purifi cation of the intellect means that the intellect is purifi ed when it reaches her level. The intellect \( *buddhi* \) is the 
+To say that Parameśvarī is purifi cation of the intellect means that the intellect is purifi ed when it reaches her level. The intellect \( *buddhi* \) is the 
 
 132
 plane of consciousness that grasps the objects of the senses whose savor is enjoyed by the supreme subject, Śiva, who, as the Dī says, is therefore called the “knower of the fi eld” \( *kṣetrajña* \) of perception. 
@@ -1475,7 +1475,7 @@ The expression “planes of *piṇḍa* , etc.,” refers to the conception of t
 
 one attains liberation. 42 
 
-To say that the nature \( *rūpa* \) of Parameśvarīis the supernatural power of growing at will is to say that she bestows that *siddhi* . 
+To say that the nature \( *rūpa* \) of Parameśvarī is the supernatural power of growing at will is to say that she bestows that *siddhi* . 
 
 \[This worship is to be performed\] by a penetration, going up to the extreme point of the *visarga* , of consciousness, which fl ashes forth while piercing the twelve knots after experiencing energy. 
 
