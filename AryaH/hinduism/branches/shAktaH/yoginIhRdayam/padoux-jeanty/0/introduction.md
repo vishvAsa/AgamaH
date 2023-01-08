@@ -112,6 +112,7 @@ It does not seem to have divided into [[6]] different schools. There are, howeve
 ##### Common elements
 As we have seen, the four *āmnāyas* have diff erent main deities, different pantheons and mantras, and so on; however, because of their common Śaiva *kāpālika* origin, they have, if not exactly a common esoteric core, at least a common fund of metaphysical \(and sometimes theological\) notions or doctrines, or ritual or spiritual practices, expressed by using a common vocabulary, such as the use of the term *kula* and its derivatives \( *akula* , *kaula* , *kaulika* \). Some mantras, too, are common to different *āmnāyas. * 
 
+### Tradition books
 Although it is still the most active tradition of the Kula, the Tripurā tradition is little known outside India. There is, as far as we know, no complete and systematic study of its vast literature.[^12] 
 
 [^12]:
@@ -122,7 +123,7 @@ Although it is still the most active tradition of the Kula, the Tripurā traditi
 
 
 
-This includes, among earlier authors, such people as Puṇyānanda, who was the master of Amṛtānanda, who often refers to his *Kāmakalāvilāsa* , [^13] and Śivānanda or Vidyānanda, both of whom commented on the YH but also wrote various ritual, theological, or philosophical works. Later came Lakṣmīdhara \(16th c.\) and the polymath Bhāskararāya \(c. a.d. 1700\), who wrote a commentary on the YH to which we sometimes refer here; Kaśināthabha ṭ ṭ a is also worth mentioning. 
+This includes, among earlier authors, such people as Puṇyānanda, who was the master of Amṛtānanda, who often refers to his *Kāma-kalā-vilāsa* , [^13] and Śivānanda or Vidyānanda, both of whom commented on the YH but also wrote various ritual, theological, or philosophical works. Later came Lakṣmīdhara \(16th c.\) and the polymath Bhāskararāya \(c. a.d. 1700\), who wrote a commentary on the YH to which we sometimes refer here; Kaśināthabhaṭṭa is also worth mentioning. 
 
 The tradition includes such works as the vast mythical and speculative *Tripurārahasya* , a number of Tantras or Tantric compilations such as the *Gandharvatantra* , the *Tantrarāja* , the *Tripurārṇava* , the *Śaktisa ṅgama* , the *Vidyārṇava* , and so on. There are Upaniṣads, too, such as the *Tripurā* , the *Tripurāttāpinī* , or the *Bhāvanopaṇiṣad* . Very important from the ritual point of view is the *Paraśurāmakalpasūtra* \(where the goddess is Lalitā\), commented on by Umānanda in the *Nityotsava* \(1745\) and then by Rameśvara in 1831. A number of other works—digests, ritual manuals, hymns, and 
 
@@ -308,7 +309,7 @@ The *mantrasaṁketa* ’s purpose is to give six diff erent “meanings” \( *
 
 The chapter begins by enumerating the *vidyās* \(i.e., mantras\) of the nine *cakreśvarīs* , the regent deities of the nine parts of the *śrīcakra* , which the adept must place by *nyāsa* on nine parts of his yogic body and worship there as present in the nine constitutive *cakras* of the *śrīcakra. * 
 
-Then is expounded the fi rst *artha* , the *bhāvārtha* \( *śl. * 16–25\). It is based on symbolical values given to the syllables of the *vidyā* , the three parts of which are described as resulting from the union of Śiva and Śakti, from whose interactive union \( *saṁgha ṭ ṭ a* \) 33 the “fl ow,” the creative play of the mantra, is deemed to issue. This very fl ow expressed by the phonetic constituents of the *śrīvidyā* , manifests, sustains, animates, and ultimately reabsorbs the cosmos, a process the adept must experience spiritually through a *bhāvanā* in which the three parts of the mantra are experienced as fused with his *kuṇḍ alinī* . The power of the *vidyā* also takes on here the form of the *kāmakalā * \( *śl* . 21–25\), a diagram whose symbolism, based on the sexual union of Śiva and Śakti, is both visual and phonic. 34 
+Then is expounded the fi rst *artha* , the *bhāvārtha* \( *śl. * 16–25\). It is based on symbolical values given to the syllables of the *vidyā* , the three parts of which are described as resulting from the union of Śiva and Śakti, from whose interactive union \( *saṁghaṭṭa* \) 33 the “fl ow,” the creative play of the mantra, is deemed to issue. This very fl ow expressed by the phonetic constituents of the *śrīvidyā* , manifests, sustains, animates, and ultimately reabsorbs the cosmos, a process the adept must experience spiritually through a *bhāvanā* in which the three parts of the mantra are experienced as fused with his *kuṇḍ alinī* . The power of the *vidyā* also takes on here the form of the *kāmakalā * \( *śl* . 21–25\), a diagram whose symbolism, based on the sexual union of Śiva and Śakti, is both visual and phonic. 34 
 
 The *saṁpradāya artha* , the “traditional meaning” \( *śl* . 26–48\) shows how the cosmic process is pervaded by the *śrīvidyā* , that is, by the united Śiva and Śakti. To this eff ect, the YH explains how the constitutive elements of 
 

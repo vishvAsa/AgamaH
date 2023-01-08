@@ -818,7 +818,7 @@ increases, \[becomes\] the universal agitator
 
 The Mudrās, 38 as divine aspects of the cosmic activity of the Goddess, are now enumerated, going from the outer square section of the *śrīcakra* to its center. The fi rst aspect of this activity to be considered is that of creation, in the outer square \( *bhūg ṛha* , house of the earth\), which corresponds, in the cosmic symbolism of the *śrīcakra* , to the plane of the manifested world. The *mudrā* Sarvasaṁkṣobhinī, the universal agitator, disturbs the cosmos, that is, embodies the action of the Goddess as actively present in this world, not purely quiescent and transcendent. 
 
-In Śaiva nondualist systems, the term *kṣobha* , which, like *saṁgha ṭ ṭ a* , has sexual connotations, implies creation. As the D 
+In Śaiva nondualist systems, the term *kṣobha* , which, like *saṁghaṭṭa* , has sexual connotations, implies creation. As the D 
 
 ī says, 
 
@@ -1029,7 +1029,7 @@ Born from the unifying interaction of *dharma* and *adharma* in the form of inte
 
 the supreme *khecarī* , destroyer of the diseases born from diff erentiated thought, abides, made of consciousness, in the Sarvarogahāra *cakra* . //68// 
 
-*dharmādharmasya saṁgha ṭ ṭ ād utthitā vittirūpiṇi* / 
+*dharmādharmasya saṁghaṭṭād utthitā vittirūpiṇi* / 
 
 *vikalpotthakriyāloparūpadoṣavighātinī* //67// 
 
@@ -1043,7 +1043,7 @@ the supreme *khecarī* , destroyer of the diseases born from diff erentiated tho
 
 should be born from their conjunction, 
 
-*saṁgha ṭ ṭ a* 
+*saṁghaṭṭa* 
 
 \(their total fusion, 
 

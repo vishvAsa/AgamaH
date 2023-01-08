@@ -226,13 +226,13 @@ the form of the conjunction of Śiva and Śakti on the plane where
 
 \[Śiva\] adheres to the fl ow of his expansion which \[ for him\] is but an Indraic secondary trait. //19–20a// 
 
-*śivaśaktyākhyasaṁgha ṭ ṭ arūpe brahmaṇi śāśvate* / 
+*śivaśaktyākhyasaṁghaṭṭarūpe brahmaṇi śāśvate* / 
 
 *tatprathāprasarāśleṣabhuvi tvaindropalakṣite* //19// 
 
 *jñātṛjñānamayākāramananān mantrarūpiṇī * / 
 
-The *śrīvidyā* is the Goddess in mantra form. She is thought \( *manana* \), intelligence or consciousness, a condition described as consisting of \(or resulting from\) the unifying interaction \( *saṁgha ṭ ṭ a* \) 5 of Śiva and Śakti, since the mantra is the locus of this interaction. Being divine, this interaction takes place on the supreme plane of the eternal Brahman, a plane where Śiva and Śakti, in their embrace and interpenetration, expand and transform themselves into \(and therefore adhere to\) the cosmos. The *śrīvidyā* is thus, like the *śrīcakra* , a symbolic form of the cosmic activity of the Goddess. This creative action of Śiva and Śakti is called “Indraic” 
+The *śrīvidyā* is the Goddess in mantra form. She is thought \( *manana* \), intelligence or consciousness, a condition described as consisting of \(or resulting from\) the unifying interaction \( *saṁghaṭṭa* \) 5 of Śiva and Śakti, since the mantra is the locus of this interaction. Being divine, this interaction takes place on the supreme plane of the eternal Brahman, a plane where Śiva and Śakti, in their embrace and interpenetration, expand and transform themselves into \(and therefore adhere to\) the cosmos. The *śrīvidyā* is thus, like the *śrīcakra* , a symbolic form of the cosmic activity of the Goddess. This creative action of Śiva and Śakti is called “Indraic” 
 
 because, bringing about the universe which is ruled by *māyā* , it is similar to the action of the god Indra, who is conceived since the *ṛ* gveda 6 as taking up many forms thanks to his magical power, his *māyā* . This activity, too, though important, is nevertheless, for the supreme godhead, not a main trait but a secondary one. 
 

@@ -390,7 +390,7 @@ Kānyakubja, Pūrn
 
  aśaila and Arbuda, //34// Amrātakeśvara, 
 
-Ekāmra, Trisrotas, Kāmako ṭ aka, Kailāsa, Bhṛgunagara, Kedāra and Pūrṇaścandraka, //35// Śrīpīṭha, Omkārapīṭha, Jālandhra, Mālava, Utkala, Kulānta, Devīko ṭ ṭ a, Gokarṇa, Maruteśvara, //36// A ṭ ṭ ahāsa and Viraja, Rājagṛha, Mahāpatha, Kolāpura, Elāpura, Kāleśa and Jayantikā, //37// Ujjayinī, Vicitra and Kṣī raka, Hastināpura, O ḍ ḍ iśa, the one named Prayāga, 
+Ekāmra, Trisrotas, Kāmako ṭ aka, Kailāsa, Bhṛgunagara, Kedāra and Pūrṇaścandraka, //35// Śrīpīṭha, Omkārapīṭha, Jālandhra, Mālava, Utkala, Kulānta, Devīkoṭṭa, Gokarṇa, Maruteśvara, //36// Aṭṭahāsa and Viraja, Rājagṛha, Mahāpatha, Kolāpura, Elāpura, Kāleśa and Jayantikā, //37// Ujjayinī, Vicitra and Kṣī raka, Hastināpura, O ḍ ḍ iśa, the one named Prayāga, 
 
 Ṣ aṣthīthen Māyāpuri, //38// Jaleśa, 
 
@@ -410,7 +410,7 @@ Malayaśaila and the Meru, the best of all mountains, Mahendra and Vāmana, then
 
 *śrīpīṭhaṁ oṁkārapīthaṁ jālandhraṁ mālavotkale * / 
 
-*kulāntaṁ deviko ṭ ṭ aṁ ca gokarṇaṁ māruteśvaram* //36// 
+*kulāntaṁ devikoṭṭaṁ ca gokarṇaṁ māruteśvaram* //36// 
 
 *a ṭ tahāsaṁ ca virajaṁ rājagṛhaṁ mahāpatham* / 
 
@@ -1503,7 +1503,7 @@ corresponding to the absorption in the energy of *kula* . \[Thus,\] by the expan
 
 *unmeṣaśaktiprasarair icchāśaktipradhānakai ḥ * //136// 
 
-*tathaivākulasaṁgha ṭ ṭ arūpair varṇacatuṣṭ yai ḥ * / 
+*tathaivākulasaṁghaṭṭarūpair varṇacatuṣṭ yai ḥ * / 
 
 *vedyuṣmarūpasādyarṇair miśrecchābhāvitair api* //137// 
 
@@ -1517,7 +1517,7 @@ The worship, progressing toward the center, is to be done now in the next three 
 
 *lipi—* of the elements,” 44 of forty-two letters. We saw previously the place of yoga in ritual; we see now the role of the letters. The Sanskrit alphabet \(as we have said before\) is divine, appearing fi rst, and being eternally present, in the supreme godhead and thus the source and origin of the whole cosmic manifestation. 
 
-The above stanzas fi rst enumerate the letters of the *bhūtalipi* . These are to be visualized by the adept as present in the so-called *akula* white, thousand-petaled lotus turned downward placed on the *brahmarandhra-cakra* , on the top of the head. There is the fi rst letter of the alphabet, *A* , which is the supreme Śiva. It is in “unifying interaction” \( *saṁgha ṭ ṭ a* \) with the energies of will \( *icchā* , hence *I* \) and of awakening \( *unmeśa* , hence *U* \); we have thus *A \+I = E* , *A \+ U = O. Akula/A* now interacts with *E* and *O* , which gives *AI* and *AU* . The process goes on in the same way in order to produce all forty-two letters of the *bhūtalipi. * The “phonemes of which the main is *SA* ” are the sibilants *ŚAṣA SA* and the aspirate *Ḥ A* , usually called vapor \( *ūṣman* \), and so forth. We cannot decrypt here the whole procedure to produce all the letters. 
+The above stanzas fi rst enumerate the letters of the *bhūtalipi* . These are to be visualized by the adept as present in the so-called *akula* white, thousand-petaled lotus turned downward placed on the *brahmarandhra-cakra* , on the top of the head. There is the fi rst letter of the alphabet, *A* , which is the supreme Śiva. It is in “unifying interaction” \( *saṁghaṭṭa* \) with the energies of will \( *icchā* , hence *I* \) and of awakening \( *unmeśa* , hence *U* \); we have thus *A \+I = E* , *A \+ U = O. Akula/A* now interacts with *E* and *O* , which gives *AI* and *AU* . The process goes on in the same way in order to produce all forty-two letters of the *bhūtalipi. * The “phonemes of which the main is *SA* ” are the sibilants *ŚAṣA SA* and the aspirate *Ḥ A* , usually called vapor \( *ūṣman* \), and so forth. We cannot decrypt here the whole procedure to produce all the letters. 
 
 134
 The last stanza underlines the fact that the expansion of the energy of will \( *icchāśakti* \) realized in the ascent of the *kuṇḍ alinī* is the eff ective element of this worship of the Yoginīs present in this *cakra* . These are said to be “received through traditional transmission,” not because they are more received than the other ones by the tradition transmitted by the gurus but because they are called Sampradāyayoginīs, “traditional Yoginīs.” 45 
@@ -1686,7 +1686,7 @@ As the knots open because of the unifying interaction of the vital breaths when 
 
 the root- *granthi* to the heart, where consciousness is, as the void subtle transmigrating body, \[one must worship\] the goddesses, the secret Yoginīs, Vaśinī, etc., abiding, O Beloved of the heroes, in the Sarvarogahara *cakra* , in the blazing fi re of destruction of the *saṁsāra* , by following the groups of consonants touched by the *kalās* of the vowels, which are seeds. //152–154a// 
 
-*niruddhavāyusaṁgha ṭ ṭ asphu ṭ itagranthimūlata ḥ * / 
+*niruddhavāyusaṁghaṭṭasphu ṭ itagranthimūlata ḥ * / 
 
 *hṛdayāntarasaṁvittiśūṇyaṣṭ akātmanā * //152// 
 
