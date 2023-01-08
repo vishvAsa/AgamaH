@@ -115,7 +115,7 @@ title = "२२ सर्व-प्रकरण-शेषः"
 साक्षाद् आराधनोपकरण-भूत-तुलसी-पुष्प-गन्धादीनां भगवद्-अनर्हतायाश् च प्रसङ्गेन,  
 निष्फलानुष्ठानत्वं यथावद् अनुष्ठानाभावो वा प्रसजेत् । 
 
-## कुलाभिमानः
+## कुलाभिमानम्
 तत्त्वज्ञानादिभिर् अन्यैर् बहुभिः प्रशंसा-हेतुभिः प्रकारैर्  
 आधिक्ये सत्यपि,  
 सूक्ष्माचार-परिज्ञान-वैभवाद् एव हि  
@@ -123,6 +123,16 @@ title = "२२ सर्व-प्रकरण-शेषः"
 
 अतः कालादि-दोषात् तद्-भ्रंशो मा भूद् इत्य् अस्माभिर् अद्यात्र दिक् प्रदर्शिता ।  
 इति सर्वम् अनवद्यम् ।।
+
+<details><summary>English</summary>
+
+Despite being greater in terms of admirable qualities led by the knowledge of suchness,  
+it is only because of the glory of the knowledge of fine conduct  
+that the shrI-vaiShNava school is admired more than other schools even by others.
+
+Hence, so that this may not be lost due to faults such as those of time, here today a direction has been shown by us.
+</details>
+
 
 इत्थं शिष्ट-तमाचारं  
 स्मृतिं चालोच्य संयमी।
@@ -138,3 +148,4 @@ title = "२२ सर्व-प्रकरण-शेषः"
 श्रीमते वेदान्त-रामानुज-महादेशिकाय नमः ॥  
 श्रीमते रङ्ग-रामानुज-महादेशिकाय नमः ॥  
 शुभम् अस्तु
+
