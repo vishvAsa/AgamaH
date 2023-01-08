@@ -51,7 +51,7 @@ Tripurasundarī is sometimes called Lalitā. She is also considered as one of th
 
 There exist, too, such aspects of her as Tripura-bhairavī or Bala-tripura-sundarī. Indian deities commonly have many aspects, corresponding to different characters or aspects of the deity, auspicious or fearsome, receiving different types of worship. In the auspicious form that she has in the YH, she is usually shown as a beautiful shining woman, three-eyed, with the waxing moon on her forehead, wearing a red garment, seated on a lotus, holding in her four hands goad and arrow, bow and noose. 
 
-### Origins
+### Cult Origins
 There are very few stone images of Tripurasundarī, but there are many paintings. Her worship is done using the *śrīcakra* , and no concrete image is used, but during the ritual, she is to be visualized by the officiating adept as described in the texts. 
 
 As is frequent in India, next to nothing is known of the origins of the tradition of Tripurā. It goes back probably to the tenth or eleventh century a.d. It has survived until our day and has produced important and interesting works well into the modern period. As far as we know, its two oldest [[4]] and most basic texts are the *Vāmakeśvara* / *Vāmakeśvarīmata* Tantra \(VM\), also known as the *Nityāṣodaśikārṇava* \(NṣA\) and the YH. These works may date from the tenth or eleventh century. It seems that a passage of the VM was quoted by Abhinavagupta \(11th c.\) in two of his works, the *Parātrīśikavivaraṇa* and the *Mālinī vijayavārttika* ; and Jayaratha, who lived in the twelfth century and wrote a commentary on the VM, mentions several earlier commentators on this Tantra, one of whom may have lived as far back as the ninth century. But there is no proof of this. 
@@ -112,7 +112,7 @@ It does not seem to have divided into [[6]] different schools. There are, howeve
 ##### Common elements
 As we have seen, the four *āmnāyas* have diff erent main deities, different pantheons and mantras, and so on; however, because of their common Śaiva *kāpālika* origin, they have, if not exactly a common esoteric core, at least a common fund of metaphysical \(and sometimes theological\) notions or doctrines, or ritual or spiritual practices, expressed by using a common vocabulary, such as the use of the term *kula* and its derivatives \( *akula* , *kaula* , *kaulika* \). Some mantras, too, are common to different *āmnāyas. * 
 
-### Tradition books
+### Cult books
 Although it is still the most active tradition of the Kula, the Tripurā tradition is little known outside India. There is, as far as we know, no complete and systematic study of its vast literature.[^12] 
 
 [^12]:
@@ -125,38 +125,58 @@ Although it is still the most active tradition of the Kula, the Tripurā traditi
 
 This includes, among earlier authors, such people as Puṇyānanda, who was the master of Amṛtānanda, who often refers to his *Kāma-kalā-vilāsa* , [^13] and Śivānanda or Vidyānanda, both of whom commented on the YH but also wrote various ritual, theological, or philosophical works. Later came Lakṣmīdhara \(16th c.\) and the polymath Bhāskararāya \(c. a.d. 1700\), who wrote a commentary on the YH to which we sometimes refer here; Kaśināthabhaṭṭa is also worth mentioning. 
 
-The tradition includes such works as the vast mythical and speculative *Tripurārahasya* , a number of Tantras or Tantric compilations such as the *Gandharvatantra* , the *Tantrarāja* , the *Tripurārṇava* , the *Śaktisa ṅgama* , the *Vidyārṇava* , and so on. There are Upaniṣads, too, such as the *Tripurā* , the *Tripurāttāpinī* , or the *Bhāvanopaṇiṣad* . Very important from the ritual point of view is the *Paraśurāmakalpasūtra* \(where the goddess is Lalitā\), commented on by Umānanda in the *Nityotsava* \(1745\) and then by Rameśvara in 1831. A number of other works—digests, ritual manuals, hymns, and 
+[^13]: Edited and translated by Arthur Avalon in the *Tantrik Texts* , first published in 1922 \(reprint Madras: Ganesh & Co., 1953\).
 
-so on—would deserve mentioning. 14 Of these, we only refer to one of the best known, the *Saundaryalaharī* , traditionally attributed to Śa ṅkarācārya. 
+The tradition includes such works as the vast mythical and speculative *Tripurā-rahasya* , a number of Tantras or Tantric compilations such as the *Gandharva-tantra* , the *Tantra-rāja* , the *Tripurārṇava* , the *Śakti-saṅgama* , the *Vidyārṇava* , and so on. 
 
+There are Upaniṣads, too, such as the *Tripurā* , the *Tripurā-tāpinī* , or the *Bhāvanopaṇiṣad* . 
 
+Very important from the ritual point of view is the *Paraśu-rāma-kalpa-sūtra* \(where the goddess is Lalitā\), commented on by Umānanda in the *Nityotsava* \(1745\) and then by Rameśvara in 1831. 
 
-no precise information can be given on the origin of the YH or on that of its parent text, the VM/NṣA. No ancient manuscript has been found. Abhinavagupta \(c. 975–1025\) does not mention its name, nor does 
+A number of other works—digests, ritual manuals, hymns, and so on—would deserve mentioning. [^14] 
 
-* Introduction *
-
-7
-
-Jayaratha \(12th c.\) in his commentary on the *Tantrāloka* \(TĀ\). It is not one of the sixty-four Bhairavatantras listed by him when commenting on TĀ 1.18, nor is it quoted or alluded to in other lists of the Śaiva canon. 
-
-A *Yoginīhr̥daya* is indeed mentioned in a Nepalese manuscript of the eleventh century, but we do not know if this text is the same as the one we have now; it is probably not. Amṛtānanda, who lived probably in the thirteenth or fourteenth century, says in his commentary on the YH, the *Dīpikā * \(Dī\), that his was the fi rst one made on that work. But surely, if the YH were by then an ancient work, other commentaries would have existed. All of this makes it very unlikely that the date of the YH is earlier than the eleventh century, and it might well be later. 
-
-There are many reasons for believing that the Tripurā tradition originated in northwestern India, more specifi cally in Kashmir. Jayaratha, who was certainly a Kashmiri, mentions in his commentary on the VM two masters as having introduced this *darśana* into Kashmir, and he appears to believe that there was a long tradition of local exegesis. Śivānanda, the thirteenth- or fourteenth-century commentator on the same text, explains certain peculiarities of the *śrīvidyā* as being a result of the Kashmirian origin of the tradition. Of course, the fact that Jayaratha mentions the tradition as having been brought down into Kashmir \( *kaśmireṣu avatārakam* \) may mean that it came from elsewhere, and some scholars believe it originated farther northwest, not far from Kashmir, in U ḍ ḍ iyāna, the valley of Swat \(now in Pakistan\), a region often, but perhaps rather mythically, quoted as the place of origin of several Śaiva Tantric practices or traditions. Central 
-
-India, too, has sometimes been named as the birthplace of this tradition. 15 
-
-All of this is possible. The metaphysics and the vocabulary of the YH, however, are so close to those of the postscriptural Śaiva texts, and espe-
-
-cially to those of the later Pratyabhijñā 16 as expounded by Kṣemarāja, that its Kashmirian origin seems very likely. \(But since a number of authors on the tradition, such as Puṇyānanda, Śivānanda, and Vidyānanda, were from the south, a South Indian origin of the YH, however unlikely, cannot be entirely ruled out.\) 
-
-The Tripurā cult was certainly present at a comparatively early date in the North Indian Himalayan area. There seem to be ancient traces of it in Nepal. Even if it began in the north, Tripurā’s cult appears to have soon spread to the south, as shown by works of such authors as those noted above. A large number of Śrīvidyā works come from the south, and the many manuscripts mostly in South Indian scripts that are found nowadays in libraries all over India testify to the comparatively early and 
-
-8
-widespread popularity of the Tripurā cult. This fact is also interesting in that it shows the vitality and importance, from ancient times, of intellectual contacts between diff erent parts of the Indian subcontinent. 
+[^14]: The *Subhagodaya* and the *Subhagodayavāsanā* of Śivānanda or the *Jñānadīpavimarśinī* of Vidyānanda, for instance.
 
 
+Of these, we only refer to one of the best known, the *Saundaryalaharī* , traditionally attributed to Śaṅkarācārya. 
 
-there are two important commentaries on the YH. The earlier one is the *Dīpikā* \(“The Lamp”\) by Amṛtānanda, which we often refer to here \(abbreviating it as Dī\) since it is used as the basis of our explanation of the YH. The other one is the *Setubandha* by Bhāskararāya, who lived in Mysore and Varanasi at the end of the seventeenth and the beginning of the eighteenth centuries. It is a commentary on both the VM/NṣA and the YH, treating them as one and the same work. Amṛtānanda’s Dīinterprets the YH in the spirit of the later Pratyabhijñā as developed by Kṣemarāja, which shows that even if Amṛtānanda was South Indian, he was nevertheless steeped in the Kashmirian Śaiva nondualist tradition. Bhāskararāya’s *Setubandha* , on the other hand, which was fi nished, we are told, on the Śivaratri day of Śaka 1655 \( a.d. 1733\), is the work of a much later remarkable polymath \(more than forty works are ascribed to him\), not characteristically written in the spirit of a particular sectarian tradition but very true to the Tantric spirit of the YH. It is clear and useful. 17 There are other commentaries of lesser interest. 
+
+### Origins
+No precise information can be given on the origin of the YH or on that of its parent text, the VM/NṣA. No ancient manuscript has been found. Abhinavagupta \(c. 975–1025\) does not mention its name, nor does [[7]] Jayaratha \(12th c.\) in his commentary on the *Tantrāloka* \(TĀ\). It is not one of the sixty-four Bhairavatantras listed by him when commenting on TĀ 1.18, nor is it quoted or alluded to in other lists of the Śaiva canon. 
+
+A *Yoginīhr̥daya* is indeed mentioned in a Nepalese manuscript of the eleventh century, but we do not know if this text is the same as the one we have now; it is probably not. 
+
+Amṛtānanda, who lived probably in the thirteenth or fourteenth century, says in his commentary on the YH, the *Dīpikā * \(Dī \), that his was the first one made on that work. But surely, if the YH were by then an ancient work, other commentaries would have existed. All of this makes it very unlikely that the date of the YH is earlier than the eleventh century, and it might well be later. 
+
+There are many reasons for believing that the Tripurā tradition originated in northwestern India, more specifically in Kashmir. 
+
+- Jayaratha, who was certainly a Kashmiri, mentions in his commentary on the VM two masters as having introduced this *darśana* into Kashmir, and he appears to believe that there was a long tradition of local exegesis. 
+- Śivānanda, the thirteenth- or fourteenth-century commentator on the same text, explains certain peculiarities of the *śrīvidyā* as being a result of the Kashmirian origin of the tradition. 
+
+Of course, the fact that Jayaratha mentions the tradition as having been brought down into Kashmir \( *kaśmireṣu avatārakam* \) may mean that it came from elsewhere, and some scholars believe it originated farther northwest, not far from Kashmir, in Uḍḍiyāna, the valley of Swat \(now in Pakistan\), a region often, but perhaps rather mythically, quoted as the place of origin of several Śaiva Tantric practices or traditions. 
+
+Central India, too, has sometimes been named as the birthplace of this tradition. [^15] 
+
+[^15]: This was done by Pdt. V. V. Dvivedi in the introduction \(in Hindi\) of his edition of the YH. The hypothesis does not lack probability. Abhinavagupta mentions central India \(*madhyadeśa*\) as the seat of all the Śaiva treatises \( *niḥ-śeṣa-śāstra-sadanam* \). This remains to be proved.
+
+All of this is possible. The metaphysics and the vocabulary of the YH, however, are so close to those of the post-scriptural Śaiva texts, and especially to those of the later Pratyabhijñā [^16] as expounded by Kṣemarāja, that its Kashmirian origin seems very likely. \(But since a number of authors on the tradition, such as Puṇyānanda, Śivānanda, and Vidyānanda, were from the south, a South Indian origin of the YH, however unlikely, cannot be entirely ruled out.\) 
+
+[^16]: 
+
+    The Pratyabhijñā \(the “Recognition”\), one of the philosophical systems of Kashmirian nondualist shaivism, was propounded first by Somānanda \(c. 900–950\), then by his disciple Utpaladeva, whose work was commented on and expanded by Abhinavagupta. It is one of the most remarkable Indian philosophical systems. 
+
+    Its main contention is that liberation is gained by the recognition \( *pratyabhijñā* \) of the identity of the human self \( *ātman* \) and the supreme Lord, Śiva. The “transpersonal” self thus realized contains the totality of subjective and objective phenomena in a nondualistic synthesis where all distinctions disappear in the fullness of the Absolute. 
+
+    A concise and clear presentation of the Pratyabhijñā was made by Kṣemarāja in the *Pratyabhijñāhrdaya*. It is translated into English by Jaideva Singh, Pratyabhijñāhr̥dayam, Sanskrit text with English translation and notes \(Delhi: Motilal Banarsidass, 1963\).
+
+
+
+The Tripurā cult was certainly present at a comparatively early date in the North Indian Himalayan area. There seem to be ancient traces of it in Nepal. Even if it began in the north, Tripurā’s cult appears to have soon spread to the south, as shown by works of such authors as those noted above. A large number of Śrīvidyā works come from the south, and the many manuscripts mostly in South Indian scripts that are found nowadays in libraries all over India testify to the comparatively early and [[8]] widespread popularity of the Tripurā cult. This fact is also interesting in that it shows the vitality and importance, from ancient times, of intellectual contacts between different parts of the Indian subcontinent. 
+
+### Commentaries
+There are two important commentaries on the YH. The earlier one is the *Dīpikā* \(“The Lamp”\) by Amṛtānanda, which we often refer to here \(abbreviating it as Dī \) since it is used as the basis of our explanation of the YH. The other one is the *Setubandha* by Bhāskararāya, who lived in Mysore and Varanasi at the end of the seventeenth and the beginning of the eighteenth centuries. It is a commentary on both the VM/NṣA and the YH, treating them as one and the same work. 
+
+Amṛtānanda’s Dī interprets the YH in the spirit of the later Praty-abhijñā as developed by Kṣema-rāja, which shows that even if Amṛtānanda was South Indian, he was nevertheless steeped in the Kashmirian Śaiva nondualist tradition. Bhāskararāya’s *Setubandha* , on the other hand, which was fi nished, we are told, on the Śivaratri day of Śaka 1655 \( a.d. 1733\), is the work of a much later remarkable polymath \(more than forty works are ascribed to him\), not characteristically written in the spirit of a particular sectarian tradition but very true to the Tantric spirit of the YH. It is clear and useful. 17 There are other commentaries of lesser interest. 
 
 It may be useful here to draw the reader’s attention to the fact that Indian religious or philosophical texts, often obscure or arcane or cast in 
 
@@ -168,7 +188,7 @@ taries given orally through the teaching of masters or in written exegetical wor
 
 A problem that arises concerning the text of the YH is its relationship to the VM/NṣA. The three chapters of the YH have often been considered to be the latter part of a work in eight chapters, the fi rst fi ve of which constitute the VM/NṣA. The YH begins with the Goddess asking Bhairava to explain to her “the many unknown elements that are in this Vāmakeśvaratantra” \( *vāmakeśvaratantre ‘sminn ajñātārthas anekaśaå* \). The YH would thus appear to be an esoteric complement to the more exoteric VM, which is a work of erotic magic and ritual, whereas the YH is mainly metaphysical and devotional, even in its third chapter on the *śrīcakrapūjā* . 
 
-To this can be added that Amṛtānanda sometimes refers to the VM in his Dī, notably when explaining why a particular point is or is not mentioned 
+To this can be added that Amṛtānanda sometimes refers to the VM in his Dī , notably when explaining why a particular point is or is not mentioned 
 
 * Introduction *
 
@@ -176,7 +196,7 @@ To this can be added that Amṛtānanda sometimes refers to the VM in his Dī, n
 
 in the YH or in his own commentary, and that Bhāskararāya later wrote his commentary, *Setubandha* , on all eight chapters of the two texts as if they constituted a single work, and he states explicitly that the YH is the latter half of the Tantra: *tantrottarārdham. * 
 
-There are, however, convincing reasons to believe that these two works are related but distinct texts, probably of diff erent periods. For instance, Śivānanda and Vidyānanda never refer to the YH in their commentaries on the NṣA. Jayaratha, when commenting on the VM, mentions several earlier commentators on the same, while Amṛtānanda, in his Dī, says that he is the fi rst to comment on the YH. Not only is the spirit of the two works very diff erent, but the YH also gives the *śrīvidyā* in the so-called *hādi* form, whereas the NŚA/VM gives it in the *kādi* form. 19 For these reasons and several others, we believe that the VM and the YH are two diff erent works, the VM being the earlier one and the YH being composed to complement it philosophically, which is why these two texts came, at some later period, to be considered as two sections of one work. 
+There are, however, convincing reasons to believe that these two works are related but distinct texts, probably of diff erent periods. For instance, Śivānanda and Vidyānanda never refer to the YH in their commentaries on the NṣA. Jayaratha, when commenting on the VM, mentions several earlier commentators on the same, while Amṛtānanda, in his Dī , says that he is the fi rst to comment on the YH. Not only is the spirit of the two works very diff erent, but the YH also gives the *śrīvidyā* in the so-called *hādi* form, whereas the NŚA/VM gives it in the *kādi* form. 19 For these reasons and several others, we believe that the VM and the YH are two diff erent works, the VM being the earlier one and the YH being composed to complement it philosophically, which is why these two texts came, at some later period, to be considered as two sections of one work. 
 
 
 
@@ -203,7 +223,7 @@ We will comment further on these Tantric aspects, and mention other ones, as the
 
 * Yoginī *
 
-The Yoginīof the title is the goddess Tripurasundarī. Amṛtānanda, in his Dī, explains that she is so called because she manifests the coming together \( *yoga* \) of all the constitutive elements of the universe. She bears this name, he says, because she is eternally in union, *yoga* , with Śiva. 
+The Yoginīof the title is the goddess Tripurasundarī. Amṛtānanda, in his Dī , explains that she is so called because she manifests the coming together \( *yoga* \) of all the constitutive elements of the universe. She bears this name, he says, because she is eternally in union, *yoga* , with Śiva. 
 
 These explanations are of some value insofar as they underscore the at once transcendent and immanent nature of the Goddess Śakti and her indissoluble union with Śiva. 
 
@@ -221,7 +241,7 @@ True, he does so because she orders him \(“I am ordered by You,” *tvayāham 
 
 *ājñaptaḥ* \), but this order is a form of his own will \( *madicchārūpayā* , 3.202\). 
 
-As the Dīexplains, the universe is the “play” \( *līlā* , *kṛḍ * \) of Śakti, but Śiva is her master. Theologically, in the devotion and worship of her devotees, the Goddess is supreme; but if Śiva andṣakti are inseparable, Śiva, the masculine aspect of the total supreme godhead, is higher:ṣakti is Śiva’s energy. Tripurā’s tradition is therefore Śaiva. 20 
+As the Dī explains, the universe is the “play” \( *līlā* , *kṛḍ * \) of Śakti, but Śiva is her master. Theologically, in the devotion and worship of her devotees, the Goddess is supreme; but if Śiva andṣakti are inseparable, Śiva, the masculine aspect of the total supreme godhead, is higher:ṣakti is Śiva’s energy. Tripurā’s tradition is therefore Śaiva. 20 
 
 Surrounded by the Yoginīs abiding in the *śrīcakra* —in the cosmos, that is—Tripurasundarī is the fi rst of them, infusing them with her power and presiding over their activity. They emanate from her in a hierarchical order, embodying and spreading her power on all planes of the cosmos and fulfi lling the functions allotted to them. As Bhairava says in YH 3.194: “You alone it is, Enchantress of the worlds, who are playing under the guise of these \[deities\].” They are aspects \( *rūpa* \) she takes on in her cosmic play. 
 
@@ -276,12 +296,12 @@ The supreme reality \( *paramaṁ mahat* , *mahātattva* , or *mahāsattā* , th
 
 “Great Being”\) is described as transcendent, undivided \( *niṣkala* , 1.27\), transcending space and time, pure light \( *prakāśa* , 1.11\), 24 and consciousness \( *saṁvit* , 1.10\). It is also the phoneme *A* , the “unsurpassed” or “peerless one” \( *anuttara* \). This absolute fl ashes forth, vibrates luminously \( *sphurattā* , *ullāsa* \). It expands as a luminous wave \( *sphuradūrmi* , 1.10\) by its own free will \( *svecchayā* , 1.9\) and manifests thus the whole cosmos made up of the thirty-six *tattvas* , from Śiva to the earth \( *pṛ thivī* , 2.32–33\). This universe, manifested 25 as if by play \( *līlā* \), is pervaded by the divine power or energy; everything, from the gods to this earthly world, is in fact the Goddess herself, supreme splendor \( *paraṁ tejas* , 1.72\), “surrounded by the sparkling waves of her multitudinous energies” \(1.55\). Of this manifestation, the Goddess is luminously conscious \( *prakāṣāmarśana* \) as it unfolds “on the screen of her own self” \( *ātmabhittau* , 1.56\). She vibrates \( *spandarūpiṇī * \), being immersed in bliss \( *ānanda* \). Although transcendent \( *viśvottīrṇa* \), the Goddess as supreme power \( *paramaśakti* \) is also immanent, “made of the world” \( *viśvamaya* \), that is, embodied in everything that exists. The cosmos is her manifested form, but although she is shining, “Flame of the essence of divine play” \( *divyakrīd rasojjvala* , 2.76\) as the absolute, she is ever pure, undivided light and bliss. All these notions and the terms used are typical of nondualist shaivism. 
 
-The YH, however, is not a philosophical treatise aiming at expounding particular metaphysical tenets. Neither was that the aim of the Dī, in spite of the fact that its interpretation of the sutras always develops their metaphysical import. The aim of this text \(and of practically all Indian metaphysical systems\) 26 was, while conveying an esoteric teaching, to show a way toward liberation—more precisely to a Tantric form of liberation in this life, *jīvanmukti* , which is both liberation from the fetters of this world and domination over it. This is the raison d’être of the three chapters of the YH. 
+The YH, however, is not a philosophical treatise aiming at expounding particular metaphysical tenets. Neither was that the aim of the Dī , in spite of the fact that its interpretation of the sutras always develops their metaphysical import. The aim of this text \(and of practically all Indian metaphysical systems\) 26 was, while conveying an esoteric teaching, to show a way toward liberation—more precisely to a Tantric form of liberation in this life, *jīvanmukti* , which is both liberation from the fetters of this world and domination over it. This is the raison d’être of the three chapters of the YH. 
 
 ## Cakrasaṁketa
 Chapter 1: * Cakrasaṁketa \(86 ślokas \) * *
 
-The YH does not say here how to draw the *śrīcakra* \(nor does Amṛ tānanda in the Dī\). It describes how it appears as an outward manifestation of the power of the Goddess, who is deemed to have agreed with her consort, Śiva, to be present with him in the *śrīcakra* , hence the title of the chapter, *Cakrasaṁketa* . What is described is a cosmic process bringing about the existence of the *cakra* that embodies this process and mediates it to the *sādhaka* who is to visualize mentally its aspect and its dynamism through an intense identifying form of meditation called *bhāvanā* . 27 
+The YH does not say here how to draw the *śrīcakra* \(nor does Amṛ tānanda in the Dī \). It describes how it appears as an outward manifestation of the power of the Goddess, who is deemed to have agreed with her consort, Śiva, to be present with him in the *śrīcakra* , hence the title of the chapter, *Cakrasaṁketa* . What is described is a cosmic process bringing about the existence of the *cakra* that embodies this process and mediates it to the *sādhaka* who is to visualize mentally its aspect and its dynamism through an intense identifying form of meditation called *bhāvanā* . 27 
 
 After presenting the dialogue, in the Absolute, between the Goddess and Bhairava, which makes up the text of the YH, the chapter fi rst describes the cosmic unfolding of the *śrīcakra* from the central *bindu* to the outer square \( *śl* . 10–21\). Then the adept, following a reverse movement, since he is a human being, is to visualize and perceive within himself the three main constituent parts of the *cakra* , going from the outer square to the center. Now, once the meditation of the *sādhaka* has reached the central *bindu* , he is to evoke and follow mentally the ascending levels of phonic energy \(the *kalās* , “parts”\), from *ardhacandra* to *unmanā* , of the utterance \( *uccāra* \) 28 of the *bīja HRīṂ * , the basic mantra of the Goddess. 
 

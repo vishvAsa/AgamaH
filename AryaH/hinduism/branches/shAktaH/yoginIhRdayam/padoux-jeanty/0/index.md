@@ -110,7 +110,7 @@ in the *pūjā*, 115, 120–121, 126
 - Kāmeśvara*, *Kāmeśvarā*, 17
 - dīkṣā*, 2
 - kāmya*, 126, 144
-- Dīpikā, * abbr. *Dī*, 8
+- Dīpikā, * abbr. *Dī *, 8
 - kaṇḍa*, 40
 - dvādaśānta*, 21, 105–106
 - kapāla, kapālika*, 4, 16

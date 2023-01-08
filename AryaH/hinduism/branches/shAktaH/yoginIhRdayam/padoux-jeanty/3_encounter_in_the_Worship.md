@@ -44,7 +44,7 @@ insofar as they remain in the condition of nonduality. //3a//
 
 *prathamādvaitabhāvasthā sarvaprasaragocarā * / 
 
-This worship is purely spiritual. The Dīquotes here stanzas 116–117 of the *Vijñānabhairava* , the fi rst of which states: “Wherever the mind goes, 
+This worship is purely spiritual. The Dī quotes here stanzas 116–117 of the *Vijñānabhairava* , the fi rst of which states: “Wherever the mind goes, 
 
 * *
 
@@ -68,7 +68,7 @@ The third one, O Goddess\! consists in \[placing\] that which arises by itself i
 
 *evaṁ jñānamaye devi tṛtīyā svaprathāmayī* / 
 
-This practice is “supreme-nonsupreme” \( *parāpara* \) in that it consists \(insofar as we can understand the YH and the Dī\), for the adept, in seeing mentally by an intense meditation of nonduality \( *advaitabhāvanā* \) all the rites he performs—the worship of all the deities abiding in the *śrīcakra* , that is *—* as immersed in the Absolute. The Dīquotes: “With the off ering, I throw the mental constructions of the limited being, and all such elements, into the fi re which is a compact mass of consciousness, just as one pours clarifi ed butter into the sacrifi cial fi re.” We will see later several ritual acts interpreted metaphysically in the same way. 
+This practice is “supreme-nonsupreme” \( *parāpara* \) in that it consists \(insofar as we can understand the YH and the Dī \), for the adept, in seeing mentally by an intense meditation of nonduality \( *advaitabhāvanā* \) all the rites he performs—the worship of all the deities abiding in the *śrīcakra* , that is *—* as immersed in the Absolute. The Dī quotes: “With the off ering, I throw the mental constructions of the limited being, and all such elements, into the fi re which is a compact mass of consciousness, just as one pours clarifi ed butter into the sacrifi cial fi re.” We will see later several ritual acts interpreted metaphysically in the same way. 
 
 The highest is known as the supreme one. Listen now to how it 
 
@@ -89,13 +89,13 @@ Having evoked mentally within the *vāgbhava* placed in the forest of the great 
 96
 This practice is considered supreme because it implies a complete fusion of the adept with the Absolute. 
 
-*Vāgbhava* , here as in stanza 69 of chapter 2 \(see above\), designates not the fi rst *kū ṭ * a of the *śrīvidyā* but the place where the four planes of the Word \( *vāc* \) are situated \( *bhavanti* \). This totality of the Word is to be visualized by the adept as shining in the “forest of the great lotus,” that is, the *akulapadma* , which, as we have seen in chapter 1, is, in this system, a white thousand-petaled lotus located on the summit of the *suṣumnā* , where the *vyāpinīkalā* of the *uccāra* of the mantra is located, pouring incessantly a fl ow of ambrosia \( *amṛta* \). The Dīexplains that this fl ow of ambrosia is “the fl ow of the essence of the undivided divine Consciousness.” The adept is to have an intimate direct awareness \( *svātmatayā vimṛśya* \) of this. Note that the above visualizations are to be mentally “seen” in the yogic body of the adept; yoga and worship are inseparable. 
+*Vāgbhava* , here as in stanza 69 of chapter 2 \(see above\), designates not the fi rst *kū ṭ * a of the *śrīvidyā* but the place where the four planes of the Word \( *vāc* \) are situated \( *bhavanti* \). This totality of the Word is to be visualized by the adept as shining in the “forest of the great lotus,” that is, the *akulapadma* , which, as we have seen in chapter 1, is, in this system, a white thousand-petaled lotus located on the summit of the *suṣumnā* , where the *vyāpinīkalā* of the *uccāra* of the mantra is located, pouring incessantly a fl ow of ambrosia \( *amṛta* \). The Dī explains that this fl ow of ambrosia is “the fl ow of the essence of the undivided divine Consciousness.” The adept is to have an intimate direct awareness \( *svātmatayā vimṛśya* \) of this. Note that the above visualizations are to be mentally “seen” in the yogic body of the adept; yoga and worship are inseparable. 
 
 The footprint of the Master is the presence in this world of the supreme Śiva. Amṛtānanda quotes again the fi rst stanza of his *Cidvilāsastava* : “One is the form of Śiva, luminous by himself. One \[also\] is the ‘being’ \[ *tanu* \] 
 
 which is the awareness of this. The supreme \[reality\], total fusion of these two \[elements\], such is the footprint of \[the Master\]: it is in essence the supreme Śiva.” 
 
-On the realization of nonduality, the Dīadds: “The mystical realization of the absence of all duality with Him consists in being totally absorbed in the \[awareness of \] ‘This, verily, I am’ \[ *saivāham asmīti samāveśa* \], a state called intoxication since it makes one \[divinely\] intoxicated; and it is because of the state thus caused that the \[adept\], full of joy, totters.” 
+On the realization of nonduality, the Dī adds: “The mystical realization of the absence of all duality with Him consists in being totally absorbed in the \[awareness of \] ‘This, verily, I am’ \[ *saivāham asmīti samāveśa* \], a state called intoxication since it makes one \[divinely\] intoxicated; and it is because of the state thus caused that the \[adept\], full of joy, totters.” 
 
 He must turn away from the chatter of discursive thought, being entirely devoted to the contemplation of the *nāda* which arises inside the Small One. //6// 
 
@@ -103,7 +103,7 @@ He must turn away from the chatter of discursive thought, being entirely devoted
 
 *vikalparūpasaṁjalpavimukha ḥ * 
 
-To defi ne the Small One \( *dahara* \), the Dīquotes the *Mahānārāyana* *Upaniṣad* : “The Small One, without defects, residence of the supreme Lord, lotus of the heart abiding in the center of the citadel.” It is therefore the space in the center of the lotus of the heart: “In this Small One is the inner space” \( *daharo’sminn artarākāśa ḥ * \), says the *Chāndogya Upaniṣad* . 
+To defi ne the Small One \( *dahara* \), the Dī quotes the *Mahānārāyana* *Upaniṣad* : “The Small One, without defects, residence of the supreme Lord, lotus of the heart abiding in the center of the citadel.” It is therefore the space in the center of the lotus of the heart: “In this Small One is the inner space” \( *daharo’sminn artarākāśa ḥ * \), says the *Chāndogya Upaniṣad* . 
 
 The adept must therefore contemplate, meditate, this symbol of the supreme, concentrating on the *nāda* , the inner subtle vibration he feels in 
 
@@ -127,7 +127,7 @@ The worship of oneself must be done with elements that are pleasing to the sense
 
 *indriyaprīṇanair dravyair vihitasvātmapūjana ḥ * / 
 
-The worship to be done is not of the self of the worshipper but of the deity that is the very essence *—* the deity of one’s self \( *svātmadevatā* \) *—* of the worshipper. The Dīquotes here a text that says: “To worship in a natural fashion the deity that is one’s own self by using perfumes etc. to which the doors of the senses are opened, such is the great sacrifi ce of one who knows.” And it adds: “as has been said, the highest sort of *pūjā* consists in attaining a complete fusion \[ *sāmarasīkaraṇa* \] thanks to the great felicity born from the experience of the sounds, etc., perceived by the ears and the other senses of the worshipper.” The identifi cation of the worshipper with the deity being worshipped, which is the aim of the Tantric *pūjā* , is considered in all Tantras as being more easily achieved when helped by the beauty and charm of the ritual. 
+The worship to be done is not of the self of the worshipper but of the deity that is the very essence *—* the deity of one’s self \( *svātmadevatā* \) *—* of the worshipper. The Dī quotes here a text that says: “To worship in a natural fashion the deity that is one’s own self by using perfumes etc. to which the doors of the senses are opened, such is the great sacrifi ce of one who knows.” And it adds: “as has been said, the highest sort of *pūjā* consists in attaining a complete fusion \[ *sāmarasīkaraṇa* \] thanks to the great felicity born from the experience of the sounds, etc., perceived by the ears and the other senses of the worshipper.” The identifi cation of the worshipper with the deity being worshipped, which is the aim of the Tantric *pūjā* , is considered in all Tantras as being more easily achieved when helped by the beauty and charm of the ritual. 
 
 The description of the “nonsupreme” \( *apara* \) *pūjā* begins now, with the preliminary rite of *nyāsa* , which is very complex, a large number of elements having to be ritually imposed on the body of the offi
 
@@ -210,7 +210,7 @@ Dvidanta, Gajavaktra, Nirañjana, Kapardavān, D
 
 ī rghamukha, 
 
-Śa ṅkukarna, Vṛṣadhvaja, //15// Gan 
+Śaṅkukarna, Vṛṣadhvaja, //15// Gan 
 
  anātha and Gajendra, 
 
@@ -354,7 +354,7 @@ The “deities Ḍ ā, etc.” are a group of secondary goddesses, or Yoginīs, 
 
 semen, 6 because the YH associates them with six bodily *cakras* only. 
 
-Amṛtā is the fi rst of a group of sixteen *śaktis* or Mothers \( *mātṛkās* \); their names are enumerated in a passage of the *Svacchandasa ṅgraha* quoted in the Dī\(p. 238\). 
+Amṛtā is the fi rst of a group of sixteen *śaktis* or Mothers \( *mātṛkās* \); their names are enumerated in a passage of the *Svacchandasa ṅgraha* quoted in the Dī \(p. 238\). 
 
 All these deities are placed mentally on the imaginal body of the offi ciating adept by an *āntaranyāsa* , an inner imposition, which is a mental rite; this is explained in the commentary, which also says that the *dhyāna* , the mental visualization of all the deities, can be found “in another *āgama* .” 
 
@@ -390,7 +390,7 @@ Kānyakubja, Pūrn
 
  aśaila and Arbuda, //34// Amrātakeśvara, 
 
-Ekāmra, Trisrotas, Kāmako ṭ aka, Kailāsa, Bhṛgunagara, Kedāra and Pūrṇaścandraka, //35// Śrīpīṭha, Omkārapīṭha, Jālandhra, Mālava, Utkala, Kulānta, Devīkoṭṭa, Gokarṇa, Maruteśvara, //36// Aṭṭahāsa and Viraja, Rājagṛha, Mahāpatha, Kolāpura, Elāpura, Kāleśa and Jayantikā, //37// Ujjayinī, Vicitra and Kṣī raka, Hastināpura, O ḍ ḍ iśa, the one named Prayāga, 
+Ekāmra, Trisrotas, Kāmako ṭ aka, Kailāsa, Bhṛgunagara, Kedāra and Pūrṇaścandraka, //35// Śrīpīṭha, Omkārapīṭha, Jālandhra, Mālava, Utkala, Kulānta, Devīkoṭṭa, Gokarṇa, Maruteśvara, //36// Aṭṭahāsa and Viraja, Rājagṛha, Mahāpatha, Kolāpura, Elāpura, Kāleśa and Jayantikā, //37// Ujjayinī, Vicitra and Kṣī raka, Hastināpura, Oḍḍiśa, the one named Prayāga, 
 
 Ṣ aṣthīthen Māyāpuri, //38// Jaleśa, 
 
@@ -426,14 +426,14 @@ Malayaśaila and the Meru, the best of all mountains, Mahendra and Vāmana, then
 
 *mahālakṣmīpuro ḍ yāṇe chāyāchatram ata ḥ param* / 
 
-*ete pīṭ hā ḥ samu ḍ ḍ iṣṭ hā mātṛkārūpakā ḥ sthitā ḥ * //40// 
+*ete pīṭ hā ḥ samuḍḍiṣṭ hā mātṛkārūpakā ḥ sthitā ḥ * //40// 
 
 We have seen in chapter 1 \( *śl* . 41–43\) the four main *pīthas* of the Tripurā 
 
 tradition. Enumerated here are the fi fty *śākta* ones, the list of which varies according to diff erent texts. The list given here is perhaps ancient, but this is not certain. Some *pīṭhas* can be identifi ed \(Kāmarūpa, Nepal, and Varaṇasi, for instance\), others not. Attempts have been more or less convincingly made at locating all of them geographically. They seem to spread out all over India but not to include Kashmir. 
 
 104
-The Dīexplains that each phoneme is to be uttered distinctly when placing it on the body, together with the name of the *pīṭha* concerned. 8 
+The Dī explains that each phoneme is to be uttered distinctly when placing it on the body, together with the name of the *pīṭha* concerned. 8 
 
 The sixfold \[ *nyāsa* \] having thus been done, the imposition of the *śrīcakra* is then to be performed. Listen, O Dear One\! to the imposition of the *cakra* of the venerable Tripurasundarī//41// which has never been told to anyone, purifi es the body, and is supreme. 
 
@@ -443,9 +443,9 @@ The sixfold \[ *nyāsa* \] having thus been done, the imposition of the *śrīca
 
 *yan na kaścid ākhyātaṁ tanuśuddhikaraṁ param* / 
 
-The Dīhere extols the *nyāsa* of the *cakra* of the supreme goddess Tripurasundarī, who is “the supreme dynamism of consciousness \( *paracitkalā* \), the object of supreme love \( *parapremāspada* \), her *cakra* being made up of all the *tattvas* from Śiva down to the earth, which is the place where she reveals herself. The process of this *nyāsa* is to be kept secret. 
+The Dī here extols the *nyāsa* of the *cakra* of the supreme goddess Tripurasundarī, who is “the supreme dynamism of consciousness \( *paracitkalā* \), the object of supreme love \( *parapremāspada* \), her *cakra* being made up of all the *tattvas* from Śiva down to the earth, which is the place where she reveals herself. The process of this *nyāsa* is to be kept secret. 
 
-It purifi es the body and is supreme.” This, says the Dī, is to say that “it transforms the body made of the thirty-six *tattvas* by bringing it up to the level of the supreme essence”; this is why this imposition is superior to all others. 
+It purifi es the body and is supreme.” This, says the Dī , is to say that “it transforms the body made of the thirty-six *tattvas* by bringing it up to the level of the supreme essence”; this is why this imposition is superior to all others. 
 
 First, while saying “Praise to the fi rst line of the square,” one must make a pervasive imposition on the right side: on the back of the shoulder, the extremity of the hand, the hip, and the toes and, on the left side: on the toes, the hip, the extremity of the hand, and the back of the shoulder //43// and also on the base and the back of the head, O Beautiful One\! 
 
@@ -593,7 +593,7 @@ Even for a reader able to follow the Sanskrit text, the two last stanzas are not
 
 of the trunk would then be where the arms and the thighs begin. “Thus,” 
 
-the Dīconcludes, “the root of the left arm will be in the northeastern angle 
+the Dī concludes, “the root of the left arm will be in the northeastern angle 
 
 \[ *ī śa* \], the left groin will be in the northwest \[ *vāyu* \], the right groin in the southwest \[ *nirṛti* \], and the root of the right arm in the southeastern 13 angle.” 
 
@@ -643,7 +643,7 @@ The chin, the throat, the heart, and the navel are considered as forming the rig
 
 *catuṣṭ ayaṁ ca pārśvānāṁ etat koṇāṣṭ akaṁ puna ḥ * / 
 
-The *cakra* of eight triangles is considered “originating” because the three larger *cakras* encircling it, which we have just seen, are deemed to issue from it. This is consistent with the inner movement of the *śrīcakra* , which goes from the center to the periphery. The central position of this *cakra* , encircling the central triangle within which is the *bindu—* the place of the Goddess *—* is underlined by the fact that it is imposed on four places along the axis of the body, one of which is not a part of the physical body but is the *maṇipūracakra* , a center of the yogic imaginal body 14 situated on the level of the navel \(as the Dīexplains\). The weapons \( *āyudha* \) 15 that the Goddess holds in her four hands are then to be imposed:
+The *cakra* of eight triangles is considered “originating” because the three larger *cakras* encircling it, which we have just seen, are deemed to issue from it. This is consistent with the inner movement of the *śrīcakra* , which goes from the center to the periphery. The central position of this *cakra* , encircling the central triangle within which is the *bindu—* the place of the Goddess *—* is underlined by the fact that it is imposed on four places along the axis of the body, one of which is not a part of the physical body but is the *maṇipūracakra* , a center of the yogic imaginal body 14 situated on the level of the navel \(as the Dī explains\). The weapons \( *āyudha* \) 15 that the Goddess holds in her four hands are then to be imposed:
 
 One must impose on the outside, in the four directions, around 
 
@@ -670,7 +670,7 @@ being, as is well known, the spiritual, mystical center of the human being.
 
 The lines of this triangle \(to be placed by a *vvāpakanyāsa* , whose effi cacy 
 
-spreads along all of the outside lines\) are to be imposed with the mantra *trikoṇāya nama ḥ * . To avoid any misunderstanding, the Dīexplains that the heart is “in the middle of his breast.” Three goddesses are to be imposed there—Kāmeśvarī, Vajreśvarī, and Bhagamālinī—on the three points of the triangle and, on its center, on the *bindu* \(also called *baindavacakra* \), the Goddess. The weapons, it is explained, are those of Kāmeśvara and Kāmeśvarī, 16 two diff erent deities that are the male and female aspect of the Goddess; eight *āyudhas* are thus to be placed. 
+spreads along all of the outside lines\) are to be imposed with the mantra *trikoṇāya nama ḥ * . To avoid any misunderstanding, the Dī explains that the heart is “in the middle of his breast.” Three goddesses are to be imposed there—Kāmeśvarī, Vajreśvarī, and Bhagamālinī—on the three points of the triangle and, on its center, on the *bindu* \(also called *baindavacakra* \), the Goddess. The weapons, it is explained, are those of Kāmeśvara and Kāmeśvarī, 16 two diff erent deities that are the male and female aspect of the Goddess; eight *āyudhas* are thus to be placed. 
 
 Thus, O Goddess\! I have told you the imposition, a most secret procedure. //67// It is indeed to be performed by you most secretly, O Praised by the heroes\! It is to be entrusted to those \[only\] who follow the rule \[of Kula\], never to anyone who is not the \[initiated\] 
 
@@ -716,7 +716,7 @@ eyes, the two bows on the eyebrows, //70// the nooses on the ears, the goads on 
 
 *sṛṇidvayam ca nāṣāgre dakṣiṇāgraṁ tu vinyaset* / 
 
-The “triangle of the head” is probably the place of the fontanel. The Dī
+The “triangle of the head” is probably the place of the fontanel. The Dī 
 
 describes it: “there is on the center of the head a triangular place, which is easily seen, being very fragile, on small children.” The deities accompanying Kāmeśvarīare Vajreśvarīand Bhagamālinī. The offi
 
@@ -736,7 +736,7 @@ These eight deities of the word, also named Mātrya
 
 ṣ ṭ aka, or 
 
-Aṣṭ amātarā ḥ , “the eight Mothers,” presiding over the eight groups \( *varga* \) of phonemes of the Sanskrit alphabet are usually Mahālakṣmī\(or Brahmī\), 19 and so on. The Dīsays they are “Vaśinī, etc.,” a list proper to the Śrīvidyā, however, not given. They are also considered to form a group of eight *siddhayoginī* , as we will see later \(3.154\). 
+Aṣṭ amātarā ḥ , “the eight Mothers,” presiding over the eight groups \( *varga* \) of phonemes of the Sanskrit alphabet are usually Mahālakṣmī\(or Brahmī\), 19 and so on. The Dī says they are “Vaśinī, etc.,” a list proper to the Śrīvidyā, however, not given. They are also considered to form a group of eight *siddhayoginī* , as we will see later \(3.154\). 
 
 The *cakra* of the *bindu* and the other ones are \[the only elements now\] to be imposed, O Beautiful One\! on the inside and outside 
 
@@ -775,7 +775,7 @@ The lotus with eight petals is to be imposed on the navel; this, however, is mad
 
 The exact places on the body on which to impose all these deities are explained in the commentary. For instance, “in front of the tuft” is explained as the forehead. Since our readers are not expected to practice this *pūjā* , we do not believe it is necessary to clarify the text. 
 
-The two next impositions are to be made on two *cakras* ; they are to be imposed by *nyāsa* on the parts of the body corresponding to the *cakras* . For the *svādhiṣṭ hāna* , the group of four deities is to be placed circularly on four places on the lower part of the belly. As for the ten Mudrās to be imposed on the *mūlādhāra* , they are, in fact, to be imposed there and \(according to the Dī\) on the right and the left of the spine:
+The two next impositions are to be made on two *cakras* ; they are to be imposed by *nyāsa* on the parts of the body corresponding to the *cakras* . For the *svādhiṣṭ hāna* , the group of four deities is to be placed circularly on four places on the lower part of the belly. As for the ten Mudrās to be imposed on the *mūlādhāra* , they are, in fact, to be imposed there and \(according to the Dī \) on the right and the left of the spine:
 
 On the *svādhiṣṭ hāna* one must impose, starting from the east in front of oneself and fi nishing in the south, //76// the \[energies\] in groups of four, successively, in the four directions of space. 
 
@@ -824,11 +824,11 @@ The YH now concludes on the nature and role of *nyāsa* : The imposition spreads
 *evaṁ vinyasya deveśi svābhedena vicintayet* / 
 
 114
-As the Dīexplains, this stanza is to be understood metaphysically. 
+As the Dī explains, this stanza is to be understood metaphysically. 
 
 What is the “cause,” or, better, what is at the root of the imposition of the *śricakra* \(together with the Goddess and the deities abiding in it\), is the total fusion of the light and the act of consciousness \( *prakā*
 
-*śvimarśasāmarasya* \): 21 the supreme deity insofar as it is identical with the totality of the universe \( *akhilajagadrūpa* \), which, as we have seen, is the real nature of the *śrīcakra* . By imposing on the body of the offi ciant, section by section *—* as lamps are lighted going from one lamp to another *—* all the constitutive parts and all the deities of the *śrīcakra* , the adept’s body becomes progressively, part after part, identifi ed with this cosmic Absolute in its several aspects and in its totality. To quote the Dī: “Having meditated and made mentally appear \[ *vibhāvya* \] all the parts of the *śrīcakra* together with their energies as not diff erent from the various parts of his body \[on which they are imposed, the adept\] 
+*śvimarśasāmarasya* \): 21 the supreme deity insofar as it is identical with the totality of the universe \( *akhilajagadrūpa* \), which, as we have seen, is the real nature of the *śrīcakra* . By imposing on the body of the offi ciant, section by section *—* as lamps are lighted going from one lamp to another *—* all the constitutive parts and all the deities of the *śrīcakra* , the adept’s body becomes progressively, part after part, identifi ed with this cosmic Absolute in its several aspects and in its totality. To quote the Dī : “Having meditated and made mentally appear \[ *vibhāvya* \] all the parts of the *śrīcakra* together with their energies as not diff erent from the various parts of his body \[on which they are imposed, the adept\] 
 
 must meditate and realize mystically \[ *bhāvayet* \] that there is no distinction between himself and the supreme \[Goddess\] presiding over this 
 
@@ -870,9 +870,9 @@ on the navel. After this, he must perform the purifi cation of the hands, then i
 
 The imposition of the *vidyā* is that of the three *bījas* \(or *kū ṭ as* \) of the *śrīvidyā* , the *vāgbhavabīja* being imposed on the head, the *kāmarājabīja* on the sexual organs, and the *śaktibīja* on the heart. 
 
-The Dīdoes not identify the throne. The six *a ṅga* are the six “limbs” of Śiva: *hrdaya* \(heart\), *śiras* \(head\), *śikha* \(tuft\), *kavaca* \(cuirass\), *netra* \(eyes\), and *astra* \(weapon\), which are, in fact, not limbs of the body but attributes or powers of the god \(or of any other deity\). The *nyāsa* of Śrīkaṇṭ ha is an imposition of fi fty Rudras, of which Śrīkaṇṭ ha is the fi rst. The eight Vāgdevīs, as we have seen, are the Mātṛkās, Kāmeśvarī, and so on, mistresses of the *vargas* of the Sanskrit alphabet. 
+The Dī does not identify the throne. The six *a ṅga* are the six “limbs” of Śiva: *hrdaya* \(heart\), *śiras* \(head\), *śikha* \(tuft\), *kavaca* \(cuirass\), *netra* \(eyes\), and *astra* \(weapon\), which are, in fact, not limbs of the body but attributes or powers of the god \(or of any other deity\). The *nyāsa* of Śrīkaṇṭ ha is an imposition of fi fty Rudras, of which Śrīkaṇṭ ha is the fi rst. The eight Vāgdevīs, as we have seen, are the Mātṛkās, Kāmeśvarī, and so on, mistresses of the *vargas* of the Sanskrit alphabet. 
 
-The imposition of “the *cakras* of fi re, etc.” is a complex procedure. First to be imposed are the *cakras* of the three luminaries \( *dhāman* \), Fire, Moon, and Sun; then the four main *pīṭhas* of the Śrīvidyā, O ḍ ḍ iyāna, Kāmarūpa, Jālandhara, and Pūrṇagiri, with their regents, powers, and attendant goddesses. The details of this process are given in the Dī. 
+The imposition of “the *cakras* of fi re, etc.” is a complex procedure. First to be imposed are the *cakras* of the three luminaries \( *dhāman* \), Fire, Moon, and Sun; then the four main *pīṭhas* of the Śrīvidyā, Oḍḍiyāna, Kāmarūpa, Jālandhara, and Pūrṇagiri, with their regents, powers, and attendant goddesses. The details of this process are given in the Dī. 
 
 Then a last imposition is to be made:
 
@@ -892,7 +892,7 @@ libation whose liquids are the nectars of moon and fi re. //86//
 
 The three *tattvas* \( *tritattva* \) are Śiva, *śakti, * and *nara* \(God, the energy, and man\), the three components of the cosmos, each being imposed while uttering one of the three parts of the *śrīvidyā* , the cosmic divine totality being thus imposed on the adept before he begins the ritual of the *pūjā. * 
 
-According to the Dī, the moon is the “half- *kalā * of *HA* without second” \( *anuttara* \), that is, *Ḥ * , which is in the triangle at the center of the thousand-petaled lotus placed at the base of the *kuṇḍ alinī* , whereas the fi re is the letter *S* in the triangle at the center of the four-petaled lotus of the *mūlādhāra* . \(The mantra to be imposed is therefore *SAU Ḥ * , the *bījamantrra* of Paṛā, the supreme goddess of the Trika.\) From there, a fl ow of nectar 
+According to the Dī , the moon is the “half- *kalā * of *HA* without second” \( *anuttara* \), that is, *Ḥ * , which is in the triangle at the center of the thousand-petaled lotus placed at the base of the *kuṇḍ alinī* , whereas the fi re is the letter *S* in the triangle at the center of the four-petaled lotus of the *mūlādhāra* . \(The mantra to be imposed is therefore *SAU Ḥ * , the *bījamantrra* of Paṛā, the supreme goddess of the Trika.\) From there, a fl ow of nectar 
 
 116
 issues, resulting from the fusion of the *amṛtakuṇḍ alinī* of moon and the *agnikuṇḍ alinī* of fi re, one fl owing downward and the other upward, assuming the double \(sexual\) aspect of the union of *yoni* and *li ṅga. * 
@@ -905,7 +905,7 @@ It is thus, O Worshipped by the Gods\! that the fourfold imposition is to be per
 
 *karaśuddhyādikaś caiva sādhakena susiddhaye* / 
 
-This object, says the Dī, is liberation, not the possession of supernatural powers, since these are already possessed by the adept who is a *sādhaka* . 
+This object, says the Dī , is liberation, not the possession of supernatural powers, since these are already possessed by the adept who is a *sādhaka* . 
 
 They are to be performed each separately in the morning, at the time of the ritual worship, during the rite of *homa* //88/ and the *japa* ; or the best of adepts will do all of them during worship. 
 
@@ -951,7 +951,7 @@ One would be tempted to imagine this throne as rising up from the central *bindu
 
 but are all those that are manifested \( *praka ṭ a* \). The other ones form seven groups: Guptatara \(very secret\), Sampradaya \(traditional\), Kulakaula, Nigarbha, Rahasya \(hidden\), Atirahasya \(very hidden\), and Parāpararahasya. This makes eight groups in all, which are to be found, under the same or under diff erent names, in many Tantric Śaiva traditions. We shall meet these Yoginīs later, in *śl* . 113–155 of this chapter, distributed in the diff erent parts of the *śrīcakra* , from the outer square to the central triangle 
 
-The Dīadds that since the adept must fi rst perform an inner, purely mental worship, he must meditate on the *śrīcakra* “made of all the *tattvas* ” as being his own body and perform a worship on his head with the *mūlamantra* of the Yoginis. 
+The Dī adds that since the adept must fi rst perform an inner, purely mental worship, he must meditate on the *śrīcakra* “made of all the *tattvas* ” as being his own body and perform a worship on his head with the *mūlamantra* of the Yoginis. 
 
 He will then proceed by removing the internal obstacles:
 
@@ -990,7 +990,7 @@ Tantric rites can only be performed in a place or an area that is perfectly pure
 
 *dikṣvadhordhvaṁ mahāvahniprākāraṁ paribhāvayet* //93// 
 
-The Dī, true to its metaphysical interpretation of the YH, says that this great fi re is nothing other than the Supreme Consciousness fl ashing forth everywhere. This fi re, it adds, must be impassable so that none of the obstacles resulting from dualistic thought may enter the consecrated area of the sacrifi ce or the mind of the offi
+The Dī , true to its metaphysical interpretation of the YH, says that this great fi re is nothing other than the Supreme Consciousness fl ashing forth everywhere. This fi re, it adds, must be impassable so that none of the obstacles resulting from dualistic thought may enter the consecrated area of the sacrifi ce or the mind of the offi
 
 ciating adept who has mentally con-
 
@@ -1012,11 +1012,11 @@ O mistress of the gods\! one is to perform with the common *arghya* the worship 
 
 Mārtaṇḍ a is a name of the sun god, Sūrya. The worship of the sun \( *sūryapūjā* \) is the fi rst item of the daily mandatory \( *nitya* \) ritual worship \( *pūjā* \) of Śiva. The sun is generally considered golden but is also seen as red, especially in the Āgamas or Tantras. When represented in human form, he is often white with a red garment. Red is the color of the Goddess; it is also the color of passion, attachment, and *vimarśa* , self-consciousness, while *prakāśa* , light, is white, the color of Śiva. Insofar as Mārtaṇḍ a manifests the universe, he is on the side of *vimarśa* and redness. 
 
-The Seizers \(Graha\), who number nine, are, as we have seen before \(see chapter 2, *śloka* 58\), the planets, but they are also demonic, dangerous supernatural beings who “seize” their victims. The planets, too, are seizers insofar as they “seize,” or infl uence, human beings. The “others” \( *ādi\)* are the six “limbs” \( *a ṅga* \) of Śiva, *hr̥daya* , *śiras* , *śikha* , and so on, 26 according to the Dī; but *ādi* , in *grahādi* , can also be understood as “the sun being the fi rst \( *ādi* \)” \(of the Seizers\). 
+The Seizers \(Graha\), who number nine, are, as we have seen before \(see chapter 2, *śloka* 58\), the planets, but they are also demonic, dangerous supernatural beings who “seize” their victims. The planets, too, are seizers insofar as they “seize,” or infl uence, human beings. The “others” \( *ādi\)* are the six “limbs” \( *a ṅga* \) of Śiva, *hr̥daya* , *śiras* , *śikha* , and so on, 26 according to the Dī ; but *ādi* , in *grahādi* , can also be understood as “the sun being the fi rst \( *ādi* \)” \(of the Seizers\). 
 
 *Arghya—* there is no satisfactory translation of the term *—* is the specially prepared water off ered as oblation to a deity. 27 
 
-The sun worship having been performed \(neither the YH nor the Dī
+The sun worship having been performed \(neither the YH nor the Dī 
 
 describes it\), the worship of the Goddess can begin:
 
@@ -1030,7 +1030,7 @@ of the Yoginīs. //95–96a//
 
 
 
-By “in the right manner,” the YH means “following carefully the instructions given by an expert.” Orpiment \( *rocana* , also called *gorocana* \) is a mineral form of arsenic, of a yellow color. Agalloche is also a yellow stuff , as is kunkuma \(turmeric\). The lunar \( *saumya* \) substance is camphor, which is white, like the moon; while the igneous or fi ery one is saf-fron, “for it looks like a fl ame,” says the Dī, which also explains that these items are to be mixed “with nectar,” *sudha* , a term usually synonymous with *amṛta* . It may, however, also mean powder; *maṇḍ alas* to be used only once are most often drawn with powders. The Dīexplains, too, that the *śrīcakra* is to be drawn on a sheet of gold “or another” \( *ādi* \) material with a needle of gold. It adds that some experts say that the diagram may be drawn “with musk, saff ron, camphor, sandal, and nectar.” 
+By “in the right manner,” the YH means “following carefully the instructions given by an expert.” Orpiment \( *rocana* , also called *gorocana* \) is a mineral form of arsenic, of a yellow color. Agalloche is also a yellow stuff , as is kunkuma \(turmeric\). The lunar \( *saumya* \) substance is camphor, which is white, like the moon; while the igneous or fi ery one is saf-fron, “for it looks like a fl ame,” says the Dī , which also explains that these items are to be mixed “with nectar,” *sudha* , a term usually synonymous with *amṛta* . It may, however, also mean powder; *maṇḍ alas* to be used only once are most often drawn with powders. The Dī explains, too, that the *śrīcakra* is to be drawn on a sheet of gold “or another” \( *ādi* \) material with a needle of gold. It adds that some experts say that the diagram may be drawn “with musk, saff ron, camphor, sandal, and nectar.” 
 
 120
 The *mūlamantra* 
@@ -1039,7 +1039,7 @@ to be recited is that of the manifest Yogin
 
 ī s 
 
-\( *praka ṭ ayoginī* \), says the Dī; see our commentary on *śl* . 90 above. 
+\( *praka ṭ ayoginī* \), says the Dī ; see our commentary on *śl* . 90 above. 
 
 Then one must throw on it fl owers held in one’s joined hands. 
 
@@ -1053,7 +1053,7 @@ the *mūlavidyā * backward One must, in all cases, ensure that \[the *cakra* \]
 
 *aśūnyaṁ sarvadā kuryāt śūnye vighnās tvanekaśa ḥ * //97// 
 
-The rule that the *cakra* or the chalice used for the ritual worship of a Tantric deity must never be empty of the prescribed off erings is a general rule. In the case of Bhairava, the Tantrāloka says that if the chalice were empty, the god, always furious and voracious, would immediately devour the adept. More sedately, the Dīsays that if the *cakra* were empty of these off erings during the worship, the ritual would be fruitless. 
+The rule that the *cakra* or the chalice used for the ritual worship of a Tantric deity must never be empty of the prescribed off erings is a general rule. In the case of Bhairava, the Tantrāloka says that if the chalice were empty, the god, always furious and voracious, would immediately devour the adept. More sedately, the Dī says that if the *cakra* were empty of these off erings during the worship, the ritual would be fruitless. 
 
 \[The *sādhaka* \] must place the *arghya* between the *śrīcakra* and himself on \[a fi gure\] of six angles inside a square, O Beloved of the gods\! 
 
@@ -1069,7 +1069,7 @@ The rule that the *cakra* or the chalice used for the ritual worship of a Tantri
 
 *arcayitvā ‘rghyapāde tu vahner daśa kalā yajet* / 
 
-The Dīdescribes the diagram in which a six-angled fi gure with a small triangle in its center is inscribed in a circle, which is inside a square. The chalice into which the *arghya * has been poured \(the *arghyapātra* \) is to be placed on this inner small triangle. The Dīgives the names of the six *āsanas* who seem to be throne deities \(or deities of the throne\), sacralizing, as it were, the “throne,” the place of the *arghyapatra* . 28 
+The Dī describes the diagram in which a six-angled fi gure with a small triangle in its center is inscribed in a circle, which is inside a square. The chalice into which the *arghya * has been poured \(the *arghyapātra* \) is to be placed on this inner small triangle. The Dī gives the names of the six *āsanas* who seem to be throne deities \(or deities of the throne\), sacralizing, as it were, the “throne,” the place of the *arghyapatra* . 28 
 
 * *
 
@@ -1095,7 +1095,7 @@ sacrifi ce to the twelve *kalās* of the Sun. //100// He will \[thus\] worship o
 
 *vighṛte tu punar dravyeṣo ḍ aśendukalā yajet* //101// 
 
-The *sādhaka* is to worship a \(mental\) image of the sun god in the center of the chalice by invoking its image in his heart while uttering its mantra and worshipping its twelve *kalās* , associating each with one of twelve letters of the Sanskrit alphabet from *KA* to *THA* and from *BHA* to *Ḍ A* , while uttering their names, this being done with an off ering of perfumed water. The sixteen *kalās* of the moon are worshipped in the same way, with the sixteen fi rst letters of the alphabet, from *A* to *visarga* , 30 and sprinkling of clarifi ed butter associated with “another substance,” which, according to the Dī, is wine \( *madya* \). 31 
+The *sādhaka* is to worship a \(mental\) image of the sun god in the center of the chalice by invoking its image in his heart while uttering its mantra and worshipping its twelve *kalās* , associating each with one of twelve letters of the Sanskrit alphabet from *KA* to *THA* and from *BHA* to *Ḍ A* , while uttering their names, this being done with an off ering of perfumed water. The sixteen *kalās* of the moon are worshipped in the same way, with the sixteen fi rst letters of the alphabet, from *A* to *visarga* , 30 and sprinkling of clarifi ed butter associated with “another substance,” which, according to the Dī , is wine \( *madya* \). 31 
 
 And in its center he must meditate intensely on Amṛteśīwith the Navātma\[mantra\]. Then, with the Navātman, O Goddess\! he must 
 
@@ -1124,7 +1124,7 @@ Having worshipped the sandals of the \[succession of \] masters, he must then of
 
 The sandals or footprints \( *pādukā* \) of the gurus are those of all the masters of the tradition of Tripurā, from Śiva to one’s own guru. These *pādukas* are metaphysically the imprint, the trace of the presence of the supreme deity in this world; to worship them is therefore to worship the deity as present in this world. The *gurupūjā * is a mandatory element of the fi rst part of the Tantric *pūjā. * 
 
-In this tradition, the succession of the gurus is deemed to go through three stages, called fl ows \( *ogha* \). First, the divine \( *divya* \) fl ow, starting with Śiva followed by four masters, one for each of the four cosmic cycles, the *yugas* from *Kṛtayuga* to *Kaliyuga* ; then the fl ow of perfect or accomplished masters \( *siddhaugha* \); and fi nally, the human ones \( *mānavaugha* \), the succession of the masters of this world, going from the fi rst revelation of the doctrine to our days. The Dītells how to worship them: the *arghya* is to be elevated three times up to his head by the offi
+In this tradition, the succession of the gurus is deemed to go through three stages, called fl ows \( *ogha* \). First, the divine \( *divya* \) fl ow, starting with Śiva followed by four masters, one for each of the four cosmic cycles, the *yugas* from *Kṛtayuga* to *Kaliyuga* ; then the fl ow of perfect or accomplished masters \( *siddhaugha* \); and fi nally, the human ones \( *mānavaugha* \), the succession of the masters of this world, going from the fi rst revelation of the doctrine to our days. The Dī tells how to worship them: the *arghya* is to be elevated three times up to his head by the offi
 
 ciant, then off ered to 
 
@@ -1142,7 +1142,7 @@ Having collected what remains of it, one must perform \[with it\] an oblation in
 
 *pādukāṁ mūlavidyāṁ ca japan humaṁ samācaret* //105// 
 
-As is underlined at length by the Dī, this oblation is not so much a material as a symbolic rite. Actual pouring may take place, but the process is a mental, spiritual one. The offi
+As is underlined at length by the Dī , this oblation is not so much a material as a symbolic rite. Actual pouring may take place, but the process is a mental, spiritual one. The offi
 
 ciant, namely, is to imagine 
 
@@ -1179,11 +1179,11 @@ plane of consciousness. 33 It is on this level that the oblation takes place;
 124
 it consists of pouring \(in spirit\) all the aspects of the cosmic manifestation in the central, both human and divine, void of consciousness. This is why a “spontaneous” \(that is, uncaused\) bliss arises in the offi ciating 
 
-adept. The Dīsays: “Having poured again and again the full oblation \(both human and divine\) of clarifi ed butter, which in reality is the total fusion of the objectivity and the I-ness \( *ahāntā* \) 34 born from the rubbing of the 
+adept. The Dī says: “Having poured again and again the full oblation \(both human and divine\) of clarifi ed butter, which in reality is the total fusion of the objectivity and the I-ness \( *ahāntā* \) 34 born from the rubbing of the 
 
 *araṇis* of the mantra, \[one reaches\] the supreme fulgurating bliss. Such is the internal oblation.” 
 
-According to a passage of the Dī\(which also quotes stanza 72 of the Vijñānabhairava\), the oblation may be made of *amṛta* and may even include an alcoholic substance *—* a possibility the Dīmentions again when, commenting the next half- *śloka* , it says that a wise man is somebody who, because he drinks alcohol, keeps his mind concentrated in a single intent. From this concentration \( *dhāraṇā* \), meditation \( *dhyāna* \) is born: “without concentration, the worship is fruitless.” Thus, having off ered to the Masters, Śiva, and so forth, alcohol transformed into nectar \( *amṛta* \) and having poured it in off ering into the fi re of the self, the spirit of the adept will become perfectly stable, and he will experience the supreme, blazing bliss. The practice is mental, spiritual, rather than actually performed with an alcoholic beverage. 
+According to a passage of the Dī \(which also quotes stanza 72 of the Vijñānabhairava\), the oblation may be made of *amṛta* and may even include an alcoholic substance *—* a possibility the Dī mentions again when, commenting the next half- *śloka* , it says that a wise man is somebody who, because he drinks alcohol, keeps his mind concentrated in a single intent. From this concentration \( *dhāraṇā* \), meditation \( *dhyāna* \) is born: “without concentration, the worship is fruitless.” Thus, having off ered to the Masters, Śiva, and so forth, alcohol transformed into nectar \( *amṛta* \) and having poured it in off ering into the fi re of the self, the spirit of the adept will become perfectly stable, and he will experience the supreme, blazing bliss. The practice is mental, spiritual, rather than actually performed with an alcoholic beverage. 
 
 Thus, as stated in the next half- *śloka* :
 
@@ -1195,7 +1195,7 @@ The *śrīcakra* can be said to be the form taken by the adept’s consciousness
 
 \) of Kashmir Shaivism, there is no diff erence between 
 
-human consciousness and the deity’s absolute consciousness. To quote the Dī: “What shines \(i.e., appears\) as the *śrīcakra* is nothing else than the cosmic expansion of the godhead who is his \(the adept’s\) consciousness, an expansion formed by the fourfold *antahkarana* , the inevolute \( *avyakta* \), the *mahant* , and the *ahaṁkāra* , along with the subtle elements \( *tanmātra* \), the ten senses \( *indriya* \), their ten activities, their objects, the *puryaṣṭ aka* , and the expansion \[which goes down\] to the gross elements \( *dhātu* \) and 
+human consciousness and the deity’s absolute consciousness. To quote the Dī : “What shines \(i.e., appears\) as the *śrīcakra* is nothing else than the cosmic expansion of the godhead who is his \(the adept’s\) consciousness, an expansion formed by the fourfold *antahkarana* , the inevolute \( *avyakta* \), the *mahant* , and the *ahaṁkāra* , along with the subtle elements \( *tanmātra* \), the ten senses \( *indriya* \), their ten activities, their objects, the *puryaṣṭ aka* , and the expansion \[which goes down\] to the gross elements \( *dhātu* \) and 
 
 \[ forms\] the sixteen ‘evolutes’ \( *vikāra* \).” 35 
 
@@ -1217,7 +1217,7 @@ A sacrifi ce 36 to Gaṇeśa and to Dūtarī, to the Master of the Field, and to
 
 *bāhyadvāre yajed devi devīśca svastikādikā ḥ * //109// 
 
-The Dīexplains that the ritual worship of the fi rst group of deities is to be performed “on the frame of the door” of the outer square section of the *śrīcakra* . The Master of the Field, Kṣetreśa or Ksetrapāla, is the god Ba ṭ uka, an aspect of Bhairava; Dutīis his consort. The goddesses headed by Svastikā, worshipped on the external part of the door, number fi ve; they are “singing goddesses” \( *gāyikā* \), deemed to delight Tripurasundarī with their songs. 
+The Dī explains that the ritual worship of the fi rst group of deities is to be performed “on the frame of the door” of the outer square section of the *śrīcakra* . The Master of the Field, Kṣetreśa or Ksetrapāla, is the god Ba ṭ uka, an aspect of Bhairava; Dutīis his consort. The goddesses headed by Svastikā, worshipped on the external part of the door, number fi ve; they are “singing goddesses” \( *gāyikā* \), deemed to delight Tripurasundarī with their songs. 
 
 Then the line of masters, which abides, threefold, in the inner triangle is also \[to be worshipped\]. 
 
@@ -1242,11 +1242,11 @@ and in this \[ *baindavacakra* \] he will worship, after having invoked her, the
 
 The “Forest of the Great Lotus,” as we have seen \( *śl* . 5\), is the *akula* lotus of one thousand petals on the summit of the *suṣumnā* . It is therefore on a spot of his own yogic body that the adept is to mentally perform this worship. The ritual process of the *pūjā* appears here *—* as it will do again later *—* as a total process, both bodily and mental. The Goddess is seen in this lotus leaning against Bhairava, on whose left thigh she is sitting. 
 
-As for the “cause” \( *kāraṇa* \) 37 that fi lls her with joy, it is an alcoholic beverage, as is appropriate in a Tantric ritual. This, says the Dī, when drunk by the Goddess, becomes nectar and fi lls her body with joy, her body being henceforth pure, supreme, luminous bliss. 
+As for the “cause” \( *kāraṇa* \) 37 that fi lls her with joy, it is an alcoholic beverage, as is appropriate in a Tantric ritual. This, says the Dī , when drunk by the Goddess, becomes nectar and fi lls her body with joy, her body being henceforth pure, supreme, luminous bliss. 
 
 The off erings of “food, etc.,” are the usual ritual off erings of perfume, food, lights, incense, and fl owers, each corresponding to one of the fi ve constitutive gross elements of the cosmos and of the body: earth, water, fi re, air, and space, elements of which the Goddess is also constituted insofar as she is identical with the cosmos. 
 
-The Dīexpatiates at length on the metaphysical symbolic interpretation of these off erings; as interesting as they are, these developments are too long and complex to be reported here. 
+The Dī expatiates at length on the metaphysical symbolic interpretation of these off erings; as interesting as they are, these developments are too long and complex to be reported here. 
 
 Then, on the triangle, \[one must worship\] the refl ected forms of her fl ashing forth, //112// the Nityās made of all the *tithis* , their aspects being those suitable for optional rites. 
 
@@ -1375,7 +1375,7 @@ The purifi cation of the hands \( *karaśuddhi* \) is a mandatory preliminary ri
 
 ciant must be perfectly pure. This rite normally 
 
-consists of imposing on the hands the *astra* \(weapon\) mantra. Here it is the Goddess who is symbolically deemed not only to purify but also to cause the *siddhi* goddess Aṇimā to exist. But why Aṇimā? Because, says the Dī, the *siddhi aṇimā* \(and thus the goddess Aṇimā\) reduces the self, the living being \(of the offi
+consists of imposing on the hands the *astra* \(weapon\) mantra. Here it is the Goddess who is symbolically deemed not only to purify but also to cause the *siddhi* goddess Aṇimā to exist. But why Aṇimā? Because, says the Dī , the *siddhi aṇimā* \(and thus the goddess Aṇimā\) reduces the self, the living being \(of the offi
 
 ciating adept\), to its fi nest, most 
 
@@ -1404,11 +1404,11 @@ These stanzas must be explained. The Yogin
 
 ī s that abide in the 
 
-sixteen-petaled lotus of the *śrīcakra* are identifi ed with an aspect of the cosmic vibration that animates the universe, the *spanda* . This *spanda* is said, in the present case, to be sixteen-fold, being identifi ed with the sixteen “vowels” of the Sanskrit alphabet, which, inṣaiva cosmogonies, are the sixteen *kalās* , limiting energies, of Bhairava when he manifests the cosmos. Their nature is described as “wonder” \( *camatkāra* \), by which is meant that they are pervaded with consciousness \( *cit* \), that is, subtle. They are also identifi ed with the vital breaths, *prāṇa, apāna* , *udāna* , and so on, which, in fact, are usually considered to number only ten, not sixteen: “the names of the six others can be found in other *āgamas* ,” says the Dī, without quoting any reference. These *kalās* , being active, are “seeds” \( *bīja* \), 
+sixteen-petaled lotus of the *śrīcakra* are identifi ed with an aspect of the cosmic vibration that animates the universe, the *spanda* . This *spanda* is said, in the present case, to be sixteen-fold, being identifi ed with the sixteen “vowels” of the Sanskrit alphabet, which, inṣaiva cosmogonies, are the sixteen *kalās* , limiting energies, of Bhairava when he manifests the cosmos. Their nature is described as “wonder” \( *camatkāra* \), by which is meant that they are pervaded with consciousness \( *cit* \), that is, subtle. They are also identifi ed with the vital breaths, *prāṇa, apāna* , *udāna* , and so on, which, in fact, are usually considered to number only ten, not sixteen: “the names of the six others can be found in other *āgamas* ,” says the Dī , without quoting any reference. These *kalās* , being active, are “seeds” \( *bīja* \), 
 
 which is the case of the “vowels.” 41 
 
-The Yoginīs abiding in this inner portion of the *śrīcakra* are called Guptayoginīs \(see above, *śl. * 90\). This, says the Dī, is because they are evolutes that are pervaded with consciousness. They are to be worshipped in the reverse order, starting from the right, not simply because they are Tantric deities but, says the Dī, because they are associated with the emanation that is done by “vomiting” \( *vāmena* ,\) the universe. 
+The Yoginīs abiding in this inner portion of the *śrīcakra* are called Guptayoginīs \(see above, *śl. * 90\). This, says the Dī , is because they are evolutes that are pervaded with consciousness. They are to be worshipped in the reverse order, starting from the right, not simply because they are Tantric deities but, says the Dī , because they are associated with the emanation that is done by “vomiting” \( *vāmena* ,\) the universe. 
 
 They hold the noose and the goad; they are red and clothed in red. 
 
@@ -1469,7 +1469,7 @@ The quality she possesses is beauty. //133// She rests on the planes of *piṇ�
 To say that Parameśvarīis purifi cation of the intellect means that the intellect is purifi ed when it reaches her level. The intellect \( *buddhi* \) is the 
 
 132
-plane of consciousness that grasps the objects of the senses whose savor is enjoyed by the supreme subject, Śiva, who, as the Dīsays, is therefore called the “knower of the fi eld” \( *kṣetrajña* \) of perception. 
+plane of consciousness that grasps the objects of the senses whose savor is enjoyed by the supreme subject, Śiva, who, as the Dī says, is therefore called the “knower of the fi eld” \( *kṣetrajña* \) of perception. 
 
 The expression “planes of *piṇḍ a* , etc.,” refers to the conception of the subtle body as including four ascending planes called *piṇḍ a* , *pada* , *rūpa* , and *rūpātīta* , planes also conceived of as tiered along the *suṣumnā* ; the highest of these, *rūpātīta* , is on the consciousness level of *turīya* , where 
 
@@ -1485,7 +1485,7 @@ To say that the nature \( *rūpa* \) of Parameśvarīis the supernatural power o
 
 *visargāntadaśāveśācchāktānubhavapūrvakam* / 
 
-The Dīexplains this obscure stanza as follows. Consciousness here is, in fact, the *kuṇḍ alinī* , which ascends following the path of the *suṣumnā* along which are tiered twelve subtle centres \( *granthi* \) *—* the usual six *cakras* and six “knots” placed between them *—* and goes up to a center called *ṣ o ḍ aśānta* \(“end of sixteen”\), probably to be imagined as sixteen fi ngers-breadths above the head. This ascending energy within the body of the adept, being Consciousness, is luminous; it fl ashes forth. The same movement was described previously in chapter 2, *śl* . 71 of the YH: “Shining like ten million fl ashes of lightning, . . . she attaches herself to the maṇḍ ala of the moon of the inner sky”. This was said above about the inner ascent of the *śrīvidyā* ; the same experience is taking place here. Here the maṇḍ ala of the moon is not mentioned, but with sixteen being a lunar number, 43 the *ṣ o ḍ aśānta* is also a “lunar” center. This ascent is described as “going up to the *visarga, * ” because the *visarga* is the sixteenth “vowel” of the Sanskrit alphabet; saying *visarga* is therefore equal to saying “sixteen.” 
+The Dī explains this obscure stanza as follows. Consciousness here is, in fact, the *kuṇḍ alinī* , which ascends following the path of the *suṣumnā* along which are tiered twelve subtle centres \( *granthi* \) *—* the usual six *cakras* and six “knots” placed between them *—* and goes up to a center called *ṣ o ḍ aśānta* \(“end of sixteen”\), probably to be imagined as sixteen fi ngers-breadths above the head. This ascending energy within the body of the adept, being Consciousness, is luminous; it fl ashes forth. The same movement was described previously in chapter 2, *śl* . 71 of the YH: “Shining like ten million fl ashes of lightning, . . . she attaches herself to the maṇḍ ala of the moon of the inner sky”. This was said above about the inner ascent of the *śrīvidyā* ; the same experience is taking place here. Here the maṇḍ ala of the moon is not mentioned, but with sixteen being a lunar number, 43 the *ṣ o ḍ aśānta* is also a “lunar” center. This ascent is described as “going up to the *visarga, * ” because the *visarga* is the sixteenth “vowel” of the Sanskrit alphabet; saying *visarga* is therefore equal to saying “sixteen.” 
 
 While performing this worship, the adept is to cause his *kuṇḍ alinī* to go up to this center. This is one of the cases in which a yogic process is to take place during a ritual action. As we know, in Tantra, yoga and rites cannot be entirely separated; they are two aspects of the total, both bodily and mental, active experience of ritual. 
 
@@ -1544,7 +1544,7 @@ The name of the *cakra* is Sarvasaubhāgyadāyaka, “the giver of all felicitie
 
 the adept during the worship of the Yoginīs of this *cakra* . 
 
-The Siddhiīśitvā, also worshipped there, gives the adept the state of Śiva, which implies, says the Dī, the purifi cation of the body and of the senses of the adept and also of the objects. This threefold purifi cation gives to the adept the state ofīśvara. To say that it takes place “in the triple city” \( *pūratraye* \) means that “the knower, knowledge, and the known,” 
+The Siddhiīśitvā, also worshipped there, gives the adept the state of Śiva, which implies, says the Dī , the purifi cation of the body and of the senses of the adept and also of the objects. This threefold purifi cation gives to the adept the state ofīśvara. To say that it takes place “in the triple city” \( *pūratraye* \) means that “the knower, knowledge, and the known,” 
 
 * *
 
@@ -1580,11 +1580,11 @@ body, a spirit-mind-body experience.
 
 cacy of the phonemes. In spite of this 
 
-unique and absolute nature, *nāda* is sometimes considered divisible, divided in eight, nine, or ten *nādas* , often associated with diff erent parts of the yogic body; such is the case here. The nine apertures \( *randhra* \) are nodal points, *cakras* , of the yogic body. The Dīdescribes them as parts of the inner space \( *gaganabhāga* \) of the *suṣumnā* and enumerates them: “ *mūlādhāra* , *svādhisthāna* , *maṇipūra* , *anāhata* , then above these *vajrapadma* , *kaṇṭ ha* , *laṁbikā* , *viṣuddha* , and *ājñā, * ” of which only the fi rst four and the last three are the usual *cakras* of this system. 
+unique and absolute nature, *nāda* is sometimes considered divisible, divided in eight, nine, or ten *nādas* , often associated with diff erent parts of the yogic body; such is the case here. The nine apertures \( *randhra* \) are nodal points, *cakras* , of the yogic body. The Dī describes them as parts of the inner space \( *gaganabhāga* \) of the *suṣumnā* and enumerates them: “ *mūlādhāra* , *svādhisthāna* , *maṇipūra* , *anāhata* , then above these *vajrapadma* , *kaṇṭ ha* , *laṁbikā* , *viṣuddha* , and *ājñā, * ” of which only the fi rst four and the last three are the usual *cakras* of this system. 
 
-As the Dīalso explains, the Goddess, in addition to these “distinct sounds,” is present in the body in a general way as an indistinct sound \( *nirviśeṣadhvani* \). 
+As the Dī also explains, the Goddess, in addition to these “distinct sounds,” is present in the body in a general way as an indistinct sound \( *nirviśeṣadhvani* \). 
 
-The ten phonemes that manifest her are the cerebrals and the dentals. They are “shadows” of the various objects of knowledge in that they are deemed to manifest these objects. The long commentary of the Dīon this stanza is rich and interesting but too abstruse to be given here. 
+The ten phonemes that manifest her are the cerebrals and the dentals. They are “shadows” of the various objects of knowledge in that they are deemed to manifest these objects. The long commentary of the Dī on this stanza is rich and interesting but too abstruse to be given here. 
 
 
 
@@ -1603,9 +1603,9 @@ Sarvārthasādhaka *cakra* , whose name agrees with what it is because of the ex
 
 *sarvasiddhipradādyās tu cakre sarvārthasādhake* //145// 
 
-The “expansion of the mantras,” according to the Dī, means that they help the offi
+The “expansion of the mantras,” according to the Dī , means that they help the offi
 
-ciant to realize that the true nature of his self is the same as that of the “absolute I” of Śiva \( *śivāhambhāvabhāvanā* \). Because such a mystical realization takes place in this *cakra* , it is called Sarvārthasādhaka, “fulfi ller of all wishes,” the highest of which is, of course, the wish for union with Śiva, which is precisely being fulfi lled in this *cakra* \(says the Dī\). 
+ciant to realize that the true nature of his self is the same as that of the “absolute I” of Śiva \( *śivāhambhāvabhāvanā* \). Because such a mystical realization takes place in this *cakra* , it is called Sarvārthasādhaka, “fulfi ller of all wishes,” the highest of which is, of course, the wish for union with Śiva, which is precisely being fulfi lled in this *cakra* \(says the Dī \). 
 
 The Mistress of the *cakra* is Tripurāśrī, O Great Sovereign\! \[named thus\] because she is the cause of the prosperity of the three worlds. 
 
@@ -1647,7 +1647,7 @@ nature, brings about total absorption. These \[Yoginīs\] carry a book and a ros
 
 *sarvajñādyā ḥ sthitā ḥ etā ḥ saha pustāksamālikā ḥ * //149// 
 
-The divine energy, *kuṇḍ alinī* , facing fi rst upward, reaches the supreme; then, facing downward, coiling back in the *mūlādhāra* , she manifests the universe through the phonemes *KA* , and so on, the consonants. This she does by the will of Kula, the deity, as identical with the cosmos \(or, as the Dīsays, holding in herself the thirty-six *tattvas* , together with the pho-
+The divine energy, *kuṇḍ alinī* , facing fi rst upward, reaches the supreme; then, facing downward, coiling back in the *mūlādhāra* , she manifests the universe through the phonemes *KA* , and so on, the consonants. This she does by the will of Kula, the deity, as identical with the cosmos \(or, as the Dī says, holding in herself the thirty-six *tattvas* , together with the pho-
 
 nemes\). 47 These are manifested by the ten Nigarbha \(“interior”\) Yoginīs whose names begin always with Sarva, abiding as they do in the *cakra* Sarvarakṣākara \(“causing total protection”\). 
 
@@ -1655,7 +1655,7 @@ In this *cakra* , the offi
 
 ciant, is supposed to be absorbed in his own nature 
 
-or essence \( *svarūpāveśa* \), thinking, “I am the supreme Śiva.” “Through this absorption,” says the Dī, “the deity shines without duality in the sixth *cakra* , which produces in the worshipper a total absorption in Śiva,” while the *cakra* protects him from everything that could hinder his spiritual search. 
+or essence \( *svarūpāveśa* \), thinking, “I am the supreme Śiva.” “Through this absorption,” says the Dī , “the deity shines without duality in the sixth *cakra* , which produces in the worshipper a total absorption in Śiva,” while the *cakra* protects him from everything that could hinder his spiritual search. 
 
 Nourishing the \[three\] cities of the knowing subject, the knowable, and knowledge, the mistress of this *cakra* , magical enchantress of this world, is called Tripurāmālinī. //150// 
 
@@ -1672,7 +1672,7 @@ The supernatural power that is purifi cation of the energy of the *vidyā * is c
 
 *etā ḥ sarvopacāreṇa pūjayed devatā ḥ kramāt* //151// 
 
-The energy of the *śrīvidyā* , says the Dī, is “expressed,” that is, manifested, by her phonemes. It is in reality the power of the all-powerful Supreme Consciousness. The *siddhi* given here is therefore quite naturally *prākāmya* , irresistibility. The adept who acquires it can transform himself or act freely everywhere, like Śiva. 
+The energy of the *śrīvidyā* , says the Dī , is “expressed,” that is, manifested, by her phonemes. It is in reality the power of the all-powerful Supreme Consciousness. The *siddhi* given here is therefore quite naturally *prākāmya* , irresistibility. The adept who acquires it can transform himself or act freely everywhere, like Śiva. 
 
 
 
@@ -1708,7 +1708,7 @@ consists, in fact, of their immobilization *—* of the *prāṇa* and *apāna* 
 
 state of mind. 
 
-The Dīexpresses this as follows: “meditating on \[the *kuṇḍ alinī* \] as a snake whose brightness is made to palpitate by the syllable *HU Ṃ * , one 
+The Dī expresses this as follows: “meditating on \[the *kuṇḍ alinī* \] as a snake whose brightness is made to palpitate by the syllable *HU Ṃ * , one 
 
 * *
 
@@ -1720,7 +1720,7 @@ makes it go upward together with the ascent of the breath and the thought.
 
 Thus, the *kuṇḍ alinī* rises up from the *mūlādhāra* . As an expert master says: ‘then one must meditate in the lotus of the heart the blazing power of consciousness,’ the adept’s consciousness, blazing in his heart, being the self which is consciousness itself \( *cidātman* \).” 
 
-This mental process also has a phonetic aspect, the Yoginīs to be worshipped there being associated with the sixteen “vowels,” from *A* to *visarga* \(also called here *kalās* \) associated with the groups \( *varga* \) of consonants, *KA* , *CA* , and so on, these syllables being what brings about the presence of the secret *—* Gupta *—* Yoginīs who are to be worshipped. Their subtlety, says the Dī, explains why they are in the Sarvarogahara *cakra* where the fi re of cosmic destruction is deemed to be present, its fi re being able to destroy the “illness” \( *roga* \) of the *saṁsāra* , “impermanent, stained, and impure.” 
+This mental process also has a phonetic aspect, the Yoginīs to be worshipped there being associated with the sixteen “vowels,” from *A* to *visarga* \(also called here *kalās* \) associated with the groups \( *varga* \) of consonants, *KA* , *CA* , and so on, these syllables being what brings about the presence of the secret *—* Gupta *—* Yoginīs who are to be worshipped. Their subtlety, says the Dī , explains why they are in the Sarvarogahara *cakra* where the fi re of cosmic destruction is deemed to be present, its fi re being able to destroy the “illness” \( *roga* \) of the *saṁsāra* , “impermanent, stained, and impure.” 
 
 The Yoginīs endowed with supernatural powers, Vaśinī, and so forth, are red in color, \[their hands\] forming the gesture of protection and of reassurance and holding the book and the rosary. 
 
@@ -1744,7 +1744,7 @@ O Maheśvarī, //155// \[and\] Tripurasiddhi, mistress \[of this *cakra* , all t
 
 *ī śvarīṁ tripurāsiddhim pūjayed bindutarpaṇai ḥ * / 
 
-Pure knowledge \( *śuddhavidyā* \), says the Dī, is the consciousness of the nonduality of the subject and the object: all is pure, unique, divine Consciousness. The realization of the nonduality of consciousness \( *saṁvidadvaita* \), of the nonduality with Śiva, is the highest, liberating knowledge. “Thus, the supernatural power of enjoyment \[ *bhukti* \] is the great power to enjoy the whole diversity of the world gained by the adept when worshipping in this seventh *cakra* .” This he does, adds the Dī, “by off ering drops of *arghya* , together with unhusked grains of barley corn \( *akṣata* \) and fl owers, with the *mudrā * of union of Śiva and Śakti made by joining the thumb and the little fi nger.” 
+Pure knowledge \( *śuddhavidyā* \), says the Dī , is the consciousness of the nonduality of the subject and the object: all is pure, unique, divine Consciousness. The realization of the nonduality of consciousness \( *saṁvidadvaita* \), of the nonduality with Śiva, is the highest, liberating knowledge. “Thus, the supernatural power of enjoyment \[ *bhukti* \] is the great power to enjoy the whole diversity of the world gained by the adept when worshipping in this seventh *cakra* .” This he does, adds the Dī , “by off ering drops of *arghya* , together with unhusked grains of barley corn \( *akṣata* \) and fl owers, with the *mudrā * of union of Śiva and Śakti made by joining the thumb and the little fi nger.” 
 
 140
 The *pūjā* in the eighth \(three-angled\), Sarvasiddhimāyā, *cakra* is now described:
@@ -1765,7 +1765,7 @@ O Goddess\! \[the Yoginī\] whose nature is that of the three energies, auspicio
 
 The deities in this *cakra* are, by their nature, nearer to the Goddess than the Yoginīs we saw previously. They are more important ones. 
 
-The three energies are the three basic energies of Śiva: will, knowledge, and action \( *icchā* , *jnāna* , *kriyā* \). Consciousness, says the Dī, is the Supreme Consciousness named Ambikā, the Mother; her splendor \( *dhāman* \) is made of light rays \( *kiraṇa* \) whose expansion \( *prasara* \) is the cosmic vibration \( *spanda* \) produced by the three regents of the cosmos identifi ed here with the three energy goddesses Vāmā, Jyeṣṭ hā, and Raudrī. The four regents of the ages of the world \(the *yuganāthas* \) are also there. 
+The three energies are the three basic energies of Śiva: will, knowledge, and action \( *icchā* , *jnāna* , *kriyā* \). Consciousness, says the Dī , is the Supreme Consciousness named Ambikā, the Mother; her splendor \( *dhāman* \) is made of light rays \( *kiraṇa* \) whose expansion \( *prasara* \) is the cosmic vibration \( *spanda* \) produced by the three regents of the cosmos identifi ed here with the three energy goddesses Vāmā, Jyeṣṭ hā, and Raudrī. The four regents of the ages of the world \(the *yuganāthas* \) are also there. 
 
 
 
@@ -1808,7 +1808,7 @@ O Sureśvarī\! these arrows of yours are associated with the second vowel, thei
 We are to understand here that the arrows are associated with the mantras of the *dhātus* , the constituent elements of the body, which are formed by the second vowel, *Ā* , of the Sanskrit alphabet and by one of fi ve consonants and ending with *Ṃ * . These consonants are the four semivowels, *YA* for the skin, *RA* for the blood, *LA* for the fl esh, *VA* for fat, and “what follows bone and marrow,” which is *SA* , for semen, which is designated in this way because, in the lists of the *dhātus* , *semen* \( *śukra* \) usually follows bone and marrow. The mantras of the fi ve arrows to be used in the 
 
 142
-worship to invoke them are \(as given in the Dī\): *YĀ Ṃ * , *RĀ Ṃ * , *LĀ Ṃ * , *VĀ Ṃ * , and *SĀ Ṃ * . 
+worship to invoke them are \(as given in the Dī \): *YĀ Ṃ * , *RĀ Ṃ * , *LĀ Ṃ * , *VĀ Ṃ * , and *SĀ Ṃ * . 
 
 \[The Mistress of this *cakra* is\] Tripurāmbikā, who generates the three cities Vāmā, etc., //161// These \[deities\], O Lovely-faced Woman, are to be worshipped with all the ritual off erings and services. \[They bestow\] the supernatural power of unlimited will because their 
 
@@ -1824,7 +1824,7 @@ nature is that of supreme freedom. //162//
 
 Vāmā is one of the three main goddesses surrounding 
 
-Tripurasundarī: Vāmā, Jyeṣṭ hā, and Raudrī. They are called “cities” probably because they are near Tripurasundarī, the “Beautiful \[Mistress\] of the Three Cities.” The Dī, however, says that it is because they are presided over by Kāmeṣvarī, whose nature is that of the three basic energies, *icchā* , *jñāna* , and *kriyā* . 
+Tripurasundarī: Vāmā, Jyeṣṭ hā, and Raudrī. They are called “cities” probably because they are near Tripurasundarī, the “Beautiful \[Mistress\] of the Three Cities.” The Dī , however, says that it is because they are presided over by Kāmeṣvarī, whose nature is that of the three basic energies, *icchā* , *jñāna* , and *kriyā* . 
 
 Then comes the worship in the ninth, central, *cakra* :
 
@@ -1842,7 +1842,7 @@ In the supreme Sarvānandamaya *cakra* , O Goddess, whose nature is that of the 
 
 *mahāmudrāmayīdevīpūjyā* 
 
-That the supreme Goddess should be *parabrahman* and consciousness goes without saying. The Dīadds, however, that she is, for the worshipper, the goddess of his own consciousness \( *svasaṁviddevatā* \), underlining thus the *saṁvidadvaita* \(the “nonduality of consciousness”\) conception of the Trika: that there is only one conscious principle, Śiva, of which the 
+That the supreme Goddess should be *parabrahman* and consciousness goes without saying. The Dī adds, however, that she is, for the worshipper, the goddess of his own consciousness \( *svasaṁviddevatā* \), underlining thus the *saṁvidadvaita* \(the “nonduality of consciousness”\) conception of the Trika: that there is only one conscious principle, Śiva, of which the 
 
 * *
 
@@ -1856,9 +1856,9 @@ Tripurasundarī is also “the great Kāmakalā.” This refers to the *kāmakal
 
 diagram, symbolizing the union of Śiva and Śakti, which we have already seen in chapter 2, *śl* . 21. 
 
-She is to be worshipped with all freedom of practice \( *svairācāreṇa* \), that is, says the Dī, “with elements pleasing to the senses and whose nature is what the worshipper desires,” a practice, it adds, characterized by an intense one-pointed mental concentration on the blazing pulsation \( *pari-sphurat paramānusaṁdhāna* \) of the supreme. Tantric worship, as we have already seen, implies the total mental and bodily, intensely lived participation of the offi
+She is to be worshipped with all freedom of practice \( *svairācāreṇa* \), that is, says the Dī , “with elements pleasing to the senses and whose nature is what the worshipper desires,” a practice, it adds, characterized by an intense one-pointed mental concentration on the blazing pulsation \( *pari-sphurat paramānusaṁdhāna* \) of the supreme. Tantric worship, as we have already seen, implies the total mental and bodily, intensely lived participation of the offi
 
-ciant in the ritual action. The Dīquotes here stanza 74 of 
+ciant in the ritual action. The Dī quotes here stanza 74 of 
 
 the *Vijñānabhairava* : “Wherever the mind of the individual fi nds satisfaction, on this supreme point the mind is to be fi rmly concentrated, for the supreme bliss shines intensely there.” 
 
@@ -1874,7 +1874,7 @@ Made up of fi fteen \[syllables\] and as many *tithis* , eternal, she is the nin
 
 *praticakraṁ samudrās tu cakrasaṁketakoditā ḥ * / 
 
-The Goddess is said to be made up of fi fteen syllables, because the *srīvidyā* of fi fteen syllables is herself in her mantric aspect. She is also made up of the *tithis* , the fi fteen lunar days, because they form together the whole moon, another totality. In fact, the number of the totality \(and of the moon\) is not fi fteen but sixteen. The Dīexplains, therefore, that 
+The Goddess is said to be made up of fi fteen syllables, because the *srīvidyā* of fi fteen syllables is herself in her mantric aspect. She is also made up of the *tithis* , the fi fteen lunar days, because they form together the whole moon, another totality. In fact, the number of the totality \(and of the moon\) is not fi fteen but sixteen. The Dī explains, therefore, that 
 
 144
 if one adds to the fi fteen *tithis* or syllables of the *śrīvidyā * the *ṣ rīvidya* as a whole, taken as a unit, one has 15 \+ 1 = 16. The *mūlavidyā * worshipped in this central triangle is thus seen as made up of her separate syllables plus their ensemble, thus being sixteenfold. 
@@ -1895,7 +1895,7 @@ optional rites, //166// either in the triangle or in the intermediate space of t
 
 Nityaklinnā is placed on the left side of the central triangle between two other goddesses, Kāmeśvarīand Bhagamālinī. The other goddesses of the inner retinue of Tripurasundarī\(meant by “etc.”\) are thirteen Nityās. 50 They are to be worshipped either in the central triangle or on the sixteen-petaled lotus, meant here by “the intermediate space of the square.” 
 
-The use of so-called optional rites \( *kāmyakarmaṇi* \), that is, rites undertaken to attain a desired object, is normal in the present Tantric context, since the worship of all these deities gives *siddhis* , which are desired \( *kāmya* \) by the adept. The Dīdescribes these rites as consisting of “fl owers, visualizing meditation \[ *dhyāna* \], syllables, etc., adapted to such optional rites as subjugation, etc.” The next stanza is more explicit:
+The use of so-called optional rites \( *kāmyakarmaṇi* \), that is, rites undertaken to attain a desired object, is normal in the present Tantric context, since the worship of all these deities gives *siddhis* , which are desired \( *kāmya* \) by the adept. The Dī describes these rites as consisting of “fl owers, visualizing meditation \[ *dhyāna* \], syllables, etc., adapted to such optional rites as subjugation, etc.” The next stanza is more explicit:
 
 Having honored the deities with alcohol, pieces of cooked meat, perfumes, and incense, //167// the worship of the *cakra* is thus accomplished. \[The offi
 
@@ -1929,7 +1929,7 @@ This action is here metaphysically interpreted,
 
 being, as we 
 
-have seen, one of the terms used to mean the body, whether cosmic or human. *Kula* , says the Dī, is “the body made of the thirty-six *tattvas* ”, in other words, the whole world, which is thus symbolically off ered to the Goddess. But the Dīalso interprets this as follows: this lamp “is the dynamism of consciousness shining in the lotus of the heart and which, through the senses, shines in the same way in all objects.” “This lamp it adds, “shines by its own light, which is the direct intuitive perception of the supreme reality,” the act of off ering being, for the adept, “the inner quiescent tranquillity \[ *viśrānti* \] in consciousness that he experiences when turning inward.” 
+have seen, one of the terms used to mean the body, whether cosmic or human. *Kula* , says the Dī , is “the body made of the thirty-six *tattvas* ”, in other words, the whole world, which is thus symbolically off ered to the Goddess. But the Dī also interprets this as follows: this lamp “is the dynamism of consciousness shining in the lotus of the heart and which, through the senses, shines in the same way in all objects.” “This lamp it adds, “shines by its own light, which is the direct intuitive perception of the supreme reality,” the act of off ering being, for the adept, “the inner quiescent tranquillity \[ *viśrānti* \] in consciousness that he experiences when turning inward.” 
 
 Now comes the last rite of this *pūjā* , the *japa* . 
 
@@ -1945,7 +1945,7 @@ imagined \(and, to a certain extent, experienced\) as taking place in the yogic 
 
 We have described its general pattern above in the introduction. 
 
-Here we will follow, with the help of the Dī, the details of the process as described \(or alluded to\) in stanzas 169b–189a. \(See table 3.1.\) 
+Here we will follow, with the help of the Dī , the details of the process as described \(or alluded to\) in stanzas 169b–189a. \(See table 3.1.\) 
 
 Then, having done the *añjali* with fl owers, he must practice *japa* with a composed and steady mind. //169a// 
 
@@ -2187,7 +2187,7 @@ One must perform the *japa* mentally while meditating on the sixfold emptiness, 
 
 These entities *—* the six emptinesses \( *śūṇya* \), the fi ve states or conditions \( *avasthā* \) of the mind, and the seven *viṣuvat* \(a term we translate as 
 
-“equalization”\), says the Dī, are to be meditatively realized \( *bhāvayet* \) in the constitutive elements of the *śrīvidyā* of which this is therefore a *japa—*
+“equalization”\), says the Dī , are to be meditatively realized \( *bhāvayet* \) in the constitutive elements of the *śrīvidyā* of which this is therefore a *japa—*
 
 of a particular sort. 
 
@@ -2207,9 +2207,9 @@ They are linked to the ascending enunciation \( *uccāra* \) of *HRīṂ —* it
 
 The offi
 
-ciating adept is apparently to meditate intensely on these imaginary points. The Dīexplains that he is to see in his mind the *śūṇyas* looking like “the multicolored circles adorning the feathers of a peacock,” for which it quotes sūtra 32 of the *Vijñānabhairava* : “If one meditates on the fi ve voids \[using as support\] the multicolored circles adorning the feathers of a peacock, one penetrates in the heart, supreme void.” 
+ciating adept is apparently to meditate intensely on these imaginary points. The Dī explains that he is to see in his mind the *śūṇyas* looking like “the multicolored circles adorning the feathers of a peacock,” for which it quotes sūtra 32 of the *Vijñānabhairava* : “If one meditates on the fi ve voids \[using as support\] the multicolored circles adorning the feathers of a peacock, one penetrates in the heart, supreme void.” 
 
-The Dīalso quotes part of stanza 41 of the same text: “he will be absorbed in the marvelous ether of consciousness.” 
+The Dī also quotes part of stanza 41 of the same text: “he will be absorbed in the marvelous ether of consciousness.” 
 
 The fi rst line of *śl* . 175 implies that there is a still higher, “emptier” level of emptiness, above the sixth one. 
 
@@ -2224,7 +2224,7 @@ faculties.
 
 The two categories of faculties are the fi ve organs or faculties of apperception \( *jñānendriya* or *buddhīndriya* \), sight, hearing, smell, taste, and touch, and the fi ve senses of action \( *karmendriya* \) corresponding to the functions of speaking, holding, walking, excreting, and copulating. These two categories correspond to two groups of *tattvas* in the classifi cation of the Sāṁkhya, categories that are active in the waking state. A meditative realization, an inner experience of the plane of consciousness corresponding to these sense experiences or activities is probably what the adept is supposed to have in this part of the *japa* . 
 
-The meditative realization of the great wakefulness is to take place “in the fi re” \( *vahnau* \), which is to say, the Dīexplains, “in the letter *RA* present on the tip of the third *bīja* ,” 51 that is, in the  *R* of the *HRīṂ * of the third *kū ṭ a* of the *śrīvidyā—* something we may fi nd diffi
+The meditative realization of the great wakefulness is to take place “in the fi re” \( *vahnau* \), which is to say, the Dī explains, “in the letter *RA* present on the tip of the third *bīja* ,” 51 that is, in the  *R* of the *HRīṂ * of the third *kū ṭ a* of the *śrīvidyā—* something we may fi nd diffi
 
 cult to visualize but which is 
 
@@ -2240,7 +2240,7 @@ Since there are fi ve ascending conditions of the mind, the meditative process o
 
 *galadeśe* 
 
-The state of dream \( *svapna* \) is defi ned by the Dīas the condition of the knowing subject \( *pramātṛ* \) 52 when his mental activity is separated from 
+The state of dream \( *svapna* \) is defi ned by the Dī as the condition of the knowing subject \( *pramātṛ* \) 52 when his mental activity is separated from 
 
 the senses of action and linked to the internal organs. The internal organ, the *anta ḥ karaṇa* , is made up of the three *tattvas* between the senses of apperception and *prakṛti* , namely the mind \( *manas* \), the principle of the 
 
@@ -2250,7 +2250,7 @@ the senses of action and linked to the internal organs. The internal organ, the 
 
 151
 
-ego \( *ahaṁkāra* \), and the intellect \( *buddhi* \). These are “revealed by *māyā* in the region of the heart,” which is, says the Dī, by the letter  *Ī * 53 of *HRīṂ * to be felt and meditated as present in the region of the heart, which is the 
+ego \( *ahaṁkāra* \), and the intellect \( *buddhi* \). These are “revealed by *māyā* in the region of the heart,” which is, says the Dī , by the letter  *Ī * 53 of *HRīṂ * to be felt and meditated as present in the region of the heart, which is the 
 
 “region of dream” \( *svapnasya sthānam* \). 
 
@@ -2274,7 +2274,7 @@ As for the *japa* to be done here, it would consist of meditating on the syllabl
 
 *caitanyavyaktihetos tu nādarūpasya vedanam* / 
 
-*Turya* , the fourth condition of the mind, is above the three normal states of consciousness, being considered their cause. It is not merely peaceful but dynamic. In its *bhāvanā* , says the Dī, there appears an intense awareness \( *parāmarśa* \) of the phonic vibration, the *nāda* , of the *śrīvidyā * on the three levels of the *uccāra* following *bindu* : *ardhacandra* \(the “half-circle”\), *rodhinī* , and *nādānta* , these three *kalās* being considered as together “on 
+*Turya* , the fourth condition of the mind, is above the three normal states of consciousness, being considered their cause. It is not merely peaceful but dynamic. In its *bhāvanā* , says the Dī , there appears an intense awareness \( *parāmarśa* \) of the phonic vibration, the *nāda* , of the *śrīvidyā * on the three levels of the *uccāra* following *bindu* : *ardhacandra* \(the “half-circle”\), *rodhinī* , and *nādānta* , these three *kalās* being considered as together “on 
 
 152
 the apex of the third *bīja. * ” What the adept is to realize there, we are told, is the inciting \( *kalana* \) nature, the dynamism, of the *nāda* , which causes the 
@@ -2287,11 +2287,11 @@ apparition of a pure consciousness of the self. 54
 
 *atraiva japakāle tu pañcāvasthā ḥ smared budha ḥ * / 
 
-The Dīdefi nes the essence of the condition of *turyātīta* as supreme bliss transcending word and thought \( *manovāgatītaparamānanda* \), which is, however, to be experienced on the level of *nādānta* , *śakti* , *vyapinī* , *samanā* , and *unmanā* , which are the “region of happiness” \( *sukhasthānam* \). This 
+The Dī defi nes the essence of the condition of *turyātīta* as supreme bliss transcending word and thought \( *manovāgatītaparamānanda* \), which is, however, to be experienced on the level of *nādānta* , *śakti* , *vyapinī* , *samanā* , and *unmanā* , which are the “region of happiness” \( *sukhasthānam* \). This 
 
 “remembrance” 55 is to take place “in that very place,” which \(according to 
 
-the Dī\) is to be understood “in the *śaktibīja* ,” the third *kū ṭ a* of the *śrīvidyā* . 
+the Dī \) is to be understood “in the *śaktibīja* ,” the third *kū ṭ a* of the *śrīvidyā* . 
 
 “He must remember” \( *smaret* \) is taken as the equivalent of *bhavayet* : he must meditate intensely. 56 
 
@@ -2305,7 +2305,7 @@ The *viṣuva* named *prāṇa* is the union of breath, the self, and the mind. 
 
 This description of the *prāṇaviṣuva* is clear enough, but neither the YH 
 
-nor the Dīexplains how this union is realized or the role the *vidyā * may play in this practice. 
+nor the Dī explains how this union is realized or the role the *vidyā * may play in this practice. 
 
 Knowing that what assumes the form of the self is dissolved in the *nāda* which rises from the \[ *mūl* \] *ādhāra* , conjoining and disjoining 
 
@@ -2325,7 +2325,7 @@ the phonemes of the mantra, O Maheśvarī, //182// \[then\] perceiving that what
 
 *viṣuvam* 
 
-“What assumes the form of the self” is the divine Consciousness. This Consciousness, assuming the form of the consciousness of the adept, is to be imagined as dissolved in the phonic vibration, the *nāda* , which rises from the *mūlādhāra* up to the *brahmarandhra* , a movement during which it is associated with the three parts of the *śrīvidyā* , fi rst taken separately, then taken together, and, in this case, considered as rising from the *anāhata* , the *cakra* of the heart, to the highest *cakra* . This is done, says the Dī, “enunciating up to the heart the *nāda* present on the apex of the *vāgbhava* \(the third *kū ṭ a* \) which is in the *mūlādhāra* , and dissolving there. The spiritual experience the adept has by one-pointed attention \( *anusaṁdhāna* \) is that the real nature of his self is divine; such is the *mantraviṣuva* .” 
+“What assumes the form of the self” is the divine Consciousness. This Consciousness, assuming the form of the consciousness of the adept, is to be imagined as dissolved in the phonic vibration, the *nāda* , which rises from the *mūlādhāra* up to the *brahmarandhra* , a movement during which it is associated with the three parts of the *śrīvidyā* , fi rst taken separately, then taken together, and, in this case, considered as rising from the *anāhata* , the *cakra* of the heart, to the highest *cakra* . This is done, says the Dī , “enunciating up to the heart the *nāda* present on the apex of the *vāgbhava* \(the third *kū ṭ a* \) which is in the *mūlādhāra* , and dissolving there. The spiritual experience the adept has by one-pointed attention \( *anusaṁdhāna* \) is that the real nature of his self is divine; such is the *mantraviṣuva* .” 
 
 What is called *nā ḍīviṣuva* is produced by the phoneme when the twelve *granthis* are pierced inside the *nā ḍī* in conjunction with the *nāda* , O Dear One\! //183b–184a// 
 
@@ -2333,7 +2333,7 @@ What is called *nā ḍīviṣuva* is produced by the phoneme when the twelve *g
 
 *dvādaśagranthibhedena varṇād nāḍyantare priye* / 
 
-The phoneme \( *varṇa* \), says the Dī, is the *kāmakalā akṣara—* the letter *Ī —* present on the apex of the three *kū ṭ as* , the letter *Ī * , that is, of the three *HRīṂ * of the *śrīvidyā* . This phoneme is to pierce the twelve *granthis* , the 
+The phoneme \( *varṇa* \), says the Dī , is the *kāmakalā akṣara—* the letter *Ī —* present on the apex of the three *kū ṭ as* , the letter *Ī * , that is, of the three *HRīṂ * of the *śrīvidyā* . This phoneme is to pierce the twelve *granthis* , the 
 
 “knots,” namely the six *cakras* , from *mūlādhāra* to *brahmarandhra* and six intermediary knots, tiered along the *suṣumnā nā ḍī* . This ascending movement is associated with the equally ascending subtle phonic vibration, the *nāda* , of the three *HRīṂ * , as we have seen in the fi rst *japa. * ; It is, in fact, practically the same mental yogic practice, with the same spiritual eff ect. 
 
@@ -2366,7 +2366,7 @@ The *viṣuva* named *śakti* is above her. \[It consists of \] applying one’s
 
 The *śaktiviṣuva* is “above *śakti* ” because it is to be meditated as extending up to the *samanā kalā. * The *kālaviṣuva* , the *viṣuva* of time, is still above it, since the adept is to consider its meditation as reaching the supreme level of *unmanā* , which transcends time. 
 
-The Dīexplains that *muni* means seven, and *candra* means one. If one adds eight and ten, the length of the *uccāra* of the *vidyā* from the *HA* of *HRīṂ * to *unmanā* would be ten thousand eight hundred seventeen *tu ṭ is* , a *tu ṭ i* being an extremely small division of time; it is described in a text quoted by the Dīas a hundredth part of the twinkling of the eye. 
+The Dī explains that *muni* means seven, and *candra* means one. If one adds eight and ten, the length of the *uccāra* of the *vidyā* from the *HA* of *HRīṂ * to *unmanā* would be ten thousand eight hundred seventeen *tu ṭ is* , a *tu ṭ i* being an extremely small division of time; it is described in a text quoted by the Dī as a hundredth part of the twinkling of the eye. 
 
 The equalization which is the cause of the manifestation of consciousness is called *tattva* \[ *viṣuva* \]. //187// 
 
@@ -2392,7 +2392,7 @@ The supreme stage, O Great Goddess, is the beauty of uncreated bliss.
 
 *paraṁ sthānaṁ mahādevi nisargānandasundaram* / 
 
-This ultimate stage, says the Dī, transcends the sound and movement that existed in the fi ve vacuities and in the six preceding *viṣuvas* . Its beauty is “the beauty of the place of rest \[ *viśrānti* \] of the universe,” which is the Absolute. It both includes and transcends all forms of bliss. It is the supreme level of the deity that is the cause and origin of all that exists and holds it in herself: it is the supreme Goddess as mistress and place of rest \( *viśrānti* \) of the world, for, as we may say, all is in God. 
+This ultimate stage, says the Dī , transcends the sound and movement that existed in the fi ve vacuities and in the six preceding *viṣuvas* . Its beauty is “the beauty of the place of rest \[ *viśrānti* \] of the universe,” which is the Absolute. It both includes and transcends all forms of bliss. It is the supreme level of the deity that is the cause and origin of all that exists and holds it in herself: it is the supreme Goddess as mistress and place of rest \( *viśrānti* \) of the world, for, as we may say, all is in God. 
 
 The YH concludes the passage on the *japas* as follows: Who applies thus his mind during the times \[prescribed for\] *japa* , O Pārvati\! //188// will rapidly obtain all the supernatural powers thanks to your favor. 
 
@@ -2404,7 +2404,7 @@ This being done, he must off er the *japa* to the Goddess in her left hand. //18
 
 *evaṁ kṛtvā japaṁ devyā vāmahaste nivedayet* //189// 
 
-The symbolical off ering of the *japa* \( *japanivedana* \) into the hand of the deity being worshipped is one of the usual actions of the *pūjā* . It is a mark of respect and devotion. The Dī, however, true to its nondualist philosophical doctrine, interprets it symbolically. 
+The symbolical off ering of the *japa* \( *japanivedana* \) into the hand of the deity being worshipped is one of the usual actions of the *pūjā* . It is a mark of respect and devotion. The Dī , however, true to its nondualist philosophical doctrine, interprets it symbolically. 
 
 In this perspective, the *japa* that has just been performed is lived by the offi
 
@@ -2417,7 +2417,7 @@ With the joined thumb and ring fi nger, he must satiate the deities of the *cakr
 
 *anāmā ṅguṣṭ hayogena tarpayec cakradevatā ḥ * / 
 
-The joined thumb and ring fi nger symbolize the union of Śiva \(thumb\) and Śakti \(ring fi nger\). The off ering is to be done to all the deities of the *cakra* . How it is done, and with what consecrated water, is not said. The Dī
+The joined thumb and ring fi nger symbolize the union of Śiva \(thumb\) and Śakti \(ring fi nger\). The off ering is to be done to all the deities of the *cakra* . How it is done, and with what consecrated water, is not said. The Dī 
 
 gives a metaphysical interpretation of this rite 
 
@@ -2433,7 +2433,7 @@ He will worship her in the company of heroes devoted to the practices of Kula.
 
 *kaulācārasamāyuktair vīrais tu saha pūjayet* / 
 
-There is no indication that this *pūjā* is a collective worship. It is called *cakrapūjā * because it is done with the *śrīcakra* , not because worshippers are placed in circles. We may therefore believe that this prescription aims merely at excluding the presence of noninitiates: the Dīsays it excludes those who are not perfected \( *siddha* \). 
+There is no indication that this *pūjā* is a collective worship. It is called *cakrapūjā * because it is done with the *śrīcakra* , not because worshippers are placed in circles. We may therefore believe that this prescription aims merely at excluding the presence of noninitiates: the Dī says it excludes those who are not perfected \( *siddha* \). 
 
 The *cakrapūjā* of the Yoginīs is to be performed in a special manner under the constellations of *puṣya* , when the sun is dominant, O Parameśvarī\! //191// on the birthday of the *guru* , on that of one’s own constellation, and also on the eighth and fourteenth lunar days. 
 
@@ -2451,7 +2451,7 @@ The *cakrapūjā* of the Yoginīs is to be performed in a special manner under t
 
 157
 
-“In a special manner” \( *viṣeśena* \) is to be understood \(says the Dī\) as using the sort of “occasional \[ *naimittika* \] rites that would satisfy the group of sixty-four, or other categories of, Yoginīs.” This precision is not useless, since the part of the *pūjā * performed in the nine *cakras* of the *śrīcakra* was to be done using “optional” \( *kāmya* \) rites; see *śl. * 166. 61 
+“In a special manner” \( *viṣeśena* \) is to be understood \(says the Dī \) as using the sort of “occasional \[ *naimittika* \] rites that would satisfy the group of sixty-four, or other categories of, Yoginīs.” This precision is not useless, since the part of the *pūjā * performed in the nine *cakras* of the *śrīcakra* was to be done using “optional” \( *kāmya* \) rites; see *śl. * 166. 61 
 
 *Puṣya* is the sixth or seventh lunar day. The day when the sun is dominant would now be Sunday \(sun-day\). 
 
@@ -2473,7 +2473,7 @@ The rule to act without cheating, without limiting the expenses, is a generally 
 
 *tvam eva tāsāṁ rūpeṇa krīḍ ase viśvamohinī* //194// 
 
-As a consequence of this, says the Dī, when one worships all these deities who are but fragments of the Goddess, it is in reality the supreme Goddess who is worshipped. 
+As a consequence of this, says the Dī , when one worships all these deities who are but fragments of the Goddess, it is in reality the supreme Goddess who is worshipped. 
 
 Who, not knowing the doctrine and practices of Kula or paying 
 
@@ -2498,9 +2498,9 @@ must consider carefully the forms of the fl ow of your expansion which is \[in f
 
 *tvatprathāprasarākāras tvām eva paribhāvayet* / 
 
-The forms taken by the expanding fl ow of the Goddess are the deities that surround her \(the *āvaraṇadevatā* \), whose forms, the Dīsays, are born from her and who therefore are to be considered as mere forms taken by her: “They are fi gures born from the playful shining forth \[ *vilāsa* \] of the energy of free consciousness \[ *vimarśaśakti* \] which are to be seen and meditated as being none other than you.” 
+The forms taken by the expanding fl ow of the Goddess are the deities that surround her \(the *āvaraṇadevatā* \), whose forms, the Dī says, are born from her and who therefore are to be considered as mere forms taken by her: “They are fi gures born from the playful shining forth \[ *vilāsa* \] of the energy of free consciousness \[ *vimarśaśakti* \] which are to be seen and meditated as being none other than you.” 
 
-The off erings of alcohol and pieces of meat are “changed into something else,” since they are believed to be transformed into ambrosia by the ritual of off ering. The Dīquotes here a saying: “Wine is Śiva, meat is Śakti; bliss is said to be liberation.” 
+The off erings of alcohol and pieces of meat are “changed into something else,” since they are believed to be transformed into ambrosia by the ritual of off ering. The Dī quotes here a saying: “Wine is Śiva, meat is Śakti; bliss is said to be liberation.” 
 
 You, Goddess who takes on the form you desire, are to be perceived under the aspect of the spiritual master. //197// Having made an off ering to the master who is no other than yourself, \[the adept\] 
 
@@ -2532,11 +2532,11 @@ O Great Goddess\! the *bali* is to be off ered, using “cause,” to myself who
 
 *kṣetrāṇāṁ pataye mahyaṁ baliṁ kurvīta hetunā * / 
 
-The rite of *bali* is one of the last parts of the *pūjā. * It is given here a metaphysical dimension underscored in the Dī, which says that the inner nature of Ba ṭ uka is the vibration \( *spanda* \) of the supreme bliss, which is the self of the Yoginīs. 
+The rite of *bali* is one of the last parts of the *pūjā. * It is given here a metaphysical dimension underscored in the Dī , which says that the inner nature of Ba ṭ uka is the vibration \( *spanda* \) of the supreme bliss, which is the self of the Yoginīs. 
 
 As for Kṣetrapāla, the “Guardian of the \(sacrifi cial\) Field,” the “fi eld,” 
 
-it says, is the body. It is, therefore, in the mind \( *manasi* \) to the guardian of the body and in reality to Bhairava that the *bali* is given. The Dīconcludes: “It is by appeasing the movement of the *prāṇa* and *apāna* breaths 
+it says, is the body. It is, therefore, in the mind \( *manasi* \) to the guardian of the body and in reality to Bhairava that the *bali* is given. The Dī concludes: “It is by appeasing the movement of the *prāṇa* and *apāna* breaths 
 
 and by annihilating the threefold 62 diff erentiation, and with the thought ‘I am Śiva,’ that one off ers the inner *bali* .” 
 
@@ -2548,7 +2548,7 @@ Divinized by the *pūjā* , the *sādhaka* may henceforth act freely: Ceaselessl
 
 *ahantedantayor aikyaṁ bhāvayan viharet sukham* / 
 
-This drinking, devouring, and rejecting may be taken literally as referring to daily life. The Dī, however, understands it as drinking and eating the ritual off erings while rejecting them mentally. 
+This drinking, devouring, and rejecting may be taken literally as referring to daily life. The Dī , however, understands it as drinking and eating the ritual off erings while rejecting them mentally. 
 
 Acting of one’s own free will is explained as considering that whatever the *sādhaka* wishes, he must consider permitted. To realize the unity of I \( *ahanta* , I-ness\) and this \( *idantā* , objectivity\) is to realize the truth of nonduality. 
 
@@ -2603,7 +2603,7 @@ Receptacle of the fruits of all desires, he will obtain all the fruits he wishes
 
 *sarvepṣitaphalāvāpti ḥ sarvakāmaphalāśraya ḥ * / 
 
-The Yoginīs, “rays of light of the supreme Consciousness,” says the Dī, have a particular connection \( *yoga* \) with the supreme Śiva, the master of all powers. The adept who follows this teaching, helped by the Yoginīs, 
+The Yoginīs, “rays of light of the supreme Consciousness,” says the Dī , have a particular connection \( *yoga* \) with the supreme Śiva, the master of all powers. The adept who follows this teaching, helped by the Yoginīs, 
 
 “will therefore become the supreme Śiva,” omnipotent and omniscient. 
 

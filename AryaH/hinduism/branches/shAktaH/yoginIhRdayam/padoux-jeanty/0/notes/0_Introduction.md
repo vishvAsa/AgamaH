@@ -10,30 +10,6 @@ title = "0 Introduction"
 
 
 
-[^13]: Edited and translated by Arthur Avalon in the *Tantrik Texts* , fi rst published in 1922 \(reprint Madras: Ganesh & Co., 1953\). 
-
-[^14]: The *Subhagodaya* 
-
-and the 
-
-*Subhagodayavāsanā* 
-
-of Śivānanda or the 
-
-*Jñānadīpavimarśinī* of Vidyānanda, for instance. 
-
-[^15]: This was done by Pdt. V. V. Dvivedi in the introduction \(in Hindi\) of his edition of the YH. The hypothesis does not lack probability. Abhinavagupta mentions central India \( 
-
-*madhyadeśa* 
-
-\) as the seat of all the Śaiva treatises 
-
-\( *ni ḥ śeṣaśāstrasadanam* \). This remains to be proved. 
-
-[^16]: The Pratyabhijñā \(the “Recognition”\), one of the philosophical systems of Kashmirian nondualist shaivism, was propounded fi rst by Somānanda \(c. 
-
-900–950\), then by his disciple Utpaladeva, whose work was commented on and expanded by Abhinavagupta. It is one of the most remarkable Indian philosophical systems. Its main contention is that liberation is gained by the recognition \( *pratyabhijñā* \) of the identity of the human self \( *ātman* \) and the supreme Lord, Śiva. The “transpersonal” self thus realized contains the totality of subjective and objective phenomena in a nondualistic synthesis where all distinctions disappear in the fullness of the Absolute. A concise and clear presentation of the Pratyabhijñā was made by Kṣemarāja in the *Pratyabhijñāhrdaya*. It is translated into English by Jaideva Singh, Pratyabhijñāhr̥dayam, Sanskrit text with English translation and notes \(Delhi: Motilal Banarsidass, 1963\). 
-
 [^17]: It has not been translated into English. Bhāskararāya wrote a short and useful treatise on the *śrīvidyā* , the *Varivasyārahasya*. It was edited with an English translation in the Adyar Library Series, no. 28 \(1948\). I translated Amṛtānanda’s *Dīpikā* together with the YH in *Le coeur de la Yoginī:* Yoginīhr̥daya *avec le com-mentaire* Dīpikā *d’Amṛtānanda* \(Paris: Collège de France, 1994\) 18. A typical, though extreme, case of this is Pāṇini’s Sanskrit grammar, the *Aṣṭ ādhyāy* , which is entirely cryptic. Its fi rst sutra is: *vṛddhirādaic*. .. 
 
 [^19]: On these two forms, see below. 
