@@ -54,8 +54,13 @@ There exist, too, such aspects of her as Tripura-bhairavī or Bala-tripura-sunda
 ### Cult Origins
 There are very few stone images of Tripurasundarī, but there are many paintings. Her worship is done using the *śrīcakra* , and no concrete image is used, but during the ritual, she is to be visualized by the officiating adept as described in the texts. 
 
-As is frequent in India, next to nothing is known of the origins of the tradition of Tripurā. It goes back probably to the tenth or eleventh century a.d. It has survived until our day and has produced important and interesting works well into the modern period. As far as we know, its two oldest [[4]] and most basic texts are the *Vāmakeśvara* / *Vāmakeśvarīmata* Tantra \(VM\), also known as the *Nityāṣodaśikārṇava* \(NṣA\) and the YH. These works may date from the tenth or eleventh century. It seems that a passage of the VM was quoted by Abhinavagupta \(11th c.\) in two of his works, the *Parātrīśikavivaraṇa* and the *Mālinī vijayavārttika* ; and Jayaratha, who lived in the twelfth century and wrote a commentary on the VM, mentions several earlier commentators on this Tantra, one of whom may have lived as far back as the ninth century. But there is no proof of this. 
 
+As is frequent in India, next to nothing is known of the origins of the tradition of Tripurā. It goes back probably to the tenth or eleventh century a.d. It has survived until our day and has produced important and interesting works well into the modern period. 
+
+#### Texts
+As far as we know, its two oldest [[4]] and most basic texts are the *Vāmakeśvara* / *Vāmakeśvarīmata* Tantra \(VM\), also known as the *Nityā-ṣodaśikārṇava* \(NṣA\) and the YH. These works may date from the tenth or eleventh century. It seems that a passage of the VM was quoted by Abhinavagupta \(11th c.\) in two of his works, the *Parātrīśikavivaraṇa* and the *Mālinī vijayavārttika* ; and Jayaratha, who lived in the twelfth century and wrote a commentary on the VM, mentions several earlier commentators on this Tantra, one of whom may have lived as far back as the ninth century. But there is no proof of this. 
+
+#### Images
 There also does not seem to exist any iconographical evidence of Tripurā’s worship before the tenth or eleventh century. It has indeed been suggested that an allusion to the *śrīvidyā * and perhaps to the *śrīcakra* is to be found in the South Indian Tamil work *Tirumantiram* , which some scholars date as far back as the seventh or eighth century. This, however, remains to be proved. 
 
 There is also a belief in the modern Śrīvidyā tradition that a *śrīcakra* was installed in Sṛṅgeri, together with an image of the goddess Śāradā, by Śaṅkarācārya \(8th c.\). But this is mere imagining.+++(4)+++ 
@@ -186,42 +191,47 @@ Bhāskararāya’s *Setubandha* , on the other hand, which was finished, we are 
 
 There are other commentaries of lesser interest. 
 
-It may be useful here to draw the reader’s attention to the fact that Indian religious or philosophical texts, often obscure or arcane or cast in brief elliptical statements, [^18] were meant to be made explicit by commentaries given orally through the teaching of masters or in written exegetical works. This is how Indian traditions appeared and developed, permitting 
+It may be useful here to draw the reader’s attention to the fact that Indian religious or philosophical texts, often obscure or arcane or cast in brief elliptical statements, [^18] were meant to be made explicit by commentaries given orally through the teaching of masters or in written exegetical works. 
 
-“change in continuity.” Truth being deemed to have been proclaimed in the origins of time—or out of time—in the Veda, or by deities, nothing could be added to it except by way of commentaries and explanations. 
-
-A problem that arises concerning the text of the YH is its relationship to the VM/NṣA. The three chapters of the YH have often been considered to be the latter part of a work in eight chapters, the fi rst fi ve of which constitute the VM/NṣA. The YH begins with the Goddess asking Bhairava to explain to her “the many unknown elements that are in this Vāmakeśvaratantra” \( *vāmakeśvaratantre ‘sminn ajñātārthas anekaśaå* \). The YH would thus appear to be an esoteric complement to the more exoteric VM, which is a work of erotic magic and ritual, whereas the YH is mainly metaphysical and devotional, even in its third chapter on the *śrīcakrapūjā* . 
-
-To this can be added that Amṛtānanda sometimes refers to the VM in his Dī , notably when explaining why a particular point is or is not mentioned 
-
-* Introduction *
-
-9
-
-in the YH or in his own commentary, and that Bhāskararāya later wrote his commentary, *Setubandha* , on all eight chapters of the two texts as if they constituted a single work, and he states explicitly that the YH is the latter half of the Tantra: *tantrottarārdham. * 
-
-There are, however, convincing reasons to believe that these two works are related but distinct texts, probably of diff erent periods. For instance, Śivānanda and Vidyānanda never refer to the YH in their commentaries on the NṣA. Jayaratha, when commenting on the VM, mentions several earlier commentators on the same, while Amṛtānanda, in his Dī , says that he is the fi rst to comment on the YH. Not only is the spirit of the two works very diff erent, but the YH also gives the *śrīvidyā* in the so-called *hādi* form, whereas the NŚA/VM gives it in the *kādi* form. 19 For these reasons and several others, we believe that the VM and the YH are two diff erent works, the VM being the earlier one and the YH being composed to complement it philosophically, which is why these two texts came, at some later period, to be considered as two sections of one work. 
+[^18]: A typical, though extreme, case of this is Pāṇini’s Sanskrit grammar, the *Aṣṭādhyāyī* , which is entirely cryptic. Its first sutra is: *vṛddhir ād aic*. ..
 
 
+This is how Indian traditions appeared and developed, permitting “change in continuity.” Truth being deemed to have been proclaimed in the origins of time—or out of time—in the Veda, or by deities, nothing could be added to it except by way of commentaries and explanations. 
 
-the Śrīvidyā or Tripurā tradition constitutes one of the “transmissions”—the *dakṣināmnāya* —of the Kula, and the YH, which is one of its basic texts, is a Tantric work. It is Tantric both in its spirit, its theology, and its metaphysics and in its ritual practices and forms of worship. 
+
+### Connection to Vāmakeśvara-tantra
+A problem that arises concerning the text of the YH is its relationship to the VM/NṣA. The three chapters of the YH have often been considered to be the latter part of a work in eight chapters, the first five of which constitute the VM/NṣA. The YH begins with the Goddess asking Bhairava to explain to her “the many unknown elements that are in this Vāmakeśvara-tantra” \( *vāmakeśvara-tantre ‘sminn ajñātārthas anekaśaḥ* \). The YH would thus appear to be an esoteric complement to the more exoteric VM, which is a work of erotic magic and ritual, whereas the YH is mainly metaphysical and devotional, even in its third chapter on the *śrīcakrapūjā* . 
+
+To this can be added that Amṛtānanda sometimes refers to the VM in his Dī , notably when explaining why a particular point is or is not mentioned [[9]] in the YH or in his own commentary, and that Bhāskararāya later wrote his commentary, *Setubandha* , on all eight chapters of the two texts as if they constituted a single work, and he states explicitly that the YH is the latter half of the Tantra: *tantrottarārdham. * 
+
+There are, however, convincing reasons to believe that these two works are related but distinct texts, probably of different periods. For instance, Śivānanda and Vidyānanda never refer to the YH in their commentaries on the NṣA. Jayaratha, when commenting on the VM, mentions several earlier commentators on the same, while Amṛtānanda, in his Dī , says that he is the first to comment on the YH. 
+
+Not only is the spirit of the two works very different, but the YH also gives the *śrīvidyā* in the so-called *hādi* form, whereas the NŚA/VM gives it in the *kādi* form. [^19] 
+
+[^19]: On these two forms, see below.
+
+For these reasons and several others, we believe that the VM and the YH are two different works, the VM being the earlier one and the YH being composed to complement it philosophically, which is why these two texts came, at some later period, to be considered as two sections of one work. 
+
+
+### Tantricness
+The Śrīvidyā or Tripurā tradition constitutes one of the “transmissions”—the *dakṣināmnāya* —of the Kula, and the YH, which is one of its basic texts, is a Tantric work. It is Tantric both in its spirit, its theology, and its metaphysics and in its ritual practices and forms of worship. 
 
 It is Tantric in its conception of the supreme deity as inseparably male and female, Bhairava and Tripurasundarī, the latter being, theologically, the supreme goddess but metaphysically subordinated to Bhairava, who is Śiva. The Goddess is also Śakti, the divine universal power that creates and animates the cosmos in all its aspects, human, material, mundane, or supramundane, her power spreading out as a hierarchy of feminine deities or energies radiating concentrically from her; this characteristically Tantric “mandalic” aspect of the pantheon is found in the whole of South Asia. It is illustrated here by the *śrīcakra* with the deities who abide in it. 
 
-Also Tantric is the notion of the *kuṇḍ alinī* , the divine cosmic power present in the human body. The Tantric adept lives with the image of this both human and divine power present in the image of his body, this structure of centers \( *cakras* , etc.\) or nodal points \( *granthis* \) connected by subtle tubes or channels, the *nā ḍ is* , where the life breath, the *prāṇa* \( *prāṇas* , rather, for they are numerous\) circulates along with the mantras. 
+Also Tantric is the notion of the *kuṇḍalinī* , the divine cosmic power present in the human body. The Tantric adept lives with the image of this both human and divine power present in the image of his body, this structure of centers \( *cakras* , etc.\) or nodal points \( *granthis* \) connected by subtle tubes or channels, the *nāḍis* , where the life breath, the *prāṇa* \( *prāṇas* , rather, for they are numerous\) circulates along with the mantras. 
 
 This structure, imagined, visualized, even sometimes “felt” as present \(“intraposed”\) within his physical body by the yogin, is usually called 
 
 “subtle body” in English. We do not use this expression because it is a 
 
 10
-misnomer. In *all* Sanskrit texts, the term *sūkṣmaśarīra* \(or *sūkṣmadeha* \), which means “subtle body,” designates not this structure but the transmigrating element in the human being, which is made up of diff erent *tattvas* and therefore has no shape, no visible aspect. It cannot be visualized as is the inner structure of *cakras* and *nā ḍ is* . We call it yogic body or imaginal yogic body, not subtle body. 
+misnomer. In *all* Sanskrit texts, the term *sūkṣmaśarīra* \(or *sūkṣmadeha* \), which means “subtle body,” designates not this structure but the transmigrating element in the human being, which is made up of diff erent *tattvas* and therefore has no shape, no visible aspect. It cannot be visualized as is the inner structure of *cakras* and *nāḍis* . We call it yogic body or imaginal yogic body, not subtle body. 
 
 The presence and the meditative and ritual use of this purely mental \(but existentially perceived\) image of the body is fundamentally Tantric, even though it is used by most non-Tantric practitioners of yoga. Also Tantric, of course, is the worship beginning with an inner \( *āntara* \), entirely mental *pūjā* , followed by the outer \( *bāhya* \) worship organized following the traditional Tantric pattern, which includes not only visualisations \( *dhyāna* \) but also yogic phases during which the offi
 
 ciating adept is to awaken his 
 
-*kuṇḍ alinī* . The *pūjā * ends with a *japa* of the *śrīvidyā* , which is, in fact, a practice of *kuṇḍ alinī* yoga. The off erings made during the worship, being Tantric, include meat and alcohol. But there are no sexual rites. 
+*kuṇḍalinī* . The *pūjā * ends with a *japa* of the *śrīvidyā* , which is, in fact, a practice of *kuṇḍalinī* yoga. The off erings made during the worship, being Tantric, include meat and alcohol. But there are no sexual rites. 
 
 We will comment further on these Tantric aspects, and mention other ones, as they occur in the three chapters of the YH. Here we underline only a few particular points. 
 
@@ -245,7 +255,7 @@ True, he does so because she orders him \(“I am ordered by You,” *tvayāham 
 
 *ājñaptaḥ* \), but this order is a form of his own will \( *madicchārūpayā* , 3.202\). 
 
-As the Dī explains, the universe is the “play” \( *līlā* , *kṛḍ * \) of Śakti, but Śiva is her master. Theologically, in the devotion and worship of her devotees, the Goddess is supreme; but if Śiva andṣakti are inseparable, Śiva, the masculine aspect of the total supreme godhead, is higher:ṣakti is Śiva’s energy. Tripurā’s tradition is therefore Śaiva. 20 
+As the Dī explains, the universe is the “play” \( *līlā* , *kṛḍ* \) of Śakti, but Śiva is her master. Theologically, in the devotion and worship of her devotees, the Goddess is supreme; but if Śiva andṣakti are inseparable, Śiva, the masculine aspect of the total supreme godhead, is higher:ṣakti is Śiva’s energy. Tripurā’s tradition is therefore Śaiva. 20 
 
 Surrounded by the Yoginīs abiding in the *śrīcakra* —in the cosmos, that is—Tripurasundarī is the fi rst of them, infusing them with her power and presiding over their activity. They emanate from her in a hierarchical order, embodying and spreading her power on all planes of the cosmos and fulfi lling the functions allotted to them. As Bhairava says in YH 3.194: “You alone it is, Enchantress of the worlds, who are playing under the guise of these \[deities\].” They are aspects \( *rūpa* \) she takes on in her cosmic play. 
 
@@ -327,13 +337,13 @@ of the chapter’s name\), its syllabic composition—its
 
 “extraction,” *uddhāra* , 31 as it is usually called—is not given. In this, the YH diff ers from its parent text, the NṣA, which does give it. It appears, however, that the *śrīvidyā* is considered to be made up of fi fteen syllables grouped in three clusters, as follows: *HA SA KA LA HRīṂ • HA* *SA HA KA LA HRīṂ • SA KA LA HRīṂ * . This is, as we have said, the *śrīvidyā * in the so-called *hādi* form, because it begins with *HA* . There is also another form, called *kādi* \(because the fi rst cluster begins with *KA* \): *KA E I LA HRīṂ * . These two forms are used in two Tripurā traditions called, respectively, *hādimata* and *kādimata* , which seem to have existed from comparatively ancient times since they are mentioned by such authors as Śivānanda \(13th c.\). 32 The three clusters of the *śrīvidyā* 
 
-are called *kūṭa* , which means “summit” or “group”; they are also called *bīja* or *piṇḍ a* . 
+are called *kūṭa* , which means “summit” or “group”; they are also called *bīja* or *piṇḍa* . 
 
 The *mantrasaṁketa* ’s purpose is to give six diff erent “meanings” \( *artha* \) by means of allegorical symbolical interpretations of its syllables—that is, to expound six diff erent ways to understand, perceive, and experiment by *bhāvanā* its inner nature and hidden meaning, a practice that will lead the *sādhaka* toward liberation. These interpretations are abstruse and often far-fetched, and we have not always understood them in spite of help received from Professor V. V. Dvivedi of Varanasi. 
 
 The chapter begins by enumerating the *vidyās* \(i.e., mantras\) of the nine *cakreśvarīs* , the regent deities of the nine parts of the *śrīcakra* , which the adept must place by *nyāsa* on nine parts of his yogic body and worship there as present in the nine constitutive *cakras* of the *śrīcakra. * 
 
-Then is expounded the fi rst *artha* , the *bhāvārtha* \( *śl. * 16–25\). It is based on symbolical values given to the syllables of the *vidyā* , the three parts of which are described as resulting from the union of Śiva and Śakti, from whose interactive union \( *saṁghaṭṭa* \) 33 the “fl ow,” the creative play of the mantra, is deemed to issue. This very fl ow expressed by the phonetic constituents of the *śrīvidyā* , manifests, sustains, animates, and ultimately reabsorbs the cosmos, a process the adept must experience spiritually through a *bhāvanā* in which the three parts of the mantra are experienced as fused with his *kuṇḍ alinī* . The power of the *vidyā* also takes on here the form of the *kāmakalā * \( *śl* . 21–25\), a diagram whose symbolism, based on the sexual union of Śiva and Śakti, is both visual and phonic. 34 
+Then is expounded the fi rst *artha* , the *bhāvārtha* \( *śl. * 16–25\). It is based on symbolical values given to the syllables of the *vidyā* , the three parts of which are described as resulting from the union of Śiva and Śakti, from whose interactive union \( *saṁghaṭṭa* \) 33 the “fl ow,” the creative play of the mantra, is deemed to issue. This very fl ow expressed by the phonetic constituents of the *śrīvidyā* , manifests, sustains, animates, and ultimately reabsorbs the cosmos, a process the adept must experience spiritually through a *bhāvanā* in which the three parts of the mantra are experienced as fused with his *kuṇḍalinī* . The power of the *vidyā* also takes on here the form of the *kāmakalā * \( *śl* . 21–25\), a diagram whose symbolism, based on the sexual union of Śiva and Śakti, is both visual and phonic. 34 
 
 The *saṁpradāya artha* , the “traditional meaning” \( *śl* . 26–48\) shows how the cosmic process is pervaded by the *śrīvidyā* , that is, by the united Śiva and Śakti. To this eff ect, the YH explains how the constitutive elements of 
 
@@ -348,9 +358,9 @@ The *nigarbha artha*
 
 The *kaulikārtha* , the Kula meaning of the *vidyā* \( *śl* . 51–68\), is meant to bring about a realization by the adept of the essential oneness of the *cakra* , the godhead, the *vidyā* , the guru, and his own self. The *śrīcakra* is shown as being born from the phonemes of the *vidyā* ; as being the cosmic, essential body \( *vapus* \) of the Goddess; and as having the *vidyā* as its essential nature. The Goddess is described as present in the cosmos as fi ve diff erent groups of divine aspects or entities, Yoginīs and so on. The adept is to realize and experience by *bhāvanā * that all of this is present in the *cakra* and in the *vidyā* and in his own body and that of the guru. To realize this is to gain liberation. 
 
-The *sarvarahasya* , the “most secret of all” *arthas* \( *śl* . 69–72\), is secret because it is a most direct way to fusion with the godhead. It is a *kuṇḍ alinī* 
+The *sarvarahasya* , the “most secret of all” *arthas* \( *śl* . 69–72\), is secret because it is a most direct way to fusion with the godhead. It is a *kuṇḍalinī* 
 
-yoga practice where the parts of the *śrīvidyā* , the fi fty Sanskrit phonemes, and the thirty-eight cosmic *kalās* are interiorized by the adept and made to ascend with his *kuṇḍ alinī* . He thus experiences a cosmic pervasion lead-ing to liberation. 
+yoga practice where the parts of the *śrīvidyā* , the fi fty Sanskrit phonemes, and the thirty-eight cosmic *kalās* are interiorized by the adept and made to ascend with his *kuṇḍalinī* . He thus experiences a cosmic pervasion lead-ing to liberation. 
 
 Finally, the *mahātattva artha* , the one concerning the highest reality \( *śl* . 
 
@@ -388,7 +398,7 @@ must still perform during the worship several rites that will advance him toward
 
 This explains why the chapter begins by saying that there are three sorts of *pūjā* , the lowest of which is the ritually performed one. The highest one \( *śl* . 3a, 4b–7\), the “supreme worship,” is purely spiritual. It is a *bhāvanā* 
 
-associated with an ascent of the *kuṇḍ alinī* , by which the adept experiences mystically his unity with the supreme Śiva. It is the total plenitude of the absolute I \( *pūrṇāhaṁbhava* \), an experience of the nature of the Goddess as the fl ashing forth of consciousness. The second sort is “nonsupreme” 
+associated with an ascent of the *kuṇḍalinī* , by which the adept experiences mystically his unity with the supreme Śiva. It is the total plenitude of the absolute I \( *pūrṇāhaṁbhava* \), an experience of the nature of the Goddess as the fl ashing forth of consciousness. The second sort is “nonsupreme” 
 
 \( *apara* \). It is the *cakrapūja* as described in this chapter. Bhairava says here \( *śl* . 3b\) that he performs it ceaselessly; it is a divine, not a human, activity. 
 
@@ -451,7 +461,7 @@ Goddess, identifying him with her. First, six diff erent “forms” \( *rūpa* 
 
 we could say epiphanies, divine and cosmic—of the Goddess are placed. 
 
-This ritual placing \(or imposition\) being sixfold, it is called *ṣ o ḍ hānyāsa* . It is considered particularly important and effi
+This ritual placing \(or imposition\) being sixfold, it is called *ṣ oḍhānyāsa* . It is considered particularly important and effi
 
 cacious. It is prescribed and 
 
@@ -461,7 +471,7 @@ tradition. It is also mentioned in other Śaiva traditions. 38 Next \( *śl. * 4
 
 ciant with the Goddess by an interiorization of her diagrammatic cosmic form. The YH says \( *śl. * 81\) that he is now to consider himself as inseparable from her \( *svābhedena cintayet* \). Then, as a fourth series of *nyāsas* \( *śl. * 
 
-81–86\), come eight diff erent placings of various entities on the hands and on other parts of the body. The *nyāsas* end with a libation \( *saṁtarpana* \) to the Goddess, which is, in fact, a meditative practice with an ascent of *kuṇḍ alinī* ; this somehow confi rms the ritual identifi cation of the adept with the deity he worships. 
+81–86\), come eight diff erent placings of various entities on the hands and on other parts of the body. The *nyāsas* end with a libation \( *saṁtarpana* \) to the Goddess, which is, in fact, a meditative practice with an ascent of *kuṇḍalinī* ; this somehow confi rms the ritual identifi cation of the adept with the deity he worships. 
 
 *Śrīcakrapūjaˉ* 
 
@@ -478,7 +488,7 @@ The *pūjā* is made up of a number of sometimes complex rites organized as a dy
 
 ciating adept, after “enter-
 
-ing” the diagram by paying homage to the lower and most external deities abiding in the outer square, the *bhūgṛ ha* ; purifi es his hands and his *prāṇa* \(in the two lotuses\); then causes his *kuṇḍ alinī* to ascend and feels thus absorbed into the cosmic energy \(the *kulaśakti* \), which is also present in his body, this in the *cakra* of fourteen triangles. As he concentrates on an inner subtle phonic resonance \( *nāda* \), he raises his *kuṇḍ alinī* again from the *mūlādhāra* to the *ājñācakra* \(in the fi rst *cakra* of ten angles\), and then, along with the *kuṇḍ alinī* \(in the second ten-angles *cakra* \), he becomes absorbed in his own essence. After that, as his *prāṇa* is concentrated in his heart \( *cakra* of eight triangles\), he realizes the pure essence of consciousness, and \(having attained the central triangle\) he worships the higher deities destructive of the cosmos surrounding the Goddess, which means that he rises to the source of the universe. The worship having now reached the central *bindu* “whose nature is that of the supreme *brahman* ,” 
+ing” the diagram by paying homage to the lower and most external deities abiding in the outer square, the *bhūgṛ ha* ; purifi es his hands and his *prāṇa* \(in the two lotuses\); then causes his *kuṇḍalinī* to ascend and feels thus absorbed into the cosmic energy \(the *kulaśakti* \), which is also present in his body, this in the *cakra* of fourteen triangles. As he concentrates on an inner subtle phonic resonance \( *nāda* \), he raises his *kuṇḍalinī* again from the *mūlādhāra* to the *ājñācakra* \(in the fi rst *cakra* of ten angles\), and then, along with the *kuṇḍalinī* \(in the second ten-angles *cakra* \), he becomes absorbed in his own essence. After that, as his *prāṇa* is concentrated in his heart \( *cakra* of eight triangles\), he realizes the pure essence of consciousness, and \(having attained the central triangle\) he worships the higher deities destructive of the cosmos surrounding the Goddess, which means that he rises to the source of the universe. The worship having now reached the central *bindu* “whose nature is that of the supreme *brahman* ,” 
 
 the adept worships Tripurasundarī in the whole *śrīcakra* since she pervades it. This he does “in total freedom,” that is, with the absolute liberty of one who has outsoared \(ritually, of course\) all limitations. 
 
@@ -494,7 +504,7 @@ the divine, a coherent progress toward the Absolute realized by an identifi cati
 
 Finally comes the *japa* , the recitation of the *śrīvidyā* , the *mūlamantra* of the Goddess, a rite performed in the last part of all ritual Hindu worships. 
 
-The *japa* prescribed here is, however, not really a recitation. It is a complex spiritual and yogic exercise associating the enunciation \( *uccāra* \) of the *vidyā* with visualizations and with the ascent of *kuṇḍ alinī* . The *uccāra* is, in fact, an upward movement of the phonic resonance of the *śrīvidyā* along the *suṣumnā* , going from the *mūlādhāra* up to the *dvādaśānta* , 40 inseparable from the ascent of the *kuṇḍ alinī* . It is therefore a practice of Tantric mantrayoga where the *śrīvidyā * is used as a means to facilitate the fusion of the adept with the cosmic divine power of the Goddess. 
+The *japa* prescribed here is, however, not really a recitation. It is a complex spiritual and yogic exercise associating the enunciation \( *uccāra* \) of the *vidyā* with visualizations and with the ascent of *kuṇḍalinī* . The *uccāra* is, in fact, an upward movement of the phonic resonance of the *śrīvidyā* along the *suṣumnā* , going from the *mūlādhāra* up to the *dvādaśānta* , 40 inseparable from the ascent of the *kuṇḍalinī* . It is therefore a practice of Tantric mantrayoga where the *śrīvidyā * is used as a means to facilitate the fusion of the adept with the cosmic divine power of the Goddess. 
 
 The *japa* is made up of four meditative-yogic practices: *Japa* of the three parts of the *śrīvidyā* \( *śl. * 169–173\). This consists in visualizing the three parts and the nine constituent *cakras* of the *śrīcakra* as tiered along the *suṣumnā* , then to perceive the *kalās* of the subtle vibration of the *bīja HRīṂ * , which ends these three parts \( *kūṭa* \) of the mantra as ascending from the *mūlādhāra* to the heart, then from the heart to the *ājñācakra* and thence up to the *dvādaśānta* , where the threefold phonic vibration reaches the plane of *unmanā* , the “transmental,” and dissolves into the silence of the Absolute, with which the adept also fuses. Table 3.1 in chapter 3 
 
@@ -521,4 +531,4 @@ the edition used for this translation is the one prepared, on the basis of sever
 
 23
 
-Amṛ tānanda’s commentary, the *Dīpikā* . It is a good edition both of the YH and of the commentary. Professor Dvivedi kindly let me use it before it was published for the French translation I made of this work. 41 For this, and for the help he otherwise extended me, I wish to thank him once more very sincerely. The YH—of which a large number of manuscripts exist in India and Nepal—was fi rst edited in 1923, together with the commentaries of Amṛ tānanda and of Bhāskararāya, by Gopinath Kaviraj; this edition is still available, but it is not very reliable. The YH was also published together with the *Nityāṣo ḍ aśikārṇava* and with the *Setubandha* of Bhāskararāya as vol. 53 of the Ānandāśram Sanskrit Series. 
+Amṛ tānanda’s commentary, the *Dīpikā* . It is a good edition both of the YH and of the commentary. Professor Dvivedi kindly let me use it before it was published for the French translation I made of this work. 41 For this, and for the help he otherwise extended me, I wish to thank him once more very sincerely. The YH—of which a large number of manuscripts exist in India and Nepal—was fi rst edited in 1923, together with the commentaries of Amṛ tānanda and of Bhāskararāya, by Gopinath Kaviraj; this edition is still available, but it is not very reliable. The YH was also published together with the *Nityāṣoḍaśikārṇava* and with the *Setubandha* of Bhāskararāya as vol. 53 of the Ānandāśram Sanskrit Series. 

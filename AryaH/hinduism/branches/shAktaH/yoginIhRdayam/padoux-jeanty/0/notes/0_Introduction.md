@@ -10,7 +10,6 @@ title = "0 Introduction"
 
 
 
-[^19]: On these two forms, see below. 
 
 [^20]: Other Śaiva traditions have a goddess as their main deity, such as the Kubjikā 
 
@@ -34,7 +33,7 @@ are either seven, the
 
 *matāṣṭaka* \). The number eight is important in Tantric texts. Eight times eight is the \(theoretical\) number of Bhairava Tantras. Sixty-four is also four times sixteen, which is an important lunar number, the number of fullness. Sixteen is also the number of the Nityās, the fi rst of which is Tripurasundarī\(see YH 
 
-[^3]:113\); and the name of the VM/NṣĀ, *Nityāṣo ḍ aśikārṇava* , means “The Ocean of the Sixteen Nityās.” 
+[^3]:113\); and the name of the VM/NṣĀ, *Nityāṣoḍaśikārṇava* , means “The Ocean of the Sixteen Nityās.” 
 
 [^22]: A *crore* \( *koṭi* \) is ten million. 
 
@@ -56,7 +55,7 @@ On the Śaiva nondualist conceptions of the heart, see Paul Eduardo Muller-Orteg
 
 [^27]: *Bhāvanā* is a very important practice in the universe of Tantra. The term is derived from the causative form of the Sanskrit verbal root *BHU* , to cause to exist \( *bhāvyate* \). It designates a practice consisting of evoking mentally the image of a deity with the same precision as a concrete image or creating, by calling it intensely to mind, any image, vision, or thought, thus identifying the meditating person with the subject or theme being meditated. It diff ers from *dhyāna* in its intensity and identifying power and in the fact that it creates its object, which is not necessarily the case in *dhyāna*. Its role is fundamental in Tantric mental practices, spiritual life, and ritual. As is well known, in Tantrism, *dhyāna* designates meditation but also, and more important, the mental visualization of a deity as described in stanzas of ritual manuals called *dhyānaślokas. * 
 
-[^28]: *Uccāra* is an utterance of a mantra that is both an enunciation and an upward thrust of the phonic subtle sound, the *nāda* , of the mantra in the body of the mantrin. This ascending phonic movement is often associated with the ascent of *kuṇḍ alinī* along the *suṣumnā* ; it is more a yogic practice than a verbal enunciation. This is, notably, the case of the *japa* of the *śrīvidyā* described in the third chapter \( *śl*. 169–188\) of the YH. 
+[^28]: *Uccāra* is an utterance of a mantra that is both an enunciation and an upward thrust of the phonic subtle sound, the *nāda* , of the mantra in the body of the mantrin. This ascending phonic movement is often associated with the ascent of *kuṇḍalinī* along the *suṣumnā* ; it is more a yogic practice than a verbal enunciation. This is, notably, the case of the *japa* of the *śrīvidyā* described in the third chapter \( *śl*. 169–188\) of the YH. 
 
 [^29]: On the levels of *vāc* , see chapter 2, *śl. * 63, and n. 25 ad loc. 
 

@@ -161,7 +161,7 @@ This \[practice\] is sixfold, O Mistress of the Gods\! I will tell it to you, O 
 
 There is the natural meaning, the traditional one, the inner meaning, the *kaulika* meaning, //15// then the completely secret meaning, and fi nally the meaning according to the highest reality. 
 
-*ṣ a ḍ vidhas taṁ tu deveśi kathayāmi tavānaghe* / 
+*ṣ aḍvidhas taṁ tu deveśi kathayāmi tavānaghe* / 
 
 *bhāvārtha ḥ saṁpradāyārtho nigarbhārthaś ca kaulika ḥ * //15// 
 
@@ -261,7 +261,7 @@ in her coiled form has space and *kalā* as refl ected image. //21//
 
 According to Amṛtānanda \(and Bhāskararāya\), this stanza describes \(or, rather, alludes to\) the *kāmakalā * diagram \(see fi gure 2.1\). One can hardly say that the wording of this obscure stanza justifi es such an interpretation, which, however, is traditionally upheld in the Śrīvidyā system. It is as follows. 
 
-The supreme power, *śakti* , in her coiled form \( *kuṭilārūpaka* \), is the *kuṇḍ alinī* , which stretches between the “middle *bindu* and the *visarga* .” This is to say that she is inscribed within an upward-pointing triangle \(a masculine symbol, that 
+The supreme power, *śakti* , in her coiled form \( *kuṭilārūpaka* \), is the *kuṇḍalinī* , which stretches between the “middle *bindu* and the *visarga* .” This is to say that she is inscribed within an upward-pointing triangle \(a masculine symbol, that 
 
 * *
 
@@ -299,24 +299,24 @@ breast
 
 of Śiva\) on whose apex is a *bindu* and on each of whose two lower angles is also a *bindu* : two *bindus* , therefore, which make up a *visarga* whose written form is that of two dots \(:\). The upper *bindu* , it is said, is *kāma* , desire or passion; it is considered to be made up of the coalescence of the whole Sanskrit alphabet, from *A* to *HA* and as being the Sun. The *visarga* results from the division in two of *bindu* . It is the sixteenth “vowel” of the alphabet symbol-
 
-izing the creative power 9 of *vāc, * its two dots being symbolically Moon and Fire. 10 It is *kalā* , that is, active power. Between these two, between *kāma * and *kalā* , extends the *kuṇḍ alinī* , which is graphically drawn as the letter *Ī * inscribed within a triangle pointing downward \(a feminine symbol, that of Śakti\). On the down-pointed apex of this triangle is the letter *HA* , or *hārdhakalā* , “the power of the half of *HA* ” \(a term that denotes also the *visarga* \). 
+izing the creative power 9 of *vāc, * its two dots being symbolically Moon and Fire. 10 It is *kalā* , that is, active power. Between these two, between *kāma * and *kalā* , extends the *kuṇḍalinī* , which is graphically drawn as the letter *Ī * inscribed within a triangle pointing downward \(a feminine symbol, that of Śakti\). On the down-pointed apex of this triangle is the letter *HA* , or *hārdhakalā* , “the power of the half of *HA* ” \(a term that denotes also the *visarga* \). 
 
-These two triangles with *kun ḍ alinī* located inside them are considered a symbol of the totality, from *A to HA* . They are also, mainly, a fi gure of the Goddess \(sexually united with Śiva\), her face being the “middle” upper *bindu* , the two lower *bindus* on the ends of the lower line of the masculine triangle being her two breasts, and the apex of the down-turned feminine triangle \(where *HA* or *hārdhakalā * is\) being her *yoni* . The shape of *kuṇḍ alinī* , the letter *Ī * \(or, rather, the *bījaīṂ * , since *kuṇḍ alinī* is topped by the middle *bindu* \), evokes her coiled form. This *kuṇḍ alinī* , says the YH, is refl ected by the two lower *bindus* , a statement not clearly explained by the commentators. Thus, this diagram, with *kuṇḍ alinī* and the two superposed intersecting triangles, represents the co-presence of the sexually united Śiva and Śakti. 11 
+These two triangles with *kunḍalinī* located inside them are considered a symbol of the totality, from *A to HA* . They are also, mainly, a fi gure of the Goddess \(sexually united with Śiva\), her face being the “middle” upper *bindu* , the two lower *bindus* on the ends of the lower line of the masculine triangle being her two breasts, and the apex of the down-turned feminine triangle \(where *HA* or *hārdhakalā * is\) being her *yoni* . The shape of *kuṇḍalinī* , the letter *Ī * \(or, rather, the *bījaīṂ * , since *kuṇḍalinī* is topped by the middle *bindu* \), evokes her coiled form. This *kuṇḍalinī* , says the YH, is refl ected by the two lower *bindus* , a statement not clearly explained by the commentators. Thus, this diagram, with *kuṇḍalinī* and the two superposed intersecting triangles, represents the co-presence of the sexually united Śiva and Śakti. 11 
 
 68
 The interpretation of this stanza as a description of the *śrīvidyā* embodying the *kāmakalā* diagram, however arbitrary, is confi rmed by other works of the Tripurā tradition, such as Nāṭanānandanātha’s commentary on the seventh stanza of Puṇyānandanātha’s *Kāmakalāvilāsa* or the NṣA, 2.185–
 
-186, with the commentaries of Śivānanda and Vidyānanda. It is also to be found in the *Gandharvatantra* , 30.37–64, which prescribes a visualization of *kuṇḍ alinī* shaped as the letter *Ī Ṃ * extending in the yogic body of the adept from the *mūlādhāra* to the *brahmarandhra. * 
+186, with the commentaries of Śivānanda and Vidyānanda. It is also to be found in the *Gandharvatantra* , 30.37–64, which prescribes a visualization of *kuṇḍalinī* shaped as the letter *Ī Ṃ * extending in the yogic body of the adept from the *mūlādhāra* to the *brahmarandhra. * 
 
 This is why she is described as supremely blissful and beautiful and animated by the *spanda* , the primordial vibration that creates and animates the universe. 
 
 The equally obscure next stanza is explained by the commentaries as describing the role played by the letters *A* and *HA* of the *śrīvidyā* . 
 
-She holds herself in the central block \[ *pin ḍ a* \] of the mantra in the sky of the primordial vibration \[ formed by\] the expansion of the central breath. Then, in the third block, //22// she fl ashes forth undivided in the *kūṭa* of Rahu. //23a// 
+She holds herself in the central block \[ *pinḍa* \] of the mantra in the sky of the primordial vibration \[ formed by\] the expansion of the central breath. Then, in the third block, //22// she fl ashes forth undivided in the *kūṭa* of Rahu. //23a// 
 
 *madhyaprāṇaprathārūpaspandavyomni sthitā puna ḥ * / 
 
-*madhyame mantrapiṇḍ e tu tṛtīye piṇḍ ake puna ḥ * //22// 
+*madhyame mantrapiṇḍe tu tṛtīye piṇḍake puna ḥ * //22// 
 
 *rāhukūṭādvayasphūrjat* 
 
@@ -602,7 +602,7 @@ that exists, from Śiva to the earth, whereas all that is object is the supreme 
 
 *vyāptā pañcadaśārṇai ḥ sā vidyā bhūtaguṇātmikā * / 
 
-*pañcabhiś ca tathāṣa ḍ bhiś caturbhir api cākṣarai ḥ * //32// 
+*pañcabhiś ca tathāṣaḍbhiś caturbhir api cākṣarai ḥ * //32// 
 
 These three groups of syllables are those of the three *kūṭas* of the *śrīvidyā* , which have six, then fi ve, then four syllables. These phonemes are said to pervade the *vidyā* , since she is made up in her totality of these fi fteen letters. 
 
@@ -730,7 +730,7 @@ Just as the ten *śrīkaṇṭhas* are that which expresses the nonmanifested, O
 
 77
 
-The ten *śrīkaṇṭhas* are the ten letters *A* of the twelve syllables that form the *śrīvidyā* \(which are twelve if one excludes the three *HRīṂ * \). The nonmanifest \( *avyakta* \) which these the letters express is, says the Dī , the vital principle, the *jīva, * of the human individual bound by the senses linked to the inert, insentient \( *ja ḍ a* \), not illuminated by divine Consciousness. The other one, linked to the two other *A* , is the *puruṣa* , the supreme soul, Śiva, who is, in fact, unique but becomes multiple by his infi nite appearances and by being present in the vital breath of all living beings. 
+The ten *śrīkaṇṭhas* are the ten letters *A* of the twelve syllables that form the *śrīvidyā* \(which are twelve if one excludes the three *HRīṂ * \). The nonmanifest \( *avyakta* \) which these the letters express is, says the Dī , the vital principle, the *jīva, * of the human individual bound by the senses linked to the inert, insentient \( *jaḍa* \), not illuminated by divine Consciousness. The other one, linked to the two other *A* , is the *puruṣa* , the supreme soul, Śiva, who is, in fact, unique but becomes multiple by his infi nite appearances and by being present in the vital breath of all living beings. 
 
 
 
@@ -825,7 +825,7 @@ The saving power of the gaze \( *nirīkṣaṇa* \) of the master which “falls
 
 
 
-*ḍ ṛṣṭ ipāta* —is a common 
+*ḍṛṣṭ ipāta* —is a common 
 
 80
 theme. The practice is also used ritually: *nirīkṣaṇa* is one of a group of four purifying rites in Śaiva ritual. 
@@ -860,7 +860,7 @@ Accompanied by the triple subject, associated with the three
 
 *bindutrayayutair jātaṁ navayonyātmakaṁ priye* / 
 
-*maṇḍ alatrayayuktaṁ tu cakraṁ śaktyanalātmakam* //54// 
+*maṇḍalatrayayuktaṁ tu cakraṁ śaktyanalātmakam* //54// 
 
 *vyomabījatrayeṇaiva pramātṛtritayānvitam* / 
 
@@ -947,7 +947,7 @@ these twenty-seven \[elements\] make up her constitutive parts that the Goddess 
 
 *yoginītvam athocyate* / 
 
-*tvagādidhātunāthābhir ḍ ākinyādibhir apy asau* //60// 
+*tvagādidhātunāthābhirḍākinyādibhir apy asau* //60// 
 
 *vargāṣṭ akaniviṣṭ ābhir yoginībhiś ca saṁyutā * / 
 
@@ -1012,7 +1012,7 @@ energy and those preceding the energies that are present in the *vidyā* .
 
 Its zodiacal state \[arises\] when one removes those that are at the end. //66// 
 
-*vidyāntarbhūtaśaktyādyai ḥ śāktai ḥṣa ḍ bhis tathākṣarai ḥ * / 
+*vidyāntarbhūtaśaktyādyai ḥ śāktai ḥṣaḍbhis tathākṣarai ḥ * / 
 
 *yoginitvaṁ ca vidyāyā rāśitvaṁ cāntyavarjitai ḥ * //66// 
 
@@ -1059,17 +1059,17 @@ I will tell you also the most secret of all meanings, O Perfect One\!
 
 This interpretation of the *śrīvidyā* is the most secret one, says the Dī , because thanks to it, the disciple may attain the supreme \( *para* \). It is, in fact, a yogic practice. 
 
-The *vidyā * having taken on, in the *mūlādhāra* , the condition of the *vāgbhava* , similar to lightning, //69b// her body being made of fi fty phonemes associated with thirty-eight *kalās* , in the form of the *kuṇḍ alinī* , pierces the three *maṇḍ alas* . //70// Shining like ten million fl ashes of lightning, shaped like a lotus fi ber, she attaches herself to the *maṇḍ ala* of the moon of the inner sky, her nature being that of a fl ow of nectar //71// of which she pervades the whole universe, her nature being constant bliss. The thought: “this energy is my own self,” such is the secret meaning, O Maheśvarī\! //72// 
+The *vidyā * having taken on, in the *mūlādhāra* , the condition of the *vāgbhava* , similar to lightning, //69b// her body being made of fi fty phonemes associated with thirty-eight *kalās* , in the form of the *kuṇḍalinī* , pierces the three *maṇḍalas* . //70// Shining like ten million fl ashes of lightning, shaped like a lotus fi ber, she attaches herself to the *maṇḍala* of the moon of the inner sky, her nature being that of a fl ow of nectar //71// of which she pervades the whole universe, her nature being constant bliss. The thought: “this energy is my own self,” such is the secret meaning, O Maheśvarī\! //72// 
 
-*mūlādhāre ta ḍ idrūpe vāgbhavākāratāṁ gate* //69// 
+*mūlādhāre taḍidrūpe vāgbhavākāratāṁ gate* //69// 
 
 *aṣṭ atriṁśatkalāyuktapañcāśadvarṇavigrahā * / 
 
-*vidyā kuṇḍ alinīrūpā maṇḍ alatrayabhedinī* //70// 
+*vidyā kuṇḍalinīrūpā maṇḍalatrayabhedinī* //70// 
 
-*ta ḍ itkoṭinibhaprakhyā bisatantunibhākṛti ḥ * / 
+*taḍitkoṭinibhaprakhyā bisatantunibhākṛti ḥ * / 
 
-*vyomendumaṇḍ alāsaktā sudhāsrota ḥ svarūpiṇī * //71// 
+*vyomendumaṇḍalāsaktā sudhāsrota ḥ svarūpiṇī * //71// 
 
 *sadā vyāptajagatkṛtsnā sadānandasvarūpiṇī * / 
 
@@ -1077,7 +1077,7 @@ The *vidyā * having taken on, in the *mūlādhāra* , the condition of the *vā
 
 The term *vāgbhava* here does not designate the fi rst *kūṭa* of the *śrīvidyā* 
 
-but the condition \( *bhava* \) of the Word \( *vāc* \) whose fourfold division we have seen above \( *śl* . 63\). The *vidyā* is thus identifi ed with the totality and the full power of the Word. This explains why her body \(in the shape of the *kuṇḍ alinī* \) is “made of fi fty phonemes,” the Sanskrit alphabet being, as we have seen, the totality of the Word. 
+but the condition \( *bhava* \) of the Word \( *vāc* \) whose fourfold division we have seen above \( *śl* . 63\). The *vidyā* is thus identifi ed with the totality and the full power of the Word. This explains why her body \(in the shape of the *kuṇḍalinī* \) is “made of fi fty phonemes,” the Sanskrit alphabet being, as we have seen, the totality of the Word. 
 
 * *
 
@@ -1087,13 +1087,13 @@ but the condition \( *bhava* \) of the Word \( *vāc* \) whose fourfold division
 
 Going upward, from the *mūlādhāra* , in the body of the adept, the *vidyā* 
 
-as *kuṇḍ alinī* pierces three *maṇḍ alas* not otherwise identifi ed by the YH 
+as *kuṇḍalinī* pierces three *maṇḍalas* not otherwise identifi ed by the YH 
 
-and its commentary, except \(by the Dī \) as being those of the fi re, the sun, and the moon, traditionally considered to have, respectively, ten, twelve, and sixteen divisions called *kalās* , totaling thus thirty-eight. These *kalās* are cosmic and divine entities with which are associated the fi fty Sanskrit phonemes; here, too, is the totality of the Word. The moon, called *soma* \(the sacred beverage of the Veda\), is traditionally associated with the *amṛta* , the nectar, which, when this center is pierced by the *kuṇḍ alinī* , fl ows over and fi lls up the universe and, evidently, the body and mind of the adept, who is then identifi ed with the divine *śakti* , saying, “This energy is my own self.” 
+and its commentary, except \(by the Dī \) as being those of the fi re, the sun, and the moon, traditionally considered to have, respectively, ten, twelve, and sixteen divisions called *kalās* , totaling thus thirty-eight. These *kalās* are cosmic and divine entities with which are associated the fi fty Sanskrit phonemes; here, too, is the totality of the Word. The moon, called *soma* \(the sacred beverage of the Veda\), is traditionally associated with the *amṛta* , the nectar, which, when this center is pierced by the *kuṇḍalinī* , fl ows over and fi lls up the universe and, evidently, the body and mind of the adept, who is then identifi ed with the divine *śakti* , saying, “This energy is my own self.” 
 
-“The thought \[ *buddhi* \] that ‘this *kun ḍ alinīśakti* made of consciousness 
+“The thought \[ *buddhi* \] that ‘this *kunḍalinīśakti* made of consciousness 
 
-\[ *cinmayī* \] is my own self’ \[ *svātmeti* \], that is to say, the total fusion by identifi cation \[ *tadātmatayā samāveśa ḥ * \] with this form \[of power\], such is the sense of the secret meaning,” says the Dī , which also says that *kuṇḍ alinī* , having pierced the moon *maṇḍ ala* , enters the *akula* center. 27 
+\[ *cinmayī* \] is my own self’ \[ *svātmeti* \], that is to say, the total fusion by identifi cation \[ *tadātmatayā samāveśa ḥ * \] with this form \[of power\], such is the sense of the secret meaning,” says the Dī , which also says that *kuṇḍalinī* , having pierced the moon *maṇḍala* , enters the *akula* center. 27 
 
 The experience described here is therefore both cosmic and bodily. 
 
@@ -1136,9 +1136,9 @@ the main tenets of the nondualist Śaiva vision of the deity and the cosmos: “
 
 This vision of the cosmos as something that shines \( *prakāśate* \) as a refl ection of the divine light \(a theme developed notably by Abhinavagupta in the *Tantrāloka* , chapter 3\) is stated again in the next half-stanza: The highest reality shines, O Flame of the essence of the divine play\! //76a// 
 
-*prakāśate mahātattvaṁ divyakrīḍ ārasojjvale* / 
+*prakāśate mahātattvaṁ divyakrīḍārasojjvale* / 
 
-This play \( *krīḍ ā* \) of the Goddess is the unlimited power of divine Consciousness \( *cicchakti* \), a power whose work is to manifest and animate the universe: “Thou, O Goddess\! art the blazing light bursting forth from this action, being \[ for us and in us\] the intuitive comprehension \[ *pratīti* \] 29 
+This play \( *krīḍā* \) of the Goddess is the unlimited power of divine Consciousness \( *cicchakti* \), a power whose work is to manifest and animate the universe: “Thou, O Goddess\! art the blazing light bursting forth from this action, being \[ for us and in us\] the intuitive comprehension \[ *pratīti* \] 29 
 
 eternally fastened on the total union of Śiva and Śakti.” 
 
@@ -1248,7 +1248,7 @@ Thus, the knowledge that gives all this, which is attained through the science o
 
 *evam etatpradaṁ jñānaṁ vidyārṇāgamagocaram* / 
 
-*devi guhyaṁ priyeṇaiva vyākhyātaṁ durgiṣa ḍ vidham* / 
+*devi guhyaṁ priyeṇaiva vyākhyātaṁ durgiṣaḍvidham* / 
 
 *sadyo yasya prabodhena vīracakreśvaro bhavet* //85// 
 

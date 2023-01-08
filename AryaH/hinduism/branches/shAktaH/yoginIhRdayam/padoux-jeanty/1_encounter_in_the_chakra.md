@@ -258,7 +258,7 @@ The three categories—knower \(
 
 31
 
-*baindavāsanasaṁrū ḍ hasaṁvartānalacitkalam* / 
+*baindavāsanasaṁrūḍhasaṁvartānalacitkalam* / 
 
 *ambikārūpam evedaṁ aṣṭārasthaṁ svarāvṛtam* //14// 
 
@@ -321,7 +321,7 @@ shines forth, the square shines. //21//
 
 33
 
-One of the divisions of the cosmos of the Tantric traditions is that of the *kalās* . It is part of an all-embracing cosmic and soteriological conception that divides the ways of apparition and maintenance of the cosmos \(and the ways toward liberation\) into “six paths” \(or ways, *adhvans* \): the *ṣ a ḍ adhvan* . It is a sixfold division into two groups of three notions or entities, all spreading from the deity to our world, to create and animate the cosmos, and manifest ways also to be followed, going upward, toward liberation. 
+One of the divisions of the cosmos of the Tantric traditions is that of the *kalās* . It is part of an all-embracing cosmic and soteriological conception that divides the ways of apparition and maintenance of the cosmos \(and the ways toward liberation\) into “six paths” \(or ways, *adhvans* \): the *ṣ aḍadhvan* . It is a sixfold division into two groups of three notions or entities, all spreading from the deity to our world, to create and animate the cosmos, and manifest ways also to be followed, going upward, toward liberation. 
 
 These *adhvans* are: the way of time \( *kālādhvan* \), which includes the phonemes, the mantras, and the “words,” entities that exist in time, not materially; and the way of space \( *deśādhvan* \), which includes the *kalās* , the *tattvas* , and the *bhuvanas* , which are more concrete elements, existing in space. The *bhuvanas* are the infernal, terrestrial, and divine 
 
@@ -408,7 +408,7 @@ Higher still, \[there is\] the Supremely Great, transcending the limitations of 
 
 *jyotsnākārā tadaṣṭāṁśā rodhinītryaśravigrahā * //29// 
 
-*bindudvayāntare daṇḍ a ḥ śevarūpo maṇiprabha ḥ * / 
+*bindudvayāntare daṇḍa ḥ śevarūpo maṇiprabha ḥ * / 
 
 *kalāṁśo dviguṇāṁśaś ca nādānto vidyujjvala ḥ * //30// 
 
@@ -585,11 +585,11 @@ The four basic energies, from *śāntā * to *kriyā* , present in the central t
 
 The three terms “word” \( *pada* \), “form” \( *rūpa* \), and “beyond the form” 
 
-\( *rūpātīta* \)—together, usually, with *piṇḍ a* rather than *kaṇḍ a* —are the names of four centers of the yogic body. According to the Dī , “word” refers to the *haṁsa* , which we may understand here as the inner breath in the heart. The 
+\( *rūpātīta* \)—together, usually, with *piṇḍa* rather than *kaṇḍa* —are the names of four centers of the yogic body. According to the Dī , “word” refers to the *haṁsa* , which we may understand here as the inner breath in the heart. The 
 
 “form” \( *rūpa* \) would be the *bindu* , on the forehead, on the so-called *ājñā *
 
-center. “Beyond the form” \( *rūpātīta* \) refers to the *brahmarandhra* . The *pīṭhas* appear thus as tiered along the *kuṇḍ alinī* , where they are to be visualized as colored geometrical shapes, which are, in fact, those of the *maṇḍ alas* of four elements, the *tattvas* of earth, water, fi re, and air. Their being associated with *cakras* of the yogic body, from the base to the summit of the *kuṇḍ alinī* , corre-lates cosmic and human levels. This practice \(since the *pīṭhas* are to be visualized and “interiorized”\) is thus at once mental-spiritual, diagrammatic-visual, bodily \(in the yogic sense\), and cosmic, the description of this part of the 
+center. “Beyond the form” \( *rūpātīta* \) refers to the *brahmarandhra* . The *pīṭhas* appear thus as tiered along the *kuṇḍalinī* , where they are to be visualized as colored geometrical shapes, which are, in fact, those of the *maṇḍalas* of four elements, the *tattvas* of earth, water, fi re, and air. Their being associated with *cakras* of the yogic body, from the base to the summit of the *kuṇḍalinī* , corre-lates cosmic and human levels. This practice \(since the *pīṭhas* are to be visualized and “interiorized”\) is thus at once mental-spiritual, diagrammatic-visual, bodily \(in the yogic sense\), and cosmic, the description of this part of the 
 
 * *
 
@@ -703,7 +703,7 @@ Split into support and supported, divided into eight, bearer of weapons, arising
 
 *āśrayāśrayibhedena aṣṭ adhā binnahetimat* / 
 
-*aṣṭ āracakrasaṁrū ḍ haṁ navacakrāsanasthitam* //54// 
+*aṣṭ āracakrasaṁrūḍhaṁ navacakrāsanasthitam* //54// 
 
 The supreme energy of the godhead, supreme consciousness, is now to be conceived as the metaphysical resting place of Śiva, who supports the expansion of the cosmos. She is also to be visualized as the goddess Kāmeśvarīresting on the lap of the god Kāmeśvara: 31 a division in two of the absolute oneness of the supreme which will bring about the multiplicity 
 
@@ -780,7 +780,7 @@ becomes divided into three, she causes the continuous presence
 
 47
 
-*trikhaṇḍ ārūpam āpannā saṁnidhikāriṇī * / 
+*trikhaṇḍārūpam āpannā saṁnidhikāriṇī * / 
 
 *sarvasya cakrarājasya vyāpikā parikīrtitā * //58// 
 
@@ -798,7 +798,7 @@ The *saṁnidhi* here is to ensure her presence as *mudrās* who symbolize nine 
 
 This same \[consciousness as Trikhan 
 
- ḍ ā 
+ḍā 
 
 *mudrā* 
 
@@ -923,7 +923,7 @@ The goddess Vāmā is so called, it is said, because she “vomits” \( *vamati
 
 The YH mentions only the metaphysical aspect of the *mudrās* , their role as divine energies. They are, however, also hand gestures, to be displayed by the adept. This is explained in the Dī for each of the ten *mudrās* . 
 
-These explanations are interesting, but translating these passages would take too much space here. Sketches of these hand poses, made by a *paṇḍ it* of the French Institute of Indology in Pondicherry, are given in fi gures 1.4 
+These explanations are interesting, but translating these passages would take too much space here. Sketches of these hand poses, made by a *paṇḍit* of the French Institute of Indology in Pondicherry, are given in fi gures 1.4 
 
 and 1.5. 
 
@@ -1004,7 +1004,7 @@ remains, staying in the \[external\] *cakra* of ten triangles, O Praised by the 
 
 *daśāracakrāsthāyā saṁsthitā vīravandite* / 
 
-This *mudrā* , looking like a fl ashing fl ame, extends, according to the Dī , from a *yonibindu* placed in the *mūlādhāra* to a *mahābindu* , on the level of the *brahmarandhra* , therefore along the *suṣumnā* , which means that the experience of the adept is one of *kuṇḍ alinīyoga* , not a merely mental, visual one. What with the visual evocation of the *mudrā* in the yogic body as part of a practice of *kuṇḍ alinī* yoga, conjoined with the display of the corresponding hand gesture, this practice appears as a particularly complex mental-bodily experience. 
+This *mudrā* , looking like a fl ashing fl ame, extends, according to the Dī , from a *yonibindu* placed in the *mūlādhāra* to a *mahābindu* , on the level of the *brahmarandhra* , therefore along the *suṣumnā* , which means that the experience of the adept is one of *kuṇḍalinīyoga* , not a merely mental, visual one. What with the visual evocation of the *mudrā* in the yogic body as part of a practice of *kuṇḍalinī* yoga, conjoined with the display of the corresponding hand gesture, this practice appears as a particularly complex mental-bodily experience. 
 
 The *mudrā* ’s name is Sarvonmadinī\(“totally intoxicating”\). The *cakra* of ten triangles is called Sarvārthasādhaka \(“accomplisher of all \[human\] 
 
@@ -1185,7 +1185,7 @@ There must fi rst be the threefold earth, 47 second the sixteen-petal
 
 *cakrasya navadhātvaṁ ca kathayāmi tava priye* //79// 
 
-*ādimaṁ bhūtrayeṇa syād dvitīyaṁṣo ḍ aśārakam* / 
+*ādimaṁ bhūtrayeṇa syād dvitīyaṁṣoḍaśārakam* / 
 
 *anyad aṣṭ adalaṁ proktaṁ manukoṇam anantaram* //80// 
 

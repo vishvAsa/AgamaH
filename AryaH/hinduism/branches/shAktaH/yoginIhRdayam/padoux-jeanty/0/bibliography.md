@@ -96,6 +96,6 @@ Berkeley : University of California Press , 1997 .
 
 Muller-Ortega , Paul Eduardo . * The Triadic Heart of Śiva * . Albany : SUNY Press , 1989 . 
 
-Silburn , Lilian. * Kuṇḍ alinī: The Energy of the Depths * . Albany : State University of New York Press , 1988 . 
+Silburn , Lilian. * Kuṇḍalinī: The Energy of the Depths * . Albany : State University of New York Press , 1988 . 
 
 White , David Gordon . * Kiss of the Yoginī: “Tantric Sex” in Its South Asian Contexts* Chicago : University of Chicago Press , 2003 . 
