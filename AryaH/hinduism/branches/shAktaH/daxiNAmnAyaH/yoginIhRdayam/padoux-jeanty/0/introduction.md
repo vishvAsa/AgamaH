@@ -387,15 +387,14 @@ The *nigarbha artha*, the “inner meaning,” very briefly considered,\( *śl* 
 ### kaulikārtha
 The *kaulikārtha* , the Kula meaning of the *vidyā* \( *śl* . 51–68\), is meant to bring about a realization by the adept of the essential oneness of the *cakra* , the godhead, the *vidyā* , the guru, and his own self. The *śrīcakra* is shown as being born from the phonemes of the *vidyā* ; as being the cosmic, essential body \( *vapus* \) of the Goddess; and as having the *vidyā* as its essential nature. The Goddess is described as present in the cosmos as five different groups of divine aspects or entities, Yoginīs and so on. The adept is to realize and experience by *bhāvanā* that all of this is present in the *cakra* and in the *vidyā* and in his own body and that of the guru. To realize this is to gain liberation. 
 
-The *sarvarahasya* , the “most secret of all” *arthas* \( *śl* . 69–72\), is secret because it is a most direct way to fusion with the godhead. It is a *kuṇḍalinī* 
+### sarva-rahasya
+The *sarva-rahasya* , the “most secret of all” *arthas* \( *śl* . 69–72\), is secret because it is a most direct way to fusion with the godhead. It is a *kuṇḍalinī* yoga practice where the parts of the *śrīvidyā* , the fifty Sanskrit phonemes, and the thirty-eight cosmic *kalās* are interiorized by the adept and made to ascend with his *kuṇḍalinī* . He thus experiences a cosmic pervasion lead-ing to liberation. 
 
-yoga practice where the parts of the *śrīvidyā* , the fifty Sanskrit phonemes, and the thirty-eight cosmic *kalās* are interiorized by the adept and made to ascend with his *kuṇḍalinī* . He thus experiences a cosmic pervasion lead-ing to liberation. 
+### mahātattva artha
+Finally, the *mahātattva artha* , the one concerning the highest reality \( *śl* . 73–80\), is the nondual realization of the Absolute “in the flashing forth of the essence of the divine play.” This *artha* is meant for the “heroes”\( *vīra* \), followers of the *kaulācāra* , the practice of Kula, who participate in the ritual meetings of the Yoginīs \( *yoginīmelana* \). The practice described here seems to be mainly meditative, not actually sexual. It shows, however, the surviving links of the Tripurā tradition with the earlier *kāpālika* Kula practices, an aspect that the adepts of the South Indian Śrīvidyā later tried to blot out. 
 
-Finally, the *mahātattva artha* , the one concerning the highest reality \( *śl* . 
-
-73–80\), is the nondual realization of the Absolute “in the fl ashing forth of the essence of the divine play.” This *artha* is meant for the “heroes”\( *vīra* \), followers of the *kaulācāra* , the practice of Kula, who participate in the ritual meetings of the Yoginīs \( *yoginīmelana* \). The practice described here seems to be mainly meditative, not actually sexual. It shows, however, the surviving links of the Tripurā tradition with the earlier *kāpālika* Kula practices, an aspect that the adepts of the South Indian Śrīvidyā later tried to blot out. 
-
-* Chapter 3: * Pūjaˉsaṁketa \(204 ślokas \) 
+## Pūjāsaṁketa
+* Chapter 3: * Pūjāsaṁketa \(204 ślokas \) 
 
 This chapter is the longest of the YH. It accounts for more than half of the work. Although the Goddess is to be visualized during the worship, which is performed on the *śrīcakra* without any material icon, she is not described here as she is, for instance, in *śl* . 130–146 of the fi rst chapter of the NṣA. Only her theological and metaphysical traits as the supreme 
 
@@ -474,7 +473,7 @@ The last stanzas \(199–204\) deal with the fruits, worldly or otherworldly, re
 
 All of these rites will be explained and discussed later, with the translation of chapter 3. The following, however, may be said now about some of them. 
 
-*Nyaˉsa* 
+*Nyāsa* 
 
 Eighty-one stanzas, nearly one-fi fth of the chapter, are taken up by the prescription of this long and complex ritual, which is indeed important since it infuses the body of the offi
 
@@ -496,7 +495,7 @@ ciant with the Goddess by an interiorization of her diagrammatic cosmic form. Th
 
 81–86\), come eight diff erent placings of various entities on the hands and on other parts of the body. The *nyāsas* end with a libation \( *saṁtarpana* \) to the Goddess, which is, in fact, a meditative practice with an ascent of *kuṇḍalinī* ; this somehow confi rms the ritual identifi cation of the adept with the deity he worships. 
 
-*Śrīcakrapūjaˉ* 
+*Śrīcakrapūjā* 
 
 This is not a worship of the *śrīcakra* but a worship, performed on the *cakra* , of Tripurasundarī, who resides in its center while also pervading it, and of all the deities of her retinue placed in concentric tiers around her in the diff erent parts of the diagram. They are worshipped going from the outer 
 

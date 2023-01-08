@@ -100,9 +100,7 @@ The YH now describes the agreement concerning the *cakra* , that is to say, both
 
 This \[ *cakra* 
 
-includes\] fi ve energies directed toward emanation 
-
-\( *srṣṭyā\)* , and four fi res turned toward resorption \( *layena\)* . The *cakra* is \[therefore\] produced by the conjunction of fi ve energies and four fi res. //8// 
+includes\] fi ve energies directed toward emanation\( *srṣṭyā\)* , and four fi res turned toward resorption \( *layena\)* . The *cakra* is \[therefore\] produced by the conjunction of fi ve energies and four fi res. //8// 
 
 *tacchaktipañcakaṁ sṛṣṭyā layenāgnicatuṣṭayam /* 
 
@@ -138,9 +136,9 @@ in terms of a cosmic process that simultaneously manifests the geometric pattern
 
 Note that each of the nine constituting parts of the *śrīcakra* is called *cakra. * \(See fi gures 1.1 and 1.2.\) 
 
-From the void letter *A* and from that which ends by emission, \[that is\] from the *bindu* , vibrating consciousness whose supreme nature is light and which is united with the fl ashing fl ow \[of divine power, appears\] the throne of the *bindu* \( *baindavāsana* \) which is the \[birth\]
+From the void letter *A* and from that which ends by emission, \[that is\] from the *bindu* , vibrating consciousness whose supreme nature is light and which is united with the fl ashing flow \[of divine power, appears\] the throne of the *bindu* \( *baindavāsana* \) which is the \[birth\]
 
-place of the fl ow made up of the three *mātṛkās* . It then assumes a threefold aspect. // 10cd–12a // 
+place of the flow made up of the three *mātṛkās* . It then assumes a threefold aspect. // 10cd–12a // 
 
 *śūnyākārād visargāntād bindo ḥ praspandasaṁvida ḥ * //10// 
 
@@ -217,7 +215,7 @@ place of the fl ow made up of the three *mātṛkās* . It then assumes a threef
 
 The *bindu* , the *anusvāra* , the nasal addition to the preceding vowel \( *A* , in this case\), written as a dot over the letter it prolongs, is conceived of as the fusion of Śiva and Śakti into one point of concentrated energy: the notion is both visual \(a dot\) and metaphysical. *Bindu* is thus metaphysically both the totality of the Absolute and the power that will manifest the universe. Being a concentrate of creative power, *bindu* is always described as luminous and vibrating, throbbing. 
 
-The “fl ow of the three *mātṛkās* ” issuing from it are \(says the Dī \) the three levels of the Word: *paśyantī, madhyamā* , and *vaikharī* , 4 which is another way of saying that the central *bindu* is the birthplace of the whole cosmos, while underlining the fact that the levels of the cosmos appear together with those of the Word and with the letters of the Sanskrit 
+The “flow of the three *mātṛkās* ” issuing from it are \(says the Dī \) the three levels of the Word: *paśyantī, madhyamā* , and *vaikharī* , 4 which is another way of saying that the central *bindu* is the birthplace of the whole cosmos, while underlining the fact that the levels of the cosmos appear together with those of the Word and with the letters of the Sanskrit 
 
 30
 alphabet, which, as we shall see, are in eff ect associated with the diff erent parts of the *śrīcakra* . 
@@ -242,11 +240,7 @@ and bliss. A division of mantras in nine \[corresponds to\] this ninefold *cakra
 
 The three categories—knower \( 
 
-*pramātṛ* 
-
-\), object of knowledge 
-
-\( *prameya* \), and means of knowledge \( *pramā * or *pramāṇa* \) 8 —are deemed to recapitulate the totality of the world as experienced by the subject who 
+*pramātṛ*\), object of knowledge\( *prameya* \), and means of knowledge \( *pramā * or *pramāṇa* \) 8 —are deemed to recapitulate the totality of the world as experienced by the subject who 
 
 “knows,” perceives what is to be known: the objectivity and who does this using means or criteria of knowledge. It is a very common philosophical notion, which we will meet several times here. 
 
@@ -386,7 +380,7 @@ The essential body 17 of *śakti* , etc., shines like twelve blazing suns.
 
 *manonmanī* . Then \[comes\] *unmanī* . //34// 
 
-Higher still, \[there is\] the Supremely Great, transcending the limitations of time or space, of innate beauty, overfl owing with supreme bliss. //35// 
+Higher still, \[there is\] the Supremely Great, transcending the limitations of time or space, of innate beauty, overflowing with supreme bliss. //35// 
 
 *akule viṣusaṁjñe ca śākte vahnau tathā puna ḥ * / 
 
@@ -439,7 +433,7 @@ As the Dī explains, these *cakras* are the following: at the base, at the root 
 
 But now the *bhāvanā* takes on a diff erent aspect, since the adept is to 
 
-“meditate” the *kalās* , the subtle phonic “parts” of the *bīja HRīṂ * starting with the *bindu* \(the *anusvāra Ṃ * , that is, which prolongs the *M* of *HRīṂ * \) and ending with *unmanā* . He is to cause to appear in his mind \( *bhāvayet* \) all these *kalās* , seeing them mentally as described in *ślokas* 27–34. The Dī 
+“meditate” the *kalās* , the subtle phonic “parts” of the *bīja HRĪṂ * starting with the *bindu* \(the *anusvāra Ṃ * , that is, which prolongs the *M* of *HRĪṂ * \) and ending with *unmanā* . He is to cause to appear in his mind \( *bhāvayet* \) all these *kalās* , seeing them mentally as described in *ślokas* 27–34. The Dī 
 
 explains that in this meditation, the conventional shapes and colors of the *kalās* , along with the aspect of the deities abiding in the nine bodily centers, are to be visualized. 
 
@@ -526,7 +520,7 @@ When the reverse process takes place, she fl ashes forth in a body
 
 *bījabhāvasthitaṁ viṣvaṁ sphu ṭīkartuṁ yadonmukhī* / 
 
-*vāmā viśvasya vamanād a ṅkuśākāratām gatā * //37// 
+*vāmā viśvasya vamanād aṅkuśākāratām gatā * //37// 
 
 *icchāśaktis tadā seyaṁ paśyantīvapuṣā sthitā * / 
 
@@ -554,9 +548,7 @@ There is a third and lower plane of the word, that of *vaikharī* , the “corpo
 
 But in the present case, what appears after the intermediate word is not the next stage of manifestation but the opposite movement: toward resorption, with the *bindu* , the dot in the center of the central triangle. This is because the whole process takes place within the deity and because creation and destruction are always present together in the supreme godhead. 
 
-This process, which unfolds on the highest divine plane, is thus described as resulting from the Goddess assuming the aspect of four goddesses and of four energies. First is Ambikā, the Mother of creation, together with the highest peaceful \( *śāntā* \) goddess form of energy, on the plane of *parā vāk. * Then comes *vāmā* , “because she vomits the universe” 
-
-\( *viśvasya vāmanāt* \), projects it outside, that is, together with the energy of will \( *icchā* \). She also visualizes ideally the universe in herself, the level of the word being *paśyantī* . After this comes the goddess Jyeṣṭhā, together with the power of knowledge \( *jñānaśakti* \), since she takes cog-nizance of her creation on this plane. It is the level of *madhyamā vāk* . 
+This process, which unfolds on the highest divine plane, is thus described as resulting from the Goddess assuming the aspect of four goddesses and of four energies. First is Ambikā, the Mother of creation, together with the highest peaceful \( *śāntā* \) goddess form of energy, on the plane of *parā vāk. * Then comes *vāmā* , “because she vomits the universe”\( *viśvasya vāmanāt* \), projects it outside, that is, together with the energy of will \( *icchā* \). She also visualizes ideally the universe in herself, the level of the word being *paśyantī* . After this comes the goddess Jyeṣṭhā, together with the power of knowledge \( *jñānaśakti* \), since she takes cog-nizance of her creation on this plane. It is the level of *madhyamā vāk* . 
 
 Since the creative movement stops here and a reverse, resorption movement appears, the Goddess takes on now the form of the fearsome Raudrī, deemed to arise together with the divine power of action \( *kriyāśakti* \), described as abiding in the central *bindu* wherein all powers are united and concentrated. The central triangle is thus complete, its three sides being made by the forms taken on by Ambikā, Vāmā, and Jyeṣṭhā, with Raudrīon *bindu* in the center. 
 
@@ -583,9 +575,7 @@ These *pīṭhās* are located respectively in the bulb, the word, the form, and
 
 The four basic energies, from *śāntā * to *kriyā* , present in the central triangle around the Goddess are now said to bring about the apparition of more concrete cosmic elements, the *pīṭhas* , which are the four main seats or centers of presence and power of the Goddess. They are quoted by the initials of their names, which are Kāmarūpa, Pūrṇagiri, Jālandhara, and Oḍḍiyāna, four places ensuring “geographically” the concrete presence of the Goddess in the Indian subcontinent. 22 A characteristic of Tantric sacred geography is that it is mentally and bodily interiorized, so the *pīṭhas* are also to be visualized by the adept on four points of his yogic imaginary body. The bulb \( *kanda* in Sanskrit\) is a bulge in the lower part of the *suṣumnā * usually considered as the center from which issue and radiate in the body the 72,000 *nā ḍīs* , the channels in which the *prāṇa* circulates. It is also assimilated to the lower yogic center, the *mūlādhāra* . 
 
-The three terms “word” \( *pada* \), “form” \( *rūpa* \), and “beyond the form” 
-
-\( *rūpātīta* \)—together, usually, with *piṇḍa* rather than *kaṇḍa* —are the names of four centers of the yogic body. According to the Dī , “word” refers to the *haṁsa* , which we may understand here as the inner breath in the heart. The 
+The three terms “word” \( *pada* \), “form” \( *rūpa* \), and “beyond the form”\( *rūpātīta* \)—together, usually, with *piṇḍa* rather than *kaṇḍa* —are the names of four centers of the yogic body. According to the Dī , “word” refers to the *haṁsa* , which we may understand here as the inner breath in the heart. The 
 
 “form” \( *rūpa* \) would be the *bindu* , on the forehead, on the so-called *ājñā *
 
@@ -599,42 +589,42 @@ center. “Beyond the form” \( *rūpātīta* \) refers to the *brahmarandhra* 
 
 *śrīcakra* being at the same time the prescription of a yogic practice. This is one more instance of the tantric association of ritual and yoga. 
 
-Now *li ṅgas* are described as present in the same places: The self-existing *li ṅga* , the *bāṇali ṅga* and the *itara* , then the supreme 
+Now *liṅgas* are described as present in the same places: The self-existing *liṅga* , the *bāṇaliṅga* and the *itara* , then the supreme 
 
 \[one\], O Dear One, are present in the *pīṭhas* . //44// 
 
 
 
-They shine like gold, \[like\] the bandhūka fl ower, the autumn 
+They shine like gold, \[like\] the bandhūka flower, the autumn 
 
-moon. The great *svayambhuli ṅga* is surrounded by the vowels and is three-pronged. //45// The *bāṇali ṅga* , triangular, is encircled by the phonemes from *KA* to *TA* . \[The *itara* \] is shaped like the round fl ower of the Kadamba and is encircled by the letters from *THA* to *SA* . //46// The supreme *li ṅga* is subtle; it is enclosed by all the phonemes. It is the *bindu* , root of supreme bliss, arising from the eternal plane. //47// 
+moon. The great *svayambhuliṅga* is surrounded by the vowels and is three-pronged. //45// The *bāṇaliṅga* , triangular, is encircled by the phonemes from *KA* to *TA* . \[The *itara* \] is shaped like the round flower of the Kadamba and is encircled by the letters from *THA* to *SA* . //46// The supreme *liṅga* is subtle; it is enclosed by all the phonemes. It is the *bindu* , root of supreme bliss, arising from the eternal plane. //47// 
 
-*svayambhūr bāṇali ṅgaṁ ca itaraṁ ca paraṁ puna ḥ * / 
+*svayambhūr bāṇaliṅgaṁ ca itaraṁ ca paraṁ puna ḥ * / 
 
-*pīṭheṣvetāni li ṅgāni saṁsthitāni varānane* //44// 
+*pīṭheṣvetāni liṅgāni saṁsthitāni varānane* //44// 
 
 *hemabandhūkakusumaśaraccandranibhāni tu* / 
 
-*svarāvṛtaṁ trikūṭaṁ ca mahāli ṅgaṁ svayambhuvam* //45// 
+*svarāvṛtaṁ trikūṭaṁ ca mahāliṅgaṁ svayambhuvam* //45// 
 
-*kāditāntākṣaravṛtaṁ bāṇali ṅgaṁ trikoṇakam* / 
+*kāditāntākṣaravṛtaṁ bāṇaliṅgaṁ trikoṇakam* / 
 
 *kadambagolakākāraṁ thādisāntākṣarāvṛtam* //46// 
 
-*sūkṣmarūpaṁ samastārṇavṛtaṁ paramali ṅgakam* / 
+*sūkṣmarūpaṁ samastārṇavṛtaṁ paramaliṅgakam* / 
 
 *bindurūpaṁ parānandakandaṁ nityapadoditam* //47// 
 
-The *sādhaka* is to imagine these *li ṅgas* as being on the same places as the *pīṭhas* : three on the three angles of the inner triangle, the fourth on the *bindu* in the center. Since *li ṅgas* are icons of Śiva, we may assume that to conceive them as placed on the *pīṭhas* , the seats of the Goddess, is to mark symbolically the co-presence \(the *saṁketa* \), the union, of these two, male and female, aspects of the supreme deity. 23 
+The *sādhaka* is to imagine these *liṅgas* as being on the same places as the *pīṭhas* : three on the three angles of the inner triangle, the fourth on the *bindu* in the center. Since *liṅgas* are icons of Śiva, we may assume that to conceive them as placed on the *pīṭhas* , the seats of the Goddess, is to mark symbolically the co-presence \(the *saṁketa* \), the union, of these two, male and female, aspects of the supreme deity. 23 
 
-A *li ṅga* is an icon of Śiva of any aspect, shape, or material, not necessarily the more or less visibly phallic image one usually means when using the term. 24 *Li ṅgas* are classifi ed in Tantras or in iconography manuals under diff erent names and categories, notably that of “special” \( *śiṣṭ a* \) *li ṅgas* , which is the case of those mentioned here, where their shape and color are specifi ed for the adept to visualize them. 
+A *liṅga* is an icon of Śiva of any aspect, shape, or material, not necessarily the more or less visibly phallic image one usually means when using the term. 24 *Liṅgas* are classifi ed in Tantras or in iconography manuals under diff erent names and categories, notably that of “special” \( *śiṣṭ a* \) *liṅgas* , which is the case of those mentioned here, where their shape and color are specifi ed for the adept to visualize them. 
 
-The self-existing \( *svayambhu* \) *li ṅga* is normally any sort of natural object that has been declared to be a visible icon of Śiva. In the present 
+The self-existing \( *svayambhu* \) *liṅga* is normally any sort of natural object that has been declared to be a visible icon of Śiva. In the present 
 
 42
-case, it is described as three-pronged \(that is, says the Dī , having three *bindus* on its summit\) and golden in color. *Bāṇalingas* , as a rule, consist mostly of quartz and are egg-shaped pebbles. Here it is triangular and red. The *itaralingas* , as their names indicate \( *itara* means “other”\), are normally all other sorts of *li ṅgas* . Here it is said to be round like a ball and white. The *parali ṅga* is colorless, invisible, since it is above the fi eld of the senses. It is, says the Dī , “the root made of bliss of the liana extending from *A* to *KṣA* whose boughs are the \[levels of the Word\] *paśyantī* , 25 etc., and whose imperishable root is the supreme \( *parā* \) word. It ‘arises from the eternal plane’ because the *mātṛkā* is eternal. This *li ṅga* arises as the primordial vibration \( *prathamaspanda* \) 26 from the eternal plane which is to be reached by all those who wish to be liberated from the fetters of this world.” 
+case, it is described as three-pronged \(that is, says the Dī , having three *bindus* on its summit\) and golden in color. *Bāṇalingas* , as a rule, consist mostly of quartz and are egg-shaped pebbles. Here it is triangular and red. The *itaralingas* , as their names indicate \( *itara* means “other”\), are normally all other sorts of *liṅgas* . Here it is said to be round like a ball and white. The *paraliṅga* is colorless, invisible, since it is above the fi eld of the senses. It is, says the Dī , “the root made of bliss of the liana extending from *A* to *KṣA* whose boughs are the \[levels of the Word\] *paśyantī* , 25 etc., and whose imperishable root is the supreme \( *parā* \) word. It ‘arises from the eternal plane’ because the *mātṛkā* is eternal. This *liṅga* arises as the primordial vibration \( *prathamaspanda* \) 26 from the eternal plane which is to be reached by all those who wish to be liberated from the fetters of this world.” 
 
-Here, too, the phonemes of the Sanskrit alphabet are present but in their subtle form, as the *mātṛkā* , the “mother” of the phonemes, not as utterable phonic elements. The vowels are associated with the *svayambhuli ṅga* since they are of a higher nature than the consonants, associated with the *bāṇa* and *itara li ṅgas* , whereas the whole alphabet, the totality of the power of the Word, is associated with the supreme *li ṅga* . 
+Here, too, the phonemes of the Sanskrit alphabet are present but in their subtle form, as the *mātṛkā* , the “mother” of the phonemes, not as utterable phonic elements. The vowels are associated with the *svayambhuliṅga* since they are of a higher nature than the consonants, associated with the *bāṇa* and *itara liṅgas* , whereas the whole alphabet, the totality of the power of the Word, is associated with the supreme *liṅga* . 
 
 Such are the *kula* and *kaula* entities expressed by the whole mantra taken as a whole with its three *bījas* . //48// 
 
@@ -650,7 +640,7 @@ appears the consciousness of the Self. //49//
 
 *atītaṁ tu paraṁ tejas svasaṁvidudayātmakam* //49// 
 
-Having associated the four *li ṅgas* with the *mātṛkā* and with the levels of *parā, paśyantī* , and so on, that is, with the total power of the Word, the YH now considers these entities to be expressed or predicated \( *vācya* \), that is, brought to existence by—or to have their essence in—the three parts, here called *bījas* , of the *śrīvidyā* and \(for the supreme *li ṅga* \) by or in the *ṣ rīvidyā * taken in its totality. The term *kula* is understood by the Dī as referring to the three human and cosmic divisions: knower, object of knowledge, and knowledge—or subject, objectivity and cognition; or measurer, 
+Having associated the four *liṅgas* with the *mātṛkā* and with the levels of *parā, paśyantī* , and so on, that is, with the total power of the Word, the YH now considers these entities to be expressed or predicated \( *vācya* \), that is, brought to existence by—or to have their essence in—the three parts, here called *bījas* , of the *śrīvidyā* and \(for the supreme *liṅga* \) by or in the *ṣ rīvidyā * taken in its totality. The term *kula* is understood by the Dī as referring to the three human and cosmic divisions: knower, object of knowledge, and knowledge—or subject, objectivity and cognition; or measurer, 
 
 * *
 
@@ -695,9 +685,9 @@ Split into support and supported, divided into eight, bearer of weapons, arising
 
 *viśvākāraprathādhāranijarūpaśivāśrayam* / 
 
-*kāmeśvarā ṅkaparya ṅkaniviṣṭ am atisundaram* //52// 
+*kāmeśvarāṅkaparyaṅkaniviṣṭ am atisundaram* //52// 
 
-*icchāśaktimayaṁ pāśam a ṅkuśaṁ jñānarūpiṇam* / 
+*icchāśaktimayaṁ pāśam aṅkuśaṁ jñānarūpiṇam* / 
 
 *kriyāśaktimaye bāṇadhanuṣī dadhadujjvalam* //53// 
 
@@ -735,7 +725,7 @@ multitudinous energies. //55//
 
 The supreme splendor is the supreme godhead, Tripurasundarī, in her cosmic aspect as the *śrīcakra* , with all the deities that animate it surrounding her. The image is that of a central throbbing core of light and power surrounded, as by the waves of the sea, by the energies emanating from this center. 
 
-More technically, but interestingly, the Dī explains as follows this fl ow of the divine energies as linked to, or embodied as, the *śrīcakra:* “When Kāmeśvara and Kāmeśvarī, who are pure light and refl ective awareness \[ *prakāśavimarśamaya* \] 34 assume by their own free will the forms of the constitutive parts of the *śrīcakra* , then the energies which constitute these parts surround them in the form of the *āvaraṇadevatās* Kāmeśvarī, Vajreśvarī, Bhagamālinī\(etc.\).” 
+More technically, but interestingly, the Dī explains as follows this flow of the divine energies as linked to, or embodied as, the *śrīcakra:* “When Kāmeśvara and Kāmeśvarī, who are pure light and refl ective awareness \[ *prakāśavimarśamaya* \] 34 assume by their own free will the forms of the constitutive parts of the *śrīcakra* , then the energies which constitute these parts surround them in the form of the *āvaraṇadevatās* Kāmeśvarī, Vajreśvarī, Bhagamālinī\(etc.\).” 
 
 As for the word “wave” \( *ūrmi* \), it is explained as follows: “the supreme Lord, who is light \[ *prakāśa* \] is the sea, Kāmeśvari, which is awareness \[ *vimarśa* \] 
 
@@ -750,7 +740,7 @@ When Consciousness becomes luminously aware of the universe
 46
 action, she \[produces it\] by her own free will. //56// \[She is then\] 
 
-energy of activity, called *mudrā* because she gladdens the universe and makes it fl ow. 
+energy of activity, called *mudrā* because she gladdens the universe and makes it flow. 
 
 *cidātmabhittau viśvasya prakāśāmarśane yadā * / 
 
@@ -762,7 +752,7 @@ energy of activity, called *mudrā* because she gladdens the universe and makes 
 
 The awareness that the Goddess, supreme consciousness, has of the universe born from her is said to be luminous since the cosmic manifestation has just been described as an ocean of light. In nondualist Tantric Śaiva traditions, the apparition of the cosmos is viewed as a real transformation of the deity into the universe: she is “made of everything \[that exists\]” \( *viśvamaya* \). The world, therefore, is not purely illusory. 35 The creation is also viewed as an image the godhead projects as with a ray of light on herself, as on a screen, which is to say that she is not only the origin but also the substrate of the world. Since the world is being manifested, the energy acting in this case is the energy of activity \( *kriyāśakti* \). 
 
-The interpretation of the term *mudrā* as gladdening \( *modana* , from the verbal root *MUD* , therefore *mu* \) and causing to fl ow \( *dravayati* , from the root *DRU* , to fl ow or dissolve, therefore *drā* \) is traditional. 36 The term can thus be taken as denoting the blissful fl ow of the universe, diff erent aspects of which will be shown as appearing in diff erent parts of the *śrīcakra* \(which is a cosmic diagram\), as a result of the action of such secondary deities as the Mudrās, who embody diff erent aspects or stages of the cosmic activity of the Goddess. They are described in the YH as energy-goddesses, not as hand gestures, the usual meaning of *mudrā* . 
+The interpretation of the term *mudrā* as gladdening \( *modana* , from the verbal root *MUD* , therefore *mu* \) and causing to flow \( *dravayati* , from the root *DRU* , to flow or dissolve, therefore *drā* \) is traditional. 36 The term can thus be taken as denoting the blissful flow of the universe, diff erent aspects of which will be shown as appearing in diff erent parts of the *śrīcakra* \(which is a cosmic diagram\), as a result of the action of such secondary deities as the Mudrās, who embody diff erent aspects or stages of the cosmic activity of the Goddess. They are described in the YH as energy-goddesses, not as hand gestures, the usual meaning of *mudrā* . 
 
 Only in the Dī \(and in Bhāskarāya’s commentary\) are they shown as gestures \(and as deities or energies\). These hand gestures are to be displayed by the adept, who will thus not only evoke the *mudrās* as deities but also, through this physical action, experiment in mind and body the cosmic activity of the Goddess as she manifests the cosmos, or, in this case, reabsorbs it, a process parallel to that of the quest for liberation. 
 
@@ -834,9 +824,7 @@ agitation”\). 39
 
 The quadrangular external part of the *śrīcakra* is called *cakra* of the doors \( 
 
-*dvāracakra* 
-
-\), because each of its four sides includes a portion 
+*dvāracakra*\), because each of its four sides includes a portion 
 
 48
 1
@@ -947,7 +935,7 @@ audible, form. 41
 
 According to the Dī , these *kalās* are also sixteen “attracting” divine energies, Kāmākarṣinīand so on, which are to be worshipped in this *cakra* during the *pūjā* . 42 
 
-The Dī gives the name of this Mudrā: Sarvavidrāviṇī \(“causing everything to fl ow”\) and, naturally, describes the corresponding hand gesture. 
+The Dī gives the name of this Mudrā: Sarvavidrāviṇī \(“causing everything to flow”\) and, naturally, describes the corresponding hand gesture. 
 
 “Because its nature is conservation,” it says, “it consists in raising the 
 
@@ -1016,13 +1004,13 @@ Great Hook. //65// Thus, vomiting the universe, she abides in
 
 the second \[ *cakra* \] of ten triangles, being full of joy, remaining in the form of *mudrā* . //66// 
 
-*vāmaśaktipradhānā tu mahā ṅkuśamayīpuna ḥ * //65// 
+*vāmaśaktipradhānā tu mahāṅkuśamayīpuna ḥ * //65// 
 
 *tadvad viśvaṁ vamantīsā dvitīye daśārake* / 
 
 *saṁsthitā modanaparā mudrārūpam āsthitā * //66// 
 
-The energy *-* goddess Vāmā is considered to permeate the second *cakra* of ten triangles, named Sarvarakṣākāra \(“bringing protection to all”\). As we saw previously \( *śl* . 37\), Vāmā \(the word means also left, crooked, oblique\) was associated with the left, oblique side of the inner triangle. Now she is similarly associated with the hook *mudrā* , her joy being the bliss of fusion with the supreme godhead. An *a ṅkuśa* is a hook or goad of an elephant driver. It is one of the attributes \( *āyudha* , 45 “arms”\) held by Tripurasundarī. 
+The energy *-* goddess Vāmā is considered to permeate the second *cakra* of ten triangles, named Sarvarakṣākāra \(“bringing protection to all”\). As we saw previously \( *śl* . 37\), Vāmā \(the word means also left, crooked, oblique\) was associated with the left, oblique side of the inner triangle. Now she is similarly associated with the hook *mudrā* , her joy being the bliss of fusion with the supreme godhead. An *aṅkuśa* is a hook or goad of an elephant driver. It is one of the attributes \( *āyudha* , 45 “arms”\) held by Tripurasundarī. 
 
 52
 Born from the unifying interaction of *dharma* and *adharma* in the form of intelligence, she destroys the faults of omission in ritual action resulting from diff erentiated thought. //67// \[This *mudrā* ,\] 
@@ -1043,9 +1031,7 @@ the supreme *khecarī* , destroyer of the diseases born from diff erentiated tho
 
 should be born from their conjunction, 
 
-*saṁghaṭṭa* 
-
-\(their total fusion, 
+*saṁghaṭṭa*\(their total fusion, 
 
 *sāmarasya* , says the Dī \), is not surprising, since this *mudrā* has a very high position in many *kula* traditions. It is the main *mudrā * described in the *Tantrāloka* \( chapter 32\), where it is described as a complex bodily-mental attitude deemed to bring about the presence of the deity and unite the adept with it. In the *Parātrīśikā* , a basic Trika work, the highest spiritual state the adept can reach is *khecaratā* , the state of being *khecara* , of moving \( *cara* \) in the void of consciousness \(  *khe* 46 \), a state described as the state of Śiva \( *śivāvasthā* \). In such a state, all forms of discursive, diff erentiated thought evidently disappear. 
 
@@ -1085,7 +1071,7 @@ This is how the \[energy of \] activity, whose nature is consciousness, abides i
 
 *kriyā caitanyarūpatvād evaṁ cakramayaṁ sthitam* //71// 
 
-This half-stanza is commented on as follows by the Dī : “As has been said before \( *śl. * 57\), the power of activity is named *mudrā* because she gladdens the universe and makes it fl ow.” 
+This half-stanza is commented on as follows by the Dī : “As has been said before \( *śl. * 57\), the power of activity is named *mudrā* because she gladdens the universe and makes it flow.” 
 
 It is therefore only the energy of activity that, dividing herself, beauti-fi es and diversifi es herself by the division and the \(successive\) predominance of the energy-goddesses Vāmā and so on, and assuming the forms of the various *mudrās* , from Saṁkṣobhinīto Yoni, her nature being that of a consciousness \( *caitanya* \) that becomes the *cakra* , that is to say, that assumes the aspects of the ninefold 
 
