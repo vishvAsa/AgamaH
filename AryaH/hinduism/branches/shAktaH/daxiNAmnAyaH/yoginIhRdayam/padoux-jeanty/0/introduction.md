@@ -236,83 +236,101 @@ The Yoginī of the title is the goddess Tripurasundarī. Amṛtānanda, in his D
 
 These explanations are of some value insofar as they underscore the at once transcendent and immanent nature of the Goddess Śakti and her indissoluble union with Śiva. 
 
-The name Yoginī is also interesting as a reminder of the links between the Tripurā tradition, as an *āmnāya* of the Kula, with the ancient \(but still surviving\) Yoginīcults. This tradition having as its main deity a goddess who is the supreme power, Śakti, surrounded by a retinue of feminine secondary deities/powers— *ṣ aktis, * which are also Yoginīs—could be called Śākta. But the so-called Śākta systems developed in a Śaiva context and are in eff ect Śaiva. Metaphysically, Tripurasundarī is subordinated to 
+The name Yoginī is also interesting as a reminder of the links between the Tripurā tradition, as an *āmnāya* of the Kula, with the ancient \(but still surviving\) Yoginī cults. This tradition having as its main deity a goddess who is the supreme power, Śakti, surrounded by a retinue of feminine secondary deities/powers— *śaktis, * which are also Yoginīs—could be called Śākta. But the so-called Śākta systems developed in a Śaiva context and are in effect Śaiva. Metaphysically, Tripurasundarī is subordinated to Paramaśiva, the supreme level of the godhead. The YH is expounded by Bhairava, the fearsome form of Śiva, in answer to a question of the Goddess. 
 
-Paramaśiva, the supreme level of the godhead. The YH is expounded by Bhairava, the fearsome form of Śiva, in answer to a question of the Goddess. 
+[[11]]
 
-True, he does so because she orders him \(“I am ordered by You,” *tvayāham *
+True, he does so because she orders him \(“I am ordered by You,” *tvayāham ājñaptaḥ* \), but this order is a form of his own will \( *madicchārūpayā* , 3.202\). 
 
-* Introduction *
-
-11
-
-*ājñaptaḥ* \), but this order is a form of his own will \( *madicchārūpayā* , 3.202\). 
-
-As the Dī explains, the universe is the “play” \( *līlā* , *kṛḍ* \) of Śakti, but Śiva is her master. Theologically, in the devotion and worship of her devotees, the Goddess is supreme; but if Śiva andṣakti are inseparable, Śiva, the masculine aspect of the total supreme godhead, is higher:ṣakti is Śiva’s energy. Tripurā’s tradition is therefore Śaiva. [^20] 
-
-Surrounded by the Yoginīs abiding in the *śrīcakra* —in the cosmos, that is—Tripurasundarī is the fi rst of them, infusing them with her power and presiding over their activity. They emanate from her in a hierarchical order, embodying and spreading her power on all planes of the cosmos and fulfi lling the functions allotted to them. As Bhairava says in YH 3.194: “You alone it is, Enchantress of the worlds, who are playing under the guise of these \[deities\].” They are aspects \( *rūpa* \) she takes on in her cosmic play. 
-
-In the Tantras and the Purāṇas, the Yoginīs are usually said to be sixty-four in number, which is eight times eight, that is, eight times the Eight Mothers \( *aṣṭamātaraḥ* , *aṣṭamātṛ kā* \). 21 In the third chapter \(3.193\), the 
-
-YH multiplies this number by ten million, mentioning sixty-four crores 22 
-
-of Yoginīs, to be worshipped in an eightfold ritual. In the *śrīcakra* , however, although they are in eight groups \(plus the Goddess\), corresponding to the structure of the diagram, they number seventy-eight. Their names also are not those usually found in the Purāṇas. 
-
-* Hṛdaya *
+As the Dī explains, the universe is the “play” \( *līlā* , *kṛḍ* \) of Śakti, but Śiva is her master. Theologically, in the devotion and worship of her devotees, the Goddess is supreme; but if Śiva and śakti are inseparable, Śiva, the masculine aspect of the total supreme godhead, is higher: śakti is Śiva’s energy. Tripurā’s tradition is therefore Śaiva. [^20] 
 
 
+[^20]: 
 
-The great secret \( 
+    Other Śaiva traditions have a goddess as their main deity, such as the Kubjikā tradition or the Krama, with Kālī. The Śaiva nondualist Kashmirian system of the Trika has three supreme goddesses: Parā, Parāparā, and Aparā. 
 
-*mahāguhya* 
+    We may underscore here the fact that with very few exceptions, the Tantric traditions whose main deity is a goddess nevertheless hold the male divine form of the deity, usually Śiva/Bhairava, as metaphysically higher. Tantras, we must not forget, were composed by male brahmins; their extolling of the goddess or of [[165]] feminine powers were \(to quote an American anthropologist\) “male constructions of femaleness.”
 
-\) disclosed to initiates by the YH is the 
+Surrounded by the Yoginīs abiding in the *śrīcakra* —in the cosmos, that is— Tripurasundarī is the first of them, infusing them with her power and presiding over their activity. They emanate from her in a hierarchical order, embodying and spreading her power on all planes of the cosmos and fulfilling the functions allotted to them. As Bhairava says in YH 3.194: 
 
-*Yoginīhr̥daya* , the “Heart of the Yoginī,” by which is meant the supreme reality, the supreme divine plane where the Goddess, consciousness \(of\) itself, manifests her power and her glory. She does this by means of the *śrīcakra* and the *śrīvidyā* , which are not a mere ritual diagram and a mere mantra but her visual, or diagrammatic, and her phonic form, two aspects of her cosmic creative \(and destructive\) power. 
+> “You alone it is, Enchantress of the worlds, who are playing under the guise of these \[deities\].” 
+
+They are aspects \( *rūpa* \) she takes on in her cosmic play. 
+
+In the Tantras and the Purāṇas, the Yoginīs are usually said to be sixty-four in number, which is eight times eight, that is, eight times the Eight Mothers \( *aṣṭamātaraḥ* , *aṣṭamātṛkā* \). [^21] 
+
+[^21]: The *mātṛkās* are either seven, the *saptamātṛkā* , or eight \(*aṣṭamātṛkā* or *matāṣṭaka* \). The number eight is important in Tantric texts. Eight times eight is the \(theoretical\) number of Bhairava Tantras. Sixty-four is also four times sixteen, which is an important lunar number, the number of fullness. Sixteen is also the number of the Nityās, the first of which is Tripurasundarī\(see YH 3:113\); and the name of the VM/NṣĀ, *Nityāṣoḍaśikārṇava* , means “The Ocean of the Sixteen Nityās.”
+
+In the third chapter \(3.193\), the YH multiplies this number by ten million, mentioning sixty-four crores [^22] of Yoginīs, to be worshipped in an eightfold ritual. In the *śrīcakra* , however, although they are in eight groups \(plus the Goddess\), corresponding to the structure of the diagram, they number seventy-eight. Their names also are not those usually found in the Purāṇas. 
+
+[^22]: A *crore* \( *koṭi* \) is ten million.
+
+#### Hṛdaya
+
+The great secret \(*mahā-guhya*\) disclosed to initiates by the YH is the *Yoginī-hr̥daya* , the “Heart of the Yoginī,” by which is meant the supreme reality, the supreme divine plane where the Goddess, consciousness \(of\) itself, manifests her power and her glory. She does this by means of the *śrīcakra* and the *śrīvidyā* , which are not a mere ritual diagram and a mere mantra but her visual, or diagrammatic, and her phonic form, two aspects of her cosmic creative \(and destructive\) power.+++(4)+++ 
 
 The heart as the supreme reality, as the spiritual plane, and as the center in the human body \(or, more exactly, in the image of the body\) where this reality is revealed and experienced is an ancient Indian notion. 
 
-It was taken over and developed in nondualist shaivism by such authors as Utpaladeva, Abhinavagupta, and Kṣemarāja, who described it in his commentary on the Śivasūtras as being “the light of consciousness since it is the place where everything abides” \( *viśvapratiṣṭhasthānatvāt citprakāśo* *hr̥dayam* \). He also describes it as throbbing and fl ashing consciousness 
+It was taken over and developed in nondualist shaivism by such authors as Utpaladeva, Abhinavagupta, and Kṣemarāja, who described it in his commentary on the Śiva-sūtras as being “the light of consciousness since it is the place where everything abides” \( *viśva-pratiṣṭha-sthānatvāt cit-prakāśohr̥dayam* \). He also describes it as throbbing and flashing consciousness [[12]] \( *sphurantīṁ saṁvidam* \) or as both made of the world and transcending it \( *viśvātmakaṁ taduttīrṇam* \). It is therefore the total plenitude of the godhead as mystically experienced in one’s heart. [^23] \(We must not forget that in traditional India, the center of consciousness is in the heart, not in the brain.\) 
 
-12
-\( *sphurantīṁ saṁvidam* \) or as both made of the world and transcending it \( *viśvātmakaṁ taduttīrṇam* \). It is therefore the total plenitude of the godhead as mystically experienced in one’s heart. 23 \(We must not forget that in traditional India, the center of consciousness is in the heart, not in the brain.\) 
 
-* Mudraˉ *
 
-*Mudrās* do not play a fundamental role in the YH. Their case, however, needs to be mentioned here because of the particular conception of *mudrās* in Tantric texts. They are not mere symbolical gestures evoking a deity or some person or entity, object, or feeling, as is true of the *mudrās* \(or *hastas* \) of dance or theater. They are both evocative/invocative gestures and—in the case of deities or powers—the supernatural entity they evoke or symbolize. They are both bodily gestures or attitudes by which the performer invokes and makes present \(and, up to a point, identifi es with\) the entities they symbolize *and* these very entities. The nine *mudrās* described in *śl* . 59–61 of the fi rst chapter of the YH are nine deities, ancillary goddesses of Tripurasundarī made present by a gesture whose performance \(together with the mental visualization\) identifi es the adept with that deity. 
+[^23]: On the Śaiva nondualist conceptions of the heart, see Paul Eduardo Muller-Ortega, The Triadic Heart of Śiva \(Albany: SUNY Press, 1989\).
 
-\(Such deities are to be worshipped during the *śrīcakra pūjā* , as we shall see in the third chapter.\) 
 
-Gestures are an important element in human communication. They 
+#### Mudra
 
-play a role in support of language. They also supplement it. In ritual, they have meaning and power, and they act, usually by accompanying a mantra but also sometimes by their own visual/bodily power; this appears clearly here in chapter 1. 
+*Mudrās* do not play a fundamental role in the YH. Their case, however, needs to be mentioned here because of the particular conception of *mudrās* in Tantric texts. They are not mere symbolical gestures evoking a deity or some person or entity, object, or feeling, as is true of the *mudrās* \(or *hastas* \) of dance or theater. They are both evocative/invocative gestures and—in the case of deities or powers—the supernatural entity they evoke or symbolize. They are both bodily gestures or attitudes by which the performer invokes and makes present \(and, up to a point, identifies with\) the entities they symbolize *and* these very entities.+++(4)+++ 
 
-For many texts, *mudrās* are more than gesture; they are mystical attitudes, and in practicing them, the yogin identifi es with a deity or even with the absolute. Such is the case, for instance, with the *mudrās* described in the *Vijñānabhairava* or those described in chapter 32 of Abhinavagupta’s *Tantrāloka* , where he explains that the *mudrā* , together with the mental concentration of the adept, brings about the presence of the deity invoked and identifi es the adept with it. 
+The nine *mudrās* described in *śl* . 59–61 of the first chapter of the YH are nine deities, ancillary goddesses of Tripurasundarī made present by a gesture whose performance \(together with the mental visualization\) identifies the adept with that deity.\(Such deities are to be worshipped during the *śrīcakra pūjā* , as we shall see in the third chapter.\) 
 
-* Metaphysics *
+Gestures are an important element in human communication. They play a role in support of language. They also supplement it. In ritual, they have meaning and power, and they act, usually by accompanying a mantra but also sometimes by their own visual/bodily power; this appears clearly here in chapter 1. 
 
-The philosophical conceptions of the YH can be said to be those of the nondualist Kashmirian shaivism, and especially those of the *pratyabhijñā* -based 
+For many texts, *mudrās* are more than gesture; they are mystical attitudes, and in practicing them, the yogin identifies with a deity or even with the absolute. Such is the case, for instance, with the *mudrās* described in the *Vijñāna-bhairava* or those described in chapter 32 of Abhinavagupta’s *Tantrāloka* , where he explains that the *mudrā* , together with the mental concentration of the adept, brings about the presence of the deity invoked and identifies the adept with it. 
 
-* Introduction *
+### Metaphysics
 
-13
+The philosophical conceptions of the YH can be said to be those of the nondualist Kashmirian shaivism, and especially those of the *pratyabhijñā* -based [[13]] Trika as expounded notably by Abhinavagupta. This is one more reason for believing the YH to have been elaborated, if not in Kashmir, then at least, and certainly, in circles where the Kashmirian Śaiva tradition was active. 
 
-Trika as expounded notably by Abhinavagupta. This is one more reason for believing the YH to have been elaborated, if not in Kashmir, then at least, and certainly, in circles where the Kashmirian Śaiva tradition was active. 
+The supreme reality \( *paramaṁ mahat* , *mahātattva* , or *mahāsattā* , the “Great Being”\) is described as transcendent, undivided \( *niṣkala* , 1.27\), transcending space and time, pure light \( *prakāśa* , 1.11\), [^24] and consciousness \( *saṁvit* , 1.10\). It is also the phoneme *A* , the “unsurpassed” or “peerless one” \( *anuttara* \). 
 
-The supreme reality \( *paramaṁ mahat* , *mahātattva* , or *mahāsattā* , the 
 
-“Great Being”\) is described as transcendent, undivided \( *niṣkala* , 1.27\), transcending space and time, pure light \( *prakāśa* , 1.11\), 24 and consciousness \( *saṁvit* , 1.10\). It is also the phoneme *A* , the “unsurpassed” or “peerless one” \( *anuttara* \). This absolute fl ashes forth, vibrates luminously \( *sphurattā* , *ullāsa* \). It expands as a luminous wave \( *sphuradūrmi* , 1.10\) by its own free will \( *svecchayā* , 1.9\) and manifests thus the whole cosmos made up of the thirty-six *tattvas* , from Śiva to the earth \( *pṛ thivī* , 2.32–33\). This universe, manifested 25 as if by play \( *līlā* \), is pervaded by the divine power or energy; everything, from the gods to this earthly world, is in fact the Goddess herself, supreme splendor \( *paraṁ tejas* , 1.72\), “surrounded by the sparkling waves of her multitudinous energies” \(1.55\). Of this manifestation, the Goddess is luminously conscious \( *prakāṣāmarśana* \) as it unfolds “on the screen of her own self” \( *ātmabhittau* , 1.56\). She vibrates \( *spandarūpiṇī * \), being immersed in bliss \( *ānanda* \). Although transcendent \( *viśvottīrṇa* \), the Goddess as supreme power \( *paramaśakti* \) is also immanent, “made of the world” \( *viśvamaya* \), that is, embodied in everything that exists. The cosmos is her manifested form, but although she is shining, “Flame of the essence of divine play” \( *divyakrīd rasojjvala* , 2.76\) as the absolute, she is ever pure, undivided light and bliss. All these notions and the terms used are typical of nondualist shaivism. 
+[^24]: But a light that is consciousness, a conscious light.
 
-The YH, however, is not a philosophical treatise aiming at expounding particular metaphysical tenets. Neither was that the aim of the Dī , in spite of the fact that its interpretation of the sutras always develops their metaphysical import. The aim of this text \(and of practically all Indian metaphysical systems\) 26 was, while conveying an esoteric teaching, to show a way toward liberation—more precisely to a Tantric form of liberation in this life, *jīvanmukti* , which is both liberation from the fetters of this world and domination over it. This is the raison d’être of the three chapters of the YH. 
+
+This absolute flashes forth, vibrates luminously \( *sphurattā* , *ullāsa* \). It expands as a luminous wave \( *sphuradūrmi* , 1.10\) by its own free will \( *svecchayā* , 1.9\) and manifests thus the whole cosmos made up of the thirty-six *tattvas* , from Śiva to the earth \( *pṛthivī* , 2.32–33\). This universe, manifested [^25] as if by play \( *līlā* \), is pervaded by the divine power or energy; everything, from the gods to this earthly world, is in fact the Goddess herself, supreme splendor \( *paraṁ tejas* , 1.72\), “surrounded by the sparkling waves of her multitudinous energies” \(1.55\). 
+
+
+[^25]: We say “manifested” rather than “created,” for in a nondualist system, the deity does not create outwardly the world; she manifests, causes to appear outwardly \(though in herself\), the cosmos, which is in seed in herself. There is no *fiat* taking place at the beginning of time; creation as manifestation is being eternally, perpetually manifested by the godhead who pervades and animates it—otherwise, it would disappear.+++(4)+++
+
+Of this manifestation, the Goddess is luminously conscious \( *prakāṣāmarśana* \) as it unfolds “on the screen of her own self” \( *ātmabhittau* , 1.56\). She vibrates \( *spandarūpiṇī * \), being immersed in bliss \( *ānanda* \). Although transcendent \( *viśvottīrṇa* \), the Goddess as supreme power \( *paramaśakti* \) is also immanent, “made of the world” \( *viśvamaya* \), that is, embodied in everything that exists. The cosmos is her manifested form, but although she is shining, “Flame of the essence of divine play” \( *divyakrīd rasojjvala* , 2.76\) as the absolute, she is ever pure, undivided light and bliss. All these notions and the terms used are typical of nondualist shaivism. 
+
+## Practice-focus
+The YH, however, is not a philosophical treatise aiming at expounding particular metaphysical tenets. Neither was that the aim of the Dī , in spite of the fact that its interpretation of the sutras always develops their metaphysical import. The aim of this text \(and of practically all Indian metaphysical systems\) [^26] was, while conveying an esoteric teaching, to show a way toward liberation—more precisely to a Tantric form of liberation in this life, *jīvanmukti* , which is both liberation from the fetters of this world and domination over it. This is the raison d’être of the three chapters of the YH. 
+
+[^26]: Indian philosophical systems, like the classical Western \(Greek\) philosophies, are not abstract theoretical constructions but ways of life, traditions to live by.
 
 ## Cakrasaṁketa
 Chapter 1: * Cakrasaṁketa \(86 ślokas \) * *
 
-The YH does not say here how to draw the *śrīcakra* \(nor does Amṛ tānanda in the Dī \). It describes how it appears as an outward manifestation of the power of the Goddess, who is deemed to have agreed with her consort, Śiva, to be present with him in the *śrīcakra* , hence the title of the chapter, *Cakrasaṁketa* . What is described is a cosmic process bringing about the existence of the *cakra* that embodies this process and mediates it to the *sādhaka* who is to visualize mentally its aspect and its dynamism through an intense identifying form of meditation called *bhāvanā* . 27 
+The YH does not say here how to draw the *śrīcakra* \(nor does Amṛtānanda in the Dī \). It describes how it appears as an outward manifestation of the power of the Goddess, who is deemed to have agreed with her consort, Śiva, to be present with him in the *śrīcakra* , hence the title of the chapter, *Cakrasaṁketa* . What is described is a cosmic process bringing about the existence of the *cakra* that embodies this process and mediates it to the *sādhaka* who is to visualize mentally its aspect and its dynamism through an intense identifying form of meditation called *bhāvanā* . [^27] 
 
-After presenting the dialogue, in the Absolute, between the Goddess and Bhairava, which makes up the text of the YH, the chapter fi rst describes the cosmic unfolding of the *śrīcakra* from the central *bindu* to the outer square \( *śl* . 10–21\). Then the adept, following a reverse movement, since he is a human being, is to visualize and perceive within himself the three main constituent parts of the *cakra* , going from the outer square to the center. Now, once the meditation of the *sādhaka* has reached the central *bindu* , he is to evoke and follow mentally the ascending levels of phonic energy \(the *kalās* , “parts”\), from *ardhacandra* to *unmanā* , of the utterance \( *uccāra* \) 28 of the *bīja HRīṂ * , the basic mantra of the Goddess. 
+[^27]: *Bhāvanā* is a very important practice in the universe of Tantra. The term is derived from the causative form of the Sanskrit verbal root *BHU* , to cause to exist \( *bhāvyate* \). It designates a practice consisting of evoking mentally the image of a deity with the same precision as a concrete image or creating, by calling it intensely to mind, any image, vision, or thought, thus identifying the meditating person with the subject or theme being meditated. It differs from *dhyāna* in its intensity and identifying power and in the fact that it creates its object, which is not necessarily the case in *dhyāna*. +++(भेदोऽयं कृत्रिमो भाति।)+++ Its role is fundamental in Tantric mental practices, spiritual life, and ritual. As is well known, in Tantrism, *dhyāna* designates meditation but also, and more important, the mental visualization of a deity as described in stanzas of ritual manuals called *dhyānaślokas*. 
 
-The mental process goes thus from the spatial, visual domain of the diagram to the oral one, as if sound were felt as a subtle extension of space. The adept is to meditate there on three planes of the Word, *vāc* , from the supreme, *parā* , to the intermediate, *madhyamā* , 29 and to evoke the fi fty phonemes of the Sanskrit alphabet while also meditating such entities as *pīṭhas* or *li ṅgas* \( *śl* . 37–49\). He is to conceive the *śrīcakra* as being the universe produced by the will \( *icchā* \) of the deity, a will that is eventually to become action \( *kriyā* \) and which is then *mudrā* “because it rejoices \[ *mud* \] the universe and makes it fl ow \[ *rā* \].” 30 Stanzas 57–71 then describe ten *mudrās* that are both ritual hand gestures and aspects of the Goddess, corresponding also to the nine parts of the *śrīcakra* \(and to its entirety\). The *mudrās* symbolize or, more accurately, are actually stages in the progression of the *sādhaka* from the outer world where he lives to the godhead. 
+
+After presenting the dialogue, in the Absolute, between the Goddess and Bhairava, which makes up the text of the YH, the chapter first describes the cosmic unfolding of the *śrīcakra* from the central *bindu* to the outer square \( *śl* . 10–21\). Then the adept, following a reverse movement, since he is a human being, is to visualize and perceive within himself the three main constituent parts of the *cakra* , going from the outer square to the center. Now, once the meditation of the *sādhaka* has reached the central *bindu* , he is to evoke and follow mentally the ascending levels of phonic energy \(the *kalās* , “parts”\), from *ardhacandra* to *unmanā* , of the utterance \( *uccāra* \) [^28] of the *bīja HRīṂ* , the basic mantra of the Goddess. 
+
+[^28]: *Uccāra* is an utterance of a mantra that is both an enunciation and an upward thrust of the phonic subtle sound, the *nāda* , of the mantra in the body of the mantrin. This ascending phonic movement is often associated with the ascent of *kuṇḍalinī* along the *suṣumnā* ; it is more a yogic practice than a verbal enunciation. This is, notably, the case of the *japa* of the *śrīvidyā* described in the third chapter \( *śl*. 169–188\) of the YH.
+
+The mental process goes thus from the spatial, visual domain of the diagram to the oral one, as if sound were felt as a subtle extension of space. The adept is to meditate there on three planes of the Word, *vāc* , from the supreme, *parā* , to the intermediate, *madhyamā* , [^29] and to evoke the fifty phonemes of the Sanskrit alphabet while also meditating such entities as *pīṭhas* or *liṅgas* \( *śl* . 37–49\). 
+
+[^29]: On the levels of *vāc* , see chapter 2, *śl. * 63, and n. 25 ad loc.
+
+He is to conceive the *śrīcakra* as being the universe produced by the will \( *icchā* \) of the deity, a will that is eventually to become action \( *kriyā* \) and which is then *mudrā* “because it rejoices \[ *mud* \] the universe and makes it flow \[ *rā* \].” [^30] 
+
+[^30]: See the commentary and notes to *śl*. 1.57.
+
+Stanzas 57–71 then describe ten *mudrās* that are both ritual hand gestures and aspects of the Goddess, corresponding also to the nine parts of the *śrīcakra* \(and to its entirety\). The *mudrās* symbolize or, more accurately, are actually stages in the progression of the *sādhaka* from the outer world where he lives to the godhead. 
 
 Other meditations on the *śrīcakra* are then prescribed, all meant to help the adept to realize the metaphysical import of the diagram as the form the Goddess takes on in her cosmic creative \(and destructive\) play; added to the preceding ones, this *bhāvanā* will lead him to liberation. 
 
@@ -336,7 +354,7 @@ The *mantrasaṁketa* ’s purpose is to give six diff erent “meanings” \( *
 
 The chapter begins by enumerating the *vidyās* \(i.e., mantras\) of the nine *cakreśvarīs* , the regent deities of the nine parts of the *śrīcakra* , which the adept must place by *nyāsa* on nine parts of his yogic body and worship there as present in the nine constitutive *cakras* of the *śrīcakra. * 
 
-Then is expounded the fi rst *artha* , the *bhāvārtha* \( *śl. * 16–25\). It is based on symbolical values given to the syllables of the *vidyā* , the three parts of which are described as resulting from the union of Śiva and Śakti, from whose interactive union \( *saṁghaṭṭa* \) 33 the “fl ow,” the creative play of the mantra, is deemed to issue. This very fl ow expressed by the phonetic constituents of the *śrīvidyā* , manifests, sustains, animates, and ultimately reabsorbs the cosmos, a process the adept must experience spiritually through a *bhāvanā* in which the three parts of the mantra are experienced as fused with his *kuṇḍalinī* . The power of the *vidyā* also takes on here the form of the *kāmakalā * \( *śl* . 21–25\), a diagram whose symbolism, based on the sexual union of Śiva and Śakti, is both visual and phonic. 34 
+Then is expounded the fi rst *artha* , the *bhāvārtha* \( *śl. * 16–25\). It is based on symbolical values given to the syllables of the *vidyā* , the three parts of which are described as resulting from the union of Śiva and Śakti, from whose interactive union \( *saṁghaṭṭa* \) 33 the “flow,” the creative play of the mantra, is deemed to issue. This very flow expressed by the phonetic constituents of the *śrīvidyā* , manifests, sustains, animates, and ultimately reabsorbs the cosmos, a process the adept must experience spiritually through a *bhāvanā* in which the three parts of the mantra are experienced as fused with his *kuṇḍalinī* . The power of the *vidyā* also takes on here the form of the *kāmakalā * \( *śl* . 21–25\), a diagram whose symbolism, based on the sexual union of Śiva and Śakti, is both visual and phonic. 34 
 
 The *saṁpradāya artha* , the “traditional meaning” \( *śl* . 26–48\) shows how the cosmic process is pervaded by the *śrīvidyā* , that is, by the united Śiva and Śakti. To this eff ect, the YH explains how the constitutive elements of 
 
@@ -345,21 +363,17 @@ the universe— *tattvas, guṇas* , *prāṇas* , and so forth, even the gods�
 
 The *nigarbha artha* 
 
-, the “inner meaning,” very briefl y considered, 
-
-\( *śl* . 48–51\), is the essential oneness of Śiva, the guru, and the self of the *sādhaka* , who is to realize it by *bhāvanā* , thanks also to his devotion and to the power of the guru’s gaze \( *nirīkṣaṇa* \). 35 
+, the “inner meaning,” very briefl y considered,\( *śl* . 48–51\), is the essential oneness of Śiva, the guru, and the self of the *sādhaka* , who is to realize it by *bhāvanā* , thanks also to his devotion and to the power of the guru’s gaze \( *nirīkṣaṇa* \). 35 
 
 The *kaulikārtha* , the Kula meaning of the *vidyā* \( *śl* . 51–68\), is meant to bring about a realization by the adept of the essential oneness of the *cakra* , the godhead, the *vidyā* , the guru, and his own self. The *śrīcakra* is shown as being born from the phonemes of the *vidyā* ; as being the cosmic, essential body \( *vapus* \) of the Goddess; and as having the *vidyā* as its essential nature. The Goddess is described as present in the cosmos as fi ve diff erent groups of divine aspects or entities, Yoginīs and so on. The adept is to realize and experience by *bhāvanā * that all of this is present in the *cakra* and in the *vidyā* and in his own body and that of the guru. To realize this is to gain liberation. 
 
 The *sarvarahasya* , the “most secret of all” *arthas* \( *śl* . 69–72\), is secret because it is a most direct way to fusion with the godhead. It is a *kuṇḍalinī* 
 
-yoga practice where the parts of the *śrīvidyā* , the fi fty Sanskrit phonemes, and the thirty-eight cosmic *kalās* are interiorized by the adept and made to ascend with his *kuṇḍalinī* . He thus experiences a cosmic pervasion lead-ing to liberation. 
+yoga practice where the parts of the *śrīvidyā* , the fifty Sanskrit phonemes, and the thirty-eight cosmic *kalās* are interiorized by the adept and made to ascend with his *kuṇḍalinī* . He thus experiences a cosmic pervasion lead-ing to liberation. 
 
 Finally, the *mahātattva artha* , the one concerning the highest reality \( *śl* . 
 
-73–80\), is the nondual realization of the Absolute “in the fl ashing forth of the essence of the divine play.” This *artha* is meant for the “heroes” 
-
-\( *vīra* \), followers of the *kaulācāra* , the practice of Kula, who participate in the ritual meetings of the Yoginīs \( *yoginīmelana* \). The practice described here seems to be mainly meditative, not actually sexual. It shows, however, the surviving links of the Tripurā tradition with the earlier *kāpālika* Kula practices, an aspect that the adepts of the South Indian Śrīvidyā later tried to blot out. 
+73–80\), is the nondual realization of the Absolute “in the fl ashing forth of the essence of the divine play.” This *artha* is meant for the “heroes”\( *vīra* \), followers of the *kaulācāra* , the practice of Kula, who participate in the ritual meetings of the Yoginīs \( *yoginīmelana* \). The practice described here seems to be mainly meditative, not actually sexual. It shows, however, the surviving links of the Tripurā tradition with the earlier *kāpālika* Kula practices, an aspect that the adepts of the South Indian Śrīvidyā later tried to blot out. 
 
 * Chapter 3: * Pūjaˉsaṁketa \(204 ślokas \) 
 
@@ -369,7 +383,7 @@ This chapter is the longest of the YH. It accounts for more than half of the wor
 
 17
 
-deity are given. Tripurasundarī, in NṣA, is described as a beautiful young woman, luminous like the rising sun, having three eyes, a half-moon on her forehead, and a crown of jewels on her hair. She wears gold brace-lets, is clad in a red garment, and is seated on a lotus. She holds in her two upper hands a noose \( *pāśa* \) and an elephant-goad \( *a ṅkuśa* \) and in her two lower hands a bow \( *dhanus* \) and arrows \( *bāṇa* \). These four attributes are quoted in YH 1.53 as those of Kāmeśvara and Kāmeśvarī, who, taken together, are forms of Tripurasundarī. 
+deity are given. Tripurasundarī, in NṣA, is described as a beautiful young woman, luminous like the rising sun, having three eyes, a half-moon on her forehead, and a crown of jewels on her hair. She wears gold brace-lets, is clad in a red garment, and is seated on a lotus. She holds in her two upper hands a noose \( *pāśa* \) and an elephant-goad \( *aṅkuśa* \) and in her two lower hands a bow \( *dhanus* \) and arrows \( *bāṇa* \). These four attributes are quoted in YH 1.53 as those of Kāmeśvara and Kāmeśvarī, who, taken together, are forms of Tripurasundarī. 
 
 The fi rst *pūjā* 
 
@@ -391,9 +405,7 @@ must still perform during the worship several rites that will advance him toward
 
 This explains why the chapter begins by saying that there are three sorts of *pūjā* , the lowest of which is the ritually performed one. The highest one \( *śl* . 3a, 4b–7\), the “supreme worship,” is purely spiritual. It is a *bhāvanā* 
 
-associated with an ascent of the *kuṇḍalinī* , by which the adept experiences mystically his unity with the supreme Śiva. It is the total plenitude of the absolute I \( *pūrṇāhaṁbhava* \), an experience of the nature of the Goddess as the fl ashing forth of consciousness. The second sort is “nonsupreme” 
-
-\( *apara* \). It is the *cakrapūja* as described in this chapter. Bhairava says here \( *śl* . 3b\) that he performs it ceaselessly; it is a divine, not a human, activity. 
+associated with an ascent of the *kuṇḍalinī* , by which the adept experiences mystically his unity with the supreme Śiva. It is the total plenitude of the absolute I \( *pūrṇāhaṁbhava* \), an experience of the nature of the Goddess as the fl ashing forth of consciousness. The second sort is “nonsupreme”\( *apara* \). It is the *cakrapūja* as described in this chapter. Bhairava says here \( *śl* . 3b\) that he performs it ceaselessly; it is a divine, not a human, activity. 
 
 Then there is \( *śl* . 4a\) the “supreme-nonsupreme worship” \( *parāparāpūjā* \). 
 
@@ -404,9 +416,7 @@ The description of the nonsupreme \( *aparapūjā* \), ritually performed worshi
 18
 identify the performer with the deity while worshipping her. It includes the following items: 
 
-Four succeeding series of ritual placings \( *nyāsa* \) of mantras, of deities, and of the *śrīcakra* on the body of the offi ciating adept 
-
-\( *śl. * 8–89\). 
+Four succeeding series of ritual placings \( *nyāsa* \) of mantras, of deities, and of the *śrīcakra* on the body of the offi ciating adept\( *śl. * 8–89\). 
 
 The construction of the throne \( *āsana* \) of the Goddess and the off ering of a propitiatory oblation \(a *bali* \) to the Yoginīs \( *śl. * 90\). This is where an “inner sacrifi ce” \( *antaryāga* \), or “worship of the self \( *ātmapūjā* \), should normally take place, but the YH does not mention it. 
 
@@ -418,7 +428,7 @@ Drawing of the *śrīcakra* on which the ritual worship is to be performed \( *�
 
 Off ering of the “common *arghya* ”—consecrated water and so on—on a special diagram; worship of the *āsana* and *pīṭha* and of the *kalās* of fi re, sun, and moon \( *śl. * 98–100\). 
 
-Preparation of the “special *arghya* ” \( *viṣeśārghya* \), which, as appears later on, includes wine, and off ering it to Bhairava and to the succession of masters \( *gurupa ṅkti* \) \( *śl. * 103–104\). 
+Preparation of the “special *arghya* ” \( *viṣeśārghya* \), which, as appears later on, includes wine, and off ering it to Bhairava and to the succession of masters \( *gurupaṅkti* \) \( *śl. * 103–104\). 
 
 Inner oblation \( *homa* \) in the “fi re of desire” \( *kāmāgni* \). This is normally performed materially at the end of the ritual. Here it is an interiorized, mystical oblation \( *śl. * 105–108\). 
 
@@ -481,7 +491,7 @@ The *pūjā* is made up of a number of sometimes complex rites organized as a dy
 
 ciating adept, after “enter-
 
-ing” the diagram by paying homage to the lower and most external deities abiding in the outer square, the *bhūgṛ ha* ; purifi es his hands and his *prāṇa* \(in the two lotuses\); then causes his *kuṇḍalinī* to ascend and feels thus absorbed into the cosmic energy \(the *kulaśakti* \), which is also present in his body, this in the *cakra* of fourteen triangles. As he concentrates on an inner subtle phonic resonance \( *nāda* \), he raises his *kuṇḍalinī* again from the *mūlādhāra* to the *ājñācakra* \(in the fi rst *cakra* of ten angles\), and then, along with the *kuṇḍalinī* \(in the second ten-angles *cakra* \), he becomes absorbed in his own essence. After that, as his *prāṇa* is concentrated in his heart \( *cakra* of eight triangles\), he realizes the pure essence of consciousness, and \(having attained the central triangle\) he worships the higher deities destructive of the cosmos surrounding the Goddess, which means that he rises to the source of the universe. The worship having now reached the central *bindu* “whose nature is that of the supreme *brahman* ,” 
+ing” the diagram by paying homage to the lower and most external deities abiding in the outer square, the *bhūgṛha* ; purifi es his hands and his *prāṇa* \(in the two lotuses\); then causes his *kuṇḍalinī* to ascend and feels thus absorbed into the cosmic energy \(the *kulaśakti* \), which is also present in his body, this in the *cakra* of fourteen triangles. As he concentrates on an inner subtle phonic resonance \( *nāda* \), he raises his *kuṇḍalinī* again from the *mūlādhāra* to the *ājñācakra* \(in the fi rst *cakra* of ten angles\), and then, along with the *kuṇḍalinī* \(in the second ten-angles *cakra* \), he becomes absorbed in his own essence. After that, as his *prāṇa* is concentrated in his heart \( *cakra* of eight triangles\), he realizes the pure essence of consciousness, and \(having attained the central triangle\) he worships the higher deities destructive of the cosmos surrounding the Goddess, which means that he rises to the source of the universe. The worship having now reached the central *bindu* “whose nature is that of the supreme *brahman* ,” 
 
 the adept worships Tripurasundarī in the whole *śrīcakra* since she pervades it. This he does “in total freedom,” that is, with the absolute liberty of one who has outsoared \(ritually, of course\) all limitations. 
 
@@ -524,4 +534,4 @@ the edition used for this translation is the one prepared, on the basis of sever
 
 23
 
-Amṛ tānanda’s commentary, the *Dīpikā* . It is a good edition both of the YH and of the commentary. Professor Dvivedi kindly let me use it before it was published for the French translation I made of this work. 41 For this, and for the help he otherwise extended me, I wish to thank him once more very sincerely. The YH—of which a large number of manuscripts exist in India and Nepal—was fi rst edited in 1923, together with the commentaries of Amṛ tānanda and of Bhāskararāya, by Gopinath Kaviraj; this edition is still available, but it is not very reliable. The YH was also published together with the *Nityāṣoḍaśikārṇava* and with the *Setubandha* of Bhāskararāya as vol. 53 of the Ānandāśram Sanskrit Series. 
+Amṛtānanda’s commentary, the *Dīpikā* . It is a good edition both of the YH and of the commentary. Professor Dvivedi kindly let me use it before it was published for the French translation I made of this work. 41 For this, and for the help he otherwise extended me, I wish to thank him once more very sincerely. The YH—of which a large number of manuscripts exist in India and Nepal—was fi rst edited in 1923, together with the commentaries of Amṛtānanda and of Bhāskararāya, by Gopinath Kaviraj; this edition is still available, but it is not very reliable. The YH was also published together with the *Nityāṣoḍaśikārṇava* and with the *Setubandha* of Bhāskararāya as vol. 53 of the Ānandāśram Sanskrit Series. 

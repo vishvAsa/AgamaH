@@ -76,7 +76,7 @@ It refers in a general way to the ensemble of nondualist Śaiva traditions forme
 
 The places where these *nyāsas* are to be made are as follows: On the end of the feet, on the legs, the knees, the thighs, the anus, the tip of the penis. //6// On the \[ *mūl* \] *ādhāra* is to be imposed the Mūrti\[vidyā\] on which is to be placed the Ā v ā hinī. With the Mūla\[vidyā\] one must do a *vyāpakanyāsa* , 2 Parameśvarī\! //7// 
 
-*pādāgraja ṅghājānūrugudali ṅgāgrakeṣu ca* //6// 
+*pādāgrajaṅghājānūrugudaliṅgāgrakeṣu ca* //6// 
 
 *ādhāre vinyasen mūrtiṁ tasyām āvāhinīṁ nyaset* / 
 
@@ -224,7 +224,7 @@ In the next fi ve stanzas, the YH shows, fi rst, that the *śrīvidyā* encapsu-
 
 the form of the conjunction of Śiva and Śakti on the plane where 
 
-\[Śiva\] adheres to the fl ow of his expansion which \[ for him\] is but an Indraic secondary trait. //19–20a// 
+\[Śiva\] adheres to the flow of his expansion which \[ for him\] is but an Indraic secondary trait. //19–20a// 
 
 *śivaśaktyākhyasaṁghaṭṭarūpe brahmaṇi śāśvate* / 
 
@@ -243,7 +243,7 @@ together. //20//
 
 *teṣāṁ samaṣṭirūpeṇa parāśaktis tu mātṛkā * //20// 
 
-The *śrīvidyā* as supreme power \( *parā śakti* \) made up of the coalescence of Śiva and Śakti appears thus as the mother of all the deities and of the cosmos, which issues from her. The term describing this creative aspect is *mātṛkā* , which denotes also the fi fty phonemes of the Sanskrit alphabet taken together, that is, the totality of the Word \( *mātṛkā* can also designate one of these phonemes, being in that case a synonym of *varṇa* or *akṣara* \). 
+The *śrīvidyā* as supreme power \( *parā śakti* \) made up of the coalescence of Śiva and Śakti appears thus as the mother of all the deities and of the cosmos, which issues from her. The term describing this creative aspect is *mātṛkā* , which denotes also the fifty phonemes of the Sanskrit alphabet taken together, that is, the totality of the Word \( *mātṛkā* can also designate one of these phonemes, being in that case a synonym of *varṇa* or *akṣara* \). 
 
 The *śrīvidyā * is therefore described here as including, or being, both the whole pantheon and the whole universe and, implicitly, the totality of the Word: the three levels, that is, of *vāc* issuing from *paravāc* and going down to *vaikharī* . 7 This allows Amṛtānanda to end his commentary on the last half-stanza by saying: “What is expressed \[ *vācaka* \] by the whole 
 
@@ -362,9 +362,7 @@ that is, active—because she is both the cosmos \(meant here by *dharma* \) and
 
 “is the death of death whose destruction is liberation” \(Dī \) or immortality. Creation and destruction— *sṛśti and saṁhāra* —are the two sides of her cosmic activity symbolized by the *śrīvidyā. * 
 
-As for the two syllables expressing this double notion, they are *A* , the fi rst letter of the alphabet usually considered to be what “expresses” Śiva, and *HA* , the last letter associated here with Śakti. This “natural sense” 
-
-\( *bhāvārtha* \) 12 of the *śrīvidyā * is what is to be understood through intense identifying meditation \( *bhāvanā* \). 
+As for the two syllables expressing this double notion, they are *A* , the fi rst letter of the alphabet usually considered to be what “expresses” Śiva, and *HA* , the last letter associated here with Śakti. This “natural sense”\( *bhāvārtha* \) 12 of the *śrīvidyā * is what is to be understood through intense identifying meditation \( *bhāvanā* \). 
 
 The second meaning will now be expounded in stanzas 26–47. It is the one transmitted by tradition \( *sampradāya* \), that is, the secret knowledge received by the disciple from the mouth of his spiritual master. 
 
@@ -476,9 +474,7 @@ cosmic illusion
 
 limitation 
 
-*vidyā* 
-
-\(limited\) wisdom; the cuirasses \( *kañcuka* \) 
+*vidyā*\(limited\) wisdom; the cuirasses \( *kañcuka* \) 
 
 *rāga * 
 
@@ -775,7 +771,7 @@ ed\) passage from the
 
 which describes how the teaching issuing 
 
-from the supreme “transmental” \( *unmanā* \) plane of the divinity or of the Word \( *vāc* \) goes through several lower divine planes down to the god Śrīkaṇṭ ha, who then reveals it to human masters. Śrīkaṇṭ ha, we note here, is not one of the fi ve masters of the *divyaugha* , the “fl ow of divine masters” of the Śrīvidyā tradition in the *pāraṁparas* given by Śivānanda, Vidyānanda, and Amṛtānanda. This can be explained by the fact that the *Svacchandabhairava* , which is often referred to in the Dī , is not—
+from the supreme “transmental” \( *unmanā* \) plane of the divinity or of the Word \( *vāc* \) goes through several lower divine planes down to the god Śrīkaṇṭ ha, who then reveals it to human masters. Śrīkaṇṭ ha, we note here, is not one of the fi ve masters of the *divyaugha* , the “flow of divine masters” of the Śrīvidyā tradition in the *pāraṁparas* given by Śivānanda, Vidyānanda, and Amṛtānanda. This can be explained by the fact that the *Svacchandabhairava* , which is often referred to in the Dī , is not—
 
 if we identify it with the *Svacchandatantra* —a Tantra of the Śrīvidyā. 
 
@@ -799,7 +795,7 @@ This sense is secret and/or inner \( *nigarbha* \) 18 insofar as Śiva is transc
 
 I give you only a mere indication of how it is done, O Mistress of the gods\! \[A fusion\] of this sort results from the one-pointed attention on the unity of Śiva, the guru, and the self. //49// 
 
-*tatprakāraṁ ca deveśi di ṅmātreṇa vadāmi te* / 
+*tatprakāraṁ ca deveśi diṅmātreṇa vadāmi te* / 
 
 *śivagurvātmanāṁ aikyānusandhānāt tadātmakam* //49// 
 
@@ -811,17 +807,11 @@ Having understood that there is no division within Śiva and that the spiritual 
 
 *tannirīkṣaṇasamarthyād ātmanaś ca śivātmatām* //50// 
 
-*bhāvayed bhaktinamra ḥ san śa ṅkonmeṣākala ṅkita ḥ /* 
+*bhāvayed bhaktinamra ḥ san śaṅkonmeṣākalaṅkita ḥ /* 
 
-The general meaning of this stanza is clear. The term “contraction” 
+The general meaning of this stanza is clear. The term “contraction”\( *saṁkoca* \) may, however, surprise the reader. The Dī explains that it is the condition of a person whose mind is attached to the life in this world, this condition being revealed \( *unmeṣa* \) by the pleasure one fi nds in “such external objects as wife, son, and the like.” More philosophically, it is the state of the soul that has lost its original omnipresence and freedom. 
 
-\( *saṁkoca* \) may, however, surprise the reader. The Dī explains that it is the condition of a person whose mind is attached to the life in this world, this condition being revealed \( *unmeṣa* \) by the pleasure one fi nds in “such external objects as wife, son, and the like.” More philosophically, it is the state of the soul that has lost its original omnipresence and freedom. 
-
-The saving power of the gaze \( *nirīkṣaṇa* \) of the master which “falls” 
-
-\( *katākṣapāta* 
-
-\) on his disciple—one also says 
+The saving power of the gaze \( *nirīkṣaṇa* \) of the master which “falls”\( *katākṣapāta*\) on his disciple—one also says 
 
 
 
@@ -976,9 +966,9 @@ The next aspect is less evident:
 84
 The great *vidyā* made of supreme Word and of the other \[three levels of the Word\], having as nature the triple group \[of phonemes\] *A* , *KA* , *THA* , and the other ones, becomes mistress of the *gaṇas* , starting with the third \[of these groups\]. //63b–64a// 
 
-*akathāditripa ṅktyātmā tārtīyādikrameṇa sā * //63// 
+*akathāditripaṅktyātmā tārtīyādikrameṇa sā * //63// 
 
-*gaṇeśo ‘bhūn mahāvidyā parāvāgādivā ṅmayī* / 
+*gaṇeśo ‘bhūn mahāvidyā parāvāgādivāṅmayī* / 
 
 The Sanskrit alphabet, from *A* to *HA* , is the totality of the Word \( *vāc* \) which—in the view of most Tantric traditions—is considered as existing on four levels: *parā* , the supreme; *paśyantī* , the visionary; *madhyamā* , the intermediate; and the plane of the gross, empirical speech, of discursive thought, *vaikharī* . 25 *A* here designates the sixteen vowels, the fi rst of which is *A* ; *KA* stands for the sixteen consonants from *KA* to *TA* ; *THA* is for the sixteen letters from *THA* to *SA* . The *A* group is considered to be included in the last *kūṭa* of the *śrīvidyā* , the *śaktibīja* ; the *KA* group is in the middle *kūṭa* , *kāmarāja* ; and the *THA* group is in the fi rst *kūṭa, vāgbhava. * The totality of the alphabet is thus present in the whole *śrīvidyā* . 
 
@@ -1059,7 +1049,7 @@ I will tell you also the most secret of all meanings, O Perfect One\!
 
 This interpretation of the *śrīvidyā* is the most secret one, says the Dī , because thanks to it, the disciple may attain the supreme \( *para* \). It is, in fact, a yogic practice. 
 
-The *vidyā * having taken on, in the *mūlādhāra* , the condition of the *vāgbhava* , similar to lightning, //69b// her body being made of fi fty phonemes associated with thirty-eight *kalās* , in the form of the *kuṇḍalinī* , pierces the three *maṇḍalas* . //70// Shining like ten million fl ashes of lightning, shaped like a lotus fi ber, she attaches herself to the *maṇḍala* of the moon of the inner sky, her nature being that of a fl ow of nectar //71// of which she pervades the whole universe, her nature being constant bliss. The thought: “this energy is my own self,” such is the secret meaning, O Maheśvarī\! //72// 
+The *vidyā * having taken on, in the *mūlādhāra* , the condition of the *vāgbhava* , similar to lightning, //69b// her body being made of fifty phonemes associated with thirty-eight *kalās* , in the form of the *kuṇḍalinī* , pierces the three *maṇḍalas* . //70// Shining like ten million fl ashes of lightning, shaped like a lotus fi ber, she attaches herself to the *maṇḍala* of the moon of the inner sky, her nature being that of a flow of nectar //71// of which she pervades the whole universe, her nature being constant bliss. The thought: “this energy is my own self,” such is the secret meaning, O Maheśvarī\! //72// 
 
 *mūlādhāre taḍidrūpe vāgbhavākāratāṁ gate* //69// 
 
@@ -1077,7 +1067,7 @@ The *vidyā * having taken on, in the *mūlādhāra* , the condition of the *vā
 
 The term *vāgbhava* here does not designate the fi rst *kūṭa* of the *śrīvidyā* 
 
-but the condition \( *bhava* \) of the Word \( *vāc* \) whose fourfold division we have seen above \( *śl* . 63\). The *vidyā* is thus identifi ed with the totality and the full power of the Word. This explains why her body \(in the shape of the *kuṇḍalinī* \) is “made of fi fty phonemes,” the Sanskrit alphabet being, as we have seen, the totality of the Word. 
+but the condition \( *bhava* \) of the Word \( *vāc* \) whose fourfold division we have seen above \( *śl* . 63\). The *vidyā* is thus identifi ed with the totality and the full power of the Word. This explains why her body \(in the shape of the *kuṇḍalinī* \) is “made of fifty phonemes,” the Sanskrit alphabet being, as we have seen, the totality of the Word. 
 
 * *
 
@@ -1089,7 +1079,7 @@ Going upward, from the *mūlādhāra* , in the body of the adept, the *vidyā*
 
 as *kuṇḍalinī* pierces three *maṇḍalas* not otherwise identifi ed by the YH 
 
-and its commentary, except \(by the Dī \) as being those of the fi re, the sun, and the moon, traditionally considered to have, respectively, ten, twelve, and sixteen divisions called *kalās* , totaling thus thirty-eight. These *kalās* are cosmic and divine entities with which are associated the fi fty Sanskrit phonemes; here, too, is the totality of the Word. The moon, called *soma* \(the sacred beverage of the Veda\), is traditionally associated with the *amṛta* , the nectar, which, when this center is pierced by the *kuṇḍalinī* , fl ows over and fi lls up the universe and, evidently, the body and mind of the adept, who is then identifi ed with the divine *śakti* , saying, “This energy is my own self.” 
+and its commentary, except \(by the Dī \) as being those of the fi re, the sun, and the moon, traditionally considered to have, respectively, ten, twelve, and sixteen divisions called *kalās* , totaling thus thirty-eight. These *kalās* are cosmic and divine entities with which are associated the fifty Sanskrit phonemes; here, too, is the totality of the Word. The moon, called *soma* \(the sacred beverage of the Veda\), is traditionally associated with the *amṛta* , the nectar, which, when this center is pierced by the *kuṇḍalinī* , flows over and fi lls up the universe and, evidently, the body and mind of the adept, who is then identifi ed with the divine *śakti* , saying, “This energy is my own self.” 
 
 “The thought \[ *buddhi* \] that ‘this *kunḍalinīśakti* made of consciousness 
 
@@ -1162,11 +1152,11 @@ It is seen in the ocean of the high knowledge. There, no doubt \[survives\], O P
 
 \[three *kūṭas* \] composing the seat \[ *pīṭha* \] of the *vidyā. * //78a// 
 
-*mahājñānārṇave dṛṣṭ a ḥ śa ṅkā tatra na pārvati* //77// 
+*mahājñānārṇave dṛṣṭ a ḥ śaṅkā tatra na pārvati* //77// 
 
 *vidyāpīṭhanibandheṣu saṁsthito divyasiddhida ḥ * / 
 
-Amṛtānanda explains the term *vidyāpītha* , saying that the Śrīvidyā is herself the *pīṭha* , since she is the place where Śiva andṣakti rest together. 
+Amṛtānanda explains the term *vidyāpītha* , saying that the Śrīvidyā is herself the *pīṭha* , since she is the place where Śiva and śakti rest together. 
 
 This seat is made up of the three constitutive parts \(the *kūṭas* or *bījas* \) of the *śrīvidyā* , whose meaning or spiritual import is to be experimentally realized by following the phonic process that extends from the fi rst syllable of each *kūṭa* to the ultimate phonic vibration of the *HRīṂ * that ends each of them: the phonic plane of *unmanā* , the “transmental.” 30 
 
@@ -1181,7 +1171,7 @@ and well versed in the secret meaning known through the uninterrupted succession
 
 *yoginīmelanodyuktai ḥ prāptadivyābhiṣecanai ḥ * / 
 
-*śa ṅkākala ṅkavigatai ḥ sadā muditamānasai ḥ * //79// 
+*śaṅkākalaṅkavigatai ḥ sadā muditamānasai ḥ * //79// 
 
 *pāraṁparyeṇa vijñātararahasyārthaviśaradai ḥ * / 
 
