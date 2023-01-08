@@ -174,15 +174,19 @@ All of this is possible. The metaphysics and the vocabulary of the YH, however, 
 The Tripurā cult was certainly present at a comparatively early date in the North Indian Himalayan area. There seem to be ancient traces of it in Nepal. Even if it began in the north, Tripurā’s cult appears to have soon spread to the south, as shown by works of such authors as those noted above. A large number of Śrīvidyā works come from the south, and the many manuscripts mostly in South Indian scripts that are found nowadays in libraries all over India testify to the comparatively early and [[8]] widespread popularity of the Tripurā cult. This fact is also interesting in that it shows the vitality and importance, from ancient times, of intellectual contacts between different parts of the Indian subcontinent. 
 
 ### Commentaries
-There are two important commentaries on the YH. The earlier one is the *Dīpikā* \(“The Lamp”\) by Amṛtānanda, which we often refer to here \(abbreviating it as Dī \) since it is used as the basis of our explanation of the YH. The other one is the *Setubandha* by Bhāskararāya, who lived in Mysore and Varanasi at the end of the seventeenth and the beginning of the eighteenth centuries. It is a commentary on both the VM/NṣA and the YH, treating them as one and the same work. 
+There are two important commentaries on the YH. The earlier one is the *Dīpikā* \(“The Lamp”\) by Amṛtānanda, which we often refer to here \(abbreviating it as Dī \) since it is used as the basis of our explanation of the YH. 
 
-Amṛtānanda’s Dī interprets the YH in the spirit of the later Praty-abhijñā as developed by Kṣema-rāja, which shows that even if Amṛtānanda was South Indian, he was nevertheless steeped in the Kashmirian Śaiva nondualist tradition. Bhāskararāya’s *Setubandha* , on the other hand, which was fi nished, we are told, on the Śivaratri day of Śaka 1655 \( a.d. 1733\), is the work of a much later remarkable polymath \(more than forty works are ascribed to him\), not characteristically written in the spirit of a particular sectarian tradition but very true to the Tantric spirit of the YH. It is clear and useful. 17 There are other commentaries of lesser interest. 
+The other one is the *Setubandha* by Bhāskararāya, who lived in Mysore and Varanasi at the end of the seventeenth and the beginning of the eighteenth centuries. It is a commentary on both the VM/NṣA and the YH, treating them as one and the same work. 
 
-It may be useful here to draw the reader’s attention to the fact that Indian religious or philosophical texts, often obscure or arcane or cast in 
+Amṛtānanda’s Dī interprets the YH in the spirit of the later Praty-abhijñā as developed by Kṣema-rāja, which shows that even if Amṛtānanda was South Indian, he was nevertheless steeped in the Kashmirian Śaiva nondualist tradition. 
 
-brief elliptical statements, 18 were meant to be made explicit by commen-
+Bhāskararāya’s *Setubandha* , on the other hand, which was finished, we are told, on the Śivaratri day of Śaka 1655 \( a.d. 1733\), is the work of a much later remarkable polymath \(more than forty works are ascribed to him\), not characteristically written in the spirit of a particular sectarian tradition but very true to the Tantric spirit of the YH. It is clear and useful. [^17] 
 
-taries given orally through the teaching of masters or in written exegetical works. This is how Indian traditions appeared and developed, permitting 
+[^17]: It has not been translated into English. Bhāskararāya wrote a short and useful treatise on the *śrīvidyā* , the *Varivasyā-rahasya*. It was edited with an English translation in the Adyar Library Series, no. 28 \(1948\). I translated Amṛtānanda’s *Dīpikā* together with the YH in *Le coeur de la Yoginī:* Yoginīhr̥daya *avec le com-mentaire* Dīpikā *d’Amṛtānanda* \(Paris: Collège de France, 1994\)
+
+There are other commentaries of lesser interest. 
+
+It may be useful here to draw the reader’s attention to the fact that Indian religious or philosophical texts, often obscure or arcane or cast in brief elliptical statements, [^18] were meant to be made explicit by commentaries given orally through the teaching of masters or in written exegetical works. This is how Indian traditions appeared and developed, permitting 
 
 “change in continuity.” Truth being deemed to have been proclaimed in the origins of time—or out of time—in the Veda, or by deities, nothing could be added to it except by way of commentaries and explanations. 
 
@@ -245,7 +249,7 @@ As the Dī explains, the universe is the “play” \( *līlā* , *kṛḍ * \) 
 
 Surrounded by the Yoginīs abiding in the *śrīcakra* —in the cosmos, that is—Tripurasundarī is the fi rst of them, infusing them with her power and presiding over their activity. They emanate from her in a hierarchical order, embodying and spreading her power on all planes of the cosmos and fulfi lling the functions allotted to them. As Bhairava says in YH 3.194: “You alone it is, Enchantress of the worlds, who are playing under the guise of these \[deities\].” They are aspects \( *rūpa* \) she takes on in her cosmic play. 
 
-In the Tantras and the Purāṇas, the Yoginīs are usually said to be sixty-four in number, which is eight times eight, that is, eight times the Eight Mothers \( *aṣṭ amātaraḥ* , *aṣṭ amātṛ kā* \). 21 In the third chapter \(3.193\), the 
+In the Tantras and the Purāṇas, the Yoginīs are usually said to be sixty-four in number, which is eight times eight, that is, eight times the Eight Mothers \( *aṣṭamātaraḥ* , *aṣṭamātṛ kā* \). 21 In the third chapter \(3.193\), the 
 
 YH multiplies this number by ten million, mentioning sixty-four crores 22 
 
@@ -265,7 +269,7 @@ The great secret \(
 
 The heart as the supreme reality, as the spiritual plane, and as the center in the human body \(or, more exactly, in the image of the body\) where this reality is revealed and experienced is an ancient Indian notion. 
 
-It was taken over and developed in nondualist shaivism by such authors as Utpaladeva, Abhinavagupta, and Kṣemarāja, who described it in his commentary on the Śivasūtras as being “the light of consciousness since it is the place where everything abides” \( *viśvapratiṣṭ hasthānatvāt citprakāśo* *hr̥dayam* \). He also describes it as throbbing and fl ashing consciousness 
+It was taken over and developed in nondualist shaivism by such authors as Utpaladeva, Abhinavagupta, and Kṣemarāja, who described it in his commentary on the Śivasūtras as being “the light of consciousness since it is the place where everything abides” \( *viśvapratiṣṭhasthānatvāt citprakāśo* *hr̥dayam* \). He also describes it as throbbing and fl ashing consciousness 
 
 12
 \( *sphurantīṁ saṁvidam* \) or as both made of the world and transcending it \( *viśvātmakaṁ taduttīrṇam* \). It is therefore the total plenitude of the godhead as mystically experienced in one’s heart. 23 \(We must not forget that in traditional India, the center of consciousness is in the heart, not in the brain.\) 
@@ -323,7 +327,7 @@ of the chapter’s name\), its syllabic composition—its
 
 “extraction,” *uddhāra* , 31 as it is usually called—is not given. In this, the YH diff ers from its parent text, the NṣA, which does give it. It appears, however, that the *śrīvidyā* is considered to be made up of fi fteen syllables grouped in three clusters, as follows: *HA SA KA LA HRīṂ • HA* *SA HA KA LA HRīṂ • SA KA LA HRīṂ * . This is, as we have said, the *śrīvidyā * in the so-called *hādi* form, because it begins with *HA* . There is also another form, called *kādi* \(because the fi rst cluster begins with *KA* \): *KA E I LA HRīṂ * . These two forms are used in two Tripurā traditions called, respectively, *hādimata* and *kādimata* , which seem to have existed from comparatively ancient times since they are mentioned by such authors as Śivānanda \(13th c.\). 32 The three clusters of the *śrīvidyā* 
 
-are called *kū ṭ a* , which means “summit” or “group”; they are also called *bīja* or *piṇḍ a* . 
+are called *kūṭa* , which means “summit” or “group”; they are also called *bīja* or *piṇḍ a* . 
 
 The *mantrasaṁketa* ’s purpose is to give six diff erent “meanings” \( *artha* \) by means of allegorical symbolical interpretations of its syllables—that is, to expound six diff erent ways to understand, perceive, and experiment by *bhāvanā* its inner nature and hidden meaning, a practice that will lead the *sādhaka* toward liberation. These interpretations are abstruse and often far-fetched, and we have not always understood them in spite of help received from Professor V. V. Dvivedi of Varanasi. 
 
@@ -427,7 +431,7 @@ Taking in by the offi
 
 ciant of the leftovers of the off erings to the deity 
 
-and fi nal *bali* to Ba ṭ uka and Kṣetrapāla. 
+and fi nal *bali* to Baṭuka and Kṣetrapāla. 
 
 * Introduction *
 
@@ -492,11 +496,11 @@ Finally comes the *japa* , the recitation of the *śrīvidyā* , the *mūlamantr
 
 The *japa* prescribed here is, however, not really a recitation. It is a complex spiritual and yogic exercise associating the enunciation \( *uccāra* \) of the *vidyā* with visualizations and with the ascent of *kuṇḍ alinī* . The *uccāra* is, in fact, an upward movement of the phonic resonance of the *śrīvidyā* along the *suṣumnā* , going from the *mūlādhāra* up to the *dvādaśānta* , 40 inseparable from the ascent of the *kuṇḍ alinī* . It is therefore a practice of Tantric mantrayoga where the *śrīvidyā * is used as a means to facilitate the fusion of the adept with the cosmic divine power of the Goddess. 
 
-The *japa* is made up of four meditative-yogic practices: *Japa* of the three parts of the *śrīvidyā* \( *śl. * 169–173\). This consists in visualizing the three parts and the nine constituent *cakras* of the *śrīcakra* as tiered along the *suṣumnā* , then to perceive the *kalās* of the subtle vibration of the *bīja HRīṂ * , which ends these three parts \( *kū ṭ a* \) of the mantra as ascending from the *mūlādhāra* to the heart, then from the heart to the *ājñācakra* and thence up to the *dvādaśānta* , where the threefold phonic vibration reaches the plane of *unmanā* , the “transmental,” and dissolves into the silence of the Absolute, with which the adept also fuses. Table 3.1 in chapter 3 
+The *japa* is made up of four meditative-yogic practices: *Japa* of the three parts of the *śrīvidyā* \( *śl. * 169–173\). This consists in visualizing the three parts and the nine constituent *cakras* of the *śrīcakra* as tiered along the *suṣumnā* , then to perceive the *kalās* of the subtle vibration of the *bīja HRīṂ * , which ends these three parts \( *kūṭa* \) of the mantra as ascending from the *mūlādhāra* to the heart, then from the heart to the *ājñācakra* and thence up to the *dvādaśānta* , where the threefold phonic vibration reaches the plane of *unmanā* , the “transmental,” and dissolves into the silence of the Absolute, with which the adept also fuses. Table 3.1 in chapter 3 
 
 shows the pattern of this *japa* . 
 
-*Japa* of the sixfold void, *śūnyaṣa ṭ kam* \( *śl. * 174–175\). This practice involves only the *uccāra* of the three *HRīṂ * and their *kalās* , the *uccāra* being organized along six “voids,” or points of the yogic body. It does not seem to include visualizations. Like the fi rst one, it leads to a fusion with the Absolute “in the central void of the divine undivided Consciousness,” says the Dī. 
+*Japa* of the sixfold void, *śūnyaṣaṭkam* \( *śl. * 174–175\). This practice involves only the *uccāra* of the three *HRīṂ * and their *kalās* , the *uccāra* being organized along six “voids,” or points of the yogic body. It does not seem to include visualizations. Like the fi rst one, it leads to a fusion with the Absolute “in the central void of the divine undivided Consciousness,” says the Dī. 
 
 *Japa* of the fi ve states of consciousness, the *avasthās: jāgrat* , waking; *svapna* , dream; *suṣupti* , dreamless sleep; *turya* , the “fourth” state; and *turyātīta* , “above the fourth” \( *śl. * 176–180\). It is also an *uccāra* of the *śrīvidyā* with which the adept experiences these states, from the ordinary waking state up to the highest, “above the fourth,” which is identical with the absolute divine Consciousness. 
 

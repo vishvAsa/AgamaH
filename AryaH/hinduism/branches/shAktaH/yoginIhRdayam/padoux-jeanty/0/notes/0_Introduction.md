@@ -10,8 +10,6 @@ title = "0 Introduction"
 
 
 
-[^17]: It has not been translated into English. Bhāskararāya wrote a short and useful treatise on the *śrīvidyā* , the *Varivasyārahasya*. It was edited with an English translation in the Adyar Library Series, no. 28 \(1948\). I translated Amṛtānanda’s *Dīpikā* together with the YH in *Le coeur de la Yoginī:* Yoginīhr̥daya *avec le com-mentaire* Dīpikā *d’Amṛtānanda* \(Paris: Collège de France, 1994\) 18. A typical, though extreme, case of this is Pāṇini’s Sanskrit grammar, the *Aṣṭ ādhyāy* , which is entirely cryptic. Its fi rst sutra is: *vṛddhirādaic*. .. 
-
 [^19]: On these two forms, see below. 
 
 [^20]: Other Śaiva traditions have a goddess as their main deity, such as the Kubjikā 
@@ -32,13 +30,13 @@ are either seven, the
 
 , or eight \( 
 
-*aṣṭ amātṛkā* or 
+*aṣṭamātṛkā* or 
 
-*matāṣṭ aka* \). The number eight is important in Tantric texts. Eight times eight is the \(theoretical\) number of Bhairava Tantras. Sixty-four is also four times sixteen, which is an important lunar number, the number of fullness. Sixteen is also the number of the Nityās, the fi rst of which is Tripurasundarī\(see YH 
+*matāṣṭaka* \). The number eight is important in Tantric texts. Eight times eight is the \(theoretical\) number of Bhairava Tantras. Sixty-four is also four times sixteen, which is an important lunar number, the number of fullness. Sixteen is also the number of the Nityās, the fi rst of which is Tripurasundarī\(see YH 
 
 [^3]:113\); and the name of the VM/NṣĀ, *Nityāṣo ḍ aśikārṇava* , means “The Ocean of the Sixteen Nityās.” 
 
-[^22]: A *crore* \( *ko ṭ i* \) is ten million. 
+[^22]: A *crore* \( *koṭi* \) is ten million. 
 
 
 
@@ -84,7 +82,7 @@ alphabet, this being displayed, according to particular rules, on a consecrated 
 
 of David G. White’s *Kiss of the Yoginī: “Tantric Sex” in Its South Asian Contexts* \(Chicago: University of Chicago Press, 2003\). 
 
-[^35]: *Nirīkṣaṇa* , also called *dṛṣṭ ipāta* \(“the casting of a glance”\), as a means to infl uence, harm, or else help spiritually, plays an important role in Indian religious or magic practice. The compassionate glance of the guru helps his disciple. 
+[^35]: *Nirīkṣaṇa* , also called *dṛṣṭipāta* \(“the casting of a glance”\), as a means to infl uence, harm, or else help spiritually, plays an important role in Indian religious or magic practice. The compassionate glance of the guru helps his disciple. 
 
 [^36]: Hindu rites are traditionally divided into three classes. *Nitya* , “regular,” are daily and mandatory rites; their performance does not bring any merit, but not to perform them is a fault. The *naimittika* , “occasional,” rites are obligatory but are to be performed on particular prescribed occasions; they bring merit. 
 
