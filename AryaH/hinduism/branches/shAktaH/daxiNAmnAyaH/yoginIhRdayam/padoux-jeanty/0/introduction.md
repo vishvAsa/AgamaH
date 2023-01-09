@@ -396,35 +396,40 @@ Finally, the *mahātattva artha* , the one concerning the highest reality \( *ś
 ## Pūjāsaṁketa
 * Chapter 3: * Pūjāsaṁketa \(204 ślokas \) 
 
-This chapter is the longest of the YH. It accounts for more than half of the work. Although the Goddess is to be visualized during the worship, which is performed on the *śrīcakra* without any material icon, she is not described here as she is, for instance, in *śl* . 130–146 of the fi rst chapter of the NṣA. Only her theological and metaphysical traits as the supreme 
+This chapter is the longest of the YH. It accounts for more than half of the work. Although the Goddess is to be visualized during the worship, which is performed on the *śrīcakra* without any material icon, she is not described here as she is, for instance, in *śl* . 130–146 of the first chapter of the NṣA. Only her theological and metaphysical traits as the supreme [[17]] deity are given. 
 
-* Introduction *
+Tripurasundarī, in NṣA, is described as a beautiful young woman, luminous like the rising sun, having three eyes, a half-moon on her forehead, and a crown of jewels on her hair. She wears gold brace-lets, is clad in a red garment, and is seated on a lotus. She holds in her two upper hands a noose \( *pāśa* \) and an elephant-goad \( *aṅkuśa* \) and in her two lower hands a bow \( *dhanus* \) and arrows \( *bāṇa* \). These four attributes are quoted in YH 1.53 as those of Kāmeśvara and Kāmeśvarī, who, taken together, are forms of Tripurasundarī. 
 
-17
+### Rites
+The first *pūjā* described is the *nityāpūjā*, the worship all Hindus must perform daily. Some are occasional \( *naimittika* \) rites, and a few are optional \( *kāmya* \). [^36] 
 
-deity are given. Tripurasundarī, in NṣA, is described as a beautiful young woman, luminous like the rising sun, having three eyes, a half-moon on her forehead, and a crown of jewels on her hair. She wears gold brace-lets, is clad in a red garment, and is seated on a lotus. She holds in her two upper hands a noose \( *pāśa* \) and an elephant-goad \( *aṅkuśa* \) and in her two lower hands a bow \( *dhanus* \) and arrows \( *bāṇa* \). These four attributes are quoted in YH 1.53 as those of Kāmeśvara and Kāmeśvarī, who, taken together, are forms of Tripurasundarī. 
+[^36]: 
 
-The fi rst *pūjā* 
+    Hindu rites are traditionally divided into three classes. 
 
-described is the 
+    *Nitya* , “regular,” are daily and mandatory rites; their performance does not bring any merit, but not to perform them is a fault. 
 
-*nityāpūjā* 
+    The *naimittika* , “occasional,” rites are obligatory but are to be performed on particular prescribed occasions; they bring merit. 
 
-, the worship all Hindus 
+    *Kāmya, * “optional,” rites are undertaken to attain desired aims; mantric rites are *kāmya* , as are, of course, all “magical” rites.
 
-must perform daily. Some are occasional \( *naimittika* \) rites, and a few are optional \( *kāmya* \). 36 It is not described in full detail, except for the *nyāsa* and the *japa* , two rites meant to identify the offi
+It is not described in full detail, except for the *nyāsa* and the *japa* , two rites meant to identify the officiating adept with the deity. Some rites are hardly dealt with. 
 
-ciating adept with the 
+The YH underscores the parts of the ritual that aim more specifically at helping the *sādhaka* to identify with the godhead, which is the raison d’être of the YH but which is an essential aspect of Tantric worship. Its performance is a means, if not to gain, at least to progress - toward liberation. 
 
-deity. Some rites are hardly dealt with. The YH underscores the parts of the ritual that aim more specifi cally at helping the *sādhaka* to identify with the godhead, which is the raison d’être of the YH but which is an essential aspect of Tantric worship. Its performance is a means, if not to gain, at least to progress toward liberation. In fact, no Tantric worship may be performed if one is not already divinized by a preliminary ritual. 
+### Divinization
+In fact, no Tantric worship may be performed if one is not already divinized by a preliminary ritual. It is said, *nādevo devam arcayet* \(“One who is not God must not worship God”\). But although he is thus already ritually divinized, the officiant must still perform during the worship several rites that will advance him toward the goal of identification with the deity he worships. [^37] 
 
-It is said, *nādevo devam arcayet* \(“One who is not God must not worship God”\). But although he is thus already ritually divinized, the offi ciant 
+[^37]: 
 
-must still perform during the worship several rites that will advance him toward the goal of identifi cation with the deity he worships. 37 In such a view, the ritual is seen more as a spiritual exercise than as a mere worship of the deity. 
+    On the practice and spirit of the Tantric Śaiva worship, see Richard H. Davis, Ritual in an Oscillating Universe: Worshipping Śiva in Medieval India \(Princeton, N.J.: Princeton University Press\), especially the chapter titled “Becoming a Śiva.” 
 
-This explains why the chapter begins by saying that there are three sorts of *pūjā* , the lowest of which is the ritually performed one. The highest one \( *śl* . 3a, 4b–7\), the “supreme worship,” is purely spiritual. It is a *bhāvanā* 
+    This book is a study of dualist shaivism, for which only ritual liberates one from the fetters of this world, a conception opposed to that of nondualist shaivism and therefore of the YH. The rites are, however, generally the same.
 
-associated with an ascent of the *kuṇḍalinī* , by which the adept experiences mystically his unity with the supreme Śiva. It is the total plenitude of the absolute I \( *pūrṇāhaṁbhava* \), an experience of the nature of the Goddess as the fl ashing forth of consciousness. The second sort is “nonsupreme”\( *apara* \). It is the *cakrapūja* as described in this chapter. Bhairava says here \( *śl* . 3b\) that he performs it ceaselessly; it is a divine, not a human, activity. 
+In such a view, the ritual is seen more as a spiritual exercise than as a mere worship of the deity. 
+
+### Levels
+This explains why the chapter begins by saying that there are three sorts of *pūjā* , the lowest of which is the ritually performed one. The highest one \( *śl* . 3a, 4b–7\), the “supreme worship,” is purely spiritual. It is a *bhāvanā* associated with an ascent of the *kuṇḍalinī* , by which the adept experiences mystically his unity with the supreme Śiva. It is the total plenitude of the absolute I \( *pūrṇāhaṁbhava* \), an experience of the nature of the Goddess as the fl ashing forth of consciousness. The second sort is “nonsupreme”\( *apara* \). It is the *cakrapūja* as described in this chapter. Bhairava says here \( *śl* . 3b\) that he performs it ceaselessly; it is a divine, not a human, activity. 
 
 Then there is \( *śl* . 4a\) the “supreme-nonsupreme worship” \( *parāparāpūjā* \). 
 
