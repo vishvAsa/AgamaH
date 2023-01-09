@@ -23,11 +23,6 @@ Some claim that mantra-s are ineffective in case:
 
   
 
-## Related Notes:
-
-- Mantras, metaphorical thinking and cross sensory stimulation : [MT](http://manasataramgini.wordpress.com/2008/11/23/the-spectrum-of-synesthesia-metaphors-and-samdhya-bhasha/).
-- Jewish view of mantra-s : [T14](http://www.tabletmag.com/jewish-arts-and-culture/books/164141/forbidden-jewish-magic-books).
-
 ## Matching mantra-s with rituals
 
 - nyAsa places mantra-s and deities at various parts of an object or body. Classic examples date back to the veda-s. \[[IF16](http://indiafacts.org/brief-study-possession-hinduism-ii-spiritual-context/)\]
@@ -40,3 +35,9 @@ Abhinavagupta and Kshemaraja considered mudrā as a “way of accessing higher l
 
 ## मन्त्रविभागाः
 - [मीमांसाक्षेत्रे](/mImAMsA/bodhaH/veda-vAkyam/mantraH/) दृश्यताम् ।
+
+## Related Notes
+
+- Mantras, metaphorical thinking and cross sensory stimulation : [MT](http://manasataramgini.wordpress.com/2008/11/23/the-spectrum-of-synesthesia-metaphors-and-samdhya-bhasha/).
+- Jewish view of mantra-s : [T14](http://www.tabletmag.com/jewish-arts-and-culture/books/164141/forbidden-jewish-magic-books).
+
