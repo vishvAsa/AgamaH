@@ -485,33 +485,40 @@ The *nyāsas* end with a libation \( *saṁtarpaṇa* \) to the Goddess, which i
 
 This is not a worship of the *śrīcakra* but a worship, performed on the *cakra* , of Tripurasundarī, who resides in its center while also pervading it, and of all the deities of her retinue placed in concentric tiers around her in the different parts of the diagram. They are worshipped going from the outer [[20]] square to the inner triangle, the Goddess herself being worshipped in the whole *śrīcakra* since it is her diagrammatic cosmic form. 
 
-We have already enumerated the different parts of this *pūjā* . We note here, however, that in each of the constituent parts of the *śrīcakra* , a Siddhi is worshipped, which is both a deity and a supernatural, magical power. 
+We have already enumerated the different parts of this *pūjā* . We note here, however, that in each of the constituent parts of the *śrīcakra* , a Siddhi is worshipped, which is both a deity and a supernatural, magical power. Thus, the worship in each of the *cakras* confers on the *sādhaka* one of the eight main magical powers, the *mahāsiddhis* , *aṇimā* , and so on. [^39] 
 
-Thus, the worship in each of the *cakras* confers on the *sādhaka* one of the eight main magical powers, the *mahāsiddhis* , *aṇimā* , and so on. 39 The ritual worship, therefore, is not only a means to approach the Goddess and identify with her but also a means to acquire supernatural powers, as is expressly stated in *śl* . 189 and 203 of the chapter. This is in conformity with the Tantric conception of liberation in this life, which confers worldly powers along with liberation. 
+[^39]: There are traditionally eight main *siddhis* always quoted, beginning with *aṇimā* , the power to become as small as an atom \( *aṇu* \). The others are *laghimā* , to be light; *mahimā* , being large; *prāpti* , to obtain all; *prākāmya* , being irresistible; *īśitva* , domination; *vaśitva* , subjugation; and *yatra-kāmāvasayitā* , to be able to go to whatever place one wishes. A ninth *siddhi* , *garimā* , to become heavy, is sometimes added.
 
-The *pūjā* is made up of a number of sometimes complex rites organized as a dynamic, coherent ritual process, with two intermediate meditative periods, carrying the worshipper from the outer, ordinary world to the realm of the gods, a process during which he acts out symbolically an inner transformation from his condition of a mere mortal being to that of *jīvanmukti* by identifi cation with the godhead. Progressing along this structured ritual and spiritual path, the offi
+The ritual worship, therefore, is not only a means to approach the Goddess and identify with her but also a means to acquire supernatural powers, as is expressly stated in *śl* . 189 and 203 of the chapter. This is in conformity with the Tantric conception of liberation in this life, which confers worldly powers along with liberation. 
 
-ciating adept, after “enter-
+The *pūjā* is made up of a number of sometimes complex rites organized as a dynamic, coherent ritual process, with two intermediate meditative periods, carrying the worshipper from the outer, ordinary world to the realm of the gods, a process during which he acts out symbolically an inner transformation from his condition of a mere mortal being to that of *jīvanmukti* by identification with the godhead. 
 
-ing” the diagram by paying homage to the lower and most external deities abiding in the outer square, the *bhūgṛha* ; purifi es his hands and his *prāṇa* \(in the two lotuses\); then causes his *kuṇḍalinī* to ascend and feels thus absorbed into the cosmic energy \(the *kulaśakti* \), which is also present in his body, this in the *cakra* of fourteen triangles. As he concentrates on an inner subtle phonic resonance \( *nāda* \), he raises his *kuṇḍalinī* again from the *mūlādhāra* to the *ājñācakra* \(in the fi rst *cakra* of ten angles\), and then, along with the *kuṇḍalinī* \(in the second ten-angles *cakra* \), he becomes absorbed in his own essence. After that, as his *prāṇa* is concentrated in his heart \( *cakra* of eight triangles\), he realizes the pure essence of consciousness, and \(having attained the central triangle\) he worships the higher deities destructive of the cosmos surrounding the Goddess, which means that he rises to the source of the universe. The worship having now reached the central *bindu* “whose nature is that of the supreme *brahman* ,” 
+Progressing along this structured ritual and spiritual path, the officiating adept, after “entering” the diagram by paying homage to the lower and most external deities abiding in the outer square, the *bhūgṛha* ;  
+purifies his hands and his *prāṇa* \(in the two lotuses\);  
+then causes his *kuṇḍalinī* to ascend and feels thus absorbed into the cosmic energy \(the *kulaśakti* \), which is also present in his body, this in the *cakra* of fourteen triangles.  
+As he concentrates on an inner subtle phonic resonance \( *nāda* \), he raises his *kuṇḍalinī* again from the *mūlādhāra* to the *ājñācakra* \(in the first *cakra* of ten angles\), and then, along with the *kuṇḍalinī* \(in the second ten-angles *cakra* \), he becomes absorbed in his own essence.  
+After that, as his *prāṇa* is concentrated in his heart \( *cakra* of eight triangles\), he realizes the pure essence of consciousness,  
+and \(having attained the central triangle\) he worships the higher deities destructive of the cosmos surrounding the Goddess, which means that he rises to the source of the universe.  
 
-the adept worships Tripurasundarī in the whole *śrīcakra* since she pervades it. This he does “in total freedom,” that is, with the absolute liberty of one who has outsoared \(ritually, of course\) all limitations. 
+The worship having now reached the central *bindu* “whose nature is that of the supreme *brahman* ,” the adept worships Tripurasundarī in the whole *śrīcakra* since she pervades it. This he does “in total freedom,” that is, with the absolute liberty of one who has outsoared \(ritually, of course\) all limitations. 
 
-Perceived in this way, as a movement from this world to the supreme deity, the *pūjā* is for the adept not a random succession of discrete ritual actions but a total and fulfi lling existential experience of participation in 
-
-
-
-21
-
-the divine, a coherent progress toward the Absolute realized by an identifi cation with the cosmic play of the Goddess. 
+Perceived in this way, as a movement from this world to the supreme deity, the *pūjā* is for the adept not a random succession of discrete ritual actions but a total and fulfilling existential experience of participation in [[21]] the divine, a coherent progress toward the Absolute realized by an identification with the cosmic play of the Goddess. 
 
 ### Japa 
 
 Finally comes the *japa* , the recitation of the *śrīvidyā* , the *mūlamantra* of the Goddess, a rite performed in the last part of all ritual Hindu worships. 
 
-The *japa* prescribed here is, however, not really a recitation. It is a complex spiritual and yogic exercise associating the enunciation \( *uccāra* \) of the *vidyā* with visualizations and with the ascent of *kuṇḍalinī* . The *uccāra* is, in fact, an upward movement of the phonic resonance of the *śrīvidyā* along the *suṣumnā* , going from the *mūlādhāra* up to the *dvādaśānta* , 40 inseparable from the ascent of the *kuṇḍalinī* . It is therefore a practice of Tantric mantrayoga where the *śrīvidyā * is used as a means to facilitate the fusion of the adept with the cosmic divine power of the Goddess. 
+The *japa* prescribed here is, however, not really a recitation. It is a complex spiritual and yogic exercise associating the enunciation \( *uccāra* \) of the *vidyā* with visualizations and with the ascent of *kuṇḍalinī* . The *uccāra* is, in fact, an upward movement of the phonic resonance of the *śrīvidyā* along the *suṣumnā* , going from the *mūlādhāra* up to the *dvādaśānta* , [^40] inseparable from the ascent of the *kuṇḍalinī* . 
 
-The *japa* is made up of four meditative-yogic practices: *Japa* of the three parts of the *śrīvidyā* \( *śl. * 169–173\). This consists in visualizing the three parts and the nine constituent *cakras* of the *śrīcakra* as tiered along the *suṣumnā* , then to perceive the *kalās* of the subtle vibration of the *bīja HRĪṂ * , which ends these three parts \( *kūṭa* \) of the mantra as ascending from the *mūlādhāra* to the heart, then from the heart to the *ājñācakra* and thence up to the *dvādaśānta* , where the threefold phonic vibration reaches the plane of *unmanā* , the “transmental,” and dissolves into the silence of the Absolute, with which the adept also fuses. Table 3.1 in chapter 3 
+[^40]: On this center of the yogic body, situated twelve finger-breadths above the head, see chapter 3.49.
+
+It is therefore a practice of Tantric mantrayoga where the *śrīvidyā * is used as a means to facilitate the fusion of the adept with the cosmic divine power of the Goddess. 
+
+The *japa* is made up of four meditative-yogic practices: 
+
+- *Japa* of the three parts of the *śrīvidyā* \( *śl. * 169–173\).
+  - This consists in visualizing the three parts and the nine constituent *cakras* of the *śrīcakra* as tiered along the *suṣumnā* , 
+  - then to perceive the *kalās* of the subtle vibration of the *bīja HRĪṂ * , which ends these three parts \( *kūṭa* \) of the mantra as ascending from the *mūlādhāra* to the heart, then from the heart to the *ājñācakra* and thence up to the *dvādaśānta* , where the threefold phonic vibration reaches the plane of *unmanā* , the “transmental,” and dissolves into the silence of the Absolute, with which the adept also fuses. Table 3.1 in chapter 3 
 
 shows the pattern of this *japa* . 
 
