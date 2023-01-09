@@ -516,31 +516,42 @@ It is therefore a practice of Tantric mantrayoga where the *śrīvidyā * is use
 
 The *japa* is made up of four meditative-yogic practices: 
 
-- *Japa* of the three parts of the *śrīvidyā* \( *śl. * 169–173\).
-  - This consists in visualizing the three parts and the nine constituent *cakras* of the *śrīcakra* as tiered along the *suṣumnā* , 
-  - then to perceive the *kalās* of the subtle vibration of the *bīja HRĪṂ * , which ends these three parts \( *kūṭa* \) of the mantra as ascending from the *mūlādhāra* to the heart, then from the heart to the *ājñācakra* and thence up to the *dvādaśānta* , where the threefold phonic vibration reaches the plane of *unmanā* , the “transmental,” and dissolves into the silence of the Absolute, with which the adept also fuses. Table 3.1 in chapter 3 
+#### Three parts of the śrīvidyā 
+*Japa* of the three parts of the *śrīvidyā* \( *śl. * 169–173\).
 
-shows the pattern of this *japa* . 
+- This consists in visualizing the three parts and the nine constituent *cakras* of the *śrīcakra* as tiered along the *suṣumnā* , 
+- then to perceive the *kalās* of the subtle vibration of the *bīja HRĪṂ * , which ends these three parts \( *kūṭa* \) of the mantra as ascending from the *mūlādhāra* to the heart, then from the heart to the *ājñācakra* and thence up to the *dvādaśānta* , where the threefold phonic vibration reaches the plane of *unmanā* , the “transmental,” and dissolves into the silence of the Absolute, with which the adept also fuses. Table 3.1 in chapter 3 shows the pattern of this *japa* . 
 
-*Japa* of the sixfold void, *śūnyaṣaṭkam* \( *śl. * 174–175\). This practice involves only the *uccāra* of the three *HRĪṂ * and their *kalās* , the *uccāra* being organized along six “voids,” or points of the yogic body. It does not seem to include visualizations. Like the fi rst one, it leads to a fusion with the Absolute “in the central void of the divine undivided Consciousness,” says the Dī. 
-
-*Japa* of the fi ve states of consciousness, the *avasthās: jāgrat* , waking; *svapna* , dream; *suṣupti* , dreamless sleep; *turya* , the “fourth” state; and *turyātīta* , “above the fourth” \( *śl. * 176–180\). It is also an *uccāra* of the *śrīvidyā* with which the adept experiences these states, from the ordinary waking state up to the highest, “above the fourth,” which is identical with the absolute divine Consciousness. 
-
-22
-*Japa* of seven “equalizations,” *viṣuvas* \( *śl. * 181–193\). This is the longest practice, since it includes seven *japas* . It is also the most diffi cult to 
-
-understand, since the nature of these *viṣuvas* —apparently states of equilibrium of the *prāṇas* —does not appear clearly. It is also a meditative practice whose aim, as with the preceding ones, is to bring about a fusion of the adept with the Absolute. It is a somatopsy-chic—bodily, mental, and spiritual—practice; in the Tantric domain, whatever is experienced spiritually is also “lived” in the body. 
-
-Finally, the third chapter describes the last off erings of the *pūjā* . It ends, too \( *śl. * 188–189\), by promising the adept who has performed all of these deifying rites or practices \(and who is, we may believe, on the way to liberation\) not liberation, *jīvanmukti* , but that he will rapidly be in possession of all possible supernatural powers. This may strike us as something of an anticlimax. But on the one hand, is this ritual worship meant to lead progressively, by its daily practice, toward liberation, or is it not rather an acting out of such liberating experiences? Be that as it may, the fact is that the *śrīcakrapūjā* , being performed repeatedly every day, cannot but create mental impregnations \( *vāsanas* \) which can eventually bring the performer, if not to liberation, at least to its threshold. This salvifi c effi cacy 
-
-can act progressively with the repeated performance of the *pūjā* , whereas the magical powers are “rapidly” obtained; both can therefore be given by the same ritual. On the other hand, in the Tantric perspective, liberation and powers are inseparably linked: a *jīvanmukta* may despise supernatural powers, consider them as fetters, but he is necessarily endowed with them. We may recall here the Śivasūtras, or Abhinavagupta stating that whatever the *jīvanmukta* says is mantra and that all of his actions are *mudrās* ; these are supernatural actions resulting from the condition of liberation in life. The Tantric perfection is metaphysically not of this world, but it takes place in it. It is not disincarnate. It is total plenitude \( *pūrṇa* \). It is experienced, “lived,” on all planes of being. The liberated person is free from the fetters and illusions of this world: he or she outsoars it but also dominates it. The quest of a magical domination of the world is, as much as the hope for liberation, an Indian dream. 
+#### śūnyaṣaṭkam
+*Japa* of the sixfold void, *śūnyaṣaṭkam* \( *śl. * 174–175\). This practice involves only the *uccāra* of the three *HRĪṂ * and their *kalās* , the *uccāra* being organized along six “voids,” or points of the yogic body. It does not seem to include visualizations. Like the first one, it leads to a fusion with the Absolute “in the central void of the divine undivided Consciousness,” says the Dī. 
 
 
+#### Avasthās
+*Japa* of the five states of consciousness, the *avasthās: jāgrat* , waking; *svapna* , dream; *suṣupti* , dreamless sleep; *turya* , the “fourth” state; and *turyātīta* , “above the fourth” \( *śl. * 176–180\). It is also an *uccāra* of the *śrīvidyā* with which the adept experiences these states, from the ordinary waking state up to the highest, “above the fourth,” which is identical with the absolute divine Consciousness. 
 
-the edition used for this translation is the one prepared, on the basis of several manuscripts, by Pdt. Vrajvallabh Dvivedi, former head of the Yoga-Tantra Department of the Varanasi Sanskrit University, which was published by Motilal Banarsidass in Delhi in 1988, together with 
+[[22]]
+
+#### viṣuvas
+*Japa* of seven “equalizations,” *viṣuvas* \( *śl. * 181–193\). This is the longest practice, since it includes seven *japas* . It is also the most difficult to understand, since the nature of these *viṣuvas* —apparently states of equilibrium of the *prāṇas* —does not appear clearly. It is also a meditative practice whose aim, as with the preceding ones, is to bring about a fusion of the adept with the Absolute. It is a somatopsy-chic—bodily, mental, and spiritual—practice; in the Tantric domain, whatever is experienced spiritually is also “lived” in the body. 
+
+### Last offerings
+Finally, the third chapter describes the last offerings of the *pūjā* . 
+
+### siddhi
+It ends, too \( *śl. * 188–189\), by promising the adept who has performed all of these deifying rites or practices \(and who is, we may believe, on the way to liberation\) not liberation, *jīvanmukti* , but that he will rapidly be in possession of all possible supernatural powers. This may strike us as something of an anticlimax. But on the one hand, is this ritual worship meant to lead progressively, by its daily practice, toward liberation, or is it not rather an acting out of such liberating experiences? 
+
+Be that as it may, the fact is that the *śrīcakrapūjā* , being performed repeatedly every day, cannot but create mental impregnations \( *vāsanas* \) which can eventually bring the performer, if not to liberation, at least to its threshold. This salvific efficacy can act progressively with the repeated performance of the *pūjā* , whereas the magical powers are “rapidly” obtained; both can therefore be given by the same ritual. 
+
+On the other hand, in the Tantric perspective, liberation and powers are inseparably linked: a *jīvanmukta* may despise supernatural powers, consider them as fetters, but he is necessarily endowed with them. We may recall here the Śivasūtras, or Abhinavagupta stating that whatever the *jīvanmukta* says is mantra and that all of his actions are *mudrās* ; these are supernatural actions resulting from the condition of liberation in life. 
+
+The Tantric perfection is metaphysically not of this world, but it takes place in it. It is not disincarnate. It is total plenitude \( *pūrṇa* \). It is experienced, “lived,” on all planes of being. The liberated person is free from the fetters and illusions of this world: he or she outsoars it but also dominates it. The quest of a magical domination of the world is, as much as the hope for liberation, an Indian dream. 
+
+## Source
+The edition used for this translation is the one prepared, on the basis of several manuscripts, by Pdt. Vrajvallabh Dvivedi, former head of the Yoga-Tantra Department of the Varanasi Sanskrit University, which was published by Motilal Banarsidass in Delhi in 1988, together with [[23]] Amṛtānanda’s commentary, the *Dīpikā* . It is a good edition both of the YH and of the commentary. Professor Dvivedi kindly let me use it before it was published for the French translation I made of this work. [^41] 
+
+[^41]: See note 17 above.
 
 
+For this, and for the help he otherwise extended me, I wish to thank him once more very sincerely. 
 
-23
-
-Amṛtānanda’s commentary, the *Dīpikā* . It is a good edition both of the YH and of the commentary. Professor Dvivedi kindly let me use it before it was published for the French translation I made of this work. 41 For this, and for the help he otherwise extended me, I wish to thank him once more very sincerely. The YH—of which a large number of manuscripts exist in India and Nepal—was fi rst edited in 1923, together with the commentaries of Amṛtānanda and of Bhāskararāya, by Gopinath Kaviraj; this edition is still available, but it is not very reliable. The YH was also published together with the *Nityāṣoḍaśikārṇava* and with the *Setubandha* of Bhāskararāya as vol. 53 of the Ānandāśram Sanskrit Series. 
+The YH—of which a large number of manuscripts exist in India and Nepal—was first edited in 1923, together with the commentaries of Amṛtānanda and of Bhāskararāya, by Gopinath Kaviraj; this edition is still available, but it is not very reliable. The YH was also published together with the *Nityāṣoḍaśikārṇava* and with the *Setubandha* of Bhāskararāya as vol. 53 of the Ānandāśram Sanskrit Series. 
