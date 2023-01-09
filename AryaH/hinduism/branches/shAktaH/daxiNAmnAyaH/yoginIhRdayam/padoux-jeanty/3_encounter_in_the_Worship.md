@@ -2393,7 +2393,7 @@ In this perspective, the *japa* that has just been performed is lived by the off
 ciating adept as bringing about a fusion with the *śrīvidyā * associated with the *kuṇḍalinī* , a power both human and cosmic-divine, and thus as having a transcendental-cosmic dimension. It is a lived experience of the resorption of the cosmos into the deity. Given in the left hand of the Goddess, the *japa* is considered as being off ered to the dissolving aspect of the deity. The Goddess holds it and reabsorbs it in herself and, with it, the *sādhaka* , who is thus symbolically liberated. 
 
 156
-The last rites of the *pūjā * are now to be performed; fi rst, the ritual libation, *tarpana* :
+The last rites of the *pūjā * are now to be performed; fi rst, the ritual libation, *tarpaṇa* :
 
 With the joined thumb and ring fi nger, he must satiate the deities of the *cakra* . 
 

@@ -271,7 +271,7 @@ in the *japa* of the *śrīvidyā*, 148, 151, 153
 - saṃghaṭṭa*, 15, 133, 138
 - tanmātra*, 31, 82, 124
 - saṃhāra*, 55, 69
-- tarpana*, 18
+- tarpaṇa*, 18
 - saṃhārakrameṇa*, 33
 - tattva*, 13, 33, 72–75, 82, 115, 150
 - saṃketa*, 24, 54, 93

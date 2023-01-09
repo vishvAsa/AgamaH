@@ -429,85 +429,63 @@ In fact, no Tantric worship may be performed if one is not already divinized by 
 In such a view, the ritual is seen more as a spiritual exercise than as a mere worship of the deity. 
 
 ### Levels
-This explains why the chapter begins by saying that there are three sorts of *pūjā* , the lowest of which is the ritually performed one. The highest one \( *śl* . 3a, 4b–7\), the “supreme worship,” is purely spiritual. It is a *bhāvanā* associated with an ascent of the *kuṇḍalinī* , by which the adept experiences mystically his unity with the supreme Śiva. It is the total plenitude of the absolute I \( *pūrṇāhaṁbhava* \), an experience of the nature of the Goddess as the fl ashing forth of consciousness. The second sort is “nonsupreme”\( *apara* \). It is the *cakrapūja* as described in this chapter. Bhairava says here \( *śl* . 3b\) that he performs it ceaselessly; it is a divine, not a human, activity. 
+This explains why the chapter begins by saying that there are three sorts of *pūjā* , the lowest of which is the ritually performed one. 
 
-Then there is \( *śl* . 4a\) the “supreme-nonsupreme worship” \( *parāparāpūjā* \). 
+The highest one \( *śl* . 3a, 4b–7\), the “supreme worship,” is purely spiritual. It is a *bhāvanā* associated with an ascent of the *kuṇḍalinī* , by which the adept experiences mystically his unity with the supreme Śiva. It is the total plenitude of the absolute I \( *pūrṇāhaṁbhava* \), an experience of the nature of the Goddess as the flashing forth of consciousness. 
 
-It consists in “seeing all that appears of itself” and especially, it seems, all rites as being in truth of a purely spiritual nature. 
+The second sort is “nonsupreme”\( *apara* \). It is the *cakrapūja* as described in this chapter. Bhairava says here \( *śl* . 3b\) that he performs it ceaselessly; it is a divine, not a human, activity. 
 
-The description of the nonsupreme \( *aparapūjā* \), ritually performed worship begins next. It fi lls *śl. * 8–199. It conforms to the usual pattern of the Tantric worship, whose dual \(if somewhat contradictory\) aim is to 
+Then there is \( *śl* . 4a\) the “supreme-nonsupreme worship” \( *parāparāpūjā* \). It consists in “seeing all that appears of itself” and especially, it seems, all rites as being in truth of a purely spiritual nature. 
 
-18
-identify the performer with the deity while worshipping her. It includes the following items: 
+### aparapūjā
+The description of the nonsupreme \( *aparapūjā* \), ritually performed worship begins next. It fills *śl. * 8–199. It conforms to the usual pattern of the Tantric worship, whose dual \(if somewhat contradictory\) aim is to [[18]] identify the performer with the deity while worshipping her. It includes the following items: 
 
-Four succeeding series of ritual placings \( *nyāsa* \) of mantras, of deities, and of the *śrīcakra* on the body of the offi ciating adept\( *śl. * 8–89\). 
+- Four succeeding series of ritual placings \( *nyāsa* \) of mantras, of deities, and of the *śrīcakra* on the body of the officiating adept\( *śl. * 8–89\). 
+- The construction of the throne \( *āsana* \) of the Goddess and the offering of a propitiatory oblation \(a *bali* \) to the Yoginīs \( *śl. * 90\). This is where an “inner sacrifice” \( *antar-yāga* \), or “worship of the self \( *ātma-pūjā* \), should normally take place, but the YH does not mention it.
+- Removal of obstacles \( *vighnabheda* \) \( *śl* . 92–93\).
+- Worship of the sun \( *sūryapūjā* \). This is a preliminary rite of all Śaiva cults, with the sun being worshipped as an aspect of Śiva \( *śl. * 94–95\).
+- Drawing of the *śrīcakra* on which the ritual worship is to be performed \( *śl. * 95–97\). 
+- Offering of the “common *arghya*” —consecrated water and so on—on a special diagram; worship of the *āsana* and *pīṭha* and of the *kalās* of fire, sun, and moon \( *śl. * 98–100\). 
+- Preparation of the “special *arghya* ” \( *viṣeśārghya* \), which, as appears later on, includes wine, and offering it to Bhairava and to the succession of masters \( *gurupaṅkti* \) \( *śl. * 103–104\). 
+- Inner oblation \( *homa* \) in the “fire of desire” \( *kāmāgni* \). This is normally performed materially at the end of the ritual. Here it is an interiorized, mystical oblation \( *śl. * 105–108\). 
+- *Śrīcakrapūjā* , worship of the Goddess and of her retinue of deities \( *āvaraṇadevatā* \) with sixteen erings or services \( *upacāra* \), on each of the different parts of the *śrīcakra* , from the outer square to the center \( *śl. * 109–161\). This is the main part of the *pūjā* . It ends with the offering of the “lamp of Kula” \( *kūladīpa* \), together with wine and pieces of meat \( *śl. * 165–168\). 
+- *Japa* of the *śrīvidyā* \( *śl. * 169–188\). 
+- “Satisfaction” \( *tarpaṇa* \) of the deities of the *cakra* with erings of wine, meat, and fish \( *śl. * 190\). 
+- Occasional \( *naimittika* \) rituals to be performed on certain days to the Yoginīs of the *śrīcakra* \( *śl ̥ . * 191–197\). 
+- Taking in by the officiant of the leftovers of the offerings to the deity and final *bali* to Baṭuka and Kṣetrapāla. 
 
-The construction of the throne \( *āsana* \) of the Goddess and the off ering of a propitiatory oblation \(a *bali* \) to the Yoginīs \( *śl. * 90\). This is where an “inner sacrifi ce” \( *antaryāga* \), or “worship of the self \( *ātmapūjā* \), should normally take place, but the YH does not mention it. 
-
-Removal of obstacles \( *vighnabheda* \) \( *śl* . 92–93\). 
-
-Worship of the sun \( *sūryapūjā* \). This is a preliminary rite of all Śaiva cults, with the sun being worshipped as an aspect of Śiva \( *śl. * 94–95\). 
-
-Drawing of the *śrīcakra* on which the ritual worship is to be performed \( *śl. * 95–97\). 
-
-Off ering of the “common *arghya* ”—consecrated water and so on—on a special diagram; worship of the *āsana* and *pīṭha* and of the *kalās* of fi re, sun, and moon \( *śl. * 98–100\). 
-
-Preparation of the “special *arghya* ” \( *viṣeśārghya* \), which, as appears later on, includes wine, and off ering it to Bhairava and to the succession of masters \( *gurupaṅkti* \) \( *śl. * 103–104\). 
-
-Inner oblation \( *homa* \) in the “fi re of desire” \( *kāmāgni* \). This is normally performed materially at the end of the ritual. Here it is an interiorized, mystical oblation \( *śl. * 105–108\). 
-
-*Śrīcakrapūjā* , worship of the Goddess and of her retinue of deities \( *āvaraṇadevatā* \) with sixteen off erings or services \( *upacāra* \), on each of the diff erent parts of the *śrīcakra* , from the outer square to the center \( *śl. * 109–161\). This is the main part of the *pūjā* . It ends with the off ering of the “lamp of Kula” \( *kūladīpa* \), together with wine and pieces of meat \( *śl. * 165–168\). 
-
-*Japa* of the *śrīvidyā* \( *śl. * 169–188\). 
-
-“Satisfaction” \( *tarpana* \) of the deities of the *cakra* with off erings of wine, meat, and fi sh \( *śl. * 190\). 
-
-Occasional \( *naimittika* \) rituals to be performed on certain days to the Yoginīs of the *śrīcakra* \( *śl ̥ . * 191–197\). 
-
-Taking in by the offi
-
-ciant of the leftovers of the off erings to the deity 
-
-and fi nal *bali* to Baṭuka and Kṣetrapāla. 
-
-* Introduction *
-
-19
+[[19]]
 
 The last stanzas \(199–204\) deal with the fruits, worldly or otherworldly, resulting from the performance of the *pūjā* . 
 
 All of these rites will be explained and discussed later, with the translation of chapter 3. The following, however, may be said now about some of them. 
 
-*Nyāsa* 
+#### Nyāsa 
 
-Eighty-one stanzas, nearly one-fi fth of the chapter, are taken up by the prescription of this long and complex ritual, which is indeed important since it infuses the body of the offi
+Eighty-one stanzas, nearly one-fifth of the chapter, are taken up by the prescription of this long and complex ritual, which is indeed important since it infuses the body of the officiating adept with the powers of the Goddess, identifying him with her. 
 
-ciating adept with the powers of the 
 
-Goddess, identifying him with her. First, six diff erent “forms” \( *rūpa* \)—
+First, six different “forms” \( *rūpa* \)— we could say epiphanies, divine and cosmic—of the Goddess are placed. This ritual placing \(or imposition\) being sixfold, it is called *ṣoḍhā-nyāsa* . It is considered particularly important and efficacious. It is prescribed and extolled in many of the texts, ancient or modern, of the Tripurā/Śrīvidyā tradition. It is also mentioned in other Śaiva traditions. [^38] 
 
-we could say epiphanies, divine and cosmic—of the Goddess are placed. 
+[^38]: It is mentioned by Abhinavagupta in the *Tantrāloka* and in Tantras of the Kubjikāmata.
 
-This ritual placing \(or imposition\) being sixfold, it is called *ṣ oḍhānyāsa* . It is considered particularly important and effi
+Next \( *śl. * 41–68\) comes the *nyāsa* of the *śrīcakra* ,  
+first of its nine concentric parts,  
+then of the deities abiding in those parts,  
+going from the outer square, imposed on the extremities of the body,  
+to the Goddess, imposed on the heart.  
 
-cacious. It is prescribed and 
+This is followed by another placing \(the third series of *nyāsas* \) of these deities, starting with the Goddess and ending with the Siddhis of the outer square. These two rites will increase the feeling of identification of the officiant with the Goddess by an interiorization of her diagrammatic cosmic form. The YH says \( *śl. * 81\) that he is now to consider himself as inseparable from her \( *svābhedena cintayet* \). 
 
-extolled in many of the texts, ancient or modern, of the Tripurā/Śrīvidyā 
+Then, as a fourth series of *nyāsas* \( *śl. * 81–86\), come eight different placings of various entities on the hands and on other parts of the body. 
 
-tradition. It is also mentioned in other Śaiva traditions. 38 Next \( *śl. * 41–68\) comes the *nyāsa* of the *śrīcakra* , fi rst of its nine concentric parts, then of the deities abiding in those parts, going from the outer square, imposed on the extremities of the body, to the Goddess, imposed on the heart. This is followed by another placing \(the third series of *nyāsas* \) of these deities, starting with the Goddess and ending with the Siddhis of the outer square. These two rites will increase the feeling of identifi cation of the offi
+The *nyāsas* end with a libation \( *saṁtarpaṇa* \) to the Goddess, which is, in fact, a meditative practice with an ascent of *kuṇḍalinī* ; this somehow confirms the ritual identification of the adept with the deity he worships. 
 
-ciant with the Goddess by an interiorization of her diagrammatic cosmic form. The YH says \( *śl. * 81\) that he is now to consider himself as inseparable from her \( *svābhedena cintayet* \). Then, as a fourth series of *nyāsas* \( *śl. * 
+### Śrīcakrapūjā 
 
-81–86\), come eight diff erent placings of various entities on the hands and on other parts of the body. The *nyāsas* end with a libation \( *saṁtarpana* \) to the Goddess, which is, in fact, a meditative practice with an ascent of *kuṇḍalinī* ; this somehow confi rms the ritual identifi cation of the adept with the deity he worships. 
+This is not a worship of the *śrīcakra* but a worship, performed on the *cakra* , of Tripurasundarī, who resides in its center while also pervading it, and of all the deities of her retinue placed in concentric tiers around her in the different parts of the diagram. They are worshipped going from the outer [[20]] square to the inner triangle, the Goddess herself being worshipped in the whole *śrīcakra* since it is her diagrammatic cosmic form. 
 
-*Śrīcakrapūjā* 
-
-This is not a worship of the *śrīcakra* but a worship, performed on the *cakra* , of Tripurasundarī, who resides in its center while also pervading it, and of all the deities of her retinue placed in concentric tiers around her in the diff erent parts of the diagram. They are worshipped going from the outer 
-
-20
-square to the inner triangle, the Goddess herself being worshipped in the whole *śrīcakra* since it is her diagrammatic cosmic form. 
-
-We have already enumerated the diff erent parts of this *pūjā* . We note here, however, that in each of the constituent parts of the *śrīcakra* , a Siddhi is worshipped, which is both a deity and a supernatural, magical power. 
+We have already enumerated the different parts of this *pūjā* . We note here, however, that in each of the constituent parts of the *śrīcakra* , a Siddhi is worshipped, which is both a deity and a supernatural, magical power. 
 
 Thus, the worship in each of the *cakras* confers on the *sādhaka* one of the eight main magical powers, the *mahāsiddhis* , *aṇimā* , and so on. 39 The ritual worship, therefore, is not only a means to approach the Goddess and identify with her but also a means to acquire supernatural powers, as is expressly stated in *śl* . 189 and 203 of the chapter. This is in conformity with the Tantric conception of liberation in this life, which confers worldly powers along with liberation. 
 
@@ -521,13 +499,13 @@ the adept worships Tripurasundarī in the whole *śrīcakra* since she pervades 
 
 Perceived in this way, as a movement from this world to the supreme deity, the *pūjā* is for the adept not a random succession of discrete ritual actions but a total and fulfi lling existential experience of participation in 
 
-* Introduction *
+
 
 21
 
 the divine, a coherent progress toward the Absolute realized by an identifi cation with the cosmic play of the Goddess. 
 
-*Japa* 
+### Japa 
 
 Finally comes the *japa* , the recitation of the *śrīvidyā* , the *mūlamantra* of the Goddess, a rite performed in the last part of all ritual Hindu worships. 
 
@@ -554,7 +532,7 @@ can act progressively with the repeated performance of the *pūjā* , whereas th
 
 the edition used for this translation is the one prepared, on the basis of several manuscripts, by Pdt. Vrajvallabh Dvivedi, former head of the Yoga-Tantra Department of the Varanasi Sanskrit University, which was published by Motilal Banarsidass in Delhi in 1988, together with 
 
-* Introduction *
+
 
 23
 
