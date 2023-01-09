@@ -135,7 +135,7 @@ ciant in order to
 
 purify and divinize it: identifying it with the mantra, the *śrīcakra* , and the deities abiding in it. Seventy-nine stanzas \(8–87\) are devoted to this rite. 
 
-* Impositions *\( nyaˉsa \) 
+* Impositions *\( nyāsa \) 
 
 Four series of *nyāsas* are to be performed: fi rst, the “sixfold imposition”\( *ṣ oḍhānyāsa* \), *śl. * 8–40; second, the imposition of the *śrīcakra* , *śl* . 41–68; third, 
 
@@ -1197,7 +1197,7 @@ Now comes the description of the *śrīcakra pūjā* proper, *ślokas* 109–168
 
 125
 
-* The śrīcakra pu*¯ *jaˉ *
+* The śrīcakra pu*¯ *jā *
 
 This *pūjā* consists of the worship of Tripurasundarī and her retinue of ancillary deities: of the several deities abiding in the *śrīcakra* , from those in the outer square section to the Goddess in the central triangle. The worship is followed by the *japa* of the *śrīvidyā * and a fi nal off ering in the fi re, a *homa* . 
 
@@ -2393,7 +2393,7 @@ In this perspective, the *japa* that has just been performed is lived by the off
 ciating adept as bringing about a fusion with the *śrīvidyā * associated with the *kuṇḍalinī* , a power both human and cosmic-divine, and thus as having a transcendental-cosmic dimension. It is a lived experience of the resorption of the cosmos into the deity. Given in the left hand of the Goddess, the *japa* is considered as being off ered to the dissolving aspect of the deity. The Goddess holds it and reabsorbs it in herself and, with it, the *sādhaka* , who is thus symbolically liberated. 
 
 156
-The last rites of the *pūjā * are now to be performed; fi rst, the ritual libation, *tarpana* :
+The last rites of the *pūjā * are now to be performed; fi rst, the ritual libation, *tarpaṇa* :
 
 With the joined thumb and ring fi nger, he must satiate the deities of the *cakra* . 
 

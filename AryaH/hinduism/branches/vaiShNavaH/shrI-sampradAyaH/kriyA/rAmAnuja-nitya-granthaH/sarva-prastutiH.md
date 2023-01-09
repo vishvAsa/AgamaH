@@ -697,6 +697,14 @@ VI. Preparation of the Worshiper’s Body by the Dissolution of the Old Body and
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वदेहे पञ्चोपनिषन्-मन्त्रान् संहार-क्रमेण न्यस्य,
+
+(
+ओँ लां नमः पराय, सर्वात्मने नमः, इति पादयोः,
+ओं वां नमः पराय, निवृत्त्यात्मने नमः, इति गुह्ये,  
+ओं रां नमः पराय, विश्वात्मने नमः, इति हृदये,  
+ओं यां नमः पराय, पुरुषात्मने नमः, इति नासिकाग्रे,  
+ओं षौं नमः पराय, परमेष्ठ्यात्मने नमः, इति मूर्ध्नि स्पृशेत्,  
+)
 </details>
 
 
@@ -735,7 +743,7 @@ Then, with his right hand, he places the root mantra in the area of his navel fo
 
 मन्त्रोद्भूत चण्ड-वाय्व्-आप्यायित-नाभि-देशस्थ--वायुना  
 शरीरम् अन्तर् बहिश् च सर्व-तत्त्व-मयं  
-तत्त्व-क्रमेण विशोष्य,  
+तत्त्व-क्रमेण+++(=??)+++ विशोष्य,  
 </details>
 
 <details><summary>FX Clooney</summary>
@@ -851,7 +859,7 @@ Let him sprinkle his self with the essence of the divine amṛta flowing from th
 एवम् आत्मानम् अभिषिच्य,  
 भगवत्-प्रासादेन तद्-अमृतमयं सर्वं  
 कैङ्कर्यैक-मनोहरं सर्व-कैङ्कर्यैक-योग्यं शरीरं लब्ध्वा,  
-तस्मिन् शरीरे पञ्चोपनिषन्मन्त्रान् सृष्टिक्रमेण विन्यसेत् ॥
+तस्मिन् शरीरे पञ्चोपनिषन्-मन्त्रान् सृष्टिक्रमेण विन्यसेत् ॥
 </details>
 
 <details><summary>FX Clooney</summary>
@@ -908,7 +916,7 @@ This is the sṛṣṭikrama of the five Upaniṣadic mantras: Mannargudi Swamig
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं न्यासं कुर्यात् ।  
-तत्-तच्-छक्तिमयम् उद्भूतं देहं ध्यायेत् ।
+तत्-तच्-छक्तिमयम् उद्भूतं देहं ध्यायेत् ।+++(कथम्??)+++
 </details>
 
 <details><summary>FX Clooney</summary>
