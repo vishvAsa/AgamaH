@@ -3,19 +3,13 @@ title = "1 Encounter in the Cakra"
 
 +++
 
-cakrasaṁketa 
+Cakrasaṁketa 
 
-the *yoginīhr̥daya* begins with the Goddess asking her consort, Bhairava, to enlighten her on the secret teachings of the Vāmakeśvaratantra—by which is meant either the text of this name or a larger textual ensemble of the Tripurā/Śrīvidyā tradition \(see introduction, above\). This dialogue being carried out between two deities is viewed as taking place out of time, in the Absolute. 
+The *yoginī-hr̥daya* begins with the Goddess asking her consort, Bhairava, to enlighten her on the secret teachings of the Vāmakeśvaratantra—by which is meant either the text of this name or a larger textual ensemble of the Tripurā/Śrīvidyā tradition \(see introduction, above\). This dialogue being carried out between two deities is viewed as taking place out of time, in the Absolute. 
 
 On the complex meaning of the term *saṁketa* , which cannot be satisfactorily translated by one word and which we try to render here both by encounter \(or co-presence\) and by agreement, see the introduction, above. 
 
-It is this commonly agreed presence of Śiva/Bhairava and the Goddess in the *śrīcakra* that transforms it in the \(visible\) embodiment of the diff erent aspects of the cosmic creative and reabsorbing power of the Goddess united with Bhairava. It gives its powers and effi
-
-cacy to the *śrīvidyā* and 
-
-ensures the soteriological effi
-
-cacy of the *pūjā* . 
+It is this commonly agreed presence of Śiva/Bhairava and the Goddess in the *śrīcakra* that transforms it in the \(visible\) embodiment of the diff erent aspects of the cosmic creative and reabsorbing power of the Goddess united with Bhairava. It gives its powers and efficacy to the *śrīvidyā* and ensures the soteriological efficacy of the *pūjā* . 
 
 The Goddess said:
 

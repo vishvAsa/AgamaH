@@ -1,0 +1,1166 @@
++++
+title = "Mark Intro"
++++
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+This edition and  was produced as part of a project for Sampurnānanda Sanskrit University, Varanasi to edit Tantric Texts financed by the University Grants Commission. The editor was also financially assisted by the Indian National Trust for Art and Cultural Heritage (INTACH).
+</details>
+
+
+
+
+## The Text and its Name
+
+The Sanskrit text edited and published here for the first time of the Samvitprakāśa by Vamana-datta is a philosophical tract of medium length, the first section of which is framed in the form of a prayer addressed to Visnu who is also variously called Hari, Madhava, Vāsudeva and Acyuta. What makes this text particularly interesting and important is not only the fine style in which it is written and the depth of its contents, but the fact that it appears to represent a genre of Vaisnava monism the existence of which has been virtually unknown. 
+
+Although a Vaisnava text, the idealist monism it presents is in many respects parallel to its Kashmiri Saiva cquivalents. One could go so far as to say that just as we refer to the Saiva monism that developed in Kashmir between the 9th and 11th centuries as Kashmiri Saivism, we can analogously refer to the system expounded in this text, which was written in Kashmir probably sometime during the same period, as a form of Kashmiri Vaisnavism. The similarities in style and conception between the Samvitprakāśa and Kashmiri Saiva literature in general makes this work an object of study for the modem scholar of Kashmiri Saivism just as it was for Kashmiri Saivites in the past. Thus, prior to its recovery in manuscript, we knew of the existence of the Samvitprakāśa almost exclusively through quotation in Kashmiri Saiva sources,[^1] where references appear alongside those drawn from Saiva works with no incongruity.[^2]
+
+[^1]: Dvivedi notes that Vamanadana's Sanvitprakāśa is mentioned by Devaraja, a commentator on the Nighantu. L.A.S.. II p. 73 with reference to Aufrecht, I p. 681.
+
+[^2]: The quotations drawn from the Savaprakāśa found in Kashmiri Saiva sources are listed below, p. 34-5.
+
+
+We have called our text Samvitprakāśa and this is the name by which it was generally known to Kashmiri Saivites, although it is also occasionally referred to by other names. Thus Bhagavad-utpala [[2]] calls it the 'Stuti', 'Atmasaptati'[^2] and 'Samvitprakarana'[^3] in three single instances. These names seem to be derived from those of the sections into which the text is divided. In the two manuscripts used for this edition (see below), there are seven sections called 'prakarana'. In one of the manuscripts, the length of each section is noted by the scribe at the end of each one. They
+
+   are:
+
+1) Samvitprakāśa 2) Atmasaptati
+
+3) Vikalpaviplava
+
+4) Vidyaviveka
+
+5) Varnavikāra
+
+6) Panmarthaprakāśa
+
+7)
+
+?
+
+Reported length Actual length
+
+160
+
+59
+
+61
+
+1522
+
+137/2
+
+59
+
+59
+
+98
+
+52
+
+27
+
+?
+
+As the colophons do not mention the name of the text and neither does the author who refers to it simply as 'the work' (kṛti), one might be tempted to suggest that 'Samvitprakāśa' is not the real title of all the text but just of the first chapter. That this may be the case seems to be supported by the name 'Samvitprakaraṇa' given as that of the source of a quote drawn from out text. As this reference is drawn from the first section it appears that in this case the name of the section of the text from which the reference is drawn is presented as if it were that of the whole text. That this happens is confirmed by the  of one reference as being from the Atmasaptati' which is, in fact, drawn from the second section which goes by this name. But that this principle is not uniformly applied is evidenced by the existence of one reference drawn from the first section that is said to be from the 'Stuti'. Although the first section is indeed written in the style of a philosophical hymn addressed to Visņu, the word 'stuti' appears
+
+1. Sp. Pra., p. 97.
+
+2. Ibid., p. 88. The printed adition introduces this quote from the Samvitprakaa as belonging to the Almasaptati. Bhagavaduipala quotes from a Svatmasaptati (Ibid., p. 112), but this reference cannot be traced in the manuscripts of the Samvitprakāśa indicating either that this was a different text or that this verse was drawn from a missing portion of our text.
+
+3. Ibid., p. 112.
+
+   
+
+   in the title of the second section. Anyway, that 'Samvitprakāśa' is not just the name of the first section but of all the text is confirmed by the fact that this is how the source is named even when other sections apart from the first are quoted. Even so, in so far as by far the greater majority of references are drawn from the first section, the name Samvitprakāśa frequently refers equally to both the text as a whole and a section of it.
+
+   Manuscripts and State of the Text
+
+   Only two manuscripts were used for this edition, namely: A) Manuscript number 1371 deposited in the library of the of the Research Department, Jammu and Kashmir, Srinagar. It consists of twentyone oblong sheets of paper numbered one to twelve. It is written in fairly clear Devanagari, indicating, assuming its Kashmiri origin, that it is not very old. The text breaks off abruptly at the beginning of the seventh section. The sudden interruption of the text before the end of the page may be either because the scribe did not finish copying the entire text or else that this was the condition of the text in the manuscript from which he was copying. I am grateful to Professor R. Gnoli for having given me a copy of this manuscript.
+
+   B) The second manuscipt is deposited in the central library of Banaras Hindu University, Varanasi and is numbered C4003. It is sixteen folios long, the sheets folding together as do those of a European book. Written in Sarada characters, this manuscript is distinctly older than A. It breaks off at verse 90 of the fourth section and concludes with verses 23 to 27 of the sixth. The scribe writes at the end:
+
+   अतः परं यदा लेखकेन विस्मृतिवशात्
+
+   त्यक्तमासीत् तत् पृथक् पत्रत्रयान्तरं लिखितम् ॥
+
+   संवित्प्रकाशः ॥
+
+   A third possible manuscript is deposited in the Bhandarkar Oriental Institute, Poona, number 472 (1875-6), it is written in Devanagari script. Although the catalogue describes it as complete, it is just two folios long. Named Samvitprakāśa, it is attributed to Harṣadattasūnu.
+
+   Although manuscript A generally contains better readings than B, they not infrequently agree in readings that require emendation,
+
+   3
+
+   4
+
+   SAMVITprakāśaH
+
+   indicating that they are derived from closely related sources which bear the defective text of an original common source. The main evidence to support this view is the condition of the first section of our text. Thus, whereas the length of the succeeding sections corresponds to that stated in the colophons, the first section which Vamanadatta himself says is 160 verses long, runs into not more than 138. This discrepency can be partially, at least, accounted for by the loss of the initial portion of the text. Thus, the beginning lacks the usual benedictory verse and starts very abruptly so that even though both manuscripts agree, there can be little doubt that the original text did not begin this way. Further evidence to suggest this is found in the Lakṣmitantra. The fourteenth chapter of this Tantra quotes extensively from the first section of our text.' As it happens, these reference are all drawn in serial order from the Samvitprakāśa. The first of these verses, known to be from the Samvitprakāśa independently from references, is not found in the manuscripts. It seems quite reasonable to suppose that it comes from the initial, lost portion of our text. Apart from this omission, it appears from internal evidence that the text of the first section has suffered losses within it as well as additions. The edition of the text has therefore entailed the following emendations in its basic forms:
+
+1) The second line of verse 10 is not found in either manuscripts as found in Spandapradipika (p. 112) where this verse is quoted. That the text has suffered a loss is supported by the 'yatha' in the first line which requires a 'tatha' in the second and so this line has been added in the critical edition. Similarly, the 'yatha' is the second line of verse 1/35 suggests the existance of another line containing 'tatha' or the like. Possibly L.T., 14/22 contains a modified version of this line but as its original form is uncertain the critical text has not been altered.
+
+3) Line 1/37ab is not found in the manuscripts but has been added on the basis of a quote in Spandapradipika (p. 111) where this line is found. Conversely, although an extra line appears in verse
+
+1. See below, p. 30-4.
+
+   
+
+   1/57 which is missing in the quote found in Spandapradipika (p. 97), it has not been omitted in the critical edition.
+
+   Vamanadatta, the Author of the Samvitprakāśa
+
+   5
+
+   Kashmiri Saiva authors refer to the writer of the Samvitprakāśa as Vamanadatta.' He himself confirms that this is - his name in the concluding verses of each section.2 He also says that he was bom a brahmin in Kashmir and that he belonged to the Ekayana.3 In this way he tells us that he was a Pañcaratrin for it is to the Ekayana that the Pañcarātra affiliates itself. Thus Rāmānuja's teacher, Yamunācārya, who lived in South India about the middle of the tenth century wrote a work, now lost, called the Kāśmirāgamaprāmāṇya. There he is said to have sought to establish the revealed character (apauruşeyatva) of the Ekayana branch of the white Yajurveda which Pañcarâtrins claim is the original source of their Agamic literature.4 The Pancaratra tradition considers the Ekayanaveda to be a 'secret tradition' (rahasyamnaya).5 But even so, the dominant feature of the Ekayana is traditionally said by Pañcarātrins to be its Vedic character which thus establishes the authority of the Pāñcarātra and its sacred literature. Revealed, according to the Isvarasamhita, to Sandilya at the beginning of Kaliyuga by Samkarṣaṇa, it is described as the Ekayana Veda, being the one path to liberation. The word 'Ekayana' appears already in the Chandogyopanisad as the name of a 'fifth Veda' thus indicating the antiquity of early, possibly Vaisnava, groups that referred to their scriptures in these terms. At any rate, the point is that the term 'Ekāyana' is
+
+1. Jayaratha, for example, commenting on T.A., 5/154 cd-5ab writes:
+
+   गुरुभिः वामनदत्ताचार्येण भाषितमिति संवित्प्रकाशे ।
+
+2. कृतिवामनदत्तस्य सेयं भगवदाश्रया
+
+   Cf. ibid. 2/61, 3/60, 4/98 and 5/52. 3. एकायने प्रसूतस्य कश्मीरेषु द्विजात्मनः।
+
+4. Vedanta Desika writes:
+
+   S.P., 1/138.
+
+   ibid., 1/137.
+
+   यथा चैकायनशाखायामपौरुषेयत्वं तथा काश्मीरागमप्रामाण्य एवं प्रपञ्चितमिति नेह प्रस्तूयते । Pancarāttarakṣā, Vedantadesika granthamāla edited by Annangaracarya, p. 95, Vedantadesika repeates this statement in his Nyayapariśuddhi, p. 168. See M. Narasimhacharya Contributions of Yamuna to Visistādvaita, Madras: M. Rangacharya Memorial Trust, 1971 p. 12.
+
+5. आधमेकायन वेदं रहस्याम्नापसंज्ञितम् । Isvarasamhită, 21/531. 6. ऋग्वेदं भगवोऽध्येमि यजुर्वेदं सामवेदार्थवणं.....वाकोवाक्यमे कायनम् ॥
+
+   Chandogyopanisad, 7/1/2.6
+
+   SAMVITprakāśaH
+
+   extensively found in Pancaratra literature as a way of referring to the Pancaratra and its scriptures as affiliated to the Veda. Indeed, according to these sources, the Ekayana is not just a part of the Veda but the 'very root of the tree of the Veda',' that 'stands at the head of the Vedas'.2 Quite in keeping with Vamanadatta's affirmation of his Ekayana affiliations, the text confirms his thoroughgoing Vaisnavism and his incorporation of Pancaratra concepts in places confirms his Pañcarātra associations.3
+
+   All we know about Vāmanadatta is what he himself tells us in this, his only recovered work. He says that his mother was called Ratnadevi and that his father was Devadatta, the son of Rātradatti.4 He also refers to his daughter Vamadevi who, he tells us, wrote a hymn to Vişņu, possibly called Haristuti.5 We must therefore distinguish our Vamanadatta from the Vamananatha, also known as Srivamana and Hrasvanatha, who wrote the (A). Dvayasampatti, in so far as the latter was not the son of Devadatta but of Harṣadatta. Anyway, this text, which seems to have
+
+1. आदिष्टोऽहं भगवता भवदर्थे तपोनिधे | इत्युक्त्वाध्यापयामास वेदमेकायनाभिधम् || मूलभूतस्तु महतो वेदवृक्षस्य यो महान् । सद्ब्रह्म वासुदेवाख्यं परतत्त्वेकसंश्रयम् ॥
+
+   Paramesvarasamhita, jannapada, 1/32-3.
+
+2. Prasnasamhita, 2/38-9. For this and other references, see V. Krishnamachary's
+
+   Sanskrit  to the Laksmitantra, Adyar Library Series no.87, Adyar, Madras 1975, p. 4-7. Also the Sanskrit  to the Paramasamhita, Gaekwad's Oriental Series no. 86 Baroda, 1940, p. 29-33.
+
+3. See below, p. 29.
+
+4. रात्रदत्तिर्देवदत्तो रत्नादेव्यां यदात्मजम् ।
+
+   लेभे वामनदत्ताख्यं तत्स्तुत्या प्रीयते हरिः ॥ S.P., 1/135cd-6ab.
+
+5. तथाद्युक्तं मदुहित्र्या वामदेव्या हरिस्तुतौ ॥
+
+   S.P., 4/78cd.
+
+   'llaristuti' may be the proper name of the text or simply a generic expression.
+
+6. Sivopadhyaya writes: auf
+
+   V.B., p. 78 and:
+
+   श्रीहस्वनाथेन हर्षदत्तसूनुनापि इत्यादिनाद्वयसम्पत्तौ, ibid, p. 90. Abhinava confinns the authorship of this work in the P.T.V., p. 198: एष एव श्रीवामनविरचिते द्वयसम्पत्तिवार्तिक उपदेशनयो बोधव्यः ॥
+
+   These references do not allow us to determine whether the name of this text was 'Dvayasampatti' or 'Adyavasampatti'. It may be the case that Abhinava's reference is to a second text which was a commentary - vārtika - of the (A) Dvayasampatti, but it seems more likely to me that was the
+
+   
+
+   7
+
+   originally been a commentary on the Vijnanabhairava or, at any rate dedicates space to commenting on a verse from it, is entirely Saiva. Similar considerations cast doubt on the identity of our Vamanadatta with the author of the Svabodhodayamañjari. The author of this short but interesting yogic tract, cast in the style of the Vijnañabhairava, identifies himself as Vamanadatta, the son of Harşadatta.2 Thus, there can be no doubt that there were at least two Vamanadatta's known to Kashmiri Saiva authors by Abhinavagupta's time.
+
+   Again, Yogaraja quotes a verse as being by Viravamaka. which translated reads: "We worship (the deity) incessantly by means of the transcendental fire sacrifice in which the fuel is the forest of duality and death itself the human victim (mahāpaśu)."3
+
+   Although this verse cannot be traced in the manuscripts of the Samvitprakāśa, they are incomplete and it could, anyway, have been drawn from another work by our Vamanadatta. However, this does not seem very likely in so far as the form of the 'transcendental fire sacrifice' is drawn from a nodel that is clearly more Saiva then Vaisnava. The word 'vira' in the author's name
+
+   original title of this work and that it was indeed a commentary. The lengthy quote in V.B., p. 78-9 certainly reads like a commentary on verse 90 of the Vijñānabhairava. Bodhavilasa seems to have been another name for this work. One manuscript (no. C 4719) is deposited in the Central Libraryin Banaras Hindu University, Varanasi and is listed as being by the son of Harṣadatta. Rastogi, ( the Krana Tantricism of Kashmir. Motilal Banarasidass, Delhi 1979, p. 182) notes the existence of a Săradā manuscript in Poona ( BORI no. 472 of 1875-6) of the same work going by the name 'Bodhavilasa' The colophon reads:
+
+   ढाकदेशसमुद्भूतो मीमांसावनकेसरी ।
+
+   हर्षदत्तेति नाम्नातु तस्य सूनोरियं कृतिः ॥
+
+1. The Svabodhodayamanjari is quoted in Sp. Pra. p. 126 and in T.A., vol. II, p. 4. A number of manuscripts of this text are available under various names including 'Svabodhamañjari' and 'Subodhamanjari. Iwo manuscripts are deposited in the Central Library in B.H.U. numbered C 4255 and CIOO. This text, which is well work editing, is typical of a class of short tracts dealing with monistic Yoga of the type found in the Vijnanabhairava. Another such text is the Nirvanayogottara quoted by Yogaraja in his commentary on the Paramarthasara (p. 160), a manuscript of which is deposited in the Central Library in Ft. (no. C 4246). 2. The colophon of B.H.U. manuscript no. C 4255 reads:
+
+   मीमांसावर सिंहश्च ( स्य ) हर्षदत्तस्य सुनूनां ।
+
+   कृता वामनदत्तेन स्वबोधोदयमअरी
+
+3. P.S., p. 146. Quoted below, p. 36.
+
+   8
+
+   SAMVIIprakāśaII
+
+   lends further weight to the view that this verse is drawn from a work written by a Saiva, rather than Vaisnava, author. Thus, it is not at all certain whether Viravamanaka and our Vamanadatta were the same person. The same uncertainty prevails concerning Abhinavagupta's reference to a Vamanaka as one of his teachers in the Tantraloka. Although Abhinavagupta does refer to Vamanadatta with respect in one place as 'guru' he may simply mean that he was one of his venerable predecessors or elder contemporaries rather than literally his teacher. However, even though Abhinavagupta was averse to Vaisnavas, as are Saivites in general, he was prepared to concede that the views of others were valuable even if they taught what he considered to be lower doctrines. Thus he wrote that: "I myself, for this very reason, have frequented, moved by curiosity for lower doctrines and scriptures, masters of all sorts, logicians, Vedic scholars, Buddhists, Jainas and Vaisnavas etc.."2 Perhaps Vamanadatta was one of these Vaisnava teachers to whom Abhinava refers. If so, Vamanadatta was his elder contemporary thus placing him in the beginning of the eleventh century. Again, Bhagavadutpala quotes Vamanadatta frequently and, although his date is uncertain, we can be sure that he was not prior to Utpaladeva, Abhinava's grand-teacher, as he also quotes from his Isvarapratyabhijñākārikā in a number of places.3 But although we can thus be sure that Vamanadatta was not later than Abhinavagupta there is no certain evidence available at present to establish a minimum date for him. Even so, it seems to me that Vamanadatta was probably either an elder contemporary of Abhinavagupta or belonged to the generation just preceding him. At any rate, there seems no reason to doubt that he lived and wrote in Kashmir sometime between the 9th and 12th century, that is, during the period of Kashmiri Saivism's most vigourous growth. This was a period during which such a large number of Kashmiri scholars and religious men turned their attention to writing and teaching that in many
+
+1. आह अन्येऽपि धर्मशिववामनकोद्भट श्रीभूतेशभास्करमुखप्रमुखा महान्तः॥
+
+   T.A., 37/62.
+
+2. T.A., 13/345 b-346a.
+
+3. The Isvarapratyabhijñā is quoted in Sp. Pra., p. 84, 87 and 124.
+
+   
+
+   9
+
+   cases it is hard to decide who preceded whom and, indeed, many were contemporaries of different ages. The style and content of Vamanadatta's work is in itself eloquent testimony to his belonging to this rich period of India's religious history. The Vaisnava Monism of the Samvitprakāśa
+
+   Samvitprakāśa, the title of the first chapter, coincides, as we have seen, with the name of the entire text and, in fact, the symbolic notion of consciousness as luminous is indeed one of the major themes of the text as a whole and of the first chapter in particular. Vamanadatta, like the Pratyabhijñā philosopher, Utpaladeva, makes extensive use of this analogy thus imparting a Pratyabhijñā-like tone to his mode of discourse. This feature markedly distinguishes Vamanadatta's work from another monistic Vaisnava tract that has come down to us and that we know was studied in 10th century Kashmir, namely, the Paramarthasara, also known as the Adhārakarika written by Patanjali, alias Šeṣa, traditionally identified (certainly mistakenly) with the author (s) of the Mahabhaṣya commentary on Panini's grammar and the Aphorisms on Yoga. Thus, although the latter work is monistic, conceiving the one ultimate reality to be Vişnu who is pure consciousness, just as Vamanadatta docs, light analogics are virtually absent.' This divergence is emblematic of the divergent approach the two authors adopt to establish their monism and the aspect of the unity of reality which they have choosen to fix their attention upon. Adisesa's work reads much like a short treatise an Advaita Vedanta, indeed the author is represented as one who knows the Veda and its limbs' and as 'having seen all the Vedantaśastra,' on the basis of which he wrote his work.2 Instead of the neuter Brahman, however, we find
+
+   ။
+
+   A.K. 60. Cf. Ibid., 23.
+
+1. The only verse in the Adharakārikā in which ultimate reality is clearly
+
+   understood as being light is the following: विगतोपाधिः स्फटिक: स्वप्रभया भाति निर्मलो यद्वत्। चिद्दीपः स्वप्रभया तथा विभातीह निरुपाधि: In another place the Self,is compared to the Sun: यद्वत् सवितर्युदिते करोति कर्माणि जीवलोकोऽयम् । न च तानि करोति रविर्न कारयति तद्वदात्मापि ॥ Ibid., 13.
+
+2. त्वं साङ्गवेदवेत्ता.........
+
+   ibid., 4, also:
+
+   10
+
+   SAMVITPRAKĀSAIL
+
+   find Visnu who is represented as the supreme soul (paramātman),
+
+   but even though he is characterised as the 'cause of creation, persistence and destruction'2 the universe is Visnu's Māyā which is unreal.3 Clearly, there is a palpable contradiction here but even so, Adisesa remains true to his Vaisnava creed and so refuses to take recourse to Advaita Vedanta's solution to this problem by making a distinction between the pure absolute - Brahman - which is etemally just as it is, unrelated to diversity in any way except as the reality behind an illusion, and the personal God - Isvara -Who creates, sustains and destroys all things that, like the world he seemingly creates, is real only to the extent that he is the Brahman that appears to be him. Thus Adiścṣa makes free use of the entire gamout of standard analogies to explain in what sense Visnu's Māyā is just an unreal illusion: it is like the water in a mirage (mrgatrsnikā), the silver seen in nacre, the snake in the rope, the two moons mistakenly perceived by someone with an eye discase.4 The specific character of individual things that appear to exist in the illusory world of Maya is similarly explained by taking recourse to the standard Advaita notion of limiting adjuncts (upadhi) produced by ignorance. The analogy is also the well known Advaita one of the sun that shines reflected in different pools of water-just so the Supreme Self appears diversified in the things of the world, established as it is in all the limiting
+
+   वेदान्तशास्त्रमखिलं विलोक्य शेषस्तु जगदाधारः । आर्यापञ्चाशीत्या बबन्ध परमार्थसारमिदम्
+
+1. परं परस्याः प्रकृतेरनादिमेकं निविष्टं बहुधा गुहासु ।
+
+   सर्वालयं सर्वचराचरस्थं त्वामेव विष्णुं शरणं प्रपद्ये ॥ Ibid., 1.
+
+2. नारायणमात्मानं ज्ञात्वा सर्गस्थितिप्रलयहेतुम् ।
+
+   सर्वज्ञः सर्वगतः सर्वः सर्वेश्वरो भवति
+
+   Ibid., 67.
+
+3. बुद्ध्यैवमसत्यनिदं विष्णोर्भायात्मकं जगद्रूपम् ।
+
+   विगतद्वन्द्वोपाधिकभोगासको भवेच्छान्तः
+
+   Ibid., 74.
+
+   ||
+
+4. मृगतृष्णायागुदकं शक्तौ रजतं भुजङ्गमो रज्जा ।
+
+   तैगिरिकन्द्रयुगवद् भ्रान्तं निखितं जगद्
+
+   Ibid., 22.
+
+   n"
+
+   Ibid. 87.
+
+   
+
+   11
+
+   conditions that delineate apparently existing objects.' Consequently, even though Visnu is said to be the creator, Adiścṣa declares that: "Just as there is no cause of the creation and destruction of the snake (mistakenly perceived) in the rope, so too there is no cause here of the arising and destruction of the universe."2 Thus, just as at the cosmic level the ultimate principle docs nothing, so too at the individual level, the Self, like the Samkhyan Puruşa, is perfectly inactive. We can contrast this view with that presented by Abhinava in his Saiva adaptation of this text.3 Abhinava agrees with Adiścșa that the individual soul merges into the Brahman when he overcomes Maya and that it consists essentially of thought constructs centred on duality.4 Adiseṣa says that this takes place when the soul realises that Viṣṇu's Māyā is insubstantial like the snow, foam or bubbles formed from water or the smoke that issues from a fire. The practicioner must contantly refresh this awareness ( bhavana), through it he is liberated by becoming one with the Brahman. According to Abhinava, however, contemplative insight (bhāvanā) into the nature of the principles of existence is the result of realising one's own universal "I" consciousness that is experienced not just as the one universal consciousness which is the passive ground of Being but as supremely active, thus he writes:
+
+1. यद्वद् दिनकर एको विभाति सलिलाशयेषु सर्वेषु । तद्वत् सकलोपाधिष्ववस्थितो भाति परमात्मा
+
+   Ibid., 23.
+
+2. रज्ज्वां भुजङ्गहेतुः प्रभवविनाशौ यथा न स्तः ।
+
+   जगदुत्पत्तिविनाशौ न च कारणमस्ति तद्वदिह ||
+
+   Ibid., 50.
+
+3. Abhinavagupta adapted the Vaisnava Paramarthasara to express the Saiva position. For details sec K.C. Pandey 'Abhinavagupta' Chowkhamba, Varanasi 1963, p. 63-7.
+
+4. इत्थं द्वैतविकलो गलिते प्रतिच च गोहनी गायाम् ।
+
+   सलिले सलिन क्षीरे क्षीरमिव ब्रह्मणि लपी स्यात्
+
+   P.S., 51.
+
+   Note that in order to distinguish Abhinava's Paramarthasara from that of Adisesa, I call the latter Adhirakārikā.
+
+5. हिमफेनबुदबुदा इव जलस्य धूगो यया बद्धेः । तद्वत् स्वभावभूता गायैषा कीर्तिता विष्णोः || A.K., 56.
+
+   12
+
+   SAMVITprakāśaH
+
+   "I am the Lord who playfully propels the machine of the wheel of energies. My nature is pure and I hold the position of the Lord of the great wheel of energies. It is in me alone that all things manifest as do jars and other ( objects) in a clean mirror. Everything extends out of me as docs the wonderful diversity of dreams from one who sleeps. I myself am all things (and they are related to me) like hands, feet and other (limbs are related to the) body. I alone manifest in all this like the light (that shines) in (all) existing things."!
+
+   While Abhinava affirms the activity of the Self which he understands to be not just a knower but also an agent, Adisesa categorically denies that the Self is active. Present in the body the Self is the embodied soul (dehi ), his presence stimulates the activity of the body, mind and senses, but he does nothing, just as the magnet that attracts iron to itself is inactive.2 Thus :
+
+   "The embodied soul sees, hears, smells, touches, tastes and perceives but in so far as he (as the Self is really ) devoid of intellect, senses and body, he does nothing."3
+
+   Abhinava modifies this verse to fit his own view and places it at the conclusion of his previous statement concerning the experience of the Self's authentic nature as the agent of creation etc., thus his version reads:
+
+   "Even though the one who sees, hears and smells, being devoid of the senses and body does nothing, it is I alone who
+
+1. इति शक्तिचक्रयन्त्रं क्रीडायोगेन वाहयन् देवः ।
+
+   अहमेव शुद्धरूपः शक्तिमहाचक्रनायकपदस्थः मय्येव भाति विश्वं दर्पण इव निर्मले घटादीनि । मत्तः प्रसरति सर्वं स्वप्नविचित्रत्वमिव सुप्तात् ॥ अहमेव विश्वरूपः करचरणादिस्वभाव इव देहः । सर्वस्मिन्नहमेव स्फुरामि भावेषु भास्वरूपमिव ॥ P.S., 47-9.
+
+   ॥
+
+2. मायामयोऽप्यचेता गुणकरणगणः करोति कर्माणि
+
+   तदधिष्ठाता देही सचेतनोऽपि न करोति किञ्चिदपि । यद्वदचेतनमपि सन् निकटस्थे भ्रामके भ्रमति लोहम् । तद्वत्करणसमूहश्चेष्टति चिदधिष्ठिते देहे
+
+   A. K., 11-12.
+
+3. द्रष्टा श्रोता धाता स्पर्शयिता रसयिता ग्रहीता च।
+
+   देही देहेन्द्रियधी विवर्जितः स्थान्न कर्तासौ
+
+   Ibid., 62.
+
+   ||
+
+   
+
+   13
+
+   deploy the various reasonings of the philosophies and scriptures."
+
+   According to Adisesa there is no agent because there is nothing in reality for him to act upon. Abhinava and Adisesa agree that the Lord is not affected by the troubles of the world, it is the deluded who are peaceful, happy or sad according to their state of mind.2 The Self seems to act due to the activity of the mind etc., just as the sun reflected in running water seems to move. Again, although the Self is omnipresent, it is man fest in the intellect just as Rahu becomes visible when he devours the moon during an eclipse.3 Thus Adisesa's system tends towards a monism of the Advaita Vedanta type and develops the Samkhya theme of Purusa's passivity with respect to Prak!.i, here identified with Maya. The embodied soul does rotting, it is Maya that acts. The Self seems to be an agent and enjoyer only because of its association with the body.
+
+   Now, even though Vamanadatta agrees with Adisesa that there is only one reality and that it is pure consciousness which he praises devoutly as Visnu, he sets off on a different tack to present and establish his monism. Like all monists, Vamanadatta stresses in various ways the indeterminate nature of the one reality it is not exclusively one or other of possible prototypical categories that characterize things such as subject and object, inner and outer
+
+1. द्रष्टा श्रोता घ्राता देहेन्द्रियवर्जितोऽप्यकर्तापि ।
+
+   सिद्धान्तागमऩकश्चित्रानहमेव रचयामि
+
+   P.S., 50.
+
+2. शान्त इव मनसि शान्ते हृष्टे हृष्ट इव मूढ इव मूढे ।
+
+   व्यवहारस्थो न पुनः परमार्थत ईश्वरो भवति
+
+   A.K. 34.
+
+   Cr.
+
+   शान्ते शान्त इवायं हृष्टे हृष्टो विमोहयति मूढः । तत्तवगणे सति भगवान् न पुवः परमार्थतः स तथा । P.S., 38.
+
+3. गच्छति गच्छति सलिले दिनकरबिम्बं स्थिते स्थितिं याति ।
+
+   अन्तःकरणे गच्छति गच्छत्यात्मापि तद्वदिह राहुरदृश्योsपि यथा शशिबिम्बरथः प्रकाशते जगति । सर्वगतोऽपि तथात्मा बुद्धिरथो दृश्यतामेति It A.K., 17-8 C., P.S. 7-8.
+
+   ။
+
+   14
+
+   SAMVITPRAKÄSAH
+
+   etc., and it is beyond conceptualization and hence speech.' This implies, according to Vamanadatta, that the duality verbal expression necessitates is not real but is merely a conceived idea2 thus distinctions such as that between subject and object are false.3 However, this does not mean that the world and those that perceive it are unrcal illusions. The world of things cannot be based on their non-existence.4 Vamanadatta stresses that the appearance of an illusory snake would not be possible if there were no rope. Maya is not the illusory world, it is the false knowledge of ignorance which perceives duality in Visnu who is one and non-dual. When this Māyā is destroyed one perceives ultimate reality as it is."The world is not unreal, on the contrary it is as real as Visnu himself who making it as he pleases, is one with it. Thus, according to Vamanadatta, the world is actually created, sustained and destroyed by Visnu who, in doing so, forms himself into the universe thus assuming his external form to then revert to his own internal, undifferentiated nature when it is destroyed. Vamanadatta thus develops a peculiar position of his own here. According to him, it is possible to explain the generation of the world both in terms of real and apparent change. The Advaita view maintains that the world is a product of a seeming change in the Brahman, like the apparent change that takes place when we perceive a rope mistakenly to be a snake. This view is sharply contrasted with the one that asserts that the Brahman changes into the universe by altering itself, like milk that becomes curd. Vamanadatta accepts both as equally possible explanations:
+
+   "He whose unique nature is supremely pure consciousness alone assumes physical form. This can be explained both in terms of real and apparent change. (Explained as merely) apparent change, it is You, O Acyuta ( Who persist unchanged although) it
+
+1. S.P., 1/1.3.
+
+2. Ibid., 1/8. 3. Ibid., 1/28.
+
+4. Ibid.. 1/111b.
+
+5. Ibid., 1/100a.
+
+6. Ibid., 1/1026.3.
+
+7. Ibid., 1/99.
+
+   
+
+   15
+
+   appears to be otherwise. (And as a ) real transformation, it is always You (who, although essentially the same, assume many forms) just as gold (fashioned into an ) earring (remains gold)."!
+
+   Even so, Vamanadatta stresses that subject/object distinctions are not ultimately real. It is the notion based on duality (bhedasamkalpa) that splits up the unity of consciousness into subject and object, inner and outer.2 Both the condition of the subject and that the of object are states of Visnu who is the one, pure consciousness and so they are ultimately false in themselves.3 It is only the foolish who, seeing the world of subjects and objects, believe that that is the way things are also within Vişnu whereas he is really beyond all phenomenal being and hence contamination by such relative distinctions. As Visnu is the universal nature of all things like the gold of gold ornaments - there can be no distinction within him.5 There can be no time or space within him who is the one support of all, and consists of all things while at the same time transcending all particulars."
+
+   Thus, Maya is the ignorance or false knowledge of duality. The way this false knowledge operates is through language for that which is undivided within one's own consciousness appears to be fragmented when it reaches the plane of speech.7 Duality is just the way we talk about things and hence think about them. The primary form of this duality is that between subject and object. But if we reflect upon this relation and what it entails we discover that it is not as it initially appears to be. Objectivity (meyatva), Vamanadatta argues, amounts to a state of limitation and the exclusion of elements one from another (paricchedu), and this doesn't take place within consciousness (jñāna) which is not an object of knowledge but the prerequisite condition of all knowledge. Indeed it is this, the ultimate nature of the perceiving
+
+1. Ibid, 1/104b-6a.
+
+2. Ibid., 1/1.
+
+3. Ibid., 1/28.
+
+4. Ibid., 1/51.
+
+5. Ibid., 1/109-11.
+
+6. Ibid., 1/62.
+
+7. Ibid., 2/19.
+
+8. Ibid., 2/21.16
+
+   SAMVIIprakāśaH
+
+   consciousness (graha) of both subject and object, that is real and persists when they cease: all else is false.' The notions that 'this is other than me' and 'I am different from that' run contrary to oneness and cannot persist even for an instant2 and they do not in fact do so for all thought is momentary. In reality cognitive consciousness (jñāna) shines by itself, it does not require any object.3 The status of things as objects of knowledge is not due to some inherent attribute they possess of themselves, but is due to their relation to a perceiving subject, while the subjectivity (mātṛtva) in the perceiving subject has no existence apart from the object.4 The establishment (siddhi ) of truly existing things is independent (anapeksa ). There is neither subjectivity nor objectivity in those things that are independent.5 Similarly, if it is impossible to conceive of knowledge with no field of application (vişaya ), it is also impossible for this field to exist without content (viṣayin )." The same argument holds good with relation to action (karma) and the agent. Action pertains to that which is made manifest by consciousness (prakasya ) but this can have no existence in the absence of an agent,' but as nothing is manifest but consciousness itself there can be no question of action or agency.
+
+   At the same time, however, Vamanadatta affirms that Visnu, the consciousness which is the one ultimate reality, is genuinely creative. The entire universe arises out of him and he precedes and supports all the business of daily life (vyavahāra), be it that of the body, speech or mind. As consciousness, Visnu is the unique cause of all things, 10 and nothing can act apart from him" for all that is impel ed to action in any way is ultimately impel cd
+
+1. Ibid., 2/26. 2. Ibid., 2/29. 3. Ibid., 2/33. 4. Ibid., 2/51. 5. Ibid., 2/52. 6. lbid., 3/33. 7. 2/54,
+
+10. Ibid., 1/71. 11. vid.. 1/74.
+
+    
+
+    17
+
+    by consciousness, the one reality.' Thus what Vamanadatta means when he says that "creation has no being (satta): being pertains to consciousness" is not just that all this world of the fettered (samsara) is merely an imaginary notion (vikalpa ),2 but that, unlike consciousness which requires nothing, there is no phenomenal entity which just exists and is known as such in itself independently of consciousness. It is this seeming independence which is falsc.4
+
+    Vamanadatta thus accepts that the one reality is varied (vicitra); unity is different from relative distinctions and duality (bleda), it is the whole of reality which is involved in it, not just one reality or existing thing contrasted with another independent reality. Vāmanadatta explains all this by taking recourse to a common Pancaratra notion which understands Visnu as four-fold (caturātman) as himself and his emanations (vyre). These four are equated with various quaternities of mutually dependent elements that represent phases or levels within the entire range of reality. These are variously defined in different contexts as: 1) Reality (vastu ), phenomenal being (bhava ), determinate
+
+    particulars (artha) ard action (kriyā).5
+
+2) The four levels of speech: Santa, Pasyanti, Madhyama and
+
+   Vaikhari."
+
+3) Subject (pramātr ), object (meya ), means of knowledge
+
+   (mana) and veridical cognitive consciousness (miti)."
+
+   This way of understanding causality leaves Vamanadatta free to talk about Visnu's cosmically creative activity in terms which often remind us of Kashmiri Saivism and that fits with a world view that generally characterized the monisms of Tantric systems as a whole as distinct from those developed from the Upanisade. This form of monism is formed by an identification of the opposites which thus simultaneously involves their transcendence.
+
+1. Ibid., 1/75.
+
+2. Ibid., 3/2.
+
+3.
+
+vid.. 2/21.
+
+4. 10, 2732. 5. Ibid., 1/87. 6. Ibid., 1/89. 7. Ibid., 2/59.
+
+   18
+
+   SAMVIIPRAKĀSAH
+
+   Reality is one because it includes everything, thus it is free of duality. Oneness is not achieved merely by denying multiplicity as unreal from the perspective of a higher transcendental reality. In this way Visnu is completely established in himself at all times and yet gencrates and destroys the universe that arises from him and falls back into him like the ocean that is in itself waveless and yet generates waves.' Thus, requiring nothing outside himself, Visnu is endowed with perfect creative freedom (svatantrya )2 and so he unfolds everywhere,3 while the arising and falling away of all things takes place in the Lord who is the centre of all the daily dealings of life.4 Thus although Visnu is pure, uninterrupted consciousness, free of subject and object and the source from which consciousness arises, the passivity of knowledge does not contradict the activity of action: they are ultimately one. Visnu is equally cause, effect and instrument for he is all things 7
+
+   Oneness is thus established by establishing the ultimate identity of seemingly contrasting categories in Visnu who is pure consciousness. Thus the absence of subject-object distinctions within Visnu is due to their identity, it is not attributed to their ficticious character. Once the object is known as it truly is, it is realised to be consciousness. Again, just as the object can never be independent of the knowledge of it, so this knowledge is not different from the perceiving subjectivity.10 Thus, everything is pervaded by consciousness and consumed by it just as fire burns and pervades fuel and so, as Vişnu is pure consciousness, he is all things. 12 But although Visnu contains everything and is in
+
+1. Ibid., 1,73. 2. Ibid., 1/84. 3. Ibid., 1/81.
+
+4. Ibid., 1/92.
+
+5. Ibid., 1/25. 6. Ibid., 1/119.
+
+7. Ibid., 1/112-3.
+
+8. Ibid., 1/24. 9. Ibid., 1/22. 10. Ibid., 1/17. 11. Ibid., 1/10. 12. Ibid., 1/22.
+
+   
+
+   19
+
+   everything,' he is not conditioned by the things conditioned by time, space and form because he is internal consciousness.
+
+   Now all this can be expressed simply and directly, as Vamanadatta docs, by representing Visnu-consciousness, the one reality, as light. Although this is a metaphor in a sense, in another, absolute divine consciousness and the world manifested in and through it are literally the light of consciousness and this is the way it is experienced. This presentation of the one, absolute reality as light is well know to Indian thought from very early times. It finds its classic expression in the following verse which appears in a number of Upanisads:
+
+   "The sun shines not there, nor moon and stars;
+
+   These lightnings shine not, much less this (earthly) fire! After Him, as He shincs, doth everything shine.
+
+   This whole world is illumined by His light."2
+
+   From this point of view all things can be classified into two basic types, namely, those things which illuminate (prakāśaka) and those which are illuminated (prakāśya). The illuminators are both the perceiving subjects and their activity through which the objects of illumination are known, made know and hence, from this idealist point of view, created. All these illuminating lights shine by virtue of Visnu, the one light.3 In this sense, Visnu is always immediately apparent as all things, in the act of knowing them and as the knower. As the immediate appearance of things just as they are, that is, as the shining of the universal light, they reveal Visnu's nature which is thus directly apparent (prakata). The light of the sun illumines an object and so makes it apparent (prakata), whereas before it was obscure (aprakata) and hence unknown. But Visnu is always apparent as all things, there is no need to find ways to make him evident, nor is there any need of proofs to establish his existence.4 Thus, the light which is the illuminator (prakāśaka) is at the same time the object of
+
+1. Ibid., 1/14.
+
+2. Svetaśvaturopanisad 6/14, the same verse is also found in Mundakopaniṣad
+
+   2/2/10 and the Kathopanisad 5/15; cf. also Bhagavadgita, 15/6.
+
+3. S.P.. 1/37-8.
+
+4. Ibid., 1/12-3.
+
+   20
+
+   SAMVITprakāśaII
+
+   illumination without this compromising its essentially luminous nature as the pure presentation of things just as they are in the immediacy of their direct experience. Thus Vamanadatta writes:
+
+   "None dispute that You (O Lord ) are the essential nature of (all) things; it is not darkness (aprakāśa) that shines when (the light of consciousness) becomes the object of illumination."!
+
+   In this way Vamanadatta accounts for unity as the identity of opposites understood as aspects of the same noumenous reality, namely, the shining of the light of consciousness. But while the illuminator as light manifests the object and thus presents itself as the object's manifest appearance, it also transcends it:
+
+   "Just as these things are separate from the light of the sun and it is undivided, so are You separate from all these objects of Your illumination."2
+
+   This verse illustrates Vamanadatta's second approach to oneness, namely, what might be called the logic of transcendence' in which the unity of the absolute is established as being beyond diversity. Visnu, the one reality is unaffected by the diversity of things - he is unconditioned. Although present in that which has form and is determined by time and space, he is free of them.3 But this is not because they are unreal or less then real in respect to Visnu's reality: Visnu is free of time, space and form because he encompasses everything; the universe is full of Visnu and there is no state in which he is absent.4 Thus Vamanadatta's transcendental logic is soon transformed into a 'logic of immanence' in which the absolute is understood as one because it excludes nothing rather than because it stands beyond the many phenomena subject to a conditioned, contingent state of existence.
+
+   But if all this is true and Visnu is that same consciousness which is in every perceiving conscious being as its most essential nature why are we not aware of this fact directly and so, being conscious of our ultimate identity with Visnu, be in his same state? The answer, Vāmanadatta affirms, is to be found in the
+
+1. Ibid., 1/12.
+
+2. Ibid., 1/36, cf. 1/69.
+
+3. Ibid., 1/14.
+
+4. Ibid., 1/70.
+
+   
+
+   21
+
+   negative, privative character of thought (vikalpa ). This is a theme Vamanadatta develops extensively throughout the third prakarana where he discusses the nature of thought and its formation through the power of speech. The world of daily life is perceived through a veil of thought constructs which represent what is presented by the shining of the light of consciousness in conceptual terms. Those who cannot penetrate through this veil of conceptual representation and be conscious of the immediacy of things and themelves just as they arc, that is, as clearly evident manifestations of the light of consciousness, are cut off both from the outer reality of the object and the inner reality of the subject. Thus removed from themselves and, by the same token, from the world around them, they are helplessly caught up in the trammels of conditioned existence. Thus Vamanadatta pertinently quotes the dictum : "all thought is samsara."1
+
+   Like all Hindu monists Vamanadatta preaches that liberation comes by identifying ourselves with the true Self, namely, Vişnu and by freeing ourselves of false identification with the body and all else that is not Self (anatman). For while the Self is bliss itself, non-Self - its very opposite is suffering.2 But while the Self must be known, it cannot be known as an object. If the Self where to be an object the subject who perceives it would be superior to it. Thus there would be something higher then the Self and therefore another higher than that would be required in order to know it. Ultimate Being cannot be known like a sense object, for all sense objects are limited, conditioned entities. This does not mean that the Self is never known objectively, rather that it is not known in itself as it is in this way. When consciousness is perceived as an object it becomes the things of the world that are 'other' than the Self. As Vamanadatta says:
+
+   "Just as one perceives the external form of that which is in the field of vision, just so consciousness, established in the act of perception, perceives its own nature as the object of knowledge."
+
+1. Ibid., 3/2.
+
+2. Ibid., 2/3.
+
+3. Ibid., 2/4-6.
+
+4. Ibid., 1/9.
+
+   22
+
+   SAMVITprakāśaH
+
+   In order to know the Self, we must find another made of knowledge:
+
+   "Transcending all things, how can anyone describe Your nature ( O Lord )? Description applies only to that which is divided while the Self of none is such and that (Self) is You, Who are the Self of All, and so for this reason also You cannot be described. The nature of the Supreme Self, free of alterations and divisions is the only means to know You: You can never be conceived."!
+
+   Words, the vehicle of thought, seemingly break up the unity of reality for the ignorant. We distinguish between one thing and another labelling one and then the other according to their functions this division is a purely mental construct, although useful, indeed essential, for daily life, it is not real.2 If some existing thing where to stand contradicted by another, this contradiction would necessarily extend to its essential nature. The being of entities cannot in itself oppose itself; difference, distinction and contradiction are all notions, they are not qualities inherent in the being of things.3 Similarly, if Visnu is everything and he is discernable in both subject and object, this distinction too is false it is just a notion.4 Visnu must be known directly and not as the subject knows his object and that is only possible if he is the Self:
+
+   "Everyone knows one's own nature (svarupa ), none can know that of another and one's own omnipresent nature is You (O Lord). Thus the universe is full of You."5
+
+   Vamanadatta seeks to establish that this awareness of Self is the basis of all knowledge, even the most mundane. He builds up his epistemology on the basis of an idealism that accounts for the possibility of knowledge by positing it not as the product of cognitive acitivity but as its a prior ontological and epistemological ground which cognitive activity simply reveals. Veridical
+
+1. Ibid., 1/33-34.
+
+2. Ibid., 1/8.
+
+3. lbid., 2/47.
+
+4. Ibid., 1/27-8.
+
+5. Ibid., 1/5
+
+   
+
+   23
+
+   cognitive consciousness (manatā )' is in every case one's own self-awareness alone (svasanvedana) which is understood to be the very Being (satta) of consciousness free of thought constructs.2 The three sources of right knowledge (prama) are direct perception, inference and scripture.3 All means of knowledge (pramāna) arc each individually associated with their specific object and so do not allow the subject to experience pure awareness directly4 unless he makes a special effort to do so. Thus Vamanadatta writes:
+
+   "You transcend all thought constructs and so, although directly apparent, are forgotten, as happens with something in front of a man whose mind if full of desire for something else."5
+
+   But although Visnu is worshipped as consciousness and this consciousness manifests as the objects of the world in and through the act of perception, Vamanadatta does not go as far as his Kasamiri Saiva counterparts who, perceiving reality in much the same way, conclude that the world order and all that transcends it are encompassed in the self-reflective awareness of a universal "I" consciousness. Thus, while Vamanadatta's phenomenology coincides with that of Utpaladeva and of later Kashmiri Saivites in general as far as the phenomenon of presentation is concerned, there is divergence in the characterization of the representational aspect, that is, the judgement of what is presented by the shining of the light of consciousness. A Kashmiri Saivite would say that Vamanadatta does not tackle this problem thoroughly. Implicit in his view is that not all representation is conceptual and that this non- conceptual representation is essentially an awareness of the Self as all things and as beyond them and that it is the basis of all knowledge, but he doesn't take the next step and posit that this awareness is inherent in consciousness, in the sense that consciousness is self-awareness through which the world of
+
+1. Ibid., 2/39. 2. Ibid., 2/48. 3. Ibid., 2/35. 4. Ibid., 2/34. 5. Ibid., 1/35.
+
+   24
+
+-
+
+SAMVITprakāśaII
+
+conceptual representation is generated and hence the play of objectivity. I am not referring here to a mere absence of a technical term such as 'vimarśa' more to the point is that Vamanadatta categorically rejects any form of egoic projection onto absolute consciousness. All sense of self must be eradicated. As Vamanadalta says:
+
+"O Madhava, only You remain when one free of ego (reflects that) You perform this action and ( that it accords with) Your nature. Now if this separation (from You) which corresponds to this (false) presumption of egoic existence dissolves into the Self by devotion to You, separation is destroyed and oneness is established."!
+
+The sense of oneness as "I" is never an independent self- subsisting awareness; according to Vamanadatta it is always the subject of predication as when one thinks: "this is different from me and I am different from that."2 It is thus essentially a thought construct like all relativizing analytic notions. Instead of being a notion centred on the object it is a notion concerning oneself (asmadvikalpa) and so must, like its objective counterpart, be rejected as short of ultimacy. Vamanadatta equates the ego with the notion of personal existence as individual, appropriating or acquisitive consciousness. It consists of an intent (samkalpa) to make the object one's own. Thus, rather than the sense of "I" it is better described as the sense of "mine". This sense of "mine" (mamatā ) expresses itself each moment as an intention which leads to another, thus maintaining its existence. Vamanadatta thus describes it as a transitory (anitya) product of the pulsing activity of consciousness (spanda ). Just as death is the inevitable result of its persistence, so death ceases when it comes to an end.3
+
+Here we notice a radical departure from the Saiva phenomenology of Utpaladeva. This need not surprise us. The
+
+1. Ibid., 1/100b-2a.
+
+2. Ibid., 2/29.
+
+3. Ibid., 4/42-3, Worth noting in passing is that while Vamanadatta states expressly in this passage that the pulsation of consciousness-Spanda- is free of thought constructs he does not equite it with the dynamics of the absolute ego as most Kashmiri Saivites do, but treates the ego as an epiphenomenon of its activity.
+
+   
+
+   25
+
+   ego is understood in most schools of Indian thought as relative, a product of thought constructs which serves as a provisional subjective referent for a consciousness that wrongly identifies itself as the body and mind. At best it is understand as part of the inner mental organ operating there as the factor which personalizes or appropriates the perceptions reflected and made known in the intellect.' It is Utpaladeva, who formulates for the first time in his Iśvarapratyabhijñākāriki a notion of the absolute as a pure ego consciousness and makes full use of it in a completely developed system thus extending the universal Hindu doctrine of Self into a higher metaphysics of the Self as a Fichtian-like superego.2 That Vamanadatta's views are compatible with this ulterior develop- ment is exemplified by the extensive quotation of his work in the fourteenth chapter of the Lakṣmitantra3 for in this work Laksmi, Vişnu's spouse and power, is characterized as his "Iness" (ahanta) while he is eternal and perfect "I" consciousness. Thus Lakṣmi proclaims in the Lakṣmitantra:
+
+   "He, Hari being"I" (the Self) is regarded as the, self in all beings. I am the eternal I-hood of all living beings."4 And: "Therefore Brahman, the eternal, is called Laksmi - Nārāyaṇa because the I-entity is always inherent in I-hood. The I-entity is always recognised as the source of I-hood; for one cannot exist without the other and cach is invariably linked to the other."5.
+
+   The Lakṣmitantra, which is certainly later than Utpaladesa, makes use here, as in much of the rest of its metaphysics, of notions that are typically Kashmiri Saiva. If an original Pancaratra
+
+1. For an excellent study of the concept of the ego in the major schools of Indian philosophy and Kashmiri Saivism the reader is referred to Michel Hulin's book: 'Le Principe de L' Ego dans La Pensée Indienne Class.que. La Notion d' Ahamkara' publications de l' institut de civilisation indienne, scrie in - 30 fascicule 44, Paris, 1978.
+
+   2 See my paper Self-awareness, Own Being and Egoity', Varanasi. 1990
+
+   where I prove this assertion..
+
+3. See below, p. 31-4.
+
+4. L.T., 2/13, translation by Sanyukta Gupta. 5. Ibid., 2/16-17.
+
+6. The Lakshmitanura contains citations from the Svacchandabhairavatand
+
+   the Vijanabhairava both Tantric texts well known and geted by Kashmiri Saivites. It also cites Kşemarija, Utpaladeva and Abhinavagupta in a number of places. According to Sanderson the Lokemitantra ande26
+
+   SAMVIIPRAKĀSAI
+
+   Samhita is free to do this, there is no reason to be surprised if Vamanadatta, who was a Kashmiri living in Kashmir during the period of Kashmiri Saivism's most energetic period of growth, drew inspiration from the Saiva monism current in his day. The close affinity between Vamanadatta's views and monistic Saivism is clearly evidenced by Abhinavagupta addressing him respectfully as 'teacher',' even though throughout his works he consistently relegates Vaisnavism to a lower level than Saivism as a whole and particularly that of his own Saiva traditions.2 In short, Vamanadatta's work, despite its divergence in certain respects from Saiva monism - particularly with regard to the ultimacy of the ego-sense - still remains, nonetheless, highly compatible with it. The extensive use Bhagavadutpala makes of the Samvitprakāśa as a source of references in his commentary on the Spandakarikā clearly exemplifies how Vamanadatta's work can serve to bridge the gap between Saivism and Vaisnavism in the Kashmiri Saiva context. Bhagavadutpala, as his ancestry and traditional appellation - Utpala Vaisnava - suggest, had strong ties with the
+
+   ?
+
+   Ahirbudhayasamhita quoted by Natatur Animal (= Vatsya Varadācārya) must have been composed between 1100 and 1200 in South India because the mantras of the Yajurveda quoted in them belong to the Taittiriya recension peculiar to the Southern tradition after the 10th century.
+
+1. T.A., 5/155a, see above, p. 5 n.1.
+
+2. I will deal with the relationship between Kashmiri Saivism and Vaisnavism in the  to my forthcoming book of translations from the Spanda tradition of Kashmiri Saivism to be published by the State University of New York Press, Albany. One or two remarks will suffice here. Abhinavagupta devotes the 35th chapter of his Tantraloka to the relationship he believes exists between the various scriptural traditions as taught him by Sambhunatha, his Trika teacher (T.A., 35/44b ). There he uncompromisingly declares that:
+
+   In order to achieve the various fruits more or less perfect of duty (dharma), profit (artha), sexual pleasure (kama) and liberation (mokṣa), there is only one means, namely, the Saivagama" (ibid., 35/24). Abhinava agrees that teachings are diverse but they also yield different fruits at differing levels so that those at a lower level cannot yield the fruits of a higher one: "The various forms such as Visnu etc. which God assumes are due to his self-differentiation and, as such, that is, due to this differentiation, are on the plane of Maya. The 'descents of power (saktipata) which do undoubtably occur as associated with these limited forms therefore bestow only die fruits proper to them but not, ultimately, identification with Siva." (ibid., 13/2681-70a, cf. ibid., 35/29).
+
+   
+
+   27
+
+   Vaisnava community although he was undoubtedly a Saivite when he wrote his commentary.' Vamanadatta's work served his purpose admirably, for here was a text that he could freely quote that would find approval by both groups and so link together more closely the Pancaratra and Saiva sources that he freely quotes without deference to one or the other in an attempt to establish that the doctrine of the Spandakārikā is taught in both.
+
+   Apart from these general, pervasive Saiva influences that can be discerned in Vamanadatta's work, we find more specific references which show that Vamanadatta accepted the more esoteric, strongly Sakta oriented Saiva traditions prevalent in Kashmir, namely, those of the Krama school. Thus, for example, we can discern clear traces of Krama notions in the following passage:
+
+   "O Lord, the abiding condition of all things is that of Your own immutable nature simultaneously (manifest everywhere ), it can be known by means of its progressively mutating nature (kramasvarupa) (that is such without thereby) running contrary to the simultaneity (of the immediacy of Being). Simancity is possible in the absence of progressive change (krama) which in its turn ( is possible only) in the absence of the former. Thus, as they are mutually contradictory, they cannot arise from one another. So, in this way, those who have realised the ultimate truth know that You manifest Your self-luminous conscious nature as the state of mutual dependence (between these polarities and all things)."2
+
+   This way of understanding the fundamental polarities of existence as progression-krama -versus simultaneity - yaugapadya, is typical of Krama absolutism which views the absolute as dynamic consciousness that, forming itself into all things, is the entire process of creation, persistence and destruction while standing beyond them in a fourth ineffable - anakhya - state in which consciousness is at once all of them simultaneously. From this point of view, the ineffability and absolute nature of
+
+1. The reader is again referred to the  of my forthcoming ok for
+
+   further details and references.
+
+2. S.P., 1/66-8.
+
+   -0
+
+   28
+
+   SAMVIIprakāśaN
+
+   consciousness, the one reality, lies in its being this progression without, even so, changing. This position is summed up by Abhinava when he says: "the pure principle of consciousness transcends all talk of succession (krama) or its absence (akrama)."
+
+   There is one place in Vamanadatta's work where his Krama leanings are made fully explicit. In the beginning of the fourth section he makes a plea for tolerance, insisting that, although Visnu's energy assumes various names and forms according to different schools of thought, one cannot say that these differences correspond to separate principles or, for that matter, that they do not. This is, anyway, of no importance, that which one should abandon is not a view but karma which is binding and that which is to be taken up is the pure consciousness of the subject. He concludes that this power is:-
+
+   "One and abides in many states as both mobile and motionless. She rests on the foundation of time which is the twelve - petal lotus and by her progressive differentiation (kalana), She, Kalakarṣini, makes her (etemal) Time manifest as having assumed the form of (temporal) time by means of the generation and destruction of (all) existing things."2
+
+   Kalakarṣini, also called Kalasamkarsini, is well known as a form of Kali venerated in the Krama school. Her association with the twelve-petelled lotus described as the foundation of time is possibly a reference to the cycle of twelve Kalis that lies at the core of Krama mysticism.
+
+   Important also as indicative of Vamanadatta's non-Vaisnava influences is his representation of the arising and falling away of images within consciousness as a discontinuous process: there is a gap between the arising of one form and the falling away of another. The attentive soul who can catch this moment and the centre between one perception and the next, no longer feels the bondage of the illusory play of Maya through the activity of thought but experiences it all as the pure expansion of
+
+1. T.A.. 4/180ab.
+
+2. S.P., 4/1.2-3.
+
+   
+
+   29
+
+   consciousness. We can compare this view with Kṣemaraja who
+
+   says:
+
+   "This supreme plane of awareness consists of all the powers (of consciousness) pulsing in unity. Although actually manifest to all constantly, on the plane of Maya it does not sustain a firm realisation of consciousness within oneself. Even there, however, it is clearly manifest at every junction (between cognitions)."2
+
+   In the centre between perceptions the attentive soul can experience the pure indeterminate awareness ( nirvikalpa) that serves as the basis of determinate perception as its source, resting place and end. In the centre abides what Vamanadatta calls 'pure experience' Suddhanubhava 3, that is, the fundamental self- awareness (svasamvedana) through which consciousness is perceived and is the basis of all knowledge which Kashmiri Saivites identify, as we have already noted, with absolute "I" consciousness.
+
+   Finally, it is important to stress that despite the powerful influence Saiva monism apparently exerted on Vamanadatta he remains thoroughly Vaisnava throughout his work. Visnu is his sole object of devotion which he also worships as his incarnations that he understands as hypostheses or aspects of consciousness and its manifestations. His Pañcaratra associations are also clearly evident from his presentation of the four vyuhas - Vasudeva, Samkarṣaṇa, Pradyumna and Aniruddha, to which he assigns mystic centres in the body as part of a developing praxis in which their association with their energies plays a prominent role.5 Indeed, despite the space Vamanadatta dedicates in his work to establishing, even as he praises Visnu, that consciousness alone, free of all diversity and subject - object distinctions, is ultimately real, his primary concern is with practice. Thus not only does he dedicate space to a description of the yogic centres and channels in the body viewed from the perspective of his sophisticated
+
+1. Ibid., 1/4 and 1/41-44.
+
+2. Sp. Sam., p. 6, see P.T.V., p. 106 ff. where Abhinava deals with this
+
+   practice extensively.
+
+3. S.P., 1/41.
+
+4. Ibid., 1/125 ff.
+
+5. Ibid., 4/61ff.
+
+   30
+
+   SAMVIIprakāśaIL
+
+   idealism, he also devotes the entire fifth chapter to an analysis of the phonemes as vital components of Mantra and vehicles of the sound (nada) or word (sabda) energy of consciousness which he identifies with the syllable Om and that make Mantras powerful and cosmically significant as incorporating within themselves the energies of all manifestation and what lies in the transcendent beyond it. This concern fits naturally with Vamanadatta's recurrent references to Speech (vāc), its levels, forms and nature. Here he deals with a common concern of both Saivites and Vaisnavas discussed not only in their secondary śastric traditions but also in the primary scriptures of both groups.
+
+   To conclude we can say that the discovery and edition of Vamanadatta's work may well serve as a stimulus for further research into the interaction between Saivism and Vaisnavism in general and, more specifically, between their monistic forms. Thus a work like Bhaskara's Kakṣyastotra evidences, in the passages quoted from it, signs of the author's attempts to integrate certain basic Pañcarātra notions into his Saiva monism. Other works, like the Cicchaktisamstuti,2 that we know of only from quotations, exhibit a sort of intermediary character. This text, focusing on sakti, draws from both Saiva and Vaisnava ideas to support its Sakta monism. Again, although the Paramarthasara draws its inspiration from other sources to develop its monism, its existence is a further indication that, although less extensive than their Saiva equivalents, Vaisnava monisms deserve to be carefully researched and not only in the works of known authors but, more especially, in the original Piñcaratra scriptures amongst which some, particularly the Ahirbudhnyasamhita and the Lakṣmitantra, exhibit marked Saiva influences.
+
+   A.K.
+
+   T.A.
+
+   P.S.
+
+   List of Abbreviations
+
+   Adhārakārikā
+
+   Tantraloka
+
+   Paramarthasara
+
+1. I am thinking here particularly of the verses from the Kaksyāstotra quoted
+
+   in Sp. Pra., p. 103.
+
+2. Quoted ibid., p., 87 and p., 113.
+
+   P.T.V.
+
+   M.M.
+
+   L.T.
+
+   L.A.S.
+
+   V.B.
+
+   S.P.
+
+   Sp.Nir.
+
+   Sp. Pra. Sp.Sam.
+
+   
+
+   Paratriśikāvivarana
+
+   Mahārthamañjari
+
+   Lakṣmitantra
+
+   Luplagamasamgraha
+
+   Vijnanabhairava
+
+   Samvitprakāśa
+
+   Spandanimaya
+
+   Spandapradipikā
+
+   Spandasamdoha
+
+   Appendix
+
+   31
+
+   The Lakṣmitantra and the Samvitprakāśa
+
+   Listed below are the verses in chapter fourteen of the Lakṣmitantra that are related to those of the Samvitprakāśa.
+
+1) L.T. 14/8ab rcads :
+
+   नीले पीते सुखे दुःखे चित्स्वरूपमखण्डितम् ।
+
+   S.P. quoted in T.A., 5/154 cd reads संविद्रूपम् in the place of चित्स्वरूपम् this verse quoted in Sp. Pra, p. 96, agrees with the L.T. cxactly.
+
+2) L.T. 14/9-10 : विकल्पोऽपि हि मद्रूपं स्वाच्छन्द्यादेव निर्मितम् ।
+
+   चेत्यं विकल्प्यते येन बहिरन्तर्व्यवस्थया
+
+   न बहिर्नैव चान्तस्तच्चिद्रूपं मम तत् परम् वेद्यवेदकरूपेण भेद्यते मे स्वयं तया
+
+   ॥
+
+   1
+
+   ॥
+
+   Cf. S.P., 1/1-2. Although these verses are substantially different in the L.T their common form with the S.P. is still clearly discernable.
+
+3) L.T., 14/11 corresponds to S.P., 1/3, only the fourth pada
+
+   contains variants, L. T. reads :
+
+   and S.P.:
+
+   ..रूपं तच्चेत्यतां गतम् ।
+
+   ...........नौ मि
+
+   नौमि तद् वैष्णवं पदम् ||
+
+4) L.་., 14/12:
+
+   Cf., S.P., 1/4.
+
+   दूरापास्तविकल्पेन चेतसा यत्र भूयते मध्यमां वृत्तिमास्थाय चेत्यं संवित्तया तदा ॥
+
+   |
+
+   32
+
+5) L.T., 14/13:
+
+   CI., S.P., 1/9.
+
+6) L.T., 14/14:
+
+   SAMVITprakāśaH
+
+   यथा चक्षुः स्थितं रूपं बाह्ये स्वं रूपमीक्ष्यते । तथा ज्ञानस्थितं रूपं ज्ञेये स्वं रूपमीक्ष्यते
+
+   ॥
+
+   यथा वह्निसमाविष्टं काष्ठं तद्रूपमीक्ष्यते
+
+   तथा संवित्समाविष्टं चेत्यं संवित्तयेक्षते
+
+   ॥
+
+   Cr. S.P., 1/9ab:
+
+   ॥
+
+   यथाग्निना समाविष्टं सर्वं तद्रूपमीक्ष्यते
+
+   The second line is not found in the extant manuscripts of the Samvitprakāśa, when Bhagavadutpala quotes this verse in Sp. Pra., p. 112 he supplies the second line which reads there:
+
+   तथा ज्ञानसमाविष्टं सर्वं तद्रूपमीक्ष्यताम्
+
+7) L.T., 14/15:
+
+   CI. S.P., 1/24:
+
+   वेद्यं वेदनतां नीत्वा यदा वेत्त्रा निरूप्यते । तदा वित्तिमयी साहं प्रत्यक्षा स्फुटभासिनी ॥
+
+   वेद्यं स्वरूपतां नीत्वा यदा जानाति वेदनम् ।
+
+   11
+
+   तदानीं वेद्यता का स्यात् का वा वेदनता परा ॥
+
+   Note that the manuscripts of the Samvitprakāśa read al instead of वेदनता, the latter reading is found in Sp. Pra., p. 89 and is decidedly better and so has been adopted.
+
+8) L.T., 14/18ab:
+
+   मद्ध्यानामृतनिष्यन्दक्षालिताशेषवासनाः
+
+   Cr. S.P., 1/26 ab:
+
+9) L.T., 14/19:
+
+   Cf. S.P., 1/28
+
+   |
+
+   त्वद्ध्यानामृतनिःष्यन्दनिःशेषशालिने नमः ॥
+
+   मम चित्तैकरूपाया वेद्यवेदकतां जनाः अविद्ययैव मन्यन्ते मत्संकल्पितया पुरा
+
+   तवाचित्रैकरूपस्य वेद्यवेदकतामयी
+
+   ||
+
+   नाथ मिथ्यैव मन्यन्ते सत्यचिन्मात्ररूपिणः ॥
+
+   Note that MSS A, D, E and G of the L.T. read in the
+
+   This reading is clearly closer to the S.P.
+
+   place of fra
+
+   100 L.T., 14/20b:
+
+   नं शान्ता नोदिता नापि मध्यमाहं स्वरूपतः ।
+
+   Cf. S.P., 1/28 cd:
+
+11) L.T., 14/21:
+
+    
+
+    न शान्तमुदितं नापि तव रूपं न मध्यमम्
+
+    परित्यक्तविभागेन निस्तरङ्गेण चेतसा ज्ञाये विकल्प्यमाना तु प्रत्यक्षाप्यस्मि विस्मृता ॥
+
+    cf. S.P., 1/34 cd - 35 ab:
+
+    परित्यक्तविभागेन ज्ञायसे न विकल्पसे ॥ विकल्पातीतरूपत्वात् प्रत्यक्षाऽप्यसि विस्मृतः ।
+
+12) L.T., 14/22ab:
+
+    पुरः
+
+    स्थितो यथा भावश्चेतसोऽन्याभिलाषिणः । This line corresponds to S.P., 1/35 cd. 13) L.T., 14/25:
+
+    S.P., 1/40
+
+14) L.T., 14/27:
+
+    S.P., 1/43
+
+15) L.T., 14/28
+
+    यथा जात्या सितं वस्त्रं रक्तं रागेन केनचित् । पुनः स्ववर्णमप्राप्य नैव रागान्तरं श्रयेत्
+
+    ॥
+
+    The first line is identical, the second reads: तत्पदप्राप्तशुक्लत्वं पुना रागान्तरं श्रयेत्
+
+    तथैवोच्चारयन् वाक्यं वर्णाद् वर्णं कथं व्रजेत् । यदि मध्ये न विश्रान्तो मयि शुद्धचिदात्मनि ॥
+
+    अयमुच्चारयन् वाक्यं वर्णाद् वर्ण कथं व्रजेत् । यावन्मध्ये न विश्रान्तस्त्वयि शुद्धचिदात्मनि ॥
+
+    एवं शुद्धा स्वतन्त्रापि यदाकारोपरागिणी तत्त्यागापरसंचारा मध्ये शुद्धैव भाम्यहम्
+
+    1
+
+    33
+
+    S.P., 1/44 reads fafastar in the place of aft and farsf
+
+    for भाम्यहम्
+
+16) L.T. 14/29 coincides with S.P., 1/45 L. T. reads:
+
+    अग्नीषोमेन्धनो,
+
+17) L.T., 14/30:
+
+    S.P., 1/46:
+
+    S.P.: अग्नीषोमेश्वरो
+
+    धिया ध्येयमनालम्ब्य विषयं चास्पृशन् बहिः । यदन्तरा वेदयते तन्मे रूपमनाकुलम्
+
+    भिमादमा
+
+    पदमारा वेदयते तत् रूपराव निर्मलम्
+
+    34
+
+    SAMVIIPRAKĀSAH
+
+18) L.T., 14/35:
+
+    S.P., 1/52:
+
+19) L.T., 14/36:
+
+    S.P., 1/53:
+
+20) L.T., 14/38:
+
+    S.P., 1/57ab:
+
+    1/56cd:
+
+21) L.T., 14/39:
+
+    S.P., 1/57:
+
+22) L.T., 14/45:
+
+    S.P., 1/70:
+
+    भावैर्विना यथा भानुः समुदेति नभःस्थले वेद्यैर्विनैव मे रूपमेवं प्रद्योतते स्वयम्
+
+    I
+
+    समुदेति यथा भावान् विना भानुर्नभस्तले । वेद्यं विनैव भगवन् भवान् केन हृतोदयः ॥
+
+    अत्यन्ताच्छस्वभावत्वात् स्फटिकादिर्यथा मणिः । अपरक्तो जपाद्यैस्तु स्वेन रूपेण नेक्ष्यते
+
+    अत्यन्ताच्छस्वभावत्वात् स्फटिकस्य यथा स्वकम् । रूपं परोपरक्तस्य नित्यमेवोपलभ्यते
+
+    कुण्डलादेर्यथा भिन्ना न लक्ष्या कनकस्थितिः न च शक्या विनिर्देष्टुं तथाप्यस्त्येव सा ध्रुवम्
+
+    यथोद्धृतकुण्डलादेः कनकस्य स्वयं स्थितिः ।
+
+    पृथङ्न शक्या निर्देष्टुं न च तत्रास्ति तावता ||
+
+    एवं नित्या विशुद्धा च सुखदुःखाद्यभेदिता । स्वसंवदनसंवेद्या मम संविन्मयी स्थिति:
+
+    एवं नित्या निजा शुद्धा सुखदुःखनिषेधनात् । स्वसंवेदनसंवेद्या तव संविन्मयी स्थिति: ॥
+
+    काप्यवस्था न मे सास्ति यस्यां संविन्न वर्तते । तेऩ मां चिद्धनामेकां सर्वाकारामुपासते
+
+    ॥
+
+    काप्यवस्था न ते सास्ति यस्यां संविन्न वर्तते । तेन चिद्धनमेव त्वां योगिनः पर्युपासते
+
+    ॥
+
+    ||
+
+    Now that the Lakṣmitantra has been established to be of South Indian origin and as not being older than the 12th century (sce above, p. 27 n. 6) there can be no doubt that it has borrowed from the Samvitprakāśa and not the other way round. This fact serves to indicate that even though Vamanadatta's work was not generally well known outside Kashmir it did travel to the South of
+
+    
+
+    35
+
+    its citation in Maheśvarananda's Mahārthamanjari, composed in South India in the 13th century, further con rms. Moreover, the compatibility of the views of the Samvip. anasa with those of the Lakṣmitantra, despite certain important differences, indicates how this kind of monistic Vaisnavism found substantial acceptance- amongst sonic Pañcarātring.
+
+    The Samvitprakāśa Ouoted in Other Sources
+
+    Listed below are the verses which are quoted from the Samvitprakāśa in other texts:
+
+    Chapter I
+
+    Verse
+
+    10
+
+    12
+
+    13
+
+    20
+
+    24
+
+    Source
+
+    Sp. Pra., p. 112. Sp. Pra, p. 111.
+
+    V.B 109, St. Ci., p. 83.
+
+50. 120.
+
+Sp. ra., p. 120. Sp. Pra., p. 89.
+
+30-31
+
+Sp. Pra., p. 111.
+
+37-38ab
+
+Sp. Pra., p. 111.
+
+41-42
+
+Sp. Pra., p. 96.
+
+44
+
+Sp. Pra., p. 96.
+
+48-49
+
+Sp. Pra., p. 96.
+
+52
+
+53-5
+
+56-57
+
+70
+
+76-8
+
+Sp. Pra., p. 97. Sp. Pra., p. 95-6. Sp. Pra., p. 97. Sp. Pra., p. 104. Sp. Pra., p. 87. Sp. Pra., p. 90,114.
+
+93
+
+100cd-102ab
+
+Sp. Pra., p. 100.
+
+104cd-106ab
+
+Sp. Pra., p. 85.
+
+109 cd-111ab
+
+Sp. Pra., p. 93.
+
+Chapter 2
+
+18cd-19ab
+
+55555
+
+30
+
+45
+
+58
+
+Sp. Pra., p. 89. P.T.V., p. 83. Sp. Pra., p. 114. Sp. Pra., p. 88.36
+
+SAMVITprakāśaII
+
+Chapter 3
+
+2
+
+M.M., p. 25.
+
+27
+
+M.M., p. 25.
+
+Chapter 5
+
+26
+
+Sp. Pra., p. 89, 125.
+
+Other possible quotes:
+
+1) Sp. Nir., p. 48:
+
+   भदृश्रीवामेननाप्युक्तम् -
+
+   आलम्ब्य संविदं यस्मात्संवेधे न स्वभावतः | तस्मात्संविदितं सर्वमिति संविन्मयो भवेत् ॥
+
+2) M.M., p. 109, P.S., p. 146, in the latter we read: यथाह
+
+   भट्टश्रीवीरवामनकः
+
+   यत्रेन्धनं द्वैतवनं मृत्युरेव महापशुः अलौकिकेन यज्ञेन तेन नित्यं यजामहे ||
+
+3) T.A., 5/154cd-5ab:
+
+   I
+
+   नीले पीते सुखे दुःखे संविद्रूपमखण्डितम् । गुरुभिर्भाषितं तस्मादुपायेषु विचित्रता ||
+
+   Jayaratha cornments:
+
+   'गुरुभिः' वामनदत्ताचार्येण भाषितमिति संवित्प्रकाशे || The verse is found “omplete in Sp. Pra., p. 96: नीले पीते सुखे दुःखे चित्स्वरूपमखण्डितम् | विशिनष्टि विकल्पस्तच्चित्रयोपाधिसम्पदा ||
+
+   37
+
+   BIBLIOGRAPHY
+
+   Tantraloka by Abhinavagupta (12 vol.) with viveka by Jayartha. Part 1 edited by M.R. Sastri. Parts 2-12 edited by M.S. Kaul, K.S.T.S., no. 23, 1918; 28, 1921; 30, 1921; 36, 1922; 35, 1922; 29, 1921; 41, 1924; 47, 1926; 59, 1933; 57, 1936 and 57, 1938.
+
+   Paramarthasara by Abhinavagupta with vivṛti by Yogaraja. K.S.T.S., no. 7, 1916. Edited by J.C. Chatterjee. Paramarthasara by Adiśeşa with vivarana by Raghavananda. Acyutagranthamālā vol. 9. Vidyavilāsa Press, Varanasi, 1989. Edited by Surya Nārāyaṇa Śukla.
+
+   Paratriśikāvivarana by Abhinavagupta. K.S.T.S., no. 18, 1918. Edited by M.S. Kaul.
+
+   Mahārthamañjarī and parimala by Maheśvarananda. Yogatantragranthamālā, no. 5. Benares, 1972. Edited by Vrajavallabha Dviveda.
+
+   Lakṣmitantra. The Adyar Library Series vol. 87, 1975, the Vasanta Press, Adyar. Edited with Sanskrit gloss and  by V. Krishnamacharya.
+
+   2,
+
+   Luptagamasamgraha. Part 1 collected and edited by Gopinatha Kaviraja. Yogatantragranthamālā no. Varanasi, 1970; part 2 collected and edited by Vrajavallabha Dviveda. Yogatantragranthamālā no. Varanasi, 1983.
+
+   Vijñānabhairava with commentaries by Kṣemarāja (incomplete) and Sivopadhyāya. K.S.T.S., no. 1918. Edited by M.R. Śastri.
+
+   Spandakārikā with vṛtti by Kallaṭabhatta. K.S.T.S., no. 5, 1916. Edited by J.C. Chatterjee.
+
+   Spandanirnaya by Kṣemaraja. K.S.T.S., no. 43, 1923. Edited with English translation by M.S. Kaul.
+
+   38
+
+   Spandapradipika by Bhagavadutpala. Published in the Tantrasamgraha vol. 1. Yogatantragranthamāla no. 3 pp. 83-128. Edited by G. Kaviraja, Benares, 1970.
+
+   Spandasamdoha by Kṣemaraja. K.S.T.S., no. 43, 1925. Edited by M.R. Śāstrī. 
+
