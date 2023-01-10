@@ -16,7 +16,7 @@ The Sanskrit text edited and published here for the first time of the Saṁvitpr
 
 Although a Vaiṣṇava text, the idealist monism it presents is in many respects parallel to its Kashmiri Śaiva cquivalents. One could go so far as to say that just as we refer to the Śaiva monism that developed in Kashmir between the 9th and 11th centuries as Kashmiri Śaivism, we can analogously refer to the system expounded in this text, which was written in Kashmir probably sometime during the same period, as a form of Kashmiri Vaisnavism. The similarities in style and conception between the Saṁvit-prakāśa and Kashmiri Śaiva literature in general makes this work an object of study for the modem scholar of Kashmiri Śaivism just as it was for Kashmiri Śaivites in the past. Thus, prior to its recovery in manuscript, we knew of the existence of the Saṁvit-prakāśa almost exclusively through quotation in Kashmiri Śaiva sources,[^1] where references appear alongside those drawn from Śaiva works with no incongruity.[^2]
 
-[^1]: Dvivedi notes that Vāmanadana's Saṁvitprakāśa is mentioned by Devaraja, a commentator on the Nighantu. L.A.S.. II p. 73 with reference to Aufrecht, I p. 681.
+[^1]: Dvivedi notes that Vāmanadana's Saṁvitprakāśa is mentioned by Devarāja, a commentator on the Nighantu. L.A.S.. II p. 73 with reference to Aufrecht, I p. 681.
 
 [^2]: The quotations drawn from the Saṁvitprakāśa found in Kashmiri Śaiva sources are listed below, p. 34-5.
 
@@ -160,15 +160,19 @@ All we know about Vāmanadatta is what he himself tells us in this, his only rec
 
 [[7]]
 
-Anyway, this text, which seems to have      originally been a commentary on the Vijñānabhairava or, at any rate dedicates space to commenting on a verse from it, is entirely Śaiva. Similar considerations cast doubt on the identity of our Vāmanadatta with the author of the Svabodhodayamañjari. The author of this short but interesting yogic tract, cast in the style of the Vijnañabhairava, identifies himself as Vāmanadatta, the son of Harṣadatta.2 Thus, there can be no doubt that there were at least two Vāmanadatta's known to Kashmiri Śaiva authors by Abhinavagupta's time.
+Anyway, this text, which seems to have originally been a commentary on the Vijñānabhairava or, at any rate dedicates space to commenting on a verse from it, is entirely Śaiva. 
 
-   Again, Yogaraja quotes a verse as being by Viravamaka. which translated reads: "We worship (the deity) incessantly by means of the transcendental fire sacrifice in which the fuel is the forest of duality and death itself the human victim (mahāpaśu)."3
+Similar considerations cast doubt on the identity of our Vāmanadatta with the author of the Svabodhodayamañjari. The author of this short but interesting yogic tract, cast in the style of the Vijnañabhairava[^7-1] identifies himself as Vāmanadatta, the son of Harṣadatta.[^7-2] Thus, there can be no doubt that there were at least two Vāmanadatta's known to Kashmiri Śaiva authors by Abhinavagupta's time.
 
-   Although this verse cannot be traced in the manuscripts of the Saṁvitprakāśa, they are incomplete and it could, anyway, have been drawn from another work by our Vāmanadatta. However, this does not seem very likely in so far as the form of the 'transcendental fire sacrifice' is drawn from a nodel that is clearly more Śaiva then Vaiṣṇava. The word 'vira' in the author's name
+Again, Yogarāja quotes a verse as being by Viravamaka. which translated reads: 
+
+> "We worship (the deity) incessantly by means of the transcendental fire sacrifice in which the fuel is the forest of duality and death itself the human victim (mahāpaśu)."[^7-3]
+
+Although this verse cannot be traced in the manuscripts of the Saṁvitprakāśa, they are incomplete and it could, anyway, have been drawn from another work by our Vāmanadatta. However, this does not seem very likely in so far as the form of the 'transcendental fire sacrifice' is drawn from a nodel that is clearly more Śaiva then Vaiṣṇava. 
 
 
 
-1. The Svabodhodayamanjari is quoted in Sp. Pra. p. 126 and in T.A., vol. II, p. 4. A number of manuscripts of this text are available under various names including 'Svabodhamañjari' and 'Subodhamanjari. Iwo manuscripts are deposited in the Central Library in B.H.U. numbered C 4255 and CIOO. This text, which is well work editing, is typical of a class of short tracts dealing with monistic Yoga of the type found in the Vijñānabhairava. Another such text is the Nirvanayogottara quoted by Yogaraja in his commentary on the Paramarthasara (p. 160), a manuscript of which is deposited in the Central Library in Ft. (no. C 4246). 2. The colophon of B.H.U. manuscript no. C 4255 reads:
+[^7-1]: The Svabodhodayamañjari is quoted in Sp. Pra. p. 126 and in T.A., vol. II, p. 4. A number of manuscripts of this text are available under various names including 'Svabodhamañjari' and 'Subodhamañjari. Iwo manuscripts are deposited in the Central Library in B.H.U. numbered C 4255 and CIOO. This text, which is well worth editing, is typical of a class of short tracts dealing with monistic Yoga of the type found in the Vijñānabhairava. Another such text is the Nirvāṇayogottara quoted by Yogarāja in his commentary on the Paramarthasara (p. 160), a manuscript of which is deposited in the Central Library in Ft. (no. C 4246). 2. The colophon of B.H.U. manuscript no. C 4255 reads:
 
    मीमांसावर सिंहश्च ( स्य ) हर्षदत्तस्य सुनूनां ।
 
@@ -176,11 +180,9 @@ Anyway, this text, which seems to have      originally been a commentary on the 
 
 3. P.S., p. 146. Quoted below, p. 36.
 
-   8
+[[8]]
 
-   SAMVIIprakāśaII
-
-   lends further weight to the view that this verse is drawn from a work written by a Śaiva, rather than Vaiṣṇava, author. Thus, it is not at all certain whether ViraVāmanaka and our Vāmanadatta were the same person. The same uncertainty prevails concerning Abhinavagupta's reference to a Vāmanaka as one of his teachers in the Tantraloka. Although Abhinavagupta does refer to Vāmanadatta with respect in one place as 'guru' he may simply mean that he was one of his venerable predecessors or elder contemporaries rather than literally his teacher. However, even though Abhinavagupta was averse to Vaiṣṇavas, as are Śaivites in general, he was prepared to concede that the views of others were valuable even if they taught what he considered to be lower doctrines. Thus he wrote that: "I myself, for this very reason, have frequented, moved by curiosity for lower doctrines and scriptures, masters of all sorts, logicians, Vedic scholars, Buddhists, Jainas and Vaiṣṇavas etc.."2 Perhaps Vāmanadatta was one of these Vaiṣṇava teachers to whom Abhinava refers. If so, Vāmanadatta was his elder contemporary thus placing him in the beginning of the eleventh century. Again, Bhagavadutpala quotes Vāmanadatta frequently and, although his date is uncertain, we can be sure that he was not prior to Utpaladeva, Abhinava's grand-teacher, as he also quotes from his Iśvarapratyabhijñākārikā in a number of places.3 But although we can thus be sure that Vāmanadatta was not later than Abhinavagupta there is no certain evidence available at present to establish a minimum date for him. Even so, it seems to me that Vāmanadatta was probably either an elder contemporary of Abhinavagupta or belonged to the generation just preceding him. At any rate, there seems no reason to doubt that he lived and wrote in Kashmir sometime between the 9th and 12th century, that is, during the period of Kashmiri Śaivism's most vigourous growth. This was a period during which such a large number of Kashmiri scholars and religious men turned their attention to writing and teaching that in many
+The word 'vira' in the author's name   lends further weight to the view that this verse is drawn from a work written by a Śaiva, rather than Vaiṣṇava, author. Thus, it is not at all certain whether ViraVāmanaka and our Vāmanadatta were the same person. The same uncertainty prevails concerning Abhinavagupta's reference to a Vāmanaka as one of his teachers in the Tantraloka. Although Abhinavagupta does refer to Vāmanadatta with respect in one place as 'guru' he may simply mean that he was one of his venerable predecessors or elder contemporaries rather than literally his teacher. However, even though Abhinavagupta was averse to Vaiṣṇavas, as are Śaivites in general, he was prepared to concede that the views of others were valuable even if they taught what he considered to be lower doctrines. Thus he wrote that: "I myself, for this very reason, have frequented, moved by curiosity for lower doctrines and scriptures, masters of all sorts, logicians, Vedic scholars, Buddhists, Jainas and Vaiṣṇavas etc.."2 Perhaps Vāmanadatta was one of these Vaiṣṇava teachers to whom Abhinava refers. If so, Vāmanadatta was his elder contemporary thus placing him in the beginning of the eleventh century. Again, Bhagavadutpala quotes Vāmanadatta frequently and, although his date is uncertain, we can be sure that he was not prior to Utpaladeva, Abhinava's grand-teacher, as he also quotes from his Iśvarapratyabhijñākārikā in a number of places.3 But although we can thus be sure that Vāmanadatta was not later than Abhinavagupta there is no certain evidence available at present to establish a minimum date for him. Even so, it seems to me that Vāmanadatta was probably either an elder contemporary of Abhinavagupta or belonged to the generation just preceding him. At any rate, there seems no reason to doubt that he lived and wrote in Kashmir sometime between the 9th and 12th century, that is, during the period of Kashmiri Śaivism's most vigourous growth. This was a period during which such a large number of Kashmiri scholars and religious men turned their attention to writing and teaching that in many
 
 1. आह अन्येऽपि धर्मशिववामनकोद्भट श्रीभूतेशभास्करमुखप्रमुखा महान्तः॥
 
@@ -650,7 +652,7 @@ Here we notice a radical departure from the Śaiva phenomenology of Utpaladeva. 
 
    29
 
-   consciousness. We can compare this view with Kṣemaraja who
+   consciousness. We can compare this view with Kṣemarāja who
 
    says:
 
@@ -986,7 +988,7 @@ Here we notice a radical departure from the Śaiva phenomenology of Utpaladeva. 
 
     35
 
-    its citation in Maheśvarananda's Mahārthamanjari, composed in South India in the 13th century, further con rms. Moreover, the compatibility of the views of the Samvip. anasa with those of the Lakṣmitantra, despite certain important differences, indicates how this kind of monistic Vaisnavism found substantial acceptance- amongst sonic Pañcarātring.
+    its citation in Maheśvarananda's Mahārthamañjari, composed in South India in the 13th century, further con rms. Moreover, the compatibility of the views of the Samvip. anasa with those of the Lakṣmitantra, despite certain important differences, indicates how this kind of monistic Vaisnavism found substantial acceptance- amongst sonic Pañcarātring.
 
     The Saṁvitprakāśa Ouoted in Other Sources
 
@@ -1124,7 +1126,7 @@ Other possible quotes:
 
    Tantraloka by Abhinavagupta (12 vol.) with viveka by Jayartha. Part 1 edited by M.R. Sastri. Parts 2-12 edited by M.S. Kaul, K.S.T.S., no. 23, 1918; 28, 1921; 30, 1921; 36, 1922; 35, 1922; 29, 1921; 41, 1924; 47, 1926; 59, 1933; 57, 1936 and 57, 1938.
 
-   Paramarthasara by Abhinavagupta with vivṛti by Yogaraja. K.S.T.S., no. 7, 1916. Edited by J.C. Chatterjee. Paramarthasara by Adiśeṣa with vivarana by Raghavananda. Acyutagranthamālā vol. 9. Vidyavilāsa Press, Varanasi, 1989. Edited by Surya Nārāyaṇa Śukla.
+   Paramarthasara by Abhinavagupta with vivṛti by Yogarāja. K.S.T.S., no. 7, 1916. Edited by J.C. Chatterjee. Paramarthasara by Adiśeṣa with vivarana by Raghavananda. Acyutagranthamālā vol. 9. Vidyavilāsa Press, Varanasi, 1989. Edited by Surya Nārāyaṇa Śukla.
 
    Parātriśikāvivarana by Abhinavagupta. K.S.T.S., no. 18, 1918. Edited by M.S. Kaul.
 
@@ -1134,17 +1136,17 @@ Other possible quotes:
 
    2,
 
-   Luptagamasamgraha. Part 1 collected and edited by Gopinatha Kaviraja. Yogatantragranthamālā no. Varanasi, 1970; part 2 collected and edited by Vrajavallabha Dviveda. Yogatantragranthamālā no. Varanasi, 1983.
+   Luptagamasamgraha. Part 1 collected and edited by Gopinatha Kavirāja. Yogatantragranthamālā no. Varanasi, 1970; part 2 collected and edited by Vrajavallabha Dviveda. Yogatantragranthamālā no. Varanasi, 1983.
 
    Vijñānabhairava with commentaries by Kṣemarāja (incomplete) and Sivopadhyāya. K.S.T.S., no. 1918. Edited by M.R. Śastri.
 
    Spandakārikā with vṛtti by Kallaṭabhatta. K.S.T.S., no. 5, 1916. Edited by J.C. Chatterjee.
 
-   Spandanirnaya by Kṣemaraja. K.S.T.S., no. 43, 1923. Edited with English translation by M.S. Kaul.
+   Spandanirnaya by Kṣemarāja. K.S.T.S., no. 43, 1923. Edited with English translation by M.S. Kaul.
 
    38
 
-   Spandapradīpikā by Bhagavadutpala. Published in the Tantrasamgraha vol. 1. Yogatantragranthamāla no. 3 pp. 83-128. Edited by G. Kaviraja, Benares, 1970.
+   Spandapradīpikā by Bhagavadutpala. Published in the Tantrasamgraha vol. 1. Yogatantragranthamāla no. 3 pp. 83-128. Edited by G. Kavirāja, Benares, 1970.
 
-   Spandasamdoha by Kṣemaraja. K.S.T.S., no. 43, 1925. Edited by M.R. Śāstrī. 
+   Spandasamdoha by Kṣemarāja. K.S.T.S., no. 43, 1925. Edited by M.R. Śāstrī. 
 
