@@ -213,65 +213,91 @@ But although we can thus be sure that Vāmanadatta was not later than Abhinavagu
 ## The Vaiṣṇava Monism of the Saṁvitprakāśa 
 Saṁvitprakāśa, the title of the first chapter, coincides, as we have seen, with the name of the entire text and, in fact, the symbolic notion of consciousness as luminous is indeed one of the major themes of the text as a whole and of the first chapter in particular. Vāmanadatta, like the Pratyabhijñā philosopher, Utpaladeva, makes extensive use of this analogy thus imparting a Pratyabhijñā-like tone to his mode of discourse. 
 
+### Adhārakārikā
 This feature markedly distinguishes Vāmanadatta's work from another monistic Vaiṣṇava tract that has come down to us and that we know was studied in 10th century Kashmir, namely, the Parāmarthasāra, also known as the Adhārakārikā written by Patañjali, alias Śeṣa, traditionally identified (certainly mistakenly) with the author (s) of the Mahabhaṣya commentary on Panini's grammar and the Aphorisms on Yoga. Thus, although the latter work is monistic, conceiving the one ultimate reality to be Viṣnu who is pure consciousness, just as Vāmanadatta does, light analogics are virtually absent.[^9-1] 
 
-This divergence is emblematic of the divergent approach the two authors adopt to establish their monism and the aspect of the unity of reality which they have choosen to fix their attention upon. Adisesa's work reads much like a short treatise an Advaita Vedānta, indeed the author is represented as one who 'knows the Veda and its limbs' and as 'having seen all the Vedāntaśāstra,' on the basis of which he wrote his work.[^9-2] Instead of the neuter Brahman, however, we find
+This divergence is emblematic of the divergent approach the two authors adopt to establish their monism and the aspect of the unity of reality which they have choosen to fix their attention upon. Ādisesa's work reads much like a short treatise an Advaita Vedānta, indeed the author is represented as one who 'knows the Veda and its limbs' and as 'having seen all the Vedāntaśāstra,' on the basis of which he wrote his work.[^9-2] 
 
    ။
 
    A.K. 60. Cf. Ibid., 23.
 
-1. The only verse in the Adharakārikā in which ultimate reality is clearly
+[^9-1]: 
 
-   understood as being light is the following: विगतोपाधिः स्फटिक: स्वप्रभया भाति निर्मलो यद्वत्। चिद्दीपः स्वप्रभया तथा विभातीह निरुपाधि: In another place the Self,is compared to the Sun: यद्वत् सवितर्युदिते करोति कर्माणि जीवलोकोऽयम् । न च तानि करोति रविर्न कारयति तद्वदात्मापि ॥ Ibid., 13.
+    The only verse in the Adharakārikā in which ultimate reality is clearly understood as being light is the following: 
 
-2. त्वं साङ्गवेदवेत्ता.........
+    > विगतोपाधिः स्फटिकः  
+    स्वप्रभया भाति निर्मलो यद्वत्।  
+    चिद्-दीपः स्व-प्रभया  
+    तथा विभातीह निरुपाधिः॥ 
 
-   ibid., 4, also:
+    In another place the Self, is compared to the Sun:  
 
-   10
+    > यद्वत् सवितर्य् उदिते  
+    करोति कर्माणि जीव-लोकोऽयम् ।  
+    न च तानि करोति रविर्  
+    न कारयति तद्-वद् आत्मापि ॥  
 
-   SaṁvitPRAKĀSAIL
+    Ibid., 13.
 
-   find Visnu who is represented as the supreme soul (paramātman),
+[^9-2]: 
 
-   but even though he is characterised as the 'cause of creation, persistence and destruction'2 the universe is Visnu's Māyā which is unreal.3 Clearly, there is a palpable contradiction here but even so, Adisesa remains true to his Vaiṣṇava creed and so refuses to take recourse to Advaita Vedānta's solution to this problem by making a distinction between the pure absolute - Brahman - which is etemally just as it is, unrelated to diversity in any way except as the reality behind an illusion, and the personal God - Iśvara -Who creates, sustains and destroys all things that, like the world he seemingly creates, is real only to the extent that he is the Brahman that appears to be him. Thus Adiścṣa makes free use of the entire gamout of standard analogies to explain in what sense Visnu's Māyā is just an unreal illusion: it is like the water in a mirage (mrgatrsnikā), the silver seen in nacre, the snake in the rope, the two moons mistakenly perceived by someone with an eye discase.4 The specific character of individual things that appear to exist in the illusory world of Maya is similarly explained by taking recourse to the standard Advaita notion of limiting adjuncts (upadhi) produced by ignorance. The analogy is also the well known Advaita one of the sun that shines reflected in different pools of water-just so the Supreme Self appears diversified in the things of the world, established as it is in all the limiting
+    > त्वं साङ्गवेदवेत्ता.........
 
-   वेदान्तशास्त्रमखिलं विलोक्य शेषस्तु जगदाधारः । आर्यापञ्चाशीत्या बबन्ध परमार्थसारमिदम्
+    ibid., 4, also:
 
-1. परं परस्याः प्रकृतेरनादिमेकं निविष्टं बहुधा गुहासु ।
+    > वेदान्त-शास्त्रम् अखिलं  
+    विलोक्य शेषस्तु जगदाधारः ।  
+    आर्यापञ्चाशीत्या  
+    बबन्ध परमार्थसारम् इदम्॥  
+    Ibid. 87.
 
-   सर्वालयं सर्वचराचरस्थं त्वामेव विष्णुं शरणं प्रपद्ये ॥ Ibid., 1.
 
-2. नारायणमात्मानं ज्ञात्वा सर्गस्थितिप्रलयहेतुम् ।
+[[10]]
 
-   सर्वज्ञः सर्वगतः सर्वः सर्वेश्वरो भवति
+Instead of the neuter Brahman, however, we find Visnu who is represented as the supreme soul (paramātman)[^10-1], but even though he is characterised as the 'cause of creation, persistence and destruction'[^10-2] the universe is Visnu's Māyā, which is unreal.[^10-3] Clearly, there is a palpable contradiction here but even so, Ādisesa remains true to his Vaiṣṇava creed and so refuses to take recourse to Advaita Vedānta's solution to this problem by making a distinction between the pure absolute - Brahman - which is eternally just as it is, unrelated to diversity in any way except as the reality behind an illusion, and the personal God - Iśvara -Who creates, sustains and destroys all things that, like the world he seemingly creates, is real only to the extent that he is the Brahman that appears to be him. 
 
-   Ibid., 67.
+Thus Ādiśeṣa makes free use of the entire gamout of standard analogies to explain in what sense Visnu's Māyā is just an unreal illusion: it is like the water in a mirage (mr̥gatr̥āṣṇikā), the silver seen in nacre, the snake in the rope, the two moons mistakenly perceived by someone with an eye discase.[^10-4] 
 
-3. बुद्ध्यैवमसत्यनिदं विष्णोर्भायात्मकं जगद्रूपम् ।
 
-   विगतद्वन्द्वोपाधिकभोगासको भवेच्छान्तः
 
-   Ibid., 74.
+[^10-1]: 
 
-   ||
+    परं परस्याः प्रकृतेर् अनादिम्  
+    एकं निविष्टं बहुधा गुहासु ।
+    सर्वालयं सर्व-चराचर-स्थं  
+    त्वाम् एव विष्णुं शरणं प्रपद्ये ॥ Ibid., 1.
 
-4. मृगतृष्णायागुदकं शक्तौ रजतं भुजङ्गमो रज्जा ।
+[^10-2]: 
 
-   तैगिरिकन्द्रयुगवद् भ्रान्तं निखितं जगद्
+    नारायणमात्मानं ज्ञात्वा सर्ग-स्थिति-प्रलयहेतुम् ।  
+    सर्वज्ञः सर्वगतः सर्वः सर्वेश्वरो भवति  
+    Ibid., 67.
 
-   Ibid., 22.
+[^10-3]: 
 
-   n"
+    बुद्ध्यैवम् असत्यम् इदं  
+    विष्णोर् मायात्मकं जगद्-रूपम् ।  
+    विगत-द्वन्द्वोपाधिक-  
+    भोगासङ्गो भवेच्छान्तः
+    Ibid., 74.
 
-   Ibid. 87.
+[^10-4]: 
 
-   
+    मृगतृष्णायाम् उदकं शुक्तौ रजतं भुजङ्गमो रज्ज्वाम् ।
+    तैमिरिकचन्द्र-युगवद् भ्रान्तं निखिलं जगद्  
+    Ibid., 22.
 
-   11
+[[11]]
 
-   conditions that delineate apparently existing objects.' Consequently, even though Visnu is said to be the creator, Adiścṣa declares that: "Just as there is no cause of the creation and destruction of the snake (mistakenly perceived) in the rope, so too there is no cause here of the arising and destruction of the universe."2 Thus, just as at the cosmic level the ultimate principle docs nothing, so too at the individual level, the Self, like the Samkhyan Puruṣa, is perfectly inactive. We can contrast this view with that presented by Abhinava in his Śaiva adaptation of this text.3 Abhinava agrees with Adiścșa that the individual soul merges into the Brahman when he overcomes Maya and that it consists essentially of thought constructs centred on duality.4 Adiseṣa says that this takes place when the soul realises that Viṣṇu's Māyā is insubstantial like the snow, foam or bubbles formed from water or the smoke that issues from a fire. The practicioner must contantly refresh this awareness ( bhavana), through it he is liberated by becoming one with the Brahman. According to Abhinava, however, contemplative insight (bhāvanā) into the nature of the principles of existence is the result of realising one's own universal "I" consciousness that is experienced not just as the one universal consciousness which is the passive ground of Being but as supremely active, thus he writes:
+The specific character of individual things that appear to exist in the illusory world of Maya is similarly explained by taking recourse to the standard Advaita notion of limiting adjuncts (upadhi) produced by ignorance. The analogy is also the well known Advaita one of the sun that shines reflected in different pools of water-just so the Supreme Self appears diversified in the things of the world, established as it is in all the limiting conditions that delineate apparently existing objects.[^11-1] Consequently, even though Visnu is said to be the creator, Ādiśeṣa declares that: 
+
+> "Just as there is no cause of the creation and destruction of the snake (mistakenly perceived) in the rope,  
+> so too there is no cause here of the arising and destruction of the universe."[^11-2] 
+
+Thus, just as at the cosmic level the ultimate principle does nothing, so too at the individual level, the Self, like the Sāṁkhyan Puruṣa, is perfectly inactive. 
+
+We can contrast this view with that presented by Abhinava in his Śaiva adaptation of this text.[^11-3] Abhinava agrees with Ādiśeṣa that the individual soul merges into the Brahman when he overcomes Maya and that it consists essentially of thought constructs centred on duality.[^11-4] Ādiśeṣa says that this takes place when the soul realises that Viṣṇu's Māyā is insubstantial like the snow, foam or bubbles formed from water or the smoke that issues from a fire. The practicioner must contantly refresh this awareness ( bhavana), through it he is liberated by becoming one with the Brahman. According to Abhinava, however, contemplative insight (bhāvanā) into the nature of the principles of existence is the result of realising one's own universal "I" consciousness that is experienced not just as the one universal consciousness which is the passive ground of Being but as supremely active, thus he writes:
 
 1. यद्वद् दिनकर एको विभाति सलिलाशयेषु सर्वेषु । तद्वत् सकलोपाधिष्ववस्थितो भाति परमात्मा
 
@@ -291,7 +317,7 @@ This divergence is emblematic of the divergent approach the two authors adopt to
 
    P.S., 51.
 
-   Note that in order to distinguish Abhinava's Parāmarthasāra from that of Adisesa, I call the latter Adhirakārikā.
+   Note that in order to distinguish Abhinava's Parāmarthasāra from that of Ādisesa, I call the latter Adhirakārikā.
 
 5. हिमफेनबुदबुदा इव जलस्य धूगो यया बद्धेः । तद्वत् स्वभावभूता गायैषा कीर्तिता विष्णोः || A.K., 56.
 
@@ -301,7 +327,7 @@ This divergence is emblematic of the divergent approach the two authors adopt to
 
    "I am the Lord who playfully propels the machine of the wheel of energies. My nature is pure and I hold the position of the Lord of the great wheel of energies. It is in me alone that all things manifest as do jars and other ( objects) in a clean mirror. Everything extends out of me as docs the wonderful diversity of dreams from one who sleeps. I myself am all things (and they are related to me) like hands, feet and other (limbs are related to the) body. I alone manifest in all this like the light (that shines) in (all) existing things."!
 
-   While Abhinava affirms the activity of the Self which he understands to be not just a knower but also an agent, Adisesa categorically denies that the Self is active. Present in the body the Self is the embodied soul (dehi ), his presence stimulates the activity of the body, mind and senses, but he does nothing, just as the magnet that attracts iron to itself is inactive.2 Thus :
+   While Abhinava affirms the activity of the Self which he understands to be not just a knower but also an agent, Ādisesa categorically denies that the Self is active. Present in the body the Self is the embodied soul (dehi ), his presence stimulates the activity of the body, mind and senses, but he does nothing, just as the magnet that attracts iron to itself is inactive.2 Thus :
 
    "The embodied soul sees, hears, smells, touches, tastes and perceives but in so far as he (as the Self is really ) devoid of intellect, senses and body, he does nothing."3
 
@@ -335,9 +361,9 @@ This divergence is emblematic of the divergent approach the two authors adopt to
 
    deploy the various reasonings of the philosophies and scriptures."
 
-   According to Adisesa there is no agent because there is nothing in reality for him to act upon. Abhinava and Adisesa agree that the Lord is not affected by the troubles of the world, it is the deluded who are peaceful, happy or sad according to their state of mind.2 The Self seems to act due to the activity of the mind etc., just as the sun reflected in running water seems to move. Again, although the Self is omnipresent, it is man fest in the intellect just as Rahu becomes visible when he devours the moon during an eclipse.3 Thus Adisesa's system tends towards a monism of the Advaita Vedānta type and develops the Samkhya theme of Purusa's passivity with respect to Prak!.i, here identified with Maya. The embodied soul does rotting, it is Maya that acts. The Self seems to be an agent and enjoyer only because of its association with the body.
+   According to Ādisesa there is no agent because there is nothing in reality for him to act upon. Abhinava and Ādisesa agree that the Lord is not affected by the troubles of the world, it is the deluded who are peaceful, happy or sad according to their state of mind.2 The Self seems to act due to the activity of the mind etc., just as the sun reflected in running water seems to move. Again, although the Self is omnipresent, it is man fest in the intellect just as Rahu becomes visible when he devours the moon during an eclipse.3 Thus Ādisesa's system tends towards a monism of the Advaita Vedānta type and develops the Sāṁkhya theme of Purusa's passivity with respect to Prak!.i, here identified with Maya. The embodied soul does rotting, it is Maya that acts. The Self seems to be an agent and enjoyer only because of its association with the body.
 
-   Now, even though Vāmanadatta agrees with Adisesa that there is only one reality and that it is pure consciousness which he praises devoutly as Visnu, he sets off on a different tack to present and establish his monism. Like all monists, Vāmanadatta stresses in various ways the indeterminate nature of the one reality it is not exclusively one or other of possible prototypical categories that characterize things such as subject and object, inner and outer
+   Now, even though Vāmanadatta agrees with Ādisesa that there is only one reality and that it is pure consciousness which he praises devoutly as Visnu, he sets off on a different tack to present and establish his monism. Like all monists, Vāmanadatta stresses in various ways the indeterminate nature of the one reality it is not exclusively one or other of possible prototypical categories that characterize things such as subject and object, inner and outer
 
 1. द्रष्टा श्रोता घ्राता देहेन्द्रियवर्जितोऽप्यकर्तापि ।
 
@@ -1143,7 +1169,7 @@ Other possible quotes:
 
    Tantrāloka by Abhinavagupta (12 vol.) with viveka by Jayartha. Part 1 edited by M.R. Sastri. Parts 2-12 edited by M.S. Kaul, K.S.T.S., no. 23, 1918; 28, 1921; 30, 1921; 36, 1922; 35, 1922; 29, 1921; 41, 1924; 47, 1926; 59, 1933; 57, 1936 and 57, 1938.
 
-   Parāmarthasāra by Abhinavagupta with vivṛti by Yogarāja. K.S.T.S., no. 7, 1916. Edited by J.C. Chatterjee. Parāmarthasāra by Adiśeṣa with vivarana by Raghavananda. Acyutagranthamālā vol. 9. Vidyavilāsa Press, Varanasi, 1989. Edited by Surya Nārāyaṇa Śukla.
+   Parāmarthasāra by Abhinavagupta with vivṛti by Yogarāja. K.S.T.S., no. 7, 1916. Edited by J.C. Chatterjee. Parāmarthasāra by Ādiśeṣa with vivarana by Raghavananda. Acyutagranthamālā vol. 9. Vidyavilāsa Press, Varanasi, 1989. Edited by Surya Nārāyaṇa Śukla.
 
    Parātriśikāvivarana by Abhinavagupta. K.S.T.S., no. 18, 1918. Edited by M.S. Kaul.
 
