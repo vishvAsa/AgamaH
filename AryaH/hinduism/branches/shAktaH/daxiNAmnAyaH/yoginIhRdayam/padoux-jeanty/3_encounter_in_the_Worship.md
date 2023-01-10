@@ -42,7 +42,7 @@ The domain of the fi rst \[type of worship\] is the activity of all \[senses\]
 
 insofar as they remain in the condition of nonduality. //3a// 
 
-*prathamādvaitabhāvasthā sarvaprasaragocarā * / 
+*prathamādvaitabhāvasthā sarvaprasaragocarā* / 
 
 This worship is purely spiritual. The Dī quotes here stanzas 116–117 of the *Vijñānabhairava* , the fi rst of which states: “Wherever the mind goes, 
 
@@ -56,7 +56,7 @@ toward the exterior or the interior, there is the state of Shiva. Since he is om
 
 The second one, the worship of the *cakra* , is ceaselessly performed by me. //3// 
 
-*dvitiyā cakrapūjā ca sadā niṣpadyate mayā * //3// 
+*dvitiyā cakrapūjā ca sadā niṣpadyate mayā* //3// 
 
 
 
@@ -84,7 +84,7 @@ Having evoked mentally within the *vāgbhava* placed in the forest of the great 
 
 *āpyāyitajagadrūpāṁ parāmṛtavarṣiṇī m* //5// 
 
-*saṁcintya paramādvaitabhāvanāmadaghūrṇita ḥ * / 
+*saṁcintya paramādvaitabhāvanāmadaghūrṇita ḥ* / 
 
 96
 This practice is considered supreme because it implies a complete fusion of the adept with the Absolute. 
@@ -99,11 +99,11 @@ On the realization of nonduality, the Dī adds: “The mystical realization of t
 
 He must turn away from the chatter of discursive thought, being entirely devoted to the contemplation of the *nāda* which arises inside the Small One. //6// 
 
-*daharāntarasaṁsarpan nādālokanatatpara ḥ * //6// 
+*daharāntarasaṁsarpan nādālokanatatpara ḥ* //6// 
 
-*vikalparūpasaṁjalpavimukha ḥ * 
+*vikalparūpasaṁjalpavimukha ḥ* 
 
-To defi ne the Small One \( *dahara* \), the Dī quotes the *Mahānārāyana* *Upaniṣad* : “The Small One, without defects, residence of the supreme Lord, lotus of the heart abiding in the center of the citadel.” It is therefore the space in the center of the lotus of the heart: “In this Small One is the inner space” \( *daharo’sminn artarākāśa ḥ * \), says the *Chāndogya Upaniṣad* . 
+To defi ne the Small One \( *dahara* \), the Dī quotes the *Mahānārāyana* *Upaniṣad* : “The Small One, without defects, residence of the supreme Lord, lotus of the heart abiding in the center of the citadel.” It is therefore the space in the center of the lotus of the heart: “In this Small One is the inner space” \( *daharo’sminn artarākāśa ḥ* \), says the *Chāndogya Upaniṣad* . 
 
 The adept must therefore contemplate, meditate, this symbol of the supreme, concentrating on the *nāda* , the inner subtle vibration he feels in 
 
@@ -117,15 +117,15 @@ his heart, leaving therefore aside such discursive activity as the recitation of
 
 The adept must meditate \( *dhyānaṁ kuryāt* \) as follows: Ceaselessly looking inward, \[he participates\] in the intense beauty that is the destruction of contraction by the shining forth of the power of consciousness. //7// 
 
-*antarmukha ḥ sadā * / 
+*antarmukha ḥ sadā* / 
 
-*citkalollāsadalitasaṁkocas tvatisundara ḥ * //7// 
+*citkalollāsadalitasaṁkocas tvatisundara ḥ* //7// 
 
 The actual, material worship is now described in the 156 stanzas that follow:
 
 The worship of oneself must be done with elements that are pleasing to the senses. //8a// 
 
-*indriyaprīṇanair dravyair vihitasvātmapūjana ḥ * / 
+*indriyaprīṇanair dravyair vihitasvātmapūjana ḥ* / 
 
 The worship to be done is not of the self of the worshipper but of the deity that is the very essence *—* the deity of one’s self \( *svātmadevatā* \) *—* of the worshipper. The Dī quotes here a text that says: “To worship in a natural fashion the deity that is one’s own self by using perfumes etc. to which the doors of the senses are opened, such is the great sacrifi ce of one who knows.” And it adds: “as has been said, the highest sort of *pūjā* consists in attaining a complete fusion \[ *sāmarasīkaraṇa* \] thanks to the great felicity born from the experience of the sounds, etc., perceived by the ears and the other senses of the worshipper.” The identifi cation of the worshipper with the deity being worshipped, which is the aim of the Tantric *pūjā* , is considered in all Tantras as being more easily achieved when helped by the beauty and charm of the ritual. 
 
@@ -137,7 +137,7 @@ purify and divinize it: identifying it with the mantra, the *śrīcakra* , and t
 
 * Impositions *\( nyāsa \) 
 
-Four series of *nyāsas* are to be performed: fi rst, the “sixfold imposition”\( *ṣ oḍhānyāsa* \), *śl. * 8–40; second, the imposition of the *śrīcakra* , *śl* . 41–68; third, 
+Four series of *nyāsas* are to be performed: fi rst, the “sixfold imposition”\( *ṣ oḍhānyāsa* \), *śl.* 8–40; second, the imposition of the *śrīcakra* , *śl* . 41–68; third, 
 
 98
 the imposition of the deities abiding in the *śrīcakra* , *śl* . 69–79. Then come four series of placings: the purifi cation of the hands \( *karaśuddhi* \), an imposition of the *śrīvidyā* , then another *karaśuddhi* , and fi nally a group of impositions of the throne \( *āsana* \) and of several entities. Finally this is completed \( *śl* . 85–86\) by a *tritattvanyāsa* on the whole body deemed to achieve the total 
@@ -150,23 +150,23 @@ One must \[fi rst\] perform the placing of mantras on the body starting with the
 
 *nyāsaṁ nirvartayed deheṣoḍhānyāsapura ḥ saram* //8// 
 
-The fi rst placing \[must be done\] with the Gaṇeśas, the second one with the planets, the third with the *nakṣatras* , the fourth with the Yoginīs, //9// the fi fth with the signs of the zodiac, and the sixth with the *pīṭhas. * The sixfold *nyāsa* \[now\] told to you is said everywhere to be invincible. //10// The one whose body is touched in this way is worthy of being worshipped by all yogins. In the worlds there is no \[being, even his\] father, mother, etc., that he should revere. //11// 
+The fi rst placing \[must be done\] with the Gaṇeśas, the second one with the planets, the third with the *nakṣatras* , the fourth with the Yoginīs, //9// the fi fth with the signs of the zodiac, and the sixth with the *pīṭhas.* The sixfold *nyāsa* \[now\] told to you is said everywhere to be invincible. //10// The one whose body is touched in this way is worthy of being worshipped by all yogins. In the worlds there is no \[being, even his\] father, mother, etc., that he should revere. //11// 
 
 He alone is to be venerated by all \[ for\] he is himself the supreme Lord. If he were to bow in front of someone who has not received the sixfold *nyāsa* , O Parvatī\! //12// he would soon die and go to hell. 
 
-*gaṇeśai ḥ prathamo nyāso dvitīyas tu grahair mata ḥ * / 
+*gaṇeśai ḥ prathamo nyāso dvitīyas tu grahair mata ḥ* / 
 
-*nakṣatraiśca tṛtīya ḥ syād yoginibhiś caturthaka ḥ * //9// 
+*nakṣatraiśca tṛtīya ḥ syād yoginibhiś caturthaka ḥ* //9// 
 
 *rāśibhi ḥ pañcamo nyāsa ḥṣaṣtha ḥ pīṭhair nigadyate* / 
 
-*ṣ oḍhānyāsas tvayaṁ prokta ḥ sarvatraivāparājita ḥ * //10// 
+*ṣ oḍhānyāsas tvayaṁ prokta ḥ sarvatraivāparājita ḥ* //10// 
 
-*evaṁ yo nyastagātras tu sa pūjya ḥ sarvayogibhi ḥ * / 
+*evaṁ yo nyastagātras tu sa pūjya ḥ sarvayogibhi ḥ* / 
 
-*nāsty asya pūjyo lokeṣupitṛmātṛmukho jana ḥ * //11// 
+*nāsty asya pūjyo lokeṣupitṛmātṛmukho jana ḥ* //11// 
 
-*sa eva pūjya ḥ sarveṣāṁ sa svayaṁ parameśvara ḥ * / 
+*sa eva pūjya ḥ sarveṣāṁ sa svayaṁ parameśvara ḥ* / 
 
 *ṣ oḍhānyāsavihinaṁ yaṁ praṇamed eṣa pārvati* //12// 
 
@@ -186,7 +186,7 @@ six aspects or forms of a deity, is described in many Tantric texts and even in 
 
 worship is a necessity, for it is only after having shed his human ordinary condition and becoming divine that an adept is permitted to approach a deity and to perform its ritual worship, the *pūjā* . As the saying goes, “One should worship God \[after\] having become god” \( *devaṁ bhutva devaṁ *
 
-*yajet* \). This is the paradox of the Tantric *pūjā * that it aims at the divinization of an offi
+*yajet* \). This is the paradox of the Tantric *pūjā* that it aims at the divinization of an offi
 
 ciating person who, to be permitted to reach this goal, must 
 
@@ -238,28 +238,28 @@ These \[gods\] have three eyes, the face of an elephant; they are like the risin
 
 *vighneśo vighnarājaś ca vināyakaśivottamau* / 
 
-*vighnakṛd vighnahartā ca gaṇarāḍgaṇanāyaka ḥ * //14// 
+*vighnakṛd vighnahartā ca gaṇarāḍgaṇanāyaka ḥ* //14// 
 
-*ekadanto dvidantaś ca gajavaktro nirañjana ḥ * / 
+*ekadanto dvidantaś ca gajavaktro nirañjana ḥ* / 
 
-*kapardavān dīrghamukha ḥ śaṅkukarṇo vṛśadhvaja ḥ * //15// 
+*kapardavān dīrghamukha ḥ śaṅkukarṇo vṛśadhvaja ḥ* //15// 
 
-*gaṇanātho gajendraś ca śurpakarṇas trilocana ḥ * / 
+*gaṇanātho gajendraś ca śurpakarṇas trilocana ḥ* / 
 
-*lambodaro mahānādaś caturmūrti ḥ sadāśiva ḥ * //16// 
+*lambodaro mahānādaś caturmūrti ḥ sadāśiva ḥ* //16// 
 
-*āmodo durmukhaś caiva sumukhaśca pramodaka ḥ * / 
+*āmodo durmukhaś caiva sumukhaśca pramodaka ḥ* / 
 
 100
-*ekapādo dvijihvaś ca sūro vīraś caṣaṇmukha ḥ * //17// 
+*ekapādo dvijihvaś ca sūro vīraś caṣaṇmukha ḥ* //17// 
 
 *varado vāmadevaś ca vaktratuṇḍo dvituṇḍakah* / 
 
-*senānīr grāmaṇī r matto vimatto mattavāhana ḥ * //18// 
+*senānīr grāmaṇī r matto vimatto mattavāhana ḥ* //18// 
 
-*ja ṭīmuṇḍīthatā khaṅgīvareṇyo vṛśaketana ḥ * / 
+*ja ṭīmuṇḍīthatā khaṅgīvareṇyo vṛśaketana ḥ* / 
 
-*bhaksyapriyo gaṇeśaś ca meghanādo gaṇeśvara ḥ * //19// 
+*bhaksyapriyo gaṇeśaś ca meghanādo gaṇeśvara ḥ* //19// 
 
 *taruṇāruṇasaṁkāsān gajavaktrān trilocanān* / 
 
@@ -295,11 +295,11 @@ the four phonemes *ŚA* , etc., on the face, and Ketu accompanied by the letter 
 
 101
 
-*bindusthāne sudhāsutiṁ yādivarṇacatuṣṭayai ḥ * / 
+*bindusthāne sudhāsutiṁ yādivarṇacatuṣṭayai ḥ* / 
 
 *bhuputraṁ locanadvandve kavargādhipatiṁ priye* //22// 
 
-*hṛdaye vinyasecchukraṁ cavargādhipatiṁ puna ḥ * / 
+*hṛdaye vinyasecchukraṁ cavargādhipatiṁ puna ḥ* / 
 
 *hṛdayopari vinyasetṭavargādhipatiṁ budham* //23// 
 
@@ -317,19 +317,19 @@ and that of salutation and who are wearing all the ornaments. One must impose th
 
 gods\! 5 //29// 
 
-*lalāṭe dakṣanetre ca vāme karṇadvaye puna ḥ * / 
+*lalāṭe dakṣanetre ca vāme karṇadvaye puna ḥ* / 
 
-*puṭayor nāsikāyāś ca kaṇṭhe skandhadvaye puna ḥ * //26// 
+*puṭayor nāsikāyāś ca kaṇṭhe skandhadvaye puna ḥ* //26// 
 
-*paścāt kūrparayugme ca maṇibandhadvaye tathā * / 
+*paścāt kūrparayugme ca maṇibandhadvaye tathā* / 
 
 *stanayor nābhideśe ca kaṭibandhe tata ḥ param* //27// 
 
 *uruyugme tathā jānvor jaṅghayoś ca padadvaye* / 
 
-*jvalatkālānalaprakhyā varadābhayapāṇaya ḥ * //28// 
+*jvalatkālānalaprakhyā varadābhayapāṇaya ḥ* //28// 
 
-*natipāṇyo ‘śvinīpūrvā ḥ sarvābharaṇabhūṣitā ḥ * / 
+*natipāṇyo ‘śvinīpūrvā ḥ sarvābharaṇabhūṣitā ḥ* / 
 
 *etās tu vinyased devi sthāneṣveṣu surārcite* //29// 
 
@@ -342,11 +342,11 @@ belly, on the heart and on the root of the arms, associating them with Amṛtā,
 
 *viśuddhau hṛdaye nābhau svādhiṣṭhāne ca mūlake* / 
 
-*ājñāyāṁ dhātunāthāśca nyastavyāḍādidevatā ḥ * //30// 
+*ājñāyāṁ dhātunāthāśca nyastavyāḍādidevatā ḥ* //30// 
 
 *amṛtādiyutā ḥ samyag dhyātavyāś ca sureśvari* / 
 
-*pāde liṅge ca kukṣau ca hṛdaye bāhumūlayo ḥ * //31// 
+*pāde liṅge ca kukṣau ca hṛdaye bāhumūlayo ḥ* //31// 
 
 The “deities Ḍ ā, etc.” are a group of secondary goddesses, or Yoginīs, the name of the fi rst one beginning with *ḍa* . They are: Ḍ ākinī, Rākinī, Lākinī, Kākinī, Sākinī, and Hākinī. They are traditionally considered the regents of the *dhātus* , the seven constituent elements of the body, of which the commentary here quotes only six: skin, blood, fl esh, fat, marrow, and 
 
@@ -362,7 +362,7 @@ Starting with the right foot and ending with the left foot, one must impose the 
 
 *meṣādi rāśayo varṇair nyastavyā saha pārvati* //32// 
 
-For this *nyāsa* , the fifty phonemes of the Sanskrit alphabet are distributed in twelve groups, beginning with the group of the vowels and ending with *KṣA. * 
+For this *nyāsa* , the fifty phonemes of the Sanskrit alphabet are distributed in twelve groups, beginning with the group of the vowels and ending with *KṣA.* 
 
 Finally to be placed on the body of the offi
 
@@ -394,7 +394,7 @@ Ekāmra, Trisrotas, Kāmakoṭaka, Kailāsa, Bhṛgunagara, Kedāra and Pūrṇa
 
 Malayaśaila and the Meru, the best of all mountains, Mahendra and Vāmana, then Hiraṇyapura, //39// Mahālakṣmīpura and Uḍyāna and, lastly, Chāyāchatra. \[Thus are\] enumerated these *pīṭhas* \[which are to be imposed\] on the same places as the *mātṛkā* . //40// 
 
-*pīṭhāni vinyased devi mātṛkāsthānake puna ḥ * / 
+*pīṭhāni vinyased devi mātṛkāsthānake puna ḥ* / 
 
 *teśāṁ nāmāni kathyante śrnusvāvahitā priye* //33// 
 
@@ -406,25 +406,25 @@ Malayaśaila and the Meru, the best of all mountains, Mahendra and Vāmana, then
 
 *kailāśaṁ bhṛgunagaraṁ kedārapūrṇacandrake* //35// 
 
-*śrīpīṭhaṁ oṁkārapīthaṁ jālandhraṁ mālavotkale * / 
+*śrīpīṭhaṁ oṁkārapīthaṁ jālandhraṁ mālavotkale* / 
 
 *kulāntaṁ devikoṭṭaṁ ca gokarṇaṁ māruteśvaram* //36// 
 
 *aṭtahāsaṁ ca virajaṁ rājagṛhaṁ mahāpatham* / 
 
-*kolāpuraṁ elāpuraṁ kāleśaṁ tu jayantikā * //37// 
+*kolāpuraṁ elāpuraṁ kāleśaṁ tu jayantikā* //37// 
 
 *ujjayinīvicitraṁ ca kṣī rakaṁ hastināpūram* / 
 
-*oḍḍīśaṁ ca prayāgākhyaṁṣaṣṭḥīmāyāpurītahtā * //38// 
+*oḍḍīśaṁ ca prayāgākhyaṁṣaṣṭḥīmāyāpurītahtā* //38// 
 
-*jaleśaṁ malayaṁ śailaṁ meruṁ girivaraṁ tathā * / 
+*jaleśaṁ malayaṁ śailaṁ meruṁ girivaraṁ tathā* / 
 
 *māhendraṁ vāmanaṁ caiva hiraṇyapuram eva ca* //39// 
 
 *mahālakṣmīpuroḍyāṇe chāyāchatram ata ḥ param* / 
 
-*ete pīṭhā ḥ samuḍḍiṣṭhā mātṛkārūpakā ḥ sthitā ḥ * //40// 
+*ete pīṭhā ḥ samuḍḍiṣṭhā mātṛkārūpakā ḥ sthitā ḥ* //40// 
 
 We have seen in chapter 1 \( *śl* . 41–43\) the four main *pīthas* of the Tripurā 
 
@@ -449,7 +449,7 @@ First, while saying “Praise to the fi rst line of the square,” one must make
 
 *caturasrādyarekhāyai nama ity ādito nyaset* //42// 
 
-*dakṣāṁsapṛṣṭhapāṇyagrasphikkapādāṅgulīśvathā * / 
+*dakṣāṁsapṛṣṭhapāṇyagrasphikkapādāṅgulīśvathā* / 
 
 *vāṁāṅghryaṇguliṣu sphikke pāṇyagre cāṁsapṛṣṭhake* //43// 
 
@@ -491,7 +491,7 @@ Eight of them must be imposed on the eight locations of Brahmaṇī , etc., and 
 
 *pāḍaṅguṣṭhadvaye parśve dakṣe mūrdhno ‘nyapārśvake* //46// 
 
-*vāmadakṣiṇajanvoś ca bahiraṁsadvaye tathā * / 
+*vāmadakṣiṇajanvoś ca bahiraṁsadvaye tathā* / 
 
 *nyastavyāś caturasrāntyarekhāyai namā ityapi* //47// 
 
@@ -499,7 +499,7 @@ Eight of them must be imposed on the eight locations of Brahmaṇī , etc., and 
 
 *tasyā ḥ sthāneṣu daśasu mudrāṇāṁ daśakaṁ nyaset* //48// 
 
-*brahmāṇyādyaṣṭhānāntas tāsām aṣṭau nyaset tata ḥ * / 
+*brahmāṇyādyaṣṭhānāntas tāsām aṣṭau nyaset tata ḥ* / 
 
 *śiṣṭe dve dvādaśānte ca pādāṅguṣṭhe ca vinyaset* //49// 
 
@@ -518,11 +518,11 @@ and the other \[powers\]. //50// The petals are considered as being, on the righ
 
 *dalāni dakṣiṇaśrotrapṛṣṭhaṁsaṁ ca kūrparam* / 
 
-*karapṛṣṭhaṁ corujānugulphapādatalaṁ tathā * //51// 
+*karapṛṣṭhaṁ corujānugulphapādatalaṁ tathā* //51// 
 
 *vāmapādadalādy evam etad evāṣṭakaṁ matam* / 
 
-Now, the *vyāpakanyā * of the eight-petaled lotus:
+Now, the *vyāpakanyā* of the eight-petaled lotus:
 
 Thereafter, on this \[lotus\], after having made an imposition using the mantra “Praise to the eight-petaled lotus,” //52// one must place the eight energies Anaṅgakusumā, etc., on these petals, on the right temple, collarbone, thigh, and ankle and on the left ankle, thigh, collarbone, and temple. //53–54a// 
 
@@ -530,7 +530,7 @@ Thereafter, on this \[lotus\], after having made an imposition using the mantra 
 
 *vinyasya taddaleṣveṣu dakṣaśaṅkhe ca jatruke* / 
 
-*ūrvāntargulphorujatruśaṅkhe ca vāmata ḥ * //53// 
+*ūrvāntargulphorujatruśaṅkhe ca vāmata ḥ* //53// 
 
 *anaṅgakusumādyās tu śaktir aṣṭau ca vinyaset* / 
 
@@ -568,7 +568,7 @@ The \[tri\]angles \[of this *cakra* are to be placed\] on the right eye, at the 
 
 *sarvasaṁkṣobhinyādyās tu tasya koṇāni vacmyaham* //55// 
 
-*lalāte dakṣabhāge ca dakṣagāṇḍāṁsamadhyata ḥ * / 
+*lalāte dakṣabhāge ca dakṣagāṇḍāṁsamadhyata ḥ* / 
 
 *pārśvāntarūrujaṅghāntarvāmajaṅghādi pārvati* //56// 
 
@@ -603,7 +603,7 @@ Then, having made the imposition with \[the mantra\] “Praise to the fi rst *ca
 
 Such are, one should know, the ten \[tri\]angles. //62// 
 
-*nyaset puna ḥ * //59// 
+*nyaset puna ḥ* //59// 
 
 *sarvasiddhipradādīnāṁ śaktināṁ daśakaṁ priye* / 
 
@@ -615,7 +615,7 @@ Such are, one should know, the ten \[tri\]angles. //62//
 
 *sīvanīvāmamuṣkaṁ ca stanaṁ sṛkkininasike* / 
 
-*nāsāgraṁ caiva vijñeyaṁ koṇānāṁ daśakaṁ tathā * //62// 
+*nāsāgraṁ caiva vijñeyaṁ koṇānāṁ daśakaṁ tathā* //62// 
 
 Now is described the pervasive imposition of the eight-triangle *cakra* : Having imposed inside that one \[the mantra\] “Praise to the originating *cakra* with eight \[tri\]angles,” one must impose on its angles the eight energies Vaśinī, etc. //63// 
 
@@ -637,7 +637,7 @@ The chin, the throat, the heart, and the navel are considered as forming the rig
 
 *jñeyaṁ pārśvacatuṣkaṁ ca maṇipūrādi vāmakam* //64// 
 
-*catuṣṭayaṁ ca pārśvānāṁ etat koṇāṣṭakaṁ puna ḥ * / 
+*catuṣṭayaṁ ca pārśvānāṁ etat koṇāṣṭakaṁ puna ḥ* / 
 
 The *cakra* of eight triangles is considered “originating” because the three larger *cakras* encircling it, which we have just seen, are deemed to issue from it. This is consistent with the inner movement of the *śrīcakra* , which goes from the center to the periphery. The central position of this *cakra* , encircling the central triangle within which is the *bindu—* the place of the Goddess *—* is underlined by the fact that it is imposed on four places along the axis of the body, one of which is not a part of the physical body but is the *maṇipūracakra* , a center of the yogic imaginal body 14 situated on the level of the navel \(as the Dī explains\). The weapons \( *āyudha* \) 15 that the Goddess holds in her four hands are then to be imposed:
 
@@ -651,7 +651,7 @@ One must impose on the outside, in the four directions, around
 
 Then, having done the imposition with the mantra “Praise to the triangle,” one must impose on the angles \[of this triangle\], in front, to the right and to the left, //66// the Goddesses Kāmeśvarī, etc., and, in the middle, the Goddess. 
 
-*trikoṇāya namas tathā * / 
+*trikoṇāya namas tathā* / 
 
 *vinyasya tasya koṇeṣu agradakṣottareṣu ca* //66// 
 
@@ -666,7 +666,7 @@ being, as is well known, the spiritual, mystical center of the human being.
 
 The lines of this triangle \(to be placed by a *vvāpakanyāsa* , whose effi cacy 
 
-spreads along all of the outside lines\) are to be imposed with the mantra *trikoṇāya nama ḥ * . To avoid any misunderstanding, the Dī explains that the heart is “in the middle of his breast.” Three goddesses are to be imposed there—Kāmeśvarī, Vajreśvarī, and Bhagamālinī—on the three points of the triangle and, on its center, on the *bindu* \(also called *baindavacakra* \), the Goddess. The weapons, it is explained, are those of Kāmeśvara and Kāmeśvarī, 16 two diff erent deities that are the male and female aspect of the Goddess; eight *āyudhas* are thus to be placed. 
+spreads along all of the outside lines\) are to be imposed with the mantra *trikoṇāya nama ḥ* . To avoid any misunderstanding, the Dī explains that the heart is “in the middle of his breast.” Three goddesses are to be imposed there—Kāmeśvarī, Vajreśvarī, and Bhagamālinī—on the three points of the triangle and, on its center, on the *bindu* \(also called *baindavacakra* \), the Goddess. The weapons, it is explained, are those of Kāmeśvara and Kāmeśvarī, 16 two diff erent deities that are the male and female aspect of the Goddess; eight *āyudhas* are thus to be placed. 
 
 Thus, O Goddess\! I have told you the imposition, a most secret procedure. //67// It is indeed to be performed by you most secretly, O Praised by the heroes\! It is to be entrusted to those \[only\] who follow the rule \[of Kula\], never to anyone who is not the \[initiated\] 
 
@@ -676,7 +676,7 @@ disciple \[of a master of this tradition\]. //68//
 
 This \[ritual\] is more secret than any secret I have revealed to you today. 
 
-*evaṁ mayodito devi nyāso guhyatamakrama ḥ * //67// 
+*evaṁ mayodito devi nyāso guhyatamakrama ḥ* //67// 
 
 *etad guhyatamaṁ kāryaṁ tvayā vai vīravandite* / 
 
@@ -745,7 +745,7 @@ other half being imposed on the tuft behind the ear, in front of the ear, and on
 112
 *baindavādīni cakrāṇi nyastavyāni varānane* / 
 
-*netramūle tvapāṅge ca karṇapūrvottare puna ḥ * //72// 
+*netramūle tvapāṅge ca karṇapūrvottare puna ḥ* //72// 
 
 *cūḍādike ‘rdhanimne ‘rdhaṁ śeṣārdhaṁ karṇapṛṣṭhake* / 
 
@@ -789,7 +789,7 @@ The best of *sādhakas* must impose the ten Mudrās on the *mūlādhāra* .
 
 *catasras tu catasras tu caturdikṣu kramān nyaset* / 
 
-*mūlādhāre nyasen mudrādaśakaṁ sādhakottama ḥ * //77// 
+*mūlādhāre nyasen mudrādaśakaṁ sādhakottama ḥ* //77// 
 
 *punar vaṁśe ca savye ca vāme caivāntarālake* / 
 
@@ -803,13 +803,13 @@ imposed on the body where the *mūlādhāra* is situated, are to be imposed on t
 
 \[The locations\] above and below being excluded, //78// one will impose the eight \[energies, or Mothers\] Brahmaṇī , etc., on the right leg, this being done as \[was described\] previously. Then, beginning by the left leg, //79// one must impose eight Siddhis, starting from the left, on the same locations, and two others on the soles of the feet. 
 
-*ūrdhvādhovarjitaṁ puna ḥ * //78// 
+*ūrdhvādhovarjitaṁ puna ḥ* //78// 
 
 *brahmāṇyādyaṣṭakaṁ dakṣajaṅghāyāṁ tās tu pūrvavat* *vāmajaṅghāṁ samārabhya vāmādikramato ‘pi ca* //79// 
 
 *siddhyaṣṭakaṁ nyaset teṣu dvayaṁ pādatale nyaset* 
 
-“Brahmanī, etc.,” are the eight Mothers \( *mātṛkā* \) who preside over the eight groups of phonemes \( *varga* \) of the Sanskrit alphabet. They are called Vāgdevatā, “Goddesses of the Word” \( *śl. * 71\), and Vāgdevīs \( *śl* . 84\). 
+“Brahmanī, etc.,” are the eight Mothers \( *mātṛkā* \) who preside over the eight groups of phonemes \( *varga* \) of the Sanskrit alphabet. They are called Vāgdevatā, “Goddesses of the Word” \( *śl.* 71\), and Vāgdevīs \( *śl* . 84\). 
 
 The ten Siddhis, which are deities or Yoginīs *and* supernatural human powers, have already been mentioned above \( *śl* . 44\). 
 
@@ -838,23 +838,23 @@ ciant\] must do the impositions of purifi cation of
 
 the hands, etc., his mind being fully concentrated. //81// He 
 
-must impose the *vidyā * on the head, the sex organs, and the heart, on the three eyes, on the ears, O Goddess\! then on the 
+must impose the *vidyā* on the head, the sex organs, and the heart, on the three eyes, on the ears, O Goddess\! then on the 
 
 mouth and on the arms, //82// on the back, on the knees, and 
 
 on the navel. After this, he must perform the purifi cation of the hands, then impose the throne, the six *aṅgas* //83//, Śrīkaṇṭha, etc., and the Vāgdevīs. Then he must impose the *cakras* of fi re, etc., on the \[ *mul* \] *ādhāra* , the heart, the tuft, and on the place of the *bindu* . //84// 
 
-*tataś ca karaśuddhyādinyāsaṁ kuryāt samāhita ḥ * //81// 
+*tataś ca karaśuddhyādinyāsaṁ kuryāt samāhita ḥ* //81// 
 
 *mūrdhni guhye ca hṛdaye netratritaya eva ca* / 
 
-*śrotrayor yugale devi mukhe ca bhujayo ḥ puna ḥ * //82// 
+*śrotrayor yugale devi mukhe ca bhujayo ḥ puna ḥ* //82// 
 
 *pṛṣṭhe janvośca nābhau ca vidyānyāsaṁ samācaret* / 
 
 *karaśuddhiṁ punas caiva āsanāniṣaḍaṅgakam* //83// 
 
-*śrīkaṇṭhādiṁśca vāgdevīḥ ādhāre hṛdaye puna ḥ * / 
+*śrīkaṇṭhādiṁśca vāgdevīḥ ādhāre hṛdaye puna ḥ* / 
 
 *śikhāyāṁ baindavasthāne tvagnicakrādikā nyaset* //84// 
 
@@ -880,18 +880,18 @@ libation whose liquids are the nectars of moon and fi re. //86//
 
 *tattvatrayaṁ samastaṁ ca vidyābījatrayānvitam* / 
 
-*pādādinābhiparyantam āgalaṁ śirasas tathā * //85// 
+*pādādinābhiparyantam āgalaṁ śirasas tathā* //85// 
 
-*vyāpakaṁ caiva vinyasya svātmīkṛtya paraṁ puna ḥ * / 
+*vyāpakaṁ caiva vinyasya svātmīkṛtya paraṁ puna ḥ* / 
 
-*saṁtarpayet punar devīṁ saumyāgneyāmṛtadravai ḥ * //86// 
+*saṁtarpayet punar devīṁ saumyāgneyāmṛtadravai ḥ* //86// 
 
-The three *tattvas* \( *tritattva* \) are Śiva, *śakti, * and *nara* \(God, the energy, and man\), the three components of the cosmos, each being imposed while uttering one of the three parts of the *śrīvidyā* , the cosmic divine totality being thus imposed on the adept before he begins the ritual of the *pūjā. * 
+The three *tattvas* \( *tritattva* \) are Śiva, *śakti,* and *nara* \(God, the energy, and man\), the three components of the cosmos, each being imposed while uttering one of the three parts of the *śrīvidyā* , the cosmic divine totality being thus imposed on the adept before he begins the ritual of the *pūjā.* 
 
-According to the Dī , the moon is the “half- *kalā * of *HA* without second” \( *anuttara* \), that is, *Ḥ * , which is in the triangle at the center of the thousand-petaled lotus placed at the base of the *kuṇḍalinī* , whereas the fi re is the letter *S* in the triangle at the center of the four-petaled lotus of the *mūlādhāra* . \(The mantra to be imposed is therefore *SAU Ḥ * , the *bījamantrra* of Paṛā, the supreme goddess of the Trika.\) From there, a flow of nectar 
+According to the Dī , the moon is the “half- *kalā* of *HA* without second” \( *anuttara* \), that is, *Ḥ* , which is in the triangle at the center of the thousand-petaled lotus placed at the base of the *kuṇḍalinī* , whereas the fi re is the letter *S* in the triangle at the center of the four-petaled lotus of the *mūlādhāra* . \(The mantra to be imposed is therefore *SAU Ḥ* , the *bījamantrra* of Paṛā, the supreme goddess of the Trika.\) From there, a flow of nectar 
 
 116
-issues, resulting from the fusion of the *amṛtakuṇḍalinī* of moon and the *agnikuṇḍalinī* of fi re, one flowing downward and the other upward, assuming the double \(sexual\) aspect of the union of *yoni* and *liṅga. * 
+issues, resulting from the fusion of the *amṛtakuṇḍalinī* of moon and the *agnikuṇḍalinī* of fi re, one flowing downward and the other upward, assuming the double \(sexual\) aspect of the union of *yoni* and *liṅga.* 
 
 It is thus, O Worshipped by the Gods\! that the fourfold imposition is to be performed. The sixfold *nyāsa* , O Dear One\! that of Animā, etc., and that of the *mūladevī* , and so forth, //87// and also that of the purifi cation of the hands \[must be performed completely\] by the adept in order to completely eff ect his object. 
 
@@ -909,7 +909,7 @@ They are to be performed each separately in the morning, at the time of the ritu
 
 *japakāle tathā teṣāṁ viniyoga ḥ pṛthak pṛthak* / 
 
-*pūjākāle samastaṁ vā kṛtvā sādhakapuṅgava ḥ * //89// 
+*pūjākāle samastaṁ vā kṛtvā sādhakapuṅgava ḥ* //89// 
 
 The commentary explains that the sixfold *nyāsa* is to be done in the morning, at the time of the worship, the *nyāsa* of the Siddhis, Animā, and so on; the imposition of the Goddess, and so on, taking place with the *homa* and the *karaśuddhinyāsa* , and so on, having to be performed when doing *japa* . Otherwise, all the impositions can be performed before beginning the *pūjā* , as prescribed here. 
 
@@ -1018,7 +1018,7 @@ O Goddess\! one must make appear in the right manner the king of *cakras* \[draw
 
 of the Yoginīs. //95–96a// 
 
-*saumyāgneyayutair devi rocanāgurukuṇkumai ḥ * //95// 
+*saumyāgneyayutair devi rocanāgurukuṇkumai ḥ* //95// 
 
 *mūlam uccārayan samyag bhāvayec cakrarājakam* / 
 
@@ -1037,13 +1037,13 @@ Then one must throw on it flowers held in one’s joined hands.
 
 //96// Or \[one may adorn it\] with gems and coral while \[reciting\] 
 
-the *mūlavidyā * backward One must, in all cases, ensure that \[the *cakra* \] is not empty, \[ for\] if it were empty, the obstacles would be innumerable. //97// 
+the *mūlavidyā* backward One must, in all cases, ensure that \[the *cakra* \] is not empty, \[ for\] if it were empty, the obstacles would be innumerable. //97// 
 
-*yoginīmūlamantreṇa kṣipet puṣpāñjaliṁ tata ḥ * //96// 
+*yoginīmūlamantreṇa kṣipet puṣpāñjaliṁ tata ḥ* //96// 
 
-*maṇimuktāpravalair vā vilomaṁ mūlavidyayā * / 
+*maṇimuktāpravalair vā vilomaṁ mūlavidyayā* / 
 
-*aśūnyaṁ sarvadā kuryāt śūnye vighnās tvanekaśa ḥ * //97// 
+*aśūnyaṁ sarvadā kuryāt śūnye vighnās tvanekaśa ḥ* //97// 
 
 The rule that the *cakra* or the chalice used for the ritual worship of a Tantric deity must never be empty of the prescribed off erings is a general rule. In the case of Bhairava, the Tantrāloka says that if the chalice were empty, the god, always furious and voracious, would immediately devour the adept. More sedately, the Dī says that if the *cakra* were empty of these off erings during the worship, the ritual would be fruitless. 
 
@@ -1055,13 +1055,13 @@ The rule that the *cakra* or the chalice used for the ritual worship of a Tantri
 
 *caturasrāntarālasthakoṇaṣaṭke sureśvari* //98// 
 
-*ṣ aḍāsanāni saṁpūjya trikoṇasyāntare puna ḥ * / 
+*ṣ aḍāsanāni saṁpūjya trikoṇasyāntare puna ḥ* / 
 
 *pīṭhāni caturo devi kā pū jā o iti kramāt* //99// 
 
 *arcayitvā ‘rghyapāde tu vahner daśa kalā yajet* / 
 
-The Dī describes the diagram in which a six-angled fi gure with a small triangle in its center is inscribed in a circle, which is inside a square. The chalice into which the *arghya * has been poured \(the *arghyapātra* \) is to be placed on this inner small triangle. The Dī gives the names of the six *āsanas* who seem to be throne deities \(or deities of the throne\), sacralizing, as it were, the “throne,” the place of the *arghyapatra* . 28 
+The Dī describes the diagram in which a six-angled fi gure with a small triangle in its center is inscribed in a circle, which is inside a square. The chalice into which the *arghya* has been poured \(the *arghyapātra* \) is to be placed on this inner small triangle. The Dī gives the names of the six *āsanas* who seem to be throne deities \(or deities of the throne\), sacralizing, as it were, the “throne,” the place of the *arghyapatra* . 28 
 
 * *
 
@@ -1091,15 +1091,15 @@ The *sādhaka* is to worship a \(mental\) image of the sun god in the center of 
 
 And in its center he must meditate intensely on Amṛteśīwith the Navātma\[mantra\]. Then, with the Navātman, O Goddess\! he must 
 
-make a libation of the goddesses of the constituent elements \[of the body\] //102// and to Ānandabhairava with \[a mantra\] ending with *vauṣaṭ. * 
+make a libation of the goddesses of the constituent elements \[of the body\] //102// and to Ānandabhairava with \[a mantra\] ending with *vauṣaṭ.* 
 
 *amṛteśīṁ ca tanmadhye bhāvayed ca navātmanā* / 
 
-*navātmanā tato devi tarpayed dhātudevatā ḥ * //102// 
+*navātmanā tato devi tarpayed dhātudevatā ḥ* //102// 
 
 *ānandabhairavaṁ caiva vauṣaḍantena tarpayet* / 
 
-Amṛteśī, “the Mistress of the Nectar,” is a goddess who pours *amṛta* on the world, thus helping and stimulating it. The Navātmamantra is usually given as *HSKṣMLVRYŪ Ṃ * . It is an important mantra of the Trika. 
+Amṛteśī, “the Mistress of the Nectar,” is a goddess who pours *amṛta* on the world, thus helping and stimulating it. The Navātmamantra is usually given as *HSKṣMLVRYŪ Ṃ* . It is an important mantra of the Trika. 
 
 122
 It is also the mantra form of the beautiful god Navātma, the consort of the crooked goddess Kubjikā, the main deity of the Tripurā tradition of the Kula. We translate the verb *bhāvayet* as “meditate intensely,” which implies a mental concentration so intense as to create in the mind of the adept a precise image of the deity. Anandabhairava is a form of the god Bhairava. The mantra ending with *vauṣaṭ* is the Navātmamantra to which is added *ānandabhairavāya vauṣaṭ* . 32 
@@ -1108,19 +1108,19 @@ The best of *sādhakas* must also prepare carefully, in the same way, the specia
 
 Having worshipped the sandals of the \[succession of \] masters, he must then off er this *arghya* to Bhairava. Being impelled by the latter’s order, he must off er it to the succession of masters. //104// 
 
-*tathaivārghyaṁ viśeṣeṇa sādhayet sādhakottama ḥ * //103// 
+*tathaivārghyaṁ viśeṣeṇa sādhayet sādhakottama ḥ* //103// 
 
-*gurupādālim āpūjya bhairavāya dadet puna ḥ * / 
+*gurupādālim āpūjya bhairavāya dadet puna ḥ* / 
 
 *tadājñāpreritaṁ tacca gurupaṅktau nivedayet* //104// 
 
-The sandals or footprints \( *pādukā* \) of the gurus are those of all the masters of the tradition of Tripurā, from Śiva to one’s own guru. These *pādukas* are metaphysically the imprint, the trace of the presence of the supreme deity in this world; to worship them is therefore to worship the deity as present in this world. The *gurupūjā * is a mandatory element of the fi rst part of the Tantric *pūjā. * 
+The sandals or footprints \( *pādukā* \) of the gurus are those of all the masters of the tradition of Tripurā, from Śiva to one’s own guru. These *pādukas* are metaphysically the imprint, the trace of the presence of the supreme deity in this world; to worship them is therefore to worship the deity as present in this world. The *gurupūjā* is a mandatory element of the fi rst part of the Tantric *pūjā.* 
 
 In this tradition, the succession of the gurus is deemed to go through three stages, called flows \( *ogha* \). First, the divine \( *divya* \) flow, starting with Śiva followed by four masters, one for each of the four cosmic cycles, the *yugas* from *Kṛtayuga* to *Kaliyuga* ; then the flow of perfect or accomplished masters \( *siddhaugha* \); and fi nally, the human ones \( *mānavaugha* \), the succession of the masters of this world, going from the fi rst revelation of the doctrine to our days. The Dī tells how to worship them: the *arghya* is to be elevated three times up to his head by the offi
 
 ciant, then off ered to 
 
-Bhairava, who, as the Master, is in a triangle in the center of the “forest of the great lotus,” which, as we have seen \( *śl. * 3–5\), is on the *brahmarandhra* . 
+Bhairava, who, as the Master, is in a triangle in the center of the “forest of the great lotus,” which, as we have seen \( *śl.* 3–5\), is on the *brahmarandhra* . 
 
 Having collected what remains of it, one must perform \[with it\] an oblation in the fi re of desire where the whole universe is burning while reciting the *mūlavidyā* and the \[ formula of worship of \] the sandals of the Master. //105// 
 
@@ -1160,9 +1160,9 @@ Conceiving the unity of I-ness and objectivity as being in the ladle *srùc* , w
 
 *ahantedantayor aikyam unmanyāṁ sruci kalpitam* / 
 
-*mathanodrekasambhūtaṁ vasturūpaṁ mahāhavi ḥ * //107// 
+*mathanodrekasambhūtaṁ vasturūpaṁ mahāhavi ḥ* //107// 
 
-*hutvā hutvā svayaṁ caivaṁ sahajānandavigraha ḥ * / 
+*hutvā hutvā svayaṁ caivaṁ sahajānandavigraha ḥ* / 
 
 The ladle *srùc* is one of the two ladles used since Vedic times for off ering the ritual oblation in the fi re, the *homa* . This ladle, in the present case, is not a material object. It is the “transmental” \( *unmanī* \), the highest 
 
@@ -1181,7 +1181,7 @@ Thus, as stated in the next half- *śloka* :
 
 The wise \[adept\] must then perform the worship of the *śrīcakra* , the form that the expansion of his consciousness takes as it spreads out. //108// 
 
-*svaprathāprasarākāraṁ śrīcakraṁ pūjayet sudhi ḥ * //108// 
+*svaprathāprasarākāraṁ śrīcakraṁ pūjayet sudhi ḥ* //108// 
 
 The *śrīcakra* can be said to be the form taken by the adept’s consciousness as it spreads out, because in the nonduality of consciousness \( *saṁvidadvaya*\) of Kashmir Shaivism, there is no diff erence between 
 
@@ -1199,13 +1199,13 @@ Now comes the description of the *śrīcakra pūjā* proper, *ślokas* 109–168
 
 * The śrīcakra pu*¯ *jā *
 
-This *pūjā* consists of the worship of Tripurasundarī and her retinue of ancillary deities: of the several deities abiding in the *śrīcakra* , from those in the outer square section to the Goddess in the central triangle. The worship is followed by the *japa* of the *śrīvidyā * and a fi nal off ering in the fi re, a *homa* . 
+This *pūjā* consists of the worship of Tripurasundarī and her retinue of ancillary deities: of the several deities abiding in the *śrīcakra* , from those in the outer square section to the Goddess in the central triangle. The worship is followed by the *japa* of the *śrīvidyā* and a fi nal off ering in the fi re, a *homa* . 
 
 A sacrifi ce 36 to Gaṇeśa and to Dūtarī, to the Master of the Field, and to Dūtī is to be performed, O Goddess\! as also, on the external door, to the goddesses headed by Svastikā. //109// 
 
 *gaṇeśaṁ dūtarīṁ caiva kṣetreśaṁ dūtikāṁ tathā* / 
 
-*bāhyadvāre yajed devi devīśca svastikādikā ḥ * //109// 
+*bāhyadvāre yajed devi devīśca svastikādikā ḥ* //109// 
 
 The Dī explains that the ritual worship of the fi rst group of deities is to be performed “on the frame of the door” of the outer square section of the *śrīcakra* . The Master of the Field, Kṣetreśa or Ksetrapāla, is the god Baṭuka, an aspect of Bhairava; Dutī is his consort. The goddesses headed by Svastikā, worshipped on the external part of the door, number fi ve; they are “singing goddesses” \( *gāyikā* \), deemed to delight Tripurasundarī with their songs. 
 
@@ -1221,7 +1221,7 @@ and in this \[ *baindavacakra* \] he will worship, after having invoked her, the
 
 \[This\] worship is to be performed with off erings of food, etc., of which you are yourself formed. 
 
-*tadantaś ca mahādevīṁ tām āvāhya yajet puna ḥ * //110// 
+*tadantaś ca mahādevīṁ tām āvāhya yajet puna ḥ* //110// 
 
 *mahāpadmavanāntasthāṁ kāraṇāndavigrahām* / 
 
@@ -1240,9 +1240,9 @@ The Dī expatiates at length on the metaphysical symbolic interpretation of thes
 
 Then, on the triangle, \[one must worship\] the refl ected forms of her fl ashing forth, //112// the Nityās made of all the *tithis* , their aspects being those suitable for optional rites. 
 
-*trikoṇe tatsphurattāyā ḥ pratibimbākṛtīḥ puṇa ḥ * //112// 
+*trikoṇe tatsphurattāyā ḥ pratibimbākṛtīḥ puṇa ḥ* //112// 
 
-*tattattithimayīr nityā ḥ kāmyakarmānurūpiṇī ḥ * / 
+*tattattithimayīr nityā ḥ kāmyakarmānurūpiṇī ḥ* / 
 
 This worship is to be performed on the three lines of the central triangle. The Nityās \(the Eternal Ones\) are ancillary deities numbering sixteen, identifi ed with the phonemes of the *śrīvidyā* , which surround the Goddess. They are also identifi ed with the *tithis* , the lunar days, 
 
@@ -1262,7 +1262,7 @@ There, in the Trailokyamohana\[cakra\], are the manifested Yoginīs.
 
 *tatra prakaṭayoginyaś cakre trailokyamohane* //113// 
 
-*mātṛkāsthūlarūpatvāt tvagādivyāpakatvata ḥ * / 
+*mātṛkāsthūlarūpatvāt tvagādivyāpakatvata ḥ* / 
 
 *yoginya ḥ prakaṭā jñeyā ḥ sthūlaviśvapradhātmani* //114// 
 
@@ -1270,7 +1270,7 @@ The skin is one of the seven constituent elements of the organic body which are 
 
 \[There, too,\] abide the eight *siddhis* Aṇimā and the others, O great Goddess\! They are deep red in color; their hands make the gesture of propitiation and protection. //115// They hold the great fabulous gem and thus give the fruit one desires. 
 
-*aṇimādyā mahādevi siddhayo ‘ṣṭau vyavasthitā ḥ * / 
+*aṇimādyā mahādevi siddhayo ‘ṣṭau vyavasthitā ḥ* / 
 
 *tās tu raktatarā varṇair varābhayakarās tathā * //115// 
 

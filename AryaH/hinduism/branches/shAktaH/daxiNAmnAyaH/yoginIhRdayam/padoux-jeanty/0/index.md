@@ -10,7 +10,7 @@ title = "Index"
 - ājñā *\( *cakra*\), 35–37, 40, 101, 135, 147
 - bali*, 18, 116, 159
 - akula*, 34, 60, 87, 126, 133
-- bāṇa, * 17
+- bāṇa,* 17
 - akulapadma*, 36, 61, 96
 - bāṇaliṅga*, 41–42
 - āmnāya*, 2, 4–6
@@ -110,7 +110,7 @@ in the *pūjā*, 115, 120–121, 126
 - Kāmeśvara*, *Kāmeśvarā*, 17
 - dīkṣā*, 2
 - kāmya*, 126, 144
-- Dīpikā, * abbr. *Dī *, 8
+- Dīpikā,* abbr. *Dī *, 8
 - kaṇḍa*, 40
 - dvādaśānta*, 21, 105–106
 - kapāla, kapālika*, 4, 16
@@ -125,7 +125,7 @@ Kashmir, 7, 13
 - kaula*, see *kula*
 - gāyikā*, 125
 - kaulācāra*, 16
-- graha, * 82, 100–101, 119
+- graha,* 82, 100–101, 119
 - kaulikārtha*, 16, 80–86
 - granthi*, 9, 117
 - khecara, khecarī*, 25, 48, 52
@@ -144,12 +144,12 @@ Kashmir, 7, 13
 - kula, kaula*, 4–6, 42, 60, 90–91, 145
 - homa*, 18, 116, 122
 - kūladīpa*, 18
-- hṛd*, * hṛdaya*, 11–12
+- hṛd*,* hṛdaya*, 11–12
 - kuṇḍalinī*, 9, 17, 20–21, 40, 51
 - hṛdaya cakra*, 147–148
 
 ascent during penultimate *japa*, 
-- hṛllekhā, * 80, 151
+- hṛllekhā,* 80, 151
 
 145–148, 155
 
@@ -204,7 +204,7 @@ in the mantra \( *vidyā*\), 63, 68–69, 73,
 - prakṛti*, 33, 82, 150
 - mantrasaṃketa*, 14–16, 58–92
 - pralayākala*, 76
-- mātṛ*, * mātṛkā*, 27–29, 42, 66, 102, 109, 
+- mātṛ*,* mātṛkā*, 27–29, 42, 66, 102, 109, 
 - pramā*, 30, 44
 
 113, 127
@@ -363,7 +363,7 @@ in sixfold *nyāsa*, 101–102, 106–107,
 
 112, 117
 - yoginīmelana*, 16, 90
-- yoga, * 63, 96, 132, 133
+- yoga,* 63, 96, 132, 133
 - yoni*, 53, 67, 116
 
 yogic body, 10

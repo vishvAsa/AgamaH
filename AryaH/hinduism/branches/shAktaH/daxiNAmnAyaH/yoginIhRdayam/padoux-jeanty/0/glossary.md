@@ -21,7 +21,7 @@ Sanskrit terms whose meanings are customarily well known \( *Brahman* , *liṅga
 
 *ardhacandra*: crescent moon; one of the divisions \( *kalā* \) of the utterance \( *uccāra* \) of *OM*
 
-*. * . 
+*.* . 
 
 *arghya*: untranslatable; the liquid off ering to the deity done during worship and of which the worshipper is to partake; consists usually of water \(or other fl uid\), mixed with various substances; the two sort of *arghya* are ordinary \( *sāmānya* \) and special \( *viśeṣa* \). 
 
@@ -81,7 +81,7 @@ Sanskrit terms whose meanings are customarily well known \( *Brahman* , *liṅga
 
 *dīkṣā*: initiation in a particular Tantric tradition; not to be confused with the *upanayana* , the initiation of boys of the three higher *varṇas* \(Brahmin, Kṣatrya, Vaiśya\). 
 
-*dvādaśānta*: the *cakra* twelve fi nger’s breadths above the head, the highest point reached by the ascending *kuṇḍalinī. * 
+*dvādaśānta*: the *cakra* twelve fi nger’s breadths above the head, the highest point reached by the ascending *kuṇḍalinī.* 
 
 *granthi*: “knot”; a name for the *cakras* of the yogic body. 
 
@@ -93,7 +93,7 @@ Sanskrit terms whose meanings are customarily well known \( *Brahman* , *liṅga
 
 *icchā*** \( ** *icchā śakti*** \): ** will, the power of will, of the deity; the highest of Śiva’s three basic powers. 
 
-*jāgrat*: waking, one of the fi ve *avasthas. * 
+*jāgrat*: waking, one of the fi ve *avasthas.* 
 
 *japa*: ritual recitation of a mantra. 
 
@@ -109,7 +109,7 @@ Sanskrit terms whose meanings are customarily well known \( *Brahman* , *liṅga
 
 *kalā*: limited power to act; usually the fi rst evolute of *māyā* ; *kalās* are phonic subdivisions of mantras, notably of the subtle *uccāra* of *bījamantras* ending with *M*
 
-*. * *. * . 
+*.* *.* . 
 
 *kāmakalā*: a ritual diagram symbolizing the sexual union of Śiva and Śakti. 
 
@@ -169,7 +169,7 @@ Sanskrit terms whose meanings are customarily well known \( *Brahman* , *liṅga
 
 *ś abda*: sound, one of the fi ve subtle elements \( *tattvas* \). 
 
-*sādhaka*: initiated adept, looking for or possessing *siddhis. * 
+*sādhaka*: initiated adept, looking for or possessing *siddhis.* 
 
 *samāveśa*: complete absorption in the divine. 
 
@@ -209,7 +209,7 @@ going on eternally from age \( *yuga* \) to age.
 
 *visarga*: emission; the name of the letter of the Sanskrit alphabet transcribed as *H*
 
-*. . * 
+*. .* 
 
 *vimarśa*: the consciousness aspect of the supreme godhead who is both *prakāśa* \(pure light\) and *vimarṣa* . 
 

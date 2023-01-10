@@ -9,7 +9,7 @@ the purpose of this chapter is to teach how to understand the inner hidden meani
 
 cacy—of Mahātripurasundarī’s 
 
-mantra, the *śrīvidyā. * As was the case for the *śrīcakra* , this effi cacy results 
+mantra, the *śrīvidyā.* As was the case for the *śrīcakra* , this effi cacy results 
 
 from the agreed common presence \( *saṁketa* \) of Śiva and Śakti in Tripurā’s mantra, whose constituent phonemes will be shown to be pervaded by the interactive presence and power of these two, male and female, aspects of the supreme deity and therefore as imbued with saving power. Diff erent aspects assumed by the Goddess, along with cosmic elements, are also shown as expressed by the phonemes of the *vidy* *ā*. 
 
@@ -27,7 +27,7 @@ Tripurā, master of the circle of heroes. //1//
 
 * *
 
-*Encounter in the * Mantra * *
+*Encounter in the* Mantra* *
 
 59
 
@@ -39,19 +39,19 @@ The fi rst is the Karaśuddhikarī, the second one Ātmarakṣikā, the third Ā
 
 her nature being that of Māyā and Lakṣmī, supreme. //3// The one called Mūrtividyā is the seventh goddess. The eighth one is the *vidyā* Āvāhinī; the ninth is the supreme Bhairavī, //4// also called Mūlavidyā, subjugating the three worlds. 
 
-*karaśuddhikarītvādyā dvitīyā ātmarakṣikā * / 
+*karaśuddhikarītvādyā dvitīyā ātmarakṣikā* / 
 
 *ātmāsanagatā devītṛtīyā tadanantaram* //2// 
 
-*cakrāsanagatā paścāt sarvamantrāsanasthitā * / 
+*cakrāsanagatā paścāt sarvamantrāsanasthitā* / 
 
-*sādhyasiddhāsanāṣaṣṭhīmāyālakṣmīmayīparā * //3// 
+*sādhyasiddhāsanāṣaṣṭhīmāyālakṣmīmayīparā* //3// 
 
-*mūrtividyā ca sā devīsaptamīparikīrtitā * / 
+*mūrtividyā ca sā devīsaptamīparikīrtitā* / 
 
-*aṣṭamy āvāhinīvidyā navamībhairavīparā * //4// 
+*aṣṭamy āvāhinīvidyā navamībhairavīparā* //4// 
 
-*mūlavidyā tathā proktā trailokyavaśakāriṇī * / 
+*mūlavidyā tathā proktā trailokyavaśakāriṇī* / 
 
 These nine Vidyās preside over the nine parts of the *śrīcakra* , from the outer square to the central triangle with the *bindu* in its center. To each of them a particular role or function, expressed by her name, is ascribed. The fi rst is Karaśuddhikarī, “purifi er of the hands,” since the hands of the adept are to be purifi ed before he performs the ritual. He is also to protect himself against all mental or spiritual imperfections and especially against egoism and the illusion of duality, hence the name Ātmarakṣikā, “protector of the Self,” of the second Vidyā. The third one, “who stays on the throne of the Self,” embodies, according to Amṛtānanda, the consciousness of the unity of the *sādhaka* , the *cakra* , the mantra, and the Self. The fourth is Cakrāsanagatā, 
 
@@ -60,13 +60,13 @@ These nine Vidyās preside over the nine parts of the *śrīcakra* , from the ou
 60
 on the throne of all mantras,” presides over the portion of the *śrīcakra* called Sarvārthasādhaka, “which fulfi lls all wishes.” The sixth, Sādhyasiddhāsana, 
 
-“the seat of the accomplishment of what is to be accomplished,” governs the powers nearest to the Goddess, the accomplishment alluded to being the cosmic work of the Goddess as symbolized by the *śrīcakra* and the *śrīvidyā. * 
+“the seat of the accomplishment of what is to be accomplished,” governs the powers nearest to the Goddess, the accomplishment alluded to being the cosmic work of the Goddess as symbolized by the *śrīcakra* and the *śrīvidyā.* 
 
 The seventh is the Mūrtividyā, the visible form of the Goddess. The eighth one, Āvāhinīvidyā, is the one used to invoke and keep \(during worship\) the presence of the Goddess. The ninth *vidyā* is Bhairavī, the Goddess herself; she is therefore the *śrīvidyā* , the *mūlamantra* of Mahātripurasundarī. 1 
 
 Thus, O Mistress of Kula, these nine kinds \[of *vidyās* \] are to be carefully placed //5// at the time of worship, in order, by the *sādhaka* . 
 
-*evaṁ navaprakārās tu pūjākāle prayatnata ḥ * //5// 
+*evaṁ navaprakārās tu pūjākāle prayatnata ḥ* //5// 
 
 *etā ḥ krameṇa nyastavyā ḥ sādhakena kuleśvari* / 
 
@@ -88,7 +88,7 @@ One must, on the spots previously mentioned, namely *akula* and so forth, 3 conc
 
 * *
 
-*Encounter in the * Mantra * *
+*Encounter in the* Mantra* *
 
 61
 
@@ -96,13 +96,13 @@ One must, on the spots previously mentioned, namely *akula* and so forth, 3 conc
 
 *cakreṣvarīsamāyuktaṁ navacakraṁ puroditam* //8// 
 
-The adept is to evoke meditatively each of the nine constitutive *cakras* of the *śrīcakra* in each of the nine *cakras* of his yogic body. He must thus meditate intensely \( *bhāvayet* \), fi rst, on the Trailokyamohanacakra, the square outer portion of the *śrīcakra* , presided over by Tripurā in the thousand-petal red *akulapadma* at the root of the *suṣumnā. * Then he meditates on the Sarvāśaparipurakacakra presided over by Tripureśī, in the *vahnyādhāra,* that is, the *mūlādhāra* , and so forth, up to the Sarvānandamayacakra, with Mahātripurasundarī, in the *bindu* , on the forehead. 
+The adept is to evoke meditatively each of the nine constitutive *cakras* of the *śrīcakra* in each of the nine *cakras* of his yogic body. He must thus meditate intensely \( *bhāvayet* \), fi rst, on the Trailokyamohanacakra, the square outer portion of the *śrīcakra* , presided over by Tripurā in the thousand-petal red *akulapadma* at the root of the *suṣumnā.* Then he meditates on the Sarvāśaparipurakacakra presided over by Tripureśī, in the *vahnyādhāra,* that is, the *mūlādhāra* , and so forth, up to the Sarvānandamayacakra, with Mahātripurasundarī, in the *bindu* , on the forehead. 
 
-In this way, the adept perceives mentally the nine parts of the *śrīcakra* and the nine deities abiding there up to the supreme Goddess as present in his body, tiered along his *suṣumnā* . This identifi es him with the deity both in her diagrammatic form and in her fullness as the nine aspects she assumes in the *śrīcakra. * 
+In this way, the adept perceives mentally the nine parts of the *śrīcakra* and the nine deities abiding there up to the supreme Goddess as present in his body, tiered along his *suṣumnā* . This identifi es him with the deity both in her diagrammatic form and in her fullness as the nine aspects she assumes in the *śrīcakra.* 
 
 Of these I shall tell the names in their proper order. The fi rst is the goddess Tripurā; the second is Tripureśvarī; //9// the third is the the goddess named Tripurasundarī; the fourth, a great goddess, is Tripuravāsinī. //10// The fi fth is Tripuraśrī, the sixth Tripuramālinī; the seventh is Tripurasiddhi, the eighth Tripurāmbikā. //11// As for the ninth, she is the great Goddess Mahātripurasundarī. These goddesses are to be worshipped in their proper order in the ninefold *cakra* previously described. //12// 
 
-*tāsāṁ nāmāni vakṣyāmi yathānukramayogata ḥ * / 
+*tāsāṁ nāmāni vakṣyāmi yathānukramayogata ḥ* / 
 
 *tatrādyā tripurā devīdvitiyā tripureśvarī* //9// 
 
@@ -112,7 +112,7 @@ Of these I shall tell the names in their proper order. The fi rst is the goddess
 
 *pañcamītripurāśrīḥ syātṣaṣṭhītripuramālinī* 
 
-*saptamītripurasiddhir aṣṭamītripurāmbikā * //11// 
+*saptamītripurasiddhir aṣṭamītripurāmbikā* //11// 
 
 *navamītu mahādevi mahātripurasundarī* / 
 
@@ -131,7 +131,7 @@ O Parvati\! The primordial One \[ *ādyā* \] appearing thus at the time of wors
 
 *evaṁ navaprakārādyā pūjakāle tu pārvati* / 
 
-*ekākārā hy ādyaśaktir ajarāmarakāriṇī * //13// 
+*ekākārā hy ādyaśaktir ajarāmarakāriṇī* //13// 
 
 The Dī explains here that the only one who is eternally young and immortal is Śiva, and therefore, what the worshipper will now enjoy is the condition of Śiva. The reader will note that the above stanza shows that the aim of the rites described in the Tantra is the gaining of supernatural rewards or powers in addition to liberation. 
 
@@ -139,7 +139,7 @@ The reason stanzas 1–13 of this chapter enumerate the deities of the *śrīcak
 
 The practice of the mantra \[ *mantrasaṁketaka* \] of that \[primordial power\] can take diff erent forms. It is only by following the tradition and the regular order of the various mantras that one can obtain \[its knowledge\]. //14// 
 
-*mantrasaṁketakas tasyā nānākāro vyavasthita ḥ * / 
+*mantrasaṁketakas tasyā nānākāro vyavasthita ḥ* / 
 
 *nānamantrakrameṇaiva pāramparyeṇa labhyate* //14// 
 
@@ -147,7 +147,7 @@ We have already explained the meanings of the term *saṁketa* in the introducti
 
 * *
 
-*Encounter in the * Mantra * *
+*Encounter in the* Mantra* *
 
 63
 
@@ -163,7 +163,7 @@ There is the natural meaning, the traditional one, the inner meaning, the *kauli
 
 *ṣ aḍvidhas taṁ tu deveśi kathayāmi tavānaghe* / 
 
-*bhāvārtha ḥ saṁpradāyārtho nigarbhārthaś ca kaulika ḥ * //15// 
+*bhāvārtha ḥ saṁpradāyārtho nigarbhārthaś ca kaulika ḥ* //15// 
 
 *tathā sarvarahasyārtho mahātattvārtha eva ca* / 
 
@@ -175,7 +175,7 @@ cult to understand fully, even with the help of Amṛtānanda’s \(or Bhāskara
 
 Although the explanations given are entirely based on the syllabic pattern of the *śrīvidyā* , neither the YH nor Amṛtānanda’s Dīpikā gives its syllabic composition, its “extraction” \( *udhāra* \) 4 . It is clear, however, that for the YH, the *vidyā* is—as we noted in the introduction—in the so-called *hādi* form, namely its fi fteen syllables, shared out into three groups called *kūṭa* \(or sometimes *bīja* \): *HA SA KA LA HRĪṂ • HA SA HA KA LA HRĪṂ *
 
-*• SA KA LA HRĪṂ . * 
+*• SA KA LA HRĪṂ .* 
 
 
 
@@ -196,7 +196,7 @@ whose nature is vibration \[ *spanda* \], of innate beauty, once known, is to be
 
 *yoginībhis tathā vīrai ḥ vīrendrai ḥ sarvadā priye* / 
 
-*śivaśaktisamāyogāj janito mantrarājaka ḥ * //17// 
+*śivaśaktisamāyogāj janito mantrarājaka ḥ* //17// 
 
 *tanmayīṁ paramānandananditāṁ spandarūpinīm* / 
 
@@ -204,21 +204,21 @@ whose nature is vibration \[ *spanda* \], of innate beauty, once known, is to be
 
 As we will see in the following pages, the interpretation that the YH gives in stanzas 18–25 of the *bhāvārtha* of the *śrīvidyā* is anything but a description of “simply the meaning of the syllables” \( *akṣarārtha* \) of the *vidyā* ; of all the six *arthas* , this is by far the most obscure and diffi cult to understand. 
 
-The above stanzas 17 and 18 describe the whole *śrīvidyā* \(considered the highest and best mantra and thus called the king of mantras, *mantrarāja* \) as resulting from the conjunction \( *samāyoga* \) of Śiva and Śakti and also from that of the pairs of male and female deities surrounding them. In this respect, too, the *śrīvidyā * is, like the *śrīcakra* , the place and the embodiment, and the result, of the “meeting” \( *saṁketa* \) of Śiva and Śakti. 
+The above stanzas 17 and 18 describe the whole *śrīvidyā* \(considered the highest and best mantra and thus called the king of mantras, *mantrarāja* \) as resulting from the conjunction \( *samāyoga* \) of Śiva and Śakti and also from that of the pairs of male and female deities surrounding them. In this respect, too, the *śrīvidyā* is, like the *śrīcakra* , the place and the embodiment, and the result, of the “meeting” \( *saṁketa* \) of Śiva and Śakti. 
 
-Amṛtānanda interprets the term *Yoginī* as referring to the three goddesses Bhāratī, Pṛthivī, and Rudraṇī and to the three basic powers of Śiva, namely will, cognition, and activity \( *icchā* , *jñāna* , *kriyā* \); these entities, being feminine, correspond to the aspect of consciousness \( *vimarśāṁśa* \) of the Goddess. The Vīras, associated with the Yoginīs, are Brahmā, Viṣṇu, and Rudra, who, being male, are aspects of the light of consciousness \( *prakāśāṁśa* \) aspect of the supreme godhead, who is considered to be in its fullness *prakāśāvimarśamaya* , both pure conscious light and supreme active consciousness. The Vīrendras, we are told by Amṛtānanda, transcend the cosmos, their nature being pure energy, and whereas the Yoginīs and the Vīras are considered to be present in the three *kūṭas* , the three groups of syllables of the *śrīvidyā* , the Vīrendras are associated with the three *HRĪṂ * \(here called *kāmakalā* \) which end the three *kūṭas. * 
+Amṛtānanda interprets the term *Yoginī* as referring to the three goddesses Bhāratī, Pṛthivī, and Rudraṇī and to the three basic powers of Śiva, namely will, cognition, and activity \( *icchā* , *jñāna* , *kriyā* \); these entities, being feminine, correspond to the aspect of consciousness \( *vimarśāṁśa* \) of the Goddess. The Vīras, associated with the Yoginīs, are Brahmā, Viṣṇu, and Rudra, who, being male, are aspects of the light of consciousness \( *prakāśāṁśa* \) aspect of the supreme godhead, who is considered to be in its fullness *prakāśāvimarśamaya* , both pure conscious light and supreme active consciousness. The Vīrendras, we are told by Amṛtānanda, transcend the cosmos, their nature being pure energy, and whereas the Yoginīs and the Vīras are considered to be present in the three *kūṭas* , the three groups of syllables of the *śrīvidyā* , the Vīrendras are associated with the three *HRĪṂ* \(here called *kāmakalā* \) which end the three *kūṭas.* 
 
 We thus have to understand the *śrīvidyā* as pervaded by Śiva and Śakti together with their retinue of male and female ancillary deities. Being thus engendered and permeated by the united Śiva and Śakti and by their threefold 
 
 * *
 
-*Encounter in the * Mantra * *
+*Encounter in the* Mantra* *
 
 65
 
-divine aspects, the *śrīvidyā * is a veritable embodiment of the Goddess as united with Śiva. This the adept must “know,” that is, experience, realize meditatively, the fact that the *vidyā* is the very self of the Goddess who is then to be worshipped. Neither the YH nor its commentary explains in what respect this worship is to be “freely” \( *svairam* \) performed. We may take it, perhaps, that it is to be performed with all the rites and off erings that will please and honor the deity and help the worshipper to identify with her. 
+divine aspects, the *śrīvidyā* is a veritable embodiment of the Goddess as united with Śiva. This the adept must “know,” that is, experience, realize meditatively, the fact that the *vidyā* is the very self of the Goddess who is then to be worshipped. Neither the YH nor its commentary explains in what respect this worship is to be “freely” \( *svairam* \) performed. We may take it, perhaps, that it is to be performed with all the rites and off erings that will please and honor the deity and help the worshipper to identify with her. 
 
-In the next fi ve stanzas, the YH shows, fi rst, that the *śrīvidyā* encapsu-lates symbolically the creative power born from the interaction of Śiva and Śakti \(that is, the Goddess surrounded by her retinue of secondary deities\) \( *śl* . 19–20\), this interaction being visibly manifested and experienced in the *kāmakalā* \( *śl. * 21\). Then the supreme power is shown as abiding in the three *kūṭas* of the *vidyā* \( *śl. * 22\), this omnipresent Goddess \( *śl. * 23a\) having to be intensely meditated upon and understood. 
+In the next fi ve stanzas, the YH shows, fi rst, that the *śrīvidyā* encapsu-lates symbolically the creative power born from the interaction of Śiva and Śakti \(that is, the Goddess surrounded by her retinue of secondary deities\) \( *śl* . 19–20\), this interaction being visibly manifested and experienced in the *kāmakalā* \( *śl.* 21\). Then the supreme power is shown as abiding in the three *kūṭas* of the *vidyā* \( *śl.* 22\), this omnipresent Goddess \( *śl.* 23a\) having to be intensely meditated upon and understood. 
 
 \[The Goddess\], in mantra form, is thought \[ *manana* \], made up of the knower and the known. She abides in the eternal Brahman in 
 
@@ -230,7 +230,7 @@ the form of the conjunction of Śiva and Śakti on the plane where
 
 *tatprathāprasarāśleṣabhuvi tvaindropalakṣite* //19// 
 
-*jñātṛjñānamayākāramananān mantrarūpiṇī * / 
+*jñātṛjñānamayākāramananān mantrarūpiṇī* / 
 
 The *śrīvidyā* is the Goddess in mantra form. She is thought \( *manana* \), intelligence or consciousness, a condition described as consisting of \(or resulting from\) the unifying interaction \( *saṁghaṭṭa* \) 5 of Śiva and Śakti, since the mantra is the locus of this interaction. Being divine, this interaction takes place on the supreme plane of the eternal Brahman, a plane where Śiva and Śakti, in their embrace and interpenetration, expand and transform themselves into \(and therefore adhere to\) the cosmos. The *śrīvidyā* is thus, like the *śrīcakra* , a symbolic form of the cosmic activity of the Goddess. This creative action of Śiva and Śakti is called “Indraic” 
 
@@ -241,13 +241,13 @@ The supreme energy is the mother of these \[deities\] taken
 
 together. //20// 
 
-*teṣāṁ samaṣṭirūpeṇa parāśaktis tu mātṛkā * //20// 
+*teṣāṁ samaṣṭirūpeṇa parāśaktis tu mātṛkā* //20// 
 
 The *śrīvidyā* as supreme power \( *parā śakti* \) made up of the coalescence of Śiva and Śakti appears thus as the mother of all the deities and of the cosmos, which issues from her. The term describing this creative aspect is *mātṛkā* , which denotes also the fifty phonemes of the Sanskrit alphabet taken together, that is, the totality of the Word \( *mātṛkā* can also designate one of these phonemes, being in that case a synonym of *varṇa* or *akṣara* \). 
 
-The *śrīvidyā * is therefore described here as including, or being, both the whole pantheon and the whole universe and, implicitly, the totality of the Word: the three levels, that is, of *vāc* issuing from *paravāc* and going down to *vaikharī* . 7 This allows Amṛtānanda to end his commentary on the last half-stanza by saying: “What is expressed \[ *vācaka* \] by the whole 
+The *śrīvidyā* is therefore described here as including, or being, both the whole pantheon and the whole universe and, implicitly, the totality of the Word: the three levels, that is, of *vāc* issuing from *paravāc* and going down to *vaikharī* . 7 This allows Amṛtānanda to end his commentary on the last half-stanza by saying: “What is expressed \[ *vācaka* \] by the whole 
 
-mantra, 8 which is made up of the \[male gods\] Brahma and so forth and of the \[ female ones\] Bharatī, etc., is the total fusion \[in the supreme godhead\] of light \[ *prakāśa* \] and consciousness \[ *vimarśa* \] expanding as *paśyantī* , *madhyamā* , and *vaikharī* .” The *śrīvidyā * as a whole, we are to understand, is identical with the divine power insofar as she is the Word \( *vāc* \). She holds within herself all the forms and planes of the Word and all the deities and all the cosmos, which we saw in chapter 1 as present in the *śrīcakra* ; she is, phonetically, in a mantric form, what the *śrīcakra* is diagrammatically. 
+mantra, 8 which is made up of the \[male gods\] Brahma and so forth and of the \[ female ones\] Bharatī, etc., is the total fusion \[in the supreme godhead\] of light \[ *prakāśa* \] and consciousness \[ *vimarśa* \] expanding as *paśyantī* , *madhyamā* , and *vaikharī* .” The *śrīvidyā* as a whole, we are to understand, is identical with the divine power insofar as she is the Word \( *vāc* \). She holds within herself all the forms and planes of the Word and all the deities and all the cosmos, which we saw in chapter 1 as present in the *śrīcakra* ; she is, phonetically, in a mantric form, what the *śrīcakra* is diagrammatically. 
 
 The interactive presence of Śiva and Śakti in the *śrīvidyā* is now shown as manifesting itself in a diagrammatic form as the *kāmakalā* :
 
@@ -259,13 +259,13 @@ in her coiled form has space and *kalā* as refl ected image. //21//
 
 *kuṭilārūpake tasyā ḥ pratirūpe viyatkale* //21// 
 
-According to Amṛtānanda \(and Bhāskararāya\), this stanza describes \(or, rather, alludes to\) the *kāmakalā * diagram \(see fi gure 2.1\). One can hardly say that the wording of this obscure stanza justifi es such an interpretation, which, however, is traditionally upheld in the Śrīvidyā system. It is as follows. 
+According to Amṛtānanda \(and Bhāskararāya\), this stanza describes \(or, rather, alludes to\) the *kāmakalā* diagram \(see fi gure 2.1\). One can hardly say that the wording of this obscure stanza justifi es such an interpretation, which, however, is traditionally upheld in the Śrīvidyā system. It is as follows. 
 
 The supreme power, *śakti* , in her coiled form \( *kuṭilārūpaka* \), is the *kuṇḍalinī* , which stretches between the “middle *bindu* and the *visarga* .” This is to say that she is inscribed within an upward-pointing triangle \(a masculine symbol, that 
 
 * *
 
-*Encounter in the * Mantra * *
+*Encounter in the* Mantra* *
 
 67
 
@@ -295,18 +295,18 @@ breast
 
 *hârdhakalâ*
 
-**figure 2.1. ** The *kāmakalā * diagram. 
+**figure 2.1. ** The *kāmakalā* diagram. 
 
 of Śiva\) on whose apex is a *bindu* and on each of whose two lower angles is also a *bindu* : two *bindus* , therefore, which make up a *visarga* whose written form is that of two dots \(:\). The upper *bindu* , it is said, is *kāma* , desire or passion; it is considered to be made up of the coalescence of the whole Sanskrit alphabet, from *A* to *HA* and as being the Sun. The *visarga* results from the division in two of *bindu* . It is the sixteenth “vowel” of the alphabet symbol-
 
-izing the creative power 9 of *vāc, * its two dots being symbolically Moon and Fire. 10 It is *kalā* , that is, active power. Between these two, between *kāma * and *kalā* , extends the *kuṇḍalinī* , which is graphically drawn as the letter *Ī * inscribed within a triangle pointing downward \(a feminine symbol, that of Śakti\). On the down-pointed apex of this triangle is the letter *HA* , or *hārdhakalā* , “the power of the half of *HA* ” \(a term that denotes also the *visarga* \). 
+izing the creative power 9 of *vāc,* its two dots being symbolically Moon and Fire. 10 It is *kalā* , that is, active power. Between these two, between *kāma* and *kalā* , extends the *kuṇḍalinī* , which is graphically drawn as the letter *Ī* inscribed within a triangle pointing downward \(a feminine symbol, that of Śakti\). On the down-pointed apex of this triangle is the letter *HA* , or *hārdhakalā* , “the power of the half of *HA* ” \(a term that denotes also the *visarga* \). 
 
-These two triangles with *kunḍalinī* located inside them are considered a symbol of the totality, from *A to HA* . They are also, mainly, a fi gure of the Goddess \(sexually united with Śiva\), her face being the “middle” upper *bindu* , the two lower *bindus* on the ends of the lower line of the masculine triangle being her two breasts, and the apex of the down-turned feminine triangle \(where *HA* or *hārdhakalā * is\) being her *yoni* . The shape of *kuṇḍalinī* , the letter *Ī * \(or, rather, the *bījaīṂ * , since *kuṇḍalinī* is topped by the middle *bindu* \), evokes her coiled form. This *kuṇḍalinī* , says the YH, is refl ected by the two lower *bindus* , a statement not clearly explained by the commentators. Thus, this diagram, with *kuṇḍalinī* and the two superposed intersecting triangles, represents the co-presence of the sexually united Śiva and Śakti. 11 
+These two triangles with *kunḍalinī* located inside them are considered a symbol of the totality, from *A to HA* . They are also, mainly, a fi gure of the Goddess \(sexually united with Śiva\), her face being the “middle” upper *bindu* , the two lower *bindus* on the ends of the lower line of the masculine triangle being her two breasts, and the apex of the down-turned feminine triangle \(where *HA* or *hārdhakalā* is\) being her *yoni* . The shape of *kuṇḍalinī* , the letter *Ī* \(or, rather, the *bījaīṂ* , since *kuṇḍalinī* is topped by the middle *bindu* \), evokes her coiled form. This *kuṇḍalinī* , says the YH, is refl ected by the two lower *bindus* , a statement not clearly explained by the commentators. Thus, this diagram, with *kuṇḍalinī* and the two superposed intersecting triangles, represents the co-presence of the sexually united Śiva and Śakti. 11 
 
 68
 The interpretation of this stanza as a description of the *śrīvidyā* embodying the *kāmakalā* diagram, however arbitrary, is confi rmed by other works of the Tripurā tradition, such as Nāṭanānandanātha’s commentary on the seventh stanza of Puṇyānandanātha’s *Kāmakalāvilāsa* or the NṣA, 2.185–
 
-186, with the commentaries of Śivānanda and Vidyānanda. It is also to be found in the *Gandharvatantra* , 30.37–64, which prescribes a visualization of *kuṇḍalinī* shaped as the letter *Ī Ṃ * extending in the yogic body of the adept from the *mūlādhāra* to the *brahmarandhra. * 
+186, with the commentaries of Śivānanda and Vidyānanda. It is also to be found in the *Gandharvatantra* , 30.37–64, which prescribes a visualization of *kuṇḍalinī* shaped as the letter *Ī Ṃ* extending in the yogic body of the adept from the *mūlādhāra* to the *brahmarandhra.* 
 
 This is why she is described as supremely blissful and beautiful and animated by the *spanda* , the primordial vibration that creates and animates the universe. 
 
@@ -314,9 +314,9 @@ The equally obscure next stanza is explained by the commentaries as describing t
 
 She holds herself in the central block \[ *pinḍa* \] of the mantra in the sky of the primordial vibration \[ formed by\] the expansion of the central breath. Then, in the third block, //22// she fl ashes forth undivided in the *kūṭa* of Rahu. //23a// 
 
-*madhyaprāṇaprathārūpaspandavyomni sthitā puna ḥ * / 
+*madhyaprāṇaprathārūpaspandavyomni sthitā puna ḥ* / 
 
-*madhyame mantrapiṇḍe tu tṛtīye piṇḍake puna ḥ * //22// 
+*madhyame mantrapiṇḍe tu tṛtīye piṇḍake puna ḥ* //22// 
 
 *rāhukūṭādvayasphūrjat* 
 
@@ -334,7 +334,7 @@ as a whole, expressing the cosmic power and role of the Goddess: When, in a stat
 
 * *
 
-*Encounter in the * Mantra * *
+*Encounter in the* Mantra* *
 
 69
 
@@ -348,7 +348,7 @@ Goddess made of three subdivisions, taking her either in her totality or in her 
 
 *dharmādharmasya vācasya viṣāṁṛtamayasya ca* //23// 
 
-*vacakākṣarasaṁyukte ḥ kathitā viśvarūpiṇī * / 
+*vacakākṣarasaṁyukte ḥ kathitā viśvarūpiṇī* / 
 
 *teṣāṁ samaṣṭirūpeṇa parāśaktiṁ tu mātṛkām* //24// 
 
@@ -360,24 +360,24 @@ What is to be understood here is that the Goddess, taken to be made up of the th
 
 that is, active—because she is both the cosmos \(meant here by *dharma* \) and its destruction \(called here *adharma* \). The fi rst of these two aspects is called poison \( *viṣa* \), since the *saṁsāra* is poisonous for the ordinary mortal; the other, nectar \( *amṛta* , a term that, in Sanskrit, means immortality\), 
 
-“is the death of death whose destruction is liberation” \(Dī \) or immortality. Creation and destruction— *sṛśti and saṁhāra* —are the two sides of her cosmic activity symbolized by the *śrīvidyā. * 
+“is the death of death whose destruction is liberation” \(Dī \) or immortality. Creation and destruction— *sṛśti and saṁhāra* —are the two sides of her cosmic activity symbolized by the *śrīvidyā.* 
 
-As for the two syllables expressing this double notion, they are *A* , the fi rst letter of the alphabet usually considered to be what “expresses” Śiva, and *HA* , the last letter associated here with Śakti. This “natural sense”\( *bhāvārtha* \) 12 of the *śrīvidyā * is what is to be understood through intense identifying meditation \( *bhāvanā* \). 
+As for the two syllables expressing this double notion, they are *A* , the fi rst letter of the alphabet usually considered to be what “expresses” Śiva, and *HA* , the last letter associated here with Śakti. This “natural sense”\( *bhāvārtha* \) 12 of the *śrīvidyā* is what is to be understood through intense identifying meditation \( *bhāvanā* \). 
 
 The second meaning will now be expounded in stanzas 26–47. It is the one transmitted by tradition \( *sampradāya* \), that is, the secret knowledge received by the disciple from the mouth of his spiritual master. 
 
 Underlining the fact that the whole cosmic manifestation is pervaded \( *vyāpta* \) by the *śrīvidyā* , that is, by the united Śiva and Śakti, it shows how the phonetic elements that constitute it “express” \(are the *vācakas* \), that is, evoke or denote and thus bring into existence and pervade the universe made up of the thirty-six *tattvas* , the three *guṇas* , the three sorts of knowers \( *pramātṛ*\), the *prāṇas* , and the gods. 
 
-The *śrīvidyā * and the cosmos, in their structure and in their existence or function, are inseparably one. To understand the *vidyā* is thus to understand the universe and liberation, a knowledge obtained by 
+The *śrīvidyā* and the cosmos, in their structure and in their existence or function, are inseparably one. To understand the *vidyā* is thus to understand the universe and liberation, a knowledge obtained by 
 
 *bhāvanā* 
 
 70
-\( *śl. * 39\), but only insofar as one receives it from an initiated master well versed in the traditional teaching, hence the name of this *artha* . 
+\( *śl.* 39\), but only insofar as one receives it from an initiated master well versed in the traditional teaching, hence the name of this *artha* . 
 
 The oral tradition is the great knowledge present in the mouth of the spiritual master. The greatness of that which spreads \[thus\] in the form of the universe dwells in this \[mouth\]. //26// 
 
-*sampradāyo mahābodharūpo gurumukhe sthita ḥ * / 
+*sampradāyo mahābodharūpo gurumukhe sthita ḥ* / 
 
 *viśvākāraprathāyās tu mahatvaṁ ca yad āśrayam* //26// 
 
@@ -385,7 +385,7 @@ Repeating that the ultimate knowledge is to be transmitted secretly from the mou
 
 “which results from the transformation, in the form of the three *bījas* \[of the *vidyā* \], of the complete fusion \[of Śakti and\] of the supreme Śiva, which can only be received from the mouth of the guru.” 
 
-This cosmic role of the *śrividyā * is fi rst underscored by the Tantra: Through the *mūlavidyā* , of which Śiva and Śakti are the primary 
+This cosmic role of the *śrividyā* is fi rst underscored by the Tantra: Through the *mūlavidyā* , of which Śiva and Śakti are the primary 
 
 \[cause\], by her, O Parameśvarī\! the whole universe is permeated. 
 
@@ -399,7 +399,7 @@ Listen to this carefully, O Dear One\! //27//
 
 The universe made of the fi ve elements is what \[the Goddess\] is made of, O Ever Eternal One\! Such too is the *mūlavidyā* that I am telling you. //28// 
 
-From the letter *HA* space is born, from *KA, * wind, from RA fi re; from SA comes the *tattva* of water. //29// Earth is born from the letter *LA. * 
+From the letter *HA* space is born, from *KA,* wind, from RA fi re; from SA comes the *tattva* of water. //29// Earth is born from the letter *LA.* 
 
 In this way \[is made\] this \[reality\] which contains the universe. 
 
@@ -407,21 +407,21 @@ In this way \[is made\] this \[reality\] which contains the universe.
 
 *tanmayīmūlavidyā ca tat tathā kathayāmi te* //28// 
 
-*hakārād vyoma sambhūtaṁ kakārāt tu prabhañjana ḥ * / 
+*hakārād vyoma sambhūtaṁ kakārāt tu prabhañjana ḥ* / 
 
 * *
 
-*Encounter in the * Mantra * *
+*Encounter in the* Mantra* *
 
 71
 
-*rephād agni ḥ sakārāc ca jalatattvasya saṁbhava ḥ * //29// 
+*rephād agni ḥ sakārāc ca jalatattvasya saṁbhava ḥ* //29// 
 
-*lakārāt pṛthivījātā tasmād viśvamayīca sā * / 
+*lakārāt pṛthivījātā tasmād viśvamayīca sā* / 
 
 The Goddess and her mantra are deemed to be made of the fi ve gross elements \(the *bhūtas* \) constituting the gross, concrete level of the cosmos. 
 
-This is said to show that the universe as identical with the deity is meta-phorically present in the *śrīvidyā. * 
+This is said to show that the universe as identical with the deity is meta-phorically present in the *śrīvidyā.* 
 
 *HA* , *KA* , *RA* , *SA* , and *LA* are, in all traditions, considered the *bījas* , the *vācakas* , of the fi ve gross elements. “Thus,” says the Dī , “the fi ve gross elements and the phonemes which express them are born in this way from the light and consciouness \( *prakāśa* and *vimarśa* \) which form the supreme Reality whose nature is the total fusion of Śiva and Śakti. The nature of this supreme *vidyā* is the total fusion of these two \[aspects of the deity\]. In other terms, she is made of the phonemes that compose her and of the universe \[that they ‘express’\].” The Dī then quotes stanzas 9, 10, 13, and 14 
 
@@ -439,9 +439,9 @@ is the Goddess, the universal sovereign. And any object is the
 
 supreme Lord. //31// 
 
-*yasya yasya padārthasya yā yā śaktir udīritā * / 
+*yasya yasya padārthasya yā yā śaktir udīritā* / 
 
-*sā sā sarveśvarīdevīsa sa sarvo maheśvara ḥ * //31// 
+*sā sā sarveśvarīdevīsa sa sarvo maheśvara ḥ* //31// 
 
 In this world, says Amṛtānanda, everything that is active is energy. 
 
@@ -476,7 +476,7 @@ limitation
 
 *vidyā*\(limited\) wisdom; the cuirasses \( *kañcuka* \) 
 
-*rāga * 
+*rāga* 
 
 passionate attachment 
 
@@ -484,7 +484,7 @@ passionate attachment
 
 necessity 
 
-*kāla * 
+*kāla* 
 
 time 
 
@@ -492,11 +492,11 @@ time
 
 Spirit, or the Lord 
 
-*prākṛti * 
+*prākṛti* 
 
 the source matter, Nature 
 
-*buddhi * 
+*buddhi* 
 
 intellect 
 
@@ -512,23 +512,23 @@ understanding \( *sensorium commune* \)
 
 hearing 
 
-*tvāk * 
+*tvāk* 
 
 touch 
 
-*cakṣus * 
+*cakṣus* 
 
 sight; organs of perception \( *buddhīndriya* \) 
 
-*rasana * 
+*rasana* 
 
 taste 
 
-*ghrāna * 
+*ghrāna* 
 
 smell 
 
-*vāk * 
+*vāk* 
 
 speech 
 
@@ -540,7 +540,7 @@ holding
 
 excretion; organs of action \( *karmendriya* \) 
 
-*upaṣṭha * 
+*upaṣṭha* 
 
 copulation 
 
@@ -552,7 +552,7 @@ movement
 
 sound 
 
-*sparśa * 
+*sparśa* 
 
 contact 
 
@@ -564,7 +564,7 @@ form; subtle elements \( *tanmātra* \)
 
 savor 
 
-*gandha * 
+*gandha* 
 
 smell 
 
@@ -590,15 +590,15 @@ earth
 
 * *
 
-*Encounter in the * Mantra * *
+*Encounter in the* Mantra* *
 
 73
 
 that exists, from Śiva to the earth, whereas all that is object is the supreme Lord, the supreme Śiva. These two, he adds, take on in the *vidyā* the aspect of objects \(the fi fteen male *guṇas* of the fi ve *tattvas* \) and that of the fi fteen \(female\) phonemes of the *vidyā* . The basic male-female dichotomy is therefore present in the *vidyā* . This, however, includes other elements: This *vidyā* , made up of the elements and the *guṇas* , is pervaded by fi fteen phonemes \[namely\] by fi ve, then six and four syllables. //32// 
 
-*vyāptā pañcadaśārṇai ḥ sā vidyā bhūtaguṇātmikā * / 
+*vyāptā pañcadaśārṇai ḥ sā vidyā bhūtaguṇātmikā* / 
 
-*pañcabhiś ca tathāṣaḍbhiś caturbhir api cākṣarai ḥ * //32// 
+*pañcabhiś ca tathāṣaḍbhiś caturbhir api cākṣarai ḥ* //32// 
 
 These three groups of syllables are those of the three *kūṭas* of the *śrīvidyā* , which have six, then fi ve, then four syllables. These phonemes are said to pervade the *vidyā* , since she is made up in her totality of these fi fteen letters. 
 
@@ -606,11 +606,11 @@ If she is parceled up into vowels and consonants, she is divided into thirty-sev
 
 *svaravyañjanabhedena saptatriṁśatprabhedinī* / 
 
-*saptatriṁśatprabhedenaṣaṭtriṁśattattvarūpiṇī * //33// 
+*saptatriṁśatprabhedenaṣaṭtriṁśattattvarūpiṇī* //33// 
 
 *tattvātītasvabhāvā ca vidyaiṣā bhāvyate sadā* 
 
-If we divide the *vidyā* into vowels and consonants, we have eleven letters in the fi rst *kūṭa* , thirteen in the second, and nine in the third; thirty-three phonemes to which are to be added the three *bindus* which crown the three *HRĪṂ * ; thirty-seven in all. 14 Divided in this way, the *vidyā* can be considered as made up symbolically of the thirty-six *tattvas* and thus to have the same nature as these cosmic divisions of the universe. The *śrīvidyā* 
+If we divide the *vidyā* into vowels and consonants, we have eleven letters in the fi rst *kūṭa* , thirteen in the second, and nine in the third; thirty-three phonemes to which are to be added the three *bindus* which crown the three *HRĪṂ* ; thirty-seven in all. 14 Divided in this way, the *vidyā* can be considered as made up symbolically of the thirty-six *tattvas* and thus to have the same nature as these cosmic divisions of the universe. The *śrīvidyā* 
 
 is the Goddess in her cosmic activity, carried out by the *tattvas* , which she dominates, transcends, being in this sense a thirty-seventh *tattva* . Her essential nature, says Amṛtānanda, is that of Śiva, and it is as such that she is to be meditated \( *bhāvyate* \). 15 
 
@@ -621,7 +621,7 @@ rst twenty-seven stanzas of the
 *Saubhāgyasudhodaya* , which describe the cosmic creative activity of the deity as Śakti, and the divisions and aspects of this work. The passage is interesting but is too long and needs too many explanations to be quoted here. 
 
 74
-The YH now considers again the fi fteen elements and the three *guṇas* previously mentioned in *śl. * 32:
+The YH now considers again the fi fteen elements and the three *guṇas* previously mentioned in *śl.* 32:
 
 In the elements earth, etc., each element that is above is pervading, 
 
@@ -629,15 +629,15 @@ In the elements earth, etc., each element that is above is pervading,
 
 *pṛthivyādiṣu bhūteṣu vyāpakaṁ cottarottaram* //34// 
 
-*bhūtaṁ tvadhastanaṁ vyāpyaṁ tadguṇā vyāpakāśrayā ḥ * / 
+*bhūtaṁ tvadhastanaṁ vyāpyaṁ tadguṇā vyāpakāśrayā ḥ* / 
 
-*vyāpyeṣvavasthitā devi sthūlasūkṣmavibhedata ḥ * //35// 
+*vyāpyeṣvavasthitā devi sthūlasūkṣmavibhedata ḥ* //35// 
 
 Thus, sound, the *guṇa* of space, pervades the \[gross elements\] air, etc., the fi vefold sound \[present in these elements\] being denoted by the *bījas* of space which are in the *vidyā* . //36// 
 
 Of these \[fi ve sounds\], what stays in addition as \[their\] cause is made of *dhvani* . \[The phoneme *HA* \] must be \[understood as being\] the seed of those that carry the *guṇas* and also as that which expresses the *guṇas* . //37// The fact that they have \[respectively\] the nature of cause and eff ect shows their unity. 
 
-*tasmād vyomaguṇa ḥ śabdo vayvādīn vyāpyā saṁsthita ḥ * / 
+*tasmād vyomaguṇa ḥ śabdo vayvādīn vyāpyā saṁsthita ḥ* / 
 
 *vyomabījais tu vidyāsthair lakṣayecchabdapañcakam* //36// 
 
@@ -645,7 +645,7 @@ Of these \[fi ve sounds\], what stays in addition as \[their\] cause is made of 
 
 *bhaved guṇavatāṁ bījaṁ guṇanām api vācakam* //37// 
 
-*kāryakāraṇabhāvena tayor aikyaṁ vivakṣayā * / 
+*kāryakāraṇabhāvena tayor aikyaṁ vivakṣayā* / 
 
 What is to be understood here seems to be that each subtle element is present in the corresponding gross element but also that a gross element 
 
@@ -655,7 +655,7 @@ The YH continues by expounding the links that exist between the *guṇas* , the 
 
 * *
 
-*Encounter in the * Mantra * *
+*Encounter in the* Mantra* *
 
 75
 
@@ -665,15 +665,15 @@ One must meditate intensely, O Goddess\! on the apparition of the
 
 *bindu* which is their origin. //38b–39// 
 
-*mahāmāyātrayeṇāpi kāraṇena ca bindunā * //38// 
+*mahāmāyātrayeṇāpi kāraṇena ca bindunā* //38// 
 
 *vāyvagnijalabhūmīnāṁ sparśanāṁ ca catuṣṭayam* / 
 
-*utpannaṁ bhāvayed devi sthūlasūkṣmavibhedata ḥ * //39// 
+*utpannaṁ bhāvayed devi sthūlasūkṣmavibhedata ḥ* //39// 
 
-The Mahāmāyās are the letters *Ī * of the three *HRĪṂ * of the *śrīvidyā* , the *bindus* being the three *Ṃ * s. 
+The Mahāmāyās are the letters *Ī* of the three *HRĪṂ* of the *śrīvidyā* , the *bindus* being the three *Ṃ* s. 
 
-The three \[ *guṇas* \] of \[the *tattva* of \] form \[ *rūpa* \] are to be meditated on in the same manner using the three *RA. * Their essential part has the form of fi re. \[They are\] indeed engendered by this *bīja* . //40// 
+The three \[ *guṇas* \] of \[the *tattva* of \] form \[ *rūpa* \] are to be meditated on in the same manner using the three *RA.* Their essential part has the form of fi re. \[They are\] indeed engendered by this *bīja* . //40// 
 
 *rūpāṇāṁ tritayaṁ tadvat tribhīrephair vibhavitam* / 
 
@@ -683,9 +683,9 @@ These three *guṇas* are those found in the *tattvas* of earth, water, and fi r
 
 According to the Dī : “The three gu *ṇas* of form, which is the *guṇa* of fi re, having been \[described as\] denoted by the phonemes which are the *vācaka* of fi re, the *guṇa* of water is now described by the phonemes that are the *vācakas* of that element.” 
 
-Taste, both subtle and gross, is evoked through the lunar *bījas* present in the *vidyā. * In this world also one knows the association of *rasa* and *amṛta* . //41// 
+Taste, both subtle and gross, is evoked through the lunar *bījas* present in the *vidyā.* In this world also one knows the association of *rasa* and *amṛta* . //41// 
 
-*vidyāsthaiṣcandrabījais tu sthūla ḥ sūkṣmo rasa ḥ smṛta ḥ * / 
+*vidyāsthaiṣcandrabījais tu sthūla ḥ sūkṣmo rasa ḥ smṛta ḥ* / 
 
 *saṁbandho vidito loke rasasyāpi amṛtasya ca* //41// 
 
@@ -698,15 +698,15 @@ It also explains \(more comprehensibly\) that according to the Purāṇas, the
 
 The *guṇa* of the earth is smell. Its letter is that which expresses smell. The threefold nature \[of this letter\] is to the result of the link existing between the three worlds, O Maheśvarī\! //42// 
 
-*vasundharāguṇo gandhas tallipir gandhavācikā * / 
+*vasundharāguṇo gandhas tallipir gandhavācikā* / 
 
 *bhuvanatrayasaṁbandhāt tridhātvaṁ tu maheśvari* //42// 
 
-The *bīja* of earth is *LA* , and it is denoted by one *LA* only, whereas there are three *LA* in the *śrividyā. * If one were to object to this fact, the Dī answers: there are three worlds \( *lokatraya* \) in the universe, which are mutually supporting and supported, and, because of that, the earth is also considered triple though being one. 
+The *bīja* of earth is *LA* , and it is denoted by one *LA* only, whereas there are three *LA* in the *śrividyā.* If one were to object to this fact, the Dī answers: there are three worlds \( *lokatraya* \) in the universe, which are mutually supporting and supported, and, because of that, the earth is also considered triple though being one. 
 
 The other body in the three \[sorts of \] conscious subjects—pure, impure, and mixed—is manifested by the triple *krodhīśa* present in the *vidyā* . //43// 
 
-*aśuddhaśuddhamiśrāṇāṁ pramātṛṇāṁ paraṁ vapu ḥ * / 
+*aśuddhaśuddhamiśrāṇāṁ pramātṛṇāṁ paraṁ vapu ḥ* / 
 
 *krodhīśatritayenātha vidyāsthena prakāśyate* //43// 
 
@@ -716,13 +716,13 @@ Just as the ten *śrīkaṇṭhas* are that which expresses the nonmanifested, O
 
 *śrīkaṇṭhadaśakaṁ tadvad avyaktasya hi vācakam* / 
 
-*prāṇarūpa ḥ sthito devi tadvad ekādaśa ḥ para ḥ * //44// 
+*prāṇarūpa ḥ sthito devi tadvad ekādaśa ḥ para ḥ* //44// 
 
-*eka ḥ sann eva puruṣo bahudhā jāyate hi sa ḥ * / 
+*eka ḥ sann eva puruṣo bahudhā jāyate hi sa ḥ* / 
 
 * *
 
-*Encounter in the * Mantra * *
+*Encounter in the* Mantra * *
 
 77
 
