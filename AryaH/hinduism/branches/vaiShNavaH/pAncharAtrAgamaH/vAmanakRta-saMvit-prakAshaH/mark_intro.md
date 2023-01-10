@@ -92,14 +92,14 @@ The Pancarātra tradition considers the Ekāyanaveda to be a 'secret tradition' 
 
 [^5-4]: 
 
-      Vedanta Desika writes:
+      Vedānta Desika writes:
 
       > यथा चैकायन-शाखायाम् अपौरुषेयत्वं  
       तथा काश्मीरागम-प्रामाण्य एवं प्रपञ्चितम् इति नेह प्रस्तूयते 
 
-      Pancarāttarakṣā, Vedantadesika granthamāla edited by Annangaracarya, p. 95,
+      Pancarāttarakṣā, Vedāntadesika granthamāla edited by Annangaracarya, p. 95,
 
-      Vedantadesika repeates this statement in his Nyayapariśuddhi, p. 168. See M. Narasimhacharya Contributions of Yamuna to Visistādvaita, Madras: M. Rangacharya Memorial Trust, 1971 p. 12.
+      Vedāntadesika repeates this statement in his Nyayapariśuddhi, p. 168. See M. Narasimhacharya Contributions of Yamuna to Visistādvaita, Madras: M. Rangacharya Memorial Trust, 1971 p. 12.
 
 [^5-5]: आद्यम् एकायनं वेदं रहस्याम्नायसंज्ञितम् । Iśvarasamhitā, 21/531.
 
@@ -177,7 +177,7 @@ Although this verse cannot be traced in the manuscripts of the Saṁvitprakāśa
 
 [^7-1]: 
 
-    The Svabodhodayamañjari is quoted in Sp. Pra. p. 126 and in T.A., vol. II, p. 4. A number of manuscripts of this text are available under various names including 'Svabodhamañjari' and 'Subodhamañjari. Iwo manuscripts are deposited in the Central Library in B.H.U. numbered C 4255 and CIOO. This text, which is well worth editing, is typical of a class of short tracts dealing with monistic Yoga of the type found in the Vijñānabhairava. Another such text is the Nirvāṇayogottara quoted by Yogarāja in his commentary on the Paramarthasara (p. 160), a manuscript of which is deposited in the Central Library in Ft. (no. C 4246). 
+    The Svabodhodayamañjari is quoted in Sp. Pra. p. 126 and in T.A., vol. II, p. 4. A number of manuscripts of this text are available under various names including 'Svabodhamañjari' and 'Subodhamañjari. Iwo manuscripts are deposited in the Central Library in B.H.U. numbered C 4255 and CIOO. This text, which is well worth editing, is typical of a class of short tracts dealing with monistic Yoga of the type found in the Vijñānabhairava. Another such text is the Nirvāṇayogottara quoted by Yogarāja in his commentary on the Parāmarthasāra (p. 160), a manuscript of which is deposited in the Central Library in Ft. (no. C 4246). 
 
 [^7-2]: 
 
@@ -211,7 +211,11 @@ But although we can thus be sure that Vāmanadatta was not later than Abhinavagu
 
 
 ## The Vaiṣṇava Monism of the Saṁvitprakāśa 
-Saṁvitprakāśa, the title of the first chapter, coincides, as we have seen, with the name of the entire text and, in fact, the symbolic notion of consciousness as luminous is indeed one of the major themes of the text as a whole and of the first chapter in particular. Vāmanadatta, like the Pratyabhijñā philosopher, Utpaladeva, makes extensive use of this analogy thus imparting a Pratyabhijñā-like tone to his mode of discourse. This feature markedly distinguishes Vāmanadatta's work from another monistic Vaiṣṇava tract that has come down to us and that we know was studied in 10th century Kashmir, namely, the Paramarthasara, also known as the Adhārakarika written by Patanjali, alias Šeṣa, traditionally identified (certainly mistakenly) with the author (s) of the Mahabhaṣya commentary on Panini's grammar and the Aphorisms on Yoga. Thus, although the latter work is monistic, conceiving the one ultimate reality to be Viṣnu who is pure consciousness, just as Vāmanadatta docs, light analogics are virtually absent.' This divergence is emblematic of the divergent approach the two authors adopt to establish their monism and the aspect of the unity of reality which they have choosen to fix their attention upon. Adisesa's work reads much like a short treatise an Advaita Vedanta, indeed the author is represented as one who knows the Veda and its limbs' and as 'having seen all the Vedantaśastra,' on the basis of which he wrote his work.2 Instead of the neuter Brahman, however, we find
+Saṁvitprakāśa, the title of the first chapter, coincides, as we have seen, with the name of the entire text and, in fact, the symbolic notion of consciousness as luminous is indeed one of the major themes of the text as a whole and of the first chapter in particular. Vāmanadatta, like the Pratyabhijñā philosopher, Utpaladeva, makes extensive use of this analogy thus imparting a Pratyabhijñā-like tone to his mode of discourse. 
+
+This feature markedly distinguishes Vāmanadatta's work from another monistic Vaiṣṇava tract that has come down to us and that we know was studied in 10th century Kashmir, namely, the Parāmarthasāra, also known as the Adhārakārikā written by Patañjali, alias Śeṣa, traditionally identified (certainly mistakenly) with the author (s) of the Mahabhaṣya commentary on Panini's grammar and the Aphorisms on Yoga. Thus, although the latter work is monistic, conceiving the one ultimate reality to be Viṣnu who is pure consciousness, just as Vāmanadatta does, light analogics are virtually absent.[^9-1] 
+
+This divergence is emblematic of the divergent approach the two authors adopt to establish their monism and the aspect of the unity of reality which they have choosen to fix their attention upon. Adisesa's work reads much like a short treatise an Advaita Vedānta, indeed the author is represented as one who 'knows the Veda and its limbs' and as 'having seen all the Vedāntaśāstra,' on the basis of which he wrote his work.[^9-2] Instead of the neuter Brahman, however, we find
 
    ။
 
@@ -231,7 +235,7 @@ Saṁvitprakāśa, the title of the first chapter, coincides, as we have seen, w
 
    find Visnu who is represented as the supreme soul (paramātman),
 
-   but even though he is characterised as the 'cause of creation, persistence and destruction'2 the universe is Visnu's Māyā which is unreal.3 Clearly, there is a palpable contradiction here but even so, Adisesa remains true to his Vaiṣṇava creed and so refuses to take recourse to Advaita Vedanta's solution to this problem by making a distinction between the pure absolute - Brahman - which is etemally just as it is, unrelated to diversity in any way except as the reality behind an illusion, and the personal God - Iśvara -Who creates, sustains and destroys all things that, like the world he seemingly creates, is real only to the extent that he is the Brahman that appears to be him. Thus Adiścṣa makes free use of the entire gamout of standard analogies to explain in what sense Visnu's Māyā is just an unreal illusion: it is like the water in a mirage (mrgatrsnikā), the silver seen in nacre, the snake in the rope, the two moons mistakenly perceived by someone with an eye discase.4 The specific character of individual things that appear to exist in the illusory world of Maya is similarly explained by taking recourse to the standard Advaita notion of limiting adjuncts (upadhi) produced by ignorance. The analogy is also the well known Advaita one of the sun that shines reflected in different pools of water-just so the Supreme Self appears diversified in the things of the world, established as it is in all the limiting
+   but even though he is characterised as the 'cause of creation, persistence and destruction'2 the universe is Visnu's Māyā which is unreal.3 Clearly, there is a palpable contradiction here but even so, Adisesa remains true to his Vaiṣṇava creed and so refuses to take recourse to Advaita Vedānta's solution to this problem by making a distinction between the pure absolute - Brahman - which is etemally just as it is, unrelated to diversity in any way except as the reality behind an illusion, and the personal God - Iśvara -Who creates, sustains and destroys all things that, like the world he seemingly creates, is real only to the extent that he is the Brahman that appears to be him. Thus Adiścṣa makes free use of the entire gamout of standard analogies to explain in what sense Visnu's Māyā is just an unreal illusion: it is like the water in a mirage (mrgatrsnikā), the silver seen in nacre, the snake in the rope, the two moons mistakenly perceived by someone with an eye discase.4 The specific character of individual things that appear to exist in the illusory world of Maya is similarly explained by taking recourse to the standard Advaita notion of limiting adjuncts (upadhi) produced by ignorance. The analogy is also the well known Advaita one of the sun that shines reflected in different pools of water-just so the Supreme Self appears diversified in the things of the world, established as it is in all the limiting
 
    वेदान्तशास्त्रमखिलं विलोक्य शेषस्तु जगदाधारः । आर्यापञ्चाशीत्या बबन्ध परमार्थसारमिदम्
 
@@ -279,7 +283,7 @@ Saṁvitprakāśa, the title of the first chapter, coincides, as we have seen, w
 
    Ibid., 50.
 
-3. Abhinavagupta adapted the Vaiṣṇava Paramarthasara to express the Śaiva position. For details sec K.C. Pandey 'Abhinavagupta' Chowkhamba, Varanasi 1963, p. 63-7.
+3. Abhinavagupta adapted the Vaiṣṇava Parāmarthasāra to express the Śaiva position. For details sec K.C. Pandey 'Abhinavagupta' Chowkhamba, Varanasi 1963, p. 63-7.
 
 4. इत्थं द्वैतविकलो गलिते प्रतिच च गोहनी गायाम् ।
 
@@ -287,7 +291,7 @@ Saṁvitprakāśa, the title of the first chapter, coincides, as we have seen, w
 
    P.S., 51.
 
-   Note that in order to distinguish Abhinava's Paramarthasara from that of Adisesa, I call the latter Adhirakārikā.
+   Note that in order to distinguish Abhinava's Parāmarthasāra from that of Adisesa, I call the latter Adhirakārikā.
 
 5. हिमफेनबुदबुदा इव जलस्य धूगो यया बद्धेः । तद्वत् स्वभावभूता गायैषा कीर्तिता विष्णोः || A.K., 56.
 
@@ -331,7 +335,7 @@ Saṁvitprakāśa, the title of the first chapter, coincides, as we have seen, w
 
    deploy the various reasonings of the philosophies and scriptures."
 
-   According to Adisesa there is no agent because there is nothing in reality for him to act upon. Abhinava and Adisesa agree that the Lord is not affected by the troubles of the world, it is the deluded who are peaceful, happy or sad according to their state of mind.2 The Self seems to act due to the activity of the mind etc., just as the sun reflected in running water seems to move. Again, although the Self is omnipresent, it is man fest in the intellect just as Rahu becomes visible when he devours the moon during an eclipse.3 Thus Adisesa's system tends towards a monism of the Advaita Vedanta type and develops the Samkhya theme of Purusa's passivity with respect to Prak!.i, here identified with Maya. The embodied soul does rotting, it is Maya that acts. The Self seems to be an agent and enjoyer only because of its association with the body.
+   According to Adisesa there is no agent because there is nothing in reality for him to act upon. Abhinava and Adisesa agree that the Lord is not affected by the troubles of the world, it is the deluded who are peaceful, happy or sad according to their state of mind.2 The Self seems to act due to the activity of the mind etc., just as the sun reflected in running water seems to move. Again, although the Self is omnipresent, it is man fest in the intellect just as Rahu becomes visible when he devours the moon during an eclipse.3 Thus Adisesa's system tends towards a monism of the Advaita Vedānta type and develops the Samkhya theme of Purusa's passivity with respect to Prak!.i, here identified with Maya. The embodied soul does rotting, it is Maya that acts. The Self seems to be an agent and enjoyer only because of its association with the body.
 
    Now, even though Vāmanadatta agrees with Adisesa that there is only one reality and that it is pure consciousness which he praises devoutly as Visnu, he sets off on a different tack to present and establish his monism. Like all monists, Vāmanadatta stresses in various ways the indeterminate nature of the one reality it is not exclusively one or other of possible prototypical categories that characterize things such as subject and object, inner and outer
 
@@ -693,7 +697,7 @@ Here we notice a radical departure from the Śaiva phenomenology of Utpaladeva. 
 
    idealism, he also devotes the entire fifth chapter to an analysis of the phonemes as vital components of Mantra and vehicles of the sound (nada) or word (sabda) energy of consciousness which he identifies with the syllable Om and that make Mantras powerful and cosmically significant as incorporating within themselves the energies of all manifestation and what lies in the transcendent beyond it. This concern fits naturally with Vāmanadatta's recurrent references to Speech (vāc), its levels, forms and nature. Here he deals with a common concern of both Śaivites and Vaiṣṇavas discussed not only in their secondary śastric traditions but also in the primary scriptures of both groups.
 
-   To conclude we can say that the discovery and edition of Vāmanadatta's work may well serve as a stimulus for further research into the interaction between Śaivism and Vaisnavism in general and, more specifically, between their monistic forms. Thus a work like Bhaskara's Kakṣyastotra evidences, in the passages quoted from it, signs of the author's attempts to integrate certain basic Pañcarātra notions into his Śaiva monism. Other works, like the Cicchaktisamstuti,2 that we know of only from quotations, exhibit a sort of intermediary character. This text, focusing on sakti, draws from both Śaiva and Vaiṣṇava ideas to support its Sakta monism. Again, although the Paramarthasara draws its inspiration from other sources to develop its monism, its existence is a further indication that, although less extensive than their Śaiva equivalents, Vaiṣṇava monisms deserve to be carefully researched and not only in the works of known authors but, more especially, in the original Piñcarātra scriptures amongst which some, particularly the Ahirbudhnyasaṁhitā and the Lakṣmitantra, exhibit marked Śaiva influences.
+   To conclude we can say that the discovery and edition of Vāmanadatta's work may well serve as a stimulus for further research into the interaction between Śaivism and Vaisnavism in general and, more specifically, between their monistic forms. Thus a work like Bhaskara's Kakṣyastotra evidences, in the passages quoted from it, signs of the author's attempts to integrate certain basic Pañcarātra notions into his Śaiva monism. Other works, like the Cicchaktisamstuti,2 that we know of only from quotations, exhibit a sort of intermediary character. This text, focusing on sakti, draws from both Śaiva and Vaiṣṇava ideas to support its Sakta monism. Again, although the Parāmarthasāra draws its inspiration from other sources to develop its monism, its existence is a further indication that, although less extensive than their Śaiva equivalents, Vaiṣṇava monisms deserve to be carefully researched and not only in the works of known authors but, more especially, in the original Piñcarātra scriptures amongst which some, particularly the Ahirbudhnyasaṁhitā and the Lakṣmitantra, exhibit marked Śaiva influences.
 
    A.K.
 
@@ -707,7 +711,7 @@ Here we notice a radical departure from the Śaiva phenomenology of Utpaladeva. 
 
    Tantrāloka
 
-   Paramarthasara
+   Parāmarthasāra
 
 1. I am thinking here particularly of the verses from the Kaksyāstotra quoted
 
@@ -1139,7 +1143,7 @@ Other possible quotes:
 
    Tantrāloka by Abhinavagupta (12 vol.) with viveka by Jayartha. Part 1 edited by M.R. Sastri. Parts 2-12 edited by M.S. Kaul, K.S.T.S., no. 23, 1918; 28, 1921; 30, 1921; 36, 1922; 35, 1922; 29, 1921; 41, 1924; 47, 1926; 59, 1933; 57, 1936 and 57, 1938.
 
-   Paramarthasara by Abhinavagupta with vivṛti by Yogarāja. K.S.T.S., no. 7, 1916. Edited by J.C. Chatterjee. Paramarthasara by Adiśeṣa with vivarana by Raghavananda. Acyutagranthamālā vol. 9. Vidyavilāsa Press, Varanasi, 1989. Edited by Surya Nārāyaṇa Śukla.
+   Parāmarthasāra by Abhinavagupta with vivṛti by Yogarāja. K.S.T.S., no. 7, 1916. Edited by J.C. Chatterjee. Parāmarthasāra by Adiśeṣa with vivarana by Raghavananda. Acyutagranthamālā vol. 9. Vidyavilāsa Press, Varanasi, 1989. Edited by Surya Nārāyaṇa Śukla.
 
    Parātriśikāvivarana by Abhinavagupta. K.S.T.S., no. 18, 1918. Edited by M.S. Kaul.
 
