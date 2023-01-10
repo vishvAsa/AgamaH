@@ -218,9 +218,7 @@ This feature markedly distinguishes Vāmanadatta's work from another monistic Va
 
 This divergence is emblematic of the divergent approach the two authors adopt to establish their monism and the aspect of the unity of reality which they have choosen to fix their attention upon. Ādisesa's work reads much like a short treatise an Advaita Vedānta, indeed the author is represented as one who 'knows the Veda and its limbs' and as 'having seen all the Vedāntaśāstra,' on the basis of which he wrote his work.[^9-2] 
 
-   ။
-
-   A.K. 60. Cf. Ibid., 23.
+   
 
 [^9-1]: 
 
@@ -229,7 +227,8 @@ This divergence is emblematic of the divergent approach the two authors adopt to
     > विगतोपाधिः स्फटिकः  
     स्वप्रभया भाति निर्मलो यद्वत्।  
     चिद्-दीपः स्व-प्रभया  
-    तथा विभातीह निरुपाधिः॥ 
+    तथा विभातीह निरुपाधिः॥  
+    A.K. 60. Cf. Ibid., 23.
 
     In another place the Self, is compared to the Sun:  
 
@@ -292,48 +291,59 @@ Thus Ādiśeṣa makes free use of the entire gamout of standard analogies to ex
 
 The specific character of individual things that appear to exist in the illusory world of Maya is similarly explained by taking recourse to the standard Advaita notion of limiting adjuncts (upadhi) produced by ignorance. The analogy is also the well known Advaita one of the sun that shines reflected in different pools of water-just so the Supreme Self appears diversified in the things of the world, established as it is in all the limiting conditions that delineate apparently existing objects.[^11-1] Consequently, even though Visnu is said to be the creator, Ādiśeṣa declares that: 
 
+[^11-1]: 
+
+    यद्वद् दिनकर एको विभाति सलिलाशयेषु सर्वेषु । तद्वत् सकलोपाधिष्ववस्थितो भाति परमात्मा
+
+    Ibid., 23.
+
+
 > "Just as there is no cause of the creation and destruction of the snake (mistakenly perceived) in the rope,  
 > so too there is no cause here of the arising and destruction of the universe."[^11-2] 
 
+
+[^11-2]:
+
+      रज्ज्वां भुजङ्गहेतुः प्रभव-विनाशौ यथा न स्तः ।  
+      जगद्-उत्पत्ति-विनाशौ+++(??)+++ न च कारणमस्ति तद्वदिह ||
+      Ibid., 50.
+
 Thus, just as at the cosmic level the ultimate principle does nothing, so too at the individual level, the Self, like the Sāṁkhyan Puruṣa, is perfectly inactive. 
 
-We can contrast this view with that presented by Abhinava in his Śaiva adaptation of this text.[^11-3] Abhinava agrees with Ādiśeṣa that the individual soul merges into the Brahman when he overcomes Maya and that it consists essentially of thought constructs centred on duality.[^11-4] Ādiśeṣa says that this takes place when the soul realises that Viṣṇu's Māyā is insubstantial like the snow, foam or bubbles formed from water or the smoke that issues from a fire. The practicioner must contantly refresh this awareness ( bhavana), through it he is liberated by becoming one with the Brahman. According to Abhinava, however, contemplative insight (bhāvanā) into the nature of the principles of existence is the result of realising one's own universal "I" consciousness that is experienced not just as the one universal consciousness which is the passive ground of Being but as supremely active, thus he writes:
+We can contrast this view with that presented by Abhinava in his Śaiva adaptation of this text.[^11-3] Abhinava agrees with Ādiśeṣa that the individual soul merges into the Brahman when he overcomes Maya and that it consists essentially of thought constructs centred on duality.[^11-4] 
 
-1. यद्वद् दिनकर एको विभाति सलिलाशयेषु सर्वेषु । तद्वत् सकलोपाधिष्ववस्थितो भाति परमात्मा
+[^11-3]: Abhinavagupta adapted the Vaiṣṇava Parāmarthasāra to express the Śaiva position. For details sec K.C. Pandey 'Abhinavagupta' Chowkhamba, Varanasi 1963, p. 63-7.
 
-   Ibid., 23.
+[^11-4]:
 
-2. रज्ज्वां भुजङ्गहेतुः प्रभवविनाशौ यथा न स्तः ।
+      इत्थं द्वैत-विकल्पे गलिते प्रलङ्घ्य च मोहनीं मायाम् ।  
+      सलिले सलिलं क्षीरे क्षीरम् इव ब्रह्मणि लयी स्यात्॥  
+      P.S., 51.
 
-   जगदुत्पत्तिविनाशौ न च कारणमस्ति तद्वदिह ||
+      Note that in order to distinguish Abhinava's Parāmarthasāra from that of Ādisesa, I call the latter Adhirakārikā.
 
-   Ibid., 50.
+Ādiśeṣa says that this takes place when the soul realises that Viṣṇu's Māyā is insubstantial like the snow, foam or bubbles formed from water or the smoke that issues from a fire. The practicioner must contantly refresh this awareness ( bhāvanā), through it he is liberated by becoming one with the Brahman. According to Abhinava, however, contemplative insight (bhāvanā) into the nature of the principles of existence is the result of realising one's own universal "I" consciousness that is experienced not just as the one universal consciousness which is the passive ground of Being but as supremely active, thus he writes:
 
-3. Abhinavagupta adapted the Vaiṣṇava Parāmarthasāra to express the Śaiva position. For details sec K.C. Pandey 'Abhinavagupta' Chowkhamba, Varanasi 1963, p. 63-7.
 
-4. इत्थं द्वैतविकलो गलिते प्रतिच च गोहनी गायाम् ।
+[^11-5]: 
 
-   सलिले सलिन क्षीरे क्षीरमिव ब्रह्मणि लपी स्यात्
+      हिमफेनबुदबुदा इव  
+      जलस्य धूमो यथा वह्नेः ।  
+      तद्वत् स्वभावभूता  
+      मायैषा कीर्तिता विष्णोः॥  
+      A.K., 56.
 
-   P.S., 51.
+[[12]]
 
-   Note that in order to distinguish Abhinava's Parāmarthasāra from that of Ādisesa, I call the latter Adhirakārikā.
+> "I am the Lord who playfully propels the machine of the wheel of energies. My nature is pure and I hold the position of the Lord of the great wheel of energies. It is in me alone that all things manifest as do jars and other ( objects) in a clean mirror. Everything extends out of me as does the wonderful diversity of dreams from one who sleeps. I myself am all things (and they are related to me) like hands, feet and other (limbs are related to the) body. I alone manifest in all this like the light (that shines) in (all) existing things."!
 
-5. हिमफेनबुदबुदा इव जलस्य धूगो यया बद्धेः । तद्वत् स्वभावभूता गायैषा कीर्तिता विष्णोः || A.K., 56.
+While Abhinava affirms the activity of the Self which he understands to be not just a knower but also an agent, Ādisesa categorically denies that the Self is active. Present in the body the Self is the embodied soul (dehi ), his presence stimulates the activity of the body, mind and senses, but he does nothing, just as the magnet that attracts iron to itself is inactive.2 Thus :
 
-   12
+"The embodied soul sees, hears, smells, touches, tastes and perceives but in so far as he (as the Self is really ) devoid of intellect, senses and body, he does nothing."3
 
-   SaṁvitprakāśaH
+Abhinava modifies this verse to fit his own view and places it at the conclusion of his previous statement concerning the experience of the Self's authentic nature as the agent of creation etc., thus his version reads:
 
-   "I am the Lord who playfully propels the machine of the wheel of energies. My nature is pure and I hold the position of the Lord of the great wheel of energies. It is in me alone that all things manifest as do jars and other ( objects) in a clean mirror. Everything extends out of me as docs the wonderful diversity of dreams from one who sleeps. I myself am all things (and they are related to me) like hands, feet and other (limbs are related to the) body. I alone manifest in all this like the light (that shines) in (all) existing things."!
-
-   While Abhinava affirms the activity of the Self which he understands to be not just a knower but also an agent, Ādisesa categorically denies that the Self is active. Present in the body the Self is the embodied soul (dehi ), his presence stimulates the activity of the body, mind and senses, but he does nothing, just as the magnet that attracts iron to itself is inactive.2 Thus :
-
-   "The embodied soul sees, hears, smells, touches, tastes and perceives but in so far as he (as the Self is really ) devoid of intellect, senses and body, he does nothing."3
-
-   Abhinava modifies this verse to fit his own view and places it at the conclusion of his previous statement concerning the experience of the Self's authentic nature as the agent of creation etc., thus his version reads:
-
-   "Even though the one who sees, hears and smells, being devoid of the senses and body does nothing, it is I alone who
+"Even though the one who sees, hears and smells, being devoid of the senses and body does nothing, it is I alone who
 
 1. इति शक्तिचक्रयन्त्रं क्रीडायोगेन वाहयन् देवः ।
 
