@@ -110,7 +110,10 @@ The Pancarātra tradition considers the Ekāyanaveda to be a 'secret tradition' 
 
 The word 'Ekāyana' appears already in the Chandogyopanisad as the name of a 'fifth Veda' thus indicating the antiquity of early, possibly Vaiṣṇava, groups that referred to their scriptures in these terms. At any rate, the point is that the term 'Ekāyana' is extensively found in Pancarātra literature as a way of referring to the Pancarātra and its scriptures as affiliated to the Veda. Indeed, according to these sources, the Ekāyana is not just a part of the Veda but the 'very root of the tree of the Veda',[^6-1] that 'stands at the head of the Vedas'.[^6-2] Quite in keeping with Vāmanadatta's affirmation of his Ekāyana affiliations, the text confirms his thoroughgoing Vaisnavism and his incorporation of Pancarātra concepts in places confirms his Pañcarātra associations.[^6-3]
 
-All we know about Vāmanadatta is what he himself tells us in this, his only recovered work. He says that his mother was called Ratnadevī and that his father was Devadatta, the son of Rātradatta.[^6-4] He also refers to his daughter Vamadevī who, he tells us, wrote a hymn to Viṣņu, possibly called Haristuti.[^6-5] We must therefore distinguish our Vāmanadatta from the Vāmananatha, also known as ŚrīVāmana and Hrasvanatha, who wrote the (A)Dvayasampatti, in so far as the latter was not the son of Devadatta but of Harṣadatta. 
+All we know about Vāmanadatta is what he himself tells us in this, his only recovered work. He says that his mother was called Ratnadevī and that his father was Devadatta, the son of Rātradatta.[^6-4] He also refers to his daughter Vamadevī who, he tells us, wrote a hymn to Viṣņu, possibly called Haristuti.[^6-5] 
+
+### Other vāmana-s
+We must therefore distinguish our Vāmanadatta from the Vāmananatha, also known as ŚrīVāmana and Hrasvanatha, who wrote the (A)Dvayasampatti, in so far as the latter was not the son of Devadatta but of Harṣadatta. 
 
 [^6-1]: 
 
@@ -164,7 +167,7 @@ Anyway, this text, which seems to have originally been a commentary on the Vijñ
 
 Similar considerations cast doubt on the identity of our Vāmanadatta with the author of the Svabodhodayamañjari. The author of this short but interesting yogic tract, cast in the style of the Vijnañabhairava[^7-1] identifies himself as Vāmanadatta, the son of Harṣadatta.[^7-2] Thus, there can be no doubt that there were at least two Vāmanadatta's known to Kashmiri Śaiva authors by Abhinavagupta's time.
 
-Again, Yogarāja quotes a verse as being by Viravamaka. which translated reads: 
+Again, Yogarāja quotes a verse as being by vīravamaka. which translated reads: 
 
 > "We worship (the deity) incessantly by means of the transcendental fire sacrifice in which the fuel is the forest of duality and death itself the human victim (mahāpaśu)."[^7-3]
 
@@ -172,33 +175,43 @@ Although this verse cannot be traced in the manuscripts of the Saṁvitprakāśa
 
 
 
-[^7-1]: The Svabodhodayamañjari is quoted in Sp. Pra. p. 126 and in T.A., vol. II, p. 4. A number of manuscripts of this text are available under various names including 'Svabodhamañjari' and 'Subodhamañjari. Iwo manuscripts are deposited in the Central Library in B.H.U. numbered C 4255 and CIOO. This text, which is well worth editing, is typical of a class of short tracts dealing with monistic Yoga of the type found in the Vijñānabhairava. Another such text is the Nirvāṇayogottara quoted by Yogarāja in his commentary on the Paramarthasara (p. 160), a manuscript of which is deposited in the Central Library in Ft. (no. C 4246). 2. The colophon of B.H.U. manuscript no. C 4255 reads:
+[^7-1]: 
 
-   मीमांसावर सिंहश्च ( स्य ) हर्षदत्तस्य सुनूनां ।
+    The Svabodhodayamañjari is quoted in Sp. Pra. p. 126 and in T.A., vol. II, p. 4. A number of manuscripts of this text are available under various names including 'Svabodhamañjari' and 'Subodhamañjari. Iwo manuscripts are deposited in the Central Library in B.H.U. numbered C 4255 and CIOO. This text, which is well worth editing, is typical of a class of short tracts dealing with monistic Yoga of the type found in the Vijñānabhairava. Another such text is the Nirvāṇayogottara quoted by Yogarāja in his commentary on the Paramarthasara (p. 160), a manuscript of which is deposited in the Central Library in Ft. (no. C 4246). 
 
-   कृता वामनदत्तेन स्वबोधोदयमअरी
+[^7-2]: 
 
-3. P.S., p. 146. Quoted below, p. 36.
+    The colophon of B.H.U. manuscript no. C 4255 reads:
+ 
+    > मीमांसावर सिंहश्च ( स्य ) हर्षदत्तस्य सुनूनां ।  
+    कृता वामनदत्तेन स्वबोधोदयमअरी
+
+[^7-3]: P.S., p. 146. Quoted below, p. 36.
 
 [[8]]
 
-The word 'vira' in the author's name   lends further weight to the view that this verse is drawn from a work written by a Śaiva, rather than Vaiṣṇava, author. Thus, it is not at all certain whether ViraVāmanaka and our Vāmanadatta were the same person. The same uncertainty prevails concerning Abhinavagupta's reference to a Vāmanaka as one of his teachers in the Tantraloka. Although Abhinavagupta does refer to Vāmanadatta with respect in one place as 'guru' he may simply mean that he was one of his venerable predecessors or elder contemporaries rather than literally his teacher. However, even though Abhinavagupta was averse to Vaiṣṇavas, as are Śaivites in general, he was prepared to concede that the views of others were valuable even if they taught what he considered to be lower doctrines. Thus he wrote that: "I myself, for this very reason, have frequented, moved by curiosity for lower doctrines and scriptures, masters of all sorts, logicians, Vedic scholars, Buddhists, Jainas and Vaiṣṇavas etc.."2 Perhaps Vāmanadatta was one of these Vaiṣṇava teachers to whom Abhinava refers. If so, Vāmanadatta was his elder contemporary thus placing him in the beginning of the eleventh century. Again, Bhagavadutpala quotes Vāmanadatta frequently and, although his date is uncertain, we can be sure that he was not prior to Utpaladeva, Abhinava's grand-teacher, as he also quotes from his Iśvarapratyabhijñākārikā in a number of places.3 But although we can thus be sure that Vāmanadatta was not later than Abhinavagupta there is no certain evidence available at present to establish a minimum date for him. Even so, it seems to me that Vāmanadatta was probably either an elder contemporary of Abhinavagupta or belonged to the generation just preceding him. At any rate, there seems no reason to doubt that he lived and wrote in Kashmir sometime between the 9th and 12th century, that is, during the period of Kashmiri Śaivism's most vigourous growth. This was a period during which such a large number of Kashmiri scholars and religious men turned their attention to writing and teaching that in many
+The word 'vīra' in the author's name   lends further weight to the view that this verse is drawn from a work written by a Śaiva, rather than Vaiṣṇava, author. Thus, it is not at all certain whether vīraVāmanaka and our Vāmanadatta were the same person. 
 
-1. आह अन्येऽपि धर्मशिववामनकोद्भट श्रीभूतेशभास्करमुखप्रमुखा महान्तः॥
+### Abhinavagupta connection
+The same uncertainty prevails concerning Abhinavagupta's reference to a Vāmanaka as one of his teachers in the Tantrāloka.[^8-1] Although Abhinavagupta does refer to Vāmanadatta with respect in one place as 'guru' he may simply mean that he was one of his venerable predecessors or elder contemporaries rather than literally his teacher. However, even though Abhinavagupta was averse to Vaiṣṇavas, as are Śaivites in general, he was prepared to concede that the views of others were valuable even if they taught what he considered to be lower doctrines. Thus he wrote that: "I myself, for this very reason, have frequented, moved by curiosity for lower doctrines and scriptures, masters of all sorts, logicians, Vedic scholars, Buddhists, Jainas and Vaiṣṇavas etc.."[^8-2] Perhaps Vāmanadatta was one of these Vaiṣṇava teachers to whom Abhinava refers. If so, Vāmanadatta was his elder contemporary thus placing him in the beginning of the eleventh century. 
 
-   T.A., 37/62.
+Again, Bhagavad-utpala quotes Vāmanadatta frequently and, although his date is uncertain, we can be sure that he was not prior to Utpaladeva, Abhinava's grand-teacher, as he also quotes from his Iśvara-pratyabhijñā-kārikā in a number of places.[^8-3] 
 
-2. T.A., 13/345 b-346a.
+[^8-1]: आह अन्येऽपि धर्मशिव-वामनकोद्भट-श्रीभूतेश--भास्कर-मुख-प्रमुखा महान्तः॥ T.A., 37/62.
 
-3. The Iśvarapratyabhijñā is quoted in Sp. Pra., p. 84, 87 and 124.
+[^8-2]: T.A., 13/345 b-346a.
+
+[^8-3]: The Iśvarapratyabhijñā is quoted in Sp. Pra., p. 84, 87 and 124.
 
    
 
-   9
+[[9]]
 
-   cases it is hard to decide who preceded whom and, indeed, many were contemporaries of different ages. The style and content of Vāmanadatta's work is in itself eloquent testimony to his belonging to this rich period of India's religious history. The Vaiṣṇava Monism of the Saṁvitprakāśa
+But although we can thus be sure that Vāmanadatta was not later than Abhinavagupta there is no certain evidence available at present to establish a minimum date for him. Even so, it seems to me that Vāmanadatta was probably either an elder contemporary of Abhinavagupta or belonged to the generation just preceding him. At any rate, there seems no reason to doubt that he lived and wrote in Kashmir sometime between the 9th and 12th century, that is, during the period of Kashmiri Śaivism's most vigourous growth. This was a period during which such a large number of Kashmiri scholars and religious men turned their attention to writing and teaching that in many cases it is hard to decide who preceded whom and, indeed, many were contemporaries of different ages. The style and content of Vāmanadatta's work is in itself eloquent testimony to his belonging to this rich period of India's religious history. 
 
-   Saṁvitprakāśa, the title of the first chapter, coincides, as we have seen, with the name of the entire text and, in fact, the symbolic notion of consciousness as luminous is indeed one of the major themes of the text as a whole and of the first chapter in particular. Vāmanadatta, like the Pratyabhijñā philosopher, Utpaladeva, makes extensive use of this analogy thus imparting a Pratyabhijñā-like tone to his mode of discourse. This feature markedly distinguishes Vāmanadatta's work from another monistic Vaiṣṇava tract that has come down to us and that we know was studied in 10th century Kashmir, namely, the Paramarthasara, also known as the Adhārakarika written by Patanjali, alias Šeṣa, traditionally identified (certainly mistakenly) with the author (s) of the Mahabhaṣya commentary on Panini's grammar and the Aphorisms on Yoga. Thus, although the latter work is monistic, conceiving the one ultimate reality to be Viṣnu who is pure consciousness, just as Vāmanadatta docs, light analogics are virtually absent.' This divergence is emblematic of the divergent approach the two authors adopt to establish their monism and the aspect of the unity of reality which they have choosen to fix their attention upon. Adisesa's work reads much like a short treatise an Advaita Vedanta, indeed the author is represented as one who knows the Veda and its limbs' and as 'having seen all the Vedantaśastra,' on the basis of which he wrote his work.2 Instead of the neuter Brahman, however, we find
+
+## The Vaiṣṇava Monism of the Saṁvitprakāśa 
+Saṁvitprakāśa, the title of the first chapter, coincides, as we have seen, with the name of the entire text and, in fact, the symbolic notion of consciousness as luminous is indeed one of the major themes of the text as a whole and of the first chapter in particular. Vāmanadatta, like the Pratyabhijñā philosopher, Utpaladeva, makes extensive use of this analogy thus imparting a Pratyabhijñā-like tone to his mode of discourse. This feature markedly distinguishes Vāmanadatta's work from another monistic Vaiṣṇava tract that has come down to us and that we know was studied in 10th century Kashmir, namely, the Paramarthasara, also known as the Adhārakarika written by Patanjali, alias Šeṣa, traditionally identified (certainly mistakenly) with the author (s) of the Mahabhaṣya commentary on Panini's grammar and the Aphorisms on Yoga. Thus, although the latter work is monistic, conceiving the one ultimate reality to be Viṣnu who is pure consciousness, just as Vāmanadatta docs, light analogics are virtually absent.' This divergence is emblematic of the divergent approach the two authors adopt to establish their monism and the aspect of the unity of reality which they have choosen to fix their attention upon. Adisesa's work reads much like a short treatise an Advaita Vedanta, indeed the author is represented as one who knows the Veda and its limbs' and as 'having seen all the Vedantaśastra,' on the basis of which he wrote his work.2 Instead of the neuter Brahman, however, we find
 
    ။
 
@@ -606,7 +619,7 @@ Here we notice a radical departure from the Śaiva phenomenology of Utpaladeva. 
 
 1. T.A., 5/155a, see above, p. 5 n.1.
 
-2. I will deal with the relationship between Kashmiri Śaivism and Vaisnavism in the  to my forthcoming book of translations from the Spanda tradition of Kashmiri Śaivism to be published by the State University of New York Press, Albany. One or two remarks will suffice here. Abhinavagupta devotes the 35th chapter of his Tantraloka to the relationship he believes exists between the various scriptural traditions as taught him by Sambhunatha, his Trika teacher (T.A., 35/44b ). There he uncompromisingly declares that:
+2. I will deal with the relationship between Kashmiri Śaivism and Vaisnavism in the  to my forthcoming book of translations from the Spanda tradition of Kashmiri Śaivism to be published by the State University of New York Press, Albany. One or two remarks will suffice here. Abhinavagupta devotes the 35th chapter of his Tantrāloka to the relationship he believes exists between the various scriptural traditions as taught him by Sambhunatha, his Trika teacher (T.A., 35/44b ). There he uncompromisingly declares that:
 
    In order to achieve the various fruits more or less perfect of duty (dharma), profit (artha), sexual pleasure (kama) and liberation (mokṣa), there is only one means, namely, the Śaivagama" (ibid., 35/24). Abhinava agrees that teachings are diverse but they also yield different fruits at differing levels so that those at a lower level cannot yield the fruits of a higher one: "The various forms such as Visnu etc. which God assumes are due to his self-differentiation and, as such, that is, due to this differentiation, are on the plane of Maya. The 'descents of power (saktipata) which do undoubtably occur as associated with these limited forms therefore bestow only die fruits proper to them but not, ultimately, identification with Siva." (ibid., 13/2681-70a, cf. ibid., 35/29).
 
@@ -692,7 +705,7 @@ Here we notice a radical departure from the Śaiva phenomenology of Utpaladeva. 
 
    Adhārakārikā
 
-   Tantraloka
+   Tantrāloka
 
    Paramarthasara
 
@@ -1124,7 +1137,7 @@ Other possible quotes:
 
    BIBLIOGRAPHY
 
-   Tantraloka by Abhinavagupta (12 vol.) with viveka by Jayartha. Part 1 edited by M.R. Sastri. Parts 2-12 edited by M.S. Kaul, K.S.T.S., no. 23, 1918; 28, 1921; 30, 1921; 36, 1922; 35, 1922; 29, 1921; 41, 1924; 47, 1926; 59, 1933; 57, 1936 and 57, 1938.
+   Tantrāloka by Abhinavagupta (12 vol.) with viveka by Jayartha. Part 1 edited by M.R. Sastri. Parts 2-12 edited by M.S. Kaul, K.S.T.S., no. 23, 1918; 28, 1921; 30, 1921; 36, 1922; 35, 1922; 29, 1921; 41, 1924; 47, 1926; 59, 1933; 57, 1936 and 57, 1938.
 
    Paramarthasara by Abhinavagupta with vivṛti by Yogarāja. K.S.T.S., no. 7, 1916. Edited by J.C. Chatterjee. Paramarthasara by Adiśeṣa with vivarana by Raghavananda. Acyutagranthamālā vol. 9. Vidyavilāsa Press, Varanasi, 1989. Edited by Surya Nārāyaṇa Śukla.
 
