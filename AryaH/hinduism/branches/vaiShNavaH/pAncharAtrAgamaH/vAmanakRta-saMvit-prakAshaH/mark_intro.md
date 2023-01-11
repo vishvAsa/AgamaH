@@ -335,67 +335,91 @@ We can contrast this view with that presented by Abhinava in his Śaiva adaptati
 
 [[12]]
 
-> "I am the Lord who playfully propels the machine of the wheel of energies. My nature is pure and I hold the position of the Lord of the great wheel of energies. It is in me alone that all things manifest as do jars and other ( objects) in a clean mirror. Everything extends out of me as does the wonderful diversity of dreams from one who sleeps. I myself am all things (and they are related to me) like hands, feet and other (limbs are related to the) body. I alone manifest in all this like the light (that shines) in (all) existing things."!
+> "I am the Lord who playfully propels the machine of the wheel of energies. My nature is pure and I hold the position of the Lord of the great wheel of energies. It is in me alone that all things manifest as do jars and other ( objects) in a clean mirror. Everything extends out of me as does the wonderful diversity of dreams from one who sleeps. I myself am all things (and they are related to me) like hands, feet and other (limbs are related to the) body. I alone manifest in all this like the light (that shines) in (all) existing things."
+> 
+> 
+> इति शक्तिचक्रयन्त्रं क्रीडायोगेन वाहयन् देवः ।  
+अहमेव शुद्धरूपः शक्ति-महा-चक्र-नायक-पद-स्थः॥  
+मय्येव भाति विश्वं दर्पण इव निर्मले घटादीनि ।  
+मत्तः प्रसरति सर्वं स्वप्नविचित्रत्वमिव सुप्तात् ॥  
+अहमेव विश्वरूपः करचरणादिस्वभाव इव देहः ।  
+सर्वस्मिन्नहमेव स्फुरामि भावेषु भास्वरूपमिव ॥  
+P.S., 47-9.
 
-While Abhinava affirms the activity of the Self which he understands to be not just a knower but also an agent, Ādisesa categorically denies that the Self is active. Present in the body the Self is the embodied soul (dehi ), his presence stimulates the activity of the body, mind and senses, but he does nothing, just as the magnet that attracts iron to itself is inactive.[^2] Thus :
+While Abhinava affirms the activity of the Self which he understands to be not just a knower but also an agent, Ādisesa categorically denies that the Self is active. Present in the body the Self is the embodied soul (dehi ), his presence stimulates the activity of the body, mind and senses, but he does nothing, just as the magnet that attracts iron to itself is inactive.
 
-"The embodied soul sees, hears, smells, touches, tastes and perceives but in so far as he (as the Self is really ) devoid of intellect, senses and body, he does nothing."[^3]
+> मायामयोऽप्यचेता गुणकरणगणः करोति कर्माणि  
+तद्-अधिष्ठाता देही सचेतनोऽपि न करोति किञ्चिदपि ।  
+यद्वद् अचेतनम् अपि सन् निकटस्थे भ्रामके भ्रमति लोहम् ।  
+तद्वत् करण-समूहश् चेष्टति चिदधिष्ठिते देहे  
+A. K., 11-12.
+
+
+Thus :
+
+> "The embodied soul sees, hears, smells, touches, tastes and perceives but in so far as he (as the Self is really ) devoid of intellect, senses and body, he does nothing."
+> 
+> द्रष्टा श्रोता धाता  
+स्पर्शयिता रसयिता ग्रहीता च।  
+देही देहेन्द्रिय-धी-  
+विवर्जितः स्यान् न कर्तासौ  
+Ibid., 62.
+
+
+
+
+[[13]]
 
 Abhinava modifies this verse to fit his own view and places it at the conclusion of his previous statement concerning the experience of the Self's authentic nature as the agent of creation etc., thus his version reads:
 
-"Even though the one who sees, hears and smells, being devoid of the senses and body does nothing, it is I alone who
+> "Even though the one who sees, hears and smells, being devoid of the senses and body does nothing, it is I alone who   deploy the various reasonings of the philosophies and scriptures."  
+> 
+> द्रष्टा श्रोता घ्राता  
+देहेन्द्रिय-वर्जितोऽप्य् अकर्तापि ।  
+सिद्धान्तागम-  
+तर्कांश् चित्रान् अहम् एव रचयामि॥  
+P.S., 50.
 
-1. इति शक्तिचक्रयन्त्रं क्रीडायोगेन वाहयन् देवः ।
 
-   अहमेव शुद्धरूपः शक्तिमहाचक्रनायकपदस्थः मय्येव भाति विश्वं दर्पण इव निर्मले घटादीनि । मत्तः प्रसरति सर्वं स्वप्नविचित्रत्वमिव सुप्तात् ॥ अहमेव विश्वरूपः करचरणादिस्वभाव इव देहः । सर्वस्मिन्नहमेव स्फुरामि भावेषु भास्वरूपमिव ॥ P.S., 47-9.
+According to Ādisesa there is no agent because there is nothing in reality for him to act upon.+++(4)+++ Abhinava and Ādisesa agree that the Lord is not affected by the troubles of the world, it is the deluded who are peaceful, happy or sad according to their state of mind. 
 
-   ॥
+> शान्त इव मनसि शान्ते  
+हृष्टे हृष्ट इव मूढ इव मूढे ।
+व्यवहारस्थो न पुनः  
+परमार्थत ईश्वरो भवति  
+A.K. 34.
 
-2. मायामयोऽप्यचेता गुणकरणगणः करोति कर्माणि
+Cf.
 
-   तदधिष्ठाता देही सचेतनोऽपि न करोति किञ्चिदपि । यद्वदचेतनमपि सन् निकटस्थे भ्रामके भ्रमति लोहम् । तद्वत्करणसमूहश्चेष्टति चिदधिष्ठिते देहे
+> शान्ते शान्त इवायं  
+हृष्टे हृष्टो विमोहवति मूढः ।  
+तत्त्व-गणे सति भगवान्  
+न पुनः परमार्थतः स तथा ॥  
+> P.S., 38.
 
-   A. K., 11-12.
 
-3. द्रष्टा श्रोता धाता स्पर्शयिता रसयिता ग्रहीता च।
+The Self seems to act due to the activity of the mind etc., just as the sun reflected in running water seems to move. Again, although the Self is omnipresent, it is manifest in the intellect just as Rahu becomes visible when he devours the moon during an eclipse.
 
-   देही देहेन्द्रियधी विवर्जितः स्थान्न कर्तासौ
+> गच्छति गच्छति सलिले  
+> दिनकर-बिम्बं, स्थिते स्थितिं याति ।
+> अन्तःकरणे गच्छति  
+> गच्छत्य् आत्मापि तद्-वदिह 
+> 
+> राहुर् अदृश्योऽपि यथा  
+> शशिबिम्बस्थः प्रकाशते जगति ।  
+> सर्वगतोऽपि तथात्मा  
+> बुद्धिस्थो दृश्यताम् एति   ။  
+> A.K., 17-8 C., P.S. 7-8.
 
-   Ibid., 62.
 
-   ||
 
-   
 
-   13
+Thus Ādisesa's system tends towards a monism of the Advaita Vedānta type and develops the Sāṁkhya theme of Purusa's passivity with respect to Prak!.i, here identified with Maya. The embodied soul does rotting, it is Maya that acts. The Self seems to be an agent and enjoyer only because of its association with the body.
 
-   deploy the various reasonings of the philosophies and scriptures."
+Now, even though Vāmanadatta agrees with Ādisesa that there is only one reality and that it is pure consciousness which he praises devoutly as Visnu, he sets off on a different tack to present and establish his monism. Like all monists, Vāmanadatta stresses in various ways the indeterminate nature of the one reality it is not exclusively one or other of possible prototypical categories that characterize things such as subject and object, inner and outer
 
-   According to Ādisesa there is no agent because there is nothing in reality for him to act upon. Abhinava and Ādisesa agree that the Lord is not affected by the troubles of the world, it is the deluded who are peaceful, happy or sad according to their state of mind.2 The Self seems to act due to the activity of the mind etc., just as the sun reflected in running water seems to move. Again, although the Self is omnipresent, it is man fest in the intellect just as Rahu becomes visible when he devours the moon during an eclipse.3 Thus Ādisesa's system tends towards a monism of the Advaita Vedānta type and develops the Sāṁkhya theme of Purusa's passivity with respect to Prak!.i, here identified with Maya. The embodied soul does rotting, it is Maya that acts. The Self seems to be an agent and enjoyer only because of its association with the body.
 
-   Now, even though Vāmanadatta agrees with Ādisesa that there is only one reality and that it is pure consciousness which he praises devoutly as Visnu, he sets off on a different tack to present and establish his monism. Like all monists, Vāmanadatta stresses in various ways the indeterminate nature of the one reality it is not exclusively one or other of possible prototypical categories that characterize things such as subject and object, inner and outer
 
-1. द्रष्टा श्रोता घ्राता देहेन्द्रियवर्जितोऽप्यकर्तापि ।
-
-   सिद्धान्तागमऩकश्चित्रानहमेव रचयामि
-
-   P.S., 50.
-
-2. शान्त इव मनसि शान्ते हृष्टे हृष्ट इव मूढ इव मूढे ।
-
-   व्यवहारस्थो न पुनः परमार्थत ईश्वरो भवति
-
-   A.K. 34.
-
-   Cr.
-
-   शान्ते शान्त इवायं हृष्टे हृष्टो विमोहयति मूढः । तत्तवगणे सति भगवान् न पुवः परमार्थतः स तथा । P.S., 38.
-
-3. गच्छति गच्छति सलिले दिनकरबिम्बं स्थिते स्थितिं याति ।
-
-   अन्तःकरणे गच्छति गच्छत्यात्मापि तद्वदिह राहुरदृश्योsपि यथा शशिबिम्बरथः प्रकाशते जगति । सर्वगतोऽपि तथात्मा बुद्धिरथो दृश्यतामेति It A.K., 17-8 C., P.S. 7-8.
-
-   ။
 
    14
 
