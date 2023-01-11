@@ -337,9 +337,9 @@ We can contrast this view with that presented by Abhinava in his Śaiva adaptati
 
 > "I am the Lord who playfully propels the machine of the wheel of energies. My nature is pure and I hold the position of the Lord of the great wheel of energies. It is in me alone that all things manifest as do jars and other ( objects) in a clean mirror. Everything extends out of me as does the wonderful diversity of dreams from one who sleeps. I myself am all things (and they are related to me) like hands, feet and other (limbs are related to the) body. I alone manifest in all this like the light (that shines) in (all) existing things."!
 
-While Abhinava affirms the activity of the Self which he understands to be not just a knower but also an agent, Ādisesa categorically denies that the Self is active. Present in the body the Self is the embodied soul (dehi ), his presence stimulates the activity of the body, mind and senses, but he does nothing, just as the magnet that attracts iron to itself is inactive.2 Thus :
+While Abhinava affirms the activity of the Self which he understands to be not just a knower but also an agent, Ādisesa categorically denies that the Self is active. Present in the body the Self is the embodied soul (dehi ), his presence stimulates the activity of the body, mind and senses, but he does nothing, just as the magnet that attracts iron to itself is inactive.[^2] Thus :
 
-"The embodied soul sees, hears, smells, touches, tastes and perceives but in so far as he (as the Self is really ) devoid of intellect, senses and body, he does nothing."3
+"The embodied soul sees, hears, smells, touches, tastes and perceives but in so far as he (as the Self is really ) devoid of intellect, senses and body, he does nothing."[^3]
 
 Abhinava modifies this verse to fit his own view and places it at the conclusion of his previous statement concerning the experience of the Self's authentic nature as the agent of creation etc., thus his version reads:
 
