@@ -474,49 +474,76 @@ Thus, Māyā is the ignorance or false knowledge of duality. The way this false 
 
 [[16]]
 
-Objectivity (meyatva), Vāmanadatta argues, amounts to a state of limitation and the exclusion of elements one from another (pariccheda), and this doesn't take place within consciousness (jñāna) which is not an object of knowledge but the prerequisite condition of all knowledge. Indeed it is this, the ultimate nature of the perceiving consciousness (graha) of both subject and object, that is real and persists when they cease: all else is false.' The notions that 'this is other than me' and 'I am different from that' run contrary to oneness and cannot persist even for an instant2 and they do not in fact do so for all thought is momentary. In reality cognitive consciousness (jñāna) shines by itself, it does not require any object.3 The status of things as objects of knowledge is not due to some inherent attribute they possess of themselves, but is due to their relation to a perceiving subject, while the subjectivity (mātṛtva) in the perceiving subject has no existence apart from the object.4 The establishment (siddhi ) of truly existing things is independent (anapeksa ). There is neither subjectivity nor objectivity in those things that are independent.5 Similarly, if it is impossible to conceive of knowledge with no field of application (viṣaya ), it is also impossible for this field to exist without content (viṣayin )." The same argument holds good with relation to action (karma) and the agent. Action pertains to that which is made manifest by consciousness (prakasya ) but this can have no existence in the absence of an agent,' but as nothing is manifest but consciousness itself there can be no question of action or agency.
+### Momentariness of māyā 
+Objectivity (meyatva), Vāmanadatta argues, amounts to a state of limitation and the exclusion of elements one from another (pariccheda), and this doesn't take place within consciousness (jñāna) which is not an object of knowledge but the prerequisite condition of all knowledge. Indeed it is this, the ultimate nature of the perceiving consciousness (graha) of both subject and object, that is real and persists when they cease: all else is false.[^16-1] The notions that 'this is other than me' and 'I am different from that' run contrary to oneness and cannot persist even for an instant[^16-2] and they do not in fact do so for all thought is momentary.+++(5)+++ In reality cognitive consciousness (jñāna) shines by itself, it does not require any object.[^16-3] 
 
-   At the same time, however, Vāmanadatta affirms that Viṣṇu, the consciousness which is the one ultimate reality, is genuinely creative. The entire universe arises out of him and he precedes and supports all the business of daily life (vyavahāra), be it that of the body, speech or mind. As consciousness, Viṣṇu is the unique cause of all things, 10 and nothing can act apart from him" for all that is impel ed to action in any way is ultimately impel cd
+The status of things as objects of knowledge is not due to some inherent attribute they possess of themselves, but is due to their relation to a perceiving subject, while the subjectivity (mātṛtva) in the perceiving subject has no existence apart from the object.[^16-4] 
 
-1. Ibid., 2/26. 2. Ibid., 2/29. 3. Ibid., 2/33. 4. Ibid., 2/51. 5. Ibid., 2/52. 6. lbid., 3/33. 7. 2/54,
+The establishment (siddhi ) of truly existing things is independent (anapeksa ). There is neither subjectivity nor objectivity in those things that are independent.[^16-5] 
 
-10. Ibid., 1/71. 11. vid.. 1/74.
+### Other dualities
+Similarly, if it is impossible to conceive of knowledge with no field of application (viṣaya ), it is also impossible for this field to exist without content (viṣayin ).[^16-6] 
+
+The same argument holds good with relation to action (karma) and the agent. Action pertains to that which is made manifest by consciousness (prakāśya ) but this can have no existence in the absence of an agent,[^16-7] but as nothing is manifest but consciousness itself there can be no question of action or agency.
+
+### Creativity of consciousness
+At the same time, however, Vāmanadatta affirms that Viṣṇu, the consciousness which is the one ultimate reality, is genuinely creative. The entire universe arises out of him[^16-8] and he precedes and supports all the business of daily life (vyavahāra), be it that of the body, speech or mind.[^16-9] 
+
+
+[^16-1]: Ibid., 2/26.
+[^16-2]: Ibid., 2/29.
+[^16-3]: Ibid., 2/33.
+[^16-4]: Ibid., 2/51.
+[^16-5]: Ibid., 2/52.
+[^16-6]: lbid., 3/33.
+[^16-7]: 2/54,
+[^16-8]: 1/??,
+[^16-9]: 1/93?,
 
     
 
-    17
+[[17]]
 
-    by consciousness, the one reality.' Thus what Vāmanadatta means when he says that "creation has no being (satta): being pertains to consciousness" is not just that all this world of the fettered (samsara) is merely an imaginary notion (vikalpa ),2 but that, unlike consciousness which requires nothing, there is no phenomenal entity which just exists and is known as such in itself independently of consciousness. It is this seeming independence which is falsc.4
+As consciousness, Viṣṇu is the unique cause of all things, [^16-10] and nothing can act apart from him[^16-11] for all that is impelled to action in any way is ultimately impelled by consciousness, the one reality.[^17-1] 
 
-    Vāmanadatta thus accepts that the one reality is varied (vicitra); unity is different from relative distinctions and duality (bleda), it is the whole of reality which is involved in it, not just one reality or existing thing contrasted with another independent reality. Vāmanadatta explains all this by taking recourse to a common Pancarātra notion which understands Viṣṇu as four-fold (caturātman) as himself and his emanations (vyre). These four are equated with various quaternities of mutually dependent elements that represent phases or levels within the entire range of reality. These are variously defined in different contexts as: 1) Reality (vastu ), phenomenal being (bhava ), determinate
+[^16-10]: Ibid., 1/71.
+[^16-11]: vid.. 1/74.
 
-    particulars (artha) ard action (kriyā).5
+### Ultimate reality of consciousness
+Thus what Vāmanadatta means when he says that 
 
-2) The four levels of speech: Santa, Pasyanti, Madhyama and
+> "creation has no being (satta): being pertains to consciousness"
 
-   Vaikhari."
+is not just that all this world of the fettered (samsara) is merely an imaginary notion (vikalpa ),[^16-2] but that, unlike consciousness which requires nothing, there is no phenomenal entity which just exists and is known as such in itself independently of consciousness.[^16-3] +++(4)+++ It is this seeming independence which is false.[^16-4]
 
-3) Subject (pramātr ), object (meya ), means of knowledge
+Vāmanadatta thus accepts that the one reality is varied (vicitra); unity is different from relative distinctions and duality (bheda), it is the whole of reality which is involved in it, not just one reality or existing thing contrasted with another independent reality. 
 
-   (mana) and veridical cognitive consciousness (miti)."
+### Caturātman
+Vāmanadatta explains all this by taking recourse to a common Pancarātra notion which understands Viṣṇu as four-fold (caturātman) as himself and his emanations (vyūha). These four are equated with various quaternities of mutually dependent elements that represent phases or levels within the entire range of reality. These are variously defined in different contexts as: 
 
-   This way of understanding causality leaves Vāmanadatta free to talk about Viṣṇu's cosmically creative activity in terms which often remind us of Kashmiri Śaivism and that fits with a world view that generally characterized the monisms of Tantric systems as a whole as distinct from those developed from the Upanisade. This form of monism is formed by an identification of the opposites which thus simultaneously involves their transcendence.
+1) Reality (vastu ), phenomenal being (bhava ), determinate particulars (artha) and action (kriyā).[^16-5]
+2) The four levels of speech: Parā, Paśyantī, Madhyamā and Vaikharī.[^16-6]
+3) Subject (pramātr̥ ), object (meya ), means of knowledge (mana) and veridical cognitive consciousness (miti).[^16-7]
 
-1. Ibid., 1/75.
+This way of understanding causality leaves Vāmanadatta free to talk about Viṣṇu's cosmically creative activity in terms which often remind us of Kashmiri Śaivism and that fits with a world view that generally characterized the monisms of Tantric systems as a whole as distinct from those developed from the Upanisads+++(??)+++. This form of monism is formed by an identification of the opposites which thus simultaneously involves their transcendence.
 
-2. Ibid., 3/2.
+[^16-1]: Ibid., 1/75.
 
-3.
+[^16-2]: Ibid., 3/2.
 
-vid.. 2/21.
+[^16-3]: vid.. 2/21.
 
-4. 10, 2732. 5. Ibid., 1/87. 6. Ibid., 1/89. 7. Ibid., 2/59.
+[^16-4]: 10, 2732. 
 
-   18
+[^16-5]: Ibid., 1/87. 
 
-   SAMVIIPRAKĀSAH
+[^16-6]: Ibid., 1/89. 
 
-   Reality is one because it includes everything, thus it is free of duality. Oneness is not achieved merely by denying multiplicity as unreal from the perspective of a higher transcendental reality. In this way Viṣṇu is completely established in himself at all times and yet gencrates and destroys the universe that arises from him and falls back into him like the ocean that is in itself waveless and yet generates waves.' Thus, requiring nothing outside himself, Viṣṇu is endowed with perfect creative freedom (svatantrya )2 and so he unfolds everywhere,3 while the arising and falling away of all things takes place in the Lord who is the centre of all the daily dealings of life.4 Thus although Viṣṇu is pure, uninterrupted consciousness, free of subject and object and the source from which consciousness arises, the passivity of knowledge does not contradict the activity of action: they are ultimately one. Viṣṇu is equally cause, effect and instrument for he is all things 7
+[^16-7]: Ibid., 2/59.
+
+[[18]]
+
+Reality is one because it includes everything, thus it is free of duality. Oneness is not achieved merely by denying multiplicity as unreal from the perspective of a higher transcendental reality. In this way Viṣṇu is completely established in himself at all times and yet gencrates and destroys the universe that arises from him and falls back into him like the ocean that is in itself waveless and yet generates waves.' Thus, requiring nothing outside himself, Viṣṇu is endowed with perfect creative freedom (svatantrya )2 and so he unfolds everywhere,3 while the arising and falling away of all things takes place in the Lord who is the centre of all the daily dealings of life.4 Thus although Viṣṇu is pure, uninterrupted consciousness, free of subject and object and the source from which consciousness arises, the passivity of knowledge does not contradict the activity of action: they are ultimately one. Viṣṇu is equally cause, effect and instrument for he is all things 7
 
    Oneness is thus established by establishing the ultimate identity of seemingly contrasting categories in Viṣṇu who is pure consciousness. Thus the absence of subject-object distinctions within Viṣṇu is due to their identity, it is not attributed to their ficticious character. Once the object is known as it truly is, it is realised to be consciousness. Again, just as the object can never be independent of the knowledge of it, so this knowledge is not different from the perceiving subjectivity.10 Thus, everything is pervaded by consciousness and consumed by it just as fire burns and pervades fuel and so, as Viṣnu is pure consciousness, he is all things. 12 But although Viṣṇu contains everything and is in
 
