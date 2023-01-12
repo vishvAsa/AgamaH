@@ -289,7 +289,7 @@ Thus Ādiśeṣa makes free use of the entire gamout of standard analogies to ex
 
 [[11]]
 
-The specific character of individual things that appear to exist in the illusory world of Maya is similarly explained by taking recourse to the standard Advaita notion of limiting adjuncts (upadhi) produced by ignorance. The analogy is also the well known Advaita one of the sun that shines reflected in different pools of water-just so the Supreme Self appears diversified in the things of the world, established as it is in all the limiting conditions that delineate apparently existing objects.[^11-1] Consequently, even though Viṣṇu is said to be the creator, Ādiśeṣa declares that: 
+The specific character of individual things that appear to exist in the illusory world of Māyā is similarly explained by taking recourse to the standard Advaita notion of limiting adjuncts (upadhi) produced by ignorance. The analogy is also the well known Advaita one of the sun that shines reflected in different pools of water-just so the Supreme Self appears diversified in the things of the world, established as it is in all the limiting conditions that delineate apparently existing objects.[^11-1] Consequently, even though Viṣṇu is said to be the creator, Ādiśeṣa declares that: 
 
 [^11-1]: 
 
@@ -310,7 +310,7 @@ The specific character of individual things that appear to exist in the illusory
 
 Thus, just as at the cosmic level the ultimate principle does nothing, so too at the individual level, the Self, like the Sāṁkhyan Puruṣa, is perfectly inactive. 
 
-We can contrast this view with that presented by Abhinava in his Śaiva adaptation of this text.[^11-3] Abhinava agrees with Ādiśeṣa that the individual soul merges into the Brahman when he overcomes Maya and that it consists essentially of thought constructs centred on duality.[^11-4] 
+We can contrast this view with that presented by Abhinava in his Śaiva adaptation of this text.[^11-3] Abhinava agrees with Ādiśeṣa that the individual soul merges into the Brahman when he overcomes Māyā and that it consists essentially of thought constructs centred on duality.[^11-4] 
 
 [^11-3]: Abhinavagupta adapted the Vaiṣṇava Parāmarthasāra to express the Śaiva position. For details sec K.C. Pandey 'Abhinavagupta' Chowkhamba, Varanasi 1963, p. 63-7.
 
@@ -414,7 +414,7 @@ The Self seems to act due to the activity of the mind etc., just as the sun refl
 
 
 
-Thus Ādisesa's system tends towards a monism of the Advaita Vedānta type and develops the Sāṁkhya theme of Puruṣa's passivity with respect to Prakr̥ti, here identified with Māyā. The embodied soul does nothing, it is Maya that acts. The Self seems to be an agent and enjoyer only because of its association with the body.
+Thus Ādisesa's system tends towards a monism of the Advaita Vedānta type and develops the Sāṁkhya theme of Puruṣa's passivity with respect to Prakr̥ti, here identified with Māyā. The embodied soul does nothing, it is Māyā that acts. The Self seems to be an agent and enjoyer only because of its association with the body.
 
 ### Indeterminateness
 Now, even though Vāmanadatta agrees with Ādisesa that there is only one reality and that it is pure consciousness which he praises devoutly as Viṣṇu, he sets off on a different tack to present and establish his monism. 
@@ -423,11 +423,9 @@ Like all monists, Vāmanadatta stresses in various ways the indeterminate nature
 
 This implies, according to Vāmanadatta, that the duality verbal expression necessitates is not real but is merely a conceived idea[^14-2] thus distinctions such as that between subject and object are false.[^14-3] 
 
-However, this does not mean that the world and those that perceive it are unreal illusions. The world of things cannot be based on their non-existence.[^14-4] Vāmanadatta stresses that the appearance of an illusory snake would not be possible if there were no rope. Maya is not the illusory world, it is the false knowledge of ignorance which perceives duality in Viṣṇu who is one and non-dual. When this Māyā is destroyed one perceives ultimate reality as it is.[^14-6] 
+However, this does not mean that the world and those that perceive it are unreal illusions. The world of things cannot be based on their non-existence.[^14-4] Vāmanadatta stresses that the appearance of an illusory snake would not be possible if there were no rope. Māyā is not the illusory world, it is the false knowledge of ignorance which perceives duality in Viṣṇu who is one and non-dual. When this Māyā is destroyed one perceives ultimate reality as it is.[^14-6] 
 
-The world is not unreal, on the contrary it is as real as Viṣṇu himself who making it as he pleases, is one with it. Thus, according to Vāmanadatta, the world is actually created, sustained and destroyed by Viṣṇu who, in doing so, forms himself into the universe thus assuming his external form to then revert to his own internal, undifferentiated nature when it is destroyed. Vāmanadatta thus develops a peculiar position of his own here. According to him, it is possible to explain the generation of the world both in terms of real and apparent change. The Advaita view maintains that the world is a product of a seeming change in the Brahman, like the apparent change that takes place when we perceive a rope mistakenly to be a snake. This view is sharply contrasted with the one that asserts that the Brahman changes into the universe by altering itself, like milk that becomes curd. Vāmanadatta accepts both as equally possible explanations:
-
-   "He whose unique nature is supremely pure consciousness alone assumes physical form. This can be explained both in terms of real and apparent change. (Explained as merely) apparent change, it is You, O Acyuta ( Who persist unchanged although) it
+The world is not unreal, on the contrary it is as real as Viṣṇu himself who making it as he pleases, is one with it. Thus, according to Vāmanadatta, the world is actually created, sustained and destroyed by Viṣṇu who, in doing so, forms himself into the universe thus assuming his external form to then revert to his own internal, undifferentiated nature when it is destroyed. 
 
 [^14-1]: S.P., 1/1.3.
 
@@ -441,15 +439,16 @@ The world is not unreal, on the contrary it is as real as Viṣṇu himself who 
 
 [^14-7]: Ibid., 1/99.
 
-   
 
-   15
+Vāmanadatta thus develops a peculiar position of his own here. According to him, it is possible to explain the generation of the world both in terms of real and apparent change. The Advaita view maintains that the world is a product of a seeming change in the Brahman, like the apparent change that takes place when we perceive a rope mistakenly to be a snake. This view is sharply contrasted with the one that asserts that the Brahman changes into the universe by altering itself, like milk that becomes curd. Vāmanadatta accepts both as equally possible explanations:
 
-   appears to be otherwise. (And as a ) real transformation, it is always You (who, although essentially the same, assume many forms) just as gold (fashioned into an ) earring (remains gold)."!
+> "He whose unique nature is supremely pure consciousness alone assumes physical form. This can be explained both in terms of real and apparent change. (Explained as merely) apparent change, it is You, O Acyuta ( Who persist unchanged although) it [[15]] appears to be otherwise. 
+> 
+> (And as a ) real transformation, it is always You (who, although essentially the same, assume many forms) just as gold (fashioned into an ) earring (remains gold)."!
 
-   Even so, Vāmanadatta stresses that subject/object distinctions are not ultimately real. It is the notion based on duality (bhedasamkalpa) that splits up the unity of consciousness into subject and object, inner and outer.2 Both the condition of the subject and that the of object are states of Viṣṇu who is the one, pure consciousness and so they are ultimately false in themselves.3 It is only the foolish who, seeing the world of subjects and objects, believe that that is the way things are also within Viṣnu whereas he is really beyond all phenomenal being and hence contamination by such relative distinctions. As Viṣṇu is the universal nature of all things like the gold of gold ornaments - there can be no distinction within him.5 There can be no time or space within him who is the one support of all, and consists of all things while at the same time transcending all particulars."
+Even so, Vāmanadatta stresses that subject/object distinctions are not ultimately real. It is the notion based on duality (bhedasamkalpa) that splits up the unity of consciousness into subject and object, inner and outer.2 Both the condition of the subject and that the of object are states of Viṣṇu who is the one, pure consciousness and so they are ultimately false in themselves.3 It is only the foolish who, seeing the world of subjects and objects, believe that that is the way things are also within Viṣnu whereas he is really beyond all phenomenal being and hence contamination by such relative distinctions. As Viṣṇu is the universal nature of all things like the gold of gold ornaments - there can be no distinction within him.5 There can be no time or space within him who is the one support of all, and consists of all things while at the same time transcending all particulars."
 
-   Thus, Maya is the ignorance or false knowledge of duality. The way this false knowledge operates is through language for that which is undivided within one's own consciousness appears to be fragmented when it reaches the plane of speech.7 Duality is just the way we talk about things and hence think about them. The primary form of this duality is that between subject and object. But if we reflect upon this relation and what it entails we discover that it is not as it initially appears to be. Objectivity (meyatva), Vāmanadatta argues, amounts to a state of limitation and the exclusion of elements one from another (paricchedu), and this doesn't take place within consciousness (jñāna) which is not an object of knowledge but the prerequisite condition of all knowledge. Indeed it is this, the ultimate nature of the perceiving
+Thus, Māyā is the ignorance or false knowledge of duality. The way this false knowledge operates is through language for that which is undivided within one's own consciousness appears to be fragmented when it reaches the plane of speech.7 Duality is just the way we talk about things and hence think about them. The primary form of this duality is that between subject and object. But if we reflect upon this relation and what it entails we discover that it is not as it initially appears to be. Objectivity (meyatva), Vāmanadatta argues, amounts to a state of limitation and the exclusion of elements one from another (paricchedu), and this doesn't take place within consciousness (jñāna) which is not an object of knowledge but the prerequisite condition of all knowledge. Indeed it is this, the ultimate nature of the perceiving
 
 1. Ibid, 1/104b-6a.
 
@@ -685,7 +684,7 @@ Here we notice a radical departure from the Śaiva phenomenology of Utpaladeva. 
 
 2. I will deal with the relationship between Kashmiri Śaivism and Vaisnavism in the  to my forthcoming book of translations from the Spanda tradition of Kashmiri Śaivism to be published by the State University of New York Press, Albany. One or two remarks will suffice here. Abhinavagupta devotes the 35th chapter of his Tantrāloka to the relationship he believes exists between the various scriptural traditions as taught him by Sambhunatha, his Trika teacher (T.A., 35/44b ). There he uncompromisingly declares that:
 
-   In order to achieve the various fruits more or less perfect of duty (dharma), profit (artha), sexual pleasure (kama) and liberation (mokṣa), there is only one means, namely, the Śaivagama" (ibid., 35/24). Abhinava agrees that teachings are diverse but they also yield different fruits at differing levels so that those at a lower level cannot yield the fruits of a higher one: "The various forms such as Viṣṇu etc. which God assumes are due to his self-differentiation and, as such, that is, due to this differentiation, are on the plane of Maya. The 'descents of power (saktipata) which do undoubtably occur as associated with these limited forms therefore bestow only die fruits proper to them but not, ultimately, identification with Siva." (ibid., 13/2681-70a, cf. ibid., 35/29).
+   In order to achieve the various fruits more or less perfect of duty (dharma), profit (artha), sexual pleasure (kama) and liberation (mokṣa), there is only one means, namely, the Śaivagama" (ibid., 35/24). Abhinava agrees that teachings are diverse but they also yield different fruits at differing levels so that those at a lower level cannot yield the fruits of a higher one: "The various forms such as Viṣṇu etc. which God assumes are due to his self-differentiation and, as such, that is, due to this differentiation, are on the plane of Māyā. The 'descents of power (saktipata) which do undoubtably occur as associated with these limited forms therefore bestow only die fruits proper to them but not, ultimately, identification with Siva." (ibid., 13/2681-70a, cf. ibid., 35/29).
 
    
 
@@ -719,7 +718,7 @@ Here we notice a radical departure from the Śaiva phenomenology of Utpaladeva. 
 
    Kalakarṣini, also called KalaSaṁkarsini, is well known as a form of Kali venerated in the Krama school. Her association with the twelve-petelled lotus described as the foundation of time is possibly a reference to the cycle of twelve Kalis that lies at the core of Krama mysticism.
 
-   Important also as indicative of Vāmanadatta's non-Vaiṣṇava influences is his representation of the arising and falling away of images within consciousness as a discontinuous process: there is a gap between the arising of one form and the falling away of another. The attentive soul who can catch this moment and the centre between one perception and the next, no longer feels the bondage of the illusory play of Maya through the activity of thought but experiences it all as the pure expansion of
+   Important also as indicative of Vāmanadatta's non-Vaiṣṇava influences is his representation of the arising and falling away of images within consciousness as a discontinuous process: there is a gap between the arising of one form and the falling away of another. The attentive soul who can catch this moment and the centre between one perception and the next, no longer feels the bondage of the illusory play of Māyā through the activity of thought but experiences it all as the pure expansion of
 
 1. T.A.. 4/180ab.
 
@@ -733,7 +732,7 @@ Here we notice a radical departure from the Śaiva phenomenology of Utpaladeva. 
 
    says:
 
-   "This supreme plane of awareness consists of all the powers (of consciousness) pulsing in unity. Although actually manifest to all constantly, on the plane of Maya it does not sustain a firm realisation of consciousness within oneself. Even there, however, it is clearly manifest at every junction (between cognitions)."2
+   "This supreme plane of awareness consists of all the powers (of consciousness) pulsing in unity. Although actually manifest to all constantly, on the plane of Māyā it does not sustain a firm realisation of consciousness within oneself. Even there, however, it is clearly manifest at every junction (between cognitions)."2
 
    In the centre between perceptions the attentive soul can experience the pure indeterminate awareness ( nirvikalpa) that serves as the basis of determinate perception as its source, resting place and end. In the centre abides what Vāmanadatta calls 'pure experience' Suddhanubhava 3, that is, the fundamental self- awareness (svasamvedana) through which consciousness is perceived and is the basis of all knowledge which Kashmiri Śaivites identify, as we have already noted, with absolute "I" consciousness.
 
