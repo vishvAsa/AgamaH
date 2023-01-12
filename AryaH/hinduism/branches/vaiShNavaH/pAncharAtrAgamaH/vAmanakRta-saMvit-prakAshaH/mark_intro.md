@@ -543,75 +543,76 @@ This way of understanding causality leaves Vāmanadatta free to talk about Viṣ
 
 [[18]]
 
-Reality is one because it includes everything, thus it is free of duality. Oneness is not achieved merely by denying multiplicity as unreal from the perspective of a higher transcendental reality. In this way Viṣṇu is completely established in himself at all times and yet gencrates and destroys the universe that arises from him and falls back into him like the ocean that is in itself waveless and yet generates waves.' Thus, requiring nothing outside himself, Viṣṇu is endowed with perfect creative freedom (svatantrya )2 and so he unfolds everywhere,3 while the arising and falling away of all things takes place in the Lord who is the centre of all the daily dealings of life.4 Thus although Viṣṇu is pure, uninterrupted consciousness, free of subject and object and the source from which consciousness arises, the passivity of knowledge does not contradict the activity of action: they are ultimately one. Viṣṇu is equally cause, effect and instrument for he is all things 7
+### Unitary reality
+Reality is one because it includes everything, thus it is free of duality. Oneness is not achieved merely by denying multiplicity as unreal from the perspective of a higher transcendental reality. In this way Viṣṇu is completely established in himself at all times and yet generates and destroys the universe that arises from him and falls back into him like the ocean that is in itself waveless and yet generates waves.[^18-1] 
 
-   Oneness is thus established by establishing the ultimate identity of seemingly contrasting categories in Viṣṇu who is pure consciousness. Thus the absence of subject-object distinctions within Viṣṇu is due to their identity, it is not attributed to their ficticious character. Once the object is known as it truly is, it is realised to be consciousness. Again, just as the object can never be independent of the knowledge of it, so this knowledge is not different from the perceiving subjectivity.10 Thus, everything is pervaded by consciousness and consumed by it just as fire burns and pervades fuel and so, as Viṣnu is pure consciousness, he is all things. 12 But although Viṣṇu contains everything and is in
+### svātantrya
+Thus, requiring nothing outside himself, Viṣṇu is endowed with perfect creative freedom (svātantrya )[^18-2] and so he unfolds everywhere,[^18-3] while the arising and falling away of all things takes place in the Lord who is the centre of all the daily dealings of life.[^18-4] Thus although Viṣṇu is pure, uninterrupted consciousness, free of subject and object and the source from which consciousness arises [^18-5], the passivity of knowledge does not contradict the activity of action: they are ultimately one[^18-6].+++(4)+++ Viṣṇu is equally cause, effect and instrument for he is all things [^18-7].
 
-1. Ibid., 1,73. 2. Ibid., 1/84. 3. Ibid., 1/81.
+Oneness is thus established by establishing the ultimate identity of seemingly contrasting categories in Viṣṇu who is pure consciousness. Thus the absence of subject-object distinctions within Viṣṇu is due to their identity, it is not attributed to their ficticious character. Once the object is known as it truly is, it is realised to be consciousness.[^18-8] 
 
-4. Ibid., 1/92.
+Again, just as the object can never be independent of the knowledge of it[^18-9], so this knowledge is not different from the perceiving subjectivity.[^18-10] Thus, everything is pervaded by consciousness and consumed by it just as fire burns and pervades fuel [^18-11] and so, as Viṣnu is pure consciousness, he is all things. [^18-12] 
 
-5. Ibid., 1/25. 6. Ibid., 1/119.
-
-7. Ibid., 1/112-3.
-
-8. Ibid., 1/24. 9. Ibid., 1/22. 10. Ibid., 1/17. 11. Ibid., 1/10. 12. Ibid., 1/22.
-
-   
-
-   19
-
-   everything,' he is not conditioned by the things conditioned by time, space and form because he is internal consciousness.
-
-   Now all this can be expressed simply and directly, as Vāmanadatta docs, by representing Viṣṇu-consciousness, the one reality, as light. Although this is a metaphor in a sense, in another, absolute divine consciousness and the world manifested in and through it are literally the light of consciousness and this is the way it is experienced. This presentation of the one, absolute reality as light is well know to Indian thought from very early times. It finds its classic expression in the following verse which appears in a number of Upanisads:
-
-   "The sun shines not there, nor moon and stars;
-
-   These lightnings shine not, much less this (earthly) fire! After Him, as He shincs, doth everything shine.
-
-   This whole world is illumined by His light."2
-
-   From this point of view all things can be classified into two basic types, namely, those things which illuminate (prakāśaka) and those which are illuminated (prakāśya). The illuminators are both the perceiving subjects and their activity through which the objects of illumination are known, made know and hence, from this idealist point of view, created. All these illuminating lights shine by virtue of Viṣṇu, the one light.3 In this sense, Viṣṇu is always immediately apparent as all things, in the act of knowing them and as the knower. As the immediate appearance of things just as they are, that is, as the shining of the universal light, they reveal Viṣṇu's nature which is thus directly apparent (prakata). The light of the sun illumines an object and so makes it apparent (prakata), whereas before it was obscure (aprakata) and hence unknown. But Viṣṇu is always apparent as all things, there is no need to find ways to make him evident, nor is there any need of proofs to establish his existence.4 Thus, the light which is the illuminator (prakāśaka) is at the same time the object of
-
-1. Ibid., 1/14.
-
-2. Svetaśvaturopanisad 6/14, the same verse is also found in Mundakopaniṣad
-
-   2/2/10 and the Kathopanisad 5/15; cf. also Bhagavadgita, 15/6.
-
-3. S.P.. 1/37-8.
-
-4. Ibid., 1/12-3.
-
-   20
-
-   SaṁvitprakāśaII
-
-   illumination without this compromising its essentially luminous nature as the pure presentation of things just as they are in the immediacy of their direct experience. Thus Vāmanadatta writes:
-
-   "None dispute that You (O Lord ) are the essential nature of (all) things; it is not darkness (aprakāśa) that shines when (the light of consciousness) becomes the object of illumination."!
-
-   In this way Vāmanadatta accounts for unity as the identity of opposites understood as aspects of the same noumenous reality, namely, the shining of the light of consciousness. But while the illuminator as light manifests the object and thus presents itself as the object's manifest appearance, it also transcends it:
-
-   "Just as these things are separate from the light of the sun and it is undivided, so are You separate from all these objects of Your illumination."2
-
-   This verse illustrates Vāmanadatta's second approach to oneness, namely, what might be called the logic of transcendence' in which the unity of the absolute is established as being beyond diversity. Viṣṇu, the one reality is unaffected by the diversity of things - he is unconditioned. Although present in that which has form and is determined by time and space, he is free of them.3 But this is not because they are unreal or less then real in respect to Viṣṇu's reality: Viṣṇu is free of time, space and form because he encompasses everything; the universe is full of Viṣṇu and there is no state in which he is absent.4 Thus Vāmanadatta's transcendental logic is soon transformed into a 'logic of immanence' in which the absolute is understood as one because it excludes nothing rather than because it stands beyond the many phenomena subject to a conditioned, contingent state of existence.
-
-   But if all this is true and Viṣṇu is that same consciousness which is in every perceiving conscious being as its most essential nature why are we not aware of this fact directly and so, being conscious of our ultimate identity with Viṣṇu, be in his same state? The answer, Vāmanadatta affirms, is to be found in the
-
-1. Ibid., 1/12.
-
-2. Ibid., 1/36, cf. 1/69.
-
-3. Ibid., 1/14.
-
-4. Ibid., 1/70.
+[^18-1]: Ibid., 1,73.
+[^18-2]: Ibid., 1/84.
+[^18-3]: Ibid., 1/81.
+[^18-4]: Ibid., 1/92.
+[^18-5]: Ibid., 1/25.
+[^18-6]: Ibid., 1/119.
+[^18-7]: Ibid., 1/112-3.
+[^18-8]: Ibid., 1/24.
+[^18-9]: Ibid., 1/22.
+[^18-10]: Ibid., 1/17.
+[^18-11]: Ibid., 1/10.
+[^18-12]: Ibid., 1/22.
 
    
 
-   21
+[[19]]
 
-   negative, privative character of thought (vikalpa ). This is a theme Vāmanadatta develops extensively throughout the third prakaraṇa where he discusses the nature of thought and its formation through the power of speech. The world of daily life is perceived through a veil of thought constructs which represent what is presented by the shining of the light of consciousness in conceptual terms. Those who cannot penetrate through this veil of conceptual representation and be conscious of the immediacy of things and themelves just as they arc, that is, as clearly evident manifestations of the light of consciousness, are cut off both from the outer reality of the object and the inner reality of the subject. Thus removed from themselves and, by the same token, from the world around them, they are helplessly caught up in the trammels of conditioned existence. Thus Vāmanadatta pertinently quotes the dictum : "all thought is samsara."1
+### Prakāśa
+But although Viṣṇu contains everything and is in everything,[^19-1] he is not conditioned by the things conditioned by time, space and form because he is internal consciousness.
+
+Now all this can be expressed simply and directly, as Vāmanadatta does, by representing Viṣṇu-consciousness, the one reality, as light. Although this is a metaphor in a sense, in another, absolute divine consciousness and the world manifested in and through it are literally the light of consciousness and this is the way it is experienced. This presentation of the one, absolute reality as light is well know to Indian thought from very early times. It finds its classic expression in the following verse which appears in a number of Upanisads:
+
+> "The sun shines not there, nor moon and stars; These lightnings shine not, much less this (earthly) fire! After Him, as He shines, doth everything shine. This whole world is illumined by His light."[^19-2]
+
+From this point of view all things can be classified into two basic types, namely, those things which illuminate (prakāśaka) and those which are illuminated (prakāśya). The illuminators are both the perceiving subjects and their activity through which the objects of illumination are known, made know and hence, from this idealist point of view, created. All these illuminating lights shine by virtue of Viṣṇu, the one light.[^19-3] 
+
+In this sense, Viṣṇu is always immediately apparent as all things, in the act of knowing them and as the knower. As the immediate appearance of things just as they are, that is, as the shining of the universal light, they reveal Viṣṇu's nature which is thus directly apparent (prakaṭa). The light of the sun illumines an object and so makes it apparent (prakaṭa), whereas before it was obscure (aprakaṭa) and hence unknown. But Viṣṇu is always apparent as all things, there is no need to find ways to make him evident, nor is there any need of proofs to establish his existence.[^19-4] 
+
+[^19-1]: Ibid., 1/14.
+
+[^19-2]: Svetaśvaturopanisad 6/14, the same verse is also found in Mundakopaniṣad 2/2/10 and the Kathopanisad 5/15; cf. also Bhagavadgita, 15/6.
+
+[^19-3]: S.P.. 1/37-8.
+
+[^19-4]: Ibid., 1/12-3.
+
+[[20]]
+
+Thus, the light which is the illuminator (prakāśaka) is at the same time the object of illumination without this compromising its essentially luminous nature as the pure presentation of things just as they are in the immediacy of their direct experience. Thus Vāmanadatta writes:
+
+> "None dispute that You (O Lord ) are the essential nature of (all) things; it is not darkness (aprakāśa) that shines when (the light of consciousness) becomes the object of illumination."[^20-1]
+
+In this way Vāmanadatta accounts for unity as the identity of opposites understood as aspects of the same noumenous reality, namely, the shining of the light of consciousness. But while the illuminator as light manifests the object and thus presents itself as the object's manifest appearance, it also transcends it:
+
+> "Just as these things are separate from the light of the sun and it is undivided, so are You separate from all these objects of Your illumination."[^20-2]
+
+### Unconditionality
+This verse illustrates Vāmanadatta's second approach to oneness, namely, what might be called the logic of transcendence[^20-3] in which the unity of the absolute is established as being beyond diversity. Viṣṇu, the one reality is unaffected by the diversity of things - he is unconditioned. Although present in that which has form and is determined by time and space, he is free of them.[^20-3] But this is not because they are unreal or less then real in respect to Viṣṇu's reality: Viṣṇu is free of time, space and form because he encompasses everything; the universe is full of Viṣṇu and there is no state in which he is absent.[^20-4] Thus Vāmanadatta's transcendental logic is soon transformed into a 'logic of immanence' in which the absolute is understood as one because it excludes nothing rather than because it stands beyond the many phenomena subject to a conditioned, contingent state of existence.
+
+[^20-1]: Ibid., 1/12.
+
+[^20-2]: Ibid., 1/36, cf. 1/69.
+
+[^20-3]: Ibid., 1/14.
+
+[^20-4]: Ibid., 1/70.
+
+
+### vikalpa
+But if all this is true and Viṣṇu is that same consciousness which is in every perceiving conscious being as its most essential nature why are we not aware of this fact directly and so, being conscious of our ultimate identity with Viṣṇu, be in his same state? The answer, Vāmanadatta affirms, is to be found in the [[21]] negative, privative character of thought (vikalpa ). This is a theme Vāmanadatta develops extensively throughout the third prakaraṇa where he discusses the nature of thought and its formation through the power of speech. The world of daily life is perceived through a veil of thought constructs which represent what is presented by the shining of the light of consciousness in conceptual terms. Those who cannot penetrate through this veil of conceptual representation and be conscious of the immediacy of things and themelves just as they arc, that is, as clearly evident manifestations of the light of consciousness, are cut off both from the outer reality of the object and the inner reality of the subject. Thus removed from themselves and, by the same token, from the world around them, they are helplessly caught up in the trammels of conditioned existence. Thus Vāmanadatta pertinently quotes the dictum : "all thought is samsara."1
 
    Like all Hindu monists Vāmanadatta preaches that liberation comes by identifying ourselves with the true Self, namely, Viṣnu and by freeing ourselves of false identification with the body and all else that is not Self (anĀtman). For while the Self is bliss itself, non-Self - its very opposite is suffering.2 But while the Self must be known, it cannot be known as an object. If the Self where to be an object the subject who perceives it would be superior to it. Thus there would be something higher then the Self and therefore another higher than that would be required in order to know it. Ultimate Being cannot be known like a sense object, for all sense objects are limited, conditioned entities. This does not mean that the Self is never known objectively, rather that it is not known in itself as it is in this way. When consciousness is perceived as an object it becomes the things of the world that are 'other' than the Self. As Vāmanadatta says:
 
@@ -791,315 +792,278 @@ Here we notice a radical departure from the Śaiva phenomenology of Utpaladeva. 
 
    To conclude we can say that the discovery and edition of Vāmanadatta's work may well serve as a stimulus for further research into the interaction between Śaivism and Vaisnavism in general and, more specifically, between their monistic forms. Thus a work like Bhaskara's Kakṣyastotra evidences, in the passages quoted from it, signs of the author's attempts to integrate certain basic Pañcarātra notions into his Śaiva monism. Other works, like the Cicchaktisamstuti,2 that we know of only from quotations, exhibit a sort of intermediary character. This text, focusing on sakti, draws from both Śaiva and Vaiṣṇava ideas to support its Sakta monism. Again, although the Parāmarthasāra draws its inspiration from other sources to develop its monism, its existence is a further indication that, although less extensive than their Śaiva equivalents, Vaiṣṇava monisms deserve to be carefully researched and not only in the works of known authors but, more especially, in the original Piñcarātra scriptures amongst which some, particularly the Ahirbudhnyasaṁhitā and the Lakṣmitantra, exhibit marked Śaiva influences.
 
-   A.K.
-
-   T.A.
-
-   P.S.
-
-   List of Abbreviations
-
-   Adhārakārikā
-
-   Tantrāloka
-
-   Parāmarthasāra
-
 1. I am thinking here particularly of the verses from the Kaksyāstotra quoted
 
    in Sp. Pra., p. 103.
 
 2. Quoted ibid., p., 87 and p., 113.
 
-   P.T.V.
 
-   M.M.
+## List of Abbreviations
 
-   L.T.
+| Title               | Abbreviation |
+|---------------------|--------------|
+| Adhārakārikā        | A.K.         |
+| Tantrāloka          | T.A.         |
+| Parāmarthasāra      | P.S.         |
+| Parātriśikāvivarana | P.T.V.       |
+| Mahārthamañjari     | M.M.         |
+| Lakṣmitantra        | L.T.         |
+| Luptāgamasaṁgraha   | L.A.S.       |
+| Vijñānabhairava     | V.B.         |
+| Saṁvitprakāśa       | S.P.         |
+| Spandanimaya        | Sp.Nir.      |
+| Spandapradipikā     | Sp. Pra.     |
+| Spandasamdoha       | Sp.Sam.      |
 
-   L.A.S.
 
-   V.B.
 
-   S.P.
 
-   Sp.Nir.
+[[31]]
 
-   Sp. Pra. Sp.Sam.
+## The Lakṣmitantra and the Saṁvitprakāśa
+[[Appendix]]
 
-   
-
-   Parātriśikāvivarana
-
-   Mahārthamañjari
-
-   Lakṣmitantra
-
-   Luplagamasamgraha
-
-   Vijñānabhairava
-
-   Saṁvitprakāśa
-
-   Spandanimaya
-
-   Spandapradipikā
-
-   Spandasamdoha
-
-   Appendix
-
-   31
-
-   The Lakṣmitantra and the Saṁvitprakāśa
-
-   Listed below are the verses in chapter fourteen of the Lakṣmitantra that are related to those of the Saṁvitprakāśa.
+Listed below are the verses in chapter fourteen of the Lakṣmitantra that are related to those of the Saṁvitprakāśa.
 
 1) L.T. 14/8ab rcads :
 
-   नीले पीते सुखे दुःखे चित्स्वरूपमखण्डितम् ।
+नीले पीते सुखे दुःखे चित्स्वरूपमखण्डितम् ।
 
-   S.P. quoted in T.A., 5/154 cd reads संविद्रूपम् in the place of चित्स्वरूपम् this verse quoted in Sp. Pra, p. 96, agrees with the L.T. cxactly.
+S.P. quoted in T.A., 5/154 cd reads संविद्रूपम् in the place of चित्स्वरूपम् this verse quoted in Sp. Pra, p. 96, agrees with the L.T. cxactly.
 
 2) L.T. 14/9-10 : विकल्पोऽपि हि मद्रूपं स्वाच्छन्द्यादेव निर्मितम् ।
 
-   चेत्यं विकल्प्यते येन बहिरन्तर्व्यवस्थया
+चेत्यं विकल्प्यते येन बहिरन्तर्व्यवस्थया
 
-   न बहिर्नैव चान्तस्तच्चिद्रूपं मम तत् परम् वेद्यवेदकरूपेण भेद्यते मे स्वयं तया
+न बहिर्नैव चान्तस्तच्चिद्रूपं मम तत् परम् वेद्यवेदकरूपेण भेद्यते मे स्वयं तया
 
-   ॥
+॥
 
-   1
+1
 
-   ॥
+॥
 
-   Cf. S.P., 1/1-2. Although these verses are substantially different in the L.T their common form with the S.P. is still clearly discernable.
+Cf. S.P., 1/1-2. Although these verses are substantially different in the L.T their common form with the S.P. is still clearly discernable.
 
 3) L.T., 14/11 corresponds to S.P., 1/3, only the fourth pada
 
-   contains variants, L. T. reads :
+contains variants, L. T. reads :
 
-   and S.P.:
+and S.P.:
 
-   ..रूपं तच्चेत्यतां गतम् ।
+..रूपं तच्चेत्यतां गतम् ।
 
-   ...........नौ मि
+...........नौ मि
 
-   नौमि तद् वैष्णवं पदम् ||
+नौमि तद् वैष्णवं पदम् ||
 
 4) L.་., 14/12:
 
-   Cf., S.P., 1/4.
+Cf., S.P., 1/4.
 
-   दूरापास्तविकल्पेन चेतसा यत्र भूयते मध्यमां वृत्तिमास्थाय चेत्यं संवित्तया तदा ॥
+दूरापास्तविकल्पेन चेतसा यत्र भूयते मध्यमां वृत्तिमास्थाय चेत्यं संवित्तया तदा ॥
 
-   |
+|
 
-   32
+32
 
 5) L.T., 14/13:
 
-   CI., S.P., 1/9.
+CI., S.P., 1/9.
 
 6) L.T., 14/14:
 
-   SaṁvitprakāśaH
+SaṁvitprakāśaH
 
-   यथा चक्षुः स्थितं रूपं बाह्ये स्वं रूपमीक्ष्यते । तथा ज्ञानस्थितं रूपं ज्ञेये स्वं रूपमीक्ष्यते
+यथा चक्षुः स्थितं रूपं बाह्ये स्वं रूपमीक्ष्यते । तथा ज्ञानस्थितं रूपं ज्ञेये स्वं रूपमीक्ष्यते
 
-   ॥
+॥
 
-   यथा वह्निसमाविष्टं काष्ठं तद्रूपमीक्ष्यते
+यथा वह्निसमाविष्टं काष्ठं तद्रूपमीक्ष्यते
 
-   तथा संवित्समाविष्टं चेत्यं संवित्तयेक्षते
+तथा संवित्समाविष्टं चेत्यं संवित्तयेक्षते
 
-   ॥
+॥
 
-   Cr. S.P., 1/9ab:
+Cr. S.P., 1/9ab:
 
-   ॥
+॥
 
-   यथाग्निना समाविष्टं सर्वं तद्रूपमीक्ष्यते
+यथाग्निना समाविष्टं सर्वं तद्रूपमीक्ष्यते
 
-   The second line is not found in the extant manuscripts of the Saṁvitprakāśa, when Bhagavadutpala quotes this verse in Sp. Pra., p. 112 he supplies the second line which reads there:
+The second line is not found in the extant manuscripts of the Saṁvitprakāśa, when Bhagavadutpala quotes this verse in Sp. Pra., p. 112 he supplies the second line which reads there:
 
-   तथा ज्ञानसमाविष्टं सर्वं तद्रूपमीक्ष्यताम्
+तथा ज्ञानसमाविष्टं सर्वं तद्रूपमीक्ष्यताम्
 
 7) L.T., 14/15:
 
-   CI. S.P., 1/24:
+CI. S.P., 1/24:
 
-   वेद्यं वेदनतां नीत्वा यदा वेत्त्रा निरूप्यते । तदा वित्तिमयी साहं प्रत्यक्षा स्फुटभासिनी ॥
+वेद्यं वेदनतां नीत्वा यदा वेत्त्रा निरूप्यते । तदा वित्तिमयी साहं प्रत्यक्षा स्फुटभासिनी ॥
 
-   वेद्यं स्वरूपतां नीत्वा यदा जानाति वेदनम् ।
+वेद्यं स्वरूपतां नीत्वा यदा जानाति वेदनम् ।
 
-   11
+11
 
-   तदानीं वेद्यता का स्यात् का वा वेदनता परा ॥
+तदानीं वेद्यता का स्यात् का वा वेदनता परा ॥
 
-   Note that the manuscripts of the Saṁvitprakāśa read al instead of वेदनता, the latter reading is found in Sp. Pra., p. 89 and is decidedly better and so has been adopted.
+Note that the manuscripts of the Saṁvitprakāśa read al instead of वेदनता, the latter reading is found in Sp. Pra., p. 89 and is decidedly better and so has been adopted.
 
 8) L.T., 14/18ab:
 
-   मद्ध्यानामृतनिष्यन्दक्षालिताशेषवासनाः
+मद्ध्यानामृतनिष्यन्दक्षालिताशेषवासनाः
 
-   Cr. S.P., 1/26 ab:
+Cr. S.P., 1/26 ab:
 
 9) L.T., 14/19:
 
-   Cf. S.P., 1/28
+Cf. S.P., 1/28
 
-   |
+|
 
-   त्वद्ध्यानामृतनिःष्यन्दनिःशेषशालिने नमः ॥
+त्वद्ध्यानामृतनिःष्यन्दनिःशेषशालिने नमः ॥
 
-   मम चित्तैकरूपाया वेद्यवेदकतां जनाः अविद्ययैव मन्यन्ते मत्संकल्पितया पुरा
+मम चित्तैकरूपाया वेद्यवेदकतां जनाः अविद्ययैव मन्यन्ते मत्संकल्पितया पुरा
 
-   तवाचित्रैकरूपस्य वेद्यवेदकतामयी
+तवाचित्रैकरूपस्य वेद्यवेदकतामयी
 
-   ||
+||
 
-   नाथ मिथ्यैव मन्यन्ते सत्यचिन्मात्ररूपिणः ॥
+नाथ मिथ्यैव मन्यन्ते सत्यचिन्मात्ररूपिणः ॥
 
-   Note that MSS A, D, E and G of the L.T. read in the
+Note that MSS A, D, E and G of the L.T. read in the
 
-   This reading is clearly closer to the S.P.
+This reading is clearly closer to the S.P.
 
-   place of fra
+place of fra
 
-   100 L.T., 14/20b:
+100 L.T., 14/20b:
 
-   नं शान्ता नोदिता नापि मध्यमाहं स्वरूपतः ।
+नं शान्ता नोदिता नापि मध्यमाहं स्वरूपतः ।
 
-   Cf. S.P., 1/28 cd:
+Cf. S.P., 1/28 cd:
 
 11) L.T., 14/21:
 
-    
 
-    न शान्तमुदितं नापि तव रूपं न मध्यमम्
 
-    परित्यक्तविभागेन निस्तरङ्गेण चेतसा ज्ञाये विकल्प्यमाना तु प्रत्यक्षाप्यस्मि विस्मृता ॥
+न शान्तमुदितं नापि तव रूपं न मध्यमम्
 
-    cf. S.P., 1/34 cd - 35 ab:
+परित्यक्तविभागेन निस्तरङ्गेण चेतसा ज्ञाये विकल्प्यमाना तु प्रत्यक्षाप्यस्मि विस्मृता ॥
 
-    परित्यक्तविभागेन ज्ञायसे न विकल्पसे ॥ विकल्पातीतरूपत्वात् प्रत्यक्षाऽप्यसि विस्मृतः ।
+cf. S.P., 1/34 cd - 35 ab:
+
+परित्यक्तविभागेन ज्ञायसे न विकल्पसे ॥ विकल्पातीतरूपत्वात् प्रत्यक्षाऽप्यसि विस्मृतः ।
 
 12) L.T., 14/22ab:
 
-    पुरः
+पुरः
 
-    स्थितो यथा भावश्चेतसोऽन्याभिलाषिणः । This line corresponds to S.P., 1/35 cd. 13) L.T., 14/25:
+स्थितो यथा भावश्चेतसोऽन्याभिलाषिणः । This line corresponds to S.P., 1/35 cd. 13) L.T., 14/25:
 
-    S.P., 1/40
+S.P., 1/40
 
 14) L.T., 14/27:
 
-    S.P., 1/43
+S.P., 1/43
 
 15) L.T., 14/28
 
-    यथा जात्या सितं वस्त्रं रक्तं रागेन केनचित् । पुनः स्ववर्णमप्राप्य नैव रागान्तरं श्रयेत्
+यथा जात्या सितं वस्त्रं रक्तं रागेन केनचित् । पुनः स्ववर्णमप्राप्य नैव रागान्तरं श्रयेत्
 
-    ॥
+॥
 
-    The first line is identical, the second reads: तत्पदप्राप्तशुक्लत्वं पुना रागान्तरं श्रयेत्
+The first line is identical, the second reads: तत्पदप्राप्तशुक्लत्वं पुना रागान्तरं श्रयेत्
 
-    तथैवोच्चारयन् वाक्यं वर्णाद् वर्णं कथं व्रजेत् । यदि मध्ये न विश्रान्तो मयि शुद्धचिदात्मनि ॥
+तथैवोच्चारयन् वाक्यं वर्णाद् वर्णं कथं व्रजेत् । यदि मध्ये न विश्रान्तो मयि शुद्धचिदात्मनि ॥
 
-    अयमुच्चारयन् वाक्यं वर्णाद् वर्ण कथं व्रजेत् । यावन्मध्ये न विश्रान्तस्त्वयि शुद्धचिदात्मनि ॥
+अयमुच्चारयन् वाक्यं वर्णाद् वर्ण कथं व्रजेत् । यावन्मध्ये न विश्रान्तस्त्वयि शुद्धचिदात्मनि ॥
 
-    एवं शुद्धा स्वतन्त्रापि यदाकारोपरागिणी तत्त्यागापरसंचारा मध्ये शुद्धैव भाम्यहम्
+एवं शुद्धा स्वतन्त्रापि यदाकारोपरागिणी तत्त्यागापरसंचारा मध्ये शुद्धैव भाम्यहम्
 
-    1
+1
 
-    33
+33
 
-    S.P., 1/44 reads fafastar in the place of aft and farsf
+S.P., 1/44 reads fafastar in the place of aft and farsf
 
-    for भाम्यहम्
+for भाम्यहम्
 
 16) L.T. 14/29 coincides with S.P., 1/45 L. T. reads:
 
-    अग्नीषोमेन्धनो,
+अग्नीषोमेन्धनो,
 
 17) L.T., 14/30:
 
-    S.P., 1/46:
+S.P., 1/46:
 
-    S.P.: अग्नीषोमेश्वरो
+S.P.: अग्नीषोमेश्वरो
 
-    धिया ध्येयमनालम्ब्य विषयं चास्पृशन् बहिः । यदन्तरा वेदयते तन्मे रूपमनाकुलम्
+धिया ध्येयमनालम्ब्य विषयं चास्पृशन् बहिः । यदन्तरा वेदयते तन्मे रूपमनाकुलम्
 
-    भिमादमा
+भिमादमा
 
-    पदमारा वेदयते तत् रूपराव निर्मलम्
+पदमारा वेदयते तत् रूपराव निर्मलम्
 
-    34
+34
 
-    SAMVIIPRAKĀSAH
+SAMVIIPRAKĀSAH
 
 18) L.T., 14/35:
 
-    S.P., 1/52:
+S.P., 1/52:
 
 19) L.T., 14/36:
 
-    S.P., 1/53:
+S.P., 1/53:
 
 20) L.T., 14/38:
 
-    S.P., 1/57ab:
+S.P., 1/57ab:
 
-    1/56cd:
+1/56cd:
 
 21) L.T., 14/39:
 
-    S.P., 1/57:
+S.P., 1/57:
 
 22) L.T., 14/45:
 
-    S.P., 1/70:
+S.P., 1/70:
 
-    भावैर्विना यथा भानुः समुदेति नभःस्थले वेद्यैर्विनैव मे रूपमेवं प्रद्योतते स्वयम्
+भावैर्विना यथा भानुः समुदेति नभःस्थले वेद्यैर्विनैव मे रूपमेवं प्रद्योतते स्वयम्
 
-    I
+I
 
-    समुदेति यथा भावान् विना भानुर्नभस्तले । वेद्यं विनैव भगवन् भवान् केन हृतोदयः ॥
+समुदेति यथा भावान् विना भानुर्नभस्तले । वेद्यं विनैव भगवन् भवान् केन हृतोदयः ॥
 
-    अत्यन्ताच्छस्वभावत्वात् स्फटिकादिर्यथा मणिः । अपरक्तो जपाद्यैस्तु स्वेन रूपेण नेक्ष्यते
+अत्यन्ताच्छस्वभावत्वात् स्फटिकादिर्यथा मणिः । अपरक्तो जपाद्यैस्तु स्वेन रूपेण नेक्ष्यते
 
-    अत्यन्ताच्छस्वभावत्वात् स्फटिकस्य यथा स्वकम् । रूपं परोपरक्तस्य नित्यमेवोपलभ्यते
+अत्यन्ताच्छस्वभावत्वात् स्फटिकस्य यथा स्वकम् । रूपं परोपरक्तस्य नित्यमेवोपलभ्यते
 
-    कुण्डलादेर्यथा भिन्ना न लक्ष्या कनकस्थितिः न च शक्या विनिर्देष्टुं तथाप्यस्त्येव सा ध्रुवम्
+कुण्डलादेर्यथा भिन्ना न लक्ष्या कनकस्थितिः न च शक्या विनिर्देष्टुं तथाप्यस्त्येव सा ध्रुवम्
 
-    यथोद्धृतकुण्डलादेः कनकस्य स्वयं स्थितिः ।
+यथोद्धृतकुण्डलादेः कनकस्य स्वयं स्थितिः ।
 
-    पृथङ्न शक्या निर्देष्टुं न च तत्रास्ति तावता ||
+पृथङ्न शक्या निर्देष्टुं न च तत्रास्ति तावता ||
 
-    एवं नित्या विशुद्धा च सुखदुःखाद्यभेदिता । स्वसंवदनसंवेद्या मम संविन्मयी स्थिति:
+एवं नित्या विशुद्धा च सुखदुःखाद्यभेदिता । स्वसंवदनसंवेद्या मम संविन्मयी स्थिति:
 
-    एवं नित्या निजा शुद्धा सुखदुःखनिषेधनात् । स्वसंवेदनसंवेद्या तव संविन्मयी स्थिति: ॥
+एवं नित्या निजा शुद्धा सुखदुःखनिषेधनात् । स्वसंवेदनसंवेद्या तव संविन्मयी स्थिति: ॥
 
-    काप्यवस्था न मे सास्ति यस्यां संविन्न वर्तते । तेऩ मां चिद्धनामेकां सर्वाकारामुपासते
+काप्यवस्था न मे सास्ति यस्यां संविन्न वर्तते । तेऩ मां चिद्धनामेकां सर्वाकारामुपासते
 
-    ॥
+॥
 
-    काप्यवस्था न ते सास्ति यस्यां संविन्न वर्तते । तेन चिद्धनमेव त्वां योगिनः पर्युपासते
+काप्यवस्था न ते सास्ति यस्यां संविन्न वर्तते । तेन चिद्धनमेव त्वां योगिनः पर्युपासते
 
-    ॥
+॥
 
-    ||
 
-    Now that the Lakṣmitantra has been established to be of South Indian origin and as not being older than the 12th century (sce above, p. 27 n. 6) there can be no doubt that it has borrowed from the Saṁvitprakāśa and not the other way round. This fact serves to indicate that even though Vāmanadatta's work was not generally well known outside Kashmir it did travel to the South of
+ Now that the Lakṣmitantra has been established to be of South Indian origin and as not being older than the 12th century (sce above, p. 27 n. 6) there can be no doubt that it has borrowed from the Saṁvitprakāśa and not the other way round. This fact serves to indicate that even though Vāmanadatta's work was not generally well known outside Kashmir it did travel to the South, [[35]] its citation in Maheśvarananda's Mahārthamañjari, composed in South India in the 13th century, further confirms. Moreover, the compatibility of the views of the Samvitprakāśa with those of the Lakṣmitantra, despite certain important differences, indicates how this kind of monistic Vaisnavism found substantial acceptance- amongst some Pañcarātrins.
 
-    
-
-    35
-
-    its citation in Maheśvarananda's Mahārthamañjari, composed in South India in the 13th century, further con rms. Moreover, the compatibility of the views of the Samvip. anasa with those of the Lakṣmitantra, despite certain important differences, indicates how this kind of monistic Vaisnavism found substantial acceptance- amongst sonic Pañcarātring.
-
-    The Saṁvitprakāśa Ouoted in Other Sources
+## The Saṁvitprakāśa Ouoted in Other Sources
 
     Listed below are the verses which are quoted from the Saṁvitprakāśa in other texts:
 
@@ -1205,7 +1169,7 @@ Chapter 5
 
 Sp. Pra., p. 89, 125.
 
-Other possible quotes:
+### Other possible quotes:
 
 1) Sp. Nir., p. 48:
 
@@ -1231,31 +1195,31 @@ Other possible quotes:
 
    37
 
-   BIBLIOGRAPHY
+## BIBLIOGRAPHY
 
-   Tantrāloka by Abhinavagupta (12 vol.) with viveka by Jayartha. Part 1 edited by M.R. Sastri. Parts 2-12 edited by M.S. Kaul, K.S.T.S., no. 23, 1918; 28, 1921; 30, 1921; 36, 1922; 35, 1922; 29, 1921; 41, 1924; 47, 1926; 59, 1933; 57, 1936 and 57, 1938.
+Tantrāloka by Abhinavagupta (12 vol.) with viveka by Jayartha. Part 1 edited by M.R. Sastri. Parts 2-12 edited by M.S. Kaul, K.S.T.S., no. 23, 1918; 28, 1921; 30, 1921; 36, 1922; 35, 1922; 29, 1921; 41, 1924; 47, 1926; 59, 1933; 57, 1936 and 57, 1938.
 
-   Parāmarthasāra by Abhinavagupta with vivṛti by Yogarāja. K.S.T.S., no. 7, 1916. Edited by J.C. Chatterjee. Parāmarthasāra by Ādiśeṣa with vivarana by Raghavananda. Acyutagranthamālā vol. 9. Vidyavilāsa Press, Varanasi, 1989. Edited by Surya Nārāyaṇa Śukla.
+Parāmarthasāra by Abhinavagupta with vivṛti by Yogarāja. K.S.T.S., no. 7, 1916. Edited by J.C. Chatterjee. Parāmarthasāra by Ādiśeṣa with vivarana by Raghavananda. Acyutagranthamālā vol. 9. Vidyavilāsa Press, Varanasi, 1989. Edited by Surya Nārāyaṇa Śukla.
 
-   Parātriśikāvivarana by Abhinavagupta. K.S.T.S., no. 18, 1918. Edited by M.S. Kaul.
+Parātriśikāvivarana by Abhinavagupta. K.S.T.S., no. 18, 1918. Edited by M.S. Kaul.
 
-   Mahārthamañjarī and parimala by Maheśvarananda. Yogatantragranthamālā, no. 5. Benares, 1972. Edited by Vrajavallabha Dviveda.
+Mahārthamañjarī and parimala by Maheśvarananda. Yogatantragranthamālā, no. 5. Benares, 1972. Edited by Vrajavallabha Dviveda.
 
-   Lakṣmitantra. The Adyar Library Series vol. 87, 1975, the Vasanta Press, Adyar. Edited with Sanskrit gloss and  by V. Krishnamacharya.
+Lakṣmitantra. The Adyar Library Series vol. 87, 1975, the Vasanta Press, Adyar. Edited with Sanskrit gloss and  by V. Krishnamacharya.
 
-   2,
+2,
 
-   Luptagamasamgraha. Part 1 collected and edited by Gopinatha Kavirāja. Yogatantragranthamālā no. Varanasi, 1970; part 2 collected and edited by Vrajavallabha Dviveda. Yogatantragranthamālā no. Varanasi, 1983.
+Luptagamasamgraha. Part 1 collected and edited by Gopinatha Kavirāja. Yogatantragranthamālā no. Varanasi, 1970; part 2 collected and edited by Vrajavallabha Dviveda. Yogatantragranthamālā no. Varanasi, 1983.
 
-   Vijñānabhairava with commentaries by Kṣemarāja (incomplete) and Sivopadhyāya. K.S.T.S., no. 1918. Edited by M.R. Śastri.
+Vijñānabhairava with commentaries by Kṣemarāja (incomplete) and Sivopadhyāya. K.S.T.S., no. 1918. Edited by M.R. Śastri.
 
-   Spandakārikā with vṛtti by Kallaṭabhatta. K.S.T.S., no. 5, 1916. Edited by J.C. Chatterjee.
+Spandakārikā with vṛtti by Kallaṭabhatta. K.S.T.S., no. 5, 1916. Edited by J.C. Chatterjee.
 
-   Spandanirnaya by Kṣemarāja. K.S.T.S., no. 43, 1923. Edited with English translation by M.S. Kaul.
+Spandanirnaya by Kṣemarāja. K.S.T.S., no. 43, 1923. Edited with English translation by M.S. Kaul.
 
-   38
+38
 
-   Spandapradīpikā by Bhagavadutpala. Published in the Tantrasamgraha vol. 1. Yogatantragranthamāla no. 3 pp. 83-128. Edited by G. Kavirāja, Benares, 1970.
+Spandapradīpikā by Bhagavadutpala. Published in the Tantrasamgraha vol. 1. Yogatantragranthamāla no. 3 pp. 83-128. Edited by G. Kavirāja, Benares, 1970.
 
-   Spandasamdoha by Kṣemarāja. K.S.T.S., no. 43, 1925. Edited by M.R. Śāstrī. 
+Spandasamdoha by Kṣemarāja. K.S.T.S., no. 43, 1925. Edited by M.R. Śāstrī. 
 
