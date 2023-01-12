@@ -2,6 +2,8 @@
 title = "मार्क-मूलम्"
 +++
 
+Source: [TW](https://ia601807.us.archive.org/13/items/TJkQ_the-samvit-prakash-of-vamanadatta-photocopy-mark-dyczkowski/The%20Samvit%20Prakash%20of%20Vamanadatta%20Photocopy%20-%20Mark%20Dyczkowski.pdf)
+
 The SAMVITPRAKASA   
 BY  
 VĀMANADATTA   

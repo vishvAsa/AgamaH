@@ -3,6 +3,9 @@ title = "Mark Intro"
 +++
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
+
+Source: [TW](https://ia601807.us.archive.org/13/items/TJkQ_the-samvit-prakash-of-vamanadatta-photocopy-mark-dyczkowski/The%20Samvit%20Prakash%20of%20Vamanadatta%20Photocopy%20-%20Mark%20Dyczkowski.pdf)
+
 This edition and  was produced as part of a project for Sampurṇānanda Sanskrit University, Varanasi to edit Tantric Texts financed by the University Grants Commission. The editor was also financially assisted by the Indian National Trust for Art and Cultural Heritage (INTACH).
 </details>
 
@@ -444,29 +447,29 @@ Vāmanadatta thus develops a peculiar position of his own here. According to him
 
 > "He whose unique nature is supremely pure consciousness alone assumes physical form. This can be explained both in terms of real and apparent change. (Explained as merely) apparent change, it is You, O Acyuta ( Who persist unchanged although) it [[15]] appears to be otherwise. 
 > 
-> (And as a ) real transformation, it is always You (who, although essentially the same, assume many forms) just as gold (fashioned into an ) earring (remains gold)."!
+> (And as a ) real transformation, it is always You (who, although essentially the same, assume many forms) just as gold (fashioned into an ) earring (remains gold)."[^15-1]
 
-Even so, Vāmanadatta stresses that subject/object distinctions are not ultimately real. It is the notion based on duality (bhedasamkalpa) that splits up the unity of consciousness into subject and object, inner and outer.2 Both the condition of the subject and that the of object are states of Viṣṇu who is the one, pure consciousness and so they are ultimately false in themselves.3 It is only the foolish who, seeing the world of subjects and objects, believe that that is the way things are also within Viṣnu whereas he is really beyond all phenomenal being and hence contamination by such relative distinctions. As Viṣṇu is the universal nature of all things like the gold of gold ornaments - there can be no distinction within him.5 There can be no time or space within him who is the one support of all, and consists of all things while at the same time transcending all particulars."
+[^15-1]: Ibid, 1/104b-6a.
 
-Thus, Māyā is the ignorance or false knowledge of duality. The way this false knowledge operates is through language for that which is undivided within one's own consciousness appears to be fragmented when it reaches the plane of speech.7 Duality is just the way we talk about things and hence think about them. The primary form of this duality is that between subject and object. But if we reflect upon this relation and what it entails we discover that it is not as it initially appears to be. Objectivity (meyatva), Vāmanadatta argues, amounts to a state of limitation and the exclusion of elements one from another (paricchedu), and this doesn't take place within consciousness (jñāna) which is not an object of knowledge but the prerequisite condition of all knowledge. Indeed it is this, the ultimate nature of the perceiving
 
-1. Ibid, 1/104b-6a.
+Even so, Vāmanadatta stresses that subject/object distinctions are not ultimately real. It is the notion based on duality (bhedasaṁkalpa) that splits up the unity of consciousness into subject and object, inner and outer.[^15-2] Both the condition of the subject and that the of object are states of Viṣṇu who is the one, pure consciousness and so they are ultimately false in themselves.[^15-3] It is only the foolish who, seeing the world of subjects and objects, believe that that is the way things are also within Viṣnu whereas he is really beyond all phenomenal being and hence contamination by such relative distinctions. As Viṣṇu is the universal nature of all things like the gold of gold ornaments - there can be no distinction within him.[^15-5] There can be no time or space within him who is the one support of all, and consists of all things while at the same time transcending all particulars.[^15-6]
 
-2. Ibid., 1/1.
+### Language and Māyā
+Thus, Māyā is the ignorance or false knowledge of duality. The way this false knowledge operates is through language - for that which is undivided within one's own consciousness appears to be fragmented when it reaches the plane of speech.[^15-7] Duality is just the way we talk about things and hence think about them. The primary form of this duality is that between subject and object. But if we reflect upon this relation and what it entails we discover that it is not as it initially appears to be. Objectivity (meyatva), Vāmanadatta argues, amounts to a state of limitation and the exclusion of elements one from another (paricchedu), and this doesn't take place within consciousness (jñāna) which is not an object of knowledge but the prerequisite condition of all knowledge. Indeed it is this, the ultimate nature of the perceiving
 
-3. Ibid., 1/28.
+[^15-2]: Ibid., 1/1.
 
-4. Ibid., 1/51.
+[^15-3]: Ibid., 1/28.
 
-5. Ibid., 1/109-11.
+[^15-4]: Ibid., 1/51.
 
-6. Ibid., 1/62.
+[^15-5]: Ibid., 1/109-11.
 
-7. Ibid., 2/19.
+[^15-6]: Ibid., 1/62.
 
-8. Ibid., 2/21.16
+[^15-7]: Ibid., 2/19.
 
-   SAMVIIprakāśaH
+[^15-8]: Ibid., 2/21.16
 
    consciousness (graha) of both subject and object, that is real and persists when they cease: all else is false.' The notions that 'this is other than me' and 'I am different from that' run contrary to oneness and cannot persist even for an instant2 and they do not in fact do so for all thought is momentary. In reality cognitive consciousness (jñāna) shines by itself, it does not require any object.3 The status of things as objects of knowledge is not due to some inherent attribute they possess of themselves, but is due to their relation to a perceiving subject, while the subjectivity (mātṛtva) in the perceiving subject has no existence apart from the object.4 The establishment (siddhi ) of truly existing things is independent (anapeksa ). There is neither subjectivity nor objectivity in those things that are independent.5 Similarly, if it is impossible to conceive of knowledge with no field of application (viṣaya ), it is also impossible for this field to exist without content (viṣayin )." The same argument holds good with relation to action (karma) and the agent. Action pertains to that which is made manifest by consciousness (prakasya ) but this can have no existence in the absence of an agent,' but as nothing is manifest but consciousness itself there can be no question of action or agency.
 
@@ -638,7 +641,7 @@ conceptual representation is generated and hence the play of objectivity. I am n
 
 "O Mādhava, only You remain when one free of ego (reflects that) You perform this action and ( that it accords with) Your nature. Now if this separation (from You) which corresponds to this (false) presumption of egoic existence dissolves into the Self by devotion to You, separation is destroyed and oneness is established."!
 
-The sense of oneness as "I" is never an independent self- subsisting awareness; according to Vāmanadatta it is always the subject of predication as when one thinks: "this is different from me and I am different from that."2 It is thus essentially a thought construct like all relativizing analytic notions. Instead of being a notion centred on the object it is a notion concerning oneself (asmadvikalpa) and so must, like its objective counterpart, be rejected as short of ultimacy. Vāmanadatta equates the ego with the notion of personal existence as individual, appropriating or acquisitive consciousness. It consists of an intent (samkalpa) to make the object one's own. Thus, rather than the sense of "I" it is better described as the sense of "mine". This sense of "mine" (mamatā ) expresses itself each moment as an intention which leads to another, thus maintaining its existence. Vāmanadatta thus describes it as a transitory (anitya) product of the pulsing activity of consciousness (spanda ). Just as death is the inevitable result of its persistence, so death ceases when it comes to an end.3
+The sense of oneness as "I" is never an independent self- subsisting awareness; according to Vāmanadatta it is always the subject of predication as when one thinks: "this is different from me and I am different from that."2 It is thus essentially a thought construct like all relativizing analytic notions. Instead of being a notion centred on the object it is a notion concerning oneself (asmadvikalpa) and so must, like its objective counterpart, be rejected as short of ultimacy. Vāmanadatta equates the ego with the notion of personal existence as individual, appropriating or acquisitive consciousness. It consists of an intent (saṁkalpa) to make the object one's own. Thus, rather than the sense of "I" it is better described as the sense of "mine". This sense of "mine" (mamatā ) expresses itself each moment as an intention which leads to another, thus maintaining its existence. Vāmanadatta thus describes it as a transitory (anitya) product of the pulsing activity of consciousness (spanda ). Just as death is the inevitable result of its persistence, so death ceases when it comes to an end.3
 
 Here we notice a radical departure from the Śaiva phenomenology of Utpaladeva. This need not surprise us. The
 

@@ -2,6 +2,8 @@
 title = "त्रिपाठि-भागीरथ-मूलम्"
 +++
 
+Source: [TW](https://archive.org/details/miZj_samvit-prakash-of-vamanadatta-bhagiratha-prasada-tripathi-vagisha-shastri)
+
 वामनदत्तप्रणीतः 
 संवित्प्रकाशः 
 अथ प्रथमं प्रकरणम् 

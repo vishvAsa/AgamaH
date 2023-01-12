@@ -3,6 +3,8 @@ title = "त्रिपाठि-भागीरथ-प्रस्तावः
 +++
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
+Source: [TW](https://archive.org/details/miZj_samvit-prakash-of-vamanadatta-bhagiratha-prasada-tripathi-vagisha-shastri)
+
 संवित्प्रकाशः  
 सम्पादकः  
 डॉ० भागीरथप्रसादत्रिपाठी 'वागीशः शास्त्री'   
