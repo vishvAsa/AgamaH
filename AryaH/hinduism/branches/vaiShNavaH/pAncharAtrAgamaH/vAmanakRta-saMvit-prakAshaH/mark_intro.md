@@ -1092,56 +1092,85 @@ S.P., 1/46:
 
 18) L.T., 14/35:
 
+> भावैर् विना यथा भानुः  
+समुदेति नभःस्थले  
+वेद्यैर् विनैव मे रूपम्  
+एवं प्रद्योतते स्वयम्
+
+
 S.P., 1/52:
+
+> समुदेति यथा भावान्  
+विना भानुर् नभस्तले ।  
+वेद्यं विनैव भगवन्,  
+भवान् केन हृतोदयः ॥
 
 19) L.T., 14/36:
 
+> अत्यन्ताच्छ-स्वभावत्वात्  
+> स्फटिकादिर् यथा मणिः ।  
+> अपरक्तो जपाद्यैस् तु  
+> स्वेन रूपेण नेक्ष्यते
+
 S.P., 1/53:
+
+> अत्यन्ताच्छ-स्वभावत्वात्  
+> स्फटिकस्य यथा स्वकम् ।  
+> रूपं परोप-रक्तस्य  
+> नित्यम् एवोपलभ्यते
+
 
 20) L.T., 14/38:
 
+> कुण्डलादेर् यथा भिन्ना  
+> न लक्ष्या कनक-स्थितिः  
+> न च शक्या विनिर्देष्टुं  
+> तथाप्य् अस्त्य् एव सा ध्रुवम्
+
+
+
 S.P., 1/57ab:
+
+> यथोद्धृतकुण्डलादेः  
+> कनकस्य स्वयं स्थितिः ।
 
 1/56cd:
 
+> पृथङ् न शक्या निर्देष्टुं  
+> न च तत्रास्ति तावता॥
+
+
 21) L.T., 14/39:
+
+> एवं नित्या विशुद्धा च  
+> सुखदुःखाद्य्-अभेदिता ।  
+> स्व-संवदन-संवेद्या  
+> मम संविन्-मयी स्थितिः
+
 
 S.P., 1/57:
 
+> एवं नित्या निजा शुद्धा  
+> सुख-दुःख-निषेधनात् ।  
+> स्व-संवेदन-संवेद्या  
+> तव संविन्मयी स्थिति: ॥
+
 22) L.T., 14/45:
+
+> काप्यवस्था न मे सास्ति  
+> यस्यां संविन् न वर्तते ।  
+> तेन मां चिद्घनाम् एकां  
+> सर्वाकाराम् उपासते ॥
 
 S.P., 1/70:
 
-भावैर्विना यथा भानुः समुदेति नभःस्थले वेद्यैर्विनैव मे रूपमेवं प्रद्योतते स्वयम्
-
-I
-
-समुदेति यथा भावान् विना भानुर्नभस्तले । वेद्यं विनैव भगवन् भवान् केन हृतोदयः ॥
-
-अत्यन्ताच्छस्वभावत्वात् स्फटिकादिर्यथा मणिः । अपरक्तो जपाद्यैस्तु स्वेन रूपेण नेक्ष्यते
-
-अत्यन्ताच्छस्वभावत्वात् स्फटिकस्य यथा स्वकम् । रूपं परोपरक्तस्य नित्यमेवोपलभ्यते
-
-कुण्डलादेर्यथा भिन्ना न लक्ष्या कनकस्थितिः न च शक्या विनिर्देष्टुं तथाप्यस्त्येव सा ध्रुवम्
-
-यथोद्धृतकुण्डलादेः कनकस्य स्वयं स्थितिः ।
-
-पृथङ्न शक्या निर्देष्टुं न च तत्रास्ति तावता ||
-
-एवं नित्या विशुद्धा च सुखदुःखाद्यभेदिता । स्वसंवदनसंवेद्या मम संविन्मयी स्थिति:
-
-एवं नित्या निजा शुद्धा सुखदुःखनिषेधनात् । स्वसंवेदनसंवेद्या तव संविन्मयी स्थिति: ॥
-
-काप्यवस्था न मे सास्ति यस्यां संविन्न वर्तते । तेऩ मां चिद्धनामेकां सर्वाकारामुपासते
-
-॥
-
-काप्यवस्था न ते सास्ति यस्यां संविन्न वर्तते । तेन चिद्धनमेव त्वां योगिनः पर्युपासते
-
-॥
+> काप्यवस्था न ते सास्ति  
+> यस्यां संविन् न वर्तते ।  
+> तेन चिद्घनम् एव त्वां  
+> योगिनः पर्युपासते ॥
 
 
- Now that the Lakṣmītantra has been established to be of South Indian origin and as not being older than the 12th century (sce above, p. 27 n. 6) there can be no doubt that it has borrowed from the Saṁvitprakāśa and not the other way round. This fact serves to indicate that even though Vāmanadatta's work was not generally well known outside Kashmir it did travel to the South, [[35]] its citation in Maheśvarananda's Mahārthamañjari, composed in South India in the 13th century, further confirms. Moreover, the compatibility of the views of the Samvitprakāśa with those of the Lakṣmītantra, despite certain important differences, indicates how this kind of monistic Vaisnavism found substantial acceptance- amongst some Pañcarātrins.
+Now that the Lakṣmītantra has been established to be of South Indian origin and as not being older than the 12th century (sce above, p. 27 n. 6) there can be no doubt that it has borrowed from the Saṁvitprakāśa and not the other way round. This fact serves to indicate that even though Vāmanadatta's work was not generally well known outside Kashmir it did travel to the South, [[35]] its citation in Maheśvarananda's Mahārthamañjari, composed in South India in the 13th century, further confirms. Moreover, the compatibility of the views of the Samvitprakāśa with those of the Lakṣmītantra, despite certain important differences, indicates how this kind of monistic Vaisnavism found substantial acceptance- amongst some Pañcarātrins.
 
 ## The Saṁvitprakāśa Ouoted in Other Sources
 
@@ -1253,25 +1282,38 @@ Sp. Pra., p. 89, 125.
 
 1) Sp. Nir., p. 48:
 
-भदृश्रीवामेननाप्युक्तम् -
+भदृश्रीवामनेनाप्य् उक्तम् -
 
-आलम्ब्य संविदं यस्मात्संवेधे न स्वभावतः | तस्मात्संविदितं सर्वमिति संविन्मयो भवेत् ॥
+> आलम्ब्य संविदं यस्मात्  
+> संवेधे न स्वभावतः।  
+> तस्मात् संविदितं सर्वम्  
+> इति संविन्मयो भवेत् ॥
 
 2) M.M., p. 109, P.S., p. 146, in the latter we read: यथाह
-
 भट्टश्रीवीरवामनकः
 
-यत्रेन्धनं द्वैतवनं मृत्युरेव महापशुः अलौकिकेन यज्ञेन तेन नित्यं यजामहे ||
+> यत्रेन्धनं द्वैतवनं,  
+> मृत्युर् एव महापशुः  
+> अलौकिकेन यज्ञेन  
+> तेन नित्यं यजामहे॥
 
 3) T.A., 5/154cd-5ab:
 
-I
-
-नीले पीते सुखे दुःखे संविद्रूपमखण्डितम् । गुरुभिर्भाषितं तस्मादुपायेषु विचित्रता ||
+> नीले पीते सुखे दुःखे  
+> संविद्-रूपम् अखण्डितम् ।  
+> गुरुभिर् भाषितं तस्माद्  
+> उपायेषु विचित्रता॥
 
 Jayaratha cornments:
 
-'गुरुभिः' वामनदत्ताचार्येण भाषितमिति संवित्प्रकाशे || The verse is found “omplete in Sp. Pra., p. 96: नीले पीते सुखे दुःखे चित्स्वरूपमखण्डितम् | विशिनष्टि विकल्पस्तच्चित्रयोपाधिसम्पदा ||
+> 'गुरुभिः' वामनदत्ताचार्येण भाषितम् इति संवित्-प्रकाशे॥ 
+
+The verse is found complete in Sp. Pra., p. 96: 
+
+> नीले पीते सुखे दुःखे  
+> चित्-स्वरूपम् अखण्डितम्।  
+> विशिनष्टि विकल्पस् तच्  
+> चित्रयोपाधि-सम्पदा॥
 
 [[37]]
 
