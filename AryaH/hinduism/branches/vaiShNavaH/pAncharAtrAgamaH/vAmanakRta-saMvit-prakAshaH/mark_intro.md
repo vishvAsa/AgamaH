@@ -745,7 +745,7 @@ If an original Pancarātra saṁhitā is free to do this, there is no reason to 
 
       Abhinava agrees that teachings are diverse but they also yield different fruits at differing levels so that those at a lower level cannot yield the fruits of a higher one: 
 
-      > "The various forms such as Viṣṇu etc. which God assumes are due to his self-differentiation and, as such, that is, due to this differentiation, are on the plane of Māyā. The 'descents of power' (saktipata) which do undoubtably occur as associated with these limited forms therefore bestow only the fruits proper to them but not, ultimately, identification with Siva."
+      > "The various forms such as Viṣṇu etc. which God assumes are due to his self-differentiation and, as such, that is, due to this differentiation, are on the plane of Māyā. The 'descents of power' (śaktipata) which do undoubtably occur as associated with these limited forms therefore bestow only the fruits proper to them but not, ultimately, identification with Siva."
       (ibid., 13/2681-70a, cf. ibid., 35/29).
 
 
@@ -755,7 +755,7 @@ If an original Pancarātra saṁhitā is free to do this, there is no reason to 
 Bhagavadutpala, as his ancestry and traditional appellation - Utpala Vaiṣṇava - suggest, had strong ties with the Vaiṣṇava community although he was undoubtedly a Śaivite when he wrote his commentary.[^27-1] Vāmanadatta's work served his purpose admirably, for here was a text that he could freely quote that would find approval by both groups and so link together more closely the Pancarātra and Śaiva sources that he freely quotes without deference to one or the other in an attempt to establish that the doctrine of the Spandakārikā is taught in both.
 
 ### Krama
-Apart from these general, pervasive Śaiva influences that can be discerned in Vāmanadatta's work, we find more specific references which show that Vāmanadatta accepted the more esoteric, strongly Sakta oriented Śaiva traditions prevalent in Kashmir, namely, those of the Krama school. Thus, for example, we can discern clear traces of Krama notions in the following passage:
+Apart from these general, pervasive Śaiva influences that can be discerned in Vāmanadatta's work, we find more specific references which show that Vāmanadatta accepted the more esoteric, strongly Śākta oriented Śaiva traditions prevalent in Kashmir, namely, those of the Krama school. Thus, for example, we can discern clear traces of Krama notions in the following passage:
 
 > "O Lord, the abiding condition of all things is that of Your own immutable nature simultaneously (manifest everywhere ),  
 > it can be known by means of its progressively mutating nature (kramasvarupa) (that is such without thereby) running contrary to the simultaneity (of the immediacy of Being). Simultaneity is possible in the absence of progressive change (krama) which in its turn ( is possible only) in the absence of the former.  
@@ -788,7 +788,7 @@ There is one place in Vāmanadatta's work where his Krama leanings are made full
 
 Kālakarṣiṇī, also called KālaSaṁkarṣiṇī, is well known as a form of Kālī venerated in the Krama school. Her association with the twelve-petelled lotus described as the foundation of time is possibly a reference to the cycle of twelve Kālīs that lies at the core of Krama mysticism.
 
-Important also as indicative of Vāmanadatta's non-Vaiṣṇava influences is his representation of the arising and falling away of images within consciousness as a discontinuous process: there is a gap between the arising of one form and the falling away of another. The attentive soul who can catch this moment and the centre between one perception and the next, no longer feels the bondage of the illusory play of Māyā through the activity of thought but experiences it all as the pure expansion of
+
 
 [^28-1]: T.A.. 4/180ab.
 
@@ -798,41 +798,60 @@ Important also as indicative of Vāmanadatta's non-Vaiṣṇava influences is hi
 
 [[29]]
 
-consciousness. We can compare this view with Kṣemarāja who
+### Discontinuity
 
-says:
+Important also as indicative of Vāmanadatta's non-Vaiṣṇava influences is his representation of the arising and falling away of images within consciousness as a discontinuous process: there is a gap between the arising of one form and the falling away of another. The attentive soul who can catch this moment and the centre between one perception and the next, no longer feels the bondage of the illusory play of Māyā through the activity of thought but experiences it all as the pure expansion of consciousness.[^29-1] We can compare this view with Kṣemarāja who says:
 
-"This supreme plane of awareness consists of all the powers (of consciousness) pulsing in unity. Although actually manifest to all constantly, on the plane of Māyā it does not sustain a firm realisation of consciousness within oneself. Even there, however, it is clearly manifest at every junction (between cognitions)."2
+> "This supreme plane of awareness consists of all the powers (of consciousness) pulsing in unity.  
+> Although actually manifest to all constantly,  
+> on the plane of Māyā it does not sustain a firm realisation of consciousness within oneself.  
+> Even there, however, it is clearly manifest at every junction (between cognitions)."[^29-2]
 
-In the centre between perceptions the attentive soul can experience the pure indeterminate awareness ( nirvikalpa) that serves as the basis of determinate perception as its source, resting place and end. In the centre abides what Vāmanadatta calls 'pure experience' Suddhanubhava 3, that is, the fundamental self- awareness (svasamvedana) through which consciousness is perceived and is the basis of all knowledge which Kashmiri Śaivites identify, as we have already noted, with absolute "I" consciousness.
+In the centre between perceptions the attentive soul can experience  
+the pure indeterminate awareness ( nirvikalpa)  
+that serves as the basis of determinate perception as its source, resting place and end.  
+In the centre abides what Vāmanadatta calls 'pure experience' Śuddhānubhava [^29-3], that is, the fundamental self-awareness (sva-samvedana) through which consciousness is perceived and is the basis of all knowledge which Kashmiri Śaivites identify, as we have already noted, with absolute "I" consciousness.
 
-Finally, it is important to stress that despite the powerful influence Śaiva monism apparently exerted on Vāmanadatta he remains thoroughly Vaiṣṇava throughout his work. Viṣṇu is his sole object of devotion which he also worships as his incarnations that he understands as hypostheses or aspects of consciousness and its manifestations. His Pañcarātra associations are also clearly evident from his presentation of the four vyuhas - Vasudeva, Saṁkarṣaṇa, Pradyumna and Aniruddha, to which he assigns mystic centres in the body as part of a developing praxis in which their association with their energies plays a prominent role.5 Indeed, despite the space Vāmanadatta dedicates in his work to establishing, even as he praises Viṣṇu, that consciousness alone, free of all diversity and subject - object distinctions, is ultimately real, his primary concern is with practice. Thus not only does he dedicate space to a description of the yogic centres and channels in the body viewed from the perspective of his sophisticated
+## Vaiṣṇavatva
+Finally, it is important to stress that despite the powerful influence Śaiva monism apparently exerted on Vāmanadatta he remains thoroughly Vaiṣṇava throughout his work. 
 
-1. Ibid., 1/4 and 1/41-44.
+Viṣṇu is his sole object of devotion which he also worships as his incarnations that he understands as hypostheses or aspects of consciousness and its manifestations.[^29-4] 
 
-2. Sp. Sam., p. 6, see P.T.V., p. 106 ff. where Abhinava deals with this
+His Pañcarātra associations are also clearly evident from his presentation of the four vyuhas - Vasudeva, Saṁkarṣaṇa, Pradyumna and Aniruddha, to which he assigns mystic centres in the body as part of a developing praxis in which their association with their energies plays a prominent role.[^29-5] 
 
-practice extensively.
 
-3. S.P., 1/41.
+[^29-1]: Ibid., 1/4 and 1/41-44.
 
-4. Ibid., 1/125 ff.
+[^29-2]: Sp. Sam., p. 6, see P.T.V., p. 106 ff. where Abhinava deals with this practice extensively.
 
-5. Ibid., 4/61ff.
+[^29-3]: S.P., 1/41.
 
-30
+[^29-4]: Ibid., 1/125 ff.
 
-SAMVIIprakāśaIL
+[^29-5]: Ibid., 4/61ff.
 
-idealism, he also devotes the entire fifth chapter to an analysis of the phonemes as vital components of Mantra and vehicles of the sound (nada) or word (sabda) energy of consciousness which he identifies with the syllable Om and that make Mantras powerful and cosmically significant as incorporating within themselves the energies of all manifestation and what lies in the transcendent beyond it. This concern fits naturally with Vāmanadatta's recurrent references to Speech (vāc), its levels, forms and nature. Here he deals with a common concern of both Śaivites and Vaiṣṇavas discussed not only in their secondary śastric traditions but also in the primary scriptures of both groups.
+[[30]]
 
-To conclude we can say that the discovery and edition of Vāmanadatta's work may well serve as a stimulus for further research into the interaction between Śaivism and Vaisnavism in general and, more specifically, between their monistic forms. Thus a work like Bhaskara's Kakṣyastotra evidences, in the passages quoted from it, signs of the author's attempts to integrate certain basic Pañcarātra notions into his Śaiva monism. Other works, like the Cicchaktisamstuti,2 that we know of only from quotations, exhibit a sort of intermediary character. This text, focusing on sakti, draws from both Śaiva and Vaiṣṇava ideas to support its Sakta monism. Again, although the Parāmarthasāra draws its inspiration from other sources to develop its monism, its existence is a further indication that, although less extensive than their Śaiva equivalents, Vaiṣṇava monisms deserve to be carefully researched and not only in the works of known authors but, more especially, in the original Piñcarātra scriptures amongst which some, particularly the Ahirbudhnyasaṁhitā and the Lakṣmītantra, exhibit marked Śaiva influences.
+## Practice
+Indeed, despite the space Vāmanadatta dedicates in his work to establishing,  
+even as he praises Viṣṇu,  
+that consciousness alone, free of all diversity and subject - object distinctions, is ultimately real,  
+his primary concern is with practice.  
 
-1. I am thinking here particularly of the verses from the Kakṣyāstotra quoted
+### mantra
+Thus not only does he dedicate space to a description of the yogic centres and channels in the body viewed from the perspective of his sophisticated idealism,  
+he also devotes the entire fifth chapter to an analysis of the phonemes as vital components of Mantra and vehicles of the sound (nada) or word (sabda) energy of consciousness which he identifies with the syllable Om and that make Mantras powerful and cosmically significant as incorporating within themselves the energies of all manifestation and what lies in the transcendent beyond it.  
 
-   in Sp. Pra., p. 103.
+This concern fits naturally with Vāmanadatta's recurrent references to Speech (vāc), its levels, forms and nature. Here he deals with a common concern of both Śaivites and Vaiṣṇavas discussed not only in their secondary śastric traditions but also in the primary scriptures of both groups.
 
-2. Quoted ibid., p., 87 and p., 113.
+## Conclusion
+To conclude we can say that the discovery and edition of Vāmanadatta's work may well serve as a stimulus for further research into the interaction between Śaivism and Vaisnavism in general and, more specifically, between their monistic forms. Thus a work like Bhaskara's Kakṣya-stotra evidences, in the passages quoted from it, signs of the author's attempts to integrate certain basic Pañcarātra notions into his Śaiva monism.[^30-1] Other works, like the Cic-chakti-saṁstuti,[^30-2] that we know of only from quotations, exhibit a sort of intermediary character. This text, focusing on śakti, draws from both Śaiva and Vaiṣṇava ideas to support its Śākta monism. 
+
+Again, although the Parāmartha-sāra draws its inspiration from other sources to develop its monism, its existence is a further indication that, although less extensive than their Śaiva equivalents, Vaiṣṇava monisms deserve to be carefully researched and not only in the works of known authors but, more especially, in the original Piñcarātra scriptures amongst which some, particularly the Ahirbudhnyasaṁhitā and the Lakṣmītantra, exhibit marked Śaiva influences.
+
+[^30-1]: I am thinking here particularly of the verses from the Kakṣyāstotra quoted in Sp. Pra., p. 103.
+
+[^30-2]: Quoted ibid., p., 87 and p., 113.
 
 
 ## List of Abbreviations
@@ -864,7 +883,8 @@ Listed below are the verses in chapter fourteen of the Lakṣmītantra that are 
 
 1) L.T. 14/8ab rcads :
 
-नीले पीते सुखे दुःखे चित्स्वरूपमखण्डितम् ।
+नीले पीते सुखे दुःखे  
+चित्स्वरूपम् अखण्डितम् ।
 
 S.P. quoted in T.A., 5/154 cd reads संविद्रूपम् in the place of चित्स्वरूपम् this verse quoted in Sp. Pra, p. 96, agrees with the L.T. cxactly.
 
