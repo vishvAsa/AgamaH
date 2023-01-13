@@ -3,7 +3,7 @@ title = "01 विज्ञान-भेद-प्रकाशनम्"
 
 +++
 
-̄## मङ्गलम्
+## मङ्गलम्
 
 विमल-कला--ऽऽश्रयाभिनव-सृष्टि-महाजननी  
 भरिततनुश् च पञ्च-मुख+++(→[नर]सिंह/शक्त्यादि)+++-गुप्त--रुचिर् जनकः ।  
@@ -545,4 +545,4 @@ He, by the delightful sport of his power of autonomy, veils his innate nature an
 पुनः प्रकटयति झटिति अथ क्रम-वशाद्  
 एष परमार्थेन शिवरसम् ।
 </details>
-<div class="js_include" newlevelforh1="2" title="Summary" unfilled url="/AgamaH/AryaH/hinduism/branches/shaivaH/trikam/tantrasAraH/00/Summary/01/"></div>
+<div class="js_include" newlevelforh1="2" title="Summary" unfilled url="/AgamaH/AryaH/hinduism/branches/shaivaH/trikam/abhinavagupta-mUlam/tantrasAraH/00/Summary/01/"></div>

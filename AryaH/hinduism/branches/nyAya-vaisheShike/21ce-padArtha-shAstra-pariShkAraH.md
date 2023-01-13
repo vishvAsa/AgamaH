@@ -254,7 +254,7 @@ Consciousness joins other building blocks of the universe like space, time, mass
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-विकल्प-पर्वणां सुद्धानुभव इति वामनदत्त-संवित्-प्रकाशे संज्ञा।
+विकल्प-पर्वणां शुद्धानुभव इति वामनदत्त-संवित्-प्रकाशे संज्ञा।
 </details>
 
 

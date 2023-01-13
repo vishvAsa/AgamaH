@@ -4,7 +4,7 @@ title = "Mark Intro"
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 
-Source: [TW](https://ia601807.us.archive.org/13/items/TJkQ_the-samvit-prakash-of-vamanadatta-photocopy-mark-dyczkowski/The%20Samvit%20Prakash%20of%20Vamanadatta%20Photocopy%20-%20Mark%20Dyczkowski.pdf)
+Source: [TW](https://archive.org/details/TJkQ_the-samvit-prakash-of-vamanadatta-photocopy-mark-dyczkowski)
 
 This edition and  was produced as part of a project for Sampurṇānanda Sanskrit University, Varanasi to edit Tantric Texts financed by the University Grants Commission. The editor was also financially assisted by the Indian National Trust for Art and Cultural Heritage (INTACH).
 </details>
