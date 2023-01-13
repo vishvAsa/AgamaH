@@ -2,6 +2,7 @@
 title: Odd ritual items 
 ---
 
+## Intro
 Some unusual rituals involve some unusual components, some of which people may not like. But denying that such rituals exist is not a tenable response. They were proposed because of some benefit in terms of enjoyment or refinement of sentiment. Rather, the performer should use his discretion to modify rituals to suit his and his society's temperaments.
 
 ## Unusual offerings
@@ -43,13 +44,16 @@ Some unusual rituals involve some unusual components, some of which people may n
   - gavAmayana ritual - mahAvrata day ([img](http://i.imgur.com/BaUxdMU.jpg), [img2](http://i.imgur.com/r4qU6nv.png))
 
 ### For spiritual highs 
+- Promiscuity in vAmadevya practice - [ChU 2.13](/vedAH_sAma/tANDyam/ChAndogyopaniShat/sarva-prastutiH/2/13/). 
+- "स्वातन्त्र्यम्, विधीनां निषेधः, जातिशीलाद्य्-अभिमान-नाशः" as motivation - see [sthAneshvara-note](/AgamaH/AryaH/hinduism/articles/tantrAgamAH/sthAneshvaraH/pancha-makArAH/).
 - group sex
-    - the tAntrika chakrapUjA
-- Exceptional (possible) incest
-    - abhinavagupta in tantrAloka itself at 29.102d: śvapatnī bhaginī mātā duhitā vā subhā sakhī. Such allowances were rarely followed through, as kalhaNa reveals.
-    - gosava rite (Ap. XXII.13.1-3 - tene.s.tvaa samvatsaram pazuvrato bhavati / upaavahaayodakam pibet t.r.naani caacchindyaat / upa maataram iyaad upa svasaaram upa sagotraam / [indology list](http://list.indology.info/pipermail/indology_list.indology.info/1998-February/010645.html), [ghorAngIrasa](https://aryanthought.wordpress.com/2016/03/24/gosava-and-bovine-mimesis-in-ritual-part-1/))
-        - " The controversial acts are limited to the variant given in the jaiminīya Brāhmaṇa (2.113), the āpastamba śrautasūtra (22.13.1-3) that seems to have replicated the verses in the jaiminīya text and the brahmāṇḍa purāṇa (2.36-64). " ([ghorAngIrasa](https://aryanthought.wordpress.com/2016/03/24/gosava-and-bovine-mimesis-in-ritual-part-1/))
-        - "Others don't talk about it or assume you know the details. Panchaviṃśa comes out and says these are no longer performed.""
+    - some tAntrika chakrapUjA
+
+#### Exceptional (possible) incest
+- abhinavagupta in tantrAloka itself at 29.102d: śvapatnī bhaginī mātā duhitā vā subhā sakhī. Such allowances were rarely followed through, as kalhaNa reveals.
+- gosava rite (Ap. XXII.13.1-3 - tene.s.tvaa samvatsaram pazuvrato bhavati / upaavahaayodakam pibet t.r.naani caacchindyaat / upa maataram iyaad upa svasaaram upa sagotraam / [indology list](http://list.indology.info/pipermail/indology_list.indology.info/1998-February/010645.html), [ghorAngIrasa](https://aryanthought.wordpress.com/2016/03/24/gosava-and-bovine-mimesis-in-ritual-part-1/))
+    - " The controversial acts are limited to the variant given in the jaiminīya Brāhmaṇa (2.113), the āpastamba śrautasūtra (22.13.1-3) that seems to have replicated the verses in the jaiminīya text and the brahmāṇḍa purāṇa (2.36-64). " ([ghorAngIrasa](https://aryanthought.wordpress.com/2016/03/24/gosava-and-bovine-mimesis-in-ritual-part-1/))
+    - "Others don't talk about it or assume you know the details. Panchaviṃśa comes out and says these are no longer performed.""
 
 ## Mock gambling
 - Certain vaidika rituals
