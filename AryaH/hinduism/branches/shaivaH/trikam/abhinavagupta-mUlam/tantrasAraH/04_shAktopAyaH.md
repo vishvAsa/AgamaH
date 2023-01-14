@@ -374,7 +374,7 @@ However, reasoning (tarka) is of great importance here, and right reasoning (sat
 
 ## सत्तर्क-संस्कारः
 स +++(सत्-तर्कः)+++ च **बहु-प्रकारतया संस्कृतो** भवति।  
-तद् यथा - यागो होमो जपो व्रतं योग इति +++(सद्-वचन-युक्ता हीमे)+++।
+तद् यथा - यागो होमो जपो व्रतं योग इति +++(वक्ष्यमाण-विशेषार्थेषु)+++।
 
 <details><summary>English</summary>
 
@@ -391,7 +391,11 @@ Yāga is offering of all entities to the Lord for the purpose of attaining firm 
 </details>
 
 **स** +++(यागः)+++ च  
-"हृद्यत्वाद् ये संविद्-अनुप्रवेशं स्वयम् एव भजन्ते, तेषां सुशकं परमेश्वरे +अर्पणम्" इत्य् अभिप्रायेण  
+
+> "हृद्यत्वाद् ये संविद्-अनुप्रवेशं स्वयम् एव भजन्ते,  
+> तेषां सुशकं परमेश्वरे +अर्पणम्" 
+
+इत्य् अभिप्रायेण  
 हृद्यानां कुसुम-तर्पण-गन्धादीनां बहिर्-उपयोग उक्तः ।+++(4)+++
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -413,9 +417,9 @@ It is with this purpose in mind that offerings such as beautiful flowers, sandal
 </details>
 
 
-सर्वे भावाः परमेश्वर-तेजोमया इति रूढ-विकल्प-प्राप्त्यै  
-परमेश-संविद्-अनल-तेजसि समस्त-भाव-ग्रास-रसिकताऽभिमते   
-तत्-तेजो-मात्राऽवशेषत्व-सह-समस्त-भाव-विलापनं **होमः**।
+"सर्वे भावाः परमेश्वर-तेजोमया" इति रूढ-विकल्प-प्राप्त्यै  
+परमेश-संविद्-**अनल-तेजसि** समस्त-भाव-ग्रास-रसिकताऽभिमते   
+तत्+++(→संविदनल)+++-तेजो-मात्राऽवशेषत्व-सह--समस्त-भाव-विलापनं **होमः**।
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -449,7 +453,7 @@ Homa is for the purpose of attaining this steady determinate conviction:
 तथा +++(अहम्-इदं-रूप-)+++ +उभयात्मक-परामर्शोदयार्थं  
 बाह्याभ्यन्तरादि-प्रमेय-रूप--भिन्न-भावानपेक्षयैव +++(कल्पनाम् अवलम्ब्य)+++   
 +"एवं-विधं तत् परं तत्त्वं स्व-स्वभाव-भूतम्" इति  
-+अन्तः परामर्शनं **जपः**।
++अन्तः-परामर्शनं **जपः**।
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -465,7 +469,12 @@ Homa is for the purpose of attaining this steady determinate conviction:
 
 <details><summary>English</summary>
 
-Repetition of a mantra (japa) is for the purpose of enlivening reflective cognitions, but without being dependent on them existing as knowables either externally or internally, and appearing as if they are distinct from the highest reality. This kind of reflective cognition of the highest reality; which is not different from one's own Self, is called japa.
+Repetition of a mantra (japa) is for the purpose of enlivening reflective cognitions, 
+but without being dependent on them existing as knowables either externally or internally,  
+and appearing as if they are distinct from the highest reality.  
+This kind of reflective cognition of the highest reality;  
+which is not different from one's own Self,  
+is called japa.
 </details>
 
 सर्वत्र सर्वदा निर्-उपाय-परमेश्वराभिमान-लाभाय +++([ख्: निरपायेति पाठः ।])+++  
@@ -498,10 +507,10 @@ Yoga, which is a particular type of determinate knowledge (vikalpa), and whose n
 
 ## ईश्वरः, शक्तिश् च
 तत्र **परमेश्वरः** पूर्णसंवित्-स्वभावः।  
-पूर्णतैव +अस्य **शक्तिः** -   
-कुलं सामर्थ्यं ऊर्मिः हृदयं सारं स्पन्दः विभूतिः त्रीशिका  
-काली कर्षणी चण्डी वाणी भोगो दृक् नित्या  
-इत्यादिभिः आगम-भाषाभिः तत्-तद्-अन्वर्थ-प्रवृत्ताभिः अभिधीयते -  
+पूर्णतैव +अस्य **शक्तिः**।  
+कुलं, सामर्थ्यम्, ऊर्मिः, हृदयं, सारं, स्पन्दः, विभूतिः, त्रीशिका,  
+काली, कर्षणी, चण्डी, वाणी, भोगो, दृङ्, नित्या  
++इत्यादिभिः आगम-भाषाभिः तत्-तद्-अन्वर्थ-प्रवृत्ताभिः अभिधीयते -  
 तेन तेन रूपेण ध्यायिनां हृदि आस्ताम् इति ।
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -555,7 +564,8 @@ If this śakti is viewed collectively, as consisting of the totality of all śak
 The Lord possesses innumerable dynamic energies (śaktis).
 </details>
 
-किं बहुना - यद् विश्वं, ता अस्य शक्तयः। ताः कथम् उपदेष्टुं शक्याः इति ।  
+किं बहुना - यद् विश्वं, ता अस्य शक्तयः।  
+ताः कथम् उपदेष्टुं शक्या इति-  
 तिसृषु तावत् विश्वं समाप्यते।
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -571,22 +581,29 @@ However, the whole universe can be summed up under three main Śaktis.
 
 ### ३/४-शो, १२-शश् च विभागः
 
-यया +इदं शिवादि-धरण्य्-अन्तम् अविकल्प्य-संविन्-मात्र-रूपतया बिभर्ति च पश्यति च भासयति च परमेश्वरः  
-सा अस्य **श्री-परा-शक्तिः**। +++(सा च स्वसंवित्तिर् विमर्श इति वार्त्तिके । )+++
+यया +इदं शिवादि-धरण्य्-अन्तम्  
+अविकल्प्य-संविन्-मात्र-रूपतया  
+बिभर्ति च पश्यति च भासयति च परमेश्वरः  
+सा अस्य **श्री-परा-शक्तिः**।  
++++(सा च स्वसंवित्तिर् विमर्श इति वार्त्तिके । )+++
 
 <details><summary>English</summary>
 
 The supreme energy (Śrīparāśakti) of the Lord is that śakti by means of which this universe, beginning with śiva and ending with earth principle (tattva), is born, seen, and manifested by the Lord in indeterminate consciousness.
 </details>
 
-यया च दर्पणहस्त्यादिवत् भेदाभेदाभ्यां सा अस्य **श्री-परापरा-शक्तिः** +++(मानम् इति वार्त्तिक उक्ता च)+++।
+यया च दर्पण-हस्त्य्-आदिवत् भेदाभेदाभ्यां +++(विकल्पारम्भादौ मायात्वेन ज्ञातैर् विकल्पैः)+++  
++++(शिवादि-धरण्य्-अन्तम् बिभर्ति च पश्यति च भासयति च)+++  
+सा अस्य **श्री-परापरा-शक्तिः**, +++(मानम् इति वार्त्तिक उक्ता च)+++।
 
 <details><summary>English</summary>
 
 Srīparāparāśakti of the Lord is that śakti by means of which he projects the universe just like the reflection of an elephant, etc., in a mirror +++(reflection being part of mirror, yet separate)+++: as different-cum nondifferent.
 </details>
 
-यया परस्पर-विविक्तात्मना भेदेनैव +++([ख्: विविक्तताभेदेनेति पाठः ।])+++ सा अस्य **श्रीमद्-अपरा-शक्तिः** ।  
+यया परस्पर-विविक्तात्मना भेदेनैव +++([ख्: विविक्तताभेदेनेति पाठः ।])+++  
++++(शिवादि-धरण्य्-अन्तम् बिभर्ति च पश्यति च भासयति च)+++  
+सा अस्य **श्रीमद्-अपरा-शक्तिः** ।  
 +++(मेयात्मिकेयम् इति वार्त्तिकम्।)+++
 
 <details><summary>English</summary>
@@ -595,8 +612,11 @@ The glorious Aparāśakti is that śakti by means of which he manifests this dif
 </details>
 
 
-एतत् त्रिविधं यया धारणम् आत्मन्येव क्रोडीकारेण +अनुसन्धानात्मना ग्रसते  
-सा +अस्य भगवती **श्रीपरैव** श्रीमन्-मातृ-सद्-भाव--काल-कर्षिण्य्-आदि-शब्दान्तर-निरुक्ता +++(इति शक्तीनां चतुर्थः प्रकार इव)+++।
+एतत् त्रिविधं  
+यया धारणम् आत्मन्य् एव  
+क्रोडीकारेण +अनुसन्धानात्मना ग्रसते,  
+सा +अस्य भगवती **श्रीपरैव**  
+श्रीमन्-मातृ-सद्-भाव--काल-कर्षिण्य्-आदि-शब्दान्तर-निरुक्ता +++(इति शक्तीनां चतुर्थः प्रकार इव)+++।
 
 <details><summary>English</summary>
 
