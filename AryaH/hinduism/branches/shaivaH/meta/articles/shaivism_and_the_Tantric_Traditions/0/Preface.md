@@ -1,0 +1,12 @@
++++
+title = "Preface"
+
++++
+
+This volume results from a symposium held at the University of Toronto in honour of Alexis G.J.S. Sanderson. The symposium was convened in March 2015 in anticipation of his retirement as the Spalding Professor of Eastern Reli gions and Ethics at All Souls College, Oxford University. The event was con ceived by Srilata Raman, who worked tirelessly and resourcefully to make it a success. In this she was aided by Shaman Hatley, co-convener of the sym posium, and a number of graduate students, especially Kalpesh Bhatt, Tamara Cohen, Larissa Fardelos, Nika Kuchuk, and Eric Steinschneider, to whom we offer our sincere thanks. It was immensely satisfying to have so many of Pro fessor Sanderson’s former doctoral students assemble from across the world for the occasion, students whose graduate studies at Oxford spanned more than three decades of Alexis Sanderson’s teaching career. The volume is based mainly on papers presented in the symposium, with additional contributions by several of his former pupils who had not been able to present their work at that time (Parul Dave-Mukherji, Csaba Dezső, Csaba Kiss, Ryugen Tanemura, and Anthony Tribe), as well as by Diwakar Acharya, his successor to the Spald ing Professorship. We would also like to extend our thanks and recognition to those who enriched the symposium with excellent papers, but who for various reasons could not include these in the present volume: Hans Bakker, Gudrun Bühnemann, Shingo Einoo, Alexander von Rospatt, and Somadeva Vasudeva. 
+
+We would like to acknowledge the sponsors who made the symposium pos sible: All Souls College, Oxford University; the Centre for South Asian Studies, University of Toronto; the Department of Religion of the University of Toronto, and its Chair, John Kloppenborg; Brill Publishers; and Srilata Raman, who con tributed quietly and generously from her own research funds. We would also like to thank University College of the University of Toronto, and John Mar shall, its Vice Principal, for making available the lovely Croft Chapter House, in which the symposium was held. 
+
+The contributors to the volume and the publisher have endured a long wait for this volume to come to fruition, and we would like to thank them for their patience and cheerful support. Special thanks are due also to Anusha Sudin dra Rao, who proofread the volume carefully on short notice, and to Liwen Liu, who prepared the index. 
+ 
+

@@ -1,5 +1,5 @@
 +++
-title = "08 Notes"
+title = "Notes"
 
 +++
 

@@ -1,5 +1,5 @@
 +++
-title = "07 6 CONCLUSION"
+title = "6 CONCLUSION"
 
 +++
 

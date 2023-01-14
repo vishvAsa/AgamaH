@@ -1,5 +1,5 @@
 +++
-title = "09 Glossary"
+title = "Glossary"
 
 +++
 

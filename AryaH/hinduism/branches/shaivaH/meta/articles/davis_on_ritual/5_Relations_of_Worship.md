@@ -1,5 +1,5 @@
 +++
-title = "06 5 Relations of Worship"
+title = "5 Relations of Worship"
 
 +++
 

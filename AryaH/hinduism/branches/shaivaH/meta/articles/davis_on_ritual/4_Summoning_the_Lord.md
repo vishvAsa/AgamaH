@@ -1,5 +1,5 @@
 +++
-title = "05 4 Summoning the Lord"
+title = "4 Summoning the Lord"
 
 +++
 

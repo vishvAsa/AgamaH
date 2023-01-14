@@ -1,5 +1,5 @@
 +++
-title = "11 Index"
+title = "Index"
 
 +++
 

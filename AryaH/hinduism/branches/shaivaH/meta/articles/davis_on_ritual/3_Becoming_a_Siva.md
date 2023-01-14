@@ -1,5 +1,5 @@
 +++
-title = "04 3 Becoming a Siva"
+title = "3 Becoming a Siva"
 
 +++
 

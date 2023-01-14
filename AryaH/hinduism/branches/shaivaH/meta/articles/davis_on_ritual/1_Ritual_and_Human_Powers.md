@@ -1,5 +1,5 @@
 +++
-title = "02 1 Ritual and Human Powers"
+title = "1 Ritual and Human Powers"
 
 +++
 

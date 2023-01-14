@@ -1,5 +1,5 @@
 +++
-title = "10 Selected Bibliography"
+title = "Selected Bibliography"
 
 +++
 

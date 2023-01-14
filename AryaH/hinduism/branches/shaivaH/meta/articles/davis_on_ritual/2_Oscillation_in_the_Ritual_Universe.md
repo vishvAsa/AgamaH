@@ -1,5 +1,5 @@
 +++
-title = "03 2 Oscillation in the Ritual Universe"
+title = "2 Oscillation in the Ritual Universe"
 
 +++
 
