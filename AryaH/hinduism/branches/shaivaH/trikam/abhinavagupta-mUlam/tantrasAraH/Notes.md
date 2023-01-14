@@ -9,10 +9,6 @@ NOTES 221
 
 
 
-[^30]:
-
-    Pure absorption into śiva (śāmbhava samāvesa) signifies pure consciousness. When a yogin attains it, he realizes that all the six paths (sadadhvas) are not different from his own Self. They reflect in his own consciousness, rise in his very Self, and gain their rest in it. In the integrated unitary consciousness, creation, maintenance, and dissolution shine inseparably from one's own nature. 
-
 [^31]:
 
     If one is capable of merging his consciousness into the pure light of absolute consciousness through śāmbhava upaya, then assiduous tasks, such as bathing, religious observances (vrata), purification of the body, meditation, recitation of sacred syllables (mantras), sacrifice, or oblation into the fire are not required. 

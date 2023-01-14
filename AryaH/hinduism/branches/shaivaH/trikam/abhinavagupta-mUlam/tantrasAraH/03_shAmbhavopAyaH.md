@@ -587,28 +587,28 @@ The recipients (yoni), which are consonants, are born from that vi+sarga.
 तथा हि
 
 > अकुलात् पद-शक्त्य्-आत्मा  
-प्रथमो वर्ग उत्थितः ।   
-अनारूपित-रूपाया  
-इच्छायाश् च ततः परम् ॥
+> प्रथमो वर्ग उत्थितः ।   
+> अनारूपित-रूपाया  
+> इच्छायाश् च ततः परम् ॥
 >
 > वह्नि-क्षमा-जुषस् तस्य  
-ट-ताद्यं च द्वयं ततः ।   
-पादिर् उन्मेषतो जात  
-इति स्पर्शाः प्रकीर्तिताः ॥
+> ट-ताद्यं च द्वयं ततः ।   
+> पादिर् उन्मेषतो जात  
+> इति स्पर्शाः प्रकीर्तिताः ॥
 >
 > इच्छा-शक्तिर् द्विधा या च  
-क्षुभिताक्षुभित-स्वतः ।   
-सा विजातीय-शक्त्यंशः  
-प्रोन्मुखे याति यत्र ताम् ॥
+> क्षुभिताक्षुभित-स्वतः ।   
+> सा विजातीय-शक्त्यंशः  
+> प्रोन्मुखे याति यत्र ताम् ॥
 >
 > सैव शीघ्रतरोपात्त-  
-ज्ञेया कालुष्यरूषिता ।   
-विजातीयोन्मुखत्वेन  
-रत्वं लत्वं च गच्छति ॥
+> ज्ञेया कालुष्यरूषिता ।   
+> विजातीयोन्मुखत्वेन  
+> रत्वं लत्वं च गच्छति ॥
 >
 > तद्-वद् उन्मेष-शक्तिर्  
-द्विरूपा वैजात्य-शक्ति-गा ।   
-वकारत्वं सृष्टि-सार-प्रवर्तकम् ॥   
+> द्विरूपा वैजात्य-शक्ति-गा ।   
+> वकारत्वं सृष्टि-सार-प्रवर्तकम् ॥   
 
 इति मालिनीवार्तिके एव ।
 </details>
@@ -690,9 +690,9 @@ Thus, the Lord who is supreme (anuttara) becomes the 'Lord of the group of lette
 यद् उक्तम्
 
 > पूर्वं विसृज्य सकलं  
-कर्तव्यं शून्यतानले ।   
-चित्त-विश्रान्ति-सञ्ज्ञोऽयम्  
-आणवः सम्प्रकीर्तितः ॥
+> कर्तव्यं शून्यतानले ।   
+> चित्त-विश्रान्ति-सञ्ज्ञोऽयम्  
+> आणवः सम्प्रकीर्तितः ॥
 </details>
 
 <details><summary>English</summary>
@@ -747,7 +747,7 @@ When that reality is cognized as eightfold parāmarśa along with cakreśvara (t
 </details>
 
 एकैक-परामर्श-प्राधान्ये +++(अ-अः, व्यञ्जनानि, क्ष इति)+++  पञ्चाशद्-आत्मकता ।  
-तत्रापि सम्भवद्-भाग+++(=अर्धमात्रा??)+++-भेद-परामर्शने एकाशीति-रूपत्वम् ।
+तत्रापि सम्भवद्-भाग+++(={३३ अर्धमात्रा-व्यञ्जनानि} - {ह्,म्} अयोगवाहसादृश्यात् )+++-भेद-परामर्शने एकाशीति-रूपत्वम् ।
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -760,6 +760,7 @@ Furthermore, if one cognizes that same reality placing the emphasis on each and 
 Finally, when that reality is cognized as existing with possible subtle divisions, then the number becomes eighty-one.
 </details>
 
+### शुद्धविद्याः
 वस्तुतस्तु षड् एव +++(अ-ऊ इति, अनुत्तरादयः)+++ परामर्शाः  
 प्रसरण-प्रतिसञ्चरण-योगेन +++(ए-ऐ-ओ-औ-अं-अः इति)+++ द्वादश भवन्तः  
 परमेश्वरस्य **विश्व-शक्ति-पूर्णत्वं पुष्णन्ति** । 
@@ -811,31 +812,31 @@ All these śaktis of the Lord, being of the nature of reflecting cognitions, are
 कलयन्ति क्रमन्त इति कालिकाः । यद्-उक्तम्
 
 > परामर्शात्मकत्वेन  
-विसर्गाक्षेप-योगतः ।   
-इयत्ता-कलनाज् ज्ञानात्  
-ताः प्रोक्ताः कालिकाः क्वचित् ॥ 
+> विसर्गाक्षेप-योगतः ।   
+> इयत्ता-कलनाज् ज्ञानात्  
+> ताः प्रोक्ताः कालिकाः क्वचित् ॥ 
 
 इति ।
 </details>
 
 
 एते च शक्ति-रूपा एव  
-शुद्धाः परामर्शाः,  
+**शुद्धाः परामर्शाः**,  
 शुद्ध-विद्यायां परापर-रूपत्वेन  
-मायोन्मेष-मात्र-सङ्कोचाद् +++(ईषद्-भाषात्वं विकल्पतां च प्राप्ताः)+++  
-विद्या-विद्येश्वर-रूपतां भजन्ते +++([क्: विद्येश्वरतारूपा मन्त्ररूपतामिति पाठः ।; ख्: विद्याविद्येश्वरबीजरूपा मन्त्ररूपतामिति पाठान्तरं च ।])+++ । 
+मायोन्मेष-मात्र+++(→न ततोऽधिक)+++-सङ्कोचाद् +++(ईषद्-भाषात्वं विकल्पतां च प्राप्ताः)+++  
+**विद्या-विद्येश्वर-रूपतां भजन्ते** +++([क्: विद्येश्वरतारूपा मन्त्ररूपतामिति पाठः ।; ख्: विद्याविद्येश्वरबीजरूपा मन्त्ररूपतामिति पाठान्तरं च ।])+++ । 
 
 <details><summary>English</summary>
 
 These pure reflective cognitions are energies by nature, which on the level of pure knowledge (śuddhavidyā) appear as vidyā (mantra) and vidyesvara (mantreśvara), as supreme and nonsupreme[[66]] because of the limitation which was created by the slight emergence of māyā. 
 </details>
 
-
+### व्यवहारे विनियोगः
 मायायां +++(→व्यञ्जन-वर्ण-रूपेण)+++ पुनः   
-स्फुटी-भूत-भेद-विभागा  
+**स्फुटी-भूत-भेद-विभागा**  
 मायीय-वर्णतां भजन्ते,   
 ये पश्यन्ती-मध्यमा-वैखरीषु  
-व्यावहारिकत्वम् +++(भाषायां विकल्पे च)+++ आसाद्य,  
+**व्यावहारिकत्वम्** +++(भाषायां विकल्पे च)+++ **आसाद्य**,  
 +++([ख्: व्यवहारकारित्वमिति पाठः ।])+++  
 बही-रूप-तत्त्व-स्वभावतापत्ति-पर्यन्ताः।   
 
@@ -852,12 +853,12 @@ When these syllables finally descend through the stages of pasyanti, madhyamā, 
 
 [[१९]]
 
-ते च मायीया +++(व्यञ्जन-रूपा, विकल्प-वस्तूनि, बाह्यानि)+++ अपि  
-निर्जीव-शरीर-कल्पत्वेन यदा दृश्यन्ते   
+ते च **मायीया** +++(व्यञ्जन-रूपा, विकल्प-वस्तूनि, बाह्यानि)+++ अपि  
++++(निर्जीव-)+++शरीर-कल्पत्वेन यदा दृश्यन्ते   
 यदा च तेषाम्  
-उक्त-नयैर् एतैर् जीवित-स्थानीयैः शुद्धैः परामर्शैः +++(स्वररूपैः, इच्छा-क्रियादिभिः)+++  
++++(धर्मार्थ-काम-मन्त्रादि-शास्त्रेषु)+++ उक्त-नयैर् एतैर् जीवित-स्थानीयैः **शुद्धैः परामर्शैः** +++(स्वररूपैः, इच्छा-क्रियादिभिः)+++  
 प्रत्युज्जीवनं क्रियते,   
-तदा ते सवीर्या भवन्ति।
+तदा ते **सवीर्या भवन्ति**।
 
 <details><summary>English</summary>
 
@@ -878,48 +879,90 @@ then they become invigorated.
 </details>
 
 
+### परामर्श-विश्रान्ति-स्थानम्
+ते च तादृशा भोग-मोक्ष-प्रदा इत्येवं  
+सकल-**परामर्श-विश्रान्ति-मात्र-रूपं**   
+प्रतिबिम्बित-समस्त-तत्त्व-भूत-भुवन-भेदम् **आत्मानं पश्यतो**  
+निर्विकल्पतया शाम्भवेन समावेशेन **जीवन्-मुक्तता** । 
+
+<details><summary>English</summary>
+
+[[65]]  
+If they become invigorated, then they are capable of giv ing liberation and/or enjoyment.  
+When one conceives oneself as the single resort of all possible reflective cognitions,  
+in which the entire multitudes of principles (tattvas), beings, and regions are reflected,  
+one attains liberation while living through the absorption born of śambhu,[^30]  
+which is free from determinate knowledge. 
+
+[^30]:
+
+    Pure absorption into śiva (śāmbhava samāvesa) signifies pure consciousness.  
+    When a yogin attains it, he realizes that all the six paths (ṣaḍadhvas) are not different from his own Self. They reflect in his own consciousness, rise in his very Self, and gain their rest in it.  
+    
+    In the integrated unitary consciousness, creation, maintenance, and dissolution shine inseparably from one's own nature.
+</details>
 
 
+अत्रापि पूर्ववत् न मन्त्रादि-यन्त्रणा काचिद् इति ।
 
-ते च तादृशा भोगमोक्षप्रदाः इत्येवं   
-सकलपरामर्शविश्रान्तिमात्ररूपं   
-प्रतिबिम्बितसमस्ततत्त्वभूतभुवनभेदम् आत्मानं पश्यतो निर्विकल्पतया   
-शाम्भवेन समावेशेन जीवन्मुक्तता । अत्रापि पूर्ववत् न मन्त्रादियन्त्रणा   
-काचिदिति ।
+<details><summary>English</summary>
 
-अन्तर्बिभाति सकलं जगदात्मनीह  
-यद्वद्विचित्ररचना मुकुरान्तराले ।  
-भोधः परं निजविमर्शरसानुवृत्त्या [ख्: निजविमर्शनसारमूर्त्या   
-इति पाठः; ग्: विमर्शनसारयुक्त्या इति सारयोगादिति च पाठान्तरम् ।]  
-विश्वं परामृशति नो मुकुरस्तथा तु ॥
+For attaining this type of absorption, as in the case of anupāya,  
+there is no need whatsoever for adopting painful procedures such as the use of mantras, and other such practices.[^31] 
+</details>
 
-[अत्रेयं छाया
 
-संवेदननिर्मलदर्पणेऽस्मिन् सकलं स्फुरन्निजसारम् ।   
-आमर्शनरससरहस्यविसृष्टरूपं सत्यं भाति ॥] संवे-अण   
-निम्मल दप्पणस्मि  
+अन्तर् **विभाति** सकलं जगद्-आत्मनीह  
+यद्-वद् विचित्र-रचना मुकुरान्तराले+++(=आदर्शे)+++ ।  
+बोधः परं निज-विमर्श-रसानुवृत्त्या,   
++++([ख्: निजविमर्शनसारमूर्त्या इति पाठः; ग्: विमर्शनसारयुक्त्या इति सारयोगादिति च पाठान्तरम् ।])+++  
+**विश्वं परामृशति** नो+++(=न)+++ मुकुरस् तथा तु ॥  
++++(इति संविदो मुकुरस्य व्यतिरेकः)+++
+
+<details><summary>English</summary>
+
+
+The entire universe is shining on the clear inner core of the Self.  
+The multifarious forms shine on the surface of the mirror,  
+but the mirror is not aware of them.  
+On the other hand, supreme consciousness,  
+by means of continuous flow of its own delight of self-consciousness, reflects the universe.
+</details>
+
+
+संवे-अण निम्मल दप्पणस्मि  
 स-अलं फुरत्त नि-असारं ।  
 आमरिसण रस सरहस  
 विमट्टरू-अं स-इं भा-इ ॥
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अत्रेयं छाया
+
+> संवेदन-निर्मल-**दर्पणेऽस्मिन्**  
+सकलं स्फुरन्-निज-सारम् ।   
+आमर्शन-रस-स-रहस्य-  
+विसृष्ट-रूपं **सत्यं भाति** ॥
+</details>
+
+
 २०)
 
-[इति श्रुत्वा विमलमेनं निजात्मानं समस्तवस्तुमयम् ।   
-यो योजयति स परभैरवो भूत्वा परनिर्वृत्तिं लभते ॥] इ-अ सुण##-  
-नि-अ अप्पाणं समत्थवत्थम-अम् ।  
+इ-अ सुण-नि-अ  
+अप्पाणं समत्थवत्थम-अम् ।  
 जो जो-अय सो परभैर-इ  
 बोव्व परणिव्व-इं लह-इ ॥
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इति+++(→पूर्वपद्योक्तं)+++ **श्रुत्वा** विमलम् एनं  
+**निजात्मानं** समस्त-वस्तु-मयम् ।   
+यो **योजयति** स पर-भैरवो  
+भूत्वा, **परनिर्वृत्तिं लभते** ॥
+</details>
+
 
 इति श्रीमदभिनवगुप्ताचार्यविरचिते तन्त्रसारे शाम्भवोपायप्रकाशनं   
 +++([ख्, ग्: परोपायप्रकाशनमिति पाठः ।])+++ नाम तृतीयमाह्निकम्   
 ॥३॥
 
-
-TANTRASĀRA 65
-
-
-
-If they become invigorated, then they are capable of giv ing liberation and/or enjoyment. When one conceives oneself as the single resort of all possible reflective cognitions in which the entire multitudes of principles (tattvas), beings, and regions are reflected, one attains liberation while living through the absorp tion born of śambhu,30 which is free from determinate knowledge. For attaining this type of absorption, as in the case of anupāya, there is no need whatsoever for adopting painful procedures such as the use of mantras, and other such practices.31 
-
-
-The entire universe is shining on the clear inner core of the Self. The multifarious forms shine on the surface of the mirror, but the mirror is not aware of them. On the other hand, supreme consciousness, by means of continuous flow of its own delight of self-consciousness, reflects the universe. 
