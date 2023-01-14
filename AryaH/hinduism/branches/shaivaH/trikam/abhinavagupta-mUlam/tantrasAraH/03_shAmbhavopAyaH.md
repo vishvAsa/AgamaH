@@ -732,7 +732,8 @@ On the other hand, if that reality is cognized as being divided into consonants 
     The energy of emission (visarga) manifesting itself as individual cognitions appears as the universe. She, that is, śakti, is the cause, or the mother, of all sorts of gross words and sentences. In agamas it has two appellations; the one is called mātr̥ka and the other malinī. The former is the seed (bīja) and the latter is the recipient (yoni) of the seed. The one, when agitated, gives birth to diverse phonemes. All these phonemes, being the indicative sound, represent all thirty six principles (tattva), beginning with śiva and ending with the earth. 
 </details>
 
-पृथग् अष्टक-परामर्शे चक्रेश्वर-साहित्येन नव-वर्गः।  
+## अष्टकादि-परामर्श-कलनम्
+पृथग् +++(वस्तुजात-)+++अष्टक-परामर्शे चक्रेश्वर+++(=केन्द्र)+++-साहित्येन नव-वर्गः।  
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -744,7 +745,7 @@ On the other hand, if that reality is cognized as being divided into consonants 
 When that reality is cognized as eightfold parāmarśa along with cakreśvara (the letter kṣa), then it is divided into nine groups.
 </details>
 
-एकैक-परामर्श-प्राधान्ये पञ्चाशद्-आत्मकता ।  
++++(प्रत्येकस्मिन्)+++ एकैक-परामर्श-प्राधान्ये पञ्चाशद्-आत्मकता ।  
 तत्रापि सम्भवद्-भाग-भेद-परामर्शने एकाशीति-रूपत्वम् ।
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -760,7 +761,7 @@ Finally, when that reality is cognized as existing with possible subtle division
 
 वस्तुतस्तु षड् एव +++(अ-ऊ इति)+++ परामर्शाः  
 प्रसरण-प्रतिसञ्चरण-योगेन +++(ए-ऐ-ओ-औ-अं-अः इति)+++ द्वादश भवन्तः  
-परमेश्वरस्य विश्व-शक्ति-पूर्णत्वं पुष्णन्ति । 
+परमेश्वरस्य **विश्व-शक्ति-पूर्णत्वं पुष्णन्ति** । 
   
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -788,12 +789,13 @@ However, on account of expansion and contraction they become twelve and thus nou
 
 
 
-ता एव एतापरामर्शरूपत्वात् शक्तयो   
-भगवत्यः श्रीकालिका इति निरुक्ताः ।
+ता एव एता परामर्श-रूपत्वात्  
+शक्तयो भगवत्यः **श्रीकालिका**  
+इति निरुक्ताः ।
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-कलयन्ति क्रमन्ते इति कालिकाः । यदुक्तम्
+कलयन्ति क्रमन्त इति कालिकाः । यद्-उक्तम्
 
 > परामर्शात्मकत्वेन  
 विसर्गाक्षेप-योगतः ।   
@@ -804,8 +806,9 @@ However, on account of expansion and contraction they become twelve and thus nou
 </details>
 
 
-एते च शक्तिरूपा एव शुद्धाः परामर्शाः  
-शुद्धविद्यायां परापर-रूपत्वेन मायोन्मेष-मात्रसङ्कोचात् विद्याविद्येश्वररूपतां [क्: विद्येश्वरतारूपा मन्त्ररूपतामिति पाठः ।; ख्: विद्याविद्येश्वरबीजरूपा मन्त्ररूपतामिति पाठान्तरं च ।] भजन्ते । मायायां पुनः   
+एते च शक्ति-रूपा एव  
+शुद्धाः परामर्शाः  
+शुद्ध-विद्यायां परापर-रूपत्वेन मायोन्मेष-मात्रसङ्कोचात् विद्याविद्येश्वररूपतां [क्: विद्येश्वरतारूपा मन्त्ररूपतामिति पाठः ।; ख्: विद्याविद्येश्वरबीजरूपा मन्त्ररूपतामिति पाठान्तरं च ।] भजन्ते । मायायां पुनः   
 स्फुटीभूतभेदविभागा मायीयवर्णतां भजन्ते ये   
 पश्यन्तीमध्यमावैखरीषु व्यावहारिकत्वम् [ख्: व्यवहारकारित्वमिति   
 पाठः ।] आसाद्य बहीरूपतत्त्वस्वभावतापत्तिपर्यन्ताः ते च मायीया   
