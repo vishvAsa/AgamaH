@@ -9,14 +9,6 @@ NOTES 221
 
 
 
-[^28]:
-
-    There are four levels of speech. They are parā, pasyanti, madhyamā, and vaikhari. For detailed account on the subject of four lev els of speech see Abhinavagupta's Parātrisikā. Vivarana. See also Padoux's Vāc: The Concept of the Word in Selected Hindu Tantras. 
-
-[^29]:
-
-    Even on the level māyā these phonemes can possibly be enlivened by contact with pure knowledge (śuddhavidyā) through which they can be utilized to serve the purpose of both enjoyment and liberation. 
-
 [^30]:
 
     Pure absorption into śiva (śāmbhava samāvesa) signifies pure consciousness. When a yogin attains it, he realizes that all the six paths (sadadhvas) are not different from his own Self. They reflect in his own consciousness, rise in his very Self, and gain their rest in it. In the integrated unitary consciousness, creation, maintenance, and dissolution shine inseparably from one's own nature. 

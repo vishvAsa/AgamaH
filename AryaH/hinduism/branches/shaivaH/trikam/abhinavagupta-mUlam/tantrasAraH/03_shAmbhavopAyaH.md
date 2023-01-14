@@ -760,7 +760,7 @@ Furthermore, if one cognizes that same reality placing the emphasis on each and 
 Finally, when that reality is cognized as existing with possible subtle divisions, then the number becomes eighty-one.
 </details>
 
-वस्तुतस्तु षड् एव +++(अ-ऊ इति)+++ परामर्शाः  
+वस्तुतस्तु षड् एव +++(अ-ऊ इति, अनुत्तरादयः)+++ परामर्शाः  
 प्रसरण-प्रतिसञ्चरण-योगेन +++(ए-ऐ-ओ-औ-अं-अः इति)+++ द्वादश भवन्तः  
 परमेश्वरस्य **विश्व-शक्ति-पूर्णत्वं पुष्णन्ति** । 
   
@@ -831,11 +831,12 @@ These pure reflective cognitions are energies by nature, which on the level of p
 </details>
 
 
-मायायां +++(=भाषायां विकल्पे च)+++ पुनः   
+मायायां +++(→व्यञ्जन-वर्ण-रूपेण)+++ पुनः   
 स्फुटी-भूत-भेद-विभागा  
 मायीय-वर्णतां भजन्ते,   
 ये पश्यन्ती-मध्यमा-वैखरीषु  
-व्यावहारिकत्वम् +++([ख्: व्यवहारकारित्वमिति पाठः ।])+++ आसाद्य,  
+व्यावहारिकत्वम् +++(भाषायां विकल्पे च)+++ आसाद्य,  
++++([ख्: व्यवहारकारित्वमिति पाठः ।])+++  
 बही-रूप-तत्त्व-स्वभावतापत्ति-पर्यन्ताः।   
 
 <details><summary>English</summary>
@@ -843,18 +844,44 @@ These pure reflective cognitions are energies by nature, which on the level of p
 However, they appear divided into distinctive groups and function as letters belonging to māyā. 
 
 When these syllables finally descend through the stages of pasyanti, madhyamā, and vaikharī [^28] and assume the nature of external categories, then they take on the role of worldly transactions.
+
+[^28]:
+
+    There are four levels of speech. They are parā, pasyanti, madhyamā, and vaikhari. For detailed account on the subject of four lev els of speech see Abhinavagupta's Parātrisikā. Vivarana. See also Padoux's Vāc: The Concept of the Word in Selected Hindu Tantras. 
+</details>
+
+[[१९]]
+
+ते च मायीया +++(व्यञ्जन-रूपा, विकल्प-वस्तूनि, बाह्यानि)+++ अपि  
+निर्जीव-शरीर-कल्पत्वेन यदा दृश्यन्ते   
+यदा च तेषाम्  
+उक्त-नयैर् एतैर् जीवित-स्थानीयैः शुद्धैः परामर्शैः +++(स्वररूपैः, इच्छा-क्रियादिभिः)+++  
+प्रत्युज्जीवनं क्रियते,   
+तदा ते सवीर्या भवन्ति।
+
+<details><summary>English</summary>
+
+Although on this level they are syllables belonging to māyā and are seen as bodies (that is, devoid of life),  
+when by means of the aforesaid ingenuity  
+they are enlivened by pure reflective cognitions, [^29] which symbolize their very life,  
+then they become invigorated.
+
+[^29]:
+
+    Even on the level of māyā these phonemes can possibly be enlivened by contact with pure knowledge (śuddhavidyā) through which they can be utilized to serve the purpose of both enjoyment and liberation.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+मायीया वर्णा जीवरहितं शरीरम् इव। तेषां तु   
+परामर्शो जीव इवास्ति अन्यथा तेऽकिञ्चित्करा इति भावः ।
 </details>
 
 
-ते च मायीया अपि  
-शरीर-कल्पत्वेन [मायीया वर्णा जीवरहितं शरीरमिव तेषां तु   
-परामर्शो जीव इवास्ति अन्यथा तेऽकिञ्चित्करा इति भावः ।] यदा दृश्यन्ते   
-यदा च तेषाम्
 
-१९)
 
-उक्तनयैरेतैः जीवितस्थानीयैः शुद्धैः परामर्शैः प्रत्युज्जीवनं क्रियते   
-तदा ते सवीर्या भवन्ति ते च तादृशा भोगमोक्षप्रदाः इत्येवं   
+
+ते च तादृशा भोगमोक्षप्रदाः इत्येवं   
 सकलपरामर्शविश्रान्तिमात्ररूपं   
 प्रतिबिम्बितसमस्ततत्त्वभूतभुवनभेदम् आत्मानं पश्यतो निर्विकल्पतया   
 शाम्भवेन समावेशेन जीवन्मुक्तता । अत्रापि पूर्ववत् न मन्त्रादियन्त्रणा   
@@ -892,7 +919,7 @@ TANTRASĀRA 65
 
 
 
- Although on this level they are syllables belonging to māyā and are seen as bodies (that is, devoid of life), when by means of the aforesaid ingenuity they are enlivened by pure reflective cog nitions, 29 which symbolize their very life, then they become invig orated. If they become invigorated, then they are capable of giv ing liberation and/or enjoyment. When one conceives oneself as the single resort of all possible reflective cognitions in which the entire multitudes of principles (tattvas), beings, and regions are reflected, one attains liberation while living through the absorp tion born of śambhu,30 which is free from determinate knowledge. For attaining this type of absorption, as in the case of anupāya, there is no need whatsoever for adopting painful procedures such as the use of mantras, and other such practices.31 
+If they become invigorated, then they are capable of giv ing liberation and/or enjoyment. When one conceives oneself as the single resort of all possible reflective cognitions in which the entire multitudes of principles (tattvas), beings, and regions are reflected, one attains liberation while living through the absorp tion born of śambhu,30 which is free from determinate knowledge. For attaining this type of absorption, as in the case of anupāya, there is no need whatsoever for adopting painful procedures such as the use of mantras, and other such practices.31 
 
 
 The entire universe is shining on the clear inner core of the Self. The multifarious forms shine on the surface of the mirror, but the mirror is not aware of them. On the other hand, supreme consciousness, by means of continuous flow of its own delight of self-consciousness, reflects the universe. 
