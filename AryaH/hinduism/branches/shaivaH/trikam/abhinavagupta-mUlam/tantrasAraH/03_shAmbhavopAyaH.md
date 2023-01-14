@@ -15,9 +15,9 @@ Chapter Three
 
 ## स्वातन्त्र्यशक्तेर् अवलम्बनम्
 यद् एतत् प्रकाश-रूपं शिव-तत्त्वम् उक्तम्,  
-तत्र +अखण्ड-मण्डले यदा प्रवेष्टुं न शक्नोति,  
-तदा स्वातन्त्र्य-शक्तिम् एव अधिकां पश्यन्  
-निर्विकल्पम् एव भैरव-समावेशम् अनुभवति। 
+तत्र +अ-खण्ड-मण्डले यदा प्रवेष्टुं न शक्नोति,  
+तदा **स्वातन्त्र्य-शक्तिम्** एव **+अधिकां पश्यन्**  
+**निर्विकल्पम्** एव भैरव-समावेशम् **अनुभवति**। 
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -44,7 +44,8 @@ experiences the indeterminate (nirvikalpa) absorption belonging to Bhairava.
 ## प्रतिबिम्ब-युक्तिः
 ### प्रतिबिम्बम्
 अयं च +अस्य उपदेशः -   
-सर्वम् इदं भाव-जातं बोध-गगने प्रतिबिम्ब-मात्रं प्रतिबिम्ब-लक्षणोपेतत्वात्।
+सर्वम् इदं भाव-जातं बोध-गगने प्रतिबिम्ब-मात्रं  
++++(क्षिणिकत्व-परावलम्बित्वादि-)+++प्रतिबिम्ब-लक्षणोपेतत्वात्।
 
 <details><summary>English</summary>
 
@@ -58,13 +59,17 @@ All these multitudes of beings (bhāvas) are merely reflections in the void of c
 </details>
 
 
-इदं हि प्रतिबिम्बस्य लक्षणं - यद् भेदेन भासितम् अशक्तम् अन्यव्यामिश्रत्वेनैव भाति, तत् प्रतिबिम्बम्  
-मुखरूपमिव दर्पणे  
-रस इव दन्तोदके +++(5)+++  
-गन्ध इव घ्राणे  
-मिथुनस्पर्श इव आनन्देन्द्रिये  
-शूलकुन्तादिस्पर्शो +++([ख्: स्थूलशून्यादिस्पर्शो वा इति पाठः ।])+++ वा अन्तःस्पर्शनेन्द्रिये   
-प्रतिश्रुत्केव व्योम्नि ।
+इदं हि **प्रतिबिम्बस्य लक्षणं** \-  
+यद् भेदेन भासितम्, अशक्तम्, अन्य-व्यामिश्रत्वेनैव भाति,  
+तत् प्रतिबिम्बम् -  
+
+मुख-रूपम् इव दर्पणे,  
+रस इव दन्तोदके, +++(5)+++  
+गन्ध इव घ्राणे,  
+मिथुन-स्पर्श इव आनन्देन्द्रिये,  
+शूल-कुन्तादि-स्पर्शो +++([ख्: स्थूलशून्यादिस्पर्शो वा इति पाठः ।])+++ वा अन्तःस्पर्शनेन्द्रिये,   
+प्रतिश्रुत्केव व्योम्नि ।  
++++(एवं भाव-जातं बोध-गगने।)+++
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -102,7 +107,8 @@ or the reflection of an echo in the void.
 
 
 
-न हि स रसो मुख्यः तत्-कार्य-व्याधि-शमनाद्य्-अदृष्टेः ।
+न हि स +++(विकल्प-गत-)+++रसो मुख्यस्,  
+तत्-कार्य--व्याधि-शमनाद्य्-अदृष्टेः ।
 
 <details><summary>English</summary>
 
@@ -115,8 +121,8 @@ However, this taste is not the original,[^15] and being only the effect of that 
 
 
 
-नापि गन्धस्पर्शौ मुख्यौ -  
-गुणिनस् तत्र +अभावे  
+नापि +++(विकल्प-गतौ-)+++ गन्ध-स्पर्शौ मुख्यौ -  
+गुणिनस् तत्र +अभावे,  
 तयोर् अयोगात्  
 कार्य-परम्परानारम्भाच् च ।  
 
@@ -128,14 +134,16 @@ the existence of smell and touch could not even be postulated,
 and more so because they do not set in motion any series of effects or results.
 </details>
 
-न च तौ +++(गन्धस्पर्शौ)+++ न स्तः - देहोद्धूलन-विसर्गादि-दर्शनात् ।
+न च तौ +++(विकल्पगताव् अपि गन्धस्पर्शौ)+++ न स्तः - देहोद्धूलन-+++(रेतो)+++विसर्गादि-दर्शनात् ।
 
 <details><summary>English</summary>
 
 On the other hand, we cannot say that these two are non-existent, as shaking of the limbs and emission of semen can be seen.
 </details>
 
-शब्दोऽपि न मुख्यः - कोऽपि वक्ति इति आगच्छन्त्या इव प्रतिश्रुत्कायाः श्रवणात् ।
++++(विकल्पगतः)+++ शब्दोऽपि न मुख्यः -  
++++(तस्य विकल्पगतशब्दस्य)+++  
+कोऽपि वक्ति +इति आगच्छन्त्या इव प्रतिश्रुत्कायाः +++(वस्तु-रहित)+++श्रवणात् ।
 
 <details><summary>English</summary>
 
@@ -144,8 +152,8 @@ Even a sound is not original because someone utters it and the approaching of it
 
 
 
-एवं यथा एतत् प्रतिबिम्बितं +++([क्: बिम्बप्रतिबिम्बेति पाठः ।])+++ भाति तथैव विश्वं   
-परमेश्वर-प्रकाशे +++([ख्: परमेश्वरस्वरूपं नाना स्पष्टमिति पाठः।])+++ ।
+एवं यथा +एतत्+++(→प्रतिश्रुत्का)+++ प्रतिबिम्बितं +++([क्: बिम्बप्रतिबिम्बेति पाठः ।])+++ भाति,  
+तथैव +++(विकल्पगतं)+++ विश्वं परमेश्वर-प्रकाशे +++([ख्: परमेश्वरस्वरूपं नाना स्पष्टमिति पाठः।])+++ ।
 
 <details><summary>English</summary>
 
@@ -153,7 +161,10 @@ Thus, just as an echo, etc., appears shining as a reflection, similarly the univ
 </details>
 
 ### बिम्बम्
-ननु अत्र बिम्बं किं स्यात्? मा भूत् किञ्चित्।
+> ननु अत्र **बिम्बं किं** स्यात्?  
+
++++(इति चेत् - )+++ मा भूत् किञ्चित्।  
++++(हेतुं संविन्मयम् ईश्वरम् प्रतिपादयितुं युक्तिर् इदम् उत्तरम्।)+++
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -162,13 +173,15 @@ Thus, just as an echo, etc., appears shining as a reflection, similarly the univ
 
 <details><summary>English</summary>
 
-Now, the question can be raised: What is the original image (bimba) of this reflection? The answer is that there is none.
-
+Now, the question can be raised: What is the original image (bimba) of this reflection?  
+The answer is that there is none.
 </details>
 
-ननु किम् अकारणकं तत् ?  
-हन्त तर्हि हेतुप्रश्नः - तत् किं बिम्ब-वाचोयुक्त्या?
+> ननु किम् अकारणकं तत् +++(प्रतिबिम्बितं चिद्-गगने)+++?  
 
++++(इति चेत् - )+++ हन्त तर्हि हेतु-प्रश्नः -  
+तत् किं बिम्ब-वाचो-युक्त्या?  
++++(साक्षाद् +हेतुम् एव पृच्छ।)+++
 
 <details><summary>English</summary>
 
@@ -177,8 +190,8 @@ Alas! Your query is then aimed at finding a cause.
 In that case, what would be the purpose of verbal reasoning?
 </details>
 
-### आदर्शः परमेश्वरशक्तिः
-हेतुश् च परमेश्वरशक्तिर् एव - स्वातन्त्र्यापर-पर्याया भविष्यति।
+### हेतुः स्वातन्त्र्यम्
+**हेतुश् च परमेश्वर-शक्तिर्** एव - स्वातन्त्र्यापर-पर्याया भविष्यति।
 
 <details><summary>English</summary>
 
@@ -187,10 +200,10 @@ The cause will indeed be the śakti belonging to the Lord, whose other name is '
 This śakti is the immanence of the Lord because She is the bearer of the reflection of the universe. 
 </details>
 
-विश्व-प्रतिबिम्ब-धारित्वाच् च विश्वात्मकत्वं भगवतः।  
-संविन्मयं हि विश्वं चैतन्यस्य व्यक्तिस्थानम् इति  
-तद् एव हि विश्वम् अत्र प्रतीपम् इति   
-प्रतिबिम्बधारित्वम् अस्य।
+विश्व-प्रतिबिम्ब-धारित्वाच् च **विश्वात्मकत्वं भगवतः**।  
+संविन्मयं हि विश्वं चैतन्यस्य व्यक्ति-स्थानम् इति,  
+तद् एव हि विश्वम् अत्र +++(अस्मद्-अन्तरङ्ग-संविद्य् अपि)+++ प्रतीपम् इति   
+**प्रतिबिम्ब-धारित्वम्** अस्य।
 
 <details><summary>English</summary>
 
@@ -199,8 +212,10 @@ That consciousness indeed is this universe in which it is reflected in the rever
 Therefore, the Lord is designated as the bearer of the reflection.
 </details>
 
-## स्वामर्शः
-तच्च तावत् विश्वात्मकत्वं परमेश्वरस्य स्वरूपं न +अनामृष्टं भवति - चित्-स्वभावस्य स्वरूपानामर्शनानुपपत्तेः ।
+## विकल्पामर्शो वर्णैः
+तच् च तावद् विश्वात्मकत्वं परमेश्वरस्य स्वरूपं  
+न +अनामृष्टं भवति -  
+चित्-स्वभावस्य स्वरूपानामर्शनानुपपत्तेः ।
 
 <details><summary>English</summary>
 
@@ -221,9 +236,9 @@ If, however, consciousness lacks self-awareness (awareness of its own innate nat
 
 
 
-आमर्शश्च +अयं न साङ्केतिकः -  
-अपि तु चित्-स्वभावता-मात्र-नान्तरीयकः  
-- पर-नाद-गर्भ उक्तः।
+आमर्शश् च +अयं न साङ्केतिकः -  
+अपि तु चित्-स्वभावता-मात्र-नान्तरीयकः +++(समुद्र-वीचि-वत्)+++,  
++++(प्रमातृ-परामर्श-चोदक-)+++पर-नाद--गर्भ उक्तः।
 
 <details><summary>English</summary>
 
@@ -240,7 +255,10 @@ Further more, self-reflective awareness is not created by convention, but is exp
 </details>
 
 ### शक्तयः
-स च +++(पर-नाद-गर्भ आमर्शः)+++ यावान् विश्व-व्यवस्थापकः - परमेश्वरस्य शक्ति-कलापः तावन्तम् आमृशति ।
+स च +++(पर-नाद-गर्भ आमर्शः)+++  
+यावान् विश्व-व्यवस्थापकः -  
+परमेश्वरस्य शक्ति-कलापः,  
+तावन्तम् आमृशति ।
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -253,9 +271,9 @@ This supreme sound reflects all the multitudes of energies belonging to the Lord
 </details>
 
 ### अ-इ-उ
-तत्र मुख्यास् तावत् तिस्रः परमेश्वरस्य शक्तयः -  
-अनुत्तरः इच्छा उन्मेष इति।  
-तदेव परामर्शत्रयम् अ-इ-उ इति।  
+तत्र मुख्यास् तावत् तिस्रः परमेश्वरस्य **शक्तयः** -  
+**अनुत्तर इच्छा उन्मेष** इति।  
+तद् एव **परामर्श-त्रयम् अ-इ-उ** इति।  
 एतस्माद् एव त्रितयात् सर्वः शक्ति-प्रपञ्चश् चर्च्यते।
 
 <details><summary>English</summary>
@@ -269,8 +287,8 @@ The Lord possesses three principal powers, namely, the supreme (anuttara), will 
     This tradition states that the short vowels are predominantly of the nature of light (prakāśa), therefore, they have the characteristic of the sun; the corresponding long vowels, having the nature of repose, are considered to be of the nature of the moon.
 </details>
 
-#### अ इ उ → आ ई ऊ
-अनुत्तर एव हि विश्रान्तिर् आनन्दः।  
+### अ इ उ → आ ई ऊ
+अनुत्तर एव हि विश्रान्तिर् **आनन्दः**।  
 
 <details><summary>English</summary>
 
@@ -287,7 +305,7 @@ The Lord possesses three principal powers, namely, the supreme (anuttara), will 
 
 
 
-इच्छायाम् एव विश्रान्तिर् ईशनम् ।
+इच्छायाम् एव विश्रान्तिर् **ईशनम्** ।
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -303,7 +321,7 @@ The Lord possesses three principal powers, namely, the supreme (anuttara), will 
 
 
 
-उन्मेष एव हि विश्रान्तिर् ऊर्मिर् यः क्रियाशक्तेः प्रारम्भः
+उन्मेष एव हि विश्रान्तिर् **ऊर्मिर्**, यः क्रिया-शक्तेः प्रारम्भः
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -320,10 +338,10 @@ The Lord possesses three principal powers, namely, the supreme (anuttara), will 
 while ūrmi “ū” rests in unmeṣa. This (ūrmi) is the initial stage of the evolution of the energy of activity (kriyā śakti).
 </details>
 
-तद् एव परामर्श-त्रयम् आ-ई-ऊ इति ।
+तद् एव **परामर्श-त्रयम् आ-ई-ऊ** इति ।
 
-अत्र च प्राच्यं परामर्श-त्रयं प्रकाश-भाग-सारत्वात् सूर्यात्मकं,  
-चरमं परामर्श-त्रयं विश्रान्ति-स्वभावाह्लाद-प्राधान्यात् सोमात्मकम्।
+अत्र च प्राच्यं परामर्श-त्रयं +++(अ-इ-उ इति)+++ प्रकाश-भाग-सारत्वात् **सूर्यात्मकं**,  
+चरमं परामर्श-त्रयं विश्रान्ति-स्वभावाह्लाद-प्राधान्यात् **सोमात्मकम्**।
 
 <details><summary>English</summary>
 
@@ -331,7 +349,7 @@ The first group of cognitive reflections (parāmarśa), that is, “a," "i," and
 The second group of reflective cognitions, that is, "ā," "ī,” and “u," being of the nature of repose and predominantly blissful by nature, are identified with the moon.
 </details>
 
-इयति यावत्कर्मांशस्य अनुप्रवेशो नास्ति।
+इयति यावत् **कर्मांशस्य अनुप्रवेशो नास्ति**।
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -343,8 +361,9 @@ The second group of reflective cognitions, that is, "ā," "ī,” and “u," bei
 Up to this point, even the slightest trace of activity has not entered into the process of manifestation).
 </details>
 
-## कर्म
-यदा तु इच्छायाम् ईशने च कर्म +अनुप्रविशति - यत् तद् इष्यमाणम् ईश्यमाणम् इति च +उच्यते ।   
+### कर्म ऋ ॠ ऌ ॡ
+यदा तु इच्छायाम् ईशने च  
++++('कर्तुर् ईप्सिततमम्' इति)+++ **कर्म** +अनुप्रविशति - यत् तद् +++(कर्म)+++ इष्यमाणम् ईश्यमाणम् इति च +उच्यते,    
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -361,12 +380,16 @@ Up to this point, even the slightest trace of activity has not entered into the 
 When, however, in the power of will (icchā) and in the power of 'will to lord over' (īśāna), activity enters, then they are called 'the object of the power of will (iṣyamāṇa) and 'the subject of the power of will' (īśyamāna).
 </details>
 
-तदा +अस्य +++(कर्मणः)+++ द्वौ भेदौ प्रकाशमात्रेण रश्रुतिः +++(ऋकारे)+++, विश्रान्त्या लश्रुतिः +++(ऌकारे)+++ -  
-रलयोः प्रकाश-स्तम्भ-स्वभावत्वात्।
+तदा +अस्य +++(कर्मणः)+++ द्वौ भेदौ +++(कर्मानुप्रवेशे)+++
+
+- प्रकाश-मात्रेण रश्रुतिः +++(ऋकारे)+++, 
+- विश्रान्त्या लश्रुतिः +++(ऌकारे)+++   
+
+र-लयोः प्रकाश-स्तम्भ-स्वभावत्वात्।
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-स्तम्भः स्थैर्यमित्यर्थः ।
+स्तम्भः स्थैर्यम् इत्य् अर्थः ।
 </details>
 
 
@@ -381,8 +404,9 @@ At that stage, activity (karman) divides itself into two: the semivowel "r̥" wh
 TANTRASĀRA 63
 </details>
 
-इष्यमाणं च न बाह्यवत् स्फुटम् - स्फुटरूपत्वे तदेव निर्माणं स्यात्।  
-न इच्छा ईशनं वा +++(स्फुटम्)+++।
++++(विकल्पगतम्)+++ इष्यमाणं च न बाह्यवत् स्फुटम् -  
+स्फुट-रूपत्वे तद् एव +++(स्वसकाशे कामपूरणया)+++ निर्माणं स्यात्।  
+न +++(अपूरितत्वाद्)+++ इच्छा ईशनं वा।
 
 <details><summary>English</summary>
 
@@ -391,7 +415,8 @@ However, neither will (icchā) nor the 'power to lord over' (isana) are clearly 
 </details>
 
 
-अतो ऽस्फुटत्वाद् एव श्रुतिमात्रं रलयोः+++(→ऋऌयोः)+++ न व्यञ्जनवत् स्थितिः ।  
+अतो ऽस्फुटत्वाद् एव श्रुति-मात्रं रलयोः+++(→ऋऌयोः → विकल्पगत-कर्मणोः)+++,  
+न व्यञ्जनवत् स्थितिः ।  
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -404,7 +429,10 @@ For that very reason, "r̥" and “l̥” are only semivowels and not consonants
 </details>
 
 
-तद् एतद् वर्ण-चतुष्टयं उभय-च्छाया-धारित्वात् +नपुंसकम् ऋ ॠ ऌ ॡ इति । 
+तद् एतद् वर्ण-चतुष्टयं  
++++(विकल्प-गत-कर्मणाम् अपूरित-स्थितिं दर्शयद्)+++  
+उभय-च्छाया-धारित्वात् +नपुंसकम्  
+ऋ ॠ ऌ ॡ इति । 
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -418,8 +446,9 @@ Furthermore, this group of letters, “ऋ,” “ॠ," "ऌ" and "ॡ" are cons
 </details>
 
 
-## क्रिया
-अनुत्तरानन्दयोर् इच्छादिषु यदा प्रसरस् तदा वर्णद्वयम् ए ओ इति । 
+### क्रिया- ए ओ ऐ औ
+अनुत्तरानन्दयोर् इच्छादिषु यदा प्रसरस्  
+तदा वर्णद्वयम् ए ओ इति । 
 
 <details><summary>English</summary>
 
@@ -434,7 +463,7 @@ Then again, when these two syllables, "e" and "o,” are closely united (samghat
 </details>
 
 
-सा इयं क्रियाशक्तिः।  
+सा इयं **क्रियाशक्तिः**।  
 तद् एव च वर्णचतुष्टयम् - ए ऐ ओ औ इति ।
 
 <details><summary>English</summary>
@@ -449,8 +478,10 @@ which shines in the manifestation of the four syllables, that is, "e," "ai," "o,
 
 </details>
 
-ततः पुनः क्रियाशक्त्यन्ते सर्वं कार्यभूतं यावद् अनुत्तरे प्रवेक्ष्यति।  
-तावद् एव पूर्वं संवेदन-सारतया पकाश-मात्रत्वेन बिन्दुतया ऽऽस्ते - अम् इति ।
+### क्रियान्ते संवेदनम्, विसर्गः - अं अः
+ततः पुनः क्रिया-शक्त्य्-अन्ते  
+सर्वं **कार्य-भूतं** यावद् **अनुत्तरे** प्रवेक्ष्यति,  
+तावद् एव पूर्वं संवेदन-सारतया पकाश-मात्रत्वेन बिन्दुतया ऽऽस्ते - **अम्** इति ।
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -519,8 +550,7 @@ Then, at the end of the development of the power of action (kriyā śakti), just
     Bindu is the compact mass of consciousness assembled into an undifferentiated point from which the creation of the universe proceeds. 
 </details>
 
-
-ततस्तत्रैव अनुत्तरस्य विसर्गो जायते अः इति ।  
+ततस् तत्रैव अनुत्तरस्य **विसर्गो** जायते **अः** इति ।  
 
 
 <details><summary>English</summary>
