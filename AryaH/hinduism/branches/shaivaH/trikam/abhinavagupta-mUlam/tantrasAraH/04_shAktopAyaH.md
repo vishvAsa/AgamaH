@@ -10,8 +10,11 @@ title = "04 शाक्तोपायः"
 अथ शाक्तोपायः ।
 
 ## विकल्प-संस्कृति-प्रामुख्यम्
-तत्र यदा विकल्पं क्रमेण संस्कुरुते समनन्तरोक्त-स्वरूप-प्रवेशाय  
-तदा भावना-क्रमस्य सत्-तर्क--सद्-आगम--सद्-गुरूपदेश-पूर्वकस्य अस्ति उपयोगः । 
+तत्र यदा **विकल्पं क्रमेण संस्कुरुते**  
+समनन्तरोक्त+++(→पूर्वोक्त)+++-स्वरूप-प्रवेशाय  
+तदा **भावना-क्रमस्य**  
+सत्-तर्क--सद्-आगम--सद्-गुरूपदेश-पूर्वकस्य  
+**+अस्ति +उपयोगः** । 
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -22,7 +25,7 @@ title = "04 शाक्तोपायः"
 
 Chapter Four
 
-When, for the purpose of attaining one's own innate nature (sva bhāva), thought constructs[^32] are gradually purified,[^33] as described in the previous chapter, the course of meditation (bhāvanā), preceded by right reasoning, study of appropriate āgama texts, and instruction by a teacher, becomes essential.
+When, for the purpose of attaining one's own innate nature (sva-bhāva), thought constructs[^32] are gradually purified,[^33] as described in the previous chapter, the course of meditation (bhāvanā), preceded by right reasoning, study of appropriate āgama texts, and instruction by a teacher, becomes essential.
 
 [^32]:
 
@@ -40,8 +43,10 @@ When, for the purpose of attaining one's own innate nature (sva bhāva), thought
 
 
 तथाहि **विकल्प-बलाद्** एव जन्तवो **बद्धम्** आत्मानम् **अभिमन्यन्ते**।  
-स अभिमानः संसार-प्रतिबन्ध-हेतुः +++([ख्: संसारप्रबन्धेति प्रबन्धः सन्ततिः इति पर्यायोपेतः पाठः ।])+++।  
-अतः **प्रतिद्वन्द्वि-रूपो विकल्प** उदितः संसार-हेतुं विकल्पं दलयति - इत्य् **अभ्युदय-हेतुः** । 
++++(तथापि)+++ स अभिमानः +++(हि)+++ संसार-प्रतिबन्ध-हेतुः +++([ख्: संसारप्रबन्धेति प्रबन्धः सन्ततिः इति पर्यायोपेतः पाठः ।])+++।  
+अतः **प्रतिद्वन्द्वि-रूपो विकल्प** उदितः  
+संसार-हेतुं विकल्पं दलयति -  
+इत्य् **अभ्युदय-हेतुः** । 
 
 <details><summary>English</summary>
 
@@ -66,7 +71,8 @@ This new vikalpa becomes the cause of ascent (abhyudaya), enabling one to attain
 
 स च +एवं-रूपः।  
 
-> "समस्तेभ्यः परिच्छिन्न-स्वभावेभ्यः शिवान्तेभ्यः तत्त्वेभ्यो यद् उत्तीर्णम् अपरिच्छिन्न-संविन्-मात्र-रूपं,  
+> "समस्तेभ्यः परिच्छिन्न-स्वभावेभ्यः शिवान्तेभ्यः तत्त्वेभ्यो  
+> यद् उत्तीर्णम् अपरिच्छिन्न-संविन्-मात्र-रूपं,  
 > तद् एव च परमार्थः, तद् वस्तु-व्यवस्था-स्थानं, तद् विश्वस्य +ओजः,  
 > तेन प्राणिति विश्वम्,  
 > तद् एव च +अहम्,  
@@ -86,8 +92,10 @@ This is as follows:
 </details>
 
 ## संस्कृति-वारकाणि
-स च +अयं **मायान्धानां न उत्पद्यते** - सत्-तर्कादीनाम् अभावात् ।  
-वैष्णवाद्या हि तावन्-मात्र एव +++(वैष्णवाद्य्-)+++आगमे राग-तत्त्वेन नियमिता इति - न ऊर्ध्व-दर्शनेऽपि तद्-उन्मुखतां +++([क्: अप्युन्मुखतामिति पाठः ।])+++ भजन्ते। +++(5)+++  
+स च +अयं **मायान्धानां न उत्पद्यते** -  
++++(पूर्वोक्त-)+++सत्-तर्कादीनाम् अभावात् ।  
+वैष्णवाद्या हि तावन्-मात्र एव +++(वैष्णवाद्य्-)+++आगमे राग-तत्त्वेन नियमिता इति -  
+न ऊर्ध्व-दर्शनेऽपि तद्-उन्मुखतां +++([क्: अप्युन्मुखतामिति पाठः ।])+++ भजन्ते। +++(5)+++  
 ततः सत्-तर्क--सद्-आगम--सद्-गुरूपदेश-द्वेषिण एव ।  
 
 <details><summary>English</summary>
@@ -99,8 +107,8 @@ In this way, they show jealousy in regard to right reasoning, right scriptures (
 
 यथोक्तं पारमेश्वरे -
 
-वैष्णवाद्याः समस्तास् ते  
-+++(मित-)+++विद्यारागेण रञ्जिताः ।  
+> वैष्णवाद्याः समस्तास् ते  
++++(मित-)+++विद्या-रागेण रञ्जिताः ।  
 न विन्दन्ति परं तत्त्वं  
 सर्वज्ञ-ज्ञान-वर्जिताः  
 +++([ख्: सर्वज्ञं सर्वशक्तिकम् इति पाठः ।])+++ ॥
@@ -111,12 +119,12 @@ As it is said in the Parameśvara Āgama:
 
 All the Vaisnavas, etc., are restricted by their attachment to limited knowledge.  
 They fail to understand the nature of the supreme reality  
-only because they are devoid of knowledge.emerging from omniscience.
+only because they are devoid of knowledge emerging from omniscience.
 </details>
 
 इति।
 
-तस्मात् **शाम्भव-दृढ-शक्तिपाताविद्धा** एव  
+तस्मात् **शाम्भव-दृढ-शक्तिपाताऽऽविद्धा** एव  
 सद्-आगमादि-क्रमेण **विकल्पं संस्कृत्य**  
 **परं स्वरूपं प्रविशन्ति** ।
 
@@ -146,10 +154,11 @@ Therefore, only those keenly touched by the energy of Śiva, after following the
 </details>
 
 ## स्वरूपस्य विकल्पातीतता
-ननु इत्थं परं तत्त्वं विकल्प्य-रूपं स्यात् ?   
-मैवम् - विकल्पस्य द्वैताधिवास+++(=अध्यास)+++-भङ्ग-मात्रे चरितार्थस्वात्।  
+> ननु इत्थं **परं तत्त्वं विकल्प्य-रूपं** स्यात् ?   
+
+मैवम् - विकल्पस्य द्वैताधिवास+++(=अध्यास)+++-भङ्ग-मात्रे चरितार्थत्वात्।  
 **परं तत्त्वं** तु सर्वत्र सर्वरूपतया **स्वप्रकाशम्** एव +इति -  
-न तत्र विकल्पः कस्यैचित् उपक्रियायै खण्डनायै वा ।+++(5)+++
+न तत्र +++(परतत्त्वे)+++ विकल्पः कस्यैचिद् उपक्रियायै खण्डनायै वा ।+++(5)+++
 
 <details><summary>English</summary>
 
@@ -163,7 +172,7 @@ The forms of determinate knowledge are not capable of either lending any support
 
 तत्र +अति-दृढ-शक्ति-पाताविद्धस्य  
 स्वयम् एव सांसिद्धिकतया सत्तर्क उदेति।  
-योऽसौ **देवीभिः दीक्षित** इति उच्यते । 
+योऽसौ **देवीभिर् दीक्षित** इति उच्यते । 
 
 <details><summary>English</summary>
 
@@ -171,9 +180,7 @@ Right reasoning (sattarka) spontaneously arises in a person keenly touched by Ś
 
 </details>
 
-
-
-अन्यस्य आगमक्रमेण इत्यादि सविस्तरं शक्ति-पात-प्रकाशने वक्ष्यामः ।
+**अन्यस्य +आगम-क्रमेण** +इत्यादि सविस्तरं शक्ति-पात-प्रकाशने वक्ष्यामः ।
 
 <details><summary>English</summary>
 
@@ -181,18 +188,24 @@ In the case of others, the form of right reasoning arises by the study of script
 </details>
 
 
-किं तु गुरोर् आगम-निरूपणे व्यापारः।   
-आगमस्य च निःशङ्क-सजातीय-तत्-प्रबन्ध-प्रसव-निबन्धन-समुचित-विकल्पोदये व्यापारः। +++(5)+++   
+किं तु **गुरोर् आगम-निरूपणे** व्यापारः।   
+**आगमस्य** च  
+निःशङ्क--सजातीय--तत्-प्रबन्ध-प्रसव--निबन्धन-समुचित-**विकल्पोदये**  
+व्यापारः। +++(5)+++   
 
 <details><summary>English</summary>
 
 However, at this point it will suffice to say that the role of the teacher is to select an appropriate āgama text for a disciple to study.  
-The role of agama, on the other hand, is to give rise to the proper type of vikalpa (śuddha-vikalpa), which is instrumental in generating the series of homogeneous thoughts free from doubt.
+The role of agama, on the other hand, is to give rise to the proper type of vikalpa (śuddha-vikalpa),  
+which is instrumental in generating the series of homogeneous thoughts,  
+free from doubt.
 </details>
 
 ## सत्-तर्क-प्राधान्यम्
 तथा-विध-विकल्प-प्रबन्ध एव **सत्-तर्क** इति उक्तः।  
-स एव च **भावना** भण्यते - अस्फुटत्वात् भूतम् अप्य् अर्थम् अभूतम्+++(→वर्तमानम्)+++ इव स्फुटत्वापादनेन भाव्यते यया इति ।
+स एव च **भावना** भण्यते -  
+अस्फुटत्वाद् भूतम् अप्य् अर्थम् अभूतम्+++(→वर्तमानम्)+++ इव  
+**स्फुटत्वापादनेन भाव्यते** यया इति ।
 
 <details><summary>English</summary>
 
@@ -208,9 +221,10 @@ Through bhāvanā [^37] past objects (objects that have gone to rest in the past
 </details>
 
 
-**न** च अत्र **सत्-तर्कात्** शुद्ध-विद्या-प्रकाश-रूपाद् **ऋते**  
+**न** च +अत्र **सत्-तर्कात्** शुद्ध-विद्या-प्रकाश-रूपाद् **ऋते**  
 अन्यद् योगाङ्गं साक्षाद् **उपायः**  
-तपःप्रभृतेः नियम-वर्गस्य, अहिंसादेश् च यम-प्रकारस्य, पूरकादेः प्राणायाम-वर्गस्य, वेद्य-मात्र-निष्ठत्वेन क इव संविदि व्यापारः ।
+तपःप्रभृतेः नियम-वर्गस्य, अहिंसादेश् च यम-प्रकारस्य, पूरकादेः प्राणायाम-वर्गस्य।  
+वेद्य-मात्र-निष्ठत्वेन क इव संविदि व्यापारः ।
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -240,6 +254,7 @@ Therefore, what could be their role in regard to consciousness?
     The five under the group of self-restraint (yama) are: nonviolence, truthfulness, not stealing, restraining one's sexual urge, and non-acceptance of gifts. They are not considered to be the direct aid in attainment of consciousness. This is because the real nature of consciousness which is śiva is not touched by any of these means.
 </details>
 
+### अगृहीतोपायाः
 **प्रत्याहारो** ऽपि +++(ज्ञान-कर्मेन्द्रिय-रूप-)+++करण-भूमिम् एव सातिशयां कुर्यात्। 
 
 <details><summary>English</summary>
@@ -251,24 +266,27 @@ Even pratyaharā [^39] only renders excellence on the level of senses, that is, 
     Withdrawal of senses from the external objects and placing them in one's heart is known as pratyāhārā.+++(5)+++ However, for the consciousness which is all-pervasive, withdrawal is not possible.+++(5)+++ In the same way, concentration, meditation, and absorption (samadhi) are related to something which is limited. Therefore, they do not serve any purpose in attainment of the vision of that which is by nature unlimited.
 </details>
 
-**ध्यान-धारणा-समाधयो** ऽपि यथोत्तरम् अभ्यास-क्रमेण निर्वर्त्यमाना ध्येय-वस्तु-तादात्म्यं ध्यातुः वितरेयुः ।
+**ध्यान-धारणा-समाधयो** ऽपि  
+यथोत्तरम् अभ्यास-क्रमेण निर्वर्त्यमाना  
+ध्येय-वस्तु-तादात्म्यं ध्यातुः वितरेयुः ।
 
 <details><summary>English</summary>
 
 In the same way, dhāraṇā, dhyāna, and samadhi, if practiced gradually and in this particular order, could grant to the medita tor the identification with the object of his meditation.
 </details>
 
-
-
-**अभ्यासश्** च परे तत्त्वे शिवात्मनि स्वस्वभावे न सम्भवत्य् एव ।
+**अभ्यासश्** च परे तत्त्वे शिवात्मनि स्व-स्वभावे न सम्भवत्य् एव ।
 
 <details><summary>English</summary>
 
 However, meditation or practice on the supreme reality, which is identical with śiva and is one's own innate nature, is not at all possible.
 </details>
 
-संविद्-रूढस्य प्राण-बुद्धि-देह-निष्ठी-करण-रूपो हि **अभ्यासो** भारोद्वहन--शास्त्रार्थ-बोध--नृत्ताभ्यासवत्।  
-+++(किञ्च)+++ संविद्-रूपे तु न किञ्चिद् आदातव्यं, न +अपसरणीयम् इति कथम् +++(चित्रो)+++ अभ्यासः ।
+संविद्-रूढस्य +++(→अवगतविषयस्य)+++ प्राण-बुद्धि-देह-निष्ठी-करण-रूपो हि +**अभ्यासो**  
+भारोद्वहन--शास्त्रार्थ-बोध--नृत्ताभ्यासवत्।  
++++(किञ्च)+++ संविद्-रूपे तु न किञ्चिद् आदातव्यं,  
+न +अपसरणीयम् इति  
+कथम् +++(चित्रो)+++ अभ्यासः?
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -276,7 +294,6 @@ However, meditation or practice on the supreme reality, which is identical with 
 </details>
 
 <details><summary>English</summary>
-
 
 The practice of one who is established in consciousness is the process of steadily establishing prāṇa, intellect, and body in it.  
 This is not unike carrying a burden, studying the real meaning of śāstras, or practicing dance.  
@@ -288,40 +305,51 @@ In the case of consciousness, however, nothing can be added or taken away from i
     Practice is an activity which is performed consciously either in the vital energy, in the intellect, or in the body, etc. Lifting heavy loads, studying a text and continuous effort to understand its meaning, occupying oneself with dancing and music add confidence and later proficiency to the respective spheres. However, consciousness, having the nature of light, is ever shining and changeless. Therefore, practice does not add or take away anything from it. 
 </details>
 
-"+++(तथा सति)+++ किं तर्केणापि" इति चेत् - उक्तम् अत्र द्वैताधिवास-निरास-प्रकार एव +अयं, न तु +अन्यत् किञ्चिद् इति ।
+### अभ्यासाद् भेदः
+"+++(तथा सति)+++ किं तर्केणापि" +इति चेद् -  
+उक्तम् अत्र - द्वैताधिवास-निरास-प्रकार एव +अयं,  
+न तु +अन्यत् किञ्चिद् इति ।
 
 <details><summary>English</summary>
 
 Now the question arises: "If this is so, then what can be accomplished by right reasoning?” We have already answered this ques tion by saying that the role of right reasoning is only to remove the impressions of duality and nothing else whatsoever.
 </details>
 
-**लौकिके** ऽपि वा **अभ्यासे**   
-चिद्-आत्मत्वेन सर्वरूपस्य  
-तस्य तस्य देहादेः अभिमत-रूपता-प्रकटी-करणं   
-तद्-इतर-रूप-न्यग्-भावनं च +इति +एष एव अभ्यासार्थः ।
+**लौकिके** ऽपि वा +**अभ्यासे**,   
+चिद्-आत्मत्वेन सर्व-रूपस्य,  
++++(विकल्पानुसारेण)+++ तस्य तस्य देहादेः  
+अभिमत-रूपता-प्रकटी-करणं   
+तद्-इतर-रूप-न्यग्-भावनं च  
++इति +एष एव अभ्यासार्थः ।  
++++(स्वातन्त्र्यान् नात्र हेयरूपाणि गृहीतानि।)+++
 
 <details><summary>English</summary>
 
 As every thing is of the nature of consciousness, the main purpose of even ordinary practice is to create the desired form in the body, prāṇa, etc., and put the undesired form in a subordinated place.
 </details>
 
-परतत्त्वे तु न किञ्चिद् अपास्यम् इति +उक्तम् ।  
-द्वैताधिवासो ऽपि नाम न कश्चन पृथक्-वस्तुभूतः - अपि तु स्वरूपाख्याति-मात्रं तत्। अतो द्वैतापासनं विकल्पेन क्रियत इत्युक्तेः ।
+पर-तत्त्वे तु न किञ्चिद् अपास्यम् इति +उक्तम् ।  
+**द्वैताधिवासो** ऽपि नाम न कश्चन पृथग्-वस्तु-भूतः-  
+अपि तु **स्वरूपाख्याति-मात्रं** तत्।  
+
 
 <details><summary>English</summary>
 
 However, it has already been explained that nothing can be taken away from the supreme reality.  
-Even the impression of duality is not something different from consciousness. It is merely ignorance of one's own essential nature. Therefore, it was said that duality is removed by pure determinate thought (śuddha-vikalpa).
+Even the impression of duality is not something different from consciousness. It is merely ignorance of one's own essential nature. 
 </details>
 
-अयं परमार्थः - 
-
-स्वरूपं प्रकाशमानम् अख्याति-रूपत्वं स्वयं स्वातन्त्र्याद् गृहीतं  
-क्रमेण प्रोज्झ्य  
-विकासोन्मुखम्, अथ विकसत्, अथ विकसितम्, इत्यनेन क्रमेण प्रकाशते।+++(5)+++   
+अतो द्वैतापासनं विकल्पेन क्रियत इत्युक्तेः अयं परमार्थः -  
+**स्वरूपं** प्रकाशमानम्  
+**अख्याति-रूपत्वं** स्वयं +++(विकल्पेषु)+++ **स्वातन्त्र्याद् गृहीतं** क्रमेण **प्रोज्झ्य**  
+विकासोन्मुखम्,  
+अथ विकसत्,  
+अथ विकसितम्,  
+इत्यनेन क्रमेण **प्रकाशते**।+++(5)+++   
 
 <details><summary>English</summary>
 
+Therefore, it was said that duality is removed by pure determinate thought (śuddha-vikalpa).  
 The supreme essential nature has an innermost nature (svabhāva) that is self-shining, which assumes the state of ignorance through its own freedom.  
 Then gradually, by forsaking it, it first becomes intent on blossoming, then it begins to blossom, and finally it becomes fully blossomed.  
 Thus, by manifesting [literally 'shining'], following this sequential order, it manifests itself in its fullness.
@@ -329,24 +357,24 @@ Thus, by manifesting [literally 'shining'], following this sequential order, it 
 </details>
 
 तथा प्रकाशनम् अपि परमेश्वरस्य स्वरूपम् एव।  
-तस्मान् न +अत्र योगाङ्गानि साक्षात् उपायः ।
+तस्मान् **न** +अत्र +++(अभ्यासरूपाणि)+++ **योगाङ्गानि साक्षाद् उपायः** ।
 
 <details><summary>English</summary>
 
 This shining is the very nature of the Lord, and for that reason the limbs of yoga cannot be the direct means.
 </details>
 
-**सत्-तर्क** एव साक्षात् तत्र +उपायः। स एव च शुद्धविद्या।  
+**सत्-तर्क** एव साक्षात् तत्र +उपायः। स एव च शुद्ध-विद्या।  
 
 <details><summary>English</summary>
 
 However, reasoning (tarka) is of great importance here, and right reasoning (sattarka) alone is the direct means.
-
 </details>
 
 
 ## सत्तर्क-संस्कारः
-स +++(सत्-तर्कः)+++ च **बहु-प्रकारतया संस्कृतो** भवति। तद् यथा  - यागो होमो जपो व्रतं योग इति।
+स +++(सत्-तर्कः)+++ च **बहु-प्रकारतया संस्कृतो** भवति।  
+तद् यथा - यागो होमो जपो व्रतं योग इति +++(सद्-वचन-युक्ता हीमे)+++।
 
 <details><summary>English</summary>
 

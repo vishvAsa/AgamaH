@@ -909,6 +909,12 @@ which is free from determinate knowledge.
 
 For attaining this type of absorption, as in the case of anupāya,  
 there is no need whatsoever for adopting painful procedures such as the use of mantras, and other such practices.[^31] 
+
+
+[^31]:
+
+    If one is capable of merging his consciousness into the pure light of absolute consciousness through śāmbhava upaya,  
+    then assiduous tasks, such as bathing, religious observances (vrata), purification of the body, meditation, recitation of sacred syllables (mantras), sacrifice, or oblation into the fire are not required. 
 </details>
 
 
