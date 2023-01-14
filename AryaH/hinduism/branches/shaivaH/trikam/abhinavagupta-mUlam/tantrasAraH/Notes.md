@@ -9,10 +9,6 @@ NOTES 221
 
 
 
-[^27]:
-
-    The number of Kālikās is twelve. They are called Kālikās because they cause change through the process of mutation denoted by the word kalana. Cognition is nothing but the energy of the Lord on the pure level of consciousness. However, with emergence of māyā, differentiation sets in, with the result that reflective cognition (parāmarśa) descends down to the worldly level and assumes the character of syllables on the one hand and the principles (tattva) on the other. 
-
 [^28]:
 
     There are four levels of speech. They are parā, pasyanti, madhyamā, and vaikhari. For detailed account on the subject of four lev els of speech see Abhinavagupta's Parātrisikā. Vivarana. See also Padoux's Vāc: The Concept of the Word in Selected Hindu Tantras. 

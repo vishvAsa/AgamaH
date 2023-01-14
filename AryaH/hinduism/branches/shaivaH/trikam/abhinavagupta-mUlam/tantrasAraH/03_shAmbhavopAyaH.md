@@ -732,8 +732,9 @@ On the other hand, if that reality is cognized as being divided into consonants 
     The energy of emission (visarga) manifesting itself as individual cognitions appears as the universe. She, that is, śakti, is the cause, or the mother, of all sorts of gross words and sentences. In agamas it has two appellations; the one is called mātr̥ka and the other malinī. The former is the seed (bīja) and the latter is the recipient (yoni) of the seed. The one, when agitated, gives birth to diverse phonemes. All these phonemes, being the indicative sound, represent all thirty six principles (tattva), beginning with śiva and ending with the earth. 
 </details>
 
-## अष्टकादि-परामर्श-कलनम्
-पृथग् +++(वस्तुजात-)+++अष्टक-परामर्शे चक्रेश्वर+++(=केन्द्र)+++-साहित्येन नव-वर्गः।  
+### अष्टकादि-परामर्श-कलनम्
++++(पूर्वोक्तरीत्या - कुँ, चुँ, टुँ, तुँ, पुँ, य-र-लाः, शषसाः, व, ह इति)+++  
+पृथग् अष्टक-परामर्शे चक्रेश्वर+++(क्ष)+++-साहित्येन नव-वर्गः।  
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -745,8 +746,8 @@ On the other hand, if that reality is cognized as being divided into consonants 
 When that reality is cognized as eightfold parāmarśa along with cakreśvara (the letter kṣa), then it is divided into nine groups.
 </details>
 
-+++(प्रत्येकस्मिन्)+++ एकैक-परामर्श-प्राधान्ये पञ्चाशद्-आत्मकता ।  
-तत्रापि सम्भवद्-भाग-भेद-परामर्शने एकाशीति-रूपत्वम् ।
+एकैक-परामर्श-प्राधान्ये +++(अ-अः, व्यञ्जनानि, क्ष इति)+++  पञ्चाशद्-आत्मकता ।  
+तत्रापि सम्भवद्-भाग+++(=अर्धमात्रा??)+++-भेद-परामर्शने एकाशीति-रूपत्वम् ।
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -793,6 +794,18 @@ However, on account of expansion and contraction they become twelve and thus nou
 शक्तयो भगवत्यः **श्रीकालिका**  
 इति निरुक्ताः ।
 
+<details><summary>English</summary>
+
+All these śaktis of the Lord, being of the nature of reflecting cognitions, are known as Kālikās, [^27] divine goddesses. 
+
+[^27]:
+
+    The number of Kālikās is twelve. They are called Kālikās because they cause change through the process of mutation denoted by the word kalana. Cognition is nothing but the energy of the Lord on the pure level of consciousness. 
+
+    However, with emergence of māyā, differentiation sets in, with the result that reflective cognition (parāmarśa) descends down to the worldly level and assumes the character of syllables on the one hand and the principles (tattva) on the other.
+</details>
+
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 कलयन्ति क्रमन्त इति कालिकाः । यद्-उक्तम्
@@ -807,12 +820,34 @@ However, on account of expansion and contraction they become twelve and thus nou
 
 
 एते च शक्ति-रूपा एव  
-शुद्धाः परामर्शाः  
-शुद्ध-विद्यायां परापर-रूपत्वेन मायोन्मेष-मात्रसङ्कोचात् विद्याविद्येश्वररूपतां [क्: विद्येश्वरतारूपा मन्त्ररूपतामिति पाठः ।; ख्: विद्याविद्येश्वरबीजरूपा मन्त्ररूपतामिति पाठान्तरं च ।] भजन्ते । मायायां पुनः   
-स्फुटीभूतभेदविभागा मायीयवर्णतां भजन्ते ये   
-पश्यन्तीमध्यमावैखरीषु व्यावहारिकत्वम् [ख्: व्यवहारकारित्वमिति   
-पाठः ।] आसाद्य बहीरूपतत्त्वस्वभावतापत्तिपर्यन्ताः ते च मायीया   
-अपि शरीरकल्पत्वेन [मायीया वर्णा जीवरहितं शरीरमिव तेषां तु   
+शुद्धाः परामर्शाः,  
+शुद्ध-विद्यायां परापर-रूपत्वेन  
+मायोन्मेष-मात्र-सङ्कोचाद् +++(ईषद्-भाषात्वं विकल्पतां च प्राप्ताः)+++  
+विद्या-विद्येश्वर-रूपतां भजन्ते +++([क्: विद्येश्वरतारूपा मन्त्ररूपतामिति पाठः ।; ख्: विद्याविद्येश्वरबीजरूपा मन्त्ररूपतामिति पाठान्तरं च ।])+++ । 
+
+<details><summary>English</summary>
+
+These pure reflective cognitions are energies by nature, which on the level of pure knowledge (śuddhavidyā) appear as vidyā (mantra) and vidyesvara (mantreśvara), as supreme and nonsupreme[[66]] because of the limitation which was created by the slight emergence of māyā. 
+</details>
+
+
+मायायां +++(=भाषायां विकल्पे च)+++ पुनः   
+स्फुटी-भूत-भेद-विभागा  
+मायीय-वर्णतां भजन्ते,   
+ये पश्यन्ती-मध्यमा-वैखरीषु  
+व्यावहारिकत्वम् +++([ख्: व्यवहारकारित्वमिति पाठः ।])+++ आसाद्य,  
+बही-रूप-तत्त्व-स्वभावतापत्ति-पर्यन्ताः।   
+
+<details><summary>English</summary>
+
+However, they appear divided into distinctive groups and function as letters belonging to māyā. 
+
+When these syllables finally descend through the stages of pasyanti, madhyamā, and vaikharī [^28] and assume the nature of external categories, then they take on the role of worldly transactions.
+</details>
+
+
+ते च मायीया अपि  
+शरीर-कल्पत्वेन [मायीया वर्णा जीवरहितं शरीरमिव तेषां तु   
 परामर्शो जीव इवास्ति अन्यथा तेऽकिञ्चित्करा इति भावः ।] यदा दृश्यन्ते   
 यदा च तेषाम्
 
@@ -857,13 +892,7 @@ TANTRASĀRA 65
 
 
 
-All these śaktis of the Lord, being of the nature of reflecting cognitions, are known as Kālikās, 27 divine goddesses. These pure reflective cognitions are energies by nature, which on the level of pure knowledge (śuddhavidyā) appear as vidyā (man tra) and vidyesvara (mantresvara), as supreme and nonsupreme 
-
-66 TANTRASĀRA 
-
-because of the limitation which was created by the slight emer gence of māyā. However, they appear divided into distinctive groups and function as letters belonging to māyā. 
-
-When these syllables finally descend through the stages of pasyanti, madhyamā, and vaikharī 28 and assume the nature of external categories, then they take on the role of worldly transac tions. Although on this level they are syllables belonging to māyā and are seen as bodies (that is, devoid of life), when by means of the aforesaid ingenuity they are enlivened by pure reflective cog nitions, 29 which symbolize their very life, then they become invig orated. If they become invigorated, then they are capable of giv ing liberation and/or enjoyment. When one conceives oneself as the single resort of all possible reflective cognitions in which the entire multitudes of principles (tattvas), beings, and regions are reflected, one attains liberation while living through the absorp tion born of śambhu,30 which is free from determinate knowledge. For attaining this type of absorption, as in the case of anupāya, there is no need whatsoever for adopting painful procedures such as the use of mantras, and other such practices.31 
+ Although on this level they are syllables belonging to māyā and are seen as bodies (that is, devoid of life), when by means of the aforesaid ingenuity they are enlivened by pure reflective cog nitions, 29 which symbolize their very life, then they become invig orated. If they become invigorated, then they are capable of giv ing liberation and/or enjoyment. When one conceives oneself as the single resort of all possible reflective cognitions in which the entire multitudes of principles (tattvas), beings, and regions are reflected, one attains liberation while living through the absorp tion born of śambhu,30 which is free from determinate knowledge. For attaining this type of absorption, as in the case of anupāya, there is no need whatsoever for adopting painful procedures such as the use of mantras, and other such practices.31 
 
 
 The entire universe is shining on the clear inner core of the Self. The multifarious forms shine on the surface of the mirror, but the mirror is not aware of them. On the other hand, supreme consciousness, by means of continuous flow of its own delight of self-consciousness, reflects the universe. 
