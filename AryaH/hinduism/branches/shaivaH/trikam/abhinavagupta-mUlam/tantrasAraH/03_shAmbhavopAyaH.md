@@ -201,7 +201,7 @@ This śakti is the immanence of the Lord because She is the bearer of the reflec
 </details>
 
 विश्व-प्रतिबिम्ब-धारित्वाच् च **विश्वात्मकत्वं भगवतः**।  
-संविन्मयं हि विश्वं चैतन्यस्य व्यक्ति-स्थानम् इति,  
+संविन्मयं हि विश्वं +++(विभु-)+++चैतन्यस्य व्यक्ति-स्थानम् इति,  
 तद् एव हि विश्वम् अत्र +++(अस्मद्-अन्तरङ्ग-संविद्य् अपि)+++ प्रतीपम् इति   
 **प्रतिबिम्ब-धारित्वम्** अस्य।
 
@@ -448,14 +448,14 @@ Furthermore, this group of letters, “ऋ,” “ॠ," "ऌ" and "ॡ" are cons
 
 ### क्रिया- ए ओ ऐ औ
 अनुत्तरानन्दयोर् इच्छादिषु यदा प्रसरस्  
-तदा वर्णद्वयम् ए ओ इति । 
+तदा वर्णद्वयम् **ए ओ** इति । 
 
 <details><summary>English</summary>
 
 When the expansion of anuttara "a" or ānanda "ā” in the direction of icchā “i,” etc., takes place, then the two syllables “e" and "o" come into existence.
 </details>
 
-तत्रापि पुनर् अनुत्तरानन्द-सङ्घट्टाद् वर्ण-द्वयम् ऐ औ इति । 
+तत्रापि पुनर् अनुत्तरानन्द-सङ्घट्टाद् वर्ण-द्वयम् **ऐ औ** इति । 
 
 <details><summary>English</summary>
 
@@ -463,8 +463,8 @@ Then again, when these two syllables, "e" and "o,” are closely united (samghat
 </details>
 
 
-सा इयं **क्रियाशक्तिः**।  
-तद् एव च वर्णचतुष्टयम् - ए ऐ ओ औ इति ।
+सा +इयं **क्रियाशक्तिः**।  
+तद् एव च वर्ण-चतुष्टयम् - ए ऐ ओ औ इति ।
 
 <details><summary>English</summary>
 
@@ -565,37 +565,51 @@ At that very place where bindu rests in unsurpassed (anuttara), the "anuttara vi
 Thus, the aggregate of sixteen letters, which are seeds (bīja), are said to be the very nature of all reflective awarenesses (parāmarśa).
 </details>
 
-## योनयः
-तदुत्थं +++([ख्: तदुक्तमिति पाठः ।])+++ व्यञ्जनात्मकं योनिरूपम् ।
+### विकल्प-वस्तूनि, बाह्यानि
+तद्-उत्थं +++([ख्: तदुक्तमिति पाठः ।])+++ व्यञ्जनात्मकं  
++++(स्वर-शक्ति-स्वीकरणाद्)+++योनि-रूपम्   
++++(अस्मत्-सण्वुत्-स्तरे विकल्प-वस्तु-भूतम्, विभु-संवित्-स्तरे बाह्य-सृष्टि-रूपम्)+++ ।
 
 <details><summary>English</summary>
 
 The recipients (yoni), which are consonants, are born from that vi+sarga.
 </details>
 
-तत्र +अनुत्तरात् कवर्गः श्रद्धायाः,  
-इच्छायाः चवर्गः,  
-सकर्मिकाया इच्छाया द्वौ टवर्गस् तवर्गश् च,  
-उन्मेषात् पवर्गः।  
+तत्र +अनुत्तरात् **कवर्गः** श्रद्धायाः +++(धरादि-नभोन्तं भूतपञ्चकम्)+++,  
++++(अकर्मिकाया)+++ इच्छायाः **चवर्गः** +++(गन्धादि शब्दान्तं तन्मात्रपञ्चकम्)+++,  
+
+सकर्मिकाया इच्छाया द्वौ **टवर्गस्**+++(=पादादि-वागन्त-कर्मेन्द्रियपञ्चकम्)+++ **तवर्गश्** +++(=घ्राणादि-श्रोत्रान्तं-बुद्धिकरणपञ्चकम्)+++ च,  
+
+उन्मेषात् **पवर्गः** +++(=मनोऽहङ्कार-बुद्धि-प्रकृति-पुरुषाख्यं पञ्चकम्)+++।  
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-तथाहि
+तथा हि
 
-अकुलात्पदशक्त्यात्मा प्रथमो वर्ग उत्थितः ।   
-अनारूपितरूपाया इच्छायाश्च ततः परम् ॥
+> अकुलात् पद-शक्त्य्-आत्मा  
+प्रथमो वर्ग उत्थितः ।   
+अनारूपित-रूपाया  
+इच्छायाश् च ततः परम् ॥
+>
+> वह्नि-क्षमा-जुषस् तस्य  
+ट-ताद्यं च द्वयं ततः ।   
+पादिर् उन्मेषतो जात  
+इति स्पर्शाः प्रकीर्तिताः ॥
+>
+> इच्छा-शक्तिर् द्विधा या च  
+क्षुभिताक्षुभित-स्वतः ।   
+सा विजातीय-शक्त्यंशः  
+प्रोन्मुखे याति यत्र ताम् ॥
+>
+> सैव शीघ्रतरोपात्त-  
+ज्ञेया कालुष्यरूषिता ।   
+विजातीयोन्मुखत्वेन  
+रत्वं लत्वं च गच्छति ॥
+>
+> तद्-वद् उन्मेष-शक्तिर्  
+द्विरूपा वैजात्य-शक्ति-गा ।   
+वकारत्वं सृष्टि-सार-प्रवर्तकम् ॥   
 
-वह्निक्षमाजुषस्तस्य ट-ताद्यं च द्वयं ततः ।   
-षादिरुन्मेषतो जात इति स्पर्शाः प्रकीर्तिताः ॥
-
-इच्छाशक्तिर्द्विधा या च क्षुभिताक्षुभितस्वतः ।   
-सा विजातीयशक्त्यंशः प्रोन्मुखे याति यत्र ताम् ॥
-
-सैव शीघ्रतरोपात्तज्ञेया कालुष्यरूषिता ।   
-विजातीयोन्मुखत्वेन रत्वं लत्वं च गच्छति ॥
-
-तद्वदुन्मेषशक्तिर्द्विरूपा वैज्रात्यशक्तिगा ।   
-वकारत्वं सृष्टिसारप्रवर्तकम् ॥   
 इति मालिनीवार्तिके एव ।
 </details>
 
@@ -608,18 +622,18 @@ and from unmesa the "pa" group of letters is born.
 </details>
 
 
-शक्ति-पञ्चक-योगात् पञ्चकत्वम् ।
+शक्ति-पञ्चक+++(=??)+++-योगात् +++(प्रतिवर्गं)+++ पञ्चकत्वम् ।
 
 <details><summary>English</summary>
 
 It is because of being united with five śaktis that the five groups of letters are produced.
 </details>
 
-इच्छाया एव त्रिविधाया य-र-लाः,  
-उन्मेषात् वकारः,  
-इच्छाया एव त्रिविधायाः श-ष-साः,  
-विसर्गात् हकारः,  
-योनिसंयोगजः क्षकारः । 
+इच्छाया एव त्रिविधाया+++(=??)+++ **य-र-लाः**,  
+उन्मेषात् **वकारः**,  
+इच्छाया एव त्रिविधायाः+++(=??-)+++ **श-ष-साः**,  
+विसर्गात् **हकारः**,  
+योनि-संयोग-जः **क्षकारः** । 
 
 <details><summary>English</summary>
 
@@ -631,11 +645,15 @@ From visarga, "ha" is born,
 and the letter "kṣa" arises from the union of two consonants: "ha" and "sa."
 </details>
 
-## विसर्गशक्तिः
-इत्य् एवम् एष भगवान् अनुत्तर एव कुलेश्वररूपः ।  
-तस्य च एकैव कौलिकी विसर्गशक्तिः  
-यया आनन्द-रूपात् प्रभृति +इयता बहिःसृष्टिपर्यन्तेन  
-प्रस्पन्दतः वर्गादि-परामर्शा +++([क्: प्रसृताः ककारादि इति कवर्गादि इति च पाठः ।])+++ एव बहिस्-तत्त्व-रूपतां प्राप्ताः ।
+### विसर्ग-शक्तिः
+इत्य् एवम् एष भगवान् **अनुत्तर** एव +++(वर्ण-)+++कुलेश्वररूपः ।  
+तस्य च +एकैव कौलिकी **विसर्ग-शक्तिर्**,  
+यया आनन्द-रूपात्+++(→आकारात्)+++ प्रभृति  
++इयता बहिःसृष्टि-पर्यन्तेन  
+**प्रस्पन्दतः**  
+वर्गादि-परामर्शा  
++++([क्: "प्रसृताः ककारादि" इति "कवर्गादि इति च" पाठः ।])+++  एव  
+बहिस्-तत्त्व-रूपतां +++(अस्मद्-संविदि च विकल्प-वस्तु-रूपताम्)+++ प्राप्ताः।
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -644,8 +662,8 @@ and the letter "kṣa" arises from the union of two consonants: "ha" and "sa."
 चादि-ञान्तं गन्धादि शब्दान्तं तन्मात्रपञ्चकम्  
 टादि-णान्तं पादादि-वागन्त-कर्मेन्द्रियपञ्चकम्  
 तादि नान्तं घ्राणादि-श्रोत्रान्तं-बुद्धिकरणपञ्चकम्  
-षादि-मान्तं मनोऽहङ्कार-बुद्धि-प्रकृति-पुरुषाख्यं पञ्चकम्  
-वाद्यादिशब्दवाच्या यकारादयो वकारान्ता - राग-विद्या-कला-मायाख्यानि तत्त्वानि  
+पादि-मान्तं मनोऽहङ्कार-बुद्धि-प्रकृति-पुरुषाख्यं पञ्चकम्  
+वाद्यादि-शब्द-वाच्या यकारादयो वकारान्ता - राग-विद्या-कला-मायाख्यानि तत्त्वानि  
 धारणाख्यान्तराणि धारयन्ति पृथग्-भूततया ऽभिमानयन्तीति धारणानि इति ।
 </details>
 
@@ -661,16 +679,17 @@ Thus, the Lord who is supreme (anuttara) becomes the 'Lord of the group of lette
 
 
 
-स च एष विसर्गस्त्रिधा -   
-आणवः चित्त-विश्रान्ति-रूपः   
-शाक्तः चित्त-सम्बोध-लक्षणः  
-शाम्भवः चित्त-प्रलय-रूपः इति ।
+स च एष विसर्गस् त्रिधा -   
+आणवः चित्त-विश्रान्ति-रूपः +++(अस्मत्-संवित्-स्तरे विकल्प-पर्वसु)+++,   
+शाक्तः चित्त-सम्बोध-लक्षणः +++(अस्मत्-संवित्-स्तरे विकल्पोदये)+++   
+शाम्भवः चित्त-प्रलय-रूपः +++(अस्मत्-संवित्-स्तरे विकल्पान्ते)+++  
+इति ।
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 यद् उक्तम्
 
-पूर्वं विसृज्य सकलं  
+> पूर्वं विसृज्य सकलं  
 कर्तव्यं शून्यतानले ।   
 चित्त-विश्रान्ति-सञ्ज्ञोऽयम्  
 आणवः सम्प्रकीर्तितः ॥
@@ -682,8 +701,6 @@ Visarga is threefold, [^24] that is,
 āṇava, which is the restful state of citta;  
 śākta, characterized by the awakening of citta;  
 and sāmvabha, which is the dissolution of citta.
-
-
 
 [^24]:
 
@@ -698,10 +715,10 @@ and sāmvabha, which is the dissolution of citta.
     The third visarga is known as the dissolution of citta (cittapralaya) when all the distinctions of knowing subjects and objects are obliterated, and therefore shines as one with the subject of supreme consciousness. 
 </details>
 
-एवं विसर्ग एव विश्वजनने भगवतः शक्तिः ।  
-इत्येवम् इयतो +++([ख्: इयति इति पाठान्तरं च ।])+++ यदा निर्विभागतया +एव परामर्शः  
-तदा +एक एव भगवान्।  
-बीज-योनितया भागशः परामर्शे शक्तिमान् शक्तिश् च ।
+"एवं **विसर्ग** एव **विश्वजनने** भगवतः शक्तिर्"  
+इत्य् एवम् इयतो +++([ख्: इयति इति पाठान्तरं च ।])+++ यदा निर्विभागतया +एव परामर्शः  
+तदा +एक एव **भगवान्**  
+बीज-योनितया भागशः **परामर्शे शक्तिमान् शक्तिश् च** ।
 
 <details><summary>English</summary>
 
@@ -715,7 +732,7 @@ On the other hand, if that reality is cognized as being divided into consonants 
     The energy of emission (visarga) manifesting itself as individual cognitions appears as the universe. She, that is, śakti, is the cause, or the mother, of all sorts of gross words and sentences. In agamas it has two appellations; the one is called mātr̥ka and the other malinī. The former is the seed (bīja) and the latter is the recipient (yoni) of the seed. The one, when agitated, gives birth to diverse phonemes. All these phonemes, being the indicative sound, represent all thirty six principles (tattva), beginning with śiva and ending with the earth. 
 </details>
 
-पृथक् अष्टक-परामर्शे चक्रेश्वर-साहित्येन नववर्गः।  
+पृथग् अष्टक-परामर्शे चक्रेश्वर-साहित्येन नव-वर्गः।  
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -727,8 +744,8 @@ On the other hand, if that reality is cognized as being divided into consonants 
 When that reality is cognized as eightfold parāmarśa along with cakreśvara (the letter kṣa), then it is divided into nine groups.
 </details>
 
-एकैकपरामर्शप्राधान्ये पञ्चाशद्-आत्मकता ।  
-तत्रापि सम्भवद्-भाग-भेद-परामर्शने एकाशीतिरूपत्वम् ।
+एकैक-परामर्श-प्राधान्ये पञ्चाशद्-आत्मकता ।  
+तत्रापि सम्भवद्-भाग-भेद-परामर्शने एकाशीति-रूपत्वम् ।
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -738,7 +755,7 @@ When that reality is cognized as eightfold parāmarśa along with cakreśvara (t
 <details><summary>English</summary>
 
 Furthermore, if one cognizes that same reality placing the emphasis on each and every individual parāmarśa, then it is divided into fifty.  
-Finally, when that real ity is cognized as existing with possible subtle divisions, then the number becomes eighty-one.
+Finally, when that reality is cognized as existing with possible subtle divisions, then the number becomes eighty-one.
 </details>
 
 वस्तुतस्तु षड् एव +++(अ-ऊ इति)+++ परामर्शाः  
