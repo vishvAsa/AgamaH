@@ -12,5875 +12,11739 @@ To the lotus feet of my parents
 SHRIMATI INDRANI DEVI  
 SHRI BITHAL DASS 
 
-## 
+## 0
+
 ### PREFATORY NOTE 
+
 When I accepted the proposal of the publishers to contribute an introduction to the Tantraloka some time back, I welcomed the opportunity to reacquaint myself with the most towering personality of the medieval India. But, when face to face with the text, I could easily gather that it was a sheer case of overestimation of my capacities. In addition to other failings I was confronted with one very serious handi- cap. I did not know Italian into which R. Gnoli translated the Tantraloka.* This has remained a cons- tant drawback. Shortage of time was another major 
+
 * I am extremely thankful to Prof. Harvey P. Alper of the South- ern Methodist University, Dallas, Texas who very kindly provi- ded an English rendering of the table of contents from Gnoli's translation. I reproduce below the relevant portion of Prof. Alper's letter of the 15th July, 1983 verbatim- 
+
 "The most important thing to note about the introduction to the TA is that the vast bulk of it is drawn virtually verbatim from the earlier and longer introduction to the TS! Below I provide a table in which the left hand column lists the sub-sec- tions of the TA Introduction, the middle column lists the pages in Gnoli's translation where they appear, while the third column lists the pages from the Introduction to the TS from which they have been taken. Frankly I don't think that this speaks very well of Gnoli: did he have nothing new to say? does he really think that the TA is identical in all respects to the TS-in spite of the vast difference in length? 
+
 The bibliographical information on the TA translation is: Luce delle Sacre Scritture (Tantraloka) di Abhinavagupta (Classici delle religioni, sezione prima: le religions orientali) Torino: Unione Tipografico-editrice torinese, 1972. 
+
 viii 
+
 PREFATORY NOTE 
+
 handicap. As the Tantraloka is the magnum opus of Abhinavagupta, one of the greatest Indian encyclo- paedic thinkers of all times, all that I have been able to do is to touch the outer fringe alone of his great contribution. 
+
 The Tantraloka is both an inspiration and a chal- lenge for the students of the tantric lore. It is an indispensable guide and no study on tantra should 
+
 1. The Saivite Scriptures 
+
 11-14 
+
 2. Schools and Masters 
+
 15-19 
+
 3. Kashmiri masters and thinkers 
+
 of the 9th and 10th centuries 
+
 19-20 
+
 4. The school of recognition 
+
 20-21 
+
 5. Buddhist and grammatical 
+
 speculation 
+
 21-22 
+
 25-27 
+
 6. Light (prakāśa) and thought 
+
 (vimarśa) 
+
 22-24 
+
 27, 29-33 
+
 7. Will 
+
 24-25 
+
 33-36 
+
 8. The theory of images (abhäśa) 26-27 
+
 36-39 
+
 9. The I 
+
 27-31 
+
 29-40, 42-46 
+
 10. Language and mantra 
+
 31-33 
+
 47-49, 51-53 
+
 11. Maya and the divine powers 
+
 33-37 
+
 53-59 
+
 12. The authority of the holy 
+
 scriptures 
+
 37-40 
+
 59-63 
+
 13. The method of realization 
+
 40-42 
+
 63-67 
+
 14. The vital breath 
+
 43-44 
+
 67-70 
+
 15. The wheel (cakra) 
+
 45-46 
+
 70-71 
+
 16. Initiation (dikṣā) 
+
 46-48 
+
 81-83 
+
 17. The 36 principles 
+
 48-53 
+
 83-86, 86-88, 89." 
+
 Similarly Goudriaan's following remark about Gnoli's trans- 
+
 lation is quite illustrative- 
+
 "Trsl. into Italian by Raniero Gnoli; Luce delle Sacre Scrittu- rure, Torino 1972, a pioneer work of great merit, although the translator allowed himself too much freedom on some points, while in some cases he paraphrases Jayartha's comments without noticing the reader." 
+
 (Hindu Tantric and Sakta Literature, p. 162) 
+
 PREFATORY NOTE 
+
 ix 
+
 be deemed complete if it does not take the Tantra- loka into account. Written on very scientific prin- ciples it offers a most uptodate (of course till his period), extremely comprehensive and truly system- atic account of the tantric material and thereby offers a model for modern research. It also constitutes the most important single source of authentic tantric information and material. It poses an enormous chal- lenge when it comes to identify the sources cited and decide on their precise whereabouts and the issues involved. A detailed and critical study of the Tantra- loka is, therefore, desperately needed for which this Introduction cannot even be a poor substitute. However, being guided by Abhinava's own maxim1 that each small step forward brings us nearer the goal, an humble attempt is contemplated in the following pages. At the moment, besides Gnoli, there is only one study that addresses itself to the study of the Tantraloka proper. Since this study is limited to first three Āhnikas and does not examine other aspects than the philosophical, most of the Tantraloka re- mains practically unexplored. There are three other 
+
 1. ऊर्ध्वोर्ध्वमारुह्य यदर्थतत्त्वं धीः पश्यति श्रान्तिमवेदयन्ती । 
+
 फलं तदाद्यैः परिकल्पितानां विवेकसोपानपरम्पराणाम् ॥ चित्रं निरालम्बनमेव मन्ये प्रमेयसिन्धौ प्रथमावतारम् । तन्मार्गलाभे सति सेतुबन्धपुरप्रतिष्ठादि न विस्मयाय ॥ तस्मात्सतामत्र न दूषितानि मतानि तान्येव तु शोधितानि । पूर्वप्रतिष्ठापितयोजनासु मूलप्रतिष्ठाफलमामनन्ति ॥ 
+
 । 
+
 Abhinavabhārati on N.S. 6.31 
+
 2. The Philosophy of the Tantraloka in the First Three Ahnikas with translation into English, by Ira Bajpai, thesis submitted to the Lucknow University for Ph. D. Degree in 1971 (unpub- lished). 
+
 X 
+
 PREFATORY NOTE 
+
 studies' which merit special mention here. Pandey and myself have constantly dwelt on the Tantrāloka, but the whole exercise becomes of secondary impor- tance because it is Abhinavagupta or Krama system, as the case may be, that is being studied and not the Tantraloka and as such, only the relevant material is being referred to. For example, Pandey's mainstay are the 1st to 5th and 29th Ahnikas, while mine are the 1st, 4th, 13th and 30th. Goudriaan's obser- vations are important, but he takes up the Tantraloka for a very brief treatment. Recently a major work that has come to our notice is the Upodghata (Sans- krit introduction to the Luptagamasamgraha by B.V. Dwivedi). It comes as an appendix to the first two volumes of the Luptagamasamgraha which are the compilation of citations from the Agamas in various sources and has assumed the form of an introduction to the 2nd Volume. The Upodghata deals, inter alia, with the citations in the Tantraloka and the Tantra- lokaviveka. In the first part Dwivedi's perspective is 
+
 1. (i) K.C. Pandey 
+
 (ii) T. Goudriaan and S. Gupta 
+
 (iii) N. Rastogi 
+
 Abhinavagupta : An Historical and Philosophical Study (Abhi.), Chow- khamba, 2nd Edition, 1963. 
+
 Hindu Tantric And Säkta Literature (HTSL), A History of Indian Litera- ture Vol. II-Fasc 2, Wiesbaden, 1981. 
+
 Krama Tantricism of 
+
 Kashmir 
+
 (K.T.), Vol. I, Motilal Banarsidass, Delhi, 1979. 
+
 2. Cf. HTSL, pp. 5,20, 29, 37, 40 etc., 162. 
+
 3. The work was under print at the time of the writing of these lines. The proofcopy was supplied by the author. The Upod- ghata is being published by Sampurnanand Sanskrit University, Varanasi. 
+
 PREFATORY NOTE 
+
 xi 
+
 primarily historical while in the 2nd he deals with the doctrinal/theoretical issues in a wider tantric frame- work. Although the Tantraloka is not Dwivedi's im- mediate problem, his study throws sufficient light on many aspects particularly the historical one. We shall have occasion to refer to these works as and when necessary. 
+
 In this Introduction an attempt is made only to introduce the principal work. It should be treated as an elementary study of some of the material which appeared to me more important to begin with. I have taken special precaution to confine myself to the con- tents of the Tantraloka proper and allow the conclu- sions emerge on their own. How far I have succeeded in my efforts, it is for the scholars to judge. 
+
 The following pages that comprise the Introduc- tion actually constitute the Volume One of the ambitious eight-volume reproduction of the KSTS edition by the present publishers in a much enlarged form. During the course of printing it was felt by them that the Introduction, if published separately in the form of a book, might serve the needs of common readers better who otherwise would not immediately require the text or are already possessed of the original KSTS text. As the idea sounded reasonable, the Volume One is simultaneously being brought out as an independendent work. I had a keen desire to add one more chapter on the basic/agamic sources of the Tantraloka in the present volume, but the idea had to be abandoned for reasons of time and space. A monograph, to be published shortly, will take care of this desire. The present volume, nevertheless, incor- porates a detailed Kärika-wise table of contents in Sanskrit as Appendix 17 which has been divided 
+
 xii 
+
 PREFATORY NOTE 
+
 volume-wise in the reprinted edition of the Tantraloka 
+
 text. 
+
 Before proceeding further I must seek the reader's indulgence for certain inconveniences he is likely to be put to while wading through the pages of the present work. In between the appendices on texts, persons and systems certain words/references may be found common or overlapping leading to some sort of confusion. This has been unavoidable due to one of the following factors-(a) uncertainty about the precise status owing to incomplete data, (b) a word denoting not only a text but also a system or school, (c) a word standing for a person as well as a school. The reader is requested to kindly to bear this in mind. 
+
 As the new edition (text reprinted by MLBD) was not available when the printing of the Introduction began, all the reference to the text appearing here were made to the volumes of the KSTS edition. This however, would have turned vexatious for the reader of the new edition. It was, therefore, thought desi- rable and expedient to have references to both the editions e.g., KSTS as well as MLBD, so that the entire community of readers-those who possess the KSTS edition and those who own the MLBD one-- may be equally benefitted. All the relevant appen- dices, accordingly, have been re-done. Moveover, since this decision came when almost the entire Introduction (excluding the appendices) had already been printed, a table of conversion comprising Appendix-20 has been appended in order to facilitate the reader. This development has put the publi- cation somewhat behind the original time-schedute. 
+
 In the absence of a critically edited text (the editors of the enlarged reprinted edition have not attemptedxii 
+
 PREFATORY NOTE 
+
 volume-wise in the reprinted edition of the Tantraloka 
+
 text. 
+
 Before proceeding further I must seek the reader's indulgence for certain inconveniences he is likely to be put to while wading through the pages of the present work. In between the appendices on texts, persons and systems certain words/references may be found common or overlapping leading to some sort of confusion. This has been unavoidable due to one of the following factors-(a) uncertainty about the precise status owing to incomplete data, (b) a word denoting not only a text but also a system or school, (c) a word standing for a person as well as a school. The reader is requested to kindly to bear this in mind. 
+
 As the new edition (text reprinted by MLBD) was not available when the printing of the Introduction began, all the reference to the text appearing here were made to the volumes of the KSTS edition. This however, would have turned vexatious for the reader of the new edition. It was, therefore, thought desi- rable and expedient to have references to both the editions e.g., KSTS as well as MLBD, so that the entire community of readers-those who possess the KSTS edition and those who own the MLBD one-- may be equally benefitted. All the relevant appen- dices, accordingly, have been re-done. Moveover, since this decision came when almost the entire Introduction (excluding the appendices) had already been printed, a table of conversion comprising Appendix-20 has been appended in order to facilitate the reader. This development has put the publi- cation somewhat behind the original time-schedute. 
+
 In the absence of a critically edited text (the editors of the enlarged reprinted edition have not attempted 
+
 PREFATORY NOTE 
+
 xiii 
+
 a critical edition of the text for various reasons) some other problems have also surfaced. Under the "De- tailed Table of Contents" (Appendix 17), marking of numbers has been a difficult affair. Abhinava has scruplously adhered to what Jayaratha calls Sañcaya- nyaya (see pp. 76, 164 inside) even in between the individual Kärikäs. He usually introduces the next idea in the second half-verse. I have, therefore, followed the practice of the editors of the KSTS edition (retained by the editors of the reprinted edition as well) and have alluded to the subject-matter as being denoted by the existing printed numbering even if the idea has continued upto the first half of the next verse or has already exhausted itself in the second half of the preceding verse. The reader will kindly bear with the occasional over- or under-lapping of certain ideas which has been unavoidable under the circumstances. Exceptions have been made only when I was sure of the completion of an idea in the parti- cular Kärikä/s. In this context a further observation regarding the Detailed Table of Contents may be of some help. Here the basic thrust has been marked by twin objectives-one, it should give a precise idea of the content of the Kärika/s concerned and two, even a cursory peep into the Table should unravel the underlying thematic progression of the concepts independently of the text. An earnest effort has been made to secure both these ends but, in all fairness, it must be acknowledged that even the limited success has been far from easy to achieve. It is particularly true of the thirty-first Ahnika which has proved most enigmatic. 
+
 I have been increasingly conscious of the fact that this Introduction has turned out to be an introduc- 
+
 xiv 
+
 PREFATORY NOTE 
+
 tion to the study of the Tantraloka, instead of being an introduction to the text itself. In sum, the present endeavour has crystalized into a sort of more or less structural analysis and a groundwork, as it were, for more intensive future investigation in this area. 
+
 Before I wind up I must take this opportunity to thank Jain brothers (M/s. N.P. & J.P.), directors of M/s Motilal Banarsidass, for affording me an opportunity to pay once again my tribute to the all-time genius called Abhinavagupta and study a little bit of his magnum opus. I am deeply indebted to Prof. Braj Vallabha Dwivedi, the retired Head, Yoga & Tantra Department, Sampurnanand Sanskrit University, who was extremely generous in sending the proof-copy of his Upodghata to the Luptägama- samgraha. I am also thankful to him for discussing the proposed format and scope of the Introduction, although I am guilty of not using some of his suggestions with regard to the discussion on philoso- phical/doctrinal matters. My reasons for eschewing philosophical issues are simple. Something must be said over and above what has already been said by Pandey and other learned scholars. With the limited amount of time at my command it was not possible to make such a deep study as is demanded by philosophical and theoretical issues. I am indeed beholden to Thakur Jaidev Singh, a great authority of our times on Kashmir Saivism, for offering his valuable suggestions about the proposed direction and contents of the Introduction. Prof. H. P. Alper of the Southern Methodist University, USA has put me under a dept by discussing the proposed format and agenda of the Introduction and for finding time 
+
 PREFATORY NOTE 
+
 XV 
+
 to translate 'contents' of Gnoli's Introduction to his celebrated translation. In this context I am happy to record my appreciation of the kind gesture of Dr. Andre Padoux (Direetor, Centre National De La Recherche Scientifique, Paris) in presenting a copy of Naudou's valuable book to me. I must remember two more scholars with gratitude. It was Dr. Ashok Kumar Kalia's (my esteemed colleague in the Department of Sanskrit, Lucknow University) idea to furnish all available information in respect of the texts cited by Abhinava and Jayaratha. Dr. Mark Dyczkowski, then camping in India, made this work easier by allowing me to have a photostat copy of the relevant extracts from some of the MSS - catalogues, so assi- duously compiled by him. As a result the Appendix One was completely revised for which I once again thank these two friends. Dr. Kalia has also earned my gratitude for going through the entire Table of Contents (Viṣayānukramaņikā in Sanskrit) and sug- gesting various improvements. The list will remain incomplete without mention of my esteemed friends, Professors Harsh Narain (of late Visiting Professor of Philosophy, Aligarh University) and Kameshwar Nath Misra (Central Institute of Higher Tibetan Studies, Sarnath) and Dr. J. P. Sinha (my senior colleague in the Department of Sanskrit, Lucknow University) for maintaining sustained and construc- tive interest in the progress of the work. I also sincerely thank Drs. K.S. Pandey, H.S.B. Sinha and Sri K.M. Vishnoi for valuable secretarial assist- ance. Besides, I remember Dr. M. R. Yadav with affectionate gratitude for his manifold selfless cooperation. 
+
 This Introduction is now being humbly placed 
+
 xvi 
+
 PREFATORY NOTE 
+
 before the discerning judgement of the scholars for what it is worth with a citation from the Tantraloka itself: 
+
 अध्युष्टसंततिस्रोतःसारभूतसाहृतिम् । 
+
 विधाय तन्त्रालोकोऽयं स्यन्दते सकलान् रसान् ॥ 
+
 Lucknow, 
+
 Mahāsivaratri, '86. 
+
 (T.A. 36.45) 
+
 Navjivan Rastogi 
-CONTENTS 
+
+### CONTENTS 
+
 Prefatory Note 
+
 vii 
+
 Abbreviations 
+
 xxiv 
+
 Select Bibliography 
+
 xxvi 
+
 Chapter One: EXPLORING THE TANTRALOKA 
+
 (1-17) 
+
 I. Traditional Approach to the Tantraloka 
+
 1-4 
+
 (c) Săstra Grantha 
+
 II. Four Motives Behind the Composition 
+
 (a) Samgraha-Grantha 
+
 (b) Prakriya or Paddhati Grantha 
+
 (d) Stuti Grantha 
+
 4-12 
+
 4 
+
 5 
+
 9 
+
 11 
+
 III. Five Objectives Behind the Composition of the 
+
 Tantraloka 
+
 (a-i) Attainment of Bhairavahood 
+
 (a-ii) Propounding fourfold redemptive knowledge (b) Presenting the ultimate textual authority (c) Easy comprehension of the tantric wisdom (d) Restoration & preservation of the tradition 
+
 Chapter Two: ABOUT THE AUTHOR 
+
 12-17 
+
 12 
+
 12 
+
 14 
+
 15 
+
 15 
+
 (19-85) 
+
 1. Biographical Data 
+
 19-55 
+
 (a) Name 
+
 (b) Pupils, colleagues and family circle (c) Place of composition 
+
 19 
+
 22 
+
 26 
+
 (d) Time 
+
 Tabular chart 
+
 27 
+
 28 
+
 (f) Teachers 
+
 (e) Ancestors & parents 
+
 Tabular Chart of Abhinava's Family 
+
 (i) Mathikagurus & 
+
 28 
+
 32 
+
 32 
+
 34 
+
 (ii) Jñanagurus 
+
 34 
+
 Tabular Chart of his Teachers 
+
 54 
+
 xviii 
+
 CONTENTS 
+
 II. Works 
+
 III. Methodology 
+
 55-63 
+
 63-85 
+
 (a) Guiding principles of explanation 
+
 (b) Multi-tier handling of the source-material 
+
 64 
+
 66 
+
 (c) Interpretation and its norms 
+
 (d) Presentation: multi-ended style 
+
 (e) Purpose-oriented diction 
+
 (f) Presenting the esoteric matter 
+
 Chapter Three: ABOUT THE COMMENTATOR 
+
 72 
+
 75 
+
 83 
+
 83 
+
 (87-153) 
+
 (c) Personal achievements 
+
 I. Biographical Data 
+
 (a) Ancestral and preceptorial lineage and rich 
+
 parental heritage 
+
 Tabular View of His Two Genealogies 
+
 (b) Two groups of teachers: second group cast- 
+
 ing stronger formative influence 
+
 II. The Tantralokaviveka 
+
 (a) An extention of and supplement to the Tantraloka 
+
 (b) Title 
+
 (c) Fundamental motives 
+
 87-102 
+
 87 
+
 92 
+
 95 
+
 100 
+
 102-146 
+
 102 
+
 105 
+
 106 
+
 (i) Attainment of the Godhead 
+
 106 
+
 (ii) Resurrection of tradition 
+
 107 
+
 (iii) Restoration and preservation of the 
+
 Tantraloka 
+
 107 
+
 (iv) Furnishing chronological continuity 
+
 114 
+
 (d) Handling of the source material 
+
 115 
+
 (i) Four progressive phases and their several 
+
 dimensions 
+
 115 
+
 (ii) Material drawn upon by Abhinava 
+
 116 
+
 (iii) Pre-Abhinavan tantric material 
+
 125 
+
 (iv) Source material provided by the known 
+
 authors 
+
 128 
+
 (v) Post-Abhinavagupta tantric material: 
+
 general 
+
 129 
+
 (a) Jayaratha vs. Kṣemarāja. 
+
 130 
+
 (vi) Restoring tradition: fathoming inter se 
+
 relationship among Agamas 
+
 136 
+
 CONTENTS 
+
 (e) An exclusive guide to the Tantraloka 
+
 (i) Sevenfold assistance 
+
 (ii) Discharge of twin editorial obligations 
+
 xix 
+
 138 
+
 138 
+
 142 
+
 III. Methodology 
+
 146-153 
+
 (a) Guiding principles 
+
 146 
+
 (i) Conformity to Abhinava, teacher and 
+
 scripture 
+
 146 
+
 (ii) Thoroughness and authenticity 
+
 147 
+
 (iii) Absence of fascination for word-by-word 
+
 commentary: eight key factors 
+
 147 
+
 (iv) Fear of undue extension and deviation 
+
 from the original line 
+
 149 
+
 (b) Differences from Abhinava & deviation 
+
 from the original line 
+
 151 
+
 Chapter Four: ABOUT THE TEXT 
+
 (155-243) 
+
 I. KSTS Edition: Editorial and Printing lapses 
+
 Tabular View 
+
 155-167 
+
 156 
+
 (a) Two types of textual anarchisms 
+
 160 
+
 (b) Basic MSS of the KSTS edition 
+
 160 
+
 (c) Printing mistakes 
+
 162 
+
 (d) Numbering errors 
+
 164 
+
 II. Metres Employed 
+
 167-168 
+
 III. Topical Organisation and Structural Analysis 
+
 168-196 
+
 (a) Division into Ahnikas 
+
 168 
+
 (b) Three devices to indicate subject matter 
+
 169 
+
 (c) Division of Ahnikas into groups 
+
 171 
+
 (d) demarcation of the primary and secondary topics 
+
 Tabular View 
+
 173 
+
 174 
+
 (e) Treatment of ancillary topics 
+
 187 
+
 (f) Three broad divisions of the text and other 
+
 schematisation by Jayaratha 
+
 191 
+
 (g) Non-organisation of the Tantraloka into 
+
 Jñana, Yoga, Kriya and Caryā 
+
 195 
+
 IV. Cross-references: A Collateral Source of Thematic 
+
 Organisation 
+
 196-243 
+
 XX 
+
 (a) First Ahnika 
+
 CONTENTS 
+
 197 
+
 (b) Second Ahnika 
+
 200 
+
 (c) Third Ahnika 
+
 201 
+
 (d) Fourth Ahnika 
+
 (e) Fifth Ahnika 
+
 (f) Sixth Ahnika (g) Seventh Ähnika 
+
 (h) Eighth Ahnika 
+
 (i) Ninth Ahnika 
+
 (j) Tenth Ahnika 
+
 (k) Eleventh Āhnika 
+
 203 
+
 206 
+
 207 
+
 211 
+
 211 
+
 214 
+
 218 
+
 219 
+
 (1) Twelfth Ahnika 
+
 220 
+
 (m) Thirteenth Āhnika 
+
 221 
+
 (n) Fourteenth Ahnika 
+
 225 
+
 (0) Fifteenth Āhnika 
+
 225 
+
 (p) Sixteenth Ahnika 
+
 229 
+
 (q) Seventeenth Āhnika 
+
 230 
+
 (r) Eighteenth Ahnika 
+
 231 
+
 (s) Nineteenth Āhnika 
+
 231 
+
 (t) Twentieth Ahnika 
+
 232 
+
 (u) Twentyfirst Ahnika 
+
 232 
+
 (v) Twentysecond Ahnika 
+
 233 
+
 (w) Twentythird Ahnika 
+
 233 
+
 (x) Twentyfourth Ahnika 
+
 234 
+
 (y) Twentyfifth Ahnika 
+
 234 
+
 (z) Twentysixth Ahnika 
+
 234 
+
 (aa) Twentyseventh Āhnika 
+
 235 
+
 (bb) Twentyeighth Ahnika 
+
 235 
+
 (cc) Twentyninth Āhnika 
+
 236 
+
 (dd) Thirtieth Ahnika (ee) Thirtyfirst Ähnika (ff) Thirtysecond Ahnika 
+
 239 
+
 240 
+
 240 
+
 (gg) Thirtythird Ahnika 
+
 241 
+
 (hh) Thirtyfourth Āhnika 
+
 242 
+
 (ii) Thirtyfifth Ahnika 
+
 242 
+
 (jj) Thirtysixth & Thirtyseventh Ahnikas 
+
 242 
+
 CONTENTS 
+
 xxi 
+
 Chapter Five: AGENDA FOR FUTURE RESEARCH (245-252) 
+
 APPENDICES 
+
 1. Texts referred to by name in the Tantraloka 2. Persons referred to by name in the Tantraloka 3. Systems/major doctrines referred to by name in 
+
 the Tantraloka 
+
 (253-589) 253-264 
+
 265-269 
+
 270-274 
+
 4. Implied or incomplete textual references in the Tantraloka as identified and/or completed by Jaya- 
+
 ratha 
+
 275-279 
+
 5. Texts named and also quoted and sometimes ex- 
+
 plained by Abhinavagupta 
+
 280-284 
+
 (a) Directly quoted 
+
 280 
+
 (b) Indirectly cited 
+
 (c) Quoted partly directly and partly indirectly (d) Quoted and explained 
+
 280 
+
 284 
+
 284 
+
 6. Persons named and also quoted by Abhinavagupta 7. Systems impliedly referred to in the Tantraloka 
+
 and identified by Jayaratha 
+
 285 
+
 286-287 
+
 8. Implied personal references in the Tantraloka as 
+
 identified by Jayaratha 
+
 288-290 
+
 9. Textual references in the Tantraloka-citations 
+
 traced/identified by Jayaratha 
+
 291-298 
+
 10. Personal references in the Tantraloka-citations 
+
 traced/identified by Jayaratha 
+
 299 
+
 11. First personal references in the Tantraloka 
+
 300-301 
+
 12. Agamas forming one group on specific issues in 
+
 the Tantraloka 
+
 302-304 
+
 13(A) Texts named and/or quoted by name by Jaya- 
+
 ratha in the Tantralokaviveka 
+
 305-323 
+
 13(B) Sixtyfour Bhairava Tantras and their eightfold classification in the groups of 8 each in the Sri- kanthi as referred to by Jayaratha 
+
 324-325 
+
 14. Persons named and or quoted by Jayaratha in the 
+
 Tantralokaviveka 
+
 326-341 
+
 15. Systems/major doctrines referred to by name by 
+
 Jayaratha in the Tantralokaviveka 
+
 342-354 
+
 16. Unspecified citations/references in Jayaratha 
+
 355-414 
+
 17. Detailed table of contents of the Tantraloka in 
+
 Sanskrit ( विषयानुक्रमणिका) 
+
 415-556xxii 
+
 CONTENTS 
+
 प्रथममाह्निकम् 
+
 415 
+
 द्वितीयमाह्निकम् 
+
 419 
+
 तृतीयमाह्निकम् 
+
 420 
+
 चतुर्थ माह्निकम् 
+
 पंचममाह्निकम् 
+
 426 
+
 432 
+
 षष्ठमाह्निकम् 
+
 436 
+
 सप्तममाह्निकम् 
+
 443 
+
 अष्टममाह्निकम् 
+
 445 
+
 नवममाह्निकम् 
+
 453 
+
 दशममाह्निकम् 
+
 462 
+
 एकादशमाह्निकम् 
+
 469 
+
 द्वादशमाह्निकम् 
+
 472 
+
 वयोदशमाह्निकम् 
+
 473 
+
 चतुर्दशमाह्निकम् 
+
 483 
+
 पंचदशमाह्निकम् 
+
 484 
+
 पोडशमाह्निकम् 
+
 500 
+
 सप्तदशमाह्निकम् 
+
 507 
+
 श्रष्टादशमाह्निकम् 
+
 510 
+
 एकोनविंशमाह्निकम् 
+
 511 
+
 विशतितममाह्निकम् 
+
 512 
+
 एकविंशतितममाह्निकम् 
+
 513 
+
 द्वाविंशतितममाह्निकम् 
+
 514 
+
 त्रयोविंशतितममाह्निकम् 
+
 516 
+
 चतुर्विंशतितममाह्निकम् पंचविंशतितममाह्निकम् 
+
 518 
+
 519 
+
 षड्विंशमाह्निकम् 
+
 520 
+
 सप्तविंशतितममाह्निकम् 
+
 522 
+
 अष्टाविशमाह्निकम् 
+
 523 
+
 एकोनत्रिंशमाह्निकम् 
+
 534 
+
 विशमाह्निकम् 
+
 542 
+
 एकत्रिंशमाह्निकम् द्वात्रिंशमाह्निकम् त्रयस्त्रिंशमाह्निकम् चतुस्त्रिंशमाह्निकम् 
+
 545 
+
 548 
+
 550 
+
 551 
+
 CONTENTS 
+
 xxiii 
+
 पंचतिमाह्निकम् 
+
 551 
+
 षट्त्रिंशमाह्निकम् 
+
 553 
+
 सप्तत्रिंशमाह्निकम् 
+
 554 
+
 18. Word-index (to the Introduction) 
+
 557-572 
+
 19. Corrections 
+
 573-574 
 
+
+
 20. Table of conversion of references appearing within the 
+
 Introduction to the Tantraloka from the KSTS edition 
+
 to the MLBD edition of the Tantralokaviveka 
+
 575-589 
+
 Abhi. 
+
 A. Bh. Ah. Comm. 
+
 Dh. L. 
+
 H.T.S.L. 
+
 I.P.K. 
+
 I.P.K.V. 
+
 I.P.V. 
+
 I.P.V. (Bh.) 
+
 I.P.V.V. 
+
 J.M.V. 
+
 K.M. 
+
 K.S. 
+
 K.T. 
+
 M.M.P. 
+
 K.S.S./K.S.T.S. 
+
 M.P. (T) 
+
 M.S./MSS M.V.T. 
+
 M.V.V. 
+
 Nagarajan 
+
 N.S. 
+
 N.S.T. 
+
 Philosophy 
+
 P.T. 
+
 P.T.V. 
+
 Sp.K. S.T. 
+
 SV.T/Sv.T 
-ABBREVIATIONS 
+
+### ABBREVIATIONS 
+
 Abhinavagupta: An Historical and Philoso- phical Study 
+
 Abhinava-bhārati Ahnika 
+
 Commentary 
+
 Dhvanyaloka-locana 
+
 Hindu Tantric and Säkta Literature 
+
 Isvara-pratyabhijñā-kārikā 
+
 Isvara-pratyabhijñā-kärikä-vivṛti Iśvara-pratyābhijñā-vimarśini 
+
 Bhaskari on Isvara-pratyabhijña-vimarsini 
+
 Isvara-pratyābhijñā-vivṛti-vimarsini 
+
 Janma-marana-vicara 
+
 Kavyamālā 
+
 Kashmir Saivism 
+
 Kashmir Series of Texts & Studies 
+
 Krama Tantricism of Kashmir: Vol. I 
+
 Mahārtha-mañjari-parimala 
+
 Mahanaya-prakāśa (Trivendrum Sanskrit Series) 
+
 Manuscript/s 
+
 Mälini-vijayottara-tantra 
+
 Malini-vijaya-vārtika 
+
 Contribution of Kashmir to Sanskrit Litera- 
+
 ture (by K.S. Nagarajan) 
+
 Natya Sastra 
+
 Nitya-ṣoḍaśikārṇava (-tantra) 
+
 The Philosophy of the Tantraloka in the First Three Ahnikas with Translation into 
+
 English 
+
 Para-trimśikā or Para-triśikā 
+
 Para-trimśikä-vivarana 
+
 Spanda-kärikä 
+
 Śärada-tilaka (-tantra) 
+
 Svaccanda-tantra 
+
 SV.T.U./S.T.U. 
+
 T.A. 
+
 T.A.V. 
+
 T.S. 
+
 Tă.Sä. 
+
 T.V.D. 
+
 Upodghata 
+
 V.M.V. 
+
 ABBREVIATIONS 
+
 Svaccanda-tantra-uddyota 
+
 Tantraloka 
+
 Tantraloka-viveka 
+
 Tantra-sära 
+
 Tantrika Sahitya 
+
 Tantra-vaṭa-dhānikā 
+
 Upodghata to the Luptagamasaṁgraha Vämakeśvari-mata-vivarana 
+
 XXV 
-SELECT BIBLIOGRAPHY 
+
+### SELECT BIBLIOGRAPHY 
+
 Abhinavagupta (1) Abhinavabharati (A. Bh.), a commentary on the Natya Sastra, Vol. I, ed. Ramkrishna Kavi, 2nd edition, Baroda, 1956. 
+
 Bajpai, Ira 
+
 Dwivedi, B. V. 
+
 Gnoli, R. 
+
 Gonda, Jan 
+
 (ii) Malini-vijayottara-vārtika, ed. M. S. Kaul, 
+
 KSTS No. XXXI, 1921. 
+
 (iii) Paramarthasara, with Vivṛti by Yogaraja, ed. 
+
 J. C. Chatterji, KSTS No. VII, 1916. 
+
 (iv) Parātrimśika-vivarana (P.T.V.), ed. M. R. 
+
 Shastri, KSTS No. XVIII, 1918. 
+
 (v) Tantrasara (T.S.), ed. M.R. Shastri, KSTS 
+
 No. XVII, 1918. 
+
 (vi) Tantraloka, with 'Viveka' by Jayaratha, 12 volumes (Part I ed. by M.R. Shastri and Parts II-XII ed. by M. S. Kaul), KSTS, 1918-1938. (vii) Tantravaṭadhānikā, ed. M. R. Shastri, KSTS 
+
 No. XXIV, 1918. 
+
 The Philosophy of the Tantraloka in the First Three Ahnikas with Translation into English, doctoral thesis submitted to the Lucknow University, 1971 (unpublished). (i) Upodghata (Upodghata) to the Luptagama- samgraha, Vol. II, S. Sanskrit University, Varanasi, 1984. 
+
 (ii) Upodghata to the Nityaṣoḍaśikārṇava with two commentaries-Ṛjuvimarsini and Artha- ratnavali, S. Sanskrit University, Varanasi, 1968. 
+
 (i) Luce delle Sacre Scritture (Tantraloka) di Abhinavagupta, translated into Italian with Introduction, Torino, 1972. 
+
 (ii) Essenza dei Tantra, translation of the Tantrasara with notes in Italian, with a long introduction by R. Gnoli, Torino, 1960. Medieval Religious Literature in Sanskrit (A History of Indian Literature Vol. II), Wiesbaden, 1977. 
+
 Goudriaan, T. and gupta, S. 
+
 Jayaratha 
+
 Kane, P. V. 
+
 Kaviraj, G. N. 
+
 Misra, K. K. 
+
 Nagarajan, K. S. 
+
 Naudou, Jean 
+
 Pandey, K. C. 
+
 Pathak, V. S. 
+
 Raghavan, V. 
+
 Rastogi, N. 
+
 SELECT BIBLIOGRAPHY 
+
 xxvii 
+
 Hindu Tantric and Säkta Literature [HTSL] (A History of Indian Literature Vol. II- Fase 2), Wiesbaden, 1981. 
+
 Vämakeśvarimata-vivarana, ed. M.K. Shastri, KSTS No. LXVI, 1945. 
+
 The History of Sanskrit Poetics (published together with the Sahityadarpana of Viśva- natha), 3rd edition, Bombay, 1951. 
+
 Tantrika Sahitya (Ta. Sã.), Hindi Samiti, Lucknow, 1972. 
+
 Significance of the Tantric Tradition, Varanasi, 1981. 
+
 Mālinīvijayottara Tantra, ed. M. S. Kaula, KSTS No. XXXVII, 1922. 
+
 Contribution of Kashmir to Sanskrit Litera- ture (contribution), doctoral thesis submitted to the University of Poona, 1961 (unpubli- shed).* 
+
 Buddhists of Kashmir, translated from French into English by Brereton & Picron, Delhi, 1980. 
+
 Abhinavagupta: An Historical and Philoso- phical Study (Abhi.), 2nd revised edition, Varanasi, 1963. 
+
 History of Saiva Cults in Northern India (From Inscriptions 700 A.D. to 1200 A.D.), ed. G. C. Pandey, Allahabad, 1980. Pratisthālakṣaṇasarasamuccaya, 
+
 ed. 
+
 Damodar Sharma, two volumes, Nepal, Sam-2023. 
+
 (i) Abhinavagupta and His Works, Varanasi- 
+
 Delhi, 1981. 
+
 (ii) New Catalogus Catalogorum, Vols. I-XI, 
+
 University of Madras, 1935-82. 
+
 (i) The Krama Tantricism of Kashmir (K.T.), 
+
 *While these lines were under print we came to learn from Dr. Kosellya Walli, University of Jammu, that the work has since been published by the author. 
+
 xxviii 
+
 Silburn, L. 
+
 SELECT BIBLIOGRAPHY 
+
 Vol. I (Historical and General Sources), Delhi, 1979. 
+
 (ii) Abhinavagupta Ke Stotra: Eka Adhyayana, dissertation submitted to the Lucknow Uni- versity for partial completion of postgraduate course, 1959 (unpublished). 
+
 Yogin, Madhurāja 
-CATALOGUES 
+
+#### CATALOGUES 
+
 Le Paramarthasara de Abhinavagupta, Tran- slation into French with Introduction, Paris, 1979. 
+
 Svacchanda Tantra (SV.T), with Uddyota by Kṣemarāja (SV.T.U.), 6 volumes (Vol. 5 in two parts), KSTS, 1921-35. 
+
 Gurunatha-Paramarśa, 
+
 (i) ed. P. N. Pushp, published in Kashmir Research Bi-annual, Vol. I, Srinagar, 1960 (later published as KSTS No. 85); 
+
 (ii) ed. V. Raghavan, included in his "Abhinava- 
+
 gupta and His works". 
+
 An Alphabetical List of Manuscripts in the Oriental Institute, Baroda, ed. R.N. Shiro- mani, two vols., GOS XCVII & CXIV, Baroda, 1942/1950. 
+
 Aryabhașă Pustakalaya Nagari Pracāriņi Sabhā Kāśī Mem Upalabdha Hastalikhita Samskṛta-granthasuci, ed. S. Pandey, K. Tripathi and M Tewari, IInd Vol., Varanasi, 1967. 
+
 Bharatiya Itihasa Samsodhaka-Mandalasthā Hastalikhitagranthanukramaņikā, ed. Khare K.H. Ganesh, Shivajinagar, 1960. 
+
 Catalogue of Sanskrit Manuscripts in the Raghunath Temple Library of His Highness the Maharaja of Jammu and Kashmir, ed. M.A. Stein, Bombay, 1894. 
+
 SELECT BIBLIOGRAPHY 
+
 xxix 
+
 A Catalogue of Palm Leaf and Selected Paper Manuscripts belonging to the Darbar Library, Nepal, ed. H.P. Sastri and C. Bendall, two volumes, Calcutta 1905, 1908. 
+
 Catalogue of the Sanskrit MSS in the Sans- krit College Library, Benaras, 1911 Section). 
+
 antra 
+
 Catalogue of VVRI Manuscript Collection, two parts, ed. Viśvabandhu and others, Hoshiarpur, 1960. 
+
 A Catalogue of Sanskrit and Prakrit Manus- cripts in the Rajasthan Oriental Research Institute (Jodhpur Collection), ed. Muni Jina Vijaya, Jodhpur, 1963. 
+
 Catalogue of Sanskrit Manuscripts in the Punjab University Library, Vol. I, (Sections VIII-IX), 1932. 
+
 A Descriptive Catalogue of the Sanskrit Manuscripts in the Collections of the Royal Asiatic Society of Bengal, Vol. VIII, Pts. I & II, ed. Chintaharana Chakravarti, Calcutta, 1938, 1940. 
+
 Descriptive Catalogue of Raj Manuscripts preserved in the Kameshwar Singh Sanskrit University Library, Darbhanga, ed. B.R. Sarma, Darbhanga, 1969. 
+
 A Descriptive Catalogue of the Sanskrit Manuscripts in the Private Library of His Highness Srirajarajeśvara Mahārājādhirāja Mahārājā Sri Harisinghji Bahadur of Jammu and Kashmir, ed. Ramcanda Kāk and Nowa- bhatta Shastri, Poona, 1927. 
+
 XXX 
+
 SELECT BIBLIOGRAPHY 
+
 Descriptive Catalogue of the Sanskrit Manus- cripts in the Government Oriental Manus- cripts Library, Madras, Vols. X & XII-XV, Madras, 1910-1913. 
+
 A Descriptive Catalogue of the Government Collection of Manuscripts deposited at the Bhandarkar Oriental Research Institute, ed. H.D. Sharma, Vol. XVI, Pt. II, Poona, 1976. 
+
 A Descriptive Catalogue of the Sanskrit Manuscripts in the Tanjore Maharaja's Sarfoji's Saraswati Mahal Library, ed. P.P.S. Sastri, Srirangam, Vols. XVIII-XIX. 
+
 A Descriptive Catalogue of Sanskrit Manus- cripts in the Curator's Office Library, Trivendrum, Vol. V, ed. by K. Mahadeva Sastri; Vol. VI, ed. by P.K. Narain Pillai, Trivendrum, 1939-40. 
+
 Descriptive Catalogue of Sanskrit Manus- cripts in the Gaekwad Library, Bharata Kala Bhavan and Sanskrit Mahavidyalaya Library, Banaras Hindu University, Vol. VI, ed. R.S. Tripathi, Varanasi, 1971. 
+
 Śrinepālaräṣṭriyābhilekhalayasthä 
+
 Hasta- 
+
 likhitapustakānām Bṛhacchūcipatram, ed. Buddhisagar Sharma, Vol. IV (in two parts), Kathmandu, 1964-1969. 
-## EXPLORING THE TANTRALOKA 
+
+## 1 EXPLORING THE TANTRALOKA 
+
 Strange as it may appear, the Tantraloka happens to be the only major 'original' work of Abhinava while his all other important works1 come to us in the form of a commentary on some earlier valuable text notwithstanding his own description of the Tan- trāloka as a gloss, as we shall see in the sequel. 
+
 (i) Traditional Approach to the Tantraloka 
+
 A peep into and a look around the Tantraloka off- ers many illuminating insights. Towards twelfth cen- tury Śivananda, the author of the Rjuvimarsini, refers to it as the Trika-śästra or Trika-saraśāstra" and the verses cited are traceable to the published edition of the Tantraloka. It, therefore, appears that by that time it came to be regarded as the most representative text of Trika system. Kṣemarāja, the illustrious pupil of Abhinavagupta, talks of two characteristics of the text. One, it was composed in the state of Absolutic trance and other, it is a key to the secrets of entire 
+
 1. Abhinava's other major works include A.Bh. (Comm. on the N.S.), I.P.V (Comm. on I.P.K.), I.P.V.V. (Comm. on the I.P.K.V.) and Locana (Comm. on the Dh. L.). 
+
 2. तदुक्तं श्रीत्रिकशास्त्रे | NST with Rjuvimarśinī and Artharatnāvali, ed. B.V. Dvivedi, Varanasi, p. 19. The verses quoted are traceable to T.A. 3.94-95. 
+
 3. agafara Ibid., pp. 138-139. The verses are traceable to T.A. 15.285-287. 
+
 4. परभैरवस्फारमयैरस्मद्गुरुभिरपि तन्त्रालोके । S. T.U., I, pp. 39-40 
+
 12 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 agamic literature. In the Tantrasāra, Abhinavagupta invariably describes the Tantraloka as a detailed treatise and asks the author to turn for detailed dis- cussion of the problem to the latter which incorpo- rates all the prescriptive and negative injunctions emanating not only from Vedic but from Saiva, Tan- tra and Trika sources also. The view has been con- sistently hammered again and again." According to the Tantrasāra, the Tantraloka was not only a reposi- tory of agamic lore but a critical text which minutely recorded even internal and mutual divergences. Thus the image of the Tantrāloka as a single, extra-com- prehensive and authoritative source book appears to have been projected by Abhinavagupta himself. The central theme of the Tantraloka, according to Abhi- navagupta in his Locana, however revolves round 
+
 1. यदुक्तमस्मद्गुरुभिः अशेषागमोपनिषदालोके तन्त्रालोके । 
+
 Ibid., III, p. 268 
+
 2. तस्मात् वैदिकात् प्रभृति पारमेश्वरसिद्धान्ततन्त्रकुलोच्छुष्मादिशास्त्रोक्तो- ऽपि यो नियमों विधिः वा निषेधो वा तथैव च उक्तं श्रीपूर्वादी वितत्य तन्त्रालोकात् अन्वेष्यम् । 
+
 3. वितत्य चैतत् निर्णीतं तन्त्रालोके । 
+
 4. 
+
 ** 
+
 T.S., p. 32 Ibid, p. 97 
+
 एतच्च प्रपञ्चितं प्रथमत एव, तथा नवधा मुख्यतयैश्वरः शक्तिपातः इति सुविवेचितं श्रीतन्त्रालोकादौ । I.P.V.V., III, p. 279 
+
 * ** 
+
 एतच्च विस्तरतस्तत्प्रधानेषु तन्त्रालोकसारादिषु मया निर्णीतम् । 
+
 एतदेव च वितत्य श्रीतंवालोके प्रतिपादितम् । 
+
 I.P.V(Bh.), II, p. 242 
+
 Janma-marana-vicara, Bhattavāmadeva, KSS, 1918, p. 19 अत्र च परस्परं भेदकलनया अवान्तरभेदज्ञानकुतूहली तन्त्रालोकमेव अवधारयेत् । 
+
 J.M.V., p. 99 5. ये अप्यविभक्तं स्फोटं वाक्यं तदर्थरूपमाहुस्तैरप्यविद्यापदपतितैः सर्वेयमनु- सरणीया प्रक्रिया । तदुत्तीर्णत्वे तु सर्वं परमेश्वराद्वयं ब्रह्मेत्यस्माच्छास्त्रानुसारेण विदितं तन्त्रालोकग्रन्थं विचारयतेत्यास्ताम् । 
+
 Dhvanyaloka-locana, K.M., IV, N.S., 1928, p. 19 
+
 EXPLORING THE TANTRĀLOKA 
+
 3 
+
 the transcendental Absolutic reality called Brahman (i.e. Anuttara). The prime concern of the Tantraloka was to explain, to unfold and to explore. It therefore assumed the form of a gloss, or a commentary and was therefore termed as the Vartika' (gloss), Śloka- vārtika (versified gloss) and Saḍardhaślokavārtika (versified gloss on Trika system). Possibly in desig- nating the Tantraloka as Vārtika Abhinavagupta was inspired by Katyayana's example in whose case Vārtika is defined as "an explanatory or supplemen- tary rule which explains the meaning of that which is said, of that which is left unsaid, and of that which is imperfectly said." This amply applies to the Tantra- loka as we shall have occasion to see later. Elsewhere in a very significant remark Abhinavagupta describes the Tantraloka as a mix of all the varieties (e.g. brief, regular and large) of glossarial work based on Aga- mas. Thus it is a Vārtika, a Bhāṣya and a Vṛtti all at 
+
 I.P.V.V., III, p. 259 
+
 1. मया च वार्तिके एतत् व्याख्यातम् । The verses purportedly quoted from the Vārtika here are the same as the T.A. 1.152-155. 
+
 Ibid., pp. 106-7 
+
 2. अन्वर्थं चात्र दर्शितं तन्त्रालोके श्लोकवार्तिके च । The use of 'ca' is very ambiguous and may lead one to conclude that the Tantraloka and Ślokavārtika were two independent texts (vide K.T., p. 159). But in view of the overwhelming collateral textual evidence as produced above and non-discovery of any text by the name of the Ślokavārtika (pertaining to K.S.) so far it seems appropriate to identify the two. My earlier view on this stands modified (vide K.T., p. 159). In such a situation the text is to be construed as under- 
+
 अन्वर्थं चात्र दर्शितं श्लोकवार्तिके तन्त्रालोके च । 
+
 3. यथोक्तं मयैव श्रीषडर्धश्लोकवार्तिके तन्त्रालोके । I.P.V.V., I, p. 33 4. उक्तानुक्तदुरुक्तार्थव्यक्ति ( चिंता ) कारि तु वार्तिकम् । 
+
 The Student's Sanskrit-English Dictionary, V.S. Apte, Delhi, 1959, p. 503 
+
 4 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 a time.1 It is perhaps the reason why Abhinava's in- terpretations-cum-explanations on specific issues in the Tantraloka are recalled as testimony. The Tan- träloka was also known as Tantravaloka. 
+
 (ii) Four motives behind the composition 
+
 (a) SAMGRAHA-GRANTHA 
+
 Abhinavagupta composed the Tantraloka from several angles. Obviously the first and the most strik- ing intention of his is to present a digest of the avail- able tantric literature and lore. Technically, there- fore, the Tantraloka is a compendium (Samgraha-gran- tha)". In creating a compendium Abhinavagupta's primary objective seems to handle not only the Trika material alone in its tantric sources, but the non-Trika material in its agamic sources as well." Abhinava- gupta himself sets at rest all conjectures in this re- gard. His avowed intention is to introduce all the agamic material in its varied sources". Abhinava- gupta has been, therefore, quite appropriately hailed 
+
 1. अस्माभिस्तु आगमग्रन्थनिष्ठे वार्तिकभाष्यवृत्तिग्रन्थे श्रीतंत्रालोकादी प्रपञ्चो न्यक्षेण दर्शितः । 
+
 I.P.V.V., HI, p. 304 
+
 2. तदुक्तं निशाटनाख्यागमव्याख्याने तंत्रालोके । 
+
 Parasuramakalpasūtra, Baroda, 1950, p. 44 
+
 3. तदुक्तं तन्त्रावलोके । Srinivāsabudha in his Dipikā on the Tripura-rahasya, Jñanakhaṇḍa, Varanasi, p. 193 
+
 4. इदमभिनवगुप्तप्रोम्भितं शास्त्रसारं 
+
 शिव निशमय तावत् सर्वतः श्रोततन्त्रः । 
+
 T.A. 37.85 
+
 T.A.V., I, pp. 14-15 
+
 5. ग्रन्थकृता निखिलषडर्धशास्त्रसारसंग्रहभूतग्रन्थकरणेऽप्यधिकारः कटाक्षीकृतः । 
+
 6. 
+
 अस्य ग्रन्थस्यापि निखिलशास्त्रान्तरसारसंग्रहाभिप्रायत्वं प्रकाशितम् । 
+
 Ibid., I, pp. 29-30 
+
 7. अध्युष्टसंततिस्रोतः सारभूतरसाहृतिम् । 
+
 विधाय तन्त्रालोकोऽयं स्यन्दते सकलान् रसान् ।। 
+
 T.A. 36.15 
+
 EXPLORING THE TANTRALOKA 
+
 5 
+
 as Samgrahakāra' and the Tantraloka as the Sam- graha by Jayaratha. 
+
 (b) PRAKRIYA OR PADDHATI GRANTHA 
+
 Abhinavagupta's second, but rather more signifi- cant, intention is to produce a Prakriya or Paddhati, perhaps employed as interchangeable terms in the context. Abhinavagupta was perturbed over the fact that there was no Paddhati text in his source-system, i.e. the system of transcendental triad (Anuttara-şada- rdharthakrama), although there were plenty of them in other source systems. In order to overcome this drawback he decided to write the present Prakriyā i.e., Tantraloka, complete in all respects. Abhinava- gupta and Jayaratha both do not give any clue to Abhinavagupta's concept of a Prakriya-grantha, al- though Jayaratha is full of references to Abhinava- gupta's professed aim to undertake a Prakriyāgran- tha. In this context one comes across four observa- tions: 
+
 (i) The Prakriya under reference namely, the Tantraloka, is totally based on the M.V.T;" 
+
 Jayaratha's introductory observation preceding the above verse is very suggestive- 
+
 ननु इह त्रैयम्बिकैव मठिका वक्तुं न्याय्या यद्द्वारा अस्य शास्त्रस्य आयातिः किं मठि- कान्तरव्यावर्णनेनेत्याशंक्याह 
+
 T.A.V., XII, p. 389 
+
 1. एतच्चोत्तानतयैव गृहीत्वा संग्रहकाराः प्रवृत्ताः 
+
 2. इह . . 
+
 । 
+
 T.A.V., V, p. 19 (8th Ah.) प्रक्रान्तेऽपि संग्रहे स्वकण्ठेनैव पाठेऽयमाशयो. 
+
 3. सन्ति पद्धतयश्चिताः स्रोतोभेदेषु भूयसा । 
+
 अनुत्तरषडर्धार्थ क्रमे त्वेकापि नेक्ष्यते ॥ 
+
 I 
+
 Ibid., p. 186 
+
 T.A. 1.14 
+
 Ibid. 1.15 
+
 T.A.V., I, p. 35 
+
 4. 
+
 अर्थितो रचये स्पष्टां पूर्णार्थी प्रक्रियामिमाम् ॥ 
+
 । 
+
 5. ननु सामान्येन विकदर्शनप्रक्रियाकरणं प्रतिज्ञाय 
+
 6. 
+
 न तदस्तीह यन्न श्रीमालिनीविजयोत्तरे । 
+
 T.A. 1.17 
+
 6 
+
 INTRODUCTION TO THE TANTRALOKA 
+
 (ii) There were two Prakriyas within the monistic fold namely, Kula-prakriya and Tantra-pra- 
+
 kriyā; 
+
 (iii) Kula Prakriya is superior of the two;1 and 
+
 both together represent Trikaprakriyā; (iv) A sizable section of the learned scholars sub- scribing to the system but not possessing un- interrupted tradition required a guide in res- pect of the matters they did not know. The Tantraloka's composition as Prakriya was a significant step towards fulfilling this desi- deratum." 
+
 Now let us see what the Tantraloka as a Prakriyā text means. If we compare the T.A. 1.14 and 1.15, we find that Prakriya and Paddhati denote the same thing. Another thing to be noted is that both terms stand for a particular class of books. Naturally the grammarian's usage of Prakriya in the sense of an etymological work does not fit in here. The Vacas- patyam includes among its meanings a chapter or a section (Prakarana) which lays down an order and the Sabdakalpadruma interprets it as a "definite pro- cedure" (Niyatavidhi). Similarly, Paddhati is taken to stand for a treatise that brings out the gist or the 
+
 1. एवं च तन्त्रप्रक्रियोपासन्नगुर्वभिमुखीकरणानन्तरं विश्रान्तिस्थानतया कुलप्रक्रियागुरुमपि उत्कर्षयति । 
+
 T.A.V., I, p. 31 
+
 2. अतोऽनान्तर्गतं सर्व संप्रदायोज्झितैर्बुधः । 
+
 अदृष्टं प्रकटीकुर्मो गुरुनाथाज्ञया वयम् ॥ 
+
 T.A. 1.19 
+
 अत इति उक्तयुक्त्यास्यैव शास्त्रस्य प्राधान्यात् । "प्रकटीकुर्म" इति प्रक्रिया- करणेन । 
+
 T.A.V., I, p. 50 
+
 3. प्रकरणे “सा प्रक्रिया या क्रममित्यपेक्ष्य" पार्थसारथिमिश्रः । 
+
 Vacaspatyam, VI Part, Varanasi, 1962, p. 4438 
+
 4. नियतविधिः इति शब्दरत्नावली । 
+
 Sabdakalpadruma, Part III, Varanasi, 1967, p. 245 
+
 EXPLORING THE TANTRALOKA 
+
 7 
+
 essential meaning. The Vacaspatyam and Sabdakal- padruma, both lexicons agree and both cite Hema- candra in support. Thus we see that according to these lexicographers a Prakriya text constitutes a work or a section thereof composed to convey the essential purport of the subject and to lay bare the procedure, if any, involved in realizing the primary purpose. A close examination of Abhinava will re- veal that his concept of the Prakriya or Paddhati was closer to the above definition. 
+
 Abhinava refers to the P.T.V. as Anuttaraprakriyā.“ It will simply amount to saying that the P.T.V. was also a Prakriya-grantha." Abhinava's use of the word Prakriya elsewhere reminds one of something relat- 
+
 1. पन्थस्य निष्कृष्टार्थबोधके ग्रन्थभेदे (हेमचन्द्रः) । 
+
 Vacaspatyam, Vol. V, p. 4225 2. " ग्रन्थार्थबोधकग्रन्थः" इति हेमचंद्रः । 
+
 Sabdakalpadruma, Part III, p. 40 3. Hemacandra's observations as per footnotes above assume significance because Hemacandra was quite close to Abhinava chronologically a gap of a century obtained between the two- and was in know of Abhinava's works as his treatment of Rasa in the Kävyänusśäsana betrays unmistakeable impact of Abhinava's Abhinavabharati. 
+
 4. अनुत्तरप्रक्रियायां वैतत्येन प्रदर्शितम् । 
+
 T.A. 9.313 
+
 5. A question may naturally arise as to whether there were two Prakriyas on Anuttaratrika System, because as Abhinava has already said, that (vide Fn. 3, p.5 supra) there were no Prakriya texts or Paddhatis on his system. The answer perhaps lies in the fact that, as we shall see later, the P.T.V., M.V.V. and T.A. constitute one whole and as such may be part of a larger textual framework. 
+
 6. तत्त्राध्वैवं निरूप्योऽयं यतस्तत्प्रक्रियाक्रमम् । 
+
 अनुसंदधेव द्राग् योगी भैरवतां व्रजेत् ॥ 
+
 T.A., 8.5; Jayaratha explains प्रक्रियाक्रमम् as कालाग्न्यादेरनाश्रितपर्यन्तं तथातथानुपूर्व्येण अवस्थानम् । 
+
 T.A.V., V, p. 4 
+
 oo 
+
 8 
+
 INTRODUCTION TO THE TANTRALOKA 
+
 ing to practice or Sadhana. The idea becomes clearer when Abhinava concludes that in the SV.T. know- ledge does not involve action or practice.' Jayaratha leaves no doubt that the mutual difference between the several Tantras, even though sometimes belonging to the same sect, stems from the practices enjoined." This leaves us in no doubt that Prakriya must have meant a special practice-intra- and trans-ritualistic both and the text that lays down the relative code is a Prakriya-grantha. The other term used in this context by Abhinava is Paddhati, as we all know. What was his model we do not know. However he refers to one Paddhati by Iśānasiva which clearly brought out the essential procedure as laid down in the famous Krama Agama Devyāyāmala. This Isana- siva is, no doubt, different from his namesake author of the Gurudevapaddhati or Tantrapaddhati and who definitely flourished after 1073 A.D. and was, accord- ing to Dwivedi, identical with the great-grand tea- 
+
 1. 
+
 न प्रक्रियापरं ज्ञानमिति स्वच्छन्दशासने । 
+
 TA., 8.11; Jayaratha adds यदुक्तं तत्र "नास्ति दीक्षासमो मोक्षो न विद्या मातृका परा । 
+
 2. 
+
 न प्रक्रियापरं ज्ञानं नास्ति योगस्त्वलक्षकः ॥” (SV. T. 11.198) इह् (त्रिशिरोभैरवे) च अनन्तस्य श्रीसिद्धातन्त्रोक्तं भुवनमानं न ग्राह्यमेव "क्रियादिभेदभेदेन तन्त्रभेदो यतः स्मृतः । 
+
 तस्माद् यत्न यदेवोक्तं तत्कार्यं नान्यतन्त्रतः ।" इत्याद्युक्त्या तत्प्रक्रियाया भिन्नत्वात् । 
+
 3. मोक्षायैव न भोगाय भोगायाप्यभ्युपायतः । 
+
 इत्युक्तवान् स्वपद्धत्यामीशानशिवदेशिकः ॥ 
+
 श्रीदेव्यायामलीयोक्तितत्त्वसम्यक्प्रवेदकः । 
+
 T.A.V., V, p. 16 
+
 T.A. 22.30-31 
+
 Jayaratha's interpretation of the term Abhyupaya removes the 
+
 last tinge of difference between Paddhati and Prakriya- 
+
 अभ्युपायत इति भोगोपायभूतशास्त्रप्रक्रियाद्यनुसारेणेत्यर्थः । 
+
 Ibid., X, p. 254 
+
 EXPLORING THE TANTRALOKA 
+
 9 
+
 cher of Somasambhu, the author of the Karmakāṇḍa- kramāvali. Dharmasiva, a teacher of Abhinava-if we go by the authority of Kṣemaraja-also wrote one Paddhati which had the 'indirect initiation' as its central theme and it is which has been referred to by Abhinava, though not by name. These are possi- bly the Paddhatis whose presence led Abhinava to lament the absence of one in his own system. The Siddha-siddhanta-paddhati, the famous text of Natha cult, which is much later, a text full of references to Pratyabhijñā system, similarly seems to be a work in Paddhati tradition. Dwivedi refers to several Pad- dhatis such as the Udayakarapaddhati and Varuna Paddhati and Maheśvarananda in his M.M.P. refers to one Mahanayapaddhati. It may be, therefore, quite logical to conclude that the Tantraloka was a text in Paddhati or Prakriya tradition and was com- posed as a complete manual for the adherents of the Trika way of life. 
+
 (c) SASTRA GRANTHA 
+
 The third intention of Abhinava was to project the Tantraloka as a full-fledged Sastra (scripture) or Sās- ana.' As such it turned out to be a Prakriya Sastra 
+
 1. For details see Upodghäta, p. 21. Also see 'History of Śaiva Cult in Northern India', B.S. Pathak, Delhi, 1980, pp. 46-50. 
+
 2. एते च धर्मंशिवाचार्येण स्वपद्धतौ “एतेषां लक्षणं वच्मो गुरुपरम्परागतम्” इत्युपक्रम्य इत्थं व्याख्याताः । 
+
 SV. T.U., VI, pp. 8-9 
+
 3. T.A. 21.50-55. 
+
 4. Upodghāta, p. 36 
+
 5. Ibid., p. 65 
+
 6. M.M.P., pp. 11-12; also see K.T., p. 244 
+
 7. इति ज्ञानचतुष्कं यत्सिद्धिमुक्तिमहोदयम् । 
+
 तन्मया तन्त्र्यते तन्त्रालोकनामन्यत शासने ।। 
+
 T.A. 1.245 
+
 10 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 (manualistic scripture), to be precise.' It is why Jaya- ratha frequently remembers Abhinava as Sastrakāra.2 Jayaratha, while summing up the initial sentence (Adivākya i.e., T.A. 1.1 to 1.21) tries to highlight the formal Śastric character of the Tantraloka as under- 
+
 (i) T.A. 1.1 to 1.5 - अभिधेयम् = त्रिकार्थः (it is manifold). (ii) T.A. 1.16 to 1.20 - (a) प्रयोजनम् - त्रिकार्थस्य सातिशयत्वम् 
+
 (b) मुख्य प्रयोजनम् = प्रत्यभिज्ञानाद् जीवन्मुक्तिप्रदत्वम् 
+
 (iii) T.A. 1.7 to 1.13 – अधिकारः = गुरूपरम्परोपात्तत्वम् 
+
 परमेश्वरशक्तिपातपवित्रितत्वं च 
+
 (iv) T. A. 1.14 to 1.15 संबंध : - (a) वाच्य वाचकभाव: ( वाच्य & 1.2451 
+
 is प्रक्रिया and वाचक is तंत्रालोक). 
+
 1. "अर्थितो रचये" (१.१५) इति प्रतिज्ञायाः प्रक्रियायाश्च "तन्मया तन्त्र- यते तन्त्रालोकनामन्यत्र शासने (१.२४५) इत्यादिवक्ष्यमाणोपजीवनेन तन्त्रालोक इत्यभिधानम् । 
+
 T.A.V., I, p. 53 
+
 2. वक्ष्यमाणषडर्धशास्त्रार्थंगर्भीकारेण शास्त्रकारः परामृशति । T.A.V., I, p. 3; तथापि शास्त्रकाराणामियं शैली । Ibid, I, p. 52 etc. 
+
 3. Abhinava defines Adhikarin in T.A. 1.337 eloquently- 
+
 इह गलितमलाः परावरज्ञाः शिवसद्भावमया अधिक्रियन्ते । गुरवः प्रविचारणे यतस्तद् विफला द्वेषकलंकहानियाञ्चा ॥ 
+
 The same may well be compared with the second concluding verse of the Viveka- 
+
 योऽधीती निखिलागमेषु पदविद् यो योगशास्त्रश्रमी यो वाक्यार्थसमन्वये कृतरतिः श्रीप्रत्यभिज्ञामृते । यस्तर्कान्तरविश्रुतश्रुततया द्वैताद्वयाज्ञानवित् सोऽस्मिन्स्यादधिकारवान् कलकलप्रायं परेषां वचः ।। 
+
 (T.A.V., XII, p. 428) 
+
 Abhinava makes it abundantly clear that such a 'competent' per- son is difficult to locate- 
+
 तत्र तत्र च शास्त्रेषु न्यरूप्यत महेशिना । एतावत्यधिकारी यः स दुर्लभ इति स्फुटम् ॥ 
+
 T.A. 35.43 
+
 4. Jayaratha does not suggest the specific portions and their explications from the T.A. on this issue, but they are too patent to require an authoritative citation. 
+
 EXPLORING THE TANTRALOKA 
+
 11 
+
 (b) अभिधेयप्रयोजनयोः साध्यसाधनभावः ( साध्य is अनुत्तरत्रिकज्ञप्ति and साधन is तंत्रा लोकोक्त उपायचतुष्टय or प्रक्रिया ) . (v) T.A. 1.6 – उपलब्धौ संभव विघ्ननिरासाय गणेशवटुकयोः स्तुतिः ' 
+
 (d) STUTI GRANTHA 
+
 The fourth and the final approach consists in Abhi- nava's contemplation of the Tanraloka as a full scale Stuti (prayer hymn). In the concluding part of the initial sentence2 as well as in the ultimate verse3 Abhi- nava leaves no ambiguity about his intention. When- ever he gets an opportunity he grabs the occassion to project the devotional theme of the Tantraloka. In his eyes the entire subject matter of the Tantraloka acquires meaning when it leads one to attain Śiva- hood owing to His grace alone. The Tantraloka out- lines the path and procedure to invoke such divine grace and once it is attained the clouds of nescient doubts disappear and one shines in one's pristine splendour. Such an approach lends credence to the views of many a modern scholar who takes Kashmir Saivism as theology or transcendental theology hop- ing to reach and realize the personalistic Godhead and not as a pure metaphysics concentrating on an 
+
 1. According to Jayaratha Abhinava wants to make it sure that the Tantraloka is a Tantric Scripture and as such must contain veneration to Gaṇeśa and Vaṭuka. 
+
 T.A.1.21 
+
 2. अभिनवगुप्तहृदम्बुजमेतद्विचिनुत महेशपूजन हेतोः । 3. तव किल नुतिरेषा सा हि त्वद्रूपचर्चेत्यभिनवपरितुष्टो लोकमात्मीकुरुष्व ।। 
+
 4. गुरोर्वाक्याद्युक्तिप्रचयरचनोन्मार्जनवशात् 
+
 समाश्वासाच्छास्त्रं प्रति समुदिताद्वापि कथितात् । विलीने शंकाभ्रे हृदयगगनोद्भासिमहसः प्रभोः सूर्यस्येव स्पृशत चरणान्ध्वान्तजयिनः ।। 
+
 Ibid. 37.85 
+
 T.A.2.4912 
+
 INTRODUCTION TO THE TANTRALOKA 
+
 abstract Absolute. It is only from this deep religious point of view that the Prakriya character of the Tan- trāloka can be more meaningfully explained. Possi- bly this is the significance of this view being vouched in the beginning and in the end (Uparkrama and Upasaṁhāra, to put it traditionally) of the Tantraloka. 
+
 (iii) Five objectives behind the composition of the Tantraloka 
+
 (a-i) ATTAINMENT OF BHAIRAVAHOOD 
+
 After examination of the underlying motives of Abhinava a study of Abhinava's objectives behind his composition of the Tantraloka will be immensely helpful. The fundamental aim is the same as that of his philosophical discipline in general. It is the achie- vement of Bhairavahood i.e., the divination of the mundane. Abhinava proudly declares that one who constantly practises all the tenets of thirtyseven Ah- nikas is oneself transformed into Bhairava, the Abso- lute. If a consistent perusal of 37 chapters leads to one's attainment of essential divinity, it is all the more reason to conclude that the microscopically finite being is capable of attaining cosmic personality. 
+
 (a-ii) PROPOUNDING FOURFOLD REDEMTIVE KNOWLEDGE 
+
 Abhinava is never tired of reiterating his preferences. He says that the original commitment of the Tantraloka is to understand the nature of Absolute Awareness2. 
+
 1. इति सप्ताधिकामेनां विशतं यः सदा बुधः । 
+
 आह्निकानां समभ्यस्येत्स साक्षाद् भैरवो भवेत् ॥ सप्तविंशत्सु संपूर्ण बोधो यभैरवो भवेत् । 
+
 किं चिमणवोऽप्यस्य दृशा भैरवतामियुः ।। 
+
 2. तंत्रालोकेऽभिनवविरचितेऽमुन.. 
+
 यत्तत्नाद्यं पदमविरतानुत्तरज्ञप्तिरूपं तन्निर्णेतुम् 
+
 T.A. 1. 284-86 
+
 Ibid. 2.1 
+
 EXPLORING THE TANTRĀLOKA 
+
 13 
+
 The four varieties of redemptive knowledge, as discus- sed in the Tantraloka, are primarily designed to master both the worldly accomplishment and the spiritual transcendence.1 While making a passing reference in his Locana, as we had occasion to note earlier, Abhinava finds the transcendental Godhead as occupying the central focus of the Tantraloka. It is descent of His 
+
 3 
+
 grace (Saktipäta) that alone constitutes the driving force for the aspirant's movements and it is why the problems of bondage and emancipation assume a kind of primacy over other issues. Abhinava goes on positing that the basic purpose of the Tantraloka is inculcation of the 'intuitive awareness" (Pratibha - samvitti) which once thoroughly inculcated trans- forms the discursive perspective of mankind into the unitive one. Abhinava (and his commentator Jaya- ratha also) refutes the charge of being arrogant in self-eulogy, as to him it is just a statement of facts." 
+
 1. इति ज्ञानचतुष्कं यत्सिद्धिमुक्तिमहोदयम् । 
+
 5 
+
 तन्मया तन्त्र्यते तन्त्रालोकनामन्यत शासने || 
+
 Tbid. 1.245 
+
 2. तदुत्तीर्णत्वे तु सर्वं परमेश्वराद्वयं ब्रह्म इत्यस्मच्छास्त्रानुसारेण विदितं तन्त्रालोकग्रन्थं विचारयतेत्यास्ताम् । 
+
 Dh.L., K.M., IV, p. 19 
+
 3. इह यद्यपि परमेश्वरशक्तिपातमंतरेण तच्छास्त्रश्रवणादावन्यत् प्रवृत्ति- निमित्तं नाभ्युपेयते .. इति तत्साक्षात्कारेणैव अज्ञानापगमान्मोक्षावाप्तिः तथापि . . तदेकनियतं ज्ञानाज्ञानयोः स्वरूपं न ज्ञानम् इति तत्परीक्ष- प्राधान्यमपि कटाक्षयितुमुपक्रम एव बंधमोक्षपरीक्षामुट्टङ्कयति ग्रन्थ- T.A.V., I, pp. 52-54. 
+
 णस्य. 
+
 कारः । 
+
 4. ततः प्रातिभसंवित्त्यै शास्त्रमस्मत्कृतं त्विदम् । योऽभ्यसेत्स गुरुर्नैव वस्त्वर्था हि विडम्बकाः ।। 
+
 . 
+
 T.A. 13.160 
+
 5. ततस्तरतमभावेन प्रातिभोदयाद्हेतोर्यः पुनरिदं श्रीतन्त्रालोकसंज्ञम् अस्म- त्कृतं शास्त्रं प्रातिभत्वं संवेदयितुम् अभ्यसेत् स समनन्तरमेव संपूर्णबोधत्वात् प्रातिभो गुरुर्भवेत् यद्दृक्पातमात्त्रात्सर्वोऽप्ययं लोकस्ताद्रूप्यमियात् । 
+
 T.A.V., VIII, p. 102 
+
 6. ननु महतीयं विडम्बना यत्स्वयमेव स्वकृति प्रत्येवं प्रशंसा नाम, 
+
 इत्याशंक्योक्तं नैव वस्त्वर्था हि विडम्बका इति । T.A.V., VIII, p. 102 
+
 14 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 (b) PRESENTING THE ULTIMATE TEXTUAL AUTHORITY 
+
 This brings us to another objective of Abhinava in presenting the Tantraloka as the ultimate textual au- thority. Self-realization is the goal of all spiritual dis- ciplines and the standard effective tool conceived by them is the power of the Godhead. No other text has been able to drive this truth home more than the Tantraloka and the reason for it lay in Abhinava's taking recourse to his own discerning judgement, un- failing sense of right logic, vast command over Saivis- tic scriptures and above all his deep insight into Trika ideology, in that order.' All these combined together lent enormous width and intense depth to Abhinava's treatment. Knowledge in order to earn transcendence has to pass through three successive stages: 
+
 (i) it must emanate from a scripture; 
+
 (ii) it must be thoroughly investigated under a 
+
 knowledgeable guide; and 
+
 (iii) it must ultimately form basic core of one's 
+
 experience.2 
+
 Jayaratha throws a veiled hint that Abhinava's intellectual/spiritual equipment very much betrayed such a wholistic framework of mind. Under such circumstances the Tantraloka could not but become the most ideal, complete and reliable textual autho- 
+
 1. इति यज्ज्ञेयसतत्त्वं दर्श्यते तच्छ्विाज्ञया । 
+
 मया स्वसंवित्त्तर्कपतिशास्त्रत्रिकक्रमात् ॥ 2. यतः शास्त्रक्रमात्तज्ज्ञगुरुप्रज्ञानुशीलनात् । 
+
 आत्मप्रत्ययितं ज्ञानं पूर्णत्वाद् भैरवायते ॥ 
+
 T.A. 1.106 
+
 T.A. 4.77 
+
 3. While commenting on T.A. 7.1 ( इति कालतत्त्वमृदितं शास्त्रमुखा- गमनिजानुभवसिद्धम् ) Jayaratha explains सिद्धम् as “यतः शास्त्र- क्रमात् भं रवायते ।।” इत्याद्युक्त्या पारिपूर्णेन लब्धसिद्धिरिति (सिद्धीति ? ) शिवम् । 
+
 T.A.V., IV, p. 203 
+
 EXPLORING THE TANTRALOKA 
+
 15 
+
 rity. We are, therefore, tempted to suggest that three- fold epistemic methodology consisting of verbal testi- mony, reasoning and perception (āgama, Yukti and Pratyakṣa) emerged from the triple sources of agamic understanding--scripture, guide and self. 
+
 (c) EASY COMPREHENSION OF THE TANTRIC WISDOM 
+
 Easy comprehension of the tantric wisdom was the third objective of Abhinava.' It was from this point of view that he concentrated mainly on those issues or opinions which would be useful for all. Not that he shunned controversial issues rather, on the con- trary, he took them up in his other works for a specia- list's treatment. 2 
+
 (d) RESTORATION AND PRESERVATION OF THE TRADITION 
+
 A careful look into the Tantraloka brings out one more objective which is however treated by Abhinava in a low key. His three references, one (Sampradāyo- jjhitaih) in the beginning and two others (Vidam- bitäh and Bhraşte Viddhau") in the middle of the Tantraloka are quite conspicuous by their mention. 
+
 1. संकलय्योच्यते सर्वमधुना सुखसंविदे । 
+
 नहि सर्वसविकया एतदापादयितुं पार्यते इति 
+
 2. 
+
 3. अतोऽवान्तर्गतं सर्वं सम्प्रदायोज्झितैः बुधैः । 
+
 अदृष्टं प्रकटीकुर्मो गुरुनाथाज्ञया वयम् ॥ 4. येन यत्प्राहुराख्यानसादृश्येन विडम्बिताः । 
+
 गुरूपासां विनैवात्तपुस्तकाभीष्टदृष्टयः ॥ 
+
 5. तेन भ्रष्टे विधो वीर्य स्वरूपे वानया परम् ॥ 
+
 मन्त्रा न्यस्ताः पुनर्व्यासात्पूर्यन्ते तत्फलप्रदाः । 
+
 T.A. 11.51 
+
 किमशक्यार्थाभिनिवेशेन । 
+
 T.A.V., X, p. 57 
+
 T.A. 1.19 
+
 Ibid. 9.55 
+
 Ibid. 15.134-35 
+
 Jayaratha adds तेन शक्त्यात्मत्वेन हेतुना निजनिजतन्त्रप्रसिद्धविद्या भ्रंशेऽपि 
+
 तन्त्रान्तरीया मन्त्रा न्यस्ताः .. 
+
 . मालिन्या. 
+
 याम्नातफलदानोन्मुखाः संपाद्यन्ते इत्यर्थः । 
+
 ... 
+
 . पुनर्यासात् . . स्वाम्ना- 
+
 ... 
+
 T.A.V., IX, p. 71 
+
 16 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 In the first, Abhinava seems to suggest that there were people who, though learned, were deprived of the uninterrupted tradition and hence did not have access to the doctrinal secrets. In the second, he hints at the existence of the people who were neither conversant with the text nor had waited upon the teacher for guidance. As such, being easily misled by the simi- larity of expression, they showed considerable gap in their knowledge. In the third, he implies that in certain sections the traditional secrets or specific procedures were lost or corrupted beyond recognition. In the first and second case, he undertook to propound the traditional wisdom inherited by him and in the third, he enjoins alternative course to be followed by taking recourse to the assignment (Nyasa) called Malini. Jayaratha's observation, that whenever Abhinava quotes an agamic authority and recites a particular reading he does so to remove any misgivings about that source,1 further strengthens the above premises. The foregoing discussion leads us to conclude that one of the undeclared objectives of Abhinava is to restore and preserve the existing and traditionally acquired tantric literature and practices. We will have to say something on this aspect again while examining his style and method. 
+
 From the above noted account we note that Abhi- nava's motives and objectives could be classified into two groups i.e., the one declared and the other un- declared, and may be briefed as under: 
+
 1. इह. .... स्वकण्डेनैव पाठेऽयमाशयो- यदत्र बहूनि शास्त्रान्तरेष्वसमंज- सानि पाठान्तराणि संभवन्ति - इति श्रोतॄणां मा भूत्संमोहः । 
+
 T.A.V., V, p. 186 
+
 EXPLORING THE TANTRALOKA 
+
 17 
+
 Motives 
+
 (a) DECLARED 
+
 To compose the Tantraloka 
+
 (i) as a compendium, 
+
 (ii) as a manual, 
+
 (iii) as a prayer. 
+
 (b) UNDECLARED 
+
 (i) To produce a scripturistic treatise (Sastra). 
+
 Objectives 
+
 (a) DECLARED 
+
 (i) (a) To realise self and make others realise 
+
 the same, 
+
 (b) To propound fourfold redemptive know- 
+
 ledge, 
+
 (ii) To afford easy comprehension of the abs- 
+
 truse traditional secrets. 
+
 (b) UNDECLARED 
+
 (i) To devise an-overriding textual authority, (ii) To restore the tantric learning and practices. 
-## ABOUT THE AUTHOR 
-(ABHINAVAGUPTA) 
+
+## 2 ABOUT THE AUTHOR ABHINAVAGUPTA 
+
 (i) Biographical data 
+
 It will be appropriate if we begin with the biogra- phical data as made available by Abhinavagupta in the Tantraloka. Abhinavagupta gives graphic details of his ancestry, parentage, teachers, pupils and cir- cumstances under which the Tantraloka was written.1 
+
 (a) NAME 
+
 According to the Tantraloka Abhinavagupta was not his actual name. It was a title which he earned from his teachers in recognition of his devotion to and reflection upon Siva. This fact has already been emphasized earlier where, according to Jayaratha, his name implied authoritativeness. Abhinavagupta is never tired of repeating this fact. He calls himself competent. This leads to the natural conclusion that 
+
 1. The reader is advised, for further details, to see Abhi. (pp. 1-77), K.T. (pp. 157-165), Kane's The History of Sanskrit Poetics, Bombay, 1951 (pp. 226-233) and Raghavan's posthumous work, Abhinavagupta and His Works (pp. 17-30), which is the reprint from JORI, Vol. XIV, IV, 1933. 
+
 2. अभिनवगुप्तस्य कृतिः सेयं यस्योदिता गुरुभिराख्या । 
+
 त्रिनयनचरणसरोरुहचिन्तनलब्धप्रसिद्धिरिति ॥ 
+
 3. बोधान्यपाशविषनुत्तदुपासनोत्थ- 
+
 बोधोज्ज्वलोsभिनवगुप्त इदं करोति ॥ 
+
 T.A. 1.20 
+
 4. अभिनवगुप्त इति सकललोकप्रसिद्धनामोदीरणेनापि आप्तत्वमेव उपोद्- 
+
 Ibid. 1.16 
+
 T.A.V., I, p. 34 
+
 5. योग्योऽभिनवगुप्तोऽस्मिन् कोऽपि यागविधौ बुधः ॥ 
+
 11 
+
 T.A. 4.278 
+
 वलितम् । 
+
 20 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 he alone was competent to undertake a work like Tantraloka which was professedly a digest of the entire Şaḍardha (lit. half of six i.e., Trika) scriptural litera- ture.1 Abhinava's academic, intellectual, spiritual and yogic attainments were of very high order. The very nature of his physical birth, in the tantric parlance, underlies this. In the first verse itself which refers to his 
+
 parents he suggests his Yoginibhūtva" (i.e., arising from Yoginis.). Such a suggestion assumes added significance in the context of the Tantraloka whose committed goal, as we have seen, is to enable the lis- tener-aspirant achieve Bhairavahood (Absolutic be- ing). Here the parents achieve Bhairavahood which is transmitted to progeny." Thus there is very sug- gestive relationship between his birth and composition of the Tantraloka. This view gets strengthened by another remark of Jayaratha. In the thirteenth Āh- nika while discussing the various kinds of fall of 
+
 1. तदेवम् एवंविधसिद्धयोगिनीप्रायपितृमेलकसमुत्थतया ... स्वात्मनि निरुत्तर- पदाद्वयज्ञानपात्रतामभिदधता ग्रन्थकृता निखिलषडर्धशास्त्रसारसंग्रहभूतग्रन्थकरणे- ऽप्यधिकारः कटाक्षीकृतः । 
+
 T.A.V., I, pp. 14-15 
+
 2. Yoginibhū is a typical Kula concept. In the 29th Ahnika called 'Rahasyavidhiprakāśana', this concept has been discussed under Dautavidhi (i.e., practice relating to the female messenger). When parents unite identifying themselves with Śiva and Sakti giving birth to progeny, the latter who is the Siva-incarnate and instant repository of knowledge is designated as Yoginibhu- 
+
 तादृङमेलककलिकाकलिततनुः कोऽपि यो भवेद्गर्भे ॥ 
+
 उक्तः स योगिनीभूः स्वयमेव ज्ञानभाजनं रुद्रः । श्रीश्रीवीरावलिशास्त्रे बालोऽपि च गर्भगो हि शिवरूपः ॥ 
+
 Also see fn. 1 above. 
+
 3. कुण्डं शक्तिः शिवो लिङ्गं मेलकं परमं पदम् ॥ 
+
 एवं कर्मणि कर्मणि यत्र क्वापि स्मरन् व्याप्तिम् ॥ सततमलेपो जीवन्मुक्तः परभैरवीभवति । 
+
 T.A. 29.162-63 
+
 Ibid. 29.141, 161-62 
+
 ABOUT THE AUTHOR 
+
 21 
+
 grace (Śaktipāta), Abhinava points out to the charac- teristics,1 laid down in the Śripurvasastra, of an as- pirant who is endowed with Madhyativraśaktipāta: 
+
 1. Unflinching faith in God; 
+
 2. Realization of Mantras; 
+
 3. Control over all the objective principles; 
+
 4. Successful conclusion of the activities under- 
+
 taken; 
+
 5. Poetic creativity; and 
+
 6. Sudden or spontaneous knowledge of all the 
+
 disciplines. 
+
 All these signs or a few of them show themselves in varying degrees according to the quantum of grace bestowed. But, Jayaratha, on the authority of his teachers, says all these signs were patently visible in the author of the Tantraloka." This is why such a man whose wisdom (Sattarka-right logic) dawns on its own is said to be initiated by one's own deified awareness and exercises universal jurisdiction. It is, therefore, not difficult to understand as to why Abhi- nava assumes the role of an Acarya (teacher) through- out his work.4 
+
 1. रुद्रशक्तिसमाविष्ट इत्यनेनास्य वर्ण्यते । 
+
 चिह्नवर्गो य उक्तोऽत्र रुद्रे भक्तिः सुनिश्चला ॥ मन्त्रसिद्धिः सर्वतत्त्ववशित्वं कृत्यसंपदः । 
+
 कवित्वं सर्वशास्त्रार्थबोद्धृत्वमिति क्रमात् ॥ 
+
 Ibid. 13.214-215 
+
 Pandey refers to five characteristics leaving 'Kavitva' (Abhi., 
+
 p. 17) which needs review. 
+
 2 समस्तं चेदं चिह्नजातं अस्मिन्नेव ग्रन्थकारे प्रादुरभूद् इति प्रसिद्धिः । 
+
 यद्गुरवः-- 
+
 3. 
+
 अकस्मात्सर्वशास्त्रार्थ ज्ञत्वाद्यं लक्ष्मपञ्चकम् । यस्मिञ्श्री पूर्वशास्त्रोक्त मदृश्यत जनैः स्फुटम् ।। 
+
 यस्य स्वतोऽयं सतर्कः सर्वत्रैवाधिकारवान् ॥ अभिषिक्तः स्वंस वित्ति देवीभिर्दीक्षितश्च सः ।। 4. अभिनवगुप्तेनार्यातयमुक्तं संग्रहाय शिष्येभ्यः । 
+
 T.A.V., VIII, p. 137 
+
 T.A. 4.42-43 
+
 Ibid., 11.53 
+
 222 
+
 22 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 (b) PUPILS, COLLEAGUES AND FAMILY CIRCLE 
+
 Two factors prompted Abhinavagupta to under- take the writing of the Tantraloka. He was implored by his students and colleagues1 and was ordained by his teacher Sambhunatha' to write a complete man- ual and bring out the aspects that the heretics were not able to see. Abhinavagupta in his concluding remarks even names his important pupils who were instrumental to his writing the Tantraloka. Mano- ratha, who happened to be his brothers, was foremost among them. However, before he could go ahead to favour Manoratha, other disciples including his cou- sins also approached him with a similar request. Of 
+
 जय ० remarks—स्वनामोदीरणस्यायमाशयो यदेतावत्प्रमेयजातं विस् तरीतुमिव संग्रहीतुमप्यनन्यसाधारणं ममैव परं प्रावीण्यम् इति । 
+
 T.A.V., VII, p. 44 ( 11th āh) T.A. 37.70 
+
 Also see आचार्यमभ्यर्थयते स्म गाढं- 
+
 1. इत्यहं बहुशः सद्भिः शिष्यसब्रह्मचारिभिः । 
+
 अर्थितो रचये स्पष्टां पूर्णार्थी प्रक्रियामिमाम् ॥ 
+
 2. अतोऽवान्तर्गतं सर्वं संप्रदायोज्झितैर्बुधः । 
+
 अदृष्टं प्रकटीकुर्मो गुरुनाथाज्ञया वयम् ।। 
+
 3. सोऽनुग्रहीतुमथ शांभवभक्तिभाजं 
+
 स्वं भ्रातरमखिलशास्त्रविमर्शपूर्णम् । 
+
 यावन्मनः प्रणिदधाति मनोरथाख्यं 
+
 तावज्जनः कतिपयस्तमुपाससाद ॥ 
+
 Ibid. 1.15 
+
 Ibid. 1.19 
+
 T.A. 17.64 
+
 Pandey (Abhi., p. 13) takes Manoratha as Abhinava's younger brother. It is, however, difficult to maintain for the reasons com - ing later. 
+
 4. 
+
 श्रीशोरिसंज्ञतनयः किल कर्णनामा यो यौवने विदितशांभवतत्त्वसारः । देहं त्यजन्प्रथयति स्म जनस्य सत्यं योगच्युतं प्रति महामुनिकृष्णवाक्यम् ॥ तद्बालमित्रमथ मन्त्रिसुतः प्रसिद्धः श्रीमन्द्र इत्यखिलसारगुणाभिरामः । लक्ष्मीसरस्वति समं यमलंचकार सापत्नकं तिरयते सुभगप्रभावः । अन्ये पितृव्यतनयाः शिवशक्तिशुभ्राः क्षेमोत्पलाभिनवचक्रकपद्मगुप्ताः । ये संपदं तृणममंसत शंभुसेव संपूरितं स्वहृदयं हृदि भावयन्तः ॥ षडर्धशास्त्रेषु समस्तमेव येनाधिजग्मे विधिमण्डलादि ।ABOUT THE AUTHOR 
+
 23 
+
 these Karna—the son of Sauri, Mandra–Karna's boyhood friend and son of a minister, Ksema, Utpala, Abhinava, Cakraka, Padmagupta-all cousins, and Rāmagupta are remembered by name. A few others also beseached Abhinava who accommodated all of them as it was against his training to turn down a re- quest. We have already come across his brother Manoratha, Karṇa and Ramadeva in the concluding verses of the Paratrimśikävivarana' being described in extremely eloquent terms. His brother was a great devotee of Siva and displayed command over all the disciplines. Karna, though quite young, had grasped the essence of Saiva principles and was totally averse to mundane attractions. He is the same Karṇa who, together with Mandra, requested Abhinava time and again to write a commentary on the Malini-vijayot- taratantra. Karna had one son, Yogeśvaridatta by name, who displayed personal qualities justifying his name. Karna's young wife Ambat also grew deta- ched from the worldly affairs and devoted herself ex- clusively to the worship of Śiva when her husband died later at an advanced age." It is clear from Abhi- 
+
 स रामगुप्तो गुरुशंभुशास्त्रसेवाविधिव्यग्रसमग्रमार्गः ॥ 
+
 अन्योऽपि कश्चन जनः शिवशक्तिपातसंप्रेरणापरवशस्वकशक्तिसार्थः । अभ्यर्थनाविमुखभावमशिक्षितेन तेनाऽप्यनुग्रहपदं कृत एष वर्गः ॥ 
+
 T.A. 37.65-69 
+
 1. P.T.V. 7-9 (Concluding verses, pp. 279-80) 2. सच्छिष्यकर्णमन्द्राभ्यामर्थितोऽहं पुनः पुनः । 
+
 वाक्यार्थं कथये श्रीमन्मालिन्यां यत्क्वचित् क्वचित् ॥ 
+
 3. तस्य स्नुषा कर्णवधूविधूतसंसारवृत्तिः सुतमेकमेव । 
+
 यासूत योगेश्वरिदत्तसंज्ञं नामानुरूपस्फुरदर्थं तत्त्वम् ॥ अम्बाभिधाना 
+
 4. 
+
 M.V.V. 1.11 
+
 T.A. 37.76 
+
 Ibid. 37.79 
+
 5. यामग्रे वयसि भर्तृ वियोगदीनामन्वग्रहीत् त्रिनयनः स्वयमेव भक्त्या । 
+
 भाविप्रभावरभसेषु जनेष्वनर्थः सत्यं समाकृषति सोऽर्थपरम्पराणाम् ।। 
+
 Ibid. 37.77 
+
 24 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 nava's remarks that although Karna's entreaty was a forceful factor behind Abhinava's undertaking, the former did not live long to see the work complete. Ambā, Karna's wife, was perhaps Abhinava's sister, elder or younger it is difficult to say. Because, on the strength of Abhinava's own statement, she looked upon Abhinava as her teacher and Śiva personified although he happened to be her real brother and as such she was successful in keeping the filial emotions at bay.1 And when it came to Abhinava, though a brother, he justified her trust, respect and faith in him as a teacher by his virtuous conduct where the joy of knowledge aggravated his lust for further knowledge," but who also actively nurtured all the efforts annul- ling the sense of delimited existence from heart. This perhaps explains why Abhinava devotes so much space to the description of Karna and his family. 
+
 Next comes Rāmagupta who is referred to as Ramadeva in the P.T.V. He was exclusively given to the study of Saiva scriptures and having fully com- prehended the nuances of Vidhi and Mandala in Trika scriptures was rather impatient to serve his teacher, Śiva as well as scriptures. From the P.T.V. 
+
 1. 
+
 2. 
+
 भक्त्युल्लसत्पुलकतां स्फुटमगभूषां श्रीशंभुनाथनतिमेव ललाटिकां च । शैवश्रुति श्रवणभूषणमप्यवाप्य सौभाग्यमप्यधिकमुद्वहति स्म यान्तः ।। 
+
 T.A. 57.58 
+
 अम्बाभिधाना किल सा गुरुं तं स्वं भ्रातरं शम्भुदृशाभ्यपश्यत् । भाविप्रभावोज्ज्वलभव्य बुद्धिः सतोऽवजानाति न बन्धुबुद्ध्या ॥ 
+
 Ibid. 37.79 
+
 भ्राता तदीयोऽभिनवश्च नाम्ना न केवलं सच्चरितैरपि स्वैः । पीतेन विज्ञानरसेन यस्य तत्रैव तृष्णा ववृधे निकामम् ॥ सोऽन्यश्च शांभवमरीचिचयप्रणश्यत्संकोचहार्दनलिनीघटितोज्ज्वलश्रीः । तं लुम्पकः परिचचार समुद्यमेषु साधुः समावति हन्त करावलम्बम् ॥ 
+
 Ibid. 37.80-81 
+
 ABOUT THE AUTHOR 
+
 25 
+
 we learn that he had thoroughly mastered grammar, Mimāmsā and logic also.1 
+
 The list includes his five cousins including Kṣema and one his namesake. All these cousins showed in common their absolute devotion to Śiva and rejection of worldly possessions. We do not know if Kṣema amongst them was identical with Abhinava's illustri- ous disciple Kṣemaraja, the author of several erudite works. But all the circumstantial evidence tends to favour this identification. Although all these are men- tioned as 'Pitrvyatanayah', Abhinava in his Tantra- loka does not indicate who his uncle (Pitṛvya) was. According to Pandey he mentions his uncle as Va- managupta in the Abhinavabharati. From this quot- ation he appears to be a man of literature. While discus- sing Abhinava's teachers we shall revert to him. Since he is the only person alluded to as his uncle, it may not be illogical if Kṣema's father and Vamanadatta are identified. 
+
 The only pupil we have yet to talk about is Man- dra. He happens to be a boyhood friend of Karna and his cousin also, as is gathered from the fact that Vatsalika, Śauri's wife, has been called his aunt (Pitṛ- vyavadhu). The possession of all the necessary basic qualities makes his personality very pleasing and he was gifted with enormous riches and learning in equal measure. It was he who made Abhinava's stay at his suburban residence where all the members of house- 
+
 1. पदवाक्यप्रमाणवित् । 
+
 2. 
+
 P.T.V. 9 (concluding verses, p. 280) तत्र हास्याभासो यथास्मत्पितृव्यस्य वामनगुप्तस्य A. Bh., Vol. I, p. 297, quoted, Abhi., p. 735 
+
 13. तस्याभवत् किल पितृव्यवधूविधाता । 
+
 T.A. 37.73 
+
 26 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 hold including children were dedicated to the divine worship.' 
+
 It was the combined request of all these pupils and his fellow-students who were longing to learn the entire tantric literature that he could not desist from writing the Tantraloka. In fact it was his own deep rooted desire that was awaiting an excuse for an outlet just as a dancer, desiring to dance, cannot resist step- ping when he gets an instrument for accompaniment. Not only the request from students, but also the advice of his teachers to this effect was found by him full of great benign possibilities.* 
+
 (c) PLACE OF COMPOSITION 
+
 The Tantraloka was, thus, written in the suburban residence of Mandra, where his aunt VatsalikāR look- ed after Abhinava with so much care and concern that Abhinava found her name equal to her merits and felt constrained to attribute the success of his work to the all-caring presence of Vatsalikā. His 1. विक्षिप्तभावपरिहारमथो चिकीर्षन् मन्द्रः स्वके पुरवरे स्थितिमस्य वव्रे । आबालगोपमपि अत्र महेश्वरस्य दास्यं जनश्चरति पीठनिवासकल्पे ॥ 2. T.A. 1.15 (fn. 1 on p. 22 supra). Abhinava is silent about his T.A. 37.72 fellow-students. Could the phrase, therefore, be explained as not 'his' fellow-students but as 'their' (pupils') classmates? 
+
 3. आचार्यमभ्यर्थये स्म गाढं संपूर्णतन्त्राधिगमाय सम्यक् । जायेत दैवानुगृहीतबुद्धेः संपत्प्रबन्धेकरसैव संपत् ॥ 
+
 T.A. 37.70 
+
 4. सोऽप्यभ्युपागमदभीप्सितमस्य यद्वा स्वातोद्यमेव हि निर्नातिषतोऽवतीर्णम् सोऽनुग्रहप्रवण एव हि सद्गुरूणामाज्ञावशेन शुभसूतिमहाङ्कुरेण ॥ 
+
 Ibid. 37.71 तस्याभवत् किल पितृव्यवधूविधात्रा वा निर्ममे गलितसंसृतिचित्रचिन्ता । शीतांशुमौलिचरणाब्जपरागनात भूषाविधिविहितवत्सलिकोचिताख्या ॥ 
+
 6. इत्थं गृहे वत्सलिकावितीर्णे स्थितः समाधाय मति बहूनि । 
+
 स तन्निबन्धं विदधे महार्थम् . 
+
 Ibid. 37.73 
+
 Ibid. 37.82-83 
+
 ABOUT THE AUTHOR 
+
 27 
+
 gratitude is reflected in every word of the poetic appre- ciation he has showered on her.1 Vatsalika was the wife of Sauri who was king's minister and had later resigned the job when his mind became pure owing to devotion to Siva." 
+
 (d) TIME 
+
 Out of the material covered so far, the portion re- lating to Karna and Sauri etc. is relevant from yet another point of view. Abhinava, though ever ready to provide sufficient biographical data about himself and his environ, does not throw any direct hint on his time in the Tantraloka itself. Abhinava's time is no doubt fairly certain (he is placed around 950-1020 A.D.). It is here that we get some clues on the matter. Sauri appears to be a senior contemporary of Abhi- nava because the latter has seen all the three gener- ations of Sauri e.g.,-Sauri, Karna and Yogeśvari- datta. Abhinava in fact was the contemporary of Karna, his brother-in-law, husband of his sister Amba. Abhinava also witnessed the death of Karna, his close relative and an ardent disciple. Karna died at fairly advanced age (Agrage Vayasi T.A. 37.77) when his son, Yogeśvaridatta, was already grown up. Cons- 
+
 1. मूर्ता क्षमेव करुणेव गृहीतदेहा धारेव विग्रहवती शुभशीलतायाः । वैराग्यसारपरिपाकदशेव पूर्णा तत्त्वार्थरत्नरुचिरस्थितरोहणोर्वी ! 
+
 T.A. 37.74 
+
 2. भ्रातापि (? भर्तापि) तस्याः शशिशु भ्रमौलैर्भक्त्या परं पावितचित्तवृत्तिः । स शौरिरात्तैश्वरमन्त्रि भावस्तत्याज यो भूपतिमन्विभावम् ॥ Ibid. 37.75 Here the word 'bhrata' does not stand logical scrutiny. We have therefore suggested the correction within brackets. Šauri was Vatsalika's husband and not brother-is proved by collateral evidence. 
+
 3. Abhi., pp. 8-10; K.T., pp. 157-159. 
+
 28 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 truing the present data with those in the P.T.V.1 we come to learn that Sauri was son of Vallabha who was a Brahmin and a senior minister or the prime minister of king Yasaskara who definitely ruled in the year 939 A.D. Thus, Abhinava who belonged to the third generation from king Yaśaskara should have undertaken the writing of the Tantraloka at quite mature age; his accepted date (circa 950-1025 A.D.) continues to remain the same which may be shown in the following tabular form: 
+
 King Yasaskara 
+
 - Vallabha 
+
 (939 A.D.) 
+
 Sauri-Vatsalikā 
+
 V Karṇa-Amba 
+
 V Yogeśvaridatta 
+
 -Abhinavagupta (950-1025 A.D.) 
+
 (e) ANCESTORS & PARENTS 
+
 Abhinava has provided sufficient insight into his place of origin, ancestors and teachers. Apart from scattered references throughout the text of the Tan- trāloka he has devoted sizable space in the first and the thirtyseventh Ahnikas. His earliest known an- cestor Atrigupta was born in Madhyadeśa which falls 
+
 1. कश्मीरेषु यशस्करस्य नृपतेरासीदमात्यान्रणीः 
+
 श्रीमान्वल्लभ इत्युदाहृततनुर्यः प्राग्र्यजन्मा द्विजः । तस्य स्वाङ्गभवः प्रसिद्धिपदवीपात्रं समग्रैर्गुणैः श्रीशौरिः शिशुचन्द्रचूडचरणध्यानैकरत्नाकरः ॥.... श्रीमद्वत्सलिकाभिधा सहचरी तस्यैव भक्त्युल्लसत्- प्रोद्रिक्तान्तरवृत्ति शंकरनुतौ यस्था मनो जृम्भते ॥ तस्यैवात्मभवो. 
+
 कर्णाभिधानो द्विजः । 
+
 P.T.V. 5-7 (concluding verses, p. 279) 2. To this extent we revise our opinion in the K.T., p. 159. 
+
 ABOUT THE AUTHOR 
+
 29 
+
 in Kumārikā region (earth).' Construed with the material from the P.T.V. Madhyadeśa is found to be synonymous with Antarvedi' (i.e., land between Ganga and Yamuna) which might be identified with modern Kannauj and was the centre of all learning. His surname was Gupta and his proper as well as Gotra names were Atri, if we go by the explanation of Jayaratha. He was brought to Kashmir by king Lalitāditya-Muktāpīda of Karkotaka dynasty (725- 761 A.D.) out of great love and respect possibly when the latter conquered the king Yasovarman of Kan- nauja (730-740 A.D.). Abhinava has paid glowing tributes to Kashmir, the land of learning, beauty and eternal bliss. Atrigupta was settled in Pravarapura, a decent beautiful town founded by an earlier king Pravarasenas (c. 5th - 6th century) on the banks of 
+
 1. कन्याहू ह्वयेऽपि भुवनेऽत्र परं महीयान् । 
+
 निःशेषणास्त्रसदनं किल मध्यदेशस्तस्मिन्नजायत गुणाभ्यधिको द्विजन्मा । कोऽप्यविगुप्त इति नामनिरुक्तगोतः शास्त्राब्धिचर्वणकलोद्यगस्त्यगोत्तः ॥ 
+
 T.A. 37.37-38 
+
 The meaning of the last Pada of T.A. 37.38 is not clear. Does it mean that because of his swallowing the scriptural water he was named Agastya also? 
+
 2. अन्तर्वेद्यामत्रिगुप्ताभिधानः प्राप्योत्पत्तिं प्राविशत्प्राग्र्यजन्मा । 
+
 P.T.V. 11 (concluding verses, p. 280) 3. नामनिरुक्तगोत्र इति अत्रिगोत्र इत्यर्थः । गोत्रनामश्लिष्टतया निर्दिष्टम् । 
+
 4. 
+
 तमथ ललितादित्यो राजा निजं पुरमानयत् प्रणयरभसात् कश्मीराख्यं हिमालयमूर्धगम् । 
+
 T.A.V., XII, p. 412 
+
 T.A. 37.39 
+
 5. श्रीमत्परं प्रवरनाम पुरं च तत्र यन्निर्ममे प्रवरसेन इति क्षितीशः । 
+
 यः स्वप्रतिष्ठितमहेश्वरपूजनान्ते व्योमोत्पतन्नुदसृजत्किल धूपघण्टाम् ॥ 
+
 Ibid. 37.47 
+
 तस्मिन्कुबेरपुरचारिसितांशुमौलिसांमुख्यदर्शन विरूढपवित्रभावे । वैतस्तरोधसि निवासममुष्य चक्रे राजा द्विजस्वपरिकल्पितभूरिसंपत ॥ Ibid. 37.52 
+
 यत् प्रवरसेन इति क्षितीशः पुरं निर्ममे तस्मिन्नमुष्य द्विजस्य ललितादित्यो राजा निवासं चक्रे इति दूरेण संबंध : । T.A.V., XII, p. 413 
+
 30 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 Vitastā, modern Jhelum. We do not know if he is the same as the illustrious composer of the Setu- bandha, because Abhinava is silent on this aspect. A house was built on the bank of Jhelum by king Lalita- ditya for his residence facing the temple of Śiva cre- ating an environ of sanctity around the whole place. The temple, too, was located on the river bank and had a Siddhalinga enshrined in it.' The king also granted enough property and wealth for Atrigupta's maintenance. After a sufficient gap of about 150 years in the lineage of the immigrant family of Atri- gupta, Abhinava's grandfather Varāhagupta was born. He was an eminent scholar. It appears all through the intervening generations, about which no- thing is known, traditions of learning and devotion to Śiva continued unabated. Varahagupta's son Nara- simhagupta, also popularly known as Cukhalaka, was Abhinava's father. His intellect was sharp, mind pure as a result of his deep access into all the branches of learning and heart full of devout devotion to Siva. 
+
 3 
+
 On the authority of Jayaratha we know that the name of Abhinava's mother was Vimalā.5 In fact 
+
 1. रोधः प्रतिष्ठितमहेश्वर सिद्धलिङ्गस्वायम्भुवार्चनविलेपनगन्धपुष्पैः । 
+
 T.A. 37.50 
+
 2. Pandey (Abhi., p. 19) reads 'bhumisampat' for 'bhürisampat' in the printed text which is equally a good reading. We have, however, interpreted it as 'property and wealth' instead of 'jagir following the printed text. 
+
 3. तस्यान्वये महति कोऽपि वराहगुप्तनामा बभूव भगवान्स्वयमन्तकाले । गीर्वाणसिन्धुलहरीकलिताग्रमूर्धा यस्याकरोत् परमनुग्रहमाग्रहेण ॥ 
+
 T.A. 37.53 
+
 4. तस्यात्मजश्चुखलकेति जने प्रसिद्धश्चन्द्रावदातधिषणो नरसिंहगुप्तः । 
+
 यं सर्वशास्त्ररसमज्जन शुभ्रचित्तं माहेश्वरी परमलंकुरुते स्म भक्तिः ॥ 
+
 T.A. 37.54 अस्य हि ग्रन्थकृतः श्रीनरसिंहगुप्तविमलाख्यौ पितरौ इति गुरवः । 
+
 T.A.V., I, p. 14 
+
 5. 
+
 ABOUT THE AUTHOR 
+
 31 
+
 Abhinava himself suggests it in the very first word (Vimalakala) of the Tantraloka'. His mother died when Abhinava was a child and was brought up by his father. His father though young was in the least distracted by deviations natural to the young age and had developed acute devotion to Siva as a result of complete aversion to the worldly attractions3. Mother's premature death brought a sea change in Abhinava's spiritual life and with the removal of the staunchest cause of attachment, he instantly attained salvation in his lifetime itself. His father reared Abhinava not only physically, but intellectually also. We shall have occasion to dilate upon it later. 
+
 Now a brief pause. In this context Abhinava makes no mention of his brother and sister though we have already noted that Manoratha and Amba were his brother and sister respectively. It is difficult to say among the three who was younger and who was elder. From Abhinava's account we know that his mother died in his childhood and he was tended by his young father; it is quite possible that Abhinava might be the youngest. The reason for our holding so lies in the fact that he was a Yoginibhū in whose birth 
+
 1. विमलकलाश्रयाभिनवसृष्टिमहा जननी 
+
 T.A. 1.1 
+
 By a strange coincidence, this verse forms the first introductory verse of the P.T.V. and M.V.V. also. 
+
 2. माता व्ययूयुजदम् किल बाल्य एव । 
+
 दैव हि भाविपरिकर्मणि संस्करोति ॥ 
+
 3. तारुण्यसागरभरानपोह्य वैराग्यपोतमधिरुह्य दृढं हठेन । 
+
 4. 
+
 Ibid. 37.56 
+
 यो भक्तिरोहणमवाप्य महेशचिन्तारत्नैरलं दलयति स्म भवापदस्ताः ॥ तस्यात्मजोऽभिनवगुप्त इति प्रसिद्धः श्रीचन्द्रचूडचरणाब्जपरागपूतः । 
+
 Ibid. 37.55-56 
+
 माता परं बंधुरिति प्रवादः स्नेहोऽतिगाढीकुरुते हि पाशान् । तन्मूलबन्धे गलिते किलास्य मन्ये स्थिता जीवत एव मुक्तिः ॥ Ibid. 37.57 
+
 32 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 parental union did not take place for the satisfaction of carnal instinct but as a matter of spiritual necessity. Abhinava's parents must have taken some time be- fore they were able to develop such a frame of mind. Thus his brother and sister should have been born in the evolutionary phase. In any case the mutual gap bet- ween their birth must be small as the father was quite young when he turned away from worldly allure- ments and mother passed away quite early. Regard- ing Abhinava's own family, the Tantraloka is not of much help. It is from the I.P.V.V. we learn that he was a celibate throughout his life and as such the question of having wife or son etc. did never arise.' 
+
 From the foregoing account the following picture of Abhinava and his family emerges : 
+
 Atrigupta 
+
 several 
+
 intervening 
+
 generations 
+
 Varähagupta 
+
 Vallabha 
+
 Vamanagupta 
+
 Chukhalaka Sauri - Vatsalikä 
+
 Mandra 
+
 or 
+
 V 
+
 (Śauri's 
+
 Narasimhagupta = Vimla 
+
 V 
+
 brother) 
+
 Abhinavagupta Manoratha Amba-Karna 
+
 V 
+
 Ksema 
+
 Yogeśvaridatta 
+
 Utpala Abhinava Cakraka Padmagupta 
+
 (f) TEACHERS 
+
 Coming to his teachers we find Abhinava very in- 
+
 1. दारात्मजप्रभृतिबन्धुकथामनाप्तः । 
+
 I.P.V.V., III, concluding verse 2.ABOUT THE AUTHOR 
+
 333 
+
 formative. He received his first lessons from his father, Narasimhagupta alias Cukhalaka. Grammar, logic and literature were the three fields which he mastered under the guidance of his father,1 but the lessons with his father were just the beginning of his extraordinary intellectual pursuit. It appears while he was enjoying his lessons in literature, he was over- taken by irresistible devotion to Śiva which made him serve numerous teachers at their own seats. In pur- suing his ever-increasing lust he did not even bother for the normal decorum and accepted serfdom of his teachers to acquire knowledge. 
+
 3 
+
 It appears Abhinava had to face tremendous criti- cism for going from one teacher to the other. Al- though he is an ardent follower of the Sripurvasastra, he quotes from the Mataśāstra twice in the Tantra- loka to emphasize that as a black bee (Bhriga) moves from flower to flower to collect scent, in the same way a student, desirous of knowledge, should visit from teacher to teacher. It is why he flocked at the gates of logicians, Mimāmsists, Buddhists, Arhats and Vaiṣṇavas. He also suggests the order in which he 
+
 1. पित्रा स शब्दगहने कृतसंप्रवेशस्तर्कार्णवोर्मिपृषतामलपूतचित्तः । 
+
 साहित्यसान्द्ररसभोगपरो महेशभक्त्या स्वयंग्रहणदुर्मदया गृहीतः ॥ 
+
 2. 
+
 3. 
+
 T.A. 37.58 
+
 स तन्मयीभूय न लोकवर्तनीमजीगणत् कामपि केवलं पुनः । तदीयसंभोगविवृद्धये पुरा करोति दास्यं गुरुवेश्मसु स्वयम् ॥ Ibid. 37.59 तस्मान्न गुरुभूयस्त्वे विशङ्केत कदाचन । 
+
 गुर्वन्तररते मूढे आगमान्तरसेवके ॥ 
+
 प्रत्यवायो य आम्नातः स इत्थमिति गृह्यताम् । 
+
 4. आमोदार्थी यथा भृङ्गः पुष्पात्पुष्पान्तरं व्रजेत् । 
+
 विज्ञानार्थी तथा शिष्यो गुरोर्गुर्वन्तरं व्रजेत् ॥ 
+
 Ibid. 13.349-50 
+
 Ibid. 13.335; also cf. T.A. 22.45-6 
+
 5. अहमप्यत एवाधः शास्त्रदृष्टिकुतूहलात् ।। तार्किक श्रोतबौद्धार्ह वैष्णवादी नसेविषि । 
+
 Ibid. 13.345-46 
+
 34 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 approached the teachers of respective disciplines. He first approached Vaisnavas, then Buddhists, then Siddhanta Saivists, and finally Trika scholars.' It is a very terse proposition to identify all his teachers by name in different disciplines, yet we get a reasonably adequate account in this respect. 
+
 (i) MATHIKAGURUS & (ii) JÑANAGURUS 
+
 Abhinava's teachers may be divided in two broad groups (1) Mathikāgurus (teachers representing a preceptorial school and thereby a definite spiritual approach) and (2) Jñanagurus (teachers imparting knowledge in general in some specific area). In the opening verses of the first Ahnika he deals with the Mathikāgurus (except Amardaka Maṭhikā) and to- wards close of the Tantraloka (37th Ah.) he first dis- cusses Maṭhikāgurus and then other teachers. Under Mathikāgurus he first refers to Bhutiraja." Bhutirāja and his son, whose name Abhinava does not disclose, represent the Natha Maṭhikā, representing dualist- cum-monist school. Traiyamba Mathika, which is related to Tantra-prakriyā, is represented by Lakṣ- managupta who steps into the shoes of Utpala and Somānanda, Abhinava's grand and great-grand tea- chers respectively." Lakṣmaṇagupta is followed by 
+
 1. प्राग्वैष्णवाः सौगताश्च सिद्धान्तादिविदस्ततः । 
+
 क्रमात्त्रिकार्थविज्ञानचन्द्रोत्सुकितदृष्टयः ॥ 
+
 2. For Mathikas see K.T. pp. 32-34. 
+
 3. तदपरमूर्तिर्भगवान् महेश्वरो भूतिराजश्च । 
+
 T.A. 13.348 
+
 T.A. 1.9 
+
 4. श्रीनाथसंतति महाम्बरधर्मकान्तिः श्रीभूतिराजतनयः स्वपितृप्रसादः । 
+
 5. श्रीसोमानन्दबोधश्रीमदुत्पलविनिःसृताः । 
+
 जयन्ति संविदामोदसंदर्भा दिक्प्रसर्पिणः ॥ तदास्वादभरावेशबृहितां मतिषट्पदीम् । गुरोर्लक्ष्मणगुप्तस्य नादसंमोहिनी नुमः ॥ 
+
 Ibid. 37.60 
+
 Ibid. 1.10.11 
+
 ABOUT THE AUTHOR 
+
 35 
+
 Śambhunatha, who represents the Fourth School1. which also goes by the name of Ardha-traiyambaka and is supposed to be identical with Kula Prakriya." Sambhunatha appears to be the main inspiration be- hind the Tantraloka. Although Abhinava has left out teachers of the Amardaka school in the beginning, possibly because they fell outside the purview of Tan- traprakriyā, he utilizes the first apportunity in the concluding verses to refer to Vamanatha who was the son or pupil of Eraka and represented the dualist school founded by Amardaka or Ananda.3 
+
 After discussing Mathikāgurus, he switches over to give out a long list of his main teachers who perhaps taught him secular subjects. The list reads as under: (i) Sricandra Sarmā, (ii) Bhava, (iii) Bhaktivilāsa, (iv) Yogānanda, (v) Abhinanda, (vi) Sivaśakti, 
+
 also see तैयम्बकप्रसरसागरशायिसोमा- 
+
 5 
+
 नन्दात्मजोत्पलजलक्ष्मणगुप्तनाथः । 
+
 T.A. 37.61 
+
 1. तुर्याख्यसंततिमहोदधिपूर्णचन्द्रः श्रीसोमतः सकलवित्किल शंभुनाथः । 
+
 2. विश्रान्तिस्थानतया कुलप्रक्रियागुरुमपि उत्कर्षयति- 
+
 जयताज्जगदुद्धृतिक्षमौऽसौ भगवत्या सह शंभुनाथ एकः । यदुदीरितशासनांशुभिर्मे प्रकटोऽयं गहनोऽपि शास्त्रमार्गः ।। 
+
 Tbid. 37.61 
+
 (T.A. 1.13) T.A.V., I, p. 31 3. आनन्दसंततिमहार्णवकर्णधारः सद्वैशिकवरात्मजवामनाथः । T.A. 37.6 
+
 श्रीचन्द्रशर्मभवभक्तिविलासयोगानन्दाभिनन्दशिवशक्तिविचित्रनाथाः । अन्येऽपि धर्मशिववामनको भटश्री भूतेशभास्करप्रमुखप्रमुखा महान्तः ।। 
+
 4. 
+
 Ibid. 37.62 
+
 5. The name of Candravara, mentioned at No. 11 by Pandey (Abhi., p. 12 ) is not found in the text cited above. Instead, we have some Bhava in his place. The text as it is may also mean "Bhakti- viläsa, the son of Candra Sarma". Pandey adopts a different text, possibly from the MS in his possession- 
+
 श्रीचन्द्रचन्द्रवरभक्तिविलासयोगानन्दाभिनन्दशिव भक्तिविचितनाथाः । 
+
 अन्येऽपि धर्मशिववामनको द्भट श्री भूतीश भास्करमुखप्रमुखा महान्तः ॥ 6. Pandey reads Sivabhakti. Ibid. 
+
 36 
+
 INTRODUCTION TO THE TANTRALOKA 
+
 (vii) Vicitranatha, (viii) Dharmasiva,' (ix) Vamanaka, (x) Udbhața, (xi) Śrībhūtesa and (xii) Bhaskara. 
+
 All these teachers, whose favour was earned by Abhinava due to their service and attendance, con- veyed whatever they knew in their branches to Abhi- nava helping him become self-contented and truly dedicated to exploring reality. Since these are his principal teachers, there might have been some not- so-important teachers, about whom we hardly know anything. Abhinava, however, refers to his several teachers in the body of the text quite often, but use of the term 'Guru' or 'Guravah' is so loose that it is difficult to take a definite stand. Sometimes it refers to a mythical figure, sometimes to a preceptorial ancestor much anterior to him," sometimes to the legendary Kṛṣṇa and sometimes to the earlier com- mentators including even his opponents". Moreover, it does not have an exact chronological connotation. However, on the basis of available evidence, a con- jecture can be made. Abhinava studied the Matanga Agama with some Aniruddhas who also commented 
+
 1. Pandey takes Dharma and Śiva separately (Abhi., p. 12), but they are one as subsequent discussion will bring out. 
+
 2. Pandey reads Bhutiśa. Ibid. 
+
 3. एते सेवारसरचितानुग्रहाः शास्त्रसारप्रौढादेशप्रकटसुभगं स्वाधिकारं 
+
 किलास्मै । 
+
 यत्संप्रादुर्यदपि च जनान्नेक्षताक्षेत्रभूतान् स्वात्मारामस्तदयमनिशं तत्त्व- सेवारसोऽभूत् ॥ 
+
 4. Vide ibid. 8.9 
+
 5. Ibid. 1.100; 9. 278 
+
 6. Ibid. 1.124 
+
 7. Ibid. 8.101; 9.173 
+
 8. श्रीमताप्यनिरुद्धेन शक्तिमुन्मालिनीं विभोः ।। 
+
 व्याचक्षाणेन मातङ्गे वर्णिता निरपेक्षता । 
+
 X 
+
 X 
+
 X 
+
 T.A. 37.63 
+
 Ibid. 13.293-94 
+
 ABOUT THE AUTHOR 
+
 37 
+
 upon the Matanga Sastra an Agama of Siddhanta Saivism. Jayaratha seems to have quoted a long ex- tract from this commentary in his Viveka on the Tan- trāloka 8.433-34.' In addition, Abhinava also fur- nishes some useful information about some of his teachers. Dharmasiva, mentioned at serial No. (viii) above, seems to have imparted lessons on some of the matters connected with Parokşṣa Dikṣā (indirect initi- ation). His views are quoted in the context of judg- ing the comparative strength of the rites (Samskaras)2 which were slightly different from those enunciated by Sambhunatha. His method is then discussed from the T.A. 21.50 to 21.55. Abhinava has referred to two Vamanas above with slight variation in name-one is Vamanatha, his teacher in Saiva dualism and other Vamanaka about whom we perhaps know nothing. According to Pandey one of the Vamanas (which one?) is identical with Abhinava's uncle Vamana- gupta" and has been mentioned in the list of his tea- chers. Possibly it is Vamanaka which goes more in 
+
 तत्स्थाने वृत्तिमन्तीति मतङगे गुरवो मम । 
+
 T.A. 9.261 
+
 Jayaratha remarks न चैतदस्माभिः स्वोपज्ञमित्युक्तम् 'मतङ्गे गुरवो मम' इति । मतङ्गशास्त्रव्याख्यातारः श्रीमदनिरुद्धप्रभृतय इत्यर्थः । T.A.V., VI, p. 211 
+
 For other details see Dwivedi's Upodghata, pp. 16-17. 
+
 1. यदाहुः "कालाग्निर्नरकाणां .... . केचिदेव तु " इति । अत्र च साक्षा- 
+
 . 
+
 दागमे ( मतङ्गागमे) संवादिते ग्रन्थविस्तरः स्यात् इति तद्वृत्तिकृदुक्तं संवादितम् । 
+
 T.A.V., V, p. 275 
+
 T.A. 21.50 Saivism or dua- 
+
 2. श्रीमान् धर्मशिवोप्याह पारोक्ष्यां कर्मपद्धतौ । Dwivedi takes him as a scholar of Siddhanta listic Saivism so to say, who wrote a Paddhati text and quotes Kṣemaraja's statement in support 
+
 "fa 
+
 (Uddyota on SV.T. 11.6-7). 
+
 Vide Upodghata, p. 42; also see p. 20 thereof. 
+
 3. Abhi, pp. 13, 735 
+
 38 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 line with Vamanagupta. But Abhinava nowhere re- fers to Vamanaka as his uncle in the Tantraloka nor does he give the slightest idea about the discipline taught. He, however, refers to one Vamanadatta, who on the testimony of Jayaratha, was the author of one Samvitprakāśa.1 This Vamanadatta has defi- nitely been referred to as 'Gurubhih' and not by name. From the content and context it appears that this Vamanadatta talked of variety in the instrumental knowledge without affecting the overall unity of divine consciousness. In all probability Vamanaka is Vamanadatta who was a teacher of Abhinava, but not his uncle. Amongst the remaining Jñanagurus our informations about Bhaskara are in much better shape, though his name does not figure in the Tan- 
+
 1. नीले पीते सुखे दुःखे संविद्रूपमखण्डितम् । 
+
 गुरुभिर्भाषितं तस्मादुपायेषु विचित्रता । 
+
 T.A. 5.154-55 
+
 Jayaratha adds गुरुभिः वामनदत्ताचार्येण भाषितमिति संवित्प्रकाशे । 
+
 T.A.V., III, p. 467 
+
 2. Dwivedi in his Upodghata (pp. 15-16, 65-66, 72-73, 78, 83) has dwelt in detail on the issue except student-teacher relationship between Abhinava and Vamana. He has identified Hrasvanatha, the author of the Advaya-sampattivārtika with Vamanadatta, the author of the Samvitprakasa. The view needs further examination. His other informations are important. According to him the Samvitprakasa was a text with Vaisnava leanings. Its MS is available in B.H.U. Library (Nos. C4003 and C5186). Vamanadatta seems to have written two more books Subodhamañjari (C4235 at B.H.U.) and Svabodhamañjarīmātṛkā (C100 at B.H.U.). If Hrasvanatha, the son of Harşadatta, is none other than the author of the Samvitprakāśa-if Dwivedi's hypo- thesis prevails-he should be credited with the authorship of the Bodhavilāsa also (K.T., pp. 182-83, fn. 3). Dwivedi has disputed duality of Hrasvanathas (Upodghata, p. 66) suggested by us (K.T., pp. 176-183), but without assigning any reason whatsoever for disagreement. 
+
 ABOUT THE AUTHOR 
+
 39 
+
 trāloka elsewhere.1 From other sources we know that he was the renowned author of the Vārtika on the Śivasutras, in addition to the Vivekanjana and Kak- syastotra. His father was one Divakara and he was a disciple of Srikantha in Spanda branch and of the Stotrakära Siddhinatha in Krama. Some liberty may be taken for certain conjectures with regard to Bhava mentioned at Serial No. (ii) above. Abhinava has referred to a series of teachers coming in preceptorial succession who commented on the Paratriśikā Sāstra running as under-Somānanda, Kalyāņa and Bha- vabhuti. If Abhinava's description depicts the chro- nological succession of teacher-commentators Bha- vabhuti occupies exactly the same point of time (calculating from Somānanda) which is occupied by Bhava as teacher of Abhinavagupta. In that case 'Bhava' would be an abbreviated form of Bhavabhuti or should we be justified in reading in the text "Bhava- bhutivilāsayogananda" in place of "Bhavabhakti- viläsayogananda"? We leave it for future investi- 
+
 gation. 
+
 In this group figures Udbhața also, about whom Abhinava's commentator Jayaratha gives us some information. This Udbhața is different from his ear- lier namesake, who was a poetician and a prominent figure in king Jayapiḍa's court (779-813 A.D.). The latter Udbhața followed Ujjata in succession and happened to be the grand disciple of Bhanuka (850- 
+
 1. Bhaskara is included in the list in T.A. 37.62. The reference to Bhaskara in T.A. 1.21 is of dubious value (Abhi, p. 917) and is more figurative than informative. 
+
 2. See K.T., pp. 144-146. 
+
 3. असदेतदिति प्राहुर्गुरवस्तत्त्वदर्शिनः । 
+
 श्री सोमानंदकल्याणभवभूतिपुरोगमाः ॥ 
+
 T.A. 13.149 
+
 40 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 900 A.D.), an early Krama teacher.' This tradition descended down to Jayaratha intact through interven- ing generations of teachers. However if both the accounts-Abhinava's as well as Jayaratha's--are construed together, it would appear that Abhinava was in possession of both the Krama traditions-one descending through Govindaraja Somānanda→ Lakṣmaṇagupta and the other through Bhanuka→ Ujjata Udbhața. Since Abhinava subscribed to the tradition headed by Somānanda, he is avowedly in- debted to Lakṣmaṇagupta for his lessons in the whole of Tantra-prakriya comprising Krama, Trika and Pratyabhijñā systems. Udbhața comes in for a lone reference, because Abhinava, though, learnt Krama dicta from Udbhața, his lessons were limited to the sphere of Udbhata's branch of Krama alone and his heart did not lie there. 
+
 2 
+
 Coming to the Mathikāgurus our first encounter takes place with one Vämanatha who taught tantras of the dualistic schools to Abhinava. He has no- where been remembered except once. From Abhi- nava's statement we simply know that he was either son or pupil of Eraka, who happened to be an ex- cellent teacher. This Eraka, the teacher in dualism, is not to be confused with his earlier namesake who 
+
 4 
+
 1. तत्त्राद्य: ( गोविन्दराजः) चेदं रहस्यं श्री सोमानन्दाभिधानाय गुरवे संचारयाम्बभूव । द्वितीयोऽपि एवमास्त, तस्यैव चैषा श्रीमदुज्जटोद्भट्टादिनानागुरु- परिपाटी संततिः यत्प्रसादासादितमहिमभिरस्माभिरेतत् प्रदर्शितम् । 
+
 T.A.V., III, p. 192-3; cf. K.T., pp. 137-138 
+
 2. See fn. 3 on page 35 supra. 
+
 3. T.A. 37.60 
+
 4. 'Atmaja' in T.A. 37.60 may not necessarily mean son, it may mean disciple also. See K.T., pp. 135-137. To this extent the views regarding Eraka in K.T., p. 122 stand modified. 
+
 ABOUT THE AUTHOR 
+
 41 
+
 was a Stotrakāra and a Krama propagator (850-900 A.D.).' We are in dark about any further details. 
+
 3 
+
 Next come Bhutirāja (900-950 A.D.) and his son as representative teachers of dualism-cum-nondualism2 initiated by Srinatha. It appears that Abhinava took his lessons from father and son both. As we have seen, Bhütiräja is remembered in the beginning and his son towards the end of the Tantraloka. The Tan- trāloka is silent about his son. From other sources he may be identified with Helārāja, the illustrious commentator of the Vakyapadiya and brother of Indurāja, the latter being Abhinava's teacher in literary criticism. Bhutiraja has claimed highest veneration from Abhinava who views him as another form of the Godhead. Bhutirāja seems to have excelled in many branches of learning in addition to the dualis- tic-monistic discipline. Perhaps his full name was Bhūtirājamiśra. He seems to have initiated Abhinava in the science of the 'size of all the regions' (Bhuvanas) and 'purifiability of all of them' and propounded the theory of hundred Rudras (Satarudras) in the con- text of the treatment of Bhuvanadhvan and Pratisthā Kalā. Another major item which Abhinava learnt 
+
 1. See K.T., p. 122 
+
 2. The view that the system taught was dualism in the K.T., p. 155 needs be rectified. 
+
 3. K.T., pp. 154-155; Abhi., p. 214 
+
 4. 
+
 5. 
+
 6. 
+
 तदपरमूर्तिर्भगवान् महेश्वरो भूतिराजश्च । 
+
 Cp. गुरुभ्योऽपि गरीयांसं युक्तं श्री चुखलाभिधम् । ततो गुरुतरः श्रीमान्भूतिराजो महामतिः । 
+
 अथ सकलभुवनमानं यन्मह्यं निगदितं निजैर्गुरुभिः ।। तद्वक्ष्यते समासात् बुद्धौ येनाशु संक्रमेत् । 
+
 अन्ये तु समस्तानां शोध्यत्वं वर्णयन्ति भुवनानाम् । श्रीभूतिराजमिश्रा गुरवः प्राहुः पुनर्वही रुद्रशतम् ॥ 
+
 T.A.19. 
+
 M.V.V. 1.5-6 
+
 T.A. 8.406-7 
+
 Ibid. 8.410 
+
 42 
+
 INTRODUCTION TO THE TANTRALOKA 
+
 from Bhutiraja was Brahmavidya which consisted of such Mantras which if read at the time of death would lead to instant self-realization.' He also imparted three esoteric disciplines pertaining to Pranava, Māyā and Bindu to Abhinava in the course of discussion on Mantravirya. Several references in the Tantrāsāra to Bhūtiraja in the context of Krama system gave rise to a suspicion among later scholars that Krama was also one of the domains in which Abhinava was introduced by Bhutiraja. According to Jayaratha there was no substance in such statements." Jaya- ratha has also taken exception to his being a pupil of Cakrabhānu (1050-1100 A.D.), an important' Krama teacher. Bhutiraja is one person about whom we have some more informations, most of them provided by Abhinava himself. But we refrain from them at the moment as we are concentrating on the material in 
+
 1. अथोच्यते ब्रह्मविद्या सद्यः प्रत्ययदायिनी ॥ 
+
 शिवः श्रीभूतिराजो यामस्मभ्यम् प्रत्यपादयत् । सर्वेषामेव भूतानां मरणे समुपस्थिते ॥ 
+
 यथा पठितयोत्क्रम्य जीवो याति निरञ्जनम् । 
+
 2. एतद्विद्यात्रयम् श्रीमान् भूतिराजो न्यरूपयत् ॥ 
+
 यः साक्षादभजच्छ्रीमाञ्श्रीकण्ठो मानुषीं तनुम् । 
+
 T.A. 30.62-64 
+
 Ibid. 30. 120-121 
+
 3. श्रीदेवी पंचशतिकेऽपि अस्य श्रीसोमानन्द भट्टपादेभ्यः प्रभृति त्रिकदर्शन- वदेव गुरवः इति न तत्राप्यस्य श्रीभूतिराजो गुरुत्वेन स्थितः, न च असावप्यस्य न गुरुः यद्वक्ष्यति । 
+
 4. अतश्चास्य गुरुक्रममजानानै रद्यतनैः 
+
 "श्रीभूति राजनामाप्याचार्यश्चक्रभानुशिष्योऽन्यः । 
+
 अभिनवगुप्तस्य गुरोर्यस्य हि कालीनये गुरुता ।। 
+
 इत्यादि यदुक्तं तत्स्वोत्प्रेक्षितमेव इत्युपेक्ष्यम् । 
+
 T.A.V., III, p. 194 
+
 Ibid., III, p. 193 
+
 Dwivedi accepts Bhutiraja as the son of Cakrabhānu, which is not borne out by facts, vide Upodghata, p. 52 and K.T., p. 156.ABOUT THE AUTHOR 
+
 43 
+
 the Tantraloka1 alone. Thus Bhutirāja emerges as an extremely celebrated scholar who was father of two eminent scholars e.g., Induraja and Helārāja and teacher of Abhinavagupta and Helārāja. 
+
 Next comes Lakṣmaṇagupta who commands very high veneration from Abhinava. He comes in the preceptorial lineage of Traiyambaka and is responsi- ble for Abhinava's training in the entire monistic thought of Kashmir including Krama, Trika and Pratyabhijñā branches, excepting Kula. He directly inherited the traditional secrets from Traiyambaka through Somānanda and Utpala. Thus he was direct disciple of the last. We have already marked Abhi- nava referring in very eloquent words to him." 
+
 In addition to Trika, Krama and Pratyabhijñā which constitute Tantra-prakriya, Abhinava refers to his other views also. From the T.A. 15.247 to 254 Abhinava discusses a special type of Nyasa, which according to Jayaratha was advocated by Lakṣmaṇa- gupta' in the overall context of Samayidikṣā. This was one of the six original Nyāsas employed to in- voke and realize Kalasaṁkarşini. Lakṣmaṇagupta differed from Sambhunatha in respect of Saktanyasa." 
+
 1. See T.S., p. 30; M.M.P, p. 127; Bh. G.S., p. 186; M.P.(S), p. 115; I.P.V.V., III, p. 405; Abhi., pp. 165-66; and K.T., pp. 152-156. 
+
 2. तैयम्बकप्रसरसागरशायिसो मानन्दात्मजोत्पलजलक्ष्मणगुप्तनाथः । 
+
 T.A. 37.61 
+
 The word Atmaja is to be understood in the sense of pupil and not son. Pandey's views (Abhi., pp. 7, 164) need revision. See K.T., p. 135. 
+
 3. Vide fn. 5, p. 34 supra. 
+
 4. श्री लक्ष्मणगुप्तः पुनरेतदन्यथा व्याचख्यावित्याह T.A.V., IX, p. 122 5. While commenting on शंभुनाथो न्यासविधी देवो हि कथमन्यथा T.A. 15.246 Jayaratha observes शंभुनाथ इति श्रीलक्ष्मणगुप्तमते हि अन्यथा न्यासविधिरित्याह । 
+
 Ibid., IX, p. 122 
+
 44 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 Similarly Jayaratha points out that Lakṣmaṇagupta held a different construction of the Mantras1 as opposed to the 'ancients'. The Tantraloka and Viveka both do not go beyond this point. From it it appears that Lakṣmaṇagupta must have certain work or works to his credit of which we know very little. It is only from another source, the I.P.V.V., that we know that he was the author of one Śriśāstra which, subject to further investigations, may be identified with Sārada- tilakatantra. It appears strange at the first sight that Abhinava neither refers nor quotes from the S.T. any- where, perhaps due to the fact that the S.T. does not purport to be a work relating to the disciplines in which Abhinava was specifically groomed by Laks- maṇagupta. Future studies may investigate if the views appearing in the Tantraloka or Jayaratha are traceable or not to the ST. 
+
 We have now arrived at the ultimate phase of our enquiry regarding his teachers. Sambhunatha, the prime force and motivation behind the Tantrāloka, was Abhinava's guide in Kula system or Ardha-Trai- yambaka school, a school emanating from Traiyam- baka through his daughter. Kula system was also 
+
 1. Commenting on ':' in T.A. 30.15 Jayaratha remarks- 
+
 दीप्तरिति 
+
 प्रकारादीनामकारादीनां ह्रस्वानामाग्नेयस्वभावत्वात् तेजोमयैरिति प्राच्याः, सरेफैरिति श्रीमल्लक्ष्मणगुप्तपादाः । 
+
 T.A.V., XII, p. 184 
+
 2. श्रीशास्त्रकृद्घटितलक्ष्मणगुप्तपादसत्योपदर्शितशिवाद्वयवाददृप्तः । 
+
 I.P.V.V., III, p. 406 
+
 3. The author of the Saradatilaka has styled himself as Laks- maṇadeśika. Dwivedi takes them as two different persons, vide Upodghata, p. 56. However he does not state reasons nor does he examine the reasons put forward so far. See K.T., pp. 146-150. 
+
 ABOUT THE AUTHOR 
+
 5 
+
 45 
+
 known as Kula-prakriya.' Among all his teachers Sambhunatha is held in highest regard. He is com- pared to the sun whose rays removed the darkness caused by ignorance from the heart of Abhinava.2 He is again described as the sun in the vast firmament of the lineage of Traiyambaka. He is further des- cribed as the moon for the ocean of the Trika sys- tems. Bhattanātha was his other title or name. It was because of him and his consort that Abhinava shone with spiritual splendour consequent upon the total removal of his sense of duality. It was due to this special calibre, Abhinava could embark upon writing the Tantraloka. The consort here is some Bhagavati, as we know it from another verse." In fact she was the spiritual messenger (Dūti) and has been specially mentioned because under Kula Pra- kriyā knowledge is transmitted through her alone. In other words Abhinava was favoured by Sambhu- nätha through his Dūti Bhagavati." 
+
 Sambhunatha's preceptorial lineage may be pre- sented like this Sumatinātha Somadeva-Sam- 
+
 1. See fn. 2 on p. 35 supra. 
+
 2. श्रीशंभुनाथ भास्करचरणनिपातप्रभापगतसंकोचम् । 
+
 अभिनवगुप्तह दम्बुजमेतद्विचिनुत महेशपूजनहेतोः ॥ 
+
 3. श्री वैयम्बकसन्तानवितताम्बरभास्करः । 
+
 4. श्री शंभुनाथ आदिक्षत् त्रिकार्थाम्बोधिचन्द्रमाः । 
+
 T.A. 1.21 
+
 Ibid. 6.88 
+
 Ibid. 29.95 
+
 5. श्रीभट्टनाथचरणाब्जयुगात्तथा श्रीभट्टारिकांघ्रियुगलाद्गुरुसंततिर्या । 
+
 बोधान्यपाशविषनुत्तदुपासतोत्थबोध ोज्ज्वलोऽभिनवगुप्त इदं करोति ॥ 
+
 श्रीभट्टनाथ इति श्रीशम्भुनाथः । श्री भट्टारिका इति भगवत्याख्या अस्य दूती । 
+
 Ibid. 1.16 
+
 T.A.V., I, p. 34 
+
 6. जयताज्जगदुद्धृतिक्षमोऽसौ भगवत्या सह शंभुनाथ एकः । T.A. 1.13 7. कुलप्रक्रियां दूतीमुखेनैव शिष्यस्य ज्ञानप्रतिपादनाम्नायात् इह गुरुतद्दू- त्योः समस्कन्धतया उपादानम् । 
+
 T.A.V., I, p. 35 
+
 46 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 4 
+
 bhunatha Abhinava.' Sometimes Abhinava speaks of Sambhunatha as the direct recipient of grace and knowledge from Sumati, ignoring Somadeva. Accor- ding to Jayaratha one should not get confused on such statements, because the 'teacher' here means the lineage teacher' or the word 'teacher' has to be un- derstood to stand for teacher or grand-teacher, as the case may be. Jayaratha adds to our information by quoting from certain other source. From it, it is clear that Sambhunatha hailed from some seat situ- ated in south known as Jalandhara and was a com- petent authority in the system of five sources thriving on Atimärga. This is an important statement from the historical angle. As we know Krama has been called to have emanated from Northern seat." As against this Jalandhara is described not as Southern Pitha but as being situated somewhere in south. 
+
 शाम्भवाख्यं समावेशं सुमत्यन्तेनिवासिनः । 
+
 T.A. 1.213 
+
 Jayaratha remarks "सुमत्यन्तेनिवासिनः इति श्री सोमदेवादयः । श्रीसुमति- नाथस्य श्रीसोमदेवः शिष्यः, तस्य श्रीशम्भुनाथः इति हि आयातिक्रमविदः । 
+
 cp. श्रीसोमतः सकलवित् किल शम्भुनाथः । 
+
 2. इति श्रीसुमतिप्रज्ञाचन्द्रिकाशान्ततामसः । श्रीशंभुनाथ 
+
 T.A.V., I, p. 236 
+
 Also see "श्रीशंभुनाथो मे तुष्टस्तस्मै श्री सुमतिप्रभुः । 
+
 T.A. 37.61 
+
 ॥ 
+
 T.A. 10.287 
+
 T.A. 5.41 
+
 3. यत्तु "लोकेऽभूत्सुमतिः ततः समुदभूत् तस्यैव शिष्याग्रणीः । श्रीमान्शंभुरिति 
+
 37 
+
 इत्यन्यत्रोक्तं तत्परमगुर्वभिप्रायेण योज्यम् । यद्वा “यावानस्य संतान- 
+
 स्तावानेको गुरुर्मतः" इत्यादिवक्ष्णमाणनीत्या अवलम्बनेन व्याख्येयम् । 
+
 4. कश्चिद्दक्षिण भूमिपीठवसतिः श्रीमान्विभुर्भैरवः 
+
 T.A.V., I, p. 236 
+
 पञ्चस्रोतसि सातिमार्गविभवे शास्त्रे विधाता च यः । 
+
 लोकेऽभूत्सुमतिस्ततः समुदभूत्तस्यैव शिष्याग्रणीः 
+
 श्रीमाञ्छम्भुरिति प्रसिद्धिमगमज्जालन्धरापीठतः ॥ Ibid, I, p. 236 
+
 5. उत्तरपीठलब्धोपदेशात् 
+
 Ibid., III, p. 192 
+
 ABOUT THE AUTHOR 
+
 47 
+
 47 
+
 Geographically, present Jalandhara falls towards south of Kashmir. Could we therefore surmise that Sambhunatha belonged to modern Jalandhara and Abhinava walked down to him in pursuit of his studies, since former's fame had already spread far and wide from his spiritual seat itself. The other significant point that merits consideration is that he excelled in Atimärga, which was perhaps more akin to Tripura system. This problem has occupied our attention elsewhere1 and our information has re- mained static so far. 
+
 Sambhunatha's learning was not confined to Kula system alone. Jayaratha while explaining the T.A. 1.13 says that the choice of diction implies his hav- ing contributed to the disciplines like Trika etc. In order to endorse his statement he quotes a verse from Abhinava suggesting that Abhinava's commentary on one of the Trika Sastras, incorporated his learning from Sambhunatha who had mastered all the scrip- tures. However, as the verse could not be traced to any of Abhinava's published works, it is difficult to precisely pinpoint the system. It may, however, be observed in passing that Sambhunatha exercised considerable impact on Abhinava in respect of his 
+
 1. Vide K.T., pp. 27-29. If Atimärga is synonymous with Tri- pură, it is curious that Jayaratha nowhere refers to Sambhu- nätha in his V.M.V, a text devoted to Tripura school. It is now for the future studies to decide on it. 
+
 2. यदुदीरितशासनांशुभिर्मे प्रकटोऽयं गहनोऽपि शास्त्रमार्गः ॥ T.A. 1.13 3. शास्त्रमार्गो विमलो जातः इत्यनेनास्य त्रिकाद्यागमव्याख्यातृत्वमपि प्रका- शितम् । यदुक्तमनेनैव -- 
+
 " इत्यागमं सकलशास्त्र महानिधानाच्छ्री शंभुनाथवदनादधिगम्य सम्यक् । शास्त्रे रहस्यरस संततिसुन्दरेऽस्मिन् गंभीरवाचि रचिता विवृतिर्मयेयम् ॥ 
+
 T.A.V., I, p. 32 
+
 48 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 two other texts e.g., PT.V and M.V.V.2. Since other sources are not our immediate concern we have to refrain from alluding to them unless it is absolutely necessary. 
+
 Abhinava has cited Sambhunatha as an authority on several occasions and on different issues. Abhi- nava learnt Dhyana (meditation), as the first among Anava Upayas, from him. The second Upaya, con- sisting of articulation of the state of vital airs (Prāṇa- vṛttisamuccara) is also credited to the teachings of Sambhunatha. This included variety of blisses from Nirānanda, to Jagadananda. Under the same Aṇa- vopaya presentation of the 'day-night division'(Aho- rätravibhāga the second ancillary topic under the Kälädhvan, i.e. passage of time) and his criticism of other inferior views' carries the imprints of Sambhu- 
+
 5 
+
 1. P.T.V., Verse 18, pp. 281-82. 
+
 2. M.V.V. 1.4. 
+
 3. But for Jayaratha our task in this connection would have been impossible because of the indiscriminate use of the word Sambhu or Sambhunatha, sometimes meaning a deity and some- times his teacher. Construing Abhinavagupta, Jayaratha and contextual circumstances we have tried to gather threads. 
+
 4. इत्येतत् प्रथमोपायरूपं ध्यानं न्यरूपयत् । 
+
 श्रीशंभुनाथो मे तुष्टस्तस्मै श्री सुमतिप्रभुः ॥ 
+
 5. अथ प्राणस्य या वृत्तिः प्राणनाद्या निरूपिता ।. 
+
 तदेव जगदानंदमस्मभ्यं शंभुरूचिवान् । 
+
 T.A. 5.43 
+
 Ibid. 5.43-52 
+
 Jayaratha remarks " तदेतत् प्रमावात्म चिदेकरूपं परं तत्त्वं 
+
 जगता निजानंदाद्यात्मना विश्वेन रूपेण आनन्दो यत्र यतश्चेति जगदानन्दशब्दवाच्यम् 
+
 अस्मभ्यं श्रीशंभुनाथ आदिशत्, न पुनरेतदस्माभिः स्वोपज्ञमेवोक्तमित्यर्थः । 
+
 6. दिनराविक्रमं मे श्रीशम्भुरित्थमपप्रथत् । 
+
 श्रीसन्तान गुरुस्त्वाह ध्यानं बुद्धाप्रबुद्धयोः ॥ 
+
 T.A.V., III, p. 356 
+
 T.A. 6.89 
+
 7. 
+
 हेये तु दर्शिते शिष्या सत्पथैकान्तदर्शिनः । 
+
 तु 
+
 Ibid. 6.91-92 
+
 अलं वानेन नेदं वा मम प्राङ्मतमत्सरः ॥ 
+
 ABOUT THE AUTHOR 
+
 49 
+
 natha's teachings. In the overall context of passage of space (Deśādhvan)' Abhinava has openly acknowl- edged the debt of Sambhunatha in his treatment of the five stages of human experience such as wakeful- ness etc., being the third ancillary topic under the cla- boration of the sub-categories (Tattvabheda). Simi- larly in the course of enunciating the second ancillary topic, i.e. the procedure of categories (Tattvavidhi), fifteen internal varieties of every category and the like have been discussed by Abhinavagupta only in the light of what Śambhunatha preached him by trans- mitting the entire tradition which the former secured from his teachers. In the same context Abhinava- gupta discusses the categories as symbolized by Prāṇic variety latent in the Khecaricakra keeping within the in- structions of Sambhunatha. In the thirteenth Ahnika while dwelling upon the fifth ancillary topic i.e., variety of disappearance (Tirobhavavaicitrya), Abhinavagupta invokes the criteria as laid down by Sambhunatha as to who ought to be preferred as a teacher between a Yogin and a Jñanin." It is in this Ahnika 
+
 1. इति देशाध्वविभागः कथितः श्रीशंभुना समादिष्टः । 
+
 T.A. 8.452 
+
 Jayaratha explains श्री शंभुना as परमेश्वरेण गुरुणा च । 
+
 T.A.V., V, p. 283 
+
 2. तस्यामेकः प्रमाता चेदवस्थं जाग्रदादिकम् । 
+
 तद्दर्श्यते शंभुनाथप्रसादाद्विदितं मया ॥ 
+
 X 
+
 X 
+
 श्री शंभुनाथः सद्भावं जाग्रदादौ न्यरूपयत् । 
+
 3. अधुना प्राणशक्तिस्थे तत्त्वजाले विविच्यते ॥ 
+
 T.A. 10.230 
+
 Ibid. 10.287 
+
 T.A. 10. 186-87 
+
 भेदोऽयं पाञ्चदश्यादिर्यथा श्रीशंभुरादिशत् । Jayaratha adds— श्रीशंभुरादिशदित्यनेन गुरुपरम्परागतत्वादविगीत- T.A.V., VII, p. 129 
+
 प्रसिद्धिनिबन्धत्वमस्य ध्वनितम् । 
+
 4. 
+
 स इत्थं प्राणगो भेदः खेचरीचक्रगोपितः ॥ मया प्रकटितः श्रीमच्छाम्भवाज्ञानुवर्तिना । 5. विभागस्त्वेष में प्रोक्तः श्रीशंभुनाथेन दर्श्यते । 
+
 T.A. 10.226-27 
+
 Ibid. 13.333 
+
 50 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 that Abhinavagupta does not accept Bhedavādin's view regarding existence of gradation in the descent of grace on the strength of Sambhunatha's teachings.' Moving further we notice Abhinava discussing the varieties of 'general assignment' (Sāmānyanyāsa ) as a third ancillary topic under Samayidikṣā and ascribing it to his teacher." In the same Ahnika Abhinavagupta expresses his indebtedness to him in the presentation of various types of 'special assignment' (Visesanyāsa) and underscores the difference between the two lines adopted by Sambhunatha and Lakṣmaṇagupta, his two teachers, in respect of the Sripūrvaśāstra. Abhi- navagupta reconciles the two positions saying that one should first practice sixfold Sāktā Nyāsas as advocated by Lakṣmaṇagupta and then switchover to sixfold Saiva Nyasas enjoined by Sambhunatha." Samayidikṣā pertains to the daily functions (Nitya- karma) of the aspirants. All round worship of the cycle aiming at adoring the ultimate principle of efful- gence is the sixteenth ancillary topic while the fire- 
+
 1. तस्मान्न मन्महे कोऽयं शक्तिपातविधेः क्रमः ॥ इत्थं भ्रान्तिविषावेशमूर्च्छानिर्मोकदायिनीम् । श्रीशंभुवदनोद्गीर्णां वच्च्यागममहोषधिम् ।। 2. संहारदानादानादिशक्तियुक्ता यतो रली ॥ 
+
 एकत्वेन स्मरन्तीति शंभुनाथो निरूचिवान् । 3. इत्थं श्रीपूर्वशास्त्रे में संप्रदायं न्यरूपयत् ॥ 
+
 शंभुनाथो न्यासविधौ देवो हि कथमन्यथा । 
+
 T.A. 13.102 
+
 Ibid. 15.132-33 
+
 न्यासे विवर्ज्यतेऽमुष्मिन्नगान्यप्यस्य सन्ति हि ॥ T.A. 15.245-246 Jayaratha makes a significant remark — शंभुनाथ इति श्रीलक्ष्मणगुप्तमते हि अन्यथा न्यासविधिरित्याशयः । T. A. V., IX, p. 122 
+
 4. एतच्च गुरुशास्त्रसंप्रदायेन अस्माभिरुक्तमित्याह-- 
+
 इति भैरवपरपूजा तत्त्वं श्रीडामरे महायागे । 
+
 स्वयमेव सुप्रसन्नः श्रीमान्शंभुर्ममादिक्षत् । 
+
 (T.A. 15-352)-Ibid., IX, p. 177 
+
 ABOUT THE AUTHOR 
+
 51 
+
 rites (Vahnikarma) constituted by Samskaras (Sams- kriyātattva) is the twentyfirst ancillary topic1-both these items have been reproduced by Abhinavagupta as he imbibed them from Sambhunatha. Another item of esoteric value was Jalayo ga which was a major constituent of the indirect initiation (Parokṣa Dikṣā)." In the context of the eighth ancillary topic under the occasional functions (Naimittika Vidhi) Abhi- navagupta examines the phenomenon of death elimi- nating the fear thereof and while rejecting other views he swears by one propagated by Sambhunatha. The whole of the twentyninth Ahnika is devoted to Kula- yaga or the esoteric practices according to Kula-pra- kriya, the specific area where Sambhunatha excelled. But even here certain items were propounded with greater emphasis on the authority of SambhunathaR. For instance, the method of worship (Arcavidhi, the third ancillary topic in the Ahnika) included the doct- rine of ten aspects of Homa (offering oblation to fire) which emanated from Sambhunatha. In the thirtyfifth Ähnika Abhinavagupta's attempt to strike a synthesis and project a harmonious construction of the different scriptures is again inspired by the teach- ings of Sambhunatha." 
+
 From the foregoing account it is obvious that 
+
 1. इत्येतत्संस्क्रियातत्त्वं श्रीशंभुर्मे न्यरूपयत् । 
+
 2. योगः श्रीशंभुनाथागमपरिगमितो जालनामा मयोक्तः । 
+
 3. 
+
 न च तद्दर्शितं मिथ्या स्वान्तसम्मोहदायकम् । तदित्थं प्रयाणस्यैतत्तत्त्वं श्रीशंभुनाथतः ।। अधिगम्योदितं तेन मृत्योर्भीतिर्विनश्यति । 4. दशान्यास्तदुपायायेत्येवं होमे दशांशताम् । 
+
 श्रीशंभुनाथ आदिशत्त्रिकार्याम्बोधिचन्द्रमाः ।। 5. इत्थं श्रीशंभुनाथेन ममोक्तं शास्त्रमेलनम् । 
+
 T.A. 15.408 
+
 Ibid. 21.26 
+
 Ibid. 28.366-67 
+
 T.A. 29.95 
+
 Ibid. 35.44 
+
 52 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 Sambhunatha exercised tremendous influence not over Abhinavagupta's knowledge alone but also over his basic approach towards tantric wisdom and life. It is a matter of great misfortune that none of his works is extant today.' In certain circles he has also been equated with Siddhinatha, the author of the 
+
 1. However, Pandey assigns one Tantrasadbhava to Sambhu- nätha on the basis of the T.A. 30.99a- 
+
 तुलामेलकयोगः श्रीतन्त्रसद्भावशासने । 
+
 य उक्तः शम्भुनाथेन स मया दर्शितक्रमात् ॥ 
+
 (Abhi., p. 583) 
+
 Dwivedi agrees with Pandey's views [NST (Upodghata) p. 37 and also Upodghäta, p. 38]. This view is further strengthened when we find the same idea echoed in the T.A. 29.212- 
+
 शंभुनाथेनोपदिष्टां दृष्टां सद्भावशासने । 
+
 T.A.V. 
+
 According to Jayaratha this Sadbhavaśäsana is none other than the Tantrasadbhāva [ सद्भावशासने इति श्रीतन्त्रसद्भावे (29th Ah.), XI, p. 136]. However the equation does not hold further. As we have already pointed out earlier, the use of 'Sambhunatha' is not definitive-sometimes it stands for the divine and sometimes for the teacher. Here and in most contexts it denotes the divine source. In the T.A. 20.12 Abhinavagupta ascribes the authorship of the Tantrasadbhava to the Godhead- 
+
 यथा श्रीतन्त्रसद्भावे कथिता परमेशिना । श्रीपूर्वशास्त्रेऽप्येषा च सूचिता परमेशिना ।। 
+
 a. Abhinavagupta reiterates his views regarding the revelatory 
+
 character of the text in the T.A. 30.59- 
+
 व्योमस्विति शिवेनोक्तं तन्त्रसद्भावशासने । 
+
 Even in continuation with the T.A. 30.99, cited above, Abhinavagupta explicates his stand in the T.A. 30.101- प्रकर्तव्या यथा दीक्षा श्रीसन्तत्यागमोदिता । 
+
 कथ्यते हाटकेशानपातालाधिपचोदिता ॥ 
+
 Then on the strength of Abhinavagupta's own statements the Tantrasadbhava is a work of divine origin and Sambhu- nätha, his teacher, could not be its author. According to Dwivedi (Upodghata, p. 38) the work is available in M.S. and the quotes from it in the T.A.V. are traceable to it.1 
+
 ABOUT THE AUTHOR 
+
 53 
+
 Krama Stotra, but on a close scrutiny the view is difficult to maintain.1 
+
 Thus, the known part of the glittering galaxy of Abhinavagupta's teachers comes to a close. How- ever, it does not wind up the list altogether, because several references in the Tantraloka to his teachers are either obscure or doubtful and thereby they stren- gthen the possibility of there being several other tea- chers. From the quotations it appears that Abhinava- gupta, in addition to different disciplines, learnt diff- erent texts in the same discipline from different tea- chers, but at the present juncture our informations are severely handicapped. Moreover, his teachers in Buddhism, Vaisnavism and Jainism etc. are not known to us. A few of them may be from the list furnished by Abhinavagupta and a few not-so-impor- tant might have escaped any mention at all. To re- capitulate, the following chart may give a brief idea of his teachers and the subjects they taught on the basis of the material in the Tantraloka: 
+
 1. K.T., pp. 140-143; for other details see Abhi., pp. 489, 577 and Upodghata, pp. 76, 79. 
+
 2. 
+
 अथ स्थूलोदयोऽर्णानां भव्यते गुरुणोदितः । 
+
 X 
+
 X 
+
 T.A. 6.240 
+
 X 
+
 इति सप्तमाख्यातं गुरुपंक्तिविधौ प्रपूज्यमस्मद्परमगुरुभिः । 
+
 X 
+
 X 
+
 अभिनवगुप्तगुरुः पुनराह हि सति वित्तदेशकालादी ।। अपवर्गे हि विस्तीर्णकर्मविज्ञानसंग्रहः कार्यः । 
+
 X 
+
 X 
+
 आवाहने मातृकाणं मालिन्यर्णं च पूजने ॥ 
+
 कुर्यादिति गुरुः प्राह स्वरूपाप्यायनद्वयात् । 
+
 X 
+
 X 
+
 आवाह्येष्ट्वा प्रतति श्रीस्वच्छन्द निरूपितम् ॥ अनेनैव पथा नेयमित्यस्मद्गुरवो जगुः । 
+
 Ibid. 16.10 
+
 X 
+
 Ibid. 16.195-96 
+
 X 
+
 Ibid. 17.10-11 
+
 X 
+
 Ibid. 17.18-19 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 54 
+
 Name 
+
 Subject 
+
 MATHIKĀGURUS 
+
 Grammar, literature and 
+
 1. Narasimhagupta 
+
 (father) alias 
+
 logic 
+
 Cukhalaka 
+
 2. Vamanatha 
+
 3. Bhūtirāja 
+
 4. Bhutirajatanaya 
+
 (Helārāja) 
+
 5. Lakṣmaṇagupta 
+
 6. Sambhunatha 
+
 7. Śricandra Śarmā 
+
 8. Bhava 
+
 (? Bhavabhuti) 
+
 9. Bhaktivilāsa 
+
 10. Yogananda 
+
 11. Abhinanda 
+
 Dualistic Saivism Dualistic-cum-monistic Saivism, Brahmavidya, Vid- yatraya and Satarudriya Dualistic-cum-monistic Saivism (and perhaps phi- losophy of grammar ?) Tantra-prakriya (Krama, Trika and Pratyabhijñā or Traiyambaka school of monism) and the Devipañca- śatika plus Šaktanyāsa Kulaprakriya (Ardhatraiy- ambaka school of monism) and the Sripurvaśāstra plus 
+
 several other matters. 
+
 JÑANAGURUS 
+
 ? 
+
 Triśikāśāstra (?) 
+
 ? 
+
 ? 
+
 ? 
+
 12. Śivasakti 
+
 ? 
+
 13. Vicitranätha 14. Dharmasiva 
+
 15. Vamanaka 
+
 (? Vamanadatta) 
+
 ? 
+
 Parokṣa-dikṣā (partly) Upaya-bheda 
+
 16. Udbhata 
+
 17. Śrībhūtisa 18. Bhaskara 
+
 19. Aniruddha 
+
 (II) Works 
+
 ABOUT THE AUTHOR 
+
 55 
+
 Sister tradition of Krama 
+
 system 
+
 ? 
+
 Śivasūtras and Spanda school (?) Matanga Agama. 
+
 From Abhinava's teachers we now turn to his works' confining our enquiry to the titles cited in the Tantraloka alone. Interestingly the number of own works mentioned is not large. His first ever reference has been made to one Anuttaraprakriya' which has been found identical with the Parātrimśikāvivaraṇa by Jayaratha. It is to be noted that Abhinavagupta makes no mention of its authorship. He has referred to other Vivṛtis on the P.T. but they are all by his predecessors and goes on citing views from one such Vivṛti in the T.A. 13.150-154. In view of Abhinava- gupta's silence on the authorship are we justified in branding the Anuttaraprakriya as his work? Perhaps yes, for (i) Jayaratha interprets Anuttaraprakriyā as Parātrisikävivarana, which is exactly the title of Abhi- navagupta's published work, (ii) Abhinavagupta has 
+
 1. For material from additional sources see Abhi. pp. 27-131; Abhinavagupta and His works, Raghavan, Varanasi, pp. 17-32 and also pp. 33-77; K.T., pp. 159-165. 
+
 2. अनुत्तरप्रक्रियायां वैतत्येन प्रदर्शितम् । 
+
 एतत् तस्मात्ततः पश्येद्विस्तरार्थी विवेचकः ॥ 
+
 Jayaratha explains- 
+
 अनुत्तरप्रक्रियायामिति श्रीपराविशिकाविवरणादौ इत्यर्थः । 
+
 T.A. 9.313 
+
 T.A.V., VI, p. 249 
+
 3. श्री सोमानन्दकल्याणभवभूतिपुरोगमाः । 
+
 तथाहि श्री त्रीशिकाशास्त्रविवृतौ तेऽभ्यधुर्बुधाः । 
+
 T.A. 13.149-50 
+
 56 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 shunned detailed discussion on the inter se relation- ship amongst categories where each succeeding cate- gory represents the power and each preceding the powerful and commends his another work for a detailed understanding. The problem, inter alia, has been treated in detail in the P.T.V. by Abhinavagupta (pp. 99-218). Abhinavagupta's commendation, com- ing as it does in the Tantraloka, assumes special signi- ficance because the Paratrimśikā has been called the Trikasutra elsewhere and has been shown to serve as an index to the entire subject matter of Trika System,' (iii) The word "Purogamaḥ" (i.c. pilots or precursors) clearly implies that he authored a commentary on the P.T. which was preceded by his teachers namely Somānanda, Kalyāṇa and Bhavabhuti. Profuse refer- ences to Somānanda and his univocal acknow- ledgement of debt to the former towards the end of his P.T.V. leave no doubt about the fact that the reference to the Anuttaraprakriya is to his own work. 
+
 The other work which has found mention is the Maliniślokavārtika where the nature of five sources starting with their origin from the transcendontal base has been taken up for elaborate treatment. One, eager to learn, may refer to it because Abhinavagupta is not in the habit of unnecessary repetition." This text 
+
 1. उक्तं श्रीत्रिकसूत्रे च जायते यजनं प्रति । 
+
 T.A. 12.15 
+
 Jayaratha adds श्रीत्रिकसूत्र इति त्रिकप्रमेयसूचिकायां श्रीरामणिकाधान g: T.A.V., VII, p. 101 (12th Ahnika) 
+
 2. तत्तत्त्वनिर्मलस्थितिविभागिहृदये स्वयं प्रविष्टमिव । श्री सोमानन्दमतं विमृश्य मया निबद्धमिदम् ॥ 
+
 P.T.V., concluding verse 19, p. 282 
+
 3. मयैतत्स्त्रोतसां रूपमनुत्तरपदाद्ध्रुवात् । 
+
 आरभ्य विस्तरेणोक्तं मालिनी श्लोकवार्तिके ॥ जिज्ञासुस्तत एवेदमवधारयितुं क्षमः । वयं तूक्तानुवचनमफलं नाद्रियामहे ।। 
+
 T.A. 37.30-31 
+
 ABOUT THE AUTHOR 
+
 57 
+
 is identical with the Mālinīvijayavārtika and is a versi- cular running commentary on the Mālinīvijayottara Tantra. This is none other than the famous Śripurva- sastra, the scriptural backbone of the Tantraloka. Pandey has successfully visualized a chronological order1 among all the three works under reference which is as follows-M.V.V., P.T.V. and T.A.- each coming in succession. 
+
 3 
+
 In this very context it is significant to note that Abhinavagupta makes an indirect reference to one of his works called Pañcikä. While commenting on the T.A. 23.752 Jayaratha yields sufficient inform- ation. It was a commentary which bore the title Pañcikā and was composed in versicular form as a quotation from it suggests. One thing is absolutely sure that the treatise was available to Jayaratha. Here again Abhinavagupta's reticence on its authorship is intriguing. It is Jayaratha who in another context refers to the Pañcikā as Abhinavagupta's composi- tion. The relevant reference does not give an idea of the original text as to whose commentary it was. Banking on the contextual evidence (Abhinavagupta is discussing removal of inferior knowledge from an aspirant belonging to the lesser disciplines as pro- 
+
 1. Abhi., pp. 30-33 
+
 2. अतएवाम्बुजन्मार्क दृष्टान्तोऽव निरूपितः ।। 
+
 3. निरूपित इत्येतद्विवरण एवं पंचिकायाम् । यदुक्तं तत्र- 
+
 दिवाकरकरासारविरहात्संकुचत्कजम् । सत्स्वप्यन्यग्रह्महः स्वेति नैव विकासिताम् ॥ एवं शिष्यहृदम्भोजं गुरुपादविवर्जितम् । निमीलद्विकसत्येव पुनस्तत्पादपाततः ॥ 
+
 4. यत्पुनरनेन पंचिकायां व्याख्यातं . 
+
 . तत् 
+
 तत्त्वक्रमस म्यापादन हेवाकिनां केषांचन मतमिति । 
+
 T.A.V., X, p. 292 
+
 Ibid., X, pp 56-57. 
+
 58 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 pounded in the Śrīpurvaśāstra)1 it, in all probability, should have been an exposition of the Sripurvasastra. If it be so, the work would be identical with one Purvapañcikă included by Pandey among the works of Abhinavagupta. The contention gets support if we coordinate the statement of Jayaratha on the T.A. 16.135-36 where Abhinavagupta dwells on the 'assign- ment of the passage of a syllable' (Padadhvanyasa) in the context of 'variety of the purifiables' (Sodhyavai- citrya) under Putrakadikṣā (initiation concerning as- pirant of Putraka class) with the one in the P.T.V. The work, as held by Pandey, might be an extremely large work if one remembers that the M.V.V. was a running commentary on the first verse of the M.V.T, of course briefly incorporating the total subject mat- ter of all the 18 chapters. Since the P.T.V. alludes to this text, the chronological sequence of the four works would emerge somewhat like this-Malini- vijayavārtika, Purvapañcikā, Pratyabhijñā Vimarsini and Tantraloka. It will be proper to conclude that all these works constituted a complete whole on the Tantrika material in a cognate field. It is significant to note that the Mālinīvijayavārtika was written in the same house in which the Tantraloka was under- 
+
 1. श्री पूर्वशास्त्रे तेनोक्तं यावत्तेनैव नोद्धृतः 
+
 अन ह्यर्थोऽयमेतावत्पूर्वोक्तज्ञानवृ हितः । 
+
 .goermaisaffefta: 11 
+
 T.A. 23.73-75 
+
 2. Abhi., p. 37. Śrīpūrvapañcikä would be the better title. 
+
 3. वर्णमन्त्रपदरूपता शोध्यांशवृत्तिः -- इत्यास्ताम्, अप्रकृतमेतत्, निर्णीतं च 
+
 मयैव श्री पूर्वप्रभृतिपञ्चिकासु । 
+
 4. प्रवरपुरनामधेये पुरे पूर्वे काश्मीरिकोऽभिनवगुप्तः । 
+
 मालिन्यादिवाक्ये वार्तिकमेतद् रचयति स्म ॥ 
+
 5. Ibid. 
+
 P.T.V., p. 147 
+
 M.V.V. 2.335 
+
 ABOUT THE AUTHOR 
+
 59 
+
 3 
+
 taken.' It aimed at pleasing Sambhunatha and was undertaken at the instance of Karna and Mandra. Similar was the case with the P.T.V. at the time of whose writing, like the Tantraloka, Abhinava- gupta was under the care of Vatsalika' and which was written at the request of Karna among others." The benedictory verse is common to all the three works. The ideas that have been dealt with in one text are skipped over or just referred to in other works. It is an irony of fate that the Purvapañcikā or Pañ- cikā is perhaps lost to us. 
+
 Only one more work that is available from references is the Prakirṇakavivaraṇa. Although the work is not cited by name in the Tantraloka-it is alluded to as 'elsewhere' (Anyatra), Jayaratha interprets the word 'Anyatra' as Prakirṇakavivarana. According to Abhi- navagupta the causative operation (Prayojaka-vya- pāra) indicated in Sanskrit by the suffix Nic loses its primary meaning if it is related to the insentient prompter. The problem is: what is that constitutes the proper object of causative operation-one about which the relative action has already commenced or is yet to commence? Abhinavagupta says he has dealt with the issue in detail elsewhere, hence the reader should better not concentrate on this point here. In the Tantraloka and for that matter in whole of the Abhi- 
+
 1. T.A. 37.72 
+
 2. M.V.V. 1.4 
+
 3. Ibid. 1.11 
+
 4. Ibid., concluding verse 6, p. 279. 
+
 5. P.T.V., concluding verse 7, pp. 279-80. 
+
 6. इत्थं जडेन संबंधे न मुख्या व्यर्थ संगतिः । 
+
 आस्तामन्यत्र विततमेतद्द्द्विस्तरतो मया ॥ अन्यत्रेति प्रकीर्णकविवरणादौ । 
+
 T.A. 10.44 T.A.V., VII, p. 33 
+
 60 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 navan writings there is absolute lack of any other refer- ence to this work. Whether the work is identical with or different from his own Prakaraṇavivarana has been discussed elsewhere.' It is, however, difficult to sur- mise about the precise nature of its contents. How- ever, the word 'Prakirṇaka' stands for 'miscellaneous'. Hence Abhinavagupta appears to have focussed on several relevant miscellaneous issues which were not primarily philosophical but, all the same, carried philo- sophical implications'. Such a hypothesis appears harmonious with the admission of Abhinavagupta that philosophical implications of grammatical issues (e.g., whether an inanimate entity can be endowed with causative action) received detailed consideration in this work. 
+
 2 
+
 Abhinava's most works are interspersed with the sprinklings of Stotras. In the Tantraloka, too, we find Abhinavagupta referring to his Stotras at least twice. In the 26th Ahnika Abhinavagupta quotes one Arya and two Śārdulavikriḍitas as the T.A. 26.63- 65. One verse is quoted again as the T.A. 29.76. But the striking point about this Stotra is that it has not been quoted or cited, it has rather been assimilated into the text and made part of it. Since Abhinavagupta employs the word Stotra in plural 
+
 1. Contribution of Kashmir to Sanskrit Literature (unpublished), K.S. Nagarajan, thesis submitted to the University of Poona for the degree of Ph.D., 1961, p. 356; K.T., pp. 163-64. Also See Abhi, pp. 28,38. 
+
 2. स्तोत्रेषु बहुधा चैतन्मया प्रोक्तं निजाह निके ॥ 
+
 T.A. 26.62 
+
 3. The verses have been translated by me in my unpublished postgraduate dissertation "Abhinavagupta Ke Stotra; Eka Ad- dhyayana" (Hindi) pp. 275-76. These verses form part of Naimit- tika Vidhi in the T.S., pp. 180-81 and one verse i.e., कृत्वाधारधरां etc. has been incorporated as M.V.V. 2.126. 
+
 ABOUT THE AUTHOR 
+
 61 
+
 (i.e., Stotreṣu) he seems to imply that he has been giving vent to his ideas through Stotras as and when occasion warrants so. In the Tantraloka we quite often come across with such verses which are replete with intense devotion. But in the absence of any definite statement to this effect we assign the sorting out of such portions to the future ventures. Before closing the discussion on Abhinavagupta's writings let us examine an intriguing statement from him. He says that one of the secondary items namely Naimittika (occasional functions) with its varieties has been dealt with in the Tantrasara.2 The Tantra- sarā which is another work by the same pen, resounds the statement. Now the problem is that the Tantra- sāra, as we know, is a shorter version of the Tantra- loka on the admission of Abhinavagupta himself.1 In all probability the Tantraloka must precede the Tantrasāra; how could the Tantrāloka, therefore, con- tain a reference to the Tantrasära? One thing is cer- tain that the Tantrasara is posterior in chronological order-it was a summary in simple words intended to enlighten all and sundry. 
+
 1. Cp. विदितमृतिसतत्त्वाः संविदम्भोनिधाना- 
+
 दचलहृदयवीर्याकर्षनिष्पीठनोत्थम् । अमृतमिति निगीर्णे कालकूटेऽत्र देवा 
+
 यदि पिबथ तदानीं निश्चितं वः शिवत्वम् ॥ 
+
 2. इति नैमित्तिकं श्रीमत्तन्त्रसारे निरूपितम् । 
+
 त्रयोविंशतिभेदेन विशेषानिबन्धनम् ॥ 
+
 T.A. 28.367 
+
 Ibid. 28.9 
+
 3. नैमित्तिकं ज्ञानलाभ: . समयनिष्कृतिलाभः इत्येतत् नैमित्तिकं 
+
 विशेषार्चाकारणम् । 
+
 4. विततस्तन्त्रालोको विगाहितुं नैव शक्यते सर्वैः । 
+
 T.S., KSS XVII, p. 179 
+
 Ibid., p. 2 
+
 ऋजुवचनविरचितमिदं तु तन्त्रसारं ततः शृणुत ॥ 
+
 (Opening verse 2). Also see pp. 96-97, 98, 99, 130, 170, 186-87, 194-95. 
+
 62 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 In all likelihood it seems to be a reference to some other work of the same name. Luckily Abhinava- gupta in his P. T.V. refers twice to this work and quo- tes therefrom.' In the same work he further quotes twice from some Trikatantrasära. It appears that both of these texts were identical and were, perhaps, a scriptural work, on the Trisika offshoot of Kaulika discipline. According to Dwivedi3 this work is also known variously as the Sadardhaśāstra, Saḍardha- sāra, Sadar dhahrdaya, Sāraśāsana and Sāraśāstra etc. However, the evidence is too sketchy to hazard a definite opinion. We are, however, inclined to think that while the Tantrasara and the Trikatantrasara for- med one unit, Sadardhaśāstra etc. represented a sepa- rate unit standing perhaps for the P.T. which is rec- koned as the Trikasutra and Sadardhahrdaya" by the Tantraloka itself. Sometimes these very names have 
+
 1. तथाहि श्रीतन्त्रसारे- 
+
 विकार्थस्त्वया प्रोक्तः सार्धकोटिविस्तरः । इति । 
+
 X 
+
 यदुक्तं श्रीतन्नसारे 
+
 X 
+
 X 
+
 " धारयन्ति पशोः पाशान्भावान्स्वात्ममयांस्तथा । 
+
 P.T.V., p. 17 
+
 विद्यामायानियत्याद्याः शोध्यास्तेन प्रयत्नतः ॥ " इति । P. T.V., p. 117 
+
 2. अतएव तथाविधवीजकुसुमैकघनभावशिवशक्तिसंघट्टः स्वयं स्वात्मनैव 
+
 पूज्य इति इत्युपदिष्टम् श्रीतिकतन्त्रसारे- 
+
 "शिवशक्तिसमापत्त्या शिवशक्तिघनात्मकः । 
+
 शिवशक्तिसमापत्तिविकं संपूजयेत्परम् ॥” इति । 
+
 X 
+
 X 
+
 X 
+
 एवमानन्दयोग एव हृदयपूजा, यथोक्तं त्रिकतन्त्रसारे 
+
 Ibid, p. 184 
+
 "आनन्दप्रसरः पूजा तां त्रिकोणे प्रकल्पयेत् । 
+
 पुष्पधूपादिगन्धैस्तु स्वहृत्संतोषकारिणीम् ॥ इति । 
+
 Ibid, p. 223 
+
 3. Vide Upodghata, pp. 39-40 
+
 4. T.A. 12.15 
+
 5. Ibid. 31.54ABOUT THE AUTHOR 
+
 63 
+
 9 
+
 been used to refer to the Tantraloka also.' In the absence of conclusive denotation, it will be better to leave the things as they are at the moment. 
+
 If we shift from the Tantraloka to the material in Jayaratha we are likely to conclude that Abhinava- gupta undertook one more book called the Anupratya- bhijñā. On a closer scrutiny the view cannot be conclusively maintained, because much will depend on how we construe the phrase "Anenaiva" i.e., as qualifying 'Anupratyabhijñākṛtā or 'Abhiprayeṇa'. In view of the obvious contextual emphasis sought to be laid down by Jayaratha, construing Anenaiva with Abhiprāyeņa seems more logical. On such a view Anupratyabhijñā will not tend to be Abhinava- gupta's but rather someone else's work. Our other informations about this work and its author are practically nil. 
+
 (III) Methodology 
+
 The undertaking of the Tantraloka was a very ambitious, massive and intricate project for Abhi- nava. Covering the vast panorama of the anarchous tantric literature of varying hues was no mean task. It appears that Abhinava evolved certain guiding principles, criteria and methods to handle the mate- 
+
 1. See Upodghata to N.S.T., Dwivedi, p. 37. 
+
 2. Vide K.T., p. 160. We revise our opinion as expressed there as per ensuing discussion. Also sec Upodghata, p. 17 
+
 3. यदुक्तं श्रीप्रत्यभिज्ञाकृता -- "तत्र त्वर्पकादुपाधेस्तदाकारत्वं चित्तत्त्वस्य 
+
 तु निजैश्वर्यात् ।" इति । अनुप्रत्यभिज्ञाकृताऽप्यनेनैव अभिप्रायेण, 
+
 नाथ त्वया विना बिम्बं स्वच्छे स्वात्मनि दर्शितम् । 
+
 प्रसेना दर्पणेनैव प्रभावाद्भावमण्डलम् ॥” इत्याद्युक्तम् ।। 
+
 T.A.V., II, pp. 72-73 
+
 64 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 rial in hand in such a manner as to weave a well-knit and coherent pattern. It is really amazing to see a subtle unity of purpose and presentation permcating the whole of the Tantraloka without affecting the diversity of content and treatment. 
+
 (a) GUIDING PRINCIPLES OF EXPLANATION 
+
 Of all the characteristics of the Tantraloka, the two are the most prominent-it is a comprehensive com- pendium and a glossorial treatise. Fused together they put the Tantraloka in proper focus-it is a mas- terly compendium written in a glossorial style. As is quite usual with Abhinava, he does not keep us in suspense about his guiding principles. He devotes 10th and 11th ancillary topics - methods of explana- tion and listening respectively-under Naimittika Vidhi (28th Ahnika) and spells out the following im- peratives of explanation relying upon the authority of the Devyāyāmala Tantra1- 
+
 1. सूत्रपदवाक्यपटलग्रन्थक्रम योजनेन सम्बन्धात् । अव्याहतपूर्वापरमुपवृद्ध नयेत वाक्यानि ॥ मण्डूकप्लवसिंहावलोकनायैर्यथायथं न्यायैः । अविहतपूर्वापरक शास्त्रार्थं योजयेदसङ्कीर्णम् ॥ तन्त्रावर्तनबाधप्रसङ्गतर्कादिभिश्च सन्न्यायैः । 
+
 वस्तु वदेद् वाक्यज्ञो वस्त्वन्तरतो विविक्ततां विदधत् । यद्यत्व्याहृतिपदवीमायाति तदेव दृढतरैन्ययैः । बलवत्कुर्याद्रूष्यं यद्यप्यग्रे भविष्यत्स्यात् ॥ दृढरचितपूर्वपक्षत्रोद्धरणपथेन वस्तु यद्वाच्यम् ।। शिष्यमतावारोहति तदाशु संशयविपर्ययविकलम् ॥ भाषा न्यायो वादो लयः क्रमो यद्यदेति शिष्यस्य । सम्बोधोपायत्वं तथैव गुरुराश्रयेद्व्याख्याम् ॥ 
+
 T.A. 28.400-405 
+
 Jayaratha adds — "यागवयात्मकपौर्णमासाङ्गप्रयाजानु याजव देकमनेकसाधारणं 
+
 - 
+
 तन्त्रम् । अवधातादेरिव यावद्द्रव्यमसकृत्प्रयुक्तिरावर्तनम् । चमसगोदो- हनादिवदसक्त प्रतिषेधो बाधः । पशुपुरोडाशवत् परमध्यपातिनो निजतन्त्र नैरपेक्ष्येण 
+
 ABOUT THE AUTHOR 
+
 65 
+
 (i) Sentences must be interpreted keeping in view the total textual perspective and their consistent cons- truction must take into account the aphorism, phrase, sentence, chapter and section of the text, etc. 
+
 (ii) For lucid perspectival interpretation selective handling of the material or its over-all viewing may be resorted to as demanded by the occasion. 
+
 (iii) The item under reference is to be distinguished from other objects by resorting to various methods defined by common application (Tantra), exclusive application (Avartana), negation (Badha), contextual or incidental discussion (Prasanga) and exploration of the potential options (Tarka) as well as transference of one attribute to another (Atideśa). 
+
 (iv) Each utterance must be vigorously subjected to scrutiny and the opposite view, though to be denoun- ced later, ought to be fortified with stronger argu- 
+
 ments. 
+
 (v) The substantiation of the relative issue by demo- lishing the strongly conceived prima facie defence leads to quicker grasp free from suspicions and con- trary ideas. 
+
 परकीयेनैव तन्त्रेण सम्पादनं प्रसङ्गः । संशयनिर्णयान्तरालवर्ती भवितव्यतात्मकः प्रत्ययस्तर्कः । आदिशब्दादतिदेशादयः 
+
 भाषा संस्कृतादिरूपा षोढा भिन्ना । न्यायः प्रागुक्तो लौकिकः शास्त्रीयो वा । वादस्तत्त्वनिश्चयफलरूपः पक्ष- प्रतिपक्षपरिग्रहः । लयो व्याख्येयवस्तुनिष्ठतल्लीनतात्मा व्याख्यानाभ्यासः । क्रमः पाठार्थपरिपाटी विशेषः । 
+
 T.A.V., XI, pp. 172-174 
+
 It may, however, be noted in passing that the T.S. substitutes Prasanga and Tarka with Samuccaya (conjunction or aggregation) and Vikalpa (option). Abhinava does not explain these words. M.R. Shastri in his editorial footnote (p. 189) adds-T- कारकसंबंध: समुच्चयः, शब्दज्ञानानुपाती वस्तुशून्यो विकल्पः । " Collective presentation of similar instances and statement of an optional instance, however, seem to be better explanations. 
+
 66 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 (vi) Linguistic variants (Bhāṣā), classical and con- ventional rules (Nyaya), close grasp of the pros and cons leading to conclusive appreciation of a theme (Vāda), regular homework at the theme (Laya), particular manner of textual interpretation (Krama)- these are the several alternatives out of which a teacher is supposed to employ one he finds most conducive and convenient for enlightening his student. 
+
 As an addendum another remark from Abhinava in some other text1-we are committed to confine ourselves to the pages of the Tantraloka alone may appear beneficial to refer to. The author of a scholas- tic treatise, according to him, has a multi-directional going-something he has to condense, something to enlarge, something he has to insert and something to skip. It is only then that he becomes a Sastrakāra and is able to communicate adequately. 
+
 (b) MULTI-TIER HANDLING OF THE SOURCE MATERIAL 
+
 It is interesting to see how Abhinava employs all these and many more norms-in his Tantraloka. Quite in line with his extensive treatment his method. has several tiers and we now propose to take an account of them. One, however, must be cautious that Abhinava has an extremely complex style serv- ing various ends at a time, hence certain amount of overlapping will be unavoidable. The Tantraloka be- ing a digest of the Tantras the first thing that arrests our attention is his mathodical handling of the source 
+
 1. संकोच्य किंचिदिह किंचिदथ प्रसार्य 
+
 sfercer farfarfear fasfacerer विद्वांज्जनो भवतु संप्रति शास्त्रकृच्च सम्यकप्रचारणविधिः स हि जन्म तस्य ॥ 
+
 1.P.V.V., III, p. 404 (concluding verse 7) 
+
 ABOUT THE AUTHOR 
+
 67 
+
 material. In this area again his role is manifold. He has to identify the sources, make his pick, scrutinize it and then edit the same before it is reduced to writing. As we shall see later in detail he first sorts out the source material under three heads (1) basic, (2) general and (3) specific. For instance, the M.V.T. is the basic source, the SV.T. and Sp.K. are the gene- ral sources and the remaining are the specific sources pertaining to the specific items. In culling material from them his first criterion is utility (upayoga)'. Even if a thing has been discussed at length in the original sources, Abhinava would avoid touching up- on it if it does not serve the purpose in hand. The notion of utility includes that of relevance as well. Abhinava, though, categorically dispels doubts regarding his capacity for an elaborate treatment, he would scrupulously restrict himself to the relevant material and move ahead. Abhinava's third criterion is to conform to the factual position. Even though a specific treatment may sometimes look at variance with his known stand, he would not feel shy of record- ing the same. His fourth guiding principle behind a specific selection is its consistency with the general theme. Sometimes a text (the M.V.T. in this case) that may be wholly relevant as being advocate of a 
+
 3 
+
 1. श्रीमत्तैशिरसे तच्च कथिते विस्तराद्बहु । 
+
 2. 
+
 इह नो लिखितं व्यासभयाच्चानुपयोगतः ॥ 
+
 स च नो विस्तरः साक्षाच्छ्क्यो यद्यपि भाषितुम् । तथापि मार्गमात्रेण कथ्यमानो विविच्यताम् ॥ 
+
 T.A. 3.256-57 
+
 Ibid. 10.153 
+
 Jayaratha explains मार्गमात्रेण as दिङमात्रेण । T.A.V., VII, p. 107 
+
 3. तथापि वस्तुसत्तेयमिहास्माभिर्निरूपिता 
+
 I 
+
 T.A. 19.219 
+
 Mark the words: and also the prefatory remark of Jayaratha—ननु यद्येवं तत् कथं भोक्तृभोग्ययोर्युगपदुत्पादो भवतैव 
+
 उक्तः, इत्याशङ्क्याह । 
+
 T.A.V., VI, p. 175 
+
 68 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 2 
+
 consistent theory is quoted at random only to high- light its uniform approach. His choice is quite deli- berate being invariably guided by the twin canons of consistency and relevance and in so doing he would not desist from rearranging the whole thing. This will perhaps explain the two conflicting approaches in the 16th and 19th Ahnikas. It is the demand of relevance that they, though opposed to one another, fit in the two different chapters dealing with the 'assignment of purifying Mantras' in respect of the 'puri- fiable categories’and the ‘assignment of words' in res- pect of the 'instant passing away' respectively. His unflinching faith in relevance and utility is further exemplified by his handling of Dhyana (meditation) -a sub-upaya under Aṇava. Anava-upaya in a sense is a series of sub-upayas where, as per agamic order, Uccara comes first followed by Karaṇa, Dhyana and Varna respectively. Abhinava here interferes with the agamic sequence and places Dhyana in the beginning to be followed by Uccara, Karana and Varna in that succession owing to their respective superior efficacy.* 
+
 1. अष्टादशपटलस्य एकवाक्यतां दर्शयितुमालूनविशीर्णतया अयं ग्रन्थः 
+
 tienfear: 1 
+
 T.A.V., III, p. 114 2. एतच्च यद्यपि श्रीस्वच्छन्दे त्रिविधादहंकारादनन्तरमुक्तं तथापि इह विकार- 
+
 षोडशकसाजात्येनैव व्याख्यातम् । 
+
 Ibid. V, p. 199 
+
 3. केवलशोधकमन्त्रन्यासाभिप्रायतो महादेवः । 
+
 T.A. 16.231 
+
 तत्त्व क्रमोदितमपि न्यासं पुनराह तद्विरुद्धमपि ॥ Jayaratha adds महादेवो हि शोध्यानां षट्त्रिंशत्तत्त्वानां क्रमेण तन्यासपुरःसरीकारेण उदितमपि शोधकमन्त्रन्यासाभिप्रायेण पुनस्तद्- faffa: (19th Ahnika devoted to सद्य उत्क्रान्तिनिरूपण) पदानां न्यासमाह तदन्यथात्वेनापि अकथयदित्यर्थः । 
+
 4. उच्चारकरणध्यानवर्णे रेभिः प्रदर्शितः ॥ 
+
 अनुत्तरपदप्राप्तावभ्युपायविधिक्रमः । 
+
 T.A.V., X, p. 89 
+
 ABOUT THE AUTHOR 
+
 69 
+
 One of the reasons for selective treatment lies in the difficulty in understanding the original source. He prefers dealing with the incomprehensible material omitting the casier one.' But that does not mean he would compromise authenticity for convenience. He would not commit an agamic source even when he is sure of its stand, to a particular thesis, if the same has not been unequivocally propounded." Thus while authenticity guides enumeration, casy comprehension guides omission. According to Jayaratha one of the criteria that guided the selective treatment was prac- ticability and general applicability. It is possible he might have propounded different views of different people in some other writings, but it is impossible and impractical to take cognizance of all the views at one place. Notwithstanding adherence to these 
+
 अकिंचिच्चिन्तनं वीर्यं भावनायां च सा पुनः ॥ 
+
 ध्याने तदपि चोच्चारे करणे सोऽपि तद्ध्वनौ । 
+
 स स्थानकल्पने बाह्यमिति क्रममुपाश्रयेत् ॥ 
+
 Jayaratha supplies the proper context- 
+
 T.A. 5.155-57 
+
 ननु उच्चारादीनाम् आगमेऽप्यनेनैव क्रमेण पाठः इति कथमिह तदुल्लड- घनेन ध्यानोपक्रममेषां निर्देशः कृतः इत्याशंक्याह .... . एवं पूर्वं पूर्वमुत्तरत 
+
 ...... अर्थ क्रमावलम्बनेन अन्यथैवं निर्देशः कृतः । 
+
 T.A.V., III, pp. 468-469 
+
 वीर्यमिति पाठक्रममपहाय ..... 
+
 1. शेषास्तु सुगमरूपाः शब्दास्तत्रार्थ मूह्येदुचितम् ॥ 
+
 2. 
+
 अनया तु दिशा प्रायः सर्वभेदेषु विद्यते ॥ 
+
 T.A. 9.88 
+
 भेदो मन्त्रमहेशान्तेष्वेष पञ्चदशात्मकः । 
+
 तथापि स्फुटताभावात्सन्नप्येष न चर्चितः ॥ 
+
 Ibid. 10.183-84 
+
 Abhinava says, although the thirteenfold character is also possible in water, like earth, the same has not been propounded as it has not been clearly, unambiguously, discussed in the Śripūrvaśästra. 
+
 3. अन च चतुभिरङगुलैः... इति । यत्पुनरनेन पञ्चिकायां व्याख्यातं तत् तत्त्वक्रमसाम्यापादनहेवाकिनां केषांचन मतमिति । नहि सर्वसविकया एतदापादयितुं पार्यते इति किमशक्यार्थाभिनिवेशेन । 
+
 ( Comm. on T.A. 16.135-138). T.A.V., X, 11.56-57 
+
 70 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 norms occasionally, though sparsely, there appears to be an element of casualness in Abhinava's treat- ment. At such places Abhinava does not go deep, but restricts himself to the surface material. For example, Ananta, the presiding deity of the earthy re- gions (regions finding berth in the category called earth), is depicted as seated on a boat 'within' waters.1 Now the word 'within' (Antah) is either interpreted as 'residing above' (i.e., outside) or as 'gradual pre- sence' (of 100 Rudras beginning with Ananta) but in no case as 'inside'. Why did Abhinava, instead, not choose a clearer expression to avoid likely confusion? Jayaratha suggests that as Abhinava's main pre- occupation was to produce a compendium he made a cursory choice of the material as it appeared on the face of it, if it did not affect his logical position. This type of choice has been designated as 'expanded' or 'shallow" (Uttana) and Abhinava takes recourse to it several times. Reasons of space and fear of un- wieldy size of the text also placed certain constraints on Abhinava in the final selection of his material." But such a situation is consequent upon one of the three courses adopted by Abhinava-(1) He has al- ready dealt with the similar material from other sour- 
+
 1. नेता कटाहरुद्राणामनन्तः कामसेविनाम् । 
+
 पोतारुढो जलस्यान्तर्मद्यपानविचूर्णितः । 
+
 2. जलस्यान्तरित्यर्थात् तदुपरि संस्थितः । त्सितं न त्वन्तर्बही रूपत्वमपि. 
+
 ..... 
+
 T.A. 8.21 
+
 क्रममात्रमेवाभिधि- 
+
 इत्यादावपि 
+
 व्याख्येयम् । एतच्च उत्तानतयैव गृहीत्वा संग्रहकाराः प्रवृत्ताः, इति तत्र तथाभ्यधुः, 
+
 येनास्य अन्तरवस्थाने भ्रान्तिबीजत्वं प्ररूढम् । 
+
 3. 
+
 T.A.V., V, pp. 14-19 
+
 Cp. अनयैव दिशा नेयं मतङ्गकिरणादिकम् । 
+
 ग्रन्थगौरवभीत्या तु तल्लिखित्वा न योजितम् ॥ 
+
 see the fn. 2 on p. 67 supra. 
+
 T.A. 13.284; also 
+
 ABOUT THE AUTHOR 
+
 71 
+
 ces and candidly admits existence of the additional connected material which he has not deliberately used. In this context he occasionally advises the reader to refer to the original text itself;1 (2) Some- times he implies that his treatment is strictly confined to the basic sources and further reference to other sources will add only unnecessary bulk to the work; ( 3 ) A thing may be relevant and contextually justi- fiable to refer to, but it leads to innumerable varieties depending upon the individual preferences. For example, in the M.V.T. (Sripūrvaśāstra) elemental sub- mergence (Bhautāvesa) finds place after fifty varieties of Rudraśakti-samāveśa, but Abhinava though admit- ting its relevance and utility chooses to skip it.3 But he continues to have an open mind. As and when he finds his 'basic' sources less vocal, he does not shirk laying his hands on other cognate sources. 
+
 T.A. 28.226 
+
 1. Cp. इत्यादिगह्वरोक्तं तत एव पठेद्बहु । Jayaratha remarks - तत एव बहु पठेदिति अस्माभिस्तु ग्रन्थविस्तरभयान्न पठितमित्यभिप्रायः । 
+
 2. Cp. प्रत्येकवर्णगोऽप्युक्तः सिद्धयोगीश्वरे मते । 
+
 देवताचक्रविन्यासः स बहुत्वान्न लिप्यते । 
+
 T.A.V., XI, p. 89 
+
 Jayaratha's observation is important--- 
+
 T.A. 30.25-26 
+
 बहुत्वादिति ग्रन्थविस्तरभयादिति प्रक्रान्ते श्रीपूर्वशास्त्रे हि एतत्पूजनं 
+
 न आम्नातम् इत्याशयः । 
+
 3. रुद्रशक्तिसमावेशः पञ्चधा ननु चर्च्यते । 
+
 कोऽवकाशो भवेत्तत्र भौतावेशादिवर्णने ॥ प्रसंगादिति चेत्समाधिः संभवन्नयम् । नास्माकं मानसावर्जी लोको भिन्नरुचिर्यंतः ॥ 
+
 T.A.V., XII, pp. 187-88 
+
 T.A. 1. 192-93 
+
 4. Vide इह ( अप्तत्त्वे भुवनेशाष्टकताप्रसंगे) श्रीस्वच्छन्दशास्त्रानुसारं प्रक्रमेऽपि (श्री) पूर्वशास्त्रप्रक्रियया एषां पाठे, अयमाशयो - यदेतदेव भुवनेशाष्ट- कमप्तत्त्वे सर्वागमेषु प्रधानतया उक्तम् इत्यत एव प्रतिष्ठायाम् एतदाद्यष्टकसप्त- कस्वीकारेणैव सर्वत भुवनानां संकलनम् । 
+
 T.A.V., V, p. 145 
+
 72 
+
 INTRODUCTION TO THE TANTRALOKA 
+
 (c) INTERPRETATION AND ITS NORMS 
+
 3 
+
 Likewise Abhinava has tried to fashion a model for interpreting the source material. In all his writing Abhinava's obsession with three aims is obvious. They are (1) authenticity (2) unambiguity and (3) communicability. First of all, therefore, he tries to find out the meaning of the word employed, then grapples with the sentence' and then discovers its implication and if the same still lacks in clarity, he picks up a suitable illustration. While looking for denotation of a word he tries to fix up a modality for interpretation-whether it is to be explained literally,^ etymologically or by implication. Sometimes even if some scriptural authority on an etymology or linguis- tic construction is not readily available, Abhinava would like one to exercise one's common sense, as it is not always possible to lay down everything in a book. He always calls upon the intelligent reader to make his own guesses and draw inferences from a logical construction of the source texts, even if there is no explicit averment. Abhinava is very methodical and meticulous. In interpreting a text he first decides upon the reading and critically edits it, if there are more readings than one or if there is confusion or 
+
 1. पदार्थयोजनानन्तरं वाक्यार्थमपि योजयितुमाह । 2. एवमेतत्पदार्थद्वारेण व्याख्याय तात्पर्यमुखेनाप्यभिधत्ते 
+
 शक्तौ केन निमित्तेन प्रवृत्तः. 
+
 3. इत्याशंकां दृष्टान्तोपदर्शनद्वारेण उपशमयति 
+
 4. 
+
 इह सर्वत्र शब्दानामन्वर्थं चर्चयेद्यतः । 
+
 5. अतोऽध्वशब्दस्योक्तेयं निरुक्तिनोंदिताऽपि चेत् । क्वचित्स्वबुद्धया साप्या कियल्लेख्यं हि पुस्तके ॥ 
+
 6. cp. इत्येवं शुद्धतत्त्वानां सृष्ट्या शिष्योऽपि तन्मयः । 
+
 भवेद्ध्येतत्सूचितं श्रीमालिनीविजयोत्तरे ॥ 
+
 T.A.V. I, p. 206 । ननु विसर्गशब्दो Ibid. II, p. 99 
+
 Ibid., II, p. 146 
+
 T.A. 6.30 
+
 T.A. 6.33 
+
 Ibid. 17.11172 
+
 INTRODUCTION TO THE TANTRALOKA 
+
 (c) INTERPRETATION AND ITS NORMS 
+
 3 
+
 Likewise Abhinava has tried to fashion a model for interpreting the source material. In all his writing Abhinava's obsession with three aims is obvious. They are (1) authenticity (2) unambiguity and (3) communicability. First of all, therefore, he tries to find out the meaning of the word employed, then grapples with the sentence' and then discovers its implication and if the same still lacks in clarity, he picks up a suitable illustration. While looking for denotation of a word he tries to fix up a modality for interpretation whether it is to be explained literally,' etymologically or by implication. Sometimes even if some scriptural authority on an etymology or linguis- tic construction is not readily available, Abhinava would like one to exercise one's common sense, as it is not always possible to lay down everything in a book." He always calls upon the intelligent reader to make his own guesses and draw inferences from a logical construction of the source texts, even if there is no explicit averment. Abhinava is very methodical and meticulous. In interpreting a text he first decides upon the reading and critically edits it, if there are more readings than one or if there is confusion or 
+
 1. पदार्थयोजनानन्तरं वाक्यार्थमपि योजयितुमाह । T. A. V. I, p. 206 2. एवमेतत्पदार्थद्वारेण व्याख्याय तात्पर्यमुखेनाप्यभिधत्ते । ननु विसर्गशब्दो 
+
 शक्ती केन निमित्तेन प्रवृत्तः . 
+
 3. इत्याशंकां दृष्टान्तोपदर्शनद्वारेण उपशमयति 
+
 4. 
+
 इह सर्वत्र शब्दानामन्वर्थं चर्चयेद्यतः । 
+
 5. cp. अतोऽध्वशब्दस्योक्तेयं निरुक्तिर्नोदिताऽपि चेत् । क्वचित्स्वबुद्धया साप्यह्या कियल्लेख्यं हि पुस्तके ॥ 
+
 6. cp. इत्येवं शुद्धतत्त्वानां सृष्ट्या शिष्योऽपि तन्मयः । 
+
 भवेद्ध्येतत्सूचितं श्रीमालिनीविजयोत्तरे ।। 
+
 Ibid. II, p. 99 
+
 Ibid., II, p. 146 
+
 T.A. 6.30 
+
 T.A. 6.33 
+
 Ibid. 17.111 
+
 ABOUT THE AUTHOR 
+
 73 
+
 difference of opinion.' He further examines the vari- ous interpretations already offered and finally puts his stamp on one. In agamic circles there was a dis- pute as to whether Avyakta springs from Māyā or Kala. While the Rauravasangraha of Bṛhaspati sub- scribed to the former premise, the Sripurvaśāstra swore by the latter. Abhinava sides with the Raurava- samgraha and declares all other alternative views as inconsistent and misleading." In fact he seems to have an air of finality about his interpretation. In the process of interpretation he sometimes replaces the original agamic phrase thereby eliminating con- fusion and according proper meaning to both at the same time. He then identifies the difficult portions. Sometimes it is a word and sometimes it is a sizable part of the text. In the latter case he will leave out the easy portion and take up the difficult one. This offers one of the reasons why Abhinava calls his Tantraloka as the Vārtika. In this connection a refer- ence may be made to the Tantraloka 8.171-178 
+
 1. इह सर्वत भुवनेश्वराणाम् आदिग्रहणेनैव प्रकान्तेऽपि संग्रहे स्क्कण्ठेनैव पाठेऽयमाशयो -- यदत्र बहूनि शास्त्रान्तरेषु असमञ्जसानि पाठान्तराणि संभवन्ति - इति श्रोतॄणां भाभूत्संमोहः । T.A.V., V, p. 186 तत एव निशाख्यानात्कली भूतादलिङगकम् ॥ इति व्याख्यास्मदुक्तेऽस्मिन् सति न्यायेऽतिनिष्फला । T.A. 9.41-42 Jayaratha explains निशाख्यानात् as मायाख्यात् तत्त्वात् and अलिङगकम् as अव्यक्तम्. His prefatory remark is important- अतएव च एवं विसंवादाशङ्कया अन यदन्यैरन्यथा व्याख्यातं तदप्रयोजकमेव, इत्याह T.A.V., VI, p. 41 
+
 2. 
+
 3. Vide धारिकाप्यायिनी बोद्धी पवित्री चावकाशदा ॥ 
+
 Jayaratha comments on the word- 
+
 T.A. 11.33 
+
 पवित्री - "पूञ्ञ पवने" इत्यस्य ह्ययं प्रयोगः । उत्पूयिनी तु ऐशः पाठः । T.A.V., VII, p. 30 (11th Ah) 
+
 4. Vide शेषास्तु सुगमरूपाः शब्दास्तत्त्रार्थं मूहये दुचितम् 
+
 T.A.9.88 
+
 74 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 where Abhinava devotes full eight verses to the ex- planation of the 1st of the two verses quoted by him earlier (T.A. 8.169-170) from the Raurava Vrtti var- batim, as he felt it might be difficult to comprehend' otherwise. Since he does not want to leave anything at the mercy of an unintelligent reader, he once even cites a long portion (T.A. 13.164-195) from the Nandi- sikhatantra word by word so that even an ordinary reader may be able to grasp the proper import. He then, for a proper interpretation, sets upon both the stages of textual investigation -internal as well as external. In the first instance he analyses the whole text and arranges the entire subject-matter in a logical order and in the second he contrasts and compares the basic sources with the cognate sources and also the cognate sources with the basic ones so as to get a clearer and more detailed picture of the issues at hand. For example, in the 13th and 15th Ahnikas 
+
 1. 
+
 इत्याशङक्याह . . . तद्ग्रन्थमेव पठति तत्नाद्यं श्लोकं विषमत्वात् स्वयमेव व्याचष्टे, द्वितीयस्तु सुगमत्वात् स्वयं न व्याकृतः । 
+
 T.A.V., V, pp. 122-128 
+
 2. श्रीमन्नन्दिशिखातन्त्रे वितत्यैतन्निरूपितम् ॥ प्रश्नोत्तरमुखेनेति तदभग्नं निरूप्यते । 
+
 ... 
+
 इत्येष पठितो ग्रन्थः स्वयं ये बोद्ध मक्षमाः । तेषां शिवोक्तिसंवादाद् बोधो दाढ्यं व्रजेदिति ॥ 3. एवं प्राग्विषयो ग्रन्थ इयानन्यत तु स्फुटम् । 
+
 ग्रन्थान्तरं मध्यतीत्रशक्तिपातांशसूचकम् ॥ 
+
 4. 
+
 ... 
+
 स इत्यन्तो ग्रन्थ एष द्वितीयविषयः स्फुटः ।। अन्यस्तु मन्दतीव्राख्यशक्तिपातविधिं प्रति । 
+
 अन्ये यियासुरित्यादि ग्रन्थं प्राग्ग्रन्थसंगतम् ॥ कुर्वन्ति मध्यतीत्राख्यशक्तिसंपातगोचरम् । तमाराध्येति तु ग्रन्थो मन्दतीब्रेकगोचरः ॥ न चाधिकारिता दीक्षां विना योगेऽस्ति शांकरे । न च योगाधिकारित्वमेकमेवानया भवेत् ॥ 
+
 T.A. 13.163-64 
+
 Ibid. 13.196 
+
 T.A. 13. 212 
+
 Ibid. 13.216-17 
+
 Ibid. 13.246-47 
+
 Ibid. 13.253 
+
 ABOUT THE AUTHOR 
+
 75 
+
 Abhinava makes a first hand, direct analysis of the contents of the Śrīpurvasastra and while reconciling the whole text, he even pin-points the textual portions that supposedly have bearing on the relevant theses (here 'descent of grace' and 'initiation' respectively) being propounded. The second phase (i.e., external) of his enquiry is seen where he abides by the authority of the Nandisikhatantra' or Svacchandatantra when he finds it more comprehensive but quite in tune with his basic scripture the M.V.T. The moment he notices variation, he strikes a note of caution and amends his treatment accordingly. In pursuance to this he discusses five gross elements (constituting physio- logical fetters) not after threefold egoity, as is done in the Svacchandatantra, but as constituting sixteen modifications of Prakṛti.3 
+
 (d) PRESENTATION: MULTI-ENDED STYLE 
+
 There is a system about his presentation also. The 
+
 अपि गन्धाधिकारित्वं मुक्तिश्च शिवदीक्षया । इत्यस्मिन्मालिनीवाक्यं साक्षान्मोक्षाभ्युपायता || 
+
 दीक्षायाः कथिता प्राचाग्रन्थेन पुनरुते । 
+
 पारम्पर्येण संस्कृत्या मोक्षभोगाभ्युपायता || 
+
 D.A. 15.4-7 
+
 The same thing he does in connection with the Matanga sastra. 
+
 See सम्यग्ज्ञानस्वभावा हि विद्या साक्षाद्विमोचिका ॥ 
+
 उक्तं तत्रैव तत्त्वानां कार्यकारणभावतः । 
+
 हेयादेयत्वकथने विद्यापाद इति स्फुटम् ॥ 
+
 Ibid. 15.9-10 
+
 1. ननु श्री पूर्वशास्त्रमधिकृत्य इदम् (ie प्रातिभेन शंका शाम्यते) उच्यते इत्युपक्रान्तं तत्किमिह श्रीमन्नन्दिशिखायवान्तरग्रन्थार्थकथनेन इत्याशङक्याह- 
+
 एनमेवार्थमन्तःस्थं गृहीत्वा मानिनीमत || 
+
 Ibid. 13.199 
+
 मालिनीगत निषितम् इति प्राज्येन संबंध: । T.A.V., VIII, p. 127 
+
 2. Vide ibid, V, p. 145. 
+
 3. एतच्च यद्यपि श्रीस्वच्छन्दे विविधादहंकारादनन्तरमुक्तं तथापि इह विकार- 
+
 षोडशकसाजात्येनैवं व्याख्यातम् । 
+
 T.A.V., V, p. 199 
+
 76 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 first thing that appeals even to a casual reader is awareness of this mission that is reflected in his style. He conceives the Tantraloka as an organic whole and every section is so interwoven in order to serve a continuing integrated purpose that it is difficult to view one section in complete isolation from the other. He adopts twofold strategy to achieve this objective- one, notwithstanding his commitment to contextual relevance Abhinava does not consolidate his treat- ment of a particular issue at one place, instead he spreads it over several places catering for the de- mand of related issues; two, he lets one chapter slide into the next and thereby maintains the structural unity. The second strategy is called Sañcaya Nyāya (i.e., analogy of an aggregate or accumulation) by Jayaratha, where the first half of the concluding verse in every chapter marks the end of the current chapter 
+
 2 
+
 1. For example, Karanas (Karana means "intelligent practice' - करणं सप्तधा प्रारभ्यासं बोधपूर्वकम् — T.A. 5.129) which ought to have been exhausted under Anava-upaya (5th Āhnika) are discussed in at least five different chapters namely 11th, 15th, 16th, 29th and 32nd. Similarly, one of the ancillary issues called Paratattvāņtaḥpraveśalakṣaṇāni was a proper topic under Kulo- paya (3rd and 29th Ahnikas) but which has been considered under Aṇava-upaya. Abhinava and Jayaratha, who closely follows him, no doubt have their justifications but they only strengthen our contention that the Tantraloka has to be looked into as a 'whole'. See Jayaratha- 
+
 ननु भेदप्राणविकल्पसंस्काराधायित्वत्वाद् बुद्धिध्यानादीनां स्पष्टमेवाणवोपायत्वम् इति युक्तमत्र तदभिधानम्, परतत्त्वान्तःप्रवेशलक्षणः पुनरयमुपायो निर्विकल्प- स्वरूपत्वान्न तथा इति कथमस्यात्ताभिधानम् ? इत्याशंक्याह- 
+
 T.A.V. III, p. 433 2. इह आह्निकादाह्निकान्तरस्य संचयन्यायेन परस्परमनुस्यूततां दर्शयितुम् एकेनैव श्लोकेन तत्पर्यन्तप्रारम्भयोरुपसंहारक्रमो करोति इति अस्य ग्रन्थकारस्य शैली इति । 
+
 T.A.V., I, p. 309 
+
 ABOUT THE AUTHOR 
+
 77 
+
 while the second half the beginning of the next chap- ter. He breaks this rule only once at the end of the 36th chapter where he uses one single half to denote conclusion and commencement both. The third con- nected strategy aims at complete fusion of the quoted agamic text in the body of the Tantraloka. But for Jayaratha we would never know what is the precise source material and what is Abhinava's treatment of it. Quite often we know it from Jayaratha's obvious comments and sometimes by contrasting it against the excerpts cited from the original by Jayaratha. For the sake of clarity we cite just one example in the foot- note below. 2 
+
 This fusion of original, however, with his own treat- ment is Abhinava's peculiar tool which he has used with master precision and canny skill to serve di- verse ends and is not so simple a mechanism as it sounds at the first instance. As we have already seen, Abhinava (i) sometimes simply refers to the text", (ii) sometimes reproduces agamic authority 
+
 1. इह आह्निकादाह्निकान्तरस्य परस्परमनुस्यूततां दर्शयितुम् आद्यन्तयोरेकेन श्लोकेन पृथगुपसंहारोपक्रमयोरुपनिबन्धेऽपि सांप्रतं ग्रन्थान्ते तदाश्लेपगत्यन्तभव- द्योतयितुमेकेनैव अर्धेन युगपत्तदुपनिबन्ध इति । 
+
 T.A.V., XII, p. 390 
+
 2. The text of the Tantrāloka runs as 
+
 तदैव मोक्ष इत्युक्तं धाता श्रीमन्निशाटने ॥ विकल्पयुक्तचित्तस्तु पिण्डपाताच्छिवं व्रजेत् । 
+
 इतरस्तु तदैवेति शास्त्रस्यास्य प्रधानतः ।। 
+
 T.A. 1.50-51 
+
 Compare with the corresponding extract from the Niśātana as quoted by Jayaratha- 
+
 "विकल्पयुक्तचित्तस्तु पिण्डपाताविव श्रजेत् । विकल्पहीनचित्तस्तु ह्यात्मानं शिवमध्ययम् ॥ पश्यते भावशुद्ध्या यो जीवन्मुक्तो न संशयः ।" 
+
 3. उपायभेदान्मोक्षेऽपि भेदः स्यादिति सूरयः । 
+
 तत्नत्यमेव ग्रन्थं पठति 
+
 4. 
+
 T.A.V., I, p. 84 
+
 T.A. 1.165 
+
 T.A.V., I, p. 202 (T.A. 1.168-170 is a reproduction from the M.V.T.) 
+
 78 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 verbatim, (iii) sometimes elects to present a gist in his words' and (iv) sometimes partly quotes and partly summarizes. Each one of these alternatives is pur- pose-oriented. In quoting directly he is guided by his desire to remove confusion. When he employs his own language, it is either in order to summarize or to introduce next topic / matter / text after incorpora- ting relevant material from the authority concerned. Sometimes, while retaining the original Agama in- tact, Abhinava reverses the order of subject and predicate and thereby tries by implication to uphold his stand as he has done in the case of the Matanga Agama. In modifying the quoted authority some- times certain altogether different considerations have weighed. For instance, he alters the text of the Sri- purvasastra from 'Na dvaitam napi cadvaitam' to 'Na dvaitam nāpi cāūdvyayam' (T.A. 4.106) just for metri- 
+
 1. एतदेवार्थद्वारेण दर्शयति Ibid, II, p. 121 (introducing T.A. 
+
 3.115 which refers to the Bhagvadgita) 
+
 2. तत्रत्यमेव ग्रन्थमर्थतः शब्दतश्च पठति T. A. V. XIII, p. 150 (Re- ference is to the Srigahvara Tantra in T.A. 29. 240-41) 
+
 3. स्वकण्ठेनैव पाठेऽयमाशयोइति श्रोतॄणां मा भूत्संमोहः इति । 
+
 Ibid., V, p. 186 
+
 4. Cf. Jayaratha on T.A. 1.75-76 एतत्प्रश्नार्थ एव ग्रन्थकृता 
+
 संक्षेपचिकीर्षया स्ववचसोपनिबद्धः 
+
 ני 
+
 Ibid., I, p. 117 
+
 13 
+
 5. Cf. Jayaratha on T.A. 1.84-86 - एतदेव च "अथवा इत्यादि "स्थिति इत्यन्ततव्रत्यग्रन्थार्थगर्भीकारेण ग्रन्थान्तरमुपक्षेप्तुकामो ग्रन्थकारः स्वोक्त्या योजयति "तस्य सर्व प्रसिध्यति" इति 
+
 6. तदुक्तं श्रीमतङ्गादौ स्वशक्तिकिरणात्मकम् । 
+
 अथ पत्युरधिष्ठानमित्याद्युक्तं विशेषणैः ॥ 
+
 Ibid., I, p. 130 
+
 T.A. 1.202 
+
 Jayaratha's remark is significant अथ पत्युरधिष्ठानं स्वशक्तिकिरणात्मकम् इत्येवंपाठः ऐशः, ग्रन्थकृता पुनरेवं विध्यनुवादभावदर्शनार्थम् अन्यथा पाठः कृतः 
+
 T.A.V., I, p. 228; also see व्यत्यासपाठे च अयमाशयः द्वारद्वारिभावेन शाम्भवोपाये एव प्राधान्येन विश्रान्तिः । 
+
 यत् उपायोपेयादिना 
+
 Ibid., 1, p. 203 
+
 1 
+
 1 
+
 t 
+
 ABOUT THE AUTHOR 
+
 79 
+
 cal propriety.' Likewise, Abhinava's omissions or extremely brief treatments are equally pregnant with suggestion. He omits an item or deals in brief with it if he finds its meaning obvious." Specific items are omitted to enlarge the scope or application of the relative subject matter. Abhinava, for example, pre- sents the Sivatumusastra as propounding the contents of the Śripurvasastra itself though with a difference in style. In this treatment among the five sheaths (Kancukas revealing agents of limited individuality), 'time' and 'determination' (Kala and Niyati) have been purposely dropped so as to clear the path for purification of categories, through three sheaths3 Kalā etc. Omission is also resorted to avoid un- necessary repetition or analytical arrangement. Abhinava defines Puja (worship) and though he thinks that Homa (rite of oblation to fire) is duly covered by his definition of worship, he does not say so because Homa, as an ingredient of worship, has already been discussed and is likely to be discussed in future.^ Abhinava is wary of discussing Mala (l.e., dirt ignor- ance) in the 13th chapter again, because he has al- 
+
 1. a gâd anfor angdong, cała yangduma ribery | 
+
 2. agad #fatida ford waanvaar || 
+
 येन दृष्टमात्रेत सिमापात् । 
+
 आकृतिर्दीप्तरूपा या मास्तरसुचीतिवाः ॥ 
+
 farsi eronat àg erfaret formranagar: 1 
+
 T.A.V, III, p. 112. 
+
 T.A. 21.20-22 
+
 3. एवमाणवादिकञ्चुकणञ्चुकानि इत्यव भङग्यन्तरत्वम् । कालनियत्योस्तु अभिधाने जयमाशी यत् कनादिशुद्ध्या सत्तत्त्वशुद्धि- रिति । 
+
 T.A.V., VI, 169 
+
 4. एवं होमाबीनामपि पूजीपधारणत्वादेव ईदृगयं सिद्धम्, इति न साक्षा- 
+
 दुक्तम्, तच प्राण बहुत पक्ष्यते च इति तत एवावधार्यम् । 
+
 Ibid., III, p. 124 
+
 80 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 ready done so in the 9th chapter.' Abhinava, does not mind repeating if it really advances the argument, but he would just keep away from a superfluous re- petition. This is the reason why he does not take up virility of Mantra (Mantravirya) in the 30th Chapter which is the appropriate topic after Mantra and Vidya. Apart from repetition, the fear of unnecessary analytical arrangement or elaboration (Vyasa) is also an inhibiting factor. Since in the Traisiras Agama cycles of power consisting of varying number of spokes (powers) from one to thousand-have al- ready been elaborated Abhinava prefers not to make a reference to them for fear of fruitless compilation and irrelevance.3 
+
 In fact, Abhinava equips us fully to have insight into his unique style. He has three regular practices (i) brief (ii) detailed and (iii) mixed and calls the first two as Samkṣepa or Samāsa, Vistara or Vyasa or Vikāsa respectively. Abhinava has been very infor- mative about the style he adopts in a particular set- ting. He discusses the concept of Sadadhva (six ways) as part of Sthānaprakalpa under Aṇava Upaya in great detail and affirms this fact. Yet at an other 
+
 1. अत्रोच्यते मलस्तावदित्थमेष न युज्यते । 
+
 इति पूर्वाह्न प्रोक्तं पुनरुक्तौ तु किं फलम् ।। 2. अन वीर्य पुरैवोक्तं सर्वत्रानुसरेद्गुरुः ।। 
+
 अर्थ वीजप्रवेशान्तरुच्चाराद्यनुसारतः । नहि तत्किंचनाप्यस्ति यत्पुरा न निरूपितम् ॥ निष्फला पुनरुक्तिस्तु नास्मभ्यं जातु रोचते । 3. श्रीमत्वैशिरसे तच्च कथितं विस्तराद्बहु ॥ 
+
 इह नो लिखितं व्यासभयाच्चानुपयोगतः । 4. अनुत्तरपदाप्तये तदिदमाणवं दर्शिता -- 
+
 भ्युपायमतिविस्तरान्ननु विदां कुरुध्वं बुधाः । 
+
 T.A. 13.53 
+
 Ibid. 30. 121-123 
+
 Ibid. 3.256-57 
+
 Ibid. 12.26 
+
 ABOUT THE AUTHOR 
+
 81 
+
 place he tells us that he is going to follow the brief method in dealing with the problem of 'regional enu- meration' (Purasamgraha) after treating the regional measurement (Bhuvanamāna) and scheme of cate- gories (Tattva Yojana) at length.' In fact he fore- warns us in the very beginning of the eighth Ahnika that he proposes to make use of brief and detailed styles both intending thereby to use combined or mixed style in describing Deśadhva. While employ- ing brief style Abhinava may go even extremely brief and present the abbreviated subject matter in a cou- ple of Kärikäs after handling it at length. He does so in respect of his treatment of three sub-passages- i.e., Pada, Mantra and Varṇa-of the principal cos- mic way called Sabda (word). Towards elaborate delineations, on the other hand, he normally adopts a three-tier strategy. He first puts forward the other available views, examines them and then enunciates his own stand. While embarking upon a comprehen- sive treatment of descent of grace in the thirteenth Ahnika he initially introduces opposite views, Sām- khya being the main among them, from Kārikās 3 to 36, subjects them to critical scrutiny from Kārikās 
+
 1. अथ सकलभुवनमानं यन्मह्यं निगदितं निजैर्गुरुभिः ॥ 
+
 तद्वक्ष्यते समासात् बुद्धी येनाशु संक्रमेत । 
+
 T.A. 8.406-407 
+
 For correct meaning we have to construe this verse in the light of the Viveka. 
+
 2. देशाध्वनोऽप्यथ समासविकासयोगात्संगीयते विधिरयं शिवशास्त्रदृष्टः ॥ 
+
 3. अभिनवगुप्तेनार्यात्रयमुक्तं संग्रहाय शिष्येभ्यः ॥ 
+
 "शैवाः केचिदिहानन्ता कण्ठा इति संग्रह: । 
+
 Ibid. 8.1 
+
 Ibid. 11.531; also cf. 
+
 Ibid. 8.434 
+
 4 तत्र केचिदिति प्राहुः शक्तिपातइमम् (? शक्तिपातमिमम् ) विधिम् । 
+
 तं प्रदर्श्य निराकृत्य स्वमतं दर्शयिष्यते ॥ 
+
 Ibid. 13.282 
+
 INTRODUCTION TO THE TANTRÄLOKA 
+
 37 to 101 and then dwells on his own thesis from Kārikā 102 onwards. In so doing, Abhinava is al- ways seized of the related auxiliary matters as well. His frequent reversal to the 'original' or the 'subject in hand' may be understood only in this light.' In the context of Śivahastavidhi, a part of Samayidikṣā, he starts discussing about various types of initiates. such as Putraka, Acarya and Daisika finding them contextually relevant and reverts to Sivahastavidhi, the original item. Similarly as a part of his over-all organisational scheme the discussion on subordinate or particular issues (Anujoddeśa) follows that on principal or general issue (Pürvaja Uddeśa). As we shall be seeing in detail subsequently he misses no opportunity to furnish proper background of the pro- posed subordinate topic. For instance, in the 15th Ähnika, assigned to Samayi initiation, Abhinava be- fore discussing the first ancillary issue i.e., types of consecration or bath (Snanabheda), dwells on the necessary background. The third phase of his style, which we have called as mixed, sometimes has a strange feature about it, that is, the detail refers to content while the condensation to body of the text, as for instance in Samayidikṣā. It means that Vistara and Sankṣepa have varied applications sometimes to the physical body of the text and sometimes to its contents. 
+
 1. एवं प्रसङ्गनिर्णीतं प्रकृतं तु निरूप्यते । 
+
 T.A. 15.472 
+
 2. एवमादी शिष्याणां तत्तद्भेदभिन्नतया योग्यतालक्षणम् औचित्यं परीक्ष्य 
+
 स्थानभेदादि प्रतिपादयितुं पीठिकाबन्धम् आरचयति । 
+
 T.A.V., IX, p. 25 
+
 3. इति समयदीक्षणमिदं प्रकाशितं विस्तराच्च संक्षेपात् । T.A. 16.1 
+
 Jayaratha explains विस्तरादिति अर्थात् । संक्षेपादिति ग्रन्थतः । 
+
 T.A.V., IX, p. 285 
+
 ABOUT THE AUTHOR 
+
 (e) PURPOSE-ORIENTED DICTION 
+
 83 
+
 Abhinava's multi-ended style is ably supported by the choice of diction. Since Abhinava is creating a Śāstra his vocabulary and its use has to be very pre- cise and meaningful. His usage of the word 'Atha"1 according to Jayaratha suggests his intention to treat the following treatment as an explanation of his own statement. In this sense the Tantraloka sometimes emerges as an auto-commentary. Sometimes 'Atha' indicates a fresh start.3 Similarly the use of 'Samyak" (adequately) implies a clearcut difference from the basic dualist texts like Bhogakārikā and Mokṣa- kärikā of Sadyojyoti." In a continuing discussion speci- fic repetition is aimed at clarifying the issues. For instance, the lunar eclipse takes place in a conjunction of Full Moon and New Moon and not in a pure New Moon" the re-use of the word 'Purva' is just meant for this. 
+
 (f) PRESENTING THE ESOTERIC MATTER 
+
 The language and style both undergo a change when it comes to deal with the exclusively esoteric matter. As we have seen earlier, the first characte- 
+
 1. अथ समुचिताधिकारिण उद्दिश्य रहस्य उच्यतेऽत्र विधिः । T.A. 29.1 2. अत्र च स्वकृतप्रतिज्ञासूत्रवार्तिकप्रायतामभिद्योतयितुम् अथशब्दस्य T.A.V., XI, p. 2 (29 th Ah.) 3. अथशब्द आनन्तर्ये, उद्देशानन्तरं हि लक्षणपरीक्षयोरवसरः इत्याशयः । 
+
 Ibid., I, p. 74 
+
 उपादानम् । 
+
 4. 
+
 इति तत्त्वस्वरूपस्य कृतं सम्यक्प्रकाशनम् । 
+
 T.A. 9.314 
+
 5. सम्यक् इति अनेनात्र भोगकारिकादिभ्यो वैलक्षण्यम् कटाक्षितम् । 
+
 T.A.V., VI, p. 250 
+
 6. एतच्च यद्यपि पूर्ववदित्यतिदेशाद्गतार्थमेव तथापि पूर्णिमाप्रतिपत्संभेदेन- वेन्दुग्रहो भवेत् न तु शुद्धायामेव प्रतिपद्यपि इति दर्शयितुम् न साक्षादुक्तम् । 
+
 Ibid. IV, p. 97 
+
 84 
+
 INTRODUCTION TO THE TANTRALOKA 
+
 ristic of his style of not divulging entire subject matter at one place at a time is found to be more pronounced in such matters--he reveals partly, he conceals partly. This is exactly what he has echoed in the Tantrasära.1 The esoteric matters, which are totally related to one's personal experience, must be transmitted orally by the teacher alone-it is the exclusive domain of the teacher and the taught, yet he delves into it only to preserve the agamic secrets for posterity and in so doing he disperses its discussion over several chapters as has been done in the case of Karaṇas. 
+
 In addition to the dispersal of subject matter Abhi- nava abjures the use of direct language. It has to be subtle. There are four pedestals of a system or scrip- ture specially in the Adi Yaga-Vidya, Mantra, Mudrā and Mandala. After covering Mantra and Mudrā he initiates discussion on Vidya and implies that the topic of Mandala is included in that of Vidya and needs no open description. As an outcome of the same attitude Abhinava has a guarded style to sug- gest the precise Mantras etc. to be used in esoteric performances. This aspect is adequately illustrated in prescription of the Mantra 'Naiṛti bhoh'. Al- 
+
 1. न अतिरहस्यम् एकत्र ख्याप्यं न च सर्वथा गोप्यम् इति हि अस्मद्गुरवः । TS., p. 31. Cp एवं च व्यावर्णने यदेकप्रघट्टकेनैव रहस्यार्थोपदेशो न न्याय इति । 
+
 T.A.V., III, p. 443 
+
 2. गुरुवक्त्राच्च बोद्धव्यं करणं यद्यपि स्फुटम् । 
+
 तथाप्यागमरक्षार्थं तदग्रे वर्णयिष्यते ॥ 
+
 3. तेषामतिसूक्ष्माणामेतावत्त्वं न वर्ण्यते विधिषु ॥ 
+
 4. 
+
 न पठ्यते रहस्यत्वात्स्पष्टैः शब्दैर्मया पुनः । कुतूहली तुक्तशास्त्रसंपाठादेव लक्षयेत् ॥ 
+
 5. न्यक्षरे निर्ऋतिप्राये नाम्नि भोः शब्दमेककम् ॥ 
+
 अपासयेप्यतो मन्त्रश्छन्दोबद्धोऽयमीरितः । 
+
 T.A. 5.130 
+
 Ibid. 8.310 
+
 Ibid. 29.169 
+
 Ibid. 15.383-4 
+
 ABOUT THE AUTHOR 
+
 85 
+
 though there is no set rule, the quantum of disclosure depends upon the previously discussed norm of uti- lity.1 
+
 So far we concentrated on Abhinavagupta and tried to analyse the material offered by the Tantrāloka covering his biodata, his objectives and circumstances behind writing the Tantraloka, the methodology adopted by him and the principles governing his appro- ach and his basic aim. This part of the Introduction therefore should serve as a backdrop setting. From here we propose to study his illustrious commentator Jayaratha on more or less similar lines before revert- ing to our observations on the text. 
+
 Only Jayaratha knows how to unravel the mystery- 
+
 निर्ऋतिप्राये इति तेन "नैऋति भोः" इत्यादि पठनीयम् । छन्दोबद्ध इति 
+
 छंदोभंगे हि मन्त्र एवं अयं न भवेदिति भावः । 
+
 1. इह चैतदतिरहस्यादप्रस्तुतत्वाच्च न केवलम् । 
+
 T.A.V., IX, p. 194 
+
 प्रपञ्चितं यथोपयोगमूह्यते एव 
+
 Ibid., II, pp. 94-95 
-## ABOUT THE COMMENTATOR 
-JAYARATHA 
+
+## 3 ABOUT THE COMMENTATOR JAYARATHA 
+
 The illustrious author of the Viveka commentary, Jayaratha, is next to Abhinavagupta alone in impor- tance. He is no ordinary commentator. He reli- giously follows the methodology adopted by his mas- ter and creates a sort of complete independent text which not only expatiates upon the Tantraloka but also supplements, complements and defends as it were. But for the Viveka we would never understand the Tantraloka. An attempt will be made to evaluate and appreciate Jayaratha's contribution in the pages that follow. 
+
 Following our usual practice that we adopted in the case of Abhinavagupta, we are supposed to begin with the biodata of Jayaratha on the basis of the mate- rial available in the pages of the Viveka. But since in our Krama Tantricism, Vol. I (pp. 209-215) most of these data have already been used it will be better for the reader to refer to those pages. Here we will reca- pitulate only certain salient features to give a bird's eye view incorporating additional information, if any. 
+
 (I) Biographical Data 
+
 (a) ANCESTRAL AND PRECEPTORIAL LINEAGE AND RICH 
+
 PARENTAL HERITAGE 
+
 Jayaratha provides graphic details about his paren- tal and preceptorial geneologies, emanating from the vicinity of Abhinava's period itself. He represented 
+
 88 
+
 INTRODUCTION TO THE TANTRALOKA 
+
 the tenth generation from his carliest mentioned ances- tor Pūrṇamanoratha who was a court minister of King Yasaskara (939 AD).' He was the grandson of one Śrngāraratha who was also a minister of king Rajaraja" whose identity is not yet finally established but who is generally identified with King Jayasimha (1127-1155 A.D.). This Śrngāraratha, whose father Gungaratha died prematurely at young age, was different from one Śrigara who was the son of Dasi Rājānaka and was the grand teacher of Jayaratha in statecraft. Jayaratha throws some subtle hints about his ancestry and his age-long connection with Abhi- nava. 'Ratha' was perhaps the family title or sur- name as all the members of his ancestral lineage car- ried this appendage with them and so was the sub- title 'Datta' which embellished all the members of his preceptorial clan. Pūrṇamanoratha, the first known ancestor of Jayaratha, was a colleague of Vallabha in king Yasaskara's court, whose son Sauri was Abhi- nava's senior contemporary and whose grandson Karna was married to Abhinava's sister. Thus, there was a close nexus between Abhinava and the earlier ancestors of Jayaratha in addition to the academic and spiritual ties that knitted them together. An- other thing that Jayaratha wants to drive home is 
+
 1. श्रीमान् यशस्करनृपः सचिवं समस्तधर्म्य स्थितिष्वकृत पूर्णमनोरथाख्यम् । T.A.V., XII, p. 430, (verse 8) तया स शृंगाररथाभिधानो बालो विवृद्धिं गमितो जनन्या । सत्त्वाख्यया ख्यातगुणः क्रमेण श्रीराजराजः सचिवं व्यधाद्यम् ॥ 
+
 2. 
+
 3. सूत्वा सुतं गुगरथो युवैव प्रमयं ययौ । 
+
 4. 
+
 Ibid., p. 432, verse 28 Ibid., p. 431, verse 26 
+
 अप्यस्य राजतन्त्रे चिन्तयतो राजतन्त्रमास्त गुरुः । दाशीराजानकजन्मा श्री शृंगारो ममापि गुरुः ॥ 
+
 Ibid., XII, p. 433, Verse 36 
+
 ABOUT THE COMMENTATOR 
+
 89 
+
 that all the generations preceding him enjoyed virtu- ous conduct, power, plenty of worldly riches," fame, learning and devotion to Siva and thus crea- ted the proper psychological environment that Jaya- ratha inherited from his forefathers. Similarly the entire series of his preceptorial lineage was charac- terised by spiritual prowess," Sadhana," systematic scholarship and virtuousness and thereby offered rich intellectual heritage. 
+
 Jayaratha provides an insight into some of the im- portant episodes connected with his family. Amṛta- ratha and Utpalaratha II, the two ancestors sixth from Jayaratha, established two seminaries as a means of support to virtuous Brahmins in a place 
+
 1. rufferfag 
+
 T.A.V., XII, p. 430, verse 8; 
+
 चारित्रसंचितमहासुकृतप्रपञ्चाम् 
+
 car at fearf 
+
 2. सचिवग् अकृत 
+
 Ibid., p. 431, verse 22; 
+
 Ibid., p. 432, verse 27 
+
 Ibid., p. 430, verse 8; 
+
 साचिव्यमाप्य ihid, verse 14; राचिवं व्यधाद्यम् 
+
 3. सकलजनहृदयदयितान् अर्थान् 
+
 asfasarafagut: 
+
 4. यद्यशः कौमुदी विश्वम् 
+
 Ibid., p. 432, verse 28 Ibid., p. 430, verse 10; 
+
 Ibid, verse 11 
+
 Ibid., p. 430, verse 90; 
+
 fat ibid., p. 431, verse 25; 
+
 Ibid., p. 432, verse 28 
+
 Ibid., p. 431, verse 25. 
+
 5. पाण्डित्यमेवासुत 
+
 6. व्यवहारे शर्वभक्तौ चैषां प्रागल्भ्यमीयुपाम् । Ibid. p. 431, verse 20; 
+
 fara ibid., verse 23 
+
 7. उचितां पद्धति मुक्तिमार्गे 
+
 Ibid., XII, p. 430, verse 14 
+
 8. यन्मेलापमवाप्य कौलिकमहाशानानुविद्धं महः 
+
 9. अध्याप्याखिलसंहिता Ibid verse 15; 
+
 10. f Ibid., p. 431, verse 17 
+
 Ibid., p. 430, verse 16 संहितापारगं ibid, p. 431, 
+
 verse 17 
+
 90 
+
 INTRODUCTION TO THE TANTRALOKA 
+
 where a school or a metal workshop existed.' Utpala- ratha II was appointed as a minister by king Ananta (1028-1063 A.D.) whose writ ran upto Trigarta (mod- ern Jalandhar in the north-west) and who brutally crushed the forces of the King of Darads. It was he (Utpalaratha II) who received lessons from his mater- nal uncle Vibhutidatta when the elder son of the lat- ter died within seven days of his initiation and out of indifference and aversion arising from this tragic death Vibhutidatta did not consecrate his younger son3 and chose, at the divine instance, to transmit knowle- dge to his younger son through him, i.c. Utpalaratha II. Utpalaratha learnt the entire concept of spiritual union (Melapa) characterised by Kaulika knowledge which he conveyed to Śricakra, an ardent pupil of Vibhutidatta. From Śricakra, the parental spiritual heritage was handed down to Viśvadatta, whom 
+
 1. शालास्थाने वर्तकारे मठी सुकृतकर्मठी । 
+
 तेषूपलामृतस्थौ चक्राते द्विजसंश्रयी ॥ 
+
 T.A.V., XII, p. 430, verse 12 
+
 2. वैगतोर्वीनिवेशा गजमदसलिलैर्लम्बिता म्लानिमानं तव्रत्यक्ष्मापकीर्तिप्रसरमलिनतां यस्य संसूचयन्ति । तस्यानन्तक्षितीन्दोर्बल बहलदरद्राजविद्रावणस्य प्रापत्साचिव्यमान्योत्पलरथ उचितां पद्धति मुक्तिमार्गे ॥ 
+
 3. अध्याप्याखिलसंहिता अपि सुतस्नेहान्निषिक्ते मृते 
+
 पुत्रे ज्यायसि देवतापरिहृतासेके दिनैः सप्तभिः । वैरस्यान्न कनीयसे स यददाद्वालाय सेकं ततो देव्या स्वप्नविबोधितोऽस्य तनयस्यैतन्मुखेनास्त्विति ॥ 
+
 4. यन्मेलापमवाप्य कौलिकमहाज्ञानानुविद्धं महः शिष्यायैकतमाय देयमपुनर्भावार्थ मासादितम् । श्रीचक्राय ददौ द्विजः स भगवानुर्वीधरोऽस्मिन्नसौ श्रीचक्रात् स्वपितृक्रमाप्तमखिलं तत्साधिकारं व्यधात् ॥ 
+
 Ibid., verse 14 
+
 Ibid., verse 15 
+
 Ibid., pp. 430-31, verse 16 
+
 ABOUT THE COMMENTATOR 
+
 91 
+
 Utpalaratha brought to his own residence after his teacher and maternal uncle passed away.1 Viśvadatta soon acquired knowledge of scriptures and mastered his ancestral legacy. He was then shifted to a convent in the front yard of the temple constructed by some Kanakadatta, whose identity we have not been able to establish so far (but who may be a kith of Vibhuti- datta's clan, as the title 'datta' indicates), for perma- nent residence and was provided with a lot of mov- able and immovable assets for future maintenance.2 Utpalaratha II, though a minister, gave himself up for the pursuance of spiritual emancipation and the same thing was true of his eldest son Sivaratha who, though a minister of king Ucchala, dedicated all that he inherited from his father for human salvation and later resigned his exalted job. Similarly Gunaratha, Jayaratha's great grandfather, erected a new convent called 'Acalaśrimatha' which survived, even when the whole city (i.c., Pravapura-modern Srinagar) was 
+
 1. अथ रा परमधार्मिकात्म्यमाप्ते गुरौ स्वं निजगृहमुपनिन्ये तत्सुतं विश्वदत्तम् । अकृत सुकृतिमुख्यं संहितापारगं च प्रथितगुणममुं चाजिग्रहत्स्वाधिकारम् ॥ 
+
 T.A.V., XII, p. 431, verse 17 
+
 2. श्रीकनकदत्तविरचितदेव गृहाग्रे मठं निवासाय । 
+
 कृत्वा ददौ स तस्मै स्थावरधनकनकसंपूर्णम् ॥ 3. प्रापत्साचिव्यमान्योत्पलरथ उचितां पद्धति मुक्तिमार्गे ॥ 
+
 Ibid., verse 18 
+
 Ibid., p. 430, verse 14 
+
 4. सर्वार्थसेविनां मोक्षसेवां शिवरथोऽग्रहीत् ॥ 
+
 पित्राहृत्य नृपद्मेन पारिपाल्यं हि सोऽपितम् । त्यक्त्वार्थदोषविदभूदरागो निष्परिग्रहः ॥ अधिकार ग्राहितः स विद्वानुच्चलभूभुजा । कृत्वा धर्म्यं स्थिति कंचित्कालं तत्याज निःस्पृहः ॥ 
+
 Ibid., p. 431, verses 20-22 
+
 92 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 engulfed by fire, perhaps due to his right conduct.1 His grandfather Gungaratha died prematurely when his father Śṛngāraratha was still a child and it was his grandmother Sattva who reared and brought him up to become a minister of king Rajaraja. Thus a combined tabular chart of Jayaratha's both linea- ges-parental and preceptorial-emerges as on the facing page.* 
+
 5 
+
 Jayaratha's time does not present much problem. He has furnished enough evidence to conclude it is unnecessary to go into details right now that he flourished somewhere during second half of the twel- fth century (1150-1200 A.D.). 
+
 Jayaratha speaks very eloquently of his father Śṛngāraratha. He was very close to king Rājarāja or Jayasimha, like mind to soul. The king fully de- pended on him whether the matter related to collec- tion of money involving intermediaries or to rivers like Ledari which did not involve others.' He was given unrestricted authority over all the infantries and armies falling under the tributary princes and 
+
 1. निर्दग्धमनलदग्धे नगरेऽपि सत्पथप्रथितः । 
+
 अचलश्रीमठमकरोदभिनव मनयोर्गुणरथाख्यः ॥ 
+
 T.A.V., XII, p. 431, verse 24 Ibid., verse 26 
+
 2. सूत्वा सुतं गुडगरथो युवैव प्रमयं ययौ । 
+
 3. Ibid., p. 432, verse 28. 
+
 4. Also see K.T. Appendix 'A'. Here the tables have been combined and modified specially in respect of Viśvadatta and his progeny plus disciples. 
+
 5. Vide K.T., pp. 210-12 for details. 
+
 6. श्रीश्रृंगाररथादवाप्य कृतिनो जन्मानवद्यक्रमम् । 
+
 T.A.V., I, p. 310 
+
 7. तस्यात्मनो मन इवान्यमुखार्थलब्धिष्वासादय साधकतमत्वमरोधचारम् । 
+
 साक्षाद्वभार विषयेषु स किंच लेदर्यादिष्वनन्यविषयेष्वपि भूमिभर्तुः ॥ 
+
 Ibid., XII, p. 430, verse 32ANCESTRAL GENEALOGY 
+
 Purnamanoratha 
+
 (Minister of Yasaskara 939 A.D.) 
+
 Utpalaratha I 
+
 Dharmaratha 
+
 Uttamaratha 
+
 Prakasaratha 
+
 Süryaratha 
+
 + 
+
 (Vibhutidatta's Sister) 
+
 Manoratha 
+
 Amftaratha 
+
 Vasistharatha 
+
 Utpalaratha 11, (Minister of Ananti 1028-1063,A.D.) 
+
 Jyestharatha 
+
 Vibhatidatta's Sister's Son and Pupil 
+
 PRECEPTORIAL GENEALOGY 
+
 Bhanuka (850-900 A.1)) 
+
 Udblintta 
+
 Laksmidatta 
+
 (Ruler of Ganja) 
+
 Kamaladatta 
+
 (Son-in-Law of Laksmidatta) 
+
 Vibhutidatta 
+
 (Maternal Uncle of Utpalaratha II) 
+
 Šivaratha (Minister of Ucchala 1101-1111 A.D.) 
+
 Sakraratha 
+
 Sammaratha 
+
 Nandiratha 
+
 Elder Son 
+
 Śricakra- 
+
 (died) 
+
 Gunaratha 
+
 Devaratha 
+
 Gungaratha 
+
 (+Sattva) 
+
 Singaratha 
+
 (+Kamala) 
+
 = 
+
 (Minister of Rajaraja Jayasimha 
+
 1127-1155 A.D) 
+
 Jayaratha 
+
 Jayadratha 
+
 Višvadatio 
+
 (Younger Son) 
+
 Tribhuvanadatta Daşirājānaka 
+
 Subhațadatta 
+
 Stigüra 
+
 (Diksäguru) (Rajatantra) 
+
 DIRECTIONS 
+
 (1) Blood relationship 
+
 Academic relationship 
+
 Broken lineage, primarily preceptorial 
+
 Contemporary but not part of the tradition 
+
 ABOUT THE COMMENTATOR 
+
 93 
+
 while exercising his powers as the top brass (Sarva- dhikarin) he introduced a major innovation by keep- ing the regular forces and mercenaries separately.1 He devoted his energies for welfare of the common man and encouraged pursuit of excellence by suit- able financial gifts and grants. He created an atmos- phere free from terror and subsequently developed acute devotion for Siva, something behoving his noble heritage. He was initiated into Saivite prac- tices by Subhata Datta who later performed initiation. ceremony of Jayaratha also. He owed his extensive training in statecraft to Śṛngāra, son of Dasi Rājā- naka, who again seems to have imparted lessons to Jayaratha also. Disgusted to see the ruinous state of some new constructions due to vagaries of nature, he carried out five renovations on the Mahadeva mountain. To him and his wife Kamalā, Jayaratha and his brother Jayadratha were born exactly as nectre and moon came out from the ocean, the abode of Kamala (Viṣṇu's spouse, goddess of riches in Hindu pantheon). These two brothers were delight to every- 
+
 1. सामन्तसन्ततिसमाश्रितसर्वमौलपादातशस्त्रिनिचयेऽप्यधिकारमाप्य । 
+
 सर्वाधिकारिणि पदे स विभोः सहायः सेनाभटान् पृथगपि प्रथयाञ्चकार । 
+
 T.A.V., p. 431, verse 33 
+
 5 
+
 2 तस्य सर्वजन तोपकारिणः पुष्णतो गुणिगणान् धर्नार्द्धभिः । साधुसाध्वसमुषः कुलोचिता शर्वभक्तिरतिवल्लभाभवत् ॥ 
+
 Ibid., verse 34 
+
 Ibid., p. 433, verse 35 
+
 3. श्रीविश्वदत्तपौवत्रिभुवनदत्तात्मजः कुलक्रमतः । 
+
 श्रीसुभटदत्त आसीदस्य गुरुर्यो ममाप्यकृत दीक्षाम् ॥ 
+
 4. अप्यस्य राजतंत्रे चिन्तयतो राजतंत्रमास्त गुरुः । 
+
 दाशीराजानकजन्मा श्रीश्रृङगारो ममापि परमगुरुः ॥ 
+
 5. सावद्यां नवनिर्मितिमालोच्य देशकालदौरात्म्यात् । 
+
 पञ्च महादेवाद्रौ जीर्णोद्धारान् व्यधत्त सुधीः ॥ 
+
 Ibid., verse 36 
+
 Ibid., verse 37 
+
 94 
+
 INTRODUCTION TO THE TANTRALOKA 
+
 body and were equal in merit.' Jayaratha was elder of the two. Jayaratha, however, does not remember his mother Kamala so much as his grandmother Sat- tvā who, though a young widow, displayed tremen- dous forbearance and sacrifice into moulding his father what he was—a profound and versatile man. She in her own right won the unsolicited respect from the people for her virtuous conduct and total exemplary dedication to the ways of the gods and 
+
 ancestors. 
+
 3 
+
 Jayaratha speaks highly of his brother Jayadratha who though younger was his junior by a very nominal age gap and was intellectually and academically at par with his elder brother Jayaratha. Jayaratha does not throw any further light on his brother in the Tan- trāloka. Similarly Jayaratha, who has several works to his credit, does not refer to them in his Viveka. Per- 
+
 1. जयरथजयद्रथाख्यौ सकलजनानन्दको समगुणद्ध । 
+
 अमृतशशिनाविवाब्धेरस्मात्कमलाश्रयादुदितौ ॥ 
+
 कृती जयरथाख्यः । 
+
 2. 
+
 ज्येष्ठोरनयोरकार्षीत् 
+
 T.A.V., XII, p. 433, verse 38 
+
 "1 
+
 Ibid., p. 434, verse 41 
+
 3. यां हव्यकव्यविधिबन्धधियं सिताच्छ- 
+
 निर्यन्तखच्छविमिषात्पदधूलिलुब्धा । संसेवते स्म सुरसिन्धुरिवावदात- चारित्रसंचितमहासुकृतप्रपंचाम् ॥ 
+
 तथा स शृंगाररथाभिधानो बालो विवृद्धि गमितो जनन्या । 
+
 सत्त्वाख्यया. 
+
 Ibid., p. 432, verse 27-28 4. The title of Haracaritacintamani (K.M., reprinted from the same by Bharatiya Vidya Prakashan, Delhi-Varanasi) mentions Jayaratha as the author while all the colophons except that of the Ist Prakasa (where there are two readings) record Jayadrath a as the author. See K.T., p. 212-13. 
+
 ABOUT THE COMMENTATOR 
+
 95 
+
 haps he wanted to compose his Viveka as a touch- stone for evaluation of his scholarship by posterity.1 
+
 (b) TWO GROUPS OF TEACHERS: SECOND GROUP CASTING 
+
 STRONGER FORMATIVE INFLUENCE 
+
 Coming to his teachers he mentions four by name who fall into two groups of two each. The first group consisted of Subhata Datta and Srigara and the other of Kalyāņa and Sankhadhara. Jayaratha gratefully acknowledges the deeprooted contribution of the second group in sharpening his academic and spiri- tual calibre. Subhata Datta, being the linear descen- dent in the official tradition, was the natural choice to perform his initiation. He seems to be an older contemporary of Jayaratha because he initiated Jaya- ratha's father also as we have already seen. Subhata Datta wrote a commentary on the Tantraloka for the sake of Śṛngāraratha who acquired substantial command over the Saiva scriptures from him. Jaya- ratha makes it absolutely clear that while Subhaṭa Datta was his father's teacher, he was responsible for Jayaratha's initiation only. Subhata Datta was the son of Tribhuvana Datta and grandson of Viśvadatta. It is this Viśvadatta who is perhaps remembered as 
+
 1. K.T., pp. 213-215. 
+
 2. 
+
 श्रीविश्वदत्तपौत्रत्रिभुवन दत्तात्मजकुलक्रमतः । श्रीसुभटदत्त आसीद् अस्य गुरुर् यो ममाप्यकृत दीक्षाम् ॥ 
+
 T.A.V., XII, p. 433, verse 35 
+
 3. व्यधुस्तन्त्रालोके किल सुभटपादा विवरणं 
+
 यदर्थं यश्चैभ्यो निखिलशिवशास्त्रार्थविदभूत् । 
+
 Ibid., p. 433, verse 39 
+
 4. The context may very well apply to Jayaratha in place of Sṛngåraratha. But we prefer to take it as referring to Sṛngāraratha because of the use of pronoun Yaḥ in singular number, whereas 
+
 96 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 'Parameṣṭhiguru' (great grandteacher) by Jayaratha who ascribes a verse to him and presumably presents him as a Krama author.1 
+
 There is one more reference to Jayaratha's grand teacher (Paramaguru) whose authority has been once invoked by Jayaratha in quelling doubts about one's preference for a particular tradition (out of several options prevailing) as authentic and final. He is cre- dited with the view that one's preference will ulti- mately depend upon one's preceptorial stand. This view is cited to support Jayaratha's contention that his treatment of Krama tradition bears the stamp of his teacher's authority. It is difficult to say if this Paramaguru was Tribhuvanadatta or Subhaṭadatta. Chances are that Jayaratha's reference tends towards Tribhuvana datta because Subhaṭadatta, circum- stantially though Paramaguru, was technically Guru as it was he who initiated Jayaratha into Saiva spiri- tualism. It is, however, very interesting to note that Jayaratha claims direct access to Krama tradition emanating from Bhanuka (850-900 A.D.). While Govindaraja, Bhanuka's classmate, handed down the 
+
 the immediate referant in the preceding verse is in dual number covering Jayaratha and his brother Jayadratha. 
+
 1. यदुक्तमस्मत्परमगुरुभिः - 
+
 क्रमत्रयसमाश्रयव्यतिकरेण या संततं 
+
 क्रमत्रितयलंघनं विदधती विभात्युच्चकैः । *मैकवरक्रमप्रकृतिरेव या द्योतते 
+
 करोमि हृदि तामहं भगवतीं परां संविदम् ॥ 
+
 T.A.V., I, p. 11 
+
 See for detailed discussion K.T., pp. 189-91 and also Upod- ghäta, p. 34. 
+
 2. इत्येकतरपरिग्रहे यथास्वं गुरूपदेश एवं निबन्धनम्, यथोक्तमस्मत्परम- गुरुभिः "यो यस्य गुर्वादेशः तस्य मोचक इति" । 
+
 T.A.V., III, p. 203 
+
 ABOUT THE COMMENTATOR 
+
 97 
+
 tradition through Somananda,' the parallel tradition was lineally transmitted to Jayaratha through Ujjata and Udbhața etc. Although Jayaratha claims to be in possession of both the traditions as also the others, he is direct lineal repository of the tradition from Bhanuka. Since we have no trace of any other person having mastered Krama secrets in the whole precep- torial genealogy other than Viśvadatta, Jayaratha's great grandteacher, it may not be absolutely off the mark to surmise that Jayaratha's regular lincar pre- ceptorial ancestors emanating from Lakṣmi Datta, who also happend to be the ruler of a place called Gañja and perhaps flourished around last quarter of the tenth century (975-1023) and was chronologically quite close to Udbhața (900-950 A.D.) and Ujjata (875-925 A.D.) with a few missing links in between, constituted the regular vehicle for the transmission of that tradition. Our knowledge about Subhața- datta does not go beyond this point. The other tea- cher in this group is Srigara, teacher of Śrngāraratha 
+
 Jayaratha's father in political science. However, by the use of 'also' (Api in Mamāpi) Jayaratha seems to imply that he also learnt something of political affairs from Śṛngāra.1 
+
 It is the second group of teachers that wielded con- 
+
 1. तत्त्राद्य: ( गोविन्दराजः) ..... स चेदं रहस्यं श्रीसोमानन्दाभिधानाय गुरवे संचारयाम्बभूव । 
+
 T.A.V., III, p. 192 Also see "यदधिकारेण श्रीगोविन्दराजादीनामुपदेशः प्रवृत्तो योऽस्मत्पर्यन्तमपि 
+
 प्राप्तः । 
+
 Ibid., p. 198 
+
 2. द्वितीयोऽपि (भानुकोऽपि ) एवमेवास्त तस्यैव चैषा श्रीमदुज्जटोद्भट्टा- दिनानागुरुपरिपाटीसंततिः यत्प्रासादासादितमहिमभिरस्माभिरेतत्प्रदर्शितम् । 
+
 Ibid, p. 192-93 
+
 3. Also see K.T., pp. 110-111, 120-22. 4. श्रीश्रृङगारो ममापि गुरुः । 
+
 T.A.V., XII, p. 433, verse 36 
+
 98 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 siderable influence on the making of Jayaratha-as an academician and as a top grade spiritualist both. He is avowedly indebted to Sankhadhara for his pro- ficiency in all the secular sciences1 including the science of grammar, the science of linguistic interpre- tation propounded by Jaimini and all other empirical disciplines. Śankhadhara was perhaps known as Sangadhara (if it is not a scribal aberration) also. He owed his acquisition of all the Saivite learning and insight into Saiva scriptures to Kalyāṇa, who was an embodiment of the divine. In fact Jayaratha's blissful experience flowing from the realization of oneness of Śiva is exclusively due to him, who was instrumental in removing all the dirt and mental fickle- ness. No other teacher except Kalyāņa has claimed reverence from Jayaratha in glowing terms in the opening verses of the Tantralokaviveka where he is likened to an ocean whose drops of compassion made Jayaratha self-realized without the fall of mortal frame and whose sermons were carried out with the 
+
 1. । 
+
 श्रीमच्छंखधरात्परं परिचयं विद्यासु सर्वास्वपि । T. A. V. I, p. 310 2. अधिगतपदविद्यस्त्रीन्मुनीन्योऽधिशेते 
+
 प्रथयति च लघुत्वं जैमिनेर्वाक्यबोधे । निखिलनयपथेषु प्राप यश्चाधिराज्यं 
+
 त्रितयमपि कथानां यत्र पर्याप्तिमेति ॥ 
+
 Ibid., XII, p. 433, verse 40 
+
 3 तस्माच्छ्रीसङ्गधरादवाप्तविद्यः कृती जयरथाख्यः । 
+
 Ibid., p. 434, verse 41 Ibid., I, p. 310 
+
 4. श्रीकल्याणतनोः शिवादधिगमं सर्वागमानामपि । 5. शिव द्वैतज्ञप्तिप्रकटितमहानन्दविदितं 
+
 Ibid, XII, p. 433, verse 39 
+
 गुरु श्रीकल्याणाभिधममुमवाप्यास्तरजसम् ।। 
+
 6. देहे विमुक्त एवास्मि श्रीमत्कल्याणवारिधेः । यस्य कारुण्यवित्रुभिः सदगुरुं तं हृदि श्रये ॥ 
+
 T.A.V., I, p. 2, verse 2 
+
 ABOUT THE COMMENTATOR 
+
 99 
+
 same zeal by the kings, as crowns over their heads.1 
+
 Jayaratha offers a very intimate insight into the matters of his personal teachers. While commenting upon the T.A. 13.3422-blessed is the disciple who gets a teacher perfect in wisdom-Jayaratha cites his own example. Jayaratha considers himself extremely fortunate in having attended on Kalyāṇa and Sankha- dhara who were teachers of perfect knowledge-Kal- yana in Saiva spiritualism of monistic-dualistic charac- ter and Sankhadhara in the secular disciplines of grammar, linguistics and logic. Incidentally our know- ledge is highly deficient in regard to the written con- tribution, if at all, made by his teachers. Jayaratha cites the views of his teacher only thrice in the whole of Viveka-once in connection with the interpretation of the term Mula in the Tantraloka, the second time while stating the reasons behind his opting for the Devyāyāmala's standpoint on Sikhäbija in preference to the Trisirobhairava's" and the third time while sub- 
+
 1. मूर्व्युत्तंस इव क्ष्मापैः सर्वैर्थस्यानुशासनम् । 
+
 हृदये भवसंभारकर्कशेऽप्याशु शिश्रिये ॥ 2. धन्यस्तु पूर्णविज्ञानं ज्ञानार्थी लभते गुरुम् ।। 
+
 T.A.V., I, p. 2, verse 3 
+
 3. अत्र च अहमेव उदाहरणं यद्विज्ञानार्थिना मया लोकोत्तरे द्वयाद्वयात्मनि शैवशास्त्रादौ अभिख्यामात्रप्रख्यापितपरश्रेयःसंश्रयः श्रीमान्कल्याणः पूर्णविज्ञानवानेक एव गुरुर्लब्धः पदवाक्यप्रमाणादी लौकिके श्रीमान् सुगृहीतनामधेयः शङ्खधरश्चेति । 
+
 4. निमज्जेत्साङ्गमूलाख्यं जपन्ना तन्मयत्वतः । 
+
 मूलं च अत्र परेति गुरवः । 
+
 T.A.V., VIII, p. 205 T.A. 15.50 T.A.V., IX, p. 30 
+
 5. अत्र च शिखायां कवचबीजमिति श्रीत्रिशिरोभैरवानुयायिनः चतुष्कल- मिति श्रीदेव्यायामलोपजीविनः अस्मदगुरवस्तु द्वितीयमेव पक्षमामनन्ति यदिह श्री- पूर्वशास्त्रानु दितस्यापि नेत्रमन्त्रस्य श्रीतिशिरोभैरवीयं मतमपहाय श्रीदेव्यायामल- प्रक्रमेणाभिधानात् तदर्थ एव विवक्षितः । 
+
 Ibid., XII, p. 198 
+
 100 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 stantiating Abhinava's description of real Homa1 (In fact the third one is the only direct statement from his teacher). Presumably these views belong to Kal- yāņa as the context is patently Saivite one. Jayaratha owes three things to his teacher-one, he was able to annihilate all the distracting determinate ideas;2 two, he was not easily vulnerable; and three, he had imbibed the Kaulika experience personally. In fact Jayaratha was a self-realized person during his life- time. By any standard these are not mean achieve- ments and speak highly of the calibre of his teacher. 
+
 (c) PERSONAL ACHIEVEMENTS 
+
 Going by the gleanings from his statements Jaya- ratha, to top everything, was a Jivanmukta' the summum bonum of all spiritual seekers. He was constantly in the state of mental harmony marked by divine ecstacy.' He also suggests that he was the 
+
 1. यदभिप्रायेणैव अस्मदगुरुभिरपि - 
+
 शश्वद्विश्वमनश्वरप्रकृतयो विश्वस्तचित्ता भृशं 
+
 ये विज्ञानतनूनपाति विततोन्मेषा वषट्कुर्वते । 
+
 तेषां संतत सर्वमेययजनक्रीडामहायज्वनां 
+
 नो मन्येऽवभृथक्षणः क्षणमपि क्षीणस्थितिर्लक्ष्यते ॥ इत्याद्युक्तम् । 
+
 2. गुरुचरणप्रसादप्रध्वस्तसमस्तदुर्विकल्पौघः । 3. श्रीसद्गुरुसेवारससनातनाभ्यास दुर्ललितवृत्तः । 4. श्रीमद्गुरूपदेशप्रक्रमसंक्रान्तकौलिकानुभवः । 
+
 T.A.V., III, p. 233 Ibid., III, p. 471 Ibid., X, p. 305 
+
 Ibid., XI, p. 172 (29th Ah.) Ibid., I, p. 2 
+
 5. देहे विमुक्त एवास्मि श्रीमत्कल्याणवारिघेः । 6. Ibid. 
+
 7. शैवावेशवशोल्लसदसमरसास्वादसामरस्यमयः । Ibid., II, p. 264 (Colophon, 3rd āhnika) 
+
 Also cp. " शाक्तसमावेशवशप्रोन्मीलितसद्विकल्पविभवेन 
+
 Ibid., III, p. 307 
+
 ABOUT THE COMMENTATOR 
+
 2 
+
 101 
+
 "blessed" one having smelt the intense fall of divine grace, which automatically meant attainment of perfect knowledge. He was an accomplished Yogin who exercised excellent command over the contem- plation of the movement of breath-respiratory and downward both. ' Free from all doubts he was im- bued with a sense of beatific serenity and his reali- zation of Absolutic harmony induced a feeling of total resignation from mundane affairs. Yet his synthetic personality remains transparent as ever. In the last concluding verse of his Viveka he proudly portrays himself as an encyclopaedic genius spring- ing from a unique blend of empirical and metem- pirical disciplines. Thus he appears to be well-ver- sed in grammar, linguistics, logic, secrets of all Saiva scriptures and none could excel his ingenuity whether it was Trika philosophy or Krama metaphysics. According to the colophon of the Tantraloka, he earned the same title of being a super-teacher in 
+
 1. तीव्रशक्तिपाता घ्रातः पुनः पूर्णज्ञानमेव गुरुमासादयेत् यत्प्रसादादनाया- समेवास्य स्वात्मनो विज्ञानपरिपूण्यं समुदियादित्याह --अत्र चाहमेवोदा- हरणम् । 
+
 T.A.V., VIII, p. 205 
+
 2. प्राणापानसमाश्रयचारविचारचातुरीनिष्ठः 
+
 3. निरस्तः संदेह: शममुपगता संसृतिरुजा 
+
 विवेकः सोत्सेकः सपदि हृदि गाढं समुदितः । अतः संप्राप्तोऽहम् निरुपधिचिदद्वैतमयता- मसामान्यामन्यैः किमिव तदिदानीं व्यवसितैः ॥ 
+
 Ibid., IV, p. 471 
+
 Ibid., XII, p. 434, verse 46 
+
 4. पदे वाक्ये माने निखिलशिवशास्त्रोपनिषदि प्रतिष्ठां यातोऽहं यदपि निरवद्यं जयरथः । तथाप्यास्यामङ्ग क्वचन भुवि नास्ति त्रिकदृशि क्रमार्थे वा मत्तः सपदि कुशलः कश्चिदपरः ॥ 
+
 Ibid., pp. 434-35, verse 47102 
+
 INTRODUCTION TO THE TANTRALOKA 
+
 Maheśvara's cult' as did his master Abhinava. He seems to have enjoyed a fairly long life, as he talks of being quite ripe in age when he completed the remained Tantraloka Viveka. His mission might have abortive had it not received tremendous encouragement from his royal patron Rajaraja alias Jayasimha, whose inspiration proved to be the real instrument behind the writing of the Viveka. 
+
 (II) The Tantralokaviveka 
+
 a 
+
 (a) AN EXTENSION OF AND SUPPLEMENT TO THE TANTRĀLOKA 
+
 Composition of the Tantralokaviveka was a life- time mission for Jayaratha. He worked assiduously for a major part of his life and the day his mammoth undertaking reached fruition, a feeling of creative joy overtook him. It was the result of a persistent, regular, long-drawn hard work in discovering the essential meaning of Abhinava's magnum opus. The successful completion seems to be the end result of his exploiting all the existing source material. In this sense the Tantralokaviveka is not just a commen- tary, it is the continued extension of the Tantraloka. 
+
 1. कृतिः श्रीराजानकमहामाहेश्वराचार्यजयरथस्य ॥ 
+
 2. 
+
 • सम्यक्परिणतवयसा ... 1 
+
 3. इह मम गतस्तन्त्रालोके विवेचयतो यतो 
+
 निरवधिमभिप्रेतोत्साहः स एव निमित्तताम् । 
+
 T.A.V., XII, p. 435 
+
 Ibid., p. 434, verse 45 
+
 Ibid., p. 432, verse 30 
+
 4. वाचस्तत्त्वार्थं गर्भाः श्रवसि कृतवतो वल्लकी क्वाणहृदया 
+
 नित्याभ्यासेन सम्यक्परिणतवयसा चिन्तयासेव्यमानान् । आश्लिष्यन्ती नवोढा निविडतरमियं भावना लम्भयिष्य- त्यानन्दास्रप्रवाहामलमुखकमलान् सांप्रतं निर्वृतिं नः ॥ 
+
 Ibid., p. 434, verse 45 
+
 ABOUT THE COMMENTATOR 
+
 103 
+
 At every step he is aware of the complexity and mas- siveness of the project because it demanded close familiarity with practically all sources of knowledge and highlighted one's apparent difficulty in treading the impassable jungle of Saivite discipline made all the more impervious by the perplexity in bringing out real intent of the scriptures belonging to the con- flicting source-bases.1 He, therefore, owns up full responsibility for all the failings that might have crept in and humbly craves for indulgence from the sympathetic readers. Among his immediate support- ing sources, it appears, were certain commentaries. One such commentary was Vivarana, authored by his family preceptor Subhața Datta, which however seems to have cast little impact on him despite the fact that it greatly enlightened Jayaratha's father. In the Tantraloka he is invariably guided by his teacher Kalyāṇa, and not Subhata Datta. Perhaps, another commentary was Unmeșa by an unknown author3 whose views were ignored by Jayaratha. In any case there were several, numerous one may add, interpreta- 
+
 1. विद्यास्थानैरशेवैरपि परिचयतो दुर्गमे शैवशास्त्रे 
+
 स्रोतोभिन्नागमार्थप्रकटनविकटे नैव कश्चित्प्रगल्भः । तन्त्रालोकेऽत्र यस्मात्स्खलितमपि महत्कुल कुत्रचिच्छेत् स्यान्नूनं ते हि तस्मान्मम न विमुखतां हन्त सन्तः प्रयान्तु ॥ 
+
 T.A.V., XII, p. 434, verse 43 
+
 2. The opinion in K.T., p. 213 that Subhaṭadatta served as a model stands modified. 
+
 3. 
+
 अन चोन्मेषकृता क्लिष्टकल्पनया यत् व्याख्यातं तदाग्रहमातपरतया तदुपेक्ष्यम् । 
+
 T.A.V., X, p. 221 
+
 The above conclusion is a qualified one and will hold true if the Unmeșa is not a commentary on the Srimṛtunjaya-siddha- tantra which is central subject in the context. However, we are inclined to construe it as above. 
+
 104 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 tions' of various portions and whether they crys- tallised into book form-today we are not in a posi- tion to say. We are, however, inclined to believe that there did exist commentaries which invited criticism from Jayaratha. Indeed it is our misfortune that these are not extant today. It may, therefore, be propound- ed with certain amount of certainty that criticism of existing commentaries was one of the devices resort- ed to by Jayaratha to build up his work. From the very beginning of his Viveka, Jayaratha leaves us in little doubt about his motives. He took up the Viveka not because he wanted to establish himself as an author, nor was he keen to display his unique feli- city in expression. It was his sole urge to let the deter- minate ideas culminate into perfect awareness" conse- quent upon careful consideration of its meaning. Jayaratha seems to have had three types of audience in mind (1) the ignorant, (ii) the hostile or envious, and (iii) the doubtful. While he does not mount any attack on those who were yet to arrive on the scene he is determined to address his work to all the three classes of audience-whether past or present-alike 1. केषांचिदपि व्याख्यान्तराणामासमञ्जस्यमतीव संभवदपि न प्रकाशितम् । 
+
 T.A.V., I, p. 15 
+
 2. 
+
 Also cf. ""तस्मादस्मदुक्तमेव व्याख्यानं युक्तमित्यन्यदुपेक्ष्यम् । 
+
 Ibid., V, p. 260 इति पठित्वा चेत्याद्यभिधाय पूर्वापरानुसारितया उभयपक्षमीलनयाङगुलव्यत्यासेन व्याख्यायाम् .. . इति दोषाः । 
+
 अतश्च.... 
+
 3. 
+
 न ग्रन्थकारपदमाप्तुमथास्म्यपूर्वं 
+
 वाक्कौशलं च न निदर्शयितुं प्रवृत्तः । 
+
 किं त्वेतदर्थपरिशीलनतो विकल्पः 
+
 संस्कारवांश्च समियादिति वाञ्छितं नः ॥ 
+
 4. यातायाताः स्थिताः केचिदज्ञा मत्सरिणः परे । 
+
 संदिग्धा केsपि किं ब्रूयां श्रोतारो यदनागताः ।। 
+
 Ibid., X, p. 91-92 
+
 Ibid., I, p. 2 
+
 ABOUT THE COMMENTATOR 
+
 105 
+
 who without grasping the inherent purport have in- dulged in deliberate show of their expressionist tal- ent. Thus he primarily assumes the role of an edu- cator, a critic and an umpire all blended into one. He indeed sets himself to a formidable task. 
+
 The sense of mission was so profound that it led him to procure each and every text, having slightest bearing on the subject. It was a sort of hunting spree and he was constantly on the search, on his own ad- mission, to devise innumerable devices in order to get hold of such texts. As is natural, his ceaseless effort made it possible for him to take the glossorial job in his stride and a moment came when he did not take time to explain3, yet he was able to turn out the greatest or the most exalted commentary3. 
+
 (b) TITLE 
+
 This superb commentary is now commonly known as the Viveka (i.e., discernment) and has been so desig- nated in the introductory lines appearing in the beginning of the text. But subsequently in most of 
+
 तदनाक गूढार्थं स्वादु स्वाशयकौशलम् । साकूतमुक्त मन्यतेन दोलायते मनः ॥ 
+
 1. तत्तद्ग्रन्थाधिगमोपायशतान्वेव णप्रसक्तेन । 
+
 Ibid., p. 3 
+
 T.A.V., I, p. 42 (2nd Ah.) 
+
 It is significant that Jayaratha in the Ist Ahnika lays down his purpose and in the very next Ahnika gives out his method. 
+
 2. 
+
 3. 
+
 4. 
+
 एतद्व्याख्यातं जयरथेनाशु । 
+
 . वरिष्ठां विवृतिमिमां जयरथश्चक्रे ।। 
+
 Ibid. 
+
 Ibid., IV, p. 203 
+
 अथ श्री तन्त्रालोकः श्रीमन्माहेश्वराचार्यवर्य श्रीमदभिनगुप्तविरचितः । श्रीमदाचार्यवर्य जयरथविरचितविवेकाभिख्यव्याख्यानोपेतः । 
+
 Ibid., I, p.1 
+
 106 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 the title lines1 as well as the colophons2 it is remem- bered as the Prakāśa (light). Sometimes name Viveka has been retained in chapter-colophons also. Once Jayaratha describes it as the Vivarana also.* It, therefore, transpires that Jayaratha was not very fastidious about the name and himself allowed both the nomenclatures to be used alternatively. 
+
 (c) FUNDAMENTAL MOTIVES 
+
 (i) Attainment of the Godhead 
+
 The basic aim of Jayaratha in attempting a gloss on the Tantraloka is the same as Abhinava's-to in- culcate intellectual framework necessary for attain- ment of the Godhead or Self-Absolute," yet he does not unnecessarily drag on with this. Unlike Abhinava, who is out to secure divine grace for all creatures, Jayaratha would be content if his attempt succeeds in enlightening just one man. In fact, he prefers to remain self-confined and dedicates, like his glorious master, his work as an offering to the Godhead." 
+
 1. अथ श्रीतन्त्रालोकस्य श्रीमन्महामाहेश्वराचार्याभिनवगुप्तपादविरचितस्य 
+
 श्रीमदाचार्य जयरथकृतप्रकाशाख्य व्याख्योपेतस्य । 
+
 2. 
+
 3. 
+
 T.AV., I, p. 1 (2nd Ah.) Ibid., p. 42 
+
 श्रीजयरथाचार्यकृतप्रकाशाख्यव्याख्योपेते श्रीजयरथविरचितविवेकाभिख्यव्याख्योपेते. 
+
 Ibid.., IV, p. 58 (7th āh.) 
+
 4. विवरणमेतदरचयज्जयरथ इति पञ्चमाह्निके कश्चित् ॥ 
+
 5. यस्मादेषणविक्रिया यदुदिता ह्यानन्दचिद्भूमयो यस्यैवोद्धरशक्ति वै भवमिदं सर्वं यदेवंविधम् । तद्धाम त्रिकतत्त्वमद्वयमयं स्वातन्त्र्यपूर्णप्रथं चित्ते स्ताच्छ्विशासनागमरहस्याच्छादनध्वंसि मे । 6. सत्सु प्रार्थनयानया न किमिह तेषां प्रवृत्तिः स्वतो 
+
 दुर्जातेष्वपि चार्थिता अपि यतः कुर्युः प्रवृत्तिं न ते । 
+
 Ibid., III, p. 471 
+
 Ibid., I, p. 1 
+
 ABOUT THE COMMENTATOR 
+
 (ii) Resurrection of tradition and 
+
 (iii) Restoration and preservation of the Tantraloka 
+
 107 
+
 The undercurrent of his entire effort, nevertheless, remains to explore and project the Tantraloka as he steers it clear through the mess that had per- vaded all ranks of the scholarship by his time. 
+
 Jayaratha is replete with unmistakeable signs to- wards the existence of this anarchy. Often he becomes very harsh on these confusion-mongering elements. During his examination of the actual chronology of the propagators of Krama system and their tradi- tional viewpoint, he asks the reader to ignore such people who lack scholastic tradition, have not applied their brain to the scripture as well as preceptorial school and are devoid of any commonsense of their own. Sometimes he himself overlooks many appa- rent discrepancies. We shall soon see several ins- tances of such confusion where Jayaratha's reconci- liatory instinct comes to the fore. By the time of Jayaratha, the Tantraloka's text seems to have acquir- ed several interpretations-sometimes equally wei- ghty-all of which were admitted by him as possible 
+
 सर्वाकारमिति प्ररोहति मनो न प्रार्थनायां यदि स्वात्मन्येव तदास्महे परमुखप्रेक्षित्व दैन्येन किम् ॥ 
+
 हो देव सदैव मां प्रति कथंकारं पराधीनता- मायातोऽस्यधुना प्रसीद भगवन्नेकं वचः श्रूयताम् । सदयः कंचन तज्ज्ञमेकमपि तं कुर्याः कृति मामकी- मेतां यः प्रमदोदितास्तु निभृतश्रोत्रं क्षणं श्रोष्यति ॥ 
+
 Ibid, XII, p. 434, verses 43-44 
+
 1. तस्माददृष्टगुरुभिरपरिशीलितशास्त्रसंप्रदायैः 
+
 स्वविमर्श शून्यैर्देवानांप्रियैर्यत् किंचिदत्रोच्यते तदुपेक्ष्यमेव । 
+
 T.A.V., III, p. 203 
+
 2. एवमनेकप्रकारमासमञ्जस्यं संभवदपि अनङ्गत्वान्न प्रदर्शितम् । 
+
 Ibid., p. 179 
+
 108 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 alternatives. Take for instance the word 'Sadrśa' (similar) in the T.A. 3.5, 1 or 'Kāthinyābhāvatah' (be- cause of the lack of solidity) in the T.A. 3.20 which attracted two alternative explanations. This could be equally probable that Jayaratha himself, for want of absolute certainty, offers alternative explanations. Opposition to Abhinava's views in the internal circle appears to have gained considerable ground and Jaya- ratha has to take upon himself to re-establish Abhi- nava. His frequent tips of endorsements bring us to the same conclusion. Similarly Jayaratha suggests that there was great opposition from one section of scholars to the concept of Tattva-bheda (sub-division of categories), particularly the theory of fifteen sub- divisions, since he asks his counterparts to shun anta- gonism and see reason. Jayaratha himself draws our attention to the complete anarchy that prevailed with regard to the textual reading and order of certain particular portions among the various commenta- 1. सदृशमिति सजातीयम् । शरीरसंस्थान प्रतिबिंबं दृश्यते । यद्वा विषयान्तरोपलक्षणपरतया शब्दप्रतिबिम्बविषयत्वेन व्याख्येयम् । 
+
 T.A.V., II, p. 5 
+
 2. इह तु सर्वतः स्वच्छत्वात् एकेन भागेन प्रतिसंक्रान्तमपि मुखादि न लक्ष्यते भागान्तरेण -- अन्ततः आलोकादिना प्रतिसंक्रान्तेन तस्यावृतत्वात् । यद्वा यथा काच- स्फटिकशकलादयः सर्वतः स्वच्छत्वात् तद्व्यवहित वस्तुदर्शनान्यथानुपपत्त्या नायनानां रश्मीनां न प्रतिवातकास्तथा दीपादयोऽपि काठिन्याभावे सति सर्वतः स्वच्छत्वाद् भागान्तरेण निर्गच्छतः प्रतिबिम्बस्थेति न तत्र तत्र प्ररोहमेति - मलिनस्य तत्प्रती- घातकस्य भागान्तरस्याभावात् । 
+
 Ibid., p. 25 
+
 3. For instance in his commentary on just one verse ( T. A. 3.31) 
+
 Jayaratha uses phrases like- 
+
 युक्तमित्युक्तम् इति वक्तुं युक्तम् इति साधु दृष्टान्तितम्, युक्तियुक्तम्, 
+
 at least four times. 
+
 4. इति भेदानुप्राणितः समग्र एवायं व्यवहारः सोढव्य इति किमनया पाञ्च- 
+
 दश्यादिक्रमकल्पनयापराद्धं यदेवमस्याः प्रद्वेषः । 
+
 Ibid., VII, pp. 64-65 
+
 ABOUT THE COMMENTATOR 
+
 109 
+
 tors. The illustrations may be multiplied to show that the atmosphere inherited by Jayaratha was sur- charged with suspicion, confusion and ignorance and Jayaratha discharged a formidable task in restoring the correct order and resurrecting the genuine tradi- tional position. 
+
 Jayaratha's obsession with restoring the correct traditional thesis is so ardent and deep-rooted, and in a sense essential, if we keep in view his professed mission, that he raises stormy controversies, investi- gates into them and then outlines the exact tradi- tional stand. 
+
 One of several controversies hinted at by Abhinava relates to the exact number of Kalis ordained by the Kramastotra (by Siddhanatha). Abhinava was a great champion of twelve-Kālis theory in his Tantraloka, but the confusion resulted from misap- prehending the proper approach of Abhinava on the issue whose sole aim was to present Sam- vit-krama while others including the Pañcaśatika and a section of the Kramastotra's commentators were guided by their eagerness to conceal Samvitkrama and present Pūjākrama." This problem arose in the wake of Abhinava's bringing in Raktakālī, instead 
+
 1. सर्वेषामेव च विवरणकृतामत्रं प्रतिपदं पाठानां श्लोकानां व्यत्यासो दृश्यते, 
+
 इत्यस्मद्दृष्ट एव पाठे क इवायं प्रद्वेषः । 
+
 T.A.V., III, p. 202 
+
 We are, however, not quite sure if faar here refers to the Kramastotra (K.T. p. 179) alone or the Tantraloka. 
+
 2. इह तु पूजाक्रमगोपनाय स्वशय्ययैव स्थापनम्, यदधिकृत्य संवित्क्रमः परि- निष्ठितिमियात्, अतएवागमैकशरणतया प्रवृत्तेऽपि श्रीक्रमस्तोत्रे ग्रन्थकृतां अभि- नवगुप्तानां संवित्क्रममेव प्रदर्शयितुं तद्विवृतौ 
+
 इत्यादयुक्तम् । 
+
 Ibid., p. 162 
+
 110 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 of Sthitikāli, after Srstikali. Similarly Abhinava's exclusion of Sukāli from the list of Kālis evoked a furore among die-hards because it made Abhinava subscribe to the notion of twelve Kālis admitted in Anakhyacakra according to the Sardhaśatika. Jayaratha examines the objection from every possi- ble angle-scriptural authority, textual testimony, doctrinal consistency, chronological continuity, con- textual propriety, scribal authenticity and colateral evidence and resolves that Abhinava's stand in entertaining only twelve Kālis in Anakhyacakra is unimpeachable. In the same vain Jayaratha goes on scrutinizing even the historical inaccuracies and sets the chronological record straight. He says with a pinch of salt that these contemporaries do not know anything about Abhinava's precepto- rial tradition and claims to be in direct receipt of the traditional secrets supplying several miss- ing links on Cakrabhānu, Kakāradevi, Somarāja, Hrasvanatha, etc. and the real purport of the Kramastotra. He then comes to the well-settled 
+
 1. नतु सर्वतैवान्यत्र श्रीसृष्टिकाल्यनन्तरं श्रीस्थितिकाल्या अभिधानम्, यदु- क्त श्रीसार्धशतिकेइति तत्कथमिह तदनन्तरं श्रीरक्तकाल्यादिनिर्देशः कृतः, एवं हि आगमविरोधः स्यात् ? 
+
 T.A.V., III, p. 161 
+
 2. ननु क्रमदर्शने सर्वत्रैव श्रीसृष्ट्यादिदेवीनां मध्ये श्री सुकाल्या भगवत्या अभिधानं येनानाख्यचक्रे तयोदश देव्यः.. . तदत्र क्रमनयसमानकक्ष्यत्वविवक्षा- यामपि कथमेतद्विरुद्धमभिहितं "द्वादशैव देव्यः" इति ? अत्त्रोच्यते इह क्रमदर्शने सर्वसविकया अनाख्यचक्रे वयोदशैव देव्यः पूज्यत्वेनाभिमताः इति तावन्नास्ति नियमः एवमिह सुकालीं विना द्वादशैव देव्यः पूज्यतया यद्युक्ताः, तत्को दोषः । 
+
 ...... 
+
 3. अतश्चास्य एवं गुरुक्रममजानानैरद्यत तैः 
+
 Ibid., pp. 189-191 इत्यादि यदुक्तं तत्स्वो- 
+
 त्प्रेक्षितमेव इत्युपेक्ष्यम् । नहि चक्रभानुना प्रायः कस्यचिदपि एवमुपदिष्टम् तन्मूलत- 
+
 - 
+
 यैव इदानी मस्योपदेशस्य शतशो दर्शनात् । 
+
 4. Ibid., pp. 193-202 
+
 Ibid., p. 193ABOUT THE COMMENTATOR 
+
 111 
+
 principle that one cannot extract a piece in isolation -the text has to be accepted or rejected as a whole -and although in the case of alternative positions one's sheet anchor is bound to be one's precep- torial teaching, Jayaratha finds his conclusion un- affected on either version of the original text.' This controversy has been raised carlier also on more philosophical footing with the conclusion that there is no scope at all for the thirteenth form otherwise it will render the twelve forms as non-modes of con- sciousness. Although the theory of thirteen forms may be justified with reference to the empirical subject, it has no ground metaphysically. In fact such a sharp division of respective standpoints led to two different schools within Krama system and was responsible for historically different lines of growth. 
+
 Jayaratha refers to another controversy in the course of his treatment of the 'passage of space' (Desadhva). The context relates to the regions as obtaining within the category of earth. There were 
+
 1. नन्वेवं तर्हि "अयं पाठः साधुरयमसाधुः" इति विचारः किं नाश्रीयते यद्य एव समूलः पाठः स एव साधुरितरस्तु इतरथेति मूलं चात्रोभयत्रापि प्रदर्शितेन क्रमेण समानमुत्पश्यामः - इत्येकतरपरिग्रहे यथास्वं गुरूपदेश एव निबन्धनम् । 
+
 T.A.V., III, p. 203 2. ननु अस्यास्त्रयोदशात्मकत्वमपि अन्यैरुक्तं तत्कथमिह द्वादशात्मकत्व- मेवोच्यते ? .. संविदो हि अतिरेके द्वादशरूपाणि असंविद्रूपत्वात् न चकास्युरेव इति निराभासा संविदेकैव अवशिष्येत इति को नाम त्रयोदशरूपत्वस्यावकाशः । Ibid., pp. 127-129 
+
 .... 
+
 J 
+
 3. तत्कथमेतत् प्रतिसमाधीयते इत्युच्यताम् ? उच्यते - इह भेदाधिवासिता मायाप्रमातारस्तावदुपदेश्याः, इति समानार्थचर्यावत् तदानुगुण्येन अत्र प्रवृत्तः उप- देशः सुखेन प्ररोहमियात्, इति विकल्पबलोपनतं भेदमाश्रित्य संविदस्त्रयोदशरूप- त्वमुक्तम्, इह पुनर्वास्तवमभेदमेवावलम्ब्य एवमुपदेशः इति सर्वमेव प्रतिसमाहितम् । 
+
 Ibid., pp. 133-34 
+
 112 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 varying agamic positions. For example, the stands taken up by the Nandisikhatantra and the Trisir- sobhairava did not tally with that by the Siddha- tantra. Similarly there was some difference of opin- ion if the region presided over by the god Ananta lay within waters or above it. Jayaratha examines all aspects in detail and concludes that internal exist- tence has to be construed as external existence and in fact internality or externality was not the point at issue, what was intended was the 'sequence' alone. Viewed in this light the alleged opposition between the Siddhatantra and others will evaporate. This does not even militate against the position accepted by the Tantrarāja Bhattaraka. Jayaratha does not deny the distinctive character of various positions; what he wants to bring home is their structural and scholastic compatibility.' 
+
 It is neither possible nor advisable to take stock of all such situations for reasons of space. We will, therefore, refer to one more instance and then pro- ceed further. In the course of discussion on the cos- mic passage called Kala (crest) Abhinava does not stop at the ultimate reality, i.e. Siva, being 36th cate- gory but talks of thirtyseventh and thirtyeighth category also ruling out any scope for the fallacy 
+
 1. The controversy consumes about 8 pages (T.A.V., V, pp. 15-22) but the following remark from the Viveka is significant- 
+
 यच्च श्रीसिद्धातन्त्रोक्तं भुवनमानमिह न ग्राह्यम् — इत्युक्तं तदप्ययुक्तम्, यतो यदि नाम नरकादिवदनन्तभुवनस्येह मानं किंचिदुच्येत तत्प्रकियाभेदादन्यतन्त्रो- तमग्राह्यमेव इति स्यात् । भुवनस्य मानमवश्यंभावि तच्वेह नोक्तम्, इति तदाकांक्षा- यामेव अवश्यमेवान्यतः कुतश्चिदपेक्षणीयम् इति को नाम श्रीसिद्धातंत्रे प्रद्वेषः । या श्रीतन्त्रराज भट्टारकेऽपि अस्य लक्षोच्छ्रितत्वमुक्तम् इति तदपेक्ष्यतां को नाम नो निबन्धः यावता हि अस्माकमन्तर्भुवनमानसंख्याया आसमञ्जस्यमभिधानीयं तच्च उभयथापि सिद्ध्येत् इत्यलं बहुना । 
+
 T.A.V., V, pp. 20-21 
+
 1 
+
 ABOUT THE COMMENTATOR 
+
 113 
+
 called infinite regress. 1 Abhinava's view, Jayaratha suggests, was first attacked on the counts of (i) lack of reasons and (ii) absence of scriptural evidence and then on those of (ii) doubtful support and (iv) devi- ation from the normally accepted position." Jayaratha again gets quite harsh on the critics who having avoided pains of sitting at the feet of a teacher are utterly con- fused about real intent of Abhinava or the scriptural position. Although the ultimate reality is correctly accepted as thirtysixth category yet the problem is how to account for immanence if it is considered transcendent and for objectivity or knowability if 
+
 न चानवस्था ह्येवं स्यादृश्यतां हि महात्मभिः । यद्वेद्यं किंचिदाभाति तत्क्षये यत्प्रकाशते । तत्तत्त्वमिति निर्णीतं षट्त्रिंशं हृदि भासते || तत्किं न किचिद्वा किंचिदित्याकांक्षावशे वपुः । चिदानन्दस्वतन्त्र करूपं तदिति देशने ॥ सप्तत्रिंशं समाभाति तत्नाकांक्षा च नापरा । तथापि क्लृप्तवेद्यत्वं यत्र भाति स चिन्मयः ॥ अष्टात्रिंशत्तमः सोऽपि भावनायोपदिश्यते । यदि नाम ततः सप्तत्रिंश एव पुनर्भवेत् ॥ 
+
 1. 
+
 T.A. 11.23-27 
+
 2. विरुद्धधर्माध्यासस्तावद्भेदहेतुरित्यविवादः । सर्वाविभागात्मत्वादेश्चाविशे- 
+
 षात् स एवात्र नास्ति इति कुतस्त्योऽयमनयोर्भेदः । 
+
 T.A.V., VII, p. 18 (11th āh.) 
+
 3. एवंविधश्च कश्चिदागमोऽपि न संवादितः । 
+
 का 
+
 Ibid, p. 19 
+
 4. नन्वत्र (श्रीकुलरत्नमालायाम्) . 
+
 ) का वार्ता तु सप्तत्रिंशाष्टात्रिंशयोः प्रत्युत मिलष्टप्रायमालूनविशीगं किं तावदप्रातीतिक मुक्तम् । 
+
 Ibid., p. 20 
+
 5. वस्तुतो हि सर्वशास्त्रेषु षट्त्रिंशत्त्वेन गीयमानमनवच्छिन्नं बोधमात्रमेव परतत्त्वमित्युक्तम् । 
+
 Ibid., p. 19 
+
 6. सप्तविंशाष्टाविंशयोरपूर्वतयाभिधानेन सुकुमारहृदयानामागमिकानां सं- मोहो मा भूदिति करुणापरस्य परमेश्वरस्य गूढार्थतया यथोक्तनीत्या मायात्रमात्र- पेक्षया कल्पनामात्तसारमेवमभिधानं तच्च गुरूपसेवनादाबदृष्टकष्टैः स्वावमर्शशून्यै- श्च कथमेवमेवावगम्यते । 
+
 Ibid., VII, p. 21 (11th Ah.) 
+
 114 
+
 INTRODUCTION TO THE TANTRALOKA 
+
 it is viewed as subject or knower. Jayaratha finds both of these anomalies resolved by the enunciation of the 37th and 38th stages. He also says that Abhi- nava's basic approach is to expatiate upon the aga- mic viewpoint even in preference to the generally accepted thesis.* 
+
 (iv) Furnishing chronological continuity 
+
 As a part of his ardent responsibility Jayaratha, as we have pointed out earlier also, has worked hard on chronological accounts of the preceptorial line- ages and has always abided by the preceptorial au- thority. Jayaratha himself recognizes this to be his prime contribution in the Viveka. In his Vāmakes- varimatavivaraṇa he emphatically avers that those who have interpreted or referred to the Tantraloka without having access to the teacher and for that matter uninterrupted tradition have only lent them- selves to great ridicule. In fact his account of Krama and Kula histories and several other important au- thors on Kashmir Saivism is invaluable. For ins- tance Niskriyānandanātha, Vidyānanda, Saktyā- nanda, Śivananda and his three female disciples, 
+
 1. यावता हि एकस्यैव षट्त्रिंशस्य तत्त्वस्य मायाप्रमानपेक्षया विश्वोत्तीर्ण- त्वेऽपि विश्वमयत्वं प्रमातृत्वेऽपि प्रमेयत्वं च कथं नाम संगच्छताम् तच्चोभय- मपि सप्तत्रिंशाष्टात्रिंशयोरेवोपकल्पनेनोपशाम्यति, द्वयोरपि भिन्नविषयत्वेनैव कृतार्थत्वस्योक्तत्वात् । 
+
 T.A.V., VII, p. 26 ( 11th āh. ) 
+
 2. वस्तुतस्तु षट्त्रिंशमेव सर्वंसहमित्युक्तप्रायम् । पुनस्तदेव भित्तितयावलम्ब्य तदागमार्थ व्याचिकीर्वापरतयैवमभिहितम् । 
+
 ग्रन्थकृता 
+
 Ibid, p. 26 
+
 3. यत् पुनरत अन्येरन्यत्र वा साक्षात् गुरुस्तदर्थस तत्त्वमनवगम्य श्रीतंत्रा- लोकसंवादनं तदर्थप्रकाशनं वा कृतं तत् सर्वं पितृपितामहक्रमोपनतं प्रकृतं स्पष्टं मार्ग- मपि अजानतामश्रुतामपूर्वामदृष्टचरां च गहनगहनां तत्सरणि तज्ज्ञानं प्रति प्रकाश- यतां तेषामेव महतीमुपहास्यतामावहति । 
+
 VMV, KSS66, p. 76 
+
 ABOUT THE COMMENTATOR 
+
 115 
+
 Govindaraja, Bhanuka, Eraka, Ujjata, Udbhaṭṭa, the Stotrakāra alias Siddhanatha, Bhaskara, Bhūtirāja I, Kuladhara, Bhojarāja, Somarāja, Šivananda II, own ancestral and doctrinal lineages, linear expanse of Traiyambaka, Sumatinatha, Somadeva and Sambhunatha are some of those celebrated person- ages about whom our knowledge depends on Jaya- ratha sometimes exclusively and sometimes in a very large measure. For fear of detail and reasons of space and propriety we propose to abandon our enquiry here. One thing, however, is absolutely certain that not only he has direct access to the tradition but also deep insight into it and leaves no stone unturned to make sure that the reader is con- vinced about the stamp of finality and authenticity that he puts on it." 
+
 (d) HANDLING OF THE SOURCE MATERIAL 
+
 (i) Four progressive phases and their several dimensions Jayaratha closely follows the footsteps of his master. His major contribution lies in opening flood- gates of our information on the source-material. Thus like the Tantraloka, the Viveka, too, emerges as a major reliable sourcebook on the basic sources with several dimensions to it. There is a discernible progression in Jayaratha's handling of the material and it passes through the following phases- 
+
 (1) Material drawn upon by Abhinava-Identi- 
+
 1. See for details K.T., Chapter Six, pp. 82-248; Abhi., Chap. 5, pp. 132-251, Chap. 7, pp. 545-549; Upodghata, Pūrvärdha. 
+
 2. तस्मादस्मदुक्तमेव व्याख्यानं युक्तमित्यन्यदुपेक्ष्यम् । 
+
 T.A.V., V, p. 260 
+
 116 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 fication, structural information, citation, possible and relevant restoration, critical determination and interpretation; 
+
 (II) Material produced after Abhinavagupta --- allusion, scrutinization, possible restoration, textual settlement and discovery of inter se relationship; 
+
 (III) Gaps creating deviations or controversies- enumeration and reconciliation; and 
+
 (IV) Additional information-substantiation, textual determination, rationalization, underlining poten- tialities, textual restoration and the furnishing of cultural information. 
+
 (ii) Material drawn upon by Abhinava 
+
 We are afraid that in an attempt like the present 'Introduction' it is well nigh impossible to do away with overlapping altogether as emphases vary with angles, approaches and context. Towards supplying the source material Jayaratha's job is manifold. The first is identification of the text or source, if Abhi- nava makes an unassertive reference. The second in the same connection is to identify the exact por- tion of the source and to cite from it, if necessary, in case Abhinava names a source but withholds fur- ther information. For instance, the word Ädi in the T.A. 1.46, according to Jayaratha, stands for an agamic text belonging to the dualistic branch of Saivism called Cillacakreśvari-mata followed by an extract. Similarly the Ratnamālā in the Tantra- 
+
 1. मतङ्गादौ कृतं श्रीमत्खेटपालादिदेशिकैः । 
+
 2. आदिशब्देन चिल्लाचक्रेश्वरीमतादेर्ग्रह्णम् । तदुक्तं तत्र- 
+
 "बौद्धं च पौरुषेयं च द्विविधं तन्मलं स्मृतम् । 
+
 तत्र दीक्षादिना याति पौरुषेयं मलं क्षयम् ॥ 
+
 ABOUT THE COMMENTATOR 
+
 5 
+
 117 
+
 54 
+
 loka' is identified as the Kularatnamālā (we get the complete title). Jayaratha also enlightens us that this reference is to the content and purport of the Ratna- mālā and not to its language. He then goes on giving several excerpts from it. The verb 'Pracakṣate' (i.e., say), though vague, stands for the Parātriṁśikā according to Jayaratha who mentions the exact rele- vant spot in the mentioned text. Similarly ' Agame s in the T.A. 4.148 stands for the Pañcaśatika-it is only on the authority of Jayaratha that we know it. Jayaratha cites the relevant portion as well. Jaya- ratha, it seems, abhors vagueness and scrupulously furnishes zero-error information. While discussing Abhinava's allusion to the Matangaśāstras, Jaya - ratha specifically reminds the reader that the actual reference is to the commentary on the Matangaśāstra and not to the Agama proper in order to avoid 
+
 बौद्धमयमेवास्ते तावत्तावत्समुद्रितम् । 
+
 यावन्न बौद्धमेवास्य सजातीयविलापकम् ॥ ज्ञानमभ्युदितं सम्यक्यारेतरविभागकृत् ।" इति । 
+
 1. यथोक्तं रत्नमालायाम् । 
+
 T.A.V., I, pp. 85-86 
+
 T.A. 1.274 
+
 2. रत्नमालायामिति श्रीकुलरत्नमालायामिति उक्तमिति अर्थतो, न तु 
+
 शब्दतः । 
+
 3. Ibid., pp. 282-283 
+
 4. तदेव ब्रह्म परममविभक्तं प्रचक्षते ॥ 
+
 5. 
+
 T.A.V., I, p. 281 
+
 T.A. 3.167 
+
 प्रचक्षत इति श्रीपरात्रिंशकादी तथाहि तत्र पराबीजोद्वारे "तृतीयं ब्रह्म 
+
 सुश्रोणि" इत्युक्तम् । 
+
 6. सृष्टिं कलयते देवी तन्नाम्नागम उच्यते । 
+
 T.A.V., II, p. 166 
+
 T.A. 4.148 
+
 7. आगमे श्रीपञ्चशतिकादी उच्यते अभिधीयते इत्यर्थः । तदुक्तं तत्र । 
+
 T.A.V., III, p. 158 
+
 8. श्रीमन्मतङगशास्त्रे च क्रमोऽयं पुरपूगगः । 
+
 T.A. 8.428 
+
 9. 
+
 दितम् । 
+
 अत्र च साक्षादागमे संवादिते ग्रन्थविस्तरः स्यात् इति तद्वृत्तिकृदुक्तं संवा- T.A.V., V, p. 275 
+
 118 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 unnecessary elaboration. He then offers us a glimpse of the versicular commentary under reference. In fact it is impossible to understand the Tantraloka without the aid of the Viveka. In a single continued treatment Abhinava alludes to the respective orders of the five sheaths (Kañcukas) according to the Sarvajñānottara, Svāyambhuva, Kirana and Mātaiga- pārameśvara,1 but in the Tantraloka's text the Svayambhuva is nowhere mentioned even obliquely. It is by the analysis of the contents that Jayaratha finds an unmistakeable appeal to the authority of the Svayambhuva. On the same pattern Jayaratha hints that Abhinavagupta is not simply referring to but also quoting and in such a case he completes an incomplete quote. Thus we see that Jayaratha does not restrict himself to the provision of name alone, he tries to discover the underlying source. This attitude is profusely reflected in places like the dis- cussion of Malininyasa (an assignment called Mālini) where Abhinavagupta does not take us into confidence about his agamic base, but Jayaratha 
+
 1. पुंरागवित्कलाकालमाया ज्ञानोत्तरे क्रमात् ॥ 
+
 नियतिर्नास्ति वैरिञ्चे कलोर्ध्वे नियतिः श्रुता । पुंरागवित्वयादूर्ध्वं कलानियतिसंपुटम् ॥ कालो मायेति कथितः क्रमः किरणशास्त्रगः । पुमान्नियत्या कालश्च रागविद्या कलान्वितः ॥ इत्येष क्रम उद्दिष्टो मातङ्गे पारमेश्वरे । 2. नियतिर्नास्तीति सर्वज्ञानोत्तरे तस्या अनभिधानात् 
+
 यम्भुवे, यदुक्तं तत्र- 
+
 3. इति देवो न्यरूपयद् इति प्राच्येन संबंधः । 4. श्रीमदानन्दशास्त्रे च नाशुद्धिः स्याद्विपश्चितः । 
+
 किन्तु स्नानं सुवस्वत्वं तुष्टिसंजननं भवेत् ॥ 5. इत्येष मातृकान्यासो मालिन्यास्तु निरूप्यते । 
+
 T.A. 9.45-48 
+
 वैरिञ्च इति -- स्वा- 
+
 T.A.V., VI, p. 46 Ibid, IX, p. 28 
+
 T.A. 15.45 
+
 Ibid. 15.120 
+
 ABOUT THE COMMENTATOR 
+
 119 
+
 comes forward with references to and quotations from the Siddhatantra as well as the Triśirobhairava and underscores the similarity they have with other tantras like the Matabhattaraka on this issue.1 
+
 In addition to the above-noted information Jaya- ratha's job includes the furnishing of structural in- formation in respect of the cited source material. It is rendered possible by affording an insight into the quoted extract. Abhinavagupta, for example, quotes the Kiraṇāgama to substantiate the relation- ship of path and destination (Upaya-upeya-bhāva) as subsisting between the power and the power-ful." Here Jayaratha comes to our rescue saying that this Agama had a question-answer format where Garuda is the inquirer while the Godhead assumes the role of the answerer. It is this long dialogue between the two (of which specific portions have been earmarked by Jayaratha) that has been drawn upon by Abhi- navagupta and put in his own words for the sake of brevity. Likewise the Triśirobhairava was also in the form of a dialogue between the Goddess and the God where Devi asks and Siva answers. We owe this information to Jayaratha, who pinpoints the portion actually quoted by Abhinavagupta." 
+
 1. T.A.V., IX, pp. 63-65 
+
 2. 
+
 श्रीमत्किरणशास्त्रे च तत्प्रश्नोत्तरपूर्वकम् । अनुभावो विकल्पोऽपि मानसो न मनः शिवे ।। अविज्ञाय शिवं दीक्षा कथमित्यत्र चोत्तरम् । 
+
 3. 
+
 तन गर 
+
 गरुडेन.... 
+
 पृष्टे भगवता 
+
 T.A., 1.75-76 
+
 scanfaat.... curan... 
+
 प्रतिसमाहितम् । एतच्च पुनरप्यार्य गरुडेन ...इत्यादिना पृष्टम् । एतत्प्रश्नार्थ 
+
 एव ग्रन्थकृता संक्षेपचिकीया स्ववच सोपनिबद्धः । 
+
 4. श्रीमत्तिशरसि प्रोक्तं परज्ञानस्वरूपकम् । 
+
 शक्त्या गर्भान्तर्वर्तिन्या शक्तिगर्भ परं पदम् ।। 
+
 T.A.V., I, pp. 116-117 
+
 T.A. 2.32 
+
 120 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 This Agama was divided into several chapters called Patalas.1 Similarly the Urmimahāśāstrasiddha Santana- rūpaka as presented by Abhinavagupta hap- pened to be identical with Kula text Ürmikaulasiddha- santānarupaka and was in the form of a dialogue between Devi and Siva and had one of the chapters called Padovalli dealing with preceptorial genealogy.* 
+
 It is no use multiplying instances. Jayaratha's an- other major contribution lies in retaining certain important pre-Abhinavan sources in more or less complete form. The preservation of the Krama- stotra, attributed by us to Siddhanatha elsewhere,1 in somewhat intact shape" in the pages of fourth Āh- nika is a classic example of the same. Similar is the case with the Pañcasatika, etc. In a sense Jaya- ratha's coverage is no less wider than that of his 
+
 master. 
+
 The greatest task, however, consists in his editing the text critically and determining the precise reading. Jayaratha seems to have worked religiously on it. Here his job is twofold. On the one he handles the 
+
 Jayaratha adds—“परं ज्ञानं कथं देव" इति देवी प्रश्ननिर्णयार्थं ह्येतदव परज्ञानरूपं भगवतोक्तमित्याशयः, तदेव पठति " शक्त्या" इत्यादि । 
+
 T.A.V., I, p. 26 (2nd Ah.) श्रीतिशिरोभैरवप्रथमपटलाच्च अयमर्थः स्वयमेवाधिगन्तव्यः । 
+
 2. श्रीमदूर्मिमहाशास्त्रे सिद्धसंतान रूपके । 
+
 इदमुक्तम्. 
+
 Ibid., I, p. 150 
+
 T.A. 2.48 
+
 3. ऊर्मिमहा शास्त्र इति श्रीमदूर्मिकौलसिद्धसंतानरूपके इत्यनेन पादोवल्ल्यां पारम्पर्येऽप्यम्लानत्वं दर्शितम् तत्र - हि 
+
 इत्याद्युपक्रम्य... . इत्यादिपर्यन्तं बहूक्तवान् । 
+
 4. Vide K.T., pp. 142-43 
+
 5. Also see Upodghata, p. 31 
+
 इति भगवत्या पृष्टो भगवान् . 
+
 । T.A.V., I, p. 40 (2nd Ah). 
+
 6. Vide T.A.V., III, pp. 150, 160, 165, 167, 169, 173, 178, 181, 
+
 183, 185, 187, 202ABOUT THE COMMENTATOR 
+
 121 
+
 agamic texts alluded to and/or quoted by Abhinava- gupta or by himself and on the other he handles the text of the Tantraloka. For the timebeing we con- centrate on the former alone. In critically handling the source texts he rectifies the incorrect reading- whether due to scribal mistake or due to misinform- ation-, indicates his preference out of the two or more seemingly equal readings, reconciles differing scriptural positions, criticizes his own schoolmen for their deviations and preferences for other read- ings, and finally arranges the texts in a natural and logical order. To appreciate better, let us look into some illustrative instances. At one place' Jayaratha discusses the original Agama, i.c. Svayambhuva, and holds that the reading Kala, which he chanced to see in older manuscripts, has to be accepted in pre- ference to the common reading Kala without which the Abhinavan text would militate against the Kirana Agama. At another, Jayaratha retains Dviti- yam in the quoted text in preference to Tṛtiyām Caturthim, as adopted by a section of misguided scholars while commenting upon Abhinavagupta 
+
 1. नियतिर्नास्ति वैरिचे कलोर्ध्वे नियतिः श्रता । 
+
 genfacauıged aaq1fafadig24 || 
+
 2. वैरिञ्च इति स्वायम्भुवे यदुक्तं तत्र- 
+
 मायातत्त्वात्कालतत्त्वं संस्थितं तत्पदद्वये । 
+
 T.A. 9.46 
+
 संस्थान्यस्मिन्कला तद्वद्विद्याप्येवं ततः पुन ॥ इति, अत्र हि संस्थापयति नियच्छति भोगेषु, अणूनिति संस्था नियतिरिति व्याख्यातारः अत्र च कालो नियतिसंपुटः, कलेत्येवमात्मैव जरत्पुस्तकदृष्टः पाठो ग्राह्यः अन्यथा हि कैरणोऽर्थो विसंवदेत् । 
+
 T.A.V., VI, p. 46 
+
 3. "अथात्माख्यां द्वितीयां परिकल्पयेत्" इत्यत्र च तृतीयां चतुर्थी वेति पाठो भवेत्, सिद्धातंत्रे च संकार्णेत्यादिना वक्ष्यमाणेन ग्रन्थेन पौनरुक्त्यं प्रसज्येदिति अलं गुर्वागमसंप्रदायशून्यैः सह संलापेन । 
+
 Ibid., IX, pp. 162-63 
+
 122 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 who draws upon the Siddhayogiśvaramata in respect of the seat-worship (Asanärcana) and invokes the contents thereof1, because it will lead to unnecessary repetition when construed with the Siddhatantra. In the same context he resolves the textual order and implies that 'Sardhāksarām' qualifies 'Dvayim'— the two are not independent. As seen earlier, Jaya- ratha not only identifies the quoted text but goes a step further. He pinpoints exact reading in the original source in case Abhinavagupta does not strictly adhere to the 'original ' 1 Here Abhinava - gupta reads Pūrṇāṁ and Kṛśam while it is Pinām and Durbalām in the original Vijñānabhairava. Jaya- ratha, at a different place, quotes from a tantra, probably the Siddhatantra if one goes by the con- textual evidence, after correction of Ună into Unām stating his reasons for doing so." He meets the anti- cipated criticism by further reasoning. At another place ' Abhinava draws upon the Mrtyuñjaya-tantra 
+
 1. तत्रासने पुरा मूर्तिभूतां सार्धाक्षरां द्वयीम् 
+
 न्यस्येद्व्याप्तृतयेत्युक्तं सिद्धयोगीश्वरीमते ॥ विद्यामूर्तिमयात्माख्यां द्वितीयां परिकल्पयेत् । 
+
 T.A. 15.321, 323 
+
 2. अत्र च सार्धाक्षरामिति पठित्वा द्वयीं मातृकां मालिनीं च न्यस्येदिति न वाच्यम् । एवं हि अत्र प्रौन्मनसस्य पङ्कजतयस्य वाचकमभिहितं स्यात् । 
+
 3. उक्तमिति श्रीविज्ञान भैरवे । 
+
 तत्र च पीनां दुर्बलां चैवेति पाठः । 
+
 उक्तं च पूर्णां च कृशां ध्यात्वा द्वादशगोचरे ॥ 
+
 T.A.V., IX, p. 162 
+
 Ibid., p. 243 
+
 T.A. 15.480 
+
 5. "शूलानि स्युः षट्सहस्राण्यूनं सार्धशतद्वयात् ।" इति ऊनमिति ऊना इति 
+
 वा अपपाठ एव अनन्वितत्वात् तृतीया स्थाने पञ्चम्यनुपपत्तेः । 
+
 6. Ibid, pp. 246-7 
+
 7. एकैकं द्वयङ्गुलं ज्ञेयं तत्र पूर्व पदत्रयम् । 
+
 T.A.V., XII, p. 246 
+
 अष्टाङ्गुलानि चत्वारि दशाङ्गुलमतः परम् ।। etc. T.A. 16.234-36 
+
 ABOUT THE COMMENTATOR 
+
 123 
+
 for his notion of independent assignment (Svatantra Nyasa) pertaining to the ultimate-cum-nonultimate deity. Jayaratha has adopted the reading ‘Ekaikam dvayangulam' in preference to 'Ekaikadyangulam' and vehemently ridicules those who opt for such a reading by a curious mixture of the preceding and the following confusing both because such a reading clearly nullifies the original agamic reading, brings in the element of farfetched imagination, lacks the use of the word 'again' and also violates the explana- tions offered by the teachers. These examples, though handful, will indeed help us gather an idea about Jayaratha's careful diligence. 
+
 The next step Jayaratha takes is to accord a pro- per interpretation. He addresses himself to the task of giving the most appropriate and relevant inter- pretation. As a rule he feels shy of bringing in other interpretations in spite of their probability. Nor does he harp on their patent mutual inconsistency, if the same is irrelevant. It is of course very natural for Jayaratha to hunt out the exact basic source be- hind Abhinava's specific thesis or pronouncement. For example, while initiating discussion on the 'division of day and night' as a sequel to the 'move- ment of breath' (Prāṇacāramāna) he underscores Abhinava's heavy dependence upon the Svacchanda Tantra. But it is also his bounden duty to point out the lines on which the source authority is to be under- stood with a warning of the impending negative results. Abhinava invokes the authority of the Para- 
+
 1. अस्य न्यासस्य एकैकद्वयङगुलमिति पठित्वा ... चेत्यभिधाय पूर्वापरानु- सारितया उभयपक्षमीलनया अङ्गुलव्यत्यासेन व्याख्यायामार्षपाठपरित्यागः कष्ट- कल्पना पुनर्वचनानुपयोगः श्रीमद्गुरुव्याख्यातिक्रमाश्चेति दोषाः । 
+
 T.A.V., X, pp.91-92 
+
 124 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 trisikā', also known as the Trikaśāsana, for his treat- ment of the principle of right teacher and his initi- ation and quotes two verses from it leaving out intervening verses.3 Jayaratha immediately steps in to say that the omission is purposive and the first line of the quoted text is quite capable of covering even the unquoted portion of the quoted last verse." Sometimes Jayaratha accords an apparently incon- 
+
 ....... 
+
 1. यत्तु (S. T. 7.36 and 7.39 ).... 
+
 इत्याद्युक्तं तत्केवलमेव प्राणावाहमधिकृत्यापानवाहं चेत्यधिगन्तव्यम् । एवं ( ST. 7.68) इत्यादी पक्षसन्धिग्रन्थेऽपि अयमेवाशयो योज्यः । अन्यथा ह्येका तुटिरकृतविनियोगा स्यात् । T.A.V., IV, p. 57 
+
 2. अदृष्टमण्डलोऽप्येवं यः कश्चिद्वेत्ति तत्त्वतः । 
+
 स सिद्धिभाग्भवेन्नित्यं स योगी स च दीक्षितः ॥ एवं यो वेत्ति तत्त्वेन तस्य निर्वाणगामिनी । 
+
 दीक्षा भवेदिति प्रोक्तं तच्छ्रीतिशकशासने || 
+
 T.A. 4.50 
+
 3. Luckily the text of the P.T.V. is printed with the commen- tary of Abhinava in KSS as Volume No. 18 (1918). The verses under reference, traceable at Nos. 18 to 25, are as under-- 
+
 अदृष्टमण्डलोऽप्येवं यः कश्चिद्वेत्ति तत्त्वतः । 
+
 • स सिद्धिभाग्भवेन्नित्यं स योगी स च दीक्षितः ॥ अनेन ज्ञातमात्रेण ज्ञायते सर्वशक्तिभिः । शाकिनी कुलसामान्यो भवेद्योगं विनापि हि ॥ अविधिज्ञो विधानज्ञो जायते यजनं प्रति ॥ कालाग्निमादितः कृत्वा मायान्तं ब्रह्मदेहगम् । शिवो विश्वाद्यनन्तान्तः परे शक्तित्रयं मतम् ॥ तदन्तर्वति यत्किंचित शुद्धमार्गे व्यवस्थितम् । अणुविशुद्धमचिरादैश्वरं ज्ञानमश्नुते ॥ तच्चोदकः शिवो ज्ञेयः सर्वज्ञः परमेश्वरः । 
+
 सर्वगो निर्मलः स्वच्छस्तुप्तः स्वायतनः शुचिः ॥ 
+
 4. तत्र च "अदृष्टमण्डलोप्येवम्" इत्यादि श्लोकानन्तरम् " अनेन ज्ञात- मात्रेण..." इत्यादिग्रन्थान्तरं संभवदपि प्रकृतानुपयोगात् न पठितम्, अदृष्टमण्डल- 
+
 त्वादेव च "तिलाज्याहुतिर्वाजतत्वादि" अवसीयते, तदपि न पठितम् । 
+
 T.A.V., III, p. 58 
+
 ABOUT THE COMMENTATOR 
+
 125 
+
 gruous interpretation. For instance, he explains the word Antaḥ in Abhinava's text, which is based on the Devyāyamala Tantra in the context, not as 'with- in' but as just above it. But in arriving at this interpretation he has to compare and contrast a host of Agamas and synthesize their anomalous stands and then to conclude that Abhinavagupta's leaning towards a general, and hence casual, survey is sometimes responsible for such expressions. Jaya- ratha intends his method to be a trend setter for interpretation of the cognate tantric material." 
+
 (iii) Pre-Abhinavan tantric material 
+
 The same approach permeates his handling of the tantric material, whether of Abhinavan, pre-, or post-Abhinavan era. In the absence of a clearly worked-out chronological analysis of this material our remarks have to be limited to the works quoted by Jayaratha on his own. Very often he draws upon those sections of pre-Abhinavan material which have remained untouched by Abhinavagupta. Des- pite Abhinavagupta's extensive coverage, a lot of material from hitherto unknown sources has found its way into Jayaratha which is of immense value 
+
 1. जलस्थान्तरित्यर्थात् तदुपरि संस्थितः । 
+
 T.A.V., V, p. 14 इत्यादीनाम् 
+
 2. यदुक्तं श्रीतन्दिशि बायाम् .. । श्री त्रिशिरोभैरवेऽपि अन्तःस्थितिविधायकानां वाक्यानां कोऽर्थः स्यात् । किंच इदमत्र प्रतिपत्तव्यं- यदनन्तस्य बहिरवस्थानमिति । तथाहि श्रीतन्त्रराजभट्टारके इत्यादिकमनन्तस्य नान्तः स्थितेविधायक किंतु एवं शुद्धिक्रमस्य तदवस्थितेः पूर्वं मुक्तत्वात् एतावन्मात्र- स्वाल विवक्षितत्वात् । यदुक्तं तत्र एवं इत्यादावपि व्याख्येयम् । एत- च्चोत्तानतयैव गृहीत्वा तत्र तत्र तथाभ्यधुः येनास्य अन्तरवस्थाने भ्रान्तिबीज- 
+
 त्वं प्ररूढम् । तथा च सोमशंभुः इति न पूर्वापरव्याहतत्वम् । यद्वक्ष्यति .. 
+
 Ibid., pp. 14-19 
+
 126 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 for any future chronicle of tantric history. Of all the works referred to by Jayaratha, his allusions to the Srikanthi are highly significant' for the study of the ten Śiva tantras, eighteen Rudra tantras and sixtyfour Bhairava tantras (divided into eight groups) belonging to the dualistic, dualistic-cum-monistic and monistic schools. Jayaratha gives a few lengthy quotations incorporating the names of all the tan- tras. Though it is difficult to ascertain its period, the first ever reference to it is found in the Uddyota of Kṣemarāja on the Svacchanda Tantra3 which also testifies to Jayaratha's description about the subject- matter. Among other agamic texts he refers to the Kramasadbhāva, Sardhaśatika, Anandeśvaratantra, Pañcāmṛta Bhūtakṣobha, Anantavijaya, Kulakramo- daya and Kula-kriḍāvatāra for the first time. As is usual he not only quotes but also informs about their formal structure, subject matter and crucial points which evoked special interest. For instance, the Krama sadbhāva was an Agama of Nigama class and there was a sharp difference of opinion whether it advocated worship of sixteen or seventeen deities.* 
+
 1. एतच्च श्रीश्रीकण्ठ्यामभिधानपूर्वं विस्तरत उक्तं तद्यथा एतच्च श्री- श्रीकण्ठ्यामभिधानपूर्व विस्तरत उक्तम् । तद्यथा यत्तु श्रीश्रीकण्ठ्यां तत्पुरुष- वक्तमुद्दिश्य इति । अतश्च भेदभेदाभेदाभेदप्रतिपादकं शिवरुद्रभैरवाख्यं faââ¿ magçyay sfa fuara: 1 
+
 शास्त्रमुद्भूतम् इति सिद्धान्तः 
+
 T.A.V., I, pp. 39-45 
+
 2. Dwivedi has given a very useful comparative chart of sixty- four tantras from several sources including the Srikanthi in his Upodghata, pp. 94-111. See page 71 also. Further see his Upod- ghata to N.S.T., p. 46. 
+
 3. पञ्चमन्त्र महात्मनेत्यनेन श्रीकण्ठीयसंहिताद्युक्तनानास्रोतोभेदः सूचितः । 
+
 तत्र स्रोतोभेदेन नानाशास्त्रप्रपञ्चोदयः प्रदर्शितः । 
+
 S.T.U., IV, p. 19 
+
 4. यदभिप्रायेणैव श्रीक्रमसद्भावभट्टारके अनाख्यचक्रे षोडशैव देव्यः पूज्य- 
+
 ABOUT THE COMMENTATOR 
+
 127 
+
 The Sardhasatika, which Jayaratha quotes four times', closely follows on the heels of the Pañcaśatika and explicitly differs from the Kramasadbhāva re- garding the order. Similarly it is to his credit that we know that the Anandesvara-tantra comprised twelve thousand verses. According to Dwivedi it was possibly a tantra belonging to the Left Path." It advocated Tarpana (offering libations of water) with the aid of the thumb and the middle finger. The Bhutakṣobha and Pañcāmṛta were other two Agamas that followed the trail. The Anantavijaya was a tantra belonging to Siddhanta Saivism which Jayaratha considers extremely dissimilar. He falls back upon it because the matter under reference has not been treated in sister tantras. The Kulakramo- daya, perhaps a Kula tantra, was devoted to the discussion of the method of assignment in the body conceived as a spiritual seat. As one of the topics Jayaratha specifically mentions the part of the text that focussed on the issue.' Jayaratha's references to 
+
 त्वेन उक्ताः । T.A.V., III, p. 136; यतः श्रीक्रमसद्भावभट्टारके अनाख्यचक्रे सप्तदश पूज्यत्वेनोक्ता: ibid, III, p. 190; Also see ibid., III, pp. 166-7, 163, 173, 223. See K.T., pp. 233-235, for details. 
+
 1. T.A.V., III, pp. 161, 189; See Upodghata, p. 76 and K.T., pp. 143, 232 for details. 
+
 2. अन्यत्र पुनर्मध्यमाङ्गुष्ठयोगेनापि तर्पणमुक्तम् । तथा च द्वादशसाहस्रे श्री- मदानन्देश्वरे 
+
 T.A.V., IX, p. 139 
+
 3. Upodghāta, p. 20 
+
 45. भूतक्षोभेऽपि इति । श्रीपञ्चामृतेऽपि इति तथा 
+
 ... . 
+
 इति । T.A.V., IX, p. 140 6. इत्यपेक्षायां समान कल्पेऽपि शास्त्रे तदनुपलम्भात् अत्यन्तमसमानात् अनन्त- विजयाख्यात् सिद्धान्तशास्त्रात् "उत्तानं ह्येवम्" इत्याद्यपेक्षणीयम् । 
+
 Ibid., III, p. 280 
+
 7. श्री शैलाख्यं तु तत्पीठमित्यर्थः । तदुक्तं श्री कुलक्रमोदये- 
+
 श्रीशैले संस्थिता ब्राह्मी"...इत्यादि उपक्रम्य "पादाधारस्थिता ब्राह्मी" 
+
 इति । 
+
 Ibid, XI, p. 44 
+
 128 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 the Kulakriḍāvatāra are at par with those to the Śrikanthi for a proper grasp of esoteric items like Ovalli, Mudrā, Chummā, Pallī, Pitha and Ghara of the six competent teacher-princes etc. There are also necessary to understand the precise internal charac- ter of a preceptorial tradition, because these vary from preceptor to preceptor.' Jayaratha quotes this Agama on each of these topics. In addition, a sub- stantial number of innumerable references to the unidentified Agamas, which until independently dis- tinguished, must belong to Agamas of this period. 
+
 (iv) Source material provided by the known authors 
+
 The other segment of the source-material is pro- vided by the works of known authors. Among these Abhinavagupta occupies the place of glory. Besides references to his famous treatises like Isvarpratya- bhijñā-vimarsini, Tantrasara, Tantraloka, Annuttrā- stika and Paramarthasara, Jayaratha earns our grati- tude for his reference to the Kramakeli, Abhinava- gupta's celebrated commentary on the Kramastotra by Siddhanatha. The early history of Krama system would not be possible without the rich material provided by Jayaratha from this text. Jayaratha, apparently cites a long quote throwing enormous 
+
 1. तदुक्तं श्रीकुलक्रीडावतारे-- 
+
 तेषां मुद्राश्च छुम्माश्च पल्ली वल्लवस्तथा । 
+
 पीक्रमो घराश्चैव पित्रा विभजता तथा । 
+
 इत्युपक्रम्य "बोधिश्चामरपादानां कौलगियंता" इति । 
+
 T.A.V., XI (29th Ah.), pp. 28-29 
+
 A long citation of 24 sentences follows. 
+
 2. एवं क्रमकेलावपि एतद्गर्भीकारेण यदनेन ग्रन्थकृता व्याख्यातं तत्रापि 
+
 अन्यथा न किंचित्संभाव्यम् । 
+
 Ibid., III, p. 191 
+
 ABOUT THE COMMENTATOR 
+
 129 
+
 light on Krama system as it stood before Abhinava- gupta.' Jayaratha also refers to other little known. texts such as the Anupratyabhijñā." 
+
 3 
+
 (v) Post-Abhinavagupta tantric material: general Towards the post-Abhinavagupta period Jaya- ratha's references to Somaraja, Bhojarāja and his suspected work Kramakamala' are very important towards reconstruction of the history of Krama system. It is for the first time again that we hear of some Prasastibhutipada and Tapasviraja" in the pages of the Viveka. Similarly his mention of his great grandteacher Viśvadatta, his grandteacher' Tribhuvanadatta and teacher Kalyāṇa, as we have already noted in a different context, lend tremendous help towards capturing the evolution of monistic thought in Kashmir. His unnamed citations which are traceable to the Mahanayaprakāśa," published 
+
 8 
+
 1. T.A.V., III, p. 192. See K.T., pp. 83, 85, 90, 110, 128, 139, 144, 161, 163-64 and Upodghata, p. 30 for details. 
+
 2. अनुप्रत्यभिज्ञाकृताप्यनेनैवाभिप्रायेण 
+
 • 
+
 इत्याद्युक्तम् । 
+
 T.A.V., II, p. 73. 
+
 See K.T., p. 160 and Upodghata, p. 17. 
+
 3. T.A.V., III, p. 196 
+
 4. Ibid. 
+
 5. 
+
 अनेनैवाभिप्रायेण श्रीप्रशस्तिभूतिपादैरपि- 
+
 ये ये भावा ह्लादिन इह दृश्याः सुभगसुन्दराकृतयः । 
+
 तेषामनुभवकाले स्वस्थितिपरिपोषणं सतामर्चा ॥ इत्याद्युक्तम् ॥ 
+
 6. Ibid., I, p. 11 
+
 7. Ibid., III, p. 203 
+
 8. Ibid., p. 233 
+
 Ibid., II, p. 219 
+
 9. ननु अस्याः परस्याः संविदोऽन्यैरनयैव भङग्या त्रयोदशात्मकत्वमुक्तम्, 
+
 यदुक्तम् — “एक स्वरूपरूपं हि. 
+
 10. M.P. (T). 9.15-18 
+
 पूजनीयतया स्थिताः ।" इति 
+
 130 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 in Trivendrum Sanskrit Series and assigned to Sivä- nanda II by us,' offer unimpeachable evidence of direct North-South dialogue after Madhuraja Yogin, Abhinava's junior contemporary and author of the Gurunathaparāmarśa. 
+
 (a) JAYARATHA VS. KṢEMARĀJA 
+
 His treatment of Kṣemarāja, however, is by far the most remarkable event of this phase, which reflects his uncompromising fervour for a thoroughly scienti- fic study of the tantric material. Notwithstanding his innocuous references to the Pratyabhijñāhṛdaya2, he has virtually mounted an attack on Kṣemarāja when it comes to the precise handling of the agamic sources. It is here we find Jayaratha sincerely translating his abiding commitment of keeping the misguided and the confused at bay from the sacrosanct domain of the tantric studies. 
+
 The Svacchanda Tantra is one of the premier sour- ces of authority for the Tantraloka next in importance to the Malinivijayottara Tantra. Jayaratha, in his un- swerving desire to supply the root material for cor- rect understanding of the Tantraloka, profusely quotes (more than 300 times) the relevant portions from the SV.T. and in this process he frequently finds Kşemaraja's readings and organisation of the text as adopted in the latter's commentary "Uddyota" quite misleading. Luckily the text of the Kṣemarāja's commentary and the text as available to or adopted by him is available in print in KSTS (Vols. 31, 38, 44, 48, 51, 53, 56; pub. 1921-1935) and the same may be referred to for a handy appraisal. It also shows 
+
 1. K.T., pp. 202-203 2. T.A.V., II, p. 2021-2 
+
 ABOUT THE COMMENTATOR 
+
 131 
+
 that the agamic text was in a fluid state and a criti- cal edition of the same was attempted by Jayaratha and Kṣemaraja both. The size and number of re- gions (Purānāṁ Parimaṇam) in the eighth Ahnika, for example, is obviously based on the SV.T. Accord- ing to Jayaratha the T.A. 8. 132-138 specifically covers SV.T. 10. 431-464. Here Jayaratha reproduces ex- act verses from the SV.T. which correspond to the SV.T. 10.453-543 and 10.4324 in the printed edition and warns the student not to be duped by Kṣema- raja's readings". He accordingly settles down for Viṣāvarte and Pañcasat for Samvarta and Satãd. In the same context Jayaratha upholds Abhinavagupta's mention of Rūpavrata which is not found in Kṣ- ema's text at all. He digs at Kṣemarāja that the latter possibly has missed the relevant second half of the 
+
 1. विषावर्ते महावायौ विद्याधरगणाः स्मृताः । 
+
 दश विशच्च कोट्यस्ते दिव्याभरणभूषिताः । 
+
 2. 
+
 योजनानां शतादूर्ध्वं वायुरोधः प्रकीर्तितः । 
+
 4. योजनानां प्रकीर्तितः । 
+
 ..... 
+
 3. संवर्तेऽपि महावायी.. भूषिताः । 
+
 T.A.V., V., p. 102 
+
 Ibid., p. 103 SV.T,.V., p. 192 
+
 Ibid., p. 184 
+
 Here the readings adopted by Jayaratha and Kṣemaraja both are same. The editors give a variant in the fn. I (SV.T., V., p. 184) as 
+
 which seems to have been the reading, as available to Jayaratha, in Kşema's text. This gains strength in view of Kşema's commentary on the subsequent verse (SV.T. 
+
 10.433) and seems to have come in for criticism. 
+
 5. अत्र च संवर्तेऽपि महावायाविति उद्योतकारव्याख्यापाठान्न भ्रमणीयं यत्सं- वर्ते कथं विद्याधरा नोक्ता विषावर्ते तु उक्ता इति, अस्मत्तर्कित एव हि पाठः साधु- महाजनपरिगृहीतत्वात् । एवं “योजनानां शतादूर्ध्वं वायुरोधः प्रकीर्तितः" इत्यादा- वपि अस्मत्तर्कित एव पाठो ग्राह्यः अन्यथा हि "तस्मादूर्ध्वं तु तावद्भ्यः " (SV. T. 10.433) इत्यादौ तावदर्थस्तन्मतेऽपि न सङ्गतः स्यात् । T.A.V., V, pp. 102-103 
+
 6. ये च रूपव्रता लोका आवहे ते प्रतिष्ठिताः । 
+
 T.A. 10.137 
+
 132 
+
 INTRODUCTION TO THE TANTRALOKA 
+
 verse as quoted by Jayaratha and therefore we need not be confused by Kṣema's omission.' Jayaratha clearly implies that the correct text must have the additional half verse. Just on the contrary, Jaya- ratha does not have certain verses in the original text, though Kṣema has them. While commenting upon the Tantrāloka 8.73, Jayaratha quotes two verses in successions which correspond to the SV.T. 10.227 and 10.229 apparently omitting the Sv.T. 10.2284. In the aquatic category (Jala-tattva) Abhi- navagupta posits thirteen regions. Kṣemarāja's relative reading seems to have different implication unacceptable to Jayaratha. One may go deeper and 
+
 1. रूपव्रता इति रूपविडम्बकवद् रूपविधानं न तु वस्तुनिष्ठं वस्तु येषां तेन व्रत ( ता ) जीविन इत्यर्थः । तदुक्तं श्री स्वच्छन्दे- 
+
 "ये च रूपव्रता लोकास्तेषां तत्र समाश्रयः ।" इति । एतदर्थं च उद्योतकृता 
+
 T.A.V., V, p. 104 
+
 न दृष्टम् इति न भ्रमणीयम् । 
+
 2. कुरुवर्षस्योत्तरेऽथ वायव्येऽब्धी क्रमाच्छ्राः ॥ 
+
 दश चेति सहस्राणि दीपौ चन्द्रोऽथ भद्रकः ।। 
+
 3. अब्धौ इति अब्धिमध्ये । तदुक्तम् - 
+
 तस्य चोत्तरदिग्विभागे प्रविश्य लवणोदधिम् । योजनानां सहस्राणि चत्वार्येव वरानने ॥ एकाधिकानि विस्तीर्णं चन्द्रद्वीपं प्रकीर्तितम् । दशयोजनसाहस्रं द्वीपं भद्रं प्रकीर्तितम् ॥ 
+
 4. पञ्चयोजनसाहस्रं चन्द्रद्वीपं प्रकीर्तितम् । 
+
 तथा वायव्यदिग्विभागे प्रविश्य लवणोदधिम् । 
+
 Ibid, V, p. 57 
+
 Editorial footnote (ibid, V. p. 57) takes note of it. 
+
 5. आवीरभद्रभुवनाद्भद्रकाल्यालयात्तथा ॥ 
+
 वयोदशभिरन्यैश्च भुवनैरुपशोभितम् । 
+
 T.A. 8.199-200 
+
 6. उपशोभितमिति अर्थादप्तत्त्वम् एवंपाठ एव च आगम इति उद्योतकार- व्याख्यया न भ्रमितव्यम् । 
+
 T.A.V., V, p. 142 We have not made any effort to trace out the specific portion in the printed edition that being beyond our scope presently. 
+
 ABOUT THE COMMENTATOR 
+
 133 
+
 deeper. In Abhinavagupta's scheme of categories (Tattvayojana) everything other than Siva is to be deemed as bondage in nature and so all the nine powers from Vāmā to Manonmani in the re- gion of impure knowledge (Aśuddha-vidya) turn out to be binding in character. ' Jayaratha, as usual, traces the precise textual authority to back Abhi- navagupta's statement and also exploits the occasion to castigate Kṣemarāja. He not only has a different reading but finds Kşema's preference for male deitics to female ones as absurd, because those people are clumsy who talk of nine female powers instead of nine male deities simply because of textual reading." In the continuing context of categories Abhinava- gupta describes Sakti-category to be obscured by knowledge (Māna or Pramāṇa) and inhabited by the two Rudras namely Tejasvin and Dhruveśa.* According to Jayaratha, Abhinava has the sanction from the SV.T. and the Nandisikhatantra but dis- 
+
 2 
+
 1. पुरं चाशुद्धविद्यायां स्याच्छक्तिनवकोज्ज्वलम् । 
+
 मनोन्मन्यन्तगास्ताश्च वामाद्याः परिकीर्तिताः ॥ 
+
 2. 
+
 ता इति शक्तयः । तदुक्तम्- 
+
 वामा ज्येष्ठा च रौद्री च काली विकरणी तथा । 
+
 बलविकरणी चैव बलप्रमथनी तथा ।। 
+
 सर्वभूतदमनी च तथा चैव मनोन्मनी । 
+
 T.A. 8.297 
+
 (This corresponds to SV.T. 10.1145-46 where the last line reads differently-दमनी सर्वभूतानां तथा चैव मनोन्मनी। Vol. VB, p. 484 ) इति च । अत्र च स्त्रीपाठ एवं साधुर्महाजन परिगृहीतत्वात् । 
+
 T.A.V., V, p. 204 
+
 3. ये तु पूर्वमशुद्धविद्याया वामादयो नव देवा: स्त्रीलिङ्गपाठाद्वामाद्या वा नव शक्तय उक्ताः । ते एतदंशावताररूपाः स्थूला बोद्धव्याः । 
+
 SV.T.U. Vol. VB, p. 485 
+
 4. शक्त्यावृतिः प्रमाणाख्या ततः शास्त्रे निरूपिता । 
+
 शक्त्यावृतेस्तु तेजस्विध्रुवेशाभ्यामलङ्कृतम् ॥ 
+
 " 
+
 T.A. 8.359 
+
 134 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 agrees with Kṣemaraja's reading which places Pra- māṇa's obscurity just above Śakti and not at par.1 According to Abhinavagupta the region called Sādā- khya is the proper abode of Sadasiva and is covered or obscured by Śiva alone, while Kṣemarāja assigns Sadasiva-region just above Isvara and just below Sadasiva. Jayaratha charges Kṣemarāja with tam- pering with the original SV.T. by imaginary inter- polation of an half-verse which has been disregarded by the learned. Even if this addition be deemed to be genuine, argues Jayaratha, it does not vindicate Ksema's contention. It supports Abhinavagupta's stand instead, because the abode and the resident have the same level of subsistence. It is only on such a construction that the Nandiśikhatantra, too, may yield a consistent meaning. One, therefore, must guard himself against the misguiding interpretation offered by Kṣemarāja. It is indeed premature to 
+
 1. तत्र शक्त्यावृतौ रुद्रद्वयम् । तदुक्तम् --- 
+
 'तेजस्वीशो ध्रुवेशश्च प्रमाणानां परं पदम् ।' '' 
+
 (Corresponding to the SV. T. 10.1174) इति । शक्त्यावरणमूर्ध्वं चेति प्रमाणावरणं चोर्ध्वमित्युद्योतकारदृष्टः पाठ: पुनरसाधुर्महाजनैरपरिगृही- तत्वात् । श्रीतन्दिशिखायामपि- 
+
 'तेजेश्वरो ध्रुवेशश्च शक्त्यावरणसंस्थितौ ।' इत्यादिरास्माक एव पाठः । T.A.V., V, pp. 240-41 
+
 2. भुवनैः पञ्चभिर्गर्भी कृतानन्तसमावृति । 
+
 सामयात्सौशिवं तव सादाख्यं भुवनं महत् ॥ 
+
 T.A. 8.365 
+
 3. "सादाख्यं भुवनम्” इति सदाशिवभट्टारकस्य साक्षादधिष्ठानस्थान- मित्यर्थः अतएव महदित्युक्तम् । उद्योतकृता पुनः "ईश्वरस्य तथोर्ध्वे तु अधश्चैव दाशिवात् " (SVT. 10.1190) इत्यर्ध परिकल्प्य इतः प्रभृति सादाशिवं तत्त्वमिति यदुक्तं तदयुक्तम् अस्य अर्धस्य महाजनैरगृहीतत्वात् । अतएव च एवमपि "ऊर्ध्व" इति पुनरुक्तम्, "अधश्चैव सदाशिवात्" इत्यप्यसंगतं तत्रैव तस्योक्तत्वात्; अपरिकल्पितत्त्वेऽपि एतदित्थं यथाकथञ्चिदव्याख्येयं यदीश्वरस्येति रुद्रोङ्कारस्य, सदाशिवादिति अधिष्ठातुः, अधिष्ठेयं हि अधिष्ठातुरध एव भवेदिति । यत्तु श्रीनन्दि- 
+
 ABOUT THE COMMENTATOR 
+
 135 
+
 suspect whether Kṣemaraja and Jayaratha belonged to different preceptorial traditions or Jayaratha nur- sed some grouse against his senior Kṣemarāja in order to wrest the place of honour from him among the post-Abhinavan scholarship, yet what surprises the modern reader most is Jayaratha's going to the extreme of charging Kşema with deliberate distor- tions. As another instance of such aberrations Jaya- ratha, while explaining Abhinavagupta's views on the purification of deed (Karmasodhana) in respect of the spiritual apprentice called Śivadharmi1, invokes the authority of the SV.T. and propounds that once the process of fruition has commenced in respect of one particular deed it cannot be reversed so far as that deed is concerned. On the contrary, Kṣemarāja who talks of purifying even that deed which has commenced fruition is taken to task for tampering with the text, for going against the previous pro- nouncements and also for transgressing the scrip- tural injunctions." Jayaratha finds no end to it on 
+
 शिखायाम् "कथितं त्वैश्वरं तत्त्वमत ऊर्ध्वं सदाशिवः" इति तत्र साक्षात्स्थित इति । अन्यथा हि उभयत्रापि ईश्वरतत्त्वोपसंहारग्रन्थस्य व्याघातः स्थात, तन्महाजनक्षुण्ण एव मार्गोऽनुगन्तव्यः इति उद्योतकारव्याख्यथा न भ्रमितव्यमित्यलं बहुना । 
+
 T.A.V., V, pp. 243-44 
+
 1. साधकस्य तु भूत्यर्थमित्थमेव विशोधयेत् । 
+
 शिवधर्मण्यसौ दीक्षा लोकधर्मापहारिणी । 
+
 T.A. 15.28 
+
 2. भूत्यर्थाद्यत्प्राग्देहारम्भि शुभाशुभं तत एकमशुभमेवास्य शोधयेत् एवं हि निर्विघ्नं भोगसिद्धिर्भवति । 
+
 3. यदुक्तम् -- 
+
 साधकस्य तु भूत्यर्थं प्राक्कर्मेत्थं तु शोधयेत् । 
+
 SV.T.U., Vol. II, p. 88 
+
 प्राक्कर्मगामि चैकस्थं भावयित्वा तु दीक्षयेत् ॥ (Corresponding to the SV.T. 4.142 which reads the first line as साधकस्य तु भूत्यर्थं प्राक्कर्मैकं तु शोधयेत् ) इति । अत्र च उद्योतकृता यत् इत्थमिति अपास्य एकमिति 
+
 136 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 Kṣemaraja's part. In the course of Abhinava's dis- cussion on Śivahastavidhi' a spiritual apprentice is said to be transformed into a Samayin by his teacher's recourse to this method leading to a kind of intimate union (Sayujya) in Isvara category. Jayaratha finds fault with Kṣema's interpretation of the word Isvare as Kālāgnirudra existing below the category of earth and dubs it as lacking in scriptural testimony." 
+
 (vi) Restoring tradition: fathoming inter se 
+
 relationship among Agamas 
+
 Jayaratha's critical zeal does not pause here. His abiding concern is to restore the real tradition. For this he checks up, over and above the already dis- cussed functions, inter se relationship between the Āgamas, substantiates arguments, peeps into the background to rationalize the item under consider- ation, underlines latent possibilities and may even advance suggestion for a proper appraisal. While discussing the variety of dissolution (Samharavaici- trya) in the sixth Ahnika he endorses Abhinava's view that Samana represents Pralaya stage and is identical with Sadasiva stage where the universe continues to exist in residual form. In this context 
+
 पठित्वा देहारम्भिशुभाशुभकर्ममध्यादेकमशुभमपि अस्य शोधयेदिति व्याख्यातं तदु- पेक्ष्यम् आरब्धकार्य देहारम्भिकर्मोच्छेदाशक्यत्वस्य प्रागुपपादितत्वात् क्वचिदप्येव- T.A.V., IX, p. 19 
+
 मनाम्नातत्वाच्च । 
+
 1. उक्तं दीक्षोत्तरे चैतज्ज्वालासंपातशोभिना || दत्तेन शिवहस्तेन समयी स विधीयते । 
+
 सायुज्यमीश्वरे तत्त्वे जीवतोऽधीतियोग्यता ॥ 
+
 T.A. 15.458-59 
+
 2. ईश्वरे इति श्रीविद्यातत्त्वोर्ध्ववर्तिनि न तु पृथिवीतत्त्वाधः स्थिते काला- ग्निरुद्रे तथाश्रुतेरदर्शनात् । अत्र च उद्योगकृदेव कृतश्रम इति किमिह तेन उक्तेन तत 
+
 एव अवधार्यम् । 
+
 T.A.V., IX, p. 231 
+
 ABOUT THE COMMENTATOR 
+
 137 
+
 he quotes the views of a sub-group who thought Pralaya stage as being one with Siva stage.' He cri- ticises the view, reasons out his position and con- cludes that even when Samana is taken to be eternal, it does not dilute monism. Similarly he provides relevant contextual framework. While commenting upon the Tantrāloka 8.290 he notes that though the five gross elements succeed triple egoity in the SV.T., Abhinavagupta is discussing them as part of the sixteen modifications which lead to bondage. Any tantric system worth the name must discard the caste system. Hence the references to caste, according to Jayaratha's rationalization, must be construed as referring to the non-initiates or to the faithful of the lower grades. Moreover, Jayaratha provides a rich source of cultural information. It appears Dinars had come in vogue as a legal tender of currency in his time." It is from him that we learn that several varieties of wine were prevalent in his time and why they were distinguished. For instance Madya was produced 
+
 1. अतएव चान्यैरस्मच्छास्त्रप्रक्रियामजानानैः 'शक्त्यन्तं महाप्रलये वृत्ते सकलो- यमवर्गः प्रलयान्त ऊर्ध्वोर्ध्वमवस्थितेरभिधानात् परिशिष्टं शिवतत्त्वमेवा- सादयेत् । तदासादनमेव च मुक्तिः, तदक्रमेण सर्वेषामनायासमेव सा सिव्येदिति कि शास्त्रानुष्ठानादिना' इत्यादि यच्चोदितं तदुत्यानोपहतमेव । 
+
 T.A.V., IV, p. 142 
+
 2. न चैवमपि शंभुवत्समनाया अपि नित्यत्वादभेदवादक्षतिर्भेदमेवाधिकृत्य सृष्टिप्रलयादिव्यवहारस्योत्थानात् । 
+
 Ibid., p. 143 
+
 3. एतच्च यद्यपि श्री स्वच्छन्दे विविधादहंकारादनन्तरमुक्तं तथापि इह विकार- षोडश साजात्येनैव व्याख्यातम् । 
+
 Ibid., V, p. 199 4. इत्याद्युक्तं तददीक्षितविषयम्, किन्तु पूर्वत्र अस्मदुक्ताचतर्पणश्रद्धालुविष- यत्वमधिकमन्यथा जातिभेदो दुर्वचः स्यात् । Ibid., IX, p. 12 ( 29th āh) 
+
 5. हन्यते टंक्यते दीनार इव राजाभिधानं शास्त्रार्थो यस्मिन्स तथा । 
+
 A 
+
 Ibid., I, p. 150 
+
 138 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 from grapes, 
+
 Sidhu from sugarcane and Surā from Vibhitaka (Latin, Terminalia Belerica) and then he goes on talking about such varieties of wine as Vāruņi, Madirā, kādambari, Ghanasura and jagala 
+
 etc.1 
+
 (e) AN EXCLUSIVE GUIDE TO THE TANTRĀLOKA 
+
 (i) Sevenfold assistance 
+
 Jayaratha's contribution to the understanding of the Tantraloka is invaluable and indispensable. To begin with, Jayaratha provides connotative titles to all the Ahnikas. Though in most cases they reflect the clue provided by Abhinavagupta during the body of the text, it is he who offers captions. We shall dis- cuss this aspect at the appropriate occasion. In the second place he clearly demarcates the precise tex- tual portions dealing with general and ancillary to- pics, designated as Purvaja-and Anuja-uddeśas by Abhinavagupta. We shall look into it in the course of our discussion on the arrangement and organi- sation of the Tantraloka. In the third place, he ac- quaints us with the background view. For example he points out, notwithstanding Abhinava's silence, that in the ninth Ahnika his master wanted to criti- cise Tattva (category)-doctrine of the Bhogaka- rikā etc. (dualistic Saivism)". He not only leaves us at that but follows it up with the intermittent criti- 
+
 1. मद्यशीधुसुरादिनेति मद्यं मृद्वीकादिप्रभवमनेकप्रकारं मद्यादिशब्दव्यप- देश्यं, शीधुरैक्षवः, सुरा विभीतकादिकृता, आदिशब्दात् तत्प्रकाराणां वारुण्यादीनां परिग्रहः । 
+
 T.A.V., IX, p. 39 
+
 2. तत्त्रोच्यते पुरोद्देशः पूर्वानुजभेदवान् । 
+
 T.A. 1.278 
+
 3. सम्यगिति अनेनात्र भोगकारिकादिभ्यो वैलक्षण्यं कटाक्षितमिति । 
+
 T.A.V., VI, p. 250 
+
 ABOUT THE COMMENTATOR 
+
 139 
+
 cism of Sankaranandana, Sadyojyoti, Devabala and Vaiseşikas1. Similarly he suggests that main target in the tenth Ahnika was to point out discrepancies in Nyaya and Bhāṭṭa Mimāmsā schools, though Abhinavagupta himself is once again silent on this point. In the fourth place, he fills in the omissions of Abhinavagupta. In the twentyeighth Ahnika, Abhinavagupta talks of 23 types of occasional func- tions (Naimittikavidhi). Jayaratha feels that a particular 'occasional' (Naimittika) called Śivarātri is also included in the quartet beginning with Vipat- pratikāra (T.A. 28.7), the reason behind omission being the universal treatment of this item in practi- cally all the scriptures. Similarly in Dutiyaga Abhi- navagupta talks of six varieties of Dutis e.g. consis- ting of Janyā, Janikā and Sahajā in twofold relation- ships-physical and cognitive, and invokes the autho- rity of the Sarvācāratantra. In a significant remark Jayaratha adds that there are several sub-varieties such as Vegavati, Samhāri, Trailokyakṣobhiņi etc., 
+
 6 
+
 1. शंकरनन्दन सद्योज्योतिर्देववलकणभुगादिमतम् । 
+
 प्रत्याख्यास्यन्नवमं व्याचख्यावाह्निकं जयरथाख्यः ॥ T.A. V. VI, p. 250 2. कौमारिलनैयायिकमतविमतिसतत्त्वविज्जयरथाख्यः । 
+
 अख्यापयदतिविशदां दशमाह्निके विवृतिरीतिमिमाम् ॥ 
+
 3. इत्येष दर्शितोऽस्माभिस्तत्त्वाध्वा विस्तरादथ । 
+
 4. T.A. 28.6-9 
+
 Ibid., VII, p. 208 
+
 T.A. 10th Ah., concluding verse 
+
 5. अनेन च विपत्प्रतीकारादिना चतुष्टयेन शिवरात्रिसंज्ञकमपि नैमित्तिकं संगृहीतम् । तत्र हि एतदेव भगवतोऽभवदित्याम्नायः । तच्च साधारण्येनैव सर्व- शास्त्रेषु आम्नातमिति नेह स्वकण्ठेनोक्तम् । 
+
 6. 
+
 श्रीसर्वाचारहृदये तदेतदुपसंहृतम् । 
+
 षडेता शक्तयः प्रोक्ता भुक्तिमुक्तिफलप्रदाः ॥ 
+
 T.A.V., XI, p. 6 
+
 T.A. 29.103 
+
 140 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 but a reference to the same has been avoided' for fear of endless recounting. In the fifth place, he allows us a peep into Abhinavagupta's own preferences and presuppositions. The case of Rudrakāli offers a good example. Rudrakāli, which marks the sev- enth stage in cyclic progression of consciousness in Anākhyācakra, has been equally named as Bhadra- kāli by the texts like Pañcaśatika etc., without any semantic distinction. Abhinavagupta, however, pre- fers the title Rudrakali-this piece of intimation we gather from Jayaratha". In the sixth place, one has to depend upon Jayaratha for a clear understanding of the esoteric implications of Abhinavagupta's treat- ment. For example, the textual portion dealing with the notion of virility of Mantra (Mantravirya)3 ap- parently has no esoteric semblances, yet Jayaratha finds that the first three verses deal with Parābija (the ultimate seed) and the subsequent three with five Pindanāthas. Similarly Abhinavagupta's des- cription of the six-fold movement of breath from the point of view of pervasion (Vyapti) is necessarily 
+
 तम् । 
+
 1. “ वेगवत्यथ संहारी वैलोक्यक्षोभणी तथा । 
+
 अर्धवीरासना चैव वक्त्रकोला तु पञ्चमी ॥ " 
+
 इत्यादि तु अवान्तरभेदप्रायं प्रत्येकं सम्भवदपि आनन्त्यादिह न परिगणि- 
+
 तु 
+
 T.A.V., XI, p. 74 ( 29th Ah.) 
+
 2. इति पञ्चशतिकादौ पुनरियं भद्रकाली इत्युक्ता, 
+
 इति नाम्नि भेदेऽपि वस्तुनि न कश्चिद्भेदो । 
+
 ... 
+
 . एवं चात्र प्रमाणरूप- 
+
 त्वेऽपि तत्तदर्थसंहारकारिणः प्रमातुरेव प्राधान्यं येन ग्रन्थकृतो रुद्रशब्दे भरः । 
+
 3. T.A. 4.186-191 
+
 Ibid., III, pp. 173-74 
+
 4. एवं संवित्क्रमेण श्रीपराबीजस्योदयमभिधाय एतत्समानस्कन्धताभिधि- 
+
 त्सया श्रीपिण्डनाथस्यापि उदयमभिधत्ते । 
+
 T.A.V., IV, p. 220 
+
 5. षट् प्राणोच्चारजं रूपमथ व्याप्त्या तदुच्यते । 
+
 T.A. 5.54ABOUT THE COMMENTATOR 
+
 141 
+
 from that of Mantravyapti.' As we have discussed in a different context earlier, Abhinavagupta's eso- tericism and symbolism is not at all understandable without Jayaratha's wholistic approach. The nature of Karanas which is spread over from 11th to 32nd Ahnikas as per declaration of Abhinavagupta himself is made known by Jayaratha alone by locating exact references. Thus the Karana of intelligence is dealt with in the eleventh (T.A. 11.21), of Vyapti in the fifteenth (T.A. 15.339), of knower- known combine in the sixteenth (T.A. 16.253), of imposition as well as that of rejection in the twenty- ninth (T.A. 29.147/182) and of absorption in the thirtysecond Ahnika (T.A. 32.10 onwards) by way of discussion on postures. No doubt Jayaratha is aware of the limit to which he may go. With regard to the filling of Arghapatra he advises one to learn. it from the mouth of a teacher, he has not touched it lest it might violate his school's code. But all the same he does not withhold any information he has. The word Diptaiḥ in depicting the nature of Mantra was open to two types of meaning and he 
+
 1 
+
 5 
+
 1. इदानीमेतदेव मन्त्रव्याप्तिमुखेनाप्यभिधीयते इत्याह अथ इत्यादि । 
+
 T.A.V., III, pp. 357-58 
+
 2. गुरुवक्त्राच्च बोद्धव्यं करणं यद्यपि स्फुटम् ॥ तथाप्यागमरक्षार्थं तदग्रे वर्णयिष्यते । 
+
 T.A. 5.130-31 
+
 3. Jayarathahere indicates the Ahnika and not the exact verses. The insertion within bracket is ours. 
+
 तत्त मुद्रा- 
+
 T.A.V., III, pp. 442-43 
+
 4. तथाहि इत्यादिना षोडशाह्निकेइत्यादिना स्वरूपनिरूपण द्वारेण द्वाद्वतिशाह्निके संनिवेशस्य स्वरूपं वक्ष्यति इति तत एवैतत्सतत्त्वं स्वयमेव अवधारणीयम् । 
+
 5. यrच अन एतत्पूरणे सम्प्रदायः स रहस्यत्वात् समयभङ्गभयाच्च न इह अस्माभिः प्रदर्शित इति । एतद्गुरुमुखादेव बोद्धव्यम् । T.A.V., XI, p. 19 
+
 6. यरवलबी जैस्तु दीप्तैर्विन्दुविभूषितं । 
+
 T.A. 30.16 
+
 142 
+
 INTRODUCTION TO THE TANTRĀLOK A 
+
 gives both. And in the case of divergent opinions about a thing, particularly if the authority of the Sripurvaśästra was not readily handy on such eso- teric issues as Ekaviravidhāna,' he finally airs the view acceptable to him." In the seventh place, Jaya- ratha brings out the inherent argument of Abhi- navagupta-not only the substance but the form as well. Sometimes he builds up on the syllogistic form latent in Abhinavagupta's discussion and pre- sents the whole of it." 
+
 (ii) Discharge of twin editrial obligations 
+
 The greatest contribution of Jayaratha, however, lies in his role as the editor of the text of the Tan- trāloka. His handling of the Tantraloka's text is the logical extension of his approach to the handling of the tantric source material. It has two phases. One, when he subjects the text of the Tantraloka to rigorous criticism and undertakes to produce the standard version and two, when he critically looks into the arrangement and order of the verses in order to put a well organised text. Since we have already seen something of this in a different context, our job has become easier requiring a few samples. Jaya- 
+
 1. दीप्तैरिति प्रकारादीनामकारादीनां हस्वानामाग्नेयस्वभावत्वात् तेजो- मयैरिति प्राच्याः, सरेफैरिति श्रीमल्लक्ष्मण गुप्तपादाः । T.A.V., XII, p. 184 
+
 2. अन्येप्येकाक्षरा ये तु एकवीरविधानतः । 
+
 T.A. 30.24 
+
 गुप्ता गुप्तरास्ते अंगाभिजनवर्जिताः ॥ 3. अत च शिखायां कवचबीजमिति श्रीतिशिरोभैरवानुयायिनः, चतुष्कलमिति श्रीदेव्यायामलोपजीविनः अस्मद्गुरवस्तु द्वितीयमेव पक्षमामनन्ति । 
+
 T.A.V., XII, p. 198 
+
 4. अत्र पञ्चावयवं परार्थमनुमानं निर्दिष्टं तद्यथा... 
+
 5. नास्तीति काकाक्षिवद्योज्यम् - तेनायमत्र प्रयोगः 
+
 Ibid., VI, p. 119 
+
 Ibid, p. 125 
+
 ABOUT THE COMMENTATOR 
+
 143 
+
 ratha prefers the reading Vyomãdisabda' in place of an equally good reading, i.e. Vyomadiṣatka. Even when he retains a particular reading3, as all the MSS available support it, he suggests a better reading." In Jayaratha's original copy of the Tantraloka the verse 3.220' possibly reads Matra (kundalinibijam) which has been rectified as Sātra ( - kundalini bijam) because such type of reading is not only non-agamic but even otherwise conveys incoherent meaning and involves improper diction. One may hold with re- asonable confidence that there were certain uncer- tainties about the text of the Tantraloka during the time of Jayaratha. It is why he sometimes suggests equally good alternative readings. Thus the printed text e.g., 
+
 शिवदह्नकिरणजालैदाह्यत्वात् सा यतोऽन्यरूपैव 
+
 may also be read as- 
+
 विज्ञानामृतसरिता प्लाव्यत्वात् सा यतोऽन्यरूपैव 
+
 (T.A. 9.207) 
+
 To lend authenticity to his suggestions he cites the authority of the relative scripture (here Śivatanu- Sāstra). The Tantrāloka's actual text was often a 
+
 1. व्योमादिशब्दविज्ञानात् परो मोक्षो न संशयः । 2. व्योमादिषट्क इति पाठे तु इति व्याख्येयम् । 
+
 3. In भैरव इति गुरुभिरिमैः । 
+
 ... 
+
 T.A. 1.64 
+
 T.A.V., I, p. 103 
+
 T.A. 1.100 
+
 4. इमैः इति चिन्त्यम् । गुरुगदितैरिति तु श्रेष्ठः पाठः । T.A. V., I, p. 143 
+
 5. 
+
 सात कुण्डलिनी बीजं जीवभूता चिदात्मिका । 
+
 T.A. 3.220 
+
 6. मावेत्यपपाठ: न ह्यनेन कश्चिदप्यागमिकोऽर्थः संग्राह्यो वर्तते यदर्थो- ऽयमेतत्प्रयोगः, प्रत्युत असंगतार्थत्वमसाधुशब्दत्वं च प्रसज्यते । 
+
 T.A.V., II, pp. 20-87 
+
 7. यद्वा विज्ञानामृतसरिता प्लाव्यत्वादिति पाठो ग्राह्यः । तदुक्तं तत्र 
+
 ( शिवतनुशास्त्रे ) 
+
 - 
+
 विज्ञान मृतसरिता शिवशशिनः स्यन्दमानयामलया । प्रप्लाव्य यतस्तेभ्यो निरस्यतेऽधस्ततः सान्या ॥ इति । 
+
 Ibid., VI, p. 167 
+
 144 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 matter of doubt. Jayaratha did finalise his own ver- sion wherein he piled up several corrected readings. Displaying a rare scientific attitude he furnishes evi- dence behind his choice even at the slightest doubt. Thus the reading adopted by him in the T.A. 13.3551 was not due to his whim, he himself saw it in the old manuscripts not once or twice, but hundred times over. Similarly the text of the SV.T. (4.142), cor- responding to the T.A. 15.28, has slightly different reading in the version of Kşemarāja, target of bitter attack from Jayaratha for deliberate distortions. Jayaratha prefers to ignore the text of Kṣemarāja and preserves the original reading for the sake of propriety having culled support from Abhinava- gupta's statement in the Mrgendra. Even when the available reading is not defective, he assiduously gropes for a better reading. In the Tantraloka 15.80* he finds the word 'Yad' somewhat vague and pro- poses 'Tha' as a relatively lucid reading. Jayaratha's critical editing of the Tantraloka and his handling of the source texts has to be viewed together in a larger perspective so as to be able to evaluate his concerted effort towards keeping the text of the Tantrāloka free from imagination, interpolation and alien material and preserving its faithfulness to the original source literature. 
+
 1. जुगुप्सते तत्तस्मिंश्च विफलेऽन्यत्समाश्रयेत् । 
+
 दिनाद्दिनं ह्रसंस्त्वेवं पच्यते रौरवादिषु ।। 2. एवंपाठश्च जरत्पुस्तकेषु शतशो दृष्टः । 
+
 3. अतएव श्रीमृगेन्द्रायामपि 
+
 ra अस्माभिरयं पाठो रक्षितः । 
+
 4. 
+
 5 
+
 T.A. 13.355 
+
 T.A.V., VIII, p. 211 
+
 इत्यादि उक्तं ग्रन्थकृता । श्रचित्याच्च 
+
 पर्वताग्रनदीतीरै कलिङ्गादि यदुच्यते । 
+
 Ibid., IX, p. 19 
+
 5. यदीति (? यदिति ) स्थाने इहेति स्पष्टः पाठः । T.A. V., IX, p. 44 
+
 ABOUT THE COMMENTATOR 
+
 145 
+
 His second editorial function relates to the organi- sation of the text. For example, the verse 'Jñana- hino' etc.,' (now numbered as T.A. 23.25 in the printed edition) was wrongly placed by certain scribes after the verse “Annadidāna” etc. (Ist half of the verse numbered as T.A. 23.23 in the printed edition) which is restored to its regular place by Jayaratha. It appears that Jayaratha is guided by the model hand- script on the basis of which he prepared his version of the Tantraloka. But even in his basic handscript there are certain places which have attracted edi- torial whetting. The verses as given in the footnote below appear twice in the body of the text as T.A. 37.4-5 and T.A. 37.11-13 (2nd half to 1st half ). Though Jayaratha retains the double mention, he clearly advises its precise placement and also rever- ses the order, besides offering tips for better read- ing. We come across a similar instance when he suggests that the first half of the T.A. 31.42 in all 
+
 1. ज्ञानहीनो गुरुः कर्मी स्वाधिकारं समये नो । 
+
 2. 
+
 दीक्षाद्यधिकृति कुर्याद् विना तस्याज्ञया पुनः ॥ अन्नादिदानमित्येतत्पालयेत्सप्तसत्तकम् । 
+
 3. That is, T.A. 23. 25. See अयं च श्लोकः क्वचित् " पालयेत्सप्त- सनकम्" इत्यनन्तरं भ्रमात् लेखकैलिखित इति तदुपेक्ष्यम् । T.A. V. X, p. 272 
+
 4. यथा खगेश्वरी भावनिः शङ्कत्वाद्विषं व्रजेत् । 
+
 क्षयं कर्मस्थितिस्तद्वदशङ्काभैरवत्वतः ॥ यदार्षे पातहेतूक्तं तदस्मिन्वामशासने । आशुसिध्यै यतः सर्वमार्षं मायोदरस्थितम् ।। 
+
 5. अव च अन्तरा श्लोकद्वयमन्यथा लिखितमधरे व्यत्ययेन न्याय्यमिति तत्रैव 
+
 व्याख्यास्यामः । 
+
 6. पातहेतुक्तमिति 
+
 ..... 
+
 T.A.V., XII, p. 393 पातकार्युक्तमिति तु स्पष्टः पाठः । 
+
 Ibid. p. 395 
+
 7. शूलंयागाः षट् सहस्त्राण्येवं सार्धंशतद्वयम् । 
+
 146 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 propriety be placed before the T.A. 31.39 for ensur- ing coherent construction.1 Such instances bring his conscientious and ever vigilant self into bold relief. This, however, does not mean that he never suc- cumbs to general weaknesses of the scholars. He does, but very rarely. We find a glimpse of such a lapse in his interpretation of the word 'Anta" forming part of the compound in the T.A. 22.12. Here the use of the words 'Adi' and 'Anta' in the text obviously limits the options, but Jayaratha looks for an implied meaning convenient to him. But such far-fetched interpretations are very few and far between and in no way undermine his importance. 
+
 (III) Methodology 
+
 (a) GUIDING PRINCIPLES 
+
 (i) Conformity to Abhinava, teacher and scripture Coming to the methodology employed and norms of writing adhered to by Jayaratha we notice that his first guiding principle in taking up an item is its absolute conformity which means it must conform in the first place to the stand of Abhinava-the ori- ginal author, in the second to the preceptorial stand and in the third to the scriptural view. All the three together, not severally, spell out his idea of adher- ence to the tradition. While discussing the notion of Karana (T.A. 5.130) he abstains from giving out everything at one place and in so doing leans on 
+
 1. प्रायश्च अयं श्लोकः 'ततो रजांसि देयानि ...... 
+
 पूर्व न्याय्यो येन सर्वं सङ्गतं स्यात् । 
+
 2. अन्तः सिद्धान्तः । उक्तं हि प्राक् 3. अथ वैष्णवबौद्धादितन्त्रान्ताधरवर्तिनाम् । 
+
 . (T.A. 31.39 ) इत्यतः 
+
 T.A.V., XII p. 247 
+
 Ibid., X, p. 249 
+
 ABOUT THE COMMENTATOR 
+
 147 
+
 Abhinavagupta's authority. Similarly, in final selec- tion out of several options it is the preceptorial injunction that must prevail. Moreover, he never ventures to rely on his imagination and propound a thing unless it is expressly enjoined in the Agamas.3 One of the reasons for rejecting the Uddyotakara's interpretation was his lack of scriptural endorse- ment. Same is the case with those who propound a different reading from one picked up by him." To him the teaming up of all the three authorities, speci- ally teacher and scripture, is very sacred. Hence, he rejects the alternative readings and resulting explan- ations since they digress from the authority of the scriptural text and the teacher." 
+
 (ii) Thoroughness and authenticity; and (iii) Absence of fascination for word-by-word comentary: eight key factors 
+
 Thoroughness and authenticity, thus, are the twin criteria that he ardently pursues but they do not come in the way of his concise and systematic presen- tation. That is why he never revels in word-by-word explanation. His staying away, however, from the 
+
 1. तदस्माकमपि एवं व्याख्याने श्रीमदभिनवगुप्तपादा एवं प्रमाणम् इति नात विद्वद्भिरस्मभ्यमसूयितव्यम् । 
+
 T.A.V., III, p. 443 2. इत्येकतरपरिग्रहे यथास्वं गुरूपदेश एव निबन्धनम् । Ibid., p. 203 
+
 न चैतदस्माभिः स्वोत्प्रेक्षितमुक्तमिति साक्षादागम एव पठितः । 
+
 3. 
+
 4. 
+
 Ibid., IV, p. 10 
+
 अन च उद्योतकृता यत् व्याख्यातम् तदुपेक्ष्यम् क्वचिदपि 
+
 एवम् अनाम्नातत्वाच्च । 
+
 .... 
+
 5. इत्यत्र च तृतीयां चतुर्थी वेति पाठो भवेत् 
+
 शून्यैः सह संलापेन । 
+
 6. अतश्च 
+
 आर्ष पाठपरित्यागः 
+
 .... 
+
 इति पठित्वा 
+
 .... 
+
 Ibid., IX, p. 19 
+
 इत्यलं गुर्वागमसंप्रदाय- 
+
 चेत्याद्यभिधाय .. 
+
 Ibid., pp. 162-63 व्याख्यायाम् 
+
 .... 
+
 श्रीमदगुरुव्याख्यातिक्रमाश्चेति दोषाः । 
+
 Ibid., X, pp. 91-92 
+
 F 
+
 148 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 verbatim commentary is not arbitrary. He is guided. by certain norms which he has set for himself. (i) Obvious clarity, (ii) future treatment, (iii) overde- tailed discussions are some of the considerations that prevent him from embarking upon word-by-word commentary.' (iv) Fear of unnecessary repetition is another factor which he is very much scared of." If the item is of esoteric importance, frequent repe- tion might cause leakage, or if it is of general impor- tance and has been occasionally discussed, too much repetion will amount to wastage of effort. To the list of his norms he adds two more (v) relevance or utility and (vi) propriety, which constitute the hall- mark of his style characterised by his disdain for (vii) far-fetched imagination and (viii) breach of tra- dition. Undue extension of the text and irrelevance, however, are the twin factors that frighten him most. He refrains from gathering all the possible inter- pretations because of these two factors. The same consideration does not allow him to enumerate all the aspects associated with each movement of breath (Cara) or the total number of days associated 1. इत्येतदस्माभिः स्पष्टत्वात्, ग्रन्थविस्तरभयात्, अग्रे च निर्णेष्यमाणत्वात् न प्रातिपद्येन व्याख्यातम् । 
+
 T.A.V., I, pp. 299-300 
+
 2. अत्रामृतबीजाद्युद्धारः प्राग्व्याख्ययैव गतार्थः इत्यतिरहस्यत्वात् नेह पुन- रायस्तम् । 
+
 Ibid., III, p. 371 
+
 3. 
+
 एतच्च पूर्वमेव बहूक्तम् इतीह न पुनरायस्तम् ॥ 
+
 X 
+
 X 
+
 X 
+
 Ibid., II, p. 65 
+
 X 
+
 एतच्च सर्वमसकृत्त्वेनैव व्याख्यातम् इति न पुनरायस्तम् । 
+
 Ibid., I, p. 33 अत्र च संभवन्त्यपि व्याख्यान्तराणि न कृतानि, ग्रन्थगौरवभयाच्च प्रकृता- नुपयोगाच्च । 
+
 Ibid., p. 15 4. अस्माभिरप्यत गणना विभज्य न दर्शिता ग्रन्थविस्तरभयादनुपयोगाच्च । 
+
 Ibid., IV, p. 10 
+
 ABOUT THE COMMENTATOR 
+
 149 
+
 with the residents of the five sheaths.1 Even when he is dwelling upon certain source text, he only picks up the relevant material from here and there insted of reproducing the whole text. The idea behind the whole exercise is that the quoted text must be rele- vant to the issue under discussion, and at the same time should not make the work bulkier. 
+
 3 
+
 (iv) Fear of undue extension and deviation from 
+
 the original line 
+
 The notion of relevance is intertwined with the notion of propriety. Relevance minus propriety does not sound convincing. He, therefore, derives stre- ngth from his concern for propriety while he sticks to relevance. At one place, he openly admits it. 4 He remains faithful to this principle throughout and does not counter all the anomalies even when he notices them in the available account of a tradi- tion. One should not, therefore, consider it a defect if Jayaratha does not explain or cite every word of the text. In such an approach, as mentioned earlier, 
+
 1. तत्सर्वेषां कञ्चुकवासिनां गणना तु ग्रन्थविस्तरभयान्न लिखिता । T.A.V., III, p. 135 
+
 2. एतच्च ग्रंथविस्तरभयात् यथोपयोगम् उच्चित्य उच्चित्य लिखितमिति तत एव यथाशय्यमनुसर्तव्यम् । 
+
 3. इत्यादिश्लोकानन्तरम् 
+
 योगात् न पठितम् । 
+
 4. 
+
 .... 
+
 Ibid., XI, p. 168 
+
 इत्यादिग्रन्थान्तरं सम्भवदपि प्रकृतानुप- 
+
 औचित्याच्चं अन अस्माभिरयं पाठो रक्षितः । 
+
 5. तदुक्तं स्वपारम्पर्यं व्याचक्षाणेन श्रीसोमराजेन 
+
 मञ्जस्यं संभवदपि अनङ्गत्वान्न प्रदर्शितम् । 
+
 Ibid., III, p. 58 
+
 Ibid., IX, p. 19 
+
 एवमनेकप्रकारमास- 
+
 6. अस्माभिस्तु ग्रन्थविस्तरभयात् न प्रातिपद्येन संवादितम् । 
+
 X 
+
 Ibid., p. 197 
+
 Ibid., I, p. 157 
+
 तच्च अस्माभिर्ग्रन्थविस्तरभयात् प्रातिपद्येन न दर्शितम् । Ibid., p. 180 
+
 X 
+
 X 
+
 X 
+
 X 
+
 X 
+
 150 
+
 INTRODUCTION TO THE TANTRALOKA 
+
 he derives additional strength from his disdain for laboured use of imagination1 and his almost reli- gious concern for retention of the tradition intact." Obviously it does not mean that he leaves the por- tions unexplained. Instead, he believes in explain- ing a thing thoroughly even by supplying/importing a missing word on his own in the interest of consist- ency. There are several instances that illustrate it.3 Usually, he first attempts an explanation of words and then gives out essence or gist of Kārikā in his own words. In the case of doubt or necessity to furnish additional explanation he offers alternative expla- nations and tries to reconcile various ends if there is difference of opinion or confusion-whether deli- berate or accidental. As we have already seen lot 
+
 इह तु ग्रन्थविस्तरभयान्न प्रातिपद्येन संवादितम् । 
+
 X 
+
 .... 
+
 X 
+
 X 
+
 Ibid., VII, p. 80 
+
 एतच्च स्वयमवगन्तुं शक्यत्वात् ग्रन्थविस्तरभयाच्च न प्रातिपद्येन व्याख्यातमिति न विद्वद्भिरस्मभ्यम् असूयितव्यम् ॥ 
+
 Ibid., XII, p. 212 
+
 1. चेत्याद्यभिधाय 
+
 .... 
+
 व्याख्यायाम् 
+
 कष्टकल्पना 
+
 चेति- 
+
 .... 
+
 .... 
+
 दोषाः । 
+
 T.A.V., X, p. 91-92 
+
 Ibid, XI, p. 19 
+
 Ibid., II, p. 28 
+
 X 
+
 Ibid. 
+
 2. यश्च अन एतत्पूरणे सम्प्रदायः स रहस्यत्वात् समयभङ्गभयाच्च न इह अस्माभिः प्रदर्शित इति । 
+
 3. न शब्दोऽत्र काकाक्षिवद्योज्यः । 
+
 X 
+
 न शब्दोऽत्रापि संबंधनीयः । 
+
 4. Cp. एवं परमेश्वर एव स्वस्वातन्त्र्यमाहात्म्यात् तत्तद्द्द्बिम्बप्रतिबिम्बाद्- याभासवैचित्येण अवभासते इति तात्पर्यार्थः । 
+
 X 
+
 X 
+
 X 
+
 Ibid., II, p. 12 
+
 एवं पूर्ण ज्ञानावाप्तौ अनेके उपायाः संभवन्ति इति तात्पर्यार्थः । 
+
 5. 
+
 यद्वा 
+
 .... 
+
 X 
+
 यद्वा यथा- 
+
 शब्दप्रतिबिम्बविषयत्वेन व्याख्येयम् । 
+
 X 
+
 Ibid., III, p. 63 Ibid., II, p. 5 
+
 X 
+
 Ibid., p. 25! 
+
 ABOUT THE COMMENTATOR 
+
 151 
+
 of it earlier we leave the matters here. He, however, continues to remain unswerving in his commitment to bring out the essence of Abhinavagupta's work,1 and wherever he leaves out something, the scholars are expected to treat it as unnecessary. 
+
 (b) DIFFERENCES FROM ABHINAVA & DEVIATION FROM THE 
+
 ORIGINAL LINE 
+
 We, thus, see that Jayaratha is extremely faithful to Abhinavagupta and tradition, but he is not a blind follower at all. A person of his calibre and compe- tence can never be. There are occasions, notwith- standing their rarity, when he does not endorse Abhi- navagupta's reading or finds the latter's version want- ing in certain respects. For example, he raises his finger at the use of word 'Padmagam' by Abhinava- gupta. He once again questions Abhinavagupta's reading and suggests a better one. Similarly, when Abhinavagupta embarks upon consideration of vari- ous stations or seats (Pithas) from the T.A. 15.83 to 15.97 on the authority of the Nisisañcara Agama, Jaya- ratha invites attention of the reader to the portion from the T.A. 15.86 to 15.88* and finds the first half of the T.A. 15.86 not only contradictory to the conclusion 
+
 1. 
+
 3 
+
 इह चास्माभिस्तद्व्याख्यासारोच्चयस्यैव प्रतिज्ञातत्वात् तदेव क्रियते, इति तदिरत् स्वयमेव सर्वत्रासारतया चिन्वन्तु सचेतसः । 
+
 T.A.V., I, p. 16 
+
 2. एकैकामथवां देवीं मन्त्रं वा पद्मगं यजेत् । Jayaratha comments - मन्त्रमिति नवात्माद्यन्यतमम् । 
+
 T.A. 15.365 तच्च अत पद्मं 
+
 (? पद्मगं) दलव्याप्तपार्श्वोराद्वयमासनत्वेन चिन्त्यम् । T.A.V., IX, p. 184 
+
 3. भैरव इति गुरुभिरिमैः । 
+
 T.A. 1.100 
+
 Jayaratha observes इमै : इति चिन्त्यम् । गुरुगदितैरिति तु श्रेष्ठः पाठः । 
+
 4. ज्ञेयं संकल्पनारूपमर्धपीठमतः परम् । 
+
 शाक्तं कुण्डलिनी वेदकलं च त्युपपीठकम् ॥ 
+
 T.A.V., I, p. 134 
+
 152 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 contained in the second half of the T.A. 15.88 but also devoid of agamic support and therefore asks the reader to simply ignore it.' We have already seen in detail how much new material has been introduced by Jayaratha to make the Tantraloka more under- standable and uptodate but never has he deviated from the main stream. The matter thus introduced is invariably either colateral or complementary in nature. But Jayaratha, for once, has deviated from the original line and may not be called so faithful in spite of his resorting to the usual commentatorial gimmic. One of the nine main topics incorporated under Krama system is 'non-utility or irrelevance of the limbs of Yoga' (Yogangānupayogitva). The Yoga which Abhinavagupta seeks to refer to is the eight-limbed Yoga of Patanjali, nowhere alluding to the Sadanga (six-limbed) Yoga at all. Jayaratha, however, takes Sadanga, and not Aṣṭanga, as actu- ally belonging to Krama system (Svadarśanoktāni). Then why does Abhinavagupta refer to Patanjali's Yoga? The logic behind Abhinavagupta's enumer- ation, according to Jayaratha, is that though the 
+
 देवीकोट्टोज्जयिन्यौ द्वे तथा कुलगिरिः परः । लालनं बैन्दवं व्याप्तिरिति संदोहकत्त्रयम् ॥ पुण्ड्रवर्धनवारेन्द्रे तथैकाग्रमिदं बहिः । 
+
 नवधा कथितं पीठमन्तर्बाह्यक्रमेण तत् ॥ 
+
 1. “ ज्ञेयसंकल्पनारूपमर्धपीठमतः परम्" इति अर्ध "नवधा कथितं पीठमन्त- र्बाह्यक्रमेण तत्" इत्युपसंहारविरुद्धमनागमिकं चेत्यनार्षत्वादुपेक्ष्यम् । 
+
 T.A.V., IX, p. 48 
+
 We, however, consider our interpretation tentative at the moment. 
+
 2. एवं योगाङ्गमियति तर्क एव च चापरम् । 
+
 अन्तरन्तः परामर्शपाटवातिशयाय सः ॥ 
+
 3. T.A. 14.87-94 
+
 T.A. 4.86 
+
 ABOUT THE COMMENTATOR 
+
 153 
+
 former subscribes to Sadanga theory, he wants to convey the upper limit of the number of the yogic limbs.1 However, Jayaratha's deviation is too trans- parent to fool anybody. Why does he do so? There may be two possible reasons. Either he is under the spell of Buddhist tantricists who propogated the six- limbed Yoga and is out to wean the people away from them to his path or he inherits a Krama tradi- tion different from Abhinavagupta's which enjoined Şadanga Yoga. It is interesting to note that Jaya- ratha nowhere tries to define the six limbs and quotes an unidentified source only once to enumerate them." Although it is an interesting episode of Krama his- tory we do not intend to pursue it further because our interest is limited to exploring the inter se rela- tionship between Jayaratha and his master.3 
+
 1. यन्नाम अत्र योगस्य स्वदर्शनोक्तानि षडङ्गान्यपहाय पातञ्जलीयं यमा- द्यङ्गाष्टकमुक्तं, तत्नायमाशयो यत् क्वचिदपि एतदङ्गाष्टातिरिक्तम् अन्यदङ्गा- T.A.V., III, pp. 102-103 
+
 न्तरं नास्ति । 
+
 2. Ibid., p. 15 
+
 3. See K.T., pp. 58-61 for the proper perspective. 
-## ABOUT THE TEXT 
+
+## 4 ABOUT THE TEXT 
+
 (I) KSTS Edition: editorial and printing lapses 
+
 The Tantraloka is a very voluminous work of Abhi- navagupta and togetherwith Jayaratha's commen- tary covers twelve volumes in bold print brought out in the Kashmir Series of Texts and Studies spread over 3718 pages.1 The Tantraloka, as printed, com- prises roughly 6000 verses, 5844 1/2 to be exact. The fact that two verses, T.A. 37.4-5, have been re- peated as T.A. 37.10 1/2-12 1/2 does not reduce the number because this anomaly is a legacy from the time of Jayaratha himself having been retained in his script itself. The sum total of the printed verse- numbers at 5842, therefore, does not give the cor- rect picture because of several printing mistakes and editorial lapses resulting in occasional duplication and omission of numbers as well as treatment of half- verses as full ones. An effort has been made to as- semble all such cases in the chart given below to offer a tabular view. 
+
 1. If we go by the printed numbering of the pages the total rises to 3721, but the page No. 308 in the 3rd volume, page No. 92 in the 7th volume (between 11th and 12th Ahnikas) and page No. 128 in the 10th volume are blank. The text of the new edition has 3725 pages spread over six volumes (vols 2-7) with seven interven- ing pages left blank (925, 1088, 1292, 2184, 2440, 2726, 2854). Thus the actual number of pages tallies at 3718. 
+
 156 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 Volu- Ähnikas 
+
 mes. 
+
 Mis- Verses prints mising Num- 
+
 bered 
+
 Half-verses Repe- Repe- Printed Numbering tition of tition of number omitted number verses of 
+
 Actual 
+
 Ähnika- 
+
 Total 
+
 number wise 
+
 of printed 
+
 of 
+
 pages 
+
 number of 
+
 Remark 
+
 verses 
+
 verses 
+
 pages in 
+
 the volume 
+
 (1) 
+
 (2) 
+
 (3) 
+
 I 
+
 207 
+
 (4) (5) 
+
 58 
+
 (6) 
+
 (7) 
+
 (8) 
+
 (9) 
+
 (10) 
+
 (11) 
+
 (12) 
+
 (13) 
+
 Between 
+
 for 
+
 200-201 
+
 136 
+
 333 
+
 334 
+
 1-310 
+
 107 
+
 Between 
+
 (half- 
+
 244-245 
+
 verse) 
+
 105 
+
 for 
+
 After 333 
+
 205 
+
 Π 
+
 17 
+
 50 
+
 50 
+
 49 
+
 1-42 
+
 352 
+
 (310-+-42) 
+
 50 
+
 III 
+
 II 
+
 30 
+
 Before 1 
+
 37 
+
 Between 
+
 38 
+
 64-65 
+
 85-86 
+
 33 
+
 40 
+
 ,,107-8 
+
 ,, 260-61 
+
 After 293 
+
 293 
+
 294 1-264 
+
 264 
+
 III 
+
 IV 
+
 1 
+
 After 278- 
+
 278 
+
 278 
+
 1-307 
+
 V 
+
 1 
+
 Between 
+
 157-58 
+
 158 
+
 1581 
+
 309-471 
+
 After 158 
+
 (163 Pages) 471 P. 308 blank 
+
 (1) 
+
 (2) 
+
 (3) 
+
 (4) 
+
 (5) 
+
 (6) 
+
 (7) 
+
 (9) 
+
 (10) 
+
 (11) 
+
 (12) 
+
 (13) 
+
 IV 
+
 VI 
+
 : 1 
+
 After 251 
+
 250 
+
 2501 
+
 1-203 
+
 251 
+
 VII 
+
 1 
+
 Between 
+
 70-71 
+
 71 
+
 71 
+
 1-58 
+
 261 
+
 (203 +58) 
+
 452 
+
 4511 
+
 1-284 
+
 284 
+
 ABOUT THE TEXT 
+
 (208 +108) 
+
 P. 92 blank 
+
 between XI& XII Āhnikas. 
+
 V 
+
 VII 
+
 33 for 330 
+
 332for331 
+
 1 
+
 352for351 
+
 VI 
+
 IX 
+
 · 1 
+
 314 
+
 314 
+
 313 
+
 1-250 
+
 250 
+
 VII 
+
 X 
+
 1 
+
 After 309 
+
 309 
+
 309 
+
 1-208 
+
 XI 
+
 1 
+
 60 
+
 118 
+
 XII 
+
 1 
+
 118 
+
 1163 
+
 1-91 
+
 26 
+
 25 
+
 93-108 
+
 316 
+
 (16 pages) 
+
 VIII 
+
 XUI 
+
 129 
+
 Between 
+
 127-28 
+
 33 
+
 208 
+
 206-207 
+
 After 361 
+
 361 
+
 3611 
+
 ZIV. 
+
 After 46 
+
 46 
+
 461 
+
 1-214 
+
 215-239 
+
 (25 pages) 239 
+
 IX 
+
 XV 389 for 379 
+
 378 
+
 After 612 
+
 612 
+
 6121 
+
 1-285 
+
 285 
+
 (two half verses) 
+
 157 
+
 | 
+
 158 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 (1) (2) 
+
 X 
+
 (3) 
+
 (4) 
+
 (5) 
+
 (6) 
+
 (7) 
+
 (8) 
+
 (9) 
+
 (10) 
+
 (11) 
+
 XVI 
+
 204 
+
 Before 1 
+
 311 
+
 311 
+
 1-127 
+
 (12) 
+
 (13) 
+
 P. 128 blank 
+
 XVII 
+
 122 
+
 122 
+
 129-176 
+
 (48 pages) 
+
 XVIII 
+
 Before 1 
+
 11 
+
 11 
+
 177-181 
+
 (5 pages) 
+
 XIX 
+
 56 
+
 Before 1 
+
 56 
+
 56 
+
 182-205 
+
 (24 pages) 
+
 XX 
+
 1 
+
 After 15 
+
 15 
+
 15 
+
 111 
+
 206-212 
+
 (7 pages) 
+
 XXI 
+
 1 
+
 61 
+
 601 
+
 213-243 
+
 (31 pages) 
+
 XXII 
+
 1 
+
 48 
+
 47+ 
+
 244-261 
+
 (18 pages) 
+
 XXIII 
+
 1 
+
 103 
+
 1021 
+
 262-305 
+
 (44 pages) 
+
 XXIV 
+
 1 
+
 24 
+
 24 
+
 23 
+
 306-314 
+
 24 
+
 (9 pages) 
+
 XXV 
+
 1 
+
 29 
+
 281 
+
 315-327 
+
 (13 pages) 
+
 XXVI 
+
 1 
+
 76 
+
 751 
+
 328-356 
+
 (29 pages) 
+
 XXVII 
+
 1 
+
 59 
+
 58% 
+
 357-380 
+
 380 
+
 (24 pages) 
+
 XI 
+
 XXVIII 
+
 1 
+
 After 434 
+
 434 
+
 434 
+
 1-184 
+
 XXIX 
+
 1 
+
 Before 1 
+
 After 291 
+
 291 
+
 2911 
+
 1-172 
+
 356 
+
 (184+172) 
+
 ABOUT THE TEXT 
+
 (1) 
+
 (2) 
+
 (3) 
+
 (4) 
+
 (5) 
+
 (6) 
+
 (7) 
+
 (8) 
+
 (9) 
+
 (10) 
+
 (11) 
+
 (12) 
+
 (13) 
+
 XII 
+
 XXX 
+
 1 
+
 Before 1 
+
 123 
+
 123 
+
 173-222 
+
 (50 pages) 
+
 Pagination 
+
 begins at 173 
+
 XXXI 
+
 After 163 
+
 163 
+
 1633 
+
 223-302 
+
 (80 pages) 
+
 XXXII 
+
 Before 1 
+
 60 
+
 67 
+
 68 
+
 303-335 
+
 After 67 
+
 (33 pages) 
+
 XXXIII 
+
 Before 1 
+
 32 
+
 32 
+
 32 
+
 336-351 
+
 (16 pages) 
+
 XXXIV 
+
 Before 1 
+
 2 
+
 4 
+
 352-354 
+
 After 2 
+
 (3 pages) 
+
 (1+1 Verses) 
+
 44 
+
 44 
+
 355-380 
+
 XXXV 
+
 (26 pages) 
+
 XXXVI 
+
 Before 1 
+
 15 
+
 16 
+
 381-390 
+
 XXXVII 
+
 After 15 
+
 Between 
+
 32-33 
+
 (10 pages) 
+
 37.4-5 
+
 85 
+
 851 
+
 391-435 
+
 as 
+
 (45 pages) 263 
+
 37.101 
+
 121 
+
 159 
+
 160 
+
 INTRODUCTION TO THE TANTRALOKA 
+
 (a) TWO TYPES OF TEXTUAL ANARCHISMS 
+
 Coming to the KSTS edition of which the MLBD' edition is a reprint, we find that it requires a through critical editing. It suffers from two types of textual anarchisms (i) those which were confronted by Jayaratha and have been taken care of in the cou- rse of our treatment of his and which offer really serious problems of textual reconstruction and (ii) others which concern editing and printing errors which are not so serious but often orente misleading situations. It is the latter we propose to look into briefly for the present. 
+
 (b) BASIC MSS OF THE KSTS EDITION 
+
 In the absence of any editorial note or preface we have practically no idea about the MSS on which this edition is based. From the occasional footnotes, however, Mukund Ram Shastri, the editor, seems to have consulted four MSS which have been referred to by Nagari letters Ka, Kha and Ga plus one on which rests the text and which has not been indi- cated by any letter." Out of the remaining MSS the Ga manuscript seems to be most complete as several missing portions have been filled only with the aid of this MS. Notwithstanding our ignorance about 
+
 1. Motilal Banarsidass 
+
 2. It is equally probable to think that there were only three MSS from which the model MS was prepared by M.R. Shastri. Whatever the case it does not alter the position much. 
+
 3. "वेद्या हि” (T.A. 1.126 ) इति संपूर्ण पद्यं ग० पुस्तकात् पूरितमस्ति । 
+
 T.A.V., 1, p. 165, fn. 
+
 X 
+
 X 
+
 X 
+
 प्रवृत्तोहम् इत्यारभ्य प्रत्ययवाच्य इत्यन्तः पाठो ग० पुस्तकात् पूरितोऽस्ति । 
+
 Ibid., p. 166 
+
 वक्ष्याम इति आरभ्य बहुप्रकारम् इत्यन्तः पाठो ग० पुस्तकात् पूरितोऽस्ति । 
+
 (Ibid., p. 179.) etc. etc. 
+
 ABOUT THE TEXT 
+
 161 
+
 the principles employed in finalization of the printed text the sustained and patient labour put in by the editor and his team of Panditas is easily visible with the result that a largely readable and complete text of an important treatise is in our hands. Besides determining the acceptable readings and pointing out the respective variants, the editor has also corrected the patently corrupt readings. Of course it is not a very frequent activity. It appears that the text of the Ahnikas from first to thirteen was more corrupt than the later ones as the profusion and frequency of foot- notes suggest. Even among the initial Ahnikas the Ist was most defective and the incidence of mistakes has been gradually on the declining scale in the sub- sequent ones. From 14th onwards footnotes become conspicuous by their absence. At some places he offers interpretive comments, but he does so very rarely. Wherever feasible, the editor has tried to trace the portions of the cited text to its published edition, if available. Although he is not absolutely regular on this score, his efforts have proved quite 
+
 3 
+
 1. Except the following portions which show some unfilled gaps- 
+
 (i) T.A. 15.378 
+
 (ii) T.A.V., I, p. 40 (on T.A. 1.18, quotation from the Śri- kanthi) 
+
 (iii) Ibid., III, p. 107 (on T.A. 4. 100) 
+
 (iv) Ibid., VII, p.66 (on T.A. 10.83-84) 
+
 (v) Ibid., VII, p.67 (on T.A. 10.85) 
+
 (vi) Ibid., XI, p.38 (on T.A. 29.52-54, quotation) 
+
 2. पं० ५ ख ०पु० श्रीमद्भट्टादिरिति शोधितः पाठः । 
+
 Fn., ibid, I, p. 29 
+
 3. Vide, ibid, I, p. 4, fn. 1, which deals with the concept of 
+
 Jagadananda. Also see, ibid., I, p. 15 fn. 3, on 
+
 समयलोपावहं महात्मनाम् महागुरूणां निन्दाबीजम् ।162 
+
 INTRODUCTION TO THE TANTRALOK A 
+
 helpful. For example, he has tried to identify Jaya- ratha's citations from the SV.T. in the printed edition and at times has even pointed out to the variations, if any.' Out of the twelve volumes he has appended a verse-index to six from 3rd to 8th and has also purveyed citation-index in the 3rd and 6th volumes. 
+
 (c) PRINTING MISTAKES 
+
 It will not be out of place to refer the reader to the patently glaring printing mistakes in the printed edi- tion. Some of which may be sampled as below- 
+
 (i) 
+
 T.A. 19 reads श्रदृष्टप्रकटीकुर्मो for अदृष्टं प्रकटीकुर्मी (ii) T.A.1.291 reads समुच्चारश्चिदात्मता for समुच्चारश्निदात्मनो " (iii) T.A. 1.298 reads संख्याधिवयं for सांख्याधिक्यम् 
+
 (i.c., सांख्याद् आधिक्यम् ) 
+
 (iv) T.A. 1.301 reads स्थानभित् for स्नानभित् 
+
 (v) 
+
 T.A. 1.302 reads द्रव्ययोग्यमर्चा for द्रव्ययोग्यत्वमर्चा 
+
 (vi) T.A. 1.312 reads कलावेक्षा for कालापेक्षा " 
+
 (vii) T.A. 1.316 reads परीक्षाचार्यकरणं for परीक्ष्याचार्यकरणम्' (viii) T.A. 1.324 reads a: for aa: 
+
 .8 
+
 (ix) T.A. 37.75 reads भ्रातापि तस्याः for भर्तापि तस्याः ' 
+
 (x) 
+
 T.A.V., V, p. 145 reads सर्वत्र पूर्वशास्त्रप्रक्रियया for सर्वत्र श्रीपूर्वशास्त्रप्रक्रियया 
+
 1. श्रीस्वच्छन्दे तु लवणोदधिमित्यस्यानन्तरं 
+
 इत्यधिकः पाठः । 
+
 T.A.V., V, p. 57 Fn. 1 
+
 2. This reading becomes clear when construcd with reference 
+
 to its proper place of treatment in the 5th Ahnika, specially 
+
 T.A. 5.62. 
+
 3. Cp. T.A. 13.3 
+
 4. Cp. ibid. 15.38 
+
 5. Cp. ibid. 15.160 and 15.180 
+
 6. Cp. ibid. 19.7 
+
 7. Cp. ibid. 23.2 
+
 8. Cp. ibid. 29.169 
+
 9. Retention of such readings creates historical anomalies. 
+
 ABOUT THE TEXT 
+
 163 
+
 These printing mistakes are such as to give wrong idea of the subject matter proposed to be discussed in the Tantraloka. There are others which are quite obvious but do not injure the spirit of the text. Some instances may be sampled as under- 
+
 (i) 
+
 T.A.V., III, p. 160 reads भोयोपरञ्जनं for मेयोपरंजनम् (ii) T.A. 4.271 reads न तस्य च निषोधो for न तस्य च 
+
 निषेधो 
+
 (iii)T.A.V., IV, p. 203 reads लब्धसिद्धीति for लब्धसिद्धिरिति (iv) T.A. 7.63 reads स स्पदे खे for स स्पन्दे खे 
+
 (v) 
+
 T.A.V., VIII, p. 1 reads afara face for 
+
 अधिकारभेद उपदिष्टः 
+
 (vi) T.A.V., VIII, p. 86 reads at a for 
+
 मलादीनां तत्त्वं 
+
 (vii) T.A.V., IX, p. 44 reads यदीति स्थाने for यदिति 
+
 स्थाने 
+
 (viii) T.A.V., IX, p. 48 reads ज्ञेयसंकल्पनारूपम् for ज्ञेयं 
+
 संकल्पनारूपम् (T.A. 15.86) 
+
 (ix) T.A. 29.255 reads वेदं गुरवो रहस्यविदः for वेधं गुरवो 
+
 (x) 37.72 reads परिहारमथो चिकीर्पन for परिहारमथ 
+
 चिकीर्षन् 
+
 रहस्यविदः 
+
 In the case of certain readings the problem is com- plicated when the MSS under reference do not have other variants than the printed one and the same text is retained in the Tantraloka and the Tantraloka- viveka both. For instance the T.A. 1.264 reads Laks- yam which is retained by Jayaratha in his Viveka. It, however, must be Lakṣaṇam if a coherent mean- ing is to be derived. Sometimes one comes across a very interesting phenomenon. The editor retains afira: in the T.A. 10.287 whereas in the Viveka 
+
 164 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 (Vol. I, p. 236) he adopts far: while refer- ring to the same verse. It is, therefore, apparent that the required editorial vigilance has been wanting and as a result the two portions were never coordina- ted, as it were. 
+
 (d) NUMBERING ERRORS 
+
 Besides printing, there is a variety of numbering errors. The simplest one is that of printing error. For instance, commentary on the T.A. 8.285 is printed as 8.281. Similarly, while the commentary is marked as relating to the T.A. 1.58 the verse bearing number 1.58 is not indicated. Another anomaly that is visible from the chart appearing on pp. 156-159 is that several verses have been left unnumbered. For example, the half-verse between 7.4. 37.32 and T.A. 37.33 has been left unnumbered. Such instances are many and they have been duly shown in the table. This has made the problem of correct serialization more chaotic. While considering the style of Abhi- navagupta we noted that he has adopted a style in which each preceding Ahnika ends with the first half of the concluding verse and the succeeding one begins with the latter half. This is what has been termed as Samcayanyaya by Jayaratha. In such an event there could have been one of the two edito- rial choices-to treat the verses as always marking either the chaptorial conclusions or the beginnings and number them accordingly. But the editorial practice has not been uniform in this regard. In some Ahnikas last verse has been treated as the concluding verse and has been numbered accordingly leaving the remaining half unnumbered 
+
 ABOUT THE TEXT 
+
 165 
+
 as has been done in the 17th Ahnika. In some other Ahnikas this practice has been abandoned. The first concluding half has not been marked, instead the next commencing verse has been given a number, as has been the practice in the 16th Ahnika. Another anomaly that is very conspicuous is that quite often the concluding half and the introductory half both have been marked as two full independent verses. For example Ähnikas 7-8, 12-13, 19-20, 21-22, 25- 26 and 30-31 may be taken up. Another prevailing anarchy consists in not providing any number to such verses. This is evident from a perusal of the Ahnikas 28-29, 29-30, 32-33 and 33-34. An interest- ing aspect of such anarchous behaviour has resulted in one half being treated as one verse while the other half being conjoined with another and made part of it. This is very well illustrated by Ahnikas 16-17, where the concluding verse is numbered as 16.311 while the introductory half is merged with the first half of the second verse (17.2) and numbered as 17.1. Similar thing seems to have happened in the 13-14th Ähnikas also. The same practice has been reversed elsewhere, i.e. the last half has been fused with the penultimate verse making it appear as one full verse. For example, the T.A. 8.452, being the conclud- ing one, should have been half and numbered either as 8.453 or as 9.1, but it is not so as it has been assimilated with the preceding half, i.e. T.A. 8.452 and allotted its number. Sometimes the concluding as well as the introductory verses both have not been numbered at all, as has happened in the Ahnikas 34-35. From these illustrations one gets a fairly adequate idea of the discrepansies abounding in the whole of the KSTS edition and the scope of improvements to be effected. 
+
 166 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 Lack of a uniform editorial policy coupled with printing errors has spread to the other areas of the text. When it relates to internal references by the Viveka, the quoted numbers differ from the act- ual ones. For instance, the quoted verse shown as T.A. 9.244 is in fact 7.4. 9.246. The same thing has been frequently repeated. Following are some such instances- 
+
 (i) T.A.V., VI, p. 180 quotes T.A. 8.260 but num- 
+
 bers it as 8.255. 
+
 (ii) T.A.V., VI, p. 179 quotes T.A. 8.253-260 but 
+
 numbers it as 8.248-258. 
+
 (iii) T.A.V., VIII, p. 80 quotes T.A. 13.256 but num- 
+
 bers it as 13.252. 
+
 The problem is compounded when we notice that the reference appearing in the T.A.V., III, p. 443 are not found in the Tantraloka under the given num- bers and one quotation which the editor shows as constituting the Tantraloka 25.172 is found at vari- ance with Jayaratha's statement who takes it as from the 29th Ahnika (i.e., T.A. 29.182). 
+
 Apart from these, there are some serious lacuna leading to interesting conclusions. For example, the colophon of the 17th Ahnika reading Vikṣipta Dikṣā has led to the naming of the Ahnika as Vikṣipta- dikṣāprakāśana. It is only by examining the contents of the Ahnika we come to know that the reading in all probability should have been Vistṛtadikṣā,1 and discover how funny the reading is. 
+
 1. Jayaratha in his commentary on the last verse of the 17th Ahnika says that जननादिसमन्विता दीक्षा in the text means farar ten, while in the 2nd half of the same verse (T.A. 18.1) Abhinavagupta proposes to discuss संक्षिप्तदीक्षा. 
+
 ABOUT THE TEXT 
+
 167 
+
 Similarly a uniform practice in respect of pagi- nation is also wanting. While there is continuous pagi- nation in all the volumes irrespective of the number of Ahnikas contained therein, some of the volumes, notably Vth and Xlth, have Ahnika-wise pagination. Likewise all the volumes have fresh pagination, but volume XII continues it from volume XI.1 
+
 On all counts, thus, the greatest single handicap seems to be the absence of critical textual editing and uniform editorial practice. 
+
 (II) Metres employed 
+
 The Tantraloka is a versicular text like most Sanskrit works and though Abhinavagupta displays his poetic skill occasionally his main occupation is scholastic treatment. He seems to be quite at home in employment of a variety of metres and the follow- ing appear to be his favourite choice-Nardataka, Anuştup, Upendravajra, Vasantatilakā, Āryā‚o Rathoddhatā,” Sragdharā," Mandākrāntā”, Śārdūla- vikriḍita", Indravajra", Sikhariņi", Drutavilambita,13 
+
 1. This discrepancy does not exist in the new edition because of the running pagination in all the volumes. 
+
 2. T.A. 1.1 
+
 3. Ibid. 1.2, 3, 17, 32 etc. 
+
 4. Ibid. 1.5 
+
 5. Ibid. 1.8, 16; 37.48, 51, 60, 64, 67 
+
 6. Ibid. 1.20, 21; 26.63 
+
 7. Ibid. 1.201 
+
 8. Ibid. 1.330; 21.25 
+
 9. Ibid. 1.331; 2.39 
+
 10. Ibid. 1.332; 26.65 
+
 11. Ibid. 6.1 
+
 12. Ibid. 2.49; 3.23 
+
 13. Ibid. 2.50 
+
 168 
+
 INTRODUCTION TO THE TANTRALOKA 
+
 Vamsastha', Prthvi and Mälini3. While he casts the Tantraloka mostly in the traditional Anuṣṭup metre he seems to be quite fond of Arya and Vasantatilakā 
+
 also. 
+
 (III) Topical organization and structural analysis 
+
 (a) DIVISION INTO AHNIKAS 
+
 The whole Tantraloka is divided into 37 Ahnikas (lit. daily lessons). Although at one place Abhinava- gupta seems to use the word in its literal sense, it usually stands for a chapter or section if the gross variation in the size of Ahnikas indicates anything. The fifteenth is the biggest Ahnika containing 612 verses and the thirtyfourth the smallest comprising just 4 verses. All other Ähnikas fall within these two extremes. The following exercise may be of some help in getting at the structural analysis of the Tantraloka- 
+
 Number of verses 
+
 (1) 451 and above 
+
 (2) 301 to 450 
+
 (3) 101 to 300 
+
 (4) 51-100 (5) 1 to 50 
+
 Ähnikas 
+
 8, 9, 15 
+
 1, 10, 13, 16, 28 
+
 3, 4, 5, 6, 11, 17, 23, 29, 30, 
+
 31 
+
 7, 19, 21, 26, 27, 32, 37 
+
 2, 12, 14, 18, 20, 22, 24, 25, 
+
 33, 34, 35, 36 
+
 1. T.A. 3.39 
+
 2. Ibid. 12.26 
+
 3. Ibid. 28.367 
+
 4. इत्यनुत्तरपदत्रविकासे शाक्तमौपयिकमद्य विविक्तम् । 
+
 Concluding verse after T.A. 4.278. 
+
 Jayaratha adds अद्य इत्यनेन आह्निकशब्दार्थस्तात्त्विकः इति प्रकाशितम | 
+
 T.A.V., III, p. 307 
+
 ABOUT THE TEXT 
+
 169 
+
 The table pictures a very wide range. Although no clear cut guideline behind such a yawning gap is discernible, the nature of the subjectmatter to be treated seems to be the only answer. A feeble pattern, however, emerges in as much as the first half has claimed the larger slice of bigger chapters, whereas the second half abounds in the smaller ones. It is signi- ficant to note that while the earlier half is marked by preponderance of the theoritical discussion, the second by predominance of the procedural treatment. 
+
 (b) THREE DEVICES TO INDICATE SUBJECTMATTER 
+
 A welcome feature is that Abhinava has taken care to provide titles to all the Ahnikas focussing on their main subject matter. He utilizes three oppor- tunities to ventilate his mind. He tries to entitle the chapters towards the end of the first Ahnika from verses 278 to 286 while discussing general topics and from verses 287 to 328 while discussing specific auxiliary topics. This is in the first place. He mentions the precise prospective contents in the intro- ductory as well as the concluding verse in such a way as to give a definite name to the Ahnika under reference.1 This is in the second place. While cross- 
+
 1. This is the standard practice with Abhinavagupta and his prologue and epilogue usually correspond to one another. He, however, gives up this practice in the sixth Ähnika where he in- itially promises to discuss Sthanaprakalpa as part of the external means called Anava, but ends up with the discussion on Käla- tattva. Such a phenomenon, however, does not constitute a seri- ous lapse or deviation because Sthānaprakalpa is a broader theme which includes the notion of Kalatattva.b 
+
 a. स्थानप्रकल्पाख्यतया स्फुटस्तु बाह्योऽभ्युपायः प्रविविच्यतेऽथ । 
+
 T.A. 6.1 
+
 170 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 referring to the contents of another Ahnika he occa- sionally, though not necessarily, alludes to the Ahnika in question by name. For instance, in the thirteenth Ähnika he refers to Lingoddhāradikṣa which is the subject matter of the 22nd Ahnika' and to Dikṣā- prastava" which occupies the 14th Ahnika or in the 9th Ahnika he refers to future Sadyonirvaṇadikṣā which is the main theme of the 19th Ahnika. Like- wise, he refers to the 13th Ahnika by name in the 1st Ähnika. Jayartha closely follows his master and pro- vides captions to all the Ahnikas in the chapterwise colophons. The two colophons, however, relating to the 34th and 37th Ahnikas do not record any name. Jayaratha's titles are invariably followed by the word 'Prakāśana'. It lends credence to the view that Jayaratha perhaps preferred 'Prakāśa' to 'Viveka' as title for his commentary. Normally Jayaratha's nomenclatures echo those of Abhinavagupta but there have been some exceptions as well. This has happened in respect of the 16th and 17th Ahnikas. According to Abhinavagupta the 16th Ahinka dwells upon Putrakadikṣā, but Jayaratha christens it as Prameyaprakasana (revealing the subjectmatter) 
+
 b. इति कालतत्त्वमुदितं शास्त्रमुखागमनिजानुभवसिद्धम् । 
+
 Concluding verse of the 6th Ahnika. 
+
 1. स्वातन्त्र्यात्तु महेशस्य तेऽपि चेच्छिवतोन्मुखाः ॥ 
+
 द्विगुणा संस्क्रियास्त्येषां लिङ्गोद्धृत्याथ दीक्षया । 2. ज्ञानोपायस्तु दीक्षादिक्रिया ज्ञानवियोगिनाम् । gcagrantai paprarà facufa 11 
+
 3. सद्योनिर्वाणदीक्षोत्थपुंविश्लेषे हि सा सती । 
+
 श्लिष्यन्त्यपि च नो सूते तथापि स्वफलं क्वचित् ॥ 
+
 4. तद्विस्तरेण वक्ष्यामः शक्तिपातविनिर्णये । 
+
 समाप्य परतां स्थौल्यप्रसंगे चर्चयिष्यते ॥ 
+
 T.A. 13.281-82 
+
 Ibid. 13.155 
+
 Ibid. 9.177 
+
 Ibid. 1.139ABOUT THE TEXT 
+
 171 
+
 which, in a sense, is of no consequence. Similarly, the 17th, according to Abhinavagupta, focusses on Jana- nädisamanvitädikṣā, but Jayaratha names it as Vis- tṛta-dikṣā-prakāśana (Vikṣiptadikṣā in the printed text which is wrong as already discussed elsewhere) in contrast to the 18th Ahnika which incorporates Samkṣiptadikṣā. In some places, notwithstanding Jayaratha's total dependence on Abhinava, his nomen- clatures are somewhat less communicative or slightly wanting, if one may say so. For example, Abhinava designs the 19th Ahnika as discussing Sadyah-samut- krāntipradā Dikṣa while Jayaratha names it as Sad- ya-utkränti-prakāśana (lit., revealing sudden death). In fact, Jayaratha adopts such a practice from here right upto the 25th Ahnika. Perhaps for the sake of brevity, he prefers dropping 'Dikṣa' or 'Vidhi' as the case may be. 
+
 (c) DIVISION OF AHNIKAS INTO GROUPS 
+
 Abhinavagupta broadly divides all the 37 Ahnikas into two groups. First thirtytwo Ahnikas except the first constitute one set and the remaining five, from 33rd to 37th, constitute the other. Their basic difference lies in the fact that while the first set dilates upon both general as well as ancillary topics, the second set has no ancillary material to fall back upon. This also provides one of the reasons for the smaller size of the later Ahnikas. As we have already seen, Abhi- navagupta directs all energies to nurture the Tantra- loka as a Šāstra. A scripture worth the name must have three essential parts-(i) topic or proposition to be enquired into, (ii) definition and (iii) exami- nation (Uddeśa, Lakṣaṇa and Parikṣā) respectively. Uddeśa is nothing but an averment of the topic by 
+
 172 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 name which normally takes the form of question- answer between the teacher and the taught.1 In fact this imparts tantric semblance to the tantric texts." Lakṣaṇa consists in deciphering the distinctive cha- racter of the thing and Parikṣā marks the total view which emerges after a thorough scrutiny of all the opposite positions. From this angle he attempts a second classification of Ahnikas. As such, he de- votes the first Ahnika to the positing of Uddeśas while other Ahnikas, from two to thirtyseven, focus on Lakṣaṇa and Parikṣā both. Here again, as pointed out earlier, in his treatment of Uddeśas he underlines two categories of topics-general as well as ancil- lary and discusses them from T.A. 1.278 to 1.284 and from T.A. 1.286 to 1.326 respectively. He has coined a special nomenclature as Pūrvaja (lit. an- terior) and Anuja (posterior) standing for Sāmānya and Viseșa-in that order. As we pointed out to- wards the beginning of this paragraph, thirtyone Ahnikas, from 2 to 32, define and examine general 
+
 1. तेनानुद्घाटितात्मत्वभावप्रथनमेव यत् । 
+
 प्रथमं स इहोद्देशः प्रश्नः संशय एव च ॥ स्वयमेवं विबोधश्च तथा प्रश्नोत्तरात्मकः । गुरुशिष्यपदेऽप्येष देहभेदो ह्यतात्त्विकः ॥ 
+
 2. Cp. गुरुशिष्यपदे स्थित्वा स्वयं देवः सदाशिवः । 
+
 पूर्वोत्तरपदैर्वाक्यैस्तन्त्रं समवतारयत् ॥ 
+
 quoted by Jayaratha from some unknown from the SV.T. 
+
 3. 
+
 तस्याथ वस्तुनः स्वात्मवीर्याक्रमणपाटवात् । उन्मुद्रणं तयाकृत्या लक्षणोत्तरनिर्णयाः ॥ निर्णीततावद्धमशपृष्ठपातितया पुनः । भूयो भूयः समुद् देशलक्षणात्मपरीक्षणम् ॥ 4. तत्नोच्यते पुरोद्देशः पूर्वजानुजभेदवान् । 
+
 T.A.1.252/256 
+
 T.A.V., I, p. 268 source, probably 
+
 T.A. 1.260-61 
+
 Ibid. 1.278 
+
 ABOUT THE TEXT 
+
 173 
+
 and ancillary topics both, while Ahnikas from 33 to 37 define and examine general topics alone. 
+
 (d) DEMARCATION OF THE PRIMARY AND SECONDARY TOPICS 
+
 We are highly indebted to Abhinavagupta for enu- meration of the primary and secondary topics he touches upon in course of his treatment. Jayaratha, his dedicated commentator, takes upon himself to demarcate as to where an ancillary topic begins and where another takes over. Yet there are places where Jayaratha does not give any direct indication. As a result precise positioning has been a difficult task in such cases. An effort, however, has been made to demarcate the precise places of all the ancillary topics dealt with in the Tantraloka in the chart below indicating the items. 
+
 | 
+
 Point of com- 
+
 mencement of the ancillary topic 
+
 6 
+
 Number of Ahnika 
+
 1 
+
 प्रथम 
+
 Caption of Ahnika acc. to Jayaratha1 
+
 2 
+
 Caption of Ahnika acc. 
+
 to Abhinava2 
+
 3 
+
 विज्ञानभेदप्रकाशन विज्ञानसत्ताभेदोद्गार - 
+
 प्रकटनपटु आह्निक or 
+
 विज्ञानभित्प्रकरण 
+
 General topic3 (Purvajoddeśa) 
+
 Ancillary topic (Anujoddesa) 4 
+
 4 
+
 5 
+
 विज्ञानभेद 
+
 सर्वोद्देशन X 
+
 174 
+
 १.२२ 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 द्वितीय 
+
 अनुपायप्रकाशन 
+
 अनुत्तरज्ञप्तिरूपनिर्णया- 
+
 त्मक प्रकरण 
+
 गतोपाय 
+
 I 
+
 or 
+
 अनुपाय 
+
 तृतीय 
+
 शांभवोपाय- 
+
 प्रकाशन 
+
 परौपयिक प्रणिगदन 
+
 परोपाय 
+
 १. विश्वचित्प्रतिबिम्बत्व 'X 
+
 ३.४ 
+
 or 
+
 or 
+
 २. परामर्शोदयक्रम 
+
 शाम्भवात्मवेदनकथन 
+
 शांभवोपाय 
+
 ३. मन्त्राद्यभिन्नरूपत्व 
+
 ३.६६ 
+
 ३.२०० 
+
 X Jayaratha does not indicate commencement. In such a situation it has been suggested by us. 
+
 1. Available in respective chaptorial colophons, hence specific mention of the source not made. 
+
 2. Generally available in the introductory and concludding verses of the respective Ahnika, hence specific 
+
 mention avoided. 
+
 5-6. T.A. 1.287 
+
 3. Vide T.A. 1.278-286 
+
 7. Ibid. 1.288 
+
 4. Vide ibid., 1.287-328 
+
 3 
+
 4 
+
 5 
+
 6 
+
 शाक्तोपायपण्डलकथन 
+
 शाक्तोपाय 
+
 १. विकल्प संस्कार' 
+
 ४.२ 
+
 or 
+
 २. तर्कतत्त्व 
+
 ४. १३ 
+
 शाक्तोपायविवेचन 
+
 ३. गुरुतत्त्व 
+
 ४.३३ 
+
 ४. योगाङ्गानुपयोगित्व 
+
 ४.८६ 
+
 ५. कल्पितार्चाद्यनादर 
+
 ४. ११५ 
+
 1 
+
 चतुर्थ 
+
 2 
+
 शाक्तोपाय- 
+
 प्रकाशन 
+
 or 
+
 शाक्तसमावेश- 
+
 प्रकाशन 
+
 ABOUT THE TEXT 
+
 ६. संविच्चक्रोदय 
+
 ७. मन्त्रवीर्यं 
+
 ८. वास्तवजप्य 
+
 ६. निषेधविधितुल्यत्व 
+
 १. बुद्धिध्यान 
+
 ४. १२३ 
+
 ४.१८१ 
+
 ४. १९४ 
+
 ४.२१३ 
+
 पंचम 
+
 आणवोपाय- 
+
 प्रकाशन 
+
 आणवाऽनुत्तरताभ्यु- 
+
 नरोपाय 
+
 ५.१६ 
+
 पायकथन 
+
 or 
+
 २. प्राणसमुच्चार 
+
 ५.४३ 
+
 आणवोपाय 
+
 ३. चिदात्म-उच्चार 
+
 ५.६२ 
+
 ४. परतत्त्वान्तः प्रवेश 
+
 ५.७४ 
+
 ५. ( अन्तः प्रवेश ) पथलक्षण 
+
 ५.१०० 
+
 ६. करण ७. वर्णतत्त्व 
+
 ५.१२८ 
+
 ५.१३१ 
+
 1. T.A. 1.288-289 2. Ibid. 1.291. चिदात्मता in the printed text is an obvious mistake for चिदात्मनः 
+
 175 
+
 | 
+
 176 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 1 
+
 2 
+
 3 
+
 षष्ठ 
+
 कालतत्त्वप्रकाशन कालतत्त्ववदन' 
+
 4 
+
 5 
+
 6 
+
 कालोपाय 
+
 १. (प्राण) चारमान 2 X 
+
 ६.२३ 
+
 (As part of स्थानप्रकल्प ) 
+
 or 
+
 २. अहोरात्नसंक्रान्त्यादि 
+
 ६.६३ 
+
 कालाध्वन् 
+
 ३. संहारचितता' 
+
 ६.१३६ 
+
 ४. वर्णोदय 
+
 ६.२१६ 
+
 सप्तम 
+
 चक्रोदयप्रकाशन (कालतत्त्वानुषक्त) 
+
 चक्रोदय - रहस्यभणिति 
+
 चक्रोदय 
+
 १. चक्रभेद X 
+
 ७.३ 
+
 २. मन्त्रविद्याभेद 
+
 ७.४२ 
+
 अष्टम 
+
 देशाध्वप्रकाशन 
+
 देशाध्वगान 
+
 देशाध्वन् 
+
 १. पुरपरिमाण 
+
 ८.२० 
+
 or 
+
 २. पुरसंग्रह 
+
 ८.४०६ 
+
 नवम 
+
 तत्त्वप्रकाशन 
+
 देशाध्वविभागकथन तत्त्वप्रविभागकथन 
+
 ३. तत्त्वयोजन' 
+
 तत्त्वाध्वन् 
+
 १. कार्यकारणभाव 
+
 २. तत्त्वक्रमनिरूपण 
+
 ८. २०४ 
+
 ६.७ 
+
 ६. ४८-४९ 
+
 1. Abhinavagupta professes to discuss स्थानप्रकल्प as part of आणवोपाय in the beginning, but ends with 
+
 elucidation of कालतत्त्व. 
+
 p. 502. 
+
 2. T.A. 1.292-93. Here Ira Bajpai translates चारमान as सूर्यादिसंचार whereas it is प्राणचार See Philosophy, 
+
 3. It ought to be अहोरात्रसंक्रान्त्यादिकर्मविकल्पन 4. In fact it ought to be सृष्टिसंहारचित्रता. 
+
 5. T.A. 1.293 
+
 7. In the body of the text the order enjoined in the Kärikä has been reversed. 
+
 if we go by Jayaratha. 
+
 6. Ibid. 1.294 8. T.A. 1.294-95 
+
 ABOUT THE TEXT 
+
 1 
+
 दशम 
+
 2 तत्त्वभेदप्रकाशन 
+
 3 
+
 4 
+
 5 
+
 6 
+
 तत्त्वभेदकथन 
+
 तत्त्वभेदन 
+
 १. वस्तुधर्म 
+
 १०.१६ 
+
 २. तत्त्वविधि 
+
 १०.६७ 
+
 ३. जाग्रदादिनिरूपण 
+
 १०.२२७ 
+
 ४. प्रमातृभेद 
+
 एकादश 
+
 कलादिप्रदर्शन 
+
 कलाध्ववचन 
+
 or 
+
 कलाद्यध्वन् 
+
 १. कलास्वरूप X 
+
 ११.२ 
+
 २. एक-त्रि- पंचाद्यैस्तत्त्वपरिकल्पन ११.३५ 
+
 कलाध्वविस्तरनिर्णय 
+
 ३. वर्णभेदक्रम 
+
 ११.४३ 
+
 ४. सर्वाधारशक्तिनिरूपण X 
+
 ११.१०६ 
+
 द्वादश 
+
 अध्वोपयोगप्रकाशन अध्वोपयोगप्रकाशन 
+
 अध्वोपयोग 
+
 १. अभेदभावना 
+
 १२.४ 
+
 २. कम्पह्रास 
+
 त्रयोदश 
+
 शक्तिपातप्रदर्शन शक्तिपातक्रमविवेचन 
+
 शक्तिपाततिरोहिति १. सांख्याधिक्य X 
+
 or 
+
 २. मलादितत्त्व X 
+
 १२.१८ 
+
 १३.३ १३.४३ 
+
 शक्तिपातपरीक्षा 
+
 ३. शक्तिविचित्रता'X ४. अनपेक्षित्वसिद्धिX ५. तिरोभाववैचित्र्य 
+
 १३. १२६ 
+
 १३.२८३ 
+
 1. T.A. 1.295-96 
+
 2. Left undiscussed. 
+
 3. Jayaratha deviates from his usual nomenclature. Mark प्रदर्शन for प्रकाशन. 
+
 १३. ३११ 
+
 4. T.A. 1.296-97 
+
 5. Ibid. 1.298-99 Read सांख्याधिक्य for संख्याधिक्य in the Kärikā. It is not 'superiority of Säñkhya' as Ira Bajpai takes it (Philosophy, p. 504), but " superiority to Säñkhya". 6. Better read शक्तिपातविचित्रता. 
+
 177 
+
 | 
+
 178 
+
 1 
+
 2 
+
 3 
+
 4 
+
 5 
+
 6 
+
 चतुर्दश 
+
 दीक्षोपक्रमप्रकाशन 
+
 दीक्षोपक्रमप्रदर्शन 
+
 दीक्षोपक्रमण 
+
 १. तिरोभावव्यपगम X 
+
 १४.२० 
+
 २. ज्ञानपरिपूर्णता 
+
 १४.२७ 
+
 ३. उत्कान्त्यनुपयोगित्व 
+
 १४.३२ 
+
 पंचदश 
+
 समयदीक्षाप्रकाशन समयदीक्षणप्रकाशन 
+
 समयित्वविधि 
+
 १. शिष्योचित्यपरीक्षा 
+
 १५. २० 
+
 or 
+
 यागनिरूपण * 
+
 or 
+
 २. स्नानभेद 
+
 १५.३० 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 सामयी दीक्षा 
+
 ३. स्थानकल्पन 
+
 ४. सामान्यन्यासभेद 
+
 ५. अर्घ पात्र (विधि) 
+
 ६. अर्धपात्तप्रयोजनX 
+
 ७. द्रव्ययोग्यत्व 
+
 ८. बहिरर्चा 
+
 C. द्वारार्चन or द्वारपूजाविधि 
+
 १०. प्रवेश X 
+
 ११. दिक्स्वरूप 
+
 १२. देहप्राणादिशोधन 
+
 १५.८० 
+
 १५.११५ 
+
 १५. १४६ 
+
 १५.१५३ 
+
 १५.१६० 
+
 १५.१८० 
+
 १५.१८३ 
+
 १५. १६३ 
+
 १५. १९४ 
+
 १५.२३२ 
+
 १५.२३६ 
+
 १३. विशेषन्यास वैचित्य 
+
 १४. सविशेषार्षभाजन or विशेषार्घपात १५.२८८ 
+
 2. Ibid. 1.301-307 
+
 3. Read स्नानभित् for स्थानभित् in the Kärikä. 
+
 4. याग is नित्यकर्मात्मक. नित्यकर्म begins. 
+
 1. T.A. 1.300 
+
 ABOUT THE TEXT 
+
 1 
+
 2 
+
 3 
+
 4 
+
 5 
+
 6 
+
 १५. प्रागबुद्धिचित्त्वघ्वन्यान- 
+
 पूजने देहमा 
+
 १५.२९५ 
+
 १६. अन्यशास्त्रगणोत्र्य 
+
 १५.३१० 
+
 १७. सर्वतः चा 
+
 १५.३२३ 
+
 १८. क्षेत्रग्रह 
+
 १५. ३६६ 
+
 १६. पंचगव्य X 
+
 १५. ३७१ 
+
 २०. भूगणेशपूजन X 
+
 २१. अस्त्राचX 
+
 २२. वह्निकार्य 
+
 २३. अग्निग अधिवासन (वादि- 
+
 स्थापन ) 
+
 २४. तर्पण 
+
 १५. ३७४ 
+
 १५.३७९ 
+
 १५. ३८८ 
+
 १५.४११ 
+
 १५.४१८ 
+
 २५. चरुसंसिद्धि 
+
 १५.४३६ 
+
 २६. दन्तकाष्ठान्तसंस्क्रियाX 
+
 १५.४४७ 
+
 २७. शिवहस्तविधि 
+
 १५.४५६ 
+
 २८. शय्याक्लृप्ति 
+
 १५.४७४ 
+
 २६. स्वप्न- संबंधि सामयकर्म or सामयकर्म १५ ४६४ 
+
 ३०. समय 
+
 १५.५२१ 
+
 1. It is सर्वस्य मन्त्रचक्रस्य पूजा. 
+
 2. Jayaratha calls it दन्तसंस्कार. 
+
 179 
+
 | 
+
 180 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 1 
+
 2 
+
 3 
+
 षोडश 
+
 प्रमेयप्रकाशन 
+
 पुत्रकत्वसिद्धिनिरूपण' 
+
 or 
+
 4 
+
 प्रमेयप्रक्रिया 
+
 5 
+
 6 
+
 १. मण्डलात्मानुसंधान 'X 
+
 १६.५ 
+
 ( शक्तिपातावसरे 
+
 २. निवेद्यपशुविस्तर 
+
 १६.२८ 
+
 पुत्रकदीक्षानिरूपण 
+
 गुरोर्दीक्षासंबं- धिनी) 
+
 ३. अग्नितर्पण X 
+
 १६.४८ 
+
 ४. स्वस्वभावदीपन 
+
 १६.८० 
+
 ५. शिष्यदेहग अध्वन्यासविधि 
+
 १६.८७ 
+
 ६. शोध्यशोधकादिविचित्रता 
+
 १६.९७ 
+
 ७. दीक्षाभेद 
+
 १६. १६३ 
+
 ८. परन्यास 
+
 १६.२०७ 
+
 8. मन्त्रसत्ताप्रयोजन X 
+
 १६.२५२ 
+
 १०. योजनिकाभेद 
+
 १६.२६५ 
+
 सप्तदश 
+
 विस्तृतदीक्षा- 
+
 प्रकाशन 
+
 भैरवतादात्म्यदायिनी - प्रक्रियानिरूपण 
+
 पौत्रिकविधि 
+
 १. सूत्रक्लृप्त 
+
 १७.३ 
+
 २. तत्त्वशुद्धि 
+
 or 
+
 ३. पाशदाहX 
+
 जननादिसमन्वितदीक्षा- 
+
 ४. योजन 
+
 कथन 
+
 ५. अध्वभेद 
+
 १७.७ 
+
 १७.६७ 
+
 १७.७८ 
+
 १७.११८ 
+
 1. If we compare the T.A. 1.280-81 with the T.A. 1.310and the contents of the 17th Ahnika it appears that there is some confusion in the order of the T.A. 1.280-81. पौत्रिकविधि should follow प्रमेयप्रक्रिया and not the other way round as is found in the text. 
+
 2. T.A. 1.307-309 
+
 3. As discussed elsewhere, Jayaratha's reading, i.e. विक्षिप्तदीक्षा - प्रकाशन is to be amended as above. 4. T.A. 1.310 
+
 5. This has earned the name of the Ahnika as तत्त्वदीक्षाप्रकरण, vide Jayaratha's remarks on T.A. 29.205 (T.A.V., XI, p. 133 ). 6. In fact it ought to be योजनिका.ABOUT THE TEXT 
+
 181 
+
 1 
+
 2 
+
 3 
+
 4 
+
 5 
+
 6 
+
 अष्टादश 
+
 संक्षिप्तदीक्षा- 
+
 प्रकाशन 
+
 (शिवतापत्तिदा) - संक्षिप्तदीक्षाकथन 
+
 संक्षिप्तदीक्षा 
+
 १. जननादिविहीनत्व' 
+
 १८.१ 
+
 २. मंत्रभेद 
+
 १८.३ 
+
 एकोनविंश" 
+
 सद्य उत्क्रान्ति- 
+
 प्रकाशन 
+
 (सद्यः समुत्कान्तिप्रदा- दीक्षानिरूपण ) 
+
 सद्योनिर्वाणदीक्षा 
+
 १. कालापेक्षा 
+
 १६.७ 
+
 २. कृपाण्यादिन्यास * 
+
 १६.१० 
+
 or 
+
 ३. शरीरग चार 
+
 १९.१५ 
+
 सद्यः समुत्क्रम 
+
 ४. ब्रह्मविद्याविधि 
+
 १६.२४ 
+
 विशतितम 
+
 तुलादीक्षा - प्रकाशन ( जनाश्वासप्रदायिनीदीक्षा) तुलादीक्षा 
+
 १. अधिकारिपरीक्षा 
+
 २०.८ 
+
 or 
+
 २. अंतः संस्कार 
+
 २०.१५ 
+
 एकविंश 
+
 परोक्षदीक्षा- 
+
 प्रकाशन 
+
 तुलाशुद्धिदीक्षाकथन परोक्षदीक्षानिगदन 
+
 ३. तुलाविधि® 
+
 २०.११ 
+
 पारोक्षी दीक्षा 
+
 १. मृतजीवद्विधि' 
+
 २१.६ 
+
 २. जालोपदेश 
+
 २१.२४ 
+
 ३. संस्क्रियागण 
+
 २१.३२ 
+
 ४. ( संस्क्रियागणगत) बलाबल - 
+
 विचार 
+
 २१.४६ 
+
 1. T.A. 1.311. 
+
 2. Not एकान्नत्रिंश as is usually printed. 
+
 3. T.A. 1.312. Read कालापेक्षा for कलावेक्षा in the Kärikā. 
+
 5. T.A. 1.313 6. In the body of the text the order between 2nd and 3rd अनुजोद्देशs has been reversed. 
+
 7. T.A. 1.314 
+
 8. Also known as महाजालप्रयोगविधि. 
+
 4. Jayaratha calls it क्षुरिकादिन्यास. 
+
 182 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 1 
+
 2 
+
 3 
+
 4 
+
 5 
+
 6 
+
 द्वाविंशतितम लिङ्गोद्धार- 
+
 प्रकाशन 
+
 लिङ्गोद्धारदीक्षाकथन 
+
 लिङ्गोद्धतिक्रम 
+
 १. श्रवण 
+
 २२.१४ 
+
 or 
+
 २. अभ्यनुज्ञान 
+
 २२.१७ 
+
 लिङ्गोद्वार 
+
 ३. शोधन 
+
 २२.२२. 
+
 ४. पातकच्युति 
+
 २२.२३ 
+
 ५. शङ्काच्छेद 
+
 २२.४५ 
+
 तयोविंशतितम अभिषेकप्रकाशन 
+
 अभिषेकविधिनिरूपण 
+
 अभिषेकविधि 
+
 १. परीक्ष्याचार्यकरण'X 
+
 २३.२ 
+
 २. तद्व्रत ( विद्याव्रत ) X 
+
 २३.३१ 
+
 ३. मतिहरण 
+
 २३.५१ 
+
 ४. तद्विभाग X ( विषयविभाग ) 
+
 २३.६६ 
+
 ५. साधकत्व 
+
 २३.१०१ 
+
 चतुर्विंश 
+
 अन्त्येष्टिप्रकाशन अन्त्यसंस्क्रियाप्रतिपादन 
+
 अन्त्ययाग or 
+
 १. अधिकारी 
+
 २४.२ 
+
 or 
+
 अन्त्येष्टि or 
+
 २. संस्कार X 
+
 अन्त्येष्टियागप्रतिपादन 
+
 अन्त्येष्टिदीक्षा or 
+
 ३. संस्कारप्रयोजन 
+
 २४.१८ २४.२१ 
+
 पंचविंशतितम श्राद्धप्रकाशन 
+
 श्राद्धविधिनिगदन 
+
 सांन्यासिकी दीक्षा श्राद्धक्लृप्ति 
+
 9. प्रयोजन 
+
 or 
+
 २. भोगमोक्षदानेन विधि 
+
 २५.८ 
+
 २५.२१ 
+
 1. T.A. 1.315 
+
 3. Ibid. 1.317 
+
 श्राद्धप्रकाश 
+
 ( श्राद्धस्य भोगमोक्षदान हेतुता) 
+
 2. T.A. 1.316. Read परीक्ष्याचार्यकरणम् for परीक्षाचार्यकरणम् in the Kárikā. 
+
 4. Ibid. 1.318 
+
 ABOUT THE TEXT 
+
 1 
+
 2 
+
 3 
+
 4 
+
 5 
+
 6 
+
 षड्विंश 
+
 स्थण्डिलपूजा- 
+
 प्रकाशन 
+
 स्थण्डिलयागकथन 
+
 शेषवृत्ति' 
+
 १. शेषवृत्तिप्रयोजन' 
+
 २६.२ 
+
 or 
+
 २. स्थण्डिलगत परा नित्या अर्चा 
+
 २६.३६ 
+
 शेषवृत्तिनिरूपण 
+
 सप्तविंश 
+
 लिङ्गाचप्रकाशन लिङ्गाचसंप्रकाशन 
+
 लिङ्गार्चा 
+
 १. लिङ्गभेद' (बहुधा लिङ्ग- 
+
 or 
+
 स्वरूप ) 
+
 २७.१२ 
+
 लिङ्गपूजाकथन 
+
 (नित्यावशेषरूपा 
+
 २. अक्षसूत्रनिरूपण 
+
 २७.३० 
+
 पूजा ) 
+
 ३. पूजाभेद 
+
 २७.५६ 
+
 अष्टाविंश 
+
 प्रकाशन 
+
 पर्वपवित्रकादि- नैमित्तिकप्रकाश 
+
 निमित्तज 
+
 १. नैमित्तिकविभाग 
+
 २८.६ 
+
 or 
+
 नैमित्तिकविधिकथन 
+
 बहुभित्पर्वपवि- वादि 
+
 २. नैमित्तिकप्रयोजनविधि 
+
 २८.६ 
+
 ३. पर्वभेद 
+
 २८.१० 
+
 or 
+
 ४. पर्वभेदविशेष X 
+
 २८.३१ 
+
 पर्वपवित्रप्रभृतिप्रभेदि- नैमित्तिककर्म 
+
 1. Also described as अनुयागविधि in later āhnikas vide T.A. 28.60; 29. 175 and 29.178. 
+
 2. Ibid. 1.319 
+
 3. Ibid. 1.319-20 
+
 4. Ibid. 1.320-323 
+
 5. Jayaratha inserts two more ancillary topics-one Pavitrakavidhi after the 6th and the other, i.e. 
+
 तीर्थायतनचर्चा after the 8th topic. See discussion below. 
+
 6. नैमित्तिककर्म begins. 
+
 ५. चक्रचर्चा 
+
 २८.६० 
+
 ६. चक्रार्चन 
+
 २८.७६ 
+
 183 
+
 184 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 1 
+
 2 
+
 3 
+
 4 
+
 5 
+
 6 
+
 ७. गुर्वाद्यन्तदिनाद्यर्चाप्रयोजन- 
+
 निरूपण 'X 
+
 २८.१६२ 
+
 ८. मृतिपरीक्षा 
+
 २८.२१६ 
+
 ६. योगीशी मेलकादिविधि 
+
 २८.३७१ 
+
 १०. व्याख्याविधि 
+
 २८.३८५ 
+
 ११. श्रुतविधि 
+
 २८. ३६५ 
+
 १२. गुरुपूजाविधि 
+
 २८.४२३ 
+
 एकोनविंश 
+
 रहस्यविधि- 
+
 रहस्यविध्यभिधान 
+
 रहस्यचर्या 
+
 १. अधिकारिभेद 
+
 २६.२ 
+
 प्रकाशन 
+
 or 
+
 २. सिद्धपत्नी कुलकम 
+
 २६.२६ 
+
 रहस्यविधिपरिचर्चा 
+
 ३. अर्चाविधि 
+
 २६.५६ 
+
 ४. दौतविधि 
+
 २९.६६ 
+
 ५. रहस्योपनिषत्क्रम X 
+
 २६.१६६ 
+
 1. Jayaratha explains it as गुर्वादिजन्मदीक्षाप्रायणादिना अर्चाप्रयोजनादिनिरूपणम्. T.A.V., XI, p. 85 
+
 2. T.A. 1.323-24 
+
 3. Read वेध for बोध in the Karikā. 
+
 २६.२२५ 
+
 २६.२३६ 
+
 ६. दीक्षाविधि 
+
 ७. अभिषेक 
+
 २६. १८६ 
+
 ८. वेध (दीक्षा) 3 
+
 ABOUT THE TEXT 
+
 1 
+
 विंश 
+
 2 
+
 मन्त्रादिप्रकाशन 
+
 3 
+
 त्रिककुलकमयोगिमन्त्र- कदम्बकनिरूपण or 
+
 मन्त्रविद्यादिस्वरूपोपवर्णन 
+
 4 
+
 मन्त्रीघ 
+
 5 
+
 6 
+
 १. मन्त्रस्वरूपर 
+
 ३०.४ 
+
 २. मन्त्रवीर्य 
+
 ३०.२१ 
+
 एकत्रिंश 
+
 मण्डलप्रकाशन 
+
 मण्डलसद्भावसंक्षेपा- 
+
 मण्डल 
+
 १. शूलाब्जभेद X 
+
 ३१.७ 
+
 द्वात्रिंश 
+
 मुद्राप्रकाशन 
+
 भिधान or 
+
 मण्डलविधिकथन 
+
 मुद्रासंप्रकाशन 
+
 २. व्योमेशस्वस्तिकादिनिरूपण 
+
 ३१.१३२ 
+
 मुद्रिका दिविधि 
+
 १. गुणप्रधानताभेद 
+
 or 
+
 २. स्वरूप 
+
 ३२.४ 
+
 ३२.१० 
+
 मुद्राविधिकथन 
+
 ३. वीर्यचर्चन 
+
 ३२.६३ 
+
 ४. कालभेद 
+
 ३२.६६ 
+
 aftar 
+
 एकीकारप्रकाशन 
+
 चतुस्त्रिंश 
+
 1. T.A. 1.325 
+
 चक्रभेदेकीकारनिरूपण 
+
 एकीकार 
+
 or शास्त्रार्थंकीकारोदय 
+
 7 
+
 स्वस्वरूपप्रवेशकथन 
+
 स्वस्वरूपप्रवेश 
+
 2. Ibid. 1.325-26 
+
 3. मुद्रा is necessary for काम्य कर्म which, however, is not discussed by the Tantrāloka. Cf. T.A. 32.8 4. Ibid. 1.326-27 
+
 5. Read कालभेद for कलाभेद in T.A. 1.327 
+
 6. From here onwards the distinction between primary and secondary topics disappears. In a sense, only the general issues are now discussed. As such, the commencement of ancillary issues has not been indicated. 
+
 7. Jayaratha's colophon does not indicate any title for this āhnika. 
+
 185 
+
 186 
+
 1 
+
 2 
+
 3 
+
 4 
+
 5 
+
 6 
+
 पंचत्रिंश षट्त्रिंश 
+
 शास्त्रसंमेलन 
+
 समस्तशास्त्रमेलन कथा 
+
 शास्त्रमेलन 
+
 आयातिक्रम- 
+
 शास्त्रायातिकथन 
+
 आयाति 
+
 निरूपण 
+
 सप्तत्रिंश 
+
 उपादेयभावादि- 
+
 उपादेयभावनिर्णय 
+
 उपादेयभाव 
+
 निरूपण 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 ABOUT THE TEXT 
+
 (e) TREATMENT OF ANCILLARY TOPICS 
+
 187 
+
 Even a cursory perusal of the above chart indi- cates that Abhinavagupta has been very thorough and exact in the handling of his treatise. Yet there seem to have happened certain modifications to his original scheme as we proceed with the actual treat- ment. As usual Jayaratha is a great help at such places. According to Abhinavagupta the ancillary topics under Anavopaya (Vth Ahnika) are seven in number. While subscribing to the scheme of Abhinava- gupta, Jayaratha suggests that these seven items may be easily grouped under four Prameyas (topics) namely Uccara, Dhyana, Karana and Varna. How- ever, after the fourth Prameya or ancillary topic as discussed in the 5th Ahnika, Abhinavagupta undertakes to discuss the 5th Prameya called Sthānaprakalpa in the sixth Ahnika which also focusses on other aspects of Anavopāya. 
+
 In the 7th Ahnika, the second ancillary topic i.e., Mantravidyābheda, is purportedly treated as one topic by Abhinavagupta while Mantra and Vidya both have to be taken separately and understood, conse- quently, as Mantracakrabheda and Vidyacakrabheda. In the 8th Ahnika the original order of the 2nd and 3rd ancillary items as outlined in the prefatory remark has been reversed in the course of treatment. Thus the 2nd topic, Purasamgraha, commences at T.A. 8.406 while the third, Tattvayojana, at T.A. 8.204. Perhaps the reason was Abhinavagupta's 
+
 1. 
+
 इदानीमाणवोपायस्यैवाङ्गभूतमुच्चारादिप्रमेयचतुष्टयानन्तरोद्दिष्टं 
+
 स्थानकल्पनाख्यं परमं प्रमेयं द्वितीयेनार्धेन श्रवतारयितुमुपक्रमते । 
+
 2. परिमाणं पुराणां च संग्रहस्तत्त्वयोजनम् । 
+
 T.A.V., IV, p. 5 
+
 T.A. 1.294 
+
 188 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 desire to treat the 1st and 3rd topics in detail and the 2nd in brief.1 
+
 Coming to the 10th Ahnika one notices that the declared focus of the chapter is on the subdivisions of categories (Tattvabhedavidhi), but Abhinavagupta in the same sequence enters into an elaborate discussion on the subdivisions of regions (Bhuvanabhedavidhi, commencing at T.A. 10.151) without openly enlarging the scope of the chapter. Moreover, the fourth ancil- lary topic, variety of knowing subjects (Pramātṛab- heda), finds a specific mention in the prefatory enume- ration of ancillary items, yet it has not been taken up for a separate treatment by Abhinavagupta later. Jaya- ratha has tried to justify it as a deliberate omission since subjective variety is inherent in all the preced- ing sub-topics.3 Next comes consideration of the twin cosmic passages called word-passage and mean- ing-passage (Sabdadhvan and Arthädhvan). The for- mer consists of Bhuvana, Tattva and Kala; and the latter of Varna, Pada and Mantra. Abhinavagupta devotes five full chapters and a part of the sixth chap- ter to the treatment of passage of meaning (Artha- dhvan) whereas he spares only part of one chapter i.e., 11th (in addition to certain occasional references in the 6th and 7th Ahnikas), which is avowedly de- voted to the treatment of the subpassage of Kala (one of the three sub-passages constituting Artha- 
+
 1. अथ सकलभुवनमानं यन्मह्यं निगदितं निजैर्गुरुभिः ॥ 
+
 [ तद्वक्ष्यते समासाद् बुद्धी येनाशु संक्रमेत् । 
+
 2. वस्तुधर्मस्तत्त्वविधिर्जाग्रदादिनिरूपणम् ॥ 
+
 प्रमातृभेद इत्येतत्तत्त्वभेदे विचार्यते । 
+
 T.A. 8.406-7 
+
 Ibid. 1.295-96 
+
 3. प्रमातृभेदश्च वस्तुधर्मादिषु त्रिष्वपि प्रमेयेषु श्रन्तः प्रतिपदमुक्तः, इति तेन 
+
 नेह पृथगुपात्तः । 
+
 T.A.V., VII, p. 207 
+
 ABOUT THE TEXT 
+
 189 
+
 dhvan), for the treatment of Śabdadhvan. All the three sub-passages of word namely Varṇādhvan, Pada- dhvan and Manträdhvan have been subsumed under the third ancillary item called Varnabhedakrama com- mencing at the T.A. 11.43. The subsequent Ahnikas till 14th do not call for any comment. In the 15th Ahnika two things attract our attention. One, the 28th ancil- lary topic is introduced as Samaya Karma by Jaya- ratha,' while Abhinavagupta takes it as Samaya Karma relating to sleep. Two, Ahnikas from 15th to 27th form a cluster dealing with daily rites (Nityakarma) whereas the 28th deals with occasional rites (Naimittikakarma). However, the colophon of the 15th Ahnika in Jayaratha's commentary also hints at inclusion of Naimittika in the 15th. If our understanding of the text is adequate, it offers a fit case for future investigation as to how Naimit- tika could prematurely creep in at this point. Simi- larly the tenth ancillary issue in the 16th Ahnika i.c., Mantrasattaprayojanam is a bit confusing. From the prefatory remark it looks like single item mean- ing 'purpose of the existence of Mantra' whereas in treatment it actually has twin elements, the phrase meaning "existence and purpose of Mantra"." In a sense, two simple ancillary issues instead of one complex item would have been far better. But Abhi- navagupta prefers it that way. 
+
 1. इदानीं सामयं कर्म अभिधातुमाह 
+
 2. 
+
 स्वप्नस्य सामयं कर्म समयाश्चेति संग्रहः ॥ 
+
 3 
+
 T.A.V., IX, p. 245 
+
 3. नित्यनिमित्तादिबहुप्रकारकर्मप्रपञ्चपञ्चमुखः । 
+
 पञ्चदशकमाह्निकमिदं व्यपञ्चयज्जयरथाभिख्यः ।। 
+
 4. दीक्षाभेदः परो न्यासो मन्त्रसत्ताप्रयोजनम् । 5. एवं मन्त्राणां सत्तामभिधाय प्रयोजनमप्याह ॥ 
+
 T.A. 1.306 
+
 T.A.V., IX, p. 285 T.A. 1.309 T.A.V., X, p. 114 
+
 190 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 As we march ahead we are further confronted with deviations from the original scheme. The 20th Ah- nika is titled as Tuladikṣāprakāśana which actually constitutes the 3rd ancillary topic as envisaged in the prefatory verse. In this verse Antaḥsamskāra figures as the 2nd ancillary theme. Abhinavagupta, however, reverses the order during treatment and discusses Tulāvidhi first and Antaḥsamskāra later. Jayaratha takes due congnizance of this drift. We come across a slightly different phenomenon in the 21st Ahnika. Abhinavagupta talks of four ancil- lary topics under this Ahnika in his prefatory re- marks, but Jayaratha seems to have dropped the 3rd item namely Samskriyagana. In his view the fourth item, Balabalavicara, immediately follows the 2nd i.e., Jalopadeśa. Perhaps this is the reason Jaya- ratha does not indicate the beginning of the 3rd ancillary theme. Sometimes Jayaratha adds certain ancillary item not provided for by Abhinavagupta originally. In the 28th Ahnika Jayaratha suggests inclusion of Pavitrakavidhi after Cakrarcana (the 6th Anujoddeśa)" and Tirthāyatanacarcă after Mṛti- parikṣā (the 8th Anuja). According to Jayaratha, Tirthayatanacarcă should have followed the discus- 
+
 1. अधिकारपरीक्षान्तः संस्कारोऽथ तुलाविधिः । 
+
 इत्येतद्वाच्यसर्वस्वं स्याविंशतितमाह्निके ॥ 
+
 T.A. 1.313 
+
 2. अत्र च संस्कारस्य अधिकारिपरीक्षानन्तरं समुद्देशेऽपि उभयशेषत्ववच- नाशयेन तुलाविध्यनन्तरमभिधानम् । 
+
 3. मृतजीवद्विधिर्जालोपदेशः संस्क्रियागणः । 
+
 बलाबल विचारश्चेत्येकविशाह्निके विधिः ॥ 
+
 T.A.V., X, p. 212 
+
 T.A. 1.314 
+
 T.A.V., X, p. 237 
+
 5. एवं चक्रार्चनमभिधाय पवित्रकविधिमभिधातुमाह । 
+
 4. एवं जालोपदेशमुपदिश्य संस्क्रियागणस्य बलाबलविचारमभिधातुमाह । 
+
 Ibid., XI, p. 47ABOUT THE TEXT 
+
 191 
+
 sion on Pavitrakavidhi but since its usefulness is linked with death, its consideration after Mrtipari- kṣa is only proper.' Now both of these suggested ancillary items do not figure in the opening list of Abhinavagupta." In that case Pavitrakavidhi should have commenced at T.A. 28.112 and Tirthayatana- carcă at 28.247. Abhinavagupta's own style occa- sionally seems quite complicated. He proclaims to have dedicated the 30th Ahnika to the treatment of Mantras and accordingly he decides on two suitable ancillaries namely Mantrasvarapa and Mantravirya. Jayaratha dittoes it by naming the Ahnika as Man- trādiprakāśana. Abhinavagupta himself observes in his concluding remark that he has dealt not only with Mantra but also with Vidya (i.e. Brahma- vidyā) in the 30th Ahnika yet he does not devise any independent Anuja to carmark discussion on Vidya. It is difficult to say at this stage if Vidya constitutes another ancillary item, but if at all it does, it should commence with T.A. 30.62. 
+
 (C) THREE BROAD DIVISIONS OF THE TEXT AND OTHER 
+
 SCHEMATISATION BY JAYARATHA 
+
 Jayaratha offers several insights into the scheme and contents of the Tantraloka from various angles. From one such cluc" we infer that he visualizes three 
+
 1. यद्यपि च अत्र पवित्रकविध्यनन्तरं तीर्थायतनचर्चनमुद्दिष्टं तथापि तत् मरणोपयोगित्वात् तत्परीक्षान्तरुपक्षिप्तमिति न कश्चित् पूर्वापरव्याघातः । 
+
 2. T.A. 1.320-323 
+
 T.A.V., XI., p. 97 
+
 3. Commenting on the T.A. 6.1 he observes- 
+
 श्रथ शब्दोऽधिकारे । तेन इतः प्रभृति श्राद्वादशाह्निकं यत्किचिदुच्यते तत्सर्वं स्थानकल्पनाधिकारेण इति पञ्चदशाह्निकात् प्रभृति पुनरेतदेव बाह्यस्थण्डिल - 
+
 192 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 broad divisions of the text, one dealing with the gene- ral issues, the other with Upayas and the remaining with the specific notion of Sthānaprakalpa (a sub-con- cept under Anava-upaya meaning devising or allot- ting places). The first group consists of the 1st, 13th and 14th Ahnikas dealing with the varieties of knowledge, descent of grace and process of initiation respectively. The second group includes Ahnikas from 2nd to 5th pertaining to specific Upayas. The third group comprises Ähnikas from 6th to 12th and from 15th to 37th. By far this is the largest group. This does not amount to say that these Ahnikas have nothing else to discuss. It simply means that Sthānaprakalpa sets their predominant undertone. Even here it may, however, be remembered that Ahnikas from 6th to 12th are directly addressed to this item. It merely implies that the discussion on the doctrine of six passages (Sadadhva) is essentially an offshoot of the doctrine of Sthānaprakalpa which again is a corollary of Aṇavopaya. Although it is not feasible at the moment, for reasons of space, to dilate upon the concept of Sthana, it may be stated that Sthāna has three varieties-Prāņa (breath), Deha (body) and Bahiḥ (exterior). Prana is fivefold-Prana, Apāna, Samāna, Udāna and Vyana. Deha is twofold-inter- nal and external. And Bähya has eleven varieties in the main Mandala, Sthandila, Patra, Akṣasūtra, Pustaka, Linga, Tura, Pața, Pusta, Pratima and 
+
 मण्डलाद्यधिकृत्य श्रभिधीयते इत्याग्रन्थसमाप्तेः प्राधान्यात् स्थानकल्पनस्यैव सकलोऽयं प्रपञ्च इति । 
+
 T.A.V., IV, p. 2 
+
 Though here Jayaratha is quite silent about the contents of the 1st five Ahnikas and also about those of intervening Ahnikas between 12th and 15th, the conclusions drawn above will not ap- pear incoherent when viewed in totality of Jayaratha's treatment. 
+
 1 
+
 ABOUT THE TEXT 
+
 193 
+
 Murti to the exclusion of innumerable sub-varieties. Though Şadadhva is primarily related to Prāṇa- vidhi, it encompasses other varieties of Sthāna as well. Perusing through the pages of the Tantraloka one will easily see the logic behind Jayaratha's state- ment that Sthanaprakalpa constitutes the main undercurrent of almost all the Ahnikas after the 6th excepting the 13th and 14th. This is borne out by two additional factors. One is Jayaratha's observation1 on the T.A. 5.1572 and other happens to be Abhinava- gupta's devising of Sthanaprakalpa as the 2nd ancil- lary topic (commencing at T.A. 15.80) in the 15th Ah- nika assigned to Samayadikṣā where he covers the concepts of Pitha, Ardhapiṭha, Upapitha, Sando- haka, Kṣetrāṣṭaka, Upakṣetrāṣṭaka etc. These are the items that specially engage our attention in the 29th Ahnika specially from verses 29 to 95. Thus it may be contended that under the overall Sthana- prakalpa-scheme Ahnikas from 6 to 12 are linked with various phases of Sadadhva and Āṇava Upaya, 15 to 27 are connected with Nityakarma (daily rites) and 28 to 29 deal with Naimittikakarma (occa- sional rites). 
+
 Sometimes Jayaratha does not envisage an over- all schematisation, but organises the different Āhni- kas, devoted to a continued or connected theme, into a loose whole. He, accordingly, unearths an under- 
+
 1. स्थानकल्पने इति षष्ठादाह्निकात् प्रभृति वक्ष्यमाणे । 
+
 2. ध्याने तदपि चोच्चारे करणे सोऽपि तद्ध्वनी । 
+
 सस्थानकल्पने बाह्यमिति क्रममुपाश्रयेत् ॥ 
+
 3. Cf. यागादी यागमध्ये च यागान्ते गुरुपूजने । 
+
 नैमित्तिकेषु प्रोक्तेषु शिष्यः कुर्यादिमं विधिम् ॥ 
+
 T.A.V., III, p. 469 
+
 T.A. 29.291 
+
 194 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 lying relationship between the 6th, 13th and 14th Ahni- kas from the point of view of the five Godly func- tions. Jayaratha points out that in the course of Samhāracitratānirupaṇa (lit., discussion on the variety of withdrawal or dissolution-3rd ancillary topic. in the 6th Ahnika) Abhinava takes up Srsti, Sthiti and Samhara (creation, sustenance and withdrawal); in the course of Saktipata (descent of grace-13th Ahnika) he deals with Anugraha (grace); and in the course of Dikṣopakrama (commencement of initi- ation-14th Ahnika) Abhinavagupta undertakes to discuss Tirobhava (disappearance).' 
+
 Likewise Jayaratha once again discovers the them- atic unity characterising the four Ahnikas from 29th to 32nd. In the Kula system, according to Jayaratha, a scripture consists of four seats c.g., Vidya, Mantra, Mudra and Mandala." He no doubt bases his stand on Abhinavagupta's authority. According to Jaya- ratha, while the 29th deals summarily with all the four seats, the 30th deals with Vidya alias Brahmavidya and Mantra, the 31st with Mandala' and 32nd with Mudra. Together they constitute worship according to the Kula process or Kula system. 
+
 इह तावत्परमेश्वरः पञ्चविधकृत्यकारीति सर्वत्रोक्तम् । तत्रास्य पूर्व संहारचित्रतानिरूपणावसरे सृष्ट्यादित्त्रयं दर्शितं समनन्तराह्निके चानुग्रह इति संप्र यवशिष्टं तिरोभावाख्यं पञ्चमं कृत्यं द्वितीयार्धेन प्रतिपादयितुमाह । 
+
 T.A.V., VIII, p. 215 
+
 2. इह विद्यामन्त्रमुद्रामण्डलात्मतया चतुष्पीठं तावच्छास्त्रम् । तत्र मन्त्र- मुद्रात्मनः पीठद्वयस्य संप्रदाय उक्तः । इदानीमत्रैव अवशिष्टस्य विद्यामण्डलात्मनो- अपि अस्य संप्रदायं निरूपयति । 
+
 Ibid., XI, p. 114 (29th Ahnika) 
+
 3. इत्येवं मन्त्रविद्यादिस्वरूपमुपवर्णितम् ॥ 4. अथ मण्डलसद्भावः संक्षेपेणाभिधीयते । 
+
 5. 
+
 श्रथ कथये मुद्राणां गुर्वागमगीतमन विधिम् । verse, 22nd Ahnika (T.A.V., XII, p. 303) 
+
 6. अथ सर्वाप्युपासेयं कुलप्रक्रिययोच्यते । 
+
 T.A. 30.123 
+
 Ibid. 31.1 
+
 Ibid., introductory 
+
 Ibid. 29.1 
+
 ABOUT THE TEXT 
+
 (g) NON-ORGANISATION OF THE TANTRALOKA INTO JÑANA, 
+
 YOGA, KRIYA AND CARYA 
+
 195 
+
 A striking feature one is not likely to miss is the absence of any division or organisation of the Tan- trāloka's subject matter on the traditional tantric pattern of Jñana, Yoga, Kriya and Carya. In the opi- nion of B.V. Dwivedi (as per one of our conversations) Jñana-Yoga-Kriya-Carya division seems to be an old-time phenomenon losing considerable ground in the later era. Even in the later tantric texts proper there are broadly two divisions-Jñana and Kriya, the latter incorporating Yoga and Carya as well. The problem constitutes an important facet of the tantric historiology, but we refrain from delving deep into it for the time being. It must, however, be said that Abhinavagupta seems to be quite conversant with this division and his occasional references will bear ample testimony to it. For example, in the 16th Ahnika he examines the role of Jñana vis-à-vis Yoga and Dikṣā and explores their inter se relationship.1 Abhinavagupta has devoted one of the several chap- ters dwelling upon Naimittika vidhi i.e., the 25th Ahnika, to the theme of Śraddha (post-funeral rites performed in honour of the departed) as leading to enjoyment and emancipation both. Now this Śrād- dha is essentially a Carya phenomenon whose effi- cacy has been established on the basis of its deriving sustenance from Bhakti. One of the apparent rea- 
+
 1. नचाधिकारितां दीक्षां विना योगेऽस्ति शाङ्करे । 
+
 क्रियाज्ञानविभेदेन सा च द्वेधा निगद्यते ॥ 
+
 T.A. 16.291 
+
 2. नन् दीक्षैव भोगमोक्षसाधिकेत्युक्तं तत् कथं श्राद्धाद्यात्मनः चर्यामात्रादपि एतत्स्यादित्याशंक्याह अतः श्राद्धाद्यात्मनः चर्यामात्रादेव कथं मुक्तिः स्या- दिति न संशयितव्यम् । किंतु प्रत्र भक्तिरेव दार्दयेन श्राश्रयणीया येनैवं स्यात् । 
+
 T.A.V., X, pp. 323-26 
+
 196 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 sons for not adopting the Jñana-yoga-kriya-carya pattern lies in the synthetic approach of Abhinava- gupta which is manifested in two ways. In one, all the four form a harmonious whole that culminates into Jñana. It is why Abhinavagupta devotes his opening Ahnika to Jñāna and its varieties. In other, all the three except Jñana originate from the relative- ly weeker and feebler descent of grace leading to the rise of different Sadhakas. 
+
 IV Cross-references: a collateral source 
+
 of thematic organisation 
+
 As already advised earlier in this chapter, one very rich source of our understanding the contents of the Tantraloka consists in the cross-references to various Ahnikas and their subjectmatter as appear- ing in both Abhinavagupta and Jayaratha. This also constitutes a fair basis for the cross-checking of the contents as furnished by Abhinavagupta in his enumer- ation. A note of caution, however, must be sounded here. Major and minor or primary and secondary items do not indicate the primary and secondary issues as such in the respective Ahnikas. They have been so termed on the basis of their direct and indirect allusions respectively. But on the whole they subscribe to the original scheme of Abhinavagupta. By col- lating and collecting such references we get the 
+
 1. किरणायां तथोक्तं च गुरुतः शास्त्रतः स्वतः ॥ ज्ञानयोग्यास्तथा केचिच्चर्यायोग्यास्तथापरे । Cp. ज्ञानयोग्यास्तथा केचिच्चर्यायोग्यास्तथापरे । 
+
 दीक्षायोग्या योगयोग्या इति श्रीकरणविधौ । 
+
 2. Cf. pp. 169-170 supra. 
+
 T.A. 13.161-62 
+
 Ibid. 15.18 
+
 ABOUT THE TEXT 
+
 197 
+
 following picture about the contents of various Ahnikas. 
+
 (a) FIRST AHNIKA 
+
 The issues discussed are- 
+
 (i) Free will leads to manifold manifestation of the unitary principle without, while retaining its unitary character.2 
+
 (ii) Variety of Upāyas ( redemptive knowledge as a means). It includes the discussion on hierarchical gradation in between Upayas where out of the four Upāyas (namely Anava, Sakta, Sambhava and Anu- paya) each preceding leads to and culminates into each succeeding. 1 
+
 This view has been echoed in the 4th Ahnika as is clear from the footnote 4 below. In the 13th āhnika also the view is reiterated.5 
+
 1. Our interference has been minimal in the matter. We have taken the liberty of stepping in only when the original author appeared to be mute or vague on certain reference and we found ourselves reasonably sure about the precise whereabouts of the relative reference. 
+
 एतच्च निर्णीत पूर्व इति पुनरिह नायस्तम् । यथोक्तम् "बहुशक्तित्वमप्यस्य तच्छक्त्यैवावियुक्तता ।" (T.A. 1.68) 
+
 T.A.V., I, p. 196 
+
 3. उपायस्यापि इति अपिशब्दो भिन्नक्रमः तेन नो वार्या तदन्यत्वादपि इति व्याख्येयम् । एतच्च प्रथमाह्निक एवं वितत्य निर्णीतम् इति नेह पुनरायस्तम् । (Jayaratha on T.A. 2.6) 
+
 4. अनन्तराह्निकोक्तेऽस्मिन्स्वभावे पारमेश्वरे । 
+
 प्रविविक्षुविकल्पस्य कुर्यात्संस्कारमञ्जसा ।। 
+
 अनन्तराह्निक here refers to the Ist Ahnika. 
+
 Ibid., I, p. 7 
+
 T.A. 4.2 
+
 Cp. यद्वक्ष्यति "अनन्तराह्निकोक्तेऽस्मिन् अञ्जसा" (T.A.4.2) 
+
 .... 
+
 इत्याद्युपक्रम्य "ततः स्फुटत मोदारताद्रूप्यपरिबृंहिता । 
+
 संविदभ्येति विमलामविकल्पस्वरूपताम् ॥” (T.A. 4.6) इति । 
+
 श्रतएव हि शाक्तोपायस्य उपायोपायत्वमुक्तम् । 
+
 5. उपाययोगक्रमतो निरुपायमथाक्रमम् । 
+
 यद्रूपं तत्परं तत्त्वं तत्र तत्र सुनिश्चितम् ॥ 
+
 T.A.V., I, pp. 238-39 
+
 T.A. 13.157 
+
 198 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 (iii) The summing up of the theory of bondage and salvation. ' 
+
 (iv) Fifty varieties of Samāveśa (complete immer- sion). 2 
+
 This aspect has a special rearing on the 3rd and 9th Ahnikas, as we shall see in their respective places. 
+
 (v) Theory of ignorance (Mala). Ignorance is nothing but a phase of self-dynamism. 
+
 The doctrine of Mala forms a special feature of the 9th and 13th Ahnikas, as we shall see later. 
+
 (vi) The ultimate is of the nature of self-luminosity and so is ensuing plurality." 
+
 (vii) Means of cognition derive their subsistence from cognizer. " 
+
 5 
+
 1. इह अस्मिन्नाह्निके (Jayaratha on T.A. 1.330) । 
+
 ययोर्बन्धमोक्षयोः संग्रहेण संक्षेपेण एषोऽर्थः प्रकटितः इत्यनेनैव संबंध: । 
+
 2. निर्विकल्पे परामर्शे शाम्भवोपायनामनि । 
+
 पञ्चाशद्भेदतां पूर्वसूत्रितां योजयेद्बुधः ॥ 
+
 Jayaratha observes पूर्वेति प्रथमाह्निके । यदुक्तम्-- 
+
 "पञ्चाशद्विधता चास्य समावेशस्य वर्णिता । तत्त्वषट्त्रिंशकैतत्स्थस्फुटभेदाभिसन्धितः ।। 
+
 3. तेन स्वरूपस्वातन्त्र्यमात्रं मलविजृम्भितम् ॥ 
+
 निर्णीतं विततं चैतन्मयान्यत्रेत्यलं पुनः । 
+
 T.A.V., I, p.303 
+
 T.A. 3.274 
+
 (T.A. 1.186-187) 
+
 T.A.V., II, p. 250 
+
 Jayaratha explains श्रन्यत्रेति प्रथमाह्निकादी, अतएव 
+
 4. तस्मात् प्रकाश एवायं पूर्वोक्तः परमः शिवः ॥ 
+
 T.A. 9.83-84 
+
 पुनरित्युक्तम् । 
+
 T.A.V., VI, p. 73 
+
 T.A. 10.55 
+
 Comments Jayaratha पूर्वोक्त इति प्रथमाह्निकादी । यदुक्तम् "शेयस्य च 
+
 परं तत्त्वं यः प्रकाशात्मकः शिवः " (T.A. 1.52 ) इत्याद्यनन्तप्रकारम् । 
+
 T.A.V., VII, p. 44 
+
 5. 
+
 इत्यस्य स्वप्रकाशत्वे किमन्यैयुक्तिडम्बरैः ॥ 
+
 मानानां हि परो जीवः स एवेत्युक्तमादितः । 
+
 T.A. 10.116-17 
+
 ABOUT THE TEXT 
+
 199 
+
 (viii) Plurality of Diksa is due to gradual unfold- ment of self-consciousness with the necessary impli- cation that even the most inert is essentially divine.1 
+
 This view has been enlarged upon in the 16th Ahnika. (ix) As against the popular notion that Siddhi is attained through observance of time, place and vows etc., it is the feeling of identity with the external ob- jects and reflecting upon them as essentially one with I-consciousness that leads to self-realization. This phenomenon has been termed as Gramadharma- vrtti. 2 
+
 The 29th Ahnika makes special use of this view in identifying the spritual seat and its presiding powers with I-consciousness. 
+
 (x) The entire variety of spiritual cycles (Cakras) 
+
 Jayaratha adds प्रत्युत प्रमाणानां तदधीना सिद्धिरित्यादितः प्रथमाह्निक एवोपपादितमित्यर्थः । यदुक्तं तत्र " प्रकाशो नाम स एव परमेश्वरः" (T.A. 1.54-55) 
+
 T.A.V., VII, p. 86 
+
 1. इत्थं क्रमसंवित्तो मूढोऽपि शिवात्मक भवति । 
+
 . 
+
 यद्यपि विकल्पवृत्तेरपि मोक्षं दीक्षयैव देहान्ते ॥ शास्त्रे प्रोवाच विभुस्तथापि दृढवासनायुक्ता । 
+
 Jayaratha supplements शास्त्रे इति निशाटनादी । तच्च प्रथमाह्निकादी 
+
 बहूक्तम् । 
+
 2. 
+
 न तिथिर्नच नक्षत्रं नोपवासो विधीयते । ग्राम्यधर्मरतः सिध्येत्सर्वदा स्मरणेन हि || 
+
 (T.A. 198-200) 
+
 T.A.V., X, p. 76 
+
 T.A. 29.65 
+
 Jayaratha remarks ग्राम्यधर्मरतः इति तद्वृत्तिरित्यर्थः । एतच्च 
+
 प्रथमाह्निके एव उक्तमिति तत एवावधार्यम् । 
+
 T.A.V., XI, p. 45 (29th āhnika) 
+
 This, in all probability, has reference to— 
+
 प्रकाशावस्थितं ज्ञानं भावाभावादिमध्यतः ॥ स्वस्थाने वर्तनं ज्ञेयं दृष्टृत्वं विगतावृति । विविक्तवस्तु कथितशुद्धविज्ञाननिर्मलः ॥ ग्रामधर्मवृत्तिरुक्तस्तस्य सर्व प्रसिध्यति । 
+
 T.A. 1.84-86 
+
 200 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 is inform in the sense that they display the aspects of cosmic dynamism.' 
+
 The 33rd Ahnika is devoted to the development of this theme. 
+
 (b) SECOND AHNIKA 
+
 (i) There is no Upāyopeyabhāva in Anupāya. Hence the problem of bondage and freedom there- from has no room here. 
+
 (ii) Compassion for others is the sole motive force behind the activity of a Samsiddhika (self-accom- plished) teacher." 
+
 (iii) Diksā ( initiation) practically has no role in the context of Anupaya because of the speediest descent of grace." 
+
 1. यदुक्तं चक्रभेदेन सार्धं पूज्यमिति त्रिकम् । 
+
 तत्रैव चक्रभेदानामेकीकारो दिशानया ॥ 
+
 T.A. 33.1 
+
 Observers Jayaratha उक्तमिति प्रथमाह्निकाद । तथा च तत्र "एकवीरो यामलोऽथ तिशक्तिश्चतुरात्मकः " (T.A. 1.110 ) इत्यादि "विश्वचक्रे महेशानो विश्वशक्तिविजृम्भते " (T.A. 1.112) इत्यन्तं बहु । 
+
 2. प्राक्तने त्वाह्निके काचिद्भेदस्य कलनापि नो । 
+
 T.A.V., XII, p. 337 
+
 T.A. 3.272-273 
+
 तेनानुपाये तस्मिन् को मुच्यते वा कथं कुतः ॥ Also Cp. उच्यते स्वात्मसंवित्तिः स्वभावादेव निर्भरा । 
+
 नास्यामपास्यं नाधेयं किंचिदित्युदितं पुरा ॥ Jayaratha clarifies पुरा अनुपायाह्निके "अव तावत्क्रियायोगो 
+
 नाभ्युपायत्वमर्हति" (T.A. 2.8) इत्यादिनोक्तम् । 
+
 T.A. 4.9 
+
 T.A.V., III, p. 9 
+
 3. सांसिद्धिकस्य गुरोः स्वात्मनि कृतकृत्यत्वात् शेषवृत्तौ परानुग्रह एव 
+
 प्रयोजनम् । यदुक्तं प्राक् " समस्तयन्त्रणातन्त्र 
+
 । 
+
 इति । तथा "स्वं कर्तव्यं किमपि 
+
 प्रयोजनम्" (T.A. 2.38) .... लोककर्तव्यमात्रम् ॥ (T.A. 2.39) 
+
 Ibid, III, pp. 53-56 
+
 4. ये तु तीव्रतमोद्रिक्तशक्तिनिर्मलताजुषः ॥ 
+
 न ते दीक्षामनुन्यासकारिणश्चेति वर्णितम् । Jayaratha adds वणितमिति द्वितीयाह्निके । 
+
 T.A. 15.275-76 
+
 T.A.V., IX, p. 136ABOUT THE TEXT 
+
 201 
+
 (iv) Likewise, in Turyātīta (i.e., beyond the fourth) state (which is identical with Anupaya state) there is complete absence of Yoga.1 
+
 (c) THIRD AHNIKA 
+
 (i) The notion of Jivanmukti ( emancipation dur- ing life-time) becomes meaningful only in relation to Upayas beginning with Sambhava to Āṇava." 
+
 (ii) Sambhava marks the culminating point of the hierarchy of Upayas characterized by the vibration. of consciousness emanating from object (Artha) up to Prāna. * 
+
 (iii) Twofold purity of consciousness-primary and secondary.1 
+
 (iv) The three short vowels A, I, U represent three powers of Bhairava e.g., Para, Parāparā and Aparā that constitute the primary triad (Trika)." 
+
 1. योगाद्यभावतस्तेन नामास्मिन्नादिशद्विभुः । 
+
 T.A. 10.280 
+
 Jayaratha explains तेनेति योगादेरसद्भावेन । यथा चैतत्तथा द्वितीयाह्निकादी 
+
 उक्तम् । 
+
 2. इत एव प्रभृत्येषा जीवन्मुक्तिविचार्यते । 
+
 यत्र सूत्रणयापीयमुपायोपेयकल्पना । 
+
 T.A.V., VII, p. 189 
+
 T.A. 3.272 
+
 T.A.V., II, p. 249 
+
 Jayaratha remarks सुत्रणयाऽपि इति श्रह्निकान्तरेषु पुनः स्फुटैव 
+
 भविष्यतीति भावः । 
+
 3. बीजपिण्डात्मकं सर्वं संविदः स्पन्दनात्मताम् ॥ 
+
 विदधत्परसंवित्तावुपाय इति वर्णितम् । 
+
 T.A. 7.2-3 
+
 Jayaratha observes सर्वमिदं वीजपिण्डात्मकं मन्त्रजातम् अर्थात् 
+
 प्राणान्तरुदयत् संविदः स्पन्दनात्मतां शाक्तस्वरूपावेशं विदधत् परसंवित्तावुपायः पारम्पर्येण शाम्भवमपि रूपमाविशेत् । 
+
 ... 
+
 T.A.V., IV, p. 2 ( 7th Anhika) 
+
 4. अनेनैव चाभिप्रायेण पूर्वं "नैर्मल्यं मुख्यमेतस्य संविन्नाथस्य सर्वतः । अंशां- शिकातः क्वाप्यन्यत् 
+
 " (T.A. 3.9 ) इत्यादिना बोधस्य तदितरेषां केषांचन भावानां च स्वच्छत्वस्य मुख्यामुख्यतया द्वैविध्यमुक्तम् । Ibid., II, p. 59 5. ह्रस्वत्रयमेव च भैरवात्मनः परस्य तत्त्वस्य शक्तिरूपतया पूर्वं निर्णीतम्, 
+
 202 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 (v) Mantra, Mudrā, Kriyā, and Upāsanā--all these aspects of worship are simply superfluous in Sam- bhava Upāya.1 
+
 (vi) A as Visarga and Am as Vindu together cons- titute Kulesa and Kuleśvari (male and female presid- ing authority of Kula)." 
+
 These and other allied ideas are again discussed in the 5th Ahnika. 
+
 (vii) Rāva (sound) is tenfold." 
+
 (viii) Concept of Visarga (emission, discharge) in the esoteric context of Caryakrama i.e., sex-union.^ 
+
 Again this is taken up in the 5th Ahnika. 
+
 तदुक्तम् " यतः षण्णां विकं सारं चिदिष्युन्मेषणात्मकम् । 
+
 1. 
+
 दन्या: 
+
 तदेव वितयं प्राहुः भैरवस्य परं महः ॥' (T.A. 3.192) 
+
 .... 
+
 शांभवोपाये काश्चन मन्त्रमुद्राक्रियोपासा न ततः पूर्णाहन्तापरामर्शा- 
+
 । वक्ष्यति च "स्नानं व्रतं 
+
 (T.A. 3.289-90) 
+
 2. श्रं श्र इति कुलेश्वर्या सहितो हि कुलेशिता । 
+
 Jayaratha adds यदुक्तम् 
+
 11 
+
 "अत्र प्रकाशमानं यत्स्थिते धामत्रये सति । 
+
 Ibid., II, p. 233 
+
 कापि नाव भेदेन युज्यते ।" 
+
 T.A.V., II, P, 247 
+
 T.A. 5.68 
+
 उक्तं बिन्दुतया शास्त्रे शिवबिन्दुरसौ मतः ॥" (T.A. 3.134) 
+
 इति । " अस्यान्तविसिसृक्षासी या प्रोक्ता कौलिकी परा । 
+
 सैव क्षोभवशादेति विसर्गात्मकतां ध्रुवम् ॥" (T.A. 3.137) इति च । 
+
 T.A.V., V, pp. 373-74 
+
 १ 
+
 T.A. 5.97 
+
 3. श्रीब्रह्मयामले चोक्तं श्रीमान् रावो दशात्मकः ॥ Jayaratha explains एतच्च प्राक " तस्य प्रत्यवमर्शो... स्थूलसूक्ष्मपरत्वतः (T.A. 2.235-37) इत्यादिना " तत्परं त्रितयं परचिदात्मक: । (T.A. 3.248) इत्यन्तेन निर्णीतप्रायम् इति तत एवैतत्सतत्त्वमवधारणीयम् । 
+
 4. The T.A. 5.124 and 142 refer to the respectively. See T.A.V., III, pp. 433 and 458. 
+
 T.A.V., III, p. 409 T. A. 3.144 and 167 
+
 ABOUT THE TEXT 
+
 203 
+
 (ix) The wordy flow of consciousness consists of 81 letters.1 
+
 This is also taken up in detail in the 6th and 33rd Ahnikas. 
+
 The subordinate topics, which otherwise constitute major topics in the other Ahnikas, discussed here include 
+
 (1) Twelve Kalikās (IVth Ahnika), 
+
 (2) inclusion of 81 letters in 50 letters (6th Ah- 
+
 nika), 
+
 ( 3 ) absence of the hierarchy of Upāyas in Anu - 
+
 pāya ( 2nd āh.), and 
+
 (4) 50 varieties of Samāveśa (9th āhnika). 
+
 (d) FOURTH ĀHNIKA 
+
 (i) Twelvefold rise of the ultimate principle called Parama Śiva and manifold appurtenant doctrines." These twelve manifestations technically go by the name of twelve Kalis. 3-4 
+
 1. ननु प्रखण्ड कघनाकारे अत्र कुतस्त्यम् आनन्त्यम् इत्याशंक्याह- 
+
 विश्वमेकपरामर्श सहत्वात्प्रभृति स्फुटम् । अंशांशिकापरामर्शान् पर्यन्ते सहते यतः ॥ श्रतः पञ्चाशद कात्म्यं स्वरव्यक्तिविरूपता । 
+
 वर्गाष्टकं वर्णभेद एकाशीति कलोदयः ।। इति प्रदर्शितं पूर्वम्. 
+
 । 
+
 T.A. 33.25-27 
+
 Explains Jayaratha पूर्वमिति तृतीयषष्ठाह्निकादौ । T.A.V., XII, p. 348 2. एतच्च ( परमशिवस्य द्वादशधा उदयः ) बहुप्रघट्टकवक्तव्यम् इति शाक्तो- पायाह्निक एवं वितत्य विचारयिष्यते इति नेहायस्तम् । T.A.V., I, p. 152 3. एतच्च ( द्वादश काल्यः) शाक्तोपायाह्निक एवं वितत्य विचारयिष्यते इति नेहायस्तम् । 
+
 Ibid., II, p. 236 4. एतच्च ( द्वादश देव्यः ) अनन्तराह्निक एवं वितत्य निर्णीतम् इति न पुर्नारिहायस्तम् । 
+
 Ibid., III, p. 336 
+
 204 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 This issue has been discussed in the Ist, IIIrd and Vth Ahnikas also. 
+
 (ii) Akalpitakalpaka type occupies the place of supreme importance amongst all the teachers.1 Sām- siddhika is the chief among Akalpitakalpakas and is identical with Svayambhu type." Samsiddhika is Bhairava personified.* 
+
 This views is elaborately echoed in the 13th Ahnika also. (iii) The entire variety of spiritual cycle ranging from trident or the three-spoked to the countless- spoked one.5 
+
 (iv) Sṛṣṭibija and Samhārabija (seeds of creation and dissolution), though discussed under Varna (un- 
+
 1. सर्वाचार्याणां वक्ष्यमाणानाम् श्रकल्पितकल्पकादीनां मुख्यत्वादेव च तत्- संनिधावन्येषां न परानुग्रहादी अधिकारः इत्युक्तं " तत्संनिधाने न" इत्यादि यद्व- क्ष्यति । (Reference is to the T.A. 4.74-76) T.A.V., III, p. 48 
+
 2. इति श्रीमालिनीनीत्या यः सांसिद्धिकसंविदः । 
+
 स उत्तमाधिकारी स्याज्ज्ञानवान् हि गुरुर्मतः ॥ 
+
 Jayaratha adds सांसिद्धिकसंविद इति स्वतः प्रवृत्तसत्तर्क इति 
+
 T.A. 15.16 
+
 इत्यर्थः । यदुक्तं प्राक् यस्य स्वतोऽयं मध्ये मुख्यः प्रकीर्तितः । (T.A. 4.42-43) 
+
 । . 
+
 . 
+
 3. उक्तः स्वयंभूः शास्त्रार्थं प्रतिभापरिनिष्ठितः । Jayaratha adds तदुक्तं प्राक् and refers to the 
+
 4. उक्तोऽनन्योपकार्यत्वात्स साक्षाद्वरदो गुरुः । 
+
 Jayaratha elucidates यदुक्तम् 
+
 यस्त्वकल्पितरूपोऽपि संवाददृढताकृते । 
+
 T.A.V., IX, p. 11 
+
 T.A. 13.135 
+
 T.A. 4.40. 
+
 T.A.V., VIII, p. 88 
+
 T.A. 13.158 
+
 अन्यतो लब्धसंस्कारः स साक्षाद् भैरवायते ॥ (T.A. 4.77) 
+
 5. On T.A. 5.37-38 ( एवं त्रिशूलात् प्रभृति 
+
 चक्रं ध्यायेदनन्यधीः ) Jayaratha comments 
+
 T.A.V., VIII, p. 101 
+
 श्रसंख्यारसहस्रं वा 
+
 एतच्च पुरस्तादेव गतार्थं इति न पुनरिहायस्तम् । Ibid., III, p. 346 
+
 ABOUT THE TEXT 
+
 205 
+
 der Anavopāya), are essentially integral to Samvit- krama, an aspect of Krama system or Sāktopāya.1 
+
 The preceding item and the present one incidentally figure in the 5 Ahnika also. 
+
 (v) Parity between negation and injunction." 
+
 The idea is briefly taken up in the 12th Ahnika also. (vi) Homa and Laya as part of worship culminate into the supreme subject.3 
+
 This point has been taken up in the 29th Ahnika also as part of Arcavidhi in Kulayaga. 
+
 (vii) An aspirant of the Samayī variety attains unity with the Godhead if he is steady with his prac- tice of knowledge in tune with his intellectual equip- ment. 4 
+
 This has specific relevance to Samayidikṣā in the 15th Ahnika. 
+
 (viii) When it is Agama versus Śruti on a common issue, it is Agama that may sublate the Vedic injunc- tion." 
+
 1. "स्वरूपे निर्वृतिं प्राप्य " (T.A. 5.75 ) इत्यादिना संवित्क्रमेण प्रागुच्चारः उक्तः सोऽप्यत्वानुसंधेयः संवित्क्रमस्य सर्वत्रैव भावात् ॥ T.A.V. III, p. 461 2. एतच्च प्रागेव विधिनिषेधतुल्यत्वाभिधानसमये निरूपितमित्यत एवाव- धार्यम् । 
+
 Ibid., VII, p. 104 ( 12th Ahnika) 3. तदुपायायेति मेयमानादिसोपानक्रमेण परप्रमातरि विश्रान्तेरुक्तत्वात् । 
+
 एतच्च शाक्तोपायाह्निक एव विभज्य उक्तमिति तत एव अवधार्यम् । 
+
 Ibid, XI, p. 63 4. स्वविज्ञानोचितमिति अकृतशिवतत्त्वयोजनिकोऽपि हि समयी तथा तथा ज्ञानमभ्यस्यंस्तदैकात्म्यं यायादित्याशयः । पुरा इति चतुर्थातिकादी । 
+
 5. क्वचिद्विषयतुल्यत्वाद् बाध्यबाधकता यदि । 
+
 तद्वाध्या श्रुतिरेवेति प्रागेवैतन्निरूपितम् ॥ Jayaratha explains प्रागिति चतुर्थीह्नि । 
+
 Ibid., IX, p. 9 
+
 T.A. 15.178 
+
 T.A.V., IX, p. 90 
+
 206 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 Besides, the minor issues, though forming major topics elsewhere, discussed in the 4th Ahnika, include-- 
+
 (1) The rise of intuitive knowledge (Pratibhajñāna) due to Suddha Vidya (13th Ahnika), 
+
 (2) inter se relationship between the Upayas (in the 
+
 first seven Ahnikas), 
+
 (3) Anupaya lacking the Upaya character (2nd 
+
 Ahnika), 
+
 (4) among Pralayakala subjects some become Mantra subjects by transcending the impure order and some continue to remain trans- migratory (9th Āhnika), 
+
 (5) Palli, Ghara, Chumma etc. (29th Ahnika), and (6) observance of Samayacara (15th Ahnika). 
+
 (e) FIFTH AHNIKA 
+
 (i) Because of subsidiary divisions there are infi- nite modes of Aṇavopāya.1 
+
 (ii) The host of practices like initiation etc., are subsumed under Aṇavopāya." 
+
 Initiatory practices are specially dealt with in the 15th Ahnika. 
+
 (iii) Expansion and contraction constitute the es- 
+
 1. क्रियोपायेऽभ्युपायानां ग्राह्यबाह्यविभेदिनाम् । 
+
 भेदोपभेदवैविध्यान्निः संख्यत्वमवान्तरात् ॥ 
+
 T.A. 1.164 
+
 2. दीक्षादिविचितः कर्मकलापः भावी वक्ष्यमाणः श्राणवेऽन्तर्भविष्यति । 
+
 T.A.V., I, p. 249 
+
 The above-noted statement is a remark by Jayaratha on T.A. 1.231- 
+
 भेदोपायं तदाणवम् ॥ 
+
 अन्ते ज्ञानेऽत्र सोपायं समस्तः कर्मविस्तरः ॥ प्रस्फुटनैव रूपेण भावी सोऽन्तर्भविष्यति ॥ 
+
 ABOUT THE TEXT 
+
 207 
+
 sence of dynamic principle called Mahāpīṭha (great seat) manifesting as creation and withdrawal.1 
+
 The subordinate items discussed include- ( 1 ) The notion of Kulesī ( 3rd Ahnika), (2) sound ( Rāva) is tenfold ( 3rd Ahnika), (3) concept of Visarga (emission) as linked with Lingasamapatti (grasp of phallus or sign)- (3rd Ahnika), 
+
 (4) ecstatic murmur or sigh also marks the initial 
+
 stage of meditational trance ( 3rd Ahnika), (5) the virility of Mantra finally rests in the prin- 
+
 ciple of consciousness (8th Ahnika), 
+
 (6) inter se hierarchy of Upāyas ( 3rd - 5th Ahnikas), 
+
 and 
+
 ( 7 ) Karanas ( 11th, 15th, 16th, 29th and 32nd Ah- 
+
 nikas). 
+
 (f) SIXTH AHNIKA 
+
 (i) The ultimate power, which is one with Siva, 
+
 1. Vide मूलाभिधमहापीठसंकोचप्रविकासयोः ॥ 
+
 ब्रह्माद्यनाश्रितान्तानां चिनुते सृष्टिसंहृती । 
+
 T.A. 6.186-7 
+
 Jayaratha adds “रासभी बडवा यद्वत्" (T.A. 5.58) इत्यादिप्रागुक्तयुक्त्या 
+
 जन्माधारोदितायाः शक्तेयौ संकोचविकासौ तौ . . । 
+
 The verses under reference read- 
+
 रासभी बडवा यद्वत्स्वधामानन्दमन्दिरम् ॥ विकाससंकोच मयं प्रविश्य हृदि हृष्यति । तद्वन्मुहुर्लीनसृष्टभावव्रातसुनिर्भराम् ॥ 
+
 T.A.V., I, p. 151 
+
 श्रयेद्विकाससंकोचरूढभैरवयामलाम् । T.A. 5.58-60 
+
 2. गुम्बसीत्कारसत्सम्यक्साम्यप्रथमसंविदः । 
+
 संवेदनं हि प्रथमं स्पर्शोऽनुत्तरसंविदः ॥ 
+
 T.A. 5.142 
+
 Jayaratha connects it with the 3rd āhnika. Says he यदुक्तं प्राक 
+
 क्षोभाद्यन्तविरामेषु तदेव परमामृतम् । 
+
 सीत्कारसुखसद्भाव समावेशसमाधिषु । 
+
 (T.A. 3. 167) 
+
 T.A.V., III, pp. 457-58 
+
 208 
+
 INTRODUCTION TO THE TANTRALOKA 
+
 consists of eightyone letters when reckoned by half Mātrās.1 The determinate thought marked by con- templation of 81 letters is conducive to the attain- ment of one's ultimate essence called Siva. 2 
+
 These eightyone letter are included within standard fifty letters of Nagari alphabet. This is dealt with in the 3rd and 7th Ahnikas. In fact this is a common theme of the 3rd and 6th āhnikas. 3 
+
 (ii) The sixfold division of the root passage (Sada- dhva) is nothing but a vibration of the Godly dynam- ism.4 
+
 This has reference to the 7th and 11th Ahnikas as well. 
+
 1. ग्रतएव चार्धमात्रागणनाक्रमेण एकाशीतिपदापि देवी वर्णपञ्चाशत्येवान्त- र्भावयिष्यते, इत्याह- 
+
 एकाशीतिपदा देवी ह्यवान्तर्भावयिष्यते ॥' (T.A. 3.197) 
+
 अत्रान्तर्भावयिष्यते इति एतन्निष्ठतयैव पर्यवसाययिष्यते, यद्वक्ष्यति — 
+
 "कालोऽर्धमात्राः . 
+
 . तु लृ ॥ 
+
 एकाशीतिमिमामर्ध मात्राणामाह नो गुरुः ॥ 
+
 यद्वशाद्भगवानेकाशीतिकमन्त्रमभ्यधात् ॥ 
+
 .शिवात्मिका । (T.A. 6.225-27) 
+
 2. एकाशीतिपदोदारशक्त्यामर्शात्मकस्ततः ॥ 
+
 विकल्पः शिवतादायी पूर्वमेव निरूपितः । 
+
 T.A.V., II, p. 190 
+
 T.A. 7.37-38 
+
 Although Jayaratha is silent here, Abhinava's 'पूर्वमेव' 
+
 obviously refers to T.A. 6.228-230 which reads- 
+
 तथा तथा परामर्शशक्तिचक्रेश्वरः प्रभुः ।.... एकाशीतिपदोदारविमर्श क्रमबू हित: ॥ 
+
 3. . एकाशीतिकलोदयः । इति प्रदर्शितपूर्वम् 
+
 .... 
+
 Jayaratha adds पूर्वमिति तृतीयषष्ठाह्निकादो । 
+
 । .... 
+
 T.A. 33.27 T.A.V., XII, p. 348 
+
 T.A. 11.50 
+
 4. तत्र शक्तिपरिस्पन्दस्तावान् प्राक् च निरूपितः ॥ Jayaratha adds यश्चायं षोढाध्वविभागः स पूर्वस्तच्छक्तिपरिस्पन्द एवेत्युक्तं प्राग्बहुशः । T.A.V., VIII, p. 41 ( 11th Ahnika ). Jayaratha's 'बहुश: ' implies the 6th and 7th Ahnikas also in addition to the 11th. 
+
 ABOUT THE TEXT 
+
 209 
+
 (iii) All these passages find their final repose in consciousness' or Prāna (breath). 
+
 This view is echoed in the 7th, 8th and 10th āhnikas. (iv) Tuti has four parts. 
+
 (v) First three phases of cosmic functionalism known as creation, sustenance and withdrawal.1 
+
 This is in contrast with the 14th and 13th āhnikas dealing respectively with the fourth and fifth function i.e., Tirobhava and Anugraha. 
+
 (vi) The great creation of Sakta order, and the three eggs as compared to the great creation.5 
+
 1. 
+
 T.A. 8.4 
+
 T.A. 10.254 
+
 अध्वा समस्त एवायं चिन्मात्रे संप्रतिष्ठितः । 2. सर्वाध्वनः पदं प्राणः संकल्पोऽवगमात्मकः । Jayaratha comments सर्वाध्वनः पदमिति स्थानम् यथा चैतत्तथा षष्ठाह्निक एव निर्णीतम् । T.A.V., VII, p. 173. Also vide- ननु प्राक् 'अन्तः संविदि सर्वोऽयमध्वा विश्रम्य तिष्ठति' (T.A. 6. 28 ) इति प्रतिज्ञातं तत्कथमिह कालाध्वनः प्राण एवैवं प्रतिष्ठितत्वमुच्यते इत्याशंक्याह --' इत्येष कालविभवः प्राण एव प्रतिष्ठितः ॥' (T.A. 7.62) 
+
 T.A.V., IV, p. 49 (7th Ah.) 
+
 3. समस्तेऽर्थे निर्ग्राह्ये तुटयः पोडश क्षणाः ॥ 
+
 षट्त्रिंशदङ्गुले चारे सांशद्व्यङ्गुल कल्पिताः । 
+
 Jayaratha adds सांशेति सचतुर्भागेत्यर्थः । यदुक्तम्, 
+
 T.A. 10.187-88 
+
 "तुटि: सपादाङ्गुलयुक्प्राणः ... 1 (T.A., 6.64) 
+
 T.A.V., V, pp. 129-30 
+
 4. तत्रास्य पूर्वं संहारचित्रतानिरूपणावसरे सृष्ट्यादित्रयं दर्शितं समनन्तरा- ह्निके चानुग्रहइति संप्रत्यवशिष्टं तिरोभावाख्यं पंचमं कृत्यं द्वितीयार्धेन प्रतिपादयितु- T.A.V., VIII, p. 215 
+
 माह । 
+
 5. सृष्टिसंस्थितिसंहारान्विधत्तेऽवान्तरस्थितीन् । 
+
 महासर्ग पुनः सृष्टिसंहारानन्त्यशालिनि ॥ 
+
 Jayaratha explains प्रवान्तरस्थितीन् इति शाक्तमहासृष्ट्याद्यपेक्षया । 
+
 यदुक्तं प्राक् (and refers to कालाग्निर्भुवि 
+
 T.A. 14.3 
+
 तस्मा T.A. 6.171-72) 
+
 महत्त्वमेवास्य दर्शयति सृष्टिसंहारानन्त्यशालिनीति । यदुक्तं प्राक् (and again 
+
 refers to श्रीमानघोरः 
+
 .... 
+
 महासृष्टिरुदाहृता । " T.A. 6.172-73). 
+
 T.A.V., VIII, pp. 216-17 
+
 210 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 (vii) Kāla as based on Prāna is the general theme. 1 
+
 This also forms an important topic of the 7th Ahnika and 28thāhnika (as identical with Kulaparva as part of Parvabheda under Bhairavakula). 
+
 (viii) The rise of Prāna. 
+
 3 
+
 2 
+
 This has again been discussed in the 28th Ahnika under the ancillary topic called Mrti. 
+
 (ix) The notion of the movement of Prāna (Prāna- cāra). Once a Mantra has been identified with either Prāņa or self there remains no difference between Mantra and its contemplator. 
+
 This has been discussed in the 29th Ahnika also. 
+
 The minor items include- 
+
 (1) Dynamicity is characterized by expansion and 
+
 contraction (5th Ahnika), 
+
 (2) several Astakas ( 8th Ahnika), and 
+
 (3) twelve Rudras (33rd Ähnika). 
+
 1. कुलपर्वेति तद्द्ब्रूमो यथोक्तं भैरवे कुले ॥ 
+
 हैडरे त्रिकसद्भावे त्रिककालीकुलादिके । 
+
 योऽयं प्राणाश्रितः पूर्वं कालः प्रोक्तः सुविस्तरात् ॥ Jayaratha clarifies पूर्वमिति षष्ठाह्निके सप्तमाह्निके च । 
+
 2. 
+
 स इति प्रथमः प्राणोदयः । 
+
 T.A. 28.14-15 
+
 T.A.V., XI, p. 9 
+
 तदुक्तं प्राक्- 
+
 सा प्राणवृत्तिः प्राणाद्य रूपैः पञ्चभिरात्मसात् । देहं यत्कुरुते संवित्पूर्ण स्तेनैव भासते । (T.A. 6.14) 
+
 3. यो विकल्पयते तस्य सिद्धिमुक्ती सुदूरतः । 
+
 अथ षोडशलक्षादि प्राणचारे पुरोक्तवत् ॥ 
+
 Though Jayaratha is silent, "पुरोक्तवत्" 
+
 T.A.V., XI, p. 87 
+
 T.A. 29.91 
+
 obviously refers to 
+
 the notion of Prāṇacara whose treatment commences with the T.A. 
+
 6.23 onwards.(g) SEVENTH AHNIKA 
+
 ABOUT THE TEXT 
+
 211 
+
 (i) It is the power of pure awareness that assumes the form of a Nadi.1 
+
 1 
+
 (ii) In common with the sixth Ähnika it propounds the theme of Kāla as dependent upon Prāna." 
+
 (iii) The kindling of rise of cycles means the kind- ling of uttered Mantras.3 
+
 This forms the special feature of the 32nd Ahnika. The minor issues involve- 
+
 (1) Inter se relationship of Upayas (3rd, 4th and 
+
 5th Ahnikas), 
+
 (2) propounding 81 letters in the sound-system 
+
 (6th Ahnika), 
+
 (3) final rest of all the passages in consciousness 
+
 (6th and 8th Ahnikas), and 
+
 (4) sixfold division of the cosmic passage (6th 
+
 and 11th Ahnikas). 
+
 (h) EIGHTH ALINIKA 
+
 (i) Regions falling under Desädhvan are innumer- able and varied which constitute the world. Lack- 
+
 1. Commenting on the T.A. 8.283 (पुंसि नादमयी शक्तिः प्रसराख्या च यत्स्थिता) Jayaratha observes यदुक्तं प्राक् 
+
 "चित्स्पन्दप्राणवृत्तीनामन्त्या या स्थूलता सुषिः । 
+
 सा नाडीरूपतामेत्य देहं सन्तानयेदिदम् ॥” (T.A. 7.66) 
+
 2. Scc item (vii) supra under sixth Ähnika. 3. बोधावेशः सन्निधिरैक्येन विसर्जनं स्वरूपगतिः । 
+
 शङ्कादलनं चक्रोदयदीप्तिरिति क्रमात्कृत्यम् ॥ 
+
 T.A.V., V, P. 194 
+
 T.A. 32.67 
+
 While explaining Abhinava's above verse Jayaratha comes out with the following observation- 
+
 चक्रोदयदीप्तिरिति सप्तमाह्निकनिरूपितस्थित्या उदितानां मन्त्राणां दीप्तिर्दीपनमित्यर्थः । 
+
 T.A.V., XII, p. 335 
+
 4. देशाध्ववक्ष्यमाणनीत्या निःसंख्याकत्वादनन्ता नानासंनिवेशात्मकत्वाच्च 
+
 212 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 ing as it does in essence, it is as good as a dream- abode. 
+
 (ii) The virility of Mantra basically rests on con- sciousness.1 
+
 2 
+
 This is taken up in the 5th Ahnika as well. (iii) All the octads (Astakas) such as eight parts of a day etc., eight deities, eight powers etc. etc. 
+
 This is again dealt with in the 9th Ahnika. (iv) Treatment of the passage called Desa. 3 (v) The heterogeneous effects such as intelligence (Mahat) etc., are caused by inequilibrium of Gunas. 1 
+
 (vi) Not only 'spatial passage' but its subdivisions also owing to difference in Guņas. 
+
 चित्राः अतएव सन्तः शोभना गर्भा भुवना नियस्यैवंविधो यः संसारस्तत्तत्तत्त्वात्मा विश्वस्फारः स एवासारत्वात् स्वप्नसद्म । 
+
 1. तत्र विश्रान्तिमागच्छेद्यद्वीर्यं मन्त्रमण्डले । 
+
 शान्त्यादिसिद्धयस्तत्तद्रूपतादात्म्यतो यतः ॥ 
+
 Jayaratha observes संविद्विश्रान्तिमन्तरेण हि न भावः । यद्वक्ष्यति - 'यत्तत्र नहि विश्रान्तं तन्नभः कुसुमायते ।' 
+
 2. एते च सर्व एवाष्टका भुवनाध्वनि वक्ष्यन्ते इति तत तद्व्यावर्णनग्रन्थविस्तरेण । 
+
 Ibid., II, p. 257 
+
 T.A. 5.82 
+
 किंचिदेव भवेदिति 
+
 (T.A. 8.3) T.A.V., II, p. 393 एवावधार्याः इति किं 
+
 Ibid., IV, p.62 
+
 3. तत्पदमन्त्रवर्णात्मना विप्रकारः कालाध्वा विचारितः इति तदानन्तर्येण युक्तं देशाध्वनोऽत्र निरूपणम् इत्यत एव क्रमेण भुवन तत्त्व कलाप्रतिपादकं वक्ष्यमाण- माह्निकचतुष्टयम् । 
+
 Ibid., V, p. 2 
+
 According to this, the 8th āh will deal with regions of space, the 9th and 10th with categories and the 11th with Kalās. 
+
 4. कार्यमिति महदादि विजातीयमिति गुणानां वैषम्यात् । इत्येतच्च पुरा भुवनाध्वनिरूपणावसरे एवोक्तम् इति न पुनरिहायस्तम् । Ibid., VI, p. 179 
+
 5. भुवनं पुगथेवाल दर्शितं गुणभेदतः । 
+
 T.A. 9.224 
+
 Jayaratha remarks अव च ग्रन्थिवत् भुवनविभागोऽपि पूर्वमेव दर्शितः 
+
 तदुक्तं प्राक्- 
+
 'क्रमात् तमोरजःसत्त्वे गुरूणां पक्तयः स्थिताः । 
+
 तिस्रो द्वात्रिंशदेकातस्त्रिंशदप्येकविंशतिः ॥' (T.A. 8.260-261) 
+
 T.A.V., VI, p. 180 
+
 ABOUT THE TEXT 
+
 This issue is relevant to the 9th Ahnika also. 
+
 213 
+
 (vii) The theme of Desa, together with that of categories and Kalas, is objective in character.1 
+
 Tattva and Kala discussed respectively in the 9-10th and 11th Āhnikas share the objective character of Deśa while the passages of Pada, Mantra and Varna partake of the subjective character and are treated in the later part of the 11th Ahnika. 
+
 (viii) The concept of Vidyapadma' (lotus consist- ing of Suddhavidya-pure knowledge) which is be- low Brahmarandhra and also the trans-Māyā region of Brahma.3 
+
 These types have been dealt with again in the 15th Ahnika. (ix) Under the nine types of 'piercing' (Vedha), the 'piercing' relating to regions.* 
+
 This is in fact one of the major constituents of the last ancillary topic under Rahasyaprakriya in the 29th Ahnika. The minor items include - 
+
 (1) Incidental discussion of the passage of time' 
+
 1. मेयभागगतः प्रोक्तः पुरतत्वकलात्मकः । 
+
 अधुना मातृभागस्थं रूपं तेधा निरूप्यते ॥ Jayaratha explains प्रोक्तः प्रोक्त इत्यष्टमाह्निकात् 
+
 2. विद्यापद्मेऽत्र तच्चोक्तमपि प्राग्दश्र्श्यते पुनः ॥ Jayaratha adds प्रागिति भुवनाध्वनि । पुनर्दश्यते 
+
 T.A. 11.431 
+
 प्रभृति । T.A.V., VII, p. 36 
+
 T.A. 15.304 
+
 इति प्रतीतिदा याय । 
+
 T.A.V., IX, p. 153 T.A. 15.308 
+
 3. मायोत्तीर्णं हि यद्रूपं ब्रह्मादीनां पुरोदितम् । Jayaratha has the same explanation पुरेति भुवनाध्वनि । 
+
 T.A.V., IX, p. 154 
+
 4. देहं स्वच्छीकृत्य क्षादीनान्तान् स्मरन्पुरोक्तपुर्योधान् । 
+
 निजमण्डनिर्ध्यानात् प्रतिबिम्बयते भुवनवेधः ॥ Jayaratha comments पुरेति श्रष्टमाह्निकादौ । 
+
 T.A. 29.260 
+
 T.A.V., XI, p. 161 (29th Āh.) 
+
 214 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 ( Kālādhvan ) consisting of Pada, Mantra and Varna (11th Ahnika), 
+
 ( 2 ) individual's power (which is) of the nature of sound designated as Prasarā (7th Ahnika), and ( 3 ) agency as belonging to Purusa and not to in- 
+
 ert Prakrti (9th Ahnika). 
+
 (i) NINTH ĀHNIKA 
+
 (i) All the categories within the fold of Mayā are known through inference from their effects.1 
+
 (ii) The two types of Pralayakala subjects-some belonging to Mantra cadre beyond the realm of Māyā and others continuing as empirical subjects glued to transmigration are due to variety of Karma Mala.2 (iii) Kārma Mala is absent in Vijñānākala subject. (iv) Vijñānākala acts as a ladder to the attainment of Sivahood. 4 
+
 1. इत्याद्युक्तेः तन्मात्राणि इति, स्वकार्येभ्यो भूतेभ्य एषाम् अनुमेयत्वम्। एवम् अनेनैव अनुमानेन मायान्तः सकलतत्त्ववर्गोऽनुमातव्यः । एतच्च तत्त्वाध्वनि भविष्यति इति नेहायस्तम् । 
+
 T.A.V., I,p. 219 
+
 2. ननु समानेऽपि प्रलयाकलत्व के षांचिन्मन्त्रत्वम् केषांचित् संसारित्वम् इत्यत्र कि निमित्तम् इत्याशंक्याह -- 
+
 " एतच्चाग्रे तनिष्याम इत्यास्तां तावदत्र तत् ।" (T.A. 4.32) श्र इति नवमाह्निकादौ यद्वक्ष्यति " एतत्कामंमलं प्रोक्तं चित्रं 
+
 कर्मतः चित्राच्च ।" (T.A. 9.138-141 ) 
+
 3. प्रकृतं ज्ञानाकलस्योक्तचरस्य यत् । 
+
 .... 
+
 T.A.V., III, p. 37 
+
 T.A. 9.117 
+
 Jayaratha comments उक्तचरस्य इत्यनेन प्रागुक्तं कामंमलाभावोपपादकं निखिलमेव प्रमेयमनुस्मारितम् प्रतश्च विज्ञानाकलस्य कार्ममलो नास्ति । 
+
 .... 
+
 T.A.V., Vi, p. 95 
+
 " 
+
 4. ननु विज्ञानालस्य " निष्कर्मा हि स्थिते याति शिवात्मताम् (T.A. 9.90-93 ) इत्यादिप्रागुक्तयुक्त्या मन्त्रमन्त्रेश्वरमन्त्रमहेश्वरत्वाय अभि- धीयतां प्रबोधः... 
+
 T.A.V., VII, p. 98 
+
 Vide also- 
+
 1 
+
 ABOUT THE TEXT 
+
 215 
+
 (v) The rise of Vijñanakala subject is consequent the differentiation between Puruşa and Prakṛti in the wake of exhaustion of all the deeds.1 
+
 upon 
+
 This is briefly taken up in the 10th and 13th āhnikas. (vi) Within the realm of Maya all the categories from Kalā down to earth differ from self to self.2 
+
 (vii) Sakti category is the instrument of Siva cate- gory.3 
+
 This concept has been discussed in the 10th Ahnika in detail. 
+
 (viii) Concept of ignorance called Mala. 
+
 विज्ञानाकलतां प्राप्तः केवलादधिकारतः ॥ मलान्म तदीशादिभावमेति सदा शिवात् । Jayaratha connects it with the 9th Ahnika- 
+
 यदुक्तं प्राक् "स पुनः याति शिवात्मताम् ।” 
+
 1. शानाकलः प्राक्वनस्तु कर्मी तस्याश्रयसंस्थितेः । Jayaratha adds तदुक्तं प्राकृ "ता मायापविवेकः (T.A. 9.185) 
+
 2. कलादिवसुधान्तं यन्मायान्तः संप्रचक्षते ॥ 
+
 प्रत्यात्मभिन्नगिवैतत् गुखदुःखादिभेदतः । 
+
 Jayaratha adds संप्रचक्षते इत्यग्रे । 
+
 T.A. 13.275 
+
 T.A.V., X, p. 169 
+
 T.A. 13.274 
+
 यात्यतः पुमान् ॥” T.A.V., VII, p. 168 
+
 T.A. 9.187-88 
+
 T.A.V., VI, p. 130 
+
 अग्रे would mean later in the 9th Ahnika itself. 
+
 3. स्वातन्त्र्यमात्रसद्भावा या त्विच्छा शक्तिरैश्वरी । 
+
 शिवस्य सैव करणं तथा वेत्ति करोति च । 
+
 T.A. 10.17 
+
 Jayaratha connects it with the 9th Ahnika उक्तं च प्राक् इति 
+
 "तेनाशुद्धैव विद्यास्य सामान्यं करणं पुरा । 
+
 ज्ञप्तौ कृतौ तु सामान्यं कला करणमुच्यते ॥ " (T.A. 9.244) 
+
 4. प्रतोच्यते मलस्तावदित्थमेष न युज्यते । 
+
 इति पूर्वाह्न के प्रोक्तं पुनरुक्तौ तु किं फलम् ॥ 
+
 T.A.V., VII, p. 12 
+
 T.A. 13.53 
+
 T.A.V., VIII, p. 37 
+
 Jayaratha identifies the Ahnika पूर्वाह्निक इति नवमाह्निकादौ । 
+
 216 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 This has been discussed in the 1st Ahnika also, primarily as an offshoot of freedom. 
+
 (ix) Concept of specific type of ignorance called Karma Mala which is relied upon by the self as an instrument to bind itself owing to its intrinsic free- dom.1 
+
 Both of these items vide serial No. (viii) and (ix) figure in the 13th Ahnika as well. 
+
 (x) Both, the pentadic system of categories and the triadic system thereof (Pañcatattvavidhi and Tritattva- vidhi), originate from the variation in primary categories.* 
+
 This view is held in common with the 10th Ahnika and is incidentally discussed in the 11th Ähnika. 
+
 (xi) Agency belongs to conscious principle called Puruşa and not to inert Prakṛti. 
+
 (xii) Initiation of the dying due to inherent pot- ency of Mantra. ' 
+
 1. स स्वयं कल्पिताकारविकल्पात्मककर्मभिः । 
+
 बधनात्यात्मानमेवेह स्वातन्त्र्यादिति ॥ 
+
 T.A. 13.104 
+
 Observes Jayaratha कार्मेण मलेन स्वस्वातन्त्र्यादात्मानं बध्नाति 
+
 तत्तज्जात्यायुर्भोगवैचित्येण संसरति -- इति नवमाह्निकाद उक्तप्रायम् । 
+
 T.A.V., VIII, p. 70 
+
 2. इमौ भेदावुभौ तत्त्वभेदमात्रकृताविति । 
+
 तत्त्वाध्ववायमित्थं च न षडध्वस्थितेः क्षतिः ॥ 
+
 T.A. 11.36 
+
 Jayaratha's remarks श्रयमिति समनन्तराह्निकद्वयोक्तः । [T.A.V., 
+
 VII, p. 32 (11th āhnika) ] precisely implies immediately preceding 
+
 9th and 10th āhnikas. 
+
 3. एतच्च समनन्तराह्निके एव साधयिष्यते तत एवावधार्यम् । 
+
 4. 
+
 तत्र त्वेषोऽस्ति नियम श्रसन्ते मरणक्षणे । 
+
 तां कुर्यान्नान्यथारब्ध कर्म यस्मान्न शुध्यति ॥ उक्तं च पूर्वमेवैतन्मंत्रसामर्थ्ययोगतः । प्राणैर्वियोजितोऽप्येष भुङ्क्ते शेषफलं यतः ।। 
+
 T.A.V., V, p. 195 
+
 T.A. 13.236-37 
+
 ABOUT THE TEXT 
+
 217 
+
 This is discussed briefly in the 13th Ahnika and specially in the 19th Ahnika. 
+
 (xiii) There is gradual hierarchy amongst the Vais- navas, Mantra subjects, Mantresa subjects etc. Al- though they all are under the spell of ignorance they mark out the stages of gradual awakening.1 
+
 This is discussed again in the 10th Ahnika and also in the 35 th āhnika from a different point of view. 
+
 (xiv) That form of deity alone which is dense or compact with awareness and bliss is worthy of being adored.2 
+
 This theme is shared by the 9th Ahnika in common with the 13th. This again figures in the 26th āhnika as a part of the residual daily routine (Sesavṛtti under Nityakarma- vidhi). 
+
 Among the auxiliary items covered are the follo- wing- 
+
 (1) Fifty varieties of immersion ( 3rd and 9th Ah- 
+
 nikas), 
+
 Jayaratha comments on उक्तं न पूर्वमेवैतद् as पूर्वमिति नवमाह्निके। (T.A. 9.130-31 ) यदुक्तं तब 
+
 इत्यादि । 
+
 "आरब्धकार्य देहेऽस्मिन्यत्पुनः कर्म तलथम् ॥ उच्छिद्यतामन्त्यदर्श निरोद्धुं न हि शक्यते ॥ " 
+
 1. भावनादिबलादन्यवैष्णवादिनयोदितात् ॥ 
+
 यथास्वमाधरौत्तर्यविचित्रात्संस्कृतस्तथा । लीनः प्रबुद्धो मन्त्रत्वं तदीशत्वमथैति वा । 
+
 T.A.V., VIII, p. 147 
+
 T.A. 10.135-36 
+
 Jayaratha explains तथेति यथास्वमाधरोत्तर्येणैवेत्यर्थः । वैष्णवादिनयानां च यथास्वमाधरोत्तर्यं पूर्वमेव वितत्य निर्णीतमिति नेहायस्तम् । तदुक्तं प्राक् 
+
 "ये पुनः 
+
 ...... 
+
 च कर्मतः " (T.A. 9.140-41) 
+
 2. कृत्वा जपं ततः एवं देवतायै समर्पयेत् । 
+
 तच्चोक्तं कर्तृतातत्त्वनिरूपणविधौ पुरा ॥ 
+
 T.A.V., VII, p. 97 
+
 T.A. 26.68 
+
 Jayaratha suggests पुरेति नवमत्रयोदशाह्निकादौ । T.A.V, X, p. 352 
+
 218 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 (2) non-reversal of the deed that has commenced 
+
 giving fruits (19th Ahnika), and 
+
 (3) ineffectiveness of the principle of Kala (limited action) in the initiation relating to immediate salvation (19th Ahnika). 
+
 (j) TENTH AHNIKA 
+
 (i) The macrocosmic character of the categories beginning with earth etc. due to internal sub-division such as fifteen etc.1 
+
 This is briefly discussed in the 1st Ahnika. 
+
 (ii) Five stages, beginning with waking or Pinda- stha as the object of Yogins and Jñānins.* 
+
 This idea is extended to Kulayåga in the 29th Ahnika as well. 
+
 (iii) It is through identification with the self that the subject is able to cognize all the objects." 
+
 The ancillary issues discussed are- 
+
 (1) Absence of Karma impurity in the Vijñānā- 
+
 kala subject (9th and 13th Ahnikas), 
+
 (2) graded hierarchy among the subjects such as Vaisnavas, Mantra, Mantresa etc., (9th Ahnika), (3) final repose of all the passages (Adhvan) in 
+
 Prāṇa (6th Ahnika), 
+
 1. धरादेविश्वरूपत्वं पाञ्चदश्यादिभेदतः । 
+
 T.A. 1.196 
+
 Jayaratha adds एतच्च तत्त्वभेदने भविष्यति इति ग्रन्थविस्तरभयात् नेह 
+
 श्रायस्तम् । 
+
 2. पिण्डस्थादि च पूर्वोक्तं सर्वातीतावसानकम् । 
+
 अवस्थापञ्चकं प्रोक्तभेदं तस्मै निरूपयेत् ॥ 
+
 T.A.V., I, p. 223 
+
 T.A. 29.224 
+
 T.A. 10.112 
+
 Jayaratha makes the suggestion explicit पूर्वेत दशमाह्निके saffa fafafa T.A.V., XI, p. 143 (29th Ahnika) 
+
 3. प्रमाता स्वकतादात्म्यभासिताखिलवेद्यकः । Jayaratha adds स्वकतादात्म्येति न तु मन्त्रमन्त्रेश्वरादिवद्भेदाभेदादि- रूपतयेत्यभिप्रायः । एतच्चाह्निकारम्भ एव निर्णीतप्रायमिति नेह पुनरायस्तम् । 
+
 T.A.V., VII, p. 83 
+
 ABOUT THE TEXT 
+
 (4) four parts of Tuți (6th Ahnika), 
+
 219 
+
 (5) success of a means of knowledge as depend- 
+
 ing on subject (1st Ahnika), and 
+
 (6) absence of Yoga in the fifth--Turyãtita- 
+
 stage (2nd Ahnika). 
+
 (k) ELEVENTH AHNIKA 
+
 (i) The Karana (i.e., instrument, techincally 'con- scious practice') of pure awareness.1 This forms the 6th Upaya under Aṇava-upaya. 
+
 This is partly discussed in the 5th Ahnika. 
+
 (ii) Comprehensive treatment of Kaladhvan as one of the three sub-passages under Deśādhavan.2 
+
 The topic has been introduced in the 8th Ahnika. 
+
 (iii) Discussion on the three sub-passages e.g., Pada, Mantra and Varna, as constituting Kālādhvan (i.c., passage of time or dynamicity) and as being subjective is character." 
+
 The idea is initially mooted out in the 8th and subsequent Ähnikas. 
+
 (iv) The assignment of Padadhvan (word-passage) in Putrakadikṣā as ancillary to Sodhyavaicitrya (variety of the items subject to refinement)." 
+
 1. तथाहि " यत्तु सर्वाविभागात्म स्वतंत्र बोधसुन्दरम् || 
+
 सप्तत्रिंशं तु तत्प्राहुस्तत्त्वं परशिवाभिधम् ।" (T.A. 11.21-22) 
+
 इत्यादिनैकादशाह्निके संवित्तेः । 
+
 2. 
+
 चतुष्टयम् । 
+
 T.A.V., III, p. 442 
+
 . इत्यत एव क्रमेण भुवनतत्त्व कलाप्रतिपादकं वक्ष्यमाणमाह्निक- 
+
 3. मेयभागगतः प्रोक्तः पुरतत्त्वकलात्मकः । 
+
 अधुना मातृभागस्थं रूपं तेधा निरूप्यते ॥ Jayaratha supplements प्रोक्त इत्यष्टमाह्निकात्प्रभृति । 
+
 4. अपरादिविधिर्ततादथ न्यासः पदाध्वनः । 
+
 पूर्वं दशपदी चोक्ता स्वतन्त्रा न्यस्यते यदा ॥ 
+
 T.A.V., V, p. 2 
+
 T.A. 11.43 
+
 T.A.V., VII, p. 36 
+
 T.A. 16.132 
+
 220 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 (v) Same is the case with the assignment of Man- trādhvan (Mantra-passage). 1 
+
 These two items figure in the 16th āhnika as well. 
+
 (vi) Sixfold division of the passages is nothing but the vibration of power. 
+
 This is mainly discussed in the 6th and 7th Ahnikas. (vii) The notion of gradual purification of the pas- sages (Adhvaśuddhi) as derived from the Svacchan- datantra.3 
+
 Its non-sequential counterpart is taken up in the 18th Ahnika. 
+
 The ancillary issues treated include the pentadic and the triadic systems of categories (9th and 10th āhnikas). 
+
 (1) TWELFTH ĀHNIKA 
+
 The Ahnika primarily aims at bringing out the uti- lity of Adhvans. However, during discussions no major item has been pointed out either by Abhinava- 
+
 Jayaratha explains पूर्वमिति as एकादशाह्निकादी । T.A.V., X, p. 55 
+
 1. मन्त्राध्वनोऽप्येष एव विधिविन्यासयोजने ॥ 
+
 T.A. 16.138-39 T.A.V., X, p. 57 
+
 व्याप्तिमात्रं हि भिद्येतेत्युक्तं प्रागेव तत्तथा । Jayaratha's explains प्रागिति एकादशाह्निकादौ । 2. तत्र शक्तिपरिस्पन्दस्तावान् प्राक् च निरूपितः । Jayaratha's following comment does not reference is obvious - यश्चायं षोढाध्वविभागः स पूर्वस्तच्छक्तिपरिस्पन्द 
+
 T.A.V., VII, p. 41 
+
 एवेत्युक्तं प्राग्बहुशः । 
+
 explain 
+
 T.A. 11.50 
+
 but 
+
 3. ननु शोध्यस्य षड्विधस्याप्यध्वनः का नाम शुद्धिरित्याशंक्याह । अत्र तदेतत् ... सर्व शोधनमाख्यातं संस्कारजातं श्रीमत्स्वच्छन्दशास्त्राद्युक्त- रूपात क्रमाद् भवेत् । 
+
 च ... 
+
 T.A.V., VII, p. 68ABOUT THE TEXT 
+
 221 
+
 gupta or by Jayaratha. Among the ancillary topics covered is the parity between injunction and prohi- bition (Nisedhavidhitulyatva -T.A. 12.14-22) which forms an important topic in the fourth Ahnika. 
+
 (m) THIRTEENTH AHINIKA 
+
 (i) Gradual loss of innate impurity (ānava Mala) as invariably linked up with variation in the descent of divine grace. ' 
+
 This is one of the main themes in 1st Ahnika. 
+
 (ii) Variation in the descent of divine grace. 
+
 The 4th Ahnika too discusses this issue in detail. 
+
 (iii) Grace (Anugraha) as the sole cause behind the removal of ignorance i.e., delimitation, and its twofold division into (a ) quick and (b) gradual. s The entire creation ensues from the principle of de- limitation or contraction. 
+
 1. तथाप्यावृतिनिहागतारतम्याता लक्ष्यते ॥ 
+
 तद्विस्तरेण वक्ष्यामः 
+
 समाप्य परतां स्थीत्यप्रसंगे नर्चयिष्यते ॥ Jayaratha remarks वक्ष्यामः । भद्रश्यति--- 
+
 'तारतम्यप्रकाश यस्तीत्रमध्यमगन्दताः ॥ 
+
 । 
+
 ता एव शक्तिपातस्य प्रत्येकं वैधमास्थिताः ॥ ' (T.A. 13.129-30) इत्यादि बहुप्रकारम् । 
+
 2. गुरुशास्त्रगते सत्त्वेऽसत्त्वे चात्र विभेदकम् । 
+
 शक्तिपातस्य वैचित्यं पुरस्तात्प्रविविच्यते ॥ 
+
 T.A. 1.138-39 
+
 T.A.V., I, p. 179 
+
 T.A. 4.37 
+
 Jayaratha explains वेति समनन्तरोक्ते, पुरस्तादिति शक्तिपाताह्निकादौ । 
+
 3. संकोचहानिरूपेऽस्मिन्कथं हेतुरनुग्रहे । 
+
 अनुग्रहश्च क्रमिकस्तीव्रश्चेति विभिद्यते ॥ प्राक् चैष विस्तरात्प्रोक्त इति किं पुनरुक्तिभि: । Jayaratha adds प्रागिति शक्तिपातपरीक्षाह्निके । The exact reference is to the T.A. 13.114-116. 
+
 T.A.V., III, p. 41 
+
 T.A. 28.235-36 T.A.V., XI, p. 93 
+
 222 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 This point is briefly touched in the 28th āhnika. 
+
 (iv) Two types of descent of grace, namely pri- mary and secondary. The primary is characterised by complete devotion to the Godhead without any desire for fruit, while the secondary is marked by desire for fruit necessarily involving deeds etc.1 
+
 (v) Due to the unrestricted Godly will the purity of consciousness may be inherited from previous birth.2 
+
 (vi) The intuitional wisdom, having an all-encom- passing scope, arises from the principle of pure knowledge (Suddhavidyā) alone and does not de- pend either on guide or on scripture.3 
+
 This is discussed in the 1st, 2nd and 4th āhnikas as well. 
+
 (vii) Refutation of dualists' position in treating ignorance or impurity as a substance and initiation as an activity and consequent depiction of the pre- 
+
 1. 
+
 अनपेक्ष्य शिवे भक्तिः शक्तिपातो फलार्थिनाम् । 
+
 या फलाथितया भक्तिः सा कर्माद्यमपेक्षते ॥ T. A. 13.118 
+
 Jayaratha adds एवमाद्यः परः शक्तिपातो, द्वितीयस्त्वपर इति सिद्धम् । यद्व- क्ष्यति - " इदं सारमिह पर्यन्ते शिवताप्रदः ।। " (T.A. (13.254-256) इति । 
+
 T.A.V., VIII, p. 80 
+
 ... 
+
 2. नैर्मल्यं संविदश्चेदं पूर्वाभ्यासवशादथो ॥ 
+
 अनियन्त्रेश्वरेच्छात इत्येतच्चर्चयिष्यते । 
+
 T.A. 186-87 
+
 T.A.V., I, p. 215 
+
 Jayaratha explains पूर्वाभ्यासो जन्मान्तरीयः इति श्रतएव 
+
 चर्चयिष्यते त्रयोदशाह्निकादी । 
+
 3. यद् (शुद्धविद्या) वशादेव अस्य गुरुशास्त्रानपेक्षं सर्वविषयं 
+
 प्रातिभं महाज्ञानमुदियात् यद्वक्ष्यति - 
+
 मध्यतीव्रात्पुनः सर्वमज्ञानं विनिवर्तते । 
+
 अयमेव यतो याति बन्धमोक्षतथात्मताम् ।। 
+
 तत्प्रातिभं महाज्ञानं शास्त्राचार्यानपेक्षि यत् । (T.A. 13.131-32) 
+
 T.A.V., III, p. 51 
+
 ABOUT THE TEXT 
+
 223 
+
 cise role of all the three impurities-Anava, Kärma and Māyiya.' 
+
 (viii) Individuation stems from the Godly freedom which alone, in the final analysis, is the ultimate resi- due. " 
+
 (ix) A teacher/guide is to be initiated at the time of the descent of grace." 
+
 The method of such initiation has been outlined in the 16th āhnika. 
+
 (x) Introduction of the idea of Lingoddhāradiksā. 
+
 This is the main them of the 22nd Ahnika. 
+
 (xi) Modality of Anuttara Dikṣa as enjoined in different tantric systems." 
+
 1. मलो नाम किल द्रव्यं चक्षुःस्थपटलादिवत् । 
+
 तद्विहन्त्री क्रिया दीक्षा त्वञ्जनादिकर्मवत् ॥ 
+
 तत्पुरस्तान्निषेत्स्यामो युक्त्यागमविगर्हितम् । मलमायाकर्मणां च दर्शयिष्यामहे स्थितिम् ॥ 
+
 T.A. 1.239-40 
+
 Although Jayaratha does not offer any clue with regard to पुरस्तात् and दर्शयिष्यामहे, the reference is obviously to the 9th and 13th Ahnikas. 
+
 2. स्वातन्त्र्यान्तु तिरोभावबन्धो भोगेऽस्य भोक्तृताम् । 
+
 पुष्णन्स्वरूपमेव स्थान्भलकर्मादिर्वाजतम् ॥ 
+
 Jayaratha observes यदुक्तं प्राक्- 
+
 इति । 
+
 T.A. 13.265 
+
 "देवः स्वतन्त्रश्चिद्रूपः ...अप्यणुतामयः । (T.A. 13.103-05) 
+
 3. इति प्रमेयं कथितं दीक्षाकाले गुरोर्यथा ॥ Comments Jayaratha इतीत्थमेतत्प्रमेयमिहोयतं 
+
 काले शक्तिपातावसरे गुरोर्दीक्षा कार्या भवेदिति । 
+
 T.A.V., VIII, p. 163 
+
 T.A. 16.311 यथा येन प्रकारेण 
+
 T.A.V., X, p. 127 
+
 T.A. 22.1 
+
 4. लिङ्गोद्धाराख्यामथ यच्मः शिवशासनकनिविष्टाम् । Jayaratha explains एकेति as यदुक्तं प्राक् and quotes T.A. 13.357-359 
+
 vide T.A.V., X, p. 244. 
+
 5. सिद्धान्ते दीक्षितास्तन्त्रे दशाष्टावणभेदिनि ॥ 
+
 भैरवीये चतुःषष्टौ तान्पशून्वीक्षत्रिके । सिद्धवीरायलसारे भैरबीये कुलेऽपि च ।। 
+
 पञ्चदीक्षाक्रमोपात्ता वीक्षामुत्तरसंज्ञिता । 
+
 T.A. 22.40-42 
+
 224 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 (xii) The method behind attainment of salvation, even without support from a teacher, by an aspirant who rejoins the system after drifting away under the spell of ignorance.1 
+
 Although it is the prime concern of the 23rd Ahnika, the procedure has been detailed in the 13th Ahnika. 
+
 (xiii) Principle of agency which also includes total surrender of all Japa to the Godhead which is com- pact with consciousness and bliss." 
+
 This is held in common with the 9th Ahnika. Incidentally the 26th Ahnika also pays attention to it. 
+
 Among the ancillary items the following find spe- cial mention-- 
+
 (1) The hierarchical relationship among the means of redemptive knowledge (Upayas) (Ist Ah- nika), 
+
 (2) the great creation of Sakta class (6th and 14th 
+
 Ähnikas), 
+
 (3) absence of Karma Mala in Vijñānākala sub- 
+
 jects (9th Ahnika), 
+
 Jayaratha says all this has been duly considered in the 13th āhnika एतच्च त्रयोदशाह्निक एव विचारितमिति तत एव श्रवधार्यम् । 
+
 1. भवेत्कोऽपि तिरोभूतः पुनरुन्मुखितोऽपि सन् । 
+
 T.A.V., XI, p. 252 
+
 T.A. 23.94 
+
 विनापि दैशिकात् प्राग्वत् स्वयमेव विभुरुच्यते ॥ Jayaratha adds सन्नपीति प्रागपि योज्यम् । प्राग्वदिति त्रयोदशाह्निकादी 
+
 प्रोक्तक्रमेण इत्यर्थः । 
+
 T.A.V., X, p. 300 
+
 2. Jayaratha explains पुरा as नवमत्रयोदशाह्निकादौ (T.A.V., X, p. 352 ) while commenting upon the following verse- 
+
 कृत्वा जपं ततः सर्वं देवतायै समर्पयेत् । तच्चोक्तं कर्तृ तातत्त्वनिरूपणविधौ पुरा ॥ 
+
 IT 
+
 T.A. 26.68 
+
 } 
+
 ABOUT THE TEXT 
+
 225 
+
 (4) pre-eminent position of the teacher of Akal- pitakalpaka, specially Samsiddhika, type and identity of Svayambhu with Samsiddhika (4th Ahnika), 
+
 (5) initiation of the dying (Maranāsannadiksā) 
+
 (9th Ähnika), 
+
 (6) primary ignorance and Kārma ignorance (9th 
+
 Ahnika) and 
+
 (7) Lingoddhārādidiksa's irrelevance to the secker 
+
 of Trika principle (Trikārthin) (9th āhnika). 
+
 (n) FOURTEENTH AHNIKA 
+
 (i) Initiatory activity is mainly addressed to those who are devoid of knowledge.1 
+
 The idea finds its echo in the 15th and 16th āhnikas as well. (ii) The fourth phase of Godly functionalism namely, disappearance (Tirobhāva). 
+
 ( o ) FIFTEENTH AIINIKA 
+
 (i) Inclusion of the host of activities represented by initiation etc. in Anava Upāya." 
+
 This is also a prominent point of discussion in the 5th Ahnika. 
+
 1. ज्ञानोपायस्तु दीक्षादिक्रिया ज्ञानवियोगिनाम् । 
+
 इत्यधुनैवास्तां स्वप्रस्तावे भविष्यति ॥ 
+
 T.A. 13.155 
+
 Jayaratha adds अधुना श्रास्तामेवेति शक्तिपातविचित्रतानिरूपणावसरे तत्प्रसंगाभावात् । अतएवोक्तं स्वप्रस्तावे भविष्यति । स्वप्रस्ताव इति दीक्षाप्रकरणे । 
+
 T.A.V., VIII, p. 99 
+
 2. इति संप्रत्यवशिष्टं तिरोभावाख्यं पञ्चमं कृत्यं द्वितीयार्धेन प्रतिपादयितु- 
+
 माह - 'तिरोभावस्वरूपं तु कथ्यमानं विविच्यताम् ।' (T.A. 14.1 ) 
+
 Ibid., VIII, p. 215 
+
 3. दीक्षादिविचित्रकर्मकलापः भावी वक्ष्यमाणः प्राणवेऽन्तर्भविष्यति । 
+
 Ibid., I, p. 249 
+
 226 
+
 INTRODUCTION TO THE TANTRALOKA 
+
 (ii) Initiation liberates even those who are neither proficient in knowledge, nor in Yoga. ' 
+
 This issue has incidentally figured in the 14th and 16th Ahnikas also. 
+
 (iii) One of the seven Karanas (ie, conscious prac- tice) under Anava Upāya called Vyāpti (permeation). 
+
 The issue has been raised in the 5th Ahnika with refer- ence to other Karapas finding expression in the other āhnikas e.g., 11th, 16th, 29th, and 32nd etc. 
+
 (iv) Virility in a Mantra arises not from book but from teacher. Mantra, therefore, has to be well- guarded and discreetly transmitted." 
+
 (v) The process of unification ( Yojanika ) behind the fetter-burning ( Pāsa dāha ) . 4 
+
 1. ननु ज्ञानयोगादिवन्कयरय दैशिकोपि किं कुर्यात् इत्याशंक्याह 
+
 'दीक्षा च केवला ज्ञानं निजापि निजमान्तरम् ॥ 
+
 2. 
+
 मोचिकेवैति कथितं युक्त्या चागमतः पुरा।' (T.A. 16.299-300) पुरा इति पंचदशाह्निकादौ । 
+
 T.A.V., X, p. 122 
+
 " इह किल दृक्कर्मेच्छा : शिव उक्तास्तास्तु वेद्यखण्डन के । ” (T.A. 15.339) इत्यादिना पञ्चदशाह्निके व्याप्तेः । 
+
 3. 
+
 ततः सुशिक्षितां स्थानदेहान्तः शोधनत्रयीम् ॥ 
+
 न्यासं ध्यानं जपं मुद्रां पूजां कुर्यात्प्रयत्नतः । 
+
 T.A.V. III, p. 442 
+
 T.A. 26.28-29 
+
 Jayaratha explains सुशिक्षितामिति as पंचदशाह्निकोक्तयुक्त्या | 
+
 4. 
+
 ततः प्रागुक्तसकलप्रमेयं परिचिन्तयन् ॥ शिष्यदेहादिमात्मीय देहप्राणादियोजितम् । कृत्वात्मदेहप्राणादिविश्वमन्तरनुस्मरेत् ॥ उक्तप्रक्रिया चैवं दृढबुद्धिवन्यधीः । प्राणस्थं देशकालाध्वयुगं प्राणं च शक्तिगम् ॥ तां च संविद्गतां शुद्धां संविदं शिवरूपिणीम् । शिष्यसंविदभिन्नां च मन्त्रवह न्यायभेदिनीम् ॥ ध्यायन् प्राग्वत् प्रयोगेण शिवं सकलनिष्फलम् । 
+
 T.A.V., X, p. 339 
+
 ABOUT THE TEXT 
+
 227 
+
 According to the original index of the ancillary items of Abhinavagupta this ought to be the proper topic of the 17th Ahnika. However, the relative procedure is detailed in the 15th and 16th Ahnikas. Jayaratha's statement below further implies that the 17th āhnika is, in a sense, continuation of the 15th and 16th. 
+
 (vi) Daily worship of the sacred ground (Sthan- dila) as part of the residual or subsidiary functions (Sesavrtti). 
+
 Daily worship on the ground is one of the main themes in the 26th āhnika. 
+
 (vii) Method of holding and abandoning the tooth- twig (used as tooth-brush, lit. Dantakāstha ) 2 as part of the daily routine. 
+
 This method is re-employed in the context of Śiva- hastavidhi representing other (than one's own ) system in the 29th Ahnika. 
+
 (viii) Variety of special assignment. This also 
+
 द्वयात्मकं व क्षिपेत्पूण प्रशान्तकरणेन तु ॥ 
+
 T.A. 17.78-82 
+
 Observes Jayaratha प्रागुक्तेति उक्तप्रक्रिययेति प्राग्वदिति च अनेन षोडशपञ्चदशाह्निका दौएतद्विस्तरेणोक्तमिति स्मारितम् श्रतएव एतदस्माभिरपि ग्रन्थविस्तरभयान्नेह वितानितम् । 
+
 1. अर्धपातं पुरा यद्वद्विधाय स्वेष्टमन्त्रतः । 
+
 तेन स्थण्डिलपुष्पादि सर्वं संप्रोक्षयेद् बुधः ॥ 
+
 T.A.V., X, p. 161 
+
 T.A. 26.39 
+
 Jayaratha supplements पुरा पञ्चदशाह्निकादौ । T.A.V., X, p. 343 
+
 2. अनेनैव प्रयोगेण चरुकं ग्राहयेद् गुरुः । 
+
 शिष्येण दन्तकाष्ठं च तत्पातः प्राग्वदेव तु ॥ 
+
 Jayaratha explains प्राग्वदेवेति पञ्चदशाह्निकोक्तवत् । 
+
 T.A. 29.195 
+
 T.A.V., XI, p. 128 
+
 T.A. 15.180 
+
 3. सामान्यमर्ध माताम्भो विप्रुभिः प्रोक्ष्य चाखिलम् । 
+
 योगोपकरणं पश्चाद् बाह्ययागं समाचरेत् ॥ Jayaratha observes सामान्यमिति विशिष्टस्य वक्ष्यमाणत्वात् । 
+
 T.A.V., IX, p. 91 
+
 228 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 covers the sixfold assignment (Sodhānyāsa).' 
+
 This is in fact the 13th ancillary item as per Abhinavan scheme. 
+
 (ix) Variety of consecrations in the overall con- text of the assignment of the eligibility of the pros- pective initiate. 
+
 This constitutes the Ist ancillary topic in the 15th Ahnika (beginning at the T.A. 15.30) according to the original scheme of Abhinavagupta. 
+
 (x) External means constitute the gradual process specially for those whose consciousness is not fully awake. 3 
+
 Among the minor issues occur the following- (1) Initiation's role in Anupāya is insignificant 
+
 ( 2nd Ahnika), 
+
 (2) procedure for the adoration of preceptorial 
+
 lineage (16th āhnika), 
+
 Obviously the reference is to the T.A. 15.239 where the Visesan- yāsa begins. 
+
 1. पूर्वेण विधिनास्त्रं च कर्कर्यां विघ्ननुद्यजेत् । 
+
 T.A. 15.387 
+
 According to Jayaratha पूर्वेण विधिना means षोढान्यासादिना 
+
 which again brings us to the T.A. 15.239. 
+
 2. निरीक्षणं प्रोक्षणं च ताडनाप्यायने तथा । 
+
 विगुण्ठनं च संस्काराः साधारास्त्रिशिरोमते ॥ Jayaratha is quite clear साधारा इति सर्वकर्मसु स्नानप्रकरणे । 
+
 T.A. 15.370 । संवादितं च एतत् T.A.V., IX, p. 188 
+
 3. तादृशीं ये तु नो रूढां संवित्तिमधिशेरते । 
+
 श्रमात्तत्तत्प्रसिध्यर्थं क्रमिको विधिरुच्यते ॥ . श्रतएव हि तत्रापि दार्यादार्यावलोकनात् । क्रियमाणे कृते वापि संस्क्रियात्पेतरापि वा ॥ Jayaratha adds तत्रापीति क्रमिके विधौ । अल्पतरेति । उक्तं च एतत् प्राक् "क्रियया सिद्धिकामी यः स क्रियां भूयसीं चरेत्” (T.A. 15.143) 
+
 इत्यादि बहुप्रकारम् । 
+
 T.A. 15.394, 396 
+
 T.A.V., IX, p. 198 
+
 ABOUT THE TEXT 
+
 229 
+
 (3) single articulation (Ekoccāra) connected with 
+
 summary initiation (18th Ahnika), 
+
 (4) occasional rites (28th Ahnika), 
+
 (5) fifty Rudras in the assignment of matrices 
+
 (Mātṛkānyasa) (33rd Ahnika), 
+
 (6) reconciliation with Brahmavidya method (19th 
+
 and 30th Ahnikas) and 
+
 (7) Śivahastavidhi (29th Ahnika). 
+
 (p) SIXTEENTH AHNIKA 
+
 (i) One of the seven Karanas (i.e., conscious prac- tice) under Aṇava Upaya relating to the cognizer and the cognizable.1 
+
 (ii) Procedure for veneration of the preceptorial lineage.2 
+
 (iii) The process of unification (Yojanika) behind the fetter-burning (Pāśa-daha) in common with the 15th and 17th Ahnikas. 
+
 (iv) The alternative course of the assignment of dagger etc. (Kṣurikadinyasa) in the allied view where the offering of oblation is permissible (as against the regular course under initiation pertaining to the ins- tantaneous passing away-Sadya Utkrānti-which has no room for oblation)." 
+
 1. तथाहि "अर्थस्य प्रतिपत्तिः 
+
 मंत्रसन्ततौ ।। " (T.A. 16.253) 
+
 T.A.V., III, p. 442 
+
 इत्यादिना षोडशाह्निके ग्राह्यग्राहकयोः । 
+
 2. अर्चयित्वासनं पूज्या गुरुपंक्तिस्तु भाविवत् । Jayaratha adds भाविवदिति । यद्वक्ष्यति- 
+
 "गणपति गुरुपरमाख्या परमेष्ठी पूर्वसिद्धवाक् क्षेत्रपतिः । 
+
 T.A. 15.320 
+
 इति सप्तमाख्यातं गुरुपंक्तिविधी प्रपूज्यमस्मद्गुरुभिः ।" (T.A. 16.10 ) 
+
 3. षोडशाधारषट्चक्रलक्ष्मत्रयखपञ्चकात् । 
+
 क्वचिदन्यतरत्वाथ प्रागुक्तपशुकर्मवत् ॥ 
+
 T.A.V., IX, p. 161 
+
 (T.A. 19.15) 
+
 230 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 The ancillary items include- 
+
 (1) Initiation's effectiveness in occasioning release of the one who is devoid of both knowledge and Yoga (15th Ahnika), 
+
 (2) the assignment of Padadhvan and Mantra- dhvan (word-, Mantra-passage) (11th Ah- nika), 
+
 (3) initiation of a teacher at the time of the descent 
+
 of grace (13th Āhnika), 
+
 (4) due to gradual unfoldment of self-consciousness even the inert becomes divine (1st Ahnika), and (5) the trident constitutes a ring in a collective 
+
 rite (31st Ahnika). 
+
 (q) SEVENTEENTH AIINIKA 
+
 (i) Assignment of 15 letters in the garland of let- ters (Akṣasūtra) comprising 115 letters to be followed by assignment of Matṛkā and Mālini.1 
+
 (ii) Modality for refinement of the purifiable cate- gories.2 
+
 (iii) This, as we have seen, is an extension of the 15th and 16th Ahnikas, so far as unificatory process behind the burning of fetters is concerned. 
+
 Jayarath explains प्रागिति षोडशांह्नि । 
+
 T.A.V., X, p. 189 
+
 1. उत्तमे तु द्वयीं न्यस्येत् न्यस्थ पूर्वं प्रचोदितान् ॥ Jayaratha explains पूर्वमिति सप्तदशाह्निके । यदुक्तं तत्र 
+
 “fuarumaocai arzanfaqi qgai qur aar 1” पञ्चदश एते स्युरिति । 
+
 2. एवं सर्वाणि शोध्यानि तत्त्वादीनि पुरोक्तवत् । 
+
 T.A. 27.35 
+
 (T.A. 17.39) ₹fa̸, 
+
 T.A.V., X, p. 372 
+
 T.A. 29.205 
+
 Jayaratha adds पुरेति तत्त्वदीक्षा प्रकरणे T.A.V., XI, p. 133 (29th Ah.). Perhaps it refers to the T.A. 17.7 onwards.(r) EIGHTEENTH AHNIKA 
+
 ABOUT THE TEXT 
+
 231 
+
 (i) Single articulation (Ekoccāra) as an ingredient of the summary initiation (Samkṣiptadikṣā)'. 
+
 (ii) The trans-gradual process of pruification of the sixfold cosmic passage." 
+
 In fact out of the twofold refinement, gradual and trans- gradual, the first one adopts the procedure as laid down. in the Svacchanda Tantra, while the latter follows the course as laid down in the 18th āhnika. 
+
 (s) NINETEENTH AHNIKA 
+
 (i) Fruition of Arabdha Karma (deeds whose frui- tion has already begun) cannot be reversed even with reference to the initiation embarked upon for secur- ing release of the dying." 
+
 1. एकोच्चारण वा बाह्यपरिवारेति शब्दिताः । 
+
 Jayaratha clarifies एकोच्चारेण इति संक्षिप्तदीक्षादी । 
+
 2. 
+
 शोधनं बहुधा तत्तत्भोगप्राप्त्येकतानता ॥ 
+
 . तदाधिपत्यं तत्त्यागस्तच्छ्वात्त्ववेदनम् । तल्लीनता तन्निरासः सर्वं चैतत्क्रमाक्रमात् ॥ 
+
 T.A. 15.182 
+
 T.A.V., IX, p. 92 
+
 T.A. 11.85-86 
+
 Jayaratha's observation is significant प्रव च शुद्धिस्वरूपमाता- भिधित्सया क्रमो न विवक्षितः इत्येवमेषामभिधानम् । तदेतज्जन्माधिकारभोग- लयनिष्कृतिविशे ( श्ले ) षोद्धारादिलक्षणं सर्व शोधनसमाख्यातं संस्कारजातं श्रीम- त्स्वच्छन्दशास्त्राद्युक्तरूपात् क्रमाद्भवेत् । तीव्रतीवशक्तिपातवतां च "जननादिवि- हीनां तु येन येनाध्वना गुरुः । कुर्यात्स एकतत्त्वान्तां ॥” (TA 18.2) इत्यादिवक्ष्यमाणस्वरूपादक्रमाद्वेति । T.A.V., VII. p. 68 ( 11th Ahnika) 
+
 3. अन्त्यदर्श निरोद्धुं नहि शक्यते इति .... सद्योनिर्वाणदीक्षादि पुनरासन्न- मरणादेरेव भवेदिति तत्वापि दत्तत्रायफलत्वात् ततः पराङ्मुखमेव कर्म शोध्यमिति न कश्चिद्दोषः, तदुक्तम्, 
+
 " दृष्ट्वा शिष्यं जराग्रस्तं व्याधिना परिपीडितम् । 
+
 उत्क्रमथ्य ततस्त्वेनं परतत्त्वे नियोजयेत् ॥” (T.A. 19.8 ) इति । 
+
 T.A.V., VI, pp. 103-4 
+
 232 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 (ii) Kala, the principle of limited agency, fails to produce its fruit in the form of limited doership while maintaing its association with the individual self who has become isolated due to the initiation for instantaneous release (Sadyonirvāṇadīkṣā).' 
+
 Among the minor issue the following have been referred to- 
+
 (1) Two optional views regarding the assignment of dagger-gradual (30th Ahnika) and non- gradual (16th Ahnika), 
+
 (2) ineligibility of a non-yogin in respect of 
+
 physical movement or articulation (30th Ah- nika) in the context of the initiation for the instantaneous passing away, and 
+
 (3) Brahmavidya (30 Ahnika). 
+
 (t) TWENTIETH AHNIKA 
+
 No major issue has been indicated. Only one minor item i.e., 2nd stage of Sakti called Udbhava, which is synonymous with Laghubhāva (lightness), has been alluded to in the context of Tuladikṣā (the proper theme of the 20th Ahnika) as an item to be discussed in detail in the 30th Ahnika. 
+
 (u) TWENTYFIRST AHNIKA 
+
 (i) The indirect initiation (Parokṣadikśā) relating to the dead, termed as redemptive initiation of the dead (Mṛtoddhāradikṣā).2 
+
 1. सद्योनिर्वाणदीक्षोत्थपुंविश्लेषे हि सा सती । 
+
 शिलप्यन्त्यपि च नो सूते तथापि स्वफले क्वचित् ॥ 
+
 2. सर्वेषामधरस्थानां गर्वन्तानामपि स्फुटम् । 
+
 शक्तिपातात्पुरा प्रोक्तात् कुर्यादन्त्येष्टिदीक्षणम् । 
+
 T.A. 9.177 
+
 ABOUT THE TEXT 
+
 233 
+
 In fact indirect initiation is of two kinds. One relates to the dead and is an extension of the instantaneous passing away (19th āhnika) and the other relates to the alive (though dying) and is associated with the ground-rite (Sthandila Yaga) in the 26th āhnika. This has a special bearing on the funeral rite (24th āhnika). 
+
 (v) TWENTYSECOND ĀHNIKA 
+
 (i) Necessity of an additional course called Lingod- dhāra (elevation of phallus or sign) for the heterodox who ultimately turn to the fold of monistic Saivism.1 
+
 Incidentally this issue figures in the 13th and 35th āhnikas. Among the ancillary items Anuttaradīkṣā in Kula (13th Ahnika) has also been briefly touched upon. 
+
 (W) TWENTYTHIRD ĀHNIKA 
+
 (i) Aspirants of the ' reborn' (Punarbhū) variety i.e., those who though ineligible for Lingoddhāra- dikṣa are eager to rejoin Saiva fold. 
+
 यत्किंचित्कथितं पूर्वं मृतोद्धाराभिधे विधी | 
+
 प्रतिमायां तदेवाल सर्वं शवतनौ चरेत् ॥ 
+
 T.A. 24.2/5 
+
 Comments Jayaratha पूरा इति मृतोद्ध। रदीक्षायाम् । T.A.V., X, p. 307. मृतोद्वारदीक्षा possibly refers to जालविधि under परोक्षदीक्षा in the 
+
 21st āhnika. 
+
 1. ननु यदि एवं शैवबौद्धादिरेव श्रागमः तत बौद्धादिशास्त्रवर्तिनां शिवशास्त्री- न्मुख्ये कस्मात् लिङ्गोद्धारादिसंस्कारान्तरमपि उक्तमित्याशंकां दृष्टान्तोपदर्शनेन उपशमयति 
+
 यथैकत्रापि वेदादी तत्तदाश्रयगामिनः । 
+
 संस्कारान्तरमत्त्रापि तथा लिङगोद्धृतादिकम् ।। (T.A. 35.28) 
+
 2. साधकाचार्यतामार्गे न योग्यास्ते पुनर्भवः । 
+
 पुनर्भवोऽपि ज्ञानेद्धा भवन्ति गुरुतास्पदम् ॥ 
+
 T.A.V., XII, p. 372 
+
 T.A. 22.29 
+
 234 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 It is however closely connected with Lingoddhäradikṣā in the previous Ahnika. 
+
 Among the ancillary items is included the method of achieving salvation without preceptorial assis- tance by one who returns to the fold after having been led astray (13th Ahnika). 
+
 (x) TWENTYFOURTH AHNIKA 
+
 No major or minor theme has been referred to. (y) TWENTYFIFTH AHNIKA 
+
 No major or minor issue is found to have been referred to. 
+
 (z) TWENTYSIXTH AHNIKA 
+
 (i) Method or procedure pertaining to Anuyāga (i.e., subsequent or subordinate rite) or subordinate or residual issue.1 
+
 This is an important item under Kula system (29th Ahnika) and has been discussed under Mandala-one of the four limbs of a Kula treatise i.e., Vidya, Mantra, Mudra and Mandala. 
+
 (ii) Like body, as above, one should visualize cir- cularity (Mandalatmatva) in breath also. This is again a part of Anuyaga." 
+
 Jayaratha adds ते च "पुनर्भूश्चान्यलिङ्गो यः पुनः शैवे प्रतिष्ठितः " 
+
 (T.A. 23.10 ) इति लक्षयिष्यमाणाः । 
+
 1. अनुयागोक्तविधिना द्रव्यंहृ दयहारिभिः । 
+
 तथैव स्वस्वकामर्श योगादन्तः प्रतर्पयेत् ॥ 
+
 Jayaratha clarifies अनुयागोक्तविधिनेति यदुक्तं प्राक् 
+
 T.A.V., X, p. 254 
+
 T.A. 29.175 
+
 शम्भोविनिश्चयः ॥ ( T. A. 26.55 ) इत्यादि उपक्रम्य 
+
 "शिवाभेदभराद्भाव 
+
 2. 
+
 अबुधः || ” (T.A. 26.61) इति । 
+
 अथवा प्राणवृत्तिस्थं समस्तं देवतागणम् । पश्येत्स्यत्येव तत्रैवाभ्यर्चयेद्गुरुः ॥ 
+
 T.A.V., XI, p. 118 
+
 T.A. 27.178 
+
 "यद्यदेवास्य 
+
 ABOUT THE TEXT 
+
 235 
+
 (iii) Conception of the deities presiding over cycles in relation to those who are given to action.1 
+
 Among the minor themes the following are alluded 
+
 to- 
+
 (1) Virility of a Mantra solely depends upon its being received from a teacher (15th Ahnika), (2) daily worship of ground as part of residual 
+
 activities (15th Ähnika) and 
+
 (3) esoteric or mystic rite consisting of throwing 
+
 away into deep waters (29th Ahnika). 
+
 (aa) TWENTYSEVENTH AHNIKA 
+
 No topic, either primary or ancillary, has been taken note of. 
+
 (bb) TWENTYEIGHTH AHNIKA 
+
 (i) Samayin's entitlement to the occasional rites (Naimittika Karma). Occasional rites are the domi- nant theme of the 28th Ahnika.3 
+
 Though Jayarath does not explain 
+
 a, context makes 
+
 it abundantly clear that Abhinavagupta is referring to Anuyaga- 
+
 vidhi. 
+
 1. ते तत्र शक्तिचक्रे तेनैवानन्दरसमयेन बहिः ॥ 
+
 " 
+
 दिक्षु चतसृषु प्रोक्तक्रमेण गणनाथतः प्रभृति सर्वम् । T.A. 29.130-31 Jayaratha adds तेनैवेति अभ्युदितरूपेण । प्रोक्तेति नित्यार्चाभिधानावसरे । T.A.V., XI, p. 94 (29th. Ahnika), faff refers to the T.A. 26.38 onwards. 
+
 2. समय्यधिकृतोऽन्यत्र गुरुणा विभुमर्चयेत् ॥ Jayaratha explains अन्यत्र इति नैमित्तिकादी । 
+
 T.A. 15.521 
+
 T.A.V., IX, p. 258. 
+
 It may be noted that the 15th Ahnika deals with Nitya Karma 
+
 while the 28th with Naimittika Karma. 
+
 3. यागादी यागमध्ये च यागान्ते गुरुपूजने । 
+
 नैमित्तिकेषु प्रोक्तेषु शिष्यः कुर्यादिमं विधिम् ॥ Jayaratha adds प्रोक्तेष्विति श्रष्टाविंशाह्निके । 
+
 T.A. 29.291 
+
 T.A.V., XI, p. 171 
+
 236 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 This has been incidentally dealt with in the 15th Ahnika and also in the context of Vedhadiksā in the 29th Ahnika. (ii) Kulaparva as part of the variety of Parvans in the Bhairavakula.1 
+
 This is especially connected with the doctrine of Kula as based on Prána in the 6th and 7th Ahnikas. 
+
 The ancillary topics include- 
+
 ( 1 ) Rise of Prāna especially under the sub-topic 
+
 Mrti (6th āhnika), 
+
 (2) atonement for the violation of rules (Samaya - 
+
 niskrti) (29th Ahnika) and 
+
 ( 3 ) congregation or union of Yoginis ( Yoginime- laka-9th Anuja in this Ahnika and one of the 23 occasionals) (30th āhnika). 
+
 (cc) TWENTYNINTH AJINIKA 
+
 (i) Supreme utility of semen and blood. 
+
 This is discussed briefly in the 3rd Ahnika also. 
+
 (ii) Preceptorial identificatory distinctions such 
+
 as Ghara, Palli, Mudrā and Chummā etc. 
+
 1. कुलपति तद्द्ब्रूमो यथोक्तं भैरवे कुले । 
+
 2. यल्लोहितं तदग्निर्यद्वीर्यं सूयन्दुविग्रहम् । 
+
 T.A. 28.14 
+
 T.A. 23.227 
+
 इति ब्रह्म परमं तत्संघट्टोदयात्मकम् ॥ 
+
 According to Jayaratha it refers to the 29th Ahnika. Says he 
+
 अतएव धामत्रयात्मकत्वादेतदुभयमपि कुण्डगोलकादिशब्दव्यपदेश्यं परं 
+
 पावनं, येनास्य . तत्त्रार्घः शक्तिसंगमात् ।" (T.A. 29.15) 
+
 इत्यादिवक्ष्यमाणनीत्या परमोपादेयत्वमुक्तम् । 
+
 3. प्रदिशब्देन च घरं पल्ली पीठोपपीठकम् ॥ 
+
 T.A.V., II, p. 216 
+
 T.A. 4.267-68 
+
 मुद्रा छुम्मेति तेषां च विधानं स्वपरस्थितम् । 
+
 Jayaratha adds “घरम्" इति षण्णां साधिकाराणां राजपुत्राणां 
+
 भिन्नं भिन्नमाश्रमस्थानम् । “पल्ली" भिक्षास्थानम् । यद्वक्ष्यति - "एते हि 
+
 साधिकाराः • पटक घरपल्लिपीठगं क्रमश: ॥" (T.A. 29.35-39) T.A.V., III, pp. 297-98 
+
 ABOUT THE TEXT 
+
 237 
+
 These items have also been enjoined upon for the benefit of the aspirant towards the end of the 4th Ahnika. 
+
 (iii) Two Karaņas (i.c., conscious practice) of relin- quishment and projection (Tyaga and Ākṣepa)1. 
+
 These find place in the 5th Ahnika in an overall general 
+
 context. 
+
 (iv) The method of entry into deep waters as part of the ground rite (Sthandila Yāga). 2 
+
 (v) The technique of Siva's hand (Sivahastavidhi) where atonement for breach of rules is also provided for." 
+
 (vi) In Kulayaga one should aim at realizing the Absolutic character in oneself by unification of both seat and power in one's body. 4 
+
 1. “ एवं विविधविरागविश 
+
 मंत्रवीर्यं स्यात् ॥ " (T.A. 29.147) 
+
 कालानलसमप्रभाम् ।" 
+
 इत्यादिना, "यल सर्वे लयं यान्ति 
+
 (T.A. 29.182) 
+
 इत्यादिना शाह्निके त्यागस्याक्षेपस्य च .... स्वरूपं वक्ष्यति । 
+
 2. प्राणिनो जलजाः पूर्वदीक्षिताः शम्भुना स्वयम् । 
+
 विधिना भाविना श्रीमन्मीननाथावतारिणा ।। 
+
 T.A.V., III, p. 443 
+
 T.A. 26.71 
+
 T.A.V., X, p. 353 
+
 Jayaratha explains भाविना इति एकोनविंशाह्निकादो वक्ष्यमाणेन । 
+
 3. समयनिष्कृतिमेव उदाहरणदिशा उपदर्शयति-- 
+
 यत्स्वयं शिवहस्ताख्ये विधी संचोदितं पुरा। (T.A. 28.415) 
+
 एतच्च समनन्तराह्निके शिवहस्तप्रकरणे एव संवादयिष्यते इति नेह 
+
 लिखितम् । 
+
 T.A.V., XI, p. 178 
+
 Although Sivahastavidhi is also found in the T.A. 15.456, the present reference is to the 29th Ahnika (T.A. 29.186 onwards) because of the suggestion implied in समनन्तराह्निके. 
+
 4 तत्रोक्तमन्त्रतादात्म्याभैरवात्मत्वमानयेत् ॥ Jayaratha adds उक्ता मातृसद्भावादयः । वक्ष्यति हि-- 
+
 T.A. 29.22 
+
 238 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 (vii) Four Ahnikas from 29th to 32nd constitute the four-seated Kula scripture consisting of Mantra, Mudra, Vidya and Mandala. The 29th Ahnika per- tains to Vidyā.1 
+
 These four are the extension of the mode of wor- ship (Upasanavidhi) according to Kulaprakriyā. 
+
 The ancillary items referred to include- 
+
 (1) Movement of breath under 'mode of worship' 
+
 in Kulayaga (6th Ahnika), 
+
 (2) nine divisions of Vedha (8th Ahnika), 
+
 (3) method of picking and abandoning the tooth- 
+
 twig (15th Ahnika), 
+
 (4) refinement of categories as per Putraka ini- 
+
 tiation (17th Ahnika), 
+
 (5) method of worship as enjoined in Anuyāga 
+
 (26th Ahnika), 
+
 (6) subdivisions of categories in terms of pentadic states forming objects of Jñanins' and Yogins' experience (10th Ahnika), 
+
 (7) Homa and Laya (oblation and repose) as part of worship culminating into supreme subjecti- vity (4th Ahnika) and 
+
 (8) mode of occasional functionalism (28th Ah- 
+
 nika). 
+
 " नाहमस्मि न चान्योऽस्ति केवलाः शक्तयस्त्वहम् । 
+
 इत्येवं वासनां कुर्यात्सर्वदा समृतिमानतः ॥ " (T.A. 29.64) 
+
 T.A.V., XI, p. 19 (29th Āhnika) 
+
 1. इह विद्यामन्त्रमुद्रा मण्डलात्मतया चतुष्पीठं तावच्छास्त्रम् । तत्र मन्त्र- मुद्रात्मनः पीठद्वयस्य संप्रदाय उक्तः । इदानीमत्रैव अविशिष्टस्य विद्यामण्डलात्मनोऽपि श्रस्य संप्रदायं निरूपयति ॥ 
+
 T.A.V. XI, p. 114 (29th Ahnika) 
+
 (dd) THIRTIETH AHNIKA 
+
 ABOUT THE TEXT 
+
 239 
+
 The mode of assignment of the dagger etc.1 
+
 This is especially discussed as the 2nd ancillary item in the 19th Ahnika according to the original Abhinavan scheme. This is again discussed in the 16th Ahnika. In the former oblation is prohibited, while in the latter it is enjoined full scale. 
+
 (ii) Brahmavidya" a special type of Mantra pro- pagated by Bhutirāja and invoked to secure instant release. 
+
 This finds a sepcial mention in the 19th Ahnika. 
+
 (iii) Udbhava (rise) as the 2nd of the five stages of power under Tuladikṣā (20th Ahnika) means light- ness (Laghubhāva) consequent upon the disappear- ance of body.3 
+
 (iv) Redemption of Mantras which includes two types of the union of Yoginis, one forcibly and the other willingly. 
+
 (v) As a constituent of Catuṣpithaśāstra the pre- sent Ahnika represents Mantra. 
+
 1. 
+
 तामुत्कृष्य ततोऽङ्गुष्ठादूर्ध्वान्तं वक्ष्यमाणया । 
+
 T.A. 19.13 
+
 Jayaratha explains वक्ष्यमाणया इति विशाह्निके। T.A.V., X, p. 187 
+
 2. अनभ्यस्तप्राणचारः कथमेनां करिष्यति । 
+
 वक्ष्यमाणां ब्रह्मविद्यां सकलां निष्कलोम्भिताम् ॥ Jayaratha remarks वक्ष्यमाणाम् इति विशे । 
+
 3. भाविलाघवमन्त्रेण शिष्यं ध्यात्वा समुत्प्लुतम् । Jayaratha observes भावीति त्रिशे । 
+
 The reference is to the T.A. 30.93 4. योगिनीभेलको द्वेधा हठतः प्रियस्तथा । 
+
 प्राच्ये च्छिद्राणि संरक्षेत्कामचारित्वमुत्तरे ॥ स च द्वयोऽपि मंत्रोद्धृतप्रसङ्गे दर्शयिष्यते । Jayaratha adds मंत्रोद्धृतप्रसंगे इति विशाह्निके । 
+
 T.A. 19.24 
+
 T.A.V., X, p. 192 T.A. 20.14 
+
 T.A.V., X, p. 211 
+
 T.A. 28.371-73 
+
 T.A.V., XI, p. 157 
+
 240 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 (ee) THIRTYFIRST AHNIKA 
+
 (i) Cycle or ring constituted by a trident is neces- sary' according to the Trikasadbhāva. Similarly as- signment of the trident-lotus is approved by Abhi- navagupta following the Triśirobhairava. 
+
 (ii) In a collective rite the trident-lotus itself con- stitutes the ring or circumference.3 
+
 (iii) As a part of the four seated system this Ahnika represents Mandala. 
+
 (ff) THIRTYSECOND ĀHNIKA 
+
 (i) Description of the seventh Karana (i.e., con- scious practice) called Sanniveśa (form, arrange- ment or deep entry) through unravelling of the no- tion of Mudrā." 
+
 (ii) As a part of the four-seated system it represents the item Mudrā ( posture ). 
+
 Among the ancillary issues the kindling of the 
+
 1. मध्यशृङ्गं वर्तयित्वा सर्वः पूर्वोदितो विधिः । 
+
 ततो यदुन्मुखं खण्डचन्द्रयुग्मं पुरोदितम् ॥ 
+
 Jayaratha explains पुरेति पूर्वशूलवर्तनावसरे । 
+
 । 
+
 T.A. 31.24 
+
 T.A.V., XII, p. 235 This has reference to the earlier portion of the 31st Ahnika itself. 
+
 2. रक्तैः रजोभिर्मध्यं तु यथाशोभं तु पूरयेत् । 
+
 अस्या व्याप्तौ पुरा चोक्तं तवैवानुसरेच्च तत् ॥ Jayaratha adds पुरेति त्रिशूलाभिधानावसरे । The reference is to the 31st āhnika itself. 
+
 3. वर्तना मण्डलस्याग्रे संक्षेपादुपदेक्ष्यते । 
+
 T.A. 31.123 T.A.V., XII, p. 281 
+
 प्रालिख्य मण्डलं गन्धवस्त्रेणैवास्य मार्जनम् ॥ Jayaratha explains अग्र इति एकत्रिंशाह्निके । 
+
 4. .... तत्तन्मुद्रास्वरूपनिरूपणद्वारेण द्वाविंशाह्निके वक्ष्यति इति तत एवैतत्सतत्त्वं स्वयमेवावधारणीयम् । 
+
 T.A. 16.7 T.A.V., X, p. 4 सन्निवेशस्य स्वरूपं T.A.V., III, p. 443 
+
 This probably refers to the T. A. 32.10 onwards.ABOUT THE TEXT 
+
 241 
+
 recited Mantras (7th Ahnika) is the only item that has been referred to. 
+
 (gg) THIRTYTHIRD AHNIKA 
+
 (i) The number of deities in a cycle may vary from those in the other due to intrinsic Godly free- dom. In this āhnika the six-spoked cycle represent- ing six divinities has been discussed.1 
+
 (ii) Fifty Rudras, the assignment (Nyāsa) on whom helps accomplishment of external worship (Bahir- yāga) known as Mātṛkānyāsa. These Rudras are syllabic embodiments of power.2 
+
 (iii) Similarly, the twelve Rudras from Daksa to Pitāmaha have also been discussed.3 
+
 Among the ancillary items the following have been referred to- 
+
 1. षडात्मा इति यद्वक्ष्यति ---- 
+
 "विश्वा तदीशिका रौद्री वीरका व्यम्बिका तथा । 
+
 Taifa et 201..... 1" ((T.A. 33.2)) T.A.V., I, p. 153 The reading in the relevant printed portion, however, slightly differs as under-- 
+
 विश्वा तदीशा हारौद्री वीरनेत्यम्बिका तथा । 
+
 गुर्वीति षडरे देव्यः श्रीसिद्धावीरदर्शिताः । T.A. 33.2 
+
 2. ललाटवक्ते दृक्कर्ण नासागण्डरदौष्ठगे ॥ ... 
+
 इत्येष मातृकान्यासो मालिन्यास्तु निरूप्यते ॥ 
+
 Jayaratha adds एतद्वाच्याश्च पञ्चाशदुद्रा एकीका राह्नि के वक्ष्यन्ते 
+
 इति तत एव अवधार्याः । 
+
 3. प्राणीये वर्ष एतस्मिन्कार्तिकादिषु दक्षतः ।। 
+
 पितामहान्तं रुद्राः स्युद्वदिशाग्रेऽत्र भाविनः । 
+
 T.A. 15.117-120 
+
 T.A.V., IX, p. 61 
+
 T.A. 6.122-23 
+
 Jayaratha explains अग्र इत्येकीकारप्रकाशनाह्निके। T.A.V., IV, p. 106 
+
 The reference is to the T.A. 33.8-9 which reads 
+
 दक्षश्चण्डो हरः शौण्डी प्रमथो भीममन्मथौ ॥ 
+
 शकुनिः सुमतिर्नन्दो गोपालश्च पितामहः । 
+
 242 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 (1) The alleged division of various cycles is basic- ally one and culminates into Trika (1st Ah- nika), and 
+
 (2) the infinite variety of cycles represented by 
+
 81 letters (3rd and 6th Ahnikas). 
+
 (hh) THIRTYFOURTH AHNIKA 
+
 No major or minor issue is noticed to have been referred to. 
+
 (ii) THIRTYFIFTH AHNIKA 
+
 (i) All the Agamas share one essential character that their strength is derived from convention or general consensus (Prasiddhi). This is the reason be- hind compulsive acceptability of the Agamas. 
+
 Among the ancillary issues the necessity of an additional course called Lingoddhara (22nd Ah- nika) has been alluded to. 
+
 (j) THIRTYSIXTH & THIRTYSEVENTH AHNIKAS 
+
 No issue, whether minor or major, has been found referred to. 
+
 From the above account we may conveniently con- clude that the Ahnikas 1, 4, 8, 9, 11, 13, 15 and 29 have caught the fancy of Abhinava and Jayaratha 
+
 1. उक्तनीत्यैव सर्वत्र व्यवहारे प्रवर्तिते । 
+
 प्रसिद्धावुपजीव्यायामवश्य ग्राह्य श्रागमः ॥ 
+
 T.A. 37.1 
+
 Jayaratha by way of explanation adds इह सार्वत्रिके व्यवहारे प्रवर्तिते पञ्चत्रिंशाह्निकोक्तनीत्या समस्तशास्त्रमेलनेन प्रसिद्धावुपजीव्यायाम् ग्रागम एव अवश्य ग्राह्यो न अन्यथा किंचिद् सिध्येत् । 
+
 T.A.V., XII, p. 390 
+
 ABOUT THE TEXT 
+
 243 
+
 more as compared to the other Ahnikas presumably because of greater importance of their subject matter. Likewise the Ahnikas 27, 34, 36 and 37 have not arrested their attention at all while making internal cross-references. 
-## AGENDA FOR FUTURE RESEARCH 
+
+## 5 AGENDA FOR FUTURE RESEARCH 
+
 At the very outset we pointed out the limitations of the present 'Introduction'. It is at the most an elementary attempt to under- stand the technique of the Tantraloka by piecing together obvious but scattered indications about its contents, their organic treat- ment and the guiding norms that characterised the approach of two master minds. An attempt has also been made to enlarge and deepen our familiarity with the environ, contributions, and personal details of the author and the commentator of the Tantra- loka. In Indian parlance it offers a Bahiranga treatment. It covers only two steps of the ladder-where to study and how to study, leaving the third-what to study-for future. Our conclusions are approximations in the present state of our knowledge. This "Introduction', therefore, does not go beyond this point and is not intended to be a substitute for a 'research work' or 'study'. Its purpose will be amply realised if it arouses interest of the scho- larly world to undertake deeper and meaningful studies in future. 
+
 While working on the Introduction it was our intention to in- clude a few pages on the agamic and tantric sources of the Tantra- loka and to undertake a division of its contents on such a basis. But as we proceeded on, it occurred to us that in view of the com- plex and encyclopaedic character of the text and our elementary knowledge we could not possibly touch all the aspects and it would be much better to leave it for future study. It, however, appeared proper to us to share our thinking with the scholars about the lines on which future studies may proceed. Knowing full well there would be many more fruitful ways of doing so, devised by scholarly ingenuity, we venture to set out the following agenda for future attention of the scholars. 
+
 1. Our most urgent task is to have a critically edited text of the Tantraloka and the Viveka. In the foregoing pages we visua- lised its necessity several times. By the time of Jayaratha the text of the T.A. was eclipsed by corruptions and he gives ample testi- mony of his having edited and restored the text (e.g., the Viveka on 
+
 246 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 the T.A. 23.23, 23.25, 29.265-66 and 37.4-5 etc.). The printed KSTS edition is in dire need of the same type of approach. An effort is to be made to locate as many MSS as possible and to collate and compare them. This may help settle many such prob- lems as we have seen with regard to the difference in readings bet- ween Pandey's MS and the KSTS edition and resulting compli- cations or with regard to several variants given by Jayaratha which are traceable to none of the MSS on which the KSTS edition is based. As a first step, an internal comparative study may be under- taken as we notice variations in the portions referred to or cross- referred to. As a second step, citations appearing in the T.A. and the Viveka may be compared with their original sources wherever available either in print or in MS. This may be done with an his- torical overview since even some apparently correct readings give rise to historical absurdities (e.g., Bhrätä'pi for Bharta'pi in the T.A. 37.75). As a third step, a track has to be kept of the situations where Jayaratha, though seldom, is at variance with his master. For example the T.A. 8.406 says something, but it means some- thing else from Jayaratha's comments. 
+
 2. As an essential corollary and supplement to the above a comparative study of the cognate but external sources with an appeal to their contents is another primary necessity. To explicate. Abhi- navagupta on the one hand conceives, as we have already seen, the Tantraloka as a logical extension of the M.V.T. and P.T.V., and on the other composes the T.S. and T.V.D. as representative summaries of his magnum opus. By a comprehensive comparison between the contents of the three texts-M.V.T., P.T.V. and T.A-keeping in view their successively progressive character, a fairly compact text of the T.A. may be resurrected. If one more text i.e., the Sv.T., is also added to this list alongwith its com- mentary Uddyota by Kṣemaraja we may get practically an un- assailable text which will ward off many anomalies arising from the textual readings of the existing edition giving us an additional opportunity to take stock of the scholastic bias or over-enthusi- asm, if any, of the commentators, be he Jayaratha or Kşemaraja. In the next stage, a comparision with the T.S. and T.V.D. will bring into focus the relative importance of the issues. The T.S. has 22 Āhnikas and the T.V.D. only 3 as against 37 of the T.A. In the first instance, while it underlines the importance of purely metaphysical theses, it also projects subtle difference between the 
+
 AGENDA FOR FUTURE RESEARCH 
+
 247 
+
 approaches underlined at the two places. For example, the dis- cussion on Vyakhyavidhi under Śrutavidhi in both the texts (T.A. and T.S.) may be looked into. In the third stage, once again the internal comparative study ought to be resorted to this time with reference to the contents and with an intent to loosen the knots. For example, the riddle of Adi (etc.), Prāk and Purastād (earlier), Vakṣyamah (will propound later), Agre (later) etc., as app- earing in Abhinava and Jayaratha, appears to be quite enigmatic as and when the authors choose to keep mum about their specific places or meanings. This can be resolved by a close comparative in- vestigation alone. Such a study will further take care of other gaps in our understanding. Jayaratha, for instance, explains Anyatra (elsewhere) in the T.A.15.521 as Naimittikädau (in the occasionals etc.) and quotes a verse. While Naimittikädau should have im- mediate reference to the 28th Ahnika, the verse quoted is neither found in the 28th nor in the 15th Ahnika. Similarly, as we have already seen, Jayaratha suggests inclusion of the occasional rite (Naimittika) among the daily rites (Nityakarma) in the 15th Ah- nika notwithstanding its apparent misplacement. These two types of complementary enterprises, as outlined in columns 1 and 2, will go a long way in offering a faithful text of the Tantraloka particularly in view of Abhinava's own admission that his treatment is staggered i.e, he does not give all information at one place. 
+
 3. The Tantraloka offers magnificent scope for a philosophical study of its thought contents. It is a true reflection of Abhinava's encyclopaedic genius and keen historical sense. It is a complete digest of Saivism, specially Kashmir Saivism in all its variety and splendour. Together with the Viveka it serves as a storehouse of knowledge on tantricism and other systems-both speculative and ritualistic. It not only furnishes the reasoned out philosophical theo- ries but also underscores the evolutionary phases through which the major concepts and schools of Saivism have passed. The theories of freedom (Mokşa) and ignorance (Mala), cosmological theory of reflection (Bimbapratibimbavada), tools of freedom-initi- ation and redemptive knowledge (Dikşã and Upayacatuṣṭaya), cos- mic ontology of six passages (Sadadhva) including Saiva cate- goriology of 36 principles (Tattvas), theory of causation (Kartṛ- karmabhāva) and trans-causation called manifestation( Abhasa- vada), its attendant principle of determinism (Niyati) and bearing thereof on freedom of action and fruition of action (Karma-phala- 
+
 248 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 vyavastha), monism through Absolutic dynamism, descent of grace, culmination of determinate thought construct into indeterminate pure thought, theory of knowledge famed as re-cognition, ensuing means of knowledge, parallelism as well as synthesis between Jñana and Yoga, concept of reality as pure verbum and awareness or theory of reality as meaning which is an aspect of self-transcendence of the word-all these and many more issues provoke a very thorough, lively and intense deliberation. While other works on Kashmir Saivism like the I.P.K., I.P.V. etc. also discuss the similar issues, the T.A. is distinguished in its treat- ment by its tantric orientation. The T.A. provides a comprehen- sive backdrop setting against which philosophical problems are dealt with not in isolation from but as complement to the tantric, esoteric and ritualistic issues. The T.A. excels in tantric symbolism offering a rich insight into tantric esotericism which has been variously styled as Caryakrama, Rahasyaprakriya, Adiyaga etc. It is from this point of view that the tantric esotericism is said to have emanated from the sixth source or face known as Yoginivaktra in contrast (T.A. 6.193) to all the Saiva systems which are por- trayed as proceeding from five faces of Śiva or five sources (Pañ- casrotorupa Bhairava). Thus in order to have a complete philo- sophical understanding it must combine and synthesize metaphy- sical, ritualistic, symbolic and esoteric aspects as all of them, both jointly and severally, lead to the attainment of the self-divine. This study will ipso facto concentrate on a comprehensive inven- tory of all the places where a particular topic has been discussed and also on all its phases through which it has passed in course of evolution to its present state. Besides, Abhinava's aesthetic theory presents a brilliant example of applied metaphysics. The 3rd, 4th and 28th Āhnikas are replete with such references, specially the 3rd is very rich in its observations on aesthetics of music. Any philoso- phical study worth the name is bound to take all this into account. 4. An historical study is necessitated by the very handling of the source material in the T.A. and Viveka. As we have seen, both Abhinava and Jayaratha display a tremendous historical sense. In the first place, they furnish significant informations about them- selves and their ancestral and preceptorial origins. In the second, as observed by Goudriaan,1 the T.A. comes up as one of the three 
+
 1. H.T.S.L., p. 20 
+
 AGENDA FOR FUTURE RESEARCH 
+
 249 
+
 concrete sources for dating the tantras. Same is the case, we may add, with Jayaratha also. In the third, their contribution in restoring several missing links in the tradition is invaluable. In the fourth, they furnish and handle enormous tantric source material from various periods of history which must be subjected to rigo- rous historical, chronological and evolutionary scrutiny so that the entire tantric edifice as dwelt upon by Abhinava and Jayaratha may be restored to its original grandeur and authenticity. In so doing we may profitably fall back upon all the available sources of contemporary history of that age-literary, architectural, epigraphical and internal i.e., other works of Abhinava and Jayaratha as well as those of their precursors and successors. Another rich source is provided by the texts from other branches of tantricism spread throughout the country. For instance, the omissions in the Srikanthi's list of the 64 Bhairava Tantras are removed only with reference to the contents of the Pratisthā- lakṣaṇasara-samuccaya, a text brought out from Nepal. Even a preliminary study on these lines is bound to yield substantial results. With gaps removed in our understanding we would be better poised for a fuller appreciation of the philosophical content. 
+
 5. Another interesting and enlightening field of study may be offered by its evaluation as a source book of new information. Abhinava offers many insights into the history of Indian thought and the then culture of Kashmir. His references to some Naiya- yikas (Kesämcana Naiyayikänäm T.A. 2.12-44), Vairiñca Brah- mavadins (T.A.V., III, p. 25), Nástika philosophers subscribing to the negation of soul and not to the denial of the authority of the Veda (T.A. 6.19-20) invite us to explore this unexplored area. Similarly his presentation of the Kaumārila view on Vedyata and its lengthy masterly refutation (T.A. 10.21-57) adds new dimensions to our understanding of Kumärila. Abhinava's presentation of Sid- dhanta Saivism in the 4th Ahnika in contrast to the sister systems opens a new vista of information throwing new light on the evolu- tion of the dualistic Saivism in Kashmir. He is an invaluable source of information on Buddhism. He practically refers to all sects of Buddhism so much so that he remains the only source of many exclusive theories of Buddhists. For example "Abhinavagupta, contemporary of Naropa," observes Naudou1, "devoted a whole 
+
 1. Buddhists of Kashmir, p. 180 
+
 250 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 chapter of the Tantraloka, chapter XXV, to study of the imagi- nation during sleep...." Presentation and criticism of the doc- trine of Kälacakra by Abhinavagupta in the 16th Ahnika has eli- cited the following praise from Naudou1, "...such criticism consti- tutes one of the principal sources for knowledge of that Tantric cycle, side by side with the Buddhistic texts themselves, in the front rank of which it is fitting to place the Sekoddeśațikā of Na- ropā (perhaps a Kashmiri), the only text of the system at this time." 
+
 Jayaratha closely follows his illustrious master both in spirit and approach. His references to Mausula, Karuka (T.A.V., I, p. 70), and Pasupata equip us with new insight into the history of Saivism. Similarly his references to Sadanga Yoga (4th Ahnika) reflect the continuity of the Buddhist thesis and its assimilation into the Saiva fold. 
+
 Moreover, Abhinava furnishes a lot of geographical data in the 8th Ahnika and subtle cultural information throughout the T.A. These are but a few glimpses. A study fathoming all the new material contained in the pages of this vast text will, indeed, be rewarding. 
+
 6. The 35th Ähnika termed as Samastaśästramelana reminds us of the synthetic Vedäntic effort represented by the phenomenon of Vedäntaväkyasamanvaya (synthetic unity of all Vedantic pro- positions). It underlies Abhinavagupta's synthetic approach which seeks to view the T.A. as an eclectical organism where one system culminates into the other and so on ultimately culminating into Trika system. Thus Tärkika, Śrauta, Bauddha, Ārhata, Vaiṣṇava, Siddhanta, Vamaka, Dakṣa, Mata, Kula, Kaula, and Trika move in a hierarchical order. It will be interesting and significant to un- earth as to how Abhinava propounds their synthetic progression.2 7. The meaning of 'Tantra' as understood by Abhinava is to be investigated. In his T.A. he quotes and alludes to even Śruti (T.A. 3.226) which is an external authority (Bähya Sastra) as Tantra. Jayaratha, following his master, even refers to Paurāņika Prakriya (Jayaratha on the T.A. 8.58). Abhinava goes on invoking his teachers, scriptures and even secular texts as authority. Now if 
+
 1. Buddhists of Kashmir, p. 150 
+
 २. अशेषतन्त्रसारं तु नामदक्षिणमाश्रितम् । 
+
 एकत्र मिलितं कौलं श्रीषडर्धशासने || 
+
 T.A. 37.2 
+
 AGENDA FOR FUTURE RESEARCH 
+
 251 
+
 all these constitute authority what is the precise implication of the word Tantra in Abhinavagupta. He himself distinguishes Tan- tra from Agama. His use of the word Tantra in the Tantraloka and 'Tantra-prakriya' must of necessity be in two different senses. Because, while Tantra-prakriya has been distinguished from Kulaprakriya on all the three counts namely, Mantra, Adhåra and Itikartavyata (7.4. 29.5-8)., both have been subsumed under Tantraloka. If the meaning were identical at both the places, Kulaprakriya would have remained outside the domain of the Tantraloka. 
+
 Such study will bring Abhinava's attitude towards tantra and several tantric systems into bold relief. In this connection one more topical issue may be raised. As we have pointed out else- where, there was an acute controversy with regard to the exact status of Spanda system i.e., whether it was an independent system or a part of Trika system. Abhinava obviously joins the second group because while paying glowing tributes to Kal- lata, the author of the Sp.K., he does not accord a separate status to Spanda system. Now under Kula-prakriya only one system i.e., Kula system, finds mention, whereas Tantraprakriya subsu- mes Krama, Trika and Pratyabhijñā within itself. What is then the locus standi of Spanda according to Abhinavagupta? 
+
 Even though we are not sure of the meaning of the term 'Tantra' in the Tantraloka, there is no doubt that all the three classified authoritative sources experience, scripture and reason-have been frequently drawn upon. The entire subject matter of the T.A. is somehow based on at least one of these sources. Some- times a particular point is based on more than one authority also. Abhinavagupta has exploited every opportunity to tell or point out his source of authority. For instance, the treatment of Kala 
+
 1. 
+
 स तन्निबन्धं विदधे महार्थं 
+
 युक्त्यागमोदीरिततन्त्रतत्त्वम् । आलोकमासाद्य यदीयमेष 
+
 लोकः सुखं संचरिता क्रियासु ॥ 
+
 2. K.T. pp. 113-118 
+
 3. इति यज्ज्ञेयसतत्त्वं दश्यंते मया तच्छ्विाज्ञया । 
+
 मया स्वसंवित्सत्तकपतिशास्त्रतिकक्रमात् ॥ 
+
 T.A. 37.83 
+
 T.A. 1.106252 
+
 INTRODUCTION TO THE TANTRĀLOKA 
+
 (time) is based on all the three sources.1 Rise of Cakra is based on experience and scripture (T.A. 7.71), while the pure universa- lity of the divine on experience and reason (T.A. 3.44). Similarly Abhisekavidhi is an exclusively agamic phenomenon (T.A. 23.1 & 23.103). Abhinava does not remain content with general des- cription of the source. He even prefers to identify the source. For instance, his theory of scriptural unity (Śastramelana) is ascribed to Sambhunatha (T.A. 35.44), the brief procedure (Samkṣipta- vidhi) is traced to the Dikṣottara and Kiraṇā (T.A. 18.11). Abhi- navagupta thus affords us a clear peep into his sources of topic- wise treatment. A complete chart drawn on these lines will enable us to know Abhinavan mind and appreciate the thematic unity of apparently divergent sources much better. 
+
 8. Jayaratha throws some esoteric hints in all his benedictory verses in cach Ahnika. A clear understanding of the same will help us understand Jayaratha better. 
+
 9. Abhinavagupta has employed about 76 illustrations (Drs- tanta) to exemplify his stand on various matters. These illustra- tions are interspread throughout the Tantraloka. A complete esti- mate of these illustrative instances will present Abhinavan think- ing in a much more lucid way. 
+
 10. On the strength of the material provided by Abhinava and Jayaratha, critical studies of the Sripurvasastra alias Mälinivija- yottaratantra (vide T.A. 13.212-253, 15.4-7, 21.2-5 etc.), Svac- candatantra and Paratrimśikā may be undertaken. Such studies will indeed further our understanding of the T.A. and vice versa. The agenda, as outlined above, do not exhaust the areas or directions of research. They simply underline the beginning of our quest to understand Abhinava and his celebrated text. 
+
 १. इति कालतत्त्वमुदितं शास्त्रमुखागमनिजानुभवसिद्धम् । 
+
 T.A. 7.1 
-## APPENDICES 
+
+## 7 APPENDICES 
 ### 1. TEXTS REFERRED TO BY NAME IN THE TANTRALOKA 
 Texts 
 Ahnika Verse 
@@ -9911,6 +15775,8 @@ Abhinavagupta
 - (Anenaiva) 
 Āgamavid (A)** 
 Agastya 
+  
+### 14. PERSONS* NAMED BY JAYARATHA
 14. PERSONS* NAMED AND/OR QUOTED BY JAYARATHA 
 IN THE TANTRĀLOKAVIVEKA 
 Volume Page 
@@ -10911,6 +16777,7 @@ VI/2695
 APPENDIX-14 
 341 
 System/Doctrine 
+### 15. SYSTEMS REFERRED BY JAYARATHA
 15. SYSTEMS/MAJOR DOCTRINES REFERRED TO BY NAME BY JAYARATHA IN THE TANTRALOKAVIVEKA 
 Volume/Page 
 (KSTS edition) 
@@ -11561,7 +17428,7 @@ II/70; IV/1498; V/2407; VII/3224 III/637, 708, 709, 710, 711
 II/102; III/709, 710, 729, 720, 734, 766, 844, 847, 918, 966, 
 968, 974, 975. 1000, 1022, 1030, 1034, 1043, 1052,; III/1097, 1133, 1182, 1200, 1201, 1244, 1305, 1321, 1322, 1325, 1326, 1336, 1337, 1338, 1339, 1343; IV/1354, 1361, 1498, 1541, 1656, 1667, 1752,; V/1945, 2029, 2058, 2396, 2397, 2400, 2402, 2427, 2534; VII/ 3221, 3222, 3224 3225, 3226 VII/3379 
 VIII/3452 
-16. UNSPECIFIED CITATIONS / REFERENCES IN JAYARATHA* 
+### 16. UNSPECIFIED CITATIONS / REFERENCES IN JAYARATHA* 
 Volume Page 
 Volume/Page 
 (KSTS edition) 
@@ -15960,7 +21827,8 @@ II/190
 VIII/182 
 V/2382 
 INTRODUCTION TO THE TANTRĀLOKA 
-17. DETAILED TABLE OF CONTENTS OF THE 
+### 17. SANSKIT TOC
+DETAILED TABLE OF CONTENTS OF THE 
 TANTRALOKA IN SANSKRIT 
 (विषयानुक्रमणिका) 
 प्रथममाह्निकम् 
@@ -23632,7 +29500,7 @@ Abhāsavāda 247
 Abhedabhävanā 177 
 ABHINANDA 35, 54 
 Abhinavabharati 25 
-18. WORD-INDEX 
+### 18. WORD-INDEX 
 ABHINAVAGUPTA Throughout ABHINAVA (cousin of ABHINAVA- 
 GUPTA) 23 Abhişeka 182, 184 Abhişekaprakāśana 182 Abhişekavidhi 182, 252 
 Acalaśrimatha 91 
@@ -24592,7 +30460,8 @@ Yojana 180
 Yojanika 226, 229 
 Yojanikabheda 180 
 YOGANANDA 35, 54 
-Yogangānupayogitva 152, 175 Yukti 1519. CORRECTIONS 
+Yogangānupayogitva 152, 175 Yukti 15
+### 19. CORRECTIONS 
 8 
 1 
 Page Fn., if any Line 
@@ -24822,6 +30691,7 @@ XII, p. 391
 M.V.V. 
 M.V.V. 
 T.A.3.12-14 
+### 20. KSTS TO MLBD TABLE OF CONVERSION
 20. TABLE OF CONVERSION OF REFERENCES APPEARING WITHIN THE INTRODUCTION TO THE TANTRALOKA FROM THE KSTS EDITION TO THE MLBD EDITION OF THE TANTRALOKAVIVEKA 
 Page Footnote Line Existing reference 
 to the KSTS edi- 
