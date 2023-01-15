@@ -24,8 +24,7 @@ title = "05 आणव-प्रकाशनम्"
 तद् एतच् च +++(शाक्तोपाय-ज्ञानम्)+++ निर्णीतम् अनन्तर+++(→पूर्व)+++ एव आह्निके । 
 
 
-<details>
-<summary>English</summary>
+<details><summary>English</summary>
 
 When a discursive thought (vikalpa) is capable of purifying itself in itself without depending on other means, it loses the functionality which is commonly associated with bonded beings (pasu).[^49]   
 Then, by the grace of pure knowledge (Suddhavidyā), it (vikalpa) becomes transformed into the energy of the great Lord, and after taking recourse to it as the 'means' (upāya), it becomes capable of manifesting the knowledge belonging to śakti (śākta).  
@@ -40,8 +39,6 @@ This process was explained in the previous chapter.
     However, in the case of those who lack right understanding, purification of thoughts (vikalpas) in this particular way is not possible. Therefore, they need to rely on other means for that purification of thoughts (vikalpas). In short, these means are: meditation, taking recourse to the vital energy (prāṇa), and making the body the instrument of knowledge as a means to attain one's ends.
 
     The body itself is a gross instrument for the attainment of the highest aim of life. For those who are steadily convinced that a body is the Self, it becomes a suitable means.
-
-
 </details>
 
 
@@ -52,8 +49,7 @@ This process was explained in the previous chapter.
 अणुत्वं प्राप्त  
 **आणवं ज्ञानम्** आविर् भावयति।+++(5)+++  
 
-<details>
-<summary>English</summary>
+<details><summary>English</summary>
 
 When, for the purification of discursive thought (vikalpa), one needs to rely on the 'means' (upāya), then he or she can take recourse in the intellect (buddhi), prāṇa, body, jar, and other external objects of a limited nature.[^50] By doing this, one descends to the level of an atom (aṇu) and causes the 'knowledge of limited nature' (āṇava) to manifest in his soul.
 
@@ -62,8 +58,6 @@ When, for the purification of discursive thought (vikalpa), one needs to rely on
     Meditation is performed by the intellect (buddhi). This kind of practice is fruitful for those who think that intellect is the Self. 
 
     On the other hand, those who are convinced that the vital air (prāṇa) is the Self make the prāṇa a means. In order to remove vikalpas, the aspirant makes use of body (karaṇa), mudra, and different sorts of āsanas. 
-
-
 </details>
 
 
@@ -78,8 +72,7 @@ When, for the purification of discursive thought (vikalpa), one needs to rely on
 **देहः** सन्निवेश-विशेषात्मा करण-शब्द-वाच्यः। +++(तन्त्रालोके ५-१२९ इत्यत्र करण-विश्लेषणम्।)+++  
 घटादयो **बाह्याः** कुम्भ-स्थण्डिल-लिङ्ग-पूजाद्य्-उपायतया कीर्तयिष्यमाणाः ।
 
-<details>
-<summary>English</summary>
+<details><summary>English</summary>
 
 On that level the buddhi possesses a meditative nature,
 
@@ -101,8 +94,6 @@ The body, possessing a specific type of arrangement, is denoted by the word kara
 [^52]: Karaṇa is a particular type of ānava upāya which relates to the meditation on the body, etc.
 
 Jars and so forth are external objects, which will be described as the means for the purpose of worshipping the altar and the phallic form (linga).
-
-
 </details>
 
 
@@ -111,8 +102,7 @@ Jars and so forth are external objects, which will be described as the means for
 तत्र ध्यानं तावद् इह +उचितम् उपदेक्ष्यामः।  
 यद् एतत् स्वप्रकाशं सर्व-तत्त्वान्तर्-भूतं परं तत्त्वम् उक्तं, तद् एव निज-हृदय-बोधे ध्यात्वा, तत्र **प्रमातृ-प्रमाण-प्रमेय-रूपस्य वह्न्य्-अर्क-सोम-त्रितयस्य सङ्घट्टं ध्यायेत्**।+++(5)+++  
 
-<details>
-<summary>English</summary>
+<details><summary>English</summary>
 
 Among all of these means, it is appropriate to give instruction regarding meditation first.It has already been pointed out that the self-shining supreme reality exists externally in all the principles (tattvas).
 
@@ -125,8 +115,6 @@ Having meditated on that supreme reality in the heart of one's own consciousness
     First of all the aspirant should meditate with concentration on the uni-flavoredness (samarasya) of prāṇa, apāna, and udāna, represent ing the moon, the sun, and the fire.+++(4)+++ This meditation is to be performed by stopping the outgoing and ingoing movement of vital air in such a way that prāṇa, apāna, and udāna, after giving up the functioning in their respective manners, become one, leaving out all distinctions. 
 
     As fire blazes up with the churning process of araṇi, in a similar way, the opposing movement of both prāṇa and apāna, being stopped, enters into the current in the middle path, which transforms it into the fire of udāna, known as the great terrible fire blazing upward. This fire is known as the great fire because it consumes the limitedness of the conscious subject, its object, and its instrument of knowledge. Thus, with attaining perfection in such meditation, the meditator becomes free from all limitations and then he makes an effort to attain oneness with the highest subject.
-
-
 </details>
 
 
@@ -140,8 +128,7 @@ Having meditated on that supreme reality in the heart of one's own consciousness
 
 +++(१२ शक्तिज्वालाः। इन्द्रियाण्य् अपि - ५ ज्ञानेन्द्रियाणि, ६ कर्मेन्द्रियाणि, बुद्धिः।)+++
 
-<details>
-<summary>English</summary>
+<details><summary>English</summary>
 
 One should meditate in this way as long as Bhairava's fire is not manifested by the fanning of the air in the form of meditation.
 
@@ -154,8 +141,6 @@ This fire is to be conceived as being encompassed by the aforesaid twelve flames
     - (a) sr̥ṣṭi-sr̥ṣṭi, sr̥ṣṭi-sthiti, sr̥ṣṭi-samhāra, sr̥ṣṭi-anākhyā 
     - (b) sthiti sr̥ṣṭi, sthiti-sthiti, sthiti-samhāra, sthiti-anākhyā 
     - (c) saṁhāra-sr̥ṣṭi, samhāra-sthiti, saṁhāra-saṁhāra, samhāra-anākhyā. 
-
-
 </details>
 
 
@@ -166,8 +151,7 @@ This fire is to be conceived as being encompassed by the aforesaid twelve flames
 ततोऽपि संहार-वह्नि-रूपतया **विलापितं**,  
 ततो ऽनुत्तरात्मताम् आपादितं **ध्यायेत्** ।+++(5)+++
 
-<details>
-<summary>English</summary>
+<details><summary>English</summary>
 
 While it is resting on the objective level,  
 one should first conceive of it as being externally replenished by the moon in the order of creation.  
@@ -179,9 +163,6 @@ Finally, it should be conceived of as being merged into transcendence in order t
 [^55]:
 
     The transcendent wheel (anuttara cakra) consisting of twelvefold nature, going outside through the outlets of the eye, etc., assumes the nature of the object. This object is characterized by the moon; the sense organs, representing the sun, are the instrument of knowledge (pramāṇa); while the knowing subject is the fire.+++(5)+++
-
-
-
 </details>
 
 
@@ -194,15 +175,13 @@ Finally, it should be conceived of as being merged into transcendence in order t
 
 इत्थं कृतान् = अनुत्तरात्म-रूपान् इत्यर्थः । यदि कस्यचिद् भावस्य वासना शिष्यते तर्हि सापि नश्यतीति तात्पर्यम् ।
 </details>
-<details>
-<summary>English</summary>
+
+<details><summary>English</summary>
 
 In this way, the "wheel" attains fullness with no difference from objective existence.  
 Then, one should meditate by means of that “wheel" on the residual traces that remain from the entities, and should dissolve them in a similar fashion.[^56]
 
 [^56]: After the destruction of all the objects, they remain existent in the form of residual traces. Therefore, they should also be placed into the flames of the fire of consciousness.
-
-
 </details>
 
 
@@ -221,48 +200,51 @@ Then, one should meditate by means of that “wheel" on the residual traces that
 पश्चात् ज्ञातोऽयम् अर्थ इति विमृशन्न् उपसंहरति।  
 अनन्तरम् अलं-ग्रास-युक्त्या पूर्णतापादनेन चिद्-अग्निसाद्-भावम् आपादयति ।
 </details>
-<details>
-<summary>English</summary>
+
+<details><summary>English</summary>
 
 The person who persists with this practice of meditation attains the firm conviction that the series of creation, maintenance, and dissolution are in essence nothing but his own consciousness, which in reality is freedom (svātantrya), shining as creation belonging to one's own innate consciousness.  
 In this way, one realizes the state of Bhairava without delay.
 
 However, it is only through practice that one attains all sorts of desired goals.
-
-
 </details>
 
 
 
 स्वप्रकाशं समस्तात्म-  
-तत्त्वं मात्रादिकं त्रयम् ।  
-अन्तःकृत्य स्थितं ध्यायेद्  
+तत्त्वं, **मात्रादिकं**+++(=मातृ-मान-मेयाः)+++ त्रयम् ।  
+अन्तःकृत्य स्थितं **ध्यायेद्**  
 +हृदयानन्द-धामनि ॥  
+
+<details><summary>English</summary>
+
+One should meditate in the blissful and luminous abode of one's heart as the self-manifest, integral unity of the Self consisting of three, that is, knower, knowledge, and object of knowledge,  
+having brought them into the core of his heart.
+</details>
+
   
 तद्-द्वादश-महा-शक्ति-  
-रश्मि-चक्रेश्वरं विभुम् ।  
+रश्मि-**चक्रेश्वरं** विभुम् ।  
 व्योमभिर्+++(=चक्षुरादि-सुषिरैः)+++ निःसरद् बाह्ये   
-ध्यायेत् सृष्ट्यादि-भावकम् ॥  
+**ध्यायेत्** सृष्ट्यादि-भावकम् ॥  
   
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+One should meditate on the Lord, the all-pervading One, the Lord of the “wheel" presiding over those : twelve powers of its rays, who is emerging outwardly through the outlets (voids, vyoma), and is the agent of creation, and so on.
+</details>
+
 तद्-ग्रस्त-सर्व-बाह्यान्तर्-  
-भाव-मण्डलम् आत्मनि ।  
-विश्राम्यन् भावयेद् योगी,  
-स्याद् एवं स्वात्मनः प्रथा ॥  
+**भाव-मण्डलम्** आत्मनि ।  
+**विश्राम्यन्** भावयेद् योगी,  
+**स्याद्** एवं स्वात्मनः **प्रथा** ॥  
   
 इति सङ्ग्रहश्लोकाः ।  
 इति ध्यानम् ।  
 
 
-<details>
-<summary>English</summary>
-
-One should meditate in the blissful and luminous abode of one's heart as the self-manifest, integral unity of the Self consisting of three, that is, knower, knowledge, and object of knowledge, having brought them into the core of his heart.
-
-One should meditate on the Lord, the all-pervading One, the Lord of the “wheel" presiding over those : twelve powers of its rays, who is emerging outwardly through the outlets (voids, vyoma), and is the agent of creation, and so on.
+<details><summary>English</summary>
 
 The yogin should meditate on the totality of entities, both external and internal, which have been dissolved into the Self and are going to take repose (viśrānti) therein. Thus, the light of the Self shines forth.
-
-
 </details>
 
 
@@ -280,8 +262,8 @@ The yogin should meditate on the totality of entities, both external and interna
 "अशून्यं शून्यम्" इत्य् उक्त-नीत्या निरूपिते **शून्ये** ।  
 **प्राणोदयात्** = "प्राक् संवित् प्राणे परिणता" इत्य् उक्त-लक्षणात् ।
 </details>
-<details>
-<summary>English</summary>
+
+<details><summary>English</summary>
 
 Now, the topic related to the 'upward movement' (uccārana) of the vital energy (prāṇa):
 
@@ -293,8 +275,6 @@ and then through the rising of prāṇa should have it rest in external objects.
 [^57]:
 
     While giving exposition of the mystery of uccāra related to the movement of the vital energy, the author states that due to this movement an unmanifest sound becomes manifest. This unmanifest sound is called unstruck sound (anāhata).+++(4)+++ Before the rise of prāṇa, the aspirant causes it for a moment to rest in his heart. 
-
-
 </details>
 
 
@@ -306,17 +286,12 @@ and then through the rising of prāṇa should have it rest in external objects.
 
 **प्रत्य्-अपान-चन्द्रापूरणेन**। अपान एवाप्यायन-कारित्वाच् चन्द्रः, तेन कृतं पूरणं नैराकाङ्क्ष्यम्, तद्-दशायां हि प्रमातृ-गताः प्रमेयांशाः क्रोडीभूय तिष्ठन्ति ।
 </details>
-<details>
-<summary>English</summary>
+
+<details><summary>English</summary>
 
 prāṇa should rise there while being replenished by the moon of apāna, by means of which one experiences one's all-inclusive nature  
 and becomes indifferent to everything distinct from the Self.
-
-
 </details>
-
-
-
 
 ततः +++(कुम्भकेन)+++ **समानोदयात्** +++(मेयांश-)+++सङ्घट्ट-विश्रान्तिम् अनुभवति +++(ब्रह्मानन्दाय)+++।
 
@@ -324,16 +299,11 @@ and becomes indifferent to everything distinct from the Self.
 
 विश्रान्तिम् = सर्वार्थानाम् अन्योन्य-मेलन-रूपाम् ।
 </details>
-<details>
-<summary>English</summary>
+
+<details><summary>English</summary>
 
 With the rise of samāna, balanced energy, one experiences the state of unification of all objects, which then rest in a state of repose.
-
-
 </details>
-
-
-
 
 तत +++(कुम्भक एव?)+++ **उदान-वह्न्य्-उदये** मातृ-मेयादि-कलना+++(ः)+++ ग्रसते +++(महानन्दाय)+++।
 
@@ -341,14 +311,11 @@ With the rise of samāna, balanced energy, one experiences the state of unificat
 
 प्राणापानादीनां कलना "षट्-शतानि दिवारात्रौ सहस्राण्य् एकविंशतिः"+++(=२१६०० श्वासाः)+++ इत्युक्त्या निरूपित-स्वरूपा ।
 </details>
-<details>
-<summary>English</summary>
+
+<details><summary>English</summary>
 
 Then, with the rise of the fire of udāna, the limiting distinction between subjectivity and objectivity is dissolved.
 </details>
-
-
-
 
 तद्-ग्रासक-वह्नि-प्रशमे **व्यानोदये** सर्वावच्छेद-वन्ध्यः स्फुरति +++(चिदानन्दाय)+++।
 
@@ -356,12 +323,10 @@ Then, with the rise of the fire of udāna, the limiting distinction between subj
 
 सर्वावच्छेद-वन्ध्यः - व्यापकतया सर्वावच्छेद-वन्ध्यत्वम् ।
 </details>
-<details>
-<summary>English</summary>
+
+<details><summary>English</summary>
 
 With this consuming fire, which devours objects, knower, and knowledge, and with the subsiding and rising of vyāna, the highest knower, free from limitation, becomes manifest.
-
-
 </details>
 
 
@@ -417,8 +382,8 @@ With this consuming fire, which devours objects, knower, and knowledge, and with
 
 जगदानन्दः = जगता निजानन्दादि-रूपेण इति तृतीयाकर्मधारयेण योज्यम् ।
 </details>
-<details>
-<summary>English</summary>
+
+<details><summary>English</summary>
 
 Thus, it is explained that all the 'stages of rest' (viśrānti) beginning with void (sūnya) and ending with vyāna, are all different stages of bliss. They are as follows: nijānanda, [^58] nirānanda, [^59] parānanda, [^60] brahmānanda, [^61] mahānanda, [^62] and cidānanda.[^63]
 
@@ -452,18 +417,15 @@ Thus, it is explained that all the 'stages of rest' (viśrānti) beginning with 
 
 Universal bliss (jagadānanda) is the one blissful state, which unifies all the other six states mentioned above.  
 This universal bliss is free from rising and setting, and is repose in one's own Self.
-
 </details>
 
 
 तद् एतासु +उच्चार-भूमिषु प्रत्येकं द्व्य्-आदिशः सर्वशो वा विश्राम्य  
 अन्यत् तद्-देह-प्राणादि-व्यतिरिक्तं विश्रान्ति-तत्त्वम् आसादयति ।
 
-<details>
-<summary>English</summary>
+<details><summary>English</summary>
 
 One should take rest, either in two (different) ways or in every respect, on one of the five prāṇas in any of the stages of uccāraṇa. By doing this, one is able to attain the reality of the truth of repose' (viśrāntitattvam), which is different from body, prāṇa, and so on.
-
 </details>
 
 
@@ -471,12 +433,9 @@ One should take rest, either in two (different) ways or in every respect, on one
 
 तद् एव सृष्टि-संहार-बीजोच्चारण-रहस्यम् अनुसन्दधद् विकल्पं संस्कुर्यात्।
 
-<details>
-<summary>English</summary>
+<details><summary>English</summary>
 
 This is indeed the secret of pronouncing the seed mantras of creation "sa" and dissolution "ha.” By continued unification of these two syllables one should purify discursive thoughts (vikalpa).
-
-
 </details>
 
 ### विश्रान्त्यवस्थाः
@@ -485,12 +444,9 @@ This is indeed the secret of pronouncing the seed mantras of creation "sa" and d
 +++(चिति व्योम्नि प्राणे ऽन्तरङ्गे बहिरङ्गे च समावेशे भवन्तीमा इति तन्त्रालोके। )+++
 
 
-<details>
-<summary>English</summary>
+<details><summary>English</summary>
 
 The above-mentioned 'stages of rest' have five stages, each of which depends on the comparative proficiency of the practitioner in absorption.
-
-
 </details>
 
 
@@ -508,8 +464,8 @@ The above-mentioned 'stages of rest' have five stages, each of which depends on 
 
 इति ।
 </details>
-<details>
-<summary>English</summary>
+
+<details><summary>English</summary>
 
 However, if one is well practiced in the above means, then the bliss comes in the beginning (pragānanda)[^64] because of the glimpse of the fullness of the Absolute.
 
@@ -533,14 +489,11 @@ However, if one is well practiced in the above means, then the bliss comes in th
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 **उद्भवः** अधस्तन-दशा-विशेषात् पर-धामाधिरोहात्मा। **निःशरीरतायां रूढेः** देहाहम्भावाभावे दार्ढ्यात्।
-
 </details>
-<details>
-<summary>English</summary>
+
+<details><summary>English</summary>
 
 As a result of this, an 'upsurge' (udbhava) takes place for a moment as one gains the firm conviction that he is free from the body.
-
-
 </details>
 
 
@@ -552,8 +505,8 @@ As a result of this, an 'upsurge' (udbhava) takes place for a moment as one gain
 
 **कम्पः** तद्-दार्ढ्य-त्यागः - स्वबलस्याहन्ता-वीर्यस्येति ।
 </details>
-<details>
-<summary>English</summary>
+
+<details><summary>English</summary>
 
 After this, 'shaking' (kampa) follows - because the conviction that the Self is identical to the body has been loosened by the overpowering nature of one's 'potentiality' (bala).
 </details>
@@ -567,8 +520,8 @@ After this, 'shaking' (kampa) follows - because the conviction that the Self is 
 
 **बहिर्-मुखत्व-विलयात्** = बाह्य-वृत्त्य्-उपरमात् ।
 </details>
-<details>
-<summary>English</summary>
+
+<details><summary>English</summary>
 
 This is followed by the 'void of sleep' (nidrā) as the tendency toward externality disappears.
 </details>
@@ -590,29 +543,25 @@ This is followed by the 'void of sleep' (nidrā) as the tendency toward external
 
 इति ।
 </details>
-<details>
-<summary>English</summary>
+
+<details><summary>English</summary>
 
 In this way, the notion of the self dissolves in the nonself, and the notion of the nonself dissolves in the Self because the Self is of the nature of all
 
 Then the yogin experiences 'great expansion' (mahāvyāpti), having 'firmly rooted himself in the truth' (satyapada), upon which a 'whirl' (ghūrni) takes place.
-
-
 </details>
 
 
 
 ता एता **जाग्रद्-आदि-भूमयः तुर्यातीतान्ताः** +++(अनुभूयन्त उच्चारे)+++।
 
-<details>
-<summary>English</summary>
+<details><summary>English</summary>
 
 All of these are the stages of the states of consciousness, which begin with the 'waking state' (jāgrat),[^65] and end with the state 'beyond the fourth' (turyātīta).
 
 [^65]:
 
     The five states like waking, etc., are related to the triangle centrally located in the mūlādhāra, where the delight is experienced. The bulb is the location of udbhāva, kampa is experienced in the heart, the palate is the place of the sleep (nidrā), while the whirl (ghūrṇi) is experienced at the end of twelve (dvādaśānta).+++(5)+++
-
 </details>
 
 
@@ -620,12 +569,9 @@ All of these are the stages of the states of consciousness, which begin with the
 
 एताश् च भूमयः +++(मूलाधारस्थ-)+++त्रिकोण-कन्द-हृत्-तालू-+++(द्वादशान्तस्थ)+++ऊर्ध्व-कुण्डलिनी-चक्र-**प्रवेशे** भवन्ति ।
 
-<details>
-<summary>English</summary>
+<details><summary>English</summary>
 
 These stages become manifest when a yogin enters the triangle, i.e., the 'bulb' (kanda), the heart, and the palate cakras, and the higher 'coiled state' of śakti (ūrdhva-kundalini).
-
-
 </details>
 
 
@@ -637,8 +583,7 @@ These stages become manifest when a yogin enters the triangle, i.e., the 'bulb' 
 यच् च **उन्मिषित-वेद्यं** +++(व्यक्त-लिङ्गम्, यत्र +अहन्तायाम् इदन्ताम् आपादयति संवित्)+++  
 तद् एव **लिङ्ग-त्रयम्** इति वक्ष्यामः स्वावसरे ।
 
-<details>
-<summary>English</summary>
+<details><summary>English</summary>
 
 That state, where the 'moving upward' (uccāra) of the vital energy has its repose (viśrānti),  
 where the entity of knowables has dissolved into a 'transcendent vibration' (param-spandam),  
@@ -655,7 +600,6 @@ The nature of this three fold linga will be described when the occasion for that
     - Avyakta linga is characterized by absorption (līnam) where everything loses its individuality. However, it is only experienced while one remains unified with it. It is this state from which the universe emerges and where it finally goes to rest. 
     - The manifested-unmanifested (vyakta vyakta) form of linga is of the nature of absorption with highest reality, which shines in the form, “I am This." Therefore, it is related to the pure level of dynamic energy on the one hand, and on the other, to the objective world. 
     - The manifest (vyakta) linga is of the nature of cognition in which I-Consciousness becomes subordinated and manifests itself as if distinct from it and therefore shines as "This.” However, even at this level it does not lose its pure nature of consciousness. 
-
 </details>
 
 
@@ -663,12 +607,9 @@ The nature of this three fold linga will be described when the occasion for that
 
 परं चात्र लिङ्गं **योगिनी-हृदयम्** ।
 
-<details>
-<summary>English</summary>
+<details><summary>English</summary>
 
 The highest linga according to this system is called 'Heart of Yogini' (Yoginihydaya).
-
-
 </details>
 
 
@@ -677,15 +618,12 @@ The highest linga according to this system is called 'Heart of Yogini' (Yoginihy
 तत्र मुख्या स्पन्दन-रूपता सङ्कोच-विकासात्मतया यामल-रूपतोदयेन विसर्ग-कला-विश्रान्ति-लाभाद् +++([क्: विसर्गविश्रान्तीति कला-पदहीनः पाठः ।])+++ इत्य् अलम् ।  
 अप्रकाशो ऽत्र +अनुप्रवेशः ।
 
-<details>
-<summary>English</summary>
+<details><summary>English</summary>
 
 Of the above, the principal one is characterized by vibration. When this vibration expresses itself in the form of contraction and expansion with the nature of the 'unity of the two' (yāmala), it attains repose with the form of the 'subtle emission' (visargakalā).
 
 Here, I should stop revealing esoteric secrets.  
 The entrance into it (samāvesa), however, remains unrevealed.
-
-
 </details>
 
 
@@ -697,14 +635,11 @@ The entrance into it (samāvesa), however, remains unrevealed.
 पूर्णेऽत्र विश्राम्यति, मातृ-मेय-  
 विभागम् आश्व् एव स संहरेत् ॥
 
-<details>
-<summary>English</summary>
+<details><summary>English</summary>
 
 In the beginning, one remains steadily established in one's own innate consciousness;  
 then by 'repose in the object' (prameye viśrāmya), one fills the knowable.
 Then he quickly dissolves the distinctions of subjectivity and objectivity, and takes rest.
-
-
 </details>
 
 
@@ -714,15 +649,12 @@ Then he quickly dissolves the distinctions of subjectivity and objectivity, and 
 प्राणादयो व्यानन-पश्चिमास् तल्-  
 लीनश् च जाग्रत्-प्रभृति-प्रपञ्चः ॥
 
-<details>
-<summary>English</summary>
+<details><summary>English</summary>
 
 Through expansion one experiences repose [(viśrānti)] on different levels.  
 These levels are six, along with the void (sūnya), and as such they serve as the means.  
 Waking and other states remain merged in this fivefold prāṇa,  
 beginning with prāṇa and ending with vyāna.
-
-
 </details>
 
 
@@ -735,8 +667,7 @@ beginning with prāṇa and ending with vyāna.
 
 इत्य् उच्चारणम् ।  
 
-<details>
-<summary>English</summary>
+<details><summary>English</summary>
 
 One well established in the above is able to ascend to (or become established in) the abode of the creation and dissolution of 'self-awareness' (vimarśa).
 </details>
@@ -760,6 +691,7 @@ One well established in the above is able to ascend to (or become established in
 इति सर्ववर्णाविभाग-स्वभावत्वाद् अव्यक्तः।  
 एवंविधो वर्णः क्वोपलभ्यते इत्य् आशङ्क्याह तस्येति ।
 </details>
+
 <details><summary>English</summary>
 
 Now on the topic of 'syllabic sound' (varna), which is of the nature of subtle vital energy:   
@@ -772,7 +704,6 @@ In that 'upward movement' (uccāra) of the vital energy, there is a sound (dhvan
     The dynamic movement of the vital energy is ever associated with a sound which is known as unstruck sound (anāhata). It goes on sounding automatically in the heart of every living being. There is none to utter it or to stop it. All the phonemes abide inseparably in it. 
     
     Furthermore, yogins experience two tinct aspects of nāda. The first is ever shining which does not have any rest. It only rises once and remains shining forever. Another aspect of nāda is one which rises but which also sets. However, the subtle nāda where all the phonemes inseparably abide is known as the unmanifest sound. Two seed mantras (bījas) called sr̥ṣṭi and samhāra are its manifested forms. In other words, nada is cognized by the help of these seed syllables.+++(4)+++ 
-
 </details>
 
 
@@ -797,6 +728,7 @@ The most important characteristics of this syllable are the seed mantras of crea
 उच्चारिते प्राणोपारोहेण।  
 स्मृते बुद्ध्युपारोहेण ।
 </details>
+
 <details><summary>English</summary>
 
 One can attain supreme consciousness by the practice of these mantras.  
@@ -828,6 +760,7 @@ This is because the word, that is, mantra, is free from conventional relations (
 काम-शोकादिना निबिडतरं भाव्यमाना  
 अ-सन्निहितम् अपि स्त्र्यादि-भावं साक्षात् कुर्वन्ति ।
 </details>
+
 <details><summary>English</summary>
 
 Even the words which depend on convention are also capable of conveying their respective meanings according to the imagination of one's mind.  
@@ -860,6 +793,7 @@ Some explain that from the 'reflective consciousness' vibrating in the 'core of 
 **गति-निरोधाभ्याम्** = बहिः-प्रसृत्य्--अन्तर्-मुख-विश्रान्तिभ्याम् ।  
 **पूर्णा** इति अनन्योन्मुखत्वान् निराकाङ्क्षा ।
 </details>
+
 <details><summary>English</summary>
 
 By the vibrating consciousness in absence of any object to be denoted,  
@@ -906,6 +840,7 @@ Karaṇa will be explained in the mudrā section.
 यदि च +एवं कथं तर्हि उपाय-वैचित्र्यम् ?  
 शक्ति-पात-वैचित्र्याद् इति ब्रूमः - यथा शक्ति-पात-वैचित्र्यात् शाम्भव-शाक्ताणवानां वैचित्र्यं, तथा इहापि इत्य् अर्थः ।
 </details>
+
 <details><summary>English</summary>
 
 To some, discursive thought (vikalpa) attains fullness without resorting to any means, and to some it is purified by taking recourse to means.  
