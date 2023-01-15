@@ -15,11 +15,11 @@ Hindu Tantric and Säkta Literature
 
 Isvara-pratyabhijñā-kārikā 
 
-Isvara-pratyabhijñā-kärikä-vivṛti Iśvara-pratyābhijñā-vimarśini 
+Isvara-pratyabhijñā-kärikä-vivṛti Iśvara-pratyābhijñā-vimarśinī 
 
-Bhaskari on Isvara-pratyabhijña-vimarsini 
+Bhaskari on Isvara-pratyabhijña-vimarśinī 
 
-Isvara-pratyābhijñā-vivṛti-vimarsini 
+Isvara-pratyābhijñā-vivṛti-vimarśinī 
 
 Janma-marana-vicara 
 

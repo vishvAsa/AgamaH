@@ -276,7 +276,7 @@ INTRODUCTION
 
 practical reputation also among the Shivaites of the South is clear from the fact that, as Barnett writes me, it had been edited in 1918 at Madras by V. R. Subrahmanya Aiyar with a Tamil translation and in 1920 at Amalapuram by M. Lakshminarasinham together with an interpretation in Telugu.' 
 
-Again, the great scientific importance of the text could be surmised after the comparatively detailed discussion by M. S. Kaula, A Short Review of the Research Publications (Kashmir State), as well as from the words of the meditor, J. C. Chatterji, who says of it in the preface : t bears the same relation to the Adväita Shaivä System of Kashmir as the Vedanta-sära of Sadananda does to the Vedānta System. That is to say, it is intended to be an easy introduction to, and a summary of the doctrines of, the System.' Whether the text really deserves the epithet 'easy,' the reader may judge for himself. But the surmise as to the importance of the text has been confirmed in the course of translating; indeed, it presents an introduction into the system and a com pendium of its most important doctrinal material. Only later did I become aware, through a footnote in Winternitz, G.I.L., 313, p. 445, that also V. S. Ghate, Ind. Ant. 42 (1913), p. 217f., in his discussion of the Sivasūtravimars'inī and the Pratyabhijñahraya re conimends the latter as a handbook for the introduction to Kashmir Shivaism. 
+Again, the great scientific importance of the text could be surmised after the comparatively detailed discussion by M. S. Kaula, A Short Review of the Research Publications (Kashmir State), as well as from the words of the meditor, J. C. Chatterji, who says of it in the preface : t bears the same relation to the Adväita Shaivä System of Kashmir as the Vedanta-sära of Sadananda does to the Vedānta System. That is to say, it is intended to be an easy introduction to, and a summary of the doctrines of, the System.' Whether the text really deserves the epithet 'easy,' the reader may judge for himself. But the surmise as to the importance of the text has been confirmed in the course of translating; indeed, it presents an introduction into the system and a com pendium of its most important doctrinal material. Only later did I become aware, through a footnote in Winternitz, G.I.L., 313, p. 445, that also V. S. Ghate, Ind. Ant. 42 (1913), p. 217f., in his discussion of the Sivasūtravimarś'inī and the Pratyabhijñahraya re conimends the latter as a handbook for the introduction to Kashmir Shivaism. 
 
 'In passing, it should be noted that, according to Barnett, these are the only translations, or commentaries on our text which liave been published. 
 
@@ -460,7 +460,7 @@ The first is that of philosophic insight. It is called pratyabhijña, 'recogniti
 
 The second method, which, to be sure, is rather subordinate in our text, being hinted at only in occasional suggestions, is that of the mantras. He who learns to use the magic formulae through a teacher and acquires thereby mantravīrya, mantra power-because the formulas are composed of the syllables representing the cosmic elements, i.e., the 
 
-'In the Sivasūtravimars'ini, ic, Ksemaraja's commentary to the fundamental work on Kashmir Shivaism, this problem is treated inuch more in detail. 
+'In the Sivasūtravimarś'ini, ic, Ksemaraja's commentary to the fundamental work on Kashmir Shivaism, this problem is treated inuch more in detail. 
 
 16 
 
@@ -2740,7 +2740,7 @@ determined and thus excluding every activity that may have a different aim.
 
 The change of the subject here is necessitated by the context, though it is not expressed formally in the text. 
 
-160. To the macrocosmic re absorption there corresponds the psychological experience of the Yogin when, in his meditation, the empirical universe is vanishing. The word vimars'ıı means really 'touching ', then investigating, scrutinizing, reflecting. We have rendered it by 'meditation, Iccording to Kșemarāja, ShSV., 116, 14, it is the experience of the Yogin by which he acquires knowledge of the true nature of his own self ; ib, 120, 4 we read that it consists in turya (see note 140) and camatkāra. This latter expression is peculiar and offers an opportunity for studying the inner experience of the Yogin. It means 'to cry “camat", that is, to exclaim with astonishment. Thus, the word describes the moment of ecstasy when the Yogin is becoming enlightened. 
+160. To the macrocosmic re absorption there corresponds the psychological experience of the Yogin when, in his meditation, the empirical universe is vanishing. The word vimarś'ıı means really 'touching ', then investigating, scrutinizing, reflecting. We have rendered it by 'meditation, Iccording to Kșemarāja, ShSV., 116, 14, it is the experience of the Yogin by which he acquires knowledge of the true nature of his own self ; ib, 120, 4 we read that it consists in turya (see note 140) and camatkāra. This latter expression is peculiar and offers an opportunity for studying the inner experience of the Yogin. It means 'to cry “camat", that is, to exclaim with astonishment. Thus, the word describes the moment of ecstasy when the Yogin is becoming enlightened. 
 
 161. 'The mountain of manifoldness' is the error which makes us differentiate between subject and object, between the all-soul and the individual soul. 
 
@@ -2750,9 +2750,9 @@ NOTES
 
 135 
 
-system; for here we ultimately have to transcend the 'you' in order to reach the pure I'. The stanza might come from a text of the Shivaite Bhakti movement, if not from a Vishņuite text. Presumably, it was quoted by Kişemarāja just on account of the verb paramars (from the same root as vimarsa) which is used in it. About the Shivabhakti consult Macnicol, 1. Th., p. 160 ff. 
+system; for here we ultimately have to transcend the 'you' in order to reach the pure I'. The stanza might come from a text of the Shivaite Bhakti movement, if not from a Vishņuite text. Presumably, it was quoted by Kişemarāja just on account of the verb paramars (from the same root as vimarśa) which is used in it. About the Shivabhakti consult Macnicol, 1. Th., p. 160 ff. 
 
-163. To the macrocosinic concealment (vilaya) which takes place in the phase of the world rest there corresponds the state of the individual soul which-though experiencing re-absorption in virtue of vimars'a-has, nevertheless, not yet reached ultimate liberation. The sasirskāras keep the soul in sasisāra by producing a germ or seed (bija) for a future existence. Although the sariis. kūras may have been neutralized wyliya for a time.-take it as a cosmic or a psychic event - they resuine their activity at once in a new sưsti and create new sunsard. The Yoga (listinguishes between two kinds of samadhi. First, the sablja-samādhi (i.e., the samādhi that is still burdaned with hijas), so-called because the dispositions (sarıskaras) still continue to have an influence in it; secondly, the nirbija-samadhi (1.2, the samādhi that is free from bijas), so-called because all dispositions have disappeared therein. On this doctrine which corresponds exactly to and probably is the foundation of the Trika doctrine developed here, consult Garbe, S. Y., p. 44. 
+163. To the macrocosinic concealment (vilaya) which takes place in the phase of the world rest there corresponds the state of the individual soul which-though experiencing re-absorption in virtue of vimarś'a-has, nevertheless, not yet reached ultimate liberation. The sasirskāras keep the soul in sasisāra by producing a germ or seed (bija) for a future existence. Although the sariis. kūras may have been neutralized wyliya for a time.-take it as a cosmic or a psychic event - they resuine their activity at once in a new sưsti and create new sunsard. The Yoga (listinguishes between two kinds of samadhi. First, the sablja-samādhi (i.e., the samādhi that is still burdaned with hijas), so-called because the dispositions (sarıskaras) still continue to have an influence in it; secondly, the nirbija-samadhi (1.2, the samādhi that is free from bijas), so-called because all dispositions have disappeared therein. On this doctrine which corresponds exactly to and probably is the foundation of the Trika doctrine developed here, consult Garbe, S. Y., p. 44. 
 
 164. For the change of the subject see note 159. 
 
@@ -2782,7 +2782,7 @@ knowledge, corresponds to what has thus far been developed in our text. Neverthe
 
 167. The basis of this form of magic is furnished by the as sumption of a secret correspondence between the saktis of the universe and the sounds of the (Sanskrit) language, or, rather, the letters of the [Sanskrit) alphabet. We may even speak of an identity of s'aktis and sounds and not merely of a correspondence between them. The philosophical reason for this identity is as follows. There are the two highest fornis of Shiva's manifestation (see note 127), parāsakti as the sun total of all objects and parāvāc as the sum total of the corresponding words. As these two are ultimately identical, so also the different saktis which have their origin in parāsakti and forin the world of objects and the individual sounds which have their origin in parāvāc and constitute the world of speech. He who masters all sounds by rightly making use of the mantras (ie, the magic formulas) which are made up of them, is master also of the whole circle of s'aktis and conse quently of the highest sakti as well. In the end, such mastery amounts to the same as having knowledge and leads, therefore, to s'aktipāta and, hence, to salvation. But the mantras as such represent merely a linkage of sounds which are totally ineffective. How they become effective is shown by our author in the ShSV. (cf. Iyengar, ShSV., p. 358 with note and p. 359). 
 
-168. 'Perfect consciousness of the “I” (pīrra-ahan vimars'a) is the consciousness of the identity of self and universe. The real meaning of vimars'a is scrutiny, deliberation; cf. the vimars'ana of p. 246 which we have translated by meditation. The term is rendered by Barnett sometimes reflection', other times “intelligence'; Iyengar translates meditation,' 'discriminative inquiry,'' consciousness.' 
+168. 'Perfect consciousness of the “I” (pīrra-ahan vimarś'a) is the consciousness of the identity of self and universe. The real meaning of vimarś'a is scrutiny, deliberation; cf. the vimarś'ana of p. 246 which we have translated by meditation. The term is rendered by Barnett sometimes reflection', other times “intelligence'; Iyengar translates meditation,' 'discriminative inquiry,'' consciousness.' 
 
 18 
 
@@ -3246,7 +3246,7 @@ graphy of the Indian Philosophical Systems, Calcutta,
 
 1859. Iyengar, ShSV.-P. T. Shrinivas Iyengar, The Shiva-Sutra 
 
-Vimarshint of Kshemarāja, translated into English, Allahabad, 
+vimarśhint of Kshemarāja, translated into English, Allahabad, 
 
 1912.* Iyerigar, Outlines of Indian Philosophy, Benares and London, 
 
@@ -3266,7 +3266,7 @@ Kallata, in The Kashmir Series of Texts and Studies, vols. 4
 
 and 5, Srinagar, 1916. Kaula, Sh. R.-M. S. Kaula, A Short Review of the Research 
 
-Publications (Kashmir State). Kşemarāja, SHSV-The Shiva Sitra Vimarshini, being the 
+Publications (Kashmir State). Kşemarāja, SHSV-The Shiva Sitra vimarśhini, being the 
 
 Sūtras of Vasu Gupta with the Commentary called Vimar. shini by Kshemarāja, in The Kashmir Series of Texts and 
 
@@ -4562,7 +4562,7 @@ sarivid 73 ff., 75, 146, 152, 153. vijñānākala 28, 35, 43, 110-113, 158.
 
 117, 126. 
 
-samsāra 14, 16, 19, 38, 40, 41, vidyā 28, 35, 40, 45, 49, 105, 117... 51, 55, 60, 120, 132, 135.6, vimars'a 134, 135, 137. 
+samsāra 14, 16, 19, 38, 40, 41, vidyā 28, 35, 40, 45, 49, 105, 117... 51, 55, 60, 120, 132, 135.6, vimarś'a 134, 135, 137. 
 
 143, 145. l'imuktakas 62. 
 
@@ -4698,7 +4698,7 @@ LAKE simile 94, 158. Letters of the Sanskrit alphabet, cf. llphabet, Syllables. 
 
 66 f., 91, 110, 119 (wyalt), Logos 146. Lordship, an attainment of Yoga 96. Lotus of the heart 82, 83, 157, 158. Love 156. 
 
-MAINTENANCE of the world, cf sthati. Manifestation 26, 57, 63, 91, 94 114. Manifoldness 26-9, 40-1, 44-45, 54, 61, 110, 134. Materialists, Indian 41. Meditation 54, 85, 90, 92, 98 (cf. Concentration ; vimarsa). Monism 38.9, 40-41, 44-5, 48, 108.9, 133. 
+MAINTENANCE of the world, cf sthati. Manifestation 26, 57, 63, 91, 94 114. Manifoldness 26-9, 40-1, 44-45, 54, 61, 110, 134. Materialists, Indian 41. Meditation 54, 85, 90, 92, 98 (cf. Concentration ; vimarśa). Monism 38.9, 40-41, 44-5, 48, 108.9, 133. 
 
 NON-CONSIDERATION, cf. akhyāti. Nucleus, cf. sāra. 
 
@@ -4718,7 +4718,7 @@ Psycho physical 31, 1418
 
 RAIX-DROP simile 86. Reabsorption of the world 15.16, 21, 17, 50 ff., 54 ff., 57, 59, 68-9, 
 
-89 ff., 96 f., 131, 134, 135-6; 139 (cf. vimarsa, sarhāra, 
+89 ff., 96 f., 131, 134, 135-6; 139 (cf. vimarśa, sarhāra, 
 
 sarti). Reality of the world 11, 19, 40 10, 4718; 51 ff., 71 ff. Reason 21 (cf. citi). Rebirth, cf. sasisāra. Recognition, cf. pratyabhijā. Renaissance, Indian 1, 2. Rôles of an actor simile 40 ff., 131. Rope of brahman 149. 
 
@@ -4842,7 +4842,7 @@ Raja, M.A., D.Phil. (Oxon.)
 
 Dr. C. Kunhan Raja, MA. D.Phil. (Oxon.) 
 
-7. Bhavasamkrantiautra and Nagarjuna's Bhavasamkranti. 
+7. Bhavasamkrantiautra and NagaR̥juna's Bhavasamkranti. 
 
 sastra with the commentary of Maitreyinatha-with English translation--by Pandit N. Aiyaswami Sastri, Professor of Buddhist Studies, Vishvabharati, Santi 
 

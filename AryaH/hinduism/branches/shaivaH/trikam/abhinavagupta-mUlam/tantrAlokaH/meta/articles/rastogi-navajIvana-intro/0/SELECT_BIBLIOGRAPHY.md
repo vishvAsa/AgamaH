@@ -35,7 +35,7 @@ No. XXIV, 1918.
 
 The Philosophy of the Tantraloka in the First Three Ahnikas with Translation into English, doctoral thesis submitted to the Lucknow University, 1971 (unpublished). (i) Upodghata (Upodghata) to the Luptagama- samgraha, Vol. II, S. Sanskrit University, Varanasi, 1984. 
 
-(ii) Upodghata to the Nityaṣoḍaśikārṇava with two commentaries-Ṛjuvimarsini and Artha- ratnavali, S. Sanskrit University, Varanasi, 1968. 
+(ii) Upodghata to the Nityaṣoḍaśikārṇava with two commentaries-Ṛjuvimarśinī and Artha- ratnavali, S. Sanskrit University, Varanasi, 1968. 
 
 (i) Luce delle Sacre Scritture (Tantraloka) di Abhinavagupta, translated into Italian with Introduction, Torino, 1972. 
 

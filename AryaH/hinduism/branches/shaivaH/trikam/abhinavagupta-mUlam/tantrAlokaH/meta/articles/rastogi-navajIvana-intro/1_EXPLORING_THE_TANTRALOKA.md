@@ -3,25 +3,25 @@ title = "1 EXPLORING THE TANTRALOKA"
 
 +++
 
-Strange as it may appear, the Tantraloka happens to be the only major 'original' work of Abhinava while his all other important works1 come to us in the form of a commentary on some earlier valuable text notwithstanding his own description of the Tan- trāloka as a gloss, as we shall see in the sequel. 
+Strange as it may appear, the Tantraloka happens to be the only major 'original' work of Abhinava while his all other important works[^1] come to us in the form of a commentary on some earlier valuable text notwithstanding his own description of the Tan- trāloka as a gloss, as we shall see in the sequel. 
 
 (i) Traditional Approach to the Tantraloka 
 
-A peep into and a look around the Tantraloka off- ers many illuminating insights. Towards twelfth cen- tury Śivananda, the author of the Rjuvimarsini, refers to it as the Trika-śästra or Trika-saraśāstra" and the verses cited are traceable to the published edition of the Tantraloka. It, therefore, appears that by that time it came to be regarded as the most representative text of Trika system. Kṣemarāja, the illustrious pupil of Abhinavagupta, talks of two characteristics of the text. One, it was composed in the state of Absolutic trance and other, it is a key to the secrets of entire 
+A peep into and a look around the Tantraloka off- ers many illuminating insights. Towards twelfth cen-tury Śivananda, the author of the R̥juvimarśinī, refers to it as the Trika-śästra[^2] or Trika-saraśāstra[^3] and the verses cited are traceable to the published edition of the Tantraloka. It, therefore, appears that by that time it came to be regarded as the most representative text of Trika system. Kṣemarāja, the illustrious pupil of Abhinavagupta, talks of two characteristics of the text. One, it was composed in the state of Absolutic trance[^4]
 
-1. Abhinava's other major works include A.Bh. (Comm. on the N.S.), I.P.V (Comm. on I.P.K.), I.P.V.V. (Comm. on the I.P.K.V.) and Locana (Comm. on the Dh. L.). 
+[^1]: Abhinava's other major works include A.Bh. (Comm. on the N.S.), I.P.V (Comm. on I.P.K.), I.P.V.V. (Comm. on the I.P.K.V.) and Locana (Comm. on the Dh. L.). 
 
-2. तदुक्तं श्रीत्रिकशास्त्रे | NST with Rjuvimarśinī and Artharatnāvali, ed. B.V. Dvivedi, Varanasi, p. 19. The verses quoted are traceable to T.A. 3.94-95. 
+[^2]: तदुक्तं श्रीत्रिकशास्त्रे | NST with R̥juvimarśinī and Artharatnāvali, ed. B.V. Dvivedi, Varanasi, p. 19. The verses quoted are traceable to T.A. 3.94-95. 
 
-3. agafara Ibid., pp. 138-139. The verses are traceable to T.A. 15.285-287. 
+[^3]: तदुकं श्रीत्रिकसारशास्त्रे, pp. 138-139. The verses are traceable to T.A. 15.285-287. 
 
-4. परभैरवस्फारमयैरस्मद्गुरुभिरपि तन्त्रालोके । S. T.U., I, pp. 39-40 
+[^4]: परभैरव-स्फार-मयैर् अस्मद्-गुरुभिर् अपि तन्त्रालोके । S. T.U., I, pp. 39-40 
 
 12 
 
 INTRODUCTION TO THE TANTRĀLOKA 
 
-agamic literature. In the Tantrasāra, Abhinavagupta invariably describes the Tantraloka as a detailed treatise and asks the author to turn for detailed dis- cussion of the problem to the latter which incorpo- rates all the prescriptive and negative injunctions emanating not only from Vedic but from Saiva, Tan- tra and Trika sources also. The view has been con- sistently hammered again and again." According to the Tantrasāra, the Tantraloka was not only a reposi- tory of agamic lore but a critical text which minutely recorded even internal and mutual divergences. Thus the image of the Tantrāloka as a single, extra-com- prehensive and authoritative source book appears to have been projected by Abhinavagupta himself. The central theme of the Tantraloka, according to Abhi- navagupta in his Locana, however revolves round 
+and other, it is a key to the secrets of entire agamic literature. In the Tantrasāra, Abhinavagupta invariably describes the Tantraloka as a detailed treatise and asks the author to turn for detailed dis- cussion of the problem to the latter which incorpo- rates all the prescriptive and negative injunctions emanating not only from Vedic but from Saiva, Tan- tra and Trika sources also. The view has been con- sistently hammered again and again." According to the Tantrasāra, the Tantraloka was not only a reposi- tory of agamic lore but a critical text which minutely recorded even internal and mutual divergences. Thus the image of the Tantrāloka as a single, extra-com- prehensive and authoritative source book appears to have been projected by Abhinavagupta himself. The central theme of the Tantraloka, according to Abhi- navagupta in his Locana, however revolves round 
 
 1. यदुक्तमस्मद्गुरुभिः अशेषागमोपनिषदालोके तन्त्रालोके । 
 

@@ -7,9 +7,7 @@ title = "Notes"
 ## 06
 [^79]:
 
-    The day is the period when the sun shines and the moon, in the form of apāna, declines. For this reason, the day is conceived to be the period of the dark fortnight. Similarly, during the night, apāna, in the form of the moon, arises; therefore, the night is conceived as 
-
-the bright fortnight. 
+    The day is the period when the sun shines and the moon, in the form of apāna, declines. For this reason, the day is conceived to be the period of the dark fortnight. Similarly, during the night, apāna, in the form of the moon, arises; therefore, the night is conceived as the bright fortnight. 
 
 [^80]:
 
@@ -1326,9 +1324,9 @@ Chapter Twenty-One
 
     In this chapter, Abhinavagupta gives a brief outline of his under 
 
-standing of the nature, meaning, and purpose of the āgamas or śāstras. This summary is brief and cryptic, and therefore difficult to comprehend without prior knowledge of the corresponding chap ters of the Tantrāloka, īśvarapratyabhijñāvimarsini, or īśvara 
+standing of the nature, meaning, and purpose of the āgamas or śāstras. This summary is brief and cryptic, and therefore difficult to comprehend without prior knowledge of the corresponding chap ters of the Tantrāloka, īśvarapratyabhijñāvimarśinī, or īśvara 
 
-pratyabhijñāvivstivimarsini. 
+pratyabhijñāvivr̥tivimarśinī. 
 
 [^238]:
 

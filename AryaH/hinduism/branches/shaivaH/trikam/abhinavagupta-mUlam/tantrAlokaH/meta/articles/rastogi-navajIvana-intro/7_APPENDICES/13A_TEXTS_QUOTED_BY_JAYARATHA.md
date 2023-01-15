@@ -501,7 +501,7 @@ IV/1416
 II/43 
 314 
 INTRODUCTION TO THE TANTRĀLOKA 
-10. Published in KSTS with Utpala's own Vrtti alongwith Sambandhasiddhi, Ajadapramātṛsiddhi and Iśva- rasiddhi under the title Siddhitrayi. Critical editions of the complete Vrtti by Utpala is under preparation of HP Alper (Dallas) and R. Torrella (Rome). Also published in KSTS with Abhinavagupta's Vimarsini (two volumes) and Vivrtivimarsini (three volumes) entitled respectively as Isvarapratyabhijñāvimarsini and Isvarapratyabhijñā- vivṛtivimarsini. Later published by KC Pandey under the title Bhaskari (two volumes) alongwith Abhinava's Vimarsini and Bhaskarakantha's Bhaskari. The same with a large commentary by an anonymous author edited by Pandey and the present author is shortly coming out from Motilal Banarsidass. 
+10. Published in KSTS with Utpala's own Vrtti alongwith Sambandhasiddhi, Ajadapramātṛsiddhi and Iśva- rasiddhi under the title Siddhitrayi. Critical editions of the complete Vrtti by Utpala is under preparation of HP Alper (Dallas) and R. Torrella (Rome). Also published in KSTS with Abhinavagupta's vimarśinī (two volumes) and Vivrtivimarśinī (three volumes) entitled respectively as Isvarapratyabhijñāvimarśinī and Isvarapratyabhijñā- vivṛtivimarśinī. Later published by KC Pandey under the title Bhaskari (two volumes) alongwith Abhinava's vimarśinī and Bhaskarakantha's Bhaskari. The same with a large commentary by an anonymous author edited by Pandey and the present author is shortly coming out from Motilal Banarsidass. 
 11. It seems to be a scribal mistake for the Sripurvasastra which is none other than the Malinivijayottara. See Appendix 1. 
 APPENDIX-13(A) 
 315 
@@ -644,7 +644,7 @@ Subodhamañjarī15 (A)
 11/4 
 Sūkṣmasvayambhuva(A) 
 IX/3 
-Sūtravimarsini (A) 
+Sūtravimarśinī (A) 
 III/449 
 II/39-40, 41-44 
 V/2104 
@@ -793,7 +793,7 @@ Vidyuman (A)s57
 1/43 
 II/43 
 19. The Tă. Să. refers to certain Utphullikāmata (p. 77). 
-20. Published with Jayaratha's commentary in KSTS captioned as the Vamakaśvarimatavivarana. This is identical with the Vamakeśvaratantra and has two parts, namely-Yoginihṛdaya and Nityaṣoḍaśikärnava. The Yoginihrdaya has been brought out in Prince of Wales, Saraswati Bhawan Series with Amṛtānanda's Dipikā and the Nityaṣoḍaśikārṇava in Anandaśrama Sanskrit Series alongwith Bhaskararaya's Setubandha. The Nityaṣoḍaśikārṇava has been again brought out by S. Sanskrit University, Varanasi together with the Rjuvimarsini by Sivananda and the Artharatnavali by Vidyananda. B.V. Dvivedi, Varanasi and Andre Padoux, Paris are engaged in bringing out a critical edition of the Yoginihrdaya with Dipika togetherwith its translation 
+20. Published with Jayaratha's commentary in KSTS captioned as the Vamakaśvarimatavivarana. This is identical with the Vamakeśvaratantra and has two parts, namely-Yoginihṛdaya and Nityaṣoḍaśikärnava. The Yoginihrdaya has been brought out in Prince of Wales, Saraswati Bhawan Series with Amṛtānanda's Dipikā and the Nityaṣoḍaśikārṇava in Anandaśrama Sanskrit Series alongwith Bhaskararaya's Setubandha. The Nityaṣoḍaśikārṇava has been again brought out by S. Sanskrit University, Varanasi together with the R̥juvimarśinī by Sivananda and the Artharatnavali by Vidyananda. B.V. Dvivedi, Varanasi and Andre Padoux, Paris are engaged in bringing out a critical edition of the Yoginihrdaya with Dipika togetherwith its translation 
 into French. 
 321 
 322 

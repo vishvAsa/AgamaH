@@ -378,7 +378,7 @@ Samkhya yoga, Pāñcaratra and Pāśupata thoughts origi nated as a reaction aga
 1. Vahudhāpyāgamairbhinnāh Panthānah siddhihetavah 
 Twayyeva nipatantyaugha jahnavīyā irārnave 
 (Raghu 10.26) 2. Trayī sāņkham yogah pasupatimatam vaisnavamiti 
-Prabhinne prasthane Varamidamadah pathyamiti ca Rucīnam Vaicitryādrjukutilanānāpathajuşam 
+Prabhinne prasthane Varamidamadah pathyamiti ca Rucīnam VaicitryādR̥jukutilanānāpathajuşam 
 nrnameko gamyastamasi payasamarnava iva. (Śiva m.st.7) 3. Nanu Sānkhya yoga Pāñcarātra Pāśupatādyāgamāh kim 
 dharme pramāṇam uta na. (Pari, pra.) 4. Cha. up. 7.1.1Introduction 
 45 
@@ -577,7 +577,7 @@ Saivī sādhana is beginningless. To make the people of the world liberated Saiv
 Tantraloka 
 Tryambakāditya, Amardaka and Srīnātha. The speech delivered to Tryambakāditya is the root of Kāśmira Saiva school. The Āgamika texts represent the beginningless Kāśmīra Śaiva philosophy on record. Main texts of Kāśmīra saiva philosophy are Mālinīvijayottara Tantra, Swacchanda Tantra, Netra tantra, Swāyambhuwa Tantra, Rudrayāmala Tantra, Nihśwāsa Tantra, Vijñāna bhairava, Aananda bhairava, Ucchusmabhairava and Mrgendraāgama. These Agamika texts are possibly the teachings of siddha yogins who had got Siva-samāvesa (identity with Sīva). Later on these teachings were made in writings. Therefore it is improper to decide their period on the basis of language. 
 The first text of Kāśmīra Saiva Šāstra, having philosophic view, is Šīva-sūtras. Lord Srīkantha who was an embodiment of Śiva, ordered Śrī Vasugupta in dream to visit the mountain named Mahadeva and find out sīva sūtras inscribed on a piece of stone , in the beginning of ninth century'. There fore the first teacher of Saiva school is Acārya Vasugupta. He was principal teacher of Tryambaka mathikā (school). His other works are Spandāmsta and Siddhanta candrikā which are not available at present. 
-After Vasugupta this school was divided into two streams. The first stream gave more importance to religion. The first Acārya of this stream was Kallața who was a desciple of Vasugupta. The time of Kallata is the middle of the ninth century. His main work is Spandakārika which consists of 50 verses. Sivasūtravịtti, Spandasrvaswa, Tatwārthacintāmani etc. are his other literary creactions. After Kallata there were two scholars Bhatta Pradyumna and Prajñārjuna who along with being his disciples were his cousin (mātuleya) and son respectively. The desciple of Prajñārjuna was Mahādeva bhatta and Srīkantha bhatta was his son and disciple. Bhāskara was the 
+After Vasugupta this school was divided into two streams. The first stream gave more importance to religion. The first Acārya of this stream was Kallața who was a desciple of Vasugupta. The time of Kallata is the middle of the ninth century. His main work is Spandakārika which consists of 50 verses. Sivasūtravịtti, Spandasrvaswa, Tatwārthacintāmani etc. are his other literary creactions. After Kallata there were two scholars Bhatta Pradyumna and PrajñāR̥juna who along with being his disciples were his cousin (mātuleya) and son respectively. The desciple of PrajñāR̥juna was Mahādeva bhatta and Srīkantha bhatta was his son and disciple. Bhāskara was the 
 Srīman mahādevagirau Vasugupta guroh purā siddhādeśat prādurāsan sivasūtrani Tasya hi (s.s.v. 1.3)Introduction 
 65 
 disciple of Śrīkantha bhatta and son of Diwākara. The Sivasūtra Vārtika written by Bhāskara made his first guru Vasugupta more eminent. The time of Bhāskra is 11th century. Along with Bhāskara the religious or Agamika stream came to close and Laksmanagupta the son of Bhāskara was connected with the philosophical stream founded by Acārya Somānanda nātha. 
@@ -591,12 +591,12 @@ Tantraloka
 Trika and Ekavīra disciplines. He was an expert player of Nāda Vīņa. He was jīvanmukta even though engrossed in worldly enjoyment. 
 According to Dr. K.C. Pāndeya a mohammadan had seen Abhinavagupta entering into a cave along with some of his disciples from which he never came back. 
 His works can be classified in three categories — 
-1. Saiva Philosophy—ĪŚwarapratyabhijñā Vimarsinī, 
-Iswarapratabhijñān Vivrti Vimarsinī, Tantrāloka, Tantrasāra, Parmarthasāra, Parātrīśikā Vīvarana, 
+1. Saiva Philosophy—ĪŚwarapratyabhijñā vimarśinī, 
+Iswarapratabhijñān Vivrti vimarśinī, Tantrāloka, Tantrasāra, Parmarthasāra, Parātrīśikā Vīvarana, 
 Mālini Vijaya Vārtika. 2. Stotras–Kramastotra, Bhaīravastotra, Anubhava 
 nivedana stotra. Anuttarāstikāstotra, Dehasthadevatā cakrastotra, Mahopadeśavinsaka, Paramārthācarcā, 
 Paramarthadvādaśikā, Rahasya pancadasikā. 3. Literature-Abhinavabhāratī, Locana (a commen 
-tary of Dhwanyāloka). Kșemaraja a prime disciple of Abhinavagupta was present in the eleventh century. He wrote Pratyabhijñāhrdayam, spandasandoha, Spandanirņaya, Swacchandodyota, Netro dyota, Vijñānabhairavodyota, Sivasūtravimarsinī, Stāvacintā maņi tīkā, Parāprāvesīkā and tatwasandoha. Jayaratha, Sivopā dhyaya, Srivatsa, Maheswarānanda, Sitikantha, Punyānanda nātha, Swatantrānandanātha, Vātūlanātha, Cakrapaninātha, Virūpaksa-nātha etc. were other scholars who by their works made the Saiva sastra rich and prosperous. 
+tary of Dhwanyāloka). Kșemaraja a prime disciple of Abhinavagupta was present in the eleventh century. He wrote Pratyabhijñāhrdayam, spandasandoha, Spandanirņaya, Swacchandodyota, Netro dyota, Vijñānabhairavodyota, Sivasūtravimarśinī, Stāvacintā maņi tīkā, Parāprāvesīkā and tatwasandoha. Jayaratha, Sivopā dhyaya, Srivatsa, Maheswarānanda, Sitikantha, Punyānanda nātha, Swatantrānandanātha, Vātūlanātha, Cakrapaninātha, Virūpaksa-nātha etc. were other scholars who by their works made the Saiva sastra rich and prosperous. 
 Introduction 
 [3] 
 The Tantrāloka 

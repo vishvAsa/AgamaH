@@ -258,7 +258,7 @@ Ruru/-sasana43
 1.46; 8.87, 162 
 critically editing the Nihiśväsamahatantra (Upodghata, p. 47). 
 36-37. Listed in the Tantra catalogue of the Darbar Library, Nepal (Vol. I, p. 227). Its number is 1/1606. 
-38. See Tă.Sã. p. 335. It appears to be a generic name. But if it is identical with the Nityaṣoḍaśikarnava, it is published with the Setubandha of Bhaskararaya in Anandaśrama Series and with the Artharatnavali and Rjuvimarsini by the S.S. University, Varanasi. 
+38. See Tă.Sã. p. 335. It appears to be a generic name. But if it is identical with the Nityaṣoḍaśikarnava, it is published with the Setubandha of Bhaskararaya in Anandaśrama Series and with the Artharatnavali and R̥juvimarśinī by the S.S. University, Varanasi. 
 39. We know of three MSS, all named Pauşkaragama-one at Baroda (6827 a), second at the Punjab University Library, Lahore (number not available) and third, with a commentary by Jñana- prakāśācārya (4395) at VVRI, Hoshiarpur. According to the Ta.Sa. (p. 388) one more MS (2606) is listed in the India Office Library catalogue and one (6827C) in the Oriental Institute, Baroda. 
 40. H.P. Shastri records in his Notices (2nd Series) a MS at No. 1/306 (Tä.Sa., p. 548). 
 41-43. Published in two volumes by the French Institute of Indo- logy, Pondichery as Rauravägama. 
@@ -334,7 +334,7 @@ Sūtra (Yogasūtra)52
 26.62 
 28.285 
 48. Published in KSTS with the Padasangati or Alocana com- mentary by Utpala. 
-49. Published in KSTS in separate volumes with the Vārtikas of Bhaskara as well as Kṛṣṇadāsa alias Varadaraja and the Vimarsini of Kṣemarāja. 
+49. Published in KSTS in separate volumes with the Vārtikas of Bhaskara as well as Kṛṣṇadāsa alias Varadaraja and the vimarśinī of Kṣemarāja. 
 50. Published as the Spanda-kärikä in KSTS with the commen- taries of Kallata and Ramakantha. Also published with the Pra- dipikā of Utpala by Vamanaśastri Islampurkar in 1898 and later included in the Tantrasamgraha, Part I published from the S.S. University, Varanasi. Also published with the Nirnaya of Kṣemaraja in KSTS. The Ist Sutra of the Spanda-kärikä with the Sandoha commentary by Kṣemarāja published in KSTS. 
 51. Published in KSTS as Mālinīvijayottara-tantra. 52. Available in several printed editions.262 
 INTRODUCTION TO THE TANTRĀLOKA 

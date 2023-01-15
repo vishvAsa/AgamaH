@@ -1321,7 +1321,7 @@ the Kulakriḍāvatāra are at par with those to the Śrikanthi for a proper gra
 
 (iv) Source material provided by the known authors 
 
-The other segment of the source-material is pro- vided by the works of known authors. Among these Abhinavagupta occupies the place of glory. Besides references to his famous treatises like Isvarpratya- bhijñā-vimarsini, Tantrasara, Tantraloka, Annuttrā- stika and Paramarthasara, Jayaratha earns our grati- tude for his reference to the Kramakeli, Abhinava- gupta's celebrated commentary on the Kramastotra by Siddhanatha. The early history of Krama system would not be possible without the rich material provided by Jayaratha from this text. Jayaratha, apparently cites a long quote throwing enormous 
+The other segment of the source-material is pro- vided by the works of known authors. Among these Abhinavagupta occupies the place of glory. Besides references to his famous treatises like Isvarpratya- bhijñā-vimarśinī, Tantrasara, Tantraloka, Annuttrā- stika and Paramarthasara, Jayaratha earns our grati- tude for his reference to the Kramakeli, Abhinava- gupta's celebrated commentary on the Kramastotra by Siddhanatha. The early history of Krama system would not be possible without the rich material provided by Jayaratha from this text. Jayaratha, apparently cites a long quote throwing enormous 
 
 1. तदुक्तं श्रीकुलक्रीडावतारे-- 
 

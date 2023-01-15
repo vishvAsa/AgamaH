@@ -221,16 +221,16 @@ INDURAJA 41, 43 immersion 217
 IPK See Isvara-pratyabhijñā- 
 kārikā 
 IPV See Isvara-pratyabhijñā- 
-vimarsini 
+vimarśinī 
 I PVV See Isvara-pratyabhijñā- 
-vivṛti-vimarsini 
+vivṛti-vimarśinī 
 ISANASIVA 8 
 Iśvara 134, 136 
 as Kälägnirudra 136 
 Isvara-pratyabhijñā-kārikā 
 (IPK) 248 
 APPENDIX-18 
-Isvara-pratyabhijñā-vimarsini 
+Isvara-pratyabhijñā-vimarśinī 
 (IPV) 128 
 Isvara-pratyabhijñā-vivṛti - Vi- 
 marsini (IPVV) 32, 44 
@@ -542,7 +542,7 @@ Pratiṣṭhakalā 41
 Pratistha-lakṣaṇasara-samuc- 
 caya 249 
 Pratyabhijñā 43, 54 
--systems 9, 40, 251 Pratyabhijñāhṛdaya 130 Pratyabhijñāvimarsin! 58 
+-systems 9, 40, 251 Pratyabhijñāhṛdaya 130 Pratyabhijñāvimarśin! 58 
 Pratyakṣa 15 
 Pravapura 91 (also see Srinagar) 
 PRAVARASENA 29 
@@ -577,7 +577,7 @@ eighteen-tantras 126. twelve-210
 fifty-229, 241 
 Rudrakali 140 
 Rudraśakti-samaveśa 71 
-Rjuvimaršini 1 
+R̥juvimaršini 1 
 Sabdakalpadruma 6, 7 Sabdadhva 188, 189 
 Şaḍadhva 192, 193, 208, 247 Sadanga theory 153 Şadanga Yoga 250 
 Şaḍardha 20 

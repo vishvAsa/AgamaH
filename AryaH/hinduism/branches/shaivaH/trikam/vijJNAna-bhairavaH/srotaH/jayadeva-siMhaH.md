@@ -122,7 +122,7 @@ This has been clarified by Abhinavagupta in Tantraloka JII,  verses 283-285 in w
 
 ness), everything is dissolved.  
 
-While Bhairava has three altpects, He from the point of view  of the mystic, is that Ultimate Reality in which prakusa i.e.  Light of Consciousness and vimarSa or Eternal Awareness or  that Light are indistinguishably fused. In other words, Bhairava  is parama Siva in whom prakiisa and vimarSa, Sil'a and Sakti,  Bhairava and Bhairal'; are identical. Bhairava or Parama Siva  embraces in Himself transcendence Hnd immanence, Siva and  8akti. It is this Bhairava that is the goal of the seeker.  
+While Bhairava has three altpects, He from the point of view  of the mystic, is that Ultimate Reality in which prakusa i.e.  Light of Consciousness and vimarśa or Eternal Awareness or  that Light are indistinguishably fused. In other words, Bhairava  is parama Siva in whom prakiisa and vimarśa, Sil'a and Sakti,  Bhairava and Bhairal'; are identical. Bhairava or Parama Siva  embraces in Himself transcendence Hnd immanence, Siva and  8akti. It is this Bhairava that is the goal of the seeker.  
 
 The svarupa or eltsential nature of Bhairava is vij;;una or bodha  or mahubodha, cit or cailanya the main characleristic of which  is svutanlrya or absolute freedom revealing itself in icc:hii, j;;una, 
 
@@ -250,7 +250,7 @@ This harrzsab mantra is repeated by every individual automati cally in every rou
 
 There are two ways in which this prii7)ic mantra can be utilized  for the awakening or rise of KU7)(iaiinl. One is anusandhiina or  prolonged mental awareness of this automatic process which has  been referred to above. Another way is conscious japa or redta.  tion or repetition of this mantra as so'ham or simply aum (amt).  This requires a further elucidation.  
 
-In the descending arc of the creative activity from conscious·  ness to inconscient matter or in other words from the conscious  creative pulsation of the Divine Sakli known as pariiviik or  vimarsa at the highest level down to vaikharl or gross speech at  the level of the living being, there is a movement downward  from the centre of Reality to the periphery in the successive  form of pariivii7)l, (the spiritual logos in which the creativexviii VijiiDnabhairava  
+In the descending arc of the creative activity from conscious·  ness to inconscient matter or in other words from the conscious  creative pulsation of the Divine Sakli known as pariiviik or  vimarśa at the highest level down to vaikharl or gross speech at  the level of the living being, there is a movement downward  from the centre of Reality to the periphery in the successive  form of pariivii7)l, (the spiritual logos in which the creativexviii VijiiDnabhairava  
 
 process is in the form of niida). pasyantl (viik-sakli. going forth  as seeing. ready to create in which there is no difference between  viicya (object) and viicaka (word). madhyamii (Jabda) in its subtle  form as existing in the anta[JcarQ1)Q prior to its gross.  manifestation), vaikharl (as gross, physical speech). This is  the process of snli or the outward movement or the descend 
 
@@ -376,7 +376,7 @@ ij4;M1I1III'~: ~ ;r1Jfti 4< ... wI(I:" II
 
 That which is free of all supports whether external existents  like jar or ftower or internal existents like pleasure, pain or  thought, that which is free of all tattvas or constitutive principles,  of the residual traces of all klelas, that is sunya. In the highest  sense, it is not sunya as such (i.e. as Don-existence)". Avidya.  asmita, raga. dvela, and abhinivela i.e. primal ignorance. the  feeling of I-ness. attraction. repulsion and fear of death are  considered to be kleias.  
 
-Sivopidhyiya has further given a long quotation from  Vimarsa-dlpika which means that Siva is full and free and  fundamental ground of all that is known as void, from whom  all the tattvas arise and in whom they are all dissolved. Since  ~iva or the foundational consciousness cannot be described in  words or any determination of thought, therefore, is He called 
+Sivopidhyiya has further given a long quotation from  vimarśa-dlpika which means that Siva is full and free and  fundamental ground of all that is known as void, from whom  all the tattvas arise and in whom they are all dissolved. Since  ~iva or the foundational consciousness cannot be described in  words or any determination of thought, therefore, is He called 
 
 '~iinya. 
 
@@ -542,7 +542,7 @@ At the pasyantllevel, the para level appears anterior. Therefore  the truth of p
 
 4. Rudra: Bhairava or Siva is called Rudra, because ru  stands for ruk (disease), and dra stands for dravi (melter,  dissolver). As K,emarija puts it Rudra is samaslarugdravi.  Rudra is one who dissolves all the ills (of life).  
 
-S. Yamala means ·pair.' K,emaraja says "Rudratacchakti samarasyatmano yamalat" i.e. Yamala connotes the union of  Rudra and His Sakti i. e. prakasa and vimarsa. It is in this  aspect that the highest scripture is revealed. He quotes tho follow ing verse in support of his statement:  
+S. Yamala means ·pair.' K,emaraja says "Rudratacchakti samarasyatmano yamalat" i.e. Yamala connotes the union of  Rudra and His Sakti i. e. prakasa and vimarśa. It is in this  aspect that the highest scripture is revealed. He quotes tho follow ing verse in support of his statement:  
 
 ~<=6(!f.n'~I"'$I~alf,ogqIN (itCfiI (vila I .. ...  
 
@@ -612,7 +612,7 @@ Oh God, from the point of view of absolute reality, what  exactly is the essenti
 
 Bhairava Agama (Bhairave2), (I) does it consist of the energies of  the multitude ofIetters (sabdariisikaliimayarrz3) 1 or (2) does it  consist of nine different forms(naviitmabhedena)4 for the realization  of the essential nature of Bhairava (Bhairaviikrtau) ? (3) or does  it consist of the specific mantra that unites in an integral form  the three divisions as delineated in Trisirobhairava5 (trWrobhe 
 
-dabhinnam) (4) or does it consist of three Saktis6 (presiding  over the previously mentioned three tat/a vas) ? (5) or does it  consist of niida (power of mantra inseparably present as vimarsa  in all the words) ? or of vindu (power of mantra inseparably pre 
+dabhinnam) (4) or does it consist of three Saktis6 (presiding  over the previously mentioned three tat/a vas) ? (5) or does it  consist of niida (power of mantra inseparably present as vimarśa  in all the words) ? or of vindu (power of mantra inseparably pre 
 
 sent in all the objects of the universe as Prakiisa7 (6) or does it con-.  sist of ardhacandra, nirodhikii8 etc 1 (7) or does it consist of some  mysterious power l"esiding in the Cakras (energy centres in the  body) ? or the vowel-less sound of ha?9 (8) or does it consist of  purely Sak ti 110  
 
@@ -626,7 +626,7 @@ l. 'Bhairavakrtau' does not mean 'Siva of terrible form.'  'Bhairavakrtau' means
 
 ed. For detail, see the author's translation of Siva Siitras.  Note No. to under Sutra 7 of the II section.  
 
-The letter 'A' indicates Prakiisa or Siva, the letter 'Ha' indi- ·cates vimarSa or Sakti. Thus Aha", includes all the letters of  the Sanskrit alphabet. This Allam or 'I' denotes the Highest 
+The letter 'A' indicates Prakiisa or Siva, the letter 'Ha' indi- ·cates vimarśa or Sakti. Thus Aha", includes all the letters of  the Sanskrit alphabet. This Allam or 'I' denotes the Highest 
 
 VijRiinabhairava 7  
 
@@ -646,7 +646,7 @@ ciples). From the point of view of mantra, the nine forms are  1. ~ 2. \ 3. Iif,
 
 As K~emaraja puts it in his commentary, Yadi vii sarvamantra cakra-siimiinyaviryiitmaka-viSvaviicyiivibhiiga - prakiisaritpavindu  
 
-ase~aviicakiivibhiiga-vimarSa-pariimarSamayoniidiitmakam.  In the fifth question, the Devi wants to know whether the  essential nature of Bhairava is niida-vindu-vindu which symbolizes  light or prakiisa (Siva) and which is present in an undivided form  in all objective phenomena and niida which symbolizes vimarSa  sakti that is present in an undivided form in all the words (which  signify objective phenomena).  
+ase~aviicakiivibhiiga-vimarśa-pariimarSamayoniidiitmakam.  In the fifth question, the Devi wants to know whether the  essential nature of Bhairava is niida-vindu-vindu which symbolizes  light or prakiisa (Siva) and which is present in an undivided form  in all objective phenomena and niida which symbolizes vimarśa  sakti that is present in an undivided form in all the words (which  signify objective phenomena).  
 
 8. In the sixth question, the Del'l wants to know whether the  essential nature of Bhairava consists of ardhacandra nirodhikii  etc. which are a further proliferation of niida-vindu. Nirodhika  in the plural (nirodhikiib) is meant to express 'et cetera'. The 'et  cetera' refers to niidanta, Jakti, vyapinl, samanii, and finally  unmanii.  
 
@@ -1908,19 +1908,19 @@ If one meditates on the Saiva tattval (which is the quintes sence) of this entir
 
 NOTES  
 
-1. Siva is both praJciisa and vimarsa, both the light of  Consciousness and the consciousness or awareness of that  consciousness. Saiva tattva is the svariipa or essential nature of  Siva. Meditating on Saiva tattva means meditating on the svarUpa  (own form, essential nature) of Siva who is both prakiiSa and  vimarsa.  
+1. Siva is both praJciisa and vimarśa, both the light of  Consciousness and the consciousness or awareness of that  consciousness. Saiva tattva is the svariipa or essential nature of  Siva. Meditating on Saiva tattva means meditating on the svarUpa  (own form, essential nature) of Siva who is both prakiiSa and  vimarśa.  
 
-2. The sa~adhvii has two sides- Viieaka and viieya. The  viieaka ·side-var~a, mantra and pada are an expression of  prakiiSa, the viieya side-kalii tattva, and bhuvana are an  expression of vimarsa.  
+2. The sa~adhvii has two sides- Viieaka and viieya. The  viieaka ·side-var~a, mantra and pada are an expression of  prakiiSa, the viieya side-kalii tattva, and bhuvana are an  expression of vimarśa.  
 
-In the previous dhiira~ii No. 32 in verse 56, the technique of  the sa~adhvii was .used for tracing back the entire universe of  subjects and objects to its source, th~ Central Reality. Here the  technique of sa~adhvii is to be used for realizing the svariipa or  essential nature of this Central Reality. The technique of sat/adhvii  is incomplete if it simply ends in re-integrating the universe to  its source. It has still to realize the saiva tattva, the nature of  the Central Reality which is both prakiisa and vimarsa in one  and the source of both the viicaka and viieya of the sa~adhvii.  
+In the previous dhiira~ii No. 32 in verse 56, the technique of  the sa~adhvii was .used for tracing back the entire universe of  subjects and objects to its source, th~ Central Reality. Here the  technique of sa~adhvii is to be used for realizing the svariipa or  essential nature of this Central Reality. The technique of sat/adhvii  is incomplete if it simply ends in re-integrating the universe to  its source. It has still to realize the saiva tattva, the nature of  the Central Reality which is both prakiisa and vimarśa in one  and the source of both the viicaka and viieya of the sa~adhvii.  
 
-Again in dhiira~ii No. 30 (verse 54), the technique of tracing  back the constitutive principles was used for iitmavyiipti, for the  fusion of manifestation into the essential Self which, according  to the Trika system, is a lower ideal. Atmavyiipti emphasizes  prakiisa which does not necessarily include the universe. In verse  57, the ideal of realization that is emphasized is Siva-vyiipti.  fusion into Siva who is both prakiiSa and vimarsa. It is the  Reality that is inclusive of the universe. In this realization, the  universe is not negated but seen sub specie eternitatis. under the 
+Again in dhiira~ii No. 30 (verse 54), the technique of tracing  back the constitutive principles was used for iitmavyiipti, for the  fusion of manifestation into the essential Self which, according  to the Trika system, is a lower ideal. Atmavyiipti emphasizes  prakiisa which does not necessarily include the universe. In verse  57, the ideal of realization that is emphasized is Siva-vyiipti.  fusion into Siva who is both prakiiSa and vimarśa. It is the  Reality that is inclusive of the universe. In this realization, the  universe is not negated but seen sub specie eternitatis. under the 
 
 VijRanabhairava 55  
 
 form of the Eternal, as an expression of the vimaria aspect of  Siva.  
 
-3. This great awakening is the realization of the svarupa or  essential nature of Siva who is both prakiiSa and vimarsa.  
+3. This great awakening is the realization of the svarupa or  essential nature of Siva who is both prakiiSa and vimarśa.  
 
 The difference between the previous dharal',la (in verse 56) and  this one (verse 57) lies in the fact that in the previous dharal',la  the dissolution of both the oQjective and sUbjective order was to  be contemplated one by one successively (kramaia~) i.e. first the  dissolution of the gross into the subtle, and then of the subtle  into the supreme, whereas in the present dharal',la (verse 57) the  dissolution of the entire world (asya sarvasya viSvasya) has to be  contemplated simultaneously and integrally into Siva tall va. As  Sivopadhyaya puts it, Bhuvanadiadhvaparyante!u jagata~ Sivat  vina no kindt iti jagad rupam tyaktva, iivameva dhyayato mahodaya~  syat. The reality of this world is nothing apan from Siva.  Therefore this world should be viewed not as the world ( i.e. as  something different from Siva) but as the modality of Sh·a.  Therefore it is Siva alone who has to be contemplated On. Thus  there will be mahodaya i.e. great spiritual Awakening. This  dharal',la is Saktopaya.  
 
@@ -2430,7 +2430,7 @@ Lelihana is the mudra in which the yogi tastes the entire  universe in his natur
 
 Khecari literally means that which moves in the sky or empty  space. Kha or 'empty-space' is a symbol of consciousness.  There are four kinds of Khecari mudra. One kind is the mudra  referred to in Ha/ha-yoga-pradipika. It consists in turning the  tongue backward towards the palate inside the cranium. The  second kind is the one described by K~emaraja in Siva-Siitra 
 
-vimarsini under siitra 5 of the 2nd section.  
+vimarśinī under siitra 5 of the 2nd section.  
 
 "A yogi should be seated in the padmasana (lotus posture)  erect like a stick and should then fix his mind on the navel and  should lead the mind up to kha-trayas or the three saktis (Sakti,  vyapini, and samana), situated in the space in the head. Holding  the mind in that state, he should move it forward with the above  triad. Putting himself in this condition, the great yogi acquires  movement in the head."  
 
@@ -3796,13 +3796,13 @@ Bhii (1R) is a word by itself which means' light' i.e. the light  . of conscious
 
 Vijiidnabhairava 119  
 
-rQva connotes ravayati which, in this context, means vimarsati  i.e. comprehends. So according to this etymoloty Bhairava  means "He whose light of consciousness-joined with his ·power  
+rQva connotes ravayati which, in this context, means vimarśati  i.e. comprehends. So according to this etymoloty Bhairava  means "He whose light of consciousness-joined with his ·power  
 
 of activity ('bhii' + ai i.e. bhai) comprehends (ravayati) the  entire universe is His Self".  
 
 In Paritrirpsiki, Abhinvavagupta gives another interpretation  of Bhairava viz.,' 'Bhairavo bhara1"litmako mahimantraravitma kasca" (p.63). i.e. 'Bhairava is one who supports and protects  the cosmos and (constantly) sounds the great mantra of 'I'  (aham)."  
 
-In Tantraloka, Abhinavagupta gives many interpretations of  'Bhairava' of which the main ones are the following three:  1. He supports the cosmos inasmuch as He makes it appear  on Himself as substratum and maintains it and also appears in  the form of the cosmos (bhriyate savimarsataya). This interpreta tion is based on the root bh, which means both dhiirQl)a and  pOia1)a i.e. support and maintenance.  
+In Tantraloka, Abhinavagupta gives many interpretations of  'Bhairava' of which the main ones are the following three:  1. He supports the cosmos inasmuch as He makes it appear  on Himself as substratum and maintains it and also appears in  the form of the cosmos (bhriyate savimarśataya). This interpreta tion is based on the root bh, which means both dhiirQl)a and  pOia1)a i.e. support and maintenance.  
 
 2. He constantly sounds the great mantra of 'I' (ravarii patasca).  
 
@@ -3946,7 +3946,7 @@ The Self is pure consciousness (cinmiitram). It is not 1imited  by space and tim
 
 Just as the image of the sun appears inverted in water, even so  it is the limited buddhi (in which the Self is reflected) that poses  as the Self and considers itself bound or liberated. Both bondage  and liberation are the imaginative constructs of buddhi. Self which  is pure consciousness transcends these imaginative constructs.  
 
-Abhinavagupta throws a flood of light on this question in  lsvarapratyabhijiiiivimarsini (IV. I,2)  
+Abhinavagupta throws a flood of light on this question in  lsvarapratyabhijiiiivimarśinī (IV. I,2)  
 
 /Iffi'{ tq~cs2<'i'q"(iT ~I f~\lIt'f'I(:+tOj I I 
 
@@ -4440,7 +4440,7 @@ Asyam anucaran ti~than mahanandamaye'dhvare /  Taya devya samavi!?taQ. paraI}l b
 
 TRANSLATION  
 
-In that great goddess there is the great joy (of the conjunction  of 'sa' and 'ha' i.e. of the mantra so'ham) which is like a yajna  or sacrifice (of vimarsa or I-consciousness). Pursuing it and  resting in it (i.e. in the joy of the mantra (anucaran tii/han), one  becomes identified with the great goddess and thus (through her)  one attains to bhairava. 
+In that great goddess there is the great joy (of the conjunction  of 'sa' and 'ha' i.e. of the mantra so'ham) which is like a yajna  or sacrifice (of vimarśa or I-consciousness). Pursuing it and  resting in it (i.e. in the joy of the mantra (anucaran tii/han), one  becomes identified with the great goddess and thus (through her)  one attains to bhairava. 
 
 Vijnanabhairava 143  
 
@@ -5002,7 +5002,7 @@ Vidya: limited knowledge; pure knowledge (cf. SUddha vidya  sakli).
 
 Vibhiiti : splendour: supernormal power.  
 
-Vimada : experience; the Self-consciousness of the supreme, full  of jiiana and kriya which brings about the world-process.  Vimarsana : intuitive awareness.  
+Vimada : experience; the Self-consciousness of the supreme, full  of jiiana and kriya which brings about the world-process.  vimarśana : intuitive awareness.  
 
 Viyat: space; sky.  
 
