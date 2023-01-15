@@ -19,7 +19,7 @@ External Practice
 </details>
 
 
-स एव +++(बाह्य-विधिः)+++ स्थान-प्रकल्पन-शब्देन +++(पञ्चमाह्निक-श्लोके)+++ उक्तः।  
+स एव +++(बाह्य-विधिः)+++ स्थान-प्रकल्पन-शब्देन +++(स्पष्टीकरिष्यमाणेन)+++ उक्तः।  
 तत्र त्रिधा **स्थानं** - प्राण-वायुः, शरीरं, बाह्यं+++(=तीर्थादिकम्)+++ च।  
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -51,7 +51,7 @@ According to this system, the location (sthāna) is threefold, i.e., vital air (
 
 
 ## प्राणे विधिः
-तत्र **प्राणे** तावत् **विधिः** +++([क्: कथ्यते इति पाठः।])+++।  
+तत्र **प्राणे** तावद् **विधिः** +++([क्: कथ्यते इति पाठः।])+++।  
 सर्वो ऽसौ वक्ष्यमाणो ऽध्वा **प्राणस्थः कल्यते**।  
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -145,14 +145,18 @@ It is indeed consciousness alone which assumes this nature by isolating itself f
     This void of consciousness seems to be static. However, dynamism in the form of a slight vibrating pulsation begins to show itself. When this happens, the first creative flow begins to proceed outwardly into manifestation. This flow is not the flow of consciousness but of the vital energy.
 </details>
 
-अत एव च +अवच्छेद-योगात् वेद्यतां यान्ती **नभः**,  
-ततः स्वातन्त्र्यान् मेये स्वीकारौत्सुक्येन निपतन्ती **क्रिया-शक्ति-प्रधाना प्राणना-रूपा जीव-स्वभावा**  
-+++(पूर्वोक्त-प्राण-भेदेन)+++ पञ्चभी रूपैः देहं यतः पूरयति,  
-ततोऽसौ चेतन इव भाति । 
+अत एव च +अवच्छेद-योगाद्,  
+वेद्यतां यान्ती **नभः**,  
+ततः स्वातन्त्र्यान् मेये स्वीकारौत्सुक्येन निपतन्ती  
+क्रिया-शक्ति-प्रधाना **प्राणना-रूपा जीव-स्वभावा**  
++++(पूर्वोक्त-प्राण-भेदेन)+++ पञ्चभी रूपैर्  
+देहं यतः पूरयति,  
+ततोऽसौ **चेतन इव भाति** । 
 
 <details><summary>English</summary>
 
-As a result, consciousness assumes the form of void (nabha), which because of the association with limitation assumes the nature of 'knowable object' (vedyatām).  
+As a result, consciousness assumes the form of void (nabha),  
+which because of the association with limitation assumes the nature of 'knowable object' (vedyatām).  
 Then consciousness, being intent on accepting the objects of knowledge because of its freedom, is as if it were falling from its original state and becoming predominantly of the nature of the 'power of activity' (kriyā śakti).[^76]  
 Then the form of vital activity, which is the very life of living beings, fills the body with five forms of prāṇa.  
 In this way it shines as a living being.
