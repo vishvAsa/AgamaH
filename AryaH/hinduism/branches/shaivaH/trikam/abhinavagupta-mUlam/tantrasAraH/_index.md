@@ -4,6 +4,8 @@ unicode_script = "devanagari"
 
 +++
 
+Source: [MS1](https://archive.org/details/in.ernet.dli.2015.485446), [MS2](https://archive.org/details/in.ernet.dli.2015.242330/page/n57/mode/2up?view=theater)
+
 ## उपादेयांश-कलनम्
 - परं स्वरूपं तर्क्तातीतम्। तथापि सत्-तर्क उपकरोति। 
 - मातृ-मान-मेयानां वह्नि-सूर्य-सोम-रूपैः कलनम्।
