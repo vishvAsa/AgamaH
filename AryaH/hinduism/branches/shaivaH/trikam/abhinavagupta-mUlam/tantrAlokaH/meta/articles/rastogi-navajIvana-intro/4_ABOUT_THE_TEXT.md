@@ -13,7 +13,7 @@ The Tantraloka is a very voluminous work of Abhi- navagupta and togetherwith Jay
 
 INTRODUCTION TO THE TANTRĀLOKA 
 
-Volu- Ähnikas 
+Volu- āhnikas 
 
 mes. 
 
@@ -25,7 +25,7 @@ Half-verses Repe- Repe- Printed Numbering tition of tition of number omitted num
 
 Actual 
 
-Ähnika- 
+āhnika- 
 
 Total 
 
@@ -949,7 +949,7 @@ ABOUT THE TEXT
 
 165 
 
-as has been done in the 17th Ahnika. In some other Ahnikas this practice has been abandoned. The first concluding half has not been marked, instead the next commencing verse has been given a number, as has been the practice in the 16th Ahnika. Another anomaly that is very conspicuous is that quite often the concluding half and the introductory half both have been marked as two full independent verses. For example Ähnikas 7-8, 12-13, 19-20, 21-22, 25- 26 and 30-31 may be taken up. Another prevailing anarchy consists in not providing any number to such verses. This is evident from a perusal of the Ahnikas 28-29, 29-30, 32-33 and 33-34. An interest- ing aspect of such anarchous behaviour has resulted in one half being treated as one verse while the other half being conjoined with another and made part of it. This is very well illustrated by Ahnikas 16-17, where the concluding verse is numbered as 16.311 while the introductory half is merged with the first half of the second verse (17.2) and numbered as 17.1. Similar thing seems to have happened in the 13-14th Ähnikas also. The same practice has been reversed elsewhere, i.e. the last half has been fused with the penultimate verse making it appear as one full verse. For example, the T.A. 8.452, being the conclud- ing one, should have been half and numbered either as 8.453 or as 9.1, but it is not so as it has been assimilated with the preceding half, i.e. T.A. 8.452 and allotted its number. Sometimes the concluding as well as the introductory verses both have not been numbered at all, as has happened in the Ahnikas 34-35. From these illustrations one gets a fairly adequate idea of the discrepansies abounding in the whole of the KSTS edition and the scope of improvements to be effected. 
+as has been done in the 17th Ahnika. In some other Ahnikas this practice has been abandoned. The first concluding half has not been marked, instead the next commencing verse has been given a number, as has been the practice in the 16th Ahnika. Another anomaly that is very conspicuous is that quite often the concluding half and the introductory half both have been marked as two full independent verses. For example āhnikas 7-8, 12-13, 19-20, 21-22, 25- 26 and 30-31 may be taken up. Another prevailing anarchy consists in not providing any number to such verses. This is evident from a perusal of the Ahnikas 28-29, 29-30, 32-33 and 33-34. An interest- ing aspect of such anarchous behaviour has resulted in one half being treated as one verse while the other half being conjoined with another and made part of it. This is very well illustrated by Ahnikas 16-17, where the concluding verse is numbered as 16.311 while the introductory half is merged with the first half of the second verse (17.2) and numbered as 17.1. Similar thing seems to have happened in the 13-14th āhnikas also. The same practice has been reversed elsewhere, i.e. the last half has been fused with the penultimate verse making it appear as one full verse. For example, the T.A. 8.452, being the conclud- ing one, should have been half and numbered either as 8.453 or as 9.1, but it is not so as it has been assimilated with the preceding half, i.e. T.A. 8.452 and allotted its number. Sometimes the concluding as well as the introductory verses both have not been numbered at all, as has happened in the Ahnikas 34-35. From these illustrations one gets a fairly adequate idea of the discrepansies abounding in the whole of the KSTS edition and the scope of improvements to be effected. 
 
 166 
 
@@ -1017,7 +1017,7 @@ The Tantraloka is a versicular text like most Sanskrit works and though Abhinava
 
 INTRODUCTION TO THE TANTRALOKA 
 
-Vamsastha', Prthvi and Mälini3. While he casts the Tantraloka mostly in the traditional Anuṣṭup metre he seems to be quite fond of Arya and Vasantatilakā 
+Vamsastha', Prthvi and Mālini3. While he casts the Tantraloka mostly in the traditional Anuṣṭup metre he seems to be quite fond of Arya and Vasantatilakā 
 
 also. 
 
@@ -1025,7 +1025,7 @@ also.
 
 (a) DIVISION INTO AHNIKAS 
 
-The whole Tantraloka is divided into 37 Ahnikas (lit. daily lessons). Although at one place Abhinava- gupta seems to use the word in its literal sense, it usually stands for a chapter or section if the gross variation in the size of Ahnikas indicates anything. The fifteenth is the biggest Ahnika containing 612 verses and the thirtyfourth the smallest comprising just 4 verses. All other Ähnikas fall within these two extremes. The following exercise may be of some help in getting at the structural analysis of the Tantraloka- 
+The whole Tantraloka is divided into 37 Ahnikas (lit. daily lessons). Although at one place Abhinava- gupta seems to use the word in its literal sense, it usually stands for a chapter or section if the gross variation in the size of Ahnikas indicates anything. The fifteenth is the biggest Ahnika containing 612 verses and the thirtyfourth the smallest comprising just 4 verses. All other āhnikas fall within these two extremes. The following exercise may be of some help in getting at the structural analysis of the Tantraloka- 
 
 Number of verses 
 
@@ -1037,7 +1037,7 @@ Number of verses
 
 (4) 51-100 (5) 1 to 50 
 
-Ähnikas 
+āhnikas 
 
 8, 9, 15 
 
@@ -1077,7 +1077,7 @@ The table pictures a very wide range. Although no clear cut guideline behind suc
 
 A welcome feature is that Abhinava has taken care to provide titles to all the Ahnikas focussing on their main subject matter. He utilizes three oppor- tunities to ventilate his mind. He tries to entitle the chapters towards the end of the first Ahnika from verses 278 to 286 while discussing general topics and from verses 287 to 328 while discussing specific auxiliary topics. This is in the first place. He mentions the precise prospective contents in the intro- ductory as well as the concluding verse in such a way as to give a definite name to the Ahnika under reference.1 This is in the second place. While cross- 
 
-1. This is the standard practice with Abhinavagupta and his prologue and epilogue usually correspond to one another. He, however, gives up this practice in the sixth Ähnika where he in- itially promises to discuss Sthanaprakalpa as part of the external means called Anava, but ends up with the discussion on Käla- tattva. Such a phenomenon, however, does not constitute a seri- ous lapse or deviation because Sthānaprakalpa is a broader theme which includes the notion of Kalatattva.b 
+1. This is the standard practice with Abhinavagupta and his prologue and epilogue usually correspond to one another. He, however, gives up this practice in the sixth āhnika where he in- itially promises to discuss Sthanaprakalpa as part of the external means called Anava, but ends up with the discussion on Kāla- tattva. Such a phenomenon, however, does not constitute a seri- ous lapse or deviation because Sthānaprakalpa is a broader theme which includes the notion of Kalatattva.b 
 
 a. स्थानप्रकल्पाख्यतया स्फुटस्तु बाह्योऽभ्युपायः प्रविविच्यतेऽथ । 
 
@@ -1087,7 +1087,7 @@ T.A. 6.1
 
 INTRODUCTION TO THE TANTRĀLOKA 
 
-referring to the contents of another Ahnika he occa- sionally, though not necessarily, alludes to the Ahnika in question by name. For instance, in the thirteenth Ähnika he refers to Lingoddhāradikṣa which is the subject matter of the 22nd Ahnika' and to Dikṣā- prastava" which occupies the 14th Ahnika or in the 9th Ahnika he refers to future Sadyonirvaṇadikṣā which is the main theme of the 19th Ahnika. Like- wise, he refers to the 13th Ahnika by name in the 1st Ähnika. Jayartha closely follows his master and pro- vides captions to all the Ahnikas in the chapterwise colophons. The two colophons, however, relating to the 34th and 37th Ahnikas do not record any name. Jayaratha's titles are invariably followed by the word 'Prakāśana'. It lends credence to the view that Jayaratha perhaps preferred 'Prakāśa' to 'Viveka' as title for his commentary. Normally Jayaratha's nomenclatures echo those of Abhinavagupta but there have been some exceptions as well. This has happened in respect of the 16th and 17th Ahnikas. According to Abhinavagupta the 16th Ahinka dwells upon Putrakadikṣā, but Jayaratha christens it as Prameyaprakasana (revealing the subjectmatter) 
+referring to the contents of another Ahnika he occa- sionally, though not necessarily, alludes to the Ahnika in question by name. For instance, in the thirteenth āhnika he refers to Lingoddhāradikṣa which is the subject matter of the 22nd Ahnika' and to Dikṣā- prastava" which occupies the 14th Ahnika or in the 9th Ahnika he refers to future Sadyonirvaṇadikṣā which is the main theme of the 19th Ahnika. Like- wise, he refers to the 13th Ahnika by name in the 1st āhnika. Jayartha closely follows his master and pro- vides captions to all the Ahnikas in the chapterwise colophons. The two colophons, however, relating to the 34th and 37th Ahnikas do not record any name. Jayaratha's titles are invariably followed by the word 'Prakāśana'. It lends credence to the view that Jayaratha perhaps preferred 'Prakāśa' to 'Viveka' as title for his commentary. Normally Jayaratha's nomenclatures echo those of Abhinavagupta but there have been some exceptions as well. This has happened in respect of the 16th and 17th Ahnikas. According to Abhinavagupta the 16th Ahinka dwells upon Putrakadikṣā, but Jayaratha christens it as Prameyaprakasana (revealing the subjectmatter) 
 
 b. इति कालतत्त्वमुदितं शास्त्रमुखागमनिजानुभवसिद्धम् । 
 
@@ -1115,7 +1115,7 @@ Ibid. 1.139ABOUT THE TEXT
 
 171 
 
-which, in a sense, is of no consequence. Similarly, the 17th, according to Abhinavagupta, focusses on Jana- nädisamanvitädikṣā, but Jayaratha names it as Vis- tṛta-dikṣā-prakāśana (Vikṣiptadikṣā in the printed text which is wrong as already discussed elsewhere) in contrast to the 18th Ahnika which incorporates Samkṣiptadikṣā. In some places, notwithstanding Jayaratha's total dependence on Abhinava, his nomen- clatures are somewhat less communicative or slightly wanting, if one may say so. For example, Abhinava designs the 19th Ahnika as discussing Sadyah-samut- krāntipradā Dikṣa while Jayaratha names it as Sad- ya-utkränti-prakāśana (lit., revealing sudden death). In fact, Jayaratha adopts such a practice from here right upto the 25th Ahnika. Perhaps for the sake of brevity, he prefers dropping 'Dikṣa' or 'Vidhi' as the case may be. 
+which, in a sense, is of no consequence. Similarly, the 17th, according to Abhinavagupta, focusses on Jana- nādisamanvitādikṣā, but Jayaratha names it as Vis- tṛta-dikṣā-prakāśana (Vikṣiptadikṣā in the printed text which is wrong as already discussed elsewhere) in contrast to the 18th Ahnika which incorporates Samkṣiptadikṣā. In some places, notwithstanding Jayaratha's total dependence on Abhinava, his nomen- clatures are somewhat less communicative or slightly wanting, if one may say so. For example, Abhinava designs the 19th Ahnika as discussing Sadyah-samut- krāntipradā Dikṣa while Jayaratha names it as Sad- ya-utkrānti-prakāśana (lit., revealing sudden death). In fact, Jayaratha adopts such a practice from here right upto the 25th Ahnika. Perhaps for the sake of brevity, he prefers dropping 'Dikṣa' or 'Vidhi' as the case may be. 
 
 (c) DIVISION OF AHNIKAS INTO GROUPS 
 
@@ -1497,7 +1497,7 @@ p. 502.
 
 5. T.A. 1.293 
 
-7. In the body of the text the order enjoined in the Kärikä has been reversed. 
+7. In the body of the text the order enjoined in the Kārikā has been reversed. 
 
 if we go by Jayaratha. 
 
@@ -1607,7 +1607,7 @@ or
 
 4. T.A. 1.296-97 
 
-5. Ibid. 1.298-99 Read सांख्याधिक्य for संख्याधिक्य in the Kärikā. It is not 'superiority of Säñkhya' as Ira Bajpai takes it (Philosophy, p. 504), but " superiority to Säñkhya". 6. Better read शक्तिपातविचित्रता. 
+5. Ibid. 1.298-99 Read सांख्याधिक्य for संख्याधिक्य in the Kārikā. It is not 'superiority of Sāñkhya' as Ira Bajpai takes it (Philosophy, p. 504), but " superiority to Sāñkhya". 6. Better read शक्तिपातविचित्रता. 
 
 177 
 
@@ -1719,7 +1719,7 @@ C. द्वारार्चन or द्वारपूजाविधि
 
 2. Ibid. 1.301-307 
 
-3. Read स्नानभित् for स्थानभित् in the Kärikä. 
+3. Read स्नानभित् for स्थानभित् in the Kārikā. 
 
 4. याग is नित्यकर्मात्मक. नित्यकर्म begins. 
 
@@ -2041,7 +2041,7 @@ or
 
 2. Not एकान्नत्रिंश as is usually printed. 
 
-3. T.A. 1.312. Read कालापेक्षा for कलावेक्षा in the Kärikā. 
+3. T.A. 1.312. Read कालापेक्षा for कलावेक्षा in the Kārikā. 
 
 5. T.A. 1.313 6. In the body of the text the order between 2nd and 3rd अनुजोद्देशs has been reversed. 
 
@@ -2575,7 +2575,7 @@ INTRODUCTION TO THE TANTRĀLOKA
 
 desire to treat the 1st and 3rd topics in detail and the 2nd in brief.1 
 
-Coming to the 10th Ahnika one notices that the declared focus of the chapter is on the subdivisions of categories (Tattvabhedavidhi), but Abhinavagupta in the same sequence enters into an elaborate discussion on the subdivisions of regions (Bhuvanabhedavidhi, commencing at T.A. 10.151) without openly enlarging the scope of the chapter. Moreover, the fourth ancil- lary topic, variety of knowing subjects (Pramātṛab- heda), finds a specific mention in the prefatory enume- ration of ancillary items, yet it has not been taken up for a separate treatment by Abhinavagupta later. Jaya- ratha has tried to justify it as a deliberate omission since subjective variety is inherent in all the preced- ing sub-topics.3 Next comes consideration of the twin cosmic passages called word-passage and mean- ing-passage (Sabdadhvan and Arthädhvan). The for- mer consists of Bhuvana, Tattva and Kala; and the latter of Varna, Pada and Mantra. Abhinavagupta devotes five full chapters and a part of the sixth chap- ter to the treatment of passage of meaning (Artha- dhvan) whereas he spares only part of one chapter i.e., 11th (in addition to certain occasional references in the 6th and 7th Ahnikas), which is avowedly de- voted to the treatment of the subpassage of Kala (one of the three sub-passages constituting Artha- 
+Coming to the 10th Ahnika one notices that the declared focus of the chapter is on the subdivisions of categories (Tattvabhedavidhi), but Abhinavagupta in the same sequence enters into an elaborate discussion on the subdivisions of regions (Bhuvanabhedavidhi, commencing at T.A. 10.151) without openly enlarging the scope of the chapter. Moreover, the fourth ancil- lary topic, variety of knowing subjects (Pramātṛab- heda), finds a specific mention in the prefatory enume- ration of ancillary items, yet it has not been taken up for a separate treatment by Abhinavagupta later. Jaya- ratha has tried to justify it as a deliberate omission since subjective variety is inherent in all the preced- ing sub-topics.3 Next comes consideration of the twin cosmic passages called word-passage and mean- ing-passage (Sabdadhvan and Arthādhvan). The for- mer consists of Bhuvana, Tattva and Kala; and the latter of Varna, Pada and Mantra. Abhinavagupta devotes five full chapters and a part of the sixth chap- ter to the treatment of passage of meaning (Artha- dhvan) whereas he spares only part of one chapter i.e., 11th (in addition to certain occasional references in the 6th and 7th Ahnikas), which is avowedly de- voted to the treatment of the subpassage of Kala (one of the three sub-passages constituting Artha- 
 
 1. अथ सकलभुवनमानं यन्मह्यं निगदितं निजैर्गुरुभिः ॥ 
 
@@ -2599,7 +2599,7 @@ ABOUT THE TEXT
 
 189 
 
-dhvan), for the treatment of Śabdadhvan. All the three sub-passages of word namely Varṇādhvan, Pada- dhvan and Manträdhvan have been subsumed under the third ancillary item called Varnabhedakrama com- mencing at the T.A. 11.43. The subsequent Ahnikas till 14th do not call for any comment. In the 15th Ahnika two things attract our attention. One, the 28th ancil- lary topic is introduced as Samaya Karma by Jaya- ratha,' while Abhinavagupta takes it as Samaya Karma relating to sleep. Two, Ahnikas from 15th to 27th form a cluster dealing with daily rites (Nityakarma) whereas the 28th deals with occasional rites (Naimittikakarma). However, the colophon of the 15th Ahnika in Jayaratha's commentary also hints at inclusion of Naimittika in the 15th. If our understanding of the text is adequate, it offers a fit case for future investigation as to how Naimit- tika could prematurely creep in at this point. Simi- larly the tenth ancillary issue in the 16th Ahnika i.c., Mantrasattaprayojanam is a bit confusing. From the prefatory remark it looks like single item mean- ing 'purpose of the existence of Mantra' whereas in treatment it actually has twin elements, the phrase meaning "existence and purpose of Mantra"." In a sense, two simple ancillary issues instead of one complex item would have been far better. But Abhi- navagupta prefers it that way. 
+dhvan), for the treatment of Śabdadhvan. All the three sub-passages of word namely Varṇādhvan, Pada- dhvan and Mantrādhvan have been subsumed under the third ancillary item called Varnabhedakrama com- mencing at the T.A. 11.43. The subsequent Ahnikas till 14th do not call for any comment. In the 15th Ahnika two things attract our attention. One, the 28th ancil- lary topic is introduced as Samaya Karma by Jaya- ratha,' while Abhinavagupta takes it as Samaya Karma relating to sleep. Two, Ahnikas from 15th to 27th form a cluster dealing with daily rites (Nityakarma) whereas the 28th deals with occasional rites (Naimittikakarma). However, the colophon of the 15th Ahnika in Jayaratha's commentary also hints at inclusion of Naimittika in the 15th. If our understanding of the text is adequate, it offers a fit case for future investigation as to how Naimit- tika could prematurely creep in at this point. Simi- larly the tenth ancillary issue in the 16th Ahnika i.c., Mantrasattaprayojanam is a bit confusing. From the prefatory remark it looks like single item mean- ing 'purpose of the existence of Mantra' whereas in treatment it actually has twin elements, the phrase meaning "existence and purpose of Mantra"." In a sense, two simple ancillary issues instead of one complex item would have been far better. But Abhi- navagupta prefers it that way. 
 
 1. इदानीं सामयं कर्म अभिधातुमाह 
 
@@ -2675,7 +2675,7 @@ T.A.V., XI., p. 97
 
 INTRODUCTION TO THE TANTRĀLOKA 
 
-broad divisions of the text, one dealing with the gene- ral issues, the other with Upayas and the remaining with the specific notion of Sthānaprakalpa (a sub-con- cept under Anava-upaya meaning devising or allot- ting places). The first group consists of the 1st, 13th and 14th Ahnikas dealing with the varieties of knowledge, descent of grace and process of initiation respectively. The second group includes Ahnikas from 2nd to 5th pertaining to specific Upayas. The third group comprises Ähnikas from 6th to 12th and from 15th to 37th. By far this is the largest group. This does not amount to say that these Ahnikas have nothing else to discuss. It simply means that Sthānaprakalpa sets their predominant undertone. Even here it may, however, be remembered that Ahnikas from 6th to 12th are directly addressed to this item. It merely implies that the discussion on the doctrine of six passages (Sadadhva) is essentially an offshoot of the doctrine of Sthānaprakalpa which again is a corollary of Aṇavopaya. Although it is not feasible at the moment, for reasons of space, to dilate upon the concept of Sthana, it may be stated that Sthāna has three varieties-Prāņa (breath), Deha (body) and Bahiḥ (exterior). Prana is fivefold-Prana, Apāna, Samāna, Udāna and Vyana. Deha is twofold-inter- nal and external. And Bähya has eleven varieties in the main Mandala, Sthandila, Patra, Akṣasūtra, Pustaka, Linga, Tura, Pața, Pusta, Pratima and 
+broad divisions of the text, one dealing with the gene- ral issues, the other with Upayas and the remaining with the specific notion of Sthānaprakalpa (a sub-con- cept under Anava-upaya meaning devising or allot- ting places). The first group consists of the 1st, 13th and 14th Ahnikas dealing with the varieties of knowledge, descent of grace and process of initiation respectively. The second group includes Ahnikas from 2nd to 5th pertaining to specific Upayas. The third group comprises āhnikas from 6th to 12th and from 15th to 37th. By far this is the largest group. This does not amount to say that these Ahnikas have nothing else to discuss. It simply means that Sthānaprakalpa sets their predominant undertone. Even here it may, however, be remembered that Ahnikas from 6th to 12th are directly addressed to this item. It merely implies that the discussion on the doctrine of six passages (Sadadhva) is essentially an offshoot of the doctrine of Sthānaprakalpa which again is a corollary of Aṇavopaya. Although it is not feasible at the moment, for reasons of space, to dilate upon the concept of Sthana, it may be stated that Sthāna has three varieties-Prāņa (breath), Deha (body) and Bahiḥ (exterior). Prana is fivefold-Prana, Apāna, Samāna, Udāna and Vyana. Deha is twofold-inter- nal and external. And Bāhya has eleven varieties in the main Mandala, Sthandila, Patra, Akṣasūtra, Pustaka, Linga, Tura, Pața, Pusta, Pratima and 
 
 मण्डलाद्यधिकृत्य श्रभिधीयते इत्याग्रन्थसमाप्तेः प्राधान्यात् स्थानकल्पनस्यैव सकलोऽयं प्रपञ्च इति । 
 
@@ -3521,7 +3521,7 @@ contraction (5th Ahnika),
 
 (2) several Astakas ( 8th Ahnika), and 
 
-(3) twelve Rudras (33rd Ähnika). 
+(3) twelve Rudras (33rd āhnika). 
 
 1. कुलपर्वेति तद्द्ब्रूमो यथोक्तं भैरवे कुले ॥ 
 
@@ -3565,7 +3565,7 @@ ABOUT THE TEXT
 
 1 
 
-(ii) In common with the sixth Ähnika it propounds the theme of Kāla as dependent upon Prāna." 
+(ii) In common with the sixth āhnika it propounds the theme of Kāla as dependent upon Prāna." 
 
 (iii) The kindling of rise of cycles means the kind- ling of uttered Mantras.3 
 
@@ -3589,7 +3589,7 @@ and 11th Ahnikas).
 
 (h) EIGHTH ALINIKA 
 
-(i) Regions falling under Desädhvan are innumer- able and varied which constitute the world. Lack- 
+(i) Regions falling under Desādhvan are innumer- able and varied which constitute the world. Lack- 
 
 1. Commenting on the T.A. 8.283 (पुंसि नादमयी शक्तिः प्रसराख्या च यत्स्थिता) Jayaratha observes यदुक्तं प्राक् 
 
@@ -3597,7 +3597,7 @@ and 11th Ahnikas).
 
 सा नाडीरूपतामेत्य देहं सन्तानयेदिदम् ॥” (T.A. 7.66) 
 
-2. Scc item (vii) supra under sixth Ähnika. 3. बोधावेशः सन्निधिरैक्येन विसर्जनं स्वरूपगतिः । 
+2. Scc item (vii) supra under sixth āhnika. 3. बोधावेशः सन्निधिरैक्येन विसर्जनं स्वरूपगतिः । 
 
 शङ्कादलनं चक्रोदयदीप्तिरिति क्रमात्कृत्यम् ॥ 
 
@@ -3845,7 +3845,7 @@ Both of these items vide serial No. (viii) and (ix) figure in the 13th Ahnika as
 
 (x) Both, the pentadic system of categories and the triadic system thereof (Pañcatattvavidhi and Tritattva- vidhi), originate from the variation in primary categories.* 
 
-This view is held in common with the 10th Ahnika and is incidentally discussed in the 11th Ähnika. 
+This view is held in common with the 10th Ahnika and is incidentally discussed in the 11th āhnika. 
 
 (xi) Agency belongs to conscious principle called Puruşa and not to inert Prakṛti. 
 
@@ -4021,7 +4021,7 @@ The topic has been introduced in the 8th Ahnika.
 
 (iii) Discussion on the three sub-passages e.g., Pada, Mantra and Varna, as constituting Kālādhvan (i.c., passage of time or dynamicity) and as being subjective is character." 
 
-The idea is initially mooted out in the 8th and subsequent Ähnikas. 
+The idea is initially mooted out in the 8th and subsequent āhnikas. 
 
 (iv) The assignment of Padadhvan (word-passage) in Putrakadikṣā as ancillary to Sodhyavaicitrya (variety of the items subject to refinement)." 
 
@@ -4203,7 +4203,7 @@ ABOUT THE TEXT
 
 223 
 
-cise role of all the three impurities-Anava, Kärma and Māyiya.' 
+cise role of all the three impurities-Anava, Kārma and Māyiya.' 
 
 (viii) Individuation stems from the Godly freedom which alone, in the final analysis, is the ultimate resi- due. " 
 
@@ -4281,7 +4281,7 @@ Among the ancillary items the following find spe- cial mention--
 
 (2) the great creation of Sakta class (6th and 14th 
 
-Ähnikas), 
+āhnikas), 
 
 (3) absence of Karma Mala in Vijñānākala sub- 
 
@@ -4319,7 +4319,7 @@ ABOUT THE TEXT
 
 (5) initiation of the dying (Maranāsannadiksā) 
 
-(9th Ähnika), 
+(9th āhnika), 
 
 (6) primary ignorance and Kārma ignorance (9th 
 
@@ -4723,7 +4723,7 @@ T.A. 22.29
 
 INTRODUCTION TO THE TANTRĀLOKA 
 
-It is however closely connected with Lingoddhäradikṣā in the previous Ahnika. 
+It is however closely connected with Lingoddhāradikṣā in the previous Ahnika. 
 
 Among the ancillary items is included the method of achieving salvation without preceptorial assis- tance by one who returns to the fold after having been led astray (13th Ahnika). 
 
@@ -4783,7 +4783,7 @@ to-
 
 (1) Virility of a Mantra solely depends upon its being received from a teacher (15th Ahnika), (2) daily worship of ground as part of residual 
 
-activities (15th Ähnika) and 
+activities (15th āhnika) and 
 
 (3) esoteric or mystic rite consisting of throwing 
 

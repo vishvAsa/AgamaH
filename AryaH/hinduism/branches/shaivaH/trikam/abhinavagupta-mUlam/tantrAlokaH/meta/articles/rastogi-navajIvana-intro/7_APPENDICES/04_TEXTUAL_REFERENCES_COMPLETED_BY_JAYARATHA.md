@@ -12,7 +12,7 @@ Agama
 (Kila, 9.307) 
 VI/246 
 IV/1880 
-Adhārakärikä 
+Adhārakārikā 
 (Śvasastra, 28.309) 
 XI/122 
 VII/3228 
@@ -20,7 +20,7 @@ Bhairavakula
 (Atra, 28.18) 
 XI/8 
 VII/3115 
-Bhargaśikhä 
+Bhargaśikhā 
 (2.28-29) 
 1/22 (2nd Ah.) 
 II/332 
@@ -54,7 +54,7 @@ VIII/144
 V/2344 
 (Nigama, 29.141) 
 XI/99 (29th Āh.) VII/3389 
-Gitä 
+Gitā 
 (Gururaha, 3.115) 
 II/121 
 II/473 
@@ -63,14 +63,14 @@ Haidara
 XI/13 
 VII/3119 
 Hṛdayabhattaraka 
-*The name of the identified text is followed by the relative description as appearing in the T.A. followed by Ahnika/Kärikä number within brackets. 
+*The name of the identified text is followed by the relative description as appearing in the T.A. followed by Ahnika/Kārikā number within brackets. 
 276 
 INTRODUCTION TO THE TANTRĀLOKA 
-(Härdeśa, 29.165) 
+(Hārdeśa, 29.165) 
 XI/113 
 VII/3403 
 Hṛdayanayarahasya 
-(Hrdaya, 3.69) Kälottara 
+(Hrdaya, 3.69) Kālottara 
 (Tatra tatra, 11.20) Khecarimata 
 (Khamata, 29.165) 
 II/82 
@@ -125,7 +125,7 @@ IV/1598
 (Tatra, 15.10) 
 IX/7 
 VI/2447 
-(Uktyä, 17.77) 
+(Uktyā, 17.77) 
 X/159 
 VI/2885 
 Mrgendra 
@@ -140,7 +140,7 @@ Nandiśikha
 (Adi, 15.279) 
 IX/138 
 VI/2578 
-Nirmaryäda Śästra 
+Nirmaryāda Śāstra 
 (Maryādāhīna, 29.166) 
 XI/113 (29th Ah.) VII/3403 
 Niśāṭana 
@@ -149,7 +149,7 @@ III/207
 III/823 
 APPENDIX-4 
 277 
-(Śästra, 16.200) 
+(Śāstra, 16.200) 
 X/76 
 VI/2802 
 Pañcaśatika 
@@ -167,7 +167,7 @@ Parātrimsikā
 (Pracakṣate, 3.167) 
 HI/166 
 II/518 
-(Trisika-sästra, 3.206) 
+(Trisika-sāstra, 3.206) 
 11/198 
 II/550 
 (Trikasūtra, 12.15) 
@@ -192,7 +192,7 @@ Raurava-Sangraha
 (Raurava, 9.40) 
 VI/41 
 IV/1675 
-Ruru-śästra 
+Ruru-śāstra 
 (Śastra, 9.220) 
 VI/176 
 IV/1810 
@@ -209,7 +209,7 @@ Samvitprakāśa
 III/467 
 III/1083 
 Sarabhaṭṭāraka 
-(Säram, 3.69) 
+(Sāram, 3.69) 
 II/82 
 II/434 
 Sarvavira 
@@ -244,12 +244,12 @@ IV/1559
 (8.323) 
 V/220 
 IV/1570 
-Spanda-śästra 
+Spanda-śāstra 
 (Sastra, 4.183) 
 III/213 
 III/829 
 Śripūrvaśāstra 
-(Varnitä, 1.186) 
+(Varnitā, 1.186) 
 I/215 
 II/215 
 (1.192) 
@@ -276,7 +276,7 @@ V/2071
 (Nirūpitāḥ, 11.72) 
 VII/57 (11th Ah.) 
 V/2149 
-(Samupäsyată, 11.80) 
+(Samupāsyată, 11.80) 
 VII/63 (11th Ah.) 
 V/2155 
 (Uktaḥ, 13.214) 
@@ -292,7 +292,7 @@ VII/3475
 (Nirupitaḥ, 23.75) 
 X/292 
 VI/3018 
-Śrisväyambhuva 
+Śrisvāyambhuva 
 (Vairiñca, 9.46) 
 VI/45 
 IV/1680. 
@@ -309,7 +309,7 @@ III/638
 (Guruttamaiḥ, 8.357) 
 V/237 
 IV/1587 
-Tanträloka 
+Tantrāloka 
 (Iti, 1.245) 
 I/258 
 II/258 
@@ -327,7 +327,7 @@ VII/3330
 Tantrasadbhava 
 (Sadbhāvaśāsana, 29.212) XI/136 
 VII/3426 
-Tattvärthacintamani 
+Tattvārthacintamani 
 (Cintamani, 16.51). 
 X/19 
 VI/2745 
@@ -343,7 +343,7 @@ VI/3062
 (Advayc, 36.12) 
 XII/389 
 VIII/3679 
-Trikasära 
+Trikasāra 
 (Sāraśāstra, 3.253) 
 II/236 
 II/588 

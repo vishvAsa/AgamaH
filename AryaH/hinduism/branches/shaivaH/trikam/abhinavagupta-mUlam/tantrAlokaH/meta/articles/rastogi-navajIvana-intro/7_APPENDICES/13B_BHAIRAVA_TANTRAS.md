@@ -9,7 +9,7 @@ title = "13B BHAIRAVA TANTRAS"
 3. Bhairava 
 4. Krodha 
 5. Unamattabhairava 
-6. Asitänga 
+6. Asitānga 
 7. Mahocchuşma 
 8. Kapálisa 
 (III) Matāṣṭaka 
@@ -17,7 +17,7 @@ title = "13B BHAIRAVA TANTRAS"
 2. Lampata 
 3. Mata 
 4. Lakṣmi 
-5. Cälikä 
+5. Cālikā 
 6. Pingalā 
 7. Utphullaka 
 (II) Yamalāṣṭaka 
@@ -30,7 +30,7 @@ title = "13B BHAIRAVA TANTRAS"
 (IV) Mangalaṣṭaka 
 1. Picubhairavi 2. Tantrabhairavi 
 3. Tatabhairavi 
-4. Brähmikalā 
+4. Brāhmikalā 
 5. Vijaya 
 6. Candrakhyā 
 7. Mangala 
@@ -40,18 +40,18 @@ title = "13B BHAIRAVA TANTRAS"
 8. Sarvamangala 
 (VI) Bahurupāṣṭaka 
 1. Andhaka 
-*Going by the assertion of Jayaratha there are sixty four tantras as enumerated in the Srikanthi. But, a perusal of the relevant extracts shows only 63 Agamas, omitting one in the Yamala group (there are only 7 Yamalas named). Dvivedi omits one Tantra namely Bhairava (under Bhairaväṣṭaka) and adds four more e.g., Uddiśa, Kukkuṭākhya, Kubjikä and Rurubhairava (Upodghata, pp. 94-111) admittedly as per Srikanthi. His total comes to 66 instead of 63 or 64. We have, however, not been able to trace the textual support from the extracts of the Srikanthi as cited by Jayaratha (T.A.V., I, pp. 39-44) either for these omissions or additions. Also see Abhi., pp. 141-143. 
+*Going by the assertion of Jayaratha there are sixty four tantras as enumerated in the Srikanthi. But, a perusal of the relevant extracts shows only 63 Agamas, omitting one in the Yamala group (there are only 7 Yamalas named). Dvivedi omits one Tantra namely Bhairava (under Bhairavāṣṭaka) and adds four more e.g., Uddiśa, Kukkuṭākhya, Kubjikā and Rurubhairava (Upodghata, pp. 94-111) admittedly as per Srikanthi. His total comes to 66 instead of 63 or 64. We have, however, not been able to trace the textual support from the extracts of the Srikanthi as cited by Jayaratha (T.A.V., I, pp. 39-44) either for these omissions or additions. Also see Abhi., pp. 141-143. 
 2. Varnacakra 3. Śakticakra 4. Kalacakra 
 5. Vinducakra 
-6. Nädacakra 
+6. Nādacakra 
 7. Guhyacakra 8. Khacakra 
-(VII) Vägiśāṣṭaka 
+(VII) Vāgiśāṣṭaka 
 1. Bhairavi 
 2. Citrika 
 3. Hamsa 
 4. Kadambikā 
 5. Hṛllekha 
-6. Candralekhä 
+6. Candralekhā 
 7. Vidyullekha 
 8. Vidumat 
 APPENDIX-13(B) 
@@ -60,7 +60,7 @@ APPENDIX-13(B)
 4. Müla 
 5. Varnabhantha 
 6. Viḍanga 
-7. Jvälina 8. Mātṛrodana 
+7. Jvālina 8. Mātṛrodana 
 (VIII) Sikhāṣṭaka 
 1. Bhairaviśikhā 2. Viņā 
 3. Viņāmani 

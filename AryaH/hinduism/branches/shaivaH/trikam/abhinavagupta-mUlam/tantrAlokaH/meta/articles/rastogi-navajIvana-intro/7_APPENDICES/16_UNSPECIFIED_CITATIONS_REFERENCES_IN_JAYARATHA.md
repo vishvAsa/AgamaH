@@ -3112,7 +3112,7 @@ IV/16
 III/1104 
 VII/115; XI /7 (29th āh.) 
 V/1999; VII/3297 
-XI/168 (29th Äh.) 
+XI/168 (29th āh.) 
 VII/3458 
 I/109 
 II/109 
@@ -3129,7 +3129,7 @@ III/954
 I/157 
 II/157 
 398 
-INTRODUCTION TO THE TANTRÄLOKA 
+INTRODUCTION TO THE TANTRāLOKA 
 येन सर्वमिदं बुद्ध 
 ... 
 येन येनाक्षमागण. येनाघ्रातं श्रुतं दृष्ट. ये निवृत्ताधिकारास्तु. 

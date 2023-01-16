@@ -14,7 +14,7 @@ II/32, 305, 425; III/750, 1059; IV/1809; V/2112, 2281, 2350, 2352, 2371; VI/2569
 III/895 
 V/192 
 IV/1542 
-Alinätha 
+Alinātha 
 XI/29 (29th Āh.) 
 VII/3319 
 Amara 
@@ -299,7 +299,7 @@ IV/1543
 APPENDIX-14 
 329 
 672I/21, 23; V/199; XI/23 (29th 
-Äh.), 24; XII/185 
+āh.), 24; XII/185 
 II/21, 23; IV/1549; VIII/3313, 3314, 
 3475 
 VII/3276 
@@ -346,7 +346,7 @@ I/14, 23, 28, 29, 30, 143, 146, 149, 162, 251, 253, 309; II/10, 100, 121, 254; I
 VIII/3721 
 VIII/3721 
 II/14, 23, 28, 29, 30, 143, 146, 149, 162, 251, 253, 309; II/362, 452, 473, 606; III/1083, 1206, 1284; IV/1357, 1369, 1426, 1467, 1543, 1633, 1769, 1844; V/2199; VI/2818; VII/3487, 
--ämnāya 
+-āmnāya 
 pankti 
 - 
 parampară 
@@ -404,7 +404,7 @@ III/699
 (Pura/Purva-guru) 
 Ah.) 
 - 
-(Śästrajñaguru) 
+(Śāstrajñaguru) 
 III/83 
 — 
 (Svaguru) 
@@ -514,7 +514,7 @@ IV/1384
 IV/1531 
 Kāśa (A) 
 V/192 
-Kärtikeya (A) 
+Kārtikeya (A) 
 V/199 
 Kaşṭaśridhara (A) 
 XII/245 
@@ -559,7 +559,7 @@ Kşemaka (A)
 V/78 
 Kṣemarāja (A) 
 II/178 
-Kurmanätha 
+Kurmanātha 
 III/297 
 Kuru (A) 
 V/72 
@@ -579,13 +579,13 @@ Lakṣmidatta (A)
 XII/430 
 Lakule (li)śa 
 V/181; XII/343, 383 
-Längali (A) 
+Lāngali (A) 
 XII/343 
 VI/2562; VII/3474 
 VIII/3720 
 IV/1531; VII/3633; VIII/3673 
 VII/3673 
-Länguli (A) 
+Lānguli (A) 
 V/181 
 IV/1531 
 Lankaratha (A) 
@@ -623,11 +623,11 @@ Manoratha (A)
 XII/430 
 Maskari (A) 
 V/192 
-Medhätithi (A) 
+Medhātithi (A) 
 Mesa 
 Mina 
 I/24; XII/343 
-Mätanga 
+Mātanga 
 V/34; XI/37 
 V/72, 77, 204 
 XII/343 
@@ -657,7 +657,7 @@ V/144
 IV/1494 
 Narasimha 
 see Nrsimha-gupta 
-Näsiketu (A) 
+Nāsiketu (A) 
 V/192 
 IV/1542 
 Navera/Naverakanatha (A) 
@@ -709,7 +709,7 @@ Pravara(nṛpati)
 Pūraṇa (A) 
 Pūrṇamanoratha (A) 
 Pura/Purva-guru 
-Räma 
+Rāma 
 Rāvana 
 Rṣabha (A) 
 Ruruvṛttikara (A) 
@@ -800,7 +800,7 @@ V/192
 II/139, 143 
 IV/1542 
 Saunika 
-Siddha/-päda 
+Siddha/-pāda 
 Siva 
 Sivanandanatha (A) 
 III/192 
@@ -844,7 +844,7 @@ II/310; VIII/3722
 VIII/3723 
 VIII/3722 
 V/2285 
-Śrinätha 
+Śrinātha 
 I/26 
 Śrīrājarāja (A) 
 1/310; XII/432 
@@ -856,7 +856,7 @@ Stotrakara
 VIII/85 
 - (Krama-)Stotrakāra (A) 
 III/191 
-Subhaṭa-datta/-päda (A) 
+Subhaṭa-datta/-pāda (A) 
 XII/433 
 Sugata 
 XII/376 
@@ -866,7 +866,7 @@ Süryaratha (A)
 V/193; XII/385 
 I/236; IV/106; VII/193; XII/385 
 XII/430 
-Sūtrakära 
+Sūtrakāra 
 11/13 
 Svacchanda 
 XII/383 
@@ -970,7 +970,7 @@ Viśvadatta (A)
 XII/431, 433 
 Vivaraṇakara (Kramastotra-) 
 III/202 
-Vṛttikära 
+Vṛttikāra 
 II/13 
 (Ruru) 
 VI/174 

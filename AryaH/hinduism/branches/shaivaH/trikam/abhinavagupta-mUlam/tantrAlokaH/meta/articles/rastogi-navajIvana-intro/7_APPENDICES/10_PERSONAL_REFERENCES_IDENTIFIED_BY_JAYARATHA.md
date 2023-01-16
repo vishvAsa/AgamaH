@@ -4,7 +4,7 @@ title = "10 PERSONAL REFERENCES IDENTIFIED BY JAYARATHA"
 +++
 10. PERSONAL REFERENCES IN THE TANTRALOKA CITATIONS TRACED IDENTIFIED BY JAYARATHA 
 Person 
-Ahnika/ Kärikā 
+Ahnika/ Kārikā 
 Volume Page 
 (KSTS edition) 
 Volume Page 
@@ -63,7 +63,7 @@ IV/1813
 VI/180 
 IV/1814 
 Utpala (Guruditam, 
-Pratyabhijñākärikä 
+Pratyabhijñākārikā 
 3.8 
 II/10 
 11/362 

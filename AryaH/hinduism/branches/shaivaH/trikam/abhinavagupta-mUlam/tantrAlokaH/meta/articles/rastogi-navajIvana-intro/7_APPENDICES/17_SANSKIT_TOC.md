@@ -7671,6 +7671,6 @@ INTRODUCTION TO THE TANTRĀLOKA
 ५३ ग्रन्थश्रवणार्थं स्वात्मीकरणद्वारा लोकस्य श्रावणार्थं च 
 ८५ 
 Abhāsavāda 247 
-Abhedabhävanā 177 
+Abhedabhāvanā 177 
 ABHINANDA 35, 54 
 Abhinavabharati 25 

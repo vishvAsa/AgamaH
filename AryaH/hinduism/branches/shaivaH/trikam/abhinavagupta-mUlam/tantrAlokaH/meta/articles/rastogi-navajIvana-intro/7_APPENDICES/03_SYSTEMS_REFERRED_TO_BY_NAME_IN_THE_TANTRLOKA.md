@@ -17,23 +17,23 @@ Anuttaraşaḍardharthakrama
 Anuttaratrika 
 11.88 
 Arhata 
-Atimärga 
+Atimārga 
 Bahya 
 Bhairava/-tantra 
 Bauddha 
 - 
 (Saugata) 
 (Sünyadṛṣṭyavalambin) 
-(Sarva pahnavaheväka- 
+(Sarva pahnavahevāka- 
 dharma) 
-(Vikalpäpeksanirvikalpa- 
+(Vikalpāpeksanirvikalpa- 
 prāmāṇyavādin) 
 Bhedavāda 
 - 
 (Dvaita Sastra) 
 (Dvaitin) 
 Bhedabheda/-vāda 
-Cärväka 
+Cārvāka 
 4.27; 6.152, 153; 13.305, 346; 35.26 
 13.346; 15.467 
 4.27; 6.10 
@@ -47,19 +47,19 @@ Cärväka
 6.16 
 11.87; 13.301, 320 15.319; 37.18, 26, 27 
 Dakşa 
-Dakṣiņa-śästra 
+Dakṣiņa-śāstra 
 Dvaita Sastra 
 Dvaitin 
 See under Bhedavāda 
 See under Bhedavāda 
-Dvayadvaya/Dvaitadvaita Ekaprakāśavāda Gunagunidvaitavadin Gurudarśananaya Guru/-śästra/-sasana -darśana-naya 
+Dvayadvaya/Dvaitadvaita Ekaprakāśavāda Gunagunidvaitavadin Gurudarśananaya Guru/-śāstra/-sasana -darśana-naya 
 Kala(?) 
 Kali-vidhi 
 APPENDIX-3 
 See under Bhedabhedavāda 
 2.22 
 See under Nyaya 
-See under Guru-śästra 
+See under Guru-śāstra 
 29.102 
 15.410 
 13.134 
@@ -68,19 +68,19 @@ See under Guru-śästra
 Kāṇāda/-dṛṣṭi Kanabhojanaśişya 
 Kāpila Karuka 
 Kheṭapāla Kaula 
-śästra - dikṣā Kaumärila Krama 
+śāstra - dikṣā Kaumārila Krama 
 Kula 
 1.158; 9.75-79, 298 
-See under Käṇāda 
+See under Kāṇāda 
 See under Samkhya 13.305 
 See under Siddhanta 
 4.258; 13.301, 321; 29.9, 44, 117; 37.26 
 15.589 
 15.589 
-See under Mimämsä 15.169; 30.1, 35 
+See under Mimāmsā 15.169; 30.1, 35 
 4.256; 13.134, 301, 306, 321; 15.169; 22.41; 28.121, 123-24; 29.4, 46, 122, 129; 30.1, 34, 35; 35.31, 34 
 15.533 
-ämnaya prakriyä vidhi 
+āmnaya prakriyā vidhi 
 29.1 
 30.35 
 - 
@@ -94,13 +94,13 @@ Mahāpāśupatam (?)
 Mahayogin 
 Mata 
 Matayamala 
-Mayiya Śästra 
-Nästika darśana (Nästikya- 
+Mayiya Śāstra 
+Nāstika darśana (Nāstikya- 
 vāsanā) 
 Nyaya 
 (Naiyayika) 
 — 
-(Tärkika) 
+(Tārkika) 
 See under Yoga 
 4.262, 269; 13.301, 320; 15.157, 169, 319 
 15.319 
@@ -118,7 +118,7 @@ Parameśvara-sasana/-śāstra
 Pasu 
 Paśuśāstra 
 Pāśava 
-Pati-säsana/-śästra 
+Pati-sāsana/-śāstra 
 Purana/-jña 
 Rahasyaśāstra 
 Şadardha(ka) 
@@ -164,12 +164,12 @@ Siddhănța (i.e., Śaiva Siddhanta) 4.256; 11.87; 13.300, 305, 320,
 15.551 
 1.36; 4.20; 8.1; 11.3; 13.142; 15.25, 466; 22.1; 23.62; 25.17; 
 
-(Advaya-śästra) 
+(Advaya-śāstra) 
 
 (Dvaya-śāstra) 
 - (Dvayadvaya-sastra) 
 -(Pa(Pa)rameśvara-śāsana/- 
-śästra) 
+śāstra) 
 36.12; 37.14 
 36.12 
 36.12 
@@ -179,12 +179,12 @@ Siddhănța (i.e., Śaiva Siddhanta) 4.256; 11.87; 13.300, 305, 320,
 - (Srikantha-sasana) 
 (Svaprakasaśivatāmātra- 
 vadin) 
-Smärta 
+Smārta 
 Smrti 
 Śrauta 
 Śrikanthaśāsana Śünyadṛṣṭyavalambin Svaprakāśaśivatāmātravādin 
 Tantra 
-(Tantrika) - (Tantrikiya) Tärkika 
+(Tantrika) - (Tantrikiya) Tārkika 
 Trika 
 Urdhva-sasana/-śăstra 
 Vaidantika 
@@ -192,7 +192,7 @@ Vaidika
 Vaimala 
 Vairinci 
 Vaiṣṇava 
-Vaiyakaraṇadarśana Vama(ka)/-śāsana/-śästra 
+Vaiyakaraṇadarśana Vama(ka)/-śāsana/-śāstra 
 acăra -marga 
 Veda 
 (Śruti) (Vaidika) 

@@ -55,7 +55,7 @@ Verse 90
 3 
 XII, p. 430 
 (chart) 15 
-Śrógäratha 
+Śrógāratha 
 93 
 1 
 3 

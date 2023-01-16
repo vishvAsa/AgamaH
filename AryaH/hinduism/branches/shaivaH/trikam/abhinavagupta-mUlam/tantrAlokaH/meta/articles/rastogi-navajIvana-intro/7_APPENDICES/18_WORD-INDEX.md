@@ -8,14 +8,14 @@ Acalaśrimatha 91
 Acharya 21, 82 
 Adhāra 251 
 Adhikaribheda 184 
-Adhikärin 10, 182 
-Adhikariparikṣā 181 Adhvabheda 180 Adhvan 218, 220 Adhvaśuddhi 220 Adhvopayoga 177 Ādiväkya 10 
-Adi Yaga (Adiyaga) 84, 248 Advaya-sampattivärtika 38 (fn.) Aesthetic theory (Abhinava's) 
+Adhikārin 10, 182 
+Adhikariparikṣā 181 Adhvabheda 180 Adhvan 218, 220 Adhvaśuddhi 220 Adhvopayoga 177 Ādivākya 10 
+Adi Yaga (Adiyaga) 84, 248 Advaya-sampattivārtika 38 (fn.) Aesthetic theory (Abhinava's) 
 248 
 Agama 15, 117, 119, 120, 121, 125, 126, 128, 136, 205, 242, 
 251 
-Agamic texts 121, 131 Agniga Adhiväsana 179 Agnitarpana 180 
-Ahorätrasankrantyādi 176 Ahorätravibhaga 48 Akalpitakalpaka 204, 225 Akşasutra 183, 192, 230 Akṣepa 237 
+Agamic texts 121, 131 Agniga Adhivāsana 179 Agnitarpana 180 
+Ahorātrasankrantyādi 176 Ahorātravibhaga 48 Akalpitakalpaka 204, 225 Akşasutra 183, 192, 230 Akṣepa 237 
 AMARDAKA 35 
 -mathika 34 
 -school 35 (see Ananda also) AMBA 23, 24, 27, 28, 31, 32 AMRTARATHA 89 
@@ -27,16 +27,16 @@ Ananta
 -Rudra 70 
 Anantavijaya 126, 127 
 Anapekşitvasiddhi 177 
-Anäkhyacakra 110, 140 
+Anākhyacakra 110, 140 
 Anava 68, 169 (fn.), 197, 201, 
 223 
-Anava Mala See Mala Aṇavänuttaratābhyupayaka- 
+Anava Mala See Mala Aṇavānuttaratābhyupayaka- 
 thana 175 
-Anava Upaya 48, 68, 80, 175, 176 (fn.), 187, 192, 193, 205, 206, 219, 225, 226, 229 Anavopaya See Aṇava Upaya ANIRUDDHA 36, 55 Antaḥsañskära 181, 190 (Antaḥpraveśa) Pathalakṣaṇa 
+Anava Upaya 48, 68, 80, 175, 176 (fn.), 187, 192, 193, 205, 206, 219, 225, 226, 229 Anavopaya See Aṇava Upaya ANIRUDDHA 36, 55 Antaḥsañskāra 181, 190 (Antaḥpraveśa) Pathalakṣaṇa 
 175 
 Antarvedi 29 
 Antyasamskriya See Antyești- 
-yäga Antyayaga 182 
+yāga Antyayaga 182 
 Antyeşti 39 
 -Dikṣā See Dikṣā 
 -yaga 182 
@@ -53,7 +53,7 @@ Anupaya 174, 197, 200, 201, Bahiryaga 241
 Anupratyabhijñā 63, 129 ANUPRATYABHIJÑAKṚTĀ 63 
 Anuttara 3 
 Anuttara Dikṣā See Dikṣā Anuttarajñaptirupanirṇayat- 
-maka Prakarana 174 Anuttaraprakriya 7, 55, 56 Anuttarāṣṭikā 128 Anuyäga 234, 238 Anuyāgavidhi 235 (fn.) Anyaśāstragaṇotkarṣa 179 
+maka Prakarana 174 Anuttaraprakriya 7, 55, 56 Anuttarāṣṭikā 128 Anuyāga 234, 238 Anuyāgavidhi 235 (fn.) Anyaśāstragaṇotkarṣa 179 
 Aparǎ 201 
 Apana 192 
 Arabdha Karma See Karma 
@@ -65,32 +65,32 @@ Arhats 33
 Ārhata 250 
 Artha 201 
 Arthadhvan 188 Asanǎrcana 122 Aṣṭakas 210, 212 
-Aṣṭänga 152 
+Aṣṭānga 152 
 Astrărcă 179 
 Aśuddha-vidya 133 
 Atideśa 65 
-Atimärga 46, 47 
+Atimārga 46, 47 
 ATRIGUPTA 28, 29, 30, 32 
 Avartana 65 
 Avyakta 73 
-Ayäti 186 
+Ayāti 186 
 Bahya Sastra 250 
 BAJPAI, IRA 176 (fn.), 177 (fn.) Balabalavicara 190 
 Bauddha 250 
 Bindu 42 
 Bhadrakali 140 Bhairava 204 
--tantras (sixtyfour-) 126 three powers of- 201 Pañcasrotorüpa- 248 Bhairavahood 12, 20 Bhairavakula 210, 236 Bhairavatädätmyadayinīprakri- 
+-tantras (sixtyfour-) 126 three powers of- 201 Pañcasrotorüpa- 248 Bhairavahood 12, 20 Bhairavakula 210, 236 Bhairavatādātmyadayinīprakri- 
 yanirupaṇa 180 
 Bhakti 195 
 BHAKTIVILASA 35, 54 
 BHANUKA 39, 96, 97, 115 
 Bhāṣā 66 
 BHASKARA 36, 38, 55, 115 
-Bhaṭṭa Mimämsä 139 BHATTANATHA 45 Bhautaveśa 71 
+Bhaṭṭa Mimāmsā 139 BHATTANATHA 45 Bhautaveśa 71 
 BHAVA 35, 39, 54 
 BHAVABHŪTI 39, 54, 56 
 Bhedavādin 50 
-Bhogakärikä 83, 138 
+Bhogakārikā 83, 138 
 Bhogamokşadanena Vidhi 182 
 BHOJARAJA 115, 129 
 Bhugaṇeśapujana 179 
@@ -114,7 +114,7 @@ Dautavidhi 184
 Deha 192 
 Dehaprānādiśodhana 178 
 Desa 212, 213 
-Désädhvan 49, 81, 111, 176 
+Désādhvan 49, 81, 111, 176 
 559 
 Deśadhvavibhāgakathana 176 
 Brahmavidya 42, 54, 191, 194, DEVABALA 139 
@@ -129,7 +129,7 @@ Buddhist tantricists 153
 Cakra/s 199, 252 
 CAKRABHANU 42, 110 
 Cakrabheda 176 
-Cakrabhedaikikäranirupaṇa 185 
+Cakrabhedaikikāranirupaṇa 185 
 Cakracarcă 183 
 CAKRAKA 23, 32 
 Cakrarcana 183, 190 
@@ -137,8 +137,8 @@ Cakrodaya 176
 Căra 148 
 Caramana 176 
 Carusamsiddhi 179 Carya 195, 196 
-Caryakrama 202, 248 Catuşpithaśästra 239 Cidatma-uccara 175 Cillacakreśvari-mata 116 Chumma 128, 206, 236 
-Daiśika 82 Dakṣa 241 Dantakäṣṭha 227 Dantakäṣṭhäntasaṁskriyä 179 DĀSĪ RÄJÄNAKA 88,93 
+Caryakrama 202, 248 Catuşpithaśāstra 239 Cidatma-uccara 175 Cillacakreśvari-mata 116 Chumma 128, 206, 236 
+Daiśika 82 Dakṣa 241 Dantakāṣṭha 227 Dantakāṣṭhāntasaṁskriyā 179 DĀSĪ RāJāNAKA 88,93 
 Devi 119, 120 
 Devipañcasatikā 54 Devyāyāmala 8, 99 
 -Tantra 64, 125 DHARMASIVA 9, 36, 37, 54 Dhruveśa 133 (see Rudra also) 
@@ -146,20 +146,20 @@ Dhyana 48, 68, 187
 Dikṣā 171, 195, 200, 247 
 Antyeşti- 182 
 Anuttara- 223, 233 
-Jananadisamanvitä- 171, 180 
-Janāśväsapradayini- 181 
+Jananadisamanvitā- 171, 180 
+Janāśvāsapradayini- 181 
 Lingoddhara- 170, 182, 223, 
 225, 233, 234 
-Maranäsanna- 225 
+Maranāsanna- 225 
 Mṛtoddhára- 232 
 Parokṣa- 37, 51, 54, 181, 232 
 Pâroksi- 181 
 Plurality of 199 
 Putraka 58, 170, 180, 219 
-Sadyah-Samutkräntiprada- 
+Sadyah-Samutkrāntiprada- 
 171 
 Sadyonirvana- 170 Samaya- 178, 193 Samayi- 43, 50, 82, 205 Samayi- 178 
-Samkşipta- 171, 181, 231 Sämnyäsiki- 182 
+Samkşipta- 171, 181, 231 Sāmnyāsiki- 182 
 Tula- 181, 190, 232, 239 Vedha- 184, 213, 236, 238 Vikṣipta- 166, 171 Vistṛta- 166 
 INTRODUCTION TO THE TANTRĀLOKA 
 560 
@@ -193,11 +193,11 @@ Dūti
 -BHAGAVATI 45 
 -Yaga 139 
 Dvarapūjāvidhi 178 
-Dvärǎrcana See Dvärapujä- 
+Dvārǎrcana See Dvārapujā- 
 vidhi 
 DWIVEDI See Dwivedi, B. V. DWIVEDI, B. V., 1, 8, 38, 44, 52, 
 127, 195 
-Ekaviravidhāna 142 Ekikära 185 
+Ekaviravidhāna 142 Ekikāra 185 
 Ekoccara 229, 230 Eka-tri-pañcãdyaistattvapari- 
 kalpana 177 
 ERAKA 35, 40, 115 
@@ -209,7 +209,7 @@ Gunapradhanatābheda 185
 GUNARATHA 91 
 GUNGARATHA 88, 92 Guru 36, 38, 96 
 Gurudevapaddhati 8 
-Gurunathaparamarśa 130 Gurupüjävidhi 184 
+Gurunathaparamarśa 130 Gurupüjāvidhi 184 
 Gurvadyantadinādyarcaprayo- 
 jananirupaṇa 184 Gurusatattva 175 
 Haracaritacintamani 94 (fn.) HARŞADATTA 38 (fn.) 
@@ -226,7 +226,7 @@ I PVV See Isvara-pratyabhijñā-
 vivṛti-vimarśinī 
 ISANASIVA 8 
 Iśvara 134, 136 
-as Kälägnirudra 136 
+as Kālāgnirudra 136 
 Isvara-pratyabhijñā-kārikā 
 (IPK) 248 
 APPENDIX-18 
@@ -235,18 +235,18 @@ Isvara-pratyabhijñā-vimarśinī
 Isvara-pratyabhijñā-vivṛti - Vi- 
 marsini (IPVV) 32, 44 
 Jagadananda 48 Jagala 138 
-Jägradadinirupaņa 177 
+Jāgradadinirupaņa 177 
 JAIMINI 98 
 Jainism 53 
 Jalandhara 46, 47, 90 
 Jala-tattva 132 
-Jälayoga 51 
+Jālayoga 51 
 Jalopadeśa 181, 190 
-Jananadisamanvitädikṣā See 
-Diksä 
-Jananädivihinatva 181 
-Janāśväsapradayinidikşă See 
-Diksä 
+Jananadisamanvitādikṣā See 
+Diksā 
+Jananādivihinatva 181 
+Janāśvāsapradayinidikşă See 
+Diksā 
 Janika 139 
 Janya 139 
 Japa 224 
@@ -263,24 +263,24 @@ Kakṣyāstotra 39
 561 
 Kalā 73, 79, 121, 177, 188, 213, 
 215, 218, 232 
-as cosmic passage 112 Käla 79, 121, 210, 211 Kälabheda 185 (fn.) 
+as cosmic passage 112 Kāla 79, 121, 210, 211 Kālabheda 185 (fn.) 
 Kālacakra (doctrine of) 250 
-Kälatattva 169 (fn.), 176 (fn.) 
+Kālatattva 169 (fn.), 176 (fn.) 
 Kaladhva 177 
-Kälädhvan 48, 176, 214, 219 
+Kālādhvan 48, 176, 214, 219 
 Kaladyadhvan 177 
-Kälägnirudra 136 Kälāpekṣā 181 Kalasaṁkarşini 43 Kälatattva 176 Kälikäs 203 
+Kālāgnirudra 136 Kālāpekṣā 181 Kalasaṁkarşini 43 Kālatattva 176 Kālikās 203 
 Kālis 109, 110 
 twelve- 110, 203 
 twelve-Kālis theory 109 
 KALLATA 251 
-Kälopaya 176 
+Kālopaya 176 
 Kalpitarcadyanādara 175 
 KALYANA 39, 56, 95, 98, 99, 100, 
 103, 129 
 KAMALA 93, 94 
 Vişņu's spouse 93 
-Kamya-karma See Karma Kampahräsa 177 
+Kamya-karma See Karma Kampahrāsa 177 
 KANAKADATTA 91 
 Kañcukas 78, 118 
 Karana 68, 84, 141, 146, 175, 
@@ -302,7 +302,7 @@ KSS 61
 KARNA 23, 24, 25, 27, 28, 32, 59, KSTS 130, 155, 160, 165, 246 
 88 
 Kartṛkarmabhāva 247 
-Käruka 250 
+Kāruka 250 
 Karyakaraṇabhāva 176 
 Kashmir 129, 249 
 KŞEMA 23, 25, 32, 132, 133, 134, 
@@ -323,7 +323,7 @@ Kirana(a) 118, 252
 Khecaricakra 49 
 Krama 39, 40, 41, 42, 43, 46, 54, 
 66, 97, 114 
-Kṣeträṣṭaka 193 
+Kṣetrāṣṭaka 193 
 Kṣurikadinyasa See Nyasa 
 Kula 20, 43, 114, 194, 202, 233, 
 236 
@@ -348,7 +348,7 @@ kularatnamālā 117
 Kuleśa 203 
 Kulesi 207 
 Kuleśvari 202 
--system 40, 42, 54, 111, 128, Kumärikä region 29 
+-system 40, 42, 54, 111, 128, Kumārikā region 29 
 129, 152, 205, 251 
 -tradition 96, 153 
 Kramakamala 129 
@@ -369,58 +369,58 @@ Linga 192
 -pūjākathana 183 -samapatti 207 Lingarca 182, 183 
 APPENDIX-18 
 Lingoddhara 182, 233, 242 
--dikṣā See Diksä Lingodhṛtikrama 182 Locana 2 Logicians 33 
+-dikṣā See Diksā Lingodhṛtikrama 182 Locana 2 Logicians 33 
 MADHURAJA YOGIN 130 
 Madhyadeśa 28, 29 Madira 138 
 Madya 137 
 Mahadeva mountain 93 
-Mahajälaprayogavidhi 181(fn.) Mahanayapaddhati 9 Mahānayaprakasa 129 Mahāpīṭha 207 
+Mahajālaprayogavidhi 181(fn.) Mahanayapaddhati 9 Mahānayaprakasa 129 Mahāpīṭha 207 
 Mahat 212 
 Maheśvara's cult 102 
 Mala 79, 215 
 Āṇava- 221 
-Karma- 214, 216, 224 (ignorance) 225 Theory of- 198 Maläditattva 177 
+Karma- 214, 216, 224 (ignorance) 225 Theory of- 198 Malāditattva 177 
 Malini 16, 118, 168, 230 
-Mälininyasa See Nyasa Mäliniślokavārtika 56, 58 
+Mālininyasa See Nyasa Māliniślokavārtika 56, 58 
 563 
 Mandalasadbhavasamkṣepābhi- 
 dhana 185 
 Maṇḍalātmānusandhana 180 Mandalatmattva 234 Mandalavidhikathana 185 MANDRA 23, 25, 26, 32, 59 Manonmani 133 
 MANORATHA 22, 23, 31, 32 Mantra 42, 44, 80, 81, 141, 185, 
 187, 189, 191, 194, 202, 206, 207, 210, 211, 212, 213, 214, 216, 217, 218, 219, 226, 234, 235, 238, 239, 241, 251 Mantrabheda 181 Mantracakrabheda 187 Mantrasattaprayojana 180, 189 Mantraugha 185 
-Mantravidyäbheda 176, 187 
+Mantravidyābheda 176, 187 
 Mantravidyãdisvarupopavarṇa- 
 na 185 
 Mantravirya 42, 80, 140, 175, 
 185, 191 
 Mantravyapti 141 
-Manträdhvan 189, 220, 230 
-Manträdiprakāśana 185 
-Manträdyabhinnar patva 174 Mantresa 217, 218 
+Mantrādhvan 189, 220, 230 
+Mantrādiprakāśana 185 
+Mantrādyabhinnar patva 174 Mantresa 217, 218 
 Maranasannadikṣā See Dikṣā Matabhattaraka 119 Matanga Agama 36, 55, 78 Matangaparamesvara 118 Matanga Sastra 37, 117 Mata 250 
-Mälinivijayavārtika (MVV) 7, Mata Sastra 33 
+Mālinivijayavārtika (MVV) 7, Mata Sastra 33 
 48, 57, 58, 59, 60 
 Mālinīvijayottaratantra (MVT) 
 5, 23, 57, 58, 67, 71, 75, 252 
 Mana 133 
 Matiharana 182 
 Mātrās 208 
-Mätṛkā 230 
-Mätṛkanyasa See Nyasa 
-Mäyä 42, 73, 214, 215 
+Mātṛkā 230 
+Mātṛkanyasa See Nyasa 
+Māyā 42, 73, 214, 215 
 Mandala 24, 84, 185, 192, 194, Mausula 250 
 234, 238, 240 
 564 
 Mayiya 223 
 Melapa 90 
-Mimämsä 25 Mimämsists 33 
-Mokṣakärikā 83 Moksa 247 
+Mimāmsā 25 Mimāmsists 33 
+Mokṣakārikā 83 Moksa 247 
 monism 54, 137 
 monistic 
 -school 126 
 INTRODUCTION TO THE TANTRĀLOKA 
-Nätha cult 9 
-Nätha Mathika 34 
+Nātha cult 9 
+Nātha Mathika 34 
 NAUDOU 249 Nigama 126 
 Nimittajabahubhitparvapavit- 
 rādi 183 
@@ -435,13 +435,13 @@ Mṛtoddhāradikṣā See Dikṣa
 Mrtyunjaya-tantra 122 
 Mudra 84, 128, 185, 202, 234, 
 236, 238, 240 
-Mudrävidhikathana 185 
-Mudrikädividhi 185 
+Mudrāvidhikathana 185 
+Mudrikādividhi 185 
 Mürti 193 
 MVT See Mālinīvijayottara- 
 tantra 
 MVV Sec Mālinīvijayavārtika 
-Nädi 211 
+Nādi 211 
 Naimittika 61, 139, 189, 247 
 -Karma See Karma 
 Naimittikadau 247 
@@ -457,16 +457,16 @@ Niyati 79, 247
 Northern Seat 46 
 Nyasa 
 Kṛpaṇyādi-181 
-Kṣurikädi-229 
-Mälini-118 
-Mätṛkä-229, 241 
-Padädhva-58 
+Kṣurikādi-229 
+Mālini-118 
+Mātṛkā-229, 241 
+Padādhva-58 
 Para-180 
 Śaiva-50 
-Śäkta-43, 50, 54 
+Śākta-43, 50, 54 
 Sămânya-50 
 Samanya-bheda 178 
-Şoḍhä-228 
+Şoḍhā-228 
 Svatantra-123 
 Viseșa- 50, 228 (fn.) Nyaya school 139 
 Ovalli 128 
@@ -478,7 +478,7 @@ Padadhvanyasa See Nyasa
 Paddhati 5, 6, 7, 8, 9 
 NAROPA 249-50 
 NARASIMHAGUPTA 30, 32, 33 
-Nästika philosophers 249 
+Nāstika philosophers 249 
 , 
 PADMAGUPTA 23, 32 
 Padovalli 120 
@@ -488,7 +488,7 @@ APPENDIX-18
 Pañcagavya 179 
 Pañcāmpta 126, 127 
 Pathalakṣaṇa See (Antaḥpra- 
-Pañcasatika 109, 117, 120, 127, Pätra 192 
+Pañcasatika 109, 117, 120, 127, Pātra 192 
 140 
 Pañcatattvavidhi 216 
 Pañcikā 57, 59 
@@ -501,10 +501,10 @@ PANDEY 21, 22, 36, 37, 52, 57, Pindanathas 140
 Pindastha 218 
 PARAMAGURU (of JAYARATHA) 96 Pitamaha 241 
 Parama Śiva 203 
-Paramärthasara 128 
+Paramārthasara 128 
 PARAMEŞTHĪGURU (of JAYARATHA) 
 96 
-Paranyasa See Nyasa Paratattväntaḥpraveśa 175 Paraupayika Pranigadana 174 Pară 201 
+Paranyasa See Nyasa Paratattvāntaḥpraveśa 175 Paraupayika Pranigadana 174 Pară 201 
 Parābija 140 
 Paramarśodayakrama 174 Parapara 201 
 Paratriśikā See Parātrimśikā Paratrimśikā (PT) 39, 56, 117, 
@@ -516,7 +516,7 @@ Pitṛvyatanayaḥ 25 Prakaraṇavivarana 60 Prakirṇaka Vivarana 59 Prakasa 10
 Prāņa 192, 201, 209, 210, 211, 
 218, 236 
 Fivefold-192 
-Präṇabuddhicitsvadhvanyāsa 
+Prāṇabuddhicitsvadhvanyāsa 
 pūjane Dehapūjā 179 Prāṇacāramāna 123 
 Paropaya 174 
 Parvabheda 183, 210 
@@ -551,7 +551,7 @@ Prayojana 182
 -school 107 
 preceptorial 
 -teaching 111 Pṛthvi 168 
-PTV See Parätrimsikävivarana Pūjā 79 
+PTV See Parātrimsikāvivarana Pūjā 79 
 Pūjābheda 183 
 Pūjākrama 109 
 Purasaṁgraha 176, 187 PURNAMANORATHA 88 Puruşa 214, 215, 216 
@@ -561,7 +561,7 @@ Pusta(ka) 192
 Putraka 58, 82, 238 
 -dikṣā See Dikṣā 
 Putrakatvasiddhinirupaṇa 180 
-Raktakäli 109 
+Raktakāli 109 
 Rahasyacarya 184 
 Rahasyaprakriya 213 
 Rahasyavidhi 184 
@@ -583,7 +583,7 @@ Sabdakalpadruma 6, 7 Sabdadhva 188, 189
 Şaḍardha 20 
 Sadardhahrdaya 62 
 Şadardhasara 62 
-Sadardhaśästra 62 
+Sadardhaśāstra 62 
 Şaḍardhaślokavārtika 3 
 Sādākhya 134 
 Sadasiva 134 
@@ -597,12 +597,12 @@ Sadhana 89
 Sadyaḥsamutkrama 181 
 Sadyaḥsamutkrāntipradā Dikṣā 
 See Dikṣā 
-Sadyaḥsamutkräntipradādīkṣā- 
+Sadyaḥsamutkrāntipradādīkṣā- 
 nirupaṇa 181 
 Sadya utkranti 171, 181, 229 
 APPENDIX-18 
 567 
-Samayi Dikṣā See Diksä 
+Samayi Dikṣā See Diksā 
 Sadyonirvāṇadikṣā See Dikşa Samayin 136, 205, 235 
 SADYOJYOTI 83, 139 
 Sahaja 139 
@@ -617,11 +617,11 @@ Samayitvavidhi 178
 Samayi See Samayin 
 -initiation 82 
 Samana 192 
-Samäsa 80 
+Samāsa 80 
 Samaveśa 198, 203 
 Sambhava 197, 201 
 Sambhava Upaya 174, 202 
--scriptures 14, 95, 98, 101 Sambhavätmavedanakathana 
+-scriptures 14, 95, 98, 101 Sambhavātmavedanakathana 
 -spiritualism 96, 99 
 Saivism 116, 233, 247, 250 
 dualistic-138 
@@ -631,14 +631,14 @@ Saivite See Saiva
 Sambhu 48 (fn.) 
 SAMBHUNATHA 22, 35, 37,4 3, 44, 45, 46, 47, 48, 49, 50, 51, 52, 54, 59, 115, 252 
 Saivistic scriptures See Saiva Sañcayanyaya 76, 164 
-Śäkta 197, 209 
+Śākta 197, 209 
 -class 224 
-Säktanyasa See Nyasa 
+Sāktanyasa See Nyasa 
 Śāktasamaveśaprakāśana 175 Sakti 20, 133, 134, 215, 232 
-Śaktipäta 13, 21, 177, 1941 
-Madhyativra-21 Saktipätakramavivecanal 
+Śaktipāta 13, 21, 177, 1941 
+Madhyativra-21 Saktipātakramavivecanal 
 177 
-Śaktipätatirohiti 177 Śaktivicitrată 177 Śäktopaya 175, 205 SAKTYANANDA 114 Samana 136, 137 Samanya 172 
+Śaktipātatirohiti 177 Śaktivicitrată 177 Śāktopaya 175, 205 SAKTYANANDA 114 Samana 136, 137 Samanya 172 
 -nyasa Sec Nyasa -nyasabheda See Nyasa Samastaśāstramelanakatha 186, 
 250 
 Samaya 179 
@@ -647,25 +647,25 @@ Samayadikṣā
 Samaya Dikșă See Dikṣā 
 Samgraha 5 
 -grantha 4 
--kära 5 
+-kāra 5 
 Samhara 194 
 -bija 204 
 -citrată 176, 194 
 -vaicitrya 136 Samhari 139 
 Samkhya 81 
 Samkhyadhikya 177 
-Samkṣipta Dikşă See Diksä Sämsiddhika 200, 204, 225 Samskära 37, 51, 182 
--prayojana 182 Samskriyagana 181, 190 Samskriyätattva 51 Samviccakrodaya 175 
+Samkṣipta Dikşă See Diksā Sāmsiddhika 200, 204, 225 Samskāra 37, 51, 182 
+-prayojana 182 Samskriyagana 181, 190 Samskriyātattva 51 Samviccakrodaya 175 
 Samvit-krama 109, 205 
 Samvit-prakāśa 38 Sandohaka 193 SANGADHARA 98 
-Sankäccheda 182 
+Sankāccheda 182 
 SANKARANANDANA 139 
 568 
 INTRODUCTION TO THE TANTRĀLOKA 
 ŚAŃKHADHARA 95, 98, 99 
 Sankṣepa 80 
 Sankṣiptavidhi 252 
-Sänyäsiki Dikṣā See Dikṣā 
+Sānyāsiki Dikṣā See Dikṣā 
 Sāradatilakatantra 44 Sārasāsana 62 
 Sārasastra 62 
 Sărdhākṣarām 122 
@@ -676,17 +676,17 @@ Sarvataḥ Cakrapūjā 179
 Sarvācāratantra 139 
 Sarvadhāraśaktinirupaņa 177 
 Sarvoddeśana 174 
-Śästra 3, 171 
+Śāstra 3, 171 
 Śāstrakāra 10 
-Śästramelana 186, 252 
-Sästrärthaikikärodaya 185 
+Śāstramelana 186, 252 
+Sāstrārthaikikārodaya 185 
 Sastrasammelana 186 
-Śästrāyātikathana 186 Satarudras 41 
+Śāstrāyātikathana 186 Satarudras 41 
 Satarudriya 54 
 Sattarka 21 
 SATTVA 92, 94 
 SAURI 23, 25, 27, 28, 32, 88 
-Saviseṣärghabhäjana 178 
+Saviseṣārghabhājana 178 
 Sayujya 136 
 Śayyākļpti 179 
 SEKODDESATĪKĀ 250 
@@ -714,11 +714,11 @@ Sişyaucityaparikṣā 178
 227, 229, 237 Śivahood 11, 214 
 Šivaratha 91 Sivaratri 139 Śivasakti 35, 54 
 Sivasutra 39, 55 
-Šivatanuśästra 79, 143 
+Šivatanuśāstra 79, 143 
 SIVANANDA I, 114 SIVANANDALI 115, 130 Ślokavārtika 3 
 Sodhana 182 
-Soḍhänyāsa See Nyasa 
-Sodhyaśodhakädivicitrată 180 Sodhyavaicitrya 58, 219 
+Soḍhānyāsa See Nyasa 
+Sodhyaśodhakādivicitrată 180 Sodhyavaicitrya 58, 219 
 SOMADEVA 45, 46, 115 
 SOMARAJA 110, 115, 129 SOMASAMBHU 9 
 SOMANANDA 34, 39, 40, 43, 56, 
@@ -726,7 +726,7 @@ SOMANANDA 34, 39, 40, 43, 56,
 Southern Pitha 46 
 Spanda 39, 55, 251 
 Sp. K. 67, 251 
-Śräddha 182, 195 
+Śrāddha 182, 195 
 Siddhanta Saivism 37, 249, 250 Śrauta 250 
 APPENDIX-18 
 569 
@@ -739,7 +739,7 @@ APPENDIX-18
 Śrimṛtyunjaya-siddha-tantra 
 103(fn). 
 Srinagar 91 ŚRĪNĀTHA 41 
-Sripurvapañcikā 58 Śripürvaśästra 21, 33, 50, 54, 57, 58, 69, 71, 73, 75, 78, 79, 142 Śriśästra 44 
+Sripurvapañcikā 58 Śripürvaśāstra 21, 33, 50, 54, 57, 58, 69, 71, 73, 75, 78, 79, 142 Śriśāstra 44 
 SRNGARA 88, 93, 95, 97 ŚṚNGARARATHA 88, 92, 95, 97 Sṛṣṭi 194 
 -bija 204 -kāli 110 
 Śrutavidhi 184, 247 Śruti 250 
@@ -752,14 +752,14 @@ mixed-82
 SUBHAŢA DATTA 93, 95, 96, 97, 
 103 
 Subodhamañjart 38 
-Suddha Vidya 206, 213, 222 Sukäli 110 
+Suddha Vidya 206, 213, 222 Sukāli 110 
 Śūlābjabheda 185 
 SUMATINATHA 45, 46, 115 Sură 138 
 Sutraklpti 180 
 Svabodhamañjarīmātṛkā 38(fn.) Svacchandatantra (SV.T) 67, 75, 123, 126, 130, 131, 132, 133, 134, 135, 137, 144, 162, 220, 231, 252 Svapna-sambandhi 
 karma 179 
 Samaya- 
-Svasvabhävadipaņa 180 Svasvarûpapraveśa 185 
+Svasvabhāvadipaņa 180 Svasvarûpapraveśa 185 
 Svatantra Nyasa 123 
 Svayambhu 204, 225 
 Svayambhuva 118, 121 
@@ -773,7 +773,7 @@ Sthandila 192, 227
 Sthandilagata Pară Nitya Arcă 
 183 
 Sthandilapūjāprakāśana 183 Sthandilayaga 183, 233, 237 Sthiti 194 
-Sthitikäli 110 
+Sthitikāli 110 
 Stotra 60, 61 
 -KĀRA 39, 115 
 Stuti 11 
@@ -782,7 +782,7 @@ Tantra 2, 8, 65, 127, 249, 250-
 51 
 -paddhati 8 
 -prakriya 6, 34, 35, 40, 43, 54, 251 
-Tanträsadbhava 52 
+Tantrāsadbhava 52 
 Tantrasara (TS) 42, 61, 62, 
 84, 128, 246, 247. 
 Tantraloka Throughout Tantralokaviveka Throughout Tantrarāja Bhaṭṭāraka 112 Tantravaloka 4 
@@ -798,7 +798,7 @@ INTRODUCTION TO THE TANTRĀLOKA
 TAPASVIRAJA 129 
 Tarka 65 
 Tarkatattva 175 
-Tärkika 250 
+Tārkika 250 
 Tarpana 127, 179 
 T.S. See Tantrasara 
 Tattva 138, 176, 188, 213, 247 
@@ -809,24 +809,24 @@ Tattvabhedavidhi 188
 Tattvakramanirupaṇa 176 
 Tattvaśuddhi 180 
 Tattvavidhi 49, 177 
-Tattvädhvan 176 
+Tattvādhvan 176 
 --scriptures 24 
 -sources 2 
 -system 1, 3, 40, 45, 56, 250, 
 251 
 -Śāstras 47 
 Trikasarasastra 1 
-Trikaśästra 1 
+Trikaśāstra 1 
 Trika sutra 56, 62 
 Trikakulakramayogimantraka - 
 dambakanirupaṇa 185 
-Trikärthin 225 
+Trikārthin 225 
 Trikasadbhava 240 
 Trikaśāsana 124 Trikatantrasāra 62 Tripura system 47 Trişikā 62 
-Trisikäsästra 54 
+Trisikāsāstra 54 
 Trisirobhairava 99, 112, 119, 
 240 
-Tulädikṣä See Dikṣā 
+Tulādikṣā See Dikṣā 
 Tulavidhi 181, 190 
 Tattva Yojana 81, 133, 176, 187 Tulaśuddhidikṣakathana 181 
 Tejasvin 133 (also see Rudra) Turyātīta 201, 219 
@@ -835,7 +835,7 @@ Tirobhāva 194, 225
 Tuţi 209, 219 
 Tūra 192 
 -vyapagama 178 
-Tyäga 237 
+Tyāga 237 
 Tirthayatanacarcă 190, 191 
 Uccara 187 
 Trailokyakṣobhini 139 
@@ -883,7 +883,7 @@ Vidyapadma 213
 Upaya-upeya-bhava 119, 200 Vidyatraya 54 
 Urmimahāśāstrasiddhasantana- 
 rūpaka 120 
-Utkräntyanupayogitva 178 
+Utkrāntyanupayogitva 178 
 UTPALA 23, 32, 34, 43 
 UTPALARATHAII 89, 90, 91 Uttana 70 
 Vacaspatyam 6, 7 
@@ -892,7 +892,7 @@ Vijñānabheda 174
 Vijñānabhitprakarana 174 
 571 
 Vijñānasattābhedodgarapraka- 
-tanapatu Ahnika 174 Vijñänäkala 214 
+tanapatu Ahnika 174 Vijñānākala 214 
 Vikalpa 65 
 Vikalpasaṁskāra 175 
 Vikāsa 80 
@@ -900,16 +900,16 @@ Vikşipta Dikṣā See Dikṣā
 VIMALĀ 30, 32 
 Vāda 66 
 Vahnikarma 51 
-Vahnikärya 179 
+Vahnikārya 179 
 Vairiñca Brahmavādins 249 
 Vindu 202 
 Vaiseṣika 139 
-Vipatpratîkära 139 
+Vipatpratîkāra 139 
 Vaisnavas 33, 34, 38, 217, 218, Viryacarcana 185 
 250 
 Vaiṣṇavism 53 
 Vakyapadiya 41 
-Vämaka 250 
+Vāmaka 250 
 VALLABHA 28, 32, 88 
 Vāmā 133 
 VAMANA 37, 38 
@@ -927,7 +927,7 @@ Vivarana 103, 106
 VAMANAGUPTA 25, 32, 37, 38 Viveka 81 (fn.), 87, 95, 101, 102, 
 VAMANAKA 36, 37, 38, 54 
 Veda 249 
-Vedha Dikṣä See Dikṣā 
+Vedha Dikṣā See Dikṣā 
 Vedic 2 
 Vedantic 250 
 Vedyată 249 
@@ -945,7 +945,7 @@ Vyomadiśabda 143
 YOGESVARIDATTA 23, 27, 28, 32 
 Yogin 49, 101, 218, 236, 238, 
 Vyomadişaṭka 143 
-Vyomeśasvastikädinirupaṇa 185 
+Vyomeśasvastikādinirupaṇa 185 
 Yaganirupaṇa 178 
 YASASKARA 28, 88 
 239 

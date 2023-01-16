@@ -670,7 +670,7 @@ III, p. 1087
 X, p. 305 
 VI, p. 3031 
 2 
-XI, p. 172 (29thÄh.) VII, p. 3462 
+XI, p. 172 (29thāh.) VII, p. 3462 
 1 
 I, p. 2 
 II, p. 2 
@@ -838,7 +838,7 @@ IV, pp. 1370-1371
 113 
 2 
 3 
-VII, p. 18(11th Äh.) V, p. 2110 
+VII, p. 18(11th āh.) V, p. 2110 
 3 
 1 
 4 
@@ -1006,7 +1006,7 @@ VII, p. 3150
 1 
 5 
 XI, pp. 28-29 
-(29thÄh.) 
+(29thāh.) 
 VII, pp. 3318-3319 
 582 
 INTRODUCTION TO THE TANTRALOKA 
@@ -1668,7 +1668,7 @@ III, p. 461
 III, p. 1077 
 2 
 2 
-VII, p. 104(12thÄh.) V, p. 2196 
+VII, p. 104(12thāh.) V, p. 2196 
 3 
 3 
 XI, p. 63 
@@ -1706,7 +1706,7 @@ XII, p. 343
 VII, p. 3633 
 4 
 3 
-XII, p. 41 (11thÄh.) 
+XII, p. 41 (11thāh.) 
 V, p. 2133 
 209 
 2 
@@ -2005,7 +2005,7 @@ IX, p. 92
 VI, p. 2532 
 2 
 9 
-VII, p. 68 (11thÄh.) V, p. 2160 
+VII, p. 68 (11thāh.) V, p. 2160 
 3 
 6 
 VI, pp. 103-104 

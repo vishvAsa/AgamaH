@@ -109,7 +109,7 @@ Sambhunatha
 II/34 
 Somadeva 
 Somānanda 
-(Sumatyanteniväsinaḥ, 
+(Sumatyantenivāsinaḥ, 
 1.213) 
 I/235-236 
 II/235-236 

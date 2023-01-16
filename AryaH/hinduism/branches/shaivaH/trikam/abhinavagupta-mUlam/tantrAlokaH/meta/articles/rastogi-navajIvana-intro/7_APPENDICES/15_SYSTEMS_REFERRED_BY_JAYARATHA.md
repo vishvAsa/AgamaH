@@ -10,7 +10,7 @@ Volume Page (MLBD edition)
 Abheda/-daśā 
 (Abhedākhyāti) 
 Adhara (Adho)-darśana/- 
-śāsana/-śästra 
+śāsana/-śāstra 
 Adhyatma/Adhyatmika 
 Advaita/Advaya/-vāda/-vādin 
 agama 
@@ -52,12 +52,12 @@ Anya
 III/127; V/114; VI/6, 86, 220; 
 III/743; IV/1464, 1640, 1720, 1854; 
 APPENDIX-15 
-śästra 
+śāstra 
 Arhata 
-Arvägdarsin Asamvedyabuddhivāda Asmad-darśana 
+Arvāgdarsin Asamvedyabuddhivāda Asmad-darśana 
 mata 
 pakşa 
-śästra 
+śāstra 
 (Asmindarśana) 
 (Atmiyaśāstra) 
 (Svadarśana) 
@@ -65,9 +65,9 @@ pakşa
 (Svaśāstra) 
 (Svasiddhanta) 
 Asmindarśane 
-Astika-darśana (Astikyavāsanā) Atmadṛṣṭi Atmiyaśästra 
+Astika-darśana (Astikyavāsanā) Atmadṛṣṭi Atmiyaśāstra 
 VII/22; XI/33; XI/32 (29th Ah.) III/43; XI/70 
-IV/131; XII/370, 371 1/4 (2nd Ah.); VI/118, 123 See under Säṁkhya 
+IV/131; XII/370, 371 1/4 (2nd Ah.); VI/118, 123 See under Sāṁkhya 
 III/31, 44; V/177; VI/29, 55-56, 146; VII/7, 98, 124; VIII/71, 207; IX/210, 256; X/133; XI/4, 72 (29th Ah.); XII/341 VII/52 
 VII/50, 54 
 III/59; X/118, 164, 190, 210, 213, 245, 267 
@@ -98,18 +98,18 @@ III/632; V/2202
 III/1107-1108 
 II/69 
 343 
-I/236; VIII/207; XI/68 (29th Äh.); XII/371 
+I/236; VIII/207; XI/68 (29th āh.); XII/371 
 II/236; V/2407; VII/3358, VIII/3661 
-Ati-märga 
+Ati-mārga 
 naya 
 III/195 
-Ayätikramavid 
+Ayātikramavid 
 I/236 
 Ayurvedavid 
 IX/39 
 Bahya 
 III/9 
-Bähyärthavadin 
+Bāhyārthavadin 
 II/32 
 Bauddha 
 III/811 
@@ -171,7 +171,7 @@ V/2382, 2384
 VI/2982 
 VI/3030 
 V/1940 
-Bhāvasvabhävädhikadikkälä- 
+Bhāvasvabhāvādhikadikkālā- 
 pahnavavādin 
 Bhaṭṭa 
 Bhedabheda/-vada/-daśā 
@@ -180,7 +180,7 @@ X/138
 (Bhedadvaitavadin) 
 VI/50 
 IX/97 
-See under Mimämsä 
+See under Mimāmsā 
 I/36, 45, 242, 248; II/199; IV/ 
 37; VI/225; VII/83; VIII/205; 
 VI/2537 
@@ -191,9 +191,9 @@ XII/428
 VIII/3718 
 Bheda-vāda 
 - 
-vädin 
+vādin 
 85 
-(Dvaita/-śästra) 
+(Dvaita/-śāstra) 
 I/244; III/112 
 I/254; VI/112 
 IV/141, VII/70; VIII/65, 71, 75, 
@@ -209,7 +209,7 @@ I/26
 II/26 
 Bhedeśvara/-vāda 
 vādin 
-Brahmav ädin 
+Brahmav ādin 
 Caryakrama 
 III/81 
 III/697 
@@ -225,18 +225,18 @@ II/447, 449, 451, 456, 457, 568; III/1046
 INTRODUCTION TO THE TANTRĀLOKA 
 Cārvāka 
 Dakşa 
-Dakṣina-śästra 
+Dakṣina-śāstra 
 Devitantra 
 Dvaitadvaya 
 Dvaita/-śăstra 
 Dvaitin 
 Dvaya 
-Ekapramätṛsatatvava- 
+Ekapramātṛsatatvava- 
 stuvāda 
 Gunagunidvaitavadin Gunatattvavadin 
 Guru/-sastra/-śāsana 
 agama 
-ämnāya 
+āmnāya 
 antaramata 
 paramparā 
 vākya 
@@ -275,22 +275,22 @@ III/634
 Isvarādvaitavāda 
 XII/429 
 VIII/3719 
-Iśvarādvayavāda Jaminiväkya Jñätrabhāvavādin 
+Iśvarādvayavāda Jaminivākya Jñātrabhāvavādin 
 See under Mimāṁsā 
 I/95 
 1/109, 111 
 II/109, 111 
 II/95 
-Hetuśästra 
+Hetuśāstra 
 Jñātṛ-jñeуābhāvavādin 
 1/95 
-Jyotiḥ-śästra 
+Jyotiḥ-śāstra 
 Kāṇāda 
 IV/112; XI/23 I/194; VI/233, 240 
 II/95 
 III/1200; VII/3129 
 II/194; IV/1867, 1876 
-ädidarśana 
+ādidarśana 
 1/195 
 adidṛṣṭi 
 VI/67 
@@ -299,15 +299,15 @@ VIII/43, 206
 II/195 
 IV/1701 
 V/2243, 2406 
-Käpälika 
+Kāpālika 
 V/34 
 IV/1384 
 Kapila 
-See under Säṁkhya 
+See under Sāṁkhya 
 Kāpila 
 APPENDIX-15 
 Karmavādin 
-Käruka 
+Kāruka 
 Kaula 
 Kaulika 
 See under Samkhya 
@@ -316,7 +316,7 @@ VIII/11
 1/48, 49; III/27, 278, 288; VIII/ 181, 182, 184 
 XI/3 (29th Āh.), 113 
 Kaumārilamata 
-See under Mimämsä 
+See under Mimāmsā 
 Kheṭapāla 
 Krama 
 naya 
@@ -327,7 +327,7 @@ See under Siddhanta
 II/235; III/189, 190; VII/106 (12th Ah.) 
 III/157, 189 
 See under Bauddha 
-1/46, 49; III/56, 286, 288; VIII/ 181, 182, 184; X/336; XI/25; XI/3, 4, 92 (29th Äh.) 1/24; XII/333 
+1/46, 49; III/56, 286, 288; VIII/ 181, 182, 184; X/336; XI/25; XI/3, 4, 92 (29th āh.) 1/24; XII/333 
 V/2211 
 II/70 
 II/48, 49; III/643, 894, 904; V/2381, 2382, 2384 
@@ -343,7 +343,7 @@ INTRODUCTION TO THE TANTRĀLOKA
 prakriyā 
 Loka/Laukika 
 Madhyamika 
-Mahämärga 
+Mahāmārga 
 Mahanaya 
 Mahayogin 
 Mata 
@@ -363,7 +363,7 @@ Mausula
 I/70 
 Māyiyaśāstra 
 III/30 
-Mimämsä 
+Mimāmsā 
 V/114 
 (Bhāṭṭa) 
 I/167 
@@ -404,7 +404,7 @@ III/650
 II/13, 33, 44; III/262; VI/197; VII/54; VII/3 (11th Ah.); VIII/28, 
 II/365, 385, 396; IV/1731; V/1938, 2095, 2228, 2406 
 - 
-- (Tärkika) Pāñcara-tra/-trika 
+- (Tārkika) Pāñcara-tra/-trika 
 Paradarśana 
 Parādvayadarśana 
 206 
@@ -417,7 +417,7 @@ III/1108
 III/105 
 III/721 
 Paraprakāśavāda 
-ana/-śästra 
+ana/-śāstra 
 Pasupata 
 VII/181 
 V/2065 
@@ -427,14 +427,14 @@ See under Śiva-śāsana
 APPENDIX-15 
 349 
 Pātañjala 
-Pati-śāsana/-śästra Picuvaktra Pitharapakapakṣa Prabhakara 
+Pati-śāsana/-śāstra Picuvaktra Pitharapakapakṣa Prabhakara 
 Pracya 
 Purāņa/-jña 
 Rahasya-prakriya 
 śāstra 
 śāstravid 
 See under Yoga Sec under Śiva-śāsana XI/59; XI/89 (29th Ah.) VI/243 
-See under Mimämsä IV/78; X/365; XII/184 III/43; V/61; VIII/174 II/94, 96 
+See under Mimāmsā IV/78; X/365; XII/184 III/43; V/61; VIII/174 II/94, 96 
 IV/160; XII/252, 364 
 III/295 
 VII/3165, 3379 
@@ -448,8 +448,8 @@ Sabdabrahmavid
 Şadardha 
 Śaiva 
 agama 
-guruśästra 
-Säkta 
+guruśāstra 
+Sākta 
 Samkhya 
 (Asamvedyabuddhivada) 
 (Kapila) 
@@ -459,7 +459,7 @@ Samvid-advayada-vaitavada
 Sankara Tantra 
 satkāryavādin 
 Saugatamata 
-See under Mimämsä 
+See under Mimāmsā 
 V/144 
 VIII/182 
 1/48; III/56, 278, 282; V/31; VIII/178, 181, 183, 184, 186, 190, 195, 205, 207, 212; X/224, 254, 287, 307; XII/365, 368, 372, 378, 379, 434 
@@ -469,7 +469,7 @@ I/68, 69, 70, 71; III/16, 23, 43; IV/17, 130; V/170, 175, 176; VI/ 146, 152, 192
 XII/370, 376 
 VIII/167 
 VI/25 
-VIII/172; IX/96 XI/12 (29th Ah.) See under Säṁkhya See under Bauddha 
+VIII/172; IX/96 XI/12 (29th Ah.) See under Sāṁkhya See under Bauddha 
 IV/1494 
 V/2382 
 II/48; III/672, 894, 898; IV/1381; V/2378, 2381, 2383, 2384, 2386, 2390, 2395, 2405, 2407, 2412; VI/ 2980, 3013, 3033; VIII/3655, 3658, 3662, 3668, 3669, 3724 
@@ -501,7 +501,7 @@ IV/1845
 III/911; V/2409; VI/2982 
 II/26, 27, 73; III/641, 642, 1121; IV/ 1384, 1500; V/2293; VI/3013; VIII/ 3662, 3687, 3723, 3724 
 II/73; IV/1636, 1701 
-śāsana/-śästra) 
+śāsana/-śāstra) 
 -(Parameśvaradvayavāda) 
 1/83 
 11/83 
@@ -511,7 +511,7 @@ II/70
 (Pati-śāsana/-śāstra) 
 1/150; III/283; VIII/189 
 II/150; III/899; V/2389 
-(Sivädvaita) 
+(Sivādvaita) 
 XII/433 
 VIII/3723 
 (Sivaśastropaniṣad) 
@@ -525,7 +525,7 @@ See under Sivaśāsana
 Śivasiddhanta 
 XI/108 
 VII/3214 
-Smärta-darśana 
+Smārta-darśana 
 Smrti 
 Śrauta 
 Śruti 
@@ -558,8 +558,8 @@ siddhanta
 Tantra 
 Tantra-prakriya 
 Tantrika 
-Tärkika 
-Trayabhävavadin Trika/-darśana 
+Tārkika 
+Trayabhāvavadin Trika/-darśana 
 sastra 
 Urdhva-śāsana/-śastra/-tantra 
 Ordhvaśāsanaga 
@@ -590,16 +590,16 @@ Vama/-ācāra/-marga/-srotas/-
 vaktra 
 Veda 
 - 
-vädin 
+vādin 
 See under Veda 
 See under Veda 
 III/25 
-See under Käṇāda III/30, 31, 36, 38, 39, 40, 43, 276; VIII/171, 172, 175, 185, 189, 190, 193, 195, 207, 212; X/307; XI/169; XI/52 (29th Āh.) VI/208; VII/52 (11th Ah.) 1/38, 39, 46, 49; III/56; VIII/ 181, 182, 212; XI/68, 102 (29thAh) 1/48, 49, III/16, 28, 29, 43, 56, 258. 265; IV/130. 201; V/31; VI/146; VIII/181, 190, 191; IX/ 250, 272, 279; X/53, 56; XII/261 VI/120 
+See under Kāṇāda III/30, 31, 36, 38, 39, 40, 43, 276; VIII/171, 172, 175, 185, 189, 190, 193, 195, 207, 212; X/307; XI/169; XI/52 (29th Āh.) VI/208; VII/52 (11th Ah.) 1/38, 39, 46, 49; III/56; VIII/ 181, 182, 212; XI/68, 102 (29thAh) 1/48, 49, III/16, 28, 29, 43, 56, 258. 265; IV/130. 201; V/31; VI/146; VIII/181, 190, 191; IX/ 250, 272, 279; X/53, 56; XII/261 VI/120 
 III/641 
 III/646, 647, 652, 654, 655, 656, 659, 892; V/2371, 2372, 2375, 2385, 2389, 2390, 2393, 2395, 2407, 2422,; VI/3033; VII/3275, 3442 
 IV/1842; V/2144 
 II/38, 39, 46, 49; III/672; V/2381, 2382, 2412; VII/3358, 3392 II/48, 49; III,632, 644, 645, 659, 672, 874, 881, 1218, 1289; IV/1381, 1780; V/2381 2390, 2391; VI/2693, 2712, 2719, 2779, 2782; VII/3551 IV/1754 
-väkya 
+vākya 
 vidya 
 (Śruti) 
 (Vaidika) 
@@ -624,15 +624,15 @@ See under Bauddha
 354 
 INTRODUCTION TO THE TANTRĀLOKA 
 vāda 
-vädin 
+vādin 
 Vikalpãpekṣanirvikalpapı - 
 mānyavādin 
 Vinaya 
 Vrata 
 Yamala 
-Yoga/-śästra 
+Yoga/-śāstra 
 (Pātañjala) 
-- (Yogänga) 
+- (Yogānga) 
 Yogin 
 - (Ayogin) 
 (Mahayogin) 

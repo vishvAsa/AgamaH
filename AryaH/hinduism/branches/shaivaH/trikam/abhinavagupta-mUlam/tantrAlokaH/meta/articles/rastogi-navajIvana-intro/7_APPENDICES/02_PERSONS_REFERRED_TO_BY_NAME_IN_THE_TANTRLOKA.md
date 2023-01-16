@@ -52,7 +52,7 @@ Bālamitra
 37.66 
 Bali 
 36.4 
-Bhairava-nätha 
+Bhairava-nātha 
 36.1 
 Bhairavi 
 36.1 
@@ -117,13 +117,13 @@ Gajendra
 29.41 
 Ghora 
 28.391 
-Guḍikä 
+Guḍikā 
 29.33 
 Guru 
 36.2 
 Halhalaka 
 28.391 
-Häṭakeśāna 
+Hāṭakeśāna 
 30.101 
 Huluhulu 
 28.391 
@@ -143,7 +143,7 @@ Kāmamangalā
 29.31 
 Kapila 
 22.6 
-Kärmuka 
+Kārmuka 
 29.66 
 Karna 
 37.65 
@@ -172,7 +172,7 @@ Lakṣmaṇa
 36.10 
 Lakṣmaṇagupta 
 1.11; 37.61 
-Läkula 
+Lākula 
 36.1 
 Lakuleśvara 
 37.14 
@@ -190,13 +190,13 @@ Mangalā
 29.30 
 Manoratha 
 37.64 
-Mätanga 
+Mātanga 
 28.391; 29.66 
-Mätsyika 
+Mātsyika 
 29.66 
 Mesa 
 29.31 
-Mina/-nätha 
+Mina/-nātha 
 4.267; 26.71 
 Moṭaka 
 13.344 
@@ -204,7 +204,7 @@ Mukha
 37.62 
 Nakuleśa 
 15.604 
-Närada 
+Nārada 
 13.347 
 Narasimhagupta 
 37.54 
@@ -214,7 +214,7 @@ Padmagupta
 37.67 
 Pañcamukhagupta 
 1.1 
-Pätälädhipa 
+Pātālādhipa 
 30.101 
 Pravarasena 
 37.47 
@@ -230,7 +230,7 @@ Sadyojyoti
 9.262; 16.210 
 267 
 268 
-Sahavijjä 
+Sahavijjā 
 Sakra 
 Sambhunatha 
 Samvarta Śāṇḍilya Sārada 
@@ -247,7 +247,7 @@ Sauri
 37.65 
 Seṣamahāmuni 
 13.146 
-Silläi 
+Sillāi 
 29.34 
 Simha 
 36.5 
@@ -257,10 +257,10 @@ Soma
 37.61 
 Somânanda/-daiśika 
 Somānanda-putraka 
-Śrīkanthanätha 
+Śrīkanthanātha 
 Śrīnātha 
 Sumati 
-Sumatyanteniväsin 
+Sumatyantenivāsin 
 Svacchanda 
 Svatantresa 
 Tapana 
@@ -285,7 +285,7 @@ Vaktasti
 29.30 
 Valkala 
 29.41 
-Vämana 
+Vāmana 
 36.4 
 Vamanaka 
 37.62 
@@ -296,11 +296,11 @@ Varadeva
 29.33 
 Varahagupta 
 37.53 
-Väsukinaga 
+Vāsukinaga 
 36.5 
 Vatsalikā 
 Vibhiṣaṇa 
-Vicitranätha 
+Vicitranātha 
 Vidyaguru 
 37.73, 82 
 36.6 
@@ -312,7 +312,7 @@ Vikosi
 29.66 
 Vimala 
 29.30 
-Vimalakalä 
+Vimalakalā 
 1.1 
 Vinatābhū 
 36.5 

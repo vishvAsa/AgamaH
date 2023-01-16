@@ -11,11 +11,11 @@ Commentary
 
 Dhvanyaloka-locana 
 
-Hindu Tantric and Säkta Literature 
+Hindu Tantric and Sākta Literature 
 
 Isvara-pratyabhijñā-kārikā 
 
-Isvara-pratyabhijñā-kärikä-vivṛti Iśvara-pratyābhijñā-vimarśinī 
+Isvara-pratyabhijñā-kārikā-vivṛti Iśvara-pratyābhijñā-vimarśinī 
 
 Bhaskari on Isvara-pratyabhijña-vimarśinī 
 
@@ -37,7 +37,7 @@ Mahanaya-prakāśa (Trivendrum Sanskrit Series)
 
 Manuscript/s 
 
-Mälini-vijayottara-tantra 
+Mālini-vijayottara-tantra 
 
 Malini-vijaya-vārtika 
 
@@ -55,11 +55,11 @@ English
 
 Para-trimśikā or Para-triśikā 
 
-Para-trimśikä-vivarana 
+Para-trimśikā-vivarana 
 
-Spanda-kärikä 
+Spanda-kārikā 
 
-Śärada-tilaka (-tantra) 
+Śārada-tilaka (-tantra) 
 
 Svaccanda-tantra 
 
@@ -71,7 +71,7 @@ T.A.V.
 
 T.S. 
 
-Tă.Sä. 
+Tă.Sā. 
 
 T.V.D. 
 
@@ -87,12 +87,12 @@ Tantraloka
 
 Tantraloka-viveka 
 
-Tantra-sära 
+Tantra-sāra 
 
 Tantrika Sahitya 
 
 Tantra-vaṭa-dhānikā 
 
-Upodghata to the Luptagamasaṁgraha Vämakeśvari-mata-vivarana 
+Upodghata to the Luptagamasaṁgraha Vāmakeśvari-mata-vivarana 
 
 XXV 

@@ -3,61 +3,61 @@ title = "1 EXPLORING THE TANTRALOKA"
 
 +++
 
-Strange as it may appear, the Tantraloka happens to be the only major 'original' work of Abhinava while his all other important works[^1] come to us in the form of a commentary on some earlier valuable text notwithstanding his own description of the Tan- trāloka as a gloss, as we shall see in the sequel. 
+Strange as it may appear, the Tantraloka happens to be the only major 'original' work of Abhinava while his all other important works[^1-1] come to us in the form of a commentary on some earlier valuable text notwithstanding his own description of the Tantrāloka as a gloss, as we shall see in the sequel. 
 
-(i) Traditional Approach to the Tantraloka 
+## 1 Traditional Approach to the Tantraloka 
 
-A peep into and a look around the Tantraloka off- ers many illuminating insights. Towards twelfth cen-tury Śivananda, the author of the R̥juvimarśinī, refers to it as the Trika-śästra[^2] or Trika-saraśāstra[^3] and the verses cited are traceable to the published edition of the Tantraloka. It, therefore, appears that by that time it came to be regarded as the most representative text of Trika system. Kṣemarāja, the illustrious pupil of Abhinavagupta, talks of two characteristics of the text. One, it was composed in the state of Absolutic trance[^4]
+A peep into and a look around the Tantraloka off- ers many illuminating insights. Towards twelfth century Śivananda, the author of the R̥juvimarśinī, refers to it as the Trika-śāstra[^1-2] or Trika-saraśāstra[^1-3] and the verses cited are traceable to the published edition of the Tantraloka. It, therefore, appears that by that time it came to be regarded as the most representative text of Trika system. Kṣemarāja, the illustrious pupil of Abhinavagupta, talks of two characteristics of the text. One, it was composed in the state of Absolutic trance[^1-4]
 
-[^1]: Abhinava's other major works include A.Bh. (Comm. on the N.S.), I.P.V (Comm. on I.P.K.), I.P.V.V. (Comm. on the I.P.K.V.) and Locana (Comm. on the Dh. L.). 
+[^1-1]: Abhinava's other major works include A.Bh. (Comm. on the N.S.), I.P.V (Comm. on I.P.K.), I.P.V.V. (Comm. on the I.P.K.V.) and Locana (Comm. on the Dh. L.). 
 
-[^2]: तदुक्तं श्रीत्रिकशास्त्रे | NST with R̥juvimarśinī and Artharatnāvali, ed. B.V. Dvivedi, Varanasi, p. 19. The verses quoted are traceable to T.A. 3.94-95. 
+[^1-2]: तदुक्तं श्रीत्रिकशास्त्रे | NST with R̥juvimarśinī and Artharatnāvali, ed. B.V. Dvivedi, Varanasi, p. 19. The verses quoted are traceable to T.A. 3.94-95. 
 
-[^3]: तदुकं श्रीत्रिकसारशास्त्रे, pp. 138-139. The verses are traceable to T.A. 15.285-287. 
+[^1-3]: तदुकं श्रीत्रिकसारशास्त्रे, pp. 138-139. The verses are traceable to T.A. 15.285-287. 
 
-[^4]: परभैरव-स्फार-मयैर् अस्मद्-गुरुभिर् अपि तन्त्रालोके । S. T.U., I, pp. 39-40 
+[^1-4]: परभैरव-स्फार-मयैर् अस्मद्-गुरुभिर् अपि तन्त्रालोके । S. T.U., I, pp. 39-40 
 
-12 
+[[2]] 
 
 INTRODUCTION TO THE TANTRĀLOKA 
 
-and other, it is a key to the secrets of entire agamic literature. In the Tantrasāra, Abhinavagupta invariably describes the Tantraloka as a detailed treatise and asks the author to turn for detailed dis- cussion of the problem to the latter which incorpo- rates all the prescriptive and negative injunctions emanating not only from Vedic but from Saiva, Tan- tra and Trika sources also. The view has been con- sistently hammered again and again." According to the Tantrasāra, the Tantraloka was not only a reposi- tory of agamic lore but a critical text which minutely recorded even internal and mutual divergences. Thus the image of the Tantrāloka as a single, extra-com- prehensive and authoritative source book appears to have been projected by Abhinavagupta himself. The central theme of the Tantraloka, according to Abhi- navagupta in his Locana, however revolves round 
+and other, it is a key to the secrets of entire agamic literature.[^2-1] In the Tantrasāra, Abhinavagupta invariably describes the Tantraloka as a detailed treatise and asks the author to turn for detailed discussion of the problem to the latter which incorporates all the prescriptive and negative injunctions emanating not only from Vedic but from Saiva, Tantra and Trika sources also.[^2-2] The view has been consistently hammered again and again.[^2-3] According to the Tantrasāra, the Tantraloka was not only a repository of agamic lore but a critical text which minutely recorded even internal and mutual divergences.[^2-4] Thus the image of the Tantrāloka as a single, extra-comprehensive and authoritative source book appears to have been projected by Abhinavagupta himself. The central theme of the Tantraloka, according to Abhinavagupta in his Locana[^2-5], however revolves round the transcendental Absolutic reality called Brahman (i.e. Anuttara).
 
-1. यदुक्तमस्मद्गुरुभिः अशेषागमोपनिषदालोके तन्त्रालोके । 
+[^2-1]: यदुक्तमस्मद्गुरुभिः अशेषागमोपनिषद्-आलोके तन्त्रालोके । Ibid., III, p. 268 
 
-Ibid., III, p. 268 
+[^2-2]: तस्मात् वैदिकात् प्रभृति पारमेश्वर-सिद्धान्त-तन्त्र-कुलोच्छुष्मादि-शास्त्रोक्तो ऽपि यो नियमो - विधिः वा निषेधो वा - तथैव च +उक्तं श्रीपूर्वादौ, वितत्य तन्त्रालोकात् अन्वेष्यम् । 
 
-2. तस्मात् वैदिकात् प्रभृति पारमेश्वरसिद्धान्ततन्त्रकुलोच्छुष्मादिशास्त्रोक्तो- ऽपि यो नियमों विधिः वा निषेधो वा तथैव च उक्तं श्रीपूर्वादी वितत्य तन्त्रालोकात् अन्वेष्यम् । 
+[^2-3]: 
 
-3. वितत्य चैतत् निर्णीतं तन्त्रालोके । 
+    वितत्य चैतत् निर्णीतं तन्त्रालोके । T.S., p. 32 Ibid, p. 97
 
-4. 
+    एतच्च प्रपञ्चितं प्रथमत एव,  
+    तथा नवधा मुख्यतयैश्वरः शक्तिपात इति  
+    सुविवेचितं श्रीतन्त्रालोकादौ । I.P.V.V., III, p. 279 
 
-** 
+    एतच्च विस्तरतस् तत्प्रधानेषु तन्त्रालोक-सारादिषु मया निर्णीतम् ।  
+    I.P.V(Bh.), II, p. 242
 
-T.S., p. 32 Ibid, p. 97 
+    एतद् एव च वितत्य श्रीतन्त्राालोके प्रतिपादितम् ।   
+    Janma-marana-vicara, Bhattavāmadeva, KSS, 1918, p.
 
-एतच्च प्रपञ्चितं प्रथमत एव, तथा नवधा मुख्यतयैश्वरः शक्तिपातः इति सुविवेचितं श्रीतन्त्रालोकादौ । I.P.V.V., III, p. 279 
+[^2-4]:  अत्र च परस्परं भेद-कलनया अवान्तर-भेद-ज्ञान-कुतूहली तन्त्रालोकम् एव अवधारयेत् । J.M.V., p. 99 
 
-* ** 
+[^2-5]: 
 
-एतच्च विस्तरतस्तत्प्रधानेषु तन्त्रालोकसारादिषु मया निर्णीतम् । 
-
-एतदेव च वितत्य श्रीतंवालोके प्रतिपादितम् । 
-
-I.P.V(Bh.), II, p. 242 
-
-Janma-marana-vicara, Bhattavāmadeva, KSS, 1918, p. 19 अत्र च परस्परं भेदकलनया अवान्तरभेदज्ञानकुतूहली तन्त्रालोकमेव अवधारयेत् । 
-
-J.M.V., p. 99 5. ये अप्यविभक्तं स्फोटं वाक्यं तदर्थरूपमाहुस्तैरप्यविद्यापदपतितैः सर्वेयमनु- सरणीया प्रक्रिया । तदुत्तीर्णत्वे तु सर्वं परमेश्वराद्वयं ब्रह्मेत्यस्माच्छास्त्रानुसारेण विदितं तन्त्रालोकग्रन्थं विचारयतेत्यास्ताम् । 
-
-Dhvanyaloka-locana, K.M., IV, N.S., 1928, p. 19 
+    ये अप्य् अविभक्तं स्फोटं वाक्यं तद्-अर्थ-रूपम् आहुस्  
+    तैर् अप्य् अविद्या-पद-पतितैः सर्वेयम् अनुसरणीया प्रक्रिया ।  
+    तद्-उत्तीर्णत्वे तु  
+    सर्वं परमेश्वराद् वयं ब्रह्मेत्य्  
+    अस्माच् छास्त्रानुसारेण विदितं तन्त्रालोकग्रन्थं विचारयतेत्य् आस्ताम् । 
+    
+    Dhvanyaloka-locana, K.M., IV, N.S., 1928, p. 19 
 
 EXPLORING THE TANTRĀLOKA 
 
-3 
+[[3]] 
 
-the transcendental Absolutic reality called Brahman (i.e. Anuttara). The prime concern of the Tantraloka was to explain, to unfold and to explore. It therefore assumed the form of a gloss, or a commentary and was therefore termed as the Vartika' (gloss), Śloka- vārtika (versified gloss) and Saḍardhaślokavārtika (versified gloss on Trika system). Possibly in desig- nating the Tantraloka as Vārtika Abhinavagupta was inspired by Katyayana's example in whose case Vārtika is defined as "an explanatory or supplemen- tary rule which explains the meaning of that which is said, of that which is left unsaid, and of that which is imperfectly said." This amply applies to the Tantra- loka as we shall have occasion to see later. Elsewhere in a very significant remark Abhinavagupta describes the Tantraloka as a mix of all the varieties (e.g. brief, regular and large) of glossarial work based on Aga- mas. Thus it is a Vārtika, a Bhāṣya and a Vṛtti all at 
+The prime concern of the Tantraloka was to explain, to unfold and to explore. It therefore assumed the form of a gloss, or a commentary and was therefore termed as the Vartika' (gloss), Śloka-vārtika (versified gloss) and Saḍardhaślokavārtika (versified gloss on Trika system). Possibly in desig- nating the Tantraloka as Vārtika Abhinavagupta was inspired by Katyayana's example in whose case Vārtika is defined as "an explanatory or supplemen- tary rule which explains the meaning of that which is said, of that which is left unsaid, and of that which is imperfectly said." This amply applies to the Tantra- loka as we shall have occasion to see later. Elsewhere in a very significant remark Abhinavagupta describes the Tantraloka as a mix of all the varieties (e.g. brief, regular and large) of glossarial work based on Aga- mas. Thus it is a Vārtika, a Bhāṣya and a Vṛtti all at 
 
 I.P.V.V., III, p. 259 
 
@@ -77,7 +77,7 @@ The Student's Sanskrit-English Dictionary, V.S. Apte, Delhi, 1959, p. 503
 
 INTRODUCTION TO THE TANTRĀLOKA 
 
-a time.1 It is perhaps the reason why Abhinava's in- terpretations-cum-explanations on specific issues in the Tantraloka are recalled as testimony. The Tan- träloka was also known as Tantravaloka. 
+a time.1 It is perhaps the reason why Abhinava's in- terpretations-cum-explanations on specific issues in the Tantraloka are recalled as testimony. The Tan- trāloka was also known as Tantravaloka. 
 
 (ii) Four motives behind the composition 
 
@@ -219,7 +219,7 @@ Abhinava refers to the P.T.V. as Anuttaraprakriyā.“ It will simply amount to 
 
 Vacaspatyam, Vol. V, p. 4225 2. " ग्रन्थार्थबोधकग्रन्थः" इति हेमचंद्रः । 
 
-Sabdakalpadruma, Part III, p. 40 3. Hemacandra's observations as per footnotes above assume significance because Hemacandra was quite close to Abhinava chronologically a gap of a century obtained between the two- and was in know of Abhinava's works as his treatment of Rasa in the Kävyänusśäsana betrays unmistakeable impact of Abhinava's Abhinavabharati. 
+Sabdakalpadruma, Part III, p. 40 3. Hemacandra's observations as per footnotes above assume significance because Hemacandra was quite close to Abhinava chronologically a gap of a century obtained between the two- and was in know of Abhinava's works as his treatment of Rasa in the Kāvyānusśāsana betrays unmistakeable impact of Abhinava's Abhinavabharati. 
 
 4. अनुत्तरप्रक्रियायां वैतत्येन प्रदर्शितम् । 
 
@@ -283,7 +283,7 @@ cher of Somasambhu, the author of the Karmakāṇḍa- kramāvali. Dharmasiva, a
 
 The third intention of Abhinava was to project the Tantraloka as a full-fledged Sastra (scripture) or Sās- ana.' As such it turned out to be a Prakriya Sastra 
 
-1. For details see Upodghäta, p. 21. Also see 'History of Śaiva Cult in Northern India', B.S. Pathak, Delhi, 1980, pp. 46-50. 
+1. For details see Upodghāta, p. 21. Also see 'History of Śaiva Cult in Northern India', B.S. Pathak, Delhi, 1980, pp. 46-50. 
 
 2. एते च धर्मंशिवाचार्येण स्वपद्धतौ “एतेषां लक्षणं वच्मो गुरुपरम्परागतम्” इत्युपक्रम्य इत्थं व्याख्याताः । 
 
@@ -405,7 +405,7 @@ The four varieties of redemptive knowledge, as discus- sed in the Tantraloka, ar
 
 3 
 
-grace (Saktipäta) that alone constitutes the driving force for the aspirant's movements and it is why the problems of bondage and emancipation assume a kind of primacy over other issues. Abhinava goes on positing that the basic purpose of the Tantraloka is inculcation of the 'intuitive awareness" (Pratibha - samvitti) which once thoroughly inculcated trans- forms the discursive perspective of mankind into the unitive one. Abhinava (and his commentator Jaya- ratha also) refutes the charge of being arrogant in self-eulogy, as to him it is just a statement of facts." 
+grace (Saktipāta) that alone constitutes the driving force for the aspirant's movements and it is why the problems of bondage and emancipation assume a kind of primacy over other issues. Abhinava goes on positing that the basic purpose of the Tantraloka is inculcation of the 'intuitive awareness" (Pratibha - samvitti) which once thoroughly inculcated trans- forms the discursive perspective of mankind into the unitive one. Abhinava (and his commentator Jaya- ratha also) refutes the charge of being arrogant in self-eulogy, as to him it is just a statement of facts." 
 
 1. इति ज्ञानचतुष्कं यत्सिद्धिमुक्तिमहोदयम् । 
 
@@ -485,7 +485,7 @@ Easy comprehension of the tantric wisdom was the third objective of Abhinava.' I
 
 (d) RESTORATION AND PRESERVATION OF THE TRADITION 
 
-A careful look into the Tantraloka brings out one more objective which is however treated by Abhinava in a low key. His three references, one (Sampradāyo- jjhitaih) in the beginning and two others (Vidam- bitäh and Bhraşte Viddhau") in the middle of the Tantraloka are quite conspicuous by their mention. 
+A careful look into the Tantraloka brings out one more objective which is however treated by Abhinava in a low key. His three references, one (Sampradāyo- jjhitaih) in the beginning and two others (Vidam- bitāh and Bhraşte Viddhau") in the middle of the Tantraloka are quite conspicuous by their mention. 
 
 1. संकलय्योच्यते सर्वमधुना सुखसंविदे । 
 

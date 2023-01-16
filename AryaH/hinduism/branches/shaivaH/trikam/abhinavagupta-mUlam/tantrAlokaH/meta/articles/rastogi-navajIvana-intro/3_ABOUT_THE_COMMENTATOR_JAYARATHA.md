@@ -279,7 +279,7 @@ Subhațadatta
 
 Stigüra 
 
-(Diksäguru) (Rajatantra) 
+(Diksāguru) (Rajatantra) 
 
 DIRECTIONS 
 
@@ -413,7 +413,7 @@ the immediate referant in the preceding verse is in dual number covering Jayarat
 
 T.A.V., I, p. 11 
 
-See for detailed discussion K.T., pp. 189-91 and also Upod- ghäta, p. 34. 
+See for detailed discussion K.T., pp. 189-91 and also Upod- ghāta, p. 34. 
 
 2. इत्येकतरपरिग्रहे यथास्वं गुरूपदेश एवं निबन्धनम्, यथोक्तमस्मत्परम- गुरुभिः "यो यस्य गुर्वादेशः तस्य मोचक इति" । 
 
@@ -481,7 +481,7 @@ ABOUT THE COMMENTATOR
 
 same zeal by the kings, as crowns over their heads.1 
 
-Jayaratha offers a very intimate insight into the matters of his personal teachers. While commenting upon the T.A. 13.3422-blessed is the disciple who gets a teacher perfect in wisdom-Jayaratha cites his own example. Jayaratha considers himself extremely fortunate in having attended on Kalyāṇa and Sankha- dhara who were teachers of perfect knowledge-Kal- yana in Saiva spiritualism of monistic-dualistic charac- ter and Sankhadhara in the secular disciplines of grammar, linguistics and logic. Incidentally our know- ledge is highly deficient in regard to the written con- tribution, if at all, made by his teachers. Jayaratha cites the views of his teacher only thrice in the whole of Viveka-once in connection with the interpretation of the term Mula in the Tantraloka, the second time while stating the reasons behind his opting for the Devyāyāmala's standpoint on Sikhäbija in preference to the Trisirobhairava's" and the third time while sub- 
+Jayaratha offers a very intimate insight into the matters of his personal teachers. While commenting upon the T.A. 13.3422-blessed is the disciple who gets a teacher perfect in wisdom-Jayaratha cites his own example. Jayaratha considers himself extremely fortunate in having attended on Kalyāṇa and Sankha- dhara who were teachers of perfect knowledge-Kal- yana in Saiva spiritualism of monistic-dualistic charac- ter and Sankhadhara in the secular disciplines of grammar, linguistics and logic. Incidentally our know- ledge is highly deficient in regard to the written con- tribution, if at all, made by his teachers. Jayaratha cites the views of his teacher only thrice in the whole of Viveka-once in connection with the interpretation of the term Mula in the Tantraloka, the second time while stating the reasons behind his opting for the Devyāyāmala's standpoint on Sikhābija in preference to the Trisirobhairava's" and the third time while sub- 
 
 1. मूर्व्युत्तंस इव क्ष्मापैः सर्वैर्थस्यानुशासनम् । 
 
@@ -941,7 +941,7 @@ Govindaraja, Bhanuka, Eraka, Ujjata, Udbhaṭṭa, the Stotrakāra alias Siddhan
 
 (1) Material drawn upon by Abhinava-Identi- 
 
-1. See for details K.T., Chapter Six, pp. 82-248; Abhi., Chap. 5, pp. 132-251, Chap. 7, pp. 545-549; Upodghata, Pūrvärdha. 
+1. See for details K.T., Chapter Six, pp. 82-248; Abhi., Chap. 5, pp. 132-251, Chap. 7, pp. 545-549; Upodghata, Pūrvārdha. 
 
 2. तस्मादस्मदुक्तमेव व्याख्यानं युक्तमित्यन्यदुपेक्ष्यम् । 
 
@@ -961,7 +961,7 @@ fication, structural information, citation, possible and relevant restoration, c
 
 (ii) Material drawn upon by Abhinava 
 
-We are afraid that in an attempt like the present 'Introduction' it is well nigh impossible to do away with overlapping altogether as emphases vary with angles, approaches and context. Towards supplying the source material Jayaratha's job is manifold. The first is identification of the text or source, if Abhi- nava makes an unassertive reference. The second in the same connection is to identify the exact por- tion of the source and to cite from it, if necessary, in case Abhinava names a source but withholds fur- ther information. For instance, the word Ädi in the T.A. 1.46, according to Jayaratha, stands for an agamic text belonging to the dualistic branch of Saivism called Cillacakreśvari-mata followed by an extract. Similarly the Ratnamālā in the Tantra- 
+We are afraid that in an attempt like the present 'Introduction' it is well nigh impossible to do away with overlapping altogether as emphases vary with angles, approaches and context. Towards supplying the source material Jayaratha's job is manifold. The first is identification of the text or source, if Abhi- nava makes an unassertive reference. The second in the same connection is to identify the exact por- tion of the source and to cite from it, if necessary, in case Abhinava names a source but withholds fur- ther information. For instance, the word ādi in the T.A. 1.46, according to Jayaratha, stands for an agamic text belonging to the dualistic branch of Saivism called Cillacakreśvari-mata followed by an extract. Similarly the Ratnamālā in the Tantra- 
 
 1. मतङ्गादौ कृतं श्रीमत्खेटपालादिदेशिकैः । 
 
@@ -1159,7 +1159,7 @@ Ibid., IX, pp. 162-63
 
 INTRODUCTION TO THE TANTRĀLOKA 
 
-who draws upon the Siddhayogiśvaramata in respect of the seat-worship (Asanärcana) and invokes the contents thereof1, because it will lead to unnecessary repetition when construed with the Siddhatantra. In the same context he resolves the textual order and implies that 'Sardhāksarām' qualifies 'Dvayim'— the two are not independent. As seen earlier, Jaya- ratha not only identifies the quoted text but goes a step further. He pinpoints exact reading in the original source in case Abhinavagupta does not strictly adhere to the 'original ' 1 Here Abhinava - gupta reads Pūrṇāṁ and Kṛśam while it is Pinām and Durbalām in the original Vijñānabhairava. Jaya- ratha, at a different place, quotes from a tantra, probably the Siddhatantra if one goes by the con- textual evidence, after correction of Ună into Unām stating his reasons for doing so." He meets the anti- cipated criticism by further reasoning. At another place ' Abhinava draws upon the Mrtyuñjaya-tantra 
+who draws upon the Siddhayogiśvaramata in respect of the seat-worship (Asanārcana) and invokes the contents thereof1, because it will lead to unnecessary repetition when construed with the Siddhatantra. In the same context he resolves the textual order and implies that 'Sardhāksarām' qualifies 'Dvayim'— the two are not independent. As seen earlier, Jaya- ratha not only identifies the quoted text but goes a step further. He pinpoints exact reading in the original source in case Abhinavagupta does not strictly adhere to the 'original ' 1 Here Abhinava - gupta reads Pūrṇāṁ and Kṛśam while it is Pinām and Durbalām in the original Vijñānabhairava. Jaya- ratha, at a different place, quotes from a tantra, probably the Siddhatantra if one goes by the con- textual evidence, after correction of Ună into Unām stating his reasons for doing so." He meets the anti- cipated criticism by further reasoning. At another place ' Abhinava draws upon the Mrtyuñjaya-tantra 
 
 1. तत्रासने पुरा मूर्तिभूतां सार्धाक्षरां द्वयीम् 
 
@@ -1397,7 +1397,7 @@ Ibid., II, p. 219
 
 INTRODUCTION TO THE TANTRĀLOKA 
 
-in Trivendrum Sanskrit Series and assigned to Sivä- nanda II by us,' offer unimpeachable evidence of direct North-South dialogue after Madhuraja Yogin, Abhinava's junior contemporary and author of the Gurunathaparāmarśa. 
+in Trivendrum Sanskrit Series and assigned to Sivā- nanda II by us,' offer unimpeachable evidence of direct North-South dialogue after Madhuraja Yogin, Abhinava's junior contemporary and author of the Gurunathaparāmarśa. 
 
 (a) JAYARATHA VS. KṢEMARĀJA 
 
@@ -1763,7 +1763,7 @@ T.A. 30.16
 
 INTRODUCTION TO THE TANTRĀLOK A 
 
-gives both. And in the case of divergent opinions about a thing, particularly if the authority of the Sripurvaśästra was not readily handy on such eso- teric issues as Ekaviravidhāna,' he finally airs the view acceptable to him." In the seventh place, Jaya- ratha brings out the inherent argument of Abhi- navagupta-not only the substance but the form as well. Sometimes he builds up on the syllogistic form latent in Abhinavagupta's discussion and pre- sents the whole of it." 
+gives both. And in the case of divergent opinions about a thing, particularly if the authority of the Sripurvaśāstra was not readily handy on such eso- teric issues as Ekaviravidhāna,' he finally airs the view acceptable to him." In the seventh place, Jaya- ratha brings out the inherent argument of Abhi- navagupta-not only the substance but the form as well. Sometimes he builds up on the syllogistic form latent in Abhinavagupta's discussion and pre- sents the whole of it." 
 
 (ii) Discharge of twin editrial obligations 
 

@@ -14,8 +14,8 @@ Kāmikā
 Kulaguhkara (? Kulaguh- 
 vara) 
 Paddhati (of Iśanadeva) 
-Ratnamälä 
-Ähnika Verse 
+Ratnamālā 
+āhnika Verse 
 35.23 
 29.200 
 29.251-252 
@@ -35,7 +35,7 @@ Tattvarakṣavidhāna
 3.215-219 
 Triśirastantra 
 16.110-112 
-Triśirobhairavägama 
+Triśirobhairavāgama 
 5.86 
 Triśiromata 
 1.87-88 
@@ -54,7 +54,7 @@ Anandadhikaśāsana
 8.36-40 
 Anandagahvara 
 14.19 
-Ananda-śästra 
+Ananda-śāstra 
 Anuttara-prakriya 
 Bhairavakula 
 Bhairava Tantra 
@@ -62,15 +62,15 @@ Bhairava Tantra
 9.313 
 13.302; 28.59, 388 
 13.304 
-Bhargaśikhä 
-Bhargaṣṭakasikhäkula 
+Bhargaśikhā 
+Bhargaṣṭakasikhākula 
 Brahma-yamala 
 Dāmarayāga 
 Deviyamala 
-Dikṣottara/-śästra/-śāsana 
+Dikṣottara/-śāstra/-śāsana 
 Gahvara 
 Gamasastra/-śāsana 
-Gitä 
+Gitā 
 Jñanottara 
 Kālikula 
 } 
@@ -97,9 +97,9 @@ Kiraṇā(a)-śāstra/-vidhi/-agama 4.78; 13.162-163; 15.18
 Krama-pūjana 
 Kulaga(gu)hvara 
 Madhavakula 
-Mälinimata 
-Mäliniśästra 
-Mälini-tantra 
+Mālinimata 
+Māliniśāstra 
+Mālini-tantra 
 Malini-vijaya/-vijayottara 
 Ma(Ma)tanga/-śăstra 
 Mata-sastra/-mahāśāstra 
@@ -126,15 +126,15 @@ Nijastotra
 29.176INTRODUCTION TO THE TANTRALOKA 
 282 
 Nirmaryāda Sastra 
-Niśä-/Niśi-/Naiśa-/ 
+Niśā-/Niśi-/Naiśa-/ 
 samca(ca)ra/ca(ca)ra 
 Niśākula 
 Niśātana 
 Pauskara 
 Picu 
 Prajñālankāra 
-Pramāṇastutidarśana Pūjana-stotra Śripūrva/-śästra 
-Ratnamālā/-śästra 
+Pramāṇastutidarśana Pūjana-stotra Śripūrva/-śāstra 
+Ratnamālā/-śāstra 
 Råtrikula 
 Rauravamata 
 Rauravasasana 
@@ -170,7 +170,7 @@ Siddhāmata
 4.66-68; 15.157; 20.11; 26.23- 28; 28.91-94 
 Siddhasantana-ūrmimahākaula 14.31-32 
 Siddha/-śasana/-tantra 
-Siddhävira 
+Siddhāvira 
 Siddha-yogiśvarīmāta 
 Śivadṛṣṭi Śivasūtra 
 1.243; 8.41, 115; 15.332-334; 23.28-30; 24.6, 9, 25; 26.25; 31.8, 155-160; 36.11-14 33.2-16 
@@ -178,11 +178,11 @@ Siddha-yogiśvarīmāta
 13.108-109 1.26, 30 
 APPENDIX-5 
 283 
-Śiva/Saivi-tanu/-śästra 
-Spanda/-sasana/-śästra 
+Śiva/Saivi-tanu/-śāstra 
+Spanda/-sasana/-śāstra 
 Skanda-yamala 
-Smṛtiśästra 
-Śripūrva-śästra 
+Smṛtiśāstra 
+Śripūrva-śāstra 
 Śrīvira 
 Stotra 
 Svacchanda/-śāsana/-śāstra/- 
@@ -227,11 +227,11 @@ Vijayottara
 284 
 Vijñānabhairava 
 Vimśatika 
-Virävali 
+Virāvali 
 INTRODUCTION TO THE TANTRĀLOKA 
 Viravalibhairava 
 Viravalihṛdaya 
-Virävalikula 
+Virāvalikula 
 Vīrāvalīpāda 
 15.480-489 
 7.56 
@@ -250,11 +250,11 @@ Gitā
 Mālinīvijayottara 
 Triśiromata 
 (d) Quoted and explained 
-Adharakärika/Anantakärikä 
+Adharakārika/Anantakārikā 
 Brahmayamala 
 Gamaśāsana 
 Mālini/-mata 
-Mataśästra 
+Mataśāstra 
 Raurava 
 Sāra 
 Śrīpūrva/-śāstra Yoga-sañcara/cara 

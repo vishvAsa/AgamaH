@@ -401,7 +401,7 @@ CONTENTS
 
 (e) Fifth Ahnika 
 
-(f) Sixth Ahnika (g) Seventh Ähnika 
+(f) Sixth Ahnika (g) Seventh āhnika 
 
 (h) Eighth Ahnika 
 
@@ -499,7 +499,7 @@ CONTENTS
 
 236 
 
-(dd) Thirtieth Ahnika (ee) Thirtyfirst Ähnika (ff) Thirtysecond Ahnika 
+(dd) Thirtieth Ahnika (ee) Thirtyfirst āhnika (ff) Thirtysecond Ahnika 
 
 239 
 

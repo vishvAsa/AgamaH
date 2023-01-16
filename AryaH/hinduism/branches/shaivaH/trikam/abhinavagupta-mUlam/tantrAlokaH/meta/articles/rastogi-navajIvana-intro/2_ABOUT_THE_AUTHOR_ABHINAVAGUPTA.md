@@ -163,7 +163,7 @@ Pandey (Abhi., p. 13) takes Manoratha as Abhinava's younger brother. It is, howe
 
 23 
 
-these Karna—the son of Sauri, Mandra–Karna's boyhood friend and son of a minister, Ksema, Utpala, Abhinava, Cakraka, Padmagupta-all cousins, and Rāmagupta are remembered by name. A few others also beseached Abhinava who accommodated all of them as it was against his training to turn down a re- quest. We have already come across his brother Manoratha, Karṇa and Ramadeva in the concluding verses of the Paratrimśikävivarana' being described in extremely eloquent terms. His brother was a great devotee of Siva and displayed command over all the disciplines. Karna, though quite young, had grasped the essence of Saiva principles and was totally averse to mundane attractions. He is the same Karṇa who, together with Mandra, requested Abhinava time and again to write a commentary on the Malini-vijayot- taratantra. Karna had one son, Yogeśvaridatta by name, who displayed personal qualities justifying his name. Karna's young wife Ambat also grew deta- ched from the worldly affairs and devoted herself ex- clusively to the worship of Śiva when her husband died later at an advanced age." It is clear from Abhi- 
+these Karna—the son of Sauri, Mandra–Karna's boyhood friend and son of a minister, Ksema, Utpala, Abhinava, Cakraka, Padmagupta-all cousins, and Rāmagupta are remembered by name. A few others also beseached Abhinava who accommodated all of them as it was against his training to turn down a re- quest. We have already come across his brother Manoratha, Karṇa and Ramadeva in the concluding verses of the Paratrimśikāvivarana' being described in extremely eloquent terms. His brother was a great devotee of Siva and displayed command over all the disciplines. Karna, though quite young, had grasped the essence of Saiva principles and was totally averse to mundane attractions. He is the same Karṇa who, together with Mandra, requested Abhinava time and again to write a commentary on the Malini-vijayot- taratantra. Karna had one son, Yogeśvaridatta by name, who displayed personal qualities justifying his name. Karna's young wife Ambat also grew deta- ched from the worldly affairs and devoted herself ex- clusively to the worship of Śiva when her husband died later at an advanced age." It is clear from Abhi- 
 
 स रामगुप्तो गुरुशंभुशास्त्रसेवाविधिव्यग्रसमग्रमार्गः ॥ 
 
@@ -427,13 +427,13 @@ intervening
 
 generations 
 
-Varähagupta 
+Varāhagupta 
 
 Vallabha 
 
 Vamanagupta 
 
-Chukhalaka Sauri - Vatsalikä 
+Chukhalaka Sauri - Vatsalikā 
 
 Mandra 
 
@@ -567,7 +567,7 @@ Tbid. 37.61
 
 Ibid. 37.62 
 
-5. The name of Candravara, mentioned at No. 11 by Pandey (Abhi., p. 12 ) is not found in the text cited above. Instead, we have some Bhava in his place. The text as it is may also mean "Bhakti- viläsa, the son of Candra Sarma". Pandey adopts a different text, possibly from the MS in his possession- 
+5. The name of Candravara, mentioned at No. 11 by Pandey (Abhi., p. 12 ) is not found in the text cited above. Instead, we have some Bhava in his place. The text as it is may also mean "Bhakti- vilāsa, the son of Candra Sarma". Pandey adopts a different text, possibly from the MS in his possession- 
 
 श्रीचन्द्रचन्द्रवरभक्तिविलासयोगानन्दाभिनन्दशिव भक्तिविचितनाथाः । 
 
@@ -669,7 +669,7 @@ ABOUT THE AUTHOR
 
 39 
 
-trāloka elsewhere.1 From other sources we know that he was the renowned author of the Vārtika on the Śivasutras, in addition to the Vivekanjana and Kak- syastotra. His father was one Divakara and he was a disciple of Srikantha in Spanda branch and of the Stotrakära Siddhinatha in Krama. Some liberty may be taken for certain conjectures with regard to Bhava mentioned at Serial No. (ii) above. Abhinava has referred to a series of teachers coming in preceptorial succession who commented on the Paratriśikā Sāstra running as under-Somānanda, Kalyāņa and Bha- vabhuti. If Abhinava's description depicts the chro- nological succession of teacher-commentators Bha- vabhuti occupies exactly the same point of time (calculating from Somānanda) which is occupied by Bhava as teacher of Abhinavagupta. In that case 'Bhava' would be an abbreviated form of Bhavabhuti or should we be justified in reading in the text "Bhava- bhutivilāsayogananda" in place of "Bhavabhakti- viläsayogananda"? We leave it for future investi- 
+trāloka elsewhere.1 From other sources we know that he was the renowned author of the Vārtika on the Śivasutras, in addition to the Vivekanjana and Kak- syastotra. His father was one Divakara and he was a disciple of Srikantha in Spanda branch and of the Stotrakāra Siddhinatha in Krama. Some liberty may be taken for certain conjectures with regard to Bhava mentioned at Serial No. (ii) above. Abhinava has referred to a series of teachers coming in preceptorial succession who commented on the Paratriśikā Sāstra running as under-Somānanda, Kalyāņa and Bha- vabhuti. If Abhinava's description depicts the chro- nological succession of teacher-commentators Bha- vabhuti occupies exactly the same point of time (calculating from Somānanda) which is occupied by Bhava as teacher of Abhinavagupta. In that case 'Bhava' would be an abbreviated form of Bhavabhuti or should we be justified in reading in the text "Bhava- bhutivilāsayogananda" in place of "Bhavabhakti- vilāsayogananda"? We leave it for future investi- 
 
 gation. 
 
@@ -693,7 +693,7 @@ INTRODUCTION TO THE TANTRĀLOKA
 
 2 
 
-Coming to the Mathikāgurus our first encounter takes place with one Vämanatha who taught tantras of the dualistic schools to Abhinava. He has no- where been remembered except once. From Abhi- nava's statement we simply know that he was either son or pupil of Eraka, who happened to be an ex- cellent teacher. This Eraka, the teacher in dualism, is not to be confused with his earlier namesake who 
+Coming to the Mathikāgurus our first encounter takes place with one Vāmanatha who taught tantras of the dualistic schools to Abhinava. He has no- where been remembered except once. From Abhi- nava's statement we simply know that he was either son or pupil of Eraka, who happened to be an ex- cellent teacher. This Eraka, the teacher in dualism, is not to be confused with his earlier namesake who 
 
 4 
 
@@ -715,7 +715,7 @@ was a Stotrakāra and a Krama propagator (850-900 A.D.).' We are in dark about a
 
 3 
 
-Next come Bhutirāja (900-950 A.D.) and his son as representative teachers of dualism-cum-nondualism2 initiated by Srinatha. It appears that Abhinava took his lessons from father and son both. As we have seen, Bhütiräja is remembered in the beginning and his son towards the end of the Tantraloka. The Tan- trāloka is silent about his son. From other sources he may be identified with Helārāja, the illustrious commentator of the Vakyapadiya and brother of Indurāja, the latter being Abhinava's teacher in literary criticism. Bhutiraja has claimed highest veneration from Abhinava who views him as another form of the Godhead. Bhutirāja seems to have excelled in many branches of learning in addition to the dualis- tic-monistic discipline. Perhaps his full name was Bhūtirājamiśra. He seems to have initiated Abhinava in the science of the 'size of all the regions' (Bhuvanas) and 'purifiability of all of them' and propounded the theory of hundred Rudras (Satarudras) in the con- text of the treatment of Bhuvanadhvan and Pratisthā Kalā. Another major item which Abhinava learnt 
+Next come Bhutirāja (900-950 A.D.) and his son as representative teachers of dualism-cum-nondualism2 initiated by Srinatha. It appears that Abhinava took his lessons from father and son both. As we have seen, Bhütirāja is remembered in the beginning and his son towards the end of the Tantraloka. The Tan- trāloka is silent about his son. From other sources he may be identified with Helārāja, the illustrious commentator of the Vakyapadiya and brother of Indurāja, the latter being Abhinava's teacher in literary criticism. Bhutiraja has claimed highest veneration from Abhinava who views him as another form of the Godhead. Bhutirāja seems to have excelled in many branches of learning in addition to the dualis- tic-monistic discipline. Perhaps his full name was Bhūtirājamiśra. He seems to have initiated Abhinava in the science of the 'size of all the regions' (Bhuvanas) and 'purifiability of all of them' and propounded the theory of hundred Rudras (Satarudras) in the con- text of the treatment of Bhuvanadhvan and Pratisthā Kalā. Another major item which Abhinava learnt 
 
 1. See K.T., p. 122 
 
@@ -831,7 +831,7 @@ ABOUT THE AUTHOR
 
 45 
 
-known as Kula-prakriya.' Among all his teachers Sambhunatha is held in highest regard. He is com- pared to the sun whose rays removed the darkness caused by ignorance from the heart of Abhinava.2 He is again described as the sun in the vast firmament of the lineage of Traiyambaka. He is further des- cribed as the moon for the ocean of the Trika sys- tems. Bhattanātha was his other title or name. It was because of him and his consort that Abhinava shone with spiritual splendour consequent upon the total removal of his sense of duality. It was due to this special calibre, Abhinava could embark upon writing the Tantraloka. The consort here is some Bhagavati, as we know it from another verse." In fact she was the spiritual messenger (Dūti) and has been specially mentioned because under Kula Pra- kriyā knowledge is transmitted through her alone. In other words Abhinava was favoured by Sambhu- nätha through his Dūti Bhagavati." 
+known as Kula-prakriya.' Among all his teachers Sambhunatha is held in highest regard. He is com- pared to the sun whose rays removed the darkness caused by ignorance from the heart of Abhinava.2 He is again described as the sun in the vast firmament of the lineage of Traiyambaka. He is further des- cribed as the moon for the ocean of the Trika sys- tems. Bhattanātha was his other title or name. It was because of him and his consort that Abhinava shone with spiritual splendour consequent upon the total removal of his sense of duality. It was due to this special calibre, Abhinava could embark upon writing the Tantraloka. The consort here is some Bhagavati, as we know it from another verse." In fact she was the spiritual messenger (Dūti) and has been specially mentioned because under Kula Pra- kriyā knowledge is transmitted through her alone. In other words Abhinava was favoured by Sambhu- nātha through his Dūti Bhagavati." 
 
 Sambhunatha's preceptorial lineage may be pre- sented like this Sumatinātha Somadeva-Sam- 
 
@@ -871,7 +871,7 @@ INTRODUCTION TO THE TANTRĀLOKA
 
 4 
 
-bhunatha Abhinava.' Sometimes Abhinava speaks of Sambhunatha as the direct recipient of grace and knowledge from Sumati, ignoring Somadeva. Accor- ding to Jayaratha one should not get confused on such statements, because the 'teacher' here means the lineage teacher' or the word 'teacher' has to be un- derstood to stand for teacher or grand-teacher, as the case may be. Jayaratha adds to our information by quoting from certain other source. From it, it is clear that Sambhunatha hailed from some seat situ- ated in south known as Jalandhara and was a com- petent authority in the system of five sources thriving on Atimärga. This is an important statement from the historical angle. As we know Krama has been called to have emanated from Northern seat." As against this Jalandhara is described not as Southern Pitha but as being situated somewhere in south. 
+bhunatha Abhinava.' Sometimes Abhinava speaks of Sambhunatha as the direct recipient of grace and knowledge from Sumati, ignoring Somadeva. Accor- ding to Jayaratha one should not get confused on such statements, because the 'teacher' here means the lineage teacher' or the word 'teacher' has to be un- derstood to stand for teacher or grand-teacher, as the case may be. Jayaratha adds to our information by quoting from certain other source. From it, it is clear that Sambhunatha hailed from some seat situ- ated in south known as Jalandhara and was a com- petent authority in the system of five sources thriving on Atimārga. This is an important statement from the historical angle. As we know Krama has been called to have emanated from Northern seat." As against this Jalandhara is described not as Southern Pitha but as being situated somewhere in south. 
 
 शाम्भवाख्यं समावेशं सुमत्यन्तेनिवासिनः । 
 
@@ -923,11 +923,11 @@ ABOUT THE AUTHOR
 
 47 
 
-Geographically, present Jalandhara falls towards south of Kashmir. Could we therefore surmise that Sambhunatha belonged to modern Jalandhara and Abhinava walked down to him in pursuit of his studies, since former's fame had already spread far and wide from his spiritual seat itself. The other significant point that merits consideration is that he excelled in Atimärga, which was perhaps more akin to Tripura system. This problem has occupied our attention elsewhere1 and our information has re- mained static so far. 
+Geographically, present Jalandhara falls towards south of Kashmir. Could we therefore surmise that Sambhunatha belonged to modern Jalandhara and Abhinava walked down to him in pursuit of his studies, since former's fame had already spread far and wide from his spiritual seat itself. The other significant point that merits consideration is that he excelled in Atimārga, which was perhaps more akin to Tripura system. This problem has occupied our attention elsewhere1 and our information has re- mained static so far. 
 
 Sambhunatha's learning was not confined to Kula system alone. Jayaratha while explaining the T.A. 1.13 says that the choice of diction implies his hav- ing contributed to the disciplines like Trika etc. In order to endorse his statement he quotes a verse from Abhinava suggesting that Abhinava's commentary on one of the Trika Sastras, incorporated his learning from Sambhunatha who had mastered all the scrip- tures. However, as the verse could not be traced to any of Abhinava's published works, it is difficult to precisely pinpoint the system. It may, however, be observed in passing that Sambhunatha exercised considerable impact on Abhinava in respect of his 
 
-1. Vide K.T., pp. 27-29. If Atimärga is synonymous with Tri- pură, it is curious that Jayaratha nowhere refers to Sambhu- nätha in his V.M.V, a text devoted to Tripura school. It is now for the future studies to decide on it. 
+1. Vide K.T., pp. 27-29. If Atimārga is synonymous with Tri- pură, it is curious that Jayaratha nowhere refers to Sambhu- nātha in his V.M.V, a text devoted to Tripura school. It is now for the future studies to decide on it. 
 
 2. यदुदीरितशासनांशुभिर्मे प्रकटोऽयं गहनोऽपि शास्त्रमार्गः ॥ T.A. 1.13 3. शास्त्रमार्गो विमलो जातः इत्यनेनास्य त्रिकाद्यागमव्याख्यातृत्वमपि प्रका- शितम् । यदुक्तमनेनैव -- 
 
@@ -941,7 +941,7 @@ INTRODUCTION TO THE TANTRĀLOKA
 
 two other texts e.g., PT.V and M.V.V.2. Since other sources are not our immediate concern we have to refrain from alluding to them unless it is absolutely necessary. 
 
-Abhinava has cited Sambhunatha as an authority on several occasions and on different issues. Abhi- nava learnt Dhyana (meditation), as the first among Anava Upayas, from him. The second Upaya, con- sisting of articulation of the state of vital airs (Prāṇa- vṛttisamuccara) is also credited to the teachings of Sambhunatha. This included variety of blisses from Nirānanda, to Jagadananda. Under the same Aṇa- vopaya presentation of the 'day-night division'(Aho- rätravibhāga the second ancillary topic under the Kälädhvan, i.e. passage of time) and his criticism of other inferior views' carries the imprints of Sambhu- 
+Abhinava has cited Sambhunatha as an authority on several occasions and on different issues. Abhi- nava learnt Dhyana (meditation), as the first among Anava Upayas, from him. The second Upaya, con- sisting of articulation of the state of vital airs (Prāṇa- vṛttisamuccara) is also credited to the teachings of Sambhunatha. This included variety of blisses from Nirānanda, to Jagadananda. Under the same Aṇa- vopaya presentation of the 'day-night division'(Aho- rātravibhāga the second ancillary topic under the Kālādhvan, i.e. passage of time) and his criticism of other inferior views' carries the imprints of Sambhu- 
 
 5 
 
@@ -1061,7 +1061,7 @@ ABOUT THE AUTHOR
 
 51 
 
-rites (Vahnikarma) constituted by Samskaras (Sams- kriyātattva) is the twentyfirst ancillary topic1-both these items have been reproduced by Abhinavagupta as he imbibed them from Sambhunatha. Another item of esoteric value was Jalayo ga which was a major constituent of the indirect initiation (Parokṣa Dikṣā)." In the context of the eighth ancillary topic under the occasional functions (Naimittika Vidhi) Abhi- navagupta examines the phenomenon of death elimi- nating the fear thereof and while rejecting other views he swears by one propagated by Sambhunatha. The whole of the twentyninth Ahnika is devoted to Kula- yaga or the esoteric practices according to Kula-pra- kriya, the specific area where Sambhunatha excelled. But even here certain items were propounded with greater emphasis on the authority of SambhunathaR. For instance, the method of worship (Arcavidhi, the third ancillary topic in the Ahnika) included the doct- rine of ten aspects of Homa (offering oblation to fire) which emanated from Sambhunatha. In the thirtyfifth Ähnika Abhinavagupta's attempt to strike a synthesis and project a harmonious construction of the different scriptures is again inspired by the teach- ings of Sambhunatha." 
+rites (Vahnikarma) constituted by Samskaras (Sams- kriyātattva) is the twentyfirst ancillary topic1-both these items have been reproduced by Abhinavagupta as he imbibed them from Sambhunatha. Another item of esoteric value was Jalayo ga which was a major constituent of the indirect initiation (Parokṣa Dikṣā)." In the context of the eighth ancillary topic under the occasional functions (Naimittika Vidhi) Abhi- navagupta examines the phenomenon of death elimi- nating the fear thereof and while rejecting other views he swears by one propagated by Sambhunatha. The whole of the twentyninth Ahnika is devoted to Kula- yaga or the esoteric practices according to Kula-pra- kriya, the specific area where Sambhunatha excelled. But even here certain items were propounded with greater emphasis on the authority of SambhunathaR. For instance, the method of worship (Arcavidhi, the third ancillary topic in the Ahnika) included the doct- rine of ten aspects of Homa (offering oblation to fire) which emanated from Sambhunatha. In the thirtyfifth āhnika Abhinavagupta's attempt to strike a synthesis and project a harmonious construction of the different scriptures is again inspired by the teach- ings of Sambhunatha." 
 
 From the foregoing account it is obvious that 
 
@@ -1091,7 +1091,7 @@ INTRODUCTION TO THE TANTRĀLOKA
 
 Sambhunatha exercised tremendous influence not over Abhinavagupta's knowledge alone but also over his basic approach towards tantric wisdom and life. It is a matter of great misfortune that none of his works is extant today.' In certain circles he has also been equated with Siddhinatha, the author of the 
 
-1. However, Pandey assigns one Tantrasadbhava to Sambhu- nätha on the basis of the T.A. 30.99a- 
+1. However, Pandey assigns one Tantrasadbhava to Sambhu- nātha on the basis of the T.A. 30.99a- 
 
 तुलामेलकयोगः श्रीतन्त्रसद्भावशासने । 
 
@@ -1099,13 +1099,13 @@ Sambhunatha exercised tremendous influence not over Abhinavagupta's knowledge al
 
 (Abhi., p. 583) 
 
-Dwivedi agrees with Pandey's views [NST (Upodghata) p. 37 and also Upodghäta, p. 38]. This view is further strengthened when we find the same idea echoed in the T.A. 29.212- 
+Dwivedi agrees with Pandey's views [NST (Upodghata) p. 37 and also Upodghāta, p. 38]. This view is further strengthened when we find the same idea echoed in the T.A. 29.212- 
 
 शंभुनाथेनोपदिष्टां दृष्टां सद्भावशासने । 
 
 T.A.V. 
 
-According to Jayaratha this Sadbhavaśäsana is none other than the Tantrasadbhāva [ सद्भावशासने इति श्रीतन्त्रसद्भावे (29th Ah.), XI, p. 136]. However the equation does not hold further. As we have already pointed out earlier, the use of 'Sambhunatha' is not definitive-sometimes it stands for the divine and sometimes for the teacher. Here and in most contexts it denotes the divine source. In the T.A. 20.12 Abhinavagupta ascribes the authorship of the Tantrasadbhava to the Godhead- 
+According to Jayaratha this Sadbhavaśāsana is none other than the Tantrasadbhāva [ सद्भावशासने इति श्रीतन्त्रसद्भावे (29th Ah.), XI, p. 136]. However the equation does not hold further. As we have already pointed out earlier, the use of 'Sambhunatha' is not definitive-sometimes it stands for the divine and sometimes for the teacher. Here and in most contexts it denotes the divine source. In the T.A. 20.12 Abhinavagupta ascribes the authorship of the Tantrasadbhava to the Godhead- 
 
 यथा श्रीतन्त्रसद्भावे कथिता परमेशिना । श्रीपूर्वशास्त्रेऽप्येषा च सूचिता परमेशिना ।। 
 
@@ -1119,7 +1119,7 @@ Even in continuation with the T.A. 30.99, cited above, Abhinavagupta explicates 
 
 कथ्यते हाटकेशानपातालाधिपचोदिता ॥ 
 
-Then on the strength of Abhinavagupta's own statements the Tantrasadbhava is a work of divine origin and Sambhu- nätha, his teacher, could not be its author. According to Dwivedi (Upodghata, p. 38) the work is available in M.S. and the quotes from it in the T.A.V. are traceable to it.1 
+Then on the strength of Abhinavagupta's own statements the Tantrasadbhava is a work of divine origin and Sambhu- nātha, his teacher, could not be its author. According to Dwivedi (Upodghata, p. 38) the work is available in M.S. and the quotes from it in the T.A.V. are traceable to it.1 
 
 ABOUT THE AUTHOR 
 
@@ -1243,7 +1243,7 @@ Triśikāśāstra (?)
 
 ? 
 
-13. Vicitranätha 14. Dharmasiva 
+13. Vicitranātha 14. Dharmasiva 
 
 15. Vamanaka 
 
@@ -1273,7 +1273,7 @@ system
 
 Śivasūtras and Spanda school (?) Matanga Agama. 
 
-From Abhinava's teachers we now turn to his works' confining our enquiry to the titles cited in the Tantraloka alone. Interestingly the number of own works mentioned is not large. His first ever reference has been made to one Anuttaraprakriya' which has been found identical with the Parātrimśikāvivaraṇa by Jayaratha. It is to be noted that Abhinavagupta makes no mention of its authorship. He has referred to other Vivṛtis on the P.T. but they are all by his predecessors and goes on citing views from one such Vivṛti in the T.A. 13.150-154. In view of Abhinava- gupta's silence on the authorship are we justified in branding the Anuttaraprakriya as his work? Perhaps yes, for (i) Jayaratha interprets Anuttaraprakriyā as Parātrisikävivarana, which is exactly the title of Abhi- navagupta's published work, (ii) Abhinavagupta has 
+From Abhinava's teachers we now turn to his works' confining our enquiry to the titles cited in the Tantraloka alone. Interestingly the number of own works mentioned is not large. His first ever reference has been made to one Anuttaraprakriya' which has been found identical with the Parātrimśikāvivaraṇa by Jayaratha. It is to be noted that Abhinavagupta makes no mention of its authorship. He has referred to other Vivṛtis on the P.T. but they are all by his predecessors and goes on citing views from one such Vivṛti in the T.A. 13.150-154. In view of Abhinava- gupta's silence on the authorship are we justified in branding the Anuttaraprakriya as his work? Perhaps yes, for (i) Jayaratha interprets Anuttaraprakriyā as Parātrisikāvivarana, which is exactly the title of Abhi- navagupta's published work, (ii) Abhinavagupta has 
 
 1. For material from additional sources see Abhi. pp. 27-131; Abhinavagupta and His works, Raghavan, Varanasi, pp. 17-32 and also pp. 33-77; K.T., pp. 159-165. 
 
@@ -1327,7 +1327,7 @@ is identical with the Mālinīvijayavārtika and is a versi- cular running comme
 
 3 
 
-In this very context it is significant to note that Abhinavagupta makes an indirect reference to one of his works called Pañcikä. While commenting on the T.A. 23.752 Jayaratha yields sufficient inform- ation. It was a commentary which bore the title Pañcikā and was composed in versicular form as a quotation from it suggests. One thing is absolutely sure that the treatise was available to Jayaratha. Here again Abhinavagupta's reticence on its authorship is intriguing. It is Jayaratha who in another context refers to the Pañcikā as Abhinavagupta's composi- tion. The relevant reference does not give an idea of the original text as to whose commentary it was. Banking on the contextual evidence (Abhinavagupta is discussing removal of inferior knowledge from an aspirant belonging to the lesser disciplines as pro- 
+In this very context it is significant to note that Abhinavagupta makes an indirect reference to one of his works called Pañcikā. While commenting on the T.A. 23.752 Jayaratha yields sufficient inform- ation. It was a commentary which bore the title Pañcikā and was composed in versicular form as a quotation from it suggests. One thing is absolutely sure that the treatise was available to Jayaratha. Here again Abhinavagupta's reticence on its authorship is intriguing. It is Jayaratha who in another context refers to the Pañcikā as Abhinavagupta's composi- tion. The relevant reference does not give an idea of the original text as to whose commentary it was. Banking on the contextual evidence (Abhinavagupta is discussing removal of inferior knowledge from an aspirant belonging to the lesser disciplines as pro- 
 
 1. Abhi., pp. 30-33 
 
@@ -1361,7 +1361,7 @@ pounded in the Śrīpurvaśāstra)1 it, in all probability, should have been an 
 
 T.A. 23.73-75 
 
-2. Abhi., p. 37. Śrīpūrvapañcikä would be the better title. 
+2. Abhi., p. 37. Śrīpūrvapañcikā would be the better title. 
 
 3. वर्णमन्त्रपदरूपता शोध्यांशवृत्तिः -- इत्यास्ताम्, अप्रकृतमेतत्, निर्णीतं च 
 
@@ -1425,7 +1425,7 @@ ABOUT THE AUTHOR
 
 61 
 
-(i.e., Stotreṣu) he seems to imply that he has been giving vent to his ideas through Stotras as and when occasion warrants so. In the Tantraloka we quite often come across with such verses which are replete with intense devotion. But in the absence of any definite statement to this effect we assign the sorting out of such portions to the future ventures. Before closing the discussion on Abhinavagupta's writings let us examine an intriguing statement from him. He says that one of the secondary items namely Naimittika (occasional functions) with its varieties has been dealt with in the Tantrasara.2 The Tantra- sarā which is another work by the same pen, resounds the statement. Now the problem is that the Tantra- sāra, as we know, is a shorter version of the Tantra- loka on the admission of Abhinavagupta himself.1 In all probability the Tantraloka must precede the Tantrasāra; how could the Tantrāloka, therefore, con- tain a reference to the Tantrasära? One thing is cer- tain that the Tantrasara is posterior in chronological order-it was a summary in simple words intended to enlighten all and sundry. 
+(i.e., Stotreṣu) he seems to imply that he has been giving vent to his ideas through Stotras as and when occasion warrants so. In the Tantraloka we quite often come across with such verses which are replete with intense devotion. But in the absence of any definite statement to this effect we assign the sorting out of such portions to the future ventures. Before closing the discussion on Abhinavagupta's writings let us examine an intriguing statement from him. He says that one of the secondary items namely Naimittika (occasional functions) with its varieties has been dealt with in the Tantrasara.2 The Tantra- sarā which is another work by the same pen, resounds the statement. Now the problem is that the Tantra- sāra, as we know, is a shorter version of the Tantra- loka on the admission of Abhinavagupta himself.1 In all probability the Tantraloka must precede the Tantrasāra; how could the Tantrāloka, therefore, con- tain a reference to the Tantrasāra? One thing is cer- tain that the Tantrasara is posterior in chronological order-it was a summary in simple words intended to enlighten all and sundry. 
 
 1. Cp. विदितमृतिसतत्त्वाः संविदम्भोनिधाना- 
 
@@ -1459,7 +1459,7 @@ Ibid., p. 2
 
 INTRODUCTION TO THE TANTRĀLOKA 
 
-In all likelihood it seems to be a reference to some other work of the same name. Luckily Abhinava- gupta in his P. T.V. refers twice to this work and quo- tes therefrom.' In the same work he further quotes twice from some Trikatantrasära. It appears that both of these texts were identical and were, perhaps, a scriptural work, on the Trisika offshoot of Kaulika discipline. According to Dwivedi3 this work is also known variously as the Sadardhaśāstra, Saḍardha- sāra, Sadar dhahrdaya, Sāraśāsana and Sāraśāstra etc. However, the evidence is too sketchy to hazard a definite opinion. We are, however, inclined to think that while the Tantrasara and the Trikatantrasara for- med one unit, Sadardhaśāstra etc. represented a sepa- rate unit standing perhaps for the P.T. which is rec- koned as the Trikasutra and Sadardhahrdaya" by the Tantraloka itself. Sometimes these very names have 
+In all likelihood it seems to be a reference to some other work of the same name. Luckily Abhinava- gupta in his P. T.V. refers twice to this work and quo- tes therefrom.' In the same work he further quotes twice from some Trikatantrasāra. It appears that both of these texts were identical and were, perhaps, a scriptural work, on the Trisika offshoot of Kaulika discipline. According to Dwivedi3 this work is also known variously as the Sadardhaśāstra, Saḍardha- sāra, Sadar dhahrdaya, Sāraśāsana and Sāraśāstra etc. However, the evidence is too sketchy to hazard a definite opinion. We are, however, inclined to think that while the Tantrasara and the Trikatantrasara for- med one unit, Sadardhaśāstra etc. represented a sepa- rate unit standing perhaps for the P.T. which is rec- koned as the Trikasutra and Sadardhahrdaya" by the Tantraloka itself. Sometimes these very names have 
 
 1. तथाहि श्रीतन्त्रसारे- 
 
@@ -1701,7 +1701,7 @@ T.A. 9.88
 
 Ibid. 10.183-84 
 
-Abhinava says, although the thirteenfold character is also possible in water, like earth, the same has not been propounded as it has not been clearly, unambiguously, discussed in the Śripūrvaśästra. 
+Abhinava says, although the thirteenfold character is also possible in water, like earth, the same has not been propounded as it has not been clearly, unambiguously, discussed in the Śripūrvaśāstra. 
 
 3. अन च चतुभिरङगुलैः... इति । यत्पुनरनेन पञ्चिकायां व्याख्यातं तत् तत्त्वक्रमसाम्यापादनहेवाकिनां केषांचन मतमिति । नहि सर्वसविकया एतदापादयितुं पार्यते इति किमशक्यार्थाभिनिवेशेन । 
 
@@ -2117,7 +2117,7 @@ ABOUT THE AUTHOR
 
 81 
 
-place he tells us that he is going to follow the brief method in dealing with the problem of 'regional enu- meration' (Purasamgraha) after treating the regional measurement (Bhuvanamāna) and scheme of cate- gories (Tattva Yojana) at length.' In fact he fore- warns us in the very beginning of the eighth Ahnika that he proposes to make use of brief and detailed styles both intending thereby to use combined or mixed style in describing Deśadhva. While employ- ing brief style Abhinava may go even extremely brief and present the abbreviated subject matter in a cou- ple of Kärikäs after handling it at length. He does so in respect of his treatment of three sub-passages- i.e., Pada, Mantra and Varṇa-of the principal cos- mic way called Sabda (word). Towards elaborate delineations, on the other hand, he normally adopts a three-tier strategy. He first puts forward the other available views, examines them and then enunciates his own stand. While embarking upon a comprehen- sive treatment of descent of grace in the thirteenth Ahnika he initially introduces opposite views, Sām- khya being the main among them, from Kārikās 3 to 36, subjects them to critical scrutiny from Kārikās 
+place he tells us that he is going to follow the brief method in dealing with the problem of 'regional enu- meration' (Purasamgraha) after treating the regional measurement (Bhuvanamāna) and scheme of cate- gories (Tattva Yojana) at length.' In fact he fore- warns us in the very beginning of the eighth Ahnika that he proposes to make use of brief and detailed styles both intending thereby to use combined or mixed style in describing Deśadhva. While employ- ing brief style Abhinava may go even extremely brief and present the abbreviated subject matter in a cou- ple of Kārikās after handling it at length. He does so in respect of his treatment of three sub-passages- i.e., Pada, Mantra and Varṇa-of the principal cos- mic way called Sabda (word). Towards elaborate delineations, on the other hand, he normally adopts a three-tier strategy. He first puts forward the other available views, examines them and then enunciates his own stand. While embarking upon a comprehen- sive treatment of descent of grace in the thirteenth Ahnika he initially introduces opposite views, Sām- khya being the main among them, from Kārikās 3 to 36, subjects them to critical scrutiny from Kārikās 
 
 1. अथ सकलभुवनमानं यन्मह्यं निगदितं निजैर्गुरुभिः ॥ 
 
@@ -2145,9 +2145,9 @@ Ibid. 8.434
 
 Ibid. 13.282 
 
-INTRODUCTION TO THE TANTRÄLOKA 
+INTRODUCTION TO THE TANTRāLOKA 
 
-37 to 101 and then dwells on his own thesis from Kārikā 102 onwards. In so doing, Abhinava is al- ways seized of the related auxiliary matters as well. His frequent reversal to the 'original' or the 'subject in hand' may be understood only in this light.' In the context of Śivahastavidhi, a part of Samayidikṣā, he starts discussing about various types of initiates. such as Putraka, Acarya and Daisika finding them contextually relevant and reverts to Sivahastavidhi, the original item. Similarly as a part of his over-all organisational scheme the discussion on subordinate or particular issues (Anujoddeśa) follows that on principal or general issue (Pürvaja Uddeśa). As we shall be seeing in detail subsequently he misses no opportunity to furnish proper background of the pro- posed subordinate topic. For instance, in the 15th Ähnika, assigned to Samayi initiation, Abhinava be- fore discussing the first ancillary issue i.e., types of consecration or bath (Snanabheda), dwells on the necessary background. The third phase of his style, which we have called as mixed, sometimes has a strange feature about it, that is, the detail refers to content while the condensation to body of the text, as for instance in Samayidikṣā. It means that Vistara and Sankṣepa have varied applications sometimes to the physical body of the text and sometimes to its contents. 
+37 to 101 and then dwells on his own thesis from Kārikā 102 onwards. In so doing, Abhinava is al- ways seized of the related auxiliary matters as well. His frequent reversal to the 'original' or the 'subject in hand' may be understood only in this light.' In the context of Śivahastavidhi, a part of Samayidikṣā, he starts discussing about various types of initiates. such as Putraka, Acarya and Daisika finding them contextually relevant and reverts to Sivahastavidhi, the original item. Similarly as a part of his over-all organisational scheme the discussion on subordinate or particular issues (Anujoddeśa) follows that on principal or general issue (Pürvaja Uddeśa). As we shall be seeing in detail subsequently he misses no opportunity to furnish proper background of the pro- posed subordinate topic. For instance, in the 15th āhnika, assigned to Samayi initiation, Abhinava be- fore discussing the first ancillary issue i.e., types of consecration or bath (Snanabheda), dwells on the necessary background. The third phase of his style, which we have called as mixed, sometimes has a strange feature about it, that is, the detail refers to content while the condensation to body of the text, as for instance in Samayidikṣā. It means that Vistara and Sankṣepa have varied applications sometimes to the physical body of the text and sometimes to its contents. 
 
 1. एवं प्रसङ्गनिर्णीतं प्रकृतं तु निरूप्यते । 
 
@@ -2171,7 +2171,7 @@ ABOUT THE AUTHOR
 
 83 
 
-Abhinava's multi-ended style is ably supported by the choice of diction. Since Abhinava is creating a Śāstra his vocabulary and its use has to be very pre- cise and meaningful. His usage of the word 'Atha"1 according to Jayaratha suggests his intention to treat the following treatment as an explanation of his own statement. In this sense the Tantraloka sometimes emerges as an auto-commentary. Sometimes 'Atha' indicates a fresh start.3 Similarly the use of 'Samyak" (adequately) implies a clearcut difference from the basic dualist texts like Bhogakārikā and Mokṣa- kärikā of Sadyojyoti." In a continuing discussion speci- fic repetition is aimed at clarifying the issues. For instance, the lunar eclipse takes place in a conjunction of Full Moon and New Moon and not in a pure New Moon" the re-use of the word 'Purva' is just meant for this. 
+Abhinava's multi-ended style is ably supported by the choice of diction. Since Abhinava is creating a Śāstra his vocabulary and its use has to be very pre- cise and meaningful. His usage of the word 'Atha"1 according to Jayaratha suggests his intention to treat the following treatment as an explanation of his own statement. In this sense the Tantraloka sometimes emerges as an auto-commentary. Sometimes 'Atha' indicates a fresh start.3 Similarly the use of 'Samyak" (adequately) implies a clearcut difference from the basic dualist texts like Bhogakārikā and Mokṣa- kārikā of Sadyojyoti." In a continuing discussion speci- fic repetition is aimed at clarifying the issues. For instance, the lunar eclipse takes place in a conjunction of Full Moon and New Moon and not in a pure New Moon" the re-use of the word 'Purva' is just meant for this. 
 
 (f) PRESENTING THE ESOTERIC MATTER 
 
@@ -2201,7 +2201,7 @@ Ibid. IV, p. 97
 
 INTRODUCTION TO THE TANTRALOKA 
 
-ristic of his style of not divulging entire subject matter at one place at a time is found to be more pronounced in such matters--he reveals partly, he conceals partly. This is exactly what he has echoed in the Tantrasära.1 The esoteric matters, which are totally related to one's personal experience, must be transmitted orally by the teacher alone-it is the exclusive domain of the teacher and the taught, yet he delves into it only to preserve the agamic secrets for posterity and in so doing he disperses its discussion over several chapters as has been done in the case of Karaṇas. 
+ristic of his style of not divulging entire subject matter at one place at a time is found to be more pronounced in such matters--he reveals partly, he conceals partly. This is exactly what he has echoed in the Tantrasāra.1 The esoteric matters, which are totally related to one's personal experience, must be transmitted orally by the teacher alone-it is the exclusive domain of the teacher and the taught, yet he delves into it only to preserve the agamic secrets for posterity and in so doing he disperses its discussion over several chapters as has been done in the case of Karaṇas. 
 
 In addition to the dispersal of subject matter Abhi- nava abjures the use of direct language. It has to be subtle. There are four pedestals of a system or scrip- ture specially in the Adi Yaga-Vidya, Mantra, Mudrā and Mandala. After covering Mantra and Mudrā he initiates discussion on Vidya and implies that the topic of Mandala is included in that of Vidya and needs no open description. As an outcome of the same attitude Abhinava has a guarded style to sug- gest the precise Mantras etc. to be used in esoteric performances. This aspect is adequately illustrated in prescription of the Mantra 'Naiṛti bhoh'. Al- 
 

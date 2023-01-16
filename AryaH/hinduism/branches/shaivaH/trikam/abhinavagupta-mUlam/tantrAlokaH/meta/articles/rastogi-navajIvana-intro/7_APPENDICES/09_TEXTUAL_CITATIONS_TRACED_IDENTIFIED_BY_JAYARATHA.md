@@ -18,8 +18,8 @@ II/216-221
 VII/3228 
 II/568-573 
 Amakhyakalásvarūpa- 
-sphärasiddhanta 
-(Kalävyäptyanta) 
+sphārasiddhanta 
+(Kalāvyāptyanta) 
 3.137 
 II/141-143 
 II/493-495 
@@ -35,7 +35,7 @@ Bhairava Tantra
 13.305 
 VIII/184 
 V/2384 
-Bhargaśikhä 
+Bhargaśikhā 
 4.255 
 III/284 
 III/900 
@@ -52,7 +52,7 @@ VII/3284-3285
 Dāmarayāga 
 15.335-338 
 IX/169-170 
-Deviyamala/-śästra 
+Deviyamala/-śāstra 
 (Mahāḍāmarakayāga) 
 3.70 
 II/82 
@@ -167,7 +167,7 @@ VI/2451
 28.293 
 XI/116 
 VII/3222 
-Mälini-tantra 
+Mālini-tantra 
 Malini-vijaya/-vijayottara 
 14.41-42 
 VIII/236 
@@ -223,7 +223,7 @@ IV/1624-1625
 293 
 294 
 INTRODUCTION TO THE TANTRALOKA 
-Mata/-śästra 
+Mata/-śāstra 
 Mokşadharma 
 23.89 
 4.66-69 
@@ -237,7 +237,7 @@ VI/3024
 III/688-691 
 III/908-915 
 VI/2694-2695 
-Mrgendra-śästra 
+Mrgendra-śāstra 
 9.190 
 VI/149 
 IV/1783 
@@ -264,7 +264,7 @@ Nisa-/Niśi-/Naisa-/samca
 6.31-32 
 IX 47-50 
 IX 55 
-Niśäkula 
+Niśākula 
 13.126-127 
 VIII 84-85 
 Niśāṭana 
@@ -293,7 +293,7 @@ II/62
 3.55 
 II/64 
 II/416 
-Ratnamälä/-śästra 
+Ratnamālā/-śāstra 
 28.415-416 
 XI/178 
 VII/3284 
@@ -318,7 +318,7 @@ VII/3330
 XI/127(29th Ah.) 
 VII/3417 
 29.201 
-XI/132(29th Äh.) 
+XI/132(29th āh.) 
 VII/3422 
 29.283 
 XI/168(29th Āh.) 
@@ -435,7 +435,7 @@ IV/1583
 9.206-207 
 VI/166-167 
 IV/1800-1801 
-Spanda/-śäsana 
+Spanda/-śāsana 
 3.281 
 II/254 
 II/606 
@@ -446,7 +446,7 @@ V/2121
 IX, 58 
 VI/2498 
 Śrīpūrva/-śāsana/-śāstra/-tantra 
-(Varnitä) 1.186-187 
+(Varnitā) 1.186-187 
 I/215 
 1.196 
 1/223 
@@ -495,7 +495,7 @@ VI/2839
 23.11-12 
 X/266 
 VI/2992 
-Svacchanda/-śäsana/-śāstra/- 
+Svacchanda/-śāsana/-śāstra/- 
 tantra 6.50 
 IV/43-44 
 III/1131-1132 
@@ -529,11 +529,11 @@ Tantrasadbhāva
 29.211-216 
 XI/136-139(29th Ah.) 
 VII/3426-3429 
-Tattvärthacintamani (Kallata) 10.208 
+Tattvārthacintamani (Kallata) 10.208 
 VII/142 
 V/2026 
 Traiśika 
-Trikasära (Sāraśāstra) 
+Trikasāra (Sāraśāstra) 
 15.15 
 IX/10 
 VI/2450 
@@ -604,11 +604,11 @@ III/1064
 10.204 
 VII/140 
 V/2024 
-Virävali 
+Virāvali 
 4.241-243 
 III/268 
 III/884 
-Virävalikula 
+Virāvalikula 
 6.74-75 
 IV/65-66 
 III/1153-1154 

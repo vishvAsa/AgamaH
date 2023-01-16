@@ -57,8 +57,8 @@ Kaula
 (III/290) 
 III/906 
 Kaumārila 
-See Mimämsā 
-Kula Mīmāmsä 
+See Mimāmsā 
+Kula Mīmāmsā 
 36.12 
 (XII/389) 
 VIII/3679 
@@ -116,7 +116,7 @@ Pracya
 (X/365) 
 VI/3091 
 Prabhakara 
-See Mimainsä 
+See Mimainsā 
 Sarikhya 
 6.18 
 (IV/17) 

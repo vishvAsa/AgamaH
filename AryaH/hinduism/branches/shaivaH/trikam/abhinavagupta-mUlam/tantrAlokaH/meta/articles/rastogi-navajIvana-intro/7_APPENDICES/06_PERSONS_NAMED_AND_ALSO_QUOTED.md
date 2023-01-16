@@ -5,7 +5,7 @@ title = "06 PERSONS NAMED AND ALSO QUOTED"
 Person 
 Aniruddha 
 Bālamitra 
-Bhavabhūti Dharmasiva Kalyāṇa Kallata/-nätha Khetapāla Sambhunatha 
+Bhavabhūti Dharmasiva Kalyāṇa Kallata/-nātha Khetapāla Sambhunatha 
 Śeşamahāmuni Somānanda Śrīkantha 
 Utpala Vidya(dhi)pati Vidyaguru 
 ABHINAVAGUPTA 

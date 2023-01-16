@@ -67,9 +67,9 @@ SELECT BIBLIOGRAPHY
 
 xxvii 
 
-Hindu Tantric and Säkta Literature [HTSL] (A History of Indian Literature Vol. II- Fase 2), Wiesbaden, 1981. 
+Hindu Tantric and Sākta Literature [HTSL] (A History of Indian Literature Vol. II- Fase 2), Wiesbaden, 1981. 
 
-Vämakeśvarimata-vivarana, ed. M.K. Shastri, KSTS No. LXVI, 1945. 
+Vāmakeśvarimata-vivarana, ed. M.K. Shastri, KSTS No. LXVI, 1945. 
 
 The History of Sanskrit Poetics (published together with the Sahityadarpana of Viśva- natha), 3rd edition, Bombay, 1951. 
 
@@ -173,7 +173,7 @@ A Descriptive Catalogue of Sanskrit Manus- cripts in the Curator's Office Librar
 
 Descriptive Catalogue of Sanskrit Manus- cripts in the Gaekwad Library, Bharata Kala Bhavan and Sanskrit Mahavidyalaya Library, Banaras Hindu University, Vol. VI, ed. R.S. Tripathi, Varanasi, 1971. 
 
-Śrinepālaräṣṭriyābhilekhalayasthä 
+Śrinepālarāṣṭriyābhilekhalayasthā 
 
 Hasta- 
 

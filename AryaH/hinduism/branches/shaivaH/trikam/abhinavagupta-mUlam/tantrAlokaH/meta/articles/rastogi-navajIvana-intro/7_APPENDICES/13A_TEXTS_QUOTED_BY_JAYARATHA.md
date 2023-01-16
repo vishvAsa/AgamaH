@@ -12,7 +12,7 @@ Volume Page
 VII/3228 
 II/46, 175, 256; III/711, 748, 770, 776, 777,778, 804, 816, 834, 933, 1291, 1343, 1345; IV/1492, 1880, 1801; V/2111, 2116, 2165, 2197, 2233, 2257, 2275, 2281, 2309, 2310, 2374, 2376; VI/2467, 2650-2651, 2748, 2749, 2750, 2752, 2759, 2763, 2764, 2776, 2858, 2863, 2866, 2912, 2985, 2996, 3002, 3010, 3028, 3034, 3050, 3094; VII/3130, 3204, 3210, 3221, 3228, 3302, 3304, 3369, 3382, 3403, 3438, 3452, 3474, 3623; VIII/3645, 3646, 3651, 3654, 
 **(I)' in the beginning of the word indicates that this has already been taken care of in Appendix I. *** 'SI' to 'S63' denote the 64 tantras as enumerated in the Srikanthi as quoted in the Viveka. See the following index-13(B). 
-1. See under Anantakärikā (Appendix I). 
+1. See under Anantakārikā (Appendix I). 
 14, 79, 92, 113, 148, 162; XII/ 184, 333, 355, 356, 361, 364, 365, 368, 369, 370, 372, 374, 375, 376, 377, 379, 383, 386, 387, 392, 396, 428 
 3655, 3658, 3659, 3660, 3665, 3666, 3667, 3669, 3677, 3682, 3686, 3718 
 3662, 3664, 
@@ -152,15 +152,15 @@ Dakṣa (A)
 Devipañca(ca)-śata/-śatika(A) XI/31 (29th Ah.); XII/197 
 IX/125; X/254, 268; XI/164, 166; XI/40(29th Ah.), 41, 49; XII/198, 200, 265, 304 VI/18, 20 
 (1) Damara(-sikha)s16 
-Devi-/-Devyä-/yamala 
+Devi-/-Devyā-/yamala 
 Dharamalankara(A) 
 Dikṣottara 
 III/462 
 Dipta (A) 
 I/40 
 (1) Gahvara 
-Gama/-śāsana/-śästra 
-(1) Gitä 
+Gama/-śāsana/-śāstra 
+(1) Gitā 
 Guhyacakra (A)817 
 Haidara 
 X/185 
@@ -183,7 +183,7 @@ II/162, 172, 197, 343, 348-349, 473, 518, 568, 572, 573; III/1054; IV/1710- 1711
 VII/3115, 3119 
 Hamsa (A)s18 
 11/43 
-Härdeśa 
+Hārdeśa 
 XI/113 (29th Ah.) 
 VII/3403 
 Hastanaya (A) 
@@ -238,7 +238,7 @@ II/43
 VII/3403 
 APPENDIX-13(A) 
 3. There are two works referred to in the Darbar Library, Nepal. One is the Kalikakulakramasadbhava (I/76) and the other is the Kālikākulapañcakramarcana by Vimalaprabodha whose two MSS are listed, one incomplete (I/169) and the other complete (3/314). We are told A. Sanderson (Oxford) is working on these texts. The Kalikakrama, also known as Devikakrama in other sources (see our K.T., p. 235-36), is perhaps an abridged version of either of these two texts. 
-4. In the Curator's Office Library we find a MS entitled Käpälikatantra numbered as 7475 and listed under Säktatantra. 
+4. In the Curator's Office Library we find a MS entitled Kāpālikatantra numbered as 7475 and listed under Sāktatantra. 
 309 
 310 
 INTRODUCTION TO THE TANTRĀLOKA 
@@ -289,7 +289,7 @@ II/281; V/2112
 - (Ratnamālā) 
 I/281; XI/59; XI/131(29th 
 II/281; VII/3165, 3421, 3458 
-Äh.), 168 
+āh.), 168 
 Lakṣmimata? (A)527 
 1/42 
 II/42 
@@ -313,7 +313,7 @@ Malini (A)
 I/49; VII/70 (11th Ah.) 
 (1) Mālinīmata 
 (1) Mālinīślokavārtika 
-(1) Mälini-vijaya/-vijayottara/- 
+(1) Mālini-vijaya/-vijayottara/- 
 I/49; V/206; VIII/127; IX/3; 
 XII/307 
 1/49 
@@ -323,10 +323,10 @@ Mangalas30
 1/43 
 Mantracakra (A)s31 
 1/43 
-Manvādiśästra (A) 
+Manvādiśāstra (A) 
 XII/395 
 Maryādāhina 
-XI/113 (29th Äh.) 
+XI/113 (29th āh.) 
 Mata (-mata)$32 
 1/42 
 VII/3330, 3339 
@@ -340,21 +340,21 @@ II/43
 VIII/3685 
 VII/3403 
 II/42 
-7. We do not know if it is identical with the Lakṣmitantra belonging to the Naradapäñcarātra, which 
+7. We do not know if it is identical with the Lakṣmitantra belonging to the Naradapāñcarātra, which 
 has been published by V. Krishnamacharya from Adyar, Madras. 
 311 
 312 
 INTRODUCTION TO THE TANTRĀLOKA 
-(1) Matanga/-śästra 
+(1) Matanga/-śāstra 
 TX/5, 7; X/159 
-Mätṛrodana (A)533 
+Mātṛrodana (A)533 
 1/43 
 (1) Maukuta 
 1/40 
 (1) Mṛgendra 
 V/62; VI/149, 165 
 Matabhaṭṭāraka 
-(I) Mata/-śästra 
+(I) Mata/-śāstra 
 (1) Matangaparmeśvara 
 IX/65 
 I/49; III/293; IX/80 V/247 
@@ -375,7 +375,7 @@ Mukhabimba (A)
 1/40 
 Mulasanjñaka (A)834 
 1/43 
-Näda(-cakra) (A)835 
+Nāda(-cakra) (A)835 
 1/43 
 VI/2459 
 IV/1401 
@@ -383,9 +383,9 @@ VI/3086
 II/40 
 II/43 
 II/43 
-Nämaka 
+Nāmaka 
 I/49; VII/70 (11th Ah.) 
-Nandiśikhä 
+Nandiśikhā 
 V/14-15; V/186, 237, 241, 243, 
 256; VIII/127; IX/138 
 II/49; V/2162 
@@ -406,10 +406,10 @@ II/40; VII/3500
 Nijastotraikadeśa 
 XI/118 (29th Ah.) 
 VII/3408 
-Nirmaryādaśästra 
+Nirmaryādaśāstra 
 XI/113 (29th Ah.) 
 VI/3403 
-(1) Niśä-/ca(ca)ra 
+(1) Niśā-/ca(ca)ra 
 (1) Niśăţana 
 Pañcāmṛta (A) Pañcikā (A) 
 Pañcāśikā (A) Pañcaśatika (A) 
@@ -458,7 +458,7 @@ Pramanastotra
 VI/135 
 IV/1769 
 APPENDIX-13(A) 
-8. Published in KSTS alongwith Abhinavagupta's Vivarana commentary. Also published with Läsaka's commentary in a separate volume in KSTS. 
+8. Published in KSTS alongwith Abhinavagupta's Vivarana commentary. Also published with Lāsaka's commentary in a separate volume in KSTS. 
 9. Published in KSTS. Another edition with annotated translation into English by Jaidev Singh is shortly coming out. See Appendix I also. 
 313 
 Pratyabhijñā-/karikā1o (A) 
@@ -508,7 +508,7 @@ APPENDIX-13(A)
 Ruru (-yamala) (A)s41 
 1/42 
 II/42 
-(1) Ruru/-śästra 
+(1) Ruru/-śāstra 
 I/84; V/117, 186; VI/174, 176. 
 II/84; IV/1467, 1536, 1808, 1810 
 Ruruvārtika 
@@ -550,7 +550,7 @@ II/40
 Sarabhaṭṭāraka 
 II/82 
 II/434 
-Sāraśästra 
+Sāraśāstra 
 II/236; VIII/231 
 II/588; V/2431 
 Sardhaśatika (A) 
@@ -559,7 +559,7 @@ III/161 189
 VI/45, 46 
 III/777, 805 
 IV/1679, 1680 
-Śätätapa 
+Śātātapa 
 VIII/11 
 V/2211 
 Sarvamangala (A)s44 
@@ -571,7 +571,7 @@ III/677; V/2198
 Saurabheya 
 1/40 
 II/40 
-12. See fn. 44 under Santatyägama (Appendix I). 
+12. See fn. 44 under Santatyāgama (Appendix I). 
 316 
 INTRODUCTION TO THE TANTRĀLOKA 
 III/72; IX/80 
@@ -605,7 +605,7 @@ II/350
 Śivadharmottara14 (A) 
 V/115 
 IV/1465 
-Śivägama 
+Śivāgama 
 I/116 
 II/116 
 Śivāśastropaniṣad (A) 
@@ -613,10 +613,10 @@ XII/434
 VIII/3724 
 (1) Sivasūtra 
 I/18, 58; VII/163 
-Śiva-/Śaivi-tanu/-śästra 
+Śiva-/Śaivi-tanu/-śāstra 
 Skandayamalatantra 
 Smrti 
-(1) Spanda-śästra 
+(1) Spanda-śāstra 
 V/186, 205, 209, 220 
 X/302 
 TX/88, 255; X/23, 279; XI/25, 
@@ -661,7 +661,7 @@ Svacchanda (-bhairava) (A)846 1/42
 318 
 INTRODUCTION TO THE TANTRĀLOKA 
 (1) Svacchanda/-śăstra 
-Svacchanda (-yamala)s17 (1) Svä(va)yambhuva (1) Tantraloka 
+Svacchanda (-yamala)s17 (1) Svā(va)yambhuva (1) Tantraloka 
 I/71; III/22, 280; IV/41, 43, 170; V/8, 64, 104, 144, 145, 146, 147, 158, 199, 237, 272; VI/129, 161, 165; VII/68 (11th Ah.); VIII/191; IX/14, 23; XII/371 
 1/42 
 I/40, 84; VI|46, 60; XI/103 1/4, 6, 13-14, 19, 22, 27, 29-30, 34, 53, 54, 55, 62, 71, 74-75, 153, 162, 179, 180, 236, 238, 258, 287, 309; 1/5 (2nd Ah.); II/88, 92, 102, 114, 117-118, 190, 194, 212, 233, 247, 250, 264; III/37, 48, 51, 53-55, 72-73, 126, 131, 138-139, 219- 220, 231, 289, 293, 297, 298, 313, 393, 442-444, 457-458; IV/4, 17, 21-22, 156, 169, 177, 203; IV/49 (7th Ah.), 50; V/19, 22, 188; VI/7, 203, 204; VII/3, 4, 44, 128, 137; VII/68 (11th Ah.); VIII/80, 102, 134, 147, 152, 218; IX/ 
@@ -673,13 +673,13 @@ APPENDIX-13(A)
 Tantralokaviveka16 (A) Tantrabhairavi (A)548 Tantrarāja 
 Tantrarajabhaṭṭāraka (A) 
 (1) Tantrasadbhāva Tatabhairavi (A)s49 Tattvarakṣavidhāna 
-Tattvärthacintamani (A) 
+Tattvārthacintamani (A) 
 Traikalyaparikṣā 
 Traiśirasamata 
 Trikahṛdaya (A) 
 Trikakula 
 Trikasadbhava 
-Trikasära (A) 
+Trikasāra (A) 
 Trikśāsana 
 Trikasūtra 
 125, 246-247; X/111, 178, 199, 211, 256, 330; XI/15, 36-37; XI/19 (29th Āh.), 34, 117, 131, 147, 148; XII/432, 433, 434 XII/434 
@@ -749,7 +749,7 @@ XI/113 (29th Ah.)
 VII/3132 
 VII/3403 
 17. C. Elizabeth has procured MS of this text as well as that of the Unmatta-bhairava Pañcānga and has been awarded doctorate for her excellent work thereon by the University of Paris. 
-18. This is a doubtful reference. If, however, it stands for the Urdhvatantra, our attention is caught by one Urdhvämnāyatantra whose several incomplete MSS have been listed in several collections (5962 at Royal Asiatic Society of Bengal; 923 at Bangiya Sahitya Parisad, Calcutta; 4894 at Raghunatha Temple Library, Jammu; 24719, 24733 and 24779 at S. Sanskrit University, Varanasi). See Tã.Sã. p. 84.APPENDIX-13(A) 
+18. This is a doubtful reference. If, however, it stands for the Urdhvatantra, our attention is caught by one Urdhvāmnāyatantra whose several incomplete MSS have been listed in several collections (5962 at Royal Asiatic Society of Bengal; 923 at Bangiya Sahitya Parisad, Calcutta; 4894 at Raghunatha Temple Library, Jammu; 24719, 24733 and 24779 at S. Sanskrit University, Varanasi). See Tã.Sã. p. 84.APPENDIX-13(A) 
 Uttaphullaka(-mata)19 (A)s51 
 1/42 
 II/42 
@@ -793,7 +793,7 @@ Vidyuman (A)s57
 1/43 
 II/43 
 19. The Tă. Să. refers to certain Utphullikāmata (p. 77). 
-20. Published with Jayaratha's commentary in KSTS captioned as the Vamakaśvarimatavivarana. This is identical with the Vamakeśvaratantra and has two parts, namely-Yoginihṛdaya and Nityaṣoḍaśikärnava. The Yoginihrdaya has been brought out in Prince of Wales, Saraswati Bhawan Series with Amṛtānanda's Dipikā and the Nityaṣoḍaśikārṇava in Anandaśrama Sanskrit Series alongwith Bhaskararaya's Setubandha. The Nityaṣoḍaśikārṇava has been again brought out by S. Sanskrit University, Varanasi together with the R̥juvimarśinī by Sivananda and the Artharatnavali by Vidyananda. B.V. Dvivedi, Varanasi and Andre Padoux, Paris are engaged in bringing out a critical edition of the Yoginihrdaya with Dipika togetherwith its translation 
+20. Published with Jayaratha's commentary in KSTS captioned as the Vamakaśvarimatavivarana. This is identical with the Vamakeśvaratantra and has two parts, namely-Yoginihṛdaya and Nityaṣoḍaśikārnava. The Yoginihrdaya has been brought out in Prince of Wales, Saraswati Bhawan Series with Amṛtānanda's Dipikā and the Nityaṣoḍaśikārṇava in Anandaśrama Sanskrit Series alongwith Bhaskararaya's Setubandha. The Nityaṣoḍaśikārṇava has been again brought out by S. Sanskrit University, Varanasi together with the R̥juvimarśinī by Sivananda and the Artharatnavali by Vidyananda. B.V. Dvivedi, Varanasi and Andre Padoux, Paris are engaged in bringing out a critical edition of the Yoginihrdaya with Dipika togetherwith its translation 
 into French. 
 321 
 322 
@@ -859,7 +859,7 @@ III/751; VII/3347, 3600
 II/70 
 III/1303, 1324 
 (1) Yoga/-śañcara/-sañcāra 
-Yogaśästra (A) 
+Yogaśāstra (A) 
 Yoginikaula 
 Yogiśvarimata 
 Yonyarṇava (A)* 
