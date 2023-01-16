@@ -4,6 +4,8 @@ title = "+rastogi-navajIvana-intro"
 +++
 
 
+Source: [TW](https://archive.org/details/IntroductionToTheTantralokaNavjivanRastogi/page/n589/mode/2up)
+
 INTRODUCTION TO THE TANTRĀLOKA 
 
 A Study in Structure  
