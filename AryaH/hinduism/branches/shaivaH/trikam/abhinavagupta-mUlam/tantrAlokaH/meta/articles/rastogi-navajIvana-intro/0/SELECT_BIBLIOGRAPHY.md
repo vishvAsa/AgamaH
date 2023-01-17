@@ -29,15 +29,15 @@ Shastri, KSTS No. XVIII, 1918.
 
 No. XVII, 1918. 
 
-(vi) Tantraloka, with 'Viveka' by Jayaratha, 12 volumes (Part I ed. by M.R. Shastri and Parts II-XII ed. by M. S. Kaul), KSTS, 1918-1938. (vii) Tantravaṭadhānikā, ed. M. R. Shastri, KSTS 
+(vi) Tantrāloka, with 'Viveka' by Jayaratha, 12 volumes (Part I ed. by M.R. Shastri and Parts II-XII ed. by M. S. Kaul), KSTS, 1918-1938. (vii) Tantravaṭadhānikā, ed. M. R. Shastri, KSTS 
 
 No. XXIV, 1918. 
 
-The Philosophy of the Tantraloka in the First Three Ahnikas with Translation into English, doctoral thesis submitted to the Lucknow University, 1971 (unpublished). (i) Upodghata (Upodghata) to the Luptagama- samgraha, Vol. II, S. Sanskrit University, Varanasi, 1984. 
+The Philosophy of the Tantrāloka in the First Three Ahnikas with Translation into English, doctoral thesis submitted to the Lucknow University, 1971 (unpublished). (i) Upodghata (Upodghata) to the Luptagama- samgraha, Vol. II, S. Sanskrit University, Varanasi, 1984. 
 
 (ii) Upodghata to the Nityaṣoḍaśikārṇava with two commentaries-Ṛjuvimarśinī and Artha- ratnavali, S. Sanskrit University, Varanasi, 1968. 
 
-(i) Luce delle Sacre Scritture (Tantraloka) di Abhinavagupta, translated into Italian with Introduction, Torino, 1972. 
+(i) Luce delle Sacre Scritture (Tantrāloka) di Abhinavagupta, translated into Italian with Introduction, Torino, 1972. 
 
 (ii) Essenza dei Tantra, translation of the Tantrasara with notes in Italian, with a long introduction by R. Gnoli, Torino, 1960. Medieval Religious Literature in Sanskrit (A History of Indian Literature Vol. II), Wiesbaden, 1977. 
 

@@ -3,11 +3,11 @@ title = "1 EXPLORING THE TANTRALOKA"
 
 +++
 
-Strange as it may appear, the Tantraloka happens to be the only major 'original' work of Abhinava while his all other important works[^1-1] come to us in the form of a commentary on some earlier valuable text notwithstanding his own description of the Tantrāloka as a gloss, as we shall see in the sequel. 
+Strange as it may appear, the Tantrāloka happens to be the only major 'original' work of Abhinava while his all other important works[^1-1] come to us in the form of a commentary on some earlier valuable text notwithstanding his own description of the Tantrāloka as a gloss, as we shall see in the sequel. 
 
-## 1 Traditional Approach to the Tantraloka 
+## 1 Traditional Approach to the Tantrāloka 
 
-A peep into and a look around the Tantraloka off- ers many illuminating insights. Towards twelfth century Śivananda, the author of the R̥juvimarśinī, refers to it as the Trika-śāstra[^1-2] or Trika-saraśāstra[^1-3] and the verses cited are traceable to the published edition of the Tantraloka. It, therefore, appears that by that time it came to be regarded as the most representative text of Trika system. Kṣemarāja, the illustrious pupil of Abhinavagupta, talks of two characteristics of the text. One, it was composed in the state of Absolutic trance[^1-4]
+A peep into and a look around the Tantrāloka off- ers many illuminating insights. Towards twelfth century Śivānanda, the author of the R̥juvimarśinī, refers to it as the Trika-śāstra[^1-2] or Trika-saraśāstra[^1-3] and the verses cited are traceable to the published edition of the Tantrāloka. It, therefore, appears that by that time it came to be regarded as the most representative text of Trika system. Kṣemarāja, the illustrious pupil of Abhinavagupta, talks of two characteristics of the text. One, it was composed in the state of Absolutic trance[^1-4]
 
 [^1-1]: Abhinava's other major works include A.Bh. (Comm. on the N.S.), I.P.V (Comm. on I.P.K.), I.P.V.V. (Comm. on the I.P.K.V.) and Locana (Comm. on the Dh. L.). 
 
@@ -21,7 +21,7 @@ A peep into and a look around the Tantraloka off- ers many illuminating insights
 
 INTRODUCTION TO THE TANTRĀLOKA 
 
-and other, it is a key to the secrets of entire agamic literature.[^2-1] In the Tantrasāra, Abhinavagupta invariably describes the Tantraloka as a detailed treatise and asks the author to turn for detailed discussion of the problem to the latter which incorporates all the prescriptive and negative injunctions emanating not only from Vedic but from Saiva, Tantra and Trika sources also.[^2-2] The view has been consistently hammered again and again.[^2-3] According to the Tantrasāra, the Tantraloka was not only a repository of agamic lore but a critical text which minutely recorded even internal and mutual divergences.[^2-4] Thus the image of the Tantrāloka as a single, extra-comprehensive and authoritative source book appears to have been projected by Abhinavagupta himself. The central theme of the Tantraloka, according to Abhinavagupta in his Locana[^2-5], however revolves round the transcendental Absolutic reality called Brahman (i.e. Anuttara).
+and other, it is a key to the secrets of entire agamic literature.[^2-1] In the Tantrasāra, Abhinavagupta invariably describes the Tantrāloka as a detailed treatise and asks the author to turn for detailed discussion of the problem to the latter which incorporates all the prescriptive and negative injunctions emanating not only from Vedic but from Saiva, Tantra and Trika sources also.[^2-2] The view has been consistently hammered again and again.[^2-3] According to the Tantrasāra, the Tantrāloka was not only a repository of agamic lore but a critical text which minutely recorded even internal and mutual divergences.[^2-4] Thus the image of the Tantrāloka as a single, extra-comprehensive and authoritative source book appears to have been projected by Abhinavagupta himself. The central theme of the Tantrāloka, according to Abhinavagupta in his Locana[^2-5], however revolves round the transcendental Absolutic reality called Brahman (i.e. Anuttara).
 
 [^2-1]: यदुक्तमस्मद्गुरुभिः अशेषागमोपनिषद्-आलोके तन्त्रालोके । Ibid., III, p. 268 
 
@@ -57,7 +57,7 @@ EXPLORING THE TANTRĀLOKA
 
 [[3]] 
 
-The prime concern of the Tantraloka was to explain, to unfold and to explore. It therefore assumed the form of a gloss, or a commentary and was therefore termed as the Vartika' (gloss), Śloka-vārtika (versified gloss) and Saḍardhaślokavārtika (versified gloss on Trika system). Possibly in desig- nating the Tantraloka as Vārtika Abhinavagupta was inspired by Katyayana's example in whose case Vārtika is defined as "an explanatory or supplemen- tary rule which explains the meaning of that which is said, of that which is left unsaid, and of that which is imperfectly said." This amply applies to the Tantra- loka as we shall have occasion to see later. Elsewhere in a very significant remark Abhinavagupta describes the Tantraloka as a mix of all the varieties (e.g. brief, regular and large) of glossarial work based on Aga- mas. Thus it is a Vārtika, a Bhāṣya and a Vṛtti all at 
+The prime concern of the Tantrāloka was to explain, to unfold and to explore. It therefore assumed the form of a gloss, or a commentary and was therefore termed as the Vārtika[^3-1] (gloss), Śloka-vārtika (versified gloss) [^3-2] and Ṣaḍardha-ślokavārtika (versified gloss on Trika system) [^3-3]. Possibly in designating the Tantrāloka as Vārtika, Abhinavagupta was inspired by Katyayana's example in whose case Vārtika is defined as "an explanatory or supplementary rule which explains the meaning of that which is said, of that which is left unsaid, and of that which is imperfectly said."[^3-4] This amply applies to the Tantrāloka as we shall have occasion to see later. Elsewhere in a very significant remark Abhinavagupta describes the Tantrāloka as a mix of all the varieties (e.g. brief, regular and large) of glossarial work based on Āgamas. Thus it is a Vārtika, a Bhāṣya and a Vṛtti all at 
 
 I.P.V.V., III, p. 259 
 
@@ -65,7 +65,7 @@ I.P.V.V., III, p. 259
 
 Ibid., pp. 106-7 
 
-2. अन्वर्थं चात्र दर्शितं तन्त्रालोके श्लोकवार्तिके च । The use of 'ca' is very ambiguous and may lead one to conclude that the Tantraloka and Ślokavārtika were two independent texts (vide K.T., p. 159). But in view of the overwhelming collateral textual evidence as produced above and non-discovery of any text by the name of the Ślokavārtika (pertaining to K.S.) so far it seems appropriate to identify the two. My earlier view on this stands modified (vide K.T., p. 159). In such a situation the text is to be construed as under- 
+2. अन्वर्थं चात्र दर्शितं तन्त्रालोके श्लोकवार्तिके च । The use of 'ca' is very ambiguous and may lead one to conclude that the Tantrāloka and Ślokavārtika were two independent texts (vide K.T., p. 159). But in view of the overwhelming collateral textual evidence as produced above and non-discovery of any text by the name of the Ślokavārtika (pertaining to K.S.) so far it seems appropriate to identify the two. My earlier view on this stands modified (vide K.T., p. 159). In such a situation the text is to be construed as under- 
 
 अन्वर्थं चात्र दर्शितं श्लोकवार्तिके तन्त्रालोके च । 
 
@@ -77,13 +77,13 @@ The Student's Sanskrit-English Dictionary, V.S. Apte, Delhi, 1959, p. 503
 
 INTRODUCTION TO THE TANTRĀLOKA 
 
-a time.1 It is perhaps the reason why Abhinava's in- terpretations-cum-explanations on specific issues in the Tantraloka are recalled as testimony. The Tan- trāloka was also known as Tantravaloka. 
+a time.1 It is perhaps the reason why Abhinava's in- terpretations-cum-explanations on specific issues in the Tantrāloka are recalled as testimony. The Tan- trāloka was also known as Tantravaloka. 
 
 (ii) Four motives behind the composition 
 
 (a) SAMGRAHA-GRANTHA 
 
-Abhinavagupta composed the Tantraloka from several angles. Obviously the first and the most strik- ing intention of his is to present a digest of the avail- able tantric literature and lore. Technically, there- fore, the Tantraloka is a compendium (Samgraha-gran- tha)". In creating a compendium Abhinavagupta's primary objective seems to handle not only the Trika material alone in its tantric sources, but the non-Trika material in its agamic sources as well." Abhinava- gupta himself sets at rest all conjectures in this re- gard. His avowed intention is to introduce all the agamic material in its varied sources". Abhinava- gupta has been, therefore, quite appropriately hailed 
+Abhinavagupta composed the Tantrāloka from several angles. Obviously the first and the most strik- ing intention of his is to present a digest of the avail- able tantric literature and lore. Technically, there- fore, the Tantrāloka is a compendium (Samgraha-gran- tha)". In creating a compendium Abhinavagupta's primary objective seems to handle not only the Trika material alone in its tantric sources, but the non-Trika material in its agamic sources as well." Abhinava- gupta himself sets at rest all conjectures in this re- gard. His avowed intention is to introduce all the agamic material in its varied sources". Abhinava- gupta has been, therefore, quite appropriately hailed 
 
 1. अस्माभिस्तु आगमग्रन्थनिष्ठे वार्तिकभाष्यवृत्तिग्रन्थे श्रीतंत्रालोकादी प्रपञ्चो न्यक्षेण दर्शितः । 
 
@@ -121,13 +121,13 @@ EXPLORING THE TANTRALOKA
 
 5 
 
-as Samgrahakāra' and the Tantraloka as the Sam- graha by Jayaratha. 
+as Samgrahakāra' and the Tantrāloka as the Sam- graha by Jayaratha. 
 
 (b) PRAKRIYA OR PADDHATI GRANTHA 
 
-Abhinavagupta's second, but rather more signifi- cant, intention is to produce a Prakriya or Paddhati, perhaps employed as interchangeable terms in the context. Abhinavagupta was perturbed over the fact that there was no Paddhati text in his source-system, i.e. the system of transcendental triad (Anuttara-şada- rdharthakrama), although there were plenty of them in other source systems. In order to overcome this drawback he decided to write the present Prakriyā i.e., Tantraloka, complete in all respects. Abhinava- gupta and Jayaratha both do not give any clue to Abhinavagupta's concept of a Prakriya-grantha, al- though Jayaratha is full of references to Abhinava- gupta's professed aim to undertake a Prakriyāgran- tha. In this context one comes across four observa- tions: 
+Abhinavagupta's second, but rather more signifi- cant, intention is to produce a Prakriya or Paddhati, perhaps employed as interchangeable terms in the context. Abhinavagupta was perturbed over the fact that there was no Paddhati text in his source-system, i.e. the system of transcendental triad (Anuttara-şada- rdharthakrama), although there were plenty of them in other source systems. In order to overcome this drawback he decided to write the present Prakriyā i.e., Tantrāloka, complete in all respects. Abhinava- gupta and Jayaratha both do not give any clue to Abhinavagupta's concept of a Prakriya-grantha, al- though Jayaratha is full of references to Abhinava- gupta's professed aim to undertake a Prakriyāgran- tha. In this context one comes across four observa- tions: 
 
-(i) The Prakriya under reference namely, the Tantraloka, is totally based on the M.V.T;" 
+(i) The Prakriya under reference namely, the Tantrāloka, is totally based on the M.V.T;" 
 
 Jayaratha's introductory observation preceding the above verse is very suggestive- 
 
@@ -181,9 +181,9 @@ kriyā;
 
 (iii) Kula Prakriya is superior of the two;1 and 
 
-both together represent Trikaprakriyā; (iv) A sizable section of the learned scholars sub- scribing to the system but not possessing un- interrupted tradition required a guide in res- pect of the matters they did not know. The Tantraloka's composition as Prakriya was a significant step towards fulfilling this desi- deratum." 
+both together represent Trikaprakriyā; (iv) A sizable section of the learned scholars sub- scribing to the system but not possessing un- interrupted tradition required a guide in res- pect of the matters they did not know. The Tantrāloka's composition as Prakriya was a significant step towards fulfilling this desi- deratum." 
 
-Now let us see what the Tantraloka as a Prakriyā text means. If we compare the T.A. 1.14 and 1.15, we find that Prakriya and Paddhati denote the same thing. Another thing to be noted is that both terms stand for a particular class of books. Naturally the grammarian's usage of Prakriya in the sense of an etymological work does not fit in here. The Vacas- patyam includes among its meanings a chapter or a section (Prakarana) which lays down an order and the Sabdakalpadruma interprets it as a "definite pro- cedure" (Niyatavidhi). Similarly, Paddhati is taken to stand for a treatise that brings out the gist or the 
+Now let us see what the Tantrāloka as a Prakriyā text means. If we compare the T.A. 1.14 and 1.15, we find that Prakriya and Paddhati denote the same thing. Another thing to be noted is that both terms stand for a particular class of books. Naturally the grammarian's usage of Prakriya in the sense of an etymological work does not fit in here. The Vacas- patyam includes among its meanings a chapter or a section (Prakarana) which lays down an order and the Sabdakalpadruma interprets it as a "definite pro- cedure" (Niyatavidhi). Similarly, Paddhati is taken to stand for a treatise that brings out the gist or the 
 
 1. एवं च तन्त्रप्रक्रियोपासन्नगुर्वभिमुखीकरणानन्तरं विश्रान्तिस्थानतया कुलप्रक्रियागुरुमपि उत्कर्षयति । 
 
@@ -277,11 +277,11 @@ EXPLORING THE TANTRALOKA
 
 9 
 
-cher of Somasambhu, the author of the Karmakāṇḍa- kramāvali. Dharmasiva, a teacher of Abhinava-if we go by the authority of Kṣemaraja-also wrote one Paddhati which had the 'indirect initiation' as its central theme and it is which has been referred to by Abhinava, though not by name. These are possi- bly the Paddhatis whose presence led Abhinava to lament the absence of one in his own system. The Siddha-siddhanta-paddhati, the famous text of Natha cult, which is much later, a text full of references to Pratyabhijñā system, similarly seems to be a work in Paddhati tradition. Dwivedi refers to several Pad- dhatis such as the Udayakarapaddhati and Varuna Paddhati and Maheśvarananda in his M.M.P. refers to one Mahanayapaddhati. It may be, therefore, quite logical to conclude that the Tantraloka was a text in Paddhati or Prakriya tradition and was com- posed as a complete manual for the adherents of the Trika way of life. 
+cher of Somasambhu, the author of the Karmakāṇḍa- kramāvali. Dharmasiva, a teacher of Abhinava-if we go by the authority of Kṣemaraja-also wrote one Paddhati which had the 'indirect initiation' as its central theme and it is which has been referred to by Abhinava, though not by name. These are possi- bly the Paddhatis whose presence led Abhinava to lament the absence of one in his own system. The Siddha-siddhanta-paddhati, the famous text of Natha cult, which is much later, a text full of references to Pratyabhijñā system, similarly seems to be a work in Paddhati tradition. Dwivedi refers to several Pad- dhatis such as the Udayakarapaddhati and Varuna Paddhati and Maheśvarananda in his M.M.P. refers to one Mahanayapaddhati. It may be, therefore, quite logical to conclude that the Tantrāloka was a text in Paddhati or Prakriya tradition and was com- posed as a complete manual for the adherents of the Trika way of life. 
 
 (c) SASTRA GRANTHA 
 
-The third intention of Abhinava was to project the Tantraloka as a full-fledged Sastra (scripture) or Sās- ana.' As such it turned out to be a Prakriya Sastra 
+The third intention of Abhinava was to project the Tantrāloka as a full-fledged Sastra (scripture) or Sās- ana.' As such it turned out to be a Prakriya Sastra 
 
 1. For details see Upodghāta, p. 21. Also see 'History of Śaiva Cult in Northern India', B.S. Pathak, Delhi, 1980, pp. 46-50. 
 
@@ -307,7 +307,7 @@ T.A. 1.245
 
 INTRODUCTION TO THE TANTRĀLOKA 
 
-(manualistic scripture), to be precise.' It is why Jaya- ratha frequently remembers Abhinava as Sastrakāra.2 Jayaratha, while summing up the initial sentence (Adivākya i.e., T.A. 1.1 to 1.21) tries to highlight the formal Śastric character of the Tantraloka as under- 
+(manualistic scripture), to be precise.' It is why Jaya- ratha frequently remembers Abhinava as Sastrakāra.2 Jayaratha, while summing up the initial sentence (Adivākya i.e., T.A. 1.1 to 1.21) tries to highlight the formal Śastric character of the Tantrāloka as under- 
 
 (i) T.A. 1.1 to 1.5 - अभिधेयम् = त्रिकार्थः (it is manifold). (ii) T.A. 1.16 to 1.20 - (a) प्रयोजनम् - त्रिकार्थस्य सातिशयत्वम् 
 
@@ -353,9 +353,9 @@ EXPLORING THE TANTRALOKA
 
 (d) STUTI GRANTHA 
 
-The fourth and the final approach consists in Abhi- nava's contemplation of the Tanraloka as a full scale Stuti (prayer hymn). In the concluding part of the initial sentence2 as well as in the ultimate verse3 Abhi- nava leaves no ambiguity about his intention. When- ever he gets an opportunity he grabs the occassion to project the devotional theme of the Tantraloka. In his eyes the entire subject matter of the Tantraloka acquires meaning when it leads one to attain Śiva- hood owing to His grace alone. The Tantraloka out- lines the path and procedure to invoke such divine grace and once it is attained the clouds of nescient doubts disappear and one shines in one's pristine splendour. Such an approach lends credence to the views of many a modern scholar who takes Kashmir Saivism as theology or transcendental theology hop- ing to reach and realize the personalistic Godhead and not as a pure metaphysics concentrating on an 
+The fourth and the final approach consists in Abhi- nava's contemplation of the Tanraloka as a full scale Stuti (prayer hymn). In the concluding part of the initial sentence2 as well as in the ultimate verse3 Abhi- nava leaves no ambiguity about his intention. When- ever he gets an opportunity he grabs the occassion to project the devotional theme of the Tantrāloka. In his eyes the entire subject matter of the Tantrāloka acquires meaning when it leads one to attain Śiva- hood owing to His grace alone. The Tantrāloka out- lines the path and procedure to invoke such divine grace and once it is attained the clouds of nescient doubts disappear and one shines in one's pristine splendour. Such an approach lends credence to the views of many a modern scholar who takes Kashmir Saivism as theology or transcendental theology hop- ing to reach and realize the personalistic Godhead and not as a pure metaphysics concentrating on an 
 
-1. According to Jayaratha Abhinava wants to make it sure that the Tantraloka is a Tantric Scripture and as such must contain veneration to Gaṇeśa and Vaṭuka. 
+1. According to Jayaratha Abhinava wants to make it sure that the Tantrāloka is a Tantric Scripture and as such must contain veneration to Gaṇeśa and Vaṭuka. 
 
 T.A.1.21 
 
@@ -371,17 +371,17 @@ T.A.2.4912
 
 INTRODUCTION TO THE TANTRALOKA 
 
-abstract Absolute. It is only from this deep religious point of view that the Prakriya character of the Tan- trāloka can be more meaningfully explained. Possi- bly this is the significance of this view being vouched in the beginning and in the end (Uparkrama and Upasaṁhāra, to put it traditionally) of the Tantraloka. 
+abstract Absolute. It is only from this deep religious point of view that the Prakriya character of the Tan- trāloka can be more meaningfully explained. Possi- bly this is the significance of this view being vouched in the beginning and in the end (Uparkrama and Upasaṁhāra, to put it traditionally) of the Tantrāloka. 
 
-(iii) Five objectives behind the composition of the Tantraloka 
+(iii) Five objectives behind the composition of the Tantrāloka 
 
 (a-i) ATTAINMENT OF BHAIRAVAHOOD 
 
-After examination of the underlying motives of Abhinava a study of Abhinava's objectives behind his composition of the Tantraloka will be immensely helpful. The fundamental aim is the same as that of his philosophical discipline in general. It is the achie- vement of Bhairavahood i.e., the divination of the mundane. Abhinava proudly declares that one who constantly practises all the tenets of thirtyseven Ah- nikas is oneself transformed into Bhairava, the Abso- lute. If a consistent perusal of 37 chapters leads to one's attainment of essential divinity, it is all the more reason to conclude that the microscopically finite being is capable of attaining cosmic personality. 
+After examination of the underlying motives of Abhinava a study of Abhinava's objectives behind his composition of the Tantrāloka will be immensely helpful. The fundamental aim is the same as that of his philosophical discipline in general. It is the achie- vement of Bhairavahood i.e., the divination of the mundane. Abhinava proudly declares that one who constantly practises all the tenets of thirtyseven Ah- nikas is oneself transformed into Bhairava, the Abso- lute. If a consistent perusal of 37 chapters leads to one's attainment of essential divinity, it is all the more reason to conclude that the microscopically finite being is capable of attaining cosmic personality. 
 
 (a-ii) PROPOUNDING FOURFOLD REDEMTIVE KNOWLEDGE 
 
-Abhinava is never tired of reiterating his preferences. He says that the original commitment of the Tantraloka is to understand the nature of Absolute Awareness2. 
+Abhinava is never tired of reiterating his preferences. He says that the original commitment of the Tantrāloka is to understand the nature of Absolute Awareness2. 
 
 1. इति सप्ताधिकामेनां विशतं यः सदा बुधः । 
 
@@ -401,11 +401,11 @@ EXPLORING THE TANTRĀLOKA
 
 13 
 
-The four varieties of redemptive knowledge, as discus- sed in the Tantraloka, are primarily designed to master both the worldly accomplishment and the spiritual transcendence.1 While making a passing reference in his Locana, as we had occasion to note earlier, Abhinava finds the transcendental Godhead as occupying the central focus of the Tantraloka. It is descent of His 
+The four varieties of redemptive knowledge, as discus- sed in the Tantrāloka, are primarily designed to master both the worldly accomplishment and the spiritual transcendence.1 While making a passing reference in his Locana, as we had occasion to note earlier, Abhinava finds the transcendental Godhead as occupying the central focus of the Tantrāloka. It is descent of His 
 
 3 
 
-grace (Saktipāta) that alone constitutes the driving force for the aspirant's movements and it is why the problems of bondage and emancipation assume a kind of primacy over other issues. Abhinava goes on positing that the basic purpose of the Tantraloka is inculcation of the 'intuitive awareness" (Pratibha - samvitti) which once thoroughly inculcated trans- forms the discursive perspective of mankind into the unitive one. Abhinava (and his commentator Jaya- ratha also) refutes the charge of being arrogant in self-eulogy, as to him it is just a statement of facts." 
+grace (Saktipāta) that alone constitutes the driving force for the aspirant's movements and it is why the problems of bondage and emancipation assume a kind of primacy over other issues. Abhinava goes on positing that the basic purpose of the Tantrāloka is inculcation of the 'intuitive awareness" (Pratibha - samvitti) which once thoroughly inculcated trans- forms the discursive perspective of mankind into the unitive one. Abhinava (and his commentator Jaya- ratha also) refutes the charge of being arrogant in self-eulogy, as to him it is just a statement of facts." 
 
 1. इति ज्ञानचतुष्कं यत्सिद्धिमुक्तिमहोदयम् । 
 
@@ -445,7 +445,7 @@ INTRODUCTION TO THE TANTRĀLOKA
 
 (b) PRESENTING THE ULTIMATE TEXTUAL AUTHORITY 
 
-This brings us to another objective of Abhinava in presenting the Tantraloka as the ultimate textual au- thority. Self-realization is the goal of all spiritual dis- ciplines and the standard effective tool conceived by them is the power of the Godhead. No other text has been able to drive this truth home more than the Tantraloka and the reason for it lay in Abhinava's taking recourse to his own discerning judgement, un- failing sense of right logic, vast command over Saivis- tic scriptures and above all his deep insight into Trika ideology, in that order.' All these combined together lent enormous width and intense depth to Abhinava's treatment. Knowledge in order to earn transcendence has to pass through three successive stages: 
+This brings us to another objective of Abhinava in presenting the Tantrāloka as the ultimate textual au- thority. Self-realization is the goal of all spiritual dis- ciplines and the standard effective tool conceived by them is the power of the Godhead. No other text has been able to drive this truth home more than the Tantrāloka and the reason for it lay in Abhinava's taking recourse to his own discerning judgement, un- failing sense of right logic, vast command over Saivis- tic scriptures and above all his deep insight into Trika ideology, in that order.' All these combined together lent enormous width and intense depth to Abhinava's treatment. Knowledge in order to earn transcendence has to pass through three successive stages: 
 
 (i) it must emanate from a scripture; 
 
@@ -457,7 +457,7 @@ knowledgeable guide; and
 
 experience.2 
 
-Jayaratha throws a veiled hint that Abhinava's intellectual/spiritual equipment very much betrayed such a wholistic framework of mind. Under such circumstances the Tantraloka could not but become the most ideal, complete and reliable textual autho- 
+Jayaratha throws a veiled hint that Abhinava's intellectual/spiritual equipment very much betrayed such a wholistic framework of mind. Under such circumstances the Tantrāloka could not but become the most ideal, complete and reliable textual autho- 
 
 1. इति यज्ज्ञेयसतत्त्वं दर्श्यते तच्छ्विाज्ञया । 
 
@@ -485,7 +485,7 @@ Easy comprehension of the tantric wisdom was the third objective of Abhinava.' I
 
 (d) RESTORATION AND PRESERVATION OF THE TRADITION 
 
-A careful look into the Tantraloka brings out one more objective which is however treated by Abhinava in a low key. His three references, one (Sampradāyo- jjhitaih) in the beginning and two others (Vidam- bitāh and Bhraşte Viddhau") in the middle of the Tantraloka are quite conspicuous by their mention. 
+A careful look into the Tantrāloka brings out one more objective which is however treated by Abhinava in a low key. His three references, one (Sampradāyo- jjhitaih) in the beginning and two others (Vidam- bitāh and Bhraşte Viddhau") in the middle of the Tantrāloka are quite conspicuous by their mention. 
 
 1. संकलय्योच्यते सर्वमधुना सुखसंविदे । 
 
@@ -551,7 +551,7 @@ Motives
 
 (a) DECLARED 
 
-To compose the Tantraloka 
+To compose the Tantrāloka 
 
 (i) as a compendium, 
 

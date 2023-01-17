@@ -350,7 +350,7 @@ Tantra-sadbhava/-śāsana57
 1.245, 286, 334; 36.15; 37.83 31.61 
 20.12; 29.212; 30.59, 99; 31.61 
 28.9 
-Tantraloka 56 
+Tantrāloka 56 
 Tantraguhya 
 Tantrasǎra58 
 Tattvarakṣaṇa 

@@ -3,7 +3,7 @@ title = "3 ABOUT THE COMMENTATOR JAYARATHA"
 
 +++
 
-The illustrious author of the Viveka commentary, Jayaratha, is next to Abhinavagupta alone in impor- tance. He is no ordinary commentator. He reli- giously follows the methodology adopted by his mas- ter and creates a sort of complete independent text which not only expatiates upon the Tantraloka but also supplements, complements and defends as it were. But for the Viveka we would never understand the Tantraloka. An attempt will be made to evaluate and appreciate Jayaratha's contribution in the pages that follow. 
+The illustrious author of the Viveka commentary, Jayaratha, is next to Abhinavagupta alone in impor- tance. He is no ordinary commentator. He reli- giously follows the methodology adopted by his mas- ter and creates a sort of complete independent text which not only expatiates upon the Tantrāloka but also supplements, complements and defends as it were. But for the Viveka we would never understand the Tantrāloka. An attempt will be made to evaluate and appreciate Jayaratha's contribution in the pages that follow. 
 
 Following our usual practice that we adopted in the case of Abhinavagupta, we are supposed to begin with the biodata of Jayaratha on the basis of the mate- rial available in the pages of the Viveka. But since in our Krama Tantricism, Vol. I (pp. 209-215) most of these data have already been used it will be better for the reader to refer to those pages. Here we will reca- pitulate only certain salient features to give a bird's eye view incorporating additional information, if any. 
 
@@ -375,7 +375,7 @@ haps he wanted to compose his Viveka as a touch- stone for evaluation of his sch
 
 STRONGER FORMATIVE INFLUENCE 
 
-Coming to his teachers he mentions four by name who fall into two groups of two each. The first group consisted of Subhata Datta and Srigara and the other of Kalyāņa and Sankhadhara. Jayaratha gratefully acknowledges the deeprooted contribution of the second group in sharpening his academic and spiri- tual calibre. Subhata Datta, being the linear descen- dent in the official tradition, was the natural choice to perform his initiation. He seems to be an older contemporary of Jayaratha because he initiated Jaya- ratha's father also as we have already seen. Subhata Datta wrote a commentary on the Tantraloka for the sake of Śṛngāraratha who acquired substantial command over the Saiva scriptures from him. Jaya- ratha makes it absolutely clear that while Subhaṭa Datta was his father's teacher, he was responsible for Jayaratha's initiation only. Subhata Datta was the son of Tribhuvana Datta and grandson of Viśvadatta. It is this Viśvadatta who is perhaps remembered as 
+Coming to his teachers he mentions four by name who fall into two groups of two each. The first group consisted of Subhata Datta and Srigara and the other of Kalyāņa and Sankhadhara. Jayaratha gratefully acknowledges the deeprooted contribution of the second group in sharpening his academic and spiri- tual calibre. Subhata Datta, being the linear descen- dent in the official tradition, was the natural choice to perform his initiation. He seems to be an older contemporary of Jayaratha because he initiated Jaya- ratha's father also as we have already seen. Subhata Datta wrote a commentary on the Tantrāloka for the sake of Śṛngāraratha who acquired substantial command over the Saiva scriptures from him. Jaya- ratha makes it absolutely clear that while Subhaṭa Datta was his father's teacher, he was responsible for Jayaratha's initiation only. Subhata Datta was the son of Tribhuvana Datta and grandson of Viśvadatta. It is this Viśvadatta who is perhaps remembered as 
 
 1. K.T., pp. 213-215. 
 
@@ -449,7 +449,7 @@ T.A.V., XII, p. 433, verse 36
 
 INTRODUCTION TO THE TANTRĀLOKA 
 
-siderable influence on the making of Jayaratha-as an academician and as a top grade spiritualist both. He is avowedly indebted to Sankhadhara for his pro- ficiency in all the secular sciences1 including the science of grammar, the science of linguistic interpre- tation propounded by Jaimini and all other empirical disciplines. Śankhadhara was perhaps known as Sangadhara (if it is not a scribal aberration) also. He owed his acquisition of all the Saivite learning and insight into Saiva scriptures to Kalyāṇa, who was an embodiment of the divine. In fact Jayaratha's blissful experience flowing from the realization of oneness of Śiva is exclusively due to him, who was instrumental in removing all the dirt and mental fickle- ness. No other teacher except Kalyāņa has claimed reverence from Jayaratha in glowing terms in the opening verses of the Tantralokaviveka where he is likened to an ocean whose drops of compassion made Jayaratha self-realized without the fall of mortal frame and whose sermons were carried out with the 
+siderable influence on the making of Jayaratha-as an academician and as a top grade spiritualist both. He is avowedly indebted to Sankhadhara for his pro- ficiency in all the secular sciences1 including the science of grammar, the science of linguistic interpre- tation propounded by Jaimini and all other empirical disciplines. Śankhadhara was perhaps known as Sangadhara (if it is not a scribal aberration) also. He owed his acquisition of all the Saivite learning and insight into Saiva scriptures to Kalyāṇa, who was an embodiment of the divine. In fact Jayaratha's blissful experience flowing from the realization of oneness of Śiva is exclusively due to him, who was instrumental in removing all the dirt and mental fickle- ness. No other teacher except Kalyāņa has claimed reverence from Jayaratha in glowing terms in the opening verses of the Tantrālokaviveka where he is likened to an ocean whose drops of compassion made Jayaratha self-realized without the fall of mortal frame and whose sermons were carried out with the 
 
 1. । 
 
@@ -481,7 +481,7 @@ ABOUT THE COMMENTATOR
 
 same zeal by the kings, as crowns over their heads.1 
 
-Jayaratha offers a very intimate insight into the matters of his personal teachers. While commenting upon the T.A. 13.3422-blessed is the disciple who gets a teacher perfect in wisdom-Jayaratha cites his own example. Jayaratha considers himself extremely fortunate in having attended on Kalyāṇa and Sankha- dhara who were teachers of perfect knowledge-Kal- yana in Saiva spiritualism of monistic-dualistic charac- ter and Sankhadhara in the secular disciplines of grammar, linguistics and logic. Incidentally our know- ledge is highly deficient in regard to the written con- tribution, if at all, made by his teachers. Jayaratha cites the views of his teacher only thrice in the whole of Viveka-once in connection with the interpretation of the term Mula in the Tantraloka, the second time while stating the reasons behind his opting for the Devyāyāmala's standpoint on Sikhābija in preference to the Trisirobhairava's" and the third time while sub- 
+Jayaratha offers a very intimate insight into the matters of his personal teachers. While commenting upon the T.A. 13.3422-blessed is the disciple who gets a teacher perfect in wisdom-Jayaratha cites his own example. Jayaratha considers himself extremely fortunate in having attended on Kalyāṇa and Sankha- dhara who were teachers of perfect knowledge-Kal- yana in Saiva spiritualism of monistic-dualistic charac- ter and Sankhadhara in the secular disciplines of grammar, linguistics and logic. Incidentally our know- ledge is highly deficient in regard to the written con- tribution, if at all, made by his teachers. Jayaratha cites the views of his teacher only thrice in the whole of Viveka-once in connection with the interpretation of the term Mula in the Tantrāloka, the second time while stating the reasons behind his opting for the Devyāyāmala's standpoint on Sikhābija in preference to the Trisirobhairava's" and the third time while sub- 
 
 1. मूर्व्युत्तंस इव क्ष्मापैः सर्वैर्थस्यानुशासनम् । 
 
@@ -541,7 +541,7 @@ ABOUT THE COMMENTATOR
 
 101 
 
-"blessed" one having smelt the intense fall of divine grace, which automatically meant attainment of perfect knowledge. He was an accomplished Yogin who exercised excellent command over the contem- plation of the movement of breath-respiratory and downward both. ' Free from all doubts he was im- bued with a sense of beatific serenity and his reali- zation of Absolutic harmony induced a feeling of total resignation from mundane affairs. Yet his synthetic personality remains transparent as ever. In the last concluding verse of his Viveka he proudly portrays himself as an encyclopaedic genius spring- ing from a unique blend of empirical and metem- pirical disciplines. Thus he appears to be well-ver- sed in grammar, linguistics, logic, secrets of all Saiva scriptures and none could excel his ingenuity whether it was Trika philosophy or Krama metaphysics. According to the colophon of the Tantraloka, he earned the same title of being a super-teacher in 
+"blessed" one having smelt the intense fall of divine grace, which automatically meant attainment of perfect knowledge. He was an accomplished Yogin who exercised excellent command over the contem- plation of the movement of breath-respiratory and downward both. ' Free from all doubts he was im- bued with a sense of beatific serenity and his reali- zation of Absolutic harmony induced a feeling of total resignation from mundane affairs. Yet his synthetic personality remains transparent as ever. In the last concluding verse of his Viveka he proudly portrays himself as an encyclopaedic genius spring- ing from a unique blend of empirical and metem- pirical disciplines. Thus he appears to be well-ver- sed in grammar, linguistics, logic, secrets of all Saiva scriptures and none could excel his ingenuity whether it was Trika philosophy or Krama metaphysics. According to the colophon of the Tantrāloka, he earned the same title of being a super-teacher in 
 
 1. तीव्रशक्तिपाता घ्रातः पुनः पूर्णज्ञानमेव गुरुमासादयेत् यत्प्रसादादनाया- समेवास्य स्वात्मनो विज्ञानपरिपूण्यं समुदियादित्याह --अत्र चाहमेवोदा- हरणम् । 
 
@@ -563,15 +563,15 @@ Ibid., pp. 434-35, verse 47102
 
 INTRODUCTION TO THE TANTRALOKA 
 
-Maheśvara's cult' as did his master Abhinava. He seems to have enjoyed a fairly long life, as he talks of being quite ripe in age when he completed the remained Tantraloka Viveka. His mission might have abortive had it not received tremendous encouragement from his royal patron Rajaraja alias Jayasimha, whose inspiration proved to be the real instrument behind the writing of the Viveka. 
+Maheśvara's cult' as did his master Abhinava. He seems to have enjoyed a fairly long life, as he talks of being quite ripe in age when he completed the remained Tantrāloka Viveka. His mission might have abortive had it not received tremendous encouragement from his royal patron Rajaraja alias Jayasimha, whose inspiration proved to be the real instrument behind the writing of the Viveka. 
 
-(II) The Tantralokaviveka 
+(II) The Tantrālokaviveka 
 
 a 
 
 (a) AN EXTENSION OF AND SUPPLEMENT TO THE TANTRĀLOKA 
 
-Composition of the Tantralokaviveka was a life- time mission for Jayaratha. He worked assiduously for a major part of his life and the day his mammoth undertaking reached fruition, a feeling of creative joy overtook him. It was the result of a persistent, regular, long-drawn hard work in discovering the essential meaning of Abhinava's magnum opus. The successful completion seems to be the end result of his exploiting all the existing source material. In this sense the Tantralokaviveka is not just a commen- tary, it is the continued extension of the Tantraloka. 
+Composition of the Tantrālokaviveka was a life- time mission for Jayaratha. He worked assiduously for a major part of his life and the day his mammoth undertaking reached fruition, a feeling of creative joy overtook him. It was the result of a persistent, regular, long-drawn hard work in discovering the essential meaning of Abhinava's magnum opus. The successful completion seems to be the end result of his exploiting all the existing source material. In this sense the Tantrālokaviveka is not just a commen- tary, it is the continued extension of the Tantrāloka. 
 
 1. कृतिः श्रीराजानकमहामाहेश्वराचार्यजयरथस्य ॥ 
 
@@ -599,7 +599,7 @@ ABOUT THE COMMENTATOR
 
 103 
 
-At every step he is aware of the complexity and mas- siveness of the project because it demanded close familiarity with practically all sources of knowledge and highlighted one's apparent difficulty in treading the impassable jungle of Saivite discipline made all the more impervious by the perplexity in bringing out real intent of the scriptures belonging to the con- flicting source-bases.1 He, therefore, owns up full responsibility for all the failings that might have crept in and humbly craves for indulgence from the sympathetic readers. Among his immediate support- ing sources, it appears, were certain commentaries. One such commentary was Vivarana, authored by his family preceptor Subhața Datta, which however seems to have cast little impact on him despite the fact that it greatly enlightened Jayaratha's father. In the Tantraloka he is invariably guided by his teacher Kalyāṇa, and not Subhata Datta. Perhaps, another commentary was Unmeșa by an unknown author3 whose views were ignored by Jayaratha. In any case there were several, numerous one may add, interpreta- 
+At every step he is aware of the complexity and mas- siveness of the project because it demanded close familiarity with practically all sources of knowledge and highlighted one's apparent difficulty in treading the impassable jungle of Saivite discipline made all the more impervious by the perplexity in bringing out real intent of the scriptures belonging to the con- flicting source-bases.1 He, therefore, owns up full responsibility for all the failings that might have crept in and humbly craves for indulgence from the sympathetic readers. Among his immediate support- ing sources, it appears, were certain commentaries. One such commentary was Vivarana, authored by his family preceptor Subhața Datta, which however seems to have cast little impact on him despite the fact that it greatly enlightened Jayaratha's father. In the Tantrāloka he is invariably guided by his teacher Kalyāṇa, and not Subhata Datta. Perhaps, another commentary was Unmeșa by an unknown author3 whose views were ignored by Jayaratha. In any case there were several, numerous one may add, interpreta- 
 
 1. विद्यास्थानैरशेवैरपि परिचयतो दुर्गमे शैवशास्त्रे 
 
@@ -701,7 +701,7 @@ the title lines1 as well as the colophons2 it is remem- bered as the Prakāśa (
 
 (i) Attainment of the Godhead 
 
-The basic aim of Jayaratha in attempting a gloss on the Tantraloka is the same as Abhinava's-to in- culcate intellectual framework necessary for attain- ment of the Godhead or Self-Absolute," yet he does not unnecessarily drag on with this. Unlike Abhinava, who is out to secure divine grace for all creatures, Jayaratha would be content if his attempt succeeds in enlightening just one man. In fact, he prefers to remain self-confined and dedicates, like his glorious master, his work as an offering to the Godhead." 
+The basic aim of Jayaratha in attempting a gloss on the Tantrāloka is the same as Abhinava's-to in- culcate intellectual framework necessary for attain- ment of the Godhead or Self-Absolute," yet he does not unnecessarily drag on with this. Unlike Abhinava, who is out to secure divine grace for all creatures, Jayaratha would be content if his attempt succeeds in enlightening just one man. In fact, he prefers to remain self-confined and dedicates, like his glorious master, his work as an offering to the Godhead." 
 
 1. अथ श्रीतन्त्रालोकस्य श्रीमन्महामाहेश्वराचार्याभिनवगुप्तपादविरचितस्य 
 
@@ -731,7 +731,7 @@ ABOUT THE COMMENTATOR
 
 (ii) Resurrection of tradition and 
 
-(iii) Restoration and preservation of the Tantraloka 
+(iii) Restoration and preservation of the Tantrāloka 
 
 107 
 
@@ -913,7 +913,7 @@ it is viewed as subject or knower. Jayaratha finds both of these anomalies resol
 
 (iv) Furnishing chronological continuity 
 
-As a part of his ardent responsibility Jayaratha, as we have pointed out earlier also, has worked hard on chronological accounts of the preceptorial line- ages and has always abided by the preceptorial au- thority. Jayaratha himself recognizes this to be his prime contribution in the Viveka. In his Vāmakes- varimatavivaraṇa he emphatically avers that those who have interpreted or referred to the Tantraloka without having access to the teacher and for that matter uninterrupted tradition have only lent them- selves to great ridicule. In fact his account of Krama and Kula histories and several other important au- thors on Kashmir Saivism is invaluable. For ins- tance Niskriyānandanātha, Vidyānanda, Saktyā- nanda, Śivananda and his three female disciples, 
+As a part of his ardent responsibility Jayaratha, as we have pointed out earlier also, has worked hard on chronological accounts of the preceptorial line- ages and has always abided by the preceptorial au- thority. Jayaratha himself recognizes this to be his prime contribution in the Viveka. In his Vāmakes- varimatavivaraṇa he emphatically avers that those who have interpreted or referred to the Tantraloka without having access to the teacher and for that matter uninterrupted tradition have only lent them- selves to great ridicule. In fact his account of Krama and Kula histories and several other important au- thors on Kashmir Saivism is invaluable. For ins- tance Niskriyānandanātha, Vidyānanda, Saktyā- nanda, Śivānanda and his three female disciples, 
 
 1. यावता हि एकस्यैव षट्त्रिंशस्य तत्त्वस्य मायाप्रमानपेक्षया विश्वोत्तीर्ण- त्वेऽपि विश्वमयत्वं प्रमातृत्वेऽपि प्रमेयत्वं च कथं नाम संगच्छताम् तच्चोभय- मपि सप्तत्रिंशाष्टात्रिंशयोरेवोपकल्पनेनोपशाम्यति, द्वयोरपि भिन्नविषयत्वेनैव कृतार्थत्वस्योक्तत्वात् । 
 

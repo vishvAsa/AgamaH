@@ -29,7 +29,7 @@ XII/308
 V/83 
 VII/3598 
 IV/1433 
-* The list does not take into account those unidentified references in Jayaratha which have been traced or identified by the editor of the KSTS edition. It also excludes two other types of references-one, which are from the Tantraloka and are cited with the note "Vakṣyati" or "Vakṣyamaṇanityā" or some such similar expression and two, which are connected with certain previously quoted/named text and are covered by the remark "Yaduktam tatra' or 'Tatraiva'. 
+* The list does not take into account those unidentified references in Jayaratha which have been traced or identified by the editor of the KSTS edition. It also excludes two other types of references-one, which are from the Tantrāloka and are cited with the note "Vakṣyati" or "Vakṣyamaṇanityā" or some such similar expression and two, which are connected with certain previously quoted/named text and are covered by the remark "Yaduktam tatra' or 'Tatraiva'. 
 II/154 
 II/506 
 III/147 

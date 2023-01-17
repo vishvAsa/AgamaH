@@ -49,7 +49,7 @@ Natya Sastra
 
 Nitya-ṣoḍaśikārṇava (-tantra) 
 
-The Philosophy of the Tantraloka in the First Three Ahnikas with Translation into 
+The Philosophy of the Tantrāloka in the First Three Ahnikas with Translation into 
 
 English 
 
@@ -83,9 +83,9 @@ ABBREVIATIONS
 
 Svaccanda-tantra-uddyota 
 
-Tantraloka 
+Tantrāloka 
 
-Tantraloka-viveka 
+Tantrāloka-viveka 
 
 Tantra-sāra 
 

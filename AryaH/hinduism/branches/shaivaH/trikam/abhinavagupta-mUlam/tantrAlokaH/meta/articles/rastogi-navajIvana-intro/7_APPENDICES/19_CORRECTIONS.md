@@ -62,7 +62,7 @@ XII, p. 430
 p. 431 
 94 
 15-16 
-Tantraloka 
+Tantrāloka 
 101 
 2 
 1 
@@ -86,7 +86,7 @@ X, pp. 56-57
 T.A.V., XI Verse 9 
 XII, p. 432 
 Śṛngāraratha 
-Tantraloka-viveka 
+Tantrāloka-viveka 
 IV, p. 203 
 one hand, he 
 Trtiyam or 

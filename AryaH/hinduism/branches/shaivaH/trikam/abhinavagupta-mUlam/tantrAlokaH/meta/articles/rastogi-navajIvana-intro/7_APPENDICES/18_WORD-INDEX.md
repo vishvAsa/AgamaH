@@ -785,7 +785,7 @@ Tantra 2, 8, 65, 127, 249, 250-
 Tantrāsadbhava 52 
 Tantrasara (TS) 42, 61, 62, 
 84, 128, 246, 247. 
-Tantraloka Throughout Tantralokaviveka Throughout Tantrarāja Bhaṭṭāraka 112 Tantravaloka 4 
+Tantrāloka Throughout Tantrālokaviveka Throughout Tantrarāja Bhaṭṭāraka 112 Tantravaloka 4 
 Tantravaṭadhānikā (TVD) 246 
 570 
 Tantric 

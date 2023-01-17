@@ -19,7 +19,7 @@ Chapter One: EXPLORING THE TANTRALOKA
 
 (1-17) 
 
-I. Traditional Approach to the Tantraloka 
+I. Traditional Approach to the Tantrāloka 
 
 1-4 
 

@@ -3,21 +3,21 @@ title = "PREFATORY NOTE"
 
 +++
 
-When I accepted the proposal of the publishers to contribute an introduction to the Tantraloka some time back, I welcomed the opportunity to reacquaint myself with the most towering personality of the medieval India. But, when face to face with the text, I could easily gather that it was a sheer case of overestimation of my capacities. In addition to other failings I was confronted with one very serious handi- cap. I did not know Italian into which R. Gnoli translated the Tantraloka.* This has remained a cons- tant drawback. Shortage of time was another major 
+When I accepted the proposal of the publishers to contribute an introduction to the Tantrāloka some time back, I welcomed the opportunity to reacquaint myself with the most towering personality of the medieval India. But, when face to face with the text, I could easily gather that it was a sheer case of overestimation of my capacities. In addition to other failings I was confronted with one very serious handi- cap. I did not know Italian into which R. Gnoli translated the Tantrāloka.* This has remained a cons- tant drawback. Shortage of time was another major 
 
 * I am extremely thankful to Prof. Harvey P. Alper of the South- ern Methodist University, Dallas, Texas who very kindly provi- ded an English rendering of the table of contents from Gnoli's translation. I reproduce below the relevant portion of Prof. Alper's letter of the 15th July, 1983 verbatim- 
 
 "The most important thing to note about the introduction to the TA is that the vast bulk of it is drawn virtually verbatim from the earlier and longer introduction to the TS! Below I provide a table in which the left hand column lists the sub-sec- tions of the TA Introduction, the middle column lists the pages in Gnoli's translation where they appear, while the third column lists the pages from the Introduction to the TS from which they have been taken. Frankly I don't think that this speaks very well of Gnoli: did he have nothing new to say? does he really think that the TA is identical in all respects to the TS-in spite of the vast difference in length? 
 
-The bibliographical information on the TA translation is: Luce delle Sacre Scritture (Tantraloka) di Abhinavagupta (Classici delle religioni, sezione prima: le religions orientali) Torino: Unione Tipografico-editrice torinese, 1972. 
+The bibliographical information on the TA translation is: Luce delle Sacre Scritture (Tantrāloka) di Abhinavagupta (Classici delle religioni, sezione prima: le religions orientali) Torino: Unione Tipografico-editrice torinese, 1972. 
 
 viii 
 
 PREFATORY NOTE 
 
-handicap. As the Tantraloka is the magnum opus of Abhinavagupta, one of the greatest Indian encyclo- paedic thinkers of all times, all that I have been able to do is to touch the outer fringe alone of his great contribution. 
+handicap. As the Tantrāloka is the magnum opus of Abhinavagupta, one of the greatest Indian encyclo- paedic thinkers of all times, all that I have been able to do is to touch the outer fringe alone of his great contribution. 
 
-The Tantraloka is both an inspiration and a chal- lenge for the students of the tantric lore. It is an indispensable guide and no study on tantra should 
+The Tantrāloka is both an inspiration and a chal- lenge for the students of the tantric lore. It is an indispensable guide and no study on tantra should 
 
 1. The Saivite Scriptures 
 
@@ -131,7 +131,7 @@ PREFATORY NOTE
 
 ix 
 
-be deemed complete if it does not take the Tantra- loka into account. Written on very scientific prin- ciples it offers a most uptodate (of course till his period), extremely comprehensive and truly system- atic account of the tantric material and thereby offers a model for modern research. It also constitutes the most important single source of authentic tantric information and material. It poses an enormous chal- lenge when it comes to identify the sources cited and decide on their precise whereabouts and the issues involved. A detailed and critical study of the Tantra- loka is, therefore, desperately needed for which this Introduction cannot even be a poor substitute. However, being guided by Abhinava's own maxim1 that each small step forward brings us nearer the goal, an humble attempt is contemplated in the following pages. At the moment, besides Gnoli, there is only one study that addresses itself to the study of the Tantraloka proper. Since this study is limited to first three Āhnikas and does not examine other aspects than the philosophical, most of the Tantraloka re- mains practically unexplored. There are three other 
+be deemed complete if it does not take the Tantra- loka into account. Written on very scientific prin- ciples it offers a most uptodate (of course till his period), extremely comprehensive and truly system- atic account of the tantric material and thereby offers a model for modern research. It also constitutes the most important single source of authentic tantric information and material. It poses an enormous chal- lenge when it comes to identify the sources cited and decide on their precise whereabouts and the issues involved. A detailed and critical study of the Tantra- loka is, therefore, desperately needed for which this Introduction cannot even be a poor substitute. However, being guided by Abhinava's own maxim1 that each small step forward brings us nearer the goal, an humble attempt is contemplated in the following pages. At the moment, besides Gnoli, there is only one study that addresses itself to the study of the Tantrāloka proper. Since this study is limited to first three Āhnikas and does not examine other aspects than the philosophical, most of the Tantrāloka re- mains practically unexplored. There are three other 
 
 1. ऊर्ध्वोर्ध्वमारुह्य यदर्थतत्त्वं धीः पश्यति श्रान्तिमवेदयन्ती । 
 
@@ -141,13 +141,13 @@ be deemed complete if it does not take the Tantra- loka into account. Written on
 
 Abhinavabhārati on N.S. 6.31 
 
-2. The Philosophy of the Tantraloka in the First Three Ahnikas with translation into English, by Ira Bajpai, thesis submitted to the Lucknow University for Ph. D. Degree in 1971 (unpub- lished). 
+2. The Philosophy of the Tantrāloka in the First Three Ahnikas with translation into English, by Ira Bajpai, thesis submitted to the Lucknow University for Ph. D. Degree in 1971 (unpub- lished). 
 
 X 
 
 PREFATORY NOTE 
 
-studies' which merit special mention here. Pandey and myself have constantly dwelt on the Tantrāloka, but the whole exercise becomes of secondary impor- tance because it is Abhinavagupta or Krama system, as the case may be, that is being studied and not the Tantraloka and as such, only the relevant material is being referred to. For example, Pandey's mainstay are the 1st to 5th and 29th Ahnikas, while mine are the 1st, 4th, 13th and 30th. Goudriaan's obser- vations are important, but he takes up the Tantraloka for a very brief treatment. Recently a major work that has come to our notice is the Upodghata (Sans- krit introduction to the Luptagamasamgraha by B.V. Dwivedi). It comes as an appendix to the first two volumes of the Luptagamasamgraha which are the compilation of citations from the Agamas in various sources and has assumed the form of an introduction to the 2nd Volume. The Upodghata deals, inter alia, with the citations in the Tantraloka and the Tantra- lokaviveka. In the first part Dwivedi's perspective is 
+studies' which merit special mention here. Pandey and myself have constantly dwelt on the Tantrāloka, but the whole exercise becomes of secondary impor- tance because it is Abhinavagupta or Krama system, as the case may be, that is being studied and not the Tantrāloka and as such, only the relevant material is being referred to. For example, Pandey's mainstay are the 1st to 5th and 29th Ahnikas, while mine are the 1st, 4th, 13th and 30th. Goudriaan's obser- vations are important, but he takes up the Tantrāloka for a very brief treatment. Recently a major work that has come to our notice is the Upodghata (Sans- krit introduction to the Luptagamasamgraha by B.V. Dwivedi). It comes as an appendix to the first two volumes of the Luptagamasamgraha which are the compilation of citations from the Agamas in various sources and has assumed the form of an introduction to the 2nd Volume. The Upodghata deals, inter alia, with the citations in the Tantrāloka and the Tantra- lokaviveka. In the first part Dwivedi's perspective is 
 
 1. (i) K.C. Pandey 
 
@@ -173,17 +173,17 @@ PREFATORY NOTE
 
 xi 
 
-primarily historical while in the 2nd he deals with the doctrinal/theoretical issues in a wider tantric frame- work. Although the Tantraloka is not Dwivedi's im- mediate problem, his study throws sufficient light on many aspects particularly the historical one. We shall have occasion to refer to these works as and when necessary. 
+primarily historical while in the 2nd he deals with the doctrinal/theoretical issues in a wider tantric frame- work. Although the Tantrāloka is not Dwivedi's im- mediate problem, his study throws sufficient light on many aspects particularly the historical one. We shall have occasion to refer to these works as and when necessary. 
 
-In this Introduction an attempt is made only to introduce the principal work. It should be treated as an elementary study of some of the material which appeared to me more important to begin with. I have taken special precaution to confine myself to the con- tents of the Tantraloka proper and allow the conclu- sions emerge on their own. How far I have succeeded in my efforts, it is for the scholars to judge. 
+In this Introduction an attempt is made only to introduce the principal work. It should be treated as an elementary study of some of the material which appeared to me more important to begin with. I have taken special precaution to confine myself to the con- tents of the Tantrāloka proper and allow the conclu- sions emerge on their own. How far I have succeeded in my efforts, it is for the scholars to judge. 
 
-The following pages that comprise the Introduc- tion actually constitute the Volume One of the ambitious eight-volume reproduction of the KSTS edition by the present publishers in a much enlarged form. During the course of printing it was felt by them that the Introduction, if published separately in the form of a book, might serve the needs of common readers better who otherwise would not immediately require the text or are already possessed of the original KSTS text. As the idea sounded reasonable, the Volume One is simultaneously being brought out as an independendent work. I had a keen desire to add one more chapter on the basic/agamic sources of the Tantraloka in the present volume, but the idea had to be abandoned for reasons of time and space. A monograph, to be published shortly, will take care of this desire. The present volume, nevertheless, incor- porates a detailed Kārika-wise table of contents in Sanskrit as Appendix 17 which has been divided 
+The following pages that comprise the Introduc- tion actually constitute the Volume One of the ambitious eight-volume reproduction of the KSTS edition by the present publishers in a much enlarged form. During the course of printing it was felt by them that the Introduction, if published separately in the form of a book, might serve the needs of common readers better who otherwise would not immediately require the text or are already possessed of the original KSTS text. As the idea sounded reasonable, the Volume One is simultaneously being brought out as an independendent work. I had a keen desire to add one more chapter on the basic/agamic sources of the Tantrāloka in the present volume, but the idea had to be abandoned for reasons of time and space. A monograph, to be published shortly, will take care of this desire. The present volume, nevertheless, incor- porates a detailed Kārika-wise table of contents in Sanskrit as Appendix 17 which has been divided 
 
 xii 
 
 PREFATORY NOTE 
 
-volume-wise in the reprinted edition of the Tantraloka 
+volume-wise in the reprinted edition of the Tantrāloka 
 
 text. 
 
@@ -195,7 +195,7 @@ In the absence of a critically edited text (the editors of the enlarged reprinte
 
 PREFATORY NOTE 
 
-volume-wise in the reprinted edition of the Tantraloka 
+volume-wise in the reprinted edition of the Tantrāloka 
 
 text. 
 
@@ -217,7 +217,7 @@ xiv
 
 PREFATORY NOTE 
 
-tion to the study of the Tantraloka, instead of being an introduction to the text itself. In sum, the present endeavour has crystalized into a sort of more or less structural analysis and a groundwork, as it were, for more intensive future investigation in this area. 
+tion to the study of the Tantrāloka, instead of being an introduction to the text itself. In sum, the present endeavour has crystalized into a sort of more or less structural analysis and a groundwork, as it were, for more intensive future investigation in this area. 
 
 Before I wind up I must take this opportunity to thank Jain brothers (M/s. N.P. & J.P.), directors of M/s Motilal Banarsidass, for affording me an opportunity to pay once again my tribute to the all-time genius called Abhinavagupta and study a little bit of his magnum opus. I am deeply indebted to Prof. Braj Vallabha Dwivedi, the retired Head, Yoga & Tantra Department, Sampurnanand Sanskrit University, who was extremely generous in sending the proof-copy of his Upodghata to the Luptāgama- samgraha. I am also thankful to him for discussing the proposed format and scope of the Introduction, although I am guilty of not using some of his suggestions with regard to the discussion on philoso- phical/doctrinal matters. My reasons for eschewing philosophical issues are simple. Something must be said over and above what has already been said by Pandey and other learned scholars. With the limited amount of time at my command it was not possible to make such a deep study as is demanded by philosophical and theoretical issues. I am indeed beholden to Thakur Jaidev Singh, a great authority of our times on Kashmir Saivism, for offering his valuable suggestions about the proposed direction and contents of the Introduction. Prof. H. P. Alper of the Southern Methodist University, USA has put me under a dept by discussing the proposed format and agenda of the Introduction and for finding time 
 
@@ -233,7 +233,7 @@ xvi
 
 PREFATORY NOTE 
 
-before the discerning judgement of the scholars for what it is worth with a citation from the Tantraloka itself: 
+before the discerning judgement of the scholars for what it is worth with a citation from the Tantrāloka itself: 
 
 अध्युष्टसंततिस्रोतःसारभूतसाहृतिम् । 
 

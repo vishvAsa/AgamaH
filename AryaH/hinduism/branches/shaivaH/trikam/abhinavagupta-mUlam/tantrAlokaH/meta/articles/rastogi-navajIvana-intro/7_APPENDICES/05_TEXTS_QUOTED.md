@@ -189,7 +189,7 @@ Svacchanda/-śāsana/-śāstra/-
 tantra 
 Svayambhuva 
 Tantrasadbhava/-śāsana 
-Tantraloka 
+Tantrāloka 
 Trikakula 
 Trika-sasana 
 Trikasara 

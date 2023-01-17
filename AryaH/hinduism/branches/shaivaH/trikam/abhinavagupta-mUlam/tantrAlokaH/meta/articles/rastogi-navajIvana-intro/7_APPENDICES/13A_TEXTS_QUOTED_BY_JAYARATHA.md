@@ -661,7 +661,7 @@ Svacchanda (-bhairava) (A)846 1/42
 318 
 INTRODUCTION TO THE TANTRĀLOKA 
 (1) Svacchanda/-śăstra 
-Svacchanda (-yamala)s17 (1) Svā(va)yambhuva (1) Tantraloka 
+Svacchanda (-yamala)s17 (1) Svā(va)yambhuva (1) Tantrāloka 
 I/71; III/22, 280; IV/41, 43, 170; V/8, 64, 104, 144, 145, 146, 147, 158, 199, 237, 272; VI/129, 161, 165; VII/68 (11th Ah.); VIII/191; IX/14, 23; XII/371 
 1/42 
 I/40, 84; VI|46, 60; XI/103 1/4, 6, 13-14, 19, 22, 27, 29-30, 34, 53, 54, 55, 62, 71, 74-75, 153, 162, 179, 180, 236, 238, 258, 287, 309; 1/5 (2nd Ah.); II/88, 92, 102, 114, 117-118, 190, 194, 212, 233, 247, 250, 264; III/37, 48, 51, 53-55, 72-73, 126, 131, 138-139, 219- 220, 231, 289, 293, 297, 298, 313, 393, 442-444, 457-458; IV/4, 17, 21-22, 156, 169, 177, 203; IV/49 (7th Ah.), 50; V/19, 22, 188; VI/7, 203, 204; VII/3, 4, 44, 128, 137; VII/68 (11th Ah.); VIII/80, 102, 134, 147, 152, 218; IX/ 
@@ -670,7 +670,7 @@ II/42
 II/40, 84; IV/1680, 1694; VII/3209 II/4, 6, 13-14, 19, 22, 27, 29-30, 34, 53, 54, 55, 62, 71, 74-75, 153, 162, 179, 180, 236, 238, 258, 287, 309, 315, 440, 444, 454, 466, 469-470, 542, 546, 564, 585, 599, 602, 616; III/653, 664, 667, 669-671, 688-689, 742, 747, 754-755, 835-836, 847, 905, 909, 913, 914, 929, 1009, 1058-1060, 1073-1074, 1092, 1105, 1109-1110, 1244, 1257, 1265, 1291, 1341, 1342; IV/1369, 1372, 1538, 1641, 1837, 1838; V/1887, 1888, 1928, 2012, 2021, 2160, 2280, 2302, 2334, 2347, 2352, 2418; VI/2565 2686-2687, 2837, 2904, 2925, 2937, 2982, 3056; VII/3121, 3142-3143, 3309, 3324, 3407, 3421,3437, 3438; VIII/3722, 3723, 3724 
 APPENDIX-13(A) 
 319 
-Tantralokaviveka16 (A) Tantrabhairavi (A)548 Tantrarāja 
+Tantrālokaviveka16 (A) Tantrabhairavi (A)548 Tantrarāja 
 Tantrarajabhaṭṭāraka (A) 
 (1) Tantrasadbhāva Tatabhairavi (A)s49 Tattvarakṣavidhāna 
 Tattvārthacintamani (A) 
@@ -843,7 +843,7 @@ VI/3018
 21. Published in KSTS with the commentaries of Kşemaraja (partly) and Sivopadhyaya in one volume and with that of Bhaṭṭa Ananda in an other volume, bound in one. Later published by L. Silburn under the title Le Vijñāna Bhairava, text and commentary translated into French under the Institute of Indian Civilization Series. Text with English translation by Jaidev Singh and Hindi/Sanskrit Commentaries by B.V. Dvivedi both published by Motilal Banarsidass. 
 22. T. Goudriaan has recently brought out a critical edition and English translation under the title Viņāsikhā- tantra: A Saiva Tantra Of The Left Current (Delhi, 1985). 
 23. Two MSS are listed in the catalogue of the Palace Library of Tanjore (650A, 651B). The Tă. Să. lists some MSS with the jyotsna commentary (p. 60). 
-- (Tantraloka-) 
+- (Tantrāloka-) 
 III/471; XII/433 
 Vivrtti 
 1/32 
