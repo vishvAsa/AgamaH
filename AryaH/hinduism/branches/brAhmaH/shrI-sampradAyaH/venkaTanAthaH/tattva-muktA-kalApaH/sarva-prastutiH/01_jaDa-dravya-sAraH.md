@@ -30,8 +30,10 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रज्ञासूच्याऽनुविद्धः क्षतिमनधिगतः कर्कशात्तर्कशाणाच्छुद्धो नानापरीक्षास्वशिथिलविहिते मानसूत्रे निबद्धः ।  
-आतन्वानः प्रकाशं बहुमुखमखिलत्रासवैधुर्यधुर्यो धार्यो हेतुर्जयादेः स्वहृदि सहृदयैस्तत्त्वमुक्ताकलापः ॥ ३ ॥
+प्रज्ञा-सूच्याऽनुविद्धः, क्षतिम् अनधिगतः, कर्कशात् तर्क-शाणाच्  
+छुद्धो नाना-परीक्षास्व् अ-शिथिल-विहिते मान-सूत्रे निबद्धः ।  
+आतन्वानः प्रकाशं बहु-मुखम् अखिल-त्रास-वैधुर्य-धुर्यो  
+**धार्यो** हेतुर् जयादेः स्व-हृदि स-हृदयैस् **तत्त्वमुक्ताकलापः** ॥ ३ ॥
 </details>
 
 <div class="js_include " url="/AgamaH/AryaH/hinduism/branches/brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/01_jaDa-dravya-sAraH/003_prajnAsUchyA-nuviddhaH_xatimanadhigataH.md"  newLevelForH1="3" includeTitle="true"  > </div>
@@ -39,8 +41,10 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शिष्टा जीवेशतत्त्वप्रमितियुतपरोपासना मुक्तिहेतुः शक्यस्तत्तत्प्रकारावगतिविरहिभिर्नैव याथात्म्यबोधः ।  
-ते ते चार्था विदध्युः कुमतिविरचितास्तत्त्वबोधोपरोधं तस्मान्निर्धूतसर्वप्रतिमतविमतिं साधये सर्वमर्थम् ॥ ४ ॥
+शिष्टा जीवेश-तत्त्व-प्रमिति-युत-परोपासना मुक्ति-हेतुः  
+शक्यस् तत्-तत्-प्रकारावगति-विरहिभिर् नैव याथात्म्य-बोधः ।  
+ते ते चार्था विदध्युः कुमति-विरचितास् तत्त्व-बोधोपरोधं  
+तस्मान् निर्धूत-सर्व-प्रतिमत-विमतिं साधये सर्वम् अर्थम् ॥ ४ ॥
 </details>
 
 <div class="js_include " url="/AgamaH/AryaH/hinduism/branches/brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/01_jaDa-dravya-sAraH/004_shiShTA_jIveshatattvapramitiyutaparopAsanA.md"  newLevelForH1="3" includeTitle="true"  > </div>
