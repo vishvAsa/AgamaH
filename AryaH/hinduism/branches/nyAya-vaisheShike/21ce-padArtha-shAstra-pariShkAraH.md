@@ -291,7 +291,8 @@ Eg. Forces mediated by particle exchange - [SE](https://physics.stackexchange.co
 यथा - सुषुप्तौ परिसरय् उत्पादितैः शब्द-गन्धादिभिः जागृद्-अवस्थाप्त-स्मृति-विशेष-स्थिरी-करणं प्रत्यक्षसिद्धम् ([MNT](https://www.medicalnewstoday.com/articles/smell-helps-the-brain-form-memories-during-sleep#Sleep-and-memory))।
 </details>
 
-विकल्पानाम् उद्गमे ऽपि निर्विकल्पं चेत, एव कारणम्, तत्र सहकरोति च। यथा - 
+विकल्पानाम् उद्गमे ऽपि निर्विकल्पं चेत
+एव कारणम्, तत्र सहकरोति च। यथा - 
 
 - अग्रिम-विकल्प-विषय-निश्चये।
 - "रामसिंहो नामेदं बाह्यं वस्त्व्" इति प्रत्यये।
