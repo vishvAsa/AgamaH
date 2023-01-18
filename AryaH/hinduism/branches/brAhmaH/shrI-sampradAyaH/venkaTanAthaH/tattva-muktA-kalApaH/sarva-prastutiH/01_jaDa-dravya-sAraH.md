@@ -19,8 +19,10 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नानासिद्धान्तनीतिश्रमविमलधियोऽनन्तसूरेस्तनूजो वैश्वामित्रस्य पौत्रो विततमखविधेः पुण्डरीकाक्षसूरेः ।  
-श्रुत्वा रामानुजार्यात्सदसदपि ततस्तत्त्वमुक्ताकलापं व्यातानीद्वेङ्कटेशो वरदगुरुकृपालम्भितोद्दामभूमा ॥ २ ॥
+नाना-सिद्धान्त-नीति-श्रम-विमल-धियो ऽनन्त-सूरेस् तनूजो  
+वैश्वामित्रस्य पौत्रो वितत-मख-विधेः पुण्डरीकाक्ष-सूरेः ।  
+**श्रुत्वा** रामानुजार्यात् सद्, असद् अपि ततस्,, तत्त्व-मुक्ता-कलापं   
+**व्यातानीद् वेङ्कटेशो** वरद-गुरु-कृपालम्भित+++(=लब्ध)++++उद्दाम-भूमा ॥ २ ॥
 </details>
 
 <div class="js_include " url="/AgamaH/AryaH/hinduism/branches/brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/01_jaDa-dravya-sAraH/002_nAnAsiddhAntanItishramavimaladhiyo-nantasUrest.md"  newLevelForH1="3" includeTitle="true"  > </div>
