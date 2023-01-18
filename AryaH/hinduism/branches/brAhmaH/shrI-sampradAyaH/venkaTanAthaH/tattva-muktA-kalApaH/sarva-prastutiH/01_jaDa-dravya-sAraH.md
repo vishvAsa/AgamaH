@@ -9,9 +9,9 @@ unicode_script = "devanagari"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लक्ष्मी-नेत्रोत्पल-श्री-सतत-परिचयाद् एष संवर्धमानो  
-नाभी-नाली-करि(ङ्ग)ङ्खन्मधुकरपटलीदत्तहस्तावलम्बः ।  
-अस्माकं संपदोघान् अ-विरल-तुलसी--दाम-संजात-भूमा  
-कालिन्दी-कान्ति-हारी कलयतु वपुषः कालिमा कैटभारेः ॥ १ ॥
+नाभी-नाली-करि(ङ्ग)ङ्खन्-मधुकर-पटली-दत्त-हस्तावलम्बः ।  
+अस्माकं **संपदोघान्** अ-विरल-तुलसी--दाम-संजात-भूमा  
+कालिन्दी-कान्ति-हारी **कलयतु** वपुषः **कालिमा** कैटभारेः ॥ १ ॥+++(4)+++
 </details>
 
 <div class="js_include " url="/AgamaH/AryaH/hinduism/branches/brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/01_jaDa-dravya-sAraH/001_laxmInetrotpalashrIsatataparichayAdeSha_saMvar.md"  newLevelForH1="3" includeTitle="true"  > </div>
