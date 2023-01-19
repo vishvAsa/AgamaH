@@ -6,7 +6,7 @@ unicode_script = "devanagari"
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 - संवर्तस्तवः स्थानेश्वरकृतः। 
-- आङ्ग्लानुवादादिकम् [अत्र](https://www.vimarshafoundation.org/samvartastava) । "this text is an āveśa writing and I have not used much of my intellect afterward." इति कर्ता स्थानेश्वरः।
+- आङ्ग्लानुवादादिकम् [अत्र](https://www.vimarśhafoundation.org/samvartastava) । "this text is an āveśa writing and I have not used much of my intellect afterward." इति कर्ता स्थानेश्वरः।
 - तेनात्र छन्दः शब्दशास्त्रं चावलोक्येषत् परिष्कृतः - राजारामज-शङ्करेण प्रायेण।
 </details>
 

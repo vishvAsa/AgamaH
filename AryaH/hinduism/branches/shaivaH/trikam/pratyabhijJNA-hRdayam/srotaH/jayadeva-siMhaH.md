@@ -65,7 +65,7 @@ Somananda composed Siva-drsi. Another important
 
 work is Isvara-Pratyabhijña by Utpala, pupil of Somananda. There are the following commentaries on this : 
 
-Vitti by the author himself, Pratyabhijñā-Vimarsini by Abhinavagupta, Pratyabhijñā-vivsti-vimarsini by Abhinava gupta 
+Vitti by the author himself, Pratyabhijñā-vimarśinī by Abhinavagupta, Pratyabhijñā-vivsti-vimarśinī by Abhinava gupta 
 
 A digest of the Pratyabhijñā-Šāstra, named Pratyabhijña hfdayam was prepared by Ksemarāja. 
 
@@ -73,7 +73,7 @@ Abhinavagupta's Tantraloka in 12 Volumes and his Tanträloka-Sāra give an exhau
 
 Pratyabhij Aa-ardayam As said above, this is a digest of the Pratyabhijñā system prepared by Ksemarija. He was the brilliant pupil of Abhinavagupta, a versatile genius who was a peerless master of tantra, yoga, philosophy, poctics, and dramaturgy. According to Dr. K. O. Pandey, Abhinavagupta flourished in the 10th Century A.D. Since Ksemarāja was his pupil, he must have also lived in the 10th Century. He wrote the following works : 
 
-Pratyabhijñáhrdayam, Spandasandoha, Spandani rņaya, Savacchandodyota, Netrodyota, Vijñānabhaira vodyota, Siva-Sūtra-vimarsini, Stava-cintamani-tika Paraprāvesika, Tattvasandoha. 
+Pratyabhijñáhrdayam, Spandasandoha, Spandani rņaya, Savacchandodyota, Netrodyota, Vijñānabhaira vodyota, Siva-Sūtra-vimarśinī, Stava-cintamani-tika Paraprāvesika, Tattvasandoha. 
 
 Very little is known of the life and parentage of Kemarāja. It has been very rightly said that his book, Pratyabhijña hrdayam occupies the same place in Saiva or Trika literature as Vedantāsāra does in Vedānta. It avoids all polemics and gives in a very succinct form the main tenets of the Pratyabhijnă system. He says at the very outset of his work : 
 
@@ -99,7 +99,7 @@ into undivided unity of 'I' and 'This'. Perhaps, the word 'sciousness' may, to s
 
 prakasa', but the sun is 'prakāfa; even a diamond is 'prakāla'. What is the difference between the two ? The Saiva philo sophy says, "Ultimate Reality is not simply prakara : it is also 
 
-ümarda" What is this ümarfa ? This word again is untransla table. Perhaps the word "Sciring may help. Ultimate Reality is not only Sciousness (prakīša), but . Sciousness that also stres itself (Vimarsa). It is not simply pratara lying inert like a diamond, but streys itself. This Sciring or Surveying of itself by Ultimate Reality is called Vintarfa. As Ksemarāja has put it in his Parā-prāvesiká (P-2) it is "akstri māham iti visphuranamn"; it is the ori-relational, immediate awareness of I. What this "akstrima-aham" is, we shall see later on. If Ultimate Reality were merely prakala and not also bitarda, it would be powerless and inert. "Yadi wargümar fau gal anišbaro jadalca prasajyeta" (Park - prāvelika, p. 2) It is this pure I-consciousness or Vimarfa that is responsible for the manifestation, maintenance and reabsorption of the universe. 
+ümarda" What is this ümarfa ? This word again is untransla table. Perhaps the word "Sciring may help. Ultimate Reality is not only Sciousness (prakīša), but . Sciousness that also stres itself (vimarśa). It is not simply pratara lying inert like a diamond, but streys itself. This Sciring or Surveying of itself by Ultimate Reality is called Vintarfa. As Ksemarāja has put it in his Parā-prāvesiká (P-2) it is "akstri māham iti visphuranamn"; it is the ori-relational, immediate awareness of I. What this "akstrima-aham" is, we shall see later on. If Ultimate Reality were merely prakala and not also bitarda, it would be powerless and inert. "Yadi wargümar fau gal anišbaro jadalca prasajyeta" (Park - prāvelika, p. 2) It is this pure I-consciousness or Vimarfa that is responsible for the manifestation, maintenance and reabsorption of the universe. 
 
 Citscires itself as Cidropiri Sakti. This sciring itself as Cidrūpint Sakti is Vintarla. Therefore, virard has been named differently as pardfakti, parduot, Swatantra, aišvara, kardioa, phuratta, Sāra, ardoa, Spanda. (See Parā-prāvesikā by Kacmarāja, p. 2) 
 
@@ -223,7 +223,7 @@ As at this stage, the objective side of Experience the "This' or the Universe is
 
 5. Saduidy or Suddhavidyd Talla In the Sadpidya talla, the 'I' and th: This' side of Experience are equally balanced like the two pans of an evenly held balance (samĀdhrta tula-puta nyäycna). At this stage, Kriya Sakti is predominant. The 'I' and 'This are recongnis ed in this state with such equal clarity that while both 'I' and "This' are still identified, they can be clearly distingui shed in thought. The experience of this stage may be called diversity-in-unity --(bhedābheda-vimaršanatmaka) i. e. while the This is clearly distinguished from 'I', it is still felt to be a part of the 'T' or Self. 'Both 'T' and 'This' refer to the same thing (i.e. they have samānādhikarana). 
 
-In Siw latte, there is the I-experience (Aham vimarsi); in Sadasiva, there is I–This experience (Aham-idam Vimarfa); in Isvara tattva, there is This-I experience (Idamaham Vimarta). In each of these experiences, the emphasis is on the first term. In Suddha Vidyā tattva, there is equal emphasis on both. (Aham Aham-Idam Idam; I am I–This is This). Since this experience is intermediate between the para or the higher and gard-the lower in which there is sense of difference, it is called parapara dafi. 
+In Siw latte, there is the I-experience (Aham vimarśi); in Sadasiva, there is I–This experience (Aham-idam Vimarfa); in Isvara tattva, there is This-I experience (Idamaham Vimarta). In each of these experiences, the emphasis is on the first term. In Suddha Vidyā tattva, there is equal emphasis on both. (Aham Aham-Idam Idam; I am I–This is This). Since this experience is intermediate between the para or the higher and gard-the lower in which there is sense of difference, it is called parapara dafi. 
 
 It is called Sad-vidyd or Suddha Vidy, because at this stage the true relation of things is experienced. 
 
@@ -887,7 +887,7 @@ Sutra 5. "Citi (universal consciousness) itself des cending from the stage of) C
 
 Commentary 
 
-Truly speaking Citta (individual consciousness) is not inything else, rather it is the exalted Citi (universal cons ciousness) itself. Now, when Cui conccaling its real nature accepts contraction or limitation, then it has only two aspects. Sometimes it flashes forth with the predominance of Cit, subordinating to itself limitation which has made its appearance; sometimes it appears) with the predominance of limitation. In the case of Cit being predominant in its natural state, and there being the predominance of prakala only (without Vimarsa), its pramitr, or experient is Vijna riitala. In the case of both pratada and vimarła being pre dominant, the experient is vidyāpramáta. Even in this state (prakasa-parimarsa-pradhanatve), as the contraction (of 
+Truly speaking Citta (individual consciousness) is not inything else, rather it is the exalted Citi (universal cons ciousness) itself. Now, when Cui conccaling its real nature accepts contraction or limitation, then it has only two aspects. Sometimes it flashes forth with the predominance of Cit, subordinating to itself limitation which has made its appearance; sometimes it appears) with the predominance of limitation. In the case of Cit being predominant in its natural state, and there being the predominance of prakala only (without vimarśa), its pramitr, or experient is Vijna riitala. In the case of both pratada and vimarła being pre dominant, the experient is vidyāpramáta. Even in this state (prakasa-parimarsa-pradhanatve), as the contraction (of 
 
 • Prof. Leldecker bas given a very curious translation of this, viz., "But 
 
@@ -1203,7 +1203,7 @@ These i.c. these five-fold acts," he does--this is (syntacti cally) connected wi
 
 समाधिवप्रेणाप्यन्यैरभेद्यो भेदभूधरः । । परामृष्टश्च नष्टश्च त्वद्भक्तिबलशालिभिः ।' इति । यदा तु संहियमाणमपि एतत् अन्त: विचित्राशङ्काविसंस्का रम् आपत्ते, तवा तत् पुनः उभविष्यत्संसारबीजभावमापन्नं विलय पदम् अध्यारोपितम् । यदा पुनः तत् तथा अन्तः स्थापितम् अन्यत वा 
 
-An object being thus emanated (i.c. brought forth into appearance), when the Self) without shutting of the eye relishes it for some time, it is maintained in experience) till then by the goddess of maintenance. (This relishing of the experience for sometime represents stili or maintenance). It is withdrawn at the time of vimarsa (vimarsana-samaye) for which another word is sudden flash of delight (camtkāra) 1 (This knowledge of the object represents sarihara). As it has been said by Räma. 
+An object being thus emanated (i.c. brought forth into appearance), when the Self) without shutting of the eye relishes it for some time, it is maintained in experience) till then by the goddess of maintenance. (This relishing of the experience for sometime represents stili or maintenance). It is withdrawn at the time of vimarśa (vimarśana-samaye) for which another word is sudden flash of delight (camtkāra) 1 (This knowledge of the object represents sarihara). As it has been said by Räma. 
 
 The mountain of manifolds which cannot be split by othen even by the thunderbolt ofcopitemplatlon (Samidhi, II, collectednou of conscious nosa) is expedienced geself and thus destroyed by those who are endowed with the power iint inccrues from devotion to you". 
 
@@ -1297,7 +1297,7 @@ Venerablc Damodiunt, who commands un feigned respect due to (lit, born of) liis 
 
 [Below is given the āņavopayah-the anava technique of attaining unity-consciousness.] 
 
-Again the highest Lord whose essential nature is conscious ness has his own aivis ja-saktall which is unique, unfailing and whose cssential mature consists in doership111 which is esentially a spalla or flashing forth 11% of divinc light When slie (i.c. aišvarjual) by conlccaling lier real nature causes delusion in the palu state (i.e. the state of a limited 
+Again the highest Lord whose essential nature is conscious ness has his own aivis ja-saktall which is unique, unfailing and whose cssential mature consists in doership111 which is esentially a spalla or flashing forth 11% of divinc light When slie (i.c. aišvaR̥jual) by conlccaling lier real nature causes delusion in the palu state (i.e. the state of a limited 
 
 प्रात्यभिचादयम् रित्वम् । यदा तु मध्यधामोल्लासाम् उदानशक्ति, विश्वव्याप्तिसारा च व्यानशक्ति, तुर्यवशारूपां तुर्यातीतवशारूपां च चिदानन्दघनाम् उन्मीलयति, तदा बहाद्यवस्थायामपि पतिदशात्मा जीवन्मुक्तिर्भवति । एवं त्रिधा स्वशक्तिव्यामोहितता व्याख्याता। 'चिद्वत्' इति (९) सूत्रे चित्नकाशो गृहीतसंकोच : संसारी इत्युक्तम्, इह तु स्वशक्ति व्यामोहितत्वेन अस्य संसारित्वं भवति,-इति भङ्गयन्तरेण उपतम् । एवं संकुचितशक्तिः प्राणादिमानपि यदा स्वशक्तिव्यामोहितो न भवति, तदा अयम् 
 
@@ -2033,7 +2033,7 @@ PRATYABHIJNAHRDAYA
 
 from the subsidiary faktis that pervade the universe and bring about all kinds of things. They are various aspects of the highest Sakri. Sakti means divine consciousness or conscious energy which is non-distinct from Siva. It is Siva himself in his active aspect of manifestation and grace. 
 
-20. Vimarša-Vi +mss. The root "mrs' means to touch. "Vimps' means to touch mentally. It is a highly technical term of this system. Paramasiva, the ultimate reality is not only prałdia or luminous consciousness, but also Vimarsa i.c. conscious of its consciousness. Vimarla is Self-conscious ness or pure I-consciousness of the highest Reality. It is this Vimarsa or self-consciousness of reality that brings about the emergence of the universe (srsti), its manifestation (sthiti) and its withdrawal (simhara) into it again as identical with its joy of pure I-consciousness. Vimarsa assumes three moments, viz., going out of itself (srsti), manifesting its conti nued existence (sthiti) and then returning to itself (samhāra) cf. "Iha khalu parmesvarab prakāfitma; prakāgasca vimarsa svabhāvab: vimargo nám visvākārena, visvaprakasanena, visvasam haranena ca akstrimāham iti visphuranam" - Para-Prävesika, pp 1-2, Kashmir Sanskrit Scrics. The entire universe is already contained in the highest conscious ness or the highest Self even as the variegated plumage of the peacock is already contained in the plasmit of its egg (mayu rändarasa-nyayena). Vimar is the positing of this Self which leads to manifestation. 
+20. Vimarša-Vi +mss. The root "mrs' means to touch. "Vimps' means to touch mentally. It is a highly technical term of this system. Paramasiva, the ultimate reality is not only prałdia or luminous consciousness, but also vimarśa i.c. conscious of its consciousness. Vimarla is Self-conscious ness or pure I-consciousness of the highest Reality. It is this vimarśa or self-consciousness of reality that brings about the emergence of the universe (srsti), its manifestation (sthiti) and its withdrawal (simhara) into it again as identical with its joy of pure I-consciousness. vimarśa assumes three moments, viz., going out of itself (srsti), manifesting its conti nued existence (sthiti) and then returning to itself (samhāra) cf. "Iha khalu parmesvarab prakāfitma; prakāgasca vimarśa svabhāvab: vimargo nám visvākārena, visvaprakasanena, visvasam haranena ca akstrimāham iti visphuranam" - Para-Prävesika, pp 1-2, Kashmir Sanskrit Scrics. The entire universe is already contained in the highest conscious ness or the highest Self even as the variegated plumage of the peacock is already contained in the plasmit of its egg (mayu rändarasa-nyayena). Vimar is the positing of this Self which leads to manifestation. 
 
 21. Siva-bhattaraka-The word "Warrdraka' is the same As 'Shatlara' which again is the same as the word 'bhatta'. The word bhalla is derived from blarer-lord. The word bharidra or bladdrata means venerable lord. This has been attached to Siva to show reverence. 
 
@@ -2347,7 +2347,7 @@ Khecari is one that moves in khaor akafa. Kha or data is, herc, a symbol of cons
 
 111. aifuarytfatti is the sovereign power of the Lord. This is also His Svatandrya-lakti, His absolute free Will. 
 
-112 and 113. Flashing forth or sphuralla is here another name of prakala. Doership or kartta is another name of piwarda. Regarding the distinction between prakāta and Vimarst, see note 20. 
+112 and 113. Flashing forth or sphuralla is here another name of prakala. Doership or kartta is another name of piwarda. Regarding the distinction between prakāta and vimarśt, see note 20. 
 
 114. prana, apāna, santāna faktis. 
 
@@ -2453,7 +2453,7 @@ PRATYADHI) NURDAYA 139. "When, however, the exalted samoil.....ruabove." This re
 
 145. See note 47. . 146. ry (lit, fourth) is the same as duriya. See note 79. It is the state in which there is pure consciousness of atman, and the sense of difference disappears. In this Udāna lakti is active. 
 
-147. furydim - This is the state higher than fwya. Unity consciousness that began in furya is consummated in furydtita in which the whole universe appears as the Self. See Isvara pratyabhijn-vimarsini, Vol. II, pp. 246-247. In luralita, Own fakti Gkti is active. 
+147. furydim - This is the state higher than fwya. Unity consciousness that began in furya is consummated in furydtita in which the whole universe appears as the Self. See Isvara pratyabhijn-vimarśinī, Vol. II, pp. 246-247. In luralita, Own fakti Gkti is active. 
 
 148. 'Katha' upanisad really belongs to the black Yajur veda. The original reading is 'iochan' (wishing: seeking): the reading here adopted is afhan cating, tasting). In this context asnan means 'wishing to taste." 
 
@@ -2563,7 +2563,7 @@ Parama Sina transcends all falis. The total of blaas is 16+56 +28+18 i.c. 118.
 
 167. Kalugnpūdes carama-kala-parpantasya-from kālāgni, the lowest phase of manifestation upto the highest phase of manifestation known as fantā-kala. Kala here means phase of manifestation. See the annexed chart of manifestation. 
 
-168. para-bhadlarika here refers to the highest vimarfa. There are three kinds of vimarsa, viz., para, apara and parapara. 
+168. para-bhadlarika here refers to the highest vimarfa. There are three kinds of vimarśa, viz., para, apara and parapara. 
 
 Para is the pimarja of Siva in which there is abheda or complete non-difference; apara is the vinarla of any or the empirical individual in which there is bluda or difference; paräpara is the bimarfa of fokti in whch there is bhedabheda in which the sense of difference is transcended ultimately. 
 
@@ -2999,11 +2999,11 @@ VIKALPA-KŞAYA—the dissolution of all vikalpas. VIKALPANAM–the differentiati
 
 mind. VIKĀSA-unfoldment, development. VILAPANA--dissolution; esoteric meaning-anugraha 
 
-grace. VILAYA-concealment. VIMARSA—lit., experience; technically-the Self-conscious 
+grace. VILAYA-concealment. vimarśA—lit., experience; technically-the Self-conscious 
 
 ness of the Supreme, full of jana and kry which brings 
 
-about the world-process. VIMARSANA-intuitive awareness; esoteric meaning 
+about the world-process. vimarśANA-intuitive awareness; esoteric meaning 
 
 Jathra-absorption. VIŞA-a technical word of Saiva Yoga, meaing "entering 
 
@@ -3239,7 +3239,7 @@ Yantrina 83 Yukin Bo Yukti gr, 103 Yogi 38, go Yaugapadyena 86
 
 Rakti 6+ Rajas 49 Rnjyati 64 Ranjita 57 Ramaniya-visaya-carvami. 89 Rasa 90 Rahasya 64 Riga 54, 60 Rūpn 57. 86 
 
-Vidyapramäti 47 Vidyl-riga 57 Vidravita 80 Vidhrta-cetach 88 Vibhuva. Gg Vibhinna 69 Vibhu 100 Vibhuti 59 Vimana 97. 97 VimarSana 65 Vimarlamaya 95 Vimariamayl 35 Vimuktaka 70 Vilaya Gr Vilaya-karit 62 Vilaya-pada 65 Vilapana 64 Vivarana-kse 101 
+Vidyapramäti 47 Vidyl-riga 57 Vidravita 80 Vidhrta-cetach 88 Vibhuva. Gg Vibhinna 69 Vibhu 100 Vibhuti 59 Vimana 97. 97 vimarśana 65 Vimarlamaya 95 Vimariamayl 35 Vimuktaka 70 Vilaya Gr Vilaya-karit 62 Vilaya-pada 65 Vilapana 64 Vivarana-kse 101 
 
 Lagnat 
 

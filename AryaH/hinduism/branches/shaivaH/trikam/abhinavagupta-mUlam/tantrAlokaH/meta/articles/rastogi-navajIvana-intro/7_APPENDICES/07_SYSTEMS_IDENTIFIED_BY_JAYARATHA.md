@@ -1,0 +1,175 @@
++++
+title = "07 SYSTEMS IDENTIFIED BY JAYARATHA"
+
++++
+7. SYSTEMS IMPLIEDLY REFERRED TO IN THE 
+TANTRALOKA AND IDENTIFIED 
+BY JAYARATHA 
+Ahnika/Verse Volume Page Volume Page 
+(KSTS Ed.) (MLBD Ed.) 
+Advaitavadin 
+1.223 
+(1/244) 
+II/244 
+Bauddha 
+1.56 
+(1/95) 
+II/95 
+(Vaibhāṣika) 1.228 
+(I/247) 
+II/247 
+4.30 
+(III/33) 
+III/649 
+(Vijñānavādin) 4.30 
+(III/32) 
+III/648 
+35.37 
+(XII/376) 
+VIII/3665 
+Bhedavādin 
+1.165 
+(1/200) 
+II/200 
+1.237 
+(1/254) 
+II/254 
+9.153 
+(VI/120) 
+TV/1754 
+Brahmavādin 
+3.282 
+(II/255) 
+II/607 
+4.29 
+(III/32) 
+III/648 
+- (Vairinca) 
+4.22 
+(III/25) 
+III/641 
+Kanāda 
+9.290 
+(VI/233) 
+IV/1867 
+Kaula 
+4.259 
+(III/290) 
+III/906 
+Kaumārila 
+See Mimāmsā 
+Kula Mīmāmsā 
+36.12 
+(XII/389) 
+VIII/3679 
+1.127-128 
+(1/166-168) 
+II/166-168 
+1.134 
+(I/174) 
+II/174 
+4.228-240 
+(III/250-266) III/866-881 
+- 
+(Kaumārila) 
+10.21 
+(VII/16) 
+V/1900 
+10.52-57 
+(VII/42-45) 
+V/1926-1929 
+(Prabhakara) 
+10.57 
+(VII/45) 
+V/1929 
+Naiyayika 
+9.258 
+(VI/207) 
+IV/1842 
+9.273-74 
+(VI/220) IV/1854 
+Nyaya 
+9.257-258 
+(VI/207-208) IV/1841-1842 
+9.268-270 
+(VI/215-217) IV/1849-1851 
+9.285-290 
+10.71-75 
+Pātañjala 
+13.346 
+(VI/229-234) IV/1863-1868 (VII/57-61) V/1941-1945 (VIII/207) V/2407 
+28.301 
+(XI/119) 
+VII/3225 
+Pātañjalasūtra 
+13.146 
+(VIII/95) 
+V/2295 
+APPENDIX-7 
+Picuvaktra-sam- 
+29.124-125 (X1/89, 
+pradaya 
+29th Ah.) 
+VII/3379 
+Pracya 
+27.23 
+(X/365) 
+VI/3091 
+Prabhakara 
+See Mimainsā 
+Sarikhya 
+6.18 
+(IV/17) 
+III/1105 
+8.247 
+(V/170) 
+IV/1520 
+8.253-259 
+(V/173-179) 
+IV/1523-1529 
+9.14-21 
+(VI/25-29) IV/1659-1663 
+9.220-225 
+(VI/175-180) IV/1811-1815 
+9.239 
+(VI/192) IV/1826 
+9.271-274 
+13.32-40 
+(VI/217-221) IV/1851-1855 
+13.271-272 
+(VIII/22-28) V/2221-2227 (VIII/167) V/2367 
+- (Kāpila/Kapila) 8.279-285 
+(V/189-196) IV/1539-1546 
+35.37 
+(XII/376) VIII/3636 
+Siddhanta 
+4.258 
+(III/290) 
+III/903 
+22.12 
+(X/248) 
+VI/2975 
+Śivagama 
+1.75 
+(1/116) 
+II/116 
+Smrti 
+13.346 
+(VIII/207) 
+V/2407 
+Trikakula 
+36.12 
+Vaibhaşika 
+See Bauddha 
+Vaiseṣika 
+9.305 
+10.71-75 
+13.345 
+Veda 
+4.28 
+(XII/389) VIII/3679 
+(VI/243-244) IV/1877-1878 (VII/57-61) V/1941-1945 (VIII/206) V/2406 (111/30) 
+III/646 
+Vijñānavādin 
+See Bauddha 
+287 

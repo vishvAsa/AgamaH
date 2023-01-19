@@ -1,0 +1,12 @@
++++
+title = "About the Translator"
+
++++
+
+Pandit Hemendra Nath Chakravarty was born in 1918 in the village of Kalihati, in the district of Mymensingh (now in Bangladesh), the son of Taraka Nath Chakravarty, an Ayurvedic physician. His family was initiated in the Kaulika tradition and worshiped Daksinā Kālī. He matriculated at the village high school in 1935, and studied Sanskrit and later Sāmkhya at the Balānanda Brahmacharyasram in Deoghar (Bihar). In 1939 he went to Varanasi and studied Nyāya under Pt. Vibhuti Bibhushana Bhattacharya, graduating in 1944 (Nyāya Tīrtha) and 1945 (Tarka Tīrtha) from Calcutta Government Sanskrit Association, and earn ing a B.Ed. in 1950. In 1958 he met the famous pandit Mahama hopadhyaya Gopinath Kaviraj and began to study with him. He remained closely associated with Kaviraj until the latter's death in 1976. He edited the sayings of Ānandamayi Ma with the commentary by G. Kaviraj in Bengali. From 1987 to 1995 he was Chief Pandit in the Kalātattvakosa project of Indira Gandhi National Centre for the Arts, Varanasi Branch, which at that time was directed by Dr. Bettina Bāumer. He wrote articles for Kalātatt vakosa. 
+
+Beginning in 1972 he taught students and scholars from abroad (includng A.M. Breuinin, M. Dyczkowski, L.M. Finn, D.P. Lawrence, J. Gengnagel, J. Dupuche, A. Wilke, and B. Marja novic) mainly in the field of Hindu Tantrism, especially nondual Kashmir Saivism. In 2003 he received the first “Thakur Jaideva Singh Award” for merit in the field of studying and teaching non dual Kashmir Saivism from the Trika Interreligious Trust (Vara nasi). He passed away on March 30, 2011.
+
+His publications include Nāradiya Purana, 3rd vol. (transla tion with notes), Delhi (Motilal Banarsidass); Tantrasāra by Abhi nava Guptācārya (with Hindi Translation, notes and introduction in English] Varanasi 1986; ed. (with Jaideva Singh and G. Mukho padhyaya): Navonmesha: M.M. Gopinath Kaviraj Smriti Granth (2 vols.), Varanasi 1987. Articles: prāṇa, Bija in: Kalātattvakosa (ed. by B. Bāumer), Vol. I (1988); Bindu, Naabhi, Cakra, in: Kalātatt vakosa Vol. II (1992); “Tantric Spirituality" in: Hindu Spirituality, Postclassical and Modern, ed. K.R. Sundararajan and B. Mukerji, New York, Crossroad, 1997, pp. 209-231; Bahurūpagarbhastotra, An Annotated Translation, in: Sāmarasya, Studies in Indian Arts, Philosophy and Interreligious Dialogue (ed. by S. Das and E. Fūr linger), New Delhi (D.K. Printworld) 2005, pp.37-47.
+
+
