@@ -1,5 +1,5 @@
 +++
-title = "०५ अद्रव्य-सारः"
+title = "०५ अद्रव्य-सरः"
 unicode_script = "devanagari"
 
 +++

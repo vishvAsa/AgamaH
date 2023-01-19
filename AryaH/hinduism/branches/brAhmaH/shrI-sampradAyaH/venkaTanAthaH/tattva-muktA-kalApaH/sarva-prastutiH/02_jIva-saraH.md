@@ -1,5 +1,5 @@
 +++
-title = "०२ जीव-सारः"
+title = "०२ जीव-सरः"
 unicode_script = "devanagari"
 
 +++

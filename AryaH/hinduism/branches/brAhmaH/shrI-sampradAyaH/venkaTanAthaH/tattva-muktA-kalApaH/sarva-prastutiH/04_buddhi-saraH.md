@@ -1,5 +1,5 @@
 +++
-title = "०४ बुद्धिसारः"
+title = "०४ बुद्धि-सरः"
 unicode_script = "devanagari"
 
 +++

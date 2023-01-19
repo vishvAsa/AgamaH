@@ -1,5 +1,5 @@
 +++
-title = "०३ नयसारः"
+title = "०३ नायक-सरः"
 unicode_script = "devanagari"
 
 +++
