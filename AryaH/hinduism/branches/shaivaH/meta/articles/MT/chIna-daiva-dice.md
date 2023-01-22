@@ -1,8 +1,0 @@
-+++
-title = "chIna daiva dice"
-+++
-(Source: https://threader.app/thread/1462648749566668800)
-
-The chIna daiva dice like those used in maheshvara magic. Such prognostic magic ultimately had their roots in H tradition though the link has has been forgotten. The maheshvara magic and garuDa (pUrvasrotas)-tantra derived texts indicate the presence of shaiva (& kaumAra)traditions in east Asia. While initial transmitted by tAthAgata-s like amoghavajra, they acquired a life of their own as cults. e.g. "jialouluo ji zhutian miyan jing" = scripture of Mantras of garuDa and gods seems to be 1 transmission of garuDa-tantra material by a Kashmirian. 
-
-There were rites which used Avesha of individuals by ghosts, i.e. rudra-cheTaka-s & those that used dice. The cheTaka possessed a young individual who would then given a prognostication similar to the process of regular ghost dictation. While it is not explicitly mentioned in the chIna text, the mantrin is believed to acquire the capacity to induce possession by the cheTaka only if he has mastered the mantra given at the end of the text called the "garuDa-dhAraNI".+++(4)+++ Despite its name it is a rudra-mantra for activation of a bhUta known as chinna-kapAla i.e. severed skull. The general form of the rudra mantra is similar to those found in the tantra-s like uDDAmareshvara which are aligned with the pashchima-srotas. But the name of the bhUta: Chinna-kapAla is rather unique and not found in a bhUta-aligned tantra extant in India.
