@@ -49,13 +49,32 @@ Some unusual rituals involve some unusual components, some of which people may n
 - group sex
     - some tAntrika chakrapUjA
 
-#### Exceptional (possible) incest
+#### Exceptional incest
 - abhinavagupta in tantrAloka itself at 29.102d: śvapatnī bhaginī mātā duhitā vā subhā sakhī. Such allowances were rarely followed through, as kalhaNa reveals.
-- gosava rite (Ap. XXII.13.1-3 - tene.s.tvaa samvatsaram pazuvrato bhavati / upaavahaayodakam pibet t.r.naani caacchindyaat / upa maataram iyaad upa svasaaram upa sagotraam / [indology list](http://list.indology.info/pipermail/indology_list.indology.info/1998-February/010645.html), [ghorAngIrasa](https://aryanthought.wordpress.com/2016/03/24/gosava-and-bovine-mimesis-in-ritual-part-1/))
-    - " The controversial acts are limited to the variant given in the jaiminīya Brāhmaṇa (2.113), the āpastamba śrautasūtra (22.13.1-3) that seems to have replicated the verses in the jaiminīya text and the brahmāṇḍa purāṇa (2.36-64). " ([ghorAngIrasa](https://aryanthought.wordpress.com/2016/03/24/gosava-and-bovine-mimesis-in-ritual-part-1/))
-    - "Others don't talk about it or assume you know the details. Panchaviṃśa comes out and says these are no longer performed.""
 
-## Mock gambling
+> द्विजेन्द्रे ऽमरकण्ठे तु  
+> याते सिवसमानताम्।  
+> राजा प्रमदकण्ठस्य  
+> ययौ तज्जस्य सिष्यताम् ॥  
+> दुःशीलस्य प्रकृत्यैव  
+> तस्याकृत्योपदेशकृत् ।  
+> गम्यागम्यविचारस्य  
+> परिहर्ताभवद् गुरुः॥  
+> गुरोर् गतविकल्पत्वम्  
+> तस्यान्यत् किम् इवोच्यताम्।   
+> त्यक्तशङ्कः प्रववृते  
+> स्वसुतासुरते ऽपि यः॥
+> 
+> ‘After Amarakantha the eminent royal priest [died and] was united with Śiva, the king became a disciple of [this priest's] son, Pramadakaṇṭha. This guru instructed him, who was disposed to evil by nature, to do forbidden things, and to ignore the difference between women who are approachable and those who are not. What else can be said of this guru who had no scruples? He lacked any inhibition and had sex even with his own daughter.'39
+
+
+
+
+- gosava rite (Ap. XXII.13.1-3 - tene.s.tvaa samvatsaram pazuvrato bhavati / upaavahaayodakam pibet t.r.naani caacchindyaat / upa maataram iyaad upa svasaaram upa sagotraam / [indology list](http://list.indology.info/pipermail/indology_list.indology.info/1998-February/010645.html), [ghorAngIrasa](https://aryanthought.wordpress.com/2016/03/24/gosava-and-bovine-mimesis-in-ritual-part-1/))
+  - " The controversial acts are limited to the variant given in the jaiminīya Brāhmaṇa (2.113), the āpastamba śrautasūtra (22.13.1-3) that seems to have replicated the verses in the jaiminīya text and the brahmāṇḍa purāṇa (2.36-64). " ([ghorAngIrasa](https://aryanthought.wordpress.com/2016/03/24/gosava-and-bovine-mimesis-in-ritual-part-1/))
+  - "Others don't talk about it or assume you know the details. Panchaviṃśa comes out and says these are no longer performed.""
+
+## Gambling
 - Certain vaidika rituals
 
 ## Unusual ritual equipment
@@ -80,7 +99,6 @@ Some unusual rituals involve some unusual components, some of which people may n
 - Avesha has a deep history in hindu thought \[[IF16](http://indiafacts.org/brief-study-possession-hinduism-ii-spiritual-context/)\], and is an important part of many rituals (see [V mantra](../../../../mantra/meta/)).
     - "It is also important to note, and this is another vital differentiation between casual pop-ideas of possession and that which comes to us from śāstras, is that the act can be initiated either by the possessor or the possessed." \[[IF16](http://indiafacts.org/brief-study-possession-hinduism-ii-spiritual-context/)\]
     - "while true āvesa is full-fledged entering of a deity or force into another individual, thus altering his individuality completely, bhāvāvesa is a more specific experience, where the self-identity of the subject is not necessarily threatened." \[[IF16](http://indiafacts.org/brief-study-possession-hinduism-ii-spiritual-context/)\]
-- Christian version [FB16](https://archive.org/stream/apastamba/EkagniKandam#page/n13/mode/2up).
 
 ## Drama
 ### Prohibitions and support
