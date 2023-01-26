@@ -52,22 +52,20 @@ Some unusual rituals involve some unusual components, some of which people may n
 #### Exceptional incest
 - abhinavagupta in tantrAloka itself at 29.102d: śvapatnī bhaginī mātā duhitā vā subhā sakhī. Such allowances were rarely followed through, as kalhaNa reveals.
 
+- kalhaNa records in [7](/purANam/aitihyam/kalhaNa-rAjatarangiNI/07/):
+
 > द्विजेन्द्रे ऽमरकण्ठे तु  
-> याते सिवसमानताम्।  
-> राजा प्रमदकण्ठस्य  
-> ययौ तज्जस्य सिष्यताम् ॥  
-> दुःशीलस्य प्रकृत्यैव  
-> तस्याकृत्योपदेशकृत् ।  
-> गम्यागम्यविचारस्य  
-> परिहर्ताभवद् गुरुः॥  
-> गुरोर् गतविकल्पत्वम्  
-> तस्यान्यत् किम् इवोच्यताम्।   
-> त्यक्तशङ्कः प्रववृते  
-> स्वसुतासुरते ऽपि यः॥
-> 
-> ‘After Amarakantha the eminent royal priest [died and] was united with Śiva, the king became a disciple of [this priest's] son, Pramadakaṇṭha. This guru instructed him, who was disposed to evil by nature, to do forbidden things, and to ignore the difference between women who are approachable and those who are not. What else can be said of this guru who had no scruples? He lacked any inhibition and had sex even with his own daughter.'39
-
-
+याते शिवसमानताम्।  
+राजा प्रमदकण्ठस्य  
+ययौ तज्जस्य सिष्यताम् ॥  
+दुःशीलस्य प्रकृत्यैव  
+तस्याकृत्योपदेशकृत् ।  
+गम्यागम्यविचारस्य  
+परिहर्ताभवद् गुरुः॥  
+गुरोर् गतविकल्पत्वम्  
+तस्यान्यत् किम् इवोच्यताम्।   
+त्यक्तशङ्कः प्रववृते  
+स्वसुतासुरते ऽपि यः॥
 
 
 - gosava rite (Ap. XXII.13.1-3 - tene.s.tvaa samvatsaram pazuvrato bhavati / upaavahaayodakam pibet t.r.naani caacchindyaat / upa maataram iyaad upa svasaaram upa sagotraam / [indology list](http://list.indology.info/pipermail/indology_list.indology.info/1998-February/010645.html), [ghorAngIrasa](https://aryanthought.wordpress.com/2016/03/24/gosava-and-bovine-mimesis-in-ritual-part-1/))
