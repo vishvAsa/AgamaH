@@ -13,11 +13,22 @@ title = "पञ्च-मकाराः"
 क्वचित् तु तद्-उपयोग-राहित्ये कर्म-निष्फलत्वं, विरुद्ध-फलवत्त्वम् अपि दृश्यते,  
 म-कार-विधानस्य सार्वत्रिकत्वेनापरिहार्यत्वम् अस्त्य् एव।
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> जयरथो ऽपि विधिर् इति वदति - 
+>
+> *पिबेद्* इति--विधिः ।  
+अत एव अपानात् प्रत्यवायोपि स्यात् ।
+
+Also read Maheshvarananda, Maharthamanjari. There are tons of references for drink etc. in Vijnanabhairava, jagdhipanakrtollasa, the surge of bliss by drinking and eating. and focus on that joy.
+</details>
+
+
 ## सिद्धान्तः
 तत्रायं सिद्धान्तः।  
 
 सर्व-तन्त्र-स्व-तन्त्राणां विधि-निषेध-वाक्य-प्रयोज्यकत्व-विरहान् नात्र विधिः।  
-शास्त्रम् अपि विधि-प्रेर्यत्वावच्छिन्नानाम् एव प्रति विधिना प्रयुङ्क्ते।  
+शास्त्रम् अपि विधि-प्रेर्यत्वावच्छिन्नानाम् एव प्रति विधिना प्रयुङ्क्ते।
 
 ## प्रत्यवायशङ्का
 अत्र प्रति-प्रश्नो भवति-  
@@ -47,6 +58,31 @@ title = "पञ्च-मकाराः"
 स्वातन्त्र्य-वादम् अवलम्ब्यैव  
 म-कारादीनां व्याख्यानं वैकल्पिकत्वेन निर्णीतम् अस्ति।
 भवतु नाम।  
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+May be I am deferring to all of them in my understanding of Svacchanda Shastra or Svātantrya. I have shamefully embraced the Acharya title [not self-appointed though, given by Guru Shamkara Chetana], for a reason. Acharya Abhinavagupta gave meaning to some mad tantric practices, wove philosophy around such things.
+
+My simple logic is, as long as one is guided by vidhi, how can one be svacchanda?
+
+So my point is, when I find it unimaginably painful to eat another living being and disgusting to drink liquor that makes me have the loss of my consciousness, how can I enjoy, be in the state of bliss. The idea is not drink or eat. the idea is be in the blissful mode. And what can you do to someone who suffers from those?
+
+so I have come to conclusion, that there is no injunction, as it comes to Agamic instruction in the state of Mahartha. So if one wants to eat meat, let him eat. if one drinks so be it. But I cannot stand the idea of shastric injunction . And I am rebellious. I am not following Mimamsa here.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+About svacchanda, there are just random references you can glean from. Svacchandatantra, Maharthamanjari, Mahanayaprakasha, etc.
+</details>
+
+
+
+<details><summary>व्यक्तिगतकथा (द्रष्टुं नोद्यम्)</summary>
+
+I myself was led to Kali temple, and for giving me life back, my parents had promised a goat. I was not even twelve but I had made a bond with that goat already in our trip to Kali temple. When we came back, we just had meat.
+
+After the age 16, since the day of my Kali Diksa, I never touched meat or fish. My guruji Prem Chetan never touched those objects either.
+</details>
 
 ## भास्करराय-मतम्
 > तत्र सर्व-तन्त्र-स्व-तन्त्रा भास्कर-राय-वर्या  
@@ -78,6 +114,12 @@ title = "पञ्च-मकाराः"
 इति +अस्माकं विवेकः  
 हृदय-परिस्पन्द-मात्र-शास्त्राणाम् इति,  
 लोकोल्लङ्घन-मात्र-विभवा योगिनी सर्वान्तिमे प्रार्थितत्वात्+++(=??)+++।
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+I need to present this better. The essence is, if lokollanghana is considered vidhi, there is regress. if drinking etc. is for breaking the norms, transgression, then transgression as injunction is just the same.
+</details>
+
 
 ## अभिमान-वारणम्
 अत्रेदम् अवधेयम्।  
