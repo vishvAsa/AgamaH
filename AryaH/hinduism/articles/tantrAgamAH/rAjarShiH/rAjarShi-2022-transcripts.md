@@ -3367,3 +3367,1326 @@ and for me uh this is possibly my life's most important project till date
 so enjoy level thank you for listening to this trilogy lots more coming up with rajashi than
 1:33:48
 diesel [Music]
+
+
+Source: [TW](https://www.youtube.com/watch?v=faroosyWwAs)
+
+
+0:00
+so tantra's idea fundamental idea was that the things that make you fall in
+0:06
+normal religion whether it's meat whether it's alcohol whether it's sex Etc which is the standard idea is that
+0:12
+these will make you fall so let us divinize those processes so that they become the means to which you can attain
+0:18
+to the Divine and that japa is that Mantra Japan is not no it's not a one minute thing it's not a two-minute thing
+0:23
+sometimes texts will recommend that you have to chant a mantra which is so long that may take you 30 minutes 35 minutes
+0:30
+how do you last for so long till the Mantra is complete there cannot be a release there cannot be an orgasm
+0:37
+in order to do that there were techniques that were added so that you can hold back the orgasm both for the
+0:43
+specifically for the meal while you are continuing the Mantra Japan so the primary aim is if you're not doing the
+0:48
+Mantra Japan if you're just having sex and practicing those techniques it is useless it has got nothing to do with
+0:53
+thunder sadhana whatever else you are doing that is hey guys so lately under any podcast
+1:00
+that we've uploaded on the channel you guys have demanded for more episodes with rajashi nandi this particular
+1:05
+episode was recorded the day after we recorded the original Blockbuster Trilogy if this is the first rajashin
+1:13
+and the episode you're watching and I'm sure there's many of you out there like that please go see the trilogy first
+1:18
+ideally if you've already watched the trilogy this one is sort of an extension it's
+1:25
+more specific to tantric sex when people hear the word Tantra lots of people all over
+1:31
+the world think of sex along with Tantra Tantra is basically a set of techniques
+1:37
+a set of practices a set of disciplines that originated out of the subcontinent and they're primarily meant for your own
+1:44
+spiritual advancement tantric sex is simply one of the techniques amongst a
+1:50
+horde of other Tantra based techniques I'm not going to talk too much about it I will let rajashi nandisa explain it
+1:57
+further all I'll say is that our meditation app level super mind is now live if you want to begin your own
+2:03
+spiritual journey if you want to take it further if you want to dive into your own subconscious mind we've uploaded
+2:09
+some extremely deep meditations on level super mind it's linked down below make sure you check it out and make sure you
+2:16
+follow TRS on Spotify or Spotify exclusive every episodes available on Spotify 48 hours before it's available
+2:23
+anywhere else in the world this is the Superstar of TRS who returns once again
+2:29
+to give us another Blockbuster episode this is the tantric sex special with
+2:35
+rajashi nandi
+2:42
+[Music]
+2:54
+nandi sir welcome back to this video Namaste there's a lot of people who are
+3:00
+watching you on the show for the first time because of the thumbnail right uh the word Tantra for a lot of westerners
+3:07
+is something synonymous with spiritual sex that's how most of the international
+3:13
+uh spiritual Seekers understand the word Tantra to begin with but tantras like
+3:19
+the alphabet and sex might be one of the letters in it it's such a wide subject
+3:24
+it's not at all synonymous with sex but in saying that
+3:30
+um this entire episode will be centered around the spiritual aspect of sex
+3:36
+um what would you like to say first and foremost uh I hope that through this podcast we
+3:44
+can clear certain misconceptions about it also because with anything that becomes too widely and easily available
+3:51
+outside of context there's always going to be a lot of things that may or may not be the part of the actual process so
+3:58
+maybe we can do that also yes there's a lot of books which use tantric sex in
+4:04
+the title but if you actually open the book it's activities that you do before
+4:09
+and during sex which are said to enhance sexual pleasure it's supposed to
+4:14
+increase the intensity of the orgasm uh it's supposed to create a deeper connection between you and your partner
+4:19
+it's supposed to allow you to get multiple orgasms there's even techniques to not ejaculate when you orgasm as a
+4:27
+man right but the thing is those books never talk about the origins of Tantra as a whole now do you want to address
+4:34
+the sexual topics first or do you want to address Tantra as a whole first let's go so Tantra as a whole just very
+4:42
+briefly it's a very wide uh range of methods of worship of deity but the most
+4:49
+important thing that you have to remember and this example that you gave this is so typical of this uh the first
+4:55
+thing that we must remember is that Tantra is a method of upasana it's a method of worship so it is not about sex
+5:02
+it is not about meat it's not about alcohol these are props that help you but they are not the end they are not
+5:08
+the goal the goal has to be in mind so the goal is to succeed in the upasana of the deity okay again some context for
+5:15
+first-time listeners basically the goal is evolution of your own mind towards
+5:21
+towards what some people believe is called God or the higher power or the deities or the deities yeah uh now in
+5:28
+terms of what are deities so deities are in our system the way we look at it
+5:33
+deities are as good as Gods we don't believe in one God we believe there are multiple gods that's all each God is a deity you know in Pokemon how they have
+5:39
+Pokemon like they throw up that's a lower form it's like a pet that fights for you imagine that you have higher
+5:45
+forms of these which are above you okay so I've seen that but I can't relate to that example because I don't know but
+5:51
+yeah more or less very simple definition is that there are some cultures that believe that there's really one God we
+5:57
+believe that there are many gods and each of them are omnipro omnipresent omniscient omnipotent that's all some
+6:04
+could be Shiva some could be Krishna some could be uh the goddess of various forms of the Goddess Tantra more or less
+6:10
+relates more to the worship of Shakti which is the goddess forms okay um Hinduism also believes in parabaram
+6:16
+which is that one universal God yes uh which is the god that the whole world knows there is however one small
+6:22
+difference the Brahman or the para Brahman that is called in vedanta it is absolutely neutral which means that it
+6:29
+does not care much about you it does not Hindus never made a temple to the Brahman Hindus don't have a ritual to
+6:34
+worship the brahmana it is like the Fate the concept of faith that was there in the ancient Greek religion which was all
+6:41
+most like our sort of not same but kind of multiple deities forms were there so
+6:46
+there is a power that is higher but it is very neutral it does not care whether you worship it or not it is not even
+6:51
+asking you to do anything there is no way you can worship it no Hindu no Rishi ever actually made a temple to the
+6:57
+brahmana you can worship the deities and the deities will interact with you they
+7:02
+embody the power of the Brahman the Brahman is a very neutral principle who worships the Brahman a sannyasi which
+7:08
+means one who has left the life completely he worships the Brahman why how does he do it by meditating on it
+7:15
+why does he do it so he gets that neutral perspective of life it is not going to give you anything else you
+7:20
+cannot worship the Brahman and say you can worship in our context you may worship Lakshmi mahalakshmi and say that
+7:27
+I need some money my financial condition is not good you can worship Lord Shiva and say that I need a cure for a disease
+7:32
+a sannyasi is a Hermit someone believes the material world right but you're saying that within the material world
+7:38
+first of all one of the goals of Hinduism for the material world is get done with your material desires so that
+7:44
+you can move on to spiritual desires yes but while you're stuck in the material world these deities help you progress fast spiritually or materially both both
+7:51
+aspects both aspects of that okay but the Brahman is not like that so you cannot pray to the brahmana and say that you give me a good you know uh some
+7:58
+money I need some a cure for a disease I need or I I you cannot even pray for Moksha it doesn't care whether you exist
+8:05
+or it doesn't care whether you worship that is a huge difference between the concept of God As We Know It that comes
+8:10
+from the West versus the idea of God that we the Brahman that we believe in that comes in vedanta the other texts
+8:17
+fascinating um okay now let's begin talking about
+8:22
+the sexual activities that we spoke about and maybe one precursor is that a gist of some of the stuff you spoke
+8:28
+about in our first episode is that Tantra is like a path yes uh the general
+8:34
+path for every single human being is spiritual progress right going closer to Evolution correct because this is not
+8:40
+our final form right right being a human now you can progress by meditating you can progress by praying Tantra is like
+8:47
+you're taking a car and going on that same road where most other people are walking right uh and then there's
+8:53
+different types of cars depending on the kind of Tantra you follow right including aguri which is a common in a
+8:58
+term that a lot of the West understands you know the Babas who are supposed to be famous for eating human flesh that's
+9:04
+one of the aspects in their life they follow set of rules which is like driving a Formula One car uh on the same
+9:10
+road right excerpts from a Hindi vodkas which is also fantastic coming back to this conversations yes uh now I will let
+9:17
+you shed some light on the tantric sex aspect yeah because most people look at tantric sex as a tool to improve their
+9:24
+sex life so this is uh this is like uh so where does as we were discussing in
+9:31
+the last podcast so this whole concept of tantric sex or sex for that matter comes in at the level of vamachara
+9:38
+Tantra where it's as I mentioned there's a level that's called the vamachara which is the left hand path in left hand path you start offering meat you offer
+9:45
+alcohol you offer fish you offer mudra and you offer sex and this is at a very high level of high level after you've
+9:51
+done a lot of the lower levels yes so more in fact um
+9:56
+it is to say that you to pick out sex out of these five things we call this technical
+10:03
+is the Pancha Makara five M's okay so uh to pick out just one aspect out of it
+10:08
+and then uh to believe that this is going to improve your sex life Etc is also is equivalent to saying that okay I
+10:14
+just take out that neat offering part of it and uh perhaps uh that that's a way to increase protein intake in my body so
+10:21
+that would be that ridiculous so the aim that's what I said the aim of the process of the whole
+10:26
+process of everything that is done in Tantra is worship of the deity it has to be very clear and firm in your mind so
+10:33
+long as something is helping you in worship of the deity and it is within the permitted rules of
+10:40
+tantri kupasana we call it the practice it is allowed for you okay but the aim
+10:45
+has to be clear that it is for the worship of the deity it is not for pleasure it is not for any other kind of indulgence it is not going to make you
+10:52
+Superman or anything of that sort so having said that sex is also one of
+10:58
+the things that can be offered to the deities but there is a process to it it
+11:03
+is not normal sex and it requires certain amount of preparation of Mantra upasana which means the chanting of
+11:10
+mantras of the deity and chanting of Mantra is not just one twice so so Tantra looks at it this way uh you have
+11:17
+an ishta date is God you are worshiping the form of the mother that you are worshiping and you may have to chant
+11:22
+lacks of mantras of the deity not even one two lakh some texts will tell you 5
+11:28
+10 15 20 lakhs of the month is hundred thousand hundred thousand yeah of the Mantra that you have obtained
+11:35
+from the legitimate Guru through a tantric initiation okay now suppose uh so Tantra was never
+11:44
+originally a path of the sannyasis though various sannyasi
+11:49
+sects later on adopted Tantra because it is very powerful its techniques are powerful it it adopted those parts which
+11:56
+did not violate with their sannyasi code which means that they did not take these aspects of Tantra they took the right
+12:02
+hand path which is called the dakshinachara that is also Tantra so tantra's idea fundamental idea was that
+12:08
+the things that make you fall in normal religion whether it's meat whether it's alcohol whether it's sex Etc which is
+12:15
+the standard ideas that these will make you fall so let us divinize those processes so that they become the means
+12:21
+to which you can attain to the Divine okay and in this one of the most legendary tantric uh acharyas in fact he
+12:29
+is almost is beyond an acharya is one of the greatest North yogis he was known as
+12:35
+matsindranath he used to live in kamakhya okay and he uh he was born somewhere in Bengal and his he practiced
+12:43
+his uh and he composed a lot of text on
+12:50
+on these aspects of Tantra yogini sadhana and bhairavi sadhana Etc so
+12:58
+the fundamental basic idea at what primary level of where sex is used in
+13:04
+Tantra is that the partners have to be first of all initiated into the process both both it
+13:11
+cannot be one person both so by a guru by a guru definitely by the same Guru it
+13:16
+can ideally is the same Guru okay ideally if it's the same Guru in fact the guru not only does initiate but he
+13:22
+also ensures if if these are if it's a husband wife partner Etc so they will initiate that it is the same form of the
+13:29
+deity that is given to them this is also where we should mention a word of caution because this is where a lot of
+13:35
+people might misuse their position of spiritual power yes that's there that's another aspect yes do you want to shed
+13:42
+some light on that but first let's complete this thing so Guru initiates both the partners are
+13:50
+in any case both the partners must have the tantric initiation okay that is mandatory number two they must be doing
+13:56
+their Mantra sadhana properly which is the Mantra japa of the devatha deity that is like doing a Seva to the Seva
+14:01
+means a service to the deity and the deity by the way in in once you go higher into Tantra sadhana it is uh the
+14:08
+average conception of the deity that we look at is the murti in temples wonderful that is there that's what the
+14:15
+public but for you the Mantra is the deity for an individual who is into the
+14:20
+tantric path the Mantra that is given to you okay whatever is the Mantra that Mantra is the date it is like the subtle
+14:27
+body of the deity as we were talking about subtle body and physical body so the Mantra is the subtle body of the
+14:32
+deity astral body astral body sort of that and when you are chanting that Mantra you are trying to connect to the
+14:38
+subtle body of the deity now fundamentally what this process entails is that uh when uh both of these
+14:45
+Partners it doesn't just happen you know it's it's not like something that you just go ahead and have sex no this is a
+14:51
+Puja that has to be done specifically there are monthly that is to be done and then there are certain mudras certain manners in which they have to sit in
+14:57
+certain postures Etc um and during the course of having sex
+15:03
+they have to keep chanting the Mantra of the deity and that japa is that Mantra
+15:08
+Japan is not no it's not a one minute thing it's not a two-minute thing sometimes texts will recommend that you
+15:14
+have to chant a mantra which is so long that may take you 30 minutes 35 minutes how do you last for so long till the
+15:20
+Mantra is complete there cannot be a release there cannot be an orgasm in order to do that there were techniques
+15:26
+that were added so that you can hold back the orgasm both for the specifically for the meal
+15:31
+while you are continuing the Mantra Japan so the primary aim is if you're not doing the Mantra job and if you're just
+15:38
+having sex and practicing those techniques it is useless it has got nothing to do with thunder sadhana whatever else you are doing that is not
+15:43
+Tantra sadhana again another tale of caution this is why tantric healers tantric sexual
+15:49
+healers it's all of ours yeah more or less I mean I would not I'm
+15:56
+talking about the Western tantric because actually you keep it in the Instagram bios and all yeah if you're
+16:01
+going to one of them just be careful you I don't know why they add Tantra to it because more of them most often there is
+16:07
+no Tantra involved in it it's just some some uh you know sexual techniques and all that you can package it in any name
+16:13
+this is what gives spirituality a bad name yeah uh but it's fine whatever but uh if it is done correctly both the
+16:20
+partners are of that say of that similar caliber so there are more rules in this some of them perhaps cannot even be
+16:27
+spoken of without so they have this uh rules are there that these certain certain esoteric aspects of this uh
+16:33
+sometimes it is referred to for example as panchama panchamma means Fifth Fifth means you know that it is talking about the fifth of the five offerings which is
+16:40
+sex basically okay so panchamma sometimes when you're talking about the Pancham offering Etc there are many rules of how to judge the partner
+16:48
+yes just by observation so when you are worshiping the goddess
+16:54
+for example there are thus 10 mahavidas are there okay leaving us at one of the mahavidyas mahavidya is the goddess
+17:00
+great wisdom the the tantric goddesses forms of the
+17:05
+Goddess that each represent a different form of wisdom yes okay and and the mahavidya worship is tantric okay so
+17:13
+leaving us at one of the mahavidas for the other mahavid there's there is this dictum it's believed and it's not to be
+17:20
+mindlessly applied that every woman has some of the other influence of these
+17:27
+10 goddesses Every Woman whether she is aware of it or not is irrelevant why not
+17:33
+every man ah that is because women are considered as a representative of Shakti
+17:38
+men are considered as representative of the purusha Shiva Shiva purusha purusha
+17:44
+is Shiva Krishna can also be a purushottam I was just mentioning yesterday and that's it
+17:49
+that's another topic okay skip that for now because it'll divert it into another
+17:55
+and that's also beautiful um all of it is beautiful I mean there's no part that is not beautiful so women
+18:01
+are considered as a representative of Shakti okay now uh this statement
+18:07
+however cannot be Mis used out of context which doesn't mean that every woman that you meet you have to fall at
+18:13
+her feet no then you are getting it all wrong okay this is only relevant to somebody who is doing specific sadhana
+18:21
+specific Worship in the tantric method and has reached a certain level okay otherwise in a normal context when you
+18:27
+meet whether a man or a woman in the normal rational way that you interact with them you interact with them that's all neither good nor bad doesn't mean a
+18:33
+thing now if you are that kind of a person who has had a tantric initiation and is a tantric and has done certain
+18:42
+sadness practitioner so he's a practitioner correct the practitioner has the right
+18:48
+initiations and most importantly has done the practice properly it's very important there are people I know who
+18:53
+have lot of initiations no practice that also will not work it's useless that's like you're hanging 10 medals around you
+18:59
+but inside there's nothing so then by looking at the woman you will
+19:06
+know that which of the mahavidyas she represents which of the forms of shakti's in latent
+19:12
+inside that latent Insider that's one thing latent means that most of them are not even aware and which is perfectly
+19:17
+all right just like most men have but that doesn't mean that every man is Lord Shiva or Lord Krishna it doesn't work
+19:23
+same way not every woman has anything to do with the deity there is the potential for one if the sadhana is correctly done
+19:29
+that potential can awaken if that woman Becomes self-aware of what she holds with it then she becomes one of the
+19:36
+bhairavis and yogiris in the higher levels and then everybody will fall at the feet of such a woman that is very
+19:42
+rare and it's possible and it happens um there and it's very high level idea
+19:47
+but uh in this uh upasana the other thing is that it
+19:53
+breaks certain mental taboos that is there in the normal course of upasana and the way they got standard we are
+19:59
+told that you have to maintain a certain degree of celibacy which is uh which is right which is I'm not denying that in
+20:05
+certain practices celibacy is very important otherwise it will not work it will not show you the result
+20:10
+um it it causes a break in concentration more or less one of the typical effects of uh you know not having celibacy is
+20:17
+that it causes a break in the concentration at the peak moment when you are supposed to have 110 focus on
+20:24
+the Mantra in the deity that is where thoughts and images of uh sexual encounters will rise up and it happens
+20:30
+from the chitta within it rises up and it rises up and it is going to break your concentration you will not get the result is the core of your soul it's
+20:37
+like your mind it's a part of your mind it's it's like that place inside you where Impressions happen all the time
+20:43
+subconscious mind conscious mind only but it's latent just below the conscious mind you're meeting somebody you're
+20:48
+anything whatever activity you're doing it is it just collects an impression of it okay and randomly throws up just like
+20:54
+that when you're not thinking about it suddenly especially specifically if you're not trying to meditate it's going to throw up all sorts of images it
+21:00
+happens to everybody okay okay coming back to the topic of conflict sex so basically
+21:06
+this practice is done during the time of this sadhana during
+21:11
+the time the the woman is actually to be made to sit in a specific posture and monthers have to be chanted all over our
+21:18
+body and uh I will not go into the specific details of how this is done and what mantras also everything is is as
+21:24
+per it's not something randomly done these are things that are mentioned in text and passed down through traditions
+21:29
+of those traditions where these forms are worshiped specific forms of the mother the mahavidas are there for whom
+21:35
+this sadhana is extremely potent okay uh you have to know number one number two uh there is a knowledge of uh what kind
+21:43
+of a partner is suitable for this the somebody who has uh through Mantra
+21:50
+sadhana there is an intuitive ability that develops just by looking at the person you'll get to know what kind of
+21:55
+result is going to happen and this thing by the way extrapolates it outside of the tantric context also the reason why
+22:01
+there is a certain amount of control over sex is always advised in the spiritual path because when you have
+22:07
+unrestricted sexual encounters with people you do not know what karmas they have done you are going to imbive their
+22:13
+energy that is the easiest way to take in somebody else's energy is that Tantra believes that if you have sex with someone you don't know you're saying I
+22:19
+accept this person's karmas as my own not just Tantra any way it will happen is the easiest way on the other hand
+22:26
+if this process is correctly done and the right people are there it is the this one this when you are doing it as a
+22:32
+practicer spiritual practice not just for enjoyment Etc spiritual practice it has the power to instantly open up all
+22:40
+the chakras in your body which could be dangerous no it will be it can lead you then and mind you everything is going
+22:46
+perfect I am talking about the uh the result that it finally produces if everything is right it will lead you to
+22:52
+a state known as mahabhava samadhi which means that you are in a state of absolute Bliss rapture
+22:58
+extended orgasm no it's way beyond that you will have a vision of the deity it
+23:04
+will be in a state of samadhi means basically your mind becomes absolutely concentrated on the deity and there'll
+23:09
+be a manifestation of the radiant it is a state of unbelievable if it's correctly done and the progress that
+23:16
+will happen between the two partners together it is it's like it doubles your power
+23:22
+probably also get connected to your car partner more deeply that is there that's a side effect of it that is also there
+23:28
+beforehand which means that this process is anyway not going to work if you have not had the same partner for many
+23:34
+lifetimes just like that if you meet karmically somebody it's not going to work out it will just be a relationship
+23:39
+and two days later you'll have some fight and reach will go its own way so I'm assuming that the guru who
+23:45
+actually initiates both the partners into this uh will ensure that either they are husband and wife or
+23:52
+so here is uh in this age today mostly it has ensured that it's a husband and
+23:58
+wife but there was an uh there is another tradition older tradition that used to happen and those are there are
+24:04
+certain as where
+24:11
+so they've left Society Hermits kind of Hermits yeah maybe basically they've
+24:17
+left Society so they're not part of a formal Society they only practice and they're connected to the Mandalay
+24:23
+mandeli means group that specific group who practice in their uh marriage is not specifically
+24:31
+there free out of free will they decide the both the partners decide and the guru
+24:38
+decides whether they have the capacity for it okay here is the thing what is the what is the level of the male
+24:44
+partner and what is the level of the female partner and the specific terms that are used for the male the term that is used is bhairava and the female that
+24:50
+the term that is used is bhairavi okay so whether the bhairava and the bhairavi are matched for this kind of a practice
+24:56
+and then they can stay together for something could be months could be years Etc then they may even go out in the
+25:03
+sense that you know Pathways in the sadhana so this was an accepted idea in tantric circles earlier when there used
+25:09
+to be more of people who used to leave uh Society normal society and practice entirely in India I remember an anecdote
+25:17
+I had read and that's a not an anecdote actually it's a very it's a true incident there's a beautiful text in
+25:23
+Bengali it's called which means that
+25:28
+is somebody who is curious about Tantra sadhana country processes that kind of
+25:35
+an individual he goes out in search of sadhus who are
+25:40
+of the tantric persuasion and he interacts with them and this gentleman spent 12 years roaming around
+25:46
+India trying to find these kind of people here later he came back home and later he had
+25:51
+gone to Sri aurobindo and then he wrote that book and that book is a cult classic only thing is that it is in
+25:56
+Bengali those who have read it it's it's it will blow your mind it's the one of the greatest books I've read so there he
+26:03
+had an interesting encounter he mentions he comes from a traditional Vedic family so he is suspicious of Tantra he
+26:09
+mentions right at the beginning he thinks that there is some this is you know some kind of Jewel to use the very typical Mumbai language like some kind
+26:16
+of fast he doesn't believe that this thing actually leads to anything he's very skeptical he's very honest that
+26:22
+he's skeptical about it but he's still curious to see and it's perhaps his destiny that he gets to meet a lot of
+26:27
+great tantricas of that era and he was an artist by the way so all he used to carry with him was a pen and paper and
+26:34
+whenever he used to meet somebody interesting to make a sketch of that individual okay so he goes to a place called Walker in Bengal Walker is one of
+26:42
+the oh ancient Shakti betas of an important uh divine feminine
+26:47
+Temple yes I'm having to translate everything because we have so many American and European viewers but I got
+26:53
+your back go download my meditation app I'm kidding so so he goes to vakrishwar that is one
+27:01
+of the very famous and Powerful uh temples of uh of the Goddess okay or the
+27:08
+tantric temples and it was that in that era the temple was famous for virajar
+27:13
+sadhana viracha is an extreme form of Tantra sadhana where these things come into play viraja Veer means you are like
+27:19
+a hero vir okay by the since we're talking of classifies men into three categories
+27:26
+first is pashu an animal who is an animal who has no spiritual conception just going around doing whatever else
+27:32
+you are doing in life you are a pursue after you have the tantric initiation and you start doing your practices you
+27:38
+become a Veera you are a hero because you are trying to fight against your Tendencies and develop yourself
+27:43
+spiritually it and then last stage you become a div we are a Divine being okay this is the three categories of men
+27:50
+whole of Tantra sastra is meant only for the Vira but the pashu who is uninitiated at the initial stages there
+27:57
+are no you do The Vedic sadhana you are not even you're not even entered the arena the Veera after you have the
+28:02
+initiation then only all these rules all this Makara everything comes into play and finally the Divine the Divya he also
+28:09
+has no rules why because he has already become Divine whatever he does is correct so Tantra says that you don't
+28:14
+mess with him and the pursue you don't bother about him it's only the middle section that I am curious about and bother that Temple is famous for
+28:21
+viratara and this gentleman goes there and this must be in early 1900s maybe 1910 or something I don't remember the
+28:27
+year Etc so uh people tell him that in The Cremation ground and The Cremation ground still exists by the way and that
+28:34
+cremation ground is so interesting uh not advisable for people to just hear and Rush there but if even in the
+28:40
+afternoon if you go there you'll have that certain Airy feeling there in that area so it's wonderful place for certain kinds of personas certain kind of
+28:47
+tantric sadhanas and thankfully it is not yet commercialized so it's good
+28:52
+here he goes there and he there's a Temple of the mother goddess of MAA Durga is there and he stays in the
+28:59
+temple and the those days if there's a Wandering monk that comes he used to wear that Hmong kind of dress so they
+29:04
+gave him some food and a place to stay and all that and somebody tells him that there is an agori who sits in The
+29:10
+Cremation ground so they just call him Baba they don't know what his name is they just know that he has come from Tamil Nadu he's come from the south and
+29:18
+he is sitting there and he stays there in The Cremation grounds and nobody disturbs him Nobody messes with him and
+29:24
+this guy gets very curious okay he's curious he's scared he's also skeptical that all these things are some farce but
+29:31
+at the same time there's curiosity also what is happening what is this Etc somebody tells him that aghori
+29:37
+as we were discussing eats once in three days and what does he eat he consumes
+29:43
+uh the brain matter of dead bodies with the rice once in three days the
+29:50
+Dome Dome is the individual who used to you know helps in the burning of the bodies yeah which is a whole other topic
+29:57
+by itself met some domes and that's a whole it's a society yes yes and they're
+30:03
+supposed to also have tantric Powers the worshipers of uh so yeah so it's there
+30:09
+yeah yeah so in that the Dome uh used to refer to him call him Baba and he used to get that that brain matter if you
+30:16
+have ever seen a skull pop in the fire it makes a sound and what's the sound like it's like
+30:23
+it's like a cracking of the skull in the fire and then something will that that brain matter the GUI mask comes out Etc
+30:29
+to observed in a cremation ground anyway so he used to consume that once in three
+30:34
+days he was a hardcore means he's gone beyond even the rules of Tantra sadhana also nobody used to mess with him
+30:41
+nothing but people used to River him very much that he is not an ordinary person he is almost he's like become
+30:46
+he's become wherever only wherever is the Lord of The Cremation ground Shiva in this form as bhairava is the
+30:52
+king of the commission ground nobody comes close to him he's the one okay he controls everything there then one day
+30:58
+after few days he sees that and he is curious to meet the gentleman but he's scared of the gentleman is he he's
+31:05
+writing all this it's the mix of emotions is going on okay he sees that the Lord of tantrics who have tantricas
+31:12
+have come to that place suddenly one day and from different far-off places and this is we are talking about pre-independence India so people have
+31:18
+come from Bangladesh there's a lady who has come from Bangla present day Bangladesh there's somebody who's come from some other place Etc and he is
+31:25
+wondering that why they are gathering so he goes to one more friendly and approachable looking of the tantricas and says that why have
+31:32
+you come and he says that because we will be doing in Chakra chakra understands you know the highest pujas
+31:38
+in Tantra greatest of pujas okay chakra is like the ultimate of upasanas so and
+31:46
+the Baba has called us how did he call telepathically there's no telephone in that era and
+31:52
+he's sitting in a cremation ground he doesn't even have anything so he telepathically calls them and they come start coming and those days they have to
+31:59
+walk and things like that so few months ago and Etc they're Gathering Together and they have come all in partners
+32:05
+partners groups Etc and then there is a lady who uh comes from Bangladesh okay
+32:14
+so he is this guy he's curious that he's like asking but don't you think this is
+32:20
+all you know whatever what good can it come out of all whatever you guys do Etc and the people are trying to convince
+32:26
+him you know you don't know this you have not tried the path if you don't know something how can you say that it's good or bad okay which is the story of
+32:33
+most Catholics in the world yes So eventually the night of amavastya
+32:39
+comes amava says the new moon night completely dark completely dark okay and at night the chakra understand will
+32:46
+happen so what is the chakra understand chakra understand is a is called Russia mysterious worship the
+32:53
+term that is used is mysterious worship it is not to be done in public it cannot be even ideally the details of it cannot
+32:59
+be spoken of in a gathering where the people are not initiated into Tantra Puja so people will sit in a circle
+33:06
+and there will be a Karma of sitting there's the bhairava and his bhairavi will sit wherever and his bhairavi will
+33:12
+sit his partner Shakti okay and there will be complete Synergy between the two by the way when this practice is
+33:18
+correctly done the two people will have such coordination one the partner of the
+33:24
+bhairava may be here and the wherever maybe 5000 kilometers away know exactly what this person is thinking and it will
+33:30
+be perfectly it's not even as it's not like by fluke once or twice some coincidence happens and we think that oh
+33:36
+something is happening no to test it the bhairava will mentally give a command something weird Okay so which is not you
+33:44
+cannot predict that thing something three to four times this test has to be done by the way is that a very far off
+33:50
+distance you will give a command she will register it in her head and do exactly that and that is how you know
+33:56
+that the coordination has been built to that perfection it is not to be left to a fluke and I
+34:02
+know that this may seem complete um Skeptics I don't care this is what it
+34:07
+is you believe it you don't believe in your business I don't care so then
+34:14
+all this come together on the night and in Chakra as I was saying chakra you sit together in a circle chakra means a
+34:20
+circle together in a circle and there's a leader of the chakra he's known as chakrish for a lord of the chakra and
+34:25
+there is a chakrishwary his partner okay they are like Shiva and Parvati only in The Cremation
+34:30
+ground forms okay and um and bhairavi is his partner so uh they sit together and they do this
+34:39
+panchamakara upasana one after the other and
+34:44
+it creates a tremendous Crescent of power and the other thing that is there once
+34:50
+you once you enter the chakra once anybody enters the chakra you will lose your distinction of caste or any other
+34:55
+outside you may be rich you may be poor doesn't matter as long as you are in the chakra you are all one only difference
+35:01
+is who has more Shakti than the other and there is a certain arrangement of sitting that is followed in certain
+35:08
+chakras and other things but I won't go into all the details because not everything can be spoken of in public
+35:15
+but anyway the chakra understand is happening what I am talking to you is already written down in a text hundreds of
+35:21
+people have read it I'm just translating that story and once again because it brings out that element okay
+35:27
+um so this guy this author he's very curious what is it doing so he goes into
+35:33
+the cremation ground and from a shrub in the uh you know forested certain areas
+35:38
+he hides himself there and is observing okay what exactly is going on so you see that they are sitting together in a
+35:44
+circle and then in the middle there is the Gori Baba who's sitting on his left is that a lady that female bhairavi
+35:52
+would come from Bangladesh very senior who was there and the others were sitting in circles so this goes like this that the immediate left is the
+35:59
+Shakti of that person of that person and then the Puja starts Puja means first they will be
+36:04
+meet first okay so meet with mantras they will consume it they will pass consume pass and with every partaking of
+36:12
+the meat you'll have to do Mantra Japan it's not just a you know let's sit together and have a feast no no no every
+36:17
+partaking you have to sit and do mantras affaste then there's Karan the term alcohol is not used neither is madira
+36:24
+used the term that is used in tantris Karan because it takes you to the Karan Sharif purified Sanctified alcohol
+36:32
+that takes you to the Karan sharir and with mantras and all these things it has to be purified is not something you just
+36:38
+get from the market to understand the word current Sharif you'll have to go back to a second podcast your body
+36:43
+consists of three parts your physical body your astral body and your causal body your astral body can be thought of
+36:50
+as your ghost and your causal body is your purest form of your soul which is just pure light now go answer okay so um
+36:58
+so he's seeing from a distance that what exactly are they doing and he's seeing with a bit of skepticism and curiosity
+37:04
+as it happens the more skeptical we are the more curious also we are what exactly is happening and he sees that
+37:11
+there is the meat that is being passed then there is a fish and then there's the alcohol and then there's the mudra
+37:16
+parched grains so there are certain um green dry grain stuff that we use for mudra and then there is the final punch
+37:22
+and he sees that uh the bhairavi the chakra was the leader of the pack the
+37:27
+agori and the bhairavi she sits in front she opens her clothes she starts is
+37:33
+doing Mantra Japan on her forehead on a neck on different parts of the body this whole process goes on for one hour
+37:38
+almost so he's doing Mantra Mantra of the deity basically he's invoking the
+37:44
+form of the mother God is inside okay of that Shakti of the power of the deity inside that is Shakti inside the lady
+37:51
+who's sitting there in the and she's also a tantric Lady by the way not an ordinary woman Etc and he's observing
+37:58
+all this and he is also not sure what exactly is happening since Etc and then
+38:03
+after some time um and it's it's kind of dark it's dark and he's the the what he's seeing is
+38:10
+through the there are lamps those days obviously you didn't have that kind of yeah and that remote place so there was
+38:16
+uh Diaz or oil lamps etcetera lit in front everybody so the light of that lamp in the Darkness at midnight on a
+38:23
+cremation ground is observing this scene okay and then suddenly at the end of
+38:28
+this whole Puja process that is going on he sees that the Gori who's the leader
+38:33
+of the chakra he sits and on his left thigh the lady who is also uh
+38:40
+she sits down and a specific mudra okay and he's doing japa with this hand with
+38:45
+this there's a Mala in his hand like this is and at that moment there's a flash of
+38:52
+lightning in The Cremation ground a thundering lightning in the pitch darkness and that lightning
+38:58
+rips apart the darkness everything is visible at that time and he sees to his absolute shocking amazement that there
+39:06
+is no there is the chakra is not that is Shiva is sitting full jata there and there are snakes around him in his head
+39:13
+and there is a trishula and there is Parvati sitting next to him and he sees that in a fields
+39:19
+in that flash of lightning all he sees he writes down is that I can see that this is the chakrishoda is gone it's not
+39:25
+there anymore this Shiva is sitting and this Parvati is sitting there in that
+39:31
+posture in that specific mudra we call it in specific posture and
+39:36
+there are snakes in his daughter as Shiva has snakes Okay and there is a threshold near him and there are beings
+39:41
+all around Etc Andy faints he wakes up next day in the afternoon
+39:48
+and he the Dome who used to be there uh Dome he sees when he wakes up he sees that the Dome is throwing water on his
+39:55
+mouth and all that the person that burns the body so he's saying that
+40:00
+um [Music] while he was hidden there and observing all this the aghuri knew everything so
+40:07
+after some time the aghori called The Dome and said that that guy is there is fainted take him inside let him rest he
+40:14
+doesn't have the capacity to take the power of this he doesn't even have an initiation for again initiation he was a
+40:20
+very genuine individual very high caliber very very very high caliber so the kind of power that is generated for
+40:26
+a person who does not have that practice if he is there it is going to cause a shocking
+40:32
+effect on you as we were discussing in the previous podcast the moment you come into face to
+40:38
+face with the reality that is non-conceptual so you build Concepts in your head whether it's skepticism I
+40:44
+don't believe it whether oh this is a big Theory there's God somewhere but he's not coming here I'm safe completely
+40:50
+the moment you have an altered experience it breaks down your Concepts and you either run away scared from it
+40:57
+or you bow down a difference there's no other rational way in which the mind can process an experience that is beyond
+41:02
+your ordinary you know what you are accustomed to
+41:07
+so he uh this chakrishwarya he knew that that guy was dead there's no way he can know because he's hidden there and he
+41:14
+calls this Dome and says that he's fainted take him inside put some water let him sleep so next day he wakes up
+41:19
+and his his leg stunned at what he has seen and um he comes to this uheshwar
+41:25
+and says and this this aghori starts laughing okay and then there's a
+41:30
+beautiful ancient ensuing conversation and says that everything in this material plane is divine it is not that
+41:37
+there is a God outside the god that you worship ishwara ishwari the Shakti the supreme power that we are
+41:43
+worshiping the Supreme mother God is that we are worshiping she's here in this plane everywhere hidden inside even the things that you consider as uh as
+41:50
+impure things that you consider as filthy it is there even there inside that is the philosophy we have we have
+41:55
+even from the upanishads there's a statement that sarvam khalidam Brahman everything is Brahman it is not saying
+42:01
+that there is a God outside and not here no we don't believe only a transcendental God or a deity or an
+42:08
+ishwara the devatha manifests here in this plane also it is hidden there it is through the process that you remove
+42:14
+process of the upasana of the practice of you remove the veil and you have a direct experience of the deity so what
+42:21
+in this case the whole point of this story was that when correctly done this sadhana by the
+42:28
+right people who are actually practicing and who look at it not as some kind of an enjoyment and some Fringe activity
+42:34
+I'm doing and some you know whatever else they think they're doing you look at it in the right sense this is the
+42:40
+nupasana this is a worship of the mother you look at it with the sense of reverence with that sense of
+42:47
+sacredness it has to be that sacredness has to be there and not just repeating sacredness ten times no no that feeling of reverence you when you go to a normal
+42:55
+Temple of any normal Temple of a deity you have faith on be it
+43:00
+hanumanji be it Lord Shiva with Krishna with anybody you have a sacredness and
+43:06
+sense of reverence right you go with the you don't fool around there you go you fold your hand sacredness that
+43:12
+sacredness has to be there in this process for it to work because you are not just doing random actions this is
+43:17
+worship then this will manifest into a terrific spiritual state of absolute this is
+43:24
+mahabhav samadhi kind of state this is where you not only have a manifestation of the deity and I remember in the last
+43:31
+podcasts I think we mentioned that one of the goals of the Tantra sadhana and the other parts
+43:37
+is for the deity to be inside you samavesha is the term that is used not just a Liberation but you divinize
+43:45
+yourself completely okay so that there's no difference between you and the deity as I will say so this is what it is he
+43:51
+that gentleman that aghori who was there whose name is also not known this incident he had attained to that kind of
+43:57
+a condition that when he was performing the ritual Shiva himself had entered into him
+44:02
+there's no difference between him and Shiva now what mode is Liberation if Shiva if if a deity like Shiva comes
+44:07
+into you Etc that is Moksha this is Moksha this is Liberation this is all there is what about the people in that Circle
+44:14
+they are a part of it to uh spiritually Advance like I'm assuming it's we spoke
+44:20
+about how tantric sex is a very big boost in your spiritual advancement I'm assuming that a ritual like this makes
+44:26
+it even faster yes and is everyone naked during the process yes uh not when the
+44:32
+Pancham Makara the fifth Makara comes in in fact uh very often uh after the four makaras are the four
+44:39
+Makara means after the meat fish etc etc then so each one can retire with their partner specific partners and perform it
+44:45
+in privacy perform the fifth ritual which is again they know this process so they know what mantras to be chanted and
+44:51
+how long Etc they can do it in their privacy okay um wow so many questions right now
+45:00
+why do these tantric sex techniques then work for the everyday human who reads it
+45:06
+out of books because there must be some power in them in those formats in that
+45:11
+technique that adds itself to an orgasm I'm asking from a very City person point
+45:17
+of view nothing to do with tantric practice uh so
+45:22
+there are certain techniques that work to enhance the uh you know the sexual
+45:28
+intimacy and pleasure and also but that is my so taking it out of the context is
+45:34
+a uh it has another Fallout by the way so if
+45:39
+you take it out of the context if you do these practices and just follow so the techniques that were
+45:45
+developed for example for for ensuring that an orgasm doesn't come so easily until all the Puja and the anusthana ETC
+45:53
+is completed during the process Etc if you take it out from the religious
+45:59
+context where it is used in that sense you will end up becoming just the opposite thing that the
+46:06
+religion abhorse which is you will become sort of a miniature version of a
+46:12
+sex maniac you will not only flare up your chakras that control sex but you will go crazy
+46:17
+about it and if that's what you want that's fine fair enough be clear in your head please go ahead and do what you
+46:22
+want there's probably some Neuroscience in this that your body will release excessive dopamine in that moment maybe
+46:28
+I I don't know that I can't comment on that but my my point is that the specificity of this is useful this is
+46:35
+useful as a technique only if you remember the context in which is to be used so even at the peak
+46:41
+of this technique when used correctly there is an orgasm but it's it's not an
+46:47
+orgasm it is an internalized orgasm but initial stages it will not show so for people who practice this actually in a
+46:54
+very very broad manner I'm defining it without going into more specifics so initial stages it is not going to work
+47:01
+that you will not be able to retain the orgasm but eventually as the practice deepens
+47:07
+Etc you are able to internalize the orgasm with a and it is at that Peak moment when the
+47:14
+Mantra attains maximum power without the Mantra all this is meaningless the Mantra attains power and the mantra
+47:21
+Mantra becomes what is known as you reach a stage a specific technical thing that is used in text which is called the
+47:28
+Mantra chaitanya which means the Mantra awakens it becomes an alive entity inside you Mantra is the deity that is
+47:35
+the moment your connection is built in a second I'm I'm sorry if I'm crossing a line
+47:40
+here but is it like when you orgasm in that ritual you have the vision of the deity uh more
+47:48
+or less but more or less but it's not again just like any other ritual for that matter even a normal Puja Etc it is
+47:55
+not going to happen in day one it is to practice okay with the right partner and all the other settings being set in
+48:02
+place Etc but yes in that moment when the orgasm happens Etc uh
+48:08
+in fact one of the things that people were more keen on uh in those who are in this those who practice this kind of
+48:14
+persona specifically for men so that they can somehow uh
+48:19
+retain the orgasm or if possible even sort of you know go beyond the organs
+48:24
+not have the orgasm why that is because orgasm calls but at the moment there's an orgasm there's this basic fall in the
+48:31
+level of energy okay so one of the typical things that after an orgasm that can happen in general is that you feel
+48:36
+sleepy you feel a little tired so then you want they did not want that fall of energy at any state even during this
+48:42
+process so all these things that I'm talking about by the way makes only sense if you are doing the upasana if
+48:47
+you take it out of the context then it's just whatever else you want to do I message your business how long is that
+48:53
+vision of the deity is it like an orgasm for like three four seconds the vision of a deity if it if it's
+48:59
+properly manifests uh your conception of time will go away you that is what is called a samadhi samadhi means you enter
+49:05
+into a Zone where your normal sense of time your concentrated um a single pointed concentration on the
+49:13
+uh on the deity or the Mantra is so deep that you lose track of time
+49:19
+you lose track of everything I hear you um okay let's make this conversation much
+49:25
+more basic because I think you've explained a very high level tantric practice
+49:31
+we as a brand often get criticized for highlighting the power of semen okay
+49:37
+um there is a movement called the nofap movement which is basically it's a
+49:42
+worldwide thing where a lot of men have decided to retain semen why the Western
+49:47
+perspective is that Muhammad Ali Tesla all these people used to retain semen and they felt benefits of it
+49:53
+my opinion on it is that when you combine semen retention with yoga it's
+50:00
+um more beneficial like that's where the actual benefits of retainings even come through
+50:05
+uh please correct me if I'm wrong or if your opinion differs I feel like retailings even the practice
+50:12
+can become very frustrating especially for a younger guy when you're a teenager full of hormones your system isn't set
+50:17
+yet so maybe it's not even a practice for everyone and in saying that every
+50:24
+single person whoever follows yoga whoever follows any sort of spiritual
+50:29
+path always highlights the power of civil and celibus even even when you're talking about uh celibacy for women
+50:37
+um you know staying away from sex is highlighted as a positive thing to help you on your yogic journey where do you
+50:44
+want to begin this conversation from the last statement that's because uh that's correct so this is highlighted as a
+50:51
+spiritual benefit in my opinion it is uh and I'm mind you or my perspective of
+50:57
+all that I'm saying is only from the spiritual perspective of him not so uh outside of that context why somebody
+51:02
+wants to wants to retain semen or why not I have no interest and I don't even know so I can't even comment on that
+51:09
+movement what is the goal and name Etc up but there is a benefit to maintaining celibacy but it should not be taken to
+51:15
+the level that okay that is the final goal that if I maintain celibacy everything is going to fall in place no you are going to get complete nuts
+51:22
+you'll be crazy there is a selective uh release and a selective celibacy that
+51:28
+has to be combined together so that it works out that is why our Dharma the Hindu Dharma says that there are four
+51:34
+goals with the average person's life Dharma is one of them which is your sense of religion righteousness Etc uh
+51:40
+Dharma Arthur which is your money that you are not the prosperity comma which is your lust and which is your desires
+51:46
+and Etc and finally there is Moksha so if Kama was something that you should be completely rejecting out of it so uh if
+51:53
+you without karma there is no life in the first place okay so it is there it is the only thing that they are talking
+52:00
+about basically fundamentally is that uh like water to give a simple example
+52:05
+like water and like if you if that proverbial Newton's Apple follows flows downwards because the gravity is going
+52:12
+to pull you down and things like that water flows from higher and to lower etcetera so if you indulge unrestricted
+52:17
+in sexual activities it is more or less going to pull your powers energy is down and you will feel as a lack of as I said
+52:24
+very simply speaking kind of tiredness any kind of spiritual practice at the
+52:30
+initial stages has to make you a little bit more alert energetic less sleepy in
+52:36
+fact one of the things that if you do a practice it is when you are sleeping
+52:41
+that is when you are most unguarded by the way okay initial stages so higher level yogis actually they try to
+52:47
+transcend even sleep very high level it's I'm not again these cannot be forced so my viewpoint in celibacy is
+52:53
+that do not even force it but maintain a certain decorum and discipline in it don't run around everybody and
+52:59
+everything that you feel like you know having a relationship with not like that have a basic Common Sense idea of how
+53:06
+much you can indulge and how much you do not and this idea is by the way this uh the way I'm describing it is not
+53:11
+something very unique or something I have thought about our texts will tell you that for a married man uh
+53:18
+to have a physical relationship with his wife is also celibacy hmm
+53:24
+nobody not any point are we asking people that you leave everything and become a sannyasi is this is there a
+53:30
+specific text oh this is the general idea of celibacy that if you are a married man in The Vedic Vedic system
+53:36
+why do you think the Vedic Karma Kanda rituals mandate that 90 of the rituals is barred
+53:43
+for an individual who is not married you cannot sit in a Vedic fire ritual proper Vedic fire ritual if you don't
+53:49
+have legally married wife with you you have to buy it from it doesn't matter how good your meditation is how much
+53:54
+yoga you can do and Etc and how much brahmacharya you follow you don't have a wife you're not married you cannot sit there do some spiritual processes start
+54:02
+only after marriage uh if you were to practice
+54:10
+yes but more or less marriage is a very balancing thing in my opinion uh and
+54:16
+it's helpful in if if your partner is also you know of the spiritual mint of mind I mean obviously uh but coming back
+54:22
+no she's not then you're bad luck there's nothing much I can say about
+54:28
+that uh so coming back to the point but there is
+54:36
+it is not to say that I am not again not to misconstrue what I'm trying to say I'm not saying that that means that you
+54:41
+have unrestricted uh you know physical relationships no celibacy has
+54:46
+its utility also it builds up certain power during that limited phase of time when you are following it so my
+54:54
+recommendation to people who are actually in the path of any kind of spiritual practices that and I I deal
+55:00
+more with people who are into the worship of deities
+55:08
+so suppose you are into an anusthana of a deity so you take a you make a
+55:16
+for 10 days or 15 days or 21 days so you follow limited period of celibacy during
+55:21
+that time the only reason is that when you follow celibacy and you do that
+55:27
+practice it helps building up power inside you however power is only useful if you have the
+55:34
+capacity to digest it if you don't digest it one of the other things that happens for example you start doing a
+55:39
+lot of Mantra sadhana for any deity certainly okay with no practice beforehand you start four or five hours
+55:45
+of mantra japer today the first thing that you you are going to see after some days is the tremendous increase in lust
+55:52
+tremendous increase in Anger these are the two leaks to which the power is going to get out of you because your
+55:57
+system simply does not have the capacity to absorb it you can eat only that much food as much as your stomach can digest
+56:03
+other things are going to get vomited out this is the spiritual vomiting that happens you will end up having all sorts
+56:09
+of you know running around everybody physical relationships unrestricted and then anger unrestricted these two things
+56:15
+the balancing how much of a spiritual power a particular individual can take through the practice and how much of a
+56:23
+uh you know a physical relationship or any an anger by the way is equally dangerous it just in a second your power
+56:29
+whatever you have accumulated is also going to go out this is where the role of a mentor a guru is so important
+56:35
+because you will take a lot of time to figure out that what is it that works for you a good Mentor a good Guru who
+56:43
+can handle you and I'm not saying and I don't mean that you know there are many organizations where you go and there are
+56:48
+1000 people getting an initiation and then after that for 10 years you have no clue where your Guru is and where you
+56:53
+are sitting at home and doing practice no I mean somebody who actually hand holds and guides you step by step sort
+56:59
+of at least and tells you that what to do and what not to do so there is no idea like this initially uh and it
+57:06
+should not even be encouraged that right now from this age become completely celibate forget everything it is going
+57:12
+to make you some spiritual Superstar nothing of that sort is going to happen what do you think of masturbation
+57:18
+same same same principle that happens in celibacy same principle so if somebody
+57:24
+is masturbating and he's uh practicing some spiritual same thing there's a
+57:30
+leakage of energy that is going to happen so whatever I talked about right now in the course of a physical
+57:35
+relationship Etc remove the word physical relationship add masturbation same thing there's no difference it is not going to make any other good or bad
+57:41
+or anything and I'm not talking even for a moralistic perspective I don't care what anybody does in their privacy but
+57:48
+um unrestricted yes definitely it is going to interfere with your process with your sadhana at a higher stage and
+57:54
+one of the biggest disadvantages of unrestricted sexual encounters or masturbation for that matter is that um
+58:01
+as I say in the peak point of concentration you should be like this when you are sitting for your Japan or
+58:08
+yoga or meditation or whatever at that Peak moment you should be able to forget the whole world
+58:13
+even if that is for two seconds then it is working for you what happens with unrestricted uh either whether physical
+58:21
+encounters unrestricted sexual encounters or excessive masturbation is that it is at that Peak moment that your
+58:27
+chitta which is the you know kind of the the mind that has Impressions it is going to throw up all sorts of images
+58:33
+and immediately it is going to break your concentration very minor thing but your practice is already gone
+58:40
+you can pretend to the outside world that you are a great Yogi and you are doing a lot of practice but your inside your practice is not working
+58:45
+so that is the problem on the other hand if you completely say that oh from today no no physical no sex no masturbation no
+58:53
+nothing you have to become I don't know what uh two days you'll go crazy neither is Mantra is going to work neither the
+58:58
+practice is going to work neither this is going to work so that balancing is important and we live in that kind of an
+59:04
+age where to sell a toothpaste you have to put two skimpily clad women on the advertisement where is your celebrity
+59:10
+going to come from yeah the society we live in stimulates us to shoot a load off that is where you have to maintain
+59:17
+that Common Sense use common sense and balance and no point in the spiritual journey are you to give up your common
+59:22
+sense you'll end up becoming a fool yeah yeah also I mean this is just a personal thought here not learned from a book
+59:29
+probably learned from experiences my thought is that if a spiritual truth
+59:34
+does not make sense to you and your subjective reality no one's asking you to accept it yeah so if this is against
+59:41
+your thoughts don't accept it and I am not even judgmental of people who say by the way just because I'm sure that a lot
+59:48
+of people will see that there may be traditional people who have uh celibacy they put into a very high pedestal and
+59:54
+not being judgmental and all that you do whatever you think is right for you but if you're asking me this is how you should approach in this age initially
+1:00:00
+and the impulse celibacy comes naturally by the way yeah that I was just like literally a second
+1:00:08
+before you said that I was thinking about the same thought that your libido if you're involved in a yogic life a
+1:00:14
+spiritual life a tantric life yes uh Your Lust settles down without any effort yes after a certain point of time
+1:00:21
+it will there are since we are on the topic there are two other factors by the way you have to remember here uh I think
+1:00:29
+yesterday we were discussing about pitrus ancestors were stuck in a pit through loka who are not able to move
+1:00:34
+forward very often in many cases uh an excessive amount of lust in an
+1:00:40
+individual whereas they may be practicing everything well uh is basically a projection of the impulses
+1:00:45
+of those pitrus and if it is the case and that can be analyzed through you
+1:00:51
+know various uh looking at the configuration of the planets at the time they're born and various other ways of finding out that is the case then the
+1:00:58
+only way is to actually perform rituals in the right shetra in
+1:01:04
+the right place so that the ancestors get Reborn and then it causes when you define it in
+1:01:12
+whatever way you want but it then it has an effect that slowly that libido or that excessive amount of so normal lust
+1:01:18
+is one thing normal lust everybody has but it goes beyond everything all rationality etcetera then it also comes
+1:01:23
+down you know things calm down a bit that is one the other is with age also libido kind of can taper of
+1:01:30
+um for a person who is genuinely spiritual yes that is what is happening for somebody who is not in the spiritual
+1:01:35
+path it's up to them I mean no judgment on what they are doing or not doing it's completely their life their choice but
+1:01:42
+spiritually this um uh so pitrus are one of the things by the way that is there in quite a few
+1:01:48
+cases I've seen people who face sudden bursts of whether it's excessive amount of lust or whether it's excessive anger
+1:01:53
+or certain uh and they'd also manifest a certain blockages in life in various um stages etc those
+1:02:04
+okay and if that is there if there's a normal amount of lust then uh to look at it as
+1:02:11
+a manageable thing the other problem that happens it tapers off of it on its own it will in time okay don't don't
+1:02:18
+make it as a big thing in your head that's the other problem that happens with a lot of spiritual people I am not able to get out of lust so you feel
+1:02:25
+guilty about it that is far worse than actually you know indulging in a
+1:02:31
+physical relationship sex or masturbation or anything after that the guilt trip that happens to some people
+1:02:36
+that okay oh I I could not maintain celibacy that is not going to help you that is far worse
+1:02:41
+um um intense I don't think the internet in
+1:02:48
+general has a piece like this anyway definitely not on a written blog right I'm glad that we could do this on a
+1:02:53
+podcast don't have any more questions with regard to this particular episode
+1:02:59
+also while we're shooting this in real time this is the fifth episode we've recorded so yeah right before this we
+1:03:05
+recorded a Hindi episode also fantastic and three epic English episodes yesterday and I still feel there's 15 more
+1:03:12
+podcasts that we we have to cover so thank you yeah and just one point Sunday
+1:03:18
+job go for it because we were discussing about go for it it's such a beautiful way in which certain concepts are
+1:03:25
+represented in our in the Hindu culture for example there is the famous story of Lord Shiva who destroys kamdeva okay
+1:03:32
+who's the god of last and last and love so somebody tells him that you Shiva is
+1:03:38
+meditating okay Shiva is uh in deep meditation is not even aware of anything so somebody tells him Shiva must have a
+1:03:44
+son that son can destroy nasura Asura is one of those negative powerful negative entities only a son born out of Shiva
+1:03:51
+but he is in meditation and in meditation in the deepest meditation is not even aware of the world he's not even aware of any physical existence
+1:03:57
+nothing where is last going to come so they bring this and they tell him that please do something so the story says
+1:04:04
+that he fires arrows okay and those arrows when they hit somebody uh that's
+1:04:11
+when the last desire arises so he comes and he disturbs he does something there
+1:04:16
+is Shiva is in deepest meditation suddenly there is this slight Awakening of stunning of Desire inside him and he
+1:04:22
+opens his eyes and he's Furious who is it that destroy disturbs his meditation so he opens his third eye Shiva Sada is
+1:04:28
+the thing okay and he looks at kamdeva and he's born to ashes straight away okay burn to ashes now there's a huge
+1:04:37
+problem if Karma if desire is gone to how will the world run world is finished without desire okay
+1:04:43
+then the goddess Parvati she comes in and she requests him that uh that no you
+1:04:50
+can't do that do something because otherwise everything is finished whole world runs on desire everything this
+1:04:56
+there is nobody who doesn't have desire desires are there not only by the way by desire we always think that it is last
+1:05:02
+but it could be your your body has a desire for food when you don't eat for a long time your you have a physical pain your body
+1:05:09
+has a desire for going to a state where the pain is not there it's ingrained in
+1:05:14
+you it's in your cells not just your mind desire is what runs it's the engine it's the glue that is making this world
+1:05:21
+run continuously and there's nothing wrong in it just like there's nothing wrong in anything if it is correctly
+1:05:26
+understood and applied so then Shiva says okay I will revive him but without a physical body
+1:05:34
+so here comes Karma Deva he's born reborn again and he has no physical body
+1:05:39
+and by the way this whole episode happens in kamakhya she is the goddess of all this and all these things now
+1:05:45
+this is such a beautiful idea so he here we have a calm there with a lot of Desire who has no physical form what it
+1:05:52
+means is that desire can come in any shape lust is born here from here it enters and then it spreads
+1:05:59
+everywhere so because he doesn't have a physical form that means that he can manifest in any form anywhere
+1:06:06
+and he cannot be destroyed something that doesn't have a physical form is also kind of omnipresent and
+1:06:13
+omnipotent so this beautiful idea comes to us through this kind of a story
+1:06:20
+how do you take care of the calm devathas everywhere then you follow a basic Common Sense
+1:06:27
+discipline and you don't fight it too much it is on its own it will go and yes certain devathas since we are on the
+1:06:34
+topic uh certain date is for example Lord Shiva and getting a blessings from Shiva is not so easy by the way
+1:06:41
+he is he can't take the mind to a state where uh Kama is not needed Beyond lust
+1:06:48
+but it is not something that is to be forced neither something that is you know artificially imposed on its own it
+1:06:55
+happens until the time it happens one follows a basic Common Sense basic uh standard discipline so you
+1:07:03
+follow a limited amount of uh you know Indulgence in last uh and then there are
+1:07:08
+phases you deny do not go too much into it neither you run away completely from it that balance is important balance
+1:07:14
+well Integrated Life along with the sadhana and the practices that you do eventually will lead the path for you
+1:07:21
+and automatically whatever has to be left from your system will go away fighting is not useful
+1:07:30
+thank you thank you so much great learning from you looking forward to meeting you in person again and you're
+1:07:37
+in Mumbai the next time yeah thank you so much thanks namaste so that was the episode for today we've
+1:07:43
+done an additional episode with rajashi sir in Hindi that's going to be out very soon I highly recommend that if you
+1:07:50
+understand Hindi you should check out a Hindi podcast there's certain kinds of content pieces that can only come out
+1:07:56
+better in Hindi please check it out it's over on our Hindi Channel make sure you
+1:08:01
+also check out level super mind which is our meditation app it's for beginners
+1:08:06
+intermediates and advanced meditators so if you're looking for a deep dive into
+1:08:12
+your own mind a deep dive into your own spiritual journey level super mind is where it's at I've linked it down below
+1:08:19
+and for more episodes like this make sure you follow TRS on Spotify every episode's available on Spotify 48 hours
+1:08:25
+before it's available anywhere else in the world one last request for you guys is to tell me what else you'd like to
+1:08:31
+see so speak about so it's definitely going to return on the runway show I
+1:08:36
+genuinely intend on visiting him in Bengal possibly doing a visit to the kamakhya Devi Temple in Assam but
+1:08:43
+generally I'd like to know from you guys which are the topics you all would like to see covered on this podcast let me
+1:08:50
+know in the comment section down below and keep supporting DRS [Music]
