@@ -87,4 +87,3 @@ Standard tropes asserting that the techniques are not enough, or that the techni
 
 At the very least, then, opposition to the distribution of this lore or warnings to keep the books closed were tantamount to an insistence that the effectiveness of Jewish magic was to be considered ex opere operantis [from the work of the doer] rather than ex opere operato [by the work done]. The inevitable hagiographical transformation of rabbinic sages into magical masters, a tendency that spared not even Maimonides, might thus be viewed as another expression of the conviction that, even more than in arcane formulae, Judaism’s magic resided in its saints.
 
---------
