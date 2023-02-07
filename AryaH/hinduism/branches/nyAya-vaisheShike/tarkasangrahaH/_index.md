@@ -15,7 +15,7 @@ unicode_script: devanagari
 - नीलकण्ठदीक्षित-कृता तर्कसंग्रहपरिभाषा।  
 - सुदर्शनाचार्यः \- सङ्ग्रहपरिभाषा
 - सानुवाद-विस्तार-पत्रम् [अत्र](https://docs.google.com/spreadsheets/d/1lzq8I-RbUPQb3J-B6qWANjS-Am7Mq7fUvQvTeINDjgE/edit#gid=1325220786)। (प्रायेणाळ्वारमहाभागप्रेरितम्)
-- पदार्थ-वृक्ष-चित्रम् [अत्र](https://drive.mindmup.com/map/0B1_QBT-hoqqVUE1MQnJ5MlZxVjQ#), [अत्र](https://atlas.mindmup.com/2017/10/69dd23b0afd311e7a0351f176414c14a/tarkasangraha_padaarthaah/index.html) च। (प्रायेणाळ्वारमहाभागप्रेरितम्)  
+- पदार्थ-वृक्ष-चित्रम् [१](https://www.mindomo.com/mindmap/ac0e4e75397c4b8d8d83068f777d5f9d) ॥ 
     
 
 ## पाठाः
