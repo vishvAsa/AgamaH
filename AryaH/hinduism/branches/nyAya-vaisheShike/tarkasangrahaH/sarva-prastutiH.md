@@ -173,7 +173,7 @@ Non-existence is of four kinds : Antecedent non existence, destruction, absolute
 
 ## द्रव्यम्
 
-### पृठिवी
+### पृथिवी
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र गन्धवती पृथिवी । 
@@ -4651,7 +4651,7 @@ Aversion is disliking.
 क्रोधो द्वेषः ॥ ५८॥
 </details>
 
-### कृतिः
+### कृतिः, धर्माधर्मौ
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4667,8 +4667,6 @@ Effort is is action.
 
 कृतिः प्रयत्नः ॥ ५९॥
 </details>
-
-### धर्माधर्मौ
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
