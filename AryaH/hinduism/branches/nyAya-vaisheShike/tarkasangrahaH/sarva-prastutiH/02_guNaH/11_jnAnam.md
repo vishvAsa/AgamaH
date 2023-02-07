@@ -292,7 +292,7 @@ According to the division of Perception, Inductive generalizations, Recognition 
 प्रत्यक्षानुमानोपमानशाब्दभेदात् ॥३५॥
 </details>
 
-## करणम्, कारणम्, कार्यम्
+## कारणम्, करणम्, कार्यम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -311,8 +311,8 @@ A cause with an operation, not one of those causes common to all effects, is cal
 
 <details><summary>दीपिका</summary>
 
-करणलक्षणमाह **असाधारणेति**।  
-दिक्कालादावतिव्याप्ति-वारणाय **असाधारणेति**।
+करण-लक्षणम् आह **असाधारणेति**।  
+दिक्-कालादाव् अतिव्याप्ति-वारणाय **असाधारणेति**।
 </details>
 
 
@@ -339,7 +339,7 @@ That which is invariably antecedent to some product, and is not otherwise consti
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कार्यं प्रागभावप्रतियोगि ॥ ३६॥
+**कार्यं** प्राग्-अभाव-प्रतियोगि ॥ ३६॥
 </details>
 
 <details><summary>English</summary>
@@ -354,13 +354,13 @@ That which annuls its own antecedent non-existence is called Effect
 
 <details><summary>दीपिका</summary>
 
-कार्यलक्षणमाह **कार्यमिति**।
+कार्य-लक्षणम् आह **कार्यम् इति**।
 </details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कारणं त्रिविधं समवाय्यसमवायिनिमित्तभेदात् ।
+**कारणं** त्रिविधं समवाय्यसमवायिनिमित्तभेदात् ।
 </details>
 
 <details><summary>English</summary>
@@ -380,7 +380,7 @@ Cause is of 3 kinds, according to the distinction of substantial, non-substantia
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत्समवेतं कार्यमुत्पद्यते तत्समवायिकारणम् ।
+यत्+++(→कारण)+++-समवेतं कार्यम् उत्पद्यते तत् **समवायिकारणम्** ।
 </details>
 
 <details><summary>English</summary>
@@ -395,13 +395,13 @@ That in which an effect intimately relative to it takes its rise, is a substanti
 
 <details><summary>दीपिका</summary>
 
-समवायिकारणस्य लक्षणमाह **यत्समवेतमिति**। यस्मिन् समवेतमित्यर्थः। असमवायिकारणं लक्षयति **कार्येणेति**। कार्येणेत्येतदुदाहरति **तन्तुसंयोग इति**।
+समवायिकारणस्य लक्षणमाह **यत्समवेतमिति**। यस्मिन् समवेतमित्यर्थः।
 </details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथा तन्तवः पटस्य पटश्च स्वगतरूपादेः ।
+यथा तन्तवः पटस्य, पटश् च स्व-गत-रूपादेः ।
 </details>
 
 <details><summary>English</summary>
@@ -417,7 +417,8 @@ As threads are of cloth nad the cloth itself of its own colour, etc.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कार्येण कारणेन वा सहैकस्मिन्नर्थे समवेतत्वे सति यत्कारणं तद् असमवायिकारणम् ।
+कार्येण कारणेन वा सहैकस्मिन्न् अर्थे +++(→अद्रव्यरूपेण)+++ समवेतत्वे सति  
+यत् कारणं तद् **अ-समवायि-कारणम्** +++(=??)+++।
 </details>
 
 <details><summary>English</summary>
@@ -430,10 +431,15 @@ Where this intimate relation exists, that cause which is associated in one and t
 कार्येण कारणेन वा सहैकस्मिन्नर्थे समवेतत्वे सति यत्कारणं तदसमवायिकारणम् ।
 </details>
 
+<details><summary>दीपिका</summary>
+
+असमवायिकारणं लक्षयति **कार्येणेति**। 
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथा तन्तुसंयोगः पटस्य तन्तुरूपं पटरूपस्य ।
+यथा तन्तुसंयोगः पटस्य,  
+तन्तुरूपं पटरूपस्य ।
 </details>
 
 <details><summary>English</summary>
@@ -449,12 +455,13 @@ The conjunction of the threads is the non-substantial cause of the cloth and the
 
 <details><summary>दीपिका</summary>
 
+कार्येणेत्येतदुदाहरति **तन्तुसंयोग इति**।  
 कार्येण पटेन सह एकस्मिंस् तन्तौ समवेतत्वात् तन्तुसंयोगः पटस्यासमवायिकारणमित्यर्थः। कारणेनेत्येतदुदाहरति **तन्तुरूपमिति**। कारणेन पटेन सह एकस्मिंस्तन्तौ समवेतत्वात्तन्तुरूपं पटरूपस्यासमवायिकारणमित्यर्थः।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तदुभयभिन्नं कारणं निमित्तकारणम् ।
+तदुभयभिन्नं कारणं **निमित्त-कारणम्** ।
 </details>
 
 <details><summary>English</summary>
@@ -475,7 +482,7 @@ The cause which is distinct from both of these is the instrumental cause.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथा तुरीवेमादिकं पटस्य ।
+यथा तुरी-वेमादिकं पटस्य ।
 </details>
 
 <details><summary>English</summary>
@@ -492,7 +499,7 @@ As the weaver's brush, loom, etc are instrumental causes of cloth.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् एतत् त्रिविध-कारण-मध्ये  
-यद् असाधारणं कारणं  
+यद् असाधारणं+++(→दिक्कालदि-भिन्नं)+++ कारणं  
 तद् एव **करणम्** ॥ ३७॥
 </details>
 
@@ -508,7 +515,7 @@ Among these three kinds of causes, that only is an instrumental cause which is n
 
 <details><summary>दीपिका</summary>
 
-करणलक्षणमुपसंहरति **तदेतदिति**।
+करणलक्षणम् उपसंहरति **तदेतदिति**।
 </details>
 
 ## ज्ञान-करणम्
@@ -517,7 +524,7 @@ Among these three kinds of causes, that only is an instrumental cause which is n
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्र प्रत्यक्षज्ञानकरणं प्रत्यक्षम् ।
+तत्र प्रत्यक्ष-ज्ञान-करणं **प्रत्यक्षम्** ।
 </details>
 
 <details><summary>English</summary>
@@ -538,7 +545,7 @@ The cause of the knowledge called perception is sensation
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रियार्थसन्निकर्षजन्यं ज्ञानं प्रत्यक्षम् ।
+इन्द्रियार्थ-सन्निकर्ष-जन्यं ज्ञानं **प्रत्यक्षम्** ।
 </details>
 
 <details><summary>English</summary>
@@ -559,7 +566,7 @@ Sensation is the knowledge produced by the conjunction of an organ of sense and 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद्द्विविधं निर्विकल्पकं सविकल्पकं चेति ।
+तद् द्विविधं - निर्विकल्पकं सविकल्पकं चेति ।
 </details>
 
 <details><summary>English</summary>
@@ -575,7 +582,7 @@ Perception is of 2 types - Perception which does not pay regard to an alternativ
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्र निष्प्रकारणं ज्ञानं निर्विकल्पकं यथेदं किञ्चित् ।
+तत्र निष्प्रकारकं ज्ञानं **निर्विकल्पकं** - यथेदं किञ्चित् ।
 </details>
 
 <details><summary>English</summary>
@@ -585,13 +592,13 @@ The knowledge which does not pay regard to an alternative is that which involves
 
 <details><summary>मूलम्</summary>
 
-तत्र निष्प्रकारणं ज्ञानं निर्विकल्पकं यथेदं किञ्चित् ।
+तत्र निष्प्रकारकं ज्ञानं निर्विकल्पकं यथेदं किञ्चित् ।
 </details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सप्रकारकं ज्ञानं सविकल्पकं यथा डित्थोऽयं ब्राह्मणोऽयं श्यामोऽयं पाचकोऽयमिति ॥ ३८॥
+सप्रकारकं ज्ञानं **सविकल्पकं** - यथा डित्थोऽयं ब्राह्मणोऽयं श्यामोऽयं पाचकोऽयमिति ॥ ३८॥
 </details>
 
 <details><summary>English</summary>
@@ -605,13 +612,9 @@ The knowledge which contemplates an alternative is that which includes a specifi
 </details>
 
 
-
-
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रत्यक्षज्ञानहेतुरिन्द्रियार्थसन्निकर्षः षड्विधः ।
+प्रत्यक्षज्ञानहेतुर् **इन्द्रियार्थ-सन्निकर्षः** षड्विधः ।
 </details>
 
 <details><summary>English</summary>
@@ -632,7 +635,7 @@ The mutual proximity of a sense and its object, which is the cause of perception
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-संयोगः, संयुक्तसमवायः, संयुक्तसमवेतसमवायः, समवायः, समवेतसमवायः, विशेषणविशेष्यभावश्चेति ।
+संयोगः, संयुक्तसमवायः, संयुक्तसमवेतसमवायः, समवायः, समवेतसमवायः, विशेषण-विशेष्य-भावश् चेति ।
 </details>
 
 <details><summary>English</summary>
@@ -648,7 +651,7 @@ Conjunction, Intimate union with that which is in conjunction, Inherence in that
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-चक्षुषा घटप्रत्यक्षजनने संयोगः सन्निकर्षः ।
+चक्षुषा घटप्रत्यक्षजनने **संयोगः** सन्निकर्षः ।
 </details>
 
 <details><summary>English</summary>
@@ -669,8 +672,8 @@ When a jar is perceived by the eye, there is [between the sense and the object] 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-घट-रूप-प्रत्यक्ष-जनने संयुक्त-समवायः सन्निकर्षः चक्षुः  
-संयुक्ते घटे रूपस्य समवायात् ।
+घट-रूप-प्रत्यक्ष-जनने **संयुक्त-समवायः** सन्निकर्षः,  
+चक्षुः-संयुक्ते घटे रूपस्य समवायात् ।
 </details>
 
 <details><summary>English</summary>
