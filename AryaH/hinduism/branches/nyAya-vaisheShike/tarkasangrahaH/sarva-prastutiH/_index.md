@@ -35,7 +35,7 @@ For the pleasant comprehension of the uninstructed, I compose the Compendium of 
 बालानां सुखबोधाय क्रियते तर्कसंग्रहः ॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>दीपिका</summary>
 
 विश्वेश्वरं साम्बमूर्तिं प्रणिपत्य गिरां गुरुम्।  
 टीकां शिशुहितां कुर्वे तर्कसङ्ग्रहदीपिकाम्॥

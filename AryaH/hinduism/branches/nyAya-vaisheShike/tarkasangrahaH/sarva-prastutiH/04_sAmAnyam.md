@@ -2,9 +2,25 @@
 title = "०४ सामान्यम्"
 
 +++
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नित्यमेकमनेकानुगतं सामान्यम् ।
+</details>
+
+<details><summary>English</summary>
+
+Community is eternal, one, belonging to more than one.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नित्यमेकमनेकानुगतं सामान्यम् ।
+</details>
+
+<details><summary>दीपिका</summary>
+
+सामान्यं लक्षयति **नित्यमिति**। संयोगेऽतिव्याप्तिवारणाय नित्यमिति। जलपरमाणुगतरूपेऽतिव्याप्तिवारणाय एकेति। परमाणुपरिमाणादावतिव्याप्तिवारणाय अनेकेति। अनुगतत्वं समवेतत्वम्। तेन नाभावादवतिव्याप्तिः।
 </details>
 
 

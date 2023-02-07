@@ -18,6 +18,11 @@ Action consists in motion
 चलनात्मकं कर्म ।
 </details>
 
+<details><summary>दीपिका</summary>
+
+कर्मणो लक्षणमाह **चलनेति**। उत्क्षेपणादीनां कार्यभेदमाह **ऊर्ध्वेति**। शरीरेति। वक्रतासम्पादकमाकुञ्चनम्। ऋजुतासम्पादकं प्रसारणमित्यर्थः।
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -115,13 +120,3 @@ Action resides in the four beginning with Earth and in Mind.
 </details>
 
 
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-नित्यमेकमनेकानुगतं सामान्यम् ।
-</details>
-
-<details><summary>English</summary>
-
-Community is eternal, one, belonging to more than one.
-</details>

@@ -17,3 +17,8 @@ Differences residing in eternal substances are excluders of each from absolute i
 
 नित्यद्रव्यवृत्तयो व्यावर्तका विशेषाः ॥ ६७॥
 </details>
+
+<details><summary>दीपिका</summary>
+
+विशेषं लक्षयति **नित्येति**।
+</details>

@@ -18,6 +18,11 @@ Co-inherence is constant connection.
 नित्यसम्बन्धः समवायः ।
 </details>
 
+<details><summary>दीपिका</summary>
+
+समवायं लक्षयति **नित्येति**। संयोगेऽतिव्याप्तिवारणाय नित्येति। आकाशादावतिव्याप्तिवारणाय संबन्धेति। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -48,6 +53,11 @@ Two things which cannot exist separately are those of which two the one exists o
 <details><summary>मूलम्</summary>
 
 ययोर्द्वयोर्मध्ये एकमविनश्यदवस्थमपराऽश्रितमेवावतिष्ठते तावयुतसिद्धौ ।
+</details>
+
+<details><summary>दीपिका</summary>
+
+अयुतसिद्धलक्षणमाह **ययोरिति**। ’नीलो घटः’ इति विशिष्टप्रतीतिर्विशेषणविशेष्यसम्बन्धविषया, विशिष्टबुद्धित्वात्, दण्डीति विशिष्टबुद्धिवत् इति समवायसिद्धिः। अवयवावयविनाविति। द्रव्यसमवायिकारणमवयवः जन्यद्रव्यमवयवि।
 </details>
 
 
