@@ -1,0 +1,67 @@
++++
+title = "०६ समवायः"
+
++++
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नित्यसम्बन्धः समवायः ।
+</details>
+
+<details><summary>English</summary>
+
+Co-inherence is constant connection.
+</details>
+
+<details><summary>मूलम्</summary>
+
+नित्यसम्बन्धः समवायः ।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अयुतसिद्धवृत्तिः ।
+</details>
+
+<details><summary>English</summary>
+
+It exists in things which cannot exist separately.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अयुतसिद्धवृत्तिः ।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ययोर्द्वयोर्मध्ये एकमविनश्यदवस्थमपराऽश्रितमेवावतिष्ठते तावयुतसिद्धौ ।
+</details>
+
+<details><summary>English</summary>
+
+Two things which cannot exist separately are those of which two the one exists only as lodged in the other.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ययोर्द्वयोर्मध्ये एकमविनश्यदवस्थमपराऽश्रितमेवावतिष्ठते तावयुतसिद्धौ ।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथा अवयवाऽवयविनौ गुणगुणिनौ क्रियाक्रियावन्तौ जातिव्यक्ती विशेषनित्यद्रव्ये चेति ॥ ६८॥
+</details>
+
+<details><summary>English</summary>
+
+Examples: Parts and what is made up of parts, Qualities and the thing qualified, Action and agent, Species and individual, Difference and eternal substances
+</details>
+
+<details><summary>मूलम्</summary>
+
+यथा अवयवाऽवयविनौ गुणगुणिनौ क्रियाक्रियावन्तौ जातिव्यक्ती विशेषनित्यद्रव्ये चेति ॥ ६८॥
+</details>
