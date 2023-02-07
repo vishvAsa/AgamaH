@@ -230,6 +230,7 @@ Eternal is in the form of Atoms
 <details><summary>English</summary>
 
 "In the shape of some product [which has arisen
+out of those atoms, then] it is [said to be] un-eternal"
 </details>
 
 <details><summary>मूलम्</summary>
@@ -238,8 +239,6 @@ Eternal is in the form of Atoms
 </details>
 
 
-out of those atoms, then] it is [said to be] un-eternal
-"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुनस्त्रिविधा शरीरेन्द्रियविषयभेदात् ।
@@ -585,7 +584,7 @@ The masses are of 4 kinds,through these differences—-residing in earth , resid
 
 <details><summary>English</summary>
 
-"(Residing in Earth)
+"(Residing in Earth) Earthly fire is the ordinary fire on the earth"
 </details>
 
 <details><summary>मूलम्</summary>
@@ -594,7 +593,7 @@ The masses are of 4 kinds,through these differences—-residing in earth , resid
 </details>
 
 
-Earthly fire is the ordinary fire on the earth"
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अबिन्धनं दिव्यं विद्युदादि ।
@@ -602,7 +601,7 @@ Earthly fire is the ordinary fire on the earth"
 
 <details><summary>English</summary>
 
-"(Residing in Sky)
+"(Residing in Sky) Divine Fire/Lightning caused by watery portions in the sky"
 </details>
 
 <details><summary>मूलम्</summary>
@@ -611,7 +610,7 @@ Earthly fire is the ordinary fire on the earth"
 </details>
 
 
-Divine Fire/Lightning caused by watery portions in the sky"
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भुक्तस्य परिणामहेतुरौदर्यम् ।
@@ -1922,7 +1921,7 @@ The fluidity that is caused in gold, a variety of tejas is due to application of
 
 <details><summary>English</summary>
 
-"The quality that binds flour, etc is called viscosity /
+"The quality that binds flour, etc is called viscosity / The quality which is the cause why particles and the like become a heap, is Viscidity."
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1931,7 +1930,7 @@ The fluidity that is caused in gold, a variety of tejas is due to application of
 </details>
 
 
-The quality which is the cause why particles and the like become a heap, is Viscidity."
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जलमात्रवृत्तिः ॥ ३२॥
@@ -3822,7 +3821,7 @@ A 'condition' (upadhi) (U) is that which, whilst constantly accompanying what is
 
 <details><summary>English</summary>
 
-"To be the constant accompanier of what is to be established -
+"To be the constant accompanier of what is to be established - It consists in the not being the counter-entity (apratiyogitva) of any absolute non-existence (atyantabhava) having the same subject of inhesion (samanadhikarana) as that which is to be established."
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3831,7 +3830,7 @@ A 'condition' (upadhi) (U) is that which, whilst constantly accompanying what is
 </details>
 
 
-It consists in the not being the counter-entity (apratiyogitva) of any absolute non-existence (atyantabhava) having the same subject of inhesion (samanadhikarana) as that which is to be established."
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 साधनवन्निष्ठात्यन्ताभावप्रतियोगित्वं साधनाव्यापकत्वम् ।
@@ -3839,7 +3838,7 @@ It consists in the not being the counter-entity (apratiyogitva) of any absolute 
 
 <details><summary>English</summary>
 
-"To be not the constant accompanier of the argument (sadhanavyapakatva) -
+"To be not the constant accompanier of the argument (sadhanavyapakatva) - consists in the being the counter-entity (pratiyogitva) of some absolute non-existence [not impossibly] resident in that which possesses the [character tendered as an] argument"
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3848,7 +3847,7 @@ It consists in the not being the counter-entity (apratiyogitva) of any absolute 
 </details>
 
 
-consists in the being the counter-entity (pratiyogitva) of some absolute non-existence [not impossibly] resident in that which possesses the [character tendered as an] argument"
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 (यथा) पर्वतो धूमवान्वह्निमत्वादित्यत्रार्द्रेन्धनसंयोग उपाधिः ।
@@ -3953,7 +3952,7 @@ An argument is futile when the absence of what it seeks to prove is established 
 
 <details><summary>English</summary>
 
-"Example:
+"Example: It may be argued that, 'Fire is cold because it is a substance'."
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3962,7 +3961,7 @@ An argument is futile when the absence of what it seeks to prove is established 
 </details>
 
 
-It may be argued that, 'Fire is cold because it is a substance'."
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत्रानुष्णत्वं साध्यं तदभाव उष्णत्वं स्पर्शनप्रत्यक्षेण गुह्यते इति बाधितत्वम् ॥ ४६॥
@@ -4036,7 +4035,7 @@ Its instrument is the knowledge of a likeness.
 
 <details><summary>English</summary>
 
-"Operation involved in the employment of this instrument for the attainment of knowledge is :
+"Operation involved in the employment of this instrument for the attainment of knowledge is : the recollection of the purport of a statement of resemblance."
 </details>
 
 <details><summary>मूलम्</summary>
@@ -4045,7 +4044,7 @@ Its instrument is the knowledge of a likeness.
 </details>
 
 
-the recollection of the purport of a statement of resemblance."
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा हि कश्चिद्गवयशब्दार्थमजानन्कुतश्चिदारण्यकपुरुषाद्गोसदृशो गवय इति श्रुत्वा वन गतो वाक्यार्थं स्मरन्गोसदृशं पिण्डं पश्यति ।
@@ -4053,7 +4052,7 @@ the recollection of the purport of a statement of resemblance."
 
 <details><summary>English</summary>
 
-"Example:
+"Example: A person, not knowing what is meant by the word 'gavaya' , having heard from some inhabitant of the forest as : 'A gavaya is like a cow' - having gone to the forest, remembering the purport of what he has been told, sees a body like that of a cow. "
 </details>
 
 <details><summary>मूलम्</summary>
@@ -4062,7 +4061,7 @@ the recollection of the purport of a statement of resemblance."
 </details>
 
 
-A person, not knowing what is meant by the word 'gavaya' , having heard from some inhabitant of the forest as : 'A gavaya is like a cow' - having gone to the forest, remembering the purport of what he has been told, sees a body like that of a cow. "
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदनन्तरमसौ गवयशब्दवाच्य इत्युपमितिरुत्पद्यते ॥ ४७॥
@@ -4478,7 +4477,7 @@ Apprehending falsely is mistake
 
 <details><summary>English</summary>
 
-"Example:
+"Example: In the case of mother of pearl, - that this is silver"
 </details>
 
 <details><summary>मूलम्</summary>
@@ -4487,7 +4486,7 @@ Apprehending falsely is mistake
 </details>
 
 
-In the case of mother of pearl, - that this is silver"
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्याप्यारोपेण व्यापकारोपस्तर्कः ।
@@ -5233,6 +5232,7 @@ Absolute non-existence is that the counter-entity whereof is [viewed] in relatio
 <details><summary>English</summary>
 
 "Example:
+[Such is the non-existence in the instance where it is remarked that] there is not a jar on the ground."
 </details>
 
 <details><summary>मूलम्</summary>
@@ -5241,7 +5241,6 @@ Absolute non-existence is that the counter-entity whereof is [viewed] in relatio
 </details>
 
 
-[Such is the non-existence in the instance where it is remarked that] there is not a jar on the ground."
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तादात्म्यसम्बन्धावच्छिन्नप्रतियोगिताकोऽन्योन्याभावः ।
@@ -5266,6 +5265,7 @@ Mutual non existence [or difference] is that the counter-entity whereof is regar
 <details><summary>English</summary>
 
 "Example:
+[Such difference is referred to when it is remarked that] a jar is not a web of cloth."
 </details>
 
 <details><summary>मूलम्</summary>
@@ -5273,8 +5273,6 @@ Mutual non existence [or difference] is that the counter-entity whereof is regar
 यथा घटः पटो नेति ॥ ६९॥
 </details>
 
-
-[Such difference is referred to when it is remarked that] a jar is not a web of cloth."
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
