@@ -9,7 +9,7 @@ title = "०१ द्रव्यम्"
 तत्र गन्धवती पृथिवी । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 That which has odour as its extraordinary quality is called Earth
 </details>
@@ -30,7 +30,7 @@ That which has odour as its extraordinary quality is called Earth
 सा द्विविधानित्याऽनित्या च । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 It is of 2 kinds : Eternal and Non - eternal
 </details>
@@ -51,7 +51,7 @@ It is of 2 kinds : Eternal and Non - eternal
 नित्या परमाणुरूपा ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Eternal is in the form of Atoms
 </details>
@@ -67,7 +67,7 @@ Eternal is in the form of Atoms
 अनित्या कार्यरूपा ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 "In the shape of some product [which has arisen
 out of those atoms, then] it is [said to be] un-eternal"
@@ -84,7 +84,7 @@ out of those atoms, then] it is [said to be] un-eternal"
 पुनस् त्रिविधा शरीरेन्द्रियविषयभेदात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Again, Earth is of 3 kinds, through these differences ; body, organ of sense, and mass.
 </details>
@@ -105,7 +105,7 @@ Again, Earth is of 3 kinds, through these differences ; body, organ of sense, an
 शरीरमस्मदादीनाम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
  The body is that of us men.
 </details>
@@ -127,7 +127,7 @@ Again, Earth is of 3 kinds, through these differences ; body, organ of sense, an
 इन्द्रियं गन्द्धग्राहकं घ्राणम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Organ is the apprehender of odour/smell.
 </details>
@@ -148,7 +148,7 @@ Organ is the apprehender of odour/smell.
 तच्च नासाग्रवर्ति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 It resides in the fore-part of the nose.
 </details>
@@ -164,7 +164,7 @@ It resides in the fore-part of the nose.
 विषयो मृत्पाषाणादिः ॥ ९॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 The masses are clods, stones, etc
 </details>
@@ -186,7 +186,7 @@ The masses are clods, stones, etc
 शीतस्पर्शवत्यः आपः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 That which appears cold on touching it is called water
 </details>
@@ -207,7 +207,7 @@ That which appears cold on touching it is called water
 ताः द्विविधाः नित्या अनित्याश्च ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 It is of 2 kinds : Eternal and Non - eternal
 </details>
@@ -223,7 +223,7 @@ It is of 2 kinds : Eternal and Non - eternal
 नित्याः परमाणुरूपाः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Eternal is in the form of Atoms
 </details>
@@ -239,7 +239,7 @@ Eternal is in the form of Atoms
 अनित्याः कार्यरूपाः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 When a product is produced by those atoms, then it is said to be non eternal
 </details>
@@ -255,7 +255,7 @@ When a product is produced by those atoms, then it is said to be non eternal
 पुनस्त्रिविधा शरीरेन्द्रियविषयभेदात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Again, Water is of 3 kinds, through these differences ; body, organ of sense, and mass.
 </details>
@@ -271,7 +271,7 @@ Again, Water is of 3 kinds, through these differences ; body, organ of sense, an
 शरीरं वरुणलोके ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 The body [that is formed of water] exists in the world of Varuna [the god of the waters].
 </details>
@@ -287,7 +287,7 @@ The body [that is formed of water] exists in the world of Varuna [the god of the
 इन्द्रियं रसग्राहकं रसनं जिह्वाग्रवर्ति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 The extraordinary sense organ that cognizes the sense of taste is the watery sense organ. The sense organ exist at the tip / fore-part of the tongue.
 </details>
@@ -303,7 +303,7 @@ The extraordinary sense organ that cognizes the sense of taste is the watery sen
 विषयः सरित्समुद्रादिः ॥ १०॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 The masses of water are rivers, oceans, etc
 </details>
@@ -320,7 +320,7 @@ The masses of water are rivers, oceans, etc
 उष्णस्पर्शवत्तेजः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 That of which the sensation of touch is warm, is called light
 </details>
@@ -341,7 +341,7 @@ That of which the sensation of touch is warm, is called light
 तच्च द्विविधं नित्यमनित्यं च ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 It is of 2 kinds : Eternal and Non - eternal
 </details>
@@ -357,7 +357,7 @@ It is of 2 kinds : Eternal and Non - eternal
 नित्यं परमाणुरूपम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Eternal is in the form of Atoms
 </details>
@@ -373,7 +373,7 @@ Eternal is in the form of Atoms
 अनित्यं कार्यरूपम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 When a product is produced by those atoms, then it is said to be non eternal
 </details>
@@ -389,7 +389,7 @@ When a product is produced by those atoms, then it is said to be non eternal
 पुनस्त्रिविधं शरीरेन्द्रियविषयभेदात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Again, light is of 3 kinds, through these differences ; body, organ of sense, and mass.
 </details>
@@ -405,7 +405,7 @@ Again, light is of 3 kinds, through these differences ; body, organ of sense, an
 शरीरमादित्यलोके प्रसिद्धम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 The firy body exists in the world of the Sun / Solar Region
 </details>
@@ -421,7 +421,7 @@ The firy body exists in the world of the Sun / Solar Region
 इन्द्रियं रूपग्राहकं चक्षुः कृष्णताराग्रवर्ति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 The ocular sense organ is that which cognizes the colour. The ocular sense organ is located at the fore-part of pupil of the eye.
 </details>
@@ -437,7 +437,7 @@ The ocular sense organ is that which cognizes the colour. The ocular sense organ
 विषयश्चतुर्विधः भौमदिव्यौदर्याकरजभेदात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 The masses are of 4 kinds,through these differences—-residing in earth , residing in the sky , resident in the stomach , and produced in mines
 </details>
@@ -458,7 +458,7 @@ The masses are of 4 kinds,through these differences—-residing in earth , resid
 भौमं वह्न्यादिकम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 "(Residing in Earth) Earthly fire is the ordinary fire on the earth"
 </details>
@@ -475,7 +475,7 @@ The masses are of 4 kinds,through these differences—-residing in earth , resid
 अबिन्धनं दिव्यं विद्युदादि ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 "(Residing in Sky) Divine Fire/Lightning caused by watery portions in the sky"
 </details>
@@ -492,7 +492,7 @@ The masses are of 4 kinds,through these differences—-residing in earth , resid
 भुक्तस्य परिणामहेतुरौदर्यम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 (Residing in stomach)Abdominal Fire/ It is the fire existing in the stomach which digests the food.
 </details>
@@ -508,7 +508,7 @@ The masses are of 4 kinds,through these differences—-residing in earth , resid
 आकरजं सुवर्णादि ॥ ११॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Mineral Fire / The varieties of Fire that are generated in the mines are called आकरज. Ex: gold, etc.
 </details>
@@ -525,7 +525,7 @@ Mineral Fire / The varieties of Fire that are generated in the mines are called 
 रूपरहितः स्पर्शवान्वायुः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 That substance which is devoid of colour and possesses extraordinary quality of touch/स्पर्श is called Air/वायु
 </details>
@@ -547,7 +547,7 @@ That substance which is devoid of colour and possesses extraordinary quality of 
 स द्विविधः नित्योऽनित्यश्च ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 It is of 2 kinds : Eternal and Non - eternal
 </details>
@@ -563,7 +563,7 @@ It is of 2 kinds : Eternal and Non - eternal
 नित्यः परमाणुरूपः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Eternal is in the form of Atoms
 </details>
@@ -579,7 +579,7 @@ Eternal is in the form of Atoms
 अनित्यः कार्यरूपः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 When a product is produced by those atoms, then it is said to be non eternal
 </details>
@@ -595,7 +595,7 @@ When a product is produced by those atoms, then it is said to be non eternal
 पुनस्त्रिविधः शरीरेन्द्रियविषयभेदात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Again, air is of 3 kinds, through these differences ; body, organ of sense, and mass.
 </details>
@@ -611,7 +611,7 @@ Again, air is of 3 kinds, through these differences ; body, organ of sense, and 
 शरीरं वायुलोके ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 The body is found in the airy region / aerial world
 </details>
@@ -631,7 +631,7 @@ The body is found in the airy region / aerial world
 इन्द्रियं स्पर्शग्राहकं त्वक्सर्वशरीरवर्ति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 The tactual sense organ is that which cognizes touch. It exists all over the body
 </details>
@@ -647,7 +647,7 @@ The tactual sense organ is that which cognizes touch. It exists all over the bod
 विषयो वृक्षादिकम्पनहेतुः ॥ १२॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 The gross objects of air are those which cause the movement of trees, leaves, etc.
 </details>
@@ -664,7 +664,7 @@ The gross objects of air are those which cause the movement of trees, leaves, et
 शरीरान्तःसंचारी वयुः प्राणः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 The other gross variety of air is the air which circulates within the body. It is called प्राण/vital air.
 </details>
@@ -680,7 +680,7 @@ The other gross variety of air is the air which circulates within the body. It i
 स च एकोऽप्युपाधिभेदात्प्राणापानादिसंज्ञां लभते ॥ १३॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 The vital Air moving in the body is of 5 kinds
 </details>
@@ -697,7 +697,7 @@ The vital Air moving in the body is of 5 kinds
 शब्दगुणकमाकाशम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Akasha or ether is that substance which possesses the extraordinary quality of शब्द/sound.
 </details>
@@ -719,7 +719,7 @@ Akasha or ether is that substance which possesses the extraordinary quality of �
 तच्चैकं विभु नित्यञ्च ॥ १४॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 It is one only, all pervasive and eternal
 </details>
@@ -736,7 +736,7 @@ It is one only, all pervasive and eternal
 अतीतादिव्यवहारहेतुः कालः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 That which is the cause of expressions like past ,present, future, etc is called काल/Time
 </details>
@@ -757,7 +757,7 @@ That which is the cause of expressions like past ,present, future, etc is called
 स चैको विभुर्नित्य्श्च ॥ १५॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 It is one only, all pervasive and eternal
 </details>
@@ -774,7 +774,7 @@ It is one only, all pervasive and eternal
 प्राच्यादिव्यवहारहेतुर्दिक् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 That which is the cause of expressions like east, west, etc is called दिक्
 </details>
@@ -795,7 +795,7 @@ That which is the cause of expressions like east, west, etc is called दिक�
 सा चैका विभ्वी नित्या च ॥ १६॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 It is one only, all pervasive and eternal
 </details>
@@ -812,7 +812,7 @@ It is one only, all pervasive and eternal
 ज्ञानाधिकरणमात्मा ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 That which is the substratum of consciousness is आत्मा / Self/Soul
 </details>
@@ -833,7 +833,7 @@ That which is the substratum of consciousness is आत्मा / Self/Soul
 सः द्विविधः परमात्मा जीवात्मा च ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 It is of two kinds - Individual Soul and Supreme Soul
 </details>
@@ -854,7 +854,7 @@ It is of two kinds - Individual Soul and Supreme Soul
 तत्रेश्वरः सर्वज्ञः परमात्मैक एव ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Of these two, the Supreme Soul is God, omniscient and He is one only.
 </details>
@@ -875,7 +875,7 @@ Of these two, the Supreme Soul is God, omniscient and He is one only.
 जीवात्मा प्रतिशरीरं भिन्नो विभुर्नित्यश्च ॥ १७॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Individual self is different in each body, all pervasive and eternal.
 </details>
@@ -898,7 +898,7 @@ Individual self is different in each body, all pervasive and eternal.
 सुखाद्युपलब्धिसाधनमिन्द्रियं मनः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 The sense organ which is existing for the cognition of happiness, suffering, etc is called मनस्/mind
 </details>
@@ -919,7 +919,7 @@ The sense organ which is existing for the cognition of happiness, suffering, etc
 तच्च प्रत्यात्मनियतत्वादनन्तं परमाणुरूपं नित्यं च ॥ १८॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Since each individual self is associated with one specific mind, minds/मनस् are said to be innumerable. Hence they are infinite and atomic in nature
 </details>

@@ -8,7 +8,7 @@ title = "०० मूल-विभागः"
 द्रव्य-गुण-कर्म-सामान्य-विशेष-समवायाऽभावाः सप्तपदार्थाः ॥ १॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Substance, quality, action, genus, difference, coherence, and non-existence - these are the seven categories.
 </details>
@@ -30,7 +30,7 @@ Substance, quality, action, genus, difference, coherence, and non-existence - th
 तत्र **द्रव्याणि** पृथिव्यप्तेजोवाय्वाकाशकालदिगात्ममनांसि नवैव ॥ २॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Among those (categories), substances are nine : Earth, Water, Light, Air, Ether, Time, Place, Soul and Mind. 
 </details>
@@ -47,7 +47,7 @@ Among those (categories), substances are nine : Earth, Water, Light, Air, Ether,
 रूपरसगन्धस्पर्शसंख्यापरिमाणपृथक्त्वसंयोगविभगपरत्वापरत्वगुरुत्वद्रवत्व-स्नेह-शब्द-बुद्धि-सुख-दुःखेच्छा-द्वेष-प्रयत्न-धर्माधर्म-संस्काराः चतुर्विंशतिर्गुणाः ॥ ३॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Colour, savour, odour, tangibility, number, dimension, severalty, conjunction, disjunction, priority, posteriority, weight, fluidity, viscidity, sound, understanding, pleasure, pain, desire, aversion, effort, merit, demerit and the self-reproductive - these are the 24 qualities.
 </details>
@@ -69,7 +69,7 @@ Colour, savour, odour, tangibility, number, dimension, severalty, conjunction, d
 उत्क्षेपणापक्षेपणाकुञ्चनप्रसारणगमनानि पञ्च कर्माणि ॥ ४॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Throwing upwards, throwing downwards, contraction, expansion and going - these are the five actions
 </details>
@@ -90,7 +90,7 @@ Throwing upwards, throwing downwards, contraction, expansion and going - these a
 परमपरं चेति द्विविधं सामान्यम् ॥ ५॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Genus is of two kinds, higher and lower
 </details>
@@ -111,7 +111,7 @@ Genus is of two kinds, higher and lower
 नित्यद्रव्यवृत्तयो विशेषास्त्वनन्ता एव ॥ ६॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Differences, which reside in eternal substances, [such as mind, soul, time, place, earth, water, etc] are endless
 </details>
@@ -132,7 +132,7 @@ Differences, which reside in eternal substances, [such as mind, soul, time, plac
 समवायस्त्वेक एव ॥ ७॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Co-inherence is one only
 </details>
@@ -154,7 +154,7 @@ Co-inherence is one only
 प्रागभावः प्रध्वंसाभावः अत्यन्ताभावः अन्योन्याभावश्चेति ॥ ८॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Non-existence is of four kinds : Antecedent non existence, destruction, absolute non-existence, and mutual non-existence
 </details>

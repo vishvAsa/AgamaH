@@ -6,10 +6,10 @@ title = "११ ज्ञानम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्वव्यवहारहेतुर् गुणो **बुद्धिर्** ज्ञानम् ।
+सर्व-व्यवहार-हेतुर् गुणो **बुद्धिर्** ज्ञानम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Intellect is the knowledge that causes all mental activities
 </details>
@@ -30,10 +30,10 @@ Intellect is the knowledge that causes all mental activities
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा द्विविधा स्मृतिरनुभवश्च ।
+सा द्विविधा स्मृतिर् अनुभवश् च ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 It is of 2 types - Recollection / Remembrance / Memory and Experience / Notion
 </details>
@@ -53,10 +53,10 @@ It is of 2 types - Recollection / Remembrance / Memory and Experience / Notion
 ## स्मृतिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-संस्कारमात्रजन्यं ज्ञानं स्मृतिः ।
+संस्कार-मात्र-जन्यं ज्ञानं **स्मृतिः** ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 "That knowledge which is caused by the mental impressions is called recollection /
 The knowledge which is produced only by its own antecedence is remembrance"
@@ -84,7 +84,7 @@ The knowledge which is produced only by its own antecedence is remembrance"
 तद्भिन्नं ज्ञानमनुभवः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Experience or cognition is that knowledge which is different from recollection/ notion
 </details>
@@ -105,7 +105,7 @@ Experience or cognition is that knowledge which is different from recollection/ 
 सः द्विविधः यथार्थोऽयथार्थश्च ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 It is of 2 types - Valid  Experience / Notion and Invalid Experience / Notion
 </details>
@@ -121,7 +121,7 @@ It is of 2 types - Valid  Experience / Notion and Invalid Experience / Notion
 तद्वति तत्प्रकारकोऽनुभवो यथार्थः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Of whatever description anything is, a notion of that same description is a right notion.
 </details>
@@ -143,7 +143,7 @@ Of whatever description anything is, a notion of that same description is a righ
 यथा रजते इदं रजतमिति ज्ञानम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 The cognition of silver as silver (possessing silver-ness)
 </details>
@@ -159,7 +159,7 @@ The cognition of silver as silver (possessing silver-ness)
 सैव प्रमेत्युच्यते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 This is called Pramaa : Commensurate with its object
 </details>
@@ -175,7 +175,7 @@ This is called Pramaa : Commensurate with its object
 तदभाववति तत्प्रकारकोऽनुभवो ऽयथार्थः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Supposing a thing to be as the thing is not - such a notion is called a wrong notion.
 </details>
@@ -196,7 +196,7 @@ Supposing a thing to be as the thing is not - such a notion is called a wrong no
 यथा शुक्ताविदंरजतमिति ज्ञानम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 In the case of a pearly shell, the notion of its being silver.
 </details>
@@ -212,7 +212,7 @@ In the case of a pearly shell, the notion of its being silver.
 सैव अप्रमेत्युच्यते ॥ ३४॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 This is called apramaa
 </details>
@@ -229,7 +229,7 @@ This is called apramaa
 यथार्थानुभवश्चतुर्विधः
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 There are 4 types of Valid Cognition
 </details>
@@ -245,7 +245,7 @@ There are 4 types of Valid Cognition
 प्रत्यक्षानुमित्युपमितिशाब्दभेदात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 According to the division of Perception, Inference, Conclusion from similarity and authoritative assertion / verbal knowledge .
 </details>
@@ -261,7 +261,7 @@ According to the division of Perception, Inference, Conclusion from similarity a
 तत्करणमपि चतुर्विधं
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 The instrumental causes of these also are of four kinds:
 </details>
@@ -282,7 +282,7 @@ The instrumental causes of these also are of four kinds:
 प्रत्यक्षानुमानोपमानशाब्दभेदात् ॥३५॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 According to the division of Perception, Inductive generalizations, Recognition of similarity and authoritative assertion.
 </details>
@@ -299,7 +299,7 @@ According to the division of Perception, Inductive generalizations, Recognition 
 व्यापारवद् असाधारणं+++(→दिक्कालदि-भिन्नं)+++ कारणं **करणम्** ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 A cause with an operation, not one of those causes common to all effects, is called an instrumental cause.
 </details>
@@ -321,7 +321,7 @@ A cause with an operation, not one of those causes common to all effects, is cal
 अनन्यथासिद्धत्वे सति कार्य-नियत-पूर्व-वृत्ति **कारणम्** ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 That which is invariably antecedent to some product, and is not otherwise constituted (i.e., is not by anything else, except the result in question, constituted a cause) is the cause of that product
 </details>
@@ -342,7 +342,7 @@ That which is invariably antecedent to some product, and is not otherwise consti
 **कार्यं** प्राग्-अभाव-प्रतियोगि ॥ ३६॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 That which annuls its own antecedent non-existence is called Effect
 </details>
@@ -363,7 +363,7 @@ That which annuls its own antecedent non-existence is called Effect
 **कारणं** त्रिविधं समवाय्यसमवायिनिमित्तभेदात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Cause is of 3 kinds, according to the distinction of substantial, non-substantial and instrumental.
 </details>
@@ -383,7 +383,7 @@ Cause is of 3 kinds, according to the distinction of substantial, non-substantia
 यत्+++(→कारण)+++-समवेतं कार्यम् उत्पद्यते तत् **समवायिकारणम्** ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 That in which an effect intimately relative to it takes its rise, is a substantial cause [of that effect].
 </details>
@@ -404,7 +404,7 @@ That in which an effect intimately relative to it takes its rise, is a substanti
 यथा तन्तवः पटस्य, पटश् च स्व-गत-रूपादेः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 As threads are of cloth nad the cloth itself of its own colour, etc.
 </details>
@@ -421,7 +421,7 @@ As threads are of cloth nad the cloth itself of its own colour, etc.
 यत् कारणं तद् **अ-समवायि-कारणम्** +++(=??)+++।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Where this intimate relation exists, that cause which is associated in one and the same object [as a necessarily immanent cause] with such effect or cause, is the non-substantial cause.
 </details>
@@ -442,7 +442,7 @@ Where this intimate relation exists, that cause which is associated in one and t
 तन्तुरूपं पटरूपस्य ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 The conjunction of the threads is the non-substantial cause of the cloth and the colour of the threads as that of the colour of the cloth.
 </details>
@@ -464,7 +464,7 @@ The conjunction of the threads is the non-substantial cause of the cloth and the
 तदुभयभिन्नं कारणं **निमित्त-कारणम्** ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 The cause which is distinct from both of these is the instrumental cause.
 </details>
@@ -485,7 +485,7 @@ The cause which is distinct from both of these is the instrumental cause.
 यथा तुरी-वेमादिकं पटस्य ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 As the weaver's brush, loom, etc are instrumental causes of cloth.
 </details>
@@ -503,7 +503,7 @@ As the weaver's brush, loom, etc are instrumental causes of cloth.
 तद् एव **करणम्** ॥ ३७॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Among these three kinds of causes, that only is an instrumental cause which is not a universally concurrent cause.
 </details>
@@ -527,7 +527,7 @@ Among these three kinds of causes, that only is an instrumental cause which is n
 तत्र प्रत्यक्ष-ज्ञान-करणं **प्रत्यक्षम्** ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 The cause of the knowledge called perception is sensation
 </details>
@@ -548,7 +548,7 @@ The cause of the knowledge called perception is sensation
 इन्द्रियार्थ-सन्निकर्ष-जन्यं ज्ञानं **प्रत्यक्षम्** ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Sensation is the knowledge produced by the conjunction of an organ of sense and its object.
 </details>
@@ -569,7 +569,7 @@ Sensation is the knowledge produced by the conjunction of an organ of sense and 
 तद् द्विविधं - निर्विकल्पकं सविकल्पकं चेति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Perception is of 2 types - Perception which does not pay regard to an alternative and Perception which pays regard to an alternative
 </details>
@@ -585,7 +585,7 @@ Perception is of 2 types - Perception which does not pay regard to an alternativ
 तत्र निष्प्रकारकं ज्ञानं **निर्विकल्पकं** - यथेदं किञ्चित् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 The knowledge which does not pay regard to an alternative is that which involves no specification, as in the simple cognition that 'This is something (we know not what)'
 </details>
@@ -601,7 +601,7 @@ The knowledge which does not pay regard to an alternative is that which involves
 सप्रकारकं ज्ञानं **सविकल्पकं** - यथा डित्थोऽयं ब्राह्मणोऽयं श्यामोऽयं पाचकोऽयमिति ॥ ३८॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 The knowledge which contemplates an alternative is that which includes a specification, as 'This is Dittha', 'This is a Brahmana', 'This is black'.
 </details>
@@ -617,7 +617,7 @@ The knowledge which contemplates an alternative is that which includes a specifi
 प्रत्यक्षज्ञानहेतुर् **इन्द्रियार्थ-सन्निकर्षः** षड्विधः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 The mutual proximity of a sense and its object, which is the cause of perception, is of 6 kinds
 </details>
@@ -638,7 +638,7 @@ The mutual proximity of a sense and its object, which is the cause of perception
 संयोगः, संयुक्तसमवायः, संयुक्तसमवेतसमवायः, समवायः, समवेतसमवायः, विशेषण-विशेष्य-भावश् चेति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Conjunction, Intimate union with that which is in conjunction, Inherence in that which is in conjunction, Inherence, Inherence in that which inheres, The relation between a distinctive circumstance and that which is thereby distinguished.
 </details>
@@ -654,7 +654,7 @@ Conjunction, Intimate union with that which is in conjunction, Inherence in that
 चक्षुषा घटप्रत्यक्षजनने **संयोगः** सन्निकर्षः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 When a jar is perceived by the eye, there is [between the sense and the object] the proximity of conjunction
 </details>
@@ -676,7 +676,7 @@ When a jar is perceived by the eye, there is [between the sense and the object] 
 चक्षुः-संयुक्ते घटे रूपस्य समवायात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 In the perception of the colour of the jar, there is proximity through inherence in that which is in conjunction , because the colour inheres in the jar, which is in conjunction with the sense of vision.
 </details>
@@ -697,7 +697,7 @@ In the perception of the colour of the jar, there is proximity through inherence
 रूपत्वसामान्यप्रत्यक्षे संयुक्तसमवेतसमवायः सन्निकर्षः चक्षुः संयुक्ते घटे रूपं समवेतं तत्र रूपत्वस्य समवायात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 In the perception of the genus - the fact that this is a colour, there is the proximity of inherence in what inheres in that which is in conjunction, because the fact of being a colour inheres in the particular colour which inheres in the jar which is in conjunction with the sense of vision.
 </details>
@@ -718,7 +718,7 @@ In the perception of the genus - the fact that this is a colour, there is the pr
 श्रोत्रेण शब्दसाक्षात्कारे समवायः सन्निकर्षः कर्णविवरवृत्त्याकाशस्य श्रोत्रत्वात् शब्दस्याकाशगुणत्वाद्गुणगुणिनोश्च समवायात् 
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 In the perception of sound by the organ of hearing, the proximity is that of inherence, because the organ of hearing consists of the ether which resides in the cavity of the ear, and sound is a quality of ether , and a quality inheres in that of which it is the quality.
 </details>
@@ -739,7 +739,7 @@ In the perception of sound by the organ of hearing, the proximity is that of inh
 शब्दत्वसाक्षात्कारे समवेतसमवायः सन्निकर्षः श्रोत्र्समवेते शब्दे शब्दत्वस्य समवायात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 In the perception that it is a sound [in the case of any given sound of which we are cognizant] the proximity is that of inherence in what inheres, because the fact of being a sound inheres in the sound which inheres in the organ of hearing.
 </details>
@@ -760,7 +760,7 @@ In the perception that it is a sound [in the case of any given sound of which we
 अभावप्रत्यक्षे विशेषणविशेष्यभावः सन्निकर्षः घटाभाववद्भूतलमित्यत्र चक्षुः संयुक्ते भूतले घटाभावस्य विशेषणत्वात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 In the perception of non existence, the proximity is through the relation between a distinctive circumstance and that which is thereby distinguished, because In the case when we perceive 'The ground is possessed of the non-existence of a jar' , the perceived non existence of a jar distinguishes the ground which is in conjunction with the organ of vision.
 </details>
@@ -781,7 +781,7 @@ In the perception of non existence, the proximity is through the relation betwee
 एवं सन्निकर्षजन्यं ज्ञानं प्रत्यक्षं, तत्करणमिन्द्रियम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Knowledge produced by these 6 kinds of proximity is perception; Its Instrument is sense.
 </details>
@@ -802,7 +802,7 @@ Knowledge produced by these 6 kinds of proximity is perception; Its Instrument i
 तस्माद् इन्द्रियं प्रत्यक्षप्रमाणमिति सिद्धम् ॥ ३९॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Therefore we hold that an organ of sense is what gives us the right knowledge called perception.
 </details>
@@ -819,7 +819,7 @@ Therefore we hold that an organ of sense is what gives us the right knowledge ca
 अनुमितिकरणम् अनुमानम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 An induction (Anumana) is the instrumental cause of an inference (Anumiti)
 </details>
@@ -840,7 +840,7 @@ An induction (Anumana) is the instrumental cause of an inference (Anumiti)
 परामर्शजन्यं ज्ञानमनुमितिः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 An inference is knowledge that results from syllogizing.
 </details>
@@ -865,7 +865,7 @@ An inference is knowledge that results from syllogizing.
 व्याप्तिविशिष्टपक्षधर्मताज्ञानं परामर्शः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Syllogizing is the taking cognizance that the subject possesses what is constantly accompanied [by something which is thus seen to belong to the subject].
 </details>
@@ -887,7 +887,7 @@ Syllogizing is the taking cognizance that the subject possesses what is constant
 यथा वह्निव्याप्यधूमवानयं पर्वत इति ज्ञानं परामर्शः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 "For example, The taking cognizance that 'This hill has smoke - which is constantly accompanied [at the point where is originates] by fire - is [an instance of] syllogizing [i.e., of apprehending, in connection, an induction and an observation]."
 </details>
@@ -902,7 +902,7 @@ Syllogizing is the taking cognizance that the subject possesses what is constant
 तज्जन्यं पर्वतो वह्निमानिति ज्ञानमनुमितिः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 The knowledge resulting therefrom, viz, that 'The hill has fire [somewhere about it]' is an inference.
 </details>
@@ -918,7 +918,7 @@ The knowledge resulting therefrom, viz, that 'The hill has fire [somewhere about
 यत्र यत्र धूमस्तत्र तत्राग्निरिति साहचर्यनियमो **व्याप्तिः** ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 'The being constantly accompanied' is such an invariableness of association as this - that wherever there is smoke there is fire.
 </details>
@@ -939,7 +939,7 @@ The knowledge resulting therefrom, viz, that 'The hill has fire [somewhere about
 व्याप्यस्य पर्वतादिवृत्तित्वं **पक्षधर्मता** ॥ ४०॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 By the 'subject's possession' [of something that is constantly accompanied], it means that there exists - in a mountain, for instance - that which is constantly accompanied, [by something else].
 </details>
@@ -960,7 +960,7 @@ By the 'subject's possession' [of something that is constantly accompanied], it 
 अनुमानं द्विविधं स्वार्थं परार्थं च ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 There are 2 types of Induction : Induction employed for oneself and Induction employed for another
 </details>
@@ -981,7 +981,7 @@ There are 2 types of Induction : Induction employed for oneself and Induction em
 तत्र स्वार्थं स्वानुमितिहेतुः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 That which is for oneself is the cause of a private conclusion [in one's own mind].
 </details>
@@ -997,7 +997,7 @@ That which is for oneself is the cause of a private conclusion [in one's own min
 तथाहि स्वायमेव भूयोदर्शनेन यत्र यत्र धूमस्तत्र तत्राग्निरिति महानसादौ धूमे व्याप्तिं गृहीत्वा पर्वतसमीपं गतः तद्गते चाग्नौ सन्दिहानः पर्वते धूमं पश्यन्व्याप्तिं स्मरति यत्र यत्र धूमस्तत्र तत्राग्निरिति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Having repeatedly and personally observed, in the case of culinary hearths and the like, that where there is smoke there is fire, having gathered the invariable attendedness [ of smoke by fire], having gone near a mountain and being doubtful as to whether there is fire in it, having seen smoke on the mountain, a man recollects the invariable attendedness, viz., 'where there is smoke there is fire.'
 </details>
@@ -1019,7 +1019,7 @@ Having repeatedly and personally observed, in the case of culinary hearths and t
 तदनन्तरं वह्निव्याप्यधुमवानयं पर्वत इति ज्ञानमुत्पद्यते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Thereupon the knowledge arises that 'this mountain has smoke, which is constantly accompanied by fire.'
 </details>
@@ -1035,7 +1035,7 @@ Thereupon the knowledge arises that 'this mountain has smoke, which is constantl
 अयमेव लिङ्गपरामर्श इत्युच्यते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 This is called the 'pondering of a sign'.
 </details>
@@ -1051,7 +1051,7 @@ This is called the 'pondering of a sign'.
 तस्मात्पर्वतो वह्निमानिति ज्ञानमनुमितिः उत्पद्यते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Thence results the knowledge that 'the mountain is fiery', which is the conclusion (anumiti).
 </details>
@@ -1067,7 +1067,7 @@ Thence results the knowledge that 'the mountain is fiery', which is the conclusi
 तदेतत्स्वार्थानुमानम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 This is the process of inference for oneself.
 </details>
@@ -1083,7 +1083,7 @@ This is the process of inference for oneself.
 यत्तु स्वयं धुमाग्निमनुमाय परम्प्रतिबोधयितुं पञ्चावयववाक्यं प्रयुज्यते तत्परार्थानुमानम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 After having, for oneself, inferred fire from smoke, when one makes use of the 5-membered form of exposition, with a view to the information of another, then it is the process of inference for the sake of another.
 </details>
@@ -1104,7 +1104,7 @@ After having, for oneself, inferred fire from smoke, when one makes use of the 5
 यथा पर्वतो वह्निमान्धूमत्वाद्यो यो धूमवान्स वह्निमान्यथा महानसः तथा चायं तस्मात्तथेति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 The mountain has fire in it Because it has smoke; Whatever has smoke has fire, as a culinary hearth and so this has; Therefore it is as aforesaid.
 </details>
@@ -1120,7 +1120,7 @@ The mountain has fire in it Because it has smoke; Whatever has smoke has fire, a
 अनेन प्रतिपादिताल्लिज्ङ्गात्परोऽप्यग्निं प्रतिपद्यते ॥ ४१॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 By this exposition, in consequence of the sign of token here rendered, the other also admits that there is fire.
 </details>
@@ -1137,7 +1137,7 @@ By this exposition, in consequence of the sign of token here rendered, the other
 प्रतिज्ञाहेतूदाहरणोपनयनिगमनानि पञ्चावयवाः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 The 5 members of this exposition are Preposition, Reason, Example, Application and Conclusion.
 </details>
@@ -1158,7 +1158,7 @@ The 5 members of this exposition are Preposition, Reason, Example, Application a
 पर्वतो वह्निमानिति प्रतिज्ञा ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 'The mountain is fiery' is the proposition
 </details>
@@ -1174,7 +1174,7 @@ The 5 members of this exposition are Preposition, Reason, Example, Application a
 धूमवत्वादिति हेतुः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 ' Because of its being smoky' is the reason
 </details>
@@ -1190,7 +1190,7 @@ The 5 members of this exposition are Preposition, Reason, Example, Application a
 यो यो धूमवान्स वह्निमान्यथा महानस इत्युदाहरणम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 'Whatever is smoke is fiery' is [the general proposition or principle founded on] the example [ of culinary hearths and the like]
 </details>
@@ -1206,7 +1206,7 @@ The 5 members of this exposition are Preposition, Reason, Example, Application a
 तथा चायमित्युपनयः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 'and so this [mountain] is' is the [syllogistic] application
 </details>
@@ -1222,7 +1222,7 @@ The 5 members of this exposition are Preposition, Reason, Example, Application a
 तस्मात्तथेति निगमनम् ॥ ४२॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 'Therefore it [the mountain] is fiery' is the conclusion
 </details>
@@ -1239,7 +1239,7 @@ The 5 members of this exposition are Preposition, Reason, Example, Application a
 स्वार्थानुमितिपरार्थानुमित्योः **लिङ्गपरामर्श** एव करणम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 The instrument of an inference for oneself or another is simply the consideration of a 'sign' (linga)
 </details>
@@ -1260,7 +1260,7 @@ The instrument of an inference for oneself or another is simply the consideratio
 तस्माल्लिङ्गपरामर्शोऽनुमानम् ॥ ४३॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Therefore an induction (anumana) - the instrumental cause of Inference - is just this consideration of a sign
 </details>
@@ -1277,7 +1277,7 @@ Therefore an induction (anumana) - the instrumental cause of Inference - is just
 लिङ्गं त्रिविधम् अन्वयव्यतिरेकि केवलान्वयि केवलव्यतिरेकि चेति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 A sign [or characteristic token] is of 3 types : 1. That which is [a token in virtue of its being constantly] accompanied [by what it betokens], and absent [ when what it would betoken is absent], 2. That which is [a token in virtue of its being constantly] accompanied only [and never absent through the absence of what it should betoken - the thing betokened being in this case one everywhere present], 3. That which is [a token in virtue of its being invariably] absent only [in the case of everything that could be cited in addition to the subject of the proposition itself]
 </details>
@@ -1298,7 +1298,7 @@ A sign [or characteristic token] is of 3 types : 1. That which is [a token in vi
 अन्वयेन व्यतिरेकेण च व्याप्तिमदन्वयव्यतिरेकि ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 That which is accompanied and absent (anvayavyatireki - L1) is that which is pervaded by [ or of which there is invariably predictable] accompaniment (anvaya) [on the part of what it betokens] and absence (vyatireka) [on its own part, when what it might betoken is absent], as the possession of smoke when fire is what is to be established.
 </details>
@@ -1314,7 +1314,7 @@ That which is accompanied and absent (anvayavyatireki - L1) is that which is per
 यथा वह्नौ साध्ये धूमवत्त्वम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 'When there is smoke there is fire, as on the culinary hearth [where the fire is supposed never to be extinguished]
 </details>
@@ -1330,7 +1330,7 @@ That which is accompanied and absent (anvayavyatireki - L1) is that which is per
 यत्र धूमस्तत्राग्निर्यथा महानस इत्यन्वयव्याप्तिः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Here, there is 'pervadedness by attendance' (anvayavyapti) [i.e., it is predictable of the token, smoke, that it is attended by fire which it betokens].
 </details>
@@ -1346,7 +1346,7 @@ Here, there is 'pervadedness by attendance' (anvayavyapti) [i.e., it is predicta
 यत्र वह्निर्नास्ति तत्र धूमोऽपि नास्ति यथा महाहृद इति व्यतिरेकव्याप्तिः  ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 'Where there is no fire, there is no smoke, as in a great lake [where it is taken for granted that fire cannot be]. Here, there is 'pervadedness by absence' (vyatirekavyapti) [i.e., it is predictable of smoke, as a token, that it will be absent where what it would have betokened is absent].
 </details>
@@ -1362,7 +1362,7 @@ Here, there is 'pervadedness by attendance' (anvayavyapti) [i.e., it is predicta
 अन्वयमात्रव्याप्तिकं केवलान्वयि ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 That sign which is accompanied only is that which is 'pervaded by [or of which there is invariably predictable] accompaniment only [on the part of what it betokens].
 </details>
@@ -1383,7 +1383,7 @@ That sign which is accompanied only is that which is 'pervaded by [or of which t
 यथा घटोऽभिधेयः प्रमेयत्वात्पटवत् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 'A jar is namable because it is cognizable, as a web is '
 </details>
@@ -1399,7 +1399,7 @@ That sign which is accompanied only is that which is 'pervaded by [or of which t
 अत्र प्रमेयत्वाभिधेयत्वयोः व्यतिरेकव्याप्तिर्नास्ति सर्वस्यापि प्रमेयत्वादभिधेयत्वाच्च ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Here, there is no [case of pervaded by absence, in cognizability and nameableness, because everthing [ that we can be conversant about], is both cognizable and nameable.
 </details>
@@ -1415,7 +1415,7 @@ Here, there is no [case of pervaded by absence, in cognizability and nameablenes
 व्यतिरेकमात्रव्याप्तिकं केवलव्यतिरेकि ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 That sign which is absent only is that which is pervaded by [ or, of which there is invariably predictable] absence only, [on its part, in the case of whatever could be cited, as an example, in addition to the subject of the proposition itself].
 </details>
@@ -1436,7 +1436,7 @@ That sign which is absent only is that which is pervaded by [ or, of which there
 यथा पृथिवीतरेभ्यो भिद्यते गन्धवत्त्वात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Earth is different from these others [of the elements] because it is odorous.
 </details>
@@ -1452,7 +1452,7 @@ Earth is different from these others [of the elements] because it is odorous.
 यदितरेभ्यो न भिद्यते न तद्गन्धवद्यथा जलम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 What is not different from these others is not odourous - as water [for example, is inodorous.
 </details>
@@ -1468,7 +1468,7 @@ What is not different from these others is not odourous - as water [for example,
 न चेयं तथा ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 But this [earth] is not so [i.e., is not inodorous]
 </details>
@@ -1484,7 +1484,7 @@ But this [earth] is not so [i.e., is not inodorous]
 तस्मान्न तथेति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Therefore it is not such [as the other elements, but different from these others].
 </details>
@@ -1500,7 +1500,7 @@ Therefore it is not such [as the other elements, but different from these others
 अत्र यद्गन्धवत्तदितरभिन्नमित्यन्वयदृष्टान्तो नास्ति पृथिवीमात्रस्य पक्षत्वात् ॥ ४४॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Here we are obliged to employ a universal negative, because there is no analogous example [to cite in confirmation,] in the case of [the universal affirmative] 'What possesses odour is different from others' seeing that Earth alone can be the subject [of a proposition in which odour is affirmatively predicated.
 </details>
@@ -1517,7 +1517,7 @@ Here we are obliged to employ a universal negative, because there is no analogou
 सन्दिग्ध-साध्यवान् **पक्षः** ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 That, whose possession of what is to be established is doubled, is called the subject
 </details>
@@ -1539,7 +1539,7 @@ That, whose possession of what is to be established is doubled, is called the su
 यथा धूमवत्त्वे हेतौ पर्वतः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 As the mountain, when the fact of its smoking is [assigned as] the reason [for inferring the presence of fire]
 </details>
@@ -1555,7 +1555,7 @@ As the mountain, when the fact of its smoking is [assigned as] the reason [for i
 निश्चितसाध्यवान्सपक्षः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 That which certainly possesses the property in question is called an instance on the same side.
 </details>
@@ -1576,7 +1576,7 @@ That which certainly possesses the property in question is called an instance on
 यथा तत्रैव महानसः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 As the culinary hearth, in the same example
 </details>
@@ -1592,7 +1592,7 @@ As the culinary hearth, in the same example
 निश्चितसाध्याऽभाववान्विपक्षः 
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 That which is certainly devoid of the property in question is called an instance on the opposite side
 </details>
@@ -1613,7 +1613,7 @@ That which is certainly devoid of the property in question is called an instance
 यथा तत्रैव महाह्रदः ॥ ४५॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 As the great lake, in the same example
 </details>
@@ -1630,7 +1630,7 @@ As the great lake, in the same example
 सव्यभिचारविरुद्धसत्प्रतिपक्षासिद्धबाधिताः पञ्च हेत्वाभासाः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 The five that present the semblance of a reason are: 1. that which goes astray, 2. the reverse [of what it ought to be], 3. that which is counterbalanced, 4. the unreal, 5. the futile.
 </details>
@@ -1651,7 +1651,7 @@ The five that present the semblance of a reason are: 1. that which goes astray, 
 सव्यभिचारोऽनैकान्तिकः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 That alleged reason which goes astray, is that which has not just the one conclusion.
 </details>
@@ -1667,7 +1667,7 @@ That alleged reason which goes astray, is that which has not just the one conclu
 सः त्रिविधः साधारणासाधारणानुपसंहारिभेदात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 It is of 3 kinds - 1. What is common [to others in such a way that is would prove too much], 2. What is common to none [besides the individual, and therefore proves nothing], 3. The non exclusive
 </details>
@@ -1688,7 +1688,7 @@ It is of 3 kinds - 1. What is common [to others in such a way that is would prov
 साध्याभाववद्वृत्तिः साधारणोऽनैकान्तिकः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Among these 3 types of reason, that reason having not just the one [requisite] conclusion is [unduly] 'common' , which is present in that in which there is the absence of what is to be proved
 </details>
@@ -1708,7 +1708,7 @@ Among these 3 types of reason, that reason having not just the one [requisite] c
 यथा पर्वतो वह्निमान्प्रमेयत्वादिति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 The mountain is fiery because it [the mountain] is cognizable
 </details>
@@ -1724,7 +1724,7 @@ The mountain is fiery because it [the mountain] is cognizable
 प्रमेयत्वस्य वह्न्यभाववति ह्रदे विद्यमानत्वात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Here the reason would be liable to this objection because cognizability belongs [equally] to a lake, which has no fire in it
 </details>
@@ -1740,7 +1740,7 @@ Here the reason would be liable to this objection because cognizability belongs 
 सर्वसपक्षविपक्षव्यावृत्तः पक्षमात्रवृत्तिः असाधारणः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 That reason which is excluded [alike] from all instances, whether similar or dissimilar, is one common to none [besides the individual].
 </details>
@@ -1761,7 +1761,7 @@ That reason which is excluded [alike] from all instances, whether similar or dis
 यथा शब्दो नित्यः शब्दत्वादिति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 'Sound is eternal, for it has the nature of sound'.
 </details>
@@ -1777,7 +1777,7 @@ That reason which is excluded [alike] from all instances, whether similar or dis
 शब्दत्वं हि सर्वेभ्यो नित्येभ्योऽनित्येभ्यश्च व्यावृत्तं शब्दमात्रवृत्तिः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Now, the nature of sound resides in sound alone and is excluded from all else, whether eternal or uneternal.
 </details>
@@ -1793,7 +1793,7 @@ Now, the nature of sound resides in sound alone and is excluded from all else, w
 अन्वय-व्यतिरेक-दृष्टान्त-रहितो ऽनुपसंहारी ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 That [pretended argument] which is destitute of an example whether of association or of dissociation [between itself and anything else] is non exclusive
 </details>
@@ -1814,7 +1814,7 @@ That [pretended argument] which is destitute of an example whether of associatio
 यथा सर्वमनित्यं प्रमेयत्वादिति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Everything is uneternal, because it is capable of proof
 </details>
@@ -1830,7 +1830,7 @@ Everything is uneternal, because it is capable of proof
 अत्र सर्वस्यापि पक्षत्वाद्दृष्टान्तो नास्ति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Here there is no example [to cite, of any sort] because 'everything' [leaving nothing over] is the subject.
 </details>
@@ -1846,7 +1846,7 @@ Here there is no example [to cite, of any sort] because 'everything' [leaving no
 साध्याभावव्याप्तो हेतुर्विरुद्धः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 A reason the reverse is that which is constantly accompanied by the absence of what s to be proved.
 </details>
@@ -1867,7 +1867,7 @@ A reason the reverse is that which is constantly accompanied by the absence of w
 यथा शब्दो नित्यः कृतकत्वादिति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Sound is eternal because it is created
 </details>
@@ -1883,7 +1883,7 @@ Sound is eternal because it is created
 कृतकत्वं हि नित्यत्वाभावेनाऽनित्यत्वेन व्याप्तम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 We should reject this argument at once because the fact of having been created implies non eternity - the negation of being eternal
 </details>
@@ -1899,7 +1899,7 @@ We should reject this argument at once because the fact of having been created i
 यस्य साध्याभावसाधकं हेत्वन्तरं विद्यते सः सत्प्रतिपक्षः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 A counterbalanced reason is that along with which there exists another reason, which establishes [equally well] the non-existence of what is to be proved.
 </details>
@@ -1920,7 +1920,7 @@ A counterbalanced reason is that along with which there exists another reason, w
 यथा शब्दो नित्यः श्रावणत्वाच्छब्दत्ववत् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Sound is eternal because it is audible, as the nature of sound is [by both parties admitted to be]
 </details>
@@ -1936,7 +1936,7 @@ Sound is eternal because it is audible, as the nature of sound is [by both parti
 शब्दोऽनित्यः कार्यत्वाद्घटवत् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 It still might be argued, with equal force on the other side, that 'Sound is non eternal, because it is a product, as a jar is'
 </details>
@@ -1952,7 +1952,7 @@ It still might be argued, with equal force on the other side, that 'Sound is non
 असिद्धस्त्रिविधः आश्रयासिद्धः स्वरूपासिद्धो व्याप्यत्वासिद्धश्चेति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Unreal reason is of 3 types - 1. That the [alleged] locality of which is unreal, 2. That where the nature [alleged as belonging to the subject] is not a fact, 3. That where the being constantly accompanied [ though alleged] is not a fact
 </details>
@@ -1973,7 +1973,7 @@ Unreal reason is of 3 types - 1. That the [alleged] locality of which is unreal,
 आश्रयासिद्धो यथा गगनारविन्दं सुरभि अरविन्दत्वात्सरोजारविन्दवत् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Example of that the [alleged] locality of which is unreal -
 [suppose that one argues] 'The sky-lotus is fragrant, because the nature of a lotus resides in it, as in the lotuses of the lake'
@@ -1994,7 +1994,7 @@ Example of that the [alleged] locality of which is unreal -
 अत्र गगनारविन्दमाश्रयः स च नास्त्येव ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Here, the sky-lotus is [alleged as] the locality [of the nature of a lotus] and in fact it [sky-lotus] does not exist at all
 </details>
@@ -2010,7 +2010,7 @@ Here, the sky-lotus is [alleged as] the locality [of the nature of a lotus] and 
 स्वरूपासिद्धो यथा शब्दो गुणश्चाक्षुषत्वात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Example of an argument where the nature does not really exist in a subject,  - [suppose that one argues] 'Sound is a quality because it is visible'
 </details>
@@ -2031,7 +2031,7 @@ Example of an argument where the nature does not really exist in a subject,  - [
 अत्र चाक्षुषत्वं शब्दं नास्ति शब्दस्य श्रावणत्वात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Here [everyone would perceive at once, that] visibility does not reside in sound, for sound is recognised by the hearing [not by vision]
 </details>
@@ -2047,7 +2047,7 @@ Here [everyone would perceive at once, that] visibility does not reside in sound
 सोपाधिको हेतुः व्याप्यत्वासिद्धः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 The reason when there is some [indispensable] 'condition', is not really 'constantly accompanied'.
 </details>
@@ -2068,7 +2068,7 @@ The reason when there is some [indispensable] 'condition', is not really 'consta
 साध्यव्यापकत्वे सति साधनाव्यापकत्वमुपाधित्वम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 A 'condition' (upadhi) (U) is that which, whilst constantly accompanying what is to be established, is not the constant accompanier of the argument [tendered in proof].
 </details>
@@ -2084,7 +2084,7 @@ A 'condition' (upadhi) (U) is that which, whilst constantly accompanying what is
 साध्यसमानाधिकरणात्यन्ताभावाप्रतियोगित्वं साध्यव्यापकत्वम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 "To be the constant accompanier of what is to be established - It consists in the not being the counter-entity (apratiyogitva) of any absolute non-existence (atyantabhava) having the same subject of inhesion (samanadhikarana) as that which is to be established."
 </details>
@@ -2101,7 +2101,7 @@ A 'condition' (upadhi) (U) is that which, whilst constantly accompanying what is
 साधनवन्निष्ठात्यन्ताभावप्रतियोगित्वं साधनाव्यापकत्वम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 "To be not the constant accompanier of the argument (sadhanavyapakatva) - consists in the being the counter-entity (pratiyogitva) of some absolute non-existence [not impossibly] resident in that which possesses the [character tendered as an] argument"
 </details>
@@ -2118,7 +2118,7 @@ A 'condition' (upadhi) (U) is that which, whilst constantly accompanying what is
 (यथा) पर्वतो धूमवान्वह्निमत्वादित्यत्रार्द्रेन्धनसंयोग उपाधिः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 "Example: [Suppose it is to be argued that] 'The mountain is smoky, because it is fiery'. In this case, the contact of wet fuel is a 'condition'."
 </details>
@@ -2135,7 +2135,7 @@ A 'condition' (upadhi) (U) is that which, whilst constantly accompanying what is
 तथाहि यत्र धूमस्तत्रार्द्रेन्धनसंयोग इति साध्यव्यापकता ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 To explain - 'Wherever there is smoke, there there is the conjunction of wet fuel' : this we assume to be not disputed, and thus there is a constant accompanying of [or attendance upon] what is to be established (साध्यव्यापकता)
 </details>
@@ -2151,7 +2151,7 @@ To explain - 'Wherever there is smoke, there there is the conjunction of wet fue
 यत्र वह्निस्तत्रार्द्रेन्धनसंयोगो नास्त्ययोगोलक आर्द्रेन्धनसंयोगाभावादिति साधनाव्यापकता ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 But where there is fire, there is not [necessarily] the conjunction of wet fuel; for there is no conjunction of wet fuel in the case of an [ignited] iron ball, so that there is not a constant accompanying of [or attendance upon] the proof.
 </details>
@@ -2167,7 +2167,7 @@ But where there is fire, there is not [necessarily] the conjunction of wet fuel;
 एवं साध्यव्यापकत्वे अस्ति साधनाव्यापकत्वार्द्रेन्धनसंयोग उपाधिः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Thus, the conjunction of wet fuel is a 'condition', since it is something 'which, whilst constantly accompanying what is to be established, is not the constant accompanier of the argument [tendered in proof].
 </details>
@@ -2183,7 +2183,7 @@ Thus, the conjunction of wet fuel is a 'condition', since it is something 'which
 सोपाधिकत्वाद्वह्निमत्त्वं व्याप्यत्वासिद्धम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Fieriness is not really constantly accompanied by smoke, because there is a condition attached.
 </details>
@@ -2199,7 +2199,7 @@ Fieriness is not really constantly accompanied by smoke, because there is a cond
 यस्य साध्याभावः प्रमाणान्तरेण निश्चितः स बाधितः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 An argument is futile when the absence of what it seeks to prove is established for certain by another proof.
 </details>
@@ -2220,7 +2220,7 @@ An argument is futile when the absence of what it seeks to prove is established 
 यथा वह्निरनुष्णो द्रव्यत्वाज्जलवत् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 "Example: It may be argued that, 'Fire is cold because it is a substance'."
 </details>
@@ -2237,7 +2237,7 @@ An argument is futile when the absence of what it seeks to prove is established 
 अत्रानुष्णत्वं साध्यं तदभाव उष्णत्वं स्पर्शनप्रत्यक्षेण गुह्यते इति बाधितत्वम् ॥ ४६॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Here coldness is sought to be established and its absence, viz, warmth, is apprehended by the sense of touch and the direct apprehensions of Sense are of greater authority than any inference which contradicts them. Hence the argument is futile
 </details>
@@ -2255,7 +2255,7 @@ Here coldness is sought to be established and its absence, viz, warmth, is appre
 उपमितिकरणम् उपमानम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 The knowledge of a similarity is the instrument [in the production] of an inference from similarity.
 </details>
@@ -2276,7 +2276,7 @@ The knowledge of a similarity is the instrument [in the production] of an infere
 संज्ञासंज्ञिसम्बन्धज्ञानमुपमितिः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 The inference consists in the knowledge of the relation between A name and Something so named
 </details>
@@ -2292,7 +2292,7 @@ The inference consists in the knowledge of the relation between A name and Somet
 तत्करणं सादृश्यज्ञानम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Its instrument is the knowledge of a likeness.
 </details>
@@ -2308,7 +2308,7 @@ Its instrument is the knowledge of a likeness.
 अतिदेशवाक्यार्थस्मरणमवान्तर व्यापारः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 "Operation involved in the employment of this instrument for the attainment of knowledge is : the recollection of the purport of a statement of resemblance."
 </details>
@@ -2325,7 +2325,7 @@ Its instrument is the knowledge of a likeness.
 तथा हि कश्चिद्गवयशब्दार्थमजानन्कुतश्चिदारण्यकपुरुषाद्गोसदृशो गवय इति श्रुत्वा वन गतो वाक्यार्थं स्मरन्गोसदृशं पिण्डं पश्यति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 "Example: A person, not knowing what is meant by the word 'gavaya' , having heard from some inhabitant of the forest as : 'A gavaya is like a cow' - having gone to the forest, remembering the purport of what he has been told, sees a body like that of a cow. "
 </details>
@@ -2342,7 +2342,7 @@ Its instrument is the knowledge of a likeness.
 तदनन्तरमसौ गवयशब्दवाच्य इत्युपमितिरुत्पद्यते ॥ ४७॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Thereupon this inference from similarity arises in his mind that, this is what is meant by the word 'gavaya'
 </details>
@@ -2359,7 +2359,7 @@ Thereupon this inference from similarity arises in his mind that, this is what i
 आप्तवाक्यं शब्दः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 A word [for right assertion] is the speech of one worthy [of confidence].
 </details>
@@ -2380,7 +2380,7 @@ A word [for right assertion] is the speech of one worthy [of confidence].
 आप्तस्तु यथार्थवक्ता ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 A Worthy Person  is a speaker of the truth.
 </details>
@@ -2396,7 +2396,7 @@ A Worthy Person  is a speaker of the truth.
 वाक्यं पदसमूहः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 A speech [or sentence] is a collection of grammatically inflected terms(Pada);
 </details>
@@ -2412,7 +2412,7 @@ A speech [or sentence] is a collection of grammatically inflected terms(Pada);
 यथा गामानयेति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 "Example: 'Bring the cow'"
 </details>
@@ -2429,7 +2429,7 @@ A speech [or sentence] is a collection of grammatically inflected terms(Pada);
 शक्तं पदम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 A gramatically inflected term (Pada) is that which is possessed of power [to convey a meaning].
 </details>
@@ -2445,7 +2445,7 @@ A gramatically inflected term (Pada) is that which is possessed of power [to con
 अस्मात्पदादयमर्थो बोद्धव्य इतीश्वरसंकेतः शक्तिः ॥ ४८॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Such power consists in its being the will - the appointment - of the Lord, that 'Such and such a meaning is to be understood from such and such a gramatically inflected term'.
 </details>
@@ -2462,7 +2462,7 @@ Such power consists in its being the will - the appointment - of the Lord, that 
 आकाङ्क्षा योग्यता सन्निधिश्च वाक्यार्थज्ञानहेतुः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 The causes of the knowledge of the sense of a sentence are Expectancy, Compatibility and Juxtaposition.
 </details>
@@ -2483,7 +2483,7 @@ The causes of the knowledge of the sense of a sentence are Expectancy, Compatibi
 पदस्य पदान्तरव्यतिरेकप्रयुक्तान्वयाननुभावकत्वमाकाङ्क्षा ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Expectancy means a word's incapacity to convey a complete meaning, this being occasioned by the absence of another word [which, when it comes as expected, will complete the construction and the sense].
 </details>
@@ -2499,7 +2499,7 @@ Expectancy means a word's incapacity to convey a complete meaning, this being oc
 अर्थाबाधो योग्यता ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Compatibility consists in a word's not having a meaning incompatible with that of other words in the sentence.
 </details>
@@ -2515,7 +2515,7 @@ Compatibility consists in a word's not having a meaning incompatible with that o
 पदानामविलम्बेनोच्चारारणं सन्निधिः ॥ ४९॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Juxtaposition consists in the enunciation of the words without a long pause between them.
 </details>
@@ -2532,7 +2532,7 @@ Juxtaposition consists in the enunciation of the words without a long pause betw
 आकाङ्क्षादिरहितं वाक्यमप्रमाणम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 A collection of words devoid of expectancy, compatibility, and juxtaposition is no instrument of right knowledge.
 </details>
@@ -2548,7 +2548,7 @@ A collection of words devoid of expectancy, compatibility, and juxtaposition is 
 यथा गौरश्वः पुरुषो हस्तीति न प्रमाणमाकाङ्क्षाविरहात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 For example,  'Cow, horse, man, elephant'  gives no information, from the absence of expectancy; [the words having no reference one to another, and not looking out for one another]
 </details>
@@ -2569,7 +2569,7 @@ For example,  'Cow, horse, man, elephant'  gives no information, from the absenc
 अग्निना सिञ्चेदिति न प्रमाणं योग्यताविरहात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 For example, 'He should irrigate with fire' is no instrument of right knowledge, by reason of the absence of compatibility between fire and irrigation.
 </details>
@@ -2585,7 +2585,7 @@ For example, 'He should irrigate with fire' is no instrument of right knowledge,
 प्रहरे प्रहरेऽसहोच्चारितानि गामानयेत्यादिपदानि न प्रमाणं सान्निध्याभावात् ॥ ५०॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 The words For example,  'Bring - the - cow'   not pronounced close together, but with an interval of some three hours between each, constitute no instrument of right knowledge, from the absence of [the requisite closeness of] justaposition.
 </details>
@@ -2603,7 +2603,7 @@ The words For example,  'Bring - the - cow'   not pronounced close together, but
 वाक्यं द्विविधम् वैदिकं लौकिकं च ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 There are 2 types of speech - Sacred and Secular
 </details>
@@ -2625,7 +2625,7 @@ There are 2 types of speech - Sacred and Secular
 वैदिकमीश्वरोक्तत्वात्सर्वमेव प्रमाणम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 The sacred, being uttered by the Lord, is all authoritative
 </details>
@@ -2641,7 +2641,7 @@ The sacred, being uttered by the Lord, is all authoritative
 लौकिकं त्वाप्तोक्तं प्रमाणम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 The secular, if uttered by one who deserves confidence, is authoritative :
 </details>
@@ -2657,7 +2657,7 @@ The secular, if uttered by one who deserves confidence, is authoritative :
 अन्यदप्रमाणम् ॥ ५१॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 other than this is not authoritative,
 </details>
@@ -2674,7 +2674,7 @@ other than this is not authoritative,
 वाक्यार्थज्ञानं शब्दज्ञानम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 The knowledge of the meaning of a speech is verbal knowledge.
 </details>
@@ -2690,7 +2690,7 @@ The knowledge of the meaning of a speech is verbal knowledge.
 तत्करणं शब्दः ॥ ५२॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Its instrument is speech.
 </details>
@@ -2715,7 +2715,7 @@ Its instrument is speech.
 अयथार्थानुभवस् त्रिविधः संशय-विपर्यय-तर्क-भेदात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Invalid cognition/experience is of 2 types - Doubt, Mistake and reduction to absurdity.
 </details>
@@ -2743,7 +2743,7 @@ Invalid cognition/experience is of 2 types - Doubt, Mistake and reduction to abs
 एकस्मिन् धर्मिणि विरुद्ध-नाना-धर्म-वैशिष्ट्यावगाहि-ज्ञानं **संशयः** ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 In regard to one thing possessing a certain nature, thought, plunging itself into specialisation by various opposite natures, is Doubt
 </details>
@@ -2764,7 +2764,7 @@ In regard to one thing possessing a certain nature, thought, plunging itself int
 यथा स्थाणुर्वा पुरुषो वेति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Example: A post, or a man
 </details>
@@ -2780,7 +2780,7 @@ Example: A post, or a man
 मिथ्याज्ञानं विपर्ययः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Apprehending falsely is mistake
 </details>
@@ -2801,7 +2801,7 @@ Apprehending falsely is mistake
 यथा शुक्तौ इदं रजतमिति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 "Example: In the case of mother of pearl, - that this is silver"
 </details>
@@ -2818,7 +2818,7 @@ Apprehending falsely is mistake
 व्याप्यारोपेण व्यापकारोपस्तर्कः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Tarka is a self-willed notion in regard to the constant accompanier, [which notion it is absolutely attempted to justify] by a self-willed notion in regard to what is constantly accompanied thereby.
 </details>
@@ -2840,7 +2840,7 @@ Tarka is a self-willed notion in regard to the constant accompanier, [which noti
 यथा यदि वह्निर्न स्यात्तर्हि धूमोऽपि न स्यादिति ॥ ५३॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 "Example:
 [In dealing with an illogical person who denies that there is fire in the hill, we may have to urge upon him the consideration that,] 'If there were not fire, there would not be smoke' : [whereupon the illogical person, so long as he persists in the form of error under consideration, will seek to deny the smoke, in spite of the testimony of his senses, rather than admit the fire which constantly accompanies it]."
@@ -2857,7 +2857,7 @@ Tarka is a self-willed notion in regard to the constant accompanier, [which noti
 स्मृतिरपि द्विविधा ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Memory is of two kinds
 </details>
@@ -2878,7 +2878,7 @@ Memory is of two kinds
 यथार्थायथार्था च ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Correct Rememberence/Memory and Incorrect Rememberence/Memory
 </details>
@@ -2894,7 +2894,7 @@ Correct Rememberence/Memory and Incorrect Rememberence/Memory
 प्रमाजन्या यथार्था ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Correct Memory is that which arises from correct knowledge.
 </details>
@@ -2910,7 +2910,7 @@ Correct Memory is that which arises from correct knowledge.
 अप्रमाजन्याऽयथार्था ॥ ५४॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Incorrect memory is that which arises from incorrect knowledge.
 </details>

@@ -8,7 +8,7 @@ title = "०९ द्रवत्वम्"
 आद्यस्यन्दनासमवायिकारणं द्रवत्वम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Fluidity is the Non intimate cause of insipient trickling, i.e., oozing or melting or flowing
 </details>
@@ -29,7 +29,7 @@ Fluidity is the Non intimate cause of insipient trickling, i.e., oozing or melti
 पृथिव्यप्तेजोवृत्ति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Resides in Earth, water and light.
 </details>
@@ -45,7 +45,7 @@ Resides in Earth, water and light.
 तद्द्विविधं सांसिद्धिकं नैमित्तिकं च ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 It is of 2 types - Natural and Induced / Adscititious
 </details>
@@ -61,7 +61,7 @@ It is of 2 types - Natural and Induced / Adscititious
 सांसिद्धिकं जले ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Natural Fluidity resides in water
 </details>
@@ -77,7 +77,7 @@ Natural Fluidity resides in water
 नैमित्तिकं पृथिवीतेजसोः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Induced Fluidity resides in Earth and Light.
 </details>
@@ -93,7 +93,7 @@ Induced Fluidity resides in Earth and Light.
 पृथिव्यां घृतादावग्निसंयोगजं द्रवत्वम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 In earthly substances, i.e., the fluidity in Ghee , etc  fluidity is produced by the conjunction of heat.
 </details>
@@ -109,7 +109,7 @@ In earthly substances, i.e., the fluidity in Ghee , etc  fluidity is produced by
 तेजसि सुवर्णादौ ॥ ३१॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 The fluidity that is caused in gold, a variety of tejas is due to application of heat
 </details>
@@ -126,7 +126,7 @@ The fluidity that is caused in gold, a variety of tejas is due to application of
 चूर्णादिपिण्डीभावहेतुर्गुणः स्नेहः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 "The quality that binds flour, etc is called viscosity / The quality which is the cause why particles and the like become a heap, is Viscidity."
 </details>
@@ -147,7 +147,7 @@ The fluidity that is caused in gold, a variety of tejas is due to application of
 जलमात्रवृत्तिः ॥ ३२॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Resides in water only
 </details>

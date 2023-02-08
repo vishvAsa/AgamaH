@@ -8,7 +8,7 @@ title = "०४ स्पर्शः"
 त्वगिन्द्रियमात्रग्राह्यो गुणः स्पर्शः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 That quality which can be cognized only by the skin or the sense of touch is called Touch
 </details>
@@ -29,7 +29,7 @@ That quality which can be cognized only by the skin or the sense of touch is cal
 सः च त्रिविधः शीतोष्णानुष्णाशीतभेदात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 And it is of 3 kinds, through the distinctions of cold, warm and temperate (neither hot nor cold)
 </details>
@@ -45,7 +45,7 @@ And it is of 3 kinds, through the distinctions of cold, warm and temperate (neit
 पृथिव्यप्तेजोवायुवृत्तिः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 This quality (Taste) resides in Earth, Water, Light and Air
 </details>
@@ -61,7 +61,7 @@ This quality (Taste) resides in Earth, Water, Light and Air
 तत्र शीतो जले ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Cold Touch resides in water
 </details>
@@ -77,7 +77,7 @@ Cold Touch resides in water
 उष्णस्तेजसि ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Warm touch resides in Light
 </details>
@@ -93,7 +93,7 @@ Warm touch resides in Light
 अनुष्णाशीतः पृथिवीवाय्वोः ॥ २२॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Temperate Touch resides in Earth and air
 </details>
@@ -110,7 +110,7 @@ Temperate Touch resides in Earth and air
 रूपादिचतुष्टयं पृथिव्यां पाकजमनित्यं च ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 The 4 qualities of which Colour is the first (i.e., Colour, Taste, Odour and Touch) may be produced in Earth  by maturation (by the special conjunction of heat ) and they are then transient.
 </details>
@@ -131,7 +131,7 @@ The 4 qualities of which Colour is the first (i.e., Colour, Taste, Odour and Tou
 अन्यत्र अपाकजं नित्यमनित्यं च ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 In others, (i.e., water, light and air) Colour and the like are not owing to the conjunction of Heat. They are eternal or transient
 </details>
@@ -147,7 +147,7 @@ In others, (i.e., water, light and air) Colour and the like are not owing to the
 नित्यगतं नित्यम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 When they reside in eternal things (as atoms) they are eternal
 </details>
@@ -163,7 +163,7 @@ When they reside in eternal things (as atoms) they are eternal
 अनित्यगतमनित्यम् ॥ २३॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 When they reside in things not eternal (viz. products), they are transient
 </details>

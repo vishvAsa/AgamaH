@@ -8,7 +8,7 @@ title = "०१ रूपम्"
 चक्षुर्मात्रग्राह्यो गुणो रूपम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 The quality that can be cognized only by eye or occular sense organ is called colour (form)
 </details>
@@ -29,7 +29,7 @@ The quality that can be cognized only by eye or occular sense organ is called co
 तच्च शुक्लनीलपीतरक्तहरितकपिशचित्रभेदात्सप्तविधम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 And this quality is of 7 kinds, through these differences, white, blue, yellow, red, green, brown and variegated.
 </details>
@@ -45,7 +45,7 @@ And this quality is of 7 kinds, through these differences, white, blue, yellow, 
 पृथिवीजलतेजोवृत्ति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 This quality Colour resides in Earth, Water and Light
 </details>
@@ -61,7 +61,7 @@ This quality Colour resides in Earth, Water and Light
 तत्र पृथिव्यां सप्तविधम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 In Earth, it is of all 7 kinds.
 </details>
@@ -77,7 +77,7 @@ In Earth, it is of all 7 kinds.
 अभास्वरशुक्लं जले ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 In water, it is non-brilliant white
 </details>
@@ -93,7 +93,7 @@ In water, it is non-brilliant white
 भास्वरशुक्लं तेजसि ॥ १९॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 In light it is brilliant white
 </details>

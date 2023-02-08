@@ -8,7 +8,7 @@ title = "१२ सुखम्, दुःखम्"
 सर्वेषामनुकूलतया वेदनीयं सुखम् ॥ ५५॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 What all perceive to be agreeable, is pleasure.
 </details>
@@ -29,7 +29,7 @@ What all perceive to be agreeable, is pleasure.
 सर्वेषां प्रतिकूलतया वेदनीयं दुःखम् ॥ ५६॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 What all perceive to be disagreeable, is pain.
 </details>

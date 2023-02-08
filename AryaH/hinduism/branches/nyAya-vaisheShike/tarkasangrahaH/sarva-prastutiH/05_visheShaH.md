@@ -8,7 +8,7 @@ title = "०५ विशेषः"
 नित्यद्रव्यवृत्तयो व्यावर्तका विशेषाः ॥ ६७॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Differences residing in eternal substances are excluders of each from absolute identity with the others.
 </details>

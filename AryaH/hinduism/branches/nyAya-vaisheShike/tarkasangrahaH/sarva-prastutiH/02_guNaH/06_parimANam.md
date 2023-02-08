@@ -8,7 +8,7 @@ title = "०६ परिमाणम्"
 मानव्यवहारासाधारणकारणं परिमाणम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 The peculiar cause of the employment of the term Bulk is Measure.
 </details>
@@ -29,7 +29,7 @@ The peculiar cause of the employment of the term Bulk is Measure.
 नवद्रव्यवृत्तिः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 This quality resides in the nine Substances
 </details>
@@ -45,7 +45,7 @@ This quality resides in the nine Substances
 तच्चतुर्विधम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 It is of four kinds
 </details>
@@ -61,7 +61,7 @@ It is of four kinds
 अनु महद्दीर्घं हृस्वं चेति ॥ २५॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Small, great, long and short
 </details>
@@ -78,7 +78,7 @@ Small, great, long and short
 पृथग्व्यवहारासाधारणकारणं पृथक्त्वम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Separateness is the extraordinary cause of expressions like seperate.
 </details>
@@ -99,7 +99,7 @@ Separateness is the extraordinary cause of expressions like seperate.
 सर्वद्रव्यवृत्तिः ॥ २६॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Resides in all substances
 </details>
@@ -116,7 +116,7 @@ Resides in all substances
 संयुक्तव्यवहारहेतुः संयोगः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Conjunction is the cause of expressions like united / conjoined.
 </details>
@@ -137,7 +137,7 @@ Conjunction is the cause of expressions like united / conjoined.
 सर्वद्रव्यवृत्तिः ॥ २७॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Resides in all substances
 </details>
@@ -154,7 +154,7 @@ Resides in all substances
 संयोगनाशको गुणो विभागः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Disjunction is the quality which annihilates conjunction.
 </details>
@@ -175,7 +175,7 @@ Disjunction is the quality which annihilates conjunction.
 सर्वद्रव्यवृत्तिः ॥ २८॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Resides in all substances
 </details>

@@ -7,7 +7,7 @@ title = "१५ बुद्धीच्छा-प्रयत्न-भेद�
 बुद्धीच्छा-प्रयत्ना द्विविधाः नित्या अनित्याश्च ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Understanding, Desire and Effort are of 2 types - Eternal and Transient.
 </details>
@@ -23,7 +23,7 @@ Understanding, Desire and Effort are of 2 types - Eternal and Transient.
 नित्या ईश्वरस्य। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Eternal is Lord's
 </details>
@@ -39,7 +39,7 @@ Eternal is Lord's
 अनित्या जीवस्य ॥ ६३॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Transient is individual soul's
 </details>

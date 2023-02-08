@@ -8,9 +8,8 @@ unicode_script: devanagari
 
 ## पुस्तकानि
 
-- दीपिकाटिकया आङ्ग्लव्यख्यया च 
+- दीपिकाटिकया आङ्ग्लानुवादश् च 
     - [समेतः अत्र](https://archive.org/stream/tarkasangraha00annagoog#page/n19/mode/2up)।
-    - [विकौ](http://sa.wikisource.org/wiki/%E0%A4%A4%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A4%B8%E0%A4%99%E0%A5%8D%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%83)।
 - [स(गोवर्धनसुधी-)न्यायबोधिनी-(अन्यकृत)पदकृत्य-](https://archive.org/stream/TarkaSamgraha/TarkaSangrahansp#page/n9/mode/2up)[टीकम्](https://archive.org/stream/TarkaSamgraha/TarkaSangrahansp#page/n9/mode/2up)। 
 - नीलकण्ठदीक्षित-कृता तर्कसंग्रहपरिभाषा।  
 - सुदर्शनाचार्यः \- सङ्ग्रहपरिभाषा

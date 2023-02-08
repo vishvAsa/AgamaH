@@ -8,7 +8,7 @@ title = "१३ इच्छा, क्रोधः"
 **इच्छा** कामः ॥ ५७॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Desire is wishing.
 </details>
@@ -24,7 +24,7 @@ Desire is wishing.
 क्रोधो द्वेषः ॥ ५८॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Aversion is disliking.
 </details>

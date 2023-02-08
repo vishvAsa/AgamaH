@@ -7,7 +7,7 @@ title = "०८ गुरुत्वम्"
 आद्यपतनासमवायिकारणं गुरुत्वम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Non intimate cause of insipient falling is called weight or gravity.
 </details>
@@ -28,7 +28,7 @@ Non intimate cause of insipient falling is called weight or gravity.
 पृथिवीजलवृत्ति ॥ ३०॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Resides in Earth and water.
 </details>

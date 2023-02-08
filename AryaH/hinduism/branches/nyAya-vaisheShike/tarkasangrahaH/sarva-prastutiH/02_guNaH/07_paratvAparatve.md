@@ -7,7 +7,7 @@ title = "०७ परत्वापरत्वे"
 परापरव्यवहारासाधारणकारणे परत्वापरत्वे ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 The peculiar cause of employment of the two terms Far and Near, are Priority / Remoteness and Posteriority / Proximity
 </details>
@@ -28,7 +28,7 @@ The peculiar cause of employment of the two terms Far and Near, are Priority / R
 पृथिव्यादिचतुष्टयमनोवृत्तिनी ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 These 2 qualities Reside in the four beginning with Earth (i.e., Earth, water,Light, Air) and mind
 </details>
@@ -44,7 +44,7 @@ These 2 qualities Reside in the four beginning with Earth (i.e., Earth, water,Li
 ते द्विविधे दिक्कृते कालकृते च ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 They are of 2 kinds - Spacial and Temporal.
 </details>
@@ -60,7 +60,7 @@ They are of 2 kinds - Spacial and Temporal.
 दूरस्थे दिक्कृतं परत्वम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 There is Remoteness made by space in that thing which remains in a distant place
 </details>
@@ -76,7 +76,7 @@ There is Remoteness made by space in that thing which remains in a distant place
 समीपस्थे दिक्कृतमपरत्वम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Proximity made by space in that thing which remains in a place near.
 </details>
@@ -92,7 +92,7 @@ Proximity made by space in that thing which remains in a place near.
 ज्येष्ठे कालकृतं परत्वम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 In the person who is the elder there is Remoteness made by time.
 </details>
@@ -108,7 +108,7 @@ In the person who is the elder there is Remoteness made by time.
 कनिष्ठे कालकृतमपरत्वम् ॥ २९॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 In the person who is the younger, there is Proximity made by time.
 </details>

@@ -8,7 +8,7 @@ title = "१६ संस्कारः"
 संस्कारस्त्रिविधः वेगो भावना स्थितिस्थापकश्चेति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 The quality self-reproductive is of 3 kinds - momentum, imagination and elasticity
 </details>
@@ -30,7 +30,7 @@ The quality self-reproductive is of 3 kinds - momentum, imagination and elastici
 **वेगः** पृथिव्यादिचतुष्टयमनोवृत्तिः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Momentum resides in the four beginning with Earth and in Mind.
 </details>
@@ -51,7 +51,7 @@ Momentum resides in the four beginning with Earth and in Mind.
 अनुभवजन्या स्मृतिहेतुर् **भावना** ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Imagination, resulting from notion and the cause of memory,
 </details>
@@ -72,7 +72,7 @@ Imagination, resulting from notion and the cause of memory,
 आत्ममात्रवृत्तिः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Imagination resides only in the Soul.
 </details>
@@ -88,7 +88,7 @@ Imagination resides only in the Soul.
 अन्यथाकृतस्य पुनस्तदवस्थापकः स्थितिस्थापकः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Elasticity is that which restores to its former position what had been altered.
 </details>
@@ -109,7 +109,7 @@ Elasticity is that which restores to its former position what had been altered.
 कटादिपृथिवीवृत्तिः ॥ ६४॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 It resides in [cane-woven] mats and the like which are formed of the earth element.
 </details>

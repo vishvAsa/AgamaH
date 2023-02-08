@@ -8,7 +8,7 @@ title = "०३ कर्म"
 चलनात्मकं कर्म ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Action consists in motion
 </details>
@@ -29,7 +29,7 @@ Action consists in motion
 ऊर्ध्वदेशसंयोगहेतुरुत्क्षेपणम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Casting upward is the cause of conjunction with a higher place.
 </details>
@@ -45,7 +45,7 @@ Casting upward is the cause of conjunction with a higher place.
 अधोदेशसंयोगहेतुरपक्षेपणम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Casting downward is the cause of contact with a lower place.
 </details>
@@ -61,7 +61,7 @@ Casting downward is the cause of contact with a lower place.
 शरीरसन्निकृष्टसंयोगहेतुराकुञ्चनम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Contraction is the cause of the body's conjunction with only what is near.
 </details>
@@ -77,7 +77,7 @@ Contraction is the cause of the body's conjunction with only what is near.
 विप्रकृष्टसंयोगहेतुः प्रसारणम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Dilation is the cause of conjunction with what is distant.
 </details>
@@ -93,7 +93,7 @@ Dilation is the cause of conjunction with what is distant.
 अन्यत्सर्वं गमनम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Going is the name of every other variety of action
 </details>
@@ -109,7 +109,7 @@ Going is the name of every other variety of action
 पृथिव्यादिचतुष्टयमनोमात्रवृत्ति ॥ ६५॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>English 1</summary>
 
 Action resides in the four beginning with Earth and in Mind.
 </details>
