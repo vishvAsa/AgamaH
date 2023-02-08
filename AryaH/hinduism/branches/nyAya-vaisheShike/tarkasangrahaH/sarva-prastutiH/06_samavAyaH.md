@@ -8,7 +8,7 @@ title = "०६ समवायः"
 नित्यसम्बन्धः समवायः ।
 </details>
 
-<details><summary>English 1</summary>
+<details><summary>Eng A</summary>
 
 Co-inherence is constant connection.
 </details>
@@ -29,7 +29,7 @@ Co-inherence is constant connection.
 अयुतसिद्धवृत्तिः ।
 </details>
 
-<details><summary>English 1</summary>
+<details><summary>Eng A</summary>
 
 It exists in things which cannot exist separately.
 </details>
@@ -45,7 +45,7 @@ It exists in things which cannot exist separately.
 ययोर्द्वयोर्मध्ये एकमविनश्यदवस्थमपराऽश्रितमेवावतिष्ठते तावयुतसिद्धौ ।
 </details>
 
-<details><summary>English 1</summary>
+<details><summary>Eng A</summary>
 
 Two things which cannot exist separately are those of which two the one exists only as lodged in the other.
 </details>
@@ -66,7 +66,7 @@ Two things which cannot exist separately are those of which two the one exists o
 यथा अवयवाऽवयविनौ गुणगुणिनौ क्रियाक्रियावन्तौ जातिव्यक्ती विशेषनित्यद्रव्ये चेति ॥ ६८॥
 </details>
 
-<details><summary>English 1</summary>
+<details><summary>Eng A</summary>
 
 Examples: Parts and what is made up of parts, Qualities and the thing qualified, Action and agent, Species and individual, Difference and eternal substances
 </details>

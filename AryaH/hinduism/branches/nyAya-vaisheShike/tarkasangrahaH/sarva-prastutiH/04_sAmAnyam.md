@@ -8,7 +8,7 @@ title = "०४ सामान्यम्"
 नित्यमेकमनेकानुगतं सामान्यम् ।
 </details>
 
-<details><summary>English 1</summary>
+<details><summary>Eng A</summary>
 
 Community is eternal, one, belonging to more than one.
 </details>
@@ -29,7 +29,7 @@ Community is eternal, one, belonging to more than one.
 द्रव्यगुणकर्मवृत्ति ।
 </details>
 
-<details><summary>English 1</summary>
+<details><summary>Eng A</summary>
 
 It resides in Substance, Quality and Action
 </details>
@@ -45,7 +45,7 @@ It resides in Substance, Quality and Action
 तद्द्विविधं पराऽपरभेदात् ।
 </details>
 
-<details><summary>English 1</summary>
+<details><summary>Eng A</summary>
 
 It is of 2 types - Higher / More pervasive/extensive and Lower / Less extensive/pervasive
 </details>
@@ -61,7 +61,7 @@ It is of 2 types - Higher / More pervasive/extensive and Lower / Less extensive/
 परं सत्ता ।
 </details>
 
-<details><summary>English 1</summary>
+<details><summary>Eng A</summary>
 
 The highest [degree of community, or the summum genus], is existence.
 </details>
@@ -77,7 +77,7 @@ The highest [degree of community, or the summum genus], is existence.
 अपरं जातिद्रव्यत्वादिः ॥ ६६॥
 </details>
 
-<details><summary>English 1</summary>
+<details><summary>Eng A</summary>
 
 The lower genus - called jati - is such a one as Substantiality - [the common nature of what are called Substances.]
 </details>

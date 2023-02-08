@@ -9,7 +9,7 @@ title = "०२ रसः"
 रसनग्राह्यो गुणो रसः ।
 </details>
 
-<details><summary>English 1</summary>
+<details><summary>Eng A</summary>
 
 That quality which can be cognized by the tongue is called Taste
 </details>
@@ -30,7 +30,7 @@ That quality which can be cognized by the tongue is called Taste
 स च मधुराम्ललवणकटुकषायतिक्तभेदात् षड्विधः ।
 </details>
 
-<details><summary>English 1</summary>
+<details><summary>Eng A</summary>
 
 And this quality is of 6 kinds, through the differences of Sweet, Sour, Saline, Bitter, Astringent and Pungent.  
 </details>
@@ -46,7 +46,7 @@ And this quality is of 6 kinds, through the differences of Sweet, Sour, Saline, 
 पृथिवीजलवृत्तिः । 
 </details>
 
-<details><summary>English 1</summary>
+<details><summary>Eng A</summary>
 
 This quality (Taste) resides in Earth and Water
 </details>
@@ -62,7 +62,7 @@ This quality (Taste) resides in Earth and Water
 तत्र पृथिव्यां षड्विधः।
 </details>
 
-<details><summary>English 1</summary>
+<details><summary>Eng A</summary>
 
 In earth it is of 6 kinds
 </details>
@@ -78,7 +78,7 @@ In earth it is of 6 kinds
 जले मधुर एव ॥ २०॥
 </details>
 
-<details><summary>English 1</summary>
+<details><summary>Eng A</summary>
 
 In water there is only sweet savour.
 </details>

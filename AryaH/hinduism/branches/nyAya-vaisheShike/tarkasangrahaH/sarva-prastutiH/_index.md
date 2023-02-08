@@ -9,7 +9,7 @@ title = "+सर्व-प्रस्तुतिः"
 निधाय हृदि विश्वेशं विधाय गुरुवन्दनम् ।
 </details>
 
-<details><summary>English 1</summary>
+<details><summary>Eng A</summary>
 
 Having placed in my heart the Lord of the World, and having saluted my preceptor,
 </details>
@@ -25,7 +25,7 @@ Having placed in my heart the Lord of the World, and having saluted my preceptor
 बालानां सुखबोधाय क्रियते तर्कसंग्रहः ॥
 </details>
 
-<details><summary>English 1</summary>
+<details><summary>Eng A</summary>
 
 For the pleasant comprehension of the uninstructed, I compose the Compendium of Logical Results.
 </details>

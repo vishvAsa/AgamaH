@@ -1254,7 +1254,7 @@ true
 
 4. Annambhaṭṭa, Tarkasangraha, (comm.) Nyāyabodhinī, Nirukti, Padakṛtya, Dīpikāprakāśa, Vākyārthabodhinī and Bhāṣāpariccheda, Vavilla Ramashastrulu, Chenna- puri, 1939
 
-5. Annambhaṭṭa, Tarkasangrahamu, Telugu Andhrabāla- priyā (comm.), Bhāratiya tarkaśāstra paricayamu, Ed.by Vangipuram Rāmānujācārya, 1991
+5. Annambhaṭṭa, Tarkasangrahamu, Telugu Andhrabāla-priyā (comm.), Bhāratiya tarkaśāstra paricayamu, Ed.by Vangipuram Rāmānujācārya, 1991
 
 6. Athalye Y.V. (Ed.), Tarkasangraha with Dīpikā of Annam-bhaṭṭa and Nyāyabodhinī of Govardhana, Belvalkar S. K., Pune, Bombay Sanskrit Series-55, 1930 (2nd Ed. Rev.) 7. Athalye Y.V. and Bodas M.R. (Eds.), Tarkasangraha of Annambhaṭṭa with the author's own Dīpikā and Govardhana's Nyāyabodhinī and English Tr. of Bodas M.R., Bhandarkar Oriental Research Institute, Pune, Bombay Sanskrit Series-LV, Bombay 1963 (2nd ed.).
 
@@ -1268,7 +1268,7 @@ true
 
 11. Bakre M.G. (Ed.), Tarkasangraha of Annambhaṭṭa with Nyāyabodhini of Govardhana and Padakṛtya of Chandraja Singha, Bombay, 1907 (2nd Ed.)
 
-12. Bakre M.G. (Ed.), Tarkasangraha of Annam- bhaṭṭa with the commentary Tarkavilasini of Murali- dharasastri, Nirnaya Sagar Press, Bombay, 1914
+12. Bakre M.G. (Ed.), Tarkasangraha of Annam-bhaṭṭa with the commentary Tarkavilasini of Murali-dharasastri, Nirnaya Sagar Press, Bombay, 1914
 
 13. Bakre M.G. (Ed.), Tarkasangraha of Annambhaṭṭa, (comm.) Nyayabodhini and Padakritya, Revised by N.R. Acharya, Nirnaya Sāgar Press, Bombay, 1939
 
@@ -1280,9 +1280,7 @@ true
 
 17. Bhattacharya Gopinath (Tr.), Tarkasangraha of Annambhaṭṭa, Progressive Publishers, Calcutta, 1976 18. Bhattacharya I.C., The Elements of Indian Logic and Epistemology (A portion of Tarkasangraha and Dīpikā), Modern Book Agency, Calcutta, 1962
 
-19. Chandra R., Tarkasangraha men sabdarthapariksha
-
-Naiyayika Drishti (H), DT, 27-III-IV: 1-12, 1981
+19. Chandra R., Tarkasangraha men sabdarthapariksha Naiyayika Drishti (H), DT, 27-III-IV: 1-12, 1981
 
 20. Chandrasekhara Sastrigal. S, (ed.), Tarkasangraha with Nyāyabodhinī, Vākyavṛtti, Nirukti, Pattabhirāmaṭippaṇī, Tarkasangrahadīpikā, Nīlakanṭhaprakāśikā, Rāmarudrīya, Nrsimhaprakāśikā, and Paṭṭābhiramaprakāśikā, Bālama- norama Press, Madras, 1915
 
@@ -3013,7 +3011,7 @@ ranubhavaśceti.
 
 Translation: 33 
 
-Knowledge is that cognition which prompts all behaviors of living beings. That is of two types: remembrance and experience. 
+ 
 
 44English Translation with Notes 
 
@@ -5005,5 +5003,4 @@ Notes: 78
 
 This small introductory handbook of Nyaya-Vaiśeṣika philosophy is a profound text through which one can easily enter into not only the Nyāya-Vaiśeṣika system of thought but also into Indian intellectual and analytical traditions. 
 
-همه 
 

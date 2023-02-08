@@ -8,7 +8,7 @@ title = "०३ गन्धः"
 घ्राणग्राह्यो गुणो गन्धः ।
 </details>
 
-<details><summary>English 1</summary>
+<details><summary>Eng A</summary>
 
 That quality which can be cognized by nose is odour.
 </details>
@@ -29,7 +29,7 @@ That quality which can be cognized by nose is odour.
 सः द्विविधः सुरभिरसुरभिश्च ।
 </details>
 
-<details><summary>English 1</summary>
+<details><summary>Eng A</summary>
 
 It is of two types - frangrance and stench
 </details>
@@ -45,7 +45,7 @@ It is of two types - frangrance and stench
 पृथिवीमत्रवृत्तिः ॥ २१॥
 </details>
 
-<details><summary>English 1</summary>
+<details><summary>Eng A</summary>
 
 It (odour) resides in Earth alone
 </details>

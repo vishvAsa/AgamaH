@@ -8,7 +8,7 @@ title = "१४ कृतिः, धर्माधर्मौ"
 **कृतिः** प्रयत्नः ॥ ५९॥
 </details>
 
-<details><summary>English 1</summary>
+<details><summary>Eng A</summary>
 
 Effort is is action.
 </details>
@@ -23,7 +23,7 @@ Effort is is action.
 विहितकर्मजन्यो धर्मः ॥ ६०॥
 </details>
 
-<details><summary>English 1</summary>
+<details><summary>Eng A</summary>
 
 Merit is what results from enjoined acts.
 </details>
@@ -40,7 +40,7 @@ Merit is what results from enjoined acts.
 निषिद्धकर्मजन्यस्त्वधर्मः ॥ ६१॥
 </details>
 
-<details><summary>English 1</summary>
+<details><summary>Eng A</summary>
 
 Demerit is what results from forbidden acts.
 </details>
@@ -57,7 +57,7 @@ Demerit is what results from forbidden acts.
 बुद्ध्यादयोऽष्टावात्ममात्रविशेषगुणाः ॥ ६२॥
 </details>
 
-<details><summary>English 1</summary>
+<details><summary>Eng A</summary>
 
 The 8 qualities, beginning with understanding, are distinctive qualities of Soul alone.
 </details>

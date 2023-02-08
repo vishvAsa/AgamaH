@@ -8,7 +8,7 @@ title = "१० शब्दः"
 श्रोत्रग्राह्यो गुणः शब्दः आकाशमात्रवृत्तिः ।
 </details>
 
-<details><summary>English 1</summary>
+<details><summary>Eng A</summary>
 
 Sound is that quality which can be cognised by the ear, which resides only in Ether.
 </details>
@@ -29,7 +29,7 @@ Sound is that quality which can be cognised by the ear, which resides only in Et
 सः द्विविधः ध्वन्यात्मकः वर्णात्मकश्च ।
 </details>
 
-<details><summary>English 1</summary>
+<details><summary>Eng A</summary>
 
 It is of two types - Inarticulate and Articulate
 </details>
@@ -45,7 +45,7 @@ It is of two types - Inarticulate and Articulate
 तत्र ध्वन्यात्मकः भेर्यादौ ।
 </details>
 
-<details><summary>English 1</summary>
+<details><summary>Eng A</summary>
 
 Sound emanating from Drum, etc is inarticulate
 </details>
@@ -61,7 +61,7 @@ Sound emanating from Drum, etc is inarticulate
 वर्णात्मकः संस्कृतभाषादिरूपः ॥ ३३॥
 </details>
 
-<details><summary>English 1</summary>
+<details><summary>Eng A</summary>
 
 Phonetic sounds in the form of syllables of languages like Samskrit, etc is inarticulate
 </details>
