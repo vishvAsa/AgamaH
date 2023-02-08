@@ -3009,23 +3009,8 @@ sarvavyavahāraheturjñānaṁ buddhiḥ. sā dvividhā. smṛti-
 
 ranubhavaśceti. 
 
-Translation: 33 
 
- 
 
-44English Translation with Notes 
-
-Notes: 33 
-
-Human beings perform three types of behaviour (a) the act of going forward to get something (b) the act of withdrawal to get rid of something and (c) the conscious act of remaining neutral. All these three kinds of behavior are prompted by a cognition or knowledge. 
-
-The knowledge presents the world before the knower with a form and a name and if he wants it he goes to collect it; if he does not want it he withdraws from it and if he neither wants to get it nor to get rid of it he remains indifferent. But in any case it is the cognition or knowledge that prompts these behaviors. 
-
-It is our experience that some behaviors or activities are successful in the sense that whatever is shown by cognition, the same is obtained; while some other behaviors are not successful in the sense that there 'x' is shown by cognition, but 'y' is obtained. But in both the cases the prompting factor is nothing but cognition. 
-
-It is only after one gets the same thing which was shown by the cognition, one comes to conclude that the prompting cognition was a true cognition and when he meets a failure he comes to conclude that the prompting cognition of his behavior was a false cognition. 
-
-Thus, all behaviors are prompted by cognition. 
 
 ## 34 
 
