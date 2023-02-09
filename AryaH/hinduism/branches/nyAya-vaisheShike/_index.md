@@ -54,12 +54,12 @@ unicode_script: devanagari
 
 ## टिप्पन्यः
 - विश्वासस्य [अत्र](https://docs.google.com/spreadsheets/d/1Q4C4b7yHeK-3fwgAPCdSTRjPIJFEN2NLBKObH9AC-dU/edit#gid=950757355)। तत्रैव [प्रश्ना](https://docs.google.com/spreadsheets/d/1Q4C4b7yHeK-3fwgAPCdSTRjPIJFEN2NLBKObH9AC-dU/edit#gid=1103198300) असमाहिता अपि।
-- अन्नम्भट्ट-तर्कसङ्ग्रहे [चात्र](https://sites.google.com/site/samskrtamsfo/darsanam/nyayashastram/tarkasangrahah.1586341761225)।
+
+## शाब्दबोध-प्रक्रिया
+नव्यन्यायरीत्या प्रकृतिप्रत्यय-विवेकात् परम् "पृथिवी-निष्ठा-ऽधिकरणता-निरूपित+आधेयता-ऽऽश्रयो गन्धः।" इत्यादिभिः शाब्दबोधनिरूपणम् [अन्यत्र](/sanskrit/vyAkaraNam/shabdabodhaH/01-vAkya-bodhaH) । 
 
 ## बोधनानि
 - नव्य-न्याय-भाषायाम् [अत्र](https://www.youtube.com/watch?v=ioLl9gGSAo4)।
 - आळ्वार-पाठो ऽत्र।
 
 
-## पाश्चात्य-पर्यायाः
-- probans (lit. "the thing that proves")=liṅga; probandum (lit. "the thing that should be proved")=sādhya; locus (lit. "the place")=pakṣa.
