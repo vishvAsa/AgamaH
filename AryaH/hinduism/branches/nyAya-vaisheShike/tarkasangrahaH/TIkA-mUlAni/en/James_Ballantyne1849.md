@@ -291,13 +291,13 @@ The opinion that the senses must resemble in their nature the objects which they
 Eastern 
 "The cause of the employment of the termsaster and the like, is Place for Space (or Direction-dik It is one, eternal, s and all-pervading (or infinite)." 
 ज्ञानाधिकरणमात्मा । स द्विविधा जीवात्मा परमात्माच । 
-तजेश्वरः सर्वद्मः परमात्मा एक एव सुखदुःखादिरहित: । ] जीवात्मा प्रतिशरीरं भिन्नेो विभुर्निव्यच । 
+तजेश्वरः सर्वद्मः परमात्मा एक एव सुखदुःखादिरहितः । ] जीवात्मा प्रतिशरीरं भिन्नेो विभुर्निव्यच । 
 12 
 (or substration of the quality) 
 LECTURES ON TH 
 "The seat of knowledge is the soul (átman). It is two-fold the living soul, and the Supreme soul. The Supreme Soul (or Spirit), the Lord, the Omniscient, is One only subject to neither pleasure nor pain. Living soul is distributed, one to each human body. It is infinite and eternal." 
 The reason assigned for saying that the human soul is infi- nite is this, that whithersoever the body goes, there the soul too is present. 
-सुखदु:खाद्युपलङ्गिसाधनमिन्द्रियं मनः । तच प्रत्यात्मनिय तत्वादनन्तं परमाणुरूपं नियच्च 
+सुखदुःखाद्युपलङ्गिसाधनमिन्द्रियं मनः । तच प्रत्यात्मनिय तत्वादनन्तं परमाणुरूपं नियच्च 
 ishich 
 185 
 «Mind (manas) is the instrument which effects the appre- hension of pleasure, pain, &c. It is innumerable, through there being one assigned to each soul. It is in the form of an atom, and is eternal.” 
@@ -435,7 +435,7 @@ Fluidity is the cause, other than the fluid itself, of com- mencing to trickle. 
 人 
 Modern discovery tends to establish the opinion that what Kanáda regarded as the adscititious cause of fluidity is in reality the indispensable cause of it. In the opinion of the Naiyúyi- kas "fluidity essentially exists in hail and ice; but is obstruct- ed by an impediment arising from an unseen virtue which renders the water solid."-This unseen virtue is no other than the abstraction of heat, which also solidifies molten lead after it has been removed from the fire. The three states of solid, liquid, and aeriform, most probably belong equally to every substance-or, at least to every uncompounded substance; for heat separates many compounds. Every one who has studied the works of modern chemists will admit the probability of this view. 
 The rendering of light fluid by means of fire, alluded to in the text, has reference to the notion that gold is solidified light. 
-quifefqushnazgoju: âtı semtaefn: 1 चूर्णादिपिण्डीभाव हेतुर्गुण: जलमात्रवृत्तिः 
+quifefqushnazgoju: âtı semtaefn: 1 चूर्णादिपिण्डीभाव हेतुर्गुणः जलमात्रवृत्तिः 
 "Viscidity (or clamminess) is the quality which causes minute particles to take the shape of a heap. It abides in water alone.” 
 人 
 Hence the Naiyáyikas hold that oil, &c. are viscid only in consequence of their containing water. Oil contains the ele- ments of water, but mercury does not-yet the particles ofतेजसित सुवर्णादौ । 
@@ -590,7 +590,7 @@ esaas ayana of ferasz "The cause of perception is sensation; knowledge pro- duce
 !...! 
 The opinion here expressed, that sensation is produced by the conjunction of the object and the sense, is borne out of modern enquiry, which tends to go still further, and to regard with approval what Sir W. Hamilton terms the shrewd ob- servation of Democritus, that "all the senses are only modi- fications of touch." [Reid's collected works, p. 104]. 
 प्रत्यच्चज्ञानहेतुरिन्द्रियार्थसन्निकर्षः षड्विधः संयोगसंयुक्तसम- 
-वायसंयुक्तसमवेतसमवायममवायसमवेतसमवायविशेषणविशे- व्यभावाईति । चक्षुषा घटमत्यचजनने संयोगः सन्निकर्षः । घटरूपपत्यच्चजनने संयुक्तसमवायः सन्निकर्ष: चक्षुः संयुक्त घटे रूपस्य समवायात् । रूपत्वमामान्यप्रत्यचे संयुक्तसमवे- 'तसमवायः सन्निकर्षः चतु:संयुक्त घटे रूपं समवेतं तत्र रूप- त्वस्य समवायात्। श्रोत्रेण शब्दसाक्षात्कारे समवायः सन्निकर्षः कर्णविवरष्टत्त्याकाशस्य श्रोत्रत्वात् शब्दस्याकाशगुणत्वात् गुणगुणिनेोश्च समवायात् । शब्दत्वसाक्षात्कारे समवेतसम- वायःसनिकर्षः श्रच समवेतेशब्दे शब्द त्वस्य समवायात् । श्रभाव- प्रत्यचे विशेषणविशेष्यभावःसन्निकर्षःघटाभावबहू नलमित्यच 
+वायसंयुक्तसमवेतसमवायममवायसमवेतसमवायविशेषणविशे- व्यभावाईति । चक्षुषा घटमत्यचजनने संयोगः सन्निकर्षः । घटरूपपत्यच्चजनने संयुक्तसमवायः सन्निकर्षः चक्षुः संयुक्त घटे रूपस्य समवायात् । रूपत्वमामान्यप्रत्यचे संयुक्तसमवे- 'तसमवायः सन्निकर्षः चतुःसंयुक्त घटे रूपं समवेतं तत्र रूप- त्वस्य समवायात्। श्रोत्रेण शब्दसाक्षात्कारे समवायः सन्निकर्षः कर्णविवरष्टत्त्याकाशस्य श्रोत्रत्वात् शब्दस्याकाशगुणत्वात् गुणगुणिनेोश्च समवायात् । शब्दत्वसाक्षात्कारे समवेतसम- वायःसनिकर्षः श्रच समवेतेशब्दे शब्द त्वस्य समवायात् । श्रभाव- प्रत्यचे विशेषणविशेष्यभावःसन्निकर्षःघटाभावबहू नलमित्यच 
 hay regard to 
 Asime 
 memditioned tconditioned 
@@ -779,7 +779,7 @@ Into this superfluous subtilty the Naiyáyikas would seem to have been led by th
 Ra 
 Ja 
 میں مجمع 
-सन्दिग्धसाध्यवान्पचः । यथा धूमवत्वे हेतैा पर्वतः । निश्चित साध्यवान् सपचः । यथा तत्रैव महानसः । निश्चितसाध्या- भाववान् विपक्ष: । यथा तचैव 
+सन्दिग्धसाध्यवान्पचः । यथा धूमवत्वे हेतैा पर्वतः । निश्चित साध्यवान् सपचः । यथा तत्रैव महानसः । निश्चितसाध्या- भाववान् विपक्षः । यथा तचैव 
 महाहूदः 
 "That whose possession of the property in question is doubtful is called the subject (paksha); as the mountain, when the fact of its smoking is assigned as the reason (for in- ferring the presence of fire). That which certainly possesses the property in question is called an instance on the same side (sapaksha); as the culinary hearth, in the same example. That which is certainly devoid of the property in question is 
 40 
@@ -909,7 +909,7 @@ DEY AIUTHIY: KATUTAĉu fafqa: a anfan: 1 GET वहिरनुष्णो द�
 "Thus has Inference been expounded." 
 Our text-book now proceeds to treat of 
 COMPARISON. 
-उपमितिकरणमुपमानम् । संज्ञासंज्ञिसम्बन्धज्ञानमुप मिति: । 
+उपमितिकरणमुपमानम् । संज्ञासंज्ञिसम्बन्धज्ञानमुप मितिः । 
 29 
 तत्करणं साहखेज्ञानम् । श्रतिदेशवाक्यार्थसारणमवान्तर- 
 Xi.e. valin 
