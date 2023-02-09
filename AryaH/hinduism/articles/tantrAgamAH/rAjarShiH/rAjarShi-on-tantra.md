@@ -56,9 +56,11 @@ tantra - upAsanA-technique, aimed at communion with the deity. Very little darsh
     - Practice in liminal spaces (cremation grounds, caves, mountains etc..). Use of skulls.
 - Initiate classification
   - pashu
+    - Regular vedic sAdhanA.
   - vIra
     - Most instructions aimed at them.
   - divya (already in communion with the deity)
+    - No rules.
 - mantra-progressions
   - 7 crore mantras from 5 faces of shiva-s. Gives rise to AmnAya-s.
   - Guru assigns mantra practice based on practitioner condition.
@@ -122,3 +124,34 @@ tantra - upAsanA-technique, aimed at communion with the deity. Very little darsh
 ## Teachers
 - Siddha-puruSha-s are almost like deva-s. If you are up to 60-65 (out of 100) only, You will already become pretty well known and famous. But beyond 60, beyond 70, beyond 80, those who go, they normally do not, they keep themselves very wrapped.
 - uttara-sAdhakas can be helpful as well.
+
+## maithuna
+- Celibacy has its power. So does well channelled (not unrestricted) release.
+  - During sankalpa-pUrvakAnuShThAna, there is celibacy and japa. But eventually lust and anger increase - power builds up beyond capacity - so there is forced loss of power anyway. Excessive guilt is no good either.
+  - kAma can't be destroyed - shiva revived him with an invisible body in kAmAkhya.
+  - Unrestricted maithuna (partnered or self) is also not condusive to sAdhanA. 
+    - Could be a pitR, not taking rebirth - might need to do ritual in the right kShetra.
+  - Use common sense, balance.
+- Requirements
+  - upAsana should be the major goal.
+  - Proper partners - compatible. 
+    - The skilled can identify the latent mahAvidyA in women.
+    - Partners usually currently married; earlier there were maNDali-s of roving yoginI-s / bhairavI-s and yogin-s / bhairava-s . 
+  - Proper initiations
+  - Proper practice
+    - Lakhs of mantra-japas
+    - nyAsa-s and mantra-japas during maithuna
+    - mantra-chaitanya-peak coincides with physical peak.
+- Failure
+  - Merely imbibing each others' karma. Bhoga. Defamation of spiritual practice.
+- Successful Result 
+  - mahAbhAva-samAdhi - Close identification with the deity. Loose track of time. Doubling of power. 
+- Anecdotes from tantrAbhilAshir sAdhu-sanga
+  - Authoer was a skeptical sketcher from a vaidika family.
+  - bakreshvar pITha in banga - was famous for vIrAchAra-sAdhana.
+  - Advanced aghorI from south in cremation ground who eats human brain matter with rice once in 3 days, revered by the Doms, supposedly telepathically called a bunch of vIra-s for chakrAnuShThAna on amAvAsyA.
+    - chakreshvara and chakreshvarI in the center. 
+    - In a circle: bhairava-s paired with bhairavI-s in perfect coordination (tested 3-4 times). Seating as per shakti, not jAti etc..
+    - pancha-makAropAsana one after another; with rituals and japa. (The fifth can be done by each pair in privacy.)
+    - 1 hour japa and nyAsa on the chakreshvarI, after which she sits on his lap in a specific mudrA.
+    - In a lightening flash, the hidden author, sees shiva and pArvatI instead of chakreshvara and chakreshvarI, and faints; wakes up next afternoon to a Dom sprinkling water on him.
