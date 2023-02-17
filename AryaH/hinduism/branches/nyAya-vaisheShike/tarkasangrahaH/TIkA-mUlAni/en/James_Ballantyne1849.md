@@ -138,7 +138,7 @@ A
 
 to say, having 
 
-2 
+[[2]]
 
 LECTURES ON THE 
 
@@ -354,7 +354,7 @@ unstirnal
 
 NYẨYA PHILOSOPHY. 
 
-5 
+[[5]]
 
 text book proceeds to consider each of the subdivisions in dc- tail. 
 
@@ -438,7 +438,7 @@ including annnd, & the like.
 
 To say that an organ of sense is earthy, or watcry, or etheri- al, would seem to indicate some confusion of thought as to the boundary line between mind and matter. But the Nyáya philosophers have perhaps been led to adopt this fanciful view of the senses rather by their excessive fondness for system, which was gratified by the simple means thus afforded of stow- ing away cach of the senses in an ostensibly appropriate place. This point can be more satisfactorily enquired into when we have heard the account given of the other senses. 
 
-371 
+[[371]]
 
 शीतस्पर्शवन्यापः 
 
@@ -446,7 +446,7 @@ To say that an organ of sense is earthy, or watcry, or etheri- al, would seem to
 
 In the sequel our text book offers the just observation that levity is not an entity but is only the absence of gravity. Had the same view been taken of cold and heat, water would have escaped being defined, as it is herc, by a characteristic which the Naiyáyika would scarcely recognize if he dipped his finger into a boiling tea kettle. 
 
-37 
+[[37]]
 
 । 
 
@@ -462,7 +462,7 @@ muslinnol
 
 "And this (water) is of two kinds—eternal and transient :— eternal, in the shape of atoms; transient in the shape of pro- ducts. These products again arc of three sorts, through the division of organized body, organ of sense, and unorganic mass. Watery organized body is to be met with in the realms world of Varuna (or Neptune); the watery organ of sense is taste 
 
-8 
+[[8]]
 
 LECTURES ON THE 
 
@@ -504,17 +504,17 @@ dags that the object must be illeminett.
 
 Ji 
 
-1 
+[[1]]
 
 • 
 
 NYẨYA PHILOSOPHY. 
 
-9 
+[[9]]
 
 by means of rays coming to, not proceeding from, the eye. From the bottom of a deep cave we can see an object outside which reflects the sun's rays to our eye; but, standing outside, no ray from the eye enables us to discern an opaque object at the bottom of the dark cave. X 
 
-4 
+[[4]]
 
 The doctrine of intestinal heat seems like an anticipation of of Liebig's theory of digestion; but, like some other seeming anticipations of scientific discovery, it reverses the order of cause and effect. The animal heat arises from the digestion of the food; the body acting, as Liebig tells us, "as a furnace which we supply with fuel.” 
 
@@ -522,7 +522,7 @@ Gold is supposed by the Naiyáyikas not to be earthy like the other metals, beca
 
 In the Mimánsa, gold is reckoned a distinct substance, as it is by European chemists, 
 
-1 
+[[1]]
 
 रूपरहितस्पर्शवान्वायुः । स द्विविधो नित्योऽनित्यश्च । नित्यः परमाणुरूपेा ऽनित्यः कार्यरूपः । पुनस्त्रिविधः शरीरेन्द्रिय विषयभेदात् । शरीरं वायुलोके । इन्द्रियं स्पर्शग्राहकं त्व : सर्वशरीरवर्भि । विषयो वृक्षादिकम्पनहेतुः ॥ 
 
@@ -534,7 +534,7 @@ Air is, by many people, in the present day, regarded as co-
 
 B 
 
-10 
+[[10]]
 
 LECTURES ON THE 
 
@@ -564,7 +564,7 @@ Serrand - Geno life)An interpolation.
 
 NYÁYA PHILOSOPHY. 
 
-11 
+[[11]]
 
 was obvious :--and the air having been appropriated to the sense of touch, which envelopes the whole body just as the air usually envelopes it, there remained nothing for it, if the uniformity of the system was to be established, but to postu- late a fifth elementary essence to account for hearing; and this received the name of ether. A fifth element, under the name of Quintessence, was imagined by some ancient philoso- phers of Europe, but with a different view from that of the Nyáya system. 
 
@@ -584,7 +584,7 @@ Eastern
 
 तजेश्वरः सर्वद्मः परमात्मा एक एव सुखदुःखादिरहितः । ] जीवात्मा प्रतिशरीरं भिन्नेो विभुर्निव्यच । 
 
-12 
+[[12]]
 
 (or substration of the quality) 
 
@@ -598,7 +598,7 @@ The reason assigned for saying that the human soul is infi- nite is this, that w
 
 ishich 
 
-185 
+[[185]]
 
 «Mind (manas) is the instrument which effects the appre- hension of pleasure, pain, &c. It is innumerable, through there being one assigned to each soul. It is in the form of an atom, and is eternal.” 
 
@@ -644,7 +644,7 @@ been-
 
 brownish, auburn?NYẨYA PHILOSOPHY, 
 
-13 
+[[13]]
 
 OF QUALITIES. 
 
@@ -666,7 +666,7 @@ T
 
 / म 
 
-14 
+[[14]]
 
 LECTURES ON THE 
 
@@ -744,7 +744,7 @@ Small, a great
 
 NYÁYA PHILOSOPHY. 
 
-15 
+[[15]]
 
 or eternal-eternal in what is eternal (as atoms are), or tran- sient in what is transient (as productions are).” 
 
@@ -834,7 +834,7 @@ non-intimati
 
 NYÁYA PHILOSOPHY. 
 
-17 
+[[17]]
 
 "The cause (other than the body itself) of (a body's) be- ginning to fall is Gravity, which resides in earth and wa- ter." 
 
@@ -846,7 +846,7 @@ A noticeable decision of the Naiyáyikas was this, that le- vity is not a distin
 
 C 
 
-18 
+[[18]]
 
 expression) Jur. Colebrook's 
 
@@ -926,7 +926,7 @@ they call Remembrancein
 
 NYÁYA PHILOSOPHY. 
 
-19 
+[[19]]
 
 mercury collect into heaps just as those of oil or water do. The phenomenon, in each of these cases, falls under what is termed, in modern science, the attraction of cohesion. 
 
@@ -968,7 +968,7 @@ the Arnoldn
 
 the self-reproduction 
 
-20 
+[[20]]
 
 LECTURES ON THE 
 
@@ -1058,7 +1058,7 @@ by anything else constituted a
 
 NYẨYA PHILOSOPHY, 
 
-21 
+[[21]]
 
 a cow, his knowledge is based on the affirmation of the per- son who stated the resemblance to him. In a strict classifi- cation, founded on a complete analysis, affirmation would not appear as an ultimate ground of knowledge or belief, for it is itself indebted to inference for all its efficacy. We believe testimony only where we have inferred that it is trustworthy. Every one is not aware of having made an inference in such a case, because it is not every one that is capable of noting and analysing the operations of his own mind, even were it to occur to him to attempt it. A young Arab believes the Ku- rán on the testimony of his father, because he has observed during his own infancy that his father is a much better in- formed person than himself, and he has always found it safer to take his father's word on any point than to decide in opposition to it on the strength of his own experience. He therefore infers that his father's word is to be trusted in regard to the Kurán also, and he infers that what he finds written in it is true, because this follows of course from the belief that his father had given a true account of the matter. Now, if, forgetting or not perceiving the real foundation of his belief, the young Arab grows up under the habitual im- pression that the Kurán is in itself an authority standing in need of no process of inference, from matters extrinsic or intrinsic, for its establishment, then he must needs remain a Musalman to the end of his days, though no one but a Musal- mán will think that his notion is a right one. 
 
@@ -1074,7 +1074,7 @@ a cow, his knowledge is based on the affirmation of the per- son who stated the 
 
 ? 
 
-22 
+[[22]]
 
 annulo 
 
@@ -1096,7 +1096,7 @@ This coincides with Mill's proposition (Logic, V. 1. p. 395), that "It is an uni
 
 "Cause is of three kinds according to the distinction of intimate, non-intimate, and instrumental. That from which an intimately relative effect arises in an intimate cause, as threads are of cloth, and the cloth itself of its own colour, &c. Where this intimate relation exists, that cause which is as- sociated in one and the same object with such effect or cause, is non-intimate. Thus the conjunction of the threads is the non-intimate cause of the cloth, and the colour of the threads that of the colour of the cloth. The cause which is distinct from both of these is the instrumental cause, as the weaver's brush, the loom, &c. are of cloth. Among these three kinds of causes, that only which is not a universally concurrent cause or condition (of all effects, as God, time, place, &c. are) is called the instrumental canse.' 
 
-33 
+[[33]]
 
 Let us compare this view of causes with the view taken by the followers of Aristotle. In the opinion of these specula- tors four things were entitled to the name of cause; and 
 
@@ -1118,7 +1118,7 @@ gelap 3
 
 ANYÁYA PHILOSOPHY.- 
 
-23 
+[[23]]
 
 causes. 
 
@@ -1128,7 +1128,7 @@ thing; as transparency in glass. then, (vide Preliminary Dissert. Enc. Brit. p. 
 
 In modern philosophy the employment of the word causc 
 
-24 
+[[24]]
 
 LECTURES ON THE 
 
@@ -1156,7 +1156,7 @@ some thiting.
 
 NYÁYA PHILOSOPHY. 
 
-25 
+[[25]]
 
 which, to our mind, rather expresses, "Who maketh causes to be efficiently such," or "Who bestoweth on something that, in virtue of which it becomes a cause.' 
 
@@ -1238,11 +1238,11 @@ contact
 
 ॥ इति प्रत्यक्ष खण्डः ॥ 
 
-27 
+[[27]]
 
 "The relative proximity of a sense and its object, which is the cause of perception, is of six kinds, (1.) conjunction, (2.) intimate union with that which is in conjunction, (8.) intimate union with what is intimately united with that which is in conjunction, (4.) intimate union, (5.) intimate union with that which is intimately united, and (6.) the connection which arises from the relation between that which qualifies and the thing qualified. For example, when a jar is perceived by the eye, there is (between the sense and the object) the proximity of conjunction. In the perception of the colour of the jar, there is the proximity of intimate union with that which is in con- junction, because the colour is intimately united with the jar, which is in conjunction with the sense of vision. In the perception of the fact that colour generally is present, there is the proximity of intimate union with what is intimately united with that which is in conjunction, because the generic property of being coloured is inherent in the particular colour which is intimately united with the jar which is in conjunc- tion with the sense of vision. In the perception of sound by the organ of hearing, there is the proximity of intimate union, because the organ of hearing consists of the ether which resides in the cavity of the ear, and sound is a quality of ether, and there is intimate union between a quality and that of which it is the quality. In the perception of the nature of sound (in a given sound of which we are cognizant) the proximity is that of intimate union with what is intimately united, because the nature of sound is inherent in sound which is intimately united with the organ of hearing. In the perception of nonexistence, the proximity is dependent on the relation between a distinctive quality and that which 
 
-28 
+[[28]]
 
 LECTURES ON THE 
 
@@ -1286,7 +1286,7 @@ sur application if an geural principale = special case.
 
 NYAYA PHILOSOPHY. 
 
-29 
+[[29]]
 
 tympanum or drum of the ear, which communicates with the auditory nerve, an offshoot of the brain beyond which we can trace the phenomenon no further-the way in which the matter of the nerves communicates with the immaterial prin- ciple of conciousness being one of the mysteries which re- main with the Creator. 
 
@@ -1324,7 +1324,7 @@ with the knowledge that the case in question is one to which it is applicable. F
 
 als J. 
 
-80 
+[[80]]
 
 LECTURAS ON THE 
 
@@ -1380,7 +1380,7 @@ A generated for
 
 NYÁYA PHILOSOPHY. 
 
-31 
+[[31]]
 
 pears to be this, that it is only when simultaneously present to the mind that the premises suggest the inference. 
 
@@ -1390,7 +1390,7 @@ agari fgfaði anà quda, and argfafang: । तथाहि । स्वयम�
 
 "The process of Inference-is of two kinds, for one's self, and for another. That which is for one's self is the cause of 
 
-32 
+[[32]]
 
 LECTURES ON THE 
 
@@ -1410,7 +1410,7 @@ inference?
 
 ?NYÁYA PHILOSOPHY. 
 
-33 
+[[33]]
 
 "The five members of this syllogism are severally named: (1.) the proposition, (2.) the reason, (3.) the example, (4.) the application, and (5.) the conclusion. The mountain is fiery' is the proposition; 'because of its being smoky is the rea son; 'whatever is smoky, &c.' is the example; 'and so this mountain is' is the application; therefore the mountain is fiery' is the conclusion." 
 
@@ -1420,7 +1420,7 @@ E
 
 + 
 
-84 
+[[84]]
 
 LECTURES ON THE 
 
@@ -1432,11 +1432,11 @@ Logically considered, the five-membered expression is a combination of the Induc
 
 NYÁYA PHILOSOPHY. 
 
-35 
+[[35]]
 
 Whilst Kanáda in his rhetorical section, gives the frame- work for a set harangue, to be delivered without interruption, Gautama supposes an opponent, and a chairman, or Speaker of the House. In his first aphorism, (see the "Logical Ap- horisms of Gotama," published in Calcutta, p. 2; Colebrooke's Essay, p. 265; or Ward's "View, &c. of the Hindoos,” v. 4, p. 239,) he sketches, by an cnumeration of the sixteen topics following, what may be regarded as "the natural history of a debate." What is to be admitted as proof (pramána) having been pre-determined, and the subject of discussion (prameya) having been mooted, the impartial chairman, not having yet heard the arguments, is in a state of doubt (sansaya), both as to what is the fact of the matter, and also as to there being any sufficient motive (prayojana) for entertaining the question. The asserter of the proposition explains the importance of the question, which furnishes the motive for entertaining it; and he supports his own opinion on the matter by citing examples (drishtánta) sufficient, he conceives, to make out an establish- ed casc (siddhúnta). An opponent rises, and takes the reason- ing to pieces (avayava), putting it, that is to say, into the form of the five-membered discourse, and trying to show its insufficiency. The first speaker makes a refutation (tarka) of thesc objections, and thus furnishes confirmation (nirnaya) of his own position. The objector, who, being, by hypothesis, in the wrong, is of course obstinate, begs that a fair discus- sion (váda) may be allowed; and he proceeds to offer a wrang- ling rejoinder (jalpa); and, in default of better arguments, he brings forward cavils (vitanda), fallacics (hetwábhása), am- biguous expressions, and such-like disingenuous artifices (chhala). By these unworthy proceedings he lays himself open to the confutation (játi) to which a reasoner is liable who evidently contradicts himself, and, the assembly being no longer disposed to listen to him, he is voted a nuisance, and finds himself in the predicament of being rebuked (nigra- ha-sthána) by the president, who puts him down, and declares that "the Ayes have it." 
 
-86 
+[[86]]
 
 LECTURES ON THE 
 
@@ -1454,7 +1454,7 @@ Signs there
 
 NYÁYA PHILOSOPHY. 
 
-37 
+[[37]]
 
 disposeable of at the outset, leaving the remainder of the en- quiry, if any further enquiry be found necessary, all the more easy to be disposed of. That the Naiyáyikas failed to per- ceive this, is less strange than that it should have been for- gotten again in Europe, as it so generally was till very re- cently. No one is perhaps more perfectly aware of the real import of the distinction here adverted to than Mr. J. S. Mill; and it is therefore matter of regret that he should have thought proper to write of the syllogism, in his “ Sys- tem of Logic,” in a sort of disparaging tone, which is calcu- lated to perpetuate misconception just in proportion to the great merit of the rest of his work. No doubt, it will have this effect only on his superficial readers; but superficial readers constitute a numerous and influential body, whom it is of great importance not to mislead. 
 
@@ -1480,7 +1480,7 @@ The belief of the conclusion necessarily follows the com- bined apprehension of 
 
 analy 
 
-38 
+[[38]]
 
 LECTURES ON THE 
 
@@ -1538,7 +1538,7 @@ Whitting furfiNYẨYA PHILOSOPHY.
 
 (5.) Therefore it is not like the other elements :- 
 
-39 
+[[39]]
 
 but if (in the third member of the argument) we had argued (affirmatively) that 'what possesses odour is different from the other elements, we should have had no example to cite in confirmation, seeing that of earth alone can that property be asserted." 
 
@@ -1564,7 +1564,7 @@ Ja
 
 "That whose possession of the property in question is doubtful is called the subject (paksha); as the mountain, when the fact of its smoking is assigned as the reason (for in- ferring the presence of fire). That which certainly possesses the property in question is called an instance on the same side (sapaksha); as the culinary hearth, in the same example. That which is certainly devoid of the property in question is 
 
-40 
+[[40]]
 
 LECTURES ON THE 
 
@@ -1622,13 +1622,13 @@ NYÁYA PHILOSOPHY.,
 
 соджиза 
 
-41 
+[[41]]
 
 objection) because the capability of having its existence proved belongs (equally) to a lake, which is characterised by the ab- sence of fire." 
 
 The result of this, translated into the language of Eu- ropean logic, is, that in such a case an opponent would deny the major,―viz. that "All that is demonstrable is fiery." There, therefore, is a question, not of formal logic, but of fact -a question to be determined by inductive investigation. X सर्वसपञ्चविपचव्याष्टनेो ऽसाधारणः । यथा शब्दो नित्यः शब्दत्वादिति शब्दत्वं सर्वेभ्थे । नित्येभ्यो ऽनित्येभ्यश्च व्याटतं शब्दमाचष्टभि । 
 
-1 
+[[1]]
 
 de belez 
 
@@ -1692,7 +1692,7 @@ nature allyed does not mally sexide in the salgset
 
 NYAYA PHILOSOPHY. 
 
-43 
+[[43]]
 
 ing that any thing exists in reality corresponding to the term sabdatwa, "the abstract nature of sound." Granting that there were such a thing, and that it were eternal as here assumed, there is a fallacy of equivocation in the attribution to it of the terms "audibleness," and "eternity." 
 
@@ -1712,7 +1712,7 @@ Hi allyer the expression (swarúpúsiddha); and (3.) whière invariableness of c
 
 Mr. Mill, (Logic, vol. 1, p. 200), treating of the nature of 
 
-44 
+[[44]]
 
 LECTURES ON THE 
 
@@ -1746,7 +1746,7 @@ Subject
 
 NYÁYA PHILOSOPHY. 
 
-45 
+[[45]]
 
 “As (an example of) an argument evidently inconclusive, (suppose one were to argue), 'Sound is a quality, because it is visible'—here (every one would perceive at once, that) visi- bility does not reside in sound, for sound is recognised by the hearing (not by vision).” 
 
@@ -1768,7 +1768,7 @@ part (apratiyogitwa) of the absolute non-existence (atyantá- bháva) attendant 
 
 The Naiyáyikas glory in this bewildering style of elucida- tion. In the present instance the question was this-"in what consists such invariable attendance as that of wet fuel on 
 
-46 
+[[46]]
 
 LECTURES ON THE 
 
@@ -1788,7 +1788,7 @@ NYÁYA PHILOSOPHY.
 
 “ 
 
-47 
+[[47]]
 
 there is the conjunction of wet fuel'-so that we have here invariable attendance on what is to be proved (sádhyavyápa- katá). But it is not true that wherever there is fire, there there is conjunction of wet fuel'-for there is no conjunction of wet fuel in the case of an (ignited) iron ball-so we have here non-invariable attendance on the proof (sádhanávyápa- katá). As there is thus its invariable attendance on what is to be proved, the contact of wet fuel is an indispensable con- dition for the sufficiency of the reason alleged. As it would require this additional condition (in order to prove that smoke must be present), fieriness (in the argument before us) is faul- ty as regards comprehensiveness.' 
 
@@ -1800,7 +1800,7 @@ An argument proposed in the form "The mountain is fie ry-therefore it must smoke
 
 The instance of the ignited iron ball enables us merely to deny the Major premiss of this syllogism. It is not unfre-T 
 
-48 
+[[48]]
 
 LECTURES ON THE 
 
@@ -1820,7 +1820,7 @@ COMPARISON.
 
 उपमितिकरणमुपमानम् । संज्ञासंज्ञिसम्बन्धज्ञानमुप मितिः । 
 
-29 
+[[29]]
 
 तत्करणं साहखेज्ञानम् । श्रतिदेशवाक्यार्थसारणमवान्तर- 
 
@@ -1846,13 +1846,13 @@ Its instrument is the kunoledy of a likmess
 
 NYÁYA PHILOSOPHY. 
 
-49 
+[[49]]
 
 व्यापारः । तथाहि गवयशब्दवाच्यमजानन् कुतश्विदारण्यक पुरुषाङ्गोसदृशो गवय इति श्रुत्वा वनं गतो वाक्यार्थं सारन गोसदृशपिष्डं पश्यति तदनन्तरं श्रसै। गवयशब्दवाच्यइत्यु- # पमितिरुत्पद्यते । व्याख्यातमुपमानम् ॥ 
 
-114 
+[[114]]
 
-141414 
+[[141414]]
 
 K 
 
@@ -1880,7 +1880,7 @@ TESTIMONY.
 
 G 
 
-2 
+[[2]]
 
 に 
 
@@ -1890,11 +1890,11 @@ Quinials
 
 tual Aada% 
 
-1 
+[[1]]
 
 /ब 
 
-50 
+[[50]]
 
 LECTURES ON THE 
 
@@ -1998,7 +1998,7 @@ vativ-rational.
 
 NYÁYA PHILOSOPHY. 
 
-51 
+[[51]]
 
 for another word denoting action. The word denoting action, the third in the sentence, looks for some object of the action. This it finds in the second word, which, being in the objectivo case, was looking out for the verb. Each word in such a sen- tence finds every other kind of word which it requires. This, however, is not sufficient to ensure a sentence's being fault- less, as our textbook goes on to show. 
 
@@ -2010,7 +2010,7 @@ diglet
 
 The expression 'He should irrigate with fire' is no valida sentence, for there is no compatibility (between fire and irri- Kunol. gation)." 
 
-22 
+[[22]]
 
 महरे हरे असहाचारितानि गामानयेत्यादिपदानि न प्रमाणं सान्निध्याभावत् । 
 
@@ -2038,7 +2038,7 @@ f
 
 Sift 
 
-52 
+[[52]]
 
 LECTURES ON THE 
 
@@ -2100,7 +2100,7 @@ Coville procip of confictation)perceivabe.. by ale as
 
 NYẨYA PHILOSOPHY. 
 
-53 
+[[53]]
 
 On the three kinds of wrong notion it may be remarked, that the first, or doubt, ceases when one of the conflicting natures excludes the rest; the result, however, may still be a wrong notion of the second kind, or a mistake; for our doubt ceases when we become sure that a given object is a man, though in reality it be a post. Mistake ceases, when, by more careful examination or by other means, an apprehension of the real nature of the thing displaces the erroneous appre- hension. The third kind of error is that where no further examination is required, the want of logical perspicacity being all that prevents the individual from perceiving that the opinion which he entertains is inconsistent with admitted 
 
@@ -2126,9 +2126,9 @@ Our text book, of which a considerable space has been occupied with the quality 
 
 ? 
 
-५ 
+[[५]]
 
-54 
+[[54]]
 
 LECTURES ON THE 
 
@@ -2164,7 +2164,7 @@ Imaginati
 
 (bha'aNYÁYA PHILOSOPHY. 
 
-55 
+[[55]]
 
 duction of such an effect, or the establishment of such a product, as a jar, two causes at least must co-operate; viz. the maker and the material:-for the clay may be said to make the jar, as reasonably as the potter can be said to make it. So again, in order that there may be Perception, both the Mind and an external Object must co-operate. But equally in the case of the Mind's exerting the faculty of Memory; of a bent bow's righting itself on the removal of the strain; and of a body's continuing its course after dis- junction from that which originated the motion, an agent is recognized as operating by itself. Looking at the etymology of the word sanskára—(sam “with," and kri “do”)-one might imagine the word to be better fitted to express what is done, by the mind, &c. in co-operation with something clse, than what is done without such co-operation: but occa- sionally, in a compound verb, the separate force of the con- stituent elements is nearly as little obvious as the character 
 
@@ -2184,7 +2184,7 @@ ACTION.
 
 जर्हृदेशसंयोगहेतुरुत्क्षेपणं । श्रवेादेशसंयोगहेतुरपद्येषणं । शरौरस्य सनिष्कृष्टसंयोगहेतुराकुञ्चनं । विप्रकृष्टसंयोगहेतुः 
 
-56 
+[[56]]
 
 I 
 
@@ -2210,7 +2210,7 @@ cies.
 
 Next we have the Category of 
 
-6138 
+[[6138]]
 
 ? 
 

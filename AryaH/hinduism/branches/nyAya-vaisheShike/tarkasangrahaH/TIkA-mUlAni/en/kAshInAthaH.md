@@ -26,7 +26,7 @@ TRANSLATION.
 
 8. 'Non-existence is of four kinds;-Antecedent non-exis- tence, Destruction, Absolute non-existence and Mutual non- existence.' 
 
-4 
+[[4]]
 
 9. That is Earth, in which there is the quality Odour. It is of two kinds;-Eternal and Non-eternal. In its atomic cha- racter it is Eternal; and when some product arises out of those atoms, then that is called Non-eternal. This [earth in the character of a product] is of three kinds, through the differences of body, organ of sense and mass. The body is that of us men. The organ is the apprehender of odour, called the Smell, which resides in the fore-part of the nose. And the masses [what have parts] are 'clods, stones, &c.' 
 
@@ -80,9 +80,9 @@ The quality which is apprehended by the sense of Smell, is called Odour. And it 
 
 Eternal or Transient. When they reside in eternal things, they are Eternal; and when they reside in things not eternal, they are said to be Transient.' 
 
-4 
+[[4]]
 
-5 
+[[5]]
 
 24. 
 
@@ -132,7 +132,7 @@ cause; as, threads are of cloth, and the cloth itself of its own colour &c. Wher
 
 39. 'The relative proximity of a sense and its object, which is the cause of perception, is of six kinds;-Conjunction, In- timate union with that which is in conjunction, Intimate union with what is intimately united with that which is in conjunction, Intimate union, Intimate union with that which is intimately united, and the Connection which arises from the relation between that which qualifies and the thing qualified. When a jar is per- ceived by the eye, there is (between the sense and the object) the proximity of Conjunction. In the perception of the colour of the jar, there is the proximity of Intimate union with that which is in conjunction; because the colour is intimately uni- ted with the jar, which is in conjunction with the sense of vision. In the perception of the fact that colour generically is present, there is the proximity of intimate union with what is intimately united with that which is in conjunction; because the generic property of being a colour is intimately united with the particular colour which is intimately united with the jar 
 
-1 
+[[1]]
 
 [7] 
 
@@ -196,7 +196,7 @@ tain is fiery, because it is an object of right knowledge,' [the reason assigned
 
 nised by the hearing (not by vision). A reason, when there is an indispensable condition, is faulty as regards comprehensive- ness. Such an indispensable condition is what always attends property to be established, but does not always attend what is brought forward in proof. Invariable attendance on the pro- perty to be established consists in the not being the counter- entity of the absolute non-existence, which has the same location as that which is to be proved. Non-invariable attend- ance on what is brought forward in proof consists in the being the counter-entity of the non-existence which has what is brought forward in proof. (Suppose it to be argued that), 'The mountain must smoke, because it is fiery'-in this case the contact of wet fuel is an indispensable condition. For, 'wherever there is smoke, there is the conjunction of wet fuel' -so that we have here invariable attendance on what is to be proved. But it is not true that wherever there is fire, there there is conjunction of wet fuel-for there is no conjunc- tion of wet fuel in the case of an (ignited) iron ball-so we have here non-invariable attendance on the proof. As there is thus its invariable attendance on what is to be proved, the con- tact of wet fuel is an indispensable condition for the sufficiency of the reason alleged. As it would require this additional con- dition (in order to prove that smoke must be present), fieriness(in the argument before us) is faulty as regards comprehensiveness. An argument is futile when the reverse of what it seeks to prove is established for certain by another proof. For example (it may be argued that), 'Fire is cold, because it is a substance. There coldness is to be proved; and its opposite, warmth, is apprehended by the very sense of touch. Hence the argument is futile.' 
 
-4 
+[[4]]
 
 47. 'Comparison or the recognition of likeness, is the cause of an inference from similarity. Such an inference consists in the knowledge of the relation between a name and the thing so named. Its instrument is the knowledge of a likeness. The recollection of the purport of a statement of resemblance is the operation of that instrument. For example-a person not knowing what is meant by the word ‘gavaya,' having heard from some inhabitant of the forest that a gavaya is like a cow, goes 
 

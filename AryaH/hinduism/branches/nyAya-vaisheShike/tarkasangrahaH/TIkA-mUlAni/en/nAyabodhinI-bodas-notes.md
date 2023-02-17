@@ -70,7 +70,7 @@ Abbreviations
 
 4B 
 
-5 
+[[5]]
 
 LXXI 
 
@@ -90,17 +90,17 @@ Sect. 1 मंगलम्
 
 2 पदार्थाः 
 
-73 
+[[73]]
 
 30 गुरुत्वम् 
 
 ***168 
 
-35 
+[[35]]
 
 3 द्रव्याणि 
 
-776 
+[[776]]
 
 31 द्रवत्वम् 
 
@@ -108,9 +108,9 @@ Sect. 1 मंगलम्
 
 4 गुणाः 
 
-81 
+[[81]]
 
-22 
+[[22]]
 
 32 स्नेहः 
 
@@ -120,7 +120,7 @@ Sect. 1 मंगलम्
 
 5 कर्माणि 
 
-87 
+[[87]]
 
 38 शब्दः 
 
@@ -128,7 +128,7 @@ Sect. 1 मंगलम्
 
 6 सामान्यम्' 
 
-89 
+[[89]]
 
 34 बुद्धिः 
 
@@ -140,7 +140,7 @@ Sect. 1 मंगलम्
 
 ... 
 
-93 
+[[93]]
 
 ॐ अनुभवः 
 
@@ -150,7 +150,7 @@ Sect. 1 मंगलम्
 
 8 समवायः 
 
-96 
+[[96]]
 
 36 अनुभवभेदाः 
 
@@ -158,7 +158,7 @@ Sect. 1 मंगलम्
 
 9 अभावाः 
 
-99 
+[[99]]
 
 37 करणम् 
 
@@ -182,7 +182,7 @@ Sect. 1 मंगलम्
 
 ...196 
 
-4 
+[[4]]
 
 ?? 
 
@@ -198,7 +198,7 @@ asg
 
 梦想 
 
-17 
+[[17]]
 
 13 वायुः 
 
@@ -212,7 +212,7 @@ asg
 
 ...126 
 
-42 
+[[42]]
 
 ...211 
 
@@ -238,7 +238,7 @@ asg
 
 ...132 
 
-9 
+[[9]]
 
 44 अनुमानम् 
 
@@ -250,7 +250,7 @@ asg
 
 45 स्वार्थ परार्थं च 
 
-262 
+[[262]]
 
 →, 
 
@@ -260,7 +260,7 @@ asg
 
 ...145 
 
-2 
+[[2]]
 
 46 पञ्चावयवाः 
 
@@ -298,13 +298,13 @@ asg
 
 • 
 
-155 
+[[155]]
 
-166 
+[[166]]
 
 150 ...163 
 
-164 
+[[164]]
 
 >> 
 
@@ -312,7 +312,7 @@ asg
 
 18 लिङ्गम् 
 
-06 
+[[06]]
 
 ...284 
 
@@ -354,9 +354,9 @@ Content.
 
 ••3181 Sect. 73-74 आत्मगुणाः 
 
-000387 
+[[000387]]
 
-9 
+[[9]]
 
 59 शब्दः 
 
@@ -376,7 +376,7 @@ p
 
 60-61 आकाङ्क्षा प्रायः } 340 
 
-62 
+[[62]]
 
 योग्यता -संनिधयः 
 
@@ -406,7 +406,7 @@ p
 
 81 उपसंहारः " ...374 
 
-352 
+[[352]]
 
 ॐ 
 
@@ -414,7 +414,7 @@ p
 
 **370 
 
-13 
+[[13]]
 
 --- 364 
 
@@ -426,7 +426,7 @@ Appendix C
 
 ...382 
 
-980 
+[[980]]
 
 **365 Index 
 
@@ -454,7 +454,7 @@ M. R. BODAS
 
 Extract from the Preface to the First Edition 
 
-490 
+[[490]]
 
 A few words as regards the explanatory and critical notes appended to this edition will suffice. The chief aim in writing these annotations was to make them as ex- haustive as the limited scope of a book mainly intended for students would permit. The notes will not appear disproportionate to the text, if the difficulty of the subject as well as the want of a proper guide to these systems are taken into account. The notes are designed to give the student a tolerably complete and accurate idea of the Nyâya and Vaiseshika systems as a whole; and hence many topics, although omitted or only cursorily glanced at in Annam- bhatta's work, have been discussed in the notes, because they form essential ingredients of the systems. Manuals like the Tarka-Sangraha and the Dipika are to be studied only as stepping stones to the knowledge of a great and intricate science; and the notes have been written with a view to facilitate the further progress of the student as much as possible. 
 
@@ -480,9 +480,9 @@ A Historical Survey of Indian Logie.'
 
 "THE foundation of logic as a Science," says Ueberweg, "is a work of the Greek mind, which, equally removed from the hardness of the Northern and the softness of the Oriental, harmoniously united power and impressibility.”” The supple mind of the Oriental is said to be wanting in the mental grip and measure required for strictly scientific think- ing. Ueberweg, when he laid down the above proposition, was not wholly ignorant of the existence of Nyaya philoso- phy, but his knowledge of it seems to have been very mea- gre. Had he known some of the standard works of Nydya and Vaiseshika systems, he would not have passed such a sweeping remark about the incapacity of the Oriental mind to develop a rigorous science like Logic. The same ignorance has led many eminent writers to belittle Indian philosophies in general or, where striking coincidences are discovered between Greek and Indian speculations, to assume a Grecian importation of philosophical ideas into India at some ancient time. Thus Niebuhr unhesitatingly asserts that the close similarity between Indian and Greek philosophies cannot be explained except by the intercourse which the Indians had with the Græco-Macedonic kings of Bactria." On the other hand, there are writers like Gorres who as positively declare that the Greeks borrowed their first elements of philosophy from the Hindus. Max Müller is probably nearer the truth in saying that both Greek and Indian philosophies were autochthonic, and that neither of the two nations bor- rowed their thoughts from the other. As the human mind is alike everywhere, it is quite possible that philosophers in both India and Greece unconsciously adopted the same mode 
 
-44 
+[[44]]
 
-4 
+[[4]]
 
 This paper was read by me at a meeting of the Bombay Branch of the Royal Asiatic Society on the 24th September 1896 and is published in the Journal of the B. B. R. A. Society, Vol XIX p. 306. 
 
@@ -516,7 +516,7 @@ philosophy has been deepened by the accounts left by Plato, Xenophon and Thucydi
 
 "The systems of philosophy, however peculiar and self- dependent they may be, thus appear as the members of a larger historical inter-connection; in respect to this alone can they be perfectly understood; the further we follow it the more the individuals become united to a whole of his- torical development, and the problem arises not merely of explaining this whole by means of the particulars condi- tioning it, but likewise of explaining these moments by one another and consequently the individual by the whole.' 
 
-971 
+[[971]]
 
 A history of Indian philosophy, such as would fulfil this purpose, is not'of course possible in the present rudimentary state of Indian chronology. Still even a crude attempt of that kind will give truer insight into each system or each doctrine than can be got by a study 
 
@@ -634,7 +634,7 @@ ments however are misleading and often produce confusion. The Nydya doctrine of 
 
 i 
 
-2 
+[[2]]
 
 Colebrooke's Miscellaneous Essays, Vol. I., p. 354, Cowell's note, * V. S. 1., 1, £; 1., 1, 6; I., 2, 3. 
 
@@ -672,7 +672,7 @@ Garbe holds that Vaišeskike was prior to Nydyu: Vide. Die Samkhya Philosophie, 
 
 * Brahmo-Sútra II, 2, 18, et seg; Mîmáisá-Sutru 1, 2, 33; see also Colebrooke's Miscellaneous Essuys, Vol. I, p. 354. 
 
-3 
+[[3]]
 
 * V. S. IV, 1, 4-5. 
 
@@ -694,7 +694,7 @@ Again many of the terms used by Kanda, such as अविद्या, लिङ�
 
 TT appear to be borrowed from Badarayana. The same holds good of Gotama. In several places he propounds views very similar to well-known edintic doctrines"; while a comparison of G. S. III, 2, 14 with Brahma- Sútra II, 1, 24 will show that Gotama borrows even illustrations and arguments from Badariyana3 G. S. II, 1, 61-67 would likewise show that Gotama was also posterior to Jaimini. It may be argued that the borrowing may have been on the other side, or that the particular sûtras may be later additions. But we must in such cases judge by the whole tone and drift of authors. While in all the cases noted above the topics form essential parts of the two Mimáiså systems, they come only incidentally in the works of Kamida and Gotuma. We can, therefore, confidently assert that the works of Gotama and Kaņâda, as we have them at present, cannot be older than the 4th century B. C. 
 
-5 
+[[5]]
 
 The question as to the relative priority of these two sys- toms per se is beset with many difficulties. Opinions have been advanced on both sides. Chandrakanta Tarkilankara, in the preface to his edition of Faiseshiku-sitrus. strongly contends for the priority of Višeshiku system, while others maintain the opposite view. Goldstücker calls the Vaiseshiba ouly a branch of the Nydya without deciding their relative priority while Weber is undecided on the point. Much of the confusion, however. on this point can be avoided by making a distuction, as already noted, between the Valleshiku system and the Vaseshiki sitrus. There are strong gronuds for believing, as Mr. Tarkilankara contends, that the Faiteshika system preceded Gotama's and yet the Sutras of Kaydda or at least many of them, may be of a 
 
@@ -720,7 +720,7 @@ Tarka-Sangraha.
 
 later date. The fact that, while Vaiseshika doctrines are noticed in Bidarayana's Brahma-Sûtras, Gotama's system is not even once alluded to, shows that some Vaišeshika doctrines at least were promulgated not only before Gotama but even before the composition of the Brahma-Sutras. Vatsyayana's remark that omissions in Gota- ma's work are to be supplied from the cognate system of the Vaiseshikas may likewise be taken to imply that that system existed before Gotama's time'; while the latter's reference to & प्रतितन्त्रसिद्धान्त, 2 by which he probably means doctrines taught by some allied school such as the Vaiseshikas would support such an inference. The posteriority of Gotama may also be inferred from the fact that many topics summarily disposed of or imperfectly discussed by Kanada are fully treated by him, as for instance inference, fallacies, eternity of sound, and the nature of soul. It is true that some of these arguments would also prove that Kanada's sutras were anterior to Gotama's work, and it is possible that a collec- tion of Vaiśeshika sútras was known to Gotama. But we must also take account of the fact that several sûtras in the present collection of Kanida's aphorisms appear to be sug- gested by Gotama's work. 
 
-3 
+[[3]]
 
 V. S. III, 2, 4, tion of G. S. I, 1, 10. illustration of the 
 
@@ -730,7 +730,7 @@ for instance, is clearly an amplifica- V. S. III, 1, 17 again gives an fallacy, 
 
 strange to say, is nowhere explained throughout Kanada's work. The word is, however, used by Gotama as a defini- tion of wearer, and it is possible that the author of the Vaiseshika sútras borrowed it from him, and wrongly used it as the name of the fallacy. These sutras, therefore, if 
 
-3 
+[[3]]
 
 Fât. on G. S. 1, 1, 4. 
 
@@ -766,19 +766,19 @@ two appellations are, of course, paraphrases of Kanada, which literally means an
 
 Z 
 
-66 
+[[66]]
 
 The 
 
 name is said to be derived from his having lived upon pick- ed-up grain-seeds while practising austerities; more probably it is a derisive appellation invented by antagonists for his atomic theory. The system is also called Aulúkya Darsana, and a pretty old tradition is told that God Mahadeva pleased by the austerities of the sage Kanada appeared to him in the guise of an owland revealed the system which the latter subsequently embodied in the Sútras." A Rishi named Ulúka is mentioned in the Mahabharata, but nothing can be said as to what connection he had with the Vaiseshika system. The name Aulûkya is, however, considerably old, being mentioned by Udyotakâra and Kumû- rila. The name Vaiseshika occurs even in the scholium of Prasastapûda, who also refers to the tradition about God Mahadeva just mentioned. Vayu-Purâna makes Aksha- púda, Kanada and Ulúka sons of Vyasa, but no reliance can be placed on such an authority. 
 
-5 
+[[5]]
 
-6 
+[[6]]
 
 It has been already shown that the present collection of Vaiseshika aphorisms is posterior to the 4th century B. C., and the references to it contained in Vatsyayani's commentary on Gotama's work prove that it must have existed before the 5th century A. 1. Vûtsyayana mentions it as समानतन्त्र, enumerates the six tegories' and actually quotes one aphorism of Kanada.s 
 
-7 
+[[7]]
 
 the 5th 
 
@@ -788,7 +788,7 @@ Sugiura on the authority of a Chinese work Ishiki Jutsuki says he was called ric
 
 ? Sure. D. S. Calc. ed. p. 110. 
 
-5 
+[[5]]
 
 Bhimacharya: Nyaya-Kosha, Intro, p 2. 
 
@@ -814,7 +814,7 @@ NHIỆT
 
 Introduction. 
 
-1 
+[[1]]
 
 XXXI 
 
@@ -822,7 +822,7 @@ This is the utmost that we can say with certainty about the age of Kanada's work
 
 + 
 
-5 
+[[5]]
 
 Happily we can obtain better results in the case of Gotama's work. That it is posterior to the rise of Buddhism is evident on its face, for Buddhistic doctrines are expressly mentioned therein. It is also, as has been already shown, later than the latter part of the fifth century B. C., the time of Bådarâyaņa's Brahma-Sutras which, while refuting Vaiseshika doctrines, make no mention of the cognate school of Naiyâyikas. Goldstücker says that both Kâtyûyana and Patanjali knew of the Nyaya Sútras. Now Patanjali is said to have written his great work about 140 B. C. ; but Katyayana's date is not so certain. According to a story, told in Kuthi-Sarit-Sâgara, Kâtyâyana was a pupil of Upacarsha and a minister of king Nanda who reigned about 350 B. C. 7 Goldstücker makes light of the authority of 
 
@@ -830,7 +830,7 @@ Happily we can obtain better results in the case of Gotama's work. That it is po
 
 2 Bhimâchârya: Nydya Kosha Intro. p. 2. * Paruma-Lughu-Mañjúshá. A verse said to be from Yogabijo calls Patanjali, a writer on three sciences, grammar, medicine, and Yoya. 
 
-6 
+[[6]]
 
 • G. S. III, 2, 11-13. 5 Goldstücker's Panini, p. 157. * Ibid p. 234. ↑ Katha-Sarit-Sayaru 1, 5; Max Miller: History of Ancient Suns- krit Literature, p. 240. 
 
@@ -842,7 +842,7 @@ Katha-Sarit-Sagara, but it is hard to believe that such a story could have got c
 
 $ 
 
-3 
+[[3]]
 
 There is another piece of evidence, which, though ap- parently conflicting with the above conclusion, really sup ports it. Âpastamba the author of the Dharma-Sútra, knew both the Pûrca and the Uttara Mîmânså systems, but not the Nyâya. 
 
@@ -914,9 +914,9 @@ XXXVII
 
 The work of Gotama differs in many respects from that of Kanada. While the former is methodical and details a system of logic practically complete, the latter discloses no consistent aim and no arrangements of parts. It has the- the appearance of a loose bundle of critical notes on the principal philosophical topics of the day. This fact raises a doubt as to whether Kanâda's aphorisms were ever the real basis of the Vaiseshika system as we find it now. The oldest exponent of the complete system as described in all modern Vaiseshika works is Prasastapada, and he may for aught we know, be its real founder also. The supposition is not so improbable as it might appear at first sight. Almost all the peculiar doctrines that distinguished the later Vaiseshikas from the Naiyâyikas and other schools are to be found in Prasastapada's work and are conspicuously absent in Kanada's Sutras. The doctrines about fee, græstata, fäumsfâum, and several others, which are regarded as pecu- liarities of the Faiseshika system, are not even touched upon in Kanada's aphorisms, although they are pretty fairly discussed in Prasastapâda's Bhashya. The seven categories on which the whole Vaiseshika system is based are probably an afterthought; and even the doctrine of fast which ac- cording to some gave the name to the system appears to be a later development. Kanada restricts the word f ( cate- gories properly so called) to three things only, geu gu and #; Prasastapâda enlarges the number to six, and some later author added अभाव. अ 
 
-3 
+[[3]]
 
-2 
+[[2]]
 
 It is true that the aphorism धर्मविशेषप्रसूताद् द्रव्यगुणकर्मसा- मान्यविशेषसमवायानां पदार्थानां साधर्म्यवैधम्यभ्यिां तत्त्वज्ञानान्निःश्रेयस- fr enumerates the six categories; but this aphor- ism is most probably a later interpolation. It is in- ordinately long, unlike other aphorisms of Kanada, and number of distinct propositions that would 
 
@@ -936,7 +936,7 @@ Tarka-Sangrahu.
 
 have sufficed for half a dozen Satras. Besides it is very awkwardly worded if not positively ungrammatical. A com- parison of this aphorism with the opening passage of Prasastapâda's scholium leaves hardly any doubt about its spuriousness. Prasastapada's passage runs thus द्रव्यगुणकर्मसामान्यविशेषसमवायानां पण्णां पदार्थानां साधर्म्यवैधर्म्यतत्त्वज्ञानं निःश्रेयसहेतुः । तच्चेश्वरम्बोदनमित्युक्ताद्धमदेव ॥ 
 
-1 
+[[1]]
 
 Now one of these two passages must be an adaptation of the other. According to Kiranavali, this passage of Prasasta- púda explains only the first three sûtras of Kanada, which implies that the fourth Sútra quoted above was unknown to the scholiast. Hence if Kirandvali is to be believed, the aphorism must be the later of the two. Śridhara, the author of Nyaya-Kandali, speaks to the same effect. In introducing the last sentence he says that it was added to remove any apparent inconsistency between the preceding sentence and Kanāda's second aphorism यतोऽभ्युदयनिःश्रेयससिद्धिः स धर्मः । The inconsistency is that while according to the scholiast knowledge of categories is the means of frer, Kanada speaks of it as resulting from ; and this inconsistency is removed by the scholiast by adding that the knowledge of categories itself springs from fas revealed in divine com- mandments. So according to Sridhara this last clunse is an addition of the scholiast intended to remove the apparent inconsistency, and yet it is summed up in the opening words of the fourth Satre, धर्मा विशेषप्रसूतात्. Either these words or the whole aphorism must therefore have been suggested by Prasastapada's passage. If the aphorism, as it stands now, had existed before, there would have been no giàu, and therefore no necessity for Prasastapada's additional clause apartisandamgaftr. We must, therefore, suppose that the aphorism was added by some later writer in order to supply what appeared to him an oversight of Kanada. Besides, the fact that there should have been even the suspicion of a contradiction between the enumeration of six categories and Kanada's second sûtra proves that the six 
 
@@ -984,7 +984,7 @@ XLI
 
 The age of commentaries proper begins with Vatsyúyana, otherwise known as Pakshila-Srâmin, whose commentary on Gotama's work is the oldest known work of the kind we now possess.' Vátsyagana must have lived about the end of 5th century A. D. or he preceded the well-known Bud- dhist teacher Diandja who is said to have lived in the early part of the 6th century. Diandya was succeeded by the celebrated anthor of Udyota who is mentioned by Subandhu writing in the 7th century. Udyotakára is said to have written his work to dispel the errors of Diñnâga aud others, and Vâchaspati in his Tika adds that his principal object was to defend Vâtsyâyana against the at- tacks of Dinnaga.* 
 
-3 
+[[3]]
 
 According to the Jain Śloka-Vârtika, Udyotakûra was in his turn answered by Dharmakirti. Now Dharmakirti is kuown to have lived in the first half of the 7th century 
 
@@ -1056,9 +1056,9 @@ Tarka-Sangraha:
 
 takes great pains to refute the opinions of Kumárila and Sureścara alias Mandana on the one hand as well as Dharmot- taru on the other, a fact which seems to show that Sridhara was the first eminent Vydga writer after them. Rajasekhara, a Jain commentator ou Nyaya-Kandali mentions three other commentaries on Prusastapáda's Bhashya, besides Śridhara's work, viz., the Vyomavati of Śiváchárya the Kiranavali of Udayana and the Lilavati of Sri Vatsa or Vallabha, all of which were written after Sridhara's work but before the end of the 13th century. The chronological order of these writers may be fixed as Sridhara, Vallabha, Udayana, and Sicâditya." All of them came to be looked upon as eminent authorities and honoured with the title of Acharya. Each of them was distinguished for some new conception, or original treatment of old topics. The works of Vallabha and Śivâditya are not yet available so as to enable us to form any definite opinion about them, but their views are frequently quoted and criticized in later works. Udayana's Kiraņúcali was probably left unfinished by the author, as all the Mss. hitherto available contain only the chapters on ger and gor. Sridhara lived as stated above at the end of the tenth century. He was followed by Váchas- pati Misra in the 11th century, who wrote commentaries on all the principal philosophical systems, and whose works have been deservedly held in the highest estimation by the succeeding generations. Vâchaspati, the author of Bhâmatt and Śûnkhya-Tattva-Kaumudi, wrote an equally able com- mentary on the Vårtikas of Udyotakára, called Vârtika-Tât- parya-Tika and this Tthe of Vachaspati became the text of another commentary, Tâtparya-Pariśuddhi by Udayana.* 
 
-3 
+[[3]]
 
-2 
+[[2]]
 
 1 P. D. Den. ed. Intro. p. 19. 
 
@@ -1082,7 +1082,7 @@ Udayanacharya, the author of Kiranavali and Parisuddhi lived, therefore, some ti
 
 This irreverent apostrophe was probably founded on the fact that Udayana wrote two well-known treatises to prove the existence of God and to refute the atheistical objections of the Bauddhas and other heretics. These treatises respectively known as Kusumanjali and Bauddha-dhikkara, though small, prove Udayana to be a very acute and powerful writer. Udayana is said to have carried on a vigorous crusade against the Bauddhas and the Jainas; and if Monier Williams is right in assigning the complete decay of Buddhism in India to the beginning of the thirteenth century, Udayana must have taken a leading part in giving the death-blow. At any rate the great prominence given in all the later works to ईश्वरकारणवाद or the doctrine of a personal Creator of the Universe may be ascribed to Udayana's influence. It is 
 
-3 
+[[3]]
 
 1 Cowell's Preface to his translation of Kusumanjali, p. x ; J. B. B. R. A. S. Vol. XVIII. p. 89-90. Dr. S. C. Vidyabhushana places him about 984 A.D. on the authority of a verse in his Lakshanâcali. Vide Bhandarkar Memorial Volume p. 165. 
 
@@ -1108,7 +1108,7 @@ XLIX
 
 and some other writers.;' but nothing further can be said about it until the work is available to the public. It is superfluous perhaps to remark that this Vallabha, the author of Nyaya-Lilavati was quite a different personnige from the great Vaishnavaite reformer of that name who dourished. in the 15th century. 
 
-2 
+[[2]]
 
 A host of smaller writers such as Varadaraja and Malli- nátha may be mentioned as belonging to this second period, but they do not seem to have left any lasting mark on subsequent literature. The period may be roughly said to hare closed about the beginning of the 14th century. It is marked by a great activity in the beginning and at the end, with an intervening blank which lasted for about 3 centuries and which sharply divides the older from the later school of writers. The condict of opinions between the Vaiseshikas and the Naiyâyikas as well as the differences between the ancient and the modern schools of Naiyayikas, which are so frequently discussed in modern works, seem to have origina- ted in this period; and it was perhaps the growth of these minute differences that created at the end of 
 
@@ -1224,11 +1224,11 @@ i
 
 becomes philosophy. 
 
-17 
+[[17]]
 
 And again the same writer remarks:- 
 
-66 
+[[66]]
 
 Any criticism of a general conception of logic or special application thereof which does not rest upon criticism 
 
@@ -1324,7 +1324,7 @@ LXV
 
 mentions the following works as having been composed by Annambhaṭṭa:- 1 Mitakshara, Tattca-Bodhini-Tika, 3 Nyaya-Parisishta-Prakasa and 4 Subodhini-Sudhására, otherwise called Râņakojjivini. Of these the first is a short commentary on Bâdarâyana's Brahma-Sûtras and is un- doubtedly written by the author of the Tarka-Sangraha, since it has the same colophont as is found in our Ms. of the Dipika marked J. As to the other three nothing can be said with certainty as I have not been able to procure any copy of them. The second appears to be a commentary on some work named Tattva-Bodhini, nnd Aufrecht marks it as a Nyaya work, apparently on the authority of Oppert.‡ Aufrecht does not however mention any Nyaya work of the name Tattva-Bodhini, and possibly both he and Oppert were misled. We know only three works bearing the name Tattva-Bodhini, namely, a commentary on Sankshepa-Śári- raka by Nrisimha, a Tantric work by Krishnananda, and thirdly a commentary on Bhattoji's Siddhânta-Kaumudi. So Annambhatta's Tika may be a commentary on either the first or the last. Or it is also possible that a Ms. of Annam- bhaṭṭa's Vivaranodyotana, presently to be mentioned, has been mistaken by Oppert for an independent work of this name. The third work Nydya-Pariśishta-Prakáśa is said to be a commentary on Udayanâchârya's Nyâya-Parisishta and may possibly be Annambhatta's Magnum Opus on the Nyaya system. The fourth is said to be a commentary on Ranaka or Nyaya-Sudha of Somesvara which in its turn is a commentary on the Tantra-Vártika of Kumarila. Besides these, Aufrecht and Hall mention two other works on grammar called Kâtyûyana-Prâtiśâkhya-Vyâkhyâna and Mahû-Bhâshya-Vivaranodyotana written by an author named Annambhatta. The author of the first of these was a pupil 
 
-1 
+[[1]]
 
 * Aufrecht; Catalogus Catalogoruin. 
 
@@ -1510,7 +1510,7 @@ but all other copies omit नि विन; P has असमाप्ति. ' 3 
 
 काउंबर्याद and किरणावल्यादौ rebaining the remaining Cent- ence as above, N reads differ- eutly मङ्गलाभावेऽपि किरणावल्या- दौ समाप्तिदर्शनाद मङ्गलसस्त्रेऽवि arraat समाप्तयदर्शनात्, and gives the other . I. in a footnote. See Note loe, ' cit, 
 
-२ 
+[[२]]
 
 तर्कसंग्रहः 
 
@@ -1572,13 +1572,13 @@ stitute तदर्थत्वात् lorइत्युक्तत्व�
 
 तर्कसंग्रहः 
 
-1 
+[[1]]
 
 [ SECT. 3. 
 
 दुष्णस्पर्शाभावाच्च । नापि जले, शीतस्पर्शाभावान्नीलरूपाश्रयत्वाच्च । नापि पृथिव्यां गन्धवत्त्वाभावात्स्पर्शरहितत्वाच्च । तस्मात्तमो दशमद्रव्यमिति चेन्न । तमसस्तेजोऽभावरूपत्वात् । तथाहि - तमो हि न रूपेवद्रव्यमालो- कासहकृतचक्षुर्ग्राह्यत्वादालोकाभाववत् । रूपिद्रव्यचाक्षुषप्रमायामालो- कस्य कारणत्वात् । तस्मात्प्रौढप्रकाशकतेजःसामान्याभावस्तमः । तत्र नीलं तमश्वलतीति प्रत्ययो भ्रमः । अतो नव द्रव्याणीति सिद्धम् ॥ 
 
-1 
+[[1]]
 
 द्रव्यत्वजातिमत्त्वं गुणवत्त्वं वा द्रव्यसामान्यलक्षणम् ॥ लक्ष्यैकदे- शावृत्तित्वमव्याप्तिः, यथा गोः कपिलत्वम् । अलक्ष्यवृत्तित्वमतिव्याप्तिः, यथा गांः शृङ्गित्वम् । लक्ष्यमात्रावर्तनमसंभवः यथा गोरेकशफत्वम् । एतदूषणत्रयरहितो धर्मो लक्षणम् । स एवासाधारणधर्म इत्युच्यते । लक्ष्यतावच्छेदकसमनियतत्वमसाधारणत्वम् । व्यावर्तकस्यैव लक्षणत्वे व्यावृत्तावभिधेयत्वादौ चातिव्याप्तिवारणाय तद्भिन्नत्वं धर्मविशेषणं देयम् । व्यवहारस्यापि लक्षणप्रयोजनत्वे तु न देयम्, व्यावृत्तेरपि व्यवहारसा - धनत्वात् ॥ ननु गुणवत्त्वं न द्रव्यसामान्यलक्षणम् । आद्यक्षणे उत्पन्न- विनष्टद्रव्ये चाव्याप्तेरिति चेन्न । गुणसमानाधिकरणसत्ताभिन्न जातिमत्त्वस्य विवक्षितत्वात् ॥ नन्वेवमप्येकं रूपं रसात्पृथगिति व्यवहाराद्रूपादावति- व्याप्तिरिति चेन्न । एकार्थसमवायादेव तादृशव्यवहारोपपत्तौ गुणे गुणा- नङ्गीकरणात् ॥ 
 
@@ -1722,7 +1722,7 @@ SECT. 13. 1 तर्कपिकया न्यायबोधिन्या 
 
 इदानीं कार्यरूपपृथिव्यादिचतुष्टयस्योत्पत्तिविनाशक्रमः कथ्यते । ईश्वरस्य चिकीर्षाव्शात्परमाणुषु क्रिया जायते । ततः परमाणु- यसंयोगे सांते द्व्यणुकमुत्पद्यते । त्रिभिर्द्यणुकैख्यणुकम् । एवं चतुरणुका- दिक्रमेण महती पृथिवी महत्य आपो महत्तेजो महान्वायुरुत्पद्यते । एवमुत्पन्नस्य कार्यद्रव्यस्य संजिहीर्षावशात्परमाणुषु क्रिया । क्रियया 
 
-१० 
+[[१०]]
 
 तर्कसंग्रहः 
 
@@ -1730,7 +1730,7 @@ SECT. 13. 1 तर्कपिकया न्यायबोधिन्या 
 
 परमाशुद्रयविभागे सति यणुकनाशः । ततस्त्रयणुकनाशः । ततश्चतुर- णुकस्येत्येवं महापृथिव्यादिनाशः ॥ असमवायिकारणनाशाद्व्यणुकनाशः, समवायिकारणनाशात्त्र्यणुकनाश इति संप्रदायः । सर्वत्रासमवायिकार- णनाशाद्द्रव्यनाश इति नवीनाः ॥ 
 
-1 
+[[1]]
 
 किं पुनः परमाणुसद्भावे प्रमाणम् । उच्यते । जालसूर्यमरीचिस्थं सूक्ष्मतमं यद्रज उपलभ्यते तत्सावयवम्, चाक्षुषद्रव्यत्वात्पटवत् । त्र्यणु- कावयवोऽपि सावयवो महदारम्भकत्वात्तन्तुवत् । यो द्व्यणुकावयवः स परमाणुः । स च नित्यः । तस्यापि कार्यत्वे ऽनवस्थाप्रसङ्गात् । सृष्टिप्रलय- सद्भावे " धाता यथा पूर्वमकल्पयत्" इत्यादि श्रुतिः प्रमाणम् । सर्व- कार्यद्रव्यध्वंसोऽवान्तरप्रलयः । सर्वभावकार्यध्वंसो महाप्रलय इति विवेकः॥ 
 
@@ -1758,7 +1758,7 @@ part of the sentence in the form of a पूर्वपक्ष as ननु �
 
 अतीतादिव्यवहारहेतुः कालः । स चैको विभुर्नित्यश्च ॥ 
 
-1 
+[[1]]
 
 त. दी. - कालं लक्षयति---अतीतेति । सर्वाधारः कालः सर्व- कार्यनिमित्तकारणं च ॥ 
 
@@ -1802,13 +1802,13 @@ but the words appear to be interpolated and are inconsis- tent with the Vedic te
 
 SECT, 18. ] तर्कदीपिकया न्यायबोधिन्या च सहितः 
 
-१३ 
+[[१३]]
 
 यः सर्वज्ञः 
 
 उपादानगोचरापरोक्षज्ञानचिकीर्षाकृतिमत्त्वं कर्तृत्वम् । उपादानं समवा- यिकारणम् । सकलपरमाण्वादिसूक्ष्मदर्शित्वात्सर्वज्ञत्वम् । स सर्वविद्" इत्याद्यागमोऽपि तत्र प्रमाणम् ॥ 
 
-1 
+[[1]]
 
 जीवस्य लक्षणमाह--- जीव इति । सुखाद्याश्रयत्वं जीवलक्षणम् । ननु " मनुष्योऽहं ब्राह्मणोऽहम् " इत्यादौ सर्वत्राप्रत्यये शरीरस्यैव विषयत्वाच्छरीरमेवात्मेति चेन्न । शरीरस्यात्मत्वे करपादादिनाशे सति शरीरनाशादात्मनोऽपि नाशप्रसङ्गात्। नापीन्द्रियाणामात्मत्वम् । तथात्वे " योऽहं घटमद्राक्षं सोऽहमिदानीं त्वचा स्पृशामि " इत्यनुसंधाना - भावप्रसङ्गादन्यानुभूतेऽन्यस्यानुसंधानायोगात् । तस्माद्देहेन्द्रियव्यतिरिक्तो जीवः । सुखदुःखादिवैचित्र्यात्मतिशरीरं भिन्नः । स च न परमाणुः शरीरव्यापि सुखाद्यनुपलब्धिप्रसङ्गात् । न मध्यमपरिमाणः । तथा सत्य - नित्यत्वप्रसङ्गेन कृतनाशाकृताभ्यागमप्रसङ्गात् । तस्मान्नित्यो विभुर्जीवः ॥ 
 
@@ -1854,7 +1854,7 @@ that of तेजस्; while, taken separately, they can give pro- per sense o
 
 SECT. 20. 1 तर्कदीपिकया न्यायबोधिन्या च सहितः 
 
-१५ 
+[[१५]]
 
 न्या. बो. -- रूपं लक्षयति-- चक्षुर्मात्रेति । चक्षुर्मात्रग्राह्यत्ववि - शिष्टगुणत्वं रूपस्य लक्षणम् । विशेष्यमात्रोपादाने रसादावतिव्याप्तिः । अतश्चक्षुर्मात्रग्राह्येति । तावन्मात्रोपादाने रूपत्वेऽतिव्याप्तिः । यो गुणो यदिन्द्रियग्राह्यस्तन्निष्ठा जातिस्तदभावस्तदिन्द्रियग्राह्य इति नियमात् । तद्वारणाय विशेष्योपादानम् । चक्षुर्मात्रग्राह्यत्वं नाम चक्षुर्भिन्नेन्द्रिया- ग्राह्यत्वे सति चक्षुर्ग्राह्यत्वम् । मात्रपदानुपादाने संख्यादिसामान्यगुणेऽ- तिव्याप्तिः संख्यादावपि चक्षुर्ग्राह्यत्वविशिष्टगुणत्वस्य सत्त्वात् । अत - स्तद्दारणाय मात्र पदम् । संख्यादेश्चक्षुर्भिन्नत्वगिन्द्रियग्राह्यत्वाच्चक्षुर्मा- ग्राह्यत्वं नास्ति । अतीन्द्रिये गुरुत्वादावतिव्याप्तिवारणाय चक्षुर्या- ह्येति । अत्र लक्षणे ग्राह्यत्वं नाम लौकिकप्रत्यक्षविषयत्वम् । अग्राह्यत्वं नाम तविषयत्वम् । तथा च चक्षुर्भिन्नेन्द्रियजन्यत्वाचसाक्षात्कारा- विषयत्वे सति चक्षुर्जन्यचाक्षुषप्रत्यक्षविषयत्वमिति फलितार्थः । ननु प्रभाभित्तिसंयोगे रूपलक्षणस्यातिव्याप्तिस्तस्य चक्षुमीत्रग्राह्यगुणत्वादिति चेन्न । गुणपदस्य विशेषगुणपरत्वात् । न चैवं विशेषगुणघटितलक्षणे संख्यादावतिव्याप्तयभावान्मात्र पदवैयर्थ्यमिति वाच्यम् । जलमात्रवृत्ति- सांसिद्धिकद्रवत्त्वेऽतिव्याप्तिवारणाय तदुपादानात् ॥ अथवा चक्षुर्मा- त्रग्राह्यजातिमद्गुणत्वस्य लक्षणत्वान्न प्रभाभित्तिसंयोगादावतिव्याप्तिः संयोगत्वजातेश्र्वक्षुर्मात्रग्राह्यत्वाभावापटसंयोगस्य त्वगिन्द्रियग्राह्यत्वा- चद्रतजातेरपि त्वगिन्द्रियग्राह्यत्वात् । अत्र जातिघटितलक्षणे गुण- स्वानुपादाने चक्षुर्मात्राद्यजातिमति सुवर्णादावतिव्याप्तिः । अतस्तद्वा- रणाय तदुपादानम् ॥ एवं रसादिलक्षणे विशेषणानुपादाने लक्ष्यभि नगुणादावतिव्याप्तिः । विशेष्यानुपादाने लक्ष्यमात्रवृत्तिरसत्वगन्धत्वादा- पतिव्याप्तिः । अतो विशेषणविशेप्ययोरुभयोरुपादानम् ॥ 
 
@@ -1862,7 +1862,7 @@ SECT. 20. 1 तर्कदीपिकया न्यायबोधिन्�
 
 रसनग्राद्यो गुणो रसः । स च मधुराम्ललवणकटुकषायतिक्त- भेदात्षड़िधः । पृथिवीजलवृत्तिः । पृथिव्यां षड़िधः । जले मधुर एव ॥ त. दी. - रसं लक्षयति- रसनेति । रसत्वेऽतिव्याप्तिपरिहाराय 
 
-१६ 
+[[१६]]
 
 तर्कसंग्रहः 
 
@@ -1882,7 +1882,7 @@ SECT. 20. 1 तर्कदीपिकया न्यायबोधिन्�
 
 त्वगिन्द्रियमात्रग्राह्यो गुणः स्पर्शः । स च त्रिविधः । शीतोष्णा- नुष्णशीतभेदात् पृथिव्यप्तेजोवायुवृत्तिः । तत्र शीतो जले । उष्णस्ते- जारी । अनुष्णाशीतः पृथिवीवाय्वोः ॥ 
 
-1 
+[[1]]
 
 त. दी. - स्पर्श लक्षयति-त्वगिति । स्पर्शत्वेऽतिव्याप्तिवारणाय गुणपदम् । संयोगादावतिव्याप्तिवारणाय मात्रपदम् ॥ 
 
@@ -1906,7 +1906,7 @@ SECT. 23. ] तर्कदौपिकया न्यायबोधिन्�
 
 न्या. बी. रूपादिचतुष्टयं पृथिव्यां पाकजमिति । एतत्तत्त्व- निर्णयश्चेत्थम् । पाको नाम विजातीयतेजः संयोगः । स च नानाजा- तीयः । रूपजनको विजातीयः संयोगस्तदपेक्षया रसजनको विजा- तीयः । एवं स्पर्शादावपि । एवंप्रकारेण भिन्नभिन्नजातीयाः पाकाः कार्यवैलक्षण्येन कल्पनीयाः । तथाहि तृणपुञ्जनिक्षिप्त आम्रादौ उप्मलक्षणविजातीयतेजःसंयोगात्पूर्वहरितरूपनाशे रूपान्तरस्य पीता - देरुत्पत्तिः पूर्वरसस्याम्लस्यैवानुभवात् । क्वचित्पूर्वहरितरूपसत्त्वेऽपि रसपरावृत्तिर्दृश्यते विजातीयतेजःसंयोगरूपपाकवशात्पूर्वतनाम्लरसनाशे मधुररसस्यानुभवात् । तस्मादुपजनकापेक्षया रसजनको विलक्षणः । एवं गन्धजनको विलक्षण एवाङ्गीकार्यो रूपरसयोरपरावृत्तावपि पूर्व- गन्धनाशे विजातीयतेजःसंयोगेन सुरभिगन्धोपलब्धेः । एवं स्पर्श - जनकोऽपि पाकवशात्कठिनस्पर्शनाशे मृदुस्पर्शानुभवात् । तस्माद्रूपादि- जनका विजातीया एव पाका यथाकार्यमुन्नेयाः । अतएव पार्थिवपरमा- णूनामेकजातीयत्वेऽपि पाकमहिम्ना विजातीयद्रव्यान्तरानुभवः । यथा गोमुक्ततृणादिनामापरमाण्वन्तं भं तृणारम्भकपरमाणुषु विजातीयतेजः- संयोगवशात्पूर्वरूपादिचतुष्टयनाशे तदनन्तरं दुग्धे यादृशं रूपादिकं वर्तते तादृशरूपरसगन्धस्पर्शजनका स्तेजः संयोगा जायन्ते । तदुत्तरं तादृशरूपरसादय उत्पद्यन्ते । तादृशरूपादिविशिष्टपरमाणुभिर्दुग्धद्यणुक- मारभ्यते । ततख्यणुकादिक्रमेण महादुग्धारम्भः ॥ एवं महादुग्धारम्भकैः 
 
-१८ 
+[[१८]]
 
 तर्कसंग्रहः 
 
@@ -2040,7 +2040,7 @@ G X read 'हेतुर्ज्ञानं बुद्धिः See
 
 Mota loc. cit, 
 
-२२ 
+[[२२]]
 
 तर्कसंग्रहः 
 
@@ -2072,9 +2072,9 @@ SECT. 35. ] तर्कदीपिकया न्यायबोधिन्�
 
 [ ३५ ] 
 
-2 
+[[2]]
 
-२३ 
+[[२३]]
 
 सद्विविधो यथार्थोऽयथार्थश्च । तद्वति तत्प्रकारकोऽनुभवो यथार्थः 'यथा रजत इदं रजतमिति ज्ञानम् । स एव प्रमेत्युच्यते । तदभाव- वति तत्प्रकारकोऽनुभवोऽयथार्थः । यथा शुक्ताविदं रजतमिति ज्ञानम् ॥ 
 
@@ -2176,7 +2176,7 @@ foe. cit.
 
 taken from & KQX, as being most probably the correct one. 480DF prefix अवन्यथा- सिद्ध 10 कार्यनिया' 3 adds the word in margin. E has w7- व्यथासिद्धत्वे सति नियत', while If readis कार्येऽन्यथासिद्धिशून्यत्वे साथ नियत'. See Note lon. cit 
 
-२६ 
+[[२६]]
 
 तर्कसंग्रहः 
 
@@ -2184,7 +2184,7 @@ SEC. 38,
 
 त. दी. - कारणलक्षणमाह — कार्येति । पूर्ववृत्ति कारणमित्युक्ते रासभादावतिव्याप्तिः स्यादतो नियतेति । तावन्मात्रे कृते कार्येऽतिव्याप्ति- रतः पूर्ववृत्तीति ॥ ननु तन्तुरूपमपि परं प्रति कारणं स्यादिति चेन्न । अनन्यथासिद्धत्वे सतीति विशेषणात् । अनन्यथासिद्धत्वमन्यथासिद्धिवि- रहः । अन्यथासिद्धिश्च त्रिविधा । "येन सहैव यस्य यं प्रति पूर्ववृत्तित्वम- वगम्यते तं प्रति तेन तदन्यथासिद्धम् यथा तन्तुना तन्तुरूपं तन्तुत्वं चपटं प्रति । अन्यं प्रति पूर्ववृत्तित्वे ज्ञात एव यस्य यं प्रति पूर्ववृत्तित्व- मवगम्यते तं प्रति तदन्यथासिद्धम् । यथा शब्दं प्रति पूर्ववृत्तित्वे ज्ञात एव घटं प्रत्याकाशस्य । अन्यत्र क्लृप्तनियतपूवर्वर्तिनैव कार्यसंभवे तत्सहभूतम- न्यथासिद्धम् । यथा पाकजस्थले गन्धं प्रति रूपमागभावस्य । एवं चान- न्यथासिद्धनियतपूर्ववृत्तित्वं कारणत्वम् ॥ 
 
-1 
+[[1]]
 
 न्या. बो. - कारणं लक्षयति--कार्यनियतेति । कार्यं प्रति निय- तत्वे सति पूर्ववृत्तित्वं कारणत्वम् । नियतत्वविशेषणानुपादाने पूर्ववर्तिनो रासभादेरपि घटादिकारणत्वं स्यादतो नियतेति विशेषणम्। नियतपूर्वव- तिनो दण्डरूपादेरपि घटकारणत्वं स्यादतोऽनन्यथासिद्धपदमपि कारण- लक्षणे निवेशनीयं दण्डरूपादीनामन्यथासिद्धत्वात् ॥ 
 
@@ -2270,7 +2270,7 @@ SECT. 42.] सर्कदीपिका व्यास वेधिन्य�
 
 नत्र प्रत्यक्षज्ञानकरणं प्रत्यक्ष ॥ इन्द्रियार्थसन्निकर्षजन्यं ज्ञानं प्रत्यक्षम् । वह्निपि निर्विक्रयकं विकके चेति । तत्र निष्ण- कारकं ज्ञानं निर्विकल्पकं पद कल्पकं यथा डित्थोऽयं ब्राह्मणी 
 
-1 
+[[1]]
 
 W read the passagu dulio» what differently, though the tense is the save; thus go. विगुणप 
 
@@ -2368,7 +2368,7 @@ ma warranted ard misleading 6 N here inserts नतु विशेषणषि-
 
 SECT. 43. ] तर्कदीपिकया न्यायबोधिन्या व सहितः 
 
-३३ 
+[[३३]]
 
 AAY, 
 
@@ -2394,7 +2394,7 @@ fer to इति संक्षेपः seems to be corrupt. The reading of W 
 
 [ ४४ ] 
 
-1 
+[[1]]
 
 अनुमितिकरणमनुमानम् । परामर्शजन्यं ज्ञानमनुमितिः । व्याप्तिविशिष्टपक्षधर्मताज्ञानं परामर्शः । यथा वह्निव्याप्य धूमवा- नयं पर्वत इति ज्ञानं परामर्शः । तज्जन्यं पर्वतो वह्निमानिति ज्ञान- मनुमितिः । यत्र यत्र धूमस्तत्राग्निरिति साहचर्यनियमो व्याप्तिः । व्याप्यस्य पर्वतादिवृत्तित्वं पक्षधर्मता ॥ 
 
@@ -2408,7 +2408,7 @@ omite अयम्-
 
 SECT. 44. ] तर्कदीपिकया न्यायबोधिन्या च सहितः 
 
-३५ 
+[[३५]]
 
 स परामर्श इत्यर्थः । परामर्शमभिनीय दर्शयति-यथेति । अनुमितिम- मिनयति तज्जन्यमिति । परामर्शजन्यमित्यर्थः ॥ व्याप्तेर्लक्षणमाह-यत्रे- ति । यत्र धूमस्तत्राग्निरिति व्याप्तेरभिनयः । साहचर्यनियम इति लक्षणम् । साहचर्यं सामानाधिकरण्यं, तस्य नियमः । हेतुसमानाधिकर णात्यन्ता- 
 
@@ -2420,13 +2420,13 @@ SECT. 44. ] तर्कदीपिकया न्यायबोधिन्�
 
 1 N here adds व्याप्यो नाम व्या- प्त्याश्रयः स च श्रमादिरेव तस्य पर्व- तादिनिरूपितवृत्तित्वं पक्षधर्मतेत्य- र्थः, but the wording of the sentence as well as its absence in any other copy prove its 
 
-1 
+[[1]]
 
 spuriousness. 
 
 50KRY omit the sentence अनुमिति- माचष्टे, and give the full detinition of परामर्श in- stead of the following प्रतीक. 
 
-३६ 
+[[३६]]
 
 तर्कसंग्रहः 
 
@@ -2448,7 +2448,7 @@ and W, but is not found in other copies,
 
 SBOT. 45. ] तर्कदीपिकया न्यायबोधिन्या व सहितः 
 
-३७ 
+[[३७]]
 
 घटत्वादिकमनवच्छेदकं वह्नित्वं वह्नौ वर्ततेऽतो धूमव्यापकत्वं वह्नौ व॑र्तते । इयमन्वयव्याप्तिः सिद्धान्तानुसारेण । पूर्वपक्षव्याप्तिस्तु प्रतियो - गिव्यधिकरण- साध्याभाववदवृत्तित्वम् । साध्यतावच्छेदकसंबन्धावच्छि- न - साध्यतावच्छेदकावच्छिन्नप्रतियोगिताक - प्रतियोगितावच्छेदकसंब- 
 
@@ -2510,7 +2510,7 @@ Sacr. 47. ] तर्कदीपिकया न्यायबोधिन्�
 
 । 
 
-३१ 
+[[३१]]
 
 त. दी. - अवयवस्वरूपमाह-प्रतिज्ञेति । उदाहृतवाक्ये प्रतिज्ञा- दिविभागमाहे - पर्वतो वह्निमानिति । साध्यवत्तया पक्षवचनं प्रतिज्ञा ॥' पञ्चम्यन्तं लिङ्गप्रतिपादकं वचनं हेतुः । व्याप्तिप्रतिपादकमुदाहरणम् । पक्षधर्मताज्ञानार्थमुपनयः । अबाधितत्वादिकं निगमनप्रयोजनम् ॥ 
 
@@ -2562,7 +2562,7 @@ ning with पक्षज्ञानं प्रतिज्ञाप्रय
 
 5 CG H read रेभ्यः F has इसर-SECT. 48. ] तर्कदीपिकमा न्यायबोधिन्या व सहितः 
 
-1 
+[[1]]
 
 ર 
 
@@ -2584,7 +2584,7 @@ after प्रतियोगिज्ञानाभावाद
 
 ximately correct and intel- ligible reading. I have sub- stituted भेद for साध्य and changed प्रत्येकाधिकरण into ° करणे, on the single anthority of N, because the emendations make the meaning clearer. J F and Q alone make नान्वाये- 'वासाधारण्ये part of the pre- vious sentence as it certainly ought to be. F and Qinsert साध्याभावव्यापकीभूताभावप्रति- योगित्वमिति before व्यारेक Bee Note for ot 
 
-४२ 
+[[४२]]
 
 तर्कसंग्रहः 
 
@@ -2604,7 +2604,7 @@ little differently.
 
 3 W reads तथाच तयोः एकजातीय- संबंधन सर्वत्र विद्यमानत्वाळा- व्यूतिः । 
 
-४३ 
+[[४३]]
 
 SECT. 50.] तर्कदीपिकया न्यायबोधिन्या व सहितः 
 
@@ -2646,7 +2646,7 @@ give a materially different reading.
 
 त. दी. एवं सद्धेतुं निरूप्यासद्धेतुं निरूपयितुं विभजते-- सव्य- भिचारेति । अनुमितिप्रतिबन्धकयथार्थज्ञानविषयत्वं हेत्वाभासत्वम् । न्या. बो. - एवं सद्धेतन्निरूप्य हेत्वाभासान्निरूपयति सव्यभि- चारेति । हेतुवदाभासन्त इति हेत्वाभासाः दुष्टहेतव इत्यर्थः । दोषाश्व व्यभिचारविरोधप्रतिपक्षासिद्धिबाधाः । तद्विशिष्टा दुष्टहेतव इत्यर्थः । हेतौ दोषज्ञाने सत्यनुमितिप्रतिबन्धो जायते व्याप्तिज्ञानाप्रतिबन्धो वा जायते । अतो वादिनिग्रहार्थं वादिनोद्भावितहेतौ दोषोद्भावनार्थं दुष्टहेतु- निरूपणमिति भावः ॥ 
 
-1 
+[[1]]
 
 [ ५३ ] 
 
@@ -2838,7 +2838,7 @@ passage.
 
 4 F and Q have वृद्धव्यवहारेण. 5 A and M read काइयां.SECT. 59.] तर्कदीपिकया न्यायबोधिन्या च सहितः 
 
-५१ 
+[[५१]]
 
 सिद्धेऽपि व्यवहारात्, विकसितपझे मधुकरे इत्यादौ प्रसिद्धपदसमभिव्यव- हारात्सिद्धेऽपि मधुकरादिपदे व्युत्पत्तिदर्शनाच्च ॥ लक्षणापि शब्दवृत्तिः । शक्यसंबंधो लक्षणा। गङ्गायां घोष इत्यत्र गङ्गापदवाच्यप्रवाहसंबन्धादेव तीरोपस्थितौ तीरेऽपि शक्तिर्न कल्प्यते । सैन्धवादौ लवणाश्वयोः परस्पर- संबन्धाभावान्नानाशक्तिकल्पनम् ॥ लक्षणा त्रिविधा। जहल्लक्षणाऽजहल्लक्ष- णा जहदजहल्लक्षणा चेति । यत्र वाच्यार्थस्यान्वयाभावस्तत्र जहती, यथा मञ्चाः क्रोशन्तीति । यत्र वाच्यार्थस्थान्वचस्तत्राजहती, यथा छत्रिणो ग- च्छन्तीति । यत्र वाच्यैकदेशत्यागेनैकदेशान्वयस्तत्र जहदजहती यथा तत्त्वमसीति । गौण्यपि लक्षणैव लक्ष्यमाणगुणसंबन्धरूपा । अग्निर्माणवक इति ॥ व्यञ्जनापि शक्तिलक्षणान्तर्भूता । अर्थशक्तिमूला चानुमानादिनान्य- थासिद्धा ॥ 
 
@@ -2858,7 +2858,7 @@ and मूलत्वात् for सूता and मूला respectively.
 
 तर्कसंग्रहः 
 
-1 
+[[1]]
 
 [ SECT. 59. 
 
@@ -2882,7 +2882,7 @@ SECT. 62. ] तर्कदीपिकया न्यायवोधिन्�
 
 क्ष 
 
-५३ 
+[[५३]]
 
 त. दी. - आकाङ्केति । आकाङ्कादिज्ञानमित्यर्थः । अन्यथाकाङ्क्षा- दिभ्रमाच्छाब्दभ्रमो न स्यात् । आकाङ्क्षां लक्षयति--पदस्येति ॥ योग्य- तालक्षणमाह - अर्थेति ॥ संनिधिलक्षणमाह--पदानामिति । अवि- लम्बेन पदार्थोपस्थितिः संनिधिः । उच्चारणं तु तदुपयोगितया युक्तम् ॥ 
 
@@ -2964,7 +2964,7 @@ SECT. 63. ] तर्कदीपिका न्यायबोधिन्य�
 
 Autá, as agter has already once been referred to, while it is doubtful whether परिशेष is recognized as an indepen- dent proof. 
 
-५६ 
+[[५६]]
 
 तर्कसंग्रहः 
 
@@ -3014,7 +3014,7 @@ join the two sentonces. K adds इति after चः
 
 4 It is impossible to ascertaiu the true reading of this and the next passage. A BCH JU and Q together with Se. and Vy agree in reading अनु- हलवेदनीय aud प्रतिकूलवेदनीयं respectively; while the other variants अनुकूलतया and प्रति कुलतया वेदनीयं are found in DEGK, as well as Vil I have adopted the latter as be- ing grammatically more cor- rect, and being supported by the high authority of Nil. 
 
-५८ 
+[[५८]]
 
 तर्कसंग्रहः 
 
@@ -3054,7 +3054,7 @@ SECT. 75. ] तर्कदीपिकया न्यायकोधिन्�
 
 [ ७२ ] 
 
-५९ 
+[[५९]]
 
 न्या. बो. — धर्माधर्मौ निरूपयति--विहितेति । वेदविहितेत्यर्थः । निषिद्धेति । वेदनिषिद्धेत्यर्थः ॥ 
 
@@ -3120,7 +3120,7 @@ sentence.
 
 before द्रव्यत्वादिः.SECT. 79.] तर्कदीपिकया न्यायबोधिन्या च सहितः 
 
-६१ 
+[[६१]]
 
 त. दी. - सामान्यं लक्षयति नित्यमिति । संयोगादावतिव्या- प्तिवारणाय नित्यमिति । परमाणुपरिमाणादावतिव्याप्तिवारणाय - अने- केति । अनुगतत्वं समवेतत्वं । तेन नाभावादावतिव्याप्तिः ॥ 
 
@@ -3154,7 +3154,7 @@ C and V end here. SEGHK add अनंता एव after विशेषाः X
 
 6 EG only insert ; but their reading has been adopted as making the sentence more grammatical, 
 
-६२ 
+[[६२]]
 
 तर्कसंग्रहः 
 
@@ -3176,7 +3176,7 @@ C and V end here. SEGHK add अनंता एव after विशेषाः X
 
 and K. R. omit the next. 
 
-६३ 
+[[६३]]
 
 SEcr. 80. ] तर्कदीपिकया न्यायबोधिन्या व सहितः संसर्गभेदादेकप्रतियोगिकयोरप्यत्यन्ताभावान्योन्याभावयोर्वहुत्वम् । के- वलदेवदत्ताभावो दण्ड्यभाव इति प्रतीत्या विशिष्टाभावः । एकसत्त्वे द्वौ न स्त इति प्रतीत्या द्वित्वावच्छिन्नोऽभावः । संयोगसंबन्धेन घटवति समवायसंबन्धेन घटाभावः । तत्तद्घटाभावाद्यत्वावच्छिन्नप्रतियोगिक- सामान्याभावश्वातिरिक्तः ॥ एवमन्योन्याभावोऽपि । घटत्वावच्छिन्नः पटो नास्तीति व्यधिकरणधर्मावच्छिन्नप्रतियोगिताकाभावो नाङ्गीक्रि- यते । पटे घटत्वं नास्तीति तस्यार्थः । अतिरिक्तत्वे स केवलान्वयी ।' 
 
@@ -3220,11 +3220,11 @@ E एव, after सर्वेषां; they also insert एव after उक�
 
 Ecr. 81. ] तर्कदीपिकया न्यायबोधिन्यां च सहितः 
 
-६५ 
+[[६५]]
 
 न्तरं, निरर्थकं, अविज्ञातार्थकं, अपार्थकं, अप्राप्तकालं, न्यूनं, अधिकं, पुनरुक्तं, अननुभाषणं, अज्ञानं, अप्रतिभाविक्षेपः, मतानुज्ञा, पर्यनुयोज्यो- पेक्षणं, निरनुयोज्यानुयोगः, अपसिद्धान्तः, हेत्वाभासश्व निग्रहस्था- नानि । शेषं सुगमम् ॥ 
 
-1 
+[[1]]
 
 ननु करतलानलसंयोगे सत्यपि प्रतिबन्धके सति दाहानुत्पत्तेः शक्तिः पदार्थान्तरमिति चेन्न । प्रतिबन्धका भावस्य कार्यमात्रे कारणत्वेन शक्ते- रनुपयोगात् कारणस्यैव शक्तिपदार्थत्वात् । ननु भस्मादिना कांस्यादौ शुद्धिदर्शनादावेयशक्तिरङ्गीकार्येति चेन्न । भस्मादिसंयोगसमानकाली- नास्पृश्यस्पर्शप्रतियोगिकयावदभाव सहितभस्मादिसंयोगध्वंसस्य शुद्धि- पदार्थत्वात् ॥ 
 
@@ -3242,13 +3242,13 @@ which is wrong; M has प्रति वृत्ति which is probably a mis
 
 adds कृतिसाध्येप्रवृत्ति- दर्शनात् after प्रवृत्त्यदर्शनात्, but 
 
-13 
+[[13]]
 
 it is superfluous. AP wrongly separate ज्ञान from 'साध्यता and join it to प्रवर्तकम्, which makes no sense. 
 
 4 OLMNQY Z put this be fore नित्यनैमित्तिक, A and have ज्ञानजन्यत्वस्य; J is doubtful. 
 
-६६ 
+[[६६]]
 
 तर्कसंग्रहः 
 
@@ -3256,7 +3256,7 @@ it is superfluous. AP wrongly separate ज्ञान from 'साध्यत�
 
 प्रतीयते । यागस्याशुविनाशिनः कालान्तरभाविस्वर्गसाधनत्वायोगात्त- द्योग्यं स्थायिकार्यमपूर्वमेव लिङाद्यर्थः ॥ कार्य कृतिसाध्यं । कृतेः सविषयत्वात् । विषयाकाङ्क्षायां यागो विषयत्वेनान्वेति । कस्य कार्यं - मिति नियोज्याकाङ्क्षायां स्वर्गकामपदं नियोज्यपरतयान्वेति । कार्य- बोद्धा नियोज्यः । तेन ' ज्योतिष्टोमनामकयागविषयकं स्वर्गकामस्य कार्य मिति वाक्यार्थः संपद्यते । वैदिकलित्वात् " यावज्जीवमग्निहोत्रं जुहुयात् ” इति नित्यवाक्येऽप्यपूर्वमेव वाच्यं कल्प्यते ।" आरोग्य- कामो भैषजपानं कुर्यात् " इत्यादौ लौकिकलिङः क्रियाकार्ये लक्षणेति चेन्न । यागस्याप्ययोग्यतानिश्वयाभावेन साधनतया प्रतीत्यनन्तरं तन्निर्वा- हार्थमवान्तरव्यापारतया अपूर्वकल्पनात् । कीर्तनादिनाऽनाशश्रुतेर्न यागध्वंसो व्यापारः । लोकव्युत्पत्तिबलात्क्रियायामेव कृतिसाध्येष्टसाध धनत्वं लिङा बोध्यत इति लिङ्त्वेन रूपेण विध्यर्थत्वम् । आख्यातत्वेन प्रयत्नार्थकत्वम् । पचति पार्क करोतीति विवरणदर्शनात् किं करोतीति प्रश्ने पचतीत्युत्तराञ्चाख्यातस्य प्रयत्नार्थकत्वनिश्चयात् । रथो गच्छती- त्यादावनुकूलव्यापारे लक्षणा " देवदत्तः पचति तण्डुलान्देवदत्तेन पच्यते तण्डुलः" इत्यत्र कर्तृकर्मणोर्नाख्यातार्थत्वम् किंतु तद्गतैकत्वादीनामेव । तयोराक्षेपादेव लाभः । प्रजयतीत्यादौ धातोरेव प्रकर्षे शक्तिः । उप- सर्गाणां द्योतकत्वमेव । न तत्र शक्तिरस्ति ॥ 
 
-1 
+[[1]]
 
 पदार्थज्ञानस्य परमं प्रयोजनं मोक्षः । तथाहि । "आत्मावारे द्रष्टव्यः श्रोतव्यो मन्तव्यो निदिध्यासितव्यः” इति श्रुत्या श्रवणादीनामात्म- साक्षात्कारहेतुत्वबोधनात् । श्रुत्या देहादिविलक्षणात्मज्ञाने सत्यप्यसं- भावनाऽनिवृत्तेर्युक्त्यनुसन्धानरूपमननसाध्यत्वात् मननोपयोगिपदार्थ- 
 
@@ -3320,7 +3320,7 @@ a
 
 * Jaim. S. I. 33. 
 
-70 
+[[70]]
 
 Tarka-Sangraha. 
 
@@ -3340,7 +3340,7 @@ The jour Anuban- dlure.
 
 . 
 
-9 
+[[9]]
 
 3. The second line of the stanza indicates, as is usually done, what are called the four Anubandhos. or necessary elements of a literary work. These are:-1 fave (subject matter) 2 grea (connection) and 4 fraft (person for whom the book is written). The nerf in this case is a are, i. e. not an infant (स्तनंधय ), but one who is ग्रहणधारणपटु able to understand and retain the lessons given by his tutor. Two things are necessary for the acquisition of know- ledge, a supple understanding (g), and a retentive memory (r); and only he who possesses these two qualities is fit to learn this S'astra. S. C. would have the बाल to be one who is अधीतव्याकरणकाव्यकोशोऽनधीतन्याय-SEOT. 1.] 
 
@@ -3370,7 +3370,7 @@ Notes.
 
 SECT. II. qraf: 
 
-43 
+[[43]]
 
 Co- 
 
@@ -3386,7 +3386,7 @@ Aristotle's
 
 In this respect, the classification of the Fais'eshikas is superior to that of Aristotle. The latter enumerated ten categories, 1 Sub- stance, 2 Quantity, 3 Quality, 4 Relation, 5 Place, 6 Time, 7 Posture, 8 Appertenance or Property, 9 Activity and 10 Passivity. Of these the last nine only can be properly said to be predicable of something else i. e. substance, but sub- 
 
-10 
+[[10]]
 
 $4 
 
@@ -3406,7 +3406,7 @@ Padarthas.
 
 Notes. 
 
-75 
+[[75]]
 
 3. The various classifications of Padârthas, given by Indian systematists can be likewise reduced to the seven Padârthas and vice versa, if one clearly understands before- hand the particular stand point of ench. Nyâyn writings do not explain the process by which the seven-fold division of Padarthas was first obtained, but if we may make a guess, the process must have been something like this. A notion is either positive or negative, and so the external object of a notion might be भाव or अभाव. w things again are of two kinds, properties and a common substratum in which they reside. The latter is ge. Of the properties again, some reside in many objects conjointly, others in individual things singly. The first is area, while the latter class is again divisible into properties that are stationary and those that are evanescent i. e. gror and af. The remaining two Padar- this समवाय and विशेष are assumed to explain the special theories of Vais'eshikas. Other Indian philosophical schools also have their own classification of things, suited to their particular doctrine or theory. Every system of science or philosophy in ancient times thought it necessary to begin by arranging the Universe into a few elementary classes. Thus Gotama enumerates sixteen Padârthas, necessary for the functions of logic, the Vedantins have two, Chit and Achit; the Ramanujas, one more, İs'vara; the Sankh- yus, twenty-five; the Mimâmsakas eight; and so on. All schools do not use the word qr exactly in the same sense. It is used even more loosely than the word category in Europe, and often-times implies nothing more than topics to be treated in a book. 
 
@@ -3416,7 +3416,7 @@ Why seven.
 
 The Tarka-Dipika says that the word we is used to exclude a larger number. T. D. and other commentaries here give a curious dis- quisition as to whether an eighth Padár- tha can be logically proved. An eighth Padartha is either known or unknown. If it is known, it exists and the res- triction to seven is wrong; if however it is unknown it cannot be negatived, because there can be no negation of an unknown quantity. This dilemma is cleared by defining 
 
-76 
+[[76]]
 
 Tarka-Sangrahu. 
 
@@ -3460,7 +3460,7 @@ tion to qualify . This amplification however makes the latter definition almost 
 
 A definition which is not to be merely verbal must be an exhaustive enumeration of all essential attributes; but a substance er hypothese is something 
 
-78 
+[[78]]
 
 Tarka-Sangraha. 
 
@@ -3482,7 +3482,7 @@ SEOT. III. ]
 
 Notes. 
 
-79 
+[[79]]
 
 every such substance requires light for being perceived with the eyes, while darkness is perceived only when there is no light. Darkness is therefore defined as प्रौढप्रकाश तेजः सामान्या- : i. e. absence of large and illuminating light in general. The S. C. explains the propriety of each word in the defini- tion thus: The word implies that darkness is total absence of any light whatever, and not the absence of a particular light such as that of the sun or the moon or a lamp. The word is necessary because otherwise there will be no darkness wherever there is gold which is classed by Naiyayikas under Tejus. Finally fre excludes the possibility of darkness being negatived even by minute particles of light. How is then the perception of blue colour and motion in darkness to be accounted for? T. D. declares it to be a mis-apprehension. Besides the above two views with respect to the nature of darkness, Madhavâchâryz the author of Sarvadarsana-Sangraha* mentions two more, namely those of Sridhara, the reputed author of Nyâya- Kandali and of a section of Prabhakara school of Mimâṁsa- kas. The first mentions that darkness is nothing more than the blue colour imposed on something else, thus making darkness a quality only; while the latter call it absence of knowledge of light, and not that of light itself. A fifth doctrine would say that instead of regarding darkness as the absence of light we should deem it a drarya and regard light itself as the absence of darkness. But these views are not warranted by experience, and the one propounded above as to darkness being the absence of light is the most satis- factory. The controversy however well illustrates the apti- tude of Indian mind for hair-splitting. 
 
@@ -3492,7 +3492,7 @@ A definition.
 
 * Sarv. D. S. Calc, ed, p. 108. 
 
-80 
+[[80]]
 
 Tarka-Sangraha. 
 
@@ -3508,7 +3508,7 @@ Its three defects.
 
 Notes. 
 
-81 
+[[81]]
 
 4. The three faults mentioned in the definition of gr 
 
@@ -3524,7 +3524,7 @@ Qualities.
 
 rality, conjunction or contact, disjunction, priority or propinquity,posteriority or remote- ness, weight, fluidity, viscidity, sound,intellect or understanding, pleasure, pain, desire, aversion, effort or volition, merit, demerit and faculty." 
 
-11 
+[[11]]
 
 $2 
 
@@ -3556,7 +3556,7 @@ SECT. IV.
 
 Notes. 
 
-83 
+[[83]]
 
 the motions of the earth and the planets are gunas because they are permanent and belong as it wore to their very nature; Similarly heat which is Guga is produced by mo- tion of molecules, while ger or weight produces the action of falling. This distinction is succinctly put in one of the definitious of Guna given above, zuure-Rea¿ía-allÃ¤n, and will be made still more clear by the following extract 
 
@@ -3580,7 +3580,7 @@ It is doubtful whether the Naiyayikas of India had ob- tained a correct notion o
 
 1 V. S. I 1, 6. 
 
-84 
+[[84]]
 
 Tarka-Sangraha. 
 
@@ -3616,7 +3616,7 @@ ness.
 
 Notes. 
 
-85 
+[[85]]
 
 5. The explanations are no doubt ingenious but there appears to be a good deal of confusion of ideas. In saying that agra (lightness) is the opposite of 5, Annambhaṭṭa seems word g, viz., 'heavi- 
 
@@ -3640,7 +3640,7 @@ I. First, the twenty-four gunas are distributed among the nine substances in the
 
 स्पर्शादriset वेगाख्यसंस्कारो मरुतो गुणाः । अष्टौ स्पर्शादियों रूपं द्रवो वेगश्र्व तेजसि ॥ स्पर्शादयोऽष्टौ वेगश्र्व गुरुत्वं च द्रवत्वकम् । रूपं रसस्तथा स्नेहो वारिण्येते चतुर्दश ॥ स्नेहहीना गन्धयुताः क्षितावेते चतुर्दश । बुद्ध्यादिषकं संख्यादिपञ्चकं भावना तथा ॥ qafuat yon gà amaa: eyagear i संख्यादिपञ्चकं कालदिशोः शब्दश्व ते व खे ॥ 
 
-86 
+[[86]]
 
 Tarka-Sangraha. 
 
@@ -3684,7 +3684,7 @@ SECT. V.
 
 Notes, 
 
-87 
+[[87]]
 
 संख्यादिरपरत्वान्तो द्रव सांसिद्धिकस्तथा । 
 
@@ -3714,7 +3714,7 @@ B. P. 89-91.
 
 V. S. 1, 1, 7. 
 
-88 
+[[88]]
 
 Tarka-Sangraha. 
 
@@ -3736,7 +3736,7 @@ Other definitions.
 
 Notes. 
 
-89 
+[[89]]
 
 asked, vayur and the other three also be similarly inclu- ded under it? Nilakantha justifies this arbitrary division on the quaint but easily comprehensible ground that it would be sacrilegious on our part to question what is laid down by a free-willed sage like Kanada (नवोत्क्षेपणादीनां गमनेऽन्त भीवोऽस्त्विति शंकtter । स्वतंत्रेच्छस्य नियोगपर्यनुयोगानर्हस्य ऋषेः संमतत्वादिति भावः) A closer inspection, however, might reveal some sort of principle even in this arbitrary division. Motion is prim- arily divided into three kinds according to its direction, namely, vertical, horizontal and slanting or miscellaneous. The vertical motion may be from below upwards (r), or from above downwards (err). Horizontal motion also may be twofold, motion nearer to oneself (g) or motion further from oneself (err). All other motions 
 
@@ -3750,9 +3750,9 @@ Generality.
 
 1. In Section LXXVII Annambhaṭṭa defines ATATED AS नित्यमेकमनेकानुगतम्, and adds that this सा- a resides in Dravya, Guna and Karma. There are three characteristics of generality: that 1 it is eternal, 2 it is one, and 3 it resides in many. Conjunction and some other qualities such as farfatuur reside in many, but they are not eternal, and therefore the word far in the definition of er excludes them. The dimension of an atom is both eternal (for atom is eternal) and resides in many; but it is not one residing in many ( एकमनेकानुगत ) and hence the word एकर. अत्यन्ताभाव however 
 
-12 
+[[12]]
 
-90 
+[[90]]
 
 Tarka-Sangraha 
 
@@ -3772,7 +3772,7 @@ AsSHOT. VI. ]
 
 Notes. 
 
-91 
+[[91]]
 
 have come to be regarded as an attribute having an absolute and not merely a relative existence externally. 
 
@@ -3800,7 +3800,7 @@ Varieties of Sâmanya. independent and eternal existence apart from the individu
 
 Jati and Up&dhi. 
 
-92 
+[[92]]
 
 Tarka-Sangraha. 
 
@@ -3820,7 +3820,7 @@ SBOT. VII. ]
 
 Notes. 
 
-93 
+[[93]]
 
 tute a proper class. These conditions are implied by their opposites in Udayana's verse quoted above. If you take a hundred persons you can arrange them in various groups, as for instance by their nationality, or the language they speak, or the complexion of their body, or by their education. But each of these groups cannot constitute a class, for in that case there will be the absurdity of one person belonging to several classes, and all notions of genus and species will be confounded. Human being is a class because we can at once recognize certain well-marked characteristics which clearly distinguish human beings from all other animals; but black- ness cannot be a class, for if it be so we shall have to group black men in the same class as black sheep or black stones. This distinction between ama and guma is very important and is one of the subtlest discovered by Indian logicians. 
 
@@ -3834,7 +3834,7 @@ Particularity.
 
 Kanada) is a counterpart of that of THE (generality), as the one necessarily implies the other. In Sect. LXXVIII, Annam- hhatta defines far as residing in eternal substance and serv- ing the purpose of distinguishing them from each other, while this section further tells us that those particularities are in- numerable, one being assigned to each eternal substance. A more accurate definition of विशेष is स्वतो व्यावर्तकत्वम्, that which distinguishes self from itself. The peculiarity of a Ves'esha is that it performs the double function of differentiating one eternal substance from all others, and also that of different- iating itself from other Viseshas and everything else. The latter assumption is necessary, because otherwise we shall have to suppose a second Visesha over the first to differenti- ate it from others and so on ad infinitum. 
 
-94 
+[[94]]
 
 Tarka-Sangraha. 
 
@@ -3850,7 +3850,7 @@ Tarka-Sangraha.
 
 "A from a piece of cloth because the component parts of the first are distinct from those of the latter ( अवयवभेदादवयविभेदः), and so on we may argue until we arrive at the ultimate con- stituents of matter, namely the atoms. But as an atom has no parts, we cannot account for the distinction of one atom from another by the same process of reasoning. Similarly we cannot account for the mutual distinction of other imper- ishable substances such as ether, time and space. There is therefore no help (arar of S. C.) but to assume a separate individuality in each of these substances to account for its distinctive character. This individuality is called the far of that substance, and they are as innumerable as the atoms and other eternal substances. It is not right to translate this far by difference' or differentia,' because the latter words denote the special characteristics of a species as distinguish- ed from genus, while concerns the individual only.* 
 
-4 
+[[4]]
 
 Why Vis'esha is recognized. 
 
@@ -3862,7 +3862,7 @@ SBOT. VII. ]
 
 Notes. 
 
-95 
+[[95]]
 
 ** 
 
@@ -3874,7 +3874,7 @@ only incidentally as it were, in the Sarra अन्यत्रान्त्�
 
 P. B. Ben. ed, p. 322. 
 
-96 
+[[96]]
 
 1. 
 
@@ -3888,19 +3888,19 @@ Intimate Union is one only.
 
 समवायः 
 
-4 
+[[4]]
 
 [ SHOT. VIII 
 
 Har etymologically means the act of coming together closely, and is therefore used to denote a Intimate Union. kind of intimate union' between two things which are thereby rendered inseparable so that they cannot be separated without themselves being destroyed. It is therefore more appropriate to translate war by intimate union' rather than by co-inherance as Ballantyne has done. Annambhaṭṭa defines war in Sect. 79 as a permanent connection existing between two things that are always found inseparable." The war is called far- सम्बन्ध in contradistinction to संयोग which is a guna and is always अनित्य. The expression अयुतसिद्ध denotes things one of which is always dependent on the other, as the jar on its components or the quality on the substance. ergaff is the opposite of gafa which may be taken to mean either 'prov- ed to be joined' or 'proved to be separated,' according as we take the verb g in the sense of to join' or to separate.' In either case the meaning of gaf is the same. In the first sense garde means things which are proved to have been actually joined and therefore which must have once existed in a state of separation, while in the latter sense gaffe simply denotes things which are proved to have once been separated. Those things therefore which are not thus proved, that is, which have never existed in a separate condition are agafara. The two halves of a jar were separate before they were joined together; their connection therefore is which can be destroyed at any moment by separating them again. But the jar never existed and can never exist separately from the two halves; the connection of the jar with the halves is therefore war. These orgafer things are limited in num- ber. In fact there are only five pairs of things between which amara is supposed to exist, viz. 1 the product and its parts ( adamaqfar ), 2 the quality and the qualified (goryforit ), 3 the motion and the moving (fazanfarargedt ), 4 the indivi- 
 
-4 
+[[4]]
 
 SKOT VIII. 1 
 
 Notes. 
 
-97 
+[[97]]
 
 dual and the common characteristic (amacant), and lastly 5 particularity and the eternal substance in which it inheres ( Aavazza). The definition in the Sútra is simpler and less * from comprehensive इहेवनिति यतः कार्यकारणयोः स समवायः, which it may be inferred that the notion of war was crude at first, and must have been gradually developed by later writers. 
 
@@ -3914,15 +3914,15 @@ r is far in
 
 wary is one and one only, in order to repu- diate the position of the Prabhâkara Mi- mimsakas and a modern school of Naiya- gikas. These latter deny even नित्यत्व to समवाय. The नित्यत्व of aware is proved by the argument that as all positive pro- ducts (भावकार्य )are gouerated in their material cause by समवाय relation, a q if produced will require another and so on ad infinitum. qerare terefore must be regarded un- producible 7. c. Arg. Of course this faerer is and not absolute sneh us that of an atom. the seuse that it eau aoither be produced nor destroyed without producing or destroying the product. Now comes the question why this soporte entity of reary is recognized at all. Here there is a difference of opinion between the Naiya- yikas and the aidesilus, on the old and the modern schools, as S. C. calls them. The former hold that war is observ- ed by perception, and chereibre no other proof is required to prove its existence. The 17'sadilax however, of whom An- nambhatta is uno, deny perceptibility to gare, ou the ground that a convectiou is perceptible only when the two connected things are perceptible, while aware often exists between things une of which ( 6. g. star the waanderror of srz) may be imperceptible. In their opinion war is proved by inference only, and the argument is often put as Annambhatta has put it in his commentary on Sect. 79. 
 
-6 
+[[6]]
 
 → V. S. VII, 2, 26. 
 
-13 
+[[13]]
 
 WASUARDO MENTIONS, ANLAvica tahmund 
 
-98 
+[[98]]
 
 Samavdya. 
 
@@ -3948,7 +3948,7 @@ SBOŤ. IX. 1
 
 Notes. 
 
-09 
+[[09]]
 
 objection against समवाय is that, if समवाय is to be regarded as identical with its and ar, would it not be better and simpler (ar) to regard the rf itself as identical with the ? Hence the Vedantins and the Sâñkhyas hold the cause and its product to be connected with each other not by समवाय, but by the relation of identity (तादात्म्य). The doctrine of अयुत- fr on which that of wary depends is also ruthlessly criti- cized by S'ankaracharya.* The gist of his criticism is that the notion of cause and effect being orgafe, that is, being con- nected together in an inseparable union, is directly opposed to the hypothesis that the cause is always anterior to the effect. As matter of fact the canse and the effect are one and the same thing, and not two different things joined to- gether inseparably by a fictitions union called war. The whole realistic theory of the Naiyayikos is therefore based on a fiction which has no basis in actual experience. This is not the place to go deeper into this controversy which has been vigorously carried on between the rival disputants from the earliest to the latest times; but what has been said will be sufficient to give the student an idea as to how the doctrine of war and the theory of cansation built upon it lie at the very root of the whole Nya system of philosophy. 
 
@@ -3962,7 +3962,7 @@ Negation.
 
 Brah. Sút. II, 2, 17, 
 
-100 
+[[100]]
 
 Turku-Sangreha. 
 
@@ -3992,7 +3992,7 @@ gé àfawnya: derviere godt ("
 
 Notes. 
 
-101 
+[[101]]
 
 ction and destruction of a thing. samara is absolute negation, and comprises all varieties other than those mentioned. A discussion as to its exact nature will be found under Sect. 80. 
 
@@ -4012,7 +4012,7 @@ Ta, can be a padartha only in the most literal sense of the word, namely, the co
 
 ? 
 
-102 
+[[102]]
 
 Tarka-Sangraha. 
 
@@ -4022,7 +4022,7 @@ character of negation. But one might say that we find घटाभाव even wh
 
 era 
 
-44 
+[[44]]
 
 수 
 
@@ -4036,7 +4036,7 @@ SECT. X. J
 
 Notes. 
 
-103 
+[[103]]
 
 5. Here ends the first chapter of Tarka-Sangraha, which S. C. names पदार्थोद्देशविभागनिरूपणम्. According to the well- known dictum of the scholiast, the Vaiseskika system con- sists of three parts, the enumeration. the division and the definitions of padarthas. The author of Tarka-Sangraha first enumerates the Padarthas in the second section, and then proceeds to state their divisions and subdivisions in Secs. 3 to 9. From the tenth section onwards he enters upon their definitions or a severally, and defines them in the order in which they have been enumerated. 
 
@@ -4052,7 +4052,7 @@ Earth.
 
 * S. M. Calc. ed. p. 21. 
 
-104 
+[[104]]
 
 Turka-Sangraha. 
 
@@ -4078,7 +4078,7 @@ SEÚT. X. ]
 
 Notes. 
 
-105 
+[[105]]
 
 afarera arreraप्रतियोगित्वध्वंसप्रतियोगित्वान्यतरवस्त्वं बोध्यम्. The T. D. does not take into account past as well as future eternity, and consequently its definition of नित्यत्व overlaps on प्रध्वंसाभाव which, being indestrnetible, is ध्वंसाप्रतियोगी, but which is not नित्य as it has प्रागभाव. There are some however who regard ध्वंस as eternal;and according to them T. D's definitions will be correct. नित्यत्व is also defined in another and a simpler way as त्रैकालिक- dentara. "being distinguished by a connection with the three times, past, present and futuro”, ¿.e. existing in all times. Whichever definition we take, products are always an as they do not exist prior to their production. The eternal portion of earth is the atoms which are the ultimate material causes of all earthy products. The atomic theory of the Vaišeshikas will be explained later on. (See note Sect. XIII. ) 
 
@@ -4090,9 +4090,9 @@ Another division.
 
 † Ibid. 
 
-14 
+[[14]]
 
-106 
+[[106]]
 
 Tarka-Sangraha. 
 
@@ -4128,7 +4128,7 @@ Organ.
 
 * Bee quotation p. 85-6 Supra. 
 
-108 
+[[108]]
 
 Tarka--Sangraha. 
 
@@ -4148,7 +4148,7 @@ SHOT.-X. ]
 
 Notes. 
 
-100 
+[[100]]
 
 means those things only which are always the object and never the subjects of knowledge. The bodies of living beings though objects of other men's knowledge are subjective so far as each individual is concerned, while inanimate things like stones not having any knowledge of their own must always remain objects and objects only. This point does not seem to have been clearly understood by commentators, although the difficulty was perceived by them. S. C. for instance remarks "येतदक्षर्ण शरीरादावतिव्याप्तमिति विभाव्यते सदा शरीरेन्द्रियभिन्नत्वमेत्र तदनुसरम् । वस्तुतस्तु शरीरादिकमपि विषय एव । भेदेन कीर्तनं तु बालधीवैश- ar." that is, although the three-fold division is a cross- division in as much as the usual definition of विषय (भोगोपयोगी fara:) would also apply to bodies and organs, the latter are classed separately for the clear understanding of beginners. This explanation of S. C. is of course copied from a similar one in Muktavali: शरीरेन्द्रिययोर्विषयत्वेऽपि प्रकारान्तरोपन्यासः शिष्य- graf:.* It is difficult to guess how such a cross-divi- sion tends to the easy comprehension of beginners, but prob- ably these commentators, while noting that body and organ are expressly excluded from fa, did not quite realize why the meaning of the word far was thus restricted. It is also significant that Aanambhattre defines विषय simply as शरीरेन्द्रिय- er, and thus carefully abstaius from any reference to भोग or उपभोग. 
 
@@ -4164,7 +4164,7 @@ On the other hand, as observed in a previous note ( Supra p. 106 ) Annambhaṭ�
 
 † B. p. 37. 
 
-110 
+[[110]]
 
 Tarka-Sangraha. 
 
@@ -4190,7 +4190,7 @@ V. S. Up. Calo, ed. p. 214. § V. S. II, 1, 2.SEOT. XII. ]
 
 Notes. 
 
-111 
+[[111]]
 
 the coldness of the touch of water, but it is singular that no trace of the subsequent classification is found in his Sûtras. These details in the case of water as well as of light have been supplied by commentators, whose dialectical ingenuity never fails to supply arguments for defending the grossest absurdities. The objection, for instance, that a watery body having no solidity, would be like a bubble of water, incapa- ble of enjoyment, is met by the reply that though such a body would be mainly composed of watery particles, there would be enough of earthy atoms in it to add consistency and cohesion. This watery body is held to be only arr. Another objection that if coldness is the special attribute of water how is it felt in slabs of stones, is answered by attrib- uting the coldness to the presence of water in the stone. The remarks made in the three preceding notes on the last section as to the propriety of the division and cross-division, apply mutatis mutandis to this and the following sections also. For the qualities residing in water see quotation at p. 85 Supra. 
 
@@ -4204,7 +4204,7 @@ Light has hot touch. It is of two sorts, eternal and non- eternal ; eternal is a
 
 * V. 6. II, 2, 5. 
 
-112 
+[[112]]
 
 Tarha-Sangraha. 
 
@@ -4232,7 +4232,7 @@ Notes.
 
 even 
 
-113 
+[[113]]
 
 gold is not destroyed even by application of extreme heat, while the fluidity of earthy things such as clarified but- ter is generally found to vanish at certain temperature when there is 
 
@@ -4244,9 +4244,9 @@ in the absence of any counteracting force. Gold cannot therefore be of earthy na
 
 The fallacy or rather a number of fallacies in this reason- ing can be easily deteced. In the first place, the propositiou that the fluidity of every earthy substance must be destroyed by extreme heat is an arbitrary assumption based on insuffi- cient data. Modern science proves that the solidity and fluidity are not definite qualities belonging to particular kind of substances as the Naiydyikas hold; but they are simply states of matter dependent on temperature. Thirdly the device of accounting for the non-appearance of any quality by the supposition of a counteracting force is often, as here, carried rather too far. If obstructing causes can explain the disappearance of heat and brilliancy of light, why can they not explain the non-destruction of the fluidity of gold? To remove this objection the words amā afdqrqi are introduced in the area, for we often see that when there is an obstructing cause, even earthy substances, such as ghee placed in water, do not lose their fluidity. But how is it to be proved that there is no obstructing cause in the case of gold also? The difficulty of converting metals to gaseous state by the application of strongest possible heat seems to have struck the Indian thinkers early, but owing to the infancy of experimental sciences they did not wait to verify their conceptions of solidity and fluidity. They rather preferred the easier way of solving the difficulty by relegat- ing these apparent exceptions to a different category altoge- 
 
-15 
+[[15]]
 
-114 
+[[114]]
 
 Tarka-Sungraha. 
 
@@ -4278,7 +4278,7 @@ The five breaths.
 
 Notes. 
 
-115 
+[[115]]
 
 had to say something on the point. He gives however a decided opinion as to the identity of the five breaths. Al- though rur is mentioned as one of the five breaths, it can also be used as a generic name for all of them, as the remaining four are nothing more than the same प्राण called by different names, according to the different parts of body it travels over and the different functions it perfoms. There are not really five breaths but only one passing through five places and performing five functions, each at its proper place. Praśastapada simply says क्रियाभेदादिभिरपानादि- संज्ञां लभते, the first word आदि including स्थान. Annambhatta has improved upon him by employing the word zum which sig- nifies both far and war. The exact meaning of 3 will be discussed further on. The five breaths are differentiated by their places in an old verse:- 
 
@@ -4304,7 +4304,7 @@ These
 
 As the whole of this peculiarly Pauranic physiology has been imported into modern Nyaya works it cannot be totally ignored, but it is not necessary to dwell on it here any further. It may be noted, however, as a good example how Indian systematists often imported foreign material into their systems, and reconciled it as far as possible with their fundamental doctrines. 
 
-116 
+[[116]]
 
 Is air visible. 
 
@@ -4334,7 +4334,7 @@ SECT. XIII. ]
 
 Notes. 
 
-117 
+[[117]]
 
 gerged angagq, all substances visible to external sens- es have manifested colour. The words and affia are used in order to make it clear that we are talking of sensuous porcep- tion of substances only, and thus to exclude a and per- ceptible qualities like . We cannot however assert q7 77 प्रत्यक्षस्पर्शाश्रयत्वं तत्रोद्भूतरूपवत्त्वं, wherever there is tangibility there is manifested colour, because we know as a fact that air though प्रत्यक्षस्पर्शाश्रय does not possess उद्भूतरूप. The उपाधि is therefore arvateater. On account of its existence the ama or major premise becomes too extensive, and the whole argument is a fallacy. Separated from its technicalities, the above reasoning amounts to this. According to the hypo- thesis of the ancient Naiyâyikas the term erger has a narrower meaning and is exclusively applied to the cases of ocular perception. Hence substances and qualities that are apprehended by other senses but are not seen by the eye do not become objects of perception. In this restricted sense of gerat, namely, ocular perception, it is evident that 
 
@@ -4344,7 +4344,7 @@ The modern Naiyayikes who affirm the perceptibility of air, deny this in toto, b
 
 , that is, everything is perceptible that possesses some special quality having age but not fager, as for instance manifested colour or manifested touch, combined with magnitude. On this hypothesis modern Naiyayikas regard air as perceptible, as it is the object of refer as opposed to amarquerer, but atoms are not, because they have no magnitude. Annambhatta holds the ancient view and regards air as infer- able only. 
 
-118 
+[[118]]
 
 Why air is a dis- tinct entity. 
 
@@ -4368,7 +4368,7 @@ tion.
 
 Notes. 
 
-119 
+[[119]]
 
 6. The destruction of things takes place in the same order, that is, when God wills to destroy effects, motion is produced dividing the monads, and thereby destroying the binary. Thence follows the destruction of the tertiary, and so on, until the mass of earth becomes extinct. This is the process of creation and destruction which is unanimously accepted by all Naiyâyikas; but there is a difference of opi- nion between the ancient and the modern schools as to the precise cause which immediately brings about the destruction of things. The old traditionists (r) held that with one exception the destruction of effects is immediately brought about by the destruction of their canses, the exception being the binaries which are destroyed, not by the destruction of their causes, i. e. the monads which are indestructible, but by the destruction of the union of the monads or primary atoms. In other words, the binaries are destroyed by the dissolution, and the subsequent products by the destruction, of the parts composing them. The dissolution of parts no doubt occurs in the latter cases also, but there it is itself the result of the destruction of parts. The moderns object to this multiplicity of causes on the ground that it is simpler (ra) to assume only one uniform cause in all cases, namely, the dissolutiou of the union binding the parts, than to suppose one cause for the binaries and another for other effects. In their opinion, therefore, there is only one cause for the destruction of all effects, namely the dissolution of the union which is the re- HAT WE or non-intimate cause of the product. 
 
@@ -4376,7 +4376,7 @@ Notes.
 
 t 
 
-120 
+[[120]]
 
 Tarka-Sangraha. 
 
@@ -4388,7 +4388,7 @@ last to be produced. Now this is diametrically opposed to the view held by other
 
 Notes. 
 
-121 
+[[121]]
 
 8. The Naiyayikus accept the old mythological idea of two cosmic dissolutions, au egiacgoq (intermediate dis- solution) when all tangible products only are destroyed, and a Harga ( universal dissolution) when all things, material and immaterial, are merged in the primum mobile, that is, the atoms. These periodical creations and destructions, says T. D., are proved on the authority of the Śruti text rar war- qfweerga, the Creator made the creation as before, the word before implying that there was a previous creation of which the present one is a copy. 
 
@@ -4396,17 +4396,17 @@ Notes.
 
 น 
 
-6 
+[[6]]
 
 The doctrine of atoms. 
 
 This is a couveulent place for an explanation of the Sagittika परमाgare or Indian atomic theo- ry, as it is essentially connected with the evolution and ultimate form of the first four substances. Tho Ngoya theory of creation and destruc- tion as explained above presupposes the existence of atoms, while the division of earth, water, light and air, into eternal and non-eterul is fonuded on the same fact. T. D. thererore properly asks and answers here the question what is the proof for the existence of these atoms on which so large a part of Nydya and Vaiseshika doctrines seems to be based. The argument brielly put by T. D. may be explained thus: Every visible thing is composed of parts, for a thing in order to be visible aner have three dimensions, length, breadth and thickness; and these dimensions necessarily presuppose smaller parts. A line has length because it is a succession of many points, while a surface has length and breadth be- cause it is a series of lines placed side-ways. A mathemati- cal point on the other hand having no dimension can never be perceived and is really speaking nothing but a notion. Having established this universal and self-evident proposi- 'tion that every visible thing has parts (यत्र यत्र चाक्षुपद्रव्यत्वं तत्र `anaqara qar q we get the further axiom, also proved by experience, that every object having parts is divisible into any number of smaller parts. 
 
-16 
+[[16]]
 
 From these two axioms we 
 
-122 
+[[122]]
 
 Tarka-Sangraha. 
 
@@ -4418,7 +4418,7 @@ SHOT. XIII. ]
 
 Notes. 
 
-123 
+[[123]]
 
 each part; and thus the compound of two binaries, which are ag, would be agar i. e. still more minute, and not aga as the sque really is. Therefore the number of binaries composing the sque is fixed at three to account for its mag- nitude, while, no such reason existing in the case of ag4, the number of its parts i. e. the atoms, need not be more than two. Hence the mnemonical couplet, cdufferů यत्सूक्ष्मं दृश्यते रजः । तस्य षष्ठतमो भागः परमाणुः स उच्यते ॥ The atom is the sixth part of the little mote which we see in the sun- beam coming through the window. 
 
@@ -4432,7 +4432,7 @@ each part; and thus the compound of two binaries, which are ag, would be agar i.
 
 *V, S, VII, 1, 9. 
 
-124 
+[[124]]
 
 Tarka-Sangraha. 
 
@@ -4456,7 +4456,7 @@ SECT. XIII.]
 
 Notes. 
 
-125 
+[[125]]
 
 unit like arg, we can easily account for their different magnitudes by the varying number of atoms in each. It can be easily guessed from this that the statement made above that the magnitude of a thing depends on the number (aga) or the size ( महत्त्व ) or the peculiar arrangement (प्रचयविशेष ) of its parts was only provisional, the real cause in all cases being the number of ultimate parts, while the latter two causes were simply the variations of the first. This may perhaps account for their omission in the original aphorism of Kanâda.* 
 
@@ -4472,7 +4472,7 @@ Atomic theory in India and Greece.
 
 + Roer's Trans. of B. P. Bib. Ind. p. 16 note. 
 
-126 
+[[126]]
 
 Tarka-Sangrahu. 
 
@@ -4498,7 +4498,7 @@ SECT. XIV. ]
 
 Notes. 
 
-127 
+[[127]]
 
 by the mention of among the gunas. Âkâśa is also defined as संयोगाजन्यजन्यविशेषगुणसमानाधिकरणविशेषाधिकरणम् * २. ९. ether is the seat of that particularity (f) which coexists with a special quality (sound) that is created but not produced from conjunction. Ether being eternal and all-pervading has a far of its own, but this far is distinguished from that of soul, as it is accompanied by a created special quality ¿.e. sound, and hence the qualification rufaðven etc. But then the particularities in atoms are also accompanied by created qualities and hence they have to be exclud- ed by the further epithet arm, the special quali- ties in atoms such as पाकजरूप being often अग्निसंयोगजन्य. This elaborate definition therefore ultimately amounts to the same as शब्दगुण. 
 
@@ -4512,7 +4512,7 @@ Why sound is the attribute of Ákâś a.
 
 † V. S. II, 1, 27. 
 
-128 
+[[128]]
 
 Tarka-Sangraha. 
 
@@ -4544,7 +4544,7 @@ SECT. XV. ]
 
 Notes. 
 
-129 
+[[129]]
 
 Ha thongh atomic does not produce anything else and is not therefore, while are though all-pervading pro- duces sound. The other four substances are of course both ga and xf. He is opposed to farge (all-pervasion ), qa to and face or arterfer (invariability ). Soul is only a substratum of knowledge and not being its material cause cannot be eitzer भूत or मूर्त. 
 
@@ -4558,9 +4558,9 @@ Time.
 
 alone, as distinguished on the one hand from all other cifects of which time is only the general cause ( aruteorateur), and on the other, from space and other things which are enumerated as racorrcon along with time, and which are therefore the general causes of all effects including rare. Thus the word g, when taken in the above restricted sense, rees the definition of time from three faults, viz. an erfäsama ou ether, a second arama on space and other general causes, and an nunecessary restric- tion (erma) iu calling time the cause of one thing only when it is really the cause of all effects. The deduition in the text, being based on common usage of certain words, teaches us nothing new about the thing itself. The utmost 
 
-17 
+[[17]]
 
-130 
+[[130]]
 
 Tarka-Sangraha. 
 
@@ -4584,7 +4584,7 @@ indubitable fact, deny that an independent entity like time is
 
 Notes. 
 
-131 
+[[131]]
 
 the cause of our particular cognitions. For aught we know, the cognitions may be due to other causes, and when produced they constitute a separate class the common property of which we denote by the word time. It is therefore obvious that Annam- bhatta was wise in purposely making his definition simple and somewhat vague.. 
 
@@ -4594,7 +4594,7 @@ Time is eternal and all-pervading.
 
 4. Time is regarded as one, all-pervading and eternal entity like Ahasa, its particular divisions like those of Âkáša, being due to Upâdhi and therefore unreal. Here Annambhaṭṭa probably means to deny the doctrine of a section of Naiyâyikas who assign reality to moments only, and regard time in general as merely a collection of such moments. It is clear from the above that the Naiyâyikas did not apply the test of a searching analysis to the conception of time, just as Kant for instance has done in modern times. In his Critique of Pure Reason, Kant arrives at the conclusion that the conception of time as well as those of space and causality are ultimate facts lying at the basis of all experience and 
 
-132 
+[[132]]
 
 Tarka-Sangraha. 
 
@@ -4636,7 +4636,7 @@ SECT. XVI. ]
 
 Notes. 
 
-133 
+[[133]]
 
 The relations of time are constant, for when a moment of time is said to be present or future with reference to any object or event, it is always so; while the relations of space are often varying, that is, the spot of ground, which may be eastward of one thing at one time, might be westward of the same thing at another or of a different thing at the same time. This means that the divisions of time are fixed and settled, while those of space are relative only. This is not however quite correct, for the relations of time are in fact as varying as those of space. The same object or event which is past in reference to one moment may be future or present with reference to another. The only positive assertion that we can make about the two concep- tions is that they are complementary to each other and cannot vary at the same moment; that is, we can speak of different times only with reference to a particular spot, and of different spaces with reference to a specific moment of time. Like time, space is inferrible only, the inference being expressed in the form : देशिकपरत्वापरत्वे सासमवायिकारणके । भावकार्यत्वाद्धदवत्. 
 
@@ -4644,9 +4644,9 @@ The relations of time are constant, for when a moment of time is said to be pres
 
 3. It may be asked in what respect does Dik differ from Akasa and why the two are separately recognized. Of course as treated in the Nyaya system the difference between the two is too patent. Âkása is a gaz, Dik not; Âkása is the material cause of sound and has a special quality; Dik does not produce sound and has no special quality; Dik resembles time in being the general cause of all effects, while Âkāśa, like earth and other material substances, produces one kind of effect only, namely, sound. Akasa belongs to the region of matter, Dik to the province of mind; Akasa has an objective existence. Dik is known by subjective experience only. In this way the two can be easily differentiated, but the question goes deeper. The objector will admit that ether and space, as conceived by the Naiyayikas may be different entities, but he may still ask, why they are con- ceived so different at all. In what respect do they differ essentially; and if one is dropped, cannot its functions 
 
-5 
+[[5]]
 
-184 
+[[184]]
 
 Tarka-Sangraha. 
 
@@ -4668,7 +4668,7 @@ SECT. XVII. ]
 
 Notes. 
 
-135 
+[[135]]
 
 likewise runs इन्द्रियार्थप्रसिद्धिरिन्द्रियार्थेभ्योऽर्थान्तरस्य हेतुः * The followers of Gotama however confine this inference to the Supreme Soul only, holding the human soul to be capable of being perceived. Another argument to prove the existence of soul is बुद्ध्यादयः पृथिव्यायष्टद्रव्यातिरिक्तद्रव्याश्रिताः । पृथिव्याद्र- व्यानाश्रितत्वे सति गुणत्वात् । यन्नैवं तन्नैवं यथा रूपादि । The soul has to be inferred because a substratum is wanted for the quali- ties बुद्धि सुख दुःख इच्छा द्वेष प्रयत्न धर्म and अधर्म, which cannot reside in any one of the eight inanimate substances, 
 
@@ -4684,7 +4684,7 @@ earth etc.
 
 § 8. M. Calo, ed. p. 37. 
 
-136 
+[[136]]
 
 Tarka-Sangraha. 
 
@@ -4702,7 +4702,7 @@ SBOT. XVII. ]
 
 Notes. 
 
-137 
+[[137]]
 
 Without however going so far we might assume that the guess is not very wide of the mark and that Kandda and Gotama might have at first purposely excluded God from their systems, not as being totally non-existent, but as being beyond and above the phenomenal world with which their systems were chiefly concerned. Possibly the aphor- ists confined themselves to a classification and discussion of sublunary things only without minding the supernatural agency, while commentators considering this as a defect, supplied the omission by inserting God under the only category where It was possible to do so. Thus for instance, while Prasastapada says nothing about God, his commen- tator Sridhara classes God along with the human soul, although the former has six and the latter fourteen quai- ities.* Whatever be the truth, the Naiyhyikas do not attach much importance to the inclusion of God under आत्मन and always speak of him as an independent entity whenever occasion requires. When they speak of soul, they generally mean ferar only. This is another illus- tration how a love of symmetry and completeness which characterises Indian systematists often overrides their philosophical accuracy. The student should also note the fact that soul is here mentioned as one of the substances. along with earth, water etc. Nothing can show better the materialistic tendency of Nyaya philosophy, than this in- clusion of spirit under the same category as dead matter. 
 
@@ -4714,9 +4714,9 @@ Existence of God.
 
 t 
 
-18 
+[[18]]
 
-138 
+[[138]]
 
 Tarka-Sangraha. 
 
@@ -4740,7 +4740,7 @@ SECT. XVII. ]
 
 Notes. 
 
-139 
+[[139]]
 
 destiny, which is assumed to be a universal cause of all creation. The last promise necessarily follows from the preceding ones, because a Creator of this multifarions universe must be Omniscient and Omnipotent, and in fact must possess all attributes usually ascribed to God; other- wise he will be either incapable of creating or be himself liable to creation and destruction. This reasoning is of course powerless against an opponent who denies any one of the above premises or the validity of the common ex- perience on which they are founded. 
 
@@ -4752,7 +4752,7 @@ destiny, which is assumed to be a universal cause of all creation. The last prom
 
 6. The weakness of the argument to prove a Creator lies in the third and the fourth of the aforesaid four assum- ptious which are not accepted by many. How do we know for instance that this universe is a product? Indi- vidual things in the world may be products in our common acceptation of the term, but that does not necessarily prove that the whole is a product too. The whole does. not always share the nature of the parts, as for instance in a windmill although each particle moves, the whole is stationary. Secondly our human experience being limited 
 
-140 
+[[140]]
 
 Tarka-Sangraha. 
 
@@ -4776,7 +4776,7 @@ The first of these eight or nine arguments to prove the existence of God is the 
 
 黜 Kus. V. 1.SHOT. XVII. ] 
 
-6 
+[[6]]
 
 * 
 
@@ -4786,7 +4786,7 @@ Notes.
 
 * 
 
-141 
+[[141]]
 
 and which being action, required an intelligent actor. The third proof, support' means that the world depends upon some being who prevents it from falling. The etc. (a) in- cludes destruction of the world and presupposes a destroyer. Pada here means पढादिसम्प्रदायव्यवहार, that is, traditional arts of weaving cloth etc. which could have been invented at first only by some intelligent being. Authoritativeness' is a certain virtue inherent in the Vedas whereby they produce right knowledge in us, and therefore implying a Being who imparted that virtue. The proof of Śruti establishes a Being who made the Vedas what they are. Again the Vedas consisting of sentences must have been produced by some author just as Mahabharata and other books. The last proof, number, requires a little explanation. It is held that the magnitude of a binary is produced not from the infinitisimality ( unfaruger ) of atoms but from the number (two) of the atoms composing the binary; and it is also a Nyaya doctrine that the conceptions of duality and sub- sequent numbers are produced in things by an effort of the mind. The duality therefore which produced binaries at the beginning of creation must have been first conceived by some intelligent being existing before creation. Number is thus a proof of the existence of God. Udayanâchârya also establishes God's existence in another way, namely, first by proving Adrishta or destiny, and then arguing that the inanimate destiny must have some intelligent Being to regulate it.† Mauy of these arguments of Nyaya writers are identical with those given by Aristotle and widely used in modern times by Paley and the Christian divines. The idea of God or a Supreme and Omniscient Creator of the world, which was at first rather faint in the Sûtras, came to occupy an important place in the Nyaya system as developed in later times. 
 
@@ -4796,7 +4796,7 @@ God's attributes.
 
 * See note p. 123 Supra; and P. B. Ben. ed. p. 131, + Kus, 1, 4. 
 
-142 
+[[142]]
 
 Tarka-Sangraha. 
 
@@ -4808,7 +4808,7 @@ Human Soul.
 
 9. Having proved the existence of God, T. D. defines the human soul as gurur: thereby exclud- ing God who is devoid of pleasure or pain. जीव is also described variously as इन्द्रियाय- धिष्ठाता, or बन्धमोक्षयोग्य Or जन्यज्ञानवान्, all which epithets are merely contradictories of the attributes of God. The human soul can be casily proved to be distinct from body or organs, and also to be numerous, eternal and all-pervading. The Chârcákus say that our body itself is the soul, because our self-consciousness I am a man I am a Brahman,' relates to the body; but it is not so, because the self remains the same although the body changes as it grows from infancy to old age. Besides we have the opposite consciousness my 
 
-2 
+[[2]]
 
 יד 
 
@@ -4820,11 +4820,11 @@ SEOT. XVII. ]
 
 Notes. 
 
-143 
+[[143]]
 
 body, my head' ctc. and we feel no diminution of self even if parts of body such as arms or legs be cut off. Others maintain that the soul is identical with organs of sense as is proved by our consciousness I am blind I am deaf'; but this is also not true, for the deprivation of any one or all the organs does not injure the soul. Again if the organs are soul, there would be as many different souls in a body as there are organs of sense, and besides, says T. D., we shall not have, as we have now, the identity of consciousness that the same person. i. c. I, who saw the jar at a former time. touch it now. Nor is mind the soul, as mind being atomic would be incapable of simultaneously apprehending inany objects. The soul is therefore something different from all these. The human souls are conceived to be numerous, and not one as the Vedantins hold, in order to account for the variety of experiences of pleasure, pain etc. in different bodies. The same soul however passes through several bodies; otherwise we cannot form certain impressions and habits (such as the sucking of a new-born child) that seem to come to us intuitively as it were, and are really derived from our experience in previous births. Plurality of souls is thus reconciled with the doctrine of transmigration. It follows from this that the human sonl is eternal, for otherwise he cannot pass through several births without losing his identity. He must also be all-pervading, for he can neither be atomic nor of any intermediate magnitude. If atomic he can occupy only a minute spot in the body and thus cannot simultaneously feel pleasure or paiu at distant parts of the body. If the soul has an intermediate magnitude he will be liable to destruction by the enlargement or diminution of that magnitude.. Again, how is this middling magnitude to be determined? It will be either the same size as the body, as the Jainas hold, or it will be different, being larger or smaller. In the latter case the son would be too large or too small to exactly occupy the body as he should. In the former case the difficulty arises as to how a soul which was small in the small body of a child could increase when the child grows to manhood; and similarly how the same soul which in one birth was of the size of an 
 
-144 
+[[144]]
 
 Tarka-Sangraha 
 
@@ -4838,7 +4838,7 @@ How do we know
 
 soul. 
 
-4 
+[[4]]
 
 • 
 
@@ -4856,7 +4856,7 @@ SEỚT. XVIII. ]
 
 Notes. 
 
-145 
+[[145]]
 
 SECT. XVIII. Ħa: मनः 
 
@@ -4872,9 +4872,9 @@ it is countless atomic, and eternal.
 
 T. D. gives another definition, ersfufgaà nâ fuqar which, though technically correct enough, does not give us much insight into the nature of the thing defined. Of the 
 
-19 
+[[19]]
 
-146 
+[[146]]
 
 Tarke-Sangraka. 
 
@@ -4910,7 +4910,7 @@ Notea.
 
 * V. S. Up. Cale. ed. p. 165. 
 
-148 
+[[148]]
 
 Tarka-Sangraha. 
 
@@ -4932,7 +4932,7 @@ SEOT. XVIII. ]
 
 Notes. 
 
-149 
+[[149]]
 
 "अथ यदा सुषुप्तो भवति यदा न तस्य च वेद हिता नाम नाड्यो द्वासप्ततिसह- त्राणि हृदयात् पुरीततमभिप्रतिष्टन्ते ताभिः प्रत्यवसृम्य पुरीतति शेते"* had already formulated a physical theory of sleep which all orthodox schools were bound to accept, modifications being permitted only where the Śruti was silent. The above text of Bṛihadâran yakopanishad for instance, vaguely says that he or it entered from the heart to the graa by way of seventy- two thousands of arteries; and hence the Vedantins take that he to be, while the Naiyayikas take it to be . This 
 
@@ -4950,7 +4950,7 @@ is inserted in the definition of mind to exclude आत्ममनःसंय�
 
 + Sankara-Bhashya on Brahm, Sat III, 2, 7- ‡V41, on G S. I I, 1. 
 
-150 
+[[150]]
 
 Tarka-Sangraha. 
 
@@ -4972,7 +4972,7 @@ Kath. U. p. III, 10.
 
 Notes. 
 
-151 
+[[151]]
 
 SECT. XIX. TA. 
 
@@ -5006,7 +5006,7 @@ when
 
 † V. S. Up. Calo. ed. p. 101. 
 
-152 
+[[152]]
 
 Tarka-Sangraha. 
 
@@ -5028,7 +5028,7 @@ SŠOT. XIX. Î
 
 Notes. 
 
-153 
+[[153]]
 
 व्याप्यवृत्तिधर्म is a quality which covers the entire thing and not a part of it only, like the whiteness or blueness of a jar which resides in all its parts. 
 
@@ -5040,9 +5040,9 @@ is therefore not distinct from the parts and is, like द्वित्वा�
 
 3. The definition and divisions of must have already shown to a critical student that the Naiyayika conception of 
 
-20 
+[[20]]
 
-154 
+[[154]]
 
 रूप- 
 
@@ -5072,7 +5072,7 @@ Notes.
 
 SECT. XX, XXI, XXII. :, mai, euafi. (E', स्पर्शः. 
 
-155 
+[[155]]
 
 Savour is the quality apprehended by tongue; it is of six kinds: sweet, sour, saline, pungent, astringent and bitter; it resides in earth and water; earth contains all the six varieties; water only the sweet. 
 
@@ -5102,7 +5102,7 @@ Touch.
 
 the analogy with colour ( चित्रस्पर्शस्तु रूपस्थलीययुक्त्या 
 
-156 
+[[156]]
 
 Tarka-Sangraha. 
 
@@ -5132,7 +5132,7 @@ SECT. XXIII. ]
 
 Notes. 
 
-157 
+[[157]]
 
 of earth. If it does, the words 
 
@@ -5144,7 +5144,7 @@ be supplemented by the further addition अपाकजं नित्यं. T
 
 2. T. D. here states briefly the rival theories about पाकजोत्पत्ति, that sharply divide the Vaiseshikas from the Naiyâyikas. The former are called पीलुपाकवादिनः because they explain the change of colour in an unbaked jar by the separate baking of individual atoms, while the Naiyayikas are called flexarsafe: because they supposed the change of colour to be accomplished in the jar itself. पाक is defined as रूपादिपरावृत्तिफलक-विजातीयतेजः संयोगः, application of external heat which effects a change of colour and other qualities. It is of various kinds according to the effects, one changing only colour as in a baked jar, another changing colour, odour and savour asin an artificially ripened mango-fruit, and so on. The word fanta excludes a change by heat in metals, which, being and, are . When a jar is baked the old black jar is, according to Vaiseshikas, destroyed, and its several compounds of binaries etc. are also destroyed. The action of the fire produces the red colour in separate atoms, which are then joined by the same action of fire into new compounds, and eventually produce a new red jar. This complicated process of dissolution and reconstruction of the jar is necessary to allow all the atoms in the jar to be baked, for if the jar remained intact, the fire caunot penetrate it and bake the atoms in the interior. The reason why we cannot perceive this process of dissolution and reconstruction is its great rapidity. The time occupied by this process has been variously computed, some holding it to be nine moments, others ten, others eloven, and a fourth school, five only. The order of nine moments, which is generally 
 
-158 
+[[158]]
 
 Tarka-Sangraha. 
 
@@ -5172,7 +5172,7 @@ SECT. XXIV. ]
 
 Notes. 
 
-159 
+[[159]]
 
 the total dissolution and reconstruction of the jar. The objec- tion how fire can reach the atoms is met with by the practical instance of water boiling inside a pot placed over fire without actual touch. In this way the controversy between the 
 
@@ -5198,7 +5198,7 @@ Number.
 
 * P. B. Ben. ed. PP. 111-30. 
 
-160 
+[[160]]
 
 Tarka-Sangraha. 
 
@@ -5220,7 +5220,7 @@ Out of the numbers which are ordinarily counted from one to a parardha or a lakh
 
 Notes. 
 
-161 
+[[161]]
 
 in products. The transientness of non-eternal unity in products arises from the fact that a log of wood ceases to be one when you break it into pieces. Numbers from duality onwards being 
 
@@ -5254,7 +5254,7 @@ First we have the contact of the organ of sense with the object (. e. each of th
 
 by which the notion of unity is realized in each of the objects, and we 
 
-21 
+[[21]]
 
 V. S. Up. Calc. ed. p. 322. 
 
@@ -5264,7 +5264,7 @@ V. S. Up. Calc. ed. p. 322.
 
 § Sarv. D. S. Calc.ed. p. 10. 
 
-162 
+[[162]]
 
 Tarka- Sangraha. 
 
@@ -5278,7 +5278,7 @@ cannot be
 
 of द्वित्व, which, like the quality वृथक्त्व, resides in several objects conjointly; while star resides in each object sepa- rately, and hence it must be the mid of . The importance of this subtle distinction lies in the different views of fee to which it leads. According to one, fa is an independent reality, different from the several unities of which it is composed and generated by gra; according to the other view it is already comprehended in the unities, and is only revealed when several of them are brought together. It may be further mentioned that both the notion of duality and its generating cause igre vanish away when their purpose is served, that is, when, the objects are actually perceived as two. As soon as yugia, the result of rangi, is produced, the latter which lasts for three moments only is destroyed, and with its destruction, its direct effect, the duality, is also destroyed, and there only remains the cognition 'two dravyas'. The steps follow in this order : 1 एकत्वज्ञानः अपेक्षाबुद्धिः 3 द्वित्वोत्पत्ति and एकत्वज्ञान* नाशः 4 द्वित्वज्ञानः द्वित्वगुणबुद्धि and अपेक्षाबुद्धिनाशः and 6 द्वित्व- नTश and द्रव्यबुद्धि. The reason for this assumed destruction of अपेक्षाबुद्धि and fradia is rather technical, being founded the Vaibeshika doc- 
 
-2 
+[[2]]
 
 on 
 
@@ -5286,7 +5286,7 @@ SBOT. XXV. ]
 
 Notes. 
 
-163 
+[[163]]
 
 trine that all cognitions, being qualities of the all-pervading soul, last for three moments only, and are destroyed by the generation of their effects. The student has been led through this labyrinth of speculative subtility in order to acquaint him with the exact import of Annambhaṭṭa's simple dictum, द्वित्वादिकं तु सर्वत्रानित्यमेव, that is, duality and other larger numbers are always erfar. 
 
@@ -5306,7 +5306,7 @@ y all-pervasion; and all tangible objects such as a jar have wнg intermediate g
 
 a respectively. As a matter of fact all of them are relative terms, and denote different numbers of constituent parts or degrees of contact in which they are combined. परिमाण is again divided into नित्य and अनित्य; that residing in eternal things as पारिमाण्डल्य and त्रिभुत्व being नित्य, and all the rest अनित्य- अनित्यपरिमाण is threefold संख्याजन्य, परिमाणजन्य and y. For the explanation of these see Notes 9 and 10 on Sect. XIII. pp. 121–3, supra. 
 
-164 
+[[164]]
 
 Tarka-Sangraha. 
 
@@ -5352,7 +5352,7 @@ be no between two all-pervading things which
 
 Notes. 
 
-165 
+[[165]]
 
 संयोग divides it into two 
 
@@ -5362,7 +5362,7 @@ are never apart from each other. is always artificial and non-eternal. T. D. kin
 
 2. Three Mss. of T. S. insert the word error after व्यवहार in the definitions of सङ्ख्या, परिमाण, पृथक्त्व and संयोग, but the reading of others who reject it appears to be the right one and has been adopted. Although the qualification crarureur is necessary to exclude universal causes, it can be and is always presumed wherever the words or or occur as in the definitions of and fas and so there is no need of its express mention. There are also other grounds to believe that the word error did not exist originally but was supplied by the Dipika. The words erarara qa qở in the Dipika would of course have been conclusive on the point had they been found in all Mss. of the work. S. C. however is quite explicit, as it remarks - 'उपदर्शितलक्षणचतुष्टयेऽ- साधारणपर्व देयम् । क्वचित्पुस्तके परिमाणपृथक्त्वलक्षणे ऽसाधारणपदं दृश्यते acrylaðviremâfa ärere. ” 
 
-166 
+[[166]]
 
 Universal Causes. 
 
@@ -5390,7 +5390,7 @@ BHÚT. XXIX. ]
 
 Notes. 
 
-167 
+[[167]]
 
 have an effort to lift it up,-this is the f; then the jar is lifted. from the ground,-this is far; then its contact with the particular spot is severed,-this is 
 
@@ -5406,7 +5406,7 @@ Priority and pos- teriority.
 
 * See verse quoted in Note 3 on Sect. XXIII p. 159 supra, 
 
-168 
+[[168]]
 
 Tarka-Sangraha. 
 
@@ -5436,7 +5436,7 @@ first falling only, while it is in fact the cause of every act of falling. The c
 
 Notes. 
 
-169 
+[[169]]
 
 not. Those of the first kind such as water are said to pos- sess natural fluidity, while others requiring the application of additional heat have artificial fluidity only. The solidity of snow and hail which are forms of water is exceptional and hence does not affect the proposition. 
 
@@ -5458,11 +5458,11 @@ substances is of course due to the watery portion in them. How can oil, says an 
 
 तैलान्तरे #afzegranegoar, Oil hastens fire because it has a greater amount of viscidity than pure water. It is not explained however whence this greater viscidity in oil comes if it is due to water alone. fquetara means thickening or concen- tration. It is the peculiar combination which holds parti- cles of powder together. The reason why this fquetere requires a special quality and cannot be attributed to 
 
-22 
+[[22]]
 
 * B. P. 156. 
 
-170 
+[[170]]
 
 Tarha-Sangraha. 
 
@@ -5486,7 +5486,7 @@ p. 266.SEOT. XXXIII. 1
 
 Notes. 
 
-171 
+[[171]]
 
 2. A more elaborate division of sound is the following:- 
 
@@ -5530,7 +5530,7 @@ sound can be heard at any distance from the place where it is first produced. Th
 
 or organ of hearing is defined as the Ahasa which is f grogeafood, i. e. the portion of ether limited and severed from the rest of the Akasa by the cavity of the ear. Evidently A cannot go out of the ear-cavity by which it is conditioned, for as soon as it goes out it will be no but common ether. As the organ of hearing cannot go to its object, it is necessary that the object should reach the ear, so that anyhow the two may come into contact. But the sound which is produced in that portion of Âkúša which is immediately in contact with the drum is distant from the ear and cannot itself travel to the ear, being, as a quality, inseparably connect- 
 
-172 
+[[172]]
 
 Tarka-Sangraha 
 
@@ -5546,7 +5546,7 @@ SECT. XXXIV. qiz.
 
 ( 
 
-173 
+[[173]]
 
 Cognition is the special and instrumental) cause of all communication or intercourse, and it is knowledge. It is twofold, remembrance and apprehension. Remembrance is knowledge produced from mental impression alone. Knowledge other than remembrance is apprehension. 
 
@@ -5566,7 +5566,7 @@ by understanding, and Roer by intellect; but both renderings ure wrong. The word
 
 2. व्यवहार is, as V: V. rightly defines it, बुबोधयिषापूर्वकवाक्य- , utterance of words for the purpose of communicating ideas, and not enragen?: as S. C. has it, for the latter is too wide and would include involuntary actions, such as walking in sleep, which are not prompted by knowledge. Briefly speaking, is a property of the soul which prompts articulate language; or, in other words, it is thought clothed in intelligible words. This invariable association of gre and wage makes the above definition too narrow, in as 
 
-174 
+[[174]]
 
 Tarka-Sangraha. 
 
@@ -5576,7 +5576,7 @@ much as it does not apply to afara or mere sensation, which is a species of cogn
 
 3. The definition of a given in the text is in many re- spects more convenient in practice than 
 
-6 
+[[6]]
 
 Other definitions. scientifically accuate. The T. D. there- fore supplies a better definition, जानामीत्य - नुव्यवसाय यज्ञानत्वम्. Cognition is said to be that knowledge () which becomes the subject (r) of the conscious- ness ( agagawa) having the form I know.' This requires a little explanation. Perceptive knowledge according to Nyaya is acquired by going through three successive steps, viz. इन्द्रियसंनिकर्ष, ज्ञान and अनुव्यवसाय. When an object like & jar is brought before us, our organ of sight first comes into contact with it, and carries an image of the object to the mind which conveys it to the soul. This organ is called the я, efficient cause of perception. This image is then converted into a cognition or बुद्धि having the form अयं वदः < this is a jar. This cognition () again being a property of the soul, the Ego becomes when combined with the ever present into the compound consiousness, घटज्ञानवानहमस्मि OF घटमहं 
 
@@ -5594,7 +5594,7 @@ SECT. XXXIV. ]
 
 Notes. 
 
-175 
+[[175]]
 
 Sapta-Padârthi of Śivâdityâcharya is emery: gærer:, which the commentator Jinarardhana explains, EİVARTÕRKEAR- कारकसकलपदार्थस्यार्थप्रकाशकः प्रदीप इव देदीप्यमानो यः प्रकाशः सा बुद्धिः, knowledge is of the nature of light because it dispels the darkness of ignorance and illuminates all objects to the mind's eye. The epithet : means residing in the 
 
@@ -5618,7 +5618,7 @@ noticed by S. C., viz. that here does not mean excess of knowledge as in express
 
 † G. S. I, 1, 15. 
 
-176 
+[[176]]
 
 Tarka-Sangraha. 
 
@@ -5642,7 +5642,7 @@ SBOT. XXXIV. ]
 
 Notes. 
 
-177 
+[[177]]
 
 उद्बोधक ( reviver ) of that संस्कार. In प्रत्यभिज्ञा ( reminiscence ) the object recollected is actually before our eyes, and the novelty of the knowledge only consists in the identity of the object now perceived with some one previously seen, as when on seeing one recollects that it is the same whom one saw before. Here the actual perception of gazu is as much the cause of knowledge as the impression left on mind by a former perception; and hence प्रत्यभिज्ञा is not संस्कारमात्र- जन्य but प्रत्यक्ष सहकृतसंस्कारजन्य. Several copies of T. S. and T. D. omit a in the definition in the text as well as the sentence in T. D. referring to it. S. C. appears to have had both readings before him as he expressly prefers the one with मात्र. 
 
@@ -5658,7 +5658,7 @@ newly acquired and are not repetitions of former ones. The negative definition o
 
 23. 
 
-178 
+[[178]]
 
 Tarka-Sangraha. 
 
@@ -5708,7 +5708,7 @@ SEOT. XXXIV. ]
 
 Notes. 
 
-179 
+[[179]]
 
 to the mind without the operation of an external object on the sensory nerve, and is thus opposed to perception; while it becomes recollection, if it is sought after and found with difficulty and effort.* is remembrance as above defined and probably includes recollection also, as Naiyâyikas do not seem to make a distinction between a spontaneous and an artificial recollection. Remembrance as above defined may seem to be concerned with impressions gained from perception only; but there is no reason why a former inference treasur- ed up in mind or an impression produced from a previous remembrance should not be remembered as well; and hence * properly speaking is general and comprehends all impres- sions however originally derived. Reminiscence is the act by which we endeavour to recall and re-unite former states of consciousness, and is a kind of reasoning by which we ascend from a present consciousness to a former one. This is akin to gear. Apprehension is the simple knowledge of a fact, and is an act or condition of the mind in which it receives a notion of any olject. Simple apprehension is again divided into two kinds, incomplex and complex, which respectively correspond to Naiyayita निर्विकल्पक and सविकल्पक- a. This is not exactly the sgaa of Nyûya, but it is very near it. Cognition is knowledge in its widest sense, embracing sensation, perception, conception, and notion. According to Kant, cognition is the determined reference of certain representations to an object; that is, to cognize is to refer a perception to an object by means of a conception. A dog knows his master, but does not cognize him, because it has not the faculty of forming a mental conception of the mas- ter. An absent-minded man sees an object, but does not cognize it because his mind is not working to form a notion of the object. The Naiyâyikas expressed this idea by saying that in an age, the property of the external obiect must become the r of the corresponding cognition. 
 
@@ -5718,7 +5718,7 @@ sama potępiłękawach ka
 
 Haywood Critique of Pure Reason, p. 593. 
 
-180 
+[[180]]
 
 Tarka-Sangraha. 
 
@@ -5744,13 +5744,13 @@ mâ.SECT. XXXV. ]
 
 Notes. 
 
-181 
+[[181]]
 
 same characteristic which marks the object must also be the distinguishing property of its notion. Hence V. V. remarks सप्तम्यर्थो विशेष्यत्वम्, meaning that the locative तद्वति denotes that the thing (i. e. घट ) possessing तत् (८. ९. घटत्व) is the object (far) of the apprehension, which has the same तत् for its प्रकार. All this can be briefly expressed by saying that right apprehension is the knowledge of an object as it really exists. The opposite of this is namely, the cognition of a property (an: ) in a thing which does not possess that property (aaa). The cog- nition of silver-ness in a thing which is silver is gar; while the same cognition of silver-ness, if made in a mother-o'pearl which is not silver, becomes T. The use of the quali- fication in the definition of T is made apparent in a combined knowledge of two or more things. Suppose we perceive and qe simultaneously and together, but in- stead of cognizing घट as घट and पटas पट we take घट to be पट and rice versa. Here we have a knowledge which has both घट and re for its objects ( विशेष्य ) and also sara and पटत्व for its properties ( प्रकार ) ; but it is not a मा because घटत्व- प्रकार belongs to the part-cognition which is पदविशेष्यक and vice versa. Hence the necessity of saying that the know- ledge must be तत्प्रकार with reference to the object itself (तइति). 
 
 4. A very subtle objection to the definition is suggested and answered by T. D. The definition Some objections. applies to a cognition of a when we can interpret तद्वति as घटत्वाधिकरणे; but it can- not apply to a cognition of vec itself as residing in a va, for aere is uot the अधिकरण of घट or any other thing : so the expression af is meaningless in this case, and the defini- tion will be अव्यात. The difficulty can be avoided by tak- ing as to mean तत्संबंधवति, so that as घट is the अधिकरण of घटत्वसम्बन्ध, 50 घटत्व is the अधिकरण of घटसम्बन्ध, and the defi nition comprehends both. Similarly the definition of err is too wide as it will apply even to a right cognition, This is in union.' For conjunction being a partial ( cremerara) 
 
-182 
+[[182]]
 
 Tarka-Sangraha. 
 
@@ -5784,7 +5784,7 @@ SEOT. XXXVI. ]
 
 Notes. 
 
-183 
+[[183]]
 
 All these, it seems, will fall under the second division of erref, namely, far, unless of course they have the ad- ditional characteristics of संशय and तर्क. 
 
@@ -5812,7 +5812,7 @@ authority' and 'tradition' which are sometimes employed
 
 † Mansel: Prologom. Log. p. 60. 
 
-184 
+[[184]]
 
 What is Pramâņa. 
 
@@ -5844,7 +5844,7 @@ XXXTI,
 
 Notes. 
 
-185 
+[[185]]
 
 ཝཱ 
 
@@ -5856,11 +5856,11 @@ and not merely the cause of प्रमा. प्रमाण has & double fun
 
 4. Before proceeding further, it will be worth while to notice two varieties of knowledge recog- nized by European logicians, which are apparently left out of Naiyâyika's classi- fication of gf, namely, intuitions and beliefs. Au intuition is any knowledge whatsoever, sensuous or intellectual, which is apprehended immediately, that is, without the instrumen- tality of any sense or mental faculty. Axioms in Geometry, and the notions of time, space and causality are such intuitions, which do not come under any of the heads of aga of the Naiyayikas. Some of these are accounted for otherwise, as by the recognition of time and space as independent entities which are inferred from their effects. The rest will be probably included under a as reminiscen- 
 
-24 
+[[24]]
 
 Intuition and * Belief. 
 
-180 
+[[180]]
 
 Tarka-Sangraha. 
 
@@ -5878,7 +5878,7 @@ An instrument is a cause which is peculiar.
 
 Proximate Cause. 
 
-4 
+[[4]]
 
 1. A ror is defined as a cause which is peculiar. 
 
@@ -5894,7 +5894,7 @@ Notes.
 
 ensure perfect accuracy in the definition of 
 
-181 
+[[181]]
 
 . For exam- 
 
@@ -5914,7 +5914,7 @@ C
 
 करण 
 
-188 
+[[188]]
 
 Tarka-Sangraha. 
 
@@ -5940,7 +5940,7 @@ SECT. XXXVII. ]
 
 Notes. 
 
-189 
+[[189]]
 
 who strikes the blow has certainly a greater share in the murder than the other who simply holds the victim. Some causes are most active and also most essential in production, while others simply aid it. The horse which draws the car- riage is certainly more efficient than the wheels which only facilitate motion by lessening friction. These are causes pre-eminently so called, and are distinguished from other causes by the special name. The , pre-eminence of ther, is therefore said to consist in its activity or effici- ency ( व्यापारवत्व). Hence & करण came to be defined as व्यापार- aqui. But here comes another difficulty. The definition area is obviously inaccurate since it applies to an agent also who is by far the most active in the production, but who is not called a vor. Somehow or other the notion of an instrument or means is involved in that of T, and the agent therefore ought to be excluded. Hence in discussing the definition of प्रमाण as प्रमाकरण, Kejara Misra remarks सत्यपि प्रमातरि प्रमेयेच प्रमानुत्पत्तेरिन्द्रियसंयोगादी तु सत्यविलम्बेनैव प्रमो- त्पत्तेरिन्द्रियसंयोगादिरेव करणम्, * that is, अविलम्बेन कार्योत्पात (im- mediate production) constitutes the r of a , and this is found only in the case of इन्द्रियसंनिकर्ष. Other efficient causes, such as the knower and the object of knowledge are not called करण even though they may be व्यापारवत् because the result is not produced even if they exist. This restriction of करण necessarily led to the abandonment of व्यापारवत्त्व, and the substitution instead of अविलम्बेन कार्योत्पादकत्व, or more accurately फलायोगव्यवच्छिन्नत्व, as a definition of करण. But this farther restriction went too far, as it exclued organs of sense, and in fact all instruments from the class of ru. The moderns boldly accepted this as an er, but the an- cients could not assent to it as the idea of ur was inextri- cably involved in their mind with the notion of an instru- ment. They therefore satisfied themselves by retaining and excluding the agent expressly by inserting in the definition of प्रमाण some such limitation as अनुभवत्वव्याप्य- जात्यवच्छिन्नकार्यतानिरूपितकारणताश्रयत्वे सति. आत्मा or प्रमाता is ex- 
 
@@ -5948,7 +5948,7 @@ e
 
 *T. B. Bom, ed. p. 26. 
 
-190 
+[[190]]
 
 Tarka-Sangraha. [SECT. XXXVII. 
 
@@ -5968,7 +5968,7 @@ sqrqreqared as a distinct view which he disapproves, remarking emphatically ल�
 
 Notes. 
 
-191 
+[[191]]
 
 अतिदेशवाक्यार्थस्मरण as a distinct व्यापार. In the case of शाब्दज्ञान again he seems inclined to prefer the modern doctrine. 
 
@@ -5976,7 +5976,7 @@ Notes.
 
 व्यापारवत् the commentary of the present section. This omission must have been deliberate, for the controversy about surarea had raged furiously, and was too important to be passed over through inadvertancy by such a careful writer as Annam- bhatta. The conclusion seems irresistible that he purposely used an ambiguous word like sterarrer which might apply to either of the two views of aor. 
 
-192 
+[[192]]
 
 Tarka-Sangraha. 
 
@@ -5990,7 +5990,7 @@ A cause is one that invariably precedes the effect.
 
 Cause. 
 
-6 
+[[6]]
 
 ably ( नियत ) precedes ( पूर्ववृत्ति ) its effect 
 
@@ -6014,7 +6014,7 @@ and दण्डत्वजाति would still come in, and can be excluded o
 
 Notes. 
 
-198 
+[[198]]
 
 SHOT. XXXVIII. ↑ 
 
@@ -6036,9 +6036,9 @@ all copies. The reasons for dropping venue from the text are not indeed as stron
 
 as part of the definition; but N. B. is evidently of the contrary opinion, its remark अतोऽनन्यथासिद्धमपि पदं कारणलक्षणे निवेशनीयम् show- ing that it did not find the words in the original. Any doubts on the point however should be removed by the fre in T. D. which is the same in all copies and which shows that the definition began with the word . Besides the wording of T. D. अनन्यथासिद्धत्वे सतीति विशेषणात् also implies that the words were added by the commentary and did not 
 
-25 
+[[25]]
 
-194 
+[[194]]
 
 Tarka-Sangraha. 
 
@@ -6064,7 +6064,7 @@ SEOT. XXXVIII. ]
 
 Notes. 
 
-195 
+[[195]]
 
 the production of a jar, because without que there will be no que and consequently no also. Roer's rendering is therefore incorrect and the word really means a thing which is proved to be antecedent (canse) to the effect, through another or because it accompanies another,' that is, a secondary cause deriving its character through the primary and real cause. 
 
@@ -6082,7 +6082,7 @@ And these are illustrated thus:-
 
 एतेः पञ्चान्यथासिद्धा दण्डत्वादिकमादिमम् । 
 
-198 
+[[198]]
 
 Tarka-Sangraha. 
 
@@ -6116,7 +6116,7 @@ SEOT. XXXIX, ]
 
 Notes. 
 
-197 
+[[197]]
 
 Hence 
 
@@ -6134,7 +6134,7 @@ moon is the
 
 In this case 
 
-198 
+[[198]]
 
 Tarka-Sangraha. 
 
@@ -6158,7 +6158,7 @@ SECT. XXXIX. ]
 
 Notes. 
 
-199 
+[[199]]
 
 While the Bauddhas hold that a real effect is produced. from an unreal cause, that is, from absolute non-existence, the Vedantins maintain the opposite view of the reality of the cause and the total unreality of effect. The Naiyâyikas and Sâñkhyas accept the reality of both cause and effect, but while the latter hold both of them to be always and simul- taneously existing, the Naiyâyikus consider the effect to be non-existing before creation. In the Baudha system, creation is the production of a thing out of nothing; in Nydya it is the production of a new thing out of an old one; in Sâñkhya it is merely the evolution of the latent properties of the cause itself; in Vedanta it is a mental conception only, and corres- ponds to no actual change in the cause itself. 
 
@@ -6174,7 +6174,7 @@ Five reasons are given for rejecting the Nyaya doctrine of non-existent effect, 
 
 † Sankhya-T. K. 10. 
 
-200 
+[[200]]
 
 Tarka-Sangraha. 
 
@@ -6188,7 +6188,7 @@ not be qe at all.
 
 Notes. 
 
-201 
+[[201]]
 
 The same atoms can be used to make a jar and a saucer; 
 
@@ -6198,9 +6198,9 @@ If
 
 A little consideration will suffice to show that the असत्कार्यवाद is the basis of Realism, while सत्कार्यवाद fuovitably leads to all sorts of Ideal and Pantheistic theories. All the important conceptions of Nyaya, such as those of atoms. God, souls, Samucâya, Višesha and Abhire will be found, if properly analyzed, to depend ultimately on this fundamental doctrine of non-existent effect, and it was therefore to be wished that the anthor had said something about it in the 
 
-26 
+[[26]]
 
-202 
+[[202]]
 
 Tarka-Sangraha. 
 
@@ -6224,7 +6224,7 @@ SEOT. XXXIX. ]
 
 Notes. 
 
-203 
+[[203]]
 
 deductive reasoning they carried to perfection, but it could not avail them very far. The result has been that though the subsequent speculations are good specimens of correct logic, the preliminary notions on which they are based remain crude and often groundless. Thus, while the defini- tion of a r is guarded on all sides from the usual three faults of a definition by carefully chosen qualifications, no attempt is made to explain the fundamental notions involved in it. 
 
@@ -6248,7 +6248,7 @@ causes is not made quite clear. A jar is made of particles of earth that are hel
 
 es. 
 
-204 
+[[204]]
 
 Tarka-Sangraha. 
 
@@ -6264,13 +6264,13 @@ SECT. XXXIX. ]
 
 Notes. 
 
-205 
+[[205]]
 
 combined might produce totally different products. Heat for instance may be produced either by friction or by electricity; and therefore neither can be the cause of heat according to the Nyaya definition of a cause, as neither is invariably (fra) antecedent (a) to the ard. Perhaps the Naiyayika will include both friction and electricity among efficient canses which may be optional, or he will call them and, the vibrations of particles by either being the real proximate ruuse of heat; but that will not improve his position very much. Besides while the two controversialists have confined themselves to material causes they have not given much attention to the efficient ones which are generally as impor- tant as, if not often more so than, the material causes. The controversy has been in fact carried on more on spemlative than on practical gronnds; and consequently the result also has been barren. Bacon's strong condemnation of the sel.ool- men of medaival Europe applies in a great measure to their prototypes, the Indian systematists. 
 
 13. The real difficulty of the solution lies in the metaphy- sical conception of causality, which when analyzed resolves itself into mere sequence of things or successive events. Kant's explanation of the insolubility of this problem is that the conception of causation is intuitive like those of time and space, and cannot be proved by reasoning as it is anterior to and is itself in fact the basis of all process of reasoning. The Vedantins alone of all Indian systematists appear to have sufficiently grasped this idea of causality, and have expressed it in their own way by calling कार्यत्व, anu आरोपित or f. The realism of the Naiyāyikas prevents them from accepting any such view. 
 
-206 
+[[206]]
 
 Tarka-Sangraha. 
 
@@ -6300,7 +6300,7 @@ SHOT. IL. ]
 
 Notes. 
 
-207 
+[[207]]
 
 the colour of the cloth-piece because they are far, and so there can be no connection between them. ey and पटरूप are not समानाधिकरण, for while तन्तुरूप resides in the threads, the y resides in the cloth. They are therefore connected only indirectly (data), which is explained by S. C. as पटरूपसमवायिकारणीभूतपदसामानाधिकरण्यस्य तस्त्रे सत्त्वात् परंपरासम्बन्धेन पदरूप सामानाधिकरण्यमपि सुलभमेवेतिभावः । परंपरा- संबंधश्व समवायिसमवायः ; that is, while तन्तुसंयोग is समानाधि- करण with पट by the समवाय relation, the तन्तुरूप is so with पट- रूप by the combined relation, समवायिसमवाय . . समवाय with the पट the समवायिकारण of पटरूप. Both तन्तुसंयोग and तन्तुरूप are however called the असमवायिकारण of पट and पटरूप respectively. S. C. therefore gives, as a joint definition of the two sorts of non-intimate causes, समवाय स्वसमवायिसमवाया- न्यतरसंबंधेन कार्येण संकस्मिन्नर्थे समवायेन प्रत्यासन्नत्वे सति आत्मविशेष- gonga íà ##antur; that is, a non-intimate cause should reside by war, in a common thing in which कार्य resides either by समवाय OF समवायसमवाय, and should at the same time be different from the special qualities of the soul. The latter saving clause is needed to prevent cogni- tions produced from them, simply because both are inti- mately united with the same for the soul. It is of course needless to remark that the word error in the defini- tion of असमवायिकारण in the text is to be taken for समवायि- 
 
@@ -6316,7 +6316,7 @@ t
 
 case of the cloth-piece. Instrumental causes are of two sorts, universal' which are eight (:, avaient, दिक्काली, and अदृष्टम् including धर्म and अधर्म) aud special, ' which are innumerable. The agent also appears to be in- cluded in this third class, which is as a matter of fact miscellaneous, and comprehends everything that is not in- cluded in the first two. Others first divide cause into two sorts, principal (ger) and accessary (erger), and then split 
 
-208 
+[[208]]
 
 Tarka-Sangraha. 
 
@@ -6338,7 +6338,7 @@ SEOT. XL. ]
 
 Notes. 
 
-209 
+[[209]]
 
 When a potter makes a jar, he must first have in his mind an idea of what a jar is; or when a house is built, the architect must first draw a plan on paper. This is the causa formalis of Aristotle, and appears to combine in itself two different conceptions of the Naiyâyikas, namely, that of ana which is regarded as antecedent and necessary to the production of all things, and that of ergaangery which often being a 
 
@@ -6346,9 +6346,9 @@ y corresponds to the plan or shape of the product. The second cause of Aristotle
 
 6. In addition to the above four causes, the model or exemplar was considered as a necessary cause by the Pythagoreans and Platonists, which model was numbers according to the former, and ideas according to latter. Naiyâyikas conceived * जाति ( घटत्व or गोल्द ) to be eternally existing, in imitation of which the particular jars or cows were formed. In ad- dition to the platonic enumeration of causes, Seneca insisted 
 
-27 
+[[27]]
 
-210 
+[[210]]
 
 Tarka-Sangraha. 
 
@@ -6356,7 +6356,7 @@ Tarka-Sangraha.
 
 that time, space and motion ought to be regarded as causes. Naiyayikas included the first two under the head of univer- sal causes, and assigned a peculiar position to the last under the name of a. Modern science has practically abandoned all these distinctions as useless and often impos- sible. As has been pointed out, it is sometimes very difficult to single out the material cause of a compound product from the efficient causes, while the formal and final causes are often nothing more than the thing itself. The only real distinc tion perhaps is that between material and non-material or instrumental causes, that is, those which are inseparable from the product and those which are separable. Consequent- ly Vedantins mention only two causes (material) and fat ( instrumental). 
 
-44 
+[[44]]
 
 SECT. XLI, TOH करणम् 
 
@@ -6374,7 +6374,7 @@ Notes.
 
 SECT. XLII. HEYHA प्रत्यक्षम् 
 
-211 
+[[211]]
 
 Perception is the peculiar cause of Perceptive knowledge. Perceptive knowledge is the knowledge born of the contact of the organ with (external) object. It is two-fold, un- differentiated and differentiated. Of these, undifferentiated is the knowledge of a thing without its qualities, e. g. this is something. Differentiated is the knowledge of a thing with all its qualities, e. g. he is Dittha, he is a Brahmin, he is black. 1. करण, कारण, and कार्य being thus defined, the author now proceeds to define in order the four proofs and the four kinds of apprehension which stand in the relation of causes and effects respectively. Annambhaṭṭa uses the word ger for both the proof and the resulting knowledge, but other writers have done better in giving a separate name to the latter, viz. साक्षात्कार, so that the proof is defined as साक्षात्कारज्ञानकरणम्. Others again define प्रत्यक्ष as प्रत्यक्षप्रमाकरणम् * or साक्षात्कारिप्रमा- 
 
@@ -6390,7 +6390,7 @@ rf differentiates rerer from other kinds of knowledge.
 
 †T. B. Bom. ed. p. 27. Vat, on by G. S. I. 1. 4. 
 
-212 
+[[212]]
 
 Tarka-Sangraha. 
 
@@ -6408,7 +6408,7 @@ SBOT. XLII. ]
 
 Notes. 
 
-213 
+[[213]]
 
 tion is the best,and has been most commonly accepted. Its अव्याप्ति on ईश्वरप्रत्यक्ष can be explaind away, as N. B. remarks, by an admission that the definition being borrowed from Gotama himself than whom no higher authority can be cit- ed, must be regarded as not intended to apply to ईश्वरप्रत्यक्ष- - God's knowledge in fact stands on an altogether different level from our own, and the divisions and definitions of the human knowledge ought not to be extended to the divine. The divisions and sub-divisions of g, for instance, given above do not at all apply to God's knowledge. There can be no past remembrance, or recollection in the case of God, for all His knowledge is presnt and eternal. There is no fare for Him. Similarly neither inference, nor comparison, nor any other operation of derivative know- ledge can be attributed to Him, who being Omnicient perceives all things directly and does not require the aid of any mediate proof. All knowledge of God is therefore 
 
@@ -6442,7 +6442,7 @@ fa i. e. divine
 
 न्यलक्षण ज्ञानलक्षण योगज 
 
-214 
+[[214]]
 
 Divisions of प्रत्यक्ष- 
 
@@ -6468,7 +6468,7 @@ The distinction between सविकल्पक and निर्विकल्
 
 Notes. 
 
-215 
+[[215]]
 
 प्रत्यक्षकरण just as परामर्श is that of अनुमितिः bnt the word जन्य need not be here strictly construed in the sense of being directly or immediately produced. 
 
@@ -6482,7 +6482,7 @@ Nirvikalpaka.
 
 * See Note under dec. 35, p. 180, Supro. 
 
-216 
+[[216]]
 
 Tarka-Sangraha. 
 
@@ -6504,7 +6504,7 @@ The difficulty about Nirvikalpaka.
 
 Notes. 
 
-217 
+[[217]]
 
 7. It may not be amiss here to go a little deeper into the merits of this theory of two sorts of perceptive knowledge. In the first place it should be noted that although orthodox systematists generally agree in the Nyaya doctrine of the two kinds of knowledge, the Bauddhas radically differ from alone to be the true per- 
 
@@ -6532,9 +6532,9 @@ and partly on previous knowledge. When a ship for instance appears on the ocean 
 
 * Sânkhya-T. K. p 93. † V. S. Up. Culo. ed. 358. 
 
-28 
+[[28]]
 
-218 
+[[218]]
 
 Tarka-Sangraha. 
 
@@ -6562,7 +6562,7 @@ A partial solution.
 
 Notes. 
 
-219 
+[[219]]
 
 Here indeed we have a dilemma which cannot be solved by observation or reasoning, be- cause it lies at the root of observation itself. Various solutions, more or less plausible, have been offered, out of which we are concerned with only that which is furnished by later Naiyâyikas, and which, though not quite satisfactory, at least absolves them from inconsistency. fafates according to this school of Naiyáyihas is neither प्रत्यक्ष, nor अनुमिति, nor any other kind of g, and can hardly come under itself, as it gives rise to no व्यवहार. 
 
@@ -6580,7 +6580,7 @@ fafoners (indeterminate)
 
 fafarere having no प्रकारता is thus discriminated from all determinate cognitions such as percepts, judgments, analogies and verbal knowledge, and may be given the name of sensa- tion, while the g may be called percept proper. This is in accordance with Kant's division of apprehension into perception proper and sensation proper. This restric- tion of the meaning of the words perception and percept and their discrimination from sensation proper are accepted by a high authority. "Sensation," says Prof. Fleming, "pro- perly expresses that change in the state of the mind which is produced by an impression upon an organ of sense (of which change we can conceive the mind to be concious, without any knowledge of external objects) : perception on the other 
 
-220 
+[[220]]
 
 Tarka-Sangraha. 
 
@@ -6604,7 +6604,7 @@ which comes after संनिकर्ष may be called the अबान्त�
 
 Notes. 
 
-221 
+[[221]]
 
 When निर्विकल्पकज्ञान is फळ, इन्द्रिय is the करण, and संनिकर्ष is व्यापार; when सविकल्पक is फल, संनिकर्ष is the करण and निर्विकल्पक is व्यापार; and when इच्छा which results from knowledge is फe, fafonere is the करण and सविकल्पक is व्यापार. But this compromise is not accepted by later writers. 
 
@@ -6622,7 +6622,7 @@ rar as the product of the contact of the organs of sense with their appropriate 
 
 * T. B. Bom. ed. P. 27. 
 
-222 
+[[222]]
 
 Tarka-Sangraha. 
 
@@ -6640,7 +6640,7 @@ What things are perceived and how.
 
 Notes. 
 
-223 
+[[223]]
 
 2. The subject is involved in some intricacy owing to the difference that exists in the perceptive capa- city of the various organs. Some organs are said to perceive substances and qualities, while others perceive qualities only. Hence we must distin- guish between the perception of substances and the percep- tion of qualities, actions and generalities. गुण, कर्म and सामान्य are, according to all, perceived by their respective organs and by means of appropriate contacts. Perception of these therefore is divided into six kinds according to the six organs of sense, namely घ्राणज, रासन, चाक्षुष, स्पार्शन, श्रोत्रिय, and Я, while the things perceived are respectively the qualities, odour, savour, colour, touch, sound, pleasure, and pain, as well as their generalities and negations.* Substan- ces, however, are held to be perceivable by two senses only, the sight and the touch, the remaining four organs being capable of perceiving qualities only. As to the perception of substances by sight there is not and cannot be any doubt, but there is a difference of opinion as to whether the organ of touch is capable of perceiving a substance. The ancient Naiyayikas answer is in the negative, asserting that 
 
@@ -6666,7 +6666,7 @@ that
 
 ‡ B. P. 25. 
 
-224 
+[[224]]
 
 त्वक् 
 
@@ -6696,7 +6696,7 @@ SHOT. XLIII, ]
 
 Notes. 
 
-225 
+[[225]]
 
 The sixth contact, 
 
@@ -6712,9 +6712,9 @@ i. e.
 
 * S. M. Cale. ed. p. 53. 
 
-29 
+[[29]]
 
-226 
+[[226]]
 
 Tarka-Sangraha. 
 
@@ -6724,11 +6724,11 @@ being named संयुक्तविशेषणविशेष्यभा�
 
 SBOT. XLIII. 
 
-1 
+[[1]]
 
 Notes. 
 
-227 
+[[227]]
 
 expressed in the text as being produced by the compound contact विशेषणविशेष्यभाव. 
 
@@ -6746,7 +6746,7 @@ Varieties of the sixth contact.
 
 7. As the negation of घट on भूतल is perceived by संयुक्तविशे- पणतासंनिकर्ष, so the negation of घटरूप on घटसंख्या or vice versa is perceived by संयुक्त- समवेतविशेषणता, the eye being संयुक्त with घट which is समवेत with संख्या of which रूपाभाव is a विशेषण. Simi- larly the negation of पटरूप on घटसंख्यात्व is perceived by संयुक्त (घट) समवेत (संख्या) समवेत ( संख्यात्व) विशेषणता; and so on with other organs and the negations of their corresponding objects. शब्दाभाव however is perceived by simple विशेषणता not इन्द्रिय- संयुक्तविशेषणता, for शब्दाभाव is the विशेषण of श्रोत्र itself as 
 
-228 
+[[228]]
 
 Tarka-Sangraha. 
 
@@ -6754,7 +6754,7 @@ Tarka-Sangraha.
 
 the organ is identical with array which is the real nor of शब्दाभावः शब्दत्वाभाव (ie the अभाव of are on खत्ब) is appre- hended by इन्द्रियसमवेतविशेषणता. * Both विशेषणता and विशेष्यता are therefore of two kinds, इन्द्रियविशेषणता - शेष्यता simply, and इन्द्रियसंबद्धविशेषणता - शेष्यताः the first two in the perception by श्रोत्र and correspond to समवाय and समवेतसमवाय contacts, the latter two in the case of other organs and correspond to the other three contacts. विशेषणविशेष्यभाव mentioned by Anam- bhaṭṭa is therefore not a simple contact but has five varieties, corresponding to the first five contacts, although all of them are comprised under one name as they all have a common element विशेषणता or विशेष्यता. 
 
-4 
+[[4]]
 
 Anupalabdhi 
 
@@ -6772,7 +6772,7 @@ SHOT. XLIII. ]
 
 Notes. 
 
-228 
+[[228]]
 
 two, and that the absence of the one must be ascertained before the other can be apprehended. This ascertainment of the absence of घट, or अनुपलब्धि, is therefore deemed to be a necessary condition for the perception of IA; that is, अनुपलब्धि is a सहकारी ( accessory ) of the चक्षुरिन्द्रिय which perceives घटाभाव on भूतल. Now what is this अनुपलब्धि ? It is not simply the not-perceiving or not-finding; for though we do not perceive e in darkness, we do not also perceive aarara there. The gyfer (non-perception) must be तर्कितप्रतियोगिसत्त्वविरोधि, that is, must be inconsistent with the hypothetical assumption of the existence of its af T.' It is not sufficient that we do not perceive qe; we must not perceive it in a place, where from all surrounding cir- cumstances we would naturally expect to find it, but do not owing to its actual absence. The age must therefore be preceded by an ascertainment that no unfavourable circum- stances such as darkness exist which would prevent even a present from being perceived. T. D. 's expression afta- प्रतियोगिसत्त्वविरोध्यनुपलब्धि has been dissolved and interpreted by Nilakantha in two ways both of which really convey the same meaning. The simpler method is तर्कितमारोपितं यत्प्रति- योगित्वं तद्विरोधिनी याऽनुपलब्धिः ' that non-perception which is inconsistent with the assumed existence of प्रतियोगी ' तर्क is an assumption or hypothesis (a reductio ad absurdum as it is sometimes called) which is for a moment taken for granted for the purpose of proving the contrary. So here we first assume the प्रतियोगिसत्त्व, e the existence of घट, in the place, and then reject it as false because that adfer is not perceived although all the conditions are favourable. Our reasoning is यद्यत्र घटोऽभविष्यत्तर्हि भूतलमिवाद्राक्ष्यत्, if there had been here, we would have necessarily perceived it just as we perceive ',' the perception of a showing that the usual conditions for rug are existing. By this 
 
@@ -6780,7 +6780,7 @@ $
 
 we hypothecate the existence of in the place. But this hypothecation is inconsistent with the actual fact that we do not perceive the e, and must be therefore rejected. In this way our non-perception of a which was doubtful at first is made certain by the intermediate hypothecation 
 
-230 
+[[230]]
 
 Tarka-Sangraha. 
 
@@ -6792,7 +6792,7 @@ and its rejection. It is this fully ascertained non-perception that assists the 
 
 Notes. 
 
-231 
+[[231]]
 
 is 
 
@@ -6810,7 +6810,7 @@ The Nyaya view of Preception as distinguished from that of others.
 
 * Veddata-Paribháshá, Cale, ed, p. 25. 
 
-232 
+[[232]]
 
 Tarka-Sangraha. 
 
@@ -6830,7 +6830,7 @@ SHOT. XLIV. ]
 
 Notes. 
 
-253 
+[[253]]
 
 now been partially abandoned chiefly owing to the powerful criticism of Kant, but its enormous influence on subsequent philosophical thought cannot be doubted. Similarly the Naiyayika's doctrine of af was afterwards considerably modified by Vedantins and others, but not before it had given a decided turn to philosophical speculations in India. 
 
@@ -6846,9 +6846,9 @@ Inference anaTM lyzed.
 
 2. It will be clear from the above that an inference when simplified always consists of three terms denoting respectively हेतु, साध्य and their mutual relation of invariable concomit- ance, any two of which when given necessarily lead to a 
 
-30 
+[[30]]
 
-234 
+[[234]]
 
 Tarka-Sangraha. 
 
@@ -6880,7 +6880,7 @@ will give rise to
 
 Notes. 
 
-235 
+[[235]]
 
 rest, but only such a one as besides being As a matter of fact 
 
@@ -6894,7 +6894,7 @@ Comparison of the
 
 Aristotelion with the Naiyayika syl- logism. 
 
-236 
+[[236]]
 
 Tarka-Sangraha. 
 
@@ -6922,7 +6922,7 @@ SECT. XLIV.
 
 Notes. 
 
-237 
+[[237]]
 
 There is humanity in Socrates; 
 
@@ -6946,7 +6946,7 @@ The only difference between this and former syllogism is that here in the fourth
 
 6. The above distinction between the forms of the Aristotelian syllogism and Sanskrit Nyaya is no doubt rather subtle, and cannot be fully grasped by a student in a prelimi- nary stage; but it is very important as it explains the peculiar form assumed by the syllogism of the Naiyayikas. It is referred to here in order to show the exact significance of Annambhaṭṭa's defintion of quest. The Naiyâyika grâfa is essentially based on परामर्श, and the form of परामर्श is largely 
 
-238 
+[[238]]
 
 Tarka-Sangraha. 
 
@@ -6966,13 +6966,13 @@ SEOT. XLIV..]
 
 Notes. 
 
-239 
+[[239]]
 
 unperceived. It is free from some objections to which Annam- bhatta's definition is liable. One such objection is noted and answered by T. D., namely, that the definition of eg- अनु- मिति ( परामर्शजन्यज्ञानत्वं ) would extend to संशयोत्तरप्रत्यक्ष, which too is produced by a kind of intermediate ref. When one sees indistinctly some elongated substance standing at a distance, one first doubts whether it is a post or man. Then the observer examines it carefully, and on perceiv- ing hands and feet to it he concludes that it is a man and not a post. This last conclusion ought to be an a for it is derived from a हेतु, करादिमत्त्व. We reason पुरुषत्व- विशिष्टोऽयम् । करादिमत्त्वात् । यो यः करादिमान् स स पुरुषः । यथा देव दत्तः । and so on. This would be an अनुमिति, although we usually call it erg because we actually perceive the man after the intermediate reasoning. Vatsyâyana's definition would obviously exclude it, for here although we reason we do not infer an unperceived thing from the perceived, both and being actually perceived. The answer given by T. D. is somewhat different. Similarly there will also be अतिव्याप्ति on सविकल्पकज्ञान which is got after some sort of an unconscious process of reasoning. We first see a thing indistinctly and cognize its property piangere separately; then we infer from the latter that the thing is a jar. Similarly cognitions derived from qura and gree also fall under and are actually so included by the Vaiseshikas and Bauddhas. But we cannot include these cognitions under for they give rise to a different consciousness ( अनुव्यवसाय ) such as साक्षात्करोमि or उपमिनोमि wiile in an अनुमिति the consciousness is अनुमिनोमि. The definition of agafa is therefore faulty, in as much as it applies to cognitions that are not aga. T. D. gives one answer to both this and the former objection, viz. that although there is परामर्श in संशयोत्तरप्रत्यक्ष, it is not accompanied by qerar which is a necessary condition of an 
 
 अनुमान 
 
-240 
+[[240]]
 
 Tarka-Sangraha. 
 
@@ -6992,7 +6992,7 @@ An inference has been already described as the application of a general truth to
 
 Notes. 
 
-241 
+[[241]]
 
 absence of सिद्धि, but also an absence of सिषाधयिषाविरह, or rather the absence of a सिद्ध which is सिषाधयिषाविरहसहकृत. In 
 
@@ -7012,9 +7012,9 @@ rear left to be ascer- The above definition of ear which is taken by Annambhatta
 
 , because the hearer being in the interior of the house. never sees the clonds. Hence N. B. on Sect. 51, having stated the objection, remarks: प्राची लक्षणं विहाय नवीनैरनुमि- त्युद्देश्यत्वं पक्षत्वमिति स्थिरीकृतम्. This new definition of पक्षता adopted by the moderns in preference to the one accepted by Annambhatta is अनुमित्युद्देश्यत्वम् or अनुमितिप्रयोजनकत्वम्, which being very wide is not likely to exclude any thing. 
 
-31 
+[[31]]
 
-242 
+[[242]]
 
 Tarka-Sangraka. 
 
@@ -7042,11 +7042,11 @@ SHOT. XLIV. ]
 
 Notes. 
 
-243 
+[[243]]
 
 on the top of the mountain. This is the reason, as has been already pointed out, why qraf is defined as the knowledge of quar, and not that of merely; for it is not any smoke but smoke when cognized as a f of the gr that produces egna. Nor is it sufficient to .cognize smoke on any mountain, but the cognition must take place on a mountain which is a qr, that is, which possesses the rear as above defined. Hence far may be fully defined as पक्षतावच्छेदकावच्छिन्नविषयता which is paraphrased as सिषाध- सिद्ध्यभावरूपा या पक्षता तस्या अवच्छेदकं यत्पर्वतत्वं तेनावच्छिन्न विषयो यस्य स धूमस्तत्ता, ' the smoke as conditioned by the mountain which determines in this case the sphere of agrar.' The knowledge of smoke so conditioned leads to eat when additionally qualified by a knowledge of the व्याति. व्याप्ति विशिष्टपक्षधर्मताज्ञानम् cannot be dissolved, says Mitakantha, ag व्याप्तिविशिष्टे या पक्षधर्मता तस्य ज्ञानम्, ' cognition of पक्षधर्मता in a smoke that is already known to be afr.' This would accord with Aristotle's method, as has been already pointed out, which first states the sun in the major premiss, and then realizes it in the thing denoted by the minor term; but such a dissolution, says Nilakantha, would exclude an inference of the kind which is always based on ક contrary negative concomitance, and in which the agrafar belongs not to the thing which is enarrare but to it contradictory. The compound therefore must be taken as a कर्मधारय, being dissolved व्याप्तिविशिष्टं च तत्पक्षधर्मताज्ञानं च, know- ledge of पक्षधर्मता as qualified by the ( knowledge of ) व्याप्ति ' Mere knowledge of veraar is obtained by perception when one sees the line of smoke on the mountain-top, but it alone does not produce अनुमिति. It becomes परामर्श when combined with a knowledge of व्याप्ति after व्याप्तिस्मरण. Hence the remark of T. D. व्याप्तिविषयकं यत्पक्षधर्मताज्ञानम्. Technically expressed व्याप्ति is not a विशेषण of पक्षधर्म ( smoke ), but & प्रकार of the again it is a property of the perceptive knowledge of smoke on the mountain, and not a quality of the smoke 
 
-244 
+[[244]]
 
 Tarka--Sangraha. 
 
@@ -7066,7 +7066,7 @@ MENSION •
 
 I have therefore contented myself with the ordinary word 
 
-6 
+[[6]]
 
 place to express the idea of ar. For the same reason it is misleading though not positively incorrect to translate 
 
@@ -7078,11 +7078,11 @@ by
 
 SHOT. XLIV. ] 
 
-6 
+[[6]]
 
 Notes. 
 
-245 
+[[245]]
 
 ' middle term,' as some have done. हेतु or rather हेतुवाक्य, as a part of the five-membered syllogism, can best be render- ed by 'reason,' and corresponds to minor premiss, while can be translated by sign. Terms of the formal syl- logism ought not to be indiscriminately applied to things which form part of the previous process of thinking. The same caution is required in applying other terms derived from European logic to their Sanskrit counterparts. 
 
@@ -7104,7 +7104,7 @@ But what does concomitance mean, and what does its invariability signify? The il
 
 Wherever there is sinoke there is fire, gives no doubt some idea of this invariable concomitance, but it does not furnish us with a sure test as to how be found out and under what conditious it is must therefore further analyze the two notions * व्याप्ति, viz. that of साहचर्य • co-existence ' or • concomi- tance,' and that of universality or rather the invari- ability ' of this साहचर्य. साहचर्य is the सामानाधिकरण्य, Co- existence in one and the same place, of and wrer; and when this coexistence of one thing with another is observed wherever the other thing exists, the ad is called fava ( fauna adari ) or invariable, and the thing so found co- existing is said to be of the other thing. Thus fire is always found where smoke exists, and is therefore of ; while as smoke is not always observed along with fire as in a red-hot iron-ball, smoke is not the ear of a. There is no doubt a am between fire and smoke, but the uma is of fire on smoke, and not vice versa; for fire, besides existing in all places occupied by smoke, exists in others 
 
-246 
+[[246]]
 
 Tarka-Sangraha. 
 
@@ -7140,7 +7140,7 @@ the bigness of the thing itself, but the number of instances in which it is foun
 
 ? 
 
-248 
+[[248]]
 
 Tarka-Sangraha. 
 
@@ -7168,7 +7168,7 @@ Notes.
 
 器 
 
-249 
+[[249]]
 
 
 
@@ -7190,9 +7190,9 @@ genes are comparatively few and simple; but the other class comprises those on
 
 1 B. P. 141-3. 
 
-32 
+[[32]]
 
-250 
+[[250]]
 
 Tarka-Sangraha. 
 
@@ -7216,7 +7216,7 @@ TE,it must also exist between their negations taken in the in- verse order. Thus
 
 Notes. 
 
-251 
+[[251]]
 
 therefore that the same proposition यत्र बन्ह्यभावस्तत्रधूमाभाव would be व्यतिरेकव्याप्ति if the resulting अनुमिति is पर्वतो वह्निमान् and would be an अन्वयव्याप्ति if the अनुमिति is पर्वतो धूमाभाववान्, the in the latter case being are. Udayana according- ly defines व्यतिरेकव्याप्ति as साध्याभावव्यापकीभूताभावप्रतियोगित्वम्, which Visvanātha puts in simple language "साध्याभावव्यापकत्वं हेत्वभावस्य यद्भवेत्. * There is much difference of opinion about व्यतिरेकव्याप्ति, which will be noticed when we come to the व्यतिरेकि अनुमान; but it may be remarked here that according to many Indian scholastics, and according to European logicians generally, व्यतिरेकव्याप्तेि is not a different व्याप्ति but a mere restatement of the array obtained by a sort of conver- sion of the major premise. The process however is not simple conversion, but corresponds to what Prof. Bain calls Obverted Conversion or Contraposition. The predicate in a Universal Affirmative proposition being always more ex- tensive than the subject, it requires to be either limited or obverted when the proposition is converted. Hence the con- version of an A proposition always requires two processes first Obversion and then Conversion. Obversion is the denial of the predicate, while Conversion is the transposition of the subject and the predicate. Thus to give Prof. Bain's own example of the Obvertive Conversion of an A proposition,† 
 
@@ -7244,7 +7244,7 @@ Now let us put the Nydya stock instance into the general form All X is Y, and we
 
 † Bain: Deductive Logic, p. 116. 
 
-252 
+[[252]]
 
 Tarka-Sangraha. 
 
@@ -7286,7 +7286,7 @@ SHOT. XLV. ]
 
 Notes. 
 
-253 
+[[253]]
 
 on the 
 
@@ -7298,7 +7298,7 @@ and is based upon a carefgara, for one man cannot con- vince another without bei
 
 * Nyáya-Bindu-Tiko Bibl. Ind. p. 21. † P. B. ed. p. 251. 
 
-254 
+[[254]]
 
 Tarha-Sangraha.. 
 
@@ -7310,7 +7310,7 @@ SEOT. XLV. ]
 
 Notes. 
 
-255 
+[[255]]
 
 the real inferential operation. Practically every mental operation can be clothed in words, while on the other hand every syllogism presupposes a mental inference; so both are one, or rather they form two parts of the same process of inference. Consequently Aristotle takes account of syllogism only, ignoring the rear altogether, and the Naiyâyikas also have done the same. Prof. Max Müller is therefore totally wrong when he remarks:-- "What is called by Annambhatta the conclusion for one- self, corresponds totidem verbis with the first form of Aristotle's syllogism. What is called the conclusion for others seems more irregular on account of its five members, and of the additional instances which seem to vitiate the syllogism." It appears that Prof. Max Müller like many other Western scholars failed to understand the real signi- ficance of the division of ref and teref. 
 
@@ -7320,7 +7320,7 @@ the real inferential operation. Practically every mental operation can be clothe
 
 P. 10-1. 
 
-256 
+[[256]]
 
 Tarka-Sungraha. 
 
@@ -7344,7 +7344,7 @@ SBOT. XLV. ]
 
 *Notes. 
 
-257 
+[[257]]
 
 general law that every quality must have a substratum. wara ge is thus in one sense opposed to qua, the latter, as Váchaspati remarks, being reasquetaraf qy, while the former is अदृष्टस्वलक्षणसामान्यविषय. * पूर्ववत् is the inference of an object whose peculiar property (gu), which is also the common characteristic (rare) of its class such as the बह्नित्व of बह्नि, is previously observed (a), while the स्वलक्षण of an 
 
@@ -7360,9 +7360,9 @@ or
 
 † See Sect. 48, Notes 3 & 4 p. 237. Infra. 
 
-33 
+[[33]]
 
-258 
+[[258]]
 
 ཐ 
 
@@ -7384,7 +7384,7 @@ treated of in the Nyaya system? To get an answer to this question we must consid
 
 Notes. 
 
-259 
+[[259]]
 
 8. It will be remembered that 
 
@@ -7404,7 +7404,7 @@ of
 
 j 
 
-260 
+[[260]]
 
 Contradictory Instances, 
 
@@ -7428,7 +7428,7 @@ Smoke is the effect of firc;
 
 .. Smoke is invariably associated with fire. 
 
-261 
+[[261]]
 
 But this syllogism is quite different from the a des- cribed above and is practically useless as it involves an argu- ment in a circle. If smoke is invariably associated with fire, because it is the effect of fire, how do we know that it is such an effect? This referera of smoke and fire can only be deduced from the observed invariable concomitance of the two, and hence the syllogism is defective as assum ing a minor premise that is really derived from the conclu sion. The therefore must ultimately rest on the arg✯ 
 
@@ -7440,7 +7440,7 @@ Inductive syllo-
 
 We can never saya Grote "observe all the particulars of a class, which is indefinite as to number of particulars and definite 
 
-262 
+[[262]]
 
 Tarka-Sangraha. 
 
@@ -7468,7 +7468,7 @@ SHOT. XLV. ]
 
 Notes. 
 
-263 
+[[263]]
 
 inference, proceeding from the known to the unknown, the unknown in its case being the general notion which is derived from the known particulars. Naiyayikas however will not accept this, because they regard Induction not as an infer- ence but as a kind of extraordinary perception (starea ). T. D. says that although we can never actually observe all the cases in which fire is associated with smoke, the invari- able concomitance obtaining between the class fire and the class smoke is known by the अलौकिकप्रत्यक्ष called सामान्य- लक्षणा प्रत्यासति. This kind of extraordinary perception has already been explained as the process by which after perceiv- ing an individual thing such as a Te, we at once cognize its an ea, by the law of association. When two things are closely associated together, the perception of one neces- sarily leads to the immediate apprehension of the other. This is not an inference, for there is neither q, nor any 
 
@@ -7478,7 +7478,7 @@ inference, proceeding from the known to the unknown, the unknown in its case bei
 
 प्रत्यक्ष. 
 
-264 
+[[264]]
 
 Tarka-Sangraha. 
 
@@ -7492,7 +7492,7 @@ Corresponding va- rieties in Indian and Western logic.
 
 the, ently accounted for by the obversion and conversion of propositions. 
 
-3 
+[[3]]
 
 SECT. XLVI. qaragar: 
 
@@ -7514,19 +7514,19 @@ SECT. XLVI. ]
 
 Notes. 
 
-285 
+[[285]]
 
 verbal knowledge which gives rise to the quasf ( i. e. in the hearer's mind) which is the last and immediate cause of अनुमिति' In other words न्याय is a series of propositions that produce in another's mind the same kind of gufanana as has already been produced in the speaker's mind by his own mental reasoning. This fairly corresponds to Aristotle's notion of syllogism which is defined "a speech (or enunciation) in which certain things (the premises) being supposed, something different from what is supposed (¿.e. the conclusion,) follows of necessity; and this solely in virtue of the supposi- tions themselves."* Unlike Aristotle however who gives three premises to the syllogism, the Naiyâyikas make it consist of five parts or limbs (aqua), namely, Assertion (a), Reason () Proposition or Example (TET), Application ( ) and Deduction or Conclusion (fanax). Assertion is defined as the declaration of the 
 
 साध्यनिर्देशः साध्य as existing on the पक्ष' f or साध्यवत्तया पक्षवचनं, as T. Do puts it, 'speaking of чr as possessing the T.' Its purpose is to prepare the hearer beforehand as to what thing he should except to be proved by the syllogism, and it is therefore analogous to the Problema or Questio of the older European logicians. After the Assertion is made, one is naturally tempted to ask, whence, or why, or what evidence; and their answer to this query is the Reason which declares the mark or evidence that proves the existence of साध्य on पक्ष, and which is generally but not necessarily in the ablative case. Every word in the ablative is of course not a , as for instance, in the sentence अयं न दण्डात् । दण्डसंयोग- जन्यद्रव्यत्वात् । दण्डात् is not a हेतु, although the word is in the ablative, because it does not declare the f. Here it may be remarked that the two words and fay, though often used indiscriminately, slightly differ in meaning, f being the mark such as y, while is the लिङ्गप्रतिपादकवचन 'the sentence which declares that mark. The लिङ्ग as expressed in the हेतुबाक्य may be similar or 
 
-34 
+[[34]]
 
 । 
 
 * Aristotle : Prior. Analyt, Bk. i, Oh, 1, Sec. 7. † G. S. I, 1, 33. 
 
-266 
+[[266]]
 
 Tarka-Sangraha. 
 
@@ -7536,7 +7536,7 @@ is of two kinds wear
 
 dissimilar to the area, and thus the and eqraf. When the Reason is given, the question would naturally arise why should the prove that grew, or in 
 
-3 
+[[3]]
 
 other words what connection can there be between the fire and 
 
@@ -7554,7 +7554,7 @@ SHOT. XLVI. ]
 
 Notes. 
 
-267 
+[[267]]
 
 as in यत्र यत्र धूमस्तत्र तत्र बाहेः Of these the first is pre- ferred as agreeing with the 
 
@@ -7570,7 +7570,7 @@ The most
 
 3. The five-membered ear as described above considerably differs from the tripartite syllogism of Aristotle, but a little consideration will show that the difference lies more in the form than in the essence in which the two have been shown to agree remarkably. obvious distinction between the two syllogisms is of course the different number of premises, being five in one and three in the other; and as both give equally valid conclu- sions, one is naturally tempted to conclude that either two premises in the one must be superfluous or the other must be defective to that extent. As a matter of fact, neither alternative is true. Human mind being alike everywhere, it is no wonder that philosophers in the East and the West independently followed the same laws of thought and adopted the same process of reasoning. But though there is no difference in our thinking process, there is much in our respective modes of conveying our thoughts to others. Hence is it that while the essential requisites of a valid inference are the same according to both Gotama and Ari- stotle, their manner of clothing those essentials in the form of promises varies considerably. Aristotle's premis- es are nothing more than the absolutely necessary consti- tuent parts of an inference connected together by the slender tic of mere juxtaposition. The limbs of the Naiyayi- ka on the other hand constitute a fully reasoned out 
 
-268 
+[[268]]
 
 Tarka-Sangraha. 
 
@@ -7590,7 +7590,7 @@ SBOT. XLVI. ]
 
 Notes. 
 
-269 
+[[269]]
 
 or doubt, and so the agrument would never proceed. The Sanskrit syllogism seems to be purposely framed so as to keep this rig alive until the conclusion is reached. The five members of the Sanskrit thus form a series of doubts and answers in a logical sequence, and the grafgaa formed by them is a demonstrative deduction mainly intend- ed for the enlightenment of another. 
 
@@ -7602,7 +7602,7 @@ The five-membered
 
 Sir G. Haughtan's Prodromus p. 215, quoted in Ballantyne's Lectures on Nyaya Philosophy, 
 
-270 
+[[270]]
 
 Tarka-Sangraha. 
 
@@ -7622,7 +7622,7 @@ DAT
 
 Notes. 
 
-271 
+[[271]]
 
 no more than three propositions, namely, the conclusion and the two ( major and minor) premises. It is also essential that there should be three and no more than three terms, namely the major nad the minor terms which respectively form the prediente and subject of the con- clusion, and a third one named the middle term, which acts as a link between the two. Similarly there are three and no more thau thres Gerais in a Sanskrit Nydya, namely, the rear the major term and pediente of the con- clusion, the minor term and sniject of the conclusion, and for the middle torm, which being cognized as a geraff acts as a link to connect the greg with the 7. But what about the three and no more the three propositions that form the syllogism? A little examination will show that they too have their counterparts in the five members of the Nyaya. The fauna and far are the same, and so one of them the war for instance may be safely dispensed with. It has also been pointed out that the mental operation corresponding to veraf and denoted by a is a repetition or rather a particular application of the g, and is taken as understood between the minor promise and the conclusion in Aristotle's syllogism. Either way or may therefore be omitted as superfluous. There remain thus three proposi- tious only, the gor a which is the minor premise, the उदाहरण which is the major one, and the निगमन or con- clusion. 
 
@@ -7640,7 +7640,7 @@ same they can be easily converted into each other. Simply by transposing the two
 
 * See Note 5 pp. 236-7, Supra. 
 
-272 
+[[272]]
 
 Tarka-Sangraha. 
 
@@ -7704,7 +7704,7 @@ SEOT, XLVI. ]
 
 Notes. 
 
-273 
+[[273]]
 
 Add qaşır and sq77 and put the in the ablative form, and the syllogism becomes a full-fledged Nyâya-s 
 
@@ -7724,9 +7724,9 @@ Reduction.
 
 As to the Second, Third and Fourth Figures, as well as the remaining three Moods of the First Figure, conversion can be easily effected by first reducing them to Barbra and then converting them in the above manner. The last three figures being always reducible to the first may be left out of consideration. Of the three remaining Moods of the First Figure the two particular Moods, Darii and Ferioque are not possible in the Sanskrit Nyaya, as it does not recognize a particular conclusion. The reason why particular conclusions were disregarded by the Naiyayikas appears to be their use- lessness. What the Naiyayikas wished to gain from an inference as from all other proofs was war, right and definite knowledge, for it is this area alone that has any scien- tific value. A particular conclusion is obviously a vague and imperfect judgment. The very form of the five-membered 
 
-35 
+[[35]]
 
-274 
+[[274]]
 
 Tarka-Sangraha. 
 
@@ -7740,7 +7740,7 @@ SEOT. XLVI. ]
 
 Notes. 
 
-975 
+[[975]]
 
 Affirmative (Barbara). Even Aristotle has shown that all kinds of syllogism can be ultimately reduced to the first two Moods of the First Figure, and the distinction between these two is easily removed by the above expedient. This explains why the Sanskrit Nydys, though so much limited in its scope, never fails to give a valid conclusion under any circumstances. 
 
@@ -7754,7 +7754,7 @@ Other syllogisms accepted by Indian systematists.
 
 Vedanta-Paribhúshd. Calc. ed. p. 14. 
 
-276 
+[[276]]
 
 Tarka-Sangraha. 
 
@@ -7770,7 +7770,7 @@ Other names.
 
 Why the third member is called Uddharaṇa. 
 
-2 
+[[2]]
 
 * 
 
@@ -7784,13 +7784,13 @@ Why the third member is called Uddharaṇa.
 
 † Ritter: History of philosophy Vol. IV. p. 365, 
 
-0 
+[[0]]
 
 SBOT. XLVI. ] 
 
 Notes. 
 
-277 
+[[277]]
 
 fluous, while by the introduction of an example in the third the universality of the conclusion is vitiated." The conclu- sion is vitiated because the addition of the example puts some sort of limitation on the general proposition, and thus takes away its universality. The most that Ballantyne 
 
@@ -7800,7 +7800,7 @@ could say to justify the example was that it is "a matter of rhetorical convenie
 
 * Ballantyne Lectures on Nyaya Philosophy p. 36. + Thomson's Laws of Thought, Appendix p. 290. 
 
-278 
+[[278]]
 
 itself, and not the 
 
@@ -7824,7 +7824,7 @@ SEOT. XLVI. ]
 
 Notes. 
 
-999 
+[[999]]
 
 J 
 
@@ -7832,7 +7832,7 @@ various references to it in different works on Nyaya. Modern writers like Annamb
 
 व्यातिवाक्य. arerad agata, and not to the array. At the time of Gotama's Sûtras, therefore, the five-membered syllogism seems to have run thus : पर्वतो वह्निमान् । धूमवत्त्वात् । यथा महा- नसः । तथा चायम् । तस्मात्तथा । This primitive form of the syllogism at once explains two things. First it accounts for the third member being called or g, because 
 
-2 
+[[2]]
 
 there is obviously nothing but the instance in it. Secondly, it explains why the g which follows 
 
@@ -7846,7 +7846,7 @@ But this does not convey the full idea of squ; so it is further called in grégr
 
 † G. S. I, 1, 38. 
 
-280 
+[[280]]
 
 Tarka-sangraha. 
 
@@ -7862,7 +7862,7 @@ inserted. If a guess can be hazarded, the aura was possibly at first inserted in
 
 Notes. 
 
-281 
+[[281]]
 
 yikas have persisted in retaining it, but a modern writer Laugåkshi Bhûskara in his Nyaya-Siddhanta-Mañjari- Prakasa, has the courage to declare gerarding ¤ÊÃÉÌ ¤ fa:, the employment of the instance is purely conven- tional and not necessary. In this way the ear, which was at first the gist of the or, came to be positively 
 
@@ -7886,13 +7886,13 @@ The proximate cause of Anumiti.
 
 1. qt has already been explained, and it has also been shown why it is called लिङ्गपरामर्श ox तृतीयलिङ्गपरामर्श $ Annambhatta purposely uses the word fegreraf, instead of simple परामर्श, in order to emphasize his view that the real करण of अनुमिति is the लिङ्गपरामर्श and not लिङ्ग merely, as some say, and that the name अनुमान is properly applicable to the लिङ्गपरामर्श alone. In T. D. he briefly notices the three views that have prevailed about the real proximate cause of अनुमिति. The girar, according to these three schools of opinion, 
 
-36 
+[[36]]
 
 Grote Aristotle Vol. I. p. 274. 
 
 † Mill: System of Logic, People's Ed. p. 126. † Vide Note 3 on Sec. 44, p. 234, Supra. § See Note 3 on Sec, 45 p. 255, Supra, 
 
-282 
+[[282]]
 
 Tarka-Sangraha. 
 
@@ -7926,7 +7926,7 @@ SECT. XLVII. ].
 
 Notes. 
 
-283 
+[[283]]
 
 cognition which is conveyed by the उपनय in & परार्थानुमान, and which thereupon produces the aft in the hearer's mind. If then qraf must be recognized as the r of a पराथानुमिति, why have separate करr for the स्वार्थानुमिति, when the same can do for both? This reasoning is faultless, except that according to those who define करण 28 व्यापारवद- साधारणं कारण, परामर्श cannot be the करण as it has no व्यापार coming after it. Hence the advocates of this definition of 
 
@@ -7938,7 +7938,7 @@ Tor, namely, the ancient Naiyâyikas, propose amara to be the करण and प�
 
 *See p. 32; and Note 3 thereon p. 224, Supra, 
 
-284 
+[[284]]
 
 Tarka-Sangraha. 
 
@@ -7972,11 +7972,11 @@ renameability' and the 'knowability' being here co-extensive, a negative concomi
 
 SEOT, XLVIII. 
 
-7 
+[[7]]
 
 Notes. 
 
-285 
+[[285]]
 
 is no aften. The example of the third kind is Earth is distinct from all other padarthas, because it has odour. In this case there is a fargera where there is neither odour nor are as in water or air, but there is no सपक्षवृष्टान्त where both गन्ध and इतरभेद are con- comitant. In the second case therefore we can have only an अन्वयव्याप्ति, such as यत्र यत्र प्रमेयत्वं तत्राभिधेयत्वं यथा घटे, but no व्यतिरेकव्याप्ति, such as यत्राभिधेयत्वं नास्ति तत्र प्रमेयत्वमपि afa, owing to the impossibility of finding a corresponding दृष्टान्त. In the third case we have a व्यतिरेकव्याप्ति, यत्र इतरभेदो नास्ति तत्र गन्धवत्त्वमपि नास्ति, because we have no less than 14 odourless things (the 8 dravyas besides earth, plus the remaining 6 padarthas), on which the gar 
 
@@ -7990,7 +7990,7 @@ and
 
 3. gear is defined by T. D. as the invariable concomit- ance of हेतु and साध्य while व्यतिरेक, literally meaning ra, is a similar concomitance of their absolute negations. The ear व्यापक interchange places in the व्यतिरेकव्याप्ति, that is, the अभाव of वह्नि which is the व्यrपक in the अन्वयव्याप्ति becomes व्याप्य of the अभाव of धूम the original व्याप्य. This can be 
 
-386 
+[[386]]
 
 Tarka-Sangraha. 
 
@@ -8030,7 +8030,7 @@ SEOT. XLVIII. ]
 
 Notes. 
 
-287 
+[[287]]
 
 representing the gun if the am is reversed. The pro- per व्यतिरेकव्याप्ति therefore runs यत्र यत्र वह्नयभावस्तत्र धूमाभावः, यथा जलन्हदे । 
 
@@ -8046,7 +8046,7 @@ Here we can-.
 
 not have an अन्वयव्याप्तिः यत्र पत्र गन्धवत्त्वं तत्र पृथिवीतरभेदः, be- cause everything that has गन्धवत्त्व as well as पृथिवीतरभेद 2. c. afratra, being included in पृथिबी itself, there is no दृष्टान्त apart from the r. There are plenty of instances, however, on which the arsurura, & 6 qiitfacitqrunz or graatacar, is 
 
-288 
+[[288]]
 
 Tarka-Sangraha. 
 
@@ -8070,7 +8070,7 @@ SEOT. XLVIII. ]
 
 Notes. 
 
-289 
+[[289]]
 
 or rather two, it is quite unintelligible, and is probably corrupt; and I have therefore ventured to correct it, on the high authority of Nilakantha and the Ms. J, by transferring the words far to the preceding sentence, and splitting प्रत्येकाधिकरणप्रसिद्ध्या into प्रत्येकाधिकरणे प्रसिद्ध्या. Read thus, the gist of the reply is briefly this. The re in the inference in question is not the cumulative difference of fourteen padarthas (8 substances +6 categories) from earth, which being unobserved on anything other than earth may be unfit to be & साध्य. What is really intended to be proved on earth is the simultaneous existence of the thirteen mutual negations of those fourteen padârthas. Mutual nega- tion exists between two things, and so there are thirteen mutual negations, corresponding to the thirteen couples that can be formed out of fourteen padarthas, water etc., and residing in thirteen things, excluding that of which the negation is spoken of. Thus resides in the thirteen 
 
@@ -8078,9 +8078,9 @@ e things, light etc.; and are resides in all things excepting light. Thus the th
 
 positive or negative, we can neither call it saft, nor arare. Thus the first horn of the objector's dilemma is disposed of. The second, that the re being unknown there can be no e, is also weak, because we have seen that the area which we have taken, namely en- *, ' aggregate of the thirteen mutual negations of water etc.' is already known by the previous ascertainment of its thirteen components, the thirteen mutual negations 
 
-37 
+[[37]]
 
-990 
+[[990]]
 
 Tarka-Sangraha. 
 
@@ -8104,7 +8104,7 @@ Why then did the Naiydyikus at all recognize surattas
 
 Notes. 
 
-291 
+[[291]]
 
 two kinds of हेतु made the उदाहरण, उपनय and निगमन also two- fold; and thus the whole syllogism changed its character according as the was through similarity or dissimilarity. 
 
@@ -8122,7 +8122,7 @@ the पक्ष
 
 there is no middle term between the two, or if there happens to be one it is co-extensive with q and are (as 
 
-292 
+[[292]]
 
 Turka--Sangraha. 
 
@@ -8142,7 +8142,7 @@ SECT. LI. ]
 
 Notes. 
 
-293 
+[[293]]
 
 ad absurdum would also come under the same head, and in fact all conclusions that cannot be proved directly (e. g. जीवत् शरीरं सात्मकं प्राणादिमत्त्वात् ) will be proved by the Naiyayi- kas by baefat. Those of course who, like the Mimamsa~ kas and the Vedûntins, accept refufar as proof, dispense with not only the केवलान्वयि and केवलव्यतिरेकि but the whole anate agane altogether. The strictures passed by the Vedanta-Paribhasha upon the Nyaya doctrine of fa 
 
@@ -8164,7 +8164,7 @@ A contrary instance is that where the absence of the thing to be proved is ascer
 
 * Ved. Par. Calc, ed. p. 14. 
 
-294 
+[[294]]
 
 Tarka-Sangraha. 
 
@@ -8184,7 +8184,7 @@ SECT. LI. ]
 
 Notes. 
 
-205 
+[[205]]
 
 aree kinds are needed to remove these doubts and make our knowledge absolutely certain. Similarly though fire may have been actually observed, our senses often mislead us, and there is no positive certainty until independent reasoning corroborates the evidence of our senses. In this sense of course there is still doubtful, even though it has been previously known. 
 
@@ -8196,7 +8196,7 @@ What is a good hetu.
 
 *T. K. Bom. ed. p. 12. 
 
-206 
+[[206]]
 
 Tarka-Sangraha. 
 
@@ -8230,19 +8230,19 @@ SBOT. LII. ]
 
 Notes. 
 
-297 
+[[297]]
 
 The reason of this distinction is that a single may often be vitiated by two or more errors occurring at once, each of which would fall under oue or the other of the five classes; but their combination will not make a separate: kind of हेत्वाभास. Such a हेतु might in fact be classed under as many heads as there are fallacies involved in it. Thus if we take the syllogism, वायुर्गन्धवान स्नेहात् । the हेतु स्नेह will be found to fall under all the five heads ofrere. Simi- larly in घटः पढोऽस्ति कुड्यत्वात्, the हेतु कुज्यत्व has fallacies of all kinds, In -हदो वह्निमान् धूमात्, the हेतु is of three kinds: बाधित, सत्प्रतिपक्ष and स्वरूपासिद्ध; while in पर्वतो धूमवान् वह्नेः, the हेतु would be both साधारणसव्यभिचार and व्याप्यत्वासिद्ध. If the division had been applied to geig instead of gety, how could these mixtures of several fallacies have been classed ? They can neither be put under one only of the possible heads, nor form an independent class. Hence Naiyayikas have adopted the better plan of classifying all the fallacies or errors that are possible in a g, and then denominating a हेतु 
 
 which possessed one or more of them as fallacious in so many ways. The author of Didhiti remarks to the same effect : ' एकस्यैव स्नेहस्य 'अनैकान्तिकः, ' ' विरुद्धः ' इत्यादिपञ्चत्वव्यव- हारः कथम् इत्याशङ्कायामुत्तरम् -' उपाधेयसंकरेप्युपाध्यसंकरः' इति न्यायाsोपगत संख्यामादाय दुष्टहेतौ पञ्चत्वादिसंख्याव्यवहारः that is, ⚫ the fallacious reasons are divided into five classes not be- cause only five varieties of them are possible, but because the errors which underlie them are of so many kinds. The correct method for a Nyaya writer would therefore be to classify and define the five rs or fallacies and then to define a geag as one that is infected with one or more of them. 
 
-3 
+[[3]]
 
 2. Annambhaṭṭa has avoided the difficulty by simply enumerating in the text only the five kinds of gigs without defining हेत्वाभास (दुष्टहेतु ) in general, and then adding the definition of a 4 as added in T. D. The remark of Nilakantha shows that the word arrer is used by the author in two different senses in the text and in the com- mentary. In the text it means a grad, since the five class- names given are names of thes, while the definition in T. D. is that usually given of a. The five errors in a corresponding to the five as mentioned in the text 
 
-38 
+[[38]]
 
-208 
+[[208]]
 
 Tarha-Sangraha. 
 
@@ -8264,7 +8264,7 @@ SEOT. LII. ]
 
 Notes. 
 
-299 
+[[299]]
 
 लिङ्गज्ञान, whatever it may be. In this way व्यभिचार and other दोषs which directly affect the अनुमितिकरण only but not the sara, will be included in the definition. The same result might be obtained, says the author of the Didhiti, by taking अनुमिति to mean not a simple judgment पर्वतो वह्निमाद, but faforeigîata, as angeurergmara våd af. Other writers like T. K. avoid the difficulty by actually introducing the word तत्करण after अनुमिति in the definition. 
 
@@ -8282,7 +8282,7 @@ Erroneous reasons or fallacies.
 
 ‡Q S. I, 2, 45. 
 
-300 
+[[300]]
 
 Tarka--Sangraha. 
 
@@ -8298,7 +8298,7 @@ Formal and Mate- rial fallacies.
 
 Notes. 
 
-301 
+[[301]]
 
 fallacies. The fact is that the peculiar form of Sanskrit syllogism did not permit a clear demarkation of formal form material fallacies, nor are the two so separated in practice. Most of the so-called formal fallacies involve material miscon- ceptions or over-statements, while almost all the material fallacies can be avoided by a strict adherence to the syllogistic form. The distinction is purely artificial, and has not been 
 
@@ -8322,7 +8322,7 @@ SOB.
 
 ! 
 
-302 
+[[302]]
 
 Tarka-Sangraha.. 
 
@@ -8356,7 +8356,7 @@ SEOT. LIII. ]
 
 Notes. 
 
-303 
+[[303]]
 
 is a peculiar characteristic of the qr which exists nowhere else, and for which therefore no agere can be found. As for example, if we say, "Sound is eternal, because it has the nature of sound," the nature of sound, a, is a peculiar characteristic of sound; and being so, can lead to no valid conclusion. In this case the Ter instances, e. g. those having the area fer, would be ether and other eternal things, while the far instances would be all non-eternal products, such as a jar. They exists in neither, and 
 
@@ -8370,7 +8370,7 @@ mark.
 
 4. The third variety of सव्यभिचार is अनुपसंहार (Non-exclu- sive) which is defined in the text as one that has neither & सपक्ष nor a विपक्ष दृष्टान्त, ' that is, which is never present where the TET is present, excepting of course the r itself. Now this can happen only when all things in this world are in- cluded in qr, and so nothing is left outside the range of ver that can be denominated सपक्ष or विपक्ष. The definitions given in T. K. and T. A. make this quite clear. They are, वस्तुमात्रपक्षकः or सर्वपक्षकः, 'one in which the universality of things is the qer,' that is one in which the wrer is unascer- tained ( vara ) of all things in the world, and there is there- fore no सपक्ष or विपक्ष where the साध्य or its negation might be said to be ascertained (fra). The example given in the text is "All things are transient, because they are know- able " where सर्व being the पक्ष, there is no सपक्ष or विपक्ष apart from it. But why cannot the individuals, says an objector, serve as we or far that is, why cannot we argue, सर्वमनित्यं । प्रमेयत्वात् । यत्र यत्र प्रमेयत्वं तत्रानित्यत्वं । यथा घटे पटे कुडचे वा । ? It cannot be said that the साध्य being संदिग्ध in सर्व, it is necessarily so in घट, पट and कुडच ; for first the साध्य ( प्रमेयत्व ) may be निश्चित in the पक्ष at one time, and be संदिग्ध at another; and secondly uncertainty as to the whole does not necessarily imply an equal uncertainty as to individuals or some parts of that whole. घट and पट therefore which are certainly transient might very well serve as #THEZIFA to prove enfara ou af. To remove this objection modern 
 
-304 
+[[304]]
 
 Tarka-Sangraha. 
 
@@ -8390,7 +8390,7 @@ A wahrene or discrepant reason has been defined as one which is not uniformly co
 
 The three-fold di- vision explained. 
 
-9 
+[[9]]
 
 two requisites of a gag, Now there are four and 
 
@@ -8400,7 +8400,7 @@ SMOT. LIII. 1
 
 Notes. 
 
-305 
+[[305]]
 
 obviously defective, and is respectively called agrégn?, साधारण and असाधारण अनुपसंहारि has been defined as one that has neither a सपक्ष nor a furereटान्त; that is, there is no सपक्ष on which the हेतु co-exists with साध्य, nor a विपक्ष from which the हेतु is व्यावृत्त just as the साध्य is. अनुपसंहारि has therefore neither of the two properties, सपक्षसत्त्व and विपक्षव्यावृत्ति. The third case is that of a rerror which is defined as existing both on the सपक्ष and the विपक्ष; that is, there is सपक्षसत्त्व but no विपक्षव्यावृत्ति. The fourth is असाधारण which, as non- existing on both wer and far instances, possesses only विपक्षव्यावृत्ति, but not सपक्षसत्त्व. The three varieties are thus nothing but the three possible ways in which the fanffata (defectiveness) of a fer may occur. 
 
@@ -8410,9 +8410,9 @@ Kevalânvayi and Kevalavyatireki distinguished.
 
 coincide with each other, there is no are or discre pancy between the two, although we cannot always have a पक्ष or freeष्टान्त. The essence of साधारण and असाधारण lies not so much in the absence of सपक्ष or विपक्ष हृष्टान्त, but in the imperfect generalization, the absence of the area only indi- cating the व्याभिचार or defect in the व्याप्ति. 
 
-39 
+[[39]]
 
-306 
+[[306]]
 
 Tarka-Sangraha. 
 
@@ -8446,7 +8446,7 @@ SBOT. LY.
 
 Notes. 
 
-307 
+[[307]]
 
 The rear differs from a fa in this, that while in the latter the very same which ought to prove arra is given as a reason for proving the साध्य, in सत्प्रतिपक्ष the हेतु which proves साध्याभाव is different ( हेत्वन्तर ) from 
 
@@ -8466,7 +8466,7 @@ C
 
 प्रकरण- 
 
-308 
+[[308]]
 
 Tarha-Sangraha. 
 
@@ -8486,7 +8486,7 @@ eng
 
 Asiddha or Incon- clusive reason. 
 
-7 
+[[7]]
 
 has the दोष called असिद्धि, and असिद्धि is defined by Udaya- 
 
@@ -8496,7 +8496,7 @@ SHOT. LVI. ]
 
 Notes. 
 
-309 
+[[309]]
 
 fare (which gives rise knowledge of परामर्श. As 
 
@@ -8506,7 +8506,7 @@ First kind of Asiddha.
 
 2. Annambhaṭṭa only enumerates the three varieties, without defining either are in general or its first two varieties. erg is defined as पक्षतावच्छेदकाभाववत्पक्षकः, that is 'a हेत the subject or place of which is devoid of the distinctive character of the supposed qr.' Thus in the example, “A sky-lotus is fragrant, because it is a lotus," the reasoning would be correct if the qr sky-lotus had been a real thing; but being only an imaginary thing, it is devoid of the essence of the supposed, namely, a. Here the qr is not अरविन्द simply, but गगनीयत्वविशिष्ट Or गगनीयत्वावच्छिन्न अरविन्द, and hence the पक्षतावच्छेदक or the essence of पक्षता is गगनीयत्व which never exists on an arr. In this case, being misled by the metaphorical application of the word अरावेन्द्र to गगनारविन्द्र we attribute the qualities of a real lotus to a fictitious thing,the existence of which is quite hypothetical or unproved. Here the rearrच्छेदकधर्म is गगनीयत्य, because it distinguishes गगनार- विन्द, the पक्ष in this ense, from other lotuses; and as अरविन्द itself is a real thing, the falsity of mare must be due to the non-existence of its er, the andru, according to the maxim, when a property predicated of a qualified thing (fare) cannot reside in the qualified (fast), it is attri- buted to the qualification ( सति विशेष्ये बाधे विशिष्टा बुद्धिर्विशेषण- मुपसंक्रामति ). In the present instance there is on the पक्ष the 
 
-310 
+[[310]]
 
 Tarka-Sangraha. 
 
@@ -8530,7 +8530,7 @@ may be said to be complimentary to सव्याभिचार, सत्प�
 
 Notes. 
 
-311 
+[[311]]
 
 essential character of हेतुता, namely पक्षधर्मता. The real deti - nition of a स्वरूपासिद्ध therefore is हेतोः पक्षावृत्तित्वम्. 
 
@@ -8544,7 +8544,7 @@ Difference bel- ween ancients and moderns.
 
 5. So far there is not much difference of opinion, but an- cients and moderns are as usual divided as to the exact scope of this fallacy. In the above example, the epithet renner is not only superfluous, but makes the unreal. Suppose how- ever we have पर्वतो वह्निमान् नीलधूमात्. Here although the adjective is superfluous, it does not make the actually false, and the argument will in spite of it be valid. Hence 
 
-312 
+[[312]]
 
 Tarka-Sangraha. 
 
@@ -8564,7 +8564,7 @@ SHOT. LVI. ]
 
 Notes. 
 
-313 
+[[313]]
 
 the squaredge is equally false, and hence the general defini- tion of a crane applies to both. 
 
@@ -8574,7 +8574,7 @@ Annambhaṭṭa's definition.
 
 7. After having comprehended what are really is, the student will be in a position to understand and correctly estimate An- nambhatta's statement that a me ty is व्याप्यत्वासिद्ध. There is a difference of opinion as to the true meaning of this statement. S. C. takes it as a definition of sangenare, but it will be seen from what has been said above that can properly be a definition of only one kind of an, and does not at all apply to instances like. On the other hand Nilakantha seems to take the statement not as a definition, but as a reply to those who class सोपाधिक as a separate हेत्वाभास. The inter- pretation of Nilakantha would undoubtedly be preferable, as it saves the author from a palpable error; but there is against it the unequivocal statement of T. D. - व्याप्यत्वासिद्धस्य लक्षणमाह सोपाधिक इति. We have no choice therefore bnt to agree with S. C. in taking the sentence as a definition. There are only two suppositions on which Annambhaṭṭa's definition can be reconciled with the general doctrine of व्याप्यत्वासिद्ध. Either he included instances like काञ्चनमय- धूमात् and शब्दः क्षणिकः Hara ander सोपाधिक itself, or he relegated them to some other head of Tre. Both sup- positions are plausible and may be partly true. In the in- ference, for example, शब्दः क्षणिकः सस्वात् we can conceive of an उपाधि such as उत्पत्तिमत्वे सति, or ध्वंसप्रतियोगित्वे सति, so that ether and other eternal things may not be grfor simply be- cause they exist. Thus the हेतु सत्व will be सोपाधिक. Simi- larly we might regard काचनमयधूमाद as an instance of स्वरूपा- fire, since, there being no such thing as awwwym in the world, the is non-existent on the war. In this manner we can perhaps justify Annambhatta's definition; but the fact that it is inconsistent with the express views of other eminent authorities such as Gangesśa, Raghunatha, and Viś- vanátha is undeniable. On the other hand there is a distinct school of writers who exclude even the 
 
-40 
+[[40]]
 
 ÊRE 
 
@@ -8616,7 +8616,7 @@ is.
 
 उपाधि. smoke may be generally said to be produced from fire, the specific and immediate cause of its production is the pre- sence of wet fuel, for it is wet fuel that, when ignited, in- variably gives out smoke. There is therefore an invariable concomitance (cama) between wet fuel and smoke, for the smoke 
 
-316 
+[[316]]
 
 : Tarka-Sangraha. 
 
@@ -8638,7 +8638,7 @@ Notes.
 
 ww 
 
-317 
+[[317]]
 
 because there बह्नि and धूम being साध्य and साधन respectively आर्द्रेन्धनसंयोग is not साध्यव्यापक and साधनाव्यापक. The defini- tions of साध्यव्यापकत्व and साधनाव्यापकत्व given in the text are easily understood. The first is the quality of never being the fan of any absolute negation co-existing with the rar, or more shortly, the property of never being absent where the area is present. The second of course is just the opposite of this. 
 
@@ -8664,7 +8664,7 @@ a though not a warg is
 
 both अजन्य and अनित्य- भावत्व is therefore the उपाधि of the ena of products, not of nou-products, that is, it is aerar- वच्छिन्नानित्यत्वव्यापक. But in the above instance जन्यत्व being the साधन, and अनत्यत्व the साध्य, भावत्व is साधनावच्छिन्नसाध्यव्यापक- Alakantha here reads प्रागभावो विनाशी जन्यत्वात्, thus making 
 
-318 
+[[318]]
 
 Tarka-Sangraha. 
 
@@ -8702,7 +8702,7 @@ SBOT. LVII. ]
 
 Notes. 
 
-319 
+[[319]]
 
 ascertained by another and presumably a more authoritative proof;' for if the other proof is not stronger, it will not prevail and the first will not be a or contradicted. Annambhaṭṭa's definition of fra is in conformity with the opinion of the ancient school that the knowledge of the r obtained by the other proof must be a certain and right knowledge (). Raghunatha Širomani and other moderns, however, think that it need not be E. Gangesa's definition प्रमितसाध्याभाववत्पक्षको बाधितः, of which Annam bhaṭṭa's definition is only a paraphrase, is simple and toler- ably correct; but it requires one important qualification, vis. eqafaga, in order to prevent it from applying in the case of an अव्याप्यवृत्ति धर्म. Thus when we say कपिसंयोगवानयं वृक्षः, the same पक्ष वृक्ष will have the साध्य i. c. संयोग in one part (शाखावच्छेदेन), and संयोगाभाव in another part (मूलावच्छेदेन); and yet the inference will not be ama. It is therefore de- clared that in are the ascertainment of rear must be with respect to the whole ar, and not a part of it only. The complete definition therefore is पक्षनिष्ठानवच्छिन्नसाध्याभाव- a. The varieties of this area are enumerated, according as the thing apprehended by the other proof is पक्ष, or साध्य- प्रतियोगि, or हेतु, and according as the other proof is प्रत्यक्ष, अनुमान, उपमान, or शब्द. 
 
@@ -8722,7 +8722,7 @@ of the fallacies.
 
 † See Note 2 under Sec. 43 p. 222 Supra, 
 
-320 
+[[320]]
 
 Tarka-Sangraha. 
 
@@ -8734,7 +8734,7 @@ tions it is to be accepted. In the first place, eveu a cursory glance will show 
 
 Notes. 
 
-321 
+[[321]]
 
 complex cases of bad reasoning such as अन्योन्याश्रय, अनवस्था and. Strictly speaking therefore the so-called s mentioned in Nyaya manuals form only a part of the possi- ble fallacies. 
 
@@ -8746,9 +8746,9 @@ All fallacies re- ducible to hetvâ- bhasas
 
 * See Note on p. 274, Supra. 
 
-41 
+[[41]]
 
-322 
+[[322]]
 
 Tarka-Sangraha. 
 
@@ -8768,7 +8768,7 @@ Fallacies mention- ed in old works.
 
 Notes. 
 
-323 
+[[323]]
 
 6. Now let us consider the fallacies mentioned in the older works on Nyaya, which do not apparently belong to the . The twenty-four mas mentioned by Gotama* are nothing more than arguments based on false analogy or false distinction, and can be easily reduced to arr. Of the twenty-two fus or points where an adversary can be caught or defeated, some like अर्थान्तर, पुनरुक्त and निरर्थक are merely tricks usually resorted to by a disputant in order to confound his rival, and which his rival is therefore taught to expose at once. 
 
@@ -8778,7 +8778,7 @@ Others like अविज्ञातार्थ, अननुभाषण, अ�
 
 * G. S, V, I, 1; and T. D. p. 64, 
 
-324 
+[[324]]
 
 Tarka-Sangraha. 
 
@@ -8796,7 +8796,7 @@ SEOT. LVII. ]
 
 Notes. 
 
-325 
+[[325]]
 
 figures and moods only breeds confusion and makes the de- tection of fallacies often difficult. The Naiyayikas, profiting by the vast resources of the Sanskrit language, have con- siderably minimized this difficulty by providing a single form of syllogism which is both the simplest and the most elas- tic at the same time. It is capable of conveying even the most complex ideas in the fewest words possible. For ex- ample nothing is more difficult in English than to obvert a proposition, that is, to change an affirmative into negative and vice versa; and yet in Sanskrit you can do this at once by simply adding era to the word. This has enabled the Naiyayikas to dispense with all negative moods and thus reduce the syllogism to the single form_Barbara.* They have thereby avoided all fallacies arising from non- distribution of terms. In this way they have narrowed the circle of formal fallacies to the single case of ambiguous' middle,' and reduced all material fallacies to a rafta or असिद्ध व्याप्ति. 
 
@@ -8808,7 +8808,7 @@ G
 
 * Vide Note p. 274, Supra. 
 
-326 
+[[326]]
 
 Tarka-Sangraha. 
 
@@ -8838,7 +8838,7 @@ SECT. LVII. ]
 
 Notes. 
 
-327 
+[[327]]
 
 distributed in the premise. As we must have all affirmative propositions in Sanskrit, obvert the minor premise and the conclusion in the above : so we have:- 
 
@@ -8858,7 +8858,7 @@ Here it will be seen that the sun is not proper because the two terms in it do n
 
 II. Take now an example of an " ambiguous middle." 
 
-328 
+[[328]]
 
 Tarka-Sangraha. 
 
@@ -8904,7 +8904,7 @@ SEOT. LVII. ]
 
 Notes. 
 
-329 
+[[329]]
 
 inal, the middle term, 'a thing bought in the market' implies in the major premise "as to its substance only," in the minor "as to its condition and circumstances." It is therefore 
 
@@ -8956,9 +8956,9 @@ VI. Take this syllogism in the third figure:-
 
 All books are liable to err; 
 
-42 
+[[42]]
 
-330 
+[[330]]
 
 Tarka-Sangraha. 
 
@@ -9014,7 +9014,7 @@ Notes.
 
 या या हिंसा साsधर्मस्य जनिका । 
 
-331 
+[[331]]
 
 This is सोपाधिक with निषिद्धत्व as उपाधि, and will become 
 
@@ -9054,7 +9054,7 @@ same are when converted differently gives different
 
 fallacies. 
 
-332 
+[[332]]
 
 Tarka-Sangraha. 
 
@@ -9082,7 +9082,7 @@ The proximate cause of Upamiti.
 
 Notes. 
 
-333 
+[[333]]
 
 2. Both these previous cognitions are indispensible to a valid analogy; but the question still re- mains which of these is the करण of उपमिति, and which is, that is, which is more immediate, and which is only accessory. The ancient and the modern schools of Naiyayikas are diametrically op- posed on this point; the former, i. e. the ancients, regard अतिदेशवाक्यार्थज्ञान as the करण and सादृश्यज्ञान & सहकारि, while the moderns prefer just the opposite view. The recollec- tion of the eagereref is of course the are according to both. Annambhaṭṭa here evidently accepts the view of the moderns, for he expressly says that the reavana, i. e. the गवयनिष्ट - गोसाहश्यप्रत्यक्ष, is the करण of उपमिति. He does not however seem to follow the moderns in taking the exact form of the उपमिति to be गवयो गवयपदवाच्यः, and not अयं or असौ गवयपदवाच्यः the difference between the two being that the second cognition would inform him that the particular object alone is denoted gayal, while the first conveys that the whole class of which that object is an individual is denoted by the name gayal. Viśvanátha, who is a modern in toto, says न त्वयं गवयपदवाच्य इत्युपमितिः । गवयान्तरे शक्तिग्रहा - भावप्रसङ्गात्. * Although the करण of उपमिति is declared to be the सादृश्यज्ञान, it is not the sole करण, for an उपमिति may arise even from a knowledge of dissimilarity or a mere pecu- liarity. Hence S. C. divides gara ( cqfânâsyr) into three kinds : तच्चीपमानं त्रिविधम् । सादृश्यविशिष्टपिण्डज्ञानं, असाधारणधर्म- faráterqvsari, àuriâfefqusará a. उपमान is of three kinds, viz. the knowledge of an amimal possessing (1) a similarity, (2) a peculiar property or (3) a dissimilarity.' uz qqq: is an example of the first kind; that of the second is नासिकालसदेकशृङ्गः खमृगः (a rhinoceros has one horn adorning its nose); the example of a dissimilarity would be उष्ट्रो नाश्वादिवत्समानष्पृष्टहस्वग्रीवशरीरः ( a camel does not possess a level back and short neck like a horse). The word res in the text is therefore to be taken as illus- trative (gror) of the other two. 
 
@@ -9090,9 +9090,9 @@ Notes.
 
 * S. M. Calc. ed, p. 78. 
 
-6 
+[[6]]
 
-334 
+[[334]]
 
 Comparison as an independent proof. 
 
@@ -9122,7 +9122,7 @@ SHOT. LIX. Ì
 
 Notes. 
 
-335 
+[[335]]
 
 1. The author now proceeds to the fourth proof, Word, It is defined as "the sentence or proposition 
 
@@ -9158,7 +9158,7 @@ The two theories contrasted.
 
 3. The Mimâmsa theory of the import of propositious is rather complicated. Along with the gram- mariaus they hold that the verb is the prin- cipal word in a proposition (nenaqur ar), because it is the verb that forms the copula as it were to connect a number of words into a sentence. If one only says 
 
-336 
+[[336]]
 
 Tarka-Sangraha. 
 
@@ -9166,7 +9166,7 @@ SECT. LIX.
 
 देवदत्तः ग्रामम्, we can make nothing out of those disconnected words; but as soon as the verb is added, the whole forms a connected proposition conveying the idea of Deva- datta's motion to the town. The idea of motion is the chief significance of the sentence, the word 
 
-2 
+[[2]]
 
 and 
 
@@ -9180,7 +9180,7 @@ serving to specify and define as it were that motion. denotes motion in general;
 
 Notes. 
 
-339 
+[[339]]
 
 three requisites of शाब्दबोध, namely, आकांक्षा, संनिधि and योग्यता, are not satisfied. A proposition or sentence is nothing but a number of significaut words ( शक्तपद ) which possess आकांक्षा, योग्यता and संनिधि; and the collective meaning of such words will be apprehended even though there be no fare in 
 
@@ -9188,9 +9188,9 @@ three requisites of शाब्दबोध, namely, आकांक्षा, 
 
 5. On a proper analysis it will be found that a proposition consists of a subject, a predicate and a copula. The predicate is always resolvable iuto an attribute residing in the subject and the copula is the counceting link showing the relation that exists between the subject and the attribute predicated of it. Thus in the sentence "Man is mortal", the attribute of mortality is predicated of man, and the verb is the copula connecting the two. In मर्त्यत्ववान् मनुष्यः or गमनशीलो देवदत्तः we denote substantivos possessing attributes. This view is very similar to the Natyayika doctrine. 
 
-43 
+[[43]]
 
-338 
+[[338]]
 
 Tarka-Sangraha. 
 
@@ -9222,7 +9222,7 @@ deuotes an individual exactly in the same way as denotes a jar although one word
 
 gives another and a better definition of शक्ति in the commentary, अर्थ स्मृत्यनुकूलः पद- पदार्थसम्बन्धः शक्तिः 'Power is the relation 
 
-1 
+[[1]]
 
 ence of many distinct and nuconnected languae exist- 
 
@@ -9236,7 +9236,7 @@ SECT. LIX. ]
 
 Notes. 
 
-339 
+[[339]]
 
 ร 
 
@@ -9264,7 +9264,7 @@ is apprehended. In other words, what does a word like a denote primarily: the ob
 
 * Mammața : Kánya-Prakāśa Boin. Ed. Ch. II, p. 30 
 
-340 
+[[340]]
 
 Tarka-Sangraha. 
 
@@ -9276,7 +9276,7 @@ unless it is so implied the hearer can never fetch the object. Modern Naiyiyikas
 
 Notes. 
 
-341 
+[[341]]
 
 that is, a particular objecte as possessing the class-notion wew. The reason given by T. D. for rejecting the e- Tis, that the actions of bringing' and 'binding' express- ed in the propositions घटमानय and गौरनुबन्ध्यः, are possible in the respective as only. If a word signified na only, the sentence would mean घटत्वमानय and गोत्वमनुबन्ध्यम, which is absurd because qe and me cannot be separated from the concrete objects. The Mimâmsakas however maintain that the fact that घere or गोत्व cannot be separated from the concrete object (afanua ) is exactly the reason why the significance of the word we or should, for the sake of लाघव, he confined to the जाति, while the notion of व्यक्ति may be conveyed by art or necessary implication. This view जातावेव शक्तिर्व्यक्तिलाभस्त्वाक्षेपात was held by the Mimdi- sakas, grammarians and rhetoricians, and is rejected by Annambhaṭṭa. 
 
@@ -9290,7 +9290,7 @@ that is, a particular objecte as possessing the class-notion wew. The reason giv
 
 P. 17. 
 
-342 
+[[342]]
 
 Tarka-Sangraha. 
 
@@ -9328,7 +9328,7 @@ The expressive power.
 
 Notes. 
 
-343 
+[[343]]
 
 18. The expressive power (f) of words is of the above three kinds; and so words are divided into three classes according as they operate through any one of these modes. or etymology is defined 
 
@@ -9354,7 +9354,7 @@ of these generally re-
 
 are mentioned in the 
 
-344 
+[[344]]
 
 Tarka-Sangraha. 
 
@@ -9382,7 +9382,7 @@ SECT. LIX. ]
 
 Notes. 
 
-345 
+[[345]]
 
 examples like काकेभ्यो दधि रक्ष्यतां or यष्टीः प्रवेशय, which by themselves give a fair sense without any, although that sense is clearly not the one intended by the speaker. Hence T. D. says तात्पर्यानुपपत्तिर्लक्षणाबीजम्. लक्षणा is resorted to when the primary sense is unsuited, not to the array, but to the वक्तृतात्पर्य. The three-fold division of लक्षणा into जहत्स्वार्था, अजहत्स्वाथा and जहदजहत्स्वार्था is also taken from the moderns. 
 
@@ -9398,7 +9398,7 @@ sion.
 
 16. Another division of gror is into ror ger and off, otherwise called quit. Most of the Another sub-divi- above examples are of the first kind where the implication solely rests on the un- suitability of raref. In soft implication is resorted to in order to suggest a third sense called प्रयोजन. As in गङ्गायां घोष the qualities of coolness and holiness which really belong to the current are transferred to the bank. This suggested third sense is called agar and is supposed by rhetoricians to be conveyed by a third mode called sumar. 
 
-44 
+[[44]]
 
 $46 
 
@@ -9442,7 +9442,7 @@ SEOT. LXI. ]
 
 Notes. 
 
-347 
+[[347]]
 
 whole meaning of the sentence (err), which inability 
 
@@ -9466,7 +9466,7 @@ Juxtaposition.
 
 4. The third requisite is संनिधि or आसत्ति which consists in "the utterance of consecutive words one after another without interval between any two of them." A arra is made up by the combination of the several notions of words, and it is therefore necessary that the impression made by each should remain fresh until this combination is effected. If however a long break occurs in the middle of a sentence, the previous impressions vanish before the sentence is finish - ed, and the sense would remain incomplete. What consti- tutes far is, as T. D. remarks, the unbroken apprehension of all the words; and hence actual utterance of words is not absolutely necessary. In a written or printed book for 
 
-348 
+[[348]]
 
 Tarka--Sangraha. 
 
@@ -9490,13 +9490,13 @@ SEOT. LXII. ]
 
 Notes. 
 
-349 
+[[349]]
 
 sense. A fool or an idiot sometimes utters words which he does not understand but which are intelligible to others; a parrot pronounces words which have a meaning in ordinary language; and yet there is no intention of the speaker in such cases. It may be urged against this that they are not real words at all, although appearing to be so. But what if a Vedic text is repeated by a person who understands nothing of it. The text is there and you cannot deny it, and yet there can be noa. Again if a teacher expounds such a text wrong- ly the meaning which he intends is at variance with the truth and can never be conveyed by the text. Or suppose one reads such a text in a book; there is no speaker here and there can be no तत्प्रतीतीच्छयोच्चरितत्व. It cannot be argued that the original intention of the author of the text, viz. God, is to be assumed in such cases; because there are many, says Vedanta-Paribhasha, who do not recognize God as the author of the Vedas and yet are able to understand the meaning of them. The Paribháshá therefore proposes as a better definition तत्प्रतीतिजननयोग्यत्वे सति तदम्यप्रतीतीच्छया नोच्चरि- acu arada' fitness of the words to express a particular meaning, while there is no utterance with an intention to convey a different sense.'* The second clause is added to prevent a doubt in examples like Arqama where, although is fit to express both salt and a horse, the intention is always to convey only one meaning and not the other. Even in cases where two meanings are intended to be simultane- ously expressed, as in TT, the definition will apply since a will comprehend both the senses. 
 
 तत् 
 
-2 
+[[2]]
 
 SECT. LXII. TAIL 
 
@@ -9504,7 +9504,7 @@ SECT. LXII. TAIL
 
 * Ved. Par. Calc. ed. p. 20. 
 
-350 
+[[350]]
 
 Tarka-Sangraha. 
 
@@ -9538,9 +9538,9 @@ T. D. here refers to two points which have long served as good bones of contenti
 
 Notes. 
 
-3 
+[[3]]
 
-581 
+[[581]]
 
 On the other hand we know the authorship of all human productions, as अष्टादशपुराणानां कर्ता सत्यवतीसुतः. Secondly, the Vedas themselves declare their own fer in several texts, such as ' बाचा विरूपनित्यया, ' ' अस्य महतो भूतस्य निश्वसितमेतद्यदृग्वेदो. यजुर्वेदः- The Naiyayika meets these arguments by contrary texts, such as तस्मात्तेपानात्त्रयो वेदा अजायन्त, and ' इदं सर्वमसृजत ऋचो यजूंषि सामानि ' Their strongest weapon however is the अनुमान, वेदः पौरुषेयो वाक्यत्वाद्भारतादिवत् or वेदवाक्यरचना वक्तृ- aurýarqarûznagai, वाक्यरचनात्वात्, अस्मदादिवाक्यरचनावत्. The Mimâmsakas try to refute this argument by calling it सोपाधिक, the उपाधि being स्मर्यमाणकर्तृकत्व; that is, they mean that the above reasoning is applicable only to those works whose authorship is known. The Naiyâyikas answer that even the authorship of the Vedas was known since it was remembered by Rishis like Gotama by the tradition of teaching. Besides if the Vedas had been eternal, all the words and letters in them would be co-existing, and so there would be no order of words (ofagaff) etc., without which there can be no आकाङ्क्षा and no शाब्दबोध. The Vedas there - fore must have been produced by some one, and as no human origin is possible in the case of works containing such transcendental wisdom, they must be the work of God. The Vedantin, who is eminently a compromiser, tries to reconcile these opposite views, by supposing that the Vedas as they exist at present are af, but they are merely copies of similar compositions existing in the previous cycles, the authority for this opinion being the text, यथा पूर्वमकल्पयत्. This in short means that the Vedas are eternal as to substance (), but non-eternal as to form ( आनुपूर्वी ).' 
 
@@ -9558,7 +9558,7 @@ and other accidental causes only serving to reveal it to our ears. We always rec
 
 21. 
 
-352 
+[[352]]
 
 Tarka-Sangraha. 
 
@@ -9598,7 +9598,7 @@ SECT. LXIII. ]
 
 Notes. 
 
-353 
+[[353]]
 
 tically unimportant, although it has great historical signifi- cance, since it marks the stage when, writing having come to take a large place previously occupied by oral tradition, the absurdity of defining in terms of actual utterance was perceived and the difference between writing and oral tradition was abolished. Apparently Annambhatta's opinion differs from both the above views, since he makes the करण and defines शब्द as a वाक्य or पदसमूह and not a पड़ But this is not so, because according to Naiyâyikas a qram is not different from its components, the several vs. Perhaps hy शब्द Annambhatta may be meaning शब्दज्ञान or पदज्ञान, just as in a former section he interpreted T etc. as e- Tra; and if this is the case his view will agree with the modern one. At any rate his laxity of expression on this point shows that he did not regard the distinction as very material. 
 
@@ -9610,13 +9610,13 @@ Why word is separate proof.
 
 śeshikas, who recognize only two proofs, Perception and Inference, viz. that Word is not a distinct proof as it can be included under Inference. The syllogism by which the connection f ) between a word and its sense is to be known may be stated either as T. D. puts it, or as a rei: qrqrdan- चन्तः । आकाङ्क्षायोग्यता सत्तिमत्पदस्मारितत्वात् । दण्डेन गामानयेतिपद- स्मारितपदार्थवत्; that is, the पक्ष in the inference may be either the qy as T. D. makes it, or the rare as is done in the syllogism given here. Either way, the inference is incap- able of producing ra, for the knowledge conveyed by words is of an altogether distinct kind from that imparted by an inference, and besides produces the consciousness, I know from words, which differs from the consciousness I know by inference. 'This is not a very satisfactory reply since it rests on self-consciousness which may vary with different persons. Udayanâchârya gives a more convincing refutation of the Vaiseshika view : -अनैकान्तः परिच्छेदे संभवे च न निर्णयः । aff: * An inference like the above is impossible; for the 
 
-45 
+[[45]]
 
 * Kus. Cowell's ed. III, 13. 
 
 • 
 
-354 
+[[354]]
 
 Tarka-Sangraha. 
 
@@ -9634,7 +9634,7 @@ SEOT. LXIII. ]
 
 Notes. 
 
-355 
+[[355]]
 
 . Non-perception has 
 
@@ -9648,7 +9648,7 @@ to account for all kinds of presumptions and thereby dispense with the a inferen
 
 * Vide T. D. on Sect. 43 and Note 8 thereon, p. 228 Supra, 
 
-356 
+[[356]]
 
 Tarka-Sangraha. 
 
@@ -9690,7 +9690,7 @@ SEOT. LXIII. ]
 
 Notes. 
 
-357 
+[[357]]
 
 C 
 
@@ -9702,7 +9702,7 @@ requires external proof." This
 
 7. The स्वतस्त्व of प्रामाण्य is defined, तदप्रामाण्याग्राहकयावज्ज्ञानग्रा- हकसामग्रीग्राह्यत्वम्, the property of being apprehended by the same entire body of the means which produce the knowledge, but do not prove its falsity.' Three conditions are implied in this definition, that the truth of knowledge is apprehended by the same means which produce the knowledge, that the means include every thing that is instrumental in producing the knowledge, and that they should not include anything that affects the truth of the knowledge. The necessity of the two latter qualifications is shown by T. D. The definition speaks of the totality of means in order to include an infer- ence that may be sometimes used to prove, although it may have been previously known by ; and it ex- cludes a contrary cognition इदं ज्ञानमप्रमा which, being बाधक, may prevent the apprehension of я, provided of course this contrary cognition arises with reference to the know- ledge itself and not to the subsequent age. Besides, the Naiyayikas themselves in a way assent to स्वतः प्रामाण्य, 
 
-358 
+[[358]]
 
 Tarka-Sangraha. 
 
@@ -9720,7 +9720,7 @@ SBOT. LXIV.
 
 Notes. 
 
-350 
+[[350]]
 
 be no certainty of knowledge* It is unnecessary to enter further into this interesting but endless controversy. The reason why it was persued with so much vigour on both sides seems to be its important bearing on the question of the authority of the Vedas. If शब्द is स्वतःप्रमाण as the Mima msakas held, the truth of the Vedas was self-evident, and they required no external sanction to prove their claim to unflinching obedience; while if शब्द was परतः प्रमाण, the Vedas required some external proof of their authority, such as the fact of their being composed by Omniscient God. The Bauddhas denied the authority of the Vedas altogether, while the Naiyayikas made it dependent on God's author- ship. This may be one reason why the Naiyâyikas and Vaiseshikas were termed by their more orthodox rivals, erif- 
 
@@ -9744,7 +9744,7 @@ Wrong knowledge.
 
 * For a fuller discussion see Sarva, D. S. Calc. ed. pp. 129–32, and Ved. Par. Calc. ød. P. 27. 
 
-360 
+[[360]]
 
 Tarka-Sangraha. 
 
@@ -9768,7 +9768,7 @@ ATT, is explained by T. D. Doubt has three charac- teristics, that the knowledge
 
 Notes. 
 
-361 
+[[361]]
 
 that they must be irreconcilable with one another, and that they must be apprehended in the same thing. The definition however is not quite satisfactory, for it contains the word 
 
@@ -9776,7 +9776,7 @@ which is not very easy to define. There is no certain test to determine what pro
 
 centaur does not really exist, the definition of a would still apply to the imaginary notion of a centaur which is undoubtedly a knowledge of several contrary properties in one thing. This last objection may however be answered by saying that a centaur being wholly an imaginary being there is no qff on which the contrary properties are to be imposed. A better definition is एकस्मिन् धर्मिणि विरुद्धनानाकोटिकं ज्ञानम्. कोटि is an alternative, and the contrary कोटिs are the property and its negation. Thus when we have a doubt नित्यो न वा नित्यत्व is one कोटि and अनित्यत्व is the other ; and the संशय is said to be द्विकोटिक. When we have a doubt अयं स्थाणुर्वा पुरुषो वr, it is चतुष्कोटिक, for there we have four possible cases अयं स्थाणुः, अयंन स्थाणुः अयं पुरुषः and अयं न पुरुषः- 
 
-9 
+[[9]]
 
 Error and argu- ment by Reductio ad absurdum. 
 
@@ -9784,9 +9784,9 @@ Error and argu- ment by Reductio ad absurdum.
 
 3. fada (Error ) is of course any false notion; and is the mis-apprehension proper. Reductio ad absurdum requires some explantion. The definition of in the text is rather vague. Literally it signifies the imposition of a more extensive thing through the assump- tion of the less. The example given is however quite misleading. बह्रयभाव is व्याप्य and धूमभाव is व्यापक; therefore we assume the existence of age and deduce from it by means of a regular syllogism the existence of arra, as in the sentence यादे वह्निर्न स्यात्तार्ह धूमोऽपि न स्यात् which implies that वह्नचभाव necessarily leads to धूमाभाव. This is called व्याप्यrरोपेण व्यापकारोपणम्, and this according to Annambhatta's definition would be . But no one can say that the pro- 
 
-46 
+[[46]]
 
-362 
+[[362]]
 
 Tarka-Sangraha. 
 
@@ -9810,7 +9810,7 @@ SEOT. LXIV. 1
 
 Notes. 
 
-363 
+[[363]]
 
 agara a ar. If the former alternative is accepted, then of course his conclusion is admitted, and he need not proceed; but if the adversary accepts the latter, then he goes on:- पर्वतो वह्निमान् न स्यात् तर्हि स धूमवानपि न स्यात्. If the adver- sary questions this he is at once asked to produce an in- stance where smoke is found in the absence of fire; but this he cannot do since धूम being the कार्य of बह्लेि can never exist apart from it. The adversary is therefore forced to accept the व्याप्ति, यत्र यत्र वन्ह्यभावस्तत्र धूमाभावः । Now his assumption is पर्वतो बह्वभावबान्; therefore he reasons पर्वतो धूमाभाववान् । वह्न्यभाववत्त्वात् । यत्र यत्र वन्ह्यभावः etc. Thus he gets at the conclusion पर्वतो धूमाभदान; but this must be false as it is directly opposed to the observed fact qfar gary. The as- sumption therefore from which this absurd conclusion is derived, namely qfar aguuraara, must be false, and its con- tradictory qfar af must be true. Here the speaker first imposes or assumes the existence of व्याप्य २. ९. बह्वचभाव on the mountain, and from that (error) deduces the ex- istence of व्यापक . e. धूमाभाव, both of which impositions be- ing false are properly termed आरोप. The deduced आरोप, namely the absurd conclusion, is called . The real sense of Annambhaṭṭa's definition is thus brought out in Nila- kantha's paraphrase, आहार्यव्याप्यवत्ताभ्रमजन्य आहार्यव्यापकवत्ताभ्रम- 
 
@@ -9818,7 +9818,7 @@ agara a ar. If the former alternative is accepted, then of course his conclusion
 
 5. The differs from farfar in being formed by one who knows its falsity, while it differs from a fùa egiala in being only subsidiary to the establishment of its con- tradictory. Ancient Naiyâyikas mentioned eleven kinds of तर्कs, of which the moderns accept only five, viz. आत्माश्रय (Ignoratio Elenchi ), xräturau ( Dilemma ), da (Circle), अनवस्था (Regressus ad infinitum ) and प्रमाणबाधितार्थप्रसङ्ग ( Re- ductio ad absurdum). The example usually given comes under the last head, while the first four are only varieties of सव्यभिचार and असिद्ध fallacies framed in particular forms. The तर्क or केवलव्यतिरेकि अनुमान is very useful in proving 
 
-364 
+[[364]]
 
 Tarka-Sangraha. 
 
@@ -9848,7 +9848,7 @@ SEOT. LXXII. ]
 
 Notes. 
 
-365 
+[[365]]
 
 place from the first apprehension, and consequently the test of rare applicable to all first-hand cognitions, namely the inference based on actual verification of the external object, is generally not available in the case of . When we believe we see water, we can at once verify the truth of our perception by touching or drinking the water; but when we only remember to have seen water some time back and at a distant place, it is obviously impossible for us to go to the place and verify the truth of our fa. Hence a different 
 
@@ -9864,7 +9864,7 @@ What is experienced by all with agreeable feelings is Pleasure.
 
 What is experienced by all with disagreeable feelings is Pain. 
 
-360 
+[[360]]
 
 Tarka-Sangraha. 
 
@@ -9888,7 +9888,7 @@ SBOT. LXXIV.
 
 Notes. 
 
-367 
+[[367]]
 
 aversion in itself, and not because it causes the aversion for any other thing. 
 
@@ -9914,7 +9914,7 @@ or as it is sometimes called is therefore best rendered by effort, or volition.
 
 Merit and Deme- rit. 
 
-7 
+[[7]]
 
 पाप 
 
@@ -9928,7 +9928,7 @@ Cognition, desire and effort are of two kinds: eternal and non-eternal; eternal 
 
 सुख दुःख 
 
-368 
+[[368]]
 
 Tarka-Sangraha. 
 
@@ -9950,7 +9950,7 @@ SECT. LXXIX. Į
 
 Notes. 
 
-369 
+[[369]]
 
 mental impression is the special quality of Soul. Another and perhaps a still better definition of dear is given by Türkika-Raksha :-qardia: graecanfiger TE । ET માતા ની ET ज्जातीयस्य कारणम् । स्वयं यस्तविजातीयः संस्कारः भवेत् ॥ gangenfry: der: o edr via" "A property which pro- duces an effect from a cause of the same kind, although it is itself dissimilar." This means that whenever a quality or action in a thing is repeated or produces effects exactly similar to itself by some interual force and without exterual agency, the internal force is called Gere. 
 
@@ -9966,9 +9966,9 @@ SECT. LXXVI-LXXIX, fammererganaràsiar:. Action consists of motion. That which c
 
 * Türkika-Rakshá v. 48. 
 
-47 
+[[47]]
 
-370 
+[[370]]
 
 Tarka-Sangraha. 
 
@@ -9992,7 +9992,7 @@ kinds, he now goes on to define each of them. Antecedent negation has an end but
 
 Notes. 
 
-371 
+[[371]]
 
 rf which has once been destroyed is reproduced; will not then its intermediate have been destroyed in its turn by the reproduction? The Naiyayika answers, no; because the second rf, though produced from the same materials, is distinct from the first. That which was destroyed was destroyed for ever, while the new production is one which never existed before. T. D. mentions three characteristics of rare and each; both reside on the intimate or ma- terial cause of their प्रतियोगि, e. g. घटाभाव resides on मृत्परमाणुः they are respectively the cause and effect of their प्रतियोगि; and they are respectively the reasons why people say of a thing that 'it will be,' or that 'it is destroyed.' 
 
@@ -10004,7 +10004,7 @@ that is determined by the relation of identity of two things.' The qualification
 
 f is the connection by which one thing may reside on another. Thus a resides on its for the gas by संयोगसंबंध, while गन्ध resides in earth by समवायसंबंध, each of which is called f. Now if a jar stands on any spot of ground we say घटवतलम्, by which of course we mean संयोग- संबंधन घटवत्; and hence even in such a case we are free to say that समवायसंबंधेन भूतले घटो नास्ति. The jar stands on the spot by संयोगसंबंध, but not by समवाय संबंध; 50 that although भूतल is घटवत् by संयोग it is घटाभाववत् by समवाय. Here घट is the प्रतियोगि of भूतलनिष्ट घटाभाव, not by संयोग but by समवायः or more briefly the प्रतियोगिता of घट is समवायावच्छिन्न. Similarly although earth possesses odour by समवाय, the गन्ध may be said to be संयोगावच्छिन्नत्वेन प्रतियोगि of पृथिवीनिष्टगन्धात्यन्ताभाव. Whenever therefore an era of a thing is spoken of it 
 
-372 
+[[372]]
 
 Tarka-Sangraha. 
 
@@ -10036,7 +10036,7 @@ SEOT, LXXX. ]
 
 Notes. 
 
-373 
+[[373]]
 
 tence will be intelligible if we take आरोप्य to mean धर्म or property. It will then mean 'that अत्यन्ताभाव and अन्योन्याभाव, though having one प्रतियोगि, are manifold owing to the varie- ty ( भेदात् ) of the properties (आरोग्य) and connections (संसर्ग ) that are respectively प्रतियोगितावच्छेदक in each case ; that is, the number of अन्यो० depends on the variety of प्रति०-बच्छे ०- धर्म, and that of अत्य० on the variety of प्रति०-बच्छे ० -संसर्ग. Nilakantha interpretes the sentence in the same way. The remark appears to have been copied from a passage in Raghunatha Siromani's Didhiti, which being more explicit may be profitably compared with it. Raghunatha says एक- प्रतियोगिकयोरप्यत्यन्ताभावान्योन्याभावयोः प्रतियोगितावच्छेदकधर्म-प्रति- योगितावच्छेदकसंसर्ग-भेदाद्वहुत्वम् । तत्र प्रति० - संसर्गभेदादत्यन्ताभावबहु- त्वम् प्रति-धर्मभेदादन्योन्याभावबहुत्वमिति योजना. । * An illustra- tion will make all this clear. The अत्यन्ताभाव of केवल देवदत्त is distinct from that of दण्डविशिष्ट देवदत्त, because the प्रतियोगिता- बच्छेदक in one is केवलदेवदत्तसंसर्ग and in the other दण्डविशिष्ट- देवदत्तसंसर्ग. In अन्योन्याभाव there is no संसर्ग and therefore the तादात्म्य is considered with respect to properties (धर्म) residing ou प्रतियोगि. Thus the अन्योन्याभाव of श्वेत घट is different from that of नील घट, because the प्रतियोगितावच्छेदक is नीलत्व in one and श्वेतत्व in the other case. 
 
@@ -10046,7 +10046,7 @@ tence will be intelligible if we take आरोप्य to mean धर्म or
 
 * Bhimacharya : Ngiya Koshu, 2nd ed. p. 45, note 2. 
 
-374 
+[[374]]
 
 Tarka-Sangraha. 
 
@@ -10078,7 +10078,7 @@ SHOT. LXXXI. ]
 
 Notes. 
 
-375 
+[[375]]
 
 contains a list of sixteen padarthas recognized by the Naiya- yikas proper, namely, ( Proof), яàu ( Object of know- ledge ), संशय ( Doubt ), प्रयोजन ( Motive ), दृष्टान्त ( Instance ), सिद्धान्त ( Conclusion ), अवयव (Premise ), तर्क ( Reductio ad Ab- surdum), निर्णय ( Determination ), वाद ( Disquisition ), जल्प ( Controversy ), वितण्डा ( Cavil ), हेत्वाभास ( Fallacy ), छल (Perversion), (Self-contradiction), and far (Refuta- tion ). T. D. then briefly explains each of these and its sub- divisions. All these are not properly speaking categories but only so many topics that require to be attended to in a dis- putation with an antagonist. Gotama's 16 topics which are meant for dialectical purposes are therefore in no way ir- reconcilable with the seven Categories of Kanada which are metaphysical. There are however some other things recog- nized as separate padarthas by other systematists, but they also fall under the seven mentioned in this book. For in- stance (Power) and ( Ownership), says T. D., are not independent categories as some have supposed. The power of burning which resides in fire is not different from fire, while the power of ashes to cleanse metals is also not distinct from the washing away of those ashes, after they have purified the metal. a or ownership is only the capability of a thing for being disposed of just as one pleases, and is therefore nothing but a quality of the thing. area ( Resemblance) has also been supposed by some to be a distinct padartha; but Vis- ranâtha answers : साहइयमपि न पदार्थान्तरं किं तु तद्भिन्नत्वे सति तगतभूयोधर्मवत्त्वं । यथा चन्द्रभिन्नत्वे सति चन्द्रगताल्हादकत्वादिमत्त्वं मुखे चन्द्रसादृश्यम् । 
 
@@ -10092,7 +10092,7 @@ ction.
 
 * S. M. Calc. ed. p. 4. 
 
-376 
+[[376]]
 
 Tarka-Sangraha. 
 
@@ -10118,9 +10118,9 @@ Notes.
 
 considered and contemplated upon."* 
 
-6 
+[[6]]
 
-3 
+[[3]]
 
 Gotama defines 
 
@@ -10144,9 +10144,9 @@ consists in the er-
 
 § G. S. I, 1, 2. 
 
-48 
+[[48]]
 
-378 
+[[378]]
 
 Tarka-Sangraha. 
 
@@ -10180,7 +10180,7 @@ b. In the sentence the bird sits on the tree on the branch' ( za urai qefi ), ś
 
 0. But the third is the usual Naiyayika use of the word i. e. as determining ( niyâmaka ). Wherever we find a re- lation which is not itself included in any one of the seven categories but is common to several, we require something to determine its different varieties; thus if we say that fire is the cause of smoke, or vice versa smoke the effect of fire, we do not mean only this particular case but any fire or smoke; we therefore require, to determine this particular relation of causality, something which shall be always found present with it. This in fire is the cause of smoke' it will be vahnitea, the species of all fires. This will always be found present wherever the causation of smoke is found, and it is therefore called the dhuma-hâranatâvachchhedaka as dhûmatwa would be the vahnikâryatâvachchedaka. If we have several causes or effects (as e. g. green wood in the case of smoke), each kâranatá or kâryatâ will require its own avachchhedaka. But we could not say that substance' is the avachchhedaka of 'quality' although it does always 
 
-380 
+[[380]]
 
 Tarka-Sangraha. 
 
@@ -10222,7 +10222,7 @@ at Bombay.
 
 ११ तर्कफक्किका by क्षमाकल्याण.Appendix B. 
 
-381 
+[[381]]
 
 १२ न्यायार्थलघुबोधिनी by गोवर्धनरङ्गाचार्यः 
 
@@ -10286,7 +10286,7 @@ D-An oblong edition of Sangrahu with the commentary Siddhanta-Chadrodaya by Srik
 
 Appendix C. 
 
-383 
+[[383]]
 
 E-An oblong edition of Sangraha with the commentary Vâkya-Vritti of Meru Sastri printed at Poona in 1873. Its value consists entirely in the commentary. F-An annotated edition of Sangraha and Dipika by Mr. K. C. Mehendale B. A. This although professing to be based on two or three Mss. does not materially differ from the Nirnaya Sagar edition. A second edition of this has been published in 1908 with the addition of a new Sanskrit commentary by Pandit Bhavanishankar Shastri. 
 
@@ -10300,7 +10300,7 @@ J-A Ms. of Sangraha and Dipika belonging to Dr. H.
 
 Jacobi of Bonn, Germany. It is undoubtedly the oldest and also the best authority. It is very clearly written and contains many marginal corrections in at least two hands. The Sangraha and the Dipika are paged differently and have different colophons. The colophon at the end of the Dipika is inserted in our edition (p. 67 supra); while that of the Sangraha runs thus:-gra श्रीतर्कसंग्रहाभिधानो ग्रन्थः समाप्तिमगमत् । सांबशिवो जयतु । श्रीरस्तु । संवत् १७७० वर्षे कार्तिकशुरूषष्ट्यां बुधे लिखितोऽयं ग्रन्थः । शुभमस्तु ॥ It arrived after the work of collation of the 1st edition was completed, but just in time to allow its varietas lectionis being incorporated in the footnotes. Fortunately except in one or two instances no alterations were needed, as the 
 
-384 
+[[384]]
 
 Tarka-Sangraha. 
 
@@ -10338,9 +10338,9 @@ too, of the last preceding, printed at Benares in 1881. U:-An editon of Sangraha
 
 V:A Ms. of Nyâya-Bodhint kindly lent by Pandit Bad- rinatha Śâstrin of Baroda. It generally agrees with Ế, R and C, and was useful for ascertaining the correct reading whenever the other copies differed hopelessly. It sometimes gives its own variants. It ends at emater and bears no date. 
 
-49 
+[[49]]
 
-388 
+[[388]]
 
 Tarka-Sangrahu. 
 
@@ -10438,7 +10438,7 @@ Bhrama- 57
 
 Buddhi- 5,20,59,173 
 
-388 
+[[388]]
 
 Tarka-Sangraha. 
 
@@ -10604,7 +10604,7 @@ Mûrtatva-11
 
 N. 
 
-210 
+[[210]]
 
 Nigamâna- 38 
 
@@ -10626,7 +10626,7 @@ Kevalânvayi- 40,257,287
 
 Kevala-vyatireki- 40,257, 
 
-287 
+[[287]]
 
 Kiraṇâvali-1,' 71 
 
@@ -10722,9 +10722,9 @@ Phala- 64
 
 Pilupaka-17 
 
-389 
+[[389]]
 
-390 
+[[390]]
 
 Pita- 4 
 
@@ -10894,7 +10894,7 @@ Vallabhacharya- Intro. IL.
 
 Vardhamâna- Intro. LII. 
 
-391 
+[[391]]
 
 Vaiseshika guna or Visesha 
 
@@ -10956,7 +10956,7 @@ Vishaya- 6,70,109
 
 Undistributed middle- 327, । Vitaṇḍâ- 64 
 
-330 
+[[330]]
 
 Upâdâna- 13,209 
 
@@ -10968,7 +10968,7 @@ Vyabhichara-jñâna- 38
 
 Vyañjana- 51,346 
 
-392 
+[[392]]
 
 Vyapâravat- 25,29 
 

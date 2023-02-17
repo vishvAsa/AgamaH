@@ -34,7 +34,7 @@ THE
 
 KUPPUSWAMI SASTRI RESEARCH INSTITUTEMYLAPORE, MADRAS 
 
-1951
+[[1951]]
 
 Four EDITION 1932   
 
@@ -90,7 +90,7 @@ The thanks of the Institute authorities are specially due to Sri N. Ramaratnam, 
 
 a 
 
-13 
+[[13]]
 
 o > ^ 
 
@@ -1274,7 +1274,7 @@ CHAPTER I
 
 PERCEPTION 
 
-1 
+[[1]]
 
 T In my heart, I devoutly 
 
@@ -1302,7 +1302,7 @@ is generally stated to form thesambandha in almostall sastra works. This would b
 
 The name Tarka-samgraha is interpreted byAnnambhatta himself as a compendious elucidation of the nature of substance, qualities and such other onto logical categories of the Vaisesika system, that are accepted by Nyaya. The term tarka is thus taken bythe author in a somewhat unusual sense. The usual meanings, however, of the word tarka are logic, reason ing, reductio ad absurdum and discussion. Putting all these ideas together, it would be easy to see how the title Tarka-samgraha may be taken to be equivalent to A Primer of the Nyaya-Vaisesika system in its syn cretist form*. 
 
-2 
+[[2]]
 
 T Substance, quality, ac 
 
@@ -1760,7 +1760,7 @@ clay, stones and such other
 
 things. 
 
-5 
+[[5]]
 
 T Water is that which has 
 
@@ -1796,7 +1796,7 @@ jects made of water are rivers*
 
 ocean and such others. 
 
-6 
+[[6]]
 
 T Fire is that which has
 
@@ -1856,7 +1856,7 @@ lustrous metals form the variety
 
 which is dug out of a mine. 
 
-7 
+[[7]]
 
 T The air is that which
 
@@ -1904,7 +1904,7 @@ etc., according as its abodes in
 
 the body differ. 
 
-8 
+[[8]]
 
 T Ether is that which has 
 
@@ -2014,7 +2014,7 @@ perception, for the reason that their qualities are sub perceptional (atoudbhuta
 
 Ether (Akasa) is inferred as the eternal and all pervasive substratum in which sound inheres. Accord ing to the Samkhyas and Advaitins, it is an element produced and destroyed in the same way as other ele ments. In Nyaya, the sense of hearing is represented by ether delimited by the orifice of the ear. Ether is all-pervasive (rtbhu)in the sense that it comes into contact with all the movable (muria)substances of finite size (paricchinnaparimana*). An all-pervasive substance does not admit of any movement and is one and eternal, divisibilty and non-eternity being incom patible with all-pervasiveness. The sense of hearingis equated with space (dik~ spatial direction) by the Mimamsakas. It should be remembered that the term ether is the nearest approximationto dkdsa as under stood in Nyaya and that the function of serving as the medium of light and heat, which modern science ascribes so ether, does not belong to akaSa. 
 
-9 
+[[9]]
 
 T Time is the (distinctive)- 
 
@@ -2024,7 +2024,7 @@ the terms past,etc. It is one,
 
 all-pervasive and eternal. 
 
-10 
+[[10]]
 
 T Direction (in space) is 
 
@@ -2066,7 +2066,7 @@ The Vaiyakarana philosophers speak of time andspace as modifications of the subt
 
 a series of activities. The conception of a kriya or!karma9 even in its strict sense, is inseparably bound upwith the conception of duration, every kriya lasting for four ksanas (moments)as already explainedin page 16, part in, supra. In this connection, it should be remembered that though there can be no contact between two all-pervasive substances (vibhudravya),there is contact between one such substance andanother substance limited in size;for contact presup poses movement, and in the case of a substance limited in size, movement is possible, though it is not possible in the case of an all-pervasive substance. 
 
-11 
+[[11]]
 
 T The substratum in 
 
@@ -2092,7 +2092,7 @@ bodies, though it is all-pervasive
 
 and eternal. 
 
-12 
+[[12]]
 
 T Mind (manas) is the 
 
@@ -2182,7 +2182,7 @@ be understood to have reference to the relation of material cause (npaddnakdrana
 
 86 A PRIMER OF INDIAN LOGIC [PART in   
 
-13 
+[[13]]
 
 T Colour is the quality 
 
@@ -2210,7 +2210,7 @@ White colour, which is brilliant,
 
 belongs to light. 
 
-14 
+[[14]]
 
 T Taste is the quality 
 
@@ -2232,7 +2232,7 @@ while the sweet only belongs to
 
 water. 
 
-15 
+[[15]]
 
 T Smell is the quality 
 
@@ -2246,7 +2246,7 @@ the fragrant and the non-frag
 
 rant. It is found in earth only 
 
-16 
+[[16]]
 
 T Touch is the qualit; 
 
@@ -2308,7 +2308,7 @@ disintegrated down to the stage of atoms; the qualities of colour, taste, smell 
 
 place, new dyads, triads and other composite products being formed in accordance with the adrstas of the individual souls concerned with such products. Thistheory of pdka is known as pilvpakavuda or 'the theory of atoms being burnt'. The Nyaya theorists, on the other hand, hold that composite products are left intact in pdka and are not disintegrated and that their colour and such other qualities are replaced by corresponding qualities of different species. This theory of pakamaintained by the Naiyayikas is known as pitharafdka uada or 'the theory of composite wholes being burnt/ It should be remembered, in this connection, that in the Nyaya- Vaisesika system, earth is the only substance which admits of the special process of burning called pdka, though contact with fire is quite possiblein the case of any other substance. 
 
-18 
+[[18]]
 
 T Number is the special 
 
@@ -2358,7 +2358,7 @@ The NySya conception of number more especially of two and the higher numbers as 
 
 94 A PRIMER OF INDIAN LOGIC [PART m  
 
-19 
+[[19]]
 
 T Size is the special cause 
 
@@ -2372,7 +2372,7 @@ four kinds atomic, large, long
 
 and short. 
 
-20 
+[[20]]
 
 T Separateness is the 
 
@@ -2384,7 +2384,7 @@ that'. It is found in all the
 
 substances. 
 
-21 
+[[21]]
 
 T Contact is the special 
 
@@ -2396,7 +2396,7 @@ other/ It is found in all the
 
 substances. 
 
-22 
+[[22]]
 
 T Disjunction is the 
 
@@ -2404,7 +2404,7 @@ quality which destroys contact.
 
 It is found in all the substances. 
 
-23 
+[[23]]
 
 T Remoteness and proxi 
 
@@ -2478,7 +2478,7 @@ motion (of a falling substance)
 
 It is found in earth and water. 
 
-25 
+[[25]]
 
 T Fluidity is the non-inti 
 
@@ -2510,7 +2510,7 @@ gold and such other varieties of
 
 light. 
 
-26 
+[[26]]
 
 T Viscidity is the quality 
 
@@ -2528,7 +2528,7 @@ The above definitions of gurutva, dravatva andsneha have hardly any scientific v
 
 sense-perception (atindriya). The Naiyayikas main tain that, though oil and such other substances appear to have viscidity (sneha), it really belongs to water which forms part of those substances. 
 
-27 
+[[27]]
 
 T Sound is a quality 
 
@@ -2566,7 +2566,7 @@ varnas themselves are not permanent. The Nyaya Vaisesika system maintains that e
 
 permanent jati called gatva and not to the same#-sound (ga-vyakti). 
 
-28 
+[[28]]
 
 T (a)BuddJii and Jndna
 
@@ -3384,7 +3384,7 @@ CHAPTER II
 
 INFERENCE 
 
-31 
+[[31]]
 
 (a) Anum&na (Inference)
 

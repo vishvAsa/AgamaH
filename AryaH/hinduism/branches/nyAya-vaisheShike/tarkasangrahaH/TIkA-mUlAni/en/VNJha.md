@@ -78,7 +78,7 @@ Text with Translation and Notes
 
 
 
-1 
+[[1]]
 
 
 
@@ -86,7 +86,7 @@ Key Terms
 
 
 
-122 
+[[122]]
 
 
 
@@ -94,7 +94,7 @@ Bibliography
 
 
 
-130 
+[[130]]
 
 
 
@@ -102,7 +102,7 @@ Commentaries of Tarkasangraha
 
 
 
-139 
+[[139]]
 
 
 
@@ -1136,7 +1136,7 @@ conscious
 
 
 
-123
+[[123]]
 
 
 
@@ -1608,7 +1608,7 @@ a collection of words/morphemes entity/referent
 
 
 
-125
+[[125]]
 
 
 
@@ -1856,7 +1856,7 @@ earth
 
 
 
-126
+[[126]]
 
 
 
@@ -2088,7 +2088,7 @@ common
 
 
 
-127
+[[127]]
 
 
 
@@ -2328,7 +2328,7 @@ made of linguistic sound
 
 
 
-128
+[[128]]
 
 
 
@@ -2572,7 +2572,7 @@ true
 
 
 
-131 
+[[131]]
 
 
 
@@ -2612,7 +2612,7 @@ true
 
 
 
-132
+[[132]]
 
 
 
@@ -2660,7 +2660,7 @@ true
 
 
 
-133
+[[133]]
 
 
 
@@ -2680,7 +2680,7 @@ true
 
 
 
-1933
+[[1933]]
 
 
 
@@ -2692,7 +2692,7 @@ true
 
 
 
-1915
+[[1915]]
 
 
 
@@ -2708,7 +2708,7 @@ true
 
 
 
-134
+[[134]]
 
 
 
@@ -2736,7 +2736,7 @@ true
 
 
 
-1961
+[[1961]]
 
 
 
@@ -2756,7 +2756,7 @@ true
 
 
 
-135
+[[135]]
 
 
 
@@ -2854,7 +2854,7 @@ true
 
 
 
-137
+[[137]]
 
 
 
@@ -2882,7 +2882,7 @@ Commentator
 
 
 
-1
+[[1]]
 
 
 
@@ -2906,7 +2906,7 @@ Commentator
 
 
 
-3
+[[3]]
 
 
 
@@ -2918,7 +2918,7 @@ Commentator
 
 
 
-4
+[[4]]
 
 
 
@@ -2934,7 +2934,7 @@ LO
 
 
 
-5
+[[5]]
 
 
 
@@ -2946,7 +2946,7 @@ LO
 
 
 
-6
+[[6]]
 
 
 
@@ -2958,7 +2958,7 @@ LO
 
 
 
-7
+[[7]]
 
 
 
@@ -2970,7 +2970,7 @@ LO
 
 
 
-8
+[[8]]
 
 
 
@@ -2982,7 +2982,7 @@ LO
 
 
 
-9
+[[9]]
 
 
 
@@ -2990,7 +2990,7 @@ LO
 
 
 
-10
+[[10]]
 
 
 
@@ -3002,7 +3002,7 @@ LO
 
 
 
-11
+[[11]]
 
 
 
@@ -3014,7 +3014,7 @@ LO
 
 
 
-12
+[[12]]
 
 
 
@@ -3026,7 +3026,7 @@ LO
 
 
 
-13
+[[13]]
 
 
 
@@ -3038,7 +3038,7 @@ LO
 
 
 
-14
+[[14]]
 
 
 
@@ -3050,7 +3050,7 @@ LO
 
 
 
-15
+[[15]]
 
 
 
@@ -3058,7 +3058,7 @@ LO
 
 
 
-16
+[[16]]
 
 
 
@@ -3070,7 +3070,7 @@ LO
 
 
 
-17
+[[17]]
 
 
 
@@ -3078,7 +3078,7 @@ LO
 
 
 
-18
+[[18]]
 
 
 
@@ -3090,7 +3090,7 @@ LO
 
 
 
-19
+[[19]]
 
 
 
@@ -3098,7 +3098,7 @@ LO
 
 
 
-20
+[[20]]
 
 
 
@@ -3114,11 +3114,11 @@ LO
 
 
 
-2223
+[[2223]]
 
 
 
-21
+[[21]]
 
 
 
@@ -3138,7 +3138,7 @@ LO
 
 
 
-24
+[[24]]
 
 
 
@@ -3150,7 +3150,7 @@ LO
 
 
 
-25
+[[25]]
 
 
 
@@ -3166,7 +3166,7 @@ LO
 
 
 
-26
+[[26]]
 
 
 
@@ -3178,7 +3178,7 @@ LO
 
 
 
-27
+[[27]]
 
 
 
@@ -3190,7 +3190,7 @@ LO
 
 
 
-28
+[[28]]
 
 
 
@@ -3198,7 +3198,7 @@ LO
 
 
 
-29
+[[29]]
 
 
 
@@ -3210,11 +3210,11 @@ LO
 
 
 
-30
+[[30]]
 
 
 
-30
+[[30]]
 
 
 
@@ -3230,7 +3230,7 @@ LO
 
 
 
-31
+[[31]]
 
 
 
@@ -3238,7 +3238,7 @@ LO
 
 
 
-32
+[[32]]
 
 
 
@@ -3246,7 +3246,7 @@ LO
 
 
 
-33
+[[33]]
 
 
 
@@ -3258,7 +3258,7 @@ LO
 
 
 
-34
+[[34]]
 
 
 
@@ -3274,7 +3274,7 @@ LO
 
 
 
-35
+[[35]]
 
 
 
@@ -3290,7 +3290,7 @@ LO
 
 
 
-36
+[[36]]
 
 
 
@@ -3302,7 +3302,7 @@ LO
 
 
 
-37
+[[37]]
 
 
 
@@ -3314,7 +3314,7 @@ LO
 
 
 
-38
+[[38]]
 
 
 
@@ -3330,7 +3330,7 @@ LO
 
 
 
-39
+[[39]]
 
 
 
@@ -3342,7 +3342,7 @@ LO
 
 
 
-40
+[[40]]
 
 
 
@@ -3354,7 +3354,7 @@ LO
 
 
 
-41
+[[41]]
 
 
 
@@ -3362,7 +3362,7 @@ LO
 
 
 
-42
+[[42]]
 
 
 
@@ -3374,7 +3374,7 @@ LO
 
 
 
-43
+[[43]]
 
 
 
@@ -3386,7 +3386,7 @@ LO
 
 
 
-44
+[[44]]
 
 
 
@@ -3398,7 +3398,7 @@ LO
 
 
 
-45
+[[45]]
 
 
 
@@ -3406,7 +3406,7 @@ LO
 
 
 
-46
+[[46]]
 
 
 
@@ -3414,7 +3414,7 @@ LO
 
 
 
-47
+[[47]]
 
 
 
@@ -3422,7 +3422,7 @@ LO
 
 
 
-48
+[[48]]
 
 
 
@@ -3442,7 +3442,7 @@ LO
 
 
 
-140
+[[140]]
 
 
 
@@ -3450,7 +3450,7 @@ English Translation with Notes
 
 
 
-49
+[[49]]
 
 
 
@@ -3462,7 +3462,7 @@ English Translation with Notes
 
 
 
-50
+[[50]]
 
 
 
@@ -3470,7 +3470,7 @@ English Translation with Notes
 
 
 
-51
+[[51]]
 
 
 
@@ -3482,7 +3482,7 @@ English Translation with Notes
 
 
 
-52
+[[52]]
 
 
 
@@ -3494,7 +3494,7 @@ English Translation with Notes
 
 
 
-53
+[[53]]
 
 
 
@@ -3514,7 +3514,7 @@ English Translation with Notes
 
 
 
-54
+[[54]]
 
 
 
@@ -3526,7 +3526,7 @@ English Translation with Notes
 
 
 
-55
+[[55]]
 
 
 
@@ -3538,7 +3538,7 @@ English Translation with Notes
 
 
 
-56
+[[56]]
 
 
 
@@ -3550,7 +3550,7 @@ English Translation with Notes
 
 
 
-57
+[[57]]
 
 
 
@@ -3562,7 +3562,7 @@ English Translation with Notes
 
 
 
-58
+[[58]]
 
 
 
@@ -3574,7 +3574,7 @@ English Translation with Notes
 
 
 
-59
+[[59]]
 
 
 
@@ -3586,7 +3586,7 @@ English Translation with Notes
 
 
 
-60
+[[60]]
 
 
 
@@ -3598,7 +3598,7 @@ English Translation with Notes
 
 
 
-61
+[[61]]
 
 
 
@@ -3606,7 +3606,7 @@ English Translation with Notes
 
 
 
-62
+[[62]]
 
 
 
@@ -3622,7 +3622,7 @@ English Translation with Notes
 
 
 
-63
+[[63]]
 
 
 
@@ -3634,7 +3634,7 @@ English Translation with Notes
 
 
 
-64
+[[64]]
 
 
 
@@ -3646,7 +3646,7 @@ English Translation with Notes
 
 
 
-65
+[[65]]
 
 
 
@@ -3658,7 +3658,7 @@ English Translation with Notes
 
 
 
-66
+[[66]]
 
 
 
@@ -3670,7 +3670,7 @@ English Translation with Notes
 
 
 
-67
+[[67]]
 
 
 
@@ -3686,7 +3686,7 @@ English Translation with Notes
 
 
 
-68
+[[68]]
 
 
 
@@ -3698,7 +3698,7 @@ English Translation with Notes
 
 
 
-69
+[[69]]
 
 
 
@@ -3706,7 +3706,7 @@ English Translation with Notes
 
 
 
-70
+[[70]]
 
 
 
@@ -3718,7 +3718,7 @@ English Translation with Notes
 
 
 
-71
+[[71]]
 
 
 
@@ -3726,11 +3726,11 @@ English Translation with Notes
 
 
 
-223
+[[223]]
 
 
 
-72
+[[72]]
 
 
 
@@ -3746,11 +3746,11 @@ English Translation with Notes
 
 
 
-74
+[[74]]
 
 
 
-75
+[[75]]
 
 
 
@@ -3758,7 +3758,7 @@ English Translation with Notes
 
 
 
-141
+[[141]]
 
 
 
@@ -3770,7 +3770,7 @@ I
 
 
 
-76
+[[76]]
 
 
 
@@ -3786,7 +3786,7 @@ I
 
 
 
-77
+[[77]]
 
 
 
@@ -3798,7 +3798,7 @@ I
 
 
 
-78
+[[78]]
 
 
 
@@ -3806,7 +3806,7 @@ I
 
 
 
-79
+[[79]]
 
 
 
@@ -3814,7 +3814,7 @@ I
 
 
 
-80
+[[80]]
 
 
 
@@ -3826,7 +3826,7 @@ I
 
 
 
-81
+[[81]]
 
 
 
@@ -3842,7 +3842,7 @@ I
 
 
 
-82
+[[82]]
 
 
 
@@ -3854,7 +3854,7 @@ I
 
 
 
-83
+[[83]]
 
 
 
@@ -3870,7 +3870,7 @@ I
 
 
 
-84
+[[84]]
 
 
 
@@ -3882,7 +3882,7 @@ I
 
 
 
-85
+[[85]]
 
 
 
@@ -3898,7 +3898,7 @@ I
 
 
 
-86
+[[86]]
 
 
 
@@ -3910,7 +3910,7 @@ I
 
 
 
-87
+[[87]]
 
 
 
@@ -3918,7 +3918,7 @@ I
 
 
 
-88
+[[88]]
 
 
 
@@ -3930,7 +3930,7 @@ I
 
 
 
-89
+[[89]]
 
 
 
@@ -3938,7 +3938,7 @@ I
 
 
 
-90
+[[90]]
 
 
 
@@ -3998,7 +3998,7 @@ There are six systems of Indian philosophy under the group called astika-darśan
 
  
 
-1 
+[[1]]
 
 
 
@@ -4030,7 +4030,7 @@ sapta padarthāḥ.
 
 
 
-2 
+[[2]]
 
 
 
@@ -4054,7 +4054,7 @@ The significant contribution of the system of Nyāya- Vaiseṣika is the analysi
 
 
 
-3 
+[[3]]
 
 
 
@@ -4190,7 +4190,7 @@ We are on the ground now. We deal with these nine. substances. Of these nine the
 
 
 
-5 
+[[5]]
 
 
 
@@ -4246,7 +4246,7 @@ These twenty-four qualities reside in the substance only. No quality resides in 
 
 
 
-6 
+[[6]]
 
 
 
@@ -4298,7 +4298,7 @@ As a matter of fact all these five types of action can be covered by a single te
 
 
 
-7 
+[[7]]
 
 
 
@@ -4346,7 +4346,7 @@ It is of two types, keeping in view its extension. 'Potness' includes all pots, 
 
 
 
-8 
+[[8]]
 
 
 
@@ -4430,7 +4430,7 @@ This relationship can be either a product (hence anitya) or permanent (nitya). T
 
 
 
-10 
+[[10]]
 
 
 
@@ -4490,7 +4490,7 @@ particular
 
 
 
-11 
+[[11]]
 
 
 
@@ -4558,7 +4558,7 @@ Absence is of four types: pre-absence, destruction, absolute absence and mutual 
 
 
 
-12 
+[[12]]
 
 
 
@@ -4594,7 +4594,7 @@ This absence not only exists today, it existed yesterday and will exist tomorrow
 
 
 
-13 
+[[13]]
 
 
 
@@ -4670,7 +4670,7 @@ locus
 
 
 
-15 
+[[15]]
 
 
 
@@ -4710,7 +4710,7 @@ Let us try to understand this with the help of an example. Suppose, we want to d
 
 
 
-16 
+[[16]]
 
 
 
@@ -4746,7 +4746,7 @@ If we select padarthatva, it will mean we are defining any padartha; but it is n
 
 
 
-17 
+[[17]]
 
 
 
@@ -4790,7 +4790,7 @@ Here, the āgantuka-dharma namely, lakṣyatā is avacchinna and gotva is avacch
 
 
 
-18 
+[[18]]
 
 
 
@@ -4890,7 +4890,7 @@ A definition should be free from this defect.
 
 
 
-20 
+[[20]]
 
 
 
@@ -4950,7 +4950,7 @@ lakṣyamatra-avṛttitvam asambhavaḥ.
 
 
 
-21 
+[[21]]
 
 
 
@@ -4994,7 +4994,7 @@ a property in terms of which 'earth' can be defined. The earth possesses the fol
 
 
 
-22 
+[[22]]
 
 
 
@@ -5038,7 +5038,7 @@ water
 
 
 
-23 
+[[23]]
 
 
 
@@ -5106,7 +5106,7 @@ The minerals like 'gold' etc. are considered to be 'fire' on logical grounds. Si
 
 
 
-25 
+[[25]]
 
 
 
@@ -5142,7 +5142,7 @@ rūparahitasparśavān vāyuḥ. sa dvividho nityo 'nityaśca. nityaḥ paramā�
 
 
 
-26 
+[[26]]
 
 
 
@@ -5178,7 +5178,7 @@ are:
 
 
 
-27 
+[[27]]
 
 
 
@@ -5234,7 +5234,7 @@ Sky is to be understood as vibhu which is defined as 'that which is connected wi
 
 
 
-28 
+[[28]]
 
 
 
@@ -5330,7 +5330,7 @@ Soul or self (jīvātman) is that substance which is the locus of knowledge. The
 
 
 
-30 
+[[30]]
 
 
 
@@ -5350,7 +5350,7 @@ The jīvātman acquires knowledge through the instrument of mind and an instrume
 
 
 
-31 
+[[31]]
 
 
 
@@ -5390,7 +5390,7 @@ We have seen that a knower acquires knowledge of the world. In other words, he i
 
 
 
-32 
+[[32]]
 
 
 
@@ -5422,7 +5422,7 @@ Therefore, each self must be provided with an instrument called 'mind' to intern
 
 
 
-33 
+[[33]]
 
 
 
@@ -5510,7 +5510,7 @@ Taste is that quality which is revealed by tongue. The taste is of six types: sw
 
 
 
-35 
+[[35]]
 
 
 
@@ -5574,7 +5574,7 @@ The faculty of 'nose' is made of earth and earth is the natural locus of smell. 
 
 
 
-36 
+[[36]]
 
 
 
@@ -5614,7 +5614,7 @@ Touch is that quality which is revealed by the faculty of touch. That is of thre
 
 
 
-37 
+[[37]]
 
 
 
@@ -5662,7 +5662,7 @@ Number is that quality in terms of which reference like 1,2,3....etc. is made. I
 
 
 
-38 
+[[38]]
 
 
 
@@ -5790,7 +5790,7 @@ The other two types of relation are inherence which is a permanent entity and a 
 
 
 
-40 
+[[40]]
 
 
 
@@ -5854,7 +5854,7 @@ Remoteness and nearness are the uncommon cause of reference to things at a far d
 
 
 
-41 
+[[41]]
 
 
 
@@ -5914,7 +5914,7 @@ adyasyandanāsamavāyikāraṇaṁ dravatvam. pṛthivyaptejo- vṛtti. taddvivi
 
 
 
-42 
+[[42]]
 
 
 
@@ -5970,7 +5970,7 @@ That because of which moulding is possible is called moisture. This is the prope
 
 
 
-43 
+[[43]]
 
 
 
@@ -6032,7 +6032,7 @@ ranubhavaśceti.
 
 
 
-45 
+[[45]]
 
 
 
@@ -6080,7 +6080,7 @@ A true experience is that which reflects the qualifier in its own locus. This is
 
 
 
-46 
+[[46]]
 
 
 
@@ -6148,7 +6148,7 @@ cognition of pot
 
 
 
-47 
+[[47]]
 
 
 
@@ -6212,7 +6212,7 @@ bhrama ityucyate. yatha śuktāvidam rajatamiti jñānam.
 
 
 
-48 
+[[48]]
 
 
 
@@ -6328,7 +6328,7 @@ There are four processes of internalizing the world. Internalizing means making 
 
 
 
-50 
+[[50]]
 
 
 
@@ -6416,7 +6416,7 @@ asādhāraṇam kāraṇam karanam. kāryaniyatapurvavṛtti kāranam. kāryam p
 
 
 
-51 
+[[51]]
 
 
 
@@ -6456,7 +6456,7 @@ A cause is a factor or a karaka which is involved in producing an effect. Pramā
 
 
 
-52 
+[[52]]
 
 
 
@@ -6528,7 +6528,7 @@ Here, if we apply the first notion of karana stated above (1) we will identify z
 
 
 
-53 
+[[53]]
 
 
 
@@ -6684,7 +6684,7 @@ All effects are analyzed in this system in terms of these three types of causes,
 
 
 
-55 
+[[55]]
 
 
 
@@ -6724,7 +6724,7 @@ The process of acquiring the cognition of the world directly by the sense-organs
 
 
 
-56 
+[[56]]
 
 
 
@@ -6756,7 +6756,7 @@ Here, all the three entities appear in the cognition, but they do not reflect a 
 
 
 
-57 
+[[57]]
 
 
 
@@ -6800,7 +6800,7 @@ A determinate cognition is also called visiṣṭa-jñāna where qualifier, qual
 
 
 
-58 
+[[58]]
 
 
 
@@ -6860,7 +6860,7 @@ Samyoga is that contact by which our eyes produce the perception of a pot. With 
 
 
 
-60 
+[[60]]
 
 
 
@@ -6932,7 +6932,7 @@ contact
 
 
 
-61 
+[[61]]
 
 
 
@@ -7036,7 +7036,7 @@ ears
 
 
 
-62 
+[[62]]
 
 
 
@@ -7100,7 +7100,7 @@ anumitikaraṇamanumānam. parāmarśajanyaṁ jñānama- numitiḥ. vyāptivisi
 
 
 
-63 
+[[63]]
 
 
 
@@ -7176,7 +7176,7 @@ mountain
 
 
 
-65 
+[[65]]
 
 
 
@@ -7244,7 +7244,7 @@ mountain
 
 
 
-66 
+[[66]]
 
 
 
@@ -7280,7 +7280,7 @@ yattu svayam dhumadagnimanumāya parapratipattyar- tham pañcāvayavavākyam pra
 
 
 
-67 
+[[67]]
 
 
 
@@ -7312,7 +7312,7 @@ wants to convince others by using
 
 
 
-68 
+[[68]]
 
 
 
@@ -7392,7 +7392,7 @@ Although these steps are five sentences, the process is not the process of sabda
 
 
 
-70 
+[[70]]
 
 
 
@@ -7420,7 +7420,7 @@ lingam trividham. anvayavyatireki kevalānvayi kevalavyati- reki ca. anvayena vy
 
 
 
-71 
+[[71]]
 
 
 
@@ -7440,7 +7440,7 @@ A linga or mark or ground or reason is of three types (i) anvayavyatirekin, (whi
 
 
 
-72 
+[[72]]
 
 
 
@@ -7488,7 +7488,7 @@ But 'where there is no x, there is no y' if it is true, it is said to have vyati
 
 
 
-73 
+[[73]]
 
 
 
@@ -7556,7 +7556,7 @@ The area of fire is the entire circle of A, but the area of smoke is the circle 
 
 
 
-6 
+[[6]]
 
 
 
@@ -7580,7 +7580,7 @@ But there is a case where the method cannot be applicable even though it is a ca
 
 
 
-75 
+[[75]]
 
 
 
@@ -7628,7 +7628,7 @@ sandigdhasadhyavan pakṣaḥ. yatha dhumavattve hetau parvataḥ. niścitasādh
 
 
 
-76 
+[[76]]
 
 
 
@@ -7676,7 +7676,7 @@ Suppose, the desire to establish the sadhya is A; and the knowledge of sadhya is
 
 
 
-77 
+[[77]]
 
 
 
@@ -7752,7 +7752,7 @@ When some one is inside a room and comes to know that there are clouds in the sk
 
 
 
-78 
+[[78]]
 
 
 
@@ -7900,7 +7900,7 @@ For instance, one cannot know smoke from the knowledge of fire, because it is no
 
 
 
-80 
+[[80]]
 
 
 
@@ -7932,7 +7932,7 @@ what is intended to be established is not true. In a broad
 
 
 
-81 
+[[81]]
 
 
 
@@ -7964,7 +7964,7 @@ The savyabhicara is also called anaikāntika. That is of three types: (i) sādh�
 
 
 
-82 
+[[82]]
 
 
 
@@ -8004,7 +8004,7 @@ anupasamhārin
 
 
 
-83 
+[[83]]
 
 
 
@@ -8144,7 +8144,7 @@ Over and above the vyabhicara-dosa this hetu (kāryatva) is suffering here from 
 
 
 
-85 
+[[85]]
 
 
 
@@ -8200,7 +8200,7 @@ Here one ground (śrāvaṇatva) establishes that sabda is eternal and the other
 
 
 
-86 
+[[86]]
 
 
 
@@ -8220,7 +8220,7 @@ asiddhastrividhaḥ. aśrayāsiddhaḥ svarupāsiddho vyāpyatv- asiddhaśca. a�
 
 
 
-87 
+[[87]]
 
 
 
@@ -8248,7 +8248,7 @@ To illustrate: In the case of inference viz. the mountain has smoke because it h
 
 
 
-88 
+[[88]]
 
 
 
@@ -8332,7 +8332,7 @@ yasya sādhyābhāvaḥ pramāṇāntarena niścitaḥ sa badhitaḥ. yatha vahn
 
 
 
-90 
+[[90]]
 
 
 
@@ -8376,7 +8376,7 @@ upamitikaraṇamupamānam. saṁjñāsaṁjñisambandhajñā- namupamitiḥ. tat
 
 
 
-91 
+[[91]]
 
 
 
@@ -8424,7 +8424,7 @@ sannidhyataḥ siddha-padasya vṛddhāḥ.1 1
 
 
 
-92 
+[[92]]
 
 
 
@@ -8488,7 +8488,7 @@ The Paninian tradition defines formally and Nyaya tradition defines semantically
 
 
 
-93 
+[[93]]
 
 
 
@@ -8556,7 +8556,7 @@ The causes of verbal understanding are mutual expe- ctancy, compatability and pr
 
 
 
-95 
+[[95]]
 
 
 
@@ -8588,7 +8588,7 @@ A sentence is an encoded cognition of his or her world. The hearer or reader is 
 
 
 
-96 
+[[96]]
 
 
 
@@ -8620,7 +8620,7 @@ Language is classified into two categories: language of scripture like the langu
 
 
 
-97 
+[[97]]
 
 
 
@@ -8668,7 +8668,7 @@ The understanding which arises from an authentic sentence is called verbal under
 
 
 
-98 
+[[98]]
 
 
 
@@ -8764,7 +8764,7 @@ When the property is seen occurring in a locus whereas in fact, there is absence
 
 
 
-100 
+[[100]]
 
 
 
@@ -8808,7 +8808,7 @@ smṛtirapi dvividhā. yathārtha'yathārthā ca. pramājanyā yathartha. apram�
 
 
 
-101 
+[[101]]
 
 
 
@@ -8860,7 +8860,7 @@ The feeling, a human being wants to have again and again, is pleasure. The knowl
 
 
 
-102 
+[[102]]
 
 
 
@@ -8904,7 +8904,7 @@ The source of duḥkha is also called pain secondarily.
 
 
 
-103 
+[[103]]
 
 
 
@@ -9080,7 +9080,7 @@ vihitakarmajanyo dharmaḥ.
 
 
 
-105 
+[[105]]
 
 
 
@@ -9140,7 +9140,7 @@ The cycle of birth and death is explained in terms dharma and adharma. Both are 
 
 
 
-106 
+[[106]]
 
 
 
@@ -9180,7 +9180,7 @@ Individual's inner world consists of knowledge, pleasure, pain, desire, aversion
 
 
 
-107 
+[[107]]
 
 
 
@@ -9216,7 +9216,7 @@ Remembrance is caused by impressions alone which are produced by experiences. Th
 
 
 
-108 
+[[108]]
 
 
 
@@ -9300,7 +9300,7 @@ In a pot all the three are present:
 
 
 
-110 
+[[110]]
 
 
 
@@ -9364,7 +9364,7 @@ The discreteness of all permanent substances is obtained by introducing this con
 
 
 
-111 
+[[111]]
 
 
 
@@ -9408,7 +9408,7 @@ Without a relationship there cannot arise any qualified knowledge (visiṣṭa-j
 
 
 
-112 
+[[112]]
 
 
 
@@ -9508,7 +9508,7 @@ nitya-dravya
 
 
 
-113 
+[[113]]
 
 
 
@@ -9672,7 +9672,7 @@ There are three states: (a) the pre-absence of an effect (say, pot) in its cause
 
 
 
-115 
+[[115]]
 
 
 
@@ -9732,7 +9732,7 @@ But pot exists in its parts by the relation of inherence:
 
 
 
-116 
+[[116]]
 
 
 
@@ -9792,7 +9792,7 @@ The absence of pot on the ground by contact is a fact which is true at all times
 
 
 
-117 
+[[117]]
 
 
 
@@ -9848,7 +9848,7 @@ Because x is identical with x and different from all that is not x, we say 'x is
 
 
 
-118 
+[[118]]
 
 
 
@@ -9964,7 +9964,7 @@ The learned scholar, Annambhaṭṭa, has composed this text called Tarkasangrah
 
 
 
-120 
+[[120]]
 
 
 
