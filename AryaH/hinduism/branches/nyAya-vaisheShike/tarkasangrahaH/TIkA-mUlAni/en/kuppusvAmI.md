@@ -6,7 +6,7 @@ title = "कुप्पुस्वामी"
 
 A   
 PRIMER OF INDIAN LOGIC
-  
+
 
 A Primer of Indian Logic  
 ACCORDING TO 
@@ -65,7 +65,7 @@ aoO
 "* -2 -3 
 **a 5c3 fcuO2*2i 
 3 *3 .S O fe J Q
-  
+
 
 TABLE OF CONTENTS   
 PART I 
@@ -186,7 +186,7 @@ II wr: u
 II d4vHiJ4.5 II 
 A PRIMER OF INDIAN LOGICPART I 
 INTRODUCTION
-  
+
 
 SECTION I   
 PRELIMINARY: LOGIC IN THE WEST AND IN INDIA 
@@ -321,7 +321,7 @@ SEC. vn] INTRODUCTION
 ing to the traditional methods of study, the MuktQvaliis widely studied by students of Nyaya, immediatelyafter finishing the study of Annambhatta's Tarkasatii graha and Dlpika. 
 Annambhatta was an Andhra scholar whoflourished in the latter part of the seventeenth century. He was a versatile scholar and a reputed polymath. He wrote several learned works on almost all the im portant branches of Sastraic lc;i ruing. In this connec tion, attention may be invited to some of Annam bhatta's known works. In the sphere of Purva mimarhsa and Vedanta, he is known as the author of the massive commentary called the Ranakojjlvam on Bhatta Somesvara's Nyaya-sudha, otherwise known as Ranaka, and of a commentary on the Brahma-sutras. In Vyakarana, he is famous as the author of an easy commentary on Panini's Astadhydyi and of an exten sive commentary called Uddyoiatoa on Kaiyata's Pradlpa. In the sphere of the Nyaya-Vaisesikasystem, he wrote a learned commentary called Sid dhanjana on Jayadeva's Manyaloka, as also the mostpopular handbook of Indian logic called the Tarka samgraha and its expository and supplementary gloss called the Dipika. The name Tarkasamgraha is inter preted by Annambhatta himself as a compendiouselucidation of the nature of substance, qualities andsuch other ontological categories of the Vaisesika sys tem, which are accepted by Nyaya. These two works
 the Tarkasamgraha and the Dlpika fulfil the object mentioned in the concluding verse of the Tarka
-  
+
 
 ii fh n   
 ii afefaf: n 
@@ -444,7 +444,7 @@ PRATYAKSA-PARICCHEDAH 15
 (c) Tatra nispraJAdrakam jndnam nirvikol pakam. 
 (d) Saprakdrakam jnanam savikalpakam. Yatha 'Ditthah ayaW, 'Brahmavah ayam', 'syamahayam', 'Pacakah ayam' iti. 
 (e) PratyaJssajndnahetuh indriydrthasanni karsah sadvidhah samyogah, samyuktasamavdyah,samyukiasamavetasamavdyah, sawavdyah, samaveta~samavdyah, visesanaviiesyabhavasca iti.
-  
+
 16 A PRIMER OF INDIAN LOGIC
 PRATYAKSA-PARICCHEDAH 17   
 Caksusa ghatapratyaksajanane samyogah san nikarsah. Ghatariifyapra tyaksajanane sathyfuktasaina vdyah sannikarsah, sariiyukte ghatc riipasya samavdyat.
@@ -627,13 +627,13 @@ VISESA, ABHAVA 37
 49. Sarves&m ftadarthanftm yathtyatham uktes vantarbhavdt saptaiva paddrlhdh iti siddham. 
 50. Kanddanyayamatayoh balavyutpattisiddhaye Annambhattena vidusd racitastarkasamgrahah\\ 
 ITI TARKASAMGRAHAH SAMAPTAH
-  
+
 
 II wr: II   
 II Cf^fa?* II 
 A PRIMER OF INDIAN LOGIC PART III 
 TRANSLATION AND EXPOSITION
-  
+
 
 CHAPTER I   
 PERCEPTION 
