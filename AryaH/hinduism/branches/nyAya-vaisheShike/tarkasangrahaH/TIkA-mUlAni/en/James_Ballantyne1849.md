@@ -252,7 +252,7 @@ nion as to whether light is an imponderable substance or the effect of undulatio
 
 The Qualities are next enumerated :— 
 
-रूपरसगन्धस्पर्श संख्यापरिमाणष्टथक्कुसंयोग विभागपरत्वा 
+रूपरसगन्धस्पर्श सङ्ख्यापरिमाणष्टथक्कुसंयोग विभागपरत्वा 
 
 परत्वगुरुत्वद्रवत्व स्नेहशब्दबुद्धि सुखदुःखेच्छाद्वेषप्रयत्नधर्म 
 
@@ -288,7 +288,7 @@ These will be severally considered in the sequel. The va- rieties of action are 
 
 S 
 
-उत्क्षेपण।त्रक्षेपणाकुंचनप्रसारणगमनानि पञ्चैव कर्माणि । 
+उत्क्षेपण।त्रक्षेपणाकुञ्चनप्रसारणगमनानि पञ्चैव कर्माणि । 
 
 ་ 
 
@@ -452,7 +452,7 @@ In the sequel our text book offers the just observation that levity is not an en
 
 dist 
 
-नाच्च द्विविधा नित्या  ुनित्याश्च । नित्या परमाणुरूपा / : ! अनित्या, कार्यरूपाः । ताःपुनस्त्रिविधाः शरोरेन्द्रियविषय भेदात् । शरीरं वरुणलेोके । इन्द्रियं रसग्राहकं रसनं जिह्वाग्रवर्त्ति 
+नाच्च द्विविधा नित्या ुनित्याश्च । नित्या परमाणुरूपा / : ! अनित्या, कार्यरूपाः । ताःपुनस्त्रिविधाः शरोरेन्द्रियविषय भेदात् । शरीरं वरुणलेोके । इन्द्रियं रसग्राहकं रसनं जिह्वाग्रवर्त्ति 
 
 fagiuafi, faqu: aftagsifę: 1 
 
@@ -470,7 +470,7 @@ percipis cus
 
 (rasana) the recipient of savour, residing in the forepart of the tongue; unorganic masses of water are rivers, seas, &c." 
 
-zwudaña: 1 alglau faranforaqı fazi qenTY रूपमनित्यं कार्यरूपम् । पुनस्त्रिविधं शरीरेन्द्रियविषयभे- दांत्। शरीरमादित्यलेोके प्रसिद्धम् । इन्द्रियं रूपग्राहकं ag: gwarcıqafti, faucegfåân àrafçâredt या करजभेदात् । भौमं वर्णादिकं । अविन्धनं दिव्यं विद्युदादि । भुक्रस्य परिणामहनुरौदर्यं । श्राकारजं सुबर्णीदि । 
+zwudaña: 1 alglau faranforaqı fazi qenTY रूपमनित्यं कार्यरूपम् । पुनस्त्रिविधं शरीरेन्द्रियविषयभे- दान्त्। शरीरमादित्यलेोके प्रसिद्धम् । इन्द्रियं रूपग्राहकं ag: gwarcıqafti, faucegfåân àrafçâredt या करजभेदात् । भौमं वर्णादिकं । अविन्धनं दिव्यं विद्युदादि । भुक्रस्य परिणामहनुरौदर्यं । श्राकारजं सुबर्णीदि । 
 
 । 
 
@@ -540,7 +540,7 @@ LECTURES ON THE
 
 lourless; but, if the colour of a body be that coloured ray which it reflects, then air should be considered to be blue, for it reflects the blue rays. When we go to a great height, in a balloon or on a mountain, the diminution in the amount of the blue rays refracted, owing to the smallness of the mass of air above us, causes the sky to appear nearly black-black being the absence of all colour. 
 
-शरीरान्तः सञ्चारौ वायुः प्राणः सचैको ऽप्युपाधिभेदत्प्राष्या T पानादिसंज्ञां लभते ॥ 
+शरीरान्तः सञ्चारौ वायुः प्राणः सचैको ऽप्युपाधिभेदत्प्राष्या T पानादिसञ्ज्ञां लभते ॥ 
 
 “Air circulating within the body is vital air ( prána); and this, though single, takes the name of breathing, flatulence, &c., through the distinction of modifying circumstances." 
 
@@ -1396,7 +1396,7 @@ LECTURES ON THE
 
 a private conclusion in one's own mind. For example, hav- ing repeatedly and personally observed, in the case of culi- nary hearths and the like, that where there is smoke there is fire, having assumed that the concomitancy is invariable, having gone near a mountain, and being doubtful as to whe- ther there is fire in it, having seen smoke on the mountain, a man recollects the invariable concomitancy of fire where there is smoke. Then the knowledge arises that 'this moun- tain is characterised by smoke, which is invariably attended by fire.' This is called linga-parúmarsa, which means such recognition of a sign as leads to inference. Thence is pro- duced the knowledge that the 'mountain is fiery,' which is the conclusion (anumiti). This is the process of inference for one's self." 
 
-यतु खयं धूमादग्निमनुमाय परम्पति बोधयितुं पञ्चावयव - वाक्यं प्रयुंक्ते तत्परार्थानुमानं । यथा पर्वता वह्निमान् । धूम- वत्वात् । यो यो धूमवान् स वह्निमान् यथा महानसः । तथाचायं । तस्मान्तथेति । अनेन प्रतिपादिता शिंगात्परो ऽप्यग्निं प्रतिपद्यते । 
+यतु खयं धूमादग्निमनुमाय परम्पति बोधयितुं पञ्चावयव - वाक्यं प्रयुङ्क्ते तत्परार्थानुमानं । यथा पर्वता वह्निमान् । धूम- वत्वात् । यो यो धूमवान् स वह्निमान् यथा महानसः । तथाचायं । तस्मान्तथेति । अनेन प्रतिपादिता शिङ्गात्परो ऽप्यग्निं प्रतिपद्यते । 
 
 "But, after having, to the satisfaction of his own mind, inferred fire from smoke, when one makes use of the five- membered form of exposition for the instruction of another, then is the process one of inference for the sake of another. For example, (1.) The mountain is fiery; (2.) because it smokes; (3.) whatever smokes is fiery, as a culinary hearth; (4.) and this does so; (5.) therefore it is fiery as aforesaid. In consequence of the token here rendered, the other also admits that there is fire. " 
 
@@ -1458,7 +1458,7 @@ NYÁYA PHILOSOPHY.
 
 disposeable of at the outset, leaving the remainder of the en- quiry, if any further enquiry be found necessary, all the more easy to be disposed of. That the Naiyáyikas failed to per- ceive this, is less strange than that it should have been for- gotten again in Europe, as it so generally was till very re- cently. No one is perhaps more perfectly aware of the real import of the distinction here adverted to than Mr. J. S. Mill; and it is therefore matter of regret that he should have thought proper to write of the syllogism, in his “ Sys- tem of Logic,” in a sort of disparaging tone, which is calcu- lated to perpetuate misconception just in proportion to the great merit of the rest of his work. No doubt, it will have this effect only on his superficial readers; but superficial readers constitute a numerous and influential body, whom it is of great importance not to mislead. 
 
-स्वार्थानुमितिपरार्थानुमित्योर्लि'गपरामर्श एव कारण WENT स्विंगपरामर्शो ऽनुमानम् । 
+स्वार्थानुमितिपरार्थानुमित्योर्लि'गपरामर्श एव कारण WENT स्विङ्गपरामर्शो ऽनुमानम् । 
 
 "The cause of an inference (anumiti) whether for one's self 
 
@@ -1818,7 +1818,7 @@ Our text-book now proceeds to treat of
 
 COMPARISON. 
 
-उपमितिकरणमुपमानम् । संज्ञासंज्ञिसम्बन्धज्ञानमुप मितिः । 
+उपमितिकरणमुपमानम् । सञ्ज्ञासञ्ज्ञिसम्बन्धज्ञानमुप मितिः । 
 
 [[29]]
 
@@ -1874,7 +1874,7 @@ form?
 
 TESTIMONY. 
 
-श्राप्तवाक्यं शब्दः । श्राप्तस्तु यथार्थवक्ता । वाक्यं पदसमूहः । यथा गामानयेति । शक्तं पदं । श्रस्मात्पदादयमर्थे बोड्डव्य इति ईश्वरेछा संकेतः शक्तिः । 
+श्राप्तवाक्यं शब्दः । श्राप्तस्तु यथार्थवक्ता । वाक्यं पदसमूहः । यथा गामानयेति । शक्तं पदं । श्रस्मात्पदादयमर्थे बोड्डव्य इति ईश्वरेछा सङ्केतः शक्तिः । 
 
 "A word (or right assertion) is the speech of one worthy ( of confidence ). One worthy, is a speaker of the truth. A speech (or sentence) is a collection of significant sounds; as, for example, Bring the cow. ' A significant sound (pada) is that which is possessed of power (to conyey a meaning). Such power consists in its being the will of God, or in a con- 
 
@@ -1910,7 +1910,7 @@ sition (of the words)." "Expecting
 
 These three requisites are explained as follows :— 
 
-पदस्य पदान्तरव्यतिरेकप्रयुक्ताम्वयाननुभावकत्वमाकांक्षा । अर्थ माधो योग्यता । पदानामविलम्बेनेाच्चारणं सन्निधिः । 
+पदस्य पदान्तरव्यतिरेकप्रयुक्ताम्वयाननुभावकत्वमाकाङ्क्षा । अर्थ माधो योग्यता । पदानामविलम्बेनेाच्चारणं सन्निधिः । 
 
 ∙ex/ectancy 
 
@@ -1918,7 +1918,7 @@ These three requisites are explained as follows :—
 
 Examples of deficiency in each of these respects here fol- low:- 
 
-matwıfęcferi araqanmu ayn ârca:ggâm ❤- स्तौति न प्रमाणमाकांच्चाविरहात् । 
+matwıfęcferi araqanmu ayn ârca:ggâm ❤- स्तौति न प्रमाणमाकाञ्च्चाविरहात् । 
 
 Esherlary 
 
