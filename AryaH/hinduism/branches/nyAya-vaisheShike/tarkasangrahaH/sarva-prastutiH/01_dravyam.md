@@ -694,7 +694,7 @@ The vital Air moving in the body is of 5 kinds
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शब्दगुणकमाकाशम् ।
+शब्दगुणकम् आकाशम् ।
 </details>
 
 <details><summary>Eng A</summary>
