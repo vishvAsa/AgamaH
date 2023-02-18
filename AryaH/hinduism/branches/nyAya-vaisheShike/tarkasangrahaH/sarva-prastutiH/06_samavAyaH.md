@@ -26,7 +26,7 @@ Co-inherence is constant connection.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अयुतसिद्धवृत्तिः ।
+अयुत-सिद्ध-वृत्तिः ।
 </details>
 
 <details><summary>Eng A</summary>
@@ -42,7 +42,9 @@ It exists in things which cannot exist separately.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ययोर्द्वयोर्मध्ये एकमविनश्यदवस्थमपराऽश्रितमेवावतिष्ठते तावयुतसिद्धौ ।
+ययोर् द्वयोर् मध्ये  
+एकम् अविनश्यद् अवस्थम् अपराऽश्रितम् एवावतिष्ठते  
+ताव् **अयुत-सिद्धौ** ।
 </details>
 
 <details><summary>Eng A</summary>
@@ -63,7 +65,12 @@ Two things which cannot exist separately are those of which two the one exists o
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथा अवयवाऽवयविनौ गुणगुणिनौ क्रियाक्रियावन्तौ जातिव्यक्ती विशेषनित्यद्रव्ये चेति ॥ ६८॥
+यथा अवयवा ऽवयविनौ  
+गुणगुणिनौ  
+क्रियाक्रियावन्तौ  
+जाति-व्यक्ती  
+विशेष-नित्य-द्रव्ये  
+चेति ॥ ६८॥
 </details>
 
 <details><summary>Eng A</summary>
