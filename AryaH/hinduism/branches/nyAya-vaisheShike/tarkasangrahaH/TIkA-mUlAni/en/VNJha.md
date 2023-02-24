@@ -2844,7 +2844,7 @@ true
 
 80. Vidyasagara Jivanananda (Ed & Tr.) Tarkasangraha of Annambhaṭṭa, Jivananda Vidyasagar, Calcutta, 1872 
 
-                
+        
 
 81. Vidyasagara Jivanananda (Ed & Tr.) Tarkasangraha of Annambhaṭṭa, Antiquarians Book Seller, Calcutta, 1887 
 
@@ -3996,7 +3996,7 @@ Notes: 1
 
 There are six systems of Indian philosophy under the group called astika-darśana (the philosophical system which accepts the authority of the Vedic lore) and there are three systems of Indian philosophy under the group called nastikadarśana (the philosophical system which does not accept the authority of the Vedic texts). The six astikadarśana-s are Sankhya, Yoga, Nyaya, Vaiseṣika, Pūrvamīmāṁsā and Uttaramīmāṁsā and the three nāstika darśana-s are Cārvāka, Bauddha and Jaina. 
 
-    
+  
 
 [[1]]
 
