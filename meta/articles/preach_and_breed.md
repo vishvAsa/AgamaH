@@ -1,0 +1,6 @@
++++
+title = "Preach and breed"
++++
+Source: Rjrasva on TW
+
+What I read from Eric Kaufmann and Michael Blume is that in first world industrialized countries the optimal strategy for growth is what they call "preach and breed" i.e., missions in the early days to form a core group of committed members, followed by erection of some barriers against the outside secular world, and maintenance of a high birth rate. Blume had once shared a research paper which concluded this but I can no longer find it as he took down his old blog posts. Their explanation is that groups like Jehovah's Witnesses that evangelize a lot also tend to lose out a lot because outsiders (as in the new converts) often bring in outside/secular influences consciously or not. These barriers also connect with what Kaufmann calls strong religion and Richard Sosis research on costly signaling. Paradoxically its the most liberal/few rules churches and religious groups that seem to lose the most members to secularization while religious groups that require you to make an effort and invest your time and follow rules have stronger retention rates.
