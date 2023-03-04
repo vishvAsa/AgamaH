@@ -1,0 +1,5 @@
++++
+title = "Hashish"
+
++++
+See **charas**.

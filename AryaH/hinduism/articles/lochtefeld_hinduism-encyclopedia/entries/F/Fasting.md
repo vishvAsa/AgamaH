@@ -1,0 +1,5 @@
++++
+title = "Fasting"
+
++++
+See **upavasa**.
