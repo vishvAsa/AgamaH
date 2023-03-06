@@ -13,9 +13,9 @@ equally important part of the linga’s
 image is the base (**pitha**) in which  
 the shaft is placed, said to represent  
 the female organs of generation. In his  
-509  
-Phallic Emblem  
 symbolic form Shiva is thus both male  
 and female—an appropriate form for a  
 **deity** who is famous for transcending  
 any and all duality.
+
+509  
