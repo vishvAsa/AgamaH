@@ -15,11 +15,10 @@ Philosophical thought of the Indo-Aryans underwent considerable diversification 
 
 All the classic lines of hindu philosophy claim their origins in the vedas and true enough the beginings of hindu atomic thought can be seen in the vedas. For example in the ancient chants from the R^igveda authored by dirghatamA of the clan of the gotamas and the kANva medhAthiti one can see primary references of the construction of universe by atoms:
 
-#d< iv:[uivR c³me Çexa in dxe pdm!, smUFmSy pa<sure. RV 1.22.17
+> इदं विष्णुर्वि चक्रमे त्रेधा नि दधे पदम्। समूढमस्य पांसुरे॥ RV 1.22.17
 
-iv:[aenuR k< vIyaRi[ à vaec< y> paiwRvain ivmmerja<is,
-
-yae ASk-ayÊÄr< sxSw< ivc³ma[ôexaeégay>. RV 1.154.1
+> विष्णोर्नु कं वीर्याणि प्र वोचं यः पार्थिवानि विममेरजांसि।  
+यो अस्कभायदुत्तरं सधस्थं विचक्रमाणस् त्रेधोरुगायः॥ RV 1.154.1
 
 Here in the three striding viShNu is said to collect the atoms together or measure out the world by means of atoms. Similarly in the taittriya saMhitA rudra is invoked as being present in the atoms and particles of the world. 
 
@@ -28,9 +27,10 @@ This atomic doctrine, with its beginnings in the vedas, had a long lasting life 
 
 
 
-tnIya<s< pa<su< tv cr[ pNke éh-v<, ivriÂ> s<icNvn! ivrcyit laekanivkl<,
-
-vhTyen< zaEir> kwm=ip shöe[ izrsa<, hr> s<]u_y @n< -jit -istaEÏ‚ln ivixm!. SL 2
+> तनीयांसं पांसुं तव चरण-पन्के-रुहभवं  
+> विरञ्चिः संचिन्वन् विरचयति लोकान् अविकलम्।  
+> वहत्येनं शौरिः कथमऽपि सहस्रेण शिरसां  
+> हरः संक्षुभ्य +एनं भजति भसितौद्धूलन-विधिम्॥ SL 2
 
 This mantra from the saundaryalahari talks about the elementary particles (pAMsu) emerging from the feet of the primary shakti. Brahma generates the world with these, while viShNu with his 1000 heads holds them in place and rudra destroys the combinations and sets them free.+++(5)+++  These examples point out that the concept of particular construction (vaisheShika) of the universe was an integral part of Indian cosmogony.
 
@@ -75,15 +75,15 @@ The vaisheshika sUtras when viewed in the true spirit of the vij~nanavAdins emer
 ### Forces
 The text rather early on defines a force and proceeds to consider the forces based on the changes related to matter:
 
-> s<yaegiv-agvegana< kmR smanm!, V.S 1.1.19
+> saṃyogavibhāgānāṃ karma V.S 1.1.19
 >
 > Force is that which displaces, holds together or moves things apart.
 
-> n ÔVya[a< Vyitrekat!, V.S 1.1.20
+> na dravyāṇāṃ vyatirekāt V.S 1.1.20
 >
 > In the absence of a force, a particle of matter experiences no change.
 
-> %T]ep[m]ep[mak…ÁCn< àsar[< gmnimit kmaRi[, V.S 1.1.6
+> utkṣepaṇam avakṣepaṇam ākuñcanaṃ  prasāraṇaṃ gamanam iti karmāṇi V.S 1.1.6
 >
 > The forces to be considered are  
 > an external force, gravity, that with causes attraction of particles,  
@@ -94,74 +94,81 @@ The text rather early on defines a force and proceeds to consider the forces bas
 
 Thus, vaisheShika aims at understanding a substance in terms of the effect of external forces that act on it including gravity and the internal forces on its particles that cause their attraction, repulsion and vibrations.  Then the text makes a rather interesting statement:
 
-> kayaRivraeix kmR, V.S 1.1.13
+> kārya virodhi karma V.S 1.1.13
 >
 > Action is opposed by an equivalent opposite reaction- 
 
 thus, here an echo of the Newton’s 3rd law of motion. Further, the role of forces in different processes is elaborated in the sUtras describing the motion of an arrow:
 
-> #;avyugpTs<yaegivze;a> kmaRNyTve hetu>,
-naednada*im;ae> kmR kmRkairta½ s<SkaraÊÄr< twaeÄrmuÄr< c,
-s<Skara-ave guéTvaTptnm!, V.S 5.1.16-18
-
+> iṣāvayugapat saṃyogaviśeṣāḥ karmānyatve hetuḥ  
+> nodanād ādyam iṣoḥ karma  
+> karmakāritāc ca  saṃskārād uttaraṃ thatottaram uttaraṃ ca  
+> saṃskārābhāve gurutvāt patanaṃ
+> V.S 5.1.16-18
+>
 > The diversities of the movement of an arrow are due to the consecutive changes in the components of the acting forces. The stored energy provides the propulsion to the arrow and this causes it move further to a high point. This component keeps reducing while that of gravity increases resulting in its fall. 
 
 Thus kaNAda kAshyapa clearly recognized the trajectory of an arrow as being dependent only on the two acting forces- one emerging from the stored energy that causes the horizontal movement and gravity that effects vertical movement.  The concept of work being done to counter gravity and in the absence of such work the tendency to attain an energy minimum can be rather plainly gleaned from the following sUtras:
 
-> guéTvàyÆs<yaeganamuT]ep[m!, V.S 1.1.27
+> gurutva-prayatna-saṃyogānām utkṣepaṇam V.S 1.1.27
 >
 > The force on a body is the resultant of gravity and the work done against it.
 
-> àyÆa-ave guéTvaTsuÞSy ptnm!, V.S 5.1.13
+> prayatnābhāve gurutvāt suptasya patanam V.S 5.1.13
 >
 > Once the work against gravity ceases then the body reaches an energy-less state falling under gravity.
 
 
 The importance of gravity is reiterated in the sUtra that suggests that even in the absence of all other forces (saMyoga-bindings) gravity exists thus suggesting it as a primary property matter:
 
-> s<yaega-ave guéTvaTptnm!, V.S 5.1.7
+> saṃyogābhāve gurutvāt patanam, V.S 5.1.7
 
 Finally, one of the sUtra’s perhaps hints at the vectorial nature of force by saying that the “guna” of forces (direction) prevents a magnitude from being obtained:
 
-> gu[ vExmRyat! n kmR[a< kmR, V.S.1.1.20a
+> guṇavaidharmyān na karmaṇām V.S.1.1.20a
 
 ### Nature of matter
 Having laid out a basic physics KaNAda goes on to explore the nature of physical changes in matter in terms of work being done on the basic particles that constitute matter. For this he provides an understanding of the states of matter in terms of their particles. He clearly recognizes the “substantial nature” of air and that it is composed of particles.
 
-> vayaevaRyus<mUCDRn< nanaTve ilNgm!  
+> vāyor vāyusaṃmūrchanaṃ nānātve liṅgam  
 > V.S 2.1.14
-
-The particular nature of air is suggested by the mixing of gases that occurs on their collision.
+>
+> The particular nature of air is suggested by the mixing of gases that occurs on their collision.
 
 KaNAda goes on to say that despite of being made of atoms and occupying space  
 air fails show orderly movement so its form cannot be perceived:
 
-> sTyip ÔVyTve mhTve êps<Skara-avaÖayavnupliBx>, V.S 4.1.8
+> rūpa-saṃskārābhāvād vāyāv anupalabdhiḥ  
+> V.S 4.1.8
 
 Explaining solids, he says that they occupy space and assume form due to conglomeration of the constituent particles:
 
-> mhTynekÔVyvÅvaÇUpa½aePliBx>, V.S 4.1.6
+> mahaty aneka-dravyavattvād rūpāc copalabdhiḥ V.S 4.1.6
 
 A fairly clear understanding of the liquid state and its transformation to gaseous or solids states - vaporization, melting and freezing is seen in the vaisheShika sUtras.
 
-> tiÖze;e[a†òkairtm!,  
-ÔvTvaTSyNdnm!,  
-naf(a vayus<yaegadaraeh[m!,  
-naednaTpIfnaTs<yu­s<yaega½,  
+> tad viśeṣeṇādṛṣṭakāritām  
+dravatvāt syandanam  
+nāḍyāvāyusaṃyogād ārohaṇam  
+nodanāt pīḍanāt saṃyuktasaṃyogāc ca  
 > V.S 5.2.4-5.2.7
-
-The (fluid’s) particles possess energy. This causes them to possess the property of fluidity. The heat bearing rays provide the particles with energy to form a gas and rise. The heated particles of air impact the vapor and with this energy it mixes with it.
+>
+> The (fluid’s) particles possess energy. This causes them to possess the property of fluidity. The heat bearing rays provide the particles with energy to form a gas and rise. The heated particles of air impact the vapor and with this energy it mixes with it.
 
 
 
 KaNAda also explains freezing and melting of a liquid as being a result of heat being taken up or given up by its particles:
 
-Apa< s'œ"atae ivlynÂ tej> s<yaegat!, V.S 5.2.9
+> apāṃ saṃghāto vilayanaṃ ca tejaḥ saṃyogāt  
+V.S 5.2.9
 
 He states that some apparently solid substances like ghee, lac and wax are in reality liquids, as their particles are naturally “heat-conjoined” or disorganized as in water. Other true solid substances such as tin, lead, iron, silver and gold need their atoms to be supplied with external heat to disorder them before they become a fluid:
 
-> sipRjRtumxUiCDòanami¶s<yaegadœÔvta=iÑ> samaNym!,
-ÇpusIslaehrjtsuv[aRna< tEjsanami¶s<yaegadœ Ôvta=iÑ>, V.S 2.1.6-7
+> sarpir-jatu-madhūcchiṣṭānāṃ pārthivānām  
+agni saṃyogāt dravatādbhiḥ+++(=??)+++ sāmānyam  
+> trapu sīsa loha rajata suvarṇānāṃ taijasānām   
+agni saṃyogād dravatādbhiḥ sāmānyam  
+> V.S 2.1.6-7 
 
 
 ### Physical vs Chemical changes
@@ -169,38 +176,46 @@ The depth of KaNAda’s understanding of natural processes can be glimpsed in th
 
 Before proceeding to expound these ideas he makes a remarkable statement that echos the law of conservation of mass. This was the founding principle of the vaisheShika doctrine that was further developed by prashastapAda in explaining how any body’s mass needs to be wholly explained in terms of its constituent particles.
 
-> ÔVyai[ ÔVyaNtrmar-Nte,  
-gu[aí gu[aNtrm!,  V.S 1.1.8-9
+> dravyāṇi dravyāntaram ārabhante  
+guṇāś ca guṇāntaram,  V.S 1.1.8-9
 >
-> A substance can only emerge from another substance and not on its own eventhough its properties change from one to another.
+> A substance can only emerge from another substance and not on its own  
+> even though its properties change from one to another.
 
-> A-Ut< naStITynwaRNtm!R, V.S 9.1.9  
+> abhūtaṃ nāst īti anarthāntaram  
+> V.S 9.1.9  
 > 
 > Nothing can be produced de novo but has to rise from something.
 
 Further, the fundamental particular entities are stated as maintaining their individuality inspite of their combinations forming and breaking under the influence of forces:
 
-> @kÔVymgu[< s<yaegiv-age:vnpe]< kar[imit kmRl][m!, V.S 1.1.16
+>  ekadravyam aguṇaṃ saṃyoga-vibhāgeṣv anapekṣaṃ  
+kāraṇam iti karmalakṣaṇaṃ  
+> V.S 1.1.16
 
 Any fundamental particular entity can be a constituent multiple substances:
 
-> ÔVya[a< ÔVy< ky¡ samaNym!, V.S 1.1.22
+> dravyāṇāṃ dravyaṃ kāryaṃ sāmānyam  
+> V.S 1.1.22
 
 Any substance comprising of two or more primary particle types requires a chemical reaction to generate it- the conjoining and break up of prexisting molecules:
 
-> iÖTvà-&tyí s<Oya> p&w®v< s<yaegiv-agaí, V.S 1.1.23
+> dvitvaprabhṛtayaś ca saṃkhyāḥ  
+pṛthaktvaṃ saṃyogavibhāgāś ca  
+> V.S 1.1.23
 
 The “molecules” are stated as emerging from combinations between the fundamental entities:
 
-> s<yaegana< ÔVy<, V.S 1.1.25
+> saṃyogānāṃ dravyam, V.S 1.1.25
 
 Forces are necessary to bring about combination and break up of molecules:
 
-> s<yaegiv-aga> kmR[am!, V.S 1.1.28
+> saṃyogavibhāgāḥ karmaṇām, V.S 1.1.28
 
 The combinations of particles to produce molecules result in substances with states very different from those of the original particles:
 
-> AnekÔVye[ ÔVye[ smvayaÔ‚pivze;a½aepliBx>, V.S 4.1.9
+> aneka-dravyeṇa dravyeṇa samavāyād  
+rūpaviśeṣāc copalabdhiḥ, V.S 4.1.9
 
 
 
@@ -210,9 +225,9 @@ Thus in the vaisheShika sUtras we see the development of an “atomic” theory 
 ## Mind etc.
 In the true tradition of all Hindu epistemologies kaNAda does not limit himself with this physical theory but proceeds to speculate on other matters including the mind, space and time. He takes the stance that mind has to be explained as being comprised of particles- a rather mature thought for his period.+++(5)+++ Commenting on space and time he considers both of them to be related and considers them as serving as a frame in which matter is distributed.+++(5)+++ Space and time are also claimed to be particular in nature like a gas and they are sums of their consitutent particles:
 
-> ApriSmNpr< yugpdyugpi½r< i]àimit kalil¼ain,  
-ÔVyvinTyTv vayuna VyaOyate,
-tÅv< -aven, V.S 2.2.6-2.2.8
+> aparasmin paraṃ yugapad ayugapac ciraṃ kṣipram iti kālaliṅgāni  
+dravyatva-nityatve vāyunā vyākhyāte
+tattvaṃ bhāvena, V.S 2.2.6-2.2.8
 
 ## adRShTam
 We get a hint that kaNAda was aware of other phenomena too- like for example he speaks of the force adR^iShTam as being responsible for the movement of the needle and the bead. Was he refering to electricity/magnetism here?
