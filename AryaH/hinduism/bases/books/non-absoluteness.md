@@ -15,11 +15,8 @@ Textual authority is not absolute.
 
 
 ## Incompleteness
-- This is freely admitted
-    - Eg. endlessness of the veda-s as seen from the story of bharadhvAja in the taittirIya brAhmaNa and elsewhere \[[here](http://advaita-l.advaita-vedanta.narkive.com/MYrtMSe6/anantaa-vai-vedaah#post3)\]
-    -  taittirIya saMhitA (7.3.1.4) states: parimitā vā ṛcaḥ parimitāni sāmāni parimitāni yajūṁṣy athaitasyaivānto nāsti yad brahma
 - One reason for the incompleteness is the sheer impossibility of anticipating and correctly weighing in on circumstances far outside one's (the sage's) spatio-temporal context.
-
+- Vedic self-declaration of incompleteness is [listed elsewhere](/vedAH/meta/incompleteness/).
 
 ## Errors
 - The most sacred texts can contain stray errors (even in dharma instruction). Eg. रजस्वलो **रक्तदन्** सत्यवादी स्याद् इति हि ब्राह्मणम् ११
