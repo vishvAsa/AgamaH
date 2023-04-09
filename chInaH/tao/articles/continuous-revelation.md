@@ -1,7 +1,7 @@
 +++
 title = "continuous-revelation"
 +++
-
+Source: [TW](https://en.rattibha.com/thread/1644945620925546502)
 
 I was reading Goossaert's excellent _Making the Gods speak_, when an interesting thought came on me. Unlike Buddhism, the corpus of canonical texts for Daoism has never really closed. I was reading Goossaert's excellent _Making the Gods speak_, when an interesting thought came on me. Unlike Buddhism, the corpus of canonical texts for Daoism has never really closed.
 
