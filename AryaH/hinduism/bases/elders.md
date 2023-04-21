@@ -9,6 +9,23 @@ title: शिष्टः Role-models
 - Where the shiShTa behavior is clearly in conflict with shruti etc.., it should be deprecated according to some (eg medhAtithi on manu [here](https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200283.html) ).
 - Given that the shAstra-s available to us are always incomplete, and possibly corrupted and changed to various degrees (see "Holy Books"), one might expect the behavior of shiShTa-s (role-models) to demonstrate various components of the hindu way.
 
+## Superceding other pramANa-s
+
+> भगवद्गुणदर्पणे
+>
+> > युधिष्ठिरः शान्तनवं  
+> > पुनरेवाभ्यभाषत
+>
+> इत्येतद्-व्याख्याने
+>
+> > सन्तो ह्याचार्यनिष्ठाम् अन्विष्य  
+> > तद्-रुचि-परिगृहीतम् एव तत्त्वं हितं च रोचयन्ते।  
+> > न तु प्रामाणिकत्व-मात्रेण +++(5)+++
+>
+> इति प्रामाणिकस्याप्य् आचार्यापरिगृहीतस्य सद्भिर् अग्राह्यत्वम् उक्तम् ।
+
+इति +आह्निकार्थप्रकाशिकायाम्। 
+
 ## Challenges
 
 - One's shiShTa may be another's non-shiShTa. Examples:
