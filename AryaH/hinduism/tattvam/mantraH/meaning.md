@@ -23,6 +23,17 @@ title: Meaning
 
 - While a mantra can contain meanings beyond what is revealed by mere grammar and vocabulary, that lower level of meaning is important in itself, and as an aid to access deeper meanings.
 
+> विश्वास-भक्ति-जनन-  
+मन्त्रार्थज्ञानम् उत्तमम् ।  
+तस्मादर्थं विजानीयाद्  
+उक्तेन जपकृन्नरः ।  
+विश्वास-भक्तिभ्यां द्वाभ्यां  
+जपादीनां महत्-तरम् ।  
+फलं भवेज्-जपकृताम्  
+इति वेदेषु भाषितम् ।
+
+इति भारद्वाजः। 
+
 ## गायत्र्यां विभक्तिः
 > 1. \when the sadak (upasak) uses the deity"s mantra as "prayog Mantra", he can use 2nd vibhakthi. 
 > 2. When the sadak (upasak) uses the deity"s mantra as "Upasana Mantra", he uses 4th vibhakthi. 
