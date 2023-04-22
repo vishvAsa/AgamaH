@@ -95,6 +95,9 @@ unicode_script: devanagari
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md"  newLevelForH1="2" includeTitle="true"> </div>
 
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/062/10_tatsaviturvareNyaM_bhargo.md"  newLevelForH1="2" includeTitle="true"> </div>
+
+
 - गायत्री-उपस्थानम्
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06/30_uttame_shikhare.md"  newLevelForH1="5" includeTitle="false"> </div>  
