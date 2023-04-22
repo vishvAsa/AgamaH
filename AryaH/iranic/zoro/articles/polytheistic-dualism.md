@@ -1,6 +1,11 @@
 +++
 title = "Polytheistic dualsim"
 +++
+
+In the Zoroastrian Avesta begins with the words "In the name of the Gods" (pa nãm i ýazdã)
+
+So much for 'Zoroastrian monotheism' lmao. Funnily, the translation on avesta.org has cowardly chosen not to translate this line. Hilarious. They skip the first line and don't translate it.
+
 Source: [TW](https://unrollthread.com/t/1514962456224755719/)
 
 Zoroastrianism (Mazdayasna) must be the only form of "monotheism" where the creator diety (Ahura Mazda) offers sacrifices to his own created beings. (Yasht 15) Or where the one God (Ahura Mazda) says that his own created beings are as worthy of worship as himself (Yasht 10). I find it very funny how so many modern day westernized Parsis or Iranian Shia converts actually believe "Zoroastrianism was the first monotheism!" Anyone with a basic understanding of Mazdayasna knows this is totally incorrect. Zoroastrianism was polytheistic dualism.
@@ -12,4 +17,5 @@ Zoroastrianism (Mazdayasna) must be the only form of "monotheism" where the crea
 If Mitra is worthy of worship, worthy of sacrifice, worthy of prayer, what is he but not a God?
 
 > "To him did the Maker, Ahura Mazda, offer up a sacrifice in the Airyana Vaejah, on a golden throne, under golden beams and a golden canopy, with bundles of baresma and offerings of full-boiling [milk]."
+
 
