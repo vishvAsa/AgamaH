@@ -98,7 +98,7 @@ unicode_script: devanagari
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/062/10_tatsaviturvareNyaM_bhargo.md"  newLevelForH1="2" includeTitle="true"> </div>
 
 
-- गायत्री-उपस्थानम्
+- गायत्री-उद्वासनम्
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06/30_uttame_shikhare.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
@@ -128,6 +128,12 @@ unicode_script: devanagari
 
 
 ### अभिवादनम्
+अभिवादनात् परम् -
+
+सप्रदक्षिणं
+
+> ओं सन्ध्यायै नमः, सावित्र्यै नमः, गायत्र्यै नमः, सरस्वत्यै नमः, सर्वाभ्यो देवताभ्यो नमो नमः
+
 
 ### सूर्यदर्शनम्
 - माध्याह्निके प्रशस्यते मुद्रया। 
@@ -167,6 +173,8 @@ unicode_script: devanagari
 
 
 ### कर्म-दोष-प्रायश्चित्तम्
+कामोऽकार्षीन्मन्युरकार्षीद् ।  
+जपादिमध्ये वाङ्नियमातिक्रमे "इदं विष्णुरि"ति ऋचं जपेत् ।
 
 ## असौकर्ये विकल्पाः
 
