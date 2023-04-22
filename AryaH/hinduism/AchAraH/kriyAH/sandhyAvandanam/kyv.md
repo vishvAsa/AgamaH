@@ -87,6 +87,12 @@ unicode_script: devanagari
   - अत्र लोहितार्क एव ध्यायताम्
   - तूरीयपादस्य दशस्व् एकवारं जपः
 
+> प्रणवव्याहृतीयुक्तां  
+गायत्रीं तु ततो जपेत् ।
+
+> छिन्नपादा तु गायत्री  
+ब्रह्महत्यां व्यपोहति ॥
+
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md"  newLevelForH1="2" includeTitle="true"> </div>
 
 - गायत्री-उपस्थानम्
