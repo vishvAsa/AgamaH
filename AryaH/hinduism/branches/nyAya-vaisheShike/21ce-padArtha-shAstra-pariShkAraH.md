@@ -864,7 +864,7 @@ Rather focus on being "playful" (ergo joyful)  while pursuing the 3 puruShArtha-
 
 #### शेषत्व-स्मृतिः
 स्वशेषत्व-स्मृतिर् नैर्भर्य-प्राप्तौ क्षमतमा।  
-श्रीवैष्णवेषु प्रसिद्धं [सात्त्विक-त्याग-वाक्यं](/AgamaH_vaiShNavaH/shrI-sampradAyaH/mantrAdi/sAttvika-tyAgaH_bhagavAn_eva/) क्रिया-सन्धिषु (देवाराधनादि-कल्पान् अन्तराऽपि) प्रयोक्तुम् उचितम्‌‌। एवं तदीयो [बलमन्त्रो](/AgamaH_vaiShNavaH/shrI-sampradAyaH/mantrAdi/sankalpaH_bala-mantraH/) ऽपि। 
+श्रीवैष्णवेषु प्रसिद्धं [सात्त्विक-त्याग-वाक्यं](/AgamaH_vaiShNavaH/shrI-sampradAyaH/prakIrNa-mantrAdi/gadyam/sAttvika-tyAgaH_bhagavAn_eva/) क्रिया-सन्धिषु (देवाराधनादि-कल्पान् अन्तराऽपि) प्रयोक्तुम् उचितम्‌‌। एवं तदीयो [बलमन्त्रो](/AgamaH_vaiShNavaH/shrI-sampradAyaH/prakIrNa-mantrAdi/gadyam/sankalpaH_bala-mantraH/) ऽपि। 
 
 #### विकल्पेषु लीला
 विकल्पेषु लीला यथा (विश्वासचित्ते विना श्रमं) -  
