@@ -56,5 +56,5 @@ Scholars have been selective about deciding whether any book's statement can be 
 - Consider the analogous role of myths showing conflicts among the deva-s.
 - Even the mutual bickering among brAhmaNa-s of veda shAkhA-s was harmonized in this way by the sUtra period.
 
-## Interesting notes: 
+## Interesting notes
 - Incorporation of oShadhi-based-shAmanism - [MT](https://manasataramgini.wordpress.com/2007/04/18/keshi-visham/).

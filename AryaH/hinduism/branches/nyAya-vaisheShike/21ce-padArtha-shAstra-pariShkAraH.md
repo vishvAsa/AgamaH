@@ -970,6 +970,19 @@ Rather focus on being "playful" (ergo joyful)  while pursuing the 3 puruShArtha-
 - असंशयस्य दृश्यानि निरूपणानि यथा - ऽस्मिन् दृश्ये प्रारम्भ-निमेषे - [Hattori Honzo restaurant scene](https://www.youtube.com/watch?v=peP8CsCw09Y) । अथवाऽत्र - [Last samurai - no mind scene](https://www.youtube.com/watch?v=NbecIBvR3mE) , [Bruce Lee teaching scene](https://www.youtube.com/watch?v=cm0uSVvjsOA) इत्य् अत्र वा।
 - "bicameral mind" इति केचिद् आहुर् इमां स्थितिम्।
 - "What is called ’No Mind’ is a mind that is pure and lacks complication ." इति बौद्ध-ध्यान-गुरवः। तदर्थं तत्त्वावेशाय यतन्ते। तेन हि "Harmony of pen and sword" इत्य् उषः-पुत्र-योद्धृषु प्रसिद्धम्।
+
+वेङ्कटनाथार्य एवम् -
+
+> दृष्टानुश्रविक-विषय-वितृष्णस्य परमात्मैक-रतेः
+पुरुषस्य कृत्यानुष्ठाने प्रयोजनाभावो  
+ऽकृत्य-करणे प्रत्यवायाभावश् च
+प्रतिपाद्यत इति यद् उच्यते;  
+…
+तत एव "हत्वाऽपि स इमाल्ँ लोकान्" \[18।17\] इत्यादेर् अपि  
+वक्ष्यमाणस्यात्रोदाहृतस्यान्यविषयत्व-स्थापनात्।  
+अथ चेत् समाधि-दशायां कर्तव्यान्तराभावो  
+ऽस्मिन् श्लोकद्वये विवक्षित इत्य् अभिप्रायः;  
+तदा तु मुक्त-दशायाम् इव विरोधाभावाद् अभ्यनुजानीमः।
 </details>
 
 ##### दोषाः
