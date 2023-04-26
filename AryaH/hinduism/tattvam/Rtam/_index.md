@@ -6,13 +6,15 @@ title: +Connection-web ऋतम्
 
 - Humans are embedded in an intricate, interconnected, interdependent system. There is a continuity between man and nature. Hindu traditions emphasize this interconnected nature, so that a hindu understands this network not just intellectually, but also in the world of feelings.
 
-## Presentation in tradition
-This has been variously presented in the tradition:
+## Presentations
+This has been variously presented in the tradition - Rta, dharma, yajna.
 
-### Rta
+Other traditions - nagAre in shinTo.
+
+## Rta
 - Rta (divine order in the universe), whose keeper is varuNa. (gaNesha [here](http://indiafacts.co.in/the-pillars/).)
 
-#### Ideal realm
+### Ideal realm
 - Rta is thought to be ultimately mathematical in nature. Its ultimate form is algebra (seen in natural laws of science expressed as symbol-relationships) which determines the functioning of the real world. \[[MT16](https://manasataramgini.wordpress.com/2016/10/23/syllable-number-and-rules-in-the-ideal-realm/)\]
 - Compare with [platonism](/AgamaH/AryaH/mediterranian/platonism) of the yavanas.
 
@@ -45,6 +47,4 @@ Representation of various parts of the nature (including various social construc
       - The varNa system.
 - That said, some refinement (saMskRti) is applied to the natural state of affairs (prakRti) to enhance effectiveness and good feeling. saMskRti is not opposite to prakRti - it attempts to capture the beneficial essentials.
 
-## Japanese analogy
-- The ancient Japanese did not strictly divide their world into the material and the spiritual, nor between this world and another perfect realm, but their intuitive spirituality infused all domains. There is an underlying belief of the early Shinto world-view, that is, continuity between man and nature. This concept is also encapsulated by the Japanese word nagare, meaning ‘flow’, and leads to the conception of vital connections between the divine nature of the kami, and by extension the natural world, and humanity (through respectful rituals); between post-mortem souls and the living (such as the ie construct which is an extended sense of family); and between the inner and outer worlds (as found in ideas about pollution and purity). (Paraphrased from [Lucy Wright](http://refractory.unimelb.edu.au/2004/02/03/wonderment-and-awe-the-way-of-the-kami-lucy-wright/))
 
