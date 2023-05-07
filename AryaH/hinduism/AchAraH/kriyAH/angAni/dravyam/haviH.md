@@ -30,3 +30,9 @@ unicode_script: devanagari
 
 - माषाः - Vigna mungo 
 - Tila : Sesamum indicum
+
+
+## maatraa
+The amount of food sacrificed must be moderate, neither too small nor too large, as emphasized repeatedly for example in the Şata-patha-brāhmaṇá (yád bhū́yo hinásti tád yát kánīyo ná tád avati).
+
+"It is better that a sacrifice is not made at all than be made too large" - Hávamál
