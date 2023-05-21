@@ -38,7 +38,7 @@ Hole in sruva (2nd item) should be 1 inch diameter.
 
 ### स्रुक् ←स्रुच्
 
-> Sruc denotes a ‘large wooden sacrificial ladle’ (used for pouring clarified butter on the fire) in the Rigveda^1 and later.^2 It is of the length of an arm, with a bowl of the size of a hand and a beaklike spout.
+> Sruc denotes a ‘large wooden sacrificial ladle’ (used for pouring clarified butter on the fire) in the Rigveda and later. It is of the length of an arm, with a bowl of the size of a hand and a beaklike spout.
 
 > वटपत्राकृतौ विक ङ्कतकाष्ठजे बाहुमात्रे यज्ञपात्रभेदे
 
