@@ -9,8 +9,22 @@ unicode_script = "devanagari"
 
 आपस्तम्बवचनान्य् [अत्र](/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/viShaya-vibhAgaH/angAni/shulbam) । 
 
+कात्यायनो [ऽत्र](/vedAH_yajuH/vAjasaneyam/sUtram/kAtyAyanaH/shrautam/sarva-prastutiH/01/03) । 
+
 - दर्वीविकल्पा आपस्तम्बोक्ताः - खादिराः, पालाशाः, आश्वत्थ्यः, वैकङ्कत्यः +++(=Flacourtia [FI](http://www.flowersofindia.net/catalog/slides/Governor's%20Plum.html))+++ 
 - द्राविडेषु +औदुम्बर-प्रयोगः साधारणः। 
+
+### Making instructions
+
+> For first two items, longer handle is needed.  
+For srk and sruva, total length 18 inches. The non-handle part of sRk (1st item) should be 7 inch long and 4 inch wide. Mouth should be like swan beak (hamsa-mukha).  
+Hole in sruva (2nd item) should be 1 inch diameter.  
+> Wood - vaikankata / Flacourtia [FI](http://www.flowersofindia.net/catalog/slides/Governor's%20Plum.html)
+> Mouth should be cut facing away from the center of the wood (towards the bark) and away from the trunk.
+
+> The non-handle parts of praNItA and prokShaNI patras (items 3 and 4) should be 7 inches long, and 4 inch wide. Handles for these can be short.  
+> These should be made with Crateva religiosa
+(వరుణ, ఉలిమిడి, voolemara.)
 
 
 ## पर्ण-प्रयोगः
