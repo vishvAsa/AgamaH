@@ -167,7 +167,7 @@ unicode_script: devanagari
 
 ### दिग्-वन्दनम्
 
-<div class="js_include" url="/vedAH_yajuH/AryaH/hindukaH/lokAntaram/yajuH/dik/namaH_prAchyai.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/AryaH/hindukaH/classes/lokAntaram/yajuH/dik/namaH_prAchyai.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 
