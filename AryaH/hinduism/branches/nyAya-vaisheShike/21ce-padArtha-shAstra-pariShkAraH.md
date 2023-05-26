@@ -118,8 +118,7 @@ unicode_script = "devanagari"
 
 > Aether does not pervade atoms, but is contiguous to each one of them. This point is already explicit in the Nyāyabhāṣya and is needed because of the point-sized nature of atoms. If these were pervaded by ākāśa, then they would have parts, and thus not be permanent. - Elisa
 
-नैतद् उपपन्नम् - अविभाज्यत्वम्, अनवयवत्वं नाङ्गीक्रियते भूतशास्त्रय् आधुनिके। 
-
+नैतद् उपपन्नम् - अविभाज्यत्वम्, अनवयवत्वं नाङ्गीक्रियते भूतशास्त्रय् आधुनिके।
 </details>
 
 
