@@ -105,7 +105,10 @@ unicode_script = "devanagari"
 
 अवधेयम्, प्राचीनमतय् आकाशो नाम ether, न तु space इति।
 
-प्राचीनमते ऽणुष्व् आकाशो वा सर्व-व्यापि ब्रह्मापि वा न व्याप्नोति। तत्र "व्याप्त्या" परितो-व्याप्तिर् एवोच्यते - 
+प्राचीनमते ऽणुष्व् आकाशो वा  
+सर्व-व्यापि ब्रह्मापि वा  
+न व्याप्नोति।  
+तत्र "व्याप्त्या" परितो-व्याप्तिर् एवोच्यते - 
 
 > निरवयस्य नित्यस्यानुपपत्तिः।  
 > कस्मात्? आकाशव्यति-भेदात्।  
@@ -117,6 +120,8 @@ unicode_script = "devanagari"
 इति। 
 
 > Aether does not pervade atoms, but is contiguous to each one of them. This point is already explicit in the Nyāyabhāṣya and is needed because of the point-sized nature of atoms. If these were pervaded by ākāśa, then they would have parts, and thus not be permanent. - Elisa
+
+एवं च "देशवत्त्वे ऽपि निरवयवाः परमाणवः" इति (शब्दान्तरेण) उद्द्योतकारः। 
 
 नैतद् उपपन्नम् - अविभाज्यत्वम्, अनवयवत्वं नाङ्गीक्रियते भूतशास्त्रय् आधुनिके।
 </details>
