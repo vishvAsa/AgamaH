@@ -759,31 +759,50 @@ endorphin-आदि-जननेन सुख-विषादाद्य्-अ
 > तत्र सुख-दुःखाभावेच्छयैव इच्छोदयात् गौणत्वम्।
 
 इति प्रसिद्धम्।  
-एतद्-अन्तरा, सविकल्पेषु जीवेषु सर्व-विज्ञान-सम्पादनात्मावलोकनादि-प्रवृत्तिमत्सु,  
+
+##### ऊहित-मूलानि
+एतद्-अन्तरा, स्व-स्वभावेषु व्यक्तं ब्रह्मणो मूलम् उद्देशं किञ्चनोहन्ते।  
+
+यथा, सविकल्पेषु जीवेषु सर्व-विज्ञान-सम्पादनात्मावलोकनादि-प्रवृत्तिमत्सु,
 
 > ब्रह्माण्डेन +आत्मावलोकनावगमन-प्रयासार्थम् इव निर्मितो ऽहम्
 
-इति प्रत्ययः स्वाभाविकः।
+इति प्रत्ययः स्वाभाविकः।  
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 यथाह Bradbury-Ray -
 
 > > “Is God dead?”
-> 
-> “A better answer is yet another question: Are *you* dead? Does the blood move in your hand, does that hand move to touch metal, does that metal move to touch Space? Do wild thoughts of travel and migration stir your soul? They do. Thus you live. Therefore God lives. 
-> 
-> You are the thin skin of life upon an unsensing Earth, you are that growing edge of God which manifests itself in hunger for Space. 
-> 
-> So much of God lies vibrantly asleep. The very stuffs of worlds and galaxies, they know *not* themselves. 
-> 
+>
+> “A better answer is yet another question: Are *you* dead? Does the blood move in your hand, does that hand move to touch metal, does that metal move to touch Space? Do wild thoughts of travel and migration stir your soul? They do. Thus you live. Therefore God lives.
+>
+> You are the thin skin of life upon an unsensing Earth, you are that growing edge of God which manifests itself in hunger for Space.
+>
+> So much of God lies vibrantly asleep. The very stuffs of worlds and galaxies, they know *not* themselves.
+>
 > But here, God stirs in his sleep. You are the stirring. He wakes, you are that wakening. God reaches for the stars. You are His hand. Creation manifest, you go in search. He goes to find, you go to find. Everything you touch along the way, therefore, will be holy. On far worlds you will meet your own flesh, terrifying and strange, but still your own. Treat it well. Beneath the shape, you share the Godhead.
 >
-> “You Jonahs traveling in the belly of a new-made metal whale, you swimmers in the far seas of deep space, blaspheme not against yourselves or the frightening twins of yourselves you find among the stars, but ask to understand the miracles which are Space, Time, and Life in the high attics and lost birthing-places of Eternity. 
-> 
+> “You Jonahs traveling in the belly of a new-made metal whale, you swimmers in the far seas of deep space, blaspheme not against yourselves or the frightening twins of yourselves you find among the stars, but ask to understand the miracles which are Space, Time, and Life in the high attics and lost birthing-places of Eternity.
+>
 > Woe to you if you do not find all life most holy, and coming to lay yourself down cannot say, O Father God, you waken me. I waken Thee. Immortal, together we then walk upon the waters of deep space in the new morn which names itself: Forever.”
 </details>
 
+अपरो वदेत् स्वभावतः कविः -
+
+> "अपारे काव्यसंसारे कविरेकः प्रजापतिः"। काव्य-रचनया विचित्र-कल्पनाविर्भावनाय +आत्मवर्णनार्थं वा पुष्पितो ऽहम् ब्रह्माण्डवृक्षात्।
+
+अपरो गायकः - 
+
+> नादमयम् ब्रह्म। नादोपासनार्थं ह्य् उद्गीर्णो ऽहम्। 
+
+याजको वापि चिन्तयेद् -
+
+> ब्रह्माण्डं नाम कश्चन महान् यागः। तदनुरूपतयाहं यजमानः। 
+
+एवं नर्तको ऽभियात्रिको गणितज्ञो व्यापारी कृषिको राजन्यो वापि कल्पयेत्। 
+
+एतादृश ऊहस् तु सोत्साहे वृत्तिप्रधाने जीवनय् उपकरोति। 
 
 #### विभागाः
 प्राणिषु मनुष्यादिषु सविकल्पेषु  
@@ -804,7 +823,7 @@ endorphin-आदि-जननेन सुख-विषादाद्य्-अ
   - सुक्ष्मतर-विषयेषु धर्म आचार इत्य् उच्यते।
 - **अर्थः**। धर्म-कामयोस् साधनम् अत्र प्रेरणं स्वस्थेषु। धर्म-कामयोस् साधनार्थं साधनानां वित्तगृहादीनां सङ्ग्रहो ऽत्र। 
   - तत्र प्रधानं स्वास्थ्यं दैहिकं मानसिकं च। ततः - प्रजाः, सत्सङ्गः, वित्तम्, ऐश्वर्यम्। 
-- एतं त्रितयम् अतिरिच्य मोक्षम् अपि पुरुषार्थं परिगणयन्ति केचित् - तत् पश्चाद् वर्णितम्। 
+- एतं त्रितयम् अतिरिच्य **मोक्षम्** अपि पुरुषार्थं परिगणयन्ति केचित् - तत् पश्चाद् वर्णितम्। 
 
 
 #### प्रयोगः
@@ -855,6 +874,13 @@ endorphin-आदि-जननेन सुख-विषादाद्य्-अ
 एवञ् च विना विश्रान्तिम्  
 एषाम् अनुधावने ऽप्य् आनन्द-नाशः -  
 निर्विकल्पावस्थासु सुविश्रान्तेनैव साधनीयाः।  
+
+
+##### वृत्तिः
+बहुदा ऽर्थोपार्जनाय, कामप्राप्त्यै, धर्मसाधनाय काचित् प्रधाना वृत्तिर् अवलम्भ्यते।  
+धर्माविरोधिनी स्वभानुसारिणी पर्याप्तार्थदात्री च स्यान् मुख्या वृत्तिः।  
++++(एतद्ध्य् उषःपुत्राः केचिद् ikigai-शब्देनाहुः।)+++  
+भिन्नास्व् अवस्थासु भिन्ना वृत्तयः प्रामुख्यं भजेरन्, यथा बाल्ये विद्यासङ्ग्रहणम्, ब्राह्मण्ये यौवने च सत्य् अध्यापनम्, यौवने दारिद्र्ये धनिकसेवा …। 
 
 #### प्रमाणानि
 पुरुषार्थ-विभाग-करणे, तत्-साधने, परस्-पर-विरोधे प्रामुख्य-निश्चये च  
@@ -1077,6 +1103,9 @@ Rather focus on being "playful" (ergo joyful)  while pursuing the 3 puruShArtha-
 > देहेऽस्मितया यद्वज् जडयोर् **आस्फालनं** मिथो **बाह्वोः** ।  
 > इच्छामात्रेणेत्थं गिर्योरपि तद्वशाज्जगति ॥  
 > (विरूपाक्षपञ्चाशिका)
+
+#### वृत्तौ सन्तृप्तिः
+पूर्वोक्तरीत्या यद् ऊहन्ते केचिद् "ब्रह्माण्डं मत्कायेनात्मानं कवयितुम् इच्छति"
 
 ### निवृत्तिः
 सद्भावान् उद्दिश्य (पूर्वोक्त-केन्द्रालम्भनाद् अपि) दीर्घा प्रवृत्तिर् निवृत्तिर् इत्य् उच्यताम्।  
