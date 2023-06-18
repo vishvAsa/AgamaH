@@ -22,6 +22,11 @@ Family, rather than the individual, is the true unit of a great society.
 - Common ages of marriage, classically, were: 20 for men (having completed 12 years of education starting at 8) and about 16 for women.
 - Note: It should not be considered inferior to adult marriage out of hand.
 
+### Current legality
+- Atlas [here](https://www.girlsnotbrides.org/learning-resources/child-marriage-atlas/atlas/)
+
+
+
 ## Inbreeding
 - prohibited by manu and several others. Details from dharmashAstra [here](https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc199777.html).
 - Prevelant (in the past and an few pockets now) in south india (eg among shrautins: [IMG](https://imgur.com/9mKPIOJ)).
