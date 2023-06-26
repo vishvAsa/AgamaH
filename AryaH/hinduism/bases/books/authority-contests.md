@@ -36,9 +36,26 @@ Scholars have been selective about deciding whether any book's statement can be 
   - vedAntadeshika pointed out that some use fabricated texts, ascribing them to vyAsa.
 - Motivation
   - Sometimes, marginal comments may come to be inserted into the main text when the manuscript is copied.
-- advaitins consider the Padma Purana verse equating Mayavada and crypto-Buddhism as an interpolation.
+
 - bhaviShyapurANa
     - "Many parts of Bhavishya purana are original. Some chapter were added in time of Akbar to show him reincarnation of Prithviraj Chauhan. 2 chapters were added by either William Jones or Eric Pargiter to show that British are descendants of Hanuman who were blessed by Bhagvan Ram to rule India. William Jones also removed some key verses of puranas."
+
+### moha-shAstra 
+
+पाद्मपुराणे [२३६](/purANam_vaiShNavam/padma-purANam/06/236)
+
+> दैत्यानां नाशनार्थाय विष्णुना बुद्धरूपिणा  
+बौद्धशास्त्रमसत्प्रोक्तं नग्ननीलपटादिकम् ६  
+मायावादमसच्छास्त्रं प्रच्छन्नं बद्ध उच्यते  
+मयैव कथितं देवि कलौ ब्राह्मणरूपिणा ७  
+अपार्थं श्रुतिवाक्यानां दर्शयन्लोकगर्हितम्  
+स्वकर्म्मरूपं त्याज्यत्वमत्रैव प्रतिपाद्यते ८  
+सर्वकर्म्मपरिभ्रष्टैर्वैधर्म्मत्वं तदुच्यते  
+परेशजीवपारैक्यं मया तु प्रतिपाद्यते ९  
+ब्रह्मणोस्य स्वयं रूपं निर्गुणं वक्ष्यते मया  
+सर्वस्य जगतोऽप्यत्र मोहनार्थं कलौ युगे १०
+
+advaitins consider the Padma Purana verse equating Mayavada and crypto-Buddhism as an interpolation.
 
 ### Contests based on language
 - kumarIla-bhaTTa notes in a lengthy pUrvapakSa claim (via the voice of his "opponent") that the authors of the kalpa texts made many grammatical errors!
