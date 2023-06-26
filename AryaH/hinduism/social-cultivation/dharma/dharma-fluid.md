@@ -54,6 +54,15 @@ Dharma-shAstra-s reflect the circumstances in which they were composed - these c
 - Allowing changes in social roles and occupations.
   - "Parāśarasmṛti explains it best when it proclaims itself to be a dharma text for this yuga (kali). It specifies at P 11.50 that there are different dharmas prescribed for different ages, and that the good brahmin must not be censured for following the yuga-dharma. As the age is, so should the brahmin be."
 
+#### Allowance for decay
+पराशर-माधवीये रुचिकर्म् [उक्तम् अस्य व्याख्याने](/kalpAntaram/smRtiH/parAsharaH/mAdhavIyam/02_prAyashchittakANDam/11) -
+
+> **युगे युगे तु ये धर्मास्  
+> तेषु तेषु च ये द्विजाः ॥ ५० ॥**  
+> **तेषां निन्दा न कर्तव्या  
+> युगरूपा हि ते द्विजाः ।**
+
+
 #### Accommodating taste-drift
 Intended saMskAra (by dharma) and prakRti should not be too far apart - else the saMskRti will not gain ground.
 
