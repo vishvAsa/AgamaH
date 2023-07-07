@@ -15,29 +15,14 @@ Family, rather than the individual, is the true unit of a great society.
     - When needed, they make fire with the araNI together.
 - guru-shishyA relationship: [IMG](https://imgur.com/SrLfzQd).
 
-## Child marriage.
-- shatAvadhAnI gaNesh's view [here](https://www.youtube.com/watch?v=kXustFOkOr4&feature=em-uploademail).
-- Child marriage is referred to in the distant past, but very rarely.
-- Consummation ritual ought to happen on the fourth day of marriage - this indicates that adult marriage was intended. But later practice changed this and introduced a delay. \[[TW17](https://twitter.com/agnimaan/status/849856736110362624)\]
-- Common ages of marriage, classically, were: 20 for men (having completed 12 years of education starting at 8) and about 16 for women.
-- Note: It should not be considered inferior to adult marriage out of hand.
-
-### Current legality
-- Atlas [here](https://www.girlsnotbrides.org/learning-resources/child-marriage-atlas/atlas/)
-
-
-
-## Inbreeding
-- prohibited by manu and several others. Details from dharmashAstra [here](https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc199777.html).
-- Prevelant (in the past and an few pockets now) in south india (eg among shrautins: [IMG](https://imgur.com/9mKPIOJ)).
 
 
 ## Divorce
-- There is an ancient sanskrit word for divorce - a beautiful and very meaningful word. kauTilya uses it - mokSha. It is a simple misconception that there is no provision for divorce among hindu thinkers. \[[A1](http://www.yourarticlelibrary.com/marriage/comprehensive-essay-on-divorce-in-india/4370/)\]
+- There is an ancient sanskrit word for divorce. kauTilya uses it - mokSha. It is a simple misconception that there is no provision for divorce among hindu thinkers. \[[A1](http://www.yourarticlelibrary.com/marriage/comprehensive-essay-on-divorce-in-india/4370/)\]
 - नष्टे मृते प्रव्रजिते क्लीबे च पतिते पतौ। पञ्चत्स्वापत्सु नारीणां पतिरन्यो विधीयते।३०।। \[पराशरो [ऽत्र](https://archive.org/stream/ParasharaSmriti/SriParasharaSmrithiPdf#page/n35/mode/2up/search/%E0%A5%A9%E0%A5%A6)\]
 
 ## Widower options
-- "For a widower, at least four different options are suggested in the Dharmashastras. While Yajnavalkya Smriti (1.89) suggests the widower to take another wife without delay and rekindle a new fire (for religious Yajnas), texts like Baudhayana Dharmasutra (2.17.4) suggests one to renounce the world and become a Sannyasi. He may also rekindle the fire with a ‘substitute wife[10]’ made of gold or Kusha grass (Aitereya Brahmana 32.8; Trikandamandana 2.8) and thus enter Grihasta Ashrama symbolically and continue his duties, or he may rekindle the fire alone for himself[11] (Trikandamandana 3.128) and taking Shraddha (faith/conviction) as his ‘substitute wife’ may perform agnihotra etc. similar to those who remain unmarried (Naishtika Brahmachari). Thus, the four options for the widower are: remarriage, renunciation, taking a substitute wife in the form of statue made of gold or kusha grass for ritual purposes, staying as Apatnika by rekindling the sacrificial fire for oneself alone. ... Apatnikas are those who do not have dispassion and hence cannot take Sannyasa, but because of their love and attachment to their departed wives, they cannot even remarry. Either due to sorrow at the loss of the wife or due to desire to enter a Vanaprasta-like stage, the widower chooses the Apatnika path and practices Agnihotra etc. and lives a highly restrained life by cherishing the memory of the departed wife." - [Nithin](http://indiafacts.org/sati-dharmic-perspective/#_ednref14)
+- "For a widower, at least four different options are suggested in the Dharmashastras. While Yajnavalkya Smriti (1.89) suggests the widower to take another wife without delay and rekindle a new fire (for religious Yajnas), texts like Baudhayana Dharmasutra (2.17.4) suggests one to renounce the world and become a Sannyasi. He may also rekindle the fire with a ‘substitute wife[10]’ made of gold or Kusha grass (Aitereya Brahmana 32.8; Trikandamandana 2.8) and thus enter Grihasta Ashrama symbolically and continue his duties, or he may rekindle the fire alone for himself[11] (Trikandamandana 3.128) and taking Shraddha (faith/conviction) as his ‘substitute wife’ may perform agnihotra etc. similar to those who remain unmarried (Naishtika Brahmachari). Thus, the four options for the widower are: remarriage, renunciation, taking a substitute wife in the form of statue made of gold or kusha grass for ritual purposes, staying as Apatnika by rekindling the sacrificial fire for oneself alone. ... Apatnikas are those who do not have dispassion and hence cannot take Sannyasa, but because of their love and attachment to their departed wives, they cannot even remarry. Either due to sorrow at the loss of the wife or due to desire to enter a Vanaprasta-like stage, the widower chooses the Apatnika path and practices Agnihotra etc. and lives a highly restrained life by..... #nAstikamob (curating for education) ..... cherishing the memory of the departed wife." - [Nithin](http://indiafacts.org/sati-dharmic-perspective/#_ednref14)
 - vrata-s - to check: \[[IMG](https://imgur.com/MTx97Wm)\]
 
 ## Widow options

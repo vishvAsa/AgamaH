@@ -42,3 +42,10 @@ title = "Inbreeding"
 - Manu and Viṣṇu (Vīramitrodaya-Saṃskāra, p. 704).—‘Sapiṇḍatā ceases in the seventh grade.’
 - Chaturviṁshatimata (Vīramitrodaya-Saṃskāra, 704).—‘On both sides, one should marry the girl in the third and the fourth grades.’
 - Saṭtṛṁshanmata (Vīramitrodaya-Saṃskāra, 704).—‘Manu has declared that one may marry the girl who is in the third grade on the mother’s side and in the third grade on the father’s side.’
+
+## वेदोल्लेखः
+Mādhavācārya in his commentary on Parāśarasmṛti cites statements from Vedas documenting the practice of marrying Mātula's daughter and grandfather's sister's daughter. (Seek "मातुल" [in AchAra/02](/kalpAntaram/smRtiH/parAsharaH/mAdhavIyam/01_AchAra-kANDam/02/))
+
+## पौराणिकम्
+- Subhadrā was daughter of mātula of Arjuna.
+- Further, Pradyumna, son of śrīkṛṣṇa also married to  daughter of rukmī, i.e. his own mātula.

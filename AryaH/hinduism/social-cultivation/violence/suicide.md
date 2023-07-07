@@ -7,7 +7,7 @@ title: Suicide
   - sallekhana among jains.
 - Burning oneself on a pire as a paschAt-tApa/ prAyashchita. The pAla king, the tale of the maNDana.
 - garuDa heroes following their kings in South India \[[IM](http://i.imgur.com/LcJGXVh.png)\].
-- Following the husband by satI-s (details in [anugamana page](../anugamana/)). 
+- Following the husband by satI-s (details in [anugamana page](../../Ashrama/anugamana/)). 
 
 ## Injunctions
 - "That it goes against the Sruti statements like “Therefore, one should not depart before one’s natural lifespan” (Shatapatha Brahmana 10.2.6.7), which prohibit suicide." - [Nithin](http://indiafacts.org/sati-dharmic-perspective/#_ednref14)

@@ -1,5 +1,5 @@
 ---
-title: +धर्मः Responsibility
+title: +अधि-धर्मम्
 ---
 
 ## What is dharma?
