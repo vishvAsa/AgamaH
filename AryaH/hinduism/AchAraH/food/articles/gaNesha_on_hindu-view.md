@@ -35,17 +35,21 @@ Madhuparka is the practice of offering honey to honour a distinguished guest. Ac
 
 The Baudhāyana Gṛhyasūtra 1.2.65 adds ‘guest’ (atithi) to this list. As part of madhuparka, honey, curds, ghee, water, and grains were offered while meat was optional (See Āśvalāyāna Gṛhyasūtra 1.22.5-26 for more details).
 
-In the prelude to Act IV of Bhavabhūti’s play, Uttararāmacarita (8th century CE), there is a delightful dialogue between two ascetics, Saudhātaki and Daṇḍāyana. Saudhātaki is curious about the guest who is visiting their āśrama and learns that it is Vasiṣṭha. He tells Daṇḍāyana, “I thought it was a tiger or a wolf. My poor calf was terrified since his arrival.”
+In the prelude to Act IV of Bhavabhūti’s play, Uttararāmacarita (8th century CE), there is a delightful dialogue between two ascetics, Saudhātaki and Daṇḍāyana. Saudhātaki is curious about the guest who is visiting their āśrama and learns that it is Vasiṣṭha. He tells Daṇḍāyana, 
 
-“When a great scholar visits us, we should offer the madhuparka with beef or mutton, as it is said in the dharmasūtras!”
+> “I thought it was a tiger or a wolf. My poor calf was terrified since his arrival.”
 
-Saudhātaki says, “You contradict yourself. A calf was sacrificed for Vasiṣṭha but when King Janaka came, he was offered just milk and curds. The calf was set free.”
+> “When a great scholar visits us, we should offer the madhuparka with beef or mutton, as it is said in the dharmasūtras!”
 
-“What the dharmasūtras say in this matter applies to those who have not given up meat. King Janaka is a vegetarian.
+Saudhātaki says, 
+
+> “You contradict yourself. A calf was sacrificed for Vasiṣṭha but when King Janaka came, he was offered just milk and curds. The calf was set free.”
+
+> “What the dharmasūtras say in this matter applies to those who have not given up meat. King Janaka is a vegetarian."
 
 All these examples – of Kālidāsa, Bhavabhūti, and Mallinātha – serve to shed light on how meat-eating was perceived in the first millennium CE in India.
 
-Jainism was the first (and perhaps only) religion whose adherents were strictly vegetarian. Buddhism did not forbid meat-eating per say but they were against animal sacrifice. People were weaned away from eating meat due to the influence of these two religions and also with the rise of the vaiṣṇava faith, which used Bhāgavata Purāṇa 7.15.7-8 as their reference for wholly avoiding meat.
+Jainism was the first (and perhaps only) religion whose adherents were strictly vegetarian. Buddhism did not forbid meat-eating per say but they were against animal sacrifice. People were weaned away from eating meat due to the influence of these two religions and also with the rise of the Vaiṣṇava faith, which used Bhāgavata Purāṇa 7.15.7-8 as their reference for wholly avoiding meat.
 
 ## Alcohol
 
