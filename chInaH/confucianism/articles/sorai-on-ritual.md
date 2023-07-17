@@ -1,0 +1,26 @@
++++
+title = "Sorai on ritual"
++++
+
+Deviation from the ideas of li advocated by Song thinkers such as Zhu Xi may be found not only in Tokugawa discourse about family li but also in notions of the basis for the efficacy of ritual. It is most apparent in the writings of Ogyū Sorai, whose systematic recasting of the premises of Confucianism produced a sea change in its conceptual dynamics. 
+
+Sorai directly challenged the assumption that through the enactment of li the individual realized an innate capacity for alignment with a natural moral order.+++(4)+++ In his view the very notion of an innate order encompassing both the human realm and Heaven was a misinterpretation that had resulted from ambiguities in the writings of successors of Confucius such as Zisi 7 and Mencius. The Way, Sorai held, was not something "natural." It was nothing other than the totality of li and other institutions created by the ancient kings with the aim of bringing order to human society. Like those entities it thus was itself a human construction and necessarily external to the individual. 
+
+From this perspective Sorai took issue with Zhu Xi's observation that "li represent the principles of differentiation innate to Heaven and provide the standards for the regulation of human affairs." The association of li with the notion of a "heavenly principle" perpetuated, he said, the mistaken perception that li were somehow part of human nature (sei E, Chinese xing).21 +++(स्वभावानुकूलं तु शास्त्रम्, न तदनुवचनम्।)+++
+
+Sorai's condemnation of the Song approach to li was not a rejection of the importance of li per se. To the contrary, he strongly affirmed the value of li as he believed them to have been employed by the ancient kings.+++(5)+++ The ancient kings created li, Sorai argued, because they recognized that "words" (i.e., the kinds of rationalizing, didactic explanations favored by Confucians of later ages) were insufficient to teach people how to live together peacefully and harmoniously. The virtue of li as opposed to words was their transforming effect. Carried along by the performative power of li, people were induced without realizing it to act within the normative structures established by the ruler.22 
+
+This premise led Sorai to particularly emphasize li in the sense of state rites. "The way of the ancient kings was rooted in none other than reverence for Heaven and the spirits."23 Whenever the rulers of the three ancient Chinese dynasties (the Xia, Shang, and Zhou) took action on even minor governmental matters, they thus endowed their measures with divine authority by 
+
+> "conducting rites to their ancestors in conjunction with those to Heaven, issuing measures as at the command of Heaven and their ancestors, and carrying them out in accordance with the indications gained through divination."24
+
+In Sorai's view, the postulation of an innate principle that linked human beings to a heavenly order had led the Song thinkers to take an inflated view of their own self-importance.+++(5)+++ This was reflected in their disregard of the awe toward Heaven and the spirits emphasized by the ancient kings; instead they had stressed a program of introspective reflection intended to lead to identification with heavenly principle. Similarly they had presumptuously attempted to articulate a "fixed, immutable system of li."25 In so doing, Sorai argued, Cheng Yi and Zhu Xi had failed to grasp one of the most important features of the ritual structures devised by the rulers of antiquity: li were specific and concrete, designed to fit the needs of a particular age, not universal and general.26 +++(5)+++
+
+Sorai's critique of Song Confucianism and his theory of the power of ritual had a wide-ranging impact on Tokugawa ideas about li. On the one hand his deconstruction of Song ideas further undermined the already shaky place in Tokugawa thought of li as activating an alignment between the individual and an abstract natural moral order. On the other, his acclamation of the ancient kings' use of awe for Heaven and spirits as a strategy for governing suggested alternative ways of thinking about the social and political functions of ritual. It also raised the question of the meaning for Japan of the specific li they had created.
+
+
+...
+
+Although it would be a mistake to suppose that Aizawa ad- hered to Ogyu Sorai's views in all matters, recent scholarship attests that Sorai influenced him considerably. 56 The "Way of the former sage kings" according to Sorai consisted of ritual, music, laws, and institutions. 57 The ritual and music were of cardinal importance, since for Sorai, the sovereign should be a "ruler-edifier" who induced acceptance of his teachings by utilizing ch❜üan rather than by relying on words:
+
+> The former sage kings realized that words alone were insuffi- cient to edify people, and therefore created ritual and music. They realized that political institutions and laws alone were insufficient to bring peace and stability to the people, and therefore created ritual and music to exercise kwa, "an inducing influence" over them.... When one follows ritual, one comes under this "inducing influence" and unconsciously obeys the laws of the sovereign. How can any evil result? Could political institutions and laws ever be as good [i.e., efficacious] as this?58
