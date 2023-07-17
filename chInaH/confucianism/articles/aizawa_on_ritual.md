@@ -2,6 +2,12 @@
 title = "Aizawa on ritual"
 +++
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+The phrase for this is saisei itchi (祭政一致) meaning the unity of ritual & government
+</details>
+
+
 The Mito scholars' assertion that in antiquity the import of the fundamental principles of human relations had been conveyed to the populace through nonverbal means dovetailed with another dimension of their outlook: a belief in the efficacy of ritual that they inherited from Sorai together with suspicion of Song metaphysics and introspection. As the leading late Mito thinker Aizawa Seishisai (1782-1863) put it in an observation that clearly built on Sorai's ideas, the people could not be made to understand, but they could be made to follow. To do so, however, a "tool" (gu) was necessary, and the only thing that could function effectively as such a tool was li+++(=ritual)+++. If li were used to "carry" the people, there would be no need to rely on strident and ultimately ineffective sermonizing. The people would in- stinctively "keep within the current" of what was correct.
 
 Aizawa looked to such activities to evoke in the populace more than just an awareness of the presence of the court. For people to feel a true commitment to reenact in the present the devoted service offered the ruler in antiquity, they also had to have a sense of continuity with the past.+++(4)+++ The common people of his day, he noted, lacked such a sense. They knew that "they have a father, but not that they should revere their ancestors." This was one reason why they were susceptible to heterodox promises of a false peace of mind. 

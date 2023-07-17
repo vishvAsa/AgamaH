@@ -32,3 +32,11 @@ In some cases, one may argue that despite stories of their elimination, some kSh
 - According to practice and paddhati-s, this involves offering up a golden calf (sometimes substituted by bronze as by vIrarAghava nAyaka).
 - The yajamAna is popularly considered to have taken a second birth (parishiShTa clues - rājā hiraṇyagarbhatvam abhīpsaty asmin bhavanto 'numanyantām iti.  ).
 - The phala is very general, according to the parishiShTa - whatever the brAhmaNa-s grant. 
+
+> हिरण्यगर्भत्रितयदानमात्रेण तत्क्षणात् ॥ ८८३  
+विप्रत्वं परमाप्नोति वृषलो नात्र संशयः ।  
+हिरण्यगर्भदानस्य चतुर्वारकृतस्य तु ।  
+महिम्ना वृषलस्यापि मौञ्ज्यामधिकृतिर्भवेत्॥ ८९६  
+ततोऽपि कृतया मौञ्ज्या शूद्रो ब्राह्मण्यमृच्छति।
+> 
+> कपिलस्मृतिः
