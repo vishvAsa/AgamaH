@@ -1391,6 +1391,17 @@ Rather focus on being "playful" (ergo joyful)  while pursuing the 3 puruShArtha-
 कर्म, ब्रह्म-कर्म +इत्यादयो ऽत्र पर्याय-वाचिनः।  
 तत्र विशिष्टा ऋत्विजः पुरोहिता उपकुर्वन्ति, विशिष्याज्ञेषु। 
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+यथाह सोराय्-महाशय उषःपुत्रः -
+
+> The former sage kings realized that words alone were insufficient to edify people, and therefore created ritual and music. 
+
+अन्ये चोषःपुत्राः -
+
+>  If li were used to "carry" the people, there would be no need to rely on strident and ultimately ineffective sermonizing. The people would instinctively "keep within the current" of what was correct.
+</details>
+
 
 #### शुभ-विकल्पाः
 
