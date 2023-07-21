@@ -23,14 +23,14 @@ If it is bright yellow it is suspect.
 > असंस्कृतां हरिद्रां यो मुखे लिम्पन् नराधमः।  
 > तन्मुखं न निरीक्षेत चण्डालम् इव न स्पृशेत्॥  
 
-इत्याह उत्तमूर्-स्वामिपादैः प्रयोगमालायाम्।
+इत्याह उत्तमूर्-स्वामिपादैः [प्रयोगमालायाम्](/AgamaH_vaiShNavaH/shrI-sampradAyaH/kriyA/uttamUru-vIrarAghavArya-prayoga-mAlA/22_shrIchUrNapratiShThAkramaH)।
 
 कथं स्ंस्कारः? 
 
 > कुङ्कुमं चन्दनं चैव करूप्रञ्चानुलेपनम्।  
 > विष्णुगात्रपरामृष्टं तद्वै पावनपवनम्॥ 
 
-इत्याह आह्निकार्थप्रकाशिका। ईश्वरसंहिता च -
+इत्याह गोपालदेशिक [आह्निकार्थप्रकाशिकायाम्](/AgamaH_vaiShNavaH/shrI-sampradAyaH/kriyA/gopAla-deshikaH/Ahnikam_AhnikArtha-prakAshikA/02_abhigamanam/14_puNDradhAraNam)। ईश्वरसंहिता च ([आह्निकार्थप्रकाशिकायाम् उद्धृता](/AgamaH_vaiShNavaH/shrI-sampradAyaH/kriyA/gopAla-deshikaH/Ahnikam_AhnikArtha-prakAshikA/02_abhigamanam/14_puNDradhAraNam)) -
 
 > कुङ्कुमं वापि हारिद्रं  
 > चूर्णं विष्ण्वभिषेचितम्।  
