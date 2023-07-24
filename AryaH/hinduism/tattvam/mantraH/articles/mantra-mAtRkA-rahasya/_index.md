@@ -3,6 +3,8 @@ title = "+मन्त्र और मातृकाओं का रहस्
 
 +++
 
+Source: [TW](https://archive.org/details/mantra-aur-matrikaon-ka-rahasya)
+
 
 मन्त्र और मातृकाओं का रहस्य  
 डॉ॰ शिवशङ्कर अवस्थी  
