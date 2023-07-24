@@ -72,7 +72,7 @@ There are two aspects to the primal sound-A. First, it is simple affirmation or 
 
 The second aspect of the primal sound-A is negation. As the original and absolute sound, it transcends all that is derived, relative and manifest. It is the Absolute, beyond which there is nothing, the Void that is beyond all name and form. The letter-A in Sanskrit serves to indicate negation when it is placed at the beginning of a word. For example, *rupa* means form, *a-rupa* means formless.
 
-Tantric yogis call short A-vowel as Anuttara,6 meaning that from which there is nothing greater, the supreme ultimate. They also call it *Amêta*,7 the immortal and deathless, the immortal nectar that we are always imbibing as we partake of being. Sri Aurobindo states that the letter-A relates to absolute existence, of which other sounds are relative existence. The Vedas say that the letter-A is Brahman or the Absolute.8 It is the first of all the vowels that constitute the spirit \(Shiva or Purusha\).9 It indicates the center, origin, being, Self and Supreme.
+Tantric yogis call short A-vowel as Anuttara,6 meaning that from which there is nothing greater, the supreme ultimate. They also call it *Amr̥ta*,7 the immortal and deathless, the immortal nectar that we are always imbibing as we partake of being. Sri Aurobindo states that the letter-A relates to absolute existence, of which other sounds are relative existence. The Vedas say that the letter-A is Brahman or the Absolute.8 It is the first of all the vowels that constitute the spirit \(Shiva or Purusha\).9 It indicates the center, origin, being, Self and Supreme.
 
 At a physical level, the sound-A serves to ground and stabilize our being and all its processes down to a cellular level. It is the root or base tone behind all the other vibrations of our organism, which we return to in a state of deep sleep. Repeating this sound serves to attune, harmonize and balance our entire organic field. It brings us back into our body and deeper awareness, connecting to the root energy of the heart and the center of our being.
 
@@ -84,7 +84,7 @@ At a psychological level, the sound-A returns us to the ground of our being and 
 Sound Pronounced *a* as in f*a*ther   Energetic Higher Self or Atman, Self-expansion and awareness of the Absolute   Spiritual Power of bliss, the space of consciousness   Physical Forehead, face, expansion and circulation of energies   Psychological Outgoing and creative aspect of mind, conscious mind, conscious Self   Yoga Promotes contemplation, meditation, happiness, contentment, creativity, space   
 
 
-Just as the short A-vowel represents the unbounded pure being of the Absolute, the long À-vowel represents its expansion into infinite space, *Àkàía*. As the short A-vowel represents pure being or Sat, the long À-vowel represents its manifestation as bliss, *Ànanda*, which is the delight or contentment inherent in being. It also relates to the power of attraction, *Àkaríana*, and helps draw things to us and aids us in returning to the source, having a kind of magnetic energy.10
+Just as the short A-vowel represents the unbounded pure being of the Absolute, the long À-vowel represents its expansion into infinite space, *Àkāśa*. As the short A-vowel represents pure being or Sat, the long À-vowel represents its manifestation as bliss, *Ànanda*, which is the delight or contentment inherent in being. It also relates to the power of attraction, *Àkarśana*, and helps draw things to us and aids us in returning to the source, having a kind of magnetic energy.10
 
 As the short vowel-A represents the absolute in a universal sense; the long vowel-À* *represents the Absolute in a manifest sense, the individual Self or *Àtman*.11 As the short A-vowel is pure Shiva, its long form shows the energy of Shakti inherent in Shiva, the power of rest inherent in the Absolute. As the short A-vowel is the Self in its underlying nature, the long À-vowel is the Self in its outward expansion. In Vaishnava thought, as the short A-vowel is Vishnu or Krishna, long À-vowel is the serpent Ananta, on which Vishnu reclines.
 
@@ -116,9 +116,9 @@ At a physical level, the sound-I serves to set in motion and sustain all the org
 Sound As in d*ee*p   Energetic Ruling power, executive and creative force in its expansion   Spiritual Divine Mother, Divine Energy, Shakti, Mahamaya   Physical Left eye, left energy of the body, power of love   Psychological Creative vision, emotion, empathy   Yoga Imagination, visualization, devotional concentration, dharana   
 
 
-The long Ī-vowel is phonetically represented by the sound ‘ee’. According to the Tantras, it is the expansion of the short-I vowel, intensifying will \(iccha\) into ruling power \(*Ī**íàna*\). It is called *Shakti bija*, the seed of Shakti or *Maya bija*, the seed of Maya, as it shows the creative will in its extension.
+The long Ī-vowel is phonetically represented by the sound ‘ee’. According to the Tantras, it is the expansion of the short-I vowel, intensifying will \(iccha\) into ruling power \(*Ī**śāna*\). It is called *Shakti bija*, the seed of Shakti or *Maya bija*, the seed of Maya, as it shows the creative will in its extension.
 
-As the short-I vowel represents Ishvara or the cosmic lord, the long Ī-vowel represents *Ishvara Shakti*, the Divine creative, originative and executive power, the Divine Mother. This is why so many Shakti or Goddess mantras have this sound \(note *Hrãṁ*,* Krãṁ*, *Klãṁ*,* Strãṁ*\). It magnifies the electrical energy of the short I-sound.
+As the short-I vowel represents Ishvara or the cosmic lord, the long Ī-vowel represents *Ishvara Shakti*, the Divine creative, originative and executive power, the Divine Mother. This is why so many Shakti or Goddess mantras have this sound \(note *Hrīṁ*,* Krīṁ*, *Klīṁ*,* Strīṁ*\). It magnifies the electrical energy of the short I-sound.
 
 It is also called *Shanti-bija* or the ‘sound of peace’ because its forces bring unity, homogeneity and harmony to all things. It is said to be *Vishnu bija *as the power of the creator Vishnu. It is said to be the lotus because it holds the lines of all manifestation. It is said to pervade all things, like the current of energy \(I\) flowing in space \(A\).
 
@@ -208,7 +208,7 @@ Sound Like the o in ‘yoke’   Energetic Shiva energy manifest and unmanifest,
 Sound As in ‘*ou*t’   Energetic Full expansion of Divine energy and consciousness   Spiritual Shiva principle in full expression pervading the universe   Physical Lower teeth and jaw, primary prana of mouth and face in full expression   Psychological Expansive aspect of mind and prana   Yoga Promotes contemplation, affirmation, pranayama, samadhi   
 
 
-**e8‰ e7 – Anusvara and Visarga, *Aṁ, Aâ***
+**e8‰ e7 – Anusvara and Visarga, *Aṁ, Aḥ***
 
 **The Primal Energies of Contraction and Expansion**
 
@@ -216,14 +216,14 @@ Most Sanskrit bija mantras end with Anusvara, which allows their sounds to vibra
 
 Anusvara is often an extension of the primal short A-vowel sound and has the same general range of indications in Tantric thought. It allows all other sounds to merge into the pure essence of sound at the top of the head, the A-sound of the Absolute, Brahman. It is said to be the Shiva-bindu or the ‘point of Shiva’ that merges the entire universe back into pure unity. It is often related to the mind and the Moon. Visarga is often connected to the long-A vowel in terms of its range of meanings.
 
-In addition, it is used by itself as the mantra ‘*aâ*’, which stands for the Self \(aham\), Prana, the Sun and the day. It gives light and power and connects with our inner being and source of energy and vitality. It is only used with a few mantras like *Sauâ, Śriâ, Hrãâ*, as well as *Namaâ* for giving additional expressive or creative energy to them. It imparts Shakti to sounds as manifest power.
+In addition, it is used by itself as the mantra ‘*aḥ*’, which stands for the Self \(aham\), Prana, the Sun and the day. It gives light and power and connects with our inner being and source of energy and vitality. It is only used with a few mantras like *Sauḥ, Śriḥ, Hrīḥ*, as well as *Namaḥ* for giving additional expressive or creative energy to them. It imparts Shakti to sounds as manifest power.
 
 **Anusvara,*** **Aṁ***
 Sound Final nasal sound as in Oṁ, drawing in of a sound and merging it into the mind   Energetic Holding, harmonizing, internalizing, dissolving within   Spiritual Mergence in the Deity, Being or the Absolute, Shiva   Physical Head, top of the head, upper palate   Psychological Mind, deep feeling, profound knowing   Yoga Promotes contemplation, mergence, internalization, detachment, samadhi   
 
 
-**Visarga,*** **Aâ***
-Sound Soft-H as in Namaâ , release of sound through exhalation   Energetic Releasing, expanding, expressing generating energy   Spiritual Higher Self in transcendence, first pranic manifestation, Shakti   Physical Face, forehead, lower palate   Psychological Outgoing or expanding energy and self-expression, ego, prana   Yoga Promotes meditation, Self-inquiry, awareness of original prana   
+**Visarga,*** **Aḥ***
+Sound Soft-H as in Namaḥ , release of sound through exhalation   Energetic Releasing, expanding, expressing generating energy   Spiritual Higher Self in transcendence, first pranic manifestation, Shakti   Physical Face, forehead, lower palate   Psychological Outgoing or expanding energy and self-expression, ego, prana   Yoga Promotes meditation, Self-inquiry, awareness of original prana   
 * * *
 
 1 As in the fourteen Maheshvara Sutras of Panini's grammar.
@@ -244,7 +244,7 @@ Sound Soft-H as in Namaâ , release of sound through exhalation   Energetic Rele
 
 9 A is Ananta, the infinite, endless or boundless, an-anta. It is akshara, the primal letter, the central point, the undecaying a-kshara. It is Agni, the primal fire, the indestructible, a-gni, the inner guide ag-ni.
 
-10 The Sanskrit long vowel-À serves as a prefix to intensify or to reverse the meaning of the words it is added to. For example, nanda means joy, Ànanda means bliss. Gacchati means "he goes", àgacchati means "he comes."
+10 The Sanskrit long vowel-À serves as a prefix to intensify or to reverse the meaning of the words it is added to. For example, nanda means joy, Ànanda means bliss. Gacchati means "he goes", āgacchati means "he comes."
 
 11 Particularly what is called the Jivatman.
 
@@ -254,6 +254,6 @@ Sound Soft-H as in Namaâ , release of sound through exhalation   Energetic Rele
 
 14 It represents the dimension of will \(i or iccha\) as further brought into existence. Note the progression: short-vowel-I or will, long-vowel-I as ruling power, diphthong ai as majesty.
 
-15 For example, the mantra Sau, which can be either Sauṁ or Sauâ. Sauâ is most common and is used to project energy or Shakti as well as the power of Soma.
+15 For example, the mantra Sau, which can be either Sauṁ or Sauḥ. Sauḥ is most common and is used to project energy or Shakti as well as the power of Soma.
 
 

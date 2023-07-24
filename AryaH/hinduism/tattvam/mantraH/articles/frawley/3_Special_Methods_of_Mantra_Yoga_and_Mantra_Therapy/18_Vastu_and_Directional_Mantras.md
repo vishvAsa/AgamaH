@@ -23,17 +23,17 @@ Directional influences primarily reflect the influences of the atmosphere or sph
 
 ## Directional Deities and Cosmic Principles
 NW   
-Vàyu   
+Vāyu   
 Air N  
 Soma   
 Mind NE   
-Ãíàna   
+Ãśāna   
 Ether   W   
 Varuça   
 Water C E   
 Indra   
 Earth   SW   
-Nirêiti   
+Nirr̥iti   
 Intelligence S   
 Yama   
 Ego SE   
@@ -51,50 +51,50 @@ Directional deities grant control of both the external and the internal elements
 
 Its bija mantra is *Śaṁ*, which reflects its first syllable.
 
-**3\)** South – *Yama*, the deity of restraint and death, who relates to ego as a cosmic principle. His seed sound *Màṁ* is that of the ego and grants control over it. His weapon is the *Daçáa* or rod, which grants restraint and counters evil influences from the South. Its bija mantra is *Daṁ*, which represents its first syllable and also gives self-control.
+**3\)** South – *Yama*, the deity of restraint and death, who relates to ego as a cosmic principle. His seed sound *Māṁ* is that of the ego and grants control over it. His weapon is the *Daçáa* or rod, which grants restraint and counters evil influences from the South. Its bija mantra is *Daṁ*, which represents its first syllable and also gives self-control.
 
-**4\)** Southwest – *Nirêiti*, the deity of dissolution, similar to Kali in qualities, who relates to intelligence \(buddhi\) as a cosmic principle. Her seed sound is *Kṣaṁ* which gives protection and support and also gives power to the intelligence. Her weapon is the *Khaèga* or sword, which grants us protection and discrimination from the Southwest. Its bija mantra is *Khaṁ*, which reflects its first syllable.
+**4\)** Southwest – *Nirr̥iti*, the deity of dissolution, similar to Kali in qualities, who relates to intelligence \(buddhi\) as a cosmic principle. Her seed sound is *Kṣaṁ* which gives protection and support and also gives power to the intelligence. Her weapon is the *Khaèga* or sword, which grants us protection and discrimination from the Southwest. Its bija mantra is *Khaṁ*, which reflects its first syllable.
 
-**5\)** West – *Varuça*, the deity of the ocean and the rains, relates to the water element as a cosmic principle, including both earthly and heavenly waters. His mantra *Vaṁ* is the seed sound of water. His weapon is the *Pàía* or noose, which grants us protection from the West. Its bija mantra is *Paṁ*, which reflects its first syllable.
+**5\)** West – *Varuça*, the deity of the ocean and the rains, relates to the water element as a cosmic principle, including both earthly and heavenly waters. His mantra *Vaṁ* is the seed sound of water. His weapon is the *Pāśa* or noose, which grants us protection from the West. Its bija mantra is *Paṁ*, which reflects its first syllable.
 
-**6\)** Northwest – *Vàyu* or the wind God relates to the air element as a cosmic principle. His mantra *Yaṁ* is the seed sound of the air element. His weapon is the *A èkuía*, the prod or goad, which grants us protection from the Northwest. Its bija mantra is *Aṁ*, which reflects its first syllable.
+**6\)** Northwest – *Vāyu* or the wind God relates to the air element as a cosmic principle. His mantra *Yaṁ* is the seed sound of the air element. His weapon is the *A èkuśa*, the prod or goad, which grants us protection from the Northwest. Its bija mantra is *Aṁ*, which reflects its first syllable.
 
 **7\)** North – *Soma*, the deity of the Moon, who relates to the mind as a cosmic principle. His mantra *Sauṁ* grants blessings, lunar energy and contentment to the mind, of which it is also the seed mantra. His weapon is the Gada or mace, which grants us protection from the North. Its bija mantra is *Gaṁ*, which reflects its first syllable. Sometimes Kubera, the deity of wealth and abundance, is placed here instead of Soma.
 
-**8\)** Northeast – *Ãíàna* or the supreme Lord, who relates to the element of ether or space as a cosmic principle. His mantra *Haṁ* is also the seed sound of the Ether element. His weapon is the *Triíïla*, the trident of Lord Shiva, which protects us from the sacred Northeast direction. Its bija mantra is *Trãṁ*, which reflects its first syllable.
+**8\)** Northeast – *Ãśāna* or the supreme Lord, who relates to the element of ether or space as a cosmic principle. His mantra *Haṁ* is also the seed sound of the Ether element. His weapon is the *Triśūla*, the trident of Lord Shiva, which protects us from the sacred Northeast direction. Its bija mantra is *Trīṁ*, which reflects its first syllable.
 
 ## Two other important directional inf luences are also recognized:
 
-**9\)** Upward direction or above. This corresponds on a horizontal plane with ENE, the intermediate point between East and North East. It is the place of *Brahmà* or the Divine Creator, who represents the ruling spiritual energy coming from above. His mantra *Àṁ* grants expansion to one's being. His weapon or instrument is the Padma or lotus, which showers down blessings on us from above. Its bija mantra is *Paṁ*, which reflects its first syllable.
+**9\)** Upward direction or above. This corresponds on a horizontal plane with ENE, the intermediate point between East and North East. It is the place of *Brahmā* or the Divine Creator, who represents the ruling spiritual energy coming from above. His mantra *Àṁ* grants expansion to one's being. His weapon or instrument is the Padma or lotus, which showers down blessings on us from above. Its bija mantra is *Paṁ*, which reflects its first syllable.
 
-**10\)** Downward direction or below. This corresponds on a horizontal plane with WSW, the intermediate point between W and SW. It is the place of Ananta, the serpent that upholds the worlds, who represents the support energy coming from below. His mantra *Hrãṁ* gives light and strength at the foundation of the world. His weapon in the Cakra or discus of Lord Vishnu, which protects us from below. Its bija mantra is *Caṁ*, which reflects its first syllable.
+**10\)** Downward direction or below. This corresponds on a horizontal plane with WSW, the intermediate point between W and SW. It is the place of Ananta, the serpent that upholds the worlds, who represents the support energy coming from below. His mantra *Hrīṁ* gives light and strength at the foundation of the world. His weapon in the Cakra or discus of Lord Vishnu, which protects us from below. Its bija mantra is *Caṁ*, which reflects its first syllable.
 
 ## Mantras for Directional Deities
 
 We can sanctify each direction through the mantras of its respective deity and its bija. Then we can protect each direction through the weapon of the deity, which has its bija mantra as well.
 
 ## Directional Deity Name Mantras
-Above - Oṁ Àṁ Brahmaçe Namaâ   NW   
-Oṁ Yaṁ Vàyave Namaâ N   
-Oṁ Sauṁ Somàya Namaâ NE   
-Oṁ Haṁ Ãíànàya Namaâ   W   
-Oṁ Vaṁ Varuçàya Namaâ C E   
-Oṁ Laṁ Indràya Namaâ   SW   
-Oṁ Kṣaṁ Nirêtaye Namaâ S   
-Oṁ Màṁ Yamàya Namaâ SE   
-Oṁ Raṁ Agnaye Namaâ   Below - Oṁ Hrãṁ Anantàya Namaâ   
+Above - Oṁ Àṁ Brahmaçe Namaḥ   NW   
+Oṁ Yaṁ Vāyave Namaḥ N   
+Oṁ Sauṁ Somāya Namaḥ NE   
+Oṁ Haṁ Ãśānāya Namaḥ   W   
+Oṁ Vaṁ Varuçāya Namaḥ C E   
+Oṁ Laṁ Indrāya Namaḥ   SW   
+Oṁ Kṣaṁ Nirr̥taye Namaḥ S   
+Oṁ Māṁ Yamāya Namaḥ SE   
+Oṁ Raṁ Agnaye Namaḥ   Below - Oṁ Hrīṁ Anantāya Namaḥ   
 
 
 ## Directional Weapon Mantras
-Above - Oṁ Paṁ Padmàya Namaâ   NW   
-Oṁ Aṁ Aèkuíàya Namaâ N   
-Oṁ Gaṁ Gadàya Namaâ NE   
-Oṁ Trãṁ Triíïlàya, Namaâ   W   
-Oṁ Paṁ Pàíàya Namaâ C E   
-Oṁ Vaṁ Vajràya Namaâ   SW   
-Oṁ Khaṁ Khaègàya Namaâ S   
-Oṁ Daṁ Daçáàya Namaâ SE   
-Oṁ Śaṁ Śaktaye Namaâ   Below - Oṁ Caṁ Cakràya Namaâ   
+Above - Oṁ Paṁ Padmāya Namaḥ   NW   
+Oṁ Aṁ Aèkuśāya Namaḥ N   
+Oṁ Gaṁ Gadāya Namaḥ NE   
+Oṁ Trīṁ Triśūlāya, Namaḥ   W   
+Oṁ Paṁ Pāśāya Namaḥ C E   
+Oṁ Vaṁ Vajrāya Namaḥ   SW   
+Oṁ Khaṁ Khaègāya Namaḥ S   
+Oṁ Daṁ Daçáāya Namaḥ SE   
+Oṁ Śaṁ Śaktaye Namaḥ   Below - Oṁ Caṁ Cakrāya Namaḥ   
 
 
 ## Use of Directional Mantras
@@ -105,7 +105,7 @@ Relative to Yoga, one should recite these mantras before one does any serious ri
 
 ## Bhuvaneshvari
 
-The form of the Goddess governing space in general is *Bhuvaneshvari*, the Queen of the universe, whose mantra is *Hrãṁ*, the sound of the Divine light. This mantra can be used to consecrate all the directions of space along with honoring her as the deity.2
+The form of the Goddess governing space in general is *Bhuvaneshvari*, the Queen of the universe, whose mantra is *Hrīṁ*, the sound of the Divine light. This mantra can be used to consecrate all the directions of space along with honoring her as the deity.2
 
 ## Planets and the Directions
 NW – Moon N – Mercury NE – Jupiter   W – Saturn  E – Sun   SW – Rahu S – Mars SE – Venus   
@@ -115,7 +115,7 @@ The planets correspond to the directions from which they cast their influences. 
 
 The Northeast direction has a positive or benefic Jupiterian energy and is good for spiritual and religious practices and influences. North has a positive Mercury energy and is good for learning, study and education. East is the direction of the Sun and is good for work, action, healing and spiritual practices. Southeast has a Venus energy and is a place of power, connection and expression. South has a Mars energy and inclines us to work, action, assertion and conflict. Southwest has a negative Rahu energy and is a place of rest and control. West has a Saturn energy and brings about decay and decline, but also maturity and detachment. Northwest has a lunar energy, but one that tends to be sensitive, vulnerable, changeable and unstable.
 
-One can recite the planetary mantras relative to the directions around your dwelling to clear out any negative astrological energies, starting with *Oṁ Sïṁ Sïryàya Namaâ*, the mantra for the Sun, in the eastern direction. People with planetary afflictions in their birth chart become vulnerable relative to the direction ruled by the planet. One can recite planetary mantras relative to the direction ruled by any negative planetary influences in one's birth chart for additional protection. Or if there is a very negative transit going on that may be affecting many people, one can chant the mantras of the planets involved with a directional orientation. This requires some knowledge of astrology or the help of an astrologer.
+One can recite the planetary mantras relative to the directions around your dwelling to clear out any negative astrological energies, starting with *Oṁ Sūṁ Sūryāya Namaḥ*, the mantra for the Sun, in the eastern direction. People with planetary afflictions in their birth chart become vulnerable relative to the direction ruled by the planet. One can recite planetary mantras relative to the direction ruled by any negative planetary influences in one's birth chart for additional protection. Or if there is a very negative transit going on that may be affecting many people, one can chant the mantras of the planets involved with a directional orientation. This requires some knowledge of astrology or the help of an astrologer.
 
 * * *
 

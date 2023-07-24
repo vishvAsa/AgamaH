@@ -13,7 +13,7 @@ The vowel-*Ê *sounds relate to the Phana marmas at the outside corner of the no
 
 The *E* and *Ai* vowels relate to the points above and below the center of the lips. The *O* and *Au*-vowels relate to the points above and below the center of the front teeth. These are not classical marmas but are points that we can easily identify.
 
-The *Aṁ* and *Aâ*-vowels are often related to the short and long A-vowels in terms of their locations and indications. In the Mantra Yoga Samhita, they relate to the upper and lower region of the palate at the back of the mouth, which would make more sense in the sequence.
+The *Aṁ* and *Aḥ*-vowels are often related to the short and long A-vowels in terms of their locations and indications. In the Mantra Yoga Samhita, they relate to the upper and lower region of the palate at the back of the mouth, which would make more sense in the sequence.
 
 The twenty consonants for the arms and legs have clear marma correspondences, as they relate primarily to the joints. The mantras on the arms correspond to the joints of the arm, elbow and wrist. The shoulder mantras can be related to various shoulder marmas, mainly Kakshadhara, the main shoulder marma. The elbows and wrist have their own specific marmas, Kurpara and Manibandha.
 

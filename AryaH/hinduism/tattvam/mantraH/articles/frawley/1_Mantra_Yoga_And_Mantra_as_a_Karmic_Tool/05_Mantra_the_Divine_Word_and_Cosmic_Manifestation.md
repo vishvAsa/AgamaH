@@ -99,7 +99,7 @@ We enter into *Madhyama*, which literally means the ‘middle level’ of speech
 
 Para, which means ‘transcendent’, is the level of pure silence in which meaning is so full and complete that it cannot be broken down into limited words. It is the level of pure consciousness, the Divine Word of silence of ‘I am all’ and the great realizations of Vedanta.8 This is the transcendent level of speech which leads beyond any particular expression or utterance. It corresponds to the nirodha or merged condition of the mind, the state of samadhi in Yoga practice.
 
-The higher Self or Paramatman has its own natural language, which reverberates in silence. Its basic seed ideas are revealed in the great insights of Vedanta such as *Aham Brahmàsmi*, ‘I am the Divine Self’. This speech of the Self is the highest or supreme stage of speech, Para Vak. It consists of such realizations, not mere thoughts but concretely felt understandings as “I am All”, “All is One”, “The Self is the Entire Universe,” or just the expression of the breath as “I”. Prana is the “I am I” as it projects the sense of individual life. Our sense of self is rooted in speech, which in turn is based on the Divine Word.
+The higher Self or Paramatman has its own natural language, which reverberates in silence. Its basic seed ideas are revealed in the great insights of Vedanta such as *Aham Brahmāsmi*, ‘I am the Divine Self’. This speech of the Self is the highest or supreme stage of speech, Para Vak. It consists of such realizations, not mere thoughts but concretely felt understandings as “I am All”, “All is One”, “The Self is the Entire Universe,” or just the expression of the breath as “I”. Prana is the “I am I” as it projects the sense of individual life. Our sense of self is rooted in speech, which in turn is based on the Divine Word.
 
 ## Descent of the Sound Current
 
@@ -133,11 +133,11 @@ Yet working with Kundalini, we must remember that Kundalini is a form of the God
 
 5 Repeating the Sanskrit alphabet is an important Vaikhari practice, particularly as aligned with deities like Sarasvati, Ganesha or Matangi. It links the Vaikhari state with the higher levels of speech.
 
-6 Prana mantras like So\`haṁ and Haṁsaâ are often used at this level, though they have deeper applications as well. Pranic deities like Kali, Shiva or Hanuman help us here also.
+6 Prana mantras like So\`haṁ and Haṁsaḥ are often used at this level, though they have deeper applications as well. Pranic deities like Kali, Shiva or Hanuman help us here also.
 
-7 Bija mantras that are connected to the inner light, like Hrãṁ, are important at this level. The Goddess Tara in Hindu thought relates to this level, as also Chhinnamasta, who grants higher perception.
+7 Bija mantras that are connected to the inner light, like Hrīṁ, are important at this level. The Goddess Tara in Hindu thought relates to this level, as also Chhinnamasta, who grants higher perception.
 
-8 The Mahavakyas that we discuss later in the book in the chapter on Vedic and Vedantic Mantra Yoga, like Tattvamasi, Thou art that. The deepest level of bija mantras like Oṁ and Hrãṁ also takes us to this level.
+8 The Mahavakyas that we discuss later in the book in the chapter on Vedic and Vedantic Mantra Yoga, like Tattvamasi, Thou art that. The deepest level of bija mantras like Oṁ and Hrīṁ also takes us to this level.
 
 9 Bringing the sound current and breath down to the belly and base of the spine helps unite the two opposite currents of our vital energy, allowing the Prana down to unite with the Apana. It is an important therapy for treating Vata disorders, for strengthening Prana and for correcting the adverse downward movement of Apana. Vata type people tend to breathe and speak shallowly and quickly. Such deep sound therapy helps counter this tendency. They can begin by learning to chant Oṁ from the belly so that it resounds throughout the entire chakra and nervous system.
 

@@ -64,13 +64,13 @@ Mantra is probably the main practice that characterizes Yoga as a whole and its 
 
 *The Yoga Sutras* and its tradition of Raja Yoga emphasizes the role of the Pranava,2 which literally refers to ‘primal sound’, and specifically to the mantra *Oṁ*, as the main means of connecting with the Divine or Cosmic Lord, Ishvara, the primordial guru of gurus in the Yoga tradition.3 Just like the Upanishads, the Yoga Sutras stresses the importance of chanting and meditating upon *Oṁ*, which is the essence of all the mantras. This means that mantra is the guiding power of Yoga, not just one of its many practices\!
 
-*Bhakti Yoga*, the Yoga of devotion, centers on chanting, singing and the internal repetition of Divine names like *Namaâ Śivàya *or the *Hare Kêṣça *mantra are the best means of developing deep devotion and Divine love. In fact, the word of the heart is always mantra\!
+*Bhakti Yoga*, the Yoga of devotion, centers on chanting, singing and the internal repetition of Divine names like *Namaḥ Śivāya *or the *Hare Kr̥ṣça *mantra are the best means of developing deep devotion and Divine love. In fact, the word of the heart is always mantra\!
 
 *Jnana Yoga*, the Yoga of knowledge, focuses on prime Atmic or Self-revealing mantras like *So**’**haṁ*, ‘He am I” or the great sayings \(Mahavakyas\) of Vedantic philosophy. *Oṁ* is also important as the sound of the Self.4 Such mantras are the foundation for the meditation and Self-inquiry practices that characterize Jnana Yoga practice.
 
 *Karma Yoga* involves an extensive performance of rituals, like pujas and yajnas, all of which have their accompanying mantras to empower and sanctify them. It includes various forms of service \(seva\) to others, which are best performed while repeating a mantra. Unless the mind is engaged inwardly in mantra, one may not be effectively practicing Karma Yoga even when performing service.
 
-*Hatha Yoga* and Tantric Yoga use pranic mantras like *Hïṁ* to arouse the Kundalini and open the chakras. The fifty main Sanskrit letters form the petals of the chakras and serve to energize them. The Kundalini Shakti or inner power of Yoga is said to be composed of the letters or sounds of the Sanskrit alphabet and is primarily a higher mantric force.5 Kundalini is an electrical energy of speech at a deeper level of consciousness.
+*Hatha Yoga* and Tantric Yoga use pranic mantras like *Hūṁ* to arouse the Kundalini and open the chakras. The fifty main Sanskrit letters form the petals of the chakras and serve to energize them. The Kundalini Shakti or inner power of Yoga is said to be composed of the letters or sounds of the Sanskrit alphabet and is primarily a higher mantric force.5 Kundalini is an electrical energy of speech at a deeper level of consciousness.
 
 The practice of Yoga usually begins with the chanting of mantras, which may be mantras to the guru, to the aspect of the Divine one worships, or to the higher Self in order to create the proper atmosphere for teaching, or mantras to sanctify the ground on which one sits. Mantra grants sanctity and concentration to Yoga, which otherwise easily descends into another form of physical exercise or a seeking of personal empowerment.
 
@@ -100,7 +100,7 @@ This Vedic Mantra Yoga is still accessible to us through learning Vedic chanting
 
 ## Tantric Mantra Yoga
 
-Mantra is the prime practice of Tantric Yoga, particularly the use of bija mantras or single syllables like *Oṁ*,* Hrãṁ *or* Śrãṁ*. As Tantra consists of devotional worship of various Gods and Goddesses, particularly Shiva and the Devi, the name mantras and bijas of these deities have an important role within it. In Tantra, the mantra is the sound form of the deity that reveals its inner truths. Tantric texts contain many teachings on mantra and reveal many powerful mantras for all aspects of life.
+Mantra is the prime practice of Tantric Yoga, particularly the use of bija mantras or single syllables like *Oṁ*,* Hrīṁ *or* Śrīṁ*. As Tantra consists of devotional worship of various Gods and Goddesses, particularly Shiva and the Devi, the name mantras and bijas of these deities have an important role within it. In Tantra, the mantra is the sound form of the deity that reveals its inner truths. Tantric texts contain many teachings on mantra and reveal many powerful mantras for all aspects of life.
 
 Mantra is the Shakti, the Yogini or inner power of Tantric Yoga. Indeed Tantra is largely synonymous with mantra. Mantra is the teaching of Tantra, which is the inner technology of mantra. Most of the teaching in this book will be based upon Tantric Mantra Yoga approaches.
 
@@ -108,7 +108,7 @@ Mantra is the Shakti, the Yogini or inner power of Tantric Yoga. Indeed Tantra i
 
 1 Mantra and mantra japa are commonly mentioned in many yogic texts as an integral part of Yoga. Many yogic texts like the Yogi Yajnavalkya and Vasistha Samhita contain explications of mantras, particularly the Gayatri mantra.
 
-2 While Pranava, which means primal sound or vibration, usually refers to Oṁ, there are other Pranavas or prime mantras for different traditions like Huṁ for Shiva or Hrãṁ for Shakti.
+2 While Pranava, which means primal sound or vibration, usually refers to Oṁ, there are other Pranavas or prime mantras for different traditions like Huṁ for Shiva or Hrīṁ for Shakti.
 
 3 Patanjali, Yoga Sutras, I.25-28.
 

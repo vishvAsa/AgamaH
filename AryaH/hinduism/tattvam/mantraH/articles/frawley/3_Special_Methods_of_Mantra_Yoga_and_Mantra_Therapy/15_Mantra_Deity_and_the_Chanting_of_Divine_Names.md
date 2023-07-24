@@ -15,11 +15,11 @@ Unfortunately, our society does not honor the name as sacred but uses it for exp
 
 Reciting Divine names is a way of awakening Divine qualities within ourselves. Ultimately, Being is One and all names are Divine names. Sanskrit is a language of Divine names. It shows how all sounds manifest from the Divine Word as a Self- revelation. Through Divine Names we can reclaim our own Divine Being as the Self of all, taking us beyond separate ego identities of body and mind.
 
-***Namaâ,* the Great Chant of Devotion**
+***Namaḥ,* the Great Chant of Devotion**
 
-Throughout the Hindu tradition since Vedic times, there has been the commonly reverberating chant of *Namaâ* or *Namo* to various deities. We find the same *Namaâ* chants in the Buddhist, Jain and other traditions from India. Perhaps no other term in the history of the world has served to promote so much devotion and honoring of higher consciousness.
+Throughout the Hindu tradition since Vedic times, there has been the commonly reverberating chant of *Namaḥ* or *Namo* to various deities. We find the same *Namaḥ* chants in the Buddhist, Jain and other traditions from India. Perhaps no other term in the history of the world has served to promote so much devotion and honoring of higher consciousness.
 
-Namaste is a greeting that has the same basis, honoring that Divine presence, which is then invoked with a Divine Name. It is important to chant our *Namaâ* every day in order to honor the Divine within and without.
+Namaste is a greeting that has the same basis, honoring that Divine presence, which is then invoked with a Divine Name. It is important to chant our *Namaḥ* every day in order to honor the Divine within and without.
 
 ## Divine Names and Bhakti Yoga
 
@@ -27,7 +27,7 @@ The Yoga of Devotion or Bhakti Yoga is perhaps the most important and foundation
 
 Bhakti Yoga emphasizes chanting as its main method, with the repetition of mantras, particularly Divine Names, along with ritual worship, prayer, and devotional meditation. It uses the chakras, particularly the heart, as sites of internal worship and a shrine or temple as part of external worship. Divine names and mantras are part of both internal and external worship.
 
-Names of important forms of divinity can be used like *Oṁ Namaâ Śivàya *for Lord Shiva, the transcendent Being, or *Oṁ Namo Bhagavate Vàsudevàya *for Krishna, the avatar of Divine love. Divine names may be combined with seed mantras to the deities like *Oṁ Hauṁ Namaâ Śivàya*, or *Oṁ Klãṁ K êṣçàya Namaâ *for yet other effects.
+Names of important forms of divinity can be used like *Oṁ Namaḥ Śivāya *for Lord Shiva, the transcendent Being, or *Oṁ Namo Bhagavate Vāsudevāya *for Krishna, the avatar of Divine love. Divine names may be combined with seed mantras to the deities like *Oṁ Hauṁ Namaḥ Śivāya*, or *Oṁ Klīṁ K r̥ṣçāya Namaḥ *for yet other effects.
 
 There are many collections of the names of Hindu Gods and Goddesses like the Thousand Names of Shiva \(Shiva Sahasranama\), the Thousand Names of Vishnu or the Thousand Names of Lalita \(the Goddess\). Reciting such thousand names helps stimulate the thousand petalled lotus of the head, which contains all possible sounds and meanings. There are also many hundred name chants and yet smaller numbers of names.
 
@@ -63,19 +63,19 @@ The form of God or manifestation of Divinity that one personally chooses to wors
 
 An Ishta Devata mantra is our main personal devotional mantra or means of calling on the Divine. Whether we worship God as father or mother or as various deities or avatars, there are special mantras that we can take up in each case. The Ishta Devata is a matter of personal choice, but its mantra becomes more powerful if given by a guru or by tradition. One can always feel free to use the mantra of one’s Ishta Devata or chosen divinity for any life-purpose, including healing. This is another reason why it is good to have such a deity.
 
-Ishta Devata mantras consist of names of deities or gurus, generally given in the dative \(to\) case grammatically and with the term *Namaâ* or reverence. Some include bija mantras as well.
+Ishta Devata mantras consist of names of deities or gurus, generally given in the dative \(to\) case grammatically and with the term *Namaḥ* or reverence. Some include bija mantras as well.
 
 **Examples:**
 
-*Oṁ Namaâ Śivàya *\(for Shiva\)  
-*Oṁ Namo Bhagavate Vasudevàya *\(for Krishna\)  
-*Oṁ Gaṁ Ganeíàya Namaâ *- Reverence to Ganesha
+*Oṁ Namaḥ Śivāya *\(for Shiva\)  
+*Oṁ Namo Bhagavate Vasudevāya *\(for Krishna\)  
+*Oṁ Gaṁ Ganeśāya Namaḥ *- Reverence to Ganesha
 
 ## Guru Mantras
 
 There are special "guru mantras" used to contact various great teachers. One can use guru mantras for all life-purposes including healing. The inner guidance and influence of the guru helps calm the mind and control the senses. One repeats the mantra as a means of communicating with and developing devotion for the guru. Example:
 
-*Oṁ Namo Bhagavate Śrã Ramaçàya *\(for Guru Ramana Maharshi\)
+*Oṁ Namo Bhagavate Śrī Ramaçāya *\(for Guru Ramana Maharshi\)
 
 ## Speech and the Forms of the Gods and Goddesses
 
@@ -105,11 +105,11 @@ In Tantric thought, all deities have Agni and Soma,5 fiery and watery, solar and
 
 ## Shiva/ Rudra
 
-Shiva is the deity of the universal life force and of the Supreme Being. He has control of Vayu and of Vata dosha, which he calms and harmonizes. His is the light of pure awareness. His energy controls the mind and helps counter emotional and psychological disturbances. His main bija mantras are *Oṁ* or *Hauṁ*. His main name mantra, which is probably the most famous of all name mantras, is: *Oṁ Namaâ Śivàya*\! Sometimes additional bijas are added to this like *Oṁ Hrãṁ Hauṁ Namaâ Śivàya*\!
+Shiva is the deity of the universal life force and of the Supreme Being. He has control of Vayu and of Vata dosha, which he calms and harmonizes. His is the light of pure awareness. His energy controls the mind and helps counter emotional and psychological disturbances. His main bija mantras are *Oṁ* or *Hauṁ*. His main name mantra, which is probably the most famous of all name mantras, is: *Oṁ Namaḥ Śivāya*\! Sometimes additional bijas are added to this like *Oṁ Hrīṁ Hauṁ Namaḥ Śivāya*\!
 
 Rudra is the fierce form of Shiva. He relates to Agni and to fire. He is the deity ruling over fevers and grants recovery from them, including all manner of infectious and contagious diseases. He is also the deity governing over Ayus or longevity. He helps us overcome death-threatening diseases, accidents or circumstances. His Vedic mantra is the Mrityunjaya \(Tryambakam\) mantra and the famous Rudram, a long set of chants from the Yajurveda.
 
-Other important forms of Shiva include Yogeshvara, the Lord of Yoga, and Dakshinamurti, the great teacher of Self-knowledge. A shorter set of mantras can be used for these forms of Shiva as well: *Oṁ Hauṁ Jïṁ Saâ\!*
+Other important forms of Shiva include Yogeshvara, the Lord of Yoga, and Dakshinamurti, the great teacher of Self-knowledge. A shorter set of mantras can be used for these forms of Shiva as well: *Oṁ Hauṁ Jūṁ Saḥ\!*
 
 ## Ganesha
 
@@ -117,7 +117,7 @@ Ganesha, the elephant-headed deity, is an important deity in Yoga and in Vedic s
 
 Ganesha is the first son of Shiva and Parvati, and is especially close to Parvati. He carries the grace of the Goddess. Through him the power of Shakti is dispensed to us, just as electricity is channeled into various currents and circuits. Ganesha is worshipped in the root chakra to stabilize the Kundalini force, which he turns into a force of knowledge. His Tantric bija mantra is *Glauṁ*. His main name mantra is:
 
-*Oṁ Gaṁ Gaçeíàya Namaâ**\! or **Oṁ Gaṁ Gaçapataye Namaâ**\!*
+*Oṁ Gaṁ Gaçeśāya Namaḥ**\! or **Oṁ Gaṁ Gaçapataye Namaḥ**\!*
 
 ## Skanda
 
@@ -125,39 +125,39 @@ Skanda is the second son of Shiva and Parvati. He relates more to Shiva as Ganes
 
 ## Krishna
 
-Krishna is the form of Vishnu that holds all yogic powers, including all healing energies for our emotional nature. He is the incarnation of Divine love, bliss and all higher Yoga teachings. Krishna represents the magnetic energy of Divine love to take us back to the source of life. Astrologically, he is connected to the Moon. Those seeking the unfoldment of Raja Yoga should worship him. The *Hare Kêṣça *mantra for him is well known. An important mantra for him is: *Oṁ Klãṁ Kêṣçàya Namaâ\! *Also used is the name mantra *Om namo bhagavate vasudevaya**.*
+Krishna is the form of Vishnu that holds all yogic powers, including all healing energies for our emotional nature. He is the incarnation of Divine love, bliss and all higher Yoga teachings. Krishna represents the magnetic energy of Divine love to take us back to the source of life. Astrologically, he is connected to the Moon. Those seeking the unfoldment of Raja Yoga should worship him. The *Hare Kr̥ṣça *mantra for him is well known. An important mantra for him is: *Oṁ Klīṁ Kr̥ṣçāya Namaḥ\! *Also used is the name mantra *Om namo bhagavate vasudevaya**.*
 
 ## Rama
 
-Rama is the incarnation of Vishnu as the ideal king and protector, the representative of dharma. Worshipping him protects us from all negativity externally and purifies our minds and hearts internally. His energy is of a solar nature, but its gentle and nurturing side, not its destructive heat. His energy is particularly good for children and for countering Vata disorders \(disturbances of the nervous system\). His seed mantra is simply *Ràṁ* or*: Jai Śrã Ràṁ**\!*
+Rama is the incarnation of Vishnu as the ideal king and protector, the representative of dharma. Worshipping him protects us from all negativity externally and purifies our minds and hearts internally. His energy is of a solar nature, but its gentle and nurturing side, not its destructive heat. His energy is particularly good for children and for countering Vata disorders \(disturbances of the nervous system\). His seed mantra is simply *Rāṁ* or*: Jai Śrī Rāṁ**\!*
 
 ## Vishnu
 
-Vishnu is most worshipped through his incarnations as Krishna and Rama. Perhaps his most common mantra is the Narayana name mantra: *Oṁ Namo Naràyaçàya*\! Another important Vishnu mantra is *Oṁ Hrãṁ Hrãṁ Oṁ Viṣçave Namaâ*\!
+Vishnu is most worshipped through his incarnations as Krishna and Rama. Perhaps his most common mantra is the Narayana name mantra: *Oṁ Namo Narāyaçāya*\! Another important Vishnu mantra is *Oṁ Hrīṁ Hrīṁ Oṁ Viṣçave Namaḥ*\!
 
 ## Hanuman
 
 Hanuman, the monkey-faced God, is the son of Vayu, the wind God. He represents the higher force of prana behind Vata dosha. He promotes healing, rejuvenation and longevity. He also has the knowledge of and represents the power of all the healing forces of nature.
 
-Hanuman is the ideal Yogi who grants skill in asana and pranayama as well as the supreme power of devotion. While he is devoted to Sita and Rama, he is often regarded as an aspect of Shiva. His main seed mantra is the prana mantra *Haṁ* or*: Oṁ Haṁ Hanumate Namaâ*\! *Hauṁ* is also used for him as Hanuman is regarded as an incarnation of Lord Shiva.
+Hanuman is the ideal Yogi who grants skill in asana and pranayama as well as the supreme power of devotion. While he is devoted to Sita and Rama, he is often regarded as an aspect of Shiva. His main seed mantra is the prana mantra *Haṁ* or*: Oṁ Haṁ Hanumate Namaḥ*\! *Hauṁ* is also used for him as Hanuman is regarded as an incarnation of Lord Shiva.
 
 ## Dhanvantari
 
-Ayurveda uses the form of Dhanvantari, an incarnation of the cosmic power of healing, as its main deity. His image is the most common image found in Ayurvedic schools and clinics everywhere. Dhanvantari is a form of Vishnu, who rules over the forces of preservation in the universe, which include healing. Stotras to him are commonly chanted before Ayurvedic classes and programs. Dhanvantari's mantra is: *Oṁ Dhaṁ Dhanvantaraye Namaâ*\!
+Ayurveda uses the form of Dhanvantari, an incarnation of the cosmic power of healing, as its main deity. His image is the most common image found in Ayurvedic schools and clinics everywhere. Dhanvantari is a form of Vishnu, who rules over the forces of preservation in the universe, which include healing. Stotras to him are commonly chanted before Ayurvedic classes and programs. Dhanvantari's mantra is: *Oṁ Dhaṁ Dhanvantaraye Namaḥ*\!
 
 ## Lakshmi
 
-Lakshmi is the wife of Lord Vishnu, the cosmic preserver and protector. She grants health, wealth, beauty, fertility, happiness and abundance – all the good things of life that the great majority of people are ever seeking. She is a special deity for women and helps with women's health problems, gynecological disorders, fertility issues, menopause, and so on. She relates primarily to the water element but to some extent to earth as well \(particularly as the Goddess Sita, the wife of Rama\). Her Tantric form is Kamalatmika, who unfolds the higher grace of Divine bliss. Her main seed mantra is *Śrãṁ* or three syllabled as: *Śrãṁ Hrãṁ Klãṁ*\!
+Lakshmi is the wife of Lord Vishnu, the cosmic preserver and protector. She grants health, wealth, beauty, fertility, happiness and abundance – all the good things of life that the great majority of people are ever seeking. She is a special deity for women and helps with women's health problems, gynecological disorders, fertility issues, menopause, and so on. She relates primarily to the water element but to some extent to earth as well \(particularly as the Goddess Sita, the wife of Rama\). Her Tantric form is Kamalatmika, who unfolds the higher grace of Divine bliss. Her main seed mantra is *Śrīṁ* or three syllabled as: *Śrīṁ Hrīṁ Klīṁ*\!
 
 ## Sarasvati
 
-Sarasvati is the wife of Lord Brahma, the cosmic creator, and the Goddess of knowledge. She gives wisdom, intelligence and good memory along with skill in the fine arts, music, dance and literature. She is worshipped for learning and education. Her Tantric form is Matangi, who dispenses all the inner and secret knowledge of mantras, plants, and all the forces of nature. Her main mantra is the guru bija *Aiṁ*. Another good set of bijas for her is: *Hrãṁ Aiṁ Dhãṁ*\!
+Sarasvati is the wife of Lord Brahma, the cosmic creator, and the Goddess of knowledge. She gives wisdom, intelligence and good memory along with skill in the fine arts, music, dance and literature. She is worshipped for learning and education. Her Tantric form is Matangi, who dispenses all the inner and secret knowledge of mantras, plants, and all the forces of nature. Her main mantra is the guru bija *Aiṁ*. Another good set of bijas for her is: *Hrīṁ Aiṁ Dhīṁ*\!
 
 ## Sundari
 
 Sundari is a Goddess of love, beauty, delight and Soma. She is the deity of the mystic Moon which is also the energy of the crown chakra. Her grace is most sought after in the higher Yoga practices. She allows the immortal Soma nectar to flow from the thousand-petal lotus above, granting all higher powers of speech and mantra. Generally called Tripura Sundari or the "Beauty of the Three Worlds", she represents the benign aspect of Shiva's consort, whose fierce form is Kali.
 
-Somewhat like Krishna, Sundari holds the magnetic power of attraction but more from the knowledge side. Other blissful forms of the Goddess relate to her including Lalita and Rajarajeshvari and even Lakshmi. Mantra Siddhi or perfection in mantra in the broadest sense is given by her. Her mantras are: *Aiṁ Klãṁ Sauâ *as three syllabled, or *Hrãṁ Śrãṁ Klãṁ Aiṁ Sauâ *as five syllabled.
+Somewhat like Krishna, Sundari holds the magnetic power of attraction but more from the knowledge side. Other blissful forms of the Goddess relate to her including Lalita and Rajarajeshvari and even Lakshmi. Mantra Siddhi or perfection in mantra in the broadest sense is given by her. Her mantras are: *Aiṁ Klīṁ Sauḥ *as three syllabled, or *Hrīṁ Śrīṁ Klīṁ Aiṁ Sauḥ *as five syllabled.
 
 ## Durga
 
@@ -165,17 +165,17 @@ Durga represents the Great Mother in her protective role. She rides a lion and c
 
 Durga rules over the universe and directs each soul to its real purpose, awakening the higher intelligence of nature within us. At a deeper level of Yoga practice, fiery
 
-Durga represents the awakened Kundalini fire, controlled by the power of tapas or self-discipline, which turns it into a force of splendor and majesty. The Kundalini once purified, awakened and seated on the throne of the heart becomes Durga. If we honor Durga, she will guide our sadhana and transform us in the inner light. Durga's prime mantra is: *Oṁ Duṁ Durgàyai Namaâ*\! Another good mantra for her protection is: *Oṁ Hrãṁ Krãṁ Duṁ Durgàyai Svàhà*\!
+Durga represents the awakened Kundalini fire, controlled by the power of tapas or self-discipline, which turns it into a force of splendor and majesty. The Kundalini once purified, awakened and seated on the throne of the heart becomes Durga. If we honor Durga, she will guide our sadhana and transform us in the inner light. Durga's prime mantra is: *Oṁ Duṁ Durgāyai Namaḥ*\! Another good mantra for her protection is: *Oṁ Hrīṁ Krīṁ Duṁ Durgāyai Svāhā*\!
 
 ## Kali
 
 The Goddess Kali is one of the main deities of the practice of Yoga. She represents the reabsorption of the time bound universe back into its eternal source. She governs over the process of mergence. She is the power through which earth is dissolved into water, water into fire, fire into air, air into ether, ether into mind and mind into pure consciousness. She represents the movement back through the Tattvas to the Purusha beyond them. She grants the highest strength, energy and vitality, but one must be strong oneself in order to carry her indomitable force.
 
-Kali relates to the great prana mantra *Krãṁ*. It also occurs as three syllables -*Krãṁ Hïṁ Hrãṁ *– or as seven syllables: *Krãṁ Krãṁ Krãṁ Hïṁ Hïṁ Hrãṁ Hrãṁ*. Another set of three syllables for Kali is: *Hrãṁ Śrãṁ Krãṁ*\! Kali grants the prana of eternity that can overcome all the negative energies born of time.
+Kali relates to the great prana mantra *Krīṁ*. It also occurs as three syllables -*Krīṁ Hūṁ Hrīṁ *– or as seven syllables: *Krīṁ Krīṁ Krīṁ Hūṁ Hūṁ Hrīṁ Hrīṁ*. Another set of three syllables for Kali is: *Hrīṁ Śrīṁ Krīṁ*\! Kali grants the prana of eternity that can overcome all the negative energies born of time.
 
 ## Dattatreya
 
-Dattatreya is a combined form of Brahma, Vishnu and Shiva, as well as a great ancient sage and yogi who was taught by nature. His mantra is very important because in the absence of a guru, one can pray to Dattatreya for guidance and for empowerment of mantras: *Oṁ Dràṁ Dattatreyàya Namaâ*\!
+Dattatreya is a combined form of Brahma, Vishnu and Shiva, as well as a great ancient sage and yogi who was taught by nature. His mantra is very important because in the absence of a guru, one can pray to Dattatreya for guidance and for empowerment of mantras: *Oṁ Drāṁ Dattatreyāya Namaḥ*\!
 
 ## Other Deities
 

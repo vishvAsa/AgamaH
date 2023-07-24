@@ -38,7 +38,7 @@ There are mantras to help with all these goals. Generally speaking, dharma, arth
 
 You may choose to focus on one goal or have some concern for all. Yet one should start with understanding one’s dharma – one’s real role and purpose in life – or what one seeks may not be harmonious to one’s inner being. Then one should make sure to have the proper physical and psychological health in order to go forward.
 
-Often the same mantra can be used for different goals. For example, the bija or seed mantra *Śrãṁ*, which relates to the Goddess Lakshmi, the aspect of the Divine Mother who grants the fulfillment of our desires, can be used for dharma, artha, kama, or moksha depending upon which goal we focus upon in our practice. The mantra can also bestow health and peace of mind, if we know how to awaken its healing powers.
+Often the same mantra can be used for different goals. For example, the bija or seed mantra *Śrīṁ*, which relates to the Goddess Lakshmi, the aspect of the Divine Mother who grants the fulfillment of our desires, can be used for dharma, artha, kama, or moksha depending upon which goal we focus upon in our practice. The mantra can also bestow health and peace of mind, if we know how to awaken its healing powers.
 
 Many of us begin our mantra practice with kama mantras to fulfill our outer desires for personal or family happiness. There is nothing wrong with kama mantras as a first step of mantra practice, but we must go deeper if we wish to discover the real secrets of mantra. One may needlessly increase one’s desires, if one carelessly uses mantras to achieve one’s desires without considering any higher goals. First of all, consider whether what you are asking for is a real desire of your soul or just a casual wish of the ego.
 

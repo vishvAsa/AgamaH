@@ -78,7 +78,7 @@ S*aṁ *is like *Ṣaṁ* in meaning but has more energy and air in its producti
 
 There is a fifth sibilant in some alphabet sequences, *Ksaṁ*, which is other times regarded as a compound of two letters K and *Ṣa*. It has a curious duality to its meaning. On one hand, it indicates patience, the ground, the Earth, forgiveness and endurance, which gives it some connection to Apana, the downward moving prana connected to the Earth. On the opposite side, it represents Shakti, turbulence, activity, setting things in motion. This second meaning comes out more when it combines with the vowel-U as in the root ‘*Kṣu*’.
 
-These five sibilants energize our prana, directing the force of Shakti through the nervous system and the spine. Many Shakti mantras arise from them, particularly from the letters Ha and Sa. These sounds create heat and electrical energy, stimulating not only the breath but also the Kundalini Shakti. Ha and Sa together as in *Hsauâ* create a powerful sound for energizing the serpent power. The Sa-sound has a special combination with the Ta and Tha consonants, particularly in the root ‘Stha’ meaning ‘to stand’. Sa and Ta sounds connote stability and extension and are important in various mantras for this purpose.
+These five sibilants energize our prana, directing the force of Shakti through the nervous system and the spine. Many Shakti mantras arise from them, particularly from the letters Ha and Sa. These sounds create heat and electrical energy, stimulating not only the breath but also the Kundalini Shakti. Ha and Sa together as in *Hsauḥ* create a powerful sound for energizing the serpent power. The Sa-sound has a special combination with the Ta and Tha consonants, particularly in the root ‘Stha’ meaning ‘to stand’. Sa and Ta sounds connote stability and extension and are important in various mantras for this purpose.
 
 At the highest level, the sibilants govern pure being, the Self or Brahman. This is their role as representing the immortal prana, which is the inner experience of ‘I am all’. Through contemplating them at a deep level, one can enter into pure consciousness, much like through an understanding of the vowels.
 
@@ -91,7 +91,7 @@ Saṁ – x0   Energetic Uniting, integrating, balancing – lunar   Corresponde
 
 Haṁ – y0   Energetic Dispersing, expanding, controlling – solar   Correspondences Prana, space, light, Sun   Mental Energy, expression, detachment, transcendence   Pranic Udana \(ascending energy\), exhalation \(first phase\)   Physical Prana, vital energy – energy flow heart to left foot   
 
-Kṣaṁ – â0   Energetic Stabilizing, grounding, empowering, manifest Shakti   Correspondences World principle, heaven and earth   Mental Intelligence, patience, forgiveness, intensity of emotion, mental force   Pranic Apana \(stabilizing energy\), exhalation \(later phase\)   Physical Immune system, endurance, Ojas – energy flow heart to top of head   
+Kṣaṁ – ḥ0   Energetic Stabilizing, grounding, empowering, manifest Shakti   Correspondences World principle, heaven and earth   Mental Intelligence, patience, forgiveness, intensity of emotion, mental force   Pranic Apana \(stabilizing energy\), exhalation \(later phase\)   Physical Immune system, endurance, Ojas – energy flow heart to top of head   
 * * *
 
 1 Aitareya Aranyaka III.3.2.1.

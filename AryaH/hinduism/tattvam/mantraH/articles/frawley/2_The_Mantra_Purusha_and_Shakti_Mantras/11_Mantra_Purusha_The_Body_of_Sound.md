@@ -22,7 +22,7 @@ The nine semivowels and sibilants relate to the tissues and primary constituents
 
 
 
-**Mantra Purusha – Basic Form**   **Head**   Aṁ Top of head Àṁ Forehead   Iṁ Right eye Ãṁ Left eye   Uṁ Right ear Ïṁ Left ear   Êṁ Right nostril Ëṁ Left nostril   Äṁ Right cheek Åṁ Left cheek   Eṁ Upper lip Aiṁ Lower lip   Oṁ Upper teeth Auṁ Lower teeth   Aṁ Upper palate Aâ Lower palate   **Arms**   Kaṁ Right shoulder Caṁ Left shoulder   Khaṁ Right elbow Chaṁ Left elbow   Gaṁ Right wrist Jaṁ Left wrist   Ghaṁ Right base of fingers Jhaṁ Left base of fingers   Èaṁ Right finger tips Éaṁ Left finger tips   **Legs**   Îaṁ Right leg Taṁ Left leg   Tâaṁ Right knee Thaṁ Left knee   Áaṁ Right ankle Daṁ Left ankle   Dâaṁ Right base of toes Dhaṁ Left base of toes   Çaṁ Right tip of toes Naṁ Left tip of toes   **Abdomen**   Paṁ Right abdomen   Phaṁ Left abdomen   Baṁ Lower back   Bhaṁ Navel   Maṁ Lower abdomen   **Tissues**   Yaṁ Plasma Raṁ Blood   Laṁ Muscle Vaṁ Fat   Śaṁ Bone Ṣam Ner ve tissue   Saṁ Reproductive tissue Haṁ Prana   Kṣaṁ Mind     
+**Mantra Purusha – Basic Form**   **Head**   Aṁ Top of head Àṁ Forehead   Iṁ Right eye Ãṁ Left eye   Uṁ Right ear Ïṁ Left ear   Êṁ Right nostril Ëṁ Left nostril   Äṁ Right cheek Åṁ Left cheek   Eṁ Upper lip Aiṁ Lower lip   Oṁ Upper teeth Auṁ Lower teeth   Aṁ Upper palate Aḥ Lower palate   **Arms**   Kaṁ Right shoulder Caṁ Left shoulder   Khaṁ Right elbow Chaṁ Left elbow   Gaṁ Right wrist Jaṁ Left wrist   Ghaṁ Right base of fingers Jhaṁ Left base of fingers   Èaṁ Right finger tips Éaṁ Left finger tips   **Legs**   Îaṁ Right leg Taṁ Left leg   Tḥaṁ Right knee Thaṁ Left knee   Áaṁ Right ankle Daṁ Left ankle   Dḥaṁ Right base of toes Dhaṁ Left base of toes   Çaṁ Right tip of toes Naṁ Left tip of toes   **Abdomen**   Paṁ Right abdomen   Phaṁ Left abdomen   Baṁ Lower back   Bhaṁ Navel   Maṁ Lower abdomen   **Tissues**   Yaṁ Plasma Raṁ Blood   Laṁ Muscle Vaṁ Fat   Śaṁ Bone Ṣam Ner ve tissue   Saṁ Reproductive tissue Haṁ Prana   Kṣaṁ Mind     
 
 
 ## Mantra Regions and Marma Points
@@ -90,7 +90,7 @@ Point at upper back of throat
 Relates to the mind, the moon, emotions, resonance, responsiveness, stimulates flow of Soma Aṁ   
 e0   **Lower Palate**   
 Point at lower back of throat   
-Sense of Self and self esteem, self-projection, solar energy Aâ   
+Sense of Self and self esteem, self-projection, solar energy Aḥ   
 e7   
 
 **Mantras for the Right Arm**  
@@ -145,13 +145,13 @@ Dakshina Padamula
 Power of support, primary focus Îaṁ   
 20   **Right Knee**   
 Right Januni marma   
-Power of support, adaptation Tâaṁ   
+Power of support, adaptation Tḥaṁ   
 ṁ0   **Right Ankle**   
 Right Gulpha marma   
 Power of movement, primary focus Áaṁ   
 30   **Right Root of Toes**   
 Dakshina Padanguli Mula   
-Power of movement, adaptation Dâaṁ   
+Power of movement, adaptation Dḥaṁ   
 ç0   **Right Tips of Toes**   
 Dakshina Padanguli Agra   
 Power of movement, articulation   
@@ -252,7 +252,7 @@ Top of heart
 Connection of heart to brain and mind, higher chakras   
 Sushumna nadi, upper portion   
 Pranatman or Self of Prana Kṣaṁ   
-â0   
+ḥ0   
 
 \* This second L-sound is the cerebral L, pronounced like the cerebral letters with the tongue at the roof of the mouth, as opposed to the dental-L, pronounced with the tongue behind the teeth.
 

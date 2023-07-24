@@ -33,14 +33,14 @@ We can use Mantra Purusha mantras during asana practice to focus our attention o
 Similarly, one can use the Mantra Purusha sounds for the legs while extending the legs or while holding a standing pose in order to increase the pranic flow through the legs.
 
 + 
-*Oṁ Îaṁ, Tâaṁ, Áaṁ, Dâaṁ, Çaṁ *for the right hip to the right foot.
+*Oṁ Îaṁ, Tḥaṁ, Áaṁ, Dḥaṁ, Çaṁ *for the right hip to the right foot.
 
 + 
 *Oṁ Taṁ, Thaṁ, Áaṁ, Dhaṁ, Naṁ *for the left hip to the left foot.
 
 
 Another powerful method is to go through all the sixteen mantra points on the head while in a sitting pose, doing pranayama and meditation to clear the energy of the head one point at a time. One can press or touch these mantra locations during the process.
-Oṁ Aṁ Top of head Oṁ Àṁ Middle of forehead   Oṁ Iṁ Right eye Oṁ Ãṁ Left eye   Oṁ Uṁ Right ear Oṁ Ïṁ Left ear   Oṁ Êṁ Right nostril Oṁ Ëṁ Left nostril   Oṁ Äṁ Right cheek Oṁ Åṁ Left cheek   Oṁ Eṁ Upper lip Oṁ Aiṁ Lower lip   Oṁ Oṁ Upper teeth Oṁ Auṁ Lower teeth   Oṁ Aṁ Upper palate Oṁ Aâ Lower palate   
+Oṁ Aṁ Top of head Oṁ Àṁ Middle of forehead   Oṁ Iṁ Right eye Oṁ Ãṁ Left eye   Oṁ Uṁ Right ear Oṁ Ïṁ Left ear   Oṁ Êṁ Right nostril Oṁ Ëṁ Left nostril   Oṁ Äṁ Right cheek Oṁ Åṁ Left cheek   Oṁ Eṁ Upper lip Oṁ Aiṁ Lower lip   Oṁ Oṁ Upper teeth Oṁ Auṁ Lower teeth   Oṁ Aṁ Upper palate Oṁ Aḥ Lower palate   
 
 
 ## Mantra Purusha and Pranayama
@@ -57,14 +57,14 @@ We can use the Mantra Purusha sounds to hold the mind at their respective locati
 
 For example, one can use the sound *Aṁ* to hold one’s attention at the top of the head, to link and stabilize our body and awareness in the Absolute. Or one can hold the attention at any point that one wants to improve, like using a dharana of the mantra *Kaṁ* to strengthen the right shoulder. Dharana of any Mantra Purusha point will bring healing energy to that location. For example, Dharana of the ears along with the mantra *Ïṁ* will help heal the ears and open up higher powers of hearing. Pranayama, pratyahara and dharana of these mantra points can go together for a stronger effect.
 
-**Mantra Purusha with *Namaâ*, and *Svàhà***
+**Mantra Purusha with *Namaḥ*, and *Svāhā***
 
-We can add other mantras to the Mantra Purusha sounds to give them more power or to vary their effects. We can chant the Mantra Purusha mantras after *Oṁ* in order to clear and energize them. After the Mantra Purusha mantras, we can chant *Namaâ*, the mantra of consecration, in order to stabilize their energy or *Svàhà*, the mantra of energization, in order to stimulate it further. Examples:
+We can add other mantras to the Mantra Purusha sounds to give them more power or to vary their effects. We can chant the Mantra Purusha mantras after *Oṁ* in order to clear and energize them. After the Mantra Purusha mantras, we can chant *Namaḥ*, the mantra of consecration, in order to stabilize their energy or *Svāhā*, the mantra of energization, in order to stimulate it further. Examples:
 
-• *Oṁ Aṁ Namaâ*, to stabilize the energy at the top of the head.  
-• *Oṁ Aṁ Svàhà*, to increase the energy at the top of the head.  
-• *Oṁ Ãṁ Namaâ *to stabilize the energy in the eyes.  
-• *Oṁ Ãṁ Svàhà*, to stimulate the energy in the eyes.
+• *Oṁ Aṁ Namaḥ*, to stabilize the energy at the top of the head.  
+• *Oṁ Aṁ Svāhā*, to increase the energy at the top of the head.  
+• *Oṁ Ãṁ Namaḥ *to stabilize the energy in the eyes.  
+• *Oṁ Ãṁ Svāhā*, to stimulate the energy in the eyes.
 
 ## With Shakti Mantras
 
@@ -72,75 +72,75 @@ We can combine the Mantra Purusha sounds with Shakti mantras to bring about diff
 
 One method is to use a single Shakti mantra while reciting the entire Mantra Purusha, focusing on the respective parts of the body. This allows us to bring the power of the Shakti mantra and its specific energies to the entire body and pranic field. Note the following example:
 
-• *Hrãṁ Aṁ *\(top of head\), *Hrãṁ Àṁ *\(front of head\), *Hrãṁ Iṁ *\(right eye\), *Hrãm Ãṁ *\(left eye\), *Hrãṁ Uṁ *\(right ear\), *Hrãṁ Ïṁ *\(left ear\), *Hrãṁ Êṁ *\(right nostril\), *Hrãṁ Ëṁ *\(left nostril\), *Hrãṁ Äṁ *\(right cheek\), *Hrãṁ Åṁ *\(left cheek\), *Hrãṁ Eṁ *\(upper lip\), *Hrãṁ Aiṁ *\(lower lip\), *Hrãṁ Oṁ *\(upper teeth\), *Hrãṁ Auṁ *\(lower teeth\), *Hrãṁ Aṁ*, \(upper palate\) *Hrãṁ Aâ *\(lower palate\)
+• *Hrīṁ Aṁ *\(top of head\), *Hrīṁ Àṁ *\(front of head\), *Hrīṁ Iṁ *\(right eye\), *Hrīm Ãṁ *\(left eye\), *Hrīṁ Uṁ *\(right ear\), *Hrīṁ Ïṁ *\(left ear\), *Hrīṁ Êṁ *\(right nostril\), *Hrīṁ Ëṁ *\(left nostril\), *Hrīṁ Äṁ *\(right cheek\), *Hrīṁ Åṁ *\(left cheek\), *Hrīṁ Eṁ *\(upper lip\), *Hrīṁ Aiṁ *\(lower lip\), *Hrīṁ Oṁ *\(upper teeth\), *Hrīṁ Auṁ *\(lower teeth\), *Hrīṁ Aṁ*, \(upper palate\) *Hrīṁ Aḥ *\(lower palate\)
 
-• *Hrãṁ Kaṁ *\(right shoulder\), *Hrãṁ Khaṁ *\(right elbow\), *Hrãṁ Gaṁ *\(right wrist\), *Hrãṁ Ghaṁ *\(right base of fingers\), *Hrãṁ Èaṁ *\(right fingertips\)
+• *Hrīṁ Kaṁ *\(right shoulder\), *Hrīṁ Khaṁ *\(right elbow\), *Hrīṁ Gaṁ *\(right wrist\), *Hrīṁ Ghaṁ *\(right base of fingers\), *Hrīṁ Èaṁ *\(right fingertips\)
 
-• *Hrãṁ Caṁ *\(left shoulder\), *Hrãṁ Chaṁ *\(left elbow\), *Hrãṁ Jaṁ *\(left wrist\),* Hrãṁ Jhaṁ *\(left base of fingers\), *Hrãṁ Éaṁ *\(left fingertips\)
+• *Hrīṁ Caṁ *\(left shoulder\), *Hrīṁ Chaṁ *\(left elbow\), *Hrīṁ Jaṁ *\(left wrist\),* Hrīṁ Jhaṁ *\(left base of fingers\), *Hrīṁ Éaṁ *\(left fingertips\)
 
-• *Hrãṁ Îaṁ *\(right leg\), *Hrãṁ Tâaṁ *\(right knee\), *Hrãṁ Áaṁ *\(right ankle\),* Hrãṁ Dâaṁ *\(right base of toes\), *Hrãṁ Çaṁ *\(right tips of toes\)
+• *Hrīṁ Îaṁ *\(right leg\), *Hrīṁ Tḥaṁ *\(right knee\), *Hrīṁ Áaṁ *\(right ankle\),* Hrīṁ Dḥaṁ *\(right base of toes\), *Hrīṁ Çaṁ *\(right tips of toes\)
 
-• *Hrãṁ Taṁ *\(left leg\), *Hrãṁ Thaṁ *\(left knee\), *Hrãṁ Daṁ *\(left ankle\), *Hrãṁ Dhaṁ *\(left base of toes\), *Hrãṁ Naṁ *\(left tip of toes\)
+• *Hrīṁ Taṁ *\(left leg\), *Hrīṁ Thaṁ *\(left knee\), *Hrīṁ Daṁ *\(left ankle\), *Hrīṁ Dhaṁ *\(left base of toes\), *Hrīṁ Naṁ *\(left tip of toes\)
 
-• *Hrãṁ Paṁ *\(right abdomen\), *Hrãṁ Phaṁ *\(left abdomen\), *Hrãṁ Baṁ *\(lower back\), *Hrãṁ Bhaṁ *\(navel\),* Hrãṁ Maṁ *\(lower abdomen\)
+• *Hrīṁ Paṁ *\(right abdomen\), *Hrīṁ Phaṁ *\(left abdomen\), *Hrīṁ Baṁ *\(lower back\), *Hrīṁ Bhaṁ *\(navel\),* Hrīṁ Maṁ *\(lower abdomen\)
 
-• *Hrãṁ Yaṁ *\(plasma\),* Hrãṁ Raṁ *\(blood\),* Hrãṁ Laṁ *\(muscle\),* Hrãṁ Vaṁ *\(fat\),* Hrãṁ Śaṁ *\(bone\),* Hrãṁ Ṣam *\(nerve\),* Hrãṁ Saṁ *\(reproductive\),* Hrãṁ Haṁ *\(prana\),* Hrãṁ Kṣaṁ *\(mind\)
+• *Hrīṁ Yaṁ *\(plasma\),* Hrīṁ Raṁ *\(blood\),* Hrīṁ Laṁ *\(muscle\),* Hrīṁ Vaṁ *\(fat\),* Hrīṁ Śaṁ *\(bone\),* Hrīṁ Ṣam *\(nerve\),* Hrīṁ Saṁ *\(reproductive\),* Hrīṁ Haṁ *\(prana\),* Hrīṁ Kṣaṁ *\(mind\)
 
-In this practice, one brings the power of *Hrãṁ*, the Divine light and prana of the heart, to the entire body, filling the body with light. It is also possible to repeat each mantra more than once, for example, three times: *Hrãṁ Aṁ*, *Hrãṁ Aṁ*, *Hrãṁ Aṁ*; *Hrãṁ Àṁ*, *Hrãṁ Àṁ*, *Hrãṁ Àṁ*; *Hrãṁ Iṁ*, *Hrãṁ Iṁ*, *Hrãṁ Iṁ*, and so on through the entire alphabet and Mantra Purusha. This creates a stronger practice.
+In this practice, one brings the power of *Hrīṁ*, the Divine light and prana of the heart, to the entire body, filling the body with light. It is also possible to repeat each mantra more than once, for example, three times: *Hrīṁ Aṁ*, *Hrīṁ Aṁ*, *Hrīṁ Aṁ*; *Hrīṁ Àṁ*, *Hrīṁ Àṁ*, *Hrīṁ Àṁ*; *Hrīṁ Iṁ*, *Hrīṁ Iṁ*, *Hrīṁ Iṁ*, and so on through the entire alphabet and Mantra Purusha. This creates a stronger practice.
 
 Another method is to focus on a single Shakti mantra relative to a particular point in the body and its Mantra Purusha sound. This provides many options to explore. A few examples:
 
-• *Hrãṁ Aṁ *– to stimulate the flow of prana at the top of the head
+• *Hrīṁ Aṁ *– to stimulate the flow of prana at the top of the head
 
-• *Hrãṁ Yaṁ *- to stimulate the flow of prana to the heart
+• *Hrīṁ Yaṁ *- to stimulate the flow of prana to the heart
 
-• *Klãṁ Yaṁ *– to promote contentment and happiness, the inner energy of water and Ojas, in the heart
+• *Klīṁ Yaṁ *– to promote contentment and happiness, the inner energy of water and Ojas, in the heart
 
-• *Śrãṁ Aṁ *– to cool and nurture the energy of consciousness at the top of the head.
+• *Śrīṁ Aṁ *– to cool and nurture the energy of consciousness at the top of the head.
 
-• *Krãṁ Kaṁ *– to stimulate the energy, work capacity and pranic flow at in the right arm.
+• *Krīṁ Kaṁ *– to stimulate the energy, work capacity and pranic flow at in the right arm.
 
-• *Hïṁ Bhaṁ *– to increase the energy of fire and stimulate the region of the navel.
+• *Hūṁ Bhaṁ *– to increase the energy of fire and stimulate the region of the navel.
 
-• *Strãṁ Maṁ *- to bring the feminine energy to the lower abdomen.
+• *Strīṁ Maṁ *- to bring the feminine energy to the lower abdomen.
 
 ## Mantra Purusha Kavacha
 
-A Kavacha is a special protective field created by the mantra, of which there is a great variety in yogic texts. The most common Shakti mantra for this purpose is *Hïṁ* because it reflects the power of protection and wards off negativity.
+A Kavacha is a special protective field created by the mantra, of which there is a great variety in yogic texts. The most common Shakti mantra for this purpose is *Hūṁ* because it reflects the power of protection and wards off negativity.
 
-One can use the *Hïṁ* mantra with each letter of the Mantra Purusha in order to create a protective shield around the body, strengthen the immune system and ward off negative emotions. This Mantra Purusha Kavacha is one of the longest and most powerful. For this, one focuses the mind or touches the particular bodily part while reciting the mantra.
+One can use the *Hūṁ* mantra with each letter of the Mantra Purusha in order to create a protective shield around the body, strengthen the immune system and ward off negative emotions. This Mantra Purusha Kavacha is one of the longest and most powerful. For this, one focuses the mind or touches the particular bodily part while reciting the mantra.
 
-*Oṁ Aṁ Hïṁ, Oṁ Àṁ Hïṁ, Oṁ Iṁ Hïṁ, Oṁ Ãṁ Hïṁ *and so on through the alphabet.
+*Oṁ Aṁ Hūṁ, Oṁ Àṁ Hūṁ, Oṁ Iṁ Hūṁ, Oṁ Ãṁ Hūṁ *and so on through the alphabet.
 
 ## Combinations of Shakti Mantras with the Mantra Purusha
 
 Combinations of Shakti mantras bring about yet more powerful effects to the Mantra Purusha. These are a more complex and deeper level of practice. Examples:
 
-• *Hrãṁ Śrãṁ Klãṁ Aṁ Aṁ Aṁ Aṁ *– to increase the flow of grace, contentment and healing power at the top of the head.
+• *Hrīṁ Śrīṁ Klīṁ Aṁ Aṁ Aṁ Aṁ *– to increase the flow of grace, contentment and healing power at the top of the head.
 
-• *Hrãṁ Krãṁ Hïṁ Aṁ Aṁ Aṁ Aṁ *– for purification, cleansing, heating and protection at the top of the head.
+• *Hrīṁ Krīṁ Hūṁ Aṁ Aṁ Aṁ Aṁ *– for purification, cleansing, heating and protection at the top of the head.
 
 The Mantra Purusha sounds for the tissues, elements and chakras are particularly useful and can be modified in the same ways. Note the following examples:
 
-• *Oṁ Yaṁ Śrãṁ Namaâ *- to bring the lunar, water or Kapha energy into the plasma and heart chakra.
+• *Oṁ Yaṁ Śrīṁ Namaḥ *- to bring the lunar, water or Kapha energy into the plasma and heart chakra.
 
-• *Oṁ Yaṁ Krãṁ Namaâ *- to stimulate the flow of prana through the plasma and the heart chakra.
+• *Oṁ Yaṁ Krīṁ Namaḥ *- to stimulate the flow of prana through the plasma and the heart chakra.
 
-• *Oṁ Yaṁ Hïṁ Namaâ *- to stimulate heat, fire and the Agni of the plasma and to promote sweating.
+• *Oṁ Yaṁ Hūṁ Namaḥ *- to stimulate heat, fire and the Agni of the plasma and to promote sweating.
 
-• *Oṁ Yaṁ Hrãṁ Namaâ *– to stimulate the circulation from the heart through the plasma and lymphatic system.
+• *Oṁ Yaṁ Hrīṁ Namaḥ *– to stimulate the circulation from the heart through the plasma and lymphatic system.
 
 ## The Mantra Purusha with Your Primary Mantra
 
-Whatever your primary or personal mantra may be, you can recite it relative to the Mantra Purusha. For example, if *Namaâ Śivàya *is your main mantra, you can chant it with every letter of the alphabet and location of the Mantra Purusha:
+Whatever your primary or personal mantra may be, you can recite it relative to the Mantra Purusha. For example, if *Namaḥ Śivāya *is your main mantra, you can chant it with every letter of the alphabet and location of the Mantra Purusha:
 
-*Oṁ Aṁ Namaâ Śivàya, Oṁ Àṁ Namaâ Śivàya, Oṁ Iṁ Namaâ Śivàya*, *Oṁ Ãṁ Namaâ Śivàya*, and so on throughout the Sanskrit alphabet and the Mantra Purusha locations.
+*Oṁ Aṁ Namaḥ Śivāya, Oṁ Àṁ Namaḥ Śivāya, Oṁ Iṁ Namaḥ Śivāya*, *Oṁ Ãṁ Namaḥ Śivāya*, and so on throughout the Sanskrit alphabet and the Mantra Purusha locations.
 
 In this way, you can use the power of your personal mantra to consecrate your entire being. Or you can direct your primary mantra specifically to certain locations in the body that you want to emphasize or that may be sites of pain or disease.
 
 The recitation of the alphabet is most commonly connected with the deities Ganesha, Sarasvati and Matangi, the Tantric form of Sarasvati, who is sometimes regarded as a female counterpart of Ganesha. For example, relative to Ganesha, one can chant his bija *Gaṁ* and his name relative to each letter and its Mantra Purusha correspondences.
 
-*Gaṁ Aṁ Gaçeíàya Namaâ, Gaṁ Àṁ Gaçeíàya Namaâ, Gaṁ Iṁ Gaçeíàya Namaâ,* and so on throughout the alphabet.
+*Gaṁ Aṁ Gaçeśāya Namaḥ, Gaṁ Àṁ Gaçeśāya Namaḥ, Gaṁ Iṁ Gaçeśāya Namaḥ,* and so on throughout the alphabet.
 
 This ‘Ganesha Mantra Purusha’ will help remove obstacles and obstructions, including physical and psychological diseases in every part of the body and mind. It can cause Ganesha to appear in the form of your own body\!
 

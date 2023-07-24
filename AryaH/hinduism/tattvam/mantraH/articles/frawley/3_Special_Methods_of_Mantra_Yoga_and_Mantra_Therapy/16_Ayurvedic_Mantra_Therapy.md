@@ -13,7 +13,7 @@ Bija mantras are probably the main mantras used in Ayurvedic mantra therapy. In 
 
 • The Mantra Purusha is perhaps the most important aspect of Ayurvedic mantric healing, particularly adding the appropriate Shakti mantras and looking at the related marmas. Ayurvedic practitioners should learn the Mantra Purusha as part of their healing tools.
 
-• Shakti mantras like *Hrãṁ* and *Śrãṁ* direct powerful healing forces that have a wide application in Ayurveda for creating or balancing energy at a deep level.
+• Shakti mantras like *Hrīṁ* and *Śrīṁ* direct powerful healing forces that have a wide application in Ayurveda for creating or balancing energy at a deep level.
 
 • Chakra mantras like *Laṁ* and *Vaṁ* have important Ayurvedic applications through their correspondences between the doshas, elements and bodily tissues.
 
@@ -45,26 +45,26 @@ The I-vowel has an electrifying and motivating effect that is aligned with Shakt
 
 ## Shakti Mantras in Ayurveda
 
-Shakti Mantras have doshic equivalents according to their energy. *Hïṁ* or *Hrãṁ* as corresponding to fire and Sun are more Pitta in nature. *Śrãṁ* and *Klãṁ* as relating to the Moon and water are more Kapha. *Krãṁ* as wind and electrical energy is more Vata in effect but has some Pitta through its lightning. These mantras are very powerful for changing the qualities of the mind and prana. Generally, we apply mantras of opposite nature to treat the doshas, just as we recommend foods of opposite nature to reduce them. For example, for reducing Pitta dosha, which is fiery in its qualities, cooling and lunar mantras are usually the most appropriate.
-**Shakti Mantras and the Doshas**   **Vata Dosha** Soft mantras are best like Hrãṁ, Śrãṁ, Klãṁ, Strãṁ, Sauṁ   
-Care is taken using harsh mantras like Krãṁ, Huṁ*, *Hlãṁ, Hsauâ   **Pitta Dosha** Cooling, lunar and soft mantras are best like Śrãṁ, Klãṁ, Aiṁ, Sauṁ  
-Care is taken using harsh or fiery mantras like Krãṁ, Hïṁ*, *Hrãṁ, Dïṁ, Hsauâ or Hlãṁ   **Kapha Dosha** Warm and stimulating mantras are best like Krãṁ, Hïṁ*, *Hrãṁ, Dïṁ, Hsauâ  
-Care is taken using soft, lunar or watery mantras like Śrãṁ, Klãṁ, Sauṁ   
+Shakti Mantras have doshic equivalents according to their energy. *Hūṁ* or *Hrīṁ* as corresponding to fire and Sun are more Pitta in nature. *Śrīṁ* and *Klīṁ* as relating to the Moon and water are more Kapha. *Krīṁ* as wind and electrical energy is more Vata in effect but has some Pitta through its lightning. These mantras are very powerful for changing the qualities of the mind and prana. Generally, we apply mantras of opposite nature to treat the doshas, just as we recommend foods of opposite nature to reduce them. For example, for reducing Pitta dosha, which is fiery in its qualities, cooling and lunar mantras are usually the most appropriate.
+**Shakti Mantras and the Doshas**   **Vata Dosha** Soft mantras are best like Hrīṁ, Śrīṁ, Klīṁ, Strīṁ, Sauṁ   
+Care is taken using harsh mantras like Krīṁ, Huṁ*, *Hlīṁ, Hsauḥ   **Pitta Dosha** Cooling, lunar and soft mantras are best like Śrīṁ, Klīṁ, Aiṁ, Sauṁ  
+Care is taken using harsh or fiery mantras like Krīṁ, Hūṁ*, *Hrīṁ, Dūṁ, Hsauḥ or Hlīṁ   **Kapha Dosha** Warm and stimulating mantras are best like Krīṁ, Hūṁ*, *Hrīṁ, Dūṁ, Hsauḥ  
+Care is taken using soft, lunar or watery mantras like Śrīṁ, Klīṁ, Sauṁ   
 
 
-Shakti mantras can be used to change the doshic energies in the locations indicated by the Mantra Purusha. For example, *Kaṁ Śrãṁ *can bring a lunar Kapha energy into the right arm. *Kaṁ Hrãṁ *can bring a solar Pitta energy into the right arm. *Kaṁ Krãṁ *can bring a pranic Vata energy into the right arm. Specific marmas can be targeted this way as well. Such treatment strategies are mentioned relative to the Mantra Purusha and do require some power of concentration to energize the sounds properly.
+Shakti mantras can be used to change the doshic energies in the locations indicated by the Mantra Purusha. For example, *Kaṁ Śrīṁ *can bring a lunar Kapha energy into the right arm. *Kaṁ Hrīṁ *can bring a solar Pitta energy into the right arm. *Kaṁ Krīṁ *can bring a pranic Vata energy into the right arm. Specific marmas can be targeted this way as well. Such treatment strategies are mentioned relative to the Mantra Purusha and do require some power of concentration to energize the sounds properly.
 
 ## Mantras and the Three Vital Essences
 
 Mantras work better to promote the three subtle essences behind the doshas, rather than to counter the doshas themselves. It is easier to use mantras to increase Prana, Tejas and Ojas than to reduce Vata, Pitta and Kapha. Ojas, the vital essence of water for Kapha dosha, promotes immunity, fertility, calmness and stability in the body and mind. Tejas, the vital essence of fire for Pitta dosha, increases heat, fire, courage, valor and fearlessness. Prana, the vital essence of air for Vata dosha, gives strength and aids in rejuvenation, as well as promoting creativity, adaptability and mobility in body and mind. While mantras can be used to promote any of these three vital essences, it should be remembered that mantra overall tends to generate heat or Tejas.
 
 We generally benefit both health wise and spiritually from developing more of these three vital essences, while we usually need to keep the doshas from accumulating. However, care must be taken trying to increase the respective vital essence if its corresponding dosha is high. For example, when Pitta is high, one should be careful with mantras to increase Tejas, as they may cause the heat of Pitta to increase as well.
-**Mantras that Promote the Three Vital Essences**    **Mantras Letters**   **Prana** Oṁ, Aiṁ, Krãṁ, Hrãṁ, Hsauâ, Yaṁ, Haṁ Haṁsaâ So'haṁ Consonants like Ka, Kha, Ca, Cha, Ja, Jha, sounds dominant in the I-vowel   **Tejas** Huṁ, Duṁ, Hrãṁ, Krãṁ, Trãṁ, Hsauâ, Kroṁ, Raṁ Svàhà Sounds dominant in R-sounds, as also by the U-vowel   **Ojas** Hoṁ, Klãṁ, Śrãṁ, Strãṁ, Sauṁ, Vaṁ, Laṁ, Kṣaṁ Namaâ Sounds dominant in La, Na, Ma, Ta, Da, Sa and Śa   
+**Mantras that Promote the Three Vital Essences**    **Mantras Letters**   **Prana** Oṁ, Aiṁ, Krīṁ, Hrīṁ, Hsauḥ, Yaṁ, Haṁ Haṁsaḥ So'haṁ Consonants like Ka, Kha, Ca, Cha, Ja, Jha, sounds dominant in the I-vowel   **Tejas** Huṁ, Duṁ, Hrīṁ, Krīṁ, Trīṁ, Hsauḥ, Kroṁ, Raṁ Svāhā Sounds dominant in R-sounds, as also by the U-vowel   **Ojas** Hoṁ, Klīṁ, Śrīṁ, Strīṁ, Sauṁ, Vaṁ, Laṁ, Kṣaṁ Namaḥ Sounds dominant in La, Na, Ma, Ta, Da, Sa and Śa   
 
 
-Pranic mantras like *Haṁsaâ* or *So'haṁ* are powerful for increasing our positive Prana. *Namaâ* or *Namaste*, through increasing devotion and humility, strengthens Ojas. *Svàhà* as the fire offering mantra increases Tejas and Agni.
+Pranic mantras like *Haṁsaḥ* or *So'haṁ* are powerful for increasing our positive Prana. *Namaḥ* or *Namaste*, through increasing devotion and humility, strengthens Ojas. *Svāhā* as the fire offering mantra increases Tejas and Agni.
 
-The great Shiva death-conquering mantras, *Oṁ Hauṁ Jïṁ Saâ *are excellent for Prana and all aspects of Pranic healing. The Kali Bijas, *Krãṁ Hïṁ Hrãṁ*, are powerful for Tejas, particularly in the root chakra and the heart. The Sundari Mantras, *Hrãṁ Śrãṁ Klãṁ *help with Ojas and overall strength.
+The great Shiva death-conquering mantras, *Oṁ Hauṁ Jūṁ Saḥ *are excellent for Prana and all aspects of Pranic healing. The Kali Bijas, *Krīṁ Hūṁ Hrīṁ*, are powerful for Tejas, particularly in the root chakra and the heart. The Sundari Mantras, *Hrīṁ Śrīṁ Klīṁ *help with Ojas and overall strength.
 
 ## Mantras, Deities and Elements
 
@@ -85,17 +85,17 @@ The Mantra Purusha sounds for the tissues have very important Ayurvedic applicat
 
 • *Oṁ Yaṁ *- for a healthy plasma or Rasa Dhatu
 
-• *Oṁ Śrãṁ Yaṁ *– adds the Shakti bija *Śrãṁ* for beauty, health and vitality in the Rasa Dhatu
+• *Oṁ Śrīṁ Yaṁ *– adds the Shakti bija *Śrīṁ* for beauty, health and vitality in the Rasa Dhatu
 
 One can add the Sanskrit name of the tissue along with Shakti mantras. These can be found in the appendix under Mantra Purusha: Complete Sanskrit Nyasa.
 
-• *Oṁ Śrãṁ Yaṁ Rasàtmane Namaâ *– adds *Rasàtmane Namaâ*, "reverence to the essence of the plasma \(rasa dhatu\)".
+• *Oṁ Śrīṁ Yaṁ Rasātmane Namaḥ *– adds *Rasātmane Namaḥ*, "reverence to the essence of the plasma \(rasa dhatu\)".
 
-• *Oṁ Hïṁ Yaṁ Rasàtmane Namaâ*, to increase fire and reduce Kapha in the plasma or rasa dhatu.
+• *Oṁ Hūṁ Yaṁ Rasātmane Namaḥ*, to increase fire and reduce Kapha in the plasma or rasa dhatu.
 
-• *Oṁ Śrãṁ Ṣaṁ Majjàtmane Namaâ*, to increase Kapha and reduce Vata in the nerve tissue.
+• *Oṁ Śrīṁ Ṣaṁ Majjātmane Namaḥ*, to increase Kapha and reduce Vata in the nerve tissue.
 
-• *Oṁ Hrãṁ Śaṁ Asthyàtmane Namaâ*, to reduce Kapha and Vata and increase Pitta and Agni in the bone tissue.
+• *Oṁ Hrīṁ Śaṁ Asthyātmane Namaḥ*, to reduce Kapha and Vata and increase Pitta and Agni in the bone tissue.
 
 ## Mantras and Marmas
 

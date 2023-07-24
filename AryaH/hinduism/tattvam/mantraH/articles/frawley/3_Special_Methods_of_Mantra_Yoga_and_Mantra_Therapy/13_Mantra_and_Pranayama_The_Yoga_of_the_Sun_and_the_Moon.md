@@ -11,11 +11,11 @@ There are many ways of using mantra with the breath. The following chapter empha
 
 We will examine alternate nostril breathing and breathing through both nostrils along with the use of bija mantras. We will focus on the sibilants \(s and h-sounds\), semi-vowels \(ya, ra, la, va\) and Shakti bijas to enhance and transform the practice of pranayama.
 
-More specifically, we will explore the balancing of solar and lunar, male and female, Shiva and Shakti energies known as the "Yoga of the Sun and the Moon". This balancing of solar and lunar energies within us is the basis of traditional Hatha Yoga in which "*Ha*" means the Sun and "*Tâa*" means the Moon. Traditional Hatha Yoga is the ‘Yoga of the Sun and the Moon’, using mantra and pranayama to balance the two forces and bring about transformation. It is not an asana centered practice such as the term is used for today.1 As such, traditional Hatha Yoga is the foundation of deeper Tantric Yoga practices.
+More specifically, we will explore the balancing of solar and lunar, male and female, Shiva and Shakti energies known as the "Yoga of the Sun and the Moon". This balancing of solar and lunar energies within us is the basis of traditional Hatha Yoga in which "*Ha*" means the Sun and "*Tḥa*" means the Moon. Traditional Hatha Yoga is the ‘Yoga of the Sun and the Moon’, using mantra and pranayama to balance the two forces and bring about transformation. It is not an asana centered practice such as the term is used for today.1 As such, traditional Hatha Yoga is the foundation of deeper Tantric Yoga practices.
 
 ## Using Mantras to Count the Breath
 
-Regardless of the type of pranayama that one follows, mantras repeated mentally can be used for counting the breath. Bija mantras like *Oṁ* or *Hrãṁ* can be repeated a certain number of times along with the breathing process, like 8 repetitions on inhalation, 4 on retention or 8 on exhalation, or multiples thereof. Longer mantras can be used in the same way. For example, the Gayatri mantra of 24 syllables can be repeated with the first 8 syllables on inhalation, the second 8 syllables on retention and the third 8 upon exhalation.
+Regardless of the type of pranayama that one follows, mantras repeated mentally can be used for counting the breath. Bija mantras like *Oṁ* or *Hrīṁ* can be repeated a certain number of times along with the breathing process, like 8 repetitions on inhalation, 4 on retention or 8 on exhalation, or multiples thereof. Longer mantras can be used in the same way. For example, the Gayatri mantra of 24 syllables can be repeated with the first 8 syllables on inhalation, the second 8 syllables on retention and the third 8 upon exhalation.
 
 It is better to use mantras to count the breath rather than to use numbers as some groups do. Numbers lack the resonance of mantras and can put the mind into a dull or mechanical state. Repetition of mantras increases our mental energy while that of numbers tends to reduce it. The mantra can be energized with the power of devotion or knowledge, which a number cannot.
 
@@ -27,7 +27,7 @@ The word *Ahaṁ* means "*I*" in Sanskrit. Repeating the *Ahaṁ* mantra along w
 
 All words, all thoughts and the breath itself naturally begin with the sense of I. The sense of Self, which is the root of consciousness, comes first, then the mind comes into being and through it we can see the outer world.
 
-*Ahaṁ* is reflected on all levels of our nature. Speech is *Ahaṁ*, with A as the first letter and *Ha* the last letter of the Sanskrit alphabet. Breath is *Ahaṁ*, with A as inhalation and Ha as exhalation. Thought is *Ahaṁ*. The I-thought or *Ahaṁ* is the root of all thoughts. The I-thought reflects the original prana that rises from the heart, of which it is a manifestation. Our true Self consists of the nature of *Ahaṁ* beyond speech, breath and mind. Through the *Ahaṁ* mantra, everything is comprehended. *Ahaṁkara* or the "I process" is the Sanskrit word for ego, as opposed to the Self which is *Ahaṁsvarïpa* or the Self-nature. *Ahaṁkara* at a cosmic level is the main power of external creation through which the mind, five sense organs, five motor organs and five sense qualities \(tanmatras\) are differentiated. The *Ahaṁkara Tattva *or cosmic principle in Yoga philosophy is defined in terms of the Sanskrit alphabet.4
+*Ahaṁ* is reflected on all levels of our nature. Speech is *Ahaṁ*, with A as the first letter and *Ha* the last letter of the Sanskrit alphabet. Breath is *Ahaṁ*, with A as inhalation and Ha as exhalation. Thought is *Ahaṁ*. The I-thought or *Ahaṁ* is the root of all thoughts. The I-thought reflects the original prana that rises from the heart, of which it is a manifestation. Our true Self consists of the nature of *Ahaṁ* beyond speech, breath and mind. Through the *Ahaṁ* mantra, everything is comprehended. *Ahaṁkara* or the "I process" is the Sanskrit word for ego, as opposed to the Self which is *Ahaṁsvarūpa* or the Self-nature. *Ahaṁkara* at a cosmic level is the main power of external creation through which the mind, five sense organs, five motor organs and five sense qualities \(tanmatras\) are differentiated. The *Ahaṁkara Tattva *or cosmic principle in Yoga philosophy is defined in terms of the Sanskrit alphabet.4
 
 Division arises through sound which proceeds through the alphabet. This means that through reciting the Sanskrit alphabet, or just repeating the *Ahaṁ* mantra, and turning within, one can integrate all the cosmic principles as well as all aspects of mind, senses and pranas and return to pure unity.
 
@@ -48,7 +48,7 @@ In addition, in Tantric Yoga, lunar energy generally relates to inhalation, whic
 Our energies fluctuate between these dualistic forces, though one side usually predominates overall. Pitta dosha people, those with a fiery temperament in Ayurvedic thought, will have the breath more commonly flowing through the right nostril. Kapha dosha people, those of a watery temperament, will find the breath to flow more through the left nostril. Vata dosha types, those with airy temperaments, will more commonly find their breath fluctuating back and forth between the right and left nostrils.
 
 Pranayama can be used to balance the two forces, particularly alternate nostril breathing called Nadi Shodhana in Sanskrit or "cleansing the channels". The solar and lunar divisions of the breath can be connected with bija mantras of a solar or lunar nature for a greater effect.
-**Lunar Solar**   Left side of body Right side of body   Ida nadi Pingala Nadi   Absorbing Discharging   Tonifying Reducing   Saâ or So Haṁ   Śrãṁ, mantra of the Moon Hrãṁ, mantra of the Sun   Vaṁ, mantra of water Raṁ, mantra of fire   Shakti Shiva   
+**Lunar Solar**   Left side of body Right side of body   Ida nadi Pingala Nadi   Absorbing Discharging   Tonifying Reducing   Saḥ or So Haṁ   Śrīṁ, mantra of the Moon Hrīṁ, mantra of the Sun   Vaṁ, mantra of water Raṁ, mantra of fire   Shakti Shiva   
 
 
 Samkhya Karika of Ishvara Krishna, verse 22, Matharvritti commentary identifies the Cosmic Ahamkara principle with the Sanskrit alphabet. Note the Self-inquiry method of Ramana Maharshi, which emphasizes tracing the root of all thoughts back to the I-thought in the heart.2 Note the idea of lunar inhalation and solar exhalation in the works of Abhinavagupta, the main teacher of Tantric Kashmiri Shaivism, Para Trisika Vivarana, pps 263-264.3 There are various yogic kriyas involving pranayama and mantra for guiding the energies of Fire \(Kundalini\), Moon \(Soma\), Sun \(Surya\) and Lightning \(Vidyut\) up and down the spine or to different chakras, depending upon the stage of practice and the development of the Yogi. How inhalation and exhalation function depends upon which specific energies one may be drawing in or releasing out. Balancing solar and lunar energies, however, is fundamental to all of these yogic pranayamas.
@@ -59,26 +59,26 @@ Samkhya Karika of Ishvara Krishna, verse 22, Matharvritti commentary identifies 
 
 The mantra *So'haṁ* is a great statement of spiritual knowledge. So or Sa means "He" as the higher Self, the Atman. *Haṁ* is short for *Ahaṁ* meaning "I", myself. This natural sound then is saying that" He \(the higher Self\) am I" or "I am God or pure consciousness". In this way, our breath becomes our inner guide and guru, ever teaching us our oneness with all. Many Yogis have gained Self-realization through the *So*'*haṁ* mantra alone. One can also use the *So'haṁ* mantra to draw the prana up the chakras one by one, chanting the mantra at each chakra step by step from the root chakra to the crown chakra.8
 
-***Haṁsaâ Pranayama***
+***Haṁsaḥ Pranayama***
 
 Vedic thought contains many wonderful and cryptic symbols. One of the most poignant and beautiful is the image of the hamsa, which outwardly means a swan. The hamsa symbolizes the bird of the soul. It is said to be golden in color and to reside in the heart. It is identified with the Sun, which is a symbol of both the soul \(Atman\) and prana. This bird of the soul rests upon the breath. Its two wings are exhalation and inhalation, Ha and Sa.
 
-The Upanishads state, “With the sound Ha, one moves outward. With Sa, one moves in again. The individual soul repeats the mantra *Haṁsaâ, Haṁsaâ, *all the time, 21,600 times in the course of the day.9 This is called the spontaneous Gayatri \(ajapa Gayatri\), which ever grants liberation to the Yogis.”10
+The Upanishads state, “With the sound Ha, one moves outward. With Sa, one moves in again. The individual soul repeats the mantra *Haṁsaḥ, Haṁsaḥ, *all the time, 21,600 times in the course of the day.9 This is called the spontaneous Gayatri \(ajapa Gayatri\), which ever grants liberation to the Yogis.”10
 
-We can look at the *Haṁsaâ* mantra as *So'haṁ* in another form, with Ha as exhalation and Sa as inhalation. However, some Yogis reverse the natural order of *So'haṁ* and use Ha for inhalation and Sa for exhalation. While *So-haṁ* for inhalation and exhalation naturally deepens the breath, *Haṁ-saâ* for inhalation and exhalation adds additional fire to the breath.
+We can look at the *Haṁsaḥ* mantra as *So'haṁ* in another form, with Ha as exhalation and Sa as inhalation. However, some Yogis reverse the natural order of *So'haṁ* and use Ha for inhalation and Sa for exhalation. While *So-haṁ* for inhalation and exhalation naturally deepens the breath, *Haṁ-saḥ* for inhalation and exhalation adds additional fire to the breath.
 
-***Haṁsaâ So'haṁ Pranayama***
+***Haṁsaḥ So'haṁ Pranayama***
 
-We can combine these two prana mantras together as *Haṁsaâ So'haṁ*. This helps balance the solar and lunar energies in the body and mind. It also affirms the unity of the individual soul with the supreme Self.
+We can combine these two prana mantras together as *Haṁsaḥ So'haṁ*. This helps balance the solar and lunar energies in the body and mind. It also affirms the unity of the individual soul with the supreme Self.
 
 • The *So'haṁ* mantra works better with alternate nostril breathing, inhaling with the left nostril and exhaling with the right.  
-• *Haṁsaâ* works better with inhaling with the right nostril and exhaling with the left.
+• *Haṁsaḥ* works better with inhaling with the right nostril and exhaling with the left.
 
-In this practice, one breathes in through the left nostril with the mantra-So, and then out through the right nostril with the *mantra-Haṁ*. Then one breathes in through the right nostril with the *mantra-Haṁ* and out through the left nostril with the *mantra-Saâ*. One can also use the mantra So to take the lunar energy up the spine on inhalation, and *Haṁ* to bring the solar energy down the spine on exhalation, followed by using the mantra *Haṁ* to take the solar energy up the spine on inhalation and *Saâ* to take the lunar energy down the spine on exhalation. The *Haṁsaâ So'haṁ *mantra has many other applications in deeper Yoga practices, several of which will be discussed later in the book.
+In this practice, one breathes in through the left nostril with the mantra-So, and then out through the right nostril with the *mantra-Haṁ*. Then one breathes in through the right nostril with the *mantra-Haṁ* and out through the left nostril with the *mantra-Saḥ*. One can also use the mantra So to take the lunar energy up the spine on inhalation, and *Haṁ* to bring the solar energy down the spine on exhalation, followed by using the mantra *Haṁ* to take the solar energy up the spine on inhalation and *Saḥ* to take the lunar energy down the spine on exhalation. The *Haṁsaḥ So'haṁ *mantra has many other applications in deeper Yoga practices, several of which will be discussed later in the book.
 
-***Hrãṁ and Śrãṁ in Pranayama***
+***Hrīṁ and Śrīṁ in Pranayama***
 
-*Hrãṁ* and *Śrãṁ* are prime Shakti mantras with important correlations to the breathing process and its solar and lunar aspects. *Hrãṁ* is the bija mantra of the Sun at an astrological level. *Śrãṁ* is the bija mantra of the Moon. The two sounds relate to the heart in terms of function \(*Hrãṁ*\) and substance \(*Śrãṁ*\), thought \(*Hrãṁ*\) and feeling \(*Śrãṁ*\). They also relate to the solar and lunar nadis \(Ida and Pingala, the solar and lunar sides of the body, and the right and left eyes. Instead of using the sounds Sa and Ha, one can use the mantras *Śrãṁ* and *Hrãṁ* for a similar effect. This practice connects the energy of the breath with that of the heart.
+*Hrīṁ* and *Śrīṁ* are prime Shakti mantras with important correlations to the breathing process and its solar and lunar aspects. *Hrīṁ* is the bija mantra of the Sun at an astrological level. *Śrīṁ* is the bija mantra of the Moon. The two sounds relate to the heart in terms of function \(*Hrīṁ*\) and substance \(*Śrīṁ*\), thought \(*Hrīṁ*\) and feeling \(*Śrīṁ*\). They also relate to the solar and lunar nadis \(Ida and Pingala, the solar and lunar sides of the body, and the right and left eyes. Instead of using the sounds Sa and Ha, one can use the mantras *Śrīṁ* and *Hrīṁ* for a similar effect. This practice connects the energy of the breath with that of the heart.
 
 ## Mantras for the Five Elements and Pranayama
 
@@ -158,11 +158,11 @@ To accomplish this drying up of the Ida nadi, a special practice of alternate no
 
 • First, one inhales through the left or lunar nostril along with the air mantra *Yaṁ*, repeating the mantra as many times as comfortable, drawing its energy into the navel.
 
-• Second, one holds the breath along with the Shakti fire mantra *Hïṁ*, repeating the mantra as many times as comfortable, stimulating the fire in the navel to burn up any impurities in the abdomen and dry up the lower chakras.
+• Second, one holds the breath along with the Shakti fire mantra *Hūṁ*, repeating the mantra as many times as comfortable, stimulating the fire in the navel to burn up any impurities in the abdomen and dry up the lower chakras.
 
 • Third, one exhales through the right nostril along with the air mantra *Raṁ*, repeating the mantra as many times as comfortable, letting the impurities disperse.
 
-• Then one reverses the process, repeating the fire mantra *Raṁ* along with inhalation through the right nostril, the Shakti fire mantra *Hïṁ* upon retention, and the air mantra *Yaṁ* along with exhalation through the left nostril.
+• Then one reverses the process, repeating the fire mantra *Raṁ* along with inhalation through the right nostril, the Shakti fire mantra *Hūṁ* upon retention, and the air mantra *Yaṁ* along with exhalation through the left nostril.
 
 Traditionally, inhalation is recommended for 16 counts, retention for 64 counts and exhalation for 32 counts. That requires very strong lungs and a good deal of previous pranayama practice to be able to do, which is quite rare. Shorter ratios should be used when the lungs are weaker. Even rations of 4/4/4 should be used to begin with, increasing the duration as the power of the breath increases over time. One should seek to increase the power of Prana naturally through slow, steady practice for the best results.
 
@@ -174,11 +174,11 @@ Besides the need to increase the fire below is a complimentary need to increase 
 
 • First, one inhales through the left or lunar nostril with the water mantra *Vaṁ*, repeating the mantra as many times as can be done comfortably, drawing the energy up into the head and the place of the Moon in the soft palate of the mouth.
 
-• Second, one holds the breath with the Shakti lunar mantra *Śrãṁ*, repeating the mantra as often as can be done comfortably, forming a spiritual body or body of nectar in the head.
+• Second, one holds the breath with the Shakti lunar mantra *Śrīṁ*, repeating the mantra as often as can be done comfortably, forming a spiritual body or body of nectar in the head.
 
 • Third, one exhales through the right nostril with the earth mantra *Laṁ*, repeating the mantra as often as can be done comfortably, consolidating the spiritual body or body of nectar in the head.
 
-• Then one reverses the process, repeating the earth mantra *Laṁ* along with inhalation through the right nostril, the Shakti lunar mantra *Śrãṁ* upon retention, and the water mantra *Vaṁ* along with exhalation through the left nostril.
+• Then one reverses the process, repeating the earth mantra *Laṁ* along with inhalation through the right nostril, the Shakti lunar mantra *Śrīṁ* upon retention, and the water mantra *Vaṁ* along with exhalation through the left nostril.
 
 One should hold one's gaze at the soft palate of the mouth, the upper back of the throat opposite the third eye during this practice. The procedure should continue until a significant amount of inner calm and well-being is created. Through this practice, one consolidates the Soma or nectar in the head so that it can balance the ascending Kundalini fire.
 

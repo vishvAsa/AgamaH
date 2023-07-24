@@ -8,21 +8,21 @@ These are some of the best English equivalent sounds possible, but note that the
 **1. Sixteen Vowels - Svara**
 
 e - a, a as in *a*bout  
-P - *à*, a as in f*a*ther  
+P - *ā*, a as in f*a*ther  
 f - *i*, i as in *i*t  
-Q - *ã* , as in s*e*at  
+Q - *ī* , as in s*e*at  
 g - *u*, u as in fl*u*te  
-R - *ï*, as in m*oo*d  
-W - *ê*, as in ac*re*  
-Ø - *ë*, same as *ê* but longer  
-X - *ä*, as in table  
-v ¦ - *å*, same as *ä* but longer  
+R - *ū*, as in m*oo*d  
+W - *r̥*, as in ac*re*  
+Ø - *r̥̄*, same as *r̥* but longer  
+X - *l̥*, as in table  
+v ¦ - *l̥̄*, same as *ä* but longer  
 h - *e*, as c*a*me  
 : - *ai*, as in wh*y*  
 i - *o*, as in y*o*ke  
 ; - *au*, as in *ou*ch  
 e0 - *aṁ*, nasal mmm  
-e7 - *aâ*, soft ha sound
+e7 - *aḥ*, soft ha sound
 
 **2. Four Semivowels and Five Sibilants or Nine Intermediate Sounds – Ushma/Antahstha**
 
@@ -30,10 +30,10 @@ t - *ya*, y as in yoga
 u - *ra*, r as in rich \(slight rolled r\)  
 v - *la*, l as in laugh  
 w - *va*, v as in vat  
-5 - *ía*, as in ship  
+5 - *śa*, as in ship  
 6 - *ṣa*, as in shut  
 x - *sa*, s as in sit  
-â - *kṣa*, as in action  
+ḥ - *kṣa*, as in action  
 y - *ha*, h as in hit
 
 **3. Twenty Five Consonants or Five Groups of Five**
@@ -51,9 +51,9 @@ l - *ca*, as in *ch*urch
 Z - *éa*, as in can*y*on
 
 2 - *îa*, t as in ar*t  
-*ṁ - *tâa*,as in ar*th*ouse  
+*ṁ - *tḥa*,as in ar*th*ouse  
 3 - *áa*, d as in har*d  
-*ç - *dâa*, as in har*dh*at  
+*ç - *ḍha*, as in har*dh*at  
 4 - *ça*, n as in hor*n*
 
 n - *ta*, t as in stop  

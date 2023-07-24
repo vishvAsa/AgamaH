@@ -21,7 +21,7 @@ This means that if one knows the prime roots of the Sanskrit language, one can u
 
 The *Vedas* consist of special poetic verses or Suktas, referred to as "hymns". Suktas are mantric verses to various deities, which represent forms and aspects of the Divine or Inner Self \(Atman or Purusha\). Hidden in these Vedic mantras is a complete inner Yoga of the chakras and realization of the higher Self, as well as the foundation for all the Vedic sciences. The *Rigveda* presents the greatest number of Vedic mantras in three tone chant. The Samaveda emphasizes a more musical type of chanting as its main form of practice. In fact, the Vedas honor the deity primarily as Svara or sound vibration, which is later equated with Shiva. “What is called Svara in the Vedas and what is established in the Vedanta, …that is Maheshvara \(Shiva\).”6
 
-Certain verses from different Vedic Suktas have become important mantras and prayers in their own right. A few of these Vedic verses remain popular in yogic circles. Most notable is the Gayatri Mantra to the Sun God Savita.7 However, the Gayatri Mantra is one of ten thousand verses of the *Rigveda* and many of these verses have similar powers. The Mahamrityunjaya Mantra to Lord Shiva for warding off death also remains commonly used today.8 Another very important Vedic verse is the *Haṁsaâ* Mantra of Vamadeva.9 Many significant Vedic verses are found in the famous Asya Vamasya Sukta of Dirghatamas.10 Vedic Shanti mantras or peace mantras, Shanti Patha,11 are another type of Vedic verse that continues to be widely employed. Many of these Vedic verses occur in the Upanishads.12
+Certain verses from different Vedic Suktas have become important mantras and prayers in their own right. A few of these Vedic verses remain popular in yogic circles. Most notable is the Gayatri Mantra to the Sun God Savita.7 However, the Gayatri Mantra is one of ten thousand verses of the *Rigveda* and many of these verses have similar powers. The Mahamrityunjaya Mantra to Lord Shiva for warding off death also remains commonly used today.8 Another very important Vedic verse is the *Haṁsaḥ* Mantra of Vamadeva.9 Many significant Vedic verses are found in the famous Asya Vamasya Sukta of Dirghatamas.10 Vedic Shanti mantras or peace mantras, Shanti Patha,11 are another type of Vedic verse that continues to be widely employed. Many of these Vedic verses occur in the Upanishads.12
 
 Vedic Suktas, particularly to Soma and Agni, are in my opinion the greatest works of Sanskrit literature, poetry and spirituality. These Vedic hymns have a density and power in the language probably unequalled even in later Sanskrit poetry or Kavya literature. Vedic mantras can be used according to certain methods of pranayama and meditation internally and according to special fire rituals externally, and remain very effective if so employed, even today.
 
@@ -35,13 +35,13 @@ The Gayatri Mantra is the most sacred prayer of the Hindus. It has been widely p
 
 The Gayatri is probably the oldest chant that has been continually recited in the history of the world, with an antiquity of at least five thousand years. It reflects the timelessness of the Vedic language. Below is the Sanskrit and a simple translation.
 
-*Oṁ Bhïr, Bhuvaâ, Svaâ, Tat Savitur vareçyam bhargo devasya dhãmahi, dhiyo yo naâ pracodayàt*
+*Oṁ Bhūr, Bhuvaḥ, Svaḥ, Tat Savitur vareçyam bhargo devasya dhīmahi, dhiyo yo naḥ pracodayāt*
 
 Om Earth, Atmosphere, Heaven: We meditate upon the supreme effulgence of the Divine solar Creator, that he may direct our minds.
 
-The *Yajurveda* reveals the sounds of the three worlds *Bhïâ, Bhuvaâ, Svaâ *called* Vyàhêtis *in Sanskrit, which are placed at the beginning of the Gayatri and other Vedic mantras and function as bija mantras. All three mantras are based on the root vowel-*U*, which projects a circular and expansive energy that can create and sustain the worlds. The consonant-Bha is the last of the series of the 25 Sanskrit consonants, except the M-sound, and is the most open and expansive of all the consonant sounds. It also relates to the sphere of light, *Bhà*.
+The *Yajurveda* reveals the sounds of the three worlds *Bhūḥ, Bhuvaḥ, Svaḥ *called* Vyāhr̥tis *in Sanskrit, which are placed at the beginning of the Gayatri and other Vedic mantras and function as bija mantras. All three mantras are based on the root vowel-*U*, which projects a circular and expansive energy that can create and sustain the worlds. The consonant-Bha is the last of the series of the 25 Sanskrit consonants, except the M-sound, and is the most open and expansive of all the consonant sounds. It also relates to the sphere of light, *Bhā*.
 
-*Bhïâ* refers to being or existence in the realm of time and space as defined by the development of light. *Bhuvaâ* refers to energy or becoming and relates to the Atmosphere or realm of intermediate space. Su refers to creation, expression, swelling, revolving and resonating. *Svaâ*, also rendered as *Suvaâ*, relates to light, sunlight and the realm of light or Heaven. The *Vyàhêtis* are sometimes extended to seven with *Maha, Jana, Tapa *and* Satya *added for the four higher worlds of intelligence, bliss, consciousness and pure being.
+*Bhūḥ* refers to being or existence in the realm of time and space as defined by the development of light. *Bhuvaḥ* refers to energy or becoming and relates to the Atmosphere or realm of intermediate space. Su refers to creation, expression, swelling, revolving and resonating. *Svaḥ*, also rendered as *Suvaḥ*, relates to light, sunlight and the realm of light or Heaven. The *Vyāhr̥tis* are sometimes extended to seven with *Maha, Jana, Tapa *and* Satya *added for the four higher worlds of intelligence, bliss, consciousness and pure being.
 
 ## Vedic Mantra Yoga and Bhakti Yoga
 
@@ -63,7 +63,7 @@ Generally, *Ãṁ* represents the power of Divine light and seeing, while *Oṁ*
 
 The mantra *Ãṁ* is the foundation of most of the Shakti mantras discussed earlier in the book. It projects an energy and power of perception, the electrical force of seeing. It is the mantric sound of the eyes in the Mantra Purusha. The mantra *Ãṁ* allows for the awakening of the Shakti of any mantra, and also provides the vision behind the mantra, its knowledge component.
 
-The related Vedic mantra *Sãṁ* refers to the highest, the summit, the power of pure existence, while *Hãṁ* refers to the power of the Vajra or the lightning bolt of pure perception that Indra, the deity of cosmic prana, wields. Brahmarshi Daivarata revealed the great mantra *Ãṁ Oṁ Śrãâ*, which was followed by the Gayatri Mantra.19 This he regarded as the mantric key to all creation and the basis of all the other Vedic mantras.
+The related Vedic mantra *Sīṁ* refers to the highest, the summit, the power of pure existence, while *Hīṁ* refers to the power of the Vajra or the lightning bolt of pure perception that Indra, the deity of cosmic prana, wields. Brahmarshi Daivarata revealed the great mantra *Ãṁ Oṁ Śrīḥ*, which was followed by the Gayatri Mantra.19 This he regarded as the mantric key to all creation and the basis of all the other Vedic mantras.
 
 ## Orientation of Vedic Mantras
 
@@ -105,9 +105,9 @@ The *Vedas* reach their culmination in the profound philosophy of Vedanta, the m
 
 Instead of rhythmical verses like the Gayatri, there are succinct statements of unity with the Supreme Reality, Brahman. These are called *Mahavakyas* or "Great Sayings". They teach and affirm the unity of the individual Self with the Supreme Self, which is the ultimate aim of Yoga. The special resonance of their sounds helps sustain the higher knowledge that they bestow to those who listen to them with an open mind and heart. There are a number of such statements in the Upanishads, of which perhaps six are the most important.
 
-• *Aham Brahmàsmi*: I am Brahman or the Supreme Godhead.22
+• *Aham Brahmāsmi*: I am Brahman or the Supreme Godhead.22
 
-• *Ayam Àtmà Brahma*: This Self is Brahman or the Supreme Godhead.23
+• *Ayam Àtmā Brahma*: This Self is Brahman or the Supreme Godhead.23
 
 • *Sarvam Khalvidam Brahma*: Everything is Brahman or the Absolute.24
 
@@ -115,7 +115,7 @@ Instead of rhythmical verses like the Gayatri, there are succinct statements of 
 
 • *So\`ham Asmi*: I am He \(the Supreme Self\).26
 
-• *Prajéànam Brahma*: Wisdom is the Supreme Brahman.27
+• *Prajéānam Brahma*: Wisdom is the Supreme Brahman.27
 
 All these great sayings are summarized in the single great mantra *Oṁ* that comes to dominate all mantras from the late Vedic era and also means "I am all". There are other important Vedantic mantras in yogic thought, for example, *Oṁ Tat Sat*. *Oṁ* is the Divine Word. *Tat* refers to the Infinite, from the root Ta meaning "to extend". Sat refers to pure existence, from the root As indicating being.
 
@@ -143,7 +143,7 @@ One repeats these mantras as the focus of one's meditation. In them, the meaning
 
 10 Rigveda I. 164.
 
-11 A few important Shanti mantras include, Oṁ Śànti Śànti Śàntiâ; Oṁ Sarve Bhavantu Sukhinàâ; Oṁ Sahanavavatu; Oṁ Bhadram Karnebhi Śrinuyàma Devà; Oṁ Śam no Mitra Śam Varunaâ.
+11 A few important Shanti mantras include, Oṁ Śānti Śānti Śāntiḥ; Oṁ Sarve Bhavantu Sukhināḥ; Oṁ Sahanavavatu; Oṁ Bhadram Karnebhi Śrinuyāma Devā; Oṁ Śam no Mitra Śam Varunaḥ.
 
 12 Notably the Mahanarayana Upanishad, which has many devotional mantras, and the Shvetashvatara Upanishad to Lord Shiva, which contains many Vedic verses, particularly in its description of Yoga.
 
