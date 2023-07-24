@@ -96,8 +96,7 @@ Another important Mantra Pranayama method is to use the seed mantras of the five
 
 Of these five element mantras, *Yaṁ* as the bija mantra for the air element from which prana arises, is probably most important. It aids in the flow of prana or air in any of the nadis or channel systems. Overall, it has a drying, cooling and lightening effect, reflecting the qualities of the air element. Because of the connection between prana and air, the air-mantra *Yaṁ* is widely used with pranayama to get the prana to move, as well as to dry up any blockages in the nadis. Because of the effect of wind to increase fire, *Yaṁ* can be combined with the mantra *Raṁ* to increase the energy of fire.
 
-***Raṁ and Vaṁ*, the Bijas of Fire and Water   
-for Balancing Solar and Lunar Energies**
+***Raṁ and Vaṁ*, the Bijas of Fire and Water for Balancing Solar and Lunar Energies**
 
 *Raṁ* is the bija mantra for the right side of the body, which has a fiery or solar nature. *Vaṁ* is the bija mantra for the left side of the body, which has a watery and lunar nature. Mentally repeating the mantra *Raṁ* while breathing through the right nostril will increase the fiery nature of the breath; mentally repeating the mantra Va*ṁ *while breathing through the left nostril will increase its watery effects. These mantras help increase the energies of the respective right and left, solar and lunar nadis.
 
@@ -119,8 +118,7 @@ The five element mantras can be used to direct energy to the respective chakras 
 
 You can similarly repeat the mantra *Vaṁ* along with the breath, while concentrating on the sex or water chakra to develop the energy there, and so on through the other chakras with their respective seed mantras. For the third eye, you can use the bija mantra *Kṣaṁ*, the seed sound of the mind. For the crown chakra, you can use the mantra *Oṁ* or *Aṁ*. This process is called "Chakra Mantra Dharana" or concentrating on the mantra at the chakra.
 
-**Balancing Fire and Water Energies Above   
-and below with Mantra and Pranayama**
+**Balancing Fire and Water Energies Above and below with Mantra and Pranayama**
 
 ## Agni and Soma in Tantra
 
