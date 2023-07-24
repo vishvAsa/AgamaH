@@ -54,13 +54,13 @@ In this explication of the three vowels, I am following specifically the Nandike
 
 **Verse 9. **The letter-A is of the nature of perception. The letter-I is said to be the portion of pure consciousness. The letter U-is said to be Vishnu, and from its pervasive power, it is Maheshvara.5
 
-The letter-A is the pure Being or Absolute beyond all time, space, causation and creation. The letter-I is the Shakti or causative power that produces the manifest world. The letter-U is God or Ishvara as the Cosmic Lord ruling over and guiding the manifest world. Combining these letters A plus I, the absolute plus Shakti, is *Aiæ *which is the sound Adya Shakti or the primal feminine, energy or Goddess principle. Combining A plus U is *Auæ*, which is Adi Purusha or the primal masculine, Self or God principle.
+The letter-A is the pure Being or Absolute beyond all time, space, causation and creation. The letter-I is the Shakti or causative power that produces the manifest world. The letter-U is God or Ishvara as the Cosmic Lord ruling over and guiding the manifest world. Combining these letters A plus I, the absolute plus Shakti, is *Aiṁ *which is the sound Adya Shakti or the primal feminine, energy or Goddess principle. Combining A plus U is *Auṁ*, which is Adi Purusha or the primal masculine, Self or God principle.
 
 ## The Sixteen Vowels
 
 With this background, let us examine each of the sixteen Sanskrit vowels in detail.
 
-**e ****– The Short Vowel *****A***
+**e** **– The Short Vowel *****A***
 
 **The Absolute, the Infinite, Pure Being, the Void**
 Sound Pronounced *a *as in *a*nother   Energetic Pure existence, simple affirmation/simple negation, light as bare illumination, unmanifest Self   Spiritual Absolute, Pure Consciousness, Godhead – Parabrahman, the Supreme Shiva   Physical Top of head, back of head   Psychological Deeper consciousness, source of mind and prana, primal Self   Yoga Promotes pratyahara, meditation, samadhi, detachment, crown chakra energies, Yoga nidra   
@@ -78,7 +78,7 @@ At a physical level, the sound-A serves to ground and stabilize our being and al
 
 At a psychological level, the sound-A returns us to the ground of our being and helps us shut off our outer noise. It calms and silences the minds and senses and takes the pranas back to their core energy. It helps us settle, let go, detach and simplify. It connects us to our deepest Self and being.
 
-**P ****– The Long Vowel *****À***
+**P** **– The Long Vowel *****À***
 
 **The Absolute in Expansion as the Space of the Higher Self**
 Sound Pronounced *a *as in f*a*ther   Energetic Higher Self or Atman, Self-expansion and awareness of the Absolute   Spiritual Power of bliss, the space of consciousness   Physical Forehead, face, expansion and circulation of energies   Psychological Outgoing and creative aspect of mind, conscious mind, conscious Self   Yoga Promotes contemplation, meditation, happiness, contentment, creativity, space   
@@ -90,7 +90,7 @@ As the short vowel-A represents the absolute in a universal sense; the long vowe
 
 At a physical level, the long À-vowel is releasing, relaxing and revitalizing. Repeat ‘aa’, like opening your throat to reveal your tonsils, and feel this for yourself. The sound expands and releases the prana. It has a similar effect at a psychological and spiritual level, allowing us to relax into the ground of our being but with a certain expansiveness. As the short A-vowel relates to the consciousness in its unmanifest form \(which at a lower level includes the subconscious\), the long À-vowel relates to consciousness as mind, expression, feeling in the broader sense.
 
-**f ****– The Short Vowel *****I***
+**f** **– The Short Vowel *****I***
 
 **The One, Point, Atom, God, Creator and Cosmic Lord, Divine Will**
 Sound As in ‘eat’ but shorter   Energetic Contraction, focus, point energy, unity   Spiritual God as ruling consciousness, Cosmic Lord   Physical Right eye, guiding energy of the body, motivating prana   Psychological Perception, logic, judgment, will power, guidance, motivation   Yoga Yoga of seeing, dharana, will power, discrimination, knowledge   
@@ -110,7 +110,7 @@ As the letter-A is the root power of existence, the letter-I is the power of vis
 
 At a physical level, the sound-I serves to set in motion and sustain all the organic processes within us. At a psychological level, it similarly increases our vision, motivation, focus, energy and determination. Its spiritual implications are of the same nature, allowing to us to connect with the Divine will and energy within us.
 
-**Q ****– The Long Vowel *****Ã***
+**Q** **– The Long Vowel *****Ã***
 
 **Will as Ruling Power, Divine Mother, Ishvara Shakti**
 Sound As in d*ee*p   Energetic Ruling power, executive and creative force in its expansion   Spiritual Divine Mother, Divine Energy, Shakti, Mahamaya   Physical Left eye, left energy of the body, power of love   Psychological Creative vision, emotion, empathy   Yoga Imagination, visualization, devotional concentration, dharana   
@@ -118,7 +118,7 @@ Sound As in d*ee*p   Energetic Ruling power, executive and creative force in its
 
 The long Ī-vowel is phonetically represented by the sound ‘ee’. According to the Tantras, it is the expansion of the short-I vowel, intensifying will \(iccha\) into ruling power \(*Ī**íàna*\). It is called *Shakti bija*, the seed of Shakti or *Maya bija*, the seed of Maya, as it shows the creative will in its extension.
 
-As the short-I vowel represents Ishvara or the cosmic lord, the long Ī-vowel represents *Ishvara Shakti*, the Divine creative, originative and executive power, the Divine Mother. This is why so many Shakti or Goddess mantras have this sound \(note *Hrãæ*, *Krãæ*, *Klãæ*, *Strãæ*\). It magnifies the electrical energy of the short I-sound.
+As the short-I vowel represents Ishvara or the cosmic lord, the long Ī-vowel represents *Ishvara Shakti*, the Divine creative, originative and executive power, the Divine Mother. This is why so many Shakti or Goddess mantras have this sound \(note *Hrãṁ*, *Krãṁ*, *Klãṁ*, *Strãṁ*\). It magnifies the electrical energy of the short I-sound.
 
 It is also called *Shanti-bija* or the ‘sound of peace’ because its forces bring unity, homogeneity and harmony to all things. It is said to be *Vishnu bija *as the power of the creator Vishnu. It is said to be the lotus because it holds the lines of all manifestation. It is said to pervade all things, like the current of energy \(I\) flowing in space \(A\).
 
@@ -130,7 +130,7 @@ At a physical level, the long Ī-vowel awakens our higher prana, stimulating the
 Sound As in fl*u*te   Energetic Vibration, work, effort, action, development, progression   Spiritual Expansive force and penetrating power, ascending to new dimensions   Physical Right ear, hearing, audio-perception, circulation of energies   Psychological Intuition, prana, comprehension, mental grasp   Yoga Perceptive listening, knowledge, peripheral awareness, learning, formless meditation, meditation on the void   
 
 
-The letter-U represents vibration or nada. It shows the opening of the creative force \(*Unmeìa*\) into the external world. As the letter-I represents the Divine will power holding the seed of creation, the letter-U represents the Divine force unfolding, blossoming or blooming and setting forth the pattern of creation, allowing the worlds to arise and take shape like a blowing of bubbles. It adds depth, dimension and form to the initial creative direction of the letter-I. The letter-I is the concentration of energies behind creation, U is the expansion of creative energies which follows.
+The letter-U represents vibration or nada. It shows the opening of the creative force \(*Unmeṣa*\) into the external world. As the letter-I represents the Divine will power holding the seed of creation, the letter-U represents the Divine force unfolding, blossoming or blooming and setting forth the pattern of creation, allowing the worlds to arise and take shape like a blowing of bubbles. It adds depth, dimension and form to the initial creative direction of the letter-I. The letter-I is the concentration of energies behind creation, U is the expansion of creative energies which follows.
 
 The vowel-U has a circular and expanding effect, just as its pronunciation by the opening of the lips, and projects things into manifestation. It establishes a field in which energies are both sustained and protected; its round vibration creating the spheres, lokas or world systems. It projects the labial group of sounds \(those made with the lips\) and the consonants beginning with the sound-Pa.
 
@@ -140,7 +140,7 @@ As the letter-A is the Absolute and the letter-I is the Creative Will and execut
 
 At a physical level, the letter-U helps us improve work and effort, granting us strength, resistance and durability. At a psychological level, it grants similar qualities and gives us an emotional power and reliance. Spiritually, the letter-U allows us to apply our energy into our practices and open up new fields of discovery.
 
-**R ****– The Long Vowel *****Ï***
+**R** **– The Long Vowel *****Ï***
 
 **The Wave, the Vibratory Field**
 Sound As in shoot   Energetic Vibration, music, nada   Spiritual Field of Divine force and action, development, transformation   Physical Left ear, creative hearing, intuition   Psychological Receptivity, openness, emotional vulnerability   Spiritual Receptive listening, opening of the mind and heart, listening to the inner sounds or nada   
@@ -158,7 +158,7 @@ Sanskrit recognizes two special vowel forms of the letters R and L and their sho
 
 Adding these to the three pure vowels A, I, and U, it provides the Sanskrit language with five prime vowels. The vowel-*Ê *is the root of the cerebral series of sounds. The vowel-*Ä *creates the dental series. These vowels are the seeds of their semi-vowel forms, which are the letters that we usually know by these sounds. These two letters also exist in short and long forms, though the long forms are even rarer in their occurrence.
 
-**W****, ****Ø ****–The Soft or Vowel Sound *****R***
+**W****,** **Ø ****–The Soft or Vowel Sound *****R***
 
 This is the soft or unrolled Ŗ, while the consonant Ŗ is the rolled form. You experience it on the top of the mouth. The transliterated form of this letter is an R with a dot below it \(Ŗ\).
 Sound Soft and unrolled R \(as in macab*re*\), often followed by a short-i sound   Energetic Fire, color, light, warmth   Spiritual Dharma, Cosmic Law, principle order; Divine Father as ruler of Heaven   Physical Nostrils, prana, motivation   Psychological Mind, intellect, perception, judgment   Yoga Heating forms of pranayama, solar energy, judgment, discrimination   
@@ -184,31 +184,31 @@ There is a long vowel of this vowel \(Ļ\) but rarely used and not significantly
 
 The four Sanskrit compound vowels \(diphthongs\) reflect the meanings of the two shorter vowels that they are composed of. They are commonly used in Sanskrit mantras.
 
-**h ****– The Vowel *****E***
+**h** **– The Vowel *****E***
 
 The Sanskrit E-vowel is composed of the combination of the Sanskrit sound-A and the sound-I and combines their meanings. It is called Yoni Bija, meaning the womb or the source of all. It indicates unity, eka. It shows the state of all primal forces in their original condition of unity before manifestation, in which their differentiation is implicit but not yet evident.14 It is connected to the feminine principle as the premanifestation phase of Shakti.
 Sound Like the long vowel-a as in c*a*ke   Energetic Unity, union, descending creative energy   Spiritual Seed state of forces; the Divine Mother getting ready to create   Physical Upper lip, initial phase of speaking   Psychological Feeling, balance, harmony, receptivity   Yoga Devotion, concentration, reintegration   
 
 
-***: ******– The Vowel ******AI***
+***:** ****– The Vowel ******AI***
 
-After *Oæ*, *Aiæ *is the most important of all the mantras. While *Oæ *represents unmanifest speech or prana, *Aiæ *represents manifest speech in its seed form. *Aiæ *develops the focus, direction, vision and knowledge of the I-dimension of sound to its fullest extent. It electrifies the mind and speech for knowledge, teaching and creative expression. As such, *Aiæ *is the Mantra of Adya Shakti or the Supreme Feminine power and helps invoke that power and grace within us. It shows the concentration of energies prior to their full manifestation. We will examine it in detail under Shakti mantras.
+After *Oṁ*, *Aiṁ *is the most important of all the mantras. While *Oṁ *represents unmanifest speech or prana, *Aiṁ *represents manifest speech in its seed form. *Aiṁ *develops the focus, direction, vision and knowledge of the I-dimension of sound to its fullest extent. It electrifies the mind and speech for knowledge, teaching and creative expression. As such, *Aiṁ *is the Mantra of Adya Shakti or the Supreme Feminine power and helps invoke that power and grace within us. It shows the concentration of energies prior to their full manifestation. We will examine it in detail under Shakti mantras.
 Sound As in the word ‘*ai*sle’   Energetic Focus, expression, motivation, calling   Spiritual Intelligence and creativity in manifestation, guiding intelligence   Physical Lower lip, tongue; improves flow of energy in the head, mouth and lungs   Psychological Mind, intellect and creative intelligence   Yoga Mantra Yoga, concentration, teaching, counseling   
 
 
-**i ****– The Vowel *****O***
+**i** **– The Vowel *****O***
 
-*Oæ *is probably the most famous and most important of the Sanskrit mantras. It is said to be the Word of God, the Word of the Guru, Atman, and Ishvara. It represents both the manifest and the unmanifest Brahman. It causes our energy to open, expand, ascend and unify. We will examine it more specifically under Shakti mantras.
+*Oṁ *is probably the most famous and most important of the Sanskrit mantras. It is said to be the Word of God, the Word of the Guru, Atman, and Ishvara. It represents both the manifest and the unmanifest Brahman. It causes our energy to open, expand, ascend and unify. We will examine it more specifically under Shakti mantras.
 Sound Like the o in ‘yoke’   Energetic Shiva energy manifest and unmanifest, affirmative, ascending   Spiritual Universal ruling power, guiding and expanding force   Physical Upper jaw, prana, mouth; opens the prana in the head and spine   Psychological Clears the mental and emotional field, connects mind and higher Self   Yoga Knowledge, devotion, unity, pranayama, energizes all the Yogas   
 
 
-**; ****– The Vowel *****AU***
+**;** **– The Vowel *****AU***
 
-*Auæ *creates the most complete manifestation of the vowels. It takes the primal-A sound and expands it to its fullest extent with the open long-U sound. *Oæ *and *Auæ *are similar. *Auæ *is just an extension of the *Oæ *energy, giving it more energy. It is said to relate to the Adi Purusha or the prime cosmic masculine energy, having a power to fill, pervade and transcend.
+*Auṁ *creates the most complete manifestation of the vowels. It takes the primal-A sound and expands it to its fullest extent with the open long-U sound. *Oṁ *and *Auṁ *are similar. *Auṁ *is just an extension of the *Oṁ *energy, giving it more energy. It is said to relate to the Adi Purusha or the prime cosmic masculine energy, having a power to fill, pervade and transcend.
 Sound As in ‘*ou*t’   Energetic Full expansion of Divine energy and consciousness   Spiritual Shiva principle in full expression pervading the universe   Physical Lower teeth and jaw, primary prana of mouth and face in full expression   Psychological Expansive aspect of mind and prana   Yoga Promotes contemplation, affirmation, pranayama, samadhi   
 
 
-**e8‰ e7 ****– Anusvara and Visarga, *****Aæ, Aâ***
+**e8‰ e7 ****– Anusvara and Visarga, *****Aṁ, Aâ***
 
 **The Primal Energies of Contraction and Expansion**
 
@@ -216,13 +216,13 @@ Most Sanskrit bija mantras end with Anusvara, which allows their sounds to vibra
 
 Anusvara is often an extension of the primal short A-vowel sound and has the same general range of indications in Tantric thought. It allows all other sounds to merge into the pure essence of sound at the top of the head, the A-sound of the Absolute, Brahman. It is said to be the Shiva-bindu or the ‘point of Shiva’ that merges the entire universe back into pure unity. It is often related to the mind and the Moon. Visarga is often connected to the long-A vowel in terms of its range of meanings.
 
-In addition, it is used by itself as the mantra ‘*aâ*’, which stands for the Self \(aham\), Prana, the Sun and the day. It gives light and power and connects with our inner being and source of energy and vitality. It is only used with a few mantras like *Sauâ, Íriâ, Hrãâ*, as well as *Namaâ *for giving additional expressive or creative energy to them. It imparts Shakti to sounds as manifest power.
+In addition, it is used by itself as the mantra ‘*aâ*’, which stands for the Self \(aham\), Prana, the Sun and the day. It gives light and power and connects with our inner being and source of energy and vitality. It is only used with a few mantras like *Sauâ, Śriâ, Hrãâ*, as well as *Namaâ *for giving additional expressive or creative energy to them. It imparts Shakti to sounds as manifest power.
 
-**Anusvara, *****Aæ***
-Sound Final nasal sound as in Oæ, drawing in of a sound and merging it into the mind   Energetic Holding, harmonizing, internalizing, dissolving within   Spiritual Mergence in the Deity, Being or the Absolute, Shiva   Physical Head, top of the head, upper palate   Psychological Mind, deep feeling, profound knowing   Yoga Promotes contemplation, mergence, internalization, detachment, samadhi   
+**Anusvara,** ***Aṁ***
+Sound Final nasal sound as in Oṁ, drawing in of a sound and merging it into the mind   Energetic Holding, harmonizing, internalizing, dissolving within   Spiritual Mergence in the Deity, Being or the Absolute, Shiva   Physical Head, top of the head, upper palate   Psychological Mind, deep feeling, profound knowing   Yoga Promotes contemplation, mergence, internalization, detachment, samadhi   
 
 
-**Visarga, *****Aâ***
+**Visarga,** ***Aâ***
 Sound Soft-H as in Namaâ , release of sound through exhalation   Energetic Releasing, expanding, expressing generating energy   Spiritual Higher Self in transcendence, first pranic manifestation, Shakti   Physical Face, forehead, lower palate   Psychological Outgoing or expanding energy and self-expression, ego, prana   Yoga Promotes meditation, Self-inquiry, awareness of original prana   
 * * *
 
@@ -250,10 +250,10 @@ Sound Soft-H as in Namaâ , release of sound through exhalation   Energetic Rele
 
 12 Note Abhinavagupta's Tantrasara, third chapter, where he refers to the Shambhava Upaya.
 
-13 Two key Sanskrit words for the meaning of the vowel-Ê are Êtam, meaning truth, particularly harmony and order in the cosmic manifestation, and Êìi or seer, one who has the knowledge and energy of that truth.
+13 Two key Sanskrit words for the meaning of the vowel-Ê are Êtam, meaning truth, particularly harmony and order in the cosmic manifestation, and Êṣi or seer, one who has the knowledge and energy of that truth.
 
 14 It represents the dimension of will \(i or iccha\) as further brought into existence. Note the progression: short-vowel-I or will, long-vowel-I as ruling power, diphthong ai as majesty.
 
-15 For example, the mantra Sau, which can be either Sauæ or Sauâ. Sauâ is most common and is used to project energy or Shakti as well as the power of Soma.
+15 For example, the mantra Sau, which can be either Sauṁ or Sauâ. Sauâ is most common and is used to project energy or Shakti as well as the power of Soma.
 
 

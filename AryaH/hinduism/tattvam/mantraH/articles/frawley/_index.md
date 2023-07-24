@@ -3,9 +3,7 @@ title = "+Frawley"
 
 +++
 
-**Mantra Yoga and Primal Sound**
-
-**Secrets of Seed \(Bija\) Mantras**
+**Mantra Yoga and Primal Sound Secrets of Seed (Bija) Mantras**
 
 By
 

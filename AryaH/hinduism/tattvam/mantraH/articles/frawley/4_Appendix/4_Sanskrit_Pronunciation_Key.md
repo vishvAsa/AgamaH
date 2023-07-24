@@ -21,7 +21,7 @@ h - *e*, as c*a*me
 : - *ai*, as in wh*y*  
 i - *o*, as in y*o*ke  
 ; - *au*, as in *ou*ch  
-e0 - *aæ*, nasal mmm  
+e0 - *aṁ*, nasal mmm  
 e7 - *aâ*, soft ha sound
 
 **2. Four Semivowels and Five Sibilants or Nine Intermediate Sounds – Ushma/Antahstha**
@@ -31,9 +31,9 @@ u - *ra*, r as in rich \(slight rolled r\)
 v - *la*, l as in laugh  
 w - *va*, v as in vat  
 5 - *ía*, as in ship  
-6 - *ìa*, as in shut  
+6 - *ṣa*, as in shut  
 x - *sa*, s as in sit  
-â - *kìa*, as in action  
+â - *kṣa*, as in action  
 y - *ha*, h as in hit
 
 **3. Twenty Five Consonants or Five Groups of Five**
@@ -51,7 +51,7 @@ l - *ca*, as in *ch*urch
 Z - *éa*, as in can*y*on
 
 2 - *îa*, t as in ar*t  
-*æ - *tâa*,as in ar*th*ouse  
+*ṁ - *tâa*,as in ar*th*ouse  
 3 - *áa*, d as in har*d  
 *ç - *dâa*, as in har*dh*at  
 4 - *ça*, n as in hor*n*
