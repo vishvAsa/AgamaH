@@ -63,11 +63,14 @@ title = "वैष्णवादि-भूत-शुद्धि-परम्�
 न सालग्रामे भूत-शुद्धिर् अपेक्ष्यते - विष्णोस् तत्र नित्य-सान्निध्यात्।  
 बाह्य-यागात् प्राग् हृद्-यागे निर्दिष्टे त्व् अवश्यम् अपेक्ष्यते।  
 
-कैश्चित् तु देवताराधनम् अन्तरापि स्वतन्त्रं ध्यानम् इव भूतशुद्धिर् इति क्रियते।[^स्था] यथा [^वाम] - 
+कैश्चित् तु देवताराधनम् अन्तरापि  
+स्वतन्त्रं ध्यानम् इव भूतशुद्धिर् इति क्रियते।[^स्था] यथा [^वाम] - 
 
 > Another important Mantra Pranayama method is to use the seed mantras of the five elements \(la, va, ra, ya, ha\).
 
-> If your inhalation is heavy and restricted, for example, you can repeat the air mantra *Yaṁ* or the ether mantra *Haṁ* to open it up. If your breathing overall is too fast and ungrounded, you can repeat the earth mantra *Laṁ* to slow down and stabilize it. If your breath is cold or damp, you can repeat the fire mantra *Raṁ* to warm it up. If it is too hot or dry, you can repeat the water mantra *Vaṁ* to cool and moisten it. If your inhalation is heavy and restricted, for example, you can repeat the air mantra *Yaṁ* or the ether mantra *Haṁ* to open it up. If your breathing overall is too fast and ungrounded, you can repeat the earth mantra *Laṁ* to slow down and stabilize it. If your breath is cold or damp, you can repeat the fire mantra *Raṁ* to warm it up. If it is too hot or dry, you can repeat the water mantra *Vaṁ* to cool and moisten it.
+भूतशुद्धेर् व्यस्त-प्रयोगा अपि वर्तन्ते, यथा [^वाम] - 
+
+> If your inhalation is heavy and restricted, for example, you can repeat the air mantra *Yaṁ* or the ether mantra *Haṁ* to open it up. If your breathing overall is too fast and ungrounded, you can repeat the earth mantra *Laṁ* to slow down and stabilize it. …
 
 [^स्था]: नेपाल-सर्वाम्नाय-तन्त्र-दीक्षित-स्थानेश्वरार्य-प्रेरितं भूतशुद्धिम् अधिकृत्य किञ्चन चित्रम्, यस्य पाठः [क्वचिद्](https://vishvAsa.github.io/AgamaH_shaivaH/meta/articles/sthAneshvaraH/bhUta-shuddhiH/) रक्षितः ।
 
