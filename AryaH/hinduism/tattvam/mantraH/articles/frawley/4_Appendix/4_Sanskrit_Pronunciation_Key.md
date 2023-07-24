@@ -10,13 +10,13 @@ These are some of the best English equivalent sounds possible, but note that the
 e - a, a as in *a*bout  
 P - *à*, a as in f*a*ther  
 f - *i*, i as in *i*t  
-Q - *ã *, as in s*e*at  
+Q - *ã* , as in s*e*at  
 g - *u*, u as in fl*u*te  
 R - *ï*, as in m*oo*d  
 W - *ê*, as in ac*re*  
-Ø - *ë*, same as *ê *but longer  
+Ø - *ë*, same as *ê* but longer  
 X - *ä*, as in table  
-v ¦ - *å*, same as *ä *but longer  
+v ¦ - *å*, same as *ä* but longer  
 h - *e*, as c*a*me  
 : - *ai*, as in wh*y*  
 i - *o*, as in y*o*ke  
@@ -38,7 +38,7 @@ y - *ha*, h as in hit
 
 **3. Twenty Five Consonants or Five Groups of Five**
 
-j - *ka*, *k *as in *k*it  
+j - *ka*,* k *as in *k*it  
 < - *kha*, as in bloc*kh*ead  
 k - *ga*, g as in *g*o  
 = - *gha*, dog*h*ouse  

@@ -33,7 +33,7 @@ The Sanskrit language is based upon a clear understanding of the science of soun
 The vowels, which are open sounds like the A-E-I-O-U of English. These are called svara in Sanskrit or ‘that which resonates’, as they are open sounds that can be drawn out.
 
 2. 
-The consonants, which contact based sounds like B, P or K in English. These are called *vyaéjana *in Sanskrit or ‘that which colors or articulates’. Consonants are closed sounds that are used to project the energy of the vowels in different directions.
+The consonants, which contact based sounds like B, P or K in English. These are called *vyaéjana* in Sanskrit or ‘that which colors or articulates’. Consonants are closed sounds that are used to project the energy of the vowels in different directions.
 
 3. 
 The ‘intermediate principle’ of the semi-vowels \(Y, R, L, V\) and sibilants \(S, SH, H-sounds\) that partake of the qualities of both vowels and consonants. They can be lengthened like vowels or combined with consonants in their pronunciation.
@@ -52,7 +52,7 @@ n‰ @‰ o‰ A‰ p   **Five Labial Consonants – **Pa-varga   Pa, Pha, Ba, B
 q‰ BÈ‰ r‰ C‰ s   
 
 
-Each type of sound has spiritual and yogic implications. Vowels represent consciousness, Spirit, the Shiva principle in Tantric thought, and the Indra principle in Vedic thought.4 Vowels are the essence of sound and vibration, continuous, independent and enduring in their resonance. You can take any vowel and intone it indefinitely. Many powerful Sanskrit seed mantras like *Oṁ *and *Aiṁ *are vowel predominant for this reason. They allow our energy to open, expand and ascend to higher levels.
+Each type of sound has spiritual and yogic implications. Vowels represent consciousness, Spirit, the Shiva principle in Tantric thought, and the Indra principle in Vedic thought.4 Vowels are the essence of sound and vibration, continuous, independent and enduring in their resonance. You can take any vowel and intone it indefinitely. Many powerful Sanskrit seed mantras like *Oṁ* and *Aiṁ* are vowel predominant for this reason. They allow our energy to open, expand and ascend to higher levels.
 
 Opposite in nature to vowels, consonants represent matter or nature, Prakriti or the Shakti principle through which all manifestation arises.5 Consonants serve to focus the pure sound quality of the vowels into particular forms or directions. Consonants are contact based and require a vowel in order to express them. Try pronouncing a word that consists of consonants only. It is not possible. While consonants allow for a definitive expression, they also create illusion as sound becomes limited. While vowels represent eternal powers, consonants are the forms which manifest in the limited field of time, though they can reflect higher qualities.
 
@@ -110,15 +110,15 @@ The aspirated forms of the consonants are the hardest for English speaking peopl
 
 Sanskrit semi-vowels are equivalent to the English letter, Y, R, L, V. Ya derives from the vowel-I and is palatal in nature. Ra is cerebral and is a hard rolled r-sound, a bit like the Spanish-r, as opposed to the soft unrolled r-vowel. La is dental, made with the tongue hitting the back of the teeth. Va is labial or made with the lips \(usually pronounced like an English-w when it occurs after another consonant\).
 
-In the Tantras, the semivowel mantras of *Laṁ, Vaṁ, Raṁ *and *Yaṁ *relate to the four cosmic elements of Earth, Water, Fire and Air. The rule is that the semi-vowels govern the elements because the elements mediate between the formless realm of Spirit \(vowels\) and the formed realm of matter \(consonants\).
+In the Tantras, the semivowel mantras of *Laṁ, Vaṁ, Raṁ *and* Yaṁ *relate to the four cosmic elements of Earth, Water, Fire and Air. The rule is that the semi-vowels govern the elements because the elements mediate between the formless realm of Spirit \(vowels\) and the formed realm of matter \(consonants\).
 
 You will notice that you can hold the sibilant sounds H, S or Sh almost indefinitely like a vowel. You can hold the S-sound, like a hissing sound, longer than other consonants. Sibilants are usually placed in the same intermediate series of sounds as the semi-vowels, though sometimes they form a separate fourth category.
 
-The sibilants are of the same nature as the breath and can be equated with Prana and its manifestations. They have more versatility in their combinations than other consonants. Sa is a dental sound, made by the tongue behind the teeth. *Ṣa *is a cerebral sound \(like Vishnu\) or the English word ‘ship’. *Śa *is a palatal sound \(like Shiva\) or the English word ‘shut’. *Kṣa *is a guttural sound combining Ka and *Ṣa*. Ha is as in the English letter-H. Though a sibilant, *Haṁ *is also said to govern the element of Ether and is used along with the semi-vowels for the chakras, though elsewhere it is connected to prana.
+The sibilants are of the same nature as the breath and can be equated with Prana and its manifestations. They have more versatility in their combinations than other consonants. Sa is a dental sound, made by the tongue behind the teeth. *Ṣa* is a cerebral sound \(like Vishnu\) or the English word ‘ship’. *Śa* is a palatal sound \(like Shiva\) or the English word ‘shut’. *Kṣa* is a guttural sound combining Ka and *Ṣa*. Ha is as in the English letter-H. Though a sibilant, *Haṁ* is also said to govern the element of Ether and is used along with the semi-vowels for the chakras, though elsewhere it is connected to prana.
 
 ## Turning the Alphabet into Mantras
 
-A final *ṁ*-sound, the Anusvara, is added to each of these letters to make the Sanskrit letters into seed mantras like *Aiṁ*. In the case of consonants, semi-vowels and sibilants, the short a-vowel is added as well, like *Kaṁ, Yaṁ *or *Saṁ*. It is possible to recite the letters without the final Anusvara, but it is less common in the case of mantric usage. That is why in the following chapters the letters will usually be represented with the Anusvara. The Anusvara helps to draw the sound of the letter deeper into the head and into the mind.
+A final *ṁ*-sound, the Anusvara, is added to each of these letters to make the Sanskrit letters into seed mantras like *Aiṁ*. In the case of consonants, semi-vowels and sibilants, the short a-vowel is added as well, like *Kaṁ, Yaṁ *or* Saṁ*. It is possible to recite the letters without the final Anusvara, but it is less common in the case of mantric usage. That is why in the following chapters the letters will usually be represented with the Anusvara. The Anusvara helps to draw the sound of the letter deeper into the head and into the mind.
 
 * * *
 

@@ -35,7 +35,7 @@ Mantra is an important method of pratyahara or internalization of our energy. Th
 
 Focusing on a particular mantra – particularly holding to a bija mantra – is one of the main methods of dharana or yogic concentration. Continuously directing the mantra to a particular location like the tip of the nose or to a particular chakra turns it into a dharana practice. Very helpful in this regard is ‘Mantra Drishti’ or the gaze of the mantra, in which one concentrates one’s gaze along with the mantra, particularly on sites in the body like the heart, the third eye, the navel or the base of the spine. As asana controls the body and pranayama controls the breath, so mantra controls the mind, not artificially but through a natural development of energy and attention. Mantra maintains the strength and integrity of our mental field, so that the mind no longer wanders off or loses its composure. Mantra sustains the proper circulation of energies in the sphere of the mind, so that we are no longer vulnerable to external conditioning which, after all, is based largely on reactive patterns of words and names.
 
-Just as asanas place the body in a calm and relaxed state, so mantras puts the mind into a steady and relaxed state for meditation. For example, repeating the mantra *Oṁ *has the same calming and uplifting affect upon the mind and heart that the lotus pose does for the body.
+Just as asanas place the body in a calm and relaxed state, so mantras puts the mind into a steady and relaxed state for meditation. For example, repeating the mantra *Oṁ* has the same calming and uplifting affect upon the mind and heart that the lotus pose does for the body.
 
 ## Mantra Meditation
 
@@ -66,11 +66,11 @@ Mantra is probably the main practice that characterizes Yoga as a whole and its 
 
 *Bhakti Yoga*, the Yoga of devotion, centers on chanting, singing and the internal repetition of Divine names like *Namaâ Śivàya *or the *Hare Kêṣça *mantra are the best means of developing deep devotion and Divine love. In fact, the word of the heart is always mantra\!
 
-*Jnana Yoga*, the Yoga of knowledge, focuses on prime Atmic or Self-revealing mantras like *So**’**haṁ*, ‘He am I” or the great sayings \(Mahavakyas\) of Vedantic philosophy. *Oṁ *is also important as the sound of the Self.4 Such mantras are the foundation for the meditation and Self-inquiry practices that characterize Jnana Yoga practice.
+*Jnana Yoga*, the Yoga of knowledge, focuses on prime Atmic or Self-revealing mantras like *So**’**haṁ*, ‘He am I” or the great sayings \(Mahavakyas\) of Vedantic philosophy. *Oṁ* is also important as the sound of the Self.4 Such mantras are the foundation for the meditation and Self-inquiry practices that characterize Jnana Yoga practice.
 
 *Karma Yoga* involves an extensive performance of rituals, like pujas and yajnas, all of which have their accompanying mantras to empower and sanctify them. It includes various forms of service \(seva\) to others, which are best performed while repeating a mantra. Unless the mind is engaged inwardly in mantra, one may not be effectively practicing Karma Yoga even when performing service.
 
-*Hatha Yoga* and Tantric Yoga use pranic mantras like *Hïṁ *to arouse the Kundalini and open the chakras. The fifty main Sanskrit letters form the petals of the chakras and serve to energize them. The Kundalini Shakti or inner power of Yoga is said to be composed of the letters or sounds of the Sanskrit alphabet and is primarily a higher mantric force.5 Kundalini is an electrical energy of speech at a deeper level of consciousness.
+*Hatha Yoga* and Tantric Yoga use pranic mantras like *Hïṁ* to arouse the Kundalini and open the chakras. The fifty main Sanskrit letters form the petals of the chakras and serve to energize them. The Kundalini Shakti or inner power of Yoga is said to be composed of the letters or sounds of the Sanskrit alphabet and is primarily a higher mantric force.5 Kundalini is an electrical energy of speech at a deeper level of consciousness.
 
 The practice of Yoga usually begins with the chanting of mantras, which may be mantras to the guru, to the aspect of the Divine one worships, or to the higher Self in order to create the proper atmosphere for teaching, or mantras to sanctify the ground on which one sits. Mantra grants sanctity and concentration to Yoga, which otherwise easily descends into another form of physical exercise or a seeking of personal empowerment.
 
@@ -100,7 +100,7 @@ This Vedic Mantra Yoga is still accessible to us through learning Vedic chanting
 
 ## Tantric Mantra Yoga
 
-Mantra is the prime practice of Tantric Yoga, particularly the use of bija mantras or single syllables like *Oṁ*, *Hrãṁ *or *Śrãṁ*. As Tantra consists of devotional worship of various Gods and Goddesses, particularly Shiva and the Devi, the name mantras and bijas of these deities have an important role within it. In Tantra, the mantra is the sound form of the deity that reveals its inner truths. Tantric texts contain many teachings on mantra and reveal many powerful mantras for all aspects of life.
+Mantra is the prime practice of Tantric Yoga, particularly the use of bija mantras or single syllables like *Oṁ*,* Hrãṁ *or* Śrãṁ*. As Tantra consists of devotional worship of various Gods and Goddesses, particularly Shiva and the Devi, the name mantras and bijas of these deities have an important role within it. In Tantra, the mantra is the sound form of the deity that reveals its inner truths. Tantric texts contain many teachings on mantra and reveal many powerful mantras for all aspects of life.
 
 Mantra is the Shakti, the Yogini or inner power of Tantric Yoga. Indeed Tantra is largely synonymous with mantra. Mantra is the teaching of Tantra, which is the inner technology of mantra. Most of the teaching in this book will be based upon Tantric Mantra Yoga approaches.
 

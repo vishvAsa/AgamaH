@@ -11,9 +11,9 @@ The *I*-vowels for the right and left eye probably best relate to the Apanga mar
 
 The vowel-*Ê *sounds relate to the Phana marmas at the outside corner of the nostrils. The vowel-*Ä *sounds seem best to relate to the Shringataka marmas on central cheek bones, which are the main marma in their region of the cheeks.
 
-The *E *and *Ai *vowels relate to the points above and below the center of the lips. The *O *and *Au*-vowels relate to the points above and below the center of the front teeth. These are not classical marmas but are points that we can easily identify.
+The *E* and *Ai* vowels relate to the points above and below the center of the lips. The *O* and *Au*-vowels relate to the points above and below the center of the front teeth. These are not classical marmas but are points that we can easily identify.
 
-The *Aṁ *and *Aâ*-vowels are often related to the short and long A-vowels in terms of their locations and indications. In the Mantra Yoga Samhita, they relate to the upper and lower region of the palate at the back of the mouth, which would make more sense in the sequence.
+The *Aṁ* and *Aâ*-vowels are often related to the short and long A-vowels in terms of their locations and indications. In the Mantra Yoga Samhita, they relate to the upper and lower region of the palate at the back of the mouth, which would make more sense in the sequence.
 
 The twenty consonants for the arms and legs have clear marma correspondences, as they relate primarily to the joints. The mantras on the arms correspond to the joints of the arm, elbow and wrist. The shoulder mantras can be related to various shoulder marmas, mainly Kakshadhara, the main shoulder marma. The elbows and wrist have their own specific marmas, Kurpara and Manibandha.
 
@@ -23,15 +23,15 @@ The mantras on the legs correspond in the same way as those of the arms, first t
 
 The semivowels have three levels of relationships to our physiology. The first is relative to the tissues \(dhatus\). The second is relative the chakras. The third is relative the region of the chest around the heart. These can be related to different marma points.
 
-For the chakras, we can use the respective chakra mantras for the points of the chakras along the spine: *Laṁ *for the base of the spine, *Vaṁ *for the region of the spine opposite the root of the reproductive organs, *Raṁ *for the region of the spine opposite the navel, *Yaṁ *for the region of the spine opposite the heart. We can also use these spinal points for the respective tissues that these sounds relate to \(*Yaṁ *and plasma etc.\).
+For the chakras, we can use the respective chakra mantras for the points of the chakras along the spine: *Laṁ* for the base of the spine, *Vaṁ* for the region of the spine opposite the root of the reproductive organs, *Raṁ* for the region of the spine opposite the navel, *Yaṁ* for the region of the spine opposite the heart. We can also use these spinal points for the respective tissues that these sounds relate to \(*Yaṁ *and plasma etc.\).
 
-Relative to the region around the heart in the front of the body, *Yaṁ *corresponds to the heart itself, *Raṁ *to the region to the right of the heart and the right nipple, and *Vaṁ *to the left of the heart and the left nipple. *Laṁ *may correspond to the region below the heart, perhaps to the base of the sternum, though it is usually connected to the energy flow from the heart to the top of the soft palate of the mouth.
+Relative to the region around the heart in the front of the body, *Yaṁ* corresponds to the heart itself, *Raṁ* to the region to the right of the heart and the right nipple, and *Vaṁ* to the left of the heart and the left nipple. *Laṁ* may correspond to the region below the heart, perhaps to the base of the sternum, though it is usually connected to the energy flow from the heart to the top of the soft palate of the mouth.
 
 The sibilants have several levels of correspondence. Like the semi-vowels, they correspond to the tissues and to the heart, but they relate more to energy flows or channels from the heart than to single locations. We can relate them to the marmas in the palms of the hand and soles of the feet where their respective energy flows end.
 
-For *Śaṁ *from the heart to the right hand, we can use the right Talahridaya marma on the center of the right hand. For *Ṣaṁ *that relates to the heart to the left hand, we can use the left Talahridaya marma on the center of the left hand. For *Saṁ *that relates to the flow from the heart to the right foot, we can use the right Talahridaya marma on the center of the sole of the right foot. For *Haṁ *that relates to the flow from the heart to the left foot, we can use the left Talahridaya marma on the center of the soul of the left foot.
+For *Śaṁ* from the heart to the right hand, we can use the right Talahridaya marma on the center of the right hand. For *Ṣaṁ* that relates to the heart to the left hand, we can use the left Talahridaya marma on the center of the left hand. For *Saṁ* that relates to the flow from the heart to the right foot, we can use the right Talahridaya marma on the center of the sole of the right foot. For *Haṁ* that relates to the flow from the heart to the left foot, we can use the left Talahridaya marma on the center of the soul of the left foot.
 
-Some of the sibilants have additional correspondences to the chakras, *Haṁ *for the region of the spine opposite the neck, if not for the front base of the neck itself, and *Kṣaṁ *for the region of the spine opposite the third eye.
+Some of the sibilants have additional correspondences to the chakras, *Haṁ* for the region of the spine opposite the neck, if not for the front base of the neck itself, and *Kṣaṁ* for the region of the spine opposite the third eye.
 
 Relative to usage, one can chant the appropriate Mantra Purusha sound relative to the respective marma. This can be combined along with touching the point, directing one's prana there and holding one's attention there \(dharana\). The Marma Mantras serve to activate the mind or spirit of the marma and link prana, mind, marma and body. Their effects will reflect the general qualities and energetics of the particular marmas and mantras used.
 

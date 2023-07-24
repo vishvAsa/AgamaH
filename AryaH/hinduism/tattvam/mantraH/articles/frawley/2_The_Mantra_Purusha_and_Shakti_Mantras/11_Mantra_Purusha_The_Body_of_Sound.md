@@ -21,9 +21,9 @@ The twenty five consonants relate to the main joints on the arms and legs \(five
 The nine semivowels and sibilants relate to the tissues and primary constituents of the body, from the plasma to the mind.
 
 
-****
+
 **Mantra Purusha – Basic Form**   **Head**   Aṁ Top of head Àṁ Forehead   Iṁ Right eye Ãṁ Left eye   Uṁ Right ear Ïṁ Left ear   Êṁ Right nostril Ëṁ Left nostril   Äṁ Right cheek Åṁ Left cheek   Eṁ Upper lip Aiṁ Lower lip   Oṁ Upper teeth Auṁ Lower teeth   Aṁ Upper palate Aâ Lower palate   **Arms**   Kaṁ Right shoulder Caṁ Left shoulder   Khaṁ Right elbow Chaṁ Left elbow   Gaṁ Right wrist Jaṁ Left wrist   Ghaṁ Right base of fingers Jhaṁ Left base of fingers   Èaṁ Right finger tips Éaṁ Left finger tips   **Legs**   Îaṁ Right leg Taṁ Left leg   Tâaṁ Right knee Thaṁ Left knee   Áaṁ Right ankle Daṁ Left ankle   Dâaṁ Right base of toes Dhaṁ Left base of toes   Çaṁ Right tip of toes Naṁ Left tip of toes   **Abdomen**   Paṁ Right abdomen   Phaṁ Left abdomen   Baṁ Lower back   Bhaṁ Navel   Maṁ Lower abdomen   **Tissues**   Yaṁ Plasma Raṁ Blood   Laṁ Muscle Vaṁ Fat   Śaṁ Bone Ṣam Ner ve tissue   Saṁ Reproductive tissue Haṁ Prana   Kṣaṁ Mind     
-****
+
 
 ## Mantra Regions and Marma Points
 

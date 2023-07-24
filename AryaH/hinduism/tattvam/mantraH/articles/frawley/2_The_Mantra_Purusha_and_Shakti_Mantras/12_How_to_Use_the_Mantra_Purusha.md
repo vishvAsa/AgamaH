@@ -15,9 +15,9 @@ Mantra Purusha sounds work on their respective organs and body parts. If we wish
 
 We can use the mantra points on the head to improve their related functions through the mind and senses. We can use the Mantra points on the arms and legs to treat their respective joints. We can use the Mantra points on the abdomen and chest to strengthen the corresponding internal organs.
 
-For example, the Mantra *Aṁ *can be repeated while focusing on the point at the top of the head in order to strengthen our primary prana, sense of Self and power of deeper awareness. The mantra *Iṁ *can be used to strengthen the eyes, the sense of sight and our power of perception, judgment and discrimination. The mantra *Uṁ *can be used to improve our inner and outer sense of hearing, receptivity and overall comprehension. We can use the long form of the vowels to target the left side of the body. We can also use them to address the powers of the mantra location overall because *the long forms of the vowels create stronger resonance*. For example, we can use the long vowel *Ãṁ *to strengthen the sense of vision overall.
+For example, the Mantra *Aṁ* can be repeated while focusing on the point at the top of the head in order to strengthen our primary prana, sense of Self and power of deeper awareness. The mantra *Iṁ* can be used to strengthen the eyes, the sense of sight and our power of perception, judgment and discrimination. The mantra *Uṁ* can be used to improve our inner and outer sense of hearing, receptivity and overall comprehension. We can use the long form of the vowels to target the left side of the body. We can also use them to address the powers of the mantra location overall because *the long forms of the vowels create stronger resonance*. For example, we can use the long vowel *Ãṁ* to strengthen the sense of vision overall.
 
-The mantra *Kaṁ *can be used to strengthen the right shoulder, arm, overall strength of the body and power of action. The mantra *Caṁ *can be used to strengthen the left shoulder, arm, overall responsiveness of the body and power of emotion. The same logic can be extended to all the bodily parts, organs and tissues represented by the Mantra Purusha sounds.
+The mantra *Kaṁ* can be used to strengthen the right shoulder, arm, overall strength of the body and power of action. The mantra *Caṁ* can be used to strengthen the left shoulder, arm, overall responsiveness of the body and power of emotion. The same logic can be extended to all the bodily parts, organs and tissues represented by the Mantra Purusha sounds.
 
 ## Mantra Purusha and Asana Practice
 
@@ -45,7 +45,7 @@ Oṁ Aṁ Top of head Oṁ Àṁ Middle of forehead   Oṁ Iṁ Right eye Oṁ �
 
 ## Mantra Purusha and Pranayama
 
-We can use the Mantra Purusha sounds to hold the prana at their respective locations. For example, one can repeat the mantra *Ãṁ *along with the breath in order to bring the prana into the eyes. Or, one can repeat the mantra *Kaṁ *along with the breath, while focusing on the right shoulder, to bring more energy into that location. The same principle can be extended to all Mantra Purusha sounds and their respective locations. In addition, we will examine mantra and pranayama in a separate chapter, and show how to use the sibilants and semivowels relative to the breath in order to modify its energies.
+We can use the Mantra Purusha sounds to hold the prana at their respective locations. For example, one can repeat the mantra *Ãṁ* along with the breath in order to bring the prana into the eyes. Or, one can repeat the mantra *Kaṁ* along with the breath, while focusing on the right shoulder, to bring more energy into that location. The same principle can be extended to all Mantra Purusha sounds and their respective locations. In addition, we will examine mantra and pranayama in a separate chapter, and show how to use the sibilants and semivowels relative to the breath in order to modify its energies.
 
 ## Mantra Purusha and Pratyahara
 
@@ -55,11 +55,11 @@ We can use the Mantra Purusha sounds to withdraw the mind and prana to the locat
 
 We can use the Mantra Purusha sounds to hold the mind at their respective locations. This requires that we have developed a power of attention already. If we have done this, the Mantra Purusha sounds can be very important dharana locations. Holding our attention will stabilize the prana at the locations we focus on. This can be more easily done if we use the gaze to direct our attention, directing the vision to these points inwardly \(not necessarily looking at them outwardly\!\).
 
-For example, one can use the sound *Aṁ *to hold one’s attention at the top of the head, to link and stabilize our body and awareness in the Absolute. Or one can hold the attention at any point that one wants to improve, like using a dharana of the mantra *Kaṁ *to strengthen the right shoulder. Dharana of any Mantra Purusha point will bring healing energy to that location. For example, Dharana of the ears along with the mantra *Ïṁ *will help heal the ears and open up higher powers of hearing. Pranayama, pratyahara and dharana of these mantra points can go together for a stronger effect.
+For example, one can use the sound *Aṁ* to hold one’s attention at the top of the head, to link and stabilize our body and awareness in the Absolute. Or one can hold the attention at any point that one wants to improve, like using a dharana of the mantra *Kaṁ* to strengthen the right shoulder. Dharana of any Mantra Purusha point will bring healing energy to that location. For example, Dharana of the ears along with the mantra *Ïṁ* will help heal the ears and open up higher powers of hearing. Pranayama, pratyahara and dharana of these mantra points can go together for a stronger effect.
 
-**Mantra Purusha with *****Namaâ*****, and *****Svàhà***
+**Mantra Purusha with *Namaâ*, and *Svàhà***
 
-We can add other mantras to the Mantra Purusha sounds to give them more power or to vary their effects. We can chant the Mantra Purusha mantras after *Oṁ *in order to clear and energize them. After the Mantra Purusha mantras, we can chant *Namaâ*, the mantra of consecration, in order to stabilize their energy or *Svàhà*, the mantra of energization, in order to stimulate it further. Examples:
+We can add other mantras to the Mantra Purusha sounds to give them more power or to vary their effects. We can chant the Mantra Purusha mantras after *Oṁ* in order to clear and energize them. After the Mantra Purusha mantras, we can chant *Namaâ*, the mantra of consecration, in order to stabilize their energy or *Svàhà*, the mantra of energization, in order to stimulate it further. Examples:
 
 • *Oṁ Aṁ Namaâ*, to stabilize the energy at the top of the head.  
 • *Oṁ Aṁ Svàhà*, to increase the energy at the top of the head.  
@@ -82,9 +82,9 @@ One method is to use a single Shakti mantra while reciting the entire Mantra Pur
 
 • *Hrãṁ Taṁ *\(left leg\), *Hrãṁ Thaṁ *\(left knee\), *Hrãṁ Daṁ *\(left ankle\), *Hrãṁ Dhaṁ *\(left base of toes\), *Hrãṁ Naṁ *\(left tip of toes\)
 
-• *Hrãṁ Paṁ *\(right abdomen\), *Hrãṁ Phaṁ *\(left abdomen\), *Hrãṁ Baṁ *\(lower back\), *Hrãṁ Bhaṁ *\(navel\), *Hrãṁ Maṁ *\(lower abdomen\)
+• *Hrãṁ Paṁ *\(right abdomen\), *Hrãṁ Phaṁ *\(left abdomen\), *Hrãṁ Baṁ *\(lower back\), *Hrãṁ Bhaṁ *\(navel\),* Hrãṁ Maṁ *\(lower abdomen\)
 
-• *Hrãṁ Yaṁ *\(plasma\), *Hrãṁ Raṁ *\(blood\), *Hrãṁ Laṁ *\(muscle\), *Hrãṁ Vaṁ *\(fat\), *Hrãṁ Śaṁ *\(bone\), *Hrãṁ Ṣam *\(nerve\), *Hrãṁ Saṁ *\(reproductive\), *Hrãṁ Haṁ *\(prana\), *Hrãṁ Kṣaṁ *\(mind\)
+• *Hrãṁ Yaṁ *\(plasma\),* Hrãṁ Raṁ *\(blood\),* Hrãṁ Laṁ *\(muscle\),* Hrãṁ Vaṁ *\(fat\),* Hrãṁ Śaṁ *\(bone\),* Hrãṁ Ṣam *\(nerve\),* Hrãṁ Saṁ *\(reproductive\),* Hrãṁ Haṁ *\(prana\),* Hrãṁ Kṣaṁ *\(mind\)
 
 In this practice, one brings the power of *Hrãṁ*, the Divine light and prana of the heart, to the entire body, filling the body with light. It is also possible to repeat each mantra more than once, for example, three times: *Hrãṁ Aṁ*, *Hrãṁ Aṁ*, *Hrãṁ Aṁ*; *Hrãṁ Àṁ*, *Hrãṁ Àṁ*, *Hrãṁ Àṁ*; *Hrãṁ Iṁ*, *Hrãṁ Iṁ*, *Hrãṁ Iṁ*, and so on through the entire alphabet and Mantra Purusha. This creates a stronger practice.
 
@@ -106,9 +106,9 @@ Another method is to focus on a single Shakti mantra relative to a particular po
 
 ## Mantra Purusha Kavacha
 
-A Kavacha is a special protective field created by the mantra, of which there is a great variety in yogic texts. The most common Shakti mantra for this purpose is *Hïṁ *because it reflects the power of protection and wards off negativity.
+A Kavacha is a special protective field created by the mantra, of which there is a great variety in yogic texts. The most common Shakti mantra for this purpose is *Hïṁ* because it reflects the power of protection and wards off negativity.
 
-One can use the *Hïṁ *mantra with each letter of the Mantra Purusha in order to create a protective shield around the body, strengthen the immune system and ward off negative emotions. This Mantra Purusha Kavacha is one of the longest and most powerful. For this, one focuses the mind or touches the particular bodily part while reciting the mantra.
+One can use the *Hïṁ* mantra with each letter of the Mantra Purusha in order to create a protective shield around the body, strengthen the immune system and ward off negative emotions. This Mantra Purusha Kavacha is one of the longest and most powerful. For this, one focuses the mind or touches the particular bodily part while reciting the mantra.
 
 *Oṁ Aṁ Hïṁ, Oṁ Àṁ Hïṁ, Oṁ Iṁ Hïṁ, Oṁ Ãṁ Hïṁ *and so on through the alphabet.
 
@@ -138,7 +138,7 @@ Whatever your primary or personal mantra may be, you can recite it relative to t
 
 In this way, you can use the power of your personal mantra to consecrate your entire being. Or you can direct your primary mantra specifically to certain locations in the body that you want to emphasize or that may be sites of pain or disease.
 
-The recitation of the alphabet is most commonly connected with the deities Ganesha, Sarasvati and Matangi, the Tantric form of Sarasvati, who is sometimes regarded as a female counterpart of Ganesha. For example, relative to Ganesha, one can chant his bija *Gaṁ *and his name relative to each letter and its Mantra Purusha correspondences.
+The recitation of the alphabet is most commonly connected with the deities Ganesha, Sarasvati and Matangi, the Tantric form of Sarasvati, who is sometimes regarded as a female counterpart of Ganesha. For example, relative to Ganesha, one can chant his bija *Gaṁ* and his name relative to each letter and its Mantra Purusha correspondences.
 
 *Gaṁ Aṁ Gaçeíàya Namaâ, Gaṁ Àṁ Gaçeíàya Namaâ, Gaṁ Iṁ Gaçeíàya Namaâ,* and so on throughout the alphabet.
 

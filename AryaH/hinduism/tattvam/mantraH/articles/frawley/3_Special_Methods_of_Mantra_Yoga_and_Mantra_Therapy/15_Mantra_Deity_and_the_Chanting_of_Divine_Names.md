@@ -15,11 +15,11 @@ Unfortunately, our society does not honor the name as sacred but uses it for exp
 
 Reciting Divine names is a way of awakening Divine qualities within ourselves. Ultimately, Being is One and all names are Divine names. Sanskrit is a language of Divine names. It shows how all sounds manifest from the Divine Word as a Self- revelation. Through Divine Names we can reclaim our own Divine Being as the Self of all, taking us beyond separate ego identities of body and mind.
 
-***Namaâ,***** the Great Chant of Devotion**
+***Namaâ,* the Great Chant of Devotion**
 
-Throughout the Hindu tradition since Vedic times, there has been the commonly reverberating chant of *Namaâ *or *Namo *to various deities. We find the same *Namaâ *chants in the Buddhist, Jain and other traditions from India. Perhaps no other term in the history of the world has served to promote so much devotion and honoring of higher consciousness.
+Throughout the Hindu tradition since Vedic times, there has been the commonly reverberating chant of *Namaâ* or *Namo* to various deities. We find the same *Namaâ* chants in the Buddhist, Jain and other traditions from India. Perhaps no other term in the history of the world has served to promote so much devotion and honoring of higher consciousness.
 
-Namaste is a greeting that has the same basis, honoring that Divine presence, which is then invoked with a Divine Name. It is important to chant our *Namaâ *every day in order to honor the Divine within and without.
+Namaste is a greeting that has the same basis, honoring that Divine presence, which is then invoked with a Divine Name. It is important to chant our *Namaâ* every day in order to honor the Divine within and without.
 
 ## Divine Names and Bhakti Yoga
 
@@ -63,7 +63,7 @@ The form of God or manifestation of Divinity that one personally chooses to wors
 
 An Ishta Devata mantra is our main personal devotional mantra or means of calling on the Divine. Whether we worship God as father or mother or as various deities or avatars, there are special mantras that we can take up in each case. The Ishta Devata is a matter of personal choice, but its mantra becomes more powerful if given by a guru or by tradition. One can always feel free to use the mantra of one’s Ishta Devata or chosen divinity for any life-purpose, including healing. This is another reason why it is good to have such a deity.
 
-Ishta Devata mantras consist of names of deities or gurus, generally given in the dative \(to\) case grammatically and with the term *Namaâ *or reverence. Some include bija mantras as well.
+Ishta Devata mantras consist of names of deities or gurus, generally given in the dative \(to\) case grammatically and with the term *Namaâ* or reverence. Some include bija mantras as well.
 
 **Examples:**
 
@@ -105,7 +105,7 @@ In Tantric thought, all deities have Agni and Soma,5 fiery and watery, solar and
 
 ## Shiva/ Rudra
 
-Shiva is the deity of the universal life force and of the Supreme Being. He has control of Vayu and of Vata dosha, which he calms and harmonizes. His is the light of pure awareness. His energy controls the mind and helps counter emotional and psychological disturbances. His main bija mantras are *Oṁ *or *Hauṁ*. His main name mantra, which is probably the most famous of all name mantras, is: *Oṁ Namaâ Śivàya*\! Sometimes additional bijas are added to this like *Oṁ Hrãṁ Hauṁ Namaâ Śivàya*\!
+Shiva is the deity of the universal life force and of the Supreme Being. He has control of Vayu and of Vata dosha, which he calms and harmonizes. His is the light of pure awareness. His energy controls the mind and helps counter emotional and psychological disturbances. His main bija mantras are *Oṁ* or *Hauṁ*. His main name mantra, which is probably the most famous of all name mantras, is: *Oṁ Namaâ Śivàya*\! Sometimes additional bijas are added to this like *Oṁ Hrãṁ Hauṁ Namaâ Śivàya*\!
 
 Rudra is the fierce form of Shiva. He relates to Agni and to fire. He is the deity ruling over fevers and grants recovery from them, including all manner of infectious and contagious diseases. He is also the deity governing over Ayus or longevity. He helps us overcome death-threatening diseases, accidents or circumstances. His Vedic mantra is the Mrityunjaya \(Tryambakam\) mantra and the famous Rudram, a long set of chants from the Yajurveda.
 
@@ -129,7 +129,7 @@ Krishna is the form of Vishnu that holds all yogic powers, including all healing
 
 ## Rama
 
-Rama is the incarnation of Vishnu as the ideal king and protector, the representative of dharma. Worshipping him protects us from all negativity externally and purifies our minds and hearts internally. His energy is of a solar nature, but its gentle and nurturing side, not its destructive heat. His energy is particularly good for children and for countering Vata disorders \(disturbances of the nervous system\). His seed mantra is simply *Ràṁ *or*: Jai Śrã Ràṁ**\!*
+Rama is the incarnation of Vishnu as the ideal king and protector, the representative of dharma. Worshipping him protects us from all negativity externally and purifies our minds and hearts internally. His energy is of a solar nature, but its gentle and nurturing side, not its destructive heat. His energy is particularly good for children and for countering Vata disorders \(disturbances of the nervous system\). His seed mantra is simply *Ràṁ* or*: Jai Śrã Ràṁ**\!*
 
 ## Vishnu
 
@@ -139,7 +139,7 @@ Vishnu is most worshipped through his incarnations as Krishna and Rama. Perhaps 
 
 Hanuman, the monkey-faced God, is the son of Vayu, the wind God. He represents the higher force of prana behind Vata dosha. He promotes healing, rejuvenation and longevity. He also has the knowledge of and represents the power of all the healing forces of nature.
 
-Hanuman is the ideal Yogi who grants skill in asana and pranayama as well as the supreme power of devotion. While he is devoted to Sita and Rama, he is often regarded as an aspect of Shiva. His main seed mantra is the prana mantra *Haṁ *or*: Oṁ Haṁ Hanumate Namaâ*\! *Hauṁ *is also used for him as Hanuman is regarded as an incarnation of Lord Shiva.
+Hanuman is the ideal Yogi who grants skill in asana and pranayama as well as the supreme power of devotion. While he is devoted to Sita and Rama, he is often regarded as an aspect of Shiva. His main seed mantra is the prana mantra *Haṁ* or*: Oṁ Haṁ Hanumate Namaâ*\! *Hauṁ* is also used for him as Hanuman is regarded as an incarnation of Lord Shiva.
 
 ## Dhanvantari
 
@@ -147,7 +147,7 @@ Ayurveda uses the form of Dhanvantari, an incarnation of the cosmic power of hea
 
 ## Lakshmi
 
-Lakshmi is the wife of Lord Vishnu, the cosmic preserver and protector. She grants health, wealth, beauty, fertility, happiness and abundance – all the good things of life that the great majority of people are ever seeking. She is a special deity for women and helps with women's health problems, gynecological disorders, fertility issues, menopause, and so on. She relates primarily to the water element but to some extent to earth as well \(particularly as the Goddess Sita, the wife of Rama\). Her Tantric form is Kamalatmika, who unfolds the higher grace of Divine bliss. Her main seed mantra is *Śrãṁ *or three syllabled as: *Śrãṁ Hrãṁ Klãṁ*\!
+Lakshmi is the wife of Lord Vishnu, the cosmic preserver and protector. She grants health, wealth, beauty, fertility, happiness and abundance – all the good things of life that the great majority of people are ever seeking. She is a special deity for women and helps with women's health problems, gynecological disorders, fertility issues, menopause, and so on. She relates primarily to the water element but to some extent to earth as well \(particularly as the Goddess Sita, the wife of Rama\). Her Tantric form is Kamalatmika, who unfolds the higher grace of Divine bliss. Her main seed mantra is *Śrãṁ* or three syllabled as: *Śrãṁ Hrãṁ Klãṁ*\!
 
 ## Sarasvati
 

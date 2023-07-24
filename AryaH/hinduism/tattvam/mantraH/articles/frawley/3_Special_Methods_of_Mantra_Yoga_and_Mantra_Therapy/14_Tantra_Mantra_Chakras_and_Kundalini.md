@@ -35,11 +35,11 @@ While this sequence at first looks different than that of the Mantra Purusha, a 
 
 • The root chakra, which governs the earth element, relates to the last semivowel- Va and the first three sibilants \(*Vaṁ, Śaṁ, Ṣaṁ, Saṁ*\). These govern the tissues of fat, bone, marrow and reproductive, which are connected to the root and earth energies within us.
 
-• The Third eye relates to the last sibilants of *Haṁ *and *Kṣaṁ*, which reflect prana and mind.
+• The Third eye relates to the last sibilants of *Haṁ* and *Kṣaṁ*, which reflect prana and mind.
 
 ## Recitation of the Sanskrit Alphabet through the Chakras
 
-The process of recitation of the Sanskrit alphabet through the chakras consists of first drawing the energy of speech from the throat down to the base of the spine with the forty eight sounds of the Sanskrit alphabet. Then one draws the energy of speech up to the third eye where resides the two additional sounds *Haṁ *and *Kṣaṁ *that represent the powers of prana and mind. This recitation draws the sound current downward to the base of the spine in order to arouse the Kundalini and stimulate it to ascend. In this process, our speech is internalized and brought to the level of primal sound.
+The process of recitation of the Sanskrit alphabet through the chakras consists of first drawing the energy of speech from the throat down to the base of the spine with the forty eight sounds of the Sanskrit alphabet. Then one draws the energy of speech up to the third eye where resides the two additional sounds *Haṁ* and *Kṣaṁ* that represent the powers of prana and mind. This recitation draws the sound current downward to the base of the spine in order to arouse the Kundalini and stimulate it to ascend. In this process, our speech is internalized and brought to the level of primal sound.
 
 To practice this method, recite each of the letters of the alphabet while meditating upon the petals of the chakra where they occur, starting with the throat. In this process, one traces the energy of speech through the four levels.
 
@@ -51,17 +51,17 @@ To practice this method, recite each of the letters of the alphabet while medita
 
 • One continues with the ten remaining consonants, semivowels and sibilants in the sex and root chakras as the Para or transcendent form of speech, through which the Kundalini or higher sound energy awakens.
 
-• Then the Kundalini Shakti rises up to the third eye carrying all the letters of the alphabet along with the two remaining letters *Haṁ *and *Kṣaṁ*, connecting the power of speech with that of prana and mind.
+• Then the Kundalini Shakti rises up to the third eye carrying all the letters of the alphabet along with the two remaining letters *Haṁ* and *Kṣaṁ*, connecting the power of speech with that of prana and mind.
 
 • This awakens all possible mantric powers and sounds in the crown chakra.
 
-One can bring in additional Shakti mantras as taught for the Mantra Purusha, like adding the mantra *Hrãṁ *to each chakra petal sound for opening up its energy. One can also use a Devata \(deity\) mantra for the letter of each petal like *Oṁ Aṁ Namaâ Śivàya*. This is a very powerful devotional practice.
+One can bring in additional Shakti mantras as taught for the Mantra Purusha, like adding the mantra *Hrãṁ* to each chakra petal sound for opening up its energy. One can also use a Devata \(deity\) mantra for the letter of each petal like *Oṁ Aṁ Namaâ Śivàya*. This is a very powerful devotional practice.
 
 ## Kundalini Chakra Mantra Yoga
 
 This powerful method of Mantra Yoga emphasizes the central sounds of the chakras \(the bijas of their respective elements\) along with Shakti mantras. It does not consider the sounds of the petals of the chakras.
 
-The Kundalini is aroused with the fiery mantra - *Hïṁ *- along with the mantra for the chakra. The awakened Kundalini fire purifies and dissolves the elemental powers of each chakra, allowing our awareness to ascend to the next chakra. It also purifies the corresponding sense and motor organs, dissolving our ego attachment to them. In this process, one goes through the chakras from below to above starting with the root chakra. However, one must be ready for such a process by purification of one's life style and emotional nature as a foundation for the practice to really work. Otherwise, such strong mantras can be disturbing.2
+The Kundalini is aroused with the fiery mantra - *Hïṁ* - along with the mantra for the chakra. The awakened Kundalini fire purifies and dissolves the elemental powers of each chakra, allowing our awareness to ascend to the next chakra. It also purifies the corresponding sense and motor organs, dissolving our ego attachment to them. In this process, one goes through the chakras from below to above starting with the root chakra. However, one must be ready for such a process by purification of one's life style and emotional nature as a foundation for the practice to really work. Otherwise, such strong mantras can be disturbing.2
 Oṁ Laṁ Hïṁ Purifies the earth element in the root chakra   Oṁ Vaṁ Hïṁ Purifies the water element in the sex chakra   Oṁ Raṁ Hïṁ Purifies the fire element in the navel chakra   Oṁ Yaṁ Hïṁ Purifies the air element in the heart chakra   Oṁ Haṁ Hïṁ Purifies the ether element in the throat chakra   Oṁ Kṣaṁ Hïṁ Purifies the mind in the third eye   Oṁ Oṁ Hïṁ Purifies consciousness in the head chakra   
 
 
@@ -71,9 +71,9 @@ After this procedure is completed, one can bring the consciousness of the Divine
 Oṁ Oṁ Haṁsaâ So'haṁ Svàhà Energizes the consciousness of the Divine Self or Atman in the crown chakra and pure consciousness   Oṁ Kṣaṁ Haṁsaâ So'haṁ Svàhà Energizes the consciousness of the Divine Self or Atman in the third eye and mind   Oṁ Haṁ Haṁsaâ So'haṁ Svàhà Energizes the consciousness of the Divine Self or Atman in the throat chakra and ether element   Oṁ Yaṁ Haṁsaâ So'haṁ Svàhà Energizes the consciousness of the Divine Self or Atman in the heart chakra and air element   Oṁ Raṁ Haṁsaâ So'haṁ Svàhà Energizes the consciousness of the Divine Self or Atman in the fire chakra and the fire element   Oṁ Vaṁ Haṁsaâ So'haṁ Svàhà Energizes the consciousness of the Divine Self or Atman in the water chakra and the water element   Oṁ Laṁ Haṁsaâ So'haṁ Svàhà Energizes the consciousness of the Divine Self or Atman in the earth chakra and the earth element   
 
 
-One can add the lunar mantra *Śrãṁ *for greater effect as: *Oṁ Oṁ Śrãṁ Haṁsaâ So'haṁ Svàhà, Oṁ Kṣaṁ Śrãṁ Haṁsaâ So'haṁ Svàhà*, and so on down the chakras. This aids in the descent of Soma, which is a lunar power.
+One can add the lunar mantra *Śrãṁ* for greater effect as: *Oṁ Oṁ Śrãṁ Haṁsaâ So'haṁ Svàhà, Oṁ Kṣaṁ Śrãṁ Haṁsaâ So'haṁ Svàhà*, and so on down the chakras. This aids in the descent of Soma, which is a lunar power.
 
-Deity mantras can be added to these chakra mantras \(here counting from the root chakra up\) like *Oṁ Laṁ Namaâ Śivàya *or *Oṁ Vaṁ Namaâ Śivàya*. Shakti bijas can be added like *Oṁ Oṁ Aiṁ Klãṁ Sauâ*, *Oṁ Kṣaṁ Aiṁ Klãṁ Sauâ *\(here counting from the crown chakra down\). These are but a few examples.
+Deity mantras can be added to these chakra mantras \(here counting from the root chakra up\) like *Oṁ Laṁ Namaâ Śivàya *or* Oṁ Vaṁ Namaâ Śivàya*. Shakti bijas can be added like *Oṁ Oṁ Aiṁ Klãṁ Sauâ*, *Oṁ Kṣaṁ Aiṁ Klãṁ Sauâ *\(here counting from the crown chakra down\). These are but a few examples.
 
 Such chakra mantras work better combined with the breath, for example, with one breath per mental recitation of the overall mantra. The number of mantra pranayama recitations per chakra can be gradually increased, with seven as a good number to begin with.3 These secrets are passed on in individualized sadhana. This twofold process is similar to the energy balancing of the Fire below and the Moon above taught already, but occurs at a more internal level of practice, aiming at the Sushumna or central channel itself.
 
@@ -101,21 +101,21 @@ We can chant this mantra in all the chakras along with their respective chakra m
 
 Shakti mantras have general actions in all the chakras according to their energies, though they may be more helpful in certain chakras than in others. I have given a few of these possibilities below that can be combined with various practices. Combinations of these mantras can be used, particularly relative to deities, like the the Kali mantra *Krãṁ Hïṁ Hrãṁ *to bring energy and light to all the chakras or the Sundari mantra *Hrãṁ Śrãṁ Klãṁ *to bring bliss and contentment.
 
-• The mantra *Hïṁ *brings a fire energy to all the chakras in which it is used, projecting its power. It is usually connected to the root chakra, the navel and the third eye, the seats of fire within us, and is probably most powerful in the navel. It is used to draw the fire energy up the chakras.
+• The mantra *Hïṁ* brings a fire energy to all the chakras in which it is used, projecting its power. It is usually connected to the root chakra, the navel and the third eye, the seats of fire within us, and is probably most powerful in the navel. It is used to draw the fire energy up the chakras.
 
-• The mantra *Śrãṁ *provides a nurturing and cooling lunar energy to all the chakras we direct its energy towards. It is usually connected to the heart and to the lunar aspect of the head. It is used to draw the Soma energy down the chakras from above.
+• The mantra *Śrãṁ* provides a nurturing and cooling lunar energy to all the chakras we direct its energy towards. It is usually connected to the heart and to the lunar aspect of the head. It is used to draw the Soma energy down the chakras from above.
 
-• The mantra *Hrãṁ *brings a solar light and space to all the chakras in which it is used, deepening the experience of the chakra. It is usually connected to the heart but can bring light to all the chakras. It connects the chakras with the spiritual heart.
+• The mantra *Hrãṁ* brings a solar light and space to all the chakras in which it is used, deepening the experience of the chakra. It is usually connected to the heart but can bring light to all the chakras. It connects the chakras with the spiritual heart.
 
-• The mantra *Krãṁ *with its electrical force helps open all chakras in which it is used. It is like an electrical charge that activates the chakras. It is often connected to the root chakra, the navel chakra and the third eye.
+• The mantra *Krãṁ* with its electrical force helps open all chakras in which it is used. It is like an electrical charge that activates the chakras. It is often connected to the root chakra, the navel chakra and the third eye.
 
-• The mantra *Klãṁ *brings magnetic or devotional energy to all the chakras in which it is used, helping to consolidate its energy. It also serves to draw the energy of water into the chakras. It is usually connected with the heart but also with the lunar region of the head.
+• The mantra *Klãṁ* brings magnetic or devotional energy to all the chakras in which it is used, helping to consolidate its energy. It also serves to draw the energy of water into the chakras. It is usually connected with the heart but also with the lunar region of the head.
 
-• The mantra *Aiṁ *brings space and attention to all the chakras in which it is used. It brings guidance and knowledge into the chakra. It is usually connected to the throat, third eye and head, the seats of knowledge.
+• The mantra *Aiṁ* brings space and attention to all the chakras in which it is used. It brings guidance and knowledge into the chakra. It is usually connected to the throat, third eye and head, the seats of knowledge.
 
-• The mantras *Strãṁ *or *Trãṁ *allow us to move up from one chakra to another. It also allows us to spread out the energy of the chakra to different parts of the body. It is most commonly connected to the navel chakra.
+• The mantras *Strãṁ* or *Trãṁ* allow us to move up from one chakra to another. It also allows us to spread out the energy of the chakra to different parts of the body. It is most commonly connected to the navel chakra.
 
-• Pranic mantras like *Hsauâ *stimulate the Kundalini in the root chakra in a powerful way.
+• Pranic mantras like *Hsauâ* stimulate the Kundalini in the root chakra in a powerful way.
 
 * * *
 
