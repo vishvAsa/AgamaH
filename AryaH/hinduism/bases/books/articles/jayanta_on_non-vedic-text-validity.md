@@ -563,7 +563,7 @@ Oscillations between the Mīmāṃsā and the Nyāya approach . . . . . . . . . 
 
 ## 1 Introductory study
 
-### 1 Remarks concerning the critical edition
+### 1.1 Remarks concerning the critical edition
 
 The present text has been critically edited by Kei Kataoka \(Kataoka 2004a\). While working on this translation, some minor changes to the edition have been proposed and discussed in the endnotes. On the basis of such emendations, Kei Kataoka plans to publish on-line a revised critical edition of the text at this address:
 
@@ -577,7 +577,7 @@ The copyist who wrote K1 \(or its model\) was probably a learned person, who was
 
 Consequently, they have not been included in the critically reconstructed text. 
 
-**II Introductory study: Jayanta between Nyāya and Mīmāṃsā**
+### 1.2 Introductory study: Jayanta between Nyāya and Mīmāṃsā
 
 Bhaṭṭa Jayanta was a Kaśmīri philosopher active during the reign of Śaṅkaravarman \(reg. 
 
@@ -645,7 +645,7 @@ In the SĀP \(see Table of Contents\), Jayanta presents Nyāya and Mīmāṃsā 
 
 validity, \(2. invalidity\) and 3. conflict among different sacred texts or between one of them and the Veda. 
 
-**II.1 Survey of Research**
+#### 1.2.1 Survey of Research**
 
 After Paul Hacker has driven the scholars’ attention on the SĀP in his essay on *Religious* *Tolerance and Intolerance in Hinduism *\(Hacker 1957\), the SĀP has been closely examined only in Wezler 1976 and, much later, in the critical edition and Japanese translation by Kei Kataoka \(Kataoka 2004a and Kataoka 2007b\). 
 
@@ -659,7 +659,7 @@ Sanskrit terms. As above, we indicated only cases of important dissent.
 
 The present translation improves on the preceding ones also because of its sounder basis, i.e., the critical edition presented in Kataoka 2004a and because its narrower focus made it possible to focus on a careful study of sources and parallel passages and, through that, to acquire a deeper understanding of some complex passages. 
 
-**II.2 The SĀP and the ĀḌ**
+#### 1.2.2 The SĀP and the ĀḌ
 
 The passage under examination is closely linked to the topic of the ĀḌ and many parallel passages have indeed been located in Kataoka 2004a. The general point of both texts is the same, insofar as both indicate that all sacred texts can be regarded as valid, with a few exceptions. Their validity is in both texts argued for from both a Mīmāṃsāka and a Naiyāyika point of view. 
 
@@ -691,7 +691,7 @@ and had become much stronger by the time of Jayanta \(suffice here to mention Y�
 
 The practical concern re-emerges, within the SĀP, in the last section, where the king Śaṅkaravarman’s campaigns against the Nīlāmbaras are mentioned and, accordingly, the restrictions listed for texts to be admitted as valid are stricter than what had been established until that point. For instance, although section 6.1.2 already showed that one’s inner hesitation is not a criterion, section 6.3 lists it among the preconditions for the validity of a sacred text. 
 
-**II.3 Jayanta’s sources**
+#### 1.2.3 Jayanta’s sources
 
 As shown in detail in the apparatus of Kataoka 2004a, the main source of Jayanta within the SĀP is Kumārila, especially ŚV codanā and TV ad 1.3.1–4. Kumārila’s text influences both form and content of the SĀP \(for more details see also section II.4.6.1\). That Jayanta was a close reader of Kumārila is evident also in the rest of the NM \(for a critical assessment of the value of Jayanta as often the first available commentator on Kumārila, see Kataoka 2008, pp. 210-209\). 
 
@@ -707,9 +707,9 @@ recollected tradition is based on the Veda.11 That Jayanta follows Śabara is al
 
 As for Prabhākara, we could not locate a precise passage of his *Bṛhatī * which could have been the source for Jayanta in the SĀP,12 and the chronology of Prabhākara’s main commentator, Śālikanātha Miśra, is not yet fixed. Prabhākara is mentioned as a source in the NMGBh, for instance in the commentary on *viṣayavibhāgena*, section 2.2.2. 
 
-**II.4 Establishing the validity of sacred texts**
+#### 1.2.4 Establishing the validity of sacred texts
 
-**II.4.1 Validity of the Veda**
+##### 1.2.4.1 Validity of the Veda
 
 Jayanta’s approach to the problem of the validity of sacred texts depends on two main sources, Mīmāṃsā and Nyāya. In synthesis, Mīmāṃsā authors argue in favour of the validity of the Veda due to the fact that it is the only instrument of knowledge through which one can know dharma. Mīmāṃsakas divide in fact what can be known into two precincts, on the one hand common experience, which encompasses what can be known through sense-perception and the other instruments of knowledge \(inference, analogy and cogent evidence, to which Bhāṭṭa Mīmāṃsā authors add absence\), which ultimately depend on perceptual data. On the other hand there is dharma, which cannot be known through sense-perception and for which, therefore, the Veda is the only instrument of knowledge. Bhāṭṭa Mīmāṃsā authors also claim that all cognitions, *qua * cognitions, are in themselves valid, unless and until a subsequent cognition invalidates them \(the theory is called *svataḥ prāmāṇya*, see Taber 1992 and Kataoka 2011b, pp. 60-98\). However, since the Veda cannot be invalidated by data of different origin, given that it is the only instrument of knowledge regarding dharma, it remains valid. 
 
@@ -795,7 +795,7 @@ discusses the possibility that the criterion was in fact split into two already 
 
 Table 2 summarises the criteria for establishing the validity of the Veda current among Mīmāṃsakas and Naiyāyikas. Being free of doubt, etc. is a requirement for every kind of cognition, see section II.4.2.1. Table 3 summarises the way Naiyāyika authors establish that an author is reliable. 
 
-**II.4.2 Validity of sacred texts other than the Veda**
+##### 1.2.4.2 Validity of sacred texts other than the Veda
 
 Indian authors are generally aware that being transmitted traditionally is not enough for being a reliable text \(for Kumārila’s denial of unbroken transmission as a criterion of reliability see section II.4.6.1\). The standard example of an unreliable transmission is the *jātyandhaparam-parā *‘transmission \[of notions about colour\] by people born blind’, discussed already in ŚBh 16See Chemparathy 1983 for a detailed analysis of the history of Nyāya-arguments for the validity of the Veda. 
 
@@ -885,7 +885,8 @@ Mīmāṃsā principle of “sticking at what is currently the case”, without 
 
 According to Nyāya authors the texts different than the Veda may be valid if their author is reliable. Jayanta discusses two kinds of candidates: first a reliable human being and then God himself. Since directly testing the author’s reliability is impossible, one needs to establish it through indirect evidences, like in the case of the Veda \(see section II.4.1\), i.e., partial agreements with actual states of affairs, and the consensus of exemplary people. In the first case, the reliability of the author can be tested through the accord of what he says, with state of affairs one can verify. Since sacred texts by definition regard dharma, which cannot be known by normal people, one can only test the reliability of their author through partial agreements with verifiable items \( *ekadeśasaṃvāda*, see section 5.1.1\). The idea is that if I can prove that X is reliable while saying Y —a topic which I can know through another instrument of knowledge, thus testing X’s words—, I can infer out of this instance his general reliability. As typical instances of topic which can be tested count remedies against snakes’ poison, medicine in general and magic \(see TV ad 1.3.4, Subbāśāstrī 1929-1934, p. 194, l.11 for a complete list of the cases of concordance with actual states of affairs\). The principal criterion for Jayanta, however, is the consensus of the exemplary people. 
 
-**II.4.2.1 Historical evolution of the criteria **As for the hierarchy of these arguments \(see table 4\), Jaimini explicitly upholds the fact of having common performers \( *kartṛsāmānya*\) in JS 1.3.2. Within the JS, it is clear out of JS 1.3.1 that dharma is only known through the Veda. The argument about the common performers found in JS 1.3.2 aims at showing that also the recollected tradition can count as an instrument for knowing dharma, insofar as the same people follow the injunctions of Vedic and Smārta texts. 
+###### 1.2.4.2.1 Historical evolution of the criteria
+As for the hierarchy of these arguments \(see table 4\), Jaimini explicitly upholds the fact of having common performers \( *kartṛsāmānya*\) in JS 1.3.2. Within the JS, it is clear out of JS 1.3.1 that dharma is only known through the Veda. The argument about the common performers found in JS 1.3.2 aims at showing that also the recollected tradition can count as an instrument for knowing dharma, insofar as the same people follow the injunctions of Vedic and Smārta texts. 
 
 Kumārila makes explicit the inference of the validity of the recollected tradition out of the fact that it is based on the Veda, and proposes it as a favoured alternative to the criterion of having common performers , which consequently remains relegated in a subordinate role 13
 
@@ -967,7 +968,8 @@ Table 8: Refuted criteria for establishing that a text is valid instead the one 
 
 It is however important to note that the author’s reliability remains the determining criterion \(see table 7\). Jayanta refutes the idea that the agreement of the exemplary people could by itself work as a criterion in section 5.2.2.4. Similarly, the Mīmāṃsā thinkers whose views are reproduced in the SĀP refute the idea that the commonness of performers in itself leads to the validity of a text, as suggested in section 2.1.1.1, see table 8. By contrast, *kartṛsāmānya* can be used as a criterion to prove the *invalidity * of other texts, see section 2.1.3. Hence, it is a negative precondition, rather than the *probans * of an inference. And it will eventually be excluded by Jayanta even as precondition, in sections 6.2.2.1–6.2.2.2. 
 
-**II.4.2.2 The term *smṛti *****‘recollected tradition’ **Traditionally, the Veda is said to be *śruti*
+###### 1.2.4.2.2 The term smṛti ‘recollected tradition’ 
+Traditionally, the Veda is said to be *śruti*
 
 ‘directly heard \[text\]’, whereas Dharmaśāstras and other similar texts are said to be *smṛti* literally ‘recollection’, in the sense of ‘recollected tradition’. How can one justify this terminology? Jayanta in section 2.1.1.3 justifies it on the background of the link between experience \( *anubhava*\) and memory \(also called *smṛti*\). Just like memory depends on experience, so the
 
@@ -977,7 +979,7 @@ experience *→ smṛti*
 
 Veda *→ smṛti*
 
-**II.4.3 Conflict between *śruti *****and *smṛti***
+##### 1.2.4.3 Conflict between *śruti* and *smṛti*
 
 Once one has established that both Veda and recollected traditions are valid, what happens if they contradict each other? Jayanta states that contradictions are indeed hardly found, and then suggests various solutions for them:
 
@@ -1025,7 +1027,8 @@ The third solution consists in claiming that there is no direct conflict, becaus
 
 \(TV ad 1.3.4, Subbāśāstrī 1929-1934, p. 192\).26 This solution is probably favoured by Jayanta himself, who repeatedly proposes it also in later sections \(especially in 6.1.2.2, which deals with the problem of extreme religious practices, see also section II.4.5\). 
 
-**II.4.4 Validity of texts which are far away from the Veda or overtly contradict it** One is lead to think that Jayanta favours the view that God is the author of all sacred texts, due to the fact that it is presented after the view that they have a reliable human author in the present text, and due to the arguments in favour of the validity of the Veda and aiming at proving the existence of God elaborated in the rest of the NM. 
+##### 1.2.4.4 Validity of texts which are far away from the Veda or overtly contradict it
+One is lead to think that Jayanta favours the view that God is the author of all sacred texts, due to the fact that it is presented after the view that they have a reliable human author in the present text, and due to the arguments in favour of the validity of the Veda and aiming at proving the existence of God elaborated in the rest of the NM. 
 
 However, given that God is the author of all sacred texts, how can they contradict each other? In order to solve this problem, Jayanta first states that the contradictions are minor, since all texts agree as for what has to be achieved \(liberation\), the means to achieve it \(a salvific knowledge\) and the content of such knowledge \(the self, *ātman*\) —and this notwithstanding what they claim about themselves. 
 
@@ -1065,7 +1068,7 @@ From a historical point of view, the usage of one’s inner hesitation \( *hṛd
 
 Halbfass refers to ŚV codanā 247: “A barbarian ignorant of \[Vedic\] teachings does not fear \( *udvij*-\) \[to do\] any of these kinds \[of actions\]” \( *aśāstrajño mleccho nodvijate kvacit*, text and translation from Kataoka 2011b\). Pārthasārathi’s comment directly highlights the connection between *udvega * and *hṛdayakrośana*.28
 
-**II.4.5 The problem of violent practices**
+##### 1.2.4.5 The problem of violent practices
 
 Connected with the above discussion on emotions is the one on whether violent practices can be accepted \(section 6.1.3.1\). 
 
@@ -1087,7 +1090,8 @@ Prior to Kumārila, Śabara \(see ŚBh ad 1.1.2, Frauwallner 1968, p. 20\) had s
 
 Since violence is prohibited by another Vedic passage \( *na hiṃsyāt sarvā bhūtāni*\), the status of being ‘one who desires to harm his or her enemy’ is itself forbidden. Consequently, the fact that one is in the condition of being entitled to perform the Śyena is already the result of having transgressed a previous prescription \(see SĀP, section 6.1.3.1\). One who desires to harm his enemy experiences, in sum, something which seems a moral dilemma: he could either choose to perform the Śyena and violate a Vedic prohibition; or choose not to perform it, thus disregarding a Vedic prescription which explicitly regards him. However, this condition is only possible as the consequence of the former transgression of another forbidden act. In other words, the former is not a genuine moral dilemma \(which should regard the fact that an innocent one is caught between two forbidden alternatives, like the hermit Kauśika\).29
 
-**II.4.5.1 The origin of prohibitions **Given that violence is not enough to condemn a religious practice, one would expect at least forbidden practices to be declared invalid \(as with Kumārila, see fn. 108\). Instead, Jayanta proposes a thought-provoking argument against the claim that forbidden \( *niṣiddha*\) practices are enough to condemn a religious system: One cannot claim that these practices are forbidden, he explains, because they are not condemned in the texts of their practitioners \(section 6.1.3.1\). Hence, the reader is lead to think, one can only judge the moral value of a practice through the value-system in which it is embedded. 
+###### 1.2.4.5.1 The origin of prohibitions 
+Given that violence is not enough to condemn a religious practice, one would expect at least forbidden practices to be declared invalid \(as with Kumārila, see fn. 108\). Instead, Jayanta proposes a thought-provoking argument against the claim that forbidden \( *niṣiddha*\) practices are enough to condemn a religious system: One cannot claim that these practices are forbidden, he explains, because they are not condemned in the texts of their practitioners \(section 6.1.3.1\). Hence, the reader is lead to think, one can only judge the moral value of a practice through the value-system in which it is embedded. 
 
 This statement has two consequences, not explicit in Jayanta:
 
@@ -1119,7 +1123,7 @@ Table 11: Sources for morality in Nyāya and Mīmāṃsā
 
 *ṛṣi* s\). Thus, *de facto*, also according to Nyāya authors, only sacred texts can be a guide as for dharma.30 On this topic, see also section II.4.7. 
 
-**II.4.6 Jayanta’s “pluralism” **
+##### 1.2.4.6 Jayanta’s “pluralism”
 
 A further problem linked to the validity of sacred texts other than the Veda is where to set the boundary of valid texts. Mīmāṃsakas tend to be stricter than Naiyāyikas, but Jayanta shows that also the Mīmāṃsā criterion “only texts based on the Veda” can be loosened enough to embrace almost all sorts of texts. Similarly, through the Nyāya criterion “only texts having a reliable author” many texts can be regarded as valid, especially the ones which proclaim to be authored by God himself, such as the Śaiva sacred texts and the Pāñcarātra ones. 
 
@@ -1173,7 +1177,8 @@ Furthermore, the introductory paragraph of the last section \(section 6\) analys
 
 In table 13 one can count the fourteen recognised branches of knowledge, next the texts to which validity can be recognised without much problem insofar as they do not explicitly contradict the Veda, and last the texts which seemingly contradict the Veda and which are only recognised as valid in the concluding section of the SĀP. Some texts, by contrast, remain intrinsically invalid. The texts of the Saṃsāramocakas are not mentioned in any category in section 6, and are only referred to in section 5. However, section 5.2.2.3 makes clear that their status is lower than that of Buddhists. On the Saṃsāramocakas see also section II.4.7. 
 
-**II.4.6.1 Criteria for the validity of sacred texts **Finally, in section 6.3 all texts are said to be valid, if they
+###### 1.2.4.6.1 Criteria for the validity of sacred texts
+Finally, in section 6.3 all texts are said to be valid, if they
 
 1. reach the general opinion without objections \( *avigīta*\) 2. have been embraced by cultivated people
 
@@ -1421,7 +1426,7 @@ To sum up, the criteria would amount to the ones mentioned in table 17.
 
 It is noteworthy that, within the Prābhākara school, also Śālikanātha’s passage quoted above \(section II.4.2\) presupposes the three criteria endorsed by Kumārila: being accepted by people of the three upper classes \(=exemplary people in great number\), being accepted without disagreement \( *avigānena*\), not having another base than the Veda. 
 
-**II.4.7 Who cannot be accepted in any case? **
+##### 1.2.4.7 Who cannot be accepted in any case?
 
 The SĀP and the ĀḌ are among the few sources on a number of obscure religious groups. 
 
@@ -1493,7 +1498,7 @@ to judge about morality, there would be no reason to blame them.\) According to 
 
 By contrast, J. Bronkhorst \(see Bronkhorst 2008, pp. 297-298\) shows that materialists were still active in Kaśmīr around Jayanta’s time. Interesting, in this connection, is Jayanta’s mention of “cultivated Cārvākas” \( *suśikṣitacārvākā*, NM I, NM, p. 94\). Such materialists might have been appealing due to their education. Consequently, they needed to be overtly condemned. 
 
-**II.5 What is Jayanta’s final view? **
+#### 1.2.5 What is Jayanta’s final view? 
 
 The NM programmatically aims at systematising rather than adding anything new to the Nyāya system \(see Kataoka 2007a, p. 204\). Accordingly, it is often difficult to distinguish Jayanta’s final opinion among the many views reported. The same difficulty applies to the SĀP. As already hinted at, Jayanta oscillates between the Nyāya and the Mīmāṃsā view-point. As a general rule, one can suggest that the last view on an argument is the favoured one. Table 18 illustrates such oscillations and shows how in most sections the conclusive view \( *siddhānta*\) is the one which emerges out of a combined usage of Nyāya and Mīmāṃsā
 
@@ -1561,11 +1566,10 @@ It is noteworthy that Jayanta’s innovative approach lies in the combination of
 
 27
 
-**Part II**
+## 2 Translation
 
-**Translation**
-
-**1 Introduction on the validity of texts other than the Veda** He \(a pupil raising a question\) says:
+### 1 Introduction on the validity of texts other than the Veda
+He \(a pupil raising a question\) says:
 
 Is this validity already explained \( *ittham*\) established only in regard to the Vedas |
 
@@ -1581,18 +1585,18 @@ My dear pupil, which texts do you have in mind, when you aski \[these questions\
 
 Among them, to begin with, \[let us say that\] we shall explain the Śaiva and the other \[texts belonging to the second group\] later. 
 
-## 2 The validity of Dharmaśāstras
+### 2 The validity of Dharmaśāstras
 
-### 2.1 Mīmāṃsā point of view: Veda-basis
+#### 2.1 Mīmāṃsā point of view: Veda-basis
 
-#### 2.1.1 Validity
+##### 2.1.1 Validity
 
-##### 2.1.1.1 Minority argument about the common performers 
+###### 2.1.1.1 Minority argument about the common performers 
 \[Jaimini-type of Mīmāṃsaka:\]
 
 The Dharmaśāstras such as the one by Manu are certainly an instrument of knowledge like the Veda, because they teach specific actions which pertain to what the Veda teaches \(i.e., to the content of the Veda\).39 What is the \[purpose of an\] inquiry about them? 
 
-##### 2.1.1.2 The Vedic base 
+###### 2.1.1.2 The Vedic base 
 By contrast, in regard to them \(MDhŚā etc.\), some \(the Bhāṭṭa Mīmāṃsakas\) say that they are validii because they are based on the Veda.40 To elaborate: 37A different text \(reading *tantrāgamāntarāṇām * instead of *utāgamāntarāṇām * is presupposed by J.V. Bhattacharyya, who translates as follows: “If the first question is answered in the affirmative then the framer of the question has got nothing to say” \(Bhattacharyya 1978, p. 544. We could not really understand this translation\). N.G. Shah, though reading in the same way, translates in a way which is quite close to ours \(Shah 1975-1992, p. 65\). 
 
 38This argument is exemplified by a well-known verse of Kumārila, which will be quoted below, section 6.1.1.4. 
@@ -1647,19 +1651,19 @@ performances which we actually see” \( *\[…\] kāraṇ ke \[…\] dṛṣṭ
 
 branches \[of the Veda\]. Butiii we do not need this detailed specification.47 In all cases, according to the argument \[upheld\],48 the Veda only must be assumed as the root in regard to them \(MDhŚā etc.\), no other root, since there is no instrument of knowledge \[supporting any other root. Hence, by means of cogent evidence \( *arthāpatti*\), we can conclude that the Veda is the only root\]. 
 
-##### 2.1.1.3 Distinction between Veda and recollected tradition 
+###### 2.1.1.3 Distinction between Veda and recollected tradition 
 And according to the view that \[the MDhŚā etc.\] have the Veda as their root, this appellation of \[the Dharmaśāstra-corpus\] as *smṛti *\(‘recollection’\), known by the entire world, will be supported \[by our argument\]. For if \[they\] were based on perception, like in the case of the Veda \[which is not called
 
 ‘recollection’\], in their case too, what would be the object of the word ‘recollection’? 
 
-#### 2.1.2 Conflict with the Veda
+##### 2.1.2 Conflict with the Veda
 
-##### 2.1.2.1 Invalidation 
+###### 2.1.2.1 Invalidation 
 Moreover, if the \[recollected tradition\] is based on the Veda, when the recollected tradition contradicts the directly heard sacred texts \(i.e., the Veda\) it is easy to say that \[the recollected tradition\] must be invalidated because the two are not of equal rank.49
 
 In one case \(the Veda\) the root is already formed \(i.e., present\), in the other \(the recollected tradition\) it has to be postulated. As soon as50 you resolve to postulate a sacred text out of the recollected tradition, the directly heard sacred text which contradicts the \[recollected tradition\], will come \( *avatṛ*-\) to your mind. Hence, how could then the recollected tradition be capable to postulate a \[different\] root? This has been said \[by Kumārila\]: There is a common proverb: How could the \(much slower\) ass, later, obtain that which was previously taken away by the horse? || \(TV ad 3.1.14, Subbāśāstrī 1929-1934, p. 712\)51
 
-##### 2.1.2.2 Option 
+###### 2.1.2.2 Option 
 Another \(Mīmāṃsaka\)52 says: “In this case \(of conflict\) the option is appropriate. As reported \( *kila*\) \[in the Prābhākara school\], the Veda is of two kinds, directly heard and inferred. The directly heard one is called ‘sacred text’ \( *śruti*\), and the inferred one 47It is Mīmāṃsā’s business to discuss further. 
 
 48“\[…\]if we are true to our reasoning power” \(Bhattacharyya 1978, p. 545\). Shah translates “in the appropriate way” \( *je rīte ghaṭe te rīte*, Shah 1975-1992, p. 67\)
@@ -1686,7 +1690,7 @@ is \[called\] ‘recollected tradition’. And both of them are beginningless, t
 
 For this very reason, \[Śabara’s\] assumption that \[the Dharmaśāstras\] are based on mantras, commendatory statements etc. is wrong, since the recollected Veda is beginningless \[just like the directly heard Veda\].”54
 
-#### 2.1.3 Invalidity of other texts
+##### 2.1.3 Invalidity of other texts
 
 \[Obj.:\] Once the validity \[of the Dharmaśāstras\] has been so described as being based on the Veda, how can one reply to the ones who claim that also recollected traditions external \[to the Veda\] are valid? 
 
@@ -1694,11 +1698,11 @@ For this very reason, \[Śabara’s\] assumption that \[the Dharmaśāstras\] ar
 
 By contrast, no similar single entitlement is understood in regard to the recollected traditions outside \[the Veda\]. Therefore, only the recollected traditions of Manu, etc. are an instrument of knowledge, not the recollected traditions outside \[the Veda\]. 
 
-### 2.2 Nyāya point of view: author’s reliability
+#### 2.2 Nyāya point of view: author’s reliability
 
 \[Mī.:\] Surely, also the recollected traditions by Manu, etc. \[like the Veda\], are an instrument of knowledge insofar as they are based on the Veda, and not out of any other \[reason, such as the fact of having been uttered by a reliable speaker\]
 
-#### 2.2.1 Validity: yogic perception
+##### 2.2.1 Validity: yogic perception
 
 \[Nai:\] To this it must be replied: You, as I learnt, \( *kila*\), announce this validity through the fact that \[the recollected tradition\] is based on the Veda because you cannot endure \( *mṛṣ*-\) the yogic perception, which grasps the dharma. But this is wrong. Like in fact the revered Lord, author of everything, ruler of everything, who sees everything and who is compassionate towards everyone, is justified as the author of the Vedas, in the same way the yogic perception also, which is capable of grasping dharma and is different from the common perception of people like us, has indeed been justified \[by us\] within the definition of perception. 
 
@@ -1724,7 +1728,7 @@ have been favoured by the mercy of this Lord, and they obtained such knowledge \
 
 Also in the Veda it is recited that the dharma is perceptible for Manu, etc.: “The ṛṣis directly experienced the dharma. They transmitted by teaching the mantras to others who had not directly experienced dharma”.58
 
-#### 2.2.2 Conflict with the Veda
+##### 2.2.2 Conflict with the Veda
 
 \[Obj.:\] But since in this way there would be no distinction \[between the two\] insofar as they are
 
@@ -1748,9 +1752,9 @@ Also in the Veda it is recited that the dharma is perceptible for Manu, etc.: �
 
 the recitation of the Veda say that there is no example \( *udāharaṇa*\) of conflict between sacred texts and recollected tradition.63 Therefore, the validity of the Dharmaśāstras, like that of the Vedas, is due to the fact that they are based on the perception of a reliable person. 
 
-## 3 Itihāsas and Purāṇas
+### 3 Itihāsas and Purāṇas
 
-### 3.1 Nyāya view
+#### 3.1 Nyāya view
 
 Also the validity of Itihāsas and Purāṇas has to be understood as ascertained by the same
 
@@ -1760,13 +1764,13 @@ One should complete the Veda through the Itihāsas and Purānas |
 
 The Veda fears the ignorant \( *alpaśruta*\) one: “He will cross over me \[too rush-ingly\] \[if I am not supplemented by Purāṇas and Itihāsas\]\!” ||64 \(Sukthankar, Belvalkar, and Vaidya 1933-1971, 1.1.204\)
 
-### 3.2 Mīmāṃsā view
+#### 3.2 Mīmāṃsā view
 
 Else, \[a different opinion could be:\] What is the use of \[this\] attachment \( *abhiniveśa*\)v \[to the Naiyāyika view\]? \[We could accept the Mīmāṃsaka view instead, namely:\] Because the recollected tradition is based on the Veda \[and is hence valid\], also the Purāṇa is an instrument of knowledgevi like the recollected tradition \(i.e., insofar as it is based on the Veda\). 
 
 At least \( *tāvat*\), there is no dispute as for \[their\] validity. Also the practice of good people, which is not textual, should be valid only because it is based on the Veda. 
 
-## 4 Fourteen branches of knowledge
+### 4 Fourteen branches of knowledge
 
 In every case \(whichever position we take\), to begin with, these six branches of knowledge65
 
@@ -1790,15 +1794,15 @@ The Mīmāṃsā consists in a reflection on the meaning of the Vedic sentences 
 
 Therefore, it is established that these fourteen branches of knowledge are an instrument of knowledge, some insofar as they directly teach \[the means for realising the human aim, i.e., dharma\], some insofar as they are useful \[to the former\]. 
 
-## 5 Texts other than the fourteen branches of knowledge
+### 5 Texts other than the fourteen branches of knowledge
 
 As for the other sacred texts \( *āgama*\) one sees \[in the world\], these are of two kinds as well69. 
 
 Some, like the Buddhist \[Texts\], behave completely in conflict with the Veda. Some, like the Śaiva \[Texts\], teach, without contradicting the Veda, different observances, which one can opt for \[instead of the Vedic ones\].70
 
-### 5.1 Validity of texts which do not criticise the Veda
+#### 5.1 Validity of texts which do not criticise the Veda
 
-#### 5.1.1 Mīmāṃsā-based arguments and argument out of partial agreements
+##### 5.1.1 Mīmāṃsā-based arguments and argument out of partial agreements
  Among these \[two types of texts\], to begin with, we shall speak of the validity of the Śaiva sacred texts, etc., since one does not grasp in regard to the notion produced by them doubt, subsequent invalidation, and defects of the causes \[of cognition\]x \( *kāraṇadoṣa*\).71 For also in their regard, through recollected tradition and inference, it is established that they have been authored by the Lord, since it is impossible to postulate a root other \[than the Lord’s perception\], such as greed or delusion. In fact, in their case no \[human\] origin is remembered,72 and 66This point might oppose a general feeling that the Śrautasūtras do teach dharma. Jayanta replies that they only repeat and rearrange Vedic rules. The Kalpasūtras are treated separately although they are part of the six Vedāṅgas in order to answer this objection. 
 
 67Alternatively, the compound could be interpreted as a *dvandva*: “a compendium of restrictions, sequences and ritual actions which were scattered \[in the Vedas\]”. 
@@ -1867,7 +1871,7 @@ he can only mean that Dharmaśāstras and Purāṇas are acceptable to all Purā
 
 35
 
-#### 5.1.2 Nyāya-based arguments: God as author
+##### 5.1.2 Nyāya-based arguments: God as author
 
 And there \(in the Pāñcarātras\) the revered Viṣṇu is said to be the author. And he is no one but the Lord. 
 
@@ -1879,19 +1883,19 @@ Also in the Veda, here and there it is recited \[of\] Rudra and \[of\] Viṣṇu
 
 \(Ṛgveda 1.22.17, Sontakke and Kashikar 1951-1983\)”.83 And the sacrificesxiv to them, namely, the means to please them are enjoined also in the Veda. The Śaiva and Pañcarātra texts, by contrast, teach the same sacrificesxv to the \[Lord\] in a way different \[than the Vedic one\]. Nor does this contradict the Veda, since the means are liable to option. Therefore, since they have been composed by a reliable \[author\] and since they do not contradict the Veda, both \(Śaiva and Pañcarātra texts\) are not invalid. 
 
-### 5.2 Invalidity of the other texts
+#### 5.2 Invalidity of the other texts
 
 By contrast, the sacred texts of the Buddhists, of the “Liberators from the saṃsāra”, etc.xvi teach the practice of sinfulxvii \[people\]: Which noble person would agree with theirxviii validity? 
 
-#### 5.2.1 Mīmāṃsā-based arguments: they are outside the Veda
+##### 5.2.1 Mīmāṃsā-based arguments: they are outside the Veda
 
-##### 5.2.1.1 Practices which are outside the Veda
+###### 5.2.1.1 Practices which are outside the Veda
 
 For, in the case of the Buddhist sacred texts, it is patent that they are outside the Veda |
 
 because they restrict84 themselves to just shun \( *parihāra*\) the practice adequate for one’s class’ \( *jāti*\) dharma ||85
 
-##### 5.2.1.2 Practices prohibited by the Veda
+###### 5.2.1.2 Practices prohibited by the Veda
 
 The sinful Liberators from the saṃsāra, intent at \[inflicting\] violence on living beings, |
 
@@ -1923,12 +1927,12 @@ How could a sin obtained due to the practice of something prohibited be allayed?
 
 therefore, even at a later time, one would fall back91 in hell ||
 
-#### 5.2.2 Nyāya-based arguments: there is no agreement of the great people
+##### 5.2.2 Nyāya-based arguments: there is no agreement of the great people
 By contrast, as for what has been asked \(at the beginning, section 1\) in this regard, i.e., “What can be replied to the others who try to postulate that the Buddha, etc., are reliable, through the sequence \( *krama*\) \[of the arguments\] seen above \(e.g., insofar as the Buddha is also a reliable speaker, there are no causes of invalidity, etc.\)?”, one must give the \[following\] reply. In fact, it is easy to say that \[a sacred text\] has been uttered by a reliable \[speaker\] if \[the fact of having a reliable speaker\] is assisted by the general opinion of the exemplary people, \[but\]
 
 not otherwise. And an exemplary person accepts the validity of the Vedas, of the Purāṇas and Dharmaśāstras, which follow the Veda, and of some sacred texts \( *āgama*\) which do not contradict the Veda, \[but\] not of the Buddhist texts, etc., which contradict the Veda. Therefore, how could these have been composed by a reliable author? For in their case it is easy to say that they had a different root, such as ignorance and greed. With these arguments the Buddhists, etc., which compete with the Veda, must be objected to. 
 
-##### 5.2.2.1 Definition of great person 
+###### 5.2.2.1 Definition of great person 
 It is said \[as an objection\]: Please, explain: Who is this “exemplary person”? How does he look? By whom is he instantiated \( *āspada*\)?92 How many \[exemplary people\] are there? How does he behave? 
 
 86The reference is to JS 1.3.4, see introductory study, section II.4.2 and table 5. 
@@ -1955,14 +1959,14 @@ Moreover, thexx Buddhists, etc., insist —in order to establish the validity of
 
 people.xxi94
 
-##### 5.2.2.2 This great person is accepted also by Buddhists, etc. 
+###### 5.2.2.2 This great person is accepted also by Buddhists, etc. 
 And this exemplary person, i.e. \[a person who belongs to\] the four classes and the four stages of life, cannot be refuted by those who uphold other sacred texts since he acts following the Vedic path \[which are even for them the basis of ethics, see immediately below\]. To elaborate: also these wicked Buddhists, etc., are disciplined \[in their behaviour because of assuming\] the validity of the Veda: they avoid the contact of a *caṇḍāla*, and of other \[untouchables\]. \[This is an evidence of the fact that they also respect the Veda\] because once one has refuted the pride in casteism,95 what is wrong in touching a caṇḍāla, etc.? And also these others96 who perform what should not be done, in the form of an initiation that does not distinguish \[pure and impure\]97 —which starts with eating impure \[substances\] \( *aśuci*\) and approaching \[women\] which should not be approached \(i.e., close relatives\)— even they perform this secretxxii action in secret, not openly, since they are afraid of the exemplary people, \[who belong\] to the four classes, etc. 
 
 \[This is an evidence of the fact that they also respect the Veda\] because, if they would believe in their sacred texts without any doubt, why should they perform their contents like thieves \(namely, in secret\)? 
 
 For this very reason, Buddhist monks \(i.e. Buddhists\), etc.,xxiii cannot set up their own exemplary person. Rather, this alone is the exemplary person who \[belongs\] to the four classes, etc., \[and\] is accepted by all.xxiv
 
-##### 5.2.2.3 The Vedic model is accepted also by Buddhists, etc. 
+###### 5.2.2.3 The Vedic model is accepted also by Buddhists, etc. 
 And this exemplary person utterly refutes the Texts which contradict the Veda, he does not sympathise with them. 
 
 After having touchedxxv a Liberator from the saṃsāra, educated people \( *śiṣṭa*\) take a bath with their clothes on \(because their clothes also need to be purified\) |
@@ -1993,7 +1997,7 @@ any Text which is outside the Veda is, by contrast, only a fraud ||
 
 And it is this highly distinguished collection of texts called the Veda, whose majesty is not shared by any other \[text\], that others, supporters of texts external \[to the Veda\], compete with by \[adopting\] \[its\] very way. For when they claim the validity of their own texts, they denote \[it\] in the same way as \[that of\] the Veda. In one way or the other they attempt to enter into the Veda \(i.e., to have their texts reach the same dignity98\). Here and there they put down Vedic contents99 in their own texts.100 They consider themselves purified by the contact of the Veda. Even for them, in their hearth, the validity of the Veda shines strongly. Thus, these other texts have not been composed by a reliable \[author\], because one does not see in their regard such a general opinion \( *prasiddhi*\) on the part of the exemplary people. 
 
-##### 5.2.2.4 If the agreement of the exemplary people is enough, what is the purpose of
+###### 5.2.2.4 If the agreement of the exemplary people is enough, what is the purpose of
  **Nyāya? **It is said \[by an Obj.\]:
 
 Since the ascertainment of the validity of the Veda is done through the general opinion of the exemplary people only |
@@ -2010,7 +2014,7 @@ therefore, \[this\] system is needed as a weapon in order to hit at them ||
 
 Therefore, it is established that only the texts mentioned above are valid, not the ones which are external to the Veda. 
 
-## 6 Validity of all sacred texts
+### 6 Validity of all sacred texts
 
 Others, by contrast, accepted the validity of all sacred texts |
 
@@ -2030,18 +2034,18 @@ because in all cases one can assume that the author is reliable, as in the case 
 
 39
 
-### 6.1 Invalidity: reasons for it
+#### 6.1 Invalidity: reasons for it
 
-#### 6.1.1 The various sacred texts contradict each other
+##### 6.1.1 The various sacred texts contradict each other
 
 As for what has been said in this regard \(in section 1\), namely that all texts are invalid, since they teach contents which mutually contradict each other, to this it must be replied: It is not the case that one text invalidates another, since they have an equal rank \( *kakṣa*\), having been composed by a reliable author, and since one does not grasp any other reason \[to say\] that one is weaker \[than another\]. 
 
-##### 6.1.1.1 Contradictions are inessential 
+###### 6.1.1.1 Contradictions are inessential 
 The contradiction in general, by contrast, is not important, since one notices mutual contradictions even among the Vedic sentences, whose validity is admitted \[by all\]. \[Furthermore, there are contradictions among Veda and recollected tradition:\] In the \[Vedic\] injunctions about the contact with a \[dead\] person’s head, the cup of liquor, the slaughter of a cow, etc.,102 some contents which contradict other sentences
 
 \[found in the recollected tradition\] are indeed taught\! 
 
-##### 6.1.1.2 No contradictions as for the main points 
+###### 6.1.1.2 No contradictions as for the main points 
 Moreover, the contradiction one finds among sacred texts is not very \[significant\], since all \[texts\] agree on the principal \[point\], i.e., the aim of human \[life\]. 
 
 The many means \( *abhyupāya*\) which are taught \( *ādiś*-\) by the various paths consisting in \[this or that\] sacred text, |
@@ -2072,14 +2076,14 @@ streams, the differences among religious systems regard the means and not the ai
 
 The latter is the permanence of something which changes continuously, but whose later stages are identical with the former ones, like a river, which is always the same notwithstanding the fact that the drops of water composing it change at every second. Similarly, the *ātman * of Nyāya, Vedānta, etc. is stable, whereas the flow of consciousness of Yogācāra Buddhists continuously reproduces itself. See also the NMGBh on this passage: “The self is permanent insofar as it is immovable, i.e., its nature does not waver. By contrast, the continuous stream of cognition is \[permanent as\] a flow insofar as it flows without interruption” \( *ātmā kūṭastho ’vicaladrūpaḥ san nityaḥ, jñānasantānas* 40
 
-##### 6.1.1.3 Contradictions in the practices are not important 
+###### 6.1.1.3 Contradictions in the practices are not important 
 In this way, there is no dispute as for the two principal things, i.e., thing to be reached \(i.e., the liberation\) and means to reach it \(i.e., the knowledge of the self\). By contrast, the \[specific religious\] acts might be diverse according to the sacred text. Let them \[besmear their bodies\] with ashes and wear matted hair \[and\]xxix holdxxx a stick and a pot \(if they are ascetics\), or have red cloths \(if they are Buddhist monks\), or have the space alone as cloth \(if they are Digambara Jainas\): What is the
 
 \[real\] differencexxxi here? Also, does the Veda enjoin a small number of instruments to \[reach\]
 
 heaven, combined with a bundle of distinct procedures? \[Of course, not.\] Thus, even if there is mutual contradiction \[among the various religious practices\], there is no contradiction as for the validity \[of each religious system\]. 
 
-##### 6.1.1.4 Conclusion: mutual contradictions do not entail invalidity 
+###### 6.1.1.4 Conclusion: mutual contradictions do not entail invalidity 
 And therefore, what is said \[by Kumārila\], namely:
 
 If the Buddha is omniscient, what is the evidence that Kapila is not? |
@@ -2088,7 +2092,7 @@ Else, both are omniscient, \[but then\] how could there be distinct opinionsxxxi
 
 this has been discarded already, because there are no different opinions as for what is principal \(i.e., what really matters, the thing to be attained and the means to attain it\). Alternatively, \[this could be discarded\] because even if there were some \[different opinions\] with regard to some things, there would be no contradiction as for the validity \[of all religious systems\] \(since contradictions are not a sufficient reason for invalidity, see above, sections 6.1.1–6.1.1.1\).106
 
-#### 6.1.2 Suspicious practices
+##### 6.1.2 Suspicious practices
 
 Nor is there invalidity of other sacred texts because they teach actions which cause the trembling of \[one’s\] heart107, since this does not prove invalidity.108
 
@@ -2122,9 +2126,9 @@ By contrast, the violence \[inflicted\] on the animal, such as the Agnīṣomīy
 
 But the Veda is not invalid because of this. It shall be the same for the other sacred texts, too \(they also do not become invalid just because there is something in them which makes one hesitate\). 
 
-#### 6.1.3 Practices prohibited by the Veda
+##### 6.1.3 Practices prohibited by the Veda
 
-##### 6.1.3.1 Prohibitions are not text-independent 
+###### 6.1.3.1 Prohibitions are not text-independent 
 As for what has been said \(in section 5.2.1.2\)
 
 —namely that even if through the texts other \[than the Veda\], such as the Kaula ones, one realises goals such as flyingxxxv, the sinfulness \( *pratyavāya*\) caused by the practices of something prohibited surely occursxxxvi at a later time— this too is wrong, because such content is not prohibited in the \[corresponding\] sacred text. In fact, even if it is prohibited in a different sacred text, assuming that one can choose through option \[one or the other set of norms\] is appropriate. And since this \[practice of something forbidden\] is the means to obtain a high human aim \(such as flying\), given that one \[actually\] realises it, how could there be sinfulness? 
@@ -2147,27 +2151,27 @@ As for what has been said \(in section 5.2.1.2\)
 
 113Bhattacharyya interprets *parapuruṣārtha * as the highest goal: “If they are proved to be the means to the ultimate goal of a human being then how can it lead to a pit-fall?”. On this interpretation of *parapuruṣārtha*, see also Kataoka 2007b, pp. 83–84. But in fact Jayanta has just stated that these sacred texts can make one achieve particular goals, 42
 
-##### 6.1.3.2 Violating a prohibition regards the performer, not the text 
+###### 6.1.3.2 Violating a prohibition regards the performer, not the text 
 Else, let there be that at a later time on the basis of this \[behaviour\] there is sinfulness. Nonetheless, in this case \(eating from a skull, etc.\) the validity of the text is not lost , since the ritual action \(e.g., eating from a skull\) is enjoined as having a certain fruit \(e.g., flying\) on the basis of the difference among the people entitled \[to perform them\], like in the case of the Śyena \(thus, “If you want to fly, eat from a skull” parallels “If you want to harm your enemy, perform the Śyena”\).114
 
 In the \[prescription\] “He should sacrifice using black magic by means of the Śyena”, through the present participle in “using black magic” \[the Veda\] says that the person entitled \[for the Śyena\] is one who has already disregarded a prohibition.115 And for such \[a person\] the Śyena sacrifice has been enjoined. And he becomes surely sinful, once he has accomplished a killing out of performing it \(the Śyena\). But \[it does not follow that\] the Veda is invalid. And it has been said \[by Śabara:\] “Here \[in the Veda\] both are denoted by the \[Vedic\] injunction, the good and the evil” \(ŚBh ad 1.1.2, Frauwallner 1968, p. 20\). And due to the distinction among the entitlements \( *adhikāra*\), the injunctions about various ritual actions are not inadequate. 
 
 For the one who wants to die, the Sarvasvāra sacrifice is enjoined; for the one who wants a long life, the oblation of cereal preparations \( *caru*\) \[in the weight\] of \[hundred\] berries of Abrus precatorius \[is enjoined\]. Therefore, even this \(injunction of a prohibited ritual action\) is not the occasion \[leading\] to the invalidity \[of a sacred text\]. 
 
-##### 6.1.3.3 Figurative meaning 
+###### 6.1.3.3 Figurative meaning 
 Also the confutation of the caste-system \[found\] in the Buddhist texts, points at a laud of the extreme compassion \( *karuṇā*\) directed to favouring all \[and\]
 
 should not be understood as one hears it \(i.e., literally\). And in the same way, in these very
 
 \[Buddhist texts\] it is recited: “One should not allow to become a monk people who are flawed because of their \[low\] caste or of a body\[-defect\]”.116
 
-### 6.2 Validity
+#### 6.2 Validity
 
-#### 6.2.1 Nyāya-based argument: reliable authors
+##### 6.2.1 Nyāya-based argument: reliable authors
 
 Therefore, it is correct that all sacred texts are valid, insofar as they have been composed by reliable speakers, such as Kapila, the Buddha and the Arhat. 
 
-##### 6.2.1.1 God as reliable author 
+###### 6.2.1.1 God as reliable author 
 Othersxxxvii think that the revered Lord alone is the author of all sacred texts.117
 
 Because he, looking down at the fact that the maturation of karman \[occurs\] in many ways and perceiving \( *uddṛś*-\) that there are various paths towards the obtainment of heaven, understands which people are adequate for a certain ritual act and teaches this or that instrument in accord to the disposition \[of each person\] in order, out of mercy, to favour all living beings. 
@@ -2194,17 +2198,17 @@ and the adharma rises, I create myself || \( *Bhagavadgītā * 4.7, Sukthankar, 
 
 The body alone is the offspring of Śuddhodana, not the inner soul \( *ātman*\). For the same reason the knowers of the \[Vaiṣṇava\] sacred texts believe that at each age of the world the same revered Viṣṇu descends \[in the world\] in the form of dharma.118
 
-##### 6.2.1.2 Agreement of the exemplary people 
+###### 6.2.1.2 Agreement of the exemplary people 
 \[Obj.:\] But why is there not a similar agreement on the part of the exemplary people in regard to the other sacred texts, given that they have the same author as the Veda \(i.e., the Lord\)? 
 
 \[R.:\] It is not so. A small number of living beings, the ones for which such a disposition of mind has been recognised, are favoured by the revered \[Lord\] through a certain path \(e.g., the Buddhist one\). By contrast, innumerable living beings are favoured \[by the Lord\] through the Vedic path. Therefore, this one is hold in great honour, the other sacred texts in little \[honour\]. 
 
-##### 6.2.1.3 Conflict: already explained away 
+###### 6.2.1.3 Conflict: already explained away 
 \[Obj.:\] If there is a single author,xxxix how could there be mutual contradictions? 
 
 \[R.:\] As for this topic, the Vedas themselves depict the solution. The \[reason\] has been already said \[in section 6.1.1.1\]: For even in the \[Vedas\] one sees plenty of mutual contradictions. Therefore, the validity of all sacred texts truly depends on the fact that they have been composed by the Lord. 
 
-#### 6.2.2 Mīmāṃsā-based arguments: Veda-base
+##### 6.2.2 Mīmāṃsā-based arguments: Veda-base
 
 Others \(upholders of the Mīmāṃsā approach\), by contrast, accepted the validity of all sacred texts insofar as they are based on the Veda. For, the reasoning which has been said \(in section 2.1.1.2\) as for the fact that the teachings of Manu etc. are based on the Veda, namely: the \[Vedic\] injunction is more economical than error or experience, human utterance \[and\] fraud \[as base of the MDhŚā, etc.\], due to the consistence with what we see and the capability \[of producing a result such as the MDhŚā\] ||119
 
@@ -2216,7 +2220,7 @@ this is common to all sacred texts. Nor does one directly grasp a Vedic text whi
 
 44
 
-##### 6.2.2.1 Having common performers is not the main point 
+###### 6.2.2.1 Having common performers is not the main point 
 \[Obj.\] But it has been said \(in JS 1.3.2, see section 2.1.3\) that “Rather, \[the established conclusion is as follows:\] Because the performers are common, the inferential cause \(i.e. the recollected tradition, insofar as it lets one infer a Vedic text\) is an instrument of knowledge”. But this does not occur in this case \(since the performers are different\). Thus, how can one infer a Vedic text? 
 
 \[R.:\] This is not a flaw. 
@@ -2237,7 +2241,7 @@ Furthermore, the assumption that \[these texts\] could have perception as their 
 
 On the other hand, the appropriate root in their regard are the Vedasxli, since they have endless branches ||
 
-##### 6.2.2.2 Conflict: There are endless Vedic branches and hence potentially no conflict
+###### 6.2.2.2 Conflict: There are endless Vedic branches and hence potentially no conflict
 
 \[Obj.:\] But in regard \[to these texts\], why do the knowers of the Veda hate \[the idea\] that they are based on the Veda? |
 
@@ -2279,7 +2283,7 @@ Like the mention of Manu in this passage implies through synecdoche \[all\] the 
 
 \[the mention of Manu\] should be explained as also aiming at implying the Arhat, Kapila, the Buddha, etc. 
 
-##### 6.2.2.3 Lokāyata texts have no independent value 
+###### 6.2.2.3 Lokāyata texts have no independent value 
 \[Obj.\] But in this way also in regard to the sacred texts of the Lokāyatas there would be validity, because one sees that \[they\] have a Vedic root, namely: “The mass of consciousness arises out of these elements and then vanishes with them. There is no awareness \( *saṃjñā*\) after death”.125 And therefore, once the Lokāyata system has become valid,xlv adieu \( *svasti*\) to all other sacred texts\! 
 
 \[R.:\] It must be replied:
@@ -2308,7 +2312,7 @@ By contrast, for the other systems \( *śāstra*\) it is wrong to postulate that
 
 Therefore, all sacred texts are valid because they are based on the Veda \(the Lokāyata and similar texts are not sacred texts, but just opponent’s statements\). 
 
-### 6.3 Conclusion through Mīmāṃsā and Nyāya arguments
+#### 6.3 Conclusion through Mīmāṃsā and Nyāya arguments
 
 \[Obj.:\] “Once one has justified in this way the validity of all sacred texts |
 
@@ -2388,7 +2392,7 @@ V. Raghavan interpreted this verse as a mention of the *Kuṭṭanīmata*, and t
 
 48
 
-**Notes**
+#### Notes
 
 i *vatsa pṛcchasi * with K1, also in accordance with the fact that *vatsa * is generally used in the vocative. 
 
@@ -2498,9 +2502,9 @@ xlix- *vrataṃ kila*, as in K1, without *idaṃ *\(unmetrical\).
 
 50
 
-## 7 Abbreviations
+### 7 Abbreviations
 
-### 7.1 Texts
+#### 7.1 Texts
 
 ĀḌ *Āgamaḍambara * by Jayanta, see Dezső 2005
 
@@ -2524,7 +2528,7 @@ TS *Tattvasaṅgraha * by Śāntarakṣita, see Śāstrī 1981, 1982
 
 TV *Tantravārttika * by Kumārila Bhaṭṭa, see JS
 
-### 7.2 Other abbreviations
+#### 7.2 Other abbreviations
 
 Mī. Mīmāṃsaka
 
@@ -2536,7 +2540,7 @@ R. Unidentified replier, possibly Jayanta himself
 
 UP Unidentified *uttarapakṣin*, upholder of an intermediate view, distinct from both the *prima facie * one and the final one. 
 
-## 8 Primary sources
+### 8 Primary sources
 
 Appayya Dīkṣita \(1890\). *Siddhāntaleśasaṅgraha with extracts of the Śrīkṛṣṇālaṃkāra of Acyu-takṛṣṇānandatīrtha*. Ed. by Gaṅgādhara Śāstrī Mānavallī. Vizianagram Sanskrit Series. 
 
@@ -2630,7 +2634,7 @@ by K.Kunjunni Raja, and R. Thangaswamy. 2nd revised. Madras University Sanskrit 
 
 Varadācārya, K.S., ed. \(1969, 1983\). *Nyāyamañjarī of Jayanta Bhaṭṭa with Ṭip-pani—Nyāyasaurabha by the Editor*. Vol. 2. Mysore: Oriental Research Institute. 
 
-## 9 Secondary sources
+### 9 Secondary sources
 
 Bhattacharyya, Janaki Vallabha \(1978\). *Jayanta Bhaṭṭa’s Nyāya-Mañjarī. The compendium of* *Indian Speculative Logic*. Delhi: Motilal Banarsidass. 
 
