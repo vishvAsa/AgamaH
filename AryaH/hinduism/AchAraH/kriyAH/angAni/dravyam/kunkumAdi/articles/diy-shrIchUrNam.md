@@ -2,7 +2,7 @@
 title = "DIY shrIchUrNam"
 +++
 
-
+(For other techniques, see [here](../../sources).)
 
 If one is interested to prepare Srichurnam on his own, here is the method to prepare it. This method of preparing Srichurnam has been carried forward for generations:
 
