@@ -3,63 +3,48 @@ title = "1 2 Introductory study: Jayanta between Nyāya and Mīmāṃsā"
 
 +++
 
-Bhaṭṭa Jayanta was a Kaśmīri philosopher active during the reign of Śaṅkaravarman \(reg. 
-
-883-902 AD2\). Three works of him are extant, the short compendium *Nyāyakalikā*, the philosophical drama *Āgamaḍambara *\(henceforth ĀḌ\) and his opus magnum, the *Nyāyamañjarī*
-
-\(henceforth NM\). Throughout his works, Jayanta displays a thorough knowledge of Nyāya, but also of Mīmāṃsā, and is especially precious as a source for the thought of Kumārila, whose works rarely achieve the same clarity of expression of those by Jayanta \(on this topic, see also section II.3\). 
+Bhaṭṭa Jayanta was a Kaśmīri philosopher active during the reign of Śaṅkaravarman \(reg. 883-902 AD2\). Three works of him are extant, the short compendium *Nyāyakalikā*, the philosophical drama *Āgamaḍambara *\(henceforth ĀḌ\) and his opus magnum, the *Nyāyamañjarī* \(henceforth NM\). Throughout his works, Jayanta displays a thorough knowledge of Nyāya, but also of Mīmāṃsā, and is especially precious as a source for the thought of Kumārila, whose works rarely achieve the same clarity of expression of those by Jayanta \(on this topic, see also section II.3\). 
 
 The NM is divided in twelve books \( *āhnika*\), which discuss the definitions \( *lakṣaṇasūtra*\) found in the *Nyāyasūtra *\(henceforth NS\). Alone NS 1.1.7, i.e. “Language \[as an instrument of knowledge\] is the teaching of a reliable \[speaker\]” \( *āptopadeśaḥ śabdaḥ*\) is discussed for four out of the twelve books, i.e., NM 3-6. The passage we examine and translate here \(henceforth called SĀP3\) is located within NM 4. Table 1 illustrates the contents of NM 4:4
 
-The Lord as the author of the Vedas
-
+The Lord as the author of the Vedas  
 NM, vol. I, pp. 573-590
 
-The Lord as the author of the connection of
-
+The Lord as the author of the connection of words and meanings  
 NM, vol. I, pp. 591-603
 
-words and meanings
 
-The Vedas’ validity
-
+The Vedas’ validity  
 NM, vol. I, pp. 603-614
 
-The Atharvaveda’s validity
-
+The Atharvaveda’s validity  
 NM, vol. I, pp. 614-629
 
-The validity of all sacred texts \(SĀP\)
-
+The validity of all sacred texts \(SĀP\)  
 NM, vol. I, pp. 629-649
 
-Faults of the Veda
-
+Faults of the Veda  
 NM, vol. I, pp. 649-667
 
-Commendatory statements, mantras and *nāmadheya* s
-
+Commendatory statements, mantras and *nāmadheya* s  
 NM, vol. I, pp. 667-690
 
-Ultimate meaning of the Veda
-
+Ultimate meaning of the Veda  
 NM, vol. I, pp. 691-703
 
 Table 1: Contents of NM 4
 
 Thus, the SĀP follows the establishment of God as author of the Veda. The demonstration that God is the author of the Veda relies on the fact that God can perceive dharma, 1Namely, Kataoka 2005, Kataoka 2007a, Kataoka 2008, Kataoka 2009, Kataoka 2010, Kataoka 2011a. For further details on the manuscript, see Graheli forthcoming, section 2.16; for its high importance within an hypothetical stemma of the NM, see also Graheli 2011. Graheli identifies the manuscript with the sigla MDUC 2606. 
 
-2Dates reconstructed on the basis of the *Rājataraṅginī * in Stein 1961, p. 98. For further details concerning Jayanta’s family and personality, see Kataoka 2007c
+[^2]: Dates reconstructed on the basis of the *Rājataraṅginī * in Stein 1961, p. 98. For further details concerning Jayanta’s family and personality, see Kataoka 2007c
 
-3As explained in Kataoka 2007b, p. 77, fn. 11, the designation *Sarvāgamaprāmāṇya * derives from the appellative *sarvāgamaprāmāṇyavādin * attributed to Saṅkarṣaṇa in the ĀḌ \(Dezső 2005, p. 196\). 
+[^3]: As explained in Kataoka 2007b, p. 77, fn. 11, the designation *Sarvāgamaprāmāṇya * derives from the appellative *sarvāgamaprāmāṇyavādin * attributed to Saṅkarṣaṇa in the ĀḌ \(Dezső 2005, p. 196\). 
 
-4All references to the NM, here and below, are to NM. 
+[^4]: All references to the NM, here and below, are to NM. 
 
 4
 
-and, therefore, overtly contradicts the Mīmāṃsā tenet that the Veda is the *only * instrument to know dharma \(see below, section II.4.1\). Nonetheless, Jayanta accommodates both Nyāya and Mīmāṃsā approaches in his SĀP, turning the Mīmāṃsā criterion into the need for a connection with the Veda, insofar as this is the exemplary text on dharma \(although no longer the only possible source for the knowledge of dharma\). The usage of Nyāya arguments along with Mīmāṃsā ones also in regard to the Veda, which could be considered as the specific field of Mīmāṃsā, harmonises with Jayanta’s general point that the Nyāya is the only system which can establish the Veda’s *validity*, since the Mīmāṃsā rather focuses on its exegesis \(see SĀP
-
-section 5.2.2.4; on this topic see also Halbfass 1986-92 and Kataoka 2007a\). The joint usage of Mīmāṃsā and Nyāya arguments is a fixed pattern in the NM, see, e.g., NM 9, Vijñānadvaita section, where the differences between the two systems are ignored in order for them to fight against their common enemy, the Buddhists.5 Also in the ĀḌ, Mīmāṃsakas and Naiyāyikas join forces against the “haters of the Veda” \(Dezső 2005, p. 186\). 
+and, therefore, overtly contradicts the Mīmāṃsā tenet that the Veda is the *only * instrument to know dharma \(see below, section II.4.1\). Nonetheless, Jayanta accommodates both Nyāya and Mīmāṃsā approaches in his SĀP, turning the Mīmāṃsā criterion into the need for a connection with the Veda, insofar as this is the exemplary text on dharma \(although no longer the only possible source for the knowledge of dharma\). The usage of Nyāya arguments along with Mīmāṃsā ones also in regard to the Veda, which could be considered as the specific field of Mīmāṃsā, harmonises with Jayanta’s general point that the Nyāya is the only system which can establish the Veda’s *validity*, since the Mīmāṃsā rather focuses on its exegesis \(see SĀP section 5.2.2.4; on this topic see also Halbfass 1986-92 and Kataoka 2007a\). The joint usage of Mīmāṃsā and Nyāya arguments is a fixed pattern in the NM, see, e.g., NM 9, Vijñānadvaita section, where the differences between the two systems are ignored in order for them to fight against their common enemy, the Buddhists.5 Also in the ĀḌ, Mīmāṃsakas and Naiyāyikas join forces against the “haters of the Veda” \(Dezső 2005, p. 186\). 
 
 As for the immediately preceding section, the Vedic status of the Atharvaveda was very controversial \(it is, for instance, not accepted by our earliest witnesses, such as Kauṭilya’s *Arthaśāstra*, which only speaks of the Veda as *trayī*, nor has it ever been accepted by Mīmāṃsakas\). 
 
@@ -69,7 +54,7 @@ In the SĀP \(see Table of Contents\), Jayanta presents Nyāya and Mīmāṃsā 
 
 validity, \(2. invalidity\) and 3. conflict among different sacred texts or between one of them and the Veda. 
 
-## 1.2.1 Survey of Research**
+## 1.2.1 Survey of Research
 
 After Paul Hacker has driven the scholars’ attention on the SĀP in his essay on *Religious* *Tolerance and Intolerance in Hinduism *\(Hacker 1957\), the SĀP has been closely examined only in Wezler 1976 and, much later, in the critical edition and Japanese translation by Kei Kataoka \(Kataoka 2004a and Kataoka 2007b\). 
 
@@ -97,9 +82,9 @@ One could try to solve the problem by considering the fact that the Pāñcarātr
 
 A different tentative explanation is to consider the distinct purpose of the two texts. The ĀḌ tells the story of Saṅkarṣaṇa who is appointed by king Śaṅkaravarman as a sort of “Minister of religious affairs”. Thus, his position is not so far from that of the historical Jayanta, who was also a minister of Śaṅkaravarman. Due to his political role, Saṅkarṣaṇa needs to look at religions also from the point of view of their social impact. Consequently, he needs to take care of antisocial religious practices, such as the ones of some Śaiva ascetics. He also needs to take care of the disturbing behaviour of the Pāñcarātrins, who claim to be brahmans, and thus intervene in the brahmans’ assemblies.7 Thus, it is understandable that Saṅkarṣaṇa needs to clean out the religious horizon. Since Jayanta himself is mentioned negatively by some Śaiva ascetics in the ĀḌ \( *taśśa amacce dulāālajayaṃte*, \* *tasyāmātyo durācārajayan-taḥ *“Jayanta, his \(Śaṅkaravarman’s\) minister who acted wrongly”, Dezső 2005, p. 130, l.7\), one might imagine that he also took part to similar campaigns.8 To sum up, the ĀḌ is occa-6About the relative chronology of ĀḌ and NM we have only an indirect evidence, namely: “Since a verse that is quoted in the play \(Act Four, verse 53\) as Jayanta’s wise saying \( *sūkta*\) is also found in the NM \(NM, p. 640 \[SĀP, 6.1.1.2\]\), it seems probable that Jayanta wrote the ĀḌ following his major work on Nyāya” \(Dezső 2005, p. 16\). The same piece of evidence had already been mentioned in Raghavan 1964, p. xxvi. \(Here and wherever Dezső 2005 has been quoted, its transcriptions have been adapted to the Kyoto-Harvard standard\). 
 
-7This is a standard allegation against Pāñcarātrins, see Yāmunācārya’s Āgamaprāmāṇya \(Narasimhachary 1976, pp. 11-16; 141-2, quoted in Dezső 2004, pp. 92-94. 
+[^7]: This is a standard allegation against Pāñcarātrins, see Yāmunācārya’s Āgamaprāmāṇya \(Narasimhachary 1976, pp. 11-16; 141-2, quoted in Dezső 2004, pp. 92-94. 
 
-8The whole passage reads as follows: “King Śaṅkaravarman’s cruelty is public knowledge. That brahmin, his adviser, the wicked Jayanta is even rougher than he. They nabbed the mendicants black-blankets \[the Nīlāmbaras\], beat them to jelly, and expelled them from the kingdom, on the ground that they were outside Vedic religion. And if any other mendicant is caught who is outside Vedic religion, he’ll be beaten up, killed, thrown in jail, or slain”. 
+[^8]: The whole passage reads as follows: “King Śaṅkaravarman’s cruelty is public knowledge. That brahmin, his adviser, the wicked Jayanta is even rougher than he. They nabbed the mendicants black-blankets \[the Nīlāmbaras\], beat them to jelly, and expelled them from the kingdom, on the ground that they were outside Vedic religion. And if any other mendicant is caught who is outside Vedic religion, he’ll be beaten up, killed, thrown in jail, or slain”. 
 
 \(Dezső 2005, p. 131\)
 
@@ -123,7 +108,7 @@ A direct acquaintance with Śabara, independently of Kumārila’s interpretatio
 
 *Mokṣakārikā * and Abhinavagupta’s *Tantrāloka*, chapter XXXV. On Abhinavagupta’s approach to the authority of sacred texts see Torella 2012. 
 
-10On this topic, see Eltschinger’s remark that Kumārila’s critique of Buddhist *philosophy * may be tough, but remains fair, whereas the same author can pay gall when it comes to the social impact of Buddhism, Sāṅkhya, Yoga, Pāñcarātra, Pāśupata, etc. \(Eltschinger 2007, pp. 39-40, especially fn.38\). Eltschinger focuses on the distinction between the approach of the ŚV and that of the TV, whereas the quote above shows that even the TV is in this regard less monolithic than one could think. 
+[^10]: On this topic, see Eltschinger’s remark that Kumārila’s critique of Buddhist *philosophy * may be tough, but remains fair, whereas the same author can pay gall when it comes to the social impact of Buddhism, Sāṅkhya, Yoga, Pāñcarātra, Pāśupata, etc. \(Eltschinger 2007, pp. 39-40, especially fn.38\). Eltschinger focuses on the distinction between the approach of the ŚV and that of the TV, whereas the quote above shows that even the TV is in this regard less monolithic than one could think. 
 
 7
 
@@ -151,7 +136,7 @@ Consequently, Mīmāṃsā authors need to demonstrate that dharma is really una
 
 *\[…\] tasmād arthāpattir evātrāvyabhicārād upacārāt paścān mānād anumānatvenoktā*, TV ad 1.3.2, Subbāśāstrī 1929-1934, p. 165, l.14\). 
 
-12By contrast, Prabhākara’s *Bṛhatī * is most probably the source of other passages of the NM, see Watson 2010, p. 306, fn. 27. 
+[^12]: By contrast, Prabhākara’s *Bṛhatī * is most probably the source of other passages of the NM, see Watson 2010, p. 306, fn. 27. 
 
 8
 
@@ -173,7 +158,7 @@ The reference to the three times then became popular also among Bhāṭṭas \(s
 
 14 *yajetetyādau hi vidhir bhāvanāyāḥ kāryatvam avagamayati, tena ca kāryātmanā rūpeṇa saiva bhāvanā dharmaḥ,* *tac cāsyāḥ kālatrayāsaṃspṛṣṭaṃ rūpam *\(Shah 1972, p. 57\). 
 
-15For a history of the Mīmāṃsā vs. Nyāya debate on the validity of the Veda, see Freschi and Graheli 2005, where the Āyurveda-Veda argument is discussed and analysed at length. For the Mīmāṃsā criticism of this argument see Kataoka 2011b, pp. 343-345. 
+[^15]: For a history of the Mīmāṃsā vs. Nyāya debate on the validity of the Veda, see Freschi and Graheli 2005, where the Āyurveda-Veda argument is discussed and analysed at length. For the Mīmāṃsā criticism of this argument see Kataoka 2011b, pp. 343-345. 
 
 9
 
@@ -243,11 +228,11 @@ This \(Vedic word\) is of two kinds: perceivable and inferable. \[Obj.\] What is
 
 \[such as\] “One must perform the Aṣṭakā ceremony”. \[Obj.\] How \[can this be a *probans*\]? \[R.:\] To begin with, this recollected tradition is accepted by people belonging to the three \[upper\] classes without disagreement \( *vigāna*\). And an agreement would not be possible in the case of something with no base. And 17“\[Other texts are not valid\] also in case one sees a reason \[which could have lead someone to make them up, such as personal interest”. For further details, see section II.4.2.1. 
 
-18The text of the *Bṛhatī * is rather obscure: “As for what has to be done, to begin with, the recollected tradition is able \[to convey it\]. \[If\] you now say that the recollected tradition is not a cause \[able to convey what has to be done\], 
+[^18]: The text of the *Bṛhatī * is rather obscure: “As for what has to be done, to begin with, the recollected tradition is able \[to convey it\]. \[If\] you now say that the recollected tradition is not a cause \[able to convey what has to be done\], 
 
 \[then\] the fact that it is not a cause \[must\] be ascertained. Nor is it possible to ascertain that the recollected tradition is not a cause for that \(i.e, teaching of what has to be done\), because it is in contact \( *saṃyoga*\) with the Veda and there is no other cause in regard to this duty” \( *kāryatas tāvat smaraṇe śaktir asti. smaraṇam idānīm akāraṇam ity* *akāraṇatā smaraṇe ’dhyavasīyate. na ca tadakāraṇatvaṃ smaraṇe ’dhyavasātuṃ śakyate saṃbhavād vedasaṃyogasya,* *kāraṇāntarasya cāsaṃbhavāt asmin kārye *\( *Bṛhatī * ad 1.3.2, Subrahmanya Sastri 1962, p. 78\). 
 
-19anumito *’pi tāvac chabdo bodhaka eva \[…\] na cānumeyatvād avedatvam, vedo hi nāma apauruṣeyaḥ śab-dasaṅghātaḥ. na cānumīyamānasya tadānīm aśrotragrahaṇatayā śabdatvam evānupapannam. lipyavagatasyeva yo-gyatayā hi śrotragrahaṇatā tasya vidyate tasyāpi kakārādivarṇamayatvāt. \[…\] * anabhivyaktatayā *grantho nopalab-hyate tathāpi tasyānumānam aviruddham*. \( *Ṛjuvimalā * ad *Bṛhatī * 1.3.2, Subrahmanya Sastri 1962, pp. 79–80\). Note the \(emphasised\) similarities with Jayanta’s exposition. In the same passage, Śālikanātha also quotes *Mānavadharmaśāstra *\(henceforth MDhŚā\) 2.7, like Jayanta in SĀP, section 6.2.2.2\). 
+[^19]: anumito *’pi tāvac chabdo bodhaka eva \[…\] na cānumeyatvād avedatvam, vedo hi nāma apauruṣeyaḥ śab-dasaṅghātaḥ. na cānumīyamānasya tadānīm aśrotragrahaṇatayā śabdatvam evānupapannam. lipyavagatasyeva yo-gyatayā hi śrotragrahaṇatā tasya vidyate tasyāpi kakārādivarṇamayatvāt. \[…\] * anabhivyaktatayā *grantho nopalab-hyate tathāpi tasyānumānam aviruddham*. \( *Ṛjuvimalā * ad *Bṛhatī * 1.3.2, Subrahmanya Sastri 1962, pp. 79–80\). Note the \(emphasised\) similarities with Jayanta’s exposition. In the same passage, Śālikanātha also quotes *Mānavadharmaśāstra *\(henceforth MDhŚā\) 2.7, like Jayanta in SĀP, section 6.2.2.2\). 
 
 11
 
@@ -279,7 +264,7 @@ liṅgabhūtāyās sambhavān nānumānavighātaḥ \(PrP, pp. 249-250\). Note t
 
 21 *vaidikam eva śāstram iti siddham. tat tu dvividhaṃ pratyakṣam anumānaṃ ca. tatrādyam \[…\] svādhyāyātmako* *vedarāśiḥ. dvitīyas tu nityānumeyaḥ. tatra liṅgaṃ smṛtiḥ ācāraś ca *\( *Tantrarahasya * III, section 7.7, TR, p. 39\). 
 
-22The *Tattvasaṅgraha * quotes, probably from Kumārila’s *Bṛhaṭṭīkā*, the following statement: “\[…\] The whole world has never been different from how it is now” \( *jagat sarvaṃ na kadācid anīdṛśam*, Śāstrī 1981, 1982 vv. 2274, 3113\). 
+[^22]: The *Tattvasaṅgraha * quotes, probably from Kumārila’s *Bṛhaṭṭīkā*, the following statement: “\[…\] The whole world has never been different from how it is now” \( *jagat sarvaṃ na kadācid anīdṛśam*, Śāstrī 1981, 1982 vv. 2274, 3113\). 
 
 Jayanta reproduces it, with minor variations several times, as a sort of Mīmāṃsā-motto \(see Dezső 2005, p. 244, l.7-8; NM 3, Kataoka 2005, p. 337; NM 8, NM, p. 424, ll.3-4, vol. II\). 
 
@@ -437,7 +422,7 @@ refused. Therefore, the option between rice and barley and between the Bṛhad a
 
 For this reason, it has been said that a recollected tradition which contradicts the Veda is not an instrument of knowledge. Therefore \[ritual practices\] such as that of covering \[with a cloth\] the whole post must not be observed.25
 
-24On the topic of option, see also Kataoka 2011b, p. 282 and Kataoka 2004b, p. 141. 
+[^24]: On the topic of option, see also Kataoka 2011b, p. 282 and Kataoka 2004b, p. 141. 
 
 25 *na ca vākyenāvagato ’rtho ’pahnūyate. tasmād vrīhiyavayor upapanno vikalpo bṛhadrathantarayoś ca. tasmād* *uktaṃ śrutiviruddhā smṛtir apramāṇam iti. ataś ca sarvaveṣṭanādi nādaraṇīyam *\(ŚBh ad 1.3.3\). On the Bṛhat and Rathantara tunes see also SĀP, section 2.2.2. 
 
@@ -502,7 +487,7 @@ Mīmāṃsā authors agree that the Śyena sacrifice has not to be performed \(a
 
 In an article appeared on *Nature * in 2007, Dan Jones questions Kass’ approach by asking whether disgust “plays a constructive, or viscerally reactionary role” \(Jones 2007\). 
 
-28Many insightful remarks on this topic can be found also in Kataoka 2011b, pp. 494-6. 
+[^28]: Many insightful remarks on this topic can be found also in Kataoka 2011b, pp. 494-6. 
 
 18
 
@@ -563,9 +548,9 @@ This gradual enlargement of the scope of what counts as an authoritative sacred 
 
 4. section 6.2.1.1: Instead of “having reliable authors”, God is introduced as the author of all sacred texts, 
 
-30On *yogipratyakṣa * see in particular Franco 2009 and Torella 2008. 
+[^30]: On *yogipratyakṣa * see in particular Franco 2009 and Torella 2008. 
 
-31On the import of this move, see the following remark: “\[…\] he here begins by posing the question as to whether he is interested in vindicating the validity of Vedas alone or also that of the non-Vedic scriptural texts, a question he first answers by asking a counter-question as follows: ‘Which non-Vedic scriptural texts do you mean? Do you mean texts of the form of Purāṇas, Itihāsas, Dharmaśāstras or texts of the form of the sectarian writings of Śaivas, Pāśupatas, Pāñcarātras, Buddhists, Jainas etc.?’ Jayanta’s counter-question is revealing inasmuch as it implies some sort of gradation among the non-Vedic scriptural texts. \[…\] Then there was the Mīmāṃsaka who must be having misgivings about Purāṇas so much permeated by a theistic outlook he so much abhorred; but even he would as a general rule endorse an injunction laid down in a Dharmaśāstra-text \[…\].” \(Shah 1992-97, p. 13\). And, referring to a later passage, in section 3.2: “Being a Purāṇist Jayanta must have been interested in ensuring that Purāṇic theology
+[^31]: On the import of this move, see the following remark: “\[…\] he here begins by posing the question as to whether he is interested in vindicating the validity of Vedas alone or also that of the non-Vedic scriptural texts, a question he first answers by asking a counter-question as follows: ‘Which non-Vedic scriptural texts do you mean? Do you mean texts of the form of Purāṇas, Itihāsas, Dharmaśāstras or texts of the form of the sectarian writings of Śaivas, Pāśupatas, Pāñcarātras, Buddhists, Jainas etc.?’ Jayanta’s counter-question is revealing inasmuch as it implies some sort of gradation among the non-Vedic scriptural texts. \[…\] Then there was the Mīmāṃsaka who must be having misgivings about Purāṇas so much permeated by a theistic outlook he so much abhorred; but even he would as a general rule endorse an injunction laid down in a Dharmaśāstra-text \[…\].” \(Shah 1992-97, p. 13\). And, referring to a later passage, in section 3.2: “Being a Purāṇist Jayanta must have been interested in ensuring that Purāṇic theology
 
 —in fact so markedly different from Vedic ritual— is somehow rooted in Vedas themselves. So he decides to take advantage of the Mīmāṃsaka’s insistence that Smṛti-ritual \[…\] is somehow rooted in Vedas themselves. \[…\] The point is confirmed by recalling the list of fourteen *vidyāsthāna* s which include four Vedas, Dharmaśāstras, Purāṇas on the one hand and six Vedāṅgas, Nyāya and Mīmāṃsā on the other; Jayanta emphasises that the first six *vidyāsthāna* s are of theological use in a direct fashion, the remaining eight in an indirect fashion” \(Shah 1992-97, pp. 15-16\). For a partial criticism of this view, see section II.5. 
 
@@ -762,7 +747,7 @@ Table 16 shows how also the criteria mentioned in the ĀḌ can be understood in
 
 *101 ||*
 
-33For the textual sources of these criteria, cf. *na cāpi * smṛtyavicchedāt *\[1\] sarvajñaḥ parikalpyate | * vigānāc *\[2\]*
+[^33]: For the textual sources of these criteria, cf. *na cāpi * smṛtyavicchedāt *\[1\] sarvajñaḥ parikalpyate | * vigānāc *\[2\]*
 
 chinnamūlatvāt *\[3\] * kaiś cid eva parigrahāt *\[4\] || *\(ŚV codanā 133\); *dṛśyante hy anāgamikān apy arthān * āgamikatvādhyāropeṇa *\[1\] kecid adyatve ’py abhidadhānāḥ *\(TV ad 1.3.1, Subbāśāstrī 1929-1934, p. 160, ll.26–27\); *na ca sarveṣāṃ*
 
@@ -944,7 +929,7 @@ Does this final position amount to inclusivism35 or pluralism? In other words, d
 
 The latter seems to be the case, since all sacred texts are said to be valid and to differ from each 34“Jayanta discreetly kept silent about the Purāṇic ritual as such because that was practised by the Purāṇist camp as a whole; but he could say about the sub-sects like Śaiva etc. that they practiced a ritual of their own” \(Shah 1992-97, p. 16\). “On his part, a Purāṇist would be much interested in defending the efficacy of the cult of Purāṇic ritual and in defending the validity of each single Purāṇic utterance, but these two tasks Jayanta has evaded even when an occasion was due. And the evasion must have been tactical. For Jayanta has been emphasising that the central aim of Nyāya philosophy is to vindicate the validity of Vedic testimony and he could not but note that to vindicate the validity of Vedic testimony and to vindicate the validity of Purāṇic testimony are two different propositions altogether” \(Shah 1992-97, pp. 20–21\). 
 
-35On inclusivism as the standard “Hindū” approach, see Oberhammer and Hacker 1983, which includes a paper by Hacker \(who was possibly the first author to deal with the SĀP, see above, section II.1\). 
+[^35]: On inclusivism as the standard “Hindū” approach, see Oberhammer and Hacker 1983, which includes a paper by Hacker \(who was possibly the first author to deal with the SĀP, see above, section II.1\). 
 
 26
 
@@ -986,6 +971,6 @@ Table 18: Oscillations between the Mīmāṃsā and the Nyāya approach other be
 
 It is noteworthy that Jayanta’s innovative approach lies in the combination of criteria which, on their own, had already been found in previous authors. The idea that Buddhist teachings are in fact instrumental to something else \(section 6.1.1.2\), for instance, has a clear antecedent in Kumārila’s reading of Buddhist texts as aiming at a purpose different than what they declare —i.e., at making one’s attachment to worldly things loosen, rather than at proclaiming the actual non-existence of a self or of continuity through times \(TV ad 1.3.2, Subbāśāstrī 1929-1934, p. 168; see section II.2\). Similarly, the idea that emotions are not a good guide for moral judgement \(see section II.4.4\) is already present in Kumārila’s refusal to ground one’s judgement on one’s instinctive emotions \(cf. section 6.1.2 of the SĀP\) —whereas the cultivated emotions of educated people might well play an auxiliary role. 
 
-36Kumārila’s defence of tradition and of the necessity of relying on an authority is very far from the acceptance of *any * authority just insofar as it is an authority. See, for instance, his denial of the idea that an exemplary people could come from a different country: *mahājanagṛhītatvaṃ pitrādyanugamādi ca | te ’pi dvīpāntarāpekṣaṃ vadanty* *eva svadarśane || *\(TV ad 1.3.4 \(Subbāśāstrī 1929-1934, p. 194, ll.27–28\). For a detailed examination of this point, see Halbfass’ reply to Taber in Franco and Preisendanz 1997: “Kumārila does not simply represent a special kind of traditionalism; he is a fundamentalist. For him, traditionalism \(which is characterized by the acceptance of ancestral habits, commonly recognized standards, etc.\) is nothing more than conventionalism. To be sure, Kumārila did not have to face the modern specter of relativism. Yet he was familiar with numerous incompatible religious traditions and moral codes; and he faced these traditions as well as his own tradition from the outside. He did not simply advocate what he had received from and through his tradition, but he set himself the task of identifying an underlying principle for his tradition, and of defending it in an open arena of philosophical debate” \(Halbfass 1997, p. 480\). 
+[^36]: Kumārila’s defence of tradition and of the necessity of relying on an authority is very far from the acceptance of *any * authority just insofar as it is an authority. See, for instance, his denial of the idea that an exemplary people could come from a different country: *mahājanagṛhītatvaṃ pitrādyanugamādi ca | te ’pi dvīpāntarāpekṣaṃ vadanty* *eva svadarśane || *\(TV ad 1.3.4 \(Subbāśāstrī 1929-1934, p. 194, ll.27–28\). For a detailed examination of this point, see Halbfass’ reply to Taber in Franco and Preisendanz 1997: “Kumārila does not simply represent a special kind of traditionalism; he is a fundamentalist. For him, traditionalism \(which is characterized by the acceptance of ancestral habits, commonly recognized standards, etc.\) is nothing more than conventionalism. To be sure, Kumārila did not have to face the modern specter of relativism. Yet he was familiar with numerous incompatible religious traditions and moral codes; and he faced these traditions as well as his own tradition from the outside. He did not simply advocate what he had received from and through his tradition, but he set himself the task of identifying an underlying principle for his tradition, and of defending it in an open arena of philosophical debate” \(Halbfass 1997, p. 480\). 
 
 27

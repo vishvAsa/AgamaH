@@ -15,11 +15,11 @@ The Dharmaśāstras such as the one by Manu are certainly an instrument of knowl
 #### 2.1.1.2 The Vedic base 
 By contrast, in regard to them \(MDhŚā etc.\), some \(the Bhāṭṭa Mīmāṃsakas\) say that they are validii because they are based on the Veda.40 To elaborate: 37A different text \(reading *tantrāgamāntarāṇām * instead of *utāgamāntarāṇām * is presupposed by J.V. Bhattacharyya, who translates as follows: “If the first question is answered in the affirmative then the framer of the question has got nothing to say” \(Bhattacharyya 1978, p. 544. We could not really understand this translation\). N.G. Shah, though reading in the same way, translates in a way which is quite close to ours \(Shah 1975-1992, p. 65\). 
 
-38This argument is exemplified by a well-known verse of Kumārila, which will be quoted below, section 6.1.1.4. 
+[^38]: This argument is exemplified by a well-known verse of Kumārila, which will be quoted below, section 6.1.1.4. 
 
-39The argument hinted at here is that Veda and recollected tradition have the same performers, see JS 1.3.2, quoted below, section 2.1.3. N.J. Shah seems to interpret in a more doctrinal way, at least insofar as he does not hint at the connection of Vedic and Dharmaśāstric prescription within the ritual \(see section 2.1.3\): “ ‘They are as much authentic as Vedas themselves, for they enjoin certain such acts as stand connected with what Vedas teach.’ Jayanta does not pause to consider as to how the acts in question are connected with what Vedas preach, for on the face of it these acts are something new altogether” \(Shah 1992-97, p. 13\). 
+[^39]: The argument hinted at here is that Veda and recollected tradition have the same performers, see JS 1.3.2, quoted below, section 2.1.3. N.J. Shah seems to interpret in a more doctrinal way, at least insofar as he does not hint at the connection of Vedic and Dharmaśāstric prescription within the ritual \(see section 2.1.3\): “ ‘They are as much authentic as Vedas themselves, for they enjoin certain such acts as stand connected with what Vedas teach.’ Jayanta does not pause to consider as to how the acts in question are connected with what Vedas preach, for on the face of it these acts are something new altogether” \(Shah 1992-97, p. 13\). 
 
-40The contrast is due to the fact that the MDhŚā, etc., are according to this view not on the same level of the Veda. 
+[^40]: The contrast is due to the fact that the MDhŚā, etc., are according to this view not on the same level of the Veda. 
 
 Furthermore, this discussant adduces reasons in favour of their validity, whereas before the inquiry was avoided altogether. 
 
@@ -43,15 +43,15 @@ Therefore, out of lack of other options, the teachings of Manu, etc., must have 
 
 think that they are based on \[Vedic\] prescriptions inferred \( *unnī *-\) through observable mantras and commendatory statements. Others \(some Bhāṭṭas\) \[think that they\] are based on scattered branches \[of the Veda\]. Still others \(other Bhāṭṭas\) \[think that they\] are based on extinguished 41These must be two reasons, as pointed out by the *ca * in the parallel list *bādhakābhāvāt sādhujanaparigrahāc ca*, a few lines below \(Kataoka 2004a, p. 212, ll.4–5\). 
 
-42See Introductory Study, section II.4.1. 
+[^42]: See Introductory Study, section II.4.1. 
 
-43This elliptic sentence allows more than one interpretation. We favoured this one interpreting it as a short insertion within the flow of the argument. Alternatively, one could read “…what would have Manu done wrong \[in following him\]?”, with the *hi * in the next sentence answering directly to it. A similar rhetorical question, with no answer is found in NM 4, NM, p. 608, in the context of discussing the validity of Āyurveda: *vedamūlatvam api …ayuktaṃ*
+[^43]: This elliptic sentence allows more than one interpretation. We favoured this one interpreting it as a short insertion within the flow of the argument. Alternatively, one could read “…what would have Manu done wrong \[in following him\]?”, with the *hi * in the next sentence answering directly to it. A similar rhetorical question, with no answer is found in NM 4, NM, p. 608, in the context of discussing the validity of Āyurveda: *vedamūlatvam api …ayuktaṃ*
 
 *kalpayitum…puruṣāntaropadeśapūrvakatve carakeṇaiva kim aparāddham? *
 
-44The topos of the untrustworthy recollection concerning colour handed down from one blind person to the other \(about which see the introductory study, section II.4.2\) is already in ŚBh ad 1.3.1, Subbāśāstrī 1929-1934, pp. 162-163. 
+[^44]: The topos of the untrustworthy recollection concerning colour handed down from one blind person to the other \(about which see the introductory study, section II.4.2\) is already in ŚBh ad 1.3.1, Subbāśāstrī 1929-1934, pp. 162-163. 
 
-45Bhattacharyya translates all ablatives as reasons for the statement that the Veda is the base of the recollected tradition: “No person is known to be infallible. The words of a person are sure to deceive us by their misdirection. 
+[^45]: Bhattacharyya translates all ablatives as reasons for the statement that the Veda is the base of the recollected tradition: “No person is known to be infallible. The words of a person are sure to deceive us by their misdirection. 
 
 An assumption must be based upon the solid rock of facts. If it is far away from facts then it is not convincing. 
 
@@ -61,7 +61,7 @@ Again, we shall have to make a minimum number of assumptions if we hold that Sm�
 
 performances which we actually see” \( *\[…\] kāraṇ ke \[…\] dṛṣṭ anuṣṭhānonuṃ samarthan karavānuṃ sāmarthy*, Shah 1975-1992, p. 67\). 
 
-46On the identification of these Mīmāṃsakas see the introductory study, section II.4.2. 
+[^46]: On the identification of these Mīmāṃsakas see the introductory study, section II.4.2. 
 
 29
 
@@ -84,15 +84,15 @@ Another \(Mīmāṃsaka\)52 says: “In this case \(of conflict\) the option is 
 
 48“\[…\]if we are true to our reasoning power” \(Bhattacharyya 1978, p. 545\). Shah translates “in the appropriate way” \( *je rīte ghaṭe te rīte*, Shah 1975-1992, p. 67\)
 
-49Although Kumārila’s final position will be different \(see introductory study, section II.4.3\), this view is probably inspired by his words: “To begin with, the recollected tradition is not recognised as an instrument for knowing dharma in itself, so that —sharing an equal rank \[with the Veda\]— it would reach the chance of being opted for
+[^49]: Although Kumārila’s final position will be different \(see introductory study, section II.4.3\), this view is probably inspired by his words: “To begin with, the recollected tradition is not recognised as an instrument for knowing dharma in itself, so that —sharing an equal rank \[with the Veda\]— it would reach the chance of being opted for
 
 \[instead of the Veda, in case of conflicts\]” \( *smṛter dharmapramāṇatvaṃ na tāvat svata iṣyate | tulyakakṣatayā yena* *vikalpapadavīṃ vrajet ||*, TV ad 1.3.3, Subbāśāstrī 1929-1934, p. 175\). 
 
-50The temporal intepretation of *yāvad…tāvad * is justified by the source passage, i.e., TV ad 1.3.3: *smṛtyā cārthaṃ*
+[^50]: The temporal intepretation of *yāvad…tāvad * is justified by the source passage, i.e., TV ad 1.3.3: *smṛtyā cārthaṃ*
 
 *parāmṛśya yāvat tadviṣayāṃ śrutim | anumātuṃ pravarteta tāvat so ’rtho ’nyato gataḥ || *\(Subbāśāstrī 1929-1934, p. 177, ll.9–10\)
 
-51We interpret the passage as stating that the Veda overcomes the recollected tradition because a directly perceived statement overcomes an inferred one, insofar as if there is a perceived statement, the inference just does not take place. This is in harmony with the Mīmāṃsā tenet \(for which, see Kataoka 2003b\) that an instrument of knowledge must yield fresh information \(against the Nyāya claim that more than one instrument of knowledge can know the same thing, or *pramāṇasamplava*\). By contrast, Bhattacharyya excludes the possibility of contradictions between Vedic passages and translates accordingly: “Whenever one exerts his mind to recollect a passage from the Vedas which constitutes the basis of the Smṛti text the Vedic passage which contradicts the conclusion of the Smṛti text flashes before his mind. How can one assume that the said Smṛti text has a corresponding Vedic passage as its basis? 
+[^51]: We interpret the passage as stating that the Veda overcomes the recollected tradition because a directly perceived statement overcomes an inferred one, insofar as if there is a perceived statement, the inference just does not take place. This is in harmony with the Mīmāṃsā tenet \(for which, see Kataoka 2003b\) that an instrument of knowledge must yield fresh information \(against the Nyāya claim that more than one instrument of knowledge can know the same thing, or *pramāṇasamplava*\). By contrast, Bhattacharyya excludes the possibility of contradictions between Vedic passages and translates accordingly: “Whenever one exerts his mind to recollect a passage from the Vedas which constitutes the basis of the Smṛti text the Vedic passage which contradicts the conclusion of the Smṛti text flashes before his mind. How can one assume that the said Smṛti text has a corresponding Vedic passage as its basis? 
 
 In other words, as there is no contradiction in the Vedas so the two conflicting Vedic passages do not exist. Kumārila says to this effect. A proverb runs thus: — “How can an ass carry a load which was carried before by a horse?” 
 
@@ -126,11 +126,11 @@ Therefore, the teachings of Manu, etc., should be based on it \(yogic perception
 
 53“So Śruti and Smṛti are nothing but the Vedas living and dead in our memory” \(Bhattacharyya 1978, p. 546\). 
 
-54And hence it does not need to be inferred from the directly heard Veda, it is there ab initio, see Introductory Study, section II.4.2. 
+[^54]: And hence it does not need to be inferred from the directly heard Veda, it is there ab initio, see Introductory Study, section II.4.2. 
 
-55NMGBh glosses *saṃvalita * with *miśra*, and Jayanta himself speaks of *miśrānuṣṭhāna * in section 6.2.2.1. 
+[^55]: NMGBh glosses *saṃvalita * with *miśra*, and Jayanta himself speaks of *miśrānuṣṭhāna * in section 6.2.2.1. 
 
-56The reference is to a passage in the ŚBh, where the opponent claims that no sipping has to be performed, since it is not mentioned in the Vedic texts, which —instead— just say that “after having made the broom, he should make the altar” \( *vedaṃ kṛtvā vediṃ kurvīta*, ŚBh ad 1.3.6, Subbāśāstrī 1929-1934, p. 197\). As with section 2.1, Shah underplays the role of performers and interprets the passage as referring to doctrinal contents rather than ritual practices: “That is impossible because our Smṛtis say new things in conjunction with what Vedas say, which is not the case with non-Vedic scriptural texts; e.g. Smṛtis enjoin sipping water, which is something new to them and they enjoin furnishing the sacrificial ground, which is something said in Vedas” \(Shah 1992-97, p. 14\). 
+[^56]: The reference is to a passage in the ŚBh, where the opponent claims that no sipping has to be performed, since it is not mentioned in the Vedic texts, which —instead— just say that “after having made the broom, he should make the altar” \( *vedaṃ kṛtvā vediṃ kurvīta*, ŚBh ad 1.3.6, Subbāśāstrī 1929-1934, p. 197\). As with section 2.1, Shah underplays the role of performers and interprets the passage as referring to doctrinal contents rather than ritual practices: “That is impossible because our Smṛtis say new things in conjunction with what Vedas say, which is not the case with non-Vedic scriptural texts; e.g. Smṛtis enjoin sipping water, which is something new to them and they enjoin furnishing the sacrificial ground, which is something said in Vedas” \(Shah 1992-97, p. 14\). 
 
 31
 
@@ -154,16 +154,16 @@ Also in the Veda it is recited that the dharma is perceptible for Manu, etc.: �
 
 \[Nai.:\] It must be replied: There might well be option. What is wrong \[with it\]? Also the ones \(the Mīmāṃsakas\)61 who claim that \[the Dharmaśāstras\] are based on the Veda explain some \[cases of\] option. Otherwise, the option will be explained through the distinction of content \[between Vedic and Dharmaśāstric prescriptions\].62 And the ones who are expert in 57Cf. the sequence MS 1.1.2 \( *codanālakṣaṇo ’rtho dharmaḥ *“the dharma is that good thing which is known by a Vedic injunction”\) and MS 1.1.4 \(\[…\] *pratyakṣam animittaṃ vidyamānopalambhanatvāt *“\[…\] sense perception is not a cause \[for grasping dharma\] because it grasps only present things”\), following from it. 
 
-58We could find as source only Nirukta 1.20 \(in Sarup 1984\). The same passages is quoted in the *vṛtti * ad *Vākyapadīya * I, v.5 \(Bhartrhari 1965, p. 24\). 
+[^58]: We could find as source only Nirukta 1.20 \(in Sarup 1984\). The same passages is quoted in the *vṛtti * ad *Vākyapadīya * I, v.5 \(Bhartrhari 1965, p. 24\). 
 
-59NMGBh explains that each of the two tunes is said to occur as the last one by a different prescription. Bhattacharyya adds the following explanation: “Let us take an example from the Sāma Veda. It has been enjoined that a Vedic song is to be sung loudly \(the song is to be set to the tune Bṛhat Sāman\). It has also been enjoined that the same song is to be sung lowly \(the song is to be set to the tune Rathantara Sāman\). \[…\] Therefore in such cases the performer is permitted to exercise his discretion” \(Bhattacharyya 1978, pp. 548–9\). 
+[^59]: NMGBh explains that each of the two tunes is said to occur as the last one by a different prescription. Bhattacharyya adds the following explanation: “Let us take an example from the Sāma Veda. It has been enjoined that a Vedic song is to be sung loudly \(the song is to be set to the tune Bṛhat Sāman\). It has also been enjoined that the same song is to be sung lowly \(the song is to be set to the tune Rathantara Sāman\). \[…\] Therefore in such cases the performer is permitted to exercise his discretion” \(Bhattacharyya 1978, pp. 548–9\). 
 
-60Shah explains that it is brought about by their powers: *prabhāvathī upalabdh *\(Shah 1975-1992, p. 70\). Bhattacharyya explains: “God’s perception is eternal whereas the perception of the sages is an event of time” \(Bhattacharyya 1978, p. 549\). 
+[^60]: Shah explains that it is brought about by their powers: *prabhāvathī upalabdh *\(Shah 1975-1992, p. 70\). Bhattacharyya explains: “God’s perception is eternal whereas the perception of the sages is an event of time” \(Bhattacharyya 1978, p. 549\). 
 
-61Cf. “In fact, option is correct since the instrument of knowledge \[upon which two seemingly contradictory statements are based\] is of an equal rank” \( *vikalpa eva hi nyāyyas tulyakakṣyapramāṇataḥ*, TV ad 1.3.4, Subbāśāstrī
+[^61]: Cf. “In fact, option is correct since the instrument of knowledge \[upon which two seemingly contradictory statements are based\] is of an equal rank” \( *vikalpa eva hi nyāyyas tulyakakṣyapramāṇataḥ*, TV ad 1.3.4, Subbāśāstrī
 
 1929-1934, p. 188, l.14\). See also the introductory study, section II.4.3. 
 
-62I.e., according to one’s qualifications, one will use the Veda or a Dharmaśāstra, hence there is a role-division among them \(see introductory study, section II.4.3\). Shah uses *viṣay * also in the Gujarātī translation and does not 32
+[^62]: I.e., according to one’s qualifications, one will use the Veda or a Dharmaśāstra, hence there is a role-division among them \(see introductory study, section II.4.3\). Shah uses *viṣay * also in the Gujarātī translation and does not 32
 
 the recitation of the Veda say that there is no example \( *udāharaṇa*\) of conflict between sacred texts and recollected tradition.63 Therefore, the validity of the Dharmaśāstras, like that of the Vedas, is due to the fact that they are based on the perception of a reliable person. 

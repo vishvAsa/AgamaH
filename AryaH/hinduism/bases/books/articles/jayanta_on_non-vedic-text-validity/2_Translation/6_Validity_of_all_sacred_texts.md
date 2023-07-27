@@ -11,13 +11,13 @@ because in all cases one can assume that the author is reliable, as in the case 
 
 \[and\] because one sees a general agreement \[with other instruments of knowledge\] as for parts \[of the teachings\] which aim at perceptible things ||101
 
-98Bhattacharyya attributes instead to these non-Vedic authors the intention to better understand the Veda: “As they try to dive deep into the subject-matter of the Vedas \[…\]” \(Bhattacharyya 1978, p. 553\). 
+[^98]: Bhattacharyya attributes instead to these non-Vedic authors the intention to better understand the Veda: “As they try to dive deep into the subject-matter of the Vedas \[…\]” \(Bhattacharyya 1978, p. 553\). 
 
-99Shah also glosses *artha * with *viṣaya*, Shah 1975-1992, p. 76. 
+[^99]: Shah also glosses *artha * with *viṣaya*, Shah 1975-1992, p. 76. 
 
-100E.g. non-violence \( *ahiṃsā*\) and truthfulness \( *satyavacana*\), as claimed by Kumārila, who accuses the Buddhists to have copied them from the Vedas, see TV ad 1.3.4, Subbāśāstrī 1929-1934, p. 194, ll.12–13. 
+[^100]: E.g. non-violence \( *ahiṃsā*\) and truthfulness \( *satyavacana*\), as claimed by Kumārila, who accuses the Buddhists to have copied them from the Vedas, see TV ad 1.3.4, Subbāśāstrī 1929-1934, p. 194, ll.12–13. 
 
-101The first verse implements a Mīmāṃsā approach, arguing out of *svataḥ prāmāṇya*, the second a Nyāya approach, arguing out of the reliability of the author, with a focus on the *kāraṇadoṣa*-part of the argument mentioned in the preceding verse, the third a Nyāya approach, like in the Āyurveda-Veda argument, with a focus on the *bādha*-part of the same argument. For more details on the function of this section see the introductory study, section II.4.6. Although Shah 1975-1992 is correct in pointing to a “general agreement between those parts of the sacred texts which explain visible matters and the external things” \( *āgamonā je thoḍā bhāgo dṛṣṭārthanuṃ nirūpaṇ kare che temno bāhyārth sāthe* *prāyaḥ saṃvad*, Shah 1975-1992, p. 77\), in his English synopsis Shah seems to miss the sense of *ekadeśasaṃvāda* \(for which, see introductory study, sections II.4.1 and II.4.2\) and translates: “All scriptures are authentic because all are found to be true on this question or that, just like Vedas” \(Shah 1992-97, p. 18\). 
+[^101]: The first verse implements a Mīmāṃsā approach, arguing out of *svataḥ prāmāṇya*, the second a Nyāya approach, arguing out of the reliability of the author, with a focus on the *kāraṇadoṣa*-part of the argument mentioned in the preceding verse, the third a Nyāya approach, like in the Āyurveda-Veda argument, with a focus on the *bādha*-part of the same argument. For more details on the function of this section see the introductory study, section II.4.6. Although Shah 1975-1992 is correct in pointing to a “general agreement between those parts of the sacred texts which explain visible matters and the external things” \( *āgamonā je thoḍā bhāgo dṛṣṭārthanuṃ nirūpaṇ kare che temno bāhyārth sāthe* *prāyaḥ saṃvad*, Shah 1975-1992, p. 77\), in his English synopsis Shah seems to miss the sense of *ekadeśasaṃvāda* \(for which, see introductory study, sections II.4.1 and II.4.2\) and translates: “All scriptures are authentic because all are found to be true on this question or that, just like Vedas” \(Shah 1992-97, p. 18\). 
 
 39
 
@@ -49,7 +49,7 @@ Even according to the \[Sāṅkhya\] view that the \[salvific\] knowledge is the
 
 And the distinction lies \[only\] in the fact that one is immovably permanent \(the self\) and the other \(the cognition\) is permanent as a flow.105
 
-102These examples of contradictions between Veda and recollected tradition are quoted both in the NMGBh ad loc. 
+[^102]: These examples of contradictions between Veda and recollected tradition are quoted both in the NMGBh ad loc. 
 
 and in a passage of the ŚV \(codanā v. 232\). Sucarita Miśra’s commentary on this passage of the ŚV makes it explicit that the contradiction is between Veda and recollected tradition \(Sucarita Miśra 1926-9\). 
 
@@ -57,9 +57,9 @@ and in a passage of the ŚV \(codanā v. 232\). Sucarita Miśra’s commentary o
 
 streams, the differences among religious systems regard the means and not the aim. 
 
-104Bhattacharyya translates in a way which does not seem to reflect the Sanskrit text: “Those who preach the doctrine that the soul does not exist make a show of refuting the existence of a soul” \(Bhattacharyya 1978, p. 555\). 
+[^104]: Bhattacharyya translates in a way which does not seem to reflect the Sanskrit text: “Those who preach the doctrine that the soul does not exist make a show of refuting the existence of a soul” \(Bhattacharyya 1978, p. 555\). 
 
-105Permanence \( *nityatva*\) can be of two types: *kūṭasthanityatva * and *pravāhanityatva*. The former is the permanence of something which never changes throughout times, like a mountain \(if compared to the life-span of a human being\). 
+[^105]: Permanence \( *nityatva*\) can be of two types: *kūṭasthanityatva * and *pravāhanityatva*. The former is the permanence of something which never changes throughout times, like a mountain \(if compared to the life-span of a human being\). 
 
 The latter is the permanence of something which changes continuously, but whose later stages are identical with the former ones, like a river, which is always the same notwithstanding the fact that the drops of water composing it change at every second. Similarly, the *ātman * of Nyāya, Vedānta, etc. is stable, whereas the flow of consciousness of Yogācāra Buddhists continuously reproduces itself. See also the NMGBh on this passage: “The self is permanent insofar as it is immovable, i.e., its nature does not waver. By contrast, the continuous stream of cognition is \[permanent as\] a flow insofar as it flows without interruption” \( *ātmā kūṭastho ’vicaladrūpaḥ san nityaḥ, jñānasantānas* 40
 
@@ -87,9 +87,9 @@ Because even the hesitation regarding eating from a human skull, etc. | depends 
 
 \(Bhattacharyya 1978, p. 555\). 
 
-106Bhattacharyya seems to overinterpret, possibly in order to avoid any contradiction within sacred texts \(see above, fn. 51\): “Such an objection is met thus. If they are unanimous in major topics then their difference in minor matters may be easily overlooked. But sometimes the very existence of difference invalidates a work. If an Āgama instructs a rite which loudly denounces other Āgamas then such condemnation does not amount to their invalidation since condemnation does not logically determine invalidation” \(Bhattacharyya 1978, pp. 555-556\). 
+[^106]: Bhattacharyya seems to overinterpret, possibly in order to avoid any contradiction within sacred texts \(see above, fn. 51\): “Such an objection is met thus. If they are unanimous in major topics then their difference in minor matters may be easily overlooked. But sometimes the very existence of difference invalidates a work. If an Āgama instructs a rite which loudly denounces other Āgamas then such condemnation does not amount to their invalidation since condemnation does not logically determine invalidation” \(Bhattacharyya 1978, pp. 555-556\). 
 
-107See introductory study, section II.4.4. The NMGBh explains: “The trembling of the heart is the hesitation” 
+[^107]: See introductory study, section II.4.4. The NMGBh explains: “The trembling of the heart is the hesitation” 
 
 \( *hṛdayakrośanaṃ vicikitsā*, Shah 1972, p. 114\). 
 
@@ -132,11 +132,11 @@ As for what has been said \(in section 5.2.1.2\)
 
 *karaṇāṃśopanipātinī hīti*, NMGBh Shah 1972, p. 114\). 
 
-111Jayanta may be following Śabara in that he calls the Śyena *hiṃsā*, whereas Kumārila will deny it and rather say that the act itself is not violent, only its result is \(see Kataoka 2011b, pp. 158-169\). Jayanta also follows Śabara insofar as he repeats that the Veda does not enjoin the Śyena, it only teaches it for the one who himself wants to achieve a violent result, see ŚBh ad 1.1.2, Frauwallner 1968, p. 20. 
+[^111]: Jayanta may be following Śabara in that he calls the Śyena *hiṃsā*, whereas Kumārila will deny it and rather say that the act itself is not violent, only its result is \(see Kataoka 2011b, pp. 158-169\). Jayanta also follows Śabara insofar as he repeats that the Veda does not enjoin the Śyena, it only teaches it for the one who himself wants to achieve a violent result, see ŚBh ad 1.1.2, Frauwallner 1968, p. 20. 
 
-112The source is unknown. A similar verse is quoted in a later Buddhist text, the *Avadānakalpalatā*, 55.17 \(Okano 2008, p. 67\), which could point to a Buddhist origin of this concept. 
+[^112]: The source is unknown. A similar verse is quoted in a later Buddhist text, the *Avadānakalpalatā*, 55.17 \(Okano 2008, p. 67\), which could point to a Buddhist origin of this concept. 
 
-113Bhattacharyya interprets *parapuruṣārtha * as the highest goal: “If they are proved to be the means to the ultimate goal of a human being then how can it lead to a pit-fall?”. On this interpretation of *parapuruṣārtha*, see also Kataoka 2007b, pp. 83–84. But in fact Jayanta has just stated that these sacred texts can make one achieve particular goals, 42
+[^113]: Bhattacharyya interprets *parapuruṣārtha * as the highest goal: “If they are proved to be the means to the ultimate goal of a human being then how can it lead to a pit-fall?”. On this interpretation of *parapuruṣārtha*, see also Kataoka 2007b, pp. 83–84. But in fact Jayanta has just stated that these sacred texts can make one achieve particular goals, 42
 
 #### 6.1.3.2 Violating a prohibition regards the performer, not the text 
 Else, let there be that at a later time on the basis of this \[behaviour\] there is sinfulness. Nonetheless, in this case \(eating from a skull, etc.\) the validity of the text is not lost , since the ritual action \(e.g., eating from a skull\) is enjoined as having a certain fruit \(e.g., flying\) on the basis of the difference among the people entitled \[to perform them\], like in the case of the Śyena \(thus, “If you want to fly, eat from a skull” parallels “If you want to harm your enemy, perform the Śyena”\).114
@@ -165,13 +165,13 @@ Because he, looking down at the fact that the maturation of karman \[occurs\] in
 
 And the Revered alone, attainsxxxviii this or that different name out of assuming various bodies such as flying, not the ultimate goal of human liberation. Accordingly, Bhattacharyya skips altogether “flying” and gives instead“communion with Śiva” as an example of a realised goal \(Bhattacharyya 1978, pp. 556–7\). Elsewhere Jayanta has *paramapuruṣārtha * for *mokṣa*; accordingly here *parapuruṣārtha * might mean “high, but not highest”. 
 
-114And therefore what is sinful is desiring a certain fruit, not the fact that a sacred text tells you what to do next, see introductory study, section II.4.5. 
+[^114]: And therefore what is sinful is desiring a certain fruit, not the fact that a sacred text tells you what to do next, see introductory study, section II.4.5. 
 
 115“For the ending of the present participle in ‘using black magic’ is in the sense of characterising. And a characteristic must be already established” \( *abhicarann iti hi śatṛpratyayo lakṣaṇe. lakṣaṇaṃ ca pūrvasiddhaṃ bhavati*, NMGBh, Shah 1972, p. 114\). 
 
 116 *Vinayasūtra * 26.29 \(v. 153\). Probably the passage originally rather meant “People whose bodies are defected since their birth”, i.e., who are permanently invalid. Shah reads *kāryaduṣṭa * with NM and translates: “one who makes a lower job” \( *kārya duṣṭ *\(= *hīnakarmvānī *\), Shah 1975-1992, p. 81\). In his English synopsis he just skips *kārya*: “one belonging to a mean caste should not be admitted \[…\]” \(Shah 1992-97, p. 19\). 
 
-117This view is repeated as Jayanta’s own in NM 6, NM, p. 258, where Jayanta explains that the six Vedāṅgas are in fact without beginning and authored by God. 
+[^117]: This view is repeated as Jayanta’s own in NM 6, NM, p. 258, where Jayanta explains that the six Vedāṅgas are in fact without beginning and authored by God. 
 
 43
 
@@ -201,9 +201,9 @@ Others \(upholders of the Mīmāṃsā approach\), by contrast, accepted the val
 
 this is common to all sacred texts. Nor does one directly grasp a Vedic text which is the root of the recollected traditions of Manu, etc. \[just like one does not grasp it in the case of Buddhist texts, etc.\]. But if one assumesxl \[a Vedic root\] out of inference, the same \[holds true\] also in the case of the other sacred texts. 
 
-118This enigmatic *dharmarūpeṇa * might be interpreted as “in the form of a dharmic \[person\]”, i.e., “of a person which can be regarded as embodying dharma”. Bhattacharyya has “as an incarnation of divine law” \(Bhattacharyya 1978, p. 558\). 
+[^118]: This enigmatic *dharmarūpeṇa * might be interpreted as “in the form of a dharmic \[person\]”, i.e., “of a person which can be regarded as embodying dharma”. Bhattacharyya has “as an incarnation of divine law” \(Bhattacharyya 1978, p. 558\). 
 
-119Just like above, see fn. 45, Bhattacharyya interprets the ablatives as all expressing causes: “We should not hold that Manu’s law-book is reliable because it has been composed by a trust-worthy person since to err is human, the words of a person sometimes mislead us and a hypothesis should be based upon facts. We shall make minimum assumptions if we hold that the said book is based upon the Vedas” \(Bhattacharyya 1978, p. 559\). 
+[^119]: Just like above, see fn. 45, Bhattacharyya interprets the ablatives as all expressing causes: “We should not hold that Manu’s law-book is reliable because it has been composed by a trust-worthy person since to err is human, the words of a person sometimes mislead us and a hypothesis should be based upon facts. We shall make minimum assumptions if we hold that the said book is based upon the Vedas” \(Bhattacharyya 1978, p. 559\). 
 
 44
 
@@ -236,11 +236,11 @@ On the other hand, the appropriate root in their regard are the Vedasxli, since 
 
 Or, given that the slaughter of a cow is clearly Vedic, how can they hate \[the other sacred texts\] \(provided that their behaviour is not more commendable than the one prescribed by the other sacred texts\)? |122
 
-120For a usage of *miśra * in the context of mixing Vedic and smārta elements, see NMGBh ad *ācamanādismārta-padārtha*, section 2.1.3 quoted in Kataoka 2004a, p. 208. 
+[^120]: For a usage of *miśra * in the context of mixing Vedic and smārta elements, see NMGBh ad *ācamanādismārta-padārtha*, section 2.1.3 quoted in Kataoka 2004a, p. 208. 
 
-121See section 2.1.1.2 for the *svataḥ prāmāṇya * approach, according to which the cognition is valid unless there is an invalidating cognition. See also introductory study, section II.4.1. 
+[^121]: See section 2.1.1.2 for the *svataḥ prāmāṇya * approach, according to which the cognition is valid unless there is an invalidating cognition. See also introductory study, section II.4.1. 
 
-122An alternative interpretation is the one adopted in Bhattacharyya 1978, p. 560: “Why do the Mīmāmṣakas cherish hatred against cow-slaughter which has been clearly prescribed by the Vedas?”. Similarly, in his English synopsis, Shah translates as follows: “It too is no objection that the followers of the Vedas are hostile towards other scriptures, for such hostility is not proper and, moreover, the followers of Vedas are hostile even towards a practice like cow-slaughter which is a very clear Vedic practice” \(Shah 1992-97, p. 20\). But this interpretation does not seem to fit the context, in which these brahmans are orthodox ones, who do not hesitate in regard to the slaughter of cows. 
+[^122]: An alternative interpretation is the one adopted in Bhattacharyya 1978, p. 560: “Why do the Mīmāmṣakas cherish hatred against cow-slaughter which has been clearly prescribed by the Vedas?”. Similarly, in his English synopsis, Shah translates as follows: “It too is no objection that the followers of the Vedas are hostile towards other scriptures, for such hostility is not proper and, moreover, the followers of Vedas are hostile even towards a practice like cow-slaughter which is a very clear Vedic practice” \(Shah 1992-97, p. 20\). But this interpretation does not seem to fit the context, in which these brahmans are orthodox ones, who do not hesitate in regard to the slaughter of cows. 
 
 Shah follows the reading of the *editio princeps*, Jayanta Bhaṭṭa 1895-1896 \( *gatvā ta eva pṛcchyantāṃ yeṣāṃ dveṣādi* *vidyate*\) and construes *gatvā * as having a different agent than *pṛcchyantām*: “The one who opposes the validity of these Buddhist texts, he should go to the Buddhists who hate \[some Vedic rituals\] and ask them: ‘Why do you hate the killing of a cow, which is clearly Vedic?” \( *bauddhādi āgamonā prāmāṇyano virodhī —jemne dveṣ vagere che te* *bauddhāhinī pāse jei temne je pucho ke je spaṣṭapaṇye vaidik karm che te govadhamāṃ temne dveṣ kem che? *, Shah 1975-1992, p. 84\). This interpretation could be justified as meaning that disgust in general cannot be a criterion, since some \(like the Buddhists\) are even disgusted by Vedic practices. But the point here seems not to be general disgust, but rather disgust on the part of Vedic scholars. 
 
@@ -283,9 +283,9 @@ Since in the Lokāyata \[system\] nothing to be done is taught |
 
 \[R.:\] No, because in this case there is no fruit of \[such\] teaching \[and no teaching can exist if it does not yield any result\], since it is already established out of our own nature \(it 123 *liṅga * in the context of the Veda refers to mantras and statements which aim at something other than themselves. 
 
-124Bhattacharyya thinks that the passage refers instead to Buddhists: “The Buddhists hold that the sages live only on the air. It is a repetition of the Vedic conclusion that the realisation of consciousness as the ultimate reality is the goal of life” \(Bhattacharyya 1978, p. 560\). 
+[^124]: Bhattacharyya thinks that the passage refers instead to Buddhists: “The Buddhists hold that the sages live only on the air. It is a repetition of the Vedic conclusion that the realisation of consciousness as the ultimate reality is the goal of life” \(Bhattacharyya 1978, p. 560\). 
 
-125BṛUp 2.4.12-14 and 4.5.13-15 \(almost identical\). 
+[^125]: BṛUp 2.4.12-14 and 4.5.13-15 \(almost identical\). 
 
 46
 
@@ -317,21 +317,21 @@ Alternatively, one would have to say that the one \[or\] the other Vedic sentenc
 
 and which have been embraced 129 by many cultivated people ||
 
-126BṛUp 2.4.12-14 and 4.5.13-15 \(almost identical\). Walter Slaje argues in favour of the latter as source, since Mīmāṃsakas tend to quote from that dialogue \(Slaje 2007, 141, fn. 96, where “*not * in 4.4” probably means “*not * in 2.4”\). The last sentence is only present in the Mādhyandina Recension of the BṛUp \(published in Böthlingk 1889\), but not in the Kāṇva recension \(which is the one followed by Olivelle in his Olivelle 1996\). The same last sentence is also present in a slightly different quote of the same passage in the ŚBh: *na vāre ’haṃ mohaṃ bravīmi, avinaśī*
+[^126]: BṛUp 2.4.12-14 and 4.5.13-15 \(almost identical\). Walter Slaje argues in favour of the latter as source, since Mīmāṃsakas tend to quote from that dialogue \(Slaje 2007, 141, fn. 96, where “*not * in 4.4” probably means “*not * in 2.4”\). The last sentence is only present in the Mādhyandina Recension of the BṛUp \(published in Böthlingk 1889\), but not in the Kāṇva recension \(which is the one followed by Olivelle in his Olivelle 1996\). The same last sentence is also present in a slightly different quote of the same passage in the ŚBh: *na vāre ’haṃ mohaṃ bravīmi, avinaśī*
 
 *vāre ’yam ātmānucchittidharmā, mātrāsaṃsargas tv asya bhavatīti *\(Frauwallner 1968, p. 60, ll.20-22\). 
 
-127This risk had already been sensed by Kumārila: “Because even today one sees people who speak out contents which are not found in a sacred text imposing on them the \[wrong appearance\] of having been written in a sacred text” 
+[^127]: This risk had already been sensed by Kumārila: “Because even today one sees people who speak out contents which are not found in a sacred text imposing on them the \[wrong appearance\] of having been written in a sacred text” 
 
 \( *dṛśyante hy anāgamikān apy arthān āgamikatvādhyāropeṇa kecid adyatve ’py abhidadhānāḥ*, TV ad 1.3.1 Subbāśāstrī
 
 1929-1934, p. 160\). Bhattacharyya seems rather modern in inverting the sentence, which thus favours novelty: “The book which is very old is reported by some cunning fellows as a new one” \(Bhattacharyya 1978, p. 562\). 
 
-128See ŚV codanā 133, section 6.4.5 in Kataoka 2011b, where three invalidating criteria are mentioned, i.e., *vigānāt*
+[^128]: See ŚV codanā 133, section 6.4.5 in Kataoka 2011b, where three invalidating criteria are mentioned, i.e., *vigānāt*
 
 ‘disagreement’, *chinnamūlatvāt *‘being based on an interrupted tradition’ \(addressed below as *apūrvā iva bhānti*\) and *kaiścid eva parigrahāt *‘being accepted only by a few’. 
 
-129If we want to distinguish it from the preceding *prasiddhi*, it must be “embrace”, “accept as one’s own practice”, cf. *vedapathapravṛtta * in 5.2.3.3. See also the introductory study, section II.4.6.1. 
+[^129]: If we want to distinguish it from the preceding *prasiddhi*, it must be “embrace”, “accept as one’s own practice”, cf. *vedapathapravṛtta * in 5.2.3.3. See also the introductory study, section II.4.6.1. 
 
 47
 
@@ -359,15 +359,15 @@ validity has come to a firm ascent on these Vedic texts.136 Then, due to the fac
 
 Even through this \[reason, i.e., because they depend on an author\], it cannot be said that the Vedic utterances are faulty \[since the author is reliable\] ||137
 
-130Bhattacharyya: “Though they may have been recently composed” \(Bhattacharyya 1978, p. 562\). 
+[^130]: Bhattacharyya: “Though they may have been recently composed” \(Bhattacharyya 1978, p. 562\). 
 
-131Above \(section 6.1.2, 6.1.2.1 in Kataoka 2004a\) it has been said that suspicion \( *vicikitsā*\) is not enough to infer invalidity, therefore *udvij*- must have a stronger connotation, although in usage the two tend to be synonyms \(see introductory study, section II.4.4, see also the end of section II.2 for a different interpretation\). Towards the end of NM 6 \(NM, p. 259\) the Bṛhaspati’s teachings are said to be *udvegakārin *‘causing anxiety’. See also introductory study, section II.4.6.1. 
+[^131]: Above \(section 6.1.2, 6.1.2.1 in Kataoka 2004a\) it has been said that suspicion \( *vicikitsā*\) is not enough to infer invalidity, therefore *udvij*- must have a stronger connotation, although in usage the two tend to be synonyms \(see introductory study, section II.4.4, see also the end of section II.2 for a different interpretation\). Towards the end of NM 6 \(NM, p. 259\) the Bṛhaspati’s teachings are said to be *udvegakārin *‘causing anxiety’. See also introductory study, section II.4.6.1. 
 
-132Bhattacharyya understands this verse as referring to a precise work: “Any and every treatise should not be considered to be an authentic one. Shall we accept *Kuṭṭinīmatam *\(a book written by Damodara Gupta\) in which advice has been given by a senior prostitute to the junior ones as an authentic one?” \(Bhattacharyya 1978, p. 562\). 
+[^132]: Bhattacharyya understands this verse as referring to a precise work: “Any and every treatise should not be considered to be an authentic one. Shall we accept *Kuṭṭinīmatam *\(a book written by Damodara Gupta\) in which advice has been given by a senior prostitute to the junior ones as an authentic one?” \(Bhattacharyya 1978, p. 562\). 
 
 V. Raghavan interpreted this verse as a mention of the *Kuṭṭanīmata*, and thus as an evidence for dating Jayanta \(Raghavan 1964, p. vi\). 
 
-133About which see *Āgamaḍambara*, act 2, Dezső 2005, p. 116, also describing this practice; see also introductory study section II.4.7. 
+[^133]: About which see *Āgamaḍambara*, act 2, Dezső 2005, p. 116, also describing this practice; see also introductory study section II.4.7. 
 
 134 *āryā * metre. 
 
