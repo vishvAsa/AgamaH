@@ -872,9 +872,7 @@ endorphin-आदि-जननेन सुख-विषादाद्य्-अ
 +++(विस्तारो ऽग्रे "देवाः → ब्रह्माण्डेन सह सम्बन्धः, उद्देशः" इत्यादिषु विभागेषु।)+++  
 
 एवं जीवानाम् अपि सिद्धो मूल उद्देशो भगवत्-प्रीणनम् एव।  
-शेषस्य शेषिण्य् अतिशयस्य +++(न प्रतिकूलस्य)+++ +आधानम् एव +"**अराधनम्**"।  
-तत्रैव प्रबुद्ध-जीवस्य रतिः।
-
+शेषस्य शेषिण्य् अतिशयस्य +++(न प्रतिकूलस्य)+++ +आधानम् एव +"**अराधनम्**"।
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -882,6 +880,28 @@ endorphin-आदि-जननेन सुख-विषादाद्य्-अ
 
 > **स्वाराधनैक-प्रयोजनाये**ति ।  
 शेषस्य शेषिण्य् अतिशयाधानम्+++(=अतिशयस्य +आधानम्)+++ एव प्रयोजनम् इति भावः।
+</details>
+
+देवाराधने हि प्रबुद्ध-जीवस्य रतिः।  
+स्वशेषत्वावबोधे, बुद्धि-पूर्वक-देव-भोजन-सामर्थ्ये चैव विचार-क्षम-जीवानाम् उत्कर्षः।  
+तेन हि मनुष्य-जन्म प्रशशंसुः।  
+
+न च खलु क्षुद्र-जन्तवो ब्रह्माण्ड-सूक्ष्माणि सुपरीक्षित-विचारैक-गम्यानि बोद्धुं शक्नुवन्ति,  
+यद्य् अपि मनुष्येभ्यो ऽगोचरान् शब्द-गन्ध-रूपादीन्  
+ते ऽबुद्ध्वाऽपि भगवत्-परत इव संगृह्णन्ति।  
+अयं जीवसाधारणस्योत्कर्षः। 
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> You are the thin skin of life upon an unsensing Earth, you are that growing edge of God which manifests itself in hunger for Space.
+>
+> So much of God lies vibrantly asleep. The very stuffs of worlds and galaxies, they know *not* themselves.
+>
+> But here, God stirs in his sleep. You are the stirring. He wakes, you are that wakening. God reaches for the stars. You are His hand. Creation manifest, you go in search. He goes to find, you go to find. Everything you touch along the way, therefore, will be holy.  
+>
+> ... Woe to you if you do not find all life most holy, and coming to lay yourself down cannot say, O Father God, you waken me. I waken Thee. Immortal, together we then walk upon the waters of deep space in the new morn which names itself: Forever.
+> 
+> - Ray Badbury
 </details>
 
 
@@ -900,19 +920,9 @@ endorphin-आदि-जननेन सुख-विषादाद्य्-अ
 
 यथाह Bradbury-Ray -
 
-> > “Is God dead?”
->
-> “A better answer is yet another question: Are *you* dead? Does the blood move in your hand, does that hand move to touch metal, does that metal move to touch Space? Do wild thoughts of travel and migration stir your soul? They do. Thus, you live. Therefore, God lives.
->
-> You are the thin skin of life upon an unsensing Earth, you are that growing edge of God which manifests itself in hunger for Space.
->
-> So much of God lies vibrantly asleep. The very stuffs of worlds and galaxies, they know *not* themselves.
->
-> But here, God stirs in his sleep. You are the stirring. He wakes, you are that wakening. God reaches for the stars. You are His hand. Creation manifest, you go in search. He goes to find, you go to find. Everything you touch along the way, therefore, will be holy. On far worlds you will meet your own flesh, terrifying and strange, but still your own. Treat it well. Beneath the shape, you share the Godhead.
->
+> God reaches for the stars. You are His hand. Creation manifest, you go in search. He goes to find, you go to find. ...
+> 
 > “You Jonahs traveling in the belly of a new-made metal whale, you swimmers in the far seas of deep space, blaspheme not against yourselves or the frightening twins of yourselves you find among the stars, but ask to understand the miracles which are Space, Time, and Life in the high attics and lost birthing-places of Eternity.
->
-> Woe to you if you do not find all life most holy, and coming to lay yourself down cannot say, O Father God, you waken me. I waken Thee. Immortal, together we then walk upon the waters of deep space in the new morn which names itself: Forever.”
 </details>
 
 अपरो वदेत् स्वभावतः कविः -
