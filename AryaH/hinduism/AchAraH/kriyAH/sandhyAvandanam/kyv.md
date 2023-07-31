@@ -16,10 +16,10 @@ unicode_script: devanagari
 
 ### प्राशनम् अपाम्
 #### प्रातः
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06/25_sUryash_cha/"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/25_sUryash_cha/"  newLevelForH1="2" includeTitle="false"> </div>  
 
 #### सायम् - सूर्यश्च मामन्युश्च …
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06/24_agnish_cha.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/24_agnish_cha.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 #### मध्याह्ने
 <div class="js_include" url="/devaH/AryaH/hindukaH/jalam/Rk/ApaH_punantu.md"  newLevelForH1="5" includeTitle="false"> </div>  
@@ -79,7 +79,7 @@ unicode_script: devanagari
 
 - गायत्री-आवहनम्
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06/26_AyAtu_varadA/"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/26_AyAtu_varadA/"  newLevelForH1="2" includeTitle="false"> </div>  
 
 - दिग्बन्धनम्।
 
@@ -100,7 +100,7 @@ unicode_script: devanagari
 
 - गायत्री-उद्वासनम्
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06/30_uttame_shikhare.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/30_uttame_shikhare.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 

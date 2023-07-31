@@ -29,5 +29,5 @@ unicode_script: devanagari
   - ॐ आपो ज्योति-रसो अमृतं ब्रह्मा भूर्भुवः सुवरोम्।' 
 - अन्ते 'ॐ' इति वदन् कर्ण-स्पर्शं।
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06/27_sashiro_gAyatrI.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/27_sashiro_gAyatrI.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
