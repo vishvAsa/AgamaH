@@ -1,6 +1,8 @@
 +++
-title = "Non-hindu cases"
+title = "Agglomerativeness"
 +++
+
+Source: [TW](https://swarajyamag.com/culture/am-i-a-hindu)
 
 I've observed anti-hindus (esp. christians) attack "sati" (properly - anugamana), and hindus going on the defensive. A response I prefer is to proudly accept that practice as a noble choice in certain rare circumstances and point to famous non-hindu dramatizations. In this thread, let us collect such (Please add further high-quality ones).
 
