@@ -8,6 +8,12 @@ Translated by Gokul.
 </details>
 
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+Makes a false dichotomy between "Philosophical-core" religions and Agglomerative Hinduism.
+</details>
+
+
 Am I A Hindu?  
 Tamil writer Jeyamohan’s exchange with a reader over what makes a Hindu, Hindu; and Hinduism, Hinduism. 
 
