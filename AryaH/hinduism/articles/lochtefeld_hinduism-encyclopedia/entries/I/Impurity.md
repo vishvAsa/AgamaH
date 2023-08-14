@@ -1,5 +1,0 @@
-+++
-title = "Impurity"
-
-+++
-See **ashaucha**.

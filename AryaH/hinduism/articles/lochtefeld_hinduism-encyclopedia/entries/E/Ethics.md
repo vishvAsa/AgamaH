@@ -1,5 +1,0 @@
-+++
-title = "Ethics"
-
-+++
-See **dharma**.

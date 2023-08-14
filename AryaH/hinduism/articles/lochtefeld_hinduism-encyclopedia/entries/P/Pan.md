@@ -1,5 +1,0 @@
-+++
-title = "Pan"
-
-+++
-See **betel**.

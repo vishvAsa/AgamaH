@@ -1,3 +1,0 @@
-+++
-title = "+Nikhil's vedism"
-+++

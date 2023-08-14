@@ -1,5 +1,0 @@
-+++
-title = "Astrology"
-
-+++
-See **jyotisha**.

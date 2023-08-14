@@ -1,5 +1,0 @@
-+++
-title = "Pilgrimage"
-
-+++
-See **tirthayatra**.

@@ -1,4 +1,0 @@
-+++
-title = "Jaundice and vaishyA"
-+++
-

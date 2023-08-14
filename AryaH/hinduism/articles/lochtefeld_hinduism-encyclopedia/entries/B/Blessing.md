@@ -1,5 +1,0 @@
-+++
-title = "Blessing"
-
-+++
-See **ashirvad**.

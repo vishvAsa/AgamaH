@@ -1,5 +1,0 @@
-+++
-title = "Inference"
-
-+++
-See **anumana**.

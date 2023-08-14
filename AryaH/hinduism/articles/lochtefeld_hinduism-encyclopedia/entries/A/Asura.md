@@ -1,5 +1,0 @@
-+++
-title = "Asura"
-
-+++
-See **demons**.

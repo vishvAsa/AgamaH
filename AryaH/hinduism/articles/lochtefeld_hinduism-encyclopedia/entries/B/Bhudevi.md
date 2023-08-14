@@ -1,5 +1,0 @@
-+++
-title = "Bhudevi"
-
-+++
-See **earth**.

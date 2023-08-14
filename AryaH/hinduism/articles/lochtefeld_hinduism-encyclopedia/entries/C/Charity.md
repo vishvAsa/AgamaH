@@ -1,5 +1,0 @@
-+++
-title = "Charity"
-
-+++
-See **dana**.

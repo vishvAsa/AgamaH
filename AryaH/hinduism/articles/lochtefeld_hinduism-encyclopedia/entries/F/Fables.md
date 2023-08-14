@@ -1,5 +1,0 @@
-+++
-title = "Fables"
-
-+++
-See **Panchatantra**.

@@ -1,5 +1,0 @@
-+++
-title = "Devotee"
-
-+++
-See **bhakta**.

@@ -1,4 +1,0 @@
-+++
-title = "Vidyarambha (“beginning of"
-
-+++

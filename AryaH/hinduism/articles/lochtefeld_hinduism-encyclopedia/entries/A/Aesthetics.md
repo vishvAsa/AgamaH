@@ -1,5 +1,0 @@
-+++
-title = "Aesthetics"
-
-+++
-See **Rasa**.

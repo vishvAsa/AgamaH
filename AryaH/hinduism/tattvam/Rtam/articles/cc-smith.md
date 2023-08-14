@@ -1,5 +1,0 @@
-+++
-title = "cc-smith"
-+++
-
-In my own research, I have found it rewarding to think of rta- as meaning something like "(original) deed" or "precedent" which is a model for emulation, a kind of cosmogonic blue print. That is what allows rta- in the plural to reverse to verses, they are the original speech act (sūkta) that the community attributes to a legendary or primordial figure. In mind it is why rtāvan- has that long ā, its an aluksamāsa. In the single, the term is reified to 'the Precedent' the primordial first motion which creates and structures the universe (varies but it is very often the opening of Vala cave, elsewhere the defeat of Father Asura/Vrtra) and sets it in motion. This is why the ritual must align with rta, by re-creating these original deeds or cosmogonic precedents, the year is restored to its pristine condition.

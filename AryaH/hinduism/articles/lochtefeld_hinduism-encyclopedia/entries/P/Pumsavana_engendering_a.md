@@ -1,4 +1,0 @@
-+++
-title = "Pumsavana (“engendering a"
-
-+++
