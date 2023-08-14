@@ -1,0 +1,12 @@
++++
+title = "Mixed marriage detection"
++++
+Author: Satyan on TW.
+
+The 'varṇa by birth' system sounds linear and easily comprehensible only if one does not consider thousands of years of mixed varṇa marriages, the offspring as a result of them, and the change of varṇa by following the āpaddharma even in the absence of āpat.
+
+## Heritage detection
+The mentions of the offspring who were not publicly known as being born of such a marriage, is found in Manusmṛti 10.40 (pracchannā vā prakāśā vā veditavyāḥ svakarmabhiḥ).+++(5)+++ Similar is mentioned in 10.57 (varṇāpetam avijñātam). The amount of such marriages had grown to such an extent that Yudhiṣṭhira tells Nahuṣa that due to the mixing up of all varṇas via reproduction, it's become very difficult to know one's jāti (Mahābhārata 3.177.26-27; jātir atra mahāsarpa.. saṅkare sarva-varṇānāṃ duṣ-parīkṣyeti me matiḥ). Manusmṛti (10.59) hints at the reason why such marriages were opposed by Śāstras, i.e., the child inherits the śīla (nature) of either the father, or mother or both. So mixed varṇa marriages were seen as marriages of mixed śīla, which were then seen in the child reproduced (pitryaṃ vā bhajate śīlaṃ māturv ubhayam eva vā). This is probably the reason why in the Chāndogyopaniṣat story, Hāridrumata Gautama declares Satyakāma Jābāla as a Brāhmaṇa, because he infers that his nature has come from a Brāhmaṇa father.+++(5)+++ 
+
+## Gotra unreliable
+Even asking about Gotra cannot help, because as explained in the Mitākṣarā of Yājñavalkyasmṛti (1.96), if one (along with his descendants) does not leave the āpaddharma even in the absence of āpat, then the fifth generation becomes that very (lower) varṇa, the dharma of whom the family had taken up during āpat. In this way, one may as well find a Brāhmaṇa gotra in a Śūdra family. For example, as per Harivaṃśapurāna (29.7-8) the descendants of Ṛṣi Śunaka are of all 4 varṇas. Hence, inferring the varṇa of a child by simply looking at his/her parents' known varṇa (usually through gotra or memory, even in the absence of varṇadharma through many generations) seems ineffective. The basis, as hinted at by Manusmṛti, is śīla (nature) and not merely the known varṇa of one's parents or even one's own known varṇa.
