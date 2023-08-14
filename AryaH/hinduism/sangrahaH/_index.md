@@ -1,5 +1,5 @@
 +++
-title = "+मिश्रम्"
+title = "+सङ्ग्रहः"
 unicode_script = "devanagari"
 +++
 
