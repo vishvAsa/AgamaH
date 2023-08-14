@@ -39,6 +39,8 @@ title: Religion?
   - A hindu atheist may still not want to step on a book, and may like to do aayudha pUjA, while a simple atheist may reject all this as a consequence of de-hinduized identity. Creating an artificial barrier will make our lives drier, duller and less refined.
   - The hindu label (one which admits atheism quite easily) is such a booster for those wanting to cross sectarian boundaries to learn beautiful and beneficent cultural artifacts. (An example of such positive reinforcement- “Are you a hindu? You must be good at yoga!”)
 
+
+
 ## Counter-religion inclusion
 ### Ground cohesiveness
-Indian buddhists (overwhelmingly) never thought of themselves as separate from hindu neighbors (newaris led by varjrachArya-s are a good contemporary placeholder). Ditto with (contemporary and ancient) jainas.
+Indian buddhists (overwhelmingly) never thought of themselves as separate from hindu neighbors (newaris led by varjrachArya-s are a good contemporary placeholder). Ditto with (contemporary and ancient) jainas. They were just part of the periphery.
