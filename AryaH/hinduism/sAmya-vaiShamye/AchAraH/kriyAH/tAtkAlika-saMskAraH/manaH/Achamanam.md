@@ -67,7 +67,7 @@ unicode_script: devanagari
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/mantrAH/vRShTirasi.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
-### पानत्रयम्
+- पानत्रयम्
 
 ### कर्मारम्भे ऽधिकम्
 - द्विः परिमार्जनम्
