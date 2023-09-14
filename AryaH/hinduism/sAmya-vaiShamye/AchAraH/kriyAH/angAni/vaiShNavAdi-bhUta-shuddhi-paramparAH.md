@@ -4,7 +4,7 @@ title = "वैष्णवादि-भूत-शुद्धि-परम्�
 
 (जाले पठितुम् - https://rebrand.ly/bhuta-shuddhi । )
 
-<div class="videoEmbed"  caption="Video" src="https://www.youtube.com/watch?v=inez7QhlibY"></div>
+<div class="videoEmbed"  caption="परिचयः ()" src="https://www.youtube.com/watch?v=inez7QhlibY"></div>
 
 
 
