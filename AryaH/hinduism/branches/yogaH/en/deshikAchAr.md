@@ -4,7 +4,7 @@ title = "TK deshikAchAr"
 +++
 
 
-## 1 samādhipādaḥ
+## 1  samādhipādaḥ
 
 The sūtra-s of Patañjali are represented in four chapters. The first chapter is called Samādhipādaḥ (the chapter on samādhi). This chapter defines Yoga and its characteristics. It further discusses the problems encountered in reaching the state of Yoga and how these problems can be handled.
 
@@ -407,7 +407,7 @@ Such comprehension is not sought. It comes inevitably and nothing can stop it.
 
 This is the highest state of Yoga, but it cannot be described in words. Only those who have reached this state can comprehend its nature.
 
-## 2 sādhanapādaḥ
+## 2  sādhanapādaḥ
 
 The second chapter is called Sādhanapādaḥ. Its describes the qualities necessary to change the mind effectively and gradually from a state of distraction to one of attention, why these qualities are important and what their practice entails.
 
@@ -848,7 +848,7 @@ _Then the senses are mastered._
 
 The senses cooperate in the chosen enquiry instead of being a cause of distraction. Restraint of the senses cannot be a strict discipline. It develops, as the obstacles to perception within us are cleared up.
 
-## 3 vibhūtipādaḥ
+## 3  vibhūtipādaḥ
 
 In this chapter, Vibhūtipādaḥ, Patañjali describes the capacity of the mind, which, through the various practices described in the earlier two chapters can achieve a state free from distractions. Such a mind can probe deeply into objects and concepts. Indeed, there are innumerable possibilities for it. Then, arises in the individual a knowledge of the objects of a dimension previously unknown. However, even such knowledge can itself be a source of distraction and prevent a person from reaching the highest state of being. This highest state is freedom from disturbance of any sort and at any time. The next three sūtra-s describe the sixth, seventh and eighth components of Yoga first mentioned in sūtra (II-29). The first five components are described in Chapter II.
 
@@ -1293,7 +1293,7 @@ _Freedom is when the mind has complete identity with the Perceiver._
 
 And nothing less. Then, the mind has no colour or features of its own.
 
-## 4 kaivalyapādaḥ
+## 4  kaivalyapādaḥ
 
 In this, the final chapter of the Yoga Sūtra-s, Kaivalyapādaḥ, Patañjali presents the possibilities for a person with a highly refined mind. The mind is basically a servant and not a master. If the mind is allowed to play the role of master, whatever the achievements of the individual, there are bound to be problems and serenity will be beyond that individual's reach.
 
