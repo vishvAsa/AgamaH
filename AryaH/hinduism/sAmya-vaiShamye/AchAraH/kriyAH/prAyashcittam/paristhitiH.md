@@ -32,6 +32,9 @@ unicode_script: devanagari
 ## धर्मनिष्ठे 
 धर्मनिष्ठे ब्राह्मणे पापस्यालेपः, साधारणप्रायश्चित्तेष्व् आश्रयः।
 
+> Prāyaścitta purifies only those who repent their bad deeds. One who doesn't repent, won't be purified even with the puṇya received by performing Aśvamedha.
+- Vṛddhahārītasmṛti, 6.214-217
+
 ### गरुडपुराणे
 - प्राणायामशतं कुर्यात्सर्वपापापनुक्त्ये । ओङ्काराभियुतं सोमसलिलप्रशनाच्छुचिः ॥ १,१०५.५४ ॥
 - अज्ञानकृतपापस्य नाशः सन्ध्यात्रये कृते ॥ १,१०५.५५ ॥ रुद्रैकादशजप्याद्धि पापनाशो भवेद्द्विजैः ।
