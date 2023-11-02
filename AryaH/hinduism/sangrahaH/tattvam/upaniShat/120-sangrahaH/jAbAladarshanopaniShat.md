@@ -1,20 +1,4 @@
 ---
-Author: Vedic tradition
-Category: upanishhat, upanishad
-Description-comments: 90 / 108; Sama Veda - Yoga upanishad
-File name: jabaladarshana.itx
-Language: Sanskrit
-Latest update: August 30, 2000
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/hinduism/religion
-Sublocation: upanishhat
-Text title: Shri Jabaladarshana Upanishad
-Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
-engtitle: ShriJabaladarshana Upanishad
-itxtitle: jAbAladarshanopaniShat
 title: जाबालदर्शनोपनिषत्
 
 ---

@@ -1,20 +1,4 @@
 ---
-Author: '-'
-Category: upanishhat, upanishad
-Description-comments: 66, Sanyasa upaishad fro Atharva Veda
-File name: paramahansaparivrAjaka.itx
-Language: Sanskrit
-Latest update: Jan. 20, 2008
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy, vedanta
-Sublocation: upanishhat
-Text title: paramahamsa-parivrAjakopanishad
-Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
-engtitle: Paramahamsa-Parivrajaka Upanishad
-itxtitle: paramahaMsaparivrAjakopaniShat
 title: परमहंसपरिव्राजकोपनिषत्
 
 ---

@@ -1,22 +1,4 @@
 ---
-Author: Vedic tradition
-Category: upanishhat, svara, devii, sItA, devI, upanishad
-Description-comments: 45 / 108; Atharva Veda - Shakta upanishad
-File name: sita.itx
-Language: Sanskrit
-Latest update: Mar. 8, 2000
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-SubDeity: sItA
-Subject: philosophy/hinduism
-Sublocation: upanishhat
-Text title: Sita Upanishad
-Texttype: svara
-Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
-engtitle: Sita Upanishad
-itxtitle: sItopaniShat
 title: सीतोपनिषत्
 
 ---

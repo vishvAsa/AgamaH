@@ -1,20 +1,4 @@
 ---
-Author: Vedic tradition
-Category: upanishhat, upanishad
-Description-comments: 106 / 108; Krishna Yajurveda - Shakta upanishad
-File name: sarasvati_upan.itx
-Language: Sanskrit
-Latest update: April  25, 2000
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/religion
-Sublocation: upanishhat
-Text title: Sarasvatirahasya Upanishad
-Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
-engtitle: Sarasvatirahasya Upanishad
-itxtitle: sarasvatIrahasyopaniShat
 title: सरस्वतीरहस्योपनिषत्
 
 ---

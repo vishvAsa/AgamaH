@@ -1,19 +1,4 @@
 ---
-Author: Vedic Tradition
-Category: upanishhat, upanishad
-File name: subAla.itx
-Language: Sanskrit
-Latest update: January 5, 2000
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi sunderh at hotmail.com
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/religion/hinduism
-Sublocation: upanishhat
-Text title: subAlopaniShat
-Transliterated by: Sunder Hattangadi sunderh at hotmail.com
-engtitle: Subala Upanishad
-itxtitle: subAlopaniShat
 title: सुबालोपनिषत्
 
 ---

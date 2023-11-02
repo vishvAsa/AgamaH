@@ -1,20 +1,4 @@
 ---
-Author: Vedic Tradition
-Category: upanishhat, upanishad
-Description-comments: 61 / 108; Sama Veda Samanya upanishad
-File name: maha.itx
-Language: Sanskrit
-Latest update: June  24, 2000
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/religion
-Sublocation: upanishhat
-Text title: Maha Upanishad
-Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
-engtitle: Maha Upanishad
-itxtitle: mahopaniShat
 title: महोपनिषत्
 
 ---

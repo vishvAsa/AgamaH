@@ -1,21 +1,4 @@
 ---
-Category: upanishhat, svara, upanishad
-Description-comments: From Eight Upanishads, translated by Gambhirananda
-File name: kena.itx
-Indexextra: (1, 2, 3, 4 5 translations)
-Language: Sanskrit
-Latest update: April 29, 2010, October 1, 2018
-Location: doc_upanishhat
-Proofread by: NA
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/hinduism/religion
-Sublocation: upanishhat
-Text title: kenopaniShad
-Texttype: svara
-Transliterated by: NA
-engtitle: Kena Upanishad
-itxtitle: kenopaniShat
 title: केनोपनिषत्
 
 ---

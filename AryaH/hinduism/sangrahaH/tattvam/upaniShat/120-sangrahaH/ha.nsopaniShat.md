@@ -1,21 +1,4 @@
 ---
-Author: Vedic Tradition
-Category: upanishhat, upanishad
-Description-comments: 15/108; Shukla-Yajur-Veda, Yoga Upanishad
-File name: hansa.itx
-Indexextra: (Translation)
-Language: Sanskrit
-Latest update: September 29, 1999
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi sunderh at hotmail.com
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/religion/hinduism
-Sublocation: upanishhat
-Text title: Hansa Upanishad
-Transliterated by: Sunder Hattangadi sunderh at hotmail.com
-engtitle: Hansa Upanishad  15
-itxtitle: ha.nsopaniShat
 title: हंसोपनिषत्
 
 ---

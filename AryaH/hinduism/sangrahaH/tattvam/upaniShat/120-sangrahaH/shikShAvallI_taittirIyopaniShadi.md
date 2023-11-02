@@ -1,21 +1,4 @@
 ---
-Category: upanishhat, advice, upanishad
-Description-comments: taittirIyopaniShad prathamAdhyAye ekAdasho.anuvAkaH
-File name: shikshaavalii.itx
-Indexextra: (excerpts)
-Language: Sanskrit
-Latest update: Jan 29, 1998, May 4, 2014
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi sunderh at hotmail.com
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/hinduism/religion
-Sublocation: upanishhat
-Text title: shIkShAvallI taittirIyopaniShade
-Texttype: advice
-Transliterated by: Sunder Hattangadi sunderh at hotmail.com
-engtitle: ShikShavalli from Taittiriyopanishad
-itxtitle: shikShAvallI taittirIyopaniShadi
 title: शिक्षावल्ली तैत्तिरीयोपनिषदि
 
 ---

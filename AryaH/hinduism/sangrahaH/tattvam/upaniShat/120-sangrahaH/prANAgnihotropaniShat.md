@@ -1,20 +1,4 @@
 ---
-Author: Vedic tradition
-Category: upanishhat, upanishad
-File name: pranagni.itx
-Indexextra: (Scan 1, 2)
-Language: Sanskrit
-Latest update: March 23, 2020
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/religion
-Sublocation: upanishhat
-Text title: Pranagnihotra Upanishad
-Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
-engtitle: Pranagnihotra Upanishad
-itxtitle: prANAgnihotropaniShat
 title: प्राणाग्निहोत्रोपनिषत्
 
 ---

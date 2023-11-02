@@ -1,22 +1,4 @@
 ---
-Author: Vedic tradition
-Category: upanishhat, svara, upanishad
-Description-comments: 92 / 108;Athrva Veda - Yoga upanishad
-File name: mahavakya.itx
-Indexextra: (120 Upanishads, Meaning 1, 2)
-Language: Sanskrit
-Latest update: Apr  13,  2000
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/religion/hinduism
-Sublocation: upanishhat
-Text title: Mahavakya Upanishad
-Texttype: svara
-Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
-engtitle: Mahavakya Upanishad
-itxtitle: mahAvAkyopaniShat
 title: महावाक्योपनिषत्
 
 ---

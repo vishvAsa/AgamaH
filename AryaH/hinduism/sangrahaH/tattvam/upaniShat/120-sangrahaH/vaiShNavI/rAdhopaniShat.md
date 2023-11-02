@@ -1,22 +1,4 @@
 ---
-Acknowledge-Permission: Older granthamandira
-Category: upanishhat, upanishad, radha
-File name: rAdhopaniShat.itx
-Indexextra: (scan)
-Language: Sanskrit
-Latest update: November 22, 2015
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi sunderh at hotmail.com
-Send corrections to: sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Source: Unpublished Upanishads, Adyar library collection, 1933
-SubDeity: radha
-Subject: philosophy/hinduism/religion
-Sublocation: upanishhat
-Text title: rAdhopaniShat
-Transliterated by: Jan Brzezinski
-engtitle: rAdhopaniShat
-itxtitle: rAdhopaniShat
 title: राधोपनिषत्
 
 ---

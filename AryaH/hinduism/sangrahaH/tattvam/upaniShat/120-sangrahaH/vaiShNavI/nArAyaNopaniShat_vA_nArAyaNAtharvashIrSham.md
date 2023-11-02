@@ -1,22 +1,4 @@
 ---
-Category: atharvashIrSha, upanishhat, narayana, svara, upanishad
-File name: nArAyaNopaniShat.itx
-Indexextra: (audio)
-Language: Sanskrit
-Latest update: October 21, 2013, August 17, 2019
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi (sunderh at hotmail com)
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-SubDeity: vishnu
-Subcategory: narayana
-Subject: philosophy/hinduism
-Sublocation: upanishhat
-Text title: nArAyaNopaniShat evaM nArAyaNa atharvashIrSha
-Texttype: svara
-Transliterated by: Sunder Hattangadi (sunderh at hotmail com)
-engtitle: Narayanopanishat or NarAyana Atharvashirsha
-itxtitle: nArAyaNopaniShat vA nArAyaNAtharvashIrSham
 title: नारायणोपनिषत् वा नारायणाथर्वशीर्षम्
 
 ---

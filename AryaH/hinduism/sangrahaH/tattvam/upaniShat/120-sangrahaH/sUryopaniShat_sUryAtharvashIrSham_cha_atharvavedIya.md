@@ -1,21 +1,4 @@
 ---
-Author: Vedic Tradition
-Category: upanishhat, upanishad
-Description-comments: 71/108; Atharva Veda, Samanya Upanishad, surya, navagraha
-File name: suryopan.itx
-Indexextra: (audioNONE)
-Language: Sanskrit
-Latest update: May 2, 2007
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/religion/hinduism
-Sublocation: upanishhat
-Text title: Surya Upanishad
-Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
-engtitle: Surya Upanishad
-itxtitle: sUryopaniShat sUryAtharvashIrSham cha (atharvavedIya)
 title: सूर्योपनिषत् सूर्याथर्वशीर्षम् च (अथर्ववेदीय)
 
 ---

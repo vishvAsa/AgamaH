@@ -1,20 +1,4 @@
 ---
-Author: Vedic tradition
-Category: upanishhat, upanishad
-Description-comments: 91 / 108; Shukla Yajurveda - vaishnava upanishad
-File name: tarasara.itx
-Language: Sanskrit
-Latest update: Apri  12, 2000  [Rama Navami], October 29, 2011
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/hiduism
-Sublocation: upanishhat
-Text title: Tarasara Upanishad
-Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
-engtitle: Tarasara Upanishad
-itxtitle: tArasAropaniShat
 title: तारसारोपनिषत्
 
 ---

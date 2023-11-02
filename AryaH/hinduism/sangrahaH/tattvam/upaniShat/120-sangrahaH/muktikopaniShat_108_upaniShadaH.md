@@ -1,19 +1,4 @@
 ---
-Category: upanishhat, upanishad
-File name: upanishad_list.itx
-Indexextra: (additional upanishads, categories, unpublished)
-Language: Sanskrit
-Latest update: November 1, 2010
-Location: doc_upanishhat
-Proofread by: Madras Giridhar giridhar at chemeng.iisc.ernet.in
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/hinduism/religion
-Sublocation: upanishhat
-Text title: 108 upaniShad -muktikopaniShat
-Transliterated by: Madras Giridhar giridhar at chemeng.iisc.ernet.in
-engtitle: 108 upaniShad  list  (muktikopaniShad)
-itxtitle: muktikopaniShat 108 upaniShadaH
 title: मुक्तिकोपनिषत् १०८ उपनिषदः
 
 ---

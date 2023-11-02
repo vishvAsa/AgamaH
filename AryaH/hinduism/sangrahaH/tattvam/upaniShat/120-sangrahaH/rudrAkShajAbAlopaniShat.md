@@ -1,20 +1,4 @@
 ---
-Author: Vedic tradition
-Category: upanishhat, upanishad, shiva
-Description-comments: 88 / 108; Sama Veda - shaiva upanishad
-File name: rudrakshajabala.itx
-Language: Sanskrit
-Latest update: Apr. 3, 2000
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/hinduism
-Sublocation: upanishhat
-Text title: Rudraakshajabala Upanishad
-Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
-engtitle: RudrakShajabala Upanishad
-itxtitle: rudrAkShajAbAlopaniShat
 title: रुद्राक्षजाबालोपनिषत्
 
 ---

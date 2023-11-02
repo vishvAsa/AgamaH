@@ -1,23 +1,4 @@
 ---
-Author: Vedic Tradition
-Category: upanishhat, svara, upanishad
-Description-comments: 84/108; Atharva Veda, Shakta Upanishad, 87/108 in 108 Upanishads
-  Vasudev Lakshman Pansikar
-File name: bhaava.itx
-Indexextra: (scanned, commentary)
-Language: Sanskrit
-Latest update: April 22, 2018
-Location: doc_upanishhat
-Proofread by: P.P.Narayanaswami (swami at math.mun.ca), NA
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/religion/hinduism
-Sublocation: upanishhat
-Text title: Bhava (Bhavana) Upanishad
-Texttype: svara
-Transliterated by: Kannan Subramanian, NA
-engtitle: bhAvanopaniShat
-itxtitle: bhAvanopaniShat athavA shrIchakropaniShat
 title: भावनोपनिषत् अथवा श्रीचक्रोपनिषत्
 
 ---

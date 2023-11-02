@@ -1,20 +1,4 @@
 ---
-Author: Vedic tradition
-Category: upanishhat, upanishad
-Description-comments: 97 / 108; Shukla Yajurveds - Sanyasa upanishad
-File name: yajnavalkya.itx
-Language: Sanskrit
-Latest update: April,  16, 2000
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/religion
-Sublocation: upanishhat
-Text title: Yajnavalkya Upanishad
-Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
-engtitle: Yajnavalkya Upanishad
-itxtitle: yAjnavalkyopaniShat
 title: याज्ञवल्क्योपनिषत्
 
 ---

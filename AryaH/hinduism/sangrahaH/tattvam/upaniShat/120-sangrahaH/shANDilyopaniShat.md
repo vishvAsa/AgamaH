@@ -1,22 +1,4 @@
 ---
-Author: Vedic tradition
-Category: upanishhat, svara, upanishad
-Description-comments: 58 / 108; Atharva Veda - Yoga upanishad
-File name: shandilya.itx
-Indexextra: (120 Upanishads, Meaning 1, 2)
-Language: Sanskrit
-Latest update: May, 27, 2000
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/religion
-Sublocation: upanishhat
-Text title: Shandilya Upanishad
-Texttype: svara
-Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
-engtitle: Shandilya Upanishad
-itxtitle: shANDilyopaniShat
 title: शाण्डिल्योपनिषत्
 
 ---

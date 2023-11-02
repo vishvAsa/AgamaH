@@ -1,20 +1,4 @@
 ---
-Author: Vedic Tradition
-Category: upanishhat, upanishad
-Description-comments: 82/108; Rig-Veda, Shakta Upanishad
-File name: tripura-upan.itx
-Language: Sanskrit
-Latest update: September 28, 1999, July 2, 2011
-Location: doc_upanishhat
-Proofread by: P.P.Narayanaswami (swami at math.mun.ca)
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/religion/hinduism
-Sublocation: upanishhat
-Text title: Tripura Upanishad
-Transliterated by: Kannan Subramanian
-engtitle: Tripura Upanishad
-itxtitle: tripuropaniShat
 title: त्रिपुरोपनिषत्
 
 ---

@@ -1,20 +1,4 @@
 ---
-Author: Vedic Tradition
-Category: upanishhat, upanishad
-Description-comments: 59/108; Shukla Yajur Veda, Samanya Upanishad
-File name: paingala.itx
-Language: Sanskrit
-Latest update: July 16, 1999
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/religion/hinduism
-Sublocation: upanishhat
-Text title: Paingal Upanishad
-Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
-engtitle: paiNgalopaniShat.h
-itxtitle: paiNgalopaniShat
 title: पैण्गलोपनिषत्
 
 ---

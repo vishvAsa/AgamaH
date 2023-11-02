@@ -1,19 +1,4 @@
 ---
-Category: upanishhat, upanishad
-File name: vishvakarmopaniShat.itx
-Indexextra: (image)
-Language: Sanskrit
-Latest update: July 8, 2017
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi sunderh at hotmail.com, PSA Easwaran
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/hinduism/religion
-Sublocation: upanishhat
-Text title: vishvakarmopaniShat
-Transliterated by: Sunder Hattangadi sunderh at hotmail.com
-engtitle: vishvakarmopaniShat
-itxtitle: vishvakarmopaniShat
 title: विश्वकर्मोपनिषत्
 
 ---

@@ -1,21 +1,4 @@
 ---
-Author: Vedic Tradition
-Category: upanishhat, svara, upanishad, shiva
-Description-comments: 26/108; Atharva Veda, Shaiva Upanishad
-File name: brihajjabala.itx
-Language: Sanskrit
-Latest update: Nov. 05, 1999
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi sunderh at hotmail.com
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/religion/hinduism
-Sublocation: upanishhat
-Text title: Brihat-Jabala Upanishad
-Texttype: svara
-Transliterated by: Sunder Hattangadi sunderh at hotmail.com
-engtitle: Brihat-Jabala Upanishad
-itxtitle: bRihajjAbAlopaniShat
 title: बृइहज्जाबालोपनिषत्
 
 ---

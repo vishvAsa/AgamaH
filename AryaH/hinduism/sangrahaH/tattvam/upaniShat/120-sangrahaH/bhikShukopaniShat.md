@@ -1,18 +1,4 @@
 ---
-Category: upanishhat, upanishad
-File name: bhikshuk.itx
-Language: Sanskrit
-Latest update: October 18, 1999
-Location: doc_upanishhat
-Proofread by: Roopa and Shrirang Nene (roopashri at hotmail.com)
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: religious, philosophy
-Sublocation: upanishhat
-Text title: bhikshukopanishhat
-Transliterated by: Roopa and Shrirang Nene (roopashri at hotmail.com)
-engtitle: bhikShukopaniShat.h || 63 ||
-itxtitle: bhikShukopaniShat
 title: भिक्षुकोपनिषत्
 
 ---

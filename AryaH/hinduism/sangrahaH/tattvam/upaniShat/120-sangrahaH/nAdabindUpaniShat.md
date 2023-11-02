@@ -1,20 +1,4 @@
 ---
-Author: Vedic Tradition
-Category: upanishhat, upanishad
-Description-comments: 38/108; Rig Veda, Yoga Upanishad
-File name: nadabindu.itx
-Language: Sanskrit
-Latest update: July, 3, 1999
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/religion/hinduism
-Sublocation: upanishhat
-Text title: Nadabindu Upanishad
-Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
-engtitle: Nadabindu Upanishad
-itxtitle: nAdabindUpaniShat
 title: नादबिन्दूपनिषत्
 
 ---

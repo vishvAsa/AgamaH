@@ -1,20 +1,4 @@
 ---
-Category: upanishhat, upanishad
-Description-comments: kaulopaniShat.h
-File name: kaula.itx
-Language: Sanskrit
-Latest update: Dec. 27, 1997
-Location: doc_upanishhat
-Proofread by: Mike Magee
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Source: http://www.hubcom.com/tantric/
-Subject: philosophy/hinduism/religion
-Sublocation: upanishhat
-Text title: kaulopaniShat.h
-Transliterated by: Michael Magee
-engtitle: kaula upanishad
-itxtitle: kaulopaniShat
 title: कौलोपनिषत्
 
 ---

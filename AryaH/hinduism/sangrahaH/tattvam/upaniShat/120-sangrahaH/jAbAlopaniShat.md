@@ -1,21 +1,4 @@
 ---
-Author: Vedic Tradition
-Category: upanishhat, upanishad
-Description-comments: 13/108; Shukla YajurVeda, Sanyasa Upanishad
-File name: jabala.itx
-Indexextra: (120 Upanishads, Meaning 1, 2)
-Language: Sanskrit
-Latest update: August 20, 1999
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi sunderh at hotmail.com
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/religion/hinduism
-Sublocation: upanishhat
-Text title: Jabala Upanishad
-Transliterated by: Sunder Hattangadi sunderh at hotmail.com
-engtitle: Jabala Upanishad
-itxtitle: jAbAlopaniShat
 title: जाबालोपनिषत्
 
 ---

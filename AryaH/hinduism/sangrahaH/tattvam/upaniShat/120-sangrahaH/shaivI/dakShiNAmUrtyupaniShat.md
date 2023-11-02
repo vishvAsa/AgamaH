@@ -1,20 +1,4 @@
 ---
-Author: Vedic tradition
-Category: upanishhat, upanishad, shiva
-Description-comments: 49 / 108; Krishna Yajurveda - Shaiva upanishad
-File name: dakshina_upan.itx
-Language: Sanskrit
-Latest update: Mar. 19, 2000
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/hinduism
-Sublocation: upanishhat
-Text title: DakShinamurti Upanishad
-Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
-engtitle: DakShinamurti Upanishad
-itxtitle: dakShiNAmUrtyupaniShat
 title: दक्षिणामूर्त्युपनिषत्
 
 ---

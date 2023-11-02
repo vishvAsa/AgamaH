@@ -1,20 +1,4 @@
 ---
-Author: Vedic Tradition
-Category: upanishhat, upanishad, shiva
-Description-comments: 104 / 108; Sama Veda - Shaiva upanishad
-File name: jabali.itx
-Language: Sanskrit
-Latest update: April, 19, 2000
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/religion
-Sublocation: upanishhat
-Text title: Jabali  Upanishad
-Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
-engtitle: Jabali Upanishad
-itxtitle: jAbAlyupaniShat
 title: जाबाल्युपनिषत्
 
 ---

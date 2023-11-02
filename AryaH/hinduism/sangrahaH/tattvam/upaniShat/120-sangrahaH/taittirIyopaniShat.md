@@ -1,22 +1,4 @@
 ---
-Author: Vedic Rishis
-Category: upanishhat, svara, upanishad
-Description-comments: 7/108; Krishna YajurVeda, Mukhya upanishad
-File name: tait.itx
-Indexextra: (Ch7-9 accented (1 2 3translations, blog))
-Language: Sanskrit
-Latest update: Aug 2, 1996, July 20, 1999, August 9, 2016
-Location: doc_upanishhat
-Proofread by: Avinash Sathaye, Kartik, John Manetta, NA
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: Philosophy
-Sublocation: upanishhat
-Text title: Taittiriyopanishad
-Texttype: svara
-Transliterated by: Avinash Sathaye sohum at ms.uky.edu, Kartik kartik at Eng.Auburn.EDU
-engtitle: Taitiriya Upanishad
-itxtitle: taittirIyopaniShat
 title: तैत्तिरीयोपनिषत्
 
 ---

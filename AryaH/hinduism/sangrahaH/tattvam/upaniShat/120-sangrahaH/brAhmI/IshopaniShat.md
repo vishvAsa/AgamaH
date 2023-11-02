@@ -1,22 +1,4 @@
 ---
-Author: Vedic Rishis
-Category: upanishhat, svara, upanishad
-Description-comments: 1/108; Shukla YajurVeda, Mukhya upanishad
-File name: iisha.itx
-Indexextra: (1 2translations, Hindi (audio))
-Language: Sanskrit
-Latest update: July 20, 1999
-Location: doc_upanishhat
-Proofread by: John Manetta, Sunder Hattangadi sunderh at hotmail.com
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: Philosophy
-Sublocation: upanishhat
-Text title: IshopaniShat
-Texttype: svara
-Transliterated by: NA
-engtitle: IshopaniShat
-itxtitle: IshopaniShat
 title: ईशोपनिषत्
 
 ---

@@ -1,19 +1,4 @@
 ---
-Category: upanishhat, upanishad
-File name: chaitanyopaniShat.itx
-Indexextra: (Links 1, 2, 2, Bengali)
-Language: Sanskrit
-Latest update: August 6, 2016
-Location: doc_upanishhat
-Proofread by: PSA Easwaran psaeaswaran at gmail.com
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/hinduism/religion
-Sublocation: upanishhat
-Text title: ShrI Chaitanya Upanishad
-Transliterated by: PSA Easwaran psaeaswaran at gmail.com
-engtitle: ShrI Chaitanya Upanishad
-itxtitle: chaitanyopaniShat
 title: चैतन्योपनिषत्
 
 ---

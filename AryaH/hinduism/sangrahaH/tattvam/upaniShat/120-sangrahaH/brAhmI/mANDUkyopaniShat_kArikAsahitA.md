@@ -1,23 +1,4 @@
 ---
-Author: gauDapaada
-Category: upanishhat, svara, gauDapaada, upanishad
-Description-comments: four prakaraNas or treatises explaining  the
-File name: kaarikaa.itx
-Indexextra: (translation,  Russian)
-Language: Sanskrit
-Latest update: July 14, 2006. July 1, 2011
-Location: doc_upanishhat
-Proofread by: Aikya Param (aikya at ix.netcom.com), David Lyttle dhlyttle at hotmail.com
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/hinduism/religion
-Sublocation: upanishhat
-Text title: maaNDuukyopanishhat.h kaarikaa
-Texttype: svara
-Transliterated by: Anshuman Pandey pandey at umich.edu M. Giridhar, Kim Poulsen (poulsen
-  at dk-online.dk).
-engtitle: Mandukyopanishat with Gaudapada's Karika
-itxtitle: mANDUkyopaniShat kArikAsahitA
 title: माण्डूक्योपनिषत् कारिकासहिता
 
 ---

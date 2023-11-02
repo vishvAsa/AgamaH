@@ -1,20 +1,4 @@
 ---
-Category: upanishhat, dashamahAvidyA, devii, lalitA, devI, upanishad
-File name: lalitopaniShatsArtha.itx
-Language: Sanskrit
-Latest update: June 18, 2017
-Location: doc_upanishhat
-Proofread by: anonymous456an at gmail.com
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-SubDeity: dashamahAvidyA
-Subject: philosophy/hinduism/religion
-Sublocation: upanishhat
-Text title: lalitopaniShat with Hindi and English translation
-Translated by: anonymous456an at gmail.com
-Transliterated by: anonymous456an at gmail.com
-engtitle: lalitopaniShat with Hindi and English translation
-itxtitle: lalitopaniShat (sArtham)
 title: ललितोपनिषत् (सार्थम्)
 
 ---

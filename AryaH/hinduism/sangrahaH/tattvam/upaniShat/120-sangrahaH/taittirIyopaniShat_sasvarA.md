@@ -1,22 +1,4 @@
 ---
-Category: upanishhat, svara, upanishad
-Description-comments: Mantrapushpam,  7/108; Krishna YajurVeda, Mukhya upanishad,
-  with Vedic accents
-File name: taitaccent.itx
-Indexextra: (Ch7-9 accented (1 2 3translations, blog))
-Language: Sanskrit
-Latest update: November 1, 2010, August 9, 2016
-Location: doc_upanishhat
-Proofread by: Avinash Sathaye, Kartik, John Manetta, NA
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/hinduism/religion
-Sublocation: upanishhat
-Text title: taittirIya svarA.nkita
-Texttype: svara
-Transliterated by: Avinash Sathaye sohum at ms.uky.edu, Kartik kartik at Eng.Auburn.EDU
-engtitle: taittirIyopanishad (with Vedic accents)
-itxtitle: taittirIyopaniShat sasvarA
 title: तैत्तिरीयोपनिषत् सस्वरा
 
 ---

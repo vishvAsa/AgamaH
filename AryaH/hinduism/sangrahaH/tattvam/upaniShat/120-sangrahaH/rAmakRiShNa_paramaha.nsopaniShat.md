@@ -1,20 +1,4 @@
 ---
-Author: Swami Harshananda Puri
-Category: upanishhat, upanishad
-Description-comments: modern inspired upanishat by Swami Harshananda Puri
-File name: raamakrishnopanishat.itx
-Language: Sanskrit
-Latest update: Dec. 26, 1997
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi sunderh at hotmail.com
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: Religion
-Sublocation: upanishhat
-Text title: rAmakRiShNa paramaha.nsopaniShadaM
-Transliterated by: Sunder Hattangadi sunderh at hotmail.com
-engtitle: Shriramakrishna Paramahansopanishadam
-itxtitle: rAmakRiShNa paramaha.nsopaniShat
 title: रामकृइष्ण परमहंसोपनिषत्
 
 ---

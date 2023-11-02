@@ -1,22 +1,4 @@
 ---
-Author: Vedic Rishis
-Category: upanishhat, svara, upanishad
-Description-comments: 14/108; Krishna YajurVeda, Samanya upanishad
-File name: shveta.itx
-Indexextra: (translations 1 2 3)
-Language: Sanskrit
-Latest update: July 20, 1999, February 21, 2018
-Location: doc_upanishhat
-Proofread by: John Manetta
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: Philosophy
-Sublocation: upanishhat
-Text title: shvetaashvataropaniShat
-Texttype: svara
-Transliterated by: Sunder Hattangadi sunderh at hotmail.com
-engtitle: Shvetashvatara Upanishad
-itxtitle: shvetAshvataropaniShat
 title: श्वेताश्वतरोपनिषत्
 
 ---

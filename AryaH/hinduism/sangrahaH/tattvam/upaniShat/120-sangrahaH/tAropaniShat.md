@@ -1,18 +1,4 @@
 ---
-Category: upanishhat, devii, devI
-Description-comments: aprakAshitA upaniShadaH
-File name: tAropaniShat.itx
-Language: Sanskrit
-Latest update: March 9, 2018
-Location: doc_upanishhat
-Proofread by: V. Kumaran vkumaran at hotmail.com
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/hinduism/religion
-Sublocation: upanishhat
-Text title: tAropaniShat
-engtitle: tAropaniShat
-itxtitle: tAropaniShat
 title: तारोपनिषत्
 
 ---

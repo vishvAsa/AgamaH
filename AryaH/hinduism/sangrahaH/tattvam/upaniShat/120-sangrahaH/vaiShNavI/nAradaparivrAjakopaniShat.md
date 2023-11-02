@@ -1,21 +1,4 @@
 ---
-Author: Vedic Tradition
-Category: upanishhat, svara, upanishad
-Description-comments: 43 / 108; Atharva Veda - Sanyasa upanishad
-File name: naradparivra.itx
-Language: Sanskrit
-Latest update: Feb. 27, 2000
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/hinduism
-Sublocation: upanishhat
-Text title: Narada-Parivrajaka Upanishad
-Texttype: svara
-Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
-engtitle: Narad-Parivrajaka Upanishad
-itxtitle: nAradaparivrAjakopaniShat
 title: नारदपरिव्राजकोपनिषत्
 
 ---

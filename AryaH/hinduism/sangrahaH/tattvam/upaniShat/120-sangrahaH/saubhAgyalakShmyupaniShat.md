@@ -1,20 +1,4 @@
 ---
-Author: Vedic tradition
-Category: upanishhat, veda, rigveda, upanishad
-Description-comments: 105 / 108; Rigveda - shakta upanishad
-File name: saubhagya.itx
-Language: Sanskrit
-Latest update: April  24, 2000, June 22, 2011
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/hinduism
-Sublocation: upanishhat
-Text title: Saubhagyalaksmi Upanishad
-Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
-engtitle: SaubhagyalakShmi Upanishad
-itxtitle: saubhAgyalakShmyupaniShat
 title: सौभाग्यलक्ष्म्युपनिषत्
 
 ---

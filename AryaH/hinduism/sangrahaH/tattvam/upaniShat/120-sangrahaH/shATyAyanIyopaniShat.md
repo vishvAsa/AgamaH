@@ -1,20 +1,4 @@
 ---
-Author: Vedic tradition
-Category: upanishhat, upanishad
-Description-comments: 99 / 108; Shukla Yajurveda - Sanyasa upanishad
-File name: shatyayani.itx
-Language: Sanskrit
-Latest update: April, 18, 2000
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/religion
-Sublocation: upanishhat
-Text title: Shatyayani Upanishad
-Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
-engtitle: Shatyayani Upanishad
-itxtitle: shATyAyanIyopaniShat
 title: शाट्यायनीयोपनिषत्
 
 ---

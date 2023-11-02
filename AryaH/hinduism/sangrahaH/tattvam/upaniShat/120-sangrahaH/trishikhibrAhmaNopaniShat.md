@@ -1,21 +1,4 @@
 ---
-Author: Vedic Tradition
-Category: upanishhat, upanishad
-Description-comments: 44 / 108; Shukla YajurVeda - Yoga upanishad
-File name: trishikhi.itx
-Indexextra: (Translation)
-Language: Sanskrit
-Latest update: Mar. 4, 2000
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/hinduism
-Sublocation: upanishhat
-Text title: Trishikhibrahmana Upanishad
-Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
-engtitle: Trishikhibrahmana Upanishad
-itxtitle: trishikhibrAhmaNopaniShat
 title: त्रिशिखिब्राह्मणोपनिषत्
 
 ---

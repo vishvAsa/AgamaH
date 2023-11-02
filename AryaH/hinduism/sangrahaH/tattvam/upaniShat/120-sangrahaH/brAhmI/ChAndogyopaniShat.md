@@ -1,19 +1,4 @@
 ---
-Category: upanishhat, svara, upanishad
-File name: chhaandogya.itx
-Language: Sanskrit
-Latest update: November 1, 2010
-Location: doc_upanishhat
-Proofread by: P. P. Narayanaswami swami at math.mun.ca
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/hinduism/religion
-Sublocation: upanishhat
-Text title: chhAndogyopaniShat
-Texttype: svara
-Transliterated by: P. P. Narayanaswami swami at math.mun.ca
-engtitle: ChAndogyopaniShad.h
-itxtitle: ChAndogyopaniShat
 title: छान्दोग्योपनिषत्
 
 ---

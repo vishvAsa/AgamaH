@@ -1,21 +1,4 @@
 ---
-Author: Vedic tradition
-Category: upanishhat, svara, upanishad
-Description-comments: 54 / 108; Atharva Veda - Vaishnava upanishad
-File name: ramarahasya.itx
-Language: Sanskrit
-Latest update: May, 14, 2000
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/religion
-Sublocation: upanishhat
-Text title: Ramarahasya Upanishad
-Texttype: svara
-Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
-engtitle: Ramarahasya Upanishad
-itxtitle: rAmarahasyopaniShat
 title: रामरहस्योपनिषत्
 
 ---

@@ -1,18 +1,4 @@
 ---
-Category: upanishhat, upanishad
-File name: krishnopan.itx
-Language: Sanskrit
-Latest update: April 23, 1996
-Location: doc_upanishhat
-Proofread by: H.P. Raghunandan, Shrisha Rao, Vijay S. Pai vijaypai
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/hinduism/religion
-Sublocation: upanishhat
-Text title: kRiShNopaniShat
-Transliterated by: H.P. Raghunandan hpraghu at genius.tisl.soft.net
-engtitle: Krishna Upanishad
-itxtitle: kRiShNopaniShat
 title: कृइष्णोपनिषत्
 
 ---

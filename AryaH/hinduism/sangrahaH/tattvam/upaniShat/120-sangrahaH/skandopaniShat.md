@@ -1,21 +1,4 @@
 ---
-Author: Vedic Tradition
-Category: upanishhat, upanishad
-Description-comments: 51/108; Krishna-Yajur-Veda, Samanya Upanishad
-File name: skandaupan.itx
-Indexextra: (video, Chanting)
-Language: Sanskrit
-Latest update: October  11, 1999
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi sunderh at hotmail.com
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/religion/hinduism
-Sublocation: upanishhat
-Text title: skanda Upanishad
-Transliterated by: Sunder Hattangadi sunderh at hotmail.com
-engtitle: Skanda Upanishad
-itxtitle: skandopaniShat
 title: स्कन्दोपनिषत्
 
 ---

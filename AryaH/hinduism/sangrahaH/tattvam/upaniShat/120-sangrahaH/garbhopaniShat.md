@@ -1,21 +1,4 @@
 ---
-Author: Vedic Tradition
-Category: upanishhat, upanishad
-Description-comments: 17/108; Krishna-Yajur-Veda, Samanya Upanishad
-File name: garbha.itx
-Indexextra: (120 Upanishads)
-Language: Sanskrit
-Latest update: September 30, 1999, August 29, 2015
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi sunderh at hotmail.com
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/religion/hinduism
-Sublocation: upanishhat
-Text title: Garbha Upanishad
-Transliterated by: Sunder Hattangadi sunderh at hotmail.com
-engtitle: Garbha Upanishad
-itxtitle: garbhopaniShat
 title: गर्भोपनिषत्
 
 ---

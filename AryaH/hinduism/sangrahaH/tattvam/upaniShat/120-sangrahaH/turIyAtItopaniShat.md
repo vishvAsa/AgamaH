@@ -1,20 +1,4 @@
 ---
-Author: Vedic tradition
-Category: upanishhat, upanishad
-Description-comments: 64 / 108; Shukla Yajurveda - Sanyasa upanishad
-File name: turiya.itx
-Language: Sanskrit
-Latest update: Mar. 21, 2000
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/hinduism
-Sublocation: upanishhat
-Text title: Turiyatita Upanishad
-Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
-engtitle: Turiyatita Upanishad
-itxtitle: turIyAtItopaniShat
 title: तुरीयातीतोपनिषत्
 
 ---

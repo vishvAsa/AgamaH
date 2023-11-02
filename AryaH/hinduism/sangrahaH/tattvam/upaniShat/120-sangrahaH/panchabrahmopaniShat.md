@@ -1,20 +1,4 @@
 ---
-Author: Vedic tradition
-Category: upanishhat, upanishad
-Description-comments: 93 / 108; Krishna Yajurveda - shaiva upanishad
-File name: panchabrahma.itx
-Language: Sanskrit
-Latest update: April, 14, 2000
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/hinduism/religion
-Sublocation: upanishhat
-Text title: Panchabrahma Upanishad
-Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
-engtitle: Panchabrahma Upanishad
-itxtitle: panchabrahmopaniShat
 title: पञ्चब्रह्मोपनिषत्
 
 ---

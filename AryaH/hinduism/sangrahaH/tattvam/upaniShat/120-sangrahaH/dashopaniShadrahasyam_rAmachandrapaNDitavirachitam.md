@@ -1,22 +1,4 @@
 ---
-Author: rAmachandrapaNDita
-Category: upanishhat, upanishad
-Description-comments: An article by Dr. M. L. Wadekar in Upanishat Sri - Anthology
-  of Articles on Upanishads (page 202)
-File name: dashopaniShadrahasyam.itx
-Indexextra: (upaniShatshrI)
-Language: Sanskrit
-Latest update: December 9, 2017
-Location: doc_upanishhat
-Proofread by: Pranab Mukherjee pranab9 at gmail.com
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/hinduism/religion
-Sublocation: upanishhat
-Text title: dashopaniShadrahasyam
-Transliterated by: Pranab Mukherjee pranab9 at gmail.com
-engtitle: dashopaniShadrahasyam
-itxtitle: dashopaniShadrahasyam (rAmachandrapaNDitavirachitam)
 title: दशोपनिषद्रहस्यम् (रामचन्द्रपण्डितविरचितम्)
 
 ---

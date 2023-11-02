@@ -1,20 +1,4 @@
 ---
-Author: Vedic tradition
-Category: upanishhat, upanishad, shiva
-Description-comments: 83 / 108; Krishna Yajurveda - Sanyasa upanishad
-File name: katharudra.itx
-Language: Sanskrit
-Latest update: August  14, 2000
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/hinduism
-Sublocation: upanishhat
-Text title: Katharudra Upanishad
-Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
-engtitle: Katharudra Upanishad
-itxtitle: kaTharudropaniShat
 title: कठरुद्रोपनिषत्
 
 ---

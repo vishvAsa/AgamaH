@@ -1,20 +1,4 @@
 ---
-Author: Vedic Tradition
-Category: upanishhat, upanishad
-Description-comments: 47/108; Rig Veda, Sanyasa Upanishad
-File name: nirvana.itx
-Language: Sanskrit
-Latest update: July, 3, 1999, October 6, 2018
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/religion/hinduism
-Sublocation: upanishhat
-Text title: Nirvana Upanishad
-Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
-engtitle: Nirvana Upanishad
-itxtitle: nirvANopaniShat
 title: निर्वाणोपनिषत्
 
 ---

@@ -1,21 +1,4 @@
 ---
-Author: Vedic Tradition
-Category: upanishhat, upanishad
-Description-comments: 39/108; Krishna Yajurveda, Yoga Upanishad
-File name: dhyanabindu.itx
-Indexextra: (Translation)
-Language: Sanskrit
-Latest update: February  11, 2000
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/hinduism
-Sublocation: upanishhat
-Text title: Dhyanabindu Upanishad
-Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
-engtitle: Dhyanabindu Upanishad
-itxtitle: dhyAnabindUpaniShat
 title: ध्यानबिन्दूपनिषत्
 
 ---

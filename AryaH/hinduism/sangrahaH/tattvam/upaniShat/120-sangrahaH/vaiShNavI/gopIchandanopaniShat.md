@@ -1,19 +1,4 @@
 ---
-Category: upanishhat, upanishad
-Description/comments: Atharva Veda upanishad
-File name: gopIchandanopaniShat.itx
-Language: Sanskrit
-Latest update: March 21, 2015
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi sunderh at hotmail.com
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/hinduism/religion
-Sublocation: upanishhat
-Text title: Gopichandana Upanishad
-Transliterated by: Sunder Hattangadi sunderh at hotmail.com
-engtitle: gopIchandanopaniShat
-itxtitle: gopIchandanopaniShat
 title: गोपीचन्दनोपनिषत्
 
 ---

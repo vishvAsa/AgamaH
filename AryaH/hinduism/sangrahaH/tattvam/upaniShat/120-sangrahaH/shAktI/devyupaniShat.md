@@ -1,22 +1,4 @@
 ---
-Author: Vedic Tradition
-Category: upanishhat, svara, upanishad
-Description-comments: 89/108; Atharva Veda, Shakta Upanishad
-File name: devi.itx
-Indexextra: (devIatharvashIrShaM)
-Language: Sanskrit
-Latest update: September 19, 2003
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/religion/hinduism
-Sublocation: upanishhat
-Text title: Devi Upanishad
-Texttype: svara
-Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
-engtitle: Devi Upanishad
-itxtitle: devyupaniShat
 title: देव्युपनिषत्
 
 ---

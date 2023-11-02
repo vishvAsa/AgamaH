@@ -1,21 +1,4 @@
 ---
-Author: Vedic tradition
-Category: upanishhat, upanishad
-Description-comments: 48 / 108; Shukla Yajurveda - Yoga upanishad
-File name: mandala.itx
-Indexextra: (120 Upanishads, Meaning 1, 2)
-Language: Sanskrit
-Latest update: Mar. 17, 2000
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/hinduism
-Sublocation: upanishhat
-Text title: Mandalabrahmana Upanishad
-Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
-engtitle: Mandalabrahmana Upanishad
-itxtitle: maNDalabrAhmaNopaniShat
 title: मण्डलब्राह्मणोपनिषत्
 
 ---

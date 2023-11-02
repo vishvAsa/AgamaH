@@ -1,20 +1,4 @@
 ---
-Author: Vedic tradition
-Category: upanishhat, upanishad
-Description-comments: 57 / 108; Rig Veda - Samanya upanishad
-File name: mudgala.itx
-Language: Sanskrit
-Latest update: Mar. 21, 2000
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/hinduism
-Sublocation: upanishhat
-Text title: Mudgala Upanishad
-Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
-engtitle: MudgalaUpanishad
-itxtitle: mudgalopaniShat
 title: मुद्गलोपनिषत्
 
 ---

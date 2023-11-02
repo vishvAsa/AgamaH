@@ -1,20 +1,4 @@
 ---
-Category: devii, devI, upanishhat, dashamahAvidyA
-Description-comments: In shAktapramoda and mantramahArNava
-File name: tAropaniShatatharvaveda.itx
-Indexextra: (Mahavidya Chatushtayam)
-Language: Sanskrit
-Latest update: June 6, 2018
-Location: doc_upanishhat
-Proofread by: Lalitha Parameswari parameswari.lalitha at gmail.com, NA
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-SubDeity: dashamahAvidyA
-Subject: philosophy/hinduism/religion
-Sublocation: upanishhat
-Text title: tAropaniShat from atharvaveda
-engtitle: tAropaniShat from atharvaveda
-itxtitle: tAropaniShat (atharvavede saubhAgyakhaNDe)
 title: तारोपनिषत् (अथर्ववेदे सौभाग्यखण्डे)
 
 ---

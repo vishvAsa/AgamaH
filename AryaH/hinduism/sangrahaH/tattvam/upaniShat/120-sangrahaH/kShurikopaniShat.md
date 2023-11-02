@@ -1,20 +1,4 @@
 ---
-Author: Vedic Rishis
-Category: upanishhat, upanishad
-Description-comments: 31/108; Krishna Yajurveda Ypga Upanishad
-File name: kshurika.itx
-Language: Sanskrit
-Latest update: Jan. 8, 2000
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/hinduism
-Sublocation: upanishhat
-Text title: Kshurika Upanishad
-Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
-engtitle: Kshurika Upanishad
-itxtitle: kShurikopaniShat
 title: क्षुरिकोपनिषत्
 
 ---

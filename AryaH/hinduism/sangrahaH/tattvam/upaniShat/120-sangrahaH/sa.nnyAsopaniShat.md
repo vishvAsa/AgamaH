@@ -1,20 +1,4 @@
 ---
-Author: Vedic tradition
-Category: upanishhat, upanishad
-Description-comments: 65 / 108; Sama veda - sanyasa upanishad
-File name: sanyasa.itx
-Language: Sanskrit
-Latest update: July 20, 2000
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/hinduism/religion
-Sublocation: upanishhat
-Text title: Sanyasa Upanishad
-Transliterated by: Sunder Hattangadi
-engtitle: Sanyasa Upanishad
-itxtitle: sa.nnyAsopaniShat
 title: संन्यासोपनिषत्
 
 ---

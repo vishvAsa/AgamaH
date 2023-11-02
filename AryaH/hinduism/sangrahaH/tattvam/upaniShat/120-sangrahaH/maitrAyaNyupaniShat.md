@@ -1,21 +1,4 @@
 ---
-Author: Vedic Tradition
-Category: upanishhat, upanishad
-Description-comments: 24/108; Sam Veda, Samanya Upanishad
-File name: maitri.itx
-Indexextra: (1translation)
-Language: Sanskrit
-Latest update: January 7, 2005
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/religion/hinduism
-Sublocation: upanishhat
-Text title: DeviMaitri(Maitrayani) Upanishad
-Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
-engtitle: Maitri (Maitrayani) Upanishad
-itxtitle: maitrAyaNyupaniShat
 title: मैत्रायण्युपनिषत्
 
 ---

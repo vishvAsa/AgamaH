@@ -1,20 +1,4 @@
 ---
-Author: Vedic tradition
-Category: upanishhat, upanishad
-Description-comments: 35/108; Krishna Yajurveda Samanya upanishad
-File name: shuka.itx
-Language: Sanskrit
-Latest update: Jan. 16, 2000, July 17, 2010
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/hinduism
-Sublocation: upanishhat
-Text title: Shuka-Rahasya Upanishad
-Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
-engtitle: Shuka-Rahasya Upanishad
-itxtitle: shukarahasyopaniShat
 title: शुकरहस्योपनिषत्
 
 ---

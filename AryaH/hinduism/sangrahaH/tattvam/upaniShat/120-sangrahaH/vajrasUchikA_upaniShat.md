@@ -1,19 +1,4 @@
 ---
-Category: upanishhat, upanishad
-File name: vajrasUchikopan.itx
-Indexextra: (with meanings)
-Language: Sanskrit
-Latest update: November 1, 2010
-Location: doc_upanishhat
-Proofread by: H. P. Raghunandan hpraghu at genius.tisl.soft.net
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/hinduism/religion
-Sublocation: upanishhat
-Text title: vajrasUchikA upaniShat
-Transliterated by: H. P. Raghunandan hpraghu at genius.tisl.soft.net
-engtitle: vajrasUchika (with trans.)
-itxtitle: vajrasUchikA upaniShat
 title: वज्रसूचिका उपनिषत्
 
 ---

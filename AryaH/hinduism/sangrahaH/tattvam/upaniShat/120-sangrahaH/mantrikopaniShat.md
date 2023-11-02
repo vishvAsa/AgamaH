@@ -1,20 +1,4 @@
 ---
-Author: Vedic tradition
-Category: upanishhat, upanishad
-Description-comments: 32/108; Shuklayajurveda Samanya upanishad
-File name: mantrika.itx
-Language: Sanskrit
-Latest update: Jan. 11, 2000
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/hinduism
-Sublocation: upanishhat
-Text title: Mantrika Upanishad
-Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
-engtitle: Mantrika Upanishad
-itxtitle: mantrikopaniShat
 title: मन्त्रिकोपनिषत्
 
 ---

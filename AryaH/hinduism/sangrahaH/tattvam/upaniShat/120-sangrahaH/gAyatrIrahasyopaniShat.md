@@ -1,20 +1,4 @@
 ---
-Author: Vedic Rishi ??
-Category: upanishhat, upanishad
-Description-comments: from Adyar Library Unpublished Upanishads
-File name: gaayatriirahasyopanishhat.itx
-Language: Sanskrit
-Latest update: Jan. 7, 2010
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/hinduism
-Sublocation: upanishhat
-Text title: Gayatri Rahasya Upanishad
-Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
-engtitle: Gayatri-rahasya Upanishad
-itxtitle: gAyatrIrahasyopaniShat
 title: गायत्रीरहस्योपनिषत्
 
 ---

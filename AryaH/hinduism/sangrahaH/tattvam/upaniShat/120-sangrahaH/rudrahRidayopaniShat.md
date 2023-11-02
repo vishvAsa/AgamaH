@@ -1,20 +1,4 @@
 ---
-Author: Vedic tradition
-Category: hRidaya, upanishhat, upanishad, shiva
-Description-comments: 85 / 108; Krishna Yajurveda - Shaiva upanishad
-File name: rudrahridaya.itx
-Language: Sanskrit
-Latest update: Mar. 29, 2000
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/hinduism
-Sublocation: upanishhat
-Text title: Rudrahridaya Upanishad
-Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
-engtitle: Rudrahridaya Upanishad
-itxtitle: rudrahRidayopaniShat
 title: रुद्रहृइदयोपनिषत्
 
 ---

@@ -1,20 +1,4 @@
 ---
-Author: Vedic tradition
-Category: upanishhat, upanishad
-Description-comments: 74 / 108; Sama Veda - Sanyasa upanishad
-File name: kundika.itx
-Language: Sanskrit
-Latest update: October 16, 2019
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/hinduism/
-Sublocation: upanishhat
-Text title: Kundika Upanishad
-Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
-engtitle: Kundika Upanishad
-itxtitle: kuNDikopaniShat
 title: कुण्डिकोपनिषत्
 
 ---

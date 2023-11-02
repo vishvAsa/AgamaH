@@ -1,21 +1,4 @@
 ---
-Author: Vedic tradition
-Category: upanishhat, upanishad
-Description-comments: 37/108; Krishna Yajurveda- Yoga upanishad
-File name: tejobindu.itx
-Indexextra: (120 Upanishads, Meaning 1, 2))
-Language: Sanskrit
-Latest update: Feb. 3, 2000, October 7, 2016
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/hinduism
-Sublocation: upanishhat
-Text title: Tejobindu Upanishad
-Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
-engtitle: Tejobindu Upanishad
-itxtitle: tejobindUpaniShat
 title: तेजोबिन्दूपनिषत्
 
 ---

@@ -1,18 +1,4 @@
 ---
-Category: upanishhat, upanishad
-File name: mRRityulAngUlavidyopaniShat.itx
-Language: Sanskrit
-Latest update: March 6, 2016
-Location: doc_upanishhat
-Proofread by: DPD
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/hinduism/religion
-Sublocation: upanishhat
-Text title: mRRityulAngUlavidyopaniShad
-Transliterated by: DPD, help from Alex
-engtitle: yAjuShI mRityulANgUlavidyopaniShat
-itxtitle: mRityulANgUlavidyopaniShat yAjuShI
 title: मृइत्युलाण्गूलविद्योपनिषत् याजुषी
 
 ---

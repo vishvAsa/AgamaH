@@ -1,19 +1,4 @@
 ---
-Category: upanishhat, upanishad
-File name: savitri_u.itx
-Indexextra: (sAmAnya vedAnta upaniShads)
-Language: Sanskrit
-Latest update: December 31, 1996, July 20, 2015
-Location: doc_upanishhat
-Proofread by: Anshuman Pandey , Vijay Pai
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/hinduism/religion
-Sublocation: upanishhat
-Text title: sAvitryupaniShat
-Transliterated by: Anshuman Pandey pandey at umich.edu
-engtitle: sAvitryupaniShat
-itxtitle: sAvitryupaniShat
 title: सावित्र्युपनिषत्
 
 ---

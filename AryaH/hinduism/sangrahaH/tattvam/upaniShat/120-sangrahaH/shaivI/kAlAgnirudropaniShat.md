@@ -1,17 +1,4 @@
 ---
-Category: upanishhat, upanishad
-File name: kaalaagni.itx
-Language: Sanskrit
-Latest update: September 26, 1999
-Location: doc_upanishhat
-Proofread by: roopashri at hotmail.com
-Site access: https://sanskritdocuments.org
-Subject: religious
-Sublocation: upanishhat
-Text title: kaalaagnirudropanishhat
-Transliterated by: Roopa and Shrirang Nene (roopashri at hotmail.com)
-engtitle: kAlAgnirudropaniShat
-itxtitle: kAlAgnirudropaniShat
 title: कालाग्निरुद्रोपनिषत्
 
 ---

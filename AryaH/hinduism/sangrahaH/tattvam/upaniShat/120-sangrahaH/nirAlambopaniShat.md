@@ -1,20 +1,4 @@
 ---
-Author: Vedic tradiotion
-Category: upanishhat, upanishad
-Description-comments: 34/108; Shukla Yajurveda Samanya upanishad.
-File name: niralamba.itx
-Language: Sanskrit
-Latest update: Jan. 13, 2000
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/hinduism
-Sublocation: upanishhat
-Text title: Niralamba Upanishad
-Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
-engtitle: Niralamba Upanishad
-itxtitle: nirAlambopaniShat
 title: निरालम्बोपनिषत्
 
 ---

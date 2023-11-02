@@ -1,18 +1,4 @@
 ---
-Category: upanishhat, upanishad
-File name: kalisantarana_upan.itx
-Language: Sanskrit
-Latest update: August 22, 1996, September 15, 2014
-Location: doc_upanishhat
-Proofread by: Anshuman Pandey, Vijay Pai
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/hinduism/religion
-Sublocation: upanishhat
-Text title: kalisantaraNopaniShat
-Transliterated by: Anshuman Pandey
-engtitle: Kalisantarana Upanishat
-itxtitle: kalisantaraNopaniShat
 title: कलिसन्तरणोपनिषत्
 
 ---

@@ -1,22 +1,4 @@
 ---
-Author: Vedic Rishis
-Category: upanishhat, svara, upanishad
-Description-comments: 5/108; Atharva Veda, Mukhya upanishad
-File name: mundaka.itx
-Indexextra: (1, 2 3, 4 translations)
-Language: Sanskrit
-Latest update: July 20,1999, Nov 1,10, June 24, 2018
-Location: doc_upanishhat
-Proofread by: Avinash Sathaye, P.P.Narayanaswami. John Manetta
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/hinduism/religion
-Sublocation: upanishhat
-Text title: muNDakopaniShat
-Texttype: svara
-Transliterated by: Kim Paulsen
-engtitle: Mundaka Upanishad
-itxtitle: muNDakopaniShat
 title: मुण्डकोपनिषत्
 
 ---

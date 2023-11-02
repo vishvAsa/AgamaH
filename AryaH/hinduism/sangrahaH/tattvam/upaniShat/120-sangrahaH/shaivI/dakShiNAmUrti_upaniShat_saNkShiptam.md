@@ -1,29 +1,12 @@
 ---
-Category: upanishhat, upanishad
-File name: dakshinopan.itx
-Indexextra: (excerpts)
-Language: Sanskrit
-Latest update: November 1, 2010
-Location: doc_upanishhat
-Proofread by: Ramakrishnan Balasubramanian rbalasub at ecn.purdue.edu
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/hinduism/religion
-Sublocation: upanishhat
-Text title: dakShiNAmUrti (excerpts)
-Transliterated by: Ramakrishnan Balasubramanian rbalasub at ecn.purdue.edu
-engtitle: dakShiNAmUrti (excerpts)
-itxtitle: dakShiNAmUrti upaniShat (saNkShiptam)
 title: दक्षिणामूर्ति उपनिषत् (सण्क्षिप्तम्)
 
 ---
   
  दक्षिणामूर्ति उपनिषत् सङ्क्षिप्त   
   
-  
-           Excerpts from dakShiNAmUrti upaniShad  
-Rama Balasubramanian  
-  
+
+
 सोऽहमिति यावदास्थितिः सा निष्ठा भवति ।  
 तदभेदेन मन्वाम्रेडनं ज्ञानसाधनम् ।  
 चित्ते तदेकतानता परिकरः ।  

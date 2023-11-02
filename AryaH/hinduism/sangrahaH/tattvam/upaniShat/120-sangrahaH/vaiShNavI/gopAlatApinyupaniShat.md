@@ -1,22 +1,4 @@
 ---
-Author: Vedic tradition
-Category: upanishhat, krishna, svara, upanishad
-Description-comments: 95 / 108; Atharva Veda Vaishnava upanishad
-File name: gopala.itx
-Language: Sanskrit
-Latest update: August 23, 2000
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi (sunderh at hotmail.com)
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-SubDeity: krishna
-Subject: philosophy/hinduism
-Sublocation: upanishhat
-Text title: Gopalatapini Upanishad
-Texttype: svara
-Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
-engtitle: Gopalatapini Upanishad
-itxtitle: gopAlatApinyupaniShat
 title: गोपालतापिन्युपनिषत्
 
 ---

@@ -1,18 +1,4 @@
 ---
-Author: Traditional
-Category: upanishhat, upanishad
-Description-comments: Essence of the Devi Mahatmyam
-File name: maitreyi.itx
-Language: Sanskrit
-Latest update: January 5, 2000
-Location: doc_upanishhat
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: hinduism/religion
-Sublocation: upanishhat
-Text title: maitreyyupaniShat
-engtitle: Maitreyi Upanishad
-itxtitle: maitreyyupaniShat
 title: मैत्रेय्युपनिषत्
 
 ---

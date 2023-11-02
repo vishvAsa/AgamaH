@@ -1,18 +1,4 @@
 ---
-Category: upanishhat, upanishad
-File name: paramahamsa_upan.itx
-Language: Sanskrit
-Latest update: April 16, 1996
-Location: doc_upanishhat
-Proofread by: Anshuman Pandey pandey at umich.edu
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: hinduism/religion
-Sublocation: upanishhat
-Text title: paramaha.nsopaniShat
-Transliterated by: Anshuman Pandey pandey at umich.edu
-engtitle: Paramahansopanishat
-itxtitle: paramahaMsopaniShat
 title: परमहंसोपनिषत्
 
 ---

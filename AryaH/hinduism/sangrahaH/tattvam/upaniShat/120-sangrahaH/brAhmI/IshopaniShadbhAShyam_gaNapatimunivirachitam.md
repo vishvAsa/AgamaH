@@ -1,20 +1,4 @@
 ---
-Author: Vasishtha Ganapati Muni
-Category: upanishhat, gaNapati-muni, upanishad
-Description-comments: The Collected Works of Vasishtha Kavyakantha Ganapati Muni
-File name: ishabhashyaGM.itx
-Indexextra: (Collected Works)
-Language: Sanskrit
-Latest update: July 21, 2013
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi sunderh at hotmail.com
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/hinduism/religion
-Sublocation: upanishhat
-Text title: Ishopanishadbhashyam
-engtitle: Ishopanishadbhashya - Ganapati Muni
-itxtitle: IshopaniShadbhAShyam (gaNapatimunivirachitam)
 title: ईशोपनिषद्भाष्यम् (गणपतिमुनिविरचितम्)
 
 ---

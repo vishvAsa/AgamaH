@@ -1,20 +1,4 @@
 ---
-Author: Vedic Tradition
-Category: upanishhat, upanishad
-Description-comments: 62/108; Krishna-Yajurveda; Samanya Upanishad
-File name: shaariiraka.itx
-Language: Sanskrit
-Latest update: October 20, 1999
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi sunderh at hotmail.com
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/religion/hinduism
-Sublocation: upanishhat
-Text title: Shariraka Upanishad
-Transliterated by: Sunder Hattangadi sunderh at hotmail.com
-engtitle: Shariraka Upanishad
-itxtitle: shArIrakopaniShat
 title: शारीरकोपनिषत्
 
 ---
