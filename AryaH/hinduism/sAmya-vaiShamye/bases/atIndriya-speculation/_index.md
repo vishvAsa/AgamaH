@@ -1,9 +1,9 @@
 +++
 title = "+atIndriya-speculation"
 +++
-Topics such as deva-s, brahma, (to some extant) dharma are beyond direct observation and inference.
+Observation-based shAstra-s (eg. खगोलम्, भूगोलम् अधि) are excluded from this section. Topics such as deva-s, brahma, (to some extant) dharma are beyond direct observation and inference.
 
-Observation-based shAstra-s (eg. खगोलम्, भूगोलम् अधि) are excluded from this section.
+Some such speculation is intended to broadly teach us about how to think about particular groups of devatA-s at a gross level, without necessarily insisting on accuracy of each detail.
 
 ## Exaggeration
 - Taking punishments and rewards described by shAstra-s literally can be quite risible.
