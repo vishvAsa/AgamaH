@@ -1,4 +1,0 @@
----
-title: +Observational texts
----
-
