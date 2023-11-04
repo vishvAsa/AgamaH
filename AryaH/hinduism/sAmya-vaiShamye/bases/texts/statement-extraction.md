@@ -4,6 +4,14 @@ title = "Statement-extraction"
 ## Classification 
 Some of the statements within these texts are observational, while others are speculative. They are each considered in separate pages.
 
+Statements -
+
+- Supra-sensory/ non-observational speculation
+  - deva-s, brahma, consequences of AchAra etc..
+- observational/ inferential 
+  - natural world, wellbeing of self, society ...
+  - Proper behavior / AchAra to a good extant (as experiements which worked).
+
 One classification of statements of veda-s is:
 
 - vidhi-vAkya (command/ injunction)
