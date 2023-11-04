@@ -5,7 +5,9 @@ Observation is of many kinds. Based on the object:
 
 - nature 
 - self
+  - satisfaction with philosophy
 - society
   - education
-- poetry ...
+  - history
+- poetic conventions ...
 
