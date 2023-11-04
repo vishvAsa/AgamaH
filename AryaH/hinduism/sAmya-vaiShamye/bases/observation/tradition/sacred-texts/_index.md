@@ -20,3 +20,5 @@ title: +Sacred texts
     - rAmAyaNa mahAbhArata purANa-s
     - tAntrika+upaniShad-s, tantra-s
 
+Observation-based shAstra-s (खगोलम्, भूगोलम् अधि) are excluded from this section.
+
