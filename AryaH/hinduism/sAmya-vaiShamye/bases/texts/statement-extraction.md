@@ -1,6 +1,7 @@
 +++
-title = "Statement-classification"
+title = "Statement-extraction"
 +++
+## Classification 
 Some of the statements within these texts are observational, while others are speculative. They are each considered in separate pages.
 
 One classification of statements of veda-s is:
