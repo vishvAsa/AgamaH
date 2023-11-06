@@ -28,15 +28,28 @@ In some cases, one may argue that despite stories of their elimination, some kSh
 - On these points, Nāgeśabhaṭṭa differed from Gāgābhaṭṭa, and Nāgeśabhaṭṭa's views continued to influence his successors like Nilakaṇṭha Shastri Thane.
 
 ## HiraNyagarbha rite
-- A kShatriya-wannabe could perform the hiraNyagarbha rite (atharva-veda-parishiShTa [13.2](http://gretil.sub.uni-goettingen.de/gretil/1_sanskr/1_veda/5_vedang/2_paris/avpari_u.htm) morphed with regional anukalpa-s and paddhati-s).
+- A kShatriya-wannabe could perform the hiraNyagarbha rite (atharva-veda-parishiShTa [13.2](/vedAH/atharva/parishiShTam/13_hiraNyagarbhavidhiH/) morphed with regional anukalpa-s and paddhati-s).
 - According to practice and paddhati-s, this involves offering up a golden calf (sometimes substituted by bronze as by vIrarAghava nAyaka).
 - The yajamAna is popularly considered to have taken a second birth (parishiShTa clues - rājā hiraṇyagarbhatvam abhīpsaty asmin bhavanto 'numanyantām iti.  ).
 - The phala is very general, according to the parishiShTa - whatever the brAhmaNa-s grant. 
 
-> हिरण्यगर्भत्रितयदानमात्रेण तत्क्षणात् ॥ ८८३  
-विप्रत्वं परमाप्नोति वृषलो नात्र संशयः ।  
-हिरण्यगर्भदानस्य चतुर्वारकृतस्य तु ।  
-महिम्ना वृषलस्यापि मौञ्ज्यामधिकृतिर्भवेत्॥ ८९६  
-ततोऽपि कृतया मौञ्ज्या शूद्रो ब्राह्मण्यमृच्छति।
+> वेदानां पारगा यस्य  
+चतुर्णां ब्रह्मवित्तमाः ।  
+तुष्टा यस्याशिषो ब्रूयुस्  
+तस्य यज्ञफलं भवेत् ॥
+
+> 'Hiraṇyagarbha' in the Kapilasmṛti claims to give Śūdra the adhikāra of mauñjī, and through mauñjī the attainment of Vipratva.
+
+
+> हिरण्यगर्भ-त्रितय-  
+दान-मात्रेण तत्-क्षणात् ॥ ८८३  
+विप्रत्वं परम् आप्नोति  
+वृषलो नात्र संशयः ।  
+हिरण्य-गर्भ-दानस्य  
+चतुर्-वार-कृतस्य तु ।  
+महिम्ना वृषलस्यापि  
+मौञ्ज्याम् अधिकृतिर् भवेत्॥ ८९६  
+ततोऽपि कृतया मौञ्ज्या  
+शूद्रो ब्राह्मण्यम् ऋच्छति।
 > 
 > कपिलस्मृतिः

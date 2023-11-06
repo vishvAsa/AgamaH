@@ -52,6 +52,28 @@ From Laugākṣismṛti :
 **शूद्रोऽशूद्रो भविष्यति** +++(जन्मान्तरे)+++ ॥
 
 
+> त्रिवारं गोसहस्रस्य  
+करणेन जघन्यजः ।  
+च्युतः स्वजातितो नूनं  
+वैप्रं साम्यं प्रपद्यते ॥  
+धरादानत्रयेणाऽत्र  
+वृषलो जगतीतले ।  
+… इत्युक्तो  
+जनैर् ब्राह्मणवद् भवेत् ॥  
+>
+> वेदाध्ययनतः पश्चाद्  
+अधीते क्रमम् आस्तितः+++(=??)+++ ।  
+प्रज्ञातवर्त्मना श्रीमान्  
+यस्सोऽयं ब्राह्मणोत्तमः  
+तत्तत्क्रतुफलं नूनं  
+प्राप्नोत्येवा??वच्मि वः ।  
+वेदप्रवचने नित्यं  
+जागरूकोऽनिशं भवेत् ॥  
+विस्मृतिं यस्तस्य गच्छेत्  
+तया ऽनर्थो महान् भवेत् ।  
+वेदप्रवचने नित्यम्  
+ऋतं सत्यं तपो दमः ॥
+
 Mārkaṇḍeyasmṛti also mentions the various Mahādānas and so forth, by which Vṛṣalas and such others are said to attain Vipratva. 
 
 > षोडश महादानानि
@@ -88,7 +110,5 @@ Mārkaṇḍeyasmṛti also mentions the various Mahādānas and so forth, by wh
 दानस्यास्य प्रदानतः ।  
 
 ## हिरण्यगर्भः
-A strange dāna named 'Hiraṇyagarbha' in the Kapilasmṛti claims to give Śūdra the adhikāra of mauñjī, and through mauñjī the attainment of Vipratva.
-
-It is consists of gomūtra, gomaya, dadhi, kṣīra, and so forth.
+(क्षत्रियपृष्ठे वीक्षणीयम्। )
 
