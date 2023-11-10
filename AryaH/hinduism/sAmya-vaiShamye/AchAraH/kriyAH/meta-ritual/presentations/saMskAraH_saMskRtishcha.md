@@ -29,7 +29,7 @@ title = "संस्कारः संस्कृतिश्च"
 ### ब्रह्माण्डस्य विस्तारः
 
 
-> "So we reset and make the sun a grain of sand. Now the earth is 10 cm away and the next star is 30 km."
+> "So we reset and make the sun a grain of sand. Now the earth is 10 cm away and the next star is 30 km."  
 > "space exploration in the category of conquering Mt. Everest rather than that of Europeans stumbling upon the West Indies."
 
 
@@ -39,7 +39,7 @@ title = "संस्कारः संस्कृतिश्च"
 - a/100 → महागोदाः
 - a/100/100*2 → मनुष्याः
 - प्रलयाः / Mass extinctions
-- प्रज्ञाया वैरल्यम् - देशतः, कालतः
+- **प्रज्ञाया वैरल्यम्** - देशतः, कालतः
 
 ### मनुष्य-जातेर् इतिहासो भविष्यञ्च
 - 2000000 वर्षाणि → ०००००००००००००००००००x
@@ -49,11 +49,23 @@ title = "संस्कारः संस्कृतिश्च"
   - सजीवाः
     - प्राचीनाः - आर्याः, 
 - साम्राज्यानि हतानि - आर्याः, हुणाः, रोमकाः, क्मेटाः, मोङ्गोलाः …
+- द्रव्यनाशेन नाशः
 
 ### प्रज्ञा-परम्परा-नाश-हेतवः
-
-
-### भारतीयेतिहासः
-- मौर्याः, गुप्तकाः, चालुक्याः, महाराष्ट्
+- मानसिकरोगाः
+  - Burning of Hypatia, library of Alexandria
+  - काश्मीर-नालन्द-विक्रमशीलादि-विनाशः 
+- द्रव्य-नाशाः
+  - Easter Island
+  - Tasmania
+- युद्ध-दौर्बल्यम्
+  - Maori vs Maoriri
+- परम्परा-दौर्बल्यम्
+  - Mongol Islamization, तुरुष्काः, Ainu, NE states.
+  - अभावोदाहरणम् - उषःपुत्राः, मणिपुरम्, त्रिपुरा
 
 ### भारतस्येतिहासो भविष्यञ्च
+- … मौर्याः, गुप्तकाः, चालुक्याः, **मरून्मत्ताः**, महाराष्ट्रकाः, **प्रेताराधकाः**
+- उन्मादैर् नाशः - पाकिस्थानम्, अफ़्घानिस्थानम्। 
+
+## प्रज्ञा
