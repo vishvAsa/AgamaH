@@ -1,0 +1,8 @@
++++
+title = "kalAsha-golden-age"
++++
+... point, a central event: 'of Joshi' he said 'we say zh'ew par'au', the line (of goats) has left (for the summer pastures); 'of Prun buD'alak g'Uaka ucund'iu', the budalak boys, the fecundating shepherds, descend; 'of Chaumos' he explained 'we say instead d'ewa 'ilo', the god comes. 
+
+The term itself used, as we shall see, to refer to the festival dewasamE~a implies this idea. I enquired about the meaning of this word with various people without obtaining a unanimous answer. According to Kaanok, dewasamE~a means 'the dewal'ok, the gods, descend on Earth'.23 To this he added that, however, now they no longer descend because Kalasha land has become r'ela, impure. Formerly, when no one ate chickens or eggs, when Islam had not arrived and everything was very 'onjiSTa, then the dewal'ok really descended and people could see them; today, he concluded, at most they observe us from a distance. His view recalls the general idea of the divine entering the human sphere in the sacred time of the New year, when a cycle ends, a new one begins, and profane time is suspended.+++(5)+++ 
+
+The words of Kaanok seem to echo the 'longing for a paradise lost' discussed by Mircea Eliade ([1949] 1968: 93, 120), the longing, that is, for a mythical golden age when the channels of communication between humans and gods were open. A golden age evoked also by Kalasha oral tradition as a mythical time when humans, animals and gods were living side by side and could communicate.24 Kaanok, however, adds to it an historical connotation, by placing it before the arrival of Islam ...
