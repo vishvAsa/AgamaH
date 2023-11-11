@@ -50,14 +50,5 @@ All sAdhaka-s (mystics) don't necessarily follow the same dharma shAstra (moral 
     - One feels the need to transcend the many masks/ roles one dons in this world (father, servant, scholar etc..), except that one feels that this needs to be done in the spirit of "being in the world, but not of the world". This mildly insulates us from upheavals of life, while still letting us enjoy it even more - like a person performing in a drama.
     - " mokSha or some equivalent thereof acquired greater importance in the brahmasUtra tradition and its successors. In the heterodox nAstika phase of nirgrantha &the tathAgata, a substitute for the same was proposed. What we see is by this time a synthesis was attempted."
 
-#### The nature of the end goal
-- For some, this goal was other-worldly - eg: eternal union with the paramAtmA after leaving the body (-- I consider this goal ill-founded, having rejected the [sUkShma-sharIr](http://en.wikipedia.org/wiki/Subtle_body)a and [karman](http://en.wikipedia.org/wiki/Karma) as described earlier).
-- But this is not always the case, some defined a different, long lasting state of mind - while living - as being an intermediate goal of moxa-type pursuit - there are those that seek extraordinary control of oneself - or even perfect understanding of everything (in a very analytical sense, like the vaisheShika-s did, without necessarily transcending categories).
-
 #### kramamukti
 > "kramamukti has its shrutipramANa in chandogyopaniSat, where one attains hiraNyagarbha/kAryabrahma and then attains mukti from that loka without returning to earth. Since, this is different from the mukti “unveiled” (not attained in advaita) by aparokSa-jñāna from vedānta-mahāvākyas & is rather unveiled stage by stage (path of devas—>hiraNyagarbhaH—>paramukti), that is, krama by krama; it is called kramamukti. kramamukti has its shrutipramANa in candogyopaniSat, where one attains hiraNyagarbha/kāryabrahma & then proceeds to realize mukti from that loka without returning to earth; at the time of mahāpralaya. This is also confirmed in kūrma-purANam. matsyapurANa ityādi have some vratas, explicitly mentioning kramamukti as the fruit. The purANas also mention bhakti towards śiva & viSNu as leading men of all varNas as well as women to mukti. varāha-purANa mentions the bhāgavata-dIkSA for all including caturthas. śivapurANa mentions japa of saumya-pañcākSari as well as dIkSA for all varNas. In all these examples, the fruit of no-return & eventual mukti is stated for one who properly does bhakti."
-
-## Impact of mortality, impermanence
-
-- Bodies die. Societies die. Entire species die. Planets become uninhabitable. Universe will die too.
-- How do we respond to this? We can't hope to extend our lives or the lives of our genes or the lives of our thoughts for ever. We can only try to ensure that while we (as individuals, societies or cultures) live, we live gloriously.

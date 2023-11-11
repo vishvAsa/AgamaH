@@ -56,7 +56,7 @@ unicode_script = "devanagari"
 <summary>स्थूल-पदार्थ-विभाग-विस्तारः॥ (ईक्षितुम् अत्र नोदनीयम्।)</summary>
 
 - अनपेक्षिताश्रयाः
-  - सूचनात्मकाः
+  - ज्ञानात्मकाः
     - …
     - परदेवताः
     - परा अकृतयः। 
@@ -128,8 +128,8 @@ unicode_script = "devanagari"
 </details>
 
 
-### सूचनात्मकाः
-सूचनात्मकाः पदार्था नित्याः।  
+### ज्ञानात्मकाः
+ज्ञानात्मकाः पदार्था नित्याः।  
 अवकाशादीनाम् एभिः संसर्गस् त्व् अनित्यः।  
 +++(एषाम् प्रत्येकत्वम् To Hen (τό ἕν), The One, First, The Good, "unity" इत्-यादिभिर् उच्यते यावनैः।)+++  
 अनपेक्षिताश्रयाणाम् अपि तेषां चिन्तने कल्पिताश्रयः परमं व्योम, nous, ideal realm इत्-यादिभिर् व्यपदिश्यते।
@@ -195,7 +195,7 @@ unicode_script = "devanagari"
 
 #### विभागाः
 परमाणवो गुरवो ऽगुरवश् चेति। +++(Massless vs Massive particles: Bosons vs Fermions. "आद्य-पतनाऽसमवायि-कारणं गुरुत्वम्।" इति तर्कसङ्ग्रहे। विवरणम् [अत्र](https://www.youtube.com/watch?v=LIJSBjxD1l0&feature=youtu.be&list=PL7_6YPlfLKeRttlUiKQFoIpM1eNhyhUmt&t=1461) ।)+++  
-अगुरुषु+उर्जा-वाहका कर्षण-सूचना-वाहकाश्+++(=graviton)+++ च। तेषु केचन प्रकाशगतयः प्रभावाहकाश्च। तेषु प्रभा-वाहकेषूर्जा-वैविध्यम्।+++(→photons of different energies.)+++  
+अगुरुषु+उर्जा-वाहका कर्षण-ज्ञान-वाहकाश्+++(=graviton)+++ च। तेषु केचन प्रकाशगतयः प्रभावाहकाश्च। तेषु प्रभा-वाहकेषूर्जा-वैविध्यम्।+++(→photons of different energies.)+++  
 परमाणूनां व्यवस्था-विशेषैर् उपाणु-पदार्थानां सम्भवः।  
 गुरूणाम् परमाणूनां‌ सङ्ग्रहेण जायन्ते ऽणवः+++(=Atoms)+++। तेषाञ् च शतशः प्रकाराः।
 
@@ -247,11 +247,11 @@ unicode_script = "devanagari"
 आश्चर्यं यत् तास् ता एव काश्चन आकृतयो  
 दृश्यन्ते नाना स्तरेषु,  
 यथा  पुष्पे मुखे काये तारास्थाल्यां Golden ratio/ fibonacci sequence, वृत्त-षट्कोन-त्रिकोणादयः।  
-ता आकृतयश् च सूचनात्मक-पदार्थाः।
+ता आकृतयश् च ज्ञानात्मक-पदार्थाः।
 
 #### आकृति-लोकः
 एतादृश्य आकृतयो हि +ऋतस्याकरः -  
-**आकृति-लोकः** सूचनात्मको वा कश्चन, यद् आहुर् यावना Ideal/ platonic Realm इति, अस्मत्पूर्वजाश् च **परमं व्योम** +इति। 
+**आकृति-लोकः** ज्ञानात्मको वा कश्चन, यद् आहुर् यावना Ideal/ platonic Realm इति, अस्मत्पूर्वजाश् च **परमं व्योम** +इति। 
 
 या आकृतयो लक्ष्यन्ते लोके,  
 तासां प्राग्रूपं परस्परसम्बन्धैस् सार्धं पृथग् अमुष्मिल्ँ लोके सुनिश्चितम् आहुः।  
@@ -298,7 +298,7 @@ unicode_script = "devanagari"
 <details><summary>एकता, विभुता च (द्रष्टुं नोद्यम्)</summary>
 
 अमुके द्रव्ये, रिक्तावकाशे वापि,  
-स्थितेन केनचिद् एव चेतोऽंशेन लब्धाभिर् एव सूचनाभिः  
+स्थितेन केनचिद् एव चेतोऽंशेन लब्धैर् एव ज्ञानैः  
 स्वतन्त्रं कर्म निश्चीयत इति न।  
 पूर्वोक्तं "violation of locality in case of entangled particles" इतिवत्  
 क्वचिद् दूरस्थ-सम्बद्ध-कणयोः स्थिती युगपन् (कञ्चनानिश्चयांशम् अपि रक्षता) निश्चीयत इत्य् अतः।  
@@ -1185,6 +1185,13 @@ endorphin-आदि-जननेन सुख-विषादाद्य्-अ
 
 अस्यैव पद्यरूपं [किञ्चन](/kAvyam/laxyam/padyam/vishvAsaH/saMyamaH/varA_mRtiH/) ।  
 </details>
+
+<details><summary>English</summary>
+
+- Bodies die. Societies die. Entire species die. Planets become uninhabitable. Universe will die too.
+- How do we respond to this? We can't hope to extend our lives or the lives of our genes or the lives of our thoughts for ever. We can only try to ensure that while we (as individuals, societies or cultures) live, we live gloriously.
+</details>
+
 
 यत् तु शरीर-लोभेन  
 प्रजा-सहोदराद्य्-अर्थ-महा-क्षयेण मृत्युं विलम्बयन्ति, तद् अनुचितम्।
