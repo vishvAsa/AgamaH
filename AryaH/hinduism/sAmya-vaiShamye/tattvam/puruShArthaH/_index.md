@@ -24,24 +24,9 @@ The above 3 seem to encompass the universe of everything we do (barring moxa - c
 - Some people may worry - "how to prevent the slippery slope to hedonism". However, one can safely trust the sages and well established shAstra-s. If one cites the shAstra-s to have sex often, one should also observe the required fasts and rituals (eg maintain agni etc..) enjoined by the same shAstra-s.
 - The vedAntin curailment/ ideal (consistent with their general nivRtti) is: "लोके व्यवायामिषमध्यसेव नित्या हि जन्तोर्न हि तत्र चोदना । व्यवस्थितिस्तेषु विवाहयज्ञ सुराग्रहैरासु निव्त्तिरिष्टा ॥".
 
-## Spiritual highs
-One needs joy, satisfaction, and strength to follow and achieve the various [goals of life](/), including [dharma](../../social-cultivation/dharma/). Spirituality (a focus on the development and maintenance of "good" mental states) is then an essential component of hindu self cultivation.
 
-Secular/ spiritual non-separation: See [here](../../rivals/abe-disease/0-theism/secularism/).
 
-### Mysticism does not imply goodness
-
-It must be noted that mysticism and ability to achieve mystic highs do not necessarily imply goodness:
-
-- muhammad was a mystic, so were sufis of the type described [here](http://www.chakranews.com/beauty-and-the-beast-of-sufism/2454). 
-- mahAyAna rebellion of 515 China \[[IMG](https://i.imgur.com/Ps9LX8J.png)\], where the doctrine seemed to include: "kill 10 enemies and become a 10th stage bodhisattva; kill all monks in captured monasteries" etc..
-- Many villains in hindu mythology - rAvaNa to narakAsura - were accomplished [sAdhaka](http://en.wikipedia.org/wiki/Sadhaka)-s.
-
-All sAdhaka-s (mystics) don't necessarily follow the same dharma shAstra (moral code); and they don't necessarily "transcend" the moral codes of their culture. Rather, their sAdhana gives them the strength to pursue what they consider "good and proper behavior" with an unusually great zeal. So, just as it is possible for the vAmAchArin who has discarded social rules to steal and eat parts of burning corpses, it is possible for the sufi to have great mystical experiences, and be a temple destroying zealot.
-
-आवेशावस्थायां जनः स्खलतीत्यत्र केषाञ्चन पद्यानि प्रमाणम् - तत्र छन्दोभ्रंशः, व्याकरणदोषा यथा दृश्यन्ते।
-
-### mokSha
+## mokSha
 
 - [mOkSha](http://en.wikipedia.org/wiki/Moksha): Pursuit of enjoyment through kaama is, in the end, unsatisfactorily riddled with compromises due to limited artha (eg: wealth) and the need for dharma (accommodation for the well being of others). So, the ancients sought something beyond dharma/ artha/ kaama. They sought a path towards the ultimate joy (Ananda). This objective was popularized in later texts.
     - One feels the need to transcend the many masks/ roles one dons in this world (father, servant, scholar etc..), except that one feels that this needs to be done in the spirit of "being in the world, but not of the world". This mildly insulates us from upheavals of life, while still letting us enjoy it even more - like a person performing in a drama.
