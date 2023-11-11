@@ -19,9 +19,6 @@ The following purushArtha-s are suggested in early texts (especially the niiti-s
 
 The above 3 seem to encompass the universe of everything we do (barring moxa - considered below), and furthermore, they seem disjoint the way they are defined above.  
 
-## kAma unopposed to dharma
-The influence of (vedantic / yogic) asceticism or occidental condition causes many modern hindus to be guilty about kAma pursuit. However, this is not a healthy attitude. For example, see the example of sexual intercourse below.
-
 ### Intercourse / सम्भोगे
 - Injunctions like AshvalAyana's “ऋतौ भार्यामुपेयात्” make it clear that a gRhastha is *required* to have sex with his wife during every fertile period. 
 - Some people may worry - "how to prevent the slippery slope to hedonism". However, one can safely trust the sages and well established shAstra-s. If one cites the shAstra-s to have sex often, one should also observe the required fasts and rituals (eg maintain agni etc..) enjoined by the same shAstra-s.
