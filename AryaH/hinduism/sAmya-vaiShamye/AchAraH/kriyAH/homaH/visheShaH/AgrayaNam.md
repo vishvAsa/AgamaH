@@ -12,7 +12,7 @@ unicode_script: devanagari
 
 ## कालः
 - ऋतौ पर्वदिने
-- आग्रहायणी   +इत्यपि नाम - पणिन्य्-अमरौ तथा। तैत्तिरीयसंहितायां (७.२ इत्यत्र) आग्रयणम् इत्यपि। पुरा ऽऽग्रयणेष्टयो तदैवाक्रियत - तत्रायनविशेषस्यारम्भात्। 
+- आग्रहायणी +इत्यपि नाम - पाणिन्य्-अमरौ तथा। तैत्तिरीयसंहितायां (७.२ इत्यत्र) आग्रयणम् इत्यपि। पुरा ऽऽग्रयणेष्टयो तदैवाक्रियत - तत्रायनविशेषस्यारम्भात्। 
 
 ### आधुनिककाले ऽनुसरणम्
 Given the sentiment behind AgrayaNa sthAlIpAka (AhitAgni should not, and the anAhitAgni should try not to eat from a harvest the forepart of which has not been offered to the Gods via AgrayaNa), and given the impossibility of following this in practice in our modern city life (which harvest or region did the millet and rice I buy from market come from?), I've begun collecting a spoonful from all grain packets we buy in a jar with the intention of performing the AgrayaNa sthAlIpAka with it as and when a good amount is collected. 
@@ -21,10 +21,10 @@ Given the sentiment behind AgrayaNa sthAlIpAka (AhitAgni should not, and the anA
 - नवानां स्थालीपाकं श्रपयित्वा, उदीचीनं प्रतिष्ठाप्य, प्रतिष्ठितम् अभिघार्याज्येन
 - आग्रयणदेवताभ्यः स्विष्टकृच्चतुर्थाभ्यो हुत्वा
   - स्थालीपाकवद् उपस्तरण+अवदान-अभिघार-तन्त्रम्
-  - इन्द्राग्निभ्यां स्वाहा । अग्नीन्द्राभ्यामिति वा ।
-  - विश्वेभ्यो देवेभ्यः स्वाहा
-  - द्यावापृथिवीभ्यां स्वाहा
-  - अग्नये स्विष्टकृते स्वाहा
+  - **इन्द्राग्निभ्यां** स्वाहा । अग्नीन्द्राभ्यामिति वा ।
+  - **विश्वेभ्यो देवेभ्यः** स्वाहा
+  - **द्यावापृथिवीभ्यां** स्वाहा
+  - **अग्नये स्विष्टकृते** स्वाहा
 - लेपकर्म
 - हविश्-शेषाशनम्
   - तण्डुलानां मुखं पूरयित्वा
