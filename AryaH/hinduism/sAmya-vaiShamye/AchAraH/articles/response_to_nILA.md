@@ -2,7 +2,7 @@
 title = "Response to nILA"
 +++
 
-FWIW, I respectfully disagree with nILA doDamma on several points. (Though I could not get in a word sidewise yesterday, it would be remiss not to clarify.)
+FWIW, I respectfully disagree with nILA on several points. (Though I could not get in a word sidewise yesterday, it would be remiss not to clarify.)
 
 1. It is crucial that young children should be exposed to diverse thought-steams from a very young age. This includes evil ones including those that say "Your Gods are false" or "We will destroy your religion". Just as with vaccination, early exposure to germs prevents future disease (and death), so too exposure to mind-germs. Further, children are naturally curious about everything. So, the idea "don't tell him all this till he's older" is wrong.
 
