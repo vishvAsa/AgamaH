@@ -1,7 +1,12 @@
 +++
-title = "संस्कारः संस्कृतिश्च"
+title = "प्रज्ञा-धाराः, संस्कृतम्"
 
 +++
+
+<div class="audioEmbed"  caption="2023 - kn" src="https://archive.org/download/vishvAsa-kn/2023_11_10__prajNA-paramparAH_saMskRtam.mp3"></div>
+
+
+
 ## देवे दास्यम्, कर्म-निवेदनम्
 
 
