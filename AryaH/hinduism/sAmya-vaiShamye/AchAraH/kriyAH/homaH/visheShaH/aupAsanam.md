@@ -20,7 +20,7 @@ unicode_script: devanagari
 ## आपन्नियमाः
 ### यजमानः
 > यजमानविषये विशेष उक्तस् तत्रैव +++(मदनरत्ने)+++ गदाधरभाष्ये “यजमानं विना नान्यो जुहुयात् प्रातराहुतिम्" इति ॥ होमञ्च स्वयमेव कुर्यात्, आशौचादिप्रतिबन्धे ऋत्विगादिभिः कारयेत्।। ऋत्विगादीनाह दक्षः-"ऋत्विवपुत्रो गुरुद्घता भागिनेयोऽथ विदपतिः। एतैरेव हुतं यत्तु तध्दुतं स्वयमेव तु" इति ॥ विट्पति- र्जामाता ॥  
-> ऋत्विगादिभिः करणे त्वयं विशेषः-" असमक्षन्तु दम्पत्योर्हातव्यं नर्त्विगादिना । द्वयोरप्य् असमक्षं चेद् भवेद्+हुतम् अनर्थकम्" इति ॥
+> ऋत्विगादिभिः करणे त्वयं विशेषः- "असमक्षन्तु दम्पत्योर् हातव्यं नर्त्विगादिना । द्वयोरप्य् असमक्षं चेद् भवेद्+हुतम् अनर्थकम्" इति ॥
 >  
 > (बोधायनब्रह्मकर्मसमुच्चये विस्तारः।)
 
@@ -50,7 +50,7 @@ The combination itself, I presume, can happen by the following sequence: agnaye 
 The below is copied from other sources - does not necessarily reflect a particular person's opinion fully.
 
 ### Duration
-- Once you are used to the procedure and have the constituents handy, it should not take more than 20 min per kalam. -V
+- Once you are used to the procedure and have the constituents handy, it should not take more than 20 min per kAla. -V
 
 ### Travel
 #### yajamAna-substitute
@@ -80,10 +80,16 @@ The below is copied from other sources - does not necessarily reflect a particul
 ### samit-samAropaNam
 - One has to do avaropanam for aupasanam of the next kaala, but can be stretched till the 3rd kaala using the gauna kaala of the second aupasanam.
 
+समन्त्रा बोधायनोक्तयो [ऽन्यत्र](/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/karmANi/samAropaNam/) । 
+
 
 ### Atma-samAropaNam
-- Lot of restrictions, generally not done for aupasana agni.
-- अत्मनि समारूढेष्वग्निषु न खादेन्न पिबेन्नोपरि शय्यायां शयीत नाऽप्सु निमज्यान्न मैथुनं व्रजेत्। कामं खादेत् कामं पिबेत् कामं त्वेवोपरि शय्यायां शयीत् पालाशीमाश्वत्थीं खादिरीमौदुम्बरीं वा। तेषामेतेन प्रसिद्धं समारोपणम्।
+- Lot of restrictions, generally not to be done for aupasana agni.
+
+> जीर्णस्याशक्तस्य चाग्निहोत्रचेष्टायाम् आत्मन्यग्निसमारोपणं विद्यत इत्य्  
+> आत्मनि समारूढेष्वग्निषु न खादेन्न पिबेन्नोपरि शय्याँशयीत नाप्सु निमज्जेन्न मैथुनं व्रजेत्, कामं खादेत्कामं पिबेत्कामं त्वेवोपरि शय्याँशयीत - नैवाप्सु निमज्जेन्न मैथुनं व्रजेदिति
+> 
+> When the fires are consigned within oneself, one should not eat, nor should he drink, nor should lie on an upper bed, nor should dip into water, nor should have copulation. One may eat, drink, lie on upper bed; but he should not dip himself into water and should not have copulation.
 
 ### vivAha-type
-- Best case: ensure you have a 4 day wedding, with pravesha homa, agneya sthAlipakam followed by 3 days vratam, followed by sesha homam, and completing the first round of purnamasa - darsha sthAlipakams without break in mukhya kaalam (prathama) which will ensure agni siddhi.
+- Best case: ensure you have a 4 day wedding, with pravesha homa, followed by 3 days vratam, followed by sesha homa, agneya sthAlipaka, and completing the first round of purnamasa - darsha sthAlipakams without break in mukhya kaala (prathama) which will ensure agni siddhi.
