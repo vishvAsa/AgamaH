@@ -1781,7 +1781,7 @@ Rather focus on being "playful" (ergo joyful)  while pursuing the 3 puruShArtha-
 </details>
 
 
-### विकल्प-संहारः
+#### विकल्प-संहारः
 > विकल्पो ज्ञान-सन्तानं, वाक्य-धारा,  
 वाक्यं वर्णात्मकम्,  
 वर्णा जगन्-मातृका
