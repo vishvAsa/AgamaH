@@ -1,5 +1,5 @@
 +++
-title = "tattvam"
+title = "तत्त्वम्"
 +++
 
 ## Observational basis
