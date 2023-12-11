@@ -2,6 +2,17 @@
 title = "पुराण-पठनाधिकारः"
 +++
 
+## शङ्करः
+
+(From Ādi Śaṅkarācārya's commentary on Viṣṇusahasranāma)
+
+If 'तस्माच्छूद्रो यज्ञेऽनवक्लृप्तः' holds such a wide application, it may even counter the injunction of performance of Brahmayajña (& other Mahāyajñas) for Śūdras. 
+
+In this way of interpretation, 'श्रावयेच्चतुरो वर्णान् कृत्वा ब्राह्मणमग्रतः' may also be taken to imply that even Kṣatriya & Vaiśya are only to do Śravaṇa (that too by having a Brāhmaṇa sitting in front of them) and not Pāṭha. When the text and the specific verse itself does not specify any such restriction, why add it? Should we believe that the one who spoke the mūla text and verse, missed such an important point? If yes, then this kalpanā could be extended as far as one can argue.
+
+Vipramiśra in his Śrāddhapradīpa clarifies that Ādi Śaṅkarācārya's statement regarding Śūdras' adhikāra in śravaṇa of Viṣṇusahasranāma is only regarding Brahmayajña and not regarding other cases like Prāyaścittaprayoga, etc. Hence in those cases, they can recite it.
+
+
 ## करपत्र्य्-अभिप्रायः
 Source: [TW](https://threadreaderapp.com/thread/1568085516964474880.html)
 
