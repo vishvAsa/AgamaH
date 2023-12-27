@@ -27,3 +27,8 @@ Kings have their purohita's pravara; with this too the pravara of Vaisyas is exp
 
 ### Ashvalāyana 
 Kings have their purohita's pravara; if they should make the pravara recitation with RShis, "Manava, Aila, Paurūravasa".
+
+## Tribals
+> The gotras of Munda and Oraon tribes are based on names of birds, which were the vehicles of the people from where their gotras began.
+> 
+> [From the book 'Jharkhand Ke Adivasi Aur Unke Gotra' by Dr. Sikradas Tirki]
