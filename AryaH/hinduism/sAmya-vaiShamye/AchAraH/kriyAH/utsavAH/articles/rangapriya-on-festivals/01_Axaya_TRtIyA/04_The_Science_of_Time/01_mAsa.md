@@ -1,7 +1,0 @@
-+++
-title = "01 Māsa"
-
-+++
-**A\) *Māsa:*** In the celebration of this festival, barley is prescribed as the main substance for *Havana*, *pūja* and *dāna*. Gifting wheat, Bengalgram and roasted barley powder are also mentioned as the most suitable ones for *dāna*. In our country which is predominantly agricultural, it is only in the month of *vaiśākha* all these \(grains\) become readily available, both for consumption and for sacrificial and religious purposes. Thus the science in \(mentioning\) *Vaiśākha* as the month may be noticed, when all the specific materials required for the ritual of the *parva* are available in plenty.
-
-Further, *Meshasaṅkramaṇa*, the most auspicious time of *Vishuvat* comes in this month only. We have already discussed and explained the importance of this *puṇyakāla*, in the chapter on *Ugādi*. This *saṅkramaṇa* and the time proximate to it, are the most suitable times for worshipping the *pitṛs*. Therefore it has to be noted here that the month of *vaiśākha* is convenient for the observance of *Akshaya Tṛtīyā*, which is best for the worship of both *devas* and *pitṛs*. Though the advantage of the spring season is available in *caitra* the month previous to this, there is no guarantee that grains arrive at homes in the ready-to-use form. And also, the *Vishusaṅkramaṇa* does not occur in that month. It \(i.e. *Caitra*\) is considered as a *Kharamāsa* because of the happening of *Mīnasaṅkramaṇa* in that month.
