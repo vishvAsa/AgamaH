@@ -1648,10 +1648,10 @@ Rather focus on being "playful" (ergo joyful)  while pursuing the 3 puruShArtha-
 
 तद्-अन्तरा -
 
-श्रीवैष्णवेषु प्रसिद्धं [सात्त्विक-त्याग-वाक्यं](/AgamaH_vaiShNavaH/shrI-sampradAyaH/prakIrNa-mantrAdi/gadyam/sAttvika-tyAgaH_bhagavAn_eva/) क्रिया-सन्धिषु (देवाराधनादि-कल्पान् अन्तराऽपि) प्रयोक्तुम् उचितम्‌‌। +++(परार्थत्वात्)+++ फल-त्यागेन, प्रधान-कर्तृत्व-त्यागेन च  
+श्रीवैष्णवेषु प्रसिद्धं [सात्त्विक-त्याग-वाक्यं](/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/prakIrNa-mantrAdi/gadyam/sAttvika-tyAgaH_bhagavAn_eva/) क्रिया-सन्धिषु (देवाराधनादि-कल्पान् अन्तराऽपि) प्रयोक्तुम् उचितम्‌‌। +++(परार्थत्वात्)+++ फल-त्यागेन, प्रधान-कर्तृत्व-त्यागेन च  
 नैर्भर्यं प्राप्नोतितमां जीवः।
 
-एवं तदीयो [बलमन्त्रो](/AgamaH_vaiShNavaH/shrI-sampradAyaH/prakIrNa-mantrAdi/gadyam/sankalpaH_bala-mantraH/) ऽपि।
+एवं तदीयो [बलमन्त्रो](/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/prakIrNa-mantrAdi/gadyam/sankalpaH_bala-mantraH/) ऽपि।
 
 
 #### उद्देश-चितिः
