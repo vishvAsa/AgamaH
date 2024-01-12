@@ -169,7 +169,7 @@ And of these earthly souls the happiest are those
 who have practised virtue without philosophy;  
 they are allowed to pass into gentle and social natures, such as bees and ants. (Compare Republic, Meno.) 
 
-### sAyujya-mokSha
+### sAlokya-mokSha
 But only the philosopher who departs pure is permitted to enter the company of the gods. (Compare Phaedrus.)+++(5)+++  
 This is the reason why he abstains from fleshly lusts,  
 and not because he fears loss or disgrace,  
@@ -271,12 +271,14 @@ as Homer describes Odysseus 'rebuking his heart.'
 Could he have written this under the idea that the soul is a harmony of the body?  
 Nay rather, are we not contradicting Homer and ourselves in affirming anything of the sort?
 
+##### Conclusion
 The goddess Harmonia, as Socrates playfully terms the argument of Simmias, has been happily disposed of;  
 and now an answer has to be given to the Theban Cadmus.  
 
-#### Wearing out of soul
 Socrates recapitulates the argument of Cebes, which, as he remarks, involves the whole question of natural growth or causation;  
 about this he proposes to narrate his own mental experience.  
+
+### Perplexities of early years
 When he was young he had puzzled himself with physics:  
 he had enquired into the growth and decay of animals, and the origin of thought, until at last he began to doubt the self-evident fact that growth is the result of eating and drinking;  
 and so he arrived at the conclusion that he was not meant for such enquiries.  
@@ -290,6 +292,7 @@ These are difficulties which Socrates cannot answer.
 Of generation and destruction he knows nothing.  
 But he has a confused notion of another method in which matters of this sort are to be investigated. (Compare Republic; Charm.)
 
+#### Cause of all things
 Then he heard some one reading out of a book of Anaxagoras,  
 that mind is the cause of all things.  
 And he said to himself:  
@@ -297,6 +300,7 @@ And he said to himself:
 > If mind is the cause of all things,  
 surely mind must dispose them all for the best.  
 The new teacher will show me this 'order of the best' in man and nature.  
+
 How great had been his hopes and how great his disappointment!  
 For he found that his new friend was anything but consistent in his use of mind as a cause,  
 and that he soon introduced winds, waters, and other eccentric notions. (Compare Arist. Metaph.) 
@@ -314,6 +318,7 @@ None of them know how much stronger than any Atlas is the power of the best.
 But this 'best' is still undiscovered;  
 and in enquiring after the cause, we can only hope to attain the second best.
 
+#### Danger of contemplation
 Now there is a danger in the contemplation of the nature of things,  
 as there is a danger in looking at the sun during an eclipse,  
 unless the precaution is taken of looking only at the image reflected in the water, or in a glass. (Compare Laws; Republic.)+++(5)+++  
@@ -322,19 +327,76 @@ I thought that I had better return to the old and safe method of ideas.
 Though I do not mean to say that he who contemplates existence through the medium of ideas sees only through a glass darkly,  
 any more than he who contemplates actual effects.'
 
+### Existance of ideas & immortality of soul
 If the existence of ideas is granted to him,  
 Socrates is of opinion that he will then have no difficulty in proving the immortality of the soul. 
-He will only ask for a further admission:—that beauty is the cause of the beautiful, greatness the cause of the great, smallness of the small, and so on of other things. This is a safe and simple answer, which escapes the contradictions of greater and less (greater by reason of that which is smaller!), of addition and subtraction, and the other difficulties of relation. These subtleties he is for leaving to wiser heads than his own; he prefers to test ideas by the consistency of their consequences, and, if asked to give an account of them, goes back to some higher idea or hypothesis which appears to him to be the best, until at last he arrives at a resting-place. (Republic; Phil.)
 
-The doctrine of ideas, which has long ago received the assent of the Socratic circle, is now affirmed by the Phliasian auditor to command the assent of any man of sense. The narrative is continued; Socrates is desirous of explaining how opposite ideas may appear to co-exist but do not really co-exist in the same thing or person. For example, Simmias may be said to have greatness and also smallness, because he is greater than Socrates and less than Phaedo. And yet Simmias is not really great and also small, but only when compared to Phaedo and Socrates. I use the illustration, says Socrates, because I want to show you not only that ideal opposites exclude one another, but also the opposites in us. I, for example, having the attribute of smallness remain small, and cannot become great: the smallness which is in me drives out greatness.
+#### guNa-s
+He will only ask for a further admission:—that beauty is the cause of the beautiful, greatness the cause of the great, smallness of the small, and so on of other things.  
+This is a safe and simple answer, which escapes the contradictions of greater and less (greater by reason of that which is smaller!), of addition and subtraction, and the other difficulties of relation.  
+These subtleties he is for leaving to wiser heads than his own;  
+he prefers to test ideas by the consistency of their consequences,  
+and, if asked to give an account of them, goes back to some higher idea or hypothesis which appears to him to be the best, until at last he arrives at a resting-place. (Republic; Phil.)
 
-One of the company here remarked that this was inconsistent with the old assertion that opposites generated opposites. But that, replies Socrates, was affirmed, not of opposite ideas either in us or in nature, but of opposition in the concrete—not of life and death, but of individuals living and dying. When this objection has been removed, Socrates proceeds: This doctrine of the mutual exclusion of opposites is not only true of the opposites themselves, but of things which are inseparable from them. For example, cold and heat are opposed; and fire, which is inseparable from heat, cannot co-exist with cold, or snow, which is inseparable from cold, with heat. Again, the number three excludes the number four, because three is an odd number and four is an even number, and the odd is opposed to the even. Thus we are able to proceed a step beyond 'the safe and simple answer.' We may say, not only that the odd excludes the even, but that the number three, which participates in oddness, excludes the even. And in like manner, not only does life exclude death, but the soul, of which life is the inseparable attribute, also excludes death. And that of which life is the inseparable attribute is by the force of the terms imperishable. If the odd principle were imperishable, then the number three would not perish but remove, on the approach of the even principle. But the immortal is imperishable; and therefore the soul on the approach of death does not perish but removes.
+The doctrine of ideas, which has long ago received the assent of the Socratic circle,  
+is now affirmed by the Phliasian auditor to command the assent of any man of sense.  
 
-Thus all objections appear to be finally silenced. And now the application has to be made: If the soul is immortal, 'what manner of persons ought we to be?' having regard not only to time but to eternity. For death is not the end of all, and the wicked is not released from his evil by death; but every one carries with him into the world below that which he is or has become, and that only.
+#### Mutual exclusion
+The narrative is continued;  
+Socrates is desirous of explaining how opposite ideas may appear to co-exist  
+but do not really co-exist in the same thing or person.  
+For example, Simmias may be said to have greatness and also smallness,  
+because he is greater than Socrates and less than Phaedo.  
+And yet Simmias is not really great and also small,  
+but only when compared to Phaedo and Socrates.  
+"I use the illustration", says Socrates,  
+"because I want to show you not only that ideal opposites exclude one another, but also the opposites in us. I, for example, having the attribute of smallness remain small, and cannot become great: the smallness which is in me drives out greatness."
 
-For after death the soul is carried away to judgment, and when she has received her punishment returns to earth in the course of ages. The wise soul is conscious of her situation, and follows the attendant angel who guides her through the windings of the world below; but the impure soul wanders hither and thither without companion or guide, and is carried at last to her own place, as the pure soul is also carried away to hers. 'In order that you may understand this, I must first describe to you the nature and conformation of the earth.'
+One of the company here remarked that this was inconsistent with the old assertion that opposites generated opposites.  
+"But that", replies Socrates, "was affirmed, not of opposite ideas either in us or in nature, but of opposition in the concrete—not of life and death, but of individuals living and dying." 
 
-### Earth
+When this objection has been removed, Socrates proceeds: 
+
+> This doctrine of the mutual exclusion of opposites is not only true of the opposites themselves,  
+> but of things which are inseparable from them.  
+> For example, cold and heat are opposed;  
+> and fire, which is inseparable from heat, cannot co-exist with cold, or snow, which is inseparable from cold, with heat.  
+> Again, the number three excludes the number four,  
+> because three is an odd number and four is an even number, and the odd is opposed to the even.  
+> Thus we are able to proceed a step beyond 'the safe and simple answer.'  
+> We may say, not only that the odd excludes the even,  
+> but that the number three, which participates in oddness, excludes the even.  
+
+#### Life as guNa of soul
+> And in like manner, not only does life exclude death, but the soul, of which life is the inseparable attribute, also excludes death.+++(5)+++  
+> And that of which life is the inseparable attribute is by the force of the terms imperishable.  
+> If the odd principle were imperishable,  
+> then the number three would not perish but remove,  
+> on the approach of the even principle.  
+> But the immortal is imperishable;  
+> and therefore the soul on the approach of death does not perish but removes.
+
+### How should we be?
+Thus all objections appear to be finally silenced.  
+And now the application has to be made:  
+If the soul is immortal,  
+'what manner of persons ought we to be?'  
+having regard not only to time but to eternity.  
+For death is not the end of all,  
+and the wicked is not released from his evil by death;  
+but every one carries with him into the world below that which he is or has become, and that only.
+
+For after death the soul is carried away to judgment,  
+and when she has received her punishment returns to earth in the course of ages.  
+The wise soul is conscious of her situation,  
+and follows the attendant angel who guides her through the windings of the world below;  
+but the impure soul wanders hither and thither without companion or guide,  
+and is carried at last to her own place,  
+as the pure soul is also carried away to hers. 
+
+'In order that you may understand this, I must first describe to you the nature and conformation of the earth.'
+
+### Earth and karma
 Now the whole earth is a globe placed in the centre of the heavens,  
 and is maintained there by the perfection of balance.  
 
@@ -406,24 +468,196 @@ and a select few in still fairer 'mansions.'
 #### Conclusion
 Socrates is not prepared to insist on the literal accuracy of this description, but he is confident that something of the kind is true. He who has sought after the pleasures of knowledge and rejected the pleasures of the body, has reason to be of good hope at the approach of death; whose voice is already speaking to him, and who will one day be heard calling all men.
 
-### Poison hour
-The hour has come at which he must drink the poison, and not much remains to be done. How shall they bury him? That is a question which he refuses to entertain, for they are burying, not him, but his dead body. His friends had once been sureties that he would remain, and they shall now be sureties that he has run away. Yet he would not die without the customary ceremonies of washing and burial. Shall he make a libation of the poison? In the spirit he will, but not in the letter. One request he utters in the very act of death, which has been a puzzle to after ages. With a sort of irony he remembers that a trifling religious duty is still unfulfilled, just as above he desires before he departs to compose a few verses in order to satisfy a scruple about a dream—unless, indeed, we suppose him to mean, that he was now restored to health, and made the customary offering to Asclepius in token of his recovery.
+### Burial
+The hour has come at which he must drink the poison, and not much remains to be done.  
+How shall they bury him?  
+That is a question which he refuses to entertain,  
+for they are burying, not him, but his dead body. 
 
-1. The doctrine of the immortality of the soul has sunk deep into the heart of the human race; and men are apt to rebel against any examination of the nature or grounds of their belief. They do not like to acknowledge that this, as well as the other 'eternal ideas; of man, has a history in time, which may be traced in Greek poetry or philosophy, and also in the Hebrew Scriptures. They convert feeling into reasoning, and throw a network of dialectics over that which is really a deeply-rooted instinct. In the same temper which Socrates reproves in himself they are disposed to think that even fallacies will do no harm, for they will die with them, and while they live they will gain by the delusion. And when they consider the numberless bad arguments which have been pressed into the service of theology, they say, like the companions of Socrates, 'What argument can we ever trust again?' But there is a better and higher spirit to be gathered from the Phaedo, as well as from the other writings of Plato, which says that first principles should be most constantly reviewed (Phaedo and Crat.), and that the highest subjects demand of us the greatest accuracy (Republic); also that we must not become misologists because arguments are apt to be deceivers.
+His friends had once been sureties that he would remain,  
+and they shall now be sureties that he has run away.  
+Yet he would not die without the customary ceremonies of washing and burial.  
 
-2. In former ages there was a customary rather than a reasoned belief in the immortality of the soul. It was based on the authority of the Church, on the necessity of such a belief to morality and the order of society, on the evidence of an historical fact, and also on analogies and figures of speech which filled up the void or gave an expression in words to a cherished instinct. The mass of mankind went on their way busy with the affairs of this life, hardly stopping to think about another. But in our own day the question has been reopened, and it is doubtful whether the belief which in the first ages of Christianity was the strongest motive of action can survive the conflict with a scientific age in which the rules of evidence are stricter and the mind has become more sensitive to criticism. It has faded into the distance by a natural process as it was removed further and further from the historical fact on which it has been supposed to rest. Arguments derived from material things such as the seed and the ear of corn or transitions in the life of animals from one state of being to another (the chrysalis and the butterfly) are not 'in pari materia' with arguments from the visible to the invisible, and are therefore felt to be no longer applicable. The evidence to the historical fact seems to be weaker than was once supposed: it is not consistent with itself, and is based upon documents which are of unknown origin. The immortality of man must be proved by other arguments than these if it is again to become a living belief. We must ask ourselves afresh why we still maintain it, and seek to discover a foundation for it in the nature of God and in the first principles of morality.
+### Libation and pending offering
+Shall he make a libation of the poison?  
+In the spirit he will, but not in the letter.  
+One request he utters in the very act of death, which has been a puzzle to after ages.  
 
-3. At the outset of the discussion we may clear away a confusion. We certainly do not mean by the immortality of the soul the immortality of fame, which whether worth having or not can only be ascribed to a very select class of the whole race of mankind, and even the interest in these few is comparatively short-lived. To have been a benefactor to the world, whether in a higher or a lower sphere of life and thought, is a great thing: to have the reputation of being one, when men have passed out of the sphere of earthly praise or blame, is hardly worthy of consideration. The memory of a great man, so far from being immortal, is really limited to his own generation:—so long as his friends or his disciples are alive, so long as his books continue to be read, so long as his political or military successes fill a page in the history of his country. The praises which are bestowed upon him at his death hardly last longer than the flowers which are strewed upon his coffin or the 'immortelles' which are laid upon his tomb. Literature makes the most of its heroes, but the true man is well aware that far from enjoying an immortality of fame, in a generation or two, or even in a much shorter time, he will be forgotten and the world will get on without him.
+With a sort of irony  
+he remembers that a trifling religious duty is still unfulfilled,  
+just as above he desires before he departs  
+to compose a few verses in order to satisfy a scruple about a dream—  
+unless, indeed, we suppose him to mean,  
+that he was now restored to health,  
+and made the customary offering to Asclepius in token of his recovery.
 
-4. Modern philosophy is perplexed at this whole question, which is sometimes fairly given up and handed over to the realm of faith. The perplexity should not be forgotten by us when we attempt to submit the Phaedo of Plato to the requirements of logic. For what idea can we form of the soul when separated from the body? Or how can the soul be united with the body and still be independent? Is the soul related to the body as the ideal to the real, or as the whole to the parts, or as the subject to the object, or as the cause to the effect, or as the end to the means? Shall we say with Aristotle, that the soul is the entelechy or form of an organized living body? or with Plato, that she has a life of her own? Is the Pythagorean image of the harmony, or that of the monad, the truer expression? Is the soul related to the body as sight to the eye, or as the boatman to his boat? (Arist. de Anim.) And in another state of being is the soul to be conceived of as vanishing into infinity, hardly possessing an existence which she can call her own, as in the pantheistic system of Spinoza: or as an individual informing another body and entering into new relations, but retaining her own character? (Compare Gorgias.) Or is the opposition of soul and body a mere illusion, and the true self neither soul nor body, but the union of the two in the 'I' which is above them? And is death the assertion of this individuality in the higher nature, and the falling away into nothingness of the lower? Or are we vainly attempting to pass the boundaries of human thought? The body and the soul seem to be inseparable, not only in fact, but in our conceptions of them; and any philosophy which too closely unites them, or too widely separates them, either in this life or in another, disturbs the balance of human nature. No thinker has perfectly adjusted them, or been entirely consistent with himself in describing their relation to one another. Nor can we wonder that Plato in the infancy of human thought should have confused mythology and philosophy, or have mistaken verbal arguments for real ones.
+### Instincts covered by arguments
+#### Immortality
+1\. The doctrine of the immortality of the soul has sunk deep into the heart of the human race; and men are apt to rebel against any examination of the nature or grounds of their belief.  
+They do not like to acknowledge that this, as well as the other 'eternal ideas; of man, has a history in time, which may be traced in Greek poetry or philosophy, and also in the Hebrew Scriptures.  
+They convert feeling into reasoning, and throw a network of dialectics over that which is really a deeply-rooted instinct. 
 
-5. Again, believing in the immortality of the soul, we must still ask the question of Socrates, 'What is that which we suppose to be immortal?' Is it the personal and individual element in us, or the spiritual and universal? Is it the principle of knowledge or of goodness, or the union of the two? Is it the mere force of life which is determined to be, or the consciousness of self which cannot be got rid of, or the fire of genius which refuses to be extinguished? Or is there a hidden being which is allied to the Author of all existence, who is because he is perfect, and to whom our ideas of perfection give us a title to belong? Whatever answer is given by us to these questions, there still remains the necessity of allowing the permanence of evil, if not for ever, at any rate for a time, in order that the wicked 'may not have too good a bargain.' For the annihilation of evil at death, or the eternal duration of it, seem to involve equal difficulties in the moral government of the universe. Sometimes we are led by our feelings, rather than by our reason, to think of the good and wise only as existing in another life. Why should the mean, the weak, the idiot, the infant, the herd of men who have never in any proper sense the use of reason, reappear with blinking eyes in the light of another world? But our second thought is that the hope of humanity is a common one, and that all or none will be partakers of immortality. Reason does not allow us to suppose that we have any greater claims than others, and experience may often reveal to us unexpected flashes of the higher nature in those whom we had despised. Why should the wicked suffer any more than ourselves? had we been placed in their circumstances should we have been any better than they? The worst of men are objects of pity rather than of anger to the philanthropist; must they not be equally such to divine benevolence? Even more than the good they have need of another life; not that they may be punished, but that they may be educated. These are a few of the reflections which arise in our minds when we attempt to assign any form to our conceptions of a future state.
+#### Tolerance of error
+In the same temper which Socrates reproves in himself they are disposed to think that even fallacies will do no harm,  
+for they will die with them,  
+and while they live they will gain by the delusion.  
 
-There are some other questions which are disturbing to us because we have no answer to them. What is to become of the animals in a future state? Have we not seen dogs more faithful and intelligent than men, and men who are more stupid and brutal than any animals? Does their life cease at death, or is there some 'better thing reserved' also for them? They may be said to have a shadow or imitation of morality, and imperfect moral claims upon the benevolence of man and upon the justice of God. We cannot think of the least or lowest of them, the insect, the bird, the inhabitants of the sea or the desert, as having any place in a future world, and if not all, why should those who are specially attached to man be deemed worthy of any exceptional privilege? When we reason about such a subject, almost at once we degenerate into nonsense. It is a passing thought which has no real hold on the mind. We may argue for the existence of animals in a future state from the attributes of God, or from texts of Scripture ('Are not two sparrows sold for one farthing?' etc.), but the truth is that we are only filling up the void of another world with our own fancies. Again, we often talk about the origin of evil, that great bugbear of theologians, by which they frighten us into believing any superstition. What answer can be made to the old commonplace, 'Is not God the author of evil, if he knowingly permitted, but could have prevented it?' Even if we assume that the inequalities of this life are rectified by some transposition of human beings in another, still the existence of the very least evil if it could have been avoided, seems to be at variance with the love and justice of God. And so we arrive at the conclusion that we are carrying logic too far, and that the attempt to frame the world according to a rule of divine perfection is opposed to experience and had better be given up. The case of the animals is our own. We must admit that the Divine Being, although perfect himself, has placed us in a state of life in which we may work together with him for good, but we are very far from having attained to it.
+### Trusting arguments
+And when they consider the numberless bad arguments which have been pressed into the service of theology, they say, like the companions of Socrates, 'What argument can we ever trust again?'  
+But there is a better and higher spirit to be gathered from the Phaedo, as well as from the other writings of Plato,  
+which says that first principles should be most constantly reviewed (Phaedo and Crat.),  
+and that the highest subjects demand of us the greatest accuracy (Republic);  
+also that we must not become misologists because arguments are apt to be deceivers.+++(5)+++
 
-6. Again, ideas must be given through something; and we are always prone to argue about the soul from analogies of outward things which may serve to embody our thoughts, but are also partly delusive. For we cannot reason from the natural to the spiritual, or from the outward to the inward. The progress of physiological science, without bringing us nearer to the great secret, has tended to remove some erroneous notions respecting the relations of body and mind, and in this we have the advantage of the ancients. But no one imagines that any seed of immortality is to be discerned in our mortal frames. Most people have been content to rest their belief in another life on the agreement of the more enlightened part of mankind, and on the inseparable connection of such a doctrine with the existence of a God—also in a less degree on the impossibility of doubting about the continued existence of those whom we love and reverence in this world. And after all has been said, the figure, the analogy, the argument, are felt to be only approximations in different forms to an expression of the common sentiment of the human heart. That we shall live again is far more certain than that we shall take any particular form of life.
+### Immortality in the scientific age
+#### Old trust
+2\. In former ages there was a customary rather than a reasoned belief in the immortality of the soul.  
+It was based on the authority of the Church,  
+on the necessity of such a belief to morality and the order of society,  
+on the evidence of an historical fact,  
+and also on analogies and figures of speech which filled up the void or gave an expression in words to a cherished instinct.  
+The mass of mankind went on their way busy with the affairs of this life, hardly stopping to think about another.  
 
-7. When we speak of the immortality of the soul, we must ask further what we mean by the word immortality. For of the duration of a living being in countless ages we can form no conception; far less than a three years' old child of the whole of life. The naked eye might as well try to see the furthest star in the infinity of heaven. Whether time and space really exist when we take away the limits of them may be doubted; at any rate the thought of them when unlimited us so overwhelming to us as to lose all distinctness. Philosophers have spoken of them as forms of the human mind, but what is the mind without them? As then infinite time, or an existence out of time, which are the only possible explanations of eternal duration, are equally inconceivable to us, let us substitute for them a hundred or a thousand years after death, and ask not what will be our employment in eternity, but what will happen to us in that definite portion of time; or what is now happening to those who passed out of life a hundred or a thousand years ago. Do we imagine that the wicked are suffering torments, or that the good are singing the praises of God, during a period longer than that of a whole life, or of ten lives of men? Is the suffering physical or mental? And does the worship of God consist only of praise, or of many forms of service? Who are the wicked, and who are the good, whom we venture to divide by a hard and fast line; and in which of the two classes should we place ourselves and our friends? May we not suspect that we are making differences of kind, because we are unable to imagine differences of degree?—putting the whole human race into heaven or hell for the greater convenience of logical division? Are we not at the same time describing them both in superlatives, only that we may satisfy the demands of rhetoric? What is that pain which does not become deadened after a thousand years? or what is the nature of that pleasure or happiness which never wearies by monotony? Earthly pleasures and pains are short in proportion as they are keen; of any others which are both intense and lasting we have no experience, and can form no idea. The words or figures of speech which we use are not consistent with themselves. For are we not imagining Heaven under the similitude of a church, and Hell as a prison, or perhaps a madhouse or chamber of horrors? And yet to beings constituted as we are, the monotony of singing psalms would be as great an infliction as the pains of hell, and might be even pleasantly interrupted by them. Where are the actions worthy of rewards greater than those which are conferred on the greatest benefactors of mankind? And where are the crimes which according to Plato's merciful reckoning,—more merciful, at any rate, than the eternal damnation of so-called Christian teachers,—for every ten years in this life deserve a hundred of punishment in the life to come? We should be ready to die of pity if we could see the least of the sufferings which the writers of Infernos and Purgatorios have attributed to the damned. Yet these joys and terrors seem hardly to exercise an appreciable influence over the lives of men. The wicked man when old, is not, as Plato supposes (Republic), more agitated by the terrors of another world when he is nearer to them, nor the good in an ecstasy at the joys of which he is soon to be the partaker. Age numbs the sense of both worlds; and the habit of life is strongest in death. Even the dying mother is dreaming of her lost children as they were forty or fifty years before, 'pattering over the boards,' not of reunion with them in another state of being. Most persons when the last hour comes are resigned to the order of nature and the will of God. They are not thinking of Dante's Inferno or Paradiso, or of the Pilgrim's Progress. Heaven and hell are not realities to them, but words or ideas; the outward symbols of some great mystery, they hardly know what. Many noble poems and pictures have been suggested by the traditional representations of them, which have been fixed in forms of art and can no longer be altered. Many sermons have been filled with descriptions of celestial or infernal mansions. But hardly even in childhood did the thought of heaven and hell supply the motives of our actions, or at any time seriously affect the substance of our belief.
+#### New doubts
+But in our own day the question has been reopened, and it is doubtful whether the belief which in the first ages of Christianity was the strongest motive of action can survive the conflict with a scientific age in which the rules of evidence are stricter and the mind has become more sensitive to criticism.  
+It has faded into the distance by a natural process as it was removed further and further from the historical fact on which it has been supposed to rest.  
+
+Arguments derived from material things such as the seed and the ear of corn or transitions in the life of animals from one state of being to another (the chrysalis and the butterfly) are not 'in pari materia' with arguments from the visible to the invisible, and are therefore felt to be no longer applicable.  
+
+The evidence to the historical fact seems to be weaker than was once supposed:  
+it is not consistent with itself,  
+and is based upon documents which are of unknown origin. 
+
+The immortality of man must be proved by other arguments than these if it is again to become a living belief.  
+We must ask ourselves afresh why we still maintain it, and seek to discover a foundation for it in the nature of God and in the first principles of morality.
+
+#### Not fame
+3\. At the outset of the discussion we may clear away a confusion.  
+We certainly do not mean by the immortality of the soul the immortality of fame,  
+which whether worth having or not can only be ascribed to a very select class of the whole race of mankind,  
+and even the interest in these few is comparatively short-lived.  
+To have been a benefactor to the world, whether in a higher or a lower sphere of life and thought, is a great thing:  
+to have the reputation of being one, when men have passed out of the sphere of earthly praise or blame, is hardly worthy of consideration.  
+The memory of a great man, so far from being immortal, is really limited to his own generation:—  
+so long as his friends or his disciples are alive,  
+so long as his books continue to be read,  
+so long as his political or military successes fill a page in the history of his country.+++(5)+++  
+The praises which are bestowed upon him at his death hardly last longer than the flowers which are strewed upon his coffin or the 'immortelles' which are laid upon his tomb.  
+
+Literature makes the most of its heroes,  
+but the true man is well aware that far from enjoying an immortality of fame,  
+in a generation or two, or even in a much shorter time, he will be forgotten and the world will get on without him.
+
+#### Questions
+4\. Modern philosophy is perplexed at this whole question, which is sometimes fairly given up and handed over to the realm of faith.  
+The perplexity should not be forgotten by us when we attempt to submit the Phaedo of Plato to the requirements of logic.  
+For what idea can we form of the soul when separated from the body?  
+Or how can the soul be united with the body and still be independent?  
+Is the soul related to the body as the ideal to the real,  
+or as the whole to the parts,  
+or as the subject to the object,  
+or as the cause to the effect,  
+or as the end to the means?  
+Shall we say with Aristotle, that the soul is the entelechy or form of an organized living body?  
+or with Plato, that she has a life of her own?  
+Is the Pythagorean image of the harmony,  
+or that of the monad, the truer expression?  
+Is the soul related to the body as sight to the eye,  
+or as the boatman to his boat? (Arist. de Anim.) 
+
+And in another state of being is the soul to be conceived of as vanishing into infinity,  
+hardly possessing an existence which she can call her own,  
+as in the pantheistic system of Spinoza:  
+or as an individual informing another body and entering into new relations,  
+but retaining her own character? (Compare Gorgias.)  
+
+Or is the opposition of soul and body a mere illusion, and the true self neither soul nor body,  
+but the union of the two in the 'I' which is above them?  
+And is death the assertion of this individuality in the higher nature,  
+and the falling away into nothingness of the lower?  
+
+Or are we vainly attempting to pass the boundaries of human thought?  
+The body and the soul seem to be inseparable, not only in fact,  
+but in our conceptions of them;  
+and any philosophy which too closely unites them, or too widely separates them,  
+either in this life or in another, disturbs the balance of human nature.  
+No thinker has perfectly adjusted them, or been entirely consistent with himself in describing their relation to one another.  
+Nor can we wonder that Plato in the infancy of human thought should have confused mythology and philosophy, or have mistaken verbal arguments for real ones.
+
+5\. Again, believing in the immortality of the soul, we must still ask the question of Socrates,  
+'What is that which we suppose to be immortal?'  
+Is it the personal and individual element in us, or the spiritual and universal?  
+Is it the principle of knowledge or of goodness, or the union of the two?  
+Is it the mere force of life which is determined to be, or the consciousness of self which cannot be got rid of, or the fire of genius which refuses to be extinguished?  
+Or is there a hidden being which is allied to the Author of all existence,  
+who is because he is perfect, and to whom our ideas of perfection give us a title to belong?  
+
+#### Permanence of Evil
+Whatever answer is given by us to these questions, there still remains the necessity of allowing the permanence of evil, if not for ever, at any rate for a time, in order that the wicked 'may not have too good a bargain.'+++(5)+++  
+For the annihilation of evil at death, or the eternal duration of it, seem to involve equal difficulties in the moral government of the universe.  
+
+Sometimes we are led by our feelings, rather than by our reason, to think of the good and wise only as existing in another life.  
+Why should the mean, the weak, the idiot, the infant, the herd of men who have never in any proper sense the use of reason, reappear with blinking eyes in the light of another world?  
+
+But our second thought is that the hope of humanity is a common one, and that all or none will be partakers of immortality.  
+Reason does not allow us to suppose that we have any greater claims than others, and experience may often reveal to us unexpected flashes of the higher nature in those whom we had despised.  
+Why should the wicked suffer any more than ourselves?  
+Had we been placed in their circumstances should we have been any better than they?  
+The worst of men are objects of pity rather than of anger to the philanthropist;  
+must they not be equally such to divine benevolence?  
+Even more than the good they have need of another life;  
+not that they may be punished, but that they may be educated.  
+
+These are a few of the reflections which arise in our minds when we attempt to assign any form to our conceptions of a future state.
+
+#### Animals
+There are some other questions which are disturbing to us because we have no answer to them.  
+What is to become of the animals in a future state?  
+Have we not seen dogs more faithful and intelligent than men, and men who are more stupid and brutal than any animals?  
+Does their life cease at death, or is there some 'better thing reserved' also for them?  
+They may be said to have a shadow or imitation of morality, and imperfect moral claims upon the benevolence of man and upon the justice of God.  
+We cannot think of the least or lowest of them, the insect, the bird, the inhabitants of the sea or the desert, as having any place in a future world, and if not all, why should those who are specially attached to man be deemed worthy of any exceptional privilege?  
+
+When we reason about such a subject, almost at once we degenerate into nonsense. It is a passing thought which has no real hold on the mind.  
+We may argue for the existence of animals in a future state from the attributes of God, or from texts of Scripture ('Are not two sparrows sold for one farthing?' etc.),  
+but the truth is that we are only filling up the void of another world with our own fancies.  
+
+#### Origin of evil
+Again, we often talk about the origin of evil, that great bugbear of theologians, by which they frighten us into believing any superstition.  
+
+What answer can be made to the old commonplace, 'Is not God the author of evil, if he knowingly permitted, but could have prevented it?'  
+Even if we assume that the inequalities of this life are rectified by some transposition of human beings in another,  
+still the existence of the very least evil if it could have been avoided, seems to be at variance with the love and justice of God. 
+
+#### Consolation
+And so we arrive at the conclusion that we are carrying logic too far, and that the attempt to frame the world according to a rule of divine perfection is opposed to experience and had better be given up.  
+The case of the animals is our own.  
+We must admit that the Divine Being, although perfect himself,  
+has placed us in a state of life in which we may work together with him for good,  
+but we are very far from having attained to it.
+
+#### State of reasoning
+6\. Again, ideas must be given through something; and we are always prone to argue about the soul from analogies of outward things which may serve to embody our thoughts, but are also partly delusive.  
+For we cannot reason from the natural to the spiritual,  
+or from the outward to the inward.  
+The progress of physiological science, without bringing us nearer to the great secret,  
+has tended to remove some erroneous notions respecting the relations of body and mind, and in this we have the advantage of the ancients.  
+
+#### Current attitudes
+But no one imagines that any seed of immortality is to be discerned in our mortal frames.  
+Most people have been content to rest their belief in another life on the agreement of the more enlightened part of mankind,  
+and on the inseparable connection of such a doctrine with the existence of a God—  
+also in a less degree on the impossibility of doubting about the continued existence of those whom we love and reverence in this world.  
+And after all has been said, the figure, the analogy, the argument, are felt to be only approximations in different forms to an expression of the common sentiment of the human heart.  
+That we shall live again is far more certain than that we shall take any particular form of life.
+
+7\. When we speak of the immortality of the soul, we must ask further what we mean by the word immortality.  
+For of the duration of a living being in countless ages we can form no conception;  
+far less than a three years' old child of the whole of life.  
+The naked eye might as well try to see the furthest star in the infinity of heaven.  
+Whether time and space really exist when we take away the limits of them may be doubted;  
+at any rate the thought of them when unlimited is so overwhelming to us as to lose all distinctness.  
+Philosophers have spoken of them as forms of the human mind, but what is the mind without them? As then infinite time, or an existence out of time, which are the only possible explanations of eternal duration, are equally inconceivable to us, let us substitute for them a hundred or a thousand years after death, and ask not what will be our employment in eternity, but what will happen to us in that definite portion of time; or what is now happening to those who passed out of life a hundred or a thousand years ago. Do we imagine that the wicked are suffering torments, or that the good are singing the praises of God, during a period longer than that of a whole life, or of ten lives of men? Is the suffering physical or mental? And does the worship of God consist only of praise, or of many forms of service? Who are the wicked, and who are the good, whom we venture to divide by a hard and fast line; and in which of the two classes should we place ourselves and our friends? May we not suspect that we are making differences of kind, because we are unable to imagine differences of degree?—putting the whole human race into heaven or hell for the greater convenience of logical division? Are we not at the same time describing them both in superlatives, only that we may satisfy the demands of rhetoric? What is that pain which does not become deadened after a thousand years? or what is the nature of that pleasure or happiness which never wearies by monotony? Earthly pleasures and pains are short in proportion as they are keen; of any others which are both intense and lasting we have no experience, and can form no idea. The words or figures of speech which we use are not consistent with themselves. For are we not imagining Heaven under the similitude of a church, and Hell as a prison, or perhaps a madhouse or chamber of horrors? And yet to beings constituted as we are, the monotony of singing psalms would be as great an infliction as the pains of hell, and might be even pleasantly interrupted by them. Where are the actions worthy of rewards greater than those which are conferred on the greatest benefactors of mankind? And where are the crimes which according to Plato's merciful reckoning,—more merciful, at any rate, than the eternal damnation of so-called Christian teachers,—for every ten years in this life deserve a hundred of punishment in the life to come? We should be ready to die of pity if we could see the least of the sufferings which the writers of Infernos and Purgatorios have attributed to the damned. Yet these joys and terrors seem hardly to exercise an appreciable influence over the lives of men. The wicked man when old, is not, as Plato supposes (Republic), more agitated by the terrors of another world when he is nearer to them, nor the good in an ecstasy at the joys of which he is soon to be the partaker. Age numbs the sense of both worlds; and the habit of life is strongest in death. Even the dying mother is dreaming of her lost children as they were forty or fifty years before, 'pattering over the boards,' not of reunion with them in another state of being. Most persons when the last hour comes are resigned to the order of nature and the will of God. They are not thinking of Dante's Inferno or Paradiso, or of the Pilgrim's Progress. Heaven and hell are not realities to them, but words or ideas; the outward symbols of some great mystery, they hardly know what. Many noble poems and pictures have been suggested by the traditional representations of them, which have been fixed in forms of art and can no longer be altered. Many sermons have been filled with descriptions of celestial or infernal mansions. But hardly even in childhood did the thought of heaven and hell supply the motives of our actions, or at any time seriously affect the substance of our belief.
 
 8. Another life must be described, if at all, in forms of thought and not of sense. To draw pictures of heaven and hell, whether in the language of Scripture or any other, adds nothing to our real knowledge, but may perhaps disguise our ignorance. The truest conception which we can form of a future life is a state of progress or education—a progress from evil to good, from ignorance to knowledge. To this we are led by the analogy of the present life, in which we see different races and nations of men, and different men and women of the same nation, in various states or stages of cultivation; some more and some less developed, and all of them capable of improvement under favourable circumstances. There are punishments too of children when they are growing up inflicted by their parents, of elder offenders which are imposed by the law of the land, of all men at all times of life, which are attached by the laws of nature to the performance of certain actions. All these punishments are really educational; that is to say, they are not intended to retaliate on the offender, but to teach him a lesson. Also there is an element of chance in them, which is another name for our ignorance of the laws of nature. There is evil too inseparable from good (compare Lysis); not always punished here, as good is not always rewarded. It is capable of being indefinitely diminished; and as knowledge increases, the element of chance may more and more disappear.
 
