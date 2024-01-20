@@ -4,7 +4,7 @@ title = "Canonization-differences"
 
 Source: [TW](https://twitter.com/arya_amsha/status/1713176657803071719)
 
-A thread on the the historical progression of Hinduism and Hellenism. Quoting for higher visibility. 
+A thread on the historical progression of Hinduism and Hellenism. Quoting for higher visibility. 
 
 Hindus and Greeks started of very similar. Both had shared origins, shared epics, similar religious pantheons, myths and systems of morality. Both were living in places surrounded by once great civilizations. Both had a similar environment, surrounded by other polytheistic cultures, it was an abundance of Gods and Goddesses, sacrifices, deified heroes, and remnants of a Bronze Age culture mingling with an urban one.
 
