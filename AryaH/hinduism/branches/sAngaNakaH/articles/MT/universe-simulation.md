@@ -12,7 +12,15 @@ I: "I was not initially sympathetic to it. Why add an additional layer of comple
 
 I: "No, simulation does not mean intelligent design. Take a statistical example. If by analytical means you have a formula - like, say, for binomial or normal distribution - you do not need to run a simulation of tossing coins or something like that to compute a probability. 
 
-However, if it is a complex process, for example, a dynamical system that shows wildly different outcomes with very slight changes in the initial conditions, then you have to run a simulation. Design, as per the former example, would be true intelligent design.+++(4)+++ The latter, i.e., a true simulation, is run in order to discover an outcome or a design that does not exist in advance. Building blocks of it might exist in the “Platonic realm” or the “shuddha-bhuvanādhvan”+++(5)+++ but matter has to run its course in the simulation to discover the objects of that ideal realm in a material manifestation. Hence, if the universe were a simulation, we see it as an effort to explore and discover the Platonic realm via the material.+++(5)+++ Rather than intelligent design, this places processes like natural selection as a centerpiece in the simulating code. Given this kind of a view, the universe-as-a-simulation hypothesis is also theologically satisfying.”
+However, if it is a complex process, for example, a dynamical system that shows wildly different outcomes with very slight changes in the initial conditions, then you have to run a simulation. 
+
+Design, as per the former example, would be true intelligent design.+++(4)+++ The latter, i.e., a true simulation, is run in order to discover an outcome or a design that does not exist in advance. Building blocks of it might exist in the “Platonic realm” or the “shuddha-bhuvanādhvan”+++(5)+++ but matter has to run its course in the simulation to discover the objects of that ideal realm in a material manifestation. Hence, if the universe were a simulation, we see it as an effort to explore and discover the Platonic realm via the material.+++(5)+++ Rather than intelligent design, this places processes like natural selection as a centerpiece in the simulating code. Given this kind of a view, the universe-as-a-simulation hypothesis is also theologically satisfying.”
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+This might not be the first or only simulation. So, even starting off from "exploratory simulation", they would soon arrive at "intelligent design" play-mode.
+</details>
+
 
 > Interlocutor: "But you are an inveterate polytheist - are you not conceding monotheism by allowing the simulation hypothesis?"
 
@@ -23,6 +31,12 @@ First, if there is an interesting simulation to be played out, there are likely 
 Second, if the simulation is a complex piece of code with the need for multiple tweaks, then it would likely involve a team of programmers rather than a solitary, simultaneously omniscient one.+++(5)+++ 
 
 Third, even if a protogonic coder started the simulation, other programmers would jump in to make the code actually produce something interesting. All these tilt the balance in favor of an existence of a pantheon or multiple generations of coders who set the simulation in motion and maintain it thereafter."
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+Once the code is mature, a single entity can run/ maintain the simulation all by himself.
+</details>
+
 
 > Interlocutor: "How do you see this polytheist theology of the universe as a simulation?"
 
