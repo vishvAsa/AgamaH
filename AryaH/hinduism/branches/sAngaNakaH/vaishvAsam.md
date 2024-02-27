@@ -2032,7 +2032,10 @@ Rather focus on being "playful" (ergo joyful)  while pursuing the 3 puruShArtha-
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-रामानुज आह -
+रामानुजेन तद्-अनुयायिभिश् शेष-शिषि-भावः साधु प्रपञ्चितो  
+[ऽन्यत्र](/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/vishvAsaH/jIvAnAM_sheShatvam) द्रष्टव्यः। 
+
+यथा रामानुज आह -
 
 > पर-गतातिशय+++(→न प्रतिकूल!)++++आधानेच्छयोपादेयत्वम् एव यस्य स्वरूपं,  
 स शेषः, परः शेषी ।
@@ -2043,6 +2046,7 @@ Rather focus on being "playful" (ergo joyful)  while pursuing the 3 puruShArtha-
 पर-गतातिशयाधायकत्वं **दासत्वम्** ।
 
 इति लक्ष्मीपुर-श्रीनिवासः श्रीवैष्णवः। 
+
 </details>
 
 
