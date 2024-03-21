@@ -484,135 +484,285 @@ not from itself, and it is utterly removed from what is ordinarily human.[^35]
 ## II. *“Immortal mortals, mortal immortals” 
 \* [^36]
 
-The soul possessed by the gods in phôtagôgia enters its original spherical body, it is filled with divine light, it takes on the shape of the gods. And yet, the soul remains mortal, human, subject to death. It might appear that the paradox of being mortal and immortal is somehow resolved by Iamblichus’ insistence that it is the phantasia and not the mind that becomes divine, thus splitting the soul in two: divine imagination—mortal mind. Yet the soul also re-enters the sphere in a less explicit way through sacrificial rites, for since these rites recapitulate cosmogony, the soul ritually shares in the activity of the gods.37 It is by entering this divine activity, this theourgia, that the soul re-enters the act of creation revealed in the cycles of time, including those of its own mortal life. In effect, theurgic ritual was a mnemonic spell that awakened the soul to its role in cosmogenesis, for although individual and mortal, the theurgist enacted the divine light of the gods.
+The soul possessed by the gods in phôtagôgia  
+enters its original spherical body,  
+it is filled with divine light,  
+it takes on the shape of the gods.  
+And yet, the soul remains mortal, human, subject to death.  
+It might appear that the paradox of being mortal and immortal  
+is somehow resolved by Iamblichus’ insistence  
+that it is the phantasia and not the mind that becomes divine,  
+thus splitting the soul in two:  
+divine imagination — mortal mind.  
+Yet the soul also re-enters the sphere  
+in a less explicit way through sacrificial rites,  
+for since these rites recapitulate cosmogony,  
+the soul ritually shares in the activity of the gods.[^37]  
+It is by entering this divine activity, this theourgia,  
+that the soul re-enters the act of creation revealed in the cycles of time,  
+including those of its own mortal life.  
+In effect, theurgic ritual was a mnemonic spell  
+that awakened the soul to its role in cosmogenesis,  
+for although individual and mortal,  
+the theurgist enacted the divine light of the gods.
 
-Iamblichus says that this light remains in itself yet proceeds into the divisions of creation, joining the last things to the first38 and tracing a cosmogonic cycle seen in the circle of the heavens.39 Whether the soul enters this circle through material sacrifice or through the epiphanies of phôtagôgia, it is ultimately the same circle, which is why material theurgy ought not to be defined as worse than immaterial theurgy. To diminish the value of material rites would deny the value of the divine activity that materializes itself as the cosmos. The theurgist had the unique experience of entering the fullness and immortality of the gods while remaining individual and mortal, and to deny his mortality would deny his access to immortality. Even in deification the paradox remains. As Iamblichus says: The benevolent and gracious gods shine their light generously on theurgists, calling their souls up to themselves, giving them unification, and accustoming them, while they are still in their 35 DM 133.5-8.
+Iamblichus says that this light remains in itself  
+yet proceeds into the divisions of creation,  
+joining the last things to the first[^38]  
+and tracing a cosmogonic cycle seen in the circle of the heavens.[^39]  
+Whether the soul enters this circle through material sacrifice  
+or through the epiphanies of phôtagôgia,  
+it is ultimately the same circle,  
+which is why material theurgy ought not to be defined as worse than immaterial theurgy.+++(4)+++  
+To diminish the value of material rites  
+would deny the value of the divine activity  
+that materializes itself as the cosmos.  
+The theurgist had the unique experience of entering the fullness and immortality of the gods  
+while remaining individual and mortal,  
+and to deny his mortality would deny his access to immortality.  
+Even in deification the paradox remains.  
 
-36 Heraclitus,
+[^35]: DM 133.5-8.
 
-37 DM 249.14 – 250.7; 259.1 – 260.1; 168.15-16.
+[^36]: Heraclitus,
 
-38 DM 31.13-18.
+[^37]: DM 249.14 – 250.7; 259.1 – 260.1; 168.15-16.
 
-39 DM 31. 18-19.
+[^38]: DM 31.13-18.
 
-
-
-10
-
-bodies, to be detached from their bodies and turned to their eternal and noetic principle.40
-
-
-
-Theurgists, then, inhabit two worlds: they become gods in theurgic activity yet remain mortal; divine lights possess their imagination in phôtagôgia yet their thinking remains uninspired; they become co-creators with the gods in theurgic sacrifice yet they remain creatures; they are lifted up into union with the gods yet remain in their bodies.
-
-This paradox is critical for Iamblichus, not only because it reflects the soul’s mediating function, but because it forms part of a central theurgic mystery, one that, I believe, Iamblichus points to in his analysis of the number and shape of the body and soul.
-
-
-
-In his Pythagorean treatise, On Physical Number, Iamblichus maintains that numbers inform all aspects of material nature, and he states that philosophers should be able to fit the appropriate numbers to their natural phenomena.41 With regard to embodied souls, he says:
-
-Since animals are made up of soul and body, the Pythagoreans say soul and body are not produced from the same number, but soul from cubic number, body from the bômiskos.42
-
-The number of the body is called bômiskos, a shape with three unequal dimensions, having sides of 5x6x7 or 210.43 I find it significant that bômiskos is the diminutive form of bômos, the Greek term for the altar of blood sacrifice. Thus, the number/shape of the body is identified with the sacrificial altar. The number of soul, on the other hand, is 216, a cubic number derived from 6x6x6.44 For Pythagoreans, a cubic number such as 216
-
-whose last digit, 6, is the same as the last digit of its side number was considered spherical because it returned to itself: 6 to 6.45 Thus, the soul is a spherical number rooted in 6 which, Iamblichus maintains, is the first number to blend the divisible with 40 DM 41.4-11.
-
-41 Dominic J. O’Meara, Pythagoras Revived: Mathematics and Philosophy in Late Antiquity \(Oxford: The Clarendon Press, 1989\), Appendix I: On Physical Number, 11-12.
-
-42 Ibid., 46-48
-
-43 Ibid., 56-59.
-
-44 Ibid., 54-56.
-
-45 “Iamblichus,” The Theology of Arithmetic \(Grand Rapids: Phanes Press, 1988\) 78, 120. The author of this Pythagorean treatise is anonymous but the manuscript has been understandably attributed to Iamblichus. Many of the same arguments that appear in the manuscripts recently discovered by O’Meara also appear in this treatise. The positions throughout the treatise are Iamblichean.
-
-
-
-11
-
-the indivisible, making it similar to soul in its mediating function; this is why, he explains, “the solid embodiment of the soul falls under the hexad.”46
+[^39]: DM 31. 18-19.
 
 
 
-As spherical numbers souls are divine, but the nature of the hexadic sphere is to mix the opposites: the even with the odd, the dyad with the triad, the mortal with the immortal, and so we return again to the paradoxes of the soul. Yet here Iamblichus presents the paradox with contrasting images: the sacrificial altar, the bômiskos, where mortal life is offered to the gods, and the sphere, an image of divine life without beginning or end. A literal reading of Iamblichus’ theurgic itinerary—from material to immaterial rites—has led many scholars to assume that theurgists eventually abandon the altar and its blood rituals for the noetic sphere. I will argue, however, that to enter the sphere the theurgist had to be initiated into the “bloodless secret” of the altar.47
+[[10]]
+
+As Iamblichus says:  
+
+> The benevolent and gracious gods shine their light generously on theurgists,  
+calling their souls up to themselves, giving them unification, and accustoming them,  
+while they are still in their bodies,  
+> to be detached from their bodies and turned to their eternal and noetic principle.[^40]
 
 
 
-For Walter Burkert this secret is revealed in the similarity of υ , the triad of
+Theurgists, then, inhabit two worlds:  
+they become gods in theurgic activity  
+yet remain mortal;  
+divine lights possess their imagination in phôtagôgia  
+yet their thinking remains uninspired;+++(4)+++  
+they become co-creators with the gods in theurgic sacrifice  
+yet they remain creatures;  
+they are lifted up into union with the gods  
+yet remain in their bodies.
 
-sacrificial animals, and the
+This paradox is critical for Iamblichus,  
+not only because it reflects the soul’s mediating function,  
+but because it forms part of a central theurgic mystery,  
+one that, I believe, Iamblichus points to in his analysis of the number and shape of the body and soul.
 
-α υ , the Pythagorean symbol of cosmogony which led initiates to the gods through number rather than through the sacrifice of blood. Burkert suggests that the
+In his Pythagorean treatise, On Physical Number,  
+Iamblichus maintains that numbers inform all aspects of material nature,  
+and he states that philosophers should be able to fit the appropriate numbers to their natural phenomena.[^41]   
+With regard to embodied souls, he says:
 
-υ was superseded by the
+> Since animals are made up of soul and body,  
+> the Pythagoreans say soul and body are not produced from the same number,  
+> but soul from cubic number, body from the bômiskos.[^42]
 
-α υ , a shift exemplified by
+The number of the body is called bômiskos,  
+a shape with three unequal dimensions,  
+having sides of 5x6x7 or 210.[^43]  
+I find it significant that bômiskos is the diminutive form of bômos,  
+the Greek term for the altar of blood sacrifice.  
+Thus, the number/shape of the body  
+is identified with the sacrificial altar.  
+The number of soul, on the other hand, is 216, a cubic number derived from 6x6x6.[^44]  
+For Pythagoreans, a cubic number such as 216  
+whose last digit, 6, is the same as the last digit of its side number  
+was considered spherical because it returned to itself: 6 to 6.[^45]  
 
-Pythagoras teaching one of his students to perform divination with numbers rather than with blood offerings.48 It is all too easy for us to see this as a symmetric shift—from material to immaterial, from blood to numbers—as if these were distinct and comparable categories, but they are not, and to think so distorts the asymmetry of the Pythagorean cosmos. One cannot move from material to immaterial as if they were separate orders, for the immaterial gods are never separate from matter but are already present to it immaterially, just as simpler numbers remain present in their complex derivatives.49 This is why material sunthêmata have the power to communicate divine will and awaken theurgists to the eternal logoi. For theurgists, the gods appear materially as stones, plants, animals and other generated life, including human beings.
+[^40]: DM 41.4-11.
+
+[^41]: Dominic J. O’Meara, Pythagoras Revived: Mathematics and Philosophy in Late Antiquity \(Oxford: The Clarendon Press, 1989\), Appendix I: On Physical Number, 11-12.
+
+[^42]: Ibid., 46-48
+
+[^43]: Ibid., 56-59.
+
+[^44]: Ibid., 54-56.
+
+[^45]: “Iamblichus,” The Theology of Arithmetic \(Grand Rapids: Phanes Press, 1988\) 78, 120. The author of this Pythagorean treatise is anonymous but the manuscript has been understandably attributed to Iamblichus. Many of the same arguments that appear in the manuscripts recently discovered by O’Meara also appear in this treatise. The positions throughout the treatise are Iamblichean.
 
 
 
-With respect to the gods appearing as human, I would like to suggest a different reading of the altar’s bloodless secret. We know that Iamblichus and other Neoplatonists 46 Ibid., 79.
+[[11]]
 
-47 Walter Burkert, Lore and Science in Ancient Pythagoreanism \(Cambridge: Harvard University Press, 1972\) 187.
+Thus, the soul is a spherical number rooted in 6  
+which, Iamblichus maintains, is the first number to blend the divisible with the indivisible+++(=??)+++,  
+making it similar to soul in its mediating function;  
+this is why, he explains, “the solid embodiment of the soul falls under the hexad.”[^46]
 
-48 Ibid., 187.
+As spherical numbers souls are divine,  
+but the nature of the hexadic sphere  
+is to mix the opposites:  
+the even with the odd,  
+the dyad with the triad,  
+the mortal with the immortal,  
+and so we return again to the paradoxes of the soul.+++(4)+++  
+Yet here Iamblichus presents the paradox with contrasting images:  
+the sacrificial altar, the bômiskos,  
+where mortal life is offered to the gods, and the sphere,  
+an image of divine life without beginning or end.  
+A literal reading of Iamblichus’ theurgic itinerary— from material to immaterial rites—  
+has led many scholars to assume that  
+theurgists eventually abandon the altar and its blood rituals for the noetic sphere.  
+I will argue, however, that to enter the sphere  
+the theurgist had to be initiated into the “bloodless secret” of the altar.[^47]
 
-49 DM 218.10-13.
+
+
+For Walter Burkert this secret is revealed in the similarity of triktus? ,  
+the triad of sacrificial animals, and  
+the tetraktus?, the Pythagorean symbol of cosmogony  
+which led initiates to the gods through number  
+rather than through the sacrifice of blood.  
+Burkert suggests that the triktus? was superseded by the tetraktus?,  
+a shift exemplified by Pythagoras teaching one of his students to perform divination  
+with numbers rather than with blood offerings.[^48]  
+It is all too easy for us to see this as a symmetric shift—  
+from material to immaterial, from blood to numbers—  
+as if these were distinct and comparable categories, but they are not,  
+and to think so distorts the asymmetry of the Pythagorean cosmos.  
+One cannot move from material to immaterial as if they were separate orders,  
+for the immaterial gods are never separate from matter  
+but are already present to it immaterially,  
+just as simpler numbers remain present in their complex derivatives.[^49]  
+This is why material sunthêmata have the power to communicate divine will  
+and awaken theurgists to the eternal logoi.+++(4)+++  
+For theurgists, the gods appear materially as stones, plants, animals and other generated life, including human beings.
+
+[^46]: Ibid., 79.
+
+[^47]: Walter Burkert, Lore and Science in Ancient Pythagoreanism \(Cambridge: Harvard University Press, 1972\) 187.
+
+[^48]: Ibid., 187.
+
+[^49]: DM 218.10-13.
 
 
 
-12
+[[12]]
 
-considered the public cults of the city to be a good example of theurgy.50 Sacrificial offerings of blood formed the basis of one’s theurgic itinerary and to neglect the material rites excluded one from further communion with the gods.51 We know that according to Iamblichus the sacred objects and animals used in these sacrifices conveyed the will of the gods from which the soul had been alienated in embodiment.52 The act of returning creatures to their creators in sacrifice awakened in theurgists a reciprocal sense of returning to the gods.53 We also know from the Chaldean Oracles that the Demiurge implants a desire in every soul to return to the gods and to its own divine nature.54 The channel for this eros was the altar of blood sacrifice. It was the first step in the soul’s return to divinity yet, in a sense that reflects the soul’s paradox, I would suggest that it was also the last. As theurgists were purified and developed a greater capacity to receive divine light, they would enter a deeper dimension of sacrifice, one revealed in the altar itself. They would realize that their sacrifice of mortal life to the gods had been, all along, an inverse reflection of the gods’ prior sacrifice to the world of generation, specifically the sacrifice of immortality to mortal life: taking the form of the human body, the bômiskos. It is then that the theurgist would experience the depth of his paradox: he is the mortal being that offers sacrifices to the gods while, at the same time, he is the god that sacrifices its divinity on the altar of the human body.55 Through the altar the theurgist offers himself to himself: as man to god and as god to man; he discovers his divinity through his mortality and enters a circulation whose pivotal point of return is the bômiskos, the sacrificial body-altar. To be in the body, then, is a divine and cosmogonic activity, one’s own sacrifice as a god to take on the human form,56 an activity that recalls the words of the Platonist Taurus: “\[T\]he will of the gods is to be revealed through souls, for the gods come forth into bodily appearance and reveal themselves in the pure and 50 DM V.15; Hierocles, In Carm. Aur. 26. 118.10ff.; see discussion by R.M. van den Berg, *Proclus’ *
+With respect to the gods appearing as human,  
+I would like to suggest a different reading of the altar’s bloodless secret.  
+We know that Iamblichus and other Neoplatonists considered the public cults of the city  
+to be a good example of theurgy.[^50]  
+Sacrificial offerings of blood formed the basis of one’s theurgic itinerary  
+and to neglect the material rites excluded one from further communion with the gods.[^51]  
+We know that according to Iamblichus the sacred objects and animals used in these sacrifices  
+conveyed the will of the gods from which the soul had been alienated in embodiment.[^52]  
+The act of returning creatures to their creators in sacrifice  
+awakened in theurgists a reciprocal sense of returning to the gods.[^53]  
+We also know from the Chaldean Oracles  
+that the Demiurge implants a desire in every soul to return to the gods  
+and to its own divine nature.[^54]  
+The channel for this eros was the altar of blood sacrifice.  
+It was the first step in the soul’s return to divinity yet,  
+in a sense that reflects the soul’s paradox, I would suggest that it was also the last.  
+As theurgists were purified and developed a greater capacity to receive divine light,  
+they would enter a deeper dimension of sacrifice, one revealed in the altar itself.  
+They would realize that their sacrifice of mortal life to the gods had been, all along,  
+an inverse reflection of the gods’ prior sacrifice to the world of generation,  
+specifically the sacrifice of immortality to mortal life: taking the form of the human body, the bômiskos.  
+It is then that the theurgist would experience the depth of his paradox:  
+he is the mortal being that offers sacrifices to the gods while,  
+at the same time, he is the god that sacrifices its divinity on the altar of the human body.[^55]+++(5)+++  
+Through the altar the theurgist offers himself to himself:  
+as man to god and as god to man;  
+he discovers his divinity through his mortality  
+and enters a circulation whose pivotal point of return is the bômiskos, the sacrificial body-altar.  
+To be in the body, then, is a divine and cosmogonic activity,  
+one’s own sacrifice as a god to take on the human form,[^56]  
+an activity that recalls the words of the Platonist Taurus: 
 
-Hymns: Essays, Translations, Commentary \(Leiden: 2000\) 105-106.
+[^50]: DM V.15; Hierocles, In Carm. Aur. 26. 118.10ff.; see discussion by R.M. van den Berg, *Proclus’ * Hymns: Essays, Translations, Commentary \(Leiden: 2000\) 105-106.
 
-51 DM 217.8-11.
+[^51]: DM 217.8-11.
 
-52 DM 209.14-19.
+[^52]: DM 209.14-19.
 
-53 DM 215.1-7.
+[^53]: DM 215.1-7.
 
-54 Fragments 43, 44; Chaldean Oracles: Text, Translation and Commentary, Ruth Majercik \(Leiden: Brill 1989\).
+[^54]: Fragments 43, 44; Chaldean Oracles: Text, Translation and Commentary, Ruth Majercik \(Leiden: Brill 1989\).
 
-55 This is consistent with the Neoplatonic understanding that the soul is “a god of the lowest rank”
+[^55]: This is consistent with the Neoplatonic understanding that the soul is “a god of the lowest rank” \(Plotinus, Enneads IV.8.5.26-27\); DM 34.8.
 
-\(Plotinus, Enneads IV.8.5.26-27\); DM 34.8.
-
-56 This theme was discussed in Jean Trouillard’s aptly titled “Proclos et la joie de quitter le ciel,” Diotima, 1983, 182-193.
+[^56]: This theme was discussed in Jean Trouillard’s aptly titled “Proclos et la joie de quitter le ciel,” Diotima, 1983, 182-193.
 
 
 
 13
 
-faultless lives of souls.”57 Theurgists realized that to recover the sphere they must enter the circle of divine activity that brings them into linear, mortal existence. To re-enter the sphere they must leave it, 58 but, in leaving, return through the portal of their departure: the bômiskos—the mortal body, the altar of the gods.59
+> “\[T\]he will of the gods is to be revealed through souls,  
+> for the gods come forth into bodily appearance  
+> and reveal themselves in the pure and faultless lives of souls.”[^57] 
+
+Theurgists realized that to recover the sphere  
+they must enter the circle of divine activity  
+that brings them into linear, mortal existence.  
+To re-enter the sphere they must leave it, [^58]  
+but, in leaving, return through the portal of their departure:  
+the bômiskos—the mortal body, the altar of the gods.
+
+[^57]: Stob. I, 379.1-6.
+
+[^58]: 
+
+    In the same section in which Iamblichus cites Taurus, he also cites Heraclitus,  
+    who says the soul’s descent is caused by “the rest which consists in change”  
+    which, with his other “dark” saying: “immortal mortals, mortal immortals,”  
+    seems to point to the same paradox that Iamblichus highlights with his difficult teachings on the soul  
+    and his contrasting images for the embodied soul: altar and sphere.
+
+The consequences of Iamblichus’ view are as follows:  
+\(1\) Just as the Pythagorean cosmos is asymmetric, so too are theurgical orders.  
+Immaterial \(noetic\) theurgy contains all forms of material theurgy;  
+the material rites establish the receptacles  
+that allow the soul to receive the gods and to recover their divine logoi.  
+Theurgists would not consider material rites to be “base”—as do modern scholars—  
+for they would have internalized them as expressions of divine eros for the gods.  
+
+\(2\) The deification of the theurgist is not a simple ascent or departure from the body,  
+for the divine activity with which the theurgist unites does not itself seek to obtain divinity  
+but to express it, to give it generously \(afthonus?\), like the Demiurge \(Tim. 29E\).  
+The soul’s embodiment and self-alienation should be understood  
+as an expression of this divine activity.
+
+\(3\) The deified soul would live in accord with “the one of the soul.”  
+To do so would require it to contain the oppositions contained by the One  
+at the soul’s level of ontology.  
+Iamblichus maintained that the power of the One pervades all things undividedly  
+and thus establishes the continuity of all existence,  
+yet since the One stops to define each existence as “one”  
+it also establishes discontinuity.  
+As Iamblichus puts it, “its power encompasses both halting and proceeding at the same time” \(In Categ. 135.8ff\).  
+The theurgist would realize that the soul’s contraction into an isolated and individual mortal life  
+was as much an expression of the power of the One  
+as was its reintegration into the continuity of the whole.  
+To deny discontinuity in favor of continuity,  
+the material in favor of the immaterial, mortal for immortal,  
+would cut the soul out of the activity the One.  
+In sum, for human souls to become divine, they must remain mortal.+++(5)+++
+
+
+
+
+[[14]]
 
 
 
 
 
-57 Stob. I, 379.1-6.
-
-58 In the same section in which Iamblichus cites Taurus, he also cites Heraclitus, who says the soul’s descent is caused by “the rest which consists in change” which, with his other “dark” saying: “immortal mortals, mortal immortals,” seems to point to the same paradox that Iamblichus highlights with his difficult teachings on the soul and his contrasting images for the embodied soul: altar and sphere.
-
-59 The consequences of Iamblichus’ view are as follows: \(1\) Just as the Pythagorean cosmos is asymmetric, so too are theurgical orders. Immaterial \(noetic\) theurgy contains all forms of material theurgy; the material rites establish the receptacles that allow the soul to receive the gods and to recover their divine logoi. Theurgists would not consider material rites to be “base”—as do modern scholars—for they would have internalized them as expressions of divine eros for the gods. \(2\) The deification of the theurgist is not a simple ascent or departure from the body, for the divine activity with which the theurgist unites does not itself seek to obtain divinity but to express it, to give it generously \(αφ ο ω \), like the Demiurge \(Tim. 29E\).
-
-The soul’s embodiment and self-alienation should be understood as an expression of this divine activity.
-
-\(3\) The deified soul would live in accord with “the one of the soul.” To do so would require it to contain the oppositions contained by the One at the soul’s level of ontology. Iamblichus maintained that the power of the One pervades all things undividedly and thus establishes the continuity of all existence, yet since the One stops to define each existence as “one” it also establishes discontinuity. As Iamblichus puts it, “its power encompasses both halting and proceeding at the same time” \(In Categ. 135.8ff\). The theurgist would realize that the soul’s contraction into an isolated and individual mortal life was as much an expression of the power of the One as was its reintegration into the continuity of the whole. To deny
-
-
-
-14
-
-
-
-
-
-discontinuity in favor of continuity, the material in favor of the immaterial, mortal for immortal, would cut the soul out of the activity the One. In sum, for human souls to become divine, they must remain mortal.
 
 
 
