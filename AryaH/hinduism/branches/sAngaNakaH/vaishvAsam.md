@@ -2075,6 +2075,8 @@ Rather focus on being "playful" (ergo joyful)  while pursuing the 3 puruShArtha-
 किञ्च नाना-दैवज्ञाप्तानुभव-कथनेन +उपगन्तुम् उचितम्।  
 विशिष्य, जीव-चिन्तास्व् अनियतता ऽधिका, तेन देव-प्रभाव-प्रवणास् ताः। 
 
+{{< figure src="../images/durga-shADow_unconnected-objects.jpg" title="" class="thumbnail">}}
+
 ### उद्देशः
 कुतो वर्तते ब्रह्माण्डम् इदम्?  
 प्रधानतया देव-गण-भोगायैव, न जीव-भोगाय।  
