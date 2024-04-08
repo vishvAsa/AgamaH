@@ -1,0 +1,7 @@
++++
+title = " +03 - Dealing with the doctrine of both God and Primordial Matter (prakṛti)"
+
++++
+Full title: Dealing with the Doctrine of Both—God and Primordial Matter—being the Cause of the world.
+
+
