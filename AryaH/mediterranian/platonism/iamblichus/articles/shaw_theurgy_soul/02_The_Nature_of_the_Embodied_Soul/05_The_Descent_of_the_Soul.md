@@ -3,59 +3,71 @@ title = "05 The Descent of the Soul"
 
 +++
 
-*One must take into account the*
-
-*differences between the universal*
-
+> *One must take into account the*  
+*differences between the universal*  
 *soul and our own…*
 
-Iamblichus’s teachings on the soul were an essential correlate to his theurgical system, yet to be understood properly they must be seen in the context of alternative developments in Platonic schools from the second to the fourth century c.e. Iamblichus’s emphasis on the descent of the soul was a response to what he perceived as unorthodox and dualistic forms of Platonism. The most significant in Iamblichus’s era was the Gnostics’ reversal of the Platonic creation myth and their reinterpretation of the Demiurge and World Soul. Though Gnostics drew their dramatis personae from Jewish myths, their cosmological framework was taken from Plato’s *Timaeus*, and to some degree from the *Phaedo* and *Phaedrus*. For the Gnostics, creation was no longer the beneficent expression of the Demiurge but the result of primal sin and error. The sensible world was a maleficent prison, and the orders of the heavens, which for Plato served as media for a return to the divine, were transformed into spiritual oppressors who held souls captive in matter.1
+Iamblichus’s teachings on the soul were an essential correlate to his theurgical system,  
+yet to be understood properly  
+they must be seen in the context of alternative developments in Platonic schools  
+from the second to the fourth century c.e.  
+Iamblichus’s emphasis on the descent of the soul  
+was a response to what he perceived as unorthodox and dualistic forms of Platonism.  
+The most significant in Iamblichus’s era  
+was the Gnostics’ reversal of the Platonic creation myth  
+and their reinterpretation of the Demiurge and World Soul.+++(4)+++  
+Though Gnostics drew their dramatis personae from Jewish myths,  
+their cosmological framework was taken from Plato’s *Timaeus*,  
+and to some degree from the *Phaedo* and *Phaedrus*.  
+For the Gnostics, creation was no longer the beneficent expression of the Demiurge  
+but the result of primal sin and error.  
+The sensible world was a maleficent prison,  
+and the orders of the heavens,  
+which for Plato served as media for a return to the divine,  
+were transformed into spiritual oppressors  
+who held souls captive in matter.+++(5)+++[^1]
 
-1. Recent scholarship has shown that this anticosmic characterization of Gnosticism, while generally accurate, is not universally applicable. The tractate *Marsanes* \( *Nag Hammadi * Codices \[ *NHC*\] 10, 1\), for example, presents a monistic view of the cosmos fully in line with Plato’s *Timaeus* \(see esp. *Marsanes* 5, 17–26\). For a discussion of *Marsanes* and its relation to Platonism, see Birger Pearson, “Gnosticism as Platonism: With Special Reference to Marsanes \( *NHC* 10, 1\),” *Harvard Theological* *Review* 77, no. 1 \(1984\): 55–72. Pearson shows in this article that certain Gnostic ideas influenced and informed later Platonic thought \(17\). Cf. Pearson, “The Tractate Marsanes \( *NHC* X\) and the Platonic Tradition,” in *Gnosis: Festschrift für Hans* *Jonas*, ed. Barbara Aland \(Göttingen: Vandenhoech and Ruprecht, 1978\), 373–84.
+[^1]: Recent scholarship has shown that this anticosmic characterization of Gnosticism, while generally accurate, is not universally applicable. The tractate *Marsanes* \( *Nag Hammadi * Codices \[ *NHC*\] 10, 1\), for example, presents a monistic view of the cosmos fully in line with Plato’s *Timaeus* \(see esp. *Marsanes* 5, 17–26\). For a discussion of *Marsanes* and its relation to Platonism, see Birger Pearson, “Gnosticism as Platonism: With Special Reference to Marsanes \( *NHC* 10, 1\),” *Harvard Theological* *Review* 77, no. 1 \(1984\): 55–72. Pearson shows in this article that certain Gnostic ideas influenced and informed later Platonic thought \(17\). Cf. Pearson, “The Tractate Marsanes \( *NHC* X\) and the Platonic Tradition,” in *Gnosis: Festschrift für Hans* *Jonas*, ed. Barbara Aland \(Göttingen: Vandenhoech and Ruprecht, 1978\), 373–84.
 
 ppp
 
-67
+[[67]]
 
 
 
-This inverted mythology may have been rooted in Jewish apocalyp-ticism, but it came to influence Platonists of the third century.
+This inverted mythology may have been rooted in Jewish apocalypticism,  
+but it came to influence Platonists of the third century.
 
-There were several gnosticizing Platonists in attendance at Plotinus’s lectures, and the second-century Platonist, Numenius, had already explained the myth of the *Timaeus* in a manner similar to the Gnostics by asserting a secondary Demiurge who *falls* into Nature and whose longing for release is reflected in the drama of human suffering. The Hermetic *Poimandres* is another example of a gnosticizing Platonism where creation is portrayed as the result of an error or fall.
+There were several gnosticizing Platonists in attendance at Plotinus’s lectures,  
+and the second-century Platonist, Numenius, had already explained the myth of the *Timaeus*  
+in a manner similar to the Gnostics by asserting a secondary Demiurge  
+who *falls* into Nature and  
+whose longing for release is reflected in the drama of human suffering.  
+The Hermetic *Poimandres* is another example of a gnosticizing Platonism  
+where creation is portrayed as the result of an error or fall.
 
-Hans Lewy contends that these remythologizings of the *Timaeus* were attempts to improve on a myth that failed to provide satisfactory answers to the problem of evil and human suffering.2 The obvious appeal of Gnostic dualism was its dramatic clarity and the solution it offered through gnosis. Gnostics promised salvation to those who felt dominated by foreign and insensitive rulers, social as well as cosmic. Although Iamblichus never explicitly argues against the Gnostics,3 his description of the soul, as well as his theurgical system, were surely influenced by the Platonic-Gnostic debate, particularly as it was taken up by Iamblichus’s predecessor Plotinus.
+Hans Lewy contends that these remythologizings of the *Timaeus*  
+were attempts to improve on a myth that failed to provide satisfactory answers to the problem of evil and human suffering.[^2]  
+The obvious appeal of Gnostic dualism was its dramatic clarity  
+and the solution it offered through gnosis.  
+Gnostics promised salvation to those who felt dominated by foreign and insensitive rulers, social as well as cosmic.  
+Although Iamblichus never explicitly argues against the Gnostics,[^3]  
+his description of the soul, as well as his theurgical system,  
+were surely influenced by the Platonic-Gnostic debate,  
+particularly as it was taken up by Iamblichus’s predecessor Plotinus.
 
-Plotinus’s arguments against the Gnostics, and the solutions he suggests for the problems of the embodied soul provide the appropriate context to evaluate Iamblichus’s position.
+Plotinus’s arguments against the Gnostics, and the solutions he suggests for the problems of the embodied soul  
+provide the appropriate context to evaluate Iamblichus’s position.
 
-In his *Treatise Against the Gnostics* 4 Plotinus charged that the Gnostics failed to differentiate between the ontological levels of the World Soul, which is a whole, and individual souls, which are parts.
+In his *Treatise Against the Gnostics* [^4]  
+Plotinus charged that the Gnostics failed to differentiate between the ontological levels of the World Soul, which is a whole, and individual souls, which are parts.
 
 ppp
 
-Nevertheless, the Gnostics with whom Plotinus and Iamblichus were familiar were 1. almost c
+Nevertheless, the Gnostics with whom Plotinus and Iamblichus were familiar were 
 
-almost cer
-
-e
-
-tainl rtainl
-
-y d
-
-y dualists,
-
-ualists,
-
-possib
-
-possib
-
-ly Sethian o
-
-ly Sethian or Archr Archontic G
-
-ontic G
-
-nostics \(see
+1. almost certainly dualists,
+possibly Sethian or Archontic Gnostics \(see
 
 nostics; see *Plot*
 
@@ -117,43 +129,82 @@ ess\),
 
 . \).
 
-2. Lewy, *Chaldean Oracles and Theurgy*, ed. M. Tardieu \(Paris: Etudes Augustiniennes, 1978\), 382; cf. Plotinus, *Enn*. II, 9, 6, 25–28.
+[^2]: Lewy, *Chaldean Oracles and Theurgy*, ed. M. Tardieu \(Paris: Etudes Augustiniennes, 1978\), 382; cf. Plotinus, *Enn*. II, 9, 6, 25–28.
 
-3. The only extant evidence of Iamblichus’s familiarity with the Gnostics is in his doxography of the descent of the soul in the *De Anima*. “According to the Gnostics,” Iamblichus says, “the soul descends because of derangement \( *paranoia*\) or deviation \( *parekbasis*\)”; *Stob*. I, 375, 9.
+[^3]: The only extant evidence of Iamblichus’s familiarity with the Gnostics is in his doxography of the descent of the soul in the *De Anima*. “According to the Gnostics,” Iamblichus says, “the soul descends because of derangement \( *paranoia*\) or deviation \( *parekbasis*\)”; *Stob*. I, 375, 9.
 
-4. *Enn*. II, 9 is listed as thirty-third in the chronology of Plotinus’s writings.
+[^4]: *Enn*. II, 9 is listed as thirty-third in the chronology of Plotinus’s writings.
 
 68
 
 
 
-Contrasting the respected teachings of the Ancients \( *palaioi*\)5 and Plato with those of the Gnostics, Plotinus says:
+Contrasting the respected teachings of the Ancients \( *palaioi*\)[^5] and Plato with those of the Gnostics, Plotinus says:
 
-They \[the Gnostics\] blame the soul for its association with the body and censure the director of this universe and identify its maker with the soul, and attribute to this universal soul the same affections as those which the souls in parts of the universe have
+> They \[the Gnostics\] blame the soul for its association with the body  
+> and censure the director of this universe and  
+> identify its maker with the soul,  
+> and attribute to this universal soul the same affections  
+> as those which the souls in parts of the universe have \[ *Enn*. II, 9, 6, 59–63; trans. Armstrong\]. . . . 
+> 
+> But to apply conclusions drawn from our soul to the Soul of the All  
+> is as if somebody were to take the tribe of potters or smiths in a well-ordered city  
+> and make them a reason for blaming the whole.  
+> But one must take into account the differences between the universal soul and ours,  
+> in its management of the body;  
+> it does not direct it in the same way,  
+> and is not bound to it. \( *Enn*. II, 9, 7, 5–9\) 
 
-\[ *Enn*. II, 9, 6, 59–63; trans. Armstrong\]. . . . But to apply conclusions drawn from our soul to the Soul of the All is as if somebody were to take the tribe of potters or smiths in a well-ordered city and make them a reason for blaming the whole. But one must take into account the differences between the universal soul and ours, in its management of the body; it does not direct it in the same way, and is not bound to it. \( *Enn*. II, 9, 7, 5–9\) According to Plotinus, the Gnostics projected their psychological condition on the cosmos and shifted the burden for their suffering to the Demiurge and his astral regents. In other words, they mistakenly took the “part,” the particular soul, for the “whole,” the World Soul. The cause for this, Plotinus argued, was the Gnostics’ attempt to go beyond their capacities as individual souls and “set themselves up next to god” \( *Enn*. II, 9, 9, 48\). This was nothing more than wishful thinking \( *hosper oneirasi petesthai*; *Enn*. II, 9, 9, 49\), Plotinus said, and it diverted their souls from making the only possible ascent to the gods, realized not by rejecting the stars and World Soul but by imitating them as much as possible \( *Enn*. II, 9, 18, 31–35\). The cause for evil and the suffering of the soul did not come from the World Soul or its regents but from the inability of the individual soul to harmonize itself with the ordered movements of the whole.
+According to Plotinus, the Gnostics projected their psychological condition on the cosmos  
+and shifted the burden for their suffering to the Demiurge and his astral regents.  
+In other words, they mistakenly took the “part,” the particular soul, for the “whole,” the World Soul.  
+The cause for this, Plotinus argued,  
+was the Gnostics’ attempt to go beyond their capacities as individual souls and “set themselves up next to god” \( *Enn*. II, 9, 9, 48\).  
+This was nothing more than wishful thinking \( *hosper oneirasi petesthai*; *Enn*. II, 9, 9, 49\), Plotinus said,  
+and it diverted their souls from making the only possible ascent to the gods,  
+realized not by rejecting the stars and World Soul but by imitating them as much as possible \( *Enn*. II, 9, 18, 31–35\).+++(5)+++  
+The cause for evil and the suffering of the soul  
+did not come from the World Soul or its regents  
+but from the inability of the individual soul  
+to harmonize itself with the ordered movements of the whole.
 
-Plotinus says: “If any of the parts of the universe is moved according to its nature, the parts with whose nature the movement is not in accord suffer, but those which are moved go on well, as parts of the ppp
+[^5]: It is interesting that Plotinus refers to the authority of the “Ancients” \( *palaioi*\) \( *Enn*. II, 9, 6\) over against the *new* opinions of the Gnostics, for Iamblichus refers to the “Ancients” in the *De Anima* in contrast to the views of Numenius \(and possibly Plotinus\) \( *Stob*. I, 458\).
 
-5. It is interesting that Plotinus refers to the authority of the “Ancients”
+[[69]]
 
-\( *palaioi*\) \( *Enn*. II, 9, 6\) over against the *new* opinions of the Gnostics, for Iamblichus refers to the “Ancients” in the *De Anima* in contrast to the views of Numenius \(and possibly Plotinus\) \( *Stob*. I, 458\).
+Plotinus says: 
 
-69
+> “If any of the parts of the universe is moved according to its nature,  
+> the parts with whose nature the movement is not in accord suffer,  
+> but those which are moved go on well,  
+> as parts of the ppp whole;  
+> but the others are destroyed because they are not able to endure the order of the whole.”[^6]+++(4)+++
 
+Iamblichus would have agreed with Plotinus’s distinction between universal and individual souls.  
+It was a position argued by Iamblichus himself—  
+probably with some degree of irony—  
+in his defense of theurgy against Plotinus’s pupil, Porphyry.  
+Yet the basis for Porphyry’s reversal of this teaching  
+probably lay in the thinking of Plotinus himself  
+who, apart from his distaste for Gnostic views,  
+had never found a satisfactory answer for the cause of human suffering and evil.[^7]
 
+In his treatise on the descent of souls into bodies \( *Enn*. IV, 8\)  
+Plotinus followed Platonic tradition by contrasting the somatic experience of partial souls \( *para meros*\) \( *Enn*. IV, 8, 7, 24\),  
+who move gradually from embodied confusion to tranquility,  
+with the Soul of the All \( *tou pantos*; *Enn*. IV, 8, 7, 27\), which is never distressed and remains in the divine world.+++(5)+++  
 
-whole; but the others are destroyed because they are not able to endure the order of the whole.”6
+Plotinus then admittedly diverged from Platonic doctrine: 
 
-Iamblichus would have agreed with Plotinus’s distinction between universal and individual souls. It was a position argued by Iamblichus himself—probably with some degree of irony—in his defense of theurgy against Plotinus’s pupil, Porphyry. Yet the basis for Porphyry’s reversal of this teaching probably lay in the thinking of Plotinus himself who, apart from his distaste for Gnostic views, had never found a satisfactory answer for the cause of human suffering and evil.7
+> “And if one may be so bold as to express more clearly *one’s own conviction against the common opinion of others*,  
+> even our soul has not sunk entirely,  
+> but there is always something of it in the Intelligible World.”[^8] 
 
-In his treatise on the descent of souls into bodies \( *Enn*. IV, 8\) Plotinus followed Platonic tradition by contrasting the somatic experience of partial souls \( *para meros*\) \( *Enn*. IV, 8, 7, 24\), who move gradually from embodied confusion to tranquility, with the Soul of the All \( *tou pantos*; *Enn*. IV, 8, 7, 27\), which is never distressed and remains in the divine world. Plotinus then admittedly diverged from Platonic doctrine: “And if one may be so bold as to express more clearly *one’s own conviction against the common opinion of others*, even our soul has not sunk entirely, but there is always something of it in the Intelligible World.”8 In his later *Enneads* 9
+In his later *Enneads* [^9] Plotinus continued to maintain this opinion and denied that the soul completely descends into a body. Describing “descent” as an “illumination” he says:
 
-Plotinus continued to maintain this opinion and denied that the soul completely descends into a body. Describing “descent” as an
-
-“illumination” he says:
-
-If the inclination \( *neusis*\) is an illumination \( *ellampsis*\) to what is below it is not a sin; what is illuminated is responsible, for if it did not exist the soul would have nowhere to illuminate. The soul is said to go down \( *katabainein*\) or decline \( *neuein*\) in the sense that 6. *Enn*. II, 9, 9, 33–36. This is essentially the same argument that Iamblichus employs. Like Plotinus \(II, 9, 9, 37–40\), Iamblichus uses the analogy of a “dance” to account for evil, though in a slightly different manner \( *DM* 56, 7–15\).
+> If the inclination \( *neusis*\) is an illumination \( *ellampsis*\) to what is below it is not a sin;  
+> what is illuminated is responsible,  
+> for if it did not exist the soul would have nowhere to illuminate. The soul is said to go down \( *katabainein*\) or decline \( *neuein*\) in the sense that 6. *Enn*. II, 9, 9, 33–36. This is essentially the same argument that Iamblichus employs. Like Plotinus \(II, 9, 9, 37–40\), Iamblichus uses the analogy of a “dance” to account for evil, though in a slightly different manner \( *DM* 56, 7–15\).
 
 7. See E.R. Dodds *, Pagan and Christian in an Age of Anxiety* \(New York: Norton, 1965\), 24–26; R.T. Wallis, *Neoplatonism* \(London: Duckworth, 1972\), 76–79.
 

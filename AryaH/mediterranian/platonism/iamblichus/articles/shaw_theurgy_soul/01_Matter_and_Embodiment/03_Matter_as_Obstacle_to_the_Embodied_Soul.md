@@ -3,11 +3,10 @@ title = "03 Matter as Obstacle to the Embodied Soul"
 
 +++
 
-*What good . . . can be generated*
+> *What good . . . can be generated*
+*from matter?*
 
-*from matter? *
-
-t is precisely in the turn to composite lives that the perspective on matter changes from that of the World Soul to that of particular Iembodied souls; in turn, the portrayal of matter becomes pessimistic. Even the “optimistic” *Timaeus* touched briefly on the cause for this pessimism in its description of the confusion that attends the embodiment of the soul \( *Tim. * 44\). In this regard, the pessimistic language of the *Phaedo* should be understood within the context of the soul’s entire incarnational itinerary. The perception of the body as a “prison” would be an important and necessary step in the soul’s progress toward a complete incarnation. The negative imagery functioned as a catalyst to purge the soul of an identity anchored in the sensible world; in light of Iamblichus’s itinerary for the study of the Platonic dialogues, where the *Phaedo* is read early on,1 its negative view of embodiment should be seen as a medicinal shock, intended to disturb the soul’s complacency and later to be ameliorated with a more complete understanding.2
+It is precisely in the turn to composite lives that the perspective on matter changes from that of the World Soul to that of particular embodied souls; in turn, the portrayal of matter becomes pessimistic. Even the “optimistic” *Timaeus* touched briefly on the cause for this pessimism in its description of the confusion that attends the embodiment of the soul \( *Tim. * 44\). In this regard, the pessimistic language of the *Phaedo* should be understood within the context of the soul’s entire incarnational itinerary. The perception of the body as a “prison” would be an important and necessary step in the soul’s progress toward a complete incarnation. The negative imagery functioned as a catalyst to purge the soul of an identity anchored in the sensible world; in light of Iamblichus’s itinerary for the study of the Platonic dialogues, where the *Phaedo* is read early on,1 its negative view of embodiment should be seen as a medicinal shock, intended to disturb the soul’s complacency and later to be ameliorated with a more complete understanding.2
 
 1. Iamblichus’s itinerary for the reading of the Platonic dialogues and their relation to the development of the virtues is explained in *Anonymous Prolegomena to* *Platonic Philosophy*, intro., text, and trans. L.G. Westerink \(Amsterdam: North-Holland, 1962\), xxxvii–xl.
 

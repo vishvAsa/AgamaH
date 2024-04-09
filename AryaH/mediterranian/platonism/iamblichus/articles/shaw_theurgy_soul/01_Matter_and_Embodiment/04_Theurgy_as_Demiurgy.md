@@ -189,7 +189,7 @@ transforming the entire world into an immense receptacle, a *sunthema* revealing
 
 
 To be in a body, for a theurgist,  
-was to have a place in this *temenos*,  
+was to have a place in this *temenos*+++(=sacred space)+++,  
 and even union with the gods was not impossible for those whose embodiment was properly consecrated.+++(5)+++  
 Iamblichus says: 
 
@@ -438,42 +438,126 @@ ppp
 
 
 
-The meaning of theurgy in the history of Platonism becomes clear if it is seen as the praxis that allowed souls to move from the experience of embodiment as an isolated prison to a participation in the World Soul, where its particularity was re-established in the unity of the whole.
+The meaning of theurgy in the history of Platonism becomes clear  
+if it is seen as the praxis  
+that allowed souls to move from the experience of embodiment as an isolated prison  
+to a participation in the World Soul,  
+where its particularity was re-established in the unity of the whole.+++(5)+++
 
-By entering into the community of the gods as one of its bodies of light, the embodied soul was no longer alienated by matter nor passionately drawn to it. Embodiment was transformed from the psychic chaos of suffering into a cosmos, an adornment of the divine. The “lapse of time” in the *Timaeus* \(30a\) between material chaos and cosmos—though only a necessity of discourse when speaking of the World Soul—was an accurate description of the experience of the embodied soul on its path to demiurgy. In theurgy the soul gradually transformed the chaos of its embodied experience into the perfect measures of the cosmos.18 In his mortal aspect the theurgist became the recipient of this beauty, while in his mediation of the gods, he became his own demiurge.
+By entering into the community of the gods as one of its bodies of light,  
+the embodied soul was no longer alienated by matter  
+nor passionately drawn to it.+++(5)+++ 
+Embodiment was transformed  
+from the psychic chaos of suffering  
+into a cosmos, an adornment of the divine.+++(4)+++  
+The “lapse of time” in the *Timaeus* \(30a\) between material chaos and cosmos—  
+though only a necessity of discourse when speaking of the World Soul—  
+was an accurate description of the experience of the embodied soul on its path to demiurgy.  
+In theurgy the soul gradually transformed the chaos of its embodied experience  
+into the perfect measures of the cosmos.[^18]  
+In his mortal aspect  
+the theurgist became the recipient of this beauty,  
+while in his mediation of the gods,  
+he became his own demiurge.+++(5)+++
 
-Throughout the theurgist’s lifelong labor \(see *DM* 92, 8–10; 131, 9–10\) of building a divine body, matter was the mirror that reflected the condition of his soul. It was, as Iamblichus says, the “index”
+Throughout the theurgist’s lifelong labor \(see *DM* 92, 8–10; 131, 9–10\) of building a divine body,  
+matter was the mirror that reflected the condition of his soul. It was, as Iamblichus says, the “index” \( *deigma*; *DM* 80, 15\) of divine presence,  
+and the intensity of the soul’s contact with the gods  
+was in direct proportion to its receptive capacity.[^19]  
+In his explanation of appearances \( *phasmata*\) in divination  
+Iamblichus explains that the higher the divinity,  
+the more completely it consumes matter: 
 
-\( *deigma*; *DM* 80, 15\) of divine presence, and the intensity of the soul’s contact with the gods was in direct proportion to its receptive capacity.19 In his explanation of appearances \( *phasmata*\) in divination Iamblichus explains that the higher the divinity, the more completely it consumes matter: “Take the immediate consumption of matter by the Gods as no small indication for you; with Archangels 18. Interesting parallels exist between the praxis of later Platonists and the methods of yoga. Compare the theurgists’ goal of identifying with the order of the cosmos with Eliade’s description of the goal of the yogi: “all these \[yogic\] exercises pursue the same goal, which is to abolish multiplicity and fragmentation, to reintegrate, to unify, to make whole. . . . Indeed one can speak of the first yogic stages as an effort toward the ‘cosmicization’ of man. *To transform the chaos of biomental life* *into a cosmos* . . . .” \(my emphasis\). Mircea Eliade, *Yoga: Immortality and Freedom*, trans. Willard Trask \(Princeton: Princeton University Press, 1973\), 97.
 
-19. Iamblichus refers to the ability of souls to intensify this presence when he says that continual prayer “renders the receptacle\(s\) of the soul far greater \[for the communion\] of the Gods” \( *DM* 238, 15–239, 1\).
+[^18]: 
 
-62
+    Interesting parallels exist between the praxis of later Platonists and the methods of yoga.  
+
+    Compare the theurgists’ goal of identifying with the order of the cosmos with Eliade’s description of the goal of the yogi: 
+
+    > “all these \[yogic\] exercises pursue the same goal, which is to abolish multiplicity and fragmentation, to reintegrate, to unify, to make whole. . . .   
+    Indeed one can speak of the first yogic stages as an effort toward the ‘cosmicization’ of man.  
+    *To transform the chaos of biomental life* *into a cosmos* . . . .” \(my emphasis\). Mircea Eliade, *Yoga: Immortality and Freedom*, trans. Willard Trask \(Princeton: Princeton University Press, 1973\), 97.
+
+[^19]: Iamblichus refers to the ability of souls to intensify this presence when he says that continual prayer “renders the receptacle\(s\) of the soul far greater \[for the communion\] of the Gods” \( *DM* 238, 15–239, 1\).+++(5)+++
+
+[[62]]
 
 
 
-it is consumed in a short time; with Angels there is a dissolution and elevation from matter; by *Daimones* matter is beautifully organized; Heroes bear a proportionate adaptation to matter in fitting measures and give a skillful attention to it” \( *DM* 80, 15–81, 4\). The rank of a divinity was indicated by its relation to, and command over, matter. Matter was the index that measured the degrees of divinity, and for particular souls their relation to matter also determined the kind of theurgy they were to practice. The *materia* of the rites varied from stones and plants to the visionary matter given directly by the gods, but in all stages matter was not something reluctantly accepted in the rites, it was the necessary vehicle through which souls were divinized.
+> “Take the immediate consumption of matter by the Gods as no small indication for you;  
+> with Archangels it is consumed in a short time;  
+> with Angels there is a dissolution and elevation from matter;  
+> by *Daimones* matter is beautifully organized;  
+> Heroes bear a proportionate adaptation to matter in fitting measures and give a skillful attention to it” \( *DM* 80, 15–81, 4\). 
 
-In the *De Mysteriis* Iamblichus portrays the soul’s experience of matter through the Egyptian hieroglyph of a young god seated on a lotus. The material principle, represented by “mud” \( *ilus*\) under the lotus, serves as the “foundation” \( *puthmen*\) to nourish the lotus until it develops a circular throne for the god.20 Just so, each embodied soul, rooted in the “mud” of embodiment and the waters of psychic change, is nourished by this very condition until it is capable of receiving the god.+++(5)+++
+The rank of a divinity was indicated by its relation to, and command over, matter.  
+Matter was the index  
+that measured the degrees of divinity,  
+and for particular souls  
+their relation to matter also determined the kind of theurgy they were to practice.  
+The *materia* of the rites  
+varied from stones and plants  
+to the visionary matter given directly by the gods,  
+but in all stages matter was not something reluctantly accepted in the rites,  
+it was the necessary vehicle through which souls were divinized.+++(4)+++
 
-The matter of the *Phaedo* with all its negative effects was revealed progressively to the theurgist as the matter of the *Timaeus*, but only by virtue of the theurgist himself becoming demiurgic and ritually enacting the “eternal measures” \( *metra aidia*; *DM* 65, 4\) established in creation. His perfection, as soul, was realized only by first assimilating himself to the world,21 co-ordinating his “particular” attractions, somatic or intellectual, with their causal principles. As the
+In the *De Mysteriis* Iamblichus portrays the soul’s experience of matter  
+through the Egyptian hieroglyph of a young god seated on a lotus.  
+The material principle, represented by “mud” \( *ilus*\) under the lotus,  
+serves as the “foundation” \( *puthmen*\) to nourish the lotus  
+until it develops a circular throne for the god.[^20]  
+Just so, each embodied soul, rooted in the “mud” of embodiment and the waters of psychic change,  
+is nourished by this very condition until it is capable of receiving the god.+++(5)+++
 
-“lowest” divinity, the human soul achieved its highest condition only when it was conscious of being lowest, for only then did it realize its place in the divine hierarchy. When the soul’s “receptacles”
+The matter of the *Phaedo* with all its negative effects  
+was revealed progressively to the theurgist as the matter of the *Timaeus*,  
+but only by virtue of the theurgist himself becoming demiurgic  
+and ritually enacting the “eternal measures” \( *metra aidia*; *DM* 65, 4\) established in creation.  
+His perfection, as soul,  
+was realized only by first assimilating himself to the world,[^21]  
+co-ordinating his “particular” attractions, somatic or intellectual,  
+with their causal principles.  
+As the “lowest” divinity,  
+the human soul achieved its highest condition  
+only when it was conscious of being lowest,  
+for only then did it realize its place in the divine hierarchy.+++(5)+++  
+When the soul’s “receptacles” were cleansed of the accretions added in embodiment  
+it could become a proper receptacle of the gods  
+and, like the pure matter of the *Timaeus*,  
+transfer this order to the phenomenal world. 
 
-were cleansed of the accretions added in embodiment it could become a proper receptacle of the gods and, like the pure matter of the *Timaeus*, transfer this order to the phenomenal world. The per-20. For “mud” see *DM* 250, 17–251, 5; for “lotus” see 251, 17–252, 12.
+[^20]: For “mud” see *DM* 250, 17–251, 5; for “lotus” see 251, 17–252, 12.
 
-21. I have been influenced on this point by S. Breton, “L’homme et l’âmehu-maine,” 23.
+[^21]: I have been influenced on this point by S. Breton, “L’homme et l’âmehu-maine,” 23.
 
 63
 
 
 
-fect theurgist became an embodied Demiurge22 whose presence was enough to create harmony out of discord and drive away evil. Iamblichus says:
+The perfect theurgist became an embodied Demiurge[^22]  
+whose presence was enough to create harmony out of discord  
+and drive away evil.+++(5)+++ Iamblichus says:
 
-\[E\]very vice and every passion is entirely removed by theurgists, for a pure participation of the good is present with the pure, and they are filled from on high with the fire of truth. For theurgists there is no impediment from evil spirits, nor are there hindrances to the goodness of the soul. Nor does any affectation, or flattery, or the enjoyment of vapors or violent force annoy them. But, all these, as if struck by lightning, yield and recede without touching the theurgists, nor can they even approach them. \( *DM* 178, 8–16\) Having situated his particularity into the circle of the whole, the theurgist was immune from particular threats in precisely the same way as the gods \(cf. *DM* 201, 16–202, 2\). In imitation of divine beings, the body of the theurgist became a vehicle through which the gods appeared to the physical world and through which he received their communion.
+> \[E\]very vice and every passion  
+> is entirely removed by theurgists,  
+> for a pure participation of the good is present with the pure,  
+> and they are filled from on high with the fire of truth.  
+> For theurgists there is no impediment from evil spirits,  
+> nor are there hindrances to the goodness of the soul.  
+> Nor does any affectation, or flattery, or the enjoyment of vapors or violent force annoy them.  
+> But, all these, as if struck by lightning,  
+> yield and recede without touching the theurgists,  
+> nor can they even approach them. \( *DM* 178, 8–16\) 
 
-22. Though this point shall be pursued later in arithmogonic terms, a suggestive ritual parallel existed in the example of the pharaoh \(and his priest functionar-ies\) in ancient Egyptian cult. He was, as Serge Sauneron says, “the guarantor of the universal balance”; see Sauneron, *The Priests of Ancient Egypt*, trans. Ann Morris-sett \(New York: Grove, 1960\), 31.
+> Having situated his particularity into the circle of the whole,  
+> the theurgist was immune from particular threats in precisely the same way as the gods \(cf. *DM* 201, 16–202, 2\). 
+
+In imitation of divine beings, the body of the theurgist became a vehicle through which the gods appeared to the physical world and through which he received their communion.
+
+[^22]: Though this point shall be pursued later in arithmogonic terms, a suggestive ritual parallel existed in the example of the pharaoh \(and his priest functionaries\) in ancient Egyptian cult. He was, as Serge Sauneron says, “the guarantor of the universal balance”; see Sauneron, *The Priests of Ancient Egypt*, trans. Ann Morris-sett \(New York: Grove, 1960\), 31.
 
 64
 
 65
+
