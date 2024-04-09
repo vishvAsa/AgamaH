@@ -39,7 +39,7 @@ He says: “il faut revenir *à la thèse capitale du néoplatonisme selon* *laq
 
 213
 
-*Theurgy and the Soul*
+
 
 rational thought was simply one mode of activity through which a superior intelligence guided and sustained the soul throughout its embodiment.
 
@@ -87,7 +87,7 @@ Indeed, some Pythagoreans find that number without any qualifi-cation is a fitti
 
 215
 
-*Theurgy and the Soul*
+
 
 moved” \[number\]; Moderatus the Pythagorean, as containing
 
@@ -227,7 +227,7 @@ Larsen argues that Merlan mistakenly interprets Iamblichus in chapters 9 and 10 
 
 217
 
-*Theurgy and the Soul*
+
 
 The soul is raised up to the objects of knowledge from without \( *exothen*\), and while it receives from things other \[than itself\] the beginning of its recollection \( *anamnesis*\), it projects \( *proballein*\) this beginning from itself. This activity is not stable according to one energy—as is the case with the *Nous*—but in movement the soul proceeds out of itself and into itself. Nor, in this, is the soul complete, as is the *Nous*, but in continually seeking and finding the soul proceeds from a lack of knowledge to a fulness thereof. It is divided equally between the limit \( *peras*\) and the unlimited \( *apeiron*\). Wherefore, the soul continually advances from the unlimited to being defined and transforms itself for the reception of mathematical figures.12
 
@@ -617,7 +617,7 @@ Mathematical activity exemplifies the Iamblichean standard for every theurgic ap
 
 219
 
-*Theurgy and the Soul*
+
 
 in each case the soul was made divine through its imitation of the cosmogonic cycle: it went out of itself in a ritually controlled manner to return to the god within.
 
@@ -659,7 +659,7 @@ Iamblichus says that Pythagoras did not want to diminish Abaris’s desire for t
 
 221
 
-*Theurgy and the Soul*
+
 
 mind and allowed it to participate in the gods \( *VP* 122, 17–20; chap.
 

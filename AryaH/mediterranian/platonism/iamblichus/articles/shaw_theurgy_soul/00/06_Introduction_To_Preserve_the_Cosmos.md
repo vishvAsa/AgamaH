@@ -21,7 +21,7 @@ Despite Libanius’s plea it was too late. The countryside had already been “b
 
 * * * * * * * * * * * * * * 
 
-*Theurgy and the Soul*
+
 
 pagans, the loss of these shrines marked the end of a way of life: it severed their contact with the gods, threatened their society, and disturbed the order of nature.
 
@@ -57,7 +57,7 @@ Iamblichus was not a proponent of “Hellenic” culture in the manner of his en
 
 * * * * * * * * * * * * 
 
-*Theurgy and the Soul*
+
 
 and he blamed the cultural demise of his own era on the innovations of Hellenic thinkers \( *Laws* 657a\). Such anti-Hellenic criticism was, in fact, a topos in Plato’s writings, as was his exaltation of barbarian races \(especially Egyptian\) in contrast to the unstable Greeks. Iamblichus similarly praised the Egyptians and explained the power of their hieratic rites:
 
@@ -91,7 +91,7 @@ Iamblichus’s distinction between theurgy and theology is crucial for understan
 
 5
 
-*Theurgy and the Soul*
+
 
 would become an integral part of the Platonic vocabulary. In Platonic terms, theurgy fulfilled the goal of philosophy understood as a *homoiosis theo*. The rituals themselves, Iamblichus explained, varied according to the capacities of its participants, and though he provided little information about particulars, it is clear that many “theurgic” rites were already well known to the Hellenic world. In the hands of Iamblichus, theurgy represented a revaluation of traditional cult practices. Iamblichus maintained that the divine principles invoked in these rites were exemplified abstractly and theoretically in the teachings of Pythagoras, Plato, and Aristotle, and that both cultic acts and philosophic *paideia* were rooted in one source: the ineffable power of the gods. In theurgy these divine principles were embodied and enacted, not merely contemplated, and in whatever context this occurred it was a “work of the gods,” a *theourgia* in which the human soul participated both as recipient and beneficiary.
 
@@ -117,7 +117,7 @@ It should be recognized that the author of the *De Mysteriis* eventually came to
 
 7
 
-*Theurgy and the Soul*
+
 
 become notorious as an apology for the practice of magic and divination, formed part of the correspondence between two of the most learned Platonists of the later third century. Porphyry, who directed a Platonic school in Rome, posed the questions and was therefore responsible for the structure of the work. Yet it was Iamblichus’s answers that changed the course of Platonism; in his lengthy replies to Porphyry’s questions Iamblichus solved problems that had long vexed Platonists, and he provided a philosophically viable framework for a religious way of life that Porphyry himself had longed to create.
 
@@ -221,7 +221,7 @@ Philip Merlan, “Religion and Philosophy from Plato’s *Phaedo* to the Chaldae
 
 9
 
-*Theurgy and the Soul*
+
 
 Guided by these daimons, man enjoyed peace, prosperity, and justice until he usurped their authority, began to rule himself, and ignored the hierarchical law that each species must obey its superior order \( *Laws* 716ab\). In accord with this principle, Plato believed that humanity should seek to re-establish the order and hierarchy of the Golden Age \( *Republic* 500c\).
 
@@ -261,7 +261,7 @@ The pervasive acosmic mood of late antiquity effected a change in this locative 
 
 11
 
-*Theurgy and the Soul*
+
 
 Hellenistic man suffers from what might be called cosmic paranoia. He experiences himself to be naked and helpless; he sees danger and threat everywhere. Looking up at the heavens, at the stars, and the motions of the heavenly bodies, he no longer sees guarantors of order; the guardians of a good cosmic and human destiny . . . but rather a grim system of aggressors, an openly hos-tile army which seeks to chain him. \( *Map Is Not Territory*, 138\) In such a world, Smith says, man’s salvation is no longer measured by the degree of his assimilation to the patterns of the cosmos “but rather by the degree to which he can escape the patterns” \(139\).
 
@@ -289,7 +289,7 @@ In effect, the doctrine of the undescended soul split the cosmos into 33. See A.
 
 13
 
-*Theurgy and the Soul*
+
 
 two opposed worlds, and if the physical world was upside-down \( *anatrope*\) and not the soul, then the performance of sacrifices and rituals to assimilate oneself to its orders would be worse than useless; they would be positively harmful.34
 
@@ -325,7 +325,7 @@ I would argue that Porphyry’s repudiation of the value of cult sacrifice and h
 
 15
 
-*Theurgy and the Soul*
+
 
 29, 4\). This new metaphysics undercut the traditional basis of *paideia*, for it transformed the Platonic *homoiosis theo*, measured by the soul’s assimilation to the cosmic gods, into a *homoiosis heauto* with the “self ” understood as the divine *Nous*\! The soul’s identification with the cosmos, therefore, was no longer necessary or desirable, for the cosmos had been altogether short-circuited: it was something to escape from, not assimilate oneself to. Consequently, Porphyry conceived of salvation as the soul’s permanent escape from the cosmos, “never again to find itself held and polluted by the contagion of the world.”38 In this, he abandoned the Platonic doctrine of rebirth,39 yet his unorthodoxy with respect to traditional Platonism was consistent with its “gnosticized” form where the cosmos, and not the soul, carried the burden of the demonic. Porphyry maintained that permanent escape was possible only for the philosopher, not for the common man, and this again exemplifies the social as well as ontological oppositions tied to the doctrine of the undescended soul. Those incapable of the philosophic escape, says Porphyry, performed theurgic rites to purify their irrational elements, but such souls were never free.40
 
@@ -359,7 +359,7 @@ Platonists of the second and third centuries c.e. had disowned this confusion of
 
 17
 
-*Theurgy and the Soul*
+
 
 sensible world and both Plotinus and Porphyry followed him.
 
@@ -381,7 +381,7 @@ Once the material world has been exorcised of evil and is seen to be an expressi
 
 After a careful study of Iamblichus’s psychology and theurgy’s role in the cure of souls, I turn to the actual performance of theurgic rites and the guidelines suggested by Iamblichus. In Part III, I examine the tripartite schema Iamblichus employed to co-ordinate the mortal activities of souls with their immortal archetypes. For Iamblichus, the cosmos itself was the paradigmatic theurgy: the act of the gods continually extending themselves into mortal expression. Without first appreciating Iamblichus’s conception of the 19
 
-*Theurgy and the Soul*
+
 
 divinity of the material world as well as his views on the paradox of the embodied soul, the full significance of theurgy and the guidelines for its practice could not be properly understood. In short, theurgy was Iamblichus’s attempt to ensure the deification of souls through their assimilation to the orders of the cosmos—a traditional Platonic teaching.
 

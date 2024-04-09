@@ -19,7 +19,7 @@ under the rubric of theurgy—Iamblichus provided a theoretical justification fo
 
 Iamblichus’s interpretation of *mantike* was perfectly orthodox for a Platonist, since Plato himself had already pointed to a connection between divine madness \( *theia mania*\) and divination \( *mantike*; *Phaedrus* 244a–c\). For Plato, “man’s greatest blessings come by way of madness, indeed of madness that is heaven-sent” \( *Phaedrus* 244a, 6–8\), and Iamblichus maintained that since divination came from the gods it was “divine work,” hence, *theourgia*. The theurgical interpretation of divination, therefore, represents Iamblichus’s attempt to flesh out the suggestions about divine madness \( *theia* 259
 
-*Theurgy and the Soul*
+
 
 *mania*\) in the *Phaedrus*. For Platonists, the dramatic change of consciousness seen in trance diviners and rhapsodists would have vividly exemplified the kind of transformation sought for in the soul.
 
@@ -49,7 +49,7 @@ There is one correct definition and principle for all forms of divination and it
 
 261
 
-*Theurgy and the Soul*
+
 
 cause is primordial and eminently universal, possessing in a primary way \( *protos*\) what it bestows to its participants. Certainly, it possesses the truth necessary for divination and anticipates the essence and cause of events from which it necessarily and accurately yields foreknowledge. Let us take this kind of principle universally as the cause for all divination and from which we may scientifically discover all its species. \( *DM* 101, 15–102, 11\) The foreknowledge \( *prognosis*\) given in divination was not knowledge of particular events. It was, rather, an immediate knowing, “possessing in a primary way \( *protos*\)” things that happen seri-ally in time. Like the *noesis* of the gods, this primary knowing was unreflective and therefore was not “knowledge” in a discursive sense.3 It lifted the soul from particular knowing to the level of the gods where all events, past and future, were simultaneously contained. Theurgic prognosis was literally a *pro* \+ *gnosis*, an ascent to the *arche* of knowing and thus, to that which *precedes* knowing. Yet, as the *arche* of knowledge, prognosis contained all its species, so the information received in divination, although accurate, was merely incidental to the soul’s ascent to the *arche*. Knowledge of the future was not an essential characteristic of theurgic *mantike*. Iamblichus says: “Whenever it is necessary for the soul to exercise virtue, and ignorance of the future contributes to this, *the Gods conceal the* *things that will happen* in order to make the soul better” \( *DM* 289, 17–290, 1\). Divine *mantike* did not serve human desires; it existed solely “for the sake of the salvation and ascent of souls” \( *DM* 290, 2–
 
@@ -69,7 +69,7 @@ From the beginning, it is necessary to divide ecstasy into two species: one is t
 
 263
 
-*Theurgy and the Soul*
+
 
 the former entirely separates the soul from participation in the divine, the latter connects the soul with the divine. \( *DM* 158, 10–
 

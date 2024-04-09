@@ -135,7 +135,7 @@ barbarians, 4, 220
 
 293
 
-*Theurgy and the Soul*
+
 
 bel stone, 54
 
@@ -459,7 +459,7 @@ mother of numbers, 38
 
 295
 
-*Theurgy and the Soul*
+
 
 ecstasy \( *ekstasis*\), * * 263–65
 
@@ -777,7 +777,7 @@ hymns, 195–96, 206, 255
 
 297
 
-*Theurgy and the Soul*
+
 
 hypercosmic gods. *See * gods,
 
@@ -1085,7 +1085,7 @@ Nicomachus, 33, 206
 
 299
 
-*Theurgy and the Soul*
+
 
 conventional and natural
 
@@ -1397,7 +1397,7 @@ preparation for, 197
 
 301
 
-*Theurgy and the Soul*
+
 
 signs of, 92
 
@@ -1719,7 +1719,7 @@ in sacrifice, 173, 178
 
 303
 
-*Theurgy and the Soul*
+
 
 183. *See also * symbol
 

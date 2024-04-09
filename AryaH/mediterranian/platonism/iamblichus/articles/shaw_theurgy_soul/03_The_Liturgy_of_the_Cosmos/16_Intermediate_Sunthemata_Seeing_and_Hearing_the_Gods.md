@@ -121,7 +121,7 @@ The visible “characters” of the planetary gods invoked in theurgic ritual ha
 
 195
 
-*Theurgy and the Soul*
+
 
 2. Consider which star chiefly rules which place and man. Then observe what modes these regions and persons generally use, so that you may apply similar ones, together with the meaning first mentioned, to the word which you wish to offer to these same stars.
 
@@ -183,7 +183,7 @@ Indeed, before the soul gave itself to the body, it heard the divine harmony pla
 
 197
 
-*Theurgy and the Soul*
+
 
 home with it, and partakes of it as much as possible. \( *DM* 120, 7–
 
@@ -239,7 +239,7 @@ It does not, as the name \[ *prosklesis*; *DM* 42, 6\] seems to indicate, inclin
 
 199
 
-*Theurgy and the Soul*
+
 
 d’un vertu divine.”15 The “names” of the gods, in effect, defined transforming experiences in the soul. Paraphrasing Proclus, Trouillard writes:
 

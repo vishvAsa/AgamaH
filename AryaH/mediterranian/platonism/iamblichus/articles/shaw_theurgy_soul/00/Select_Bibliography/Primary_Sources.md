@@ -39,7 +39,7 @@ Ficino, Marsilio. *Opera Omnia*. 2 vols. Basel, 1576; reprint, Turin, 1962.
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
 
-*Theurgy and the Soul*
+
 
 *Hermetica*. 4 vols. Edited and translated by W. Scott. London: Dawsons, 1968; reprint, Boston: Shambhala, 1985.
 
@@ -133,7 +133,7 @@ Translated by R.G. Bury. Loeb Classical Library. Cambridge: Harvard University P
 
 275
 
-*Theurgy and the Soul*
+
 
 ———. *Plato: Symposium*. Edited by K.J. Dover. New York: Cambridge University Press, 1980.
 

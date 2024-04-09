@@ -31,7 +31,7 @@ Iamblichus defined the essence of the human soul with characteristics that descr
 
 79
 
-*Theurgy and the Soul*
+
 
 adherence to this teaching led him into paradoxes that were resolved only in theurgic ritual. If mediation defines the essence of the soul as Iamblichus believed, it is clear why he did not identify soul with *Nous* as Plotinus did, for *Nous* is entirely free of the
 
@@ -85,7 +85,7 @@ mortal
 
 81
 
-*Theurgy and the Soul*
+
 
 hierarchy of souls according to their respective allotments of the elements “essence” \( *ousia*\), “sameness” \( *tautotes*\), and “otherness”
 
@@ -123,7 +123,7 @@ Apart from turning the ontological order upside down, defining 12. Following the
 
 83
 
-*Theurgy and the Soul*
+
 
 essences by their activities would place the defining characteristics of incorporeals in their material vehicles, and nothing would distinguish one incorporeal from another apart from its *material* expression. Iamblichus implies that both Plotinus and Porphyry held this view so that, as an ironic correlate to their monopsychist tendencies, they were forced to accept Aristotle’s metaphysical position that matter was *principium individuationis*.14
 
@@ -165,7 +165,7 @@ Since Iamblichus’s daimons, angels, and heroes bore the signatures of their pr
 
 85
 
-*Theurgy and the Soul*
+
 
 As a mean between divine and mortal realms the Iamblichean soul had the unique distinction of being both mortal and immortal.
 
@@ -219,7 +219,7 @@ Iamblichus also includes the following distinctions:
 
 87
 
-*Theurgy and the Soul*
+
 
 *The Gods*
 

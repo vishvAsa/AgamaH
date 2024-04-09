@@ -15,7 +15,7 @@ Saffrey and the late Jean Trouillard, who invited me into their homes to share t
 
 * * * * 
 
-*Theurgy and the Soul*
+
 
 Pounds of Tempe, Arizona, and Robert Johnson of Encinitas, California, who earlier helped me recognize such depth.
 

@@ -51,7 +51,7 @@ would be considered the “ruler” of one’s nativity. Thus, if the sign Leo i
 
 243
 
-*Theurgy and the Soul*
+
 
 ruling god, and when this was achieved the guardian daimon gave way to a higher guide. Iamblichus continues:
 
@@ -89,7 +89,7 @@ The personal daimon revealed himself to the theurgist and taught him how to stay
 
 245
 
-*Theurgy and the Soul*
+
 
 Following the Iamblichean principle that *energeia* reveals *ousia*, the appearances of invisible entities were the *energeiai* that revealed their sources, the *ousiai*. In terms of human experience, however, the rank of the divinity that appeared depended on the soul’s receptive capacity \(the *epitedeiotes* discussed in Chapter 7\). Iamblichus, in fact, seems to suggest that the soul actually contributed something to the appearance of the deity. Speaking of the “benefits”
 
@@ -131,7 +131,7 @@ The psychic organ that received the divine light was the pneumatic or luminous b
 
 247
 
-*Theurgy and the Soul*
+
 
 In reply to Porphyry’s questions about lights seen in divination Iamblichus explains the role of *phantasia* and catalogues, under the rubric of *photagogia*, the various methods used to illuminate it. He explains:
 
@@ -175,7 +175,7 @@ speaks of liberated souls who are “thrust out” \[of their bodies\]
 
 249
 
-*Theurgy and the Soul*
+
 
 have derived from a misinterpretation of the phenomenon that occurred when the theurgist coordinated his breath and visualization. For example, the Mithras Liturgy states: “Draw in breath from the \[sun’s\] rays, drawing in three times as much as you can, and *you* *will see yourself lifted up* and ascending to the height so that you seem to be in midair.”17
 
@@ -215,7 +215,7 @@ We are too feeble and sluggish to make our way out to the upper limit of the air
 
 251
 
-*Theurgy and the Soul*
+
 
 wings and fly aloft, when he put up his head he would see the world above, *just as fishes see our world when they put their heads* *out of the sea*. And if his nature were able to bear the sight, he would recognize that that is the true heaven and the true light and the true earth. \(109c\)
 
@@ -253,7 +253,7 @@ Consider this clearly: *Helios*, by his vivifying and marvelous heat, draws up a
 
 253
 
-*Theurgy and the Soul*
+
 
 For Julian the worship of Helios was a theurgical mystery. He continues:
 
@@ -293,7 +293,7 @@ XIII, 19, 208, 13–16\).
 
 Whether or not the authors of this Hermetic tractate formed part of a “theurgic” community, or any community at all is a question that will not be addressed, yet the motifs involved—\(1\) Pythagorean mysticism; \(2\) homologization to the cosmos as a means of release; \(3\) participation in demiurgy; and \(4\) the central role of the sun in the ritual act—were all characteristics of theurgy as conceived by Iamblichus. The evidence suggests that theurgic mysteries were 255
 
-*Theurgy and the Soul*
+
 
 solar mysteries, for the goal of all *mantike* and theurgic ritual was
 
@@ -313,6 +313,6 @@ Platonism
 
 257
 
-*Theurgy and the Soul*
+
 
 258

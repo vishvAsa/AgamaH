@@ -13,7 +13,7 @@ Armstrong, A.H. “The Apprehension of Divinity in the Self and Cosmos in Plotin
 
 277
 
-*Theurgy and the Soul*
+
 
 ———. “Gnosis and Greek Philosophy.” In *Gnosis: Festschrift für Hans* *Jonas*, edited by B. Aland et al., 87–124. Göttingen: Vandenhoeck S.
 
@@ -103,7 +103,7 @@ van Pseudo\(?\)-Simplicius.” *Tijdsschrift voor Filosofie* 34 \(1972\): 761–
 
 279
 
-*Theurgy and the Soul*
+
 
 Brague, Rémi. *Le Restant: Supplément aux Commentaires du Ménon de* *Platon*. Paris: Les Belles Lettres, 1978.
 
@@ -201,7 +201,7 @@ des Places, Edouard. *Etudes platoniciennes*, 1929–79. Leiden: E.J. Brill, 198
 
 281
 
-*Theurgy and the Soul*
+
 
 ———. *Syngeneia: La Parenté de l’homme avec dieu d’Homère à la patristique*. Paris: Librairie C. Klincksieck, 1964.
 
@@ -297,7 +297,7 @@ Griffiths, J.G. “Theurgy.” Review of E. des Places, *Jamblique: Les Mystère
 
 283
 
-*Theurgy and the Soul*
+
 
 Guérard, Christian. “Le Danger du néant et la négation selon Proclus.”
 
@@ -405,7 +405,7 @@ Merlan, Philip. “Aristotle’s Unmoved Movers.” *Traditio* 4 \(1946\): 1–3
 
 285
 
-*Theurgy and the Soul*
+
 
 ———. “Religion and Philosophy from Plato’s *Phaedo* to the Chaldean Oracles.” *Journal of the History of Philosophy* 1 \(1963\): 163–76.
 
@@ -497,7 +497,7 @@ Sambursky, S. *The Concept of Place in Late Neoplatonism*. Texts and Translation
 
 287
 
-*Theurgy and the Soul*
+
 
 ———. *The Concept of Time in Late Neoplatonism*. Texts and Translation. Jerusalem: Israel Academy of Sciences and Humanities, 1971.
 
@@ -589,7 +589,7 @@ Trouillard, Jean. “L’Activité onomastique selon Proclos.” In *Entretiens 
 
 289
 
-*Theurgy and the Soul*
+
 
 ———. “Jamblique.” *Encyclopedia Universalis*, 9:286–88. Paris, 1968.
 

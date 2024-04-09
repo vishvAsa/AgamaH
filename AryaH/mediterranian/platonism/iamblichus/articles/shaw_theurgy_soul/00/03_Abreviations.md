@@ -105,7 +105,7 @@ iii
 
 * *
 
-*Theurgy and the Soul*
+
 
 iv
 

@@ -21,7 +21,7 @@ H.D. Saffrey and L.G. Westerink \(Paris: Les Belles Lettres, 1980\).
 
 
 
-*Theurgy and the Soul*
+
 
 be explained by reference to Nicomachus’s distinction3 between
 
@@ -85,7 +85,7 @@ To each god, he concludes, there are appropriate symbols and shapes 7. Ibid., 10
 
 
 
-*Theurgy and the Soul*
+
 
 \( *In Euclidem*, 138, 21–22\). One may assume, therefore, that each god was associated with a geometric figure that appeared in the heavens
 
@@ -145,7 +145,7 @@ In the case of *sriyantra* mandala of tantric worship the feminine 13. Mircea El
 
 
 
-*Theurgy and the Soul*
+
 
 or differentiated aspects of the cosmos were represented by triangles with their apex down: the masculine or undifferentiated aspect, was represented by triangles with apex up: and the two were intertwined:
 
@@ -189,7 +189,7 @@ He says:
 
 229
 
-*Theurgy and the Soul*
+
 
 Physical number is found in the lowest things, things generated and divided in bodies. For the principles mixed in bodies, both in animals and plants, are physical numbers \( *phusikoi arithmoi*\), for each of these is born, grows, and dies at determined times. And the philosopher should fit the appropriate numbers to the causes in nature.
 
@@ -259,7 +259,7 @@ to z = 7\] and wasting one’s time on them transfers the speculation from one s
 
 231
 
-*Theurgy and the Soul*
+
 
 Dillon explains that Iamblichus was criticizing the practice of
 
@@ -301,7 +301,7 @@ It is possible that mathematics did not make up what Iamblichus calls “the sim
 
 233
 
-*Theurgy and the Soul*
+
 
 that order and hence to the laws \( *nomoi*\) of hieratic worship. He was no longer under the law because he *was* the law.32
 
@@ -357,7 +357,7 @@ Assuming that Lewy’s analysis is correct, the question remains: How was the so
 
 235
 
-*Theurgy and the Soul*
+
 
 would leave the *tetraktus* unfinished, unexpressed, and imperfect.
 
@@ -417,7 +417,7 @@ Hans Meyerhoff \[New York: Bollingen Foundation, 1964\], p.283\) describes the m
 
 237
 
-*Theurgy and the Soul*
+
 
 were, indeed, mathematic rituals. In any case, the Pythagorean principles will help to explain the raison d’être of theurgic rites.
 
@@ -739,7 +739,7 @@ To return to the oracular warning, in the case of the human soul the Oracle stat
 
 239
 
-*Theurgy and the Soul*
+
 
 third level of descent and do not fall into a body, the volume. The theurgical solution to the warning now may be understood: the principal understanding of theurgy is that for the soul to remain a plane and free of volume it must *act* as a plane. That is to say, it must bestow limit to volume: it must descend \(i.e., flow\) into a body and rule it as its limit and *arche*.
 

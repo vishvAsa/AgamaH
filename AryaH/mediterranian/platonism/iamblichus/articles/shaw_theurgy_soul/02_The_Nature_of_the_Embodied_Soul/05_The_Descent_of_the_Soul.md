@@ -17,7 +17,7 @@ ppp
 
 67
 
-*Theurgy and the Soul*
+
 
 This inverted mythology may have been rooted in Jewish apocalyp-ticism, but it came to influence Platonists of the third century.
 
@@ -141,7 +141,7 @@ Plotinus says: “If any of the parts of the universe is moved according to its 
 
 69
 
-*Theurgy and the Soul*
+
 
 whole; but the others are destroyed because they are not able to endure the order of the whole.”6
 
@@ -175,7 +175,7 @@ The problem Plotinus was attempting to solve with his doctrine of the undescende
 
 In strictly Platonic terms the *novum* for Plotinus was his view of the soul as undescended, which may have been influenced by his encounter with Gnostics; for Iamblichus it was ritual theurgy. Why Iamblichus felt that theurgy was more consonant with Platonic teachings may be made clearer against the following outline of Plotinus’s debate with the Gnostics. The three positions on the suffering of the embodied soul represent the views of \(1\) the Gnostics, \(2\) Plotinus’s counter position, and \(3\) Plotinus’s later views on the soul: 71
 
-*Theurgy and the Soul*
+
 
 1. Gnostics \(as described in *Ennead* II, 9\)
 
@@ -227,7 +227,7 @@ or “patiently,” Iamblichus says: “the motion of the agent and the patient 
 
 73
 
-*Theurgy and the Soul*
+
 
 Iamblichus’s celestial gods \(souls\) mediate between the World Soul and individual souls. Like the dyad in the mathematical example, celestial gods are the “borderland” \( *metaichmion*\) between the exempt wholeness and unity of the World Soul and the multiplicity and division of individual souls. Celestial souls possess the characteristics of their extremes: like the World Soul they exist in noetic perfection, never departing from their pure condition, but like individual souls, they each possess a single and moving body.
 
@@ -251,7 +251,7 @@ The divine Iamblichus is quite correct, therefore, in attacking those who hold t
 
 75
 
-*Theurgy and the Soul*
+
 
 notion? Is it not our free will \( *prohairesis*\)? And how would it not be this? For it is by reason of this that we differ from those beings that follow impressions without reflection. If the free will sins, then how would the soul remain sinless? . . . And what is the Charioteer of the soul? Is it not the noblest, and, one might say, con-summate part of us? And how can we avoid this conclusion, if indeed this is what directs our whole being and with its own head views the supracelestial sphere and is assimilated to the “great leader” of the gods, who “drives a winged chariot” and “journeys through the heaven as a first” charioteer? And if the charioteer is the highest element in us, and he, as is said in the *Phaedrus*, sometimes is carried up aloft and raises “his head into the region outside,” while at other times he descends and \(fills his pair\) with lameness and moulting, *it plainly follows that the highest element in* *us experiences different states at different times*.14
 

@@ -39,7 +39,7 @@ Iamblichus broke away from the teachings of Porphyry and Plotinus in order to re
 
 267
 
-*Theurgy and the Soul*
+
 
 In a manner that was traditionally Platonic, Iamblichus turned to the “Egyptians” and the “Chaldeans”—that is, to barbarian wise-men—for the authority to change the direction of his philosophical tradition. The degree to which theurgy reflects genuine Egyptian cult practices may be significant,4 but it is not the central issue. At issue is Iamblichus’s belief in a sacred tradition. Only a tradition received from the gods could play the role of authoritative “other” to the fallen soul and fallen society. Deference to Egyptian wisdom in this sense was already a topos in the Platonic dialogues where “Egypt” functioned as an ideal culture against which Plato measured his own.5
 
@@ -71,7 +71,7 @@ One consequence of Iamblichus’s embodied psychology was that to reach the gods
 
 269
 
-*Theurgy and the Soul*
+
 
 However, because the Iamblichean soul was anatropic it was unable to receive this aid, which is why the Egyptian/Chaldean element becomes important. For Iamblichus, the only way the soul could receive the gods was by preparing the proper receptacles, the knowledge of which was preserved by the priests of sacred races like the Egyptians and Chaldeans. According to Iamblichus, their mystagogy was a reflection of cosmogony, and their receptacles of the gods recapitulated the act of creation. Apotheosis was realized only through the soul’s mimesis of cosmogony, and therefore an “escape”
 
@@ -93,7 +93,7 @@ relevant today as it was when Iamblichus wrote his apology for theurgy. He says:
 
 271
 
-*Theurgy and the Soul*
+
 
 Even if theurgy were limited to Platonic circles, its significance would call for a more careful examination than it has received. It is my hope that this study has made some contribution to that end.
 

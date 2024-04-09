@@ -3,7 +3,7 @@ title = "05 Preface To the Second Edition"
 
 +++
 
-I wish to thank John Riess of Angelico Press for making possible the republication of *Theurgy and the Soul*. John initially sug-gested that I consider republishing my book two years ago, and after patiently sticking with the project, and with me, he has seen the process through. The present volume is an exact facsimile of the 1995 edition with the exception of a few typographical errors corrected from the original. Nothing else has been changed, which means that the scholarship on Iamblichus since 1995 has not been integrated into this republished text. Most significantly, my references to Iamblichus’s work on theurgy use Édouard des Places’ *Jamblique: Les mystères d’Égypte* \(1966\)—the standard academic text in 1995—rather than the fine English translation and text, *Iamblichus:* *On the Mysteries* by Emma C. Clarke, John M. Dillon, and Jackson P. Hershbell \(2003\) or the impressive text, translation, and annota-tion by Henri Dominique Saffrey and Alain-Philippe Segonds, *Jamblique: Résponse à Porphyre *\( *De Mysteriis*\) \(2013\). I also want to thank John Milbank and Aaron Riches who, when they learned of Angelico’s plan to republish my book, generously offered to write a Foreword in which they draw connections between Iamblichus’s theurgy and the theology of the Incarnation. Of their stimulating Foreword and the connections they make between the Christian sacramental vision and Iamblichean theurgy I have more to say.
+I wish to thank John Riess of Angelico Press for making possible the republication of . John initially sug-gested that I consider republishing my book two years ago, and after patiently sticking with the project, and with me, he has seen the process through. The present volume is an exact facsimile of the 1995 edition with the exception of a few typographical errors corrected from the original. Nothing else has been changed, which means that the scholarship on Iamblichus since 1995 has not been integrated into this republished text. Most significantly, my references to Iamblichus’s work on theurgy use Édouard des Places’ *Jamblique: Les mystères d’Égypte* \(1966\)—the standard academic text in 1995—rather than the fine English translation and text, *Iamblichus:* *On the Mysteries* by Emma C. Clarke, John M. Dillon, and Jackson P. Hershbell \(2003\) or the impressive text, translation, and annota-tion by Henri Dominique Saffrey and Alain-Philippe Segonds, *Jamblique: Résponse à Porphyre *\( *De Mysteriis*\) \(2013\). I also want to thank John Milbank and Aaron Riches who, when they learned of Angelico’s plan to republish my book, generously offered to write a Foreword in which they draw connections between Iamblichus’s theurgy and the theology of the Incarnation. Of their stimulating Foreword and the connections they make between the Christian sacramental vision and Iamblichean theurgy I have more to say.
 
 Firstly, however, I want to reflect briefly on this book after living with it for nearly twenty years.
 
@@ -15,9 +15,9 @@ xix
 
 * * * * * * * * * * * * * * * * 
 
-*Theurgy and the Soul*
 
-Emerson says the poet “speaks adequately . . . only when he speaks somewhat wildly.”1 The author of a poem touched by this wildness knows that what he speaks is past his understanding, and so too what he writes. When I initially completed *Theurgy and the Soul* I scarcely understood what I had written.2 My engagement with Neoplatonic thinkers was like someone who has stumbled into a cave of gems. I found myself captivated by the depth and beauty of their ideas and then was even more fortunate to have been initiated into the intellectual subtlety of their vision by the late Neoplatonic scholar, Jean Trouillard. Through his writing, generosity, and hospi-tality, Trouillard revealed to me the living architecture of the world imagined by the Neoplatonists, and again, thanks to Trouillard, I was able to find my place in their world. *Theurgy and the Soul* is a work of imagination inspired by his lucidity and warmth. It has passed successfully for twenty years as an academic study of the theurgic phase of Neoplatonism, but it is more the product of my exploration of the beauty I stumbled upon in that cave of gems—
+
+Emerson says the poet “speaks adequately . . . only when he speaks somewhat wildly.”1 The author of a poem touched by this wildness knows that what he speaks is past his understanding, and so too what he writes. When I initially completed  I scarcely understood what I had written.2 My engagement with Neoplatonic thinkers was like someone who has stumbled into a cave of gems. I found myself captivated by the depth and beauty of their ideas and then was even more fortunate to have been initiated into the intellectual subtlety of their vision by the late Neoplatonic scholar, Jean Trouillard. Through his writing, generosity, and hospi-tality, Trouillard revealed to me the living architecture of the world imagined by the Neoplatonists, and again, thanks to Trouillard, I was able to find my place in their world.  is a work of imagination inspired by his lucidity and warmth. It has passed successfully for twenty years as an academic study of the theurgic phase of Neoplatonism, but it is more the product of my exploration of the beauty I stumbled upon in that cave of gems—
 
 the imagined world of the Neoplatonists.
 
@@ -42,7 +42,7 @@ xxi
 
 * * * * * * ** ** * * * * * * * * * * * * * * * * * * * * * * 
 
-*Theurgy and the Soul*
+
 
 that gods are too spiritual to be engaged in material rites is a belief that empties our world of divinity:
 
@@ -73,7 +73,7 @@ The linchpin of Milbank’s theology is the symbol, the living reality, of the I
 
 * * * * * * * * * * * * * * * * * * * * * * * * 
 
-*Theurgy and the Soul*
+
 
 intellectual incantation to free us from our dark trance. In the imagination of Milbank and Riches, the Incarnation is far greater in scope than the singular event of the life of Jesus. Rather, the Incarnation initiates the valorization of all material reality as evident in their quotation of John of Damascus who, in light of the Incarnation, imagines that *all* matter has become “filled with divine energy and grace.” It is here that Iamblichus’s emphasis on the penetration of the One throughout all material existence,8 provides precisely the metaphysical principle needed to support a more profound and expan-sive understanding of the Incarnation. Like the vision of Iamblichean theurgy—and the theology of John of Damascus—Milbank and Riches extend the boundaries of the Incarnation to include the entire material world. And in this sense they rightly see a “convergence” between Neoplatonic theurgy and Incarnational theology.
 
@@ -102,7 +102,7 @@ It may. For Iamblichus the theurgic rites of each sacred race 9. Jean Trouillard
 
 xxv
 
-*Theurgy and the Soul*
+
 
 revealed the gods in modes appropriate to their respective cultures.
 
@@ -134,7 +134,7 @@ W. den Boer et al. \(London: North-Holland, 1973\), 11.
 
 xxvii
 
-*Theurgy and the Soul*
+
 
 Milbank and Riches invite us to consider a convergence in the
 
@@ -326,7 +326,7 @@ tal than in the mortal.
 
 xxix
 
-*Theurgy and the Soul*
+
 
 mortal. ** **This no longer allows the soul to return by introspection to an “unfallen” state, as Plotinus had taught. The soul is more deeply implicated in the material world, and yet, as a Platonist, Iamblichus believed the soul is also immortal, which leads him to some profoundly paradoxical conclusions. Iamblichus’s definition of the human soul, of *every* human soul, includes paradoxes as dramatic as those invoked at Chalcedon. According to Iamblichus
 
@@ -338,7 +338,7 @@ The kenosis of a Savior who empties himself of divinity to take on mortality, th
 
 We ourselves are the Paradox Incarnate: immortal beings filled completely with mortality. This paradox of the soul is heightened by Iamblichus to such an acute degree that only Damascius in the 5th century was able to endure it. The Iamblichean soul is a *coinci-dentia oppositorum; * becoming incarnate changes not merely its activities but its very essence: our unity becomes divided, our immortality mortal, and our identity a form of self-alienation. As Iamblichus puts it, as embodied souls we are “made other” \( *het-eroiousthai*\) to ourselves.22 “Self-alienation” \( *allotriothen*\) constitutes our existence.23 Yet it is only through this experience of self-alienation that we are able to mediate the ongoing demiurgy of the cosmos. ** **Herein lies the paradox for Neoplatonic theurgy. As the 21. Simplicius \[Priscian\], *In De Anima* 89.33–37; 90.21–23. Carlos Steel has argued persuasively that the author of the Simplicius commentary on Aristotle’s *De* *Anima* was Priscian. See C. Steel, *The Changing Self*, tr. E. Haasl \(Brussels: Paleis der Academien, 1978\), 16–20. Steel’s book continues to be the single most important source for understanding the consequences and paradoxes of Iamblichus’s psychology.
 
-22. For citations, see *Theurgy and the Soul*, 114.
+22. For citations, see , 114.
 
 23. Simplicius, *In Libros Aristotelis de Anima Commentaria*, edited by M. Hayduck *CAG*, vol. 11 \(Berlin: G. Reimeri, 1882\), 223.26.
 
@@ -358,7 +358,7 @@ The theurgist takes the shape of a god while remaining human and preserving our 
 
 xxxi
 
-*Theurgy and the Soul*
+
 
 that human beings are “weak and small, possessed by a congenital nothingness \( *oudeneia*\).”26 He protects the experience of deification from our titanic intellectual appetite by maintaining a clear distinction between the divine and human. Yet, while he tells Porphyry plainly that “the divine has nothing in common with us,”27 he also says theurgic prayer “increases our divine eros \( *theion erota*\) and kindles the divine element of the soul \( *to theion tes psyches*\).”28 The paradox of Iamblichean theurgy is that both statements are true; both reflect the itinerary of theurgic deification. The theurgist remains human yet takes the shape of the gods. The language of Chalcedon is remarkably similar. Christ is described as possessing two natures, divine and human, that remain unmixed despite their
 
@@ -396,7 +396,7 @@ The geographic features of each place would reveal the appropriate mode of worsh
 
 xxxiii
 
-*Theurgy and the Soul*
+
 
 *theurgists*, are heroically addressing the aching need of their Christian and post-Christian community. In their service to this community they serve its Guardian and, with their Incarnational theology, they are breathing life back into a culture that desperately needs to become *incarnate*. I may be more securely held by the parameters of the Platonic myth than the Christian, but I have learned a great deal from Milbank and Riches about the theurgic function of the incarnate soul in Christianity *and* in Neoplatonism. For this, especially, I thank them.
 

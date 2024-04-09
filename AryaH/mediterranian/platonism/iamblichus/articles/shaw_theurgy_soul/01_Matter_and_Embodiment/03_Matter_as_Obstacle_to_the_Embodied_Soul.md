@@ -15,7 +15,7 @@ t is precisely in the turn to composite lives that the perspective on matter cha
 
 41
 
-*Theurgy and the Soul*
+
 
 That matter and embodiment were described both negatively and positively by Plato suggests that his writings were not to be taken as univocal truths but—as Iamblichus believed—spiritual exercises employed by students at different stages of development and under the careful guidance of teachers.3 While one student would be encouraged to dwell on the ascetic themes of the *Phaedo*, another would be directed to the *Symposium* to contemplate erotic connections that would be impossible unless the soul had already practiced the asceticism and withdrawal encouraged by the *Phaedo*.
 
@@ -41,7 +41,7 @@ Just as the Gods split matter with lightning and separate from it from things wh
 
 43
 
-*Theurgy and the Soul*
+
 
 In these passages matter is opposed to the gods and the body is seen as the prison from which souls are freed. Yet Iamblichus also said that matter was an impediment only for individual souls, not for the World Soul or celestial souls \(stars\). For these, embodiment produced no “injury” nor “obstacle” \( *DM* 200, 7–8\), but “to a particular soul the communion with the body is demeaning in both these respects” \( *DM* 200, 8–10\). What determined whether or not matter impeded souls was the kind of body they inhabited and the perspective this allowed them. While human souls were particular and had a partial perspective, the World Soul and celestial souls were “wholes,” complete worlds with a global perspective—a critical difference to which we will return.
 
@@ -75,7 +75,7 @@ Fragment 88: \[Nature\] persuades us to believe that *daimones* are pure, and th
 
 45
 
-*Theurgy and the Soul*
+
 
 Fragment 90: from the hollows of the earth leap chthonian dogs \(i.e., daimons\), who never show a true sign to a mortal.9
 
@@ -119,7 +119,7 @@ Iamblichus continued:
 
 47
 
-*Theurgy and the Soul*
+
 
 To be brief, the movements of fate around the world may be likened to immaterial and noetic activities and revolutions, and the order of fate resembles this intelligible and pristine order. Secondary powers \[encosmic gods\] are joined with primary causes
 

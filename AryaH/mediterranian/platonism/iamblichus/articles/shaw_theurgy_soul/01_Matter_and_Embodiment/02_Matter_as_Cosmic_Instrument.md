@@ -18,7 +18,7 @@ Iamblichus’s portrayal of matter here is clearly positive, and the reference t
 
 31
 
-*Theurgy and the Soul*
+
 
 summary of the Egyptian hierarchy: “And thus, from on high to the lowest things, the Egyptian doctrine concerning principles \( *archai*\) begins from the One and proceeds into multiplicity, and the multitude in turn is governed by the One; and everywhere the indefinite nature is ruled by a certain defined measure and by the highest uniform cause of all things” \( *DM* 264, 14–265, 6\). Not only was matter divinely created; even its furthest sensible expression was dominated by the supreme principle.2
 
@@ -62,7 +62,7 @@ In his *Introduction to the Arithmetic of Nicomachus, * Iamblichus ppp
 
 33
 
-*Theurgy and the Soul*
+
 
 again discussed the origin of the matter that was shaped by the Platonic Demiurge: “The God, *Demiurgos*, is not the creator of matter, but when he receives it, as eternal, he molds it into forms and organizes it according to numerical ratios.”8 Having already explained that form and matter in the cosmos are analogous to the monad and dyad in number \( *In* *Nic*. 78, 11–14\), Iamblichus maintained that just as numbers are derived from combinations of the monad and dyad, the manifest world is derived from a demiurgic activity that he called the “rhythmic weaving” of monadic and dyadic *archai*.9
 
@@ -122,7 +122,7 @@ tØ ·plo†n eμnai kaÁ diÅ tØ ΩrxÓn m‚n Êpårxein t©n œntvn, tÓn d�
 
 35
 
-*Theurgy and the Soul*
+
 
 fifth levels, which are composed from the last elements, evil appears, not as a guiding principle, but from something falling out and not maintaining the natural order.16
 
@@ -174,7 +174,7 @@ pandox™a ge, ˜q parektikÓn o«san kaÁ dyådoq t∂q kyrºvq ‹lhq kaÁ på
 
 37
 
-*Theurgy and the Soul*
+
 
 unlimited \( *apeiron*\) and whose mixing gave rise to the One-Being \( *to hen on*\).26
 
@@ -218,7 +218,7 @@ It was entirely parasitic on the Good. See *Proclus: Trois études sur la provid
 
 39
 
-*Theurgy and the Soul*
+
 
 “falls out of the order of nature” \( *tina ekpiptein* . . . *tou kata phusin*; *DCMS* 18, 13\).
 

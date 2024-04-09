@@ -47,7 +47,7 @@ intellect
 
 \( *Sent*. 32; 30, 6–31, 8; ed. E. Lamberz \[Leipzig: Teubner, 1975\]\) 23
 
-*Theurgy and the Soul*
+
 
 chus referred to the theme of divine mimesis, which is of central importance in his apology for theurgy.
 
@@ -663,7 +663,7 @@ vanovichv, ich
 
 25
 
-*Theurgy and the Soul*
+
 
 be an index of the degree and manner of one’s participation in the Demiurge; more specifically, Iamblichus held that the worship of embodied souls was determined precisely by their degree of material involvement \( *DM* 219–228, 13\).
 
@@ -695,7 +695,7 @@ in *The Significance of Neoplatonism* \(Norfolk, Va.: International Society for 
 
 27
 
-*Theurgy and the Soul*
+
 
 context of this problem, theurgy may be seen to bridge the gap between the psychological matter of the *Phaedo* and *Phaedrus*, with their pessimistic view of embodiment, and the cosmological matter of the *Timaeus*, which presents embodiment optimistically. The theoretic structure of this bridge was outlined in Iamblichus’s metaphysical solution to the problem of how the One becomes Many. By postulating a middle term, or, as it turns out, middle *terms*, Iamblichus allowed for continuity between irreconcilable extremes, a principle of mediation that became an integral part of post-Iamblichean Platonism.10
 
@@ -733,7 +733,7 @@ At this point we should bear in mind that Iamblichus’s term for
 
 29
 
-*Theurgy and the Soul*
+
 
 “matter.” Like most Neoplatonists, Iamblichus believed Aristotle and Plato were essentially in agreement, and he translated many of Aristotle’s theories about the physical world to the intelligible.15
 

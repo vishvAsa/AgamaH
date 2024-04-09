@@ -13,7 +13,7 @@ ne might assume, with Porphyry, that since “names” fall within the order of 
 
 If divine names, like other names, were conceptually knowable they would possess the same properties as human thoughts; Por-201
 
-*Theurgy and the Soul*
+
 
 phyry’s interest in their “meaning,” therefore, was characteristically anthropocentric and misguided. It was equivalent to seeing herbal *sunthemata* as food, or mineral *sunthemata* as building material. In short, Porphyry was caught up in the horizontal expression of the nominal *sunthemata*, and since he saw no meaning in the names, he questioned their value. For Iamblichus, however, their ineffability was their “most venerable” \( *to semnotaton*\) aspect because it awakened the ineffable presence of the divine in the soul. Thinking, by itself, could not achieve this. As Iamblichus says:
 
@@ -57,7 +57,7 @@ In a critical essay on the question of translation Claire Préaux explains the u
 
 203
 
-*Theurgy and the Soul*
+
 
 man and the divine.”4 Because of the limits of embodiment, Iamblichus allowed human rationality only a small role in these relations.
 
@@ -99,7 +99,7 @@ The contrast is twofold. In general, throughout the *De Mysteriis* Iamblichus co
 
 205
 
-*Theurgy and the Soul*
+
 
 who presumed a creative license about sacred matters. In this regard the Egyptians functioned for Iamblichus as a racial *sunthema*, and he upbraided Porphyry for thinking that he might be singling them out arbitrarily. There was nothing about the Egyptian language *qua* Egyptian, that made it sacred \(i.e., viewed “horizontally” in comparison with other languages\), but rather it was because “the Egyptians were the first human beings to be allotted participation in the Gods” \( *DM* 258, 3–5\), and sustained this connection in their language. It was due to this divine \(“vertical”\) dimension that Iamblichus honored their rituals and language.9
 
@@ -147,7 +147,7 @@ mønon parÅ tØ ÊpØ t©n z´ Ωst™rvn Ωfºesuai møna kaÁ pr√tista, ˜q
 
 207
 
-*Theurgy and the Soul*
+
 
 Iamblichus cites the authority of Ostanes and Zoroaster to explain the connection of the heptad with planetary angels. The Babylonians, Iamblichus says, call the stars “herds” \( *agelai*\) because they move together in circles and act as “bonds” \( *sundesmoi*\) and “collections”
 
@@ -235,7 +235,7 @@ Conception of Theurgy,” in *Gnosticism and Neoplatonism*, ed. R.T. Wallis and 
 
 209
 
-*Theurgy and the Soul*
+
 
 decidedly Platonic flavor in some later forms of Gnosticism;21 so, he argues, there is reason to suspect that certain Gnostics shared the theoretical presuppositions of the Neoplatonists.22 Since the Gnostics did not provide a theoretical framework to explain their rites and Iamblichus did not provide concrete ritual data, Pearson’s study is useful for both scholars of Gnosticism and later Neoplatonism.
 

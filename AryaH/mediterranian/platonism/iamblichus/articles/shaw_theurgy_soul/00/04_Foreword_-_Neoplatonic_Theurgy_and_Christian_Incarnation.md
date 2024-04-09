@@ -11,11 +11,11 @@ And if on the one hand we are seeing that Christianity inherited a certain “He
 
 * * * * * * * * * * * * * * 
 
-*Theurgy and the Soul*
+
 
 nated by the old mischaracterization and now freshly aware of the integrity of the double inheritance; and in particular how Christian liturgy, the sacramental practice of the Church and the metaphysics of the Incarnation owe a perhaps significant debt to the pagan Platonic tradition. The seminal work of Gregory Shaw stands at the crossroads of this new realization.
 
-*Theurgy and the Soul* is a profound introduction and account of Iamblichian theurgy, “a ‘work of the gods’ capable of transforming man to a divine status” \(5\). Theurgy, as Shaw shows us, originated with the second-century Platonists, who used the term to explain the divinizing power of the rites of the Chaldean Oracles, some of which were thought to have been transmitted by the soul of Plato himself. In the performance of these rites, Iamblichus understood the goal of philosophy to be accomplished, namely, union with the divine. And thus, as Shaw outlines, Iamblichus sets out the definitive Platonic apology and rationale for theurgy, which after him became integral to the Neoplatonic tradition from the pagan Proclus to the Christian Denys the pseudo-Areopagite. These theurgic rites, as far as we can tell, approximate something of the “sacramental,” in that “matter” \( *hyle*\) is used within a cultic rite to effect divine union. As Iamblichus puts it in *De Mysteriis*, in a passage outlined by Shaw,
+ is a profound introduction and account of Iamblichian theurgy, “a ‘work of the gods’ capable of transforming man to a divine status” \(5\). Theurgy, as Shaw shows us, originated with the second-century Platonists, who used the term to explain the divinizing power of the rites of the Chaldean Oracles, some of which were thought to have been transmitted by the soul of Plato himself. In the performance of these rites, Iamblichus understood the goal of philosophy to be accomplished, namely, union with the divine. And thus, as Shaw outlines, Iamblichus sets out the definitive Platonic apology and rationale for theurgy, which after him became integral to the Neoplatonic tradition from the pagan Proclus to the Christian Denys the pseudo-Areopagite. These theurgic rites, as far as we can tell, approximate something of the “sacramental,” in that “matter” \( *hyle*\) is used within a cultic rite to effect divine union. As Iamblichus puts it in *De Mysteriis*, in a passage outlined by Shaw,
 
 Since it was necessary that earthly things not be deprived of participation in the divine, the earth received a certain divine portion capable of receiving the Gods. The theurgic art, therefore, recognizing this principle in general, and having discovered the proper receptacles, in particular, as being appropriate to each one of the Gods, often brings together stones, herbs, animals, aromatics, and other sacred, perfect, and deiform objects of a similar kind. Then, from all these it produces a perfect and pure receptacle. \( *DM* 233, 7–16\)
 
@@ -45,7 +45,7 @@ All of this is based on Iamblichus’s modification of Plotinus, for whom the in
 
 * * * * * * * * * * * * 
 
-*Theurgy and the Soul*
+
 
 tion, from the “sacramental,” and from images; indeed it is only *via* these material facts that the soul receives \(as by a quasi-“Grace”\) the theurgy of the gods, the divine action that transforms the soul into godlikeness. All of this is remarkably akin to the sacramental and liturgical practice of Christianity, which finally understands the ascent of the human soul to God, not so much as a mere ascent of the soul, but rather as a paradoxical ascent of the soul rooted in the Incarnate descent of God from heaven relived and participated in Christian liturgy, which insofar as it is a “work-of-the-people” is finally and most truly a grace imbued by the power and action of the Holy Spirit.
 
@@ -75,7 +75,7 @@ ix
 
 * * * * * * * * * * * * * * 
 
-*Theurgy and the Soul*
+
 
 lectuality, psychic existence—which always consists within itself in a triad of remaining, outgoing, and reversion. This triad can also be constituted as imparticipable, participated, and participating. However, it is clear that the “imparticipable” element at the top of the triad itself shares in the next level above it and transmits this upper level economically within its own level via the outgoing to the lower elements within its own triadic series, which “rebound” upwards.
 
@@ -111,7 +111,7 @@ xi
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
 
-*Theurgy and the Soul*
+
 
 *Confessiones. * 9 * * It is the singing of a psalm that “shows” \(in a Witt-gensteinian sense\) the answer to the conundrum of time. For Augustine quite clearly, the liturgical action is only possible because God himself has descended into time at the Incarnation in order to counteract its fallen tendency to “dispersal”; and this stipulation later becomes *the* key difference between the Iamblichian and Dionysian “theurgies.”10 Nevertheless the resonance here is remarkable. Finally, the entire book concludes with a joining of the self with the cosmos to sing a cosmic hymn of praise.
 
@@ -149,7 +149,7 @@ I do not venerate matter \( *hyle*\), I venerate the fashioner of matter, who be
 
 xiii
 
-*Theurgy and the Soul*
+
 
 from reverencing matter, through which my salvation was worked. . . . \[For\] if the body of God has become God unchangeably through the hypostatic union, what gives anointing remains, and what was by nature flesh animated with a rational and intellectual soul is formed, it is not uncreated. Therefore I reverence the rest of matter and hold in respect that through which my salvation came, because it is filled with divine energy and grace.15
 
@@ -189,7 +189,7 @@ If the structural parallels between Christianity and theurgic Neoplatonism exten
 
 xv
 
-*Theurgy and the Soul*
+
 
 while prayer is not about changing the minds of the gods, neither is it mere self-therapy. Instead it is the theoretical and practical endeavor to arrive at a kind of “attunement” with the divine that will truly allow the divine influence to flow into reality. No doubt our “attuning” is also ultimately the work of the gods, but that issue of causality lies at another ontological level. On the finite level there is a genuine synergy. When it comes to the issue of how far the divine side of causal influence belongs to the divine essence itself, it is clear that increasingly Iamblichus ascribes to the notion of a single “divine world” comprised of the One, the Good, gods, daemons and heroes, over against the non-divine world.24
 
