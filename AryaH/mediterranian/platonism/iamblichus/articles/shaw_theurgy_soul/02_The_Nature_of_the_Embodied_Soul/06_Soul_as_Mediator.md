@@ -3,25 +3,49 @@ title = "06 Soul as Mediator"
 
 +++
 
-*The existence of souls is lowest, *
-
+> *The existence of souls is lowest, *
 *deficient, and imperfect…*
 
-n the *De Anima* 1 Iamblichus outlined his differences with Plotinus on the doctrine of the soul and developed his own position Iin more detail. Although the treatise is valuable as a doxography of the philosophical schools of antiquity, Iamblichus’s own position is evident, and the rationale for his psychology lends support to his adoption of theurgy as the praxis necessary for the embodied soul.
+In the *De Anima* [^1] Iamblichus outlined his differences with Plotinus on the doctrine of the soul  
+and developed his own position in more detail.
 
-The first part of the treatise discusses the essence \( *ousia*\) of the soul and the philosophers who define it as incorporeal, including those who equate the soul with all other incorporeals. Iamblichus says:
+[^1]: See A.-J. Festugière’s translation and commentary, “Traité de l’âme,” *La Rév*. 3:177–264. Compare B.D. Larsen’s discussion of this treatise, B.D. Larsen, *Jamblique* *de Chalcis: Exégète et philosophe* \(Aarhus: Universitetsforlaget, 1972\), 197–213. Larsen argues that Iamblichus makes use of Aristotelian methods to pursue Platonic themes. By drawing parallels with Iamblichus’s other writings Larsen demonstrates how Iamblichus’s philosophic positions support theurgy.
 
-There are some who maintain that all parts of this incorporeal substance are alike and one and the same, so that the whole exists in any part of it. They even place in the individual soul the Intelligible World, the Gods, the *Daimones*, the Good, and all races superior to the soul; and in each soul they contend that all these exist in the same way, though for each in a manner appropriate to its essence. Holding this opinion without question is Numenius, and Plotinus agrees with it, though not entirely, Amelius vacillates towards it, and Porphyry is in doubt about it, sometimes 1. See A.-J. Festugière’s translation and commentary, “Traité de l’âme,” *La Rév*.
 
-3:177–264. Compare B.D. Larsen’s discussion of this treatise, B.D. Larsen, *Jamblique* *de Chalcis: Exégète et philosophe* \(Aarhus: Universitetsforlaget, 1972\), 197–213. Larsen argues that Iamblichus makes use of Aristotelian methods to pursue Platonic themes. By drawing parallels with Iamblichus’s other writings Larsen demonstrates how Iamblichus’s philosophic positions support theurgy.
+Although the treatise is valuable as a doxography of the philosophical schools of antiquity,  
+Iamblichus’s own position is evident,  
+and the rationale for his psychology lends support to his adoption of theurgy  
+as the praxis necessary for the embodied soul.
 
-78
+The first part of the treatise discusses the essence \( *ousia*\) of the soul  
+and the philosophers who define it as incorporeal,  
+including those who equate the soul with all other incorporeals.  
+Iamblichus says:
 
-*Soul as Mediator*
+> There are some who maintain that all parts of this incorporeal substance are alike  
+> and one and the same,  
+> so that the whole exists in any part of it.  
+> They even place in the individual soul, the Intelligible World, the Gods, the *Daimones*, the Good, and all races superior to the soul;  
+> and in each soul they contend that all these exist in the same way,  
+> though for each in a manner appropriate to its essence.  
+> Holding this opinion without question is Numenius, and Plotinus agrees with it, though not entirely,  
+> Amelius vacillates towards it,  
+> and Porphyry is in doubt about it, sometimes [[78]] he earnestly rejects it  
+> and sometimes he follows it completely as having been handed down from on high.  
+> 
+> According to this view, the soul, considering its entire essence,  
+> is in no way different from the *Nous*, the Gods, or the Superior Races. \( *Stob*. I, 365, 7–21\)  
 
-he earnestly rejects it and sometimes he follows it completely as having been handed down from on high. According to this view, the soul, considering its entire essence, is in no way different from the *Nous*, the Gods, or the Superior Races. \( *Stob*. I, 365, 7–21\) According to Iamblichus this view failed to make distinctions within the incorporeal realm itself, so that from the human soul to the Good all incorporeals were considered as more or less equivalent. In contrast Iamblichus drew clear distinctions between ontological levels of the incorporeal realm.2 He says:
+According to Iamblichus this view failed to make distinctions within the incorporeal realm itself,  
+so that from the human soul to the Good  
+all incorporeals were considered as more or less equivalent.  
+In contrast Iamblichus drew clear distinctions between ontological levels of the incorporeal realm.[^2]  
+He says:
 
-The doctrine opposed to this, however, makes the soul a separate entity, inasmuch as it is generated second after the *Nous* as a different hypostasis, and that part of it which is noetic is explained as being dependent on the *Nous* along with the power of subsisting independently on its own, and it separates the soul also from all the classes of being superior to itself and assigns to it, as the particular definition of its essence, either \[1\] the mean between the divisible and indivisible, the corporeal and the incorporeal beings, or \[2\] the totality of the universal *logoi*, or \[3\] that which, after the Forms, is at the service of the work of creation, or \[4\] that Life which has Life of itself, which proceeds from the *Nous*, or \[5\] again the procession of the classes of Real Being as a whole to an inferior status. Indeed, Plato himself, Pythagoras, Aristotle, and all of the Ancients whose great names are praised for wisdom, were absolutely convinced of these doctrines \(as anyone would discover if he were to study their teachings with care\). And truthfully, we will attempt to construct our entire treatise around these teachings.3
+> The doctrine opposed to this, however,  
+> makes the soul a separate entity,  
+> inasmuch as it is generated second after the *Nous* as a different hypostasis,  
+> and that part of it which is noetic is explained as being dependent on the *Nous* along with the power of subsisting independently on its own, and it separates the soul also from all the classes of being superior to itself and assigns to it, as the particular definition of its essence, either \[1\] the mean between the divisible and indivisible, the corporeal and the incorporeal beings, or \[2\] the totality of the universal *logoi*, or \[3\] that which, after the Forms, is at the service of the work of creation, or \[4\] that Life which has Life of itself, which proceeds from the *Nous*, or \[5\] again the procession of the classes of Real Being as a whole to an inferior status. Indeed, Plato himself, Pythagoras, Aristotle, and all of the Ancients whose great names are praised for wisdom, were absolutely convinced of these doctrines \(as anyone would discover if he were to study their teachings with care\). And truthfully, we will attempt to construct our entire treatise around these teachings.3
 
 Iamblichus defined the essence of the human soul with characteristics that describe its function as mediator between irreconcilable extremes \( *Tim. * 34c–36e\). In the *Timaeus* it is through the mathematical mediation of soul that the indivisible appears as ordered divisions of the cosmos. The human soul’s essence, therefore, lay precisely in its mediating role, and Iamblichus’s strict 2. Cf. *DM* 50, 6 where Iamblichus says that it would be out of place to put such things as “time,” a “line,” and “god” in the same genus simply because they are
 
@@ -45,7 +69,7 @@ Iamblichus’s *De Anima* was clearly influenced by the language and the method 
 
 80
 
-*Soul as Mediator*
+
 
 essence and an activity, put forth from the essence on the one hand, and itself generating the activity on the other.6
 
@@ -109,7 +133,7 @@ Like all entities in tertiary procession from the Demiurge, the acts of embodied
 
 82
 
-*Soul as Mediator*
+
 
 Since the body reflected the activity of the soul, it also indicated the kind of soul that animated it.12 The bodies of celestial souls, for example, were perfectly receptive to their lords and revealed them by their circular activity.13 These were the self-perfect souls \( *autoteleis*\) whose actions were realized within their essences. Their *arche* and *telos* were simultaneous. The activity/manifestation of the embodied soul, however, lacked the capacity to receive the powers of the soul at once; they had to be developed over time as the soul gradually bore the fruit of its different psychic powers. Iamblichus describes this progressive animation:
 
@@ -143,7 +167,7 @@ The Neoplatonists’ juxtaposition of Aristotle’s technical virtuosity with Pl
 
 84
 
-*Soul as Mediator*
+
 
 Movers.15 According to Aristotle, each was a species unto itself, not under a common genus, and not to be synthesized or combined.16
 
@@ -189,7 +213,7 @@ of the human soul is *authupostaton*, which Iamblichus coined in his treatise on
 
 86
 
-*Soul as Mediator*
+
 
 souls of humans,21 by referring to the *ousia-dunamis-energeia* triad in each class. His distinctions are as follows:22
 
@@ -255,7 +279,7 @@ Iamblichus also includes the following distinctions:
 
 88
 
-*Soul as Mediator*
+
 
 Unlike the system of Plotinus, where the soul could transcend its hypostasis and attain union with the One, Iamblichus fixed the soul in its ontological rank. He allowed it to rise higher than its given class but only through the benevolent will of the gods; regardless of its degree of ascent the soul remained distinctly soul: The soul is attached to the Gods with other harmonies of essences and powers than those by which *Daimones* and Heroes are joined to them. And though it possesses an eternity of life and activity similar to, but in a less degree than *Daimones* and Heroes, due to the good will of the Gods and the illumination of light imparted by them the soul often is elevated higher and is lifted up to a greater order, the angelic. Indeed, then it no longer remains within the limits of “soul,” but the whole of it is perfected into an angelic soul and an immaculate life. Whence indeed, it seems \( *dokein*\) that the soul comprehends in itself all manner of essences, activities, ratios, and ideas of every kind. *But if it is necessary to speak the* *truth, the soul is always limited according to one certain class, but by* *joining itself to its ruling causes it is sometimes aligned with one* *group, sometimes with another*. \( *DM* 69, 5–19\) Iamblichus almost allows the soul to embrace all the higher essences like the Plotinian soul. This, however, would give it the characteristics of a god, not a soul \( *DM* 28, 18–20\); what separated Iamblichus from Plotinus in this regard was his cautionary *dokei* and subsequent explanation.
 
