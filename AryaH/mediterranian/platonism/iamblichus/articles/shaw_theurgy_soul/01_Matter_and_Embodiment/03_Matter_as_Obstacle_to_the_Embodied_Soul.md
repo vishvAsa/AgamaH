@@ -318,7 +318,7 @@ Iamblichus continued:
 > In accord with this same essence, then, fate is interwoven with providence  
 > and, in reality, *fate is providence*, is established from it and around it.
 
-This being the case,  
+> This being the case,  
 the principle of human actions moves in concert with both these principles of the cosmos \[fate and providence\].  
 But there is also a principle of action  
 liberated from nature and free from the movement of the cosmos.  
@@ -328,19 +328,36 @@ Thus, it is not introduced from nature
 nor from any motion  
 but is pre-established as more ancient,  
 not having been derived from anything.[^19]
+>
+> Wherefore, since the soul is allotted certain parts from all the parts and elements of the cosmos and uses these,  
+> it is contained in the order of fate,  
+> takes its place in this order,  
+> fulfills its conditions,  
+> and makes proper use of it.  
+> And to the degree that the soul combines in itself pure reason, self-substantiated and self-moved,  
+> acting from itself and perfect,  
+> it is liberated from all external things.+++(4)+++
+>
+> But to the degree that the soul extends into different modes of life,  
+> falls into generation, and identifies with the body,  
+> it is sewn into the order of the world. \( *Stob*. II, 173, 26–174, 27\) +++(4)+++
 
-Wherefore, since the soul is allotted certain parts from all the parts and elements of the cosmos and uses these, it is contained in the order of fate, takes its place in this order, fulfills its conditions, and makes proper use of it. And to the degree that the soul combines in itself pure reason, self-substantiated and self-moved, acting from itself and perfect, it is liberated from all external things.
+[^19]: 
 
-But to the degree that the soul extends into different modes of life, falls into generation, and identifies with the body, it is sewn into the order of the world. \( *Stob*. II, 173, 26–174, 27\) The “parts” given to each soul from the totality of the cosmos made up its astrological portrait, and it was this confluence of elements at a particular juncture in time and space that made up the 19. Iamblichus referred to this “more ancient” and “pre-existent” principle to distinguish theurgical divination from human divination \( *DM* 165, 14–166, 1\). In the *De Mysteriis* Iamblichus often referred to astrology, one of the important forms of divination in late antiquity, and this passage on “fate” should be understood in an astrological context. One’s fate was commonly believed to be determined by one’s astral nativity—a point Iamblichus denies \( *DM* 270, 9–11\). Note also in this passage that Iamblichus mentions repeatedly that the soul is free from astral determinism; the soul is *apolutos* \( *Stob*. 174, 12\), *aphetos* \(173, 14\), and *authairetos* \(173, 15\). Iamblichus’s argument draws, in large part, from the Stoics’ accommodation of
+    Iamblichus referred to this “more ancient” and “pre-existent” principle to distinguish theurgical divination from human divination \( *DM* 165, 14–166, 1\). 
 
-“fate” and “providence.” Cf. Auguste Bouché-Leclercq, *Astrologie grecque* \(Brussels: Culture et Civilisation, 1963\), 31–32.
+    In the *De Mysteriis* Iamblichus often referred to astrology, one of the important forms of divination in late antiquity, and this passage on “fate” should be understood in an astrological context. One’s fate was commonly believed to be determined by one’s astral nativity—a point Iamblichus denies \( *DM* 270, 9–11\). 
 
-48
+    Note also in this passage that Iamblichus mentions repeatedly that the soul is free from astral determinism; the soul is *apolutos* \( *Stob*. 174, 12\), *aphetos* \(173, 14\), and *authairetos* \(173, 15\). Iamblichus’s argument draws, in large part, from the Stoics’ accommodation of “fate” and “providence.” Cf. Auguste Bouché-Leclercq, *Astrologie grecque* \(Brussels: Culture et Civilisation, 1963\), 31–32.
 
-soul’s localized self, the somatic testing ground that measured the soul’s ability to integrate corporeal existence into a divine pattern.
 
-Failure to fulfill the conditions of the body resulted in fixations, unfulfilled conditions, and the subsequent suffering of “fate.” The proper care of the body and somatic life, however, freed the soul from these bonds and allowed it, as Iamblichus says, to see “the turnings of fate to be like the perfect revolutions of the stars” \( *Stob*.
+The “parts” given to each soul from the totality of the cosmos made up its astrological portrait,  
+and it was this confluence of elements at a particular juncture in time and space that made up the [[48]] soul’s localized self, the somatic testing ground that measured the soul’s ability to integrate corporeal existence into a divine pattern.
 
-II, 173, 26–28\).
+Failure to fulfill the conditions of the body  
+resulted in fixations, unfulfilled conditions, and the subsequent suffering of “fate.”  
+The proper care of the body and somatic life, however,  
+freed the soul from these bonds and allowed it, as Iamblichus says,  
+to see “the turnings of fate to be like the perfect revolutions of the stars” \( *Stob*. II, 173, 26–28\).
 
-49
+[[49]]

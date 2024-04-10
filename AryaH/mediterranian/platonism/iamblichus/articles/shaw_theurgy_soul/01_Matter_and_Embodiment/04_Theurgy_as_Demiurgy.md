@@ -9,9 +9,24 @@ In the *De Mysteriis* Iamblichus described the human soul as the *eschatos kosmo
 
 > “Recognize, if you will, the lowest of divine beings: the soul purified from the body”+++(5)+++
 
-\( *DM* 34, 8\). Because the human soul was the lowest divinity it suffered with the mortal lives that it sustained. Identified with only “certain parts” of the cosmos, the soul lost its perspective of the “whole” and become absorbed into the flux of mortal life.
+\( *DM* 34, 8\). Because the human soul was the lowest divinity it suffered with the mortal lives that it sustained.  
+Identified with only “certain parts” of the cosmos, the soul lost its perspective of the “whole” and become absorbed into the flux of mortal life.
 
-Since matter cannot be discussed, from an existential perspective, apart from the soul’s experience of it, one may assume that Iamblichus’s negative remarks about matter in the *De Mysteriis* describe, in fact, the soul’s experience of matter. Though Iamblichus used the same term, *hule* \(or its functional equivalents: *soma*, *phusis*, *genesis*\), it was not the *hule* of the *Theology of Numbers* or the *hule* produced from the paternal monad in the *De Mysteriis*. It is one thing to speak about matter philosophically or theologically—in an abstract or theoretical way—quite another to experience matter and to outline a practical discipline to free souls from its constraints. However, apart from telling Porphyry that he will answer questions philosophically, theologically, or theurgically as he deemed appropriate, Iamblichus did not explicitly signal the shifts in his discourse \( *DM* 7, 2–6\). What was undoubtedly clear to himself and his readers is not always clear to us. Being accustomed to a more univocal use of terms, the modern reader of the *De Mysteriis* will likely miss these contextual shifts and find Iamblichus’s use of terms inconsistent and confusing.[^1]
+Since matter cannot be discussed, from an existential perspective,  
+apart from the soul’s experience of it,  
+one may assume that Iamblichus’s negative remarks about matter in the *De Mysteriis* describe,  
+in fact, the soul’s experience of matter.  
+
+Though Iamblichus used the same term, *hule* \(or its functional equivalents: *soma*, *phusis*, *genesis*\),  
+it was not the *hule* of the *Theology of Numbers*  
+or the *hule* produced from the paternal monad in the *De Mysteriis*.  
+It is one thing to speak about matter philosophically or theologically—in an abstract or theoretical way—  
+quite another to experience matter and to outline a practical discipline to free souls from its constraints.  
+However, apart from telling Porphyry that he will answer questions philosophically, theologically, or theurgically as he deemed appropriate,  
+Iamblichus did not explicitly signal the shifts in his discourse \( *DM* 7, 2–6\).  
+What was undoubtedly clear to himself and his readers is not always clear to us.  
+Being accustomed to a more univocal use of terms,  
+the modern reader of the *De Mysteriis* will likely miss these contextual shifts and find Iamblichus’s use of terms inconsistent and confusing.[^1]+++(5)+++
 
 [^1]: Hadot describes this problem in “Exercices spirituels,” in *Annuaire: Ecole Pratique des Hautes Etudes* \(Paris, 1976–77\), 63–70.
 
@@ -19,7 +34,9 @@ Since matter cannot be discussed, from an existential perspective, apart from th
 
 
 
-Therefore, in spite of Iamblichus’s pejorative descriptions of matter in the *De Mysteriis*, it was not viewed negatively, nor was embodiment per se. For later Neoplatonists, the body was understood as an integral part of a larger process. As Trouillard put it:
+Therefore, in spite of Iamblichus’s pejorative descriptions of matter in the *De Mysteriis*,  
+it was not viewed negatively, nor was embodiment per se.  
+For later Neoplatonists, the body was understood as an integral part of a larger process. As Trouillard put it:
 
 > “The body that the soul animates and through which it is placed in the cosmos  
 > is not an extrinsic addition but  
@@ -76,9 +93,19 @@ Nevertheless, Iamblichus did refer to material objects used in theurgic rites an
 
 
 
-Since it was necessary that earthly things not be deprived of participation in the divine, the earth received a certain divine portion capable of receiving the Gods. The theurgic art, therefore, recognizing this principle in general, and having discovered the proper receptacles, in particular, as being appropriate to each one of the Gods, often brings together stones, herbs, animals, aromatics, and other sacred, perfect, and deiform objects of a similar kind. Then, from all these it produces a perfect and pure receptacle. \( *DM* 233, 7–16; cf. *DM* 235, 6–12\)
+> Since it was necessary that earthly things not be deprived of participation in the divine,  
+the earth received a certain divine portion capable of receiving the Gods.  
+The theurgic art, therefore, recognizing this principle in general,  
+and having discovered the proper receptacles, in particular,  
+as being appropriate to each one of the Gods,  
+often brings together stones, herbs, animals, aromatics, and other sacred, perfect, and deiform objects of a similar kind.  
+> Then, from all these it produces a perfect and pure receptacle. \( *DM* 233, 7–16; cf. *DM* 235, 6–12\)
 
-Such objects served as receptacles of the gods because they preserved an intimate relation with them and bore their “signatures” \( *sunthemata*\) in the manifest world.+++(5)+++ As such they were pure specimens of divine presence in matter, and for souls suffering a specific imbalance within the administration of a divine being, the objects that bore its symbol/ *sunthema* became homeopathic antidotes if handled in a ritually appropriate manner. Iamblichus explains:
+Such objects served as receptacles of the gods because they preserved an intimate relation with them and bore their “signatures” \( *sunthemata*\) in the manifest world.+++(5)+++ As such they were pure specimens of divine presence in matter,  
+and for souls suffering a specific imbalance within the administration of a divine being,  
+the objects that bore its symbol/ *sunthema* became homeopathic antidotes if handled in a ritually appropriate manner.  
+
+Iamblichus explains:
 
 > “Therefore, whether \(it is\) certain animals or plants or any of the other things on earth governed by Superior Beings,  
 > they simultaneously share in their inspective care and procure for us an indivisible communion with the Gods” \( *DM* 235, 5–9\). 
@@ -133,7 +160,7 @@ Iamblichus continues:
 > in this same way God reveals ideas \( *noemata*\) that transcend all \[human\] knowledge through things deprived of knowledge” \( *DM* 142, 5–10\).+++(5)+++
 
 Iamblichus’s use of material objects in theurgy  
-and his praise of their divine power was a correlate to his critique of human intellectual power.  
+and his praise of their divine power was a correlate to his critique of human intellectual power.+++(5)+++  
 Man’s incapacity to achieve union with the gods  
 was made particularly evident in rites that employed insentient objects  
 to achieve an experience that surpassed reason. The point, in short, was that theurgy is “divine action, not human” \( *DM* 142, 7\),  
@@ -143,7 +170,8 @@ The *sunthemata* embedded in nature
 were not limited to dense matter  
 but were also present in certain incantations \( *DM* 133, 18\), concoctions \( *DM* 133, 18\), characters traced \[on the earth\] \( *DM* 129, 15–17\), and in the ineffable names that were able to draw souls into the presence of the gods \( *DM* 157, 13–16\).+++(5)+++  
 
-Iamblichus also mentions certain melodies and rhythms that gave the soul direct \( *euthus*; *DM* 119, 6\) participation in the gods.[^9]  
+Iamblichus also mentions certain melodies and rhythms  
+that gave the soul direct \( *euthus*; *DM* 119, 6\) participation in the gods.[^9]  
 The *sunthemata*, in whatever expression, were divinizing, and for the same reason:  
 they bore the impress of the god  
 and were able to awaken souls to the divinity they symbolized.
@@ -161,6 +189,7 @@ and were able to awaken souls to the divinity they symbolized.
 In theurgy, anything that received the god and mediated its presence  
 functioned as a sacred receptacle  
 whether it was a stone, a plant, a smell, or a song.  
+
 All functioned as *hule* with respect to the divine agent which they received and revealed.[^10] Thus, even a “vision” that mediated the presence of a god was a kind of *hule*. Iamblichus explains:
 
 > One must be convinced by secret teachings that a certain matter is given by the Gods by means of blessed visions.  
@@ -175,7 +204,9 @@ that receives and reveals the gods in cosmogony \( *DM* 232, 17\).
 As the soul became increasingly purified by theurgy so that it received such visions,  
 its experience of matter became less like that of the *Phaedo*  
 and more like the cosmological matter of the *Timaeus*,  
-transforming the entire world into an immense receptacle, a *sunthema* revealing the “will of the gods.”[^11]+++(5)+++ From a theurgic perspective, the cosmos was a temple whose sacrificial orders were designed by the Demiurge \( *DM* 65, 6–8\).+++(5)+++
+transforming the entire world into an immense receptacle,  
+a *sunthema* revealing the “will of the gods.”[^11]+++(5)+++  
+From a theurgic perspective, the cosmos was a temple whose sacrificial orders were designed by the Demiurge \( *DM* 65, 6–8\).+++(5)+++
 
 [^10]: 
 
@@ -228,6 +259,8 @@ yet particular and mortal \( *DM* 235, 13–14\); in somatic terms
 this was the result of having filled the measures of his immortal *augoeides* *soma*,  
 the soul’s “star body,” which was visualized as a sphere.
 
+
+## Ochema
 The doctrine of the “soul vehicle” \( *ochema*\) in the Platonic tradition  
 is essential for understanding the manner in which the later Platonists visualized immortality.[^12]  
  
@@ -253,7 +286,7 @@ yet still allowed for the multitude of activities engaged in by a mortal and emb
 Iamblichus often repeats the Neoplatonic principle that “like approaches like,”[^14]  
 and in the case of a particular embodied soul  
 the only way to reach the universality of the World and celestial souls  
-was to become like them, that is, spherical.  
+was to become like them, that is, spherical.+++(5)+++  
 Thus, Iamblichus says:
 
 > “Wherefore, also our vehicle \( *ochema*\) is made spherical  
@@ -274,7 +307,11 @@ Blumenthal suggests that the psychic vehicle/faculty \(i.e., imagination\) was u
 to keep the higher principles from being stained by the lower.+++(4)+++  
 
 While this may be the case for Plotinus, it was not so for the later Neoplatonists.  
-In “Réflexions sur *l’OCHEMA*,” Trouillard argues that for Proclus the *ochema*, while separating distinct levels of the soul in the cosmos, at the same time joins them, preserving a continuity through all levels. In terms of salvation, the vehicle of the soul and its “imaginal body” became the “place” where the soul forgot or remembered its immortality.+++(5)+++
+In “Réflexions sur *l’OCHEMA*,” Trouillard argues that for Proclus  
+the *ochema*, while separating distinct levels of the soul in the cosmos,  
+at the same time joins them, preserving a continuity through all levels.  
+In terms of salvation,  
+the vehicle of the soul and its “imaginal body” became the “place” where the soul forgot or remembered its immortality.+++(5)+++
 
 [^13]: *DM* 200, 7–8; cf. 202, 13–203, 9 for the ungenerated and impassive “aetherial body” of the heavens, and 212, 5 for the “impassive light-vehicle” of daimons.
 
@@ -296,6 +333,7 @@ for the sphere, Iamblichus says,
 
 The theurgist became spherical. He “took on a divine appearance” \( *DM* 184, 8\) but remained a man. His apotheosis demanded not only that he activate his aetheric and immortal body but also that he remain bound to his mortal life.
 
+## Divinization
 To the degree that a theurgist was divinized and assimilated to the Demiurge \( *DM* 292, 14–17\)  
 he necessarily shared the benign interest of the Demiurge in generated life, including his own.  
 Any aversion he may have felt toward his mortal existence was therefore overcome by his experience of the “whole,”  
@@ -336,7 +374,7 @@ to be followed by a positive reinvestment in particulars. Iamblichus says:
 
 Of the eight attributes,  
 only the first is negative,  
-and Iamblichus specifically faults the view of those who defined catharsis  
+and Iamblichus specifically faults the view of those who defined catharsis+++(=purification)+++  
 as a withdrawal from matter.+++(5)+++  
 He says: 
 
@@ -371,6 +409,7 @@ while apparently distressful to that part,
 was necessary and beneficial to the harmony of the “whole,”  
 a principle which, Iamblichus says, “we see exemplified clearly in a dance” \( *DM* 56, 14–15\).+++(5)+++
 
+## Evils
 Evils rooted in corporeal necessities were inevitable and unavoidable,  
 but moral evils and perverse acts derived from man’s poorly receiving the emanations of the celestial gods,  
 manipulating them for selfish ends,  
@@ -430,14 +469,13 @@ the blessedness of embodiment as portrayed in the *Timaeus*
 was available to the particular soul only by imitating the activity of the Demiurge,  
 and this was possible only through theurgic rites.+++(5)+++
 
-ppp
 
 [^17]: Iamblichus refers to this theme throughout the *De Mysteriis*; see, for example, book IV, chap. 9.
 
 61
 
 
-
+## Theurgy
 The meaning of theurgy in the history of Platonism becomes clear  
 if it is seen as the praxis  
 that allowed souls to move from the experience of embodiment as an isolated prison  
@@ -534,7 +572,7 @@ transfer this order to the phenomenal world.
 63
 
 
-
+### Siddhi
 The perfect theurgist became an embodied Demiurge[^22]  
 whose presence was enough to create harmony out of discord  
 and drive away evil.+++(5)+++ Iamblichus says:
