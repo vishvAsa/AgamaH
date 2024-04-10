@@ -235,34 +235,29 @@ Thus, matter and the soul’s use of matter
 played an indispensable role in theurgy  
 as it did in cosmogony.  
 The soul could no more realize its salvation without embracing matter  
-than the Demiurge could create the cosmos without the formless receptacle that gave expression to the Forms \( *Tim*. 48e–49a\). The difference, however, is that while the soul’s embrace of matter was piecemeal, following the cycles of time, the act of the Demiurge on matter was simultaneous and complete, and it is precisely in this “difference”
+than the Demiurge could create the cosmos  
+without the formless receptacle that gave expression to the Forms \( *Tim*. 48e–49a\).  
+The difference, however, is that while the soul’s embrace of matter was piecemeal,  
+following the cycles of time,  
+the act of the Demiurge on matter was simultaneous and complete,  
+and it is precisely in this “difference” that Iamblichean theurgy must be understood.
 
-that Iamblichean theurgy must be understood.
+At this point we should bear in mind that Iamblichus’s term for “matter” was coined by Aristotle  
+who said that Plato’s material principle, which was called “space” \( *chora*\) \(Tim. 52b\), “receptacle” \( *hupodoche*\), “mother” \( *meter*\), and “nurse” \( *tithene*\) \( *Tim*. 49b\), was equivalent to the term *hule*: “the receptive space \( *chora*\) of Plato’s *Timaeus* is the same as matter \( *hule*\)” \( *Physics* 209b, 11–13\).
 
-At this point we should bear in mind that Iamblichus’s term for
+[^12]: This theme is examined in the social and institutional life of late antiquity by Jonathan Z. Smith in three essays: “The Influence of Symbols on Social Change: A Place on Which to Stand,” “Birth Upside Down or Right Side Up?” and “The Temple and the Magician,” in *Map is Not Territory* \(Leiden: E.J. Brill, 1978\), 129–89.
 
-“matter” was coined by Aristotle who said that Plato’s material principle, which was called “space” \( *chora*\) \(Tim. 52b\), “receptacle”
+[^13]: The attestations for Iamblichus as *theios* are numerous. See Eduard Zeller, *Die Philosophie der Griechen* \(Hildesheim: Georg Olms, 1963\), 3: part 2, 378–79 n.2.
 
-\( *hupodoche*\), “mother” \( *meter*\), and “nurse” \( *tithene*\) \( *Tim*. 49b\), was equivalent to the term *hule*: “the receptive space \( *chora*\) of Plato’s *Timaeus* is the same as matter \( *hule*\)” \( *Physics* 209b, 11–13\).
-
-*Hule*, originally meaning “wood” or “timber,” henceforth became the technical philosophical term used by Platonists to refer to 12. This theme is examined in the social and institutional life of late antiquity by Jonathan Z. Smith in three essays: “The Influence of Symbols on Social Change: A Place on Which to Stand,” “Birth Upside Down or Right Side Up?” and “The Temple and the Magician,” in *Map is Not Territory* \(Leiden: E.J. Brill, 1978\), 129–89.
-
-13. The attestations for Iamblichus as *theios* are numerous. See Eduard Zeller, *Die Philosophie der Griechen* \(Hildesheim: Georg Olms, 1963\), 3: part 2, 378–79 n.2.
-
-14. *Cratylus* 400c. C.J. de Vogel has corrected misconceptions in our understanding of Plato’s view of the body as a tomb. She argues that, for Plato, the body was not simply the soul’s prison but provided the soul its limits, its enclosure \( *peri-bolos*\), “in order that it might be saved” \( *Crat*. 400c\); see de Vogel, “The *SOMA–*
-
-*SEMA* Formula: Its Function in Plato and Plotinus Compared to Christian Writers,” in *Neoplatonism and Early Christian Thought*, 79–99 \(London: Variorum, 1981\).
-
-29
+[^14]: *Cratylus* 400c. C.J. de Vogel has corrected misconceptions in our understanding of Plato’s view of the body as a tomb. She argues that, for Plato, the body was not simply the soul’s prison but provided the soul its limits, its enclosure \( *peri-bolos*\), “in order that it might be saved” \( *Crat*. 400c\); see de Vogel, “The *SOMA–* *SEMA* Formula: Its Function in Plato and Plotinus Compared to Christian Writers,” in *Neoplatonism and Early Christian Thought*, 79–99 \(London: Variorum, 1981\).
 
 
+*Hule*, originally meaning “wood” or “timber,” henceforth became the technical philosophical term used by Platonists to refer to [[29]] “matter.”+++(5)+++ Like most Neoplatonists, Iamblichus believed Aristotle and Plato were essentially in agreement, and he translated many of Aristotle’s theories about the physical world to the intelligible.[^15]
 
-“matter.” Like most Neoplatonists, Iamblichus believed Aristotle and Plato were essentially in agreement, and he translated many of Aristotle’s theories about the physical world to the intelligible.15
+Aristotle’s influence on Iamblichus, however, remained terminological  
+and to some degree structural,  
+for his meanings were transformed entirely in Iamblichus’s theurgical Platonism.
 
-Aristotle’s influence on Iamblichus, however, remained terminolog-ical and to some degree structural, for his meanings were transformed entirely in Iamblichus’s theurgical Platonism.
+[^15]: See Stephen Gersh, *From Iamblichus to Eriugena: An Investigation of the Prehistory and Evolution of the Pseudo-Dionysian Tradition* \(Leiden: E.J. Brill, 1978\), 33–45. Cf. B.D. Larsen, “La Place de Jamblique dans la philosophie antique tardive,” in *Entretiens sur l’antiquité classique*, vol. 21: *De Jamblique à Proclus* \(hereafter *Entretiens*\), 10–14 \(Geneva: Fondation Hardt, 1975\).
 
-15. See Stephen Gersh, *From Iamblichus to Eriugena: An Investigation of the Prehistory and Evolution of the Pseudo-Dionysian Tradition* \(Leiden: E.J. Brill, 1978\), 33–
-
-45. Cf. B.D. Larsen, “La Place de Jamblique dans la philosophie antique tardive,” in *Entretiens sur l’antiquité classique*, vol. 21: *De Jamblique à Proclus* \(hereafter *Entretiens*\), 10–14 \(Geneva: Fondation Hardt, 1975\).
-
-30
+[[30]]
