@@ -12,9 +12,17 @@ Thread by @egy_philosopher on Thread Reader
 
 Proclus' conception of Divine Forms and Unities and how the Divine penetrates through all layers of manifested reality. 
 
-In late antiquity, an Idea is regarded as an incorporeal thing which is the cause of those things which are similar to it and is the model for the existence of sensible things. Since there is a hierarchy of intellects from the divine intellects to the cosmic intellect, participated by the World-Soul, and to ordinary thinking intellects, Ideas, as real and objective entities, cannot be regarded simply as thoughts of individual human minds.+++(4)+++ Instead, they are noemata of the divine Intellect, or Being. They subsist by their own noetic existence in the realm of Being. Although their effects are found in the sensible world of bodies, by themselves they are immaterial, simple, eternal, unchangeable and transcendent.
+In late antiquity, an Idea is regarded as an incorporeal thing which is the cause of those things which are similar to it and is the model for the existence of sensible things.  
+Since there is a hierarchy of intellects from the divine intellects to the cosmic intellect, participated by the World-Soul, and to ordinary thinking intellects,  
+Ideas, as real and objective entities, cannot be regarded simply as thoughts of individual human minds.+++(4)+++  
+Instead, they are noemata of the divine Intellect, or Being.  
+They subsist by their own noetic existence in the realm of Being. Although their effects are found in the sensible world of bodies, by themselves they are immaterial, simple, eternal, unchangeable and transcendent.
 
-According to the Neoplatonic perspective, the so-called "universals" that Aristotle sets against Plato's Ideas either refer to the "immanent universal" or to the secondary abstraction made by the human mind after it has experienced those immanent forms already placed in ... sensibles by the Demiruge in the process of proodos. However, the pre-existent forms (eide) of all characteristics that actually exist in the sensible world are a priori contained (as the noetic "sparks" and "traces") in human minds. And, if these noetic "sparks" are hidden, they must be recollected through spiritual exercises, askesis, and dialectic. Proclus says:
+According to the Neoplatonic perspective, the so-called "universals" that Aristotle sets against Plato's Ideas either refer to the "immanent universal" or to the secondary abstraction made by the human mind after it has experienced those immanent forms already placed in ... sensibles by the Demiruge in the process of proodos.  
+However, the pre-existent forms (eide) of all characteristics  
+that actually exist in the sensible world  
+are a priori contained (as the noetic "sparks" and "traces") in human minds.  
+And, if these noetic "sparks" are hidden, they must be recollected through spiritual exercises, askesis, and dialectic. Proclus says:
 
 > In sum, then, the Idea in the truest sense is an incorporeal cause, transcending its participants, a motionless Being, exclusively and really a model, intelligible to souls through images, and intelligizing causally the existents modelled upon it. So that from all these problems we have ferreted out the single definition of an Idea in the true sense.
 > 

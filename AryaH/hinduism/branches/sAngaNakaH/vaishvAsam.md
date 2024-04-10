@@ -1732,6 +1732,12 @@ Rather focus on being "playful" (ergo joyful)  while pursuing the 3 puruShArtha-
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 [अत्र](/kAvyam/laxyam/padyam/vishvAsaH/saMyamaH/sharIra-sharIri-bhAvaH) पद्यरूपेण तद् एव प्रस्तूयते।
+
+लोक-कृन्-निमित्ता हि प्रवृत्तिर् इति इयाम्ब्लिच-निभा प्लाटायना अपि - 
+
+> By sharing in the activity of creation  
+the theurgist would participate in the ordering of matter,  
+which was the specific function of the Demiurge as described in Plato’s *Timaeus*. One’s attitude to the body and matter, then, would be an index of the degree and manner of one’s participation in the Demiurge;
 </details>
 
 #### देव-दास्य-स्मृतिः
@@ -1846,6 +1852,7 @@ Rather focus on being "playful" (ergo joyful)  while pursuing the 3 puruShArtha-
 रौद्र-वीर-बीभत्सादयो ऽपि प्रीति-पुरस्कृत्या गूणी-कृतास् स्युः। 
 
 ### निवृत्तिः
+#### स्वरूपम्
 सद्-भावान् उद्दिश्य +अनल्पा प्रवृत्तिर् "**निवृत्तिर्**" इत्य् उच्यताम्।  
 सा च देव-गणे स-चिद्-अचिच्-छरीरे प्रीतेः पूरणम् एव।  
 निवृत्तिः प्रायेण स्मृति-रूपैव भक्ति-शब्द-वाच्या भवति।  
@@ -1960,7 +1967,7 @@ Rather focus on being "playful" (ergo joyful)  while pursuing the 3 puruShArtha-
 
 
 ####  ध्यान-प्रकारः
-पुनर् एषां ध्येयं रूपं चित्र-मन्त्र-यन्त्रादि।  
+देवानां देवक्रियायाश् च ध्येयं रूपं चित्र-मन्त्र-यन्त्रादि।  
 कल्पनमात्रम्, अर्चनम्, जप इत्य्-आदिभिर् ध्यानं साध्यते।
 
 <details><summary>ध्यानानि</summary>
@@ -1993,6 +2000,8 @@ Rather focus on being "playful" (ergo joyful)  while pursuing the 3 puruShArtha-
 अभिनय-भाषया काचित् कल्पनोच्यते।  
 पुनस् तद्-आधारेण (विशिष्यावहिते)  
 सद्-भावान्तराणि ध्वन्यन्ते।
+
+###### पर-निवृत्तौ प्रयोजनम्
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
