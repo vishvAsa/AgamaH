@@ -35,6 +35,12 @@ Like shaiva-tattvas, they explain emergence of a series of "hypostases".
 - Soul - "The general idea is that Soul, qua outer activity of Consciousness, looks back at its cause in order to understand itself so as to truly be what it is. Gazing thus at the forms and ideas eternally present in Consciousness, it becomes “informed” by them and carries forward, by some manner of benevolent necessity, images of the eternal forms into the lower realm of Being."
 - Nature
 
+> The full series of hypostases is the One, Being, Life, Intellect, Soul, the last including the World Soul and individual souls, and really includes Nature as well, because this is not really a distinct hypostasis, but simply the embodied activity of souls.
+> 
+> In this series, one must also understand that the “higher” hypostases extend their causality further than the “lower”, so that all beings, for example, are also ones, all living things are beings, and all intellects are living beings.
+> 
+> -EB
+
 ### Concomitant inner and outer activities
 - "every activity in the world is in some sense double  
   insofar as it possesses both an inner and an outer aspect."  
@@ -128,6 +134,7 @@ See [sallustius](sallustius/).
 > and of how we are individuated by divine action, on the other." - EB
 
 ## Being
+- Being in the wider sense encompasses the hypostases of Being (that is, ontōs on or “real being”), Life, Intellect, Soul, and Nature. It’s everything other than the One.
 - The principle of Being answers the question "what", while the principle of Unity/ To Hen answers the question "who".
 - "Positing “the One” prior to Being, in the chain of hypostases, is not a matter of subordinating Being to some further singular entity. Rather, it establishes prior to being a distinct *mode of existence*, establishing *unity* (individuality) as the primary and originary attribute of each thing"- [EB](https://henadology.files.wordpress.com/2018/11/butler2018_article_bhaktiandhenadology.pdf).
 - Being as a kind of 'consensus reality' among henads.
@@ -155,7 +162,7 @@ See [sallustius](sallustius/).
 - "The precise ontological status of Soul as another hypostasis in its own right remains somewhat underdetermined, for in a manner of speaking Soul is the very process of expressing the intelligible world in the derivative form of sensible natural living beings and the lives they live."
 - "The Neoplatonists drew a distinction between “Soul” and “Nature” (phusis) that amounts to a hierarchical separation of higher and lower psychical functions."
 
-## Matter
+### Matter
 > "matter exists, but not as a separate ontological principle distinct from the One with effects of its own. Rather, it is a fringe phenomenon of the life of the soul, a by-product of the activity of higher realms of Being."
 
 ## Adoration of the Gods
