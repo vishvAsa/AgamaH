@@ -155,8 +155,8 @@ See [sallustius](sallustius/).
 - "The precise ontological status of Soul as another hypostasis in its own right remains somewhat underdetermined, for in a manner of speaking Soul is the very process of expressing the intelligible world in the derivative form of sensible natural living beings and the lives they live."
 - "The Neoplatonists drew a distinction between “Soul” and “Nature” (phusis) that amounts to a hierarchical separation of higher and lower psychical functions."
 
-### Matter
-"matter exists, but not as a separate ontological principle distinct from the One with effects of its own. Rather, it is a fringe phenomenon of the life of the soul, a by-product of the activity of higher realms of Being."
+## Matter
+> "matter exists, but not as a separate ontological principle distinct from the One with effects of its own. Rather, it is a fringe phenomenon of the life of the soul, a by-product of the activity of higher realms of Being."
 
 ## Adoration of the Gods
 - Theurgy (θεουργία) describes the practice of rituals, sometimes seen as magical in nature, performed with the intention of invoking the action or evoking the presence of one or more deities, especially with the goal of achieving henosis (uniting with the divine) and perfecting oneself.
