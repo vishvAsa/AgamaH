@@ -45,91 +45,127 @@ He says:
 > The doctrine opposed to this, however,  
 > makes the soul a separate entity,  
 > inasmuch as it is generated second after the *Nous* as a different hypostasis,  
-> and that part of it which is noetic is explained as being dependent on the *Nous* along with the power of subsisting independently on its own, and it separates the soul also from all the classes of being superior to itself and assigns to it, as the particular definition of its essence, either \[1\] the mean between the divisible and indivisible, the corporeal and the incorporeal beings, or \[2\] the totality of the universal *logoi*, or \[3\] that which, after the Forms, is at the service of the work of creation, or \[4\] that Life which has Life of itself, which proceeds from the *Nous*, or \[5\] again the procession of the classes of Real Being as a whole to an inferior status. Indeed, Plato himself, Pythagoras, Aristotle, and all of the Ancients whose great names are praised for wisdom, were absolutely convinced of these doctrines \(as anyone would discover if he were to study their teachings with care\). And truthfully, we will attempt to construct our entire treatise around these teachings.3
+> and that part of it which is noetic  
+> is explained as being dependent on the *Nous* along with the power of subsisting independently on its own,  
+> and it separates the soul also from all the classes of being superior to itself  
+> and assigns to it, as the particular definition of its essence,  
+> either \[1\] the mean between the divisible and indivisible, the corporeal and the incorporeal beings,  
+> or \[2\] the totality of the universal *logoi*,  
+> or \[3\] that which, after the Forms, is at the service of the work of creation,  
+> or \[4\] that Life which has Life of itself, which proceeds from the *Nous*,  
+> or \[5\] again the procession of the classes of Real Being as a whole to an inferior status. 
+> 
+> Indeed, Plato himself, Pythagoras, Aristotle, and all of the Ancients whose great names are praised for wisdom,  
+> were absolutely convinced of these doctrines  
+> \(as anyone would discover if he were to study their teachings with care\).  
+> And truthfully, we will attempt to construct our entire treatise around these teachings.[^3]
 
-Iamblichus defined the essence of the human soul with characteristics that describe its function as mediator between irreconcilable extremes \( *Tim. * 34c–36e\). In the *Timaeus* it is through the mathematical mediation of soul that the indivisible appears as ordered divisions of the cosmos. The human soul’s essence, therefore, lay precisely in its mediating role, and Iamblichus’s strict 2. Cf. *DM* 50, 6 where Iamblichus says that it would be out of place to put such things as “time,” a “line,” and “god” in the same genus simply because they are
+[^2]: Cf. *DM* 50, 6 where Iamblichus says that it would be out of place to put such things as “time,” a “line,” and “god” in the same genus simply because they are “incorporeal.”
 
-“incorporeal.”
+[^3]: *Stob*. I 365, 22–366, 11, in *Iamblichi Chalcidensis*, trans. Dillon \(modified slightly\), 42.
 
-3. *Stob*. I 365, 22–366, 11, in *Iamblichi Chalcidensis*, trans. Dillon \(modified slightly\), 42.
+Iamblichus defined the essence of the human soul with characteristics that describe its function as mediator between irreconcilable extremes \( *Tim. * 34c–36e\).  
+In the *Timaeus* it is through the mathematical mediation of soul that the indivisible appears as ordered divisions of the cosmos.  
+The human soul’s essence, therefore, lay precisely in its mediating role, and Iamblichus’s strict [[79]] adherence to this teaching led him into paradoxes that were resolved only in theurgic ritual. 
 
-79
+If mediation defines the essence of the soul as Iamblichus believed,  
+it is clear why he did not identify soul with *Nous* as Plotinus did,  
+for *Nous* is entirely free of the “lower” end of the oppositions mediated by the soul.  
+Consequently, for Iamblichus, the deification of the soul  
+could not be effected by introspection  
+because the embodied soul had no immediate access to the divine.  
+In light of this,  
+Iamblichus developed a soteriological practice that by its very name,  
+*theourgia*, defines not what the soul does,  
+but what gods do through the soul.
+
+Iamblichus’s *De Anima* was clearly influenced by the language and the method of Aristotle;  
+its significance, however, remained Platonic.  
+Like most Neoplatonists, with the exception of Plotinus,  
+Iamblichus believed that Aristotle’s teachings were entirely harmonious \( *sumphonos*\) with Plato’s.[^4]  
+Iamblichus even integrated Aristotle’s seemingly unplatonic view of the soul  
+as *entelecheia*+++(=being-at-work, staying same)+++ of the body into his theurgical Platonism. In his commentary on the *Alcibiades* Iamblichus employed the Aristotelian distinction of *ousia*, *dunamis*, and *energeia* but transformed it into an emanative triad typical of later Neoplatonism.[^5] 
 
 
 
-adherence to this teaching led him into paradoxes that were resolved only in theurgic ritual. If mediation defines the essence of the soul as Iamblichus believed, it is clear why he did not identify soul with *Nous* as Plotinus did, for *Nous* is entirely free of the
+[^4]: See H.J. Blumenthal, “Neoplatonic Elements in the De Anima Commentaries” *Phronesis* 21, no. 1 \(1976\): 64–87.
 
-“lower” end of the oppositions mediated by the soul. Consequently, for Iamblichus, the deification of the soul could not be effected by introspection because the embodied soul had no immediate access to the divine. In light of this, Iamblichus developed a soteriological practice that by its very name, *theourgia*, defines not what the soul does, but what gods do through the soul.
+[^5]: The Aristotelian dictum that essences are known by their activities \( *De Anima* 146, 21\) had precedents in the Platonic dialogues \( *Rep*. 477c; *Soph*. 247e\), a point that was certainly not overlooked by the later Neoplatonists. See P. Shorey, “Simplicius *de Anima* 146, 21,” *Classical Philology* 17 \(1922\): 143–44; cf. Stephen Gersh, *From Iamblichus to Eriugena: An Investigation of the Prehistory and Evolution of the Pseudo-Dionysian Tradition* \(Leiden: E.J. Brill, 1978\), 32–45.
 
-Iamblichus’s *De Anima* was clearly influenced by the language and the method of Aristotle; its significance, however, remained Platonic. Like most Neoplatonists, with the exception of Plotinus, Iamblichus believed that Aristotle’s teachings were entirely harmonious \( *sumphonos*\) with Plato’s.4 Iamblichus even integrated Aristotle’s seemingly unplatonic view of the soul as *entelecheia* of the body into his theurgical Platonism. In his commentary on the *Alcibiades* Iamblichus employed the Aristotelian distinction of *ousia*, *dunamis*, and *energeia* but transformed it into an emanative triad typical of later Neoplatonism.5 Having explained that the essences \( *huparx-eis*\) of daimons and the superior races were extremely difficult to grasp Iamblichus says:
+Having explained that the essences \( *huparx-eis*\) of daimons and the superior races were extremely difficult to grasp Iamblichus says:
 
-\[E\]ven the essence \( *ousia*\) of the \[human\] soul is not easily perceptible to everyone. \(Only\) the *Timaeus* at any rate has given a full revelation of its essence . . . but to make clear the powers \( *dunameis*\) of Daimons is easy enough. We attain to a perception of them through their activities \( *energeiai*\) of which the powers are the immediate mothers; for a power is a median between an 4. See H.J. Blumenthal, “Neoplatonic Elements in the De Anima Commentaries” *Phronesis* 21, no. 1 \(1976\): 64–87.
+> \[E\]ven the essence \( *ousia*\) of the \[human\] soul is not easily perceptible to everyone.  
+> \(Only\) the *Timaeus* at any rate has given a full revelation of its essence . . .  
+> but to make clear the powers \( *dunameis*\) of Daimons is easy enough.  
+> We attain to a perception of them through their activities \( *energeiai*\) of which the powers are the immediate mothers;  
+> for a power is a median between an [[80]] essence and an activity, 
+> put forth from the essence on the one hand, and  
+> itself generating the activity on the other.[^6]
 
-5. The Aristotelian dictum that essences are known by their activities \( *De Anima* 146, 21\) had precedents in the Platonic dialogues \( *Rep*. 477c; *Soph*. 247e\), a point that was certainly not overlooked by the later Neoplatonists. See P. Shorey, “Simplicius *de Anima* 146, 21,” *Classical Philology* 17 \(1922\): 143–44; cf. Stephen Gersh, *From Iamblichus to Eriugena: An Investigation of the Prehistory and Evolution of the Pseudo-Dionysian Tradition* \(Leiden: E.J. Brill, 1978\), 32–45.
+Using this method to differentiate species of “soul” by reference to their activities,  
+Iamblichus placed human souls near the bottom of the psychic hierarchy  
+and maintained that their actions revealed their ontological rank.  
+This was in opposition, he says, to the opinion of the Stoics, Plotinus, and Amelius  
+who did not distinguish between the acts of particular souls  
+and the acts of the World Soul \( *Stob*. I, 372, 7–14\). Thus Iamblichus says:
 
-80
+There may be another opinion which may not be rejected,  
+one which, according to classes and kinds of souls,  
+distinguishes between the perfect acts of universal souls,  
+the pure and immaterial acts of divine souls,  
+the efficacious acts of daimonic souls,  
+the great acts of heroic souls,  
+and the mortal acts performed by animals and men.[^7]
+
+What distinguished embodied souls was the separation of their *ousiai* and *energeiai*,  
+a hypostatic rupture that condemned them to mortality  
+and separated them from the gods.  
+Theurgy was able to bridge this gap by uniting the *energeia* of mortals  
+with the *energeia* of the gods.  
+Iamblichus explained that each soul  
+began its corporeal life in a fallen and separated state  
+due to the weakened consistency of human souls portrayed by Plato  
+in his metaphor of the demiurgic mixing bowl \( *Tim. * 41d\).  
+Although every human soul carried the divine ratios \( *logoi*\) established by the Demiurge,  
+its “measures of coherence” \( *metra tes sunoches*\)[^8]  
+were no longer uniformly preserved  
+but were broken apart into divisions of time.  
 
 
+[^6]: *In Alcib*., frag. 4, 9–16, Dillon, trans., *Iamblichi Chalcidensis*, 74–75.
 
-essence and an activity, put forth from the essence on the one hand, and itself generating the activity on the other.6
+[^7]: 
 
-Using this method to differentiate species of “soul” by reference to their activities, Iamblichus placed human souls near the bottom of the psychic hierarchy and maintained that their actions revealed their ontological rank. This was in opposition, he says, to the opinion of the Stoics, Plotinus, and Amelius who did not distinguish between the acts of particular souls and the acts of the World Soul \( *Stob*. I, 372, 7–14\). Thus Iamblichus says:
+    *Stob*. I, 372, 15–20. This passage employs the fourfold hierarchy typical to the *De Mysteriis*: 
+    
+    *Agent* *Activity*  
+    1. Universal Souls perfect
+    Divine Souls pure and immaterial
+    2. Daimons efficacious
+    3. Heroes great
+    4. Human mortal
 
-There may be another opinion which may not be rejected, one which, according to classes and kinds of souls, distinguishes between the perfect acts of universal souls, the pure and immaterial acts of divine souls, the efficacious acts of daimonic souls, the great acts of heroic souls, and the mortal acts performed by animals and men.7
-
-What distinguished embodied souls was the separation of their *ousiai* and *energeiai*, a hypostatic rupture that condemned them to mortality and separated them from the gods. Theurgy was able to bridge this gap by uniting the *energeia* of mortals with the *energeia* of the gods. Iamblichus explained that each soul began its corporeal life in a fallen and separated state due to the weakened consistency of human souls portrayed by Plato in his metaphor of the demiurgic mixing bowl \( *Tim. * 41d\). Although every human soul carried the divine ratios \( *logoi*\) established by the Demiurge, its “measures of coherence” \( *metra tes sunoches*\)8 were no longer uniformly preserved but were broken apart into divisions of time. Following a suggestion by Proclus, Dillon says that Iamblichus conceived the 6. *In Alcib*., frag. 4, 9–16, Dillon, trans., *Iamblichi Chalcidensis*, 74–75.
-
-7. *Stob*. I, 372, 15–20. This passage employs the fourfold hierarchy typical to the *De Mysteriis*:
-
-*Agent*
-
-*Activity*
-
-1. Universal Souls
-
-perfect
-
-Divine Souls
-
-pure and immaterial
-
-2. Daimons
-
-efficacious
-
-3. Heroes
-
-great
-
-4. Human
-
-mortal
-
-8. *Tim*. 41d and *In Tim*., frag. 82, Dillon, trans., *Iamblichi Chalcidensis*, 194–95.
+[^8]: *Tim*. 41d and *In Tim*., frag. 82, Dillon, trans., *Iamblichi Chalcidensis*, 194–95.
 
 81
 
 
 
-hierarchy of souls according to their respective allotments of the elements “essence” \( *ousia*\), “sameness” \( *tautotes*\), and “otherness”
-
-\( *heterotes*\). The distribution of these three elements, respectively, determined the rank of all souls: divine, daimonic, and human, with human souls carrying the greatest proportion of “otherness.”9
+Following a suggestion by Proclus, Dillon says that Iamblichus conceived the hierarchy of souls according to their respective allotments of the elements “essence” \( *ousia*\), “sameness” \( *tautotes*\), and “otherness” \( *heterotes*\). The distribution of these three elements, respectively, determined the rank of all souls: divine, daimonic, and human, with human souls carrying the greatest proportion of “otherness.”[^9]
 
 Iamblichus believed that inattention to this passage of the *Timaeus* \(41d\) caused Plotinus and Amelius to miss important distinctions among souls \( *Stob*. I, 372, 23–26\). Outlining his own position, Iamblichus says:
 
-Others make a more prudent distinction and insist that the different essences of the soul continually proceed according to a downward sequence of primary, secondary, and tertiary processions—
-
-such as one would expect of those who discuss these matters with arguments which are unfamiliar but unshakable. They say that the operations of universal, divine, and immaterial souls are completely realized in their essences, but they will by no means agree that individual souls, *confined as they are to one single form* and divided out among bodies, are immediately identical with their acts.10
+> Others make a more prudent distinction and insist that the different essences of the soul continually proceed according to a downward sequence of primary, secondary, and tertiary processions— such as one would expect of those who discuss these matters with arguments which are unfamiliar but unshakable. They say that the operations of universal, divine, and immaterial souls are completely realized in their essences, but they will by no means agree that individual souls, *confined as they are to one single form* and divided out among bodies, are immediately identical with their acts.[^10]
 
 Like all entities in tertiary procession from the Demiurge, the acts of embodied souls were separated from their essences and completed only within the cycles of generation. Iamblichus says: “In accord with the opinion just espoused the acts of those souls which are self-perfect, uniform, and independent of matter are naturally connected to their powers \( *dunameis*\), but the acts of imperfect souls, who are divided among parts of the earth, are like plants producing fruit” \( *Stob*. I, 373, 10–15\). The “plant” in which the soul’s actions were brought to fruition was the human body, which gradually manifested the powers of the soul. As Andrew Smith puts it,
 
 “the manifestation of the soul in a body is the activity of the soul.”11
 
-9. Dillon, trans., *Iamblichi Chalcidensis*, 378. See also Jean Trouillard, *La Mystagogie de Proclos* \(Paris: Les Belles Lettres, 1982\), 213.
+[^9]: Dillon, trans., *Iamblichi Chalcidensis*, 378. See also Jean Trouillard, *La Mystagogie de Proclos* \(Paris: Les Belles Lettres, 1982\), 213.
 
-10. *Stob*. I, 372, 26–373, 8. Cf. Dillon’s translation, *Iamblichi Chalcidensis*, 44.
+[^10]: *Stob*. I, 372, 26–373, 8. Cf. Dillon’s translation, *Iamblichi Chalcidensis*, 44.
 
-11. Smith, *Porphyry’s Place in the Neoplatonic Tradition: A Study in Post-Plotinian Neoplatonism* \(The Hague: Martinus Nijhoff, 1974\), 14.
+[^11]: Smith, *Porphyry’s Place in the Neoplatonic Tradition: A Study in Post-Plotinian Neoplatonism* \(The Hague: Martinus Nijhoff, 1974\), 14.
 
 82
 
