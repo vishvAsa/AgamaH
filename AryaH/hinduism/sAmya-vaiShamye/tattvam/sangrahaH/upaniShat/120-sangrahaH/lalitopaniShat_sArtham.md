@@ -2,9 +2,9 @@
 title: ललितोपनिषत् (सार्थम्)
 
 ---
-  
- श्रीललितोपनिषत्   
-  
+
+श्रीललितोपनिषत्   
+
 The Shree Lalita Upanishat is a most divine Upanishat dedicated  
 to the Supreme Goddess Shri Lalita. It beautifully describes  
 the Human Body as the Shri-Chakra. The various parts of Human  
@@ -18,21 +18,21 @@ worship of Shri-Yantra and Shri Lalita Parameshvari by one's
 body itself. The Upanishat also has a lot of beautiful and  
 esoteric meanings. This Upanishat gives divine knowledge of  
 Supreme Brahma.  
-  
+
 ॥ श्रीललितोपनिषत् ॥  
-  
+
 ॥ श्रीललितात्रिपुरसुन्दर्यै नमः ॥  
-  
+
 ॐ परमकारणभूता शक्तिः केन नवचक्ररूपो देहः ।  
 नवचक्रशक्तिमयं श्रीचक्रम् । पुरुषार्थाः सागराः । देहो नवरत्ने  
 द्वीपः । आधारनवकमुद्राः शक्तयः । त्वगादिसप्तधातुभिरनेकैः  
 संयुक्ताः सङ्कल्पाः कल्पतरवः । तेजः कल्पकोद्यानम् ॥  
-  
+
 रसनया भासमाना मधुराम्लतिक्तकटुकषायलवणरसाः षड्रसाः ।  
 क्रियाशक्तिः पीठं कुण्डलिनी ज्ञानशक्तिरहमिच्छाशक्तिः ।  
 महात्रिपुरसुन्दरी ज्ञाता होता । ज्ञानमर्घ्यं ज्ञेयं हविः  
 ज्ञातृज्ञानज्ञेयानां नमोभेदभावनं श्रीचक्रपूजनम् ॥  
-  
+
 नियतिसहितशृङ्गारादयो नवरसाः । अणिमादयः  
 कामक्रोधलोभमोहमदमात्सर्यपुण्यपापमया  
 ब्राह्म्यादयोऽष्टशक्तयः । आधारनवकमुद्रा शक्तयः ।  
@@ -43,7 +43,7 @@ Supreme Brahma.
 अलम्बुषाकुहूविश्वोदरीवरुणाहस्तिजिह्वायशस्विनी-  
 गान्धारीपूषासरस्वतीडापिङ्गलासुषुम्ना  
 चेति चतुर्दशनाडयः सर्वसङ्क्षोभिण्यादिचतुर्दशारदेवताः ॥  
-  
+
 प्राणापानव्यानोदानसमाननागकूर्मकृकलदेवदत्तधनञ्जया  
 दशवायवः सर्वसिद्धिप्रदादि बहिर्दशारदेवताः ।  
 एतद्वायुदशकसंसर्गोपाधिभेदेन  
@@ -51,22 +51,22 @@ Supreme Brahma.
 सङ्ख्यत्वेन पञ्चविधोऽस्ति । जठराग्निर्मनुष्याणां मोहको  
 भक्ष्यभोज्यलेह्यचोष्यात्मकं चतुर्विधमन्नं पाचयति । तदा  
 काशवान्सकलाः सर्वज्ञत्वाद्यन्तर्दशारदेवताः ॥  
-  
+
 शीतोष्णसुखदुःखेच्छासत्वरजस्तमोगुणादय वशिन्यादिशक्तयोऽष्टौ ।  
 शब्दस्पर्शरूपरसगन्धाः पञ्चतन्मात्राः पञ्चपुष्पबाणा  
 मन इक्षुधनुर्वल्यो बाणो रागः पाशो द्वेषोऽङ्कुशः ।  
 अव्यक्तमहत्तत्त्वाहङ्कारकामेश्वरीवज्रेश्वरी-  
 भगमालिन्योऽन्तस्त्रिकोणाग्रदेवताः ॥  
-  
+
 पञ्चदशतिथिरूपेण कालस्य परिणामावलोकनपञ्चदशनित्याः  
 शुद्धानुरुपाधिदेवताः । निरुपाधिसार्वदेवकामेश्वरी सदाऽऽनन्दपूर्णा ।  
 स्वात्म्यैक्यरूपललिताकामेश्वरी सदाऽऽनन्दघनपूर्णा स्वात्मैक्यरूपा  
 देवता ललितामिति ॥  
-  
+
 साहित्यकरणं सत्त्वं । कर्त्तव्यमकर्त्तव्यमिति भावनामुक्ता उपचाराः ।  
 अहं त्वमस्ति नास्ति कर्त्तव्याकर्त्तव्यमुपासितव्यानुपासितव्यमिति विकल्पना ।  
 मनोविलापनं होमः ॥  
-  
+
 बाह्याभ्यन्तरकरणानां रूपग्रहणयोग्यतास्तीत्यावाहनम् ।  
 तस्य बाह्याभ्यन्तरकरणानामेकरूपविषयग्रहणमासनम् ।  
 रक्तशुक्लपदैकीकरणं पाद्यम् ।  
@@ -85,26 +85,26 @@ Supreme Brahma.
 सत्त्वमस्ति कर्त्तव्यमकर्त्तव्यमौदासीन्यमात्मविलापनं होमः ।  
 भावनाविषयाणामभेदभावना तर्पणम् । स्वयं तत्पादुकानिमज्जनं  
 परिपूर्णध्यानम् ॥  
-  
+
 एवं मूर्तित्रयं भावनया युक्तो मुक्तो भवति । तस्य  
 देवतात्मैक्यसिद्धिश्चितिकार्याण्यप्रयत्नेन सिध्यन्ति स एव शिवयोगीति  
 कथ्यते ॥  
-  
+
 ॥ इति श्रीललितोपनिषत्सम्पूर्णा ॥  
-  
+
 हिन्दी में अर्थ  
-  
+
 ॥ श्रीललितात्रिपुरसुन्दरी को नमस्कार ॥  
-  
+
 ॥ श्रीललितोपनिषत् ॥  
-  
+
 परम-कारण-भूता शक्ति द्वारा मानव शरीर नौ चक्र-रूपात्मक  
 बना है । ``श्री-चक्र'' इन्हीं नौ चक्रों की शक्ति से परिपूर्ण है ।  
 पुरुषार्थ ही सागर-स्वरूप है और इस सागर में शरीर नौ  
 रत्नों (नवचक्र रूपी रत्न) में स्थित द्वीप के समान है । मूलाधार  
 की नौ मुद्राएँ ही शक्तियाँ हैं । त्वचा-आदि सात धातुओं से युक्त  
 अनेक सङ्कल्प ही कल्पवृक्ष हैं । ``तेज'' सुन्दर उपवन है ।  
-  
+
 जिह्वा के द्वारा अनुभूत होनेवाले मधुर, अम्ल, तिक्त, कटु, कषाय और  
 लवणात्मक स्वाद ही छह रस हैं । क्रियाशक्ति पीठ है, ज्ञानशक्ति  
 कुण्डलिनी है और इच्छाशक्ति अहङ्कार है । महात्रिपुरसुन्दरी ज्ञाता  
@@ -113,7 +113,7 @@ Supreme Brahma.
 विषय/वस्तु का ज्ञान) और ज्ञेय (वह विषय/वस्तु जिसको जाना जा  
 रहा है)- इनकी नमन-पूर्वक भेद-भावना ही श्रीचक्र का पूजन  
 है ।  
-  
+
 शृङ्गार-आदि नौ रस हैं । अणिमा-आदि,  
 काम-क्रोध-लोभ-मोह-मद-मात्सर्य-पुण्य और पाप तथा ब्राह्मी  
 आदि आठ शक्तियाँ हैं । मूलाधार की नौ मुद्राएँ शक्तियाँ हैं ।  
@@ -124,7 +124,7 @@ Supreme Brahma.
 हैं । अलम्बुषा, कुहू, विश्वोदरी, वरुणा, हस्ति-जिह्वा, यशस्विनी,  
 गान्धारी, पूषा, सरस्वती, इडा, पिङ्गला और सुषुम्ना- ये नाडियाँ  
 सर्व-सङ्क्षोभिणी आदि चतुर्दशार की देवता हैं ।  
-  
+
 प्राण, अपान, व्यान, उदान, समान, नाग, कूर्म, कृकल, देवदत्त और  
 धनञ्जय- ये १० वायु सर्व-सिद्धि-प्रदा आदि बहिर्दशार के देवता  
 हैं । इन्हीं १० वायुओं के सम्पर्क से उपाधि-भेद द्वारा रेचक, पूरक,  
@@ -132,25 +132,25 @@ Supreme Brahma.
 है । भक्ष्य, भोज्य, लेह्य और चोष्य- इन चार प्रकार के अन्नों  
 का पाचन मनुष्यों का जठराग्नि करता है । तभी सर्वज्ञत्व-आदि  
 अन्तर्दशार के सभी देवता प्रकाशमान् होते हैं ।  
-  
+
 शीत, ऊष्ण, सुख, दु:ख, इच्छा, सत्व-गुण, रज-गुण, तम-गुण-  
 ये आठ ही वशिनी आदि ८ शक्तियाँ हैं । शब्द, स्पर्श, रूप, रस,  
 गन्ध- ये पाँच तन्मात्राएँ ५ पुष्प-बाण हैं; मन- ईख का  
 धनुष है; वृत्तियाँ- बाण हैं; राग (आसक्ति)- पाश है; और  
 द्वेष- अङ्कुश है । अव्यक्त, महत्-तत्त्व और अहङ्कार मध्यस्थ  
 त्रिकोण की कामेश्वरी, वजेश्वरी और भग-मालिनी देवता हैं ।  
-  
+
 १५ तिथियों के रूप से काल के परिणाम को देखनेवाली १५ नित्याएँ  
 हैं- ये नित्याएँ शुद्ध-स्वरूपा अधि-देवता हैं । उपाधि-रहिता  
 सर्व-देव-मयी कामेश्वरी सदा आनन्द-पूर्णा हैं । साधक की अपनी  
 आत्मा में मिली हुई स्थितिवाली, परिपूर्ण आनन्द-स्वरूप वाली ललिता  
 कामेश्वरी इष्ट-देवता हैं ।  
-  
+
 सहित करना अर्थात् सामञ्जस्य करना ही सत्व है । कर्तव्य या  
 अकर्तव्य- इस भावना से मुक्त होना ही उपचार है । ``मैं'- ``तुम'  
 है । कर्तव्य या अकर्तव्य नहीं हैं । उपासित और अनुपासित- यह  
 विकल्पना है । मन को विलय करना ही होम है ।  
-  
+
 बाहरी और भीतरी इन्द्रियों की रूप-ग्रहण करने की योग्यता है-  
 यह ``आवाहन'' है । साधक की बाहरी और भीतरी इन्द्रियों द्वारा एक  
 रूप-एक विषय का ग्रहण करना ही ``आसन'' है । रक्त और शुक्ल-  
@@ -167,26 +167,26 @@ Supreme Brahma.
 है । सारे आवागमन का त्याग- यही ``नैवेद्य'' है । तीनों अवस्थाओं  
 को एक करना- ``ताम्बूल'' है । मूलाधार से ब्रह्म-रन्ध्र तक और  
 ब्रह्म-रन्ध्र से मूलाधार तक आना-जाना ही ``प्रदक्षिणा'' है ।  
-  
+
 तुरीय स्थिति को प्राप्त कर के संस्कार-देह से रहित होकर,  
 परमानन्द में डूबना- यह बलि देना है । कर्तव्य-अकर्तव्य की  
 उदासीनता से आत्म-लय कर मात्र सत्व ही है- यह भावना करना  
 होम है । भावना के विषयों में अभेद का विचार रखना ही तर्पण  
 है । अपने को श्रीपादुका में मग्न करना ही पूर्ण ध्यान है ।  
-  
+
 इस प्रकार तीनों स्वरूपों की भावना से युक्त होनेवाला मुक्त हो  
 जाता है । उसे देवता और आत्मा के ऐक्य की सिद्धि बिना प्रयास  
 के ही प्राप्त हो जाती है और वह शिव-योगी कहलाता है ।  
-  
+
 ॥ श्रीललितोपनिषत् सम्पूर्ण होती है ॥  
-  
-  
+
+
 Meaning in English  
-  
+
 Obeisances to ShreeLalita, the Beautiful Empress of Three Worlds  
-  
+
 Shree Lalita Upanishat  
-  
+
 This human body is made resembling the form of Nine  
 Chakras (Chakras are energy discs or centres within human  
 body, where particular energy flows), by the Shakti who is  
@@ -202,7 +202,7 @@ the seven elements videlicet lymph et cetera (lymph, blood,
 muscle, fat, bone, marrow, and reproductive fluid) are the  
 KalpaVriksha (divine desire fulfilling tree). The vital fire  
 illumination is a beautiful garden.  
-  
+
 Sweet, sour, spicy, bitter, astringent, salty- these are six  
 tastes tasted by tongue. Work-power is altar, Knowledge-power  
 is Kundalini (coiled energy situated at the base of spine),  
@@ -214,7 +214,7 @@ and the Subject/Topic of that knowledge is the sacred
 oblations. Knower, knowledge, and subject/topic of knowledge-  
 having feeling of discrimination in these three with full  
 respect and humility, is the worship of Shree-Chakra.  
-  
+
 There are nine sentiments- Shringaara et cetera (Shringaara-  
 love; Haasya- humour; Adbhuta- wonder; Shaanta- peace; Raudra-  
 anger; Veera- courage; Karuna- sorrow; Bhayanaka- fear;  
@@ -238,7 +238,7 @@ Varuna, Hasti-Jihvaa, Yashasvini, Gandhari, Pusha, Saraswati,
 Ida, Pingala, Sushumna- these Nadis (energy paths) are the  
 deities (known as Sarva-Sankshobhini et cetera) of the 14  
 triangles.  
-  
+
 There are 10 kinds of Air- Praana, Apaana, Vyaan, Udaana,  
 Samaana, Naaga, Koorma, Krikala, DevaDatta and Dhananjaya;  
 these 10 Airs are deities (known as Sarva-Siddhi-Pradaa et  
@@ -250,7 +250,7 @@ body digests these four kinds of food- Bhakshya (masticated),
 Bhojya (swallowed), Lehya (licked) and Choshya (sucked). Only then  
 all the deities (known as Sarvagya et cetera) of the inner 10  
 triangles are illuminated (id est recognised).  
-  
+
 Cold, Hot, Happiness, Sorrow, Wish, quality of purity,  
 quality of passion, quality of darkness- these eight are the  
 eight Shaktis Vashini et cetera (Vashini, Kameshwari, Modini,  
@@ -262,7 +262,7 @@ Attachment is the rope; and Disgust is the goad. Avyakta,
 Mahat-Tattva and Ahankaara (I-ness) are respectively Kameshvari,  
 Vajreshvari and Bhaga-Malini, the deities of the middle triangle  
 of the Shri-Yantra.  
-  
+
 There are fifteen Nityaa-Shaktis who watch the translation of  
 time in the form of 15 lunar dates- these 15 Nityaas are the  
 pure-form main deities. She who is beyond any designation,  
@@ -272,14 +272,14 @@ Her devotees' souls are in oneness and thus experience the
 ultimate eternal bliss, that Goddess Lalita Kaameshwari is  
 the Ishta-Devata (the personal deity whom a devotee chooses  
 to worship).  
-  
+
 Coordination and equity of soul to the ultimate soul is  
 purity. 'To do' and 'Not to do'- being free from this feeling is  
 the worship. 'I' is 'You'. 'To do' and 'Not to do'- these do not  
 exist. 'To be worshipped' and 'Not to be worshipped'- this is  
 mere fancy (id est it does not exist). Evanescing the mind within  
 contemplation of Divine is- doing the sacred oblations in fire.  
-  
+
 The inner senses and outer senses have a capability  
 of assuming a form- this is the 'Avahanam'(inviting the  
 deity). Being one form and experiencing only one object from  
@@ -320,7 +320,7 @@ from Brahma-Randhra to Mooladhara- is 'Pradakshina'
 Note- the terms in ' '-apostrophe are the 16 steps of  
 Shodasha Upachara Poojanam  
 (16 step worship of deity).  
-  
+
 Attaining the Turiya state (the transcendental state) and leaving  
 the mortal human coil and thus being merged in Supreme Divine  
 Bliss- this is Bali (sacrifice done to deity). ᳚Only Eternal  
@@ -331,13 +331,13 @@ equality in subject of all feelings, emotion, sentiments et
 cetera- is Tarpana (libation of water and offerings). Being  
 submerged in meditation of ShreePaduka (the divine feet of  
 deity)- is the real complete contemplation of deity.  
-  
+
 In this way, he who is united with the sentiments of these  
 three forms is easily liberated. He effortlessly attains  
 oneness of God and soul, and is then called 'Shiva-Yogi'  
 meaning Ultimate Auspicious Mystic.  
-  
+
 Thus ends the Shri Lalita Upanishat  
-  
+
 Encoded, proofread, and translated by anonymous456an at gmail.com  
-  
+

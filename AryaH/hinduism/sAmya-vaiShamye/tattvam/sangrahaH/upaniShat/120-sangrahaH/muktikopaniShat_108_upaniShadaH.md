@@ -2,31 +2,31 @@
 title: मुक्तिकोपनिषत् १०८ उपनिषदः
 
 ---
-  
- १०८ उपनिषत् - मुक्तिकोपनिषत्   
-  
-           उपनिषद् सूची १०८  
-           A list of 108 upaniShad  
-             
+
+१०८ उपनिषत् - मुक्तिकोपनिषत्   
+
+उपनिषद् सूची १०८  
+A list of 108 upaniShad  
+
 Lord Rama says to Shri Hanuman in muktikopaniShad :    
-  
+
 The only means by which the final emancipation is attained is  
 through mANDUkya upaniShad alone, which is enough for the   
 salvation for all aspirants .   
-  
+
 If jnAna is not attained thereby, study the 10 upaniShads;   
 thou shalt soon attain jnAna, and then My Seat .   
-  
+
 O son of anjanA, if thy jnAna is not made firm, practice (study)   
 well the 32 upaniShads . Thou shalt get release .   
-  
+
 If thou longest after videhamukti, study the 108 upaniShads .   
-  
+
 I will truly state in order the (names of the) upaniShads  
 with their ShAnti (purificatory mantras). Hearken to them .   
-  
+
 (They are:)  
-  
+
 ईश = शुक्ल यजुर्वेद, मुख्य उपनिषद्  
 केन =  साम वेद, मुख्य उपनिषद्  
 कठ = कृष्ण यजुर्वेद, मुख्य उपनिषद्  
@@ -135,6 +135,6 @@ with their ShAnti (purificatory mantras). Hearken to them .
 सरस्वती-रहस्य = कृष्ण यजुर्वेद, शाक्त उपनिषद्  
 बह्वृच = ऋग् वेद, शाक्त उपनिषद्  
 मुक्तिक (१०८) = शुक्ल यजुर्वेद, सामान्य उपनिषद्  
-  
+
 ''
-  
+

@@ -2,9 +2,9 @@
 title: दक्षिणामूर्ति उपनिषत् (सण्क्षिप्तम्)
 
 ---
-  
- दक्षिणामूर्ति उपनिषत् सङ्क्षिप्त   
-  
+
+दक्षिणामूर्ति उपनिषत् सङ्क्षिप्त   
+
 
 
 सोऽहमिति यावदास्थितिः सा निष्ठा भवति ।  
@@ -13,23 +13,23 @@ title: दक्षिणामूर्ति उपनिषत् (सण्�
 अङ्गचेष्टार्पणं बलिः ।  
 त्रीणि धामानि कालः ।  
 द्वादशान्तपदं स्थानमिति ।  
-  
+
 Devotion consists in firmly dwelling in the constant thought that I am He.  
 Repetition of the mantra as inseparate from Him constitutes the means to that  
 knowledge . To be concentrated in thought upon Him exclusively proves an  
 effective aid to it . The dedicating of all bodily activity (to Him) forms the  
 offering . The three states of consciousness are the proper time for it . The  
 proper place is the twelve pointed seat.  
-  
+
 ते ह पुनः श्रद्दधानास्तम् प्रत्यूचुः ।  
 कथं वाऽ स्योदयः ।  
 किं स्वरूपम् ।  
 को वाऽस्योपासकः ।  
 इति ।  
-  
+
 Then they again asked him as follows, full of faith . How comes His  
 manifestation? What is His form? And who is His worshiper?  
-  
+
 स होवाच ।  
 वैराग्यतैलसम्पूर्णे भक्तिवर्तिसमन्विते ।  
 प्रबोधपूर्ण पात्रे तु ज्ञप्तिदीपं विलोकयेत् ।  
@@ -44,7 +44,7 @@ manifestation? What is His form? And who is His worshiper?
 सर्गादिकाले भगवन् विरिञ्चि रुपास्यैनं सर्गसामर्थ्यमाप्य ।  
 तुतोष चित्ते वाञ्चितार्थाश्च लब्ध्वा धन्यः सोऽस्योपासको भवति  
 धाता ।  
-  
+
 He said:    
 In the mighty lamp of wisdom, overflowing with the oil of vairagya and  
 furnished with the wick of bhakti, one should kindle the light of knowledge and  
@@ -63,4 +63,4 @@ At the beginning of creation, Brahma the Lord, having worshiped Siva, attained
 power to create and was delighted at heart . The devotee in this path, steady in  
 his effort, attains all objects of desire and becomes quite happy.  
 ''
-  
+
