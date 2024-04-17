@@ -92,8 +92,3 @@ title: गणपत्यथर्वशीर्षोपनिषत्
 ॐ शान्तिः शान्तिः शान्तिः ॥  
 
 इति गणपत्युपनिषत्समाप्ता ॥  
-
-
-''
-Checked by Kirk Wortman (kirkwort@hotmail.com)  
-
