@@ -1,24 +1,5 @@
 ---
-Author: Vedic tradition
-Category: upanishhat, svara, upanishad, shiva, ganesha
-Description-comments: 89 / 108; Atharva Veda - Shaiva upanishad
-File name: ganapati.itx
-Language: Sanskrit
-Latest update: January 15, 2004
-Location: doc_upanishhat
-Proofread by: Sunder Hattangadi (sunderh at hotmail.com) and Kirk Wortman kirkwort
-at hotmail.com
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Source: (with Vedic accents, Meanings 1, 2, 3, Marathi, sabhAShya, Hindi)
-Subject: philosophy/hinduism
-Sublocation: upanishhat
-Text title: Ganapati Atharvashirsha Upanishad or Ganapati Upanishad
-Texttype: svara
-Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
-engtitle: Ganapati Atharvashirsha Upanishad or Ganapati Upanishad
-itxtitle: gaNapatyatharvashIrShopaniShat athavA gaNapatyupaniShat
-title: गणपत्यथर्वशीर्षोपनिषत् अथवा गणपत्युपनिषत्
+title: गणपत्यथर्वशीर्षोपनिषत् 
 
 ---
 
