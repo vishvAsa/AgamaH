@@ -1,22 +1,4 @@
 ---
-Author: shriipurushhottamaanandatiirtha
-Category: upanishhat, svara, upanishad
-Description-comments: krishna-yajurvede taittiriya-aranyake with commentary by shrIpuruShottamAnandatIrtha
-File name: yajnikibhaashhya.itx
-Language: Sanskrit
-Latest update: April 5, 2004
-Location: doc_upanishhat
-Proofread by: Wim en Esther (wkl-evdk at knoware.nl) wkl-evdk at ision.nl
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/hinduism
-Sublocation: upanishhat
-Text title: krishna-yajurvede taittiriya-aranyake yaajnikyupanishhadvivaraNam.h
-Texttype: svara
-Transliterated by: Wim en Esther (wkl-evdk at knoware.nl) upaniShad text by Sunder
-Hattangadi
-engtitle: Yajnikyupanishad Vivarana, commentary
-itxtitle: yAjnikyupaniShadvivaraNam
 title: याज्ञिक्युपनिषद्विवरणम्
 
 ---
