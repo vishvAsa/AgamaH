@@ -1,26 +1,9 @@
 ---
-Category: upanishhat, svara, upanishad
-Description-comments: krishna-yajurvede taittiriya-aranyake
-File name: yajniki.itx
-Language: Sanskrit
-Latest update: April 5, 2004
-Location: doc_upanishhat
-Proofread by: Wim en Esther (wkl-evdk at knoware.nl) in addition by Sunder  Wim has
-added commentary/vivaraNaM in a separate file.
-Send corrections to: Sanskrit@cheerful.com
-Site access: https://sanskritdocuments.org
-Subject: philosophy/hinduism
-Sublocation: upanishhat
-Text title: krishna-yajurvede taittiriya-aranyake yaajnikyupanishhad
-Texttype: svara
-Transliterated by: Sunder Hattangadi (sunderh at hotmail.com)
-engtitle: Yajnikyupanishad
-itxtitle: yAjnikyupaniShat (mahAnArAyaNa evaM nArAyaNopanShat)
-title: याज्ञिक्युपनिषत् (महानारायण एवं नारायणोपन्षत्)
+title: याज्ञिक्युपनिषत् 
 
 ---
 
-याज्ञिक्युपनिषत्   
+याज्ञिक्युपनिषत्  (महानारायण एवं नारायणोपन्षत्) 
 
 अम्भस्य पारे भुवनस्य मध्ये  
 नाकस्य पृष्ठे महतो महीयान् ।  
@@ -255,7 +238,7 @@ title: याज्ञिक्युपनिषत् (महानारा�
 ऊर्जस्वती पयसा पिन्वमाना सा मां मेधा सुप्रतीका  
 जुषताम् ॥ 43  
 सद्योजातं प्रपद्यामि सद्योजाताय वै नमः ।  
-भवे भवे नातिभवे भवस्व मां । भवोद्भवाय नमः ॥ 17  
+भवे भवे नातिभवे भवस्व माम् । भवोद्भवाय नमः ॥ 17  
 वामदेवाय नमो ज्येष्ठाय नमः रुद्राय  
 नमः कालाय नमः कलविकरणाय नमो बलविकरणाय नमो  
 बलप्रमथाय नमः सर्वभूतदमनाय नमो  
@@ -413,9 +396,7 @@ title: याज्ञिक्युपनिषत् (महानारा�
 
 
 
-''
-Also proofread by Wim en Esther wkl-evdk@knoware.nl  
-Wim has added commentary/vivaraNaM in a separate file.  
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 According to Sw. Vimalananda, who has translated the Mahanarayana  
 Upanishad (Ramakrishna Math publ.),᳚ it is also known as  
@@ -443,5 +424,7 @@ as the taittirIyopaniShad. The next one is accepted as a khila
 (supplement) and that is the yAj~nikyupaniShad. BhaTTabhAskara takes the  
 whole of the TaittirI­yopaniShad as a single prashna, and there is also a  
 slight difference in him from the arrangement of the prashnas found in  
-sAyaNa. Otherwise the texts are the same.'  
+sAyaNa. Otherwise the texts are the same.
+</details>
+
 
