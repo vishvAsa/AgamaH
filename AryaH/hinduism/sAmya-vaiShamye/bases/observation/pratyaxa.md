@@ -27,6 +27,8 @@ Brilliant shrI rAmAnuja clearly limiting scope of shAstra, mincing no words (whi
 > इति न शात्र-प्रत्यक्षयोर् विरोधः । 
 
 
+> अप्राप्ते तु शास्त्रम् अर्थवत्। 
+
 ## Biology
 Lessons from biology are very important for superior understanding of a lot of issues in human society (ranging from mate selection, family dynamics, social structure, child rearing, memetic epidemics like Abe's diseases, sexual orientation, police brutality, violence, carnivorism etc..). Indeed, in our past we see savants like viShNusharman and vyAsa teach us nIti with reference to animal behavior. One of the reasons why natural religions like ours are superior to counter religions like buddhism, Abe's diseases and their successors like SJWism and communism stems from the fact that they are better adapted to our true "nature" (which is largely grounded in biology). The mAnasatarangiNIkAra is a rare savant who sees this clearly.
 
