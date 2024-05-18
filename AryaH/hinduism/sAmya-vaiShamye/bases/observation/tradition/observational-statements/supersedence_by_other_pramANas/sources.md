@@ -13,7 +13,12 @@ Due to this, where the latter domains are concerned, some of their suppositions 
 
 - The validity of pratyakSha and pratyakSha-like anumAna evidence in cases where they are available. In such cases, texts are not to be taken literally.
 - See the "न हि श्रुतिशतमपि" quote by shankara above.
-- "अप्रत्यक्षाणि शास्त्राणि विवादस्तेषु केवलम्। प्रत्यक्षं ज्योतिषं शास्त्रं चन्द्रार्कौ यत्र साक्षिणौ।।"
+
+> "अप्रत्यक्षाणि शास्त्राणि  
+> विवादस्तेषु केवलम्।  
+> प्रत्यक्षं ज्योतिषं शास्त्रं  
+> चन्द्रार्कौ यत्र साक्षिणौ।।"
+
 - The texts (esp. veda-s) are about matters that are not easily graspable by pratyakSha. No one can see a "puNya" particle when one does a dhArmika act. Only obliquely can one ascribe the benefits of many observances to the "Lindy effect".
     - परोक्षप्रिया इव हि देवाः प्रत्यक्षद्विषः।। शतपथ०।। 
     - परोक्षविषया वेदाः परोक्षप्रिया इव हि देवाः ऐ.उ.1।14बृ.उ.4।2।2

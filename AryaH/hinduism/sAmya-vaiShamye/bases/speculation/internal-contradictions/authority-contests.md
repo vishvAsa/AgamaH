@@ -58,6 +58,14 @@ Scholars have been selective about deciding whether any book's statement can be 
 
 advaitins consider the Padma Purana verse equating Mayavada and crypto-Buddhism as an interpolation.
 
+> विष्णोर्हि वैष्णवं तद्वत् तथा भागवतं तथा।
+नारदीय पुराणं च गारुडं वैष्णवं विदुः॥
+...
+वैष्णवानि च चत्वारि तामसानि मुनीश्वराः।
+क्षत्रियाणां श्रुता धर्माः तेषु तद्देवता हरिः॥
+
+From the Skanda Purāṇa, a classification of the Vaiṣṇava Purāṇāḥ in direct opposition to the Padma. 
+
 ### Contests based on language
 - kumarIla-bhaTTa notes in a lengthy pUrvapakSa claim (via the voice of his "opponent") that the authors of the kalpa texts made many grammatical errors!
 
