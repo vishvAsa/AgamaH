@@ -1,5 +1,5 @@
 +++
-title = "Texts"
+title = "+Texts"
 +++
 
 Hindus have sacred books (aka shAstra-s -  Veda-s, epics including itihAsa-s, purANa-s, dharma-shAstra-s). Not one, but many. Some would call it "religion of the library" to contrast with "religions of the book". 
