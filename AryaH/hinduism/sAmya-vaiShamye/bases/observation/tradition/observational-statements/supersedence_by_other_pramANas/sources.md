@@ -40,9 +40,17 @@ Due to this, where the latter domains are concerned, some of their suppositions 
 - Likelihood of "corruption" (ie later additions, deletions and editing) of the details of nearly all works has been acknowledged (see "Authority contests and pedigree", and the case of veda-s) in many places.
 
 ## Allowance for Context
+### Express mutability
 - The acknowledged need to consider the context of their composition and need for later mutation.
 - Hindu behavioral (../social/ legal/ personal) system is **not at all static**. More [here](../../social-cultivation/dharma-fluid/).
-- The acknowledged need to interpret (an unspecified number of) statements rather than take them literally.
+
+### Science of the day
+Whence the digression from observation in sacred texts? Possible explanations:
+
+- शास्त्रकृतो भौतिकविषयेषु तत्-कालीन-ज्ञान-संस्कार-संस्कृतास् तथा ऽकथयन् - यथा ब्रह्मा तामस-राजस-पुराणानि +उवाच। अतीन्द्रियार्थेषु भगवत्-प्रेरिततरा आसन्।
+- तत्-तत्-कालीन-श्रोतृ-संस्कारानुकूल्येन तत्त्वान्तरज्ञापनार्थम्
+
+
 
 ## Moral ought?
 - According to some: Hindu traditions do **not have the moral "ought"** -rather they intend the word "should" - a statement of opinion that may require discussion and justification.

@@ -12,6 +12,12 @@ BhAskarI (BhAskara's commentary on AbhinavaguptAcArya's vimarSinI) on yogi-s and
 
 ## mImAMsaka opinion
 
+> न चावश्यं मन्वादयः सर्वशाखाध्यायिनः ।  
+ते हि प्रयत्नेन शाखान्तराध्यायिभ्यः श्रुत्वाऽर्थमात्रं स्ववाक्यैर् अविस्मरणार्थं निबध्नीयुः ।
+
+Kumārilabhaṭṭa’s Tantravārttika (His Siddhānta portion, not Pūrvapakṣa)
+
+
 > From {[EF](https://indianphilosophyblog.org/2017/08/10/again-on-omniscience-why-talking-about-it-gods-omniscience-and-some-reasons-to-refute-it/)}: "Basing on the same elements, the authors of the Mīmāṃsā elements altogether deny the possibility of omniscience. They explain that omniscience contradicts our experience, where knowledge always increases but never reaches on outmost limit. 
 >
 > Against the argument of repeated exercise, they observe that exercise does not need to be able to reach whatever result. For instance, no matter how much one exercises, one will never be able to jump until the moon. Nor will one’s smell be able to perceive sounds, even after an intense training. Thus, there are intrinsic boundaries to each faculty, including one’s intellect, which cannot directly grasp things, without the mediation of perception, inference and the other instruments of knowledge.
