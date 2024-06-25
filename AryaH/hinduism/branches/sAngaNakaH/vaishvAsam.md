@@ -390,7 +390,7 @@ minimum memory requirements इति यथा कथ्यते।
 पुनस् ते देवा यन्त्र-कर्तार इव, चित्र-पट-कृत इव।  
 ब्रह्माण्डे वर्तमानम् अखिलं तदीयस् स्वप्न इव।
 
-#### सर्वज्ञता
+#### सर्व-ज्ञ-कल्पता
 देश-कालातीता देवा  
 प्रेक्षका इव युगपद् अखिलं दिक्-कालजातम् अवलोकयितुं समर्थाः।  
 अथवा, भविष्यत्-कालावलोकने तैः प्रतीक्षा कार्या -  
@@ -398,6 +398,19 @@ minimum memory requirements इति यथा कथ्यते।
 जीवेषु च कर्मारम्भ-स्वातन्त्र्यं किञ्चिद् वर्तते।  
 एवं जीवापेक्षया सर्वज्ञास् तेन ते।  
 एवं देवा विभवः। 
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> मनो ह वै देवा मनुष्यस्याजानन्ति।  
+> (शतपथब्राह्मणम्)
+
+> मनसा सङ्कल्पयति। तद् देवान् अपि गच्छति।  
+> - अथर्ववेदः
+
+> As per the theory of the SYVs this cognition is passed to gods by tanU napAt manifesting as the metabolism comprised of prANa and udAna.  
+So the gods do not precognize but the thought reaches them post-facto via an effect on metabolism. - MT
+</details>
+
 
 #### सामरस्यम्
 समानं परमाण्व्-आदि-प्रेरकम् ऋतं प्रेरयन्तीति कारणेन -  
