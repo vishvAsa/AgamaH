@@ -8,10 +8,7 @@ upstream_url = "https://musingsofhh.wordpress.com/2012/09/23/german-christian-in
 Source: [here](https://musingsofhh.wordpress.com/2012/09/23/german-christian-in-dialogue-with-balinese-on-ramayanas-historicity/).
 
 
-musingsofhh
-
-
-### [German Christian in Dialogue with Balinese on Ramayana’s Historicity](https://musingsofhh.wordpress.com/2012/09/23/german-christian-in-dialogue-with-balinese-on-ramayanas-historicity/)
+[German Christian in Dialogue with Balinese on Ramayana’s Historicity](https://musingsofhh.wordpress.com/2012/09/23/german-christian-in-dialogue-with-balinese-on-ramayanas-historicity/)
 
 September 23, 2012
 
@@ -39,18 +36,4 @@ The above story is interesting precisely because it representes a dialogue betwe
 
 Source: Orientalism and Religion: Post-Colonial Theory, India and “The Mystic East” By Richard King, pp. 39-40.
 
-Advertisement
 
-**Category:**
-
-[Uncategorized](https://musingsofhh.wordpress.com/category/uncategorized/)
-
-[Leave a comment](https://musingsofhh.wordpress.com/2012/09/23/german-christian-in-dialogue-with-balinese-on-ramayanas-historicity/#respond)
-
-**Tagged with:**
-
-- [bali](https://musingsofhh.wordpress.com/tag/bali/) - [christian](https://musingsofhh.wordpress.com/tag/christian/) - [german](https://musingsofhh.wordpress.com/tag/german/) - [pagan](https://musingsofhh.wordpress.com/tag/pagan/) - [ramayana](https://musingsofhh.wordpress.com/tag/ramayana/)
-
-**[Perfecting the Aristotelian Political Animal by Christos C.Evangeliou](https://musingsofhh.wordpress.com/2012/08/14/perfecting-the-aristotelian-political-animal-by-christos-c-evangeliou/)**
-
-**[The battle of Talas & Chineseexpansionism](https://musingsofhh.wordpress.com/2013/01/21/the-battle-of-talas/)**
