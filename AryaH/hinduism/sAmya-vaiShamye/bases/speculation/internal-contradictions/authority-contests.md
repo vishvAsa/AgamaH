@@ -8,7 +8,6 @@ Scholars have been selective about deciding whether any book's statement can be 
 - Patanjali (in पस्पशाह्निकम् , महाभाष्यम् ) cautions "क्व पुनरिदं  पठितम् ?  भ्राजा नाम श्लोकाः । किंच भोः श्लोका अपि प्रमाणम् ?  किंचातः ? यदि प्रमाणम् , अयमपि प्रमाणम् भवितुम् अर्हति ..... प्रमत्तगीत एष तत्रभवतः । यस्तु अप्रमत्तगीतः तत्प्रमाणम् ।"
 
 
-
 ## Bases of authority
 ### Authorship claims
 - Historical claims about authorship is used by some traditions, in order to nominally claim some form of divine origin and higher authority in case of disputes. This is amore general phenomenon, called pseudepigrapha.
@@ -81,6 +80,17 @@ From the Skanda Purāṇa, a classification of the Vaiṣṇava Purāṇāḥ in
 - By the nahi-nindA nyAya, scholars ([LT_U](https://archive.org/stream/LakshmiTantra/Lakshmi%20Tantra%201975%20VKrishnamacharya#page/n12/mode/1up)) have often understood these contesting statements as merely advertising their own exaltedness - given the mutual complementarity (besides competitiveness) of the relationship between such texts and traditions.
 - Consider the analogous role of myths showing conflicts among the deva-s.
 - Even the mutual bickering among brAhmaNa-s of veda shAkhA-s was harmonized in this way by the sUtra period.
+
+## Hierarchy
+"इतिहास-पुराणाभ्यां वेदान् उपबृंहयेद्" इत्यत्र +इतास-पूर्वनिपातेन व्याकरणोक्तरीत्या +इतिहास-प्रमाणतरत्वम् उच्यते श्रीवैष्णवादिभिः।   
+तत्रापि रामायणं प्रधानम् मन्यन्ते। माध्वास् तु भारतम्।  
+तेन रामायणाख्यानान्तराणि पुराणपदम् आप्तानि वाल्मिकिकृतेर् अपेक्षया ऽल्पतराणि। 
+
+पुराणेषु पुनस् तारतम्यं स्वतः पुराणैर् एवोच्यते ।  
+तत्र हि तामस-राजस-सात्त्विक-भेदेन ग्राह्याग्राह्यतक्ता।  
+पुनस् तत्रापि सात्त्विकेषु तारतम्यं कथ्यते।  
+यथा विष्णुपुराणं पुराणरत्नम् इति वदन्ति श्रीवैष्णवाः - कस्यचन देवताविशेषस्य स्तुत्यर्थम् अन्तरा साधारण-पक्षपातरहित-प्रश्नैर् उपक्रमात्।  
+एवम् भागवतम् प्रधानम् मन्यन्ते गौडीयाः - ततो ब्रह्मसूत्र-पुराणान्तर-कृतो व्यासस्य तृप्तेः। 
 
 ## Interesting notes
 - Incorporation of oShadhi-based-shAmanism - [MT](https://manasataramgini.wordpress.com/2007/04/18/keshi-visham/).
