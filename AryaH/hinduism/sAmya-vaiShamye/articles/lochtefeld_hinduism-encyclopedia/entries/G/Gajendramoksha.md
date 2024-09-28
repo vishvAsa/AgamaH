@@ -23,9 +23,7 @@ The struggle between the two **animals** begins when the elephant comes
 to the water to drink and the crocodile  
 grabs him by the leg. The crocodile  
 attempts to pull the elephant into deeper water while the elephant struggles to  
-break free. The pair are so evenly  
-231  
-Gajendramoksha  
+break free. The pair are so evenly [[231]]  
 matched that neither can best the other.  
 After the battle has raged for a thousand  
 years the god **Vishnu** appears, kills the  
