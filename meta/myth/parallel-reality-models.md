@@ -26,3 +26,6 @@ It is superior to defend rAmAyaNa as myth, rather than history. Because, ultimat
 ## Defensibility of sacred myths
 The defence of "myth" vs "history" can be quite vigorous - the roman pagans were thrown into the same quandary when Christians attacked them on the same grounds. Their response was quite solid as it is (eg. sallustius in "On the Gods" ([here](https://vishvasa.github.io/AgamaH/AryaH/mediterranian/platonism/sallustius/on-the-gods/?printLayout=1&includeStyle=))), and we can adapt and build upon it. 
 
+## Presentation
+<div class="videoEmbed"  caption="SthaneshvaraH" src="https://www.youtube.com/watch?v=CypzlHmH6xw"></div>
+
