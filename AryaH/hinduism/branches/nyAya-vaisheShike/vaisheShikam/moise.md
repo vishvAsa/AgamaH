@@ -2720,7 +2720,7 @@ dravyaguṇakarmāṇ īti siddham /
 
 82 gloss gives here the metaphor of the ‘beams of sun on a mountain’ to illustrate the haphazard movement of the beams, which presumably do not follow the usual pattern of the law of gravity; in other words, the movement is caused, not a cause of something else. 
 
-*﻿Vaiśeṣikasūtra﻿ * 75
+*Vaiśeṣikasūtra * 75
 
 ***1.1.27. ‘conjunction,’81*** *** ‘effort,’ and ‘weight’ are \[the ***
 
