@@ -1344,9 +1344,6 @@ So the gods do not precognize but the thought reaches them post-facto via an eff
 - Out of body experience
 </details>
 
-
-
-
 ### आत्मा
 #### शब्दाः
 "अहं", आत्मा, जीवः, जीवात्मा, क्षेत्रज्ञः, प्रमाता, वेदकः इत्य्-आदिभिः शब्दैर्  
