@@ -1123,7 +1123,7 @@ So the gods do not precognize but the thought reaches them post-facto via an eff
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 रामानुजेन तद्-अनुयायिभिश् शेष-शिषि-भावः साधु प्रपञ्चितो  
-[ऽन्यत्र](/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/vishvAsaH/jIvAnAM_sheShatvam) द्रष्टव्यः। 
+[ऽन्यत्र](/rAmAnujIyam/tattvam/vishvAsaH/jIvAnAM_sheShatvam) द्रष्टव्यः। 
 
 यथा रामानुज आह -
 
@@ -2707,10 +2707,10 @@ Rather focus on being "playful" (ergo joyful)  while pursuing the 3 puruShArtha-
 
 तद्-अन्तरा -
 
-श्रीवैष्णवेषु प्रसिद्धं [सात्त्विक-त्याग-वाक्यं](/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/prakIrNa-mantrAdi/gadyam/sAttvika-tyAgaH_bhagavAn_eva/) क्रिया-सन्धिषु (देवाराधनादि-कल्पान् अन्तराऽपि) प्रयोक्तुम् उचितम्। +++(परार्थत्वात्)+++ फल-त्यागेन, प्रधान-कर्तृत्व-त्यागेन च  
+श्रीवैष्णवेषु प्रसिद्धं [सात्त्विक-त्याग-वाक्यं](/rAmAnujIyam/prakIrNa-mantrAdi/gadyam/sAttvika-tyAgaH_bhagavAn_eva/) क्रिया-सन्धिषु (देवाराधनादि-कल्पान् अन्तराऽपि) प्रयोक्तुम् उचितम्। +++(परार्थत्वात्)+++ फल-त्यागेन, प्रधान-कर्तृत्व-त्यागेन च  
 नैर्भर्यं प्राप्नोतितमां जीवः।
 
-एवं तदीयो [बलमन्त्रो](/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/prakIrNa-mantrAdi/gadyam/sankalpaH_bala-mantraH/) ऽपि।
+एवं तदीयो [बलमन्त्रो](/rAmAnujIyam/prakIrNa-mantrAdi/gadyam/sankalpaH_bala-mantraH/) ऽपि।
 
 #### सुनिश्चित-कर्मण्य् आत्म-निक्षेपः
 कासुचन कर्मस्व् आत्म-विस्मृतिर् इव भवतितराम्।  
