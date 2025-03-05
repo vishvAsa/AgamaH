@@ -15,6 +15,10 @@ Scholars have been selective about deciding whether any book's statement can be 
   - This was, rather, an excellent way to neutralize "argument from authority" - since every view and its opposite ended up claiming divine origins.
   - Compare with [Pseudo-Aristotle](https://en.wikipedia.org/wiki/Pseudo-Aristotle) among the greeks.
 
+#### Discernment
+If a work is cited within a few generations (not centuries) of the supposed composition, the authoriship is more credible; not otherwise.  
+If a work contradicts another by the same author, or if it has a very different style, it's supposed authorship is suspect.
+
 ### Vedic basis
 - Some works base their authoritativeness on being extracted from or based on (extinct) veda shaakhaa-s.
     - pAncharAtrika-s claim pedegree from ekAyana-veda \[[LT_U](https://archive.org/stream/LakshmiTantra/Lakshmi%20Tantra%201975%20VKrishnamacharya#page/n10/mode/1up)\].
