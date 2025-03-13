@@ -41,3 +41,5 @@ Abhinavagupta and Kshemaraja considered mudrā as a “way of accessing higher l
 - Mantras, metaphorical thinking and cross sensory stimulation : [MT](http://manasataramgini.wordpress.com/2008/11/23/the-spectrum-of-synesthesia-metaphors-and-samdhya-bhasha/).
 - Jewish view of mantra-s : [T14](http://www.tabletmag.com/jewish-arts-and-culture/books/164141/forbidden-jewish-magic-books).
 
+## छन्दः
+तान्त्रिकमन्त्रेषु पद्य-भिन्नेषु च्छन्दोऽभिज्ञाने का प्रक्रिया, किञ्च प्रयोजनम्?? 
