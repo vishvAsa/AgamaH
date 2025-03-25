@@ -70,7 +70,7 @@ Oft, appeals to "academic consensus" reminds me of similar appeals to "tradition
     - Sulabhā-janaka-saMvAda in (Śāntiparva / Book 12, Chapter 308) [SG15](http://indiafacts.co.in/the-hindu-view-on-freedom-of-expression-and-public-discourse/).
       - नातिह्रस्वः, नातिदीर्घः।
       - यथासम्भवम् असौम्यतया न वाच्यम्।
-
+  
 
 ## Emotion control
 
@@ -78,6 +78,11 @@ Oft, appeals to "academic consensus" reminds me of similar appeals to "tradition
 The truth will win in the end, and it should ideally be clear to all
 participants at the end of the debate.
 
+
+### Reflection on perceptor
+It's of course not 100% fool-proof, but as a common heuristic people judge the perceptor by the quality of the disciple ("शिष्यपापं गुरोर् अपि"). 
+
+Eg. One would be doing chinnajIyar disservice if one's defence of his statements were sub-standard. (Same holds true for chinnajIyar vis a vis rAmAnuja, and rAmAnuja vis a vis ALvArs). 
 
 ### Allowing saving of face
 
