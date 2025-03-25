@@ -5,7 +5,7 @@ title: प्रत्यक्षम् Direct witness
 
 प्रत्यक्ष is given high regard, even with regard to subjective experience. As is said:
 
-> ‘‘न हि दृष्टे अनुपपन्नं नाम’’
+> ‘‘न हि दृष्टे ऽनुपपन्नं नाम’’
 
 - The pratyaxa of one person is always of questionable utility to another - Depends on the reliability and relatability of the experiencer vis-a-vis the other.
 
