@@ -27,13 +27,23 @@ Short url - https://rebrand.ly/vaishvAsam
 जीर्णं कुब्जं न धिक्कृतम्।  
 इति काले नवीकर्तुं  
 युक्तिं देहि गजानन॥  
-+++( प्रसिद्धस्य तर्कसङ्ग्रहस्याधुनिक-विज्ञानेन साकम् असामञ्जस्यं लक्ष्यते विशिष्य द्रव्य-लक्षणेषु।)+++  
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+प्रसिद्धस्य तर्कसङ्ग्रहस्याधुनिक-विज्ञानेन साकम् असामञ्जस्यं लक्ष्यते विशिष्य द्रव्य-लक्षणेषु।
+</details>
+
 
 **काणादं पाणिनीयञ्** च  
 सर्व-शास्त्रोपकारकम्।  
 इति नत्वाऽथ तस्यैव  
 धाराम् अत्रानुवर्तये॥  
-+++( “प्रतीति-शरणा नैयायिकाः” इति सति परिष्कारो युक्तः। प्रामाणिक-बुद्धेर् धीमतः कणाद-महर्षेर् अप्य् अयं शोधनयत्नो ऽन्-असम्मतः स्यात्।)+++
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+“प्रतीति-शरणा नैयायिकाः” इति सति परिष्कारो युक्तः। प्रामाणिक-बुद्धेर् धीमतः कणाद-महर्षेर् अप्य् अयं शोधनयत्नो ऽन्-असम्मतः स्यात्।
+</details>
+
 
 ### दर्शने काङ्क्षितम्
 सारवत्-तत्त्व-ज्ञान-विशेषो **दर्शनम्** इति।   
@@ -50,7 +60,7 @@ Short url - https://rebrand.ly/vaishvAsam
 जयार्थं बुद्धिमत्-स्वभावाविरोधार्थं च दर्शनं **सत्यं** स्याद् इत्य् अपीष्टम्।  
 
 #### प्रामाणिकता
-सत्ये च **प्रमाणानि** प्रसिद्धानि - प्रत्यक्षम्, अनुमानम्, विश्वस्त-सम्प्रदाय इति। तद्-विरोधो न स्यात्।  
+सत्ये च **प्रमाणानि** प्रसिद्धानि - प्रत्यक्षम्, अनुमानम्, विश्वस्त-सम्प्रदायः/ आप्त-वचनम् इति। तद्-विरोधो न स्यात्।  
 (प्रत्यक्ष-प्रमाणैः स्वानुभूतय इत्य् अपि प्रमेया गृह्यन्ते।)
 
 प्रत्यक्ष-प्रमाणेभ्यो मन्त्रादि-तत्त्व-श्रद्धोत्पादनायापि कृतम्  
@@ -103,11 +113,13 @@ Short url - https://rebrand.ly/vaishvAsam
 अत इमां स्पर्धाम् अवगत्य,  
 "न हि निन्दा"-न्यायादीन् प्रयुज्य विरोध-परिहारः कार्यः।  
 विशिष्य, "अमुक-देवो ऽप्राकृत-शरीरवान्/ ईश्वरः" इत्य् आप्त-वचनस्य सङ्कोचः  
-"स देवः प्राकृतः" इति विश्वस्त-प्रबन्ध-गत-वाक्यान्तरं न साधयेत्। 
+"स देवः प्राकृतः" इति विश्वस्त-प्रबन्ध-गत-वाक्यान्तरं न साधयेत्।
 
 <details><summary>English</summary>
 
-If one is honest historically, one will recognise competing cults even in shruti. the best way then to achieve ekavkyatA is to acknowledge this, subsume their principal deities into Ishvaratattva, and apply nahi nindA logic. the traditional reconciliation doesn't account for this history - they did not understand the cult competition factor.
+If one is honest historically, one will recognise competing cults even in shruti. the best way then to achieve ekavkyatA is to acknowledge this, subsume their principal deities into Ishvaratattva, and apply nahi nindA/ name sharing logic. 
+
+The traditional reconciliation doesn't account for this history - they did not understand the cult competition factor. They instead relied on sAmAnAdhikaraNya, which in results in a loss of valuable common meanings (rUDhArtha).
 </details>
 
 
@@ -281,8 +293,9 @@ But, techniques accepted in daxiNa-tantra can bring classical vaidika AchAra up 
 **इन्द्रियम्** इत्य् उच्यताम्।  
 सङ्गणकयन्त्रेष्व् अक्षरशो वाक्यपठनक्रमो ऽपीन्द्रियम् एव।
 
-न हि सर्वेषु जीव-जातिषु सर्वाणीन्द्रियाणि वर्तन्ते।  
-भिन्न-जीवेषु च समानस्येन्द्रियस्य बाले तारतम्यं वर्तते - यथा शुनके घ्राणबलम् अधिकं मनुष्यापेक्षया, दर्शनबले विपरीतम्।
+न हि सर्वेषु जीव-जातिषु सर्वाणीन्द्रियाणि वर्तन्ते -  
+यथा केषुचित् प्राणिष्व् एव +अयःकान्तीयम् इन्द्रियम् (Magnetoreception)।  
+भिन्न-जीवेषु च समानस्येन्द्रियस्य बाले तारतम्यं वर्तते - यथा शुनके घ्राणबलम् अधिकं मनुष्यापेक्षया, दर्शन-बले विपरीतम्।
 
 आन्तरिकाणीन्द्रियाणि पश्चान् निर्वक्ष्यन्ते। 
 
@@ -1115,6 +1128,9 @@ So the gods do not precognize but the thought reaches them post-facto via an eff
 नाम-समता कुत इति चेत् -  
 अप्राकृत-देवता-नियन्त्रिक्ता प्राकृत-शरीरिणी देवतेति।  
 द्वाव् अपि मार्गौ शास्त्रेष्व् आश्रितौ दृश्येते। 
+
+यत् प्राञ्चः केचित् सामानाधिकरण्यम् ऊचुर् भिन्न-शब्दानाम् ईश्वरादि-वाचकानाम् -  
+तेन रूढार्थो ऽसकृत् त्यज्यते इति दोषोऽपरः।
 
 <details><summary>समान-नामक-देवता-द्वन्द्व-तन्त्रम्</summary>
 
