@@ -51,7 +51,11 @@ Brilliant shrI rAmAnuja clearly limiting scope of shAstra, mincing no words (whi
 > "न हि श्रुतिशतमपि ‘शीतोऽग्निरप्रकाशो वा’ इति ब्रुवत् प्रामाण्यमुपैति । यदि ब्रूयात् ‘शीतोऽग्निरप्रकाशो वा’ इति, तथापि अर्थान्तरं श्रुतेः विवक्षितं कल्प्यम्। प्रामाण्यान्यथानुपपत्तेः। न तु प्रमाणान्तरविरुद्धं स्ववचनविरुद्धं वा ।"  
 > \- शङ्करः गीताभाष्ये (१८.७३?)।
 
-
+> “परश्-शत-परिक्षोदात्  
+> परस्ताद् अपि वादिभिः ।  
+> **उपलम्भ**-बले **स्थेयं**  
+> किम् आदौ तन् न **गृह्यते**॥"  
+(वेङ्कटनाथः न्यायसिद्धाञ्जनम् जड. परि. ४)  
 
 ### Impact on text interpretation
 - Observation + inference may augment the overall validity of texts in some cases (see "holy books") or refute literal or non-contextual understanding of specific portions. See [books/non-absoluteness]() page. 
