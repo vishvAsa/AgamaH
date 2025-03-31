@@ -25,15 +25,18 @@ Anything intolerant to our tolerant hindu structure should not be tolerated, if 
 ## Classical doctrine
 
 - **jayanta-bhaTTa in his AgamADambara** ([V](https://vajrin.wordpress.com/2012/11/25/sarva-dharma-samabhava-an-astika-view/)) illustrates the classical view that a tradition (which might include  a religion) should be suppressed within a society that it seeks to subvert (it is all right if it is the practice in a separate foreign state).
-    - अविच्छिन्ना येषां वहति सरणिः सर्वविदिता,  
-    न यत्रार्यो लोकः परिचय-कथालाप-विमुखः।  
-    यदिष्टानुष्ठानं न खलु जनभयं न सभयं,  
-    न रूपं येषां च स्फुरति नवम् अभ्युत्थितम् इव॥  
-    प्रमत्तगीतत्वम् अलौकिकत्वम्  
-    आभाति लोभादि न यत्र मूलम्।  
-    तथाविधानाम् अयम् आगमानाम्  
-    प्रामाण्यमार्गो न तु यत्र तत्र॥
-    - To check: Cakrabhanu.
+
+> अविच्छिन्ना येषां वहति सरणिः सर्वविदिता,  
+न यत्रार्यो लोकः परिचय-कथालाप-विमुखः।  
+यदिष्टानुष्ठानं न खलु जनभयं न सभयं,  
+न रूपं येषां च स्फुरति नवम् अभ्युत्थितम् इव॥  
+प्रमत्तगीतत्वम् अलौकिकत्वम्  
+आभाति लोभादि न यत्र मूलम्।  
+तथाविधानाम् अयम् आगमानाम्  
+प्रामाण्यमार्गो न तु यत्र तत्र॥
+
+- To check: Cakrabhanu.
+
 - Some rare authoritative verses motivate curtailment of freedom of expression to a greater degree.
     - Yet, hindu-s almost never followed up on such verses, and instead tolerated rivals of their deities - by simply labeling them vēda-nindaka-s and pāshaṇḍa-s.
     - This is of course because hindu-s are an amoral people in this sense: they don't have a "moral ought" - rather, shAstra's statements are considered to be opinions; this sentiment is well established in the society.(../Details [here](../../bases/books/index/).)
