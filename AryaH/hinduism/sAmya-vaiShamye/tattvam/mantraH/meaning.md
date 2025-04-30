@@ -33,11 +33,3 @@ title: Meaning
 इति वेदेषु भाषितम् ।
 
 इति भारद्वाजः। 
-
-## गायत्र्यां विभक्तिः
-> 1. \when the sadak (upasak) uses the deity"s mantra as "prayog Mantra", he can use 2nd vibhakthi. 
-> 2. When the sadak (upasak) uses the deity"s mantra as "Upasana Mantra", he uses 4th vibhakthi. 
-> 
-> इति रामः। 
-
-सुन्दरम्। व्याकरणम् अपि संवदति। तादर्थ्ये चतुर्थी, कर्मणि द्वितीया।  

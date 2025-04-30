@@ -4,7 +4,7 @@ title: +अधिमन्त्रम्
 
 ## What is the power of mantra-s?
 
-- It is an aid to concentrating the mind on the deity or a sentiment. This is often true in the context of a ritual.
+- It is an aid to concentrating the mind on the deity or a sentiment or even an entire philosophy. This is often true in the context of a ritual.
 
 ### siddhi-s
 - Many attribute supernatural effects beyond it - mAraNa, vashIkaraNa, uchChATana, stambhana, mohana, vidveShaNa ... All these are said to be possible with mastery (siddhi) over a single mantra and knowledge of appropriate rituals.
