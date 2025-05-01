@@ -28,6 +28,13 @@ Direct observation (extensible to experimental science) and inference is a valua
 ##  Primacy over text
 Literal understanding of sayings in the veda-s and shAstra-s, contradicting direct observation (and science), is considered naive and wrong.
 
+> प्रत्यक्षेणानुमित्या वा  
+यस् तूपायो न बुध्यते।  
+तं विदन्ति तु वेदेन  
+तस्माद् वेदस्य वेदता ॥
+
+is oft quoted.
+
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/164/39_Rcho_axare.md" unfilled newLevelForH1="5" includeTitle="false"> </div>  
 
 
