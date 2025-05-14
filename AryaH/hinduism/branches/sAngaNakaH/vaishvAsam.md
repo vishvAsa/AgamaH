@@ -3009,7 +3009,7 @@ Rather focus on being "playful" (ergo joyful)  while pursuing the 3 puruShArtha-
 +++(परार्थत्वात्)+++ फल-त्यागेन, प्रधान-कर्तृत्व-त्यागेन च  
 नैर्भर्यं प्राप्नोतितमां जीवः।
 
-एवं तदीयो [बलमन्त्रो](/rAmAnujIyam/prakIrNa-mantrAdi/gadyam/sankalpaH_bala-mantraH/) ऽपि।
+एवं तदीयो [बलमन्त्रो](/rAmAnujIyam/prakIrNa-mantrAdi/gadyam/sankalpaH/bala-mantraH/) ऽपि।
 
 अभिगतिर् उपादानम्  
 इज्या स्वाध्याय-योगकौ।  
