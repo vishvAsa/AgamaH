@@ -2,8 +2,12 @@
 title: Post-veda vs veda
 ---
 
-## सारः
+## veda deficiencies
+### Incompleteness
 वेदा अपूर्णा इति ते स्वयं वदन्ति। तेन वेदभिन्नान्य् अपि शास्त्राणि यथोचितं ग्राह्याणि स्युः। 
+
+### Irrelevant bits
+- On vaidika (kAmya) karma-s vis-a-vis mokSha and pravRtti-dharma: यामिमां पुष्पितां वाचं प्रवदन्त्यविपश्चितः। … यावानर्थ उदपाने सर्वतः संप्लुतोदके। तावान् सर्वेषु वेदेषु ब्राह्मणस्य विजानतः॥2.46॥ \[[2.46 note](/purANam_vaiShNavam/mahAbhAratam/vyAsaH/shlokashaH/bhagavad-gItA-parva/meta/how-much-does-bg-2-42-2-46-subvert-pravrtti-dharma/)\]
 
 ## वेद-विरोध-न्यक्-कृतिः
 पुराणेतिहासान् पञ्चमवेदं वा कथयतु, पञ्चमानाम् वेद इति वाऽपि :-)। नाम्नि किम्?  
@@ -40,11 +44,8 @@ Within sectarian limits, some non-vaidika shAstra-s may be considered equal to t
 - एवं वा अरेऽस्य महतो भूतस्य निःश्वसितमेतद्यद्ऋग्वेदो यजुर्वेदः सामवेदोऽथर्व्वाङ्गिरस इतिहासः पुराणम्।
 - छान्दोग्योपनिषदि च (७.१.२) – “ऋग्वेदं भगवोऽध्येमि यजुर्वेदं सामवेदमाथर्वणम् चतुर्थमितिहासं पुराणं पञ्चमं वेदानां वेदम्”
 
-## Superficial challenges to veda-s
-- On vaidika (kAmya) karma-s vis-a-vis mokSha and pravRtti-dharma: यामिमां पुष्पितां वाचं प्रवदन्त्यविपश्चितः। … यावानर्थ उदपाने सर्वतः संप्लुतोदके। तावान् सर्वेषु वेदेषु ब्राह्मणस्य विजानतः॥2.46॥ \[[2.46 note](/purANam_vaiShNavam/mahAbhAratam/vyAsaH/shlokashaH/bhagavad-gItA-parva/meta/how-much-does-bg-2-42-2-46-subvert-pravrtti-dharma/)\]
-
 ## Inferiority
-Rising above sectarian limits: They're considered valid, but inferior (especially with regards to dharma, if not upAsana).
+Rising above sectarian limits: other sacred texts are considered valid, but inferior (especially with regards to pravRtti-dharma).
 
 - See shabara example presented above.
 - jaiminI viewed veda-s as more authoritative than smRti-s, which were considered authoritative only in so far as it does not oppose the veda-s.
