@@ -21,3 +21,10 @@ It is to the credit of Siddhānta (which falls under Tantrāgama) that Vedic ins
 Who do you think made large swathes of people adopt such an Ācāra? Vaidikas?
 
 No. It’s the Ācāryas of the Siddhānta who drew upon the power of Śiva to impress Vaidikācāra and its associated norms and habits on large groups of families, which were otherwise untouched by Vaidikācāra. The Pāñcarātra too made similar contributions.
+
+Pure Vaidika is a rhetorical device and fiction, not reality. “We follow only Vedic injunctions Saar”—joining Utsavamūrti’s procession and reciting Śatarudriyam behind the Utsavamūrti is under which injunction? Performing Caṇḍiyāga or going deep into Lalitāsahasranāma’s commentarial tradition falls under which Vaidika injunction?
+
+Pūrvamīmāmsakas were not fond of temples (as can be seen in the manubhāșya of Medhātithi) but when temples became the beating heart of Dharma and the grand force which sustained even Vaidikam (temples did so much for Vaidikas who are forever indebted to Hara and Hari for this), their spiritual descendants switched to “temple okay bro but Tantrāgama is not”.
+
+One is reminded of a Śloka from Bhavișyapurāņa, which appears to have been inserted by a Devālayadveșī, which states that Sattras (very complex, often year-long Vedic sacrificial sessions performed by a group rather than an individual Yajamāna) should not be hosted by temples, probably the only institution which could have actually afforded to perform Sattras in the first place. Mātsarya/Jealousy…
+
