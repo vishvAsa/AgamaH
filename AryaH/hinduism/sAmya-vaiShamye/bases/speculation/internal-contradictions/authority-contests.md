@@ -69,7 +69,15 @@ advaitins consider the Padma Purana verse equating Mayavada and crypto-Buddhism 
 
 From the Skanda Purāṇa, a classification of the Vaiṣṇava Purāṇāḥ in direct opposition to the Padma. 
 
-### Contests based on language
+### Author's weaknesses
+With pauruSheya vAkya-s, it becomes important to know the qualities and circumstances of the person producing them.
+
+- mAdhva account of madhva's sannyAsa casting the shAnkara tradition as Asurika is found in 7-9 sargas of nArAyaNa paNDitarAja's maNimanjari \[[pdf](https://archive.org/details/ManimanjariOfNarayanaPandita/page/n21)\]. 
+- The bauddha-taint
+    - pracChanna-bauddhatA charge by bhAskara and rAmAnuja [BVP17](https://groups.google.com/d/msg/bvparishat/kZikXaymSIw/Ej9695exBAAJ).
+
+
+#### Contests based on language
 - kumarIla-bhaTTa notes in a lengthy pUrvapakSa claim (via the voice of his "opponent") that the authors of the kalpa texts made many grammatical errors!
 
 ### Examples
