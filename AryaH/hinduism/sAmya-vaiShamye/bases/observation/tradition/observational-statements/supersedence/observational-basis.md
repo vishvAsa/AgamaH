@@ -2,6 +2,7 @@
 title = "Observational basis"
 +++
 
+## Astronomy
 > ज्योतिः-शास्त्रे ऽपि  
 युग-परिवर्त-परिमाण-द्वारेण   चन्द्रादित्यादि-गति-विभागेन  तिथि-नक्षत्र-ज्ञानम्  
 अविच्छिन्न-संप्रदाय--गणितानुमान-मूलम्।   
@@ -23,4 +24,5 @@ logical inference therefrom being transmitted as tradition,
 it being again correlated & transmitted down to others- this is how tradition is continued without interruption,  
 and hence its continued authoritativeness."
 
-
+## dharma
+- With regards to dharma, given its laxaNa (prosperity and victory): pratyaxa and anumAna can have decisive role in rejecting/ pruning shruti contradictions/ misinstructions. 
