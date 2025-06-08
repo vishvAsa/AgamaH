@@ -35,14 +35,7 @@ If a work contradicts another by the same author, or if it has a very different 
 
 ## Challenges to authority claims
 ### Interpolation
-- Ancient observations
-  - A position adopted by the likes of madhvAcArya is that many works (especially itihAsa-s and purANa-s) contains interpolations, deletions and corruptions. \[[MTN](http://mahabharata-resources.org/mbtntrans/chapter_2_gururajahrao.pdf)  2.3\]
-  - vedAntadeshika pointed out that some use fabricated texts, ascribing them to vyAsa.
-- Motivation
-  - Sometimes, marginal comments may come to be inserted into the main text when the manuscript is copied.
-
-- bhaviShyapurANa
-    - "Many parts of Bhavishya purana are original. Some chapter were added in time of Akbar to show him reincarnation of Prithviraj Chauhan. 2 chapters were added by either William Jones or Eric Pargiter to show that British are descendants of Hanuman who were blessed by Bhagvan Ram to rule India. William Jones also removed some key verses of puranas."
+See [here](/AgamAH/AryaH/hinduism/sAmya-vaiShamye/bases/texts/interpolation/)
 
 ### moha-shAstra 
 
