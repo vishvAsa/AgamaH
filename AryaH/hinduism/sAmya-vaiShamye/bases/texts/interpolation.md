@@ -7,6 +7,9 @@ Words present in some recensions but not in others are likely interpolated or el
 
 A verse or statement that should have been cited by an ancient commentator, but begins appearing in later works, is likely interpolated.
 
+If a text contradicts another by the same author (esp in the same work!), or if it has a very different style, it's suspect.
+
+
 ## Motivation
 
 - Sometimes, marginal comments may come to be inserted into the main text when the manuscript is copied.
