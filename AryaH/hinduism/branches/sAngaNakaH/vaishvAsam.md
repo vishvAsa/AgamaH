@@ -57,7 +57,19 @@ Short url - https://rebrand.ly/vaishvAsam
 
 क्वचिज् जयकाङ्क्षा दुःखहेतुर् भवति - पराजयो हि सहजो लोके। न कश्चित् सर्वदा जयति। तेनैतयोर् इष्टयोः **परस्परविरोधो** यथासम्भवं **ह्रसनीयः**।  
 
-जयार्थं बुद्धिमत्-स्वभावाविरोधार्थं च दर्शनं **सत्यं** स्याद् इत्य् अपीष्टम्।  
+जयार्थं बुद्धिमत्-स्वभावाविरोधार्थं च  
+दर्शनं **सत्यं** स्याद् इत्य् अपीष्टम्।  
+
+सद्दर्शने आत्म-जिज्ञासाम्, देव-जिज्ञासां चान्तरा देव-विभूति-भूत-लोक-जिज्ञासा ऽपि देवाराधनत्वेन गृह्येत। 
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+A good religion ought to consider understanding nature (not just AtmA and the Gods) a sacred activity. Classical vedAnta (in practice, and often in theory) doesn't. Must fix.
+
+Even traditional rAmAnujIya-s deprecate it as something countering vairAgya. 
+Better attiutde within their framework - लोकावेक्षा विरक्तस्यापि शोभेत - लोकस्य भगवद्-विभूतित्वेन।
+</details>
+
 
 #### प्रामाणिकता
 सत्ये च **प्रमाणानि** प्रसिद्धानि - प्रत्यक्षम्, अनुमानम्, विश्वस्त-सम्प्रदायः/ आप्त-वचनम् इति।  
