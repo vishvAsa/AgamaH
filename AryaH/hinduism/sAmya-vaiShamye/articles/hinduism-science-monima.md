@@ -27,7 +27,7 @@ Select Format  Select format .ris (Mendeley, Papers, Zotero) .enw (EndNote) .bib
 
 ## Abstract
 
-A look at the history and evolution of Hinduism shows that religion and science are necessarily antagonistic. Scientific enterprises flourished in India partly because of the pluralistic and tolerant nature of Hinduism. The pedagogical strategy and the commentary tradition in ancient Hindu schools meant that sages and philosophers were perpetually engaged in reinterpreting the Vedas and defending their interpretation of the doctrine against fellow Hindus and other heterodox traditions like Buddhism, Jainism, and the Cārvākas (the materialists) in ancient India. To support this hypothesis, the author of this chapter offers some examples of scientific enterprises that flourished in ancient India.
+A look at the history and evolution of Hinduism shows that religion and science are +++(not)+++ necessarily antagonistic. Scientific enterprises flourished in India partly because of the pluralistic and tolerant nature of Hinduism. The pedagogical strategy and the commentary tradition in ancient Hindu schools meant that sages and philosophers were perpetually engaged in reinterpreting the Vedas and defending their interpretation of the doctrine against fellow Hindus and other heterodox traditions like Buddhism, Jainism, and the Cārvākas (the materialists) in ancient India. To support this hypothesis, the author of this chapter offers some examples of scientific enterprises that flourished in ancient India.
 
 Keywords: [pluralism](/search-results?qb=%7b%22Keywords1%22:%22pluralism%22%7d), [Vedas](/search-results?qb=%7b%22Keywords1%22:%22Vedas%22%7d), [Hindu schools](/search-results?qb=%7b%22Keywords1%22:%22Hindu+schools%22%7d), [heterodox traditions](/search-results?qb=%7b%22Keywords1%22:%22heterodox+traditions%22%7d)
 
@@ -187,15 +187,19 @@ Pāṇini’s grammar had its critics then and now. Since Sanskrit was revered a
 
 In his paper ‘Zero: An Eternal Enigma’, Parthasarathi [Mukhopadhyay (2019]) talks about the genesis of zero. Many experts concerned with the history of the conceptual as well as etymological evolution of the concept of zero trace it back to the word _śūnya_ of Indian antiquity. Mukhopadhyay’s fascinating work concludes that the philosophical concept of _śūnya_ and the Sanskrit words akin to it eventually pave the way for the evolution of the corresponding mathematical concept of zero. He traces the concept of _śūnya_ back to two sources, both concerned with language. 
 
-The first is the _Piṅgalacchandaḥsūtra_, the rules of prosody for both Vedic and classical _chanda_ given by Piṅgala, arguably some time during second century bce. As far as our present evidence stands, Piṅgala introduced a binary representation system that needed the concept of zero, which he termed _śūnya_ ([Plofker et al. 2017]). The second source is Pāṇini’s use of his grammatical or linguistic ‘zero’, viz. _lopa_, that was used as a marker of an empty (_śūnya_) or non-occupied space or position ([Staal 2010]). His relevant basic _sūtra_ is _adarśanam lopaḥ_, found in the Aṣṭādhyāyī (I.1.60) which means ‘non-appearance is _lopa_’, a concept which can be rendered by the modern term ‘zeroing’. It is unclear whether Pāṇini borrowed from Piṅgala’s positional mathematics or whether it was Pāṇini’s grammar which inspired the great mathematical invention. Whatever symbol for this concept might have been used by ancient Hindu linguists is not known to us but it seems clear that they were familiar with the mathematical concept of zero (_śūnya_). There is thus plenty of evidence to think that sophisticated and abstract mathematics was pursued by ancient Hindus.
+The first is the _Piṅgalacchandaḥsūtra_, the rules of prosody for both Vedic and classical _chanda_ given by Piṅgala, arguably some time during second century bce. As far as our present evidence stands, Piṅgala introduced a binary representation system that needed the concept of zero, which he termed _śūnya_ ([Plofker et al. 2017]). 
+
+The second source is Pāṇini’s use of his grammatical or linguistic ‘zero’, viz. _lopa_, that was used as a marker of an empty (_śūnya_) or non-occupied space or position ([Staal 2010]). His relevant basic _sūtra_ is _adarśanam lopaḥ_, found in the Aṣṭādhyāyī (I.1.60) which means ‘non-appearance is _lopa_’, a concept which can be rendered by the modern term ‘zeroing’. It is unclear whether Pāṇini borrowed from Piṅgala’s positional mathematics or whether it was Pāṇini’s grammar which inspired the great mathematical invention. Whatever symbol for this concept might have been used by ancient Hindu linguists is not known to us but it seems clear that they were familiar with the mathematical concept of zero (_śūnya_). There is thus plenty of evidence to think that sophisticated and abstract mathematics was pursued by ancient Hindus.
 
 As with the science of language, the science of heavenly bodies (_jyotiṣavedāṅga_) was important to the ancient Hindus because the rituals and the sacrifices prescribed in the Vedas were to be performed in a specific order, at fixed times, and especially designed altars. The sizes, shapes, and direction of the sites and altars were of utmost importance. A sacrificer had to adhere to the prescriptions of order, time, and place, without which he would stand to lose the merit to be attained through the specific ritual he was performing. The specific requirements for the construction of sacrificial altars and the need to fix the order and dates were the catalysts for the development of mathematics, geometry, and astronomy.
 
-In the earliest times there is evidence of the formulation of some abstract mathematical equations to enable calculations required for designing sacrificial altars. The evidence of these is found in the _Śulbasūtras_ (in the _Brāhmanas_, a part of Vedas) which contained the practical instructions for the preparation of the sites of rituals. But their content was not restricted to practical geometry like the measurement of land, they also contain theoretical aspects. The practical requirement was simply to draw altars in various shapes with a given area. But the authors of the _Śulbasūtras_ went beyond these practical requirements and developed theoretical mathematics to come up with transformations of geometric figures without changing their areas ([Hayashi 2003]).
+In the earliest times there is evidence of the formulation of some abstract mathematical equations to enable calculations required for designing sacrificial altars. The evidence of these is found in the _Śulbasūtras_ (in the _Brāhmanas_, a part of Vedas) which contained the practical instructions for the preparation of the sites of rituals. But their content was not restricted to practical geometry like the measurement of land, they also contain theoretical aspects. The practical requirement was simply to draw altars in various shapes with a given area. But the authors of the _Śulbasūtras_ went beyond these practical requirements and developed theoretical mathematics to come up with transformations of geometric figures without changing their areas ([Hayashi 2003]).+++(4)+++
 
 ### 9.4.4 Example 4: The Science of Heavenly Bodies
 
-The solar and the lunar eclipses are the most conspicuous of the phenomena in the sky. They were the centre of attention of the Vedic sages, but the earliest explanations of these eclipses were offered in the Puranic myths which evoked demons and snakes, specifically _Rāhu_. These explanations were called into doubt by the Indian astronomers Āryabhaṭa (476 ce) and Brahmagupta (598 ce) but the clearest refutation of these legends is found in the works of Lalla (748 ce). Lalla was a student in Āryabhaṭa’s school and thus was familiar with his geokineticism. He followed many of the rules formulated in Brahmagupta’s to offer perhaps the most decisive refutation of the myths in his magnum opus _Śiṣyadhīvṛddhidatantra_. Lalla questions the Puranic legend by pointing to various inconsistencies. But his arguments are clearly based on empirical observations, as is evident in the refutation. An excerpt from the text illustrates this point:
+The solar and the lunar eclipses are the most conspicuous of the phenomena in the sky. They were the centre of attention of the Vedic sages, but the earliest explanations of these eclipses were offered in the Puranic myths which evoked demons and snakes, specifically _Rāhu_. These explanations were called into doubt by the Indian astronomers Āryabhaṭa (476 ce) and Brahmagupta (598 ce) but the clearest refutation of these legends is found in the works of Lalla (748 ce). Lalla was a student in Āryabhaṭa’s school and thus was familiar with his geokineticism. He followed many of the rules formulated in Brahmagupta’s to offer perhaps the most decisive refutation of the myths in his magnum opus _Śiṣyadhīvṛddhidatantra_. Lalla questions the Puranic legend by pointing to various inconsistencies. 
+
+But his arguments are clearly based on empirical observations, as is evident in the refutation. An excerpt from the text illustrates this point:
 
 > If the _Rāhu_ has a body or is a disc, or a head or is a planet in the sky, and if it is always moving, why should it swallow (the Moon) only at a distance of six signs (from the Sun)?
 >
@@ -215,11 +219,15 @@ The solar and the lunar eclipses are the most conspicuous of the phenomena in th
 >
 > (Verses 21–27)
 
-Everything in the text above points to a scientific explanation of the eclipses by reason and observation, except of course in the last verse where Lalla reconciles his explanation with why the authors of the Puranas might have thought of eclipses being caused by demon _Rahu_. More lip service, perhaps. But I think it is done in the spirit of reconciliation of the scientific hypothesis backed by observation and reason with the myth of _Rāhu_ rather than in the spirit of antagonism. The reasoning clearly explains why the _Rāhu_ might have thought to be compelling but is in the last analysis untenable.
+Everything in the text above points to a scientific explanation of the eclipses by reason and observation, except of course in the last verse where Lalla reconciles his explanation with why the authors of the Puranas might have thought of eclipses being caused by demon _Rahu_. More lip service, perhaps.+++(5)+++ But I think it is done in the spirit of reconciliation of the scientific hypothesis backed by observation and reason with the myth of _Rāhu_ rather than in the spirit of antagonism. The reasoning clearly explains why the _Rāhu_ might have thought to be compelling but is in the last analysis untenable.
 
 ## 9.5 Conclusion
 
-The examples offered above support my hypothesis that serious scientific enterprises in linguistics, mathematics, and astronomy flourished hand-in-hand with Vedic studies. There was no obvious antagonism between the two. There are no tales of scientists being persecuted because of their empirical methods or results that contradicted the myths and tales in the Hindu cannons. They were allowed to set up their schools and were revered as sages and teachers. This is evident from the fact that the commentarial tradition that developed the theories of the pioneers like Pāṇini was inspired by his insights, but the commentators would not hesitate to point out the shortcomings of their scientific discoveries and suggest novel interpretations. This would sometimes lead to misinterpretation of the original texts, but that was the price that had to be paid to keep the tradition alive and relevant over centuries. This completes my argument in favour of the hypothesis that Hinduism contributed to science by promoting the values of pluralism, scepticism and epistemic humility, and by providing the larger philosophical environment in which faith and reason were seen as partners rather than competitors in the advancement of intellectual enterprises.
+The examples offered above support my hypothesis that serious scientific enterprises in linguistics, mathematics, and astronomy flourished hand-in-hand with Vedic studies. There was no obvious antagonism between the two. 
+
+There are no tales of scientists being persecuted because of their empirical methods or results that contradicted the myths and tales in the Hindu cannons. They were allowed to set up their schools and were revered as sages and teachers. This is evident from the fact that the commentarial tradition that developed the theories of the pioneers like Pāṇini was inspired by his insights, but the commentators would not hesitate to point out the shortcomings of their scientific discoveries and suggest novel interpretations. This would sometimes lead to misinterpretation of the original texts, but that was the price that had to be paid to keep the tradition alive and relevant over centuries. 
+
+This completes my argument in favour of the hypothesis that Hinduism contributed to science by promoting the values of pluralism, scepticism and epistemic humility, and by providing the larger philosophical environment in which faith and reason were seen as partners rather than competitors in the advancement of intellectual enterprises.
 
 ## Primary Texts
 
@@ -235,619 +243,167 @@ _Śisyadhīvrddhidatantra_. Chatterjee, B. (1981). 2 Vols. Indian National Scien
 
 ## References
 
-Bhattacharya, R. (
-
-2005
-
-). ‘
-
-Science and Superstition in Indian Astronomy
-
-’,
-
-_Journal of the Asiatic Society_
-
-, XLVII(1): 50–55.
-
-[Google Scholar](https://scholar.google.com/scholar_lookup?title=Science%20and%20Superstition%20in%20Indian%20Astronomy&author=%20&publication_year=2005&journal=Journal%20of%20the%20Asiatic%20Society&volume=&pages=)
-
-[OpenURL Placeholder Text]
-
-[WorldCat](https://www.worldcat.org/search?q=ti:Science%20and%20Superstition%20in%20Indian%20Astronomy&qt=advanced&dblist=638)
+Bhattacharya, R. ( 2005 ). ‘ Science and Superstition in Indian Astronomy’ , _Journal of the Asiatic Society_,  XLVII(1): 50–55.[ Google Scholar](https://scholar.google.com/scholar_lookup?title=Science%20and%20Superstition%20in%20Indian%20Astronomy&author=%20&publication_year=2005&journal=Journal%20of%20the%20Asiatic%20Society&volume=&pages=)[ OpenURL Placeholder Text][ WorldCat](https://www.worldcat.org/search?q=ti:Science%20and%20Superstition%20in%20Indian%20Astronomy&qt=advanced&dblist=638)
 
 
 
-Bhattacharya, R. (
-
-1990
-
-). ‘
-
-The Case of Āryabhaṭa and His Detractors
-
-’,
-
-_The Indian Historical Review_
-
-, 17(1–2): 35–47.
-
-[Google Scholar](https://scholar.google.com/scholar_lookup?title=The%20Case%20of%20%C4%80ryabha%E1%B9%ADa%20and%20His%20Detractors&author=%20&publication_year=1990&journal=The%20Indian%20Historical%20Review&volume=&pages=)
-
-[OpenURL Placeholder Text]
-
-[WorldCat](https://www.worldcat.org/search?q=ti:The%20Case%20of%20%C4%80ryabha%E1%B9%ADa%20and%20His%20Detractors&qt=advanced&dblist=638)
+Bhattacharya, R. ( 1990 ). ‘ The Case of Āryabhaṭa and His Detractors’ , _The Indian Historical Review_,  17(1–2): 35–47.[ Google Scholar](https://scholar.google.com/scholar_lookup?title=The%20Case%20of%20%C4%80ryabha%E1%B9%ADa%20and%20His%20Detractors&author=%20&publication_year=1990&journal=The%20Indian%20Historical%20Review&volume=&pages=)[ OpenURL Placeholder Text][ WorldCat](https://www.worldcat.org/search?q=ti:The%20Case%20of%20%C4%80ryabha%E1%B9%ADa%20and%20His%20Detractors&qt=advanced&dblist=638)
 
  
 
-Brough, J. (
-
-1951
-
-). ‘
-
-Theories of General Linguistics in Sanskrit Grammarians
-
-’,
-
-_Transactions of the Philological Society_
-
-50(1): 27–46.
-
-[Google Scholar](https://scholar.google.com/scholar_lookup?title=Theories%20of%20General%20Linguistics%20in%20Sanskrit%20Grammarians&author=%20&publication_year=1951&journal=Transactions%20of%20the%20Philological%20Society&volume=&pages=)
-
-[OpenURL Placeholder Text]
-
-[WorldCat](https://www.worldcat.org/search?q=ti:Theories%20of%20General%20Linguistics%20in%20Sanskrit%20Grammarians&qt=advanced&dblist=638)
+Brough, J. ( 1951 ). ‘ Theories of General Linguistics in Sanskrit Grammarians’ , _Transactions of the Philological Society_ 50(1): 27–46.[ Google Scholar](https://scholar.google.com/scholar_lookup?title=Theories%20of%20General%20Linguistics%20in%20Sanskrit%20Grammarians&author=%20&publication_year=1951&journal=Transactions%20of%20the%20Philological%20Society&volume=&pages=)[ OpenURL Placeholder Text][ WorldCat](https://www.worldcat.org/search?q=ti:Theories%20of%20General%20Linguistics%20in%20Sanskrit%20Grammarians&qt=advanced&dblist=638)
 
  
 
-Chadha, M. (
+Chadha, M. ( 2013 ). ‘ Self in Early Nyāya: A Minimal Conclusion’,  
 
-2013
-
-). ‘
-
-Self in Early Nyāya: A Minimal Conclusion’,
+_Asian Philosophy: An International Journal of the Philosophical Traditions of the East,_ 23(1): 24–52.[ Google Scholar](https://scholar.google.com/scholar_lookup?title=Self%20in%20Early%20Ny%C4%81ya%3A%20A%20Minimal%20Conclusion%E2%80%99%2C&author=%20&publication_year=2013&journal=Asian%20Philosophy%3A%20An%20International%20Journal%20of%20the%20Philosophical%20Traditions%20of%20the%20East%2C&volume=&pages=)[ OpenURL Placeholder Text][ WorldCat](https://www.worldcat.org/search?q=ti:Self%20in%20Early%20Ny%C4%81ya%3A%20A%20Minimal%20Conclusion%E2%80%99%2C&qt=advanced&dblist=638)
 
  
 
-_Asian Philosophy: An International Journal of the Philosophical Traditions of the East,_
-
-23(1): 24–52.
-
-[Google Scholar](https://scholar.google.com/scholar_lookup?title=Self%20in%20Early%20Ny%C4%81ya%3A%20A%20Minimal%20Conclusion%E2%80%99%2C&author=%20&publication_year=2013&journal=Asian%20Philosophy%3A%20An%20International%20Journal%20of%20the%20Philosophical%20Traditions%20of%20the%20East%2C&volume=&pages=)
-
-[OpenURL Placeholder Text]
-
-[WorldCat](https://www.worldcat.org/search?q=ti:Self%20in%20Early%20Ny%C4%81ya%3A%20A%20Minimal%20Conclusion%E2%80%99%2C&qt=advanced&dblist=638)
+Chattopadhyaya, D. ( 2014 \[1977\]). _Science and Society in Ancient India_ . K.P. Bagchi.[ Google Scholar](https://scholar.google.com/scholar_lookup?title=Science%20and%20Society%20in%20Ancient%20India&author=%20&publication_year=2014&book=Science%20and%20Society%20in%20Ancient%20India)[ Google Preview](https://www.google.com/search?q=Science%20and%20Society%20in%20Ancient%20India&btnG=Search+Books&tbm=bks&tbo=1)[ OpenURL Placeholder Text][ WorldCat](https://www.worldcat.org/search?q=ti:Science%20and%20Society%20in%20Ancient%20India&qt=advanced&dblist=638)[ COPAC](http://copac.ac.uk/search?ti=Science%20and%20Society%20in%20Ancient%20India)
 
  
 
-Chattopadhyaya, D. (
-
-2014
-
-\[1977\]).
-
-_Science and Society in Ancient India_
-
-. K.P. Bagchi.
-
-[Google Scholar](https://scholar.google.com/scholar_lookup?title=Science%20and%20Society%20in%20Ancient%20India&author=%20&publication_year=2014&book=Science%20and%20Society%20in%20Ancient%20India)
-
-[Google Preview](https://www.google.com/search?q=Science%20and%20Society%20in%20Ancient%20India&btnG=Search+Books&tbm=bks&tbo=1)
-
-[OpenURL Placeholder Text]
-
-[WorldCat](https://www.worldcat.org/search?q=ti:Science%20and%20Society%20in%20Ancient%20India&qt=advanced&dblist=638)
-
-[COPAC](http://copac.ac.uk/search?ti=Science%20and%20Society%20in%20Ancient%20India)
+Chattopadhyaya, D. ( 1982 ). ‘Case for a Critical Analysis of the Caraka-saṃhitā’, in D. Chattopadhyaya (ed.), _Studies in the History of the Science in India,_ vol. 1. Editorial Enterprises.[ Google Scholar](https://scholar.google.com/scholar_lookup?title=Studies%20in%20the%20History%20of%20the%20Science%20in%20India%2C&author=%20&author=%20&publication_year=1982&book=Studies%20in%20the%20History%20of%20the%20Science%20in%20India%2C)[ Google Preview](https://www.google.com/search?q=Studies%20in%20the%20History%20of%20the%20Science%20in%20India%2C&btnG=Search+Books&tbm=bks&tbo=1)[ WorldCat](https://www.worldcat.org/search?q=ti:Studies%20in%20the%20History%20of%20the%20Science%20in%20India%2C&qt=advanced&dblist=638)[ COPAC](http://copac.ac.uk/search?ti=Studies%20in%20the%20History%20of%20the%20Science%20in%20India%2C)
 
  
 
-Chattopadhyaya, D. (
-
-1982
-
-). ‘Case for a Critical Analysis of the Caraka-saṃhitā’, in D. Chattopadhyaya (ed.),
-
-_Studies in the History of the Science in India,_
-
-vol. 1. Editorial Enterprises.
-
-[Google Scholar](https://scholar.google.com/scholar_lookup?title=Studies%20in%20the%20History%20of%20the%20Science%20in%20India%2C&author=%20&author=%20&publication_year=1982&book=Studies%20in%20the%20History%20of%20the%20Science%20in%20India%2C)
-
-[Google Preview](https://www.google.com/search?q=Studies%20in%20the%20History%20of%20the%20Science%20in%20India%2C&btnG=Search+Books&tbm=bks&tbo=1)
-
-[WorldCat](https://www.worldcat.org/search?q=ti:Studies%20in%20the%20History%20of%20the%20Science%20in%20India%2C&qt=advanced&dblist=638)
-
-[COPAC](http://copac.ac.uk/search?ti=Studies%20in%20the%20History%20of%20the%20Science%20in%20India%2C)
+Das, Nilanjan, (2021). ‘Śrīharṣa’, The _Stanford Encyclopedia of Philosophy_, Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/win2021/entries/sriharsa/](https://plato.stanford.edu/archives/win2021/entries/sriharsa/)>. Ganeri, J. ( 2011 ). _The Lost Age of Reason: Philosophy in Early Modern India 1450–1700_ . Oxford University Press.[ Google Scholar](https://scholar.google.com/scholar_lookup?title=The%20Lost%20Age%20of%20Reason%3A%20Philosophy%20in%20Early%20Modern%20India%201450%E2%80%931700&author=%20&publication_year=2011&book=The%20Lost%20Age%20of%20Reason%3A%20Philosophy%20in%20Early%20Modern%20India%201450%E2%80%931700)[ Google Preview](https://www.google.com/search?q=The%20Lost%20Age%20of%20Reason%3A%20Philosophy%20in%20Early%20Modern%20India%201450%E2%80%931700&btnG=Search+Books&tbm=bks&tbo=1)[ OpenURL Placeholder Text][ WorldCat](https://www.worldcat.org/search?q=ti:The%20Lost%20Age%20of%20Reason%3A%20Philosophy%20in%20Early%20Modern%20India%201450%E2%80%931700&qt=advanced&dblist=638)[ COPAC](http://copac.ac.uk/search?ti=The%20Lost%20Age%20of%20Reason%3A%20Philosophy%20in%20Early%20Modern%20India%201450%E2%80%931700)
 
  
 
-Das, Nilanjan, (2021). ‘Śrīharṣa’, The _Stanford Encyclopedia of Philosophy_, Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/win2021/entries/sriharsa/](https://plato.stanford.edu/archives/win2021/entries/sriharsa/)>.
-
-Ganeri, J. (
-
-2011
-
-).
-
-_The Lost Age of Reason: Philosophy in Early Modern India 1450–1700_
-
-. Oxford University Press.
-
-[Google Scholar](https://scholar.google.com/scholar_lookup?title=The%20Lost%20Age%20of%20Reason%3A%20Philosophy%20in%20Early%20Modern%20India%201450%E2%80%931700&author=%20&publication_year=2011&book=The%20Lost%20Age%20of%20Reason%3A%20Philosophy%20in%20Early%20Modern%20India%201450%E2%80%931700)
-
-[Google Preview](https://www.google.com/search?q=The%20Lost%20Age%20of%20Reason%3A%20Philosophy%20in%20Early%20Modern%20India%201450%E2%80%931700&btnG=Search+Books&tbm=bks&tbo=1)
-
-[OpenURL Placeholder Text]
-
-[WorldCat](https://www.worldcat.org/search?q=ti:The%20Lost%20Age%20of%20Reason%3A%20Philosophy%20in%20Early%20Modern%20India%201450%E2%80%931700&qt=advanced&dblist=638)
-
-[COPAC](http://copac.ac.uk/search?ti=The%20Lost%20Age%20of%20Reason%3A%20Philosophy%20in%20Early%20Modern%20India%201450%E2%80%931700)
+Gillon, B. ( 2022 ). ‘Logic in Classical Indian Philosophy’, in E.N. Zalta (ed.), _The Stanford Encyclopedia of Philosophy_ (Summer 2022 Edition). [https://plato.stanford.edu/archives/sum2022/entries/logic-india/](https://plato.stanford.edu/archives/sum2022/entries/logic-india/).[ Google Scholar](https://scholar.google.com/scholar_lookup?title=The%20Stanford%20Encyclopedia%20of%20Philosophy&author=%20&author=%20&publication_year=2022&book=The%20Stanford%20Encyclopedia%20of%20Philosophy)[ Google Preview](https://www.google.com/search?q=The%20Stanford%20Encyclopedia%20of%20Philosophy&btnG=Search+Books&tbm=bks&tbo=1)[ WorldCat](https://www.worldcat.org/search?q=ti:The%20Stanford%20Encyclopedia%20of%20Philosophy&qt=advanced&dblist=638)[ COPAC](http://copac.ac.uk/search?ti=The%20Stanford%20Encyclopedia%20of%20Philosophy)
 
  
 
-Gillon, B. (
-
-2022
-
-). ‘Logic in Classical Indian Philosophy’, in E.N. Zalta (ed.),
-
-_The Stanford Encyclopedia of Philosophy_
-
-(Summer 2022 Edition). [https://plato.stanford.edu/archives/sum2022/entries/logic-india/](https://plato.stanford.edu/archives/sum2022/entries/logic-india/).
-
-[Google Scholar](https://scholar.google.com/scholar_lookup?title=The%20Stanford%20Encyclopedia%20of%20Philosophy&author=%20&author=%20&publication_year=2022&book=The%20Stanford%20Encyclopedia%20of%20Philosophy)
-
-[Google Preview](https://www.google.com/search?q=The%20Stanford%20Encyclopedia%20of%20Philosophy&btnG=Search+Books&tbm=bks&tbo=1)
-
-[WorldCat](https://www.worldcat.org/search?q=ti:The%20Stanford%20Encyclopedia%20of%20Philosophy&qt=advanced&dblist=638)
-
-[COPAC](http://copac.ac.uk/search?ti=The%20Stanford%20Encyclopedia%20of%20Philosophy)
+Hayashi, T. ( 2003 ). ‘Indian Mathematics’, in G. Flood (ed.), _The Blackwell Companion to Hinduism_,  360–375. Wiley-Blackwell.[ Google Scholar](https://scholar.google.com/scholar_lookup?title=The%20Blackwell%20Companion%20to%20Hinduism&author=%20&author=%20&publication_year=2003&book=The%20Blackwell%20Companion%20to%20Hinduism)[ Google Preview](https://www.google.com/search?q=The%20Blackwell%20Companion%20to%20Hinduism&btnG=Search+Books&tbm=bks&tbo=1)[ WorldCat](https://www.worldcat.org/search?q=ti:The%20Blackwell%20Companion%20to%20Hinduism&qt=advanced&dblist=638)[ COPAC](http://copac.ac.uk/search?ti=The%20Blackwell%20Companion%20to%20Hinduism)
 
  
 
-Hayashi, T. (
-
-2003
-
-). ‘Indian Mathematics’, in G. Flood (ed.),
-
-_The Blackwell Companion to Hinduism_
-
-, 360–375. Wiley-Blackwell.
-
-[Google Scholar](https://scholar.google.com/scholar_lookup?title=The%20Blackwell%20Companion%20to%20Hinduism&author=%20&author=%20&publication_year=2003&book=The%20Blackwell%20Companion%20to%20Hinduism)
-
-[Google Preview](https://www.google.com/search?q=The%20Blackwell%20Companion%20to%20Hinduism&btnG=Search+Books&tbm=bks&tbo=1)
-
-[WorldCat](https://www.worldcat.org/search?q=ti:The%20Blackwell%20Companion%20to%20Hinduism&qt=advanced&dblist=638)
-
-[COPAC](http://copac.ac.uk/search?ti=The%20Blackwell%20Companion%20to%20Hinduism)
+Jha, G. (ed.) ( 1984 ). _The Nyāya-Sūtras of Guatama with the Bhāsya of Vātsyāyana and the Vārttika of Uddyotakara_ . Motilal Banarsidass.[ Google Scholar](https://scholar.google.com/scholar_lookup?title=The%20Ny%C4%81ya-S%C5%ABtras%20of%20Guatama%20with%20the%20Bh%C4%81sya%20of%20V%C4%81tsy%C4%81yana%20and%20the%20V%C4%81rttika%20of%20Uddyotakara&author=%20&publication_year=1984&book=The%20Ny%C4%81ya-S%C5%ABtras%20of%20Guatama%20with%20the%20Bh%C4%81sya%20of%20V%C4%81tsy%C4%81yana%20and%20the%20V%C4%81rttika%20of%20Uddyotakara)[ Google Preview](https://www.google.com/search?q=The%20Ny%C4%81ya-S%C5%ABtras%20of%20Guatama%20with%20the%20Bh%C4%81sya%20of%20V%C4%81tsy%C4%81yana%20and%20the%20V%C4%81rttika%20of%20Uddyotakara&btnG=Search+Books&tbm=bks&tbo=1)[ OpenURL Placeholder Text][ WorldCat](https://www.worldcat.org/search?q=ti:The%20Ny%C4%81ya-S%C5%ABtras%20of%20Guatama%20with%20the%20Bh%C4%81sya%20of%20V%C4%81tsy%C4%81yana%20and%20the%20V%C4%81rttika%20of%20Uddyotakara&qt=advanced&dblist=638)[ COPAC](http://copac.ac.uk/search?ti=The%20Ny%C4%81ya-S%C5%ABtras%20of%20Guatama%20with%20the%20Bh%C4%81sya%20of%20V%C4%81tsy%C4%81yana%20and%20the%20V%C4%81rttika%20of%20Uddyotakara)
 
  
 
-Jha, G. (ed.) (
+Kiparsky, P. ( 1993 ). ‘Paninian Linguistics’, in
 
-1984
-
-).
-
-_The Nyāya-Sūtras of Guatama with the Bhāsya of Vātsyāyana and the Vārttika of Uddyotakara_
-
-. Motilal Banarsidass.
-
-[Google Scholar](https://scholar.google.com/scholar_lookup?title=The%20Ny%C4%81ya-S%C5%ABtras%20of%20Guatama%20with%20the%20Bh%C4%81sya%20of%20V%C4%81tsy%C4%81yana%20and%20the%20V%C4%81rttika%20of%20Uddyotakara&author=%20&publication_year=1984&book=The%20Ny%C4%81ya-S%C5%ABtras%20of%20Guatama%20with%20the%20Bh%C4%81sya%20of%20V%C4%81tsy%C4%81yana%20and%20the%20V%C4%81rttika%20of%20Uddyotakara)
-
-[Google Preview](https://www.google.com/search?q=The%20Ny%C4%81ya-S%C5%ABtras%20of%20Guatama%20with%20the%20Bh%C4%81sya%20of%20V%C4%81tsy%C4%81yana%20and%20the%20V%C4%81rttika%20of%20Uddyotakara&btnG=Search+Books&tbm=bks&tbo=1)
-
-[OpenURL Placeholder Text]
-
-[WorldCat](https://www.worldcat.org/search?q=ti:The%20Ny%C4%81ya-S%C5%ABtras%20of%20Guatama%20with%20the%20Bh%C4%81sya%20of%20V%C4%81tsy%C4%81yana%20and%20the%20V%C4%81rttika%20of%20Uddyotakara&qt=advanced&dblist=638)
-
-[COPAC](http://copac.ac.uk/search?ti=The%20Ny%C4%81ya-S%C5%ABtras%20of%20Guatama%20with%20the%20Bh%C4%81sya%20of%20V%C4%81tsy%C4%81yana%20and%20the%20V%C4%81rttika%20of%20Uddyotakara)
+_Encyclopedia of Languages and Linguistics_ . [https://web.stanford.edu/~kiparsky/Papers/encycl.pdf](https://web.stanford.edu/~kiparsky/Papers/encycl.pdf).[ Google Scholar](https://scholar.google.com/scholar_lookup?title=Encyclopedia%20of%20Languages%20and%20Linguistics&author=%20&publication_year=1993&book=Encyclopedia%20of%20Languages%20and%20Linguistics)[ Google Preview](https://www.google.com/search?q=Encyclopedia%20of%20Languages%20and%20Linguistics&btnG=Search+Books&tbm=bks&tbo=1)[ OpenURL Placeholder Text][ WorldCat](https://www.worldcat.org/search?q=ti:Encyclopedia%20of%20Languages%20and%20Linguistics&qt=advanced&dblist=638)[ COPAC](http://copac.ac.uk/search?ti=Encyclopedia%20of%20Languages%20and%20Linguistics)
 
  
 
-Kiparsky, P. (
-
-1993
-
-). ‘Paninian Linguistics’, in
-
-_Encyclopedia of Languages and Linguistics_
-
-. [https://web.stanford.edu/~kiparsky/Papers/encycl.pdf](https://web.stanford.edu/~kiparsky/Papers/encycl.pdf).
-
-[Google Scholar](https://scholar.google.com/scholar_lookup?title=Encyclopedia%20of%20Languages%20and%20Linguistics&author=%20&publication_year=1993&book=Encyclopedia%20of%20Languages%20and%20Linguistics)
-
-[Google Preview](https://www.google.com/search?q=Encyclopedia%20of%20Languages%20and%20Linguistics&btnG=Search+Books&tbm=bks&tbo=1)
-
-[OpenURL Placeholder Text]
-
-[WorldCat](https://www.worldcat.org/search?q=ti:Encyclopedia%20of%20Languages%20and%20Linguistics&qt=advanced&dblist=638)
-
-[COPAC](http://copac.ac.uk/search?ti=Encyclopedia%20of%20Languages%20and%20Linguistics)
+O’Flaherty, W.D. ( 1981 ). _The Rig Veda: One Hundred and Eight Hymns._ Penguin Books.[ Google Scholar](https://scholar.google.com/scholar_lookup?title=The%20Rig%20Veda%3A%20One%20Hundred%20and%20Eight%20Hymns.&author=%20&publication_year=1981&book=The%20Rig%20Veda%3A%20One%20Hundred%20and%20Eight%20Hymns.)[ Google Preview](https://www.google.com/search?q=The%20Rig%20Veda%3A%20One%20Hundred%20and%20Eight%20Hymns.&btnG=Search+Books&tbm=bks&tbo=1)[ OpenURL Placeholder Text][ WorldCat](https://www.worldcat.org/search?q=ti:The%20Rig%20Veda%3A%20One%20Hundred%20and%20Eight%20Hymns.&qt=advanced&dblist=638)[ COPAC](http://copac.ac.uk/search?ti=The%20Rig%20Veda%3A%20One%20Hundred%20and%20Eight%20Hymns.)
 
  
 
-O’Flaherty, W.D. (
+Parthasarathi Mukhopadhyay ( 2019 ). ‘ Zero: An Eternal Enigma’ , in
 
-1981
-
-).
-
-_The Rig Veda: One Hundred and Eight Hymns._
-
-Penguin Books.
-
-[Google Scholar](https://scholar.google.com/scholar_lookup?title=The%20Rig%20Veda%3A%20One%20Hundred%20and%20Eight%20Hymns.&author=%20&publication_year=1981&book=The%20Rig%20Veda%3A%20One%20Hundred%20and%20Eight%20Hymns.)
-
-[Google Preview](https://www.google.com/search?q=The%20Rig%20Veda%3A%20One%20Hundred%20and%20Eight%20Hymns.&btnG=Search+Books&tbm=bks&tbo=1)
-
-[OpenURL Placeholder Text]
-
-[WorldCat](https://www.worldcat.org/search?q=ti:The%20Rig%20Veda%3A%20One%20Hundred%20and%20Eight%20Hymns.&qt=advanced&dblist=638)
-
-[COPAC](http://copac.ac.uk/search?ti=The%20Rig%20Veda%3A%20One%20Hundred%20and%20Eight%20Hymns.)
+_Indian Science Cruiser_ 33(4): 32–43.[ Google Scholar](https://scholar.google.com/scholar_lookup?title=Zero%3A%20An%20Eternal%20Enigma&author=%20&publication_year=2019&journal=Indian%20Science%20Cruiser&volume=&pages=)[ OpenURL Placeholder Text][ WorldCat](https://www.worldcat.org/search?q=ti:Zero%3A%20An%20Eternal%20Enigma&qt=advanced&dblist=638)
 
  
 
-Parthasarathi Mukhopadhyay (
-
-2019
-
-). ‘
-
-Zero: An Eternal Enigma
-
-’, in
-
-_Indian Science Cruiser_
-
-33(4): 32–43.
-
-[Google Scholar](https://scholar.google.com/scholar_lookup?title=Zero%3A%20An%20Eternal%20Enigma&author=%20&publication_year=2019&journal=Indian%20Science%20Cruiser&volume=&pages=)
-
-[OpenURL Placeholder Text]
-
-[WorldCat](https://www.worldcat.org/search?q=ti:Zero%3A%20An%20Eternal%20Enigma&qt=advanced&dblist=638)
+Plofker, K., Keller, A., Hayashi, T., Montelle, C., and Wujastyk, D. ( 2017 ). ‘ The Bakhshālī Manuscript: A Response to the Bodleian Library’s Radiocarbon Dating’ . _History of Science in South Asia_ 5(1): 134–150.[ Google Scholar](https://scholar.google.com/scholar_lookup?title=The%20Bakhsh%C4%81l%C4%AB%20Manuscript%3A%20A%20Response%20to%20the%20Bodleian%20Library%E2%80%99s%20Radiocarbon%20Dating&author=%20&author=%20&author=%20&author=%20&author=%20&publication_year=2017&journal=History%20of%20Science%20in%20South%20Asia&volume=&pages=)[ OpenURL Placeholder Text][ WorldCat](https://www.worldcat.org/search?q=ti:The%20Bakhsh%C4%81l%C4%AB%20Manuscript%3A%20A%20Response%20to%20the%20Bodleian%20Library%E2%80%99s%20Radiocarbon%20Dating&qt=advanced&dblist=638)
 
  
 
-Plofker, K., Keller, A., Hayashi, T., Montelle, C., and Wujastyk, D. (
-
-2017
-
-). ‘
-
-The Bakhshālī Manuscript: A Response to the Bodleian Library’s Radiocarbon Dating
-
-’.
-
-_History of Science in South Asia_
-
-5(1): 134–150.
-
-[Google Scholar](https://scholar.google.com/scholar_lookup?title=The%20Bakhsh%C4%81l%C4%AB%20Manuscript%3A%20A%20Response%20to%20the%20Bodleian%20Library%E2%80%99s%20Radiocarbon%20Dating&author=%20&author=%20&author=%20&author=%20&author=%20&publication_year=2017&journal=History%20of%20Science%20in%20South%20Asia&volume=&pages=)
-
-[OpenURL Placeholder Text]
-
-[WorldCat](https://www.worldcat.org/search?q=ti:The%20Bakhsh%C4%81l%C4%AB%20Manuscript%3A%20A%20Response%20to%20the%20Bodleian%20Library%E2%80%99s%20Radiocarbon%20Dating&qt=advanced&dblist=638)
+Staal, F. ( 2003 ). ‘The Science of Language’, in G. Flood (ed.), _The Blackwell Companion to Hinduism_,  348–359. Wiley-Blackwell.[ Google Scholar](https://scholar.google.com/scholar_lookup?title=The%20Blackwell%20Companion%20to%20Hinduism&author=%20&author=%20&publication_year=2003&book=The%20Blackwell%20Companion%20to%20Hinduism)[ Google Preview](https://www.google.com/search?q=The%20Blackwell%20Companion%20to%20Hinduism&btnG=Search+Books&tbm=bks&tbo=1)[ WorldCat](https://www.worldcat.org/search?q=ti:The%20Blackwell%20Companion%20to%20Hinduism&qt=advanced&dblist=638)[ COPAC](http://copac.ac.uk/search?ti=The%20Blackwell%20Companion%20to%20Hinduism)
 
  
 
-Staal, F. (
-
-2003
-
-). ‘The Science of Language’, in G. Flood (ed.),
-
-_The Blackwell Companion to Hinduism_
-
-, 348–359. Wiley-Blackwell.
-
-[Google Scholar](https://scholar.google.com/scholar_lookup?title=The%20Blackwell%20Companion%20to%20Hinduism&author=%20&author=%20&publication_year=2003&book=The%20Blackwell%20Companion%20to%20Hinduism)
-
-[Google Preview](https://www.google.com/search?q=The%20Blackwell%20Companion%20to%20Hinduism&btnG=Search+Books&tbm=bks&tbo=1)
-
-[WorldCat](https://www.worldcat.org/search?q=ti:The%20Blackwell%20Companion%20to%20Hinduism&qt=advanced&dblist=638)
-
-[COPAC](http://copac.ac.uk/search?ti=The%20Blackwell%20Companion%20to%20Hinduism)
+Staal, F. ( 2010 ). ‘On the Origins of Zero’, in C. S. Seshadri (ed.), _Studies in the History of Indian Mathematics_, 39–53. Hindustan Book Agency.[ Google Scholar](https://scholar.google.com/scholar_lookup?title=Hindustan%20Book%20Agency.&author=%20&author=%20&publication_year=2010&book=Hindustan%20Book%20Agency.)[ Google Preview](https://www.google.com/search?q=Hindustan%20Book%20Agency.&btnG=Search+Books&tbm=bks&tbo=1)[ WorldCat](https://www.worldcat.org/search?q=ti:Hindustan%20Book%20Agency.&qt=advanced&dblist=638)[ COPAC](http://copac.ac.uk/search?ti=Hindustan%20Book%20Agency.)
 
  
 
-Staal, F. (
-
-2010
-
-). ‘On the Origins of Zero’, in C. S. Seshadri (ed.), _Studies in the History of Indian Mathematics_, 39–53.
-
-Hindustan Book Agency.
-
-[Google Scholar](https://scholar.google.com/scholar_lookup?title=Hindustan%20Book%20Agency.&author=%20&author=%20&publication_year=2010&book=Hindustan%20Book%20Agency.)
-
-[Google Preview](https://www.google.com/search?q=Hindustan%20Book%20Agency.&btnG=Search+Books&tbm=bks&tbo=1)
-
-[WorldCat](https://www.worldcat.org/search?q=ti:Hindustan%20Book%20Agency.&qt=advanced&dblist=638)
-
-[COPAC](http://copac.ac.uk/search?ti=Hindustan%20Book%20Agency.)
+Taber, J.A. ( 2012 ). ‘Uddyotakara’s Defense of a Self’, in I. Kuznetsova, J. Ganeri, and R.-P. Chakravarthi (eds), _Hindu and Buddhist Ideas in Dialogue_,  97–114. Ashgate.[ Google Scholar](https://scholar.google.com/scholar_lookup?title=Hindu%20and%20Buddhist%20Ideas%20in%20Dialogue&author=%20&author=%20&author=%20&author=%20&publication_year=2012&book=Hindu%20and%20Buddhist%20Ideas%20in%20Dialogue)[ Google Preview](https://www.google.com/search?q=Hindu%20and%20Buddhist%20Ideas%20in%20Dialogue&btnG=Search+Books&tbm=bks&tbo=1)[ WorldCat](https://www.worldcat.org/search?q=ti:Hindu%20and%20Buddhist%20Ideas%20in%20Dialogue&qt=advanced&dblist=638)[ COPAC](http://copac.ac.uk/search?ti=Hindu%20and%20Buddhist%20Ideas%20in%20Dialogue)
 
  
 
-Taber, J.A. (
-
-2012
-
-). ‘Uddyotakara’s Defense of a Self’, in I. Kuznetsova, J. Ganeri, and R.-P. Chakravarthi (eds),
-
-_Hindu and Buddhist Ideas in Dialogue_
-
-, 97–114. Ashgate.
-
-[Google Scholar](https://scholar.google.com/scholar_lookup?title=Hindu%20and%20Buddhist%20Ideas%20in%20Dialogue&author=%20&author=%20&author=%20&author=%20&publication_year=2012&book=Hindu%20and%20Buddhist%20Ideas%20in%20Dialogue)
-
-[Google Preview](https://www.google.com/search?q=Hindu%20and%20Buddhist%20Ideas%20in%20Dialogue&btnG=Search+Books&tbm=bks&tbo=1)
-
-[WorldCat](https://www.worldcat.org/search?q=ti:Hindu%20and%20Buddhist%20Ideas%20in%20Dialogue&qt=advanced&dblist=638)
-
-[COPAC](http://copac.ac.uk/search?ti=Hindu%20and%20Buddhist%20Ideas%20in%20Dialogue)
-
- 
-
-Wujastyk, D. (
-
-2003
-
-). ‘The Science of Medicine’, in G. Flood (ed.),
-
-_The Blackwell Companion to Hinduism_
-
-, 393–409. Wiley-Blackwell.
-
-[Google Scholar](https://scholar.google.com/scholar_lookup?title=The%20Blackwell%20Companion%20to%20Hinduism&author=%20&author=%20&publication_year=2003&book=The%20Blackwell%20Companion%20to%20Hinduism)
-
-[Google Preview](https://www.google.com/search?q=The%20Blackwell%20Companion%20to%20Hinduism&btnG=Search+Books&tbm=bks&tbo=1)
-
-[WorldCat](https://www.worldcat.org/search?q=ti:The%20Blackwell%20Companion%20to%20Hinduism&qt=advanced&dblist=638)
-
-[COPAC](http://copac.ac.uk/search?ti=The%20Blackwell%20Companion%20to%20Hinduism)
+Wujastyk, D. ( 2003 ). ‘The Science of Medicine’, in G. Flood (ed.), _The Blackwell Companion to Hinduism_,  393–409. Wiley-Blackwell.[ Google Scholar](https://scholar.google.com/scholar_lookup?title=The%20Blackwell%20Companion%20to%20Hinduism&author=%20&author=%20&publication_year=2003&book=The%20Blackwell%20Companion%20to%20Hinduism)[ Google Preview](https://www.google.com/search?q=The%20Blackwell%20Companion%20to%20Hinduism&btnG=Search+Books&tbm=bks&tbo=1)[ WorldCat](https://www.worldcat.org/search?q=ti:The%20Blackwell%20Companion%20to%20Hinduism&qt=advanced&dblist=638)[ COPAC](http://copac.ac.uk/search?ti=The%20Blackwell%20Companion%20to%20Hinduism)
 
  
 
 ## Reply to Monima Chadha
 
-_Helen De Cruz_
+### Helen De Cruz
 
 Hindu scholars and philosophers have contributed to a variety of scientific disciplines, many of which have an enduring global influence. Monima Chadha’s chapter provides a comprehensive overview of this. Indian arithmetic not only gave the world the decimal system and the Hindu-Arabic numerals, but also the concept of zero and its many mathematical possibilities. Moreover, Indian authors pioneered the field of descriptive linguistics as a science, particularly in the systematic work of Pāṇini (_c_. 4th c. bce) and his contemporaries. Ancient Indian sciences spanned a broad range, including cartography, astronomy, and various branches of medicine, including ayurvedic medicine, which is practised up to this day. Chadha’s paper contributes to the growing body of literature that shows that modern science is not a western invention, but that it has always been a global phenomenon which has had many contributors from outside Europe and the western world (see also e.g. Poskett 2022).
 
-Chadha argues that the various religious and philosophical traditions that we denote as ‘Hinduism’ did not oppose the development of early science, mathematics, and logic, but rather, encouraged them and helped them thrive. The contrast with science and Christianity in the west is striking. Although some devout Christians have played an active role in the development of scientific ideas, the scientific revolution in Europe ‘was made possible by the rejection of Divine order’, as Chadha puts it. This conflict narrative has been contested by scholars working on Christianity and science. For example, science historian Peter Harrison (2007) argues that the Christian doctrine of original sin made modern science possible, because belief in a historical Fall emphasizes our fallibility and thus stresses the need for empirical testing of our ideas. Still, the conflict view remains a dominant narrative among westerners (see my paper (Chapter [8]) in this volume). Chadha argues that scientists on the Indian subcontinent, unlike those in early modern Europe, did not need to emancipate from the various Hindu philosophical and religious schools of thought, because the latter traditions already held within them key virtues of scientific practice.
+Chadha argues that the various religious and philosophical traditions that we denote as ‘Hinduism’ did not oppose the development of early science, mathematics, and logic, but rather, encouraged them and helped them thrive. 
 
-Chadha’s reading of Hinduism and ancient science as harmonious fits within a broader tradition. It is important to highlight the broader sociopolitical context under which it arose, which might give rise to some caveats to Chadha’s picture (which I otherwise agree with). As Meena Nanda (2010, p. 280) writes, many modern Indians and Hindus in the diaspora commonly believe that ‘the ancient Hindu tradition has the right answers to the kind of questions that modern natural sciences have asked, or will ask in the future’. They see Hinduism as intrinsically harmonious with science, and they believe the Vedas prefigure major and cutting-edge scientific discoveries.
+The contrast with science and Christianity in the west is striking. Although some devout Christians have played an active role in the development of scientific ideas, the scientific revolution in Europe ‘was made possible by the rejection of Divine order’, as Chadha puts it. This conflict narrative has been contested by scholars working on Christianity and science. For example, science historian Peter Harrison (2007) argues that the Christian doctrine of original sin made modern science possible, because belief in a historical Fall emphasizes our fallibility and thus stresses the need for empirical testing of our ideas. Still, the conflict view remains a dominant narrative among westerners (see my paper (Chapter [8]) in this volume). 
 
-We can situate the origins of this integration narrative in the British colonial period (1757–1947), when Hindu scholars and scientists sought to break free from colonial rule. As a result of colonization, Hindus encountered western science and technology. British colonial rulers held that Hindus were incapable of scientific thought. This was one of the many ways in which they intellectually justified their violent and oppressive colonial regime, which devastated the local economy, increased poverty, and reduced life expectation (Sullivan and Hickel 2023). The British colonizers held that westerners brought modern technology and science to the Indian subcontinent and that Indians should be grateful for these bounties. Never mind that the British also stole local technologies and inventions (e.g. the cotton industry) that they then made inaccessible for Indians through unfair trading agreements. Never mind that the British relied on ancient Indian mathematical and linguistic concepts and tools in their ‘western’ science. Local intellectuals pushed back against this distorted narrative by promoting a counter-narrative: Hinduism is more in line with science than Christianity (see Brown 2012).
+Chadha argues that scientists on the Indian subcontinent, unlike those in early modern Europe, did not need to emancipate from the various Hindu philosophical and religious schools of thought, because the latter traditions already held within them key virtues of scientific practice.
+
+Chadha’s reading of Hinduism and ancient science as harmonious fits within a broader tradition. It is important to highlight the broader sociopolitical context under which it arose, which might give rise to some caveats to Chadha’s picture (which I otherwise agree with). 
+
+As Meena Nanda (2010, p. 280) writes, many modern Indians and Hindus in the diaspora commonly believe that ‘the ancient Hindu tradition has the right answers to the kind of questions that modern natural sciences have asked, or will ask in the future’. They see Hinduism as intrinsically harmonious with science, and they believe the Vedas prefigure major and cutting-edge scientific discoveries.
+
+We can situate the origins of this integration narrative in the British colonial period (1757–1947), when Hindu scholars and scientists sought to break free from colonial rule. As a result of colonization, Hindus encountered western science and technology. British colonial rulers held that Hindus were incapable of scientific thought. This was one of the many ways in which they intellectually justified their violent and oppressive colonial regime, which devastated the local economy, increased poverty, and reduced life expectation (Sullivan and Hickel 2023). 
+
+The British colonizers held that westerners brought modern technology and science to the Indian subcontinent and that Indians should be grateful for these bounties. Never mind that the British also stole local technologies and inventions (e.g. the cotton industry) that they then made inaccessible for Indians through unfair trading agreements. Never mind that the British relied on ancient Indian mathematical and linguistic concepts and tools in their ‘western’ science. Local intellectuals pushed back against this distorted narrative by promoting a counter-narrative: Hinduism is more in line with science than Christianity (see Brown 2012).
 
 From the late nineteenth century onward, the Indian subcontinent saw various revivalist movements that reaffirmed the cultural value of Hinduism. These proposed the notion of a _Vedic science_: the Vedas and other ancient texts already prefigure later scientific findings (e.g. Vivekananda 1904). We can get a flavour of this in Swami Vivekananda’s (1863–1902) influential address to the Parliament of World Religions in Chicago in 1893 (see Nanda 2020 for discussion). Vivekananda contrasted Hinduism favourably to Christianity, arguing that Hindus (unlike Christians) do not rely on dogmas and do not persecute dissenters through an inquisition. Rather, Hinduism prefigures in its empiricist attitude the modern scientific method.
 
 This account of complete harmony between Hinduism and modern science is not one that Chadha herself endorses. Nevertheless, the positive view she outlines fits in a broader integration narrative of Hinduism and science. Accounts of the relationship between religion and science are both descriptive and aspirational: they seek to illuminate how religion and science relate, within a specific tradition or set of traditions, but they also want to tell us something about ourselves. How do we see ourselves with respect to the religious traditions we grew up in? Do we embrace or reject them, and how do we square this with our acceptance (or rejection) of modern science? How do we position ourselves with respect to people with different religious beliefs?
 
-When we look in a bit more detail, we can discern a more complicated relationship than the integration narrative that Hindu scholars advance, just like a more detailed look brings out complications in any other tradition. For example, the attitudes of Hindu scholars in their first encounter with evolutionary theory spanned a range of responses, going from wholehearted acceptance to staunch rejection. Many views were somewhere in between (Brown 2012). To give but one example, Mahendrahal Sircar (1833–1904), who was one of the first Hindu authors to examine evolutionary theory and its implications for Hindu religious beliefs, proposed a form of evolutionary theism. While he accepted common descent, he rejected the mechanism of natural selection, because of its lack of teleology (Chakraborty 2001).
+When we look in a bit more detail, we can discern a more complicated relationship than the integration narrative that Hindu scholars advance, just like a more detailed look brings out complications in any other tradition. 
+
+For example, the attitudes of Hindu scholars in their first encounter with evolutionary theory spanned a range of responses, going from wholehearted acceptance to staunch rejection. Many views were somewhere in between (Brown 2012). To give but one example, Mahendrahal Sircar (1833–1904), who was one of the first Hindu authors to examine evolutionary theory and its implications for Hindu religious beliefs, proposed a form of evolutionary theism. While he accepted common descent, he rejected the mechanism of natural selection, because of its lack of teleology (Chakraborty 2001).
 
 The aspirational component in theorizing on religion and science is not unique to Hinduism. Since Ian Barbour’s influential work, Christian authors in the field of religion and science are anxious to stress how harmonious various Christian views are with science, ranging from cosmology and evolution, to quantum mechanics. In this way, they seek to counter the conflict narrative which still reigns in the imagination of their co-religionists. As many authors in religion and science who work on Christianity are (former) scientists (e.g. Alister McGrath, Arthur Peacocke), it is understandable that they wish to emphasize how Christian religious views are harmonious with science.
 
-Given the complex relationship of religion and science in Hinduism, Christianity, and other traditions, can we ever state: ‘Christianity is (largely) in conflict with science’ or ‘Hinduism is (largely) in harmony with science’? Such sweeping claims are difficult to evaluate because of the multi-faceted nature of both religion and science. In Hinduism, this is explicitly so because of the diversity in the _āstika_ schools (e.g. _Nyāya, Sāṅkhya_) and their differing attitudes to how we acquire knowledge. We might do best to look at a finer grain, at individual disciplines such as mathematics or linguistics, as Chadha has done, or even at a still finer grain, at individual scientific findings, and see how these relate to specific religious views. For example, we might ask whether the Vedānta concept of _ātman_ (the self) is compatible with contemporary neuroscientific conceptions of the self (Deshmukh 2022). Such a fine-grained analysis can give us a rich picture that can help us get a better grasp of what it means for religion and science to be in harmony or in conflict.
+Given the complex relationship of religion and science in Hinduism, Christianity, and other traditions, can we ever state: ‘Christianity is (largely) in conflict with science’ or ‘Hinduism is (largely) in harmony with science’? Such sweeping claims are difficult to evaluate because of the multi-faceted nature of both religion and science. In Hinduism, this is explicitly so because of the diversity in the _āstika_ schools (e.g. _Nyāya, Sāṅkhya_) and their differing attitudes to how we acquire knowledge. We might do best to look at a finer grain, at individual disciplines such as mathematics or linguistics, as Chadha has done, or even at a still finer grain, at individual scientific findings, and see how these relate to specific religious views. For example, we might ask whether the Vedānta concept of _ātman_ (the self) is compatible with contemporary neuroscientific conceptions of the self (Deshmukh 2022).+++(5)+++ Such a fine-grained analysis can give us a rich picture that can help us get a better grasp of what it means for religion and science to be in harmony or in conflict.
 
 #### References
 
-Brown, C.M. (
+Brown, C.M. ( 2012 ). _Hindu Perspectives on Evolution: Darwin, Dharma, and Design._ (Routledge Hindu Studies Series). Routledge. [Google Scholar](https://scholar.google.com/scholar_lookup?title=Hindu%20Perspectives%20on%20Evolution%3A%20Darwin%2C%20Dharma%2C%20and%20Design.&author=%20&publication_year=2012&book=Hindu%20Perspectives%20on%20Evolution%3A%20Darwin%2C%20Dharma%2C%20and%20Design.) [Google Preview](https://www.google.com/search?q=Hindu%20Perspectives%20on%20Evolution%3A%20Darwin%2C%20Dharma%2C%20and%20Design.&btnG=Search+Books&tbm=bks&tbo=1) [OpenURL Placeholder Text]
 
-2012
+[WorldCat](https://www.worldcat.org/search?q=ti:Hindu%20Perspectives%20on%20Evolution%3A%20Darwin%2C%20Dharma%2C%20and%20Design.&qt=advanced&dblist=638) [COPAC](http://copac.ac.uk/search?ti=Hindu%20Perspectives%20on%20Evolution%3A%20Darwin%2C%20Dharma%2C%20and%20Design.)  
 
-).
+Chakraborty, P. ( 2001 ). ‘ Science, Morality, and Nationalism: The Multifaceted Project of Mahendra Lal Sircar’,  
 
-_Hindu Perspectives on Evolution: Darwin, Dharma, and Design._
+_Studies in History_ 17(2): 245–274. [Google Scholar](https://scholar.google.com/scholar_lookup?title=Science%2C%20Morality%2C%20and%20Nationalism%3A%20The%20Multifaceted%20Project%20of%20Mahendra%20Lal%20Sircar%E2%80%99%2C&author=%20&publication_year=2001&journal=Studies%20in%20History&volume=&pages=) [OpenURL Placeholder Text]
 
-(Routledge Hindu Studies Series). Routledge.
+[WorldCat](https://www.worldcat.org/search?q=ti:Science%2C%20Morality%2C%20and%20Nationalism%3A%20The%20Multifaceted%20Project%20of%20Mahendra%20Lal%20Sircar%E2%80%99%2C&qt=advanced&dblist=638)  
 
-[Google Scholar](https://scholar.google.com/scholar_lookup?title=Hindu%20Perspectives%20on%20Evolution%3A%20Darwin%2C%20Dharma%2C%20and%20Design.&author=%20&publication_year=2012&book=Hindu%20Perspectives%20on%20Evolution%3A%20Darwin%2C%20Dharma%2C%20and%20Design.)
+Deshmukh, V.D. ( 2022 ). ‘ The Transparent Mind and the Peaceful Self: Neuroscience and Vedanta Perspectives’,  
 
-[Google Preview](https://www.google.com/search?q=Hindu%20Perspectives%20on%20Evolution%3A%20Darwin%2C%20Dharma%2C%20and%20Design.&btnG=Search+Books&tbm=bks&tbo=1)
+_Journal of Applied Consciousness Studies_ 10(1): 2–7. [Google Scholar](https://scholar.google.com/scholar_lookup?title=The%20Transparent%20Mind%20and%20the%20Peaceful%20Self%3A%20Neuroscience%20and%20Vedanta%20Perspectives%E2%80%99%2C&author=%20&publication_year=2022&journal=Journal%20of%20Applied%20Consciousness%20Studies&volume=&pages=) [OpenURL Placeholder Text]
 
-[OpenURL Placeholder Text]
+[WorldCat](https://www.worldcat.org/search?q=ti:The%20Transparent%20Mind%20and%20the%20Peaceful%20Self%3A%20Neuroscience%20and%20Vedanta%20Perspectives%E2%80%99%2C&qt=advanced&dblist=638)  
 
-[WorldCat](https://www.worldcat.org/search?q=ti:Hindu%20Perspectives%20on%20Evolution%3A%20Darwin%2C%20Dharma%2C%20and%20Design.&qt=advanced&dblist=638)
+Harrison, P. ( 2007 ). _The Fall of Man and the Foundations of Science_ . Cambridge University Press. [Google Scholar](https://scholar.google.com/scholar_lookup?title=The%20Fall%20of%20Man%20and%20the%20Foundations%20of%20Science&author=%20&publication_year=2007&book=The%20Fall%20of%20Man%20and%20the%20Foundations%20of%20Science) [Google Preview](https://www.google.com/search?q=The%20Fall%20of%20Man%20and%20the%20Foundations%20of%20Science&btnG=Search+Books&tbm=bks&tbo=1) [OpenURL Placeholder Text]
 
-[COPAC](http://copac.ac.uk/search?ti=Hindu%20Perspectives%20on%20Evolution%3A%20Darwin%2C%20Dharma%2C%20and%20Design.)
+[WorldCat](https://www.worldcat.org/search?q=ti:The%20Fall%20of%20Man%20and%20the%20Foundations%20of%20Science&qt=advanced&dblist=638) [COPAC](http://copac.ac.uk/search?ti=The%20Fall%20of%20Man%20and%20the%20Foundations%20of%20Science)  
 
- 
+Nanda, M. ( 2010 ). ‘Madame Blavatsky’s Children: Modern Hindu Encounters with Darwinism’, in J.R. Lewis and O. Hammer (eds), _Handbook of Religion and the Authority of Science_ , 279–344. Brill. [Google Scholar](https://scholar.google.com/scholar_lookup?title=Handbook%20of%20Religion%20and%20the%20Authority%20of%20Science&author=%20&author=%20&author=%20&publication_year=2010&book=Handbook%20of%20Religion%20and%20the%20Authority%20of%20Science) [Google Preview](https://www.google.com/search?q=Handbook%20of%20Religion%20and%20the%20Authority%20of%20Science&btnG=Search+Books&tbm=bks&tbo=1) [WorldCat](https://www.worldcat.org/search?q=ti:Handbook%20of%20Religion%20and%20the%20Authority%20of%20Science&qt=advanced&dblist=638) [COPAC](http://copac.ac.uk/search?ti=Handbook%20of%20Religion%20and%20the%20Authority%20of%20Science)  
 
-Chakraborty, P. (
+Nanda, M. ( 2020 ). ‘Science Sanskritized: How Modern Science Became a Handmaiden of Hindu Nationalism’, in K.A. Jacobsen (ed.), _Routledge Handbook of South Asian Religions_ , 264–286. Routledge. [Google Scholar](https://scholar.google.com/scholar_lookup?title=Routledge%20Handbook%20of%20South%20Asian%20Religions&author=%20&author=%20&publication_year=2020&book=Routledge%20Handbook%20of%20South%20Asian%20Religions) [Google Preview](https://www.google.com/search?q=Routledge%20Handbook%20of%20South%20Asian%20Religions&btnG=Search+Books&tbm=bks&tbo=1) [WorldCat](https://www.worldcat.org/search?q=ti:Routledge%20Handbook%20of%20South%20Asian%20Religions&qt=advanced&dblist=638) [COPAC](http://copac.ac.uk/search?ti=Routledge%20Handbook%20of%20South%20Asian%20Religions)  
 
-2001
+Poskett, J. ( 2022 ). _Horizons: A Global History of Science_ . Penguin. [Google Scholar](https://scholar.google.com/scholar_lookup?title=Horizons%3A%20A%20Global%20History%20of%20Science&author=%20&publication_year=2022&book=Horizons%3A%20A%20Global%20History%20of%20Science) [Google Preview](https://www.google.com/search?q=Horizons%3A%20A%20Global%20History%20of%20Science&btnG=Search+Books&tbm=bks&tbo=1) [OpenURL Placeholder Text]
 
-). ‘
+[WorldCat](https://www.worldcat.org/search?q=ti:Horizons%3A%20A%20Global%20History%20of%20Science&qt=advanced&dblist=638) [COPAC](http://copac.ac.uk/search?ti=Horizons%3A%20A%20Global%20History%20of%20Science)  
 
-Science, Morality, and Nationalism: The Multifaceted Project of Mahendra Lal Sircar’,
+Sullivan, D., and Hickel, J. ( 2023 ). ‘ Capitalism and Extreme Poverty: A Global Analysis of Real Wages, Human Height, and Mortality since the Long 16th Century’,  
 
- 
+_World Development_ 161: 106026. [Google Scholar](https://scholar.google.com/scholar_lookup?title=Capitalism%20and%20Extreme%20Poverty%3A%20A%20Global%20Analysis%20of%20Real%20Wages%2C%20Human%20Height%2C%20and%20Mortality%20since%20the%20Long%2016th%20Century%E2%80%99%2C&author=%20&author=%20&publication_year=2023&journal=World%20Development&volume=&pages=) [OpenURL Placeholder Text]
 
-_Studies in History_
+[WorldCat](https://www.worldcat.org/search?q=ti:Capitalism%20and%20Extreme%20Poverty%3A%20A%20Global%20Analysis%20of%20Real%20Wages%2C%20Human%20Height%2C%20and%20Mortality%20since%20the%20Long%2016th%20Century%E2%80%99%2C&qt=advanced&dblist=638)  
 
-17(2): 245–274.
+Vivekananda, S. ( 1904 ). ‘The Vedanta for the World’, in S. Vivekananda, _Aspects of the Vedanta_ , 124–160. Natesan & Co. [Google Scholar](https://scholar.google.com/scholar_lookup?title=Aspects%20of%20the%20Vedanta&author=%20&author=%20&publication_year=1904&book=Aspects%20of%20the%20Vedanta) [Google Preview](https://www.google.com/search?q=Aspects%20of%20the%20Vedanta&btnG=Search+Books&tbm=bks&tbo=1) [WorldCat](https://www.worldcat.org/search?q=ti:Aspects%20of%20the%20Vedanta&qt=advanced&dblist=638) [COPAC](http://copac.ac.uk/search?ti=Aspects%20of%20the%20Vedanta)  
 
-[Google Scholar](https://scholar.google.com/scholar_lookup?title=Science%2C%20Morality%2C%20and%20Nationalism%3A%20The%20Multifaceted%20Project%20of%20Mahendra%20Lal%20Sircar%E2%80%99%2C&author=%20&publication_year=2001&journal=Studies%20in%20History&volume=&pages=)
-
-[OpenURL Placeholder Text]
-
-[WorldCat](https://www.worldcat.org/search?q=ti:Science%2C%20Morality%2C%20and%20Nationalism%3A%20The%20Multifaceted%20Project%20of%20Mahendra%20Lal%20Sircar%E2%80%99%2C&qt=advanced&dblist=638)
-
- 
-
-Deshmukh, V.D. (
-
-2022
-
-). ‘
-
-The Transparent Mind and the Peaceful Self: Neuroscience and Vedanta Perspectives’,
-
- 
-
-_Journal of Applied Consciousness Studies_
-
-10(1): 2–7.
-
-[Google Scholar](https://scholar.google.com/scholar_lookup?title=The%20Transparent%20Mind%20and%20the%20Peaceful%20Self%3A%20Neuroscience%20and%20Vedanta%20Perspectives%E2%80%99%2C&author=%20&publication_year=2022&journal=Journal%20of%20Applied%20Consciousness%20Studies&volume=&pages=)
-
-[OpenURL Placeholder Text]
-
-[WorldCat](https://www.worldcat.org/search?q=ti:The%20Transparent%20Mind%20and%20the%20Peaceful%20Self%3A%20Neuroscience%20and%20Vedanta%20Perspectives%E2%80%99%2C&qt=advanced&dblist=638)
-
- 
-
-Harrison, P. (
-
-2007
-
-).
-
-_The Fall of Man and the Foundations of Science_
-
-. Cambridge University Press.
-
-[Google Scholar](https://scholar.google.com/scholar_lookup?title=The%20Fall%20of%20Man%20and%20the%20Foundations%20of%20Science&author=%20&publication_year=2007&book=The%20Fall%20of%20Man%20and%20the%20Foundations%20of%20Science)
-
-[Google Preview](https://www.google.com/search?q=The%20Fall%20of%20Man%20and%20the%20Foundations%20of%20Science&btnG=Search+Books&tbm=bks&tbo=1)
-
-[OpenURL Placeholder Text]
-
-[WorldCat](https://www.worldcat.org/search?q=ti:The%20Fall%20of%20Man%20and%20the%20Foundations%20of%20Science&qt=advanced&dblist=638)
-
-[COPAC](http://copac.ac.uk/search?ti=The%20Fall%20of%20Man%20and%20the%20Foundations%20of%20Science)
-
- 
-
-Nanda, M. (
-
-2010
-
-). ‘Madame Blavatsky’s Children: Modern Hindu Encounters with Darwinism’, in J.R. Lewis and O. Hammer (eds),
-
-_Handbook of Religion and the Authority of Science_
-
-, 279–344. Brill.
-
-[Google Scholar](https://scholar.google.com/scholar_lookup?title=Handbook%20of%20Religion%20and%20the%20Authority%20of%20Science&author=%20&author=%20&author=%20&publication_year=2010&book=Handbook%20of%20Religion%20and%20the%20Authority%20of%20Science)
-
-[Google Preview](https://www.google.com/search?q=Handbook%20of%20Religion%20and%20the%20Authority%20of%20Science&btnG=Search+Books&tbm=bks&tbo=1)
-
-[WorldCat](https://www.worldcat.org/search?q=ti:Handbook%20of%20Religion%20and%20the%20Authority%20of%20Science&qt=advanced&dblist=638)
-
-[COPAC](http://copac.ac.uk/search?ti=Handbook%20of%20Religion%20and%20the%20Authority%20of%20Science)
-
- 
-
-Nanda, M. (
-
-2020
-
-). ‘Science Sanskritized: How Modern Science Became a Handmaiden of Hindu Nationalism’, in K.A. Jacobsen (ed.),
-
-_Routledge Handbook of South Asian Religions_
-
-, 264–286. Routledge.
-
-[Google Scholar](https://scholar.google.com/scholar_lookup?title=Routledge%20Handbook%20of%20South%20Asian%20Religions&author=%20&author=%20&publication_year=2020&book=Routledge%20Handbook%20of%20South%20Asian%20Religions)
-
-[Google Preview](https://www.google.com/search?q=Routledge%20Handbook%20of%20South%20Asian%20Religions&btnG=Search+Books&tbm=bks&tbo=1)
-
-[WorldCat](https://www.worldcat.org/search?q=ti:Routledge%20Handbook%20of%20South%20Asian%20Religions&qt=advanced&dblist=638)
-
-[COPAC](http://copac.ac.uk/search?ti=Routledge%20Handbook%20of%20South%20Asian%20Religions)
-
- 
-
-Poskett, J. (
-
-2022
-
-).
-
-_Horizons: A Global History of Science_
-
-. Penguin.
-
-[Google Scholar](https://scholar.google.com/scholar_lookup?title=Horizons%3A%20A%20Global%20History%20of%20Science&author=%20&publication_year=2022&book=Horizons%3A%20A%20Global%20History%20of%20Science)
-
-[Google Preview](https://www.google.com/search?q=Horizons%3A%20A%20Global%20History%20of%20Science&btnG=Search+Books&tbm=bks&tbo=1)
-
-[OpenURL Placeholder Text]
-
-[WorldCat](https://www.worldcat.org/search?q=ti:Horizons%3A%20A%20Global%20History%20of%20Science&qt=advanced&dblist=638)
-
-[COPAC](http://copac.ac.uk/search?ti=Horizons%3A%20A%20Global%20History%20of%20Science)
-
- 
-
-Sullivan, D., and Hickel, J. (
-
-2023
-
-). ‘
-
-Capitalism and Extreme Poverty: A Global Analysis of Real Wages, Human Height, and Mortality since the Long 16th Century’,
-
- 
-
-_World Development_
-
-161: 106026.
-
-[Google Scholar](https://scholar.google.com/scholar_lookup?title=Capitalism%20and%20Extreme%20Poverty%3A%20A%20Global%20Analysis%20of%20Real%20Wages%2C%20Human%20Height%2C%20and%20Mortality%20since%20the%20Long%2016th%20Century%E2%80%99%2C&author=%20&author=%20&publication_year=2023&journal=World%20Development&volume=&pages=)
-
-[OpenURL Placeholder Text]
-
-[WorldCat](https://www.worldcat.org/search?q=ti:Capitalism%20and%20Extreme%20Poverty%3A%20A%20Global%20Analysis%20of%20Real%20Wages%2C%20Human%20Height%2C%20and%20Mortality%20since%20the%20Long%2016th%20Century%E2%80%99%2C&qt=advanced&dblist=638)
-
- 
-
-Vivekananda, S. (
-
-1904
-
-). ‘The Vedanta for the World’, in S. Vivekananda,
-
-_Aspects of the Vedanta_
-
-, 124–160. Natesan & Co.
-
-[Google Scholar](https://scholar.google.com/scholar_lookup?title=Aspects%20of%20the%20Vedanta&author=%20&author=%20&publication_year=1904&book=Aspects%20of%20the%20Vedanta)
-
-[Google Preview](https://www.google.com/search?q=Aspects%20of%20the%20Vedanta&btnG=Search+Books&tbm=bks&tbo=1)
-
-[WorldCat](https://www.worldcat.org/search?q=ti:Aspects%20of%20the%20Vedanta&qt=advanced&dblist=638)
-
-[COPAC](http://copac.ac.uk/search?ti=Aspects%20of%20the%20Vedanta)
-
- 
-
-## Reply to Monima Chadha
-
-_Graham Priest_
+### Graham Priest
 
 In her thoughtful and knowledgeable ‘Hinduism and Science’, Monima Chadha discusses the relation between Hinduism and science. She holds that there is a tension between Christianity and science, at least post-Renaissance, but there is not such a tension in Hinduism. She explains this by noting the more pluralistic nature of Hinduism. I think that Chadha is right about many things, though the relationships between science and the religions is a bit more nuanced than she suggests. Let me explain why.
 
-### A9.2.1 The Tension between Science and Christianity
+#### A9.2.1 The Tension between Science and Christianity
 
 Chadha is absolutely right that there has been a tension between science and Christianity since the so-called scientific revolution of the sixteenth and seventeenth centuries. True, most Christian theologians in the last hundred years have made their peace with science, but the history of the matter speaks for itself. (See, further, the discussion of the matter in my comments on De Cruz.)
 
-One has to be slightly careful here, though. It is not exactly accurate to say that the revolution was made possible by ‘the rejection of Divine order’ (p. 5). Galileo, Newton, Bacon, Boyle, were all Christians, as were all the leading European scientists for the next two hundred years (as far as I am aware)—including Darwin. It might then be fairer to say that the tension was between religious orthodoxy and science. Or perhaps better: between those in positions of orthodox Christian power and science. To what extent this was driven by these people wishing to preserve their religious views or by wishing to preserve their power (or both), I leave for historians to argue about.
+One has to be slightly careful here, though. It is not exactly accurate to say that the revolution was made possible by ‘the rejection of Divine order’ (p. 5). Galileo, Newton, Bacon, Boyle, were all Christians, as were all the leading European scientists for the next two hundred years (as far as I am aware)—including Darwin. It might then be fairer to say that the tension was between religious orthodoxy and science. Or perhaps better: between those in positions of orthodox Christian power and science.+++(5)+++ To what extent this was driven by these people wishing to preserve their religious views or by wishing to preserve their power (or both), I leave for historians to argue about.
 
 Notwithstanding any of this, the scientific revolution, and its consequences for the next couple of hundred years, were clearly a European phenomenon. Hence during that period science did flourish in a Christian culture.
 
-### A9.2.2 Hinduism and Science
+#### A9.2.2 Hinduism and Science
 
 Chadha claims that Hinduism is more pluralistic than Christianity, that science flourished under Hinduism, and that the tolerance of science in India is at least partly explained by the more pluralistic and tolerant nature of Hinduism.
 
@@ -855,19 +411,29 @@ To consider these claims, I think it helps start by putting matters in a more ge
 
 By contrast, in the last two thousand years, the Indian subcontinent has accommodated multiple religious: Hinduism, Buddhism, Jainism, Islam, Sikhism, and—it should not be forgotten, Christianity. Some of these religions (such as Hinduism and Buddhism) have a number of things in common. Some of them (such as Hinduism and Islam) have much less in common. Often, the coexistence of religions was peaceful; sometimes (and increasingly at present), it has not been so. At any rate, there is clearly a greater pluralism here than in Europe.
 
-Turing to Hinduism itself, this has canonical and authoritative texts—the _Vedas_ and _Upanishads_, just as Christianity has the _Bible_. Chadha notes that there has always been a plurality of different interpretations of the Hindu canonical texts. The same, of course, is true of the _Bible_. Whether there is more flexibility in the Hindu texts than the _Bible_, I leave for scholars to debate. It is certainly true, as far as I know, that power struggles of a kind that have characterized the relationships between Christian groups have been largely absent between Hindu groups. So we do seem to have greater tolerance here.
+Turing to Hinduism itself, this has canonical and authoritative texts—the _Vedas_ and _Upanishads_, just as Christianity has the _Bible_. Chadha notes that there has always been a plurality of different interpretations of the Hindu canonical texts. The same, of course, is true of the _Bible_. Whether there is more flexibility in the Hindu texts than the _Bible_, I leave for scholars to debate. It is certainly true, as far as I know, that power struggles of a kind that have characterized the relationships between Christian groups have been largely absent between Hindu groups.+++(4)+++ So we do seem to have greater tolerance here.
 
 And as Chadha nicely demonstrates, scientific endeavours did flourish under Hinduism: mathematics, astronomy, linguistics, and, we might add, medicine. It should be noted, though, that these examples are all from a period before the scientific revolution in Europe, when, of course, there were similar advances taking place in Europe. It is much harder to give examples of scientific developments in India after this period, when, of course, the scientific revolution was producing major novelties in Europe. And as noted, this was occurring in a Christian society, one where most scientists were themselves Christians. It is therefore hard to attribute the difference between Christianity and Hinduism in their attitudes to science to the religions themselves. It is perhaps more plausible to put it down to the nature of the power structures of the two religions.
 
-### A9.2.3 The Scientific Revolution
+#### A9.2.3 The Scientific Revolution
 
 Anyway, all this raises an obvious question. Why did the scientific revolution occur in Europe? Given what Chadha says, the ground for it had been laid in India, and there was nothing religious preventing it from occurring there. For the same reasons, it would appear that it could have happened in China, which had made many advances in, among other things, mathematics, astronomy, technology, and medicine in the period in question. Ditto in the Islamic world, which was arguably the most advanced culture in science and mathematics in the early Middle Ages.
 
-The scientific revolution was produced by two novelties, one theoretical and one practical. The theoretical one was the use of mathematics in a novel way. As Galileo said, the book of nature is written in the language of mathematics. The practical one was the use of experimentation, as opposed to simple observation. With this, nature can be ‘tortured to reveal its secrets’, as Francis Bacon is sometimes—infelicitously—quoted as saying. But why did these ideas appear when and where they did?
+The scientific revolution was produced by two novelties, one theoretical and one practical. The theoretical one was the use of mathematics in a novel way. As Galileo said, the book of nature is written in the language of mathematics. The practical one was the use of experimentation, as opposed to simple observation. With this, nature can be ‘tortured to reveal its secrets’, as Francis Bacon is sometimes—infelicitously—quoted as saying.+++(4)+++ But why did these ideas appear when and where they did?
 
-That, of course, is a question that has been the occasion of much scholarly debate, and this is hardly the place to take a deep dive into it. For my part, I doubt that there is a simple explanation of the matter. Historical developments of this kind are invariably the result of a complex combination of circumstances, and many things were happening in Europe at the time in question which could have been conducive to producing the scientific changes. Capitalism was hitting its strides—at least in the form of merchant capitalism. Profit could be made from new ideas. Because of exploration and incipient imperialism, Europe was starting to get a sense of the whole world, its geography and natural science, in a way that no civilization had done before. The long-distance travel itself put new demands on technology. The printing press had recently been invented, and that made it easier to disseminate new ideas in a timely fashion. This in turn made it possible to form novel scientific communities, such as the Royal Society in London. And of course, one should never underestimate pure happenstance: the appearance of characters with the quirky ideas of a Galileo or a Newton: the ‘butterfly effect’ of the history of ideas.
+That, of course, is a question that has been the occasion of much scholarly debate, and this is hardly the place to take a deep dive into it. For my part, I doubt that there is a simple explanation of the matter. Historical developments of this kind are invariably the result of a complex combination of circumstances, and many things were happening in Europe at the time in question which could have been conducive to producing the scientific changes. 
 
-Maybe one should throw some religious factors into the mix as well. Another thing that was taking place in Europe about the same time was, of course, the Reformation, when Christian thinkers such as Luther and Calvin were challenging the authority and some of the dogmas of the Catholic Church. Maybe this contributed to the critical scientific spirit of the times. But if, as Chadha says, a preparedness to take on orthodoxy was a feature of other cultures at the time—notably that of India, where the scientific revolution did not occur—it is hard to see this as playing a dominant role in the matter.
+Capitalism was hitting its strides—at least in the form of merchant capitalism. Profit could be made from new ideas. 
+
+Because of exploration and incipient imperialism, Europe was starting to get a sense of the whole world, its geography and natural science, in a way that no civilization had done before. The long-distance travel itself put new demands on technology. 
+
+The printing press had recently been invented, and that made it easier to disseminate new ideas in a timely fashion. This in turn made it possible to form novel scientific communities, such as the Royal Society in London. 
+
+And of course, one should never underestimate pure happenstance: the appearance of characters with the quirky ideas of a Galileo or a Newton: the ‘butterfly effect’ of the history of ideas.
+
+Maybe one should throw some religious factors into the mix as well. Another thing that was taking place in Europe about the same time was, of course, the Reformation, when Christian thinkers such as Luther and Calvin were challenging the authority and some of the dogmas of the Catholic Church. Maybe this contributed to the critical scientific spirit of the times. 
+
+But if, as Chadha says, a preparedness to take on orthodoxy was a feature of other cultures at the time—notably that of India, where the scientific revolution did not occur—it is hard to see this as playing a dominant role in the matter.
 
 At any rate, perhaps understanding what role, if any, religion played in the scientific revolution is the biggest challenge posed by Chadha’s Hindu perspective.
 
