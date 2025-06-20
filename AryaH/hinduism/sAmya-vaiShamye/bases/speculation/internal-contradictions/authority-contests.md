@@ -204,11 +204,13 @@ In the kUrmapurANa (various Agama-s were said to be created because some men are
 
 लोकाचार्य-शाखायाम् (वैश्वदेवाकरणे काचनाप्रसिद्धा "वासुदेवसंहिता" पुरस् क्रियत इति) -
 
-वेदाः, ब्रह्म-सूत्राणि > स्वेष्टा वैष्णवा आगमाः, द्रविडगाथाः > स्मृतयः > इतिहासौ (रामायणं विशिष्य) > सात्त्विक-पुराणानि (विशिष्य विष्णु-पुराणम्) > राजस-तामस-पुराणानि, इतरागमाः।
+वेदाः, ब्रह्म-सूत्राणि > स्वेष्टा वैष्णवा आगमाः, द्रविडगाथाः > स्मृतयः (वृद्ध-हारित-स्मृतिर् विशिष्य)> इतिहासौ (रामायणं विशिष्य) > सात्त्विक-पुराणानि (विशिष्य विष्णु-पुराणम्) > राजस-तामस-पुराणानि, इतरागमाः।
 
-shAnkaras, since they butcher BS (to a lesser extant vedas too), have to pretend that veda > BS (when in fact, BS is not even a proper pramANa for them at all) - 
+shAnkaras, since they butcher BS, have to pretend that veda > BS (when in fact, BS is not even a proper pramANa for them at all) - 
 
 वेदाः (> ब्रह्म-सूत्राणि) > स्मृतयः > इतिहासौ (रामायणं विशिष्य) > स्वेष्टानि पुराणानि > आगमाः।
+
+Actually, vedas too are not really pramANa for them since they only selectively accept it (ascribing gauNatA to bheda-shruti).
 
 
 gauDIya-s claim that bhAgavata-purANa, since it claims precedence over even BS, is the supreme pramANa. एवं शुक-सम्प्रदायोऽपि. So, for them:

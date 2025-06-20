@@ -3,8 +3,6 @@ title = "Hinduism & science - monima"
 +++
 
 
-[![Book cover for Global Dialogues in the Philosophy of Religion: From Religious Experience to the Afterlife](https://oup.silverchair-cdn.com/oup/backfile/content_public/books/56272/book/1/m_9780192865496.jpeg?Expires=1752785171&Signature=wC4fYJaAcf8CyIly17yylEDeRMNNAVjz4nbXNegpUBbq0ZmvjsWUOS5mPJXkHt6XavK7zCZ~vx0E77Mcm1Gqxk1bZzYs4KYVBbmwBgJGQiB5SRR4huqKePR961iZ7BHf9cC7yqOg38VGdOciEeQ5JFkdOAfmDm6qpxCNrgXzWyLu61bKG8in-JNNPCypxGBg72hOLXD5GVQiC-w20S0UgmGvaY0aHOfCVZGJ73jb8M~MEY1j9ssfip9CBVhQQrtZPrwBrDBmW-G5YB3Hjvl0~v9o3~pWwf6ie8EaPcdzFimCsqYDIV484SDVQUE9PIxNtLV9eczTIJmVGY-mGgPJ9A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)  Global Dialogues in the Philosophy of Religion: From Religious Experience to the Afterlife](https://academic.oup.com/book/56272)
-
 9 Hinduism and Science
 
 [Monima Chadha]
@@ -437,6 +435,17 @@ But if, as Chadha says, a preparedness to take on orthodoxy was a feature of oth
 
 At any rate, perhaps understanding what role, if any, religion played in the scientific revolution is the biggest challenge posed by Chadha’s Hindu perspective.
 
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+Graham Priest's response hides the nature of the renaissance, lit by the pagan Plethon.
+
+It also ignores the H struggle for survival post Islamic invasion (a factor absent in renaissance Europe).
+</details>
+
+
+
+## Appendix
 [Download all slides](/DownloadFile/DownloadImage.aspx?image=&sec=445197912&BookID=56272&ChapterSecID=445197912&PPTtype=SlideSet&xsltPath=~/UI/app/XSLT&siteId=191)
 
 Monima Chadha, Helen De Cruz, and Graham Priest, _Hinduism and Science_ In: _Global Dialogues in the Philosophy of Religion: From Religious Experience to the Afterlife._ Edited by: Yujin Nagasawa and Mohammad Saleh Zarepour, Oxford University Press. © Monima Chadha, Helen De Cruz, and Graham Priest 2024. DOI: 10.1093/oso/9780192865496.003.0010
