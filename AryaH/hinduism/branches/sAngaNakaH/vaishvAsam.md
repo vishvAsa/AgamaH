@@ -65,9 +65,6 @@ Short url - https://rebrand.ly/vaishvAsam
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 A good religion ought to consider understanding nature (not just AtmA and the Gods) a sacred activity. Classical vedAnta (in practice, and often in theory) doesn't. Must fix.
-
-Even traditional rAmAnujIya-s deprecate it as something countering vairAgya. 
-Better attiutde within their framework - लोकावेक्षा विरक्तस्यापि शोभेत - लोकस्य भगवद्-विभूतित्वेन।
 </details>
 
 
