@@ -71,15 +71,17 @@ A good religion ought to consider understanding nature (not just AtmA and the Go
 #### प्रामाणिकता
 सत्ये च **प्रमाणानि** प्रसिद्धानि - प्रत्यक्षम्, अनुमानम्, विश्वस्त-सम्प्रदायः/ आप्त-वचनम् इति।  
 तद्-विरोधो न स्यात्।  
+
 प्रत्यक्ष-प्रमाणे स्वानुभूतयः **उपलब्धि**-शब्द-वाच्या अपि गृह्यन्ते।  
 अनुमान-शब्दयोस् तन्-मूलकत्वात् स्व-तन्त्र-प्रमाणत्वं नास्ति ।
+
+स्वप्न-योगि-दृष्ट्य्-आद्य् अपि प्रत्यक्षे ऽन्तर्भवति,  
+यद्य् अपि तत् परेषां प्रत्ययाय न स्यात्तराम्। 
 
 किञ्च, प्रत्यक्षम् अप्य् अदुष्टं स्यात्।  
 ततो ज्ञान-प्राप्तौ - प्रत्यक्ष-प्रमाणेभ्यो मन्त्रादि-तत्त्व-श्रद्धोत्पादनायापि कृतम्  
 ऐन्द्रजालिकं "प्रकट-विद्या"ख्यं वा नेत्रादि-वञ्चनम् -  
 रुद्राक्षाद्य्-आविर्-भावनादि वारणीयम्।  
-
-
 
 
 ##### विश्वस्त-सम्प्रदायः
@@ -106,12 +108,19 @@ A good religion ought to consider understanding nature (not just AtmA and the Go
 </details>
 
 शास्त्रे विधि-प्रेरणार्थम् **अतिवादाः**, कथाः, उच्छृङ्खल-मूढेषु भय-हर्षाद्य्-उत्पादनम् इत्यादि दृश्यते।  
-क्वचित् शब्दे कश्चनांशो योगि-प्रत्यक्ष-मूलकः, **अतीन्द्रिय-सत्य-सूचको** ऽपि वास्तविकांशस् स्यात्, यो ऽस्माभिर् दुर्-विवेच्यो भवति।  
-एतत् सद्भिर् विविच्य  
-यथामात्रं यथोद्देशं चावगन्तव्यम्।  
+क्वचित् शब्दे कश्चनांशो योगि-प्रत्यक्ष-मूलकः,  
+**अतीन्द्रिय-सत्य-सूचको** ऽपि वास्तविकांशस् स्यात्,  
+यो ऽस्माभिर् दुर्-विवेच्यो भवति।  
 
+पुनः क्वचित् साम्प्रदायिक-ग्रन्थेषु **प्रक्षेपास्** सम्भवन्ति,  
+ये स्युस् त्याज्याः। 
+
+एतत् सद्भिर् विविच्य  
+यथा-मात्रं यथोद्देशं चावगन्तव्यम्।  
 प्रत्यक्षाविरोधे, तत्त्व-लाघव-सामञ्जस्याद्य्-अनति-व्यभिचारे च  
 गणित-शास्त्र-स्थ-sqrt(-1)-सङ्ख्येव स्वीकर्तुम् उचितम्।  
+
+किञ्च, विश्वस्त-शब्दैकगम्ये विषये युक्त्या बाधो नोचितः। 
 
 ###### स्थूल-विश्वासार्हता
 कतमः सम्प्रदायो विश्वसनीयः, कतरो न?  
@@ -133,15 +142,35 @@ A good religion ought to consider understanding nature (not just AtmA and the Go
 
 तेनान्ततो ऽयं विश्वासः प्रत्यक्षमूलक एव।
 
+<details><summary>Picking a base tradition</summary>
+
+Traditional attempts can provide a good basis.
+Of the traditional attempts, rAmAnuja's was brilliant (esp. in contrast to logically deficient shUnyAdvaita + brahman attempt of shankara), and can stand without reliance on non-universally-accepted sectarian texts (as in the case of 28 agama shaiva school). So, seems good to use as a solid foundation.
+
+The later-shAnkara patch of "one Ishvara with multiple personality disorder" (ditching shankara's original vaiShNavism) is unsatisfactory. Rather, genuine polytheism admitted by R, with it's sAmarasya logic used in having 2 Ishvara-devatAs provides a better basis.
+
+As far as practice is concerned - 
+
+the distinctive principles of the atimArga-s (culminating in the kaula-s) can be dismissed for being degeneracy-recipes. 
+
+But, techniques accepted in daxiNa-tantra can bring classical vaidika AchAra up to date.
+</details>
+
 ##### श्रुत्य्-आदाव् एक-वाक्यता-साधनम्
 
-श्रुतयः, स्मृतयः, पुराणानि प्रमाणम् इत्य् आर्यैर् बहुमतम्।
+श्रुतयः, स्मृतयः, पुराणानि प्रमाणम् इत्य् आर्यैर् बहुमतम्।  
 बहुषु सम्प्रदायेषु श्रुत्य्-आदि-ग्रन्थेष्व् एक-वाक्यता भवतीति किञ्चन कल्पनम्।  
 तच् चेष्ट एव -   
 परस्पर-विरुद्धांशवतां सप्रदायानाम् अंशतः सङ्गमः शक्यः।  
 तेषु सर्वेषु समञ्जसांशाः काल-प्रतिष्ठिताः कलनीया अस्मत्-प्रयोजनाय।
 
-साम्प्रदायिकैर् अस्यां दिशि कश्चन प्रयासो विहितः,  
+एतद्-अर्थं सम्प्रदायेषु प्रमाण्य-क्रमः कश्चन निश्चेतुम् उचितः।  
+श्रीवैष्णवाभ्युपगत-प्रामाण्य-क्रमः (वेङ्कटनाथशाखा) -
+
+वेदाः, ब्रह्म-सूत्राणि > स्मृतयः > इतिहासौ (रामायणं विशिष्य) > सात्त्विक-पुराणानि (विशिष्य विष्णु-पुराणम्) > प्रसिद्धा वैष्णवा आगमाः, द्रविडगाथाः > राजस-तामस-पुराणानि, इतरागमाः।
+
+###### देवता-पारम्यम्
+साम्प्रदायिकैर् एकवाक्यता-दिशि कश्चन प्रयासो विहितः,  
 येन "रुद्रादयो देवाः प्राकृत-शरीरवन्त" इत्यादयो निश्चया अजायन्त।  
 किञ्चास्मिन् प्रयासे कश्चन दोषो मूल-भूतः -
 समान-विवक्षया परस्पर-विरुद्ध-वचनान्य् उद्गीर्णानीत्य् आग्रहस्य  
@@ -159,24 +188,6 @@ If one is honest historically, one will recognise competing cults even in shruti
 
 The traditional reconciliation doesn't account for this history - they did not understand the cult competition factor. They instead relied on sAmAnAdhikaraNya, which in results in a loss of valuable common meanings (rUDhArtha).
 </details>
-
-
-<details><summary>Picking a base tradition</summary>
-
-Traditional attempts can provide a good basis.
-Of the traditional attempts, rAmAnuja's was brilliant (esp. in contrast to logically deficient shUnyAdvaita + brahman attempt of shankara), and can stand without reliance on non-universally-accepted sectarian texts (as in the case of 28 agama shaiva school). So, seems good to use as a solid foundation.
-
-The later-shAnkara patch of "one Ishvara with multiple personality disorder" (ditching shankara's original vaiShNavism) is unsatisfactory. Rather, genuine polytheism admitted by R, with it's sAmarasya logic used in having 2 Ishvara-devatAs provides a better basis.
-
-As far as practice is concerned - 
-
-the distinctive principles of the atimArga-s (culminating in the kaula-s) can be dismissed for being degeneracy-recipes. 
-
-But, techniques accepted in daxiNa-tantra can bring classical vaidika AchAra up to date.
-</details>
-
-
-
 
 ## ज्ञानम्
 ### वर्ण-विन्यासः
