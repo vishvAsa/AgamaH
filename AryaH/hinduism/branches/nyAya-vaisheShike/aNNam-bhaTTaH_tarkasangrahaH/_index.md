@@ -1,5 +1,5 @@
 ---
-title: +तर्कसङ्ग्रहः
+title: +अन्नम्-भट्टः - तर्कसङ्ग्रहः
 unicode_script: devanagari
 ---
 
@@ -15,10 +15,11 @@ unicode_script: devanagari
 - सुदर्शनाचार्यः \- सङ्ग्रहपरिभाषा
 - सानुवाद-विस्तार-पत्रम् [अत्र](https://docs.google.com/spreadsheets/d/1lzq8I-RbUPQb3J-B6qWANjS-Am7Mq7fUvQvTeINDjgE/edit#gid=1325220786)। (प्रायेणाळ्वारमहाभागप्रेरितम्)
 - पदार्थ-वृक्ष-चित्रम् [१](https://www.mindomo.com/mindmap/ac0e4e75397c4b8d8d83068f777d5f9d) ॥ 
-    
+
 
 ## पाठाः
 
+- पऴवेरि-राजगोपालः स्वपुत्रम् एवम् अपाठयत् तर्कसङ्ग्रहम् - तर्कभाषा, दिनकरी, किरणावली, अन्ततः मैसूरु-विद्वद्भिर् उत्कृष्टतया सम्पादितो न्यायप्रदीपः, यः किरणावलीपर्यन्त-ज्ञानं ददाति। 
 - [न्यायशास्त्रपरिचयः](https://www.youtube.com/playlist?list=PL96EFBA297839C620) दोर्बलप्रभाकरशर्मणा।
 - नव्यन्यायपाठ आळ्वार-महोदयेना [ऽत्र](https://www.youtube.com/playlist?list=PL7_6YPlfLKeRttlUiKQFoIpM1eNhyhUmt)। (अनुवर्तमानः)
     - पदार्थ-वृक्ष-चित्रम् [अत्र](https://drive.mindmup.com/map?state=%7B%22ids%22:%5B%220B1_QBT-hoqqVaGJYYklIYkFJWkE%22%5D,%22action%22:%22open%22,%22userId%22:%22109000762913288837175%22%7D)।
