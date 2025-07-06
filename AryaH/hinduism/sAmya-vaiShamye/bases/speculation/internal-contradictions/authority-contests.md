@@ -99,17 +99,7 @@ With pauruSheya vAkya-s, it becomes important to know the qualities and circumst
 
 इतरशास्त्राणां च वेदोपबृंहकत्वं सर्व-प्रतिपन्नम्। 
 
-### स्मृतयः
-jaiminI viewed veda-s as more authoritative than smRti-s, which were considered authoritative only in so far as it does not oppose the veda-s.
-
-> "या वेदबाह्याः स्मृतयो  
-याश्च कांश्च कुदृष्टयः।  
-सर्वास्ता निष्फलाः प्रेत्य  
-तमोनिष्ठा हि ताः स्मृताः" 
-
-इति मनुः। 
-
-
+#### स्मृत्य्-अपेक्षया बलीयस्त्वम्
 > "विप्रतिपत्तौ च स्मृतीनाम् अवश्य-कर्तव्ये ऽन्यतर-परिग्रहे, ऽन्यतर-परित्यागे च  
 श्रुत्य्-अनुसारिण्यः स्मृतयः प्रमाणम् ;  
 अनपेक्ष्या इतराः ;  
@@ -130,6 +120,15 @@ medhAtithi commenting on manu smRti repeatedly states the greater authority of v
 
 Other quotes in BG 16.
 
+> "या वेदबाह्याः स्मृतयो  
+याश्च कांश्च कुदृष्टयः।  
+सर्वास्ता निष्फलाः प्रेत्य  
+तमोनिष्ठा हि ताः स्मृताः" 
+
+इति मनुः। 
+
+### स्मृतयः
+jaiminI viewed veda-s as more authoritative than smRti-s, which were considered authoritative only in so far as it does not oppose the veda-s.
 
 
 ### इतिहासौ
@@ -167,7 +166,7 @@ Other quotes in BG 16.
 स्वाधिकार-विरुद्धं च  
 शास्त्रोक्तं *न समाचरेत्* ॥ २ ॥
 
-### कूर्मपुराणोक्तिः
+#### कूर्म-पुराणोक्तिः
 In the kUrmapurANa (various Agama-s were said to be created because some men are excluded from the veda and incapable of following it).
 
 >  KūrmP_1,15.109
@@ -194,24 +193,18 @@ In the kUrmapurANa (various Agama-s were said to be created because some men are
 **वर्तध्वं** मत्प्रसादेन  
 नान्यथा निष्कृतिर्हि वः ॥
 
+### शिष्टाचारः, ऐतिह्यम्
+इमा अनुमित-स्मृतयः।  
+विस्तारो [ऽत्र](/kalpAntaram/AgamaH/AryaH/hinduism/sAmya-vaiShamye/bases/observation/tradition/elders) । 
 
 ### क्रमाः
-श्रीवैष्णवाभ्युपगत-प्रामाण्य-क्रमः (वेङ्कटनाथशाखा) -
-
-अदुष्टम् प्रत्यक्षम् > वेदाः, ब्रह्म-सूत्राणि > स्मृतयः > इतिहासौ (रामायणं विशिष्य) > सात्त्विक-पुराणानि (विशिष्य विष्णु-पुराणम्) > प्रसिद्धा वैष्णवा आगमाः, द्रविडगाथाः > राजस-तामस-पुराणानि, इतरागमाः।
-
-(The purpose of the Brahmasutras is to establish the right interpretation of the Shruti; hence equal priority.)
-
-लोकाचार्य-शाखायाम् (वैश्वदेवाकरणे काचनाप्रसिद्धा "वासुदेवसंहिता" पुरस् क्रियत इति) -
-
-वेदाः, ब्रह्म-सूत्राणि > स्वेष्टा वैष्णवा आगमाः, द्रविडगाथाः > स्मृतयः (वृद्ध-हारित-स्मृतिर् विशिष्य)> इतिहासौ (रामायणं विशिष्य) > सात्त्विक-पुराणानि (विशिष्य विष्णु-पुराणम्) > राजस-तामस-पुराणानि, इतरागमाः।
+श्रीवैष्णवाभ्युपगत-प्रामाण्य-क्रमः (वेङ्कटनाथशाखा) [अन्यत्र](/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/vishvAsaH/pramANAni) द्रष्टव्या । 
 
 shAnkaras, since they butcher BS, have to pretend that veda > BS (when in fact, BS is not even a proper pramANa for them at all) - 
 
 अदुष्टम् प्रत्यक्षम् > वेदाः (> ब्रह्म-सूत्राणि) > स्मृतयः > इतिहासौ (रामायणं विशिष्य) > स्वेष्टानि पुराणानि > आगमाः।
 
 Actually, vedas too are not really pramANa for them since they only selectively accept it (ascribing gauNatA to bheda-shruti).
-
 
 gauDIya-s claim that bhAgavata-purANa, since it claims precedence over even BS, is the supreme pramANa. एवं शुक-सम्प्रदायोऽपि. So, for them:
 
