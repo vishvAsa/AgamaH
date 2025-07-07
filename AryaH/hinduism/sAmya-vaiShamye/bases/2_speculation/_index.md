@@ -1,5 +1,5 @@
 +++
-title = "+Speculation"
+title = "+2 Speculation"
 
 +++
 

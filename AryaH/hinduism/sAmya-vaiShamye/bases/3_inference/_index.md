@@ -1,5 +1,5 @@
 +++
-title = "+Inference"
+title = "+3 Inference"
 +++
 
 

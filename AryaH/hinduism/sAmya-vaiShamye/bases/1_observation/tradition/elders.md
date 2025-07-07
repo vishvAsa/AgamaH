@@ -9,7 +9,12 @@ title: शिष्टः Role-models
 - Given that the shAstra-s available to us are always incomplete, and possibly corrupted and changed to various degrees (see "Holy Books"), one might expect the behavior of shiShTa-s (role-models) to demonstrate various components of the hindu way.
 
 ### Limitation
-श्रुतेः, स्मृतीनां च बलीयस्त्वम् [अन्यत्रोक्तम्](/AgamaH/AryaH/hinduism/sAmya-vaiShamye/bases/speculation/internal-contradictions/authority-contests) । 
+श्रुतेः, स्मृतीनां च बलीयस्त्वम्, आन्तरिक-तारतम्यं च [अन्यत्रोक्तम्](/AgamaH/AryaH/hinduism/sAmya-vaiShamye/bases/5_internal-contradictions/hierarchy) । 
+
+## स्रोतः
+आचाराख्यायिका इतिहास-पुराणेष्व्, आगमेष्व्, ऐतिह्येषु वोक्तास् स्युः,  
+शिष्टाचारेषु वा साक्षात्-कृताः।  
+
 
 ## विकल्पय् आप्त-परिगृहीतता
 ग्रन्था अपि वस्तुतो निश्चप्रच-शिष्टाचार-सूचका एवेति युक्तं गृहीतुम्।  

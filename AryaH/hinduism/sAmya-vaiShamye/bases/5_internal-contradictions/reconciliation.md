@@ -1,19 +1,11 @@
 +++
-title = "Statement-extraction"
+title = "Reconciliation"
 +++
 
- A classification of statements of veda-s is:
-
-- vidhi-vAkya (command/ injunction)
-- arthavAda (laudatory or denunciatory statement).
-
-Subdivisions of arthavAda:
-
-- gunavada - opposed to what is known through other pramanas, and thus has to be interpreted in a different way.
-- anuvada - "merely repeats what is known through other pramana-s, and cannot thus be the main import of the Vedas, which are supposed to reveal what cannot be known from other sources."
-- bhutArthavada - "neither opposed to what is known by other pranianas, nor can they be confirmed by other pramana-s.".
-  - vedAntin-s consider them authoritative.
-  - pUrva-mImAmsaka-s don't consider them authoritative.
+## न हि निन्दा
+- By the nahi-nindA nyAya, scholars ([LT_U](https://archive.org/stream/LakshmiTantra/Lakshmi%20Tantra%201975%20VKrishnamacharya#page/n12/mode/1up)) have often understood these contesting statements as merely advertising their own exaltedness - given the mutual complementarity (besides competitiveness) of the relationship between such texts and traditions.
+- Consider the analogous role of myths showing conflicts among the deva-s.
+- Even the mutual bickering among brAhmaNa-s of veda shAkhA-s was harmonized in this way by the sUtra period.
 
 ## Multi-level understanding
 Multiple appropriate meanings

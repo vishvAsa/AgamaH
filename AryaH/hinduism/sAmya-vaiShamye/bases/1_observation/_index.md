@@ -1,5 +1,5 @@
 +++
-title = "+Observation"
+title = "+1 Observation"
 +++
 Observation is of many kinds. Based on the object:
 

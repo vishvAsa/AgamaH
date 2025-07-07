@@ -1,5 +1,5 @@
 +++
-title = "आचारः"
+title = "Laxity"
 +++
 
 ग्रन्था अपि वस्तुतो निश्चप्रच-शिष्टाचार-सूचका एवेति युक्तं गृहीतुम्।
@@ -27,9 +27,9 @@ title = "आचारः"
   -  Nīlakantha-dīxita in kaliviḍambana - मन्त्रभ्रंशे संप्रदायः प्रयोगश्च्युतसंकृतौ । देशधर्मस्त्वनाचारे पृच्छतां सिद्धमुत्तरम् ॥ ८८ ॥
   - Nearly the entire community of Tamil Brahmins of all types hypocritically perform the adhyAya-upaakarma and claim to regret not performing the annual switch from studying the veda-s to shaastra-s every year and fix that by repeating the prescribed mantra-s.
   - Some major samskāra-s such as sīmantonnayana were routinely omitted (rarely conducted) in my clan even 2-3 generations ago , without any consequence or ostracism from the broader community. This continues today.
-- The feeling or internal transformation is ultimately paramount - allowing one to transgress (../knowingly or otherwise) prescribed structure, and perform (ritual and other) actions true to their feeling. See examples in the "Structure vs feeling tension" section [here](../../self-cultivation/rituals/).
+- The feeling or internal transformation is ultimately paramount - allowing one to transgress (knowingly or otherwise) prescribed structure, and perform (ritual and other) actions true to their feeling. See examples in the "Structure vs feeling tension" section [here](../../self-cultivation/rituals/).
 
-## Cononification problems
+## Pro-refinement view
 - Canonification (mostly by modern scholarship) of attempts at refinement is wrong.
 -  The veda-s, purāṇa-s and āgama-s are no more canonical law in the realm of worship than the recommendations of nāṭyashāstra (the so-called fifth veda) is in the realm of dance or mātanga's work is in the realm of music. They are just attempts at refinement of an artistic/ spiritual activity, in order to benefit from the observations of previous practitioners and connoiseurs.
   - This extends to the role of dharmashAstra-s in organizing society and gRhyasUtras in leading a refined and aesthetically sensitive life.
