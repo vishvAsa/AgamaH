@@ -197,14 +197,6 @@ In the kUrmapurANa (various Agama-s were said to be created because some men are
 ## क्रमाः
 श्रीवैष्णवाभ्युपगत-प्रामाण्य-क्रमः (वेङ्कटनाथशाखा) [अन्यत्र](/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/vishvAsaH/pramANAni) द्रष्टव्या । 
 
-shAnkaras, since they butcher BS, have to pretend that veda > BS (when in fact, BS is not even a proper pramANa for them at all) - 
+शाङ्कर-प्रमाणततिर् [अन्यत्रोक्ता](/AgamaH_brAhmaH/shAnkara-darshanam/tattvam/vishvAsaH/pramANam) । 
 
-अदुष्टम् प्रत्यक्षम् > वेदाः (> ब्रह्म-सूत्राणि) > स्मृतयः > इतिहासौ (रामायणं विशिष्य) > स्वेष्टानि पुराणानि > आगमाः।
-
-Actually, vedas too are not really pramANa for them since they only selectively accept it (ascribing gauNatA to bheda-shruti).
-
-gauDIya-s claim that bhAgavata-purANa, since it claims precedence over even BS, is the supreme pramANa. एवं शुक-सम्प्रदायोऽपि. So, for them:
-
-भागवत-पुराणम् > ब्रह्म-सूत्राणि > वेदाः > स्वेष्टा वैष्णवा आगमाः, द्रविडगाथाः > स्मृतयः > इतिहासौ (रामायणं विशिष्य) > सात्त्विक-पुराणानि (विशिष्य विष्णु-पुराणम्) > राजस-तामस-पुराणानि, इतरागमाः।
-
-
+माध्वगौडीयादीनाम् [अन्यत्र](/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/vishvAsaH/para-mata-bhedAH) विचारितम्। 
