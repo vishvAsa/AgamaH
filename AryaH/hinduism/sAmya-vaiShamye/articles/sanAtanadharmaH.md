@@ -1373,7 +1373,7 @@ its parent if the Jîvâtmâ has progressed, or on a little lower level if it ha
 
  When the animal stage has been fully experíenced, and the Jîvâtmâ is ready to pass on into the human form, his triune nature, reflection of the triune nature of Íshvara, begins to manifest. The human Jîvâtmâ— as we may now call him— manifests the three aspects of Jñâna, Ichchhâ and Kriyâ which have ever been in him, and these begin to evolve as self-consciousness; ahamkâra appears, and the recognition of the "I" as opposed to the "Not I" rapidly developes. The desire-nature, developed in the animal kingdom, now becomes much more powerful, by seizing on the evolving mind as its slave, and using its growing powers for the satisfaction of its own cravings. As the mind grows stronger, and the Jîvâtmâ by experience learns the pains that result from unbridled desires, he begins to exert his strength in checking and directing thed esires, and the long struggle commences between the Jivâtma, dimly beginning to feel his own divinity, and the kâmic elements of his upâdhis. As is written in the *Kaṭhopaniṣhat*:
 
-आत्मानꣳरथिनं विद्धि शरीरꣳरथमेव तु। बुद्धिं तु सारथिं विद्धि मनः प्रग्रहमेव च॥ इन्द्रियाणि हयानाहुर्विषयाꣲस्तेषु गोचरान्। आत्मेन्द्रियमनोयुक्तं भोक्तेत्याहुर्मनीषिणः॥ यस्त्वविज्ञानवान् भवत्ययुक्तेन मनसा सदा। तस्येन्द्रियाण्यवश्यानि दुष्टाश्वा इव सारथेः॥ यस्तु विज्ञानवान्भवति युक्तेन मनसा सदा। तस्येन्द्रियाणि वश्यानि सदश्वा इव सारथेः॥ यस्त्वविज्ञानवान्भवत्यमनस्कः सदाऽशुचिः। न स तत्यदमाप्नोति संसारं चाधिगच्छति॥¹
+आत्मानँरथिनं विद्धि शरीरँरथमेव तु। बुद्धिं तु सारथिं विद्धि मनः प्रग्रहमेव च॥ इन्द्रियाणि हयानाहुर्विषयाँस्तेषु गोचरान्। आत्मेन्द्रियमनोयुक्तं भोक्तेत्याहुर्मनीषिणः॥ यस्त्वविज्ञानवान् भवत्ययुक्तेन मनसा सदा। तस्येन्द्रियाण्यवश्यानि दुष्टाश्वा इव सारथेः॥ यस्तु विज्ञानवान्भवति युक्तेन मनसा सदा। तस्येन्द्रियाणि वश्यानि सदश्वा इव सारथेः॥ यस्त्वविज्ञानवान्भवत्यमनस्कः सदाऽशुचिः। न स तत्यदमाप्नोति संसारं चाधिगच्छति॥¹
 
 ^(*                                                                        *)  
 
@@ -2105,7 +2105,7 @@ THE WORLDS— VISIBLE AND INVISIBLE.
 
 First comes the statement ;
 
-**मघवन्मर्त्यं वा इदꣳशरीरमात्तं मृत्युना तदस्यामृतस्याशरीरस्यात्मनोऽधिष्ठानम्।¹**
+**मघवन्मर्त्यं वा इदँशरीरमात्तं मृत्युना तदस्यामृतस्याशरीरस्यात्मनोऽधिष्ठानम्।¹**
 
  "O Maghavan, this body truly is mortal, controlled by death. It is the dwelling of the immortal bodiless Âtm*â*."  
 *                                   
@@ -2115,7 +2115,7 @@ First comes the statement ;
 
  Then the wish to experience is said to lead the Âtmâ to form organs for receiving and transmitting to himself the experiences. His wish lies at the root of each, and matter obeys his impulse, and obediently moulds itself into a form suitable for the exercise of the life-function. (Science, in these later days, proves over and over again that an organ is formed under the pressure of the life seeking to function in a particular way.)
 
- यो वेदेदं जिघ्राणीति स आत्मा गन्धाय प्राणमथ यो वेदेदमभिव्याहराणीति स आत्माभिव्याहाराय वागथ यो वेदेदंꣳ शृण्वानीति स आत्मा श्रवणाय श्रोत्रमथ यो वेदेदं मन्वानीति स आत्मा मनोऽस्य दैवं चक्षुः।¹
+ यो वेदेदं जिघ्राणीति स आत्मा गन्धाय प्राणमथ यो वेदेदमभिव्याहराणीति स आत्माभिव्याहाराय वागथ यो वेदेदंँ शृण्वानीति स आत्मा श्रवणाय श्रोत्रमथ यो वेदेदं मन्वानीति स आत्मा मनोऽस्य दैवं चक्षुः।¹
 
  "He who has the consciousness, 'may I smell,' he, the Âtmâ, in order to smell, (makes) the organ of smell; he who has the consciousness, 'may I speak,' he, the Âtmâ, in order to speak, (makes) the voice; he who has the consciousness, 'may I hear,' he, the Âtmâ, in order to hear, (makes) the organ of hearing; he who has the consciousness, 'may I think,' he, the Âtmâ, (makes) the mind, his divine eye."
 
@@ -2457,7 +2457,7 @@ higher worlds; and, far more, he may reach the Vidyâ which liberates.
 
  By Yoga this separation is effected, and it is written:
 
-तꣳ स्वाच्छरीरात्प्रवृहेन्मुञ्जादिवेषीकां धैर्येण।¹
+तँ स्वाच्छरीरात्प्रवृहेन्मुञ्जादिवेषीकां धैर्येण।¹
 
  "That (Puruṣha) let him draw out from his own body with self-possession, like a grass-stalk from its sheaths."
 

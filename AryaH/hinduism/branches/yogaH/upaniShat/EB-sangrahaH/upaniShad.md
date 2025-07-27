@@ -99,7 +99,7 @@ same end. Therefore all *Karma* has been enjoined in accordance with worldly und
 
 Om. Peace! Peace!! Peace!!!
 
-ईशावास्यमिदꣳसर्वंयत्किञ्च जगत्यां जगत्।  
+ईशावास्यमिदँसर्वंयत्किञ्च जगत्यां जगत्।  
 तेन त्यक्तेन भुञ्जीथा मा गृधः कस्य स्विद्धनम्॥१॥
 
  All this—whatsoever moveth on the earth—should be covered by the Lord. That renounced, enjoy. Covet not anybody’s wealth.(1).
@@ -114,7 +114,7 @@ as name, form, and action, this bundle of modifications, superimposed upon the *
 
 
 
-**कुर्वन्नेवेहकर्माणि जिजीविषेच्छत ꣳसमाः।  
+**कुर्वन्नेवेहकर्माणि जिजीविषेच्छत ँसमाः।  
 एवं त्वयि नान्यथेतोऽस्ति न कर्म लिप्यते नरे॥२॥**
 
  Should one wish to live a hundred years on thisearth, he should live doing *Karma*. While thus, (as) man, you live, there is no way other than this by which *Karma* will not cling to you.(2).
@@ -134,7 +134,7 @@ preferable one.”The *Taittiriya* Upanishad also says, “Renunciation (*Nyasa*
  *Bhagavan Vyasa*, the preceptor of the Vedas, after much discussion told his son his firm conviction in the following text. “These then are the two roads on which the Vedas are based. Both the courses—one which leads to *Karma* and the other which draws away from *Karma* have been explained, etc.”This division willbe explained.
 
 असुर्या नाम ते लोका अन्धेन तमसाऽऽवृत्ताः।  
-ता ꣳस्ते प्रेत्याभिगच्छन्ति ये के चात्मनो जनाः॥३॥
+ता ँस्ते प्रेत्याभिगच्छन्ति ये के चात्मनो जनाः॥३॥
 
  Those births partake of the nature of the *Asuras*and are enveloped in blind darkness. After leaving the body they who kill their *Atman* attain them.(3).
 
@@ -194,7 +194,7 @@ distinct from one’s *Atman*. To one who sees his pure *Atman* alone continuous
 
  ***Com*.—**This other text also expresses thesame purport. The word ‘*Yasmin*’means either ‘when’or ‘in which *Atman*.’ When all the *Bhutas* have become one with the *Atman*, owing to the knowledge of the *Atman*, then or in the case of the *Atman*, how can there be perplexity or grief? Perplexity and grief, the seed of all desire and *Karma*, affect the ignorant, but not him who sees the oneness, pure and like the sky. The negation of perplexity and grief—the effect of ignorance—being shown by the form of a question, the total uprooting of all *samsara* with its seed has been indi-cated.
 
- स पर्यगाच्छुक्रमकायमव्रणमस्नाविर ꣳशुद्धमपापविद्धम्।कविर्मनीषीपरिभूः स्वयम्भूर्याथातथ्यतोऽर्थान्व्यदधाच्छाश्वतीभ्यः समाभ्यः॥८॥
+ स पर्यगाच्छुक्रमकायमव्रणमस्नाविर ँशुद्धमपापविद्धम्।कविर्मनीषीपरिभूः स्वयम्भूर्याथातथ्यतोऽर्थान्व्यदधाच्छाश्वतीभ्यः समाभ्यः॥८॥
 
 
 
@@ -207,7 +207,7 @@ distinct from one’s *Atman*. To one who sees his pure *Atman* alone continuous
 *Paribhuh* means ‘being above all.’*Svayambhuh* means ‘himself being all above and all below becomes all.’ He, the ever free, and omnipotent, being omniscient, allotted their respective functions, *i.e.*, objects to be created to the various and eternal *Prajapatis*, known popularly as ‘years,’as aids to the enjoyment of the fruits of *Karma*.
 
 अन्धन्तमः प्रविशन्ति येऽविद्यमुपासते।  
-ततो भूय इव ते तमोय उ विद्याया ꣳरताः॥९॥
+ततो भूय इव ते तमोय उ विद्याया ँरताः॥९॥
 
  They who worship *Avidya* alone fall into blind darkness; and they who worship *Vidya* alone fall into even greater darkness.(9)
 
@@ -236,7 +236,7 @@ only and not to all alike? Because, he who has no desires has got over the false
 
 the abode of the *manes* attained.”We have heard thisstated to us by wise men, *i.e.*, those preceptors who taught us both Knowledge and *Karma*. The purport is that this is their view as handed down from preceptor to disciple.
 
-विद्यां चाविद्यां च यस्तद्वेदोभय ꣳसह।  
+विद्यां चाविद्यां च यस्तद्वेदोभय ँसह।  
 अविद्यया मृत्युं तीर्त्वा विद्ययाऽमृतमश्नुते॥११॥
 
  He who simultaneously knows both *Vidya* and *Avid-ya* gets over Death by *Avidya* and attains *immortality*by *Vidya*.(11).
@@ -244,7 +244,7 @@ the abode of the *manes* attained.”We have heard thisstated to us by wise men,
  ***Com.—***This being so, the following results. *Vidya* is the knowledge of the deities; *Avidya* is *Karma*. Who knows that both these should simulta-neously be followed by the same person, he alone, so combining the two, *gradually* secures the one desirable end. ‘By *Vidya*’means ‘by *Karma* such as *Agnihotra*,etc.’‘Death’means ‘action and knowledge induced by *Prakriti* (nature).’ ‘*Tirtva*’means ‘having got over.’ ‘By *Avidya*’means ‘by the knowledge of the deities.’‘*Asnute*’means ‘attains.’To become one with the deitiesis what is called immortality (*Amritam*.)
 
 अन्धं तमः प्रविशन्ति येऽसंभूतिमुपासते।  
-ततो भूय इव ते तमो य उ संभूत्या ꣳरताः॥१२॥
+ततो भूय इव ते तमो य उ संभूत्या ँरताः॥१२॥
 
 
 
@@ -263,7 +263,7 @@ the abode of the *manes* attained.”We have heard thisstated to us by wise men,
 
 their combination. They have said that from the worship of *Sambhutih* or *Karya Brahman* or *Hiranyagarbha* results the attainment of *Anima* and other *Siddhis*. Similarly, they have said that according to *Pouranikas* the absorption into *Prakriti* results from the worship of the unborn *Prakriti*. We have heard itthus stated by wise preceptors who taught us the fruits of the worship of *Prakriti* and *Hiranyagarbha*individually.
 
-संभूतिं च विनाशं च यस्तद्वेदोभय ꣳसह।  
+संभूतिं च विनाशं च यस्तद्वेदोभय ँसह।  
 विनाशेन मृत्युं तीर्त्वा संभूत्यामृतमश्नुते॥१४॥
 
  Those who worship the unmanifested *Prakriti* and *Hiranyagarbha* (Destruction) together, get over death through the worship of *Hiranyagarbha* and attain immortality through the worship of *Prakriti*.(14).
@@ -297,8 +297,8 @@ which is indicated by mandatory and prohibitory injunctions. The *Brihadaranyaka
 
 
 
-वायुरनिलममृतमथेदं भस्मान्त ꣳशरीरम्।  
-ओं। क्रतो स्मर कृत ꣳस्मर क्रतो स्मर कृतꣳ स्मर॥१७॥
+वायुरनिलममृतमथेदं भस्मान्त ँशरीरम्।  
+ओं। क्रतो स्मर कृत ँस्मर क्रतो स्मर कृतँ स्मर॥१७॥
 
  (Let my) *Prana* melt into the all–pervading Air, the eternal *Sutratman*; and let this body be burnt by fire to ashes; Om. O mind, remember, remember my deeds; O mind, remember, remember my deeds.(17).
 
@@ -450,7 +450,7 @@ the eye of the eye, &c. The capacity of the eye to perceive form is found only w
 
 immortal’means ‘enjoy immunity from death’. The *Srutis* also say “Not by deeds, not by offspring, not by wealth, but hy renunciation did some attain immortality”; “The senses were made to perceive only external objects;”“Having turned his senses inwards for desire of immortality”; “When all desires are driven forth, here they attain the *Brahman*,”&c. Or, seeing that the word *Atimuchya* necessarily implies ‘renunciation of all desires,’ the expression ‘*Asmallokat* *pretya”*may be interpreted as 'having left this mortal body.'
 
- **न तत्र चक्षुर्ग्रच्छति न वाग्गच्छति नो मनो न विद्मोन विजानीमोयथैतदनुशि ꣳष्यादन्यदेव तद्विदितादयो अविदितादधि।**
+ **न तत्र चक्षुर्ग्रच्छति न वाग्गच्छति नो मनो न विद्मोन विजानीमोयथैतदनुशि ँष्यादन्यदेव तद्विदितादयो अविदितादधि।**
 
 इति शुश्रुम पूर्वेषां ये नस्तद्व्याचचाक्षिरे॥३॥
 
@@ -506,14 +506,14 @@ stated alternative when several others are (possible) or for *Parisankhyana* (ex
 
 know the *Brahman* say that the mind is pervaded by the *Brahman*. Therefore know that to be the *Brahman* which is the *Atman*, the interior intelligence of the mind. '*Nedam*, etc.,' has already been explained in the commentary on the last verse.
 
-यच्चक्षुषा न पश्यति येन चक्षुꣳषि पश्यति।  
+यच्चक्षुषा न पश्यति येन चक्षुँषि पश्यति।  
 तदेव ब्रह्म त्वं विद्धि नेदं यदिदमुपासते ॥६॥
 
   What cannot be seen by the eye, but by which the eyes are able to see, That alone know thou to be the *Brahman*; not this which (people) here worship, (6)
 
 * **Com.—**‘*See’means 'perceive as an object. By the light of the *Atman*, connected with the activities of the mind, man perceives the activity of the eye, varying with the activity of the mind.
 
-यच्छ्रोत्रेण न शृणोति येन श्रोत्रमिꣳश्रुतम्।  
+यच्छ्रोत्रेण न शृणोति येन श्रोत्रमिँश्रुतम्।  
 तदेव ब्रह्म त्वं विद्धि नेदं यदिद‌मुपासते ॥७॥
 
  What cannot be heard with the ear, but by which the ears are able to hear, That alone know thou to be the *Brahman*; not this which (people) here worship.(7)
@@ -547,7 +547,7 @@ Here ends the first part
 
  **यदि मन्यसे सुवेदेति दहरमेवापि नूनम्।**
 
- त्वं वेत्त्य ब्रह्मणो रूपं यदस्य त्वं यदस्य देवेष्वय नुमीमाꣳस्यमेव
+ त्वं वेत्त्य ब्रह्मणो रूपं यदस्य त्वं यदस्य देवेष्वय नुमीमाँस्यमेव
 
 ते मन्ये विदितम्॥९॥
 
@@ -683,7 +683,7 @@ their benefit in a form assumed at will, in virtue of its power—
 
 a form unprecedentedly glorious and astonishing and capable of being perceived by the senses. The *Devas* did not at all know the *Brahman* that appeared before them. Who is this *Yaksham*, *i.e.*, this venerable Great Spirit.
 
-तेऽग्निमब्रुवन् जातवेद एतद्विजानीहि किमेतद्यक्षमिति तथेति॥१६॥ तदभ्यद्रवत्तमभ्यवदत्कोऽसीत्यग्निर्वा अहमस्मी त्यब्रवीज्जातवेदा वा अहमस्मीति॥१७॥ तस्मि ꣳस्त्वयि किं वीर्यमित्यपीद ꣳसर्वंदहेयं यदिदं पृथिव्यामिति॥१८॥ तस्मै तृणं निदधावेतद्दहेति तदुपप्रेयाय सर्वजवेन तन्न शशाक दग्धुं स तत एव निववृते नैतदशकं विज्ञातुं यदेतद्यक्षमिति॥१९॥
+तेऽग्निमब्रुवन् जातवेद एतद्विजानीहि किमेतद्यक्षमिति तथेति॥१६॥ तदभ्यद्रवत्तमभ्यवदत्कोऽसीत्यग्निर्वा अहमस्मी त्यब्रवीज्जातवेदा वा अहमस्मीति॥१७॥ तस्मि ँस्त्वयि किं वीर्यमित्यपीद ँसर्वंदहेयं यदिदं पृथिव्यामिति॥१८॥ तस्मै तृणं निदधावेतद्दहेति तदुपप्रेयाय सर्वजवेन तन्न शशाक दग्धुं स तत एव निववृते नैतदशकं विज्ञातुं यदेतद्यक्षमिति॥१९॥
 
  They addressed the Fire thus "O *Jataveda*! Find out what this Great Spirit is."He said "yes."(16)
 
@@ -701,7 +701,7 @@ a form unprecedentedly glorious and astonishing and capable of being perceived b
 
 *Jataveda*, being unable to burn it, covered with shame and baffled in his resolution, returned in silence from the presence of the Spirit and told the *Devas*: "I was not able to learn more, concerning this Spirit."
 
- अथ वायुमब्रुवन् वायवेतद्विजानीहि किमेतद्यक्षमिति तथेति॥२०॥ तदभ्यद्रवत्तमभ्यवदत्कोऽसीति वायुर्वा  अहमस्मीत्यब्रबीन्मातरिश्वा वा अहमस्मीति॥२१॥ तस्मिꣳस्त्वयि किं वीर्यमित्यपीद ꣳसर्वमाददीयं यदिदं पृथिव्यामिति॥२२॥ तस्मै तृणं निदधावेतदादत्स्वेति तदुपप्रेयायसर्वजवेन तन्न शशाकाऽऽदातुं स तत एव निववृत्ते नैतदशकं विज्ञातुं यदेतयक्षमिति॥२३॥
+ अथ वायुमब्रुवन् वायवेतद्विजानीहि किमेतद्यक्षमिति तथेति॥२०॥ तदभ्यद्रवत्तमभ्यवदत्कोऽसीति वायुर्वा  अहमस्मीत्यब्रबीन्मातरिश्वा वा अहमस्मीति॥२१॥ तस्मिँस्त्वयि किं वीर्यमित्यपीद ँसर्वमाददीयं यदिदं पृथिव्यामिति॥२२॥ तस्मै तृणं निदधावेतदादत्स्वेति तदुपप्रेयायसर्वजवेन तन्न शशाकाऽऽदातुं स तत एव निववृत्ते नैतदशकं विज्ञातुं यदेतयक्षमिति॥२३॥
 
  The *Devas* then said to *Vayu*: "Learn O*Vayu*! what this Great Spirit is" He said: "yes." (20)
 
@@ -715,7 +715,7 @@ a form unprecedentedly glorious and astonishing and capable of being perceived b
 
 * **Com*.—**They next addressed Vayu thus: 'know this, etc. The rest bears the same meaning as in the last passage. *Vayu \[Air\]* is so named from the root which means 'to go'or 'to smell. *Vayu* is also called *Matarisva*' because it travels \[*svayati*\] in space \[*matari*\]. "*Adadiyam*' means 'can take.' The rest is explained as in the previous passage.
 
- **अथेन्द्रमब्रुवन्मघवन्नेतद्विजानीहि किमेतद्यक्षमिति तथेति तदभ्यद्रवत्तस्मात्तिरोदधे॥२४॥ स तस्मिन्नेवाकाशे स्त्रियमाजगाम बहुशोभमानामुमा ꣳहैमवतीं ता ꣳहोवाच किमेतद्यक्षमिति॥२५॥**
+ **अथेन्द्रमब्रुवन्मघवन्नेतद्विजानीहि किमेतद्यक्षमिति तथेति तदभ्यद्रवत्तस्मात्तिरोदधे॥२४॥ स तस्मिन्नेवाकाशे स्त्रियमाजगाम बहुशोभमानामुमा ँहैमवतीं ता ँहोवाच किमेतद्यक्षमिति॥२५॥**
 
  Then they said to Indra: O Maghavan! learn what this Great Spirit is." He said "yes" and ran to That. That vanished from his view. (24)
 
