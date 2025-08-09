@@ -15,8 +15,11 @@ title = "Scope"
 शास्त्रैकगम्ये विषये  
 युक्तिः शास्त्र-वचनं न प्रतिषेद्धुम् अर्हति।  
 
-> न हि वचनविरोधे न्यायः प्रभवति॥
+> न हि वचन-विरोधे न्यायः प्रभवति॥
 
+किन्तु, न्यायस्य वचनाशयावगताव् उपकारकता वर्तते। तद् [अन्यत्रोक्तम्](/AgamaH/AryaH/hinduism/sAmya-vaiShamye/bases/2_speculation/sAraH_essence) । 
+
+## प्रत्यक्षानुमान-व्याप्तिः
 प्रमाणान्तरगम्ये तु शास्त्रप्राधान्यं न वर्ततय् इत्य् अतस्  
 तत्र विरोधः शक्यः।
 यथा - भूगोल-विषयः शास्त्रैकगम्यविषयो नास्ति -  
@@ -24,8 +27,6 @@ title = "Scope"
 
 Direct observation (extensible to experimental science) and inference is a valuable source of knowledge in some cases (even mokSha according to some), but not in others.
 
-
-##  Primacy over text
 Literal understanding of sayings in the veda-s and shAstra-s, contradicting direct observation (and science), is considered naive and wrong.
 
 > प्रत्यक्षेणानुमित्या वा  
@@ -43,9 +44,6 @@ is oft quoted.
 
 > "न हि श्रुतिशतमपि ‘शीतोऽग्निरप्रकाशो वा’ इति ब्रुवत् प्रामाण्यमुपैति । यदि ब्रूयात् ‘शीतोऽग्निरप्रकाशो वा’ इति, तथापि अर्थान्तरं श्रुतेः विवक्षितं कल्प्यम्। प्रामाण्यान्यथानुपपत्तेः। न तु प्रमाणान्तरविरुद्धं स्ववचनविरुद्धं वा ।"  
 > \- शङ्करः गीताभाष्ये (१८.७३?)।
-
-### Impact on text interpretation
-- Observation + inference may augment the overall validity of texts in some cases (see "holy books") or refute literal or non-contextual understanding of specific portions. See [books/non-absoluteness]() page. 
 
 ### व्यासादि-सार्वज्ञ्यम्
 > भगवद्-अवतारस्य भूगोलम् अन्यथा वर्णयतो व्यासमुनेर् अज्ञानापादनं कथं युक्तम्?
@@ -70,7 +68,7 @@ is oft quoted.
 इत्य् अपि न वक्तुं शक्यम्।
 
 
-## Ancient applications
+### Ancient applications
 - appayya vs bhaTTatiri argument about heliocentricism [KV](https://agnimaan.wordpress.com/2016/06/24/appayya-and-the-stationary-earth/).
 - Example: Ayurveda in moving from mantra-vyapaashraya to yukti-vyapaashraya ridiculed "people who seek proof for medicines in mantras". (vAgbhaTa 40-86 and 40-88 , [BVP-discussion](https://groups.google.com/d/msg/bvparishat/Z0v53lMq9rY/c8soadfnBgAJ).)
 - In jyotiSha for eg. they emphasized imp of observation and correction.
