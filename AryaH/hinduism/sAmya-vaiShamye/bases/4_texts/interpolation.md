@@ -17,8 +17,16 @@ If a text contradicts another by the same author (esp in the same work!), or if 
 
 ## History
 ### Acknowledgement
-- A position adopted by the likes of madhvAcArya is that many works (especially itihAsa-s and purANa-s) contains interpolations, deletions and corruptions. \[[MTN](http://mahabharata-resources.org/mbtntrans/chapter_2_gururajahrao.pdf)  2.3\]
-- vedAntadeshika pointed out that some use fabricated texts, ascribing them to vyAsa.
+A position adopted by the likes of madhvAcArya is that many works (especially itihAsa-s and purANa-s) contains interpolations, deletions and corruptions. 
+
+
+> क्वचिद् ग्रन्थान् प्रक्षिपन्ति  
+क्वचिद् अन्तरितानपि ।  
+कुर्युः क्वचिच् च व्यत्यासं  
+प्रमादात् क्वचिद् अन्यथा॥  
+\- \[[MTN](http://mahabharata-resources.org/mbtntrans/chapter_2_gururajahrao.pdf)  2.3\]
+
+vedAntadeshika pointed out that some use fabricated texts, ascribing them to vyAsa.
 
 ### Famous cases
 mahopaniShad, quoted by mAdhvas and rAmAnujIya-s (but not by shankara), currently has an inperpolation providing the "finger in front of the eye leading to two moons being seen" example -
