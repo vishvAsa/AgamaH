@@ -67,13 +67,6 @@ On the necessity of mantrasiddhi and its primary means(puraścaraṇa in this co
 Some points to be noted from the above quotes
 
 -   It is essential for kāmya rites -   Without puraścaraṇa,one does not do pūjā etc (basically mantrasiddhi at its various levels is essential for the deity to be responding to the ritualist: This is the point being hinted at here) 
--   The classic simile of a lifeless body being unable to perform any
-    work; and a mantra that is not siddha is employed in the Yoginīhṛdaya 
--   A yāmalatantra even goes as far as to say that one who does rites
-    without doing puraścaraṇa,his rites are akin to abhicāra 
--   Rāmārcana-candrikā,a text on Rāma worship notes that the puraścaraṇa
-    ritual is also the cause of breakage of the bonds of saṃsāra; hence
-    this is not merely recommended only for kāmya rites alone. And the
-    ritual is also praised highly. This sentiment on the importance of
-    mantrasiddhi at various levels is thus,not something that exists
-    only in Śākta works but can be seen in Vaiṣnava works as well.
+-   The classic simile of a lifeless body being unable to perform any work; and a mantra that is not siddha is employed in the Yoginīhṛdaya 
+-   A yāmalatantra even goes as far as to say that one who does rites without doing puraścaraṇa, his rites are akin to abhicāra 
+-   Rāmārcana-candrikā,a text on Rāma worship notes that the puraścaraṇa ritual is also the cause of breakage of the bonds of saṃsāra; hence this is not merely recommended only for kāmya rites alone. And the ritual is also praised highly. This sentiment on the importance of mantrasiddhi at various levels is thus,not something that exists only in Śākta works but can be seen in Vaiṣnava works as well.

@@ -7,6 +7,7 @@ title: +अधिमन्त्रम्
 - It is an aid to concentrating the mind on the deity or a sentiment or even an entire philosophy. This is often true in the context of a ritual.
 
 ### siddhi-s
+- General siddhi note elsewhere. 
 - Many attribute supernatural effects beyond it - mAraNa, vashIkaraNa, uchChATana, stambhana, mohana, vidveShaNa ... All these are said to be possible with mastery (siddhi) over a single mantra and knowledge of appropriate rituals.
 - siddhI is said to be earned by practice involving diet and behavior restriction, japa, Asana-s, prANAyAma-s, secrecy (AG\_T\_27.3 [IMG](https://imgur.com/ZY9clni)) etc.. over an indeterminate period of time - under the guidance of a (dear) personal trainer/ guru (who helps avoid or counteract bad side-effects). Potential bad effects (physical, mental etc..) and errors in books (deliberate or otherwise) dissuade unguided uninitiated practice of many mantra-s.
 - Greater the siddhi, tougher the things that are said to be possible. Master tAntrikas sometimes train from childhood, with a big syllabus of mantra-s and rituals - and have siddhi-s over multiple mantra-s. The deshika-s among them are said to even be capable of making new effective mantra-s for disciples.
