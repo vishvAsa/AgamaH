@@ -29,7 +29,7 @@ A position adopted by the likes of madhvAcArya is that many works (especially it
 vedAntadeshika pointed out that some use fabricated texts, ascribing them to vyAsa.
 
 ### Famous cases
-mahopaniShad, quoted by mAdhvas and rAmAnujIya-s (but not by shankara), currently has an inperpolation providing the "finger in front of the eye leading to two moons being seen" example -
+mahopaniShad, quoted by mAdhvas and rAmAnujIya-s (but not by shankara or early shANkaras, for who it'd be so convenient), currently has an interpolation providing the "finger in front of the eye leading to two moons being seen" example -
 
 > द्विचन्द्रशुक्तिकारूप्यमृगतृष्णादिभेदतः ।  
 अभ्यासं प्राप्य जाग्रत्तत्स्वप्नो नानाविधो भवेत् ॥ १५॥
