@@ -7,8 +7,8 @@ title = "Evolution"
   - The front end of the wave was led by IA speakers with a hotraka "indra-para" religious core. At their rear were the ancestors of the Kalasha & probably Brokpa (~~drokpa~~).
   - On the steppe, just behind the first wave was an IA group with a distinct religious approach -- Adhvaryava & viShNu-focal with some rudra-focal elements scattered in their midst.
   - A more rudra-focal group lay on the steppes in the borderland with the Ir.
-- Prājāpatya tradition rose as well, leading to Aindra decline.
-- Core saMhitA-s were compiled in the kuru-pAnchAla realm; followed by the brAhmaNa-s and then the sUtra-s. Ritual was standardized, with Adhvaryava domination.
+- Prājāpatya tradition rose as well, leading to Aindra decline..
+- Core saMhitA-s were compiled in the kuru-pAnchAla realm; followed by the brAhmaNa-s and then the sUtra-s. Ritual was standardized, with Adhvaryava domination - leading to the emergence of pAncharAtra from SYV and vaikhAnasa from KYV.
 - vedAnga-s blossomed.
   - shikShA, kalpa, ChandaH, vyAkaraNa, jyotiSha took off.
   - "On the mīmāṃsā front, the development of the Śaunakīya tradition was limited and formulaic after the Bṛhaddevatā and Nirukta. Instead, daivimīmāṃsā was overtaken by tendencies that had a more Kautsa structure even if not explicitly so." ([MT](/AgamaH/AryaH/hinduism/tattvam/articles/MT/learn_from_platonists/))
