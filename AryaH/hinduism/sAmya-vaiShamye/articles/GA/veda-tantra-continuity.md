@@ -4,7 +4,8 @@ title = "Veda tantra continuity"
 Source: [TW](https://x.com/GhorAngirasa/status/1925872890492154056)
 
 
-Fact is, it is the Āgamika-Tāntrika religion that saved the Vaidika-Paurāņika religion. Firstly, it supplemented the latter in the form of material incorporated into the Purāņas.
+Fact is, it is the Āgamika-Tāntrika religion that saved the Vaidika-Paurāņika religion.  
+Firstly, it supplemented the latter in the form of material incorporated into the Purāņas.
 
 Secondly, the developed methods in Tantrāgama have been incorporated into vaidika praxis (nyāsa, mudras, etc).
 
@@ -28,3 +29,5 @@ Pūrvamīmāmsakas were not fond of temples (as can be seen in the manubhāșya 
 
 One is reminded of a Śloka from Bhavișyapurāņa, which appears to have been inserted by a Devālayadveșī, which states that Sattras (very complex, often year-long Vedic sacrificial sessions performed by a group rather than an individual Yajamāna) should not be hosted by temples, probably the only institution which could have actually afforded to perform Sattras in the first place. Mātsarya/Jealousy…
 
+## Distasteful veda?
+Almost everything you may find distasteful in the large world of tantra (which may constitute a mere 10% of it at the very most) has a prototype/predecessor in the Veda. Unfortunately, most who do Veda-Tantra-compare-&-contrast know neither of those. I’m not going to elaborate the above tweet for the reason given in the tweet quoted below. 
