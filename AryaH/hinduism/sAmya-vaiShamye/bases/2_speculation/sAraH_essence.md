@@ -30,6 +30,12 @@ Observation + inference may augment the overall validity of texts in some cases 
 
 इति भर्तृहरिः।  प्रत्यवायः = पापम् / अनिष्टम् / दुःखम्॥
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> तत्र तावद् अर्थवादोपस्थापितफलविषये एवेयमुक्तिरिति प्रत्येमि। यतो, न दतो गमयेदित्यादिवाक्यम् उदाहरणत्वेनोपस्थापितं क्वचिदग्रे तत्रैव। किञ्च प्रागयं श्लोकः पठितस् स्तूयते सा स्तुतिस्तस्येत्यादि। अतः प्रकरणादर्थवादवाक्यविषयकत्वमेवोचितं प्रतिभाति।
+</details>
+
+
 <details><summary>भास्करकण्ठः</summary>
 
 Source: [TW](/AgamaH_shaivaH/abheda-darshanam/praty-abhijnA/utpaladevaH_Ishvara-pratyabhiJNA-kArikA/abhinavagupta-vimarshinI/bhAskarakaNTha-TIkA/2_kriyAdhikAraH/3/)
