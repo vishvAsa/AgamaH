@@ -21,6 +21,13 @@ madhva in Rigbhashya reportedly relies on the एकवाक्यता of the
 - उत्सर्गापवाद-न्यायः
 - सर्वं वाक्यं सावधारणम् - असति बाधके। 
 
+यथा-सम्भवम् असङ्कोचः - 
+
+> अनुपाधिक-निर्देशे  
+ह्य् असङ्कोचो मनीषिभिः ।  
+"सिद्धे शब्दार्थसम्बन्ध"  
+इति न्यायेन कथ्यते॥
+
 ## न हि निन्दा
 - By the nahi-nindA nyAya, scholars ([LT_U](https://archive.org/stream/LakshmiTantra/Lakshmi%20Tantra%201975%20VKrishnamacharya#page/n12/mode/1up)) have often understood these contesting statements as merely advertising their own exaltedness - given the mutual complementarity (besides competitiveness) of the relationship between such texts and traditions.
 - Consider the analogous role of myths showing conflicts among the deva-s.

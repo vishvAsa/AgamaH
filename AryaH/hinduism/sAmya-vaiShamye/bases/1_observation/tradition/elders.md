@@ -50,7 +50,7 @@ title: शिष्टः Role-models
   - southern brAhmaNa-s violating sApiNDya prohibitions in marriage are rejected as a valid source of dharma by northerners.
 - One can never really tell if some traditional practice or non-practice originated from some respectable lost authority (sage or text) or from weakness / laxity at some point in time.
 - It can be hard to tell exactly how role-models of the (distant) past behaved or thought.
-    - See discussion under "history".
+  - See discussion under "history".
 
 ## History & Hagiography
 If a history or hagiography is not contemporary, it is suspect. The farther removed the composition from the supposed events, the further it should be suspected.
