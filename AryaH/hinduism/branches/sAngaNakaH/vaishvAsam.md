@@ -1118,7 +1118,8 @@ So the gods do not precognize but the thought reaches them post-facto via an eff
 किञ्च नाना-दैवज्ञाप्तानुभव-कथनेन +उपगन्तुम् उचितम्।  
 विशिष्य, जीव-चिन्तास्व् अनियतता ऽधिका, तेन देव-प्रभाव-प्रवणास् ताः। 
 
-{{< figure src="../images/durga-shADow_unconnected-objects.jpg" title="" class="thumbnail">}}
+![](../images/durga-shADow_unconnected-objects.jpg)
+{caption="" class="thumbnail"}
 
 #### विभवावतारादि
 त एव देवा अ-प्राकृतैर् **अर्चावताराख्य**-रूपैर्  

@@ -18,6 +18,7 @@ So what kind of religious movements resist modernity? It must be obvious now, th
 
 Btw, to further substantiate our hypothesis take a look at religious beliefs of American Muslims. They’re the groups that have the strongest belief in scriptural quranic literalism. They’re also as conservative as Southern Evangelicals. Take a look at the Hindu stats too.
 
-{{< figure src="../images/literalism_2021.jpg" title="" class="thumbnail">}}
+![](../images/literalism_2021.jpg)
+{caption="" class="thumbnail"}
 
 This conversation was inspired by discussion w a friend who told me what was the point of studying european philosophy and the enlightenment if it’s end result was the supremacy of historical materialism and scientific positivism? (This assumes that the end result “is here”.)
