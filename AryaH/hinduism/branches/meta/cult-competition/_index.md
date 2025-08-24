@@ -24,9 +24,10 @@ The govardhana incident is a transparent (and in hindsight successful) attempt b
 This we also see in the khANDava forest conflict, and it is in line with other paurANika cult competitions.  
 
 Indra's foe prahlAda made over to a devotee - 
-[MT](/AgamaH/AryaH/hindukaH/classes/asura-daitya-dAnava-raxAMsi/articles/MT/2013-07-25_a-brief-note-on-prahlada-hiranyakashipu-and-an-ear)
+[MT](/AgamaH/AryaH/hindukaH/classes/asura-daitya-dAnava-raxAMsi/articles/MT/2013-07-25_a-brief-note-on-prahlada-hiranyakashipu-and-an-ear).  
+In Bhagavatam, Vritra is depicted to be a devotee of Vishnu; with Indra being protected by viShNu as well.
 
-##### shiva vs viShNu
+##### shaiva vs vaiShNava
 narasimha → sharabha → gaNDaberuNDa chain
 
 ### Sectarian antigens
