@@ -7,13 +7,31 @@ title = "+Cult competition"
 - Egyptian Isis cult - [SP17](https://twitter.com/Rjrasva/status/620209859540062208/photo/1)
 
 ### Vedic age
-veda-s haven't had some parallel to the "shiva-dveSha"/ shaiva-droha type concepts, beyond just scorn for dasyus. Maybe they were just so dominant they didn't need it. Yet there was internal competition.
+Incoming Arya-s already had some religious, ethnic and linguistic diversity, with the aindra hautra fore, followed by prAjApatyas with the later dominant Adhvaryava vaiShNavas, and the more raudra rear. Details: [TW](/notes/sapiens/branches/Aryan/satem/indo-iranian/indo-aryan/india/politics/1_invasion/meta-invasion/articles/MT/identity-impact.md)
 
-> "The Prājāpatya-s competed with Viṣṇu for the two figures of the primordial turtle Kaśyapa and the primordial boar Varāha. While the former was originally associated with Indra (from the RV itself), the latter is hinted to be associated with Viṣṇu in the early AV tradition recorded in the Paippalāda-saṃhitā. However, the Prājāpatya-s laid a strong claim to both before Viṣṇu +++(bhaktas)+++ eventually won and claimed both the figures as his avatāra-s in the Post-Vedic period."
+This resulted in cult competition, which manifested in altered text and lore.
 
-> The govardhana incident is a transparent (and in hindsight successful) attempt by the kRShNa cult to supplant the ancient vaidika aindra cult. This we also see in the khANDava forest conflict, and it is in line with other paurANika cult competitions (eps. shiva vs viShNu, as in: narasimha → sharabha → gaNDaberuNDa chain).
+For prAjApatification - see [TW](/AgamaH/AryaH/hinduism/branches/meta/cult-competition/articles/MT/prajApatification).
+
+#### vaiShNava Adhvaryava rise
+[MT1](/AgamaH/AryaH/hindukaH/viShNuH/meta/articles/MT_lekhAH/2020-01-02_the-roots-of-vaiShNavam-a-view-from-the-numerology)
+
+[MT2](/vedAH/meta/kalpaH/shrautam/articles/MT_lekhAH/Adhvaryava-dominance)
+
+#### paurANika
+##### Contra aindras
+The govardhana incident is a transparent (and in hindsight successful) attempt by the kRShNa cult to supplant the ancient vaidika aindra cult.  
+This we also see in the khANDava forest conflict, and it is in line with other paurANika cult competitions.  
+
+Indra's foe prahlAda made over to a devotee - 
+[MT](/AgamaH/AryaH/hindukaH/classes/asura-daitya-dAnava-raxAMsi/articles/MT/2013-07-25_a-brief-note-on-prahlada-hiranyakashipu-and-an-ear)
+
+##### shiva vs viShNu
+narasimha → sharabha → gaNDaberuNDa chain
 
 ### Sectarian antigens
+veda-s haven't had some parallel to the "shiva-dveSha"/ shaiva-droha type concepts, beyond just scorn for dasyus. Maybe they were just so dominant they didn't need it. Yet there was internal competition.
+
 shaivas had "shiva-dveSha"/ shaiva-droha type concepts.
 
 #### "Demon delusion"
