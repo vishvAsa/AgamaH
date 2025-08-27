@@ -12,7 +12,7 @@ title = "Evolution"
 - vedAnga-s blossomed.
   - shikShA, kalpa, ChandaH, vyAkaraNa, jyotiSha took off.
   - "On the mīmāṃsā front, the development of the Śaunakīya tradition was limited and formulaic after the Bṛhaddevatā and Nirukta. Instead, daivimīmāṃsā was overtaken by tendencies that had a more Kautsa structure even if not explicitly so." ([MT](/AgamaH/AryaH/hinduism/tattvam/articles/MT/learn_from_platonists/))
-- Unanchored brahmavāda (i.e., philosophy of brahman that gets increasingly decoupled from the ancestral pantheon) arose.
+- "Unanchored" brahmavāda (i.e., philosophy of brahman that gets increasingly decoupled from the ancestral pantheon) arose.
   - nAstika counter-religions emerged - jaina, bauddha ..
 - "Unanchored sāṃkhyā resulted in philosophical developments (otherwise very parallel to the yavana ones) that increasingly lost touch with the foundational layer of the religion." ([MT](/AgamaH/AryaH/hinduism/tattvam/articles/MT/learn_from_platonists/))
 - yoga and sectarian proto-Agamas developed on sAnkhya and some brahmavāda foundations. Temples.
