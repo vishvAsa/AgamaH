@@ -1550,10 +1550,31 @@ The traditional reconciliation doesn't account for this history - they did not u
 न परमाणवो नित्याः। तेषु परस्-पर-परिवर्तनं सम्भवति। +++(Eg: Conversion between massless and massive particles - say in nuclear physics)+++
 
 ##### विभागाः
-परमाणवो गुरवो ऽगुरवश् चेति। +++(Massless vs Massive particles: Bosons vs Fermions. "आद्य-पतनाऽसमवायि-कारणं गुरुत्वम्।" इति तर्कसङ्ग्रहे। विवरणम् [अत्र](https://www.youtube.com/watch?v=LIJSBjxD1l0&feature=youtu.be&list=PL7_6YPlfLKeRttlUiKQFoIpM1eNhyhUmt&t=1461) ।)+++  
-अगुरुषु+उर्जा-वाहका कर्षण-ज्ञान-वाहकाश्+++(=graviton)+++ च। तेषु केचन प्रकाशगतयः प्रभावाहकाश्च। तेषु प्रभा-वाहकेषूर्जा-वैविध्यम्।+++(→photons of different energies.)+++  
+अयम् प्राचीन-वचनानुकूलो विभागः -
+
+- पृथ्वी - घनकरम् (Quarks, Higgs Boson)
+- आपः - रसमूलम् (Leptons, esp. electrons)
+- तेजः - रूपमूलम् (photon)
+- वायुः - स्पर्शकम् (Other Gauge Bosons)
+- आकाशः - inflaton
+
+विभागन्तराण्य् उच्यन्ते। 
+परमाणवो गुरवो ऽगुरवश् चेति।  
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Massless vs Massive particles: Bosons vs Fermions.  
+"आद्य-पतनाऽसमवायि-कारणं गुरुत्वम्।" इति तर्कसङ्ग्रहे।  विवरणम् [अत्र](https://www.youtube.com/watch?v=LIJSBjxD1l0&feature=youtu.be&list=PL7_6YPlfLKeRttlUiKQFoIpM1eNhyhUmt&t=1461) ।
+</details>
+
+
+अगुरुषु+उर्जा-वाहका कर्षण-ज्ञान-वाहकाश्+++(=graviton)+++ च। 
+
+तेषु केचन प्रकाशगतयः प्रभावाहकाश्च। तेषु प्रभा-वाहकेषूर्जा-वैविध्यम्।+++(→photons of different energies.)+++  
+
 परमाणूनां व्यवस्था-विशेषैर् उपाणु-पदार्थानां सम्भवः।  
-गुरूणाम् परमाणूनां सङ्ग्रहेण जायन्ते ऽणवः+++(=Atoms)+++। तेषाञ् च शतशः प्रकाराः।
+गुरूणाम् परमाणूनां सङ्ग्रहेण जायन्ते ऽणवः+++(=Atoms)+++।  
+तेषाञ् च शतशः प्रकाराः।
 
 <details><summary>२०२४-वर्षे कलनम् (द्रष्टुं नोद्यम्)</summary>
 
@@ -1561,7 +1582,7 @@ The traditional reconciliation doesn't account for this history - they did not u
 - 6 antiquarks of the same name.
 - 6 leptons - electrons, electron neutrino, muon, muon neutrino, tau, and tau neutrino.
 - 6 antileptons of the same names
-- 4 bosons - photon, two W bosons and one Z boson, three gluons and their anti gluons
+- 4 gauge bosons - photon, two W bosons and one Z boson, three gluons and their anti gluons
 - 1 scalar boson - Higgs boson
 </details>
 
