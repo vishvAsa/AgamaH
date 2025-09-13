@@ -5,9 +5,17 @@ title = "sAraH, essence"
 ## हेतु-प्राधान्यादि-विज्ञानम्
 Observation + inference may augment the overall validity of texts in some cases (see "holy books") or refute literal or non-contextual understanding of specific portions.
 
-> If all statements of Dharmaśāstras are applicable for all times, then the southern India (Dakṣiṇāpatha) would have to be considered Mleccha-deśa, which is unfit/unsuitable for yajñas. 
 
-एवं हेतुं विज्ञाय शास्त्रादेशा अवगन्तव्याः। 
+> केवलं शास्त्रम् **आश्रित्य**  
+> **न कर्तव्यो** विनिर्णयः ।   
+> युक्ति-हीने विचारे तु  
+> धर्म-हानिः **प्रजायते** ॥
+>
+> \(“Conclusions should not be drawn merely on the basis of the literal meanings of *Śāstraśabdas*. If the matter is not tempered by logic it may harm *dharma*\).
+
+एवं हेतुं विज्ञाय शास्त्रादेशा अवगन्तव्याः।
+
+> If all statements of Dharmaśāstras are applicable for all times, then the southern India (Dakṣiṇāpatha) would have to be considered Mleccha-deśa, which is unfit/unsuitable for yajñas. - सत्य-शर्मा
 
 ### युगदोषः
 शोभनम् उक्तम् माधवेन - 
