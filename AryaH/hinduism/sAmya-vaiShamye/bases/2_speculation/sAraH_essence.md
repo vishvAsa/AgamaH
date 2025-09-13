@@ -5,6 +5,7 @@ title = "sAraH, essence"
 ## हेतु-प्राधान्यादि-विज्ञानम्
 Observation + inference may augment the overall validity of texts in some cases (see "holy books") or refute literal or non-contextual understanding of specific portions.
 
+व्यवहार-काण्ड-गतं बृहस्पति-वचनम् बहुत्रोल्लिखितं धर्म-शास्त्रे - 
 
 > केवलं शास्त्रम् **आश्रित्य**  
 > **न कर्तव्यो** विनिर्णयः ।   
