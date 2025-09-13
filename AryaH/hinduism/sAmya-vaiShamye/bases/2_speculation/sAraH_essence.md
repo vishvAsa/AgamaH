@@ -63,3 +63,5 @@ Source: [TW](/AgamaH_shaivaH/abheda-darshanam/praty-abhijnA/utpaladevaH_Ishvara-
 इति ।
 </details>
 
+## प्रकीर्ण-तन्त्राणि
+द्रष्टव्यम् - [TW](/AgamaH/AryaH/hinduism/sAmya-vaiShamye/bases/5_internal-contradictions/reconciliation)।
