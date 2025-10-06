@@ -9,6 +9,8 @@ The concept of a main sanctuary for a main deity of a temple with subsidiary san
 ### Inaguration
 Note also the consecration rite the Egyptians had for consecrating new icons of deities. They called it “opening of the mouth”, a rite that was later used in post-mortuary contexts too. But in the temple context, this is the ritual performed with sacred tools to “enliven” the deity at a new temple. Just like our नेत्रोनमीलन where we carefully “open” the eyes of the deity. Our logic is that the mantra-installed deity “sees” us & is thus ritually “alive”. 
 
+> I was just reading of the opening of the mouth incantation of images with a meteoritic iron chisel; c.f., opening of the eye ritual with a golden needles: an Agamika parallel. - MT
+
 What was the Egyptian logic behind the opening of the mouth? They understood the deity primarily in its capacity to receive offerings from worshipers. That’s what made the icon ritually alive. Thus, the mouth was opened with consecrated tools.
 
 A very unique feature of the Egyptian temple is that when the deity becomes ritually alive, the wall paintings become alive too. These wall paintings include the entire series of the daily rites. So, the daily rites are perpetually performed, even if the priests are gone!

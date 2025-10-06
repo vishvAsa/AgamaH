@@ -19,3 +19,21 @@ The shruti has various versions of "Atmastuti-s," where the yajamAna speaks as i
 > Those who are in Heliopolis bow their heads to me, for I am their lord, I am their bull.  
 > I am mightier than the Lord of Terror; I copulate and I have power over myriads.’
 
+## Osiris/ thoth-sAyujya
+Indeed there are several long sections where Osiris-sAyujya or Osirisatvam is propounded in certain papyri. 
+
+The again seeming identification with Toth is seen in a later papyrus just before the Iranian conquest in the context of an foe-conquering spell:
+
+> "I have stood as Horus,  
+I have sat in the sky,  
+I am strong as Thoth,  
+I am mighty as Atum.  
+I walk on my legs,  
+I speak with my mouth,  
+to seek out after him, after him.  
+He is given to me,  
+he cannot be rescued from me."
+
+
+## Connections
+While we can make the case that a subset of these memes were transferred back and forth between the Arya-s and the Kemetic world, I'm now puzzled by the several deep and pervasive general similarities. For these, I'm increasingly inclined to believe that there might have been a deep Eurasiatic inheritance or diffusion in deep time that we now see in cultures whose productions were well preserved.
