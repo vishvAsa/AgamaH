@@ -2,6 +2,9 @@
 title = "sAraH, essence"
 +++
 
+## शाब्द-बोधः
+सो [ऽन्यत्र](/sanskrit/vyAkaraNam/shabdabodhaH) व्याख्यातः । 
+
 ## हेतु-प्राधान्यादि-विज्ञानम्
 Observation + inference may augment the overall validity of texts in some cases (see "holy books") or refute literal or non-contextual understanding of specific portions.
 
