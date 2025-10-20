@@ -13,7 +13,13 @@ title: Apologetics
 - "In 642 A.D., according to local tradition, the Pallava king Narasimhavarman I looted the image of Ganesha from the Chalukyan capital of Vatapi. Fifty years later armies of those same Chalukyas invaded north India and brought back to the Deccan what appear to be images of Ganga and Yamuna, looted from defeated powers there." ([Eaton](http://www.frontline.in/static/html/fl1725/17250620.htm))
 
 ### Buddhist interchange
+#### Repurposement
 Buddhist temples were repurposed as Hindu temples and Hindu temples were repurposed as Buddhist temples (Bayon Temple, Preah Vihear, Angkor Wat, Vat Phou, etc.), but the goal was not to erase the other religious beliefs. When the Turks destroyed temples, they buried the idols under the courtyards of mosques so that the believers could trample over them.
+
+#### Chola
+> massive gold statue of Buddha was looted and melted to gild a Shaiva temple!
+
+> Divyasuri Charitam (DC) was written at least 700 years after the said incident allegedly happened. DC is a hagiography which has made up stories, not a historical fact. What’s a historical fact: The cholas allowed a massive Vihara (Chudamani Vihara) to be built in the same Nagapattinam centuries after this alleged incident is said to have happened.
 
 
 
