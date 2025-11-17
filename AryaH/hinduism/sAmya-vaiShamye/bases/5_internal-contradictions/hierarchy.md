@@ -169,6 +169,10 @@ Other quotes in BG 16.
 
 शिष्टाचारस्य प्रत्यक्षगम्यत्वात्, ऐतिह्यस्यापेक्षया तस्य प्राबल्यम्। 
 
+Can't guarantee integrity of pramANa in most cases. Hence lowest pramANa. Eg. 'moovaayirappaDi guruparamapara prabhava' has many interpolations (eg. meeting of prabodha-chandrodaya author with sankalpa-sUryodaya author VD). Also see: [TW](/rAmAnujIyam/paramparA/paramparAH)
+
+In many cases outright kAvya-s masquerade as aitihyas, misleading later naive practitioners (eg. shankara-digvijaya-s, maNimanjarI).
+
 ## इतिहासौ
 प्रकृत-सर्ग-विषये तत्रैवेतिहास-वैशिष्ट्यम् आह गोविन्दराजः - 
 
