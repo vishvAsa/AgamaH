@@ -13,6 +13,7 @@ Bigelow Institute for Consciousness Studies
 July 21, 2021
 ***
 Krohn 2
+
 ## Table of Contents
 
 Cover Page.................................................................................................................................... 1
@@ -74,7 +75,7 @@ Part of what makes science so dependable is the fact that it is an iterative pro
 ***
 Krohn 4
 
-Interestingly, the idea of experimenting with life after death was explored in the 2016 Netflix series *The OA*.¹ In the fictional show, a doctor with an insatiable desire to know what happens to human consciousness after death kidnaps five victims, to be used as test subjects. He holds them captive for years as he repeatedly kills and revives them to study what they tell him about their time in the afterlife. While the show is highly entertaining, it is also fascinating in its showcasing of not only the natural human curiosity of the subject, but also the problems inherent in proving anything related to the subject from a scientific standpoint.
+Interestingly, the idea of experimenting with life after death was explored in the 2016 Netflix series *The OA*.[^1] In the fictional show, a doctor with an insatiable desire to know what happens to human consciousness after death kidnaps five victims, to be used as test subjects. He holds them captive for years as he repeatedly kills and revives them to study what they tell him about their time in the afterlife. While the show is highly entertaining, it is also fascinating in its showcasing of not only the natural human curiosity of the subject, but also the problems inherent in proving anything related to the subject from a scientific standpoint.
 
 ### Near-Death Experiences
 
@@ -82,7 +83,7 @@ So, if the scientific method can't provide the best available evidence for the s
 
 While typical scientific research sorely lacks necessary observation, observation is exactly what credible eyewitness testimony provides.
 
-Though there is plenty of evidence, none of it can *prove* with certainty that consciousness survives permanent bodily death. No eyewitness has survived permanent bodily death. The next best witness is someone who has survived temporary bodily death, remembers remaining conscious during the event, and is able to recall and recount specific details from the event. This is an experiencer, someone who has actually experienced death (or near-death), remained conscious throughout the process, and witnessed the afterlife for themselves.² There is an abundance of experiencer eyewitness testimony that serves as credible evidence in both the public and private domains—experiencers of near-death experiences (NDEs).
+Though there is plenty of evidence, none of it can *prove* with certainty that consciousness survives permanent bodily death. No eyewitness has survived permanent bodily death. The next best witness is someone who has survived temporary bodily death, remembers remaining conscious during the event, and is able to recall and recount specific details from the event. This is an experiencer, someone who has actually experienced death (or near-death), remained conscious throughout the process, and witnessed the afterlife for themselves.[^2] There is an abundance of experiencer eyewitness testimony that serves as credible evidence in both the public and private domains—experiencers of near-death experiences (NDEs).
 
 From reading or listening to individual NDE testimonies, an inference can be made that consciousness does survive permanent bodily death from the extrapolation that consciousness survives temporary bodily death in NDEs. And the best existing experience that comes closest to permanent death is near death. I am not a scientist, a scholar, or a faith leader. What qualifies me to address the question is my own near-death experience, which turned me from an adamant skeptic to—not just a believer—a *knower*. I now *know* that our souls continue on after bodily death.
 
@@ -100,27 +101,27 @@ One needs to regard the single near-death experience narrative such as mine in c
 
 In contrast to the NDE studies, the personal NDE narrative is pure eyewitness testimony from an individual who personally observed the afterlife. Eyewitness testimony rises to the legal standard of *beyond a reasonable doubt*. According to West's Encyclopedia of American Law:
 
-> *Beyond a reasonable doubt* is the highest standard of proof that must be met in any trial. In civil litigation, the standard of proof is either proof by a *preponderance of the evidence*, or proof by *clear and convincing evidence*. These are lower burdens of proof. A preponderance of the evidence simply means that one side has more evidence in its favor than the other, even by the smallest degree. Clear and convincing proof is evidence that establishes a high probability that the fact sought to be proved is true. The main reason that the high proof standard of reasonable doubt is used in criminal trials is that such proceedings can result in the deprivation of a defendant's liberty or even in his or her death. These outcomes are far more severe than in civil trials, in which money damages are the common remedy.³
+> *Beyond a reasonable doubt* is the highest standard of proof that must be met in any trial. In civil litigation, the standard of proof is either proof by a *preponderance of the evidence*, or proof by *clear and convincing evidence*. These are lower burdens of proof. A preponderance of the evidence simply means that one side has more evidence in its favor than the other, even by the smallest degree. Clear and convincing proof is evidence that establishes a high probability that the fact sought to be proved is true. The main reason that the high proof standard of reasonable doubt is used in criminal trials is that such proceedings can result in the deprivation of a defendant's liberty or even in his or her death. These outcomes are far more severe than in civil trials, in which money damages are the common remedy.[^3]
 
 Since any NDE study uses secondhand information that the researcher did not personally experience, that means that there is no study that rises to the level of *beyond a reasonable doubt*.
 ***
 Krohn 6
 
-NDE researchers must make assumptions about experiences they did not personally observe (sometimes even from people with whom they may not have ever spoken). That lack of direct observation calls into question the scientific merit of the study. As Dr. Raymond Moody stated in the introduction to his groundbreaking 1975 book *Life After Life*, “I have never been close to death myself, so I am not giving a firsthand account of experiences which I have had myself. At the same time I cannot claim total objectivity on that basis, since my emotions have become involved in this project.”⁴ In other words, by definition, such research could not possibly be separated from personal bias, and thus could not be purely objective, nor strictly “scientific.”
+NDE researchers must make assumptions about experiences they did not personally observe (sometimes even from people with whom they may not have ever spoken). That lack of direct observation calls into question the scientific merit of the study. As Dr. Raymond Moody stated in the introduction to his groundbreaking 1975 book *Life After Life*, “I have never been close to death myself, so I am not giving a firsthand account of experiences which I have had myself. At the same time I cannot claim total objectivity on that basis, since my emotions have become involved in this project.”[^4] In other words, by definition, such research could not possibly be separated from personal bias, and thus could not be purely objective, nor strictly “scientific.”
 
 It's important to point out that in a court proceeding, the sole form of admissible eyewitness testimony is from the eyewitness *themselves*. A judge will not allow someone else to report on what the eyewitness saw or heard. That would be hearsay and cannot be adequately substantiated. It is inadmissible.
 
-The same holds true in any NDE study. These studies use data reported by researchers based on what eyewitnesses to after-death consciousness said happened. That is hearsay and calls into question the veracity of the studies. The only truly legitimate eyewitness testimony must come directly from the eyewitnesses themselves, and not from large groupings of stories in quasi-scientific studies. According to a 2017 article in *Scientific American* titled “Eyewitness Memory is a Lot More Reliable than You Think,” eyewitness memory is very reliable.⁵ Hearsay is not.
+The same holds true in any NDE study. These studies use data reported by researchers based on what eyewitnesses to after-death consciousness said happened. That is hearsay and calls into question the veracity of the studies. The only truly legitimate eyewitness testimony must come directly from the eyewitnesses themselves, and not from large groupings of stories in quasi-scientific studies. According to a 2017 article in *Scientific American* titled “Eyewitness Memory is a Lot More Reliable than You Think,” eyewitness memory is very reliable.[^5] Hearsay is not.
 
 One critical problem with secondhand understanding or retelling of NDEs is the inherent subjectivity imposed by the fact that all the stories researchers collect vary in so many ways. This bears explanation:
 
 Every near-death experience is unique to the person who lives through it. Though they may have similarities, no two are exactly alike. There are a number of features that have been identified as common to many NDEs. These common NDE features are usually measured using one of two scales; the NDE Scale (also known as the Greyson Scale) or the newer NDE-C Scale.
 
-The most well-known and frequently used list of NDE features is contained in the Greyson Scale developed by Dr. Bruce Greyson.⁶ Having focused much of his work on the study of near-death experiences, Greyson is on faculty at the University of Virginia Health System in the Division of Perceptual Studies. Greyson developed the Greyson Scale (also known as the NDE Scale survey) in 1983, and since then it has been the standard tool by which to distinguish NDEs from non-NDEs, based on what occurred during the NDEs in question. The Greyson Scale uses a weighted scoring system to score sixteen multiple-choice questions, with any score between seven and thirty-two considered to be an NDE. The questions were developed from individual NDE narratives and classified into four groups with themes pertaining to the transcendent, paranormal, physiological, and environmental.
+The most well-known and frequently used list of NDE features is contained in the Greyson Scale developed by Dr. Bruce Greyson.[^6] Having focused much of his work on the study of near-death experiences, Greyson is on faculty at the University of Virginia Health System in the Division of Perceptual Studies. Greyson developed the Greyson Scale (also known as the NDE Scale survey) in 1983, and since then it has been the standard tool by which to distinguish NDEs from non-NDEs, based on what occurred during the NDEs in question. The Greyson Scale uses a weighted scoring system to score sixteen multiple-choice questions, with any score between seven and thirty-two considered to be an NDE. The questions were developed from individual NDE narratives and classified into four groups with themes pertaining to the transcendent, paranormal, physiological, and environmental.
 ***
 Krohn 7
 
-Recently, the newer NDE-C (Near-Death Experience Content) Scale was introduced. It expands the list of questions from the Greyson Scale's sixteen questions to twenty questions.⁷ Jody A. Long from the Near-Death Experience Research Foundation (NDERF.org) explains that one question from the Greyson Scale was considered redundant and was omitted, and the remaining questions were reworded to make positive, clearer statements. Long goes on to explain that new items were added to address the content of NDEs including negative emotions, the experience of a gateway, the impression of being dead, the decision to come back from the experience, and ineffability. The answers to the NDE-C scale questions are not a multiple-choice format, but rather a scale of 0 to 4 with 0 being “Not at all; none" and 4 being “Extremely; more than any other time in my life and stronger than 3.” In the NDE-C scale, there are six questions that are clustered in a category called “Beyond the usual”: two questions address “Harmony,” five questions address “Insight,” five questions address “Border,” and two questions that address "Gateway."⁸
+Recently, the newer NDE-C (Near-Death Experience Content) Scale was introduced. It expands the list of questions from the Greyson Scale's sixteen questions to twenty questions.[^7] Jody A. Long from the Near-Death Experience Research Foundation (NDERF.org) explains that one question from the Greyson Scale was considered redundant and was omitted, and the remaining questions were reworded to make positive, clearer statements. Long goes on to explain that new items were added to address the content of NDEs including negative emotions, the experience of a gateway, the impression of being dead, the decision to come back from the experience, and ineffability. The answers to the NDE-C scale questions are not a multiple-choice format, but rather a scale of 0 to 4 with 0 being “Not at all; none" and 4 being “Extremely; more than any other time in my life and stronger than 3.” In the NDE-C scale, there are six questions that are clustered in a category called “Beyond the usual”: two questions address “Harmony,” five questions address “Insight,” five questions address “Border,” and two questions that address "Gateway."[^8]
 
 Even with these scales, it can be difficult for researchers to consistently classify some of the common and not-so-common elements of an NDE narrative. They have to rely on the description given to them by the respondent as to what exactly happened. Then they must interpret the experience that they did not actually observe. One of the biggest problems in trying to maintain a scientific approach to the study of NDEs is the lack of reliability of self-reported subjective experiences.
 
@@ -138,9 +139,9 @@ Some physical evidence of after-death communications does exist, however it does
 
 There are sometimes verifiable eyewitnesses, such as those who have experienced an after-death communication, and those who have been with someone who has received an ADC when it happened. This type of witness testimony can be difficult to scientifically prove since, like NDEs, it is based on experiencer testimony. The data cannot be directly observed by the researcher, but can only be culled from the narrative of the person who received the communication.
 
-There are numerous ways in which the surviving consciousness of deceased people will attempt to bridge the dimensional gap and contact the living. According to Marilyn Mendoza, PhD in *Psychology Today*, there are twelve main categories of ADCs, including sensing a presence, hearing a voice, feeling a touch, smelling a fragrance, visual experiences, and visions. Other categories include twilight experiences that happen just as a person is dozing off to sleep, just waking up, or meditating/praying. ADCs can sometimes be out-of-body experiences, where the living person leaves their body and visits the deceased person wherever they are. This can include physical phenomena such as flashing lights, objects falling off shelves, or appliances turning on.¹⁰
+There are numerous ways in which the surviving consciousness of deceased people will attempt to bridge the dimensional gap and contact the living. According to Marilyn Mendoza, PhD in *Psychology Today*, there are twelve main categories of ADCs, including sensing a presence, hearing a voice, feeling a touch, smelling a fragrance, visual experiences, and visions. Other categories include twilight experiences that happen just as a person is dozing off to sleep, just waking up, or meditating/praying. ADCs can sometimes be out-of-body experiences, where the living person leaves their body and visits the deceased person wherever they are. This can include physical phenomena such as flashing lights, objects falling off shelves, or appliances turning on.[^10]
 
-The ADC category Mendoza discusses that happened to me is telephone calls. Mendoza states, "These are said to be among the more frequently occurring signs. Calls may occur while awake or asleep. People have reported their phones ringing and hearing messages from the deceased."¹¹ In my case, my landline phone rang, waking two people, and I had a full conversation with my deceased grandfather. I discuss this vivid ADC in detail beginning on page 33.
+The ADC category Mendoza discusses that happened to me is telephone calls. Mendoza states, "These are said to be among the more frequently occurring signs. Calls may occur while awake or asleep. People have reported their phones ringing and hearing messages from the deceased."[^11] In my case, my landline phone rang, waking two people, and I had a full conversation with my deceased grandfather. I discuss this vivid ADC in detail beginning on page 33.
 ***
 Krohn 9
 ### Eyewitness Testimony Is the Best Available Evidence
@@ -158,7 +159,7 @@ It is worth repeating: While use of the scientific method in studying NDEs and A
 Krohn 10
 ## My Story
 
-I have told my unique, yet not unusual, NDE story many times both verbally and in writing, to individuals, to small groups, and to groups of hundreds. Additionally, I have appeared on many podcasts and radio shows reaching large numbers of people. By far, the most extensive telling of my story was in the book *Changed in a Flash*, which I co-authored with Jeffrey J. Kripal.¹²
+I have told my unique, yet not unusual, NDE story many times both verbally and in writing, to individuals, to small groups, and to groups of hundreds. Additionally, I have appeared on many podcasts and radio shows reaching large numbers of people. By far, the most extensive telling of my story was in the book *Changed in a Flash*, which I co-authored with Jeffrey J. Kripal.[^12]
 
 I am telling my story here with a fresh voice, but the facts remain the same. I tried to avoid repetition where I could. I have quoted and cited my own words in certain specific passages from *Changed in a Flash* where I felt I couldn't have worded things differently without losing some of the integrity of my story. Any other similar or same wording to what I wrote in *Changed in a Flash* is due to the nature of personal voice and limited ways to describe the same event.
 
@@ -170,7 +171,7 @@ People throughout the world have near-death experiences every year. Many never o
 
 Even for those who do decide to openly share their experiences, many often keep the story private initially, sometimes for decades. The fear of public ridicule and a perceived loss of credibility can impede many from imparting valuable information about the survival of consciousness after bodily death. This fear of society's judgment deprives humanity of the comfort that the knowledge of the enduring nature of consciousness could bring.
 
-So, it was after much personal introspection and hesitation that I decided, almost thirty years after my near-death experience, to publicly tell my story. I am often asked why I waited so long. When I had my NDE in 1988, society was not nearly as accepting as it is today. In fact, it wasn't until 1975—only thirteen years before my own NDE—that the term “near-death experience" was coined by Dr. Raymond Moody in *Life after Life*.¹³ During the past thirty years, many people have shared their NDE narratives, researchers have studied NDEs, and the media has reported on the stories of experiences and findings from hundreds of studies. The ease with which all of this information is shared is thanks in large part to the advent of the internet. This
+So, it was after much personal introspection and hesitation that I decided, almost thirty years after my near-death experience, to publicly tell my story. I am often asked why I waited so long. When I had my NDE in 1988, society was not nearly as accepting as it is today. In fact, it wasn't until 1975—only thirteen years before my own NDE—that the term “near-death experience" was coined by Dr. Raymond Moody in *Life after Life*.[^13] During the past thirty years, many people have shared their NDE narratives, researchers have studied NDEs, and the media has reported on the stories of experiences and findings from hundreds of studies. The ease with which all of this information is shared is thanks in large part to the advent of the internet. This
 ***
 Krohn 11
 
@@ -221,7 +222,7 @@ I always used to keep an umbrella in the car. I no longer like to use umbrellas,
 
 We had taken just a few steps when the air seemed to suddenly cool and I felt a shiver run through my body. Immediately, I felt a crackling, like static electricity. There was just enough time for me to think, “Oh. This is really bad. This is stupid. I shouldn't be holding an umbrella." I realized a little too late just how foolish it was to be crossing a parking lot in a raging storm holding an umbrella—basically a lightning rod—in my hand. I remember thinking, “Oh, this is actually really, really stupid because look at that. My wedding ring is touching the metal shaft of the umbrella.” All of these thoughts rushed through my mind as I consciously thought, "Let go of the umbrella.” But I couldn't let it go.
 
-It was as if I had somehow beckoned—conjured—what I feared. A small tine of lightning branched off from a larger fork and struck the top of my umbrella. I know this because I was told later by a man who had witnessed the whole thing that he had seen a bolt of lightning with tiny little fingers coming off a larger bolt, and that that is what struck my umbrella first. That tiny finger of electricity did not knock me out. It only served to paralyze my arm and hand around the shaft so that I could not let go of the umbrella even though I desperately wanted to. I later learned that “keraunoparalysis” is the specific type of paralysis I suffered, in which a lightning strike causes a temporary paralysis of the limbs.¹⁴
+It was as if I had somehow beckoned—conjured—what I feared. A small tine of lightning branched off from a larger fork and struck the top of my umbrella. I know this because I was told later by a man who had witnessed the whole thing that he had seen a bolt of lightning with tiny little fingers coming off a larger bolt, and that that is what struck my umbrella first. That tiny finger of electricity did not knock me out. It only served to paralyze my arm and hand around the shaft so that I could not let go of the umbrella even though I desperately wanted to. I later learned that “keraunoparalysis” is the specific type of paralysis I suffered, in which a lightning strike causes a temporary paralysis of the limbs.[^14]
 
 Then the big bolt hit my umbrella.
 
@@ -337,7 +338,7 @@ Krohn 22
 
 then that this gift of incomparable love I felt would be with me forever on some level, regardless of whether I decided to stay there or return to this life.
 
-The following excerpts from *Changed in a Flash*¹⁵ explain how I came to the decision to return to my life on Earth, and the physical trauma of my actual return:
+The following excerpts from *Changed in a Flash*[^15] explain how I came to the decision to return to my life on Earth, and the physical trauma of my actual return:
 > Not all of what I was told there was ethereal in nature. For example, I was told that George H.W. Bush would shortly be our President, and that the Cincinnati Bengals would play in the 1989 Super Bowl. These things might seem minor or even silly to some (American elections and football games in Heaven?), but I don't think that they themselves were the point of the information. That is, I don't think that Heaven is about politics or sports unless the deceased is a former politician or athlete. I think this information was meant to help me to understand the nonlinear nature of time. Having the knowledge of future earthly events taught me that those events had already happened in the past yet still were going to happen again in the future. In short, I was realizing the relativity of time, relative, that is, to where one is in time.
 >
 > It seemed to me that eternity itself was keeping an accounting of time. I understood that since time doesn't really exist as we think it does here on Earth, someone or something in eternity is keeping track of every event that has happened, is happening, and will happen. I understood this concept of simultaneous time while I was in the Garden much more clearly than I do here. This is why, I think, it was so important that I be given information about future events so that if I decided to return to my earthly body, I would have a trigger to remind me of the simultaneous nature of time.
@@ -434,7 +435,7 @@ At this early stage in my new life, it had not yet occurred to me to document th
 
 #### TWA Flight 800
 
-The first plane crash nightmare I had was on July 16, 1996, about eight years after my near-death experience. It rocked me badly. In the nightmare I could see “WA” on the wreckage and thought it was a World Airways flight. I knew there were 230 people on board, none of whom survived. I knew it crashed in water, and I knew it was flight number 800. I called my mom and told her about my nightmare on the morning of July 17, 1996. The next morning, July 18, 1996, Mom called me to tell me to turn on the news, quickly. There it was: TWA Flight 800 had crashed in the Atlantic Ocean with 230 people on board. No survivors.¹⁶ This particular nightmare really upset me because it was eerily accurate down to so many specific details.
+The first plane crash nightmare I had was on July 16, 1996, about eight years after my near-death experience. It rocked me badly. In the nightmare I could see “WA” on the wreckage and thought it was a World Airways flight. I knew there were 230 people on board, none of whom survived. I knew it crashed in water, and I knew it was flight number 800. I called my mom and told her about my nightmare on the morning of July 17, 1996. The next morning, July 18, 1996, Mom called me to tell me to turn on the news, quickly. There it was: TWA Flight 800 had crashed in the Atlantic Ocean with 230 people on board. No survivors.[^16] This particular nightmare really upset me because it was eerily accurate down to so many specific details.
 
 I shared the information with Barry because I was so shaken, even though I knew it would be more than he could handle. He moved out of the house within ten days. Our divorce was final a year later. This particular nightmare did not cause the demise of our marriage, but it sure didn't help. We divorced in 1997, almost nine years after my NDE.
 
@@ -468,7 +469,7 @@ understanding and honest doubts. At 2:57 p.m. Israel Standard Time in Jerusalem,
 
 The following morning, Matt was facing the TV while we were eating breakfast at our hotel. “Oh my God!” he shouted. “Look!” I turned and saw my vision of the day before captured for the world to see: an airplane bobbing on the Hudson River, with people standing on the plane's wings waiting to be rescued.
 
-At 3:31 p.m. New York time, US Airways Flight 1549 piloted by Captain “Sully” Sullenberger had landed on the Hudson River after plowing into a flock of geese shortly after takeoff. This was about seven and a half hours after I sent myself the email. Miraculously, there were no fatalities among the 155 people onboard.¹⁷
+At 3:31 p.m. New York time, US Airways Flight 1549 piloted by Captain “Sully” Sullenberger had landed on the Hudson River after plowing into a flock of geese shortly after takeoff. This was about seven and a half hours after I sent myself the email. Miraculously, there were no fatalities among the 155 people onboard.[^17]
 
 #### A Different Type of Nightmare
 
@@ -512,7 +513,7 @@ I found George on Facebook. He was about to get remarried and looked very happy.
 
 So, why am I telling it now?
 
-Shortly after finding George on Facebook, I was fortunate to be invited to the Esalen Institute in Big Sur, California. It was there that I was introduced to Whitley Strieber.¹⁸ Whitley has written numerous books and hosts several podcasts, my favorite being *Dreamland*,¹⁹ on the topic of UFOs and similar phenomena. He and I became friends while we were at Esalen, and I told him about this particular nightmare because it upset me more than any of the others. Whitley responded with something that changed my entire attitude toward how I can approach nightmares such as this one.
+Shortly after finding George on Facebook, I was fortunate to be invited to the Esalen Institute in Big Sur, California. It was there that I was introduced to Whitley Strieber.[^18] Whitley has written numerous books and hosts several podcasts, my favorite being *Dreamland*,[^19] on the topic of UFOs and similar phenomena. He and I became friends while we were at Esalen, and I told him about this particular nightmare because it upset me more than any of the others. Whitley responded with something that changed my entire attitude toward how I can approach nightmares such as this one.
 
 Whitley said, “Elizabeth, you told me you learned in your NDE that time is simultaneous, right?"
 ***
@@ -530,7 +531,7 @@ It was like a light bulb going on. Of course, Whitley is correct. Unfortunately,
 
 A mom to two young boys when all this started, I was busy all day every day. I didn't approach any of this curious change as some kind of scientific experiment or academic case study. It was not intellectual for me, but rather emotional, and the emotion I most felt was anger. I had no desire to become some radio receiver to the cosmos. I didn't want the moral burden of any of this. But the premonitions continued to plague me, every one of them made of the same stuff—that undeniable knowledge that these tragedies were perfectly true. I had no idea what to do with this unsolicited information. I was frustrated, angry, and determined to get answers. And while I have learned a great deal since these visions of the future started, there is still so much I don't understand.
 
-It has never stopped. Thirty-three years after the lightning strike, these incidents continue, occasionally even when I am wide awake. One day in February of 2003, Matt and I were driving to meet some friends for dinner. I turned to him, grabbed his arm, and said: “Earthquake, an area in western China.” That was on a Sunday evening in Houston. In the early morning hours on Monday, the earthquake hit China. It happened too late for the Monday papers in the United States and was in too distant a rural area to attract media attention, at least as far as we knew. But in the Tuesday paper, there was a brief on the international page about a severe earthquake that had taken place in western China at approximately the same time that I had grabbed Matt's arm and told him it was happening.²⁰
+It has never stopped. Thirty-three years after the lightning strike, these incidents continue, occasionally even when I am wide awake. One day in February of 2003, Matt and I were driving to meet some friends for dinner. I turned to him, grabbed his arm, and said: “Earthquake, an area in western China.” That was on a Sunday evening in Houston. In the early morning hours on Monday, the earthquake hit China. It happened too late for the Monday papers in the United States and was in too distant a rural area to attract media attention, at least as far as we knew. But in the Tuesday paper, there was a brief on the international page about a severe earthquake that had taken place in western China at approximately the same time that I had grabbed Matt's arm and told him it was happening.[^20]
 
 ### Phone Call from the Dead
 
@@ -706,7 +707,7 @@ Krohn 43
 
 black, and all colors in between. I can see this energy as it rises off or emanates from living people. I can also feel it if I close my eyes and put my hand into someone's energy field.
 
-In order to see these auras, I have to unfocus my eyes. A white background aids me in detecting them, although that is not always necessary. A good way to practice seeing auras is to look at the old "Magic Eye” books.²¹ Those picture books have complex abstract patterned pictures that, if you stare at them long enough, will come into focus as a three-dimensional picture of something clearly definable. The trick is to unfocus your eyes and look *through* the picture. Once you get the hang of that, the clear three-dimensional pictures almost pop off the page at you. Auras work the same way for me. For example, I can look at a person, a tree, or a dog and unfocus my eyes to look through the living being. When I do that, the outline of an aura just pops out at me.
+In order to see these auras, I have to unfocus my eyes. A white background aids me in detecting them, although that is not always necessary. A good way to practice seeing auras is to look at the old "Magic Eye” books.[^21] Those picture books have complex abstract patterned pictures that, if you stare at them long enough, will come into focus as a three-dimensional picture of something clearly definable. The trick is to unfocus your eyes and look *through* the picture. Once you get the hang of that, the clear three-dimensional pictures almost pop off the page at you. Auras work the same way for me. For example, I can look at a person, a tree, or a dog and unfocus my eyes to look through the living being. When I do that, the outline of an aura just pops out at me.
 
 The different colors and textures of the auras depend on things like the health and emotional status of the being. Accordingly, the colors and textures of auras change constantly around people. One day I may see a blue steady solid aura around someone, and the next day I see a green wavy aura around the same person. Sometimes the auras shimmer and sparkle. Sometimes they don't.
 
@@ -757,7 +758,7 @@ Because I have such a clear memory of every detail of my NDE, even now thirty-th
 
 ### Observations
 
-The near-death phenomenon has been studied extensively for years by professionals in various areas of expertise. It has been legitimized as an experience that Dr. Bruce Greyson reports happens to about twenty percent of the population that finds themselves near death.²² Twenty percent is a large number of people. Part of having an NDE is being able to remember something, if not everything, about it. And in order to remember it, the experiencer had to be conscious while it was happening. Conscious, yet not here. Conscious, but *in the afterlife*.
+The near-death phenomenon has been studied extensively for years by professionals in various areas of expertise. It has been legitimized as an experience that Dr. Bruce Greyson reports happens to about twenty percent of the population that finds themselves near death.[^22] Twenty percent is a large number of people. Part of having an NDE is being able to remember something, if not everything, about it. And in order to remember it, the experiencer had to be conscious while it was happening. Conscious, yet not here. Conscious, but *in the afterlife*.
 
 One fact I have observed is that for the most part, the researchers who conduct most of the NDE studies are not near-death experiencers themselves. They are professional people from all walks of life who have an interest in the subject for many reasons. But now, forty-six years
 ***
@@ -767,9 +768,9 @@ after Raymond Moody's *Life After Life* gave credibility to the very real idea o
 
 I believe the reason is simple. Experiencers do not *need* to study this phenomenon. They already *know* that consciousness survives death. They've seen it firsthand and have no need to search for answers or evidence.
 
-It seems to me that Dr. Jeffrey Long, who has studied NDEs since 1998 and is the founder of the Near Death Experience Research Foundation, would agree with my theory. In his book *Evidence of the Afterlife: The Science of Near-Death Experiences*, Long expressly states in all caps and bold print, “**EXPERIENCE PROVIDES THE BEST EVIDENCE**.”²³
+It seems to me that Dr. Jeffrey Long, who has studied NDEs since 1998 and is the founder of the Near Death Experience Research Foundation, would agree with my theory. In his book *Evidence of the Afterlife: The Science of Near-Death Experiences*, Long expressly states in all caps and bold print, “**EXPERIENCE PROVIDES THE BEST EVIDENCE**.”[^23]
 
-He then goes on to say, “As far as I'm concerned, it makes perfect sense that the *best* evidence for understanding what happens when we die would come from those who actually *did* nearly die or even experienced clinical death.”²⁴ He follows this statement with, “Listen, and listen *carefully*, to the people who have gone through a near-death experience. They surely are one of the best sources for understanding what awaits us at the brink of death and beyond. Since realizing that fact, I have never looked back.”²⁵
+He then goes on to say, “As far as I'm concerned, it makes perfect sense that the *best* evidence for understanding what happens when we die would come from those who actually *did* nearly die or even experienced clinical death.”[^24] He follows this statement with, “Listen, and listen *carefully*, to the people who have gone through a near-death experience. They surely are one of the best sources for understanding what awaits us at the brink of death and beyond. Since realizing that fact, I have never looked back.”[^25]
 
 Dr. Long is correct. His NDERF study is comprehensive and provides *good* evidence drawn from scores of experiencers of human consciousness surviving death. But, as Long has said, the *best* evidence comes from people like me who have been eyewitnesses to the afterlife, not only in front-row seats, but on stage.
 
@@ -818,9 +819,9 @@ But, how can one know whom to trust? What exactly does “credible” mean? What
 
 It is the same problem presented to judges and juries in the United States and in international justice proceedings. The court is presented with evidence and must decide what constitutes evidence beyond a reasonable doubt. The justice system has determined that *credible eyewitness testimony* supports the legal requirement that establishes proof *beyond a reasonable doubt*.
 
-To determine if a near-death experiencer is credible, or if anyone is really, there are numerous cues or features to look for. According to a 2018 article titled “Want to Know if Someone is Trustworthy? Look for These 15 Signs” in *Inc.com*, some of the traits found in a trustworthy person are consistency, compassion, and humility. A credible person respects boundaries, often compromises, is relaxed, and is respectful of others' time. These people are not materialistic, are not desperate for money, and don't gossip.²⁶ I would add to this list that it's critical to assess the people with whom they associate, as this is often an indication of credibility, or lack thereof.
+To determine if a near-death experiencer is credible, or if anyone is really, there are numerous cues or features to look for. According to a 2018 article titled “Want to Know if Someone is Trustworthy? Look for These 15 Signs” in *Inc.com*, some of the traits found in a trustworthy person are consistency, compassion, and humility. A credible person respects boundaries, often compromises, is relaxed, and is respectful of others' time. These people are not materialistic, are not desperate for money, and don't gossip.[^26] I would add to this list that it's critical to assess the people with whom they associate, as this is often an indication of credibility, or lack thereof.
 
-I would like to call attention to an important point that Raymond Moody made. When he is asked how he knows that people aren't just fabricating NDE stories, he states, “I have witnessed mature, emotionally stable adults—both men and women—break down and weep while telling me of events that happened up to three decades before. I have detected in their voices sincerity, warmth, and feeling which cannot really be conveyed in a written recounting. So to me, in a way that is unfortunately impossible for many others to share, the notion that these accounts might be fabrications is utterly untenable.”²⁷
+I would like to call attention to an important point that Raymond Moody made. When he is asked how he knows that people aren't just fabricating NDE stories, he states, “I have witnessed mature, emotionally stable adults—both men and women—break down and weep while telling me of events that happened up to three decades before. I have detected in their voices sincerity, warmth, and feeling which cannot really be conveyed in a written recounting. So to me, in a way that is unfortunately impossible for many others to share, the notion that these accounts might be fabrications is utterly untenable.”[^27]
 
 If you find a person who is credible in their telling of their own near-death experience and/or after-death communication, that is much more reliable than reading possibly skewed statistical data reported by a third-party researcher. Believe the credible experiencer and trust that they are telling the truth when they say they know that consciousness survives bodily death. They have seen and experienced that survival personally. *Beyond a reasonable doubt*.
 ***
@@ -837,7 +838,7 @@ The answer is:
 
 **The best available evidence that human consciousness survives permanent bodily death is the direct eyewitness testimony (not secondhand reports thereof) of trustworthy people who have experienced temporary bodily death via a Near-Death Experience, who remained conscious throughout the entire experience, returned to this life, and have credibly reported exactly what happened. The ample eyewitness testimony of people who have experienced and credibly reported After-Death Communications adds further enhancement to the incontrovertible evidence of human consciousness surviving permanent bodily death. This direct eyewitness testimony is the only data that meets the legal threshold of evidence beyond a reasonable doubt.**
 
-My goal in sharing my story, finally, after almost thirty years, was mostly to bring eyewitness evidence to others of the knowledge that consciousness lives on. It is difficult for me to be so transparent about my personal experience. I am a private person by nature, but I feel very compelled to share my story. If people who have these experiences don't share them, it deprives society of potential comfort when they need it. Raymond Moody phrases it so well when he says that NDEs “have very profound implications for what every one of us is doing with his life.”²⁸ Clearly, what we do while we are here *matters*. I am hopeful that what I and other near-death experiencers are doing while we are here is helping to provide the *best* available evidence for the survival of human consciousness after bodily death.
+My goal in sharing my story, finally, after almost thirty years, was mostly to bring eyewitness evidence to others of the knowledge that consciousness lives on. It is difficult for me to be so transparent about my personal experience. I am a private person by nature, but I feel very compelled to share my story. If people who have these experiences don't share them, it deprives society of potential comfort when they need it. Raymond Moody phrases it so well when he says that NDEs “have very profound implications for what every one of us is doing with his life."[^28] Clearly, what we do while we are here *matters*. I am hopeful that what I and other near-death experiencers are doing while we are here is helping to provide the *best* available evidence for the survival of human consciousness after bodily death.
 
 It would be unrealistic of me to expect that everyone who hears my story finds it believable. Not everyone who reads or hears near-death experience stories will be convinced. My hope is that by hearing what near-death experiencers have to say about what we have seen and experienced for ourselves, a conversation can be started that will synergistically grow and blossom into an ongoing dialogue that ultimately will yield collective wisdom on the topic.
 ***
@@ -848,64 +849,39 @@ Ideally, the sharing of my story, and others like it, will raise public awarenes
 Krohn 53
 ## References
 
-¹ 2016. The OA. Retrieved from https://www.netflix.com/title/80044950
-
-² Where applicable, I have chosen the use of "they/their/them/themselves" (as opposed to "he/she," "he," etc.) to enable better flow and inclusivity.
-
-³ Beyond a Reasonable Doubt. (n.d.) West's Encyclopedia of American Law, edition 2. (2008). Retrieved July 7 2021 from https://legal-dictionary.thefreedictionary.com/Beyond+a+Reasonable+Doubt
-
-⁴ Moody, R. A. (1975). *Life After Life*. Covington, GA: Mockingbird Books.
-
-⁵ Wixted, John, Micke, Laura. (2017, June 13). Eyewitness Memory Is a Lot More Reliable Than You Think. *Scientific American*. Retrieved from https://scientificamerican.com/article/eyewitness-memory-is-a-lot-more-reliable-than-you-think/.
-
-⁶ 2015, April 25. *Greyson NDE Scale – Quantifying the Phenomenon*. Retrieved from https://iands.org/jupgrade/research/nde-research/important-research-articles/698-greyson-nde-scale.html
-
-⁷ Mays, Robert G, Mays, Suzanne B. (2021, February 28). *A New Scale to Assess Near-Death Experiences – Commentary*, Version 4.
-
-⁸ Long, Jody A. (n.d.). *A New NDE Scale on the Horizon?* Retrieved from https://www.nderf.org/NDERF/Research/nde_c_scale.htm
-
-⁹ van Lommel, P., van Wees, R., Meyers, V., & Elfferich, I. (2001). Near-death experience in survivors of cardiac arrest: a prospective study in the Netherlands. *The Lancet*. 1358, 2039-2045
+[^1]: 2016. The OA. Retrieved from https://www.netflix.com/title/80044950
+[^2]: Where applicable, I have chosen the use of "they/their/them/themselves" (as opposed to "he/she," "he," etc.) to enable better flow and inclusivity.
+[^3]: Beyond a Reasonable Doubt. (n.d.) West's Encyclopedia of American Law, edition 2. (2008). Retrieved July 7 2021 from https://legal-dictionary.thefreedictionary.com/Beyond+a+Reasonable+Doubt
+[^4]: Moody, R. A. (1975). *Life After Life*. Covington, GA: Mockingbird Books.
+[^5]: Wixted, John, Micke, Laura. (2017, June 13). Eyewitness Memory Is a Lot More Reliable Than You Think. *Scientific American*. Retrieved from https://scientificamerican.com/article/eyewitness-memory-is-a-lot-more-reliable-than-you-think/.
+[^6]: 2015, April 25. *Greyson NDE Scale – Quantifying the Phenomenon*. Retrieved from https://iands.org/jupgrade/research/nde-research/important-research-articles/698-greyson-nde-scale.html
+[^7]: Mays, Robert G, Mays, Suzanne B. (2021, February 28). *A New Scale to Assess Near-Death Experiences – Commentary*, Version 4.
+[^8]: Long, Jody A. (n.d.). *A New NDE Scale on the Horizon?* Retrieved from https://www.nderf.org/NDERF/Research/nde_c_scale.htm
+[^9]: van Lommel, P., van Wees, R., Meyers, V., & Elfferich, I. (2001). Near-death experience in survivors of cardiac arrest: a prospective study in the Netherlands. *The Lancet*. 1358, 2039-2045
 ***
 Krohn 54
 
-¹⁰ Mendoza, M. (2017). The Healing Effects of After-Death Communications. *Psychology Today*. Retrieved from https://www.psychologytoday.com/us/blog/understanding-grief/201707/the-healing-effects-after-death-communications
-
-¹¹ Ibid.
-
-¹² Krohn, Elizabeth G., Kripal, Jeffrey J. (2018). *Changed in a Flash. One Woman's Near-Death Experience and Why a Scholar Thinks it Empowers us All*. Berkeley, CA: North Atlantic Books.
-
-¹³ Moody, *Life After Life*.
-
-¹⁴ Cherington, M. (2003). Neurologic Manifestations of Lightning Strikes. *Neurology*, 60, 182-185.
-
-¹⁵ Krohn, E. The two-week conversation, *Changed in a Flash. One Woman's Near-Death Experience and Why a Scholar Thinks it Empowers us All*. North Atlantic Books: Berkeley: CA (2018). (pp. 29-32).
-
-¹⁶ https://en.wikipedia.org/wiki/TWA_Flight_800
-
-¹⁷ Tikkanen, Amy. (2016, December 6). *US Airways flight 1549*. Retrieved from https://www.britannica.com/topic/US-Airways-Flight-1549-incident
-
-¹⁸ Whitley Strieber's website is a repository for most of his work: https://www.unknowncountry.com
-
-¹⁹ Whitley Strieber has numerous podcasts that can be found through his website. My favorite is Dreamland at https://www.unknowncountry.com/podcasts/dreamland/
-
-²⁰ Kahn, J. (2003, February 25). At Least 261 Die in Earthquake in Remote Western China. *New York Times*.
-
-²¹ https://www.magiceye.com.
+[^10]: Mendoza, M. (2017). The Healing Effects of After-Death Communications. *Psychology Today*. Retrieved from https://www.psychologytoday.com/us/blog/understanding-grief/201707/the-healing-effects-after-death-communications
+[^11]: Ibid.
+[^12]: Krohn, Elizabeth G., Kripal, Jeffrey J. (2018). *Changed in a Flash. One Woman's Near-Death Experience and Why a Scholar Thinks it Empowers us All*. Berkeley, CA: North Atlantic Books.
+[^13]: Moody, *Life After Life*.
+[^14]: Cherington, M. (2003). Neurologic Manifestations of Lightning Strikes. *Neurology*, 60, 182-185.
+[^15]: Krohn, E. The two-week conversation, *Changed in a Flash. One Woman's Near-Death Experience and Why a Scholar Thinks it Empowers us All*. North Atlantic Books: Berkeley: CA (2018). (pp. 29-32).
+[^16]: https://en.wikipedia.org/wiki/TWA_Flight_800
+[^17]: Tikkanen, Amy. (2016, December 6). *US Airways flight 1549*. Retrieved from https://www.britannica.com/topic/US-Airways-Flight-1549-incident
+[^18]: Whitley Strieber's website is a repository for most of his work: https://www.unknowncountry.com
+[^19]: Whitley Strieber has numerous podcasts that can be found through his website. My favorite is Dreamland at https://www.unknowncountry.com/podcasts/dreamland/
+[^20]: Kahn, J. (2003, February 25). At Least 261 Die in Earthquake in Remote Western China. *New York Times*.
+[^21]: https://www.magiceye.com.
 ***
 Krohn 55
 
-²² Greyson, B. (2021) The Brain at Death. In, *After* (page 81). New York: St. Martin's Essentials.
-
-²³ Long, J., Perry, P. (2011). *Evidence of the Afterlife. The Science of Near-Death Experiences*. (p. 1) New York: HarperOne
-
-²⁴ Ibid., p. 18
-
-²⁵ Ibid., p. 19
-
-²⁶ Thibodeaux, Wanda. (2018, May 1). Want to Know if Someone is Trustworthy? Look for These 15 Signs. *Inc.com*. Retrieved from https://www.inc.com/wanda-thibodeaux/wantto-know-if-someone-is-trustworthy-look-for-these-15-signs.html.
-
-²⁷ Moody, *Life After Life*, 96-97
-
-²⁸ Moody, *Life After Life*, 125
+[^22]: Greyson, B. (2021) The Brain at Death. In, *After* (page 81). New York: St. Martin's Essentials.
+[^23]: Long, J., Perry, P. (2011). *Evidence of the Afterlife. The Science of Near-Death Experiences*. (p. 1) New York: HarperOne
+[^24]: Ibid., p. 18
+[^25]: Ibid., p. 19
+[^26]: Thibodeaux, Wanda. (2018, May 1). Want to Know if Someone is Trustworthy? Look for These 15 Signs. *Inc.com*. Retrieved from https://www.inc.com/wanda-thibodeaux/wantto-know-if-someone-is-trustworthy-look-for-these-15-signs.html.
+[^27]: Moody, *Life After Life*, 96-97
+[^28]: Moody, *Life After Life*, 125
 
 Cover Art - This is an image I have had on my computer for quite some time. I don't recall where or when I first saw it, but I saved it because it grabbed my attention, and held it. To me, it illustrates beautifully that the eyes are windows to the soul. And when the body dies, the soul reaches out and leaves the human, in this case by way of the eye(s), and consciousness continues on without the human form.
