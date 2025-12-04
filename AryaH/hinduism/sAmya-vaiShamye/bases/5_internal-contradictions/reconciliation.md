@@ -46,6 +46,16 @@ madhva in Rigbhashya reportedly relies on the एकवाक्यता of the
 - Consider the analogous role of myths showing conflicts among the deva-s.
 - Even the mutual bickering among brAhmaNa-s of veda shAkhA-s was harmonized in this way by the sUtra period.
 
+## विकल्पः 
+> विरोधे बल-साम्ये च सति हि  
+गत्यन्तराभावाद् विकल्पः स्वीक्रियते ।  
+न च गुरु-लघुनोर् विकल्पस् संभवति,  
+गुरु-विधायकस्य शास्त्रस्याननुष्ठान-लक्षणाप्रामाण्य-प्रसङ्गात् ।+++(4)+++  
+न हि लघौ सति  
+गुरौ कश्चिद् अपि प्रवर्तते ।
+
+इति वेङ्कटनाथः। 
+
 ## Multi-level understanding
 Multiple appropriate meanings
 

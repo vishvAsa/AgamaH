@@ -10,6 +10,13 @@ A verse or statement that should have been cited by an ancient commentator, but 
 If a text contradicts another by the same author (esp in the same work!), or if it has a very different style, it's suspect.
 
 
+## Action in case of doubt
+> न च प्रत्यक्ष-श्रुति-विरोधे  
+वैदिक-परिगृहीत-बहु-स्मृति-विरोधे च  
+अप्रसिद्ध-स्मृति-मात्रस्य जीवितम् अस्ति ।
+> 
+> इति वेङ्कटनाथार्यः शतदूषण्याम्.
+
 ## Motivation
 
 - Sometimes, marginal comments may come to be inserted into the main text when the manuscript is copied.
@@ -27,6 +34,15 @@ A position adopted by the likes of madhvAcArya is that many works (especially it
 \- \[[MTN](http://mahabharata-resources.org/mbtntrans/chapter_2_gururajahrao.pdf)  2.3\]
 
 vedAntadeshika pointed out that some use fabricated texts, ascribing them to vyAsa.
+
+> अतः, तद्-वचन-कारिषु व्यासादि-समाख्यां सङ्केतेन प्रक्षिप्य  
+धर्म-सूनुर् इव सत्य-वादी भव । …
+> 
+> न च सात्त्वतादिषु सु-रक्षित-कोशासु संहितासु तथाविध-वचन-प्रसङ्गः ।  
+अतो युष्मत्-कूटस्थ-पक्ष-पातिनां प्रक्षेपस् तथा स्याद् वा न वेति  
+समीचीन-दृष्ट्या भावय ।
+> 
+> इति शतदूषण्याम्। 
 
 ### Famous cases
 mahopaniShad, quoted by mAdhvas and rAmAnujIya-s (but not by shankara or early shANkaras, for who it'd be so convenient), currently has an interpolation providing the "finger in front of the eye leading to two moons being seen" example -
