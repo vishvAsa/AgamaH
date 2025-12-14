@@ -200,6 +200,12 @@ In many cases outright kAvya-s masquerade as aitihyas, misleading later naive pr
 ### पुराणापेक्षया बलम्
 अत्र रामानुजीये विस्तारः ([रा](/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/vishvAsaH/pramANAni))। 
 
+धर्माकूतादि-धर्म-शास्त्र-निबन्धनकारस् त्र्यम्बको मख्य् अपि  
+इतिहासापेक्षया, स्मृत्य्-अपेक्षया च  
+पुराणानाम् अवरत्वम् अङ्गीचकार,   
+यद् रावणस्य क्षत्रियत्वम्, अब्राह्मणत्वं च समर्थयामास,  
+ब्रह्महत्याख्यापक-पुराणोपेक्षया।  
+[TW](/rAmAyaNam/vAlmIkIyam/drAviDa-pAThaH/tryambaka-makhI_dharmAkUtam/5_sundarakANDam/006_Apadi_jAtyantarAyAm_utpattiH)
 
 
 ## पुराणम्
