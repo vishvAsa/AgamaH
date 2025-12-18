@@ -9,6 +9,7 @@ A verse or statement that should have been cited by an ancient commentator, but 
 
 If a text contradicts another by the same author (esp in the same work!), or if it has a very different style, it's suspect.
 
+Generally - smaller work => less interpolation.
 
 ## Action in case of doubt
 > न च प्रत्यक्ष-श्रुति-विरोधे  
@@ -54,3 +55,13 @@ shAnkaras invented  shukarahasya "upanishad". Quoted by none in defense before, 
 
 >  "Many parts of Bhavishya purana are original. Some chapters were added in time of Akbar to show him reincarnation of Prithviraj Chauhan. 2 chapters were added by either William Jones or Eric Pargiter to show that British are descendants of Hanuman who were blessed by Bhagvan Ram to rule India. William Jones also removed some key verses of puranas." - bhaviShyapurANa
 
+### rAmAyaNam
+RY kāṇḍa-s 2-6 largely held to be work of the same author, usually with some extra verses in southern manuscripts.
+
+रामायणय् आदित्य-हृदयं प्रक्षिप्तम् इति गोविन्दराजः - 
+
+> अयं च सर्गः केषुचित् कोषेषु न दृश्यते ।  
+उडारिणा न व्याख्यातश् च ।  
+आरम्भात्-प्रभृति प्रबन्ध-प्रतिपादित-नारायण-परत्व-विरुद्धं चात्र प्रतिभाति सूर्य-परत्वम् ।  
+अस्मिंश् च काण्डे त्रिंशद्-उत्तर-शत-सर्गा उडारिणा गणिताः  
+एतद्-अन्तर्भावे एक-त्रिंशद्-उत्तर-शत-सर्गास् तेन गणिता भवेयुः ॥ ३१ ॥
