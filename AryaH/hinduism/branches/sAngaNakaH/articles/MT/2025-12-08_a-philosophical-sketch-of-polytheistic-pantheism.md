@@ -190,3 +190,10 @@ It depends on how you define panentheism. If you define it as the world existing
 
 ## Not advaita
 Monism can be a material monism (like that of Huxley) or an idealistic monism like that of advaita vedAnta. Throughout my philosophical development I have had problems with advaita both in its traditional expression and also my own attempts at reformulating it. The main issue for me is the emergence and maintenance of structure in the physical universe (an illusory object in that tradition). That said I think there are aspects of advaita vedAnta thinking that are philosophically useful: e.g., the convergence with the inference from evolutionary theory that perception has evolved to maximize fitness and not mimic the structure of the universe. Hence, perception is non-veridical, with respect to the actual structure.
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+your "All" is obviously not nir-visheSha/ nirguNa. So shAnkaran advaita is already in the dustbin. 
+
+(Notion that perception does not capture actual reality fully is common to other darshanas.)
+</details>
