@@ -54,7 +54,7 @@ One may ask what is meant by divine in this context? It arouses awe and is the s
 
 > Further, this “All” is immanent, not outside the world
 
-Could be both.
+Could be both. Reg. the universe being just a part of the All - sharIra-sharIri-bhAva may help.
 </details>
 
 
@@ -184,3 +184,9 @@ In conclusion, this sketch is just a prolegomenon and by no means a complete exp
 We have covered certain other aspects, such as the mathematical realm, the connection to number, and the sambandha-s between the macroscopic and the microscopic, at considerable length before. 
 
 In some aspects, the detail presented here is rather insufficient. As and when we find the inspiration, and if the gods are favorable, we will revisit some of them in the future.
+
+## On panentheism
+It depends on how you define panentheism. If you define it as the world existing in the divine while it also exceeds the totality of the world, the I'd say may be. But I find that to be unnecessarily superfluous. Hence, I resort to a simple pantheism, where the other non-material realms are facets of the "All" that still "refract" into the physical universe which is one facet.
+
+## Not advaita
+Monism can be a material monism (like that of Huxley) or an idealistic monism like that of advaita vedAnta. Throughout my philosophical development I have had problems with advaita both in its traditional expression and also my own attempts at reformulating it. The main issue for me is the emergence and maintenance of structure in the physical universe (an illusory object in that tradition). That said I think there are aspects of advaita vedAnta thinking that are philosophically useful: e.g., the convergence with the inference from evolutionary theory that perception has evolved to maximize fitness and not mimic the structure of the universe. Hence, perception is non-veridical, with respect to the actual structure.
