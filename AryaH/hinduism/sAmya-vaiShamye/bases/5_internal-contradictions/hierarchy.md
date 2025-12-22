@@ -2,6 +2,8 @@
 title = "Hierarchy"
 +++
 
+परस्-पर-विरोधे सति तात्पर्यनिर्णयो ऽन्यत्रोक्तः - (reconciliation) : [TW](/mImAMsA/karma-kANDam/12-adhyAyAH/bodhaH/tAtparyanirNayaH) । 
+
 (तत्र तत्र बलीयस्त्व-वाक्यान्य् उदाह्रियन्ते - बील्यस्-स्थाने हि, यथा वेदभागे वेदबलीयस्त्व-वचनम्, स्मृति-भागे स्मृति-बलीयस्त्ववचनम् … । )
 
 ## प्रत्यक्षम् अनुमानोपबृंहितम्
@@ -17,8 +19,8 @@ title = "Hierarchy"
 ### स्मृत्य्-अपेक्षया बलीयस्त्वम्
 jaiminI viewed veda-s as more authoritative than smRti-s, which were considered authoritative only in so far as it does not oppose the veda-s.
 
-> श्रुतिर्हि बलीयस्यानुमानिकादाचारात् ८  
-विप्रतिषेधे श्रुतिलक्षणं +++(सन्ध्याग्निहोत्रादिचोदकम्)+++ बलीयः ९
+> श्रुतिर्हि बलीयस्य् आनुमानिकाद् आचारात् ८  
+विप्रतिषेधे श्रुति-लक्षणं +++(सन्ध्याग्नि-होत्रादि-चोदकम्)+++ बलीयः ९
 
 इत्य् आपस्तम्बः। 
 
@@ -42,21 +44,50 @@ jaiminI viewed veda-s as more authoritative than smRti-s, which were considered 
 
 
 > "या वेदबाह्याः स्मृतयो  
-याश्च कांश्च कुदृष्टयः।  
-सर्वास्ता निष्फलाः प्रेत्य  
-तमोनिष्ठा हि ताः स्मृताः" 
+याश्च काश्च कुदृष्टयः।  
+सर्वास् ता निष्फलाः प्रेत्य  
+तमो-निष्ठा हि ताः स्मृताः" 
 
 इति मनुः। 
 
-> "अनादिम् अव्यवच्छिन्नां श्रुतिम् आहुर् अकर्तृकाम् /शिष्टैर् निबध्यमाना तु न व्यवच्छिद्यते स्मृतिः // वाक्य_१।१७२ //   
-अविभागाद् विवृत्तानाम् अभिख्या स्वप्नवच् छ्रुतौ / भावतत्त्वं तु विज्ञाय लिङ्गेभ्यो विहिता स्मृतिः // वाक्य_१।१७३ //  
+> "अनादिम् अव्यवच्छिन्नां  
+> श्रुतिम् आहुर् अकर्तृकाम् ।  
+> शिष्टैर् निबध्यमाना तु  
+> न व्यवच्छिद्यते स्मृतिः ॥ वाक्य_१।१७२ ॥   
+> अविभागाद् विवृत्तानाम्  
+> अभिख्या-स्वप्नवच् छ्रुतौ ।  
+> भावतत्त्वं तु विज्ञाय  
+> लिङ्गेभ्यो विहिता स्मृतिः ॥ वाक्य_१।१७३ ॥  
 
 
 medhAtithi commenting on manu smRti repeatedly states the greater authority of vedic injunctions in case of apparent conflicts \[Eg - [4.176](https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200281.html)\].
 
-- Certain cases where the smRti diverges from shruti are considered by shabara \[[6.1.13e](https://archive.org/stream/ShabaraBhasyaTrByGanganathJha/Shabara%20Bhasya%20tr%20by%20Ganganath%20Jha%20Vol%202#page/n289/mode/2up), [TW](https://twitter.com/GhorAngirasa/status/864525895784169475)\].
+- Certain cases where the smRti diverges from shruti are considered by shabara \[[6.1.13e](https://archive.org/stream/ShabaraBhasyaTrByGanganathJha/Shabara%20Bhasya%20tr%20by%20Ganganath%20Jha%20Vol%202#page/n289।mode/2up), [TW](https://twitter.com/GhorAngirasa/status/864525895784169475)\].
 
 Other quotes in BG 16.
+
+#### कलिवर्ज्यादौ
+> गवालम्भो ऽश्वालम्भस्, सन्न्यासश् च वेदोक्ताः,  
+कथं कयाचिद् अपि स्मृत्या कलाव् अपि प्रतिषेद्धुं शक्याः?  
+
+इत्य् आकाङ्क्षायाम् -  
+"नात्र प्रतिषेधः शक्य" इत्येव न्याय्यम् -  
+न हि स्मृत्य्-अनुरोधेन श्रुतिर् विकार्या सङ्कोच्या वा।  
+प्रत्युत, श्रुत्य्-अनुरोधेन, तद्-व्याख्यान-मात्र-रूपेण वा स्मृतिर् नेया -  
+यथा, युगेऽस्मिन् श्रुत्य्-उक्त-गवालम्भादि-कर्मसु,  
+श्रुत्य्-उक्त एवाधिकारि-विशेषो ज्ञेयः,  
+योऽस्मिन् युगे दुर्लभः।  
+
+यथा - तत्-कर्म-कृच् छिष्टश् चेत्,  
+श्रुत्य्-उक्त-रीत्या लोक-सङ्ग्रह-करः स्यात्,  
+सद्-अधिकारि-दौर्लभ्याल् लोक-विद्विष्टे कर्मण्य् अनुष्ठिते  
+शास्त्र-द्वेष—स्वाधिकारित्व-मोहादि-रूपो लोक-विभ्रमस् स्यात्।  
+
+अन्यथा चेद् अशिष्टत्वाद् यथोक्ताचरणे स्वतन्त्रः,  
+तत्-कर्म-साधने भोक्त्र्-आदि-लाभे ऽत्यन्तं काठिन्यं स्यात्।  
+तादृशम् एवाधिकारि-दौर्लभ्यं श्रुतीष्टम् एव स्मृत्या विवक्षितम् इति गृहीतुं युक्तम्,  
+न तु सर्वथा तत्-तच्-छ्रुत्य्-उक्त-कर्मानुष्ठाने निषेधः।  
+अत एव कलाव् अप्य् अदृश्यन्त सन्तः सन्न्यासाश्रमस्थाः। 
 
 ### उपनिषदः
 उपनिषत्सु प्रसिद्धाः प्रतिष्ठिततरास् सर्वैर् बहुमता, इतरे न।
@@ -223,7 +254,7 @@ In many cases outright kAvya-s masquerade as aitihyas, misleading later naive pr
 > मद्वयं भद्वयं चैव ब्रत्रयं वचतुष्टयम् ।  
 अनापलिङ्गकूस्कानि पुराणानि प्रचक्षते ।।
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)<।summary>
 
 - मद्वयम्  
   - १- मत्स्य (१)
@@ -260,7 +291,7 @@ In many cases outright kAvya-s masquerade as aitihyas, misleading later naive pr
   - स्कन्द (१८)
 
 एकस्मिन्नेव श्लोके अष्टादशपुराणपरिचयः।
-</details>
+<।details>
 
 
 > Shiva purana is the latest entrant to the 18 purana list - replacing the much older vayu purana - post-gupta-era. As late as Harsha charita, vayu purana was in major use.  In the list of 18 we have today, vayu is replaced by siva.
