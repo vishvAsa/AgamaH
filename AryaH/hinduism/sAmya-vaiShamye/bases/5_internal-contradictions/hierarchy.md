@@ -14,7 +14,9 @@ title = "Hierarchy"
 एवम् पतिर् वा पिता वाऽपि सद्-आचारं न रुन्ध्यात्। 
 
 ## वेदाः
-नाना-सम्प्रदायानां पुराणेषु (इतिहासेषु च) प्रक्षेपाणाम् अस्तित्वम् अङ्गीकृतम्। न तथा वेदेषु।  
+वेद-प्रामाण्य-विचारो [ऽन्यत्र](/vedAH/meta/correctness) । 
+
+नाना-सम्प्रदायानां पुराणेषु (इतिहासेषु च) प्रक्षेपाणाम् अस्तित्वम् अङ्गीकृतम्। न तथा वेदेषु।
 
 ### स्मृत्य्-अपेक्षया बलीयस्त्वम्
 jaiminI viewed veda-s as more authoritative than smRti-s, which were considered authoritative only in so far as it does not oppose the veda-s.
