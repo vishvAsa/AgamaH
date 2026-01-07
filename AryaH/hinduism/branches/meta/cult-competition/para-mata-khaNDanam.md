@@ -2,32 +2,18 @@
 title = "पर-मत-खण्डनम्"
 +++
 
+## Challenges and debates
+A tradition which values challenges and confidently challenges others, is superior to one which doesn't, and hides behind red herrings such as "see we don't publicize/ don't debate, so we're OG".
+
+Some traditions are naturally fraudulent and hollow - much to be reticent about.
+
+Eg. we have yogi-s bullshitting about abilities to cure AIDS, flying in the sky and so on;  
+while folks such as that 19yo daNDa-krama reciter open themselves to objective testing and reality-checks.
+
+
 ## आगमिक-शैवाः
 सर्वात्म-शम्भोः सिद्धान्त-प्रकाशिकायाम् [अत्र](/AgamaH_shaivaH/sampradAyaH/28-Agama-sampradAyaH/tattvam/sampradAyaH/aShTa-prakaraNa-shAkhA/parichaya-sanxepaH/sarvAtma-shambhu-siddhAnta-prakAshikA) - "**कौल-यामलादि-शास्त्राणां** हिंसा-मैथुन-सङ्गमस्य सम्भवात्  
 **पिशाचादि-पद-प्राप्तिः** स्यात्।" इत्य् अप्य् उक्तम्!
 
-## श्रीवैष्णवाः
-### वेदान्त-देशिक-वेङ्कटनाथः
-सङ्कल्पसूर्योदये [वादयति](/kAvyam/laxyam/rUpakam/sankalpa-sUryodayaH/sarva-prastutiH/02_pratimata-bhangaH/) -
-
-> किन्तु वर्णाश्रम-जाति-गोत्र-प्रवर-कुल-चरण-देश-काल-विषयादि-भेदेन  
-**व्यवस्थितैव** हि **विधि-निषेध-मर्यादा** ।  
-तद् अहम् इदानीं परिगृहीत-नियमानुगुणं  
-स्वयं विपक्ष-निरसनम् **अकुर्वाणः**  
-कौशिक इव राघवं त्वां **पुरस्कृत्य** +++(→कौशिक-वेङ्कटनाथस्यापि सूचना!)+++  
-कु-दृष्टीन् बाह्यांश् च **निराचिकीर्षामि** ।+++(5)+++ तत्र च,
->
-> **दूरे भवतु** ते वीर  
-जल्पः सह वितण्डया ।  
-त्वम् एव स्थिर-वादात्मा  
-**निरुन्द्धि** परिपन्थिनः ॥ १७ ॥+++(5)+++
->
-> अथवा त्वया मन्-निदेशानुवर्तिना  
-कौशिक-नियमितेन राघवेणेव  
-**साधिकारेण**
-यथा-विधि वीत-राग-कथानावसरे  
-वेदेश्वर-विदूषकाः सर्वे  
-तत्त्वाध्यवसाय-संरक्षणार्थम्  
-अनुज्ञाताभ्यां बलातिबलाभ्याम् इव  
-**जल्प-वितण्डाभ्याम् अपि जेतव्याः** ।
-
+## सम्प्रदायान्तरे
+श्रीवैष्णवाः - [अत्र](/rAmAnujIyam/kriyA/venkaTa-nAtha-shAkhA/vishvAsa-sankalanam/vAde_bhAvaH) दृश्यताम्।  
